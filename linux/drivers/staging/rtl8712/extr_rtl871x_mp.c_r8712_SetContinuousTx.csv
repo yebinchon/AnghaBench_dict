@@ -1,0 +1,12 @@
+MPT_RATE_11M,VAR_0
+MPT_RATE_6M,VAR_1
+MPT_RATE_MCS15,VAR_2
+SetCCKContinuousTx,FUNC_0
+SetOFDMContinuousTx,FUNC_1
+msleep,FUNC_2
+r8712_bb_reg_read,FUNC_3
+r8712_bb_reg_write,FUNC_4
+rRx_Wait_CCCA,VAR_3
+r8712_SetContinuousTx,FUNC_5
+pAdapter,VAR_4
+bStart,VAR_5

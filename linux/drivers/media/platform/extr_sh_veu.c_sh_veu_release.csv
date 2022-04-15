@@ -1,0 +1,15 @@
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_0
+V4L2_BUF_TYPE_VIDEO_OUTPUT,VAR_1
+dev_dbg,FUNC_0
+kfree,FUNC_1
+pm_runtime_put,FUNC_2
+v4l2_fh_del,FUNC_3
+v4l2_fh_exit,FUNC_4
+v4l2_m2m_ctx_release,FUNC_5
+v4l2_m2m_get_vq,FUNC_6
+vb2_queue_release,FUNC_7
+video_drvdata,FUNC_8
+sh_veu_release,FUNC_9
+file,VAR_2
+veu,VAR_3
+veu_file,VAR_4

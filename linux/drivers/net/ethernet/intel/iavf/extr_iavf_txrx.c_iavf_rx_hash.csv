@@ -1,0 +1,14 @@
+IAVF_RX_DESC_FLTSTAT_RSS_HASH,VAR_0
+IAVF_RX_DESC_STATUS_FLTSTAT_SHIFT,VAR_1
+NETIF_F_RXHASH,VAR_2
+cpu_to_le64,FUNC_0
+iavf_ptype_to_htype,FUNC_1
+le32_to_cpu,FUNC_2
+skb_set_hash,FUNC_3
+iavf_rx_hash,FUNC_4
+ring,VAR_3
+rx_desc,VAR_4
+skb,VAR_5
+rx_ptype,VAR_6
+hash,VAR_7
+rss_mask,VAR_8

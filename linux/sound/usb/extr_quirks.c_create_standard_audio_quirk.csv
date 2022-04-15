@@ -1,0 +1,13 @@
+USB_ID,FUNC_0
+get_iface_desc,FUNC_1
+snd_usb_parse_audio_interface,FUNC_2
+usb_audio_err,FUNC_3
+usb_set_interface,FUNC_4
+create_standard_audio_quirk,FUNC_5
+chip,VAR_0
+iface,VAR_1
+driver,VAR_2
+quirk,VAR_3
+alts,VAR_4
+altsd,VAR_5
+err,VAR_6

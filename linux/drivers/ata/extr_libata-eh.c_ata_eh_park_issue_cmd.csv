@@ -1,0 +1,15 @@
+ATA_CMD_CHK_POWER,VAR_0
+ATA_CMD_IDLEIMMEDIATE,VAR_1
+ATA_PROT_NODATA,VAR_2
+ATA_TFLAG_DEVICE,VAR_3
+ATA_TFLAG_ISADDR,VAR_4
+DMA_NONE,VAR_5
+ata_dev_err,FUNC_0
+ata_exec_internal,FUNC_1
+ata_tf_init,FUNC_2
+ata_eh_park_issue_cmd,FUNC_3
+dev,VAR_6
+park,VAR_7
+ehc,VAR_8
+tf,VAR_9
+err_mask,VAR_10

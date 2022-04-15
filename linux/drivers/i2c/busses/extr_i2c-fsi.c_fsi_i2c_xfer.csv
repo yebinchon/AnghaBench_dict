@@ -1,0 +1,16 @@
+fsi_i2c_set_port,FUNC_0
+fsi_i2c_start,FUNC_1
+fsi_i2c_wait,FUNC_2
+jiffies,VAR_0
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+fsi_i2c_xfer,FUNC_5
+adap,VAR_1
+msgs,VAR_2
+num,VAR_3
+i,VAR_4
+rc,VAR_5
+start_time,VAR_6
+port,VAR_7
+master,VAR_8
+msg,VAR_9

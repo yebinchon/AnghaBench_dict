@@ -1,0 +1,15 @@
+BP_SRC_SCR_CORE1_ENABLE,VAR_0
+BP_SRC_SCR_CORE1_RST,VAR_1
+SRC_SCR,VAR_2
+cpu_logical_map,FUNC_0
+readl_relaxed,FUNC_1
+scr_lock,VAR_3
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+src_base,VAR_4
+writel_relaxed,FUNC_4
+imx_enable_cpu,FUNC_5
+cpu,VAR_5
+enable,VAR_6
+mask,VAR_7
+val,VAR_8

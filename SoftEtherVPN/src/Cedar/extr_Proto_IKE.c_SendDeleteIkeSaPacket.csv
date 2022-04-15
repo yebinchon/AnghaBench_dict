@@ -1,0 +1,13 @@
+IKE_PROTOCOL_ID_IKE,VAR_0
+IkeNewDeletePayload,FUNC_0
+NewBuf,FUNC_1
+NewListSingle,FUNC_2
+SendInformationalExchangePacket,FUNC_3
+WriteBufInt64,FUNC_4
+SendDeleteIkeSaPacket,FUNC_5
+ike,VAR_1
+c,VAR_2
+init_cookie,VAR_3
+resp_cookie,VAR_4
+payload,VAR_5
+buf,VAR_6

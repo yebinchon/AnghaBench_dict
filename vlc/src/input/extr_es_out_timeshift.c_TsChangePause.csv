@@ -1,0 +1,11 @@
+assert,FUNC_0
+es_out_SetPauseState,FUNC_1
+vlc_cond_signal,FUNC_2
+vlc_mutex_lock,FUNC_3
+vlc_mutex_unlock,FUNC_4
+TsChangePause,FUNC_5
+p_ts,VAR_0
+b_source_paused,VAR_1
+b_paused,VAR_2
+i_date,VAR_3
+i_ret,VAR_4

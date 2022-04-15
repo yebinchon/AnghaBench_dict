@@ -1,0 +1,10 @@
+SCTP_PARAM_RESET_TSN_REQUEST,VAR_0
+htonl,FUNC_0
+htons,FUNC_1
+sctp_addto_chunk,FUNC_2
+sctp_make_reconf,FUNC_3
+sctp_make_strreset_tsnreq,FUNC_4
+asoc,VAR_1
+tsnreq,VAR_2
+length,VAR_3
+retval,VAR_4

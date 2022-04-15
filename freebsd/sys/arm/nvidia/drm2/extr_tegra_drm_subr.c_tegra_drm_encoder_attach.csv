@@ -1,0 +1,15 @@
+DRM_CONNECTOR_POLL_CONNECT,VAR_0
+DRM_CONNECTOR_POLL_DISCONNECT,VAR_1
+ENXIO,VAR_2
+M_OFWPROP,VAR_3
+OF_device_from_xref,FUNC_0
+OF_getencprop,FUNC_1
+OF_getencprop_alloc,FUNC_2
+device_printf,FUNC_3
+free,FUNC_4
+gpio_pin_get_by_ofw_property,FUNC_5
+tegra_drm_encoder_attach,FUNC_6
+output,VAR_4
+node,VAR_5
+rv,VAR_6
+ddc,VAR_7

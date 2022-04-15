@@ -1,0 +1,14 @@
+UV_NMI_STATE_IN,VAR_0
+atomic_read,FUNC_0
+cpumask_pr_args,FUNC_1
+cpumask_weight,FUNC_2
+num_online_cpus,FUNC_3
+pr_alert,FUNC_4
+this_cpu_write,FUNC_5
+uv_cpu_nmi,VAR_1
+uv_nmi_cpu_mask,VAR_2
+uv_nmi_cpus_in_nmi,VAR_3
+uv_nmi_nr_cpus_ping,FUNC_6
+uv_nmi_wait_cpus,FUNC_7
+uv_nmi_wait,FUNC_8
+master,VAR_4

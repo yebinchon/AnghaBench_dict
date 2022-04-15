@@ -1,0 +1,14 @@
+SKL_DISP_PW_1,VAR_0
+gen9_dbuf_disable,FUNC_0
+gen9_disable_dc_states,FUNC_1
+intel_cdclk_uninit,FUNC_2
+intel_combo_phy_uninit,FUNC_3
+intel_power_well_disable,FUNC_4
+lookup_power_well,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+usleep_range,FUNC_8
+cnl_display_core_uninit,FUNC_9
+dev_priv,VAR_1
+power_domains,VAR_2
+well,VAR_3

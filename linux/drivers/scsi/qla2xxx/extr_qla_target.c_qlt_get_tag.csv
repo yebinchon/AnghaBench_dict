@@ -1,0 +1,17 @@
+QLA_TGT_STATE_NEW,VAR_0
+TYPE_TGT_CMD,VAR_1
+get_jiffies_64,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+qlt_assign_qpair,FUNC_3
+qlt_incr_num_pend_cmds,FUNC_4
+sbitmap_queue_get,FUNC_5
+scsilun_to_int,FUNC_6
+qlt_get_tag,FUNC_7
+vha,VAR_2
+sess,VAR_3
+atio,VAR_4
+se_sess,VAR_5
+cmd,VAR_6
+tag,VAR_7
+cpu,VAR_8

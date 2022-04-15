@@ -1,0 +1,15 @@
+ACPI_ALLOCATE,FUNC_0
+ACPI_ERROR,FUNC_1
+ACPI_INFO,FUNC_2
+ACPI_PTR_TO_PHYSADDR,FUNC_3
+ACPI_TABLE_ORIGIN_INTERNAL_VIRTUAL,VAR_0
+AE_INFO,VAR_1
+acpi_gbl_dsdt_index,VAR_2
+acpi_gbl_root_table_list,VAR_3
+acpi_tb_init_table_descriptor,FUNC_4
+acpi_tb_uninstall_table,FUNC_5
+memcpy,FUNC_6
+acpi_tb_copy_dsdt,FUNC_7
+table_index,VAR_4
+new_table,VAR_5
+table_desc,VAR_6

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOENT,VAR_1
+KS_EEPROM_MAGIC,VAR_2
+eeprom_93cx6_read,FUNC_0
+eeprom_93cx6_wren,FUNC_1
+eeprom_93cx6_write,FUNC_2
+ks8851_eeprom_claim,FUNC_3
+ks8851_eeprom_release,FUNC_4
+netdev_priv,FUNC_5
+ks8851_set_eeprom,FUNC_6
+dev,VAR_3
+ee,VAR_4
+data,VAR_5
+ks,VAR_6
+offset,VAR_7
+len,VAR_8
+tmp,VAR_9

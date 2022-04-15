@@ -1,0 +1,12 @@
+eprintf,FUNC_0
+get_xnu_thread,FUNC_1
+x86_THREAD_STATE32,VAR_0
+x86_THREAD_STATE64,VAR_1
+xnu_thread_get_gpr,FUNC_2
+xnu_thread_set_gpr,FUNC_3
+xnu_x86_hwstep_enable64,FUNC_4
+dbg,VAR_2
+enable,VAR_3
+state,VAR_4
+ret,VAR_5
+th,VAR_6

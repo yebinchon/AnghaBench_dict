@@ -1,0 +1,15 @@
+IO_UNIT_STRIPE_END,VAR_0
+R5C_LOG_TIGHT,VAR_1
+__r5l_set_io_unit_state,FUNC_0
+r5l_complete_finished_ios,FUNC_1
+r5l_reclaimable_space,FUNC_2
+r5l_wake_reclaim,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+test_bit,FUNC_6
+wake_up,FUNC_7
+__r5l_stripe_write_finished,FUNC_8
+io,VAR_2
+log,VAR_3
+conf,VAR_4
+flags,VAR_5

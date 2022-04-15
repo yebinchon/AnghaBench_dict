@@ -1,0 +1,16 @@
+HID_RESET_PENDING,VAR_0
+clear_bit,FUNC_0
+hid_io_error,FUNC_1
+hid_set_idle,FUNC_2
+hid_start_in,FUNC_3
+interface_to_usbdev,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+usb_get_intfdata,FUNC_7
+usbhid_restart_queues,FUNC_8
+hid_post_reset,FUNC_9
+intf,VAR_1
+dev,VAR_2
+hid,VAR_3
+usbhid,VAR_4
+status,VAR_5

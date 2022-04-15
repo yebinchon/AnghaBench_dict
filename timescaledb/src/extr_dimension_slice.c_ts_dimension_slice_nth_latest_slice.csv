@@ -1,0 +1,17 @@
+AccessShareLock,VAR_0
+Anum_dimension_slice_dimension_id_range_start_range_end_idx_dimension_id,VAR_1
+BTEqualStrategyNumber,VAR_2
+BackwardScanDirection,VAR_3
+CurrentMemoryContext,VAR_4
+DIMENSION_SLICE_DIMENSION_ID_RANGE_START_RANGE_END_IDX,VAR_5
+F_INT4EQ,VAR_6
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+dimension_slice_nth_tuple_found,VAR_7
+dimension_slice_scan_limit_direction_internal,FUNC_2
+ts_dimension_slice_nth_latest_slice,FUNC_3
+dimension_id,VAR_8
+n,VAR_9
+scankey,VAR_10
+num_tuples,VAR_11
+ret,VAR_12

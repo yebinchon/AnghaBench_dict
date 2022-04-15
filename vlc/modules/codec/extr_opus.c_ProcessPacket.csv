@@ -1,0 +1,16 @@
+BLOCK_FLAG_CORRUPTED,VAR_0
+BLOCK_FLAG_DISCONTINUITY,VAR_1
+BLOCK_FLAG_END_OF_SEQUENCE,VAR_2
+DecodePacket,FUNC_0
+Flush,FUNC_1
+VLC_TICK_INVALID,VAR_3
+block_Release,FUNC_2
+date_Get,FUNC_3
+date_Set,FUNC_4
+ProcessPacket,FUNC_5
+p_dec,VAR_4
+p_oggpacket,VAR_5
+p_block,VAR_6
+p_sys,VAR_7
+i_max_duration,VAR_8
+p_aout_buffer,VAR_9

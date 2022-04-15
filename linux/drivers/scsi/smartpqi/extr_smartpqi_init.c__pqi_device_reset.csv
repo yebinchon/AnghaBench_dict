@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+FAILED,VAR_1
+NO_TIMEOUT,VAR_2
+PQI_LUN_RESET_PENDING_IO_TIMEOUT_SECS,VAR_3
+PQI_LUN_RESET_RETRIES,VAR_4
+PQI_LUN_RESET_RETRY_INTERVAL_MSECS,VAR_5
+SUCCESS,VAR_6
+msleep,FUNC_0
+pqi_device_wait_for_pending_io,FUNC_1
+pqi_lun_reset,FUNC_2
+_pqi_device_reset,FUNC_3
+ctrl_info,VAR_7
+device,VAR_8
+rc,VAR_9
+retries,VAR_10
+timeout_secs,VAR_11

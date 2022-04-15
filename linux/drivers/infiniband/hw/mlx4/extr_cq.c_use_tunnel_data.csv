@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+IB_WC_GRH,VAR_1
+IB_WC_WITH_SMAC,VAR_2
+IB_WC_WITH_VLAN,VAR_3
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+ib_dma_sync_single_for_cpu,FUNC_2
+memcpy,FUNC_3
+use_tunnel_data,FUNC_4
+qp,VAR_4
+cq,VAR_5
+wc,VAR_6
+tail,VAR_7
+cqe,VAR_8
+is_eth,VAR_9
+hdr,VAR_10

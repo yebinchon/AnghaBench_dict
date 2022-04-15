@@ -1,0 +1,8 @@
+assert_no_reflog_update,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+git_config_free,FUNC_2
+git_config_set_bool,FUNC_3
+git_repository_config,FUNC_4
+test_refs_reflog_reflog__logallrefupdates_bare_set_false,FUNC_5
+config,VAR_1

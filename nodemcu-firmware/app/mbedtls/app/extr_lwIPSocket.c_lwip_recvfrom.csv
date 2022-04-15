@@ -1,0 +1,15 @@
+NETCONN_STATE_ESTABLISHED,VAR_0
+get_socket,FUNC_0
+lwIP_ASSERT,FUNC_1
+ringbuf_bytes_used,FUNC_2
+ringbuf_memcpy_from,FUNC_3
+lwip_recvfrom,FUNC_4
+s,VAR_1
+mem,VAR_2
+len,VAR_3
+flags,VAR_4
+from,VAR_5
+fromlen,VAR_6
+sock,VAR_7
+bytes_used,VAR_8
+is_tcp,VAR_9

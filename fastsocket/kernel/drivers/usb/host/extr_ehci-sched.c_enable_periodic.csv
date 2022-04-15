@@ -1,0 +1,14 @@
+CMD_PSE,VAR_0
+HC_STATE_RUNNING,VAR_1
+STS_PSS,VAR_2
+ehci_readl,FUNC_0
+ehci_to_hcd,FUNC_1
+ehci_writel,FUNC_2
+handshake_on_error_set_halt,FUNC_3
+ktime_get_real,FUNC_4
+unlikely,FUNC_5
+usb_hc_died,FUNC_6
+enable_periodic,FUNC_7
+ehci,VAR_3
+cmd,VAR_4
+status,VAR_5

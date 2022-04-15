@@ -1,0 +1,15 @@
+R92C_POWER_STATUS,VAR_0
+RTWN_FW_LOADED,VAR_1
+RTWN_RATECTL_FW,VAR_2
+RTWN_RATECTL_NET80211,VAR_3
+RTWN_RATECTL_NONE,VAR_4
+callout_reset,FUNC_0
+r92c_handle_c2h_report,VAR_5
+r92c_iq_calib,FUNC_1
+r92c_lc_calib,FUNC_2
+r92c_pa_bias_init,FUNC_3
+rtwn_write_1,FUNC_4
+rtwn_write_4,FUNC_5
+r92cu_post_init,FUNC_6
+sc,VAR_6
+rs,VAR_7

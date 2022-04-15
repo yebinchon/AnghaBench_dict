@@ -1,0 +1,17 @@
+UART_IER_MSI,VAR_0
+UART_MSR,VAR_1
+UART_MSR_ANY_DELTA,VAR_2
+UART_MSR_CTS,VAR_3
+UART_MSR_DCD,VAR_4
+UART_MSR_DCTS,VAR_5
+UART_MSR_DDCD,VAR_6
+UART_MSR_DDSR,VAR_7
+UART_MSR_TERI,VAR_8
+serial_in,FUNC_0
+uart_handle_cts_change,FUNC_1
+uart_handle_dcd_change,FUNC_2
+wake_up_interruptible,FUNC_3
+serial8250_modem_status,FUNC_4
+up,VAR_9
+port,VAR_10
+status,VAR_11

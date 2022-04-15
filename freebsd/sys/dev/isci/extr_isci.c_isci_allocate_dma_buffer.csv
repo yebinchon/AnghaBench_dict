@@ -1,0 +1,17 @@
+BUS_DMA_ZERO,VAR_0
+BUS_SPACE_MAXADDR,VAR_1
+EINVAL,VAR_2
+ENOMEM,VAR_3
+ISCI_DMA_BOUNDARY,VAR_4
+bus_dma_tag_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+bus_get_dma_tag,FUNC_3
+busdma_lock_mutex,VAR_5
+isci_allocate_dma_buffer_callback,VAR_6
+isci_log_message,FUNC_4
+isci_allocate_dma_buffer,FUNC_5
+device,VAR_7
+controller,VAR_8
+memory,VAR_9
+status,VAR_10

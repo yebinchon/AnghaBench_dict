@@ -1,0 +1,9 @@
+PESQI_CLK_CTRL_REG,VAR_0
+PESQI_CLK_EN,VAR_1
+PESQI_CONF_REG,VAR_2
+PESQI_EN,VAR_3
+pic32_setbits,FUNC_0
+spi_master_get_devdata,FUNC_1
+pic32_sqi_prepare_hardware,FUNC_2
+master,VAR_4
+sqi,VAR_5

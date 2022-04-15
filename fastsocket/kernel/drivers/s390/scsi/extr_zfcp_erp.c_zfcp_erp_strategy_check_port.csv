@@ -1,0 +1,14 @@
+ZFCP_ERP_EXIT,VAR_0
+ZFCP_MAX_ERPS,VAR_1
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_2
+ZFCP_STATUS_COMMON_NOESC,VAR_3
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+dev_err,FUNC_3
+zfcp_erp_port_block,FUNC_4
+zfcp_erp_port_failed,FUNC_5
+zfcp_erp_port_unblock,FUNC_6
+zfcp_erp_strategy_check_port,FUNC_7
+port,VAR_4
+result,VAR_5

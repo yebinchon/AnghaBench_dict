@@ -1,0 +1,11 @@
+acpi_disable_gpe,FUNC_0
+acpi_remove_gpe_handler,FUNC_1
+applespi_drain_reads,FUNC_2
+applespi_drain_writes,FUNC_3
+applespi_notify,VAR_0
+debugfs_remove_recursive,FUNC_4
+device_wakeup_disable,FUNC_5
+spi_get_drvdata,FUNC_6
+applespi_remove,FUNC_7
+spi,VAR_1
+applespi,VAR_2

@@ -1,0 +1,12 @@
+ABORT_IOCB_TYPE,VAR_0
+MAKE_HANDLE,FUNC_0
+cpu_to_le16,FUNC_1
+cpu_to_le32,FUNC_2
+memset,FUNC_3
+wmb,FUNC_4
+qla24xx_abort_iocb,FUNC_5
+sp,VAR_1
+abt_iocb,VAR_2
+aio,VAR_3
+vha,VAR_4
+req,VAR_5

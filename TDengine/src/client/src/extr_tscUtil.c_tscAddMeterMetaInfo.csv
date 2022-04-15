@@ -1,0 +1,17 @@
+POINTER_BYTES,VAR_0
+TSDB_METER_ID_LEN,VAR_1
+assert,FUNC_0
+calloc,FUNC_1
+memcpy,FUNC_2
+realloc,FUNC_3
+strcpy,FUNC_4
+strlen,FUNC_5
+tscAddMeterMetaInfo,FUNC_6
+pCmd,VAR_2
+name,VAR_3
+pMeterMeta,VAR_4
+pMetricMeta,VAR_5
+numOfTags,VAR_6
+tags,VAR_7
+pAlloc,VAR_8
+pMeterMetaInfo,VAR_9

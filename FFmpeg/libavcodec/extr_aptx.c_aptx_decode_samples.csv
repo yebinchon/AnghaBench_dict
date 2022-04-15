@@ -1,0 +1,15 @@
+AV_RB16,FUNC_0
+AV_RB24,FUNC_1
+NB_CHANNELS,VAR_0
+aptx_check_parity,FUNC_2
+aptx_decode_channel,FUNC_3
+aptx_generate_dither,FUNC_4
+aptx_invert_quantize_and_prediction,FUNC_5
+aptx_unpack_codeword,FUNC_6
+aptxhd_unpack_codeword,FUNC_7
+aptx_decode_samples,FUNC_8
+ctx,VAR_1
+input,VAR_2
+samples,VAR_3
+channel,VAR_4
+ret,VAR_5

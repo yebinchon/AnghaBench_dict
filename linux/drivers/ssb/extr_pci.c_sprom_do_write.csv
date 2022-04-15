@@ -1,0 +1,17 @@
+SSB_SPROMCTL,VAR_0
+SSB_SPROMCTL_WE,VAR_1
+msleep,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+pr_cont,FUNC_3
+pr_err,FUNC_4
+pr_notice,FUNC_5
+writew,FUNC_6
+sprom_do_write,FUNC_7
+bus,VAR_2
+sprom,VAR_3
+pdev,VAR_4
+i,VAR_5
+err,VAR_6
+spromctl,VAR_7
+size,VAR_8

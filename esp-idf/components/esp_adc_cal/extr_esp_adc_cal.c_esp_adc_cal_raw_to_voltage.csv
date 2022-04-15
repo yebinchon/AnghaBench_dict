@@ -1,0 +1,16 @@
+ADC_12_BIT_RES,VAR_0
+ADC_ATTEN_DB_11,VAR_1
+ADC_WIDTH_BIT_12,VAR_2
+LUT_ADC_STEP_SIZE,VAR_3
+LUT_ENABLED,VAR_4
+LUT_HIGH_THRESH,VAR_5
+LUT_LOW_THRESH,VAR_6
+assert,FUNC_0
+calculate_voltage_linear,FUNC_1
+calculate_voltage_lut,FUNC_2
+interpolate_two_points,FUNC_3
+esp_adc_cal_raw_to_voltage,FUNC_4
+adc_reading,VAR_7
+chars,VAR_8
+lut_voltage,VAR_9
+linear_voltage,VAR_10

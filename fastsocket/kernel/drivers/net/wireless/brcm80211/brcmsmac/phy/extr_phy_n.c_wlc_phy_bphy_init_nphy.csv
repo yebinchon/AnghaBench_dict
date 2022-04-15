@@ -1,0 +1,9 @@
+BPHY_RSSI_LUT,VAR_0
+BPHY_RSSI_LUT_END,VAR_1
+BPHY_STEP,VAR_2
+NPHY_TO_BPHY_OFF,VAR_3
+write_phy_reg,FUNC_0
+wlc_phy_bphy_init_nphy,FUNC_1
+pi,VAR_4
+addr,VAR_5
+val,VAR_6

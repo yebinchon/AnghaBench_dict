@@ -1,0 +1,8 @@
+CP210X_IFC_ENABLE,VAR_0
+CP210X_PURGE,VAR_1
+PURGE_ALL,VAR_2
+UART_DISABLE,VAR_3
+cp210x_write_u16_reg,FUNC_0
+usb_serial_generic_close,FUNC_1
+cp210x_close,FUNC_2
+port,VAR_4

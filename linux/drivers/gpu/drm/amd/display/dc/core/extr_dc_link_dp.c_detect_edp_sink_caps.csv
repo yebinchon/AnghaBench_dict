@@ -1,0 +1,13 @@
+DPCD_REV_14,VAR_0
+DP_SUPPORTED_LINK_RATES,VAR_1
+LINK_RATE_UNKNOWN,VAR_2
+core_link_read_dpcd,FUNC_0
+linkRateInKHzToLinkRateMultiplier,FUNC_1
+memset,FUNC_2
+retrieve_link_cap,FUNC_3
+detect_edp_sink_caps,FUNC_4
+link,VAR_3
+supported_link_rates,VAR_4
+entry,VAR_5
+link_rate_in_khz,VAR_6
+link_rate,VAR_7

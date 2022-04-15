@@ -1,0 +1,15 @@
+CHACHA_BLOCK_SIZE,VAR_0
+chacha_simd_stream_xor,FUNC_0
+crypto_chacha_crypt,FUNC_1
+crypto_simd_usable,FUNC_2
+crypto_skcipher_ctx,FUNC_3
+crypto_skcipher_reqtfm,FUNC_4
+kernel_fpu_begin,FUNC_5
+kernel_fpu_end,FUNC_6
+skcipher_walk_virt,FUNC_7
+chacha_simd,FUNC_8
+req,VAR_1
+tfm,VAR_2
+ctx,VAR_3
+walk,VAR_4
+err,VAR_5

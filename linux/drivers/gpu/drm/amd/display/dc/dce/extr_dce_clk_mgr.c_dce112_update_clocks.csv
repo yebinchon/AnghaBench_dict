@@ -1,0 +1,13 @@
+TO_DCE_CLK_MGR,FUNC_0
+dce112_set_clock,FUNC_1
+dce11_pplib_apply_display_requirements,FUNC_2
+dce_get_required_clocks_state,FUNC_3
+dm_pp_apply_power_level_change_request,FUNC_4
+should_set_clock,FUNC_5
+dce112_update_clocks,FUNC_6
+clk_mgr,VAR_0
+context,VAR_1
+safe_to_lower,VAR_2
+clk_mgr_dce,VAR_3
+level_change_req,VAR_4
+patched_disp_clk,VAR_5

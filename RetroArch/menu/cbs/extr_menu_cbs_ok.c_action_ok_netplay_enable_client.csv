@@ -1,0 +1,17 @@
+CMD_EVENT_NETPLAY_DEINIT,VAR_0
+MENU_ENUM_LABEL_VALUE_NETPLAY_IP_ADDRESS,VAR_1
+RARCH_NETPLAY_CTL_ENABLE_CLIENT,VAR_2
+RARCH_NETPLAY_CTL_IS_DATA_INITED,VAR_3
+action_ok_netplay_enable_client_hostname_cb,FUNC_0
+config_get_ptr,FUNC_1
+generic_action_ok_command,FUNC_2
+menu_input_dialog_start,FUNC_3
+msg_hash_to_str,FUNC_4
+netplay_driver_ctl,FUNC_5
+string_is_empty,FUNC_6
+action_ok_netplay_enable_client,FUNC_7
+path,VAR_4
+label,VAR_5
+type,VAR_6
+idx,VAR_7
+entry_idx,VAR_8

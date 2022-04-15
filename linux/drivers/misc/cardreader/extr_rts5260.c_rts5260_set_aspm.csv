@@ -1,0 +1,15 @@
+ASPM_FORCE_CTL,VAR_0
+ASPM_MASK_NEG,VAR_1
+DEV_ASPM_BACKDOOR,VAR_2
+DEV_ASPM_DYNAMIC,VAR_3
+FORCE_ASPM_CTL0,VAR_4
+FORCE_ASPM_VAL_MASK,VAR_5
+PCI_EXP_LNKCTL,VAR_6
+rtsx_pci_update_cfg_byte,FUNC_0
+rtsx_pci_write_register,FUNC_1
+rts5260_set_aspm,FUNC_2
+pcr,VAR_7
+enable,VAR_8
+option,VAR_9
+val,VAR_10
+mask,VAR_11

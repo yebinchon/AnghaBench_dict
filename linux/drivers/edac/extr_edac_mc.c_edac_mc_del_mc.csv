@@ -1,0 +1,17 @@
+EDAC_MC,VAR_0
+KERN_INFO,VAR_1
+OP_OFFLINE,VAR_2
+__find_mci_by_dev,FUNC_0
+del_mc_from_global_list,FUNC_1
+edac_dbg,FUNC_2
+edac_dev_name,FUNC_3
+edac_mc_owner,VAR_3
+edac_printk,FUNC_4
+edac_remove_sysfs_mci_device,FUNC_5
+edac_stop_work,FUNC_6
+mem_ctls_mutex,VAR_4
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+edac_mc_del_mc,FUNC_9
+dev,VAR_5
+mci,VAR_6

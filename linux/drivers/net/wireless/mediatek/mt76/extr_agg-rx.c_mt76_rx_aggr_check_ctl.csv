@@ -1,0 +1,17 @@
+IEEE80211_SEQ_TO_SN,FUNC_0
+ieee80211_is_back_req,FUNC_1
+ieee80211_is_ctl,FUNC_2
+le16_to_cpu,FUNC_3
+mt76_rx_aggr_release_frames,FUNC_4
+mt76_rx_aggr_release_head,FUNC_5
+rcu_dereference,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+mt76_rx_aggr_check_ctl,FUNC_9
+skb,VAR_0
+frames,VAR_1
+status,VAR_2
+bar,VAR_3
+wcid,VAR_4
+tid,VAR_5
+seqno,VAR_6

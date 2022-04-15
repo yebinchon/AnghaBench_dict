@@ -1,0 +1,15 @@
+DEFINE_WAIT_FUNC,FUNC_0
+EAGAIN,VAR_0
+add_wait_queue,FUNC_1
+current,VAR_1
+remove_wait_queue,FUNC_2
+signal_pending,FUNC_3
+sk_sleep,FUNC_4
+sk_wait_event,FUNC_5
+sock_intr_errno,FUNC_6
+wait,VAR_2
+woken_wake_function,VAR_3
+wait_on_pending_writer,FUNC_7
+sk,VAR_4
+timeo,VAR_5
+rc,VAR_6

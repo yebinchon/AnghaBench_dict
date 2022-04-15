@@ -1,0 +1,16 @@
+CreateStreamOnHGlobal,FUNC_0
+FAILED,FUNC_1
+GMEM_DDESHARE,VAR_0
+GMEM_MOVEABLE,VAR_1
+GetProcessHeap,FUNC_2
+GlobalAlloc,FUNC_3
+GlobalFree,FUNC_4
+HeapAlloc,FUNC_5
+HeapFree,FUNC_6
+TRACE,FUNC_7
+TRUE,VAR_2
+register_clipboard_formats,FUNC_8
+theOleClipboard,VAR_3
+OLEClipbrd_Initialize,FUNC_9
+clipbrd,VAR_4
+h,VAR_5

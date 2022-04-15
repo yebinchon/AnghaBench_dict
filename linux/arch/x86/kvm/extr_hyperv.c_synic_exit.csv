@@ -1,0 +1,9 @@
+KVM_EXIT_HYPERV_SYNIC,VAR_0
+KVM_REQ_HV_EXIT,VAR_1
+kvm_make_request,FUNC_0
+synic_to_vcpu,FUNC_1
+synic_exit,FUNC_2
+synic,VAR_2
+msr,VAR_3
+vcpu,VAR_4
+hv_vcpu,VAR_5

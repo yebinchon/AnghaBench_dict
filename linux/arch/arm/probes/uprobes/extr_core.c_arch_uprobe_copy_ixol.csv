@@ -1,0 +1,14 @@
+PAGE_MASK,VAR_0
+flush_uprobe_xol_access,FUNC_0
+kmap_atomic,FUNC_1
+kunmap_atomic,FUNC_2
+memcpy,FUNC_3
+preempt_disable,FUNC_4
+preempt_enable,FUNC_5
+arch_uprobe_copy_ixol,FUNC_6
+page,VAR_1
+vaddr,VAR_2
+src,VAR_3
+len,VAR_4
+xol_page_kaddr,VAR_5
+dst,VAR_6

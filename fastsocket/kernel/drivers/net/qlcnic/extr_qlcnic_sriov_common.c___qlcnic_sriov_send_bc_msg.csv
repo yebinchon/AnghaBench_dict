@@ -1,0 +1,14 @@
+EIO,VAR_0
+QLC_BC_VF_CHANNEL,VAR_1
+QLC_BC_VF_FLR,VAR_2
+clear_bit,FUNC_0
+qlcnic_sriov_issue_bc_post,FUNC_1
+qlcnic_sriov_wait_for_channel_free,FUNC_2
+qlcnic_sriov_wait_for_resp,FUNC_3
+test_bit,FUNC_4
+__qlcnic_sriov_send_bc_msg,FUNC_5
+trans,VAR_3
+vf,VAR_4
+type,VAR_5
+flag,VAR_6
+err,VAR_7

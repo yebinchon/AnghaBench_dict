@@ -1,0 +1,15 @@
+ALLEGRO_STATE_DRAIN,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+V4L2_FIELD_ANY,VAR_3
+V4L2_FIELD_NONE,VAR_4
+V4L2_TYPE_IS_OUTPUT,FUNC_0
+allegro_get_state,FUNC_1
+to_vb2_v4l2_buffer,FUNC_2
+v4l2_err,FUNC_3
+vb2_get_drv_priv,FUNC_4
+allegro_buf_prepare,FUNC_5
+vb,VAR_5
+vbuf,VAR_6
+channel,VAR_7
+dev,VAR_8

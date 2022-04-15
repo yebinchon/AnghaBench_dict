@@ -1,0 +1,15 @@
+MVPP2_TXQ_RSVD_REQ_Q_OFFSET,VAR_0
+MVPP2_TXQ_RSVD_REQ_REG,VAR_1
+MVPP2_TXQ_RSVD_RSLT_MASK,VAR_2
+MVPP2_TXQ_RSVD_RSLT_REG,VAR_3
+mvpp2_cpu_to_thread,FUNC_0
+mvpp2_thread_read_relaxed,FUNC_1
+mvpp2_thread_write_relaxed,FUNC_2
+smp_processor_id,FUNC_3
+mvpp2_txq_alloc_reserved_desc,FUNC_4
+port,VAR_4
+txq,VAR_5
+num,VAR_6
+thread,VAR_7
+priv,VAR_8
+val,VAR_9

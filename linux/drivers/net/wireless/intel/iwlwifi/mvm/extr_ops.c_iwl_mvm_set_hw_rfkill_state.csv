@@ -1,0 +1,14 @@
+IWL_MVM_STATUS_HW_RFKILL,VAR_0
+IWL_OP_MODE_GET_MVM,FUNC_0
+READ_ONCE,FUNC_1
+clear_bit,FUNC_2
+iwl_abort_notification_waits,FUNC_3
+iwl_mvm_has_unified_ucode,FUNC_4
+iwl_mvm_set_rfkill_state,FUNC_5
+set_bit,FUNC_6
+iwl_mvm_set_hw_rfkill_state,FUNC_7
+op_mode,VAR_1
+state,VAR_2
+mvm,VAR_3
+rfkill_safe_init_done,VAR_4
+unified,VAR_5

@@ -1,0 +1,15 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+add_wait_queue,FUNC_1
+current,VAR_2
+might_sleep,FUNC_2
+remove_wait_queue,FUNC_3
+schedule,FUNC_4
+set_current_state,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+wait,VAR_3
+cw1200_spi_lock,FUNC_8
+self,VAR_4
+flags,VAR_5

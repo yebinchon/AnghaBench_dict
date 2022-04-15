@@ -1,0 +1,14 @@
+ESP_LOGI,FUNC_0
+OTA_SIZE_UNKNOWN,VAR_0
+TAG,VAR_1
+TEST_ASSERT_NOT_EQUAL,FUNC_1
+TEST_ESP_OK,FUNC_2
+copy_app_partition,FUNC_3
+esp_ota_begin,FUNC_4
+esp_ota_end,FUNC_5
+esp_ota_get_next_update_partition,FUNC_6
+esp_ota_set_boot_partition,FUNC_7
+copy_current_app_to_next_part,FUNC_8
+cur_app_partition,VAR_2
+next_app_partition,VAR_3
+update_handle,VAR_4

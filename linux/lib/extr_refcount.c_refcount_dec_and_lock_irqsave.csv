@@ -1,0 +1,8 @@
+refcount_dec_and_test,FUNC_0
+refcount_dec_not_one,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+refcount_dec_and_lock_irqsave,FUNC_4
+r,VAR_0
+lock,VAR_1
+flags,VAR_2

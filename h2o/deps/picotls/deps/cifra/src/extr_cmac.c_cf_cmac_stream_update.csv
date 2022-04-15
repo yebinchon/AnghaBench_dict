@@ -1,0 +1,16 @@
+assert,FUNC_0
+cf_blockwise_acc_pad,FUNC_1
+cf_blockwise_accumulate_final,FUNC_2
+cmac_process,VAR_0
+cmac_process_final_nopad,VAR_1
+cmac_process_final_pad,VAR_2
+cf_cmac_stream_update,FUNC_3
+ctx,VAR_3
+data,VAR_4
+len,VAR_5
+isfinal,VAR_6
+blocksz,VAR_7
+final_fn,VAR_8
+needpad,VAR_9
+whole_number_of_blocks,VAR_10
+empty_message,VAR_11

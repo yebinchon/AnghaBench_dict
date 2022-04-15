@@ -1,0 +1,12 @@
+fsl_qdma_enqueue_desc,FUNC_0
+spin_lock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_fsl_qdma_chan,FUNC_5
+vchan_issue_pending,FUNC_6
+fsl_qdma_issue_pending,FUNC_7
+chan,VAR_0
+flags,VAR_1
+fsl_chan,VAR_2
+fsl_queue,VAR_3

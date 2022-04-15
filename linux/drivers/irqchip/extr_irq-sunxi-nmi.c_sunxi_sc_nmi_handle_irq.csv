@@ -1,0 +1,11 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+irq_find_mapping,FUNC_5
+sunxi_sc_nmi_handle_irq,FUNC_6
+desc,VAR_0
+domain,VAR_1
+chip,VAR_2
+virq,VAR_3

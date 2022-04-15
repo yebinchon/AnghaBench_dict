@@ -1,0 +1,16 @@
+MPLS_LABEL_FIRST_UNRESERVED,VAR_0
+NLM_F_REPLACE,VAR_1
+RTM_DELROUTE,VAR_2
+RTM_NEWROUTE,VAR_3
+rtmsg_lfib,FUNC_0
+mpls_notify_route,FUNC_1
+net,VAR_4
+index,VAR_5
+old,VAR_6
+new,VAR_7
+info,VAR_8
+nlh,VAR_9
+portid,VAR_10
+event,VAR_11
+rt,VAR_12
+nlm_flags,VAR_13

@@ -1,0 +1,8 @@
+SDHCI_AUTO_CAL_PDPU_OFFSET_MASK,VAR_0
+SDHCI_TEGRA_AUTO_CAL_CONFIG,VAR_1
+sdhci_readl,FUNC_0
+sdhci_writel,FUNC_1
+tegra_sdhci_set_pad_autocal_offset,FUNC_2
+host,VAR_2
+pdpu,VAR_3
+reg,VAR_4

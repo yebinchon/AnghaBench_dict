@@ -1,0 +1,15 @@
+ENTROPY_MAGIC,VAR_0
+ISC_LIST_INIT,FUNC_0
+ISC_R_NOMEMORY,VAR_1
+ISC_R_SUCCESS,VAR_2
+REQUIRE,FUNC_1
+isc_entropypool_init,FUNC_2
+isc_mem_attach,FUNC_3
+isc_mem_get,FUNC_4
+isc_mem_put,FUNC_5
+isc_mutex_init,FUNC_6
+isc_entropy_create,FUNC_7
+mctx,VAR_3
+entp,VAR_4
+result,VAR_5
+ent,VAR_6

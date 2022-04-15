@@ -1,0 +1,16 @@
+E1000_TIMINCA_INCVALUE_MASK,VAR_0
+FLAG2_CHECK_SYSTIM_OVERFLOW,VAR_1
+SYSTIMH,VAR_2
+SYSTIML,VAR_3
+e1000e_sanitize_systim,FUNC_0
+er32,FUNC_1
+ptp_read_system_postts,FUNC_2
+ptp_read_system_prets,FUNC_3
+e1000e_read_systim,FUNC_4
+adapter,VAR_4
+sts,VAR_5
+hw,VAR_6
+systimel,VAR_7
+systimel_2,VAR_8
+systimeh,VAR_9
+systim,VAR_10

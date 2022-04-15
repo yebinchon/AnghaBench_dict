@@ -1,0 +1,11 @@
+MSR_IA32_CR_PAT,VAR_0
+MSR_MTRRdefType,VAR_1
+fixed_msr_to_range_index,FUNC_0
+kvm_mtrr_valid,FUNC_1
+set_var_mtrr_msr,FUNC_2
+update_mtrr,FUNC_3
+kvm_mtrr_set_msr,FUNC_4
+vcpu,VAR_2
+msr,VAR_3
+data,VAR_4
+index,VAR_5

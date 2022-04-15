@@ -1,0 +1,13 @@
+ASSERT_LOCKED,FUNC_0
+ASSERT_VALID_REQUEST,FUNC_1
+EVUTIL_ERR_RW_RETRIABLE,FUNC_2
+event_add,FUNC_3
+evutil_socket_error_to_string,FUNC_4
+evutil_socket_geterror,FUNC_5
+nameserver_failed,FUNC_6
+sendto,FUNC_7
+evdns_request_transmit_to,FUNC_8
+req,VAR_0
+server,VAR_1
+r,VAR_2
+err,VAR_3

@@ -1,0 +1,12 @@
+CTLFLAG_RWTUN,VAR_0
+CTLTYPE_INT,VAR_1
+ENOMEM,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+bnxt_flow_ctrl_autoneg,VAR_4
+bnxt_flow_ctrl_rx,VAR_5
+bnxt_flow_ctrl_tx,VAR_6
+bnxt_create_pause_fc_sysctls,FUNC_2
+softc,VAR_7
+oid,VAR_8

@@ -1,0 +1,15 @@
+ARPHRD_ARCNET,VAR_0
+ARPHRD_ETHER,VAR_1
+ARPHRD_FDDI,VAR_2
+ARPHRD_IEEE802_TR,VAR_3
+ARPHRD_INFINIBAND,VAR_4
+ASSERT_RTNL,FUNC_0
+addrconf_add_dev,FUNC_1
+addrconf_add_linklocal,FUNC_2
+htonl,FUNC_3
+ipv6_generate_eui64,FUNC_4
+memset,FUNC_5
+addrconf_dev_config,FUNC_6
+dev,VAR_5
+addr,VAR_6
+idev,VAR_7

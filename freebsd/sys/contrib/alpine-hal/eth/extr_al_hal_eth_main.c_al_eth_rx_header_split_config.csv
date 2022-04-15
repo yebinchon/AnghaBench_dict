@@ -1,0 +1,12 @@
+AL_REG_FIELD_SET,FUNC_0
+AL_TRUE,VAR_0
+EC_RFW_HDR_SPLIT_DEF_LEN_MASK,VAR_1
+EC_RFW_HDR_SPLIT_DEF_LEN_SHIFT,VAR_2
+EC_RFW_HDR_SPLIT_EN,VAR_3
+al_reg_read32,FUNC_1
+al_reg_write32,FUNC_2
+al_eth_rx_header_split_config,FUNC_3
+adapter,VAR_4
+enable,VAR_5
+header_len,VAR_6
+reg,VAR_7

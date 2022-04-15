@@ -1,0 +1,11 @@
+CR_START,VAR_0
+CR_WR_RDN,VAR_1
+SERDES_CR_ADDR,VAR_2
+SERDES_CR_CTL,VAR_3
+SERDES_CR_DATA,VAR_4
+__combo_phy_reg_write,FUNC_0
+combo_phy_wait_for_ready,FUNC_1
+combo_phy_write,FUNC_2
+sata_port,VAR_5
+addr,VAR_6
+data,VAR_7

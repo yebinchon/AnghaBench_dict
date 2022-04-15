@@ -1,0 +1,12 @@
+EV_KEY,VAR_0
+EV_SYN,VAR_1
+KEY_EVENT_REPEAT,VAR_2
+KEY_RESERVED,VAR_3
+REP_PERIOD,VAR_4
+SYN_REPORT,VAR_5
+callout_reset,FUNC_0
+evdev_send_event,FUNC_1
+hz,VAR_6
+evdev_repeat_callout,FUNC_2
+arg,VAR_7
+evdev,VAR_8

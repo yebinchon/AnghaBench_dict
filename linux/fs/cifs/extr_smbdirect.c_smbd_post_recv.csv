@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+EIO,VAR_1
+ERR,VAR_2
+ib_dma_map_single,FUNC_0
+ib_dma_mapping_error,FUNC_1
+ib_dma_unmap_single,FUNC_2
+ib_post_recv,FUNC_3
+log_rdma_recv,FUNC_4
+recv_done,VAR_3
+smbd_disconnect_rdma_connection,FUNC_5
+smbd_post_recv,FUNC_6
+info,VAR_4
+response,VAR_5
+recv_wr,VAR_6
+rc,VAR_7

@@ -1,0 +1,11 @@
+KVM_REQ_PTC_G,VAR_0
+KVM_REQ_RESUME,VAR_1
+KVM_REQ_TLB_FLUSH,VAR_2
+ptc_ga_remote_func,FUNC_0
+test_and_clear_bit,FUNC_1
+thash_purge_all,FUNC_2
+unlikely,FUNC_3
+vcpu_do_resume,FUNC_4
+vmm_sanity_check,FUNC_5
+kvm_do_resume_op,FUNC_6
+vcpu,VAR_3

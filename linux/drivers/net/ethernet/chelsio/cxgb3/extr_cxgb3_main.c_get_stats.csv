@@ -1,0 +1,17 @@
+SGE_PSTAT_RX_CSUM_GOOD,VAR_0
+SGE_PSTAT_TSO,VAR_1
+SGE_PSTAT_TX_CSUM,VAR_2
+SGE_PSTAT_VLANEX,VAR_3
+SGE_PSTAT_VLANINS,VAR_4
+collect_sge_port_stats,FUNC_0
+netdev_priv,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+t3_mac_update_stats,FUNC_4
+get_stats,FUNC_5
+dev,VAR_5
+stats,VAR_6
+data,VAR_7
+pi,VAR_8
+adapter,VAR_9
+s,VAR_10

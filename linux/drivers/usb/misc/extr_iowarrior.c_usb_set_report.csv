@@ -1,0 +1,13 @@
+HZ,VAR_0
+USB_RECIP_INTERFACE,VAR_1
+USB_REQ_SET_REPORT,VAR_2
+USB_TYPE_CLASS,VAR_3
+interface_to_usbdev,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+usb_set_report,FUNC_3
+intf,VAR_4
+type,VAR_5
+id,VAR_6
+buf,VAR_7
+size,VAR_8

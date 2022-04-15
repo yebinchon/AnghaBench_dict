@@ -1,0 +1,15 @@
+AUTO_PIN_HP_OUT,VAR_0
+EBUSY,VAR_1
+call_hp_automute,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_kcontrol_chip,FUNC_3
+update_aamix_paths,FUNC_4
+indep_hp_put,FUNC_5
+kcontrol,VAR_2
+ucontrol,VAR_3
+codec,VAR_4
+spec,VAR_5
+select,VAR_6
+ret,VAR_7
+dacp,VAR_8

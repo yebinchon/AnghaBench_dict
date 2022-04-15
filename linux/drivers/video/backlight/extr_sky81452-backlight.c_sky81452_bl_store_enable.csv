@@ -1,0 +1,15 @@
+CTZ,FUNC_0
+SKY81452_EN,VAR_0
+SKY81452_REG1,VAR_1
+bl_get_data,FUNC_1
+kstrtoul,FUNC_2
+regmap_update_bits,FUNC_3
+to_backlight_device,FUNC_4
+sky81452_bl_store_enable,FUNC_5
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+count,VAR_5
+regmap,VAR_6
+value,VAR_7
+ret,VAR_8

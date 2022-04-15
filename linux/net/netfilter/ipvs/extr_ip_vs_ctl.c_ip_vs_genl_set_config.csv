@@ -1,0 +1,10 @@
+IPVS_CMD_ATTR_TIMEOUT_TCP,VAR_0
+IPVS_CMD_ATTR_TIMEOUT_TCP_FIN,VAR_1
+IPVS_CMD_ATTR_TIMEOUT_UDP,VAR_2
+__ip_vs_get_timeouts,FUNC_0
+ip_vs_set_timeout,FUNC_1
+nla_get_u32,FUNC_2
+ip_vs_genl_set_config,FUNC_3
+ipvs,VAR_3
+attrs,VAR_4
+t,VAR_5

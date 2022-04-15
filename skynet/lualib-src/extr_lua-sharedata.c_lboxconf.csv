@@ -1,0 +1,14 @@
+ATOM_INC,FUNC_0
+get_table,FUNC_1
+luaL_newmetatable,FUNC_2
+lua_newuserdata,FUNC_3
+lua_pushcfunction,FUNC_4
+lua_setfield,FUNC_5
+lua_setmetatable,FUNC_6
+lua_touserdata,FUNC_7
+releaseobj,VAR_0
+lboxconf,FUNC_8
+L,VAR_1
+tbl,VAR_2
+s,VAR_3
+c,VAR_4

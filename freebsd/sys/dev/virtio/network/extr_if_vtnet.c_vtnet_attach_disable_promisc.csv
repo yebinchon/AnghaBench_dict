@@ -1,0 +1,9 @@
+IFF_PROMISC,VAR_0
+VTNET_CORE_LOCK,FUNC_0
+VTNET_CORE_UNLOCK,FUNC_1
+VTNET_FLAG_CTRL_RX,VAR_1
+device_printf,FUNC_2
+vtnet_set_promisc,FUNC_3
+vtnet_attach_disable_promisc,FUNC_4
+sc,VAR_2
+ifp,VAR_3

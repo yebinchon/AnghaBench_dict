@@ -1,0 +1,16 @@
+CloseServiceHandle,FUNC_0
+ControlService,FUNC_1
+FALSE,VAR_0
+OpenSCManager,FUNC_2
+OpenService,FUNC_3
+SC_MANAGER_CONNECT,VAR_1
+SERVICES_ACTIVE_DATABASE,VAR_2
+kull_m_service_genericControl,FUNC_4
+serviceName,VAR_3
+dwDesiredAccess,VAR_4
+dwControl,VAR_5
+ptrServiceStatus,VAR_6
+status,VAR_7
+hSC,VAR_8
+hS,VAR_9
+serviceStatus,VAR_10

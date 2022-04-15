@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+SB_DSP_INPUT,VAR_1
+SB_DSP_OUTPUT,VAR_2
+SB_HW_JAZZ16,VAR_3
+SNDRV_PCM_TRIGGER_START,VAR_4
+snd_pcm_period_elapsed,FUNC_0
+snd_sb8_capture_trigger,FUNC_1
+snd_sb8_playback_trigger,FUNC_2
+snd_sb_ack_8bit,FUNC_3
+snd_sb8dsp_interrupt,FUNC_4
+chip,VAR_5
+substream,VAR_6

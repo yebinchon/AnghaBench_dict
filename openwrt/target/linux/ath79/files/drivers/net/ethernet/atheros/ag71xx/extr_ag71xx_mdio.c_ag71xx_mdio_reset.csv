@@ -1,0 +1,16 @@
+AG71XX_REG_MII_CFG,VAR_0
+MII_CFG_CLK_DIV_10,VAR_1
+MII_CFG_CLK_DIV_28,VAR_2
+MII_CFG_CLK_DIV_58,VAR_3
+MII_CFG_RESET,VAR_4
+ag71xx_mdio_get_divider,FUNC_0
+of_device_is_compatible,FUNC_1
+of_property_read_bool,FUNC_2
+regmap_write,FUNC_3
+udelay,FUNC_4
+ag71xx_mdio_reset,FUNC_5
+bus,VAR_5
+np,VAR_6
+am,VAR_7
+builtin_switch,VAR_8
+t,VAR_9

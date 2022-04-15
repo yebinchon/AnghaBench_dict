@@ -1,0 +1,12 @@
+BLK_BOUNCE_ANY,VAR_0
+QUEUE_FLAG_STACKABLE,VAR_1
+blk_queue_bounce_limit,FUNC_0
+blk_queue_make_request,FUNC_1
+blk_queue_merge_bvec,FUNC_2
+dm_any_congested,VAR_2
+dm_merge_bvec,VAR_3
+dm_request,VAR_4
+dm_unplug_all,VAR_5
+queue_flag_clear_unlocked,FUNC_3
+dm_init_md_queue,FUNC_4
+md,VAR_6

@@ -1,0 +1,11 @@
+AC_VERB_SET_GPIO_DATA,VAR_0
+AC_VERB_SET_GPIO_DIRECTION,VAR_1
+AC_VERB_SET_GPIO_MASK,VAR_2
+AUTO_PIN_SPEAKER_OUT,VAR_3
+ad1884_vmaster_hp_gpio_hook,VAR_4
+snd_hda_codec_write_cache,FUNC_0
+ad1884_fixup_hp_eapd,FUNC_1
+codec,VAR_5
+fix,VAR_6
+action,VAR_7
+spec,VAR_8

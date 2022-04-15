@@ -1,0 +1,14 @@
+SC16IS7XX_EFCR_AUTO_RS485_BIT,VAR_0
+SC16IS7XX_EFCR_REG,VAR_1
+SC16IS7XX_EFCR_RTS_INVERT_BIT,VAR_2
+SER_RS485_ENABLED,VAR_3
+SER_RS485_RTS_AFTER_SEND,VAR_4
+sc16is7xx_port_update,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+sc16is7xx_reconf_rs485,FUNC_3
+port,VAR_5
+mask,VAR_6
+efcr,VAR_7
+rs485,VAR_8
+irqflags,VAR_9

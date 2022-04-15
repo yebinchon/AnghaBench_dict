@@ -1,0 +1,16 @@
+BIO_free,FUNC_0
+BIO_new,FUNC_1
+BIO_s_null,FUNC_2
+ERR_clear_error,FUNC_3
+OPENSSL_free,FUNC_4
+X509_CRL_free,FUNC_5
+X509_CRL_print,FUNC_6
+d2i_X509_CRL,FUNC_7
+i2d_X509_CRL,FUNC_8
+FuzzerTestOneInput,FUNC_9
+buf,VAR_0
+len,VAR_1
+p,VAR_2
+der,VAR_3
+crl,VAR_4
+bio,VAR_5

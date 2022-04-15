@@ -1,0 +1,12 @@
+ESPI_SPMODE,VAR_0
+FSL_ESPI_WRITE,FUNC_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_generic_detach,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+mtx_destroy,FUNC_5
+fsl_espi_detach,FUNC_6
+dev,VAR_3
+sc,VAR_4

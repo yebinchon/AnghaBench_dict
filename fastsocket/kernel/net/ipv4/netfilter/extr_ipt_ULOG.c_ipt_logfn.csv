@@ -1,0 +1,14 @@
+NF_LOG_TYPE_ULOG,VAR_0
+ULOG_DEFAULT_NLGROUP,VAR_1
+ULOG_DEFAULT_QTHRESHOLD,VAR_2
+ipt_ulog_packet,FUNC_0
+strlcpy,FUNC_1
+ipt_logfn,FUNC_2
+pf,VAR_3
+hooknum,VAR_4
+skb,VAR_5
+in,VAR_6
+out,VAR_7
+li,VAR_8
+prefix,VAR_9
+loginfo,VAR_10

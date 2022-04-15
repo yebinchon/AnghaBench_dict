@@ -1,0 +1,10 @@
+HDAC_RIRBCTL,VAR_0
+HDAC_RIRBCTL_RINTCTL,VAR_1
+HDAC_RIRBSTS,VAR_2
+HDAC_RIRBSTS_RINTFL,VAR_3
+hda_get_reg_by_offset,FUNC_0
+hda_set_field_by_offset,FUNC_1
+hda_update_intr,FUNC_2
+hda_response_interrupt,FUNC_3
+sc,VAR_4
+rirbctl,VAR_5

@@ -1,0 +1,17 @@
+PCI_POWERSTATE_D0,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_generic_resume_child,FUNC_0
+bus_resume_intr,FUNC_1
+device_get_ivars,FUNC_2
+device_is_attached,FUNC_3
+pci_cfg_restore,FUNC_4
+pci_cfg_save,FUNC_5
+pci_do_power_resume,VAR_2
+pci_do_power_suspend,VAR_3
+pci_set_power_child,FUNC_6
+resource_list_find,FUNC_7
+pci_resume_child,FUNC_8
+dev,VAR_4
+child,VAR_5
+dinfo,VAR_6
+rle,VAR_7

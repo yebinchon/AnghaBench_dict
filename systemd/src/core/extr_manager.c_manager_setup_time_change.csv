@@ -1,0 +1,16 @@
+EPOLLIN,VAR_0
+MANAGER_IS_TEST_RUN,FUNC_0
+SD_EVENT_PRIORITY_NORMAL,VAR_1
+assert,FUNC_1
+log_debug,FUNC_2
+log_error_errno,FUNC_3
+manager_dispatch_time_change_fd,VAR_2
+safe_close,FUNC_4
+sd_event_add_io,FUNC_5
+sd_event_source_set_description,FUNC_6
+sd_event_source_set_priority,FUNC_7
+sd_event_source_unref,FUNC_8
+time_change_fd,FUNC_9
+manager_setup_time_change,FUNC_10
+m,VAR_3
+r,VAR_4

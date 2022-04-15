@@ -1,0 +1,11 @@
+SNDRV_HWDEP_IFACE_MIXART,VAR_0
+SND_MIXART_HWDEP_ID,VAR_1
+mixart_hwdep_dsp_load,VAR_2
+mixart_hwdep_dsp_status,VAR_3
+snd_card_register,FUNC_0
+snd_hwdep_new,FUNC_1
+sprintf,FUNC_2
+snd_mixart_setup_firmware,FUNC_3
+mgr,VAR_4
+err,VAR_5
+hw,VAR_6

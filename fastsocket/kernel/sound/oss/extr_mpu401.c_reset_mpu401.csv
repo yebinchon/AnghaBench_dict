@@ -1,0 +1,16 @@
+MPU_ACK,VAR_0
+MPU_RESET,VAR_1
+ST_INIT,VAR_2
+input_avail,FUNC_0
+output_ready,FUNC_1
+read_data,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+write_command,FUNC_5
+reset_mpu401,FUNC_6
+devc,VAR_3
+flags,VAR_4
+ok,VAR_5
+timeout,VAR_6
+n,VAR_7
+timeout_limit,VAR_8

@@ -1,0 +1,16 @@
+X86_FEATURE_AMD_IBRS,VAR_0
+X86_FEATURE_AMD_SSBD,VAR_1
+X86_FEATURE_RDTSCP,VAR_2
+X86_FEATURE_VIRT_SSBD,VAR_3
+boot_cpu_has,FUNC_0
+guest_cpuid_family,FUNC_1
+guest_cpuid_has,FUNC_2
+guest_cpuid_model,FUNC_3
+kvm_get_msr_common,FUNC_4
+to_svm,FUNC_5
+svm_get_msr,FUNC_6
+vcpu,VAR_4
+msr_info,VAR_5
+svm,VAR_6
+family,VAR_7
+model,VAR_8

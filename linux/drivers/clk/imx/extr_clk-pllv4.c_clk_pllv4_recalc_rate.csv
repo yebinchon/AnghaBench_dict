@@ -1,0 +1,16 @@
+BM_PLL_MULT,VAR_0
+BP_PLL_MULT,VAR_1
+PLL_CFG_OFFSET,VAR_2
+PLL_DENOM_OFFSET,VAR_3
+PLL_NUM_OFFSET,VAR_4
+do_div,FUNC_0
+readl_relaxed,FUNC_1
+to_clk_pllv4,FUNC_2
+clk_pllv4_recalc_rate,FUNC_3
+hw,VAR_5
+parent_rate,VAR_6
+pll,VAR_7
+mult,VAR_8
+mfn,VAR_9
+mfd,VAR_10
+temp64,VAR_11

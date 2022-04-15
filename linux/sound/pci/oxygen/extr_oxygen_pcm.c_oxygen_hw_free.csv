@@ -1,0 +1,15 @@
+OXYGEN_DMA_FLUSH,VAR_0
+OXYGEN_INTERRUPT_MASK,VAR_1
+oxygen_clear_bits8,FUNC_0
+oxygen_set_bits8,FUNC_1
+oxygen_substream_channel,FUNC_2
+oxygen_write16,FUNC_3
+snd_pcm_lib_free_pages,FUNC_4
+snd_pcm_substream_chip,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+oxygen_hw_free,FUNC_8
+substream,VAR_2
+chip,VAR_3
+channel,VAR_4
+channel_mask,VAR_5

@@ -1,0 +1,13 @@
+GIT_ENOTFOUND,VAR_0
+GIT_OBJECT_COMMIT,VAR_1
+GIT_OBJECT_TAG,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_3
+git_object_free,FUNC_2
+git_object_lookup,FUNC_3
+git_oid_fromstr,FUNC_4
+test_object_lookup__lookup_wrong_type_eventually_returns_enotfound,FUNC_5
+commit,VAR_4
+oid,VAR_5
+object,VAR_6

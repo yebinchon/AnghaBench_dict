@@ -1,0 +1,12 @@
+DMA_FENCE_FLAG_ENABLE_SIGNAL_BIT,VAR_0
+DMA_FENCE_FLAG_SIGNALED_BIT,VAR_1
+dma_fence_signal_locked,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+stub1,FUNC_3
+test_and_set_bit,FUNC_4
+test_bit,FUNC_5
+trace_dma_fence_enable_signal,FUNC_6
+dma_fence_enable_sw_signaling,FUNC_7
+fence,VAR_2
+flags,VAR_3

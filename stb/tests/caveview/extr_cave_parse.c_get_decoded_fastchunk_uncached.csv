@@ -1,0 +1,17 @@
+assert,FUNC_0
+deref_compressed_chunk,FUNC_1
+free,FUNC_2
+get_compressed_chunk,FUNC_3
+lock_chunk_get_mutex,FUNC_4
+minecraft_chunk_parse,FUNC_5
+nbt_parse_uint32,FUNC_6
+stbi_zlib_decode_malloc_guesssize,FUNC_7
+unlock_chunk_get_mutex,FUNC_8
+get_decoded_fastchunk_uncached,FUNC_9
+chunk_x,VAR_0
+chunk_z,VAR_1
+decoded,VAR_2
+cc,VAR_3
+inlen,VAR_4
+len,VAR_5
+fc,VAR_6

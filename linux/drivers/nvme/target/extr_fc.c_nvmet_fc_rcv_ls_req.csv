@@ -1,0 +1,17 @@
+E2BIG,VAR_0
+ENOENT,VAR_1
+ESHUTDOWN,VAR_2
+NVME_FC_MAX_LS_BUFFER_SIZE,VAR_3
+memcpy,FUNC_0
+nvmet_fc_alloc_ls_iod,FUNC_1
+nvmet_fc_tgtport_get,FUNC_2
+nvmet_fc_tgtport_put,FUNC_3
+schedule_work,FUNC_4
+targetport_to_tgtport,FUNC_5
+nvmet_fc_rcv_ls_req,FUNC_6
+target_port,VAR_4
+lsreq,VAR_5
+lsreqbuf,VAR_6
+lsreqbuf_len,VAR_7
+tgtport,VAR_8
+iod,VAR_9

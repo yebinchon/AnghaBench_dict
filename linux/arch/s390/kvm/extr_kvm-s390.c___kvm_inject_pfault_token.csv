@@ -1,0 +1,11 @@
+KVM_S390_INT_PFAULT_DONE,VAR_0
+KVM_S390_INT_PFAULT_INIT,VAR_1
+WARN_ON_ONCE,FUNC_0
+kvm_s390_inject_vcpu,FUNC_1
+kvm_s390_inject_vm,FUNC_2
+__kvm_inject_pfault_token,FUNC_3
+vcpu,VAR_2
+start_token,VAR_3
+token,VAR_4
+inti,VAR_5
+irq,VAR_6

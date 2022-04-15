@@ -1,0 +1,14 @@
+NS2_PIN_DRIVE_STRENGTH_MASK,VAR_0
+dev_dbg,FUNC_0
+pinctrl_dev_get_drvdata,FUNC_1
+readl,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ns2_pin_get_strength,FUNC_5
+pctrldev,VAR_1
+pin,VAR_2
+strength,VAR_3
+pinctrl,VAR_4
+pin_data,VAR_5
+val,VAR_6
+flags,VAR_7

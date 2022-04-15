@@ -1,0 +1,13 @@
+MSR_KERNEL_GS_BASE,VAR_0
+current,VAR_1
+fs,VAR_2
+gs,VAR_3
+is_long_mode,FUNC_0
+kvm_load_ldt,FUNC_1
+load_gs_index,FUNC_2
+loadsegment,FUNC_3
+rdmsrl,FUNC_4
+reload_tss,FUNC_5
+wrmsrl,FUNC_6
+__vmx_load_host_state,FUNC_7
+vmx,VAR_4

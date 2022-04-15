@@ -1,0 +1,11 @@
+TASK_UNINTERRUPTIBLE,VAR_0
+__set_current_state,FUNC_0
+current,VAR_1
+io_schedule,FUNC_1
+list_add_tail,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+unlikely,FUNC_5
+wait_and_add_new_range,FUNC_6
+ic,VAR_2
+new_range,VAR_3

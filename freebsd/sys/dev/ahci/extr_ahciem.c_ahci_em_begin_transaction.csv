@@ -1,0 +1,15 @@
+AHCI_EM_LED,VAR_0
+ATA_A_RESET,VAR_1
+CAM_ATAIO_CONTROL,VAR_2
+CAM_REQ_CMP,VAR_3
+CAM_REQ_INVALID,VAR_4
+ahci_em_emulate_ses_on_led,FUNC_0
+bzero,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+xpt_done,FUNC_4
+ahci_em_begin_transaction,FUNC_5
+dev,VAR_5
+ccb,VAR_6
+enc,VAR_7
+res,VAR_8

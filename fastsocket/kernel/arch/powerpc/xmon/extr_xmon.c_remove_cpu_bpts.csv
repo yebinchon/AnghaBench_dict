@@ -1,0 +1,6 @@
+CPU_FTR_IABR,VAR_0
+SPRN_IABR,VAR_1
+cpu_has_feature,FUNC_0
+mtspr,FUNC_1
+set_dabr,FUNC_2
+remove_cpu_bpts,FUNC_3

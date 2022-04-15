@@ -1,0 +1,15 @@
+VMCLEAR,FUNC_0
+VMCS_INVALID_ENCODING,VAR_0
+VMPTRLD,FUNC_1
+panic,FUNC_2
+vmcs_seg_desc_encoding,FUNC_3
+vmwrite,FUNC_4
+vmcs_setdesc,FUNC_5
+vmcs,VAR_1
+running,VAR_2
+seg,VAR_3
+desc,VAR_4
+error,VAR_5
+base,VAR_6
+limit,VAR_7
+access,VAR_8

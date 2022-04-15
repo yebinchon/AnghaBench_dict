@@ -1,0 +1,12 @@
+DEVICE_TYPE_DRM,VAR_0
+DEVICE_TYPE_EVDEV,VAR_1
+DEVICE_TYPE_UNKNOWN,VAR_2
+sd_device_get_subsystem,FUNC_0
+sd_device_get_sysname,FUNC_1
+startswith,FUNC_2
+streq,FUNC_3
+detect_device_type,FUNC_4
+dev,VAR_3
+sysname,VAR_4
+subsystem,VAR_5
+type,VAR_6

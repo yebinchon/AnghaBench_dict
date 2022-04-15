@@ -1,0 +1,15 @@
+AC_PWRST_D0,VAR_0
+AC_PWRST_D3,VAR_1
+AC_VERB_GET_CONNECT_SEL,VAR_2
+VT1802,VAR_3
+is_aa_path_mute,FUNC_0
+set_pin_power_state,FUNC_1
+snd_hda_codec_read,FUNC_2
+snd_hda_jack_detect,FUNC_3
+update_power_state,FUNC_4
+set_widgets_power_state_vt2002P,FUNC_5
+codec,VAR_4
+spec,VAR_5
+imux_is_smixer,VAR_6
+parm,VAR_7
+present,VAR_8

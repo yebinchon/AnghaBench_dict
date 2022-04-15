@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+BUF_ITEM,FUNC_1
+SHUTDOWN_CORRUPT_INCORE,VAR_0
+spin_lock,FUNC_2
+xfs_buf_item_free,FUNC_3
+xfs_buf_rele,FUNC_4
+xfs_trans_ail_delete,FUNC_5
+xfs_buf_iodone,FUNC_6
+bp,VAR_1
+lip,VAR_2
+ailp,VAR_3

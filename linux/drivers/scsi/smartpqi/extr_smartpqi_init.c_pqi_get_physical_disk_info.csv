@@ -1,0 +1,10 @@
+PQI_PHYSICAL_DISK_DEFAULT_MAX_QUEUE_DEPTH,VAR_0
+get_unaligned_le16,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+pqi_identify_physical_device,FUNC_3
+pqi_get_physical_disk_info,FUNC_4
+ctrl_info,VAR_1
+device,VAR_2
+id_phys,VAR_3
+rc,VAR_4

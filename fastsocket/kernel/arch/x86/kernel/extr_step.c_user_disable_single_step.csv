@@ -1,0 +1,14 @@
+DEBUGCTLMSR_BTF,VAR_0
+TIF_BLOCKSTEP,VAR_1
+TIF_FORCED_TF,VAR_2
+TIF_SINGLESTEP,VAR_3
+X86_EFLAGS_TF,VAR_4
+clear_tsk_thread_flag,FUNC_0
+get_debugctlmsr,FUNC_1
+task_pt_regs,FUNC_2
+test_and_clear_tsk_thread_flag,FUNC_3
+test_tsk_thread_flag,FUNC_4
+update_debugctlmsr,FUNC_5
+user_disable_single_step,FUNC_6
+child,VAR_5
+debugctl,VAR_6

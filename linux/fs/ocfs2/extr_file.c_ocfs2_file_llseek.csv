@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+i_size_read,FUNC_0
+inode_lock,FUNC_1
+inode_unlock,FUNC_2
+mlog_errno,FUNC_3
+ocfs2_inode_lock,FUNC_4
+ocfs2_inode_unlock,FUNC_5
+ocfs2_seek_data_hole_offset,FUNC_6
+vfs_setpos,FUNC_7
+ocfs2_file_llseek,FUNC_8
+file,VAR_1
+offset,VAR_2
+whence,VAR_3
+inode,VAR_4
+ret,VAR_5

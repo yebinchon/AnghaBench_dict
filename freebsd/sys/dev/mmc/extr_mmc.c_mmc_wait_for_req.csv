@@ -1,0 +1,15 @@
+MMCBR_REQUEST,FUNC_0
+MMC_ERR_NONE,VAR_0
+MMC_LOCK,FUNC_1
+MMC_REQ_DONE,VAR_1
+MMC_UNLOCK,FUNC_2
+__predict_false,FUNC_3
+device_get_parent,FUNC_4
+device_printf,FUNC_5
+mmc_debug,VAR_2
+mmc_wakeup,VAR_3
+msleep,FUNC_6
+printf,FUNC_7
+mmc_wait_for_req,FUNC_8
+sc,VAR_4
+req,VAR_5

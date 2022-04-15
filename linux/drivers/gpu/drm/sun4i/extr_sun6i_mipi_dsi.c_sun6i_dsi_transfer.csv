@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+SUN6I_DSI_CMD_CTL_REG,VAR_1
+SUN6I_DSI_CMD_CTL_RX_FLAG,VAR_2
+SUN6I_DSI_CMD_CTL_RX_OVERFLOW,VAR_3
+SUN6I_DSI_CMD_CTL_TX_FLAG,VAR_4
+host_to_sun6i_dsi,FUNC_0
+regmap_write,FUNC_1
+sun6i_dsi_dcs_read,FUNC_2
+sun6i_dsi_dcs_write_long,FUNC_3
+sun6i_dsi_dcs_write_short,FUNC_4
+sun6i_dsi_inst_abort,FUNC_5
+sun6i_dsi_inst_wait_for_completion,FUNC_6
+sun6i_dsi_transfer,FUNC_7
+host,VAR_5
+msg,VAR_6
+dsi,VAR_7
+ret,VAR_8

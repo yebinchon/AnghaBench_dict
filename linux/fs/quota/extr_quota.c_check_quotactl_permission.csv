@@ -1,0 +1,17 @@
+CAP_SYS_ADMIN,VAR_0
+EPERM,VAR_1
+GRPQUOTA,VAR_2
+USRQUOTA,VAR_3
+capable,FUNC_0
+current_euid,FUNC_1
+current_user_ns,FUNC_2
+in_egroup_p,FUNC_3
+make_kgid,FUNC_4
+make_kuid,FUNC_5
+security_quotactl,FUNC_6
+uid_eq,FUNC_7
+check_quotactl_permission,FUNC_8
+sb,VAR_4
+type,VAR_5
+cmd,VAR_6
+id,VAR_7

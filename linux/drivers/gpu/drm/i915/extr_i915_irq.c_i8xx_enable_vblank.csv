@@ -1,0 +1,11 @@
+PIPE_VBLANK_INTERRUPT_STATUS,VAR_0
+i915_enable_pipestat,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_i915,FUNC_3
+to_intel_crtc,FUNC_4
+i8xx_enable_vblank,FUNC_5
+crtc,VAR_1
+dev_priv,VAR_2
+pipe,VAR_3
+irqflags,VAR_4

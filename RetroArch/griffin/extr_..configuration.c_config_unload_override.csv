@@ -1,0 +1,13 @@
+RARCH_LOG,FUNC_0
+RARCH_OVERRIDE_SETTING_SAVE_PATH,VAR_0
+RARCH_OVERRIDE_SETTING_STATE_PATH,VAR_1
+RARCH_PATH_CONFIG,VAR_2
+RARCH_PATH_CONFIG_APPEND,VAR_3
+config_get_ptr,FUNC_1
+config_load_file,FUNC_2
+global_get_ptr,FUNC_3
+path_clear,FUNC_4
+path_get,FUNC_5
+retroarch_override_setting_set,FUNC_6
+retroarch_override_setting_unset,FUNC_7
+config_unload_override,FUNC_8

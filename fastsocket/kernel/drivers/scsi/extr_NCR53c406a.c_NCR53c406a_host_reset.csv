@@ -1,0 +1,16 @@
+C4_IMG,VAR_0
+CHIP_RESET,VAR_1
+CMD_REG,VAR_2
+CONFIG4,VAR_3
+DEB,FUNC_0
+SCSI_NOP,VAR_4
+SCSI_RESET,VAR_5
+SUCCESS,VAR_6
+chip_init,FUNC_1
+outb,FUNC_2
+printk,FUNC_3
+rtrc,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+NCR53c406a_host_reset,FUNC_7
+SCpnt,VAR_7

@@ -1,0 +1,13 @@
+EP1_BUFSIZE,VAR_0
+EP1_CMD_MIDI_WRITE,VAR_1
+GFP_ATOMIC,VAR_2
+caiaqdev_to_dev,FUNC_0
+dev_err,FUNC_1
+snd_rawmidi_transmit,FUNC_2
+usb_submit_urb,FUNC_3
+snd_usb_caiaq_midi_send,FUNC_4
+cdev,VAR_3
+substream,VAR_4
+len,VAR_5
+ret,VAR_6
+dev,VAR_7

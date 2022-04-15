@@ -1,0 +1,16 @@
+MLXSW_REG_SFD_REC_TYPE_UNICAST_LAG,VAR_0
+mlxsw_reg_sfd_rec_pack,FUNC_0
+mlxsw_reg_sfd_rec_policy_set,FUNC_1
+mlxsw_reg_sfd_uc_lag_fid_vid_set,FUNC_2
+mlxsw_reg_sfd_uc_lag_lag_id_set,FUNC_3
+mlxsw_reg_sfd_uc_lag_lag_vid_set,FUNC_4
+mlxsw_reg_sfd_uc_lag_sub_port_set,FUNC_5
+mlxsw_reg_sfd_uc_lag_pack,FUNC_6
+payload,VAR_1
+rec_index,VAR_2
+policy,VAR_3
+mac,VAR_4
+fid_vid,VAR_5
+action,VAR_6
+lag_vid,VAR_7
+lag_id,VAR_8

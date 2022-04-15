@@ -1,0 +1,16 @@
+BACKLIGHT_RAW,VAR_0
+FB_BLANK_UNBLANK,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+backlight_update_status,FUNC_2
+bl_machinfo,VAR_2
+dev_get_platdata,FUNC_3
+devm_backlight_device_register,FUNC_4
+kb3886_backlight_device,VAR_3
+kb3886bl_ops,VAR_4
+memset,FUNC_5
+platform_set_drvdata,FUNC_6
+kb3886bl_probe,FUNC_7
+pdev,VAR_5
+props,VAR_6
+machinfo,VAR_7

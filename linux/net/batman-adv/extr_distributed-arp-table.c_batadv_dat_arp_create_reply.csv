@@ -1,0 +1,17 @@
+ARPOP_REPLY,VAR_0
+BATADV_VLAN_HAS_TAG,VAR_1
+ETH_P_8021Q,VAR_2
+ETH_P_ARP,VAR_3
+VLAN_VID_MASK,VAR_4
+arp_create,FUNC_0
+htons,FUNC_1
+skb_reset_mac_header,FUNC_2
+vlan_insert_tag,FUNC_3
+batadv_dat_arp_create_reply,FUNC_4
+bat_priv,VAR_5
+ip_src,VAR_6
+ip_dst,VAR_7
+hw_src,VAR_8
+hw_dst,VAR_9
+vid,VAR_10
+skb,VAR_11

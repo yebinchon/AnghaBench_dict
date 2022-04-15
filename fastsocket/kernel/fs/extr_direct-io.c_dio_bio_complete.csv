@@ -1,0 +1,16 @@
+BIO_UPTODATE,VAR_0
+EIO,VAR_1
+PageCompound,FUNC_0
+READ,VAR_2
+bio_check_pages_dirty,FUNC_1
+bio_put,FUNC_2
+page_cache_release,FUNC_3
+set_page_dirty_lock,FUNC_4
+test_bit,FUNC_5
+dio_bio_complete,FUNC_6
+dio,VAR_3
+bio,VAR_4
+uptodate,VAR_5
+bvec,VAR_6
+page_no,VAR_7
+page,VAR_8

@@ -1,0 +1,14 @@
+QUEUE_FLAG_DISCARD,VAR_0
+SD_MAX_WS10_BLOCKS,VAR_1
+SD_MAX_WS16_BLOCKS,VAR_2
+blk_queue_flag_clear,FUNC_0
+blk_queue_flag_set,FUNC_1
+blk_queue_max_discard_sectors,FUNC_2
+max,FUNC_3
+min_not_zero,FUNC_4
+sd_config_discard,FUNC_5
+sdkp,VAR_3
+mode,VAR_4
+q,VAR_5
+logical_block_size,VAR_6
+max_blocks,VAR_7

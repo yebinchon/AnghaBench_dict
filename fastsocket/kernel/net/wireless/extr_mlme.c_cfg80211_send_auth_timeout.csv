@@ -1,0 +1,15 @@
+CFG80211_SME_CONNECTING,VAR_0
+GFP_KERNEL,VAR_1
+WLAN_STATUS_UNSPECIFIED_FAILURE,VAR_2
+__cfg80211_connect_result,FUNC_0
+nl80211_send_auth_timeout,FUNC_1
+trace_cfg80211_send_auth_timeout,FUNC_2
+wdev_lock,FUNC_3
+wdev_unlock,FUNC_4
+wiphy_to_dev,FUNC_5
+cfg80211_send_auth_timeout,FUNC_6
+dev,VAR_3
+addr,VAR_4
+wdev,VAR_5
+wiphy,VAR_6
+rdev,VAR_7

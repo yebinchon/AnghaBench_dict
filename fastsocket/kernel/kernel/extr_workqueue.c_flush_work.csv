@@ -1,0 +1,16 @@
+get_wq_data,FUNC_0
+insert_wq_barrier,FUNC_1
+list_empty,FUNC_2
+lock_map_acquire,FUNC_3
+lock_map_release,FUNC_4
+might_sleep,FUNC_5
+smp_rmb,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+unlikely,FUNC_9
+wait_for_completion,FUNC_10
+flush_work,FUNC_11
+work,VAR_0
+cwq,VAR_1
+prev,VAR_2
+barr,VAR_3

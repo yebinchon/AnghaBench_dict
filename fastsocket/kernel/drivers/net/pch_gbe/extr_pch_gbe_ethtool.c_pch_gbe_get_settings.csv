@@ -1,0 +1,13 @@
+ADVERTISED_1000baseT_Half,VAR_0
+ADVERTISED_TP,VAR_1
+SUPPORTED_1000baseT_Half,VAR_2
+SUPPORTED_TP,VAR_3
+ethtool_cmd_speed_set,FUNC_0
+mii_ethtool_gset,FUNC_1
+netdev_priv,FUNC_2
+netif_carrier_ok,FUNC_3
+pch_gbe_get_settings,FUNC_4
+netdev,VAR_4
+ecmd,VAR_5
+adapter,VAR_6
+ret,VAR_7

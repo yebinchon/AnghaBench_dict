@@ -1,0 +1,12 @@
+STRBUF_INIT,VAR_0
+for_each_loose_file_in_objdir_buf,FUNC_0
+strbuf_addstr,FUNC_1
+strbuf_release,FUNC_2
+for_each_loose_file_in_objdir,FUNC_3
+path,VAR_1
+obj_cb,VAR_2
+cruft_cb,VAR_3
+subdir_cb,VAR_4
+data,VAR_5
+buf,VAR_6
+r,VAR_7

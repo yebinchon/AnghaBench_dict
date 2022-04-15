@@ -1,0 +1,10 @@
+MSR_CE,VAR_0
+MSR_DE,VAR_1
+MSR_EE,VAR_2
+MSR_WE,VAR_3
+isync,FUNC_0
+mb,FUNC_1
+mfmsr,FUNC_2
+mtmsr,FUNC_3
+cpm_idle_wait,FUNC_4
+msr_save,VAR_4

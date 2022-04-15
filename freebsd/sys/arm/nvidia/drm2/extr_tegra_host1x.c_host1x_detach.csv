@@ -1,0 +1,15 @@
+DRM_MEM_DRIVER,VAR_0
+LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_generic_detach,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+clk_release,FUNC_4
+device_get_softc,FUNC_5
+free,FUNC_6
+host1x_drm_exit,FUNC_7
+hwreset_release,FUNC_8
+host1x_detach,FUNC_9
+dev,VAR_3
+sc,VAR_4

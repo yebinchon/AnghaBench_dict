@@ -1,0 +1,16 @@
+MENU_ENUM_LABEL_VALUE_PLAYLIST_INLINE_CORE_DISPLAY_NEVER,VAR_0
+MENU_ENUM_LABEL_VALUE_PLAYLIST_SUBLABEL_LAST_PLAYED,VAR_1
+config_get_ptr,FUNC_0
+last_played_strftime,FUNC_1
+msg_hash_to_str,FUNC_2
+snprintf,FUNC_3
+strlcat,FUNC_4
+strlcpy,FUNC_5
+runtime_log_get_last_played_str,FUNC_6
+runtime_log,VAR_2
+str,VAR_3
+len,VAR_4
+timedate_style,VAR_5
+settings,VAR_6
+n,VAR_7
+tmp,VAR_8

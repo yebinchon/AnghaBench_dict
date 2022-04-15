@@ -1,0 +1,13 @@
+EBUSY,VAR_0
+MSR_P6_EVNTSEL0,VAR_1
+MSR_P6_PERFCTR0,VAR_2
+counter_config,VAR_3
+num_counters,VAR_4
+op_x86_warn_reserved,FUNC_0
+ppro_shutdown,FUNC_1
+release_perfctr_nmi,FUNC_2
+reserve_evntsel_nmi,FUNC_3
+reserve_perfctr_nmi,FUNC_4
+ppro_fill_in_addresses,FUNC_5
+msrs,VAR_5
+i,VAR_6

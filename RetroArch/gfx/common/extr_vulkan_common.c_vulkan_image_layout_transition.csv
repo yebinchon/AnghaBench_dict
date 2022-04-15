@@ -1,0 +1,17 @@
+VK_IMAGE_ASPECT_COLOR_BIT,VAR_0
+VK_QUEUE_FAMILY_IGNORED,VAR_1
+VK_REMAINING_ARRAY_LAYERS,VAR_2
+VK_REMAINING_MIP_LEVELS,VAR_3
+VK_STRUCTURE_TYPE_IMAGE_MEMORY_BARRIER,VAR_4
+vkCmdPipelineBarrier,FUNC_0
+vulkan_image_layout_transition,FUNC_1
+vk,VAR_5
+cmd,VAR_6
+image,VAR_7
+old_layout,VAR_8
+new_layout,VAR_9
+srcAccess,VAR_10
+dstAccess,VAR_11
+srcStages,VAR_12
+dstStages,VAR_13
+barrier,VAR_14

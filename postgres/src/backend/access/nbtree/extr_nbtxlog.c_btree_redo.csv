@@ -1,0 +1,16 @@
+PANIC,VAR_0
+XLR_INFO_MASK,VAR_1
+XLogRecGetInfo,FUNC_0
+_bt_restore_meta,FUNC_1
+btree_xlog_delete,FUNC_2
+btree_xlog_insert,FUNC_3
+btree_xlog_mark_page_halfdead,FUNC_4
+btree_xlog_newroot,FUNC_5
+btree_xlog_reuse_page,FUNC_6
+btree_xlog_split,FUNC_7
+btree_xlog_unlink_page,FUNC_8
+btree_xlog_vacuum,FUNC_9
+elog,FUNC_10
+btree_redo,FUNC_11
+record,VAR_2
+info,VAR_3

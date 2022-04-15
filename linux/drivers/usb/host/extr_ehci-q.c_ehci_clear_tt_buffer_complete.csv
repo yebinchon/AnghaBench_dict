@@ -1,0 +1,13 @@
+EHCI_RH_RUNNING,VAR_0
+QH_STATE_IDLE,VAR_1
+hcd_to_ehci,FUNC_0
+list_empty,FUNC_1
+qh_link_async,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ehci_clear_tt_buffer_complete,FUNC_5
+hcd,VAR_2
+ep,VAR_3
+ehci,VAR_4
+qh,VAR_5
+flags,VAR_6

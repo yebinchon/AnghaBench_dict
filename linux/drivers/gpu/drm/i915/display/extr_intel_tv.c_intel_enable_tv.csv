@@ -1,0 +1,13 @@
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+TV_CTL,VAR_0
+TV_ENC_ENABLE,VAR_1
+intel_wait_for_vblank,FUNC_2
+to_i915,FUNC_3
+to_intel_crtc,FUNC_4
+intel_enable_tv,FUNC_5
+encoder,VAR_2
+pipe_config,VAR_3
+conn_state,VAR_4
+dev,VAR_5
+dev_priv,VAR_6

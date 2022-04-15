@@ -1,0 +1,17 @@
+MAS0_ESEL,FUNC_0
+MAS0_TLBSEL,FUNC_1
+SPR_MAS0,VAR_0
+SPR_MAS1,VAR_1
+SPR_MAS2,VAR_2
+SPR_MAS3,VAR_3
+SPR_MAS7,VAR_4
+SPR_MAS8,VAR_5
+mfpvr,FUNC_2
+mtspr,FUNC_3
+panic,FUNC_4
+tlb1_find_free,FUNC_5
+tlb1_write_entry_int,FUNC_6
+arg,VAR_6
+args,VAR_7
+idx,VAR_8
+mas0,VAR_9

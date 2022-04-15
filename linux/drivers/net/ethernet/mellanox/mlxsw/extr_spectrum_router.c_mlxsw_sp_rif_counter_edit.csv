@@ -1,0 +1,17 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_RITR_LEN,VAR_0
+MLXSW_SP_RIF_COUNTER_EGRESS,VAR_1
+mlxsw_reg_query,FUNC_1
+mlxsw_reg_ritr_counter_pack,FUNC_2
+mlxsw_reg_ritr_rif_pack,FUNC_3
+mlxsw_reg_write,FUNC_4
+ritr,VAR_2
+mlxsw_sp_rif_counter_edit,FUNC_5
+mlxsw_sp,VAR_3
+rif_index,VAR_4
+counter_index,VAR_5
+enable,VAR_6
+dir,VAR_7
+ritr_pl,VAR_8
+is_egress,VAR_9
+err,VAR_10

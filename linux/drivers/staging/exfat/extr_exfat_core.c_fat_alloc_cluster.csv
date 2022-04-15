@@ -1,0 +1,16 @@
+CLUSTER_32,FUNC_0
+EXFAT_SB,FUNC_1
+FAT_read,FUNC_2
+FAT_write,FUNC_3
+UINT_MAX,VAR_0
+__set_sb_dirty,FUNC_4
+fat_alloc_cluster,FUNC_5
+sb,VAR_1
+num_alloc,VAR_2
+p_chain,VAR_3
+i,VAR_4
+num_clusters,VAR_5
+new_clu,VAR_6
+last_clu,VAR_7
+read_clu,VAR_8
+p_fs,VAR_9

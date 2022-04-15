@@ -1,0 +1,15 @@
+ADC1_CHANNEL_0,VAR_0
+ADC1_CHANNEL_3,VAR_1
+ADC_CTRL_RTC,VAR_2
+ADC_UNIT_1,VAR_3
+RTCIO,VAR_4
+adc1_fsm_disable,FUNC_0
+adc1_hall_enable,FUNC_1
+adc_convert,FUNC_2
+adc_power_on,FUNC_3
+adc_set_controller,FUNC_4
+portENTER_CRITICAL,FUNC_5
+portEXIT_CRITICAL,FUNC_6
+rtc_spinlock,VAR_5
+hall_sensor_get_value,FUNC_7
+hall_value,VAR_6

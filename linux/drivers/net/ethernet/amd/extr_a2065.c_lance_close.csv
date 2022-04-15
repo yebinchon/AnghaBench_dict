@@ -1,0 +1,11 @@
+IRQ_AMIGA_PORTS,VAR_0
+LE_C0_STOP,VAR_1
+LE_CSR0,VAR_2
+del_timer_sync,FUNC_0
+free_irq,FUNC_1
+netdev_priv,FUNC_2
+netif_stop_queue,FUNC_3
+lance_close,FUNC_4
+dev,VAR_3
+lp,VAR_4
+ll,VAR_5

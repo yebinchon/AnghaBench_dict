@@ -1,0 +1,14 @@
+CONFIG_RCU_EQS_DEBUG,VAR_0
+IS_ENABLED,FUNC_0
+RCU_DYNTICK_CTRL_CTR,VAR_1
+RCU_DYNTICK_CTRL_MASK,VAR_2
+WARN_ON_ONCE,FUNC_1
+atomic_add_return,FUNC_2
+atomic_andnot,FUNC_3
+rcu_data,VAR_3
+rcu_eqs_special_exit,FUNC_4
+smp_mb__after_atomic,FUNC_5
+this_cpu_ptr,FUNC_6
+rcu_dynticks_eqs_exit,FUNC_7
+rdp,VAR_4
+seq,VAR_5

@@ -1,0 +1,11 @@
+IWM_WAIT_LOCK,FUNC_0
+IWM_WAIT_UNLOCK,FUNC_1
+STAILQ_REMOVE,FUNC_2
+entry,VAR_0
+iwm_notification_wait,VAR_1
+msleep,FUNC_3
+iwm_wait_notification,FUNC_4
+notif_data,VAR_2
+wait_entry,VAR_3
+timeout,VAR_4
+ret,VAR_5

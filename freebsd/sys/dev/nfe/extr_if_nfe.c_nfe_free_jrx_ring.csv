@@ -1,0 +1,15 @@
+NFE_40BIT_ADDR,VAR_0
+NFE_JUMBO_RX_RING_COUNT,VAR_1
+NFE_JUMBO_SUP,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_unload,FUNC_2
+bus_dmamem_free,FUNC_3
+m_freem,FUNC_4
+nfe_free_jrx_ring,FUNC_5
+sc,VAR_3
+ring,VAR_4
+data,VAR_5
+desc,VAR_6
+i,VAR_7
+descsize,VAR_8

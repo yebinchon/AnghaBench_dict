@@ -1,0 +1,17 @@
+IP4_REPLY_MARK,FUNC_0
+IS_ERR,FUNC_1
+RT_TOS,FUNC_2
+__build_flow_key,FUNC_3
+__ip_route_output_key,FUNC_4
+__ip_rt_update_pmtu,FUNC_5
+ip_rt_put,FUNC_6
+ipv4_update_pmtu,FUNC_7
+skb,VAR_0
+net,VAR_1
+mtu,VAR_2
+oif,VAR_3
+protocol,VAR_4
+iph,VAR_5
+fl4,VAR_6
+rt,VAR_7
+mark,VAR_8

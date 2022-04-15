@@ -1,0 +1,17 @@
+E1000_CTRL,VAR_0
+E1000_CTRL_VME,VAR_1
+E1000_RCTL,VAR_2
+E1000_RCTL_CFIEN,VAR_3
+NETIF_F_HW_VLAN_CTAG_RX,VAR_4
+igb_set_vf_vlan_strip,FUNC_0
+netdev_priv,FUNC_1
+rd32,FUNC_2
+wr32,FUNC_3
+igb_vlan_mode,FUNC_4
+netdev,VAR_5
+features,VAR_6
+adapter,VAR_7
+hw,VAR_8
+ctrl,VAR_9
+rctl,VAR_10
+enable,VAR_11

@@ -1,0 +1,9 @@
+DS2760_ACTIVE_FULL,VAR_0
+DS2760_EEPROM_BLOCK0,VAR_1
+w1_ds2760_recall_eeprom,FUNC_0
+w1_ds2760_store_eeprom,FUNC_1
+w1_ds2760_write,FUNC_2
+ds2760_battery_write_active_full,FUNC_3
+di,VAR_2
+active_full,VAR_3
+tmp,VAR_4

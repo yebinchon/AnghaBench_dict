@@ -1,0 +1,17 @@
+SD_EVENT_OFF,VAR_0
+SD_EVENT_ONESHOT,VAR_1
+USEC_PER_MSEC,VAR_2
+assert,FUNC_0
+clock_boottime_or_monotonic,FUNC_1
+curl_glue_on_timer,VAR_3
+now,FUNC_2
+sd_event_add_time,FUNC_3
+sd_event_source_set_description,FUNC_4
+sd_event_source_set_enabled,FUNC_5
+sd_event_source_set_time,FUNC_6
+curl_glue_timer_callback,FUNC_7
+curl,VAR_4
+timeout_ms,VAR_5
+userdata,VAR_6
+g,VAR_7
+usec,VAR_8

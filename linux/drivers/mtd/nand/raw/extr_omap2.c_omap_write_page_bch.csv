@@ -1,0 +1,17 @@
+NAND_ECC_WRITE,VAR_0
+mtd_ooblayout_set_eccbytes,FUNC_0
+nand_prog_page_begin_op,FUNC_1
+nand_prog_page_end_op,FUNC_2
+nand_to_mtd,FUNC_3
+omap_calculate_ecc_bch_multi,FUNC_4
+stub1,FUNC_5
+stub2,FUNC_6
+stub3,FUNC_7
+omap_write_page_bch,FUNC_8
+chip,VAR_1
+buf,VAR_2
+oob_required,VAR_3
+page,VAR_4
+mtd,VAR_5
+ret,VAR_6
+ecc_calc,VAR_7

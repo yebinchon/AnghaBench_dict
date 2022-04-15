@@ -1,0 +1,14 @@
+FC_LS_RJT_RSN_LOGICAL_BUSY,VAR_0
+FC_MIN_PDUSZ,VAR_1
+FC_PARSE_BUSY,VAR_2
+FC_PARSE_FAILURE,VAR_3
+FC_PARSE_OK,VAR_4
+be16_to_cpu,FUNC_0
+wwn_is_equal,FUNC_1
+fc_plogi_rsp_parse,FUNC_2
+fchs,VAR_5
+len,VAR_6
+port_name,VAR_7
+els_cmd,VAR_8
+plogi,VAR_9
+ls_rjt,VAR_10

@@ -1,0 +1,12 @@
+BM_RTC_CTRL_ALARM_IRQ_EN,VAR_0
+BM_RTC_CTRL_ONEMSEC_IRQ_EN,VAR_1
+HW_RTC_CTRL,VAR_2
+free_irq,FUNC_0
+iounmap,FUNC_1
+kfree,FUNC_2
+platform_get_drvdata,FUNC_3
+rtc_device_unregister,FUNC_4
+stmp3xxx_clearl,FUNC_5
+stmp3xxx_rtc_remove,FUNC_6
+pdev,VAR_3
+rtc_data,VAR_4

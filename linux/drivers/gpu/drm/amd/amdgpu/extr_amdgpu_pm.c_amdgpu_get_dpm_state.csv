@@ -1,0 +1,15 @@
+PAGE_SIZE,VAR_0
+POWER_STATE_TYPE_BALANCED,VAR_1
+POWER_STATE_TYPE_BATTERY,VAR_2
+amdgpu_dpm_get_current_power_state,FUNC_0
+amdgpu_smu_get_current_power_state,FUNC_1
+dev_get_drvdata,FUNC_2
+is_support_sw_smu,FUNC_3
+snprintf,FUNC_4
+amdgpu_get_dpm_state,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+ddev,VAR_6
+adev,VAR_7
+pm,VAR_8

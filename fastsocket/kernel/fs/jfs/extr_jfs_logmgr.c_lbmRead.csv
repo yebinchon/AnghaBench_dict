@@ -1,0 +1,16 @@
+GFP_NOFS,VAR_0
+LOGPSIZE,VAR_1
+READ_SYNC,VAR_2
+bio_alloc,FUNC_0
+jfs_info,FUNC_1
+lbmAllocate,FUNC_2
+lbmIODone,VAR_3
+lbmREAD,VAR_4
+submit_bio,FUNC_3
+wait_event,FUNC_4
+lbmRead,FUNC_5
+log,VAR_5
+pn,VAR_6
+bpp,VAR_7
+bio,VAR_8
+bp,VAR_9

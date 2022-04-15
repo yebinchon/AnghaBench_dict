@@ -1,0 +1,8 @@
+ADX_WDT_CONTROL,VAR_0
+ADX_WDT_CONTROL_ENABLE,VAR_1
+WDT_STATE_START,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+adx_wdt_start_locked,FUNC_2
+wdt,VAR_3
+ctrl,VAR_4

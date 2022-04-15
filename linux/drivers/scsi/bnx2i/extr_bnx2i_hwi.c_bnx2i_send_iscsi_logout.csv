@@ -1,0 +1,12 @@
+EP_STATE_LOGOUT_SENT,VAR_0
+ISCSI_LOGOUT_REQUEST_ALWAYS_ONE,VAR_1
+ISCSI_LOGOUT_REQUEST_TYPE_SHIFT,VAR_2
+ISCSI_TASK_TYPE_MPATH,VAR_3
+be32_to_cpu,FUNC_0
+bnx2i_ring_dbell_update_sq_params,FUNC_1
+memset,FUNC_2
+bnx2i_send_iscsi_logout,FUNC_3
+bnx2i_conn,VAR_4
+task,VAR_5
+logout_wqe,VAR_6
+logout_hdr,VAR_7

@@ -1,0 +1,14 @@
+OCFS2_LOCK_FREEING,VAR_0
+OCFS2_LOCK_QUEUED,VAR_1
+assert_spin_locked,FUNC_0
+list_add_tail,FUNC_1
+list_empty,FUNC_2
+lockres_or_flags,FUNC_3
+mlog,FUNC_4
+mlog_entry_void,FUNC_5
+mlog_exit_void,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+ocfs2_schedule_blocked_lock,FUNC_9
+osb,VAR_2
+lockres,VAR_3

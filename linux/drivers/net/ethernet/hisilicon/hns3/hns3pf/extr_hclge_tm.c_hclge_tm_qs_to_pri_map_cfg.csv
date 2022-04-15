@@ -1,0 +1,11 @@
+HCLGE_OPC_TM_QS_TO_PRI_LINK,VAR_0
+HCLGE_TM_QS_PRI_LINK_VLD_MSK,VAR_1
+cpu_to_le16,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hclge_tm_qs_to_pri_map_cfg,FUNC_3
+hdev,VAR_2
+qs_id,VAR_3
+pri,VAR_4
+map,VAR_5
+desc,VAR_6

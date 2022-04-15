@@ -1,0 +1,14 @@
+DescIntrOnTx,VAR_0
+TX_RING_SIZE,VAR_1
+TxListPtr,VAR_2
+cpu_to_le32,FUNC_0
+ioread32,FUNC_1
+iowrite32,FUNC_2
+netdev_priv,FUNC_3
+tx_poll,FUNC_4
+data,VAR_3
+dev,VAR_4
+np,VAR_5
+head,VAR_6
+txdesc,VAR_7
+entry,VAR_8

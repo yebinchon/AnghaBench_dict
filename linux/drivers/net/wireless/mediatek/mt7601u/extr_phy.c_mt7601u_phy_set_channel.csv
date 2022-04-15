@@ -1,0 +1,13 @@
+MT7601U_STATE_SCANNING,VAR_0
+MT_CALIBRATE_INTERVAL,VAR_1
+MT_FREQ_CAL_INIT_DELAY,VAR_2
+__mt7601u_phy_set_channel,FUNC_0
+cancel_delayed_work_sync,FUNC_1
+ieee80211_queue_delayed_work,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+test_bit,FUNC_5
+mt7601u_phy_set_channel,FUNC_6
+dev,VAR_3
+chandef,VAR_4
+ret,VAR_5

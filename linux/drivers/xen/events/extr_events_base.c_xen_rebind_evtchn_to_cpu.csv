@@ -1,0 +1,13 @@
+EVTCHNOP_bind_vcpu,VAR_0
+HYPERVISOR_event_channel_op,FUNC_0
+VALID_EVTCHN,FUNC_1
+bind_evtchn_to_cpu,FUNC_2
+test_and_set_mask,FUNC_3
+unmask_evtchn,FUNC_4
+xen_support_evtchn_rebind,FUNC_5
+xen_vcpu_nr,FUNC_6
+xen_rebind_evtchn_to_cpu,FUNC_7
+evtchn,VAR_1
+tcpu,VAR_2
+bind_vcpu,VAR_3
+masked,VAR_4

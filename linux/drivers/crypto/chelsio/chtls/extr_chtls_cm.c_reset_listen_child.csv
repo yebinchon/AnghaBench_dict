@@ -1,0 +1,12 @@
+CPL_ABORT_SEND_RST,VAR_0
+INC_ORPHAN_COUNT,FUNC_0
+TCP_CLOSE,VAR_1
+alloc_ctrl_skb,FUNC_1
+chtls_send_reset,FUNC_2
+inet_csk_destroy_sock,FUNC_3
+rcu_dereference_sk_user_data,FUNC_4
+sock_orphan,FUNC_5
+reset_listen_child,FUNC_6
+child,VAR_2
+csk,VAR_3
+skb,VAR_4

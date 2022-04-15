@@ -1,0 +1,16 @@
+ETHER_HDR_LEN,VAR_0
+IFEF_BOND,VAR_1
+IF_BOND_MODE_LACP,VAR_2
+LA_MARKER_TLV_TYPE_MARKER,VAR_3
+LA_MARKER_TLV_TYPE_MARKER_RESPONSE,VAR_4
+bond_lock,FUNC_0
+bond_lookup_port,FUNC_1
+bond_unlock,FUNC_2
+bondport_slow_proto_transmit,FUNC_3
+ifnet_eflags,FUNC_4
+m_freem,FUNC_5
+bond_receive_la_marker_pdu,FUNC_6
+m,VAR_5
+port_ifp,VAR_6
+marker_p,VAR_7
+p,VAR_8

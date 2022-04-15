@@ -1,0 +1,15 @@
+fc_lport_enter_ready,FUNC_0
+fc_rport_create,FUNC_1
+fc_rport_destroy,VAR_0
+fc_rport_login,FUNC_2
+fc_rport_logoff,FUNC_3
+kref_get,FUNC_4
+kref_put,FUNC_5
+lockdep_assert_held,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+fc_lport_ptp_setup,FUNC_9
+lport,VAR_1
+remote_fid,VAR_2
+remote_wwpn,VAR_3
+remote_wwnn,VAR_4

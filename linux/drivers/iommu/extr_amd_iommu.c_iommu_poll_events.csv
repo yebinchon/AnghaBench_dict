@@ -1,0 +1,11 @@
+EVENT_ENTRY_SIZE,VAR_0
+EVT_BUFFER_SIZE,VAR_1
+MMIO_EVT_HEAD_OFFSET,VAR_2
+MMIO_EVT_TAIL_OFFSET,VAR_3
+iommu_print_event,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+iommu_poll_events,FUNC_3
+iommu,VAR_4
+head,VAR_5
+tail,VAR_6

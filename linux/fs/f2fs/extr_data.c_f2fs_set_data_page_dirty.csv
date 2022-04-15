@@ -1,0 +1,16 @@
+DATA,VAR_0
+IS_ATOMIC_WRITTEN_PAGE,FUNC_0
+PageDirty,FUNC_1
+PageSwapCache,FUNC_2
+PageUptodate,FUNC_3
+SetPageUptodate,FUNC_4
+__set_page_dirty_nobuffers,FUNC_5
+f2fs_is_atomic_file,FUNC_6
+f2fs_is_commit_atomic_write,FUNC_7
+f2fs_register_inmem_page,FUNC_8
+f2fs_update_dirty_page,FUNC_9
+page_file_mapping,FUNC_10
+trace_f2fs_set_page_dirty,FUNC_11
+f2fs_set_data_page_dirty,FUNC_12
+page,VAR_1
+inode,VAR_2

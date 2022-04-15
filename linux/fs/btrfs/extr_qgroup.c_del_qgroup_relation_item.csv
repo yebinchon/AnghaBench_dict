@@ -1,0 +1,15 @@
+BTRFS_QGROUP_RELATION_KEY,VAR_0
+ENOENT,VAR_1
+ENOMEM,VAR_2
+btrfs_alloc_path,FUNC_0
+btrfs_del_item,FUNC_1
+btrfs_free_path,FUNC_2
+btrfs_search_slot,FUNC_3
+del_qgroup_relation_item,FUNC_4
+trans,VAR_3
+src,VAR_4
+dst,VAR_5
+ret,VAR_6
+quota_root,VAR_7
+path,VAR_8
+key,VAR_9

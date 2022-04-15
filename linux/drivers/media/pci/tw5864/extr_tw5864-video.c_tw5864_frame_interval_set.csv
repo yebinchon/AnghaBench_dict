@@ -1,0 +1,10 @@
+STD_NTSC,VAR_0
+TW5864_H264EN_RATE_CNTL_HI_WORD,FUNC_0
+TW5864_H264EN_RATE_CNTL_LO_WORD,FUNC_1
+tw_writel,FUNC_2
+tw5864_frame_interval_set,FUNC_3
+input,VAR_1
+dev,VAR_2
+unary_framerate,VAR_3
+shift,VAR_4
+std_max_fps,VAR_5

@@ -1,0 +1,11 @@
+ETIMEDOUT,VAR_0
+JZ_MMC_IRQ_END_CMD_RES,VAR_1
+from_timer,FUNC_0
+host,VAR_2
+jz4740_mmc_request_done,FUNC_1
+jz4740_mmc_set_irq_enabled,FUNC_2
+test_and_clear_bit,FUNC_3
+timeout_timer,VAR_3
+jz4740_mmc_timeout,FUNC_4
+t,VAR_4
+host,VAR_5

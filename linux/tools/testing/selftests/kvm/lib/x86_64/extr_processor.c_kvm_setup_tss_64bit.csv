@@ -1,0 +1,11 @@
+KVM_UTIL_MIN_VADDR,VAR_0
+getpagesize,FUNC_0
+kvm_seg_fill_gdt_64bit,FUNC_1
+memset,FUNC_2
+vm_vaddr_alloc,FUNC_3
+kvm_setup_tss_64bit,FUNC_4
+vm,VAR_1
+segp,VAR_2
+selector,VAR_3
+gdt_memslot,VAR_4
+pgd_memslot,VAR_5

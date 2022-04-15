@@ -1,0 +1,17 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_INFO_HALF_DUPLEX,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+snd_es1688_capture_ops,VAR_4
+snd_es1688_chip_id,FUNC_0
+snd_es1688_playback_ops,VAR_5
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+strcpy,FUNC_4
+snd_es1688_pcm,FUNC_5
+card,VAR_6
+chip,VAR_7
+device,VAR_8
+pcm,VAR_9
+err,VAR_10

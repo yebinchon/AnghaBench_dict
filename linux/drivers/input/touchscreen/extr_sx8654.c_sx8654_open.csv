@@ -1,0 +1,14 @@
+CMD_PENTRG,VAR_0
+I2C_REG_TOUCH0,VAR_1
+POWDLY_1_1MS,VAR_2
+RATE_5000CPS,VAR_3
+dev_err,FUNC_0
+enable_irq,FUNC_1
+i2c_smbus_write_byte,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+input_get_drvdata,FUNC_4
+sx8654_open,FUNC_5
+dev,VAR_4
+sx8654,VAR_5
+client,VAR_6
+error,VAR_7

@@ -1,0 +1,16 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_cherrypick_commit,FUNC_2
+git_commit_free,FUNC_3
+git_commit_lookup,FUNC_4
+git_index_free,FUNC_5
+git_oid_fromstr,FUNC_6
+merge_test_index,FUNC_7
+repo,VAR_0
+test_cherrypick_bare__orphan,FUNC_8
+head,VAR_1
+commit,VAR_2
+index,VAR_3
+head_oid,VAR_4
+cherry_oid,VAR_5
+merge_index_entries,VAR_6

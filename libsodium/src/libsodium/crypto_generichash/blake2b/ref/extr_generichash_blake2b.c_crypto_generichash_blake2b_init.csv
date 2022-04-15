@@ -1,0 +1,12 @@
+BLAKE2B_KEYBYTES,VAR_0
+BLAKE2B_OUTBYTES,VAR_1
+COMPILER_ASSERT,FUNC_0
+UINT8_MAX,VAR_2
+assert,FUNC_1
+blake2b_init,FUNC_2
+blake2b_init_key,FUNC_3
+crypto_generichash_blake2b_init,FUNC_4
+state,VAR_3
+key,VAR_4
+keylen,VAR_5
+outlen,VAR_6

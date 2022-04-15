@@ -1,0 +1,14 @@
+CESA_SA_DESC_CFG_FIRST_FRAG,VAR_0
+CESA_SA_DESC_CFG_FRAG_MSK,VAR_1
+CESA_SA_DESC_CFG_OP_MAC_ONLY,VAR_2
+CESA_SA_DESC_CFG_OP_MSK,VAR_3
+ahash_request_ctx,FUNC_0
+memset,FUNC_1
+mv_cesa_set_mac_op_frag_len,FUNC_2
+mv_cesa_set_mac_op_total_len,FUNC_3
+mv_cesa_update_op_cfg,FUNC_4
+mv_cesa_ahash_init,FUNC_5
+req,VAR_4
+tmpl,VAR_5
+algo_le,VAR_6
+creq,VAR_7

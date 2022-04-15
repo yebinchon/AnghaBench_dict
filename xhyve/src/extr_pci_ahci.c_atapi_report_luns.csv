@@ -1,0 +1,12 @@
+ATA_I_CMD,VAR_0
+ATA_I_IN,VAR_1
+ATA_S_DSC,VAR_2
+ATA_S_READY,VAR_3
+ahci_write_fis_d2h,FUNC_0
+memset,FUNC_1
+write_prdt,FUNC_2
+atapi_report_luns,FUNC_3
+p,VAR_4
+slot,VAR_5
+cfis,VAR_6
+buf,VAR_7

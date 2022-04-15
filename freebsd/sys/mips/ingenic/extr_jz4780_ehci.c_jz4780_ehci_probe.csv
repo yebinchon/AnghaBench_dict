@@ -1,0 +1,8 @@
+BUS_PROBE_DEFAULT,VAR_0
+EHCI_HC_DEVSTR,VAR_1
+ENXIO,VAR_2
+device_set_desc,FUNC_0
+ofw_bus_is_compatible,FUNC_1
+ofw_bus_status_okay,FUNC_2
+jz4780_ehci_probe,FUNC_3
+dev,VAR_3

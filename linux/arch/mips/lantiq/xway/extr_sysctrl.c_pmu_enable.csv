@@ -1,0 +1,14 @@
+PWDCR,FUNC_0
+PWDCR_EN_XRX,FUNC_1
+PWDSR,FUNC_2
+PWDSR_XRX,FUNC_3
+g_pmu_lock,VAR_0
+of_machine_is_compatible,FUNC_4
+panic,FUNC_5
+pmu_r32,FUNC_6
+pmu_w32,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+pmu_enable,FUNC_10
+clk,VAR_1
+retry,VAR_2

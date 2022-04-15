@@ -1,0 +1,12 @@
+BUG_ON,FUNC_0
+WARN_ON,FUNC_1
+drm_mode_object_unregister,FUNC_2
+drm_modeset_lock_fini,FUNC_3
+kfree,FUNC_4
+list_del,FUNC_5
+list_empty,FUNC_6
+memset,FUNC_7
+stub1,FUNC_8
+drm_plane_cleanup,FUNC_9
+plane,VAR_0
+dev,VAR_1

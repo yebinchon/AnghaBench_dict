@@ -1,0 +1,15 @@
+CLONE,VAR_0
+EXEC,VAR_1
+EXIT,VAR_2
+PTRACE_O_TRACEEXIT,VAR_3
+QUIESCE,VAR_4
+UTRACE_EVENT,FUNC_0
+UTRACE_EVENT_SIGNAL_ALL,VAR_5
+ptrace_context,FUNC_1
+utrace_set_events,FUNC_2
+ptrace_set_events,FUNC_3
+target,VAR_6
+engine,VAR_7
+options,VAR_8
+ctx,VAR_9
+events,VAR_10

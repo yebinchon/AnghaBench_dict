@@ -1,0 +1,16 @@
+kvm_dirty_bitmap_bytes,FUNC_0
+kvm_flush_remote_tlbs,FUNC_1
+kvm_get_dirty_log,FUNC_2
+kvm_ia64_sync_dirty_log,FUNC_3
+memset,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+kvm_vm_ioctl_get_dirty_log,FUNC_9
+kvm,VAR_0
+log,VAR_1
+r,VAR_2
+n,VAR_3
+memslot,VAR_4
+is_dirty,VAR_5

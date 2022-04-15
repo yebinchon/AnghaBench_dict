@@ -1,0 +1,15 @@
+BLK_STS_IOERR,VAR_0
+BLK_STS_OK,VAR_1
+REQ_OP_READ,VAR_2
+blk_mq_end_request,FUNC_0
+blk_mq_requeue_request,FUNC_1
+blk_mq_rq_to_pdu,FUNC_2
+blk_rq_bytes,FUNC_3
+blk_update_request,FUNC_4
+req_op,FUNC_5
+zero_fill_bio,FUNC_6
+lo_complete_rq,FUNC_7
+rq,VAR_3
+cmd,VAR_4
+ret,VAR_5
+bio,VAR_6

@@ -1,0 +1,15 @@
+CL_CDKeyValidate,FUNC_0
+Com_Printf,FUNC_1
+FS_FCloseFile,FUNC_2
+FS_Printf,FUNC_3
+FS_SV_FOpenFileWrite,FUNC_4
+FS_Write,FUNC_5
+MAX_OSPATH,VAR_0
+Q_strncpyz,FUNC_6
+sprintf,FUNC_7
+Com_WriteCDKey,FUNC_8
+filename,VAR_1
+ikey,VAR_2
+f,VAR_3
+fbuffer,VAR_4
+key,VAR_5

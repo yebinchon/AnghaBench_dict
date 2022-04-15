@@ -1,0 +1,11 @@
+PAGE_SIZE,VAR_0
+SRMMU_MAX_NOCACHE_PAGES,VAR_1
+SRMMU_MIN_NOCACHE_PAGES,VAR_2
+SRMMU_NOCACHE_ALCRATIO,VAR_3
+SRMMU_NOCACHE_VADDR,VAR_4
+probe_memory,FUNC_0
+srmmu_nocache_end,VAR_5
+srmmu_nocache_size,VAR_6
+srmmu_nocache_calcsize,FUNC_1
+sysmemavail,VAR_7
+srmmu_nocache_npages,VAR_8

@@ -1,0 +1,15 @@
+SDIO_CCCR_DRIVE_STRENGTH,VAR_0
+SDIO_DRIVE_DTSx_MASK,VAR_1
+SDIO_DRIVE_DTSx_SHIFT,VAR_2
+SD_DRIVER_TYPE_B,VAR_3
+host_drive_to_sdio_drive,FUNC_0
+mmc_io_rw_direct,FUNC_1
+mmc_select_drive_strength,FUNC_2
+mmc_set_driver_type,FUNC_3
+sdio_select_driver_type,FUNC_4
+card,VAR_4
+card_drv_type,VAR_5
+drive_strength,VAR_6
+drv_type,VAR_7
+card_strength,VAR_8
+err,VAR_9

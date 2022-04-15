@@ -1,0 +1,16 @@
+mtx_lock_spin,FUNC_0
+mtx_unlock_spin,FUNC_1
+outb,FUNC_2
+outl,FUNC_3
+outw,FUNC_4
+pci_cfgdisable,FUNC_5
+pci_cfgenable,FUNC_6
+pcicfg_mtx,VAR_0
+pcireg_cfgwrite,FUNC_7
+bus,VAR_1
+slot,VAR_2
+func,VAR_3
+reg,VAR_4
+data,VAR_5
+bytes,VAR_6
+port,VAR_7

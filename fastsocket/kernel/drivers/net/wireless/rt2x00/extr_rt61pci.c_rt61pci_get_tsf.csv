@@ -1,0 +1,12 @@
+TXRX_CSR12,VAR_0
+TXRX_CSR12_LOW_TSFTIMER,VAR_1
+TXRX_CSR13,VAR_2
+TXRX_CSR13_HIGH_TSFTIMER,VAR_3
+rt2x00_get_field32,FUNC_0
+rt2x00mmio_register_read,FUNC_1
+rt61pci_get_tsf,FUNC_2
+hw,VAR_4
+vif,VAR_5
+rt2x00dev,VAR_6
+tsf,VAR_7
+reg,VAR_8

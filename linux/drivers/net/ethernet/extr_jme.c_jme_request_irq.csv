@@ -1,0 +1,17 @@
+IRQF_SHARED,VAR_0
+JME_FLAG_MSI,VAR_1
+clear_bit,FUNC_0
+jme_intr,VAR_2
+jme_msi,VAR_3
+netdev_err,FUNC_1
+pci_disable_msi,FUNC_2
+pci_enable_msi,FUNC_3
+request_irq,FUNC_4
+set_bit,FUNC_5
+test_bit,FUNC_6
+jme_request_irq,FUNC_7
+jme,VAR_4
+rc,VAR_5
+netdev,VAR_6
+handler,VAR_7
+irq_flags,VAR_8

@@ -1,0 +1,13 @@
+POLL_OUT,VAR_0
+SOCK_WAKE_SPACE,VAR_1
+_enter,FUNC_0
+rcu_dereference,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+rxrpc_writable,FUNC_4
+sk_wake_async,FUNC_5
+skwq_has_sleeper,FUNC_6
+wake_up_interruptible,FUNC_7
+rxrpc_write_space,FUNC_8
+sk,VAR_2
+wq,VAR_3

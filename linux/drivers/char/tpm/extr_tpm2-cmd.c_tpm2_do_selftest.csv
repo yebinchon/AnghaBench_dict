@@ -1,0 +1,14 @@
+TPM2_CC_SELF_TEST,VAR_0
+TPM2_RC_INITIALIZE,VAR_1
+TPM2_RC_SUCCESS,VAR_2
+TPM2_RC_TESTING,VAR_3
+TPM2_ST_NO_SESSIONS,VAR_4
+tpm_buf_append_u8,FUNC_0
+tpm_buf_destroy,FUNC_1
+tpm_buf_init,FUNC_2
+tpm_transmit_cmd,FUNC_3
+tpm2_do_selftest,FUNC_4
+chip,VAR_5
+buf,VAR_6
+full,VAR_7
+rc,VAR_8

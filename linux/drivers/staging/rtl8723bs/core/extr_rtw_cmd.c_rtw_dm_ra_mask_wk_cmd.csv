@@ -1,0 +1,16 @@
+DM_RA_MSK_WK_CID,VAR_0
+GEN_CMD_CODE,FUNC_0
+_FAIL,VAR_1
+_SUCCESS,VAR_2
+_Set_Drv_Extra,VAR_3
+init_h2fwcmd_w_parm_no_rsp,FUNC_1
+kfree,FUNC_2
+rtw_enqueue_cmd,FUNC_3
+rtw_zmalloc,FUNC_4
+rtw_dm_ra_mask_wk_cmd,FUNC_5
+padapter,VAR_4
+psta,VAR_5
+ph2c,VAR_6
+pdrvextra_cmd_parm,VAR_7
+pcmdpriv,VAR_8
+res,VAR_9

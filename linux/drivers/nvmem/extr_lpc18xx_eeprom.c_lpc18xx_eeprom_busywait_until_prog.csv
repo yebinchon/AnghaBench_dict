@@ -1,0 +1,17 @@
+ETIMEDOUT,VAR_0
+LPC18XX_EEPROM_INTSTAT,VAR_1
+LPC18XX_EEPROM_INTSTATCLR,VAR_2
+LPC18XX_EEPROM_INTSTATCLR_PROG_CLR_ST,VAR_3
+LPC18XX_EEPROM_INTSTAT_END_OF_PROG,VAR_4
+LPC18XX_EEPROM_PROGRAM_TIME,VAR_5
+USEC_PER_MSEC,VAR_6
+jiffies,VAR_7
+lpc18xx_eeprom_readl,FUNC_0
+lpc18xx_eeprom_writel,FUNC_1
+msecs_to_jiffies,FUNC_2
+time_is_after_jiffies,FUNC_3
+usleep_range,FUNC_4
+lpc18xx_eeprom_busywait_until_prog,FUNC_5
+eeprom,VAR_8
+end,VAR_9
+val,VAR_10

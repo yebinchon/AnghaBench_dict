@@ -1,0 +1,14 @@
+OCTEON_IRQ_MSI_BIT0,VAR_0
+msi_free_irq_bitmask,VAR_1
+msi_free_irq_bitmask_lock,VAR_2
+msi_irq_size,VAR_3
+msi_multiple_irq_bitmask,VAR_4
+panic,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+arch_teardown_msi_irq,FUNC_3
+irq,VAR_5
+number_irqs,VAR_6
+bitmask,VAR_7
+index,VAR_8
+irq0,VAR_9

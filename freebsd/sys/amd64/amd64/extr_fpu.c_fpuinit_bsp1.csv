@@ -1,0 +1,17 @@
+CPUID_EXTSTATE_XSAVEOPT,VAR_0
+TUNABLE_ULONG_FETCH,FUNC_0
+XFEATURE_AVX512,VAR_1
+XFEATURE_ENABLED_SSE,VAR_2
+XFEATURE_ENABLED_X87,VAR_3
+XFEATURE_MPX,VAR_4
+cpuid_count,FUNC_1
+ctx_switch_xsave,VAR_5
+disable_wp,FUNC_2
+panic,FUNC_3
+restore_wp,FUNC_4
+use_xsave,VAR_6
+xsave_mask,VAR_7
+fpuinit_bsp1,FUNC_5
+cp,VAR_8
+xsave_mask_user,VAR_9
+old_wp,VAR_10

@@ -1,0 +1,17 @@
+EOPNOTSUPP,VAR_0
+KVM_S390_STOP_FLAG_STORE_STATUS,VAR_1
+KVM_S390_STORE_STATUS_NOADDR,VAR_2
+kvm_s390_is_stop_irq_pending,FUNC_0
+kvm_s390_user_cpu_state_ctrl,FUNC_1
+kvm_s390_vcpu_has_irq,FUNC_2
+kvm_s390_vcpu_stop,FUNC_3
+kvm_s390_vcpu_store_status,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+trace_kvm_s390_stop_request,FUNC_7
+handle_stop,FUNC_8
+vcpu,VAR_3
+li,VAR_4
+rc,VAR_5
+flags,VAR_6
+stop_pending,VAR_7

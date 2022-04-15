@@ -1,0 +1,11 @@
+AUTH_NULL,VAR_0
+CIPHER_AES_GCM,VAR_1
+IV_FROM_DPTR,VAR_2
+be64_to_cpu,FUNC_0
+crypto_aead_ctx,FUNC_1
+nitrox_aead_init,FUNC_2
+nitrox_gcm_common_init,FUNC_3
+aead,VAR_3
+ret,VAR_4
+nctx,VAR_5
+flags,VAR_6

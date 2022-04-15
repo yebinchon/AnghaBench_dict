@@ -1,0 +1,11 @@
+EBT_DROP,VAR_0
+ETH_ALEN,VAR_1
+NF_BR_BROUTING,VAR_2
+PACKET_HOST,VAR_3
+eth_hdr,FUNC_0
+memcpy,FUNC_1
+skb_make_writable,FUNC_2
+ebt_redirect_tg,FUNC_3
+skb,VAR_4
+par,VAR_5
+info,VAR_6

@@ -1,0 +1,14 @@
+STRACE,FUNC_0
+_EFAULT,VAR_0
+_EINVAL,VAR_1
+do_sigaction,FUNC_1
+user_get,FUNC_2
+user_put,FUNC_3
+sys_rt_sigaction,FUNC_4
+signum,VAR_2
+action_addr,VAR_3
+oldaction_addr,VAR_4
+sigset_size,VAR_5
+action,VAR_6
+oldaction,VAR_7
+err,VAR_8

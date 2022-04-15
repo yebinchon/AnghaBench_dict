@@ -1,0 +1,13 @@
+BHND_NVRAM_TYPE_UINT16,VAR_0
+BHND_NVRAM_TYPE_UINT32,VAR_1
+BHND_NVRAM_TYPE_UINT8,VAR_2
+EINVAL,VAR_3
+bhnd_nvram_getvar,FUNC_0
+device_printf,FUNC_1
+bhnd_nvram_getvar_uint,FUNC_2
+dev,VAR_4
+name,VAR_5
+value,VAR_6
+width,VAR_7
+type,VAR_8
+len,VAR_9

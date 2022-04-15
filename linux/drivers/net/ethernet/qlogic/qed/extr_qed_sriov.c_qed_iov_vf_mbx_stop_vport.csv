@@ -1,0 +1,17 @@
+CHANNEL_TLV_VPORT_TEARDOWN,VAR_0
+DP_ERR,FUNC_0
+DP_NOTICE,FUNC_1
+PFVF_STATUS_FAILURE,VAR_1
+PFVF_STATUS_MALICIOUS,VAR_2
+PFVF_STATUS_SUCCESS,VAR_3
+memset,FUNC_2
+qed_iov_prepare_resp,FUNC_3
+qed_iov_validate_active_rxq,FUNC_4
+qed_iov_validate_active_txq,FUNC_5
+qed_sp_vport_stop,FUNC_6
+qed_iov_vf_mbx_stop_vport,FUNC_7
+p_hwfn,VAR_4
+p_ptt,VAR_5
+vf,VAR_6
+status,VAR_7
+rc,VAR_8

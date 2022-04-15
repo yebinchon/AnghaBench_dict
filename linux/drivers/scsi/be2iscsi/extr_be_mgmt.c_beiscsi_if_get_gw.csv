@@ -1,0 +1,11 @@
+CMD_SUBSYSTEM_ISCSI,VAR_0
+OPCODE_COMMON_ISCSI_NTWK_GET_DEFAULT_GATEWAY,VAR_1
+beiscsi_exec_nemb_cmd,FUNC_0
+beiscsi_prep_nemb_cmd,FUNC_1
+beiscsi_if_get_gw,FUNC_2
+phba,VAR_2
+ip_type,VAR_3
+resp,VAR_4
+req,VAR_5
+nonemb_cmd,VAR_6
+rc,VAR_7

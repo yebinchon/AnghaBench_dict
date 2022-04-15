@@ -1,0 +1,17 @@
+RQ_CFQG,FUNC_0
+RQ_CFQQ,FUNC_1
+blk_rq_bytes,FUNC_2
+blk_rq_sectors,FUNC_3
+cfq_blkiocg_update_dispatch_stats,FUNC_4
+cfq_cfqq_sync,FUNC_5
+cfq_find_next_rq,FUNC_6
+cfq_log_cfqq,FUNC_7
+cfq_remove_request,FUNC_8
+elv_dispatch_sort,FUNC_9
+rq_data_dir,FUNC_10
+rq_is_sync,FUNC_11
+cfq_dispatch_insert,FUNC_12
+q,VAR_0
+rq,VAR_1
+cfqd,VAR_2
+cfqq,VAR_3

@@ -1,0 +1,14 @@
+AMDGPU_HPD_1,VAR_0
+AMDGPU_HPD_2,VAR_1
+AMDGPU_HPD_3,VAR_2
+AMDGPU_HPD_4,VAR_3
+AMDGPU_HPD_5,VAR_4
+AMDGPU_HPD_6,VAR_5
+AMDGPU_HPD_NONE,VAR_6
+amdgpu_display_hpd_get_gpio_reg,FUNC_0
+memset,FUNC_1
+amdgpu_atombios_get_hpd_info_from_gpio,FUNC_2
+adev,VAR_7
+gpio,VAR_8
+hpd,VAR_9
+reg,VAR_10

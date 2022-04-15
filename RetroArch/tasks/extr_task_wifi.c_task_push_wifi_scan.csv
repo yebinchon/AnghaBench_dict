@@ -1,0 +1,10 @@
+MSG_SCANNING_WIRELESS_NETWORKS,VAR_0
+TASK_TYPE_BLOCKING,VAR_1
+msg_hash_to_str,FUNC_0
+strdup,FUNC_1
+task_init,FUNC_2
+task_queue_push,FUNC_3
+task_wifi_scan_handler,VAR_2
+task_push_wifi_scan,FUNC_4
+cb,VAR_3
+task,VAR_4

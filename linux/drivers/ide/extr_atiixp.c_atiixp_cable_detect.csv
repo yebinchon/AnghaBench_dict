@@ -1,0 +1,10 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+ATIIXP_IDE_UDMA_MODE,VAR_2
+pci_read_config_byte,FUNC_0
+to_pci_dev,FUNC_1
+atiixp_cable_detect,FUNC_2
+hwif,VAR_3
+pdev,VAR_4
+udma_mode,VAR_5
+ch,VAR_6

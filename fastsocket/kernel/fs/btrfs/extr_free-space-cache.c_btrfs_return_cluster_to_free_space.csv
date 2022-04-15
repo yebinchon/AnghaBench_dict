@@ -1,0 +1,10 @@
+__btrfs_return_cluster_to_free_space,FUNC_0
+atomic_inc,FUNC_1
+btrfs_put_block_group,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+btrfs_return_cluster_to_free_space,FUNC_5
+block_group,VAR_0
+cluster,VAR_1
+ctl,VAR_2
+ret,VAR_3

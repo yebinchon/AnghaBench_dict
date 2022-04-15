@@ -1,0 +1,15 @@
+SD_BUS_ERROR_INVALID_ARGS,VAR_0
+UNIT_SCOPE,VAR_1
+assert,FUNC_0
+bus_get_unit_by_name,FUNC_1
+bus_scope_method_abandon,FUNC_2
+sd_bus_error_setf,FUNC_3
+sd_bus_message_read,FUNC_4
+method_abandon_scope,FUNC_5
+message,VAR_2
+userdata,VAR_3
+error,VAR_4
+m,VAR_5
+name,VAR_6
+u,VAR_7
+r,VAR_8

@@ -1,0 +1,15 @@
+AC_AMPCAP_MIN_MUTE,VAR_0
+AC_AMPCAP_MUTE,VAR_1
+AC_AMP_FAKE_MUTE,VAR_2
+query_amp_caps,FUNC_0
+snd_hdac_regmap_encode_amp,FUNC_1
+snd_hdac_regmap_update_raw,FUNC_2
+snd_hda_codec_amp_update,FUNC_3
+codec,VAR_3
+nid,VAR_4
+ch,VAR_5
+dir,VAR_6
+idx,VAR_7
+mask,VAR_8
+val,VAR_9
+cmd,VAR_10

@@ -1,0 +1,13 @@
+MAX98927_AMP_EN_MASK,VAR_0
+MAX98927_GLOBAL_EN_MASK,VAR_1
+MAX98927_R003A_AMP_EN,VAR_2
+MAX98927_R00FF_GLOBAL_SHDN,VAR_3
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+snd_soc_dapm_to_component,FUNC_2
+max98927_dac_event,FUNC_3
+w,VAR_4
+kcontrol,VAR_5
+event,VAR_6
+component,VAR_7
+max98927,VAR_8

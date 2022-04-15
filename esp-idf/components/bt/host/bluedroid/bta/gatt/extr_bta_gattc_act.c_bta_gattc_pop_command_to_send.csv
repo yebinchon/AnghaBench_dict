@@ -1,0 +1,16 @@
+BTA_GATTC_QUEUE_FULL_EVT,VAR_0
+BT_TRANSPORT_LE,VAR_1
+FALSE,VAR_2
+GATT_SUCCESS,VAR_3
+bta_gattc_sm_execute,FUNC_0
+l2cu_find_lcb_by_bd_addr,FUNC_1
+list_begin,FUNC_2
+list_is_empty,FUNC_3
+list_node,FUNC_4
+list_remove,FUNC_5
+stub1,FUNC_6
+bta_gattc_pop_command_to_send,FUNC_7
+p_clcb,VAR_4
+node,VAR_5
+p_data,VAR_6
+cb_data,VAR_7

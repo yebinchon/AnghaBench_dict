@@ -1,0 +1,16 @@
+MIPS_DIRECT_TO_PHYS,FUNC_0
+PHYS_TO_VM_PAGE,FUNC_1
+PV_STAT,FUNC_2
+TAILQ_REMOVE,FUNC_3
+_NPCPV,VAR_0
+dump_drop_page,FUNC_4
+pc_chunk_count,VAR_1
+pc_chunk_frees,VAR_2
+pc_lru,VAR_3
+pv_chunks,VAR_4
+pv_entry_spare,VAR_5
+vm_page_free,FUNC_5
+vm_page_unwire_noq,FUNC_6
+free_pv_chunk,FUNC_7
+pc,VAR_6
+m,VAR_7

@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+CriticalWorkQueue,VAR_0
+DPRINT,FUNC_1
+ExInitializeWorkItem,FUNC_2
+ExQueueWorkItem,FUNC_3
+IRPCONTEXT_CANWAIT,VAR_1
+IRPCONTEXT_COMPLETE,VAR_2
+IRPCONTEXT_QUEUE,VAR_3
+InterlockedIncrement,FUNC_4
+IoMarkIrpPending,FUNC_5
+NtfsDoRequest,VAR_4
+QueueCount,VAR_5
+STATUS_PENDING,VAR_6
+NtfsQueueRequest,FUNC_6
+IrpContext,VAR_7

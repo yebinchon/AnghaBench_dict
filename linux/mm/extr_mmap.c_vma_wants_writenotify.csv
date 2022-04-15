@@ -1,0 +1,14 @@
+CONFIG_MEM_SOFT_DIRTY,VAR_0
+IS_ENABLED,FUNC_0
+VM_PFNMAP,VAR_1
+VM_SHARED,VAR_2
+VM_SOFTDIRTY,VAR_3
+VM_WRITE,VAR_4
+mapping_cap_account_dirty,FUNC_1
+pgprot_val,FUNC_2
+vm_pgprot_modify,FUNC_3
+vma_wants_writenotify,FUNC_4
+vma,VAR_5
+vm_page_prot,VAR_6
+vm_flags,VAR_7
+vm_ops,VAR_8

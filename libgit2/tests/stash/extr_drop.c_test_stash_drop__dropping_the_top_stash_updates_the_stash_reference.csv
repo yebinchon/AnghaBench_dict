@@ -1,0 +1,14 @@
+cl_assert,FUNC_0
+cl_assert_equal_oid,FUNC_1
+cl_git_pass,FUNC_2
+git_object_free,FUNC_3
+git_object_id,FUNC_4
+git_oid_cmp,FUNC_5
+git_revparse_single,FUNC_6
+git_stash_drop,FUNC_7
+push_three_states,FUNC_8
+repo,VAR_0
+retrieve_top_stash_id,FUNC_9
+test_stash_drop__dropping_the_top_stash_updates_the_stash_reference,FUNC_10
+next_top_stash,VAR_1
+oid,VAR_2

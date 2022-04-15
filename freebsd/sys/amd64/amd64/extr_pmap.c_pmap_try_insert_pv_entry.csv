@@ -1,0 +1,14 @@
+CHANGE_PV_LIST_LOCK_TO_VM_PAGE,FUNC_0
+FALSE,VAR_0
+MA_OWNED,VAR_1
+PMAP_LOCK_ASSERT,FUNC_1
+TAILQ_INSERT_TAIL,FUNC_2
+TRUE,VAR_2
+get_pv_entry,FUNC_3
+pv_next,VAR_3
+pmap_try_insert_pv_entry,FUNC_4
+pmap,VAR_4
+va,VAR_5
+m,VAR_6
+lockp,VAR_7
+pv,VAR_8

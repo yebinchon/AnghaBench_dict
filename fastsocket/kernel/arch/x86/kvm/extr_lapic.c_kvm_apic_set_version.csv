@@ -1,0 +1,12 @@
+APIC_LVR,VAR_0
+APIC_LVR_DIRECTED_EOI,VAR_1
+APIC_VERSION,VAR_2
+X86_FEATURE_X2APIC,VAR_3
+apic_set_reg,FUNC_0
+irqchip_in_kernel,FUNC_1
+kvm_find_cpuid_entry,FUNC_2
+kvm_apic_set_version,FUNC_3
+vcpu,VAR_4
+apic,VAR_5
+feat,VAR_6
+v,VAR_7

@@ -1,0 +1,14 @@
+is_accessed_spte,FUNC_0
+is_dirty_spte,FUNC_1
+is_shadow_present_pte,FUNC_2
+is_writable_pte,FUNC_3
+kvm_set_pfn_accessed,FUNC_4
+kvm_set_pfn_dirty,FUNC_5
+mmu_spte_update_no_track,FUNC_6
+spte_can_locklessly_be_made_writable,FUNC_7
+spte_to_pfn,FUNC_8
+mmu_spte_update,FUNC_9
+sptep,VAR_0
+new_spte,VAR_1
+flush,VAR_2
+old_spte,VAR_3

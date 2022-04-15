@@ -1,0 +1,13 @@
+MLX5_CMD_OP_QUERY_ADAPTER,VAR_0
+MLX5_SET,FUNC_0
+MLX5_ST_SZ_DW,FUNC_1
+memset,FUNC_2
+mlx5_cmd_exec,FUNC_3
+opcode,VAR_1
+query_adapter_in,VAR_2
+mlx5_cmd_query_adapter,FUNC_4
+dev,VAR_3
+out,VAR_4
+outlen,VAR_5
+in,VAR_6
+err,VAR_7

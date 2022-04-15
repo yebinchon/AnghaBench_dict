@@ -1,0 +1,14 @@
+crypto_aead_ctx,FUNC_0
+crypto_aead_reqtfm,FUNC_1
+crypto_aegis128_final,FUNC_2
+crypto_aegis128_init,FUNC_3
+crypto_aegis128_process_ad,FUNC_4
+crypto_aegis128_process_crypt,FUNC_5
+crypto_aegis128_crypt,FUNC_6
+req,VAR_0
+tag_xor,VAR_1
+cryptlen,VAR_2
+ops,VAR_3
+tfm,VAR_4
+ctx,VAR_5
+state,VAR_6

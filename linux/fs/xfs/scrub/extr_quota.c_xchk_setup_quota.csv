@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOENT,VAR_1
+XCHK_HAS_QUOTAOFFLOCK,VAR_2
+XFS_ILOCK_EXCL,VAR_3
+XFS_IS_QUOTA_ON,FUNC_0
+XFS_IS_QUOTA_RUNNING,FUNC_1
+mutex_lock,FUNC_2
+xchk_quota_to_dqtype,FUNC_3
+xchk_setup_fs,FUNC_4
+xfs_ilock,FUNC_5
+xfs_quota_inode,FUNC_6
+xfs_this_quota_on,FUNC_7
+xchk_setup_quota,FUNC_8
+sc,VAR_4
+ip,VAR_5
+dqtype,VAR_6
+error,VAR_7

@@ -1,0 +1,11 @@
+hevc_intra_pred_angular_lower_8width_msa,FUNC_0
+hevc_intra_pred_angular_upper_8width_msa,FUNC_1
+hevc_intra_pred_horiz_8x8_msa,FUNC_2
+hevc_intra_pred_vert_8x8_msa,FUNC_3
+ff_pred_intra_pred_angular_1_msa,FUNC_4
+dst,VAR_0
+src_top,VAR_1
+src_left,VAR_2
+stride,VAR_3
+c_idx,VAR_4
+mode,VAR_5

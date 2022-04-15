@@ -1,0 +1,13 @@
+FRONTEND_POWERSTATE_CHARGING,VAR_0
+FRONTEND_POWERSTATE_NONE,VAR_1
+FRONTEND_POWERSTATE_NO_SOURCE,VAR_2
+POWERSTATE_CHECK_INTERVAL,VAR_3
+get_last_powerstate,FUNC_0
+menu_driver_current_time_us,VAR_4
+menu_driver_powerstate_last_time_us,VAR_5
+snprintf,FUNC_1
+task_push_get_powerstate,FUNC_2
+menu_display_powerstate,FUNC_3
+powerstate,VAR_6
+percent,VAR_7
+state,VAR_8

@@ -1,0 +1,11 @@
+pqi_cancel_rescan_worker,FUNC_0
+pqi_cancel_update_time_worker,FUNC_1
+pqi_clear_all_queued_raid_bypass_retries,FUNC_2
+pqi_ctrl_unblock_requests,FUNC_3
+pqi_ctrl_wait_until_quiesced,FUNC_4
+pqi_fail_all_outstanding_requests,FUNC_5
+pqi_free_interrupts,FUNC_6
+pqi_perform_lockup_action,FUNC_7
+pqi_stop_heartbeat_timer,FUNC_8
+pqi_take_ctrl_offline_deferred,FUNC_9
+ctrl_info,VAR_0

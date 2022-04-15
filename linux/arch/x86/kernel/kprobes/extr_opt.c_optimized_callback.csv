@@ -1,0 +1,17 @@
+INT3_SIZE,VAR_0
+KPROBE_HIT_ACTIVE,VAR_1
+__KERNEL_CS,VAR_2
+__this_cpu_write,FUNC_0
+current_kprobe,VAR_3
+get_kernel_rpl,FUNC_1
+get_kprobe_ctlblk,FUNC_2
+kprobe_disabled,FUNC_3
+kprobe_running,FUNC_4
+kprobes_inc_nmissed_count,FUNC_5
+opt_pre_handler,FUNC_6
+preempt_disable,FUNC_7
+preempt_enable,FUNC_8
+optimized_callback,FUNC_9
+op,VAR_4
+regs,VAR_5
+kcb,VAR_6

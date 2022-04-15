@@ -1,0 +1,16 @@
+CRYPTO_THREAD_unlock,FUNC_0
+CRYPTO_THREAD_write_lock,FUNC_1
+OPENSSL_INIT_LOAD_CONFIG,VAR_0
+OPENSSL_init_crypto,FUNC_2
+get_provider_store,FUNC_3
+ossl_provider_up_ref,FUNC_4
+sk_OSSL_PROVIDER_find,FUNC_5
+sk_OSSL_PROVIDER_value,FUNC_6
+ossl_provider_find,FUNC_7
+libctx,VAR_1
+name,VAR_2
+noconfig,VAR_3
+store,VAR_4
+prov,VAR_5
+tmpl,VAR_6
+i,VAR_7

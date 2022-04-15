@@ -1,0 +1,11 @@
+CMD_RETRIES,VAR_0
+MMC_CMD_BCR,VAR_1
+MMC_RSP_R6,VAR_2
+SD_SEND_RELATIVE_ADDR,VAR_3
+memset,FUNC_0
+mmc_wait_for_cmd,FUNC_1
+mmc_send_relative_addr,FUNC_2
+sc,VAR_4
+resp,VAR_5
+cmd,VAR_6
+err,VAR_7

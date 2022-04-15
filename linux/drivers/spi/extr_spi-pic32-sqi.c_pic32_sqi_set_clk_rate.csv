@@ -1,0 +1,13 @@
+PESQI_CLKDIV,VAR_0
+PESQI_CLKDIV_SHIFT,VAR_1
+PESQI_CLK_CTRL_REG,VAR_2
+PESQI_CLK_STABLE,VAR_3
+clk_get_rate,FUNC_0
+readl,FUNC_1
+readl_poll_timeout,FUNC_2
+writel,FUNC_3
+pic32_sqi_set_clk_rate,FUNC_4
+sqi,VAR_4
+sck,VAR_5
+val,VAR_6
+div,VAR_7

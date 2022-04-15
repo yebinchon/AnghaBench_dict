@@ -1,0 +1,17 @@
+VIE_OP_F_NO_GLA_VERIFICATION,VAR_0
+decode_displacement,FUNC_0
+decode_immediate,FUNC_1
+decode_modrm,FUNC_2
+decode_moffset,FUNC_3
+decode_opcode,FUNC_4
+decode_prefixes,FUNC_5
+decode_sib,FUNC_6
+verify_gla,FUNC_7
+verify_inst_length,FUNC_8
+vmm_decode_instruction,FUNC_9
+vm,VAR_1
+cpuid,VAR_2
+gla,VAR_3
+cpu_mode,VAR_4
+cs_d,VAR_5
+vie,VAR_6

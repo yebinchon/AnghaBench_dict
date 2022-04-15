@@ -1,0 +1,11 @@
+H_PAGE_INIT,VAR_0
+H_PAGE_SET_ACTIVE,VAR_1
+H_PAGE_SET_LOANED,VAR_2
+PAGE_SIZE,VAR_3
+cmo_get_page_size,FUNC_0
+plpar_hcall_norets,FUNC_1
+plpar_page_set_active,FUNC_2
+vpa,VAR_4
+cmo_page_sz,VAR_5
+rc,VAR_6
+i,VAR_7

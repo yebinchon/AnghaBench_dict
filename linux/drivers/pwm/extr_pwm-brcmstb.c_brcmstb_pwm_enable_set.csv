@@ -1,0 +1,15 @@
+CTRL_CHAN_OFFS,VAR_0
+CTRL_OEB,VAR_1
+CTRL_OPENDRAIN,VAR_2
+CTRL_START,VAR_3
+PWM_CTRL,VAR_4
+brcmstb_pwm_readl,FUNC_0
+brcmstb_pwm_writel,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+brcmstb_pwm_enable_set,FUNC_4
+p,VAR_5
+channel,VAR_6
+enable,VAR_7
+shift,VAR_8
+value,VAR_9

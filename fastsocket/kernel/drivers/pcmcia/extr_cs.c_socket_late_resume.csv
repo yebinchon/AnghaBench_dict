@@ -1,0 +1,15 @@
+CS_EVENT_CARD_INSERTION,VAR_0
+CS_EVENT_PM_RESUME,VAR_1
+CS_EVENT_PRI_LOW,VAR_2
+SOCKET_PRESENT,VAR_3
+SOCKET_SUSPEND,VAR_4
+cs_dbg,FUNC_0
+destroy_cis_cache,FUNC_1
+msleep,FUNC_2
+send_event,FUNC_3
+socket_insert,FUNC_4
+socket_remove_drivers,FUNC_5
+socket_shutdown,FUNC_6
+verify_cis_cache,FUNC_7
+socket_late_resume,FUNC_8
+skt,VAR_5

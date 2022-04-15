@@ -1,0 +1,11 @@
+BMCR_ANENABLE,VAR_0
+BMCR_FULLDPLX,VAR_1
+BMCR_SPEED1000,VAR_2
+MII_BMCR,VAR_3
+genphy_soft_reset,FUNC_0
+phy_write,FUNC_1
+phy_write_paged,FUNC_2
+usleep_range,FUNC_3
+m88e6390_errata,FUNC_4
+phydev,VAR_4
+err,VAR_5

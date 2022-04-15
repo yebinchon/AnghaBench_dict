@@ -1,0 +1,11 @@
+BHND_SERVICE_ANY,VAR_0
+CC_GPIO_LOCK_DESTROY,FUNC_0
+SYS_RES_MEMORY,VAR_1
+bhnd_deregister_provider,FUNC_1
+bhnd_release_resource,FUNC_2
+bus_generic_detach,FUNC_3
+device_get_softc,FUNC_4
+chipc_gpio_detach,FUNC_5
+dev,VAR_2
+sc,VAR_3
+error,VAR_4

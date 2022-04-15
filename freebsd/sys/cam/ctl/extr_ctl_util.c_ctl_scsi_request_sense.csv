@@ -1,0 +1,14 @@
+CTL_FLAG_DATA_IN,VAR_0
+CTL_IO_SCSI,VAR_1
+REQUEST_SENSE,VAR_2
+SSD_FULL_SIZE,VAR_3
+ctl_scsi_zero_io,FUNC_0
+ctl_scsi_request_sense,FUNC_1
+io,VAR_4
+data_ptr,VAR_5
+data_len,VAR_6
+byte2,VAR_7
+tag_type,VAR_8
+control,VAR_9
+ctsio,VAR_10
+cdb,VAR_11

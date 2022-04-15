@@ -1,0 +1,17 @@
+Anum_continuous_aggs_hypertable_invalidation_log_idx_hypertable_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CONTINUOUS_AGGS_HYPERTABLE_INVALIDATION_LOG,VAR_2
+CONTINUOUS_AGGS_HYPERTABLE_INVALIDATION_LOG_IDX,VAR_3
+CurrentMemoryContext,VAR_4
+F_INT4EQ,VAR_5
+Int32GetDatum,FUNC_0
+PG_INT64_MAX,VAR_6
+RowExclusiveLock,VAR_7
+ScanKeyInit,FUNC_1
+scan_take_invalidation_tuple,VAR_8
+ts_catalog_scan_all,FUNC_2
+drain_invalidation_log,FUNC_3
+raw_hypertable_id,VAR_9
+invalidations_out,VAR_10
+scan_state,VAR_11
+scankey,VAR_12

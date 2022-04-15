@@ -1,0 +1,12 @@
+CGS_IND_REG__SMC,VAR_0
+HandshakeDisables,VAR_1
+SMU7_VCE_SCLK_HANDSHAKE_DISABLE,VAR_2
+SMU_SoftRegisters,VAR_3
+cgs_read_ind_register,FUNC_0
+cgs_write_ind_register,FUNC_1
+smum_get_offsetof,FUNC_2
+smu7_disable_sclk_vce_handshake,FUNC_3
+hwmgr,VAR_4
+data,VAR_5
+soft_register_value,VAR_6
+handshake_disables_offset,VAR_7

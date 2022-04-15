@@ -1,0 +1,16 @@
+BANK_SELECT,VAR_0
+CFG_MII_SELECT,VAR_1
+SMC_SELECT_BANK,FUNC_0
+inw,FUNC_1
+mii_ethtool_gset,FUNC_2
+netdev_priv,FUNC_3
+smc_netdev_get_ecmd,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+smc_get_settings,FUNC_7
+dev,VAR_2
+ecmd,VAR_3
+smc,VAR_4
+ioaddr,VAR_5
+saved_bank,VAR_6
+ret,VAR_7

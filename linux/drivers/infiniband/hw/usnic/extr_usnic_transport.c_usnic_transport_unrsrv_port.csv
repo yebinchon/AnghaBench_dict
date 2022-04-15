@@ -1,0 +1,13 @@
+USNIC_TRANSPORT_ROCE_CUSTOM,VAR_0
+bitmap_clear,FUNC_0
+roce_bitmap,VAR_1
+roce_bitmap_lock,VAR_2
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+test_bit,FUNC_3
+usnic_dbg,FUNC_4
+usnic_err,FUNC_5
+usnic_transport_to_str,FUNC_6
+usnic_transport_unrsrv_port,FUNC_7
+type,VAR_3
+port_num,VAR_4

@@ -1,0 +1,15 @@
+CLEAR_INTR_MASK,VAR_0
+DAS1800_STATUS,VAR_1
+DMATC,VAR_2
+DMA_DUAL,VAR_3
+comedi_isadma_program,FUNC_0
+das1800_flush_dma_channel,FUNC_1
+outb,FUNC_2
+das1800_handle_dma,FUNC_3
+dev,VAR_4
+s,VAR_5
+status,VAR_6
+devpriv,VAR_7
+dma,VAR_8
+desc,VAR_9
+dual_dma,VAR_10

@@ -1,0 +1,12 @@
+KVM_SET_NESTED_STATE,VAR_0
+TEST_ASSERT,FUNC_0
+errno,VAR_1
+ioctl,FUNC_1
+vcpu_find,FUNC_2
+vcpu_nested_state_set,FUNC_3
+vm,VAR_2
+vcpuid,VAR_3
+state,VAR_4
+ignore_error,VAR_5
+vcpu,VAR_6
+ret,VAR_7

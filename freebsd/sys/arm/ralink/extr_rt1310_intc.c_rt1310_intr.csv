@@ -1,0 +1,14 @@
+FILTER_HANDLED,VAR_0
+RT_INTC_ICCR,VAR_1
+RT_INTC_IPR,VAR_2
+arm_irq_memory_barrier,FUNC_0
+curthread,VAR_3
+device_printf,FUNC_1
+ffs,FUNC_2
+intc_read_4,FUNC_3
+intc_write_4,FUNC_4
+intr_isrc_dispatch,FUNC_5
+rt1310_intr,FUNC_6
+arg,VAR_4
+irq,VAR_5
+sc,VAR_6

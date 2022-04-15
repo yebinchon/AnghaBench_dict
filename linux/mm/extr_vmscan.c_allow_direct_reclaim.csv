@@ -1,0 +1,17 @@
+MAX_RECLAIM_RETRIES,VAR_0
+NR_FREE_PAGES,VAR_1
+ZONE_NORMAL,VAR_2
+managed_zone,FUNC_0
+min,FUNC_1
+min_wmark_pages,FUNC_2
+waitqueue_active,FUNC_3
+wake_up_interruptible,FUNC_4
+zone_page_state,FUNC_5
+zone_reclaimable_pages,FUNC_6
+allow_direct_reclaim,FUNC_7
+pgdat,VAR_3
+zone,VAR_4
+pfmemalloc_reserve,VAR_5
+free_pages,VAR_6
+i,VAR_7
+wmark_ok,VAR_8

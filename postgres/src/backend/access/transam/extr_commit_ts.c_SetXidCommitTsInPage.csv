@@ -1,0 +1,16 @@
+CommitTsControlLock,VAR_0
+CommitTsCtl,VAR_1
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_EXCLUSIVE,VAR_2
+SimpleLruReadPage,FUNC_2
+TransactionIdSetCommitTs,FUNC_3
+SetXidCommitTsInPage,FUNC_4
+xid,VAR_3
+nsubxids,VAR_4
+subxids,VAR_5
+ts,VAR_6
+nodeid,VAR_7
+pageno,VAR_8
+slotno,VAR_9
+i,VAR_10

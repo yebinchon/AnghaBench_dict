@@ -1,0 +1,11 @@
+ADDR_SR_SHFT,VAR_0
+KERNEL_VSID,FUNC_0
+SLBV_VSID_MASK,VAR_1
+SLBV_VSID_SHIFT,VAR_2
+allocate_user_vsid,FUNC_1
+kernel_pmap,VAR_3
+user_va_to_slb_entry,FUNC_2
+va_to_vsid,FUNC_3
+pm,VAR_4
+va,VAR_5
+entry,VAR_6

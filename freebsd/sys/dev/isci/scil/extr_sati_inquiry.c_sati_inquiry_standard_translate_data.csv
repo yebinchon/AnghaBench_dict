@@ -1,0 +1,13 @@
+ATA_IDENTIFY_DEVICE_GET_OFFSET,FUNC_0
+ATA_IDENTIFY_REMOVABLE_MEDIA_ENABLE,VAR_0
+TRUE,VAR_1
+model_number,VAR_2
+sati_ata_identify_device_copy_data,FUNC_1
+sati_inquiry_construct_product_revision,FUNC_2
+sati_set_data_byte,FUNC_3
+sati_inquiry_standard_translate_data,FUNC_4
+sequence,VAR_3
+ata_input_data,VAR_4
+scsi_io,VAR_5
+identify,VAR_6
+index,VAR_7

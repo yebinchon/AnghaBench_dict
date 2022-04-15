@@ -1,0 +1,13 @@
+OCFS2_OSB_DROP_DENTRY_LOCK_IMMED,VAR_0
+OCFS2_SB,FUNC_0
+VOLUME_DISABLED,VAR_1
+atomic_read,FUNC_1
+cancel_work_sync,FUNC_2
+dentry_list_lock,VAR_2
+kill_block_super,FUNC_3
+ocfs2_set_osb_flag,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ocfs2_kill_sb,FUNC_7
+sb,VAR_3
+osb,VAR_4

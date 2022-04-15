@@ -1,0 +1,17 @@
+AR934X_NFC_CMD_CMD0_M,VAR_0
+AR934X_NFC_CMD_CMD0_S,VAR_1
+AR934X_NFC_CMD_CMD1_S,VAR_2
+AR934X_NFC_CMD_SEQ_18,VAR_3
+AR934X_NFC_CMD_SEQ_1C5A1CXR,VAR_4
+NAND_CMD_READSTART,VAR_5
+ar934x_nfc_do_rw_command,FUNC_0
+nfc_dbg,FUNC_1
+nfc_debug_data,FUNC_2
+ar934x_nfc_send_read,FUNC_3
+nfc,VAR_6
+command,VAR_7
+column,VAR_8
+page_addr,VAR_9
+len,VAR_10
+cmd_reg,VAR_11
+err,VAR_12

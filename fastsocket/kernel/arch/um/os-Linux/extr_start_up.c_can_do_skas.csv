@@ -1,0 +1,9 @@
+check_skas3_proc_mm,FUNC_0
+check_skas3_ptrace_faultinfo,FUNC_1
+check_skas3_ptrace_ldt,FUNC_2
+non_fatal,FUNC_3
+proc_mm,VAR_0
+ptrace_faultinfo,VAR_1
+ptrace_ldt,VAR_2
+skas_needs_stub,VAR_3
+can_do_skas,FUNC_4

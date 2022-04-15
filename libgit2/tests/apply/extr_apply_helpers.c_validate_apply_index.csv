@@ -1,0 +1,15 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_index_free,FUNC_2
+git_iterator_for_index,FUNC_3
+git_iterator_foreach,FUNC_4
+git_iterator_free,FUNC_5
+git_repository_index,FUNC_6
+iterator_compare,VAR_0
+validate_apply_index,FUNC_7
+repo,VAR_1
+index_entries,VAR_2
+index_cnt,VAR_3
+index,VAR_4
+iterator,VAR_5
+data,VAR_6

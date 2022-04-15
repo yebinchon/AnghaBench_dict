@@ -1,0 +1,9 @@
+NB_DPM_MASK,VAR_0
+PPSMC_MSG_DisableAllSmuFeatures,VAR_1
+smu8_nbdpm_pstate_enable_disable,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+smu8_disable_nb_dpm,FUNC_2
+hwmgr,VAR_2
+ret,VAR_3
+data,VAR_4
+dpm_features,VAR_5

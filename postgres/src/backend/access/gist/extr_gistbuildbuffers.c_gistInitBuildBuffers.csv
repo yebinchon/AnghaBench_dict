@@ -1,0 +1,15 @@
+BufFileCreateTemp,FUNC_0
+CurrentMemoryContext,VAR_0
+HASH_BLOBS,VAR_1
+HASH_CONTEXT,VAR_2
+HASH_ELEM,VAR_3
+NIL,VAR_4
+hash_create,FUNC_1
+memset,FUNC_2
+palloc,FUNC_3
+gistInitBuildBuffers,FUNC_4
+pagesPerBuffer,VAR_5
+levelStep,VAR_6
+maxLevel,VAR_7
+gfbb,VAR_8
+hashCtl,VAR_9

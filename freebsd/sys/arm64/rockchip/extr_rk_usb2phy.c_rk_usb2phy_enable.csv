@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+ERANGE,VAR_1
+RK3399_USBPHY_HOST,VAR_2
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+phynode_get_device,FUNC_2
+phynode_get_id,FUNC_3
+regulator_disable,FUNC_4
+regulator_enable,FUNC_5
+rk_usb2phy_enable,FUNC_6
+phynode,VAR_3
+enable,VAR_4
+sc,VAR_5
+dev,VAR_6
+phy,VAR_7
+error,VAR_8

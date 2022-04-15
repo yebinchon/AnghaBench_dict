@@ -1,0 +1,11 @@
+BIO_new_bufferevent,FUNC_0
+SSL_set_bio,FUNC_1
+bufferevent_openssl_new_impl,FUNC_2
+bufferevent_openssl_filter_new,FUNC_3
+base,VAR_0
+underlying,VAR_1
+ssl,VAR_2
+state,VAR_3
+options,VAR_4
+close_flag,VAR_5
+bio,VAR_6

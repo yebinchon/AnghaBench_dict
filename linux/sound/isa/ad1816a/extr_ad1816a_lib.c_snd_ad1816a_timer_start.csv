@@ -1,0 +1,14 @@
+AD1816A_INTERRUPT_ENABLE,VAR_0
+AD1816A_TIMER_BASE_COUNT,VAR_1
+AD1816A_TIMER_ENABLE,VAR_2
+snd_ad1816a_read,FUNC_0
+snd_ad1816a_write,FUNC_1
+snd_ad1816a_write_mask,FUNC_2
+snd_timer_chip,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+snd_ad1816a_timer_start,FUNC_6
+timer,VAR_3
+bits,VAR_4
+flags,VAR_5
+chip,VAR_6

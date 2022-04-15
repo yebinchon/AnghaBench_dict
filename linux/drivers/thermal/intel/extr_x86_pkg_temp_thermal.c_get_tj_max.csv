@@ -1,0 +1,10 @@
+EINVAL,VAR_0
+MSR_IA32_TEMPERATURE_TARGET,VAR_1
+rdmsr_safe_on_cpu,FUNC_0
+get_tj_max,FUNC_1
+cpu,VAR_2
+tj_max,VAR_3
+eax,VAR_4
+edx,VAR_5
+val,VAR_6
+err,VAR_7

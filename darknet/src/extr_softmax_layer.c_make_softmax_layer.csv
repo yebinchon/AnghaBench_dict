@@ -1,0 +1,15 @@
+SOFTMAX,VAR_0
+assert,FUNC_0
+backward_softmax_layer,VAR_1
+backward_softmax_layer_gpu,VAR_2
+calloc,FUNC_1
+cuda_make_array,FUNC_2
+forward_softmax_layer,VAR_3
+forward_softmax_layer_gpu,VAR_4
+fprintf,FUNC_3
+stderr,VAR_5
+make_softmax_layer,FUNC_4
+batch,VAR_6
+inputs,VAR_7
+groups,VAR_8
+l,VAR_9

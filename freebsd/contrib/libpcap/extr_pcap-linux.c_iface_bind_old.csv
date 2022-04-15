@@ -1,0 +1,16 @@
+PCAP_ERRBUF_SIZE,VAR_0
+SOL_SOCKET,VAR_1
+SO_ERROR,VAR_2
+bind,FUNC_0
+errno,VAR_3
+getsockopt,FUNC_1
+memset,FUNC_2
+pcap_fmt_errmsg_for_errno,FUNC_3
+strlcpy,FUNC_4
+iface_bind_old,FUNC_5
+fd,VAR_4
+device,VAR_5
+ebuf,VAR_6
+saddr,VAR_7
+err,VAR_8
+errlen,VAR_9

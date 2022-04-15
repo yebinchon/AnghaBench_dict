@@ -1,0 +1,14 @@
+M_DEVBUF,VAR_0
+SYS_RES_IOPORT,VAR_1
+SYS_RES_IRQ,VAR_2
+TRUE,VAR_3
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+device_set_softc,FUNC_4
+free,FUNC_5
+ttyfree,FUNC_6
+siodetach,FUNC_7
+dev,VAR_4
+com,VAR_5

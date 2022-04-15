@@ -1,0 +1,15 @@
+DRM_MEM_KMS,VAR_0
+DRM_MODE_OBJECT_BLOB,VAR_1
+M_WAITOK,VAR_2
+M_ZERO,VAR_3
+drm_mode_object_get,FUNC_0
+free,FUNC_1
+list_add_tail,FUNC_2
+malloc,FUNC_3
+memcpy,FUNC_4
+drm_property_create_blob,FUNC_5
+dev,VAR_4
+length,VAR_5
+data,VAR_6
+blob,VAR_7
+ret,VAR_8

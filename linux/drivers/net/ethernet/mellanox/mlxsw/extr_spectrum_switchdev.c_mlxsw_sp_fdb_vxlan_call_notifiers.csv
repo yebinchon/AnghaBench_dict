@@ -1,0 +1,16 @@
+SWITCHDEV_VXLAN_FDB_ADD_TO_BRIDGE,VAR_0
+SWITCHDEV_VXLAN_FDB_DEL_TO_BRIDGE,VAR_1
+call_switchdev_notifiers,FUNC_0
+ether_addr_copy,FUNC_1
+mlxsw_sp_switchdev_addr_vxlan_convert,FUNC_2
+netdev_priv,FUNC_3
+mlxsw_sp_fdb_vxlan_call_notifiers,FUNC_4
+dev,VAR_2
+mac,VAR_3
+proto,VAR_4
+addr,VAR_5
+vni,VAR_6
+adding,VAR_7
+info,VAR_8
+vxlan,VAR_9
+type,VAR_10

@@ -1,0 +1,11 @@
+FLG_BUSY_TIMER,VAR_0
+FLG_TX_BUSY,VAR_1
+del_timer,FUNC_0
+get_next_dframe,FUNC_1
+isac_fill_fifo,FUNC_2
+pr_info,FUNC_3
+test_and_clear_bit,FUNC_4
+test_and_set_bit,FUNC_5
+test_bit,FUNC_6
+isac_retransmit,FUNC_7
+isac,VAR_2

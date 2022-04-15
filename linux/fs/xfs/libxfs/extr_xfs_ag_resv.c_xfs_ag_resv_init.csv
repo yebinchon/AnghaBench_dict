@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+XFS_AG_RESV_METADATA,VAR_0
+XFS_AG_RESV_RMAPBT,VAR_1
+__xfs_ag_resv_init,FUNC_1
+xfs_alloc_pagf_init,FUNC_2
+xfs_finobt_calc_reserves,FUNC_3
+xfs_perag_resv,FUNC_4
+xfs_refcountbt_calc_reserves,FUNC_5
+xfs_rmapbt_calc_reserves,FUNC_6
+xfs_ag_resv_init,FUNC_7
+pag,VAR_2
+tp,VAR_3
+mp,VAR_4
+agno,VAR_5
+ask,VAR_6
+used,VAR_7
+error,VAR_8

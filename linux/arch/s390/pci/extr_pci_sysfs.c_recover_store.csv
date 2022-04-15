@@ -1,0 +1,17 @@
+device_remove_file_self,FUNC_0
+pci_lock_rescan_remove,FUNC_1
+pci_rescan_bus,FUNC_2
+pci_stop_and_remove_bus_device,FUNC_3
+pci_unlock_rescan_remove,FUNC_4
+to_pci_dev,FUNC_5
+to_zpci,FUNC_6
+zpci_disable_device,FUNC_7
+zpci_enable_device,FUNC_8
+recover_store,FUNC_9
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+count,VAR_3
+pdev,VAR_4
+zdev,VAR_5
+ret,VAR_6

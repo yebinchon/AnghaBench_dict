@@ -1,0 +1,13 @@
+IRQF_TRIGGER_FALLING,VAR_0
+ca8210_interrupt_handler,VAR_1
+dev_crit,FUNC_0
+gpio_free,FUNC_1
+gpio_to_irq,FUNC_2
+gpio_unexport,FUNC_3
+of_get_named_gpio,FUNC_4
+request_irq,FUNC_5
+spi_get_drvdata,FUNC_6
+ca8210_interrupt_init,FUNC_7
+spi,VAR_2
+ret,VAR_3
+pdata,VAR_4

@@ -1,0 +1,10 @@
+MOXA_MUST_EFR_EFRB_ENABLE,VAR_0
+MOXA_MUST_EFR_REGISTER,VAR_1
+MOXA_MUST_ENTER_ENCHANCE,VAR_2
+UART_LCR,VAR_3
+inb,FUNC_0
+outb,FUNC_1
+mxser_disable_must_enchance_mode,FUNC_2
+baseio,VAR_4
+oldlcr,VAR_5
+efr,VAR_6

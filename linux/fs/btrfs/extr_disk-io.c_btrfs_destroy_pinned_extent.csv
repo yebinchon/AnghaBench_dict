@@ -1,0 +1,17 @@
+EXTENT_DIRTY,VAR_0
+btrfs_error_unpin_extent_range,FUNC_0
+clear_extent_dirty,FUNC_1
+cond_resched,FUNC_2
+find_first_extent_bit,FUNC_3
+free_extent_state,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+btrfs_destroy_pinned_extent,FUNC_7
+fs_info,VAR_1
+pinned_extents,VAR_2
+unpin,VAR_3
+start,VAR_4
+end,VAR_5
+ret,VAR_6
+loop,VAR_7
+cached_state,VAR_8

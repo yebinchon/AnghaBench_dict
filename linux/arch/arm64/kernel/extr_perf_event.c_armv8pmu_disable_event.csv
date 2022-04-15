@@ -1,0 +1,11 @@
+armv8pmu_disable_event_counter,FUNC_0
+armv8pmu_disable_event_irq,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+this_cpu_ptr,FUNC_4
+to_arm_pmu,FUNC_5
+armv8pmu_disable_event,FUNC_6
+event,VAR_0
+flags,VAR_1
+cpu_pmu,VAR_2
+events,VAR_3

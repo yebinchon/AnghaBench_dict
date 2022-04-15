@@ -1,0 +1,15 @@
+EACCES,VAR_0
+ENODEV,VAR_1
+RAW3270_FLAGS_FROZEN,VAR_2
+RAW3270_FLAGS_READY,VAR_3
+__raw3270_start,FUNC_0
+get_ccwdev_lock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+test_bit,FUNC_4
+raw3270_start,FUNC_5
+view,VAR_4
+rq,VAR_5
+flags,VAR_6
+rp,VAR_7
+rc,VAR_8

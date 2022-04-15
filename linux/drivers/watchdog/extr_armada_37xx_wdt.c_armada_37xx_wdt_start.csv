@@ -1,0 +1,15 @@
+CNTR_CTRL_MODE_HWSIG,VAR_0
+CNTR_CTRL_MODE_ONESHOT,VAR_1
+CNTR_CTRL_TRIG_SRC_PREV_CNTR,VAR_2
+CNTR_ID_RETRIGGER,VAR_3
+CNTR_ID_WDOG,VAR_4
+WDT_TIMER_SELECT,VAR_5
+WDT_TIMER_SELECT_VAL,VAR_6
+counter_enable,FUNC_0
+init_counter,FUNC_1
+regmap_write,FUNC_2
+set_counter_value,FUNC_3
+watchdog_get_drvdata,FUNC_4
+armada_37xx_wdt_start,FUNC_5
+wdt,VAR_7
+dev,VAR_8

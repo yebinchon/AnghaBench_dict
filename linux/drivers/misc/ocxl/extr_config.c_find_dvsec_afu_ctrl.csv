@@ -1,0 +1,16 @@
+OCXL_DVSEC_AFU_CTRL_AFU_IDX,VAR_0
+OCXL_DVSEC_AFU_CTRL_ID,VAR_1
+OCXL_DVSEC_ID_OFFSET,VAR_2
+OCXL_DVSEC_VENDOR_OFFSET,VAR_3
+OCXL_EXT_CAP_ID_DVSEC,VAR_4
+PCI_VENDOR_ID_IBM,VAR_5
+pci_find_next_ext_capability,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_read_config_word,FUNC_2
+find_dvsec_afu_ctrl,FUNC_3
+dev,VAR_6
+afu_idx,VAR_7
+vsec,VAR_8
+vendor,VAR_9
+id,VAR_10
+idx,VAR_11

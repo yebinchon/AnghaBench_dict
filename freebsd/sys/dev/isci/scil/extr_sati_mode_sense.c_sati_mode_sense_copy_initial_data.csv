@@ -1,0 +1,14 @@
+SCSI_MODE_SENSE_PC_CHANGEABLE,VAR_0
+sat_changeable_mode_pages,VAR_1
+sat_default_mode_pages,VAR_2
+sat_mode_page_sizes,VAR_3
+sati_copy_data,FUNC_0
+sati_mode_page_get_page_index,FUNC_1
+sati_mode_sense_copy_initial_data,FUNC_2
+sequence,VAR_4
+scsi_io,VAR_5
+page_start,VAR_6
+page_control,VAR_7
+page_code,VAR_8
+page_index,VAR_9
+page_length,VAR_10

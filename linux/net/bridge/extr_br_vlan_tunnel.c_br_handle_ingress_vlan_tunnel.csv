@@ -1,0 +1,11 @@
+__vlan_hwaccel_put_tag,FUNC_0
+br_vlan_tunnel_lookup,FUNC_1
+skb_dst_drop,FUNC_2
+skb_tunnel_info,FUNC_3
+skb_vlan_tagged,FUNC_4
+br_handle_ingress_vlan_tunnel,FUNC_5
+skb,VAR_0
+p,VAR_1
+vg,VAR_2
+tinfo,VAR_3
+vlan,VAR_4

@@ -1,0 +1,12 @@
+__bfq_dispatch_request,FUNC_0
+bfq_bfqq_wait_request,FUNC_1
+bfq_update_dispatch_stats,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+bfq_dispatch_request,FUNC_5
+hctx,VAR_0
+bfqd,VAR_1
+rq,VAR_2
+in_serv_queue,VAR_3
+waiting_rq,VAR_4
+idle_timer_disabled,VAR_5

@@ -1,0 +1,14 @@
+JZ_REG_RTC_CTRL,VAR_0
+JZ_RTC_CTRL_1HZ,VAR_1
+JZ_RTC_CTRL_AF,VAR_2
+jz4740_rtc_reg_read,FUNC_0
+jz4740_rtc_reg_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+jz4740_rtc_ctrl_set_bits,FUNC_4
+rtc,VAR_3
+mask,VAR_4
+set,VAR_5
+ret,VAR_6
+flags,VAR_7
+ctrl,VAR_8

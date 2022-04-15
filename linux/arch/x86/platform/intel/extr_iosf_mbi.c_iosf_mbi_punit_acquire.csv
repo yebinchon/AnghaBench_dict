@@ -1,0 +1,8 @@
+iosf_mbi_pmic_access_mutex,VAR_0
+iosf_mbi_pmic_access_waitq,VAR_1
+iosf_mbi_pmic_i2c_access_count,VAR_2
+iosf_mbi_pmic_punit_access_count,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+wait_event,FUNC_2
+iosf_mbi_punit_acquire,FUNC_3

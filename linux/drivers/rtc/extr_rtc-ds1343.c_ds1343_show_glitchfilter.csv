@@ -1,0 +1,12 @@
+DS1343_CONTROL_REG,VAR_0
+DS1343_EGFIL,VAR_1
+dev_get_drvdata,FUNC_0
+regmap_read,FUNC_1
+sprintf,FUNC_2
+ds1343_show_glitchfilter,FUNC_3
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+priv,VAR_5
+glitch_filt_status,VAR_6
+data,VAR_7

@@ -1,0 +1,13 @@
+DVBT_BDA_CONTROL_MSG_ID,VAR_0
+HIF_TASK,VAR_1
+MSG_SMS_GET_STATISTICS_EX_REQ,VAR_2
+MSG_SMS_GET_STATISTICS_REQ,VAR_3
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_0
+smscore_get_device_mode,FUNC_1
+smsdvb_sendrequest_and_wait,FUNC_2
+time_after,FUNC_3
+smsdvb_send_statistics_request,FUNC_4
+client,VAR_5
+rc,VAR_6
+msg,VAR_7

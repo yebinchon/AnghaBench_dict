@@ -1,0 +1,9 @@
+HUGEPAGE_ADDR2BASE,FUNC_0
+HUGEPAGE_CEILING,FUNC_1
+MADV_NOHUGEPAGE,VAR_0
+assert,FUNC_2
+madvise,FUNC_3
+pages_nohuge_impl,FUNC_4
+addr,VAR_1
+size,VAR_2
+aligned,VAR_3

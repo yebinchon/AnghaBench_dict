@@ -1,0 +1,12 @@
+LOCK,FUNC_0
+LOG_TRACE,FUNC_1
+MMAL_SUCCESS,VAR_0
+Q16_ONE,VAR_1
+UNLOCK,FUNC_2
+mmal_clock_update_local_time_locked,FUNC_3
+mmal_clock_wake_thread,FUNC_4
+mmal_rational_to_fixed_16_16,FUNC_5
+mmal_clock_scale_set,FUNC_6
+clock,VAR_2
+scale,VAR_3
+private,VAR_4

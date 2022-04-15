@@ -1,0 +1,13 @@
+EPERM,VAR_0
+ERESTARTSYS,VAR_1
+TPACPI_FAN_LAST_LEVEL,VAR_2
+fan_control_allowed,VAR_3
+fan_control_desired_level,VAR_4
+fan_mutex,VAR_5
+fan_set_level,FUNC_0
+fan_update_desired_level,FUNC_1
+mutex_lock_killable,FUNC_2
+mutex_unlock,FUNC_3
+fan_set_level_safe,FUNC_4
+level,VAR_6
+rc,VAR_7

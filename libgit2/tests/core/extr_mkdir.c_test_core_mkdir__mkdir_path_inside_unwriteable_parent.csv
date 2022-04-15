@@ -1,0 +1,17 @@
+GIT_MKDIR_PATH,VAR_0
+check_mode,FUNC_0
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+cl_is_chmod_supported,FUNC_3
+cl_must_pass,FUNC_4
+cl_set_cleanup,FUNC_5
+cleanup_chmod_root,VAR_1
+git__malloc,FUNC_6
+git_futils_mkdir,FUNC_7
+git_futils_mkdir_relative,FUNC_8
+git_path_lstat,FUNC_9
+p_chmod,FUNC_10
+p_umask,FUNC_11
+test_core_mkdir__mkdir_path_inside_unwriteable_parent,FUNC_12
+st,VAR_2
+old,VAR_3

@@ -1,0 +1,14 @@
+DBF_EVENT,FUNC_0
+EBUSY,VAR_0
+ENODEV,VAR_1
+TS_BLKUSE,VAR_2
+TS_IN_USE,VAR_3
+TS_NOT_OPER,VAR_4
+get_ccwdev_lock,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+tape_state_set,FUNC_4
+try_module_get,FUNC_5
+tape_open,FUNC_6
+device,VAR_5
+rc,VAR_6

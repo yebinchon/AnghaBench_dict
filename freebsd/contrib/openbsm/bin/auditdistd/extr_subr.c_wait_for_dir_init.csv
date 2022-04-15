@@ -1,0 +1,16 @@
+EVFILT_VNODE,VAR_0
+EV_ADD,VAR_1
+EV_CLEAR,VAR_2
+EV_ENABLE,VAR_3
+EV_SET,FUNC_0
+LOG_WARNING,VAR_4
+NOTE_WRITE,VAR_5
+PJDLOG_ASSERT,FUNC_1
+close,FUNC_2
+errno,VAR_6
+kevent,FUNC_3
+kqueue,FUNC_4
+pjdlog_errno,FUNC_5
+wait_for_dir_kq,VAR_7
+wait_for_dir_init,FUNC_6
+fd,VAR_8

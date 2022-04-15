@@ -1,0 +1,8 @@
+PIF_PER_TRAP,VAR_0
+TIF_SINGLE_STEP,VAR_1
+clear_pt_regs_flag,FUNC_0
+clear_tsk_thread_flag,FUNC_1
+memset,FUNC_2
+task_pt_regs,FUNC_3
+ptrace_disable,FUNC_4
+task,VAR_2

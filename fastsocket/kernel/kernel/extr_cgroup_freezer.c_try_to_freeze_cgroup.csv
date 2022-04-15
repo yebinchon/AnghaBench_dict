@@ -1,0 +1,15 @@
+CGROUP_FREEZING,VAR_0
+EBUSY,VAR_1
+cgroup_iter_end,FUNC_0
+cgroup_iter_next,FUNC_1
+cgroup_iter_start,FUNC_2
+freeze_task,FUNC_3
+freezer_should_skip,FUNC_4
+freezing,FUNC_5
+is_task_frozen_enough,FUNC_6
+try_to_freeze_cgroup,FUNC_7
+cgroup,VAR_2
+freezer,VAR_3
+it,VAR_4
+task,VAR_5
+num_cant_freeze_now,VAR_6

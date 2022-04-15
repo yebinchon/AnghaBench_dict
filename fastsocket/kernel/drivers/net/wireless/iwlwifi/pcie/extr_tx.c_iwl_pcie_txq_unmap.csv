@@ -1,0 +1,13 @@
+IWL_DEBUG_TX_REPLY,FUNC_0
+IWL_TRANS_GET_PCIE_TRANS,FUNC_1
+iwl_pcie_txq_free_tfd,FUNC_2
+iwl_queue_inc_wrap,FUNC_3
+iwl_wake_queue,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+iwl_pcie_txq_unmap,FUNC_7
+trans,VAR_0
+txq_id,VAR_1
+trans_pcie,VAR_2
+txq,VAR_3
+q,VAR_4

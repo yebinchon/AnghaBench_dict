@@ -1,0 +1,9 @@
+ESP_PARTITION_SUBTYPE_DATA_OTA,VAR_0
+ESP_PARTITION_TYPE_DATA,VAR_1
+SPI_FLASH_SEC_SIZE,VAR_2
+TEST_ASSERT_NOT_EQUAL,FUNC_0
+TEST_ESP_OK,FUNC_1
+esp_partition_erase_range,FUNC_2
+esp_partition_find_first,FUNC_3
+erase_ota_data,FUNC_4
+data_partition,VAR_3

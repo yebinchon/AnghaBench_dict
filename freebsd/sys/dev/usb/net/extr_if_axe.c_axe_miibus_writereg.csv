@@ -1,0 +1,16 @@
+AXE_CMD_MII_OPMODE_HW,VAR_0
+AXE_CMD_MII_OPMODE_SW,VAR_1
+AXE_CMD_MII_WRITE_REG,VAR_2
+AXE_LOCK,FUNC_0
+AXE_UNLOCK,FUNC_1
+axe_cmd,FUNC_2
+device_get_softc,FUNC_3
+htole32,FUNC_4
+mtx_owned,FUNC_5
+axe_miibus_writereg,FUNC_6
+dev,VAR_3
+phy,VAR_4
+reg,VAR_5
+val,VAR_6
+sc,VAR_7
+locked,VAR_8

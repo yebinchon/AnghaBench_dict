@@ -1,0 +1,14 @@
+NAND_ALE,VAR_0
+NAND_CLE,VAR_1
+NAND_CMD_NONE,VAR_2
+NAND_CTRL_CHANGE,VAR_3
+NAND_NCE,VAR_4
+gpio_nand_dosync,FUNC_0
+gpio_nand_getpriv,FUNC_1
+gpio_set_value,FUNC_2
+writeb,FUNC_3
+gpio_nand_cmd_ctrl,FUNC_4
+mtd,VAR_5
+cmd,VAR_6
+ctrl,VAR_7
+gpiomtd,VAR_8

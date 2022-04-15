@@ -1,0 +1,12 @@
+INTR_INFO_VALID_MASK,VAR_0
+INTR_TYPE_NMI_INTR,VAR_1
+NMI_VECTOR,VAR_2
+VM_ENTRY_INTR_INFO_FIELD,VAR_3
+enable_vnmi,VAR_4
+kvm_inject_realmode_interrupt,FUNC_0
+to_vmx,FUNC_1
+vmcs_write32,FUNC_2
+vmx_clear_hlt,FUNC_3
+vmx_inject_nmi,FUNC_4
+vcpu,VAR_5
+vmx,VAR_6

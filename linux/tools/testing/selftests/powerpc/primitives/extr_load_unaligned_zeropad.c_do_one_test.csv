@@ -1,0 +1,10 @@
+FAIL_IF,FUNC_0
+load_unaligned_zeropad,FUNC_1
+printf,FUNC_2
+protect_region,FUNC_3
+unprotect_region,FUNC_4
+do_one_test,FUNC_5
+p,VAR_0
+page_offset,VAR_1
+should,VAR_2
+got,VAR_3

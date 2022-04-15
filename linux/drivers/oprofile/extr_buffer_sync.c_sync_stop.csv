@@ -1,0 +1,16 @@
+PROFILE_MUNMAP,VAR_0
+PROFILE_TASK_EXIT,VAR_1
+barrier,FUNC_0
+end_cpu_work,FUNC_1
+flush_cpu_work,FUNC_2
+free_all_tasks,FUNC_3
+free_cpumask_var,FUNC_4
+marked_cpus,VAR_2
+module_load_nb,VAR_3
+munmap_nb,VAR_4
+profile_event_unregister,FUNC_5
+task_exit_nb,VAR_5
+task_free_nb,VAR_6
+task_handoff_unregister,FUNC_6
+unregister_module_notifier,FUNC_7
+sync_stop,FUNC_8

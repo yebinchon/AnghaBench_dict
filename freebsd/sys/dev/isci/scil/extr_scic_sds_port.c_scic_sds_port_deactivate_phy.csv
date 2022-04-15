@@ -1,0 +1,12 @@
+SCIC_LOG_OBJECT_PORT,VAR_0
+SCIC_LOG_TRACE,FUNC_0
+SCIC_PORT_AUTOMATIC_CONFIGURATION_MODE,VAR_1
+SCI_SAS_NO_LINK_RATE,VAR_2
+SCU_PCSPExCR_WRITE,FUNC_1
+TRUE,VAR_3
+sci_base_object_get_logger,FUNC_2
+scic_cb_port_link_down,FUNC_3
+scic_sds_port_deactivate_phy,FUNC_4
+this_port,VAR_4
+the_phy,VAR_5
+do_notify_user,VAR_6

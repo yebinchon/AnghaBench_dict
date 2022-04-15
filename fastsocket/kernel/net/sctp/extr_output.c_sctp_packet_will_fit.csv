@@ -1,0 +1,12 @@
+SCTP_XMIT_OK,VAR_0
+SCTP_XMIT_PMTU_FULL,VAR_1
+sctp_chunk_is_data,FUNC_0
+sctp_packet_empty,FUNC_1
+sctp_packet_will_fit,FUNC_2
+packet,VAR_2
+chunk,VAR_3
+chunk_len,VAR_4
+psize,VAR_5
+pmtu,VAR_6
+too_big,VAR_7
+retval,VAR_8

@@ -1,0 +1,17 @@
+AUTONEG_DISABLE,VAR_0
+DUPLEX_FULL,VAR_1
+PORT_NONE,VAR_2
+SPEED_100,VAR_3
+SPEED_1000,VAR_4
+SPEED_10000,VAR_5
+SPEED_20000,VAR_6
+SPEED_25000,VAR_7
+SPEED_40000,VAR_8
+ethtool_link_ksettings_zero_link_mode,FUNC_0
+netdev_info,FUNC_1
+netdev_priv,FUNC_2
+supported,VAR_9
+iavf_get_link_ksettings,FUNC_3
+netdev,VAR_10
+cmd,VAR_11
+adapter,VAR_12

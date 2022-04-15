@@ -1,0 +1,14 @@
+BH1770_DISABLE,VAR_0
+BH1770_ENABLE,VAR_1
+BH1770_PS_CONTROL,VAR_2
+BH1770_STANDALONE,VAR_3
+BH1770_STANDBY,VAR_4
+PROX_BELOW_THRESHOLD,VAR_5
+bh1770_led_cfg,FUNC_0
+bh1770_lux_rate,FUNC_1
+bh1770_prox_interrupt_control,FUNC_2
+bh1770_prox_rate,FUNC_3
+bh1770_prox_set_threshold,FUNC_4
+i2c_smbus_write_byte_data,FUNC_5
+bh1770_prox_mode_control,FUNC_6
+chip,VAR_6

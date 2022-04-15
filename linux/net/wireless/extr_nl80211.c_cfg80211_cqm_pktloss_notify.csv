@@ -1,0 +1,12 @@
+NL80211_ATTR_CQM_PKT_LOSS_EVENT,VAR_0
+cfg80211_prepare_cqm,FUNC_0
+cfg80211_send_cqm,FUNC_1
+nla_put_u32,FUNC_2
+nlmsg_free,FUNC_3
+trace_cfg80211_cqm_pktloss_notify,FUNC_4
+cfg80211_cqm_pktloss_notify,FUNC_5
+dev,VAR_1
+peer,VAR_2
+num_packets,VAR_3
+gfp,VAR_4
+msg,VAR_5

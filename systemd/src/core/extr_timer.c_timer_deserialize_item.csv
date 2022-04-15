@@ -1,0 +1,16 @@
+TIMER,FUNC_0
+TIMER_SUCCESS,VAR_0
+assert,FUNC_1
+deserialize_usec,FUNC_2
+log_unit_debug,FUNC_3
+streq,FUNC_4
+timer_result_from_string,FUNC_5
+timer_state_from_string,FUNC_6
+timer_deserialize_item,FUNC_7
+u,VAR_1
+key,VAR_2
+value,VAR_3
+fds,VAR_4
+t,VAR_5
+state,VAR_6
+f,VAR_7

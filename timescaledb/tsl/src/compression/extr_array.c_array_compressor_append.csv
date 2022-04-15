@@ -1,0 +1,13 @@
+Assert,FUNC_0
+PG_DETOAST_DATUM_PACKED,FUNC_1
+PointerGetDatum,FUNC_2
+char_vec_reserve,FUNC_3
+datum_get_bytes_size,FUNC_4
+datum_serializer_value_may_be_toasted,FUNC_5
+datum_to_bytes_and_advance,FUNC_6
+simple8brle_compressor_append,FUNC_7
+array_compressor_append,FUNC_8
+compressor,VAR_0
+val,VAR_1
+datum_size_and_align,VAR_2
+start_ptr,VAR_3

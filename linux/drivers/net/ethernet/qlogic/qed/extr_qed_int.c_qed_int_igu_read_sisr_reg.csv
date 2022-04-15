@@ -1,0 +1,12 @@
+GTT_BAR0_MAP_REG_IGU_CMD,VAR_0
+IGU_CMD_INT_ACK_BASE,VAR_1
+IGU_REG_SISR_MDPC_WMASK_LSB_UPPER,VAR_2
+IGU_REG_SISR_MDPC_WMASK_MSB_UPPER,VAR_3
+REG_RD,FUNC_0
+qed_int_igu_read_sisr_reg,FUNC_1
+p_hwfn,VAR_4
+lsb_igu_cmd_addr,VAR_5
+msb_igu_cmd_addr,VAR_6
+intr_status_hi,VAR_7
+intr_status_lo,VAR_8
+intr_status,VAR_9

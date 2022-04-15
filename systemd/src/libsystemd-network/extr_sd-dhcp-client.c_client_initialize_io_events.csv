@@ -1,0 +1,10 @@
+EPOLLIN,VAR_0
+assert,FUNC_0
+client_stop,FUNC_1
+sd_event_add_io,FUNC_2
+sd_event_source_set_description,FUNC_3
+sd_event_source_set_priority,FUNC_4
+client_initialize_io_events,FUNC_5
+client,VAR_1
+io_callback,VAR_2
+r,VAR_3

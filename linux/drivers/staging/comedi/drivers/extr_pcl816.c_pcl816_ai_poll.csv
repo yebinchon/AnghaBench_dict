@@ -1,0 +1,16 @@
+comedi_buf_n_bytes_ready,FUNC_0
+comedi_bytes_to_samples,FUNC_1
+comedi_handle_events,FUNC_2
+comedi_isadma_poll,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+transfer_from_dma_buf,FUNC_6
+pcl816_ai_poll,FUNC_7
+dev,VAR_0
+s,VAR_1
+devpriv,VAR_2
+dma,VAR_3
+desc,VAR_4
+flags,VAR_5
+poll,VAR_6
+ret,VAR_7

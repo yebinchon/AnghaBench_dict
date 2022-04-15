@@ -1,0 +1,13 @@
+BO_LOCK,FUNC_0
+BO_UNLOCK,FUNC_1
+DOINGSOFTDEP,FUNC_2
+MNT_WAIT,VAR_0
+VDIR,VAR_1
+VREG,VAR_2
+ffs_syncvnode,FUNC_3
+softdep_fsync,FUNC_4
+ffs_fsync,FUNC_5
+ap,VAR_3
+vp,VAR_4
+bo,VAR_5
+error,VAR_6

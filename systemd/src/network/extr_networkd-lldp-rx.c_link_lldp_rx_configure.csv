@@ -1,0 +1,14 @@
+LLDP_MODE_ROUTERS_ONLY,VAR_0
+SD_LLDP_SYSTEM_CAPABILITIES_ALL,VAR_1
+SD_LLDP_SYSTEM_CAPABILITIES_ALL_ROUTERS,VAR_2
+link_update_lldp,FUNC_0
+lldp_handler,VAR_3
+sd_lldp_attach_event,FUNC_1
+sd_lldp_match_capabilities,FUNC_2
+sd_lldp_new,FUNC_3
+sd_lldp_set_callback,FUNC_4
+sd_lldp_set_filter_address,FUNC_5
+sd_lldp_set_ifindex,FUNC_6
+link_lldp_rx_configure,FUNC_7
+link,VAR_4
+r,VAR_5

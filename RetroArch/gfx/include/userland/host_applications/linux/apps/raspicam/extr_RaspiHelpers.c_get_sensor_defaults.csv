@@ -1,0 +1,17 @@
+MMAL_COMPONENT_DEFAULT_CAMERA_INFO,VAR_0
+MMAL_PARAMETER_CAMERA_INFO,VAR_1
+MMAL_PARAMETER_CAMERA_INFO_MAX_STR_LEN,VAR_2
+MMAL_SUCCESS,VAR_3
+mmal_component_create,FUNC_0
+mmal_component_destroy,FUNC_1
+mmal_port_parameter_get,FUNC_2
+strncpy,FUNC_3
+vcos_log_error,FUNC_4
+get_sensor_defaults,FUNC_5
+camera_num,VAR_4
+camera_name,VAR_5
+width,VAR_6
+height,VAR_7
+camera_info,VAR_8
+status,VAR_9
+param,VAR_10

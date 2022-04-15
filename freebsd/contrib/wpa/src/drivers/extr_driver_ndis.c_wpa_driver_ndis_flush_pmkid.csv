@@ -1,0 +1,17 @@
+MSG_MSGDUMP,VAR_0
+Ndis802_11AuthModeWPA2,VAR_1
+OID_802_11_PMKID,VAR_2
+ndis_get_auth_mode,FUNC_0
+ndis_set_auth_mode,FUNC_1
+ndis_set_oid,FUNC_2
+os_free,FUNC_3
+os_memset,FUNC_4
+wpa_hexdump,FUNC_5
+wpa_driver_ndis_flush_pmkid,FUNC_6
+priv,VAR_3
+drv,VAR_4
+p,VAR_5
+pmkid,VAR_6
+prev,VAR_7
+prev_authmode,VAR_8
+ret,VAR_9

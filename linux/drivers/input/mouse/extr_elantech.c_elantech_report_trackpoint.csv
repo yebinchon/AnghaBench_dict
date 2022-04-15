@@ -1,0 +1,16 @@
+REL_X,VAR_0
+REL_Y,VAR_1
+elantech_packet_dump,FUNC_0
+get_unaligned_le32,FUNC_1
+input_report_rel,FUNC_2
+input_sync,FUNC_3
+psmouse_report_standard_buttons,FUNC_4
+elantech_report_trackpoint,FUNC_5
+psmouse,VAR_2
+packet_type,VAR_3
+etd,VAR_4
+tp_dev,VAR_5
+packet,VAR_6
+x,VAR_7
+y,VAR_8
+t,VAR_9

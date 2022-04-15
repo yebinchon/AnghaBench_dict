@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+NL80211_ATTR_MAC,VAR_1
+NL80211_ATTR_TSID,VAR_2
+nla_data,FUNC_0
+nla_get_u8,FUNC_1
+rdev_del_tx_ts,FUNC_2
+wdev_lock,FUNC_3
+wdev_unlock,FUNC_4
+nl80211_del_tx_ts,FUNC_5
+skb,VAR_3
+info,VAR_4
+rdev,VAR_5
+dev,VAR_6
+wdev,VAR_7
+peer,VAR_8
+tsid,VAR_9
+err,VAR_10

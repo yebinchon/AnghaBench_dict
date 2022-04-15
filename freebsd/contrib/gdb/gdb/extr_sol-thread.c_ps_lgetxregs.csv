@@ -1,0 +1,11 @@
+PIOCGXREG,VAR_0
+PS_ERR,VAR_1
+PS_OK,VAR_2
+errno,VAR_3
+get_lwp_fd,FUNC_0
+ioctl,FUNC_1
+print_sys_errmsg,FUNC_2
+ps_lgetxregs,FUNC_3
+ph,VAR_4
+lwpid,VAR_5
+xregset,VAR_6

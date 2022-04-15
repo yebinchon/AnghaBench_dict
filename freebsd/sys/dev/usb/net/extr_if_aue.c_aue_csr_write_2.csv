@@ -1,0 +1,10 @@
+AUE_UR_WRITEREG,VAR_0
+USETW,FUNC_0
+UT_WRITE_VENDOR_DEVICE,VAR_1
+htole16,FUNC_1
+uether_do_request,FUNC_2
+aue_csr_write_2,FUNC_3
+sc,VAR_2
+reg,VAR_3
+val,VAR_4
+req,VAR_5

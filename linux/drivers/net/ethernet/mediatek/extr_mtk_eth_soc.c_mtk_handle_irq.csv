@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+MTK_PDMA_INT_MASK,VAR_1
+MTK_PDMA_INT_STATUS,VAR_2
+MTK_RX_DONE_INT,VAR_3
+MTK_TX_DONE_INT,VAR_4
+mtk_handle_irq_rx,FUNC_0
+mtk_handle_irq_tx,FUNC_1
+mtk_r32,FUNC_2
+mtk_handle_irq,FUNC_3
+irq,VAR_5
+_eth,VAR_6
+eth,VAR_7

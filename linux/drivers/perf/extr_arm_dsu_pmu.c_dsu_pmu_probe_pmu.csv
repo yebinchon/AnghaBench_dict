@@ -1,0 +1,11 @@
+CLUSTERPMCR_N_MASK,VAR_0
+CLUSTERPMCR_N_SHIFT,VAR_1
+DSU_PMU_MAX_COMMON_EVENTS,VAR_2
+WARN_ON,FUNC_0
+__dsu_pmu_read_pmceid,FUNC_1
+__dsu_pmu_read_pmcr,FUNC_2
+bitmap_from_arr32,FUNC_3
+dsu_pmu_probe_pmu,FUNC_4
+dsu_pmu,VAR_3
+num_counters,VAR_4
+cpmceid,VAR_5

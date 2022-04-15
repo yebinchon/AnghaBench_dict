@@ -1,0 +1,14 @@
+FIVE_WORD_MSG_SIZE,VAR_0
+HOST_TID,VAR_1
+I2O_TIMEOUT_MESSAGE_GET,VAR_2
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+SGL_OFFSET_0,VAR_3
+cpu_to_le32,FUNC_2
+i2o_msg_get_wait,FUNC_3
+i2o_msg_post_wait,FUNC_4
+i2o_device_issue_claim,FUNC_5
+dev,VAR_4
+cmd,VAR_5
+type,VAR_6
+msg,VAR_7

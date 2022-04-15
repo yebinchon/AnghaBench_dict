@@ -1,0 +1,14 @@
+br_multicast_querier_exists,FUNC_0
+br_port_get_rcu,FUNC_1
+htons,FUNC_2
+memset,FUNC_3
+netif_is_bridge_port,FUNC_4
+rcu_read_lock,FUNC_5
+rcu_read_unlock,FUNC_6
+br_multicast_has_querier_anywhere,FUNC_7
+dev,VAR_0
+proto,VAR_1
+br,VAR_2
+port,VAR_3
+eth,VAR_4
+ret,VAR_5

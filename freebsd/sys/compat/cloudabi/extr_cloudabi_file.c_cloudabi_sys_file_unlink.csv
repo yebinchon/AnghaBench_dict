@@ -1,0 +1,12 @@
+CLOUDABI_UNLINK_REMOVEDIR,VAR_0
+FD_NONE,VAR_1
+UIO_SYSSPACE,VAR_2
+cloudabi_freestr,FUNC_0
+copyin_path,FUNC_1
+kern_frmdirat,FUNC_2
+kern_funlinkat,FUNC_3
+cloudabi_sys_file_unlink,FUNC_4
+td,VAR_3
+uap,VAR_4
+path,VAR_5
+error,VAR_6

@@ -1,0 +1,9 @@
+__ioapic_write_entry,FUNC_0
+ioapic_lock,VAR_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+ioapic_write_entry,FUNC_3
+apic,VAR_1
+pin,VAR_2
+e,VAR_3
+flags,VAR_4

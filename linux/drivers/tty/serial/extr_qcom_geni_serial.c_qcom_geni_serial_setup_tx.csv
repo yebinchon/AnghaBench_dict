@@ -1,0 +1,9 @@
+M_OPCODE_SHFT,VAR_0
+SE_GENI_M_CMD0,VAR_1
+SE_UART_TX_TRANS_LEN,VAR_2
+UART_START_TX,VAR_3
+writel,FUNC_0
+qcom_geni_serial_setup_tx,FUNC_1
+uport,VAR_4
+xmit_size,VAR_5
+m_cmd,VAR_6

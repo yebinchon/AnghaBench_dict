@@ -1,0 +1,7 @@
+RVT_S_TIMER,VAR_0
+RVT_S_WAIT_RNR,VAR_1
+del_timer,FUNC_0
+hrtimer_try_to_cancel,FUNC_1
+lockdep_assert_held,FUNC_2
+rvt_stop_rc_timers,FUNC_3
+qp,VAR_2

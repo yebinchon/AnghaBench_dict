@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+PCM_PLAYBACK_DEVICE,VAR_1
+PCM_PLAYBACK_MUTE,VAR_2
+PCM_PLAYBACK_VOLUME,VAR_3
+bcm2835_audio_set_chip_ctls,FUNC_0
+dev_err,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+snd_kcontrol_chip,FUNC_4
+snd_bcm2835_ctl_put,FUNC_5
+kcontrol,VAR_4
+ucontrol,VAR_5
+chip,VAR_6
+val,VAR_7
+valp,VAR_8
+changed,VAR_9

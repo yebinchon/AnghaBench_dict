@@ -1,0 +1,9 @@
+RCAR_USB3_AXH_STA,VAR_0
+RCAR_USB3_AXH_STA_PLL_ACTIVE_MASK,VAR_1
+readl,FUNC_0
+udelay,FUNC_1
+xhci_rcar_wait_for_pll_active,FUNC_2
+hcd,VAR_2
+timeout,VAR_3
+val,VAR_4
+mask,VAR_5

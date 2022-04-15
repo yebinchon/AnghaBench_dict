@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+JZ4780_GPIO_LOCK,FUNC_0
+JZ4780_GPIO_PINS,VAR_1
+JZ4780_GPIO_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+jz4780_gpio_pin_set_bias,FUNC_3
+jz4780_gpio_pin_set_func,FUNC_4
+jz4780_gpio_configure_pin,FUNC_5
+dev,VAR_2
+pin,VAR_3
+func,VAR_4
+flags,VAR_5
+sc,VAR_6
+retval,VAR_7

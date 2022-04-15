@@ -1,0 +1,11 @@
+EIO,VAR_0
+QLCRD32,FUNC_0
+QLC_83XX_FLASH_READ_RETRY_COUNT,VAR_1
+QLC_83XX_FLASH_STATUS,VAR_2
+QLC_83XX_FLASH_STATUS_READY,VAR_3
+usleep_range,FUNC_1
+qlcnic_83xx_poll_flash_status_reg,FUNC_2
+adapter,VAR_4
+status,VAR_5
+retries,VAR_6
+err,VAR_7

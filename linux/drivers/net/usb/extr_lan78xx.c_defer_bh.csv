@@ -1,0 +1,16 @@
+__skb_queue_tail,FUNC_0
+__skb_unlink,FUNC_1
+skb_queue_len,FUNC_2
+spin_lock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+tasklet_schedule,FUNC_7
+defer_bh,FUNC_8
+dev,VAR_0
+skb,VAR_1
+list,VAR_2
+state,VAR_3
+flags,VAR_4
+old_state,VAR_5
+entry,VAR_6

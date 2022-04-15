@@ -1,0 +1,12 @@
+AML_GPIO_OE_N_REG,VAR_0
+CSR_READ_4,FUNC_0
+EINVAL,VAR_1
+GPIO_PIN_INPUT,VAR_2
+GPIO_PIN_OUTPUT,VAR_3
+device_get_softc,FUNC_1
+aml8726_gpio_pin_getflags,FUNC_2
+dev,VAR_4
+pin,VAR_5
+flags,VAR_6
+sc,VAR_7
+mask,VAR_8

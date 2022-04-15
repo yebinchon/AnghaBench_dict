@@ -1,0 +1,16 @@
+XFS_BUF_BUSY,FUNC_0
+XFS_BUF_READ,FUNC_1
+XFS_BUF_SET_ADDR,FUNC_2
+xfs_buf_get_uncached,FUNC_3
+xfs_buf_iowait,FUNC_4
+xfs_buf_lock,FUNC_5
+xfs_buf_relse,FUNC_6
+xfsbdstrat,FUNC_7
+xfs_buf_read_uncached,FUNC_8
+mp,VAR_0
+target,VAR_1
+daddr,VAR_2
+length,VAR_3
+flags,VAR_4
+bp,VAR_5
+error,VAR_6

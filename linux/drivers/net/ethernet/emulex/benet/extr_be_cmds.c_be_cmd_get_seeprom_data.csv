@@ -1,0 +1,14 @@
+CMD_SUBSYSTEM_COMMON,VAR_0
+EBUSY,VAR_1
+OPCODE_COMMON_SEEPROM_READ,VAR_2
+be_mcc_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+wrb_from_mccq,FUNC_4
+be_cmd_get_seeprom_data,FUNC_5
+adapter,VAR_3
+nonemb_cmd,VAR_4
+wrb,VAR_5
+req,VAR_6
+status,VAR_7

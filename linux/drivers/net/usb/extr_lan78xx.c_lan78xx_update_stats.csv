@@ -1,0 +1,14 @@
+lan78xx_check_stat_rollover,FUNC_0
+lan78xx_read_stats,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+usb_autopm_get_interface,FUNC_4
+usb_autopm_put_interface,FUNC_5
+lan78xx_update_stats,FUNC_6
+dev,VAR_0
+p,VAR_1
+count,VAR_2
+max,VAR_3
+data,VAR_4
+i,VAR_5
+lan78xx_stats,VAR_6

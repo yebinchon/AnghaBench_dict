@@ -1,0 +1,13 @@
+NUM_RESET_DOMAIN_MASK,VAR_0
+PROTOCOL_ATTRIBUTES,VAR_1
+SCMI_PROTOCOL_RESET,VAR_2
+get_unaligned_le32,FUNC_0
+scmi_do_xfer,FUNC_1
+scmi_xfer_get_init,FUNC_2
+scmi_xfer_put,FUNC_3
+scmi_reset_attributes_get,FUNC_4
+handle,VAR_3
+pi,VAR_4
+ret,VAR_5
+t,VAR_6
+attr,VAR_7

@@ -1,0 +1,11 @@
+CACHE_CTL_mskDC_EN,VAR_0
+CACHE_CTL_mskIC_EN,VAR_1
+GIE_DISABLE,FUNC_0
+NDS32_SR_CACHE_CTL,VAR_2
+__nds32__mfsr,FUNC_1
+__nds32__mtsr_isb,FUNC_2
+cpu_dcache_wbinval_all,FUNC_3
+cpu_icache_inval_all,FUNC_4
+cpu_reset,FUNC_5
+reset,VAR_3
+tmp,VAR_4

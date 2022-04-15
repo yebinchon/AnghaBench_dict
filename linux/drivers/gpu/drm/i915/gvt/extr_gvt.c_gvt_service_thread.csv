@@ -1,0 +1,15 @@
+INTEL_GVT_REQUEST_EMULATE_VBLANK,VAR_0
+INTEL_GVT_REQUEST_EVENT_SCHED,VAR_1
+INTEL_GVT_REQUEST_SCHED,VAR_2
+WARN_ONCE,FUNC_0
+gvt_dbg_core,FUNC_1
+intel_gvt_emulate_vblank,FUNC_2
+intel_gvt_schedule,FUNC_3
+kthread_should_stop,FUNC_4
+test_and_clear_bit,FUNC_5
+test_bit,FUNC_6
+wait_event_interruptible,FUNC_7
+gvt_service_thread,FUNC_8
+data,VAR_3
+gvt,VAR_4
+ret,VAR_5

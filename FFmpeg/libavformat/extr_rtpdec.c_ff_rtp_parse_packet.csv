@@ -1,0 +1,10 @@
+ff_srtp_decrypt,FUNC_0
+has_next_packet,FUNC_1
+rtp_parse_one_packet,FUNC_2
+rtp_parse_queued_packet,FUNC_3
+ff_rtp_parse_packet,FUNC_4
+s,VAR_0
+pkt,VAR_1
+bufptr,VAR_2
+len,VAR_3
+rv,VAR_4

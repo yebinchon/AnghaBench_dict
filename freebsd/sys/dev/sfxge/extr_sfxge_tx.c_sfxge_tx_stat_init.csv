@@ -1,0 +1,14 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_ULONG,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+nitems,FUNC_3
+sfxge_tx_stat_handler,VAR_3
+sfxge_tx_stats,VAR_4
+sfxge_tx_stat_init,FUNC_4
+sc,VAR_5
+ctx,VAR_6
+stat_list,VAR_7
+id,VAR_8

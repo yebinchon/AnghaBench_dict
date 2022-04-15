@@ -1,0 +1,15 @@
+BTS_CONTROL,VAR_0
+EPERM,VAR_1
+get_debugctlmsr,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+smp_processor_id,FUNC_3
+update_debugctlmsr,FUNC_4
+update_task_debugctlmsr,FUNC_5
+ds_suspend_bts_noirq,FUNC_6
+tracer,VAR_2
+task,VAR_3
+debugctlmsr,VAR_4
+irq,VAR_5
+cpu,VAR_6
+error,VAR_7

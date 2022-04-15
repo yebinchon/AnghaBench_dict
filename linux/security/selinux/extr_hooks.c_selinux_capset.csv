@@ -1,0 +1,11 @@
+PROCESS__SETCAP,VAR_0
+SECCLASS_PROCESS,VAR_1
+avc_has_perm,FUNC_0
+cred_sid,FUNC_1
+selinux_state,VAR_2
+selinux_capset,FUNC_2
+new,VAR_3
+old,VAR_4
+effective,VAR_5
+inheritable,VAR_6
+permitted,VAR_7

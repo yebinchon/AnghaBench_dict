@@ -1,0 +1,17 @@
+LED_OFF,VAR_0
+LM3601X_ENABLE_REG,VAR_1
+LM3601X_LED_FLASH_REG,VAR_2
+LM3601X_MODE_STROBE,VAR_3
+LM3601X_STROBE_REG_DIV,VAR_4
+fled_cdev_to_led,FUNC_0
+lm3601x_read_faults,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+regmap_update_bits,FUNC_4
+regmap_write,FUNC_5
+lm3601x_flash_brightness_set,FUNC_6
+fled_cdev,VAR_5
+brightness,VAR_6
+led,VAR_7
+brightness_val,VAR_8
+ret,VAR_9

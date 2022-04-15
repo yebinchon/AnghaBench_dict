@@ -1,0 +1,11 @@
+CPU_FTR_ARCH_207S,VAR_0
+SPRN_IC,VAR_1
+cpu_has_feature,FUNC_0
+get_tb,FUNC_1
+get_vtb,FUNC_2
+mfspr,FUNC_3
+svcpu_get,FUNC_4
+svcpu_put,FUNC_5
+kvmppc_copy_to_svcpu,FUNC_6
+vcpu,VAR_2
+svcpu,VAR_3

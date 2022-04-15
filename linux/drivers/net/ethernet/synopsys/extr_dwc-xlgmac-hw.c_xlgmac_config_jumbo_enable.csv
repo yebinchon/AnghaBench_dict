@@ -1,0 +1,11 @@
+MAC_RCR,VAR_0
+MAC_RCR_JE_LEN,VAR_1
+MAC_RCR_JE_POS,VAR_2
+XLGMAC_SET_REG_BITS,FUNC_0
+XLGMAC_STD_PACKET_MTU,VAR_3
+readl,FUNC_1
+writel,FUNC_2
+xlgmac_config_jumbo_enable,FUNC_3
+pdata,VAR_4
+val,VAR_5
+regval,VAR_6

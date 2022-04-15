@@ -1,0 +1,8 @@
+CR_READ_ENABLE,VAR_0
+SATA_PHY_ASIC_DATA,VAR_1
+SATA_PHY_ASIC_STAT,VAR_2
+readl,FUNC_0
+wait_cr_ack,FUNC_1
+writel,FUNC_2
+read_cr,FUNC_3
+address,VAR_3

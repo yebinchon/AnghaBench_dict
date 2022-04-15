@@ -1,0 +1,17 @@
+KERN_INVALID_ARGUMENT,VAR_0
+KERN_SUCCESS,VAR_1
+MACHDEP_CPUNUM_MASK,VAR_2
+UINT32_MAX,VAR_3
+current_thread,FUNC_0
+get_tpidrro,FUNC_1
+kernel_task,VAR_4
+mp_disable_preemption,FUNC_2
+mp_enable_preemption,FUNC_3
+set_tpidrro,FUNC_4
+thread_is_64bit_addr,FUNC_5
+vm_map_max,FUNC_6
+machine_thread_set_tsd_base,FUNC_7
+thread,VAR_5
+tsd_base,VAR_6
+cpunum,VAR_7
+tpidrro_el0,VAR_8

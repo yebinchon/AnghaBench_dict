@@ -1,0 +1,13 @@
+BLOGE,FUNC_0
+DELAY,FUNC_1
+ECORE_F_CMD_TX_START,VAR_0
+ECORE_F_CMD_TX_STOP,VAR_1
+ECORE_F_STATE_STARTED,VAR_2
+RAMROD_DRV_CLR_ONLY,VAR_3
+bxe_set_bit,FUNC_2
+ecore_func_get_state,FUNC_3
+ecore_func_state_change,FUNC_4
+bxe_func_wait_started,FUNC_5
+sc,VAR_4
+tout,VAR_5
+func_params,VAR_6

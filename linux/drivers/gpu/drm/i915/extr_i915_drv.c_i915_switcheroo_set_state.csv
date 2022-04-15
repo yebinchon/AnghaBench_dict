@@ -1,0 +1,17 @@
+DRM_SWITCH_POWER_CHANGING,VAR_0
+DRM_SWITCH_POWER_OFF,VAR_1
+DRM_SWITCH_POWER_ON,VAR_2
+PCI_D0,VAR_3
+PM_EVENT_SUSPEND,VAR_4
+VGA_SWITCHEROO_ON,VAR_5
+dev_err,FUNC_0
+i915_resume_switcheroo,FUNC_1
+i915_suspend_switcheroo,FUNC_2
+pci_set_power_state,FUNC_3
+pdev_to_i915,FUNC_4
+pr_info,FUNC_5
+i915_switcheroo_set_state,FUNC_6
+pdev,VAR_6
+state,VAR_7
+i915,VAR_8
+pmm,VAR_9

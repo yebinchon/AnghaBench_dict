@@ -1,0 +1,13 @@
+FFEC_ASSERT_LOCKED,FUNC_0
+IFF_DRV_RUNNING,VAR_0
+callout_reset,FUNC_1
+ffec_harvest_stats,FUNC_2
+ffec_txfinish_locked,FUNC_3
+ffec_txstart_locked,FUNC_4
+hz,VAR_1
+mii_tick,FUNC_5
+ffec_tick,FUNC_6
+arg,VAR_2
+sc,VAR_3
+ifp,VAR_4
+link_was_up,VAR_5

@@ -1,0 +1,15 @@
+DIDmib_dot11phy_dot11PhyTxPowerTable_dot11CurrentTxPowerLevel,VAR_0
+DIDmsg_dot11req_mibget,VAR_1
+EFAULT,VAR_2
+memcpy,FUNC_0
+p80211req_dorequest,FUNC_1
+p80211wext_giwtxpow,FUNC_2
+dev,VAR_3
+info,VAR_4
+rrq,VAR_5
+extra,VAR_6
+wlandev,VAR_7
+mibitem,VAR_8
+msg,VAR_9
+result,VAR_10
+err,VAR_11

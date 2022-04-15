@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+SYSCON_LOCK_INIT,FUNC_0
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+ofw_bus_get_node,FUNC_4
+syscon_create_ofw_node,FUNC_5
+syscon_generic_class,VAR_3
+syscon_generic_attach,FUNC_6
+dev,VAR_4
+sc,VAR_5
+rid,VAR_6

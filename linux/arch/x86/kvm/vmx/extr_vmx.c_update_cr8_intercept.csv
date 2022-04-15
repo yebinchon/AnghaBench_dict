@@ -1,0 +1,11 @@
+CPU_BASED_TPR_SHADOW,VAR_0
+TPR_THRESHOLD,VAR_1
+get_vmcs12,FUNC_0
+is_guest_mode,FUNC_1
+nested_cpu_has,FUNC_2
+vmcs_write32,FUNC_3
+update_cr8_intercept,FUNC_4
+vcpu,VAR_2
+tpr,VAR_3
+irr,VAR_4
+vmcs12,VAR_5

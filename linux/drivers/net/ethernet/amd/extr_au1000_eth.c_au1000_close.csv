@@ -1,0 +1,13 @@
+au1000_reset_mac_unlocked,FUNC_0
+drv,VAR_0
+free_irq,FUNC_1
+netdev_priv,FUNC_2
+netif_dbg,FUNC_3
+netif_stop_queue,FUNC_4
+phy_stop,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+au1000_close,FUNC_8
+dev,VAR_1
+flags,VAR_2
+aup,VAR_3

@@ -1,0 +1,13 @@
+atlas_set_powermode,FUNC_0
+i2c_get_clientdata,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv,FUNC_3
+iio_trigger_unregister,FUNC_4
+iio_triggered_buffer_cleanup,FUNC_5
+pm_runtime_disable,FUNC_6
+pm_runtime_put_noidle,FUNC_7
+pm_runtime_set_suspended,FUNC_8
+atlas_remove,FUNC_9
+client,VAR_0
+indio_dev,VAR_1
+data,VAR_2

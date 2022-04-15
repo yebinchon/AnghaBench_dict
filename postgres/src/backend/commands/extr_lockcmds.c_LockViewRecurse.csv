@@ -1,0 +1,15 @@
+LockViewRecurse_walker,FUNC_0
+NoLock,VAR_0
+get_view_query,FUNC_1
+lappend_oid,FUNC_2
+list_delete_last,FUNC_3
+table_close,FUNC_4
+table_open,FUNC_5
+LockViewRecurse,FUNC_6
+reloid,VAR_1
+lockmode,VAR_2
+nowait,VAR_3
+ancestor_views,VAR_4
+context,VAR_5
+view,VAR_6
+viewquery,VAR_7

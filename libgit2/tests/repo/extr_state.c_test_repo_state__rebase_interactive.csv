@@ -1,0 +1,9 @@
+GIT_REBASE_MERGE_INTERACTIVE_FILE,VAR_0
+GIT_REPOSITORY_STATE_NONE,VAR_1
+GIT_REPOSITORY_STATE_REBASE_INTERACTIVE,VAR_2
+_repo,VAR_3
+assert_repo_state,FUNC_0
+cl_git_pass,FUNC_1
+git_repository_state_cleanup,FUNC_2
+setup_simple_state,FUNC_3
+test_repo_state__rebase_interactive,FUNC_4

@@ -1,0 +1,12 @@
+InitPropVariantFromCLSID,FUNC_0
+IsEqualGUID,FUNC_1
+PropVariantClear,FUNC_2
+S_OK,VAR_0
+VT_CLSID,VAR_1
+VT_I4,VAR_2
+memset,FUNC_3
+ok,FUNC_4
+test_InitPropVariantFromCLSID,FUNC_5
+propvar,VAR_3
+clsid,VAR_4
+hr,VAR_5

@@ -1,0 +1,17 @@
+NETDEV_TX_OK,VAR_0
+NET_XMIT_SUCCESS,VAR_1
+__vlan_hwaccel_put_tag,FUNC_0
+dev_queue_xmit,FUNC_1
+likely,FUNC_2
+netdev_get_tx_queue,FUNC_3
+skb_get_queue_mapping,FUNC_4
+vlan_dev_get_egress_qos_mask,FUNC_5
+vlan_dev_info,FUNC_6
+vlan_dev_hwaccel_hard_start_xmit,FUNC_7
+skb,VAR_2
+dev,VAR_3
+i,VAR_4
+txq,VAR_5
+vlan_tci,VAR_6
+len,VAR_7
+ret,VAR_8

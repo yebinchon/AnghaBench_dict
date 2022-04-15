@@ -1,0 +1,11 @@
+evhttp_connection_get_addr,FUNC_0
+evutil_format_sockaddr_port_,FUNC_1
+strncmp,FUNC_2
+test_ok,VAR_0
+tt_assert,FUNC_3
+http_request_get_addr_on_close,FUNC_4
+evcon,VAR_1
+arg,VAR_2
+storage,VAR_3
+addrbuf,VAR_4
+local,VAR_5

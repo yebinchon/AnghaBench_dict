@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+drm_atomic_get_crtc_state,FUNC_2
+drm_atomic_get_new_connector_state,FUNC_3
+drm_atomic_get_old_connector_state,FUNC_4
+fill_hdr_info_packet,FUNC_5
+is_hdr_metadata_different,FUNC_6
+amdgpu_dm_connector_atomic_check,FUNC_7
+conn,VAR_0
+state,VAR_1
+new_con_state,VAR_2
+old_con_state,VAR_3
+crtc,VAR_4
+new_crtc_state,VAR_5
+ret,VAR_6
+hdr_infopacket,VAR_7

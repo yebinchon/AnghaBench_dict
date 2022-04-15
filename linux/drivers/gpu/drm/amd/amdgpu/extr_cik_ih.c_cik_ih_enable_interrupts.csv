@@ -1,0 +1,10 @@
+IH_CNTL__ENABLE_INTR_MASK,VAR_0
+IH_RB_CNTL__RB_ENABLE_MASK,VAR_1
+RREG32,FUNC_0
+WREG32,FUNC_1
+mmIH_CNTL,VAR_2
+mmIH_RB_CNTL,VAR_3
+cik_ih_enable_interrupts,FUNC_2
+adev,VAR_4
+ih_cntl,VAR_5
+ih_rb_cntl,VAR_6

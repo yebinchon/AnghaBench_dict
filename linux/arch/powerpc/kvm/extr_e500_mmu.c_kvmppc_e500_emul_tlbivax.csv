@@ -1,0 +1,13 @@
+EMULATE_DONE,VAR_0
+get_cur_pid,FUNC_0
+kvmppc_core_flush_tlb,FUNC_1
+kvmppc_e500_gtlbe_invalidate,FUNC_2
+kvmppc_e500_tlb_index,FUNC_3
+to_e500,FUNC_4
+kvmppc_e500_emul_tlbivax,FUNC_5
+vcpu,VAR_1
+ea,VAR_2
+vcpu_e500,VAR_3
+ia,VAR_4
+esel,VAR_5
+tlbsel,VAR_6

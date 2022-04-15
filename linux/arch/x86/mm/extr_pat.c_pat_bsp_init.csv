@@ -1,0 +1,11 @@
+MSR_IA32_CR_PAT,VAR_0
+X86_FEATURE_PAT,VAR_1
+__init_cache_modes,FUNC_0
+boot_cpu_has,FUNC_1
+pat_disable,FUNC_2
+pat_initialized,VAR_2
+rdmsrl,FUNC_3
+wrmsrl,FUNC_4
+pat_bsp_init,FUNC_5
+pat,VAR_3
+tmp_pat,VAR_4

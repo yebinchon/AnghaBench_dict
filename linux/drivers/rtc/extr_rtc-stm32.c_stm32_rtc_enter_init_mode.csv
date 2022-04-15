@@ -1,0 +1,9 @@
+STM32_RTC_ISR_INIT,VAR_0
+STM32_RTC_ISR_INITF,VAR_1
+readl_relaxed,FUNC_0
+readl_relaxed_poll_timeout_atomic,FUNC_1
+writel_relaxed,FUNC_2
+stm32_rtc_enter_init_mode,FUNC_3
+rtc,VAR_2
+regs,VAR_3
+isr,VAR_4

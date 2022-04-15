@@ -1,0 +1,11 @@
+REG13_AEC_EN,VAR_0
+REG13_AGC_EN,VAR_1
+REG_AEC,VAR_2
+REG_HAEC,VAR_3
+REG_REG13,VAR_4
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+ov7740_set_exp,FUNC_2
+regmap,VAR_5
+value,VAR_6
+ret,VAR_7

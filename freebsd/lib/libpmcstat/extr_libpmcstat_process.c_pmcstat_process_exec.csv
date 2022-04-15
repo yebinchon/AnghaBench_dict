@@ -1,0 +1,17 @@
+EX_SOFTWARE,VAR_0
+PMCSTAT_IMAGE_UNKNOWN,VAR_1
+assert,FUNC_0
+err,FUNC_1
+pmcstat_image_determine_type,FUNC_2
+pmcstat_image_from_path,FUNC_3
+pmcstat_process_aout_exec,FUNC_4
+pmcstat_process_elf_exec,FUNC_5
+pmcstat_string_unintern,FUNC_6
+pmcstat_process_exec,FUNC_7
+pp,VAR_2
+path,VAR_3
+entryaddr,VAR_4
+args,VAR_5
+plugins,VAR_6
+pmcstat_stats,VAR_7
+image,VAR_8

@@ -1,0 +1,14 @@
+hsw_ipc_to_mixer,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+snd_soc_kcontrol_component,FUNC_5
+sst_hsw_mixer_get_volume,FUNC_6
+hsw_volume_get,FUNC_7
+kcontrol,VAR_0
+ucontrol,VAR_1
+component,VAR_2
+pdata,VAR_3
+hsw,VAR_4
+volume,VAR_5

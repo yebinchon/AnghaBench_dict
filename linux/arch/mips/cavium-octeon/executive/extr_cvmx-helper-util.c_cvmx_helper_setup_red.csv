@@ -1,0 +1,16 @@
+CVMX_IPD_BP_PRT_RED_END,VAR_0
+CVMX_IPD_PORTX_BP_PAGE_CNT,FUNC_0
+CVMX_IPD_RED_PORT_ENABLE,VAR_1
+cvmx_helper_get_first_ipd_port,FUNC_1
+cvmx_helper_get_last_ipd_port,FUNC_2
+cvmx_helper_setup_red_queue,FUNC_3
+cvmx_write_csr,FUNC_4
+cvmx_helper_setup_red,FUNC_5
+pass_thresh,VAR_2
+drop_thresh,VAR_3
+page_cnt,VAR_4
+ipd_bp_prt_red_end,VAR_5
+red_port_enable,VAR_6
+queue,VAR_7
+interface,VAR_8
+port,VAR_9

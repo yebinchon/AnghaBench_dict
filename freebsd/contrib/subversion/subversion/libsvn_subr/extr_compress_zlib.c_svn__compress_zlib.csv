@@ -1,0 +1,11 @@
+SVN_ERR_BAD_COMPRESSION_METHOD,VAR_0
+SVN__COMPRESSION_NONE,VAR_1
+SVN__COMPRESSION_ZLIB_MAX,VAR_2
+_,FUNC_0
+svn_error_createf,FUNC_1
+zlib_encode,FUNC_2
+svn__compress_zlib,FUNC_3
+data,VAR_3
+len,VAR_4
+out,VAR_5
+compression_method,VAR_6

@@ -1,0 +1,17 @@
+EIO,VAR_0
+INODE_VERSION,FUNC_0
+MINIX_V1,VAR_1
+V1_minix_update_inode,FUNC_1
+V2_minix_update_inode,FUNC_2
+WB_SYNC_ALL,VAR_2
+brelse,FUNC_3
+buffer_dirty,FUNC_4
+buffer_req,FUNC_5
+buffer_uptodate,FUNC_6
+printk,FUNC_7
+sync_dirty_buffer,FUNC_8
+minix_write_inode,FUNC_9
+inode,VAR_3
+wbc,VAR_4
+err,VAR_5
+bh,VAR_6

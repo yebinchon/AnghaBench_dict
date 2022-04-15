@@ -1,0 +1,15 @@
+FALSE,VAR_0
+NETDEV_TX_OK,VAR_1
+ZM_VAP_PORT_NUMBER,VAR_2
+dev_kfree_skb_irq,FUNC_0
+netif_carrier_off,FUNC_1
+netif_stop_queue,FUNC_2
+vap,VAR_3
+zfLnxGetVapId,FUNC_3
+zfiTxSendEth,FUNC_4
+zfLnxVapXmitFrame,FUNC_5
+skb,VAR_4
+dev,VAR_5
+notify_stop,VAR_6
+macp,VAR_7
+vapId,VAR_8

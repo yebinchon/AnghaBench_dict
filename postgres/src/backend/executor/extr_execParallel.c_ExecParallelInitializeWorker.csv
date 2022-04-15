@@ -1,0 +1,15 @@
+ExecAppendInitializeWorker,FUNC_0
+ExecBitmapHeapInitializeWorker,FUNC_1
+ExecCustomScanInitializeWorker,FUNC_2
+ExecForeignScanInitializeWorker,FUNC_3
+ExecHashInitializeWorker,FUNC_4
+ExecHashJoinInitializeWorker,FUNC_5
+ExecIndexOnlyScanInitializeWorker,FUNC_6
+ExecIndexScanInitializeWorker,FUNC_7
+ExecSeqScanInitializeWorker,FUNC_8
+ExecSortInitializeWorker,FUNC_9
+nodeTag,FUNC_10
+planstate_tree_walker,FUNC_11
+ExecParallelInitializeWorker,FUNC_12
+planstate,VAR_0
+pwcxt,VAR_1

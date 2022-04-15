@@ -1,0 +1,15 @@
+GIT_MKDIR_CHMOD,VAR_0
+GIT_MKDIR_CHMOD_PATH,VAR_1
+GIT_MKDIR_PATH,VAR_2
+check_mode,FUNC_0
+cl_git_pass,FUNC_1
+cl_set_cleanup,FUNC_2
+cleanup_chmod_root,VAR_3
+git__malloc,FUNC_3
+git_futils_mkdir,FUNC_4
+git_futils_mkdir_relative,FUNC_5
+git_path_lstat,FUNC_6
+p_umask,FUNC_7
+test_core_mkdir__chmods,FUNC_8
+st,VAR_4
+old,VAR_5

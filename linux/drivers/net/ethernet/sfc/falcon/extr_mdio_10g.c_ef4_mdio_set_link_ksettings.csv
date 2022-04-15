@@ -1,0 +1,16 @@
+ADVERTISED_Autoneg,VAR_0
+EINVAL,VAR_1
+ETHTOOL_GLINKSETTINGS,VAR_2
+PORT_TP,VAR_3
+SUPPORTED_Autoneg,VAR_4
+ef4_link_set_advertising,FUNC_0
+ef4_mdio_an_reconfigure,FUNC_1
+ethtool_convert_link_mode_to_legacy_u32,FUNC_2
+stub1,FUNC_3
+ef4_mdio_set_link_ksettings,FUNC_4
+efx,VAR_5
+cmd,VAR_6
+prev,VAR_7
+prev_advertising,VAR_8
+advertising,VAR_9
+prev_supported,VAR_10

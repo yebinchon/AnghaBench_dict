@@ -1,0 +1,10 @@
+io_iopoll_reap_events,FUNC_0
+io_kill_timeouts,FUNC_1
+io_poll_remove_all,FUNC_2
+io_ring_ctx_free,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+percpu_ref_kill,FUNC_6
+wait_for_completion,FUNC_7
+io_ring_ctx_wait_and_kill,FUNC_8
+ctx,VAR_0

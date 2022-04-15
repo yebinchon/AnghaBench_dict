@@ -1,0 +1,13 @@
+DA9052_IRQ_ADC_EOM,VAR_0
+IRQF_ONESHOT,VAR_1
+IRQF_TRIGGER_LOW,VAR_2
+da9052_auxadc_irq,VAR_3
+da9052_regmap_irq_chip,VAR_4
+da9052_request_irq,FUNC_0
+dev_err,FUNC_1
+enable_irq_wake,FUNC_2
+regmap_add_irq_chip,FUNC_3
+regmap_del_irq_chip,FUNC_4
+da9052_irq_init,FUNC_5
+da9052,VAR_5
+ret,VAR_6

@@ -1,0 +1,14 @@
+ARCH_PERFMON_EVENTSEL_INT,VAR_0
+MSR_IA32_PEBS_ENABLE,VAR_1
+PERF_X86_EVENT_PEBS_LDLAT,VAR_2
+PERF_X86_EVENT_PEBS_ST,VAR_3
+cpu_hw_events,VAR_4
+intel_pmu_drain_pebs_buffer,FUNC_0
+intel_pmu_pebs_via_pt_disable,FUNC_1
+this_cpu_ptr,FUNC_2
+wrmsrl,FUNC_3
+x86_pmu,VAR_5
+intel_pmu_pebs_disable,FUNC_4
+event,VAR_6
+cpuc,VAR_7
+hwc,VAR_8

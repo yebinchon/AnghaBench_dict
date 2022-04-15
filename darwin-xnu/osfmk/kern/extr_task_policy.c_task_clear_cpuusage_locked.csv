@@ -1,0 +1,14 @@
+LEDGER_LIMIT_INFINITY,VAR_0
+TASK_RUSECPU_FLAGS_DEADLINE,VAR_1
+TASK_RUSECPU_FLAGS_PROC_LIMIT,VAR_2
+ledger_set_limit,FUNC_0
+task_disable_cpumon,FUNC_1
+task_ledgers,VAR_3
+task_lock,FUNC_2
+task_unlock,FUNC_3
+thread_call_cancel_wait,FUNC_4
+thread_call_free,FUNC_5
+task_clear_cpuusage_locked,FUNC_6
+task,VAR_4
+cpumon_entitled,VAR_5
+savecallt,VAR_6

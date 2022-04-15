@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+__i915_mm_struct_find,FUNC_0
+current,VAR_2
+hash_add,FUNC_1
+kmalloc,FUNC_2
+kref_get,FUNC_3
+kref_init,FUNC_4
+mmgrab,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+to_i915,FUNC_8
+i915_gem_userptr_init__mm_struct,FUNC_9
+obj,VAR_3
+dev_priv,VAR_4
+mm,VAR_5
+ret,VAR_6

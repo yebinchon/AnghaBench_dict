@@ -1,0 +1,16 @@
+BDI_RECLAIMABLE,VAR_0
+BUG_ON,FUNC_0
+NR_FILE_DIRTY,VAR_1
+NR_FILE_PAGES,VAR_2
+NR_SHMEM,VAR_3
+PageDirty,FUNC_1
+PageSwapBacked,FUNC_2
+__dec_zone_page_state,FUNC_3
+dec_bdi_stat,FUNC_4
+dec_zone_page_state,FUNC_5
+mapping_cap_account_dirty,FUNC_6
+page_mapped,FUNC_7
+radix_tree_delete,FUNC_8
+__remove_from_page_cache,FUNC_9
+page,VAR_4
+mapping,VAR_5

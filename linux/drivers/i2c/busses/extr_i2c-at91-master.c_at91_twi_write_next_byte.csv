@@ -1,0 +1,10 @@
+AT91_TWI_CR,VAR_0
+AT91_TWI_IDR,VAR_1
+AT91_TWI_STOP,VAR_2
+AT91_TWI_THR,VAR_3
+AT91_TWI_TXRDY,VAR_4
+at91_twi_write,FUNC_0
+dev_dbg,FUNC_1
+writeb_relaxed,FUNC_2
+at91_twi_write_next_byte,FUNC_3
+dev,VAR_5

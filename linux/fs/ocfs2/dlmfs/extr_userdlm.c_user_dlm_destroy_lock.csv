@@ -1,0 +1,17 @@
+DLM_LKF_VALBLK,VAR_0
+EBUSY,VAR_1
+ML_BASTS,VAR_2
+USER_LOCK_ATTACHED,VAR_3
+USER_LOCK_BUSY,VAR_4
+USER_LOCK_IN_TEARDOWN,VAR_5
+cluster_connection_from_user_lockres,FUNC_0
+mlog,FUNC_1
+ocfs2_dlm_unlock,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+user_log_dlm_error,FUNC_5
+user_wait_on_busy_lock,FUNC_6
+user_dlm_destroy_lock,FUNC_7
+lockres,VAR_6
+status,VAR_7
+conn,VAR_8

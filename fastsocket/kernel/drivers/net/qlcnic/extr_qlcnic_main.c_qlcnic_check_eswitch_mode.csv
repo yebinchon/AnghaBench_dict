@@ -1,0 +1,17 @@
+QLCNIC_ADAPTER_INITIALIZED,VAR_0
+QLCNIC_DRV_OP_MODE,VAR_1
+QLCNIC_ESWITCH_ENABLED,VAR_2
+QLCNIC_MGMT_FUNC,VAR_3
+QLCNIC_PRIV_FUNC,VAR_4
+QLC_DEV_DRV_DEFAULT,VAR_5
+QLC_DEV_GET_DRV,FUNC_0
+QLC_SHARED_REG_RD32,FUNC_1
+dev_info,FUNC_2
+qlcnic_init_pci_info,FUNC_3
+qlcnic_initialize_nic,FUNC_4
+qlcnic_set_function_modes,FUNC_5
+qlcnic_check_eswitch_mode,FUNC_6
+adapter,VAR_6
+op_mode,VAR_7
+priv_level,VAR_8
+err,VAR_9

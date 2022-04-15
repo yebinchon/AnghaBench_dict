@@ -1,0 +1,14 @@
+scic_cb_ssp_io_request_get_cdb_address,FUNC_0
+scic_cb_ssp_io_request_get_cdb_length,FUNC_1
+scic_cb_ssp_io_request_get_command_priority,FUNC_2
+scic_cb_ssp_io_request_get_lun,FUNC_3
+scic_cb_ssp_io_request_get_task_attribute,FUNC_4
+scic_sds_request_get_user_request,FUNC_5
+scic_word_copy_with_swap,FUNC_6
+scic_sds_io_request_build_ssp_command_iu,FUNC_7
+this_request,VAR_0
+lun,VAR_1
+command_frame,VAR_2
+os_handle,VAR_3
+cdb_length,VAR_4
+cdb_buffer,VAR_5

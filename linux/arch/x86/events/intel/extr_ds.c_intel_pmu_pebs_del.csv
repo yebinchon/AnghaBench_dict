@@ -1,0 +1,11 @@
+PERF_X86_EVENT_LARGE_PEBS,VAR_0
+PERF_X86_EVENT_PEBS_VIA_PT,VAR_1
+cpu_hw_events,VAR_2
+pebs_needs_sched_cb,FUNC_0
+pebs_update_state,FUNC_1
+this_cpu_ptr,FUNC_2
+intel_pmu_pebs_del,FUNC_3
+event,VAR_3
+cpuc,VAR_4
+hwc,VAR_5
+needed_cb,VAR_6

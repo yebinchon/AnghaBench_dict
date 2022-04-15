@@ -1,0 +1,7 @@
+BFA_FCPORT_MOD,FUNC_0
+BFA_FCPORT_SM_DPORTENABLE,VAR_0
+BFA_TRUE,VAR_1
+bfa_port_set_dportenabled,FUNC_1
+bfa_sm_send_event,FUNC_2
+bfa_fcport_dportenable,FUNC_3
+bfa,VAR_2

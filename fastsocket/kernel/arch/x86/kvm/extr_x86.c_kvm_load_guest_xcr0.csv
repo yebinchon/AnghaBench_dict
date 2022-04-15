@@ -1,0 +1,6 @@
+X86_CR4_OSXSAVE,VAR_0
+XCR_XFEATURE_ENABLED_MASK,VAR_1
+kvm_read_cr4_bits,FUNC_0
+xsetbv,FUNC_1
+kvm_load_guest_xcr0,FUNC_2
+vcpu,VAR_2

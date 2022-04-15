@@ -1,0 +1,15 @@
+SMP_CACHE_BYTES,VAR_0
+do_blockdev_direct_IO,FUNC_0
+prefetch,FUNC_1
+__blockdev_direct_IO,FUNC_2
+rw,VAR_1
+iocb,VAR_2
+inode,VAR_3
+bdev,VAR_4
+iov,VAR_5
+offset,VAR_6
+nr_segs,VAR_7
+get_block,VAR_8
+end_io,VAR_9
+submit_io,VAR_10
+flags,VAR_11

@@ -1,0 +1,11 @@
+XGBE_CONN_TYPE_MDIO,VAR_0
+XGBE_MDIO_RESET_I2C_GPIO,VAR_1
+XGBE_MDIO_RESET_INT_GPIO,VAR_2
+xgbe_phy_get_comm_ownership,FUNC_0
+xgbe_phy_i2c_mdio_reset,FUNC_1
+xgbe_phy_int_mdio_reset,FUNC_2
+xgbe_phy_put_comm_ownership,FUNC_3
+xgbe_phy_mdio_reset,FUNC_4
+pdata,VAR_3
+phy_data,VAR_4
+ret,VAR_5

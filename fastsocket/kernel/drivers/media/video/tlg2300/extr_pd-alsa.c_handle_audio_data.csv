@@ -1,0 +1,15 @@
+AUDIO_BUF_SIZE,VAR_0
+AUDIO_TRAILER_SIZE,VAR_1
+memcpy,FUNC_0
+snd_pcm_stream_lock,FUNC_1
+snd_pcm_stream_unlock,FUNC_2
+handle_audio_data,FUNC_3
+urb,VAR_2
+period_elapsed,VAR_3
+pa,VAR_4
+runtime,VAR_5
+stride,VAR_6
+len,VAR_7
+cp,VAR_8
+oldptr,VAR_9
+cnt,VAR_10

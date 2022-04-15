@@ -1,0 +1,12 @@
+BT_AGCTABLE_OFF,VAR_0
+BT_BB_BACKOFF_OFF,VAR_1
+BT_RF_RX_LPF_CORNER_RESUME,VAR_2
+BT_TX_RATE_ADAPTIVE_NORMAL,VAR_3
+dm_bt_set_sw_penalty_tx_rate_adapt,FUNC_0
+rtl8723e_dm_bt_agc_table,FUNC_1
+rtl8723e_dm_bt_bb_back_off_level,FUNC_2
+rtl8723e_dm_bt_reject_ap_aggregated_packet,FUNC_3
+rtl8723e_dm_bt_set_sw_full_time_dac_swing,FUNC_4
+rtl8723e_dm_bt_set_sw_rf_rx_lpf_corner,FUNC_5
+rtl8723e_dm_bt_sw_coex_all_off_8723a,FUNC_6
+hw,VAR_4

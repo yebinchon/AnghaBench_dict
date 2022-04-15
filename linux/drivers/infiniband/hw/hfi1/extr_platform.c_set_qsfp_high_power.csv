@@ -1,0 +1,14 @@
+EIO,VAR_0
+QSFP_MOD_PWR_OFFS,VAR_1
+QSFP_POWER_CLASS_1,VAR_2
+QSFP_POWER_CLASS_4,VAR_3
+QSFP_PWR_CTRL_BYTE_OFFS,VAR_4
+get_qsfp_power_class,FUNC_0
+msleep,FUNC_1
+qsfp_write,FUNC_2
+set_qsfp_high_power,FUNC_3
+ppd,VAR_5
+cable_power_class,VAR_6
+power_ctrl_byte,VAR_7
+cache,VAR_8
+ret,VAR_9

@@ -1,0 +1,10 @@
+ATA_DEV_HEAD_REG_LBA_MODE_ENABLE,VAR_0
+sati_cb_get_h2d_register_fis_address,FUNC_0
+sati_set_ata_device_head,FUNC_1
+sati_set_ata_lba_high,FUNC_2
+sati_set_ata_lba_low,FUNC_3
+sati_set_ata_lba_mid,FUNC_4
+set_current_lba,FUNC_5
+lba,VAR_1
+ata_io,VAR_2
+register_fis,VAR_3

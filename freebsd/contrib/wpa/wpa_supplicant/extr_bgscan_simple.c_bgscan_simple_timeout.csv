@@ -1,0 +1,12 @@
+MSG_DEBUG,VAR_0
+eloop_register_timeout,FUNC_0
+os_get_reltime,FUNC_1
+os_memset,FUNC_2
+wpa_printf,FUNC_3
+wpa_supplicant_trigger_scan,FUNC_4
+bgscan_simple_timeout,FUNC_5
+eloop_ctx,VAR_1
+timeout_ctx,VAR_2
+data,VAR_3
+wpa_s,VAR_4
+params,VAR_5

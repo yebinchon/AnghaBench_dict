@@ -1,0 +1,11 @@
+NETIF_F_RXHASH,VAR_0
+PKT_HASH_TYPE_L3,VAR_1
+PKT_HASH_TYPE_L4,VAR_2
+PKT_HASH_TYPE_NONE,VAR_3
+skb_set_hash,FUNC_0
+nicvf_set_rxhash,FUNC_1
+netdev,VAR_4
+cqe_rx,VAR_5
+skb,VAR_6
+hash_type,VAR_7
+hash,VAR_8

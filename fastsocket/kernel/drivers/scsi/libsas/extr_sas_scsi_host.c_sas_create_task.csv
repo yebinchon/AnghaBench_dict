@@ -1,0 +1,15 @@
+ASSIGN_SAS_TASK,FUNC_0
+TASK_ATTR_SIMPLE,VAR_0
+int_to_scsilun,FUNC_1
+memcpy,FUNC_2
+sas_alloc_task,FUNC_3
+sas_scsi_task_done,VAR_1
+scsi_bufflen,FUNC_4
+scsi_sg_count,FUNC_5
+scsi_sglist,FUNC_6
+sas_create_task,FUNC_7
+cmd,VAR_2
+dev,VAR_3
+gfp_flags,VAR_4
+task,VAR_5
+lun,VAR_6

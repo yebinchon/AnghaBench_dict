@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+NLMSG_DATA,FUNC_0
+NLM_F_CREATE,VAR_1
+NLM_F_EXCL,VAR_2
+RTM_NEWQDISC,VAR_3
+assert_return,FUNC_1
+message_new,FUNC_2
+rtnl_message_type_is_qdisc,FUNC_3
+sd_rtnl_message_new_qdisc,FUNC_4
+rtnl,VAR_4
+ret,VAR_5
+nlmsg_type,VAR_6
+tcm_family,VAR_7
+tcm_ifindex,VAR_8
+tcm,VAR_9
+r,VAR_10

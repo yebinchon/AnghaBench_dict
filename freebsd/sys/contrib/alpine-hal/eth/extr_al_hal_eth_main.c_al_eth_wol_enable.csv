@@ -1,0 +1,12 @@
+AL_ETH_WOL_INT_ETHERTYPE_BC,VAR_0
+AL_ETH_WOL_INT_ETHERTYPE_DA,VAR_1
+AL_ETH_WOL_INT_IPV4,VAR_2
+AL_ETH_WOL_INT_IPV6,VAR_3
+AL_ETH_WOL_INT_MAGIC_PSWD,VAR_4
+al_assert,FUNC_0
+al_eth_byte_arr_to_reg,FUNC_1
+al_reg_write32,FUNC_2
+al_eth_wol_enable,FUNC_3
+adapter,VAR_5
+wol,VAR_6
+reg,VAR_7

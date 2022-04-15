@@ -1,0 +1,12 @@
+HTCPEN_IRQ,VAR_0
+HTCPEN_PORT_INDEX,VAR_1
+HTCPEN_PORT_INIT,VAR_2
+HTCPEN_PORT_IRQ_CLEAR,VAR_3
+dev_get_drvdata,FUNC_0
+free_irq,FUNC_1
+input_unregister_device,FUNC_2
+release_region,FUNC_3
+htcpen_isa_remove,FUNC_4
+dev,VAR_4
+id,VAR_5
+htcpen_dev,VAR_6

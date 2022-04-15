@@ -1,0 +1,17 @@
+AUDIT_ARG_FD,FUNC_0
+AUDIT_ARG_TEXT,FUNC_1
+AUDIT_ARG_VALUE,FUNC_2
+CAP_EXTATTR_DELETE,VAR_0
+EXTATTR_MAXNAMELEN,VAR_1
+cap_rights_init,FUNC_3
+copyinstr,FUNC_4
+extattr_delete_vp,FUNC_5
+fdrop,FUNC_6
+getvnode,FUNC_7
+sys_extattr_delete_fd,FUNC_8
+td,VAR_2
+uap,VAR_3
+fp,VAR_4
+attrname,VAR_5
+rights,VAR_6
+error,VAR_7

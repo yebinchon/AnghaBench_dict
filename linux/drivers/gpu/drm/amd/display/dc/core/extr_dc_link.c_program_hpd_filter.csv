@@ -1,0 +1,15 @@
+ASSERT_CRITICAL,FUNC_0
+GPIO_MODE_INTERRUPT,VAR_0
+GPIO_RESULT_OK,VAR_1
+dal_gpio_close,FUNC_1
+dal_gpio_destroy_irq,FUNC_2
+dal_gpio_open,FUNC_3
+dal_irq_setup_hpd_filter,FUNC_4
+get_hpd_gpio,FUNC_5
+program_hpd_filter,FUNC_6
+link,VAR_2
+result,VAR_3
+hpd,VAR_4
+delay_on_connect_in_ms,VAR_5
+delay_on_disconnect_in_ms,VAR_6
+config,VAR_7

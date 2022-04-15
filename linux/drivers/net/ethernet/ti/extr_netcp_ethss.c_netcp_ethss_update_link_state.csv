@@ -1,0 +1,16 @@
+SGMII_BASE,FUNC_0
+SLAVE_LINK_IS_RGMII,FUNC_1
+SLAVE_LINK_IS_SGMII,FUNC_2
+atomic_xchg,FUNC_3
+gbe_phy_link_status,FUNC_4
+netcp_2u_rgmii_get_port_link,FUNC_5
+netcp_ethss_link_state_action,FUNC_6
+netcp_sgmii_get_port_link,FUNC_7
+netcp_ethss_update_link_state,FUNC_8
+gbe_dev,VAR_0
+slave,VAR_1
+ndev,VAR_2
+sw_link_state,VAR_3
+phy_link_state,VAR_4
+sp,VAR_5
+link_state,VAR_6

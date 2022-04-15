@@ -1,0 +1,16 @@
+GLADGLXDisplay,VAR_0
+GLADGLXscreen,VAR_1
+GLAD_GLX_VERSION_1_0,VAR_2
+GLAD_GLX_VERSION_1_1,VAR_3
+GLAD_GLX_VERSION_1_2,VAR_4
+GLAD_GLX_VERSION_1_3,VAR_5
+GLAD_GLX_VERSION_1_4,VAR_6
+XDefaultScreenOfDisplay,FUNC_0
+XOpenDisplay,FUNC_1
+XScreenNumberOfScreen,FUNC_2
+glXQueryVersion,FUNC_3
+find_coreGLX,FUNC_4
+dpy,VAR_7
+screen,VAR_8
+major,VAR_9
+minor,VAR_10

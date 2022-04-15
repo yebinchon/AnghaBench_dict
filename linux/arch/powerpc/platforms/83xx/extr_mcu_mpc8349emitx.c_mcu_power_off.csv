@@ -1,0 +1,9 @@
+MCU_CTRL_POFF,VAR_0
+MCU_REG_CTRL,VAR_1
+glob_mcu,VAR_2
+i2c_smbus_write_byte_data,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pr_info,FUNC_3
+mcu_power_off,FUNC_4
+mcu,VAR_3

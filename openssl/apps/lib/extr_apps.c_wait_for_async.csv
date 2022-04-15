@@ -1,0 +1,13 @@
+FD_ZERO,FUNC_0
+OPENSSL_free,FUNC_1
+SSL_get_all_async_fds,FUNC_2
+app_malloc,FUNC_3
+openssl_fdset,FUNC_4
+select,FUNC_5
+wait_for_async,FUNC_6
+s,VAR_0
+width,VAR_1
+asyncfds,VAR_2
+fds,VAR_3
+numfds,VAR_4
+i,VAR_5

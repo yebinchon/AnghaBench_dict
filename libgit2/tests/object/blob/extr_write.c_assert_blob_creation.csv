@@ -1,0 +1,10 @@
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_must_pass,FUNC_2
+git_oid_streq,FUNC_3
+repo,VAR_0
+assert_blob_creation,FUNC_4
+path_to_file,VAR_1
+blob_from_path,VAR_2
+creator,VAR_3
+oid,VAR_4

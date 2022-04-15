@@ -1,0 +1,17 @@
+DMA_BIDIRECTIONAL,VAR_0
+SZ_2M,VAR_1
+dma_unmap_sg,FUNC_0
+drm_gem_shmem_free_object,FUNC_1
+kfree,FUNC_2
+list_del,FUNC_3
+list_empty,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+sg_free_table,FUNC_7
+to_panfrost_bo,FUNC_8
+panfrost_gem_free_object,FUNC_9
+obj,VAR_2
+bo,VAR_3
+pfdev,VAR_4
+i,VAR_5
+n_sgt,VAR_6

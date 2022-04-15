@@ -1,0 +1,15 @@
+BuildCommDCB,FUNC_0
+FALSE,VAR_0
+GetLastError,FUNC_1
+MAXDWORD,VAR_1
+Rs232SetCommunicationTimeoutsWin32,FUNC_2
+SetCommState,FUNC_3
+TEXT,FUNC_4
+TRUE,VAR_2
+_tprintf,FUNC_5
+hPortHandle,VAR_3
+memset,FUNC_6
+Rs232ConfigurePortWin32,FUNC_7
+DeviceControlString,VAR_4
+dcb,VAR_5
+ErrorCode,VAR_6

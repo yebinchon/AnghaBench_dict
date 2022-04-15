@@ -1,0 +1,11 @@
+ACPI_BATT_STAT_NOT_PRESENT,VAR_0
+ACPI_SERIAL_BEGIN,FUNC_0
+ACPI_SERIAL_END,FUNC_1
+acpi_BatteryIsPresent,FUNC_2
+acpi_cmbat_get_bst,FUNC_3
+cmbat,VAR_1
+device_get_softc,FUNC_4
+acpi_cmbat_bst,FUNC_5
+dev,VAR_2
+bstp,VAR_3
+sc,VAR_4

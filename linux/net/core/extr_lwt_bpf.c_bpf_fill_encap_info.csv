@@ -1,0 +1,10 @@
+EMSGSIZE,VAR_0
+LWT_BPF_IN,VAR_1
+LWT_BPF_OUT,VAR_2
+LWT_BPF_XMIT,VAR_3
+bpf_fill_lwt_prog,FUNC_0
+bpf_lwt_lwtunnel,FUNC_1
+bpf_fill_encap_info,FUNC_2
+skb,VAR_4
+lwt,VAR_5
+bpf,VAR_6

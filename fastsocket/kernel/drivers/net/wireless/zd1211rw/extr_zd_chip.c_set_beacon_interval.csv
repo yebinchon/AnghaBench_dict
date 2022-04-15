@@ -1,0 +1,17 @@
+BCN_MODE_AP,VAR_0
+BCN_MODE_IBSS,VAR_1
+CR_BCN_INTERVAL,VAR_2
+ZD_ASSERT,FUNC_0
+get_aw_pt_bi,FUNC_1
+mutex_is_locked,FUNC_2
+set_aw_pt_bi,FUNC_3
+zd_iowrite32_locked,FUNC_4
+set_beacon_interval,FUNC_5
+chip,VAR_3
+interval,VAR_4
+dtim_period,VAR_5
+type,VAR_6
+r,VAR_7
+s,VAR_8
+b_interval,VAR_9
+mode_flag,VAR_10

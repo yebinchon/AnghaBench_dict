@@ -1,0 +1,10 @@
+LDT_ENTRY_SIZE,VAR_0
+PAGE_SIZE,VAR_1
+clear_LDT,FUNC_0
+current,VAR_2
+paravirt_free_ldt,FUNC_1
+put_page,FUNC_2
+vfree,FUNC_3
+virt_to_page,FUNC_4
+destroy_context,FUNC_5
+mm,VAR_3

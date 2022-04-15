@@ -1,0 +1,16 @@
+EBADMSG,VAR_0
+EINVAL,VAR_1
+PID_CHARGE_LOWER_LIMIT,VAR_2
+PID_CHARGE_MODE,VAR_3
+PID_CHARGE_UPPER_LIMIT,VAR_4
+charge_mode_to_psp_val,FUNC_0
+power_supply_get_drvdata,FUNC_1
+wilco_ec_get_byte_property,FUNC_2
+wilco_charge_get_property,FUNC_3
+psy,VAR_5
+psp,VAR_6
+val,VAR_7
+ec,VAR_8
+property_id,VAR_9
+ret,VAR_10
+raw,VAR_11

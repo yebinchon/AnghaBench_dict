@@ -1,0 +1,13 @@
+DFSDM_CR1,FUNC_0
+DFSDM_CR1_CFG_MASK,VAR_0
+regmap_update_bits,FUNC_1
+stm32_dfsdm_channels_configure,FUNC_2
+stm32_dfsdm_filter_configure,FUNC_3
+stm32_dfsdm_start_channel,FUNC_4
+stm32_dfsdm_start_filter,FUNC_5
+stm32_dfsdm_stop_channel,FUNC_6
+stm32_dfsdm_start_conv,FUNC_7
+adc,VAR_1
+trig,VAR_2
+regmap,VAR_3
+ret,VAR_4

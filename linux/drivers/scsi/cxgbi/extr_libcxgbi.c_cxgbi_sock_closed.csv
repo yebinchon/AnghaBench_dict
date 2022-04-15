@@ -1,0 +1,14 @@
+CTPF_ACTIVE_CLOSE_NEEDED,VAR_0
+CTP_ACTIVE_OPEN,VAR_1
+CTP_CLOSED,VAR_2
+CXGBI_DBG_SOCK,VAR_3
+cxgbi_inform_iscsi_conn_closing,FUNC_0
+cxgbi_sock_put,FUNC_1
+cxgbi_sock_set_flag,FUNC_2
+cxgbi_sock_set_state,FUNC_3
+dst_release,FUNC_4
+log_debug,FUNC_5
+sock_put_port,FUNC_6
+stub1,FUNC_7
+cxgbi_sock_closed,FUNC_8
+csk,VAR_4

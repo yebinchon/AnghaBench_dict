@@ -1,0 +1,15 @@
+MLX5_FPGA_IPSEC_CMD_OP_DEL_SA,VAR_0
+MLX5_FPGA_IPSEC_CMD_OP_DEL_SA_V2,VAR_1
+WARN_ON,FUNC_0
+is_v2_sadb_supported,FUNC_1
+mlx5_fpga_ipsec_update_hw_sa,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+rhash_sa,VAR_2
+rhashtable_remove_fast,FUNC_5
+mlx5_fpga_ipsec_release_sa_ctx,FUNC_6
+sa_ctx,VAR_3
+fdev,VAR_4
+fipsec,VAR_5
+opcode,VAR_6
+err,VAR_7

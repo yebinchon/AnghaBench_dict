@@ -1,0 +1,15 @@
+TARGET_ERRNO__INVALID_UID,VAR_0
+TARGET_ERRNO__SUCCESS,VAR_1
+TARGET_ERRNO__USER_NOT_FOUND,VAR_2
+UINT_MAX,VAR_3
+getpwnam_r,FUNC_0
+getpwuid_r,FUNC_1
+strtol,FUNC_2
+target__parse_uid,FUNC_3
+target,VAR_4
+pwd,VAR_5
+result,VAR_6
+buf,VAR_7
+str,VAR_8
+endptr,VAR_9
+uid,VAR_10

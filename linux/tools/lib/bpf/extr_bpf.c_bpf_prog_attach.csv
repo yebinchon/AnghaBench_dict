@@ -1,0 +1,9 @@
+BPF_PROG_ATTACH,VAR_0
+memset,FUNC_0
+sys_bpf,FUNC_1
+bpf_prog_attach,FUNC_2
+prog_fd,VAR_1
+target_fd,VAR_2
+type,VAR_3
+flags,VAR_4
+attr,VAR_5

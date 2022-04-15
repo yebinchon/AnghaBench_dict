@@ -1,0 +1,17 @@
+PALMAS_ALARM_SECONDS_REG,VAR_0
+PALMAS_NUM_TIME_REGS,VAR_1
+PALMAS_RTC_BASE,VAR_2
+PALMAS_RTC_INTERRUPTS_REG,VAR_3
+PALMAS_RTC_INTERRUPTS_REG_IT_ALARM,VAR_4
+bcd2bin,FUNC_0
+dev_err,FUNC_1
+dev_get_drvdata,FUNC_2
+palmas_bulk_read,FUNC_3
+palmas_read,FUNC_4
+palmas_rtc_read_alarm,FUNC_5
+dev,VAR_5
+alm,VAR_6
+alarm_data,VAR_7
+int_val,VAR_8
+palmas,VAR_9
+ret,VAR_10

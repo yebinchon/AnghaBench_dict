@@ -1,0 +1,16 @@
+EPROTO,VAR_0
+GOODIX_BUFFER_STATUS_READY,VAR_1
+GOODIX_BUFFER_STATUS_TIMEOUT,VAR_2
+GOODIX_READ_COOR_ADDR,VAR_3
+dev_err,FUNC_0
+goodix_i2c_read,FUNC_1
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_2
+time_before,FUNC_3
+usleep_range,FUNC_4
+goodix_ts_read_input_report,FUNC_5
+ts,VAR_5
+data,VAR_6
+max_timeout,VAR_7
+touch_num,VAR_8
+error,VAR_9

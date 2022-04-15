@@ -1,0 +1,12 @@
+IFX_SPI_POWER_SRDY,VAR_0
+IFX_SPI_STATE_IO_IN_PROGRESS,VAR_1
+IFX_SPI_STATE_IO_READY,VAR_2
+IFX_SPI_STATE_TIMER_PENDING,VAR_3
+clear_bit,FUNC_0
+del_timer,FUNC_1
+ifx_spi_power_state_set,FUNC_2
+set_bit,FUNC_3
+tasklet_schedule,FUNC_4
+test_bit,FUNC_5
+ifx_spi_handle_srdy,FUNC_6
+ifx_dev,VAR_4

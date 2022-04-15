@@ -1,0 +1,17 @@
+FC_TYPE_GS,VAR_0
+OCS_HW_FC_CT_RSP,VAR_1
+OCS_IO_TYPE_CT_RESP,VAR_2
+fcct_build_req_header,FUNC_0
+ocs_ct_acc_cb,VAR_3
+ocs_els_io_free,FUNC_1
+ocs_htobe16,FUNC_2
+ocs_memset,FUNC_3
+ocs_scsi_io_dispatch,FUNC_4
+ocs_send_ct_rsp,FUNC_5
+io,VAR_4
+ox_id,VAR_5
+ct_hdr,VAR_6
+cmd_rsp_code,VAR_7
+reason_code,VAR_8
+reason_code_explanation,VAR_9
+rsp,VAR_10

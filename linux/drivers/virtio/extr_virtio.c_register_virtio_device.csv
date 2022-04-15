@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+INIT_LIST_HEAD,FUNC_0
+VIRTIO_CONFIG_S_ACKNOWLEDGE,VAR_1
+VIRTIO_CONFIG_S_FAILED,VAR_2
+dev_set_name,FUNC_1
+device_add,FUNC_2
+device_initialize,FUNC_3
+ida_simple_get,FUNC_4
+ida_simple_remove,FUNC_5
+spin_lock_init,FUNC_6
+stub1,FUNC_7
+virtio_add_status,FUNC_8
+virtio_bus,VAR_3
+virtio_index_ida,VAR_4
+register_virtio_device,FUNC_9
+dev,VAR_5
+err,VAR_6

@@ -1,0 +1,11 @@
+NDS32_SR_INT_MASK,VAR_0
+__assign_bit,FUNC_0
+__nds32__mfsr,FUNC_1
+__nds32__mtsr_dsb,FUNC_2
+wake_mask,VAR_1
+nointc_set_wake,FUNC_3
+data,VAR_2
+on,VAR_3
+int_mask,VAR_4
+irq_orig_bit,VAR_5
+bit,VAR_6

@@ -1,0 +1,9 @@
+GIT_STASH_DEFAULT,VAR_0
+assert_commit_message_contains,FUNC_0
+cl_git_pass,FUNC_1
+git_repository_detach_head,FUNC_2
+git_stash_save,FUNC_3
+repo,VAR_1
+signature,VAR_2
+stash_tip_oid,VAR_3
+test_stash_save__can_stash_against_a_detached_head,FUNC_4

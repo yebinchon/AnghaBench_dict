@@ -1,0 +1,17 @@
+INET_ECN_dontxmit,FUNC_0
+INET_ECN_xmit,FUNC_1
+SKB_GSO_TCP_ECN,VAR_0
+TCP_ECN_DEMAND_CWR,VAR_1
+TCP_ECN_OK,VAR_2
+TCP_ECN_QUEUE_CWR,VAR_3
+TCP_SKB_CB,FUNC_2
+before,FUNC_3
+skb_shinfo,FUNC_4
+tcp_ca_needs_ecn,FUNC_5
+tcp_sk,FUNC_6
+tcp_ecn_send,FUNC_7
+sk,VAR_4
+skb,VAR_5
+th,VAR_6
+tcp_header_len,VAR_7
+tp,VAR_8

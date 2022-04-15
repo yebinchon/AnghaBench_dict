@@ -1,0 +1,15 @@
+fdput,FUNC_0
+file_inode,FUNC_1
+ovl_inode_upper,FUNC_2
+ovl_override_creds,FUNC_3
+ovl_real_fdget_meta,FUNC_4
+revert_creds,FUNC_5
+vfs_fsync_range,FUNC_6
+ovl_fsync,FUNC_7
+file,VAR_0
+start,VAR_1
+end,VAR_2
+datasync,VAR_3
+real,VAR_4
+old_cred,VAR_5
+ret,VAR_6

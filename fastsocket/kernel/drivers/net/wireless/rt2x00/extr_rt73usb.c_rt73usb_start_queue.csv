@@ -1,0 +1,13 @@
+TXRX_CSR0,VAR_0
+TXRX_CSR0_DISABLE_RX,VAR_1
+TXRX_CSR9,VAR_2
+TXRX_CSR9_BEACON_GEN,VAR_3
+TXRX_CSR9_TBTT_ENABLE,VAR_4
+TXRX_CSR9_TSF_TICKING,VAR_5
+rt2x00_set_field32,FUNC_0
+rt2x00usb_register_read,FUNC_1
+rt2x00usb_register_write,FUNC_2
+rt73usb_start_queue,FUNC_3
+queue,VAR_6
+rt2x00dev,VAR_7
+reg,VAR_8

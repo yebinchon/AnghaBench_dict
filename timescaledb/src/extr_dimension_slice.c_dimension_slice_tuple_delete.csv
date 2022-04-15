@@ -1,0 +1,17 @@
+Anum_dimension_slice_id,VAR_0
+Assert,FUNC_0
+DatumGetInt32,FUNC_1
+SCAN_CONTINUE,VAR_1
+heap_getattr,FUNC_2
+ts_catalog_database_info_become_owner,FUNC_3
+ts_catalog_database_info_get,FUNC_4
+ts_catalog_delete,FUNC_5
+ts_catalog_restore_user,FUNC_6
+ts_chunk_constraint_delete_by_dimension_slice_id,FUNC_7
+dimension_slice_tuple_delete,FUNC_8
+ti,VAR_2
+data,VAR_3
+isnull,VAR_4
+dimension_slice_id,VAR_5
+delete_constraints,VAR_6
+sec_ctx,VAR_7

@@ -1,0 +1,15 @@
+MMU_DTLB_ENTRIES,VAR_0
+PAGE_MASK,VAR_1
+PAGE_SHIFT,VAR_2
+PAGE_SIZE,VAR_3
+__flush_tlb_page,FUNC_0
+flush_tlb_all,FUNC_1
+get_asid,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+flush_tlb_kernel_range,FUNC_5
+start,VAR_4
+end,VAR_5
+flags,VAR_6
+size,VAR_7
+asid,VAR_8

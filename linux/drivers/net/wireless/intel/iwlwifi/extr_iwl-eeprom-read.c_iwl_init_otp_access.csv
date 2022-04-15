@@ -1,0 +1,12 @@
+APMG_PS_CTRL_REG,VAR_0
+APMG_PS_CTRL_VAL_RESET_REQ,VAR_1
+CSR_DBG_LINK_PWR_MGMT_REG,VAR_2
+CSR_RESET_LINK_PWR_MGMT_DISABLED,VAR_3
+iwl_clear_bits_prph,FUNC_0
+iwl_finish_nic_init,FUNC_1
+iwl_set_bit,FUNC_2
+iwl_set_bits_prph,FUNC_3
+udelay,FUNC_4
+iwl_init_otp_access,FUNC_5
+trans,VAR_4
+ret,VAR_5

@@ -1,0 +1,12 @@
+BIT,FUNC_0
+PIC32_CLR,FUNC_1
+TRIS_REG,VAR_0
+gpiochip_get_data,FUNC_2
+pic32_gpio_set,FUNC_3
+writel,FUNC_4
+pic32_gpio_direction_output,FUNC_5
+chip,VAR_1
+offset,VAR_2
+value,VAR_3
+bank,VAR_4
+mask,VAR_5

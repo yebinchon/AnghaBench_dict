@@ -1,0 +1,9 @@
+IF_OPER_DORMANT,VAR_0
+IF_OPER_DOWN,VAR_1
+IF_OPER_LOWERLAYERDOWN,VAR_2
+IF_OPER_UP,VAR_3
+dev_get_iflink,FUNC_0
+netif_carrier_ok,FUNC_1
+netif_dormant,FUNC_2
+default_operstate,FUNC_3
+dev,VAR_4

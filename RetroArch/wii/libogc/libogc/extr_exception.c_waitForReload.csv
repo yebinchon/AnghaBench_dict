@@ -1,0 +1,17 @@
+FALSE,VAR_0
+PAD_BUTTON_A,VAR_1
+PAD_ButtonsDown,FUNC_0
+PAD_Init,FUNC_1
+PAD_ScanPads,FUNC_2
+PAD_TRIGGER_Z,VAR_2
+SYS_HOTRESET,VAR_3
+SYS_ResetButtonDown,FUNC_3
+SYS_ResetSystem,FUNC_4
+_CPU_ISR_Disable,FUNC_5
+__reload,FUNC_6
+kprintf,FUNC_7
+reload_timer,VAR_4
+udelay,FUNC_8
+waitForReload,FUNC_9
+level,VAR_5
+buttonsDown,VAR_6

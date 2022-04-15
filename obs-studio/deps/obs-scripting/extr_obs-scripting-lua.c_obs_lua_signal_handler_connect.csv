@@ -1,0 +1,14 @@
+add_lua_obs_callback,FUNC_0
+calldata_set_ptr,FUNC_1
+calldata_set_string,FUNC_2
+defer_call_post,FUNC_3
+defer_connect,VAR_0
+handler,VAR_1
+is_function,FUNC_4
+ls_get_libobs_obj,FUNC_5
+lua_tostring,FUNC_6
+signal_handler_t,VAR_2
+obs_lua_signal_handler_connect,FUNC_7
+script,VAR_3
+signal,VAR_4
+cb,VAR_5

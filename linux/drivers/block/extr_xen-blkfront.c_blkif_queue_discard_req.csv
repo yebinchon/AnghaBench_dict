@@ -1,0 +1,13 @@
+BLKIF_DISCARD_SECURE,VAR_0
+BLKIF_OP_DISCARD,VAR_1
+REQ_OP_SECURE_ERASE,VAR_2
+blk_rq_pos,FUNC_0
+blk_rq_sectors,FUNC_1
+blkif_ring_get_request,FUNC_2
+req_op,FUNC_3
+blkif_queue_discard_req,FUNC_4
+req,VAR_3
+rinfo,VAR_4
+info,VAR_5
+ring_req,VAR_6
+id,VAR_7

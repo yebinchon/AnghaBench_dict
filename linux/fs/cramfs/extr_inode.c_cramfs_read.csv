@@ -1,0 +1,11 @@
+CONFIG_CRAMFS_BLOCKDEV,VAR_0
+CONFIG_CRAMFS_MTD,VAR_1
+CRAMFS_SB,FUNC_0
+IS_ENABLED,FUNC_1
+cramfs_blkdev_read,FUNC_2
+cramfs_direct_read,FUNC_3
+cramfs_read,FUNC_4
+sb,VAR_2
+offset,VAR_3
+len,VAR_4
+sbi,VAR_5

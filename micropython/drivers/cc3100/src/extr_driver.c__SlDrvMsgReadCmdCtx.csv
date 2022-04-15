@@ -1,0 +1,17 @@
+ASYNC_EVT_CLASS,VAR_0
+CMD_RESP_CLASS,VAR_1
+FALSE,VAR_2
+SL_OS_RET_CODE_OK,VAR_3
+TRUE,VAR_4
+VERIFY_RET_OK,FUNC_0
+_SL_PENDING_RX_MSG,FUNC_1
+_SlAsyncEventGenericHandler,FUNC_2
+_SlDrvMsgRead,FUNC_3
+_SlDrvMsgReadSpawnCtx,VAR_5
+_SlDrvObjUnLock,FUNC_4
+_SlDrvSyncObjWaitForever,FUNC_5
+g_pCB,VAR_6
+sl_Free,FUNC_6
+sl_Spawn,FUNC_7
+sl_SyncObjClear,FUNC_8
+_SlDrvMsgReadCmdCtx,FUNC_9

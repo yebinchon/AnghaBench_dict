@@ -1,0 +1,17 @@
+KVM_REQ_IRQ_PENDING,VAR_0
+kvm_make_request,FUNC_0
+kvm_vcpu_kick,FUNC_1
+list_add_tail,FUNC_2
+lockdep_assert_held,FUNC_3
+raw_spin_lock,FUNC_4
+raw_spin_lock_irqsave,FUNC_5
+raw_spin_unlock,FUNC_6
+raw_spin_unlock_irqrestore,FUNC_7
+unlikely,FUNC_8
+vgic_get_irq_kref,FUNC_9
+vgic_target_oracle,FUNC_10
+vgic_queue_irq_unlock,FUNC_11
+kvm,VAR_1
+irq,VAR_2
+flags,VAR_3
+vcpu,VAR_4

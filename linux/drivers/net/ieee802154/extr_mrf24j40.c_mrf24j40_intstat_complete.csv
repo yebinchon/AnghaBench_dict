@@ -1,0 +1,13 @@
+BIT_RXIF,VAR_0
+BIT_SECIF,VAR_1
+BIT_SECIGNORE,VAR_2
+BIT_TXNIF,VAR_3
+REG_SECCON0,VAR_4
+enable_irq,FUNC_0
+ieee802154_xmit_complete,FUNC_1
+mrf24j40_handle_rx,FUNC_2
+regmap_write_async,FUNC_3
+mrf24j40_intstat_complete,FUNC_4
+context,VAR_5
+devrec,VAR_6
+intstat,VAR_7

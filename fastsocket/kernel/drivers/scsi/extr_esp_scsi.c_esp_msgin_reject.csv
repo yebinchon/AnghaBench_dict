@@ -1,0 +1,17 @@
+ABORT_TASK_SET,VAR_0
+ESP_CMD_RATN,VAR_1
+ESP_CMD_SATN,VAR_2
+ESP_TGT_CHECK_NEGO,VAR_3
+ESP_TGT_NEGO_SYNC,VAR_4
+ESP_TGT_NEGO_WIDE,VAR_5
+ESP_TGT_WIDE,VAR_6
+esp_need_to_nego_sync,FUNC_0
+esp_setsync,FUNC_1
+scsi_esp_cmd,FUNC_2
+spi_populate_sync_msg,FUNC_3
+esp_msgin_reject,FUNC_4
+esp,VAR_7
+ent,VAR_8
+cmd,VAR_9
+tp,VAR_10
+tgt,VAR_11

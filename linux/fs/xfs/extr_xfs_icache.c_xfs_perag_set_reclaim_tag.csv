@@ -1,0 +1,11 @@
+XFS_ICI_RECLAIM_TAG,VAR_0
+_RET_IP_,VAR_1
+lockdep_assert_held,FUNC_0
+radix_tree_tag_set,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+trace_xfs_perag_set_reclaim,FUNC_4
+xfs_reclaim_work_queue,FUNC_5
+xfs_perag_set_reclaim_tag,FUNC_6
+pag,VAR_2
+mp,VAR_3

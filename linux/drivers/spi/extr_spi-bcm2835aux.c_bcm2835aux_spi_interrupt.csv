@@ -1,0 +1,15 @@
+BCM2835_AUX_SPI_CNTL1,VAR_0
+BCM2835_AUX_SPI_CNTL1_IDLE,VAR_1
+BCM2835_AUX_SPI_CNTL1_TXEMPTY,VAR_2
+IRQ_HANDLED,VAR_3
+IRQ_NONE,VAR_4
+bcm2835aux_rd,FUNC_0
+bcm2835aux_spi_transfer_helper,FUNC_1
+bcm2835aux_wr,FUNC_2
+complete,FUNC_3
+spi_master_get_devdata,FUNC_4
+bcm2835aux_spi_interrupt,FUNC_5
+irq,VAR_5
+dev_id,VAR_6
+master,VAR_7
+bs,VAR_8

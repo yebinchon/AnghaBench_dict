@@ -1,0 +1,16 @@
+SVN_FS_CONFIG_FSFS_CACHE_DELTAS,VAR_0
+SVN_FS_CONFIG_FSFS_CACHE_FULLTEXTS,VAR_1
+SVN_FS_CONFIG_FSFS_CACHE_NODEPROPS,VAR_2
+SVN_FS_CONFIG_FSFS_CACHE_NS,VAR_3
+SVN_NO_ERROR,VAR_4
+TRUE,VAR_5
+normalize_key_part,FUNC_0
+svn_hash__get_bool,FUNC_1
+svn_hash__get_cstring,FUNC_2
+read_config,FUNC_3
+cache_namespace,VAR_6
+cache_txdeltas,VAR_7
+cache_fulltexts,VAR_8
+cache_nodeprops,VAR_9
+fs,VAR_10
+pool,VAR_11

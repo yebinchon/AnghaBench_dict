@@ -1,0 +1,10 @@
+Assert,FUNC_0
+ExecFetchSlotHeapTuple,FUNC_1
+GetCatalogSnapshot,FUNC_2
+RelationGetRelid,FUNC_3
+table_tuple_satisfies_snapshot,FUNC_4
+systable_recheck_tuple,FUNC_5
+sysscan,VAR_0
+tup,VAR_1
+freshsnap,VAR_2
+result,VAR_3

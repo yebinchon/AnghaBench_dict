@@ -1,0 +1,13 @@
+DS2781_RSNSP,VAR_0
+ds2781_read8,FUNC_0
+sprintf,FUNC_1
+to_ds2781_device_info,FUNC_2
+to_power_supply,FUNC_3
+ds2781_get_sense_resistor_value,FUNC_4
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+ret,VAR_4
+sense_resistor,VAR_5
+psy,VAR_6
+dev_info,VAR_7

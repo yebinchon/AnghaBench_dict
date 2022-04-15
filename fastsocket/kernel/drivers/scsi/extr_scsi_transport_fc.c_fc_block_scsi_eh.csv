@@ -1,0 +1,13 @@
+FAST_IO_FAIL,VAR_0
+FC_PORTSTATE_BLOCKED,VAR_1
+FC_RPORT_FAST_FAIL_TIMEDOUT,VAR_2
+msleep,FUNC_0
+scsi_target,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+starget_to_rport,FUNC_4
+fc_block_scsi_eh,FUNC_5
+cmnd,VAR_3
+shost,VAR_4
+rport,VAR_5
+flags,VAR_6

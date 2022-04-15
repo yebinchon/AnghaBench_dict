@@ -1,0 +1,17 @@
+SCTP_ABORT_ASSOCIATION,VAR_0
+sctp_is_there_an_abort_here,FUNC_0
+sctp_m_freem,FUNC_1
+sctp_send_resp_msg,FUNC_2
+sctp_send_abort,FUNC_3
+m,VAR_1
+iphlen,VAR_2
+src,VAR_3
+dst,VAR_4
+sh,VAR_5
+vtag,VAR_6
+cause,VAR_7
+mflowtype,VAR_8
+mflowid,VAR_9
+fibnum,VAR_10
+vrf_id,VAR_11
+port,VAR_12

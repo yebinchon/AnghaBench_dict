@@ -1,0 +1,12 @@
+PAGE_MASK,VAR_0
+UNMAP_NOTIFY_CLEAR_BYTE,VAR_1
+UNMAP_NOTIFY_SEND_EVENT,VAR_2
+pmap_quick_enter_page,FUNC_0
+pmap_quick_remove_page,FUNC_1
+xen_intr_signal,FUNC_2
+xen_intr_unbind,FUNC_3
+notify,FUNC_4
+notify,VAR_3
+page,VAR_4
+mem,VAR_5
+offset,VAR_6

@@ -1,0 +1,16 @@
+RT5677_DSP_I2C_ADDR_LSB,VAR_0
+RT5677_DSP_I2C_ADDR_MSB,VAR_1
+RT5677_DSP_I2C_DATA_LSB,VAR_2
+RT5677_DSP_I2C_DATA_MSB,VAR_3
+RT5677_DSP_I2C_OP_CODE,VAR_4
+dev_err,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+regmap_write,FUNC_3
+rt5677_dsp_mode_i2c_write_addr,FUNC_4
+rt5677,VAR_5
+addr,VAR_6
+value,VAR_7
+opcode,VAR_8
+component,VAR_9
+ret,VAR_10

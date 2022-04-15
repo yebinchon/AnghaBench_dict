@@ -1,0 +1,17 @@
+Assert,FUNC_0
+DO_DB,FUNC_1
+FD_TEMP_FILE_LIMIT,VAR_0
+FileAccess,FUNC_2
+FileIsValid,FUNC_3
+LOG,VAR_1
+VfdCache,VAR_2
+elog,FUNC_4
+ftruncate,FUNC_5
+pgstat_report_wait_end,FUNC_6
+pgstat_report_wait_start,FUNC_7
+temporary_files_size,VAR_3
+FileTruncate,FUNC_8
+file,VAR_4
+offset,VAR_5
+wait_event_info,VAR_6
+returnCode,VAR_7

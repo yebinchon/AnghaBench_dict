@@ -1,0 +1,16 @@
+PHY_CSR3,VAR_0
+PHY_CSR3_BUSY,VAR_1
+PHY_CSR3_READ_CONTROL,VAR_2
+PHY_CSR3_REGNUM,VAR_3
+PHY_CSR3_VALUE,VAR_4
+WAIT_FOR_BBP,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rt2x00_get_field32,FUNC_3
+rt2x00_set_field32,FUNC_4
+rt2x00usb_register_write_lock,FUNC_5
+rt73usb_bbp_read,FUNC_6
+rt2x00dev,VAR_5
+word,VAR_6
+reg,VAR_7
+value,VAR_8

@@ -1,0 +1,8 @@
+CPU_FTR_ARCH_207S,VAR_0
+CPU_FTR_HVMODE,VAR_1
+SPRN_CIABR,VAR_2
+cpu_has_feature,FUNC_0
+mtspr,FUNC_1
+plpar_set_ciabr,FUNC_2
+write_ciabr,FUNC_3
+ciabr,VAR_3

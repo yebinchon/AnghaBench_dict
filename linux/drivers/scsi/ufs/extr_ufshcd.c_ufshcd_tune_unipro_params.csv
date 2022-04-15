@@ -1,0 +1,12 @@
+PA_TACTIVATE,VAR_0
+UFS_DEVICE_QUIRK_HOST_PA_TACTIVATE,VAR_1
+UFS_DEVICE_QUIRK_PA_TACTIVATE,VAR_2
+UIC_ARG_MIB,FUNC_0
+ufshcd_dme_set,FUNC_1
+ufshcd_is_unipro_pa_params_tuning_req,FUNC_2
+ufshcd_quirk_tune_host_pa_tactivate,FUNC_3
+ufshcd_tune_pa_hibern8time,FUNC_4
+ufshcd_tune_pa_tactivate,FUNC_5
+ufshcd_vops_apply_dev_quirks,FUNC_6
+ufshcd_tune_unipro_params,FUNC_7
+hba,VAR_3

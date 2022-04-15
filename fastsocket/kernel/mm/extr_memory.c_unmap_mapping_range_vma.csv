@@ -1,0 +1,15 @@
+EINTR,VAR_0
+cond_resched,FUNC_0
+is_restart_addr,FUNC_1
+need_resched,FUNC_2
+spin_lock,FUNC_3
+spin_needbreak,FUNC_4
+spin_unlock,FUNC_5
+zap_page_range,FUNC_6
+unmap_mapping_range_vma,FUNC_7
+vma,VAR_1
+start_addr,VAR_2
+end_addr,VAR_3
+details,VAR_4
+restart_addr,VAR_5
+need_break,VAR_6

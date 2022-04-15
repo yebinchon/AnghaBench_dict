@@ -1,0 +1,17 @@
+V4L2_CAP_STREAMING,VAR_0
+V4L2_CAP_VIDEO_OUTPUT,VAR_1
+VFL_DIR_TX,VAR_2
+VFL_TYPE_GRABBER,VAR_3
+dev_attr_function_name,VAR_4
+device_create_file,FUNC_0
+strlcpy,FUNC_1
+uvc_v4l2_fops,VAR_5
+uvc_v4l2_ioctl_ops,VAR_6
+video_device_release_empty,VAR_7
+video_register_device,FUNC_2
+video_set_drvdata,FUNC_3
+video_unregister_device,FUNC_4
+uvc_register_video,FUNC_5
+uvc,VAR_8
+cdev,VAR_9
+ret,VAR_10

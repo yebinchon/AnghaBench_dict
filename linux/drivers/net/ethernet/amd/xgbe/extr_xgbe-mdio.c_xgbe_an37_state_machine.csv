@@ -1,0 +1,14 @@
+XGBE_AN_CL37_INT_CMPLT,VAR_0
+XGBE_AN_ERROR,VAR_1
+XGBE_AN_MODE_CL37_SGMII,VAR_2
+XGBE_SGMII_AN_LINK_STATUS,VAR_3
+link,VAR_4
+netdev_err,FUNC_0
+netif_dbg,FUNC_1
+stub1,FUNC_2
+xgbe_an37_clear_interrupts,FUNC_3
+xgbe_an37_enable_interrupts,FUNC_4
+xgbe_state_as_string,FUNC_5
+xgbe_an37_state_machine,FUNC_6
+pdata,VAR_5
+cur_state,VAR_6

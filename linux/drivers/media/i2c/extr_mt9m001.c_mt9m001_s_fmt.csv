@@ -1,0 +1,13 @@
+V4L2_SEL_TGT_CROP,VAR_0
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_1
+mt9m001_set_selection,FUNC_0
+to_mt9m001,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+mt9m001_s_fmt,FUNC_3
+sd,VAR_2
+fmt,VAR_3
+mf,VAR_4
+client,VAR_5
+mt9m001,VAR_6
+sel,VAR_7
+ret,VAR_8

@@ -1,0 +1,14 @@
+GFP_ATOMIC,VAR_0
+aa_label_merge,FUNC_0
+aa_put_label,FUNC_1
+lockdep_is_held,FUNC_2
+rcu_assign_pointer,FUNC_3
+rcu_dereference_protected,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+update_file_ctx,FUNC_7
+fctx,VAR_1
+label,VAR_2
+request,VAR_3
+l,VAR_4
+old,VAR_5

@@ -1,0 +1,16 @@
+C_M68K_TO_SH2,FUNC_0
+C_SH2_TO_M68K,FUNC_1
+EL_32X,VAR_0
+EVT_RUN_END,VAR_1
+EVT_RUN_START,VAR_2
+POPT_EN_DRC,VAR_3
+PicoOpt,VAR_4
+SH2_STATE_RUN,VAR_5
+elprintf_sh2,FUNC_2
+pevt_log_sh2_o,FUNC_3
+sh2_execute,FUNC_4
+run_sh2,FUNC_5
+sh2,VAR_6
+m68k_cycles,VAR_7
+cycles,VAR_8
+done,VAR_9

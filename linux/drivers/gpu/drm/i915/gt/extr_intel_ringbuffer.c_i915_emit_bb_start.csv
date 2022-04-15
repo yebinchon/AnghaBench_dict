@@ -1,0 +1,14 @@
+I915_DISPATCH_SECURE,VAR_0
+IS_ERR,FUNC_0
+MI_BATCH_BUFFER_START,VAR_1
+MI_BATCH_GTT,VAR_2
+MI_BATCH_NON_SECURE,VAR_3
+PTR_ERR,FUNC_1
+intel_ring_advance,FUNC_2
+intel_ring_begin,FUNC_3
+i915_emit_bb_start,FUNC_4
+rq,VAR_4
+offset,VAR_5
+len,VAR_6
+dispatch_flags,VAR_7
+cs,VAR_8

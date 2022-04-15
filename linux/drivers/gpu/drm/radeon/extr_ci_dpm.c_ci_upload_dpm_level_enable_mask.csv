@@ -1,0 +1,12 @@
+EINVAL,VAR_0
+PPSMC_MSG_MCLKDPM_SetEnabledMask,VAR_1
+PPSMC_MSG_PCIeDPM_SetEnabledMask,VAR_2
+PPSMC_MSG_SCLKDPM_SetEnabledMask,VAR_3
+PPSMC_Result_OK,VAR_4
+ci_apply_disp_minimum_voltage_request,FUNC_0
+ci_get_pi,FUNC_1
+ci_send_msg_to_smc_with_parameter,FUNC_2
+ci_upload_dpm_level_enable_mask,FUNC_3
+rdev,VAR_5
+pi,VAR_6
+result,VAR_7

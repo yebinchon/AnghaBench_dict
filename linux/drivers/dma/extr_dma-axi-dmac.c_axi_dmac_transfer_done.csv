@@ -1,0 +1,15 @@
+AXI_DMAC_FLAG_PARTIAL_XFER_DONE,VAR_0
+AXI_DMAC_SG_UNUSED,VAR_1
+BIT,FUNC_0
+axi_dmac_active_desc,FUNC_1
+axi_dmac_compute_residue,FUNC_2
+axi_dmac_dequeue_partial_xfers,FUNC_3
+list_del,FUNC_4
+vchan_cookie_complete,FUNC_5
+vchan_cyclic_callback,FUNC_6
+axi_dmac_transfer_done,FUNC_7
+chan,VAR_2
+completed_transfers,VAR_3
+active,VAR_4
+sg,VAR_5
+start_next,VAR_6

@@ -1,0 +1,17 @@
+__clocksource_suspend_select,FUNC_0
+__clocksource_update_freq_scale,FUNC_1
+clocksource_arch_init,FUNC_2
+clocksource_enqueue,FUNC_3
+clocksource_enqueue_watchdog,FUNC_4
+clocksource_mutex,VAR_0
+clocksource_select,FUNC_5
+clocksource_select_watchdog,FUNC_6
+clocksource_watchdog_lock,FUNC_7
+clocksource_watchdog_unlock,FUNC_8
+mutex_lock,FUNC_9
+mutex_unlock,FUNC_10
+__clocksource_register_scale,FUNC_11
+cs,VAR_1
+scale,VAR_2
+freq,VAR_3
+flags,VAR_4

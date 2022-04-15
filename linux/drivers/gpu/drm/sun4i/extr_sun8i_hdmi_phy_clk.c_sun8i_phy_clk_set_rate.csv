@@ -1,0 +1,14 @@
+SUN8I_HDMI_PHY_PLL_CFG2_PREDIV,FUNC_0
+SUN8I_HDMI_PHY_PLL_CFG2_PREDIV_MSK,VAR_0
+SUN8I_HDMI_PHY_PLL_CFG2_REG,VAR_1
+hw_to_phy_clk,FUNC_1
+regmap_update_bits,FUNC_2
+sun8i_phy_clk_set_rate,FUNC_3
+hw,VAR_2
+rate,VAR_3
+parent_rate,VAR_4
+priv,VAR_5
+best_rate,VAR_6
+best_m,VAR_7
+m,VAR_8
+tmp_rate,VAR_9

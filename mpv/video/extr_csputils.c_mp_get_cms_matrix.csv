@@ -1,0 +1,13 @@
+MP_INTENT_ABSOLUTE_COLORIMETRIC,VAR_0
+MP_INTENT_SATURATION,VAR_1
+mp_apply_chromatic_adaptation,FUNC_0
+mp_get_rgb2xyz_matrix,FUNC_1
+mp_invert_matrix3x3,FUNC_2
+mp_mul_matrix3x3,FUNC_3
+mp_get_cms_matrix,FUNC_4
+src,VAR_2
+dest,VAR_3
+intent,VAR_4
+m,VAR_5
+tmp,VAR_6
+i,VAR_7

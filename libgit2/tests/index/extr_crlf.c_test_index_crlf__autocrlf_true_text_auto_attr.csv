@@ -1,0 +1,17 @@
+FILE_CONTENTS_CRLF,VAR_0
+FILE_CONTENTS_LF,VAR_1
+FILE_OID_LF,VAR_2
+GIT_EOL_CRLF,VAR_3
+GIT_EOL_NATIVE,VAR_4
+cl_assert_equal_oid,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_repo_set_bool,FUNC_3
+g_index,VAR_5
+g_repo,VAR_6
+git_index_add_bypath,FUNC_4
+git_index_get_bypath,FUNC_5
+git_oid_fromstr,FUNC_6
+test_index_crlf__autocrlf_true_text_auto_attr,FUNC_7
+entry,VAR_7
+oid,VAR_8

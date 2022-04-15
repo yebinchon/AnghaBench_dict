@@ -1,0 +1,16 @@
+HISI_SAS_REJECT_CMD_BIT,VAR_0
+HISI_SAS_RESET_BIT,VAR_1
+clear_bit,FUNC_0
+hisi_sas_refresh_port_id,FUNC_1
+hisi_sas_rescan_topology,FUNC_2
+hisi_sas_reset_init_all_devices,FUNC_3
+hisi_sas_terminate_stp_reject,FUNC_4
+msleep,FUNC_5
+scsi_unblock_requests,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+up,FUNC_9
+hisi_sas_controller_reset_done,FUNC_10
+hisi_hba,VAR_2
+shost,VAR_3
+state,VAR_4

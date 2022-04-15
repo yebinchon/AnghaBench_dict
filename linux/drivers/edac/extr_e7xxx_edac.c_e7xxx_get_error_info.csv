@@ -1,0 +1,13 @@
+E7XXX_DRAM_CELOG_ADD,VAR_0
+E7XXX_DRAM_CELOG_SYNDROME,VAR_1
+E7XXX_DRAM_FERR,VAR_2
+E7XXX_DRAM_NERR,VAR_3
+E7XXX_DRAM_UELOG_ADD,VAR_4
+pci_read_config_byte,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_bits8,FUNC_3
+e7xxx_get_error_info,FUNC_4
+mci,VAR_5
+info,VAR_6
+pvt,VAR_7

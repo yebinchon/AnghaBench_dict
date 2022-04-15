@@ -1,0 +1,11 @@
+I40IWQP_TERM_SEND_TERM_ONLY,VAR_0
+I40IW_QP_STATE_TERMINATE,VAR_1
+I40IW_TERM_SENT,VAR_2
+TERM_EVENT_QP_FATAL,VAR_3
+i40iw_bld_terminate_hdr,FUNC_0
+i40iw_term_modify_qp,FUNC_1
+i40iw_terminate_start_timer,FUNC_2
+i40iw_terminate_connection,FUNC_3
+qp,VAR_4
+info,VAR_5
+termlen,VAR_6

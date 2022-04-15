@@ -1,0 +1,13 @@
+ACPI_GPIO_QUIRK_ONLY_GPIOIO,VAR_0
+ACPI_RESOURCE_GPIO_TYPE_INT,VAR_1
+ACPI_RESOURCE_TYPE_GPIO,VAR_2
+GPIOD_IN,VAR_3
+acpi_get_gpiod,FUNC_0
+acpi_gpio_to_gpiod_flags,FUNC_1
+acpi_populate_gpio_lookup,FUNC_2
+ares,VAR_4
+data,VAR_5
+lookup,VAR_6
+agpio,VAR_7
+gpioint,VAR_8
+pin_index,VAR_9

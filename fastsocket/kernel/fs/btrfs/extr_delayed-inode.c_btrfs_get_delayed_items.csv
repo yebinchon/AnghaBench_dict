@@ -1,0 +1,15 @@
+__btrfs_first_delayed_deletion_item,FUNC_0
+__btrfs_first_delayed_insertion_item,FUNC_1
+__btrfs_next_delayed_item,FUNC_2
+atomic_dec,FUNC_3
+atomic_inc,FUNC_4
+btrfs_get_delayed_node,FUNC_5
+list_add_tail,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+btrfs_get_delayed_items,FUNC_9
+inode,VAR_0
+ins_list,VAR_1
+del_list,VAR_2
+delayed_node,VAR_3
+item,VAR_4

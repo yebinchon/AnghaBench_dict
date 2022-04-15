@@ -1,0 +1,15 @@
+TRACE_CGROUP_PATH,FUNC_0
+cgroup1_check_for_release,FUNC_1
+cgroup_file_notify,FUNC_2
+cgroup_is_populated,FUNC_3
+cgroup_is_threaded,FUNC_4
+cgroup_parent,FUNC_5
+css_set_lock,VAR_0
+lockdep_assert_held,FUNC_6
+notify_populated,VAR_1
+cgroup_update_populated,FUNC_7
+cgrp,VAR_2
+populated,VAR_3
+child,VAR_4
+adj,VAR_5
+was_populated,VAR_6

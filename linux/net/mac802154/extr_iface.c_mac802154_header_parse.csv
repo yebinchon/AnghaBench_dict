@@ -1,0 +1,9 @@
+IEEE802154_ADDR_LONG,VAR_0
+IEEE802154_EXTENDED_ADDR_LEN,VAR_1
+ieee802154_hdr_peek_addrs,FUNC_0
+ieee802154_le64_to_be64,FUNC_1
+pr_debug,FUNC_2
+mac802154_header_parse,FUNC_3
+skb,VAR_2
+haddr,VAR_3
+hdr,VAR_4

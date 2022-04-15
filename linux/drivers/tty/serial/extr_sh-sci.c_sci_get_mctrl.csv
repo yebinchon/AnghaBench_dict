@@ -1,0 +1,15 @@
+TIOCM_CAR,VAR_0
+TIOCM_CTS,VAR_1
+TIOCM_DSR,VAR_2
+UART_GPIO_CTS,VAR_3
+UART_GPIO_DCD,VAR_4
+UART_GPIO_DSR,VAR_5
+mctrl_gpio_get,FUNC_0
+mctrl_gpio_to_gpiod,FUNC_1
+sci_get_cts,FUNC_2
+to_sci_port,FUNC_3
+sci_get_mctrl,FUNC_4
+port,VAR_6
+s,VAR_7
+gpios,VAR_8
+mctrl,VAR_9

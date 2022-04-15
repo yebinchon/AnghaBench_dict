@@ -1,0 +1,15 @@
+LOG_OPENVPN,VAR_0
+LOG_PID,VAR_1
+M_WARN,VAR_2
+PACKAGE,VAR_3
+msg,FUNC_0
+msgfp,VAR_4
+openlog,FUNC_1
+pgmname_syslog,VAR_5
+set_std_files_to_null,FUNC_2
+std_redir,VAR_6
+string_alloc,FUNC_3
+use_syslog,VAR_7
+open_syslog,FUNC_4
+pgmname,VAR_8
+stdio_to_null,VAR_9

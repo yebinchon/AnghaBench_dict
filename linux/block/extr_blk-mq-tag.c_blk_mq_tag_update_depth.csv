@@ -1,0 +1,17 @@
+BLKDEV_MAX_RQ,VAR_0
+EINVAL,VAR_1
+ENOMEM,VAR_2
+blk_mq_alloc_rq_map,FUNC_0
+blk_mq_alloc_rqs,FUNC_1
+blk_mq_free_rq_map,FUNC_2
+blk_mq_free_rqs,FUNC_3
+sbitmap_queue_resize,FUNC_4
+blk_mq_tag_update_depth,FUNC_5
+hctx,VAR_3
+tagsptr,VAR_4
+tdepth,VAR_5
+can_grow,VAR_6
+tags,VAR_7
+set,VAR_8
+new,VAR_9
+ret,VAR_10

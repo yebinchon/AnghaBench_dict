@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+VM_BUG_ON,FUNC_1
+get_page,FUNC_2
+page_count,FUNC_3
+pmd_page,FUNC_4
+pmd_trans_huge,FUNC_5
+put_page,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+split_huge_page,FUNC_9
+unlikely,FUNC_10
+__split_huge_page_pmd,FUNC_11
+mm,VAR_0
+pmd,VAR_1
+page,VAR_2

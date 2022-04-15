@@ -1,0 +1,17 @@
+BIO_NOCLOSE,VAR_0
+BIO_free,FUNC_0
+BIO_new_fp,FUNC_1
+ERR_R_BUF_LIB,VAR_1
+PEM_F_PEM_WRITE_PRIVATEKEY,VAR_2
+PEM_write_bio_PrivateKey,FUNC_2
+PEMerr,FUNC_3
+PEM_write_PrivateKey,FUNC_4
+fp,VAR_3
+x,VAR_4
+enc,VAR_5
+kstr,VAR_6
+klen,VAR_7
+cb,VAR_8
+u,VAR_9
+b,VAR_10
+ret,VAR_11

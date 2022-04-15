@@ -1,0 +1,10 @@
+MVPP2_TRANSMITTED_COUNT_MASK,VAR_0
+MVPP2_TRANSMITTED_COUNT_OFFSET,VAR_1
+MVPP2_TXQ_SENT_REG,FUNC_0
+mvpp2_cpu_to_thread,FUNC_1
+mvpp2_thread_read_relaxed,FUNC_2
+smp_processor_id,FUNC_3
+mvpp2_txq_sent_desc_proc,FUNC_4
+port,VAR_2
+txq,VAR_3
+val,VAR_4

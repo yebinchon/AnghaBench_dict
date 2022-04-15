@@ -1,0 +1,17 @@
+F020_MASK_DACXCN_DACXEN,VAR_0
+F020_SFR_DAC0CN,VAR_1
+F020_SFR_DAC0H,VAR_2
+F020_SFR_DAC0L,VAR_3
+F020_SFR_DAC1CN,VAR_4
+F020_SFR_DAC1H,VAR_5
+F020_SFR_DAC1L,VAR_6
+dt9812_rmw_multiple_registers,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+dt9812_analog_out,FUNC_3
+dev,VAR_7
+channel,VAR_8
+value,VAR_9
+devpriv,VAR_10
+rmw,VAR_11
+ret,VAR_12

@@ -1,0 +1,15 @@
+V4L2_MBUS_CSI2_DPHY,VAR_0
+imx7_csi_get_upstream_endpoint,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+v4l2_err,FUNC_3
+v4l2_get_subdevdata,FUNC_4
+v4l2_subdev_link_validate_default,FUNC_5
+imx7_csi_pad_link_validate,FUNC_6
+sd,VAR_1
+link,VAR_2
+source_fmt,VAR_3
+sink_fmt,VAR_4
+csi,VAR_5
+upstream_ep,VAR_6
+ret,VAR_7

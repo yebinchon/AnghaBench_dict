@@ -1,0 +1,15 @@
+AZX_REG_VS_SDXDPIB_XBASE,VAR_0
+AZX_REG_VS_SDXDPIB_XINTERVAL,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+bytes_to_frames,FUNC_0
+get_bus_ctx,FUNC_1
+get_hdac_ext_stream,FUNC_2
+hdac_stream,FUNC_3
+readl,FUNC_4
+snd_hdac_stream_get_pos_posbuf,FUNC_5
+udelay,FUNC_6
+skl_platform_pcm_pointer,FUNC_7
+substream,VAR_3
+hstream,VAR_4
+bus,VAR_5
+pos,VAR_6

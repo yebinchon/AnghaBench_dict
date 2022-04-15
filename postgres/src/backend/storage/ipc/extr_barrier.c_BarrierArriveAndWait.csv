@@ -1,0 +1,14 @@
+Assert,FUNC_0
+ConditionVariableBroadcast,FUNC_1
+ConditionVariableCancelSleep,FUNC_2
+ConditionVariablePrepareToSleep,FUNC_3
+ConditionVariableSleep,FUNC_4
+SpinLockAcquire,FUNC_5
+SpinLockRelease,FUNC_6
+BarrierArriveAndWait,FUNC_7
+barrier,VAR_0
+wait_event_info,VAR_1
+release,VAR_2
+elected,VAR_3
+start_phase,VAR_4
+next_phase,VAR_5

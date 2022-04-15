@@ -1,0 +1,14 @@
+CARD_OE,VAR_0
+DV3318_OCP_EVER,VAR_1
+DV3318_OCP_NOW,VAR_2
+RTSX_SD_CARD,VAR_3
+SD_OC_EVER,VAR_4
+SD_OC_NOW,VAR_5
+SD_OUTPUT_EN,VAR_6
+rts5260_get_ocpstat2,FUNC_0
+rtsx_pci_card_power_off,FUNC_1
+rtsx_pci_clear_ocpstat,FUNC_2
+rtsx_pci_get_ocpstat,FUNC_3
+rtsx_pci_write_register,FUNC_4
+rts5260_process_ocp,FUNC_5
+pcr,VAR_7

@@ -1,0 +1,16 @@
+AC97_MASTER,VAR_0
+AC97_MUTE_MASK_MONO,VAR_1
+AC97_MUTE_MASK_STEREO,VAR_2
+AC97_PD_EAPD,VAR_3
+AC97_POWERDOWN,VAR_4
+bind_hp_volsw_put,FUNC_0
+snd_ac97_update_bits,FUNC_1
+snd_kcontrol_chip,FUNC_2
+hp_master_mute_sw_put,FUNC_3
+kcontrol,VAR_5
+ucontrol,VAR_6
+err,VAR_7
+ac97,VAR_8
+shift,VAR_9
+rshift,VAR_10
+mask,VAR_11

@@ -1,0 +1,12 @@
+BIT,FUNC_0
+ST_PINCONF_PACK_OD,FUNC_1
+ST_PINCONF_PACK_OE,FUNC_2
+ST_PINCONF_PACK_PU,FUNC_3
+regmap_field_read,FUNC_4
+st_pinconf_get_direction,FUNC_5
+pc,VAR_0
+pin,VAR_1
+config,VAR_2
+oe_value,VAR_3
+pu_value,VAR_4
+od_value,VAR_5

@@ -1,0 +1,15 @@
+IPMI_REPLY_ADDR,FUNC_0
+device_printf,FUNC_1
+smic_read_byte,FUNC_2
+smic_read_end,FUNC_3
+smic_start_read,FUNC_4
+smic_start_write,FUNC_5
+smic_write_last,FUNC_6
+smic_write_next,FUNC_7
+smic_polled_request,FUNC_8
+sc,VAR_0
+req,VAR_1
+cp,VAR_2
+data,VAR_3
+i,VAR_4
+state,VAR_5

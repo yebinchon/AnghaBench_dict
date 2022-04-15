@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+GetFileTime,FUNC_0
+ISC_R_SUCCESS,VAR_1
+REQUIRE,FUNC_1
+_O_BINARY,VAR_2
+_O_RDONLY,VAR_3
+_get_osfhandle,FUNC_2
+close,FUNC_3
+errno,VAR_4
+isc__errno2result,FUNC_4
+open,FUNC_5
+isc_file_getmodtime,FUNC_6
+file,VAR_5
+time,VAR_6
+fh,VAR_7

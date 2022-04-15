@@ -1,0 +1,16 @@
+DPORT_DATE_REG,VAR_0
+DPORT_REG_READ,FUNC_0
+DPORT_STALL_OTHER_CPU_END,FUNC_1
+DPORT_STALL_OTHER_CPU_START,FUNC_2
+_DPORT_REG_READ,FUNC_3
+apb_test_result,VAR_1
+dport_test_result,VAR_2
+exit_flag,VAR_3
+stall_other_cpu_counter,VAR_4
+vTaskDelete,FUNC_4
+xSemaphoreGive,FUNC_5
+accessDPORT_stall_other_cpu,FUNC_6
+pvParameters,VAR_5
+sema,VAR_6
+dport_date,VAR_7
+dport_date_cur,VAR_8

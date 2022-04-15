@@ -1,0 +1,8 @@
+PIC_MASTER_IMR,VAR_0
+PIC_SLAVE_IMR,VAR_1
+i8259A_lock,VAR_2
+outb,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+mask_8259A,FUNC_3
+flags,VAR_3

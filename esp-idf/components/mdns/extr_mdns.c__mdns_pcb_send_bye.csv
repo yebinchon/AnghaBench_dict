@@ -1,0 +1,16 @@
+MDNS_FLAGS_AUTHORITATIVE,VAR_0
+MDNS_TYPE_A,VAR_1
+MDNS_TYPE_AAAA,VAR_2
+MDNS_TYPE_PTR,VAR_3
+_mdns_alloc_answer,FUNC_0
+_mdns_alloc_packet_default,FUNC_1
+_mdns_dispatch_tx_packet,FUNC_2
+_mdns_free_tx_packet,FUNC_3
+_mdns_pcb_send_bye,FUNC_4
+tcpip_if,VAR_4
+ip_protocol,VAR_5
+services,VAR_6
+len,VAR_7
+include_ip,VAR_8
+packet,VAR_9
+i,VAR_10

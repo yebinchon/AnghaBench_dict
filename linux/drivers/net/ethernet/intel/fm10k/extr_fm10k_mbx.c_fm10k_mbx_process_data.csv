@@ -1,0 +1,16 @@
+FM10K_MSG_HDR_FIELD_GET,FUNC_0
+FM10K_STATE_CONNECT,VAR_0
+FM10K_STATE_OPEN,VAR_1
+HEAD,VAR_2
+TAIL,VAR_3
+fm10k_mbx_create_reply,FUNC_1
+fm10k_mbx_dequeue_rx,FUNC_2
+fm10k_mbx_push_tail,FUNC_3
+fm10k_mbx_verify_remote_crc,FUNC_4
+fm10k_mbx_process_data,FUNC_5
+hw,VAR_4
+mbx,VAR_5
+hdr,VAR_6
+head,VAR_7
+tail,VAR_8
+err,VAR_9

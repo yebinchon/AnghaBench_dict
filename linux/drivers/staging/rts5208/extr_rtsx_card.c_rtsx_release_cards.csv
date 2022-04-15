@@ -1,0 +1,16 @@
+MS_CARD,VAR_0
+MS_EXIST,VAR_1
+RTSX_BIPR,VAR_2
+SD_CARD,VAR_3
+SD_EXIST,VAR_4
+XD_CARD,VAR_5
+XD_EXIST,VAR_6
+ms_cleanup_work,FUNC_0
+release_ms_card,FUNC_1
+release_sd_card,FUNC_2
+release_xd_card,FUNC_3
+rtsx_readl,FUNC_4
+sd_cleanup_work,FUNC_5
+xd_cleanup_work,FUNC_6
+rtsx_release_cards,FUNC_7
+chip,VAR_7

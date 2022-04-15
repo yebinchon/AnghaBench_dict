@@ -1,0 +1,16 @@
+EAP_CODE_INITIATE,VAR_0
+EAP_ERP_TLV_DOMAIN_NAME,VAR_1
+EAP_ERP_TYPE_REAUTH_START,VAR_2
+EAP_VENDOR_IETF,VAR_3
+eap_get_erp_domain,FUNC_0
+eap_msg_alloc,FUNC_1
+os_strlen,FUNC_2
+wpabuf_put_data,FUNC_3
+wpabuf_put_u8,FUNC_4
+eap_sm_buildInitiateReauthStart,FUNC_5
+sm,VAR_4
+id,VAR_5
+domain,VAR_6
+plen,VAR_7
+msg,VAR_8
+domain_len,VAR_9

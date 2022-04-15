@@ -1,0 +1,17 @@
+ALLOCSET_SMALL_SIZES,VAR_0
+AllocSetContextCreate,FUNC_0
+ConvertTimeZoneAbbrevs,FUNC_1
+CurrentMemoryContext,VAR_1
+GUC_check_errmsg,FUNC_2
+MemoryContextDelete,FUNC_3
+MemoryContextSwitchTo,FUNC_4
+ParseTzFile,FUNC_5
+palloc,FUNC_6
+load_tzoffsets,FUNC_7
+filename,VAR_2
+result,VAR_3
+tmpContext,VAR_4
+oldContext,VAR_5
+array,VAR_6
+arraysize,VAR_7
+n,VAR_8

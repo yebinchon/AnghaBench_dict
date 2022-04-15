@@ -1,0 +1,15 @@
+FIONBIO,VAR_0
+F_GETFL,VAR_1
+F_SETFL,VAR_2
+O_NONBLOCK,VAR_3
+WSAEINVAL,VAR_4
+WSAGetLastError,FUNC_0
+errno,VAR_5
+fcntl,FUNC_1
+ioctlsocket,FUNC_2
+log_err,FUNC_3
+strerror,FUNC_4
+verbosity,VAR_6
+wsa_strerror,FUNC_5
+fd_set_block,FUNC_6
+s,VAR_7

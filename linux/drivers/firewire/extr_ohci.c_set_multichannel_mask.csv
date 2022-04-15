@@ -1,0 +1,10 @@
+OHCI1394_IRMultiChanMaskHiClear,VAR_0
+OHCI1394_IRMultiChanMaskHiSet,VAR_1
+OHCI1394_IRMultiChanMaskLoClear,VAR_2
+OHCI1394_IRMultiChanMaskLoSet,VAR_3
+reg_write,FUNC_0
+set_multichannel_mask,FUNC_1
+ohci,VAR_4
+channels,VAR_5
+hi,VAR_6
+lo,VAR_7

@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+ESRCH,VAR_1
+PROC_UNLOCK,FUNC_0
+copyout,FUNC_1
+kern_sched_rr_get_interval_td,FUNC_2
+linux_tdfind,FUNC_3
+native_to_linux_timespec,FUNC_4
+linux_sched_rr_get_interval,FUNC_5
+td,VAR_2
+uap,VAR_3
+ts,VAR_4
+lts,VAR_5
+tdt,VAR_6
+error,VAR_7

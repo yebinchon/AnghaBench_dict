@@ -1,0 +1,15 @@
+MCSPI_IRQENABLE,VAR_0
+MCSPI_IRQSTATUS,VAR_1
+MCSPI_SYSCONFIG,VAR_2
+MCSPI_SYSCONFIG_SOFTRESET,VAR_3
+SYS_RES_IRQ,VAR_4
+SYS_RES_MEMORY,VAR_5
+TI_SPI_WRITE,FUNC_0
+bus_generic_detach,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+mtx_destroy,FUNC_5
+ti_spi_detach,FUNC_6
+dev,VAR_6
+sc,VAR_7

@@ -1,0 +1,13 @@
+btrfs_get_block_group_trimming,FUNC_0
+btrfs_put_block_group_trimming,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+trim_bitmaps,FUNC_4
+trim_no_bitmap,FUNC_5
+btrfs_trim_block_group,FUNC_6
+block_group,VAR_0
+trimmed,VAR_1
+start,VAR_2
+end,VAR_3
+minlen,VAR_4
+ret,VAR_5

@@ -1,0 +1,17 @@
+IXGBE_EICS,VAR_0
+IXGBE_EICS_OTHER,VAR_1
+IXGBE_EICS_TCP_TIMER,VAR_2
+IXGBE_FLAG_MSIX_ENABLED,VAR_3
+IXGBE_WRITE_REG,FUNC_0
+__IXGBE_DOWN,VAR_4
+__IXGBE_RESETTING,VAR_5
+ixgbe_irq_rearm_queues,FUNC_1
+netif_carrier_ok,FUNC_2
+set_check_for_tx_hang,FUNC_3
+test_bit,FUNC_4
+ixgbe_check_hang_subtask,FUNC_5
+adapter,VAR_6
+hw,VAR_7
+eics,VAR_8
+i,VAR_9
+qv,VAR_10

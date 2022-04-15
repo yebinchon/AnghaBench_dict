@@ -1,0 +1,15 @@
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+crypto_rng_ctx,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+qcom_rng_read,FUNC_5
+qcom_rng_generate,FUNC_6
+tfm,VAR_0
+src,VAR_1
+slen,VAR_2
+dstn,VAR_3
+dlen,VAR_4
+ctx,VAR_5
+rng,VAR_6
+ret,VAR_7

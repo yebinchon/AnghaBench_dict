@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+MTX_DEF,VAR_1
+bus_alloc_resources,FUNC_0
+bus_generic_attach,FUNC_1
+config_intrhook_oneshot,FUNC_2
+device_add_child,FUNC_3
+device_get_nameunit,FUNC_4
+device_get_softc,FUNC_5
+device_printf,FUNC_6
+mtx_init,FUNC_7
+res_spec,VAR_2
+twsi_detach,FUNC_8
+twsi_intr_start,VAR_3
+twsi_attach,FUNC_9
+dev,VAR_4
+sc,VAR_5

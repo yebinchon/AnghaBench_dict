@@ -1,0 +1,13 @@
+WARN_ON,FUNC_0
+atomic_dec_return,FUNC_1
+cancel_delayed_work_sync,FUNC_2
+cancel_work_sync,FUNC_3
+device_init_wakeup,FUNC_4
+device_unregister,FUNC_5
+power_supply_remove_hwmon_sysfs,FUNC_6
+power_supply_remove_triggers,FUNC_7
+psy_unregister_cooler,FUNC_8
+psy_unregister_thermal,FUNC_9
+sysfs_remove_link,FUNC_10
+power_supply_unregister,FUNC_11
+psy,VAR_0

@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+HBUS_TARG_MEM_WADDR,VAR_1
+HBUS_TARG_MEM_WDAT,VAR_2
+iwl_trans_grab_nic_access,FUNC_0
+iwl_trans_release_nic_access,FUNC_1
+iwl_write32,FUNC_2
+iwl_trans_pcie_write_mem,FUNC_3
+trans,VAR_3
+addr,VAR_4
+buf,VAR_5
+dwords,VAR_6
+flags,VAR_7
+offs,VAR_8
+ret,VAR_9
+vals,VAR_10

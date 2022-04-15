@@ -1,0 +1,16 @@
+EINPROGRESS,VAR_0
+ESHUTDOWN,VAR_1
+ep_dbg,FUNC_0
+ep_del_request,FUNC_1
+likely,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+usb_gadget_giveback_request,FUNC_7
+req_done,FUNC_8
+ep,VAR_2
+req,VAR_3
+status,VAR_4
+pflags,VAR_5
+flags,VAR_6

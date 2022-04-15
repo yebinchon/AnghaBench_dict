@@ -1,0 +1,16 @@
+REDISMODULE_OK,VAR_0
+REDISMODULE_OPEN_KEY_NOTOUCH,VAR_1
+REDISMODULE_WRITE,VAR_2
+RedisModule_CloseKey,FUNC_0
+RedisModule_OpenKey,FUNC_1
+RedisModule_ReplyWithCString,FUNC_2
+RedisModule_SetLRUOrLFU,FUNC_3
+RedisModule_StringToLongLong,FUNC_4
+RedisModule_WrongArity,FUNC_5
+test_setlru,FUNC_6
+ctx,VAR_3
+argv,VAR_4
+argc,VAR_5
+keyname,VAR_6
+key,VAR_7
+lru,VAR_8

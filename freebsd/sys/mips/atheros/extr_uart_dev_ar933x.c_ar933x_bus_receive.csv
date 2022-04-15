@@ -1,0 +1,15 @@
+AR933X_UART_DATA_REG,VAR_0
+AR933X_UART_DATA_RX_CSR,VAR_1
+UART_STAT_OVERRUN,VAR_2
+ar933x_getreg,FUNC_0
+ar933x_rxready,FUNC_1
+ar933x_setreg,FUNC_2
+uart_barrier,FUNC_3
+uart_lock,FUNC_4
+uart_rx_full,FUNC_5
+uart_rx_put,FUNC_6
+uart_unlock,FUNC_7
+ar933x_bus_receive,FUNC_8
+sc,VAR_3
+bas,VAR_4
+xc,VAR_5

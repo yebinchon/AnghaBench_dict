@@ -1,0 +1,14 @@
+ENOPROTOOPT,VAR_0
+IF_NAMESIZE,VAR_1
+SOL_SOCKET,VAR_2
+SO_BINDTODEVICE,VAR_3
+SO_BINDTOIFINDEX,VAR_4
+assert,FUNC_0
+errno,VAR_5
+format_ifname,FUNC_1
+setsockopt,FUNC_2
+socket_bind_to_ifname,FUNC_3
+socket_bind_to_ifindex,FUNC_4
+fd,VAR_6
+ifindex,VAR_7
+ifname,VAR_8

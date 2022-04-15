@@ -1,0 +1,12 @@
+CHIP_R600,VAR_0
+RADEON_HPD_NONE,VAR_1
+connector_status_connected,VAR_2
+connector_status_disconnected,VAR_3
+radeon_hpd_sense,FUNC_0
+to_radeon_connector,FUNC_1
+radeon_check_hpd_status_unchanged,FUNC_2
+connector,VAR_4
+dev,VAR_5
+rdev,VAR_6
+radeon_connector,VAR_7
+status,VAR_8

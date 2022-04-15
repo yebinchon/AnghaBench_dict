@@ -1,0 +1,10 @@
+DB_MCCQ_NUM_POSTED_SHIFT,VAR_0
+DB_MCCQ_OFFSET,VAR_1
+DB_MCCQ_RING_ID_MASK,VAR_2
+be_error,FUNC_0
+iowrite32,FUNC_1
+wmb,FUNC_2
+be_mcc_notify,FUNC_3
+adapter,VAR_3
+mccq,VAR_4
+val,VAR_5

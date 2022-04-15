@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+SECURE_NO_SETUID_FIXUP,VAR_1
+cap_drop_fs_set,FUNC_0
+cap_emulate_setxuid,FUNC_1
+cap_raise_fs_set,FUNC_2
+issecure,FUNC_3
+make_kuid,FUNC_4
+uid_eq,FUNC_5
+cap_task_fix_setuid,FUNC_6
+new,VAR_2
+old,VAR_3
+flags,VAR_4
+root_uid,VAR_5

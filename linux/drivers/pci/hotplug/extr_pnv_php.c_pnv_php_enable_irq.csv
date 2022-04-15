@@ -1,0 +1,12 @@
+pci_dev_msi_enabled,FUNC_0
+pci_enable_device,FUNC_1
+pci_enable_msi,FUNC_2
+pci_set_master,FUNC_3
+pci_warn,FUNC_4
+pnv_php_enable_msix,FUNC_5
+pnv_php_init_irq,FUNC_6
+pnv_php_enable_irq,FUNC_7
+php_slot,VAR_0
+pdev,VAR_1
+irq,VAR_2
+ret,VAR_3

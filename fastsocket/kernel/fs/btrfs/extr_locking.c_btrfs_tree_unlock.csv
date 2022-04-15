@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+WARN_ON,FUNC_1
+atomic_dec,FUNC_2
+atomic_read,FUNC_3
+btrfs_assert_tree_locked,FUNC_4
+smp_wmb,FUNC_5
+wake_up,FUNC_6
+write_unlock,FUNC_7
+btrfs_tree_unlock,FUNC_8
+eb,VAR_0
+blockers,VAR_1

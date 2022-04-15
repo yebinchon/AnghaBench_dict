@@ -1,0 +1,12 @@
+AC_DIG1_ENABLE,VAR_0
+AC_WCAP_OUT_AMP,VAR_1
+HDA_AMP_MUTE,VAR_2
+HDA_OUTPUT,VAR_3
+get_wcaps,FUNC_0
+set_dig_out_convert,FUNC_1
+snd_hda_codec_amp_stereo,FUNC_2
+set_spdif_ctls,FUNC_3
+codec,VAR_4
+nid,VAR_5
+dig1,VAR_6
+dig2,VAR_7

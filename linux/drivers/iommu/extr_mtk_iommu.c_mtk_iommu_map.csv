@@ -1,0 +1,16 @@
+BIT_ULL,FUNC_0
+mtk_iommu_get_m4u_data,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+stub1,FUNC_4
+to_mtk_domain,FUNC_5
+mtk_iommu_map,FUNC_6
+domain,VAR_0
+iova,VAR_1
+paddr,VAR_2
+size,VAR_3
+prot,VAR_4
+dom,VAR_5
+data,VAR_6
+flags,VAR_7
+ret,VAR_8

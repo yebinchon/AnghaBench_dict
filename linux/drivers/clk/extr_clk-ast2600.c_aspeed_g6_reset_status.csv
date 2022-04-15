@@ -1,0 +1,13 @@
+ASPEED_G6_RESET_CTRL,VAR_0
+ASPEED_G6_RESET_CTRL2,VAR_1
+get_bit,FUNC_0
+regmap_read,FUNC_1
+to_aspeed_reset,FUNC_2
+aspeed_g6_reset_status,FUNC_3
+rcdev,VAR_2
+id,VAR_3
+ar,VAR_4
+ret,VAR_5
+val,VAR_6
+rst,VAR_7
+reg,VAR_8

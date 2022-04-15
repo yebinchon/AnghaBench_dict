@@ -1,0 +1,9 @@
+SP5100_WDT_CONTROL,FUNC_0
+SP5100_WDT_START_STOP_BIT,VAR_0
+readl,FUNC_1
+watchdog_get_drvdata,FUNC_2
+writel,FUNC_3
+tco_timer_start,FUNC_4
+wdd,VAR_1
+tco,VAR_2
+val,VAR_3

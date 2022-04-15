@@ -1,0 +1,15 @@
+__mlx5_cq_clean,FUNC_0
+free,FUNC_1
+ibv_cmd_destroy_wq,FUNC_2
+mlx5_clear_uidx,FUNC_3
+mlx5_free_db,FUNC_4
+mlx5_free_rwq_buf,FUNC_5
+mlx5_spin_lock,FUNC_6
+mlx5_spin_unlock,FUNC_7
+to_mcq,FUNC_8
+to_mctx,FUNC_9
+to_mrwq,FUNC_10
+mlx5_destroy_wq,FUNC_11
+wq,VAR_0
+rwq,VAR_1
+ret,VAR_2

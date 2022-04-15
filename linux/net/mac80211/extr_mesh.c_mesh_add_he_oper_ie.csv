@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOMEM,VAR_1
+NL80211_CHAN_WIDTH_10,VAR_2
+NL80211_CHAN_WIDTH_20_NOHT,VAR_3
+NL80211_CHAN_WIDTH_5,VAR_4
+NL80211_IFTYPE_MESH_POINT,VAR_5
+ieee80211_get_he_iftype_cap,FUNC_0
+ieee80211_get_sband,FUNC_1
+ieee80211_ie_build_he_oper,FUNC_2
+skb_put,FUNC_3
+skb_tailroom,FUNC_4
+mesh_add_he_oper_ie,FUNC_5
+sdata,VAR_6
+skb,VAR_7
+he_cap,VAR_8
+sband,VAR_9
+pos,VAR_10

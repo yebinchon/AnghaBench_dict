@@ -1,0 +1,16 @@
+MIXART_PLAYBACK_STREAMS,VAR_0
+MIXART_VOL_AES_MASK,VAR_1
+MIXART_VOL_REC_MASK,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+snd_BUG_ON,FUNC_2
+snd_ctl_get_ioffidx,FUNC_3
+snd_kcontrol_chip,FUNC_4
+mixart_pcm_vol_get,FUNC_5
+kcontrol,VAR_3
+ucontrol,VAR_4
+chip,VAR_5
+idx,VAR_6
+stored_volume,VAR_7
+is_capture,VAR_8
+is_aes,VAR_9

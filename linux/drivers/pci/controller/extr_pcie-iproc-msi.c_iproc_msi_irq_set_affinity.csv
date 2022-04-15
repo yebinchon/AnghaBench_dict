@@ -1,0 +1,13 @@
+IRQ_SET_MASK_OK,VAR_0
+IRQ_SET_MASK_OK_DONE,VAR_1
+cpumask_first,FUNC_0
+hwirq_to_canonical_hwirq,FUNC_1
+hwirq_to_cpu,FUNC_2
+irq_data_get_irq_chip_data,FUNC_3
+iproc_msi_irq_set_affinity,FUNC_4
+data,VAR_2
+mask,VAR_3
+force,VAR_4
+msi,VAR_5
+target_cpu,VAR_6
+curr_cpu,VAR_7

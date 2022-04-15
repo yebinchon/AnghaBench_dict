@@ -1,0 +1,17 @@
+V4L2_SUBDEV_FORMAT_TRY,VAR_0
+pad,VAR_1
+sensor_call,FUNC_0
+set_fmt,VAR_2
+v4l2_fill_mbus_format,FUNC_1
+v4l2_fill_pix_format,FUNC_2
+via_find_format,FUNC_3
+viacam_fmt_post,FUNC_4
+viacam_fmt_pre,FUNC_5
+viacam_do_try_fmt,FUNC_6
+cam,VAR_3
+upix,VAR_4
+spix,VAR_5
+ret,VAR_6
+pad_cfg,VAR_7
+format,VAR_8
+f,VAR_9

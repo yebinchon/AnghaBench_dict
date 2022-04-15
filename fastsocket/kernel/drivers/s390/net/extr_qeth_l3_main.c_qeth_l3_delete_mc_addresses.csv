@@ -1,0 +1,13 @@
+QETH_DBF_TEXT,FUNC_0
+QETH_IP_TYPE_DEL_ALL_MC,VAR_0
+QETH_PROT_IPV4,VAR_1
+TRACE,VAR_2
+__qeth_l3_insert_ip_todo,FUNC_1
+kfree,FUNC_2
+qeth_l3_get_addr_buffer,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+qeth_l3_delete_mc_addresses,FUNC_6
+card,VAR_3
+iptodo,VAR_4
+flags,VAR_5

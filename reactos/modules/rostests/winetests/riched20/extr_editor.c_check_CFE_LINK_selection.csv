@@ -1,0 +1,10 @@
+CFE_LINK,VAR_0
+EM_GETCHARFORMAT,VAR_1
+EM_SETSEL,VAR_2
+SCF_SELECTION,VAR_3
+SendMessageA,FUNC_0
+check_CFE_LINK_selection,FUNC_1
+hwnd,VAR_4
+sel_start,VAR_5
+sel_end,VAR_6
+text_format,VAR_7

@@ -1,0 +1,17 @@
+AV_NOPTS_VALUE,VAR_0
+HEADER_SIZE,VAR_1
+LOGE,FUNC_0
+NO_PTS,VAR_2
+SDL_assert,FUNC_1
+av_new_packet,FUNC_2
+av_packet_unref,FUNC_3
+buffer_read32be,FUNC_4
+buffer_read64be,FUNC_5
+net_recv_all,FUNC_6
+stream_recv_packet,FUNC_7
+stream,VAR_3
+packet,VAR_4
+header,VAR_5
+r,VAR_6
+pts,VAR_7
+len,VAR_8

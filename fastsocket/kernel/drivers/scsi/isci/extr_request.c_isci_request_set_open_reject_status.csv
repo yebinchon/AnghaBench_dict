@@ -1,0 +1,10 @@
+IREQ_COMPLETE_IN_TARGET,VAR_0
+SAS_OPEN_REJECT,VAR_1
+SAS_TASK_UNDELIVERED,VAR_2
+set_bit,FUNC_0
+isci_request_set_open_reject_status,FUNC_1
+request,VAR_3
+task,VAR_4
+response_ptr,VAR_5
+status_ptr,VAR_6
+open_rej_reason,VAR_7

@@ -1,0 +1,17 @@
+CMD0_FIFO,VAR_0
+CMD1_FIFO,VAR_1
+CMD1_FIFO_CMDID,FUNC_0
+CTRL,VAR_2
+CTRL_MCS,VAR_3
+MST_ICR,VAR_4
+MST_IER,VAR_5
+MST_INT_CMDD_EMP,VAR_6
+cdns_i3c_master_wr_to_tx_fifo,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+cdns_i3c_master_start_xfer_locked,FUNC_4
+master,VAR_7
+xfer,VAR_8
+i,VAR_9
+cmd,VAR_10
+cmd,VAR_11

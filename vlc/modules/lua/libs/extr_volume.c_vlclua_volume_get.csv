@@ -1,0 +1,12 @@
+AOUT_VOLUME_DEFAULT,VAR_0
+lroundf,FUNC_0
+lua_pushnumber,FUNC_1
+vlc_player_aout_GetVolume,FUNC_2
+vlc_playlist_GetPlayer,FUNC_3
+vlclua_get_playlist_internal,FUNC_4
+vlclua_volume_get,FUNC_5
+L,VAR_1
+playlist,VAR_2
+player,VAR_3
+volume,VAR_4
+i_volume,VAR_5

@@ -1,0 +1,13 @@
+MBEDTLS_ERR_GCM_BAD_INPUT,VAR_0
+PUT_UINT32_BE,FUNC_0
+gcm_mult,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+mbedtls_gcm_finish,FUNC_4
+ctx,VAR_1
+tag,VAR_2
+tag_len,VAR_3
+work_buf,VAR_4
+i,VAR_5
+orig_len,VAR_6
+orig_add_len,VAR_7

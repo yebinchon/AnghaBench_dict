@@ -1,0 +1,11 @@
+lua_pop,FUNC_0
+lua_pushlightuserdata,FUNC_1
+lua_rawgeti,FUNC_2
+lua_rawseti,FUNC_3
+lua_touserdata,FUNC_4
+skynet_free,FUNC_5
+return_free_node,FUNC_6
+L,VAR_0
+pool,VAR_1
+sb,VAR_2
+free_node,VAR_3

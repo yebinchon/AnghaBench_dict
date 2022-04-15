@@ -1,0 +1,16 @@
+G_FILE_ERROR,VAR_0
+G_FILE_ERROR_INVAL,VAR_1
+G_FILE_ERROR_PERM,VAR_2
+S_IFMT,VAR_3
+S_IFREG,VAR_4
+errno,VAR_5
+g_file_error_from_errno,FUNC_0
+g_set_error,FUNC_1
+g_strerror,FUNC_2
+stat,FUNC_3
+chassis_filemode_check_full,FUNC_4
+filename,VAR_6
+required_filemask,VAR_7
+gerr,VAR_8
+stbuf,VAR_9
+fmode,VAR_10

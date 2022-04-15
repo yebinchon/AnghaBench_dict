@@ -1,0 +1,16 @@
+DRIVER_MODESET,VAR_0
+cancel_delayed_work_sync,FUNC_0
+del_timer_sync,FUNC_1
+drm_core_check_feature,FUNC_2
+i915_gem_cleanup_ringbuffer,FUNC_3
+i915_gem_evict_everything,FUNC_4
+i915_gem_reset_fences,FUNC_5
+i915_gem_retire_requests,FUNC_6
+i915_gpu_idle,FUNC_7
+i915_kernel_lost_context,FUNC_8
+mutex_lock,FUNC_9
+mutex_unlock,FUNC_10
+i915_gem_idle,FUNC_11
+dev,VAR_1
+dev_priv,VAR_2
+ret,VAR_3

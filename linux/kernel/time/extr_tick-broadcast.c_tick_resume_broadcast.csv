@@ -1,0 +1,12 @@
+clockevents_tick_resume,FUNC_0
+cpumask_empty,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+tick_broadcast_device,VAR_0
+tick_broadcast_lock,VAR_1
+tick_broadcast_mask,VAR_2
+tick_broadcast_start_periodic,FUNC_4
+tick_resume_broadcast_oneshot,FUNC_5
+tick_resume_broadcast,FUNC_6
+bc,VAR_3
+flags,VAR_4

@@ -1,0 +1,12 @@
+_enter,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rxrpc_abort_call,FUNC_3
+rxrpc_send_abort_packet,FUNC_4
+rxrpc_kernel_abort_call,FUNC_5
+sock,VAR_0
+call,VAR_1
+abort_code,VAR_2
+error,VAR_3
+why,VAR_4
+aborted,VAR_5

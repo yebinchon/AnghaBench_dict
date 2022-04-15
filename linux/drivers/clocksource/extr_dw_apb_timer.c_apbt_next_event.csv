@@ -1,0 +1,11 @@
+APBTMR_CONTROL_ENABLE,VAR_0
+APBTMR_N_CONTROL,VAR_1
+APBTMR_N_LOAD_COUNT,VAR_2
+apbt_readl_relaxed,FUNC_0
+apbt_writel_relaxed,FUNC_1
+ced_to_dw_apb_ced,FUNC_2
+apbt_next_event,FUNC_3
+delta,VAR_3
+evt,VAR_4
+ctrl,VAR_5
+dw_ced,VAR_6

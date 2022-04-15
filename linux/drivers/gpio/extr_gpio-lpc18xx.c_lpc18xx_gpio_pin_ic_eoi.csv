@@ -1,0 +1,11 @@
+IRQ_TYPE_EDGE_BOTH,VAR_0
+LPC18XX_GPIO_PIN_IC_IST,VAR_1
+irq_chip_eoi_parent,FUNC_0
+irqd_get_trigger_type,FUNC_1
+lpc18xx_gpio_pin_ic_set,FUNC_2
+raw_spin_lock,FUNC_3
+raw_spin_unlock,FUNC_4
+lpc18xx_gpio_pin_ic_eoi,FUNC_5
+d,VAR_2
+ic,VAR_3
+type,VAR_4

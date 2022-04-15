@@ -1,0 +1,15 @@
+PAGE_REG,VAR_0
+ecard_get_drvdata,FUNC_0
+ecard_release_resources,FUNC_1
+ecard_set_drvdata,FUNC_2
+ecardm_iounmap,FUNC_3
+free_irq,FUNC_4
+msgqueue_free,FUNC_5
+queue_free,FUNC_6
+scsi_host_put,FUNC_7
+scsi_remove_host,FUNC_8
+writeb,FUNC_9
+acornscsi_remove,FUNC_10
+ec,VAR_1
+host,VAR_2
+ashost,VAR_3

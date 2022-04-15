@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+IORESOURCE_IO,VAR_1
+IORESOURCE_MEM,VAR_2
+__request_mem_region,FUNC_0
+find_pci_dr,FUNC_1
+pci_resource_flags,FUNC_2
+pci_resource_len,FUNC_3
+pci_resource_start,FUNC_4
+pci_warn,FUNC_5
+request_region,FUNC_6
+__pci_request_region,FUNC_7
+pdev,VAR_3
+bar,VAR_4
+res_name,VAR_5
+exclusive,VAR_6
+dr,VAR_7

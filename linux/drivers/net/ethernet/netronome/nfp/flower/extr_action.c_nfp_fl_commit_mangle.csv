@@ -1,0 +1,17 @@
+FLOW_DISSECTOR_KEY_BASIC,VAR_0
+TCA_CSUM_UPDATE_FLAG_IPV4HDR,VAR_1
+flow_cls_offload_flow_rule,FUNC_0
+flow_rule_match_basic,FUNC_1
+flow_rule_match_key,FUNC_2
+memcpy,FUNC_3
+nfp_fl_csum_l4_to_flag,FUNC_4
+nfp_fl_commit_mangle,FUNC_5
+flow,VAR_2
+nfp_action,VAR_3
+a_len,VAR_4
+set_act,VAR_5
+csum_updated,VAR_6
+rule,VAR_7
+act_size,VAR_8
+ip_proto,VAR_9
+match,VAR_10

@@ -1,0 +1,12 @@
+OPMODE_AUTOSELECT,VAR_0
+V4L2_TUNER_CAP_LANG1,VAR_1
+V4L2_TUNER_CAP_LANG2,VAR_2
+V4L2_TUNER_CAP_STEREO,VAR_3
+msp_detect_stereo,FUNC_0
+to_state,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+msp_g_tuner,FUNC_3
+sd,VAR_4
+vt,VAR_5
+state,VAR_6
+client,VAR_7

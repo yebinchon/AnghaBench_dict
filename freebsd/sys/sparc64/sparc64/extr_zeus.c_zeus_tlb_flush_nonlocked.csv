@@ -1,0 +1,7 @@
+ASI_DMMU_DEMAP,VAR_0
+ASI_IMMU_DEMAP,VAR_1
+KERNBASE,VAR_2
+TLB_DEMAP_ALL,VAR_3
+flush,FUNC_0
+stxa,FUNC_1
+zeus_tlb_flush_nonlocked,FUNC_2

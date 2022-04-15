@@ -1,0 +1,17 @@
+ENODEV,VAR_0
+MEN_Z135_ALL_IRQS,VAR_1
+MEN_Z135_CONF_REG,VAR_2
+MEN_Z135_IER_TXCIEN,VAR_3
+MEN_Z135_TIMEOUT,VAR_4
+ioread32,FUNC_0
+iowrite32,FUNC_1
+men_z135_request_irq,FUNC_2
+rx_timeout,VAR_5
+rxlvl,VAR_6
+to_men_z135,FUNC_3
+txlvl,VAR_7
+men_z135_startup,FUNC_4
+port,VAR_8
+uart,VAR_9
+err,VAR_10
+conf_reg,VAR_11

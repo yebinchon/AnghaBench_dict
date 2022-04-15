@@ -1,0 +1,11 @@
+IF_INTERFACE_STATE_RRC_STATE_VALID,VAR_0
+KEV_DL_RRC_STATE_CHANGED,VAR_1
+KEV_DL_SUBCLASS,VAR_2
+bzero,FUNC_0
+dlil_post_msg,FUNC_1
+ifnet_lock_done,FUNC_2
+ifnet_lock_exclusive,FUNC_3
+if_rrc_state_update,FUNC_4
+ifp,VAR_3
+rrc_state,VAR_4
+kev,VAR_5

@@ -1,0 +1,11 @@
+ASUS_FAN_CTRL_AUTO,VAR_0
+ASUS_WMI_DEVID_CPU_FAN_CTRL,VAR_1
+ENODEV,VAR_2
+FAN_TYPE_AGFN,VAR_3
+FAN_TYPE_NONE,VAR_4
+FAN_TYPE_SPEC83,VAR_5
+asus_fan_set_auto,FUNC_0
+asus_wmi_dev_is_present,FUNC_1
+asus_wmi_has_agfn_fan,FUNC_2
+asus_wmi_fan_init,FUNC_3
+asus,VAR_6

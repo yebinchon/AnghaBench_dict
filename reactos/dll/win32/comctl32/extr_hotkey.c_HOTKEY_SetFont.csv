@@ -1,0 +1,13 @@
+GetDC,FUNC_0
+GetTextMetricsW,FUNC_1
+InvalidateRect,FUNC_2
+ReleaseDC,FUNC_3
+SelectObject,FUNC_4
+TRUE,VAR_0
+HOTKEY_SetFont,FUNC_5
+infoPtr,VAR_1
+hFont,VAR_2
+redraw,VAR_3
+tm,VAR_4
+hdc,VAR_5
+hOldFont,VAR_6

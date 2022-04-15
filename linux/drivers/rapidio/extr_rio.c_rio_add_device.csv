@@ -1,0 +1,12 @@
+RIO_DEVICE_RUNNING,VAR_0
+RIO_PEF_SWITCH,VAR_1
+atomic_set,FUNC_0
+device_register,FUNC_1
+list_add_tail,FUNC_2
+rio_devices,VAR_2
+rio_global_list_lock,VAR_3
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+rio_add_device,FUNC_5
+rdev,VAR_4
+err,VAR_5

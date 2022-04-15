@@ -1,0 +1,14 @@
+ACCESS_ONCE,FUNC_0
+atomic_long_dec_and_test,FUNC_1
+get_task_struct,FUNC_2
+list_del_init,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+perf_event_release_kernel,FUNC_6
+put_task_struct,FUNC_7
+rcu_read_lock,FUNC_8
+rcu_read_unlock,FUNC_9
+smp_read_barrier_depends,FUNC_10
+put_event,FUNC_11
+event,VAR_0
+owner,VAR_1

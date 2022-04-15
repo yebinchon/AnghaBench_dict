@@ -1,0 +1,17 @@
+device_get_softc,FUNC_0
+mtx_lock_spin,FUNC_1
+mtx_unlock_spin,FUNC_2
+out16rb,FUNC_3
+out32rb,FUNC_4
+out8rb,FUNC_5
+uninorth_enable_config,FUNC_6
+uninorth_write_config,FUNC_7
+dev,VAR_0
+bus,VAR_1
+slot,VAR_2
+func,VAR_3
+reg,VAR_4
+val,VAR_5
+width,VAR_6
+sc,VAR_7
+caoff,VAR_8

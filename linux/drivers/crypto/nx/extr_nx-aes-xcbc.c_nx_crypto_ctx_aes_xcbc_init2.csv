@@ -1,0 +1,12 @@
+HCOP_FC_AES,VAR_0
+NX_CPB_SET_KEY_SIZE,FUNC_0
+NX_KS_AES_128,VAR_1
+NX_MODE_AES_XCBC_MAC,VAR_2
+crypto_tfm_ctx,FUNC_1
+nx_crypto_ctx_aes_xcbc_init,FUNC_2
+nx_ctx_init,FUNC_3
+nx_crypto_ctx_aes_xcbc_init2,FUNC_4
+tfm,VAR_3
+nx_ctx,VAR_4
+csbcpb,VAR_5
+err,VAR_6

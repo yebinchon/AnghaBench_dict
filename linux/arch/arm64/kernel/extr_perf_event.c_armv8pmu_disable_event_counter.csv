@@ -1,0 +1,12 @@
+ARMV8_IDX_TO_COUNTER,FUNC_0
+BIT,FUNC_1
+armv8pmu_disable_counter,FUNC_2
+armv8pmu_event_is_chained,FUNC_3
+kvm_clr_pmu_events,FUNC_4
+kvm_pmu_counter_deferred,FUNC_5
+armv8pmu_disable_event_counter,FUNC_6
+event,VAR_0
+hwc,VAR_1
+attr,VAR_2
+idx,VAR_3
+counter_bits,VAR_4

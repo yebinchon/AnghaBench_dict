@@ -1,0 +1,15 @@
+BSR,VAR_0
+BSR_BANK_MASK,VAR_1
+BUS_SPACE_BARRIER_READ,VAR_2
+BUS_SPACE_BARRIER_WRITE,VAR_3
+KASSERT,FUNC_0
+MGMT,VAR_4
+SMC_ASSERT_LOCKED,FUNC_1
+device_get_nameunit,FUNC_2
+device_get_softc,FUNC_3
+smc_barrier,FUNC_4
+smc_read_2,FUNC_5
+smc_mii_bitbang_read,FUNC_6
+dev,VAR_5
+sc,VAR_6
+val,VAR_7

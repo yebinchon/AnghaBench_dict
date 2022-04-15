@@ -1,0 +1,13 @@
+LCK_MTX_ASSERT_OWNED,VAR_0
+SYS_OVERRIDE_CPU_THROTTLE,VAR_1
+SYS_OVERRIDE_FAST_JETSAM,VAR_2
+SYS_OVERRIDE_IO_THROTTLE,VAR_3
+assert,FUNC_0
+cpu_throttle_assert_cnt,VAR_4
+fast_jetsam_assert_cnt,VAR_5
+io_throttle_assert_cnt,VAR_6
+lck_mtx_assert,FUNC_1
+sys_override_lock,VAR_7
+system_override_callouts,FUNC_2
+system_override_end,FUNC_3
+flags,VAR_8

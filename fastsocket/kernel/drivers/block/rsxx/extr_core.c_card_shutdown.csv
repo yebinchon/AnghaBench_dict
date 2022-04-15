@@ -1,0 +1,15 @@
+CARD_CMD_SHUTDOWN,VAR_0
+CARD_STATE_SHUTDOWN,VAR_1
+CARD_STATE_SHUTTING_DOWN,VAR_2
+CARD_STATE_STARTING,VAR_3
+ETIMEDOUT,VAR_4
+jiffies,VAR_5
+msecs_to_jiffies,FUNC_0
+rsxx_get_card_state,FUNC_1
+rsxx_issue_card_cmd,FUNC_2
+card_shutdown,FUNC_3
+card,VAR_6
+state,VAR_7
+start,VAR_8
+timeout,VAR_9
+st,VAR_10

@@ -1,0 +1,8 @@
+APIC_LVTT,VAR_0
+APIC_LVT_MASKED,VAR_1
+LOCAL_TIMER_VECTOR,VAR_2
+apic_pm_activate,FUNC_0
+apic_read,FUNC_1
+apic_write,FUNC_2
+lapic_setup_esr,FUNC_3
+end_local_APIC_setup,FUNC_4

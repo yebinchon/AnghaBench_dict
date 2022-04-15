@@ -1,0 +1,14 @@
+XPAD_PKT_LEN,VAR_0
+XTYPE_XBOX360W,VAR_1
+input_unregister_device,FUNC_0
+kfree,FUNC_1
+usb_buffer_free,FUNC_2
+usb_free_urb,FUNC_3
+usb_get_intfdata,FUNC_4
+usb_kill_urb,FUNC_5
+usb_set_intfdata,FUNC_6
+xpad_deinit_output,FUNC_7
+xpad_led_disconnect,FUNC_8
+xpad_disconnect,FUNC_9
+intf,VAR_2
+xpad,VAR_3

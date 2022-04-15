@@ -1,0 +1,17 @@
+POLLHUP,VAR_0
+POLLIN,VAR_1
+POLLOUT,VAR_2
+POLLRDNORM,VAR_3
+POLLWRNORM,VAR_4
+devfs_get_cdevpriv,FUNC_0
+selrecord,FUNC_1
+tty_lock,FUNC_2
+tty_unlock,FUNC_3
+ttyoutq_bytesused,FUNC_4
+snp_poll,FUNC_5
+dev,VAR_5
+events,VAR_6
+td,VAR_7
+ss,VAR_8
+tp,VAR_9
+revents,VAR_10

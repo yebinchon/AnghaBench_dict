@@ -1,0 +1,10 @@
+CLOCK_REALTIME,VAR_0
+HRTIMER_MODE_ABS,VAR_1
+get_tb,FUNC_0
+hrtimer_init,FUNC_1
+kvmppc_decrementer_wakeup,VAR_2
+kvmppc_subarch_vcpu_init,FUNC_2
+mutex_init,FUNC_3
+kvm_arch_vcpu_init,FUNC_4
+vcpu,VAR_3
+ret,VAR_4

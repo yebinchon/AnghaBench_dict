@@ -1,0 +1,12 @@
+DW_IC_INTR_MASK,VAR_0
+DW_IC_INTR_STOP_DET,VAR_1
+DW_IC_INTR_TX_ABRT,VAR_2
+DW_IC_INTR_TX_EMPTY,VAR_3
+STATUS_WRITE_IN_PROGRESS,VAR_4
+i2c_dw_read,FUNC_0
+i2c_dw_xfer_msg,FUNC_1
+writew,FUNC_2
+dw_i2c_pump_msg,FUNC_3
+data,VAR_5
+dev,VAR_6
+intr_mask,VAR_7

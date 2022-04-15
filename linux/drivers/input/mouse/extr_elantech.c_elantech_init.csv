@@ -1,0 +1,17 @@
+CONFIG_MOUSE_ELAN_I2C_SMBUS,VAR_0
+CONFIG_MOUSE_PS2_ELANTECH_SMBUS,VAR_1
+EINVAL,VAR_2
+IS_ENABLED,FUNC_0
+PSMOUSE_ELANTECH,VAR_3
+PSMOUSE_ELANTECH_SMBUS,VAR_4
+elantech_query_info,FUNC_1
+elantech_setup_ps2,FUNC_2
+elantech_setup_smbus,FUNC_3
+elantech_use_host_notify,FUNC_4
+psmouse_reset,FUNC_5
+psmouse_smbus_cleanup,FUNC_6
+psmouse_warn,FUNC_7
+elantech_init,FUNC_8
+psmouse,VAR_5
+info,VAR_6
+error,VAR_7

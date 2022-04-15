@@ -1,0 +1,14 @@
+BIO_ERROR,VAR_0
+NVME_SC_DATA_TRANSFER_ERROR,VAR_1
+NVME_STATUS_SC_MASK,VAR_2
+NVME_STATUS_SC_SHIFT,VAR_3
+atomic_fetchadd_int,FUNC_0
+atomic_load_acq_int,FUNC_1
+bzero,FUNC_2
+nvme_ns_bio_done,FUNC_3
+nvme_bio_child_inbed,FUNC_4
+parent,VAR_4
+bio_error,VAR_5
+parent_cpl,VAR_6
+children,VAR_7
+inbed,VAR_8

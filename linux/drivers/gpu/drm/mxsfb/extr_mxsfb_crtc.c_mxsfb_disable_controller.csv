@@ -1,0 +1,13 @@
+CTRL_DOTCLK_MODE,VAR_0
+CTRL_RUN,VAR_1
+LCDC_CTRL,VAR_2
+LCDC_VDCTRL4,VAR_3
+REG_CLR,VAR_4
+VDCTRL4_SYNC_SIGNALS_ON,VAR_5
+clk_disable_unprepare,FUNC_0
+readl,FUNC_1
+readl_poll_timeout,FUNC_2
+writel,FUNC_3
+mxsfb_disable_controller,FUNC_4
+mxsfb,VAR_6
+reg,VAR_7

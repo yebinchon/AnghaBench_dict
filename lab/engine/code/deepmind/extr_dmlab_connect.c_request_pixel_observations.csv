@@ -1,0 +1,12 @@
+GL_BGR_EXT,VAR_0
+GL_DEPTH_COMPONENT,VAR_1
+GL_PIXEL_PACK_BUFFER,VAR_2
+GL_RGB,VAR_3
+GL_UNSIGNED_BYTE,VAR_4
+create_update_pbo_or_die,FUNC_0
+qglBindBuffer,FUNC_1
+qglReadPixels,FUNC_2
+use_pbo_rendering,FUNC_3
+request_pixel_observations,FUNC_4
+gc,VAR_5
+type,VAR_6

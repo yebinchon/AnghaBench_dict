@@ -1,0 +1,15 @@
+IRQ_NONE,VAR_0
+MUSB_INTRRX,VAR_1
+MUSB_INTRTX,VAR_2
+MUSB_INTRUSB,VAR_3
+musb_interrupt,FUNC_0
+musb_readb,FUNC_1
+musb_readw,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+omap2430_musb_interrupt,FUNC_5
+irq,VAR_4
+__hci,VAR_5
+flags,VAR_6
+retval,VAR_7
+musb,VAR_8

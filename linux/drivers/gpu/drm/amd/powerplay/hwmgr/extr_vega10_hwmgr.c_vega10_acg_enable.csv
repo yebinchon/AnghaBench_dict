@@ -1,0 +1,14 @@
+GNLD_ACG,VAR_0
+GNLD_DPM_PREFETCHER,VAR_1
+PPSMC_MSG_InitializeAcg,VAR_2
+PPSMC_MSG_RunAcgBtc,VAR_3
+PPSMC_MSG_RunAcgInClosedLoop,VAR_4
+PPSMC_MSG_RunAcgInOpenLoop,VAR_5
+pr_info,FUNC_0
+smum_get_argument,FUNC_1
+smum_send_msg_to_smc,FUNC_2
+vega10_enable_smc_features,FUNC_3
+vega10_acg_enable,FUNC_4
+hwmgr,VAR_6
+data,VAR_7
+agc_btc_response,VAR_8

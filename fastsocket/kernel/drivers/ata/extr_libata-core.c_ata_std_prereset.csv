@@ -1,0 +1,16 @@
+ATA_EH_HARDRESET,VAR_0
+ATA_EH_SOFTRESET,VAR_1
+ATA_FLAG_SATA,VAR_2
+EOPNOTSUPP,VAR_3
+KERN_WARNING,VAR_4
+ata_link_printk,FUNC_0
+ata_phys_link_offline,FUNC_1
+sata_ehc_deb_timing,FUNC_2
+sata_link_resume,FUNC_3
+ata_std_prereset,FUNC_4
+link,VAR_5
+deadline,VAR_6
+ap,VAR_7
+ehc,VAR_8
+timing,VAR_9
+rc,VAR_10

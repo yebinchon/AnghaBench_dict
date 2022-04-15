@@ -1,0 +1,8 @@
+EMULATE_DONE,VAR_0
+EMULTYPE_TRAP_UD,VAR_1
+UD_VECTOR,VAR_2
+emulate_instruction,FUNC_0
+kvm_queue_exception,FUNC_1
+ud_interception,FUNC_2
+svm,VAR_3
+er,VAR_4

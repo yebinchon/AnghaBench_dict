@@ -1,0 +1,9 @@
+ATA_HOB,VAR_0
+ATA_TFLAG_LBA48,VAR_1
+ioread32,FUNC_0
+iowrite32,FUNC_1
+sata_rcar_check_status,FUNC_2
+sata_rcar_tf_read,FUNC_3
+ap,VAR_2
+tf,VAR_3
+ioaddr,VAR_4

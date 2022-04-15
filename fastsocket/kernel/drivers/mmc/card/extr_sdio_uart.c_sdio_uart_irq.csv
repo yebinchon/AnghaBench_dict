@@ -1,0 +1,17 @@
+UART_IIR,VAR_0
+UART_IIR_NO_INT,VAR_1
+UART_LSR,VAR_2
+UART_LSR_DR,VAR_3
+UART_LSR_THRE,VAR_4
+current,VAR_5
+sdio_get_drvdata,FUNC_0
+sdio_in,FUNC_1
+sdio_uart_check_modem_status,FUNC_2
+sdio_uart_receive_chars,FUNC_3
+sdio_uart_transmit_chars,FUNC_4
+unlikely,FUNC_5
+sdio_uart_irq,FUNC_6
+func,VAR_6
+port,VAR_7
+iir,VAR_8
+lsr,VAR_9

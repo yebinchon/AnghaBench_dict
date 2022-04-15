@@ -1,0 +1,14 @@
+CLK_LOCK,FUNC_0
+CLK_RD_4,FUNC_1
+CLK_UNLOCK,FUNC_2
+CLK_WR_4,FUNC_3
+JZ_CLKGR0,VAR_0
+JZ_CLKGR1,VAR_1
+clknode_get_softc,FUNC_4
+jz4780_clk_gen_set_gate,FUNC_5
+clk,VAR_2
+enable,VAR_3
+sc,VAR_4
+off,VAR_5
+reg,VAR_6
+bit,VAR_7

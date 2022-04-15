@@ -1,0 +1,10 @@
+SSB_BUSTYPE_PCMCIA,VAR_0
+SSB_PCMCIA_SPROM_SIZE,VAR_1
+dev_attr_ssb_sprom,VAR_2
+device_create_file,FUNC_0
+mutex_init,FUNC_1
+pr_err,FUNC_2
+ssb_pcmcia_hardware_setup,FUNC_3
+ssb_pcmcia_init,FUNC_4
+bus,VAR_3
+err,VAR_4

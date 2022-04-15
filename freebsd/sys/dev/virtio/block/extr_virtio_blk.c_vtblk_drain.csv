@@ -1,0 +1,17 @@
+ENXIO,VAR_0
+TAILQ_INIT,FUNC_0
+bioq_first,FUNC_1
+bioq_takefirst,FUNC_2
+vtblk_bio_done,FUNC_3
+vtblk_done_completed,FUNC_4
+vtblk_drain_vq,FUNC_5
+vtblk_queue_completed,FUNC_6
+vtblk_request_enqueue,FUNC_7
+vtblk_request_free,FUNC_8
+vtblk_request_next_ready,FUNC_9
+vtblk_drain,FUNC_10
+sc,VAR_1
+queue,VAR_2
+bioq,VAR_3
+req,VAR_4
+bp,VAR_5

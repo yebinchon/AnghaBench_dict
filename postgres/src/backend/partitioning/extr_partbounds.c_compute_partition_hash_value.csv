@@ -1,0 +1,17 @@
+Assert,FUNC_0
+DatumGetUInt64,FUNC_1
+FunctionCall2Coll,FUNC_2
+HASH_PARTITION_SEED,VAR_0
+OidIsValid,FUNC_3
+UInt64GetDatum,FUNC_4
+hash_combine64,FUNC_5
+compute_partition_hash_value,FUNC_6
+partnatts,VAR_1
+partsupfunc,VAR_2
+partcollation,VAR_3
+values,VAR_4
+isnull,VAR_5
+i,VAR_6
+rowHash,VAR_7
+seed,VAR_8
+hash,VAR_9

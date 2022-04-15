@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+EIO,VAR_1
+FW_WORK_STATE_WAIT_SECURE_WRITE_ANSWER,VAR_2
+PN544_FW_CMD_RESET,VAR_3
+PN544_FW_CMD_SECURE_WRITE,VAR_4
+PN544_FW_I2C_MAX_PAYLOAD,VAR_5
+PN544_FW_MODE,VAR_6
+PN544_FW_SECURE_FRAME_HEADER_LEN,VAR_7
+get_unaligned_be16,FUNC_0
+i2c_master_send,FUNC_1
+pn544_hci_i2c_enable_mode,FUNC_2
+pn544_hci_i2c_fw_secure_write_frame_cmd,FUNC_3
+schedule_work,FUNC_4
+pn544_hci_i2c_fw_secure_write_frame,FUNC_5
+phy,VAR_8
+framep,VAR_9
+r,VAR_10

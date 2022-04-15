@@ -1,0 +1,17 @@
+EKTF2127_MAX_TOUCHES,VAR_0
+MT_TOOL_FINGER,VAR_1
+dev_err,FUNC_0
+ektf2127_parse_coordinates,FUNC_1
+input_mt_assign_slots,FUNC_2
+input_mt_report_slot_state,FUNC_3
+input_mt_slot,FUNC_4
+input_mt_sync_frame,FUNC_5
+input_sync,FUNC_6
+touchscreen_report_pos,FUNC_7
+ektf2127_report_event,FUNC_8
+ts,VAR_2
+buf,VAR_3
+touches,VAR_4
+slots,VAR_5
+touch_count,VAR_6
+i,VAR_7

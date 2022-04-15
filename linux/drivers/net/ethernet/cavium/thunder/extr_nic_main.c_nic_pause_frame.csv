@@ -1,0 +1,15 @@
+NIC_GET_BGX_FROM_VF_LMAC_MAP,FUNC_0
+NIC_GET_LMAC_FROM_VF_LMAC_MAP,FUNC_1
+NIC_MBOX_MSG_PFC,VAR_0
+bgx_lmac_get_pfc,FUNC_2
+bgx_lmac_set_pfc,FUNC_3
+nic_mbx_send_ack,FUNC_4
+nic_send_msg_to_vf,FUNC_5
+nic_pause_frame,FUNC_6
+nic,VAR_1
+vf,VAR_2
+cfg,VAR_3
+bgx,VAR_4
+lmac,VAR_5
+pfc,VAR_6
+mbx,VAR_7

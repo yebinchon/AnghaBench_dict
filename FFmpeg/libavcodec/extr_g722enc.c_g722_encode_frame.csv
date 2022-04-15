@@ -1,0 +1,17 @@
+AV_NOPTS_VALUE,VAR_0
+encode_byte,FUNC_0
+ff_alloc_packet2,FUNC_1
+ff_samples_to_time_base,FUNC_2
+g722_encode_no_trellis,FUNC_3
+g722_encode_trellis,FUNC_4
+g722_encode_frame,FUNC_5
+avctx,VAR_1
+avpkt,VAR_2
+frame,VAR_3
+got_packet_ptr,VAR_4
+c,VAR_5
+samples,VAR_6
+nb_samples,VAR_7
+out_size,VAR_8
+ret,VAR_9
+last_samples,VAR_10

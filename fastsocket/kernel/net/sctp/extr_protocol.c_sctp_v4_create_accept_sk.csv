@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+PF_INET,VAR_1
+SOCK_ZAPPED,VAR_2
+inet_sk,FUNC_0
+sctp_copy_sock,FUNC_1
+sk_alloc,FUNC_2
+sk_common_release,FUNC_3
+sk_refcnt_debug_inc,FUNC_4
+sock_init_data,FUNC_5
+sock_net,FUNC_6
+sock_reset_flag,FUNC_7
+stub1,FUNC_8
+sctp_v4_create_accept_sk,FUNC_9
+sk,VAR_3
+asoc,VAR_4
+newsk,VAR_5
+newinet,VAR_6

@@ -1,0 +1,14 @@
+NDISUSB_ENDPT_MAX,VAR_0
+NDISUSB_STATUS_DETACH,VAR_1
+NDISUSB_STATUS_SETUP_EP,VAR_2
+NDIS_PNP_EVENT_SURPRISE_REMOVED,VAR_3
+device_get_softc,FUNC_0
+mtx_destroy,FUNC_1
+ndis_detach,FUNC_2
+ndis_pnpevent_nic,FUNC_3
+usbd_transfer_unsetup,FUNC_4
+ndisusb_detach,FUNC_5
+self,VAR_4
+i,VAR_5
+sc,VAR_6
+ne,VAR_7

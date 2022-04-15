@@ -1,0 +1,11 @@
+CXGB4_CONTROL_DB_FULL,VAR_0
+DBFIFO_HP_INT_F,VAR_1
+DBFIFO_LP_INT_F,VAR_2
+SGE_INT_ENABLE3_A,VAR_3
+disable_dbs,FUNC_0
+is_t4,FUNC_1
+notify_rdma_uld,FUNC_2
+queue_work,FUNC_3
+t4_set_reg_field,FUNC_4
+t4_db_full,FUNC_5
+adap,VAR_4

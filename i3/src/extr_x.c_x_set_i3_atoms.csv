@@ -1,0 +1,16 @@
+A_I3_CONFIG_PATH,VAR_0
+A_I3_PID,VAR_1
+A_I3_SOCKET_PATH,VAR_2
+A_UTF8_STRING,VAR_3
+XCB_ATOM_CARDINAL,VAR_4
+XCB_PROP_MODE_REPLACE,VAR_5
+conn,VAR_6
+current_configpath,VAR_7
+current_socketpath,VAR_8
+getpid,FUNC_0
+root,VAR_9
+strlen,FUNC_1
+update_shmlog_atom,FUNC_2
+xcb_change_property,FUNC_3
+x_set_i3_atoms,FUNC_4
+pid,VAR_10

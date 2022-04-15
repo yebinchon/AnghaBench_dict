@@ -1,0 +1,14 @@
+PCI_MSI_ADDRESS_HI,VAR_0
+PCI_MSI_ADDRESS_LO,VAR_1
+PCI_MSI_FLAGS,VAR_2
+PCI_MSI_FLAGS_64BIT,VAR_3
+pci_enable_msi,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+qib_dev_err,FUNC_3
+qib_msi_setup,FUNC_4
+dd,VAR_4
+pos,VAR_5
+pdev,VAR_6
+control,VAR_7
+ret,VAR_8

@@ -1,0 +1,8 @@
+assert_is_ignored,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_rmfile,FUNC_2
+cl_must_pass,FUNC_3
+cl_repo_get_bool,FUNC_4
+g_repo,VAR_0
+p_mkdir,FUNC_5
+test_ignore_path__gitignore_in_subdir,FUNC_6

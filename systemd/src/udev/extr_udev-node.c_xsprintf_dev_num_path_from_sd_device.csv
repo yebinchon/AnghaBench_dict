@@ -1,0 +1,16 @@
+DEV_NUM_PATH_MAX,VAR_0
+ENOMEM,VAR_1
+assert,FUNC_0
+sd_device_get_devnum,FUNC_1
+sd_device_get_subsystem,FUNC_2
+strdup,FUNC_3
+streq,FUNC_4
+xsprintf_dev_num_path,FUNC_5
+xsprintf_dev_num_path_from_sd_device,FUNC_6
+dev,VAR_2
+ret,VAR_3
+filename,VAR_4
+s,VAR_5
+subsystem,VAR_6
+devnum,VAR_7
+r,VAR_8

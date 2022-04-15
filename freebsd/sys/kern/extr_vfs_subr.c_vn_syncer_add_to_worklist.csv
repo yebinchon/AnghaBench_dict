@@ -1,0 +1,17 @@
+ASSERT_BO_WLOCKED,FUNC_0
+BO_ONWORKLST,VAR_0
+LIST_INSERT_HEAD,FUNC_1
+LIST_REMOVE,FUNC_2
+bo_synclist,VAR_1
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+sync_mtx,VAR_2
+syncer_delayno,VAR_3
+syncer_mask,VAR_4
+syncer_maxdelay,VAR_5
+syncer_workitem_pending,VAR_6
+syncer_worklist_len,VAR_7
+vn_syncer_add_to_worklist,FUNC_5
+bo,VAR_8
+delay,VAR_9
+slot,VAR_10

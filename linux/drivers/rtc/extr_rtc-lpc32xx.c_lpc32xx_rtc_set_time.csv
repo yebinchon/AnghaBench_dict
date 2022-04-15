@@ -1,0 +1,16 @@
+LPC32XX_RTC_CTRL,VAR_0
+LPC32XX_RTC_CTRL_CNTR_DIS,VAR_1
+LPC32XX_RTC_DCOUNT,VAR_2
+LPC32XX_RTC_UCOUNT,VAR_3
+dev_get_drvdata,FUNC_0
+rtc_readl,FUNC_1
+rtc_tm_to_time64,FUNC_2
+rtc_writel,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+lpc32xx_rtc_set_time,FUNC_6
+dev,VAR_4
+time,VAR_5
+rtc,VAR_6
+secs,VAR_7
+tmp,VAR_8

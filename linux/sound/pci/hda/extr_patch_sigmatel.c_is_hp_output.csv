@@ -1,0 +1,10 @@
+AC_JACK_HP_OUT,VAR_0
+AC_JACK_LINE_OUT,VAR_1
+AC_JACK_PORT_NONE,VAR_2
+get_defcfg_connect,FUNC_0
+get_defcfg_device,FUNC_1
+snd_hda_codec_get_pincfg,FUNC_2
+is_hp_output,FUNC_3
+codec,VAR_3
+pin,VAR_4
+pin_cfg,VAR_5

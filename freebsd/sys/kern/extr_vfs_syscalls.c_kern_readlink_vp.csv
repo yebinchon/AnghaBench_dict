@@ -1,0 +1,16 @@
+ASSERT_VOP_LOCKED,FUNC_0
+EINVAL,VAR_0
+UIO_READ,VAR_1
+VLNK,VAR_2
+VOP_READLINK,FUNC_1
+VV_READLINK,VAR_3
+mac_vnode_check_readlink,FUNC_2
+kern_readlink_vp,FUNC_3
+vp,VAR_4
+buf,VAR_5
+bufseg,VAR_6
+count,VAR_7
+td,VAR_8
+aiov,VAR_9
+auio,VAR_10
+error,VAR_11

@@ -1,0 +1,14 @@
+KHDR,VAR_0
+SEEK_SET,VAR_1
+assert,FUNC_0
+binlog_headers,VAR_2
+fix_kfs_header_crc32,FUNC_1
+kfs_Hdr,VAR_3
+lseek,FUNC_2
+targ_fd,VAR_4
+time,FUNC_3
+tot_crc32,VAR_5
+wr_bytes,VAR_6
+write,FUNC_4
+write_binlog_headers,FUNC_5
+i,VAR_7

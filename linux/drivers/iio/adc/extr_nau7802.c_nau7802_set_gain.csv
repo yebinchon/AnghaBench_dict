@@ -1,0 +1,10 @@
+NAU7802_CTRL1_GAINS_BITS,VAR_0
+NAU7802_REG_CTRL1,VAR_1
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+nau7802_set_gain,FUNC_4
+st,VAR_2
+gain,VAR_3
+ret,VAR_4

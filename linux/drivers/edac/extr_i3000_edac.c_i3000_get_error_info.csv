@@ -1,0 +1,14 @@
+I3000_DEAP,VAR_0
+I3000_DERRSYN,VAR_1
+I3000_EDEAP,VAR_2
+I3000_ERRSTS,VAR_3
+I3000_ERRSTS_BITS,VAR_4
+pci_read_config_byte,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_bits16,FUNC_3
+to_pci_dev,FUNC_4
+i3000_get_error_info,FUNC_5
+mci,VAR_5
+info,VAR_6
+pdev,VAR_7

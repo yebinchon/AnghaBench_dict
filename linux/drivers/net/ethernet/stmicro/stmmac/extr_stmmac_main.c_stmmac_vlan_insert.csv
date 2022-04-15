@@ -1,0 +1,17 @@
+DMA_TX_SIZE,VAR_0
+ETH_P_8021AD,VAR_1
+STMMAC_GET_ENTRY,FUNC_0
+STMMAC_VLAN_INSERT,VAR_2
+htons,FUNC_1
+skb_vlan_tag_get,FUNC_2
+skb_vlan_tag_present,FUNC_3
+stmmac_set_desc_vlan_tag,FUNC_4
+stmmac_set_tx_owner,FUNC_5
+stmmac_vlan_insert,FUNC_6
+priv,VAR_3
+skb,VAR_4
+tx_q,VAR_5
+tag,VAR_6
+inner_tag,VAR_7
+inner_type,VAR_8
+p,VAR_9

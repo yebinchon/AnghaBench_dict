@@ -1,0 +1,17 @@
+CMD_01_GET_SYS_CFG,VAR_0
+FREQ_FIELD_OFFSET,VAR_1
+XES_FREQ_COUNT8_44_MAX,VAR_2
+XES_FREQ_COUNT8_44_MIN,VAR_3
+XES_FREQ_COUNT8_48_MAX,VAR_4
+XES_FREQ_COUNT8_MASK,VAR_5
+lx_message_init,FUNC_0
+lx_message_send_atomic,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+lx_dsp_get_clock_frequency,FUNC_4
+chip,VAR_6
+rfreq,VAR_7
+ret,VAR_8
+freq_raw,VAR_9
+freq,VAR_10
+frequency,VAR_11

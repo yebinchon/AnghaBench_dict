@@ -1,0 +1,16 @@
+DISK_NAME_LEN,VAR_0
+ENOMEM,VAR_1
+GENHD_FL_EXT_DEVT,VAR_2
+GENHD_FL_SUPPRESS_PARTITION_INFO,VAR_3
+add_disk,FUNC_0
+alloc_disk_node,FUNC_1
+blk_revalidate_disk_zones,FUNC_2
+null_fops,VAR_4
+null_major,VAR_5
+set_capacity,FUNC_3
+strncpy,FUNC_4
+null_gendisk_register,FUNC_5
+nullb,VAR_6
+disk,VAR_7
+size,VAR_8
+ret,VAR_9

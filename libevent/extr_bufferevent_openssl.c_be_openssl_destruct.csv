@@ -1,0 +1,12 @@
+BEV_OPT_CLOSE_ON_FREE,VAR_0
+BIO_get_fd,FUNC_0
+EVUTIL_INVALID_SOCKET,VAR_1
+SSL_free,FUNC_1
+SSL_get_wbio,FUNC_2
+evutil_closesocket,FUNC_3
+upcast,FUNC_4
+be_openssl_destruct,FUNC_5
+bev,VAR_2
+bev_ssl,VAR_3
+fd,VAR_4
+bio,VAR_5

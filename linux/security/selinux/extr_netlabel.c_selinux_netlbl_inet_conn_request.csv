@@ -1,0 +1,12 @@
+PF_INET,VAR_0
+PF_INET6,VAR_1
+netlbl_req_setattr,FUNC_0
+netlbl_secattr_destroy,FUNC_1
+netlbl_secattr_init,FUNC_2
+security_netlbl_sid_to_secattr,FUNC_3
+selinux_state,VAR_2
+selinux_netlbl_inet_conn_request,FUNC_4
+req,VAR_3
+family,VAR_4
+rc,VAR_5
+secattr,VAR_6

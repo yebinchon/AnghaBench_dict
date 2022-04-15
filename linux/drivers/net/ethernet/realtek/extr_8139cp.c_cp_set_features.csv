@@ -1,0 +1,14 @@
+CpCmd,VAR_0
+NETIF_F_HW_VLAN_CTAG_RX,VAR_1
+NETIF_F_RXCSUM,VAR_2
+RxChkSum,VAR_3
+RxVlanOn,VAR_4
+cpw16_f,FUNC_0
+netdev_priv,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+cp_set_features,FUNC_4
+dev,VAR_5
+features,VAR_6
+cp,VAR_7
+flags,VAR_8

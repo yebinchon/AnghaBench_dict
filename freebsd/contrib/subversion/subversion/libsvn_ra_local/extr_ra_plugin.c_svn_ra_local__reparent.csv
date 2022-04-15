@@ -1,0 +1,13 @@
+SVN_ERR_RA_ILLEGAL_URL,VAR_0
+SVN_NO_ERROR,VAR_1
+_,FUNC_0
+svn_error_createf,FUNC_1
+svn_fspath__canonicalize,FUNC_2
+svn_stringbuf_set,FUNC_3
+svn_uri_skip_ancestor,FUNC_4
+svn_ra_local__reparent,FUNC_5
+session,VAR_2
+url,VAR_3
+pool,VAR_4
+sess,VAR_5
+relpath,VAR_6

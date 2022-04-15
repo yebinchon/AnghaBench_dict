@@ -1,0 +1,8 @@
+IN6_IS_ADDR_MULTICAST,FUNC_0
+IN_MULTICAST,FUNC_1
+PF_INET,VAR_0
+ntohl,FUNC_2
+sock_ismcastaddr,FUNC_3
+saddr,VAR_1
+saddr4,VAR_2
+saddr6,VAR_3

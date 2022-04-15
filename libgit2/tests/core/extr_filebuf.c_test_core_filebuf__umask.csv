@@ -1,0 +1,17 @@
+GIT_FILEBUF_INIT,VAR_0
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+cl_must_pass,FUNC_3
+git_filebuf_commit,FUNC_4
+git_filebuf_open,FUNC_5
+git_filebuf_printf,FUNC_6
+p_stat,FUNC_7
+p_umask,FUNC_8
+p_unlink,FUNC_9
+test_core_filebuf__umask,FUNC_10
+file,VAR_1
+test,VAR_2
+statbuf,VAR_3
+mask,VAR_4
+os_mask,VAR_5

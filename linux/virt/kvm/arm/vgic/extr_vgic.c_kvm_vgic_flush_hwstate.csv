@@ -1,0 +1,13 @@
+DEBUG_SPINLOCK_BUG_ON,FUNC_0
+WARN_ON,FUNC_1
+can_access_vgic_from_kernel,FUNC_2
+irqs_disabled,FUNC_3
+list_empty,FUNC_4
+raw_spin_lock,FUNC_5
+raw_spin_unlock,FUNC_6
+vgic_flush_lr_state,FUNC_7
+vgic_restore_state,FUNC_8
+vgic_supports_direct_msis,FUNC_9
+vgic_v4_flush_hwstate,FUNC_10
+kvm_vgic_flush_hwstate,FUNC_11
+vcpu,VAR_0

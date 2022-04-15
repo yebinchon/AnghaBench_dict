@@ -1,0 +1,12 @@
+IDA_DEVICEID_DEC_SMART,VAR_0
+IDA_DEVICEID_NCR_53C1510,VAR_1
+IDA_DEVICEID_SMART,VAR_2
+board_id,VAR_3
+pci_get_devid,FUNC_0
+pci_get_subdevice,FUNC_1
+pci_get_subvendor,FUNC_2
+ida_pci_match,FUNC_3
+dev,VAR_4
+i,VAR_5
+id,VAR_6
+sub_id,VAR_7

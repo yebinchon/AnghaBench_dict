@@ -1,0 +1,15 @@
+NFS4CLNT_CHECK_LEASE,VAR_0
+NFS4CLNT_LEASE_EXPIRED,VAR_1
+NFS4CLNT_RECLAIM_NOGRACE,VAR_2
+NFS4CLNT_RECLAIM_REBOOT,VAR_3
+NFS4CLNT_SERVER_SCOPE_MISMATCH,VAR_4
+clear_bit,FUNC_0
+nfs4_establish_lease,FUNC_1
+nfs4_handle_reclaim_lease_error,FUNC_2
+nfs4_state_start_reclaim_nograce,FUNC_3
+set_bit,FUNC_4
+test_and_clear_bit,FUNC_5
+test_bit,FUNC_6
+nfs4_reclaim_lease,FUNC_7
+clp,VAR_5
+status,VAR_6

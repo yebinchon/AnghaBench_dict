@@ -1,0 +1,17 @@
+CLOCK_MONOTONIC,VAR_0
+CLOCK_REALTIME,VAR_1
+TEST_ASSERT,FUNC_0
+TEST_ASSERT_EQUAL_INT,FUNC_1
+TEST_ASSERT_INT_WITHIN,FUNC_2
+TEST_ASSERT_MESSAGE,FUNC_3
+clock_getres,FUNC_4
+clock_gettime,FUNC_5
+clock_settime,FUNC_6
+esp_clk_rtc_time,FUNC_7
+esp_timer_get_time,FUNC_8
+gettimeofday,FUNC_9
+printf,FUNC_10
+rtc_clk_slow_freq_get_hz,FUNC_11
+settimeofday,FUNC_12
+test_posix_timers_clock,FUNC_13
+ts,VAR_2

@@ -1,0 +1,11 @@
+REG_SD_STAT1,VAR_0
+SD_BUSY,VAR_1
+SD_DAT0_STATUS,VAR_2
+STATUS_FAIL,VAR_3
+STATUS_SUCCESS,VAR_4
+rtsx_read_register,FUNC_0
+sd_set_err_code,FUNC_1
+sd_check_data0_status,FUNC_2
+chip,VAR_5
+retval,VAR_6
+stat,VAR_7

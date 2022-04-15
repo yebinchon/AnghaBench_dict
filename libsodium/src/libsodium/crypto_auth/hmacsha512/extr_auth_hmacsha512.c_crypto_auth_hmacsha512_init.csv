@@ -1,0 +1,12 @@
+crypto_hash_sha512_final,FUNC_0
+crypto_hash_sha512_init,FUNC_1
+crypto_hash_sha512_update,FUNC_2
+memset,FUNC_3
+sodium_memzero,FUNC_4
+crypto_auth_hmacsha512_init,FUNC_5
+state,VAR_0
+key,VAR_1
+keylen,VAR_2
+pad,VAR_3
+khash,VAR_4
+i,VAR_5

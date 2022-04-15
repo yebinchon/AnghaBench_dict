@@ -1,0 +1,16 @@
+CMD_802_11_RESET,VAR_0
+CMD_TYPE_REQUEST,VAR_1
+LBS_DEB_USB,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+if_usb_reset_olpc_card,FUNC_2
+lbs_deb_enter,FUNC_3
+lbs_deb_leave_args,FUNC_4
+machine_is_olpc,FUNC_5
+msleep,FUNC_6
+usb_reset_device,FUNC_7
+usb_tx_block,FUNC_8
+if_usb_reset_device,FUNC_9
+cardp,VAR_3
+cmd,VAR_4
+ret,VAR_5

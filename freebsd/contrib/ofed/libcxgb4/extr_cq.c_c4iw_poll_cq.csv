@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+ENODATA,VAR_1
+c4iw_flush_qps,FUNC_0
+c4iw_poll_cq_one,FUNC_1
+pthread_spin_lock,FUNC_2
+pthread_spin_unlock,FUNC_3
+t4_cq_in_error,FUNC_4
+t4_cq_notempty,FUNC_5
+t4_reset_cq_in_error,FUNC_6
+to_c4iw_cq,FUNC_7
+c4iw_poll_cq,FUNC_8
+ibcq,VAR_2
+num_entries,VAR_3
+wc,VAR_4
+chp,VAR_5
+npolled,VAR_6
+err,VAR_7

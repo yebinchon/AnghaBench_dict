@@ -1,0 +1,13 @@
+ZYNQMP_DMA_IRQ_DST_ACCT,VAR_0
+readl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+zynqmp_dma_chan_desc_cleanup,FUNC_3
+zynqmp_dma_complete_descriptor,FUNC_4
+zynqmp_dma_reset,FUNC_5
+zynqmp_dma_start_transfer,FUNC_6
+zynqmp_dma_do_tasklet,FUNC_7
+data,VAR_1
+chan,VAR_2
+count,VAR_3
+irqflags,VAR_4

@@ -1,0 +1,17 @@
+PAM_CONV,VAR_0
+PAM_DELETE_CRED,VAR_1
+PAM_SILENT,VAR_2
+debug,FUNC_0
+mm_is_monitor,FUNC_1
+null_conv,VAR_3
+pam_close_session,FUNC_2
+pam_end,FUNC_3
+pam_set_item,FUNC_4
+pam_setcred,FUNC_5
+sshpam_authenticated,VAR_4
+sshpam_cred_established,VAR_5
+sshpam_err,VAR_6
+sshpam_handle,VAR_7
+sshpam_session_open,VAR_8
+use_privsep,VAR_9
+sshpam_cleanup,FUNC_6

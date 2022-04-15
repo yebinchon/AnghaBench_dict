@@ -1,0 +1,17 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_STRING,VAR_1
+M_CLOCK,VAR_2
+M_WAITOK,VAR_3
+M_ZERO,VAR_4
+OID_AUTO,VAR_5
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+TAILQ_INIT,FUNC_2
+clkdom_sysctl,VAR_6
+clknode_default_ofw_map,VAR_7
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+malloc,FUNC_5
+clkdom_create,FUNC_6
+dev,VAR_8
+clkdom,VAR_9

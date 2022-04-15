@@ -1,0 +1,12 @@
+console_get_image,FUNC_0
+console_refresh,FUNC_1
+htons,FUNC_2
+rfb_send_resize_update_msg,FUNC_3
+rfb_send_screen,FUNC_4
+stream_read,FUNC_5
+rfb_recv_update_msg,FUNC_6
+rc,VAR_0
+cfd,VAR_1
+discardonly,VAR_2
+updt_msg,VAR_3
+gc_image,VAR_4

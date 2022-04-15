@@ -1,0 +1,9 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+HDA_PINCFG_HEADSET_MIC,VAR_1
+alc255_set_default_jack_type,FUNC_0
+alc_fixup_headset_mode,FUNC_1
+alc_fixup_headset_mode_alc255_no_hp_mic,FUNC_2
+codec,VAR_2
+fix,VAR_3
+action,VAR_4
+spec,VAR_5

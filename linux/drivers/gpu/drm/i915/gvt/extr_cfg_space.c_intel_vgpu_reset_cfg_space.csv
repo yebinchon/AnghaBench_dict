@@ -1,0 +1,12 @@
+INTEL_GVT_PCI_CLASS_VGA_OTHER,VAR_0
+PCI_CLASS_DEVICE,VAR_1
+PCI_COMMAND,VAR_2
+PCI_COMMAND_MEMORY,VAR_3
+intel_vgpu_init_cfg_space,FUNC_0
+map_aperture,FUNC_1
+trap_gttmmio,FUNC_2
+vgpu_cfg_space,FUNC_3
+intel_vgpu_reset_cfg_space,FUNC_4
+vgpu,VAR_4
+cmd,VAR_5
+primary,VAR_6

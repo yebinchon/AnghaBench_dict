@@ -1,0 +1,14 @@
+US_TO_NS,FUNC_0
+WBCIR_REG_SP3_LSR,VAR_0
+WBCIR_REG_SP3_RXDATA,VAR_1
+WBCIR_RXSTATE_ERROR,VAR_2
+WBCIR_RX_AVAIL,VAR_3
+inb,FUNC_1
+ir_raw_event_handle,FUNC_2
+ir_raw_event_store_with_filter,FUNC_3
+wbcir_irq_rx,FUNC_4
+data,VAR_4
+device,VAR_5
+irdata,VAR_6
+rawir,VAR_7
+duration,VAR_8

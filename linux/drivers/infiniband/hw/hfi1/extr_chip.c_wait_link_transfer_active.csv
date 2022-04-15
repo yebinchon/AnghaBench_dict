@@ -1,0 +1,13 @@
+DC_LCB_STS_LINK_TRANSFER_ACTIVE,VAR_0
+ETIMEDOUT,VAR_1
+dd_dev_err,FUNC_0
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_1
+read_csr,FUNC_2
+time_after,FUNC_3
+udelay,FUNC_4
+wait_link_transfer_active,FUNC_5
+dd,VAR_3
+wait_ms,VAR_4
+reg,VAR_5
+timeout,VAR_6

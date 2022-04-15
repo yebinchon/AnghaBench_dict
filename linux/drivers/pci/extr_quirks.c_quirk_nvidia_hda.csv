@@ -1,0 +1,11 @@
+BIT,FUNC_0
+PCI_DEVICE_ID_NVIDIA_GEFORCE_320M,VAR_0
+PCI_HEADER_TYPE,VAR_1
+pci_info,FUNC_1
+pci_read_config_byte,FUNC_2
+pci_read_config_dword,FUNC_3
+pci_write_config_dword,FUNC_4
+quirk_nvidia_hda,FUNC_5
+gpu,VAR_2
+hdr_type,VAR_3
+val,VAR_4

@@ -1,0 +1,9 @@
+HDA_FIXUP_ACT_BUILD,VAR_0
+cs4208_spdif_sw_put,VAR_1
+snd_hda_find_mixer_ctl,FUNC_0
+cs4208_fixup_spdif_switch,FUNC_1
+codec,VAR_2
+fix,VAR_3
+action,VAR_4
+spec,VAR_5
+kctl,VAR_6

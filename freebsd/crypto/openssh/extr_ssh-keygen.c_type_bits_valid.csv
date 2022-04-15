@@ -1,0 +1,16 @@
+DEFAULT_BITS,VAR_0
+DEFAULT_BITS_DSA,VAR_1
+DEFAULT_BITS_ECDSA,VAR_2
+KEY_UNSPEC,VAR_3
+OPENSSL_DSA_MAX_MODULUS_BITS,VAR_4
+OPENSSL_RSA_MAX_MODULUS_BITS,VAR_5
+SSH_RSA_MINIMUM_MODULUS_SIZE,VAR_6
+fatal,FUNC_0
+key_type_name,VAR_7
+sshkey_curve_nid_to_bits,FUNC_1
+sshkey_ecdsa_bits_to_nid,FUNC_2
+sshkey_ecdsa_nid_from_name,FUNC_3
+type_bits_valid,FUNC_4
+type,VAR_8
+name,VAR_9
+bitsp,VAR_10

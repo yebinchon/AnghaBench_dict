@@ -1,0 +1,15 @@
+APIC_DELMODE_FIXED,VAR_0
+APIC_DELMODE_LOWPRIO,VAR_1
+CPU_ISSET,FUNC_0
+KASSERT,FUNC_1
+VLAPIC_CTR1,FUNC_2
+vlapic_calcdest,FUNC_3
+vlapic_set_tmr,FUNC_4
+vlapic_set_tmr_level,FUNC_5
+vlapic,VAR_2
+dest,VAR_3
+phys,VAR_4
+delmode,VAR_5
+vector,VAR_6
+dmask,VAR_7
+lowprio,VAR_8

@@ -1,0 +1,12 @@
+FC_CAN_QUEUE_PERIOD,VAR_0
+fc_get_scsi_internal,FUNC_0
+jiffies,VAR_1
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+time_before,FUNC_3
+fc_fcp_can_queue_ramp_down,FUNC_4
+lport,VAR_2
+si,VAR_3
+flags,VAR_4
+can_queue,VAR_5
+changed,VAR_6

@@ -1,0 +1,12 @@
+Assert,FUNC_0
+GetMemoryChunkContext,FUNC_1
+MemoryContextAlloc,FUNC_2
+VALGRIND_MAKE_MEM_NOACCESS,FUNC_3
+memcpy,FUNC_4
+pfree,FUNC_5
+repalloc,FUNC_6
+wipe_mem,FUNC_7
+enlarge_list,FUNC_8
+list,VAR_0
+min_size,VAR_1
+new_max_len,VAR_2

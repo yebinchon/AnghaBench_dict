@@ -1,0 +1,16 @@
+SSBI_REG_ADDR_IRQ_ROOT,VAR_0
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+irq_desc_get_chip,FUNC_2
+irq_desc_get_handler_data,FUNC_3
+pm8xxx_irq_master_handler,FUNC_4
+pr_err,FUNC_5
+regmap_read,FUNC_6
+pm8xxx_irq_handler,FUNC_7
+desc,VAR_1
+chip,VAR_2
+irq_chip,VAR_3
+root,VAR_4
+i,VAR_5
+ret,VAR_6
+masters,VAR_7

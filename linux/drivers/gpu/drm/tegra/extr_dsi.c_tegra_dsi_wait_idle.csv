@@ -1,0 +1,12 @@
+DSI_STATUS,VAR_0
+DSI_STATUS_IDLE,VAR_1
+ETIMEDOUT,VAR_2
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_0
+tegra_dsi_readl,FUNC_1
+time_before,FUNC_2
+usleep_range,FUNC_3
+tegra_dsi_wait_idle,FUNC_4
+dsi,VAR_4
+timeout,VAR_5
+value,VAR_6

@@ -1,0 +1,15 @@
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+ov5675_start_streaming,FUNC_2
+ov5675_stop_streaming,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+to_ov5675,FUNC_7
+v4l2_get_subdevdata,FUNC_8
+ov5675_set_stream,FUNC_9
+sd,VAR_0
+enable,VAR_1
+ov5675,VAR_2
+client,VAR_3
+ret,VAR_4

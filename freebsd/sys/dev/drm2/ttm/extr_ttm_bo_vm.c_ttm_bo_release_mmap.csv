@@ -1,0 +1,13 @@
+VM_ALLOC_WAITFAIL,VAR_0
+VM_OBJECT_WLOCK,FUNC_0
+VM_OBJECT_WUNLOCK,FUNC_1
+cdev_pager_free_page,FUNC_2
+cdev_pager_lookup,FUNC_3
+vm_object_deallocate,FUNC_4
+vm_page_busy_acquire,FUNC_5
+vm_page_lookup,FUNC_6
+ttm_bo_release_mmap,FUNC_7
+bo,VAR_1
+vm_obj,VAR_2
+m,VAR_3
+i,VAR_4

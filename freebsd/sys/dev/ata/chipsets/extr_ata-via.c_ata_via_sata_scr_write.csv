@@ -1,0 +1,14 @@
+ATA_SC_DET_DISABLE,VAR_0
+ATA_SC_DET_RESET,VAR_1
+ATA_SC_IPM_DIS_PARTIAL,VAR_2
+ATA_SC_IPM_DIS_SLUMBER,VAR_3
+EINVAL,VAR_4
+device_get_parent,FUNC_0
+pci_write_config,FUNC_1
+ata_via_sata_scr_write,FUNC_2
+dev,VAR_5
+port,VAR_6
+reg,VAR_7
+value,VAR_8
+parent,VAR_9
+val,VAR_10

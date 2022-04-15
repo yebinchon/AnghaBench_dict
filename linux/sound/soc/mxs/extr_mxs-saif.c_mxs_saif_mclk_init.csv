@@ -1,0 +1,17 @@
+BP_SAIF_CTRL_BITCLK_MULT_RATE,VAR_0
+EEXIST,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+SAIF_CTRL,VAR_2
+__clk_get_name,FUNC_2
+clk_register_divider,FUNC_3
+dev_err,FUNC_4
+of_clk_add_provider,FUNC_5
+of_clk_src_simple_get,VAR_3
+platform_get_drvdata,FUNC_6
+mxs_saif_mclk_init,FUNC_7
+pdev,VAR_4
+saif,VAR_5
+np,VAR_6
+clk,VAR_7
+ret,VAR_8

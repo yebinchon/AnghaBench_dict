@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+EOPNOTSUPP,VAR_2
+cfg80211_reg_can_beacon,FUNC_0
+cfg80211_set_mesh_channel,FUNC_1
+cfg80211_set_monitor_channel,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+nl80211_can_set_dev_channel,FUNC_5
+nl80211_parse_chandef,FUNC_6
+__nl80211_set_channel,FUNC_7
+rdev,VAR_3
+wdev,VAR_4
+info,VAR_5
+chandef,VAR_6
+result,VAR_7
+iftype,VAR_8

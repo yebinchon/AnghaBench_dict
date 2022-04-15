@@ -1,0 +1,16 @@
+EXIT_REASON_EPT_MISCONFIG,VAR_0
+VMCS_GUEST_PHYSICAL_ADDRESS,VAR_1
+VMCS_IDENT,FUNC_0
+VMEXIT_ABORT,VAR_2
+ept_misconfig_gpa,VAR_3
+ept_misconfig_pte,VAR_4
+ept_misconfig_ptenum,VAR_5
+fprintf,FUNC_1
+stderr,VAR_6
+vm_get_gpa_pmap,FUNC_2
+vm_get_register,FUNC_3
+vmexit_vmx_desc,FUNC_4
+vmexit_vmx,FUNC_5
+ctx,VAR_7
+vmexit,VAR_8
+pvcpu,VAR_9

@@ -1,0 +1,11 @@
+SYSMODE_PREFIX_ADDR,VAR_0
+decode_rh_long_register,FUNC_0
+decode_rh_word_register,FUNC_1
+decode_rl_address,FUNC_2
+fetch_decode_modrm,FUNC_3
+x86emu_halt_sys,FUNC_4
+x86emuOp_lea_word_R_M,FUNC_5
+emu,VAR_1
+destoffset,VAR_2
+srcreg,VAR_3
+srcreg,VAR_4

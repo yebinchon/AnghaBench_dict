@@ -1,0 +1,14 @@
+BIO_clear_retry_flags,FUNC_0
+BIO_get_data,FUNC_1
+BIO_set_retry_write,FUNC_2
+EVUTIL_ASSERT,FUNC_3
+bufferevent_get_output,FUNC_4
+evbuffer_add,FUNC_5
+evbuffer_get_length,FUNC_6
+bio_bufferevent_write,FUNC_7
+b,VAR_0
+in,VAR_1
+inlen,VAR_2
+bufev,VAR_3
+output,VAR_4
+outlen,VAR_5

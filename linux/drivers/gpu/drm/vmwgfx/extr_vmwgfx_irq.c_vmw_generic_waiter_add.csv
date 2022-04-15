@@ -1,0 +1,10 @@
+SVGA_REG_IRQMASK,VAR_0
+VMWGFX_IRQSTATUS_PORT,VAR_1
+outl,FUNC_0
+spin_lock_bh,FUNC_1
+spin_unlock_bh,FUNC_2
+vmw_write,FUNC_3
+vmw_generic_waiter_add,FUNC_4
+dev_priv,VAR_2
+flag,VAR_3
+waiter_count,VAR_4

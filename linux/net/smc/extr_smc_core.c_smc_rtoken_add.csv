@@ -1,0 +1,13 @@
+SMC_RMBS_PER_LGR_MAX,VAR_0
+SMC_SINGLE_LINK,VAR_1
+be64_to_cpu,FUNC_0
+ntohl,FUNC_1
+smc_rmb_reserve_rtoken_idx,FUNC_2
+test_bit,FUNC_3
+smc_rtoken_add,FUNC_4
+lgr,VAR_2
+nw_vaddr,VAR_3
+nw_rkey,VAR_4
+dma_addr,VAR_5
+rkey,VAR_6
+i,VAR_7

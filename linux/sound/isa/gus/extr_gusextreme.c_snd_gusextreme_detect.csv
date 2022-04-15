@@ -1,0 +1,17 @@
+EIO,VAR_0
+ES1688P,FUNC_0
+INIT1,VAR_1
+SNDRV_GF1_GB_RESET,VAR_2
+outb,FUNC_1
+snd_es1688_mixer_write,FUNC_2
+snd_gf1_i_look8,FUNC_3
+snd_gf1_i_write8,FUNC_4
+snd_printdd,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+udelay,FUNC_8
+snd_gusextreme_detect,FUNC_9
+gus,VAR_3
+es1688,VAR_4
+flags,VAR_5
+d,VAR_6

@@ -1,0 +1,17 @@
+DEBUG_HVSC,FUNC_0
+VMBUS_CHANPKT_CONST_DATA,FUNC_1
+VMBUS_CHANPKT_DATALEN,FUNC_2
+device_printf,FUNC_3
+hv_kbd_intr,FUNC_4
+hv_kbd_on_response,FUNC_5
+hv_kbd_produce_ks,FUNC_6
+hv_kbd_on_received,FUNC_7
+sc,VAR_0
+pkt,VAR_1
+msg,VAR_2
+resp,VAR_3
+keystroke,VAR_4
+msg_len,VAR_5
+msg_type,VAR_6
+info,VAR_7
+scan_code,VAR_8

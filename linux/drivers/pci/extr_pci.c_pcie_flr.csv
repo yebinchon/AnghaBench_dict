@@ -1,0 +1,10 @@
+PCIE_RESET_READY_POLL_MS,VAR_0
+PCI_EXP_DEVCTL,VAR_1
+PCI_EXP_DEVCTL_BCR_FLR,VAR_2
+msleep,FUNC_0
+pci_dev_wait,FUNC_1
+pci_err,FUNC_2
+pci_wait_for_pending_transaction,FUNC_3
+pcie_capability_set_word,FUNC_4
+pcie_flr,FUNC_5
+dev,VAR_3

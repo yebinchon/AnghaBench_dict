@@ -1,0 +1,12 @@
+FALSE,VAR_0
+IoAcquireCancelSpinLock,FUNC_0
+IoGetCurrentIrpStackLocation,FUNC_1
+IoReleaseCancelSpinLock,FUNC_2
+IoSetCancelRoutine,FUNC_3
+IoSetCancelValue,FUNC_4
+MSCALL2,FUNC_5
+TRUE,VAR_1
+IoCancelIrp,FUNC_6
+ip,VAR_2
+cfunc,VAR_3
+cancelirql,VAR_4

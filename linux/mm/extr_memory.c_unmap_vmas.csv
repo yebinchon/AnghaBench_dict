@@ -1,0 +1,11 @@
+MMU_NOTIFY_UNMAP,VAR_0
+mmu_notifier_invalidate_range_end,FUNC_0
+mmu_notifier_invalidate_range_start,FUNC_1
+mmu_notifier_range_init,FUNC_2
+unmap_single_vma,FUNC_3
+unmap_vmas,FUNC_4
+tlb,VAR_1
+vma,VAR_2
+start_addr,VAR_3
+end_addr,VAR_4
+range,VAR_5

@@ -1,0 +1,14 @@
+IPMI_LAN_ADDR_TYPE,VAR_0
+IPMI_RESPONSE_RECV_TYPE,VAR_1
+deliver_response,FUNC_0
+handled_lan_responses,VAR_2
+intf_find_seq,FUNC_1
+invalid_lan_responses,VAR_3
+ipmi_inc_stat,FUNC_2
+memcpy,FUNC_3
+unhandled_lan_responses,VAR_4
+handle_lan_get_msg_rsp,FUNC_4
+intf,VAR_5
+msg,VAR_6
+lan_addr,VAR_7
+recv_msg,VAR_8

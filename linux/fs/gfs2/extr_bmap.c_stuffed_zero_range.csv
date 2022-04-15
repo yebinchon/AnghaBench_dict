@@ -1,0 +1,12 @@
+GFS2_I,FUNC_0
+brelse,FUNC_1
+gfs2_meta_inode_buffer,FUNC_2
+gfs2_trans_add_meta,FUNC_3
+memset,FUNC_4
+stuffed_zero_range,FUNC_5
+inode,VAR_0
+offset,VAR_1
+length,VAR_2
+ip,VAR_3
+dibh,VAR_4
+error,VAR_5

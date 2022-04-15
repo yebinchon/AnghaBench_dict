@@ -1,0 +1,16 @@
+INQUIRY,VAR_0
+MODE_SENSE,VAR_1
+SRB_STATUS_AUTOSENSE_VALID,VAR_2
+SRB_STATUS_SUCCESS,VAR_3
+STORVSC_LOGGING_WARN,VAR_4
+atomic_dec_and_test,FUNC_0
+memcpy,FUNC_1
+storvsc_command_completion,FUNC_2
+storvsc_log,FUNC_3
+wake_up,FUNC_4
+storvsc_on_io_completion,FUNC_5
+stor_device,VAR_5
+vstor_packet,VAR_6
+request,VAR_7
+stor_pkt,VAR_8
+device,VAR_9

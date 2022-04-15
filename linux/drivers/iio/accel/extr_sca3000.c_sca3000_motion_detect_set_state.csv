@@ -1,0 +1,17 @@
+SCA3000_REG_CTRL_SEL_MD_CTRL,VAR_0
+SCA3000_REG_MODE_ADDR,VAR_1
+SCA3000_REG_MODE_MEAS_MODE_MOT_DET,VAR_2
+SCA3000_REG_MODE_MODE_MASK,VAR_3
+iio_priv,FUNC_0
+sca3000_addresses,VAR_4
+sca3000_read_ctrl_reg,FUNC_1
+sca3000_read_data_short,FUNC_2
+sca3000_write_ctrl_reg,FUNC_3
+sca3000_write_reg,FUNC_4
+sca3000_motion_detect_set_state,FUNC_5
+indio_dev,VAR_5
+axis,VAR_6
+state,VAR_7
+st,VAR_8
+ret,VAR_9
+ctrlval,VAR_10

@@ -1,0 +1,16 @@
+VOUT_SPU_CHANNEL_OSD,VAR_0
+luaL_checkinteger,FUNC_0
+luaL_checkstring,FUNC_1
+luaL_error,FUNC_2
+luaL_optinteger,FUNC_3
+vlc_osd_slider_type_from_string,FUNC_4
+vlclua_get_vout_internal,FUNC_5
+vout_OSDSlider,FUNC_6
+vout_Release,FUNC_7
+vlclua_osd_slider,FUNC_8
+L,VAR_1
+i_position,VAR_2
+psz_type,VAR_3
+i_type,VAR_4
+i_chan,VAR_5
+p_vout,VAR_6

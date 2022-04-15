@@ -1,0 +1,17 @@
+macb_free_consistent,FUNC_0
+macb_reset_hw,FUNC_1
+napi_disable,FUNC_2
+netdev_priv,FUNC_3
+netif_carrier_off,FUNC_4
+netif_tx_stop_all_queues,FUNC_5
+phy_stop,FUNC_6
+pm_runtime_put,FUNC_7
+spin_lock_irqsave,FUNC_8
+spin_unlock_irqrestore,FUNC_9
+stub1,FUNC_10
+macb_close,FUNC_11
+dev,VAR_0
+bp,VAR_1
+queue,VAR_2
+flags,VAR_3
+q,VAR_4

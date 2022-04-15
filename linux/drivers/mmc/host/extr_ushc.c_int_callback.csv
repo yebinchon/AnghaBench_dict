@@ -1,0 +1,17 @@
+GFP_ATOMIC,VAR_0
+IGNORE_NEXT_INT,VAR_1
+INT_EN,VAR_2
+USHC_INT_STATUS_CARD_PRESENT,VAR_3
+USHC_INT_STATUS_SDIO_INT,VAR_4
+mmc_detect_change,FUNC_0
+mmc_signal_sdio_irq,FUNC_1
+msecs_to_jiffies,FUNC_2
+set_bit,FUNC_3
+test_and_clear_bit,FUNC_4
+test_bit,FUNC_5
+usb_submit_urb,FUNC_6
+int_callback,FUNC_7
+urb,VAR_5
+ushc,VAR_6
+status,VAR_7
+last_status,VAR_8

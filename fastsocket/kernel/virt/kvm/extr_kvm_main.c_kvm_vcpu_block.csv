@@ -1,0 +1,16 @@
+DEFINE_WAIT,FUNC_0
+KVM_REQ_UNHALT,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+current,VAR_2
+finish_wait,FUNC_1
+kvm_arch_vcpu_runnable,FUNC_2
+kvm_cpu_has_pending_timer,FUNC_3
+prepare_to_wait,FUNC_4
+schedule,FUNC_5
+set_bit,FUNC_6
+signal_pending,FUNC_7
+vcpu_load,FUNC_8
+vcpu_put,FUNC_9
+wait,VAR_3
+kvm_vcpu_block,FUNC_10
+vcpu,VAR_4

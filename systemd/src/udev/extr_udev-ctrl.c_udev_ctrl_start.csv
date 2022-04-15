@@ -1,0 +1,12 @@
+EPOLLIN,VAR_0
+assert,FUNC_0
+sd_event_add_io,FUNC_1
+sd_event_source_set_description,FUNC_2
+udev_ctrl_attach_event,FUNC_3
+udev_ctrl_enable_receiving,FUNC_4
+udev_ctrl_event_handler,VAR_1
+udev_ctrl_start,FUNC_5
+uctrl,VAR_2
+callback,VAR_3
+userdata,VAR_4
+r,VAR_5

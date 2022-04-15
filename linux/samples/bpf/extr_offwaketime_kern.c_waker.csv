@@ -1,0 +1,14 @@
+BPF_ANY,VAR_0
+PT_REGS_PARM1,FUNC_0
+STACKID_FLAGS,VAR_1
+_,FUNC_1
+bpf_get_current_comm,FUNC_2
+bpf_get_stackid,FUNC_3
+bpf_map_update_elem,FUNC_4
+stackmap,VAR_2
+wokeby,VAR_3
+waker,FUNC_5
+ctx,VAR_4
+p,VAR_5
+woke,VAR_6
+pid,VAR_7

@@ -1,0 +1,14 @@
+VALID_EVTCHN,FUNC_0
+clear_evtchn,FUNC_1
+evtchn_from_irq,FUNC_2
+irq_move_masked_irq,FUNC_3
+irqd_irq_disabled,FUNC_4
+irqd_is_setaffinity_pending,FUNC_5
+likely,FUNC_6
+test_and_set_mask,FUNC_7
+unlikely,FUNC_8
+unmask_evtchn,FUNC_9
+ack_dynirq,FUNC_10
+data,VAR_0
+evtchn,VAR_1
+masked,VAR_2

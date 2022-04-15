@@ -1,0 +1,15 @@
+NETVSC_RECEIVE_BUFFER_ID,VAR_0
+NVSP_MSG1_TYPE_REVOKE_RECV_BUF,VAR_1
+VM_PKT_DATA_INBAND,VAR_2
+free_pages,FUNC_0
+get_order,FUNC_1
+kfree,FUNC_2
+memset,FUNC_3
+netdev_err,FUNC_4
+vmbus_sendpacket,FUNC_5
+vmbus_teardown_gpadl,FUNC_6
+netvsc_destroy_recv_buf,FUNC_7
+net_device,VAR_3
+revoke_packet,VAR_4
+ret,VAR_5
+ndev,VAR_6

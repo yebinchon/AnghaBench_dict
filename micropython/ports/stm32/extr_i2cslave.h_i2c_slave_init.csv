@@ -1,0 +1,14 @@
+I2C1_BASE,VAR_0
+I2C2_BASE,VAR_1
+NVIC_EnableIRQ,FUNC_0
+NVIC_SetPriority,FUNC_1
+RCC,VAR_2
+RCC_APB1ENR_I2C1EN_Pos,VAR_3
+RCC_APB1LENR_I2C1EN_Pos,VAR_4
+i2c_slave_init_helper,FUNC_2
+i2c_slave_init,FUNC_3
+i2c,VAR_5
+irqn,VAR_6
+irq_pri,VAR_7
+addr,VAR_8
+i2c_idx,VAR_9

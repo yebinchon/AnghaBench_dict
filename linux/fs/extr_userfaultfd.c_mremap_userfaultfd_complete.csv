@@ -1,0 +1,12 @@
+PAGE_MASK,VAR_0
+UFFD_EVENT_REMAP,VAR_1
+msg_init,FUNC_0
+userfaultfd_ctx_put,FUNC_1
+userfaultfd_event_wait_completion,FUNC_2
+mremap_userfaultfd_complete,FUNC_3
+vm_ctx,VAR_2
+from,VAR_3
+to,VAR_4
+len,VAR_5
+ctx,VAR_6
+ewq,VAR_7

@@ -1,0 +1,14 @@
+EP0_IDLE,VAR_0
+EP0_IN_DATA_PHASE_SETUP,VAR_1
+EP0_OUT_DATA_PHASE_SETUP,VAR_2
+EP0_REQUEUE,VAR_3
+USB_DIR_IN,VAR_4
+bcm63xx_ep0_read_complete,FUNC_0
+bcm63xx_ep0_setup_callback,FUNC_1
+bcm63xx_set_stall,FUNC_2
+dev_err,FUNC_3
+dev_warn_ratelimited,FUNC_4
+bcm63xx_ep0_do_setup,FUNC_5
+udc,VAR_5
+rc,VAR_6
+ctrl,VAR_7

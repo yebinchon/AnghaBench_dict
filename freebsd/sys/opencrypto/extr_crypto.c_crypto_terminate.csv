@@ -1,0 +1,14 @@
+CRYPTO_DRIVER_LOCK,FUNC_0
+CRYPTO_DRIVER_UNLOCK,FUNC_1
+MA_OWNED,VAR_0
+PROC_LOCK,FUNC_2
+PROC_UNLOCK,FUNC_3
+PWAIT,VAR_1
+crypto_drivers_mtx,VAR_2
+msleep,FUNC_4
+mtx_assert,FUNC_5
+wakeup_one,FUNC_6
+crypto_terminate,FUNC_7
+pp,VAR_3
+q,VAR_4
+p,VAR_5

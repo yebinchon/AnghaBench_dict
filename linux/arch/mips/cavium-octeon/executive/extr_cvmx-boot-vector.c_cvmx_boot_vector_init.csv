@@ -1,0 +1,14 @@
+CVMX_MIO_BOOT_LOC_ADR,VAR_0
+CVMX_MIO_BOOT_LOC_CFGX,FUNC_0
+CVMX_MIO_BOOT_LOC_DAT,VAR_1
+OCTEON_IS_OCTEON1PLUS,FUNC_1
+VECTOR_TABLE_SIZE,VAR_2
+_cvmx_bootvector_data,VAR_3
+cvmx_ptr_to_phys,FUNC_2
+cvmx_write_csr,FUNC_3
+memset,FUNC_4
+cvmx_boot_vector_init,FUNC_5
+mem,VAR_4
+kseg0_mem,VAR_5
+i,VAR_6
+v,VAR_7

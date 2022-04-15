@@ -1,0 +1,10 @@
+INTEN,VAR_0
+mddi_writel,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+wait_event_timeout,FUNC_3
+mddi_wait_interrupt_timeout,FUNC_4
+mddi,VAR_1
+intmask,VAR_2
+timeout,VAR_3
+irq_flags,VAR_4

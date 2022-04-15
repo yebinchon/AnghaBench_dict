@@ -1,0 +1,13 @@
+EBUSY,VAR_0
+ENOTSUP,VAR_1
+IFCAP_WOL_MAGIC,VAR_2
+bnxt_hwrm_alloc_wol_fltr,FUNC_0
+bnxt_hwrm_free_wol_fltr,FUNC_1
+bnxt_wol_supported,FUNC_2
+if_getcapabilities,FUNC_3
+iflib_get_ifp,FUNC_4
+iflib_get_softc,FUNC_5
+bnxt_wol_config,FUNC_6
+ctx,VAR_3
+softc,VAR_4
+ifp,VAR_5

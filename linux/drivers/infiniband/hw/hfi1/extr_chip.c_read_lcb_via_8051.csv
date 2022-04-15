@@ -1,0 +1,15 @@
+DC_LCB_CFG_RUN,VAR_0
+EBUSY,VAR_1
+HCMD_READ_LCB_CSR,VAR_2
+HCMD_SUCCESS,VAR_3
+ICODE_FUNCTIONAL_SIMULATOR,VAR_4
+acquire_lcb_access,FUNC_0
+do_8051_command,FUNC_1
+read_csr,FUNC_2
+release_lcb_access,FUNC_3
+read_lcb_via_8051,FUNC_4
+dd,VAR_5
+addr,VAR_6
+data,VAR_7
+regno,VAR_8
+ret,VAR_9

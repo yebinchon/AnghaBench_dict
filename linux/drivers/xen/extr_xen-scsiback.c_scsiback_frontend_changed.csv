@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+VSCSIBACK_OP_ADD_OR_DEL_LUN,VAR_1
+VSCSIBACK_OP_UPDATEDEV_STATE,VAR_2
+XenbusStateReconfigured,VAR_3
+dev_get_drvdata,FUNC_0
+device_unregister,FUNC_1
+scsiback_disconnect,FUNC_2
+scsiback_do_lun_hotplug,FUNC_3
+scsiback_map,FUNC_4
+xenbus_dev_fatal,FUNC_5
+xenbus_dev_is_online,FUNC_6
+xenbus_switch_state,FUNC_7
+scsiback_frontend_changed,FUNC_8
+dev,VAR_4
+frontend_state,VAR_5
+info,VAR_6

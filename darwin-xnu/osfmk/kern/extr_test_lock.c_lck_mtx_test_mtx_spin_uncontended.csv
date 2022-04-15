@@ -1,0 +1,12 @@
+KERN_SUCCESS,VAR_0
+WARMUP_ITER,VAR_1
+disable_all_test_mtx_stats,FUNC_0
+enable_all_test_mtx_stats,FUNC_1
+lck_mtx_test_lock_spin,FUNC_2
+lck_mtx_test_lock_spin_always,FUNC_3
+lck_mtx_test_try_lock_spin,FUNC_4
+lck_mtx_test_try_lock_spin_always,FUNC_5
+lck_mtx_test_unlock_spin,FUNC_6
+lck_mtx_test_mtx_spin_uncontended,FUNC_7
+iter,VAR_2
+i,VAR_3

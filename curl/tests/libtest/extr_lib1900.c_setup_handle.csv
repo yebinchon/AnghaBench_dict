@@ -1,0 +1,16 @@
+CURLOPT_FAILONERROR,VAR_0
+CURLOPT_URL,VAR_1
+CURLOPT_VERBOSE,VAR_2
+CURLOPT_WRITEDATA,VAR_3
+CURLOPT_WRITEFUNCTION,VAR_4
+curl_easy_setopt,FUNC_0
+curl_multi_add_handle,FUNC_1
+handles,VAR_5
+msnprintf,FUNC_2
+urlstring,VAR_6
+write_callback,VAR_7
+setup_handle,FUNC_3
+base_url,VAR_8
+m,VAR_9
+handlenum,VAR_10
+urlbuf,VAR_11

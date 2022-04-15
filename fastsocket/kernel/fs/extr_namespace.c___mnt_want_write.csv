@@ -1,0 +1,13 @@
+EROFS,VAR_0
+MNT_WRITE_HOLD,VAR_1
+__mnt_is_readonly,FUNC_0
+cpu_relax,FUNC_1
+dec_mnt_writers,FUNC_2
+inc_mnt_writers,FUNC_3
+preempt_disable,FUNC_4
+preempt_enable,FUNC_5
+smp_mb,FUNC_6
+smp_rmb,FUNC_7
+__mnt_want_write,FUNC_8
+mnt,VAR_2
+ret,VAR_3

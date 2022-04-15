@@ -1,0 +1,14 @@
+EAP_CODE_REQUEST,VAR_0
+EAP_VENDOR_ID,VAR_1
+EAP_VENDOR_TYPE,VAR_2
+INIT,VAR_3
+MSG_ERROR,VAR_4
+eap_msg_alloc,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_put_u8,FUNC_2
+eap_vendor_test_buildReq,FUNC_3
+sm,VAR_5
+priv,VAR_6
+id,VAR_7
+data,VAR_8
+req,VAR_9

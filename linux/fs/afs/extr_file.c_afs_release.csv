@@ -1,0 +1,15 @@
+AFS_FS_I,FUNC_0
+FMODE_WRITE,VAR_0
+_enter,FUNC_1
+_leave,FUNC_2
+afs_prune_wb_keys,FUNC_3
+afs_put_wb_key,FUNC_4
+key_put,FUNC_5
+kfree,FUNC_6
+vfs_fsync,FUNC_7
+afs_release,FUNC_8
+inode,VAR_1
+file,VAR_2
+vnode,VAR_3
+af,VAR_4
+ret,VAR_5

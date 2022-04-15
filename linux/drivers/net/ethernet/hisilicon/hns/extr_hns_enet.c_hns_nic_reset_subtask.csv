@@ -1,0 +1,16 @@
+HNAE_PORT_DEBUG,VAR_0
+NIC_STATE2_RESET_REQUESTED,VAR_1
+NIC_STATE_DOWN,VAR_2
+NIC_STATE_REMOVING,VAR_3
+NIC_STATE_RESETTING,VAR_4
+clear_bit,FUNC_0
+hns_nic_dump,FUNC_1
+hns_nic_net_reinit,FUNC_2
+netdev_info,FUNC_3
+netif_trans_update,FUNC_4
+rtnl_lock,FUNC_5
+rtnl_unlock,FUNC_6
+test_bit,FUNC_7
+hns_nic_reset_subtask,FUNC_8
+priv,VAR_5
+type,VAR_6

@@ -1,0 +1,14 @@
+TXBCTRL,FUNC_0
+TXBDAT_OFF,VAR_0
+mcp251x_is_2510,FUNC_1
+mcp251x_spi_trans,FUNC_2
+mcp251x_write_reg,FUNC_3
+memcpy,FUNC_4
+spi_get_drvdata,FUNC_5
+mcp251x_hw_tx_frame,FUNC_6
+spi,VAR_1
+buf,VAR_2
+len,VAR_3
+tx_buf_idx,VAR_4
+priv,VAR_5
+i,VAR_6

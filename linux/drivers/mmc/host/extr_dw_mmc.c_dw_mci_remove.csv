@@ -1,0 +1,13 @@
+CLKENA,VAR_0
+CLKSRC,VAR_1
+INTMASK,VAR_2
+IS_ERR,FUNC_0
+RINTSTS,VAR_3
+clk_disable_unprepare,FUNC_1
+dev_dbg,FUNC_2
+dw_mci_cleanup_slot,FUNC_3
+mci_writel,FUNC_4
+reset_control_assert,FUNC_5
+stub1,FUNC_6
+dw_mci_remove,FUNC_7
+host,VAR_4

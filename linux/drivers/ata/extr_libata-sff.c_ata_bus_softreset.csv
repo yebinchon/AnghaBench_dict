@@ -1,0 +1,10 @@
+ATA_SRST,VAR_0
+DPRINTK,FUNC_0
+ata_sff_wait_after_reset,FUNC_1
+iowrite8,FUNC_2
+udelay,FUNC_3
+ata_bus_softreset,FUNC_4
+ap,VAR_1
+devmask,VAR_2
+deadline,VAR_3
+ioaddr,VAR_4

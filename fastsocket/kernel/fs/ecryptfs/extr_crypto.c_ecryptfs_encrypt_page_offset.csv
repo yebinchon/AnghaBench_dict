@@ -1,0 +1,13 @@
+encrypt_scatterlist,FUNC_0
+sg_init_table,FUNC_1
+sg_set_page,FUNC_2
+ecryptfs_encrypt_page_offset,FUNC_3
+crypt_stat,VAR_0
+dst_page,VAR_1
+dst_offset,VAR_2
+src_page,VAR_3
+src_offset,VAR_4
+size,VAR_5
+iv,VAR_6
+src_sg,VAR_7
+dst_sg,VAR_8

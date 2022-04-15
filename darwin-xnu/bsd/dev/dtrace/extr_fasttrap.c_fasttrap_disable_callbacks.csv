@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+CPU,VAR_0
+dtrace_pid_probe_ptr,VAR_1
+dtrace_return_probe_ptr,VAR_2
+fasttrap_count_mtx,VAR_3
+fasttrap_pid_count,VAR_4
+lck_mtx_lock,FUNC_1
+lck_mtx_unlock,FUNC_2
+lck_rw_lock_exclusive,FUNC_3
+lck_rw_unlock_exclusive,FUNC_4
+fasttrap_disable_callbacks,FUNC_5
+cur,VAR_5
+cpu,VAR_6

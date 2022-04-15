@@ -1,0 +1,12 @@
+TPACPI_HOTKEY_MAP_LEN,VAR_0
+TP_ACPI_HOTKEYSCAN_ADAPTIVE_START,VAR_1
+TP_ACPI_HOTKEYSCAN_EXTENDED_START,VAR_2
+adaptive_keyboard_hotkey_notify_hotkey,FUNC_0
+hotkey_source_mask,VAR_3
+tpacpi_input_send_key,FUNC_1
+tpacpi_input_send_key_masked,FUNC_2
+hotkey_notify_hotkey,FUNC_3
+hkey,VAR_4
+send_acpi_ev,VAR_5
+ignore_acpi_ev,VAR_6
+scancode,VAR_7

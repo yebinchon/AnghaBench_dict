@@ -1,0 +1,14 @@
+ERROR,FUNC_0
+MEM_readLE32,FUNC_1
+RETURN_ERROR_IF,FUNC_2
+ZSTD_FRAMEIDSIZE,VAR_0
+ZSTD_MAGIC_DICTIONARY,VAR_1
+ZSTD_dct_fullDict,VAR_2
+ZSTD_dct_rawContent,VAR_3
+ZSTD_isError,FUNC_3
+ZSTD_loadDEntropy,FUNC_4
+dictionary_corrupted,VAR_4
+ZSTD_loadEntropy_intoDDict,FUNC_5
+ddict,VAR_5
+dictContentType,VAR_6
+magic,VAR_7

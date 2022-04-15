@@ -1,0 +1,16 @@
+ALIGN,FUNC_0
+R600_RING_TYPE_UVD_INDEX,VAR_0
+R600_WB_EVENT_OFFSET,VAR_1
+RADEON_WB_SCRATCH_OFFSET,VAR_2
+atomic64_read,FUNC_1
+dev_err,FUNC_2
+dev_info,FUNC_3
+radeon_fence_write,FUNC_4
+radeon_ring_supports_scratch_reg,FUNC_5
+radeon_scratch_free,FUNC_6
+radeon_scratch_get,FUNC_7
+radeon_fence_driver_start_ring,FUNC_8
+rdev,VAR_3
+ring,VAR_4
+index,VAR_5
+r,VAR_6

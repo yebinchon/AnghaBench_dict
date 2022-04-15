@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+MPI2_CONFIG_PAGETYPE_EXTENDED,VAR_1
+MPI2_IOCSTATUS_BUSY,VAR_2
+MPS_CM_FLAGS_ERROR_MASK,VAR_3
+MPS_FUNCTRACE,FUNC_0
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+mps_free_command,FUNC_3
+stub1,FUNC_4
+mps_config_complete,FUNC_5
+sc,VAR_4
+cm,VAR_5
+reply,VAR_6
+params,VAR_7

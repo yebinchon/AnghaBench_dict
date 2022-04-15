@@ -1,0 +1,15 @@
+CTL_BACKEND_LUN,FUNC_0
+CTL_IO_SCSI,VAR_0
+CTL_RETVAL_COMPLETE,VAR_1
+DPRINTF,FUNC_1
+KASSERT,FUNC_2
+PRIV,FUNC_3
+STAILQ_INSERT_TAIL,FUNC_4
+links,VAR_2
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+taskqueue_enqueue,FUNC_7
+ctl_be_block_submit,FUNC_8
+io,VAR_3
+be_lun,VAR_4
+cbe_lun,VAR_5

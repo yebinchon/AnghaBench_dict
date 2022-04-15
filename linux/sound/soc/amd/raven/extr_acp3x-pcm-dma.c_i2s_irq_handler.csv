@@ -1,0 +1,16 @@
+BIT,FUNC_0
+BT_RX_THRESHOLD,VAR_0
+BT_TX_THRESHOLD,VAR_1
+IRQ_HANDLED,VAR_2
+IRQ_NONE,VAR_3
+mmACP_EXTERNAL_INTR_STAT,VAR_4
+rv_readl,FUNC_1
+rv_writel,FUNC_2
+snd_pcm_period_elapsed,FUNC_3
+i2s_irq_handler,FUNC_4
+irq,VAR_5
+dev_id,VAR_6
+play_flag,VAR_7
+cap_flag,VAR_8
+val,VAR_9
+rv_i2s_data,VAR_10

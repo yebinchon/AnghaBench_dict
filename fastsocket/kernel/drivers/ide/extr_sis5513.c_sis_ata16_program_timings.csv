@@ -1,0 +1,15 @@
+ATA_16,VAR_0
+XFER_MW_DMA_0,VAR_1
+XFER_PIO_0,VAR_2
+chipset_family,VAR_3
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+to_pci_dev,FUNC_2
+sis_ata16_program_timings,FUNC_3
+drive,VAR_4
+mode,VAR_5
+dev,VAR_6
+t1,VAR_7
+drive_pci,VAR_8
+pio_timings,VAR_9
+mwdma_timings,VAR_10

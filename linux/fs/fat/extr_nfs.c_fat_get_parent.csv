@@ -1,0 +1,17 @@
+FAT_NFS_NOSTALE_RO,VAR_0
+MSDOS_SB,FUNC_0
+brelse,FUNC_1
+d_inode,FUNC_2
+d_obtain_alias,FUNC_3
+fat_dget,FUNC_4
+fat_get_dotdot_entry,FUNC_5
+fat_get_start,FUNC_6
+fat_rebuild_parent,FUNC_7
+fat_get_parent,FUNC_8
+child_dir,VAR_1
+sb,VAR_2
+bh,VAR_3
+de,VAR_4
+parent_inode,VAR_5
+sbi,VAR_6
+parent_logstart,VAR_7

@@ -1,0 +1,14 @@
+SNDRV_GF1_PCM_PFLG_ACTIVE,VAR_0
+SNDRV_GF1_VB_VOLUME_CONTROL,VAR_1
+SNDRV_GF1_VW_VOLUME,VAR_2
+snd_gf1_ctrl_stop,FUNC_0
+snd_gf1_select_voice,FUNC_1
+snd_gf1_write16,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+snd_gf1_pcm_interrupt_volume,FUNC_5
+gus,VAR_3
+pvoice,VAR_4
+vol,VAR_5
+cvoice,VAR_6
+pcmp,VAR_7

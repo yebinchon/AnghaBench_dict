@@ -1,0 +1,13 @@
+EEXIST,VAR_0
+current,VAR_1
+flow_dissector_mutex,VAR_2
+lockdep_is_held,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rcu_assign_pointer,FUNC_3
+rcu_dereference_protected,FUNC_4
+skb_flow_dissector_bpf_prog_attach,FUNC_5
+attr,VAR_3
+prog,VAR_4
+attached,VAR_5
+net,VAR_6

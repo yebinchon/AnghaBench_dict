@@ -1,0 +1,17 @@
+DECLARE_WAITQUEUE,FUNC_0
+EAGAIN,VAR_0
+FL_PM_SUSPENDED,VAR_1
+FL_READY,VAR_2
+TASK_UNINTERRUPTIBLE,VAR_3
+add_wait_queue,FUNC_1
+current,VAR_4
+remove_wait_queue,FUNC_2
+schedule,FUNC_3
+set_current_state,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+wait,VAR_5
+onenand_get_device,FUNC_7
+mtd,VAR_6
+new_state,VAR_7
+this,VAR_8

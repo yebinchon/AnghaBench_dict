@@ -1,0 +1,15 @@
+D_PROXY,VAR_0
+MAX_CUSTOM_HTTP_HEADER,VAR_1
+msg,FUNC_0
+openvpn_snprintf,FUNC_1
+send_line_crlf,FUNC_2
+strcasecmp,FUNC_3
+strncasecmp,FUNC_4
+add_proxy_headers,FUNC_5
+p,VAR_2
+sd,VAR_3
+host,VAR_4
+port,VAR_5
+buf,VAR_6
+i,VAR_7
+host_header_sent,VAR_8

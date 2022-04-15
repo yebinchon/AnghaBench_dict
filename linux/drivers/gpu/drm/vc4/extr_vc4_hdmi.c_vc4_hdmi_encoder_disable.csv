@@ -1,0 +1,17 @@
+DRM_ERROR,FUNC_0
+HDMI_WRITE,FUNC_1
+HD_READ,FUNC_2
+HD_WRITE,FUNC_3
+VC4_HDMI_RAM_PACKET_CONFIG,VAR_0
+VC4_HDMI_TX_PHY_RESET_CTL,VAR_1
+VC4_HD_VID_CTL,VAR_2
+VC4_HD_VID_CTL_ENABLE,VAR_3
+clk_disable_unprepare,FUNC_4
+pm_runtime_put,FUNC_5
+to_vc4_dev,FUNC_6
+vc4_hdmi_encoder_disable,FUNC_7
+encoder,VAR_4
+dev,VAR_5
+vc4,VAR_6
+hdmi,VAR_7
+ret,VAR_8

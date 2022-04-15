@@ -1,0 +1,14 @@
+FIFOSZ,VAR_0
+KBD_DISABLE_AUX_PORT,VAR_1
+KBD_TRANSLATION,VAR_2
+assert,FUNC_0
+atkbdc_assert_kbd_intr,FUNC_1
+atkbdc_kbd_queue_data,FUNC_2
+ps2kbd_read,FUNC_3
+ps2mouse_fifocnt,FUNC_4
+pthread_mutex_isowned_np,FUNC_5
+atkbdc_kbd_read,FUNC_6
+sc,VAR_3
+translation,VAR_4
+val,VAR_5
+release,VAR_6

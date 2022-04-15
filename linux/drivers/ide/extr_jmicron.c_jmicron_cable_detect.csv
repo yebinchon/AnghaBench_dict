@@ -1,0 +1,11 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+pci_read_config_dword,FUNC_0
+to_pci_dev,FUNC_1
+jmicron_cable_detect,FUNC_2
+hwif,VAR_2
+pdev,VAR_3
+control,VAR_4
+control5,VAR_5
+port,VAR_6
+port_map,VAR_7

@@ -1,0 +1,13 @@
+HCI_CMND_NVMEM_CREATE_ENTRY,VAR_0
+HEADERS_SIZE_CMD,VAR_1
+NVMEM_CREATE_PARAMS_LEN,VAR_2
+SimpleLinkWaitEvent,FUNC_0
+UINT32_TO_STREAM,FUNC_1
+hci_command_send,FUNC_2
+tSLInformation,VAR_3
+nvmem_create_entry,FUNC_3
+ulFileId,VAR_4
+ulNewLen,VAR_5
+ptr,VAR_6
+args,VAR_7
+retval,VAR_8

@@ -1,0 +1,12 @@
+CLK_GATE_SCU_LPCG_MASK,VAR_0
+imx_lpcg_scu_lock,VAR_1
+readl_relaxed,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_clk_lpcg_scu,FUNC_3
+writel,FUNC_4
+clk_lpcg_scu_disable,FUNC_5
+hw,VAR_2
+clk,VAR_3
+flags,VAR_4
+reg,VAR_5

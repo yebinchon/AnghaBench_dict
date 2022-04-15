@@ -1,0 +1,11 @@
+TG3PCI_REG_BASE_ADDR,VAR_0
+TG3PCI_REG_DATA,VAR_1
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+tg3_read_indirect_mbox,FUNC_4
+tp,VAR_2
+off,VAR_3
+flags,VAR_4
+val,VAR_5

@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+V4L2_TUNER_ANALOG_TV,VAR_1
+check_dev,FUNC_0
+g_tuner,VAR_2
+strcpy,FUNC_1
+tuner,VAR_3
+v4l2_device_call_all,FUNC_2
+vidioc_g_tuner,FUNC_3
+file,VAR_4
+priv,VAR_5
+t,VAR_6
+fh,VAR_7
+dev,VAR_8
+rc,VAR_9

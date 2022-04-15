@@ -1,0 +1,11 @@
+EBUSY,VAR_0
+GDROM_DMA_ACCESS_CTRL_REG,VAR_1
+GDROM_DMA_WAIT_REG,VAR_2
+GDROM_ERROR_REG,VAR_3
+GDROM_INTSEC_REG,VAR_4
+GDROM_STATUSCOMMAND_REG,VAR_5
+__raw_writeb,FUNC_0
+__raw_writel,FUNC_1
+gdrom_wait_busy_sleeps,FUNC_2
+gdrom_wait_clrbusy,FUNC_3
+gdrom_init_dma_mode,FUNC_4

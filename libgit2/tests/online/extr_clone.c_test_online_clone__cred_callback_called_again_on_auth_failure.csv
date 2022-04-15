@@ -1,0 +1,13 @@
+GIT_EUSER,VAR_0
+_remote_url,VAR_1
+_remote_user,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_fail_with,FUNC_1
+cred_count_calls_cb,VAR_3
+g_options,VAR_4
+g_repo,VAR_5
+git__free,FUNC_2
+git__strdup,FUNC_3
+git_clone,FUNC_4
+test_online_clone__cred_callback_called_again_on_auth_failure,FUNC_5
+counter,VAR_6

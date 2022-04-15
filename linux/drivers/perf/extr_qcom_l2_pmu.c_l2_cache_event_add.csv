@@ -1,0 +1,16 @@
+PERF_EF_START,VAR_0
+PERF_HES_STOPPED,VAR_1
+PERF_HES_UPTODATE,VAR_2
+get_cluster_pmu,FUNC_0
+l2_cache_event_start,FUNC_1
+l2_cache_get_event_idx,FUNC_2
+local64_set,FUNC_3
+perf_event_update_userpage,FUNC_4
+to_l2cache_pmu,FUNC_5
+l2_cache_event_add,FUNC_6
+event,VAR_3
+flags,VAR_4
+hwc,VAR_5
+idx,VAR_6
+err,VAR_7
+cluster,VAR_8

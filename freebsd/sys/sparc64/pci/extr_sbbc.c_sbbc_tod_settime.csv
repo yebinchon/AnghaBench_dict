@@ -1,0 +1,15 @@
+SBBC_SRAM_READ_8,FUNC_0
+SBBC_SRAM_WRITE_8,FUNC_1
+SBBC_TOD_OFF,FUNC_2
+device_get_softc,FUNC_3
+rman_get_bushandle,FUNC_4
+rman_get_bustag,FUNC_5
+sbbc_toddata,VAR_0
+tod_skew,VAR_1
+tod_time,VAR_2
+sbbc_tod_settime,FUNC_6
+dev,VAR_3
+ts,VAR_4
+sc,VAR_5
+bst,VAR_6
+bsh,VAR_7

@@ -1,0 +1,14 @@
+GIT_REPOSITORY_STATE_REBASE_MERGE,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_annotated_commit_free,FUNC_2
+git_annotated_commit_from_revspec,FUNC_3
+git_rebase_free,FUNC_4
+git_rebase_init,FUNC_5
+git_repository_state,FUNC_6
+repo,VAR_1
+test_abort,FUNC_7
+test_rebase_abort__merge_by_revspec,FUNC_8
+rebase,VAR_2
+branch_head,VAR_3
+onto_head,VAR_4

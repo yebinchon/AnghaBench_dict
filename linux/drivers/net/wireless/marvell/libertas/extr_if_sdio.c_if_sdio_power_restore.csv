@@ -1,0 +1,7 @@
+if_sdio_power_on,FUNC_0
+pm_runtime_get_sync,FUNC_1
+wait_event,FUNC_2
+if_sdio_power_restore,FUNC_3
+priv,VAR_0
+card,VAR_1
+r,VAR_2

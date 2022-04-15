@@ -1,0 +1,17 @@
+BeginInternalSubTransaction,FUNC_0
+CurrentMemoryContext,VAR_0
+CurrentResourceOwner,VAR_1
+MemoryContextSwitchTo,FUNC_1
+ReleaseCurrentSubTransaction,FUNC_2
+RollbackAndReleaseCurrentSubTransaction,FUNC_3
+TCL_ERROR,VAR_2
+Tcl_EvalObjEx,FUNC_4
+Tcl_WrongNumArgs,FUNC_5
+pltcl_subtransaction,FUNC_6
+cdata,VAR_3
+interp,VAR_4
+objc,VAR_5
+objv,VAR_6
+oldcontext,VAR_7
+oldowner,VAR_8
+retcode,VAR_9

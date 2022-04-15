@@ -1,0 +1,11 @@
+BPF_MAX_REFCNT,VAR_0
+EBUSY,VAR_1
+ENOENT,VAR_2
+ERR_PTR,FUNC_0
+__bpf_map_put,FUNC_1
+atomic_fetch_add_unless,FUNC_2
+atomic_inc,FUNC_3
+__bpf_map_inc_not_zero,FUNC_4
+map,VAR_3
+uref,VAR_4
+refold,VAR_5

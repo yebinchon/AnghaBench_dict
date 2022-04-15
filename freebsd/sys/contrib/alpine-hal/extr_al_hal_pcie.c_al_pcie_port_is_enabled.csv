@@ -1,0 +1,10 @@
+AL_BIT,FUNC_0
+AL_REG_FIELD_GET,FUNC_1
+PBS_UNIT_PCIE_CONF_1_PCIE_EXIST_MASK,VAR_0
+PBS_UNIT_PCIE_CONF_1_PCIE_EXIST_SHIFT,VAR_1
+al_reg_read32,FUNC_2
+al_pcie_port_is_enabled,FUNC_3
+pcie_port,VAR_2
+pbs_reg_base,VAR_3
+pcie_exist,VAR_4
+ports_enabled,VAR_5

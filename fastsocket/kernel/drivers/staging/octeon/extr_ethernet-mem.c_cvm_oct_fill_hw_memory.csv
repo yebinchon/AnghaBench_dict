@@ -1,0 +1,17 @@
+CONFIG_CAVIUM_RESERVE32,VAR_0
+GFP_ATOMIC,VAR_1
+USE_32BIT_SHARED,VAR_2
+cvmx_bootmem_alloc_range,FUNC_0
+cvmx_fpa_free,FUNC_1
+kmalloc,FUNC_2
+panic,FUNC_3
+pr_notice,FUNC_4
+pr_warning,FUNC_5
+unlikely,FUNC_6
+cvm_oct_fill_hw_memory,FUNC_7
+pool,VAR_3
+size,VAR_4
+elements,VAR_5
+memory,VAR_6
+freed,VAR_7
+octeon_reserve32_memory,VAR_8

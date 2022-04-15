@@ -1,0 +1,17 @@
+MVEBU_SETTING_GPI,VAR_0
+MVEBU_SETTING_GPO,VAR_1
+mvebu_pinconf_group_get,FUNC_0
+mvebu_pinctrl_find_setting_by_val,FUNC_1
+pinctrl_dev_get_drvdata,FUNC_2
+seq_printf,FUNC_3
+seq_putc,FUNC_4
+seq_puts,FUNC_5
+mvebu_pinconf_group_dbg_show,FUNC_6
+pctldev,VAR_2
+s,VAR_3
+gid,VAR_4
+pctl,VAR_5
+grp,VAR_6
+curr,VAR_7
+config,VAR_8
+n,VAR_9

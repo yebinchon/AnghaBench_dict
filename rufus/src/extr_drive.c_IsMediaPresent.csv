@@ -1,0 +1,12 @@
+DeviceIoControl,FUNC_0
+FALSE,VAR_0
+GetPhysicalHandle,FUNC_1
+IOCTL_DISK_GET_DRIVE_GEOMETRY_EX,VAR_1
+TRUE,VAR_2
+safe_closehandle,FUNC_2
+IsMediaPresent,FUNC_3
+DriveIndex,VAR_3
+r,VAR_4
+hPhysical,VAR_5
+size,VAR_6
+geometry,VAR_7

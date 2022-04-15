@@ -1,0 +1,16 @@
+DISTRIBUTE_BY_HASH,VAR_0
+ERRCODE_FEATURE_NOT_SUPPORTED,VAR_1
+ERRCODE_INVALID_TABLE_DEFINITION,VAR_2
+ERROR,VAR_3
+IsDistributedTable,FUNC_0
+PartitionMethod,FUNC_1
+SingleReplicatedTable,FUNC_2
+ereport,FUNC_3
+errcode,FUNC_4
+errmsg,FUNC_5
+get_rel_name,FUNC_6
+quote_literal_cstr,FUNC_7
+ErrorIfNotSuitableToGetSize,FUNC_8
+relationId,VAR_4
+relationName,VAR_5
+escapedQueryString,VAR_6

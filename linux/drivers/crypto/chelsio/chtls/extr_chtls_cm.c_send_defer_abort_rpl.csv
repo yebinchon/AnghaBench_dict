@@ -1,0 +1,17 @@
+CPL_ABORT_NO_RST,VAR_0
+CPL_PRIORITY_DATA,VAR_1
+GET_TID,FUNC_0
+GFP_KERNEL,VAR_2
+__GFP_NOFAIL,VAR_3
+__skb_put,FUNC_1
+alloc_skb,FUNC_2
+cplhdr,FUNC_3
+cxgb4_ofld_send,FUNC_4
+kfree_skb,FUNC_5
+set_abort_rpl_wr,FUNC_6
+set_wr_txq,FUNC_7
+send_defer_abort_rpl,FUNC_8
+cdev,VAR_4
+skb,VAR_5
+req,VAR_6
+reply_skb,VAR_7

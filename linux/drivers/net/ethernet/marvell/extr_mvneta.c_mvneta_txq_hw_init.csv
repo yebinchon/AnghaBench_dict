@@ -1,0 +1,9 @@
+MVETH_TXQ_TOKEN_CFG_REG,FUNC_0
+MVETH_TXQ_TOKEN_COUNT_REG,FUNC_1
+MVNETA_TXQ_BASE_ADDR_REG,FUNC_2
+MVNETA_TXQ_SIZE_REG,FUNC_3
+mvneta_tx_done_pkts_coal_set,FUNC_4
+mvreg_write,FUNC_5
+mvneta_txq_hw_init,FUNC_6
+pp,VAR_0
+txq,VAR_1

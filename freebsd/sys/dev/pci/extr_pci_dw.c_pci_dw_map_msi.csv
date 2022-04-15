@@ -1,0 +1,12 @@
+intr_map_msi,FUNC_0
+ofw_bus_get_node,FUNC_1
+ofw_bus_msimap,FUNC_2
+pci_get_rid,FUNC_3
+pci_dw_map_msi,FUNC_4
+pci,VAR_0
+child,VAR_1
+irq,VAR_2
+addr,VAR_3
+data,VAR_4
+msi_parent,VAR_5
+rv,VAR_6

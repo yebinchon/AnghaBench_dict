@@ -1,0 +1,16 @@
+EP0_MAX_PKT_SIZE,VAR_0
+EP_DIR_IN,VAR_1
+EP_DIR_OUT,VAR_2
+INIT_LIST_HEAD,FUNC_0
+USB_ENDPOINT_XFER_CONTROL,VAR_3
+list_add_tail,FUNC_1
+mv_ep0_desc,VAR_4
+mv_ep_ops,VAR_5
+snprintf,FUNC_2
+strncpy,FUNC_3
+usb_ep_set_maxpacket_limit,FUNC_4
+eps_init,FUNC_5
+udc,VAR_6
+ep,VAR_7
+name,VAR_8
+i,VAR_9

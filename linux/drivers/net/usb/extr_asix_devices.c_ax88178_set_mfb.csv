@@ -1,0 +1,16 @@
+AX_MEDIUM_JFE,VAR_0
+AX_RX_CTL_MFB_16384,VAR_1
+AX_RX_CTL_MFB_2048,VAR_2
+AX_RX_CTL_MFB_4096,VAR_3
+AX_RX_CTL_MFB_8192,VAR_4
+asix_read_medium_status,FUNC_0
+asix_read_rx_ctl,FUNC_1
+asix_write_medium_mode,FUNC_2
+asix_write_rx_ctl,FUNC_3
+usbnet_unlink_rx_urbs,FUNC_4
+ax88178_set_mfb,FUNC_5
+dev,VAR_5
+mfb,VAR_6
+rxctl,VAR_7
+medium,VAR_8
+old_rx_urb_size,VAR_9

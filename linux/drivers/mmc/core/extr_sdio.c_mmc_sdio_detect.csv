@@ -1,0 +1,13 @@
+MMC_CAP_POWER_OFF_CARD,VAR_0
+_mmc_detect_card_removed,FUNC_0
+mmc_claim_host,FUNC_1
+mmc_detach_bus,FUNC_2
+mmc_power_off,FUNC_3
+mmc_release_host,FUNC_4
+mmc_sdio_remove,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put_noidle,FUNC_7
+pm_runtime_put_sync,FUNC_8
+mmc_sdio_detect,FUNC_9
+host,VAR_1
+err,VAR_2

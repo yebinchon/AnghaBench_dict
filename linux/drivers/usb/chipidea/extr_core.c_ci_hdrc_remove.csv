@@ -1,0 +1,13 @@
+ci_hdrc_enter_lpm,FUNC_0
+ci_role_destroy,FUNC_1
+ci_ulpi_exit,FUNC_2
+ci_usb_phy_exit,FUNC_3
+dbg_remove_files,FUNC_4
+platform_get_drvdata,FUNC_5
+pm_runtime_disable,FUNC_6
+pm_runtime_get_sync,FUNC_7
+pm_runtime_put_noidle,FUNC_8
+usb_role_switch_unregister,FUNC_9
+ci_hdrc_remove,FUNC_10
+pdev,VAR_0
+ci,VAR_1

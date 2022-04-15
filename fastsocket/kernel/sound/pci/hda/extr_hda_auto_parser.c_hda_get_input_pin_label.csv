@@ -1,0 +1,12 @@
+INPUT_PIN_ATTR_DOCK,VAR_0
+get_defcfg_device,FUNC_0
+snd_hda_codec_get_pincfg,FUNC_1
+snd_hda_get_input_pin_attr,FUNC_2
+hda_get_input_pin_label,FUNC_3
+codec,VAR_1
+item,VAR_2
+pin,VAR_3
+check_location,VAR_4
+def_conf,VAR_5
+mic_names,VAR_6
+attr,VAR_7

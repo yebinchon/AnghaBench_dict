@@ -1,0 +1,15 @@
+CIFS_NO_BUFFER,VAR_0
+CIFS_SMALL_BUFFER,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+SMB_COM_SESSION_SETUP_ANDX,VAR_4
+be32_to_cpu,FUNC_0
+kfree,FUNC_1
+kmalloc,FUNC_2
+small_smb_init_no_tc,FUNC_3
+sess_alloc_buffer,FUNC_4
+sess_data,VAR_5
+wct,VAR_6
+rc,VAR_7
+ses,VAR_8
+smb_buf,VAR_9

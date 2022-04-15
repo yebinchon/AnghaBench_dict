@@ -1,0 +1,12 @@
+STATE_INPUT_READY,VAR_0
+async_lock,FUNC_0
+async_unlock,FUNC_1
+atomic_load,FUNC_2
+pthread_cond_wait,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+park_frame_worker_threads,FUNC_6
+fctx,VAR_1
+thread_count,VAR_2
+i,VAR_3
+p,VAR_4

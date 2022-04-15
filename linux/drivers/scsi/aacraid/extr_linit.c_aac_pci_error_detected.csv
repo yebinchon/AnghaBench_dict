@@ -1,0 +1,17 @@
+PCI_ERS_RESULT_CAN_RECOVER,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_NEED_RESET,VAR_2
+aac_adapter_ioremap,FUNC_0
+aac_cancel_safw_rescan_worker,FUNC_1
+aac_flush_ios,FUNC_2
+aac_release_resources,FUNC_3
+dev_err,FUNC_4
+pci_disable_pcie_error_reporting,FUNC_5
+pci_get_drvdata,FUNC_6
+scsi_block_requests,FUNC_7
+shost_priv,FUNC_8
+aac_pci_error_detected,FUNC_9
+pdev,VAR_3
+error,VAR_4
+shost,VAR_5
+aac,VAR_6

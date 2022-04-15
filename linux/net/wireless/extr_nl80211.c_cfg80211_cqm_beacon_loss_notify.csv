@@ -1,0 +1,9 @@
+NL80211_ATTR_CQM_BEACON_LOSS_EVENT,VAR_0
+cfg80211_prepare_cqm,FUNC_0
+cfg80211_send_cqm,FUNC_1
+nla_put_flag,FUNC_2
+nlmsg_free,FUNC_3
+cfg80211_cqm_beacon_loss_notify,FUNC_4
+dev,VAR_1
+gfp,VAR_2
+msg,VAR_3

@@ -1,0 +1,15 @@
+SPIDER_NET_CKRCTRL,VAR_0
+SPIDER_NET_CKRCTRL_RUN_VALUE,VAR_1
+SPIDER_NET_CKRCTRL_STOP_VALUE,VAR_2
+atomic_read,FUNC_0
+free_netdev,FUNC_1
+netdev_priv,FUNC_2
+pci_get_drvdata,FUNC_3
+spider_net_undo_pci_setup,FUNC_4
+spider_net_write_reg,FUNC_5
+unregister_netdev,FUNC_6
+wait_event,FUNC_7
+spider_net_remove,FUNC_8
+pdev,VAR_3
+netdev,VAR_4
+card,VAR_5

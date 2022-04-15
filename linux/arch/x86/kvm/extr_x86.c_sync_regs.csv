@@ -1,0 +1,10 @@
+EINVAL,VAR_0
+KVM_SYNC_X86_EVENTS,VAR_1
+KVM_SYNC_X86_REGS,VAR_2
+KVM_SYNC_X86_SREGS,VAR_3
+KVM_SYNC_X86_VALID_FIELDS,VAR_4
+__set_regs,FUNC_0
+__set_sregs,FUNC_1
+kvm_vcpu_ioctl_x86_set_vcpu_events,FUNC_2
+sync_regs,FUNC_3
+vcpu,VAR_5

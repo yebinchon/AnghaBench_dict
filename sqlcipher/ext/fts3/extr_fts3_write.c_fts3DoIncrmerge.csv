@@ -1,0 +1,15 @@
+FTS3_MERGE_COUNT,VAR_0
+SQLITE_ERROR,VAR_1
+SQLITE_OK,VAR_2
+assert,FUNC_0
+fts3Getint,FUNC_1
+sqlite3Fts3CreateStatTable,FUNC_2
+sqlite3Fts3Incrmerge,FUNC_3
+sqlite3Fts3SegmentsClose,FUNC_4
+fts3DoIncrmerge,FUNC_5
+p,VAR_3
+zParam,VAR_4
+rc,VAR_5
+nMin,VAR_6
+nMerge,VAR_7
+z,VAR_8

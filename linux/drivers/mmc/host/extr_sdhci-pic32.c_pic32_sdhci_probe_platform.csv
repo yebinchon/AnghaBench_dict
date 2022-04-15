@@ -1,0 +1,12 @@
+SDHCI_CAPABILITIES,VAR_0
+SDH_CAPS_SDH_SLOT_TYPE_MASK,VAR_1
+SDH_SLOT_TYPE_SHARED_BUS,VAR_2
+pic32_sdhci_shared_bus,FUNC_0
+platform_get_drvdata,FUNC_1
+readl,FUNC_2
+pic32_sdhci_probe_platform,FUNC_3
+pdev,VAR_3
+pdata,VAR_4
+ret,VAR_5
+caps_slot_type,VAR_6
+host,VAR_7

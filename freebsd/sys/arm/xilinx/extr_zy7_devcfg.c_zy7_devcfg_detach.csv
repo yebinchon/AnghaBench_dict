@@ -1,0 +1,15 @@
+DEVCFG_SC_LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_generic_detach,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+destroy_dev,FUNC_4
+device_get_softc,FUNC_5
+device_is_attached,FUNC_6
+rman_get_rid,FUNC_7
+sysctl_ctx_free,FUNC_8
+zy7_devcfg_softc_p,VAR_2
+zy7_devcfg_detach,FUNC_9
+dev,VAR_3
+sc,VAR_4

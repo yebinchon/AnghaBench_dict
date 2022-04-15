@@ -1,0 +1,17 @@
+IPR_HCAM_CDB_OP_CODE_LOG_DATA,VAR_0
+IPR_IOASC_IOA_WAS_RESET,VAR_1
+IPR_IOASC_NR_IOA_RESET_REQUIRED,VAR_2
+IPR_SHUTDOWN_ABBREV,VAR_3
+be32_to_cpu,FUNC_0
+dev_err,FUNC_1
+ipr_handle_log_data,FUNC_2
+ipr_initiate_ioa_reset,FUNC_3
+ipr_send_hcam,FUNC_4
+list_add_tail,FUNC_5
+list_del,FUNC_6
+ipr_process_error,FUNC_7
+ipr_cmd,VAR_4
+ioa_cfg,VAR_5
+hostrcb,VAR_6
+ioasc,VAR_7
+fd_ioasc,VAR_8

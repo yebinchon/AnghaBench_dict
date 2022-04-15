@@ -1,0 +1,11 @@
+NVMET_TCP_SEND_RESPONSE,VAR_0
+NVME_TCP_F_HDGST,VAR_1
+cpu_to_le32,FUNC_0
+nvme_tcp_rsp,VAR_2
+nvmet_tcp_hdgst,FUNC_1
+nvmet_tcp_hdgst_len,FUNC_2
+nvmet_setup_response_pdu,FUNC_3
+cmd,VAR_3
+pdu,VAR_4
+queue,VAR_5
+hdgst,VAR_6

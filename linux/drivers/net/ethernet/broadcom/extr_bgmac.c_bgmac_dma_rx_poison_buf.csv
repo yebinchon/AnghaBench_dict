@@ -1,0 +1,10 @@
+BGMAC_RX_BUF_OFFSET,VAR_0
+BGMAC_RX_BUF_SIZE,VAR_1
+DMA_FROM_DEVICE,VAR_2
+cpu_to_le16,FUNC_0
+dma_sync_single_for_cpu,FUNC_1
+dma_sync_single_for_device,FUNC_2
+bgmac_dma_rx_poison_buf,FUNC_3
+dma_dev,VAR_3
+slot,VAR_4
+rx,VAR_5

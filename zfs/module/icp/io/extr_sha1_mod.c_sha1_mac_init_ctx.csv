@@ -1,0 +1,13 @@
+SHA1Init,FUNC_0
+SHA1Update,FUNC_1
+SHA1_HMAC_BLOCK_SIZE,VAR_0
+SHA1_HMAC_INTS_PER_BLOCK,VAR_1
+bcopy,FUNC_2
+bzero,FUNC_3
+sha1_mac_init_ctx,FUNC_4
+ctx,VAR_2
+keyval,VAR_3
+length_in_bytes,VAR_4
+ipad,VAR_5
+opad,VAR_6
+i,VAR_7

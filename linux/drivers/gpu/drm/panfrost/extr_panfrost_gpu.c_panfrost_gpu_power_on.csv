@@ -1,0 +1,15 @@
+L2_PWRON_LO,VAR_0
+L2_READY_LO,VAR_1
+SHADER_PWRON_LO,VAR_2
+SHADER_READY_LO,VAR_3
+STACK_PWRON_LO,VAR_4
+STACK_READY_LO,VAR_5
+TILER_PWRON_LO,VAR_6
+TILER_READY_LO,VAR_7
+dev_err,FUNC_0
+gpu_write,FUNC_1
+readl_relaxed_poll_timeout,FUNC_2
+panfrost_gpu_power_on,FUNC_3
+pfdev,VAR_8
+ret,VAR_9
+val,VAR_10

@@ -1,0 +1,10 @@
+CONTROL_MSG_SERIALIZED_MAX_SIZE,VAR_0
+CONTROL_MSG_TYPE_GET_CLIPBOARD,VAR_1
+assert,FUNC_0
+control_msg_serialize,FUNC_1
+memcmp,FUNC_2
+test_serialize_get_clipboard,FUNC_3
+msg,VAR_2
+buf,VAR_3
+size,VAR_4
+expected,VAR_5

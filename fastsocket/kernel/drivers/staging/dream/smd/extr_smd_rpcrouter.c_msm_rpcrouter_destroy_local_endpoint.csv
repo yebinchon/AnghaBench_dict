@@ -1,0 +1,10 @@
+RPCROUTER_CTRL_CMD_REMOVE_CLIENT,VAR_0
+RR,FUNC_0
+kfree,FUNC_1
+list_del,FUNC_2
+rpcrouter_send_control_msg,FUNC_3
+wake_lock_destroy,FUNC_4
+msm_rpcrouter_destroy_local_endpoint,FUNC_5
+ept,VAR_1
+rc,VAR_2
+msg,VAR_3

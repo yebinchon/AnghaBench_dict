@@ -1,0 +1,17 @@
+Anum_continuous_aggs_materialization_invalidation_log_idx_materialization_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CONTINUOUS_AGGS_MATERIALIZATION_INVALIDATION_LOG,VAR_2
+CONTINUOUS_AGGS_MATERIALIZATION_INVALIDATION_LOG_IDX,VAR_3
+CurrentMemoryContext,VAR_4
+F_INT4EQ,VAR_5
+Int32GetDatum,FUNC_0
+RowExclusiveLock,VAR_6
+ScanKeyInit,FUNC_1
+scan_del_materialization_invalidation_tuple,VAR_7
+ts_catalog_scan_all,FUNC_2
+drain_materialization_invalidation_logs,FUNC_3
+cagg_id,VAR_8
+materialization_invalidation_threshold,VAR_9
+invalidations_out,VAR_10
+scan_state,VAR_11
+scankey,VAR_12

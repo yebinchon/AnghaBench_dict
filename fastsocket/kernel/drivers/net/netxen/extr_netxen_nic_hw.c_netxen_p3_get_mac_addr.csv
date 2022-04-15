@@ -1,0 +1,10 @@
+CRB_MAC_BLOCK_START,VAR_0
+NXRD32,FUNC_0
+le64_to_cpu,FUNC_1
+netxen_p3_get_mac_addr,FUNC_2
+adapter,VAR_1
+mac,VAR_2
+crbaddr,VAR_3
+mac_hi,VAR_4
+mac_lo,VAR_5
+pci_func,VAR_6

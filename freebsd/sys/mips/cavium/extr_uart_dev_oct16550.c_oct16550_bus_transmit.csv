@@ -1,0 +1,15 @@
+IER_ETXRDY,VAR_0
+REG_DATA,VAR_1
+REG_IER,VAR_2
+oct16550_delay,FUNC_0
+oct16550_putc,FUNC_1
+oct16550_wait_txhr_empty,FUNC_2
+uart_barrier,FUNC_3
+uart_lock,FUNC_4
+uart_setreg,FUNC_5
+uart_unlock,FUNC_6
+oct16550_bus_transmit,FUNC_7
+sc,VAR_3
+oct16550,VAR_4
+bas,VAR_5
+i,VAR_6

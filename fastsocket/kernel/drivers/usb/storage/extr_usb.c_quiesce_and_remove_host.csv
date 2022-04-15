@@ -1,0 +1,13 @@
+USB_STATE_NOTATTACHED,VAR_0
+US_FLIDX_DISCONNECTING,VAR_1
+US_FLIDX_DONT_SCAN,VAR_2
+scsi_lock,FUNC_0
+scsi_remove_host,FUNC_1
+scsi_unlock,FUNC_2
+set_bit,FUNC_3
+us_to_host,FUNC_4
+wait_for_completion,FUNC_5
+wake_up,FUNC_6
+quiesce_and_remove_host,FUNC_7
+us,VAR_3
+host,VAR_4

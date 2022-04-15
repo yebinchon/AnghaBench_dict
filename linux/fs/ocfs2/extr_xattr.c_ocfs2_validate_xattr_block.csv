@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+OCFS2_IS_VALID_XATTR_BLOCK,FUNC_1
+OCFS2_SB,FUNC_2
+buffer_uptodate,FUNC_3
+le32_to_cpu,FUNC_4
+le64_to_cpu,FUNC_5
+ocfs2_error,FUNC_6
+ocfs2_validate_meta_ecc,FUNC_7
+trace_ocfs2_validate_xattr_block,FUNC_8
+ocfs2_validate_xattr_block,FUNC_9
+sb,VAR_0
+bh,VAR_1
+rc,VAR_2
+xb,VAR_3

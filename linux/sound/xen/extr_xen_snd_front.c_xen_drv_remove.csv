@@ -1,0 +1,16 @@
+XenbusStateClosing,VAR_0
+XenbusStateInitWait,VAR_1
+XenbusStateUnknown,VAR_2
+dev_get_drvdata,FUNC_0
+msleep,FUNC_1
+pr_err,FUNC_2
+xen_snd_drv_fini,FUNC_3
+xenbus_frontend_closed,FUNC_4
+xenbus_read_unsigned,FUNC_5
+xenbus_strstate,FUNC_6
+xenbus_switch_state,FUNC_7
+xen_drv_remove,FUNC_8
+dev,VAR_3
+front_info,VAR_4
+to,VAR_5
+state,VAR_6

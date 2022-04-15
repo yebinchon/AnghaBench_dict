@@ -1,0 +1,14 @@
+RAW3215_BUFFER_SIZE,VAR_0
+RAW3215_FLUSHING,VAR_1
+RAW3215_FROZEN,VAR_2
+get_ccwdev_lock,FUNC_0
+raw3215_drop_line,FUNC_1
+raw3215_mk_write_req,FUNC_2
+raw3215_try_io,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+udelay,FUNC_6
+wait_cons_dev,FUNC_7
+raw3215_make_room,FUNC_8
+raw,VAR_3
+length,VAR_4

@@ -1,0 +1,17 @@
+MSG_MSGDUMP,VAR_0
+OID_802_11_ADD_WEP,VAR_1
+ndis_set_oid,FUNC_0
+os_free,FUNC_1
+os_memcpy,FUNC_2
+os_zalloc,FUNC_3
+wpa_hexdump_key,FUNC_4
+wpa_driver_ndis_add_wep,FUNC_5
+drv,VAR_2
+pairwise,VAR_3
+key_idx,VAR_4
+set_tx,VAR_5
+key,VAR_6
+key_len,VAR_7
+wep,VAR_8
+len,VAR_9
+res,VAR_10

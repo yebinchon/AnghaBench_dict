@@ -1,0 +1,10 @@
+APEX_BAR2_REG_KERNEL_HIB_MSIX_TABLE,VAR_0
+MSIX_MASK_BIT_OFFSET,VAR_1
+MSIX_VECTOR_SIZE,VAR_2
+gasket_dev_read_32,FUNC_0
+gasket_dev_write_32,FUNC_1
+force_msix_interrupt_unmasking,FUNC_2
+gasket_dev,VAR_3
+i,VAR_4
+location,VAR_5
+mask,VAR_6

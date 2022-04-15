@@ -1,0 +1,16 @@
+PERF_EVENT_IOC_DISABLE,VAR_0
+PERF_EVENT_IOC_ENABLE,VAR_1
+PERF_EVENT_IOC_SET_BPF,VAR_2
+assert,FUNC_0
+close,FUNC_1
+generate_load,FUNC_2
+int_exit,FUNC_3
+ioctl,FUNC_4
+print_stacks,FUNC_5
+printf,FUNC_6
+prog_fd,VAR_3
+sys_perf_event_open,FUNC_7
+test_perf_event_task,FUNC_8
+attr,VAR_4
+pmu_fd,VAR_5
+error,VAR_6

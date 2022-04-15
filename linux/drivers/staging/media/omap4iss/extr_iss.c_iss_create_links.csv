@@ -1,0 +1,14 @@
+CSI2_PAD_SOURCE,VAR_0
+IPIPEIF_PAD_SINK,VAR_1
+IPIPEIF_PAD_SOURCE_VP,VAR_2
+IPIPE_PAD_SINK,VAR_3
+IPIPE_PAD_SOURCE_VP,VAR_4
+RESIZER_PAD_SINK,VAR_5
+dev_err,FUNC_0
+media_create_pad_link,FUNC_1
+omap4iss_csi2_create_links,FUNC_2
+omap4iss_ipipeif_create_links,FUNC_3
+omap4iss_resizer_create_links,FUNC_4
+iss_create_links,FUNC_5
+iss,VAR_6
+ret,VAR_7

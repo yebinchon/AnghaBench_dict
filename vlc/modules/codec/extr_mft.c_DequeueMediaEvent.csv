@@ -1,0 +1,15 @@
+FAILED,FUNC_0
+IMFMediaEventGenerator_GetEvent,FUNC_1
+IMFMediaEvent_GetType,FUNC_2
+IMFMediaEvent_Release,FUNC_3
+MF_EVENT_FLAG_NO_WAIT,VAR_0
+S_OK,VAR_1
+VLC_METransformHaveOutput,VAR_2
+VLC_METransformNeedInput,VAR_3
+msg_Err,FUNC_4
+DequeueMediaEvent,FUNC_5
+p_dec,VAR_4
+p_sys,VAR_5
+hr,VAR_6
+event,VAR_7
+event_type,VAR_8

@@ -1,0 +1,16 @@
+free,FUNC_0
+input_item_GetTitleFbName,FUNC_1
+lua_newtable,FUNC_2
+lua_pushinteger,FUNC_3
+lua_pushnumber,FUNC_4
+lua_pushstring,FUNC_5
+lua_setfield,FUNC_6
+luaopen_input_item,FUNC_7
+secf_from_vlc_tick,FUNC_8
+vlc_playlist_item_GetId,FUNC_9
+vlc_playlist_item_GetMedia,FUNC_10
+push_playlist_item,FUNC_11
+L,VAR_0
+item,VAR_1
+media,VAR_2
+name,VAR_3

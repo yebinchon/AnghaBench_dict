@@ -1,0 +1,12 @@
+av_assert2,FUNC_0
+avc_chroma_hv_and_aver_dst_4w_msa,FUNC_1
+avc_chroma_hz_and_aver_dst_4w_msa,FUNC_2
+avc_chroma_vt_and_aver_dst_4w_msa,FUNC_3
+avg_width4_msa,FUNC_4
+ff_avg_h264_chroma_mc4_msa,FUNC_5
+dst,VAR_0
+src,VAR_1
+stride,VAR_2
+height,VAR_3
+x,VAR_4
+y,VAR_5

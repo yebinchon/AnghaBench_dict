@@ -1,0 +1,16 @@
+Atari800_LoadImage,FUNC_0
+FALSE,VAR_0
+Log_print,FUNC_1
+PBI_D6D7ram,VAR_1
+PBI_PROTO80_enabled,VAR_2
+TRUE,VAR_3
+Util_malloc,FUNC_2
+free,FUNC_3
+proto80_rom_filename,VAR_4
+proto80rom,VAR_5
+strcmp,FUNC_4
+PBI_PROTO80_Initialise,FUNC_5
+argc,VAR_6
+argv,VAR_7
+i,VAR_8
+j,VAR_9

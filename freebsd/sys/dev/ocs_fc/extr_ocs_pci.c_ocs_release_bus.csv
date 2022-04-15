@@ -1,0 +1,11 @@
+PCI_MAX_BAR,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_release_resource,FUNC_1
+ocs_intr_teardown,FUNC_2
+pci_release_msi,FUNC_3
+rman_get_rid,FUNC_4
+ocs_release_bus,FUNC_5
+ocs,VAR_3
+i,VAR_4

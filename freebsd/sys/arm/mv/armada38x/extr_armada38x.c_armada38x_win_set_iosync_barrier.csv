@@ -1,0 +1,13 @@
+BUS_SPACE_BARRIER_WRITE,VAR_0
+MV_CPU_SUBSYS_REGS_LEN,VAR_1
+MV_MBUS_BRIDGE_BASE,VAR_2
+MV_SYNC_BARRIER_CTRL,VAR_3
+MV_SYNC_BARRIER_CTRL_ALL,VAR_4
+bus_space_barrier,FUNC_0
+bus_space_map,FUNC_1
+bus_space_unmap,FUNC_2
+bus_space_write_4,FUNC_3
+fdtbus_bs_tag,VAR_5
+armada38x_win_set_iosync_barrier,FUNC_4
+vaddr_iowind,VAR_6
+rv,VAR_7

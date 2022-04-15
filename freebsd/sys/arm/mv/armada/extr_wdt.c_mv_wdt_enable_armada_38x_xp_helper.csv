@@ -1,0 +1,16 @@
+BRIDGE_IRQ_CAUSE,VAR_0
+IRQ_TIMER_WD_CLR,VAR_1
+RSTOUTn_MASK_ARMV7,VAR_2
+RSTOUTn_MASK_WD,VAR_3
+WD_CPU0_MASK,VAR_4
+WD_GLOBAL_MASK,VAR_5
+WD_RSTOUTn_MASK,VAR_6
+read_cpu_ctrl,FUNC_0
+read_cpu_misc,FUNC_1
+read_cpu_mp_clocks,FUNC_2
+write_cpu_ctrl,FUNC_3
+write_cpu_misc,FUNC_4
+write_cpu_mp_clocks,FUNC_5
+mv_wdt_enable_armada_38x_xp_helper,FUNC_6
+val,VAR_7
+irq_cause,VAR_8

@@ -1,0 +1,13 @@
+GEM_LOCK_DESTROY,FUNC_0
+GEM_RES_BANK2,VAR_0
+GEM_RES_INTR,VAR_1
+M_DEVBUF,VAR_2
+bus_release_resources,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_softc,FUNC_3
+free,FUNC_4
+gem_detach,FUNC_5
+gem_pci_res_spec,VAR_3
+gem_pci_detach,FUNC_6
+dev,VAR_4
+sc,VAR_5

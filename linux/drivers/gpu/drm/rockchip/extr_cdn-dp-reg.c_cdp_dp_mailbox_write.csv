@@ -1,0 +1,12 @@
+MAILBOX0_WR_DATA,VAR_0
+MAILBOX_FULL_ADDR,VAR_1
+MAILBOX_RETRY_US,VAR_2
+MAILBOX_TIMEOUT_US,VAR_3
+readl,VAR_4
+readx_poll_timeout,FUNC_0
+writel,FUNC_1
+cdp_dp_mailbox_write,FUNC_2
+dp,VAR_5
+val,VAR_6
+ret,VAR_7
+full,VAR_8

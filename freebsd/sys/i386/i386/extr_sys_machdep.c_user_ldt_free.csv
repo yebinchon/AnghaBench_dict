@@ -1,0 +1,14 @@
+MA_OWNED,VAR_0
+PCPU_SET,FUNC_0
+_default_ldt,VAR_1
+currentldt,VAR_2
+curthread,VAR_3
+dt_lock,VAR_4
+lldt,FUNC_1
+mtx_assert,FUNC_2
+mtx_unlock_spin,FUNC_3
+user_ldt_deref,FUNC_4
+user_ldt_free,FUNC_5
+td,VAR_5
+mdp,VAR_6
+pldt,VAR_7

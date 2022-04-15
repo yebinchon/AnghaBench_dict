@@ -1,0 +1,15 @@
+SRAM_VA,VAR_0
+clk_disable,FUNC_0
+clk_enable,FUNC_1
+flush_cache_all,FUNC_2
+local_fiq_disable,FUNC_3
+local_fiq_enable,FUNC_4
+local_irq_disable,FUNC_5
+local_irq_enable,FUNC_6
+memcpy,FUNC_7
+pll4_clk,VAR_1
+pnx4008_cpu_standby,VAR_2
+pnx4008_cpu_standby_sz,VAR_3
+saved_sram,VAR_4
+pnx4008_standby,FUNC_8
+pnx4008_cpu_standby_ptr,VAR_5

@@ -1,0 +1,17 @@
+VMCI_CONTROL_ADDR,VAR_0
+VMCI_CONTROL_RESET,VAR_1
+bus_space_write_4,FUNC_0
+device_get_softc,FUNC_1
+mtx_destroy,FUNC_2
+pci_disable_busmaster,FUNC_3
+taskqueue_drain,FUNC_4
+taskqueue_thread,VAR_2
+vmci_components_cleanup,FUNC_5
+vmci_dismantle_interrupts,FUNC_6
+vmci_dma_free,FUNC_7
+vmci_qp_guest_endpoints_exit,FUNC_8
+vmci_unmap_bars,FUNC_9
+vmci_util_exit,FUNC_10
+vmci_detach,FUNC_11
+dev,VAR_3
+sc,VAR_4

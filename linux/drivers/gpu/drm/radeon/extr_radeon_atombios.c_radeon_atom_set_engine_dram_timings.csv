@@ -1,0 +1,15 @@
+COMMAND,VAR_0
+COMPUTE_ENGINE_PLL_PARAM,VAR_1
+DynamicMemorySettings,VAR_2
+GetIndexIntoMasterTable,FUNC_0
+SET_CLOCK_FREQ_MASK,VAR_3
+atom_execute_table,FUNC_1
+cpu_to_le32,FUNC_2
+memset,FUNC_3
+radeon_atom_set_engine_dram_timings,FUNC_4
+rdev,VAR_4
+eng_clock,VAR_5
+mem_clock,VAR_6
+args,VAR_7
+index,VAR_8
+tmp,VAR_9

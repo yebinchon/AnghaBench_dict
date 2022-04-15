@@ -1,0 +1,15 @@
+BFA_LUNMASK_ENABLED,VAR_0
+BFA_STATUS_OK,VAR_1
+BLIST_NOREPORTLUN,VAR_2
+BLIST_SPARSELUN,VAR_3
+ENXIO,VAR_4
+bfa_get_lun_mask_status,FUNC_0
+bfad_im_check_if_make_lun_visible,FUNC_1
+fc_remote_port_chkready,FUNC_2
+scsi_target,FUNC_3
+starget_to_rport,FUNC_4
+bfad_im_slave_alloc,FUNC_5
+sdev,VAR_5
+rport,VAR_6
+itnim_data,VAR_7
+bfa,VAR_8

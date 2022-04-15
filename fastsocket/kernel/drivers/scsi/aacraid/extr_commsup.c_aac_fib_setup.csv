@@ -1,0 +1,16 @@
+AAC_NUM_MGT_FIB,VAR_0
+ALIGN32,VAR_1
+ENOMEM,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+fib_map_alloc,FUNC_2
+init_MUTEX_LOCKED,FUNC_3
+le32_to_cpu,FUNC_4
+memset,FUNC_5
+spin_lock_init,FUNC_6
+aac_fib_setup,FUNC_7
+dev,VAR_3
+fibptr,VAR_4
+hw_fib,VAR_5
+hw_fib_pa,VAR_6
+i,VAR_7

@@ -1,0 +1,15 @@
+DatumGetPointer,FUNC_0
+TOASTCOL_NEEDS_DELETE_OLD,VAR_0
+TOASTCOL_NEEDS_FREE,VAR_1
+TOAST_NEEDS_DELETE_OLD,VAR_2
+TOAST_NEEDS_FREE,VAR_3
+pfree,FUNC_1
+toast_delete_datum,FUNC_2
+toast_tuple_cleanup,FUNC_3
+ttc,VAR_4
+tupleDesc,VAR_5
+numAttrs,VAR_6
+i,VAR_7
+attr,VAR_8
+i,VAR_9
+attr,VAR_10

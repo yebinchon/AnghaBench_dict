@@ -1,0 +1,17 @@
+MC13783_TS_NAME,VAR_0
+MC13XXX_ADC0,VAR_1
+MC13XXX_ADC0_TSMOD0,VAR_2
+MC13XXX_ADC0_TSMOD_MASK,VAR_3
+MC13XXX_IRQ_TS,VAR_4
+input_get_drvdata,FUNC_0
+mc13783_ts_handler,VAR_5
+mc13xxx_irq_ack,FUNC_1
+mc13xxx_irq_free,FUNC_2
+mc13xxx_irq_request,FUNC_3
+mc13xxx_lock,FUNC_4
+mc13xxx_reg_rmw,FUNC_5
+mc13xxx_unlock,FUNC_6
+mc13783_ts_open,FUNC_7
+dev,VAR_6
+priv,VAR_7
+ret,VAR_8

@@ -1,0 +1,15 @@
+DCCP_OPEN,VAR_0
+DCCP_PARTOPEN,VAR_1
+DCCP_RESPOND,VAR_2
+DCCP_SKB_CB,FUNC_0
+ICSK_TIME_DACK,VAR_3
+__dccp_rcv_established,FUNC_1
+dccp_set_state,FUNC_2
+dccp_sk,FUNC_3
+inet_csk_clear_xmit_timer,FUNC_4
+dccp_rcv_respond_partopen_state_process,FUNC_5
+sk,VAR_4
+skb,VAR_5
+dh,VAR_6
+len,VAR_7
+queued,VAR_8

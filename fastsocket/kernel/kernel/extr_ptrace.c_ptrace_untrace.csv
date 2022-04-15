@@ -1,0 +1,9 @@
+SIGNAL_STOP_STOPPED,VAR_0
+TASK_STOPPED,VAR_1
+__set_task_state,FUNC_0
+signal_wake_up,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+task_is_traced,FUNC_4
+ptrace_untrace,FUNC_5
+child,VAR_2

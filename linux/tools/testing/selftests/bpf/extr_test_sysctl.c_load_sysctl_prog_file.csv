@@ -1,0 +1,10 @@
+BPF_PROG_TYPE_CGROUP_SYSCTL,VAR_0
+LOAD_REJECT,VAR_1
+bpf_prog_load_xattr,FUNC_0
+log_err,FUNC_1
+memset,FUNC_2
+load_sysctl_prog_file,FUNC_3
+test,VAR_2
+attr,VAR_3
+obj,VAR_4
+prog_fd,VAR_5

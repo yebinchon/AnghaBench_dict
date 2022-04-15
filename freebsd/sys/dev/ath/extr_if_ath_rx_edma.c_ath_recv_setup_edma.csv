@@ -1,0 +1,15 @@
+ath_edma_dma_rxsetup,VAR_0
+ath_edma_dma_rxteardown,VAR_1
+ath_edma_recv_flush,VAR_2
+ath_edma_recv_sched,VAR_3
+ath_edma_recv_sched_queue,VAR_4
+ath_edma_recv_tasklet,VAR_5
+ath_edma_rxbuf_init,VAR_6
+ath_edma_startrecv,VAR_7
+ath_edma_stoprecv,VAR_8
+ath_hal_getrxstatuslen,FUNC_0
+ath_hal_setrxbufsize,FUNC_1
+bootverbose,VAR_9
+device_printf,FUNC_2
+ath_recv_setup_edma,FUNC_3
+sc,VAR_10

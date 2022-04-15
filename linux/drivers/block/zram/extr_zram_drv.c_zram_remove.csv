@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+ENOMEM,VAR_1
+bdget_disk,FUNC_0
+bdput,FUNC_1
+blk_cleanup_queue,FUNC_2
+del_gendisk,FUNC_3
+fsync_bdev,FUNC_4
+kfree,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+pr_info,FUNC_8
+put_disk,FUNC_9
+zram_debugfs_unregister,FUNC_10
+zram_reset_device,FUNC_11
+zram_remove,FUNC_12
+zram,VAR_2
+bdev,VAR_3

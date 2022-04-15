@@ -1,0 +1,17 @@
+CDecodeEnvelopedMsg_GetParam,FUNC_0
+CDecodeHashMsg_GetParam,FUNC_1
+CDecodeSignedMsg_GetParam,FUNC_2
+CRYPT_CopyParam,FUNC_3
+CRYPT_E_INVALID_MSG_TYPE,VAR_0
+ContextPropertyList_FindProperty,FUNC_4
+FALSE,VAR_1
+SetLastError,FUNC_5
+CDecodeMsg_GetParam,FUNC_6
+hCryptMsg,VAR_2
+dwParamType,VAR_3
+dwIndex,VAR_4
+pvData,VAR_5
+pcbData,VAR_6
+msg,VAR_7
+ret,VAR_8
+blob,VAR_9

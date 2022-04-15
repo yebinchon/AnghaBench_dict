@@ -1,0 +1,14 @@
+FILESERV_MAX_BULK,VAR_0
+VC_FILESYS_WRITE,VAR_1
+lock_obtain,FUNC_0
+lock_release,FUNC_1
+vc_filesys_client,VAR_2
+vc_vchi_msg_bulk_write,FUNC_2
+vc_filesys_write,FUNC_3
+fildes,VAR_3
+buf,VAR_4
+nbyte,VAR_5
+num_wrt,VAR_6
+bulk_bytes,VAR_7
+actual_written,VAR_8
+ptr,VAR_9

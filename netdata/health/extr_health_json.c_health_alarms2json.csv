@@ -1,0 +1,16 @@
+RRDCALC_STATUS_CRITICAL,VAR_0
+RRDCALC_STATUS_WARNING,VAR_1
+buffer_sprintf,FUNC_0
+buffer_strcat,FUNC_1
+health_rrdcalc2json_nolock,FUNC_2
+likely,FUNC_3
+now_realtime_sec,FUNC_4
+rrdhost_rdlock,FUNC_5
+rrdhost_unlock,FUNC_6
+unlikely,FUNC_7
+health_alarms2json,FUNC_8
+host,VAR_2
+wb,VAR_3
+all,VAR_4
+i,VAR_5
+rc,VAR_6

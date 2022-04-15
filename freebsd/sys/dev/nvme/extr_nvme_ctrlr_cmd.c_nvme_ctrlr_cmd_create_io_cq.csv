@@ -1,0 +1,12 @@
+NVME_OPC_CREATE_IO_CQ,VAR_0
+htole32,FUNC_0
+htole64,FUNC_1
+nvme_allocate_request_null,FUNC_2
+nvme_ctrlr_submit_admin_request,FUNC_3
+nvme_ctrlr_cmd_create_io_cq,FUNC_4
+ctrlr,VAR_1
+io_que,VAR_2
+cb_fn,VAR_3
+cb_arg,VAR_4
+req,VAR_5
+cmd,VAR_6

@@ -1,0 +1,16 @@
+I2C_CTL,VAR_0
+I2C_DVD_OPT,VAR_1
+I2C_EN,VAR_2
+I2C_FIFO_EMPTY_THLD,VAR_3
+I2C_FIFO_FULL_THLD,VAR_4
+I2C_INT_EN,VAR_5
+readl,FUNC_0
+sprd_i2c_clear_irq,FUNC_1
+sprd_i2c_reset_fifo,FUNC_2
+sprd_i2c_set_clk,FUNC_3
+sprd_i2c_set_empty_thld,FUNC_4
+sprd_i2c_set_full_thld,FUNC_5
+writel,FUNC_6
+sprd_i2c_enable,FUNC_7
+i2c_dev,VAR_6
+tmp,VAR_7

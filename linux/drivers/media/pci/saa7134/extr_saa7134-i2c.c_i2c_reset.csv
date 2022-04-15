@@ -1,0 +1,14 @@
+I2C_WAIT_DELAY,VAR_0
+I2C_WAIT_RETRY,VAR_1
+NOP,VAR_2
+i2c_dbg,FUNC_0
+i2c_get_status,FUNC_1
+i2c_is_error,FUNC_2
+i2c_is_idle,FUNC_3
+i2c_set_attr,FUNC_4
+i2c_set_status,FUNC_5
+udelay,FUNC_6
+i2c_reset,FUNC_7
+dev,VAR_3
+status,VAR_4
+count,VAR_5

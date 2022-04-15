@@ -1,0 +1,13 @@
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+ttpci_budget_debiwrite_nolock,FUNC_2
+ttpci_budget_debiwrite,FUNC_3
+budget,VAR_0
+config,VAR_1
+addr,VAR_2
+count,VAR_3
+value,VAR_4
+uselocks,VAR_5
+nobusyloop,VAR_6
+flags,VAR_7
+result,VAR_8

@@ -1,0 +1,11 @@
+BEV_EVENT_TIMEOUT,VAR_0
+EV_TIMEOUT,VAR_1
+bufferevent_decref_and_unlock_,FUNC_0
+bufferevent_incref_and_lock_,FUNC_1
+bufferevent_run_eventcb_,FUNC_2
+do_handshake,FUNC_3
+be_openssl_handshakeeventcb,FUNC_4
+fd,VAR_2
+what,VAR_3
+ptr,VAR_4
+bev_ssl,VAR_5

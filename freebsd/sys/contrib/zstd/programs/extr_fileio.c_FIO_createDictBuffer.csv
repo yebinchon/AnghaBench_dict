@@ -1,0 +1,17 @@
+DICTSIZE_MAX,VAR_0
+DISPLAYLEVEL,FUNC_0
+EXM_THROW,FUNC_1
+UTIL_getFileSize,FUNC_2
+assert,FUNC_3
+errno,VAR_1
+fclose,FUNC_4
+fopen,FUNC_5
+fread,FUNC_6
+malloc,FUNC_7
+strerror,FUNC_8
+FIO_createDictBuffer,FUNC_9
+bufferPtr,VAR_2
+fileName,VAR_3
+fileHandle,VAR_4
+fileSize,VAR_5
+readSize,VAR_6

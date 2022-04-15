@@ -1,0 +1,16 @@
+AL_FALSE,VAR_0
+AL_PCIE_OPERATING_MODE_RC,VAR_1
+AL_TRUE,VAR_2
+PCIE_AXI_POS_ORDER_BYPASS_CMPL_AFTER_WR_FIX,VAR_3
+PCIE_AXI_POS_ORDER_EP_CMPL_AFTER_WR_DIS,VAR_4
+PCIE_AXI_POS_ORDER_EP_CMPL_AFTER_WR_SUPPORT_INTERLV_DIS,VAR_5
+PCIE_AXI_POS_ORDER_SEGMENT_BUFFER_DONT_WAIT_FOR_P_WRITES,VAR_6
+al_pcie_operating_mode_get,FUNC_0
+al_reg_write32_masked,FUNC_1
+al_pcie_port_relaxed_pcie_ordering_config,FUNC_2
+pcie_port,VAR_7
+relaxed_ordering_params,VAR_8
+regs,VAR_9
+op_mode,VAR_10
+tx_relaxed_ordering,VAR_11
+rx_relaxed_ordering,VAR_12

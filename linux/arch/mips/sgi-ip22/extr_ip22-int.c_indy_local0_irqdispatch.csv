@@ -1,0 +1,10 @@
+SGINT_ISTAT0_LIO2,VAR_0
+SGINT_LOCAL0,VAR_1
+do_IRQ,FUNC_0
+lc0msk_to_irqnr,VAR_2
+lc2msk_to_irqnr,VAR_3
+sgint,VAR_4
+indy_local0_irqdispatch,FUNC_1
+mask,VAR_5
+mask2,VAR_6
+irq,VAR_7

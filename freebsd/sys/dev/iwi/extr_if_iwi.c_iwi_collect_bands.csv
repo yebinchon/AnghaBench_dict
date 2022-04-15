@@ -1,0 +1,12 @@
+IEEE80211_MODE_11A,VAR_0
+IEEE80211_MODE_11B,VAR_1
+IEEE80211_MODE_11G,VAR_2
+memset,FUNC_0
+pci_get_device,FUNC_1
+setbit,FUNC_2
+iwi_collect_bands,FUNC_3
+ic,VAR_3
+bands,VAR_4
+bands_sz,VAR_5
+sc,VAR_6
+dev,VAR_7

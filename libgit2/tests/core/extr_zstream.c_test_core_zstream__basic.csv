@@ -1,0 +1,16 @@
+GIT_ZSTREAM_DEFLATE,VAR_0
+GIT_ZSTREAM_INIT,VAR_1
+assert_zlib_equal,FUNC_0
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+data,VAR_2
+git_zstream_done,FUNC_3
+git_zstream_free,FUNC_4
+git_zstream_get_output,FUNC_5
+git_zstream_init,FUNC_6
+git_zstream_set_input,FUNC_7
+strlen,FUNC_8
+test_core_zstream__basic,FUNC_9
+z,VAR_3
+out,VAR_4
+outlen,VAR_5

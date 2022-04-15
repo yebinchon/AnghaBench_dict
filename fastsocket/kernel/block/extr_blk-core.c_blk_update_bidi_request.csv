@@ -1,0 +1,10 @@
+add_disk_randomness,FUNC_0
+blk_bidi_rq,FUNC_1
+blk_queue_add_random,FUNC_2
+blk_update_request,FUNC_3
+unlikely,FUNC_4
+blk_update_bidi_request,FUNC_5
+rq,VAR_0
+error,VAR_1
+nr_bytes,VAR_2
+bidi_bytes,VAR_3

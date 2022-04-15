@@ -1,0 +1,17 @@
+Assert,FUNC_0
+CHECK_FOR_INTERRUPTS,FUNC_1
+ExecShutdownGatherWorkers,FUNC_2
+MyLatch,VAR_0
+ResetLatch,FUNC_3
+TupleQueueReaderNext,FUNC_4
+WAIT_EVENT_EXECUTE_GATHER,VAR_1
+WL_EXIT_ON_PM_DEATH,VAR_2
+WL_LATCH_SET,VAR_3
+WaitLatch,FUNC_5
+memmove,FUNC_6
+gather_readnext,FUNC_7
+gatherstate,VAR_4
+nvisited,VAR_5
+reader,VAR_6
+tup,VAR_7
+readerdone,VAR_8

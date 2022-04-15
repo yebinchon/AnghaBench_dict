@@ -1,0 +1,15 @@
+BMG160_REG_TEMP,VAR_0
+IIO_VAL_INT,VAR_1
+bmg160_set_power_state,FUNC_0
+dev_err,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+regmap_get_device,FUNC_4
+regmap_read,FUNC_5
+sign_extend32,FUNC_6
+bmg160_get_temp,FUNC_7
+data,VAR_2
+val,VAR_3
+dev,VAR_4
+ret,VAR_5
+raw_val,VAR_6

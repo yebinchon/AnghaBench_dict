@@ -1,0 +1,17 @@
+ISCSI_OP_NOOP_IN,VAR_0
+ISTATE_SEND_NOPIN_NO_RESPONSE,VAR_1
+ISTATE_SEND_NOPIN_WANT_RESPONSE,VAR_2
+RESERVED_ITT,VAR_3
+TASK_RUNNING,VAR_4
+iscsit_add_cmd_to_immediate_queue,FUNC_0
+iscsit_allocate_cmd,FUNC_1
+iscsit_start_nopin_response_timer,FUNC_2
+list_add_tail,FUNC_3
+session_get_next_ttt,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+iscsit_add_nopin,FUNC_7
+conn,VAR_5
+want_response,VAR_6
+state,VAR_7
+cmd,VAR_8

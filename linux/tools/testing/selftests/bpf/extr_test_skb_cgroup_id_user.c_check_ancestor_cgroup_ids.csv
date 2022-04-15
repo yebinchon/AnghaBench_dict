@@ -1,0 +1,14 @@
+CGROUP_PATH,VAR_0
+NUM_CGROUP_LEVELS,VAR_1
+bpf_map_lookup_elem,FUNC_0
+close,FUNC_1
+get_cgroup_id,FUNC_2
+get_map_fd_by_prog_id,FUNC_3
+log_err,FUNC_4
+check_ancestor_cgroup_ids,FUNC_5
+prog_id,VAR_2
+actual_ids,VAR_3
+expected_ids,VAR_4
+level,VAR_5
+err,VAR_6
+map_fd,VAR_7

@@ -1,0 +1,8 @@
+IMX2_WDT_SEQ1,VAR_0
+IMX2_WDT_SEQ2,VAR_1
+IMX2_WDT_WSR,VAR_2
+regmap_write,FUNC_0
+watchdog_get_drvdata,FUNC_1
+imx2_wdt_ping,FUNC_2
+wdog,VAR_3
+wdev,VAR_4

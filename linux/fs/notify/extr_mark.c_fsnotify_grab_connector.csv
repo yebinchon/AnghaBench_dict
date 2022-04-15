@@ -1,0 +1,11 @@
+FSNOTIFY_OBJ_TYPE_DETACHED,VAR_0
+fsnotify_mark_srcu,VAR_1
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+srcu_dereference,FUNC_2
+srcu_read_lock,FUNC_3
+srcu_read_unlock,FUNC_4
+fsnotify_grab_connector,FUNC_5
+connp,VAR_2
+conn,VAR_3
+idx,VAR_4

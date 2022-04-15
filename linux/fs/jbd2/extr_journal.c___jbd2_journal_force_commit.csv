@@ -1,0 +1,12 @@
+current,VAR_0
+jbd2_log_start_commit,FUNC_0
+jbd2_log_wait_commit,FUNC_1
+read_lock,FUNC_2
+read_unlock,FUNC_3
+tid_geq,FUNC_4
+__jbd2_journal_force_commit,FUNC_5
+journal,VAR_1
+transaction,VAR_2
+tid,VAR_3
+need_to_start,VAR_4
+ret,VAR_5

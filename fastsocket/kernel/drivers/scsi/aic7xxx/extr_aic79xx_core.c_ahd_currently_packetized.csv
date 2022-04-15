@@ -1,0 +1,14 @@
+AHD_MODE_CFG,VAR_0
+AHD_MODE_SCSI,VAR_1
+AHD_PKTIZED_STATUS_BUG,VAR_2
+LQISTAT2,VAR_3
+LQISTATE,VAR_4
+PACKETIZED,VAR_5
+ahd_inb,FUNC_0
+ahd_restore_modes,FUNC_1
+ahd_save_modes,FUNC_2
+ahd_set_modes,FUNC_3
+ahd_currently_packetized,FUNC_4
+ahd,VAR_6
+saved_modes,VAR_7
+packetized,VAR_8

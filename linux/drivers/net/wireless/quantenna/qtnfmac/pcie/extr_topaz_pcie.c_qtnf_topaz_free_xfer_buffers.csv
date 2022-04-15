@@ -1,0 +1,15 @@
+PCI_DMA_FROMDEVICE,VAR_0
+PCI_DMA_TODEVICE,VAR_1
+QTN_HOST_ADDR,FUNC_0
+SKB_BUF_SIZE,VAR_2
+dev_kfree_skb_any,FUNC_1
+le32_to_cpu,FUNC_2
+pci_unmap_single,FUNC_3
+qtnf_topaz_free_xfer_buffers,FUNC_4
+ts,VAR_3
+priv,VAR_4
+rxbd,VAR_5
+txbd,VAR_6
+skb,VAR_7
+paddr,VAR_8
+i,VAR_9

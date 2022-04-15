@@ -1,0 +1,11 @@
+BIO_printf,FUNC_0
+ERR_print_errors,FUNC_1
+SSL_CTX_check_private_key,FUNC_2
+SSL_CTX_use_PrivateKey_file,FUNC_3
+SSL_CTX_use_certificate_file,FUNC_4
+SSL_FILETYPE_PEM,VAR_0
+bio_err,VAR_1
+set_cert_stuff,FUNC_5
+ctx,VAR_2
+cert_file,VAR_3
+key_file,VAR_4

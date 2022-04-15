@@ -1,0 +1,15 @@
+IS_ERR,FUNC_0
+NOP,VAR_0
+PERFORM_SS_FUNC,VAR_1
+PREP_RD_SS_DATA,VAR_2
+RD_ATTMSG,VAR_3
+READ_SS_DATA,VAR_4
+TO_READ_ATTMSG,VAR_5
+tape_alloc_request,FUNC_1
+tape_ccw_cc,FUNC_2
+tape_ccw_end,FUNC_3
+tape_do_io_async_free,FUNC_4
+tape_3590_read_attmsg_async,FUNC_5
+device,VAR_6
+request,VAR_7
+buf,VAR_8

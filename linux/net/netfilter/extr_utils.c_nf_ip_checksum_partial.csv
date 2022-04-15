@@ -1,0 +1,12 @@
+__skb_checksum_complete_head,FUNC_0
+csum_tcpudp_nofold,FUNC_1
+ip_hdr,FUNC_2
+nf_ip_checksum,FUNC_3
+nf_ip_checksum_partial,FUNC_4
+skb,VAR_0
+hook,VAR_1
+dataoff,VAR_2
+len,VAR_3
+protocol,VAR_4
+iph,VAR_5
+csum,VAR_6

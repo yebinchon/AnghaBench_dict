@@ -1,0 +1,14 @@
+APIC_TIMER_MAX_COUNT,VAR_0
+DELAY,FUNC_0
+LAPIC_CCR_TIMER,VAR_1
+bootverbose,VAR_2
+count_freq,VAR_3
+lapic_read32,FUNC_1
+lapic_timer_divisor,VAR_4
+lapic_timer_oneshot_nointr,FUNC_2
+lapic_timer_set_divisor,FUNC_3
+panic,FUNC_4
+printf,FUNC_5
+lapic_calibrate_initcount,FUNC_6
+la,VAR_5
+value,VAR_6

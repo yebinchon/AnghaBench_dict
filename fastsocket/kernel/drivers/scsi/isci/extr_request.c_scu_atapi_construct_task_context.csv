@@ -1,0 +1,15 @@
+DMA_TO_DEVICE,VAR_0
+FIS_DATA,VAR_1
+SCU_TASK_TYPE_PACKET_DMA_IN,VAR_2
+SCU_TASK_TYPE_PACKET_DMA_OUT,VAR_3
+isci_request_access_task,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+sas_to_ata_dev,FUNC_3
+sci_request_build_sgl,FUNC_4
+scu_atapi_construct_task_context,FUNC_5
+ireq,VAR_4
+dev,VAR_5
+task,VAR_6
+task_context,VAR_7
+cdb_len,VAR_8

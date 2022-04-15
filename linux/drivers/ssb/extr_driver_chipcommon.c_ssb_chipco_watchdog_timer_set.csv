@@ -1,0 +1,13 @@
+SSB_CHIPCO_CAP_PMU,VAR_0
+SSB_CHIPCO_PMU_WATCHDOG,VAR_1
+SSB_CHIPCO_WATCHDOG,VAR_2
+SSB_CLKMODE_DYNAMIC,VAR_3
+SSB_CLKMODE_FAST,VAR_4
+chipco_write32,FUNC_0
+ssb_chipco_set_clockmode,FUNC_1
+ssb_chipco_watchdog_get_max_timer,FUNC_2
+ssb_chipco_watchdog_timer_set,FUNC_3
+cc,VAR_5
+ticks,VAR_6
+maxt,VAR_7
+clkmode,VAR_8

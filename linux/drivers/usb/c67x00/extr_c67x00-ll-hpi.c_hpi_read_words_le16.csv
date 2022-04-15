@@ -1,0 +1,14 @@
+HPI_ADDR,VAR_0
+HPI_DATA,VAR_1
+cpu_to_le16,FUNC_0
+hpi_read_reg,FUNC_1
+hpi_write_reg,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+hpi_read_words_le16,FUNC_5
+dev,VAR_2
+addr,VAR_3
+data,VAR_4
+count,VAR_5
+flags,VAR_6
+i,VAR_7

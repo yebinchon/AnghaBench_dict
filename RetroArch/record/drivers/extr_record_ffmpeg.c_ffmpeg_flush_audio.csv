@@ -1,0 +1,12 @@
+av_interleaved_write_frame,FUNC_0
+encode_audio,FUNC_1
+ffmpeg_push_audio_thread,FUNC_2
+fifo_read,FUNC_3
+fifo_read_avail,FUNC_4
+ffmpeg_flush_audio,FUNC_5
+handle,VAR_0
+audio_buf,VAR_1
+audio_buf_size,VAR_2
+avail,VAR_3
+aud,VAR_4
+pkt,VAR_5

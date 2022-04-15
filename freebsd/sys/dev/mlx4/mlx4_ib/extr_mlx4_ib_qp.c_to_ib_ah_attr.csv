@@ -1,0 +1,13 @@
+IB_AH_GRH,VAR_0
+IB_LINK_LAYER_ETHERNET,VAR_1
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+rdma_port_get_link_layer,FUNC_4
+to_ib_ah_attr,FUNC_5
+ibdev,VAR_2
+ib_ah_attr,VAR_3
+path,VAR_4
+dev,VAR_5
+is_eth,VAR_6

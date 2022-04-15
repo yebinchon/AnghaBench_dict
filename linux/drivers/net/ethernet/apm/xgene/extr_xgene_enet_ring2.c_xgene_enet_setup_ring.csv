@@ -1,0 +1,16 @@
+CSR_VMID0_INTR_MBOX,VAR_0
+RING_BUFNUM_MASK,VAR_1
+RING_OWNER_CPU,VAR_2
+xgene_enet_clr_ring_state,FUNC_0
+xgene_enet_get_numslots,FUNC_1
+xgene_enet_is_bufpool,FUNC_2
+xgene_enet_mark_desc_slot_empty,FUNC_3
+xgene_enet_ring_owner,FUNC_4
+xgene_enet_ring_wr32,FUNC_5
+xgene_enet_set_ring_id,FUNC_6
+xgene_enet_set_ring_state,FUNC_7
+xgene_enet_setup_ring,FUNC_8
+ring,VAR_3
+is_bufpool,VAR_4
+addr,VAR_5
+i,VAR_6

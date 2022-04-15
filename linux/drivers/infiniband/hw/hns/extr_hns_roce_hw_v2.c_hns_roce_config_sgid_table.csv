@@ -1,0 +1,17 @@
+CFG_SGID_TB_TABLE_IDX_M,VAR_0
+CFG_SGID_TB_TABLE_IDX_S,VAR_1
+CFG_SGID_TB_VF_SGID_TYPE_M,VAR_2
+CFG_SGID_TB_VF_SGID_TYPE_S,VAR_3
+HNS_ROCE_OPC_CFG_SGID_TB,VAR_4
+cpu_to_le32,FUNC_0
+hns_roce_cmq_send,FUNC_1
+hns_roce_cmq_setup_basic_desc,FUNC_2
+roce_set_field,FUNC_3
+hns_roce_config_sgid_table,FUNC_4
+hr_dev,VAR_5
+gid_index,VAR_6
+gid,VAR_7
+sgid_type,VAR_8
+desc,VAR_9
+sgid_tb,VAR_10
+p,VAR_11

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOTSUP,VAR_1
+VGA_PCI_BIOS_SHADOW_ADDR,VAR_2
+X86BIOS_PHYSTOOFF,FUNC_0
+X86BIOS_PHYSTOSEG,FUNC_1
+device_printf,FUNC_2
+pci_get_bus,FUNC_3
+pci_get_function,FUNC_4
+pci_get_slot,FUNC_5
+vga_pci_is_boot_display,FUNC_6
+x86bios_call,FUNC_7
+x86bios_get_intr,FUNC_8
+x86bios_get_orm,FUNC_9
+x86bios_init_regs,FUNC_10
+vga_pci_repost,FUNC_11
+dev,VAR_3
+regs,VAR_4

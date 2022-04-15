@@ -1,0 +1,12 @@
+BMCR_ISOLATE,VAR_0
+BMCR_PDOWN,VAR_1
+BMCR_RESET,VAR_2
+MII_BMCR,VAR_3
+__phy_read,FUNC_0
+__phy_write,FUNC_1
+udelay,FUNC_2
+reset_one_mii_phy,FUNC_3
+phy,VAR_4
+phy_id,VAR_5
+val,VAR_6
+limit,VAR_7

@@ -1,0 +1,16 @@
+INIT_LIST_HEAD,FUNC_0
+RPC_IS_PRIORITY,FUNC_1
+RPC_IS_QUEUED,FUNC_2
+RPC_IS_SWAPPER,FUNC_3
+WARN_ON_ONCE,FUNC_4
+__rpc_add_wait_queue_priority,FUNC_5
+dprintk,FUNC_6
+list_add,FUNC_7
+list_add_tail,FUNC_8
+rpc_qname,FUNC_9
+rpc_set_queued,FUNC_10
+smp_wmb,FUNC_11
+__rpc_add_wait_queue,FUNC_12
+queue,VAR_0
+task,VAR_1
+queue_priority,VAR_2

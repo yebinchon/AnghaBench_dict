@@ -1,0 +1,13 @@
+SMBHSTCFG,VAR_0
+i2c_del_adapter,FUNC_0
+i801_acpi_remove,FUNC_1
+i801_del_mux,FUNC_2
+i801_disable_host_notify,FUNC_3
+pci_get_drvdata,FUNC_4
+pci_write_config_byte,FUNC_5
+platform_device_unregister,FUNC_6
+pm_runtime_forbid,FUNC_7
+pm_runtime_get_noresume,FUNC_8
+i801_remove,FUNC_9
+dev,VAR_1
+priv,VAR_2

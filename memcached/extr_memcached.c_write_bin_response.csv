@@ -1,0 +1,13 @@
+PROTOCOL_BINARY_CMD_GET,VAR_0
+PROTOCOL_BINARY_CMD_GETK,VAR_1
+add_bin_header,FUNC_0
+add_iov,FUNC_1
+conn_mwrite,VAR_2
+conn_new_cmd,VAR_3
+conn_set_state,FUNC_2
+write_bin_response,FUNC_3
+c,VAR_4
+d,VAR_5
+hlen,VAR_6
+keylen,VAR_7
+dlen,VAR_8

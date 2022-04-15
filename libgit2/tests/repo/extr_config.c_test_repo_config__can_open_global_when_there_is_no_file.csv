@@ -1,0 +1,17 @@
+GIT_CONFIG_LEVEL_GLOBAL,VAR_0
+GIT_CONFIG_LEVEL_SYSTEM,VAR_1
+GIT_CONFIG_LEVEL_XDG,VAR_2
+GIT_OPT_SET_SEARCH_PATH,VAR_3
+cl_git_pass,FUNC_0
+git_config_free,FUNC_1
+git_config_open_level,FUNC_2
+git_config_set_string,FUNC_3
+git_libgit2_opts,FUNC_4
+git_repository_config,FUNC_5
+git_repository_free,FUNC_6
+git_repository_open,FUNC_7
+path,VAR_4
+test_repo_config__can_open_global_when_there_is_no_file,FUNC_8
+repo,VAR_5
+config,VAR_6
+global,VAR_7

@@ -1,0 +1,15 @@
+MLX5_QPTS_TRUST_DSCP,VAR_0
+mlx5e_get_dscp_up,FUNC_0
+netdev_get_num_tc,FUNC_1
+netdev_pick_tx,FUNC_2
+netdev_priv,FUNC_3
+skb_vlan_tag_get_prio,FUNC_4
+skb_vlan_tag_present,FUNC_5
+mlx5e_select_queue,FUNC_6
+dev,VAR_1
+skb,VAR_2
+sb_dev,VAR_3
+txq_ix,VAR_4
+priv,VAR_5
+num_channels,VAR_6
+up,VAR_7

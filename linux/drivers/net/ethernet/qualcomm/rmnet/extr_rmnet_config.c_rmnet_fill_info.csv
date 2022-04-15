@@ -1,0 +1,15 @@
+EMSGSIZE,VAR_0
+IFLA_RMNET_FLAGS,VAR_1
+IFLA_RMNET_MUX_ID,VAR_2
+netdev_priv,FUNC_0
+nla_put,FUNC_1
+nla_put_u16,FUNC_2
+rmnet_get_port_rtnl,FUNC_3
+rmnet_is_real_dev_registered,FUNC_4
+rmnet_fill_info,FUNC_5
+skb,VAR_3
+dev,VAR_4
+priv,VAR_5
+real_dev,VAR_6
+f,VAR_7
+port,VAR_8

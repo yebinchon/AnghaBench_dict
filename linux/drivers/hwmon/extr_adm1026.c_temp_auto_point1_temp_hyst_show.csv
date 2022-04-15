@@ -1,0 +1,12 @@
+ADM1026_FAN_ACTIVATION_TEMP_HYST,VAR_0
+TEMP_FROM_REG,FUNC_0
+adm1026_update_device,FUNC_1
+sprintf,FUNC_2
+to_sensor_dev_attr,FUNC_3
+temp_auto_point1_temp_hyst_show,FUNC_4
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+sensor_attr,VAR_4
+nr,VAR_5
+data,VAR_6

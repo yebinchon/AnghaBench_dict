@@ -1,0 +1,14 @@
+BLOCK_FLAG_CORRUPTED,VAR_0
+BLOCK_FLAG_DISCONTINUITY,VAR_1
+CreateDefaultHeader,FUNC_0
+Flush,FUNC_1
+ProcessHeaders,FUNC_2
+ProcessPacket,FUNC_3
+block_Release,FUNC_4
+msg_Warn,FUNC_5
+DecodeBlock,FUNC_6
+p_dec,VAR_2
+pp_block,VAR_3
+p_sys,VAR_4
+oggpacket,VAR_5
+block,VAR_6

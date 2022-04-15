@@ -1,0 +1,15 @@
+GPIO_PIOFENA,FUNC_0
+GPIO_PIORENA,FUNC_1
+MTK_GPIO_LOCK,FUNC_2
+MTK_GPIO_UNLOCK,FUNC_3
+MTK_READ_4,FUNC_4
+MTK_WRITE_4,FUNC_5
+device_get_softc,FUNC_6
+mtk_gpio_pic_disable_intr,FUNC_7
+dev,VAR_0
+isrc,VAR_1
+sc,VAR_2
+pisrc,VAR_3
+pin,VAR_4
+mask,VAR_5
+val,VAR_6

@@ -1,0 +1,15 @@
+DM_PG_INIT_DELAY_DEFAULT,VAR_0
+DM_TYPE_BIO_BASED,VAR_1
+DM_TYPE_NONE,VAR_2
+DM_TYPE_REQUEST_BASED,VAR_3
+INIT_WORK,FUNC_0
+MPATHF_QUEUE_IO,VAR_4
+MPATHF_RETAIN_ATTACHED_HW_HANDLER,VAR_5
+atomic_set,FUNC_1
+dm_table_set_type,FUNC_2
+init_waitqueue_head,FUNC_3
+process_queued_bios,VAR_6
+set_bit,FUNC_4
+alloc_multipath_stage2,FUNC_5
+ti,VAR_7
+m,VAR_8

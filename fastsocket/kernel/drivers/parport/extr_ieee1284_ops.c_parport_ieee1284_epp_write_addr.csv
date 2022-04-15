@@ -1,0 +1,16 @@
+PARPORT_CONTROL_AUTOFD,VAR_0
+PARPORT_CONTROL_INIT,VAR_1
+PARPORT_CONTROL_SELECT,VAR_2
+PARPORT_CONTROL_STROBE,VAR_3
+PARPORT_STATUS_BUSY,VAR_4
+parport_frob_control,FUNC_0
+parport_poll_peripheral,FUNC_1
+parport_write_data,FUNC_2
+stub1,FUNC_3
+parport_ieee1284_epp_write_addr,FUNC_4
+port,VAR_5
+buffer,VAR_6
+len,VAR_7
+flags,VAR_8
+bp,VAR_9
+ret,VAR_10

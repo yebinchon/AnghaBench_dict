@@ -1,0 +1,16 @@
+USB_DT_CS_INTERFACE,VAR_0
+UVC_QUIRK_BUILTIN_ISIGHT,VAR_1
+UVC_TRACE_DESCR,VAR_2
+le16_to_cpu,FUNC_0
+usb_endpoint_is_int_in,FUNC_1
+uvc_parse_standard_control,FUNC_2
+uvc_parse_vendor_control,FUNC_3
+uvc_trace,FUNC_4
+uvc_parse_control,FUNC_5
+dev,VAR_3
+alts,VAR_4
+buffer,VAR_5
+buflen,VAR_6
+ret,VAR_7
+ep,VAR_8
+desc,VAR_9

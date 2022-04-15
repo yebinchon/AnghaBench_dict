@@ -1,0 +1,11 @@
+BDI_RECLAIMABLE,VAR_0
+NR_FILE_DIRTY,VAR_1
+TestClearPageDirty,FUNC_0
+dec_bdi_stat,FUNC_1
+dec_zone_page_state,FUNC_2
+mapping_cap_account_dirty,FUNC_3
+task_io_account_cancelled_write,FUNC_4
+cancel_dirty_page,FUNC_5
+page,VAR_2
+account_size,VAR_3
+mapping,VAR_4

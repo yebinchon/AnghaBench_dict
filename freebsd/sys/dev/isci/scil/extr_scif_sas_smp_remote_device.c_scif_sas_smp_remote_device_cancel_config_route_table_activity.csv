@@ -1,0 +1,15 @@
+FALSE,VAR_0
+SCIF_LOG_OBJECT_DOMAIN_DISCOVERY,VAR_1
+SCIF_LOG_OBJECT_REMOTE_DEVICE,VAR_2
+SCIF_LOG_TRACE,FUNC_0
+TRUE,VAR_3
+sci_base_object_get_logger,FUNC_1
+sci_fast_list_get_next,FUNC_2
+sci_fast_list_get_object,FUNC_3
+scif_domain_get_device_by_sas_address,FUNC_4
+scif_sas_smp_remote_device_do_config_route_info,FUNC_5
+scif_sas_smp_remote_device_cancel_config_route_table_activity,FUNC_6
+fw_device,VAR_4
+element,VAR_5
+curr_smp_phy,VAR_6
+curr_attached_device,VAR_7

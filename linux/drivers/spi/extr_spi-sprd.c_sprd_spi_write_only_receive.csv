@@ -1,0 +1,9 @@
+SPRD_SPI_CTL4,VAR_0
+SPRD_SPI_ONLY_RECV_MASK,VAR_1
+SPRD_SPI_START_RX,VAR_2
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+sprd_spi_write_only_receive,FUNC_2
+ss,VAR_3
+len,VAR_4
+val,VAR_5

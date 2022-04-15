@@ -1,0 +1,17 @@
+LDNS_RR_TYPE_SOA,VAR_0
+PREFETCH_TTL_CALC,FUNC_0
+SERVE_EXPIRED_TTL,VAR_1
+az_domain_rrset,FUNC_1
+az_find_name,FUNC_2
+get_rrset_ttl,FUNC_3
+log_assert,FUNC_4
+msg_add_rrset_ns,FUNC_5
+sldns_read_uint32,FUNC_6
+az_add_negative_soa,FUNC_7
+z,VAR_2
+region,VAR_3
+msg,VAR_4
+minimum,VAR_5
+d,VAR_6
+soa,VAR_7
+apex,VAR_8

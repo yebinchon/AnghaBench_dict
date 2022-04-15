@@ -1,0 +1,13 @@
+EMAC_MAC_MADR,VAR_0
+EMAC_MAC_MCMD,VAR_1
+EMAC_MAC_MWTD,VAR_2
+EMAC_WRITE_REG,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+emac_miibus_iowait,FUNC_3
+emac_miibus_writereg,FUNC_4
+dev,VAR_3
+phy,VAR_4
+reg,VAR_5
+data,VAR_6
+sc,VAR_7

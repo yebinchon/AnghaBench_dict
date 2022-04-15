@@ -1,0 +1,17 @@
+ES_LOCK,FUNC_0
+ES_UNLOCK,FUNC_1
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_dma_tag_destroy,FUNC_2
+bus_release_resource,FUNC_3
+bus_teardown_intr,FUNC_4
+callout_drain,FUNC_5
+callout_stop,FUNC_6
+free,FUNC_7
+pcm_getdevinfo,FUNC_8
+pcm_unregister,FUNC_9
+snd_mtxfree,FUNC_10
+es_pci_detach,FUNC_11
+dev,VAR_2
+r,VAR_3
+es,VAR_4

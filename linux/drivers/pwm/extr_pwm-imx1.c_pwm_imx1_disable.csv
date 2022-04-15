@@ -1,0 +1,11 @@
+MX1_PWMC,VAR_0
+MX1_PWMC_EN,VAR_1
+pwm_imx1_clk_disable_unprepare,FUNC_0
+readl,FUNC_1
+to_pwm_imx1_chip,FUNC_2
+writel,FUNC_3
+pwm_imx1_disable,FUNC_4
+chip,VAR_2
+pwm,VAR_3
+imx,VAR_4
+value,VAR_5

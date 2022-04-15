@@ -1,0 +1,15 @@
+PT_PTRACED,VAR_0
+SI_USER,VAR_1
+current,VAR_2
+ptrace_signal_deliver,FUNC_0
+ptrace_stop,FUNC_1
+sigismember,FUNC_2
+specific_send_sig_info,FUNC_3
+task_pid_vnr,FUNC_4
+task_ptrace,FUNC_5
+task_uid,FUNC_6
+ptrace_signal,FUNC_7
+signr,VAR_3
+info,VAR_4
+regs,VAR_5
+cookie,VAR_6

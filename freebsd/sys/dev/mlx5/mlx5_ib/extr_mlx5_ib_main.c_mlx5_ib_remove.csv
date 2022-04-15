@@ -1,0 +1,17 @@
+IB_LINK_LAYER_ETHERNET,VAR_0
+destroy_dev_resources,FUNC_0
+destroy_umrc_res,FUNC_1
+ib_dealloc_device,FUNC_2
+ib_unregister_device,FUNC_3
+kfree,FUNC_4
+mlx5_disable_roce,FUNC_5
+mlx5_ib_cleanup_congestion,FUNC_6
+mlx5_ib_dealloc_q_counters,FUNC_7
+mlx5_ib_odp_remove_one,FUNC_8
+mlx5_ib_port_link_layer,FUNC_9
+mlx5_remove_roce_notifier,FUNC_10
+mlx5_ib_remove,FUNC_11
+mdev,VAR_1
+context,VAR_2
+dev,VAR_3
+ll,VAR_4

@@ -1,0 +1,11 @@
+GIT_EEXISTS,VAR_0
+GIT_ENOTFOUND,VAR_1
+GIT_FILTER_CRLF,VAR_2
+GIT_FILTER_IDENT,VAR_3
+GIT_FILTER_VERSION,VAR_4
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+git_filter_register,FUNC_2
+git_filter_unregister,FUNC_3
+test_filter_custom__filter_registry_failure_cases,FUNC_4
+fake,VAR_5

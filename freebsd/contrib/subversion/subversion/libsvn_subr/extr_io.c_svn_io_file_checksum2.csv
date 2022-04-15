@@ -1,0 +1,15 @@
+APR_OS_DEFAULT,VAR_0
+APR_READ,VAR_1
+FALSE,VAR_2
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_3
+svn_io_file_open,FUNC_1
+svn_stream_contents_checksum,FUNC_2
+svn_stream_from_aprfile2,FUNC_3
+svn_io_file_checksum2,FUNC_4
+checksum,VAR_4
+file,VAR_5
+kind,VAR_6
+pool,VAR_7
+file_stream,VAR_8
+f,VAR_9

@@ -1,0 +1,12 @@
+IF_DRAIN,FUNC_0
+M_NETGRAPH,VAR_0
+NG_NODE_PRIVATE,FUNC_1
+NG_NODE_UNREF,FUNC_2
+free,FUNC_3
+mtx_destroy,FUNC_4
+tty_lock,FUNC_5
+ttyhook_unregister,FUNC_6
+ngt_shutdown,FUNC_7
+node,VAR_1
+sc,VAR_2
+tp,VAR_3

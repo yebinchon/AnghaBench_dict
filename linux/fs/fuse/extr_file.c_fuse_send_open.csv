@@ -1,0 +1,15 @@
+FUSE_ARGS,FUNC_0
+O_CREAT,VAR_0
+O_EXCL,VAR_1
+O_NOCTTY,VAR_2
+O_TRUNC,VAR_3
+args,VAR_4
+fuse_simple_request,FUNC_1
+memset,FUNC_2
+fuse_send_open,FUNC_3
+fc,VAR_5
+nodeid,VAR_6
+file,VAR_7
+opcode,VAR_8
+outargp,VAR_9
+inarg,VAR_10

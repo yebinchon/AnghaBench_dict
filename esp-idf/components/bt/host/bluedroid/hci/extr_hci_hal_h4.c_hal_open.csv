@@ -1,0 +1,14 @@
+BLE_ADV_REPORT_FLOW_CONTROL_NUM,VAR_0
+ESP_OK,VAR_1
+HCI_HAL_SERIAL_BUFFER_SIZE,VAR_2
+L2CAP_HOST_FC_ACL_BUFS,VAR_3
+QUEUE_SIZE_MAX,VAR_4
+assert,FUNC_0
+callbacks,VAR_5
+esp_vhci_host_register_callback,FUNC_1
+hci_h4_thread,VAR_6
+hci_hal_env_init,FUNC_2
+vhci_host_cb,VAR_7
+hal_open,FUNC_3
+upper_callbacks,VAR_8
+task_thread,VAR_9

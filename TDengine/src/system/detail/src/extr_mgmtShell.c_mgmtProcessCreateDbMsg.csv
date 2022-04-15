@@ -1,0 +1,17 @@
+TSDB_CODE_GRANT_EXPIRED,VAR_0
+TSDB_CODE_NO_RIGHTS,VAR_1
+TSDB_CODE_SUCCESS,VAR_2
+TSDB_MSG_TYPE_CREATE_DB_RSP,VAR_3
+grantCheckExpired,FUNC_0
+htonl,FUNC_1
+htons,FUNC_2
+mLPrint,FUNC_3
+mgmtCheckRedirectMsg,FUNC_4
+mgmtCreateDb,FUNC_5
+taosSendSimpleRsp,FUNC_6
+mgmtProcessCreateDbMsg,FUNC_7
+pMsg,VAR_4
+msgLen,VAR_5
+pConn,VAR_6
+pCreate,VAR_7
+code,VAR_8

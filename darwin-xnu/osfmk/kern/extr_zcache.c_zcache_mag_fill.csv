@@ -1,0 +1,15 @@
+ASAN_HEAP_FREED,VAR_0
+FALSE,VAR_1
+TRUE,VAR_2
+assert,FUNC_0
+kasan_poison_range,FUNC_1
+lock_zone,FUNC_2
+unlock_zone,FUNC_3
+zalloc_attempt,FUNC_4
+zcache_canary_add,FUNC_5
+zcache_mag_push,FUNC_6
+zcache_mag_fill,FUNC_7
+zone,VAR_3
+mag,VAR_4
+elem,VAR_5
+i,VAR_6

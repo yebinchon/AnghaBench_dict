@@ -1,0 +1,12 @@
+KVM_CLEAR_DIRTY_LOG,VAR_0
+TEST_ASSERT,FUNC_0
+ioctl,FUNC_1
+strerror,FUNC_2
+kvm_vm_clear_dirty_log,FUNC_3
+vm,VAR_1
+slot,VAR_2
+log,VAR_3
+first_page,VAR_4
+num_pages,VAR_5
+args,VAR_6
+ret,VAR_7

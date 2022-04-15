@@ -1,0 +1,16 @@
+CVMX_CIU_INTX_SUM0,FUNC_0
+CVMX_GPIO_BIT_CFGX,FUNC_1
+CVMX_GPIO_INT_CLR,VAR_0
+CVMX_GPIO_MULTI_CAST,VAR_1
+OCTEON_CN61XX,VAR_2
+OCTEON_IS_MODEL,FUNC_2
+cvmx_get_core_num,FUNC_3
+cvmx_read_csr,FUNC_4
+cvmx_write_csr,FUNC_5
+cvmx_gpio_interrupt_clear,FUNC_6
+clear_mask,VAR_3
+multi_cast,VAR_4
+gpio_bit,VAR_5
+core,VAR_6
+ciu_sum0,VAR_7
+gpio_int_clr,VAR_8

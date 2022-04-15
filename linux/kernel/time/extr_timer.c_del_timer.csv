@@ -1,0 +1,10 @@
+debug_assert_init,FUNC_0
+detach_if_pending,FUNC_1
+lock_timer_base,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+timer_pending,FUNC_4
+del_timer,FUNC_5
+timer,VAR_0
+base,VAR_1
+flags,VAR_2
+ret,VAR_3

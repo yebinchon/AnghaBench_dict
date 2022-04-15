@@ -1,0 +1,13 @@
+SEG_DESC_DEF32,FUNC_0
+VMCS_GUEST_CS_ACCESS_RIGHTS,VAR_0
+VMCS_GUEST_CS_BASE,VAR_1
+VM_EXITCODE_INST_EMUL,VAR_2
+vie_init,FUNC_1
+vmcs_read,FUNC_2
+vmx_paging_info,FUNC_3
+vmexit_inst_emul,FUNC_4
+vmexit,VAR_3
+gpa,VAR_4
+gla,VAR_5
+paging,VAR_6
+csar,VAR_7

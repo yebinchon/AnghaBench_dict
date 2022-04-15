@@ -1,0 +1,11 @@
+OP_TableLock,VAR_0
+P4_STATIC,VAR_1
+assert,FUNC_0
+sqlite3GetVdbe,FUNC_1
+sqlite3VdbeAddOp4,FUNC_2
+codeTableLocks,FUNC_3
+pParse,VAR_2
+i,VAR_3
+pVdbe,VAR_4
+p,VAR_5
+p1,VAR_6

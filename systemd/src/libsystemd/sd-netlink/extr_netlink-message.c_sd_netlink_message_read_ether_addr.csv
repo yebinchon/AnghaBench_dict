@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+EIO,VAR_1
+NETLINK_TYPE_ETHER_ADDR,VAR_2
+assert_return,FUNC_0
+memcpy,FUNC_1
+message_attribute_has_type,FUNC_2
+netlink_message_read_internal,FUNC_3
+sd_netlink_message_read_ether_addr,FUNC_4
+m,VAR_3
+type,VAR_4
+data,VAR_5
+r,VAR_6
+attr_data,VAR_7

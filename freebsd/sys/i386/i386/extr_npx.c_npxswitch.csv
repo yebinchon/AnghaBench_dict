@@ -1,0 +1,11 @@
+PCB_USER_FPU,FUNC_0
+PCPU_GET,FUNC_1
+PCPU_SET,FUNC_2
+TDP_KTHREAD,VAR_0
+fpcurthread,VAR_1
+lazy_fpu_switch,VAR_2
+restore_npx_curthread,FUNC_3
+start_emulating,FUNC_4
+npxswitch,FUNC_5
+td,VAR_3
+pcb,VAR_4

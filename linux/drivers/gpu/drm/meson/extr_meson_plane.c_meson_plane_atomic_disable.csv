@@ -1,0 +1,14 @@
+OSD1_BLEND_SRC_CTRL,VAR_0
+VIU_OSD1_POSTBLD_SRC_OSD1,VAR_1
+VPP_MISC,VAR_2
+VPP_OSD1_POSTBLEND,VAR_3
+VPU_COMPATIBLE_G12A,VAR_4
+_REG,FUNC_0
+meson_vpu_is_compatible,FUNC_1
+to_meson_plane,FUNC_2
+writel_bits_relaxed,FUNC_3
+meson_plane_atomic_disable,FUNC_4
+plane,VAR_5
+old_state,VAR_6
+meson_plane,VAR_7
+priv,VAR_8

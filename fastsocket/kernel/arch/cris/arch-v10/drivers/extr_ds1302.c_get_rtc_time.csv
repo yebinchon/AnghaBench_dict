@@ -1,0 +1,13 @@
+CMOS_READ,FUNC_0
+RTC_DAY_OF_MONTH,VAR_0
+RTC_HOURS,VAR_1
+RTC_MINUTES,VAR_2
+RTC_MONTH,VAR_3
+RTC_SECONDS,VAR_4
+RTC_YEAR,VAR_5
+bcd2bin,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+get_rtc_time,FUNC_4
+rtc_tm,VAR_6
+flags,VAR_7

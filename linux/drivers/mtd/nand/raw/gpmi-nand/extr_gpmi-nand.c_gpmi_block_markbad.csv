@@ -1,0 +1,16 @@
+GPMI_IS_MX23,FUNC_0
+nand_deselect_target,FUNC_1
+nand_get_controller_data,FUNC_2
+nand_prog_page_op,FUNC_3
+nand_select_target,FUNC_4
+nand_to_mtd,FUNC_5
+gpmi_block_markbad,FUNC_6
+chip,VAR_0
+ofs,VAR_1
+mtd,VAR_2
+this,VAR_3
+ret,VAR_4
+block_mark,VAR_5
+column,VAR_6
+page,VAR_7
+chipnr,VAR_8

@@ -1,0 +1,15 @@
+EVDEV_RCPT_HW_KBD,VAR_0
+EV_KEY,VAR_1
+EV_SYN,VAR_2
+NONE,VAR_3
+SYN_REPORT,VAR_4
+assert,FUNC_0
+keymap,VAR_5
+nitems,FUNC_1
+uinput_get_rcpt_mask,FUNC_2
+uinput_write_event,FUNC_3
+uinput_rep_key,FUNC_4
+fd,VAR_6
+key,VAR_7
+make,VAR_8
+rcpt_mask,VAR_9

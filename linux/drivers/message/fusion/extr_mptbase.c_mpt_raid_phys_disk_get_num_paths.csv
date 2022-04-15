@@ -1,0 +1,16 @@
+MPI_CONFIG_ACTION_PAGE_HEADER,VAR_0
+MPI_CONFIG_ACTION_PAGE_READ_CURRENT,VAR_1
+MPI_CONFIG_PAGETYPE_RAID_PHYSDISK,VAR_2
+MPI_RAIDPHYSDISKPAGE1_PAGEVERSION,VAR_3
+memset,FUNC_0
+mpt_config,FUNC_1
+pci_alloc_consistent,FUNC_2
+pci_free_consistent,FUNC_3
+mpt_raid_phys_disk_get_num_paths,FUNC_4
+ioc,VAR_4
+phys_disk_num,VAR_5
+cfg,VAR_6
+hdr,VAR_7
+dma_handle,VAR_8
+buffer,VAR_9
+rc,VAR_10

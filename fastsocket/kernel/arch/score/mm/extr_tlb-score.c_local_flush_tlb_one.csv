@@ -1,0 +1,16 @@
+KSEG1,VAR_0
+PAGE_MASK,VAR_1
+barrier,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+pectx_set,FUNC_3
+pevn_get,FUNC_4
+pevn_set,FUNC_5
+tlb_probe,FUNC_6
+tlb_write_indexed,FUNC_7
+tlbpt_get,FUNC_8
+local_flush_tlb_one,FUNC_9
+page,VAR_2
+flags,VAR_3
+oldpid,VAR_4
+idx,VAR_5

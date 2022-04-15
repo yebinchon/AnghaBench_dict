@@ -1,0 +1,17 @@
+SUBPICTURE_ALIGN_LEFT,VAR_0
+SUBPICTURE_ALIGN_TOP,VAR_1
+VLC_CODEC_RGBA,VAR_2
+assert,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+subpicture_region_New,FUNC_3
+ConvertRegionRGBA,FUNC_4
+ffregion,VAR_3
+fmt,VAR_4
+region,VAR_5
+p,VAR_6
+y,VAR_7
+x,VAR_8
+index,VAR_9
+color,VAR_10
+p_rgba,VAR_11

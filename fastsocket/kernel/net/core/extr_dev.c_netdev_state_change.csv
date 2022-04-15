@@ -1,0 +1,7 @@
+IFF_UP,VAR_0
+NETDEV_CHANGE,VAR_1
+RTM_NEWLINK,VAR_2
+call_netdevice_notifiers,FUNC_0
+rtmsg_ifinfo,FUNC_1
+netdev_state_change,FUNC_2
+dev,VAR_3

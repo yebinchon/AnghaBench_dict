@@ -1,0 +1,15 @@
+MCL_CURRENT,VAR_0
+MCL_FUTURE,VAR_1
+MCL_ONFAULT,VAR_2
+VM_LOCKED,VAR_3
+VM_LOCKED_CLEAR_MASK,VAR_4
+VM_LOCKONFAULT,VAR_5
+cond_resched,FUNC_0
+current,VAR_6
+mlock_fixup,FUNC_1
+apply_mlockall_flags,FUNC_2
+flags,VAR_7
+vma,VAR_8
+prev,VAR_9
+to_add,VAR_10
+newflags,VAR_11

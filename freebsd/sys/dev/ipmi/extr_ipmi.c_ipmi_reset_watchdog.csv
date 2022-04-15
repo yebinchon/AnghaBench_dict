@@ -1,0 +1,10 @@
+IPMI_ADDR,FUNC_0
+IPMI_ALLOC_DRIVER_REQUEST,FUNC_1
+IPMI_APP_REQUEST,VAR_0
+IPMI_RESET_WDOG,VAR_1
+device_printf,FUNC_2
+ipmi_submit_driver_request,FUNC_3
+ipmi_reset_watchdog,FUNC_4
+sc,VAR_2
+req,VAR_3
+error,VAR_4

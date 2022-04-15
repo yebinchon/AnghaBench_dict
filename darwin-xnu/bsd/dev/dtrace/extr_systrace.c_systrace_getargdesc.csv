@@ -1,0 +1,15 @@
+DTRACE_ARGNONE,VAR_0
+SYSTRACE_ISENTRY,FUNC_0
+SYSTRACE_SYSNUM,FUNC_1
+current_thread,FUNC_2
+get_bsdthread_info,FUNC_3
+systrace_entry_setargdesc,FUNC_4
+systrace_return_setargdesc,FUNC_5
+systrace_getargdesc,FUNC_6
+arg,VAR_1
+id,VAR_2
+parg,VAR_3
+desc,VAR_4
+sysnum,VAR_5
+uthread,VAR_6
+uargs,VAR_7

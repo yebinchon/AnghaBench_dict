@@ -1,0 +1,17 @@
+BEISCSI_LOG_INIT,VAR_0
+KERN_ERR,VAR_1
+KERN_WARNING,VAR_2
+PCI_D0,VAR_3
+PCI_ERS_RESULT_DISCONNECT,VAR_4
+PCI_ERS_RESULT_RECOVERED,VAR_5
+beiscsi_check_fw_rdy,FUNC_0
+beiscsi_log,FUNC_1
+pci_enable_device,FUNC_2
+pci_get_drvdata,FUNC_3
+pci_restore_state,FUNC_4
+pci_set_master,FUNC_5
+pci_set_power_state,FUNC_6
+beiscsi_eeh_reset,FUNC_7
+pdev,VAR_6
+phba,VAR_7
+status,VAR_8

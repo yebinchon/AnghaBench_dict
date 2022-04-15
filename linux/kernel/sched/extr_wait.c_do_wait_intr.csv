@@ -1,0 +1,14 @@
+ERESTARTSYS,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+__add_wait_queue_entry_tail,FUNC_0
+current,VAR_2
+likely,FUNC_1
+list_empty,FUNC_2
+schedule,FUNC_3
+set_current_state,FUNC_4
+signal_pending,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+do_wait_intr,FUNC_8
+wq,VAR_3
+wait,VAR_4

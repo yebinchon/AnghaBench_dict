@@ -1,0 +1,17 @@
+BTU_TTYPE_L2CAP_HOLD,VAR_0
+BT_1SEC_TIMEOUT,VAR_1
+L2CAP_TRACE_WARNING,FUNC_0
+btu_start_timer,FUNC_1
+btu_stop_timer,FUNC_2
+l2c_rcv_acl_data,FUNC_3
+l2cb,VAR_2
+list_begin,FUNC_4
+list_end,FUNC_5
+list_is_empty,FUNC_6
+list_next,FUNC_7
+list_node,FUNC_8
+list_remove,FUNC_9
+l2c_process_held_packets,FUNC_10
+timed_out,VAR_3
+node,VAR_4
+p_buf,VAR_5

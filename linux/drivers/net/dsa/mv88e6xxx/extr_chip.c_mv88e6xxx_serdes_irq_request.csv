@@ -1,0 +1,14 @@
+IRQF_ONESHOT,VAR_0
+mv88e6xxx_reg_lock,FUNC_0
+mv88e6xxx_reg_unlock,FUNC_1
+mv88e6xxx_serdes_irq_enable,FUNC_2
+mv88e6xxx_serdes_irq_mapping,FUNC_3
+mv88e6xxx_serdes_irq_thread_fn,VAR_1
+request_threaded_irq,FUNC_4
+mv88e6xxx_serdes_irq_request,FUNC_5
+chip,VAR_2
+port,VAR_3
+lane,VAR_4
+dev_id,VAR_5
+irq,VAR_6
+err,VAR_7

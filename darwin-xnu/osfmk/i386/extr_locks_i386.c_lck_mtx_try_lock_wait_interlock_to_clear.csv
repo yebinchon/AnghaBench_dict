@@ -1,0 +1,11 @@
+FALSE,VAR_0
+LCK_MTX_ILOCKED_MSK,VAR_1
+LCK_MTX_MLOCKED_MSK,VAR_2
+LCK_MTX_SPIN_MSK,VAR_3
+TRUE,VAR_4
+cpu_pause,FUNC_0
+ordered_load_mtx_state,FUNC_1
+lck_mtx_try_lock_wait_interlock_to_clear,FUNC_2
+lock,VAR_5
+new_state,VAR_6
+state,VAR_7

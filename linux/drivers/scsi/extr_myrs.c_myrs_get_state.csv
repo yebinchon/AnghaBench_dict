@@ -1,0 +1,15 @@
+RAID_STATE_ACTIVE,VAR_0
+RAID_STATE_DEGRADED,VAR_1
+RAID_STATE_OFFLINE,VAR_2
+RAID_STATE_RESYNCING,VAR_3
+RAID_STATE_UNKNOWN,VAR_4
+myrs_raid_template,VAR_5
+raid_set_state,FUNC_0
+shost_priv,FUNC_1
+to_scsi_device,FUNC_2
+myrs_get_state,FUNC_3
+dev,VAR_6
+sdev,VAR_7
+cs,VAR_8
+ldev_info,VAR_9
+state,VAR_10

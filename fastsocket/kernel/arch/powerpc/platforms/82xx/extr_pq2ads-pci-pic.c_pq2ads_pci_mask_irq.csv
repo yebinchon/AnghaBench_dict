@@ -1,0 +1,13 @@
+NUM_IRQS,VAR_0
+get_irq_chip_data,FUNC_0
+mb,FUNC_1
+pci_pic_lock,VAR_1
+setbits32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+virq_to_hw,FUNC_5
+pq2ads_pci_mask_irq,FUNC_6
+virq,VAR_2
+priv,VAR_3
+irq,VAR_4
+flags,VAR_5

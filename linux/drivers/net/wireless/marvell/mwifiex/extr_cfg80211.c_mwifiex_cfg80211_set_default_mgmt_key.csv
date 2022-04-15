@@ -1,0 +1,14 @@
+HostCmd_ACT_GEN_SET,VAR_0
+HostCmd_CMD_802_11_KEY_MATERIAL,VAR_1
+WLAN_KEY_LEN_CCMP,VAR_2
+eth_broadcast_addr,FUNC_0
+memset,FUNC_1
+mwifiex_netdev_get_priv,FUNC_2
+mwifiex_send_cmd,FUNC_3
+wiphy_dbg,FUNC_4
+mwifiex_cfg80211_set_default_mgmt_key,FUNC_5
+wiphy,VAR_3
+netdev,VAR_4
+key_index,VAR_5
+priv,VAR_6
+encrypt_key,VAR_7

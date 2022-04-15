@@ -1,0 +1,12 @@
+BGMAC_PHY_NOREGS,VAR_0
+BMCR_RESET,VAR_1
+MII_BMCR,VAR_2
+bcma_mdio_phy_init,FUNC_0
+bcma_mdio_phy_read,FUNC_1
+bcma_mdio_phy_write,FUNC_2
+dev_err,FUNC_3
+udelay,FUNC_4
+bcma_mdio_phy_reset,FUNC_5
+bus,VAR_3
+bgmac,VAR_4
+phyaddr,VAR_5

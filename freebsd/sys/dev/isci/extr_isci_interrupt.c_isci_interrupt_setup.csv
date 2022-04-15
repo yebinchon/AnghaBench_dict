@@ -1,0 +1,13 @@
+FALSE,VAR_0
+SCI_MAX_MSIX_MESSAGES_PER_CONTROLLER,VAR_1
+TRUE,VAR_2
+TUNABLE_INT_FETCH,FUNC_0
+isci_interrupt_setup_legacy,FUNC_1
+isci_interrupt_setup_msix,FUNC_2
+pci_alloc_msix,FUNC_3
+pci_msix_count,FUNC_4
+isci_interrupt_setup,FUNC_5
+isci,VAR_3
+max_msix_messages,VAR_4
+use_msix,VAR_5
+force_legacy_interrupts,VAR_6

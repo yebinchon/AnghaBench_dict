@@ -1,0 +1,16 @@
+CPUID5_ECX_EXTENSIONS_SUPPORTED,VAR_0
+CPUID5_ECX_INTERRUPT_BREAK,VAR_1
+CPUID_MWAIT_LEAF,VAR_2
+MWAIT_SUBSTATE_MASK,VAR_3
+MWAIT_SUBSTATE_SIZE,VAR_4
+boot_cpu_data,VAR_5
+cpuid,FUNC_0
+target_mwait,VAR_6
+find_target_mwait,FUNC_1
+eax,VAR_7
+ebx,VAR_8
+ecx,VAR_9
+edx,VAR_10
+highest_cstate,VAR_11
+highest_subcstate,VAR_12
+i,VAR_13

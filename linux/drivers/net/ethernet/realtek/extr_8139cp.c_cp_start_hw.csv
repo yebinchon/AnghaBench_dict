@@ -1,0 +1,15 @@
+CP_RX_RING_SIZE,VAR_0
+Cmd,VAR_1
+CpCmd,VAR_2
+HiTxRingAddr,VAR_3
+RxOn,VAR_4
+RxRingAddr,VAR_5
+TxOn,VAR_6
+TxRingAddr,VAR_7
+cpw16,FUNC_0
+cpw32_f,FUNC_1
+cpw8,FUNC_2
+netdev_reset_queue,FUNC_3
+cp_start_hw,FUNC_4
+cp,VAR_8
+ring_dma,VAR_9

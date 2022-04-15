@@ -1,0 +1,11 @@
+IWL_DEBUG_MAC80211,FUNC_0
+IWL_MAC80211_GET_MVM,FUNC_1
+iwl_mvm_phy_ctxt_add,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+iwl_mvm_add_chanctx,FUNC_5
+hw,VAR_0
+ctx,VAR_1
+mvm,VAR_2
+phy_ctxt,VAR_3
+ret,VAR_4

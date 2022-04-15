@@ -1,0 +1,17 @@
+LSW,FUNC_0
+QLCNIC_CMD_GET_LED_CONFIG,VAR_0
+QLCNIC_CMD_SET_LED_CONFIG,VAR_1
+QLC_83XX_ENABLE_BEACON,VAR_2
+QLC_83XX_LED_CONFIG,VAR_3
+dev_err,FUNC_1
+qlcnic_alloc_mbx_args,FUNC_2
+qlcnic_free_mbx_args,FUNC_3
+qlcnic_issue_cmd,FUNC_4
+qlcnic_83xx_config_led,FUNC_5
+adapter,VAR_4
+state,VAR_5
+beacon,VAR_6
+cmd,VAR_7
+mbx_in,VAR_8
+i,VAR_9
+status,VAR_10

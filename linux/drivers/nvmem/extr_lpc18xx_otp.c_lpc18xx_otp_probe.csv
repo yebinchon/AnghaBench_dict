@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+IORESOURCE_MEM,VAR_2
+IS_ERR,FUNC_0
+LPC18XX_OTP_SIZE,VAR_3
+PTR_ERR,FUNC_1
+PTR_ERR_OR_ZERO,FUNC_2
+devm_ioremap_resource,FUNC_3
+devm_kzalloc,FUNC_4
+devm_nvmem_register,FUNC_5
+lpc18xx_otp_nvmem_config,VAR_4
+platform_get_resource,FUNC_6
+lpc18xx_otp_probe,FUNC_7
+pdev,VAR_5
+nvmem,VAR_6
+otp,VAR_7
+res,VAR_8

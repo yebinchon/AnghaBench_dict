@@ -1,0 +1,11 @@
+cxgb4_l2t_release,FUNC_0
+cxgb4_remove_tid,FUNC_1
+kfree_skb,FUNC_2
+rcu_dereference_sk_user_data,FUNC_3
+sock_put,FUNC_4
+chtls_release_resources,FUNC_5
+sk,VAR_0
+csk,VAR_1
+cdev,VAR_2
+tid,VAR_3
+tids,VAR_4

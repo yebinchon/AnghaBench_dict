@@ -1,0 +1,11 @@
+__clear_irq_vector,FUNC_0
+dynamic_irq_cleanup_keep_chip_data,FUNC_1
+free_irte,FUNC_2
+irq_to_desc,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+vector_lock,VAR_0
+destroy_irq,FUNC_6
+irq,VAR_1
+flags,VAR_2
+cfg,VAR_3

@@ -1,0 +1,11 @@
+PAGE_MASK,VAR_0
+PMD_FRAG_NR,VAR_1
+PMD_FRAG_SIZE_SHIFT,VAR_2
+__free_page,FUNC_0
+atomic_sub_and_test,FUNC_1
+pgtable_pmd_page_dtor,FUNC_2
+virt_to_page,FUNC_3
+pmd_frag_destroy,FUNC_4
+pmd_frag,VAR_3
+count,VAR_4
+page,VAR_5

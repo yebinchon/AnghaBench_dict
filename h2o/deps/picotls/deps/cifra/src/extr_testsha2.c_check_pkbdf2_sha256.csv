@@ -1,0 +1,13 @@
+TEST_CHECK,FUNC_0
+cf_pbkdf2_hmac,FUNC_1
+cf_sha256,VAR_0
+memcmp,FUNC_2
+check_pkbdf2_sha256,FUNC_3
+pw,VAR_1
+npw,VAR_2
+salt,VAR_3
+nsalt,VAR_4
+iters,VAR_5
+expect,VAR_6
+nexpect,VAR_7
+output,VAR_8

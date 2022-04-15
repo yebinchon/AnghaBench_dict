@@ -1,0 +1,9 @@
+INTRS_TRANSITION_TO_OPERATIONAL,VAR_0
+PMCRAID_PCI_INTERRUPTS,VAR_1
+iowrite32,FUNC_0
+pmcraid_enable_interrupts,FUNC_1
+pmcraid_read_interrupts,FUNC_2
+pmcraid_reinit_buffers,FUNC_3
+pmcraid_reset_enable_ioa,FUNC_4
+pinstance,VAR_2
+intrs,VAR_3

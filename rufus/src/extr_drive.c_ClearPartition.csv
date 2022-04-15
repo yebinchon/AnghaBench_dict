@@ -1,0 +1,13 @@
+FALSE,VAR_0
+FILE_BEGIN,VAR_1
+SetFilePointerEx,FUNC_0
+WRITE_RETRIES,VAR_2
+WriteFileWithRetry,FUNC_1
+calloc,FUNC_2
+free,FUNC_3
+ClearPartition,FUNC_4
+hDrive,VAR_3
+offset,VAR_4
+size,VAR_5
+r,VAR_6
+buffer,VAR_7

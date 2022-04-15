@@ -1,0 +1,17 @@
+XFS_INOBT_HOLEMASK_BITS,VAR_0
+XFS_INODES_PER_HOLEMASK_BIT,VAR_1
+XFS_LOOKUP_LE,VAR_2
+xfs_btree_increment,FUNC_0
+xfs_inobt_get_rec,FUNC_1
+xfs_inobt_lookup,FUNC_2
+xfs_ialloc_has_inode_record,FUNC_3
+cur,VAR_3
+low,VAR_4
+high,VAR_5
+exists,VAR_6
+irec,VAR_7
+agino,VAR_8
+holemask,VAR_9
+has_record,VAR_10
+i,VAR_11
+error,VAR_12

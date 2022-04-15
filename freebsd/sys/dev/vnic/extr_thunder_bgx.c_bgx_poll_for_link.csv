@@ -1,0 +1,13 @@
+BGX_MODE_XLAUI,VAR_0
+BGX_SPUX_STATUS1,VAR_1
+SPU_STATUS1_RCV_LNK,VAR_2
+bgx_poll_reg,FUNC_0
+bgx_reg_modify,FUNC_1
+bgx_reg_read,FUNC_2
+bgx_xaui_check_link,FUNC_3
+callout_reset,FUNC_4
+hz,VAR_3
+bgx_poll_for_link,FUNC_5
+arg,VAR_4
+lmac,VAR_5
+link,VAR_6

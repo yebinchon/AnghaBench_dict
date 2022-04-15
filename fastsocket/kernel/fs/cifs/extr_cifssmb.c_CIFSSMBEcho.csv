@@ -1,0 +1,16 @@
+SMB_COM_ECHO,VAR_0
+be32_to_cpu,FUNC_0
+cFYI,FUNC_1
+cifs_call_async,FUNC_2
+cifs_echo_callback,VAR_1
+cifs_small_buf_release,FUNC_3
+inc_rfc1001_len,FUNC_4
+put_bcc,FUNC_5
+put_unaligned_le16,FUNC_6
+small_smb_init,FUNC_7
+CIFSSMBEcho,FUNC_8
+server,VAR_2
+smb,VAR_3
+rc,VAR_4
+iov,VAR_5
+rqst,VAR_6

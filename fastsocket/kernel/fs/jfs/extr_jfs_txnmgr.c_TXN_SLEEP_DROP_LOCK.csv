@@ -1,0 +1,13 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+TXN_UNLOCK,FUNC_1
+__set_current_state,FUNC_2
+add_wait_queue,FUNC_3
+current,VAR_2
+io_schedule,FUNC_4
+remove_wait_queue,FUNC_5
+set_current_state,FUNC_6
+wait,VAR_3
+TXN_SLEEP_DROP_LOCK,FUNC_7
+event,VAR_4

@@ -1,0 +1,16 @@
+UNIT_WRITE_FLAGS_NOOP,FUNC_0
+assert,FUNC_1
+sd_bus_message_read,FUNC_2
+unit_invalidate_cgroup,FUNC_3
+unit_write_settingf,FUNC_4
+yes_no,FUNC_5
+bus_cgroup_set_boolean,FUNC_6
+u,VAR_0
+name,VAR_1
+p,VAR_2
+mask,VAR_3
+message,VAR_4
+flags,VAR_5
+error,VAR_6
+b,VAR_7
+r,VAR_8

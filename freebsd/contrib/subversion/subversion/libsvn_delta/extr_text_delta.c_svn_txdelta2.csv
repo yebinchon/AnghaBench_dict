@@ -1,0 +1,16 @@
+SVN_DELTA_WINDOW_SIZE,VAR_0
+TRUE,VAR_1
+apr_palloc,FUNC_0
+apr_pcalloc,FUNC_1
+svn_checksum_ctx_create,FUNC_2
+svn_checksum_md5,VAR_2
+svn_txdelta_stream_create,FUNC_3
+txdelta_md5_digest,VAR_3
+txdelta_next_window,VAR_4
+svn_txdelta2,FUNC_4
+stream,VAR_5
+source,VAR_6
+target,VAR_7
+calculate_checksum,VAR_8
+pool,VAR_9
+b,VAR_10

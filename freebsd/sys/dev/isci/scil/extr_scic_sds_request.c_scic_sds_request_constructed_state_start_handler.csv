@@ -1,0 +1,13 @@
+FALSE,VAR_0
+SCI_BASE_REQUEST_STATE_STARTED,VAR_1
+SCI_CONTROLLER_INVALID_IO_TAG,VAR_2
+SCI_FAILURE_INSUFFICIENT_RESOURCES,VAR_3
+SCI_SUCCESS,VAR_4
+sci_base_state_machine_change_state,FUNC_0
+scic_controller_allocate_io_tag,FUNC_1
+scic_sds_controller_copy_task_context,FUNC_2
+scic_sds_io_tag_get_index,FUNC_3
+scic_sds_request_constructed_state_start_handler,FUNC_4
+request,VAR_5
+task_context,VAR_6
+this_request,VAR_7

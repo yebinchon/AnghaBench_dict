@@ -1,0 +1,13 @@
+IP_NAT_MANIP_SRC,VAR_0
+__nf_nat_proto_find,FUNC_0
+csum_replace4,FUNC_1
+skb_make_writable,FUNC_2
+stub1,FUNC_3
+manip_pkt,FUNC_4
+proto,VAR_1
+skb,VAR_2
+iphdroff,VAR_3
+target,VAR_4
+maniptype,VAR_5
+iph,VAR_6
+p,VAR_7

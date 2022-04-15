@@ -1,0 +1,14 @@
+CTLX_REQ_FAILED,VAR_0
+EINPROGRESS,VAR_1
+URB_ASYNC_UNLINK,VAR_2
+del_timer,FUNC_0
+get_active_ctlx,FUNC_1
+list_empty,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+usb_unlink_urb,FUNC_5
+hfa384x_usbctlx_reqtimerfn,FUNC_6
+data,VAR_3
+hw,VAR_4
+flags,VAR_5
+ctlx,VAR_6

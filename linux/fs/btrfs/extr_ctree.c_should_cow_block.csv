@@ -1,0 +1,13 @@
+BTRFS_HEADER_FLAG_RELOC,VAR_0
+BTRFS_HEADER_FLAG_WRITTEN,VAR_1
+BTRFS_ROOT_FORCE_COW,VAR_2
+BTRFS_TREE_RELOC_OBJECTID,VAR_3
+btrfs_header_flag,FUNC_0
+btrfs_header_generation,FUNC_1
+btrfs_is_testing,FUNC_2
+smp_mb__before_atomic,FUNC_3
+test_bit,FUNC_4
+should_cow_block,FUNC_5
+trans,VAR_4
+root,VAR_5
+buf,VAR_6

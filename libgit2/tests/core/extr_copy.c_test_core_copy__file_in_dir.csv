@@ -1,0 +1,16 @@
+GIT_MKDIR_PATH,VAR_0
+GIT_RMDIR_REMOVE_FILES,VAR_1
+S_ISREG,FUNC_0
+cl_assert,FUNC_1
+cl_git_mkfile,FUNC_2
+cl_git_pass,FUNC_3
+git_futils_cp,FUNC_4
+git_futils_mkdir,FUNC_5
+git_futils_mkpath2file,FUNC_6
+git_futils_rmdir_r,FUNC_7
+git_path_isdir,FUNC_8
+git_path_lstat,FUNC_9
+strlen,FUNC_10
+test_core_copy__file_in_dir,FUNC_11
+st,VAR_2
+content,VAR_3

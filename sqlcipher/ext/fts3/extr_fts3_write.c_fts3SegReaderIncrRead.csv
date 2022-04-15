@@ -1,0 +1,11 @@
+FTS3_NODE_CHUNKSIZE,VAR_0
+FTS3_NODE_PADDING,VAR_1
+MIN,FUNC_0
+SQLITE_OK,VAR_2
+memset,FUNC_1
+sqlite3_blob_close,FUNC_2
+sqlite3_blob_read,FUNC_3
+fts3SegReaderIncrRead,FUNC_4
+pReader,VAR_3
+nRead,VAR_4
+rc,VAR_5

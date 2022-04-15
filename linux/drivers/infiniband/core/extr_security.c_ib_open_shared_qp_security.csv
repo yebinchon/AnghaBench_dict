@@ -1,0 +1,11 @@
+check_qp_port_pkey_settings,FUNC_0
+destroy_qp_security,FUNC_1
+ib_create_qp_security,FUNC_2
+list_add,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+ib_open_shared_qp_security,FUNC_6
+qp,VAR_0
+dev,VAR_1
+real_qp,VAR_2
+ret,VAR_3

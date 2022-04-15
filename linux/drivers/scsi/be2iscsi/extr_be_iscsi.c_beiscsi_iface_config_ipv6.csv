@@ -1,0 +1,14 @@
+BEISCSI_IP_TYPE_V6,VAR_0
+EPERM,VAR_1
+ISCSI_IFACE_ENABLE,VAR_2
+beiscsi_if_en_static,FUNC_0
+beiscsi_iface_create_ipv6,FUNC_1
+iscsi_destroy_iface,FUNC_2
+iscsi_host_priv,FUNC_3
+beiscsi_iface_config_ipv6,FUNC_4
+shost,VAR_3
+iface_param,VAR_4
+data,VAR_5
+dt_len,VAR_6
+phba,VAR_7
+ret,VAR_8

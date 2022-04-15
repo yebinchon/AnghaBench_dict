@@ -1,0 +1,15 @@
+SVN_ERR,FUNC_0
+SVN_FS__ERR_LOCK_OWNER_MISMATCH,FUNC_1
+SVN_FS__ERR_NO_SUCH_LOCK,FUNC_2
+SVN_FS__ERR_NO_USER,FUNC_3
+delete_lock_and_token,FUNC_4
+strcmp,FUNC_5
+svn_fs_base__err_no_lock_token,FUNC_6
+svn_fs_bdb__lock_get,FUNC_7
+svn_fs_bdb__lock_token_get,FUNC_8
+txn_body_unlock,FUNC_9
+baton,VAR_0
+trail,VAR_1
+args,VAR_2
+lock_token,VAR_3
+lock,VAR_4

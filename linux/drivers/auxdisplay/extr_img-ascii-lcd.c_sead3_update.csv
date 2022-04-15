@@ -1,0 +1,11 @@
+SEAD3_REG_LCD_CTRL,VAR_0
+SEAD3_REG_LCD_CTRL_SETDRAM,VAR_1
+SEAD3_REG_LCD_DATA,VAR_2
+pr_err_ratelimited,FUNC_0
+regmap_write,FUNC_1
+sead3_wait_lcd_idle,FUNC_2
+unlikely,FUNC_3
+sead3_update,FUNC_4
+ctx,VAR_3
+i,VAR_4
+err,VAR_5

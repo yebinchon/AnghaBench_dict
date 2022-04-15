@@ -1,0 +1,15 @@
+CRC10_INITFCS,VAR_0
+fcs_compute10,FUNC_0
+kfifo_out_locked,FUNC_1
+memset,FUNC_2
+padded,VAR_1
+safe,VAR_2
+safe_prepare_write_buffer,FUNC_3
+port,VAR_3
+dest,VAR_4
+size,VAR_5
+buf,VAR_6
+count,VAR_7
+trailer_len,VAR_8
+pkt_len,VAR_9
+fcs,VAR_10

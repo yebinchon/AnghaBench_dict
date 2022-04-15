@@ -1,0 +1,11 @@
+GSC_IN_BASE_ADDR_CB_MASK,VAR_0
+GSC_IN_BASE_ADDR_CR_MASK,VAR_1
+GSC_IN_BASE_ADDR_Y_MASK,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+gsc_hw_set_input_buf_masking,FUNC_2
+dev,VAR_3
+shift,VAR_4
+enable,VAR_5
+cfg,VAR_6
+mask,VAR_7

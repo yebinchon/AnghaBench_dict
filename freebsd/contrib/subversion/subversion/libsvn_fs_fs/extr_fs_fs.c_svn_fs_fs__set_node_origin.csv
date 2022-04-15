@@ -1,0 +1,13 @@
+APR_STATUS_IS_EACCES,FUNC_0
+set_node_origins_for_file,FUNC_1
+svn_error_clear,FUNC_2
+svn_error_trace,FUNC_3
+svn_fs_fs__id_unparse,FUNC_4
+svn_fs_fs__path_node_origin,FUNC_5
+svn_fs_fs__set_node_origin,FUNC_6
+fs,VAR_0
+node_id,VAR_1
+node_rev_id,VAR_2
+pool,VAR_3
+err,VAR_4
+filename,VAR_5

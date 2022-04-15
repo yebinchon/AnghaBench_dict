@@ -1,0 +1,14 @@
+KASSERT,FUNC_0
+MAX_XICP_IRQS,VAR_0
+OPAL_SET_XIVE,VAR_1
+XICP_PRIORITY,VAR_2
+device_get_softc,FUNC_1
+opal_call,FUNC_2
+rtas_call_method,FUNC_3
+rtas_exists,FUNC_4
+xicp_unmask,FUNC_5
+dev,VAR_3
+irq,VAR_4
+priv,VAR_5
+sc,VAR_6
+status,VAR_7

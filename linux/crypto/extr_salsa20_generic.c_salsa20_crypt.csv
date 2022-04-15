@@ -1,0 +1,15 @@
+crypto_skcipher_ctx,FUNC_0
+crypto_skcipher_reqtfm,FUNC_1
+round_down,FUNC_2
+salsa20_docrypt,FUNC_3
+salsa20_init,FUNC_4
+skcipher_walk_done,FUNC_5
+skcipher_walk_virt,FUNC_6
+salsa20_crypt,FUNC_7
+req,VAR_0
+tfm,VAR_1
+ctx,VAR_2
+walk,VAR_3
+state,VAR_4
+err,VAR_5
+nbytes,VAR_6

@@ -1,0 +1,14 @@
+EL3_CMD,VAR_0
+TxEnable,VAR_1
+TxReset,VAR_2
+TxStatus,VAR_3
+inb,FUNC_0
+outb,FUNC_1
+outw,FUNC_2
+pr_debug,FUNC_3
+tc574_wait_for_completion,FUNC_4
+pop_tx_status,FUNC_5
+dev,VAR_4
+ioaddr,VAR_5
+i,VAR_6
+tx_status,VAR_7

@@ -1,0 +1,9 @@
+AD5592R_GPIO_READBACK_EN,VAR_0
+AD5592R_REG_GPIO_IN_EN,VAR_1
+ad5592r_reg_write,FUNC_0
+ad5592r_spi_wnop_r16,FUNC_1
+be16_to_cpu,FUNC_2
+ad5593r_gpio_read,FUNC_3
+st,VAR_2
+value,VAR_3
+ret,VAR_4

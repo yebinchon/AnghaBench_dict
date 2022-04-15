@@ -1,0 +1,13 @@
+BFA_IOC_POLL_TOV,VAR_0
+BFA_IOC_TOV,VAR_1
+BFI_IOC_DISABLED,VAR_2
+IOCPF_E_FWREADY,VAR_3
+IOCPF_E_TIMEOUT,VAR_4
+bfa_fsm_send_event,FUNC_0
+bfa_ioc_get_cur_ioc_fwstate,FUNC_1
+jiffies,VAR_5
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+bfa_ioc_poll_fwinit,FUNC_4
+ioc,VAR_6
+fwstate,VAR_7

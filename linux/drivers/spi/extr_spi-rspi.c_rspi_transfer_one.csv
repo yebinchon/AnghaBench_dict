@@ -1,0 +1,13 @@
+RSPI_SPCR,VAR_0
+SPCR_TXMD,VAR_1
+rspi_common_transfer,FUNC_0
+rspi_read8,FUNC_1
+rspi_receive_init,FUNC_2
+rspi_write8,FUNC_3
+spi_controller_get_devdata,FUNC_4
+rspi_transfer_one,FUNC_5
+ctlr,VAR_2
+spi,VAR_3
+xfer,VAR_4
+rspi,VAR_5
+spcr,VAR_6

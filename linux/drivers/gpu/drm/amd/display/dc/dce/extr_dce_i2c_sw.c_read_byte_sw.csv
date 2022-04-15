@@ -1,0 +1,14 @@
+SCL,VAR_0
+SDA,VAR_1
+read_bit_from_ddc,FUNC_0
+udelay,FUNC_1
+wait_for_scl_high_sw,FUNC_2
+write_bit_to_ddc,FUNC_3
+read_byte_sw,FUNC_4
+ctx,VAR_2
+ddc_handle,VAR_3
+clock_delay_div_4,VAR_4
+byte,VAR_5
+more,VAR_6
+shift,VAR_7
+data,VAR_8

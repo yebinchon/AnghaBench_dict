@@ -1,0 +1,13 @@
+XCB_CLIP_ORDERING_UNSORTED,VAR_0
+XCB_SHAPE_SO_SET,VAR_1
+XCB_SHAPE_SO_UNION,VAR_2
+assert,FUNC_0
+conn,VAR_3
+x_get_border_rectangles,FUNC_1
+xcb_shape_combine,FUNC_2
+xcb_shape_rectangles,FUNC_3
+x_shape_frame,FUNC_4
+con,VAR_4
+shape_kind,VAR_5
+rectangles,VAR_6
+rectangles_count,VAR_7

@@ -1,0 +1,14 @@
+BufferGetBlockNumber,FUNC_0
+BufferGetPage,FUNC_1
+BufferIsInvalid,FUNC_2
+FreeSpaceMapVacuumRange,FUNC_3
+PageGetFreeSpace,FUNC_4
+RecordPageWithFreeSpace,FUNC_5
+ReleaseBuffer,FUNC_6
+brin_free_desc,FUNC_7
+pfree,FUNC_8
+terminate_brin_buildstate,FUNC_9
+state,VAR_0
+page,VAR_1
+freespace,VAR_2
+blk,VAR_3

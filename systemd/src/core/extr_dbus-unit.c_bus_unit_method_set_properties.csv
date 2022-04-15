@@ -1,0 +1,17 @@
+CAP_SYS_ADMIN,VAR_0
+N_,FUNC_0
+UNIT_PERSISTENT,VAR_1
+UNIT_RUNTIME,VAR_2
+assert,FUNC_1
+bus_unit_set_properties,FUNC_2
+bus_verify_manage_units_async_full,FUNC_3
+mac_selinux_unit_access_check,FUNC_4
+sd_bus_message_read,FUNC_5
+sd_bus_reply_method_return,FUNC_6
+bus_unit_method_set_properties,FUNC_7
+message,VAR_3
+userdata,VAR_4
+error,VAR_5
+u,VAR_6
+runtime,VAR_7
+r,VAR_8

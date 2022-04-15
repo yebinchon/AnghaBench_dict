@@ -1,0 +1,14 @@
+delta_ms,VAR_0
+duration_ctrl_task_ms,VAR_1
+esp_timer_get_time,FUNC_0
+ets_delay_us,FUNC_1
+printf,FUNC_2
+resume_scheduler_on_both_cpus,FUNC_3
+suspend_scheduler_on_both_cpus,FUNC_4
+vTaskDelete,FUNC_5
+waiting_ms,VAR_2
+xPortGetCoreID,FUNC_6
+control_task,FUNC_7
+pvParameters,VAR_3
+cpu_id,VAR_4
+start_time,VAR_5

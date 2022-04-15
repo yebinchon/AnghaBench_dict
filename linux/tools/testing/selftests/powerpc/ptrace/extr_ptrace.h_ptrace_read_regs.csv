@@ -1,0 +1,13 @@
+FAIL_IF,FUNC_0
+PTRACE_GETREGSET,VAR_0
+TEST_PASS,VAR_1
+ptrace,FUNC_1
+start_trace,FUNC_2
+stop_trace,FUNC_3
+ptrace_read_regs,FUNC_4
+child,VAR_2
+type,VAR_3
+regs,VAR_4
+n,VAR_5
+iov,VAR_6
+ret,VAR_7

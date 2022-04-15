@@ -1,0 +1,13 @@
+A_IMR_MAPPER,FUNC_0
+IOADDR,FUNC_1
+R_IMR_INTERRUPT_MASK,VAR_0
+____raw_readq,FUNC_2
+____raw_writeq,FUNC_3
+raw_spin_lock_irqsave,FUNC_4
+raw_spin_unlock_irqrestore,FUNC_5
+sb1250_imr_lock,VAR_1
+sb1250_mask_irq,FUNC_6
+cpu,VAR_2
+irq,VAR_3
+flags,VAR_4
+cur_ints,VAR_5

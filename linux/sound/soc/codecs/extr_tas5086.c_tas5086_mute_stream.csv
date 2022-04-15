@@ -1,0 +1,11 @@
+TAS5086_SOFT_MUTE,VAR_0
+TAS5086_SOFT_MUTE_ALL,VAR_1
+regmap_write,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+tas5086_mute_stream,FUNC_2
+dai,VAR_2
+mute,VAR_3
+stream,VAR_4
+component,VAR_5
+priv,VAR_6
+val,VAR_7

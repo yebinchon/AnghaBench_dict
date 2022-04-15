@@ -1,0 +1,12 @@
+IEEE80211_RX_DEFERRED_RELEASE,VAR_0
+IEEE80211_SKB_RXCB,FUNC_0
+__skb_queue_tail,FUNC_1
+ieee80211_sn_inc,FUNC_2
+lockdep_assert_held,FUNC_3
+ieee80211_release_reorder_frame,FUNC_4
+sdata,VAR_1
+tid_agg_rx,VAR_2
+index,VAR_3
+frames,VAR_4
+skb,VAR_5
+status,VAR_6

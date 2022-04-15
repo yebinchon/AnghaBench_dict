@@ -1,0 +1,10 @@
+BPF_F_NO_PREALLOC,VAR_0
+BPF_MAP_TYPE_SK_STORAGE,VAR_1
+bpf_create_map_xattr,FUNC_0
+close,FUNC_1
+load_btf,FUNC_2
+printf,FUNC_3
+create_sk_storage_map,FUNC_4
+attr,VAR_2
+fd,VAR_3
+btf_fd,VAR_4

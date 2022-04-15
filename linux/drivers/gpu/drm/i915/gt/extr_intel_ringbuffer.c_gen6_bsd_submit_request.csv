@@ -1,0 +1,17 @@
+DRM_ERROR,FUNC_0
+FORCEWAKE_ALL,VAR_0
+GEN6_BSD_RNCID,VAR_1
+GEN6_BSD_SLEEP_INDICATOR,VAR_2
+GEN6_BSD_SLEEP_MSG_DISABLE,VAR_3
+GEN6_BSD_SLEEP_PSMI_CONTROL,VAR_4
+_MASKED_BIT_DISABLE,FUNC_1
+_MASKED_BIT_ENABLE,FUNC_2
+__intel_wait_for_register_fw,FUNC_3
+i9xx_submit_request,FUNC_4
+intel_uncore_forcewake_get,FUNC_5
+intel_uncore_forcewake_put,FUNC_6
+intel_uncore_write64_fw,FUNC_7
+intel_uncore_write_fw,FUNC_8
+gen6_bsd_submit_request,FUNC_9
+request,VAR_5
+uncore,VAR_6

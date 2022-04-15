@@ -1,0 +1,15 @@
+LDNS_FREE,FUNC_0
+LDNS_XMALLOC,FUNC_1
+ldns_buffer_begin,FUNC_2
+ldns_buffer_position,FUNC_3
+ldns_write_uint16,FUNC_4
+memcpy,FUNC_5
+sendbuf,VAR_0
+sendto,FUNC_6
+uint8_t,VAR_1
+ldns_tcp_send_query,FUNC_7
+qbin,VAR_2
+sockfd,VAR_3
+to,VAR_4
+tolen,VAR_5
+bytes,VAR_6

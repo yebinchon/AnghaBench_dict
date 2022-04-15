@@ -1,0 +1,12 @@
+_TIF_SINGLESTEP,VAR_0
+_TIF_SYSCALL_EMU,VAR_1
+_TIF_SYSCALL_TRACE,VAR_2
+_TIF_SYSCALL_TRACEPOINT,VAR_3
+audit_syscall_exit,FUNC_0
+trace_sys_exit,FUNC_1
+tracehook_report_syscall_exit,FUNC_2
+unlikely,FUNC_3
+syscall_slow_exit_work,FUNC_4
+regs,VAR_4
+cached_flags,VAR_5
+step,VAR_6

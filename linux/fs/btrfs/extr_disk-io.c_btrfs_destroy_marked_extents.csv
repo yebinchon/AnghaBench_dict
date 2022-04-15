@@ -1,0 +1,16 @@
+EXTENT_BUFFER_DIRTY,VAR_0
+clear_extent_bits,FUNC_0
+clear_extent_buffer_dirty,FUNC_1
+find_extent_buffer,FUNC_2
+find_first_extent_bit,FUNC_3
+free_extent_buffer_stale,FUNC_4
+test_and_clear_bit,FUNC_5
+wait_on_extent_buffer_writeback,FUNC_6
+btrfs_destroy_marked_extents,FUNC_7
+fs_info,VAR_1
+dirty_pages,VAR_2
+mark,VAR_3
+ret,VAR_4
+eb,VAR_5
+start,VAR_6
+end,VAR_7

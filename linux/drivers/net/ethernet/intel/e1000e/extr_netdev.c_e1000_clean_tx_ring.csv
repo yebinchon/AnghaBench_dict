@@ -1,0 +1,9 @@
+e1000_put_txbuf,FUNC_0
+memset,FUNC_1
+netdev_reset_queue,FUNC_2
+e1000_clean_tx_ring,FUNC_3
+tx_ring,VAR_0
+adapter,VAR_1
+buffer_info,VAR_2
+size,VAR_3
+i,VAR_4

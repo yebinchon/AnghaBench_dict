@@ -1,0 +1,12 @@
+exec_host_modem_test,FUNC_0
+get_integer,FUNC_1
+modem,VAR_0
+set_defaults,FUNC_2
+show_host_device_selection,FUNC_3
+usb_ts_show_menu,FUNC_4
+show_host_modem_test,FUNC_5
+level,VAR_1
+vid,VAR_2
+pid,VAR_3
+duration,VAR_4
+retval,VAR_5

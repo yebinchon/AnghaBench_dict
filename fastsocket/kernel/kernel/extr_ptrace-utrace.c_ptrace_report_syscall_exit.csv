@@ -1,0 +1,12 @@
+SIGTRAP,VAR_0
+UTRACE_INTERRUPT,VAR_1
+UTRACE_STOP,VAR_2
+is_step_resume,FUNC_0
+ptrace_context,FUNC_1
+ptrace_event_pending,FUNC_2
+set_syscall_code,FUNC_3
+ptrace_report_syscall_exit,FUNC_4
+action,VAR_3
+engine,VAR_4
+regs,VAR_5
+ctx,VAR_6

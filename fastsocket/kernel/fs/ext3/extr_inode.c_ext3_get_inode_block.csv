@@ -1,0 +1,15 @@
+EXT3_BLOCK_SIZE,FUNC_0
+EXT3_BLOCK_SIZE_BITS,FUNC_1
+EXT3_INODES_PER_GROUP,FUNC_2
+EXT3_INODE_SIZE,FUNC_3
+ext3_get_group_desc,FUNC_4
+ext3_valid_inum,FUNC_5
+le32_to_cpu,FUNC_6
+ext3_get_inode_block,FUNC_7
+sb,VAR_0
+ino,VAR_1
+iloc,VAR_2
+block_group,VAR_3
+offset,VAR_4
+block,VAR_5
+gdp,VAR_6

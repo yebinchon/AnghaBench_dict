@@ -1,0 +1,16 @@
+Assert,FUNC_0
+InvalidXLogRecPtr,VAR_0
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_SHARED,VAR_1
+ReplicationSlotControlLock,VAR_2
+ReplicationSlotCtl,VAR_3
+SpinLockAcquire,FUNC_3
+SpinLockRelease,FUNC_4
+XLogSetReplicationSlotMinimumLSN,FUNC_5
+max_replication_slots,VAR_4
+ReplicationSlotsComputeRequiredLSN,FUNC_6
+i,VAR_5
+min_required,VAR_6
+s,VAR_7
+restart_lsn,VAR_8

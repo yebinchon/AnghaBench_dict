@@ -1,0 +1,10 @@
+__fsnotify_evict_group,FUNC_0
+atomic_dec_and_mutex_lock,FUNC_1
+fsnotify_destroy_group,FUNC_2
+fsnotify_grp_mutex,VAR_0
+fsnotify_grp_srcu,VAR_1
+fsnotify_recalc_global_mask,FUNC_3
+mutex_unlock,FUNC_4
+synchronize_srcu,FUNC_5
+fsnotify_put_group,FUNC_6
+group,VAR_2

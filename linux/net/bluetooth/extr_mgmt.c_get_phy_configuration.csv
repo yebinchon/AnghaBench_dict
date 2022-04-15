@@ -1,0 +1,16 @@
+BT_DBG,FUNC_0
+MGMT_OP_GET_PHY_CONFIGURATION,VAR_0
+cpu_to_le32,FUNC_1
+get_configurable_phys,FUNC_2
+get_selected_phys,FUNC_3
+get_supported_phys,FUNC_4
+hci_dev_lock,FUNC_5
+hci_dev_unlock,FUNC_6
+memset,FUNC_7
+mgmt_cmd_complete,FUNC_8
+get_phy_configuration,FUNC_9
+sk,VAR_1
+hdev,VAR_2
+data,VAR_3
+len,VAR_4
+rp,VAR_5

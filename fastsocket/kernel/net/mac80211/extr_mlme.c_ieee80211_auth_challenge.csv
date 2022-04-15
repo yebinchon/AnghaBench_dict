@@ -1,0 +1,15 @@
+IEEE80211_HW_REPORTS_TX_ACK_STATUS,VAR_0
+IEEE80211_TX_CTL_REQ_TX_STATUS,VAR_1
+IEEE80211_TX_INTFL_MLME_CONN_TX,VAR_2
+drv_mgd_prepare_tx,FUNC_0
+ieee80211_send_auth,FUNC_1
+ieee802_11_parse_elems,FUNC_2
+ieee80211_auth_challenge,FUNC_3
+sdata,VAR_3
+mgmt,VAR_4
+len,VAR_5
+local,VAR_6
+auth_data,VAR_7
+pos,VAR_8
+elems,VAR_9
+tx_flags,VAR_10

@@ -1,0 +1,16 @@
+FALSE,VAR_0
+HTTP_TASK_TYPE_DOWNLOAD,VAR_1
+HTTP_TASK_TYPE_UPLOAD,VAR_2
+SYNC_STATE_ERROR,VAR_3
+g_hash_table_lookup,FUNC_0
+g_return_if_fail,FUNC_1
+g_return_if_reached,FUNC_2
+http_tx_manager_cancel_task,FUNC_3
+seaf,VAR_4
+seaf_message,FUNC_4
+transition_sync_state,FUNC_5
+seaf_sync_manager_cancel_sync_task,FUNC_6
+mgr,VAR_5
+repo_id,VAR_6
+info,VAR_7
+task,VAR_8

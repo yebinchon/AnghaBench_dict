@@ -1,0 +1,17 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+HDA_FIXUP_ACT_PROBE,VAR_1
+HDA_OUTPUT,VAR_2
+alc861_fixup_tbl,VAR_3
+alc861_fixups,VAR_4
+alc861_parse_auto_config,FUNC_0
+alc_alloc_spec,FUNC_1
+alc_free,FUNC_2
+alc_patch_ops,VAR_5
+alc_power_eapd,VAR_6
+set_beep_amp,FUNC_3
+snd_hda_apply_fixup,FUNC_4
+snd_hda_pick_fixup,FUNC_5
+patch_alc861,FUNC_6
+codec,VAR_7
+spec,VAR_8
+err,VAR_9

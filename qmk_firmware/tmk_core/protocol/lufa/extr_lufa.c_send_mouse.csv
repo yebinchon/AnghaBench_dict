@@ -1,0 +1,14 @@
+Endpoint_ClearIN,FUNC_0
+Endpoint_IsReadWriteAllowed,FUNC_1
+Endpoint_SelectEndpoint,FUNC_2
+Endpoint_Write_Stream_LE,FUNC_3
+MOUSE_IN_EPNUM,VAR_0
+OUTPUT_BLUETOOTH,VAR_1
+OUTPUT_USB,VAR_2
+OUTPUT_USB_AND_BT,VAR_3
+_delay_us,FUNC_4
+adafruit_ble_send_mouse_move,FUNC_5
+bluefruit_serial_send,FUNC_6
+where_to_send,FUNC_7
+send_mouse,FUNC_8
+report,VAR_4

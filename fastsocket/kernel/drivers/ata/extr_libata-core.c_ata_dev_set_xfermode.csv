@@ -1,0 +1,16 @@
+ATA_CMD_SET_FEATURES,VAR_0
+ATA_PROT_NODATA,VAR_1
+ATA_TFLAG_DEVICE,VAR_2
+ATA_TFLAG_ISADDR,VAR_3
+ATA_TFLAG_POLLING,VAR_4
+DMA_NONE,VAR_5
+DPRINTK,FUNC_0
+SETFEATURES_XFER,VAR_6
+ata_exec_internal,FUNC_1
+ata_id_has_iordy,FUNC_2
+ata_pio_need_iordy,FUNC_3
+ata_tf_init,FUNC_4
+ata_dev_set_xfermode,FUNC_5
+dev,VAR_7
+tf,VAR_8
+err_mask,VAR_9

@@ -1,0 +1,13 @@
+nf_nat_mangle_tcp_packet,FUNC_0
+pr_debug,FUNC_1
+sprintf,FUNC_2
+strlen,FUNC_3
+mangle_epsv_packet,FUNC_4
+skb,VAR_0
+newip,VAR_1
+port,VAR_2
+matchoff,VAR_3
+matchlen,VAR_4
+ct,VAR_5
+ctinfo,VAR_6
+buffer,VAR_7

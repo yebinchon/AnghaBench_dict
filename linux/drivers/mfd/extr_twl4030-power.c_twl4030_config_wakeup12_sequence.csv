@@ -1,0 +1,17 @@
+PWR_LVL_WAKEUP,VAR_0
+R_CFG_P1_TRANSITION,VAR_1
+R_P1_SW_EVENTS,VAR_2
+R_P2_SW_EVENTS,VAR_3
+R_SEQ_ADD_S2A12,VAR_4
+STARTON_CHG,VAR_5
+TWL_MODULE_PM_MASTER,VAR_6
+machine_is_omap_3430sdp,FUNC_0
+machine_is_omap_ldp,FUNC_1
+pr_err,FUNC_2
+twl_i2c_read_u8,FUNC_3
+twl_i2c_write_u8,FUNC_4
+twl4030_config_wakeup12_sequence,FUNC_5
+pdata,VAR_7
+address,VAR_8
+err,VAR_9
+data,VAR_10

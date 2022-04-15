@@ -1,0 +1,9 @@
+TIMER1_2_CONTROL_OFFSET,VAR_0
+TIMER1_AUTO_RELOAD_OFFSET,VAR_1
+cns3xxx_tmr1,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+cns3xxx_timer_set_next_event,FUNC_2
+evt,VAR_3
+unused,VAR_4
+ctrl,VAR_5

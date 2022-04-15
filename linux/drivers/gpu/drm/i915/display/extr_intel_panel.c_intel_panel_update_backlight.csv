@@ -1,0 +1,12 @@
+__intel_panel_enable_backlight,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+to_i915,FUNC_3
+to_intel_connector,FUNC_4
+intel_panel_update_backlight,FUNC_5
+encoder,VAR_0
+crtc_state,VAR_1
+conn_state,VAR_2
+connector,VAR_3
+dev_priv,VAR_4
+panel,VAR_5

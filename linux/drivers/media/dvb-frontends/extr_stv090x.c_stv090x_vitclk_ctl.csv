@@ -1,0 +1,14 @@
+FE_ERROR,VAR_0
+STOP_CLKVIT1_FIELD,VAR_1
+STOP_CLKVIT2_FIELD,VAR_2
+STV090x_SETFIELD,FUNC_0
+STV090x_STOPCLK2,VAR_3
+dprintk,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+stv090x_read_reg,FUNC_4
+stv090x_write_reg,FUNC_5
+stv090x_vitclk_ctl,FUNC_6
+state,VAR_4
+enable,VAR_5
+reg,VAR_6

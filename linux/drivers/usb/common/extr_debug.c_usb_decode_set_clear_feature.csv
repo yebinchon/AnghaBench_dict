@@ -1,0 +1,16 @@
+USB_DEVICE_TEST_MODE,VAR_0
+USB_DIR_IN,VAR_1
+USB_ENDPOINT_HALT,VAR_2
+USB_INTRF_FUNC_SUSPEND,VAR_3
+USB_RECIP_MASK,VAR_4
+USB_REQ_CLEAR_FEATURE,VAR_5
+snprintf,FUNC_0
+usb_decode_device_feature,FUNC_1
+usb_decode_test_mode,FUNC_2
+usb_decode_set_clear_feature,FUNC_3
+bRequestType,VAR_6
+bRequest,VAR_7
+wValue,VAR_8
+wIndex,VAR_9
+str,VAR_10
+size,VAR_11

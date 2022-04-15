@@ -1,0 +1,14 @@
+ISCSI_AHSTYPE_RLENGTH,VAR_0
+ISCSI_DBG_SESSION,FUNC_0
+be16_to_cpu,FUNC_1
+be32_to_cpu,FUNC_2
+cpu_to_be16,FUNC_3
+cpu_to_be32,FUNC_4
+iscsi_add_hdr,FUNC_5
+iscsi_next_hdr,FUNC_6
+scsi_in,FUNC_7
+iscsi_prep_bidi_ahs,FUNC_8
+task,VAR_1
+sc,VAR_2
+rlen_ahdr,VAR_3
+rc,VAR_4

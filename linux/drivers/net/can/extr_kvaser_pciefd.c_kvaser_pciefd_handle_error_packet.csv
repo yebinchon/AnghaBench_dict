@@ -1,0 +1,12 @@
+EIO,VAR_0
+KVASER_PCIEFD_BEC_POLL_FREQ,VAR_1
+KVASER_PCIEFD_MAX_ERR_REP,VAR_2
+KVASER_PCIEFD_PACKET_CHID_SHIFT,VAR_3
+kvaser_pciefd_disable_err_gen,FUNC_0
+kvaser_pciefd_rx_error_frame,FUNC_1
+mod_timer,FUNC_2
+kvaser_pciefd_handle_error_packet,FUNC_3
+pcie,VAR_4
+p,VAR_5
+can,VAR_6
+ch_id,VAR_7

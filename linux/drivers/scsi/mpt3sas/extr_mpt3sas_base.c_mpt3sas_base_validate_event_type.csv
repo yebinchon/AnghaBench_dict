@@ -1,0 +1,12 @@
+MPI2_EVENT_NOTIFY_EVENTMASK_WORDS,VAR_0
+_base_event_notification,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+mpt3sas_base_validate_event_type,FUNC_3
+ioc,VAR_1
+event_type,VAR_2
+i,VAR_3
+j,VAR_4
+event_mask,VAR_5
+desired_event,VAR_6
+send_update_to_fw,VAR_7

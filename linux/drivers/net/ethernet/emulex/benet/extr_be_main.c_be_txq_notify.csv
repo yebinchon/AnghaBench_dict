@@ -1,0 +1,12 @@
+BE_ERROR_HW,VAR_0
+DB_TXULP_NUM_POSTED_MASK,VAR_1
+DB_TXULP_NUM_POSTED_SHIFT,VAR_2
+DB_TXULP_RING_ID_MASK,VAR_3
+be_check_error,FUNC_0
+iowrite32,FUNC_1
+wmb,FUNC_2
+be_txq_notify,FUNC_3
+adapter,VAR_4
+txo,VAR_5
+posted,VAR_6
+val,VAR_7

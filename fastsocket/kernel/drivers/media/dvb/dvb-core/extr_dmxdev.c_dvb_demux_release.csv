@@ -1,0 +1,11 @@
+dvb_dmxdev_filter_free,FUNC_0
+fops_put,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+wake_up,FUNC_4
+dvb_demux_release,FUNC_5
+inode,VAR_0
+file,VAR_1
+dmxdevfilter,VAR_2
+dmxdev,VAR_3
+ret,VAR_4

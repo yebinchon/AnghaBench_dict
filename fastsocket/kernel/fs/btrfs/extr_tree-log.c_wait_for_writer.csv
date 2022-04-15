@@ -1,0 +1,12 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+atomic_read,FUNC_1
+finish_wait,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+prepare_to_wait,FUNC_5
+schedule,FUNC_6
+wait,VAR_1
+wait_for_writer,FUNC_7
+trans,VAR_2
+root,VAR_3

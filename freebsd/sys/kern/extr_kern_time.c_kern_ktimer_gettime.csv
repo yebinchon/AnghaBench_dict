@@ -1,0 +1,16 @@
+CLOCK_CALL,FUNC_0
+EINVAL,VAR_0
+ITIMER_UNLOCK,FUNC_1
+PROC_LOCK,FUNC_2
+PROC_UNLOCK,FUNC_3
+itimer_enter,FUNC_4
+itimer_find,FUNC_5
+itimer_leave,FUNC_6
+timer_gettime,VAR_1
+kern_ktimer_gettime,FUNC_7
+td,VAR_2
+timer_id,VAR_3
+val,VAR_4
+p,VAR_5
+it,VAR_6
+error,VAR_7

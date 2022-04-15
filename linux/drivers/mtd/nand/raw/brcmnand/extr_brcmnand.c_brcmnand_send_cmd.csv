@@ -1,0 +1,17 @@
+BRCMNAND_CMD_ADDRESS,VAR_0
+BRCMNAND_CMD_START,VAR_1
+BUG_ON,FUNC_0
+NAND_CTRL_RDY,VAR_2
+WARN_ON,FUNC_1
+bcmnand_ctrl_poll_status,FUNC_2
+brcmnand_cmd_shift,FUNC_3
+brcmnand_read_reg,FUNC_4
+brcmnand_write_reg,FUNC_5
+dev_dbg,FUNC_6
+mb,FUNC_7
+brcmnand_send_cmd,FUNC_8
+host,VAR_3
+cmd,VAR_4
+ctrl,VAR_5
+ret,VAR_6
+cmd_addr,VAR_7

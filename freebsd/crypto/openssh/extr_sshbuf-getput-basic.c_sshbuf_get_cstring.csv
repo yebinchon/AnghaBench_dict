@@ -1,0 +1,16 @@
+SSHBUF_DBG,FUNC_0
+SSH_ERR_ALLOC_FAIL,VAR_0
+SSH_ERR_INVALID_FORMAT,VAR_1
+malloc,FUNC_1
+memchr,FUNC_2
+memcpy,FUNC_3
+sshbuf_peek_string_direct,FUNC_4
+sshbuf_skip_string,FUNC_5
+sshbuf_get_cstring,FUNC_6
+buf,VAR_2
+valp,VAR_3
+lenp,VAR_4
+len,VAR_5
+p,VAR_6
+z,VAR_7
+r,VAR_8

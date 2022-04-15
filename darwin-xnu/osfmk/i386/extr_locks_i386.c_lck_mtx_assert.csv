@@ -1,0 +1,16 @@
+LCK_MTX_ASSERT_NOTOWNED,VAR_0
+LCK_MTX_ASSERT_OWNED,VAR_1
+LCK_MTX_ILOCKED_MSK,VAR_2
+LCK_MTX_MLOCKED_MSK,VAR_3
+LCK_MTX_TAG_INDIRECT,VAR_4
+assert,FUNC_0
+current_thread,FUNC_1
+get_indirect_mutex,FUNC_2
+ordered_load_mtx_state,FUNC_3
+panic,FUNC_4
+lck_mtx_assert,FUNC_5
+lock,VAR_5
+type,VAR_6
+thread,VAR_7
+owner,VAR_8
+state,VAR_9

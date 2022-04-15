@@ -1,0 +1,12 @@
+GIT_STASH_INCLUDE_IGNORED,VAR_0
+GIT_STASH_INCLUDE_UNTRACKED,VAR_1
+assert_blob_oid,FUNC_0
+assert_commit_message_contains,FUNC_1
+cl_assert,FUNC_2
+cl_git_pass,FUNC_3
+git_path_exists,FUNC_4
+git_stash_save,FUNC_5
+repo,VAR_2
+signature,VAR_3
+stash_tip_oid,VAR_4
+test_stash_save__can_include_untracked_and_ignored_files,FUNC_6

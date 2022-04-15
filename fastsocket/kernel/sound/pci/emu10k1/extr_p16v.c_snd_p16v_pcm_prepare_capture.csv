@@ -1,0 +1,15 @@
+A_SPDIF_SAMPLERATE,VAR_0
+CAPTURE_BUFFER_SIZE,VAR_1
+CAPTURE_DMA_ADDR,VAR_2
+CAPTURE_POINTER,VAR_3
+frames_to_bytes,FUNC_0
+snd_emu10k1_ptr20_write,FUNC_1
+snd_emu10k1_ptr_read,FUNC_2
+snd_emu10k1_ptr_write,FUNC_3
+snd_pcm_substream_chip,FUNC_4
+snd_p16v_pcm_prepare_capture,FUNC_5
+substream,VAR_4
+emu,VAR_5
+runtime,VAR_6
+channel,VAR_7
+tmp,VAR_8

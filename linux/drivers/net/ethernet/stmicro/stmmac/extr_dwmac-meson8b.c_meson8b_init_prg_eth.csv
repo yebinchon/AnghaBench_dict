@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+PRG_ETH0,VAR_1
+PRG_ETH0_INVERTED_RMII_CLK,VAR_2
+PRG_ETH0_TXDLY_MASK,VAR_3
+PRG_ETH0_TXDLY_SHIFT,VAR_4
+PRG_ETH0_TX_AND_PHY_REF_CLK,VAR_5
+clk_disable_unprepare,VAR_6
+clk_prepare_enable,FUNC_0
+clk_set_rate,FUNC_1
+dev_err,FUNC_2
+devm_add_action_or_reset,FUNC_3
+meson8b_dwmac_mask_bits,FUNC_4
+phy_modes,FUNC_5
+meson8b_init_prg_eth,FUNC_6
+dwmac,VAR_7
+ret,VAR_8
+tx_dly_val,VAR_9

@@ -1,0 +1,13 @@
+TM_QW1_NSR_EO,VAR_0
+TM_SPC_ACK_OS_REG,VAR_1
+__raw_readw,FUNC_0
+be16_to_cpu,FUNC_1
+mb,FUNC_2
+pr_err,FUNC_3
+smp_processor_id,FUNC_4
+xive_tima,VAR_2
+xive_spapr_update_pending,FUNC_5
+xc,VAR_3
+nsr,VAR_4
+cppr,VAR_5
+ack,VAR_6

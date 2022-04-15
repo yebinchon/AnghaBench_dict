@@ -1,0 +1,11 @@
+CGROUP_UNIFIED_ALL,VAR_0
+CGROUP_UNIFIED_NONE,VAR_1
+arg_unified_cgroup_hierarchy,VAR_2
+getenv,FUNC_0
+isempty,FUNC_1
+log_error_errno,FUNC_2
+parse_boolean,FUNC_3
+detect_unified_cgroup_hierarchy_from_environment,FUNC_4
+e,VAR_3
+var,VAR_4
+r,VAR_5

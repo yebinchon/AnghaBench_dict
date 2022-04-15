@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+VRING_DESC_F_INDIRECT,VAR_2
+VRING_DESC_F_WRITE,VAR_3
+dma_unmap_page,FUNC_0
+dma_unmap_single,FUNC_1
+virtio16_to_cpu,FUNC_2
+virtio32_to_cpu,FUNC_3
+virtio64_to_cpu,FUNC_4
+vring_dma_dev,FUNC_5
+vring_unmap_one_split,FUNC_6
+vq,VAR_4
+desc,VAR_5
+flags,VAR_6

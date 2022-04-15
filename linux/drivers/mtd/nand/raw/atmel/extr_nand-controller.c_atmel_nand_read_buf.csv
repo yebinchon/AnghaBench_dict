@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+MIN_DMA_LEN,VAR_1
+NAND_BUSWIDTH_16,VAR_2
+atmel_nand_dma_transfer,FUNC_0
+ioread16_rep,FUNC_1
+ioread8_rep,FUNC_2
+to_atmel_nand,FUNC_3
+to_nand_controller,FUNC_4
+virt_addr_valid,FUNC_5
+atmel_nand_read_buf,FUNC_6
+chip,VAR_3
+buf,VAR_4
+len,VAR_5
+nand,VAR_6
+nc,VAR_7

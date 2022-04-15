@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+AT_STATX_SYNC_AS_STAT,VAR_0
+KGID_TO_SGID,FUNC_1
+KUID_TO_SUID,FUNC_2
+STATX_BASIC_STATS,VAR_1
+vfs_getattr,FUNC_3
+vn_mode_to_vtype,FUNC_4
+vn_getattr,FUNC_5
+vp,VAR_2
+vap,VAR_3
+flags,VAR_4
+x3,VAR_5
+x4,VAR_6
+fp,VAR_7
+stat,VAR_8
+rc,VAR_9

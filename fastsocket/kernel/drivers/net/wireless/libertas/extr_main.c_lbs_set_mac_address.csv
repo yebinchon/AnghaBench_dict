@@ -1,0 +1,17 @@
+CMD_802_11_MAC_ADDRESS,VAR_0
+CMD_ACT_SET,VAR_1
+ETH_ALEN,VAR_2
+LBS_DEB_NET,VAR_3
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_deb_enter,FUNC_2
+lbs_deb_leave_args,FUNC_3
+lbs_deb_net,FUNC_4
+memcpy,FUNC_5
+lbs_set_mac_address,FUNC_6
+dev,VAR_4
+addr,VAR_5
+ret,VAR_6
+priv,VAR_7
+phwaddr,VAR_8
+cmd,VAR_9

@@ -1,0 +1,15 @@
+PF_LOCAL,VAR_0
+SOCK_DGRAM,VAR_1
+SOL_SOCKET,VAR_2
+SO_REUSEADDR,VAR_3
+bind,FUNC_0
+err,FUNC_1
+prepare_ifsun,FUNC_2
+setsockopt,FUNC_3
+socket,FUNC_4
+sstosa,FUNC_5
+unlink,FUNC_6
+create_uds_server,FUNC_7
+path,VAR_4
+ifsun,VAR_5
+sock,VAR_6

@@ -1,0 +1,11 @@
+CPU_DTRACE_ILLOP,VAR_0
+DTRACE_CPUFLAG_SET,FUNC_0
+act_set_astbsd,FUNC_1
+current_thread,FUNC_2
+dtrace_destructive_disallow,VAR_1
+get_bsdthread_info,FUNC_3
+kauth_cred_get,FUNC_4
+kauth_cred_issuser,FUNC_5
+dtrace_action_pidresume,FUNC_6
+pid,VAR_2
+uthread,VAR_3

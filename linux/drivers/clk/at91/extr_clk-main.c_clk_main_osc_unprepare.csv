@@ -1,0 +1,12 @@
+AT91_CKGR_MOR,VAR_0
+AT91_PMC_KEY,VAR_1
+AT91_PMC_MOSCEN,VAR_2
+AT91_PMC_OSCBYPASS,VAR_3
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+to_clk_main_osc,FUNC_2
+clk_main_osc_unprepare,FUNC_3
+hw,VAR_4
+osc,VAR_5
+regmap,VAR_6
+tmp,VAR_7

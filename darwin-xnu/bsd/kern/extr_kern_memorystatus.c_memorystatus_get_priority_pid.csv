@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ESRCH,VAR_1
+USER_ADDR_NULL,VAR_2
+copyout,FUNC_0
+memorystatus_build_state,FUNC_1
+memset,FUNC_2
+proc_find,FUNC_3
+proc_rele,FUNC_4
+task_get_phys_footprint_limit,FUNC_5
+memorystatus_get_priority_pid,FUNC_6
+pid,VAR_3
+buffer,VAR_4
+buffer_size,VAR_5
+error,VAR_6
+mp_entry,VAR_7
+p,VAR_8

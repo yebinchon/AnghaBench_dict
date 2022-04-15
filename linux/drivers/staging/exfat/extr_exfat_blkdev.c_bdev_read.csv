@@ -1,0 +1,15 @@
+EXFAT_DEBUGFLAGS_ERROR_RW,VAR_0
+EXFAT_SB,FUNC_0
+FFS_MEDIAERR,VAR_1
+WARN,FUNC_1
+__bread,FUNC_2
+__brelse,FUNC_3
+__getblk,FUNC_4
+bdev_read,FUNC_5
+sb,VAR_2
+secno,VAR_3
+bh,VAR_4
+num_secs,VAR_5
+read,VAR_6
+p_bd,VAR_7
+p_fs,VAR_8

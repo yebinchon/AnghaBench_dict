@@ -1,0 +1,13 @@
+E1000_RXSTMPH,VAR_0
+E1000_RXSTMPL,VAR_1
+E1000_TSYNCRXCTL,VAR_2
+E1000_TSYNCRXCTL_VALID,VAR_3
+igb_ptp_systim_to_hwtstamp,FUNC_0
+rd32,FUNC_1
+skb_hwtstamps,FUNC_2
+igb_ptp_rx_rgtstamp,FUNC_3
+q_vector,VAR_4
+skb,VAR_5
+adapter,VAR_6
+hw,VAR_7
+regval,VAR_8

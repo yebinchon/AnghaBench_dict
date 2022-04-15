@@ -1,0 +1,17 @@
+DCCP_CLOSED,VAR_0
+DCCP_PKT_ACK,VAR_1
+DCCP_RTO_MAX,VAR_2
+DCCP_SKB_CB,FUNC_0
+GFP_ATOMIC,VAR_3
+ICSK_TIME_DACK,VAR_4
+TCP_ATO_MIN,VAR_5
+TCP_DELACK_MAX,VAR_6
+alloc_skb,FUNC_1
+dccp_transmit_skb,FUNC_2
+inet_csk,FUNC_3
+inet_csk_reset_xmit_timer,FUNC_4
+inet_csk_schedule_ack,FUNC_5
+skb_reserve,FUNC_6
+dccp_send_ack,FUNC_7
+sk,VAR_7
+skb,VAR_8

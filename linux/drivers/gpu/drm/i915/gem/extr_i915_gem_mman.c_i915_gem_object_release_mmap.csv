@@ -1,0 +1,11 @@
+__i915_gem_object_release_mmap,FUNC_0
+intel_runtime_pm_get,FUNC_1
+intel_runtime_pm_put,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+to_i915,FUNC_5
+wmb,FUNC_6
+i915_gem_object_release_mmap,FUNC_7
+obj,VAR_0
+i915,VAR_1
+wakeref,VAR_2

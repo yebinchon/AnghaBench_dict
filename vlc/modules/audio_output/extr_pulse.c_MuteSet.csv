@@ -1,0 +1,15 @@
+PA_STREAM_START_MUTED,VAR_0
+PA_STREAM_START_UNMUTED,VAR_1
+aout_MuteReport,FUNC_0
+likely,FUNC_1
+pa_context_set_sink_input_mute,FUNC_2
+pa_operation_unref,FUNC_3
+pa_stream_get_index,FUNC_4
+pa_threaded_mainloop_lock,FUNC_5
+pa_threaded_mainloop_unlock,FUNC_6
+MuteSet,FUNC_7
+aout,VAR_2
+mute,VAR_3
+sys,VAR_4
+op,VAR_5
+idx,VAR_6

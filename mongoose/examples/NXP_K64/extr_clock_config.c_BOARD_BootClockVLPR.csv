@@ -1,0 +1,12 @@
+CLOCK_BootToBlpiMode,FUNC_0
+CLOCK_SetSimConfig,FUNC_1
+CLOCK_SetSimSafeDivs,FUNC_2
+SMC,VAR_0
+SMC_GetPowerModeState,FUNC_3
+SMC_SetPowerModeProtection,FUNC_4
+SMC_SetPowerModeVlpr,FUNC_5
+SystemCoreClock,VAR_1
+g_defaultClockConfigVlpr,VAR_2
+kSMC_AllowPowerModeAll,VAR_3
+kSMC_PowerStateVlpr,VAR_4
+BOARD_BootClockVLPR,FUNC_6

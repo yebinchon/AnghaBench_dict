@@ -1,0 +1,14 @@
+CPU_ERROR,VAR_0
+ERROR_SUCCESS,VAR_1
+HKEY_LOCAL_MACHINE,VAR_2
+PROCESSOR_REG_KEY,VAR_3
+RegOpenKeyW,FUNC_0
+RegQueryValueExW,FUNC_1
+dstr_copy,FUNC_2
+dstr_from_wcs,FUNC_3
+init_cpu_info,FUNC_4
+data,VAR_4
+key,VAR_5
+status,VAR_6
+str,VAR_7
+size,VAR_8

@@ -1,0 +1,13 @@
+AVIVO_CRTC_EN,VAR_0
+AVIVO_D1CRTC_CONTROL,VAR_1
+AVIVO_D1CRTC_STATUS_HV_COUNT,VAR_2
+RREG32,FUNC_0
+crtc_offsets,VAR_3
+udelay,FUNC_1
+r600_is_display_hung,FUNC_2
+rdev,VAR_4
+crtc_hung,VAR_5
+crtc_status,VAR_6
+i,VAR_7
+j,VAR_8
+tmp,VAR_9

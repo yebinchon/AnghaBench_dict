@@ -1,0 +1,11 @@
+FSL_SATA_MAX_SLOTS,VAR_0
+FSL_SATA_SLOT_RUNNING,VAR_1
+MA_OWNED,VAR_2
+SBT_1MS,VAR_3
+callout_reset_sbt,FUNC_0
+fsl_sata_timeout,VAR_4
+mtx_assert,FUNC_1
+fsl_sata_rearm_timeout,FUNC_2
+ch,VAR_5
+i,VAR_6
+slot,VAR_7

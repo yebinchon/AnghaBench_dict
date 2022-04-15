@@ -1,0 +1,14 @@
+ATF_REQUIRE_EQ,FUNC_0
+N_RECURSE,VAR_0
+PTHREAD_REQUIRE,FUNC_1
+atf_tc_pass,FUNC_2
+mul3,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+recurse,FUNC_6
+recursion_depth,VAR_1
+recursion_depth_lock,VAR_2
+bar,FUNC_7
+p,VAR_3
+d,VAR_4
+rc,VAR_5

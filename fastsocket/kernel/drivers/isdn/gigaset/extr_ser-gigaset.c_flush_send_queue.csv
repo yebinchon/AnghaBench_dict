@@ -1,0 +1,11 @@
+dev_kfree_skb_any,FUNC_0
+kfree,FUNC_1
+skb_dequeue,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+tasklet_schedule,FUNC_5
+flush_send_queue,FUNC_6
+cs,VAR_0
+skb,VAR_1
+cb,VAR_2
+flags,VAR_3

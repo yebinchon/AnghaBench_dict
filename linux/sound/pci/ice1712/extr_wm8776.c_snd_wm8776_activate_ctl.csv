@@ -1,0 +1,17 @@
+SNDRV_CTL_ELEM_ACCESS_INACTIVE,VAR_0
+SNDRV_CTL_ELEM_IFACE_MIXER,VAR_1
+SNDRV_CTL_EVENT_MASK_INFO,VAR_2
+memset,FUNC_0
+snd_ctl_find_id,FUNC_1
+snd_ctl_get_ioff,FUNC_2
+snd_ctl_notify,FUNC_3
+strlcpy,FUNC_4
+snd_wm8776_activate_ctl,FUNC_5
+wm,VAR_3
+ctl_name,VAR_4
+active,VAR_5
+card,VAR_6
+kctl,VAR_7
+vd,VAR_8
+elem_id,VAR_9
+index_offset,VAR_10

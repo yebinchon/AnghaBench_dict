@@ -1,0 +1,14 @@
+DCSR,FUNC_0
+DCSR_BUSERR,VAR_0
+DCSR_ENDINTR,VAR_1
+DMA_INT_MASK,VAR_2
+PXA25x_SSP,VAR_3
+dev_err,FUNC_1
+dma_error_stop,FUNC_2
+dma_transfer_complete,FUNC_3
+wait_ssp_rx_stall,FUNC_4
+dma_handler,FUNC_5
+channel,VAR_4
+data,VAR_5
+drv_data,VAR_6
+irq_status,VAR_7

@@ -1,0 +1,15 @@
+DC_HPD1_INT_CONTROL,VAR_0
+DC_HPD1_INT_POLARITY,VAR_1
+DC_HPD1_INT_STATUS,VAR_2
+DC_HPD1_SENSE_DELAYED,VAR_3
+dal_irq_service_ack_generic,FUNC_0
+dm_read_reg,FUNC_1
+dm_write_reg,FUNC_2
+get_reg_field_value,FUNC_3
+set_reg_field_value,FUNC_4
+hpd_ack,FUNC_5
+irq_service,VAR_4
+info,VAR_5
+addr,VAR_6
+value,VAR_7
+current_status,VAR_8

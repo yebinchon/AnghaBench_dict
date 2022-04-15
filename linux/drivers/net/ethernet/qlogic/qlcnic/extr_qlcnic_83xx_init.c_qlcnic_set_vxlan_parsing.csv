@@ -1,0 +1,15 @@
+QLCNIC_CMD_SET_INGRESS_ENCAP,VAR_0
+QLCNIC_DISABLE_INGRESS_ENCAP_PARSING,VAR_1
+QLCNIC_ENABLE_INGRESS_ENCAP_PARSING,VAR_2
+memset,FUNC_0
+netdev_err,FUNC_1
+netdev_info,FUNC_2
+qlcnic_alloc_mbx_args,FUNC_3
+qlcnic_free_mbx_args,FUNC_4
+qlcnic_issue_cmd,FUNC_5
+qlcnic_set_vxlan_parsing,FUNC_6
+adapter,VAR_3
+state,VAR_4
+vxlan_port,VAR_5
+cmd,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+ADC_DIV,VAR_0
+ADC_EN,VAR_1
+ADC_INT_EN,VAR_2
+ADC_WAITTRIG,VAR_3
+TS_IDLE,VAR_4
+WT_INT_EN,VAR_5
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+clk_disable,FUNC_2
+del_timer_sync,FUNC_3
+input_get_drvdata,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+w90p910_close,FUNC_7
+dev,VAR_6
+w90p910_ts,VAR_7
+val,VAR_8

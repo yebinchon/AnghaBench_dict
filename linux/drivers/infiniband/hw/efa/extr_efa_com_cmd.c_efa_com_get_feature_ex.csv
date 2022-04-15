@@ -1,0 +1,16 @@
+EFA_ADMIN_AQ_COMMON_DESC_CTRL_DATA_INDIRECT_MASK,VAR_0
+EFA_ADMIN_GET_FEATURE,VAR_1
+EOPNOTSUPP,VAR_2
+efa_com_check_supported_feature_id,FUNC_0
+efa_com_cmd_exec,FUNC_1
+efa_com_set_dma_addr,FUNC_2
+ibdev_err_ratelimited,FUNC_3
+efa_com_get_feature_ex,FUNC_4
+edev,VAR_3
+get_resp,VAR_4
+feature_id,VAR_5
+control_buf_dma_addr,VAR_6
+control_buff_size,VAR_7
+get_cmd,VAR_8
+aq,VAR_9
+err,VAR_10

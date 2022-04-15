@@ -1,0 +1,12 @@
+EDIT_InvalidateUniscribeData,FUNC_0
+ES_MULTILINE,VAR_0
+FALSE,VAR_1
+GetProcessHeap,FUNC_1
+HeapAlloc,FUNC_2
+HeapFree,FUNC_3
+TRUE,VAR_2
+memcpy,FUNC_4
+EDIT_EM_SetTabStops,FUNC_5
+es,VAR_3
+count,VAR_4
+tabs,VAR_5

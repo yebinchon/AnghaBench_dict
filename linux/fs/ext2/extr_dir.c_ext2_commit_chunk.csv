@@ -1,0 +1,15 @@
+IS_DIRSYNC,FUNC_0
+block_write_end,FUNC_1
+i_size_write,FUNC_2
+inode_inc_iversion,FUNC_3
+mark_inode_dirty,FUNC_4
+sync_inode_metadata,FUNC_5
+unlock_page,FUNC_6
+write_one_page,FUNC_7
+ext2_commit_chunk,FUNC_8
+page,VAR_0
+pos,VAR_1
+len,VAR_2
+mapping,VAR_3
+dir,VAR_4
+err,VAR_5

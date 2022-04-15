@@ -1,0 +1,15 @@
+UART_XMIT_SIZE,VAR_0
+UARTn_DATA,VAR_1
+UARTn_STATE,VAR_2
+UARTn_STATE_TX_FULL,VAR_3
+WAKEUP_CHARS,VAR_4
+mps2_uart_read8,FUNC_0
+mps2_uart_stop_tx,FUNC_1
+mps2_uart_write8,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_tx_stopped,FUNC_5
+uart_write_wakeup,FUNC_6
+mps2_uart_tx_chars,FUNC_7
+port,VAR_5
+xmit,VAR_6

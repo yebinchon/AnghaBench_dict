@@ -1,0 +1,14 @@
+ExAllocateFromNPagedLookasideList,FUNC_0
+ExFreeToNPagedLookasideList,FUNC_1
+FALSE,VAR_0
+KeInitializeEvent,FUNC_2
+LibTCPListenCallback,VAR_1
+MessageLookasideList,VAR_2
+NotificationEvent,VAR_3
+WaitForEventSafely,FUNC_3
+tcpip_callback_with_block,FUNC_4
+LibTCPListen,FUNC_5
+Connection,VAR_4
+backlog,VAR_5
+msg,VAR_6
+ret,VAR_7

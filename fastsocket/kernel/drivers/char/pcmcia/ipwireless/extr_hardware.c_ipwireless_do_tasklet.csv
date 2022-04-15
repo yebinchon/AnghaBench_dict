@@ -1,0 +1,14 @@
+PRIO_SETUP,VAR_0
+get_current_packet_priority,FUNC_0
+get_packets_from_hw,FUNC_1
+ipw_send_setup_packet,FUNC_2
+ipw_setup_hardware,FUNC_3
+send_pending_packet,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ipwireless_do_tasklet,FUNC_7
+hw_,VAR_1
+hw,VAR_2
+flags,VAR_3
+priority_limit,VAR_4
+again,VAR_5

@@ -1,0 +1,14 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+ahci_ids,VAR_2
+device_get_ivars,FUNC_0
+device_set_desc_copy,FUNC_1
+pci_get_devid,FUNC_2
+pci_get_revid,FUNC_3
+snprintf,FUNC_4
+ahci_ata_probe,FUNC_5
+dev,VAR_3
+buf,VAR_4
+i,VAR_5
+devid,VAR_6
+revid,VAR_7

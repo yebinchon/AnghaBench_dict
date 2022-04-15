@@ -1,0 +1,15 @@
+IFQ_SET_MAXLEN,FUNC_0
+IFQ_SET_READY,FUNC_1
+MXGEFW_CMD_GET_SEND_RING_SIZE,VAR_0
+device_printf,FUNC_2
+mxge_alloc_slice_rings,FUNC_3
+mxge_free_rings,FUNC_4
+mxge_send_cmd,FUNC_5
+mxge_alloc_rings,FUNC_6
+sc,VAR_1
+cmd,VAR_2
+tx_ring_size,VAR_3
+tx_ring_entries,VAR_4
+rx_ring_entries,VAR_5
+err,VAR_6
+slice,VAR_7

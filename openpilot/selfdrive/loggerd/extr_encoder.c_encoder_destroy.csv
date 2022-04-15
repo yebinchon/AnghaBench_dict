@@ -1,0 +1,17 @@
+OMX_CommandStateSet,VAR_0
+OMX_ErrorNone,VAR_1
+OMX_FreeBuffer,FUNC_0
+OMX_FreeHandle,FUNC_1
+OMX_SendCommand,FUNC_2
+OMX_StateIdle,VAR_2
+OMX_StateLoaded,VAR_3
+PORT_INDEX_IN,VAR_4
+PORT_INDEX_OUT,VAR_5
+assert,FUNC_3
+free,FUNC_4
+wait_for_state,FUNC_5
+encoder_destroy,FUNC_6
+s,VAR_6
+err,VAR_7
+i,VAR_8
+i,VAR_9

@@ -1,0 +1,11 @@
+MCI_CTL2_CMCI_EN,VAR_0
+MSR_IA32_MCx_CTL2,FUNC_0
+__clear_bit,FUNC_1
+mce_banks_owned,VAR_1
+rdmsrl,FUNC_2
+test_bit,FUNC_3
+this_cpu_ptr,FUNC_4
+wrmsrl,FUNC_5
+__cmci_disable_bank,FUNC_6
+bank,VAR_2
+val,VAR_3

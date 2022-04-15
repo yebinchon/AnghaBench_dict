@@ -1,0 +1,10 @@
+MAP_ENTRY_NOMERGE_MASK,VAR_0
+UNLINK_MERGE_NEXT,VAR_1
+VM_MAP_ASSERT_LOCKED,FUNC_0
+vm_map_entry_unlink,FUNC_1
+vm_map_mergeable_neighbors,FUNC_2
+vm_map_merged_neighbor_dispose,FUNC_3
+vm_map_try_merge_entries,FUNC_4
+map,VAR_2
+prev,VAR_3
+entry,VAR_4

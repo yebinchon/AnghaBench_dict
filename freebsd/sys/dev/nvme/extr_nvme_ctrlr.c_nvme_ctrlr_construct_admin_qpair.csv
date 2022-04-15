@@ -1,0 +1,14 @@
+CPU_FFS,FUNC_0
+NVME_ADMIN_ENTRIES,VAR_0
+NVME_ADMIN_TRACKERS,VAR_1
+NVME_MAX_ADMIN_ENTRIES,VAR_2
+NVME_MIN_ADMIN_ENTRIES,VAR_3
+TUNABLE_INT_FETCH,FUNC_1
+cpuset_domain,VAR_4
+nvme_printf,FUNC_2
+nvme_qpair_construct,FUNC_3
+nvme_ctrlr_construct_admin_qpair,FUNC_4
+ctrlr,VAR_5
+qpair,VAR_6
+num_entries,VAR_7
+error,VAR_8

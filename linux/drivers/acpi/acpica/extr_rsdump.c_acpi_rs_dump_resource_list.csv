@@ -1,0 +1,16 @@
+ACPI_FUNCTION_ENTRY,FUNC_0
+ACPI_IS_DEBUG_ENABLED,FUNC_1
+ACPI_LV_RESOURCES,VAR_0
+ACPI_NEXT_RESOURCE,FUNC_2
+ACPI_RESOURCE_TYPE_END_TAG,VAR_1
+ACPI_RESOURCE_TYPE_MAX,VAR_2
+ACPI_RESOURCE_TYPE_SERIAL_BUS,VAR_3
+_COMPONENT,VAR_4
+acpi_gbl_dump_resource_dispatch,VAR_5
+acpi_gbl_dump_serial_bus_dispatch,VAR_6
+acpi_os_printf,FUNC_3
+acpi_rs_dump_descriptor,FUNC_4
+acpi_rs_dump_resource_list,FUNC_5
+resource_list,VAR_7
+count,VAR_8
+type,VAR_9

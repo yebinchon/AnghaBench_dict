@@ -1,0 +1,8 @@
+ETH_P_IP,VAR_0
+ETH_P_MPLS_UC,VAR_1
+IPPROTO_UDP,VAR_2
+TC_ACT_OK,VAR_3
+__bpf_constant_htons,FUNC_0
+encap_ipv4,FUNC_1
+__encap_udp_mpls,FUNC_2
+skb,VAR_4

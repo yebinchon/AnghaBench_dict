@@ -1,0 +1,10 @@
+kvm_flush_remote_tlbs,FUNC_0
+kvm_mmu_flush_tlb,FUNC_1
+kvm_mmu_zap_page,FUNC_2
+kvm_unlink_unsync_page,FUNC_3
+rmap_write_protect,FUNC_4
+stub1,FUNC_5
+trace_kvm_mmu_sync_page,FUNC_6
+kvm_sync_page,FUNC_7
+vcpu,VAR_0
+sp,VAR_1

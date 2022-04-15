@@ -1,0 +1,9 @@
+FWRITE,VAR_0
+MNT_WAIT,VAR_1
+NULLVP,VAR_2
+VNOP_FSYNC,FUNC_0
+sd_logvp,VAR_3
+vnode_close,FUNC_1
+sd_closelog,FUNC_2
+ctx,VAR_4
+error,VAR_5

@@ -1,0 +1,16 @@
+MTK_NOR_PIO_READ_CMD,VAR_0
+MTK_NOR_RDATA_REG,VAR_1
+mtk_nor_execute_cmd,FUNC_0
+mtk_nor_set_addr,FUNC_1
+mtk_nor_set_read_mode,FUNC_2
+readb,FUNC_3
+mtk_nor_read,FUNC_4
+nor,VAR_2
+from,VAR_3
+length,VAR_4
+buffer,VAR_5
+i,VAR_6
+ret,VAR_7
+addr,VAR_8
+buf,VAR_9
+mtk_nor,VAR_10

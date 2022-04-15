@@ -1,0 +1,11 @@
+LW_FLAG_LOCKED,VAR_0
+finish_spin_delay,FUNC_0
+get_lwlock_stats_entry,FUNC_1
+init_local_spin_delay,FUNC_2
+perform_spin_delay,FUNC_3
+pg_atomic_fetch_or_u32,FUNC_4
+pg_atomic_read_u32,FUNC_5
+LWLockWaitListLock,FUNC_6
+lock,VAR_1
+old_state,VAR_2
+delayStatus,VAR_3

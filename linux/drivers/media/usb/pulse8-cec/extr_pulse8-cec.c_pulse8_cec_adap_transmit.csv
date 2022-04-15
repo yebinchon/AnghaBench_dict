@@ -1,0 +1,17 @@
+MSGCODE_COMMAND_ACCEPTED,VAR_0
+MSGCODE_TRANSMIT,VAR_1
+MSGCODE_TRANSMIT_ACK_POLARITY,VAR_2
+MSGCODE_TRANSMIT_EOM,VAR_3
+MSGCODE_TRANSMIT_IDLETIME,VAR_4
+cec_get_drvdata,FUNC_0
+cec_msg_is_broadcast,FUNC_1
+pulse8_send_and_wait,FUNC_2
+pulse8_cec_adap_transmit,FUNC_3
+adap,VAR_5
+attempts,VAR_6
+signal_free_time,VAR_7
+msg,VAR_8
+pulse8,VAR_9
+cmd,VAR_10
+i,VAR_11
+err,VAR_12

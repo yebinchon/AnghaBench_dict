@@ -1,0 +1,9 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_index_free,FUNC_2
+git_index_open,FUNC_3
+git_repository_free,FUNC_4
+git_repository_set_index,FUNC_5
+repo,VAR_0
+test_repo_setters__setting_a_new_index_on_a_repo_which_has_already_loaded_one_properly_honors_the_refcount,FUNC_6
+new_index,VAR_1

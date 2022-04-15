@@ -1,0 +1,13 @@
+ARIZONA_AOD_IRQ_INDEX,VAR_0
+ARIZONA_IRQ_BOOT_DONE,VAR_1
+ARIZONA_IRQ_CTRLIF_ERR,VAR_2
+ARIZONA_MAIN_IRQ_INDEX,VAR_3
+arizona_free_irq,FUNC_0
+free_irq,FUNC_1
+irq_dispose_mapping,FUNC_2
+irq_domain_remove,FUNC_3
+irq_find_mapping,FUNC_4
+regmap_del_irq_chip,FUNC_5
+arizona_irq_exit,FUNC_6
+arizona,VAR_4
+virq,VAR_5

@@ -1,0 +1,14 @@
+CARD_STATE_RECOVER,VAR_0
+CCWGROUP_OFFLINE,VAR_1
+__qeth_l3_set_online,FUNC_0
+dev_close,FUNC_1
+dev_get_drvdata,FUNC_2
+dev_warn,FUNC_3
+netif_device_attach,FUNC_4
+qeth_set_allowed_threads,FUNC_5
+rtnl_lock,FUNC_6
+rtnl_unlock,FUNC_7
+qeth_l3_pm_resume,FUNC_8
+gdev,VAR_2
+card,VAR_3
+rc,VAR_4

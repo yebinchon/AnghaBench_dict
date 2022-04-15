@@ -1,0 +1,13 @@
+HDMI_IH_MUTE_PHY_STAT0,VAR_0
+HDMI_IH_PHY_STAT0,VAR_1
+IRQ_NONE,VAR_2
+IRQ_WAKE_THREAD,VAR_3
+dw_hdmi_i2c_irq,FUNC_0
+hdmi_readb,FUNC_1
+hdmi_writeb,FUNC_2
+dw_hdmi_hardirq,FUNC_3
+irq,VAR_4
+dev_id,VAR_5
+hdmi,VAR_6
+intr_stat,VAR_7
+ret,VAR_8

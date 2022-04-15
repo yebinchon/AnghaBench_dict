@@ -1,0 +1,10 @@
+VIRTUAL_PROCESSOR_ID,VAR_0
+VMCS_LINK_POINTER,VAR_1
+enable_vpid,VAR_2
+nested_cpu_has_vpid,FUNC_0
+prepare_vmcs02_constant_state,FUNC_1
+vmcs_write16,FUNC_2
+vmcs_write64,FUNC_3
+prepare_vmcs02_early_rare,FUNC_4
+vmx,VAR_3
+vmcs12,VAR_4

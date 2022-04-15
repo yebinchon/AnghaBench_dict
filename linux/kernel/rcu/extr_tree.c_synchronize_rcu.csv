@@ -1,0 +1,11 @@
+RCU_LOCKDEP_WARN,FUNC_0
+call_rcu,VAR_0
+lock_is_held,FUNC_1
+rcu_bh_lock_map,VAR_1
+rcu_blocking_is_gp,FUNC_2
+rcu_gp_is_expedited,FUNC_3
+rcu_lock_map,VAR_2
+rcu_sched_lock_map,VAR_3
+synchronize_rcu_expedited,FUNC_4
+wait_rcu_gp,FUNC_5
+synchronize_rcu,FUNC_6

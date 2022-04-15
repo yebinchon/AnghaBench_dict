@@ -1,0 +1,17 @@
+A_BCM1480_IMR_MAPPER,FUNC_0
+BCM1480_IMR_HL_SPACING,VAR_0
+BCM1480_NR_IRQS,VAR_1
+BCM1480_NR_IRQS_HALF,VAR_2
+IOADDR,FUNC_1
+R_BCM1480_IMR_INTERRUPT_MASK_H,VAR_3
+____raw_readq,FUNC_2
+____raw_writeq,FUNC_3
+bcm1480_imr_lock,VAR_4
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+bcm1480_unmask_irq,FUNC_6
+cpu,VAR_5
+irq,VAR_6
+flags,VAR_7
+hl_spacing,VAR_8
+cur_ints,VAR_9

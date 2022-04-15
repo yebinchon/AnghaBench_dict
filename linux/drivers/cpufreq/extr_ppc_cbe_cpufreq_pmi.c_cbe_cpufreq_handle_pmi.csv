@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+PMI_TYPE_FREQ_CHANGE,VAR_0
+cbe_node_to_cpu,FUNC_1
+cpufreq_cpu_get,FUNC_2
+cpufreq_cpu_put,FUNC_3
+freq_qos_update_request,FUNC_4
+pr_debug,FUNC_5
+pr_warn,FUNC_6
+cbe_cpufreq_handle_pmi,FUNC_7
+pmi_msg,VAR_1
+policy,VAR_2
+req,VAR_3
+node,VAR_4
+slow_mode,VAR_5
+cpu,VAR_6
+ret,VAR_7

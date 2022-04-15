@@ -1,0 +1,15 @@
+VSEL_NSEL_MASK,VAR_0
+VSEL_VOLTAGE_BASE,VAR_1
+VSEL_VOLTAGE_STEP,VAR_2
+abs,FUNC_0
+regnode_get_softc,FUNC_1
+syr827_read,FUNC_2
+syr827_write,FUNC_3
+syr827_regnode_set_voltage,FUNC_4
+regnode,VAR_3
+min_uvolt,VAR_4
+max_uvolt,VAR_5
+udelay,VAR_6
+sc,VAR_7
+cur_uvolt,VAR_8
+val,VAR_9

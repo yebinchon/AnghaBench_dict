@@ -1,0 +1,17 @@
+DBUS_TYPE_BOOLEAN,VAR_0
+DBUS_TYPE_INVALID,VAR_1
+FALSE,VAR_2
+MSG_ERROR,VAR_3
+TRUE,VAR_4
+WPAS_DBUS_NEW_IFACE_INTERFACE,VAR_5
+dbus_connection_send,FUNC_0
+dbus_message_append_args,FUNC_1
+dbus_message_new_signal,FUNC_2
+dbus_message_unref,FUNC_3
+wpa_printf,FUNC_4
+wpas_dbus_signal_scan_done,FUNC_5
+wpa_s,VAR_6
+success,VAR_7
+iface,VAR_8
+msg,VAR_9
+succ,VAR_10

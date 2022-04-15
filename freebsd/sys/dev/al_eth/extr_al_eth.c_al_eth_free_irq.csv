@@ -1,0 +1,15 @@
+AL_ETH_FLAG_MSIX_ENABLED,VAR_0
+M_IFAL,VAR_1
+SYS_RES_IRQ,VAR_2
+__al_eth_free_irq,FUNC_0
+bus_release_resource,FUNC_1
+device_printf,FUNC_2
+device_printf_dbg,FUNC_3
+free,FUNC_4
+free_irq_cpu_rmap,FUNC_5
+pci_release_msi,FUNC_6
+al_eth_free_irq,FUNC_7
+adapter,VAR_3
+irq,VAR_4
+i,VAR_5
+rc,VAR_6

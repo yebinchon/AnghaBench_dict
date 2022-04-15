@@ -1,0 +1,15 @@
+DESELECT_CARD,VAR_0
+SD_RSP_TYPE_R0,VAR_1
+SD_RSP_TYPE_R1,VAR_2
+SELECT_CARD,VAR_3
+STATUS_FAIL,VAR_4
+STATUS_SUCCESS,VAR_5
+sd_send_cmd_get_rsp,FUNC_0
+sd_select_card,FUNC_1
+chip,VAR_6
+select,VAR_7
+sd_card,VAR_8
+retval,VAR_9
+cmd_idx,VAR_10
+cmd_type,VAR_11
+addr,VAR_12

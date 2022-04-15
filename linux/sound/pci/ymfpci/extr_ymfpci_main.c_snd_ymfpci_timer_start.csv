@@ -1,0 +1,12 @@
+YDSXGR_TIMERCOUNT,VAR_0
+YDSXGR_TIMERCTRL,VAR_1
+snd_timer_chip,FUNC_0
+snd_ymfpci_writeb,FUNC_1
+snd_ymfpci_writew,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+snd_ymfpci_timer_start,FUNC_5
+timer,VAR_2
+chip,VAR_3
+flags,VAR_4
+count,VAR_5

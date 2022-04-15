@@ -1,0 +1,17 @@
+HCLGE_MAC_VLAN_REMOVE,VAR_0
+HCLGE_OPC_MAC_VLAN_REMOVE,VAR_1
+dev_err,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hclge_get_mac_vlan_cmd_status,FUNC_3
+le16_to_cpu,FUNC_4
+le32_to_cpu,FUNC_5
+memcpy,FUNC_6
+hclge_remove_mac_vlan_tbl,FUNC_7
+vport,VAR_2
+req,VAR_3
+hdev,VAR_4
+desc,VAR_5
+resp_code,VAR_6
+retval,VAR_7
+ret,VAR_8

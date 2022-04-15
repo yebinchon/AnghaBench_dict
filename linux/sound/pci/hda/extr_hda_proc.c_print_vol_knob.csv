@@ -1,0 +1,10 @@
+AC_PAR_VOL_KNB_CAP,VAR_0
+AC_VERB_GET_VOLUME_KNOB_CONTROL,VAR_1
+param_read,FUNC_0
+snd_hda_codec_read,FUNC_1
+snd_iprintf,FUNC_2
+print_vol_knob,FUNC_3
+buffer,VAR_2
+codec,VAR_3
+nid,VAR_4
+cap,VAR_5

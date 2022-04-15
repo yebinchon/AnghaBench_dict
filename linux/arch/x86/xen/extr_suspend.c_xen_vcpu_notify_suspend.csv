@@ -1,0 +1,12 @@
+MSR_IA32_SPEC_CTRL,VAR_0
+X86_FEATURE_SPEC_CTRL,VAR_1
+boot_cpu_has,FUNC_0
+rdmsrl,FUNC_1
+spec_ctrl,VAR_2
+this_cpu_write,FUNC_2
+tick_suspend_local,FUNC_3
+wrmsrl,FUNC_4
+xen_pv_domain,FUNC_5
+xen_vcpu_notify_suspend,FUNC_6
+data,VAR_3
+tmp,VAR_4

@@ -1,0 +1,12 @@
+DPSECI_CMDID_GET_SEC_ATTR,VAR_0
+le16_to_cpu,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpseci_get_sec_attr,FUNC_3
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+attr,VAR_4
+cmd,VAR_5
+rsp_params,VAR_6
+err,VAR_7

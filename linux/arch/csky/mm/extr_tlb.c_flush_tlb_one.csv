@@ -1,0 +1,16 @@
+ASID_MASK,VAR_0
+TLB_ENTRY_SIZE_MASK,VAR_1
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+read_mmu_entryhi,FUNC_2
+read_mmu_index,FUNC_3
+restore_asid_inv_utlb,FUNC_4
+sync_is,FUNC_5
+tlb_invalid_indexed,FUNC_6
+tlb_probe,FUNC_7
+write_mmu_entryhi,FUNC_8
+flush_tlb_one,FUNC_9
+addr,VAR_2
+oldpid,VAR_3
+idx,VAR_4
+flags,VAR_5

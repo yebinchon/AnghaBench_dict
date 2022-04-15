@@ -1,0 +1,15 @@
+GHASH_BLOCK_SIZE,VAR_0
+GHASH_DIGEST_SIZE,VAR_1
+crypto_simd_usable,FUNC_0
+crypto_xor,FUNC_1
+disable_kernel_vsx,FUNC_2
+enable_kernel_vsx,FUNC_3
+gcm_ghash_p8,FUNC_4
+gf128mul_lle,FUNC_5
+pagefault_disable,FUNC_6
+pagefault_enable,FUNC_7
+preempt_disable,FUNC_8
+preempt_enable,FUNC_9
+__ghash_block,FUNC_10
+ctx,VAR_2
+dctx,VAR_3

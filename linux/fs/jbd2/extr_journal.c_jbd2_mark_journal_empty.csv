@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+JBD2_FLUSHED,VAR_0
+cpu_to_be32,FUNC_1
+jbd2_write_superblock,FUNC_2
+jbd_debug,FUNC_3
+lock_buffer,FUNC_4
+mutex_is_locked,FUNC_5
+unlock_buffer,FUNC_6
+write_lock,FUNC_7
+write_unlock,FUNC_8
+jbd2_mark_journal_empty,FUNC_9
+journal,VAR_1
+write_op,VAR_2
+sb,VAR_3

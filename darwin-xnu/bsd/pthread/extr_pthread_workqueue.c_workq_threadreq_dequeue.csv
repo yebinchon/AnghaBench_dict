@@ -1,0 +1,10 @@
+PRIORITY_QUEUE_SCHED_PRI_MAX_HEAP_COMPARE,VAR_0
+TR_FLAG_OVERCOMMIT,VAR_1
+WORKQ_THREAD_QOS_MANAGER,VAR_2
+_wq_thactive_refresh_best_constrained_req_qos,FUNC_0
+assert,FUNC_1
+priority_queue_remove,FUNC_2
+workq_priority_queue_for_req,FUNC_3
+workq_threadreq_dequeue,FUNC_4
+wq,VAR_3
+req,VAR_4

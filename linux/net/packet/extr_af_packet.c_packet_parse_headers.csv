@@ -1,0 +1,9 @@
+ETH_P_ALL,VAR_0
+SOCK_RAW,VAR_1
+dev_parse_header_protocol,FUNC_0
+htons,FUNC_1
+skb_probe_transport_header,FUNC_2
+skb_reset_mac_header,FUNC_3
+packet_parse_headers,FUNC_4
+skb,VAR_2
+sock,VAR_3

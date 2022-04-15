@@ -1,0 +1,13 @@
+EMSGSIZE,VAR_0
+NET_DM_ATTR_HW_ENTRY,VAR_1
+NET_DM_ATTR_HW_TRAP_COUNT,VAR_2
+NET_DM_ATTR_HW_TRAP_NAME,VAR_3
+nla_nest_cancel,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put_string,FUNC_3
+nla_put_u32,FUNC_4
+net_dm_hw_entry_put,FUNC_5
+msg,VAR_4
+hw_entry,VAR_5
+attr,VAR_6

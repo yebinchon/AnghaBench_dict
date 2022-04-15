@@ -1,0 +1,15 @@
+AVERROR_INVALIDDATA,VAR_0
+FLAC_METADATA_TYPE_STREAMINFO,VAR_1
+FLAC_STREAMINFO_SIZE,VAR_2
+allocate_buffers,FUNC_0
+ff_flac_parse_streaminfo,FUNC_1
+ff_flacdsp_init,FUNC_2
+flac_parse_block_header,FUNC_3
+flac_set_bps,FUNC_4
+parse_streaminfo,FUNC_5
+s,VAR_3
+buf,VAR_4
+buf_size,VAR_5
+metadata_type,VAR_6
+metadata_size,VAR_7
+ret,VAR_8

@@ -1,0 +1,13 @@
+SYS_exit,VAR_0
+SYS_gettid,VAR_1
+child_exit_secs,VAR_2
+getpid,FUNC_0
+ksft_print_msg,FUNC_1
+pthread_create,FUNC_2
+syscall,FUNC_3
+test_pidfd_poll_leader_exit_thread,VAR_3
+time,FUNC_4
+child_poll_leader_exit_test,FUNC_5
+args,VAR_4
+t1,VAR_5
+t2,VAR_6

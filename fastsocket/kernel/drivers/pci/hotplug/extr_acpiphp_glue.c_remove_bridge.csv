@@ -1,0 +1,11 @@
+ACPI_SYSTEM_NOTIFY,VAR_0
+ACPI_TYPE_DEVICE,VAR_1
+acpi_remove_notify_handler,FUNC_0
+acpi_walk_namespace,FUNC_1
+acpiphp_handle_to_bridge,FUNC_2
+cleanup_bridge,FUNC_3
+cleanup_p2p_bridge,VAR_2
+handle_hotplug_event_bridge,VAR_3
+remove_bridge,FUNC_4
+handle,VAR_4
+bridge,VAR_5

@@ -1,0 +1,16 @@
+GPG_VERIFY_OMIT_STATUS,VAR_0
+GPG_VERIFY_VERBOSE,VAR_1
+check_signature,FUNC_0
+error,FUNC_1
+memset,FUNC_2
+parse_signature,FUNC_3
+print_signature_buffer,FUNC_4
+signature_check_clear,FUNC_5
+write_in_full,FUNC_6
+run_gpg_verify,FUNC_7
+buf,VAR_2
+size,VAR_3
+flags,VAR_4
+sigc,VAR_5
+payload_size,VAR_6
+ret,VAR_7

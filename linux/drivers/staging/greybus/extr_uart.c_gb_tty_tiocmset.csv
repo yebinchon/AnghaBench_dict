@@ -1,0 +1,11 @@
+GB_UART_CTRL_DTR,VAR_0
+GB_UART_CTRL_RTS,VAR_1
+TIOCM_DTR,VAR_2
+TIOCM_RTS,VAR_3
+send_control,FUNC_0
+gb_tty_tiocmset,FUNC_1
+tty,VAR_4
+set,VAR_5
+clear,VAR_6
+gb_tty,VAR_7
+newctrl,VAR_8

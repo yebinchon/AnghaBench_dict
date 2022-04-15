@@ -1,0 +1,9 @@
+rcar_dmac_chan_halt,FUNC_0
+rcar_dmac_chan_reinit,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_rcar_dmac_chan,FUNC_4
+rcar_dmac_chan_terminate_all,FUNC_5
+chan,VAR_0
+rchan,VAR_1
+flags,VAR_2

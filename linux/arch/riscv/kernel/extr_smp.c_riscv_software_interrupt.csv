@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+IPI_CALL_FUNC,VAR_0
+IPI_CPU_STOP,VAR_1
+IPI_MAX,VAR_2
+IPI_RESCHEDULE,VAR_3
+clear_ipi,FUNC_1
+generic_smp_call_function_interrupt,FUNC_2
+ipi_data,VAR_4
+ipi_stop,FUNC_3
+mb,FUNC_4
+scheduler_ipi,FUNC_5
+smp_processor_id,FUNC_6
+xchg,FUNC_7
+riscv_software_interrupt,FUNC_8
+pending_ipis,VAR_5
+stats,VAR_6
+ops,VAR_7

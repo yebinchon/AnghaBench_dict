@@ -1,0 +1,13 @@
+CAM_LUN_WILDCARD,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_TARGET_WILDCARD,VAR_2
+EIO,VAR_3
+ENOMEM,VAR_4
+cam_sim_path,FUNC_0
+xpt_alloc_ccb,FUNC_1
+xpt_create_path,FUNC_2
+xpt_free_ccb,FUNC_3
+xpt_rescan,FUNC_4
+hptiop_rescan_bus,FUNC_5
+hba,VAR_5
+ccb,VAR_6

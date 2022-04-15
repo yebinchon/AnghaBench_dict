@@ -1,0 +1,13 @@
+ATTR_KILL_SGID,VAR_0
+ATTR_KILL_SUID,VAR_1
+CAP_FSETID,VAR_2
+S_ISGID,VAR_3
+S_ISREG,FUNC_0
+S_ISUID,VAR_4
+S_IXGRP,VAR_5
+capable,FUNC_1
+unlikely,FUNC_2
+should_remove_suid,FUNC_3
+dentry,VAR_6
+mode,VAR_7
+kill,VAR_8

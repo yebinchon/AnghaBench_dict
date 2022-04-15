@@ -1,0 +1,13 @@
+ESUCCESS,VAR_0
+FLOW_CONTROL_EVENT_FREE_BUFFS_OFFSET,VAR_1
+FLOW_CONTROL_EVENT_SIZE,VAR_2
+HCI_EVENT_HEADER_SIZE,VAR_3
+STREAM_TO_UINT16,FUNC_0
+tSLInformation,VAR_4
+hci_event_unsol_flowcontrol_handler,FUNC_1
+pEvent,VAR_5
+temp,VAR_6
+value,VAR_7
+i,VAR_8
+pusNumberOfHandles,VAR_9
+pReadPayload,VAR_10

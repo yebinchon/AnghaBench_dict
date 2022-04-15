@@ -1,0 +1,14 @@
+KVM_X86_QUIRK_OUT_7E_INC_RIP,VAR_0
+complete_fast_pio_out,VAR_1
+complete_fast_pio_out_port_0x7e,VAR_2
+emulator_pio_out_emulated,FUNC_0
+kvm_check_has_quirk,FUNC_1
+kvm_get_linear_rip,FUNC_2
+kvm_rax_read,FUNC_3
+kvm_skip_emulated_instruction,FUNC_4
+kvm_fast_pio_out,FUNC_5
+vcpu,VAR_3
+size,VAR_4
+port,VAR_5
+val,VAR_6
+ret,VAR_7

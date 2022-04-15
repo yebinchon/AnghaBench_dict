@@ -1,0 +1,12 @@
+CRYPTO_THREAD_get_local,FUNC_0
+CRYPTO_THREAD_set_local,FUNC_1
+RAND_DRBG_TYPE_PRIVATE,VAR_0
+drbg_delete_thread_state,VAR_1
+drbg_get_global,FUNC_2
+drbg_setup,FUNC_3
+openssl_ctx_get_concrete,FUNC_4
+ossl_init_thread_start,FUNC_5
+OPENSSL_CTX_get0_private_drbg,FUNC_6
+ctx,VAR_2
+dgbl,VAR_3
+drbg,VAR_4

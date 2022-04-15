@@ -1,0 +1,17 @@
+DLM_NORMAL,VAR_0
+LKM_IVMODE,VAR_1
+LKM_NLMODE,VAR_2
+ML_ERROR,VAR_3
+USER_LOCK_ATTACHED,VAR_4
+USER_LOCK_BLOCKED,VAR_5
+USER_LOCK_BUSY,VAR_6
+mlog,FUNC_0
+mlog_bug_on_msg,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+user_highest_compat_lock_level,FUNC_4
+wake_up,FUNC_5
+user_ast,FUNC_6
+opaque,VAR_7
+lockres,VAR_8
+lksb,VAR_9

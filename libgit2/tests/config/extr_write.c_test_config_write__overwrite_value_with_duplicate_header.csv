@@ -1,0 +1,14 @@
+cl_assert_equal_s,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_config_entry_free,FUNC_3
+git_config_free,FUNC_4
+git_config_get_entry,FUNC_5
+git_config_open_ondisk,FUNC_6
+git_config_set_string,FUNC_7
+test_config_write__overwrite_value_with_duplicate_header,FUNC_8
+file_name,VAR_0
+entry_name,VAR_1
+cfg,VAR_2
+entry,VAR_3
+file_content,VAR_4

@@ -1,0 +1,16 @@
+CHANINT_EN,VAR_0
+MCINT_EN,VAR_1
+RXINT_EN,VAR_2
+SRCINT_EN,VAR_3
+TXINT_EN,VAR_4
+_INDX_ADDR,VAR_5
+_INT_MASK,VAR_6
+le32dec,FUNC_0
+rp_readch1,FUNC_1
+rp_sBitMapClrTbl,VAR_7
+rp_writech1,FUNC_2
+rp_writech4,FUNC_3
+sDisInterrupts,FUNC_4
+ChP,VAR_8
+Flags,VAR_9
+Mask,VAR_10

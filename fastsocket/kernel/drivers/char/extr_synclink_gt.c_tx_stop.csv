@@ -1,0 +1,16 @@
+BIT1,VAR_0
+BIT2,VAR_1
+IRQ_TXDATA,VAR_2
+IRQ_TXIDLE,VAR_3
+IRQ_TXUNDER,VAR_4
+SSR,VAR_5
+TCR,VAR_6
+del_timer,FUNC_0
+rd_reg16,FUNC_1
+reset_tbufs,FUNC_2
+slgt_irq_off,FUNC_3
+tdma_reset,FUNC_4
+wr_reg16,FUNC_5
+tx_stop,FUNC_6
+info,VAR_7
+val,VAR_8

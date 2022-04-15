@@ -1,0 +1,17 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+B_TRUE,VAR_1
+EINVAL,VAR_2
+KASSERT,FUNC_0
+SFXGE_EVQ_LOCK,FUNC_1
+SFXGE_EVQ_STARTED,VAR_3
+SFXGE_EVQ_STARTING,VAR_4
+SFXGE_EVQ_UNLOCK,FUNC_2
+__predict_false,FUNC_3
+bus_dmamap_sync,FUNC_4
+efx_ev_qpoll,FUNC_5
+efx_ev_qprime,FUNC_6
+sfxge_ev_callbacks,VAR_5
+sfxge_ev_qcomplete,FUNC_7
+sfxge_ev_qpoll,FUNC_8
+evq,VAR_6
+rc,VAR_7

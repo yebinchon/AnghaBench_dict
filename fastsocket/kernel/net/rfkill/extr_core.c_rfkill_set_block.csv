@@ -1,0 +1,16 @@
+PM_EVENT_SLEEP,VAR_0
+RFKILL_BLOCK_SW,VAR_1
+RFKILL_BLOCK_SW_PREV,VAR_2
+RFKILL_BLOCK_SW_SETCALL,VAR_3
+rfkill_event,FUNC_0
+rfkill_led_trigger_event,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+unlikely,FUNC_6
+rfkill_set_block,FUNC_7
+rfkill,VAR_4
+blocked,VAR_5
+flags,VAR_6
+err,VAR_7

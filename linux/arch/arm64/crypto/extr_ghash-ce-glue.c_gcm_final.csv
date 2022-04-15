@@ -1,0 +1,14 @@
+AES_BLOCK_SIZE,VAR_0
+cpu_to_be64,FUNC_0
+crypto_xor,FUNC_1
+ghash_do_update,FUNC_2
+pmull_ghash_update_p64,VAR_1
+put_unaligned_be64,FUNC_3
+gcm_final,FUNC_4
+req,VAR_2
+ctx,VAR_3
+dg,VAR_4
+tag,VAR_5
+cryptlen,VAR_6
+mac,VAR_7
+lengths,VAR_8

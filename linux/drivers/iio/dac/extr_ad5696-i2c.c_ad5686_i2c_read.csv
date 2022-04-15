@@ -1,0 +1,14 @@
+AD5686_ADDR,FUNC_0
+AD5686_CMD,FUNC_1
+AD5686_CMD_NOOP,VAR_0
+I2C_M_RD,VAR_1
+be16_to_cpu,FUNC_2
+cpu_to_be32,FUNC_3
+i2c_transfer,FUNC_4
+to_i2c_client,FUNC_5
+ad5686_i2c_read,FUNC_6
+st,VAR_2
+addr,VAR_3
+i2c,VAR_4
+msg,VAR_5
+ret,VAR_6

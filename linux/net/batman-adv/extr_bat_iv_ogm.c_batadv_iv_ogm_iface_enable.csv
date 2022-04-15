@@ -1,0 +1,17 @@
+BATADV_COMPAT_VERSION,VAR_0
+BATADV_IV_OGM,VAR_1
+BATADV_NO_FLAGS,VAR_2
+BATADV_OGM_HLEN,VAR_3
+BATADV_TQ_MAX_VALUE,VAR_4
+ENOMEM,VAR_5
+GFP_ATOMIC,VAR_6
+atomic_set,FUNC_0
+get_random_bytes,FUNC_1
+kmalloc,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+batadv_iv_ogm_iface_enable,FUNC_5
+hard_iface,VAR_7
+batadv_ogm_packet,VAR_8
+ogm_buff,VAR_9
+random_seqno,VAR_10

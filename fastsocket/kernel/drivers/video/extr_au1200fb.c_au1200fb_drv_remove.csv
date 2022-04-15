@@ -1,0 +1,15 @@
+AU1200_LCD_INT,VAR_0
+CONFIG_FB_AU1200_DEVS,VAR_1
+ENODEV,VAR_2
+PAGE_ALIGN,FUNC_0
+_au1200fb_devices,VAR_3
+au1200_setpanel,FUNC_1
+dma_free_noncoherent,FUNC_2
+fb_dealloc_cmap,FUNC_3
+free_irq,FUNC_4
+kfree,FUNC_5
+unregister_framebuffer,FUNC_6
+au1200fb_drv_remove,FUNC_7
+dev,VAR_4
+fbdev,VAR_5
+plane,VAR_6

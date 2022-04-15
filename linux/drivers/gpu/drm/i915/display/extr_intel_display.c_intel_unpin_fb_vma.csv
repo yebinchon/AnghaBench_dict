@@ -1,0 +1,10 @@
+PLANE_HAS_FENCE,VAR_0
+i915_gem_object_lock,FUNC_0
+i915_gem_object_unlock,FUNC_1
+i915_gem_object_unpin_from_display_plane,FUNC_2
+i915_vma_put,FUNC_3
+i915_vma_unpin_fence,FUNC_4
+lockdep_assert_held,FUNC_5
+intel_unpin_fb_vma,FUNC_6
+vma,VAR_1
+flags,VAR_2

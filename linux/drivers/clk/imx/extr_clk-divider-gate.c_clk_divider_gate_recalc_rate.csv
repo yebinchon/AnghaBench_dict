@@ -1,0 +1,15 @@
+clk_div_mask,FUNC_0
+clk_hw_is_enabled,FUNC_1
+divider_recalc_rate,FUNC_2
+readl,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_clk_divider,FUNC_6
+to_clk_divider_gate,FUNC_7
+clk_divider_gate_recalc_rate,FUNC_8
+hw,VAR_0
+parent_rate,VAR_1
+div_gate,VAR_2
+div,VAR_3
+flags,VAR_4
+val,VAR_5

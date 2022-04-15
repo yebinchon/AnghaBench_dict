@@ -1,0 +1,15 @@
+C_HUPCL,FUNC_0
+DLCI_CLOSED,VAR_0
+gsm_destroy_network,FUNC_1
+gsm_dlci_begin_close,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+tty_port_close_end,FUNC_5
+tty_port_close_start,FUNC_6
+tty_port_initialized,FUNC_7
+tty_port_lower_dtr_rts,FUNC_8
+tty_port_tty_set,FUNC_9
+gsmtty_close,FUNC_10
+tty,VAR_1
+filp,VAR_2
+dlci,VAR_3

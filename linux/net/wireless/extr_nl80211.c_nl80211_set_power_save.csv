@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+EOPNOTSUPP,VAR_1
+NL80211_ATTR_PS_STATE,VAR_2
+NL80211_PS_ENABLED,VAR_3
+nla_get_u32,FUNC_0
+rdev_set_power_mgmt,FUNC_1
+nl80211_set_power_save,FUNC_2
+skb,VAR_4
+info,VAR_5
+rdev,VAR_6
+wdev,VAR_7
+dev,VAR_8
+ps_state,VAR_9
+state,VAR_10
+err,VAR_11

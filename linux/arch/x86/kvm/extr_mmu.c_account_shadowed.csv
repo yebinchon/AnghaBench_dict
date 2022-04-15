@@ -1,0 +1,12 @@
+KVM_PAGE_TRACK_WRITE,VAR_0
+PT_PAGE_TABLE_LEVEL,VAR_1
+__gfn_to_memslot,FUNC_0
+kvm_memslots_for_spte_role,FUNC_1
+kvm_mmu_gfn_disallow_lpage,FUNC_2
+kvm_slot_page_track_add_page,FUNC_3
+account_shadowed,FUNC_4
+kvm,VAR_2
+sp,VAR_3
+slots,VAR_4
+slot,VAR_5
+gfn,VAR_6

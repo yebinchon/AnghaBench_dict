@@ -1,0 +1,12 @@
+IPPROTO_SCTP,VAR_0
+SCTP_NOTIFICATION,VAR_1
+SCTP_NXTINFO,VAR_2
+memset,FUNC_0
+put_cmsg,FUNC_1
+sctp_assoc2id,FUNC_2
+sctp_ulpevent_is_notification,FUNC_3
+__sctp_ulpevent_read_nxtinfo,FUNC_4
+event,VAR_3
+msghdr,VAR_4
+skb,VAR_5
+nxtinfo,VAR_6

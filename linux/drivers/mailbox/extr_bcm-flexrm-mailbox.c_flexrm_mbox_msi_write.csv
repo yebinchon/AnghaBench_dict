@@ -1,0 +1,12 @@
+RING_MSI_ADDR_LS,VAR_0
+RING_MSI_ADDR_MS,VAR_1
+RING_MSI_DATA_VALUE,VAR_2
+dev_get_drvdata,FUNC_0
+msi_desc_to_dev,FUNC_1
+writel_relaxed,FUNC_2
+flexrm_mbox_msi_write,FUNC_3
+desc,VAR_3
+msg,VAR_4
+dev,VAR_5
+mbox,VAR_6
+ring,VAR_7

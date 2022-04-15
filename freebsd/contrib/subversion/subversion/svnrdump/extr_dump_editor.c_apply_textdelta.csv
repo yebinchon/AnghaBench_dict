@@ -1,0 +1,15 @@
+SVN_DELTA_COMPRESSION_LEVEL_DEFAULT,VAR_0
+SVN_NO_ERROR,VAR_1
+TRUE,VAR_2
+apr_pstrdup,FUNC_0
+svn_stream_from_aprfile2,FUNC_1
+svn_txdelta_to_svndiff3,FUNC_2
+apply_textdelta,FUNC_3
+file_baton,VAR_3
+base_checksum,VAR_4
+pool,VAR_5
+handler,VAR_6
+handler_baton,VAR_7
+fb,VAR_8
+eb,VAR_9
+delta_filestream,VAR_10

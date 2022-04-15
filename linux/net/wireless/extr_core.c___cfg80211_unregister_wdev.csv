@@ -1,0 +1,16 @@
+ASSERT_RTNL,FUNC_0
+NL80211_CMD_DEL_INTERFACE,VAR_0
+cfg80211_cqm_config_free,FUNC_1
+cfg80211_mlme_purge_registrations,FUNC_2
+cfg80211_stop_nan,FUNC_3
+cfg80211_stop_p2p_device,FUNC_4
+flush_work,FUNC_5
+kzfree,FUNC_6
+list_del_rcu,FUNC_7
+nl80211_notify_iface,FUNC_8
+synchronize_rcu,FUNC_9
+wiphy_to_rdev,FUNC_10
+__cfg80211_unregister_wdev,FUNC_11
+wdev,VAR_1
+sync,VAR_2
+rdev,VAR_3

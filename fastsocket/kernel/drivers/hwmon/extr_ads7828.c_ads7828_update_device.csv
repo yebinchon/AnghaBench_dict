@@ -1,0 +1,17 @@
+ADS7828_NCH,VAR_0
+HZ,VAR_1
+ads7828_read_value,FUNC_0
+channel_cmd_byte,FUNC_1
+dev_dbg,FUNC_2
+i2c_get_clientdata,FUNC_3
+jiffies,VAR_2
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+time_after,FUNC_6
+to_i2c_client,FUNC_7
+ads7828_update_device,FUNC_8
+dev,VAR_3
+client,VAR_4
+data,VAR_5
+ch,VAR_6
+cmd,VAR_7

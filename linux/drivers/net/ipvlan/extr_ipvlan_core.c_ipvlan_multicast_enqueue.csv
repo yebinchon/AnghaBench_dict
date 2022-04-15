@@ -1,0 +1,16 @@
+ETH_P_PAUSE,VAR_0
+IPVLAN_QBACKLOG_LIMIT,VAR_1
+IPVL_SKB_CB,FUNC_0
+__skb_queue_tail,FUNC_1
+atomic_long_inc,FUNC_2
+dev_hold,FUNC_3
+htons,FUNC_4
+kfree_skb,FUNC_5
+schedule_work,FUNC_6
+skb_queue_len,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+ipvlan_multicast_enqueue,FUNC_10
+port,VAR_2
+skb,VAR_3
+tx_pkt,VAR_4

@@ -1,0 +1,14 @@
+ISCSI_CMD_CLEANUP_TIMEOUT,VAR_0
+ISCSI_TASK_ABRT_TMF,VAR_1
+ISCSI_TASK_PENDING,VAR_2
+bnx2i_iscsi_unmap_sg_list,FUNC_0
+bnx2i_send_cmd_cleanup_req,FUNC_1
+msecs_to_jiffies,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+wait_for_completion_timeout,FUNC_5
+bnx2i_cleanup_task,FUNC_6
+task,VAR_3
+conn,VAR_4
+bnx2i_conn,VAR_5
+hba,VAR_6

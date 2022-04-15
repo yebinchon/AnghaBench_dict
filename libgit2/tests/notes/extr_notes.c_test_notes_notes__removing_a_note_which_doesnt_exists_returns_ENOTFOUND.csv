@@ -1,0 +1,11 @@
+GIT_ENOTFOUND,VAR_0
+_repo,VAR_1
+_sig,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_note_remove,FUNC_3
+git_oid_fromstr,FUNC_4
+test_notes_notes__removing_a_note_which_doesnt_exists_returns_ENOTFOUND,FUNC_5
+error,VAR_3
+target_oid,VAR_4

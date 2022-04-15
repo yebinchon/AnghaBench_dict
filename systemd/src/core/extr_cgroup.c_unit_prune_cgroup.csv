@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+LOG_DEBUG,VAR_1
+LOG_WARNING,VAR_2
+SPECIAL_ROOT_SLICE,VAR_3
+assert,FUNC_0
+bpf_program_unref,FUNC_1
+cg_trim_everywhere,FUNC_2
+log_unit_full,FUNC_3
+unit_get_cpu_usage,FUNC_4
+unit_has_name,FUNC_5
+unit_release_cgroup,FUNC_6
+unit_prune_cgroup,FUNC_7
+u,VAR_4
+r,VAR_5
+is_root_slice,VAR_6

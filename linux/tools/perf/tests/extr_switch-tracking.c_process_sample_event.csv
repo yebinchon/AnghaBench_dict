@@ -1,0 +1,16 @@
+check_cpu,FUNC_0
+perf_evlist__id2evsel,FUNC_1
+perf_evlist__parse_sample,FUNC_2
+perf_evsel__intval,FUNC_3
+pr_debug,FUNC_4
+pr_debug3,FUNC_5
+process_sample_event,FUNC_6
+evlist,VAR_0
+event,VAR_1
+switch_tracking,VAR_2
+sample,VAR_3
+evsel,VAR_4
+next_tid,VAR_5
+prev_tid,VAR_6
+cpu,VAR_7
+err,VAR_8

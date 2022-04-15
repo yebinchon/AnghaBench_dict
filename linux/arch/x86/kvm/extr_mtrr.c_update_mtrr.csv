@@ -1,0 +1,17 @@
+MSR_IA32_CR_PAT,VAR_0
+MSR_MTRRdefType,VAR_1
+fixed_msr_to_range,FUNC_0
+fixed_mtrr_is_enabled,FUNC_1
+gpa_to_gfn,FUNC_2
+kvm_arch_has_noncoherent_dma,FUNC_3
+kvm_zap_gfn_range,FUNC_4
+mtrr_is_enabled,FUNC_5
+tdp_enabled,VAR_2
+var_mtrr_range,FUNC_6
+update_mtrr,FUNC_7
+vcpu,VAR_3
+msr,VAR_4
+mtrr_state,VAR_5
+start,VAR_6
+end,VAR_7
+index,VAR_8

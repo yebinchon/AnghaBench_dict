@@ -1,0 +1,13 @@
+PCI_DEVICE_3DFX_BANSHEE,VAR_0
+PCI_DEVICE_3DFX_VOODOO3,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_0
+destroy_dev,FUNC_1
+device_get_softc,FUNC_2
+pci_get_devid,FUNC_3
+printf,FUNC_4
+tdfx_clrmtrr,FUNC_5
+tdfx_detach,FUNC_6
+dev,VAR_3
+tdfx_info,VAR_4
+retval,VAR_5

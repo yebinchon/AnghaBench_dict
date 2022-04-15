@@ -1,0 +1,14 @@
+Ndis802_11APMode,VAR_0
+Ndis802_11IBSS,VAR_1
+Ndis802_11Infrastructure,VAR_2
+Ndis802_11InfrastructureMax,VAR_3
+WIFI_ADHOC_STATE,VAR_4
+WIFI_AP_STATE,VAR_5
+WIFI_STATION_STATE,VAR_6
+get_fwstate,FUNC_0
+rtw_setopmode_cmd,FUNC_1
+rtw_hal_init_opmode,FUNC_2
+padapter,VAR_7
+networkType,VAR_8
+pmlmepriv,VAR_9
+fw_state,VAR_10

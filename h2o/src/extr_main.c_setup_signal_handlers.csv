@@ -1,0 +1,14 @@
+SIGABRT,VAR_0
+SIGBUS,VAR_1
+SIGFPE,VAR_2
+SIGILL,VAR_3
+SIGPIPE,VAR_4
+SIGSEGV,VAR_5
+SIGTERM,VAR_6
+SIG_IGN,VAR_7
+crash_handler_fd,VAR_8
+h2o_set_signal_handler,FUNC_0
+on_sigfatal,VAR_9
+on_sigterm,VAR_10
+popen_crash_handler,FUNC_1
+setup_signal_handlers,FUNC_2

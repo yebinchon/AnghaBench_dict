@@ -1,0 +1,10 @@
+RPM_REQ_RESUME,VAR_0
+__pm_runtime_barrier,FUNC_0
+__pm_runtime_resume,FUNC_1
+pm_runtime_get_noresume,FUNC_2
+pm_runtime_put_noidle,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+__pm_runtime_disable,FUNC_6
+dev,VAR_1
+check_resume,VAR_2

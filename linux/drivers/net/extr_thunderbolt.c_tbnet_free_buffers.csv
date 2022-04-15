@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+TBNET_FRAME_SIZE,VAR_2
+TBNET_RING_SIZE,VAR_3
+TBNET_RX_PAGE_ORDER,VAR_4
+TBNET_RX_PAGE_SIZE,VAR_5
+__free_pages,FUNC_0
+dma_unmap_page,FUNC_1
+tb_ring_dma_device,FUNC_2
+tbnet_free_buffers,FUNC_3
+ring,VAR_6
+i,VAR_7
+dma_dev,VAR_8
+tf,VAR_9
+dir,VAR_10
+order,VAR_11
+size,VAR_12

@@ -1,0 +1,17 @@
+GBE_RXHOOK_ORDER,VAR_0
+GBE_TXHOOK_ORDER,VAR_1
+NETCP_LINK_STATE_INVALID,VAR_2
+atomic_set,FUNC_0
+gbe_rxhook,VAR_3
+gbe_slave_stop,FUNC_1
+gbe_txhook,VAR_4
+gbe_unregister_cpts,FUNC_2
+netcp_unregister_rxhook,FUNC_3
+netcp_unregister_txhook,FUNC_4
+netdev_priv,FUNC_5
+gbe_close,FUNC_6
+intf_priv,VAR_5
+ndev,VAR_6
+gbe_intf,VAR_7
+netcp,VAR_8
+gbe_dev,VAR_9

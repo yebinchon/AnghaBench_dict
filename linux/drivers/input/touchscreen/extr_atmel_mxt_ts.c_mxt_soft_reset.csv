@@ -1,0 +1,15 @@
+MXT_COMMAND_RESET,VAR_0
+MXT_RESET_INVALID_CHG,VAR_1
+MXT_RESET_TIMEOUT,VAR_2
+MXT_RESET_VALUE,VAR_3
+dev_info,FUNC_0
+disable_irq,FUNC_1
+msleep,FUNC_2
+mxt_acquire_irq,FUNC_3
+mxt_t6_command,FUNC_4
+mxt_wait_for_completion,FUNC_5
+reinit_completion,FUNC_6
+mxt_soft_reset,FUNC_7
+data,VAR_4
+dev,VAR_5
+ret,VAR_6

@@ -1,0 +1,14 @@
+IG4_REG_INTR_MASK,VAR_0
+bus_generic_detach,FUNC_0
+bus_teardown_intr,FUNC_1
+device_delete_child,FUNC_2
+device_is_attached,FUNC_3
+mtx_destroy,FUNC_4
+reg_write,FUNC_5
+set_controller,FUNC_6
+sx_destroy,FUNC_7
+sx_xlock,FUNC_8
+sx_xunlock,FUNC_9
+ig4iic_detach,FUNC_10
+sc,VAR_1
+error,VAR_2

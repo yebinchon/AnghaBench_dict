@@ -1,0 +1,16 @@
+LOOKUP_NOTOUCH,VAR_0
+OBJ_LIST,VAR_1
+OBJ_STREAM,VAR_2
+OBJ_ZSET,VAR_3
+dictGetKey,FUNC_0
+dictGetSafeIterator,FUNC_1
+dictNext,FUNC_2
+dictReleaseIterator,FUNC_3
+lookupKey,FUNC_4
+signalKeyAsReady,FUNC_5
+scanDatabaseForReadyLists,FUNC_6
+db,VAR_4
+de,VAR_5
+di,VAR_6
+key,VAR_7
+value,VAR_8

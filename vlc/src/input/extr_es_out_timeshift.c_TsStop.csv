@@ -1,0 +1,12 @@
+CmdClean,FUNC_0
+TsDestroy,FUNC_1
+TsPopCmdLocked,FUNC_2
+TsStorageDelete,FUNC_3
+assert,FUNC_4
+vlc_cancel,FUNC_5
+vlc_join,FUNC_6
+vlc_mutex_lock,FUNC_7
+vlc_mutex_unlock,FUNC_8
+TsStop,FUNC_9
+p_ts,VAR_0
+cmd,VAR_1

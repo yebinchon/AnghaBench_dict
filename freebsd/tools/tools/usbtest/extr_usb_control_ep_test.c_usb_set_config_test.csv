@@ -1,0 +1,16 @@
+find_usb_device,FUNC_0
+libusb20_dev_free,FUNC_1
+libusb20_dev_get_device_desc,FUNC_2
+libusb20_dev_open,FUNC_3
+libusb20_dev_set_config_index,FUNC_4
+printf,FUNC_5
+usb_set_config_test,FUNC_6
+vid,VAR_0
+pid,VAR_1
+duration,VAR_2
+pdev,VAR_3
+ddesc,VAR_4
+x,VAR_5
+error,VAR_6
+failed,VAR_7
+exp,VAR_8

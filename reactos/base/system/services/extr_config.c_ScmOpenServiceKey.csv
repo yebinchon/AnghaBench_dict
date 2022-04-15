@@ -1,0 +1,11 @@
+ERROR_SUCCESS,VAR_0
+HKEY_LOCAL_MACHINE,VAR_1
+KEY_READ,VAR_2
+RegCloseKey,FUNC_0
+RegOpenKeyExW,FUNC_1
+ScmOpenServiceKey,FUNC_2
+lpServiceName,VAR_3
+samDesired,VAR_4
+phKey,VAR_5
+hServicesKey,VAR_6
+dwError,VAR_7

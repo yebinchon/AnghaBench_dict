@@ -1,0 +1,16 @@
+ERRCODE_TS_OPERATION_NOT_SUPPORTED,VAR_0
+ERROR,VAR_1
+NAMEDATALEN,VAR_2
+NUM_TIMESCALEDB_SCHEMAS,VAR_3
+ereport,FUNC_0
+errcode,FUNC_1
+errmsg,FUNC_2
+strncmp,FUNC_3
+timescaledb_schema_names,VAR_4
+ts_chunks_rename_schema_name,FUNC_4
+ts_continuous_agg_rename_schema_name,FUNC_5
+ts_dimensions_rename_schema_name,FUNC_6
+ts_hypertables_rename_schema_name,FUNC_7
+process_rename_schema,FUNC_8
+stmt,VAR_5
+i,VAR_6

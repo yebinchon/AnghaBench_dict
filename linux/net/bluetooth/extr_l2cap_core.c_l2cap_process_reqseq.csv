@@ -1,0 +1,11 @@
+BT_DBG,FUNC_0
+__clear_retrans_timer,FUNC_1
+__next_seq,FUNC_2
+kfree_skb,FUNC_3
+l2cap_ertm_seq_in_queue,FUNC_4
+skb_unlink,FUNC_5
+l2cap_process_reqseq,FUNC_6
+chan,VAR_0
+reqseq,VAR_1
+acked_skb,VAR_2
+ackseq,VAR_3

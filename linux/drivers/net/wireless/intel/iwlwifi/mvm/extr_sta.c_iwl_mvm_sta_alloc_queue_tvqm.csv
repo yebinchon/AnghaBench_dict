@@ -1,0 +1,17 @@
+IWL_DEBUG_TX_QUEUES,FUNC_0
+iwl_mvm_get_wd_timeout,FUNC_1
+iwl_mvm_sta_from_mac80211,FUNC_2
+iwl_mvm_tvqm_enable_txq,FUNC_3
+iwl_mvm_txq_from_tid,FUNC_4
+lockdep_assert_held,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+iwl_mvm_sta_alloc_queue_tvqm,FUNC_8
+mvm,VAR_0
+sta,VAR_1
+ac,VAR_2
+tid,VAR_3
+mvmsta,VAR_4
+mvmtxq,VAR_5
+wdg_timeout,VAR_6
+queue,VAR_7

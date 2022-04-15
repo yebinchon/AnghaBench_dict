@@ -1,0 +1,11 @@
+ATA_DFLAG_D_SENSE,VAR_0
+DRIVER_SENSE,VAR_1
+SAM_STAT_CHECK_CONDITION,VAR_2
+scsi_build_sense_buffer,FUNC_0
+ata_scsi_set_sense,FUNC_1
+dev,VAR_3
+cmd,VAR_4
+sk,VAR_5
+asc,VAR_6
+ascq,VAR_7
+d_sense,VAR_8

@@ -1,0 +1,12 @@
+ST_LOCKED_AUTO,VAR_0
+do_door_lock,FUNC_0
+normalize_buffer,FUNC_1
+scsi_tape_put,FUNC_2
+st_dev_arr_lock,VAR_1
+write_lock,FUNC_3
+write_unlock,FUNC_4
+st_release,FUNC_5
+inode,VAR_2
+filp,VAR_3
+result,VAR_4
+STp,VAR_5

@@ -1,0 +1,13 @@
+TWL_VREG_XLOCK,FUNC_0
+TWL_VREG_XUNLOCK,FUNC_1
+config_intrhook_disestablish,FUNC_2
+device_get_softc,FUNC_3
+twl4030_regulators,VAR_0
+twl6030_regulators,VAR_1
+twl_is_4030,FUNC_4
+twl_is_6025,FUNC_5
+twl_is_6030,FUNC_6
+twl_vreg_add_regulators,FUNC_7
+twl_vreg_init,FUNC_8
+dev,VAR_2
+sc,VAR_3

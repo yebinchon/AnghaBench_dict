@@ -1,0 +1,11 @@
+O2_PLL_DLL_WDT_CONTROL1,VAR_0
+O2_PLL_LOCK_STATUS,VAR_1
+SDHCI_CARD_PRESENT,VAR_2
+SDHCI_PRESENT_STATE,VAR_3
+mmc_priv,FUNC_0
+sdhci_o2_enable_internal_clock,FUNC_1
+sdhci_readl,FUNC_2
+sdhci_readw,FUNC_3
+sdhci_o2_get_cd,FUNC_4
+mmc,VAR_4
+host,VAR_5

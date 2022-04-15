@@ -1,0 +1,10 @@
+Assert,FUNC_0
+CurTransactionContext,VAR_0
+CurrentTransactionState,VAR_1
+MemoryContextDelete,FUNC_1
+MemoryContextResetAndDeleteChildren,FUNC_2
+MemoryContextSwitchTo,FUNC_3
+TopMemoryContext,VAR_2
+TopTransactionContext,VAR_3
+TransactionAbortContext,VAR_4
+AtCleanup_Memory,FUNC_4

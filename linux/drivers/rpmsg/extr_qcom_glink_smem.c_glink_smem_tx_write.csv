@@ -1,0 +1,14 @@
+ALIGN,FUNC_0
+cpu_to_le32,FUNC_1
+glink_smem_tx_write_one,FUNC_2
+le32_to_cpu,FUNC_3
+to_smem_pipe,FUNC_4
+wmb,FUNC_5
+glink_smem_tx_write,FUNC_6
+glink_pipe,VAR_0
+hdr,VAR_1
+hlen,VAR_2
+data,VAR_3
+dlen,VAR_4
+pipe,VAR_5
+head,VAR_6

@@ -1,0 +1,13 @@
+NETPLAY_COMPRESSION_ZLIB,VAR_0
+NETPLAY_QUIRK_NO_SAVESTATES,VAR_1
+NETPLAY_QUIRK_NO_TRANSMISSION,VAR_2
+core_serialize,FUNC_0
+memcpy,FUNC_1
+netplay_delta_frame_ready,FUNC_2
+netplay_force_future,FUNC_3
+netplay_send_savestate,FUNC_4
+netplay_load_savestate,FUNC_5
+netplay,VAR_3
+serial_info,VAR_4
+save,VAR_5
+tmp_serial_info,VAR_6

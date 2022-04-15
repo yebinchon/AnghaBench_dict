@@ -1,0 +1,11 @@
+AM654_SERDES_CTRL_CLKSEL_MASK,VAR_0
+AM654_SERDES_CTRL_CLKSEL_SHIFT,VAR_1
+regmap_read,FUNC_0
+serdes_am654_mux_table,VAR_2
+to_serdes_am654_clk_mux,FUNC_1
+serdes_am654_clk_mux_get_parent,FUNC_2
+hw,VAR_3
+mux,VAR_4
+regmap,VAR_5
+reg,VAR_6
+val,VAR_7

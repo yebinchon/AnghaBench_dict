@@ -1,0 +1,9 @@
+NFSSTA_MOUNT_DRAIN,VAR_0
+PZERO,VAR_1
+assert,FUNC_0
+lck_mtx_lock,FUNC_1
+lck_mtx_unlock,FUNC_2
+msleep,FUNC_3
+nfs_mount_cleanup,FUNC_4
+nfs_mount_drain_and_cleanup,FUNC_5
+nmp,VAR_2

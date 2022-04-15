@@ -1,0 +1,13 @@
+MSR_IDT_MCR0,VAR_0
+MTRR_TYPE_UNCACHABLE,VAR_1
+PAGE_SHIFT,VAR_2
+centaur_mcr,VAR_3
+centaur_mcr_type,VAR_4
+wrmsr,FUNC_0
+centaur_set_mcr,FUNC_1
+reg,VAR_5
+base,VAR_6
+size,VAR_7
+type,VAR_8
+low,VAR_9
+high,VAR_10

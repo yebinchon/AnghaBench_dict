@@ -1,0 +1,17 @@
+BUG,FUNC_0
+GPIO_CTL_HI_REG,VAR_0
+GPIO_CTL_LO_REG,VAR_1
+GPIO_DIR_IN,VAR_2
+bcm63xx_gpio_lock,VAR_3
+bcm_gpio_readl,FUNC_1
+bcm_gpio_writel,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bcm63xx_gpio_set_direction,FUNC_5
+chip,VAR_4
+gpio,VAR_5
+dir,VAR_6
+reg,VAR_7
+mask,VAR_8
+tmp,VAR_9
+flags,VAR_10

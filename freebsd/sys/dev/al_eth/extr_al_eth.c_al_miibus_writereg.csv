@@ -1,0 +1,14 @@
+MDIO_PAUSE_MSEC,VAR_0
+MDIO_TIMEOUT_MSEC,VAR_1
+al_eth_mdio_write,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+pause,FUNC_3
+al_miibus_writereg,FUNC_4
+dev,VAR_2
+phy,VAR_3
+reg,VAR_4
+value,VAR_5
+adapter,VAR_6
+rc,VAR_7
+timeout,VAR_8

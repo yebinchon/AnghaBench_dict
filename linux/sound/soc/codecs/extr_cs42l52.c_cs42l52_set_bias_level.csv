@@ -1,0 +1,13 @@
+CS42L52_PWRCTL1,VAR_0
+CS42L52_PWRCTL1_PDN_ALL,VAR_1
+CS42L52_PWRCTL1_PDN_CODEC,VAR_2
+regcache_cache_only,FUNC_0
+regcache_sync,FUNC_1
+snd_soc_component_get_bias_level,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+snd_soc_component_update_bits,FUNC_4
+snd_soc_component_write,FUNC_5
+cs42l52_set_bias_level,FUNC_6
+component,VAR_3
+level,VAR_4
+cs42l52,VAR_5

@@ -1,0 +1,17 @@
+K_BCM1480_INT_MBOX_0_0,VAR_0
+SMP_CALL_FUNCTION,VAR_1
+SMP_RESCHEDULE_YOURSELF,VAR_2
+__raw_readq,FUNC_0
+__raw_writeq,FUNC_1
+generic_smp_call_function_interrupt,FUNC_2
+irq_enter,FUNC_3
+irq_exit,FUNC_4
+kstat_incr_irq_this_cpu,FUNC_5
+mailbox_0_clear_regs,VAR_3
+mailbox_0_regs,VAR_4
+scheduler_ipi,FUNC_6
+smp_processor_id,FUNC_7
+bcm1480_mailbox_interrupt,FUNC_8
+cpu,VAR_5
+irq,VAR_6
+action,VAR_7

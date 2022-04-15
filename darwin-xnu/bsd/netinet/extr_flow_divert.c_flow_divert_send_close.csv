@@ -1,0 +1,17 @@
+FDLOG,FUNC_0
+FLOW_DIVERT_PKT_CLOSE,VAR_0
+FLOW_DIVERT_TLV_ERROR_CODE,VAR_1
+FLOW_DIVERT_TLV_HOW,VAR_2
+LOG_ERR,VAR_3
+TRUE,VAR_4
+flow_divert_packet_append_tlv,FUNC_1
+flow_divert_packet_init,FUNC_2
+flow_divert_send_packet,FUNC_3
+htonl,FUNC_4
+mbuf_free,FUNC_5
+flow_divert_send_close,FUNC_6
+fd_cb,VAR_5
+how,VAR_6
+error,VAR_7
+packet,VAR_8
+zero,VAR_9

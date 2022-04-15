@@ -1,0 +1,9 @@
+HCI_BLE_READ_LOCAL_SPT_FEAT,VAR_0
+STREAM_TO_ARRAY,FUNC_0
+assert,FUNC_1
+osi_free,FUNC_2
+read_command_complete_header,FUNC_3
+parse_ble_read_local_supported_features_response,FUNC_4
+response,VAR_1
+supported_features,VAR_2
+stream,VAR_3

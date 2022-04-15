@@ -1,0 +1,17 @@
+DIGITAL_CMD_PSL_RES,VAR_0
+DIGITAL_NFC_DEP_FRAME_DIR_IN,VAR_1
+ENOMEM,VAR_2
+digital_skb_alloc,FUNC_0
+digital_skb_push_dep_sod,FUNC_1
+digital_tg_send_cmd,FUNC_2
+digital_tg_send_psl_res_complete,VAR_3
+kfree_skb,FUNC_3
+skb_put,FUNC_4
+stub1,FUNC_5
+digital_tg_send_psl_res,FUNC_6
+ddev,VAR_4
+did,VAR_5
+rf_tech,VAR_6
+psl_res,VAR_7
+skb,VAR_8
+rc,VAR_9

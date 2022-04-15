@@ -1,0 +1,9 @@
+SQLITE_OK,VAR_0
+VDBE_MAGIC_HALT,VAR_1
+VDBE_MAGIC_RUN,VAR_2
+assert,FUNC_0
+sqlite3VdbeDelete,FUNC_1
+sqlite3VdbeReset,FUNC_2
+sqlite3VdbeFinalize,FUNC_3
+p,VAR_3
+rc,VAR_4

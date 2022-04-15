@@ -1,0 +1,15 @@
+K_ENTER,VAR_0
+K_KP_ENTER,VAR_1
+K_MOUSE1,VAR_2
+K_MOUSE2,VAR_3
+numSkillLevels,VAR_4
+qfalse,VAR_5
+qtrue,VAR_6
+trap_Cvar_Set,FUNC_0
+trap_Cvar_VariableValue,FUNC_1
+va,FUNC_2
+UI_Skill_HandleKey,FUNC_3
+flags,VAR_7
+special,VAR_8
+key,VAR_9
+i,VAR_10

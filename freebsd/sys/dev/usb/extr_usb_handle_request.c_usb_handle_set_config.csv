@@ -1,0 +1,17 @@
+DPRINTF,FUNC_0
+USB_ERR_STALLED,VAR_0
+USB_IFACE_INDEX_ANY,VAR_1
+USB_UNCONFIG_INDEX,VAR_2
+USB_UNCONFIG_NO,VAR_3
+USB_XFER_LOCK,FUNC_1
+USB_XFER_UNLOCK,FUNC_2
+usb_probe_and_attach,FUNC_3
+usbd_enum_lock,FUNC_4
+usbd_enum_unlock,FUNC_5
+usbd_set_config_index,FUNC_6
+usb_handle_set_config,FUNC_7
+xfer,VAR_4
+conf_no,VAR_5
+udev,VAR_6
+err,VAR_7
+do_unlock,VAR_8

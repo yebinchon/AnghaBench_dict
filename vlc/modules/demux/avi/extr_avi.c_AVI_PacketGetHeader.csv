@@ -1,0 +1,14 @@
+AVIFOURCC_LIST,VAR_0
+AVIFOURCC_RIFF,VAR_1
+AVI_ParseStreamHeader,FUNC_0
+GetDWLE,FUNC_1
+VLC_EGENERIC,VAR_2
+VLC_FOURCC,FUNC_2
+VLC_SUCCESS,VAR_3
+memcpy,FUNC_3
+vlc_stream_Peek,FUNC_4
+vlc_stream_Tell,FUNC_5
+AVI_PacketGetHeader,FUNC_6
+p_demux,VAR_4
+p_pk,VAR_5
+p_peek,VAR_6

@@ -1,0 +1,11 @@
+THFile_readStringRaw,FUNC_0
+THFree,FUNC_1
+luaL_checkstring,FUNC_2
+luaT_checkudata,FUNC_3
+lua_pushlstring,FUNC_4
+torch_File_readString,FUNC_5
+L,VAR_0
+self,VAR_1
+format,VAR_2
+str,VAR_3
+size,VAR_4

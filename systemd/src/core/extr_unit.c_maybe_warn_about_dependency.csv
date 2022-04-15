@@ -1,0 +1,17 @@
+IN_SET,FUNC_0
+UNIT_AFTER,VAR_0
+UNIT_BEFORE,VAR_1
+UNIT_CONFLICTED_BY,VAR_2
+UNIT_CONFLICTS,VAR_3
+UNIT_ON_FAILURE,VAR_4
+UNIT_TRIGGERED_BY,VAR_5
+UNIT_TRIGGERS,VAR_6
+assert,FUNC_1
+log_unit_warning,FUNC_2
+streq_ptr,FUNC_3
+strna,FUNC_4
+unit_dependency_to_string,FUNC_5
+maybe_warn_about_dependency,FUNC_6
+u,VAR_7
+other,VAR_8
+dependency,VAR_9

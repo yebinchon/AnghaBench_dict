@@ -1,0 +1,9 @@
+SI544_REG_ADPLL_DELTA_M0,VAR_0
+SI544_REG_FBDIV0,VAR_1
+SI544_REG_HS_DIV,VAR_2
+regmap_bulk_read,FUNC_0
+si544_get_muldiv,FUNC_1
+data,VAR_3
+settings,VAR_4
+err,VAR_5
+reg,VAR_6

@@ -1,0 +1,17 @@
+BR_STATE_DISABLED,VAR_0
+RTM_NEWLINK,VAR_1
+br_become_designated_port,FUNC_0
+br_become_root_bridge,FUNC_1
+br_configuration_update,FUNC_2
+br_fdb_delete_by_port,FUNC_3
+br_ifinfo_notify,FUNC_4
+br_is_root_bridge,FUNC_5
+br_multicast_disable_port,FUNC_6
+br_port_state_selection,FUNC_7
+br_set_state,FUNC_8
+del_timer,FUNC_9
+rcu_access_pointer,FUNC_10
+br_stp_disable_port,FUNC_11
+p,VAR_2
+br,VAR_3
+wasroot,VAR_4

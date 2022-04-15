@@ -1,0 +1,17 @@
+PAD_ENABLEDMASK,FUNC_0
+PAD_MOTOR_STOP_HARD,VAR_0
+SI_GC_NOMOTOR,VAR_1
+SI_GetType,FUNC_1
+SI_SetCommand,FUNC_2
+SI_TransferCommands,FUNC_3
+_CPU_ISR_Disable,FUNC_4
+_CPU_ISR_Restore,FUNC_5
+__pad_analogmode,VAR_2
+__pad_enabledbits,VAR_3
+__pad_spec,VAR_4
+PAD_ControlMotor,FUNC_6
+chan,VAR_5
+cmd,VAR_6
+level,VAR_7
+mask,VAR_8
+type,VAR_9

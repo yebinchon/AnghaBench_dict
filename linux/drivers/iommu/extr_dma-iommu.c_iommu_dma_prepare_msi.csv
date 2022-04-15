@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+iommu_dma_get_msi_page,FUNC_0
+iommu_get_domain_for_dev,FUNC_1
+msi_desc_set_iommu_cookie,FUNC_2
+msi_desc_to_dev,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+iommu_dma_prepare_msi,FUNC_6
+desc,VAR_1
+msi_addr,VAR_2
+dev,VAR_3
+domain,VAR_4
+cookie,VAR_5
+msi_page,VAR_6
+flags,VAR_7

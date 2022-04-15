@@ -1,0 +1,15 @@
+CACHE_OC_ADDRESS_ARRAY,VAR_0
+CACHE_PHYSADDR_MASK,VAR_1
+L1_CACHE_BYTES,VAR_2
+back_to_cached,FUNC_0
+ctrl_outl,FUNC_1
+jump_to_uncached,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+sh2a__flush_purge_region,FUNC_5
+start,VAR_3
+size,VAR_4
+v,VAR_5
+begin,VAR_6
+end,VAR_7
+flags,VAR_8

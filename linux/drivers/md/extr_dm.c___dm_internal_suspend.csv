@@ -1,0 +1,13 @@
+DMF_SUSPENDED_INTERNALLY,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__dm_suspend,FUNC_0
+dm_suspended_md,FUNC_1
+dm_table_postsuspend_targets,FUNC_2
+lockdep_assert_held,FUNC_3
+lockdep_is_held,FUNC_4
+rcu_dereference_protected,FUNC_5
+set_bit,FUNC_6
+__dm_internal_suspend,FUNC_7
+md,VAR_2
+suspend_flags,VAR_3
+map,VAR_4

@@ -1,0 +1,11 @@
+HDMI_HPD_INT_STATUS_CABLE_DETECTED,VAR_0
+REG_HDMI_HPD_INT_STATUS,VAR_1
+connector_status_connected,VAR_2
+connector_status_disconnected,VAR_3
+enable_hpd_clocks,FUNC_0
+hdmi_read,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+detect_reg,FUNC_4
+hdmi,VAR_4
+hpd_int_status,VAR_5

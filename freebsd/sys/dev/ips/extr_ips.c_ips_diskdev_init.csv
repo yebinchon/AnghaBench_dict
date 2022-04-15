@@ -1,0 +1,12 @@
+IPS_LD_DEGRADED,VAR_0
+IPS_LD_FREE,VAR_1
+IPS_LD_OKAY,VAR_2
+IPS_MAX_NUM_DRIVES,VAR_3
+bus_generic_attach,FUNC_0
+device_add_child,FUNC_1
+device_printf,FUNC_2
+device_set_ivars,FUNC_3
+ips_diskdev_statename,FUNC_4
+ips_diskdev_init,FUNC_5
+sc,VAR_4
+i,VAR_5

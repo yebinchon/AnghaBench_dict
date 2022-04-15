@@ -1,0 +1,11 @@
+FC_PORT_ROLE_UNKNOWN,VAR_0
+FC_WELLKNOWN_PORTID_MASK,VAR_1
+FC_WELLKNOWN_ROLE_MASK,VAR_2
+get_fc_port_roles_names,FUNC_0
+snprintf,FUNC_1
+transport_class_to_rport,FUNC_2
+show_fc_rport_roles,FUNC_3
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+rport,VAR_6

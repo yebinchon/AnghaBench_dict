@@ -1,0 +1,15 @@
+AD7768_CONTINUOUS,VAR_0
+AD7768_ONE_SHOT,VAR_1
+AD7768_REG_ADC_DATA,VAR_2
+ETIMEDOUT,VAR_3
+ad7768_set_mode,FUNC_0
+ad7768_spi_reg_read,FUNC_1
+iio_priv,FUNC_2
+msecs_to_jiffies,FUNC_3
+reinit_completion,FUNC_4
+wait_for_completion_timeout,FUNC_5
+ad7768_scan_direct,FUNC_6
+indio_dev,VAR_4
+st,VAR_5
+readval,VAR_6
+ret,VAR_7

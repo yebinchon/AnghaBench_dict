@@ -1,0 +1,15 @@
+PERF_PMU_TXN_READ,VAR_0
+WARN_ON_ONCE,FUNC_0
+__this_cpu_read,FUNC_1
+__this_cpu_write,FUNC_2
+get_cpu_var,FUNC_3
+hv_24x7_reqb,VAR_1
+hv_24x7_resb,VAR_2
+hv_24x7_txn_flags,VAR_3
+init_24x7_request,FUNC_4
+put_cpu_var,FUNC_5
+h_24x7_event_start_txn,FUNC_6
+pmu,VAR_4
+flags,VAR_5
+request_buffer,VAR_6
+result_buffer,VAR_7

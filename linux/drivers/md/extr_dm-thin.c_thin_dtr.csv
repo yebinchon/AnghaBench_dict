@@ -1,0 +1,17 @@
+__pool_dec,FUNC_0
+dm_pool_close_thin_device,FUNC_1
+dm_put_device,FUNC_2
+dm_thin_pool_table,VAR_0
+kfree,FUNC_3
+list_del_rcu,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+synchronize_rcu,FUNC_9
+thin_put,FUNC_10
+wait_for_completion,FUNC_11
+thin_dtr,FUNC_12
+ti,VAR_1
+tc,VAR_2
+flags,VAR_3

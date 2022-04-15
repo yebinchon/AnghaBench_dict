@@ -1,0 +1,11 @@
+SNDRV_DEVICE_TYPE_PCM_CAPTURE,VAR_0
+SNDRV_PCM_STREAM_CAPTURE,VAR_1
+iminor,FUNC_0
+nonseekable_open,FUNC_1
+snd_lookup_minor_data,FUNC_2
+snd_pcm_open,FUNC_3
+snd_pcm_capture_open,FUNC_4
+inode,VAR_2
+file,VAR_3
+pcm,VAR_4
+err,VAR_5

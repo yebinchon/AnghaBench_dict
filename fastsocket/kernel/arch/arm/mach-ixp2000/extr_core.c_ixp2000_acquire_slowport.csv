@@ -1,0 +1,13 @@
+IXP2000_SLOWPORT_ADC,VAR_0
+IXP2000_SLOWPORT_CCR,VAR_1
+IXP2000_SLOWPORT_PCR,VAR_2
+IXP2000_SLOWPORT_RTC2,VAR_3
+IXP2000_SLOWPORT_WTC2,VAR_4
+ixp2000_reg_wrb,FUNC_0
+ixp2000_reg_write,FUNC_1
+ixp2000_slowport_irq_flags,VAR_5
+ixp2000_slowport_lock,VAR_6
+spin_lock_irqsave,FUNC_2
+ixp2000_acquire_slowport,FUNC_3
+new_cfg,VAR_7
+old_cfg,VAR_8

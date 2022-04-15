@@ -1,0 +1,12 @@
+HSBEGIN,VAR_0
+HSEND,VAR_1
+HSLOWCTL,VAR_2
+HSYNC_END,VAR_3
+HSYNC_START,VAR_4
+i2c_smbus_write_byte_data,FUNC_0
+to_tw9910,FUNC_1
+tw9910_mask_set,FUNC_2
+tw9910_set_hsync,FUNC_3
+client,VAR_5
+priv,VAR_6
+ret,VAR_7

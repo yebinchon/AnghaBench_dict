@@ -1,0 +1,14 @@
+SYSTEM_RUNNING,VAR_0
+cpu_relax,FUNC_0
+dump_stack,FUNC_1
+local_fiq_disable,FUNC_2
+local_irq_disable,FUNC_3
+pr_crit,FUNC_4
+raw_spin_lock,FUNC_5
+raw_spin_unlock,FUNC_6
+set_cpu_online,FUNC_7
+stop_lock,VAR_1
+system_state,VAR_2
+wfe,FUNC_8
+ipi_cpu_stop,FUNC_9
+cpu,VAR_3

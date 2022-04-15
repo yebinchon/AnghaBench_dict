@@ -1,0 +1,15 @@
+DP_NOTICE,FUNC_0
+DP_VERBOSE,FUNC_1
+QED_ETH_VF_NUM_VLAN_FILTERS,VAR_0
+QED_FILTER_ADD,VAR_1
+QED_FILTER_VLAN,VAR_2
+QED_MSG_IOV,VAR_3
+QED_SPQ_MODE_CB,VAR_4
+memset,FUNC_2
+qed_sp_eth_filter_ucast,FUNC_3
+qed_iov_reconfigure_unicast_vlan,FUNC_4
+p_hwfn,VAR_5
+p_vf,VAR_6
+filter,VAR_7
+rc,VAR_8
+i,VAR_9

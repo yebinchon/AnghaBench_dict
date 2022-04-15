@@ -1,0 +1,13 @@
+HSI2C_MASTER_ST_LOSE,VAR_0
+HSI2C_MASTER_ST_MASK,VAR_1
+HSI2C_TRANS_STATUS,VAR_2
+I2C_TYPE_EXYNOS7,VAR_3
+exynos5_i2c_bus_recover,FUNC_0
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_1
+readl,FUNC_2
+time_is_before_jiffies,FUNC_3
+exynos5_i2c_bus_check,FUNC_4
+i2c,VAR_5
+timeout,VAR_6
+st,VAR_7

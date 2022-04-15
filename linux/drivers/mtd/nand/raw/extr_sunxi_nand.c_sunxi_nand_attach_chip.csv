@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+NAND_BBT_NO_OOB,VAR_1
+NAND_BBT_USE_FLASH,VAR_2
+NAND_NEED_SCRAMBLING,VAR_3
+NAND_NO_SUBPAGE_WRITE,VAR_4
+NAND_SUBPAGE_READ,VAR_5
+nand_get_flash_node,FUNC_0
+sunxi_nand_hw_ecc_ctrl_init,FUNC_1
+sunxi_nand_attach_chip,FUNC_2
+nand,VAR_6
+ecc,VAR_7
+np,VAR_8
+ret,VAR_9

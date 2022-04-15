@@ -1,0 +1,13 @@
+MBEDTLS_ERR_X509_ALLOC_FAILED,VAR_0
+MBEDTLS_ERR_X509_BAD_INPUT_DATA,VAR_1
+mbedtls_calloc,FUNC_0
+mbedtls_free,FUNC_1
+mbedtls_x509_crt_init,FUNC_2
+x509_crt_parse_der_core,FUNC_3
+mbedtls_x509_crt_parse_der,FUNC_4
+chain,VAR_2
+buf,VAR_3
+buflen,VAR_4
+ret,VAR_5
+crt,VAR_6
+prev,VAR_7

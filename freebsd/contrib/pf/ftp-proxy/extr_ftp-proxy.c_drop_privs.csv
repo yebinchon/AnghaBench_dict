@@ -1,0 +1,11 @@
+CHROOT_DIR,VAR_0
+NOPRIV_USER,VAR_1
+chdir,FUNC_0
+chroot,FUNC_1
+getpwnam,FUNC_2
+setgroups,FUNC_3
+setresgid,FUNC_4
+setresuid,FUNC_5
+tzset,FUNC_6
+drop_privs,FUNC_7
+pw,VAR_2

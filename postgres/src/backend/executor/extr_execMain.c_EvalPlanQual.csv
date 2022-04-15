@@ -1,0 +1,15 @@
+Assert,FUNC_0
+EvalPlanQualBegin,FUNC_1
+EvalPlanQualNext,FUNC_2
+EvalPlanQualSlot,FUNC_3
+ExecClearTuple,FUNC_4
+ExecCopySlot,FUNC_5
+ExecMaterializeSlot,FUNC_6
+TupIsNull,FUNC_7
+EvalPlanQual,FUNC_8
+epqstate,VAR_0
+relation,VAR_1
+rti,VAR_2
+inputslot,VAR_3
+slot,VAR_4
+testslot,VAR_5

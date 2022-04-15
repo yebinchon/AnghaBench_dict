@@ -1,0 +1,13 @@
+PTHREAD_CANCEL_ASYNCHRONOUS,VAR_0
+PTHREAD_CANCEL_DEFERRED,VAR_1
+PTHREAD_CANCEL_DISABLE,VAR_2
+PTHREAD_CANCEL_ENABLE,VAR_3
+assert,FUNC_0
+pthread_setcancelstate,FUNC_1
+pthread_setcanceltype,FUNC_2
+threadbag,VAR_4
+mythread,FUNC_3
+arg,VAR_5
+bag,VAR_6
+oldstate,VAR_7
+oldtype,VAR_8

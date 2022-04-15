@@ -1,0 +1,15 @@
+CPU_DTRACE_FAULT,VAR_0
+cpu_core,VAR_1
+curcpu,VAR_2
+curproc,VAR_3
+curthread,VAR_4
+dtrace_next_uframe,FUNC_0
+dtrace_getupcstack,FUNC_1
+pcstack,VAR_5
+pcstack_limit,VAR_6
+p,VAR_7
+tf,VAR_8
+sp,VAR_9
+ra,VAR_10
+pc,VAR_11
+flags,VAR_12

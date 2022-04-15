@@ -1,0 +1,12 @@
+NVME_OPC_ABORT,VAR_0
+htole32,FUNC_0
+nvme_allocate_request_null,FUNC_1
+nvme_ctrlr_submit_admin_request,FUNC_2
+nvme_ctrlr_cmd_abort,FUNC_3
+ctrlr,VAR_1
+cid,VAR_2
+sqid,VAR_3
+cb_fn,VAR_4
+cb_arg,VAR_5
+req,VAR_6
+cmd,VAR_7

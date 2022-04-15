@@ -1,0 +1,16 @@
+DASD_CQR_FILLED,VAR_0
+DASD_STOPPED_PENDING,VAR_1
+DBF_DEV_EVENT,FUNC_0
+DBF_INFO,VAR_2
+HZ,VAR_3
+dasd_block_set_timer,FUNC_1
+dasd_device_set_stop_bits,FUNC_2
+dasd_device_set_timer,FUNC_3
+get_ccwdev_lock,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+dasd_3990_erp_block_queue,FUNC_7
+erp,VAR_4
+expires,VAR_5
+device,VAR_6
+flags,VAR_7

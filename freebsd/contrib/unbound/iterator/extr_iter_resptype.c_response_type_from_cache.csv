@@ -1,0 +1,16 @@
+FLAGS_GET_RCODE,FUNC_0
+LDNS_RCODE_NXDOMAIN,VAR_0
+LDNS_RR_TYPE_ANY,VAR_1
+LDNS_RR_TYPE_CNAME,VAR_2
+RESPONSE_TYPE_ANSWER,VAR_3
+RESPONSE_TYPE_CNAME,VAR_4
+get_cname_target,FUNC_1
+ntohs,FUNC_2
+query_dname_compare,FUNC_3
+response_type_from_cache,FUNC_4
+msg,VAR_5
+request,VAR_6
+mname,VAR_7
+mname_len,VAR_8
+i,VAR_9
+s,VAR_10

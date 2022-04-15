@@ -1,0 +1,17 @@
+ATH10K_DBG_SDIO,VAR_0
+FIELD_GET,FUNC_0
+MBOX_HOST_INT_STATUS_COUNTER_MASK,VAR_1
+MBOX_HOST_INT_STATUS_CPU_MASK,VAR_2
+MBOX_HOST_INT_STATUS_ERROR_MASK,VAR_3
+ath10k_dbg,FUNC_1
+ath10k_sdio_mbox_proc_counter_intr,FUNC_2
+ath10k_sdio_mbox_proc_cpu_intr,FUNC_3
+ath10k_sdio_mbox_proc_err_intr,FUNC_4
+ath10k_sdio_mbox_read_int_status,FUNC_5
+ath10k_sdio_mbox_rxmsg_pending_handler,FUNC_6
+ath10k_sdio_mbox_proc_pending_irqs,FUNC_7
+ar,VAR_4
+done,VAR_5
+host_int_status,VAR_6
+lookahead,VAR_7
+ret,VAR_8

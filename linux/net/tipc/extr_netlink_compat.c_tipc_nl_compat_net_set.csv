@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+TIPC_CMD_SET_NETID,VAR_1
+TIPC_CMD_SET_NODE_ADDR,VAR_2
+TIPC_NLA_NET,VAR_3
+TIPC_NLA_NET_ADDR,VAR_4
+TIPC_NLA_NET_ID,VAR_5
+TLV_DATA,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start_noflag,FUNC_2
+nla_put_u32,FUNC_3
+ntohl,FUNC_4
+tipc_nl_compat_net_set,FUNC_5
+cmd,VAR_6
+skb,VAR_7
+msg,VAR_8
+val,VAR_9
+net,VAR_10

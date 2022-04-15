@@ -1,0 +1,14 @@
+MAX_TIMEOUT,VAR_0
+MAX_TIMEOUT_ERR_STR,VAR_1
+TIMER_IDLE_FLAG,VAR_2
+TIMER_MODE_AUTO,VAR_3
+TIMER_MODE_OFF,VAR_4
+luaL_argcheck,FUNC_0
+luaL_checkinteger,FUNC_1
+os_timer_arm,FUNC_2
+os_timer_disarm,FUNC_3
+tmr_get,FUNC_4
+tmr_interval,FUNC_5
+L,VAR_5
+tmr,VAR_6
+interval,VAR_7

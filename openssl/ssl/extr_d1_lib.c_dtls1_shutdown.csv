@@ -1,0 +1,11 @@
+BIO_CTRL_DGRAM_SCTP_SAVE_SHUTDOWN,VAR_0
+BIO_ctrl,FUNC_0
+BIO_dgram_is_sctp,FUNC_1
+BIO_dgram_sctp_wait_for_dry,FUNC_2
+SSL_SENT_SHUTDOWN,VAR_1
+SSL_get_wbio,FUNC_3
+ssl3_shutdown,FUNC_4
+dtls1_shutdown,FUNC_5
+s,VAR_2
+ret,VAR_3
+wbio,VAR_4

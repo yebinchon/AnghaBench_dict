@@ -1,0 +1,15 @@
+BTORDER_PROC,VAR_0
+BTSORTSUPPORT_PROC,VAR_1
+ERROR,VAR_2
+OidFunctionCall1,FUNC_0
+OidIsValid,FUNC_1
+PointerGetDatum,FUNC_2
+PrepareSortSupportComparisonShim,FUNC_3
+elog,FUNC_4
+get_opfamily_proc,FUNC_5
+FinishSortSupportFunction,FUNC_6
+opfamily,VAR_3
+opcintype,VAR_4
+ssup,VAR_5
+sortSupportFunction,VAR_6
+sortFunction,VAR_7

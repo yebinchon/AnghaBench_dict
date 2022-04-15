@@ -1,0 +1,13 @@
+IRQ_HANDLED,VAR_0
+ROCKCHIP_SPI_IMR,VAR_1
+rockchip_spi_pio_reader,FUNC_0
+rockchip_spi_pio_writer,FUNC_1
+spi_enable_chip,FUNC_2
+spi_finalize_current_transfer,FUNC_3
+spi_master_get_devdata,FUNC_4
+writel_relaxed,FUNC_5
+rockchip_spi_isr,FUNC_6
+irq,VAR_2
+dev_id,VAR_3
+master,VAR_4
+rs,VAR_5

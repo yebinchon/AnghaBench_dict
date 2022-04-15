@@ -1,0 +1,11 @@
+ENABLE,VAR_0
+SCIC_SDS_PHY_STARTING_SUBSTATE_FINAL,VAR_1
+SCI_SUCCESS,VAR_2
+SCU_ENSPINUP_GEN_BIT,FUNC_0
+SCU_SAS_ENSPINUP_READ,FUNC_1
+SCU_SAS_ENSPINUP_WRITE,FUNC_2
+sci_base_state_machine_change_state,FUNC_3
+scic_sds_phy_get_starting_substate_machine,FUNC_4
+scic_sds_phy_starting_substate_await_sas_power_consume_power_handler,FUNC_5
+this_phy,VAR_3
+enable_spinup,VAR_4

@@ -1,0 +1,17 @@
+ZFS_IOC_CREATE,VAR_0
+ZPOOL_HIDDEN_ARGS,VAR_1
+fnvlist_add_int32,FUNC_0
+fnvlist_add_nvlist,FUNC_1
+fnvlist_add_uint8_array,FUNC_2
+fnvlist_alloc,FUNC_3
+lzc_ioctl,FUNC_4
+nvlist_free,FUNC_5
+lzc_create,FUNC_6
+fsname,VAR_2
+type,VAR_3
+props,VAR_4
+wkeydata,VAR_5
+wkeylen,VAR_6
+error,VAR_7
+hidden_args,VAR_8
+args,VAR_9

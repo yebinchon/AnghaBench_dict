@@ -1,0 +1,13 @@
+SCIC_LOG_OBJECT_STP_IO_REQUEST,VAR_0
+SCIC_LOG_TRACE,FUNC_0
+TRUE,VAR_1
+sci_base_object_get_logger,FUNC_1
+scic_cb_io_request_do_copy_rx_frames,FUNC_2
+scic_cb_io_request_get_data_direction,FUNC_3
+scic_cb_io_request_get_transfer_length,FUNC_4
+scic_cb_request_get_sat_protocol,FUNC_5
+scic_sds_io_request_construct_sata,FUNC_6
+scic_io_request_construct_basic_sata,FUNC_7
+scic_io_request,VAR_2
+status,VAR_3
+request,VAR_4

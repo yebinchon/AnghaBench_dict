@@ -1,0 +1,7 @@
+MISC_HOST_CTRL_MASK_PCI_INT,VAR_0
+TG3PCI_MISC_HOST_CTRL,VAR_1
+tw32,FUNC_0
+tw32_mailbox_f,FUNC_1
+tg3_disable_ints,FUNC_2
+tp,VAR_2
+i,VAR_3

@@ -1,0 +1,6 @@
+IPFW_RULE_CNTR_SIZE,VAR_0
+UMA_ALIGN_PTR,VAR_1
+UMA_ZONE_PCPU,VAR_2
+V_ipfw_cntr_zone,VAR_3
+uma_zcreate,FUNC_0
+ipfw_init_counters,FUNC_1

@@ -1,0 +1,14 @@
+MSG_DEBUG,VAR_0
+OID_802_11_BSSID_LIST_SCAN,VAR_1
+eloop_cancel_timeout,FUNC_0
+eloop_register_timeout,FUNC_1
+ndis_set_oid,FUNC_2
+wpa_driver_ndis_disconnect,FUNC_3
+wpa_driver_ndis_scan_native80211,FUNC_4
+wpa_driver_ndis_scan_timeout,VAR_2
+wpa_printf,FUNC_5
+wpa_driver_ndis_scan,FUNC_6
+priv,VAR_3
+params,VAR_4
+drv,VAR_5
+res,VAR_6

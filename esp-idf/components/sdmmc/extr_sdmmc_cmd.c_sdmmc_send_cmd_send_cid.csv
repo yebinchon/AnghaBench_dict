@@ -1,0 +1,15 @@
+ESP_OK,VAR_0
+MMC_SEND_CID,VAR_1
+SCF_CMD_ADTC,VAR_2
+SCF_CMD_READ,VAR_3
+assert,FUNC_0
+host_is_spi,FUNC_1
+sdmmc_decode_cid,FUNC_2
+sdmmc_flip_byte_order,FUNC_3
+sdmmc_send_cmd,FUNC_4
+sdmmc_send_cmd_send_cid,FUNC_5
+card,VAR_4
+out_cid,VAR_5
+buf,VAR_6
+cmd,VAR_7
+err,VAR_8

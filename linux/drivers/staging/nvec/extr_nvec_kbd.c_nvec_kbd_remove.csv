@@ -1,0 +1,12 @@
+CNFG_WAKE_KEY_REPORTING,VAR_0
+DISABLE_KBD,VAR_1
+NVEC_KBD,VAR_2
+dev_get_drvdata,FUNC_0
+keys_dev,VAR_3
+nvec_unregister_notifier,FUNC_1
+nvec_write_async,FUNC_2
+nvec_kbd_remove,FUNC_3
+pdev,VAR_4
+nvec,VAR_5
+disable_kbd,VAR_6
+uncnfg_wake_key_reporting,VAR_7

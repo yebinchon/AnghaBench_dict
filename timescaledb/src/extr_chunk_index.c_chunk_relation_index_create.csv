@@ -1,0 +1,16 @@
+BuildIndexInfo,FUNC_0
+RelationGetDescr,FUNC_1
+adjust_expr_attnos,FUNC_2
+chunk_adjust_colref_attnos,FUNC_3
+chunk_index_need_attnos_adjustment,FUNC_4
+list_length,FUNC_5
+ts_chunk_index_create_post_adjustment,FUNC_6
+ts_hypertable_relid_to_id,FUNC_7
+chunk_relation_index_create,FUNC_8
+htrel,VAR_0
+template_indexrel,VAR_1
+chunkrel,VAR_2
+isconstraint,VAR_3
+index_tablespace,VAR_4
+indexinfo,VAR_5
+hypertable_id,VAR_6

@@ -1,0 +1,14 @@
+CAM_REQ_CMP,VAR_0
+MPRSAS_TARGET_INRESET,VAR_1
+cam_sim_path,FUNC_0
+xpt_alloc_ccb_nowait,FUNC_1
+xpt_create_path,FUNC_2
+xpt_free_ccb,FUNC_3
+xpt_periph,VAR_2
+mprsas_prepare_for_tm,FUNC_4
+sc,VAR_3
+tm,VAR_4
+target,VAR_5
+lun_id,VAR_6
+ccb,VAR_7
+path_id,VAR_8

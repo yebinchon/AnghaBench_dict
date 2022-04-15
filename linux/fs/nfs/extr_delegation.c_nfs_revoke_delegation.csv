@@ -1,0 +1,15 @@
+NFS_I,FUNC_0
+NFS_SERVER,FUNC_1
+nfs4_stateid_copy,FUNC_2
+nfs4_stateid_match,FUNC_3
+nfs_inode_find_state_and_recover,FUNC_4
+nfs_mark_delegation_revoked,FUNC_5
+rcu_dereference,FUNC_6
+rcu_read_lock,FUNC_7
+rcu_read_unlock,FUNC_8
+nfs_revoke_delegation,FUNC_9
+inode,VAR_0
+stateid,VAR_1
+delegation,VAR_2
+tmp,VAR_3
+ret,VAR_4

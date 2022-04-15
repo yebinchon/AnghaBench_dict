@@ -1,0 +1,17 @@
+MTK_JPEG_INIT,VAR_0
+MTK_JPEG_RUNNING,VAR_1
+MTK_JPEG_SOURCE_CHANGE,VAR_2
+V4L2_TYPE_IS_OUTPUT,FUNC_0
+VB2_BUF_STATE_ERROR,VAR_3
+mtk_jpeg_buf_remove,FUNC_1
+mtk_jpeg_set_queue_data,FUNC_2
+mtk_jpeg_vb2_to_srcbuf,FUNC_3
+pm_runtime_put_sync,FUNC_4
+v4l2_m2m_buf_done,FUNC_5
+v4l2_m2m_next_src_buf,FUNC_6
+vb2_get_drv_priv,FUNC_7
+mtk_jpeg_stop_streaming,FUNC_8
+q,VAR_4
+ctx,VAR_5
+vb,VAR_6
+src_buf,VAR_7

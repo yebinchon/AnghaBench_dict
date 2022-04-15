@@ -1,0 +1,10 @@
+EINVAL,VAR_0
+PL353_SMC_ECC_MEMCFG_OFFS,VAR_1
+PL353_SMC_ECC_MEMCFG_PGSIZE_MASK,VAR_2
+pl353_smc_base,VAR_3
+readl,FUNC_0
+writel,FUNC_1
+pl353_smc_set_ecc_pg_size,FUNC_2
+pg_sz,VAR_4
+reg,VAR_5
+sz,VAR_6

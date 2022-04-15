@@ -1,0 +1,15 @@
+PQ_LAUNDRY,VAR_0
+VM_OBJECT_WLOCK,FUNC_0
+VM_OBJECT_WUNLOCK,FUNC_1
+cpu_thread_swapout,FUNC_2
+panic,FUNC_3
+pmap_qremove,FUNC_4
+vm_page_dirty,FUNC_5
+vm_page_lookup,FUNC_6
+vm_page_unwire,FUNC_7
+vm_thread_swapout,FUNC_8
+td,VAR_1
+ksobj,VAR_2
+m,VAR_3
+i,VAR_4
+pages,VAR_5

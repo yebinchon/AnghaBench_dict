@@ -1,0 +1,17 @@
+DPU_DEBUG,FUNC_0
+DPU_FORMAT_IS_LINEAR,FUNC_1
+DPU_QOS_LUT_USAGE_LINEAR,VAR_0
+DPU_QOS_LUT_USAGE_MACROTILE,VAR_1
+DPU_QOS_LUT_USAGE_NRT,VAR_2
+SSPP_VIG0,VAR_3
+dpu_get_dpu_format_ext,FUNC_2
+stub1,FUNC_3
+to_dpu_plane,FUNC_4
+trace_dpu_perf_set_danger_luts,FUNC_5
+_dpu_plane_set_danger_lut,FUNC_6
+plane,VAR_4
+fb,VAR_5
+pdpu,VAR_6
+fmt,VAR_7
+danger_lut,VAR_8
+safe_lut,VAR_9

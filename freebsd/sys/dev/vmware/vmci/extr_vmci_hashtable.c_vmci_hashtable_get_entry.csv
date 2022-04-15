@@ -1,0 +1,10 @@
+ASSERT,FUNC_0
+VMCI_HANDLE_EQUAL,FUNC_1
+VMCI_INVALID_HANDLE,VAR_0
+vmci_grab_lock_bh,FUNC_2
+vmci_hashtable_get_entry_locked,FUNC_3
+vmci_release_lock_bh,FUNC_4
+vmci_hashtable_get_entry,FUNC_5
+table,VAR_1
+handle,VAR_2
+entry,VAR_3

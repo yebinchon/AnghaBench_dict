@@ -1,0 +1,7 @@
+dw_i3c_master_dequeue_xfer_locked,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+dw_i3c_master_dequeue_xfer,FUNC_3
+master,VAR_0
+xfer,VAR_1
+flags,VAR_2

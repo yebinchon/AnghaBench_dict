@@ -1,0 +1,17 @@
+CDMA_EVENT_NONE,VAR_0
+CDMA_EVENT_PUSH_BUFFER_SPACE,VAR_1
+cdma_to_channel,FUNC_0
+dev_name,FUNC_1
+host1x_hw_cdma_flush,FUNC_2
+host1x_pushbuffer_space,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+schedule,FUNC_6
+trace_host1x_wait_cdma,FUNC_7
+wait_for_completion,FUNC_8
+host1x_cdma_wait_pushbuffer_space,FUNC_9
+host1x,VAR_2
+cdma,VAR_3
+needed,VAR_4
+pb,VAR_5
+space,VAR_6

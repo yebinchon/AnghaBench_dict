@@ -1,0 +1,8 @@
+disable_irq_nosync,FUNC_0
+enable_irq,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+bma150_write_byte,FUNC_3
+client,VAR_0
+reg,VAR_1
+val,VAR_2
+ret,VAR_3

@@ -1,0 +1,17 @@
+VERIFY,FUNC_0
+ZPOOL_CONFIG_CHILDREN,VAR_0
+ZPOOL_CONFIG_L2CACHE,VAR_1
+ZPOOL_CONFIG_POOL_NAME,VAR_2
+ZPOOL_CONFIG_SPARES,VAR_3
+ZPOOL_CONFIG_VDEV_TREE,VAR_4
+nvlist_free,FUNC_1
+nvlist_lookup_nvlist,FUNC_2
+nvlist_lookup_string,FUNC_3
+show_vdev_stats,FUNC_4
+spa_get_stats,FUNC_5
+spa_name,FUNC_6
+show_pool_stats,FUNC_7
+spa,VAR_5
+config,VAR_6
+nvroot,VAR_7
+name,VAR_8

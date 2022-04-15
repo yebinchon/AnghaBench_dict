@@ -1,0 +1,17 @@
+SSI_CLEAR_WAKE_REG,FUNC_0
+SSI_SET_WAKE_REG,FUNC_1
+SSI_WAKE,FUNC_2
+hsi_controller_drvdata,FUNC_3
+hsi_get_port,FUNC_4
+hsi_port_drvdata,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put,FUNC_7
+to_hsi_controller,FUNC_8
+writel_relaxed,FUNC_9
+ssi_waketest,FUNC_10
+cl,VAR_0
+enable,VAR_1
+port,VAR_2
+omap_port,VAR_3
+ssi,VAR_4
+omap_ssi,VAR_5

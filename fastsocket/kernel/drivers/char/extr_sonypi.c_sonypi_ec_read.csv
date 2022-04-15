@@ -1,0 +1,11 @@
+ITERATIONS_LONG,VAR_0
+SONYPI_ACPI_ACTIVE,VAR_1
+SONYPI_CST_IOPORT,VAR_2
+SONYPI_DATA_IOPORT,VAR_3
+ec_read,FUNC_0
+inb_p,FUNC_1
+outb_p,FUNC_2
+wait_on_command,FUNC_3
+sonypi_ec_read,FUNC_4
+addr,VAR_4
+value,VAR_5

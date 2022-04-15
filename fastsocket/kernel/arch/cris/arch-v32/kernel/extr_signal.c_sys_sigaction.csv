@@ -1,0 +1,16 @@
+EFAULT,VAR_0
+VERIFY_READ,VAR_1
+VERIFY_WRITE,VAR_2
+__get_user,FUNC_0
+__put_user,FUNC_1
+access_ok,FUNC_2
+do_sigaction,FUNC_3
+siginitset,FUNC_4
+sys_sigaction,FUNC_5
+signal,VAR_3
+act,VAR_4
+oact,VAR_5
+retval,VAR_6
+newk,VAR_7
+oldk,VAR_8
+mask,VAR_9

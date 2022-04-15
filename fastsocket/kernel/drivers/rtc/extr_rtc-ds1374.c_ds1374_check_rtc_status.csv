@@ -1,0 +1,14 @@
+DS1374_REG_CR,VAR_0
+DS1374_REG_CR_AIE,VAR_1
+DS1374_REG_CR_WACE,VAR_2
+DS1374_REG_SR,VAR_3
+DS1374_REG_SR_AF,VAR_4
+DS1374_REG_SR_OSF,VAR_5
+dev_warn,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+ds1374_check_rtc_status,FUNC_3
+client,VAR_6
+ret,VAR_7
+control,VAR_8
+stat,VAR_9

@@ -1,0 +1,17 @@
+DIGITAL_CMD_SENS_REQ,VAR_0
+ENOMEM,VAR_1
+NFC_DIGITAL_CONFIG_FRAMING,VAR_2
+NFC_DIGITAL_CONFIG_RF_TECH,VAR_3
+NFC_DIGITAL_FRAMING_NFCA_SHORT,VAR_4
+NFC_DIGITAL_RF_TECH_106A,VAR_5
+digital_in_configure_hw,FUNC_0
+digital_in_recv_sens_res,VAR_6
+digital_in_send_cmd,FUNC_1
+digital_skb_alloc,FUNC_2
+kfree_skb,FUNC_3
+skb_put_u8,FUNC_4
+digital_in_send_sens_req,FUNC_5
+ddev,VAR_7
+rf_tech,VAR_8
+skb,VAR_9
+rc,VAR_10

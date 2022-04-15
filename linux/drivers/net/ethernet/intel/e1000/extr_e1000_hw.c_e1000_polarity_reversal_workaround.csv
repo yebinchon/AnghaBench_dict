@@ -1,0 +1,14 @@
+E1000_SUCCESS,VAR_0
+M88E1000_PHY_GEN_CONTROL,VAR_1
+M88E1000_PHY_PAGE_SELECT,VAR_2
+MII_SR_LINK_STATUS,VAR_3
+PHY_FORCE_TIME,VAR_4
+PHY_STATUS,VAR_5
+e1000_read_phy_reg,FUNC_0
+e1000_write_phy_reg,FUNC_1
+msleep,FUNC_2
+e1000_polarity_reversal_workaround,FUNC_3
+hw,VAR_6
+ret_val,VAR_7
+mii_status_reg,VAR_8
+i,VAR_9

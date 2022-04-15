@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+PM_QOS_LATENCY_ANY,VAR_1
+PM_QOS_LATENCY_TOLERANCE_NO_CONSTRAINT,VAR_2
+dev_pm_qos_update_user_latency_tolerance,FUNC_0
+kstrtos32,FUNC_1
+sysfs_streq,FUNC_2
+pm_qos_latency_tolerance_us_store,FUNC_3
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+n,VAR_6
+value,VAR_7
+ret,VAR_8

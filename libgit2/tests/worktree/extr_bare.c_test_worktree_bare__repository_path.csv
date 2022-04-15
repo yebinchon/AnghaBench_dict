@@ -1,0 +1,17 @@
+COMMON_REPO,VAR_0
+WORKTREE_REPO,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_path,FUNC_2
+g_repo,VAR_2
+git_repository_commondir,FUNC_3
+git_repository_free,FUNC_4
+git_repository_open,FUNC_5
+git_repository_path,FUNC_6
+git_repository_workdir,FUNC_7
+git_worktree_add,FUNC_8
+git_worktree_free,FUNC_9
+git_worktree_path,FUNC_10
+test_worktree_bare__repository_path,FUNC_11
+wt,VAR_3
+wtrepo,VAR_4

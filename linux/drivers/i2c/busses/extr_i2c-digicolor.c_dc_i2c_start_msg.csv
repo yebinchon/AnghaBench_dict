@@ -1,0 +1,14 @@
+I2C_M_NOSTART,VAR_0
+I2C_M_RD,VAR_1
+II_CMD_RESTART,VAR_2
+II_CMD_START,VAR_3
+STATE_READ,VAR_4
+STATE_START,VAR_5
+STATE_WRITE,VAR_6
+dc_i2c_cmd,FUNC_0
+dc_i2c_next_read,FUNC_1
+dc_i2c_write_buf,FUNC_2
+dc_i2c_start_msg,FUNC_3
+i2c,VAR_7
+first,VAR_8
+msg,VAR_9

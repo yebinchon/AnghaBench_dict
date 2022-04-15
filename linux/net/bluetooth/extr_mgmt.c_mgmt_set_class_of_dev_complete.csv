@@ -1,0 +1,16 @@
+HCI_MGMT_DEV_CLASS_EVENTS,VAR_0
+MGMT_EV_CLASS_OF_DEV_CHANGED,VAR_1
+MGMT_OP_ADD_UUID,VAR_2
+MGMT_OP_REMOVE_UUID,VAR_3
+MGMT_OP_SET_DEV_CLASS,VAR_4
+ext_info_changed,FUNC_0
+mgmt_limited_event,FUNC_1
+mgmt_pending_foreach,FUNC_2
+mgmt_status,FUNC_3
+sk_lookup,VAR_5
+sock_put,FUNC_4
+mgmt_set_class_of_dev_complete,FUNC_5
+hdev,VAR_6
+dev_class,VAR_7
+status,VAR_8
+match,VAR_9

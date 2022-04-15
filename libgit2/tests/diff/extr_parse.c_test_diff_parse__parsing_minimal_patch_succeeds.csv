@@ -1,0 +1,13 @@
+GIT_BUF_INIT,VAR_0
+GIT_DIFF_FORMAT_PATCH,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_buf_dispose,FUNC_2
+git_diff_free,FUNC_3
+git_diff_from_buffer,FUNC_4
+git_diff_to_buf,FUNC_5
+strlen,FUNC_6
+test_diff_parse__parsing_minimal_patch_succeeds,FUNC_7
+patch,VAR_2
+buf,VAR_3
+diff,VAR_4

@@ -1,0 +1,17 @@
+JZ_DMA_REG_DCS,VAR_0
+LIST_HEAD,FUNC_0
+head,VAR_1
+jz4780_dma_chan_disable,FUNC_1
+jz4780_dma_chan_parent,FUNC_2
+jz4780_dma_chn_writel,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_jz4780_dma_chan,FUNC_6
+vchan_dma_desc_free_list,FUNC_7
+vchan_get_all_descriptors,FUNC_8
+vchan_terminate_vdesc,FUNC_9
+jz4780_dma_terminate_all,FUNC_10
+chan,VAR_2
+jzchan,VAR_3
+jzdma,VAR_4
+flags,VAR_5

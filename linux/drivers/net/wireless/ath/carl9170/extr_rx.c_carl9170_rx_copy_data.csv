@@ -1,0 +1,16 @@
+IEEE80211_QOS_CTL_A_MSDU_PRESENT,VAR_0
+NET_IP_ALIGN,VAR_1
+dev_alloc_skb,FUNC_0
+ieee80211_get_qos_ctl,FUNC_1
+ieee80211_has_a4,FUNC_2
+ieee80211_is_data_qos,FUNC_3
+likely,FUNC_4
+skb_put_data,FUNC_5
+skb_reserve,FUNC_6
+carl9170_rx_copy_data,FUNC_7
+buf,VAR_2
+len,VAR_3
+skb,VAR_4
+reserved,VAR_5
+hdr,VAR_6
+qc,VAR_7

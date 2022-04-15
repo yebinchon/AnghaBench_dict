@@ -1,0 +1,8 @@
+NHM_UNC_FIXED_CTR_CTL_EN,VAR_0
+SNB_UNC_CTL_EN,VAR_1
+UNCORE_PMC_IDX_FIXED,VAR_2
+wrmsrl,FUNC_0
+nhm_uncore_msr_enable_event,FUNC_1
+box,VAR_3
+event,VAR_4
+hwc,VAR_5

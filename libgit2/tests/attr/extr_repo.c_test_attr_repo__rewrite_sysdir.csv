@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_SYSDIR_SYSTEM,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_rewritefile,FUNC_2
+cl_git_sandbox_reopen,FUNC_3
+clar_sandbox_path,FUNC_4
+g_repo,VAR_2
+git_attr_get,FUNC_5
+git_buf_dispose,FUNC_6
+git_buf_joinpath,FUNC_7
+git_sysdir_set,FUNC_8
+p_mkdir,FUNC_9
+test_attr_repo__rewrite_sysdir,FUNC_10
+sysdir,VAR_3
+value,VAR_4

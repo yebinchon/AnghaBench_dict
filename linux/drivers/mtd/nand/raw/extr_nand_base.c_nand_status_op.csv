@@ -1,0 +1,16 @@
+NAND_CMD_STATUS,VAR_0
+NAND_OPERATION,FUNC_0
+NAND_OP_8BIT_DATA_IN,FUNC_1
+NAND_OP_CMD,FUNC_2
+PSEC_TO_NSEC,FUNC_3
+nand_exec_op,FUNC_4
+nand_get_sdr_timings,FUNC_5
+nand_has_exec_op,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+nand_status_op,FUNC_9
+chip,VAR_1
+status,VAR_2
+sdr,VAR_3
+instrs,VAR_4
+op,VAR_5

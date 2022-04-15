@@ -1,0 +1,14 @@
+EOI_MASK,VAR_0
+WAKE_INT_MASTER_REG,VAR_1
+gpiochip_get_data,FUNC_0
+irq_data_get_irq_chip_data,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+amd_gpio_irq_eoi,FUNC_6
+d,VAR_2
+reg,VAR_3
+flags,VAR_4
+gc,VAR_5
+gpio_dev,VAR_6

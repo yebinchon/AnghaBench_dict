@@ -1,0 +1,17 @@
+CMD_LNB_UPDATE_REPLY,VAR_0
+EFAULT,VAR_1
+ETIMEDOUT,VAR_2
+dev_dbg,FUNC_0
+regmap_bulk_read,FUNC_1
+regmap_read,FUNC_2
+tda10071_cmd_execute,FUNC_3
+usleep_range,FUNC_4
+tda10071_diseqc_recv_slave_reply,FUNC_5
+fe,VAR_3
+reply,VAR_4
+dev,VAR_5
+client,VAR_6
+cmd,VAR_7
+ret,VAR_8
+i,VAR_9
+uitmp,VAR_10

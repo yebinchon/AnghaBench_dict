@@ -1,0 +1,11 @@
+Assert,FUNC_0
+ReadTwoPhaseFile,FUNC_1
+TransactionIdEquals,FUNC_2
+TransactionIdIsValid,FUNC_3
+max_prepared_xacts,VAR_0
+pfree,FUNC_4
+StandbyTransactionIdIsPrepared,FUNC_5
+xid,VAR_1
+buf,VAR_2
+hdr,VAR_3
+result,VAR_4

@@ -1,0 +1,12 @@
+NETIF_F_CSUM_MASK,VAR_0
+NETIF_F_GSO_MASK,VAR_1
+mlx5e_ipsec_feature_check,FUNC_0
+mlx5e_tunnel_features_check,FUNC_1
+netdev_priv,FUNC_2
+vlan_features_check,FUNC_3
+vxlan_features_check,FUNC_4
+mlx5e_features_check,FUNC_5
+skb,VAR_2
+netdev,VAR_3
+features,VAR_4
+priv,VAR_5

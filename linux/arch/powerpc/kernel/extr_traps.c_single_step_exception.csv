@@ -1,0 +1,15 @@
+DIE_SSTEP,VAR_0
+NOTIFY_STOP,VAR_1
+SIGTRAP,VAR_2
+TRAP_TRACE,VAR_3
+_exception,FUNC_0
+clear_br_trace,FUNC_1
+clear_single_step,FUNC_2
+debugger_sstep,FUNC_3
+exception_enter,FUNC_4
+exception_exit,FUNC_5
+kprobe_post_handler,FUNC_6
+notify_die,FUNC_7
+single_step_exception,FUNC_8
+regs,VAR_4
+prev_state,VAR_5

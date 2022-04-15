@@ -1,0 +1,12 @@
+MAX_HCALL_OPCODE,VAR_0
+SPRN_PURR,VAR_1
+hcall_stats,VAR_2
+mfspr,FUNC_0
+mftb,FUNC_1
+this_cpu_ptr,FUNC_2
+probe_hcall_exit,FUNC_3
+ignored,VAR_3
+opcode,VAR_4
+retval,VAR_5
+retbuf,VAR_6
+h,VAR_7

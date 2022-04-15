@@ -1,0 +1,15 @@
+FALSE,VAR_0
+FAT_IS_END_CLUSTER,FUNC_0
+FatGetFatEntry,FUNC_1
+FatReadVolumeSectors,FUNC_2
+FatReadAdjacentClusters,FUNC_3
+Volume,VAR_1
+StartClusterNumber,VAR_2
+MaxClusters,VAR_3
+Buffer,VAR_4
+ClustersRead,VAR_5
+LastClusterNumber,VAR_6
+NextClusterNumber,VAR_7
+ClustersToRead,VAR_8
+PrevClusterNumber,VAR_9
+ClusterStartSector,VAR_10

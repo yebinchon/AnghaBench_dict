@@ -1,0 +1,13 @@
+KVM_REQ_TRIPLE_FAULT,VAR_0
+X86EMUL_CONTINUE,VAR_1
+emulate_int_real,FUNC_0
+init_emulate_ctxt,FUNC_1
+kvm_make_request,FUNC_2
+kvm_rip_write,FUNC_3
+kvm_set_rflags,FUNC_4
+kvm_inject_realmode_interrupt,FUNC_5
+vcpu,VAR_2
+irq,VAR_3
+inc_eip,VAR_4
+ctxt,VAR_5
+ret,VAR_6

@@ -1,0 +1,17 @@
+AV_SAMPLE_FMT_U8,VAR_0
+AV_SAMPLE_FMT_U8P,VAR_1
+av_get_bytes_per_sample,FUNC_0
+av_sample_fmt_is_planar,FUNC_1
+memset,FUNC_2
+av_samples_set_silence,FUNC_3
+audio_data,VAR_2
+offset,VAR_3
+nb_samples,VAR_4
+nb_channels,VAR_5
+sample_fmt,VAR_6
+planar,VAR_7
+planes,VAR_8
+block_align,VAR_9
+data_size,VAR_10
+fill_char,VAR_11
+i,VAR_12

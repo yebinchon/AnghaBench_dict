@@ -1,0 +1,17 @@
+ATL2_WRITE_REGW,FUNC_0
+ETH_P_8021Q,VAR_0
+REG_MB_RXD_RD_IDX,VAR_1
+__vlan_hwaccel_put_tag,FUNC_1
+eth_type_trans,FUNC_2
+htons,FUNC_3
+memcpy,FUNC_4
+netdev_alloc_skb_ip_align,FUNC_5
+netif_rx,FUNC_6
+skb_put,FUNC_7
+atl2_intr_rx,FUNC_8
+adapter,VAR_2
+netdev,VAR_3
+rxd,VAR_4
+skb,VAR_5
+rx_size,VAR_6
+vlan_tag,VAR_7

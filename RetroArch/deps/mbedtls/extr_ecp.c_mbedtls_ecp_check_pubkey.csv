@@ -1,0 +1,11 @@
+ECP_TYPE_MONTGOMERY,VAR_0
+ECP_TYPE_SHORT_WEIERSTRASS,VAR_1
+MBEDTLS_ERR_ECP_BAD_INPUT_DATA,VAR_2
+MBEDTLS_ERR_ECP_INVALID_KEY,VAR_3
+ecp_check_pubkey_mx,FUNC_0
+ecp_check_pubkey_sw,FUNC_1
+ecp_get_type,FUNC_2
+mbedtls_mpi_cmp_int,FUNC_3
+mbedtls_ecp_check_pubkey,FUNC_4
+grp,VAR_4
+pt,VAR_5

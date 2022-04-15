@@ -1,0 +1,14 @@
+PS2_FSTS_TXRDY,VAR_0
+PS2_REG_DATA,VAR_1
+PS2_REG_FSTS,VAR_2
+SERIO_TIMEOUT,VAR_3
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_0
+readl,FUNC_1
+time_before,FUNC_2
+writel,FUNC_3
+sun4i_ps2_write,FUNC_4
+serio,VAR_5
+val,VAR_6
+expire,VAR_7
+drvdata,VAR_8

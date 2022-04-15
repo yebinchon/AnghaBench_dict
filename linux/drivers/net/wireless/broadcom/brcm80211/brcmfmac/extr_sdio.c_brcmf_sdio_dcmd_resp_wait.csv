@@ -1,0 +1,16 @@
+DCMD_RESP_TIMEOUT,VAR_0
+DECLARE_WAITQUEUE,FUNC_0
+TASK_INTERRUPTIBLE,VAR_1
+TASK_RUNNING,VAR_2
+add_wait_queue,FUNC_1
+current,VAR_3
+remove_wait_queue,FUNC_2
+schedule_timeout,FUNC_3
+set_current_state,FUNC_4
+signal_pending,FUNC_5
+wait,VAR_4
+brcmf_sdio_dcmd_resp_wait,FUNC_6
+bus,VAR_5
+condition,VAR_6
+pending,VAR_7
+timeout,VAR_8

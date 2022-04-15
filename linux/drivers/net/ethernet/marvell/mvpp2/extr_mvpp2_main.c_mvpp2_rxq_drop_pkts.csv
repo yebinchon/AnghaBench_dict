@@ -1,0 +1,17 @@
+MVPP2_RXD_BM_POOL_ID_MASK,VAR_0
+MVPP2_RXD_BM_POOL_ID_OFFS,VAR_1
+mvpp2_bm_pool_put,FUNC_0
+mvpp2_rxdesc_cookie_get,FUNC_1
+mvpp2_rxdesc_dma_addr_get,FUNC_2
+mvpp2_rxdesc_status_get,FUNC_3
+mvpp2_rxq_next_desc_get,FUNC_4
+mvpp2_rxq_received,FUNC_5
+mvpp2_rxq_status_update,FUNC_6
+mvpp2_rxq_drop_pkts,FUNC_7
+port,VAR_2
+rxq,VAR_3
+rx_received,VAR_4
+i,VAR_5
+rx_desc,VAR_6
+status,VAR_7
+pool,VAR_8

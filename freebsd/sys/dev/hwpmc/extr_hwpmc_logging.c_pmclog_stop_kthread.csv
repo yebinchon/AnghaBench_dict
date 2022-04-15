@@ -1,0 +1,13 @@
+PMC_PO_OWNS_LOGFILE,VAR_0
+PPAUSE,VAR_1
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+SIGHUP,VAR_2
+kern_psignal,FUNC_2
+msleep,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+pmc_kthread_mtx,VAR_3
+wakeup_one,FUNC_6
+pmclog_stop_kthread,FUNC_7
+po,VAR_4

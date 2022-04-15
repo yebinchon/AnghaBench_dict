@@ -1,0 +1,14 @@
+GFS2_JTRUNC_REVOKES,VAR_0
+GFS2_SB,FUNC_0
+RES_DINODE,VAR_1
+gfs2_trans_begin,FUNC_1
+gfs2_trans_end,FUNC_2
+truncate_pagecache,FUNC_3
+gfs2_journaled_truncate,FUNC_4
+inode,VAR_2
+oldsize,VAR_3
+newsize,VAR_4
+sdp,VAR_5
+max_chunk,VAR_6
+chunk,VAR_7
+error,VAR_8

@@ -1,0 +1,9 @@
+EFAULT,VAR_0
+SMC_LLC_WAIT_TIME,VAR_1
+reinit_completion,FUNC_0
+smc_llc_send_confirm_rkey,FUNC_1
+wait_for_completion_interruptible_timeout,FUNC_2
+smc_llc_do_confirm_rkey,FUNC_3
+link,VAR_2
+rmb_desc,VAR_3
+rc,VAR_4

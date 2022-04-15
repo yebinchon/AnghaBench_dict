@@ -1,0 +1,17 @@
+MAX_MSIX_TABLE_ENTRIES,VAR_0
+MSIX_TABLE_ENTRY_SIZE,VAR_1
+PBA_SIZE,FUNC_0
+PCIBAR_MEM32,VAR_2
+PCIR_MAX_BAR_0,VAR_3
+assert,FUNC_1
+pci_emul_add_capability,FUNC_2
+pci_emul_alloc_bar,FUNC_3
+pci_msix_table_init,FUNC_4
+pci_populate_msixcap,FUNC_5
+roundup2,FUNC_6
+pci_emul_add_msixcap,FUNC_7
+pi,VAR_4
+msgnum,VAR_5
+barnum,VAR_6
+tab_size,VAR_7
+msixcap,VAR_8

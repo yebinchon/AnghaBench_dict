@@ -1,0 +1,13 @@
+ASSERT_RTNL,FUNC_0
+RCU_INIT_POINTER,FUNC_1
+__vlan_vid_del,FUNC_2
+call_rcu,FUNC_3
+rtnl_dereference,FUNC_4
+vlan_info_rcu_free,VAR_0
+vlan_vid_info_get,FUNC_5
+vlan_vid_del,FUNC_6
+dev,VAR_1
+proto,VAR_2
+vid,VAR_3
+vlan_info,VAR_4
+vid_info,VAR_5

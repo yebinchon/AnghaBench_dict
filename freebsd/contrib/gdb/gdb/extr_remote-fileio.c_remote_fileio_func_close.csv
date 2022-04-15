@@ -1,0 +1,16 @@
+FIO_FD_CONSOLE_IN,VAR_0
+FIO_FD_CONSOLE_OUT,VAR_1
+FIO_FD_INVALID,VAR_2
+close,FUNC_0
+remote_fileio_badfd,FUNC_1
+remote_fileio_close_target_fd,FUNC_2
+remote_fileio_extract_int,FUNC_3
+remote_fileio_ioerror,FUNC_4
+remote_fileio_map_fd,FUNC_5
+remote_fileio_return_errno,FUNC_6
+remote_fileio_return_success,FUNC_7
+remote_fio_no_longjmp,VAR_3
+remote_fileio_func_close,FUNC_8
+buf,VAR_4
+num,VAR_5
+fd,VAR_6

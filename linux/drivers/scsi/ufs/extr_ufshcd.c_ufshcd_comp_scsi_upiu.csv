@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+UFSHCI_VERSION_10,VAR_1
+UFSHCI_VERSION_11,VAR_2
+UTP_CMD_TYPE_SCSI,VAR_3
+UTP_CMD_TYPE_UFS_STORAGE,VAR_4
+likely,FUNC_0
+ufshcd_prepare_req_desc_hdr,FUNC_1
+ufshcd_prepare_utp_scsi_cmd_upiu,FUNC_2
+ufshcd_comp_scsi_upiu,FUNC_3
+hba,VAR_5
+lrbp,VAR_6
+upiu_flags,VAR_7
+ret,VAR_8

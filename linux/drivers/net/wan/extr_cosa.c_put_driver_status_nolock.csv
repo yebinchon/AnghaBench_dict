@@ -1,0 +1,12 @@
+DRIVER_RX_READY,VAR_0
+DRIVER_TXMAP_MASK,VAR_1
+DRIVER_TXMAP_SHIFT,VAR_2
+DRIVER_TX_READY,VAR_3
+SR_RX_INT_ENA,VAR_4
+cosa_putdata8,FUNC_0
+cosa_putstatus,FUNC_1
+debug_data_cmd,FUNC_2
+debug_status_out,FUNC_3
+put_driver_status_nolock,FUNC_4
+cosa,VAR_5
+status,VAR_6

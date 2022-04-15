@@ -1,0 +1,15 @@
+DRM_DEBUG_KMS,FUNC_0
+RADEON_FP2_BLANK_EN,VAR_0
+RADEON_FP2_DVO_EN,VAR_1
+RADEON_FP2_GEN_CNTL,VAR_2
+RADEON_FP2_ON,VAR_3
+RREG32,FUNC_1
+WREG32,FUNC_2
+radeon_atombios_encoder_dpms_scratch_regs,FUNC_3
+radeon_combios_encoder_dpms_scratch_regs,FUNC_4
+radeon_legacy_tmds_ext_dpms,FUNC_5
+encoder,VAR_4
+mode,VAR_5
+dev,VAR_6
+rdev,VAR_7
+fp2_gen_cntl,VAR_8

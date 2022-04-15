@@ -1,0 +1,13 @@
+DATAOUT_CANNOT_RECOVER,VAR_0
+DATAOUT_WITHIN_COMMAND_RECOVERY,VAR_1
+ICF_WITHIN_COMMAND_RECOVERY,VAR_2
+iscsit_recalculate_dataout_values,FUNC_0
+iscsit_send_recovery_r2t,FUNC_1
+spin_lock_bh,FUNC_2
+spin_unlock_bh,FUNC_3
+iscsit_recover_dataout_sequence,FUNC_4
+cmd,VAR_3
+pdu_offset,VAR_4
+pdu_length,VAR_5
+r2t_length,VAR_6
+r2t_offset,VAR_7

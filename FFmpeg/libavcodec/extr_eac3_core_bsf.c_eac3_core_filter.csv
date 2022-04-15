@@ -1,0 +1,16 @@
+AVERROR_INVALIDDATA,VAR_0
+EAC3_FRAME_TYPE_AC3_CONVERT,VAR_1
+EAC3_FRAME_TYPE_DEPENDENT,VAR_2
+EAC3_FRAME_TYPE_INDEPENDENT,VAR_3
+FFMIN,FUNC_0
+av_packet_unref,FUNC_1
+ff_ac3_parse_header,FUNC_2
+ff_bsf_get_packet_ref,FUNC_3
+init_get_bits8,FUNC_4
+eac3_core_filter,FUNC_5
+ctx,VAR_4
+pkt,VAR_5
+hdr,VAR_6
+gbc,VAR_7
+ret,VAR_8
+hdr2,VAR_9

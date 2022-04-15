@@ -1,0 +1,11 @@
+DVD_StopStreamAtEndAsync,FUNC_0
+LWP_ThreadSleep,FUNC_1
+_CPU_ISR_Disable,FUNC_2
+_CPU_ISR_Restore,FUNC_3
+__dvd_streamatendsynccb,VAR_0
+__dvd_wait_queue,VAR_1
+DVD_StopStreamAtEnd,FUNC_4
+block,VAR_2
+ret,VAR_3
+state,VAR_4
+level,VAR_5

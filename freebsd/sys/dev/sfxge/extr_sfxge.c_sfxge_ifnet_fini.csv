@@ -1,0 +1,9 @@
+SFXGE_ADAPTER_LOCK,FUNC_0
+SFXGE_ADAPTER_UNLOCK,FUNC_1
+ether_ifdetach,FUNC_2
+if_free,FUNC_3
+ifmedia_removeall,FUNC_4
+sfxge_stop,FUNC_5
+sfxge_ifnet_fini,FUNC_6
+ifp,VAR_0
+sc,VAR_1

@@ -1,0 +1,14 @@
+CMD_802_11_DEAUTHENTICATE,VAR_0
+ETH_ALEN,VAR_1
+GFP_KERNEL,VAR_2
+LBS_DISCONNECTED,VAR_3
+cfg80211_disconnected,FUNC_0
+cpu_to_le16,FUNC_1
+lbs_cmd_with_response,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+lbs_disconnect,FUNC_5
+priv,VAR_4
+reason,VAR_5
+cmd,VAR_6
+ret,VAR_7

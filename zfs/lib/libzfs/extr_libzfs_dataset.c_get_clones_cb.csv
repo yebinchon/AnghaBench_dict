@@ -1,0 +1,12 @@
+B_TRUE,VAR_0
+ZFS_PROP_ORIGIN,VAR_1
+fnvlist_add_boolean,FUNC_0
+strcmp,FUNC_1
+zfs_close,FUNC_2
+zfs_get_name,FUNC_3
+zfs_iter_children,FUNC_4
+zfs_prop_get,FUNC_5
+get_clones_cb,FUNC_6
+zhp,VAR_2
+arg,VAR_3
+gca,VAR_4

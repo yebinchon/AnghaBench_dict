@@ -1,0 +1,15 @@
+OWL_UART_CTL,VAR_0
+OWL_UART_CTL_EN,VAR_1
+OWL_UART_CTL_RXDE,VAR_2
+OWL_UART_CTL_RXIE,VAR_3
+OWL_UART_CTL_TXDE,VAR_4
+OWL_UART_CTL_TXIE,VAR_5
+free_irq,FUNC_0
+owl_uart_read,FUNC_1
+owl_uart_write,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+owl_uart_shutdown,FUNC_5
+port,VAR_6
+val,VAR_7
+flags,VAR_8

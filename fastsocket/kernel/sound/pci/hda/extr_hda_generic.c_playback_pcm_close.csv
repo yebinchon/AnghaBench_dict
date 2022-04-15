@@ -1,0 +1,10 @@
+HDA_GEN_PCM_ACT_CLOSE,VAR_0
+STREAM_MULTI_OUT,VAR_1
+call_pcm_playback_hook,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+playback_pcm_close,FUNC_3
+hinfo,VAR_2
+codec,VAR_3
+substream,VAR_4
+spec,VAR_5

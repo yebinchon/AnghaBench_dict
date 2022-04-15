@@ -1,0 +1,17 @@
+DC_PEN,VAR_0
+EMFDRV_CreatePenIndirect,FUNC_0
+EMFDRV_FindObject,FUNC_1
+EMFDRV_WriteRecord,FUNC_2
+EMR_SELECTOBJECT,VAR_1
+GDI_hdc_using_object,FUNC_3
+GetStockObject,FUNC_4
+WHITE_PEN,VAR_2
+get_emf_physdev,FUNC_5
+EMFDRV_SelectPen,FUNC_6
+dev,VAR_3
+hPen,VAR_4
+pattern,VAR_5
+physDev,VAR_6
+emr,VAR_7
+index,VAR_8
+i,VAR_9

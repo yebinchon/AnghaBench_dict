@@ -1,0 +1,15 @@
+CTLFLAG_RWTUN,VAR_0
+CTLTYPE_STRING,VAR_1
+OID_AUTO,VAR_2
+SOUND_MIXER_VOLUME,VAR_3
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_PROC,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+mixer_get_devt,FUNC_5
+sysctl_hw_snd_hwvol_mixer,VAR_4
+mixer_hwvol_init,FUNC_6
+dev,VAR_5
+m,VAR_6
+pdev,VAR_7

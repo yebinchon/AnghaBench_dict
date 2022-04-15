@@ -1,0 +1,9 @@
+AK4104_CONTROL1_PW,VAR_0
+AK4104_CONTROL1_RSTN,VAR_1
+AK4104_REG_CONTROL1,VAR_2
+regmap_update_bits,FUNC_0
+regulator_disable,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+ak4104_remove,FUNC_3
+component,VAR_3
+ak4104,VAR_4

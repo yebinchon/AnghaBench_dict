@@ -1,0 +1,17 @@
+IORESOURCE_MEM,VAR_0
+PCI_MEMORY_BASE,VAR_1
+PCI_MEMORY_LIMIT,VAR_2
+PCI_MEMORY_RANGE_MASK,VAR_3
+PCI_MEMORY_RANGE_TYPE_MASK,VAR_4
+pci_info,FUNC_0
+pci_read_config_word,FUNC_1
+pcibios_bus_to_resource,FUNC_2
+pci_read_bridge_mmio,FUNC_3
+child,VAR_5
+dev,VAR_6
+mem_base_lo,VAR_7
+mem_limit_lo,VAR_8
+base,VAR_9
+limit,VAR_10
+region,VAR_11
+res,VAR_12

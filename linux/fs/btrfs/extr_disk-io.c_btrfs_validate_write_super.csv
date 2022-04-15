@@ -1,0 +1,12 @@
+BTRFS_CSUM_TYPE_CRC32,VAR_0
+BTRFS_FEATURE_INCOMPAT_SUPP,VAR_1
+EUCLEAN,VAR_2
+btrfs_err,FUNC_0
+btrfs_super_csum_type,FUNC_1
+btrfs_super_incompat_flags,FUNC_2
+btrfs_supported_super_csum,FUNC_3
+validate_super,FUNC_4
+btrfs_validate_write_super,FUNC_5
+fs_info,VAR_3
+sb,VAR_4
+ret,VAR_5

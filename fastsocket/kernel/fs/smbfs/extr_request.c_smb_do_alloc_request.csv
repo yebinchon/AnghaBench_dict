@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+GFP_NOFS,VAR_1
+INIT_LIST_HEAD,FUNC_0
+VERBOSE,FUNC_1
+atomic_set,FUNC_2
+init_waitqueue_head,FUNC_3
+kmalloc,FUNC_4
+kmem_cache_free,FUNC_5
+kmem_cache_zalloc,FUNC_6
+req_cachep,VAR_2
+smb_do_alloc_request,FUNC_7
+server,VAR_3
+bufsize,VAR_4
+req,VAR_5
+buf,VAR_6

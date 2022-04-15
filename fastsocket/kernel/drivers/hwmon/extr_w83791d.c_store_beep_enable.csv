@@ -1,0 +1,17 @@
+GLOBAL_BEEP_ENABLE_MASK,VAR_0
+GLOBAL_BEEP_ENABLE_SHIFT,VAR_1
+W83791D_REG_BEEP_CTRL,VAR_2
+i2c_get_clientdata,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+simple_strtol,FUNC_3
+to_i2c_client,FUNC_4
+w83791d_write,FUNC_5
+store_beep_enable,FUNC_6
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+count,VAR_6
+client,VAR_7
+data,VAR_8
+val,VAR_9

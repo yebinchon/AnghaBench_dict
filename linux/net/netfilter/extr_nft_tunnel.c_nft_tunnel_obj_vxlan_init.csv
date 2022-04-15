@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+NFTA_TUNNEL_KEY_VXLAN_GBP,VAR_1
+NFTA_TUNNEL_KEY_VXLAN_MAX,VAR_2
+TUNNEL_VXLAN_OPT,VAR_3
+nft_tunnel_opts_vxlan_policy,VAR_4
+nla_get_be32,FUNC_0
+nla_parse_nested_deprecated,FUNC_1
+ntohl,FUNC_2
+nft_tunnel_obj_vxlan_init,FUNC_3
+attr,VAR_5
+opts,VAR_6
+tb,VAR_7
+err,VAR_8

@@ -1,0 +1,12 @@
+PCIR_INTLINE,VAR_0
+PCI_CBMEM,VAR_1
+PCI_POWERSTATE_D0,VAR_2
+device_printf,FUNC_0
+pci_get_powerstate,FUNC_1
+pci_read_config,FUNC_2
+pci_set_powerstate,FUNC_3
+pci_write_config,FUNC_4
+ohci_pci_take_controller,FUNC_5
+self,VAR_3
+reg,VAR_4
+int_line,VAR_5

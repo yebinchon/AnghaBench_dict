@@ -1,0 +1,16 @@
+RBMP_SOURCE_TYPE_BGR24,VAR_0
+RBMP_SOURCE_TYPE_DONT_CARE,VAR_1
+RBMP_SOURCE_TYPE_XRGB888,VAR_2
+RETRO_PIXEL_FORMAT_XRGB8888,VAR_3
+SCALER_FMT_ARGB8888,VAR_4
+SCALER_FMT_BGR24,VAR_5
+SCALER_FMT_RGB565,VAR_6
+free,FUNC_0
+rbmp_save_image,FUNC_1
+rpng_save_image_bgr24,FUNC_2
+scaler_ctx_gen_reset,FUNC_3
+video_frame_convert_to_bgr24,FUNC_4
+screenshot_dump_direct,FUNC_5
+state,VAR_7
+scaler,VAR_8
+ret,VAR_9

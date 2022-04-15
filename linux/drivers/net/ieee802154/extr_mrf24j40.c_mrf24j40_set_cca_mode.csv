@@ -1,0 +1,10 @@
+BBREG2_CCA_MODE_MASK,VAR_0
+BBREG2_CCA_MODE_SHIFT,VAR_1
+EINVAL,VAR_2
+REG_BBREG2,VAR_3
+regmap_update_bits,FUNC_0
+mrf24j40_set_cca_mode,FUNC_1
+hw,VAR_4
+cca,VAR_5
+devrec,VAR_6
+val,VAR_7

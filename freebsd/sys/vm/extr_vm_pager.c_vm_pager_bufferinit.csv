@@ -1,0 +1,12 @@
+NSWBUF_MIN,VAR_0
+UMA_ALIGN_CACHE,VAR_1
+UMA_ZONE_NOFREE,VAR_2
+UMA_ZONE_VM,VAR_3
+nswbuf_max,VAR_4
+pbuf_ctor,VAR_5
+pbuf_dtor,VAR_6
+pbuf_init,VAR_7
+pbuf_zone,VAR_8
+uma_zcreate,FUNC_0
+uma_zone_set_max,FUNC_1
+vm_pager_bufferinit,FUNC_2

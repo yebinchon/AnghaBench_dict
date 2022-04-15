@@ -1,0 +1,16 @@
+DSPI_EOQ_MODE,VAR_0
+DSPI_TCFQ_MODE,VAR_1
+EINPROGRESS,VAR_2
+SPI_TCR,VAR_3
+SPI_TCR_GET_TCNT,FUNC_0
+dspi_eoq_read,FUNC_1
+dspi_eoq_write,FUNC_2
+dspi_tcfq_read,FUNC_3
+dspi_tcfq_write,FUNC_4
+regmap_read,FUNC_5
+dspi_rxtx,FUNC_6
+dspi,VAR_4
+msg,VAR_5
+trans_mode,VAR_6
+spi_tcnt,VAR_7
+spi_tcr,VAR_8

@@ -1,0 +1,11 @@
+LRADC_CH,FUNC_0
+LRADC_CH_ACCUMULATE,VAR_0
+LRADC_CH_VALUE_MASK,VAR_1
+LRADC_CH_VALUE_OFFSET,VAR_2
+readl,FUNC_1
+mxs_lradc_ts_read_raw_channel,FUNC_2
+ts,VAR_3
+channel,VAR_4
+reg,VAR_5
+num_samples,VAR_6
+val,VAR_7

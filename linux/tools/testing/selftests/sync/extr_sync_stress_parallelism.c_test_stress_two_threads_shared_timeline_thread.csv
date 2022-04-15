@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+sw_sync_fence_create,FUNC_1
+sw_sync_fence_destroy,FUNC_2
+sw_sync_fence_is_valid,FUNC_3
+sw_sync_timeline_inc,FUNC_4
+sync_wait,FUNC_5
+test_data_two_threads,VAR_0
+test_stress_two_threads_shared_timeline_thread,FUNC_6
+d,VAR_1
+thread_id,VAR_2
+timeline,VAR_3
+iterations,VAR_4
+fence,VAR_5
+valid,VAR_6
+ret,VAR_7
+i,VAR_8

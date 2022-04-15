@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+XFS_LI_RUI,VAR_0
+XFS_RUI_MAX_FAST_EXTENTS,VAR_1
+atomic_set,FUNC_1
+kmem_zalloc,FUNC_2
+kmem_zone_zalloc,FUNC_3
+xfs_log_item_init,FUNC_4
+xfs_rui_item_ops,VAR_2
+xfs_rui_log_item_sizeof,FUNC_5
+xfs_rui_zone,VAR_3
+xfs_rui_init,FUNC_6
+mp,VAR_4
+nextents,VAR_5
+ruip,VAR_6

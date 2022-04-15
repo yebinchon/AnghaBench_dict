@@ -1,0 +1,17 @@
+ENC_FLAG_SHUTDOWN,VAR_0
+ENC_UPDATE_NONE,VAR_1
+PUSER,VAR_2
+callout_reset,FUNC_0
+cam_periph_lock,FUNC_1
+cam_periph_release,FUNC_2
+cam_periph_sleep,FUNC_3
+cam_periph_unlock,FUNC_4
+config_intrhook_disestablish,FUNC_5
+enc_fsm_step,FUNC_6
+enc_status_updater,VAR_3
+hz,VAR_4
+kproc_exit,FUNC_7
+enc_daemon,FUNC_8
+arg,VAR_5
+enc,VAR_6
+hook,VAR_7

@@ -1,0 +1,17 @@
+NFSD_MAY_LOCK,VAR_0
+S_IFREG,VAR_1
+exp_readlock,FUNC_0
+exp_readunlock,FUNC_1
+fh_init,FUNC_2
+fh_put,FUNC_3
+memcpy,FUNC_4
+nfsd_open,FUNC_5
+nlm_drop_reply,VAR_2
+nlm_failed,VAR_3
+nlm_stale_fh,VAR_4
+nlm_fopen,FUNC_6
+rqstp,VAR_5
+f,VAR_6
+filp,VAR_7
+nfserr,VAR_8
+fh,VAR_9

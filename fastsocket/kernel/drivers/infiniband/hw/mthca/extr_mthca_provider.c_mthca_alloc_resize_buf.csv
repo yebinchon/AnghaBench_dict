@@ -1,0 +1,15 @@
+CQ_RESIZE_ALLOC,VAR_0
+CQ_RESIZE_READY,VAR_1
+EBUSY,VAR_2
+ENOMEM,VAR_3
+GFP_ATOMIC,VAR_4
+kfree,FUNC_0
+kmalloc,FUNC_1
+mthca_alloc_cq_buf,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+mthca_alloc_resize_buf,FUNC_5
+dev,VAR_5
+cq,VAR_6
+entries,VAR_7
+ret,VAR_8

@@ -1,0 +1,15 @@
+CGROUP_FREEZER_ONLINE,VAR_0
+CGROUP_FREEZING,VAR_1
+CGROUP_FROZEN,VAR_2
+atomic_dec,FUNC_0
+atomic_inc,FUNC_1
+freeze_cgroup,FUNC_2
+freezer_mutex,VAR_3
+lockdep_assert_held,FUNC_3
+system_freezing_cnt,VAR_4
+unfreeze_cgroup,FUNC_4
+freezer_apply_state,FUNC_5
+freezer,VAR_5
+freeze,VAR_6
+state,VAR_7
+was_freezing,VAR_8

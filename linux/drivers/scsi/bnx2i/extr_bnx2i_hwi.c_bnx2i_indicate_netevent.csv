@@ -1,0 +1,14 @@
+ADAPTER_STATE_GOING_DOWN,VAR_0
+ADAPTER_STATE_UP,VAR_1
+bnx2i_drop_session,VAR_2
+bnx2i_get_link_state,FUNC_0
+bnx2i_send_fw_iscsi_init_msg,FUNC_1
+clear_bit,FUNC_2
+iscsi_host_for_each_session,FUNC_3
+set_bit,FUNC_4
+test_bit,FUNC_5
+bnx2i_indicate_netevent,FUNC_6
+context,VAR_3
+event,VAR_4
+vlan_id,VAR_5
+hba,VAR_6

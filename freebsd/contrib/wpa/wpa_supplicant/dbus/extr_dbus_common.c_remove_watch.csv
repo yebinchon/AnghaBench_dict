@@ -1,0 +1,14 @@
+DBUS_WATCH_READABLE,VAR_0
+DBUS_WATCH_WRITABLE,VAR_1
+EVENT_TYPE_EXCEPTION,VAR_2
+EVENT_TYPE_READ,VAR_3
+EVENT_TYPE_WRITE,VAR_4
+dbus_watch_get_flags,FUNC_0
+dbus_watch_get_unix_fd,FUNC_1
+dbus_watch_set_data,FUNC_2
+eloop_unregister_sock,FUNC_3
+remove_watch,FUNC_4
+watch,VAR_5
+data,VAR_6
+flags,VAR_7
+fd,VAR_8

@@ -1,0 +1,14 @@
+AdjustTokenPrivileges,FUNC_0
+CloseHandle,FUNC_1
+GetCurrentProcess,FUNC_2
+LookupPrivilegeValue,FUNC_3
+OpenProcessToken,FUNC_4
+SE_DEBUG_NAME,VAR_0
+SE_PRIVILEGE_ENABLED,VAR_1
+TOKEN_ADJUST_PRIVILEGES,VAR_2
+TOKEN_QUERY,VAR_3
+load_debug_privilege,FUNC_5
+flags,VAR_4
+tp,VAR_5
+token,VAR_6
+val,VAR_7

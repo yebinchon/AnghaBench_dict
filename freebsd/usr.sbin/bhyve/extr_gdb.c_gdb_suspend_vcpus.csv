@@ -1,0 +1,12 @@
+CPU_CMP,FUNC_0
+assert,FUNC_1
+ctx,VAR_0
+debug,FUNC_2
+gdb_finish_suspend_vcpus,FUNC_3
+gdb_lock,VAR_1
+pthread_mutex_isowned_np,FUNC_4
+vcpus_active,VAR_2
+vcpus_suspended,VAR_3
+vcpus_waiting,VAR_4
+vm_suspend_cpu,FUNC_5
+gdb_suspend_vcpus,FUNC_6

@@ -1,0 +1,11 @@
+V4L2_BUF_TYPE_VIDEO_OUTPUT,VAR_0
+get_q_data,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+v4l2_m2m_buf_done,FUNC_3
+v4l2_m2m_src_buf_remove,FUNC_4
+job_remove_src_buf,FUNC_5
+ctx,VAR_1
+state,VAR_2
+src_buf,VAR_3
+q_src,VAR_4

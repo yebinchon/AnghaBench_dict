@@ -1,0 +1,10 @@
+TASK_UNINTERRUPTIBLE,VAR_0
+__set_current_state,FUNC_0
+current,VAR_1
+io_schedule,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+dio_await_one,FUNC_4
+dio,VAR_2
+flags,VAR_3
+bio,VAR_4

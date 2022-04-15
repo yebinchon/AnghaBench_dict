@@ -1,0 +1,10 @@
+GFP_NOWAIT,VAR_0
+JZ_DMA_MAX_DESC,VAR_1
+dma_pool_alloc,FUNC_0
+kfree,FUNC_1
+kzalloc,FUNC_2
+jz4780_dma_desc_alloc,FUNC_3
+jzchan,VAR_2
+count,VAR_3
+type,VAR_4
+desc,VAR_5

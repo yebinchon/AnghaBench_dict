@@ -1,0 +1,17 @@
+CRT_ADDR,VAR_0
+drm_crtc_arm_vblank_event,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_vblank_get,FUNC_2
+drm_fb_cma_get_gem_obj,FUNC_3
+drm_pipe_to_aspeed_gfx,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+writel,FUNC_7
+aspeed_gfx_pipe_update,FUNC_8
+pipe,VAR_1
+plane_state,VAR_2
+priv,VAR_3
+crtc,VAR_4
+fb,VAR_5
+event,VAR_6
+gem,VAR_7

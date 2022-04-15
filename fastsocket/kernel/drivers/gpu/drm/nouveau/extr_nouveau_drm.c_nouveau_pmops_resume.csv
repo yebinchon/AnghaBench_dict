@@ -1,0 +1,14 @@
+DRM_SWITCH_POWER_OFF,VAR_0
+PCI_D0,VAR_1
+nouveau_do_resume,FUNC_0
+pci_enable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_restore_state,FUNC_3
+pci_set_master,FUNC_4
+pci_set_power_state,FUNC_5
+to_pci_dev,FUNC_6
+nouveau_pmops_resume,FUNC_7
+dev,VAR_2
+pdev,VAR_3
+drm_dev,VAR_4
+ret,VAR_5

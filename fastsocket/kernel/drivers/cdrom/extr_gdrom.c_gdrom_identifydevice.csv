@@ -1,0 +1,12 @@
+GDROM_COM_IDDEV,VAR_0
+GDROM_DATA_REG,VAR_1
+GDROM_STATUSCOMMAND_REG,VAR_2
+ctrl_inw,FUNC_0
+ctrl_outb,FUNC_1
+gdrom_getsense,FUNC_2
+gdrom_wait_busy_sleeps,FUNC_3
+gdrom_wait_clrbusy,FUNC_4
+gdrom_identifydevice,FUNC_5
+buf,VAR_3
+c,VAR_4
+data,VAR_5

@@ -1,0 +1,12 @@
+ST21NFCA_APDU_READER_GATE,VAR_0
+ST21NFCA_ESE_HOST_ID,VAR_1
+ST21NFCA_EVT_SE_SOFT_RESET,VAR_2
+ST21NFCA_SE_MODE_ON,VAR_3
+nfc_hci_send_event,FUNC_0
+nfc_remove_se,FUNC_1
+st21nfca_hci_control_se,FUNC_2
+st21nfca_se_get_atr,FUNC_3
+st21nfca_hci_enable_se,FUNC_4
+hdev,VAR_4
+se_idx,VAR_5
+r,VAR_6

@@ -1,0 +1,17 @@
+DONT_ATTACH_CONTINUE,VAR_0
+STOPPED,VAR_1
+TT_NIL,VAR_2
+TT_PROC_STOP,VAR_3
+VFORKING,VAR_4
+attach,FUNC_0
+call_real_ttrace,FUNC_1
+errno,VAR_5
+process_state,VAR_6
+update_thread_state_after_attach,FUNC_2
+hppa_require_attach,FUNC_3
+pid,VAR_7
+tt_status,VAR_8
+pc,VAR_9
+pc_addr,VAR_10
+regs_offset,VAR_11
+old_process_state,VAR_12

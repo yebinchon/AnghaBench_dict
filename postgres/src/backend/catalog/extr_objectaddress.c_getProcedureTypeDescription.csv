@@ -1,0 +1,16 @@
+ERROR,VAR_0
+GETSTRUCT,FUNC_0
+HeapTupleIsValid,FUNC_1
+ObjectIdGetDatum,FUNC_2
+PROCOID,VAR_1
+PROKIND_AGGREGATE,VAR_2
+PROKIND_PROCEDURE,VAR_3
+ReleaseSysCache,FUNC_3
+SearchSysCache1,FUNC_4
+appendStringInfoString,FUNC_5
+elog,FUNC_6
+getProcedureTypeDescription,FUNC_7
+buffer,VAR_4
+procid,VAR_5
+procTup,VAR_6
+procForm,VAR_7

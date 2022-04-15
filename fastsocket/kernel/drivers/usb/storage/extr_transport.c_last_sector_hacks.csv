@@ -1,0 +1,15 @@
+READ_10,VAR_0
+SAM_STAT_CHECK_CONDITION,VAR_1
+SAM_STAT_GOOD,VAR_2
+TEST_UNIT_READY,VAR_3
+WRITE_10,VAR_4
+memcpy,FUNC_0
+scsi_disk,FUNC_1
+scsi_get_resid,FUNC_2
+last_sector_hacks,FUNC_3
+us,VAR_5
+srb,VAR_6
+disk,VAR_7
+sdkp,VAR_8
+sector,VAR_9
+record_not_found,VAR_10

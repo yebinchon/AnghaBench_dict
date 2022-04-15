@@ -1,0 +1,10 @@
+MXC_W1_CONTROL,VAR_0
+MXC_W1_RESET_TIMEOUT,VAR_1
+__raw_readb,FUNC_0
+__raw_writeb,FUNC_1
+udelay,FUNC_2
+mxc_w1_ds2_reset_bus,FUNC_3
+data,VAR_2
+reg_val,VAR_3
+timeout_cnt,VAR_4
+dev,VAR_5

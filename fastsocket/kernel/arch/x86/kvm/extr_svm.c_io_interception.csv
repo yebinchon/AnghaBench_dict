@@ -1,0 +1,15 @@
+EMULATE_DO_MMIO,VAR_0
+SVM_IOIO_SIZE_MASK,VAR_1
+SVM_IOIO_SIZE_SHIFT,VAR_2
+SVM_IOIO_STR_MASK,VAR_3
+SVM_IOIO_TYPE_MASK,VAR_4
+emulate_instruction,FUNC_0
+kvm_emulate_pio,FUNC_1
+skip_emulated_instruction,FUNC_2
+io_interception,FUNC_3
+svm,VAR_5
+io_info,VAR_6
+size,VAR_7
+in,VAR_8
+string,VAR_9
+port,VAR_10

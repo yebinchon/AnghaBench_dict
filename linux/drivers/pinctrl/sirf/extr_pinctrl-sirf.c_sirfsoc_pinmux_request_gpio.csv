@@ -1,0 +1,11 @@
+SIRFSOC_GPIO_PAD_EN,FUNC_0
+pinctrl_dev_get_drvdata,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+sirfsoc_pinmux_request_gpio,FUNC_4
+pmxdev,VAR_0
+range,VAR_1
+offset,VAR_2
+spmx,VAR_3
+group,VAR_4
+muxval,VAR_5

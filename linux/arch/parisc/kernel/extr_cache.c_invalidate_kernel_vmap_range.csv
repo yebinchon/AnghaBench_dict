@@ -1,0 +1,12 @@
+CONFIG_SMP,VAR_0
+IS_ENABLED,FUNC_0
+arch_irqs_disabled,FUNC_1
+flush_data_cache,FUNC_2
+flush_tlb_kernel_range,FUNC_3
+parisc_cache_flush_threshold,VAR_1
+purge_kernel_dcache_range_asm,FUNC_4
+invalidate_kernel_vmap_range,FUNC_5
+vaddr,VAR_2
+size,VAR_3
+start,VAR_4
+end,VAR_5

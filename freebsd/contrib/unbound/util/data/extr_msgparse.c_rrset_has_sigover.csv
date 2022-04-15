@@ -1,0 +1,10 @@
+LDNS_RR_TYPE_RRSIG,VAR_0
+log_assert,FUNC_0
+pkt_rrsig_covered_equals,FUNC_1
+rrset_has_sigover,FUNC_2
+pkt,VAR_1
+rrset,VAR_2
+type,VAR_3
+hasother,VAR_4
+res,VAR_5
+rr,VAR_6

@@ -1,0 +1,16 @@
+EIO,VAR_0
+MDIO_AN_EEE_ADV,VAR_1
+MDIO_MMD_AN,VAR_2
+MDIO_MMD_PCS,VAR_3
+MDIO_PCS_EEE_ABLE,VAR_4
+ethtool_adv_to_mmd_eee_adv_t,FUNC_0
+phy_read_mmd,FUNC_1
+phy_restart_aneg,FUNC_2
+phy_write_mmd,FUNC_3
+phy_ethtool_set_eee,FUNC_4
+phydev,VAR_5
+data,VAR_6
+cap,VAR_7
+old_adv,VAR_8
+adv,VAR_9
+ret,VAR_10

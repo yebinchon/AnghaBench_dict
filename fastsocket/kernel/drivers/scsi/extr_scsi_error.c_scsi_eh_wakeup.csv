@@ -1,0 +1,6 @@
+SCSI_LOG_ERROR_RECOVERY,FUNC_0
+printk,FUNC_1
+trace_scsi_eh_wakeup,FUNC_2
+wake_up_process,FUNC_3
+scsi_eh_wakeup,FUNC_4
+shost,VAR_0

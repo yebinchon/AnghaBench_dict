@@ -1,0 +1,15 @@
+CGC_DATA_READ,VAR_0
+GPCMD_READ_TRACK_RZONE_INFO,VAR_1
+be16_to_cpu,FUNC_0
+init_cdrom_command,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+cdrom_get_track_info,FUNC_4
+cdi,VAR_2
+track,VAR_3
+type,VAR_4
+ti,VAR_5
+cdo,VAR_6
+cgc,VAR_7
+ret,VAR_8
+buflen,VAR_9

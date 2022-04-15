@@ -1,0 +1,12 @@
+HID_REQ_SET_REPORT,VAR_0
+PICOLCD_FAILED,VAR_1
+REPORT_LED_STATE,VAR_2
+hid_hw_request,FUNC_0
+hid_set_field,FUNC_1
+picolcd_out_report,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+picolcd_leds_set,FUNC_5
+data,VAR_3
+report,VAR_4
+flags,VAR_5

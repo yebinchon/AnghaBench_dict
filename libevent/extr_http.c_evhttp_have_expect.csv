@@ -1,0 +1,12 @@
+CONTINUE,VAR_0
+EVHTTP_REQUEST,VAR_1
+NO,VAR_2
+OTHER,VAR_3
+REQ_VERSION_ATLEAST,FUNC_0
+evhttp_find_header,FUNC_1
+evutil_ascii_strcasecmp,FUNC_2
+evhttp_have_expect,FUNC_3
+req,VAR_4
+input,VAR_5
+expect,VAR_6
+h,VAR_7

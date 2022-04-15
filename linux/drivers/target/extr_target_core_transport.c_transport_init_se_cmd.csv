@@ -1,0 +1,13 @@
+INIT_LIST_HEAD,FUNC_0
+INIT_WORK,FUNC_1
+init_completion,FUNC_2
+kref_init,FUNC_3
+spin_lock_init,FUNC_4
+transport_init_se_cmd,FUNC_5
+cmd,VAR_0
+tfo,VAR_1
+se_sess,VAR_2
+data_length,VAR_3
+data_direction,VAR_4
+task_attr,VAR_5
+sense_buffer,VAR_6

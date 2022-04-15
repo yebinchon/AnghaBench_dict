@@ -1,0 +1,6 @@
+DMF_BLOCK_IO_FOR_SUSPEND,VAR_0
+clear_bit,FUNC_0
+queue_work,FUNC_1
+smp_mb__after_clear_bit,FUNC_2
+dm_queue_flush,FUNC_3
+md,VAR_1

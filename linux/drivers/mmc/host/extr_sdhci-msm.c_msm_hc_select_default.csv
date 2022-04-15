@@ -1,0 +1,16 @@
+CORE_HC_MCLK_SEL_DFLT,VAR_0
+CORE_HC_MCLK_SEL_MASK,VAR_1
+CORE_HC_SELECT_IN_EN,VAR_2
+CORE_HC_SELECT_IN_MASK,VAR_3
+CORE_PWRSAVE_DLL,VAR_4
+readl_relaxed,FUNC_0
+sdhci_pltfm_priv,FUNC_1
+sdhci_priv,FUNC_2
+wmb,FUNC_3
+writel_relaxed,FUNC_4
+msm_hc_select_default,FUNC_5
+host,VAR_5
+pltfm_host,VAR_6
+msm_host,VAR_7
+config,VAR_8
+msm_offset,VAR_9

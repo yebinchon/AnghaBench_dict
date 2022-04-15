@@ -1,0 +1,13 @@
+CM_PLAYBACK_SPDF,VAR_0
+CM_REG_FUNCTRL1,VAR_1
+_snd_cmipci_uswitch_put,FUNC_0
+cmipci_switch_arg_spdif_enable,VAR_2
+cmipci_switch_arg_spdo2dac,VAR_3
+snd_cmipci_clear_bit,FUNC_1
+snd_cmipci_set_bit,FUNC_2
+snd_kcontrol_chip,FUNC_3
+snd_cmipci_spdout_enable_put,FUNC_4
+kcontrol,VAR_4
+ucontrol,VAR_5
+chip,VAR_6
+changed,VAR_7

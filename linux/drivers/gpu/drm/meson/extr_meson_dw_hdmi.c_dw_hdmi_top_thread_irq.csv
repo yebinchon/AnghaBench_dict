@@ -1,0 +1,11 @@
+HDMITX_TOP_INTR_HPD_FALL,VAR_0
+HDMITX_TOP_INTR_HPD_RISE,VAR_1
+IRQ_HANDLED,VAR_2
+drm_helper_hpd_irq_event,FUNC_0
+dw_hdmi_setup_rx_sense,FUNC_1
+dw_hdmi_top_thread_irq,FUNC_2
+irq,VAR_3
+dev_id,VAR_4
+dw_hdmi,VAR_5
+stat,VAR_6
+hpd_connected,VAR_7

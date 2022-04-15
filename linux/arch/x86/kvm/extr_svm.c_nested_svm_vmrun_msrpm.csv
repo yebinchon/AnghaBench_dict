@@ -1,0 +1,12 @@
+INTERCEPT_MSR_PROT,VAR_0
+MSRPM_OFFSETS,VAR_1
+__pa,FUNC_0
+__sme_set,FUNC_1
+kvm_vcpu_read_guest,FUNC_2
+msrpm_offsets,VAR_2
+nested_svm_vmrun_msrpm,FUNC_3
+svm,VAR_3
+i,VAR_4
+value,VAR_5
+p,VAR_6
+offset,VAR_7

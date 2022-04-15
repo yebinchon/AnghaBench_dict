@@ -1,0 +1,11 @@
+DNSSEC_ALLOW_DOWNGRADE,VAR_0
+DNSSEC_NO,VAR_1
+DNSSEC_YES,VAR_2
+IN_SET,FUNC_0
+_DNSSEC_MODE_INVALID,VAR_3
+assert,FUNC_1
+dns_cache_flush,FUNC_2
+log_warning,FUNC_3
+link_set_dnssec_mode,FUNC_4
+l,VAR_4
+mode,VAR_5

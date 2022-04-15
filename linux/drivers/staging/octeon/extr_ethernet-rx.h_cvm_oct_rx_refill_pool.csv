@@ -1,0 +1,10 @@
+CVMX_FPA_PACKET_POOL,VAR_0
+CVMX_FPA_PACKET_POOL_SIZE,VAR_1
+FAU_NUM_PACKET_BUFFERS_TO_FREE,VAR_2
+cvm_oct_mem_fill_fpa,FUNC_0
+cvmx_fau_atomic_add32,FUNC_1
+cvmx_fau_fetch_and_add32,FUNC_2
+cvm_oct_rx_refill_pool,FUNC_3
+fill_threshold,VAR_3
+number_to_free,VAR_4
+num_freed,VAR_5

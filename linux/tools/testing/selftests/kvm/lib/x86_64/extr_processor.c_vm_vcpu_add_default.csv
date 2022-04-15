@@ -1,0 +1,16 @@
+DEFAULT_GUEST_STACK_VADDR_MIN,VAR_0
+DEFAULT_STACK_PGS,VAR_1
+getpagesize,FUNC_0
+vcpu_regs_get,FUNC_1
+vcpu_regs_set,FUNC_2
+vcpu_set_mp_state,FUNC_3
+vcpu_setup,FUNC_4
+vm_vaddr_alloc,FUNC_5
+vm_vcpu_add,FUNC_6
+vm_vcpu_add_default,FUNC_7
+vm,VAR_2
+vcpuid,VAR_3
+guest_code,VAR_4
+mp_state,VAR_5
+regs,VAR_6
+stack_vaddr,VAR_7

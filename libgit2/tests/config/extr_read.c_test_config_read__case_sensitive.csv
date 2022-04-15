@@ -1,0 +1,15 @@
+buf,VAR_0
+cl_assert,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_fixture,FUNC_2
+cl_git_pass,FUNC_3
+cl_must_fail,FUNC_4
+git_buf_clear,FUNC_5
+git_buf_cstr,FUNC_6
+git_config_free,FUNC_7
+git_config_get_bool,FUNC_8
+git_config_get_string_buf,FUNC_9
+git_config_open_ondisk,FUNC_10
+test_config_read__case_sensitive,FUNC_11
+cfg,VAR_1
+i,VAR_2

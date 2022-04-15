@@ -1,0 +1,15 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA40_SHORT,VAR_1
+ATA_CBL_PATA80,VAR_2
+ali_cable_override,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+m5229_revision,VAR_3
+pci_read_config_byte,FUNC_3
+to_pci_dev,FUNC_4
+ali_cable_detect,FUNC_5
+hwif,VAR_4
+dev,VAR_5
+flags,VAR_6
+cbl,VAR_7
+tmpbyte,VAR_8

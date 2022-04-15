@@ -1,0 +1,16 @@
+BIO_free,FUNC_0
+BIO_new_file,FUNC_1
+DH_free,FUNC_2
+NGX_ERROR,VAR_0
+NGX_LOG_EMERG,VAR_1
+NGX_OK,VAR_2
+PEM_read_bio_DHparams,FUNC_3
+SSL_CTX_set_tmp_dh,FUNC_4
+ngx_conf_full_name,FUNC_5
+ngx_ssl_error,FUNC_6
+ngx_ssl_dhparam,FUNC_7
+cf,VAR_3
+ssl,VAR_4
+file,VAR_5
+dh,VAR_6
+bio,VAR_7

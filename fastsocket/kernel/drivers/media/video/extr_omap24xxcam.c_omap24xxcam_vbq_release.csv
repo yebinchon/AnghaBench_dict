@@ -1,0 +1,12 @@
+DMA_NONE,VAR_0
+V4L2_MEMORY_MMAP,VAR_1
+VIDEOBUF_NEEDS_INIT,VAR_2
+dma_unmap_sg,FUNC_0
+videobuf_dma_free,FUNC_1
+videobuf_dma_unmap,FUNC_2
+videobuf_to_dma,FUNC_3
+videobuf_waiton,FUNC_4
+omap24xxcam_vbq_release,FUNC_5
+vbq,VAR_3
+vb,VAR_4
+dma,VAR_5

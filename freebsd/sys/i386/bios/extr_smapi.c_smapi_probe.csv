@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+ENXIO,VAR_1
+RES2HDR,FUNC_0
+RF_ACTIVE,VAR_2
+SYS_RES_MEMORY,VAR_3
+bus_alloc_resource_any,FUNC_1
+bus_release_resource,FUNC_2
+device_printf,FUNC_3
+smapi_header_cksum,FUNC_4
+smapi_probe,FUNC_5
+dev,VAR_4
+res,VAR_5
+rid,VAR_6
+error,VAR_7

@@ -1,0 +1,11 @@
+qcom_smd_channel_intr,FUNC_0
+schedule_work,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_smd_endpoint,FUNC_4
+qcom_smd_announce_create,FUNC_5
+rpdev,VAR_0
+qept,VAR_1
+channel,VAR_2
+flags,VAR_3
+kick_state,VAR_4

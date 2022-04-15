@@ -1,0 +1,14 @@
+EAP_CODE_REQUEST,VAR_0
+EAP_VENDOR_TYPE_WSC,VAR_1
+EAP_VENDOR_WFA,VAR_2
+MSG_DEBUG,VAR_3
+MSG_ERROR,VAR_4
+WSC_Start,VAR_5
+eap_msg_alloc,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_put_u8,FUNC_2
+eap_wsc_build_start,FUNC_3
+sm,VAR_6
+data,VAR_7
+id,VAR_8
+req,VAR_9

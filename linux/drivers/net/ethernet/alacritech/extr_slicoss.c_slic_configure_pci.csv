@@ -1,0 +1,9 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_PARITY,VAR_1
+PCI_COMMAND_SERR,VAR_2
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+slic_configure_pci,FUNC_2
+pdev,VAR_3
+old,VAR_4
+cmd,VAR_5

@@ -1,0 +1,15 @@
+MENU_THUMBNAIL_LEFT,VAR_0
+MENU_THUMBNAIL_RIGHT,VAR_1
+config_get_ptr,FUNC_0
+cpu_features_get_time_usec,FUNC_1
+menu_navigation_get_selection,FUNC_2
+menu_thumbnail_is_enabled,FUNC_3
+menu_thumbnail_set_content_playlist,FUNC_4
+menu_thumbnail_update_path,FUNC_5
+playlist_get_cached,FUNC_6
+rgui_load_current_thumbnails,FUNC_7
+rgui_scan_selected_entry_thumbnail,FUNC_8
+rgui,VAR_2
+force_load,VAR_3
+has_thumbnail,VAR_4
+settings,VAR_5

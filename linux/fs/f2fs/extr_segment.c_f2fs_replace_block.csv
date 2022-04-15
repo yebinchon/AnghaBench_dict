@@ -1,0 +1,12 @@
+f2fs_do_replace_block,FUNC_0
+f2fs_update_data_blkaddr,FUNC_1
+set_summary,FUNC_2
+f2fs_replace_block,FUNC_3
+sbi,VAR_0
+dn,VAR_1
+old_addr,VAR_2
+new_addr,VAR_3
+version,VAR_4
+recover_curseg,VAR_5
+recover_newaddr,VAR_6
+sum,VAR_7

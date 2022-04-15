@@ -1,0 +1,15 @@
+CRYPTO_TFM_REQ_MAY_BACKLOG,VAR_0
+EBUSY,VAR_1
+EINPROGRESS,VAR_2
+artpec6_crypto_busy,FUNC_0
+artpec6_crypto_common_destroy,FUNC_1
+artpec6_crypto_dev,VAR_3
+artpec6_crypto_start_dma,FUNC_2
+dev_get_drvdata,FUNC_3
+list_add_tail,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+artpec6_crypto_submit,FUNC_7
+req,VAR_4
+ac,VAR_5
+ret,VAR_6

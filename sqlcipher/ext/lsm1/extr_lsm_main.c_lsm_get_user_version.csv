@@ -1,0 +1,10 @@
+LSM_OK,VAR_0
+assert,FUNC_0
+assert_db_state,FUNC_1
+dbReleaseClientSnapshot,FUNC_2
+lsmBeginReadTrans,FUNC_3
+lsmBeginRoTrans,FUNC_4
+lsm_get_user_version,FUNC_5
+pDb,VAR_1
+piUsr,VAR_2
+rc,VAR_3

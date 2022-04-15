@@ -1,0 +1,17 @@
+S_ISDIR,FUNC_0
+UDF_I,FUNC_1
+UDF_SB,FUNC_2
+clear_inode,FUNC_3
+le32_add_cpu,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+udf_free_blocks,FUNC_7
+udf_sb_lvidiu,FUNC_8
+udf_updated_lvid,FUNC_9
+vfs_dq_drop,FUNC_10
+vfs_dq_free_inode,FUNC_11
+udf_free_inode,FUNC_12
+inode,VAR_0
+sb,VAR_1
+sbi,VAR_2
+lvidiu,VAR_3

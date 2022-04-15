@@ -1,0 +1,14 @@
+R6XX_MAX_BACKENDS,VAR_0
+R6XX_MAX_PIPES,VAR_1
+memset,FUNC_0
+r600_get_tile_pipe_to_backend_map,FUNC_1
+num_tile_pipes,VAR_2
+num_backends,VAR_3
+backend_disable_mask,VAR_4
+backend_map,VAR_5
+enabled_backends_mask,VAR_6
+enabled_backends_count,VAR_7
+cur_pipe,VAR_8
+swizzle_pipe,VAR_9
+cur_backend,VAR_10
+i,VAR_11

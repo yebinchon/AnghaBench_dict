@@ -1,0 +1,13 @@
+PropModeReplace,VAR_0
+XA_STRING,VAR_1
+XA_WM_NAME,VAR_2
+XChangeProperty,FUNC_0
+g_x11_dpy,VAR_3
+g_x11_win,VAR_4
+strlen,FUNC_1
+video_driver_get_window_title,FUNC_2
+x11_update_title,FUNC_3
+data,VAR_5
+data2,VAR_6
+video_info,VAR_7
+title,VAR_8

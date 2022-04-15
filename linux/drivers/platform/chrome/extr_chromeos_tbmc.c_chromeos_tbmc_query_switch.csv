@@ -1,0 +1,11 @@
+ACPI_FAILURE,FUNC_0
+ENODEV,VAR_0
+SW_TABLET_MODE,VAR_1
+acpi_evaluate_integer,FUNC_1
+input_report_switch,FUNC_2
+input_sync,FUNC_3
+chromeos_tbmc_query_switch,FUNC_4
+adev,VAR_2
+idev,VAR_3
+state,VAR_4
+status,VAR_5

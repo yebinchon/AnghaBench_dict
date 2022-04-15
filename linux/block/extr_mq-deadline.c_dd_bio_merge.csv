@@ -1,0 +1,12 @@
+blk_mq_free_request,FUNC_0
+blk_mq_sched_try_merge,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+dd_bio_merge,FUNC_4
+hctx,VAR_0
+bio,VAR_1
+nr_segs,VAR_2
+q,VAR_3
+dd,VAR_4
+free,VAR_5
+ret,VAR_6

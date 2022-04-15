@@ -1,0 +1,15 @@
+EINTR,VAR_0
+WDIOC_SETOPTIONS,VAR_1
+WDIOS_DISABLECARD,VAR_2
+errno,VAR_3
+ioctl,FUNC_0
+log_error_errno,FUNC_1
+log_warning_errno,FUNC_2
+safe_close,FUNC_3
+watchdog_fd,VAR_4
+write,FUNC_4
+watchdog_close,FUNC_5
+disarm,VAR_5
+r,VAR_6
+flags,VAR_7
+v,VAR_8

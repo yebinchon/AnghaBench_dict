@@ -1,0 +1,9 @@
+KERN_FAILURE,VAR_0
+KTRACE_STATE_BG,VAR_1
+KTRACE_STATE_OFF,VAR_2
+assert,FUNC_0
+ktrace_background_available_notify_user,FUNC_1
+ktrace_release_ownership,FUNC_2
+ktrace_state,VAR_3
+should_notify_on_init,VAR_4
+ktrace_promote_background,FUNC_3

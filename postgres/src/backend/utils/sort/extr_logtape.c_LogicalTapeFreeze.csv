@@ -1,0 +1,17 @@
+Assert,FUNC_0
+BLCKSZ,VAR_0
+BufFileExportShared,FUNC_1
+TapeBlockGetNBytes,FUNC_2
+TapeBlockGetTrailer,FUNC_3
+TapeBlockIsLast,FUNC_4
+TapeBlockSetNBytes,FUNC_5
+VALGRIND_MAKE_MEM_DEFINED,FUNC_6
+ltsReadBlock,FUNC_7
+ltsWriteBlock,FUNC_8
+palloc,FUNC_9
+pfree,FUNC_10
+LogicalTapeFreeze,FUNC_11
+lts,VAR_1
+tapenum,VAR_2
+share,VAR_3
+lt,VAR_4

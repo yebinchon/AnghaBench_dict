@@ -1,0 +1,11 @@
+SW_TWSI_EOP_TWSI_RST,VAR_0
+TWSI_CTL_ENAB,VAR_1
+i2c_get_adapdata,FUNC_0
+octeon_i2c_ctl_write,FUNC_1
+octeon_i2c_hlc_disable,FUNC_2
+octeon_i2c_reg_write,FUNC_3
+octeon_i2c_write_int,FUNC_4
+udelay,FUNC_5
+octeon_i2c_prepare_recovery,FUNC_6
+adap,VAR_2
+i2c,VAR_3

@@ -1,0 +1,7 @@
+BITS_TX_BQ_START_ADDR_EN,VAR_0
+TX_BQ_REG_EN,VAR_1
+TX_BQ_START_ADDR,VAR_2
+writel_relaxed,FUNC_0
+hix5hd2_set_tx_bq,FUNC_1
+priv,VAR_3
+phy_addr,VAR_4

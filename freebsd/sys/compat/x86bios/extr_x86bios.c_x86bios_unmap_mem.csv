@@ -1,0 +1,13 @@
+M_DEVBUF,VAR_0
+X86BIOS_IVT_SIZE,VAR_1
+X86BIOS_ROM_SIZE,VAR_2
+X86BIOS_SEG_SIZE,VAR_3
+contigfree,FUNC_0
+free,FUNC_1
+pmap_unmapbios,FUNC_2
+pmap_unmapdev,FUNC_3
+x86bios_ivt,VAR_4
+x86bios_map,VAR_5
+x86bios_rom,VAR_6
+x86bios_seg,VAR_7
+x86bios_unmap_mem,FUNC_4

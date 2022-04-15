@@ -1,0 +1,11 @@
+HZ,VAR_0
+destroy_wait,VAR_1
+dprintk_rcu,FUNC_0
+list_empty,FUNC_1
+might_sleep,FUNC_2
+rcu_dereference,FUNC_3
+rpc_killall_tasks,FUNC_4
+rpc_release_client,FUNC_5
+wait_event_timeout,FUNC_6
+rpc_shutdown_client,FUNC_7
+clnt,VAR_2

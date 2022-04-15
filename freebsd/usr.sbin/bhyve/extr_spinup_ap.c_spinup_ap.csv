@@ -1,0 +1,14 @@
+VM_CAP_UNRESTRICTED_GUEST,VAR_0
+assert,FUNC_0
+fbsdrun_addcpu,FUNC_1
+fbsdrun_set_capabilities,FUNC_2
+guest_ncpus,VAR_1
+spinup_ap_realmode,FUNC_3
+vcpu_reset,FUNC_4
+vm_set_capability,FUNC_5
+spinup_ap,FUNC_6
+ctx,VAR_2
+vcpu,VAR_3
+newcpu,VAR_4
+rip,VAR_5
+error,VAR_6

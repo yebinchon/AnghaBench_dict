@@ -1,0 +1,12 @@
+BM_SAIF_CTRL_CLKGATE,VAR_0
+BM_SAIF_CTRL_SFTRST,VAR_1
+MXS_CLR_ADDR,VAR_2
+SAIF_CTRL,VAR_3
+__raw_writel,FUNC_0
+clk_prepare,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+mxs_saif_startup,FUNC_3
+substream,VAR_4
+cpu_dai,VAR_5
+saif,VAR_6
+ret,VAR_7

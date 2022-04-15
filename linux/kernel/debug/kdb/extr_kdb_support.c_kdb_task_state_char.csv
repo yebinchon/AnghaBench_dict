@@ -1,0 +1,17 @@
+EXIT_DEAD,VAR_0
+EXIT_ZOMBIE,VAR_1
+TASK_INTERRUPTIBLE,VAR_2
+TASK_STOPPED,VAR_3
+TASK_TRACED,VAR_4
+TASK_UNINTERRUPTIBLE,VAR_5
+is_idle_task,FUNC_0
+kdb_initial_cpu,VAR_6
+kdb_process_cpu,FUNC_1
+kdb_task_has_cpu,FUNC_2
+kgdb_info,VAR_7
+probe_kernel_read,FUNC_3
+kdb_task_state_char,FUNC_4
+p,VAR_8
+cpu,VAR_9
+state,VAR_10
+tmp,VAR_11

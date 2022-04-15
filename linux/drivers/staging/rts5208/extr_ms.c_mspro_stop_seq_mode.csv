@@ -1,0 +1,12 @@
+PRO_STOP,VAR_0
+RBCTL,VAR_1
+RB_FLUSH,VAR_2
+STATUS_SUCCESS,VAR_3
+WAIT_INT,VAR_4
+ms_send_cmd,FUNC_0
+ms_switch_clock,FUNC_1
+rtsx_write_register,FUNC_2
+mspro_stop_seq_mode,FUNC_3
+chip,VAR_5
+ms_card,VAR_6
+retval,VAR_7

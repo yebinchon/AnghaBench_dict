@@ -1,0 +1,17 @@
+CloseServiceHandle,FUNC_0
+GetLastError,FUNC_1
+OpenSCManagerW,FUNC_2
+OpenServiceW,FUNC_3
+SC_MANAGER_ENUMERATE_SERVICE,VAR_0
+SERVICE_START,VAR_1
+S_OK,VAR_2
+StartServiceW,FUNC_4
+VT_UI4,VAR_3
+map_error,FUNC_5
+set_variant,FUNC_6
+start_service,FUNC_7
+name,VAR_4
+retval,VAR_5
+manager,VAR_6
+service,VAR_7
+error,VAR_8

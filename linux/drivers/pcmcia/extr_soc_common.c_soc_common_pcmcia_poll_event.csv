@@ -1,0 +1,11 @@
+SOC_PCMCIA_POLL_PERIOD,VAR_0
+debug,FUNC_0
+from_timer,FUNC_1
+jiffies,VAR_1
+mod_timer,FUNC_2
+poll_timer,VAR_2
+skt,VAR_3
+soc_common_check_status,FUNC_3
+soc_common_pcmcia_poll_event,FUNC_4
+t,VAR_4
+skt,VAR_5

@@ -1,0 +1,15 @@
+ADIS_READ_REG,FUNC_0
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+iio_device_get_drvdata,FUNC_1
+kcalloc,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+spi_message_add_tail,FUNC_5
+spi_message_init,FUNC_6
+adis_update_scan_mode_burst,FUNC_7
+indio_dev,VAR_2
+scan_mask,VAR_3
+adis,VAR_4
+burst_length,VAR_5
+tx,VAR_6

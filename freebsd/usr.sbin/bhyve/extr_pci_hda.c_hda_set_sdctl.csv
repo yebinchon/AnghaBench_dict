@@ -1,0 +1,17 @@
+DPRINTF,FUNC_0
+HDAC_SDCTL0,VAR_0
+HDAC_SDCTL_RUN,VAR_1
+HDAC_SDCTL_SRST,VAR_2
+assert,FUNC_1
+hda_get_reg_by_offset,FUNC_2
+hda_get_stream_by_offsets,FUNC_3
+hda_stream_reset,FUNC_4
+hda_stream_start,FUNC_5
+hda_stream_stop,FUNC_6
+hda_set_sdctl,FUNC_7
+sc,VAR_3
+offset,VAR_4
+old,VAR_5
+stream_ind,VAR_6
+value,VAR_7
+err,VAR_8

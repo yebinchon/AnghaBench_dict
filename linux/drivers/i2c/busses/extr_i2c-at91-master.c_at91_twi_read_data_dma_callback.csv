@@ -1,0 +1,11 @@
+AT91_TWI_IER,VAR_0
+AT91_TWI_RXRDY,VAR_1
+AT91_TWI_TXCOMP,VAR_2
+DMA_FROM_DEVICE,VAR_3
+at91_twi_write,FUNC_0
+dma_unmap_single,FUNC_1
+sg_dma_address,FUNC_2
+at91_twi_read_data_dma_callback,FUNC_3
+data,VAR_4
+dev,VAR_5
+ier,VAR_6

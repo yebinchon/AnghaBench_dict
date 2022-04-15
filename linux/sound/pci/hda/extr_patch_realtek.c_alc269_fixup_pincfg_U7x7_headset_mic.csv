@@ -1,0 +1,11 @@
+AC_DEFCFG_DEVICE,VAR_0
+AC_DEFCFG_DEVICE_SHIFT,VAR_1
+AC_JACK_MIC_IN,VAR_2
+snd_hda_codec_get_pincfg,FUNC_0
+snd_hda_codec_set_pincfg,FUNC_1
+alc269_fixup_pincfg_U7x7_headset_mic,FUNC_2
+codec,VAR_3
+fix,VAR_4
+action,VAR_5
+cfg_headphone,VAR_6
+cfg_headset_mic,VAR_7

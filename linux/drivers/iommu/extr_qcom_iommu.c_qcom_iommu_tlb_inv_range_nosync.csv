@@ -1,0 +1,15 @@
+ARM_SMMU_CB_S1_TLBIVA,VAR_0
+ARM_SMMU_CB_S1_TLBIVAL,VAR_1
+iommu_writel,FUNC_0
+to_ctx,FUNC_1
+qcom_iommu_tlb_inv_range_nosync,FUNC_2
+iova,VAR_2
+size,VAR_3
+granule,VAR_4
+leaf,VAR_5
+cookie,VAR_6
+fwspec,VAR_7
+i,VAR_8
+reg,VAR_9
+ctx,VAR_10
+s,VAR_11

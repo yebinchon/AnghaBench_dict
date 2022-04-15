@@ -1,0 +1,13 @@
+gpiochip_get_data,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+superio_clear_mask,FUNC_3
+superio_enter,FUNC_4
+superio_exit,FUNC_5
+it87_gpio_direction_in,FUNC_6
+chip,VAR_0
+gpio_num,VAR_1
+mask,VAR_2
+group,VAR_3
+rc,VAR_4
+it87_gpio,VAR_5

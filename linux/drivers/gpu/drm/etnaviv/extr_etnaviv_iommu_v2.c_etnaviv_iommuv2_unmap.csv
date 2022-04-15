@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+MMUv2_MTLB_MASK,VAR_1
+MMUv2_MTLB_SHIFT,VAR_2
+MMUv2_PTE_EXCEPTION,VAR_3
+MMUv2_STLB_MASK,VAR_4
+MMUv2_STLB_SHIFT,VAR_5
+SZ_4K,VAR_6
+to_v2_context,FUNC_0
+etnaviv_iommuv2_unmap,FUNC_1
+context,VAR_7
+iova,VAR_8
+size,VAR_9
+etnaviv_domain,VAR_10
+mtlb_entry,VAR_11
+stlb_entry,VAR_12

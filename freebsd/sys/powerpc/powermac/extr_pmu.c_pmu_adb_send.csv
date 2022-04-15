@@ -1,0 +1,17 @@
+PMU_ADB_CMD,VAR_0
+device_get_softc,FUNC_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+pmu_poll,FUNC_3
+pmu_send,FUNC_4
+pmu_adb_send,FUNC_5
+dev,VAR_1
+command_byte,VAR_2
+len,VAR_3
+data,VAR_4
+poll,VAR_5
+sc,VAR_6
+i,VAR_7
+replen,VAR_8
+packet,VAR_9
+resp,VAR_10

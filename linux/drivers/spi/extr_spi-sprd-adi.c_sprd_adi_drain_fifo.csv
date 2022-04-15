@@ -1,0 +1,11 @@
+ADI_FIFO_DRAIN_TIMEOUT,VAR_0
+BIT_FIFO_EMPTY,VAR_1
+EBUSY,VAR_2
+REG_ADI_ARM_FIFO_STS,VAR_3
+cpu_relax,FUNC_0
+dev_err,FUNC_1
+readl_relaxed,FUNC_2
+sprd_adi_drain_fifo,FUNC_3
+sadi,VAR_4
+timeout,VAR_5
+sts,VAR_6

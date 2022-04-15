@@ -1,0 +1,12 @@
+IRQ_TYPE_EDGE_FALLING,VAR_0
+handle_edge_irq,VAR_1
+in_be32,FUNC_0
+irq_set_handler_locked,FUNC_1
+irqd_to_hwirq,FUNC_2
+mpc8xx_irqd_to_bit,FUNC_3
+out_be32,FUNC_4
+siu_reg,VAR_2
+mpc8xx_set_irq_type,FUNC_5
+d,VAR_3
+flow_type,VAR_4
+siel,VAR_5

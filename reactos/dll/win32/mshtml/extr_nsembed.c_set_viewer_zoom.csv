@@ -1,0 +1,17 @@
+ERR,FUNC_0
+IID_nsIDocShell,VAR_0
+NS_FAILED,FUNC_1
+NS_OK,VAR_1
+TRACE,FUNC_2
+assert,FUNC_3
+get_nsinterface,FUNC_4
+nsIContentViewer_Release,FUNC_5
+nsIContentViewer_SetFullZoom,FUNC_6
+nsIDocShell_GetContentViewer,FUNC_7
+nsIDocShell_Release,FUNC_8
+set_viewer_zoom,FUNC_9
+nscontainer,VAR_2
+factor,VAR_3
+content_viewer,VAR_4
+doc_shell,VAR_5
+nsres,VAR_6

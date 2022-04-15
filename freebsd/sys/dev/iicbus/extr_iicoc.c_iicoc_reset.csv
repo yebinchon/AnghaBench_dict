@@ -1,0 +1,11 @@
+device_get_softc,FUNC_0
+iicoc_init,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+iicoc_reset,FUNC_4
+dev,VAR_0
+speed,VAR_1
+addr,VAR_2
+oldadr,VAR_3
+error,VAR_4
+sc,VAR_5

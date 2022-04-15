@@ -1,0 +1,13 @@
+CKPT_HDR_LO_CKSUM2,VAR_0
+CKPT_HDR_LO_MSW,VAR_1
+assert,FUNC_0
+ckptAppend64,FUNC_1
+ckptSetValue,FUNC_2
+ckptExportLog,FUNC_3
+pDb,VAR_2
+bFlush,VAR_3
+p,VAR_4
+piOut,VAR_5
+pRc,VAR_6
+iOut,VAR_7
+iOff,VAR_8

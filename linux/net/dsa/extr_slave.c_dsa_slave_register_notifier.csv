@@ -1,0 +1,11 @@
+dsa_slave_nb,VAR_0
+dsa_slave_switchdev_blocking_notifier,VAR_1
+dsa_slave_switchdev_notifier,VAR_2
+register_netdevice_notifier,FUNC_0
+register_switchdev_blocking_notifier,FUNC_1
+register_switchdev_notifier,FUNC_2
+unregister_netdevice_notifier,FUNC_3
+unregister_switchdev_notifier,FUNC_4
+dsa_slave_register_notifier,FUNC_5
+nb,VAR_3
+err,VAR_4

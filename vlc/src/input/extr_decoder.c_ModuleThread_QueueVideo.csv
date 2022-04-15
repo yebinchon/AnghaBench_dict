@@ -1,0 +1,10 @@
+ModuleThread_PlayVideo,FUNC_0
+ModuleThread_UpdateStatVideo,FUNC_1
+VLC_SUCCESS,VAR_0
+assert,FUNC_2
+dec_get_owner,FUNC_3
+ModuleThread_QueueVideo,FUNC_4
+p_dec,VAR_1
+p_pic,VAR_2
+p_owner,VAR_3
+success,VAR_4

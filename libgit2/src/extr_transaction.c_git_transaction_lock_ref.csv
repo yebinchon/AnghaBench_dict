@@ -1,0 +1,12 @@
+GIT_ERROR_CHECK_ALLOC,FUNC_0
+assert,FUNC_1
+git_pool_mallocz,FUNC_2
+git_pool_strdup,FUNC_3
+git_refdb_lock,FUNC_4
+git_refdb_unlock,FUNC_5
+git_strmap_set,FUNC_6
+git_transaction_lock_ref,FUNC_7
+tx,VAR_0
+refname,VAR_1
+error,VAR_2
+node,VAR_3

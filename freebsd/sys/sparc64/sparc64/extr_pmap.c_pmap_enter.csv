@@ -1,0 +1,14 @@
+PMAP_LOCK,FUNC_0
+PMAP_UNLOCK,FUNC_1
+pmap_enter_locked,FUNC_2
+rw_wlock,FUNC_3
+rw_wunlock,FUNC_4
+tte_list_global_lock,VAR_0
+pmap_enter,FUNC_5
+pm,VAR_1
+va,VAR_2
+m,VAR_3
+prot,VAR_4
+flags,VAR_5
+psind,VAR_6
+rv,VAR_7

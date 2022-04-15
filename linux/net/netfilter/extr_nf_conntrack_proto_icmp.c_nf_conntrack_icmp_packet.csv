@@ -1,0 +1,15 @@
+NFPROTO_IPV4,VAR_0
+NF_ACCEPT,VAR_1
+nf_ct_dump_tuple_ip,FUNC_0
+nf_ct_net,FUNC_1
+nf_ct_refresh_acct,FUNC_2
+nf_ct_timeout_lookup,FUNC_3
+nf_icmp_pernet,FUNC_4
+pr_debug,FUNC_5
+nf_conntrack_icmp_packet,FUNC_6
+ct,VAR_2
+skb,VAR_3
+ctinfo,VAR_4
+state,VAR_5
+timeout,VAR_6
+valid_new,VAR_7

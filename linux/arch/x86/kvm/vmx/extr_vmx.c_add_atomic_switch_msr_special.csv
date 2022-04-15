@@ -1,0 +1,12 @@
+HOST_IA32_EFER,VAR_0
+vm_entry_controls_setbit,FUNC_0
+vm_exit_controls_setbit,FUNC_1
+vmcs_write64,FUNC_2
+add_atomic_switch_msr_special,FUNC_3
+vmx,VAR_1
+entry,VAR_2
+exit,VAR_3
+guest_val_vmcs,VAR_4
+host_val_vmcs,VAR_5
+guest_val,VAR_6
+host_val,VAR_7

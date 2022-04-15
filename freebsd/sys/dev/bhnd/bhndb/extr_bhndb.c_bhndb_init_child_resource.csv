@@ -1,0 +1,17 @@
+bus_space_subregion,FUNC_0
+rman_get_bushandle,FUNC_1
+rman_get_bustag,FUNC_2
+rman_get_virtual,FUNC_3
+rman_set_bushandle,FUNC_4
+rman_set_bustag,FUNC_5
+rman_set_virtual,FUNC_6
+bhndb_init_child_resource,FUNC_7
+r,VAR_0
+parent,VAR_1
+offset,VAR_2
+size,VAR_3
+bh,VAR_4
+child_bh,VAR_5
+bt,VAR_6
+vaddr,VAR_7
+error,VAR_8

@@ -1,0 +1,15 @@
+Assert,FUNC_0
+BITS_PER_LEADING_ZEROS,VAR_0
+COMPRESSION_ALGORITHM_GORILLA,VAR_1
+bit_array_iter_next_rev,FUNC_1
+bit_array_iterator_init_rev,FUNC_2
+compressed_gorilla_data_init_from_datum,FUNC_3
+gorilla_decompression_iterator_try_next_reverse,VAR_2
+palloc,FUNC_4
+simple8brle_decompression_iterator_init_reverse,FUNC_5
+simple8brle_decompression_iterator_try_next_reverse,FUNC_6
+gorilla_decompression_iterator_from_datum_reverse,FUNC_7
+gorilla_compressed,VAR_3
+element_type,VAR_4
+iter,VAR_5
+num_xor_bits,VAR_6

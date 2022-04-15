@@ -1,0 +1,15 @@
+EFER_LMA,VAR_0
+EFER_LME,VAR_1
+EFER_NX,VAR_2
+EFER_SCE,VAR_3
+MSR_EFER,VAR_4
+add_atomic_switch_msr,FUNC_0
+clear_atomic_switch_msr,FUNC_1
+cpu_has_load_ia32_efer,FUNC_2
+enable_ept,VAR_5
+host_efer,VAR_6
+update_transition_efer,FUNC_3
+vmx,VAR_7
+efer_offset,VAR_8
+guest_efer,VAR_9
+ignore_bits,VAR_10

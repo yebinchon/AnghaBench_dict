@@ -1,0 +1,11 @@
+NAU8825_HSD_AUTO_MODE,VAR_0
+NAU8825_REG_HSD_CTRL,VAR_1
+NAU8825_SPKR_DWN1L,VAR_2
+NAU8825_SPKR_DWN1R,VAR_3
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+nau8825_enable_jack_detect,FUNC_2
+component,VAR_4
+jack,VAR_5
+nau8825,VAR_6
+regmap,VAR_7

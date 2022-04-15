@@ -1,0 +1,13 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+ERESTARTSYS,VAR_0
+ETIMEDOUT,VAR_1
+completion,VAR_2
+dispc_irq_wait_handler,VAR_3
+omap_dispc_register_isr,FUNC_1
+omap_dispc_unregister_isr,FUNC_2
+wait_for_completion_interruptible_timeout,FUNC_3
+omap_dispc_wait_for_irq_interruptible_timeout,FUNC_4
+irqmask,VAR_4
+timeout,VAR_5
+r,VAR_6
+time_left,VAR_7

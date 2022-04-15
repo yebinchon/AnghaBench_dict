@@ -1,0 +1,11 @@
+KERNEL_PGD_BOUNDARY,VAR_0
+PREALLOCATED_PMDS,VAR_1
+PREALLOCATED_USER_PMDS,VAR_2
+X86_FEATURE_PTI,VAR_3
+boot_cpu_has,FUNC_0
+kernel_to_user_pgdp,FUNC_1
+mop_up_one_pmd,FUNC_2
+pgd_mop_up_pmds,FUNC_3
+mm,VAR_4
+pgdp,VAR_5
+i,VAR_6

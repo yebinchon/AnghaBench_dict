@@ -1,0 +1,11 @@
+HNS_ROCE_RST_DIRECT_RETURN,VAR_0
+HNS_ROCE_STATE_INITED,VAR_1
+HNS_ROCE_STATE_RST_DOWN,VAR_2
+IB_EVENT_DEVICE_FATAL,VAR_3
+clear_bit,FUNC_0
+ib_dispatch_event,FUNC_1
+set_bit,FUNC_2
+hns_roce_hw_v2_reset_notify_down,FUNC_3
+handle,VAR_4
+hr_dev,VAR_5
+event,VAR_6

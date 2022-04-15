@@ -1,0 +1,12 @@
+__netif_tx_trylock,FUNC_0
+__netif_tx_unlock,FUNC_1
+netif_tx_queue_stopped,FUNC_2
+netif_tx_wake_queue,FUNC_3
+reclaim_completed_tx,FUNC_4
+txq_avail,FUNC_5
+t4_sge_eth_txq_egress_update,FUNC_6
+adap,VAR_0
+eq,VAR_1
+maxreclaim,VAR_2
+q,VAR_3
+reclaimed,VAR_4

@@ -1,0 +1,11 @@
+ADPLL_CLKCTRL_IDLE,VAR_0
+ADPLL_CLKCTRL_OFFSET,VAR_1
+BIT,FUNC_0
+readl_relaxed,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel_relaxed,FUNC_4
+ti_adpll_set_idle_bypass,FUNC_5
+d,VAR_2
+flags,VAR_3
+v,VAR_4

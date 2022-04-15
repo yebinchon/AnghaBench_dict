@@ -1,0 +1,13 @@
+NET_THREAD_CKREQ_LLADDR,VAR_0
+current_proc,FUNC_0
+ifnet_lladdr_copy_bytes_internal,FUNC_1
+kauth_cred_proc_ref,FUNC_2
+kauth_cred_unref,FUNC_3
+net_thread_marks_pop,FUNC_4
+net_thread_marks_push,FUNC_5
+ifnet_guarded_lladdr_copy_bytes,FUNC_6
+interface,VAR_1
+lladdr,VAR_2
+length,VAR_3
+credp,VAR_4
+error,VAR_5

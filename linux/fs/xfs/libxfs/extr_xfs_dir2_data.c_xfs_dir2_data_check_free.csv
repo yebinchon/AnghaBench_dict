@@ -1,0 +1,14 @@
+XFS_DIR2_BLOCK_MAGIC,VAR_0
+XFS_DIR2_DATA_FREE_TAG,VAR_1
+XFS_DIR2_DATA_MAGIC,VAR_2
+XFS_DIR3_BLOCK_MAGIC,VAR_3
+XFS_DIR3_DATA_MAGIC,VAR_4
+__this_address,VAR_5
+be16_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+xfs_dir2_data_unused_tag_p,FUNC_2
+xfs_dir2_data_check_free,FUNC_3
+hdr,VAR_6
+dup,VAR_7
+offset,VAR_8
+len,VAR_9

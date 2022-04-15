@@ -1,0 +1,14 @@
+_repo,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_set_cleanup,FUNC_2
+cleanup_repository,VAR_1
+git_config_free,FUNC_3
+git_config_get_int32,FUNC_4
+git_config_set_int32,FUNC_5
+git_repository_config,FUNC_6
+git_repository_free,FUNC_7
+git_repository_init,FUNC_8
+test_repo_init__reinit_doesnot_overwrite_ignorecase,FUNC_9
+config,VAR_2
+current_value,VAR_3

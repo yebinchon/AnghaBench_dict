@@ -1,0 +1,15 @@
+Assert,FUNC_0
+ConditionVariableBroadcast,FUNC_1
+ERRCODE_OBJECT_NOT_IN_PREREQUISITE_STATE,VAR_0
+ERROR,VAR_1
+LWLockAcquire,FUNC_2
+LWLockRelease,FUNC_3
+LW_EXCLUSIVE,VAR_2
+ReplicationOriginLock,VAR_3
+ereport,FUNC_4
+errcode,FUNC_5
+errmsg,FUNC_6
+max_replication_slots,VAR_4
+session_replication_state,VAR_5
+replorigin_session_reset,FUNC_7
+cv,VAR_6

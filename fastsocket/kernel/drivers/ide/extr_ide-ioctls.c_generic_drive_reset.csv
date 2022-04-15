@@ -1,0 +1,11 @@
+READ,VAR_0
+REQ_DRIVE_RESET,VAR_1
+REQ_TYPE_SPECIAL,VAR_2
+__GFP_WAIT,VAR_3
+blk_execute_rq,FUNC_0
+blk_get_request,FUNC_1
+blk_put_request,FUNC_2
+generic_drive_reset,FUNC_3
+drive,VAR_4
+rq,VAR_5
+ret,VAR_6

@@ -1,0 +1,11 @@
+BUS_BIND_INTR,FUNC_0
+BUS_SETUP_INTR,FUNC_1
+INTR_MPSAFE,VAR_0
+INTR_TYPE_MISC,VAR_1
+device_get_parent,FUNC_2
+xen_hvm_set_callback,FUNC_3
+xenpci_intr_filter,VAR_2
+xenpci_irq_init,FUNC_4
+device,VAR_3
+scp,VAR_4
+error,VAR_5

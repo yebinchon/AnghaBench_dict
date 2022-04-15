@@ -1,0 +1,15 @@
+CTLFLAG_RD,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_UQUAD,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+sysctl_ctx_init,FUNC_3
+mlx5e_create_stats,FUNC_4
+ctx,VAR_2
+parent,VAR_3
+buffer,VAR_4
+desc,VAR_5
+num,VAR_6
+arg,VAR_7
+node,VAR_8
+x,VAR_9

@@ -1,0 +1,12 @@
+CFISCSI_SESSION_DEBUG,FUNC_0
+CFISCSI_SESSION_LOCK,FUNC_1
+CFISCSI_SESSION_UNLOCK,FUNC_2
+callout_drain,FUNC_3
+cfiscsi_session_delete,FUNC_4
+cfiscsi_session_terminate_tasks,FUNC_5
+cv_wait,FUNC_6
+icl_conn_close,FUNC_7
+kthread_exit,FUNC_8
+cfiscsi_maintenance_thread,FUNC_9
+arg,VAR_0
+cs,VAR_1

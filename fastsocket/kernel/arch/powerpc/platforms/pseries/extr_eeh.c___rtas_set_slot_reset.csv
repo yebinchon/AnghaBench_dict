@@ -1,0 +1,10 @@
+EEH_MODE_ISOLATED,VAR_0
+PCI_BUS_RST_HOLD_TIME_MSEC,VAR_1
+PCI_BUS_SETTLE_TIME_MSEC,VAR_2
+eeh_clear_slot,FUNC_0
+eeh_set_pe_freset,FUNC_1
+msleep,FUNC_2
+rtas_pci_slot_reset,FUNC_3
+__rtas_set_slot_reset,FUNC_4
+pdn,VAR_3
+freset,VAR_4

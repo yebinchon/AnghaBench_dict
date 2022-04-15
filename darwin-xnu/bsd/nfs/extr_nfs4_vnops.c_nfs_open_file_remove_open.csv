@@ -1,0 +1,17 @@
+NFS_OPEN_SHARE_ACCESS_BOTH,VAR_0
+NFS_OPEN_SHARE_ACCESS_READ,VAR_1
+NFS_OPEN_SHARE_ACCESS_WRITE,VAR_2
+NFS_OPEN_SHARE_DENY_NONE,VAR_3
+NFS_OPEN_SHARE_DENY_WRITE,VAR_4
+NP,FUNC_0
+kauth_cred_getuid,FUNC_1
+lck_mtx_lock,FUNC_2
+lck_mtx_unlock,FUNC_3
+nfs_open_file_remove_open_find,FUNC_4
+nfs_open_file_remove_open,FUNC_5
+nofp,VAR_5
+accessMode,VAR_6
+denyMode,VAR_7
+newAccessMode,VAR_8
+newDenyMode,VAR_9
+delegated,VAR_10

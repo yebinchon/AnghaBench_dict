@@ -1,0 +1,15 @@
+NO_OF_TLSP,VAR_0
+TEST_ASSERT_EQUAL,FUNC_0
+TLSP_SET_BASE,VAR_1
+del_cb,VAR_2
+pvTaskGetThreadLocalStoragePointer,FUNC_1
+task_storage,VAR_3
+vTaskDelete,FUNC_2
+vTaskSetThreadLocalStoragePointerAndDelCallback,FUNC_3
+xPortGetCoreID,FUNC_4
+task_cb,FUNC_5
+arg,VAR_4
+core,VAR_5
+i,VAR_6
+i,VAR_7
+tlsp,VAR_8

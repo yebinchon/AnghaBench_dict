@@ -1,0 +1,12 @@
+ALE_FLAG_LINK,VAR_0
+ALE_LOCK_ASSERT,FUNC_0
+IFCOUNTER_OERRORS,VAR_1
+IFF_DRV_RUNNING,VAR_2
+IFQ_DRV_IS_EMPTY,FUNC_1
+ale_init_locked,FUNC_2
+ale_start_locked,FUNC_3
+if_inc_counter,FUNC_4
+if_printf,FUNC_5
+ale_watchdog,FUNC_6
+sc,VAR_3
+ifp,VAR_4

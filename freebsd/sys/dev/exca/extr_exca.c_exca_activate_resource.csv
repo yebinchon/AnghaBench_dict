@@ -1,0 +1,15 @@
+BUS_ACTIVATE_RESOURCE,FUNC_0
+BUS_DEACTIVATE_RESOURCE,FUNC_1
+PCCARD_WIDTH_AUTO,VAR_0
+RF_ACTIVE,VAR_1
+device_get_parent,FUNC_2
+exca_io_map,FUNC_3
+exca_mem_map,FUNC_4
+rman_get_flags,FUNC_5
+exca_activate_resource,FUNC_6
+exca,VAR_2
+child,VAR_3
+type,VAR_4
+rid,VAR_5
+res,VAR_6
+err,VAR_7

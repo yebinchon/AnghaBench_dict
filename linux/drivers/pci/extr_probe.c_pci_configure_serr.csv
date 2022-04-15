@@ -1,0 +1,8 @@
+PCI_BRIDGE_CONTROL,VAR_0
+PCI_BRIDGE_CTL_SERR,VAR_1
+PCI_HEADER_TYPE_BRIDGE,VAR_2
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+pci_configure_serr,FUNC_2
+dev,VAR_3
+control,VAR_4

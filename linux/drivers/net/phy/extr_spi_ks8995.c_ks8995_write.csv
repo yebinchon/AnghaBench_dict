@@ -1,0 +1,17 @@
+KS8995_CMD_WRITE,VAR_0
+create_spi_cmd,FUNC_0
+memset,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+spi_message_add_tail,FUNC_4
+spi_message_init,FUNC_5
+spi_sync,FUNC_6
+ks8995_write,FUNC_7
+ks,VAR_1
+buf,VAR_2
+offset,VAR_3
+count,VAR_4
+cmd,VAR_5
+t,VAR_6
+m,VAR_7
+err,VAR_8

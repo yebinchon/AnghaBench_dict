@@ -1,0 +1,17 @@
+KVM_HW_BP,VAR_0
+KVM_HW_WP_WRITE,VAR_1
+KVM_SINGLESTEP,VAR_2
+any_wp_changed,FUNC_0
+find_hw_bp,FUNC_1
+guestdbg_hw_bp_enabled,FUNC_2
+guestdbg_sstep_enabled,FUNC_3
+per_bp_event,FUNC_4
+per_write_wp_event,FUNC_5
+debug_exit_required,FUNC_6
+vcpu,VAR_3
+perc,VAR_4
+peraddr,VAR_5
+debug_exit,VAR_6
+wp_info,VAR_7
+bp_info,VAR_8
+addr,VAR_9

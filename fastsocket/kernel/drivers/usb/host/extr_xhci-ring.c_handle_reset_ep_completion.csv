@@ -1,0 +1,16 @@
+EP_HALTED,VAR_0
+GET_COMP_CODE,FUNC_0
+TRB_TO_EP_INDEX,FUNC_1
+TRB_TO_SLOT_ID,FUNC_2
+XHCI_RESET_EP_QUIRK,VAR_1
+le32_to_cpu,FUNC_3
+ring_doorbell_for_active_rings,FUNC_4
+xhci_dbg,FUNC_5
+xhci_queue_configure_endpoint,FUNC_6
+xhci_ring_cmd_db,FUNC_7
+handle_reset_ep_completion,FUNC_8
+xhci,VAR_2
+event,VAR_3
+trb,VAR_4
+slot_id,VAR_5
+ep_index,VAR_6

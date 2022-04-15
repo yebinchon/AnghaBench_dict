@@ -1,0 +1,8 @@
+EXTIRQ_CFG_MASK,FUNC_0
+IRQ_EXT_BASE,VAR_0
+PERF_EXTIRQ_CFG_REG,VAR_1
+bcm_perf_readl,FUNC_1
+bcm_perf_writel,FUNC_2
+bcm63xx_external_irq_unmask,FUNC_3
+irq,VAR_2
+reg,VAR_3

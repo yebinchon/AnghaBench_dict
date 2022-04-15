@@ -1,0 +1,16 @@
+TSEC_MIIMIND_BUSY,VAR_0
+TSEC_PHY_LOCK,FUNC_0
+TSEC_PHY_UNLOCK,FUNC_1
+TSEC_PHY_WRITE,FUNC_2
+TSEC_REG_MIIMADD,VAR_1
+TSEC_REG_MIIMCON,VAR_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+tsec_mii_wait,FUNC_5
+tsec_miibus_writereg,FUNC_6
+dev,VAR_3
+phy,VAR_4
+reg,VAR_5
+value,VAR_6
+sc,VAR_7
+timeout,VAR_8

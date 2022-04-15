@@ -1,0 +1,17 @@
+IPL_NONE,VAR_0
+KM_SLEEP,VAR_1
+MUTEX_DEFAULT,VAR_2
+RW_READER,VAR_3
+RW_WRITER,VAR_4
+kmem_alloc,FUNC_0
+kmem_free,FUNC_1
+mutex_destroy,FUNC_2
+mutex_enter,FUNC_3
+mutex_init,FUNC_4
+rw_enter,FUNC_5
+rw_init,FUNC_6
+rumptest_lockme,FUNC_7
+what,VAR_5
+some,VAR_6
+mtx,VAR_7
+rw,VAR_8

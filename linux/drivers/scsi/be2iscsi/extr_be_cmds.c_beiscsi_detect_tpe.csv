@@ -1,0 +1,13 @@
+BEISCSI_HBA_IN_TPE,VAR_0
+KERN_INFO,VAR_1
+POST_ERR_RECOVERY_CODE_MASK,VAR_2
+POST_STAGE_MASK,VAR_3
+POST_STAGE_RECOVERABLE_ERR,VAR_4
+__beiscsi_log,FUNC_0
+beiscsi_get_post_stage,FUNC_1
+set_bit,FUNC_2
+beiscsi_detect_tpe,FUNC_3
+phba,VAR_5
+post,VAR_6
+status,VAR_7
+ret,VAR_8

@@ -1,0 +1,17 @@
+FALSE,VAR_0
+IDC_LONGDATEFMT_COMBO,VAR_1
+IDS_ERROR_SYMBOL_FORMAT_LONG,VAR_2
+MAX_SAMPLES_STR_SIZE,VAR_3
+PrintErrorMsgBox,FUNC_0
+SendDlgItemMessageW,FUNC_1
+TRUE,VAR_4
+WM_GETTEXT,VAR_5
+isDateCompAl,FUNC_2
+iswalnum,FUNC_3
+wcslen,FUNC_4
+SetLongDateFormat,FUNC_5
+hwndDlg,VAR_6
+pszLongDateFmt,VAR_7
+OpenApostFlg,VAR_8
+nFmtStrSize,VAR_9
+nDateCompCount,VAR_10

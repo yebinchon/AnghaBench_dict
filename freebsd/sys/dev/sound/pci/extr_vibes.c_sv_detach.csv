@@ -1,0 +1,14 @@
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+free,FUNC_3
+pcm_getdevinfo,FUNC_4
+pcm_unregister,FUNC_5
+sv_mix_mute_all,FUNC_6
+sv_power,FUNC_7
+sv_detach,FUNC_8
+dev,VAR_2
+sc,VAR_3
+r,VAR_4

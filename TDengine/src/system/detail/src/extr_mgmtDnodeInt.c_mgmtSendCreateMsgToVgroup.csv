@@ -1,0 +1,15 @@
+TSDB_MSG_TYPE_CREATE,VAR_0
+mgmtBuildCreateMeterIe,FUNC_0
+mgmtGetDnode,FUNC_1
+taosBuildReqMsgToDnodeWithSize,FUNC_2
+taosGetTimestampMs,FUNC_3
+taosSendMsgToDnode,FUNC_4
+mgmtSendCreateMsgToVgroup,FUNC_5
+pMeter,VAR_1
+pVgroup,VAR_2
+pMsg,VAR_3
+pStart,VAR_4
+i,VAR_5
+msgLen,VAR_6
+pObj,VAR_7
+timeStamp,VAR_8

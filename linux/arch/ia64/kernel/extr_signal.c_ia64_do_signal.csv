@@ -1,0 +1,14 @@
+EINTR,VAR_0
+SA_RESTART,VAR_1
+__NR_restart_syscall,VAR_2
+get_signal,FUNC_0
+handle_signal,FUNC_1
+ia64_decrement_ip,FUNC_2
+restore_saved_sigmask,FUNC_3
+unlikely,FUNC_4
+ia64_do_signal,FUNC_5
+scr,VAR_3
+in_syscall,VAR_4
+restart,VAR_5
+errno,VAR_6
+ksig,VAR_7

@@ -1,0 +1,16 @@
+DS620_COM_START,VAR_0
+DS620_REG_CONF,VAR_1
+DS620_REG_CONFIG_1SHOT,VAR_2
+DS620_REG_CONFIG_PO1,VAR_3
+DS620_REG_CONFIG_PO2,VAR_4
+DS620_REG_CONFIG_R0,VAR_5
+DS620_REG_CONFIG_R1,VAR_6
+dev_get_platdata,FUNC_0
+i2c_smbus_read_word_swapped,FUNC_1
+i2c_smbus_write_byte,FUNC_2
+i2c_smbus_write_word_swapped,FUNC_3
+ds620_init_client,FUNC_4
+client,VAR_7
+ds620_info,VAR_8
+conf,VAR_9
+new_conf,VAR_10

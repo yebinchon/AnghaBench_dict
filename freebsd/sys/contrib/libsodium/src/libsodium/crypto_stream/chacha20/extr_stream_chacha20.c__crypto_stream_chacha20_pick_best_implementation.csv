@@ -1,0 +1,7 @@
+crypto_stream_chacha20_dolbeau_avx2_implementation,VAR_0
+crypto_stream_chacha20_dolbeau_ssse3_implementation,VAR_1
+crypto_stream_chacha20_ref_implementation,VAR_2
+implementation,VAR_3
+sodium_runtime_has_avx2,FUNC_0
+sodium_runtime_has_ssse3,FUNC_1
+_crypto_stream_chacha20_pick_best_implementation,FUNC_2

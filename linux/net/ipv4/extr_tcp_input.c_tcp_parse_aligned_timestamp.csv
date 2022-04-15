@@ -1,0 +1,9 @@
+TCPOLEN_TIMESTAMP,VAR_0
+TCPOPT_NOP,VAR_1
+TCPOPT_TIMESTAMP,VAR_2
+htonl,FUNC_0
+ntohl,FUNC_1
+tcp_parse_aligned_timestamp,FUNC_2
+tp,VAR_3
+th,VAR_4
+ptr,VAR_5

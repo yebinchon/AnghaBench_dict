@@ -1,0 +1,13 @@
+NAND_BAM_NEXT_SGL,VAR_0
+NAND_EXEC_CMD,VAR_1
+NAND_FLASH_CMD,VAR_2
+NAND_FLASH_STATUS,VAR_3
+OP_RESET_DEVICE,VAR_4
+get_qcom_nand_controller,FUNC_0
+nandc_set_reg,FUNC_1
+read_reg_dma,FUNC_2
+write_reg_dma,FUNC_3
+reset,FUNC_4
+host,VAR_5
+chip,VAR_6
+nandc,VAR_7

@@ -1,0 +1,17 @@
+GIT_ENOTFOUND,VAR_0
+_repo,VAR_1
+_sig,VAR_2
+cl_assert,FUNC_0
+cl_git_fail_with,FUNC_1
+cl_git_pass,FUNC_2
+git_commit_free,FUNC_3
+git_commit_lookup,FUNC_4
+git_note_commit_create,FUNC_5
+git_note_commit_read,FUNC_6
+git_note_commit_remove,FUNC_7
+git_oid_fromstr,FUNC_8
+test_notes_notes__attempt_to_read_a_note_from_a_commit_with_no_note_fails,FUNC_9
+oid,VAR_3
+notes_commit_oid,VAR_4
+notes_commit,VAR_5
+note,VAR_6

@@ -1,0 +1,17 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__set_current_state,FUNC_1
+add_wait_queue_exclusive,FUNC_2
+atomic_read,FUNC_3
+current,VAR_2
+pfkey_table_lock,VAR_3
+pfkey_table_users,VAR_4
+pfkey_table_wait,VAR_5
+remove_wait_queue,FUNC_4
+schedule,FUNC_5
+set_current_state,FUNC_6
+wait,VAR_6
+write_lock_bh,FUNC_7
+write_unlock_bh,FUNC_8
+pfkey_table_grab,FUNC_9

@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+BP_GET_NDVAS,FUNC_1
+BP_IS_HOLE,FUNC_2
+FTAG,VAR_0
+RW_READER,VAR_1
+SCL_ALLOC,VAR_2
+metaslab_claim_dva,FUNC_3
+spa_config_enter,FUNC_4
+spa_config_exit,FUNC_5
+metaslab_claim,FUNC_6
+spa,VAR_3
+bp,VAR_4
+txg,VAR_5
+dva,VAR_6
+ndvas,VAR_7
+error,VAR_8
+d,VAR_9

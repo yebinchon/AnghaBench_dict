@@ -1,0 +1,9 @@
+TIMER0_RELOAD_OFF,VAR_0
+TIMER0_VAL_OFF,VAR_1
+TIMER_CTRL_OFF,VAR_2
+local_base,VAR_3
+timer0_ctrl_reg,VAR_4
+timer0_local_ctrl_reg,VAR_5
+timer_base,VAR_6
+writel,FUNC_0
+armada_370_xp_timer_resume,FUNC_1

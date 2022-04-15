@@ -1,0 +1,12 @@
+NBuffers,VAR_0
+SpinLockAcquire,FUNC_0
+SpinLockRelease,FUNC_1
+StrategyControl,VAR_1
+pg_atomic_compare_exchange_u32,FUNC_2
+pg_atomic_fetch_add_u32,FUNC_3
+ClockSweepTick,FUNC_4
+victim,VAR_2
+originalVictim,VAR_3
+expected,VAR_4
+wrapped,VAR_5
+success,VAR_6

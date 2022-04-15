@@ -1,0 +1,9 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+amr_init_sysctl,FUNC_4
+sc,VAR_3

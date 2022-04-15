@@ -1,0 +1,12 @@
+ENA_ADMIN_ACQ_COMMON_DESC_COMMAND_ID_MASK,VAR_0
+ENA_CMD_COMPLETED,VAR_1
+complete,FUNC_0
+get_comp_ctxt,FUNC_1
+memcpy,FUNC_2
+pr_err,FUNC_3
+unlikely,FUNC_4
+ena_com_handle_single_admin_completion,FUNC_5
+admin_queue,VAR_2
+cqe,VAR_3
+comp_ctx,VAR_4
+cmd_id,VAR_5

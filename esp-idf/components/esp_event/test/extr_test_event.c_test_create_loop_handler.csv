@@ -1,0 +1,12 @@
+ESP_OK,VAR_0
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_EVENT_BASE1_EV1,VAR_1
+esp_event_loop_create,FUNC_1
+esp_event_loop_delete,FUNC_2
+test_event_get_default_loop_args,FUNC_3
+test_create_loop_handler,FUNC_4
+handler_args,VAR_2
+base,VAR_3
+id,VAR_4
+event_data,VAR_5
+loop_args,VAR_6

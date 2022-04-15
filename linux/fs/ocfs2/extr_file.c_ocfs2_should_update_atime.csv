@@ -1,0 +1,16 @@
+MNT_NOATIME,VAR_0
+MNT_NODIRATIME,VAR_1
+MNT_RELATIME,VAR_2
+OCFS2_SB,FUNC_0
+SB_NODIRATIME,VAR_3
+S_ISDIR,FUNC_1
+S_NOATIME,VAR_4
+current_time,FUNC_2
+ocfs2_is_hard_readonly,FUNC_3
+ocfs2_is_soft_readonly,FUNC_4
+timespec64_compare,FUNC_5
+ocfs2_should_update_atime,FUNC_6
+inode,VAR_5
+vfsmnt,VAR_6
+now,VAR_7
+osb,VAR_8

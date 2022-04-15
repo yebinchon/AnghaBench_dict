@@ -1,0 +1,16 @@
+IPPROTO_TCP,VAR_0
+NF_INET_PRE_ROUTING,VAR_1
+TCPHDR_CWR,VAR_2
+TCPHDR_ECE,VAR_3
+TCPHDR_PSH,VAR_4
+nf_checksum,FUNC_0
+tcp_error_log,FUNC_1
+tcp_flag_byte,FUNC_2
+tcp_valid_flags,VAR_5
+tcp_error,FUNC_3
+th,VAR_6
+skb,VAR_7
+dataoff,VAR_8
+state,VAR_9
+tcplen,VAR_10
+tcpflags,VAR_11

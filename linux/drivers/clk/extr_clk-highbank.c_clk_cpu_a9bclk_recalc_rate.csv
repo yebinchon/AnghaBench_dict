@@ -1,0 +1,9 @@
+HB_A9_BCLK_DIV_MASK,VAR_0
+HB_A9_BCLK_DIV_SHIFT,VAR_1
+readl,FUNC_0
+to_hb_clk,FUNC_1
+clk_cpu_a9bclk_recalc_rate,FUNC_2
+hwclk,VAR_2
+parent_rate,VAR_3
+hbclk,VAR_4
+div,VAR_5

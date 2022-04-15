@@ -1,0 +1,15 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_INFO_JOINT_DUPLEX,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+snd_cs4231_capture_ops,VAR_4
+snd_cs4231_playback_ops,VAR_5
+snd_pcm_lib_preallocate_pages_for_all,FUNC_0
+snd_pcm_new,FUNC_1
+snd_pcm_set_ops,FUNC_2
+strcpy,FUNC_3
+snd_cs4231_pcm,FUNC_4
+card,VAR_6
+chip,VAR_7
+pcm,VAR_8
+err,VAR_9

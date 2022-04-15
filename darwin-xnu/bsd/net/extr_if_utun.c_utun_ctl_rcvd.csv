@@ -1,0 +1,15 @@
+ctl_getenqueuepacketcount,FUNC_0
+ifnet_enable_output,FUNC_1
+ifnet_lock_done,FUNC_2
+ifnet_lock_exclusive,FUNC_3
+printf,FUNC_4
+utun_ctl_rcvd,FUNC_5
+kctlref,VAR_0
+unit,VAR_1
+unitinfo,VAR_2
+flags,VAR_3
+reenable_output,VAR_4
+pcb,VAR_5
+utun_packet_cnt,VAR_6
+error_pc,VAR_7
+error,VAR_8

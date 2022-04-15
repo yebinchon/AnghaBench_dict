@@ -1,0 +1,12 @@
+RCC_GPIO_USE_SEL,VAR_0
+SYS_RES_IOPORT,VAR_1
+bus_release_resource,FUNC_0
+device_get_softc,FUNC_1
+gpiobus_detach_bus,FUNC_2
+mtx_destroy,FUNC_3
+rcc_gpio_modify_bits,FUNC_4
+rcc_pins,VAR_2
+rcc_gpio_detach,FUNC_5
+dev,VAR_3
+i,VAR_4
+sc,VAR_5

@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+IWM_MVM_CMD_QUEUE,VAR_2
+IWM_TX_RING_COUNT,VAR_3
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+iwm_pcie_clear_cmd_in_flight,FUNC_2
+m_freem,FUNC_3
+memset,FUNC_4
+iwm_reset_tx_ring,FUNC_5
+sc,VAR_4
+ring,VAR_5
+i,VAR_6
+data,VAR_7

@@ -1,0 +1,17 @@
+KERN_ERR,VAR_0
+OHCI1394_IsoXmitIntMaskSet,VAR_1
+OHCI1394_IsochronousCycleTimer,VAR_2
+PRINT,FUNC_0
+dma_prog_region_offset_to_bus,FUNC_1
+mb,FUNC_2
+reg_read,FUNC_3
+reg_write,FUNC_4
+udelay,FUNC_5
+wmb,FUNC_6
+ohci_iso_xmit_start,FUNC_7
+iso,VAR_3
+cycle,VAR_4
+xmit,VAR_5
+ohci,VAR_6
+start,VAR_7
+seconds,VAR_8

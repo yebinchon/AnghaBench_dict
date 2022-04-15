@@ -1,0 +1,14 @@
+AMDGPU_MAX_RINGS,VAR_0
+amdgpu_fence_driver_force_completion,FUNC_0
+amdgpu_fence_wait_empty,FUNC_1
+amdgpu_irq_put,FUNC_2
+del_timer_sync,FUNC_3
+dma_fence_put,FUNC_4
+drm_sched_fini,FUNC_5
+kfree,FUNC_6
+amdgpu_fence_driver_fini,FUNC_7
+adev,VAR_1
+i,VAR_2
+j,VAR_3
+r,VAR_4
+ring,VAR_5

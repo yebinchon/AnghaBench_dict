@@ -1,0 +1,8 @@
+DPU_REG_WRITE,FUNC_0
+dpu_intr_set,VAR_0
+dpu_irq_map,VAR_1
+wmb,FUNC_1
+dpu_hw_intr_clear_intr_status_nolock,FUNC_2
+intr,VAR_2
+irq_idx,VAR_3
+reg_idx,VAR_4

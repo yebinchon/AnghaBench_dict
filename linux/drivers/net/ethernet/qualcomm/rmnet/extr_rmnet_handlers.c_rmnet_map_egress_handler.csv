@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+ETH_P_MAP,VAR_1
+GFP_ATOMIC,VAR_2
+RMNET_FLAGS_EGRESS_MAP_CKSUMV4,VAR_3
+htons,FUNC_0
+pskb_expand_head,FUNC_1
+rmnet_map_add_map_header,FUNC_2
+rmnet_map_checksum_uplink_packet,FUNC_3
+skb_headroom,FUNC_4
+rmnet_map_egress_handler,FUNC_5
+skb,VAR_4
+port,VAR_5
+mux_id,VAR_6
+orig_dev,VAR_7
+required_headroom,VAR_8
+additional_header_len,VAR_9
+map_header,VAR_10

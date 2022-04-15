@@ -1,0 +1,13 @@
+BRNF_NF_BRIDGE_PREROUTING,VAR_0
+BRNF_PKT_TYPE,VAR_1
+PACKET_HOST,VAR_2
+PACKET_OTHERHOST,VAR_3
+bridge_parent,FUNC_0
+kfree_skb,FUNC_1
+neigh_hh_output,FUNC_2
+nf_bridge_pull_encap_header,FUNC_3
+skb_dst,FUNC_4
+stub1,FUNC_5
+br_nf_pre_routing_finish_bridge,FUNC_6
+skb,VAR_4
+dst,VAR_5

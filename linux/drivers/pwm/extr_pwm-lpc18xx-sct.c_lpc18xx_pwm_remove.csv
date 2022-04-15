@@ -1,0 +1,11 @@
+LPC18XX_PWM_CTRL,VAR_0
+LPC18XX_PWM_CTRL_HALT,VAR_1
+clk_disable_unprepare,FUNC_0
+lpc18xx_pwm_readl,FUNC_1
+lpc18xx_pwm_writel,FUNC_2
+platform_get_drvdata,FUNC_3
+pwmchip_remove,FUNC_4
+lpc18xx_pwm_remove,FUNC_5
+pdev,VAR_2
+lpc18xx_pwm,VAR_3
+val,VAR_4

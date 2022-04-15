@@ -1,0 +1,12 @@
+BIT,FUNC_0
+JZ4725B_CODEC_REG_PMR2,VAR_0
+REG_PMR2_SB_OFFSET,VAR_1
+REG_PMR2_SB_SLEEP_OFFSET,VAR_2
+msleep,FUNC_1
+regmap_update_bits,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+jz4725b_codec_set_bias_level,FUNC_4
+component,VAR_3
+level,VAR_4
+icdc,VAR_5
+map,VAR_6

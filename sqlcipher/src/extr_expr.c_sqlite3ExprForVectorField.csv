@@ -1,0 +1,13 @@
+EP_xIsSelect,VAR_0
+TK_SELECT,VAR_1
+TK_SELECT_COLUMN,VAR_2
+TK_VECTOR,VAR_3
+assert,FUNC_0
+sqlite3ExprDup,FUNC_1
+sqlite3PExpr,FUNC_2
+sqlite3RenameTokenRemap,FUNC_3
+sqlite3ExprForVectorField,FUNC_4
+pParse,VAR_4
+pVector,VAR_5
+iField,VAR_6
+pRet,VAR_7

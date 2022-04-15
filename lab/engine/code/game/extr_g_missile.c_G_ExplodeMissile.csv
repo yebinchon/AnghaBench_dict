@@ -1,0 +1,16 @@
+BG_EvaluateTrajectory,FUNC_0
+DirToByte,FUNC_1
+ET_GENERAL,VAR_0
+EV_MISSILE_MISS,VAR_1
+G_AddEvent,FUNC_2
+G_RadiusDamage,FUNC_3
+G_SetOrigin,FUNC_4
+SnapVector,FUNC_5
+g_entities,VAR_2
+level,VAR_3
+qtrue,VAR_4
+trap_LinkEntity,FUNC_6
+G_ExplodeMissile,FUNC_7
+ent,VAR_5
+dir,VAR_6
+origin,VAR_7

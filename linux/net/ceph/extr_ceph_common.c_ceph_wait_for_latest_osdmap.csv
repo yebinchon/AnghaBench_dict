@@ -1,0 +1,8 @@
+ceph_monc_get_version,FUNC_0
+ceph_monc_wait_osdmap,FUNC_1
+ceph_osdc_maybe_request_map,FUNC_2
+ceph_wait_for_latest_osdmap,FUNC_3
+client,VAR_0
+timeout,VAR_1
+newest_epoch,VAR_2
+ret,VAR_3

@@ -1,0 +1,15 @@
+CCGX_RAB_RESET_REQ,VAR_0
+CMD_RESET_DEV,VAR_1
+RESET_COMPLETE,VAR_2
+RESET_PENDING,VAR_3
+RESET_SIG,VAR_4
+ccg_send_command,FUNC_0
+clear_bit,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+set_bit,FUNC_4
+ccg_cmd_reset,FUNC_5
+uc,VAR_5
+cmd,VAR_6
+p,VAR_7
+ret,VAR_8

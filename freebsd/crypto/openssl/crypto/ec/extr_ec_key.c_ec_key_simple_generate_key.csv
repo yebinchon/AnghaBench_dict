@@ -1,0 +1,17 @@
+BN_CTX_free,FUNC_0
+BN_CTX_new,FUNC_1
+BN_free,FUNC_2
+BN_is_zero,FUNC_3
+BN_new,FUNC_4
+BN_priv_rand_range,FUNC_5
+EC_GROUP_get0_order,FUNC_6
+EC_POINT_free,FUNC_7
+EC_POINT_mul,FUNC_8
+EC_POINT_new,FUNC_9
+ec_key_simple_generate_key,FUNC_10
+eckey,VAR_0
+ok,VAR_1
+ctx,VAR_2
+priv_key,VAR_3
+order,VAR_4
+pub_key,VAR_5

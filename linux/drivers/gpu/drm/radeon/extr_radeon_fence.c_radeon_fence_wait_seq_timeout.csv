@@ -1,0 +1,16 @@
+EDEADLK,VAR_0
+RADEON_NUM_RINGS,VAR_1
+radeon_fence_any_seq_signaled,FUNC_0
+radeon_irq_kms_sw_irq_get,FUNC_1
+radeon_irq_kms_sw_irq_put,FUNC_2
+trace_radeon_fence_wait_begin,FUNC_3
+trace_radeon_fence_wait_end,FUNC_4
+wait_event_interruptible_timeout,FUNC_5
+wait_event_timeout,FUNC_6
+radeon_fence_wait_seq_timeout,FUNC_7
+rdev,VAR_2
+target_seq,VAR_3
+intr,VAR_4
+timeout,VAR_5
+r,VAR_6
+i,VAR_7

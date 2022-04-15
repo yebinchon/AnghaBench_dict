@@ -1,0 +1,11 @@
+IB_WC_WR_FLUSH_ERR,VAR_0
+is_hw_rq_empty,FUNC_0
+is_hw_sq_empty,FUNC_1
+ocrdma_hwq_inc_tail,FUNC_2
+ocrdma_update_wc,FUNC_3
+ocrdma_add_err_cqe,FUNC_4
+cq,VAR_1
+num_entries,VAR_2
+qp,VAR_3
+ibwc,VAR_4
+err_cqes,VAR_5

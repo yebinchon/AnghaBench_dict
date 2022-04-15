@@ -1,0 +1,14 @@
+HPSA_MAX_LUN,VAR_0
+HPSA_MAX_PHYS_LUN,VAR_1
+be32_to_cpu,FUNC_0
+dev_err,FUNC_1
+dev_warn,FUNC_2
+hpsa_scsi_do_report_log_luns,FUNC_3
+hpsa_scsi_do_report_phys_luns,FUNC_4
+hpsa_gather_lun_info,FUNC_5
+h,VAR_2
+reportlunsize,VAR_3
+physdev,VAR_4
+nphysicals,VAR_5
+logdev,VAR_6
+nlogicals,VAR_7

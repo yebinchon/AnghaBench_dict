@@ -1,0 +1,17 @@
+ACK_PENDING,VAR_0
+atomic_dec,FUNC_0
+hpsb_complete,VAR_1
+hpsb_free_packet,FUNC_1
+hpsb_pending,VAR_2
+jiffies,VAR_3
+list_del_init,FUNC_2
+mod_timer,FUNC_3
+pending_packets_lock,VAR_4
+queue_packet_complete,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+hpsb_packet_sent,FUNC_7
+host,VAR_5
+packet,VAR_6
+ackcode,VAR_7
+flags,VAR_8

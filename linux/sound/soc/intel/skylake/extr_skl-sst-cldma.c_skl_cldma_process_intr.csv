@@ -1,0 +1,9 @@
+SKL_ADSP_REG_CL_SD_STS,VAR_0
+SKL_CL_DMA_BUF_COMPLETE,VAR_1
+SKL_CL_DMA_ERR,VAR_2
+SKL_CL_DMA_SD_INT_COMPLETE,VAR_3
+sst_dsp_shim_read_unlocked,FUNC_0
+wake_up,FUNC_1
+skl_cldma_process_intr,FUNC_2
+ctx,VAR_4
+cl_dma_intr_status,VAR_5

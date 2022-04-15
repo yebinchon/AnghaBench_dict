@@ -1,0 +1,15 @@
+CGRP_FREEZE,VAR_0
+CGRP_FROZEN,VAR_1
+TRACE_CGROUP_PATH,FUNC_0
+__cgroup_task_count,FUNC_1
+cgroup_file_notify,FUNC_2
+cgroup_propagate_frozen,FUNC_3
+clear_bit,FUNC_4
+css_set_lock,VAR_2
+lockdep_assert_held,FUNC_5
+notify_frozen,VAR_3
+set_bit,FUNC_6
+test_bit,FUNC_7
+cgroup_update_frozen,FUNC_8
+cgrp,VAR_4
+frozen,VAR_5

@@ -1,0 +1,14 @@
+DMACLEAR,VAR_0
+IRQCONTROL,VAR_1
+SLDM_REG,FUNC_0
+SLIO_REG,FUNC_1
+SL_PCI_CONFIG,VAR_2
+SL_PCI_DDMACONTROL,VAR_3
+SL_PCI_LEGACYCONTROL,VAR_4
+outb,FUNC_2
+pci_set_master,FUNC_3
+pci_write_config_dword,FUNC_4
+pci_write_config_word,FUNC_5
+snd_es1938_reset,FUNC_6
+snd_es1938_chip_init,FUNC_7
+chip,VAR_5

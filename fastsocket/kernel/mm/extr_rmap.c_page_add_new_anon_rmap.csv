@@ -1,0 +1,16 @@
+LRU_ACTIVE_ANON,VAR_0
+NR_ANON_PAGES,VAR_1
+NR_ANON_TRANSPARENT_HUGEPAGES,VAR_2
+PageTransHuge,FUNC_0
+SetPageSwapBacked,FUNC_1
+VM_BUG_ON,FUNC_2
+__inc_zone_page_state,FUNC_3
+__page_set_anon_rmap,FUNC_4
+add_page_to_unevictable_list,FUNC_5
+atomic_set,FUNC_6
+lru_cache_add_lru,FUNC_7
+page_evictable,FUNC_8
+page_add_new_anon_rmap,FUNC_9
+page,VAR_3
+vma,VAR_4
+address,VAR_5

@@ -1,0 +1,11 @@
+SERPORT_ACTIVE,VAR_0
+clear_bit,FUNC_0
+serdev_controller_get_drvdata,FUNC_1
+stub1,FUNC_2
+tty_lock,FUNC_3
+tty_release_struct,FUNC_4
+tty_unlock,FUNC_5
+ttyport_close,FUNC_6
+ctrl,VAR_1
+serport,VAR_2
+tty,VAR_3

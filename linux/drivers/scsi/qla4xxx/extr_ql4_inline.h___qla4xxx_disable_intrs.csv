@@ -1,0 +1,11 @@
+AF_INTERRUPTS_ON,VAR_0
+CSR_SCSI_INTR_ENABLE,VAR_1
+IMR_SCSI_INTR_ENABLE,VAR_2
+clear_bit,FUNC_0
+clr_rmask,FUNC_1
+is_qla4022,FUNC_2
+is_qla4032,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+__qla4xxx_disable_intrs,FUNC_6
+ha,VAR_3

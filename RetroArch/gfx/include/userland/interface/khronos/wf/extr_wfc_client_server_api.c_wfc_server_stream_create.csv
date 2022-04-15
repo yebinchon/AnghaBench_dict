@@ -1,0 +1,16 @@
+VCOS_FUNCTION,VAR_0
+VCOS_SUCCESS,VAR_1
+WFC_INVALID_HANDLE,VAR_2
+WFC_IPC_MSG_SS_CREATE_INFO,VAR_3
+memset,FUNC_0
+vcos_log_trace,FUNC_1
+wfc_client_ipc_sendwait,FUNC_2
+wfc_server_stream_create,FUNC_3
+stream,VAR_4
+flags,VAR_5
+pid_lo,VAR_6
+pid_hi,VAR_7
+msg,VAR_8
+status,VAR_9
+result,VAR_10
+result_len,VAR_11

@@ -1,0 +1,16 @@
+IFF_DRV_OACTIVE,VAR_0
+IFF_DRV_RUNNING,VAR_1
+QLNX_STATE_OPEN,VAR_2
+QL_DPRINT1,FUNC_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+qlnx_rdma_dev_close,FUNC_3
+qlnx_unload,FUNC_4
+qlnx_vf_device,FUNC_5
+taskqueue_enqueue,FUNC_6
+qlnx_stop,FUNC_7
+ha,VAR_3
+ifp,VAR_4
+dev,VAR_5
+i,VAR_6
+fp,VAR_7

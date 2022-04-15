@@ -1,0 +1,14 @@
+GUEST_INTR_STATUS,VAR_0
+__kvm_apic_update_irr,FUNC_0
+find_last_bit,FUNC_1
+nested_mark_vmcs12_pages_dirty,FUNC_2
+pi_test_and_clear_on,FUNC_3
+to_vmx,FUNC_4
+vmcs_read16,FUNC_5
+vmcs_write16,FUNC_6
+vmx_complete_nested_posted_interrupt,FUNC_7
+vcpu,VAR_1
+vmx,VAR_2
+max_irr,VAR_3
+vapic_page,VAR_4
+status,VAR_5

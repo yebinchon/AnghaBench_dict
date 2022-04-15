@@ -1,0 +1,16 @@
+NFS3_POST_OP_ATTR_WORDS,VAR_0
+RETURN_STATUS,FUNC_0
+SVCFH_fmt,FUNC_1
+dprintk,FUNC_2
+fh_copy,FUNC_3
+min,FUNC_4
+nfsd_read,FUNC_5
+svc_max_payload,FUNC_6
+svc_reserve_auth,FUNC_7
+nfsd3_proc_read,FUNC_8
+rqstp,VAR_1
+argp,VAR_2
+resp,VAR_3
+nfserr,VAR_4
+max_blocksize,VAR_5
+cnt,VAR_6

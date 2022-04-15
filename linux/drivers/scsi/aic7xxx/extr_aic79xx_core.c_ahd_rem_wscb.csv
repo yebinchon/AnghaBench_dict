@@ -1,0 +1,16 @@
+AHD_ASSERT_MODES,FUNC_0
+AHD_MODE_SCSI_MSK,VAR_0
+SCBID_IS_NULL,FUNC_1
+SCB_NEXT,VAR_1
+WAITING_SCB_TAILS,VAR_2
+ahd_add_scb_to_free_list,FUNC_2
+ahd_inw,FUNC_3
+ahd_outw,FUNC_4
+ahd_set_scbptr,FUNC_5
+ahd_rem_wscb,FUNC_6
+ahd,VAR_3
+scbid,VAR_4
+prev,VAR_5
+next,VAR_6
+tid,VAR_7
+tail_offset,VAR_8

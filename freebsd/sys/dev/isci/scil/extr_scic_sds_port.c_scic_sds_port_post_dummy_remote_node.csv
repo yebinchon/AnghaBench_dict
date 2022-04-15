@@ -1,0 +1,11 @@
+SCU_CONTEXT_COMMAND_LOGICAL_PORT_SHIFT,VAR_0
+SCU_CONTEXT_COMMAND_POST_RNC_32,VAR_1
+SCU_CONTEXT_COMMAND_POST_RNC_SUSPEND_TX_RX,VAR_2
+SCU_DUMMY_INDEX,VAR_3
+TRUE,VAR_4
+scic_cb_stall_execution,FUNC_0
+scic_sds_controller_post_request,FUNC_1
+scic_sds_port_post_dummy_remote_node,FUNC_2
+this_port,VAR_5
+command,VAR_6
+rnc,VAR_7

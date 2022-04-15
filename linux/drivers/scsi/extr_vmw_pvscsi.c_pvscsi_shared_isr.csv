@@ -1,0 +1,10 @@
+IRQ_NONE,VAR_0
+PVSCSI_INTR_ALL_SUPPORTED,VAR_1
+pvscsi_isr,FUNC_0
+pvscsi_read_intr_status,FUNC_1
+pvscsi_write_intr_status,FUNC_2
+pvscsi_shared_isr,FUNC_3
+irq,VAR_2
+devp,VAR_3
+adapter,VAR_4
+val,VAR_5

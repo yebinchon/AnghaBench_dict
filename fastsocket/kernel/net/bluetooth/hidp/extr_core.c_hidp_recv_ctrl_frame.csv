@@ -1,0 +1,16 @@
+BT_DBG,FUNC_0
+HIDP_HEADER_PARAM_MASK,VAR_0
+HIDP_HEADER_TRANS_MASK,VAR_1
+HIDP_HSHK_ERR_UNSUPPORTED_REQUEST,VAR_2
+__hidp_send_ctrl_message,FUNC_1
+hidp_process_data,FUNC_2
+hidp_process_handshake,FUNC_3
+hidp_process_hid_control,FUNC_4
+kfree_skb,FUNC_5
+skb_pull,FUNC_6
+hidp_recv_ctrl_frame,FUNC_7
+session,VAR_3
+skb,VAR_4
+hdr,VAR_5
+type,VAR_6
+param,VAR_7

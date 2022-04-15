@@ -1,0 +1,14 @@
+au0828_start_transport,FUNC_0
+au0828_stop_transport,FUNC_1
+cancel_work_sync,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+start_urb_transfer,FUNC_5
+stop_urb_transfer,FUNC_6
+stub1,FUNC_7
+au0828_set_frontend,FUNC_8
+fe,VAR_0
+dev,VAR_1
+dvb,VAR_2
+ret,VAR_3
+was_streaming,VAR_4

@@ -1,0 +1,14 @@
+d_inode,FUNC_0
+ecryptfs_dentry_to_lower_path,FUNC_1
+ecryptfs_inode_to_lower,FUNC_2
+fsstack_copy_attr_all,FUNC_3
+generic_fillattr,FUNC_4
+vfs_getattr,FUNC_5
+ecryptfs_getattr,FUNC_6
+path,VAR_0
+stat,VAR_1
+request_mask,VAR_2
+flags,VAR_3
+dentry,VAR_4
+lower_stat,VAR_5
+rc,VAR_6

@@ -1,0 +1,12 @@
+CMD_ASE,VAR_0
+CMD_PSE,VAR_1
+EHCI_RH_RUNNING,VAR_2
+STS_ASS,VAR_3
+STS_PSS,VAR_4
+ehci_handshake,FUNC_0
+ehci_writel,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+ehci_quiesce,FUNC_4
+ehci,VAR_5
+temp,VAR_6

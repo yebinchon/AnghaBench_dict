@@ -1,0 +1,16 @@
+BFA_STATUS_OK,VAR_0
+BFI_FWBOOT_TYPE_MEMTEST,VAR_1
+BFI_IOC_INITING,VAR_2
+BFI_IOC_MEMTEST,VAR_3
+bfa_ioc_download_fw,FUNC_0
+bfa_ioc_lpu_start,FUNC_1
+bfa_ioc_msgflush,FUNC_2
+bfa_ioc_pll_init,FUNC_3
+bfa_ioc_set_alt_ioc_fwstate,FUNC_4
+bfa_ioc_set_cur_ioc_fwstate,FUNC_5
+bfa_ioc_stats,FUNC_6
+ioc_boots,VAR_4
+bfa_ioc_boot,FUNC_7
+ioc,VAR_5
+boot_type,VAR_6
+boot_env,VAR_7

@@ -1,0 +1,14 @@
+SCE_NET_EPOLLHUP,VAR_0
+SCE_NET_EPOLLIN,VAR_1
+SCE_NET_EPOLL_CTL_ADD,VAR_2
+SCE_NET_EPOLL_CTL_DEL,VAR_3
+sceNetEpollControl,FUNC_0
+sceNetEpollWait,FUNC_1
+select,FUNC_2
+socketselect,FUNC_3
+socket_select,FUNC_4
+nfds,VAR_4
+readfs,VAR_5
+writefds,VAR_6
+errorfds,VAR_7
+timeout,VAR_8

@@ -1,0 +1,17 @@
+ENTER,VAR_0
+IPR_INIT_HRRQ,VAR_1
+IPR_RC_JOB_RETURN,VAR_2
+LEAVE,VAR_3
+ipr_trace,VAR_4
+list_add_tail,FUNC_0
+scsi_unblock_requests,FUNC_1
+spin_lock,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock,FUNC_4
+spin_unlock_irq,FUNC_5
+wake_up_all,FUNC_6
+wmb,FUNC_7
+ipr_ioa_bringdown_done,FUNC_8
+ipr_cmd,VAR_5
+ioa_cfg,VAR_6
+i,VAR_7

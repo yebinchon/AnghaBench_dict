@@ -1,0 +1,16 @@
+btrfs_add_free_space,FUNC_0
+btrfs_error_discard_extent,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+do_trimming,FUNC_4
+block_group,VAR_0
+total_trimmed,VAR_1
+start,VAR_2
+bytes,VAR_3
+reserved_start,VAR_4
+reserved_bytes,VAR_5
+space_info,VAR_6
+fs_info,VAR_7
+ret,VAR_8
+update,VAR_9
+trimmed,VAR_10

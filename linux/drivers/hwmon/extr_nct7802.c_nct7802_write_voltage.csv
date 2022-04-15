@@ -1,0 +1,17 @@
+DIV_ROUND_CLOSEST,FUNC_0
+REG_VOLTAGE_LIMIT_LSB,VAR_0
+REG_VOLTAGE_LIMIT_MSB,VAR_1
+REG_VOLTAGE_LIMIT_MSB_SHIFT,VAR_2
+clamp_val,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+nct7802_vmul,VAR_3
+regmap_update_bits,FUNC_4
+regmap_write,FUNC_5
+nct7802_write_voltage,FUNC_6
+data,VAR_4
+nr,VAR_5
+index,VAR_6
+voltage,VAR_7
+shift,VAR_8
+err,VAR_9

@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+UART_GET_MSR,FUNC_0
+URMS_URDCTS,VAR_1
+URMS_URDDCD,VAR_2
+URMS_URDDST,VAR_3
+URMS_URTERI,VAR_4
+uart_handle_cts_change,FUNC_1
+uart_handle_dcd_change,FUNC_2
+wake_up_interruptible,FUNC_3
+ks8695uart_modem_status,FUNC_4
+irq,VAR_5
+dev_id,VAR_6
+port,VAR_7
+status,VAR_8

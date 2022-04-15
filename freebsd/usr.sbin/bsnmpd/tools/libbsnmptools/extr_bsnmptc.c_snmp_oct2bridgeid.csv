@@ -1,0 +1,11 @@
+SNMP_BRIDGEID_OCTETS,VAR_0
+SNMP_MAX_BRIDGE_PRIORITY,VAR_1
+sprintf,FUNC_0
+warnx,FUNC_1
+snmp_oct2bridgeid,FUNC_2
+len,VAR_2
+octets,VAR_3
+buf,VAR_4
+ptr,VAR_5
+i,VAR_6
+priority,VAR_7

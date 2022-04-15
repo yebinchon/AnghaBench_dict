@@ -1,0 +1,13 @@
+BESCR_PMEO,VAR_0
+COUNTER_OVERFLOW,VAR_1
+SPRN_BESCR,VAR_2
+SPRN_PMC5,VAR_3
+SPRN_PMC6,VAR_4
+count_pmc,FUNC_0
+ebb_state,VAR_5
+mfspr,FUNC_1
+pmc56_overflowed,VAR_6
+reset_ebb,FUNC_2
+sample_period,VAR_7
+ebb_callee,FUNC_3
+val,VAR_8

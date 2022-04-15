@@ -1,0 +1,9 @@
+IMM_NTFY_ELS,VAR_0
+NOTIFY24XX_FLAGS_PUREX_IOCB,VAR_1
+NOTIFY_ACK_TYPE,VAR_2
+cpu_to_le32,FUNC_0
+le16_to_cpu,FUNC_1
+qla2x00_send_notify_ack_iocb,FUNC_2
+sp,VAR_3
+nack,VAR_4
+ntfy,VAR_5

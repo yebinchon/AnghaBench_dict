@@ -1,0 +1,16 @@
+CALIBRATION_REG,VAR_0
+SELECT_8402_64XX_BIT,VAR_1
+SERIAL_CLOCK_BIT,VAR_2
+SERIAL_DATA_IN_BIT,VAR_3
+udelay,FUNC_0
+writew,FUNC_1
+ad8402_write,FUNC_2
+dev,VAR_4
+channel,VAR_5
+value,VAR_6
+devpriv,VAR_7
+bitstream_length,VAR_8
+bit,VAR_9
+register_bits,VAR_10
+bitstream,VAR_11
+ad8402_udelay,VAR_12

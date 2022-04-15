@@ -1,0 +1,16 @@
+CTSDUR_BA,VAR_0
+IEEE80211_FTYPE_CTL,VAR_1
+IEEE80211_STYPE_CTS,VAR_2
+PK_TYPE_11B,VAR_3
+cpu_to_le16,FUNC_0
+ether_addr_copy,FUNC_1
+vnt_get_phy_field,FUNC_2
+vnt_get_rtscts_duration_le,FUNC_3
+vnt_rxtx_datahead_g,FUNC_4
+vnt_fill_cts_head,FUNC_5
+tx_context,VAR_4
+head,VAR_5
+priv,VAR_6
+buf,VAR_7
+cts_frame_len,VAR_8
+current_rate,VAR_9

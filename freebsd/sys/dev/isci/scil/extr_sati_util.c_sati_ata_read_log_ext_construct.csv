@@ -1,0 +1,15 @@
+ATA_READ_LOG_EXT,VAR_0
+SATI_DATA_DIRECTION_IN,VAR_1
+SAT_PROTOCOL_PIO_DATA_IN,VAR_2
+sati_cb_get_h2d_register_fis_address,FUNC_0
+sati_set_ata_command,FUNC_1
+sati_set_ata_lba_low,FUNC_2
+sati_set_ata_lba_mid,FUNC_3
+sati_set_ata_lba_mid_exp,FUNC_4
+sati_set_ata_sector_count,FUNC_5
+sati_ata_read_log_ext_construct,FUNC_6
+ata_io,VAR_3
+sequence,VAR_4
+log_address,VAR_5
+transfer_length,VAR_6
+register_fis,VAR_7

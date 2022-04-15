@@ -1,0 +1,10 @@
+EDP_MAINLINK_CTRL_ENABLE,VAR_0
+EDP_MAINLINK_CTRL_RESET,VAR_1
+REG_EDP_MAINLINK_CTRL,VAR_2
+edp_write,FUNC_0
+usleep_range,FUNC_1
+wmb,FUNC_2
+edp_mainlink_ctrl,FUNC_3
+ctrl,VAR_3
+enable,VAR_4
+data,VAR_5

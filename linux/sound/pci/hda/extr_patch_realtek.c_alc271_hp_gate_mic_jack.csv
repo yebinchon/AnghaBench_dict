@@ -1,0 +1,12 @@
+HDA_FIXUP_ACT_PROBE,VAR_0
+alc_get_hp_pin,FUNC_0
+find_ext_mic_pin,FUNC_1
+snd_BUG_ON,FUNC_2
+snd_hda_jack_set_gating_jack,FUNC_3
+alc271_hp_gate_mic_jack,FUNC_4
+codec,VAR_1
+fix,VAR_2
+action,VAR_3
+spec,VAR_4
+mic_pin,VAR_5
+hp_pin,VAR_6

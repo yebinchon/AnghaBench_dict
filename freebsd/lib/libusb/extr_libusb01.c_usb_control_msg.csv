@@ -1,0 +1,15 @@
+LIBUSB20_CONTROL_SETUP,VAR_0
+LIBUSB20_INIT,FUNC_0
+libusb20_dev_request_sync,FUNC_1
+usb_control_msg,FUNC_2
+dev,VAR_1
+requesttype,VAR_2
+request,VAR_3
+value,VAR_4
+wIndex,VAR_5
+bytes,VAR_6
+size,VAR_7
+timeout,VAR_8
+req,VAR_9
+err,VAR_10
+actlen,VAR_11

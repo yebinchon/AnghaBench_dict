@@ -1,0 +1,16 @@
+EFSCORRUPTED,VAR_0
+EIO,VAR_1
+EXT4_GROUP_INFO_BBITMAP_CORRUPT,VAR_2
+buffer_new,FUNC_0
+buffer_uptodate,FUNC_1
+clear_buffer_new,FUNC_2
+ext4_error,FUNC_3
+ext4_get_group_desc,FUNC_4
+ext4_mark_group_bitmap_corrupted,FUNC_5
+ext4_validate_block_bitmap,FUNC_6
+wait_on_buffer,FUNC_7
+ext4_wait_block_bitmap,FUNC_8
+sb,VAR_3
+block_group,VAR_4
+bh,VAR_5
+desc,VAR_6

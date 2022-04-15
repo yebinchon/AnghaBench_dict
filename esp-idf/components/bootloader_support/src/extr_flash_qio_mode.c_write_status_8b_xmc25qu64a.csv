@@ -1,0 +1,8 @@
+CMD_OTPEN,VAR_0
+CMD_WRDI,VAR_1
+CMD_WRSR,VAR_2
+esp_rom_spiflash_wait_idle,FUNC_0
+execute_flash_command,FUNC_1
+g_rom_flashchip,VAR_3
+write_status_8b_xmc25qu64a,FUNC_2
+new_status,VAR_4

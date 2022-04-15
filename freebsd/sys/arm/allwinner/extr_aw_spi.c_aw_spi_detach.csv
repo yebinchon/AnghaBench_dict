@@ -1,0 +1,12 @@
+aw_spi_spec,VAR_0
+bus_generic_detach,FUNC_0
+bus_release_resources,FUNC_1
+bus_teardown_intr,FUNC_2
+clk_release,FUNC_3
+device_delete_child,FUNC_4
+device_get_softc,FUNC_5
+hwreset_assert,FUNC_6
+mtx_destroy,FUNC_7
+aw_spi_detach,FUNC_8
+dev,VAR_1
+sc,VAR_2

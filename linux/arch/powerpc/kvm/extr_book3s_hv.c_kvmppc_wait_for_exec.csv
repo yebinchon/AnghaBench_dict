@@ -1,0 +1,12 @@
+DEFINE_WAIT,FUNC_0
+KVMPPC_VCPU_RUNNABLE,VAR_0
+finish_wait,FUNC_1
+prepare_to_wait,FUNC_2
+schedule,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+wait,VAR_1
+kvmppc_wait_for_exec,FUNC_6
+vc,VAR_2
+vcpu,VAR_3
+wait_state,VAR_4

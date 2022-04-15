@@ -1,0 +1,13 @@
+I_NEW,VAR_0
+be32_to_cpu,FUNC_0
+hfs_read_inode,VAR_1
+hfs_test_inode,VAR_2
+iget5_locked,FUNC_1
+unlock_new_inode,FUNC_2
+hfs_iget,FUNC_3
+sb,VAR_3
+key,VAR_4
+rec,VAR_5
+data,VAR_6
+inode,VAR_7
+cnid,VAR_8

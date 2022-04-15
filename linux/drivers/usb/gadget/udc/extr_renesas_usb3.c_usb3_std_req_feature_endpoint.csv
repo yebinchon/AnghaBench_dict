@@ -1,0 +1,14 @@
+USB_ENDPOINT_HALT,VAR_0
+USB_ENDPOINT_NUMBER_MASK,VAR_1
+le16_to_cpu,FUNC_0
+usb3_get_ep,FUNC_1
+usb3_get_request,FUNC_2
+usb3_set_halt,FUNC_3
+usb3_start_pipen,FUNC_4
+usb3_std_req_feature_endpoint,FUNC_5
+usb3,VAR_2
+ctrl,VAR_3
+set,VAR_4
+num,VAR_5
+usb3_ep,VAR_6
+usb3_req,VAR_7

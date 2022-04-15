@@ -1,0 +1,17 @@
+AZX_DRIVER_SKL,VAR_0
+INTEL_HDA_CGCTL,VAR_1
+INTEL_HDA_CGCTL_MISCBDCGE,VAR_2
+IS_BXT,FUNC_0
+azx_bus,FUNC_1
+azx_init_chip,FUNC_2
+bxt_reduce_dma_latency,FUNC_3
+intel_init_lctl,FUNC_4
+pci_read_config_dword,FUNC_5
+pci_write_config_dword,FUNC_6
+snd_hdac_set_codec_wakeup,FUNC_7
+hda_intel_init_chip,FUNC_8
+chip,VAR_3
+full_reset,VAR_4
+bus,VAR_5
+pci,VAR_6
+val,VAR_7

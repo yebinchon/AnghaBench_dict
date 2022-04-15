@@ -1,0 +1,11 @@
+nouveau_is_optimus,FUNC_0
+nouveau_is_v1_dsm,FUNC_1
+nouveau_pmops_runtime,FUNC_2
+pci_is_thunderbolt_attached,FUNC_3
+vga_client_register,FUNC_4
+vga_switcheroo_fini_domain_pm_ops,FUNC_5
+vga_switcheroo_unregister_client,FUNC_6
+nouveau_vga_fini,FUNC_7
+drm,VAR_0
+dev,VAR_1
+runtime,VAR_2

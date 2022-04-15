@@ -1,0 +1,9 @@
+UNIPHIER_SD_DMA_RST,VAR_0
+UNIPHIER_SD_DMA_RST_CH0,VAR_1
+UNIPHIER_SD_DMA_RST_CH1,VAR_2
+readl,FUNC_0
+uniphier_sd_dma_endisable,FUNC_1
+writel,FUNC_2
+uniphier_sd_internal_dma_abort,FUNC_3
+host,VAR_3
+tmp,VAR_4

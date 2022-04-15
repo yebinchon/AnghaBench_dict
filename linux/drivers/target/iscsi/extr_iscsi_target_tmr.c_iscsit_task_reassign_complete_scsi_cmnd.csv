@@ -1,0 +1,16 @@
+ISTATE_SEND_STATUS,VAR_0
+SCF_SENT_CHECK_CONDITION,VAR_1
+iscsit_add_cmd_to_response_queue,FUNC_0
+iscsit_task_reassign_complete_none,FUNC_1
+iscsit_task_reassign_complete_read,FUNC_2
+iscsit_task_reassign_complete_write,FUNC_3
+iscsit_task_reassign_remove_cmd,FUNC_4
+list_add_tail,FUNC_5
+pr_err,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+iscsit_task_reassign_complete_scsi_cmnd,FUNC_9
+tmr_req,VAR_2
+conn,VAR_3
+cmd,VAR_4
+cr,VAR_5

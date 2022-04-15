@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+KVM_APIC_SIPI,VAR_1
+KVM_MP_STATE_INIT_RECEIVED,VAR_2
+KVM_MP_STATE_RUNNABLE,VAR_3
+KVM_MP_STATE_SIPI_RECEIVED,VAR_4
+KVM_REQ_EVENT,VAR_5
+is_smm,FUNC_0
+kvm_make_request,FUNC_1
+lapic_in_kernel,FUNC_2
+set_bit,FUNC_3
+vcpu_load,FUNC_4
+vcpu_put,FUNC_5
+kvm_arch_vcpu_ioctl_set_mpstate,FUNC_6
+vcpu,VAR_6
+mp_state,VAR_7
+ret,VAR_8

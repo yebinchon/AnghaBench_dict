@@ -1,0 +1,13 @@
+DMA_FROM_DEVICE,VAR_0
+MAX_COMMAND_SIZE,VAR_1
+MODE_SENSE,VAR_2
+MODE_SENSE_OMIT_BDESCS,VAR_3
+memset,FUNC_0
+st_do_scsi,FUNC_1
+st_release_request,FUNC_2
+read_mode_page,FUNC_3
+STp,VAR_4
+page,VAR_5
+omit_block_descs,VAR_6
+cmd,VAR_7
+SRpnt,VAR_8

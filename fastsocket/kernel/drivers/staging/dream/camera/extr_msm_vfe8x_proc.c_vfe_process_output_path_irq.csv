@@ -1,0 +1,12 @@
+VFE_MSG_ID_SNAPSHOT_DONE,VAR_0
+VFE_STATE_IDLE,VAR_1
+VFE_TEST_GEN_STOP,VAR_2
+ctrl,VAR_3
+vfe_pm_stop,FUNC_0
+vfe_process_frame_done_irq_multi_frag,FUNC_1
+vfe_process_frame_done_irq_no_frag,FUNC_2
+vfe_process_pingpong_irq,FUNC_3
+vfe_prog_hw_testgen_cmd,FUNC_4
+vfe_send_msg_no_payload,FUNC_5
+vfe_process_output_path_irq,FUNC_6
+irqstatus,VAR_4

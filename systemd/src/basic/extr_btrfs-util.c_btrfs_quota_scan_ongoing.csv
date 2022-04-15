@@ -1,0 +1,7 @@
+BTRFS_IOC_QUOTA_RESCAN_STATUS,VAR_0
+assert,FUNC_0
+errno,VAR_1
+ioctl,FUNC_1
+btrfs_quota_scan_ongoing,FUNC_2
+fd,VAR_2
+args,VAR_3

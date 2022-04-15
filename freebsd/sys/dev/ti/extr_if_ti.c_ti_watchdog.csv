@@ -1,0 +1,13 @@
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+TI_FLAG_DEBUGING,VAR_2
+TI_LOCK_ASSERT,FUNC_0
+callout_reset,FUNC_1
+hz,VAR_3
+if_inc_counter,FUNC_2
+if_printf,FUNC_3
+ti_init_locked,FUNC_4
+ti_watchdog,FUNC_5
+arg,VAR_4
+sc,VAR_5
+ifp,VAR_6

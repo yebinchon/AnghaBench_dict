@@ -1,0 +1,13 @@
+ENETRESET,VAR_0
+IFCOUNTER_OERRORS,VAR_1
+IPOIB_MCAST_FLAG_BUSY,VAR_2
+_IF_DRAIN,FUNC_0
+if_inc_counter,FUNC_1
+ipoib_dbg_mcast,FUNC_2
+ipoib_mcast_join_finish,FUNC_3
+test_and_clear_bit,FUNC_4
+ipoib_mcast_sendonly_join_complete,FUNC_5
+status,VAR_3
+multicast,VAR_4
+mcast,VAR_5
+priv,VAR_6

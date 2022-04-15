@@ -1,0 +1,16 @@
+GMR_DAYSTATE,VAR_0
+GWLP_ID,VAR_1
+GetWindowLongPtrW,FUNC_0
+MCN_GETDAYSTATE,VAR_2
+MCS_DAYSTATE,VAR_3
+MONTHCAL_GetMinDate,FUNC_1
+MONTHCAL_GetMonthRange,FUNC_2
+SendMessageW,FUNC_3
+WM_NOTIFY,VAR_4
+heap_alloc_zero,FUNC_4
+heap_free,FUNC_5
+memcpy,FUNC_6
+MONTHCAL_NotifyDayState,FUNC_7
+infoPtr,VAR_5
+state,VAR_6
+nmds,VAR_7

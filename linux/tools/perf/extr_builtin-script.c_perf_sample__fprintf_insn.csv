@@ -1,0 +1,16 @@
+BRSTACKINSN,VAR_0
+INSN,VAR_1
+INSNLEN,VAR_2
+PRINT_FIELD,FUNC_0
+arch_fetch_insn,FUNC_1
+fprintf,FUNC_2
+native_arch,VAR_3
+perf_sample__fprintf_brstackinsn,FUNC_3
+perf_sample__fprintf_insn,FUNC_4
+sample,VAR_4
+attr,VAR_5
+thread,VAR_6
+machine,VAR_7
+fp,VAR_8
+printed,VAR_9
+i,VAR_10

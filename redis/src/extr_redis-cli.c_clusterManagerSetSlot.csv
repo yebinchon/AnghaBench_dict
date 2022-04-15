@@ -1,0 +1,14 @@
+CLUSTER_MANAGER_COMMAND,FUNC_0
+CLUSTER_MANAGER_PRINT_REPLY_ERROR,FUNC_1
+REDIS_REPLY_ERROR,VAR_0
+freeReplyObject,FUNC_2
+strcpy,FUNC_3
+zmalloc,FUNC_4
+clusterManagerSetSlot,FUNC_5
+node1,VAR_1
+node2,VAR_2
+slot,VAR_3
+status,VAR_4
+err,VAR_5
+reply,VAR_6
+success,VAR_7

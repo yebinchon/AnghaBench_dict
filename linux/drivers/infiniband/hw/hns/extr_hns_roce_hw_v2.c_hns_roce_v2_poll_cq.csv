@@ -1,0 +1,14 @@
+hns_roce_v2_cq_set_ci,FUNC_0
+hns_roce_v2_poll_one,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_hr_cq,FUNC_4
+wmb,FUNC_5
+hns_roce_v2_poll_cq,FUNC_6
+ibcq,VAR_0
+num_entries,VAR_1
+wc,VAR_2
+hr_cq,VAR_3
+cur_qp,VAR_4
+flags,VAR_5
+npolled,VAR_6

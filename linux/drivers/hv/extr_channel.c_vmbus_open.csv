@@ -1,0 +1,13 @@
+__vmbus_open,FUNC_0
+vmbus_alloc_ring,FUNC_1
+vmbus_free_ring,FUNC_2
+vmbus_open,FUNC_3
+newchannel,VAR_0
+send_ringbuffer_size,VAR_1
+recv_ringbuffer_size,VAR_2
+userdata,VAR_3
+userdatalen,VAR_4
+onchannelcallback,VAR_5
+context,VAR_6
+context,VAR_7
+err,VAR_8

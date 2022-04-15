@@ -1,0 +1,12 @@
+EP93XX_SYSCON_DEVCFG,VAR_0
+EP93XX_SYSCON_SWLOCK,VAR_1
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+syscon_swlock,VAR_2
+ep93xx_devcfg_set_clear,FUNC_4
+set_bits,VAR_3
+clear_bits,VAR_4
+flags,VAR_5
+val,VAR_6

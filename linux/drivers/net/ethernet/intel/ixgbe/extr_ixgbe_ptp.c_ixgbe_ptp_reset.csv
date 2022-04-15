@@ -1,0 +1,14 @@
+ixgbe_mac_82598EB,VAR_0
+ixgbe_ptp_set_timestamp_mode,FUNC_0
+ixgbe_ptp_start_cyclecounter,FUNC_1
+jiffies,VAR_1
+ktime_get_real,FUNC_2
+ktime_to_ns,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+stub1,FUNC_6
+timecounter_init,FUNC_7
+ixgbe_ptp_reset,FUNC_8
+adapter,VAR_2
+hw,VAR_3
+flags,VAR_4

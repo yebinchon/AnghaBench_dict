@@ -1,0 +1,14 @@
+CHECK,FUNC_0
+SECP256K1_EC_COMPRESSED,VAR_0
+secp256k1_ec_pubkey_serialize,FUNC_1
+secp256k1_ecdsa_recover,FUNC_2
+secp256k1_ecdsa_recoverable_signature_parse_compact,FUNC_3
+bench_recover,FUNC_4
+arg,VAR_1
+i,VAR_2
+data,VAR_3
+pubkey,VAR_4
+pubkeyc,VAR_5
+j,VAR_6
+pubkeylen,VAR_7
+sig,VAR_8

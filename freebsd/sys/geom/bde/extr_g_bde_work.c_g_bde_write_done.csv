@@ -1,0 +1,17 @@
+BIO_DELETE,VAR_0
+BIO_WRITE,VAR_1
+EIO,VAR_2
+G_T_TOPOLOGY,VAR_3
+KASSERT,FUNC_0
+VALID,VAR_4
+g_bde_delete_sector,FUNC_1
+g_bde_work_done,FUNC_2
+g_destroy_bio,FUNC_3
+g_trace,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+g_bde_write_done,FUNC_7
+bp,VAR_5
+sp,VAR_6
+wp,VAR_7
+sc,VAR_8

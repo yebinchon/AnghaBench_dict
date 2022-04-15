@@ -1,0 +1,11 @@
+QM_CQE_PHASE,FUNC_0
+QM_DOORBELL_CMD_CQ,VAR_0
+atomic_dec,FUNC_1
+dma_rmb,FUNC_2
+qm_cq_head_update,FUNC_3
+qm_db,FUNC_4
+stub1,FUNC_5
+qm_poll_qp,FUNC_6
+qp,VAR_1
+qm,VAR_2
+cqe,VAR_3

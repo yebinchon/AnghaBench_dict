@@ -1,0 +1,13 @@
+SLI4_CMD_REG_FCFI_NUM_RQ_CFG,VAR_0
+SLI4_MBOX_COMMAND_REG_FCFI,VAR_1
+TRUE,VAR_2
+ocs_memset,FUNC_0
+sli_cmd_reg_fcfi,FUNC_1
+sli4,VAR_3
+buf,VAR_4
+size,VAR_5
+index,VAR_6
+rq_cfg,VAR_7
+vlan_id,VAR_8
+reg_fcfi,VAR_9
+i,VAR_10

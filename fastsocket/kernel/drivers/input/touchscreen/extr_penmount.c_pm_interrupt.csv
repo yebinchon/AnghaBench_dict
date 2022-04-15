@@ -1,0 +1,15 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+IRQ_HANDLED,VAR_3
+PM_MAX_LENGTH,VAR_4
+input_report_abs,FUNC_0
+input_report_key,FUNC_1
+input_sync,FUNC_2
+serio_get_drvdata,FUNC_3
+pm_interrupt,FUNC_4
+serio,VAR_5
+data,VAR_6
+flags,VAR_7
+pm,VAR_8
+dev,VAR_9

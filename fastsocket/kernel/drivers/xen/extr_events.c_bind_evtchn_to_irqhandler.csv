@@ -1,0 +1,11 @@
+bind_evtchn_to_irq,FUNC_0
+request_irq,FUNC_1
+unbind_from_irq,FUNC_2
+bind_evtchn_to_irqhandler,FUNC_3
+evtchn,VAR_0
+handler,VAR_1
+irqflags,VAR_2
+devname,VAR_3
+dev_id,VAR_4
+irq,VAR_5
+retval,VAR_6

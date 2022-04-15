@@ -1,0 +1,13 @@
+NFC_HCI_UICC_HOST_ID,VAR_0
+ST21NFCA_APDU_READER_GATE,VAR_1
+complete,FUNC_0
+del_timer_sync,FUNC_1
+nfc_hci_get_clientdata,FUNC_2
+pr_debug,FUNC_3
+st21nfca_hci_cmd_received,FUNC_4
+hdev,VAR_2
+pipe,VAR_3
+cmd,VAR_4
+skb,VAR_5
+info,VAR_6
+gate,VAR_7

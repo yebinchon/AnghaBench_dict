@@ -1,0 +1,16 @@
+IOCMD_PORT_CFG_ALPA,VAR_0
+IOCMD_PORT_CFG_SPEED,VAR_1
+IOCMD_PORT_CFG_TOPO,VAR_2
+IOCMD_PORT_CLR_ALPA,VAR_3
+bfa_fcport_cfg_hardalpa,FUNC_0
+bfa_fcport_cfg_speed,FUNC_1
+bfa_fcport_cfg_topology,FUNC_2
+bfa_fcport_clr_hardalpa,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+bfad_iocmd_set_port_cfg,FUNC_6
+bfad,VAR_4
+iocmd,VAR_5
+v_cmd,VAR_6
+cmd,VAR_7
+flags,VAR_8

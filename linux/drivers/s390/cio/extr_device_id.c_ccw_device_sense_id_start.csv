@@ -1,0 +1,17 @@
+CCW_CMD_SENSE_ID,VAR_0
+CCW_FLAG_SLI,VAR_1
+CIO_HEX_EVENT,FUNC_0
+CIO_TRACE_EVENT,FUNC_1
+SENSE_ID_RETRIES,VAR_2
+SENSE_ID_TIMEOUT,VAR_3
+ccw_request_start,FUNC_2
+memset,FUNC_3
+snsid_callback,VAR_4
+snsid_check,VAR_5
+snsid_init,FUNC_4
+to_subchannel,FUNC_5
+ccw_device_sense_id_start,FUNC_6
+cdev,VAR_6
+sch,VAR_7
+req,VAR_8
+cp,VAR_9

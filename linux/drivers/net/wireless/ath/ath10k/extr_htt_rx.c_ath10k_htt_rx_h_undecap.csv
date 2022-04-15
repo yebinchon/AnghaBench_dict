@@ -1,0 +1,16 @@
+MS,FUNC_0
+RX_MSDU_START_INFO1_DECAP_FORMAT,VAR_0
+__le32_to_cpu,FUNC_1
+ath10k_htt_rx_h_undecap_eth,FUNC_2
+ath10k_htt_rx_h_undecap_nwifi,FUNC_3
+ath10k_htt_rx_h_undecap_raw,FUNC_4
+ath10k_htt_rx_h_undecap_snap,FUNC_5
+ath10k_htt_rx_h_undecap,FUNC_6
+ar,VAR_1
+msdu,VAR_2
+status,VAR_3
+first_hdr,VAR_4
+enctype,VAR_5
+is_decrypted,VAR_6
+rxd,VAR_7
+decap,VAR_8

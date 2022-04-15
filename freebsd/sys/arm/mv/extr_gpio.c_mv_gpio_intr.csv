@@ -1,0 +1,16 @@
+FILTER_HANDLED,VAR_0
+GPIO_DATA_IN,VAR_1
+GPIO_INT_CAUSE,VAR_2
+GPIO_INT_EDGE_MASK,VAR_3
+GPIO_INT_LEV_MASK,VAR_4
+MV_GPIO_LOCK,FUNC_0
+MV_GPIO_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+mv_gpio_exec_intr_handlers,FUNC_3
+mv_gpio_reg_read,FUNC_4
+mv_gpio_intr,FUNC_5
+dev,VAR_5
+arg,VAR_6
+int_cause,VAR_7
+gpio_val,VAR_8
+sc,VAR_9

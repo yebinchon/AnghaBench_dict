@@ -1,0 +1,14 @@
+FALSE,VAR_0
+LAPIC_ISR_IS_SET,FUNC_0
+LAPIC_READ,FUNC_1
+LAPIC_REDUCED_INTERRUPT_BASE,VAR_1
+LAPIC_WRITE,FUNC_2
+TIMER,VAR_2
+TIMER_CURRENT_COUNT,VAR_3
+TIMER_INITIAL_COUNT,VAR_4
+_lapic_end_of_interrupt,FUNC_3
+kprintf,FUNC_4
+lapic_os_enabled,VAR_5
+ml_set_interrupts_enabled,FUNC_5
+lapic_smm_restore,FUNC_6
+state,VAR_6

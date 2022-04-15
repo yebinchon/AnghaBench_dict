@@ -1,0 +1,9 @@
+PCIX_COMMAND_REGISTER,VAR_0
+PCI_COMMAND,VAR_1
+PCI_COMMAND_PARITY,VAR_2
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+s2io_init_pci,FUNC_2
+sp,VAR_3
+pci_cmd,VAR_4
+pcix_cmd,VAR_5

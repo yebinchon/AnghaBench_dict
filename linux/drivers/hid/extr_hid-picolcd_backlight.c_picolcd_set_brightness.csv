@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+FB_BLANK_UNBLANK,VAR_1
+HID_REQ_SET_REPORT,VAR_2
+PICOLCD_FAILED,VAR_3
+REPORT_BRIGHTNESS,VAR_4
+bl_get_data,FUNC_0
+hid_hw_request,FUNC_1
+hid_set_field,FUNC_2
+picolcd_out_report,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+picolcd_set_brightness,FUNC_6
+bdev,VAR_5
+data,VAR_6
+report,VAR_7
+flags,VAR_8

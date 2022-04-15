@@ -1,0 +1,15 @@
+LWLockWaitListLock,FUNC_0
+LWLockWaitListUnlock,FUNC_1
+LW_FLAG_HAS_WAITERS,VAR_0
+LW_WAIT_UNTIL_FREE,VAR_1
+MyProc,VAR_2
+PANIC,VAR_3
+elog,FUNC_2
+lwWaitLink,VAR_4
+pg_atomic_fetch_add_u32,FUNC_3
+pg_atomic_fetch_or_u32,FUNC_4
+proclist_push_head,FUNC_5
+proclist_push_tail,FUNC_6
+LWLockQueueSelf,FUNC_7
+lock,VAR_5
+mode,VAR_6

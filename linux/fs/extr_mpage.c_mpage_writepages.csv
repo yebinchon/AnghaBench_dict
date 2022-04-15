@@ -1,0 +1,17 @@
+REQ_OP_WRITE,VAR_0
+REQ_SYNC,VAR_1
+WB_SYNC_ALL,VAR_2
+__mpage_writepage,VAR_3
+blk_finish_plug,FUNC_0
+blk_start_plug,FUNC_1
+generic_writepages,FUNC_2
+mpage_bio_submit,FUNC_3
+write_cache_pages,FUNC_4
+mpage_writepages,FUNC_5
+mapping,VAR_4
+wbc,VAR_5
+get_block,VAR_6
+plug,VAR_7
+ret,VAR_8
+mpd,VAR_9
+op_flags,VAR_10

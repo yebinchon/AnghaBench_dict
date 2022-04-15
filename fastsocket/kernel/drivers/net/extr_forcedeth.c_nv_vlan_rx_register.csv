@@ -1,0 +1,12 @@
+NVREG_TXRXCTL_VLANINS,VAR_0
+NVREG_TXRXCTL_VLANSTRIP,VAR_1
+NvRegTxRxControl,VAR_2
+get_hwbase,FUNC_0
+get_nvpriv,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+writel,FUNC_4
+nv_vlan_rx_register,FUNC_5
+dev,VAR_3
+grp,VAR_4
+np,VAR_5

@@ -1,0 +1,11 @@
+crypto_ecdh_deinit,FUNC_0
+eloop_cancel_timeout,FUNC_1
+os_free,FUNC_2
+pmksa_cache_deinit,FUNC_3
+wpa_sm_drop_sa,FUNC_4
+wpa_sm_rekey_ptk,VAR_0
+wpa_sm_start_preauth,VAR_1
+wpabuf_clear_free,FUNC_5
+wpabuf_free,FUNC_6
+wpa_sm_deinit,FUNC_7
+sm,VAR_2

@@ -1,0 +1,16 @@
+cancel_delayed_work_sync,FUNC_0
+cancel_work_sync,FUNC_1
+cfg80211_assoc_timeout,FUNC_2
+del_timer_sync,FUNC_3
+ieee80211_destroy_assoc_data,FUNC_4
+ieee80211_destroy_auth_data,FUNC_5
+kfree,FUNC_6
+kfree_skb,FUNC_7
+sdata_lock,FUNC_8
+sdata_unlock,FUNC_9
+spin_lock_bh,FUNC_10
+spin_unlock_bh,FUNC_11
+ieee80211_mgd_stop,FUNC_12
+sdata,VAR_0
+ifmgd,VAR_1
+bss,VAR_2

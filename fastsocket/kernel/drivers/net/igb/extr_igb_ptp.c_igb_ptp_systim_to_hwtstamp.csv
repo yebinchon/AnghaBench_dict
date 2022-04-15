@@ -1,0 +1,12 @@
+ktime_set,FUNC_0
+memset,FUNC_1
+ns_to_ktime,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+timecounter_cyc2time,FUNC_5
+igb_ptp_systim_to_hwtstamp,FUNC_6
+adapter,VAR_0
+hwtstamps,VAR_1
+systim,VAR_2
+flags,VAR_3
+ns,VAR_4

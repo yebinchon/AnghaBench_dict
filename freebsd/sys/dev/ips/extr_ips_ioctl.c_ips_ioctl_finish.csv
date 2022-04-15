@@ -1,0 +1,10 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+IPS_IOCTL_READ,VAR_2
+IPS_IOCTL_WRITE,VAR_3
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+ips_insert_free_cmd,FUNC_2
+ips_ioctl_finish,FUNC_3
+command,VAR_4
+ioctl_cmd,VAR_5

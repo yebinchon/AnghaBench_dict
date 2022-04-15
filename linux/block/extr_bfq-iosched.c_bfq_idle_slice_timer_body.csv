@@ -1,0 +1,13 @@
+BFQQE_BUDGET_TIMEOUT,VAR_0
+BFQQE_TOO_IDLE,VAR_1
+bfq_bfqq_budget_timeout,FUNC_0
+bfq_bfqq_expire,FUNC_1
+bfq_clear_bfqq_wait_request,FUNC_2
+bfq_schedule_dispatch,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+bfq_idle_slice_timer_body,FUNC_6
+bfqq,VAR_2
+bfqd,VAR_3
+reason,VAR_4
+flags,VAR_5

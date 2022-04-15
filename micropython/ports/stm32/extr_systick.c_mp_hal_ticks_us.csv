@@ -1,0 +1,11 @@
+HAL_GetTick,FUNC_0
+SysTick,VAR_0
+SysTick_CTRL_COUNTFLAG_Msk,VAR_1
+disable_irq,FUNC_1
+enable_irq,FUNC_2
+mp_hal_ticks_us,FUNC_3
+irq_state,VAR_2
+counter,VAR_3
+milliseconds,VAR_4
+status,VAR_5
+load,VAR_6

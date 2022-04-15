@@ -1,0 +1,13 @@
+DA9211_BUCK_MODE_AUTO,VAR_0
+DA9211_BUCK_MODE_SLEEP,VAR_1
+DA9211_BUCK_MODE_SYNC,VAR_2
+DA9211_REG_BUCKA_CONF,VAR_3
+rdev_get_drvdata,FUNC_0
+rdev_get_id,FUNC_1
+regmap_update_bits,FUNC_2
+da9211_buck_set_mode,FUNC_3
+rdev,VAR_4
+mode,VAR_5
+id,VAR_6
+chip,VAR_7
+val,VAR_8

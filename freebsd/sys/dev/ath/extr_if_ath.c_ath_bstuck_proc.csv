@@ -1,0 +1,12 @@
+ATH_ALQ_STUCK_BEACON,VAR_0
+ATH_RESET_NOLOSS,VAR_1
+ath_hal_gethangstate,FUNC_0
+ath_reset,FUNC_1
+device_printf,FUNC_2
+if_ath_alq_checkdebug,FUNC_3
+if_ath_alq_post,FUNC_4
+ath_bstuck_proc,FUNC_5
+arg,VAR_2
+pending,VAR_3
+sc,VAR_4
+hangs,VAR_5

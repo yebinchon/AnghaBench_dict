@@ -1,0 +1,15 @@
+CECEN,VAR_0
+CEC_CFGR,VAR_1
+CEC_CR,VAR_2
+CEC_LOG_ADDR_INVALID,VAR_3
+CEC_XFER_TIMEOUT_MS,VAR_4
+OAR,VAR_5
+TXSOM,VAR_6
+regmap_read_poll_timeout,FUNC_0
+regmap_update_bits,FUNC_1
+stm32_cec_adap_log_addr,FUNC_2
+adap,VAR_7
+logical_addr,VAR_8
+cec,VAR_9
+oar,VAR_10
+val,VAR_11

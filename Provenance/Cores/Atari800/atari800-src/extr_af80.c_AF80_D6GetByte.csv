@@ -1,0 +1,15 @@
+CPU_REMEMBER_PC_STEPS,VAR_0
+CPU_remember_PC,VAR_1
+CPU_remember_PC_curpos,VAR_2
+D,FUNC_0
+MEMORY_dGetByte,FUNC_1
+crtreg,VAR_3
+not_enable_2k_attribute_ram,VAR_4
+not_enable_2k_character_ram,VAR_5
+not_enable_crtc_registers,VAR_6
+printf,FUNC_2
+video_bank_select,VAR_7
+AF80_D6GetByte,FUNC_3
+addr,VAR_8
+no_side_effects,VAR_9
+result,VAR_10

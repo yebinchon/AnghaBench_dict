@@ -1,0 +1,12 @@
+REQ_TO_RAID_ACTION_RESULT,FUNC_0
+TRUE,VAR_0
+le16toh,FUNC_1
+memcpy,FUNC_2
+mpt_prt,FUNC_3
+mpt_raid_reply_frame_handler,FUNC_4
+mpt,VAR_1
+req,VAR_2
+reply_frame,VAR_3
+reply,VAR_4
+action_result,VAR_5
+rap,VAR_6

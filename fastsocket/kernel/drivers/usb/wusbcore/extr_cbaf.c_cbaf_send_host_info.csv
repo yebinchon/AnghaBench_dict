@@ -1,0 +1,17 @@
+CBAF_REQ_SET_ASSOCIATION_RESPONSE,VAR_0
+CBA_NAME_LEN,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_TYPE_CLASS,VAR_4
+cbaf_host_info_defaults,VAR_5
+cpu_to_le16,FUNC_0
+memset,FUNC_1
+strlcpy,FUNC_2
+strlen,FUNC_3
+usb_control_msg,FUNC_4
+usb_sndctrlpipe,FUNC_5
+cbaf_send_host_info,FUNC_6
+cbaf,VAR_6
+hi,VAR_7
+name_len,VAR_8
+hi_size,VAR_9

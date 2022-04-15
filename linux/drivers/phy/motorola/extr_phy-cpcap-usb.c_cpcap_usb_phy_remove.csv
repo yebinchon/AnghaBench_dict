@@ -1,0 +1,14 @@
+MUSB_VBUS_OFF,VAR_0
+atomic_set,FUNC_0
+cancel_delayed_work_sync,FUNC_1
+clk_unprepare,FUNC_2
+cpcap_usb_set_uart_mode,FUNC_3
+dev_err,FUNC_4
+musb_mailbox,FUNC_5
+platform_get_drvdata,FUNC_6
+regulator_disable,FUNC_7
+usb_remove_phy,FUNC_8
+cpcap_usb_phy_remove,FUNC_9
+pdev,VAR_1
+ddata,VAR_2
+error,VAR_3

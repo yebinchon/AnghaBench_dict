@@ -1,0 +1,15 @@
+MPASS,FUNC_0
+VM_OBJECT_ASSERT_WLOCKED,FUNC_1
+vm_fault_populate_check_page,FUNC_2
+vm_page_deactivate,FUNC_3
+vm_page_lock,FUNC_4
+vm_page_lookup,FUNC_5
+vm_page_next,FUNC_6
+vm_page_unlock,FUNC_7
+vm_page_xunbusy,FUNC_8
+vm_fault_populate_cleanup,FUNC_9
+object,VAR_0
+first,VAR_1
+last,VAR_2
+m,VAR_3
+pidx,VAR_4

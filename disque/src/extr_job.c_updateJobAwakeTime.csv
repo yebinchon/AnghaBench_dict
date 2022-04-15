@@ -1,0 +1,15 @@
+JOB_FLAG_BCAST_WILLQUEUE,VAR_0
+JOB_STATE_ACKED,VAR_1
+JOB_STATE_ACTIVE,VAR_2
+JOB_STATE_QUEUED,VAR_3
+JOB_WILLQUEUE_ADVANCE,VAR_4
+getNextGCRetryTime,FUNC_0
+server,VAR_5
+serverAssert,FUNC_1
+skiplistDelete,FUNC_2
+skiplistInsert,FUNC_3
+updateJobAwakeTime,FUNC_4
+j,VAR_6
+at,VAR_7
+retry_gc_again,VAR_8
+qtime,VAR_9

@@ -1,0 +1,9 @@
+ATF_REQUIRE,FUNC_0
+CLOCK_REALTIME,VAR_0
+clock_gettime,FUNC_1
+pthread_mutex_timedlock,FUNC_2
+timespecadd,FUNC_3
+mutex_lock,FUNC_4
+m,VAR_1
+ts,VAR_2
+ts_wait,VAR_3

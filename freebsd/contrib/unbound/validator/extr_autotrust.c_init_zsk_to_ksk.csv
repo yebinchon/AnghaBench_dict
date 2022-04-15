@@ -1,0 +1,15 @@
+AUTR_STATE_ADDPEND,VAR_0
+AUTR_STATE_VALID,VAR_1
+LDNS_RR_TYPE_DNSKEY,VAR_2
+VERB_ALGO,VAR_3
+set_trustanchor_state,FUNC_0
+sldns_wirerr_get_type,FUNC_1
+ta_is_dnskey_sep,FUNC_2
+verbose_key,FUNC_3
+init_zsk_to_ksk,FUNC_4
+env,VAR_4
+tp,VAR_5
+changed,VAR_6
+anchor,VAR_7
+validzsk,VAR_8
+validksk,VAR_9

@@ -1,0 +1,11 @@
+__ieee80211_stop_queue,FUNC_0
+hw_to_local,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ieee80211_stop_queue_by_reason,FUNC_4
+hw,VAR_0
+queue,VAR_1
+reason,VAR_2
+refcounted,VAR_3
+local,VAR_4
+flags,VAR_5

@@ -1,0 +1,11 @@
+DMA_PRIV_LOCK,FUNC_0
+DMA_PRIV_UNLOCK,FUNC_1
+bus_dmamap_destroy,FUNC_2
+bus_dmamap_unload,FUNC_3
+linux_dma_unmap_sg_attrs,FUNC_4
+dev,VAR_0
+sgl,VAR_1
+nents,VAR_2
+dir,VAR_3
+attrs,VAR_4
+priv,VAR_5

@@ -1,0 +1,12 @@
+GDT_ENTRY_TLS_MIN,VAR_0
+MULTI_update_descriptor,FUNC_0
+__xen_mc_entry,FUNC_1
+arbitrary_virt_to_machine,FUNC_2
+get_cpu_gdt_table,FUNC_3
+load_TLS_descriptor,FUNC_4
+t,VAR_1
+cpu,VAR_2
+i,VAR_3
+gdt,VAR_4
+maddr,VAR_5
+mc,VAR_6

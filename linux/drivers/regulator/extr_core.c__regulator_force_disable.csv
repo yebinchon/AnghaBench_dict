@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+NOTIFY_STOP_MASK,VAR_1
+REGULATOR_EVENT_ABORT_DISABLE,VAR_2
+REGULATOR_EVENT_DISABLE,VAR_3
+REGULATOR_EVENT_FORCE_DISABLE,VAR_4
+REGULATOR_EVENT_PRE_DISABLE,VAR_5
+_notifier_call_chain,FUNC_0
+_regulator_do_disable,FUNC_1
+lockdep_assert_held_once,FUNC_2
+rdev_err,FUNC_3
+_regulator_force_disable,FUNC_4
+rdev,VAR_6
+ret,VAR_7

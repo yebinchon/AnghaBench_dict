@@ -1,0 +1,14 @@
+get_mem,FUNC_0
+is_end_of_function_marker,FUNC_1
+is_ra_save_ins,FUNC_2
+is_sp_move_ins,FUNC_3
+unwind_user_frame,FUNC_4
+old_frame,VAR_0
+max_instr_check,VAR_1
+new_frame,VAR_2
+ra_offset,VAR_3
+stack_size,VAR_4
+addr,VAR_5
+ip,VAR_6
+stack_adjustment,VAR_7
+ra_slot,VAR_8

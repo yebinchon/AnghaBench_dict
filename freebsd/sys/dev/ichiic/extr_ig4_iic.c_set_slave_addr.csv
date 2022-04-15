@@ -1,0 +1,17 @@
+IG4_CTL_10BIT,VAR_0
+IG4_CTL_RESTARTEN,VAR_1
+IG4_I2C_ENABLE,VAR_2
+IG4_INTR_TX_EMPTY,VAR_3
+IG4_REG_CTL,VAR_4
+IG4_REG_TAR_ADD,VAR_5
+IG4_TAR_10BIT,VAR_6
+reg_read,FUNC_0
+reg_write,FUNC_1
+set_controller,FUNC_2
+wait_intr,FUNC_3
+set_slave_addr,FUNC_4
+sc,VAR_7
+slave,VAR_8
+tar,VAR_9
+ctl,VAR_10
+use_10bit,VAR_11

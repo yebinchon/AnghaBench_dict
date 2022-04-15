@@ -1,0 +1,13 @@
+HOSTRCB_NOTIFICATIONS_LOST,VAR_0
+NOTIFICATION_TYPE_ERROR_LOG,VAR_1
+PMCRAID_IOASC_UA_BUS_WAS_RESET,VAR_2
+PMCRAID_IOASC_UA_BUS_WAS_RESET_BY_OTHER,VAR_3
+RES_BUS,FUNC_0
+dev_info,FUNC_1
+le32_to_cpu,FUNC_2
+pmcraid_info,FUNC_3
+scsi_report_bus_reset,FUNC_4
+pmcraid_handle_error_log,FUNC_5
+pinstance,VAR_4
+hcam_ldn,VAR_5
+ioasc,VAR_6

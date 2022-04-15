@@ -1,0 +1,15 @@
+LZ4_attach_HC_dictionary,FUNC_0
+LZ4_createStreamHC,FUNC_1
+LZ4_freeStreamHC,FUNC_2
+LZ4_loadDictHC,FUNC_3
+LZ4_setCompressionLevel,FUNC_4
+LZ4_setStreamDecode,FUNC_5
+state_extDictHCRoundTrip,VAR_0
+state_prefixHCRoundTrip,VAR_1
+state_randomRoundTrip,FUNC_6
+state_trimDict,FUNC_7
+state_attachDictHCRoundTrip,FUNC_8
+state,VAR_2
+dict,VAR_3
+dictSize,VAR_4
+dictStream,VAR_5

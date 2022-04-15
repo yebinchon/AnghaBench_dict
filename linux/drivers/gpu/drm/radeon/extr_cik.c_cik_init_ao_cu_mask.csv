@@ -1,0 +1,17 @@
+MAX_PU_CU,FUNC_0
+MAX_PU_CU_MASK,VAR_0
+RLC_MAX_PG_CU,VAR_1
+RLC_PG_AO_CU_MASK,VAR_2
+RREG32,FUNC_1
+WREG32,FUNC_2
+cik_get_cu_active_bitmap,FUNC_3
+cik_init_ao_cu_mask,FUNC_4
+rdev,VAR_3
+i,VAR_4
+j,VAR_5
+k,VAR_6
+active_cu_number,VAR_7
+mask,VAR_8
+counter,VAR_9
+cu_bitmap,VAR_10
+tmp,VAR_11

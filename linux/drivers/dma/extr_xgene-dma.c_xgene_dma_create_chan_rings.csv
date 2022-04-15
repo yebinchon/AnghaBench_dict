@@ -1,0 +1,14 @@
+XGENE_DMA_BUFNUM,VAR_0
+XGENE_DMA_CPU_BUFNUM,VAR_1
+XGENE_DMA_RING_CFG_SIZE_64KB,VAR_2
+XGENE_DMA_RING_DST_ID,FUNC_0
+XGENE_DMA_RING_OWNER_CPU,VAR_3
+XGENE_DMA_RING_OWNER_DMA,VAR_4
+chan_dbg,FUNC_1
+xgene_dma_create_ring_one,FUNC_2
+xgene_dma_delete_ring_one,FUNC_3
+xgene_dma_create_chan_rings,FUNC_4
+chan,VAR_5
+rx_ring,VAR_6
+tx_ring,VAR_7
+ret,VAR_8

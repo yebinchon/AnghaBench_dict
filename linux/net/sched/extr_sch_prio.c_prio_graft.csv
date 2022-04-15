@@ -1,0 +1,16 @@
+TC_PRIO_GRAFT,VAR_0
+TC_SETUP_QDISC_PRIO,VAR_1
+noop_qdisc,VAR_2
+qdisc_dev,FUNC_0
+qdisc_offload_graft_helper,FUNC_1
+qdisc_priv,FUNC_2
+qdisc_replace,FUNC_3
+prio_graft,FUNC_4
+sch,VAR_3
+arg,VAR_4
+new,VAR_5
+old,VAR_6
+extack,VAR_7
+q,VAR_8
+graft_offload,VAR_9
+band,VAR_10

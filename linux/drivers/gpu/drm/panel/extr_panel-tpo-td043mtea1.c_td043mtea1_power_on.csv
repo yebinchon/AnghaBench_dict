@@ -1,0 +1,12 @@
+TPO_R02_MODE,FUNC_0
+TPO_R02_NCLK_RISING,VAR_0
+TPO_R03_VAL_NORMAL,VAR_1
+gpiod_set_value,FUNC_1
+msleep,FUNC_2
+regulator_enable,FUNC_3
+td043mtea1_write,FUNC_4
+td043mtea1_write_gamma,FUNC_5
+td043mtea1_write_mirror,FUNC_6
+td043mtea1_power_on,FUNC_7
+lcd,VAR_2
+ret,VAR_3

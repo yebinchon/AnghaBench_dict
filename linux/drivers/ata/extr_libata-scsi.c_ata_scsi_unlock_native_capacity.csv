@@ -1,0 +1,13 @@
+ATA_DFLAG_UNLOCK_HPA,VAR_0
+ATA_EH_RESET,VAR_1
+ata_port_schedule_eh,FUNC_0
+ata_port_wait_eh,FUNC_1
+ata_scsi_find_dev,FUNC_2
+ata_shost_to_port,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ata_scsi_unlock_native_capacity,FUNC_6
+sdev,VAR_2
+ap,VAR_3
+dev,VAR_4
+flags,VAR_5

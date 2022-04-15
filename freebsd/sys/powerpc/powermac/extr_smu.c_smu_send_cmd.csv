@@ -1,0 +1,15 @@
+BUS_DMASYNC_PREWRITE,VAR_0
+GPIO_DDR_OUTPUT,VAR_1
+MA_OWNED,VAR_2
+bus_dmamap_sync,FUNC_0
+bus_space_write_4,FUNC_1
+device_get_softc,FUNC_2
+macgpio_write,FUNC_3
+memcpy,FUNC_4
+mtx_assert,FUNC_5
+powerpc_pow_enabled,VAR_3
+smu_doorbell,VAR_4
+smu_send_cmd,FUNC_6
+dev,VAR_5
+cmd,VAR_6
+sc,VAR_7

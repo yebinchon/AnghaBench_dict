@@ -1,0 +1,17 @@
+INTR_INFO_VALID_MASK,VAR_0
+VMX_ABORT_SAVE_GUEST_MSR_FAIL,VAR_1
+VMX_EXIT_REASONS_FAILED_VMENTRY,VAR_2
+VMX_INSTRUCTION_INFO,VAR_3
+VM_EXIT_INSTRUCTION_LEN,VAR_4
+kvm_clear_exception_queue,FUNC_0
+kvm_clear_interrupt_queue,FUNC_1
+nested_vmx_abort,FUNC_2
+nested_vmx_store_msr,FUNC_3
+vmcs12_save_pending_event,FUNC_4
+vmcs_read32,FUNC_5
+prepare_vmcs12,FUNC_6
+vcpu,VAR_5
+vmcs12,VAR_6
+exit_reason,VAR_7
+exit_intr_info,VAR_8
+exit_qualification,VAR_9

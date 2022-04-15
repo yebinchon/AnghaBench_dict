@@ -1,0 +1,11 @@
+CPU_GenerateIRQ,FUNC_0
+D,FUNC_1
+PBI_IRQ,VAR_0
+POKEY_IRQEN,VAR_1
+POKEY_OFFSET_IRQEN,VAR_2
+POKEY_PutByte,FUNC_2
+VOICE_MASK,VAR_3
+printf,FUNC_3
+votrax_latch,VAR_4
+PBI_XLD_votrax_busy_callback,FUNC_4
+busy_status,VAR_5

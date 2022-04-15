@@ -1,0 +1,16 @@
+I2C_IBDR,VAR_0
+IIC_NOERR,VAR_1
+WRITE1,FUNC_0
+device_get_softc,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+vf_i2c_dbg,FUNC_4
+wait_for_iif,FUNC_5
+i2c_write,FUNC_6
+dev,VAR_2
+buf,VAR_3
+len,VAR_4
+sent,VAR_5
+timeout,VAR_6
+sc,VAR_7
+error,VAR_8

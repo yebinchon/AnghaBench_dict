@@ -1,0 +1,14 @@
+EFER_LMA,VAR_0
+EFER_LME,VAR_1
+MSR_EFER,VAR_2
+VM_ENTRY_IA32E_MODE,VAR_3
+find_msr_entry,FUNC_0
+setup_msrs,FUNC_1
+to_vmx,FUNC_2
+vm_entry_controls_clearbit,FUNC_3
+vm_entry_controls_setbit,FUNC_4
+vmx_set_efer,FUNC_5
+vcpu,VAR_4
+efer,VAR_5
+vmx,VAR_6
+msr,VAR_7

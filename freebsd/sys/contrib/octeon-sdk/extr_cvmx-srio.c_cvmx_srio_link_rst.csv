@@ -1,0 +1,12 @@
+CVMX_CIU_SOFT_PRST,VAR_0
+CVMX_SRIOMAINTX_PORT_0_LINK_REQ,FUNC_0
+CVMX_SRIOMAINTX_PORT_0_LINK_RESP,FUNC_1
+OCTEON_CN63XX_PASS1_X,VAR_1
+OCTEON_IS_MODEL,FUNC_2
+cvmx_srio_config_read32,FUNC_3
+cvmx_srio_config_write32,FUNC_4
+cvmx_wait,FUNC_5
+cvmx_write_csr,FUNC_6
+cvmx_srio_link_rst,FUNC_7
+srio_port,VAR_2
+link_resp,VAR_3

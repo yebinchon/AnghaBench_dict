@@ -1,0 +1,11 @@
+NVME_KEY_SGL_FMT_DATA_DESC,VAR_0
+cpu_to_le64,FUNC_0
+put_unaligned_le24,FUNC_1
+put_unaligned_le32,FUNC_2
+sg_dma_address,FUNC_3
+sg_dma_len,FUNC_4
+nvme_rdma_map_sg_single,FUNC_5
+queue,VAR_1
+req,VAR_2
+c,VAR_3
+sg,VAR_4

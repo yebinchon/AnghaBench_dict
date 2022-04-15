@@ -1,0 +1,11 @@
+AC97C_MR_ENA,VAR_0
+AC97C_MR_WRST,VAR_1
+CAMR,VAR_2
+COMR,VAR_3
+IS_ERR,FUNC_0
+MR,VAR_4
+ac97c_writel,FUNC_1
+gpiod_set_value,FUNC_2
+udelay,FUNC_3
+atmel_ac97c_reset,FUNC_4
+chip,VAR_5

@@ -1,0 +1,10 @@
+BUG,FUNC_0
+ClearPageReclaim,FUNC_1
+PG_writeback,VAR_0
+PageReclaim,FUNC_2
+rotate_reclaimable_page,FUNC_3
+smp_mb__after_atomic,FUNC_4
+test_clear_page_writeback,FUNC_5
+wake_up_page,FUNC_6
+end_page_writeback,FUNC_7
+page,VAR_1

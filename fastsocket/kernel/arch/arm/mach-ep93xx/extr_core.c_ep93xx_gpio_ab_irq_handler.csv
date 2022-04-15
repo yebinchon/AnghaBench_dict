@@ -1,0 +1,14 @@
+EP93XX_GPIO_A_INT_STATUS,VAR_0
+EP93XX_GPIO_B_INT_STATUS,VAR_1
+EP93XX_GPIO_LINE_A,FUNC_0
+EP93XX_GPIO_LINE_B,FUNC_1
+__raw_readb,FUNC_2
+generic_handle_irq,FUNC_3
+gpio_to_irq,FUNC_4
+ep93xx_gpio_ab_irq_handler,FUNC_5
+irq,VAR_2
+desc,VAR_3
+status,VAR_4
+i,VAR_5
+gpio_irq,VAR_6
+gpio_irq,VAR_7

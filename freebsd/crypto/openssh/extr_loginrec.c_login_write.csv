@@ -1,0 +1,17 @@
+LTYPE_LOGIN,VAR_0
+LTYPE_LOGOUT,VAR_1
+audit_session_close,FUNC_0
+audit_session_open,FUNC_1
+geteuid,FUNC_2
+lastlog_write_entry,FUNC_3
+login_set_current_time,FUNC_4
+loginmsg,VAR_2
+logit,FUNC_5
+sys_auth_record_login,FUNC_6
+syslogin_write_entry,FUNC_7
+utmp_write_entry,FUNC_8
+utmpx_write_entry,FUNC_9
+wtmp_write_entry,FUNC_10
+wtmpx_write_entry,FUNC_11
+login_write,FUNC_12
+li,VAR_3

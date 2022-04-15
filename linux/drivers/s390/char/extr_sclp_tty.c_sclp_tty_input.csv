@@ -1,0 +1,15 @@
+CTRLCHAR_MASK,VAR_0
+TTY_NORMAL,VAR_1
+ctrlchar_handle,FUNC_0
+sclp_port,VAR_2
+strncmp,FUNC_1
+tty_flip_buffer_push,FUNC_2
+tty_insert_flip_char,FUNC_3
+tty_insert_flip_string,FUNC_4
+tty_kref_put,FUNC_5
+tty_port_tty_get,FUNC_6
+sclp_tty_input,FUNC_7
+buf,VAR_3
+count,VAR_4
+tty,VAR_5
+cchar,VAR_6

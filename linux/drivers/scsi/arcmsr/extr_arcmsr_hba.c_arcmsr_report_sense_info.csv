@@ -1,0 +1,12 @@
+CHECK_CONDITION,VAR_0
+DID_OK,VAR_1
+DRIVER_SENSE,VAR_2
+SCSI_SENSE_BUFFERSIZE,VAR_3
+SCSI_SENSE_CURRENT_ERRORS,VAR_4
+memcpy,FUNC_0
+memset,FUNC_1
+arcmsr_report_sense_info,FUNC_2
+ccb,VAR_5
+pcmd,VAR_6
+sensebuffer,VAR_7
+sense_data_length,VAR_8

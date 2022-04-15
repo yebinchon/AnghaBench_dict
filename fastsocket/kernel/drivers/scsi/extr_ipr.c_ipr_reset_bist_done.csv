@@ -1,0 +1,8 @@
+ENTER,VAR_0
+IPR_RC_JOB_CONTINUE,VAR_1
+LEAVE,VAR_2
+ipr_reset_restore_cfg_space,VAR_3
+pci_cfg_access_unlock,FUNC_0
+ipr_reset_bist_done,FUNC_1
+ipr_cmd,VAR_4
+ioa_cfg,VAR_5

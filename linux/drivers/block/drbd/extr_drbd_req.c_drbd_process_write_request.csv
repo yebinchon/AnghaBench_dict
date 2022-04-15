@@ -1,0 +1,16 @@
+D_ASSERT,FUNC_0
+QUEUE_AS_DRBD_BARRIER,VAR_0
+QUEUE_FOR_NET_WRITE,VAR_1
+QUEUE_FOR_SEND_OOS,VAR_2
+REQ_PREFLUSH,VAR_3
+TO_BE_SENT,VAR_4
+_req_mod,FUNC_1
+drbd_set_out_of_sync,FUNC_2
+drbd_should_do_remote,FUNC_3
+drbd_should_send_out_of_sync,FUNC_4
+unlikely,FUNC_5
+drbd_process_write_request,FUNC_6
+req,VAR_5
+device,VAR_6
+remote,VAR_7
+send_oos,VAR_8

@@ -1,0 +1,9 @@
+lua_getexdata,FUNC_0
+lua_pushinteger,FUNC_1
+lua_touserdata,FUNC_2
+ngx_http_get_module_ctx,FUNC_3
+ngx_http_lua_module,VAR_0
+ngx_http_lua_get_raw_phase_context,FUNC_4
+L,VAR_1
+r,VAR_2
+ctx,VAR_3

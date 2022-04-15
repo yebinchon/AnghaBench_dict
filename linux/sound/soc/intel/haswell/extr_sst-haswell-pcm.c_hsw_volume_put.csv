@@ -1,0 +1,15 @@
+SST_HSW_CHANNELS_ALL,VAR_0
+hsw_mixer_to_ipc,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+snd_soc_kcontrol_component,FUNC_5
+sst_hsw_mixer_set_volume,FUNC_6
+hsw_volume_put,FUNC_7
+kcontrol,VAR_1
+ucontrol,VAR_2
+component,VAR_3
+pdata,VAR_4
+hsw,VAR_5
+volume,VAR_6

@@ -1,0 +1,15 @@
+EM_SETSEL,VAR_0
+SendMessageW,FUNC_0
+SetWindowTextW,FUNC_1
+TRUE,VAR_1
+msi_dialog_dup_property,FUNC_2
+msi_dialog_find_control_by_type,FUNC_3
+msi_free,FUNC_4
+msidbControlAttributesIndirect,VAR_2
+szPathEdit,VAR_3
+msi_dialog_update_pathedit,FUNC_5
+dialog,VAR_4
+control,VAR_5
+prop,VAR_6
+path,VAR_7
+indirect,VAR_8

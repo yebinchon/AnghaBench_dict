@@ -1,0 +1,11 @@
+HT_CAP_INFO_RX_STBC_MASK,VAR_0
+HT_CAP_INFO_SMPS_MASK,VAR_1
+HT_CAP_INFO_TX_STBC,VAR_2
+host_to_le16,FUNC_0
+le_to_host16,FUNC_1
+os_memcpy,FUNC_2
+hostapd_get_ht_capab,FUNC_3
+hapd,VAR_3
+ht_cap,VAR_4
+neg_ht_cap,VAR_5
+cap,VAR_6

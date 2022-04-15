@@ -1,0 +1,11 @@
+TW2804_REG_BLUE_BALANCE,VAR_0
+TW2804_REG_CHROMA_GAIN,VAR_1
+TW2804_REG_GAIN,VAR_2
+TW2804_REG_RED_BALANCE,VAR_3
+read_reg,FUNC_0
+to_state_from_ctrl,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+tw2804_g_volatile_ctrl,FUNC_3
+ctrl,VAR_4
+state,VAR_5
+client,VAR_6

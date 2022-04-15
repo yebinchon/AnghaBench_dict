@@ -1,0 +1,12 @@
+V4L2_CHIP_MATCH_HOST,VAR_0
+V4L2_IDENT_NONE,VAR_1
+V4L2_IDENT_SAA7146,VAR_2
+core,VAR_3
+g_chip_ident,VAR_4
+v4l2_device_call_until_err,FUNC_0
+vidioc_g_chip_ident,FUNC_1
+file,VAR_5
+__fh,VAR_6
+chip,VAR_7
+fh,VAR_8
+dev,VAR_9

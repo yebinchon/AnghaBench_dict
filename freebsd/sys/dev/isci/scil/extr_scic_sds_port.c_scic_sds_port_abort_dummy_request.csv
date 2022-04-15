@@ -1,0 +1,9 @@
+SCU_CONTEXT_COMMAND_LOGICAL_PORT_SHIFT,VAR_0
+SCU_CONTEXT_COMMAND_REQUEST_POST_TC_ABORT,VAR_1
+SCU_DUMMY_INDEX,VAR_2
+scic_sds_controller_get_task_context_buffer,FUNC_0
+scic_sds_controller_post_request,FUNC_1
+scic_sds_port_abort_dummy_request,FUNC_2
+this_port,VAR_3
+command,VAR_4
+task_context,VAR_5

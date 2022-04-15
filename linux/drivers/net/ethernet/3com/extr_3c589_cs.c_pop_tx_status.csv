@@ -1,0 +1,14 @@
+EL3_CMD,VAR_0
+TX_STATUS,VAR_1
+TxEnable,VAR_2
+TxReset,VAR_3
+inb,FUNC_0
+netdev_dbg,FUNC_1
+outb,FUNC_2
+outw,FUNC_3
+tc589_wait_for_completion,FUNC_4
+pop_tx_status,FUNC_5
+dev,VAR_4
+ioaddr,VAR_5
+i,VAR_6
+tx_status,VAR_7

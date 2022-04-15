@@ -1,0 +1,16 @@
+ADVERTISED_10000baseT_Full,VAR_0
+ADVERTISED_FIBRE,VAR_1
+AUTONEG_DISABLE,VAR_2
+DUPLEX_FULL,VAR_3
+PORT_FIBRE,VAR_4
+SUPPORTED_10000baseT_Full,VAR_5
+SUPPORTED_FIBRE,VAR_6
+XCVR_EXTERNAL,VAR_7
+ethtool_cmd_speed_set,FUNC_0
+netdev_priv,FUNC_1
+netif_carrier_ok,FUNC_2
+vnic_dev_port_speed,FUNC_3
+enic_get_settings,FUNC_4
+netdev,VAR_8
+ecmd,VAR_9
+enic,VAR_10

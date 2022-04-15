@@ -1,0 +1,17 @@
+I40E_FLAG_LINK_POLLING_ENABLED,VAR_0
+I40E_FLAG_VEB_STATS_ENABLED,VAR_1
+I40E_MAX_VEB,VAR_2
+__I40E_CONFIG_BUSY,VAR_3
+__I40E_DOWN,VAR_4
+__I40E_TEMP_LINK_POLLING,VAR_5
+i40e_link_event,FUNC_0
+i40e_ptp_rx_hang,FUNC_1
+i40e_ptp_tx_hang,FUNC_2
+i40e_update_stats,FUNC_3
+i40e_update_veb_stats,FUNC_4
+jiffies,VAR_6
+test_bit,FUNC_5
+time_before,FUNC_6
+i40e_watchdog_subtask,FUNC_7
+pf,VAR_7
+i,VAR_8

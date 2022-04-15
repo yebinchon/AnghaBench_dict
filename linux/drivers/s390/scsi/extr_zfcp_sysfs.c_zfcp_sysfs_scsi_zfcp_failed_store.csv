@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_1
+ZFCP_STATUS_COMMON_RUNNING,VAR_2
+kstrtoul,FUNC_0
+sdev_to_zfcp,FUNC_1
+to_scsi_device,FUNC_2
+zfcp_erp_lun_reopen,FUNC_3
+zfcp_erp_set_lun_status,FUNC_4
+zfcp_erp_wait,FUNC_5
+zfcp_sysfs_scsi_zfcp_failed_store,FUNC_6
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+count,VAR_6
+sdev,VAR_7
+val,VAR_8

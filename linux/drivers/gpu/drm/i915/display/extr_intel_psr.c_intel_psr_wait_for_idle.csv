@@ -1,0 +1,12 @@
+EDP_PSR_STATUS,VAR_0
+EDP_PSR_STATUS_STATE_IDLE,VAR_1
+EDP_PSR_STATUS_STATE_MASK,VAR_2
+READ_ONCE,FUNC_0
+__intel_wait_for_register,FUNC_1
+to_i915,FUNC_2
+to_intel_crtc,FUNC_3
+intel_psr_wait_for_idle,FUNC_4
+new_crtc_state,VAR_3
+out_value,VAR_4
+crtc,VAR_5
+dev_priv,VAR_6

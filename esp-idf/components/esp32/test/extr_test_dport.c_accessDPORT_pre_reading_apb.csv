@@ -1,0 +1,13 @@
+DPORT_DATE_REG,VAR_0
+DPORT_REG_READ,FUNC_0
+apb_test_result,VAR_1
+dport_test_result,VAR_2
+exit_flag,VAR_3
+pre_reading_apb_counter,VAR_4
+vTaskDelete,FUNC_1
+xSemaphoreGive,FUNC_2
+accessDPORT_pre_reading_apb,FUNC_3
+pvParameters,VAR_5
+sema,VAR_6
+dport_date,VAR_7
+dport_date_cur,VAR_8

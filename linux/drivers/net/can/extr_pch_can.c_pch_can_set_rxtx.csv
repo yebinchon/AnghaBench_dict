@@ -1,0 +1,17 @@
+PCH_CMASK_ARB,VAR_0
+PCH_CMASK_CTRL,VAR_1
+PCH_CMASK_RDWR,VAR_2
+PCH_CMASK_RX_TX_GET,VAR_3
+PCH_ID_MSGVAL,VAR_4
+PCH_IF_MCONT_RXIE,VAR_5
+PCH_IF_MCONT_TXIE,VAR_6
+iowrite32,FUNC_0
+pch_can_bit_clear,FUNC_1
+pch_can_bit_set,FUNC_2
+pch_can_rw_msg_obj,FUNC_3
+pch_can_set_rxtx,FUNC_4
+priv,VAR_7
+buff_num,VAR_8
+set,VAR_9
+dir,VAR_10
+ie,VAR_11

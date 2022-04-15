@@ -1,0 +1,7 @@
+LOAD_FREQ,VAR_0
+calc_load_account_active,FUNC_0
+jiffies,VAR_1
+time_after_eq,FUNC_1
+update_cpu_load,FUNC_2
+update_cpu_load_active,FUNC_3
+this_rq,VAR_2

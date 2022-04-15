@@ -1,0 +1,6 @@
+MSR_AMD64_IBSFETCHCTL,VAR_0
+MSR_AMD64_IBSOPCTL,VAR_1
+ibs_caps,VAR_2
+ibs_config,VAR_3
+wrmsrl,FUNC_0
+op_amd_stop_ibs,FUNC_1

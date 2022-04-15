@@ -1,0 +1,14 @@
+RW_READER,VAR_0
+ZINJECT_IGNORED_WRITES,VAR_1
+ZIO_VDEV_IO_STAGES,VAR_2
+ddi_get_lbolt64,FUNC_0
+inject_handlers,VAR_3
+inject_lock,VAR_4
+list_head,FUNC_1
+list_next,FUNC_2
+rw_enter,FUNC_3
+rw_exit,FUNC_4
+spa_get_random,FUNC_5
+zio_handle_ignored_writes,FUNC_6
+zio,VAR_5
+handler,VAR_6

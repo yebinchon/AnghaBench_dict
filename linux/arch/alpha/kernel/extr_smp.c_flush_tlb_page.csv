@@ -1,0 +1,17 @@
+NR_CPUS,VAR_0
+atomic_read,FUNC_0
+cpu_online,FUNC_1
+current,VAR_1
+flush_tlb_current_page,FUNC_2
+ipi_flush_tlb_page,VAR_2
+preempt_disable,FUNC_3
+preempt_enable,FUNC_4
+smp_call_function,FUNC_5
+smp_processor_id,FUNC_6
+flush_tlb_page,FUNC_7
+vma,VAR_3
+addr,VAR_4
+data,VAR_5
+mm,VAR_6
+cpu,VAR_7
+this_cpu,VAR_8

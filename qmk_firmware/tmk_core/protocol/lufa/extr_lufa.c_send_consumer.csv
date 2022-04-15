@@ -1,0 +1,17 @@
+CONSUMER2BLUEFRUIT,FUNC_0
+CONSUMER2RN42,FUNC_1
+Endpoint_ClearIN,FUNC_2
+Endpoint_IsReadWriteAllowed,FUNC_3
+Endpoint_SelectEndpoint,FUNC_4
+Endpoint_Write_Stream_LE,FUNC_5
+OUTPUT_BLUETOOTH,VAR_0
+OUTPUT_USB,VAR_1
+OUTPUT_USB_AND_BT,VAR_2
+REPORT_ID_CONSUMER,VAR_3
+SHARED_IN_EPNUM,VAR_4
+_delay_us,FUNC_6
+adafruit_ble_send_consumer_key,FUNC_7
+bluefruit_serial_send,FUNC_8
+where_to_send,FUNC_9
+send_consumer,FUNC_10
+data,VAR_5

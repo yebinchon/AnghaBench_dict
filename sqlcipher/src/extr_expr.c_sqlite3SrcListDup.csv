@@ -1,0 +1,17 @@
+assert,FUNC_0
+sqlite3DbMallocRawNN,FUNC_1
+sqlite3DbStrDup,FUNC_2
+sqlite3ExprDup,FUNC_3
+sqlite3ExprListDup,FUNC_4
+sqlite3IdListDup,FUNC_5
+sqlite3SelectDup,FUNC_6
+sqlite3SrcListDup,FUNC_7
+db,VAR_0
+p,VAR_1
+flags,VAR_2
+pNew,VAR_3
+i,VAR_4
+nByte,VAR_5
+pNewItem,VAR_6
+pOldItem,VAR_7
+pTab,VAR_8

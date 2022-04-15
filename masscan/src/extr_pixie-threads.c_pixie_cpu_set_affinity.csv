@@ -1,0 +1,16 @@
+CPU_SET,FUNC_0
+CPU_ZERO,FUNC_1
+GetCurrentThread,FUNC_2
+GetLastError,FUNC_3
+SetThreadAffinityMask,FUNC_4
+UNUSEDPARM,FUNC_5
+errno,VAR_0
+fprintf,FUNC_6
+pthread_self,FUNC_7
+pthread_setaffinity_np,FUNC_8
+stderr,VAR_1
+pixie_cpu_set_affinity,FUNC_9
+processor,VAR_2
+x,VAR_3
+thread,VAR_4
+cpuset,VAR_5

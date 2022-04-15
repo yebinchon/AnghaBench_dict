@@ -1,0 +1,9 @@
+ABORT_DUMP,VAR_0
+GET_DUMP,VAR_1
+IPR_RC_JOB_CONTINUE,VAR_2
+READ_DUMP,VAR_3
+WAIT_FOR_DUMP,VAR_4
+ipr_reset_alert,VAR_5
+ipr_reset_wait_for_dump,FUNC_0
+ipr_cmd,VAR_6
+ioa_cfg,VAR_7

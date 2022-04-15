@@ -1,0 +1,11 @@
+BIO_new_file,FUNC_0
+EVP_PKEY_free,FUNC_1
+EVP_PKEY_new,FUNC_2
+PEM_read_bio_PrivateKey,FUNC_3
+ptls_openssl_init_sign_certificate,FUNC_4
+SetSignCertificate,FUNC_5
+keypem,VAR_0
+ctx,VAR_1
+signer,VAR_2
+pkey,VAR_3
+bio_key,VAR_4

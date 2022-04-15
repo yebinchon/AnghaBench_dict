@@ -1,0 +1,15 @@
+GLCP_MSR_REG,FUNC_0
+GLCP_SOFT_COM,VAR_0
+PCI_BAR_RANGE_MASK,VAR_1
+_rdmsr,FUNC_1
+_wrmsr,FUNC_2
+bar_space_len,VAR_2
+bar_space_range,VAR_3
+divil_msr_reg,VAR_4
+sb_msr_reg,VAR_5
+soft_bar_flag,VAR_6
+pci_isa_write_bar,FUNC_3
+n,VAR_7
+value,VAR_8
+hi,VAR_9
+lo,VAR_10

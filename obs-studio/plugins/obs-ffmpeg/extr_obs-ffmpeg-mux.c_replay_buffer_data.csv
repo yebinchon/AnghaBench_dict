@@ -1,0 +1,16 @@
+OBS_ENCODER_VIDEO,VAR_0
+OBS_OUTPUT_ENCODE_ERROR,VAR_1
+active,FUNC_0
+circlebuf_push_back,FUNC_1
+deactivate_replay_buffer,FUNC_2
+obs_encoder_packet_ref,FUNC_3
+os_atomic_load_bool,FUNC_4
+pthread_join,FUNC_5
+replay_buffer_purge,FUNC_6
+replay_buffer_save,FUNC_7
+stopping,FUNC_8
+replay_buffer_data,FUNC_9
+data,VAR_2
+packet,VAR_3
+stream,VAR_4
+pkt,VAR_5

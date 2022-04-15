@@ -1,0 +1,15 @@
+SETUPBUFFER_MIN_SCREENWIDTH,VAR_0
+SETUPBUFFER_REQUIRED_ADDBUFSIZ,VAR_1
+calloc,FUNC_0
+errx,FUNC_1
+free,FUNC_2
+memcpy,FUNC_3
+screen_width,VAR_2
+setup_buffer_bufsiz,VAR_3
+strlen,FUNC_4
+setup_buffer,FUNC_5
+buffer,VAR_4
+addlen,VAR_5
+len,VAR_6
+old_len,VAR_7
+new_buffer,VAR_8

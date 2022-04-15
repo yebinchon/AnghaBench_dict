@@ -1,0 +1,17 @@
+VFSATTR_INIT,FUNC_0
+VFSATTR_WANTED,FUNC_1
+f_bavail,VAR_0
+f_bfree,VAR_1
+f_blocks,VAR_2
+f_bsize,VAR_3
+f_bused,VAR_4
+f_capabilities,VAR_5
+f_ffree,VAR_6
+f_files,VAR_7
+f_iosize,VAR_8
+memset,FUNC_2
+vfs_getattr,FUNC_3
+nullfs_vfs_getlowerattr,FUNC_4
+mp,VAR_9
+vfap,VAR_10
+ctx,VAR_11

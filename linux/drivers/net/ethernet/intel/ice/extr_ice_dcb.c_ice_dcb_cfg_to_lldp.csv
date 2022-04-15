@@ -1,0 +1,16 @@
+ICE_LLDPDU_SIZE,VAR_0
+ICE_LLDP_TLV_LEN_M,VAR_1
+ICE_LLDP_TLV_LEN_S,VAR_2
+ICE_TLV_ID_END_OF_LLDPPDU,VAR_3
+ICE_TLV_ID_START,VAR_4
+ice_add_dcb_tlv,FUNC_0
+ntohs,FUNC_1
+ice_dcb_cfg_to_lldp,FUNC_2
+lldpmib,VAR_5
+miblen,VAR_6
+dcbcfg,VAR_7
+len,VAR_8
+offset,VAR_9
+tlvid,VAR_10
+tlv,VAR_11
+typelen,VAR_12

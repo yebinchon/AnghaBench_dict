@@ -1,0 +1,11 @@
+DC390_EEPROM_LEN,VAR_0
+DC390_EEPROM_READ,VAR_1
+dc390_eeprom_get_data,FUNC_0
+dc390_eeprom_prepare_read,FUNC_1
+pci_write_config_byte,FUNC_2
+udelay,FUNC_3
+dc390_read_eeprom,FUNC_4
+pdev,VAR_2
+ptr,VAR_3
+cmd,VAR_4
+i,VAR_5

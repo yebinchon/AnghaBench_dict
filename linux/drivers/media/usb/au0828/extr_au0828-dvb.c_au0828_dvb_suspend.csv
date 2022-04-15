@@ -1,0 +1,11 @@
+au0828_stop_transport,FUNC_0
+cancel_work_sync,FUNC_1
+dvb_frontend_suspend,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pr_info,FUNC_5
+stop_urb_transfer,FUNC_6
+au0828_dvb_suspend,FUNC_7
+dev,VAR_0
+dvb,VAR_1
+rc,VAR_2

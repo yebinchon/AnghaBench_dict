@@ -1,0 +1,11 @@
+CRYPT_DELETEKEYSET,VAR_0
+CryptAcquireContextA,FUNC_0
+CryptReleaseContext,FUNC_1
+GetLastError,FUNC_2
+NTE_BAD_FLAGS,VAR_1
+PROV_RSA_AES,VAR_2
+hProv,VAR_3
+ok,FUNC_3
+szContainer,VAR_4
+clean_up_aes_environment,FUNC_4
+result,VAR_5

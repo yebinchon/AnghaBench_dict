@@ -1,0 +1,16 @@
+CONFIG_PCI_MSI,VAR_0
+ENODEV,VAR_1
+IS_ENABLED,FUNC_0
+PCI_NUM_INTX,VAR_2
+dev_err,FUNC_1
+intx_domain_ops,VAR_3
+irq_domain_add_linear,FUNC_2
+mtk_pcie_allocate_msi_domains,FUNC_3
+of_get_next_child,FUNC_4
+of_node_put,FUNC_5
+mtk_pcie_init_irq_domain,FUNC_6
+port,VAR_4
+node,VAR_5
+dev,VAR_6
+pcie_intc_node,VAR_7
+ret,VAR_8

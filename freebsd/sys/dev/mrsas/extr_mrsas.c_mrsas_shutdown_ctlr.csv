@@ -1,0 +1,15 @@
+MFI_CMD_DCMD,VAR_0
+MFI_FRAME_DIR_NONE,VAR_1
+MFI_MBOX_SIZE,VAR_2
+MRSAS_HW_CRITICAL_ERROR,VAR_3
+device_printf,FUNC_0
+memset,FUNC_1
+mrsas_get_mfi_cmd,FUNC_2
+mrsas_issue_blocked_abort_cmd,FUNC_3
+mrsas_issue_blocked_cmd,FUNC_4
+mrsas_release_mfi_cmd,FUNC_5
+mrsas_shutdown_ctlr,FUNC_6
+sc,VAR_4
+opcode,VAR_5
+cmd,VAR_6
+dcmd,VAR_7

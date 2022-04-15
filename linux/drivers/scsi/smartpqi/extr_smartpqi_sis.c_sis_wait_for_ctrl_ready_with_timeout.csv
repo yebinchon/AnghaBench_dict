@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+ETIMEDOUT,VAR_1
+PQI_HZ,VAR_2
+SIS_CTRL_KERNEL_PANIC,VAR_3
+SIS_CTRL_KERNEL_UP,VAR_4
+SIS_CTRL_READY_POLL_INTERVAL_MSECS,VAR_5
+dev_err,FUNC_0
+jiffies,VAR_6
+msleep,FUNC_1
+readl,FUNC_2
+time_after,FUNC_3
+sis_wait_for_ctrl_ready_with_timeout,FUNC_4
+ctrl_info,VAR_7
+timeout_secs,VAR_8
+timeout,VAR_9
+status,VAR_10

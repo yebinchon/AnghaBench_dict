@@ -1,0 +1,15 @@
+KBUILD_MODNAME,VAR_0
+call_rcu,FUNC_0
+destroy_rcu_head_on_stack,FUNC_1
+init_rcu_head_on_stack,FUNC_2
+local_irq_disable,FUNC_3
+local_irq_enable,FUNC_4
+pr_alert,FUNC_5
+preempt_disable,FUNC_6
+preempt_enable,FUNC_7
+rcu_barrier,FUNC_8
+rcu_read_lock,FUNC_9
+rcu_read_unlock,FUNC_10
+rcu_torture_err_cb,VAR_1
+rcu_torture_leak_cb,VAR_2
+rcu_test_debug_objects,FUNC_11

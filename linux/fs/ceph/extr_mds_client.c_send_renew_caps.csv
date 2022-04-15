@@ -1,0 +1,16 @@
+CEPH_MDS_STATE_RECONNECT,VAR_0
+CEPH_SESSION_REQUEST_RENEWCAPS,VAR_1
+ENOMEM,VAR_2
+ceph_con_send,FUNC_0
+ceph_mds_state_name,FUNC_1
+ceph_mdsmap_get_state,FUNC_2
+create_session_msg,FUNC_3
+dout,FUNC_4
+jiffies,VAR_3
+pr_info,FUNC_5
+time_after_eq,FUNC_6
+send_renew_caps,FUNC_7
+mdsc,VAR_4
+session,VAR_5
+msg,VAR_6
+state,VAR_7

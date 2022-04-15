@@ -1,0 +1,16 @@
+CNS3xxx_I2C_DISABLE,FUNC_0
+CNS3xxx_I2C_DISABLE_INTR,FUNC_1
+IORESOURCE_IRQ,VAR_0
+IORESOURCE_MEM,VAR_1
+free_irq,FUNC_2
+i2c_del_adapter,FUNC_3
+iounmap,FUNC_4
+kfree,FUNC_5
+platform_get_drvdata,FUNC_6
+platform_get_resource,FUNC_7
+platform_set_drvdata,FUNC_8
+release_mem_region,FUNC_9
+cns3xxx_i2c_remove,FUNC_10
+pdev,VAR_2
+i2c,VAR_3
+res,VAR_4

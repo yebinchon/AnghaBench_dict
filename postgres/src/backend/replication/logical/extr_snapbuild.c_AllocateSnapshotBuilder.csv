@@ -1,0 +1,14 @@
+ALLOCSET_DEFAULT_SIZES,VAR_0
+AllocSetContextCreate,FUNC_0
+CurrentMemoryContext,VAR_1
+MemoryContextSwitchTo,FUNC_1
+SNAPBUILD_START,VAR_2
+palloc0,FUNC_2
+AllocateSnapshotBuilder,FUNC_3
+reorder,VAR_3
+xmin_horizon,VAR_4
+start_lsn,VAR_5
+need_full_snapshot,VAR_6
+context,VAR_7
+oldcontext,VAR_8
+builder,VAR_9

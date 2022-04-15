@@ -1,0 +1,16 @@
+WARN_ON,FUNC_0
+eventfd_ctx_put,FUNC_1
+fput,FUNC_2
+kfree,FUNC_3
+kthread_stop,FUNC_4
+list_empty,FUNC_5
+mmput,FUNC_6
+vhost_dev_free_iovecs,FUNC_7
+vhost_poll_flush,FUNC_8
+vhost_poll_stop,FUNC_9
+vhost_ubuf_put_and_wait,FUNC_10
+vhost_vq_reset,FUNC_11
+vhost_zerocopy_signal_used,FUNC_12
+vhost_dev_cleanup,FUNC_13
+dev,VAR_0
+i,VAR_1

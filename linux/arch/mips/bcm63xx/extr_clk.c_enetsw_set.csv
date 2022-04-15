@@ -1,0 +1,17 @@
+BCM63XX_RESET_ENETSW,VAR_0
+BCMCPU_IS_6328,FUNC_0
+BCMCPU_IS_6362,FUNC_1
+BCMCPU_IS_6368,FUNC_2
+CKCTL_6328_ROBOSW_EN,VAR_1
+CKCTL_6362_ROBOSW_EN,VAR_2
+CKCTL_6368_ROBOSW_EN,VAR_3
+bcm63xx_core_set_reset,FUNC_3
+bcm_hwclock_set,FUNC_4
+clk_disable_unlocked,FUNC_5
+clk_enable_unlocked,FUNC_6
+clk_swpkt_sar,VAR_4
+clk_swpkt_usb,VAR_5
+msleep,FUNC_7
+enetsw_set,FUNC_8
+clk,VAR_6
+enable,VAR_7

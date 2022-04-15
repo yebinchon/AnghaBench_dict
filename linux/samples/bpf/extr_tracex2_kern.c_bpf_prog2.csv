@@ -1,0 +1,10 @@
+BPF_ANY,VAR_0
+BPF_KPROBE_READ_RET_IP,FUNC_0
+bpf_map_lookup_elem,FUNC_1
+bpf_map_update_elem,FUNC_2
+my_map,VAR_1
+bpf_prog2,FUNC_3
+ctx,VAR_2
+loc,VAR_3
+init_val,VAR_4
+value,VAR_5

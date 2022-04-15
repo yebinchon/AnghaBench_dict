@@ -1,0 +1,10 @@
+G_000E40_GUI_ACTIVE,FUNC_0
+RREG32,FUNC_1
+R_000E40_RBBM_STATUS,VAR_0
+radeon_ring_force_activity,FUNC_2
+radeon_ring_lockup_update,FUNC_3
+radeon_ring_test_lockup,FUNC_4
+r100_gpu_is_lockup,FUNC_5
+rdev,VAR_1
+ring,VAR_2
+rbbm_status,VAR_3

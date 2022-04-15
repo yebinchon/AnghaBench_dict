@@ -1,0 +1,9 @@
+do_run_slab_rebalance_thread,VAR_0
+mutex_lock,FUNC_0
+pthread_cond_signal,FUNC_1
+pthread_join,FUNC_2
+pthread_mutex_unlock,FUNC_3
+rebalance_tid,VAR_1
+slab_rebalance_cond,VAR_2
+slabs_rebalance_lock,VAR_3
+stop_slab_maintenance_thread,FUNC_4

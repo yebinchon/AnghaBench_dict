@@ -1,0 +1,11 @@
+DPRINTF,FUNC_0
+XHCI_EPCTX_0_MAXP_STREAMS_GET,FUNC_1
+XHCI_ST_EPCTX_DISABLED,VAR_0
+free,FUNC_2
+memset,FUNC_3
+pci_xhci_disable_ep,FUNC_4
+dev,VAR_1
+epid,VAR_2
+dev_ctx,VAR_3
+devep,VAR_4
+ep_ctx,VAR_5

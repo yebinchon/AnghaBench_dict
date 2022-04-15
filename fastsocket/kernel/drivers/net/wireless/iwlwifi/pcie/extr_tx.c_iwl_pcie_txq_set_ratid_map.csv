@@ -1,0 +1,13 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+SCD_QUEUE_RA_TID_MAP_RATID_MSK,VAR_0
+SCD_TRANS_TBL_OFFSET_QUEUE,FUNC_1
+iwl_trans_read_mem32,FUNC_2
+iwl_trans_write_mem32,FUNC_3
+iwl_pcie_txq_set_ratid_map,FUNC_4
+trans,VAR_1
+ra_tid,VAR_2
+txq_id,VAR_3
+trans_pcie,VAR_4
+tbl_dw_addr,VAR_5
+tbl_dw,VAR_6
+scd_q2ratid,VAR_7

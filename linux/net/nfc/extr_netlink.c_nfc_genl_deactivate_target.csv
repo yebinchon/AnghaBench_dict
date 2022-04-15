@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+NFC_ATTR_DEVICE_INDEX,VAR_2
+NFC_ATTR_TARGET_INDEX,VAR_3
+NFC_TARGET_MODE_SLEEP,VAR_4
+nfc_deactivate_target,FUNC_0
+nfc_get_device,FUNC_1
+nfc_put_device,FUNC_2
+nla_get_u32,FUNC_3
+nfc_genl_deactivate_target,FUNC_4
+skb,VAR_5
+info,VAR_6
+dev,VAR_7
+device_idx,VAR_8
+target_idx,VAR_9
+rc,VAR_10

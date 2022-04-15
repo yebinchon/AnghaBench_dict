@@ -1,0 +1,9 @@
+ISL68137_VOUT_AVS,VAR_0
+PMBUS_OPERATION,VAR_1
+pmbus_read_byte_data,FUNC_0
+sprintf,FUNC_1
+isl68137_avs_enable_show_page,FUNC_2
+client,VAR_2
+page,VAR_3
+buf,VAR_4
+val,VAR_5

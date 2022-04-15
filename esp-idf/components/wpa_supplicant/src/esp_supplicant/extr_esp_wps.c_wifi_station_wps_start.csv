@@ -1,0 +1,14 @@
+ESP_FAIL,VAR_0
+ESP_OK,VAR_1
+MSG_ERROR,VAR_2
+WPS_CALC_KEY_PRE_CALC,VAR_3
+esp_wifi_set_wps_start_flag_internal,FUNC_0
+ets_timer_arm,FUNC_1
+ets_timer_disarm,FUNC_2
+wifi_wps_scan,FUNC_3
+wpa_printf,FUNC_4
+wps_build_public_key,FUNC_5
+wps_get_status,FUNC_6
+wps_sm_get,FUNC_7
+wifi_station_wps_start,FUNC_8
+sm,VAR_4

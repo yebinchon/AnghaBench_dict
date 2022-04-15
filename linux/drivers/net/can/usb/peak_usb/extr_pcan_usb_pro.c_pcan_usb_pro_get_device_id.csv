@@ -1,0 +1,14 @@
+PCAN_USBPRO_GETDEVID,VAR_0
+PCAN_USB_MAX_CMD_LEN,VAR_1
+le32_to_cpu,FUNC_0
+pcan_msg_add_rec,FUNC_1
+pcan_msg_init_empty,FUNC_2
+pcan_usb_pro_send_cmd,FUNC_3
+pcan_usb_pro_wait_rsp,FUNC_4
+pcan_usb_pro_get_device_id,FUNC_5
+dev,VAR_2
+device_id,VAR_3
+pdn,VAR_4
+um,VAR_5
+err,VAR_6
+pc,VAR_7

@@ -1,0 +1,12 @@
+BD70528_ELAPSED_STATE_BIT,VAR_0
+BD70528_WAKE_STATE_BIT,VAR_1
+BD70528_WDT_STATE_BIT,VAR_2
+bd70528_set_elapsed_tmr,FUNC_0
+bd70528_set_wake,FUNC_1
+bd70528_wdt_set,FUNC_2
+dev_err,FUNC_3
+bd70528_set_rtc_based_timers,FUNC_4
+r,VAR_3
+new_state,VAR_4
+old_state,VAR_5
+ret,VAR_6

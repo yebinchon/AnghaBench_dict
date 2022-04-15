@@ -1,0 +1,13 @@
+amd_init_side_info,FUNC_0
+amd_ntb_detach,FUNC_1
+amd_ntb_init,FUNC_2
+amd_ntb_map_pci_bars,FUNC_3
+amd_ntb_spad_clear,FUNC_4
+amd_ntb_sysctl_init,FUNC_5
+device_get_softc,FUNC_6
+ntb_register_device,FUNC_7
+pci_enable_busmaster,FUNC_8
+amd_ntb_attach,FUNC_9
+device,VAR_0
+ntb,VAR_1
+error,VAR_2

@@ -1,0 +1,16 @@
+BEV_OPT_CLOSE_ON_FREE,VAR_0
+BIO_get_fd,FUNC_0
+BIO_new_socket,FUNC_1
+BIO_set_close,FUNC_2
+SSL_free,FUNC_3
+SSL_get_wbio,FUNC_4
+SSL_set_bio,FUNC_5
+bufferevent_openssl_new_impl,FUNC_6
+bufferevent_openssl_socket_new,FUNC_7
+base,VAR_1
+fd,VAR_2
+ssl,VAR_3
+state,VAR_4
+options,VAR_5
+bio,VAR_6
+have_fd,VAR_7

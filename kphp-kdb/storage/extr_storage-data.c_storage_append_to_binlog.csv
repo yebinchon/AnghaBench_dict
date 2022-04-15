@@ -1,0 +1,15 @@
+F_WRLCK,VAR_0
+O_WRONLY,VAR_1
+SEEK_END,VAR_2
+STORAGE_ERR_NO_WRONLY_BINLOGS,VAR_3
+close,FUNC_0
+exit,FUNC_1
+kprintf,FUNC_2
+lock_whole_file,FUNC_3
+lseek,FUNC_4
+open,FUNC_5
+vkprintf,FUNC_6
+storage_append_to_binlog,FUNC_7
+V,VAR_4
+k,VAR_5
+end_pos,VAR_6

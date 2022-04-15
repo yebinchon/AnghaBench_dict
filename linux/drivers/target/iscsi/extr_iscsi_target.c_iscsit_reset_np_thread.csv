@@ -1,0 +1,15 @@
+ISCSI_NP_THREAD_INACTIVE,VAR_0
+ISCSI_NP_THREAD_RESET,VAR_1
+SIGINT,VAR_2
+atomic_inc,FUNC_0
+iscsit_login_kref_put,VAR_3
+kref_put,FUNC_1
+send_sig,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+wait_for_completion,FUNC_5
+iscsit_reset_np_thread,FUNC_6
+np,VAR_4
+tpg_np,VAR_5
+tpg,VAR_6
+shutdown,VAR_7

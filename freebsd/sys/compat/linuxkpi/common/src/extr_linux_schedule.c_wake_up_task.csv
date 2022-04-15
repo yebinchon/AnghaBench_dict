@@ -1,0 +1,13 @@
+SLEEPQ_SLEEP,VAR_0
+TASK_WAKING,VAR_1
+atomic_read,FUNC_0
+kick_proc0,FUNC_1
+set_task_state,FUNC_2
+sleepq_lock,FUNC_3
+sleepq_release,FUNC_4
+sleepq_signal,FUNC_5
+wake_up_task,FUNC_6
+task,VAR_2
+state,VAR_3
+ret,VAR_4
+wakeup_swapper,VAR_5

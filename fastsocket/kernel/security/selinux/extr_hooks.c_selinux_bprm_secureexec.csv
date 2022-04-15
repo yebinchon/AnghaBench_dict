@@ -1,0 +1,12 @@
+PROCESS__NOATSECURE,VAR_0
+SECCLASS_PROCESS,VAR_1
+avc_has_perm,FUNC_0
+cap_bprm_secureexec,FUNC_1
+current_cred,FUNC_2
+selinux_bprm_secureexec,FUNC_3
+bprm,VAR_2
+cred,VAR_3
+tsec,VAR_4
+sid,VAR_5
+osid,VAR_6
+atsecure,VAR_7

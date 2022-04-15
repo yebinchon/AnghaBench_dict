@@ -1,0 +1,16 @@
+AUDIO_FORMAT_FLOAT_PLANAR,VAR_0
+jack_channels_to_obs_speakers,FUNC_0
+jack_frames_to_time,FUNC_1
+jack_get_sample_rate,FUNC_2
+jack_port_get_buffer,FUNC_3
+obs_source_output_audio,FUNC_4
+os_gettime_ns,FUNC_5
+pthread_mutex_lock,FUNC_6
+pthread_mutex_unlock,FUNC_7
+jack_process_callback,FUNC_8
+nframes,VAR_1
+arg,VAR_2
+data,VAR_3
+out,VAR_4
+i,VAR_5
+jack_buffer,VAR_6

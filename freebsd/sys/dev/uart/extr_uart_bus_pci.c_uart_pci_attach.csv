@@ -1,0 +1,9 @@
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+pci_alloc_msi,FUNC_2
+pci_msi_count,FUNC_3
+uart_bus_attach,FUNC_4
+uart_pci_attach,FUNC_5
+dev,VAR_0
+sc,VAR_1
+count,VAR_2

@@ -1,0 +1,11 @@
+MSR_MISC_FEATURES_ENABLES,VAR_0
+init_cpuid_fault,FUNC_0
+msr_misc_features_shadow,VAR_1
+probe_xeon_phi_r3mwait,FUNC_1
+rdmsrl_safe,FUNC_2
+this_cpu_read,FUNC_3
+this_cpu_write,FUNC_4
+wrmsrl,FUNC_5
+init_intel_misc_features,FUNC_6
+c,VAR_2
+msr,VAR_3

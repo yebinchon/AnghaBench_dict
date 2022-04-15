@@ -1,0 +1,13 @@
+HZ,VAR_0
+RTL8187_REQT_READ,VAR_1
+RTL8187_REQ_GET_REG,VAR_2
+le32_to_cpu,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+usb_control_msg,FUNC_3
+usb_rcvctrlpipe,FUNC_4
+rtl818x_ioread32_idx,FUNC_5
+priv,VAR_3
+addr,VAR_4
+idx,VAR_5
+val,VAR_6

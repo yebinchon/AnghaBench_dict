@@ -1,0 +1,9 @@
+MPASS,FUNC_0
+REFCOUNT_COUNT,FUNC_1
+VM_OBJECT_ASSERT_WLOCKED,FUNC_2
+VM_OBJECT_WLOCK,FUNC_3
+VM_OBJECT_WUNLOCK,FUNC_4
+vm_map_lock_read,FUNC_5
+vm_map_trylock_read,FUNC_6
+vm_fault_restore_map_lock,FUNC_7
+fs,VAR_0

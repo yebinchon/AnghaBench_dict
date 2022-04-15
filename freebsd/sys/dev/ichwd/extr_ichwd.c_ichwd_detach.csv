@@ -1,0 +1,12 @@
+EVENTHANDLER_DEREGISTER,FUNC_0
+SYS_RES_IOPORT,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+ichwd_smi_enable,FUNC_3
+ichwd_sts_reset,FUNC_4
+ichwd_tmr_disable,FUNC_5
+watchdog_list,VAR_2
+ichwd_detach,FUNC_6
+dev,VAR_3
+sc,VAR_4

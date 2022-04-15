@@ -1,0 +1,14 @@
+CAN_CTRLMODE_3_SAMPLES,VAR_0
+PUCAN_CMD_TIMING_SLOW,VAR_1
+PUCAN_TSLOW_BRP,FUNC_0
+PUCAN_TSLOW_SJW_T,FUNC_1
+PUCAN_TSLOW_TSEG1,FUNC_2
+PUCAN_TSLOW_TSEG2,FUNC_3
+cpu_to_le16,FUNC_4
+pcan_usb_fd_cmd_buffer,FUNC_5
+pcan_usb_fd_send_cmd,FUNC_6
+pucan_cmd_opcode_channel,FUNC_7
+pcan_usb_fd_set_bittiming_slow,FUNC_8
+dev,VAR_2
+bt,VAR_3
+cmd,VAR_4

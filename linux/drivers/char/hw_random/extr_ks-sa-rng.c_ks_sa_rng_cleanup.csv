@@ -1,0 +1,9 @@
+SA_CMD_STATUS_OFS,VAR_0
+SA_CMD_STATUS_REG_TRNG_ENABLE,VAR_1
+dev_get_drvdata,FUNC_0
+regmap_write_bits,FUNC_1
+writel,FUNC_2
+ks_sa_rng_cleanup,FUNC_3
+rng,VAR_2
+dev,VAR_3
+ks_sa_rng,VAR_4

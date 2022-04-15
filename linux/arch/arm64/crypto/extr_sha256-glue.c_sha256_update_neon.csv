@@ -1,0 +1,16 @@
+CONFIG_PREEMPT,VAR_0
+IS_ENABLED,FUNC_0
+SHA256_BLOCK_SIZE,VAR_1
+crypto_simd_usable,FUNC_1
+kernel_neon_begin,FUNC_2
+kernel_neon_end,FUNC_3
+sha256_base_do_update,FUNC_4
+sha256_block_data_order,VAR_2
+sha256_block_neon,VAR_3
+shash_desc_ctx,FUNC_5
+sha256_update_neon,FUNC_6
+desc,VAR_4
+data,VAR_5
+len,VAR_6
+sctx,VAR_7
+chunk,VAR_8

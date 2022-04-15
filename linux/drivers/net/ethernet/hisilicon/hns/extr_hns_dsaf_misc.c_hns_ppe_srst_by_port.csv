@@ -1,0 +1,10 @@
+DSAF_SUB_SC_PPE_RESET_DREQ_REG,VAR_0
+DSAF_SUB_SC_PPE_RESET_REQ_REG,VAR_1
+RESET_REQ_OR_DREQ,VAR_2
+dsaf_write_sub,FUNC_0
+hns_ppe_srst_by_port,FUNC_1
+dsaf_dev,VAR_3
+port,VAR_4
+dereset,VAR_5
+reg_val,VAR_6
+reg_addr,VAR_7

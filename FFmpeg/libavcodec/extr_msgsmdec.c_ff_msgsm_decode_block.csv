@@ -1,0 +1,11 @@
+GSM_FRAME_SIZE,VAR_0
+GSM_MS_BLOCK_SIZE,VAR_1
+gsm_decode_block,FUNC_0
+init_get_bits,FUNC_1
+ff_msgsm_decode_block,FUNC_2
+avctx,VAR_2
+samples,VAR_3
+buf,VAR_4
+mode,VAR_5
+res,VAR_6
+gb,VAR_7

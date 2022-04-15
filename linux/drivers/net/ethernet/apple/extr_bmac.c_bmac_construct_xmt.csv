@@ -1,0 +1,11 @@
+INTR_ALWAYS,VAR_0
+OUTPUT_LAST,VAR_1
+WAIT_IFCLR,VAR_2
+dbdma_setcmd,FUNC_0
+virt_to_bus,FUNC_1
+bmac_construct_xmt,FUNC_2
+skb,VAR_3
+cp,VAR_4
+vaddr,VAR_5
+baddr,VAR_6
+len,VAR_7

@@ -1,0 +1,14 @@
+UART_PUT_UTCR3,FUNC_0
+UART_PUT_UTSR0,FUNC_1
+UTCR3_RIE,VAR_0
+UTCR3_RXE,VAR_1
+UTCR3_TXE,VAR_2
+request_irq,FUNC_2
+sa1100_enable_ms,FUNC_3
+sa1100_int,VAR_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+sa1100_startup,FUNC_6
+port,VAR_4
+sport,VAR_5
+retval,VAR_6

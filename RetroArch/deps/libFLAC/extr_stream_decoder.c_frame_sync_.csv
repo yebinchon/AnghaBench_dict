@@ -1,0 +1,12 @@
+FLAC__STREAM_DECODER_END_OF_STREAM,VAR_0
+FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC,VAR_1
+FLAC__STREAM_DECODER_READ_FRAME,VAR_2
+FLAC__bitreader_bits_left_for_byte_alignment,FUNC_0
+FLAC__bitreader_is_consumed_byte_aligned,FUNC_1
+FLAC__bitreader_read_raw_uint32,FUNC_2
+FLAC__stream_decoder_get_total_samples,FUNC_3
+send_error_to_client_,FUNC_4
+frame_sync_,FUNC_5
+decoder,VAR_3
+x,VAR_4
+first,VAR_5

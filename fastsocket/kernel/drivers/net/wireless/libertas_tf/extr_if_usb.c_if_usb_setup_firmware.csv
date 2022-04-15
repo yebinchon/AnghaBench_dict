@@ -1,0 +1,12 @@
+CMD_SET_BOOT2_VER,VAR_0
+LBTF_DEB_USB,VAR_1
+cpu_to_le16,FUNC_0
+if_usb_submit_rx_urb,FUNC_1
+lbtf_cmd_with_response,FUNC_2
+lbtf_deb_enter,FUNC_3
+lbtf_deb_leave,FUNC_4
+lbtf_deb_usb,FUNC_5
+if_usb_setup_firmware,FUNC_6
+priv,VAR_2
+cardp,VAR_3
+b2_cmd,VAR_4

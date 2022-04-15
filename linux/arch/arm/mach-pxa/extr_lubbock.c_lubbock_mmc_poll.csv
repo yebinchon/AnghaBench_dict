@@ -1,0 +1,14 @@
+LUBBOCK_SD_IRQ,VAR_0
+LUB_IRQ_SET_CLR,VAR_1
+MMC_POLL_RATE,VAR_2
+enable_irq,FUNC_0
+jiffies,VAR_3
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+mmc_detect_int,FUNC_3
+mmc_detect_int_data,VAR_4
+mmc_timer,VAR_5
+mod_timer,FUNC_4
+lubbock_mmc_poll,FUNC_5
+unused,VAR_6
+flags,VAR_7

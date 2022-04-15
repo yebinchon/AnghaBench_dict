@@ -1,0 +1,12 @@
+bus_dmamap_destroy,FUNC_0
+callout_drain,FUNC_1
+mtx_lock,FUNC_2
+mtx_owned,FUNC_3
+mtx_unlock,FUNC_4
+pvscsi_dma_free,FUNC_5
+pvscsi_dma_free_per_hcb,FUNC_6
+sc,VAR_0
+hcbs_allocated,VAR_1
+i,VAR_2
+lock_owned,VAR_3
+hcb,VAR_4

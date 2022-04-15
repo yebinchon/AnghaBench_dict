@@ -1,0 +1,8 @@
+FLUSH,VAR_0
+PAUSE,VAR_1
+RUN,VAR_2
+WAKE,VAR_3
+out_le32,FUNC_0
+snd_pmac_wait_ack,FUNC_1
+snd_pmac_dma_stop,FUNC_2
+rec,VAR_4

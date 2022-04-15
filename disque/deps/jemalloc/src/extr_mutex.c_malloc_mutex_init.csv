@@ -1,0 +1,15 @@
+InitializeCriticalSectionAndSpinCount,FUNC_0
+InitializeSRWLock,FUNC_1
+MALLOC_MUTEX_TYPE,VAR_0
+_CRT_SPINCOUNT,VAR_1
+_pthread_mutex_init_calloc_cb,FUNC_2
+bootstrap_calloc,VAR_2
+postpone_init,VAR_3
+postponed_mutexes,VAR_4
+pthread_mutex_init,FUNC_3
+pthread_mutexattr_destroy,FUNC_4
+pthread_mutexattr_init,FUNC_5
+pthread_mutexattr_settype,FUNC_6
+malloc_mutex_init,FUNC_7
+mutex,VAR_5
+attr,VAR_6

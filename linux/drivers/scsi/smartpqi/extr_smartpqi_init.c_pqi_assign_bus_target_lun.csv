@@ -1,0 +1,15 @@
+PQI_EXTERNAL_RAID_VOLUME_BUS,VAR_0
+PQI_HBA_BUS,VAR_1
+PQI_PHYSICAL_DEVICE_BUS,VAR_2
+PQI_RAID_VOLUME_BUS,VAR_3
+get_unaligned_le32,FUNC_0
+pqi_is_hba_lunid,FUNC_1
+pqi_is_logical_device,FUNC_2
+pqi_set_bus_target_lun,FUNC_3
+pqi_assign_bus_target_lun,FUNC_4
+device,VAR_4
+scsi3addr,VAR_5
+lunid,VAR_6
+bus,VAR_7
+target,VAR_8
+lun,VAR_9

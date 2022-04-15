@@ -1,0 +1,16 @@
+EMU10K1X_MIDI_MODE_INPUT,VAR_0
+mpu401_clear_rx,FUNC_0
+mpu401_input_avail,FUNC_1
+mpu401_output_ready,FUNC_2
+mpu401_read_data,FUNC_3
+mpu401_write_data,FUNC_4
+snd_emu10k1x_intr_disable,FUNC_5
+snd_rawmidi_receive,FUNC_6
+snd_rawmidi_transmit,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+do_emu10k1x_midi_interrupt,FUNC_10
+emu,VAR_1
+midi,VAR_2
+status,VAR_3
+byte,VAR_4

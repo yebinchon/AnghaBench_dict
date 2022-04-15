@@ -1,0 +1,17 @@
+DMA_TO_DEVICE,VAR_0
+ENOMEM,VAR_1
+dma_map_single,FUNC_0
+dma_mapping_error,FUNC_1
+mt76_dma_add_buf,FUNC_2
+mt76_dma_kick_queue,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+unlikely,FUNC_6
+mt76_dma_tx_queue_skb_raw,FUNC_7
+dev,VAR_2
+qid,VAR_3
+skb,VAR_4
+tx_info,VAR_5
+q,VAR_6
+buf,VAR_7
+addr,VAR_8

@@ -1,0 +1,13 @@
+TSI721_MSG_BUFFER_SIZE,VAR_0
+TSI721_OBDMAC_INT_ALL,VAR_1
+TSI721_USING_MSIX,VAR_2
+TSI721_VECT_OMB0_DONE,VAR_3
+TSI721_VECT_OMB0_INT,VAR_4
+dma_free_coherent,FUNC_0
+free_irq,FUNC_1
+tsi721_omsg_interrupt_disable,FUNC_2
+tsi721_close_outb_mbox,FUNC_3
+mport,VAR_5
+mbox,VAR_6
+priv,VAR_7
+i,VAR_8

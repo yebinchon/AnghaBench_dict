@@ -1,0 +1,8 @@
+H2O_HTTP2_CONN_STATE_IS_CLOSING,VAR_0
+assert,FUNC_0
+h2o_http2_conn_request_write,FUNC_1
+h2o_http2_encode_rst_stream_frame,FUNC_2
+stream_send_error,FUNC_3
+conn,VAR_1
+stream_id,VAR_2
+errnum,VAR_3

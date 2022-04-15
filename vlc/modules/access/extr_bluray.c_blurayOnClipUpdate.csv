@@ -1,0 +1,16 @@
+BD_CLIP_APP_TYPE_TS_MAIN_PATH_TIMED_SLIDESHOW,VAR_0
+BLURAY_ES_OUT_CONTROL_DISABLE_LOW_DELAY,VAR_1
+BLURAY_ES_OUT_CONTROL_ENABLE_LOW_DELAY,VAR_2
+assert,FUNC_0
+bd_free_clpi,FUNC_1
+bd_get_clpi,FUNC_2
+blurayResetStillImage,FUNC_3
+blurayRestartParser,FUNC_4
+es_out_Control,FUNC_5
+vlc_mutex_lock,FUNC_6
+vlc_mutex_unlock,FUNC_7
+blurayOnClipUpdate,FUNC_8
+p_demux,VAR_3
+clip,VAR_4
+p_sys,VAR_5
+clpi,VAR_6

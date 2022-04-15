@@ -1,0 +1,12 @@
+MWIFIEX_MAX_VSIE_NUM,VAR_0
+TLV_TYPE_PASSTHROUGH,VAR_1
+cpu_to_le16,FUNC_0
+le16_to_cpu,FUNC_1
+memcpy,FUNC_2
+mwifiex_cmd_append_vsie_tlv,FUNC_3
+priv,VAR_2
+vsie_mask,VAR_3
+buffer,VAR_4
+id,VAR_5
+ret_len,VAR_6
+vs_param_set,VAR_7

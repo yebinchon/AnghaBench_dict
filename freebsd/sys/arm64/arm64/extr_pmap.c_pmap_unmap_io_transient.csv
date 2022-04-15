@@ -1,0 +1,11 @@
+PHYS_IN_DMAP,FUNC_0
+VM_PAGE_TO_PHYS,FUNC_1
+panic,FUNC_2
+sched_unpin,FUNC_3
+pmap_unmap_io_transient,FUNC_4
+page,VAR_0
+vaddr,VAR_1
+count,VAR_2
+can_fault,VAR_3
+paddr,VAR_4
+i,VAR_5

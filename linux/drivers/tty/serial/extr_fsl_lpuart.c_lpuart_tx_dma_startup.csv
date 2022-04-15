@@ -1,0 +1,14 @@
+UARTBAUD,VAR_0
+UARTBAUD_TDMAE,VAR_1
+UARTCR5,VAR_2
+UARTCR5_TDMAS,VAR_3
+init_waitqueue_head,FUNC_0
+lpuart32_read,FUNC_1
+lpuart32_write,FUNC_2
+lpuart_dma_tx_request,FUNC_3
+lpuart_is_32,FUNC_4
+readb,FUNC_5
+writeb,FUNC_6
+lpuart_tx_dma_startup,FUNC_7
+sport,VAR_4
+uartbaud,VAR_5

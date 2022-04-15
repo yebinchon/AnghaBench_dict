@@ -1,0 +1,10 @@
+KVM_ARM_DEV_EL1_PTIMER,VAR_0
+KVM_ARM_DEV_EL1_VTIMER,VAR_1
+kvm_timer_should_fire,FUNC_0
+vcpu_ptimer,FUNC_1
+vcpu_vtimer,FUNC_2
+kvm_timer_update_run,FUNC_3
+vcpu,VAR_2
+vtimer,VAR_3
+ptimer,VAR_4
+regs,VAR_5

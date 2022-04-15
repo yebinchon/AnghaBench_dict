@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+EPERM,VAR_1
+GFP_KERNEL,VAR_2
+KOBJ_NS_TYPE_NET,VAR_3
+SB_KERNMOUNT,VAR_4
+SYSFS_MAGIC,VAR_5
+get_user_ns,FUNC_0
+kobj_ns_current_may_mount,FUNC_1
+kobj_ns_grab_current,FUNC_2
+kzalloc,FUNC_3
+put_user_ns,FUNC_4
+sysfs_fs_context_ops,VAR_6
+sysfs_root,VAR_7
+sysfs_init_fs_context,FUNC_5
+fc,VAR_8
+kfc,VAR_9
+netns,VAR_10

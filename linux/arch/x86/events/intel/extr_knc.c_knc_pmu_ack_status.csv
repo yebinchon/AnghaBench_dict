@@ -1,0 +1,4 @@
+MSR_KNC_IA32_PERF_GLOBAL_OVF_CONTROL,VAR_0
+wrmsrl,FUNC_0
+knc_pmu_ack_status,FUNC_1
+ack,VAR_1

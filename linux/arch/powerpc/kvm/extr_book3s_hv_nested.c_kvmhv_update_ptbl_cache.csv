@@ -1,0 +1,12 @@
+EFAULT,VAR_0
+PRTB_MASK,VAR_1
+PRTS_MASK,VAR_2
+be64_to_cpu,FUNC_0
+kvm_read_guest,FUNC_1
+kvmhv_set_nested_ptbl,FUNC_2
+kvmhv_update_ptbl_cache,FUNC_3
+gp,VAR_3
+ret,VAR_4
+ptbl_entry,VAR_5
+ptbl_addr,VAR_6
+kvm,VAR_7

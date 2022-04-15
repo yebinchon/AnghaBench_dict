@@ -1,0 +1,17 @@
+HFA384x_RID_CNFWEP128DEFAULTKEY_LEN,VAR_0
+HFA384x_RID_CNFWEPDEFAULTKEY_LEN,VAR_1
+MIB_TMP_MAXLEN,VAR_2
+hfa384x_drvr_setconfig,FUNC_0
+memset,FUNC_1
+prism2mgmt_pstr2bytearea,FUNC_2
+prism2mib_wepdefaultkey,FUNC_3
+mib,VAR_3
+isget,VAR_4
+wlandev,VAR_5
+hw,VAR_6
+msg,VAR_7
+data,VAR_8
+result,VAR_9
+pstr,VAR_10
+bytebuf,VAR_11
+len,VAR_12

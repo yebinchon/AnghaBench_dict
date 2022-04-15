@@ -1,0 +1,15 @@
+CMD_PKT_STATUS_TIMEOUT_US,VAR_0
+DSI_CMD_PKT_STATUS,VAR_1
+DSI_GEN_HDR,VAR_2
+GEN_CMD_EMPTY,VAR_3
+GEN_CMD_FULL,VAR_4
+GEN_PLD_W_EMPTY,VAR_5
+dev_err,FUNC_0
+dsi_write,FUNC_1
+readl_poll_timeout,FUNC_2
+dw_mipi_dsi_gen_pkt_hdr_write,FUNC_3
+dsi,VAR_6
+hdr_val,VAR_7
+ret,VAR_8
+val,VAR_9
+mask,VAR_10

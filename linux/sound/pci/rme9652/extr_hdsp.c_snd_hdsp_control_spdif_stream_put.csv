@@ -1,0 +1,15 @@
+HDSP_SPDIFEmphasis,VAR_0
+HDSP_SPDIFNonAudio,VAR_1
+HDSP_SPDIFProfessional,VAR_2
+HDSP_controlRegister,VAR_3
+hdsp_write,FUNC_0
+snd_hdsp_convert_from_aes,FUNC_1
+snd_kcontrol_chip,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+snd_hdsp_control_spdif_stream_put,FUNC_5
+kcontrol,VAR_4
+ucontrol,VAR_5
+hdsp,VAR_6
+change,VAR_7
+val,VAR_8

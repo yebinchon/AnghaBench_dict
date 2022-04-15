@@ -1,0 +1,14 @@
+S6_NUM_RX_SKB,VAR_0
+S6_NUM_TX_SKB,VAR_1
+dev_kfree_skb,FUNC_0
+netdev_priv,FUNC_1
+netif_stop_queue,FUNC_2
+phy_stop,FUNC_3
+s6gmac_init_dmac,FUNC_4
+s6gmac_stop_device,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+s6gmac_stop,FUNC_8
+dev,VAR_2
+pd,VAR_3
+flags,VAR_4

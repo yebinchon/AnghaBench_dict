@@ -1,0 +1,16 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+LIST_INIT,FUNC_1
+MTX_DEF,VAR_1
+if_clone_simple,FUNC_2
+ifnet_departure_event,VAR_2
+mtx_init,FUNC_3
+vxlan_clone_create,VAR_3
+vxlan_clone_destroy,VAR_4
+vxlan_cloner,VAR_5
+vxlan_ifdetach_event,VAR_6
+vxlan_ifdetach_event_tag,VAR_7
+vxlan_list_mtx,VAR_8
+vxlan_name,VAR_9
+vxlan_socket_list,VAR_10
+vxlan_load,FUNC_4

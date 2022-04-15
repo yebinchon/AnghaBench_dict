@@ -1,0 +1,16 @@
+AMDTP_IN_STREAM,VAR_0
+AMDTP_OUT_STREAM,VAR_1
+amdtp_domain_stop,FUNC_0
+ensure_phase_lock,FUNC_1
+finish_session,FUNC_2
+get_register_params,FUNC_3
+keep_dual_resources,FUNC_4
+release_resources,FUNC_5
+snd_dice_transaction_get_rate,FUNC_6
+snd_dice_stream_reserve_duplex,FUNC_7
+dice,VAR_2
+rate,VAR_3
+curr_rate,VAR_4
+err,VAR_5
+tx_params,VAR_6
+rx_params,VAR_7

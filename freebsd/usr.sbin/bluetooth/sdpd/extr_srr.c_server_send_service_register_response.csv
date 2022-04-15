@@ -1,0 +1,12 @@
+EINTR,VAR_0
+SDP_PDU_ERROR_RESPONSE,VAR_1
+assert,FUNC_0
+errno,VAR_2
+htons,FUNC_1
+writev,FUNC_2
+server_send_service_register_response,FUNC_3
+srv,VAR_3
+fd,VAR_4
+iov,VAR_5
+pdu,VAR_6
+size,VAR_7

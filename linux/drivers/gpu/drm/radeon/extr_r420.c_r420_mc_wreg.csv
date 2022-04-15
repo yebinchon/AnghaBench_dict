@@ -1,0 +1,12 @@
+R_0001F8_MC_IND_INDEX,VAR_0
+R_0001FC_MC_IND_DATA,VAR_1
+S_0001F8_MC_IND_ADDR,FUNC_0
+S_0001F8_MC_IND_WR_EN,FUNC_1
+WREG32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+r420_mc_wreg,FUNC_5
+rdev,VAR_2
+reg,VAR_3
+v,VAR_4
+flags,VAR_5

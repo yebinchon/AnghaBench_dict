@@ -1,0 +1,14 @@
+CMD_802_11_HOST_SLEEP_CFG,VAR_0
+CMD_ACT_ACTION_NONE,VAR_1
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+lbs_cmd_with_response,FUNC_2
+lbs_deb_cmd,FUNC_3
+lbs_pr_info,FUNC_4
+memcpy,FUNC_5
+lbs_host_sleep_cfg,FUNC_6
+priv,VAR_2
+criteria,VAR_3
+p_wol_config,VAR_4
+cmd_config,VAR_5
+ret,VAR_6

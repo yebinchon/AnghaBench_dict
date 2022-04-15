@@ -1,0 +1,15 @@
+MLX4_CMD_CLEANUP_HCR,VAR_0
+MLX4_CMD_CLEANUP_POOL,VAR_1
+MLX4_CMD_CLEANUP_STRUCT,VAR_2
+MLX4_CMD_CLEANUP_VHCR,VAR_3
+PAGE_SIZE,VAR_4
+dma_free_coherent,FUNC_0
+iounmap,FUNC_1
+mlx4_is_mfunc,FUNC_2
+mlx4_is_slave,FUNC_3
+mlx4_priv,FUNC_4
+pci_pool_destroy,FUNC_5
+mlx4_cmd_cleanup,FUNC_6
+dev,VAR_5
+cleanup_mask,VAR_6
+priv,VAR_7

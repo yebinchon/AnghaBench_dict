@@ -1,0 +1,13 @@
+SYS_RES_MEMORY,VAR_0
+bus_generic_detach,FUNC_0
+bus_release_resource,FUNC_1
+callout_drain,FUNC_2
+crypto_unregister_all,FUNC_3
+device_get_softc,FUNC_4
+glxsb_dma_free,FUNC_5
+mtx_destroy,FUNC_6
+taskqueue_drain,FUNC_7
+taskqueue_free,FUNC_8
+glxsb_detach,FUNC_9
+dev,VAR_1
+sc,VAR_2

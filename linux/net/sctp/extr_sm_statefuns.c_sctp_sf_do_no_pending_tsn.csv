@@ -1,0 +1,15 @@
+GFP_ATOMIC,VAR_0
+SCTP_CMD_EVENT_ULP,VAR_1
+SCTP_DISPOSITION_CONSUME,VAR_2
+SCTP_DISPOSITION_NOMEM,VAR_3
+SCTP_ULPEVENT,FUNC_0
+sctp_add_cmd_sf,FUNC_1
+sctp_ulpevent_make_sender_dry_event,FUNC_2
+sctp_sf_do_no_pending_tsn,FUNC_3
+net,VAR_4
+ep,VAR_5
+asoc,VAR_6
+type,VAR_7
+arg,VAR_8
+commands,VAR_9
+event,VAR_10

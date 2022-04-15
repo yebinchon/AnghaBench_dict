@@ -1,0 +1,13 @@
+ATA_DEVICE_CLEAR_BEGIN,VAR_0
+ATA_DEVICE_CLEAR_END,VAR_1
+ATA_DFLAG_INIT_MASK,VAR_2
+UINT_MAX,VAR_3
+ata_dev_phys_link,FUNC_0
+memset,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ata_dev_init,FUNC_4
+dev,VAR_4
+link,VAR_5
+ap,VAR_6
+flags,VAR_7

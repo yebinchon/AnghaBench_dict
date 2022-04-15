@@ -1,0 +1,14 @@
+I40E_PRTTSYN_TIME_H,VAR_0
+I40E_PRTTSYN_TIME_L,VAR_1
+ns_to_timespec64,FUNC_0
+ptp_read_system_postts,FUNC_1
+ptp_read_system_prets,FUNC_2
+rd32,FUNC_3
+i40e_ptp_read,FUNC_4
+pf,VAR_2
+ts,VAR_3
+sts,VAR_4
+hw,VAR_5
+hi,VAR_6
+lo,VAR_7
+ns,VAR_8

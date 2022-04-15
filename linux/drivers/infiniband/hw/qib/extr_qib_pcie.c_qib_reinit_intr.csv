@@ -1,0 +1,17 @@
+PCI_MSI_ADDRESS_HI,VAR_0
+PCI_MSI_ADDRESS_LO,VAR_1
+PCI_MSI_FLAGS,VAR_2
+PCI_MSI_FLAGS_64BIT,VAR_3
+PCI_MSI_FLAGS_ENABLE,VAR_4
+QIB_HAS_INTX,VAR_5
+pci_read_config_word,FUNC_0
+pci_set_master,FUNC_1
+pci_write_config_dword,FUNC_2
+pci_write_config_word,FUNC_3
+qib_dev_err,FUNC_4
+qib_free_irq,FUNC_5
+qib_reinit_intr,FUNC_6
+dd,VAR_6
+pos,VAR_7
+control,VAR_8
+ret,VAR_9

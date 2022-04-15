@@ -1,0 +1,10 @@
+SATI_SUCCESS,VAR_0
+sati_ata_identify_device_construct,FUNC_0
+sati_mode_sense_is_page_code_supported,FUNC_1
+sati_mode_sense_is_page_control_supported,FUNC_2
+sati_mode_sense_translate_command,FUNC_3
+sequence,VAR_1
+scsi_io,VAR_2
+ata_io,VAR_3
+cdb_length,VAR_4
+status,VAR_5

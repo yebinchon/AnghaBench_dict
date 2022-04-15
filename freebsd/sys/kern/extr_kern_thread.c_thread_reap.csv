@@ -1,0 +1,14 @@
+TAILQ_EMPTY,FUNC_0
+TAILQ_FIRST,FUNC_1
+TAILQ_INIT,FUNC_2
+TAILQ_NEXT,FUNC_3
+mtx_lock_spin,FUNC_4
+mtx_unlock_spin,FUNC_5
+td_slpq,VAR_0
+thread_cow_free,FUNC_6
+thread_free,FUNC_7
+zombie_lock,VAR_1
+zombie_threads,VAR_2
+thread_reap,FUNC_8
+td_first,VAR_3
+td_next,VAR_4

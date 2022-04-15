@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+TIPC_NLA_PUBL,VAR_1
+TIPC_NLA_PUBL_LOWER,VAR_2
+TIPC_NLA_PUBL_MAX,VAR_3
+TIPC_NLA_PUBL_TYPE,VAR_4
+TIPC_NLA_PUBL_UPPER,VAR_5
+nla_get_u32,FUNC_0
+nla_parse_nested_deprecated,FUNC_1
+tipc_tlv_sprintf,FUNC_2
+__tipc_nl_compat_publ_dump,FUNC_3
+msg,VAR_6
+attrs,VAR_7
+type,VAR_8
+lower,VAR_9
+upper,VAR_10
+publ,VAR_11
+err,VAR_12

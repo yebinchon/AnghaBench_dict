@@ -1,0 +1,15 @@
+PN_INT_BFRDY,VAR_0
+PN_INT_LSTTR,VAR_1
+USB3_PN_INT_ENA,VAR_2
+USB3_PN_INT_STA,VAR_3
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+usb3_irq_epc_pipen_bfrdy,FUNC_2
+usb3_irq_epc_pipen_lsttr,FUNC_3
+usb3_pn_change,FUNC_4
+usb3_read,FUNC_5
+usb3_write,FUNC_6
+usb3_irq_epc_pipen,FUNC_7
+usb3,VAR_4
+num,VAR_5
+pn_int_sta,VAR_6

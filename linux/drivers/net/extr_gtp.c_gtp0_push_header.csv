@@ -1,0 +1,10 @@
+GTP_TPDU,VAR_0
+atomic_inc_return,FUNC_0
+cpu_to_be64,FUNC_1
+htons,FUNC_2
+skb_push,FUNC_3
+gtp0_push_header,FUNC_4
+skb,VAR_1
+pctx,VAR_2
+payload_len,VAR_3
+gtp0,VAR_4

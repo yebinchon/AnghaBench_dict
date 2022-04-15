@@ -1,0 +1,17 @@
+DMU_READ_PREFETCH,VAR_0
+UMEM_NOFAIL,VAR_1
+VERIFY,FUNC_0
+dmu_read,FUNC_1
+dump_nvlist,FUNC_2
+nvlist_free,FUNC_3
+nvlist_unpack,FUNC_4
+umem_alloc,FUNC_5
+umem_free,FUNC_6
+dump_packed_nvlist,FUNC_7
+os,VAR_2
+object,VAR_3
+data,VAR_4
+size,VAR_5
+nv,VAR_6
+nvsize,VAR_7
+packed,VAR_8

@@ -1,0 +1,13 @@
+PSCI_RET_NOT_SUPPORTED,VAR_0
+PSCI_RET_SUCCESS,VAR_1
+kvm_psci_vcpu_off,FUNC_0
+kvm_psci_vcpu_on,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+smccc_get_function,FUNC_4
+smccc_set_retval,FUNC_5
+kvm_psci_0_1_call,FUNC_6
+vcpu,VAR_2
+kvm,VAR_3
+psci_fn,VAR_4
+val,VAR_5

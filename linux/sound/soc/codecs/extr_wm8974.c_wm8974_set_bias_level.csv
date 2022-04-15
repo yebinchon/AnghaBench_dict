@@ -1,0 +1,15 @@
+WM8974_POWER1,VAR_0
+WM8974_POWER1_BIASEN,VAR_1
+WM8974_POWER1_BUFIOEN,VAR_2
+WM8974_POWER2,VAR_3
+WM8974_POWER3,VAR_4
+dev_get_regmap,FUNC_0
+mdelay,FUNC_1
+regcache_sync,FUNC_2
+snd_soc_component_get_bias_level,FUNC_3
+snd_soc_component_read32,FUNC_4
+snd_soc_component_write,FUNC_5
+wm8974_set_bias_level,FUNC_6
+component,VAR_5
+level,VAR_6
+power1,VAR_7

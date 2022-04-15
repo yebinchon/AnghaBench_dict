@@ -1,0 +1,8 @@
+PROCESS__PTRACE,VAR_0
+SECCLASS_PROCESS,VAR_1
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_state,VAR_2
+task_sid,FUNC_2
+selinux_ptrace_traceme,FUNC_3
+parent,VAR_3

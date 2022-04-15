@@ -1,0 +1,14 @@
+AUTH_REQ_OK,VAR_0
+AUTH_REQ_SASL_FIN,VAR_1
+CHECK_FOR_INTERRUPTS,FUNC_0
+pq_beginmessage,FUNC_1
+pq_endmessage,FUNC_2
+pq_flush,FUNC_3
+pq_sendbytes,FUNC_4
+pq_sendint32,FUNC_5
+sendAuthRequest,FUNC_6
+port,VAR_2
+areq,VAR_3
+extradata,VAR_4
+extralen,VAR_5
+buf,VAR_6

@@ -1,0 +1,11 @@
+SCIC_SDS_REMOTE_NODE_CONTEXT_RESUMING_STATE,VAR_0
+SCU_CONTEXT_COMMAND_POST_RNC_RESUME,VAR_1
+SET_STATE_HANDLER,FUNC_0
+scic_remote_device_get_protocols,FUNC_1
+scic_sds_port_setup_transports,FUNC_2
+scic_sds_remote_device_post_request,FUNC_3
+scic_sds_remote_node_context_state_handler_table,VAR_2
+scic_sds_remote_node_context_resuming_state_enter,FUNC_4
+object,VAR_3
+rnc,VAR_4
+protocols,VAR_5

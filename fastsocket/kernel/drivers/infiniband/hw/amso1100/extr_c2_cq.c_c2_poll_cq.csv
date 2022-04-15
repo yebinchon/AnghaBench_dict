@@ -1,0 +1,14 @@
+c2_poll_one,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_c2cq,FUNC_3
+to_c2dev,FUNC_4
+c2_poll_cq,FUNC_5
+ibcq,VAR_0
+num_entries,VAR_1
+entry,VAR_2
+c2dev,VAR_3
+cq,VAR_4
+flags,VAR_5
+npolled,VAR_6
+err,VAR_7

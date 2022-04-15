@@ -1,0 +1,16 @@
+IO_MADE_GOOD,VAR_0
+R1BIO_Degraded,VAR_1
+R1BIO_WriteError,VAR_2
+close_write,FUNC_0
+md_error,FUNC_1
+narrow_write_error,FUNC_2
+raid_end_bio_io,FUNC_3
+rdev_clear_badblocks,FUNC_4
+rdev_dec_pending,FUNC_5
+set_bit,FUNC_6
+test_bit,FUNC_7
+handle_write_finished,FUNC_8
+conf,VAR_3
+r1_bio,VAR_4
+m,VAR_5
+rdev,VAR_6

@@ -1,0 +1,14 @@
+ATA_TFLAG_DEVICE,VAR_0
+ATA_TFLAG_ISADDR,VAR_1
+ATA_TFLAG_LBA48,VAR_2
+VPRINTK,FUNC_0
+WARN_ON_ONCE,FUNC_1
+ata_wait_idle,FUNC_2
+iowrite8,FUNC_3
+via_tf_load,FUNC_4
+ap,VAR_3
+tf,VAR_4
+ioaddr,VAR_5
+vp,VAR_6
+is_addr,VAR_7
+newctl,VAR_8

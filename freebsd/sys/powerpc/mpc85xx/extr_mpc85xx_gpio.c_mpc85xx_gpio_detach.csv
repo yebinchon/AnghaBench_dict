@@ -1,0 +1,9 @@
+GPIO_LOCK_DESTROY,FUNC_0
+SYS_RES_MEMORY,VAR_0
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+gpiobus_detach_bus,FUNC_3
+rman_get_rid,FUNC_4
+mpc85xx_gpio_detach,FUNC_5
+dev,VAR_1
+sc,VAR_2

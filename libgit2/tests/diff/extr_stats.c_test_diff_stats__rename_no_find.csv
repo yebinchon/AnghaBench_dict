@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_DIFF_STATS_FULL,VAR_1
+_stats,VAR_2
+cl_assert_equal_s,FUNC_0
+cl_assert_equal_sz,FUNC_1
+cl_git_pass,FUNC_2
+diff_stats_from_commit_oid,FUNC_3
+git_buf_cstr,FUNC_4
+git_buf_dispose,FUNC_5
+git_diff_stats_deletions,FUNC_6
+git_diff_stats_files_changed,FUNC_7
+git_diff_stats_insertions,FUNC_8
+git_diff_stats_to_buf,FUNC_9
+test_diff_stats__rename_no_find,FUNC_10
+buf,VAR_3
+stat,VAR_4

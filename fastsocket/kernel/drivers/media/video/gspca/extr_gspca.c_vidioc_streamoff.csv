@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+ERESTARTSYS,VAR_2
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_3
+atomic_set,FUNC_0
+gspca_stream_off,FUNC_1
+mutex_lock_interruptible,FUNC_2
+mutex_unlock,FUNC_3
+wake_up_interruptible,FUNC_4
+vidioc_streamoff,FUNC_5
+file,VAR_4
+priv,VAR_5
+buf_type,VAR_6
+gspca_dev,VAR_7
+ret,VAR_8

@@ -1,0 +1,16 @@
+DPLL_VCO_ENABLE,VAR_0
+REG_READ,FUNC_0
+REG_WRITE,FUNC_1
+dev_err,FUNC_2
+gma_wait_for_vblank,FUNC_3
+to_gma_crtc,FUNC_4
+udelay,FUNC_5
+gma_crtc_restore,FUNC_6
+crtc,VAR_1
+dev,VAR_2
+dev_priv,VAR_3
+gma_crtc,VAR_4
+crtc_state,VAR_5
+map,VAR_6
+palette_reg,VAR_7
+i,VAR_8

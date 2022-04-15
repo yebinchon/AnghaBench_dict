@@ -1,0 +1,15 @@
+_repo,VAR_0
+_sig,VAR_1
+assert_notes_seen,FUNC_0
+cl_git_pass,FUNC_1
+git_note_commit_create,FUNC_2
+git_note_foreach,FUNC_3
+git_oid_fromstr,FUNC_4
+git_reference_create,FUNC_5
+git_reference_free,FUNC_6
+note_list_create_cb,VAR_2
+test_notes_notes__can_create_a_note_from_commit,FUNC_7
+oid,VAR_3
+notes_commit_out,VAR_4
+ref,VAR_5
+can_create_a_note_from_commit,VAR_6

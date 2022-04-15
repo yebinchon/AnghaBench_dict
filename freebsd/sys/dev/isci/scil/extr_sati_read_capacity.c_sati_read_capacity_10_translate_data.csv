@@ -1,0 +1,9 @@
+sati_ata_identify_device_get_sector_info,FUNC_0
+sati_set_data_byte,FUNC_1
+sati_read_capacity_10_translate_data,FUNC_2
+sequence,VAR_0
+ata_input_data,VAR_1
+scsi_io,VAR_2
+lba_low,VAR_3
+lba_high,VAR_4
+sector_size,VAR_5

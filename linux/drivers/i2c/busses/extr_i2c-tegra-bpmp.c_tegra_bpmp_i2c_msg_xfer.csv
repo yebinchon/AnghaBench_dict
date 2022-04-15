@@ -1,0 +1,12 @@
+CMD_I2C_XFER,VAR_0
+MRQ_I2C,VAR_1
+memset,FUNC_0
+tegra_bpmp_transfer,FUNC_1
+tegra_bpmp_transfer_atomic,FUNC_2
+tegra_bpmp_i2c_msg_xfer,FUNC_3
+i2c,VAR_2
+request,VAR_3
+response,VAR_4
+atomic,VAR_5
+msg,VAR_6
+err,VAR_7

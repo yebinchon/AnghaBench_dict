@@ -1,0 +1,11 @@
+DEBUG2,VAR_0
+GetCurrentTimestamp,FUNC_0
+elog,FUNC_1
+output_message,VAR_1
+pq_putmessage_noblock,FUNC_2
+pq_sendbyte,FUNC_3
+pq_sendint64,FUNC_4
+resetStringInfo,FUNC_5
+sentPtr,VAR_2
+WalSndKeepalive,FUNC_6
+requestReply,VAR_3

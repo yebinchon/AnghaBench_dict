@@ -1,0 +1,10 @@
+decode_rh_word_register,FUNC_0
+decode_rl_address,FUNC_1
+fetch_data_word,FUNC_2
+fetch_decode_modrm,FUNC_3
+x86emu_halt_sys,FUNC_4
+common_load_far_pointer,FUNC_5
+emu,VAR_0
+seg,VAR_1
+dstreg,VAR_2
+srcoffset,VAR_3

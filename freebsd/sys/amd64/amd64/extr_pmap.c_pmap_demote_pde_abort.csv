@@ -1,0 +1,16 @@
+CTR2,FUNC_0
+KTR_PMAP,VAR_0
+SLIST_INIT,FUNC_1
+pmap_global_bit,FUNC_2
+pmap_invalidate_pde_page,FUNC_3
+pmap_remove_pde,FUNC_4
+trunc_2mpage,FUNC_5
+vm_page_free_pages_toq,FUNC_6
+pmap_demote_pde_abort,FUNC_7
+pmap,VAR_1
+va,VAR_2
+pde,VAR_3
+oldpde,VAR_4
+lockp,VAR_5
+free,VAR_6
+sva,VAR_7

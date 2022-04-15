@@ -1,0 +1,16 @@
+PageCompound,FUNC_0
+PageDirty,FUNC_1
+PageLRU,FUNC_2
+PageLocked,FUNC_3
+PageUnevictable,FUNC_4
+get_page,FUNC_5
+local_irq_restore,FUNC_6
+local_irq_save,FUNC_7
+lru_rotate_pvecs,VAR_0
+pagevec_add,FUNC_8
+pagevec_move_tail,FUNC_9
+this_cpu_ptr,FUNC_10
+rotate_reclaimable_page,FUNC_11
+page,VAR_1
+pvec,VAR_2
+flags,VAR_3

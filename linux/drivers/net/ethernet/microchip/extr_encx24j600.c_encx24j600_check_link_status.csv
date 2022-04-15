@@ -1,0 +1,15 @@
+AUTONEG_ENABLE,VAR_0
+ESTAT,VAR_1
+PHYLNK,VAR_2
+SPEED_100,VAR_3
+encx24j600_read_reg,FUNC_0
+encx24j600_wait_for_autoneg,FUNC_1
+ifdown,VAR_4
+ifup,VAR_5
+netif_carrier_off,FUNC_2
+netif_carrier_on,FUNC_3
+netif_info,FUNC_4
+encx24j600_check_link_status,FUNC_5
+priv,VAR_6
+dev,VAR_7
+estat,VAR_8

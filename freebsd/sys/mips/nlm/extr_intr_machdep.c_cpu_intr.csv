@@ -1,0 +1,17 @@
+IRQ_TIMER,VAR_0
+critical_enter,FUNC_0
+critical_exit,FUNC_1
+intr_event_handle,FUNC_2
+mips_intr_counters,VAR_1
+mips_intrcnt_inc,FUNC_3
+nlm_read_c0_eimr,FUNC_4
+nlm_read_c0_eirr,FUNC_5
+nlm_write_c0_eirr,FUNC_6
+printf,FUNC_7
+xlp_interrupts,VAR_2
+cpu_intr,FUNC_8
+tf,VAR_3
+ie,VAR_4
+eirr,VAR_5
+eimr,VAR_6
+i,VAR_7

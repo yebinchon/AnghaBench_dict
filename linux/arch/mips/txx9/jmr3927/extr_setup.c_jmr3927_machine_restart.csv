@@ -1,0 +1,11 @@
+JMR3927_IOC_RESET_ADDR,VAR_0
+JMR3927_IOC_RESET_CPU,VAR_1
+JMR3927_IOC_RESET_PCI,VAR_2
+_machine_halt,FUNC_0
+jmr3927_ioc_reg_in,FUNC_1
+jmr3927_ioc_reg_out,FUNC_2
+local_irq_disable,FUNC_3
+mdelay,FUNC_4
+stub1,FUNC_5
+jmr3927_machine_restart,FUNC_6
+command,VAR_3

@@ -1,0 +1,13 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA40_SHORT,VAR_1
+ATA_CBL_PATA80,VAR_2
+ATA_CBL_SATA,VAR_3
+VIA_SATA_PATA,VAR_4
+pci_get_drvdata,FUNC_0
+to_pci_dev,FUNC_1
+via_cable_override,FUNC_2
+via82cxxx_cable_detect,FUNC_3
+hwif,VAR_5
+pdev,VAR_6
+host,VAR_7
+vdev,VAR_8

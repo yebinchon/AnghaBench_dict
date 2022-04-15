@@ -1,0 +1,16 @@
+CMD_SUBSYSTEM_COMMON,VAR_0
+EBUSY,VAR_1
+OPCODE_COMMON_GET_FW_VERSION,VAR_2
+be_mcc_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+embedded_payload,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+strlcpy,FUNC_5
+wrb_from_mccq,FUNC_6
+be_cmd_get_fw_ver,FUNC_7
+adapter,VAR_3
+wrb,VAR_4
+req,VAR_5
+status,VAR_6
+resp,VAR_7

@@ -1,0 +1,15 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_MPAT_LEN,VAR_0
+MLXSW_REG_MPAT_SPAN_TYPE_REMOTE_ETH,VAR_1
+mlxsw_reg_mpat_eth_rspan_pack,FUNC_1
+mlxsw_reg_mpat_pack,FUNC_2
+mlxsw_reg_write,FUNC_3
+mpat,VAR_2
+mlxsw_sp_span_entry_vlan_configure,FUNC_4
+span_entry,VAR_3
+sparms,VAR_4
+dest_port,VAR_5
+mlxsw_sp,VAR_6
+local_port,VAR_7
+mpat_pl,VAR_8
+pa_id,VAR_9

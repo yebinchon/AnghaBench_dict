@@ -1,0 +1,15 @@
+ACTIONID_JUMP_BACKWARD_EXTRASHORT,VAR_0
+isless,FUNC_0
+var_SetInteger,FUNC_1
+vlc_object_instance,FUNC_2
+vlc_player_CanRewind,FUNC_3
+vlc_player_ChangeRate,FUNC_4
+vlc_player_GetRate,FUNC_5
+vlc_player_Lock,FUNC_6
+vlc_player_Unlock,FUNC_7
+vlc_playlist_GetPlayer,FUNC_8
+PlayerRewind,FUNC_9
+intf,VAR_1
+playlist,VAR_2
+player,VAR_3
+rate,VAR_4

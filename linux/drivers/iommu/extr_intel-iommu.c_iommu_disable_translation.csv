@@ -1,0 +1,13 @@
+DMAR_GCMD_REG,VAR_0
+DMAR_GSTS_REG,VAR_1
+DMA_GCMD_TE,VAR_2
+DMA_GSTS_TES,VAR_3
+IOMMU_WAIT_OP,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+readl,VAR_4
+writel,FUNC_3
+iommu_disable_translation,FUNC_4
+iommu,VAR_5
+sts,VAR_6
+flag,VAR_7

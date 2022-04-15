@@ -1,0 +1,13 @@
+BCM2835_I2S_CS_A_REG,VAR_0
+BCM2835_I2S_RXD,VAR_1
+BCM2835_I2S_TXE,VAR_2
+SNDRV_PCM_STREAM_CAPTURE,VAR_3
+SNDRV_PCM_STREAM_PLAYBACK,VAR_4
+bcm2835_i2s_clear_fifos,FUNC_0
+regmap_read,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+bcm2835_i2s_prepare,FUNC_3
+substream,VAR_5
+dai,VAR_6
+dev,VAR_7
+cs_reg,VAR_8

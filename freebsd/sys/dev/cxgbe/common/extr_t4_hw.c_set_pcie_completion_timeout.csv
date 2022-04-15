@@ -1,0 +1,10 @@
+PCI_CAP_ID_EXP,VAR_0
+PCI_EXP_DEVCTL2,VAR_1
+t4_os_find_pci_capability,FUNC_0
+t4_os_pci_read_cfg2,FUNC_1
+t4_os_pci_write_cfg2,FUNC_2
+set_pcie_completion_timeout,FUNC_3
+adapter,VAR_2
+range,VAR_3
+val,VAR_4
+pcie_cap,VAR_5

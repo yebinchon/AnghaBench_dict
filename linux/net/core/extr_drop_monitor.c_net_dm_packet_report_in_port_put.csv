@@ -1,0 +1,14 @@
+EMSGSIZE,VAR_0
+NET_DM_ATTR_IN_PORT,VAR_1
+NET_DM_ATTR_PORT_NETDEV_IFINDEX,VAR_2
+NET_DM_ATTR_PORT_NETDEV_NAME,VAR_3
+nla_nest_cancel,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put_string,FUNC_3
+nla_put_u32,FUNC_4
+net_dm_packet_report_in_port_put,FUNC_5
+msg,VAR_4
+ifindex,VAR_5
+name,VAR_6
+attr,VAR_7

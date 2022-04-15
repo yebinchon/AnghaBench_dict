@@ -1,0 +1,8 @@
+get_tod_clock_fast,FUNC_0
+preempt_disable,FUNC_1
+preempt_enable,FUNC_2
+raw_write_seqcount_begin,FUNC_3
+raw_write_seqcount_end,FUNC_4
+kvm_s390_set_cpu_timer,FUNC_5
+vcpu,VAR_0
+cputm,VAR_1

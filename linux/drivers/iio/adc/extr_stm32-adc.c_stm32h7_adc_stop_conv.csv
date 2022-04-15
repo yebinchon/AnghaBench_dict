@@ -1,0 +1,16 @@
+STM32H7_ADC_CFGR,VAR_0
+STM32H7_ADC_CR,VAR_1
+STM32H7_ADSTART,VAR_2
+STM32H7_ADSTP,VAR_3
+STM32H7_DMNGT_MASK,VAR_4
+STM32_ADC_TIMEOUT_US,VAR_5
+dev_warn,FUNC_0
+iio_priv_to_dev,FUNC_1
+stm32_adc_clr_bits,FUNC_2
+stm32_adc_readl_poll_timeout,FUNC_3
+stm32_adc_set_bits,FUNC_4
+stm32h7_adc_stop_conv,FUNC_5
+adc,VAR_6
+indio_dev,VAR_7
+ret,VAR_8
+val,VAR_9

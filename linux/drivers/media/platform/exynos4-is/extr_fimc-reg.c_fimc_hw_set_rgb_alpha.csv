@@ -1,0 +1,10 @@
+FIMC_REG_CIOCTRL,VAR_0
+FIMC_REG_CIOCTRL_ALPHA_OUT_MASK,VAR_1
+FMT_HAS_ALPHA,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+fimc_hw_set_rgb_alpha,FUNC_2
+ctx,VAR_3
+dev,VAR_4
+frame,VAR_5
+cfg,VAR_6

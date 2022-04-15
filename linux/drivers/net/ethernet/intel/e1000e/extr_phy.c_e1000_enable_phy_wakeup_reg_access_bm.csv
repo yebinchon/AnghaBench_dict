@@ -1,0 +1,16 @@
+BM_PORT_CTRL_PAGE,VAR_0
+BM_WUC_ENABLE_BIT,VAR_1
+BM_WUC_ENABLE_REG,VAR_2
+BM_WUC_HOST_WU_BIT,VAR_3
+BM_WUC_ME_WU_BIT,VAR_4
+BM_WUC_PAGE,VAR_5
+IGP_PAGE_SHIFT,VAR_6
+e1000_set_page_igp,FUNC_0
+e1000e_read_phy_reg_mdic,FUNC_1
+e1000e_write_phy_reg_mdic,FUNC_2
+e_dbg,FUNC_3
+e1000_enable_phy_wakeup_reg_access_bm,FUNC_4
+hw,VAR_7
+phy_reg,VAR_8
+ret_val,VAR_9
+temp,VAR_10

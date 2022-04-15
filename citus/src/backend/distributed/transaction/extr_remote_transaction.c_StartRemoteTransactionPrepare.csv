@@ -1,0 +1,17 @@
+Assert,FUNC_0
+Assign2PCIdentifier,FUNC_1
+FindWorkerNode,FUNC_2
+HandleRemoteTransactionConnectionError,FUNC_3
+LogTransactionRecord,FUNC_4
+REMOTE_TRANS_INVALID,VAR_0
+REMOTE_TRANS_PREPARING,VAR_1
+SendRemoteCommand,FUNC_5
+appendStringInfo,FUNC_6
+initStringInfo,FUNC_7
+quote_literal_cstr,FUNC_8
+StartRemoteTransactionPrepare,FUNC_9
+connection,VAR_2
+transaction,VAR_3
+command,VAR_4
+raiseErrors,VAR_5
+workerNode,VAR_6

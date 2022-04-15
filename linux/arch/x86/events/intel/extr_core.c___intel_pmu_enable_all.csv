@@ -1,0 +1,16 @@
+INTEL_PMC_IDX_FIXED_BTS,VAR_0
+MSR_CORE_PERF_GLOBAL_CTRL,VAR_1
+WARN_ON_ONCE,FUNC_0
+cpu_hw_events,VAR_2
+intel_pmu_enable_bts,FUNC_1
+intel_pmu_lbr_enable_all,FUNC_2
+intel_pmu_pebs_enable_all,FUNC_3
+test_bit,FUNC_4
+this_cpu_ptr,FUNC_5
+wrmsrl,FUNC_6
+x86_pmu,VAR_3
+__intel_pmu_enable_all,FUNC_7
+added,VAR_4
+pmi,VAR_5
+cpuc,VAR_6
+event,VAR_7

@@ -1,0 +1,17 @@
+Assert,FUNC_0
+AssertInt64Eq,FUNC_1
+DatumGetInt32,FUNC_2
+INT4OID,VAR_0
+Int32GetDatum,FUNC_3
+PointerGetDatum,FUNC_4
+dictionary_compressor_alloc,FUNC_5
+dictionary_compressor_append,FUNC_6
+dictionary_compressor_finish,FUNC_7
+dictionary_decompression_iterator_try_next_forward,FUNC_8
+tsl_dictionary_decompression_iterator_from_datum_forward,FUNC_9
+test_int_dictionary,FUNC_10
+compressor,VAR_1
+compressed,VAR_2
+iter,VAR_3
+i,VAR_4
+r,VAR_5

@@ -1,0 +1,15 @@
+Assert,FUNC_0
+CommitTransactionCommand,FUNC_1
+ERROR,VAR_0
+IsTransactionState,FUNC_2
+StartTransactionCommand,FUNC_3
+dsm_attach,FUNC_4
+dsm_find_mapping,FUNC_5
+dsm_pin_mapping,FUNC_6
+dsm_segment_address,FUNC_7
+elog,FUNC_8
+params_get_dsm_handle,FUNC_9
+params_open_wrapper,FUNC_10
+seg,VAR_1
+handle,VAR_2
+wrapper,VAR_3

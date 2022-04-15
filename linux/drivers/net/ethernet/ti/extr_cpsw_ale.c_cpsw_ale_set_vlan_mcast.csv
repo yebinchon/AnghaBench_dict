@@ -1,0 +1,10 @@
+ALE_VLAN_MASK_MUX,FUNC_0
+cpsw_ale_get_vlan_reg_mcast_idx,FUNC_1
+cpsw_ale_get_vlan_unreg_mcast_idx,FUNC_2
+writel,FUNC_3
+cpsw_ale_set_vlan_mcast,FUNC_4
+ale,VAR_0
+ale_entry,VAR_1
+reg_mcast,VAR_2
+unreg_mcast,VAR_3
+idx,VAR_4

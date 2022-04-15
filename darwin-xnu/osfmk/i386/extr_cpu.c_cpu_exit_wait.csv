@@ -1,0 +1,16 @@
+FALSE,VAR_0
+LCPU_HALT,VAR_1
+LCPU_OFF,VAR_2
+cpu_datap,FUNC_0
+cpu_pause,FUNC_1
+ml_set_interrupts_enabled,FUNC_2
+mp_safe_spin_lock,FUNC_3
+panic,FUNC_4
+rdtsc64,FUNC_5
+simple_unlock,FUNC_6
+x86_topo_lock,VAR_3
+cpu_exit_wait,FUNC_7
+cpu,VAR_4
+cdp,VAR_5
+intrs_enabled,VAR_6
+tsc_timeout,VAR_7

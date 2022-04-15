@@ -1,0 +1,17 @@
+BT_DBG,FUNC_0
+HCI_CONN_AUTH,VAR_0
+HCI_CONN_AUTH_PEND,VAR_1
+HCI_CONN_ENCRYPT,VAR_2
+HCI_CONN_ENCRYPT_PEND,VAR_3
+HCI_CONN_REAUTH_PEND,VAR_4
+HCI_OP_AUTH_REQUESTED,VAR_5
+cpu_to_le16,FUNC_1
+hci_send_cmd,FUNC_2
+set_bit,FUNC_3
+test_and_set_bit,FUNC_4
+test_bit,FUNC_5
+hci_conn_auth,FUNC_6
+conn,VAR_6
+sec_level,VAR_7
+auth_type,VAR_8
+cp,VAR_9

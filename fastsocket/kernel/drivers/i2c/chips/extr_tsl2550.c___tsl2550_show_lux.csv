@@ -1,0 +1,13 @@
+TSL2550_READ_ADC0,VAR_0
+TSL2550_READ_ADC1,VAR_1
+i2c_get_clientdata,FUNC_0
+sprintf,FUNC_1
+tsl2550_calculate_lux,FUNC_2
+tsl2550_get_adc_value,FUNC_3
+__tsl2550_show_lux,FUNC_4
+client,VAR_2
+buf,VAR_3
+data,VAR_4
+ch0,VAR_5
+ch1,VAR_6
+ret,VAR_7

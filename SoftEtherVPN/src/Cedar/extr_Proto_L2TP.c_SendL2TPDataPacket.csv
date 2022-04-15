@@ -1,0 +1,17 @@
+Copy,FUNC_0
+IPSEC_PORT_L2TPV3_VIRTUAL,VAR_0
+L2TPSendUDP,FUNC_1
+Malloc,FUNC_2
+NewUdpPacket,FUNC_3
+WRITE_UINT,FUNC_4
+WRITE_USHORT,FUNC_5
+SendL2TPDataPacket,FUNC_6
+l2tp,VAR_1
+t,VAR_2
+s,VAR_3
+data,VAR_4
+size,VAR_5
+p,VAR_6
+buf,VAR_7
+buf_size,VAR_8
+header,VAR_9

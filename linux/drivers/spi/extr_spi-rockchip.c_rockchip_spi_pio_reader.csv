@@ -1,0 +1,10 @@
+ROCKCHIP_SPI_RXDR,VAR_0
+ROCKCHIP_SPI_RXFLR,VAR_1
+ROCKCHIP_SPI_RXFTLR,VAR_2
+readl_relaxed,FUNC_0
+rockchip_spi_pio_reader,FUNC_1
+rs,VAR_3
+words,VAR_4
+rx_left,VAR_5
+ftl,VAR_6
+rxw,VAR_7

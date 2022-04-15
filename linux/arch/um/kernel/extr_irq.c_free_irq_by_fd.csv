@@ -1,0 +1,12 @@
+IGNORE_DEV,VAR_0
+IGNORE_IRQ,VAR_1
+do_free_by_irq_and_dev,FUNC_0
+garbage_collect_irq_entries,FUNC_1
+get_irq_entry_by_fd,FUNC_2
+irq_lock,VAR_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+free_irq_by_fd,FUNC_5
+fd,VAR_3
+to_free,VAR_4
+flags,VAR_5

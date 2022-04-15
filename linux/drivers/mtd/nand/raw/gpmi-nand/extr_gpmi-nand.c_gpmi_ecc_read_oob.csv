@@ -1,0 +1,11 @@
+GPMI_IS_MX23,FUNC_0
+memset,FUNC_1
+nand_get_controller_data,FUNC_2
+nand_read_page_op,FUNC_3
+nand_to_mtd,FUNC_4
+gpmi_ecc_read_oob,FUNC_5
+chip,VAR_0
+page,VAR_1
+mtd,VAR_2
+this,VAR_3
+ret,VAR_4

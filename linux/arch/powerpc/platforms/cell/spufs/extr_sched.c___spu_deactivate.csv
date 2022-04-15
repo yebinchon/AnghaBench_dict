@@ -1,0 +1,13 @@
+SPU_CREATE_NOSCHED,VAR_0
+grab_runnable_context,FUNC_0
+mutex_lock,FUNC_1
+spu_release,FUNC_2
+spu_schedule,FUNC_3
+spu_unschedule,FUNC_4
+wake_up,FUNC_5
+__spu_deactivate,FUNC_6
+ctx,VAR_1
+force,VAR_2
+max_prio,VAR_3
+spu,VAR_4
+new,VAR_5

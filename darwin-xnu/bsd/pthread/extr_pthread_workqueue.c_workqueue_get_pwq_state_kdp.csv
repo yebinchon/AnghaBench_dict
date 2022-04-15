@@ -1,0 +1,16 @@
+WQ_EXCEEDED_CONSTRAINED_THREAD_LIMIT,VAR_0
+WQ_EXCEEDED_TOTAL_THREAD_LIMIT,VAR_1
+WQ_FLAGS_AVAILABLE,VAR_2
+kTaskWqExceededConstrainedThreadLimit,VAR_3
+kTaskWqExceededTotalThreadLimit,VAR_4
+kTaskWqFlagsAvailable,VAR_5
+proc_get_wqptr,FUNC_0
+static_assert,FUNC_1
+workq_lock_spin_is_acquired_kdp,FUNC_2
+wq_max_constrained_threads,VAR_6
+wq_max_threads,VAR_7
+workqueue_get_pwq_state_kdp,FUNC_3
+v,VAR_8
+p,VAR_9
+wq,VAR_10
+pwq_state,VAR_11

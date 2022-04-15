@@ -1,0 +1,17 @@
+CB_ERR,VAR_0
+CB_GETLBTEXT,VAR_1
+CB_GETLBTEXTLEN,VAR_2
+ERROR_INVALID_DATA,VAR_3
+GetLastError,FUNC_0
+SendMessageW,FUNC_1
+SetLastError,FUNC_2
+calloc,FUNC_3
+wchar_to_utf8_no_alloc,FUNC_4
+wfree,FUNC_5
+ComboBox_GetLBTextU,FUNC_6
+hCtrl,VAR_4
+index,VAR_5
+lpString,VAR_6
+size,VAR_7
+err,VAR_8
+wlpString,VAR_9

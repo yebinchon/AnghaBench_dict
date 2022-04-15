@@ -1,0 +1,16 @@
+FIRST_THREAD_IN_PROC,FUNC_0
+Giant,VAR_0
+KASSERT,FUNC_1
+MA_NOTOWNED,VAR_1
+callout_drain,FUNC_2
+cpu_thread_clean,FUNC_3
+cpuset_rel,FUNC_4
+lock_profile_thread_exit,FUNC_5
+mtx_assert,FUNC_6
+thread_cow_free,FUNC_7
+thread_lock,FUNC_8
+thread_reap,FUNC_9
+thread_unlock,FUNC_10
+thread_wait,FUNC_11
+p,VAR_2
+td,VAR_3

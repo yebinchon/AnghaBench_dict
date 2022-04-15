@@ -1,0 +1,17 @@
+CEPH_CAP_PIN,VAR_0
+CEPH_CAP_SAUTH,VAR_1
+CEPH_CAP_SFILE,VAR_2
+CEPH_CAP_SLINK,VAR_3
+CEPH_CAP_SXATTR,VAR_4
+MAX_CAP_STR,VAR_5
+cap_str,VAR_6
+cap_str_lock,VAR_7
+gcap_string,FUNC_0
+last_cap_str,VAR_8
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+ceph_cap_string,FUNC_3
+caps,VAR_9
+i,VAR_10
+s,VAR_11
+c,VAR_12

@@ -1,0 +1,17 @@
+_crypto_box_seal_nonce,FUNC_0
+crypto_box_NONCEBYTES,VAR_0
+crypto_box_PUBLICKEYBYTES,VAR_1
+crypto_box_SECRETKEYBYTES,VAR_2
+crypto_box_easy,FUNC_1
+crypto_box_keypair,FUNC_2
+memcpy,FUNC_3
+sodium_memzero,FUNC_4
+crypto_box_seal,FUNC_5
+c,VAR_3
+m,VAR_4
+mlen,VAR_5
+pk,VAR_6
+nonce,VAR_7
+epk,VAR_8
+esk,VAR_9
+ret,VAR_10

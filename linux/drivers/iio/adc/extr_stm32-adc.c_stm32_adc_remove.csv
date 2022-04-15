@@ -1,0 +1,16 @@
+STM32_DMA_BUFFER_SIZE,VAR_0
+dma_free_coherent,FUNC_0
+dma_release_channel,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv_to_dev,FUNC_3
+iio_triggered_buffer_cleanup,FUNC_4
+platform_get_drvdata,FUNC_5
+pm_runtime_disable,FUNC_6
+pm_runtime_get_sync,FUNC_7
+pm_runtime_put_noidle,FUNC_8
+pm_runtime_set_suspended,FUNC_9
+stm32_adc_hw_stop,FUNC_10
+stm32_adc_remove,FUNC_11
+pdev,VAR_1
+adc,VAR_2
+indio_dev,VAR_3

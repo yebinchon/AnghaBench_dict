@@ -1,0 +1,11 @@
+PHY_INTERFACE_MODE_RTBI,VAR_0
+PHY_INTERFACE_MODE_SGMII,VAR_1
+genphy_soft_reset,FUNC_0
+m88e1111_config_init_rgmii,FUNC_1
+m88e1111_config_init_rtbi,FUNC_2
+m88e1111_config_init_sgmii,FUNC_3
+marvell_of_reg_init,FUNC_4
+phy_interface_is_rgmii,FUNC_5
+m88e1111_config_init,FUNC_6
+phydev,VAR_2
+err,VAR_3

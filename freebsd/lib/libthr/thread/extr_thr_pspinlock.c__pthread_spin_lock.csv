@@ -1,0 +1,14 @@
+CPU_SPINWAIT,VAR_0
+EINVAL,VAR_1
+SPIN_COUNT,VAR_2
+THR_PSHARED_PTR,VAR_3
+THR_UMUTEX_TRYLOCK,FUNC_0
+__thr_pshared_offpage,FUNC_1
+_get_curthread,FUNC_2
+_pthread_yield,FUNC_3
+_thr_is_smp,VAR_4
+_pthread_spin_lock,FUNC_4
+lock,VAR_5
+curthread,VAR_6
+lck,VAR_7
+count,VAR_8

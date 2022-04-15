@@ -1,0 +1,17 @@
+SCMI_PROTOCOL_SENSOR,VAR_0
+SENSOR_TP_BOTH,VAR_1
+SENSOR_TP_ID,FUNC_0
+SENSOR_TRIP_POINT_CONFIG,VAR_2
+cpu_to_le32,FUNC_1
+scmi_do_xfer,FUNC_2
+scmi_xfer_get_init,FUNC_3
+scmi_xfer_put,FUNC_4
+scmi_sensor_trip_point_config,FUNC_5
+handle,VAR_3
+sensor_id,VAR_4
+trip_id,VAR_5
+trip_value,VAR_6
+ret,VAR_7
+evt_cntl,VAR_8
+t,VAR_9
+trip,VAR_10

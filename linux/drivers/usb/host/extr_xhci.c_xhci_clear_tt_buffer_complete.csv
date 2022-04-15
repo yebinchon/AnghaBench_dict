@@ -1,0 +1,14 @@
+EP_CLEARING_TT,VAR_0
+hcd_to_xhci,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+xhci_get_endpoint_index,FUNC_3
+xhci_ring_doorbell_for_active_rings,FUNC_4
+xhci_clear_tt_buffer_complete,FUNC_5
+hcd,VAR_1
+ep,VAR_2
+xhci,VAR_3
+udev,VAR_4
+slot_id,VAR_5
+ep_index,VAR_6
+flags,VAR_7

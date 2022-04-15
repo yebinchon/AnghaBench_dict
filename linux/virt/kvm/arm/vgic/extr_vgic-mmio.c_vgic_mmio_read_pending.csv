@@ -1,0 +1,15 @@
+VGIC_ADDR_TO_INTID,FUNC_0
+irq_is_pending,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+vgic_get_irq,FUNC_4
+vgic_put_irq,FUNC_5
+vgic_mmio_read_pending,FUNC_6
+vcpu,VAR_0
+addr,VAR_1
+len,VAR_2
+intid,VAR_3
+value,VAR_4
+i,VAR_5
+irq,VAR_6
+flags,VAR_7

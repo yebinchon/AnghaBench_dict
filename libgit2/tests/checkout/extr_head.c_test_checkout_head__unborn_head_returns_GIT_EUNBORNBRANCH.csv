@@ -1,0 +1,7 @@
+GIT_EUNBORNBRANCH,VAR_0
+NON_EXISTING_HEAD,VAR_1
+cl_assert_equal_i,FUNC_0
+g_repo,VAR_2
+git_checkout_head,FUNC_1
+make_head_unborn,FUNC_2
+test_checkout_head__unborn_head_returns_GIT_EUNBORNBRANCH,FUNC_3

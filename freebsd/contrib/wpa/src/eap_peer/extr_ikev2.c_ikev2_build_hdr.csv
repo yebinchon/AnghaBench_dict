@@ -1,0 +1,15 @@
+IKEV2_HDR_RESPONSE,VAR_0
+IKEV2_SPI_LEN,VAR_1
+IKEV2_VERSION,VAR_2
+MSG_DEBUG,VAR_3
+WPA_PUT_BE32,FUNC_0
+os_memcpy,FUNC_1
+wpa_printf,FUNC_2
+wpabuf_put,FUNC_3
+ikev2_build_hdr,FUNC_4
+data,VAR_4
+msg,VAR_5
+exchange_type,VAR_6
+next_payload,VAR_7
+message_id,VAR_8
+hdr,VAR_9

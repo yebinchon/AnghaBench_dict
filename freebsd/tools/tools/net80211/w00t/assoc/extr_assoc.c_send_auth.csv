@@ -1,0 +1,11 @@
+IEEE80211_FC0_SUBTYPE_AUTH,VAR_0
+IEEE80211_FC0_TYPE_MGT,VAR_1
+fill_basic,FUNC_0
+memset,FUNC_1
+send_frame,FUNC_2
+send_auth,FUNC_3
+p,VAR_2
+buf,VAR_3
+wh,VAR_4
+data,VAR_5
+len,VAR_6

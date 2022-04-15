@@ -1,0 +1,17 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+HDA_FIXUP_ACT_PROBE,VAR_1
+HDA_OUTPUT,VAR_2
+ad1986a_fixup_models,VAR_3
+ad1986a_fixup_tbl,VAR_4
+ad1986a_fixups,VAR_5
+ad198x_parse_auto_config,FUNC_0
+alloc_ad_spec,FUNC_1
+set_beep_amp,FUNC_2
+snd_hda_apply_fixup,FUNC_3
+snd_hda_gen_free,FUNC_4
+snd_hda_pick_fixup,FUNC_5
+patch_ad1986a,FUNC_6
+codec,VAR_6
+err,VAR_7
+spec,VAR_8
+preferred_pairs,VAR_9

@@ -1,0 +1,17 @@
+KEXEC_CRASH_CONTROL_MEMORY_LIMIT,VAR_0
+PAGE_SHIFT,VAR_1
+arch_kexec_post_alloc_pages,FUNC_0
+cond_resched,FUNC_1
+crashk_res,VAR_2
+page_address,FUNC_2
+pfn_to_page,FUNC_3
+kimage_alloc_crash_control_pages,FUNC_4
+image,VAR_3
+order,VAR_4
+hole_start,VAR_5
+hole_end,VAR_6
+size,VAR_7
+pages,VAR_8
+i,VAR_9
+mstart,VAR_10
+mend,VAR_11

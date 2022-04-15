@@ -1,0 +1,12 @@
+MA_OWNED,VAR_0
+SIIS_ERR_TIMEOUT,VAR_1
+SIIS_MAX_SLOTS,VAR_2
+SIIS_SLOT_RUNNING,VAR_3
+device_get_softc,FUNC_0
+mtx_assert,FUNC_1
+siis_end_transaction,FUNC_2
+xpt_freeze_simq,FUNC_3
+siis_process_timeout,FUNC_4
+dev,VAR_4
+ch,VAR_5
+i,VAR_6

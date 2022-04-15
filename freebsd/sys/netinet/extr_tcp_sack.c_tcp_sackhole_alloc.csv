@@ -1,0 +1,14 @@
+M_NOWAIT,VAR_0
+TCPSTAT_INC,FUNC_0
+V_sack_hole_zone,VAR_1
+V_tcp_sack_globalholes,VAR_2
+V_tcp_sack_globalmaxholes,VAR_3
+V_tcp_sack_maxholes,VAR_4
+atomic_add_int,FUNC_1
+tcps_sack_sboverflow,VAR_5
+uma_zalloc,FUNC_2
+tcp_sackhole_alloc,FUNC_3
+tp,VAR_6
+start,VAR_7
+end,VAR_8
+hole,VAR_9

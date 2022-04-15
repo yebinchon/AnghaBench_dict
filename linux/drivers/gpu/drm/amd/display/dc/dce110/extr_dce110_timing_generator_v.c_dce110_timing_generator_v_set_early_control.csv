@@ -1,0 +1,11 @@
+CRTCV_CONTROL,VAR_0
+CRTC_HBLANK_EARLY_CONTROL,VAR_1
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+mmCRTC_CONTROL,VAR_2
+set_reg_field_value,FUNC_2
+dce110_timing_generator_v_set_early_control,FUNC_3
+tg,VAR_3
+early_cntl,VAR_4
+regval,VAR_5
+address,VAR_6

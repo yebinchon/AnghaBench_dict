@@ -1,0 +1,15 @@
+PGRP_FLAG_DEAD,VAR_0
+PGRP_FLAG_TERMINATE,VAR_1
+PGRP_NULL,VAR_2
+PROC_NULL,VAR_3
+P_LIST_PGRPTRANS,VAR_4
+P_LIST_PGRPTRWAIT,VAR_5
+assert,FUNC_0
+msleep,FUNC_1
+panic,FUNC_2
+proc_list_lock,FUNC_3
+proc_list_mlock,VAR_6
+proc_list_unlock,FUNC_4
+proc_pgrp,FUNC_5
+p,VAR_7
+pgrp,VAR_8

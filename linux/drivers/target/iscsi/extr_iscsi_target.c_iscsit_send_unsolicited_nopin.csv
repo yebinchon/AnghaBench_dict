@@ -1,0 +1,13 @@
+ISTATE_SENT_NOPIN_WANT_RESPONSE,VAR_0
+ISTATE_SENT_STATUS,VAR_1
+iscsit_build_nopin_rsp,FUNC_0
+pr_debug,FUNC_1
+spin_lock_bh,FUNC_2
+spin_unlock_bh,FUNC_3
+stub1,FUNC_4
+iscsit_send_unsolicited_nopin,FUNC_5
+cmd,VAR_2
+conn,VAR_3
+want_response,VAR_4
+hdr,VAR_5
+ret,VAR_6

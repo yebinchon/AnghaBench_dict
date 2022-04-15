@@ -1,0 +1,16 @@
+CPU_DTRACE_ENTRY,VAR_0
+CPU_DTRACE_FAULT,VAR_1
+DTRACE_CPUFLAG_ISSET,FUNC_0
+SV_ILP32,VAR_2
+SV_PROC_FLAG,FUNC_1
+curproc,VAR_3
+curthread,VAR_4
+dtrace_fuword32,FUNC_2
+dtrace_fuword64,FUNC_3
+dtrace_getustack_common,FUNC_4
+dtrace_getustackdepth,FUNC_5
+p,VAR_5
+tf,VAR_6
+pc,VAR_7
+sp,VAR_8
+n,VAR_9

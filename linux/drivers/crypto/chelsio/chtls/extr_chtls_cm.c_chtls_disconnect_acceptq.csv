@@ -1,0 +1,17 @@
+ACCEPT_QUEUE,FUNC_0
+bh_lock_sock,FUNC_1
+bh_unlock_sock,FUNC_2
+chtls_rsk_ops,VAR_0
+local_bh_disable,FUNC_3
+local_bh_enable,FUNC_4
+release_tcp_port,FUNC_5
+reqsk_put,FUNC_6
+reset_listen_child,FUNC_7
+sk_acceptq_removed,FUNC_8
+sock_hold,FUNC_9
+sock_put,FUNC_10
+chtls_disconnect_acceptq,FUNC_11
+listen_sk,VAR_1
+pprev,VAR_2
+req,VAR_3
+child,VAR_4

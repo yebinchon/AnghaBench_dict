@@ -1,0 +1,12 @@
+OBJ_ENCODING_INT,VAR_0
+OBJ_SHARED_BULKHDR_LEN,VAR_1
+OBJ_SHARED_INTEGERS,VAR_2
+OBJ_STRING,VAR_3
+createObject,FUNC_0
+createStringObject,FUNC_1
+sdscatprintf,FUNC_2
+sdsempty,FUNC_3
+sdsnew,FUNC_4
+shared,VAR_4
+createSharedObjects,FUNC_5
+j,VAR_5

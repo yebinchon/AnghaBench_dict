@@ -1,0 +1,12 @@
+COMEDI_CB_OVERFLOW,VAR_0
+DT2821_SUPCSR_CLRDMADNE,VAR_1
+DT2821_SUPCSR_REG,VAR_2
+comedi_isadma_disable,FUNC_0
+dt282x_ao_setup_dma,FUNC_1
+outw,FUNC_2
+dt282x_ao_dma_interrupt,FUNC_3
+dev,VAR_3
+s,VAR_4
+devpriv,VAR_5
+dma,VAR_6
+desc,VAR_7

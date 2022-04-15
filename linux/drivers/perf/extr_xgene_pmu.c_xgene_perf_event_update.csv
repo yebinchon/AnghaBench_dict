@@ -1,0 +1,14 @@
+GET_CNTR,FUNC_0
+local64_add,FUNC_1
+local64_cmpxchg,FUNC_2
+local64_read,FUNC_3
+stub1,FUNC_4
+to_pmu_dev,FUNC_5
+xgene_perf_event_update,FUNC_6
+event,VAR_0
+pmu_dev,VAR_1
+xgene_pmu,VAR_2
+hw,VAR_3
+delta,VAR_4
+prev_raw_count,VAR_5
+new_raw_count,VAR_6

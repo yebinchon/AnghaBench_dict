@@ -1,0 +1,11 @@
+CPU_ZERO,FUNC_0
+assert,FUNC_1
+ctx,VAR_0
+debug,FUNC_2
+gdb_lock,VAR_1
+idle_vcpus,VAR_2
+pthread_cond_broadcast,FUNC_3
+pthread_mutex_isowned_np,FUNC_4
+vcpus_suspended,VAR_3
+vm_resume_cpu,FUNC_5
+gdb_resume_vcpus,FUNC_6

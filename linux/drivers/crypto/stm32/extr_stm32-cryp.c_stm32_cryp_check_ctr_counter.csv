@@ -1,0 +1,13 @@
+CRYP_CR,VAR_0
+CRYP_IV0LR,VAR_1
+CRYP_IV0RR,VAR_2
+CRYP_IV1LR,VAR_3
+CRYP_IV1RR,VAR_4
+CR_CRYPEN,VAR_5
+stm32_cryp_hw_write_iv,FUNC_0
+stm32_cryp_read,FUNC_1
+stm32_cryp_write,FUNC_2
+unlikely,FUNC_3
+stm32_cryp_check_ctr_counter,FUNC_4
+cryp,VAR_6
+cr,VAR_7

@@ -1,0 +1,16 @@
+BUS_PROBE_DEFAULT,VAR_0
+DEVICE_DESC,VAR_1
+ENA_DBG,VAR_2
+ENXIO,VAR_3
+device_set_desc_copy,FUNC_0
+ena_trace,FUNC_1
+ena_vendor_info_array,VAR_4
+pci_get_device,FUNC_2
+pci_get_vendor,FUNC_3
+sprintf,FUNC_4
+ena_probe,FUNC_5
+dev,VAR_5
+ent,VAR_6
+adapter_name,VAR_7
+pci_vendor_id,VAR_8
+pci_device_id,VAR_9

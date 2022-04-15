@@ -1,0 +1,12 @@
+THREAD_ALLOCATED_NEXT_EVENT_FAST_MAX,VAR_0
+THREAD_EVENT_MAX_INTERVAL,VAR_1
+THREAD_EVENT_MAX_START_WAIT,VAR_2
+assert,FUNC_0
+thread_allocated_last_event_get,FUNC_1
+thread_allocated_next_event_fast_set,FUNC_2
+thread_allocated_next_event_set,FUNC_3
+thread_event_adjust_thresholds_helper,FUNC_4
+tsd,VAR_3
+wait,VAR_4
+next_event,VAR_5
+next_event_fast,VAR_6

@@ -1,0 +1,11 @@
+local_irq_disable,FUNC_0
+local_irq_enable,FUNC_1
+mpol_rebind_task,FUNC_2
+nodes_or,FUNC_3
+task_lock,FUNC_4
+task_unlock,FUNC_5
+write_seqcount_begin,FUNC_6
+write_seqcount_end,FUNC_7
+cpuset_change_task_nodemask,FUNC_8
+tsk,VAR_0
+newmems,VAR_1

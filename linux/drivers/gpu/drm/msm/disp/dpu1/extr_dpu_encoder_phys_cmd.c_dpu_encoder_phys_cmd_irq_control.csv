@@ -1,0 +1,16 @@
+DRMID,FUNC_0
+INTR_IDX_CTL_START,VAR_0
+INTR_IDX_PINGPONG,VAR_1
+INTR_IDX_UNDERRUN,VAR_2
+PINGPONG_0,VAR_3
+atomic_read,FUNC_1
+dpu_encoder_helper_register_irq,FUNC_2
+dpu_encoder_helper_unregister_irq,FUNC_3
+dpu_encoder_phys_cmd_control_vblank_irq,FUNC_4
+dpu_encoder_phys_cmd_is_master,FUNC_5
+to_dpu_encoder_phys_cmd,FUNC_6
+trace_dpu_enc_phys_cmd_irq_ctrl,FUNC_7
+dpu_encoder_phys_cmd_irq_control,FUNC_8
+phys_enc,VAR_4
+enable,VAR_5
+cmd_enc,VAR_6

@@ -1,0 +1,10 @@
+bcm63xx_select_phy_mode,FUNC_0
+gadget_to_udc,FUNC_1
+msleep,FUNC_2
+set_clocks,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+bcm63xx_udc_stop,FUNC_6
+gadget,VAR_0
+udc,VAR_1
+flags,VAR_2

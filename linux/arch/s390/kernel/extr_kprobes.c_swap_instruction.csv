@@ -1,0 +1,14 @@
+BREAKPOINT_INSTRUCTION,VAR_0
+KPROBE_ON_FTRACE_CALL,VAR_1
+KPROBE_ON_FTRACE_NOP,VAR_2
+ftrace_generate_call_insn,FUNC_0
+ftrace_generate_nop_insn,FUNC_1
+is_ftrace_nop,FUNC_2
+s390_kernel_write,FUNC_3
+swap_instruction,FUNC_4
+data,VAR_3
+args,VAR_4
+new_insn,VAR_5
+insn,VAR_6
+p,VAR_7
+len,VAR_8

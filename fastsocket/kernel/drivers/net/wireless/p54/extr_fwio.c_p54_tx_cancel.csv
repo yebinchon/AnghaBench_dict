@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENOMEM,VAR_1
+GFP_ATOMIC,VAR_2
+P54_CONTROL_TYPE_TXCANCEL,VAR_3
+P54_HDR_FLAG_CONTROL_OPSET,VAR_4
+le32_to_cpu,FUNC_0
+p54_alloc_skb,FUNC_1
+p54_tx,FUNC_2
+skb_put,FUNC_3
+unlikely,FUNC_4
+p54_tx_cancel,FUNC_5
+priv,VAR_5
+req_id,VAR_6
+skb,VAR_7
+cancel,VAR_8
+_req_id,VAR_9

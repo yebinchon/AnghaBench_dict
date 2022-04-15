@@ -1,0 +1,10 @@
+HEADER_TABLE_ENTRY_SIZE_OFFSET,VAR_0
+assert,FUNC_0
+h2o_hpack_header_table_get,FUNC_1
+h2o_iovec_is_token,FUNC_2
+h2o_mem_release_shared,FUNC_3
+memset,FUNC_4
+value_is_part_of_static_table,FUNC_5
+header_table_evict_one,FUNC_6
+table,VAR_1
+entry,VAR_2

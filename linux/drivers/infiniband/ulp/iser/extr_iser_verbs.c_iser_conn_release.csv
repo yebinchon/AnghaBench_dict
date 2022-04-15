@@ -1,0 +1,13 @@
+ISER_CONN_DOWN,VAR_0
+ig,VAR_1
+iscsi_destroy_endpoint,FUNC_0
+iser_free_ib_conn_res,FUNC_1
+iser_warn,FUNC_2
+kfree,FUNC_3
+list_del,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+rdma_destroy_id,FUNC_7
+iser_conn_release,FUNC_8
+iser_conn,VAR_2
+ib_conn,VAR_3

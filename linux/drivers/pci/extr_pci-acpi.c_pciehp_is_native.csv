@@ -1,0 +1,11 @@
+CONFIG_HOTPLUG_PCI_PCIE,VAR_0
+IS_ENABLED,FUNC_0
+PCI_EXP_SLTCAP,VAR_1
+PCI_EXP_SLTCAP_HPC,VAR_2
+pci_find_host_bridge,FUNC_1
+pcie_capability_read_dword,FUNC_2
+pcie_ports_native,VAR_3
+pciehp_is_native,FUNC_3
+bridge,VAR_4
+host,VAR_5
+slot_cap,VAR_6

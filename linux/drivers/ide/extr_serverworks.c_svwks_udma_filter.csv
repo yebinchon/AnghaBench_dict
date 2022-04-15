@@ -1,0 +1,12 @@
+PCI_DEVICE_ID_SERVERWORKS_HT1000IDE,VAR_0
+SVWKS_CSB5_REVISION_NEW,VAR_1
+check_in_drive_lists,FUNC_0
+pci_read_config_byte,FUNC_1
+svwks_bad_ata100,VAR_2
+to_pci_dev,FUNC_2
+svwks_udma_filter,FUNC_3
+drive,VAR_3
+dev,VAR_4
+btr,VAR_5
+mode,VAR_6
+mask,VAR_7

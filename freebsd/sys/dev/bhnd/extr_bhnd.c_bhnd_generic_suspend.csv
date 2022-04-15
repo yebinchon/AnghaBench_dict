@@ -1,0 +1,16 @@
+BHND_DEVICE_ORDER_DETACH,VAR_0
+BUS_RESUME_CHILD,FUNC_0
+BUS_SUSPEND_CHILD,FUNC_1
+EBUSY,VAR_1
+bhnd_bus_free_children,FUNC_2
+bhnd_bus_get_children,FUNC_3
+device_get_parent,FUNC_4
+device_is_attached,FUNC_5
+bhnd_generic_suspend,FUNC_6
+dev,VAR_2
+devs,VAR_3
+ndevs,VAR_4
+error,VAR_5
+i,VAR_6
+child,VAR_7
+j,VAR_8

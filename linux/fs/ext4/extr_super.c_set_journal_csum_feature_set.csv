@@ -1,0 +1,17 @@
+EXT4_SB,FUNC_0
+JBD2_FEATURE_COMPAT_CHECKSUM,VAR_0
+JBD2_FEATURE_INCOMPAT_ASYNC_COMMIT,VAR_1
+JBD2_FEATURE_INCOMPAT_CSUM_V2,VAR_2
+JBD2_FEATURE_INCOMPAT_CSUM_V3,VAR_3
+JOURNAL_ASYNC_COMMIT,VAR_4
+JOURNAL_CHECKSUM,VAR_5
+ext4_has_metadata_csum,FUNC_1
+jbd2_journal_clear_features,FUNC_2
+jbd2_journal_set_features,FUNC_3
+test_opt,FUNC_4
+set_journal_csum_feature_set,FUNC_5
+sb,VAR_6
+ret,VAR_7
+compat,VAR_8
+incompat,VAR_9
+sbi,VAR_10

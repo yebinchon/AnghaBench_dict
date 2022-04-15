@@ -1,0 +1,16 @@
+DATA_DIR_RX,VAR_0
+DATA_DIR_TX,VAR_1
+SPI_COMMAND1,VAR_2
+SPI_DMA_BLK,VAR_3
+SPI_DMA_BLK_SET,FUNC_0
+SPI_DMA_CTL,VAR_4
+SPI_IE_RX,VAR_5
+SPI_IE_TX,VAR_6
+SPI_PIO,VAR_7
+tegra_spi_fill_tx_fifo_from_client_txbuf,FUNC_1
+tegra_spi_writel,FUNC_2
+tegra_spi_start_cpu_based_transfer,FUNC_3
+tspi,VAR_8
+t,VAR_9
+val,VAR_10
+cur_words,VAR_11

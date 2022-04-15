@@ -1,0 +1,10 @@
+PCIB_RELEASE_MSI,FUNC_0
+SYS_RES_IRQ,VAR_0
+bus_delete_resource,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_parent,FUNC_4
+device_get_softc,FUNC_5
+amdvi_free_evt_intr_res,FUNC_6
+dev,VAR_1
+softc,VAR_2

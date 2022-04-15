@@ -1,0 +1,12 @@
+CTL_SW_RESET,VAR_0
+DPU_REG_READ,FUNC_0
+ktime_add_us,FUNC_1
+ktime_compare_safe,FUNC_2
+ktime_get,FUNC_3
+usleep_range,FUNC_4
+dpu_hw_ctl_poll_reset_status,FUNC_5
+ctx,VAR_1
+timeout_us,VAR_2
+c,VAR_3
+timeout,VAR_4
+status,VAR_5

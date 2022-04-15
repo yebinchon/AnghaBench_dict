@@ -1,0 +1,15 @@
+GetLenToPosState,FUNC_0
+LZMA_MATCH_LEN_MIN,VAR_0
+LenEnc_Encode2,FUNC_1
+RangeEnc_EncodeBit,FUNC_2
+RangeEnc_EncodeDirectBits,FUNC_3
+RcTree_Encode,FUNC_4
+RcTree_ReverseEncode,FUNC_5
+kAlignMask,VAR_1
+kMatchNextStates,VAR_2
+kNumAlignBits,VAR_3
+kNumPosSlotBits,VAR_4
+WriteEndMarker,FUNC_6
+p,VAR_5
+posState,VAR_6
+len,VAR_7

@@ -1,0 +1,12 @@
+dsl_dataset_snapshot,FUNC_0
+fnvlist_add_boolean,FUNC_1
+fnvlist_alloc,FUNC_2
+fnvlist_free,FUNC_3
+kmem_asprintf,FUNC_4
+kmem_strfree,FUNC_5
+dmu_objset_snapshot_one,FUNC_6
+fsname,VAR_0
+snapname,VAR_1
+err,VAR_2
+longsnap,VAR_3
+snaps,VAR_4

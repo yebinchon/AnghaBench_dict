@@ -1,0 +1,17 @@
+NFCTH_POLICY,VAR_0
+NFCTH_POLICY_EXPECT_MAX,VAR_1
+NFCTH_POLICY_EXPECT_TIMEOUT,VAR_2
+NFCTH_POLICY_NAME,VAR_3
+NFCTH_POLICY_SET,VAR_4
+NFCTH_POLICY_SET_NUM,VAR_5
+htonl,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put_be32,FUNC_3
+nla_put_string,FUNC_4
+nfnl_cthelper_dump_policy,FUNC_5
+skb,VAR_6
+helper,VAR_7
+i,VAR_8
+nest_parms1,VAR_9
+nest_parms2,VAR_10

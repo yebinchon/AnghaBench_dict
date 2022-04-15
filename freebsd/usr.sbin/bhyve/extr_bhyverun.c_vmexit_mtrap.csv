@@ -1,0 +1,8 @@
+VMEXIT_CONTINUE,VAR_0
+assert,FUNC_0
+gdb_cpu_mtrap,FUNC_1
+stats,VAR_1
+vmexit_mtrap,FUNC_2
+ctx,VAR_2
+vmexit,VAR_3
+pvcpu,VAR_4

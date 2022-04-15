@@ -1,0 +1,10 @@
+XFS_INOBT_HOLEMASK_FULL,VAR_0
+XFS_INODES_PER_CHUNK,VAR_1
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+be64_to_cpu,FUNC_2
+xfs_sb_version_hassparseinodes,FUNC_3
+xfs_inobt_btrec_to_irec,FUNC_4
+mp,VAR_2
+rec,VAR_3
+irec,VAR_4

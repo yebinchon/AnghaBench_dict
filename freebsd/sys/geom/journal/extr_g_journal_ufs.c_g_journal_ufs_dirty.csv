@@ -1,0 +1,16 @@
+FS_NEEDSFSCK,VAR_0
+FS_UNCLEAN,VAR_1
+GJ_DEBUG,FUNC_0
+KASSERT,FUNC_1
+M_GEOM,VAR_2
+SBLOCKSIZE,VAR_3
+STDSB,VAR_4
+ffs_sbget,FUNC_2
+ffs_sbput,FUNC_3
+g_free,FUNC_4
+g_use_g_read_data,VAR_5
+g_use_g_write_data,VAR_6
+g_journal_ufs_dirty,FUNC_5
+cp,VAR_7
+fs,VAR_8
+error,VAR_9

@@ -1,0 +1,14 @@
+GraphicsOptions_FindDetectedResolution,FUNC_0
+MAX_STRING_CHARS,VAR_0
+Q_stricmp,FUNC_1
+UI_Cvar_VariableString,FUNC_2
+detectedResolutions,VAR_1
+resToRatio,VAR_2
+resolutionsDetected,VAR_3
+s_graphicsoptions,VAR_4
+strlen,FUNC_3
+trap_Cvar_VariableStringBuffer,FUNC_4
+trap_Cvar_VariableValue,FUNC_5
+GraphicsOptions_SetMenuItems,FUNC_6
+i,VAR_5
+buf,VAR_6

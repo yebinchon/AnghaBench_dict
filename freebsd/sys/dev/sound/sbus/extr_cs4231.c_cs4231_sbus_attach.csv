@@ -1,0 +1,14 @@
+CS4231_SBUS,VAR_0
+M_DEVBUF,VAR_1
+M_WAITOK,VAR_2
+M_ZERO,VAR_3
+SBUS_BURST_16,VAR_4
+SBUS_BURST_32,VAR_5
+SBUS_BURST_64,VAR_6
+cs4231_attach_common,FUNC_0
+malloc,FUNC_1
+sbus_get_burstsz,FUNC_2
+cs4231_sbus_attach,FUNC_3
+dev,VAR_7
+sc,VAR_8
+burst,VAR_9

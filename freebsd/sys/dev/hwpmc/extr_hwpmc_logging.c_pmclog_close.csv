@@ -1,0 +1,13 @@
+CLO,VAR_0
+DELAY,FUNC_0
+LOG,VAR_1
+PMCDBG1,FUNC_1
+PMC_PO_SHUTDOWN,VAR_2
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+pmc_kthread_mtx,VAR_3
+pmclog_process_closelog,FUNC_4
+pmclog_schedule_all,FUNC_5
+wakeup_one,FUNC_6
+pmclog_close,FUNC_7
+po,VAR_4

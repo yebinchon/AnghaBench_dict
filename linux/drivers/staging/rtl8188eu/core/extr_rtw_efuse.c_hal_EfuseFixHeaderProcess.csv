@@ -1,0 +1,14 @@
+Efuse_GetCurrentSize,FUNC_0
+Efuse_PgPacketRead,FUNC_1
+Efuse_PgPacketWrite,FUNC_2
+Efuse_WordEnableDataWrite,FUNC_3
+memset,FUNC_4
+hal_EfuseFixHeaderProcess,FUNC_5
+pAdapter,VAR_0
+efuseType,VAR_1
+pFixPkt,VAR_2
+pAddr,VAR_3
+originaldata,VAR_4
+badworden,VAR_5
+efuse_addr,VAR_6
+PgWriteSuccess,VAR_7

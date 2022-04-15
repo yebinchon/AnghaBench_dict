@@ -1,0 +1,14 @@
+CONNECTED_BIT,VAR_0
+DISCONNECTED_BIT,VAR_1
+ESP_LOGI,FUNC_0
+TAG,VAR_2
+esp_wifi_connect,FUNC_1
+reconnect,VAR_3
+wifi_event_group,VAR_4
+xEventGroupClearBits,FUNC_2
+xEventGroupSetBits,FUNC_3
+disconnect_handler,FUNC_4
+arg,VAR_5
+event_base,VAR_6
+event_id,VAR_7
+event_data,VAR_8

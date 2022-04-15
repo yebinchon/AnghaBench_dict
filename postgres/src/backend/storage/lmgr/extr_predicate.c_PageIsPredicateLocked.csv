@@ -1,0 +1,16 @@
+HASH_FIND,VAR_0
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_SHARED,VAR_1
+PredicateLockHashPartitionLock,FUNC_2
+PredicateLockTargetHash,VAR_2
+PredicateLockTargetTagHashCode,FUNC_3
+SET_PREDICATELOCKTARGETTAG_PAGE,FUNC_4
+hash_search_with_hash_value,FUNC_5
+PageIsPredicateLocked,FUNC_6
+relation,VAR_3
+blkno,VAR_4
+targettag,VAR_5
+targettaghash,VAR_6
+partitionLock,VAR_7
+target,VAR_8

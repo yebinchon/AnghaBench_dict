@@ -1,0 +1,13 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+ds_wait,VAR_1
+ds_work_list,VAR_2
+finish_wait,FUNC_1
+kthread_should_stop,FUNC_2
+list_empty,FUNC_3
+prepare_to_wait,FUNC_4
+process_ds_work,FUNC_5
+schedule,FUNC_6
+wait,VAR_3
+ds_thread,FUNC_7
+__unused,VAR_4

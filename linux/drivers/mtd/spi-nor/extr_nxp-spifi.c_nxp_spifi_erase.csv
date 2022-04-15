@@ -1,0 +1,14 @@
+SPIFI_ADDR,VAR_0
+SPIFI_CMD,VAR_1
+SPIFI_CMD_FIELDFORM_ALL_SERIAL,VAR_2
+SPIFI_CMD_FRAMEFORM,FUNC_0
+SPIFI_CMD_OPCODE,FUNC_1
+nxp_spifi_set_memory_mode_off,FUNC_2
+nxp_spifi_wait_for_cmd,FUNC_3
+writel,FUNC_4
+nxp_spifi_erase,FUNC_5
+nor,VAR_3
+offs,VAR_4
+spifi,VAR_5
+cmd,VAR_6
+ret,VAR_7

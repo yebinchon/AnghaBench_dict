@@ -1,0 +1,10 @@
+NFS4CLNT_MANAGER_RUNNING,VAR_0
+TASK_KILLABLE,VAR_1
+might_sleep,FUNC_0
+nfs_put_client,FUNC_1
+nfs_wait_bit_killable,VAR_2
+refcount_inc,FUNC_2
+wait_on_bit_action,FUNC_3
+nfs4_wait_clnt_recover,FUNC_4
+clp,VAR_3
+res,VAR_4

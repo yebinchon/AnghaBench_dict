@@ -1,0 +1,13 @@
+MASK_AD9389B_EDID_RDY_INT,VAR_0
+MASK_AD9389B_HPD_INT,VAR_1
+MASK_AD9389B_MSEN_INT,VAR_2
+ad9389b_have_hotplug,FUNC_0
+ad9389b_rd,FUNC_1
+ad9389b_wr,FUNC_2
+v4l2_err,FUNC_3
+ad9389b_set_isr,FUNC_4
+sd,VAR_3
+enable,VAR_4
+irqs,VAR_5
+irqs_rd,VAR_6
+retries,VAR_7

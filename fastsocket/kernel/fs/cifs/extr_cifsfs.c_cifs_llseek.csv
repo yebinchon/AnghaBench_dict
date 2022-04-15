@@ -1,0 +1,12 @@
+CIFS_I,FUNC_0
+SEEK_END,VAR_0
+cifs_revalidate_file_attr,FUNC_1
+filemap_fdatawait,FUNC_2
+generic_file_llseek_unlocked,FUNC_3
+mapping_set_error,FUNC_4
+cifs_llseek,FUNC_5
+file,VAR_1
+offset,VAR_2
+origin,VAR_3
+rc,VAR_4
+inode,VAR_5

@@ -1,0 +1,10 @@
+bus_generic_attach,FUNC_0
+pci_add_children,FUNC_1
+pci_attach_common,FUNC_2
+pcib_get_bus,FUNC_3
+pcib_get_domain,FUNC_4
+pci_attach,FUNC_5
+dev,VAR_0
+busno,VAR_1
+domain,VAR_2
+error,VAR_3

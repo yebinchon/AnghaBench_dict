@@ -1,0 +1,7 @@
+GUEST_GDTR_BASE,VAR_0
+GUEST_GDTR_LIMIT,VAR_1
+vmcs_write32,FUNC_0
+vmcs_writel,FUNC_1
+vmx_set_gdt,FUNC_2
+vcpu,VAR_2
+dt,VAR_3

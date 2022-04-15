@@ -1,0 +1,15 @@
+GEM_BUG_ON,FUNC_0
+READ_ONCE,FUNC_1
+WRITE_ONCE,FUNC_2
+__execlists_schedule_in,FUNC_3
+i915_request_get,FUNC_4
+intel_context_inflight,FUNC_5
+intel_engine_pm_is_awake,FUNC_6
+ptr_inc,FUNC_7
+trace_i915_request_in,FUNC_8
+try_cmpxchg,FUNC_9
+execlists_schedule_in,FUNC_10
+rq,VAR_0
+idx,VAR_1
+ce,VAR_2
+old,VAR_3

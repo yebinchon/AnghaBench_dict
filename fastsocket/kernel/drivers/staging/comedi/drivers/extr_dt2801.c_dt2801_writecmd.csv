@@ -1,0 +1,12 @@
+DT2801_CMD,VAR_0
+DT2801_STATUS,VAR_1
+DT_S_COMPOSITE_ERROR,VAR_2
+DT_S_READY,VAR_3
+dt2801_wait_for_ready,FUNC_0
+inb_p,FUNC_1
+outb_p,FUNC_2
+printk,FUNC_3
+dt2801_writecmd,FUNC_4
+dev,VAR_4
+command,VAR_5
+stat,VAR_6

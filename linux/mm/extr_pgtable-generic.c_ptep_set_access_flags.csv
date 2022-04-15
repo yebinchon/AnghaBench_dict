@@ -1,0 +1,10 @@
+flush_tlb_fix_spurious_fault,FUNC_0
+pte_same,FUNC_1
+set_pte_at,FUNC_2
+ptep_set_access_flags,FUNC_3
+vma,VAR_0
+address,VAR_1
+ptep,VAR_2
+entry,VAR_3
+dirty,VAR_4
+changed,VAR_5

@@ -1,0 +1,13 @@
+NVME_SCT_GENERIC,VAR_0
+NVME_SC_ABORTED_BY_REQUEST,VAR_1
+STAILQ_FIRST,FUNC_0
+STAILQ_REMOVE_HEAD,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+nvme_qpair_manual_complete_request,FUNC_4
+stailq,VAR_2
+nvme_ctrlr_fail_req_task,FUNC_5
+arg,VAR_3
+pending,VAR_4
+ctrlr,VAR_5
+req,VAR_6

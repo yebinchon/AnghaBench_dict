@@ -1,0 +1,14 @@
+iwl_mvm_add_int_sta_common,FUNC_0
+iwl_mvm_allocate_int_sta,FUNC_1
+iwl_mvm_dealloc_int_sta,FUNC_2
+iwl_mvm_mac_get_queues_mask,FUNC_3
+iwl_mvm_vif_from_mac80211,FUNC_4
+lockdep_assert_held,FUNC_5
+iwl_mvm_add_bcast_sta,FUNC_6
+mvm,VAR_0
+vif,VAR_1
+bsta,VAR_2
+mvmvif,VAR_3
+baddr,VAR_4
+qmask,VAR_5
+ret,VAR_6

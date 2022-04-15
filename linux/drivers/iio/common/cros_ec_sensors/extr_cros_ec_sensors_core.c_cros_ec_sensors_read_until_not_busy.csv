@@ -1,0 +1,11 @@
+EC_MEMMAP_ACC_STATUS,VAR_0
+EC_MEMMAP_ACC_STATUS_BUSY_BIT,VAR_1
+EIO,VAR_2
+cros_ec_sensors_cmd_read_u8,FUNC_0
+msleep,FUNC_1
+cros_ec_sensors_read_until_not_busy,FUNC_2
+st,VAR_3
+ec,VAR_4
+status,VAR_5
+ret,VAR_6
+attempts,VAR_7

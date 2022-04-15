@@ -1,0 +1,12 @@
+BSR,VAR_0
+BSR_BANK_MASK,VAR_1
+FILTER_HANDLED,VAR_2
+MSK,VAR_3
+smc_read_2,FUNC_0
+smc_select_bank,FUNC_1
+smc_write_1,FUNC_2
+taskqueue_enqueue,FUNC_3
+smc_intr,FUNC_4
+context,VAR_4
+sc,VAR_5
+curbank,VAR_6

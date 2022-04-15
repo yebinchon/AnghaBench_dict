@@ -1,0 +1,11 @@
+ADIS_MSC_CTRL_DATA_RDY_DIO2,VAR_0
+ADIS_MSC_CTRL_DATA_RDY_EN,VAR_1
+ADIS_MSC_CTRL_DATA_RDY_POL_HIGH,VAR_2
+adis_read_reg_16,FUNC_0
+adis_write_reg_16,FUNC_1
+stub1,FUNC_2
+adis_enable_irq,FUNC_3
+adis,VAR_3
+enable,VAR_4
+ret,VAR_5
+msc,VAR_6

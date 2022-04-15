@@ -1,0 +1,16 @@
+FALSE,VAR_0
+GSS_C_NT_HOSTBASED_SERVICE,VAR_1
+GSS_S_COMPLETE,VAR_2
+TRUE,VAR_3
+gss_import_name,FUNC_0
+gss_release_name,FUNC_1
+log_debug,FUNC_2
+log_status,FUNC_3
+strlen,FUNC_4
+svcauth_gss_set_svc_name,FUNC_5
+svcauth_gss_import_name,FUNC_6
+service,VAR_4
+name,VAR_5
+namebuf,VAR_6
+maj_stat,VAR_7
+min_stat,VAR_8

@@ -1,0 +1,14 @@
+ISCSI_ITT_ALL_ONES,VAR_0
+ISCSI_TASK_TYPE_MIDPATH,VAR_1
+cpu_to_le32,FUNC_0
+init_default_iscsi_task,FUNC_1
+init_scsi_sgl_context,FUNC_2
+init_sqe,FUNC_3
+init_ustorm_task_contexts,FUNC_4
+set_local_completion_context,FUNC_5
+init_initiator_nop_out_task,FUNC_6
+task_params,VAR_2
+nop_out_pdu_header,VAR_3
+tx_sgl_task_params,VAR_4
+rx_sgl_task_params,VAR_5
+cxt,VAR_6

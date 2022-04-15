@@ -1,0 +1,16 @@
+del_timer_sync,FUNC_0
+free_dma_desc_resources,FUNC_1
+free_irq,FUNC_2
+netdev_priv,FUNC_3
+netif_carrier_off,FUNC_4
+phylink_disconnect_phy,FUNC_5
+phylink_stop,FUNC_6
+stmmac_disable_all_queues,FUNC_7
+stmmac_mac_set,FUNC_8
+stmmac_release_ptp,FUNC_9
+stmmac_stop_all_dma,FUNC_10
+stmmac_stop_all_queues,FUNC_11
+stmmac_release,FUNC_12
+dev,VAR_0
+priv,VAR_1
+chan,VAR_2

@@ -1,0 +1,16 @@
+SVM_EXITINFO_REG_MASK,VAR_0
+SVM_EXIT_READ_DR0,VAR_1
+SVM_FEATURE_DECODE_ASSIST,VAR_2
+emulate_on_interception,FUNC_0
+kvm_register_read,FUNC_1
+kvm_register_write,FUNC_2
+skip_emulated_instruction,FUNC_3
+svm_get_dr,FUNC_4
+svm_has,FUNC_5
+svm_set_dr,FUNC_6
+dr_interception,FUNC_7
+svm,VAR_3
+reg,VAR_4
+dr,VAR_5
+val,VAR_6
+err,VAR_7

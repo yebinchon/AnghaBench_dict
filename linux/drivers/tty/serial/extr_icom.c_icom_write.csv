@@ -1,0 +1,17 @@
+CMD_XMIT_RCV_ENABLE,VAR_0
+ICOM_PORT,VAR_1
+SA_FLAGS_READY_TO_XMIT,VAR_2
+START_XMIT,VAR_3
+UART_XMIT_SIZE,VAR_4
+XMIT_BUFF_SZ,VAR_5
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+readb,FUNC_2
+trace,FUNC_3
+writeb,FUNC_4
+icom_write,FUNC_5
+port,VAR_6
+data_count,VAR_7
+cmdReg,VAR_8
+offset,VAR_9
+temp_tail,VAR_10

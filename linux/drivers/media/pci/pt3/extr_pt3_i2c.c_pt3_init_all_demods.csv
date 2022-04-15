@@ -1,0 +1,6 @@
+PT3_CMD_ADDR_INIT_DEMOD,VAR_0
+REG_I2C_R,VAR_1
+ioread32,FUNC_0
+send_i2c_cmd,FUNC_1
+pt3_init_all_demods,FUNC_2
+pt3,VAR_2

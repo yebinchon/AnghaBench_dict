@@ -1,0 +1,13 @@
+ASSERT0,FUNC_0
+TS_RUN,VAR_0
+dprintf,FUNC_1
+minclsyspri,VAR_1
+mutex_enter,FUNC_2
+mutex_exit,FUNC_3
+spa_proc,FUNC_4
+thread_create,FUNC_5
+txg_quiesce_thread,VAR_2
+txg_sync_thread,VAR_3
+txg_sync_start,FUNC_6
+dp,VAR_4
+tx,VAR_5

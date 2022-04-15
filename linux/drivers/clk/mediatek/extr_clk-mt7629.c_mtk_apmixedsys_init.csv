@@ -1,0 +1,17 @@
+ARRAY_SIZE,FUNC_0
+CLK_APMIXED_ARMPLL,VAR_0
+CLK_APMIXED_MAIN_CORE_EN,VAR_1
+CLK_APMIXED_NR_CLK,VAR_2
+ENOMEM,VAR_3
+apmixed_clks,VAR_4
+clk_prepare_enable,FUNC_1
+mtk_alloc_clk_data,FUNC_2
+mtk_clk_register_gates,FUNC_3
+mtk_clk_register_plls,FUNC_4
+of_clk_add_provider,FUNC_5
+of_clk_src_onecell_get,VAR_5
+plls,VAR_6
+mtk_apmixedsys_init,FUNC_6
+pdev,VAR_7
+clk_data,VAR_8
+node,VAR_9

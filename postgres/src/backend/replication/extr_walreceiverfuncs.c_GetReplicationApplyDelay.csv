@@ -1,0 +1,14 @@
+GetCurrentChunkReplayStartTime,FUNC_0
+GetCurrentTimestamp,FUNC_1
+GetXLogReplayRecPtr,FUNC_2
+SpinLockAcquire,FUNC_3
+SpinLockRelease,FUNC_4
+TimestampDifference,FUNC_5
+WalRcv,VAR_0
+GetReplicationApplyDelay,FUNC_6
+walrcv,VAR_1
+receivePtr,VAR_2
+replayPtr,VAR_3
+secs,VAR_4
+usecs,VAR_5
+chunkReplayStartTime,VAR_6

@@ -1,0 +1,15 @@
+NAU8825_REG_DAC_DGAIN_CTRL,VAR_0
+NAU8825_REG_IMM_RMS_L,VAR_1
+NAU8825_XTALK_DONE,VAR_2
+dev_dbg,FUNC_0
+msleep,FUNC_1
+nau8825_xtalk_clean,FUNC_2
+nau8825_xtalk_imm_start,FUNC_3
+nau8825_xtalk_imm_stop,FUNC_4
+nau8825_xtalk_prepare,FUNC_5
+nau8825_xtalk_sidetone,FUNC_6
+regmap_read,FUNC_7
+regmap_write,FUNC_8
+nau8825_xtalk_measure,FUNC_9
+nau8825,VAR_3
+sidetone,VAR_4

@@ -1,0 +1,13 @@
+APR_END,VAR_0
+APR_SET,VAR_1
+P2L_PROTO_INDEX_ENTRY_SIZE,VAR_2
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_3
+read_p2l_entry_from_proto_index,FUNC_1
+svn_io_file_seek,FUNC_2
+svn_fs_fs__p2l_proto_index_next_offset,FUNC_3
+next_offset,VAR_4
+proto_index,VAR_5
+scratch_pool,VAR_6
+offset,VAR_7
+entry,VAR_8

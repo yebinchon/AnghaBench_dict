@@ -1,0 +1,14 @@
+KSFT_SKIP,VAR_0
+KVM_CHECK_EXTENSION,VAR_1
+KVM_DEV_PATH,VAR_2
+O_RDONLY,VAR_3
+TEST_ASSERT,FUNC_0
+close,FUNC_1
+errno,VAR_4
+exit,FUNC_2
+ioctl,FUNC_3
+open,FUNC_4
+kvm_check_cap,FUNC_5
+cap,VAR_5
+ret,VAR_6
+kvm_fd,VAR_7

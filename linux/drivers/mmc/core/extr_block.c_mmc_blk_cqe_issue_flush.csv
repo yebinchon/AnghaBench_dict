@@ -1,0 +1,14 @@
+EXT_CSD_CMD_SET_NORMAL,VAR_0
+EXT_CSD_FLUSH_CACHE,VAR_1
+MMC_CMD_AC,VAR_2
+MMC_RSP_R1B,VAR_3
+MMC_SWITCH,VAR_4
+MMC_SWITCH_MODE_WRITE_BYTE,VAR_5
+mmc_blk_cqe_prep_dcmd,FUNC_0
+mmc_blk_cqe_start_req,FUNC_1
+req_to_mmc_queue_req,FUNC_2
+mmc_blk_cqe_issue_flush,FUNC_3
+mq,VAR_6
+req,VAR_7
+mqrq,VAR_8
+mrq,VAR_9

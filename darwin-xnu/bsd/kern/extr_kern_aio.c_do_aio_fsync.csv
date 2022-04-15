@@ -1,0 +1,16 @@
+AIO_FSYNC,VAR_0
+MNT_DWAIT,VAR_1
+MNT_WAIT,VAR_2
+VNOP_FSYNC,FUNC_0
+current_thread,FUNC_1
+fp_drop,FUNC_2
+fp_getfvp,FUNC_3
+vnode_getwithref,FUNC_4
+vnode_put,FUNC_5
+do_aio_fsync,FUNC_6
+entryp,VAR_3
+context,VAR_4
+vp,VAR_5
+fp,VAR_6
+sync_flag,VAR_7
+error,VAR_8

@@ -1,0 +1,16 @@
+RAVE_SP_EEPROM_PAGE_SIZE,VAR_0
+min,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rave_sp_eeprom_page_access,FUNC_3
+unlikely,FUNC_4
+rave_sp_eeprom_access,FUNC_5
+eeprom,VAR_1
+type,VAR_2
+offset,VAR_3
+data,VAR_4
+data_len,VAR_5
+residue,VAR_6
+chunk,VAR_7
+head,VAR_8
+ret,VAR_9

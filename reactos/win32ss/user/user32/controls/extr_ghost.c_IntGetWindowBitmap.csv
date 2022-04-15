@@ -1,0 +1,17 @@
+BitBlt,FUNC_0
+CAPTUREBLT,VAR_0
+CreateCompatibleDC,FUNC_1
+DeleteDC,FUNC_2
+GetWindowDC,FUNC_3
+IntCreate32BppBitmap,FUNC_4
+ReleaseDC,FUNC_5
+SRCCOPY,VAR_1
+SelectObject,FUNC_6
+IntGetWindowBitmap,FUNC_7
+hwnd,VAR_2
+cx,VAR_3
+cy,VAR_4
+hbm,VAR_5
+hdc,VAR_6
+hdcMem,VAR_7
+hbmOld,VAR_8

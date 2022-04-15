@@ -1,0 +1,10 @@
+PM_PASSWORD,VAR_0
+PM_RSTS,VAR_1
+PM_RSTS_RASPBERRYPI_HALT,VAR_2
+__bcm2835_restart,FUNC_0
+bcm2835_power_off_wdt,VAR_3
+readl_relaxed,FUNC_1
+writel_relaxed,FUNC_2
+bcm2835_power_off,FUNC_3
+wdt,VAR_4
+val,VAR_5

@@ -1,0 +1,17 @@
+Assert,FUNC_0
+BufferGetPage,FUNC_1
+ExecStoreBufferHeapTuple,FUNC_2
+ItemIdGetLength,FUNC_3
+ItemIdIsNormal,FUNC_4
+ItemPointerSet,FUNC_5
+PageGetItem,FUNC_6
+PageGetItemId,FUNC_7
+pgstat_count_heap_fetch,FUNC_8
+heapam_scan_bitmap_next_tuple,FUNC_9
+scan,VAR_0
+tbmres,VAR_1
+slot,VAR_2
+hscan,VAR_3
+targoffset,VAR_4
+dp,VAR_5
+lp,VAR_6

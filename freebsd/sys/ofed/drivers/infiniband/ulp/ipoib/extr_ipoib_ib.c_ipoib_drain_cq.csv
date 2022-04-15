@@ -1,0 +1,16 @@
+IB_WC_SUCCESS,VAR_0
+IB_WC_WR_FLUSH_ERR,VAR_1
+IPOIB_NUM_WC,VAR_2
+IPOIB_OP_CM,VAR_3
+IPOIB_OP_RECV,VAR_4
+ib_poll_cq,FUNC_0
+ipoib_cm_handle_rx_wc,FUNC_1
+ipoib_ib_handle_rx_wc,FUNC_2
+ipoib_poll_tx,FUNC_3
+panic,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ipoib_drain_cq,FUNC_7
+priv,VAR_5
+i,VAR_6
+n,VAR_7

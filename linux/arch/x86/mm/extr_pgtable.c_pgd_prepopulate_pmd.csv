@@ -1,0 +1,17 @@
+KERNEL_PGD_BOUNDARY,VAR_0
+PREALLOCATED_PMDS,VAR_1
+PTRS_PER_PMD,VAR_2
+memcpy,FUNC_0
+p4d_offset,FUNC_1
+pgd_page_vaddr,FUNC_2
+pud_offset,FUNC_3
+pud_populate,FUNC_4
+swapper_pg_dir,VAR_3
+pgd_prepopulate_pmd,FUNC_5
+mm,VAR_4
+pgd,VAR_5
+pmds,VAR_6
+p4d,VAR_7
+pud,VAR_8
+i,VAR_9
+pmd,VAR_10

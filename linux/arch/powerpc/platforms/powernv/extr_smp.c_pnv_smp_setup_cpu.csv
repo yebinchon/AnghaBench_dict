@@ -1,0 +1,12 @@
+PPC_BIT,FUNC_0
+PVR_POWER9,VAR_0
+SPRN_HMEER,VAR_1
+boot_cpuid,VAR_2
+mfspr,FUNC_1
+mtspr,FUNC_2
+pvr_version_is,FUNC_3
+xics_setup_cpu,FUNC_4
+xive_enabled,FUNC_5
+xive_smp_setup_cpu,FUNC_6
+pnv_smp_setup_cpu,FUNC_7
+cpu,VAR_3

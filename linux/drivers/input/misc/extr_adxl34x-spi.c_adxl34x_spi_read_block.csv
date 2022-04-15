@@ -1,0 +1,10 @@
+ADXL34X_READMB_CMD,FUNC_0
+spi_write_then_read,FUNC_1
+to_spi_device,FUNC_2
+adxl34x_spi_read_block,FUNC_3
+dev,VAR_0
+reg,VAR_1
+count,VAR_2
+buf,VAR_3
+spi,VAR_4
+status,VAR_5

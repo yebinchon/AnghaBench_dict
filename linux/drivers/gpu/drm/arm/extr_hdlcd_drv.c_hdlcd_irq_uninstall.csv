@@ -1,0 +1,9 @@
+HDLCD_DEBUG_INT_MASK,VAR_0
+HDLCD_INTERRUPT_VSYNC,VAR_1
+HDLCD_REG_INT_MASK,VAR_2
+hdlcd_read,FUNC_0
+hdlcd_write,FUNC_1
+hdlcd_irq_uninstall,FUNC_2
+drm,VAR_3
+hdlcd,VAR_4
+irq_mask,VAR_5

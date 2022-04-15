@@ -1,0 +1,9 @@
+BR_INPUT_SKB_CB,FUNC_0
+NF_BR_LOCAL_IN,VAR_0
+NF_HOOK,FUNC_1
+PF_BRIDGE,VAR_1
+netif_receive_skb,VAR_2
+br_pass_frame_up,FUNC_2
+skb,VAR_3
+indev,VAR_4
+brdev,VAR_5

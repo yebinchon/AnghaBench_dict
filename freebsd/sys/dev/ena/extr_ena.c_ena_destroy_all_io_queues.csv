@@ -1,0 +1,9 @@
+ena_destroy_all_rx_queues,FUNC_0
+ena_destroy_all_tx_queues,FUNC_1
+taskqueue_cancel,FUNC_2
+taskqueue_drain,FUNC_3
+taskqueue_free,FUNC_4
+ena_destroy_all_io_queues,FUNC_5
+adapter,VAR_0
+queue,VAR_1
+i,VAR_2

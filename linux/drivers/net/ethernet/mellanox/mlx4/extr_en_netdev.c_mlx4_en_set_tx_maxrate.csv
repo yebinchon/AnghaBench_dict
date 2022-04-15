@@ -1,0 +1,16 @@
+EOPNOTSUPP,VAR_0
+MLX4_DEV_CAP_FLAG2_QP_RATE_LIMIT,VAR_1
+MLX4_QP_RATE_LIMIT_GBS,VAR_2
+MLX4_QP_RATE_LIMIT_MBS,VAR_3
+MLX4_UPDATE_QP_RATE_LIMIT,VAR_4
+TX,VAR_5
+mlx4_update_qp,FUNC_0
+netdev_priv,FUNC_1
+mlx4_en_set_tx_maxrate,FUNC_2
+dev,VAR_6
+queue_index,VAR_7
+maxrate,VAR_8
+priv,VAR_9
+tx_ring,VAR_10
+params,VAR_11
+err,VAR_12

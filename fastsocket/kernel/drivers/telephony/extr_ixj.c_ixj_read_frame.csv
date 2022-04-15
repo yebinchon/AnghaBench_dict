@@ -1,0 +1,15 @@
+G729,VAR_0
+IsRxReady,FUNC_0
+IsTxReady,FUNC_1
+POLL_OUT,VAR_1
+SIG_READ_READY,VAR_2
+get_ixj,FUNC_2
+inb_p,FUNC_3
+ixj_kill_fasync,FUNC_4
+outb_p,FUNC_5
+udelay,FUNC_6
+wake_up_interruptible,FUNC_7
+ixj_read_frame,FUNC_8
+j,VAR_3
+cnt,VAR_4
+dly,VAR_5

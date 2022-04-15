@@ -1,0 +1,11 @@
+IEEE80211_ADDR_LEN,VAR_0
+IEEE80211_IOC_BSSID,VAR_1
+SIOCG80211BSSID,VAR_2
+get80211var,FUNC_0
+ioctl,FUNC_1
+os_memcpy,FUNC_2
+os_strlcpy,FUNC_3
+wpa_driver_bsd_get_bssid,FUNC_4
+priv,VAR_3
+bssid,VAR_4
+drv,VAR_5

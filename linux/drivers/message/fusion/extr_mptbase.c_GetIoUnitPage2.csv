@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+MPI_CONFIG_ACTION_PAGE_HEADER,VAR_1
+MPI_CONFIG_ACTION_PAGE_READ_CURRENT,VAR_2
+MPI_CONFIG_PAGETYPE_IO_UNIT,VAR_3
+le32_to_cpu,FUNC_0
+memset,FUNC_1
+mpt_config,FUNC_2
+pci_alloc_consistent,FUNC_3
+pci_free_consistent,FUNC_4
+GetIoUnitPage2,FUNC_5
+ioc,VAR_4
+hdr,VAR_5
+cfg,VAR_6
+ppage_alloc,VAR_7
+page_dma,VAR_8
+data_sz,VAR_9
+rc,VAR_10

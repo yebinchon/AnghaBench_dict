@@ -1,0 +1,9 @@
+bsg_unregister_queue,FUNC_0
+device_del,FUNC_1
+sas_remove_children,FUNC_2
+sas_rphy_unlink,FUNC_3
+scsi_remove_target,FUNC_4
+transport_remove_device,FUNC_5
+sas_rphy_remove,FUNC_6
+rphy,VAR_0
+dev,VAR_1

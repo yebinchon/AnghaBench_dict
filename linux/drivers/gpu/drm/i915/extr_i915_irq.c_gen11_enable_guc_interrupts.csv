@@ -1,0 +1,16 @@
+ENGINE1_MASK,VAR_0
+GEN11_GUC,VAR_1
+GEN11_GUC_SG_INTR_ENABLE,VAR_2
+GEN11_GUC_SG_INTR_MASK,VAR_3
+GUC_INTR_GUC2HOST,VAR_4
+REG_FIELD_PREP,FUNC_0
+WARN_ON_ONCE,FUNC_1
+gen11_gt_reset_one_iir,FUNC_2
+guc_to_gt,FUNC_3
+intel_uncore_write,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+gen11_enable_guc_interrupts,FUNC_7
+guc,VAR_5
+gt,VAR_6
+events,VAR_7

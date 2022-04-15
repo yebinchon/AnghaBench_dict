@@ -1,0 +1,12 @@
+PORT_NPCM,VAR_0
+UART_BUG_QUOT,VAR_1
+UPF_MAGIC_MULTIPLIER,VAR_2
+npcm_get_divisor,FUNC_0
+uart_get_divisor,FUNC_1
+up_to_u8250p,FUNC_2
+serial8250_do_get_divisor,FUNC_3
+port,VAR_3
+baud,VAR_4
+frac,VAR_5
+up,VAR_6
+quot,VAR_7

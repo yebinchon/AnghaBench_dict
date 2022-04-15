@@ -1,0 +1,16 @@
+DECLARE_WAITQUEUE,FUNC_0
+ERESTARTSYS,VAR_0
+HZ,VAR_1
+add_wait_queue,FUNC_1
+current,VAR_2
+kthread_should_stop,FUNC_2
+remove_wait_queue,FUNC_3
+schedule_timeout_interruptible,FUNC_4
+set_freezable,FUNC_5
+solo_handle_ring,FUNC_6
+try_to_freeze,FUNC_7
+wait,VAR_3
+solo_ring_thread,FUNC_8
+data,VAR_4
+solo_dev,VAR_5
+timeout,VAR_6

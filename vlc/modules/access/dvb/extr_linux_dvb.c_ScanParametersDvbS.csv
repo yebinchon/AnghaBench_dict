@@ -1,0 +1,15 @@
+FORMAT_DVBv3,VAR_0
+SCAN_DVB_S,VAR_1
+VLC_SUCCESS,VAR_2
+VLC_SYSDATA_DIR,VAR_3
+asprintf,FUNC_0
+config_GetSysPath,FUNC_1
+free,FUNC_2
+var_InheritString,FUNC_3
+ScanParametersDvbS,FUNC_4
+p_access,VAR_4
+p_sys,VAR_5
+p_scan,VAR_6
+p_frontend,VAR_7
+psz_name,VAR_8
+data_dir,VAR_9

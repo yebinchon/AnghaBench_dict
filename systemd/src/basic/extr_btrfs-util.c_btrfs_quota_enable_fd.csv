@@ -1,0 +1,13 @@
+BTRFS_IOC_QUOTA_CTL,VAR_0
+BTRFS_QUOTA_CTL_DISABLE,VAR_1
+BTRFS_QUOTA_CTL_ENABLE,VAR_2
+ENOTTY,VAR_3
+assert,FUNC_0
+btrfs_is_filesystem,FUNC_1
+errno,VAR_4
+ioctl,FUNC_2
+btrfs_quota_enable_fd,FUNC_3
+fd,VAR_5
+b,VAR_6
+args,VAR_7
+r,VAR_8

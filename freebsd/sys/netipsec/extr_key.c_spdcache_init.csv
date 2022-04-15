@@ -1,0 +1,16 @@
+MAX,FUNC_0
+M_IPSEC_SPDCACHE,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+SPDCACHE_LOCK_INIT,FUNC_1
+SPDCACHE_MAX_ENTRIES_PER_HASH,VAR_3
+TUNABLE_INT_FETCH,FUNC_2
+V_key_spdcache_maxentries,VAR_4
+V_key_spdcache_threshold,VAR_5
+V_spdcache_lock,VAR_6
+V_spdcachehash_mask,VAR_7
+V_spdcachehashtbl,VAR_8
+hashinit,FUNC_3
+malloc,FUNC_4
+spdcache_init,FUNC_5
+i,VAR_9

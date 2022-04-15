@@ -1,0 +1,15 @@
+BRCMS_RATE_MASK,VAR_0
+BRCM_MAXRATE,VAR_1
+MCSSET_LEN,VAR_2
+brcms_c_rateset_valid,FUNC_0
+memset,FUNC_1
+rate_info,VAR_3
+brcms_c_rate_hwrs_filter_sort_validate,FUNC_2
+rs,VAR_4
+hw_rs,VAR_5
+check_brate,VAR_6
+txstreams,VAR_7
+rateset,VAR_8
+r,VAR_9
+count,VAR_10
+i,VAR_11

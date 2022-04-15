@@ -1,0 +1,15 @@
+fdt_add_subnode,FUNC_0
+fdt_setprop,FUNC_1
+fdt_setprop_u32,FUNC_2
+snprintf,FUNC_3
+dtoverlay_create_prop_fragment,FUNC_4
+dtb,VAR_0
+idx,VAR_1
+target_phandle,VAR_2
+prop_name,VAR_3
+prop_data,VAR_4
+prop_len,VAR_5
+fragment_name,VAR_6
+frag_off,VAR_7
+ovl_off,VAR_8
+ret,VAR_9

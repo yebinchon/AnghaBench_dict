@@ -1,0 +1,14 @@
+SVN_BRANCH__ERR,VAR_0
+SVN_ERR_FS_NO_SUCH_REVISION,VAR_1
+SVN_NO_ERROR,VAR_2
+_,FUNC_0
+svn_branch__repos_get_revision,FUNC_1
+svn_branch__txn_get_branch_by_id,FUNC_2
+svn_error_createf,FUNC_3
+svn_branch__repos_get_branch_by_id,FUNC_4
+branch_p,VAR_3
+repos,VAR_4
+revnum,VAR_5
+branch_id,VAR_6
+scratch_pool,VAR_7
+rev_root,VAR_8

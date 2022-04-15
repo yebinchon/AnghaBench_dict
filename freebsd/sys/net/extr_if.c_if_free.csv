@@ -1,0 +1,14 @@
+CURVNET_RESTORE,FUNC_0
+CURVNET_SET_QUIET,FUNC_1
+IFF_DYING,VAR_0
+IFNET_WLOCK,FUNC_2
+IFNET_WUNLOCK,FUNC_3
+KASSERT,FUNC_4
+epoch_call,FUNC_5
+if_destroy,VAR_1
+ifindex_free_locked,FUNC_6
+ifnet_byindex,FUNC_7
+net_epoch_preempt,VAR_2
+refcount_release,FUNC_8
+if_free,FUNC_9
+ifp,VAR_3

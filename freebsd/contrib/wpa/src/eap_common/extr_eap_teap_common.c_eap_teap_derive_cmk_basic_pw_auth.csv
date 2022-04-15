@@ -1,0 +1,15 @@
+EAP_TEAP_CMK_LEN,VAR_0
+EAP_TEAP_IMCK_LEN,VAR_1
+EAP_TEAP_SIMCK_LEN,VAR_2
+MSG_DEBUG,VAR_3
+eap_teap_tls_prf,FUNC_0
+forced_memzero,FUNC_1
+os_memcpy,FUNC_2
+os_memset,FUNC_3
+wpa_hexdump_key,FUNC_4
+eap_teap_derive_cmk_basic_pw_auth,FUNC_5
+s_imck_msk,VAR_4
+cmk,VAR_5
+imsk,VAR_6
+imck,VAR_7
+res,VAR_8

@@ -1,0 +1,12 @@
+EVENT_NEW_STA,VAR_0
+MSG_DEBUG,VAR_1
+MSG_MSGDUMP,VAR_2
+drv_event_eapol_rx,FUNC_0
+ntohs,FUNC_1
+os_memset,FUNC_2
+wpa_printf,FUNC_3
+wpa_supplicant_event,FUNC_4
+macsec_qca_handle_data,FUNC_5
+ctx,VAR_3
+buf,VAR_4
+len,VAR_5

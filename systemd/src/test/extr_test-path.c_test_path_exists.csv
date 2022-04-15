@@ -1,0 +1,9 @@
+assert_se,FUNC_0
+check_stop_unlink,FUNC_1
+manager_load_startable_unit_or_warn,FUNC_2
+touch,FUNC_3
+unit_start,FUNC_4
+test_path_exists,FUNC_5
+m,VAR_0
+test_path,VAR_1
+unit,VAR_2

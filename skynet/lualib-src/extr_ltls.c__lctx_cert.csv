@@ -1,0 +1,13 @@
+SSL_CTX_check_private_key,FUNC_0
+SSL_CTX_use_PrivateKey_file,FUNC_1
+SSL_CTX_use_certificate_file,FUNC_2
+SSL_FILETYPE_PEM,VAR_0
+_check_sslctx,FUNC_3
+luaL_error,FUNC_4
+lua_tostring,FUNC_5
+_lctx_cert,FUNC_6
+L,VAR_1
+ctx_p,VAR_2
+certfile,VAR_3
+key,VAR_4
+ret,VAR_5

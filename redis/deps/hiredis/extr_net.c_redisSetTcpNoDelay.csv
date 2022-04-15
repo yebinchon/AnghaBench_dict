@@ -1,0 +1,11 @@
+IPPROTO_TCP,VAR_0
+REDIS_ERR,VAR_1
+REDIS_ERR_IO,VAR_2
+REDIS_OK,VAR_3
+TCP_NODELAY,VAR_4
+__redisSetErrorFromErrno,FUNC_0
+redisNetClose,FUNC_1
+setsockopt,FUNC_2
+redisSetTcpNoDelay,FUNC_3
+c,VAR_5
+yes,VAR_6

@@ -1,0 +1,12 @@
+BIO_ERROR,VAR_0
+EINVAL,VAR_1
+MFI_SYS_PD_IO,VAR_2
+biodone,FUNC_0
+mfi_enqueue_bio,FUNC_1
+mfi_startio,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+mfi_syspd_strategy,FUNC_5
+bio,VAR_3
+sc,VAR_4
+controller,VAR_5

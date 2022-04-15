@@ -1,0 +1,14 @@
+KVM_REQ_PMI,VAR_0
+KVM_REQ_PMU,VAR_1
+__set_bit,FUNC_0
+irq_work_queue,FUNC_1
+kvm_is_in_guest,FUNC_2
+kvm_make_request,FUNC_3
+pmc_to_pmu,FUNC_4
+test_and_set_bit,FUNC_5
+kvm_perf_overflow_intr,FUNC_6
+perf_event,VAR_2
+data,VAR_3
+regs,VAR_4
+pmc,VAR_5
+pmu,VAR_6

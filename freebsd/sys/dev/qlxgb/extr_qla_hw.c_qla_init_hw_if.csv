@@ -1,0 +1,17 @@
+NUM_RX_DESCRIPTORS,VAR_0
+NUM_RX_JUMBO_DESCRIPTORS,VAR_1
+QL_ENABLE_INTERRUPTS,FUNC_0
+QL_UPDATE_RDS_PRODUCER_INDEX,FUNC_1
+bzero,FUNC_2
+qla_config_intr_coalesce,FUNC_3
+qla_config_mac_addr,FUNC_4
+qla_config_rss,FUNC_5
+qla_del_rcv_cntxt,FUNC_6
+qla_get_hw_caps,FUNC_7
+qla_init_rcv_cntxt,FUNC_8
+qla_init_xmt_cntxt,FUNC_9
+qla_init_hw_if,FUNC_10
+ha,VAR_2
+dev,VAR_3
+i,VAR_4
+bcast_mac,VAR_5

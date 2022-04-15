@@ -1,0 +1,14 @@
+ARM_CPSR,VAR_0
+ARM_FP,VAR_1
+ARM_LR,VAR_2
+ARM_PC,VAR_3
+ARM_SP,VAR_4
+CPU_DTRACE_ILLOP,VAR_5
+DTRACE_CPUFLAG_SET,FUNC_0
+check_saved_state_reglimit,FUNC_1
+get_saved_state_reg,FUNC_2
+is_saved_state32,FUNC_3
+dtrace_getreg,FUNC_4
+savearea,VAR_6
+reg,VAR_7
+regs,VAR_8

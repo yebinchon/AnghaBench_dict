@@ -1,0 +1,14 @@
+IRQF_SHARED,VAR_0
+IRQ_READ,VAR_1
+VHOST_USER_SET_SLAVE_REQ_FD,VAR_2
+VIRTIO_IRQ,VAR_3
+os_close_file,FUNC_0
+os_pipe,FUNC_1
+um_free_irq,FUNC_2
+um_request_irq,FUNC_3
+vhost_user_send_no_payload_fd,FUNC_4
+vu_req_interrupt,VAR_4
+vhost_user_init_slave_req,FUNC_5
+vu_dev,VAR_5
+rc,VAR_6
+req_fds,VAR_7

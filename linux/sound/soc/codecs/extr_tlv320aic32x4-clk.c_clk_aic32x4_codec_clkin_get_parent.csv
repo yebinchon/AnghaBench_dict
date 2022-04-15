@@ -1,0 +1,9 @@
+AIC32X4_CLKMUX,VAR_0
+AIC32X4_CODEC_CLKIN_MASK,VAR_1
+AIC32X4_CODEC_CLKIN_SHIFT,VAR_2
+regmap_read,FUNC_0
+to_clk_aic32x4,FUNC_1
+clk_aic32x4_codec_clkin_get_parent,FUNC_2
+hw,VAR_3
+mux,VAR_4
+val,VAR_5

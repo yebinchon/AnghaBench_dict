@@ -1,0 +1,15 @@
+TSI108_TXRING_LEN,VAR_0
+TSI108_TX_EOF,VAR_1
+TSI108_TX_OK,VAR_2
+TSI108_TX_OWN,VAR_3
+dev_kfree_skb_any,FUNC_0
+is_valid_ether_addr,FUNC_1
+netdev_priv,FUNC_2
+netif_wake_queue,FUNC_3
+printk,FUNC_4
+tsi108_complete_tx,FUNC_5
+dev,VAR_4
+data,VAR_5
+tx,VAR_6
+skb,VAR_7
+release,VAR_8

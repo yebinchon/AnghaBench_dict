@@ -1,0 +1,14 @@
+DA7213_BIAS_EN,VAR_0
+DA7213_REFERENCES,VAR_1
+DA7213_VMID_EN,VAR_2
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_err,FUNC_2
+snd_soc_component_get_bias_level,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+snd_soc_component_update_bits,FUNC_5
+da7213_set_bias_level,FUNC_6
+component,VAR_3
+level,VAR_4
+da7213,VAR_5
+ret,VAR_6

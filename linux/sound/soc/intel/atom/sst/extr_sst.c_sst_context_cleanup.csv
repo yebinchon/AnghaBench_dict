@@ -1,0 +1,14 @@
+SST_SHUTDOWN,VAR_0
+destroy_workqueue,FUNC_0
+flush_scheduled_work,FUNC_1
+kfree,FUNC_2
+pm_qos_remove_request,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_noresume,FUNC_5
+sst_fw_version_attr_group,VAR_1
+sst_memcpy_free_resources,FUNC_6
+sst_set_fw_state_locked,FUNC_7
+sst_unregister,FUNC_8
+sysfs_remove_group,FUNC_9
+sst_context_cleanup,FUNC_10
+ctx,VAR_2

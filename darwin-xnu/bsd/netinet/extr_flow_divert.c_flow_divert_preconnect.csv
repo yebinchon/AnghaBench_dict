@@ -1,0 +1,12 @@
+FDLOG0,FUNC_0
+FLOW_DIVERT_CONNECT_STARTED,VAR_0
+LOG_INFO,VAR_1
+TRUE,VAR_2
+flow_divert_send_packet,FUNC_1
+mbuf_freem,FUNC_2
+soclearfastopen,FUNC_3
+flow_divert_preconnect,FUNC_4
+so,VAR_3
+fd_cb,VAR_4
+error,VAR_5
+connect_packet,VAR_6

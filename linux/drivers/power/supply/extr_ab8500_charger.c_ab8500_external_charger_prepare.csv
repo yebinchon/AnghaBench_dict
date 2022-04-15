@@ -1,0 +1,12 @@
+AB8500_SYS_CHARGER_CONTROL_REG,VAR_0
+AB8500_SYS_CTRL1_BLOCK,VAR_1
+EXTERNAL_CHARGER_DISABLE_REG_VAL,VAR_2
+EXTERNAL_CHARGER_ENABLE_REG_VAL,VAR_3
+abx500_set_register_interruptible,FUNC_0
+dev_err,FUNC_1
+ab8500_external_charger_prepare,FUNC_2
+charger_nb,VAR_4
+event,VAR_5
+data,VAR_6
+ret,VAR_7
+dev,VAR_8

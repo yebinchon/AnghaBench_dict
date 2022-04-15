@@ -1,0 +1,17 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+IPI_HASHFIELDS_2TUPLE,VAR_1
+UDBHASHSIZE,VAR_2
+UMA_ALIGN_PTR,VAR_3
+V_udb,VAR_4
+V_udbinfo,VAR_5
+V_udpcb_zone,VAR_6
+in_pcbinfo_init,FUNC_1
+maxsockets,VAR_7
+maxsockets_change,VAR_8
+udp_inpcb_init,VAR_9
+udp_zone_change,VAR_10
+uma_zcreate,FUNC_2
+uma_zone_set_max,FUNC_3
+uma_zone_set_warning,FUNC_4
+udp_init,FUNC_5

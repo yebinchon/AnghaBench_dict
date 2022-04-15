@@ -1,0 +1,13 @@
+ALID_AC97SPDIFOUT,VAR_0
+ALI_INTERFACECR,VAR_1
+ICHREG,FUNC_0
+ICH_ALI_IF_AC97SP,VAR_2
+igetdword,FUNC_1
+iputdword,FUNC_2
+snd_pcm_substream_chip,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+snd_intel8x0_ali_ac97spdifout_close,FUNC_6
+substream,VAR_3
+chip,VAR_4
+val,VAR_5

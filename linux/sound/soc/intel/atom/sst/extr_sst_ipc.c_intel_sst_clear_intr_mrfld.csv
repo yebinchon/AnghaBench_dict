@@ -1,0 +1,14 @@
+IPC_ACK_SUCCESS,VAR_0
+SST_IMRX,VAR_1
+SST_IPCD,VAR_2
+SST_ISRX,VAR_3
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+sst_shim_read64,FUNC_2
+sst_shim_write64,FUNC_3
+intel_sst_clear_intr_mrfld,FUNC_4
+sst_drv_ctx,VAR_4
+isr,VAR_5
+imr,VAR_6
+clear_ipc,VAR_7
+irq_flags,VAR_8

@@ -1,0 +1,9 @@
+RBD_WATCH_STATE_REGISTERED,VAR_0
+RBD_WATCH_STATE_UNREGISTERED,VAR_1
+__rbd_register_watch,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rbd_assert,FUNC_3
+rbd_register_watch,FUNC_4
+rbd_dev,VAR_2
+ret,VAR_3

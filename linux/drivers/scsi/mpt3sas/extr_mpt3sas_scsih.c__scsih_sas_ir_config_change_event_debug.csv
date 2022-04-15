@@ -1,0 +1,14 @@
+MPI2_EVENT_IR_CHANGE_EFLAGS_ELEMENT_TYPE_MASK,VAR_0
+MPI2_EVENT_IR_CHANGE_FLAGS_FOREIGN_CONFIG,VAR_1
+ioc_info,FUNC_0
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+pr_info,FUNC_3
+_scsih_sas_ir_config_change_event_debug,FUNC_4
+ioc,VAR_2
+event_data,VAR_3
+element,VAR_4
+element_type,VAR_5
+i,VAR_6
+reason_str,VAR_7
+element_str,VAR_8

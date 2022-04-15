@@ -1,0 +1,12 @@
+SWIMS_USB_REQUEST_GetSwocInfo,VAR_0
+USB_CTRL_SET_TIMEOUT,VAR_1
+USB_DIR_IN,VAR_2
+USB_TYPE_VENDOR,VAR_3
+dev_dbg,FUNC_0
+le16_to_cpu,FUNC_1
+usb_control_msg,FUNC_2
+usb_rcvctrlpipe,FUNC_3
+sierra_get_swoc_info,FUNC_4
+udev,VAR_4
+swocInfo,VAR_5
+result,VAR_6

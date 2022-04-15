@@ -1,0 +1,10 @@
+SPR_TTCR,VAR_0
+SPR_TTMR,VAR_1
+SPR_TTMR_CR,VAR_2
+SPR_TTMR_IE,VAR_3
+SPR_TTMR_TP,VAR_4
+mfspr,FUNC_0
+mtspr,FUNC_1
+openrisc_timer_set_next,FUNC_2
+delta,VAR_5
+c,VAR_6

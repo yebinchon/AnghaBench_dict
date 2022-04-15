@@ -1,0 +1,15 @@
+CMD,VAR_0
+FLG_LAPD_NET,VAR_1
+MAX_L2HEADER_LEN,VAR_2
+UI,VAR_3
+enqueue_ui,FUNC_0
+memcpy,FUNC_1
+sethdraddr,FUNC_2
+skb_dequeue,FUNC_3
+skb_push,FUNC_4
+test_bit,FUNC_5
+tx_ui,FUNC_6
+l2,VAR_4
+skb,VAR_5
+header,VAR_6
+i,VAR_7

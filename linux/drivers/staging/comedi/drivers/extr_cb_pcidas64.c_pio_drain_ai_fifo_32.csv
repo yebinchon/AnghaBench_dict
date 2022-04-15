@@ -1,0 +1,17 @@
+ADC_FIFO_REG,VAR_0
+ADC_READ_PNTR_REG,VAR_1
+ADC_WRITE_PNTR_REG,VAR_2
+comedi_buf_write_samples,FUNC_0
+comedi_nsamples_left,FUNC_1
+readl,FUNC_2
+readw,FUNC_3
+pio_drain_ai_fifo_32,FUNC_4
+dev,VAR_3
+devpriv,VAR_4
+s,VAR_5
+nsamples,VAR_6
+i,VAR_7
+fifo_data,VAR_8
+write_code,VAR_9
+read_code,VAR_10
+val,VAR_11

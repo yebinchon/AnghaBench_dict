@@ -1,0 +1,10 @@
+EIO,VAR_0
+PT_MAX_PUT_REG,VAR_1
+PT_MSR,VAR_2
+PT_TRAP,VAR_3
+set_user_msr,FUNC_0
+set_user_trap,FUNC_1
+ptrace_put_reg,FUNC_2
+task,VAR_4
+regno,VAR_5
+data,VAR_6

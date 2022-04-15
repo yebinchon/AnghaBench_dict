@@ -1,0 +1,9 @@
+IB_ACK_REQUESTED,VAR_0
+set_bit,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+rds_ib_set_ack,FUNC_3
+ic,VAR_1
+seq,VAR_2
+ack_required,VAR_3
+flags,VAR_4

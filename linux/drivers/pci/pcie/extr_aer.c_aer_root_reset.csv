@@ -1,0 +1,14 @@
+PCI_ERR_ROOT_COMMAND,VAR_0
+PCI_ERR_ROOT_STATUS,VAR_1
+PCI_ERS_RESULT_DISCONNECT,VAR_2
+PCI_ERS_RESULT_RECOVERED,VAR_3
+ROOT_PORT_INTR_ON_MESG_MASK,VAR_4
+pci_bus_error_reset,FUNC_0
+pci_info,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+aer_root_reset,FUNC_4
+dev,VAR_5
+reg32,VAR_6
+pos,VAR_7
+rc,VAR_8

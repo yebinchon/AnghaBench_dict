@@ -1,0 +1,16 @@
+AHC_HAS_TERM_LOGIC,VAR_0
+AIC_POWER_STATE_D0,VAR_1
+CSIZE_LATTIME,VAR_2
+DEVCONFIG,VAR_3
+PCIR_COMMAND,VAR_4
+SEECTL,VAR_5
+ahc_acquire_seeprom,FUNC_0
+ahc_release_seeprom,FUNC_1
+ahc_resume,FUNC_2
+aic_pci_write_config,FUNC_3
+aic_power_state_change,FUNC_4
+configure_termination,FUNC_5
+ahc_pci_resume,FUNC_6
+ahc,VAR_6
+sd,VAR_7
+sxfrctl1,VAR_8

@@ -1,0 +1,16 @@
+EIO,VAR_0
+VMC_MSG_OPEN,VAR_1
+be64_to_cpu,FUNC_0
+cpu_to_be16,FUNC_1
+dev_dbg,FUNC_2
+dev_err,FUNC_3
+h_copy_rdma,FUNC_4
+ibmhmc_state_opening,VAR_2
+ibmvmc_send_crq,FUNC_5
+ibmvmc_send_open,FUNC_6
+buffer,VAR_3
+hmc,VAR_4
+crq_msg,VAR_5
+adapter,VAR_6
+crq_as_u64,VAR_7
+rc,VAR_8

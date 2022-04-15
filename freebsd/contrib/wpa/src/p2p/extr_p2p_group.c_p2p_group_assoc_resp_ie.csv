@@ -1,0 +1,14 @@
+P2P_SC_SUCCESS,VAR_0
+VENDOR_ELEM_P2P_ASSOC_RESP,VAR_1
+p2p_buf_add_ie_hdr,FUNC_0
+p2p_buf_add_status,FUNC_1
+p2p_buf_update_ie_hdr,FUNC_2
+wpabuf_alloc,FUNC_3
+wpabuf_len,FUNC_4
+wpabuf_put_buf,FUNC_5
+p2p_group_assoc_resp_ie,FUNC_6
+group,VAR_2
+status,VAR_3
+resp,VAR_4
+rlen,VAR_5
+extra,VAR_6

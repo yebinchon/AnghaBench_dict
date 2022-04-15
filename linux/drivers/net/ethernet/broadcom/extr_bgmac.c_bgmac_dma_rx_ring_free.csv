@@ -1,0 +1,12 @@
+BGMAC_RX_BUF_SIZE,VAR_0
+BGMAC_RX_RING_SLOTS,VAR_1
+DMA_FROM_DEVICE,VAR_2
+dma_unmap_single,FUNC_0
+put_page,FUNC_1
+virt_to_head_page,FUNC_2
+bgmac_dma_rx_ring_free,FUNC_3
+bgmac,VAR_3
+ring,VAR_4
+dma_dev,VAR_5
+slot,VAR_6
+i,VAR_7

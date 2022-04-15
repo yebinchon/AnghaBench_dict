@@ -1,0 +1,16 @@
+MAX9611_MUX_MASK,VAR_0
+MAX9611_REG_CTRL1,VAR_1
+dev_err,FUNC_0
+i2c_smbus_read_word_swapped,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+max9611_mux_conf,VAR_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+usleep_range,FUNC_5
+max9611_read_single,FUNC_6
+max9611,VAR_3
+selector,VAR_4
+raw_val,VAR_5
+ret,VAR_6
+mux_conf,VAR_7
+reg_addr,VAR_8

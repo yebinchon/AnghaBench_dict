@@ -1,0 +1,15 @@
+IPFW_ADD_SOPT_HANDLER,FUNC_0
+M_IPFW,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+VALDATA_START_SIZE,VAR_3
+cmp_table_value,VAR_4
+hash_table_value,VAR_5
+ipfw_objhash_create,FUNC_1
+ipfw_objhash_set_funcs,FUNC_2
+malloc,FUNC_3
+scodes,VAR_6
+ipfw_table_value_init,FUNC_4
+ch,VAR_7
+first,VAR_8
+tcfg,VAR_9

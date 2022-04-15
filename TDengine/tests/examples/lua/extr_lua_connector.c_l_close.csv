@@ -1,0 +1,11 @@
+lua_gettop,FUNC_0
+lua_newtable,FUNC_1
+lua_pushnumber,FUNC_2
+lua_pushstring,FUNC_3
+lua_setfield,FUNC_4
+lua_topointer,FUNC_5
+taos_close,FUNC_6
+l_close,FUNC_7
+L,VAR_0
+taos,VAR_1
+table_index,VAR_2

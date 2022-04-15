@@ -1,0 +1,16 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+RTWN_PCI_RX_LIST_COUNT,VAR_2
+RTWN_PCI_SOFTC,FUNC_0
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_destroy,FUNC_2
+bus_dmamap_sync,FUNC_3
+bus_dmamap_unload,FUNC_4
+bus_dmamem_free,FUNC_5
+m_freem,FUNC_6
+rtwn_pci_free_rx_list,FUNC_7
+sc,VAR_3
+pc,VAR_4
+rx_ring,VAR_5
+rx_data,VAR_6
+i,VAR_7

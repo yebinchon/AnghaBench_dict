@@ -1,0 +1,11 @@
+CPLD_INT_MASK_REG,VAR_0
+CPLD_INT_STATUS_REG,VAR_1
+MXC_EXP_IO_BASE,VAR_2
+__raw_readw,FUNC_0
+generic_handle_irq,FUNC_1
+mx31pdk_expio_irq_handler,FUNC_2
+irq,VAR_3
+desc,VAR_4
+imr_val,VAR_5
+int_valid,VAR_6
+expio_irq,VAR_7

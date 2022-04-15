@@ -1,0 +1,17 @@
+ACTION_SET,FUNC_0
+IP_OFFMASK,VAR_0
+PFRES_FRAG,VAR_1
+PFRES_SHORT,VAR_2
+PF_DROP,VAR_3
+PF_PASS,VAR_4
+REASON_SET,FUNC_1
+ntohs,FUNC_2
+pbuf_copy_data,FUNC_3
+pf_pull_hdr,FUNC_4
+pbuf,VAR_5
+off,VAR_6
+p,VAR_7
+len,VAR_8
+actionp,VAR_9
+reasonp,VAR_10
+af,VAR_11

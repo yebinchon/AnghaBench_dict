@@ -1,0 +1,8 @@
+ACPI_EC_COMMAND_QUERY,VAR_0
+EC_FLAGS_QUERY_PENDING,VAR_1
+acpi_ec_cmd_string,FUNC_0
+acpi_ec_unmask_gpe,FUNC_1
+ec_dbg_evt,FUNC_2
+test_and_clear_bit,FUNC_3
+acpi_ec_complete_query,FUNC_4
+ec,VAR_2

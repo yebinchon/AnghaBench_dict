@@ -1,0 +1,16 @@
+WUSBGENCMDSTS_CHAN_STOP,VAR_0
+WUSBTIME,VAR_1
+WUSBTIME_CHANNEL_TIME_MASK,VAR_2
+asl_stop,FUNC_0
+le_readl,FUNC_1
+msleep,FUNC_2
+pzl_stop,FUNC_3
+whc_do_gencmd,FUNC_4
+wusbhc_to_whc,FUNC_5
+whc_wusbhc_stop,FUNC_6
+wusbhc,VAR_3
+delay,VAR_4
+whc,VAR_5
+stop_time,VAR_6
+now_time,VAR_7
+ret,VAR_8

@@ -1,0 +1,16 @@
+CPUMON_MAKE_FATAL,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+RLIMIT_CPU_USAGE_MONITOR,VAR_3
+errno,VAR_4
+proc_disable_cpumon,FUNC_0
+proc_get_cpumon_params,FUNC_1
+proc_rlimit_control,FUNC_2
+proc_set_cpumon_params,FUNC_3
+proc_set_cpumon_params_fatal,FUNC_4
+pid,VAR_5
+percentage,VAR_6
+interval,VAR_7
+current_percentage,VAR_8
+current_interval,VAR_9
+ret,VAR_10

@@ -1,0 +1,15 @@
+M_NOWAIT,VAR_0
+PI_NET,VAR_1
+QL_DPRINT1,FUNC_0
+TASK_INIT,FUNC_1
+bzero,FUNC_2
+qlnx_fp_taskqueue,VAR_2
+snprintf,FUNC_3
+taskqueue_create,FUNC_4
+taskqueue_start_threads,FUNC_5
+taskqueue_thread_enqueue,VAR_3
+qlnx_create_fp_taskqueues,FUNC_6
+ha,VAR_4
+i,VAR_5
+tq_name,VAR_6
+fp,VAR_7

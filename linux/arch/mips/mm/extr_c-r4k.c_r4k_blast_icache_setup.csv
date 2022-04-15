@@ -1,0 +1,17 @@
+CPU_LOONGSON2,VAR_0
+R4600_V1_INDEX_ICACHEOP_WAR,VAR_1
+TX49XX_ICACHE_INDEX_INV_WAR,VAR_2
+blast_icache128,VAR_3
+blast_icache16,VAR_4
+blast_icache32,VAR_5
+blast_icache64,VAR_6
+blast_r4600_v1_icache32,VAR_7
+cache_noop,VAR_8
+cpu_icache_line_size,FUNC_0
+cpu_is_r4600_v1_x,FUNC_1
+current_cpu_type,FUNC_2
+loongson2_blast_icache32,VAR_9
+r4k_blast_icache,VAR_10
+tx49_blast_icache32,VAR_11
+r4k_blast_icache_setup,FUNC_3
+ic_lsize,VAR_12

@@ -1,0 +1,16 @@
+ETH_P_IP,VAR_0
+NFPROTO_IPV4,VAR_1
+NF_INET_LOCAL_OUT,VAR_2
+dst_output,VAR_3
+htons,FUNC_0
+ip_hdr,FUNC_1
+ip_send_check,FUNC_2
+l3mdev_ip_out,FUNC_3
+nf_hook,FUNC_4
+skb_dst,FUNC_5
+unlikely,FUNC_6
+__ip_local_out,FUNC_7
+net,VAR_4
+sk,VAR_5
+skb,VAR_6
+iph,VAR_7

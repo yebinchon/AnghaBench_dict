@@ -1,0 +1,11 @@
+CMD_PROMISC,VAR_0
+IFF_ALLMULTI,VAR_1
+IFF_PROMISC,VAR_2
+UMAC_CMD,VAR_3
+netdev_priv,FUNC_0
+umac_readl,FUNC_1
+umac_writel,FUNC_2
+bcm_sysport_set_rx_mode,FUNC_3
+dev,VAR_4
+priv,VAR_5
+reg,VAR_6

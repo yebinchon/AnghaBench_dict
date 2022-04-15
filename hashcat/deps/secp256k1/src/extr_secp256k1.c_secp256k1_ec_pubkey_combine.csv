@@ -1,0 +1,16 @@
+ARG_CHECK,FUNC_0
+memset,FUNC_1
+secp256k1_ge_set_gej,FUNC_2
+secp256k1_gej_add_ge,FUNC_3
+secp256k1_gej_is_infinity,FUNC_4
+secp256k1_gej_set_infinity,FUNC_5
+secp256k1_pubkey_load,FUNC_6
+secp256k1_pubkey_save,FUNC_7
+secp256k1_ec_pubkey_combine,FUNC_8
+ctx,VAR_0
+pubnonce,VAR_1
+pubnonces,VAR_2
+n,VAR_3
+i,VAR_4
+Qj,VAR_5
+Q,VAR_6

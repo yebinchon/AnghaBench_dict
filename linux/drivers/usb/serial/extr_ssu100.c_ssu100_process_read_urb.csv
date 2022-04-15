@@ -1,0 +1,15 @@
+TTY_NORMAL,VAR_0
+ssu100_update_lsr,FUNC_0
+ssu100_update_msr,FUNC_1
+tty_flip_buffer_push,FUNC_2
+tty_insert_flip_char,FUNC_3
+tty_insert_flip_string_fixed_flag,FUNC_4
+usb_serial_handle_sysrq_char,FUNC_5
+ssu100_process_read_urb,FUNC_6
+urb,VAR_1
+port,VAR_2
+packet,VAR_3
+flag,VAR_4
+len,VAR_5
+i,VAR_6
+ch,VAR_7

@@ -1,0 +1,12 @@
+CPUSTAT_KSS,VAR_0
+ICTL_ISKE,VAR_1
+ICTL_RRBE,VAR_2
+ICTL_SSKE,VAR_3
+VCPU_EVENT,FUNC_0
+kvm_s390_clear_cpuflags,FUNC_1
+kvm_s390_test_cpuflags,FUNC_2
+s390_enable_skey,FUNC_3
+trace_kvm_s390_skey_related_inst,FUNC_4
+kvm_s390_skey_check_enable,FUNC_5
+vcpu,VAR_4
+rc,VAR_5

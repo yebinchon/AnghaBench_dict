@@ -1,0 +1,16 @@
+CLOCK_MONOTONIC,VAR_0
+MAX,FUNC_0
+SD_EVENT_ONESHOT,VAR_1
+UNIT,FUNC_1
+USEC_PER_SEC,VAR_2
+assert,FUNC_2
+automount_dispatch_expire,VAR_3
+now,FUNC_3
+sd_event_add_time,FUNC_4
+sd_event_source_set_description,FUNC_5
+sd_event_source_set_enabled,FUNC_6
+sd_event_source_set_time,FUNC_7
+automount_start_expire,FUNC_8
+a,VAR_4
+r,VAR_5
+timeout,VAR_6

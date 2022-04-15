@@ -1,0 +1,16 @@
+CLK_CTL_DIV_MASK,VAR_0
+CLK_CTL_SCLKEN,VAR_1
+CTL_SD_CARD_CLK_CTL,VAR_2
+UNIPHIER_SD_CAP_EXTENDED_IP,VAR_3
+UNIPHIER_SD_CLK_CTL_DIV1,VAR_4
+UNIPHIER_SD_CLK_CTL_DIV1024,VAR_5
+readl,FUNC_0
+roundup_pow_of_two,FUNC_1
+uniphier_sd_priv,FUNC_2
+writel,FUNC_3
+uniphier_sd_set_clock,FUNC_4
+host,VAR_6
+clock,VAR_7
+priv,VAR_8
+divisor,VAR_9
+tmp,VAR_10

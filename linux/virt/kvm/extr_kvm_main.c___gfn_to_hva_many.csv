@@ -1,0 +1,10 @@
+KVM_HVA_ERR_BAD,VAR_0
+KVM_HVA_ERR_RO_BAD,VAR_1
+KVM_MEMSLOT_INVALID,VAR_2
+__gfn_to_hva_memslot,FUNC_0
+memslot_is_readonly,FUNC_1
+__gfn_to_hva_many,FUNC_2
+slot,VAR_3
+gfn,VAR_4
+nr_pages,VAR_5
+write,VAR_6

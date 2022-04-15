@@ -1,0 +1,17 @@
+FUZZ_ASSERT,FUNC_0
+LZ4F_VERSION,VAR_0
+LZ4F_createDecompressionContext,FUNC_1
+LZ4F_decompress,FUNC_2
+LZ4F_freeDecompressionContext,FUNC_3
+LZ4F_isError,FUNC_4
+memset,FUNC_5
+FUZZ_decompressFrame,FUNC_6
+dst,VAR_1
+dstCapacity,VAR_2
+src,VAR_3
+srcSize,VAR_4
+opts,VAR_5
+dctx,VAR_6
+dstSize,VAR_7
+srcConsumed,VAR_8
+rc,VAR_9

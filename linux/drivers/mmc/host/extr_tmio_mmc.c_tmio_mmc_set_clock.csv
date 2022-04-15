@@ -1,0 +1,16 @@
+CLK_CTL_DIV_MASK,VAR_0
+CLK_CTL_SCLKEN,VAR_1
+CTL_SD_CARD_CLK_CTL,VAR_2
+roundup_pow_of_two,FUNC_0
+sd_ctrl_read16,FUNC_1
+sd_ctrl_write16,FUNC_2
+stub1,FUNC_3
+tmio_mmc_clk_start,FUNC_4
+tmio_mmc_clk_stop,FUNC_5
+usleep_range,FUNC_6
+tmio_mmc_set_clock,FUNC_7
+host,VAR_3
+new_clock,VAR_4
+divisor,VAR_5
+clk,VAR_6
+clk_sel,VAR_7

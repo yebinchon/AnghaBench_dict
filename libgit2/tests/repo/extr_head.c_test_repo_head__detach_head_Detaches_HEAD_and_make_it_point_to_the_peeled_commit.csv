@@ -1,0 +1,7 @@
+assert_head_is_correctly_detached,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+git_repository_detach_head,FUNC_3
+git_repository_head_detached,FUNC_4
+repo,VAR_0
+test_repo_head__detach_head_Detaches_HEAD_and_make_it_point_to_the_peeled_commit,FUNC_5

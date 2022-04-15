@@ -1,0 +1,13 @@
+NFS_readdirres_sz,VAR_0
+RPC_REPHDRSIZE,VAR_1
+htonl,FUNC_0
+xdr_adjust_iovec,FUNC_1
+xdr_encode_fhandle,FUNC_2
+xdr_inline_pages,FUNC_3
+nfs_xdr_readdirargs,FUNC_4
+req,VAR_2
+p,VAR_3
+args,VAR_4
+auth,VAR_5
+replen,VAR_6
+count,VAR_7

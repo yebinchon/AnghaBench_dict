@@ -1,0 +1,16 @@
+ETHOC_BUFSIZ,VAR_0
+RX_BD_EMPTY,VAR_1
+RX_BD_IRQ,VAR_2
+RX_BD_WRAP,VAR_3
+TX_BD_CRC,VAR_4
+TX_BD_IRQ,VAR_5
+TX_BD_NUM,VAR_6
+TX_BD_WRAP,VAR_7
+ethoc_write,FUNC_0
+ethoc_write_bd,FUNC_1
+ethoc_init_ring,FUNC_2
+dev,VAR_8
+mem_start,VAR_9
+bd,VAR_10
+i,VAR_11
+vma,VAR_12

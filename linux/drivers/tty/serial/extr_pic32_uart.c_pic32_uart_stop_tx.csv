@@ -1,0 +1,13 @@
+PIC32_CLR,FUNC_0
+PIC32_UART_MODE,VAR_0
+PIC32_UART_MODE_ON,VAR_1
+PIC32_UART_STA,VAR_2
+PIC32_UART_STA_UTXEN,VAR_3
+pic32_uart_irqtxen,FUNC_1
+pic32_uart_readl,FUNC_2
+pic32_uart_writel,FUNC_3
+pic32_wait_deplete_txbuf,FUNC_4
+to_pic32_sport,FUNC_5
+pic32_uart_stop_tx,FUNC_6
+port,VAR_4
+sport,VAR_5

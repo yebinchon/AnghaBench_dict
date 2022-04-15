@@ -1,0 +1,15 @@
+DIGCF_DEVICEINTERFACE,VAR_0
+DIGCF_PRESENT,VAR_1
+ERROR_NO_MORE_ITEMS,VAR_2
+INVALID_HANDLE_VALUE,VAR_3
+SetupDiDestroyDeviceInfoList,FUNC_0
+SetupDiEnumDeviceInfo,FUNC_1
+SetupDiGetClassDevsExW,FUNC_2
+ZeroMemory,FUNC_3
+ok,FUNC_4
+ok_lasterr,FUNC_5
+test_SetupDiGetClassDevsExW,FUNC_6
+not_existing_guid,VAR_4
+dev_info,VAR_5
+ret,VAR_6
+info,VAR_7

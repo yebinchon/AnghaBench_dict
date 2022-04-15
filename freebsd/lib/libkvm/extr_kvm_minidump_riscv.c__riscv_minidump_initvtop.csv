@@ -1,0 +1,17 @@
+MINIDUMP_MAGIC,VAR_0
+MINIDUMP_VERSION,VAR_1
+RISCV_PAGE_SIZE,VAR_2
+_kvm_err,FUNC_0
+_kvm_malloc,FUNC_1
+_kvm_pmap_init,FUNC_2
+_kvm_pt_init,FUNC_3
+le32toh,FUNC_4
+le64toh,FUNC_5
+pread,FUNC_6
+riscv_round_page,FUNC_7
+strncmp,FUNC_8
+_riscv_minidump_initvtop,FUNC_9
+kd,VAR_3
+vmst,VAR_4
+off,VAR_5
+sparse_off,VAR_6

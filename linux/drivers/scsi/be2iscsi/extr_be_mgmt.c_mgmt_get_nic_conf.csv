@@ -1,0 +1,9 @@
+CMD_SUBSYSTEM_ISCSI,VAR_0
+OPCODE_COMMON_ISCSI_NTWK_GET_NIC_CONFIG,VAR_1
+beiscsi_exec_nemb_cmd,FUNC_0
+beiscsi_prep_nemb_cmd,FUNC_1
+mgmt_get_nic_conf,FUNC_2
+phba,VAR_2
+nic,VAR_3
+nonemb_cmd,VAR_4
+rc,VAR_5

@@ -1,0 +1,11 @@
+DRV_BR_MULTICAST_SNOOPING,VAR_0
+DRV_BR_NET_PARAM_GARP_ACCEPT,VAR_1
+DRV_BR_PORT_ATTR_HAIRPIN_MODE,VAR_2
+DRV_BR_PORT_ATTR_PROXYARP,VAR_3
+MSG_DEBUG,VAR_4
+hostapd_drv_br_port_set_attr,FUNC_0
+hostapd_drv_br_set_net_param,FUNC_1
+wpa_printf,FUNC_2
+x_snoop_init,FUNC_3
+hapd,VAR_5
+conf,VAR_6

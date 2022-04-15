@@ -1,0 +1,15 @@
+PCI_RID2BUS,FUNC_0
+VTD_RID2IDX,FUNC_1
+ctx_tables,VAR_0
+drhd_num,VAR_1
+vtd_ctx_global_invalidate,FUNC_2
+vtd_iotlb_global_invalidate,FUNC_3
+vtdmaps,VAR_2
+vtd_remove_device,FUNC_4
+arg,VAR_3
+rid,VAR_4
+i,VAR_5
+idx,VAR_6
+ctxp,VAR_7
+vtdmap,VAR_8
+bus,VAR_9

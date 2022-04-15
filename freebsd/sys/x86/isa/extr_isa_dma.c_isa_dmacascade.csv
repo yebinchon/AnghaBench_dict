@@ -1,0 +1,13 @@
+DMA1_MODE,VAR_0
+DMA1_SMSK,VAR_1
+DMA2_MODE,VAR_2
+DMA2_SMSK,VAR_3
+DMA37MD_CASCADE,VAR_4
+VALID_DMA_MASK,VAR_5
+isa_dma_lock,VAR_6
+mtx_lock,FUNC_0
+mtx_unlock,FUNC_1
+outb,FUNC_2
+panic,FUNC_3
+isa_dmacascade,FUNC_4
+chan,VAR_7

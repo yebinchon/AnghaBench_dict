@@ -1,0 +1,16 @@
+CX88_BOARD_NORWOOD_MICRO,VAR_0
+MO_GP0_IO,VAR_1
+MO_GP1_IO,VAR_2
+cx_read,FUNC_0
+ir_dprintk,FUNC_1
+ir_extract_bits,FUNC_2
+rc_keydown,FUNC_3
+rc_keydown_notimeout,FUNC_4
+rc_keyup,FUNC_5
+cx88_ir_handle_key,FUNC_6
+ir,VAR_3
+core,VAR_4
+gpio,VAR_5
+data,VAR_6
+auxgpio,VAR_7
+gpio_key,VAR_8

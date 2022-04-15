@@ -1,0 +1,16 @@
+E_FTP_CLOSE_CMD_AND_DATA,VAR_0
+E_FTP_CLOSE_DATA,VAR_1
+E_FTP_CLOSE_NONE,VAR_2
+SOCKETFIFO_Push,FUNC_0
+ftp_cmd_buffer,VAR_3
+ftp_data,VAR_4
+mem_Free,FUNC_1
+mem_Malloc,FUNC_2
+memcpy,FUNC_3
+snprintf,FUNC_4
+strcat,FUNC_5
+strlen,FUNC_6
+ftp_send_reply,FUNC_7
+status,VAR_5
+message,VAR_6
+fifoelement,VAR_7

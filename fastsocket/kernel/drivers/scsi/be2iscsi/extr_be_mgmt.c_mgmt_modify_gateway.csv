@@ -1,0 +1,13 @@
+BE2_IPV4,VAR_0
+OPCODE_COMMON_ISCSI_NTWK_MODIFY_DEFAULT_GATEWAY,VAR_1
+memcpy,FUNC_0
+mgmt_alloc_cmd_data,FUNC_1
+mgmt_exec_nonemb_cmd,FUNC_2
+mgmt_modify_gateway,FUNC_3
+phba,VAR_2
+gt_addr,VAR_3
+gtway_action,VAR_4
+param_len,VAR_5
+req,VAR_6
+nonemb_cmd,VAR_7
+rt_val,VAR_8

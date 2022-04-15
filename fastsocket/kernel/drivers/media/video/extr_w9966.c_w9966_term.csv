@@ -1,0 +1,12 @@
+IEEE1284_MODE_COMPAT,VAR_0
+W9966_STATE_PDEV,VAR_1
+W9966_STATE_VDEV,VAR_2
+parport_negotiate,FUNC_0
+parport_unregister_device,FUNC_1
+video_unregister_device,FUNC_2
+w9966_getState,FUNC_3
+w9966_pdev_claim,FUNC_4
+w9966_pdev_release,FUNC_5
+w9966_setState,FUNC_6
+w9966_term,FUNC_7
+cam,VAR_3

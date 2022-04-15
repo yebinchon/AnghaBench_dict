@@ -1,0 +1,17 @@
+FILTER_HANDLED,VAR_0
+GIC_INTR_ISRC,FUNC_0
+KASSERT,FUNC_1
+MTK_INTMASK,VAR_1
+MTK_INTSTAT,VAR_2
+READ4,FUNC_2
+curthread,VAR_3
+device_printf,FUNC_3
+fls,FUNC_4
+gic_irq_mask,FUNC_5
+intr_isrc_dispatch,FUNC_6
+mtk_gic_intr,FUNC_7
+arg,VAR_4
+sc,VAR_5
+td,VAR_6
+i,VAR_7
+intr,VAR_8

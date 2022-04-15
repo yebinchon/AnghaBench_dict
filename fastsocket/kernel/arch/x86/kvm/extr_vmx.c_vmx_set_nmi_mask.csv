@@ -1,0 +1,10 @@
+GUEST_INTERRUPTIBILITY_INFO,VAR_0
+GUEST_INTR_STATE_NMI,VAR_1
+cpu_has_virtual_nmis,FUNC_0
+to_vmx,FUNC_1
+vmcs_clear_bits,FUNC_2
+vmcs_set_bits,FUNC_3
+vmx_set_nmi_mask,FUNC_4
+vcpu,VAR_2
+masked,VAR_3
+vmx,VAR_4

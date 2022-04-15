@@ -1,0 +1,11 @@
+REG_UTP_TRANSFER_REQ_DOOR_BELL,VAR_0
+__set_bit,FUNC_0
+ktime_get,FUNC_1
+ktime_set,FUNC_2
+ufshcd_add_command_trace,FUNC_3
+ufshcd_clk_scaling_start_busy,FUNC_4
+ufshcd_writel,FUNC_5
+wmb,FUNC_6
+ufshcd_send_command,FUNC_7
+hba,VAR_1
+task_tag,VAR_2

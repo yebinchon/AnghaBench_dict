@@ -1,0 +1,15 @@
+WARN_ON,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+ttm_bo_reserve,FUNC_3
+ttm_bo_unreserve,FUNC_4
+ttm_read_lock,FUNC_5
+ttm_read_unlock,FUNC_6
+vmw_bo_pin_reserved,FUNC_7
+vmw_resource_reserve,FUNC_8
+vmw_resource_unreserve,FUNC_9
+vmw_resource_unpin,FUNC_10
+res,VAR_0
+dev_priv,VAR_1
+ret,VAR_2
+vbo,VAR_3

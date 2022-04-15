@@ -1,0 +1,14 @@
+BDI_WRITEBACK,VAR_0
+NR_WRITEBACK_TEMP,VAR_1
+bdi_writeout_inc,FUNC_0
+dec_bdi_stat,FUNC_1
+dec_zone_page_state,FUNC_2
+get_fuse_inode,FUNC_3
+list_del,FUNC_4
+wake_up,FUNC_5
+fuse_writepage_finish,FUNC_6
+fc,VAR_2
+req,VAR_3
+inode,VAR_4
+fi,VAR_5
+bdi,VAR_6

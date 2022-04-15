@@ -1,0 +1,17 @@
+MMUCR,VAR_0
+MMUCR_URB,VAR_1
+MMUCR_URB_NENTRIES,VAR_2
+MMUCR_URB_SHIFT,VAR_3
+MMU_ITLB_ADDRESS_ARRAY,VAR_4
+MMU_UTLB_ADDRESS_ARRAY,VAR_5
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+back_to_cached,FUNC_2
+ctrl_barrier,FUNC_3
+jump_to_uncached,FUNC_4
+local_irq_restore,FUNC_5
+local_irq_save,FUNC_6
+local_flush_tlb_all,FUNC_7
+flags,VAR_6
+status,VAR_7
+i,VAR_8

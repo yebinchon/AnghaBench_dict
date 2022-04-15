@@ -1,0 +1,15 @@
+AMOPOPID,VAR_0
+AMOP_ORDER,VAR_1
+CharGetDatum,FUNC_0
+GETSTRUCT,FUNC_1
+HeapTupleIsValid,FUNC_2
+InvalidOid,VAR_2
+ObjectIdGetDatum,FUNC_3
+ReleaseSysCache,FUNC_4
+SearchSysCache3,FUNC_5
+get_op_opfamily_sortfamily,FUNC_6
+opno,VAR_3
+opfamily,VAR_4
+tp,VAR_5
+amop_tup,VAR_6
+result,VAR_7

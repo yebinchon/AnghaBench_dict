@@ -1,0 +1,9 @@
+IRQ_TYPE_EDGE_RISING,VAR_0
+cmx2xx_it8152_irq_demux,VAR_1
+cmx2xx_it8152_irq_gpio,VAR_2
+gpio_to_irq,FUNC_0
+irq_set_chained_handler,FUNC_1
+irq_set_irq_type,FUNC_2
+it8152_init_irq,FUNC_3
+__cmx2xx_pci_init_irq,FUNC_4
+irq_gpio,VAR_3

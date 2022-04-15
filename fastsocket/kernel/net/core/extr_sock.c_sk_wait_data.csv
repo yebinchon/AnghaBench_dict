@@ -1,0 +1,14 @@
+DEFINE_WAIT,FUNC_0
+SOCK_ASYNC_WAITDATA,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+clear_bit,FUNC_1
+finish_wait,FUNC_2
+prepare_to_wait,FUNC_3
+set_bit,FUNC_4
+sk_wait_event,FUNC_5
+skb_queue_empty,FUNC_6
+wait,VAR_2
+sk_wait_data,FUNC_7
+sk,VAR_3
+timeo,VAR_4
+rc,VAR_5

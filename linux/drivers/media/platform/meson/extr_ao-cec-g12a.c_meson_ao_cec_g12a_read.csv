@@ -1,0 +1,16 @@
+CECB_RW_ADDR,VAR_0
+CECB_RW_BUS_BUSY,VAR_1
+CECB_RW_RD_DATA,VAR_2
+CECB_RW_REG,VAR_3
+FIELD_GET,FUNC_0
+FIELD_PREP,FUNC_1
+regmap_read,FUNC_2
+regmap_read_poll_timeout,FUNC_3
+regmap_write,FUNC_4
+meson_ao_cec_g12a_read,FUNC_5
+context,VAR_4
+addr,VAR_5
+data,VAR_6
+ao_cec,VAR_7
+reg,VAR_8
+ret,VAR_9

@@ -1,0 +1,11 @@
+SCA3000_REG_ADDR_CTRL_DATA,VAR_0
+SCA3000_REG_ADDR_CTRL_SEL,VAR_1
+__sca3000_unlock_reg_lock,FUNC_0
+sca3000_read_data,FUNC_1
+sca3000_reg_lock_on,FUNC_2
+sca3000_write_reg,FUNC_3
+sca3000_read_ctrl_reg,FUNC_4
+st,VAR_2
+ctrl_reg,VAR_3
+rx_p,VAR_4
+ret,VAR_5

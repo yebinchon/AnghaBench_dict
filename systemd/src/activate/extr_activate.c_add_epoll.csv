@@ -1,0 +1,10 @@
+EPOLLIN,VAR_0
+EPOLL_CTL_ADD,VAR_1
+assert,FUNC_0
+epoll_ctl,FUNC_1
+errno,VAR_2
+log_error_errno,FUNC_2
+add_epoll,FUNC_3
+epoll_fd,VAR_3
+fd,VAR_4
+ev,VAR_5

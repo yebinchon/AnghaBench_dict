@@ -1,0 +1,16 @@
+BOOTPROG,VAR_0
+DEV_BSIZE,VAR_1
+GPT_HDR_SIG,VAR_2
+MAXTBLENTS,VAR_3
+bcmp,FUNC_0
+bcopy,FUNC_1
+crc32,FUNC_2
+drvread,FUNC_3
+printf,FUNC_4
+secbuf,VAR_4
+gptread_hdr,FUNC_5
+which,VAR_5
+dskp,VAR_6
+hdr,VAR_7
+hdrlba,VAR_8
+crc,VAR_9

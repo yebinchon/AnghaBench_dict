@@ -1,0 +1,16 @@
+console_ops,VAR_0
+cpm_console_init,FUNC_0
+dt_is_compatible,FUNC_1
+mpc5200_psc_console_init,FUNC_2
+mpsc_console_init,FUNC_3
+ns16550_console_init,FUNC_4
+serial_cd,VAR_1
+serial_close,VAR_2
+serial_edit_cmdline,VAR_3
+serial_get_stdout_devp,FUNC_5
+serial_open,VAR_4
+serial_write,VAR_5
+uartlite_console_init,FUNC_6
+serial_console_init,FUNC_7
+devp,VAR_6
+rc,VAR_7

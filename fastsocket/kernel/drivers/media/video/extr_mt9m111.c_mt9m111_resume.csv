@@ -1,0 +1,11 @@
+mt9m111_enable,FUNC_0
+mt9m111_reset,FUNC_1
+mt9m111_restore_state,FUNC_2
+to_i2c_client,FUNC_3
+to_mt9m111,FUNC_4
+to_soc_camera_control,FUNC_5
+mt9m111_resume,FUNC_6
+icd,VAR_0
+client,VAR_1
+mt9m111,VAR_2
+ret,VAR_3

@@ -1,0 +1,14 @@
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+PIPECONF,FUNC_2
+PIPECONF_GAMMA_MODE,FUNC_3
+PIPECONF_GAMMA_MODE_MASK_ILK,VAR_0
+ilk_load_csc_matrix,FUNC_4
+to_i915,FUNC_5
+to_intel_crtc,FUNC_6
+ilk_color_commit,FUNC_7
+crtc_state,VAR_1
+crtc,VAR_2
+dev_priv,VAR_3
+pipe,VAR_4
+val,VAR_5

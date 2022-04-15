@@ -1,0 +1,14 @@
+SIGCHLD,VAR_0
+SIGHUP,VAR_1
+SIGINT,VAR_2
+SIGTERM,VAR_3
+bzero,FUNC_0
+log_err,FUNC_1
+sigaction,FUNC_2
+sigchld_handler,VAR_4
+sigfillset,FUNC_3
+sighup_handler,VAR_5
+sigterm_handler,VAR_6
+register_signals,FUNC_4
+sa,VAR_7
+error,VAR_8

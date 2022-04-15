@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+atomic_add_64,FUNC_1
+fasttrap_lck_grp,VAR_0
+fasttrap_proc_release,FUNC_2
+kmem_free,FUNC_3
+lck_mtx_destroy,FUNC_4
+proc_find,FUNC_5
+proc_lock,FUNC_6
+proc_rele,FUNC_7
+proc_unlock,FUNC_8
+fasttrap_provider_free,FUNC_9
+provider,VAR_1
+pid,VAR_2
+p,VAR_3

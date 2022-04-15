@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+TIPC_NLA_MON,VAR_1
+TIPC_NLA_MON_ACTIVATION_THRESHOLD,VAR_2
+TIPC_NLA_MON_MAX,VAR_3
+nla_get_u32,FUNC_0
+nla_parse_nested_deprecated,FUNC_1
+sock_net,FUNC_2
+tipc_nl_monitor_policy,VAR_4
+tipc_nl_monitor_set_threshold,FUNC_3
+tipc_nl_node_set_monitor,FUNC_4
+skb,VAR_5
+info,VAR_6
+attrs,VAR_7
+net,VAR_8
+err,VAR_9
+val,VAR_10

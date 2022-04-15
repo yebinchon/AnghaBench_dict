@@ -1,0 +1,14 @@
+DVB_SBUF_NUM,VAR_0
+PLAY_SERVICE,VAR_1
+TLG_TUNE_PLAY_SVC_STOP,VAR_2
+log,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+send_set_req,FUNC_3
+usb_kill_urb,FUNC_4
+dvb_stop_streaming,FUNC_5
+pd_dvb,VAR_3
+pd,VAR_4
+i,VAR_5
+ret,VAR_6
+cmd_status,VAR_7

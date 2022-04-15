@@ -1,0 +1,6 @@
+ESP_PARTITION_SUBTYPE_APP_OTA_MIN,VAR_0
+ESP_PARTITION_TYPE_APP,VAR_1
+assert,FUNC_0
+esp_partition_find_first,FUNC_1
+get_ota_partition_count,FUNC_2
+ota_app_count,VAR_2

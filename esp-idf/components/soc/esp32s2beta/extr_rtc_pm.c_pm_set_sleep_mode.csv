@@ -1,0 +1,11 @@
+PM_SW_NOREJECT,VAR_0
+PM_SW_REJECT,VAR_1
+assert,FUNC_0
+pm_check_mac_idle,FUNC_1
+pm_mac_deinit,FUNC_2
+pm_mac_init,FUNC_3
+rtc_sleep_init,FUNC_4
+pm_set_sleep_mode,FUNC_5
+sleep_mode,VAR_2
+pmac_save_params,VAR_3
+cfg,VAR_4

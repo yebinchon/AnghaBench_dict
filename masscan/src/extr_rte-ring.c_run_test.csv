@@ -1,0 +1,12 @@
+RING_F_SC_DEQ,VAR_0
+RING_F_SP_ENQ,VAR_1
+memset,FUNC_0
+pixie_begin_thread,FUNC_1
+pixie_usleep,FUNC_2
+rte_ring_create,FUNC_3
+test_consumer_thread,VAR_2
+test_producer_thread,VAR_3
+run_test,FUNC_4
+test,VAR_4
+i,VAR_5
+THREADS,VAR_6

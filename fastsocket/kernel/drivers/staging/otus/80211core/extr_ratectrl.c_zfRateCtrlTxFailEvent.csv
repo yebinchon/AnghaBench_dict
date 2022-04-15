@@ -1,0 +1,17 @@
+PERThreshold,VAR_0
+ZM_MIN_RATE_FAIL_COUNT,VAR_1
+ZM_RC_TRAINED_BIT,VAR_2
+wd,VAR_3
+zfHpSetAggPktNum,FUNC_0
+zfRateCtrlNextLowerRate,FUNC_1
+zfRateCtrlRateDiff,FUNC_2
+zm_agg_min,FUNC_3
+zmw_declare_for_critical_section,FUNC_4
+zmw_enter_critical_section,FUNC_5
+zmw_get_wlan_dev,FUNC_6
+zmw_leave_critical_section,FUNC_7
+zfRateCtrlTxFailEvent,FUNC_8
+dev,VAR_4
+rcCell,VAR_5
+aggRate,VAR_6
+retryRate,VAR_7

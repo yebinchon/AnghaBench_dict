@@ -1,0 +1,15 @@
+DBG,FUNC_0
+FRAME_READY,VAR_0
+LOG,FUNC_1
+cpia2_unregister_camera,FUNC_2
+cpia2_usb_stream_stop,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+usb_get_intfdata,FUNC_6
+usb_set_intfdata,FUNC_7
+v4l2_device_disconnect,FUNC_8
+v4l2_device_put,FUNC_9
+wake_up_interruptible,FUNC_10
+cpia2_usb_disconnect,FUNC_11
+intf,VAR_1
+cam,VAR_2

@@ -1,0 +1,15 @@
+TASK_COMM_LEN,VAR_0
+TRACE_GRAPH_PROCINFO_LENGTH,VAR_1
+sprintf,FUNC_0
+strlen,FUNC_1
+trace_find_cmdline,FUNC_2
+trace_seq_printf,FUNC_3
+trace_seq_putc,FUNC_4
+print_graph_proc,FUNC_5
+s,VAR_2
+pid,VAR_3
+comm,VAR_4
+pid_str,VAR_5
+spaces,VAR_6
+len,VAR_7
+i,VAR_8

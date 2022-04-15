@@ -1,0 +1,14 @@
+SENTINEL_FAILOVER_STATE_UPDATE_CONFIG,VAR_0
+SRI_MASTER,VAR_1
+dictGetIterator,FUNC_0
+dictGetVal,FUNC_1
+dictNext,FUNC_2
+dictReleaseIterator,FUNC_3
+sentinelFailoverSwitchToPromotedSlave,FUNC_4
+sentinelHandleRedisInstance,FUNC_5
+sentinelHandleDictOfRedisInstances,FUNC_6
+instances,VAR_2
+di,VAR_3
+de,VAR_4
+switch_to_promoted,VAR_5
+ri,VAR_6

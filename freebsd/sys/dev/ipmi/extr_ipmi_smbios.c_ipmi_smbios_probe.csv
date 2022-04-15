@@ -1,0 +1,17 @@
+SMBIOS_LEN,VAR_0
+SMBIOS_OFF,VAR_1
+SMBIOS_SIG,VAR_2
+SMBIOS_START,VAR_3
+SMBIOS_STEP,VAR_4
+bios_sigsearch,FUNC_0
+bzero,FUNC_1
+pmap_mapbios,FUNC_2
+pmap_unmapbios,FUNC_3
+smbios_cksum,FUNC_4
+smbios_ipmi_info,VAR_5
+smbios_walk_table,FUNC_5
+ipmi_smbios_probe,FUNC_6
+info,VAR_6
+header,VAR_7
+table,VAR_8
+addr,VAR_9

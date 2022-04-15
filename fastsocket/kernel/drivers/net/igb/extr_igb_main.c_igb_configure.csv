@@ -1,0 +1,16 @@
+igb_alloc_rx_buffers,FUNC_0
+igb_configure_rx,FUNC_1
+igb_configure_tx,FUNC_2
+igb_desc_unused,FUNC_3
+igb_get_hw_control,FUNC_4
+igb_restore_vlan,FUNC_5
+igb_rx_fifo_flush_82575,FUNC_6
+igb_set_rx_mode,FUNC_7
+igb_setup_mrqc,FUNC_8
+igb_setup_rctl,FUNC_9
+igb_setup_tctl,FUNC_10
+igb_configure,FUNC_11
+adapter,VAR_0
+netdev,VAR_1
+i,VAR_2
+ring,VAR_3

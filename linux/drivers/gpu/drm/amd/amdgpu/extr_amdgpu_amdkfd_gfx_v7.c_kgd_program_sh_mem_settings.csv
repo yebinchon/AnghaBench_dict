@@ -1,0 +1,16 @@
+WREG32,FUNC_0
+get_amdgpu_device,FUNC_1
+lock_srbm,FUNC_2
+mmSH_MEM_APE1_BASE,VAR_0
+mmSH_MEM_APE1_LIMIT,VAR_1
+mmSH_MEM_BASES,VAR_2
+mmSH_MEM_CONFIG,VAR_3
+unlock_srbm,FUNC_3
+kgd_program_sh_mem_settings,FUNC_4
+kgd,VAR_4
+vmid,VAR_5
+sh_mem_config,VAR_6
+sh_mem_ape1_base,VAR_7
+sh_mem_ape1_limit,VAR_8
+sh_mem_bases,VAR_9
+adev,VAR_10

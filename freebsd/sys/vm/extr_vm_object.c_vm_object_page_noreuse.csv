@@ -1,0 +1,17 @@
+KASSERT,FUNC_0
+OBJ_FICTITIOUS,VAR_0
+OBJ_UNMANAGED,VAR_1
+TAILQ_NEXT,FUNC_1
+VM_OBJECT_ASSERT_LOCKED,FUNC_2
+listq,VAR_2
+mtx_unlock,FUNC_3
+vm_page_change_lock,FUNC_4
+vm_page_deactivate_noreuse,FUNC_5
+vm_page_find_least,FUNC_6
+vm_object_page_noreuse,FUNC_7
+object,VAR_3
+start,VAR_4
+end,VAR_5
+mtx,VAR_6
+p,VAR_7
+next,VAR_8

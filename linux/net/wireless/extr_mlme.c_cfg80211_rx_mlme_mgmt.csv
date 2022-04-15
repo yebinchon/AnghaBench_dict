@@ -1,0 +1,15 @@
+ASSERT_WDEV_LOCK,FUNC_0
+WARN_ON,FUNC_1
+cfg80211_process_auth,FUNC_2
+cfg80211_process_deauth,FUNC_3
+cfg80211_process_disassoc,FUNC_4
+ieee80211_is_auth,FUNC_5
+ieee80211_is_deauth,FUNC_6
+ieee80211_is_disassoc,FUNC_7
+trace_cfg80211_rx_mlme_mgmt,FUNC_8
+cfg80211_rx_mlme_mgmt,FUNC_9
+dev,VAR_0
+buf,VAR_1
+len,VAR_2
+wdev,VAR_3
+mgmt,VAR_4

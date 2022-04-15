@@ -1,0 +1,17 @@
+M_FATAL,VAR_0
+TLS_CRYPT_V2_CLIENT_KEY_LEN,VAR_1
+TLS_CRYPT_V2_MAX_WKC_LEN,VAR_2
+alloc_buf,FUNC_0
+buf_read,FUNC_1
+msg,FUNC_2
+read_pem_key_file,FUNC_3
+secure_memzero,FUNC_4
+tls_crypt_v2_cli_pem_name,VAR_3
+tls_crypt_v2_load_client_key,FUNC_5
+tls_crypt_v2_init_client_key,FUNC_6
+key,VAR_4
+wkc_buf,VAR_5
+key_file,VAR_6
+key_inline,VAR_7
+client_key,VAR_8
+key2,VAR_9

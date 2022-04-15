@@ -1,0 +1,10 @@
+S_IFDIR,VAR_0
+S_IFREG,VAR_1
+TEST_ASSERT,FUNC_0
+TEST_ASSERT_EQUAL,FUNC_1
+TEST_ASSERT_FALSE,FUNC_2
+stat,FUNC_3
+test_spiffs_create_file_with_text,FUNC_4
+test_spiffs_stat,FUNC_5
+filename,VAR_2
+st,VAR_3

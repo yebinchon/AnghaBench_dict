@@ -1,0 +1,14 @@
+CCDRBG_STATUS_OK,VAR_0
+assert,FUNC_0
+cc_clear,FUNC_1
+ccdrbg_init,FUNC_2
+erandom,VAR_1
+kalloc,FUNC_3
+master_cpu,VAR_2
+ml_get_timebase,FUNC_4
+panic,FUNC_5
+early_random_cpu_init,FUNC_6
+cpu,VAR_3
+nonce,VAR_4
+rc,VAR_5
+state,VAR_6

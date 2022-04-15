@@ -1,0 +1,17 @@
+ACPI_STATE_D0,VAR_0
+ACPI_STATE_D3,VAR_1
+DEVICE_IDENTIFY,FUNC_0
+DS_NOTPRESENT,VAR_2
+M_TEMP,VAR_3
+acpi_set_powerstate,FUNC_1
+device_get_children,FUNC_2
+device_get_state,FUNC_3
+device_probe_and_attach,FUNC_4
+free,FUNC_5
+acpi_driver_added,FUNC_6
+dev,VAR_4
+driver,VAR_5
+child,VAR_6
+devlist,VAR_7
+i,VAR_8
+numdevs,VAR_9

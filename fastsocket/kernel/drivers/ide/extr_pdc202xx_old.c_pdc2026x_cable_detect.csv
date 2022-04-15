@@ -1,0 +1,9 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+pci_read_config_word,FUNC_0
+to_pci_dev,FUNC_1
+pdc2026x_cable_detect,FUNC_2
+hwif,VAR_2
+dev,VAR_3
+CIS,VAR_4
+mask,VAR_5

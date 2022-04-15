@@ -1,0 +1,12 @@
+EXFAT_SB,FUNC_0
+START_SECTOR,FUNC_1
+exfat_bitmap_set,FUNC_2
+sector_write,FUNC_3
+set_alloc_bitmap,FUNC_4
+sb,VAR_0
+clu,VAR_1
+i,VAR_2
+b,VAR_3
+sector,VAR_4
+p_fs,VAR_5
+p_bd,VAR_6

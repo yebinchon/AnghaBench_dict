@@ -1,0 +1,13 @@
+BPF_PROG_RUN,VAR_0
+BPF_PROG_RUN_ARRAY_CHECK,FUNC_0
+__this_cpu_dec,FUNC_1
+__this_cpu_inc_return,FUNC_2
+bpf_prog_active,VAR_1
+in_nmi,FUNC_3
+preempt_disable,FUNC_4
+preempt_enable,FUNC_5
+unlikely,FUNC_6
+trace_call_bpf,FUNC_7
+call,VAR_2
+ctx,VAR_3
+ret,VAR_4

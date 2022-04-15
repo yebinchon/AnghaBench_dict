@@ -1,0 +1,9 @@
+AF_83XX_MBOX_INTR_ON,VAR_0
+INT_ENABLE_FW_MB,VAR_1
+readl,FUNC_0
+test_and_clear_bit,FUNC_1
+writel,FUNC_2
+qla4_83xx_disable_mbox_intrs,FUNC_3
+ha,VAR_2
+mb_int,VAR_3
+ret,VAR_4

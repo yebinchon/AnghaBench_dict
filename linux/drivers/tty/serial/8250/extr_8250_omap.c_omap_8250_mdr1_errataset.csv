@@ -1,0 +1,16 @@
+UART_FCR,VAR_0
+UART_FCR_CLEAR_RCVR,VAR_1
+UART_FCR_CLEAR_XMIT,VAR_2
+UART_LSR,VAR_3
+UART_LSR_DR,VAR_4
+UART_LSR_THRE,VAR_5
+UART_OMAP_MDR1,VAR_6
+dev_crit,FUNC_0
+serial_in,FUNC_1
+serial_out,FUNC_2
+udelay,FUNC_3
+omap_8250_mdr1_errataset,FUNC_4
+up,VAR_7
+priv,VAR_8
+timeout,VAR_9
+old_mdr1,VAR_10

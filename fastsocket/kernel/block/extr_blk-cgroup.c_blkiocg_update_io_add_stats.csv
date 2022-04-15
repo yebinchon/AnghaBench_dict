@@ -1,0 +1,12 @@
+BLKIO_STAT_QUEUED,VAR_0
+blkio_add_stat,FUNC_0
+blkio_end_empty_time,FUNC_1
+blkio_set_start_group_wait_time,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+blkiocg_update_io_add_stats,FUNC_5
+blkg,VAR_1
+curr_blkg,VAR_2
+direction,VAR_3
+sync,VAR_4
+flags,VAR_5

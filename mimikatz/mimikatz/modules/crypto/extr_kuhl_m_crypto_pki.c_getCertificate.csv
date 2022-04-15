@@ -1,0 +1,17 @@
+CryptSignAndEncodeCertificate,FUNC_0
+FALSE,VAR_0
+LPTR,VAR_1
+LocalAlloc,FUNC_1
+LocalFree,FUNC_2
+PKCS_7_ASN_ENCODING,VAR_2
+PRINT_ERROR_AUTO,FUNC_3
+X509_ASN_ENCODING,VAR_3
+getCertificate,FUNC_4
+hProv,VAR_4
+dwKeySpec,VAR_5
+type,VAR_6
+pvStructInfo,VAR_7
+pSignatureAlgorithm,VAR_8
+Certificate,VAR_9
+cbCertificate,VAR_10
+status,VAR_11

@@ -1,0 +1,16 @@
+INPUT_CONTROL_SET_SEEKPOINT,VAR_0
+INPUT_CONTROL_SET_TITLE,VAR_1
+VLC_EGENERIC,VAR_2
+VLC_SUCCESS,VAR_3
+input_ControlPushHelper,FUNC_0
+input_SetPosition,FUNC_1
+input_SetTime,FUNC_2
+input_priv,FUNC_3
+msg_Dbg,FUNC_4
+var_GetInteger,FUNC_5
+var_SetInteger,FUNC_6
+MainLoopTryRepeat,FUNC_7
+p_input,VAR_4
+i_repeat,VAR_5
+val,VAR_6
+priv,VAR_7

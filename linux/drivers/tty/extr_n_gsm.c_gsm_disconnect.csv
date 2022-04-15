@@ -1,0 +1,14 @@
+CMD_CLD,VAR_0
+DLCI_CLOSED,VAR_1
+EINTR,VAR_2
+current,VAR_3
+del_timer_sync,FUNC_0
+gsm_control_send,FUNC_1
+gsm_control_wait,FUNC_2
+gsm_dlci_begin_close,FUNC_3
+signal_pending,FUNC_4
+wait_event_interruptible,FUNC_5
+gsm_disconnect,FUNC_6
+gsm,VAR_4
+dlci,VAR_5
+gc,VAR_6

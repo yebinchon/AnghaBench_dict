@@ -1,0 +1,17 @@
+CONTROL_PARAM_ASI,VAR_0
+SR_96_000,VAR_1
+VENDOR_CHIPIO_8051_ADDRESS_LOW,VAR_2
+VENDOR_CHIPIO_PLL_PMU_WRITE,VAR_3
+WIDGET_CHIP_CTRL,VAR_4
+ca0113_mmio_command_set,FUNC_0
+chipio_set_conn_rate_no_mutex,FUNC_1
+chipio_set_control_param_no_mutex,FUNC_2
+chipio_set_stream_channels,FUNC_3
+chipio_set_stream_control,FUNC_4
+chipio_set_stream_source_dest,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+snd_hda_codec_write,FUNC_8
+ae5_post_dsp_stream_setup,FUNC_9
+codec,VAR_5
+spec,VAR_6

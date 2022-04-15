@@ -1,0 +1,17 @@
+RPL_LUNDATA_ATYP_MASK,VAR_0
+RPL_LUNDATA_FLAT_LUN_BITS,VAR_1
+RPL_LUNDATA_FLAT_LUN_MASK,VAR_2
+cctl_get_luns,FUNC_0
+fprintf,FUNC_1
+free,FUNC_2
+stdout,VAR_3
+cctl_report_luns,FUNC_3
+fd,VAR_4
+lun,VAR_5
+iid,VAR_6
+retries,VAR_7
+lun_data,VAR_8
+num_luns,VAR_9
+i,VAR_10
+retval,VAR_11
+lun_val,VAR_12

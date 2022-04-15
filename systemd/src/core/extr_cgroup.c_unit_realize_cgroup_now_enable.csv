@@ -1,0 +1,15 @@
+UNIT_DEREF,FUNC_0
+UNIT_ISSET,FUNC_1
+assert,FUNC_2
+unit_create_cgroup,FUNC_3
+unit_get_enable_mask,FUNC_4
+unit_get_target_mask,FUNC_5
+unit_has_mask_enables_realized,FUNC_6
+unit_realize_cgroup_now_enable,FUNC_7
+u,VAR_0
+state,VAR_1
+target_mask,VAR_2
+enable_mask,VAR_3
+new_target_mask,VAR_4
+new_enable_mask,VAR_5
+r,VAR_6

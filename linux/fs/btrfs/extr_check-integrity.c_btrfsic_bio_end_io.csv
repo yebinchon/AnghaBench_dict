@@ -1,0 +1,13 @@
+BTRFSIC_PRINT_MASK_END_IO_BIO_BH,VAR_0
+BUG_ON,FUNC_0
+REQ_FUA,VAR_1
+REQ_PREFLUSH,VAR_2
+btrfsic_get_block_type,FUNC_1
+pr_info,FUNC_2
+stub1,FUNC_3
+btrfsic_bio_end_io,FUNC_4
+bp,VAR_3
+block,VAR_4
+iodone_w_error,VAR_5
+next_block,VAR_6
+dev_state,VAR_7

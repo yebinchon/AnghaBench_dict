@@ -1,0 +1,16 @@
+Assert,FUNC_0
+BufferGetPage,FUNC_1
+BufferIsLocal,FUNC_2
+BufferIsPinned,FUNC_3
+BufferIsValid,FUNC_4
+GetBufferDescriptor,FUNC_5
+LockBufHdr,FUNC_6
+PageGetLSN,FUNC_7
+UnlockBufHdr,FUNC_8
+XLogHintBitIsNeeded,FUNC_9
+BufferGetLSNAtomic,FUNC_10
+buffer,VAR_0
+bufHdr,VAR_1
+page,VAR_2
+lsn,VAR_3
+buf_state,VAR_4

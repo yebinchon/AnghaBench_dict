@@ -1,0 +1,17 @@
+XFRM_QUEUE_TMO_MIN,VAR_0
+__skb_queue_head_init,FUNC_0
+del_timer,FUNC_1
+jiffies,VAR_1
+mod_timer,FUNC_2
+skb_queue_empty,FUNC_3
+skb_queue_splice,FUNC_4
+skb_queue_splice_init,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+xfrm_pol_hold,FUNC_8
+xfrm_pol_put,FUNC_9
+xfrm_policy_requeue,FUNC_10
+old,VAR_2
+new,VAR_3
+pq,VAR_4
+list,VAR_5

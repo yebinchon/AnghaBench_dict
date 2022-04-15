@@ -1,0 +1,9 @@
+MAS5_SGS,VAR_0
+SPRN_MAS5,VAR_1
+get_lpid,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+mtspr,FUNC_3
+kvmppc_e500_tlbil_all,FUNC_4
+vcpu_e500,VAR_2
+flags,VAR_3

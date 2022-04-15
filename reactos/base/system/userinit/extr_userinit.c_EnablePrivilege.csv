@@ -1,0 +1,14 @@
+AdjustTokenPrivileges,FUNC_0
+CloseHandle,FUNC_1
+FALSE,VAR_0
+GetCurrentProcess,FUNC_2
+LookupPrivilegeValueW,FUNC_3
+OpenProcessToken,FUNC_4
+SE_PRIVILEGE_ENABLED,VAR_1
+TOKEN_ADJUST_PRIVILEGES,VAR_2
+EnablePrivilege,FUNC_5
+lpszPrivilegeName,VAR_3
+bEnablePrivilege,VAR_4
+Success,VAR_5
+hToken,VAR_6
+tp,VAR_7

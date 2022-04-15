@@ -1,0 +1,13 @@
+CASTSOURCETARGET,VAR_0
+GETSTRUCT,FUNC_0
+HeapTupleIsValid,FUNC_1
+InvalidOid,VAR_1
+ObjectIdGetDatum,FUNC_2
+ReleaseSysCache,FUNC_3
+SearchSysCache2,FUNC_4
+ts_get_cast_func,FUNC_5
+source,VAR_2
+target,VAR_3
+result,VAR_4
+casttup,VAR_5
+castform,VAR_6

@@ -1,0 +1,14 @@
+FP0_REGNUM,VAR_0
+PIDGET,FUNC_0
+PT_GETFPREGS,VAR_1
+PT_GETREGS,VAR_2
+alphabsd_supply_fpreg,FUNC_1
+alphabsd_supply_reg,FUNC_2
+getregs_supplies,FUNC_3
+inferior_ptid,VAR_3
+perror_with_name,FUNC_4
+ptrace,FUNC_5
+fetch_inferior_registers,FUNC_6
+regno,VAR_4
+gregs,VAR_5
+fpregs,VAR_6

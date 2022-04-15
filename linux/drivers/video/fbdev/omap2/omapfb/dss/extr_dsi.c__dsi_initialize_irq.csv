@@ -1,0 +1,12 @@
+_omap_dsi_set_irqs,FUNC_0
+_omap_dsi_set_irqs_cio,FUNC_1
+_omap_dsi_set_irqs_vc,FUNC_2
+dsi_get_dsidrv_data,FUNC_3
+memset,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+_dsi_initialize_irq,FUNC_7
+dsidev,VAR_0
+dsi,VAR_1
+flags,VAR_2
+vc,VAR_3

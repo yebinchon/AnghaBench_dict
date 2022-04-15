@@ -1,0 +1,11 @@
+ACPI_AML_BUF_SIZE,VAR_0
+ACPI_AML_IN_KERN,VAR_1
+acpi_aml_io,VAR_2
+acpi_aml_lock_read,FUNC_0
+acpi_aml_unlock_fifo,FUNC_1
+smp_mb,FUNC_2
+smp_rmb,FUNC_3
+acpi_aml_readb_kern,FUNC_4
+ret,VAR_3
+crc,VAR_4
+p,VAR_5

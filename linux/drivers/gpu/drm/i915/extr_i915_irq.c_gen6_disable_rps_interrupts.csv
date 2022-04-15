@@ -1,0 +1,17 @@
+GEN6_PMINTRMSK,VAR_0
+GEN6_PM_RPS_EVENTS,VAR_1
+I915_WRITE,FUNC_0
+INTEL_GEN,FUNC_1
+READ_ONCE,FUNC_2
+cancel_work_sync,FUNC_3
+gen11_reset_rps_interrupts,FUNC_4
+gen6_gt_pm_disable_irq,FUNC_5
+gen6_reset_rps_interrupts,FUNC_6
+gen6_sanitize_rps_pm_mask,FUNC_7
+intel_synchronize_irq,FUNC_8
+spin_lock_irq,FUNC_9
+spin_unlock_irq,FUNC_10
+gen6_disable_rps_interrupts,FUNC_11
+dev_priv,VAR_2
+rps,VAR_3
+gt,VAR_4

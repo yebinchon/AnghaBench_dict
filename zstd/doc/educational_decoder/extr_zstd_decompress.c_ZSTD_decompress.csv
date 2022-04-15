@@ -1,0 +1,10 @@
+ZSTD_decompress_with_dict,FUNC_0
+create_dictionary,FUNC_1
+free_dictionary,FUNC_2
+ZSTD_decompress,FUNC_3
+dst,VAR_0
+dst_len,VAR_1
+src,VAR_2
+src_len,VAR_3
+uninit_dict,VAR_4
+decomp_size,VAR_5

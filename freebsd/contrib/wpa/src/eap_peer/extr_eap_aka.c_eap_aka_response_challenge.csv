@@ -1,0 +1,16 @@
+EAP_AKA_SUBTYPE_CHALLENGE,VAR_0
+EAP_CODE_RESPONSE,VAR_1
+EAP_SIM_AT_MAC,VAR_2
+EAP_SIM_AT_RES,VAR_3
+EAP_SIM_AT_RESULT_IND,VAR_4
+MSG_DEBUG,VAR_5
+eap_aka_add_checkcode,FUNC_0
+eap_sim_msg_add,FUNC_1
+eap_sim_msg_add_mac,FUNC_2
+eap_sim_msg_finish,FUNC_3
+eap_sim_msg_init,FUNC_4
+wpa_printf,FUNC_5
+eap_aka_response_challenge,FUNC_6
+data,VAR_6
+id,VAR_7
+msg,VAR_8

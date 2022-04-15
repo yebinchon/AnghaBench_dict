@@ -1,0 +1,13 @@
+BIO_ERROR,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+MFI_LD_IO,VAR_3
+biodone,FUNC_0
+mfi_enqueue_bio,FUNC_1
+mfi_startio,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+mfi_disk_strategy,FUNC_5
+bio,VAR_4
+sc,VAR_5
+controller,VAR_6

@@ -1,0 +1,16 @@
+ALGORITHM_RAID10_NEAR,VAR_0
+EINVAL,VAR_1
+RT_FLAG_RESHAPE_RS,VAR_2
+RT_FLAG_UPDATE_SBS,VAR_3
+__is_raid10_near,FUNC_0
+__raid10_near_copies,FUNC_1
+__reorder_raid_disk_indexes,FUNC_2
+raid10_format_to_md_layout,FUNC_3
+rs_is_raid1,FUNC_4
+rs_is_raid10,FUNC_5
+rs_is_raid456,FUNC_6
+set_bit,FUNC_7
+rs_prepare_reshape,FUNC_8
+rs,VAR_4
+reshape,VAR_5
+mddev,VAR_6

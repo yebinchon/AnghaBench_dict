@@ -1,0 +1,11 @@
+VNET_PORT_TO_NET_DEVICE,FUNC_0
+__netif_tx_lock,FUNC_1
+__netif_tx_unlock,FUNC_2
+likely,FUNC_3
+netdev_get_tx_queue,FUNC_4
+netif_tx_queue_stopped,FUNC_5
+netif_tx_wake_queue,FUNC_6
+smp_processor_id,FUNC_7
+maybe_tx_wakeup,FUNC_8
+port,VAR_0
+txq,VAR_1

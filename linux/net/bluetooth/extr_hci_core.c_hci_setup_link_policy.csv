@@ -1,0 +1,16 @@
+HCI_LP_HOLD,VAR_0
+HCI_LP_PARK,VAR_1
+HCI_LP_RSWITCH,VAR_2
+HCI_LP_SNIFF,VAR_3
+HCI_OP_WRITE_DEF_LINK_POLICY,VAR_4
+cpu_to_le16,FUNC_0
+hci_req_add,FUNC_1
+lmp_hold_capable,FUNC_2
+lmp_park_capable,FUNC_3
+lmp_rswitch_capable,FUNC_4
+lmp_sniff_capable,FUNC_5
+hci_setup_link_policy,FUNC_6
+req,VAR_5
+hdev,VAR_6
+cp,VAR_7
+link_policy,VAR_8

@@ -1,0 +1,15 @@
+AMD_CG_STATE_GATE,VAR_0
+AMD_CG_STATE_UNGATE,VAR_1
+AMD_IP_BLOCK_TYPE_VCE,VAR_2
+AMD_PG_STATE_GATE,VAR_3
+AMD_PG_STATE_UNGATE,VAR_4
+amdgpu_device_ip_set_clockgating_state,FUNC_0
+amdgpu_device_ip_set_powergating_state,FUNC_1
+smu8_dpm_powerdown_vce,FUNC_2
+smu8_dpm_powerup_vce,FUNC_3
+smu8_dpm_update_vce_dpm,FUNC_4
+smu8_enable_disable_vce_dpm,FUNC_5
+smu8_dpm_powergate_vce,FUNC_6
+hwmgr,VAR_5
+bgate,VAR_6
+data,VAR_7

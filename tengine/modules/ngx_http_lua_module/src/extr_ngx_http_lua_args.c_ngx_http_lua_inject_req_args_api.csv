@@ -1,0 +1,7 @@
+lua_pushcfunction,FUNC_0
+lua_setfield,FUNC_1
+ngx_http_lua_ngx_req_get_post_args,VAR_0
+ngx_http_lua_ngx_req_get_uri_args,VAR_1
+ngx_http_lua_ngx_req_set_uri_args,VAR_2
+ngx_http_lua_inject_req_args_api,FUNC_2
+L,VAR_3

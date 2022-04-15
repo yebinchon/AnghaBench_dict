@@ -1,0 +1,16 @@
+PSL_EE,VAR_0
+SCOMC_WRITE,VAR_1
+SPR_SCOMC,VAR_2
+SPR_SCOMD,VAR_3
+isync,FUNC_0
+mfmsr,FUNC_1
+mtmsr,FUNC_2
+mtspr,FUNC_3
+mtspr64,FUNC_4
+write_scom,FUNC_5
+address,VAR_4
+value,VAR_5
+msr,VAR_6
+hi,VAR_7
+lo,VAR_8
+scratch,VAR_9

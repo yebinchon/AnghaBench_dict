@@ -1,0 +1,12 @@
+PRCI_CLKMUXSTATUSREG_OFFSET,VAR_0
+PRCI_CLKMUXSTATUSREG_TLCLKSEL_STATUS_MASK,VAR_1
+__prci_readl,FUNC_0
+clk_hw_to_prci_clock,FUNC_1
+div_u64,FUNC_2
+sifive_fu540_prci_tlclksel_recalc_rate,FUNC_3
+hw,VAR_2
+parent_rate,VAR_3
+pc,VAR_4
+pd,VAR_5
+v,VAR_6
+div,VAR_7

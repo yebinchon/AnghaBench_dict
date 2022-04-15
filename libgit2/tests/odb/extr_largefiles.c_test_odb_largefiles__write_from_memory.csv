@@ -1,0 +1,15 @@
+GIT_BUF_INIT,VAR_0
+GIT_OBJECT_BLOB,VAR_1
+cl_assert_equal_oid,FUNC_0
+cl_git_pass,FUNC_1
+cl_is_env_set,FUNC_2
+cl_skip,FUNC_3
+git_buf_puts,FUNC_4
+git_odb_write,FUNC_5
+git_oid_fromstr,FUNC_6
+odb,VAR_2
+test_odb_largefiles__write_from_memory,FUNC_7
+expected,VAR_3
+oid,VAR_4
+buf,VAR_5
+i,VAR_6

@@ -1,0 +1,10 @@
+AC97_PCM_FRONT_DAC_RATE,VAR_0
+AC97_SPDIF,VAR_1
+snd_ac97_set_rate,FUNC_0
+snd_pcm_substream_chip,FUNC_1
+via686_setup_format,FUNC_2
+snd_via686_playback_prepare,FUNC_3
+substream,VAR_2
+chip,VAR_3
+viadev,VAR_4
+runtime,VAR_5

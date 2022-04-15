@@ -1,0 +1,14 @@
+LPFC_MBOX_SLI4_CONFIG_EXTENDED_TMO,VAR_0
+LPFC_MBOX_SLI4_CONFIG_TMO,VAR_1
+LPFC_MBOX_SUBSYSTEM_COMMON,VAR_2
+LPFC_MBOX_SUBSYSTEM_FCOE,VAR_3
+LPFC_MBOX_TMO,VAR_4
+LPFC_MBOX_TMO_FLASH_CMD,VAR_5
+lpfc_sli_config_mbox_opcode_get,FUNC_0
+lpfc_sli_config_mbox_subsys_get,FUNC_1
+lpfc_mbox_tmo_val,FUNC_2
+phba,VAR_6
+mboxq,VAR_7
+mbox,VAR_8
+subsys,VAR_9
+opcode,VAR_10

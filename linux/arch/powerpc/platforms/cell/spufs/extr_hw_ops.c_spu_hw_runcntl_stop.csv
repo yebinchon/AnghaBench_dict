@@ -1,0 +1,9 @@
+SPU_RUNCNTL_STOP,VAR_0
+SPU_STATUS_RUNNING,VAR_1
+cpu_relax,FUNC_0
+in_be32,FUNC_1
+out_be32,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+spu_hw_runcntl_stop,FUNC_5
+ctx,VAR_2

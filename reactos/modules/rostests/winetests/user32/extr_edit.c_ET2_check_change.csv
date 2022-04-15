@@ -1,0 +1,10 @@
+EM_SETSEL,VAR_0
+GetWindowTextA,FUNC_0
+MAXLEN,VAR_1
+SendMessageA,FUNC_1
+WM_SETTEXT,VAR_2
+hwndET2,VAR_3
+strcmp,FUNC_2
+strcpy,FUNC_3
+ET2_check_change,FUNC_4
+szLocalString,VAR_4

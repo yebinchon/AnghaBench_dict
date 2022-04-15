@@ -1,0 +1,17 @@
+SNDRV_PCM_FMTBIT_S16_LE,VAR_0
+SNDRV_PCM_FMTBIT_S24_3LE,VAR_1
+SNDRV_PCM_FMTBIT_S32_BE,VAR_2
+SNDRV_PCM_FMTBIT_S32_LE,VAR_3
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_4
+SNDRV_PCM_HW_PARAM_FORMAT,VAR_5
+hw_param_interval,FUNC_0
+hw_param_mask,FUNC_1
+snd_mask_any,FUNC_2
+snd_mask_refine,FUNC_3
+hw_rule_playback_format_by_channels,FUNC_4
+params,VAR_6
+rule,VAR_7
+c,VAR_8
+f,VAR_9
+fmt,VAR_10
+fmask,VAR_11

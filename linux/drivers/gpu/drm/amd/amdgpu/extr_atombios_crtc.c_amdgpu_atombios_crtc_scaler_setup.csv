@@ -1,0 +1,16 @@
+ATOM_SCALER_CENTER,VAR_0
+ATOM_SCALER_DISABLE,VAR_1
+ATOM_SCALER_EXPANSION,VAR_2
+COMMAND,VAR_3
+EnableScaler,VAR_4
+GetIndexIntoMasterTable,FUNC_0
+amdgpu_atom_execute_table,FUNC_1
+memset,FUNC_2
+to_amdgpu_crtc,FUNC_3
+amdgpu_atombios_crtc_scaler_setup,FUNC_4
+crtc,VAR_5
+dev,VAR_6
+adev,VAR_7
+amdgpu_crtc,VAR_8
+args,VAR_9
+index,VAR_10

@@ -1,0 +1,15 @@
+GROUP_IDENTIFIER_LENGTH,VAR_0
+INVITE_ID,VAR_1
+INVITE_PACKET_SIZE,VAR_2
+get_group_c,FUNC_0
+htons,FUNC_1
+memcpy,FUNC_2
+send_group_invite_packet,FUNC_3
+wipe_group_chat,FUNC_4
+invite_friend,FUNC_5
+g_c,VAR_3
+friendnumber,VAR_4
+groupnumber,VAR_5
+g,VAR_6
+invite,VAR_7
+groupchat_num,VAR_8

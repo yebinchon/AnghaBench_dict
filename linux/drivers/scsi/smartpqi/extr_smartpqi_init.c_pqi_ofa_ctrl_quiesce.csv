@@ -1,0 +1,16 @@
+PQI_PENDING_IO_TIMEOUT_SECS,VAR_0
+SIS_MODE,VAR_1
+pqi_cancel_rescan_worker,FUNC_0
+pqi_cancel_update_time_worker,FUNC_1
+pqi_ctrl_block_requests,FUNC_2
+pqi_ctrl_ofa_start,FUNC_3
+pqi_ctrl_wait_for_pending_io,FUNC_4
+pqi_ctrl_wait_until_quiesced,FUNC_5
+pqi_fail_io_queued_for_all_devices,FUNC_6
+pqi_save_ctrl_mode,FUNC_7
+pqi_stop_heartbeat_timer,FUNC_8
+pqi_wait_until_inbound_queues_empty,FUNC_9
+pqi_wait_until_lun_reset_finished,FUNC_10
+pqi_wait_until_scan_finished,FUNC_11
+pqi_ofa_ctrl_quiesce,FUNC_12
+ctrl_info,VAR_2

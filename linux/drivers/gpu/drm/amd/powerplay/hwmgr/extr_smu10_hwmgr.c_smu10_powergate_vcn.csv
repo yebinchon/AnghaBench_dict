@@ -1,0 +1,11 @@
+AMD_IP_BLOCK_TYPE_VCN,VAR_0
+AMD_PG_STATE_GATE,VAR_1
+AMD_PG_STATE_UNGATE,VAR_2
+PPSMC_MSG_PowerDownVcn,VAR_3
+PPSMC_MSG_PowerUpVcn,VAR_4
+amdgpu_device_ip_set_powergating_state,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+smu10_powergate_vcn,FUNC_2
+hwmgr,VAR_5
+bgate,VAR_6
+smu10_data,VAR_7

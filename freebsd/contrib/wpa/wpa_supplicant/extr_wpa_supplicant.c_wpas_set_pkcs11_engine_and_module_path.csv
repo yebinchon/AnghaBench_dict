@@ -1,0 +1,11 @@
+eapol_sm_deinit,FUNC_0
+os_free,FUNC_1
+os_strdup,FUNC_2
+wpa_sm_set_eapol,FUNC_3
+wpa_supplicant_init_eapol,FUNC_4
+wpas_set_pkcs11_engine_and_module_path,FUNC_5
+wpa_s,VAR_0
+pkcs11_engine_path,VAR_1
+pkcs11_module_path,VAR_2
+pkcs11_engine_path_copy,VAR_3
+pkcs11_module_path_copy,VAR_4

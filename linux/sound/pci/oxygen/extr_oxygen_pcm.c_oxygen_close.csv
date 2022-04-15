@@ -1,0 +1,16 @@
+CONTROL_SPDIF_PCM,VAR_0
+PCM_MULTICH,VAR_1
+PCM_SPDIF,VAR_2
+SNDRV_CTL_ELEM_ACCESS_INACTIVE,VAR_3
+SNDRV_CTL_EVENT_MASK_INFO,VAR_4
+SNDRV_CTL_EVENT_MASK_VALUE,VAR_5
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+oxygen_substream_channel,FUNC_2
+oxygen_update_spdif_source,FUNC_3
+snd_ctl_notify,FUNC_4
+snd_pcm_substream_chip,FUNC_5
+oxygen_close,FUNC_6
+substream,VAR_6
+chip,VAR_7
+channel,VAR_8

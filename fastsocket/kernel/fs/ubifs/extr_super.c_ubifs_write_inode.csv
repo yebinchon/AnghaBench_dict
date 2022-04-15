@@ -1,0 +1,16 @@
+dbg_check_inode_size,FUNC_0
+dbg_gen,FUNC_1
+is_bad_inode,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+ubifs_assert,FUNC_5
+ubifs_err,FUNC_6
+ubifs_inode,FUNC_7
+ubifs_jnl_write_inode,FUNC_8
+ubifs_release_dirty_inode_budget,FUNC_9
+ubifs_write_inode,FUNC_10
+inode,VAR_0
+wbc,VAR_1
+err,VAR_2
+c,VAR_3
+ui,VAR_4

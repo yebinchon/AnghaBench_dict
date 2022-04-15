@@ -1,0 +1,14 @@
+LSFL_RECOVERY_STOP,VAR_0
+LSFL_RUNNING,VAR_1
+dlm_recoverd_resume,FUNC_0
+dlm_recoverd_suspend,FUNC_1
+down_write,FUNC_2
+jiffies,VAR_2
+set_bit,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+test_and_clear_bit,FUNC_6
+up_write,FUNC_7
+dlm_ls_stop,FUNC_8
+ls,VAR_3
+new,VAR_4

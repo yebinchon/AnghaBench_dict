@@ -1,0 +1,11 @@
+ZFCP_STATUS_ADAPTER_LINK_UNPLUGGED,VAR_0
+ZFCP_STATUS_ADAPTER_XCONFIG_OK,VAR_1
+ZFCP_STATUS_COMMON_OPEN,VAR_2
+atomic_andnot,FUNC_0
+zfcp_erp_clear_adapter_status,FUNC_1
+zfcp_fc_wka_ports_force_offline,FUNC_2
+zfcp_fsf_req_dismiss_all,FUNC_3
+zfcp_qdio_close,FUNC_4
+zfcp_erp_adapter_strategy_close,FUNC_5
+act,VAR_3
+adapter,VAR_4

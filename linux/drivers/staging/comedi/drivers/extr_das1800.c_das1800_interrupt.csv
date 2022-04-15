@@ -1,0 +1,16 @@
+CLEAR_INTR_MASK,VAR_0
+DAS1800_STATUS,VAR_1
+INT,VAR_2
+IRQ_HANDLED,VAR_3
+IRQ_NONE,VAR_4
+das1800_ai_handler,FUNC_0
+dev_err,FUNC_1
+inb,FUNC_2
+outb,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+das1800_interrupt,FUNC_6
+irq,VAR_5
+d,VAR_6
+dev,VAR_7
+status,VAR_8

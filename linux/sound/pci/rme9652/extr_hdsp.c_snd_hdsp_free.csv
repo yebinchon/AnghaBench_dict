@@ -1,0 +1,16 @@
+HDSP_AudioInterruptEnable,VAR_0
+HDSP_Midi0InterruptEnable,VAR_1
+HDSP_Midi1InterruptEnable,VAR_2
+HDSP_Start,VAR_3
+HDSP_controlRegister,VAR_4
+free_irq,FUNC_0
+hdsp_write,FUNC_1
+iounmap,FUNC_2
+pci_disable_device,FUNC_3
+pci_release_regions,FUNC_4
+release_firmware,FUNC_5
+snd_hdsp_free_buffers,FUNC_6
+tasklet_kill,FUNC_7
+vfree,FUNC_8
+snd_hdsp_free,FUNC_9
+hdsp,VAR_5

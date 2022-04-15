@@ -1,0 +1,12 @@
+BNX2X_FILTER_ISCSI_ETH_START_SCHED,VAR_0
+BNX2X_FILTER_ISCSI_ETH_STOP_SCHED,VAR_1
+BNX2X_FILTER_RX_MODE_PENDING,VAR_2
+BNX2X_FILTER_RX_MODE_SCHED,VAR_3
+bnx2x_set_iscsi_eth_rx_mode,FUNC_0
+bnx2x_set_storm_rx_mode,FUNC_1
+clear_bit,FUNC_2
+netif_addr_lock_bh,FUNC_3
+netif_addr_unlock_bh,FUNC_4
+test_and_clear_bit,FUNC_5
+bnx2x_handle_rx_mode_eqe,FUNC_6
+bp,VAR_4

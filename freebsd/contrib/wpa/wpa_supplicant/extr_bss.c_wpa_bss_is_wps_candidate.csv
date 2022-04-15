@@ -1,0 +1,12 @@
+WPA_KEY_MGMT_WPS,VAR_0
+WPS_IE_VENDOR_TYPE,VAR_1
+eap_is_wps_pbc_enrollee,FUNC_0
+eap_is_wps_pin_enrollee,FUNC_1
+os_memcmp,FUNC_2
+wpa_bss_get_vendor_ie_multi,FUNC_3
+wpabuf_free,FUNC_4
+wps_is_addr_authorized,FUNC_5
+wps_is_selected_pbc_registrar,FUNC_6
+wpa_bss_is_wps_candidate,FUNC_7
+wpa_s,VAR_2
+bss,VAR_3

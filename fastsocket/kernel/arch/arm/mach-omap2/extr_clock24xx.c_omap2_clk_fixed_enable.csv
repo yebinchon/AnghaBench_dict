@@ -1,0 +1,16 @@
+CM_CLKEN,VAR_0
+CM_IDLEST,VAR_1
+EN_APLL_LOCKED,VAR_2
+OMAP24XX_ST_54M_APLL,VAR_3
+OMAP24XX_ST_96M_APLL,VAR_4
+OMAP_CM_REGADDR,FUNC_0
+PLL_MOD,VAR_5
+apll54_ck,VAR_6
+apll96_ck,VAR_7
+cm_read_mod_reg,FUNC_1
+cm_write_mod_reg,FUNC_2
+omap2_cm_wait_idlest,FUNC_3
+omap2_clk_fixed_enable,FUNC_4
+clk,VAR_8
+cval,VAR_9
+apll_mask,VAR_10

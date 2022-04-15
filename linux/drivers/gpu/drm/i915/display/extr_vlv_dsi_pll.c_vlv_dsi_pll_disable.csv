@@ -1,0 +1,13 @@
+CCK_REG_DSI_PLL_CONTROL,VAR_0
+DRM_DEBUG_KMS,FUNC_0
+DSI_PLL_LDO_GATE,VAR_1
+DSI_PLL_VCO_EN,VAR_2
+to_i915,FUNC_1
+vlv_cck_get,FUNC_2
+vlv_cck_put,FUNC_3
+vlv_cck_read,FUNC_4
+vlv_cck_write,FUNC_5
+vlv_dsi_pll_disable,FUNC_6
+encoder,VAR_3
+dev_priv,VAR_4
+tmp,VAR_5

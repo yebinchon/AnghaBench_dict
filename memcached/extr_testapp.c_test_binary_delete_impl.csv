@@ -1,0 +1,17 @@
+PROTOCOL_BINARY_CMD_ADD,VAR_0
+PROTOCOL_BINARY_CMD_DELETE,VAR_1
+PROTOCOL_BINARY_RESPONSE_KEY_ENOENT,VAR_2
+PROTOCOL_BINARY_RESPONSE_SUCCESS,VAR_3
+TEST_PASS,VAR_4
+raw_command,FUNC_0
+safe_recv_packet,FUNC_1
+safe_send,FUNC_2
+storage_command,FUNC_3
+strlen,FUNC_4
+validate_response_header,FUNC_5
+test_binary_delete_impl,FUNC_6
+key,VAR_5
+cmd,VAR_6
+send,VAR_7
+receive,VAR_8
+len,VAR_9

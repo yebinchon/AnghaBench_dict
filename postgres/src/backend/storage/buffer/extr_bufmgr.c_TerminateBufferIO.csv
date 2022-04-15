@@ -1,0 +1,16 @@
+Assert,FUNC_0
+BM_CHECKPOINT_NEEDED,VAR_0
+BM_DIRTY,VAR_1
+BM_IO_ERROR,VAR_2
+BM_IO_IN_PROGRESS,VAR_3
+BM_JUST_DIRTIED,VAR_4
+BufferDescriptorGetIOLock,FUNC_1
+InProgressBuf,VAR_5
+LWLockRelease,FUNC_2
+LockBufHdr,FUNC_3
+UnlockBufHdr,FUNC_4
+TerminateBufferIO,FUNC_5
+buf,VAR_6
+clear_dirty,VAR_7
+set_flag_bits,VAR_8
+buf_state,VAR_9

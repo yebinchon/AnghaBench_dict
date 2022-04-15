@@ -1,0 +1,11 @@
+_gb_gpio_irq_mask,FUNC_0
+_gb_gpio_irq_set_type,FUNC_1
+_gb_gpio_irq_unmask,FUNC_2
+gpio_chip_to_gb_gpio_controller,FUNC_3
+irq_data_to_gpio_chip,FUNC_4
+mutex_unlock,FUNC_5
+gb_gpio_irq_bus_sync_unlock,FUNC_6
+d,VAR_0
+chip,VAR_1
+ggc,VAR_2
+line,VAR_3

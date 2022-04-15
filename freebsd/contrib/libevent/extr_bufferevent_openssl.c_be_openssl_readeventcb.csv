@@ -1,0 +1,12 @@
+BEV_EVENT_READING,VAR_0
+BEV_EVENT_TIMEOUT,VAR_1
+EV_TIMEOUT,VAR_2
+bufferevent_decref_and_unlock_,FUNC_0
+bufferevent_incref_and_lock_,FUNC_1
+bufferevent_run_eventcb_,FUNC_2
+consider_reading,FUNC_3
+be_openssl_readeventcb,FUNC_4
+fd,VAR_3
+what,VAR_4
+ptr,VAR_5
+bev_ssl,VAR_6

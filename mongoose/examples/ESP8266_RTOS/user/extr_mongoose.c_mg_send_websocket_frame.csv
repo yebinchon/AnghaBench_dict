@@ -1,0 +1,12 @@
+DBG,FUNC_0
+MG_F_SEND_AND_CLOSE,VAR_0
+WEBSOCKET_OP_CLOSE,VAR_1
+mg_send,FUNC_1
+mg_send_ws_header,FUNC_2
+mg_ws_mask_frame,FUNC_3
+mg_send_websocket_frame,FUNC_4
+nc,VAR_2
+op,VAR_3
+data,VAR_4
+len,VAR_5
+ctx,VAR_6

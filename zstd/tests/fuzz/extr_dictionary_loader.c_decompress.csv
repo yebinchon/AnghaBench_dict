@@ -1,0 +1,16 @@
+FUZZ_ZASSERT,FUNC_0
+ZSTD_DCtx_loadDictionary_advanced,FUNC_1
+ZSTD_createDCtx,FUNC_2
+ZSTD_decompressDCtx,FUNC_3
+ZSTD_freeDCtx,FUNC_4
+decompress,FUNC_5
+result,VAR_0
+resultCapacity,VAR_1
+compressed,VAR_2
+compressedSize,VAR_3
+dict,VAR_4
+dictSize,VAR_5
+dictLoadMethod,VAR_6
+dictContentType,VAR_7
+dctx,VAR_8
+resultSize,VAR_9

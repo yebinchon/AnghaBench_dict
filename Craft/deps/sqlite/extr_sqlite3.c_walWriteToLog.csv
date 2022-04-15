@@ -1,0 +1,12 @@
+SQLITE_SYNC_FULL,VAR_0
+SQLITE_SYNC_NORMAL,VAR_1
+assert,FUNC_0
+sqlite3OsSync,FUNC_1
+sqlite3OsWrite,FUNC_2
+walWriteToLog,FUNC_3
+p,VAR_2
+pContent,VAR_3
+iAmt,VAR_4
+iOffset,VAR_5
+rc,VAR_6
+iFirstAmt,VAR_7

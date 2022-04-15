@@ -1,0 +1,16 @@
+BOOT_MAGIC,VAR_0
+EINVAL,VAR_1
+FSRO_MAGIC,VAR_2
+FSRW_MAGIC,VAR_3
+be32_to_cpu,FUNC_0
+cpu_to_le32,FUNC_1
+le32_to_cpu,FUNC_2
+pr_err,FUNC_3
+sharpsl_nand_read_laddr,FUNC_4
+sharpsl_nand_read_partinfo,FUNC_5
+master,VAR_4
+from,VAR_5
+len,VAR_6
+buf,VAR_7
+ftl,VAR_8
+ret,VAR_9

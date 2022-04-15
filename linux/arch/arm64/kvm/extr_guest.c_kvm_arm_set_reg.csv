@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+KVM_REG_ARM64,VAR_1
+KVM_REG_ARM_COPROC_MASK,VAR_2
+KVM_REG_SIZE_MASK,VAR_3
+is_timer_reg,FUNC_0
+kvm_arm_set_fw_reg,FUNC_1
+kvm_arm_sys_reg_set_reg,FUNC_2
+set_core_reg,FUNC_3
+set_sve_reg,FUNC_4
+set_timer_reg,FUNC_5
+kvm_arm_set_reg,FUNC_6
+vcpu,VAR_4
+reg,VAR_5

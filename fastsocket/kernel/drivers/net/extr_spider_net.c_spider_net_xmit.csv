@@ -1,0 +1,13 @@
+NETDEV_TX_BUSY,VAR_0
+NETDEV_TX_OK,VAR_1
+netdev_priv,FUNC_0
+netif_stop_queue,FUNC_1
+spider_net_kick_tx_dma,FUNC_2
+spider_net_prepare_tx_descr,FUNC_3
+spider_net_release_tx_chain,FUNC_4
+spider_net_set_low_watermark,FUNC_5
+spider_net_xmit,FUNC_6
+skb,VAR_2
+netdev,VAR_3
+cnt,VAR_4
+card,VAR_5

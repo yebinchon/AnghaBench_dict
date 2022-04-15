@@ -1,0 +1,15 @@
+CCGR_CLK_MODE_ALWAYS,VAR_0
+CCGR_USB_PHY_CLK,VAR_1
+CCMC_CSCMR1,VAR_2
+CSCMR1_USBPHY_CLK_SEL_SHIFT,VAR_3
+IMXSOC_51,VAR_4
+IMXSOC_53,VAR_5
+__CCGR_NUM,FUNC_0
+ccm_read_4,FUNC_1
+ccm_softc,VAR_6
+ccm_write_4,FUNC_2
+imx51_clk_gating,FUNC_3
+imx_soc_type,FUNC_4
+imx_ccm_usbphy_enable,FUNC_5
+dev,VAR_7
+regval,VAR_8

@@ -1,0 +1,11 @@
+likely,FUNC_0
+netdev_get_tx_queue,FUNC_1
+netfront_tx_slot_available,FUNC_2
+netif_running,FUNC_3
+netif_tx_queue_stopped,FUNC_4
+netif_tx_wake_queue,FUNC_5
+unlikely,FUNC_6
+xennet_maybe_wake_tx,FUNC_7
+queue,VAR_0
+dev,VAR_1
+dev_queue,VAR_2

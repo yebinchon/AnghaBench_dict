@@ -1,0 +1,13 @@
+LED_FULL,VAR_0
+LED_OFF,VAR_1
+SCI_KBD_MODE_AUTO,VAR_2
+SCI_KBD_MODE_ON,VAR_3
+acpi_bus_generate_netlink_event,FUNC_0
+dev_name,FUNC_1
+led_classdev_notify_brightness_hw_changed,FUNC_2
+pr_err,FUNC_3
+sysfs_update_group,FUNC_4
+toshiba_acpi,VAR_4
+toshiba_attr_group,VAR_5
+toshiba_acpi_kbd_bl_work,FUNC_5
+work,VAR_6

@@ -1,0 +1,17 @@
+AF_INET,VAR_0
+AF_INET6,VAR_1
+TCPCACHE_F_ECN,VAR_2
+TCPCACHE_F_ECN_DROPRST,VAR_3
+TCPCACHE_F_ECN_DROPRXMT,VAR_4
+TCPCACHE_F_ECN_SYNRST,VAR_5
+calculate_tcp_clock,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+tcp_heuristic_ecn_aggressive_common,FUNC_3
+tcp_heuristic_inc_counters,FUNC_4
+tcp_heuristic_reset_counters,FUNC_5
+tcp_heuristics_ecn_update,FUNC_6
+necp_buffer,VAR_6
+ifp,VAR_7
+local_address,VAR_8
+tcks,VAR_9

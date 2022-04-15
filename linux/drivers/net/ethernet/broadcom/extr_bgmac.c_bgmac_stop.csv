@@ -1,0 +1,11 @@
+bgmac_chip_intrs_off,FUNC_0
+bgmac_chip_reset,FUNC_1
+bgmac_dma_cleanup,FUNC_2
+free_irq,FUNC_3
+napi_disable,FUNC_4
+netdev_priv,FUNC_5
+netif_carrier_off,FUNC_6
+phy_stop,FUNC_7
+bgmac_stop,FUNC_8
+net_dev,VAR_0
+bgmac,VAR_1

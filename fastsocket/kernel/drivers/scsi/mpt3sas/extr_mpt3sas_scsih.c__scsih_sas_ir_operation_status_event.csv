@@ -1,0 +1,14 @@
+MPI2_EVENT_IR_RAIDOP_RESYNC,VAR_0
+MPT_DEBUG_EVENT_WORK_TASK,VAR_1
+_scsih_raid_device_find_by_handle,FUNC_0
+_scsih_sas_ir_operation_status_event_debug,FUNC_1
+le16_to_cpu,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+_scsih_sas_ir_operation_status_event,FUNC_5
+ioc,VAR_2
+fw_event,VAR_3
+event_data,VAR_4
+raid_device,VAR_5
+flags,VAR_6
+handle,VAR_7

@@ -1,0 +1,13 @@
+NT_SUCCESS,FUNC_0
+OfflinePath,VAR_0
+REG_DWORD,VAR_1
+RTL_QUERY_REGISTRY_DIRECT,VAR_2
+RTL_REGISTRY_ABSOLUTE,VAR_3
+RtlQueryRegistryValues,FUNC_1
+RtlZeroMemory,FUNC_2
+IsOffline,FUNC_3
+SymbolicName,VAR_4
+Status,VAR_5
+IsOffline,VAR_6
+Default,VAR_7
+QueryTable,VAR_8

@@ -1,0 +1,16 @@
+CAPTURE_URB_COMPLETED,VAR_0
+DISCONNECTED,VAR_1
+ENODEV,VAR_2
+INTF_CAPTURE,VAR_3
+USB_CAPTURE_RUNNING,VAR_4
+clear_bit,FUNC_0
+enable_iso_interface,FUNC_1
+first_capture_urb_complete,VAR_5
+kill_stream_urbs,FUNC_2
+set_bit,FUNC_3
+stop_usb_capture,FUNC_4
+submit_stream_urbs,FUNC_5
+test_bit,FUNC_6
+start_usb_capture,FUNC_7
+ua,VAR_6
+err,VAR_7

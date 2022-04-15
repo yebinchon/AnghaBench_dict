@@ -1,0 +1,15 @@
+EECD,VAR_0
+IXGB_EECD_DI,VAR_1
+IXGB_EECD_DO,VAR_2
+IXGB_READ_REG,FUNC_0
+IXGB_WRITE_FLUSH,FUNC_1
+IXGB_WRITE_REG,FUNC_2
+ixgb_lower_clock,FUNC_3
+ixgb_raise_clock,FUNC_4
+udelay,FUNC_5
+ixgb_shift_out_bits,FUNC_6
+hw,VAR_3
+data,VAR_4
+count,VAR_5
+eecd_reg,VAR_6
+mask,VAR_7

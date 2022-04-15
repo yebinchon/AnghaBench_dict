@@ -1,0 +1,15 @@
+NETDEV_TX_BUSY,VAR_0
+NETDEV_TX_OK,VAR_1
+__IXGBE_TX_DISABLED,VAR_2
+ixgbe_xmit_frame_ring,FUNC_0
+netdev_priv,FUNC_1
+skb_get_queue_mapping,FUNC_2
+skb_put_padto,FUNC_3
+test_bit,FUNC_4
+unlikely,FUNC_5
+__ixgbe_xmit_frame,FUNC_6
+skb,VAR_3
+netdev,VAR_4
+ring,VAR_5
+adapter,VAR_6
+tx_ring,VAR_7

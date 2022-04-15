@@ -1,0 +1,16 @@
+MDIO_CFG_BSY,VAR_0
+MDIO_CFG_CLK_DIV_MASK,VAR_1
+MDIO_CFG_ENC45,VAR_2
+MDIO_CFG_HOLD_MASK,VAR_3
+MDIO_CTL_READ,VAR_4
+MDIO_DATA_BSY,VAR_5
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+udelay,FUNC_2
+wmb,FUNC_3
+read_phy_reg_10g,FUNC_4
+mii_regs,VAR_6
+phy_addr,VAR_7
+reg,VAR_8
+data,VAR_9
+tmp_reg,VAR_10

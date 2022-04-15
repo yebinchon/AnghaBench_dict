@@ -1,0 +1,8 @@
+DS2482_CMD_WRITE_CONFIG,VAR_0
+DS2482_PTR_CODE_CONFIG,VAR_1
+DS2482_PTR_CODE_STATUS,VAR_2
+i2c_smbus_write_byte_data,FUNC_0
+ds2482_send_cmd_data,FUNC_1
+pdev,VAR_3
+cmd,VAR_4
+byte,VAR_5

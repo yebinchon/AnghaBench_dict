@@ -1,0 +1,12 @@
+L1_S_SIZE,VAR_0
+cpu_cpwait,FUNC_0
+cpu_dcache_wbinv_all,FUNC_1
+cpu_l2cache_wbinv_all,FUNC_2
+cpu_tlb_flushD,FUNC_3
+kernel_pmap,VAR_1
+kernel_vm_end,VAR_2
+pmap_curmaxkvaddr,VAR_3
+pmap_grow_l2_bucket,FUNC_4
+pmap_growkernel,FUNC_5
+addr,VAR_4
+kpm,VAR_5

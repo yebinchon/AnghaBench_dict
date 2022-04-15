@@ -1,0 +1,13 @@
+PPSMC_MSG_ClkTableXferToSmu,VAR_0
+PPSMC_MSG_ExecuteJob,VAR_1
+PPSMC_MSG_SetClkTableAddrHi,VAR_2
+PPSMC_MSG_SetClkTableAddrLo,VAR_3
+SMU8_SCRATCH_ENTRY_SMU8_FUSION_CLKTABLE,VAR_4
+lower_32_bits,FUNC_0
+smu8_send_msg_to_smc,FUNC_1
+smu8_send_msg_to_smc_with_parameter,FUNC_2
+upper_32_bits,FUNC_3
+smu8_upload_pptable_settings,FUNC_4
+hwmgr,VAR_5
+smu8_smu,VAR_6
+i,VAR_7

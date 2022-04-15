@@ -1,0 +1,14 @@
+F_GETFL,VAR_0
+TIOCGPGRP,VAR_1
+fcntl,FUNC_0
+gdb_has_a_terminal_flag,VAR_2
+getpgrp,FUNC_1
+ioctl,FUNC_2
+our_process_group,VAR_3
+our_ttystate,VAR_4
+serial_fdopen,FUNC_3
+serial_get_tty_state,FUNC_4
+stdin_serial,VAR_5
+tcgetpgrp,FUNC_5
+tflags_ours,VAR_6
+gdb_has_a_terminal,FUNC_6

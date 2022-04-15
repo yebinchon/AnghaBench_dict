@@ -1,0 +1,12 @@
+SD_EVENT_ONESHOT,VAR_0
+SD_EVENT_PRIORITY_IDLE,VAR_1
+assert,FUNC_0
+log_error_errno,FUNC_1
+manager_dispatch_sync_bus_names,VAR_2
+sd_event_add_defer,FUNC_2
+sd_event_source_set_description,FUNC_3
+sd_event_source_set_enabled,FUNC_4
+sd_event_source_set_priority,FUNC_5
+manager_enqueue_sync_bus_names,FUNC_6
+m,VAR_3
+r,VAR_4

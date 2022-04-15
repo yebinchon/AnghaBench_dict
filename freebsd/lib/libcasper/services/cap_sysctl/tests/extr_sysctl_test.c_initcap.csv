@@ -1,0 +1,12 @@
+ATF_REQUIRE,FUNC_0
+SYSCTL0_FILE,VAR_0
+SYSCTL0_NAME,VAR_1
+SYSCTL1_FILE,VAR_2
+SYSCTL1_NAME,VAR_3
+cap_close,FUNC_1
+cap_init,FUNC_2
+cap_service_open,FUNC_3
+save_int_sysctl,FUNC_4
+initcap,FUNC_5
+capcas,VAR_4
+capsysctl,VAR_5

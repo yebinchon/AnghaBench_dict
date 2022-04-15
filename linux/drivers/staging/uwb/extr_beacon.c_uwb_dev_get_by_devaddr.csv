@@ -1,0 +1,9 @@
+__uwb_beca_find_bydev,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+uwb_dev_try_get,FUNC_3
+uwb_dev_get_by_devaddr,FUNC_4
+rc,VAR_0
+devaddr,VAR_1
+found,VAR_2
+bce,VAR_3

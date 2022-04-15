@@ -1,0 +1,16 @@
+KERN_INVALID_ARGUMENT,VAR_0
+KERN_SUCCESS,VAR_1
+SEMAPHORE_NULL,VAR_2
+TASK_NULL,VAR_3
+semaphore_dereference,FUNC_0
+semaphore_destroy_internal,FUNC_1
+semaphore_lock,FUNC_2
+semaphore_unlock,FUNC_3
+splsched,FUNC_4
+splx,FUNC_5
+task_lock,FUNC_6
+task_unlock,FUNC_7
+semaphore_destroy,FUNC_8
+task,VAR_4
+semaphore,VAR_5
+spl_level,VAR_6

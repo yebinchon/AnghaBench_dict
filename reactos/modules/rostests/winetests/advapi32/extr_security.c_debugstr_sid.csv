@@ -1,0 +1,16 @@
+ConvertSidToStringSidA,FUNC_0
+GetLastError,FUNC_1
+LocalFree,FUNC_2
+SID_SLOTS,VAR_0
+SetLastError,FUNC_3
+debugsid_index,VAR_1
+debugsid_str,VAR_2
+memcpy,FUNC_4
+sprintf,FUNC_5
+strcpy,FUNC_6
+strlen,FUNC_7
+debugstr_sid,FUNC_8
+sid,VAR_3
+sidstr,VAR_4
+le,VAR_5
+res,VAR_6

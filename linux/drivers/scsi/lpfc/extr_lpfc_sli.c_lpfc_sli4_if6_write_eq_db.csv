@@ -1,0 +1,15 @@
+INTx,VAR_0
+LPFC_QUEUE_REARM,VAR_1
+bf_set,FUNC_0
+lpfc_if6_eq_doorbell_arm,VAR_2
+lpfc_if6_eq_doorbell_eqid,VAR_3
+lpfc_if6_eq_doorbell_num_released,VAR_4
+readl,FUNC_1
+unlikely,FUNC_2
+writel,FUNC_3
+lpfc_sli4_if6_write_eq_db,FUNC_4
+phba,VAR_5
+q,VAR_6
+count,VAR_7
+arm,VAR_8
+doorbell,VAR_9

@@ -1,0 +1,13 @@
+ATIIXP_IDE_UDMA_CONTROL,VAR_0
+ata_bmdma_start,FUNC_0
+ata_using_udma,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_config_word,FUNC_3
+to_pci_dev,FUNC_4
+atiixp_bmdma_start,FUNC_5
+qc,VAR_1
+ap,VAR_2
+adev,VAR_3
+pdev,VAR_4
+dn,VAR_5
+tmp16,VAR_6

@@ -1,0 +1,11 @@
+GET_CNTR,FUNC_0
+PERF_EF_UPDATE,VAR_0
+clear_avail_cntr,FUNC_1
+perf_event_update_userpage,FUNC_2
+to_pmu_dev,FUNC_3
+xgene_perf_stop,FUNC_4
+xgene_perf_del,FUNC_5
+event,VAR_1
+flags,VAR_2
+pmu_dev,VAR_3
+hw,VAR_4

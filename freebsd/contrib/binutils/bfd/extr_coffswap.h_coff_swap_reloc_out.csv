@@ -1,0 +1,12 @@
+H_PUT_16,FUNC_0
+H_PUT_32,FUNC_1
+PUT_RELOC_VADDR,FUNC_2
+SWAP_OUT_RELOC_EXTRA,FUNC_3
+SWAP_OUT_RELOC_OFFSET,FUNC_4
+bfd_coff_relsz,FUNC_5
+coff_swap_reloc_out,FUNC_6
+abfd,VAR_0
+src,VAR_1
+dst,VAR_2
+reloc_src,VAR_3
+reloc_dst,VAR_4

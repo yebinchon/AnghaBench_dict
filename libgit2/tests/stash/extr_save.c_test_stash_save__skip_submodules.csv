@@ -1,0 +1,13 @@
+GIT_STASH_INCLUDE_UNTRACKED,VAR_0
+GIT_STATUS_WT_NEW,VAR_1
+assert_status,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_repository_free,FUNC_3
+git_repository_init,FUNC_4
+git_stash_save,FUNC_5
+repo,VAR_2
+signature,VAR_3
+stash_tip_oid,VAR_4
+test_stash_save__skip_submodules,FUNC_6
+untracked_repo,VAR_5

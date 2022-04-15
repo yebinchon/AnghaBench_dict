@@ -1,0 +1,12 @@
+IXGBE_FLAG2_RX_LEGACY,VAR_0
+IXGBE_FLAG2_VF_IPSEC_ENABLED,VAR_1
+IXGBE_PRIV_FLAGS_LEGACY_RX,VAR_2
+IXGBE_PRIV_FLAGS_VF_IPSEC_EN,VAR_3
+ixgbe_reinit_locked,FUNC_0
+netdev_priv,FUNC_1
+netif_running,FUNC_2
+ixgbe_set_priv_flags,FUNC_3
+netdev,VAR_4
+priv_flags,VAR_5
+adapter,VAR_6
+flags2,VAR_7

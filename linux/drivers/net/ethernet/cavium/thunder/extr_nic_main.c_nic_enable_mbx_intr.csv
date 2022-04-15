@@ -1,0 +1,8 @@
+INTR_MASK,FUNC_0
+NIC_PF_MAILBOX_ENA_W1S,VAR_0
+NIC_PF_MAILBOX_INT,VAR_1
+nic_reg_write,FUNC_1
+pci_sriov_get_totalvfs,FUNC_2
+nic_enable_mbx_intr,FUNC_3
+nic,VAR_2
+vf_cnt,VAR_3

@@ -1,0 +1,15 @@
+CS_LOCK,FUNC_0
+CS_UNLOCK,FUNC_1
+FUNNEL_ENSx_MASK,VAR_0
+FUNNEL_FUNCTL,VAR_1
+FUNNEL_HOLDTIME,VAR_2
+FUNNEL_HOLDTIME_MASK,VAR_3
+FUNNEL_PRICTL,VAR_4
+coresight_claim_device_unlocked,FUNC_2
+readl_relaxed,FUNC_3
+writel_relaxed,FUNC_4
+dynamic_funnel_enable_hw,FUNC_5
+drvdata,VAR_5
+port,VAR_6
+functl,VAR_7
+rc,VAR_8

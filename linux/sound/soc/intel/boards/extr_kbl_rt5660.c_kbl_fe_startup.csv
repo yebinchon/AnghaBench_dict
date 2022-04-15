@@ -1,0 +1,11 @@
+DUAL_CHANNEL,VAR_0
+SNDRV_PCM_FMTBIT_S16_LE,VAR_1
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_2
+SNDRV_PCM_HW_PARAM_RATE,VAR_3
+constraints_channels,VAR_4
+constraints_rates,VAR_5
+snd_pcm_hw_constraint_list,FUNC_0
+snd_pcm_hw_constraint_msbits,FUNC_1
+kbl_fe_startup,FUNC_2
+substream,VAR_6
+runtime,VAR_7

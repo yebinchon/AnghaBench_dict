@@ -1,0 +1,15 @@
+CMD_SETATN,VAR_0
+EXTENDED_SDTR,VAR_1
+PHASE_MSGOUT_EXPECT,VAR_2
+fas216_cmd,FUNC_0
+fas216_set_sync,FUNC_1
+fas216_syncperiod,FUNC_2
+msgqueue_addmsg,FUNC_3
+msgqueue_flush,FUNC_4
+neg_complete,VAR_3
+neg_targcomplete,VAR_4
+fas216_handlesync,FUNC_5
+info,VAR_5
+msg,VAR_6
+dev,VAR_7
+res,VAR_8

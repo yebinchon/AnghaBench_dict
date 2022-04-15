@@ -1,0 +1,17 @@
+LP_FILTER_ORDER,VAR_0
+SUBFR_SIZE,VAR_1
+ff_celp_lp_synthesis_filterf,FUNC_0
+ff_celp_lp_zero_synthesis_filterf,FUNC_1
+ff_pow_0_5,VAR_2
+ff_pow_0_75,VAR_3
+ff_tilt_compensation,FUNC_2
+memcpy,FUNC_3
+postfilter_5k0,FUNC_4
+ctx,VAR_4
+lpc,VAR_5
+samples,VAR_6
+buf,VAR_7
+pole_out,VAR_8
+lpc_n,VAR_9
+lpc_d,VAR_10
+i,VAR_11

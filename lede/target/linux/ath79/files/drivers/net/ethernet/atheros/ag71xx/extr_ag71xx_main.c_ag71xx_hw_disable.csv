@@ -1,0 +1,11 @@
+ag71xx_dma_reset,FUNC_0
+ag71xx_hw_stop,FUNC_1
+ag71xx_rings_cleanup,FUNC_2
+del_timer_sync,FUNC_3
+napi_disable,FUNC_4
+netif_stop_queue,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+ag71xx_hw_disable,FUNC_8
+ag,VAR_0
+flags,VAR_1

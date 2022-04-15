@@ -1,0 +1,17 @@
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_ASSERT_EQUAL_MEMORY_MESSAGE,FUNC_1
+done_sem,VAR_0
+mbedtls_sha1_finish_ret,FUNC_2
+mbedtls_sha1_init,FUNC_3
+mbedtls_sha1_starts_ret,FUNC_4
+mbedtls_sha1_update_ret,FUNC_5
+one_hundred_as,VAR_1
+sha1_thousand_as,VAR_2
+vTaskDelete,FUNC_6
+xSemaphoreGive,FUNC_7
+tskRunSHA1Test,FUNC_8
+pvParameters,VAR_3
+sha1_ctx,VAR_4
+sha1,VAR_5
+i,VAR_6
+j,VAR_7

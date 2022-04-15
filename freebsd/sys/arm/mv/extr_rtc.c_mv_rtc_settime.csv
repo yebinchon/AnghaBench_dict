@@ -1,0 +1,13 @@
+MV_RTC_DATE_REG,VAR_0
+MV_RTC_TIME_REG,VAR_1
+TOBCD,FUNC_0
+YEAR_BASE,VAR_2
+clock_ts_to_ct,FUNC_1
+device_get_softc,FUNC_2
+mv_rtc_reg_write,FUNC_3
+mv_rtc_settime,FUNC_4
+dev,VAR_3
+ts,VAR_4
+ct,VAR_5
+sc,VAR_6
+val,VAR_7

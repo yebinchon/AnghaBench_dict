@@ -1,0 +1,7 @@
+WUSBCMD_ASYNC_EN,VAR_0
+WUSBSTS,VAR_1
+WUSBSTS_ASYNC_SCHED,VAR_2
+whc_write_wusbcmd,FUNC_0
+whci_wait_for,FUNC_1
+asl_stop,FUNC_2
+whc,VAR_3

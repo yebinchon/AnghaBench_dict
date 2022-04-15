@@ -1,0 +1,15 @@
+CHANGE_RX_ISOC_COMM_STATE,VAR_0
+CHANGE_TX_ISOC_COMM_STATE,VAR_1
+ISOC_COMM_CONTROL_OFFSET,VAR_2
+RX_ISOC_COMM_IS_ACTIVATED,VAR_3
+TX_ISOC_COMM_IS_ACTIVATED,VAR_4
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+snd_motu_transaction_read,FUNC_2
+snd_motu_transaction_write,FUNC_3
+stub1,FUNC_4
+finish_session,FUNC_5
+motu,VAR_5
+reg,VAR_6
+data,VAR_7
+err,VAR_8

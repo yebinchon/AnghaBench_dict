@@ -1,0 +1,15 @@
+NUM_RSP_Q_ENTRIES,VAR_0
+QL3032_DEVICE_ID,VAR_1
+le32_to_cpu,FUNC_0
+netdev_err,FUNC_1
+ql_process_mac_rx_intr,FUNC_2
+ql_process_mac_tx_intr,FUNC_3
+ql_process_macip_rx_intr,FUNC_4
+rmb,FUNC_5
+ql_tx_rx_clean,FUNC_6
+qdev,VAR_2
+budget,VAR_3
+net_rsp,VAR_4
+ndev,VAR_5
+work_done,VAR_6
+tmp,VAR_7

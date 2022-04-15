@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+DMU_READ_PREFETCH,VAR_0
+KM_SLEEP,VAR_1
+VERIFY0,FUNC_1
+dmu_bonus_hold,FUNC_2
+dmu_read,FUNC_3
+kmem_zalloc,FUNC_4
+vdev_indirect_births_size_impl,FUNC_5
+vdev_indirect_births_verify,FUNC_6
+vmem_alloc,FUNC_7
+vdev_indirect_births_open,FUNC_8
+os,VAR_2
+births_object,VAR_3
+vib,VAR_4
+births_size,VAR_5

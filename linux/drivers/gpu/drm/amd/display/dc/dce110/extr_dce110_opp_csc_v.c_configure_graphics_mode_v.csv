@@ -1,0 +1,17 @@
+COL_MAN_OUTPUT_CSC_CONTROL,VAR_0
+CSC_COLOR_MODE_GRAPHICS_OUTPUT_CSC,VAR_1
+GRAPHICS_CSC_ADJUST_TYPE_HW,VAR_2
+GRAPHICS_CSC_ADJUST_TYPE_SW,VAR_3
+OUTPUT_CSC_MODE,VAR_4
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+mmCOL_MAN_OUTPUT_CSC_CONTROL,VAR_5
+set_reg_field_value,FUNC_2
+configure_graphics_mode_v,FUNC_3
+xfm_dce,VAR_6
+config,VAR_7
+csc_adjust_type,VAR_8
+color_space,VAR_9
+ctx,VAR_10
+addr,VAR_11
+value,VAR_12

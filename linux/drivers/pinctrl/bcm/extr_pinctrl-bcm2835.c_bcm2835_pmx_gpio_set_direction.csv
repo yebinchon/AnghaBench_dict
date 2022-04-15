@@ -1,0 +1,11 @@
+BCM2835_FSEL_GPIO_IN,VAR_0
+BCM2835_FSEL_GPIO_OUT,VAR_1
+bcm2835_pinctrl_fsel_set,FUNC_0
+pinctrl_dev_get_drvdata,FUNC_1
+bcm2835_pmx_gpio_set_direction,FUNC_2
+pctldev,VAR_2
+range,VAR_3
+offset,VAR_4
+input,VAR_5
+pc,VAR_6
+fsel,VAR_7

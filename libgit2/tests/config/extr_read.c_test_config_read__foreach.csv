@@ -1,0 +1,16 @@
+GIT_CONFIG_LEVEL_GLOBAL,VAR_0
+GIT_CONFIG_LEVEL_SYSTEM,VAR_1
+cfg_callback_countdown,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_fixture,FUNC_1
+cl_git_fail,FUNC_2
+cl_git_pass,FUNC_3
+count_cfg_entries_and_compare_levels,VAR_3
+git_config_add_file_ondisk,FUNC_4
+git_config_foreach,FUNC_5
+git_config_free,FUNC_6
+git_config_new,FUNC_7
+test_config_read__foreach,FUNC_8
+cfg,VAR_4
+count,VAR_5
+ret,VAR_6

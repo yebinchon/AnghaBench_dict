@@ -1,0 +1,17 @@
+BTRFS_I,FUNC_0
+BTRFS_QGROUP_RSV_DATA,VAR_0
+EXTENT_QGROUP_RESERVED,VAR_1
+ULIST_ITER_INIT,FUNC_1
+WARN_ON,FUNC_2
+btrfs_qgroup_free_refroot,FUNC_3
+btrfs_warn,FUNC_4
+clear_record_extent_bits,FUNC_5
+extent_changeset_init,FUNC_6
+extent_changeset_release,FUNC_7
+ulist_next,FUNC_8
+btrfs_qgroup_check_reserved_leak,FUNC_9
+inode,VAR_2
+changeset,VAR_3
+unode,VAR_4
+iter,VAR_5
+ret,VAR_6

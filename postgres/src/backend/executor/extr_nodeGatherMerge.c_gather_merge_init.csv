@@ -1,0 +1,17 @@
+Assert,FUNC_0
+CHECK_FOR_INTERRUPTS,FUNC_1
+ExecClearTuple,FUNC_2
+GatherMerge,VAR_0
+Int32GetDatum,FUNC_3
+TupIsNull,FUNC_4
+binaryheap_add_unordered,FUNC_5
+binaryheap_build,FUNC_6
+binaryheap_reset,FUNC_7
+castNode,FUNC_8
+gather_merge_readnext,FUNC_9
+load_tuple_array,FUNC_10
+gather_merge_init,FUNC_11
+gm_state,VAR_1
+nreaders,VAR_2
+nowait,VAR_3
+i,VAR_4

@@ -1,0 +1,17 @@
+NVME_STATUS_SCT_MASK,VAR_0
+NVME_STATUS_SCT_SHIFT,VAR_1
+NVME_STATUS_SC_MASK,VAR_2
+NVME_STATUS_SC_SHIFT,VAR_3
+memset,FUNC_0
+nvme_completion_is_error,FUNC_1
+nvme_free_request,FUNC_2
+nvme_qpair_print_command,FUNC_3
+nvme_qpair_print_completion,FUNC_4
+stub1,FUNC_5
+nvme_qpair_manual_complete_request,FUNC_6
+qpair,VAR_4
+req,VAR_5
+sct,VAR_6
+sc,VAR_7
+cpl,VAR_8
+error,VAR_9

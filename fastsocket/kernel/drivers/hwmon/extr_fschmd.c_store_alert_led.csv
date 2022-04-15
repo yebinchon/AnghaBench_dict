@@ -1,0 +1,17 @@
+FSCHMD_CONTROL_ALERT_LED,VAR_0
+FSCHMD_REG_CONTROL,VAR_1
+dev_get_drvdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtoul,FUNC_5
+to_i2c_client,FUNC_6
+store_alert_led,FUNC_7
+dev,VAR_2
+devattr,VAR_3
+buf,VAR_4
+count,VAR_5
+reg,VAR_6
+data,VAR_7
+v,VAR_8

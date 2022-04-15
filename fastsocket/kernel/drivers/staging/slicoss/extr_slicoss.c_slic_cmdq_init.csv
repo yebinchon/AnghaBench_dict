@@ -1,0 +1,15 @@
+ADAPT_DOWN,VAR_0
+ASSERT,FUNC_0
+SLIC_CMDQ_INITPAGES,VAR_1
+STATUS_FAILURE,VAR_2
+STATUS_SUCCESS,VAR_3
+memset,FUNC_1
+slic_cmdq_addcmdpage,FUNC_2
+slic_cmdq_free,FUNC_3
+slic_cmdqmem_addpage,FUNC_4
+slic_cmdqmem_init,FUNC_5
+spin_lock_init,FUNC_6
+slic_cmdq_init,FUNC_7
+adapter,VAR_4
+i,VAR_5
+pageaddr,VAR_6

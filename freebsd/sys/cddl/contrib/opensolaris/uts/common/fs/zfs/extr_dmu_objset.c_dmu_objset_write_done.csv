@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+BP_EQUAL,FUNC_1
+B_TRUE,VAR_0
+ZIO_FLAG_IO_REWRITE,VAR_1
+dsl_dataset_block_born,FUNC_2
+dsl_dataset_block_kill,FUNC_3
+kmem_free,FUNC_4
+dmu_objset_write_done,FUNC_5
+zio,VAR_2
+abuf,VAR_3
+arg,VAR_4
+bp,VAR_5
+bp_orig,VAR_6
+os,VAR_7
+ds,VAR_8
+tx,VAR_9

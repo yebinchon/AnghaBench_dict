@@ -1,0 +1,17 @@
+atomic_read,FUNC_0
+call_rcu,FUNC_1
+cancel_delayed_work_sync,FUNC_2
+del_timer_sync,FUNC_3
+free_percpu,FUNC_4
+init_net,VAR_0
+kfree,FUNC_5
+neigh_hash_free_rcu,VAR_1
+neigh_ifdown,FUNC_6
+neigh_tables,VAR_2
+pneigh_queue_purge,FUNC_7
+pr_crit,FUNC_8
+rcu_dereference_protected,FUNC_9
+remove_proc_entry,FUNC_10
+neigh_table_clear,FUNC_11
+index,VAR_3
+tbl,VAR_4

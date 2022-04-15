@@ -1,0 +1,13 @@
+MAY_WRITE,VAR_0
+__vfs_removexattr,FUNC_0
+evm_inode_post_removexattr,FUNC_1
+fsnotify_xattr,FUNC_2
+inode_lock,FUNC_3
+inode_unlock,FUNC_4
+security_inode_removexattr,FUNC_5
+xattr_permission,FUNC_6
+vfs_removexattr,FUNC_7
+dentry,VAR_1
+name,VAR_2
+inode,VAR_3
+error,VAR_4

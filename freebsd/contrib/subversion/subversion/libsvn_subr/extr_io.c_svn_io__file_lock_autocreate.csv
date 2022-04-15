@@ -1,0 +1,12 @@
+APR_STATUS_IS_EEXIST,FUNC_0
+APR_STATUS_IS_ENOENT,FUNC_1
+FALSE,VAR_0
+TRUE,VAR_1
+svn_error_clear,FUNC_2
+svn_error_trace,FUNC_3
+svn_io_file_create_empty,FUNC_4
+svn_io_file_lock2,FUNC_5
+svn_io__file_lock_autocreate,FUNC_6
+lock_file,VAR_2
+pool,VAR_3
+err,VAR_4

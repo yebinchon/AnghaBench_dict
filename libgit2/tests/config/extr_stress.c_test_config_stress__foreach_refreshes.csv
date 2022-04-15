@@ -1,0 +1,12 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+foreach_cb,VAR_0
+git__free,FUNC_2
+git_config_foreach_match,FUNC_3
+git_config_free,FUNC_4
+git_config_open_ondisk,FUNC_5
+git_config_set_string,FUNC_6
+test_config_stress__foreach_refreshes,FUNC_7
+config_w,VAR_1
+config_r,VAR_2
+value,VAR_3

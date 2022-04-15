@@ -1,0 +1,17 @@
+AFEX_UPDATE,VAR_0
+BNX2X_MSG_SP,VAR_1
+DP,FUNC_0
+NONE_CONNECTION_TYPE,VAR_2
+RAMROD_CMD_ID_COMMON_FUNCTION_UPDATE,VAR_3
+U64_HI,FUNC_1
+U64_LO,FUNC_2
+bnx2x_sp_post,FUNC_3
+cpu_to_le16,FUNC_4
+memset,FUNC_5
+bnx2x_func_send_afex_update,FUNC_6
+bp,VAR_4
+params,VAR_5
+o,VAR_6
+rdata,VAR_7
+data_mapping,VAR_8
+afex_update_params,VAR_9

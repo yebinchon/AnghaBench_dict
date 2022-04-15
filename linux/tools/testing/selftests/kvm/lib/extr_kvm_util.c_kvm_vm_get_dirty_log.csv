@@ -1,0 +1,10 @@
+KVM_GET_DIRTY_LOG,VAR_0
+TEST_ASSERT,FUNC_0
+ioctl,FUNC_1
+strerror,FUNC_2
+kvm_vm_get_dirty_log,FUNC_3
+vm,VAR_1
+slot,VAR_2
+log,VAR_3
+args,VAR_4
+ret,VAR_5

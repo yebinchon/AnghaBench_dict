@@ -1,0 +1,12 @@
+CloseClipboard,FUNC_0
+CreateWindowW,FUNC_1
+DestroyWindow,FUNC_2
+EmptyClipboard,FUNC_3
+GetClipboardOwner,FUNC_4
+OpenClipboard,FUNC_5
+WS_OVERLAPPEDWINDOW,VAR_0
+ok,FUNC_6
+TestOwnership,FUNC_7
+ret,VAR_1
+hWnd,VAR_2
+hWndClipOwner,VAR_3

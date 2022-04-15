@@ -1,0 +1,8 @@
+MIPS_CPU_IRQ_BASE,VAR_0
+cp0_fdc_irq,VAR_1
+cpu_has_veic,VAR_2
+gic_get_c0_fdc_int,FUNC_0
+mips_gic_present,FUNC_1
+panic,FUNC_2
+get_c0_fdc_int,FUNC_3
+mips_cpu_fdc_irq,VAR_3

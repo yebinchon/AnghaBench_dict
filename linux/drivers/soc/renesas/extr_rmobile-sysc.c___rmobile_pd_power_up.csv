@@ -1,0 +1,16 @@
+BIT,FUNC_0
+EIO,VAR_0
+PSTR,VAR_1
+PSTR_DELAY_US,VAR_2
+PSTR_RETRIES,VAR_3
+SWUCR,VAR_4
+__raw_readl,FUNC_1
+__raw_writel,FUNC_2
+cpu_relax,FUNC_3
+pr_debug,FUNC_4
+udelay,FUNC_5
+__rmobile_pd_power_up,FUNC_6
+rmobile_pd,VAR_5
+mask,VAR_6
+retry_count,VAR_7
+ret,VAR_8

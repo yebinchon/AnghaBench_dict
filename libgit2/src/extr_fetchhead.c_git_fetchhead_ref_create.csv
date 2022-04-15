@@ -1,0 +1,13 @@
+GIT_ERROR_CHECK_ALLOC,FUNC_0
+assert,FUNC_1
+git__malloc,FUNC_2
+git__strdup,FUNC_3
+git_oid_cpy,FUNC_4
+memset,FUNC_5
+git_fetchhead_ref_create,FUNC_6
+out,VAR_0
+oid,VAR_1
+is_merge,VAR_2
+ref_name,VAR_3
+remote_url,VAR_4
+fetchhead_ref,VAR_5

@@ -1,0 +1,11 @@
+BTS_READ_ONLY,VAR_0
+TRANS_WRITE,VAR_1
+assert,FUNC_0
+sqlite3BtreeEnter,FUNC_1
+sqlite3BtreeLeave,FUNC_2
+sqlite3PagerOpenSavepoint,FUNC_3
+sqlite3BtreeBeginStmt,FUNC_4
+p,VAR_2
+iStatement,VAR_3
+rc,VAR_4
+pBt,VAR_5

@@ -1,0 +1,13 @@
+AFS_VNODE_LOCK_EXTENDING,VAR_0
+AFS_VNODE_LOCK_GRANTED,VAR_1
+AFS_VNODE_LOCK_NEED_UNLOCK,VAR_2
+_enter,FUNC_0
+afs_flock_defer_unlock,VAR_3
+afs_lock_manager,VAR_4
+afs_set_lock_state,FUNC_1
+cancel_delayed_work,FUNC_2
+list_empty,FUNC_3
+queue_delayed_work,FUNC_4
+trace_afs_flock_ev,FUNC_5
+afs_defer_unlock,FUNC_6
+vnode,VAR_5

@@ -1,0 +1,7 @@
+F_SETFL,VAR_0
+O_NONBLOCK,VAR_1
+POLLIN,VAR_2
+fcntl,FUNC_0
+perf_evlist__add_pollfd,FUNC_1
+evlist,VAR_3
+fd,VAR_4

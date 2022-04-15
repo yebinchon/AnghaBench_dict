@@ -1,0 +1,9 @@
+NFTA_TRACE_PAD,VAR_0
+NFTA_TRACE_RULE_HANDLE,VAR_1
+NFT_CONTINUE,VAR_2
+NFT_TRACETYPE_RETURN,VAR_3
+cpu_to_be64,FUNC_0
+nla_put_be64,FUNC_1
+nf_trace_fill_rule_info,FUNC_2
+nlskb,VAR_4
+info,VAR_5

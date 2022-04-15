@@ -1,0 +1,9 @@
+SetPageHugeTemporary,FUNC_0
+alloc_fresh_huge_page,FUNC_1
+hstate_is_gigantic,FUNC_2
+alloc_migrate_huge_page,FUNC_3
+h,VAR_0
+gfp_mask,VAR_1
+nid,VAR_2
+nmask,VAR_3
+page,VAR_4

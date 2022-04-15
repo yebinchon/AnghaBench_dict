@@ -1,0 +1,13 @@
+ATI_MULTICHANNEL_MODE_SINGLE,VAR_0
+ATI_VERB_SET_DOWNMIX_INFO,VAR_1
+ATI_VERB_SET_MULTICHANNEL_MODE,VAR_2
+generic_hdmi_init,FUNC_0
+get_pin,FUNC_1
+has_amd_full_remap_support,FUNC_2
+snd_hda_codec_write,FUNC_3
+atihdmi_init,FUNC_4
+codec,VAR_3
+spec,VAR_4
+pin_idx,VAR_5
+err,VAR_6
+per_pin,VAR_7

@@ -1,0 +1,14 @@
+GL_DEPTH_ATTACHMENT,VAR_0
+GL_STENCIL_ATTACHMENT,VAR_1
+TRACE,FUNC_0
+WINED3D_FBO_ENTRY_FLAG_DEPTH,VAR_2
+WINED3D_FBO_ENTRY_FLAG_STENCIL,VAR_3
+context_attach_depth_stencil_rb,FUNC_1
+context_attach_gl_texture_fbo,FUNC_2
+context_attach_depth_stencil_fbo,FUNC_3
+context,VAR_4
+fbo_target,VAR_5
+resource,VAR_6
+rb_namespace,VAR_7
+flags,VAR_8
+gl_info,VAR_9

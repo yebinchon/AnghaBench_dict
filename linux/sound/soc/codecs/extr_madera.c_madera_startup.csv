@@ -1,0 +1,17 @@
+MADERA_192K_44K1_RATE_MASK,VAR_0
+MADERA_192K_48K_RATE_MASK,VAR_1
+MADERA_192K_RATE_MASK,VAR_2
+MADERA_384K_44K1_RATE_MASK,VAR_3
+MADERA_384K_48K_RATE_MASK,VAR_4
+MADERA_384K_RATE_MASK,VAR_5
+SNDRV_PCM_HW_PARAM_RATE,VAR_6
+snd_pcm_hw_constraint_list,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+madera_startup,FUNC_2
+substream,VAR_7
+dai,VAR_8
+component,VAR_9
+priv,VAR_10
+dai_priv,VAR_11
+madera,VAR_12
+base_rate,VAR_13

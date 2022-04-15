@@ -1,0 +1,16 @@
+AUDIO_ES,VAR_0
+ES_OUT_ES_POLICY_EXCLUSIVE,VAR_1
+ES_OUT_MODE_NONE,VAR_2
+EsOutPropsInit,FUNC_0
+UNKNOWN_ES,VAR_3
+calloc,FUNC_1
+es_out_cbs,VAR_4
+var_GetInteger,FUNC_2
+var_InheritInteger,FUNC_3
+vlc_list_init,FUNC_4
+vlc_mutex_init,FUNC_5
+input_EsOutNew,FUNC_6
+p_input,VAR_5
+rate,VAR_6
+p_sys,VAR_7
+master_source,VAR_8

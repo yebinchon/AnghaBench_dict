@@ -1,0 +1,15 @@
+I2C_FUNC_I2C,VAR_0
+I2C_FUNC_SMBUS_READ_I2C_BLOCK,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+bmc150_accel_core_probe,FUNC_2
+bmc150_regmap_conf,VAR_2
+dev_err,FUNC_3
+devm_regmap_init_i2c,FUNC_4
+i2c_check_functionality,FUNC_5
+bmc150_accel_probe,FUNC_6
+client,VAR_3
+id,VAR_4
+regmap,VAR_5
+name,VAR_6
+block_supported,VAR_7

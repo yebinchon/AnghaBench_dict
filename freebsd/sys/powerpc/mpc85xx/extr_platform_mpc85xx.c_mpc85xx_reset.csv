@@ -1,0 +1,12 @@
+DBCR0_IDM,VAR_0
+DBCR0_RST_SYSTEM,VAR_1
+OCP85XX_RSTCR,VAR_2
+PSL_DE,VAR_3
+SPR_DBCR0,VAR_4
+ccsr_write4,FUNC_0
+mfmsr,FUNC_1
+mtmsr,FUNC_2
+mtspr,FUNC_3
+printf,FUNC_4
+mpc85xx_reset,FUNC_5
+plat,VAR_5

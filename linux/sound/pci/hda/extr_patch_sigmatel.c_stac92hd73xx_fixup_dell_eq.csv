@@ -1,0 +1,9 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+dell_eq_core_init,VAR_1
+snd_hda_add_verbs,FUNC_0
+stac92hd73xx_fixup_dell,FUNC_1
+stac92hd73xx_fixup_dell_eq,FUNC_2
+codec,VAR_2
+fix,VAR_3
+action,VAR_4
+spec,VAR_5

@@ -1,0 +1,15 @@
+DLM_LOCK_EX,VAR_0
+EROFS,VAR_1
+OCFS2_ORPHAN_LVB_VERSION,VAR_2
+be32_to_cpu,FUNC_0
+ocfs2_cluster_lock,FUNC_1
+ocfs2_dlm_lvb,FUNC_2
+ocfs2_dlm_lvb_valid,FUNC_3
+ocfs2_is_hard_readonly,FUNC_4
+ocfs2_mount_local,FUNC_5
+ocfs2_orphan_scan_lock,FUNC_6
+osb,VAR_3
+seqno,VAR_4
+lockres,VAR_5
+lvb,VAR_6
+status,VAR_7

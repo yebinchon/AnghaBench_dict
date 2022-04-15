@@ -1,0 +1,16 @@
+NET_RX_DROP,VAR_0
+RXFCB_VLN,VAR_1
+eth_type_trans,FUNC_0
+gfar_rx_checksum,FUNC_1
+netdev_priv,FUNC_2
+netif_receive_skb,FUNC_3
+skb_pull,FUNC_4
+unlikely,FUNC_5
+vlan_hwaccel_receive_skb,FUNC_6
+gfar_process_frame,FUNC_7
+dev,VAR_2
+skb,VAR_3
+amount_pull,VAR_4
+priv,VAR_5
+fcb,VAR_6
+ret,VAR_7

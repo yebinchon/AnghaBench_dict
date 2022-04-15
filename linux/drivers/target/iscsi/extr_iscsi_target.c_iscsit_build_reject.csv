@@ -1,0 +1,10 @@
+ISCSI_FLAG_CMD_FINAL,VAR_0
+ISCSI_HDR_LEN,VAR_1
+ISCSI_OP_REJECT,VAR_2
+atomic_read,FUNC_0
+cpu_to_be32,FUNC_1
+hton24,FUNC_2
+iscsit_build_reject,FUNC_3
+cmd,VAR_3
+conn,VAR_4
+hdr,VAR_5

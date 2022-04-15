@@ -1,0 +1,13 @@
+PART_BOOT,VAR_0
+WL1271_POWER_ON_SLEEP,VAR_1
+WL1271_PRE_POWER_ON_SLEEP,VAR_2
+msleep,FUNC_0
+wl1271_io_init,FUNC_1
+wl1271_io_reset,FUNC_2
+wl1271_power_off,FUNC_3
+wl1271_power_on,FUNC_4
+wlcore_fw_wakeup,FUNC_5
+wlcore_set_partition,FUNC_6
+wl12xx_set_power_on,FUNC_7
+wl,VAR_3
+ret,VAR_4

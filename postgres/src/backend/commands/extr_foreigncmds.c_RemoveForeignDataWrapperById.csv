@@ -1,0 +1,16 @@
+CatalogTupleDelete,FUNC_0
+ERROR,VAR_0
+FOREIGNDATAWRAPPEROID,VAR_1
+ForeignDataWrapperRelationId,VAR_2
+HeapTupleIsValid,FUNC_1
+ObjectIdGetDatum,FUNC_2
+ReleaseSysCache,FUNC_3
+RowExclusiveLock,VAR_3
+SearchSysCache1,FUNC_4
+elog,FUNC_5
+table_close,FUNC_6
+table_open,FUNC_7
+RemoveForeignDataWrapperById,FUNC_8
+fdwId,VAR_4
+tp,VAR_5
+rel,VAR_6

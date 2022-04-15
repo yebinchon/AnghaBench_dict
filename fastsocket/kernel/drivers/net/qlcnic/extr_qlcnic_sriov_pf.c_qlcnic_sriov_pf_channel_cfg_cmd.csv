@@ -1,0 +1,13 @@
+QLCNIC_BC_CMD_CHANNEL_INIT,VAR_0
+QLC_BC_VF_STATE,VAR_1
+clear_bit,FUNC_0
+qlcnic_sriov_pf_config_vport,FUNC_1
+qlcnic_sriov_set_vf_vport_info,FUNC_2
+set_bit,FUNC_3
+qlcnic_sriov_pf_channel_cfg_cmd,FUNC_4
+trans,VAR_2
+cmd,VAR_3
+vf,VAR_4
+adapter,VAR_5
+err,VAR_6
+func,VAR_7

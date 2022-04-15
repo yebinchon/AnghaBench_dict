@@ -1,0 +1,15 @@
+ACPI_DEVICE_NOTIFY,VAR_0
+ACPI_SERIAL_BEGIN,FUNC_0
+ACPI_SERIAL_END,FUNC_1
+AcpiInstallNotifyHandler,FUNC_2
+AcpiOsFree,FUNC_3
+AcpiRemoveNotifyHandler,FUNC_4
+BCL_ECONOMY,VAR_1
+BCL_FULLPOWER,VAR_2
+acpi_video_vo_check_level,FUNC_5
+acpi_video_vo_notify_handler,VAR_3
+video_output,VAR_4
+vo_get_brightness_levels,FUNC_6
+acpi_video_vo_bind,FUNC_7
+vo,VAR_5
+handle,VAR_6

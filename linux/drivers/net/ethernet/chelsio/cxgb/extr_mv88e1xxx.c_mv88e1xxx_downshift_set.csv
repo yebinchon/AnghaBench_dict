@@ -1,0 +1,10 @@
+MV88E1XXX_EXT_PHY_SPECIFIC_CNTRL_REGISTER,VAR_0
+M_DOWNSHIFT_CNT,VAR_1
+V_DOWNSHIFT_CNT,FUNC_0
+V_DOWNSHIFT_ENABLE,VAR_2
+simple_mdio_read,FUNC_1
+simple_mdio_write,FUNC_2
+mv88e1xxx_downshift_set,FUNC_3
+cphy,VAR_3
+downshift_enable,VAR_4
+val,VAR_5

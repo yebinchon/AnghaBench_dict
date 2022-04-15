@@ -1,0 +1,12 @@
+SMU_FEATURE_VCN_PG_BIT,VAR_0
+SMU_MSG_PowerDownVcn,VAR_1
+SMU_MSG_PowerUpVcn,VAR_2
+smu_feature_is_enabled,FUNC_0
+smu_send_smc_msg,FUNC_1
+smu_send_smc_msg_with_param,FUNC_2
+navi10_dpm_set_uvd_enable,FUNC_3
+smu,VAR_3
+enable,VAR_4
+smu_power,VAR_5
+power_gate,VAR_6
+ret,VAR_7

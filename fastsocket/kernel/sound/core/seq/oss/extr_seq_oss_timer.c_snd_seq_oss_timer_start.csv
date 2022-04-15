@@ -1,0 +1,9 @@
+SNDRV_SEQ_EVENT_START,VAR_0
+memset,FUNC_0
+send_timer_event,FUNC_1
+snd_seq_oss_timer_stop,FUNC_2
+snd_seq_set_queue_tempo,FUNC_3
+snd_seq_oss_timer_start,FUNC_4
+timer,VAR_1
+dp,VAR_2
+tmprec,VAR_3

@@ -1,0 +1,17 @@
+H2O_TIMERWHEEL_BITS_PER_WHEEL,VAR_0
+H2O_TIMERWHEEL_SLOTS_PER_WHEEL,VAR_1
+UINT64_MAX,VAR_2
+assert,FUNC_0
+h2o_linklist_is_empty,FUNC_1
+h2o_timer_validate_wheel,FUNC_2
+timer_slot,FUNC_3
+w,VAR_3
+h2o_timerwheel_get_wake_at,FUNC_4
+ctx,VAR_4
+wheel,VAR_5
+slot,VAR_6
+at,VAR_7
+at_incr,VAR_8
+slot_base,VAR_9
+wi,VAR_10
+si,VAR_11

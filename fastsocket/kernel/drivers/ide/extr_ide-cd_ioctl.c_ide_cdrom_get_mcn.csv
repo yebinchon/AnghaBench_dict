@@ -1,0 +1,14 @@
+BLK_MAX_CDB,VAR_0
+GPCMD_READ_SUBCHANNEL,VAR_1
+ide_cd_queue_pc,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+ide_cdrom_get_mcn,FUNC_3
+cdi,VAR_2
+mcn_info,VAR_3
+drive,VAR_4
+stat,VAR_5
+mcnlen,VAR_6
+buf,VAR_7
+cmd,VAR_8
+len,VAR_9

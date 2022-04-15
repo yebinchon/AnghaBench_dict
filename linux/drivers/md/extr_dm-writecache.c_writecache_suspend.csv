@@ -1,0 +1,14 @@
+WC_MODE_PMEM,FUNC_0
+del_timer_sync,FUNC_1
+flush_workqueue,FUNC_2
+persistent_memory_flush_cache,FUNC_3
+queue_work,FUNC_4
+wc_lock,FUNC_5
+wc_unlock,FUNC_6
+writecache_flush,FUNC_7
+writecache_poison_lists,FUNC_8
+writecache_wait_for_writeback,FUNC_9
+writecache_suspend,FUNC_10
+ti,VAR_0
+wc,VAR_1
+flush_on_suspend,VAR_2

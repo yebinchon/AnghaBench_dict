@@ -1,0 +1,12 @@
+CMD_THERMAL_GET_TEMP,VAR_0
+MRQ_THERMAL,VAR_1
+memset,FUNC_0
+tegra_bpmp_transfer,FUNC_1
+tegra_bpmp_thermal_get_temp,FUNC_2
+data,VAR_2
+out_temp,VAR_3
+zone,VAR_4
+req,VAR_5
+reply,VAR_6
+msg,VAR_7
+err,VAR_8

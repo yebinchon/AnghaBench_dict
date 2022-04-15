@@ -1,0 +1,9 @@
+B3D_REG_HW_CTRL,VAR_0
+PCI_DMA_FROMDEVICE,VAR_1
+b3dfg_write32,FUNC_0
+dequeue_all_buffers,FUNC_1
+pci_unmap_single,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+handle_cstate_unplug,FUNC_5
+fgdev,VAR_2

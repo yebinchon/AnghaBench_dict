@@ -1,0 +1,14 @@
+IEEE80211_ROC_TYPE_NORMAL,VAR_0
+IEEE80211_WDEV_TO_SUB_IF,FUNC_0
+ieee80211_start_roc_work,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+ieee80211_remain_on_channel,FUNC_4
+wiphy,VAR_1
+wdev,VAR_2
+chan,VAR_3
+duration,VAR_4
+cookie,VAR_5
+sdata,VAR_6
+local,VAR_7
+ret,VAR_8

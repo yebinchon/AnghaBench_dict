@@ -1,0 +1,8 @@
+cl_fixture_cleanup,FUNC_0
+cl_git_pass,FUNC_1
+git_repository_free,FUNC_2
+git_repository_init,FUNC_3
+p_mkdir,FUNC_4
+write_invalid_filename,FUNC_5
+test_index_tests__write_invalid_filename,FUNC_6
+repo,VAR_0

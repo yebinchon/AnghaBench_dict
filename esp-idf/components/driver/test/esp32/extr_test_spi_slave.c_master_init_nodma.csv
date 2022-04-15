@@ -1,0 +1,14 @@
+ESP_OK,VAR_0
+PIN_NUM_CLK,VAR_1
+PIN_NUM_CS,VAR_2
+PIN_NUM_MISO,VAR_3
+PIN_NUM_MOSI,VAR_4
+TEST_ASSERT,FUNC_0
+TEST_SPI_HOST,VAR_5
+spi_bus_add_device,FUNC_1
+spi_bus_initialize,FUNC_2
+master_init_nodma,FUNC_3
+spi,VAR_6
+ret,VAR_7
+buscfg,VAR_8
+devcfg,VAR_9

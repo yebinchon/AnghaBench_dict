@@ -1,0 +1,9 @@
+ESP_EFUSE_FLASH_CRYPT_CNT,VAR_0
+ESP_FLASH_ENC_MODE_DEVELOPMENT,VAR_1
+ESP_FLASH_ENC_MODE_DISABLED,VAR_2
+esp_efuse_read_field_blob,FUNC_0
+esp_get_flash_encryption_mode,FUNC_1
+printf,FUNC_2
+example_print_flash_encryption_status,FUNC_3
+flash_crypt_cnt,VAR_3
+mode,VAR_4

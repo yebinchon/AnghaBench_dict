@@ -1,0 +1,15 @@
+HINIC_CEQ_CMDQ,VAR_0
+HINIC_CMDQ_SYNC,VAR_1
+HINIC_MAX_CMDQ_TYPES,VAR_2
+cmdqs_to_func_to_io,FUNC_0
+devm_kfree,FUNC_1
+dma_pool_destroy,FUNC_2
+free_cmdq,FUNC_3
+hinic_ceq_unregister_cb,FUNC_4
+hinic_wqs_cmdq_free,FUNC_5
+hinic_free_cmdqs,FUNC_6
+cmdqs,VAR_3
+func_to_io,VAR_4
+hwif,VAR_5
+pdev,VAR_6
+cmdq_type,VAR_7

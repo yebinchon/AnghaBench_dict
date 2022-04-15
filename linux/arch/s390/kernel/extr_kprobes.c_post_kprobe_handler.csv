@@ -1,0 +1,13 @@
+KPROBE_HIT_SSDONE,VAR_0
+KPROBE_REENTER,VAR_1
+PSW_MASK_PER,VAR_2
+get_kprobe_ctlblk,FUNC_0
+kprobe_running,FUNC_1
+pop_kprobe,FUNC_2
+preempt_enable_no_resched,FUNC_3
+resume_execution,FUNC_4
+stub1,FUNC_5
+post_kprobe_handler,FUNC_6
+regs,VAR_3
+kcb,VAR_4
+p,VAR_5

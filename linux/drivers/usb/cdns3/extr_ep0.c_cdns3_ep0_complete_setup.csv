@@ -1,0 +1,17 @@
+CDNS3_SETUP_STAGE,VAR_0
+EP_CMD_ERDY,VAR_1
+EP_CMD_REQ_CMPL,VAR_2
+EP_CMD_SSTALL,VAR_3
+cdns3_allow_enable_l1,FUNC_0
+cdns3_next_request,FUNC_1
+cdns3_prepare_setup_packet,FUNC_2
+cdns3_select_ep,FUNC_3
+list_del_init,FUNC_4
+trace_cdns3_halt,FUNC_5
+writel,FUNC_6
+cdns3_ep0_complete_setup,FUNC_7
+priv_dev,VAR_4
+send_stall,VAR_5
+send_erdy,VAR_6
+priv_ep,VAR_7
+request,VAR_8

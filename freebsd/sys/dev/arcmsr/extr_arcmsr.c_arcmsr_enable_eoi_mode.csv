@@ -1,0 +1,8 @@
+ACB_ADAPTER_TYPE_B,VAR_0
+ARCMSR_MESSAGE_ACTIVE_EOI_MODE,VAR_1
+WRITE_CHIP_REG32,FUNC_0
+arcmsr_hbb_wait_msgint_ready,FUNC_1
+printf,FUNC_2
+arcmsr_enable_eoi_mode,FUNC_3
+acb,VAR_2
+phbbmu,VAR_3

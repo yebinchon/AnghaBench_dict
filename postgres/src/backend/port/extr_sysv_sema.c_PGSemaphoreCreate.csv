@@ -1,0 +1,16 @@
+Assert,FUNC_0
+IpcSemaphoreCreate,FUNC_1
+IpcSemaphoreInitialize,FUNC_2
+IsUnderPostmaster,VAR_0
+PANIC,VAR_1
+SEMAS_PER_SET,VAR_2
+elog,FUNC_3
+maxSemaSets,VAR_3
+maxSharedSemas,VAR_4
+mySemaSets,VAR_5
+nextSemaNumber,VAR_6
+numSemaSets,VAR_7
+numSharedSemas,VAR_8
+sharedSemas,VAR_9
+PGSemaphoreCreate,FUNC_4
+sema,VAR_10

@@ -1,0 +1,9 @@
+MIPI_DCS_ENTER_SLEEP_MODE,VAR_0
+ST7701_DSI,FUNC_0
+gpiod_set_value,FUNC_1
+msleep,FUNC_2
+panel_to_st7701,FUNC_3
+regulator_bulk_disable,FUNC_4
+st7701_unprepare,FUNC_5
+panel,VAR_1
+st7701,VAR_2

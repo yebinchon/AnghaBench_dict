@@ -1,0 +1,13 @@
+Min,FUNC_0
+PGC_POSTMASTER,VAR_0
+PGC_S_ENV_VAR,VAR_1
+STACK_DEPTH_SLOP,VAR_2
+SetConfigOption,FUNC_1
+get_stack_depth_rlimit,FUNC_2
+getenv,FUNC_3
+sprintf,FUNC_4
+InitializeGUCOptionsFromEnvironment,FUNC_5
+env,VAR_3
+stack_rlimit,VAR_4
+new_limit,VAR_5
+limbuf,VAR_6

@@ -1,0 +1,15 @@
+KVM_GUESTDBG_EXIT_PENDING,VAR_0
+PGM_SPACE_SWITCH,VAR_1
+PSW_BITS_AS_HOME,VAR_2
+PSW_BITS_AS_PRIMARY,VAR_3
+debug_exit_required,FUNC_0
+filter_guest_per_event,FUNC_1
+hssec,FUNC_2
+old_as_is_home,FUNC_3
+old_ssec,FUNC_4
+pssec,FUNC_5
+psw_bits,FUNC_6
+kvm_s390_handle_per_event,FUNC_7
+vcpu,VAR_4
+rc,VAR_5
+new_as,VAR_6

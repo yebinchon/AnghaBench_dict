@@ -1,0 +1,11 @@
+Assert,FUNC_0
+DatumGetBool,FUNC_1
+EXCLUSIVE_BACKUP_IN_PROGRESS,VAR_0
+EXCLUSIVE_BACKUP_STOPPING,VAR_1
+WALInsertLockAcquireExclusive,FUNC_2
+WALInsertLockRelease,FUNC_3
+XLogCtl,VAR_2
+pg_stop_backup_callback,FUNC_4
+code,VAR_3
+arg,VAR_4
+exclusive,VAR_5

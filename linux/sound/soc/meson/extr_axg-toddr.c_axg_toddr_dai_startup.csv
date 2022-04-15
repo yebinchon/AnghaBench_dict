@@ -1,0 +1,17 @@
+AXG_FIFO_MIN_CNT,VAR_0
+CTRL0_TODDR_EXT_SIGNED,VAR_1
+CTRL0_TODDR_PP_MODE,VAR_2
+CTRL0_TODDR_SEL_RESAMPLE,VAR_3
+CTRL1_THRESHOLD,FUNC_0
+CTRL1_THRESHOLD_MASK,VAR_4
+FIFO_CTRL0,VAR_5
+FIFO_CTRL1,VAR_6
+clk_prepare_enable,FUNC_1
+regmap_update_bits,FUNC_2
+snd_soc_dai_get_drvdata,FUNC_3
+axg_toddr_dai_startup,FUNC_4
+substream,VAR_7
+dai,VAR_8
+fifo,VAR_9
+fifo_threshold,VAR_10
+ret,VAR_11

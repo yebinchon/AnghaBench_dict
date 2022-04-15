@@ -1,0 +1,17 @@
+enetc_clear_bdrs,FUNC_0
+enetc_disable_interrupts,FUNC_1
+enetc_free_irqs,FUNC_2
+enetc_free_rx_resources,FUNC_3
+enetc_free_rxtx_rings,FUNC_4
+enetc_free_tx_resources,FUNC_5
+napi_disable,FUNC_6
+napi_synchronize,FUNC_7
+netdev_priv,FUNC_8
+netif_carrier_off,FUNC_9
+netif_tx_stop_all_queues,FUNC_10
+phy_disconnect,FUNC_11
+phy_stop,FUNC_12
+enetc_close,FUNC_13
+ndev,VAR_0
+priv,VAR_1
+i,VAR_2

@@ -1,0 +1,11 @@
+MVPP2_GMAC_CTRL_1_REG,VAR_0
+MVPP2_GMAC_GMII_LB_EN_MASK,VAR_1
+MVPP2_GMAC_PCS_LB_EN_MASK,VAR_2
+PHY_INTERFACE_MODE_SGMII,VAR_3
+phy_interface_mode_is_8023z,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+mvpp2_port_loopback_set,FUNC_3
+port,VAR_4
+state,VAR_5
+val,VAR_6

@@ -1,0 +1,16 @@
+INIT_WORK,FUNC_0
+NIU_NUM_TXCHAN,VAR_0
+SET_NETDEV_DEV,FUNC_1
+alloc_etherdev_mq,FUNC_2
+netdev_priv,FUNC_3
+niu_debug,VAR_1
+niu_reset_task,VAR_2
+spin_lock_init,FUNC_4
+niu_alloc_and_init,FUNC_5
+gen_dev,VAR_3
+pdev,VAR_4
+op,VAR_5
+ops,VAR_6
+port,VAR_7
+dev,VAR_8
+np,VAR_9

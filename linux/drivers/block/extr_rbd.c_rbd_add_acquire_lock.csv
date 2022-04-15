@@ -1,0 +1,14 @@
+CEPH_NOSNAP,VAR_0
+EINVAL,VAR_1
+ETIMEDOUT,VAR_2
+RBD_FEATURE_EXCLUSIVE_LOCK,VAR_3
+cancel_delayed_work_sync,FUNC_0
+ceph_timeout_jiffies,FUNC_1
+queue_delayed_work,FUNC_2
+rbd_assert,FUNC_3
+rbd_is_lock_owner,FUNC_4
+rbd_warn,FUNC_5
+wait_for_completion_killable_timeout,FUNC_6
+rbd_add_acquire_lock,FUNC_7
+rbd_dev,VAR_4
+ret,VAR_5

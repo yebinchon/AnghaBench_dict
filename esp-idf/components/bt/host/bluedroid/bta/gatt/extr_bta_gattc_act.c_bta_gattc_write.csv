@@ -1,0 +1,12 @@
+BTA_GATT_OK,VAR_0
+GATTC_OPTYPE_WRITE,VAR_1
+GATTC_Write,FUNC_0
+bta_gattc_cmpl_sendmsg,FUNC_1
+bta_gattc_enqueue,FUNC_2
+bta_gattc_pop_command_to_send,FUNC_3
+memcpy,FUNC_4
+bta_gattc_write,FUNC_5
+p_clcb,VAR_2
+p_data,VAR_3
+status,VAR_4
+attr,VAR_5

@@ -1,0 +1,14 @@
+r600_is_internal_thermal_sensor,FUNC_0
+radeon_irq_set,FUNC_1
+sumo_clear_vc,FUNC_2
+sumo_disable_clock_power_gating,FUNC_3
+sumo_dpm_enabled,FUNC_4
+sumo_enable_sclk_ds,FUNC_5
+sumo_enable_voltage_scaling,FUNC_6
+sumo_get_pi,FUNC_7
+sumo_stop_dpm,FUNC_8
+sumo_update_current_ps,FUNC_9
+sumo_wait_for_level_0,FUNC_10
+sumo_dpm_disable,FUNC_11
+rdev,VAR_0
+pi,VAR_1

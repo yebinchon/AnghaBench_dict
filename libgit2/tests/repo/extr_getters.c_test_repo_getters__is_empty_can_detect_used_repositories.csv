@@ -1,0 +1,8 @@
+cl_assert_equal_i,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+git_repository_free,FUNC_3
+git_repository_is_empty,FUNC_4
+git_repository_open,FUNC_5
+test_repo_getters__is_empty_can_detect_used_repositories,FUNC_6
+repo,VAR_0

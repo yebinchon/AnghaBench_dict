@@ -1,0 +1,10 @@
+ACPI_SERIAL_ASSERT,FUNC_0
+TRUE,VAR_0
+acpi_battery_get_info_expire,FUNC_1
+getnanotime,FUNC_2
+smbat,VAR_1
+timespecisset,FUNC_3
+timespecsub,FUNC_4
+acpi_smbat_info_expired,FUNC_5
+lastupdated,VAR_2
+curtime,VAR_3

@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+IMX5_DEFAULT_CPU_IDLE_STATE,VAR_1
+MXC_SRPG_EMPGC0_SRPGCR,VAR_2
+MXC_SRPG_EMPGC1_SRPGCR,VAR_3
+STOP_POWER_OFF,VAR_4
+cpu_do_idle,FUNC_0
+flush_cache_all,FUNC_1
+gpc_base,VAR_5
+imx5_suspend_in_ocram_fn,FUNC_2
+imx_writel,FUNC_3
+local_flush_tlb_all,FUNC_4
+mx5_cpu_lp_set,FUNC_5
+suspend_ocram_base,VAR_6
+mx5_suspend_enter,FUNC_6
+state,VAR_7

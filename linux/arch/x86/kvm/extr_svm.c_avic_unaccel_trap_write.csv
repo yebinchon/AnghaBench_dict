@@ -1,0 +1,10 @@
+AVIC_UNACCEL_ACCESS_OFFSET_MASK,VAR_0
+avic_handle_apic_id_update,FUNC_0
+avic_handle_dfr_update,FUNC_1
+avic_handle_ldr_update,FUNC_2
+kvm_lapic_get_reg,FUNC_3
+kvm_lapic_reg_write,FUNC_4
+avic_unaccel_trap_write,FUNC_5
+svm,VAR_1
+apic,VAR_2
+offset,VAR_3

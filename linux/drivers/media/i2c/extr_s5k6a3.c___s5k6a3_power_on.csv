@@ -1,0 +1,15 @@
+S5K6A3_NUM_SUPPLIES,VAR_0
+S5K6A3_SUPP_VDDA,VAR_1
+clk_prepare_enable,FUNC_0
+clk_set_rate,FUNC_1
+gpio_set_value,FUNC_2
+msleep,FUNC_3
+pm_runtime_get,FUNC_4
+pm_runtime_put,FUNC_5
+regulator_disable,FUNC_6
+regulator_enable,FUNC_7
+usleep_range,FUNC_8
+__s5k6a3_power_on,FUNC_9
+sensor,VAR_2
+i,VAR_3
+ret,VAR_4

@@ -1,0 +1,13 @@
+MCC_CQ_LEN,VAR_0
+MCC_Q_LEN,VAR_1
+QTYPE_CQ,VAR_2
+be_cmd_cq_create,FUNC_0
+be_cmd_mccq_create,FUNC_1
+be_cmd_q_destroy,FUNC_2
+be_queue_alloc,FUNC_3
+be_queue_free,FUNC_4
+mcc_eqo,FUNC_5
+be_mcc_queues_create,FUNC_6
+adapter,VAR_3
+q,VAR_4
+cq,VAR_5

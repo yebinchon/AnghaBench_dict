@@ -1,0 +1,16 @@
+HCLGEVF_RSS_HASH_ALGO_SIMPLE,VAR_0
+HCLGEVF_RSS_IND_TBL_SIZE,VAR_1
+HCLGEVF_RSS_INPUT_TUPLE_OTHER,VAR_2
+HCLGEVF_RSS_INPUT_TUPLE_SCTP,VAR_3
+HCLGEVF_RSS_KEY_SIZE,VAR_4
+hclgevf_hash_key,VAR_5
+hclgevf_set_rss_algo_key,FUNC_0
+hclgevf_set_rss_indir_table,FUNC_1
+hclgevf_set_rss_input_tuple,FUNC_2
+hclgevf_set_rss_tc_mode,FUNC_3
+memcpy,FUNC_4
+hclgevf_rss_init_hw,FUNC_5
+hdev,VAR_6
+rss_cfg,VAR_7
+ret,VAR_8
+i,VAR_9

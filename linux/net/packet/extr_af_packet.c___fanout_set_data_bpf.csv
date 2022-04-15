@@ -1,0 +1,11 @@
+bpf_prog_destroy,FUNC_0
+lockdep_is_held,FUNC_1
+rcu_assign_pointer,FUNC_2
+rcu_dereference_protected,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+synchronize_net,FUNC_6
+__fanout_set_data_bpf,FUNC_7
+f,VAR_0
+new,VAR_1
+old,VAR_2

@@ -1,0 +1,11 @@
+CONFIG_ESP_CONSOLE_UART_NUM,VAR_0
+UART0,VAR_1
+fflush,FUNC_0
+fwrite,FUNC_1
+portTICK_PERIOD_MS,VAR_2
+stdout,VAR_3
+uart_tx_wait_idle,FUNC_2
+vTaskDelay,FUNC_3
+fwrite_str_loopback,FUNC_4
+str,VAR_4
+size,VAR_5

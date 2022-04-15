@@ -1,0 +1,16 @@
+SNDRV_PCM_FMTBIT_S32,VAR_0
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_1
+SNDRV_PCM_HW_PARAM_RATE,VAR_2
+SNDRV_PCM_STREAM_CAPTURE,VAR_3
+amdtp_ff_add_pcm_hw_constraints,FUNC_0
+hw_rule_channels,VAR_4
+hw_rule_rate,VAR_5
+limit_channels_and_rates,FUNC_1
+snd_pcm_hw_rule_add,FUNC_2
+pcm_init_hw_params,FUNC_3
+ff,VAR_6
+substream,VAR_7
+runtime,VAR_8
+s,VAR_9
+pcm_channels,VAR_10
+err,VAR_11

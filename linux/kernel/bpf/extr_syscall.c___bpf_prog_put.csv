@@ -1,0 +1,8 @@
+PERF_BPF_EVENT_PROG_UNLOAD,VAR_0
+__bpf_prog_put_noref,FUNC_0
+atomic_dec_and_test,FUNC_1
+bpf_prog_free_id,FUNC_2
+perf_event_bpf_event,FUNC_3
+__bpf_prog_put,FUNC_4
+prog,VAR_1
+do_idr_lock,VAR_2

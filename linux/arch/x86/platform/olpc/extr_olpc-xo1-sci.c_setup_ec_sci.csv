@@ -1,0 +1,12 @@
+GPIO_EVENTS_ENABLE,VAR_0
+GPIO_NEGATIVE_EDGE_STS,VAR_1
+GPIO_POSITIVE_EDGE_STS,VAR_2
+OLPC_GPIO_ECSCI,VAR_3
+cs5535_gpio_set,FUNC_0
+cs5535_gpio_setup_event,FUNC_1
+cs5535_pic_unreqz_select_high,FUNC_2
+gpio_direction_input,FUNC_3
+gpio_request,FUNC_4
+sci_irq,VAR_4
+setup_ec_sci,FUNC_5
+r,VAR_5

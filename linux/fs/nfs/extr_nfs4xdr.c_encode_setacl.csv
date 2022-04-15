@@ -1,0 +1,14 @@
+FATTR4_WORD0_ACL,VAR_0
+OP_SETATTR,VAR_1
+cpu_to_be32,FUNC_0
+decode_setacl_maxsz,VAR_2
+encode_nfs4_stateid,FUNC_1
+encode_op_hdr,FUNC_2
+reserve_space,FUNC_3
+xdr_write_pages,FUNC_4
+zero_stateid,VAR_3
+encode_setacl,FUNC_5
+xdr,VAR_4
+arg,VAR_5
+hdr,VAR_6
+p,VAR_7

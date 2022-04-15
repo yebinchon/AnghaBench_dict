@@ -1,0 +1,12 @@
+MT6358_AUDIO_DIG_CFG,VAR_0
+RG_AUD_PAD_TOP_PHASE_MODE2_MASK_SFT,VAR_1
+RG_AUD_PAD_TOP_PHASE_MODE2_SFT,VAR_2
+RG_AUD_PAD_TOP_PHASE_MODE_MASK_SFT,VAR_3
+RG_AUD_PAD_TOP_PHASE_MODE_SFT,VAR_4
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+mt6358_set_mtkaif_calibration_phase,FUNC_2
+cmpnt,VAR_5
+phase_1,VAR_6
+phase_2,VAR_7
+priv,VAR_8

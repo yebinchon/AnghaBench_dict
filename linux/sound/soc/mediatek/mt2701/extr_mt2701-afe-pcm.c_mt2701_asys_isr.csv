@@ -1,0 +1,15 @@
+ASYS_IRQ_CLR,VAR_0
+ASYS_IRQ_STATUS,VAR_1
+IRQ_HANDLED,VAR_2
+MT2701_MEMIF_NUM,VAR_3
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+snd_pcm_period_elapsed,FUNC_2
+mt2701_asys_isr,FUNC_3
+irq_id,VAR_4
+dev,VAR_5
+id,VAR_6
+afe,VAR_7
+memif,VAR_8
+irq,VAR_9
+status,VAR_10

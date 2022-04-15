@@ -1,0 +1,14 @@
+AF_LOCAL,VAR_0
+SIOCSIFCAP,VAR_1
+ifconfig_get_capability,FUNC_0
+ifconfig_ioctlwrap,FUNC_1
+memset,FUNC_2
+strlcpy,FUNC_3
+ifconfig_set_capability,FUNC_4
+h,VAR_2
+name,VAR_3
+capability,VAR_4
+ifr,VAR_5
+ifcap,VAR_6
+flags,VAR_7
+value,VAR_8

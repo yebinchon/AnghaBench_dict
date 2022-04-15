@@ -1,0 +1,12 @@
+BTRFS_QGROUP_STATUS_FLAG_RESCAN,VAR_0
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+btrfs_commit_transaction,FUNC_2
+btrfs_join_transaction,FUNC_3
+btrfs_queue_work,FUNC_4
+qgroup_rescan_init,FUNC_5
+qgroup_rescan_zero_tracking,FUNC_6
+btrfs_qgroup_rescan,FUNC_7
+fs_info,VAR_1
+ret,VAR_2
+trans,VAR_3

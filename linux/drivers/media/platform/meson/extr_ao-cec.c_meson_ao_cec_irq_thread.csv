@@ -1,0 +1,11 @@
+CEC_INTR_STAT_REG,VAR_0
+CEC_INTR_TX,VAR_1
+IRQ_HANDLED,VAR_2
+meson_ao_cec_irq_rx,FUNC_0
+meson_ao_cec_irq_tx,FUNC_1
+readl_relaxed,FUNC_2
+meson_ao_cec_irq_thread,FUNC_3
+irq,VAR_3
+data,VAR_4
+ao_cec,VAR_5
+stat,VAR_6

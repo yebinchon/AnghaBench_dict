@@ -1,0 +1,14 @@
+HostCmd_CMD_CHAN_REPORT_REQUEST,VAR_0
+MSG,VAR_1
+MWIFIEX_A_BAND_START_FREQ,VAR_2
+S_DS_GEN,VAR_3
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+le16_unaligned_add_cpu,FUNC_2
+mwifiex_dbg,FUNC_3
+mwifiex_cmd_issue_chan_report_request,FUNC_4
+priv,VAR_4
+cmd,VAR_5
+data_buf,VAR_6
+cr_req,VAR_7
+radar_params,VAR_8

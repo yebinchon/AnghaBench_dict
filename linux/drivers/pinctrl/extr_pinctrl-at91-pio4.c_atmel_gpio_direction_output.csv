@@ -1,0 +1,16 @@
+ATMEL_PIO_CFGR,VAR_0
+ATMEL_PIO_CODR,VAR_1
+ATMEL_PIO_DIR_MASK,VAR_2
+ATMEL_PIO_MSKR,VAR_3
+ATMEL_PIO_SODR,VAR_4
+BIT,FUNC_0
+atmel_gpio_read,FUNC_1
+atmel_gpio_write,FUNC_2
+gpiochip_get_data,FUNC_3
+atmel_gpio_direction_output,FUNC_4
+chip,VAR_5
+offset,VAR_6
+value,VAR_7
+atmel_pioctrl,VAR_8
+pin,VAR_9
+reg,VAR_10

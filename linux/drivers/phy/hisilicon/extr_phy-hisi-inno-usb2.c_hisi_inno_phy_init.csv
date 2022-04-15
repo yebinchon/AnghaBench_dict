@@ -1,0 +1,13 @@
+POR_RST_COMPLETE_TIME,VAR_0
+REF_CLK_STABLE_TIME,VAR_1
+UTMI_RST_COMPLETE_TIME,VAR_2
+clk_prepare_enable,FUNC_0
+hisi_inno_phy_setup,FUNC_1
+phy_get_drvdata,FUNC_2
+reset_control_deassert,FUNC_3
+udelay,FUNC_4
+hisi_inno_phy_init,FUNC_5
+phy,VAR_3
+port,VAR_4
+priv,VAR_5
+ret,VAR_6

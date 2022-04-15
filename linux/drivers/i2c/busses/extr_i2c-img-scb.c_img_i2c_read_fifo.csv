@@ -1,0 +1,11 @@
+FIFO_READ_EMPTY,VAR_0
+SCB_FIFO_STATUS_REG,VAR_1
+SCB_READ_DATA_REG,VAR_2
+SCB_READ_FIFO_REG,VAR_3
+img_i2c_readl,FUNC_0
+img_i2c_wr_rd_fence,FUNC_1
+img_i2c_writel,FUNC_2
+img_i2c_read_fifo,FUNC_3
+i2c,VAR_4
+fifo_status,VAR_5
+data,VAR_6

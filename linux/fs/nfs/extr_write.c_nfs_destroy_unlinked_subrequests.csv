@@ -1,0 +1,17 @@
+NFS_I,FUNC_0
+PG_INODE_REF,VAR_0
+PG_REMOVE,VAR_1
+PG_TEARDOWN,VAR_2
+WARN_ON_ONCE,FUNC_1
+atomic_long_dec,FUNC_2
+clear_bit,FUNC_3
+kref_read,FUNC_4
+nfs_free_request,FUNC_5
+nfs_release_request,FUNC_6
+nfs_unlock_and_release_request,FUNC_7
+test_and_clear_bit,FUNC_8
+nfs_destroy_unlinked_subrequests,FUNC_9
+destroy_list,VAR_3
+old_head,VAR_4
+inode,VAR_5
+subreq,VAR_6

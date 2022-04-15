@@ -1,0 +1,13 @@
+atl1c_hw_set_mac_addr,FUNC_0
+atl1c_phy_disable,FUNC_1
+free_netdev,FUNC_2
+iounmap,FUNC_3
+netdev_priv,FUNC_4
+pci_disable_device,FUNC_5
+pci_get_drvdata,FUNC_6
+pci_release_regions,FUNC_7
+unregister_netdev,FUNC_8
+atl1c_remove,FUNC_9
+pdev,VAR_0
+netdev,VAR_1
+adapter,VAR_2

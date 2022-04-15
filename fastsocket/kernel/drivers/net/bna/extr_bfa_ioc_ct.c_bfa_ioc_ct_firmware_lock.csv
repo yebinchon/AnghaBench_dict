@@ -1,0 +1,16 @@
+BFA_IOC_FWIMG_MINSZ,VAR_0
+BFI_IOC_UNINIT,VAR_1
+BUG_ON,FUNC_0
+bfa_cb_image_get_size,FUNC_1
+bfa_ioc_asic_gen,FUNC_2
+bfa_nw_ioc_fwver_cmp,FUNC_3
+bfa_nw_ioc_fwver_get,FUNC_4
+bfa_nw_ioc_sem_get,FUNC_5
+bfa_nw_ioc_sem_release,FUNC_6
+readl,FUNC_7
+writel,FUNC_8
+bfa_ioc_ct_firmware_lock,FUNC_9
+ioc,VAR_2
+ioc_fwstate,VAR_3
+usecnt,VAR_4
+fwhdr,VAR_5

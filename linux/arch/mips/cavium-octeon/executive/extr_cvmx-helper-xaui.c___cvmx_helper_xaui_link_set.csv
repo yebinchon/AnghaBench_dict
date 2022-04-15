@@ -1,0 +1,11 @@
+CVMX_GMXX_RX_XAUI_CTL,FUNC_0
+CVMX_GMXX_TX_XAUI_CTL,FUNC_1
+__cvmx_helper_xaui_enable,FUNC_2
+cvmx_helper_get_interface_num,FUNC_3
+cvmx_read_csr,FUNC_4
+__cvmx_helper_xaui_link_set,FUNC_5
+ipd_port,VAR_0
+link_info,VAR_1
+interface,VAR_2
+gmxx_tx_xaui_ctl,VAR_3
+gmxx_rx_xaui_ctl,VAR_4

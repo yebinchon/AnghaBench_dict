@@ -1,0 +1,15 @@
+F_WRLCK,VAR_0
+SEEK_SET,VAR_1
+SHARED_FIRST,VAR_2
+SHARED_SIZE,VAR_3
+UNIXFILE_EXCL,VAR_4
+UNIXFILE_RDONLY,VAR_5
+assert,FUNC_0
+osSetPosixAdvisoryLock,FUNC_1
+unixMutexHeld,FUNC_2
+unixFileLock,FUNC_3
+pFile,VAR_6
+pLock,VAR_7
+rc,VAR_8
+pInode,VAR_9
+lock,VAR_10

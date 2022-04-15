@@ -1,0 +1,9 @@
+EVENT_STAMODE_DISCONNECTED,VAR_0
+lua_isfunction,FUNC_0
+lua_pushnumber,FUNC_1
+lua_pushvalue,FUNC_2
+lua_remove,FUNC_3
+wifi_event_monitor_register,FUNC_4
+wifi_station_disconnect,FUNC_5
+wifi_station_disconnect4lua,FUNC_6
+L,VAR_1

@@ -1,0 +1,15 @@
+config_GetFloat,FUNC_0
+config_GetInt,FUNC_1
+config_GetPsz,FUNC_2
+config_GetType,FUNC_3
+free,FUNC_4
+luaL_checkstring,FUNC_5
+lua_pushboolean,FUNC_6
+lua_pushinteger,FUNC_7
+lua_pushnumber,FUNC_8
+lua_pushstring,FUNC_9
+vlclua_error,FUNC_10
+vlclua_config_get,FUNC_11
+L,VAR_0
+psz_name,VAR_1
+psz,VAR_2

@@ -1,0 +1,15 @@
+SSI_POLL_TIMEOUT_US,VAR_0
+SSI_SR,VAR_1
+SSI_SR_RNE,VAR_2
+ndelay,FUNC_0
+readl,FUNC_1
+spi_master_get_devdata,FUNC_2
+uniphier_spi_fill_tx_fifo,FUNC_3
+uniphier_spi_recv,FUNC_4
+uniphier_spi_transfer_one_irq,FUNC_5
+uniphier_spi_transfer_one_poll,FUNC_6
+master,VAR_3
+spi,VAR_4
+t,VAR_5
+priv,VAR_6
+loop,VAR_7

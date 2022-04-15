@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ICE1712_IREG_PBK_CTRL,VAR_1
+SNDRV_PCM_TRIGGER_PAUSE_PUSH,VAR_2
+SNDRV_PCM_TRIGGER_PAUSE_RELEASE,VAR_3
+SNDRV_PCM_TRIGGER_START,VAR_4
+SNDRV_PCM_TRIGGER_STOP,VAR_5
+snd_ice1712_read,FUNC_0
+snd_ice1712_write,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+snd_ice1712_playback_trigger,FUNC_5
+substream,VAR_6
+cmd,VAR_7
+ice,VAR_8
+result,VAR_9
+tmp,VAR_10

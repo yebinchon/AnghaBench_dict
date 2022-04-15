@@ -1,0 +1,14 @@
+KERNEL_SERVICE__CREATE_FILES_AS,VAR_0
+SECCLASS_KERNEL_SERVICE,VAR_1
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+inode_security,FUNC_2
+selinux_cred,FUNC_3
+selinux_state,VAR_2
+selinux_kernel_create_files_as,FUNC_4
+new,VAR_3
+inode,VAR_4
+isec,VAR_5
+tsec,VAR_6
+sid,VAR_7
+ret,VAR_8

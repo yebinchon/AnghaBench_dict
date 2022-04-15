@@ -1,0 +1,10 @@
+ACPI_INTERRUPT_HANDLED,VAR_0
+advance_transaction,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+acpi_ec_gpe_handler,FUNC_3
+gpe_device,VAR_1
+gpe_number,VAR_2
+data,VAR_3
+flags,VAR_4
+ec,VAR_5

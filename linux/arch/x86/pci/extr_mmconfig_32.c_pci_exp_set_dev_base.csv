@@ -1,0 +1,12 @@
+FIX_PCIE_MCFG,VAR_0
+PCI_MMCFG_BUS_OFFSET,FUNC_0
+mmcfg_last_accessed_cpu,VAR_1
+mmcfg_last_accessed_device,VAR_2
+set_fixmap_nocache,FUNC_1
+smp_processor_id,FUNC_2
+pci_exp_set_dev_base,FUNC_3
+base,VAR_3
+bus,VAR_4
+devfn,VAR_5
+dev_base,VAR_6
+cpu,VAR_7

@@ -1,0 +1,15 @@
+append_socket_pair,FUNC_0
+assert,FUNC_1
+close_all_fds,FUNC_2
+memcpy,FUNC_3
+close_remaining_fds,FUNC_4
+params,VAR_0
+runtime,VAR_1
+dcreds,VAR_2
+user_lookup_fd,VAR_3
+socket_fd,VAR_4
+exec_fd,VAR_5
+fds,VAR_6
+n_fds,VAR_7
+n_dont_close,VAR_8
+dont_close,VAR_9

@@ -1,0 +1,12 @@
+AL_PCIE_OPERATING_MODE_RC,VAR_0
+AL_PCI_EXP_LNKCTL,VAR_1
+AL_PCI_EXP_LNKCTL_LNK_RTRN,VAR_2
+EINVAL,VAR_3
+al_err,FUNC_0
+al_pcie_is_link_started,FUNC_1
+al_pcie_operating_mode_get,FUNC_2
+al_reg_write32_masked,FUNC_3
+al_pcie_link_retrain,FUNC_4
+pcie_port,VAR_4
+regs,VAR_5
+op_mode,VAR_6

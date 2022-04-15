@@ -1,0 +1,16 @@
+DRM_DEBUG_KMS,FUNC_0
+WARN_ON,FUNC_1
+assert_shared_dpll_enabled,FUNC_2
+drm_crtc_mask,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+stub1,FUNC_6
+to_i915,FUNC_7
+to_intel_crtc,FUNC_8
+intel_enable_shared_dpll,FUNC_9
+crtc_state,VAR_0
+crtc,VAR_1
+dev_priv,VAR_2
+pll,VAR_3
+crtc_mask,VAR_4
+old_mask,VAR_5

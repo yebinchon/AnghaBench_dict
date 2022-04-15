@@ -1,0 +1,8 @@
+PCI_MEMORY_BASE,VAR_0
+PCI_PREF_BASE_UPPER32,VAR_1
+PCI_PREF_LIMIT_UPPER32,VAR_2
+PCI_PREF_MEMORY_BASE,VAR_3
+dev_info,FUNC_0
+pci_write_config_dword,FUNC_1
+pci_disable_bridge_window,FUNC_2
+dev,VAR_4

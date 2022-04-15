@@ -1,0 +1,9 @@
+GAMMA_CORR_CONTROL,VAR_0
+GAMMA_CORR_MODE,VAR_1
+dm_write_reg,FUNC_0
+mmGAMMA_CORR_CONTROL,VAR_2
+set_reg_field_value,FUNC_1
+configure_regamma_mode,FUNC_2
+xfm_dce,VAR_3
+mode,VAR_4
+value,VAR_5

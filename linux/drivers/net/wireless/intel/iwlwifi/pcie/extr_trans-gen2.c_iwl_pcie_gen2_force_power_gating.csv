@@ -1,0 +1,13 @@
+CSR_GP_CNTRL,VAR_0
+CSR_GP_CNTRL_REG_FLAG_INIT_DONE,VAR_1
+HPM_HIPM_GEN_CFG,VAR_2
+HPM_HIPM_GEN_CFG_CR_FORCE_ACTIVE,VAR_3
+HPM_HIPM_GEN_CFG_CR_PG_EN,VAR_4
+HPM_HIPM_GEN_CFG_CR_SLP_EN,VAR_5
+iwl_clear_bit,FUNC_0
+iwl_clear_bits_prph,FUNC_1
+iwl_set_bits_prph,FUNC_2
+iwl_trans_sw_reset,FUNC_3
+udelay,FUNC_4
+iwl_pcie_gen2_force_power_gating,FUNC_5
+trans,VAR_6

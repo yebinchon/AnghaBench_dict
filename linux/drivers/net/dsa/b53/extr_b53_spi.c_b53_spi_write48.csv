@@ -1,0 +1,13 @@
+B53_SPI_CMD_NORMAL,VAR_0
+B53_SPI_CMD_WRITE,VAR_1
+b53_prepare_reg_access,FUNC_0
+put_unaligned_le64,FUNC_1
+spi_write,FUNC_2
+b53_spi_write48,FUNC_3
+dev,VAR_2
+page,VAR_3
+reg,VAR_4
+value,VAR_5
+spi,VAR_6
+ret,VAR_7
+txbuf,VAR_8

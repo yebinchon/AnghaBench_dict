@@ -1,0 +1,12 @@
+HCLGE_LINK_EVENT_REPORT_EN_B,VAR_0
+HCLGE_NCSI_ERROR_REPORT_EN_B,VAR_1
+HCLGE_OPC_M7_COMPAT_CFG,VAR_2
+cpu_to_le32,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hnae3_set_bit,FUNC_3
+hclge_firmware_compat_config,FUNC_4
+hdev,VAR_3
+req,VAR_4
+desc,VAR_5
+compat,VAR_6

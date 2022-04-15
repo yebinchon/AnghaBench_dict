@@ -1,0 +1,14 @@
+DIV_FROM_REG,FUNC_0
+FAN_RPM_MAX,VAR_0
+FAN_RPM_MIN,VAR_1
+MAX6650_CFG_MODE_OFF,VAR_2
+MAX6650_REG_SPEED,VAR_3
+clamp_val,FUNC_1
+clock,VAR_4
+i2c_smbus_write_byte_data,FUNC_2
+max6650_set_operating_mode,FUNC_3
+max6650_set_target,FUNC_4
+data,VAR_5
+rpm,VAR_6
+kscale,VAR_7
+ktach,VAR_8

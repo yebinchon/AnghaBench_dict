@@ -1,0 +1,15 @@
+SKB_GSO_GRE,VAR_0
+TUNNEL_CSUM,VAR_1
+TUNNEL_KEY,VAR_2
+TUNNEL_SEQ,VAR_3
+csum_fold,FUNC_0
+skb_checksum,FUNC_1
+skb_push,FUNC_2
+skb_shinfo,FUNC_3
+tnl_flags_to_gre_flags,FUNC_4
+gre_build_header,FUNC_5
+skb,VAR_4
+tpi,VAR_5
+hdr_len,VAR_6
+greh,VAR_7
+ptr,VAR_8

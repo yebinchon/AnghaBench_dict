@@ -1,0 +1,14 @@
+BMCR_RESET,VAR_0
+MII_BMCR,VAR_1
+msleep,FUNC_0
+netdev_priv,FUNC_1
+smc_phy_read,FUNC_2
+smc_phy_write,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+smc_phy_reset,FUNC_6
+dev,VAR_2
+phy,VAR_3
+lp,VAR_4
+bmcr,VAR_5
+timeout,VAR_6

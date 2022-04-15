@@ -1,0 +1,10 @@
+EM_SETOLECALLBACK,VAR_0
+STGM_DELETEONRELEASE,VAR_1
+STGM_READWRITE,VAR_2
+STGM_SHARE_EXCLUSIVE,VAR_3
+SendMessageW,FUNC_0
+StgCreateDocfile,FUNC_1
+olecallback,VAR_4
+setup_richedit_olecallback,FUNC_2
+hEditorWnd,VAR_5
+hr,VAR_6

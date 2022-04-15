@@ -1,0 +1,16 @@
+DEBUGFUNC,FUNC_0
+E1000_EECD,VAR_0
+E1000_EECD_CS,VAR_1
+E1000_EECD_SK,VAR_2
+E1000_READ_REG,FUNC_1
+E1000_WRITE_FLUSH,FUNC_2
+E1000_WRITE_REG,FUNC_3
+e1000_lower_eec_clk,FUNC_4
+e1000_nvm_eeprom_microwire,VAR_3
+e1000_nvm_eeprom_spi,VAR_4
+e1000_raise_eec_clk,FUNC_5
+usec_delay,FUNC_6
+e1000_standby_nvm,FUNC_7
+hw,VAR_5
+nvm,VAR_6
+eecd,VAR_7

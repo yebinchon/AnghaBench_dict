@@ -1,0 +1,17 @@
+EROFS,VAR_0
+JFFS2_SB_FLAG_RO,VAR_1
+JFFS2_SB_INFO,FUNC_0
+MS_NOATIME,VAR_2
+MS_RDONLY,VAR_3
+jffs2_flush_wbuf_pad,FUNC_1
+jffs2_start_garbage_collect_thread,FUNC_2
+jffs2_stop_garbage_collect_thread,FUNC_3
+lock_kernel,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+unlock_kernel,FUNC_7
+jffs2_remount_fs,FUNC_8
+sb,VAR_4
+flags,VAR_5
+data,VAR_6
+c,VAR_7

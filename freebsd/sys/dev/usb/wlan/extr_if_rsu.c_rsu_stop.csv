@@ -1,0 +1,13 @@
+RSU_LOCK,FUNC_0
+RSU_N_TRANSFER,VAR_0
+RSU_UNLOCK,FUNC_1
+memset,FUNC_2
+rsu_drain_mbufq,FUNC_3
+rsu_power_off,FUNC_4
+taskqueue_cancel,FUNC_5
+taskqueue_cancel_timeout,FUNC_6
+taskqueue_thread,VAR_1
+usbd_transfer_stop,FUNC_7
+rsu_stop,FUNC_8
+sc,VAR_2
+i,VAR_3

@@ -1,0 +1,11 @@
+FSRTL_VOLUME_UNLOCK,VAR_0
+FsRtlNotifyVolumeEvent,FUNC_0
+IoGetCurrentIrpStackLocation,FUNC_1
+STATUS_NOT_LOCKED,VAR_1
+STATUS_SUCCESS,VAR_2
+TRACE,FUNC_2
+do_unlock_volume,FUNC_3
+unlock_volume,FUNC_4
+Vcb,VAR_3
+Irp,VAR_4
+IrpSp,VAR_5

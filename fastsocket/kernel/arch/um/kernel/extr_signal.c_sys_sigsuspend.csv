@@ -1,0 +1,15 @@
+ERESTARTNOHAND,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+TIF_RESTORE_SIGMASK,VAR_2
+_BLOCKABLE,VAR_3
+current,VAR_4
+recalc_sigpending,FUNC_0
+schedule,FUNC_1
+set_thread_flag,FUNC_2
+siginitset,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+sys_sigsuspend,FUNC_6
+history0,VAR_5
+history1,VAR_6
+mask,VAR_7

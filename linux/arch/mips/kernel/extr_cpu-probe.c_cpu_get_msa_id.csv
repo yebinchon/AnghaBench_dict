@@ -1,0 +1,10 @@
+FPU_64BIT,VAR_0
+__enable_fpu,FUNC_0
+disable_msa,FUNC_1
+enable_msa,FUNC_2
+read_c0_status,FUNC_3
+read_msa_ir,FUNC_4
+write_c0_status,FUNC_5
+cpu_get_msa_id,FUNC_6
+status,VAR_1
+msa_id,VAR_2

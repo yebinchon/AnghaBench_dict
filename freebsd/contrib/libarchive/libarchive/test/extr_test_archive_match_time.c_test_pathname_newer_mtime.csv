@@ -1,0 +1,16 @@
+ARCHIVE_MATCH_EQUAL,VAR_0
+ARCHIVE_MATCH_MTIME,VAR_1
+ARCHIVE_MATCH_OLDER,VAR_2
+archive_entry_copy_pathname,FUNC_0
+archive_entry_free,FUNC_1
+archive_entry_new,FUNC_2
+archive_entry_set_mtime,FUNC_3
+archive_match_exclude_entry,FUNC_4
+archive_match_free,FUNC_5
+archive_match_new,FUNC_6
+assert,FUNC_7
+assertEqualIntA,FUNC_8
+excluded,FUNC_9
+test_pathname_newer_mtime,FUNC_10
+ae,VAR_3
+m,VAR_4

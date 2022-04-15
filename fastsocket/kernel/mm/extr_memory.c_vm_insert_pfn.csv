@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+EFAULT,VAR_0
+EINVAL,VAR_1
+PAGE_SIZE,VAR_2
+VM_MIXEDMAP,VAR_3
+VM_PFNMAP,VAR_4
+insert_pfn,FUNC_1
+is_cow_mapping,FUNC_2
+pfn_valid,FUNC_3
+track_pfn_vma_new,FUNC_4
+untrack_pfn_vma,FUNC_5
+vm_insert_pfn,FUNC_6
+vma,VAR_5
+addr,VAR_6
+pfn,VAR_7
+ret,VAR_8
+pgprot,VAR_9

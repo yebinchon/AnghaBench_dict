@@ -1,0 +1,14 @@
+cl_fixture,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_reference_free,FUNC_4
+git_reference_symbolic_create,FUNC_5
+git_remote_fetch,FUNC_6
+git_remote_free,FUNC_7
+git_remote_lookup,FUNC_8
+git_remote_set_url,FUNC_9
+test_fetchhead_nonetwork__fetch_into_repo_with_symrefs,FUNC_10
+repo,VAR_0
+remote,VAR_1
+symref,VAR_2

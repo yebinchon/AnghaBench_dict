@@ -1,0 +1,10 @@
+ARMV8_PMU_PMCR_E,VAR_0
+armv8pmu_pmcr_read,FUNC_0
+armv8pmu_pmcr_write,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+this_cpu_ptr,FUNC_4
+armv8pmu_stop,FUNC_5
+cpu_pmu,VAR_1
+flags,VAR_2
+events,VAR_3

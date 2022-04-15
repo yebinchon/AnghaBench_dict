@@ -1,0 +1,15 @@
+ENABLE_ECHO_INPUT,VAR_0
+ENABLE_LINE_INPUT,VAR_1
+GetConsoleMode,FUNC_0
+ReadConsoleA,FUNC_1
+SetConsoleMode,FUNC_2
+_get_osfhandle,FUNC_3
+char_avail,VAR_2
+stdin,VAR_3
+ungot_char,VAR_4
+_getch,FUNC_4
+NumberOfCharsRead,VAR_5
+c,VAR_6
+ConsoleHandle,VAR_7
+RestoreMode,VAR_8
+ConsoleMode,VAR_9

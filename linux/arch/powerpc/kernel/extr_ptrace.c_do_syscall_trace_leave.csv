@@ -1,0 +1,12 @@
+TIF_SINGLESTEP,VAR_0
+TIF_SYSCALL_TRACE,VAR_1
+TIF_SYSCALL_TRACEPOINT,VAR_2
+audit_syscall_exit,FUNC_0
+test_thread_flag,FUNC_1
+trace_sys_exit,FUNC_2
+tracehook_report_syscall_exit,FUNC_3
+unlikely,FUNC_4
+user_enter,FUNC_5
+do_syscall_trace_leave,FUNC_6
+regs,VAR_3
+step,VAR_4

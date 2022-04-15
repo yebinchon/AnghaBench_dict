@@ -1,0 +1,9 @@
+DS2482_CMD_CHANNEL_SELECT,VAR_0
+DS2482_PTR_CODE_CHANNEL,VAR_1
+ds2482_chan_rd,VAR_2
+ds2482_chan_wr,VAR_3
+i2c_smbus_read_byte,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+ds2482_set_channel,FUNC_2
+pdev,VAR_4
+channel,VAR_5

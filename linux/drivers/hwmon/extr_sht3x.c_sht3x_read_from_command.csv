@@ -1,0 +1,15 @@
+EIO,VAR_0
+SHT3X_CMD_LENGTH,VAR_1
+i2c_master_recv,FUNC_0
+i2c_master_send,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+usleep_range,FUNC_4
+sht3x_read_from_command,FUNC_5
+client,VAR_2
+data,VAR_3
+command,VAR_4
+buf,VAR_5
+length,VAR_6
+wait_time,VAR_7
+ret,VAR_8

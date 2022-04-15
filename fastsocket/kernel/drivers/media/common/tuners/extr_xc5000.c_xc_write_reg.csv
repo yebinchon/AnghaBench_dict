@@ -1,0 +1,13 @@
+XC_RESULT_I2C_WRITE_FAILURE,VAR_0
+XC_RESULT_SUCCESS,VAR_1
+XREG_BUSY,VAR_2
+xc5000_readreg,FUNC_0
+xc_send_i2c_data,FUNC_1
+xc_wait,FUNC_2
+xc_write_reg,FUNC_3
+priv,VAR_3
+regAddr,VAR_4
+i2cData,VAR_5
+buf,VAR_6
+WatchDogTimer,VAR_7
+result,VAR_8

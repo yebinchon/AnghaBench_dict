@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+GFP_ATOMIC,VAR_1
+IB_CQ_NEXT_COMP,VAR_2
+IB_WC_SUCCESS,VAR_3
+kmalloc,FUNC_0
+list_add_tail,FUNC_1
+schedule_work,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_mcq,FUNC_5
+mlx5_ib_generate_wc,FUNC_6
+ibcq,VAR_4
+wc,VAR_5
+soft_wc,VAR_6
+cq,VAR_7
+flags,VAR_8

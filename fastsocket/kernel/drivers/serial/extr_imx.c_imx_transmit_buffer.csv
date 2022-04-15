@@ -1,0 +1,14 @@
+UART_XMIT_SIZE,VAR_0
+URTX0,VAR_1
+UTS,VAR_2
+UTS_TXFULL,VAR_3
+WAKEUP_CHARS,VAR_4
+imx_stop_tx,FUNC_0
+readl,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_write_wakeup,FUNC_4
+writel,FUNC_5
+imx_transmit_buffer,FUNC_6
+sport,VAR_5
+xmit,VAR_6

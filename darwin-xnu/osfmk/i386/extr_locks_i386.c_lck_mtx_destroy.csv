@@ -1,0 +1,13 @@
+LCK_MTX_ASSERT_NOTOWNED,VAR_0
+LCK_MTX_TAG_DESTROYED,VAR_1
+LCK_MTX_TAG_INDIRECT,VAR_2
+LCK_TYPE_MTX,VAR_3
+kfree,FUNC_0
+lck_grp_deallocate,FUNC_1
+lck_grp_lckcnt_decr,FUNC_2
+lck_mtx_assert,FUNC_3
+lck_mtx_lock_mark_destroyed,FUNC_4
+lck_mtx_destroy,FUNC_5
+lck,VAR_4
+grp,VAR_5
+indirect,VAR_6

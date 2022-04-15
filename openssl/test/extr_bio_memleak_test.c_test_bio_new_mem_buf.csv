@@ -1,0 +1,16 @@
+BIO_free,FUNC_0
+BIO_get_mem_ptr,FUNC_1
+BIO_new_mem_buf,FUNC_2
+BIO_read,FUNC_3
+BIO_reset,FUNC_4
+BIO_write,FUNC_5
+TEST_int_eq,FUNC_6
+TEST_int_gt,FUNC_7
+TEST_int_lt,FUNC_8
+TEST_mem_eq,FUNC_9
+TEST_ptr,FUNC_10
+test_bio_new_mem_buf,FUNC_11
+ok,VAR_0
+bio,VAR_1
+bufmem,VAR_2
+data,VAR_3

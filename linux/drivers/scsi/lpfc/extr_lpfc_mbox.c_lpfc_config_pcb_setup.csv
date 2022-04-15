@@ -1,0 +1,15 @@
+SLI2_IOCB_CMD_SIZE,VAR_0
+SLI2_IOCB_RSP_SIZE,VAR_1
+SLI3_IOCB_CMD_SIZE,VAR_2
+SLI3_IOCB_RSP_SIZE,VAR_3
+putPaddrHigh,FUNC_0
+putPaddrLow,FUNC_1
+lpfc_config_pcb_setup,FUNC_2
+phba,VAR_4
+psli,VAR_5
+pring,VAR_6
+pcbp,VAR_7
+pdma_addr,VAR_8
+offset,VAR_9
+iocbCnt,VAR_10
+i,VAR_11

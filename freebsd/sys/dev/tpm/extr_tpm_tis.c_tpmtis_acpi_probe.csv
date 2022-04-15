@@ -1,0 +1,14 @@
+ACPI_FAILURE,FUNC_0
+ACPI_ID_PROBE,FUNC_1
+ACPI_SIG_TPM2,VAR_0
+AcpiGetTable,FUNC_2
+ENXIO,VAR_1
+TPM2_START_METHOD_TIS,VAR_2
+device_get_parent,FUNC_3
+device_set_desc,FUNC_4
+tpmtis_ids,VAR_3
+tpmtis_acpi_probe,FUNC_5
+dev,VAR_4
+err,VAR_5
+tbl,VAR_6
+status,VAR_7

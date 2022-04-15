@@ -1,0 +1,15 @@
+GIT_ERROR_INDEXER,VAR_0
+GIT_MAP_SHARED,VAR_1
+GIT_PROT_READ,VAR_2
+PACK_SIGNATURE,VAR_3
+git_error_set,FUNC_0
+memcpy,FUNC_1
+ntohl,FUNC_2
+p_mmap,FUNC_3
+p_munmap,FUNC_4
+pack_version_ok,FUNC_5
+parse_header,FUNC_6
+hdr,VAR_4
+pack,VAR_5
+error,VAR_6
+map,VAR_7

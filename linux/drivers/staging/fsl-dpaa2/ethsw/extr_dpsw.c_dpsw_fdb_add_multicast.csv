@@ -1,0 +1,16 @@
+DPSW_CMDID_FDB_ADD_MULTICAST,VAR_0
+ENTRY_TYPE,VAR_1
+build_if_id_bitmap,FUNC_0
+cpu_to_le16,FUNC_1
+dpsw_set_field,FUNC_2
+mc_encode_cmd_header,FUNC_3
+mc_send_command,FUNC_4
+dpsw_fdb_add_multicast,FUNC_5
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+fdb_id,VAR_5
+cfg,VAR_6
+cmd,VAR_7
+cmd_params,VAR_8
+i,VAR_9

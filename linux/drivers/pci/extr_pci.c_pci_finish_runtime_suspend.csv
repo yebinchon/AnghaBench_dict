@@ -1,0 +1,13 @@
+EIO,VAR_0
+PCI_D3cold,VAR_1
+PCI_POWER_ERROR,VAR_2
+__pci_enable_wake,FUNC_0
+device_can_wakeup,FUNC_1
+pci_dev_run_wake,FUNC_2
+pci_enable_wake,FUNC_3
+pci_set_power_state,FUNC_4
+pci_target_state,FUNC_5
+pci_finish_runtime_suspend,FUNC_6
+dev,VAR_3
+target_state,VAR_4
+error,VAR_5

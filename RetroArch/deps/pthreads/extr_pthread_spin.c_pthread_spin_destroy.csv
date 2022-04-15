@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+PTE_ATOMIC_COMPARE_EXCHANGE,FUNC_0
+PTE_OBJECT_INVALID,VAR_2
+PTE_SPIN_UNLOCKED,VAR_3
+PTE_SPIN_USE_MUTEX,VAR_4
+PTHREAD_SPINLOCK_INITIALIZER,VAR_5
+free,FUNC_1
+pte_osMutexLock,FUNC_2
+pte_osMutexUnlock,FUNC_3
+pte_spinlock_test_init_lock,VAR_6
+pthread_mutex_destroy,FUNC_4
+pthread_spin_destroy,FUNC_5
+lock,VAR_7
+s,VAR_8
+result,VAR_9

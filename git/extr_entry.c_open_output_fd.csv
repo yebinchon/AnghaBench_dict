@@ -1,0 +1,11 @@
+S_IFMT,VAR_0
+S_IFREG,VAR_1
+TEMPORARY_FILENAME_LENGTH,VAR_2
+create_file,FUNC_0
+mkstemp,FUNC_1
+xsnprintf,FUNC_2
+open_output_fd,FUNC_3
+path,VAR_3
+ce,VAR_4
+to_tempfile,VAR_5
+symlink,VAR_6

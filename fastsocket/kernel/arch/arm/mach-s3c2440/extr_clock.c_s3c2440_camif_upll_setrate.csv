@@ -1,0 +1,12 @@
+S3C2440_CAMDIVN,VAR_0
+S3C2440_CAMDIVN_CAMCLK_MASK,VAR_1
+S3C2440_CAMDIVN_CAMCLK_SEL,VAR_2
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+clk_get_rate,FUNC_2
+s3c2440_camif_upll_round,FUNC_3
+s3c2440_camif_upll_setrate,FUNC_4
+clk,VAR_3
+rate,VAR_4
+parent_rate,VAR_5
+camdivn,VAR_6

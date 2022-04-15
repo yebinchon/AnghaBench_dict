@@ -1,0 +1,17 @@
+M_NETFLOW_GENERAL,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+NETFLOW_V9_FLOW_V4_L4,VAR_3
+NETFLOW_V9_FLOW_V6_L4,VAR_4
+NETFLOW_V9_MAX_RESERVED_FLOWSET,VAR_5
+_NETFLOW_V9_TEMPLATE_SIZE,FUNC_0
+_netflow_v9_record_ipv4_tcp,VAR_6
+_netflow_v9_record_ipv6_tcp,VAR_7
+htons,FUNC_1
+malloc,FUNC_2
+generate_v9_templates,FUNC_3
+priv,VAR_8
+p,VAR_9
+template_fields_cnt,VAR_10
+cnt,VAR_11
+flowset_size,VAR_12

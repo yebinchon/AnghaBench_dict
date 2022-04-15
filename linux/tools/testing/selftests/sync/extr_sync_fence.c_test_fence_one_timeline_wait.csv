@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+sw_sync_fence_create,FUNC_1
+sw_sync_fence_destroy,FUNC_2
+sw_sync_fence_is_valid,FUNC_3
+sw_sync_timeline_create,FUNC_4
+sw_sync_timeline_destroy,FUNC_5
+sw_sync_timeline_inc,FUNC_6
+sw_sync_timeline_is_valid,FUNC_7
+sync_wait,FUNC_8
+test_fence_one_timeline_wait,FUNC_9
+fence,VAR_0
+valid,VAR_1
+ret,VAR_2
+timeline,VAR_3

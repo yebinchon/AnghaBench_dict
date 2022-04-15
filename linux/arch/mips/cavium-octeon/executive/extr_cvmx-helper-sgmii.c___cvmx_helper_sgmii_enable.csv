@@ -1,0 +1,13 @@
+CVMX_GMXX_PRTX_CFG,FUNC_0
+__cvmx_helper_sgmii_hardware_init,FUNC_1
+__cvmx_interrupt_gmxx_enable,FUNC_2
+__cvmx_interrupt_pcsx_intx_en_reg_enable,FUNC_3
+__cvmx_interrupt_pcsxx_int_en_reg_enable,FUNC_4
+cvmx_helper_ports_on_interface,FUNC_5
+cvmx_read_csr,FUNC_6
+cvmx_write_csr,FUNC_7
+__cvmx_helper_sgmii_enable,FUNC_8
+interface,VAR_0
+num_ports,VAR_1
+index,VAR_2
+gmxx_prtx_cfg,VAR_3

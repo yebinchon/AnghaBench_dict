@@ -1,0 +1,17 @@
+SPIDER_NET_DMA_TX_FEND_VALUE,VAR_0
+SPIDER_NET_GDTDMACCNTR,VAR_1
+del_timer_sync,FUNC_0
+free_irq,FUNC_1
+napi_disable,FUNC_2
+netdev_priv,FUNC_3
+netif_carrier_off,FUNC_4
+netif_stop_queue,FUNC_5
+spider_net_disable_interrupts,FUNC_6
+spider_net_disable_rxdmac,FUNC_7
+spider_net_free_chain,FUNC_8
+spider_net_free_rx_chain_contents,FUNC_9
+spider_net_release_tx_chain,FUNC_10
+spider_net_write_reg,FUNC_11
+spider_net_stop,FUNC_12
+netdev,VAR_2
+card,VAR_3

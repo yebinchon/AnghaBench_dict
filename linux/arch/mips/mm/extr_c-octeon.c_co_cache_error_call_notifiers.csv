@@ -1,0 +1,17 @@
+NOTIFY_OK,VAR_0
+NOTIFY_STOP_MASK,VAR_1
+cache_err_dcache,VAR_2
+co_cache_error_chain,VAR_3
+cvmx_get_core_num,FUNC_0
+pr_err,FUNC_1
+raw_notifier_call_chain,FUNC_2
+read_c0_errorepc,FUNC_3
+read_octeon_c0_dcacheerr,FUNC_4
+read_octeon_c0_icacheerr,FUNC_5
+write_octeon_c0_icacheerr,FUNC_6
+co_cache_error_call_notifiers,FUNC_7
+val,VAR_4
+rv,VAR_5
+dcache_err,VAR_6
+coreid,VAR_7
+icache_err,VAR_8

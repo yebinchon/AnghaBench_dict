@@ -1,0 +1,17 @@
+assert,FUNC_0
+mp_add_timeout,FUNC_1
+mp_time_us,FUNC_2
+mp_time_us_to_timespec,FUNC_3
+pthread_cond_broadcast,FUNC_4
+pthread_cond_timedwait,FUNC_5
+pthread_cond_wait,FUNC_6
+pthread_mutex_lock,FUNC_7
+pthread_mutex_unlock,FUNC_8
+pthread_self,FUNC_9
+stub1,FUNC_10
+talloc_free,FUNC_11
+mp_dispatch_queue_process,FUNC_12
+queue,VAR_0
+timeout,VAR_1
+item,VAR_2
+ts,VAR_3

@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+IFF_DRV_OACTIVE,VAR_1
+OCE_WQ_PACKET_ARRAY_SIZE,VAR_2
+atomic_store_rel_int,FUNC_0
+atomic_subtract_int,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+m_freem,FUNC_4
+oce_tx_restart,FUNC_5
+oce_process_tx_completion,FUNC_6
+wq,VAR_3
+pd,VAR_4
+sc,VAR_5
+m,VAR_6

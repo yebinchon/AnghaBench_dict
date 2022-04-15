@@ -1,0 +1,15 @@
+ASUS_FAN_CTRL_MANUAL,VAR_0
+asus_agfn_fan_speed_write,FUNC_0
+clamp,FUNC_1
+dev_get_drvdata,FUNC_2
+kstrtouint,FUNC_3
+pr_warn,FUNC_4
+pwm1_store,FUNC_5
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+asus,VAR_5
+value,VAR_6
+state,VAR_7
+ret,VAR_8

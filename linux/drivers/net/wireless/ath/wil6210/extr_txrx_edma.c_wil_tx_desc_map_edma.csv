@@ -1,0 +1,13 @@
+BIT,FUNC_0
+MAC_CFG_DESC_TX_2_L2_TRANSLATION_TYPE_POS,VAR_0
+MAC_CFG_DESC_TX_2_SNAP_HDR_INSERTION_EN_POS,VAR_1
+WIL_EDMA_DESC_TX_MAC_CFG_0_QID_POS,VAR_2
+cpu_to_le16,FUNC_1
+memset,FUNC_2
+wil_desc_set_addr_edma,FUNC_3
+wil_tx_desc_map_edma,FUNC_4
+desc,VAR_3
+pa,VAR_4
+len,VAR_5
+ring_index,VAR_6
+d,VAR_7

@@ -1,0 +1,16 @@
+AMOPOPID,VAR_0
+BTEqualStrategyNumber,VAR_1
+BTREE_AM_OID,VAR_2
+GETSTRUCT,FUNC_0
+NIL,VAR_3
+ObjectIdGetDatum,FUNC_1
+ReleaseSysCacheList,FUNC_2
+SearchSysCacheList1,FUNC_3
+lappend_oid,FUNC_4
+get_mergejoin_opfamilies,FUNC_5
+opno,VAR_4
+result,VAR_5
+catlist,VAR_6
+i,VAR_7
+tuple,VAR_8
+aform,VAR_9

@@ -1,0 +1,11 @@
+add_wait_queue,FUNC_0
+bio_list_add_head,FUNC_1
+bio_list_empty,FUNC_2
+bio_list_peek,FUNC_3
+bio_list_pop,FUNC_4
+nvme_submit_bio_queue,FUNC_5
+remove_wait_queue,FUNC_6
+nvme_resubmit_bios,FUNC_7
+nvmeq,VAR_0
+bio,VAR_1
+ns,VAR_2

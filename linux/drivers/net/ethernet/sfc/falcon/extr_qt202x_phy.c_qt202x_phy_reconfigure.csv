@@ -1,0 +1,17 @@
+LOOPBACK_PCS,VAR_0
+LOOPBACK_PMAPMD,VAR_1
+MDIO_MMD_PMAPMD,VAR_2
+PHY_MODE_LOW_POWER,VAR_3
+PHY_MODE_TX_DISABLED,VAR_4
+PHY_TYPE_QT2025C,VAR_5
+PMA_PMD_FTX_CTRL2_REG,VAR_6
+PMA_PMD_FTX_STATIC_LBN,VAR_7
+ef4_mdio_phy_reconfigure,FUNC_0
+ef4_mdio_transmit_disable,FUNC_1
+mdio_set_flag,FUNC_2
+qt2025c_select_phy_mode,FUNC_3
+qt202x_reset_phy,FUNC_4
+qt202x_phy_reconfigure,FUNC_5
+efx,VAR_8
+phy_data,VAR_9
+rc,VAR_10

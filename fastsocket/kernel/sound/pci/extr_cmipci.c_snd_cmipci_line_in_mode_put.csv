@@ -1,0 +1,17 @@
+CM_BASE2LIN,VAR_0
+CM_CENTR2LIN,VAR_1
+CM_REAR2LIN,VAR_2
+CM_REG_LEGACY_CTRL,VAR_3
+CM_REG_MIXER1,VAR_4
+snd_cmipci_clear_bit,FUNC_0
+snd_cmipci_clear_bit_b,FUNC_1
+snd_cmipci_set_bit,FUNC_2
+snd_cmipci_set_bit_b,FUNC_3
+snd_kcontrol_chip,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+snd_cmipci_line_in_mode_put,FUNC_7
+kcontrol,VAR_5
+ucontrol,VAR_6
+cm,VAR_7
+change,VAR_8

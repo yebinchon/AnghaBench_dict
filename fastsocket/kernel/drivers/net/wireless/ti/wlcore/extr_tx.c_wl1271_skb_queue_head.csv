@@ -1,0 +1,16 @@
+WL1271_FLAG_DUMMY_PACKET_PENDING,VAR_0
+WL12XX_MAX_LINKS,VAR_1
+set_bit,FUNC_0
+skb_get_queue_mapping,FUNC_1
+skb_queue_head,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+wl1271_tx_get_queue,FUNC_5
+wl12xx_is_dummy_packet,FUNC_6
+wl1271_skb_queue_head,FUNC_7
+wl,VAR_2
+wlvif,VAR_3
+skb,VAR_4
+hlid,VAR_5
+flags,VAR_6
+q,VAR_7

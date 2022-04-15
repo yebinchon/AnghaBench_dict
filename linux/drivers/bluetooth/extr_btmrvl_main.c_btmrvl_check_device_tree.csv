@@ -1,0 +1,15 @@
+BT_CAL_DATA_SIZE,VAR_0
+BT_CAL_HDR_LEN,VAR_1
+BT_DBG,FUNC_0
+BT_ERR,FUNC_1
+btmrvl_download_cal_data,FUNC_2
+of_property_read_u16,FUNC_3
+of_property_read_u8_array,FUNC_4
+btmrvl_check_device_tree,FUNC_5
+priv,VAR_2
+dt_node,VAR_3
+card,VAR_4
+cal_data,VAR_5
+ret,VAR_6
+gpio,VAR_7
+gap,VAR_8

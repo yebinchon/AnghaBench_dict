@@ -1,0 +1,17 @@
+CONTROL_TIMEOUT_MS,VAR_0
+EINVAL,VAR_1
+ETH_ALEN,VAR_2
+MAC_REG_STATION_H,VAR_3
+MAC_REG_STATION_L,VAR_4
+MAC_REG_STATION_M,VAR_5
+REQUEST_READ,VAR_6
+control_read,FUNC_0
+le16_to_cpu,FUNC_1
+memset,FUNC_2
+netdev_dbg,FUNC_3
+get_mac_address,FUNC_4
+dev,VAR_7
+data,VAR_8
+err,VAR_9
+mac_addr,VAR_10
+rd_mac_len,VAR_11

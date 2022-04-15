@@ -1,0 +1,12 @@
+XFER_MW_DMA_0,VAR_0
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+to_pci_dev,FUNC_2
+sl82c105_configure_dmamode,FUNC_3
+ap,VAR_1
+adev,VAR_2
+pdev,VAR_3
+dma_timing,VAR_4
+dummy,VAR_5
+timing,VAR_6
+dma,VAR_7

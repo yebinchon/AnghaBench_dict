@@ -1,0 +1,15 @@
+DMAR_GCMD_REG,VAR_0
+DMAR_GSTS_REG,VAR_1
+DMA_GCMD_IRE,VAR_2
+DMA_GSTS_IRES,VAR_3
+IOMMU_WAIT_OP,FUNC_0
+ecap_ir_support,FUNC_1
+qi_global_iec,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+readl,FUNC_5
+writel,FUNC_6
+iommu_disable_irq_remapping,FUNC_7
+iommu,VAR_4
+flags,VAR_5
+sts,VAR_6

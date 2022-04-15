@@ -1,0 +1,16 @@
+BTRFS_QGROUP_INFO_KEY,VAR_0
+BTRFS_QGROUP_LIMIT_KEY,VAR_1
+ENOENT,VAR_2
+ENOMEM,VAR_3
+btrfs_alloc_path,FUNC_0
+btrfs_del_item,FUNC_1
+btrfs_free_path,FUNC_2
+btrfs_release_path,FUNC_3
+btrfs_search_slot,FUNC_4
+del_qgroup_item,FUNC_5
+trans,VAR_4
+qgroupid,VAR_5
+ret,VAR_6
+quota_root,VAR_7
+path,VAR_8
+key,VAR_9

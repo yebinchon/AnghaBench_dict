@@ -1,0 +1,14 @@
+AC_PINCAP_EAPD,VAR_0
+AC_PWRST_D0,VAR_1
+AC_PWRST_D3,VAR_2
+AC_VERB_GET_EAPD_BTLENABLE,VAR_3
+AC_WID_PIN,VAR_4
+get_wcaps,FUNC_0
+get_wcaps_type,FUNC_1
+snd_hda_codec_read,FUNC_2
+snd_hda_query_pin_caps,FUNC_3
+snd_hda_codec_eapd_power_filter,FUNC_4
+codec,VAR_5
+nid,VAR_6
+power_state,VAR_7
+eapd,VAR_8

@@ -1,0 +1,16 @@
+ASSERT_RTNL,FUNC_0
+ASSERT_WDEV_LOCK,FUNC_1
+CFG80211_MAX_WEP_KEYS,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+cfg80211_connect,FUNC_2
+kmemdup,FUNC_3
+kzfree,FUNC_4
+netif_running,FUNC_5
+cfg80211_mgd_wext_connect,FUNC_6
+rdev,VAR_3
+wdev,VAR_4
+ck,VAR_5
+prev_bssid,VAR_6
+err,VAR_7
+i,VAR_8

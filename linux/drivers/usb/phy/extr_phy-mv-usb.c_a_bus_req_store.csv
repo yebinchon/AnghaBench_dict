@@ -1,0 +1,15 @@
+OTG_STATE_A_IDLE,VAR_0
+OTG_STATE_B_IDLE,VAR_1
+dev_dbg,FUNC_0
+dev_get_drvdata,FUNC_1
+mv_otg_enable,FUNC_2
+mv_otg_init_irq,FUNC_3
+mv_otg_run_state_machine,FUNC_4
+spin_trylock,FUNC_5
+spin_unlock,FUNC_6
+a_bus_req_store,FUNC_7
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+count,VAR_5
+mvotg,VAR_6

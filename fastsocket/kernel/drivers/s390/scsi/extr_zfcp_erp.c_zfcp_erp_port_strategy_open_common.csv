@@ -1,0 +1,16 @@
+FC_PORTTYPE_PTP,VAR_0
+ZFCP_ERP_EXIT,VAR_1
+ZFCP_ERP_FAILED,VAR_2
+ZFCP_ERP_SUCCEEDED,VAR_3
+ZFCP_STATUS_COMMON_NOESC,VAR_4
+ZFCP_STATUS_COMMON_OPEN,VAR_5
+atomic_read,FUNC_0
+fc_host_port_type,FUNC_1
+zfcp_erp_open_ptp_port,FUNC_2
+zfcp_erp_port_strategy_open_port,FUNC_3
+zfcp_fc_trigger_did_lookup,FUNC_4
+zfcp_erp_port_strategy_open_common,FUNC_5
+act,VAR_6
+adapter,VAR_7
+port,VAR_8
+p_status,VAR_9

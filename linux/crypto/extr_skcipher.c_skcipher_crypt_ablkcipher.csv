@@ -1,0 +1,13 @@
+ablkcipher_request_set_callback,FUNC_0
+ablkcipher_request_set_crypt,FUNC_1
+ablkcipher_request_set_tfm,FUNC_2
+crypto_skcipher_ctx,FUNC_3
+crypto_skcipher_reqtfm,FUNC_4
+skcipher_request_ctx,FUNC_5
+skcipher_request_flags,FUNC_6
+skcipher_crypt_ablkcipher,FUNC_7
+req,VAR_0
+crypt,VAR_1
+tfm,VAR_2
+ctx,VAR_3
+subreq,VAR_4

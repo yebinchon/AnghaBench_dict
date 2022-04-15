@@ -1,0 +1,6 @@
+IOAT2_CHAINADDR_OFFSET_HIGH,VAR_0
+IOAT2_CHAINADDR_OFFSET_LOW,VAR_1
+writel,FUNC_0
+ioat_set_chainaddr,FUNC_1
+ioat_chan,VAR_2
+addr,VAR_3

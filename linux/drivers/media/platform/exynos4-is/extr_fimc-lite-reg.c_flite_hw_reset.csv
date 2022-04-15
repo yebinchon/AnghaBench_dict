@@ -1,0 +1,15 @@
+FLITE_REG_CIGCTRL,VAR_0
+FLITE_REG_CIGCTRL_SWRST,VAR_1
+FLITE_REG_CIGCTRL_SWRST_RDY,VAR_2
+FLITE_REG_CIGCTRL_SWRST_REQ,VAR_3
+FLITE_RESET_TIMEOUT,VAR_4
+jiffies,VAR_5
+msecs_to_jiffies,FUNC_0
+readl,FUNC_1
+time_is_after_jiffies,FUNC_2
+usleep_range,FUNC_3
+writel,FUNC_4
+flite_hw_reset,FUNC_5
+dev,VAR_6
+end,VAR_7
+cfg,VAR_8

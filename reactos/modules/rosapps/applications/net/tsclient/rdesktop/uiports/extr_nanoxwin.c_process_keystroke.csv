@@ -1,0 +1,10 @@
+RDP_INPUT_SCANCODE,VAR_0
+RDP_KEYPRESS,VAR_1
+RDP_KEYRELEASE,VAR_2
+get_sc,FUNC_0
+rdp_send_input,FUNC_1
+process_keystroke,FUNC_2
+event_keystroke,VAR_3
+down,VAR_4
+sc,VAR_5
+ec,VAR_6

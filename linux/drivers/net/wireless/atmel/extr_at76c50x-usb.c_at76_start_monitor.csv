@@ -1,0 +1,11 @@
+CMD_SCAN,VAR_0
+SCAN_TYPE_PASSIVE,VAR_1
+at76_get_cmd_status,FUNC_0
+at76_set_card_command,FUNC_1
+cpu_to_le16,FUNC_2
+eth_broadcast_addr,FUNC_3
+memset,FUNC_4
+at76_start_monitor,FUNC_5
+priv,VAR_2
+scan,VAR_3
+ret,VAR_4

@@ -1,0 +1,16 @@
+KPROBE_HIT_ACTIVE,VAR_0
+__this_cpu_write,FUNC_0
+current_kprobe,VAR_1
+get_kprobe_ctlblk,FUNC_1
+kprobe_running,FUNC_2
+kprobes_inc_nmissed_count,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+opt_pre_handler,FUNC_6
+stub1,FUNC_7
+optimized_callback,FUNC_8
+op,VAR_2
+regs,VAR_3
+flags,VAR_4
+p,VAR_5
+kcb,VAR_6

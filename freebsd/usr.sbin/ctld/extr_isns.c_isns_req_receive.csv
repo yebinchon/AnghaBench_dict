@@ -1,0 +1,12 @@
+ISNS_FLAG_FIRST,VAR_0
+ISNS_FLAG_LAST,VAR_1
+ISNS_VERSION,VAR_2
+be16dec,FUNC_0
+isns_req_getspace,FUNC_1
+read,FUNC_2
+isns_req_receive,FUNC_3
+s,VAR_3
+req,VAR_4
+hdr,VAR_5
+res,VAR_6
+len,VAR_7

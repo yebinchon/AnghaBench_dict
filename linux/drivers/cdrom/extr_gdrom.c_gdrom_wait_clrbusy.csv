@@ -1,0 +1,8 @@
+GDROM_ALTSTATUS_REG,VAR_0
+GDROM_DEFAULT_TIMEOUT,VAR_1
+__raw_readb,FUNC_0
+cpu_relax,FUNC_1
+jiffies,VAR_2
+time_before,FUNC_2
+gdrom_wait_clrbusy,FUNC_3
+timeout,VAR_3

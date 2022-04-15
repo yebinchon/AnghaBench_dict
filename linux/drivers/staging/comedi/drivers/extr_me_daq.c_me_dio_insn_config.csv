@@ -1,0 +1,15 @@
+CR_CHAN,FUNC_0
+ME_CTRL2_PORT_A_ENA,VAR_0
+ME_CTRL2_PORT_B_ENA,VAR_1
+ME_CTRL2_REG,VAR_2
+comedi_dio_insn_config,FUNC_1
+writew,FUNC_2
+me_dio_insn_config,FUNC_3
+dev,VAR_3
+s,VAR_4
+insn,VAR_5
+data,VAR_6
+devpriv,VAR_7
+chan,VAR_8
+mask,VAR_9
+ret,VAR_10

@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+PCI230P2_DACSWTRIG,VAR_1
+comedi_handle_events,FUNC_0
+inw,FUNC_1
+pci230_handle_ao_nofifo,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+udelay,FUNC_5
+pci230_ao_inttrig_scan_begin,FUNC_6
+dev,VAR_2
+s,VAR_3
+trig_num,VAR_4
+devpriv,VAR_5
+irqflags,VAR_6

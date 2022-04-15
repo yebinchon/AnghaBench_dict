@@ -1,0 +1,15 @@
+PCIBIOS_SET_FAILED,VAR_0
+PCI_PM_CTRL_STATE_MASK,VAR_1
+PM_OK_BITS,VAR_2
+dev_dbg,FUNC_0
+pci_read_config_word,FUNC_1
+pci_set_power_state,FUNC_2
+pci_write_config_word,FUNC_3
+pm_ctrl_write,FUNC_4
+dev,VAR_3
+offset,VAR_4
+new_value,VAR_5
+data,VAR_6
+err,VAR_7
+old_value,VAR_8
+new_state,VAR_9

@@ -1,0 +1,11 @@
+AC97_CFG,FUNC_0
+PSC_CTRL,FUNC_1
+PSC_CTRL_DISABLE,VAR_0
+__raw_writel,FUNC_2
+au1xpsc_ac97_workdata,VAR_1
+platform_get_drvdata,FUNC_3
+snd_soc_unregister_component,FUNC_4
+wmb,FUNC_5
+au1xpsc_ac97_drvremove,FUNC_6
+pdev,VAR_2
+wd,VAR_3

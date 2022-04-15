@@ -1,0 +1,17 @@
+BNEP_TX_QUEUE_LEN,VAR_0
+BT_DBG,FUNC_0
+NETDEV_TX_OK,VAR_1
+bnep_net_mc_filter,FUNC_1
+bnep_net_proto_filter,FUNC_2
+jiffies,VAR_2
+kfree_skb,FUNC_3
+netdev_priv,FUNC_4
+netif_stop_queue,FUNC_5
+skb_queue_len,FUNC_6
+skb_queue_tail,FUNC_7
+wake_up_interruptible,FUNC_8
+bnep_net_xmit,FUNC_9
+skb,VAR_3
+dev,VAR_4
+s,VAR_5
+sk,VAR_6

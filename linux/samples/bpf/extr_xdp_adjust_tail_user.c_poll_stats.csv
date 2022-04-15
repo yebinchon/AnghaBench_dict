@@ -1,0 +1,12 @@
+STATS_INTERVAL_S,VAR_0
+assert,FUNC_0
+bpf_map_lookup_elem,FUNC_1
+printf,FUNC_2
+sleep,FUNC_3
+time,FUNC_4
+poll_stats,FUNC_5
+map_fd,VAR_1
+kill_after_s,VAR_2
+started_at,VAR_3
+value,VAR_4
+key,VAR_5

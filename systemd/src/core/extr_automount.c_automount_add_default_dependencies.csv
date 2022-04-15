@@ -1,0 +1,14 @@
+MANAGER_IS_SYSTEM,FUNC_0
+SPECIAL_LOCAL_FS_PRE_TARGET,VAR_0
+SPECIAL_UMOUNT_TARGET,VAR_1
+UNIT,FUNC_1
+UNIT_AFTER,VAR_2
+UNIT_BEFORE,VAR_3
+UNIT_CONFLICTS,VAR_4
+UNIT_DEPENDENCY_DEFAULT,VAR_5
+assert,FUNC_2
+unit_add_dependency_by_name,FUNC_3
+unit_add_two_dependencies_by_name,FUNC_4
+automount_add_default_dependencies,FUNC_5
+a,VAR_6
+r,VAR_7

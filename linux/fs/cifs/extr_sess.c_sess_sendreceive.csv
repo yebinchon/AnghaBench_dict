@@ -1,0 +1,13 @@
+CIFS_LOG_ERROR,VAR_0
+SendReceive2,FUNC_0
+be32_to_cpu,FUNC_1
+cifs_small_buf_release,FUNC_2
+cpu_to_be32,FUNC_3
+memcpy,FUNC_4
+put_bcc,FUNC_5
+sess_sendreceive,FUNC_6
+sess_data,VAR_1
+rc,VAR_2
+smb_buf,VAR_3
+count,VAR_4
+rsp_iov,VAR_5

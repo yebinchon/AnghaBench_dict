@@ -1,0 +1,16 @@
+HCI_LE_SCAN,VAR_0
+HCI_OP_LE_SET_EXT_SCAN_ENABLE,VAR_1
+HCI_OP_LE_SET_SCAN_ENABLE,VAR_2
+LE_SCAN_ENABLE,VAR_3
+LE_SCAN_FILTER_DUP_ENABLE,VAR_4
+hci_dev_test_flag,FUNC_0
+hci_req_add,FUNC_1
+hci_req_add_le_scan_disable,FUNC_2
+memset,FUNC_3
+use_ext_scan,FUNC_4
+le_scan_restart,FUNC_5
+req,VAR_5
+opt,VAR_6
+hdev,VAR_7
+ext_enable_cp,VAR_8
+cp,VAR_9

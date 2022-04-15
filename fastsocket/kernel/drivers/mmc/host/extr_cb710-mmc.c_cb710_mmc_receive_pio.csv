@@ -1,0 +1,12 @@
+CB710_MMC_DATA_PORT,VAR_0
+CB710_MMC_S1_PIO_TRANSFER_DONE,VAR_1
+CB710_MMC_S2_FIFO_READY,VAR_2
+CB710_MMC_STATUS2_PORT,VAR_3
+cb710_read_port_8,FUNC_0
+cb710_sg_dwiter_write_from_io,FUNC_1
+cb710_wait_for_event,FUNC_2
+cb710_mmc_receive_pio,FUNC_3
+slot,VAR_4
+miter,VAR_5
+dw_count,VAR_6
+err,VAR_7

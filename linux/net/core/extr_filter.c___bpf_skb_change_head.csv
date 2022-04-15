@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+__bpf_skb_max_len,FUNC_0
+__skb_push,FUNC_1
+likely,FUNC_2
+memset,FUNC_3
+skb_cow,FUNC_4
+skb_is_gso,FUNC_5
+skb_reset_mac_header,FUNC_6
+unlikely,FUNC_7
+__bpf_skb_change_head,FUNC_8
+skb,VAR_1
+head_room,VAR_2
+flags,VAR_3
+max_len,VAR_4
+new_len,VAR_5
+ret,VAR_6

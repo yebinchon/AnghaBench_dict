@@ -1,0 +1,11 @@
+HPET_TN_32BIT,VAR_0
+HPET_TN_ENABLE,VAR_1
+HPET_TN_PERIODIC,VAR_2
+HPET_Tn_CFG,FUNC_0
+clockevent_to_channel,FUNC_1
+hpet_readl,FUNC_2
+hpet_writel,FUNC_3
+hpet_clkevt_set_state_oneshot,FUNC_4
+evt,VAR_3
+channel,VAR_4
+cfg,VAR_5

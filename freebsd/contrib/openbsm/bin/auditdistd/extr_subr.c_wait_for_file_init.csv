@@ -1,0 +1,17 @@
+EVFILT_READ,VAR_0
+EVFILT_VNODE,VAR_1
+EV_ADD,VAR_2
+EV_CLEAR,VAR_3
+EV_ENABLE,VAR_4
+EV_SET,FUNC_0
+LOG_WARNING,VAR_5
+NOTE_RENAME,VAR_6
+PJDLOG_ASSERT,FUNC_1
+close,FUNC_2
+errno,VAR_7
+kevent,FUNC_3
+kqueue,FUNC_4
+pjdlog_errno,FUNC_5
+wait_for_file_kq,VAR_8
+wait_for_file_init,FUNC_6
+fd,VAR_9

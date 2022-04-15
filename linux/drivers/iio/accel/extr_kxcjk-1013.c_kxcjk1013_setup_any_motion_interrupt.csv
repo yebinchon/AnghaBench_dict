@@ -1,0 +1,17 @@
+KXCJK1013_REG_CTRL1,VAR_0
+KXCJK1013_REG_CTRL1_BIT_WUFE,VAR_1
+KXCJK1013_REG_INT_CTRL1,VAR_2
+KXCJK1013_REG_INT_CTRL1_BIT_IEN,VAR_3
+OPERATION,VAR_4
+STANDBY,VAR_5
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+kxcjk1013_chip_update_thresholds,FUNC_3
+kxcjk1013_get_mode,FUNC_4
+kxcjk1013_set_mode,FUNC_5
+kxcjk1013_setup_any_motion_interrupt,FUNC_6
+data,VAR_6
+status,VAR_7
+ret,VAR_8
+store_mode,VAR_9

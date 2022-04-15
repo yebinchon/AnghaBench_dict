@@ -1,0 +1,14 @@
+CMS_F_CMS_ADD1_RECEIPTREQUEST,VAR_0
+CMS_signed_add1_attr_by_NID,FUNC_0
+CMSerr,FUNC_1
+ERR_R_MALLOC_FAILURE,VAR_1
+NID_id_smime_aa_receiptRequest,VAR_2
+OPENSSL_free,FUNC_2
+V_ASN1_SEQUENCE,VAR_3
+i2d_CMS_ReceiptRequest,FUNC_3
+CMS_add1_ReceiptRequest,FUNC_4
+si,VAR_4
+rr,VAR_5
+rrder,VAR_6
+rrderlen,VAR_7
+r,VAR_8

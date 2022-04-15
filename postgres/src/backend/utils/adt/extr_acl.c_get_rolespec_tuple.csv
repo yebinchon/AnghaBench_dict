@@ -1,0 +1,17 @@
+AUTHNAME,VAR_0
+AUTHOID,VAR_1
+Assert,FUNC_0
+CStringGetDatum,FUNC_1
+ERRCODE_UNDEFINED_OBJECT,VAR_2
+ERROR,VAR_3
+GetSessionUserId,FUNC_2
+GetUserId,FUNC_3
+HeapTupleIsValid,FUNC_4
+SearchSysCache1,FUNC_5
+elog,FUNC_6
+ereport,FUNC_7
+errcode,FUNC_8
+errmsg,FUNC_9
+get_rolespec_tuple,FUNC_10
+role,VAR_4
+tuple,VAR_5

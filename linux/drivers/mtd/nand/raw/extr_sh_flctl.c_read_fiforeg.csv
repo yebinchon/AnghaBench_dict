@@ -1,0 +1,13 @@
+DMA_FROM_DEVICE,VAR_0
+FLDTFIFO,FUNC_0
+be32_to_cpu,FUNC_1
+flctl_dma_fifo0_transfer,FUNC_2
+readl,FUNC_3
+wait_rfifo_ready,FUNC_4
+read_fiforeg,FUNC_5
+flctl,VAR_1
+rlen,VAR_2
+offset,VAR_3
+i,VAR_4
+len_4align,VAR_5
+buf,VAR_6

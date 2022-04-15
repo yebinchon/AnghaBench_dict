@@ -1,0 +1,14 @@
+AVCHROMA_LOC_LEFT,VAR_0
+AV_LOG_ERROR,VAR_1
+VPX_SUBSAMPLING_420_COLLOCATED_WITH_LUMA,VAR_2
+VPX_SUBSAMPLING_420_VERTICAL,VAR_3
+VPX_SUBSAMPLING_422,VAR_4
+VPX_SUBSAMPLING_444,VAR_5
+av_log,FUNC_0
+av_pix_fmt_get_chroma_sub_sample,FUNC_1
+get_vpx_chroma_subsampling,FUNC_2
+s,VAR_6
+pixel_format,VAR_7
+chroma_location,VAR_8
+chroma_w,VAR_9
+chroma_h,VAR_10

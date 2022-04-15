@@ -1,0 +1,14 @@
+ROCEE_GLB_CFG_REG,VAR_0
+ROCEE_GLB_CFG_ROCEE_DB_OTH_MODE_S,VAR_1
+ROCEE_GLB_CFG_ROCEE_DB_SQ_MODE_S,VAR_2
+cpu_to_le32,FUNC_0
+le32_to_cpu,FUNC_1
+roce_read,FUNC_2
+roce_set_bit,FUNC_3
+roce_write,FUNC_4
+hns_roce_set_db_event_mode,FUNC_5
+hr_dev,VAR_3
+sdb_mode,VAR_4
+odb_mode,VAR_5
+tmp,VAR_6
+val,VAR_7

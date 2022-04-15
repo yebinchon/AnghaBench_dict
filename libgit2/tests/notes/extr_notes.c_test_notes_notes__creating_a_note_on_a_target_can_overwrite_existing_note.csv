@@ -1,0 +1,14 @@
+_repo,VAR_0
+_sig,VAR_1
+assert_note_equal,FUNC_0
+cl_git_pass,FUNC_1
+create_note,FUNC_2
+git_note_create,FUNC_3
+git_note_free,FUNC_4
+git_note_read,FUNC_5
+git_oid_fromstr,FUNC_6
+test_notes_notes__creating_a_note_on_a_target_can_overwrite_existing_note,FUNC_7
+note_oid,VAR_2
+target_oid,VAR_3
+note,VAR_4
+namespace_note,VAR_5

@@ -1,0 +1,14 @@
+IPPROTO_TCP,VAR_0
+IP_HDR_LEN,FUNC_0
+TCP_HDR_LEN,FUNC_1
+csum_add,FUNC_2
+csum_partial,FUNC_3
+csum_tcpudp_magic,FUNC_4
+htons,FUNC_5
+ip_fast_csum,FUNC_6
+lro_update_tcp_ip_header,FUNC_7
+lro_desc,VAR_1
+iph,VAR_2
+tcph,VAR_3
+p,VAR_4
+tcp_hdr_csum,VAR_5

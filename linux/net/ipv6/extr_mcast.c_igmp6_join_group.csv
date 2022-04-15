@@ -1,0 +1,17 @@
+ICMPV6_MGM_REPORT,VAR_0
+MAF_LAST_REPORTER,VAR_1
+MAF_NOREPORT,VAR_2
+MAF_TIMER_RUNNING,VAR_3
+del_timer,FUNC_0
+igmp6_send,FUNC_1
+jiffies,VAR_4
+mod_timer,FUNC_2
+prandom_u32,FUNC_3
+refcount_dec,FUNC_4
+refcount_inc,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+unsolicited_report_interval,FUNC_8
+igmp6_join_group,FUNC_9
+ma,VAR_5
+delay,VAR_6

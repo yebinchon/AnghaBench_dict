@@ -1,0 +1,13 @@
+GUEST_RFLAGS,VAR_0
+VCPU_EXREG_RFLAGS,VAR_1
+X86_EFLAGS_IOPL,VAR_2
+X86_EFLAGS_VM,VAR_3
+__set_bit,FUNC_0
+emulation_required,FUNC_1
+to_vmx,FUNC_2
+vmcs_writel,FUNC_3
+vmx_get_rflags,FUNC_4
+vmx_set_rflags,FUNC_5
+vcpu,VAR_4
+rflags,VAR_5
+old_rflags,VAR_6

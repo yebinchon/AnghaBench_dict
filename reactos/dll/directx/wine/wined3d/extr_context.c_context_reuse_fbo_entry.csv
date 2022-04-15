@@ -1,0 +1,16 @@
+WINED3DFMT_FLAG_DEPTH,VAR_0
+WINED3DFMT_FLAG_STENCIL,VAR_1
+WINED3D_FBO_ENTRY_FLAG_DEPTH,VAR_2
+WINED3D_FBO_ENTRY_FLAG_STENCIL,VAR_3
+context_bind_fbo,FUNC_0
+context_clean_fbo_attachments,FUNC_1
+context_generate_fbo_key,FUNC_2
+context_reuse_fbo_entry,FUNC_3
+context,VAR_4
+target,VAR_5
+render_targets,VAR_6
+depth_stencil,VAR_7
+color_location,VAR_8
+ds_location,VAR_9
+entry,VAR_10
+gl_info,VAR_11

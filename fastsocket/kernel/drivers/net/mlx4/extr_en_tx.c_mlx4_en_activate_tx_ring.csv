@@ -1,0 +1,12 @@
+MLX4_QP_STATE_RST,VAR_0
+cpu_to_be32,FUNC_0
+memset,FUNC_1
+mlx4_en_fill_qp_context,FUNC_2
+mlx4_qp_to_ready,FUNC_3
+mlx4_en_activate_tx_ring,FUNC_4
+priv,VAR_1
+ring,VAR_2
+cq,VAR_3
+user_prio,VAR_4
+mdev,VAR_5
+err,VAR_6

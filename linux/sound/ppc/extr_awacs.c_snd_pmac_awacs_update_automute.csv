@@ -1,0 +1,16 @@
+AMP_CH_HD,VAR_0
+AMP_CH_SPK,VAR_1
+MASK_HDMUTE,VAR_2
+MASK_PAROUT1,VAR_3
+MASK_SPKMUTE,VAR_4
+SNDRV_CTL_EVENT_MASK_VALUE,VAR_5
+imac1,VAR_6
+imac2,VAR_7
+snd_ctl_notify,FUNC_0
+snd_pmac_awacs_detect_headphone,FUNC_1
+snd_pmac_awacs_write_reg,FUNC_2
+toggle_amp_mute,FUNC_3
+snd_pmac_awacs_update_automute,FUNC_4
+chip,VAR_8
+do_notify,VAR_9
+reg,VAR_10

@@ -1,0 +1,15 @@
+VM_FAULT_ERROR,VAR_0
+VM_FAULT_NOPAGE,VAR_1
+VM_FAULT_RETRY,VAR_2
+__do_fault,FUNC_0
+do_page_mkwrite,FUNC_1
+fault_dirty_shared_page,FUNC_2
+finish_fault,FUNC_3
+put_page,FUNC_4
+unlikely,FUNC_5
+unlock_page,FUNC_6
+do_shared_fault,FUNC_7
+vmf,VAR_3
+vma,VAR_4
+ret,VAR_5
+tmp,VAR_6

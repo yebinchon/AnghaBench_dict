@@ -1,0 +1,16 @@
+CRYPT_ConstructBlob,FUNC_0
+CRYPT_ReverseBytes,FUNC_1
+CryptDestroyKey,FUNC_2
+CryptImportPublicKeyInfo,FUNC_3
+CryptMemFree,FUNC_4
+CryptVerifySignatureW,FUNC_5
+X509_ASN_ENCODING,VAR_0
+CDecodeSignedMsg_VerifySignatureWithKey,FUNC_6
+msg,VAR_1
+prov,VAR_2
+signerIndex,VAR_3
+keyInfo,VAR_4
+key,VAR_5
+ret,VAR_6
+hash,VAR_7
+reversedHash,VAR_8

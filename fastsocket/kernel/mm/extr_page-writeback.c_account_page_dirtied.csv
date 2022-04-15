@@ -1,0 +1,12 @@
+BDI_RECLAIMABLE,VAR_0
+NR_FILE_DIRTY,VAR_1
+PAGE_CACHE_SIZE,VAR_2
+__inc_bdi_stat,FUNC_0
+__inc_zone_page_state,FUNC_1
+current,VAR_3
+mapping_cap_account_dirty,FUNC_2
+task_dirty_inc,FUNC_3
+task_io_account_write,FUNC_4
+account_page_dirtied,FUNC_5
+page,VAR_4
+mapping,VAR_5

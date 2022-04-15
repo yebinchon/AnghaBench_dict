@@ -1,0 +1,14 @@
+VIRTIO_SCSI_S_FUNCTION_COMPLETE,VAR_0
+VTSCSI_FLAG_DETACH,VAR_1
+VTSCSI_FLAG_RESET,VAR_2
+VTSCSI_REQ_STATE_TIMEDOUT,VAR_3
+VTSCSI_TRACE,VAR_4
+vtscsi_dprintf,FUNC_0
+vtscsi_enqueue_request,FUNC_1
+vtscsi_reset_bus,FUNC_2
+vtscsi_complete_abort_timedout_scsi_cmd,FUNC_3
+sc,VAR_5
+req,VAR_6
+tmf_resp,VAR_7
+to_req,VAR_8
+response,VAR_9

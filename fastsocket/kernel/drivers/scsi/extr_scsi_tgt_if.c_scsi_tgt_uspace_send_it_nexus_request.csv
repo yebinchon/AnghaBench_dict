@@ -1,0 +1,13 @@
+TGT_KEVENT_IT_NEXUS_REQ,VAR_0
+dprintk,FUNC_0
+eprintk,FUNC_1
+memset,FUNC_2
+strncpy,FUNC_3
+tgt_uspace_send_event,FUNC_4
+scsi_tgt_uspace_send_it_nexus_request,FUNC_5
+host_no,VAR_1
+itn_id,VAR_2
+function,VAR_3
+initiator_id,VAR_4
+ev,VAR_5
+err,VAR_6

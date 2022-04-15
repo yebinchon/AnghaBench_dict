@@ -1,0 +1,11 @@
+MSG_BUFFERS_CHUNK_SIZE,VAR_0
+MSG_CHUNK_HEAD_MAGIC,VAR_1
+MSG_CHUNK_USED_MAGIC,VAR_2
+allocated_buffer_bytes,VAR_3
+allocated_buffer_chunks,VAR_4
+assert,FUNC_0
+free,FUNC_1
+memset,FUNC_2
+free_msg_buffers_chunk_internal,FUNC_3
+C,VAR_5
+CH,VAR_6

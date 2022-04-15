@@ -1,0 +1,11 @@
+BTRFS_FIRST_FREE_OBJECTID,VAR_0
+BTRFS_LAST_FREE_OBJECTID,VAR_1
+ENOSPC,VAR_2
+btrfs_find_highest_objectid,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+unlikely,FUNC_3
+btrfs_find_free_objectid,FUNC_4
+root,VAR_3
+objectid,VAR_4
+ret,VAR_5

@@ -1,0 +1,15 @@
+PAB_INTP_AMBA_MISC_ENB,VAR_0
+PAB_INTX_START,VAR_1
+csr_readl,FUNC_0
+csr_writel,FUNC_1
+irq_desc_get_chip_data,FUNC_2
+irq_to_desc,FUNC_3
+raw_spin_lock_irqsave,FUNC_4
+raw_spin_unlock_irqrestore,FUNC_5
+mobiveil_unmask_intx_irq,FUNC_6
+data,VAR_2
+desc,VAR_3
+pcie,VAR_4
+flags,VAR_5
+shifted_val,VAR_6
+mask,VAR_7

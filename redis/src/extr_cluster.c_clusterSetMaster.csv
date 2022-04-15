@@ -1,0 +1,13 @@
+CLUSTER_NODE_MASTER,VAR_0
+CLUSTER_NODE_MIGRATE_TO,VAR_1
+CLUSTER_NODE_SLAVE,VAR_2
+clusterCloseAllSlots,FUNC_0
+clusterNodeAddSlave,FUNC_1
+clusterNodeRemoveSlave,FUNC_2
+myself,VAR_3
+nodeIsMaster,FUNC_3
+replicationSetMaster,FUNC_4
+resetManualFailover,FUNC_5
+serverAssert,FUNC_6
+clusterSetMaster,FUNC_7
+n,VAR_4

@@ -1,0 +1,14 @@
+ADT7411_CFG3_REF_VDD,VAR_0
+ADT7411_REG_CFG3,VAR_1
+HZ,VAR_2
+adt7411_read_in_vdd,FUNC_0
+dev_get_drvdata,FUNC_1
+hwmon_in_input,VAR_3
+i2c_smbus_read_byte_data,FUNC_2
+jiffies,VAR_4
+time_after_eq,FUNC_3
+adt7411_update_vref,FUNC_4
+dev,VAR_5
+data,VAR_6
+client,VAR_7
+val,VAR_8

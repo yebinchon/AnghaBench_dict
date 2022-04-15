@@ -1,0 +1,13 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+E1000_RXBUFFER_2048,VAR_2
+dev_kfree_skb,FUNC_0
+dma_free_coherent,FUNC_1
+dma_unmap_single,FUNC_2
+kfree,FUNC_3
+e1000_free_desc_rings,FUNC_4
+adapter,VAR_3
+txdr,VAR_4
+rxdr,VAR_5
+pdev,VAR_6
+i,VAR_7

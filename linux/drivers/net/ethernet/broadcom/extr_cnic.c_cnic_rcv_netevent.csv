@@ -1,0 +1,17 @@
+MAX_CNIC_ULP_TYPE,VAR_0
+ULP_F_CALL_PENDING,VAR_1
+clear_bit,FUNC_0
+cnic_lock,VAR_2
+lockdep_is_held,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+rcu_dereference_protected,FUNC_4
+set_bit,FUNC_5
+stub1,FUNC_6
+cnic_rcv_netevent,FUNC_7
+cp,VAR_3
+event,VAR_4
+vlan_id,VAR_5
+if_type,VAR_6
+ulp_ops,VAR_7
+ctx,VAR_8

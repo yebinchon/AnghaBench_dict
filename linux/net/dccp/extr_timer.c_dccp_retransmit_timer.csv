@@ -1,0 +1,15 @@
+DCCP_MIB_TIMEOUTS,VAR_0
+DCCP_RTO_MAX,VAR_1
+ICSK_TIME_RETRANS,VAR_2
+TCP_RESOURCE_PROBE_INTERVAL,VAR_3
+__DCCP_INC_STATS,FUNC_0
+__sk_dst_reset,FUNC_1
+dccp_retransmit_skb,FUNC_2
+dccp_write_timeout,FUNC_3
+inet_csk,FUNC_4
+inet_csk_reset_xmit_timer,FUNC_5
+min,FUNC_6
+sysctl_dccp_retries1,VAR_4
+dccp_retransmit_timer,FUNC_7
+sk,VAR_5
+icsk,VAR_6

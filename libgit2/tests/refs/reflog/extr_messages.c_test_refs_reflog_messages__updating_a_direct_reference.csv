@@ -1,0 +1,13 @@
+cl_git_pass,FUNC_0
+cl_reflog_check_entry,FUNC_1
+g_repo,VAR_0
+git_reference_free,FUNC_2
+git_reference_lookup,FUNC_3
+git_reference_name_to_id,FUNC_4
+git_reference_set_target,FUNC_5
+test_refs_reflog_messages__updating_a_direct_reference,FUNC_6
+ref,VAR_1
+ref_out,VAR_2
+target_ref,VAR_3
+target_id,VAR_4
+message,VAR_5

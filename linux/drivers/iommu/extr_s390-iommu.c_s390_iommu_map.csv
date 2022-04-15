@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+IOMMU_READ,VAR_1
+IOMMU_WRITE,VAR_2
+ZPCI_PTE_VALID,VAR_3
+ZPCI_TABLE_PROTECTED,VAR_4
+s390_iommu_update_trans,FUNC_0
+to_s390_domain,FUNC_1
+s390_iommu_map,FUNC_2
+domain,VAR_5
+iova,VAR_6
+paddr,VAR_7
+size,VAR_8
+prot,VAR_9
+s390_domain,VAR_10
+flags,VAR_11
+rc,VAR_12

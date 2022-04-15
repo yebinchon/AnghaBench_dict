@@ -1,0 +1,12 @@
+NETIF_F_HW_CSUM,VAR_0
+NETIF_F_NTUPLE,VAR_1
+NETIF_F_RXCSUM,VAR_2
+macb_set_rxcsum_feature,FUNC_0
+macb_set_rxflow_feature,FUNC_1
+macb_set_txcsum_feature,FUNC_2
+netdev_priv,FUNC_3
+macb_set_features,FUNC_4
+netdev,VAR_3
+features,VAR_4
+bp,VAR_5
+changed,VAR_6

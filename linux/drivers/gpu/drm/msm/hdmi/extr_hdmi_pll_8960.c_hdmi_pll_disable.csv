@@ -1,0 +1,17 @@
+DBG,FUNC_0
+HDMI_8960_PHY_REG12_PWRDN_B,VAR_0
+HDMI_8960_PHY_REG12_SW_RESET,VAR_1
+REG_HDMI_8960_PHY_PLL_PWRDN_B,VAR_2
+REG_HDMI_8960_PHY_REG12,VAR_3
+hdmi_phy_read,FUNC_1
+hdmi_phy_write,FUNC_2
+hw_clk_to_pll,FUNC_3
+mb,FUNC_4
+pll_get_phy,FUNC_5
+pll_read,FUNC_6
+pll_write,FUNC_7
+hdmi_pll_disable,FUNC_8
+hw,VAR_4
+pll,VAR_5
+phy,VAR_6
+val,VAR_7

@@ -1,0 +1,12 @@
+EINVAL,VAR_0
+INTR_IDX_RDPTR,VAR_1
+KICKOFF_TIMEOUT_MS,VAR_2
+atomic_inc,FUNC_0
+dpu_encoder_helper_wait_for_irq,FUNC_1
+dpu_encoder_phys_cmd_is_master,FUNC_2
+to_dpu_encoder_phys_cmd,FUNC_3
+dpu_encoder_phys_cmd_wait_for_vblank,FUNC_4
+phys_enc,VAR_3
+rc,VAR_4
+cmd_enc,VAR_5
+wait_info,VAR_6

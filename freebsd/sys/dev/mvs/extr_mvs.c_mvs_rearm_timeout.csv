@@ -1,0 +1,13 @@
+MA_OWNED,VAR_0
+MVS_MAX_SLOTS,VAR_1
+MVS_SLOT_RUNNING,VAR_2
+SBT_1MS,VAR_3
+callout_reset_sbt,FUNC_0
+device_get_softc,FUNC_1
+mtx_assert,FUNC_2
+mvs_timeout,VAR_4
+mvs_rearm_timeout,FUNC_3
+dev,VAR_5
+ch,VAR_6
+i,VAR_7
+slot,VAR_8

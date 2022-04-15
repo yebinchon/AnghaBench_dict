@@ -1,0 +1,16 @@
+assert,FUNC_0
+libvlc_MediaPlayerPlaying,VAR_0
+libvlc_event_attach,FUNC_1
+libvlc_event_detach,FUNC_2
+libvlc_media_player_event_manager,FUNC_3
+libvlc_media_player_play,FUNC_4
+on_event,VAR_1
+test_log,FUNC_5
+vlc_sem_destroy,FUNC_6
+vlc_sem_init,FUNC_7
+vlc_sem_wait,FUNC_8
+play_and_wait,FUNC_9
+mp,VAR_2
+em,VAR_3
+sem,VAR_4
+res,VAR_5

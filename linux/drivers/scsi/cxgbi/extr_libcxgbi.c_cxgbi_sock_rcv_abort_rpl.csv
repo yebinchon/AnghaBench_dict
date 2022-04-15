@@ -1,0 +1,14 @@
+CTPF_ABORT_REQ_RCVD,VAR_0
+CTPF_ABORT_RPL_PENDING,VAR_1
+CTPF_ABORT_RPL_RCVD,VAR_2
+cxgbi_sock_clear_flag,FUNC_0
+cxgbi_sock_closed,FUNC_1
+cxgbi_sock_flag,FUNC_2
+cxgbi_sock_get,FUNC_3
+cxgbi_sock_put,FUNC_4
+cxgbi_sock_set_flag,FUNC_5
+pr_err,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+cxgbi_sock_rcv_abort_rpl,FUNC_9
+csk,VAR_3

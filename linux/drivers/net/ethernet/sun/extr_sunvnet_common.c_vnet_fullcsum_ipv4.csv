@@ -1,0 +1,17 @@
+CHECKSUM_NONE,VAR_0
+ETH_P_IP,VAR_1
+IPPROTO_TCP,VAR_2
+IPPROTO_UDP,VAR_3
+csum_tcpudp_magic,FUNC_0
+htons,FUNC_1
+ip_hdr,FUNC_2
+skb_checksum,FUNC_3
+skb_transport_offset,FUNC_4
+tcp_hdr,FUNC_5
+udp_hdr,FUNC_6
+vnet_fullcsum_ipv4,FUNC_7
+skb,VAR_4
+iph,VAR_5
+offset,VAR_6
+ptcp,VAR_7
+pudp,VAR_8

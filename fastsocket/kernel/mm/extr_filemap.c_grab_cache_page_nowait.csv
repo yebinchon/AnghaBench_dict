@@ -1,0 +1,12 @@
+GFP_NOFS,VAR_0
+__GFP_FS,VAR_1
+__page_cache_alloc,FUNC_0
+add_to_page_cache_lru,FUNC_1
+find_get_page,FUNC_2
+mapping_gfp_mask,FUNC_3
+page_cache_release,FUNC_4
+trylock_page,FUNC_5
+grab_cache_page_nowait,FUNC_6
+mapping,VAR_2
+index,VAR_3
+page,VAR_4

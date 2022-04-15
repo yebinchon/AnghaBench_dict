@@ -1,0 +1,11 @@
+MTHCA_CQ_ENTRY_SIZE,VAR_0
+MTHCA_MAX_DIRECT_CQ_SIZE,VAR_1
+get_cqe_from_buf,FUNC_0
+mthca_buf_alloc,FUNC_1
+set_cqe_hw,FUNC_2
+mthca_alloc_cq_buf,FUNC_3
+dev,VAR_2
+buf,VAR_3
+nent,VAR_4
+ret,VAR_5
+i,VAR_6

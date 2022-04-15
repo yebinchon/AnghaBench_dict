@@ -1,0 +1,10 @@
+MS_CACHE_ONLY,VAR_0
+MS_INVALIDATE_ICACHE,VAR_1
+MS_SYNC,VAR_2
+__clear_cache,FUNC_0
+msync,FUNC_1
+sys_dcache_flush,FUNC_2
+sys_icache_invalidate,FUNC_3
+cache_flush_d_inval_i,FUNC_4
+start,VAR_3
+end,VAR_4

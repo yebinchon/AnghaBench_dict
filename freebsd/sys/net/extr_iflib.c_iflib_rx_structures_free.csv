@@ -1,0 +1,13 @@
+IFCAP_LRO,VAR_0
+M_IFLIB,VAR_1
+free,FUNC_0
+if_getcapabilities,FUNC_1
+iflib_dma_free,FUNC_2
+iflib_rx_sds_free,FUNC_3
+tcp_lro_free,FUNC_4
+iflib_rx_structures_free,FUNC_5
+ctx,VAR_2
+rxq,VAR_3
+sctx,VAR_4
+i,VAR_5
+j,VAR_6

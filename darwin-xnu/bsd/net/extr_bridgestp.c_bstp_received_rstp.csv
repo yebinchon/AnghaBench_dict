@@ -1,0 +1,15 @@
+BSTP_BPDU_RSTP_LEN,VAR_0
+BSTP_MSGTYPE_RSTP,VAR_1
+bstp_decode_bpdu,FUNC_0
+bstp_received_bpdu,FUNC_1
+caddr_t,VAR_2
+m_pullup,FUNC_2
+memcpy,FUNC_3
+mtod,FUNC_4
+bstp_received_rstp,FUNC_5
+bs,VAR_3
+bp,VAR_4
+mp,VAR_5
+tpdu,VAR_6
+cpdu,VAR_7
+cu,VAR_8

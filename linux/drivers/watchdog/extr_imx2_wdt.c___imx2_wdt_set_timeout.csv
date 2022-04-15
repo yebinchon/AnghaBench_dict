@@ -1,0 +1,9 @@
+IMX2_WDT_WCR,VAR_0
+IMX2_WDT_WCR_WT,VAR_1
+WDOG_SEC_TO_COUNT,FUNC_0
+regmap_update_bits,FUNC_1
+watchdog_get_drvdata,FUNC_2
+__imx2_wdt_set_timeout,FUNC_3
+wdog,VAR_2
+new_timeout,VAR_3
+wdev,VAR_4

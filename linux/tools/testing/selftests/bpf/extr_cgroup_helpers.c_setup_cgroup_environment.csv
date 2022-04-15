@@ -1,0 +1,17 @@
+CGROUP_MOUNT_PATH,VAR_0
+CLONE_NEWNS,VAR_1
+EBUSY,VAR_2
+EEXIST,VAR_3
+MS_PRIVATE,VAR_4
+MS_REC,VAR_5
+PATH_MAX,VAR_6
+cleanup_cgroup_environment,FUNC_0
+enable_all_controllers,FUNC_1
+errno,VAR_7
+format_cgroup_path,FUNC_2
+log_err,FUNC_3
+mkdir,FUNC_4
+mount,FUNC_5
+unshare,FUNC_6
+setup_cgroup_environment,FUNC_7
+cgroup_workdir,VAR_8

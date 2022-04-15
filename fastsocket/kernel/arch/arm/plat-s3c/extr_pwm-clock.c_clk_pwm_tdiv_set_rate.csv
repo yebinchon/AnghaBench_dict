@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+S3C2410_TCFG1,VAR_1
+S3C2410_TCFG1_MUX_MASK,VAR_2
+S3C2410_TCFG1_SHIFT,FUNC_0
+__raw_readl,FUNC_1
+clk_get_rate,FUNC_2
+clk_pwm_tdiv_update,FUNC_3
+clk_round_rate,FUNC_4
+pwm_cfg_src_is_tclk,FUNC_5
+to_tdiv,FUNC_6
+clk_pwm_tdiv_set_rate,FUNC_7
+clk,VAR_3
+rate,VAR_4
+divclk,VAR_5
+tcfg1,VAR_6
+parent_rate,VAR_7
+divisor,VAR_8

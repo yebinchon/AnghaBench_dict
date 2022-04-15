@@ -1,0 +1,12 @@
+CPU_EXCP_DETECTED,VAR_0
+KERN_INFO,VAR_1
+REG_APIEXCP_OFFSET,VAR_2
+REG_APIMASK_OFFSET,VAR_3
+__raw_readl,FUNC_0
+cpc925_printk,FUNC_1
+edac_device_handle_ue,FUNC_2
+cpc925_cpu_check,FUNC_3
+edac_dev,VAR_4
+dev_info,VAR_5
+apiexcp,VAR_6
+apimask,VAR_7

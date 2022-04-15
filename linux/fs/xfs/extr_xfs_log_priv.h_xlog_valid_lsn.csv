@@ -1,0 +1,12 @@
+BLOCK_LSN,FUNC_0
+CYCLE_LSN,FUNC_1
+READ_ONCE,FUNC_2
+smp_rmb,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+xlog_valid_lsn,FUNC_6
+log,VAR_0
+lsn,VAR_1
+cur_cycle,VAR_2
+cur_block,VAR_3
+valid,VAR_4

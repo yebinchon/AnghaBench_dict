@@ -1,0 +1,17 @@
+BUG,FUNC_0
+EINVAL,VAR_0
+GNTMAP_host_map,VAR_1
+GNTST_okay,VAR_2
+GNTTABOP_unmap_grant_ref,VAR_3
+HYPERVISOR_grant_table_op,FUNC_1
+XENBUS_MAX_RING_GRANTS,VAR_4
+gnttab_set_unmap_op,FUNC_2
+xenbus_dev_error,FUNC_3
+xenbus_unmap_ring,FUNC_4
+dev,VAR_5
+handles,VAR_6
+nr_handles,VAR_7
+vaddrs,VAR_8
+unmap,VAR_9
+i,VAR_10
+err,VAR_11

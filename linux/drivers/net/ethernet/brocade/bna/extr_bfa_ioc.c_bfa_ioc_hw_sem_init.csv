@@ -1,0 +1,16 @@
+BFI_FWBOOT_TYPE_NORMAL,VAR_0
+BFI_IOC_UNINIT,VAR_1
+bfa_ioc_fwver_clear,FUNC_0
+bfa_ioc_get_cur_ioc_fwstate,FUNC_1
+bfa_ioc_set_alt_ioc_fwstate,FUNC_2
+bfa_ioc_set_cur_ioc_fwstate,FUNC_3
+bfa_nw_ioc_fwver_get,FUNC_4
+readl,FUNC_5
+swab32,FUNC_6
+udelay,FUNC_7
+writel,FUNC_8
+bfa_ioc_hw_sem_init,FUNC_9
+ioc,VAR_2
+fwhdr,VAR_3
+fwstate,VAR_4
+r32,VAR_5

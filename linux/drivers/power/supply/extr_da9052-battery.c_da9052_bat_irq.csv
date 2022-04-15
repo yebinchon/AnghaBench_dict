@@ -1,0 +1,14 @@
+DA9052_IRQ_CHGEND,VAR_0
+DA9052_IRQ_DCIN,VAR_1
+DA9052_IRQ_TBAT,VAR_2
+DA9052_IRQ_VBUS,VAR_3
+IRQ_HANDLED,VAR_4
+POWER_SUPPLY_STATUS_FULL,VAR_5
+da9052_bat_check_status,FUNC_0
+power_supply_changed,FUNC_1
+regmap_irq_get_virq,FUNC_2
+da9052_bat_irq,FUNC_3
+irq,VAR_6
+data,VAR_7
+bat,VAR_8
+virq,VAR_9

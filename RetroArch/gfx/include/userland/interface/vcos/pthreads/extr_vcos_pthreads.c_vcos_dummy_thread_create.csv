@@ -1,0 +1,16 @@
+VCOS_SUCCESS,VAR_0
+_vcos_thread_current_key,VAR_1
+current_thread_key_init,VAR_2
+current_thread_key_once,VAR_3
+memset,FUNC_0
+pthread_self,FUNC_1
+pthread_setspecific,FUNC_2
+vcos_assert,FUNC_3
+vcos_free,FUNC_4
+vcos_malloc,FUNC_5
+vcos_once,FUNC_6
+vcos_semaphore_create,FUNC_7
+vcos_dummy_thread_create,FUNC_8
+st,VAR_4
+thread_hndl,VAR_5
+rc,VAR_6

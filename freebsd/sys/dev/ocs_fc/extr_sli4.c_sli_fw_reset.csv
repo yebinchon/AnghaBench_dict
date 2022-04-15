@@ -1,0 +1,15 @@
+SLI4_FW_READY_TIMEOUT_MSEC,VAR_0
+SLI4_PCI_SOFT_RESET_CSR,VAR_1
+SLI4_PCI_SOFT_RESET_MASK,VAR_2
+SLI4_PHYDEV_CONTROL_FRST,VAR_3
+SLI4_REG_PHYSDEV_CONTROL,VAR_4
+ocs_config_read32,FUNC_0
+ocs_config_write32,FUNC_1
+ocs_log_crit,FUNC_2
+ocs_log_test,FUNC_3
+sli_reg_write,FUNC_4
+sli_wait_for_fw_ready,FUNC_5
+sli_fw_reset,FUNC_6
+sli4,VAR_5
+val,VAR_6
+ready,VAR_7

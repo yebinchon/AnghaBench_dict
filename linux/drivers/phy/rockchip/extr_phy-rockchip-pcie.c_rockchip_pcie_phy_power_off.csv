@@ -1,0 +1,16 @@
+HIWORD_UPDATE,FUNC_0
+PHY_LANE_IDLE_A_SHIFT,VAR_0
+PHY_LANE_IDLE_MASK,VAR_1
+PHY_LANE_IDLE_OFF,VAR_2
+dev_err,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+phy_get_drvdata,FUNC_4
+regmap_write,FUNC_5
+reset_control_assert,FUNC_6
+to_pcie_phy,FUNC_7
+rockchip_pcie_phy_power_off,FUNC_8
+phy,VAR_3
+inst,VAR_4
+rk_phy,VAR_5
+err,VAR_6

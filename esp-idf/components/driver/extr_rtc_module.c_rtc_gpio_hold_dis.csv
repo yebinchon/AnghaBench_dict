@@ -1,0 +1,13 @@
+BIT,FUNC_0
+CLEAR_PERI_REG_MASK,FUNC_1
+ESP_ERR_INVALID_ARG,VAR_0
+ESP_OK,VAR_1
+RTCCNTL,VAR_2
+RTC_MODULE_CHECK,FUNC_2
+portENTER_CRITICAL,FUNC_3
+portEXIT_CRITICAL,FUNC_4
+rtc_gpio_desc,VAR_3
+rtc_gpio_is_valid_gpio,FUNC_5
+rtc_spinlock,VAR_4
+rtc_gpio_hold_dis,FUNC_6
+gpio_num,VAR_5

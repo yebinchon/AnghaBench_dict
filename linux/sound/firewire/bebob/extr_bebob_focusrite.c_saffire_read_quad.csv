@@ -1,0 +1,10 @@
+SAFFIRE_ADDRESS_BASE,VAR_0
+TCODE_READ_QUADLET_REQUEST,VAR_1
+be32_to_cpu,FUNC_0
+snd_fw_transaction,FUNC_1
+saffire_read_quad,FUNC_2
+bebob,VAR_2
+offset,VAR_3
+value,VAR_4
+err,VAR_5
+tmp,VAR_6

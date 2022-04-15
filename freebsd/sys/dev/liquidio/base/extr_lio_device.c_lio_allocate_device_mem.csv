@@ -1,0 +1,15 @@
+LIO_DISPATCH_LIST_SIZE,VAR_0
+M_DEVBUF,VAR_1
+M_NOWAIT,VAR_2
+M_ZERO,VAR_3
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+malloc,FUNC_2
+pci_get_device,FUNC_3
+lio_allocate_device_mem,FUNC_4
+device,VAR_4
+oct,VAR_5
+configsize,VAR_6
+pci_id,VAR_7
+size,VAR_8
+buf,VAR_9

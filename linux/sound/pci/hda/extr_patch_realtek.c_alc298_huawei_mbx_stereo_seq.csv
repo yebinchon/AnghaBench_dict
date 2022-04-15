@@ -1,0 +1,10 @@
+AC_VERB_GET_PIN_SENSE,VAR_0
+AC_VERB_SET_COEF_INDEX,VAR_1
+AC_VERB_SET_DIGI_CONVERT_3,VAR_2
+AC_VERB_SET_PROC_COEF,VAR_3
+alc_write_coef_idx,FUNC_0
+snd_hda_codec_write,FUNC_1
+alc298_huawei_mbx_stereo_seq,FUNC_2
+codec,VAR_4
+initval,VAR_5
+first,VAR_6

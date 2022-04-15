@@ -1,0 +1,12 @@
+ALLEGRO_STATE_WAIT_FOR_BUFFER,VAR_0
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_1
+VB2_BUF_STATE_DONE,VAR_2
+allegro_channel_buf_done,FUNC_0
+allegro_get_state,FUNC_1
+to_vb2_v4l2_buffer,FUNC_2
+v4l2_m2m_buf_queue,FUNC_3
+vb2_get_drv_priv,FUNC_4
+allegro_buf_queue,FUNC_5
+vb,VAR_3
+channel,VAR_4
+vbuf,VAR_5

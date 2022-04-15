@@ -1,0 +1,9 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_chip,FUNC_3
+xintc_get_irq,FUNC_4
+xil_intc_irq_handler,FUNC_5
+desc,VAR_0
+chip,VAR_1
+pending,VAR_2

@@ -1,0 +1,14 @@
+USBDUXSIGMA_SINGLE_AD_CMD,VAR_0
+be32_to_cpu,FUNC_0
+comedi_offset_munge,FUNC_1
+get_unaligned,FUNC_2
+usbbuxsigma_send_cmd,FUNC_3
+usbduxsigma_receive_cmd,FUNC_4
+usbduxsigma_getstatusinfo,FUNC_5
+dev,VAR_1
+chan,VAR_2
+s,VAR_3
+devpriv,VAR_4
+sysred,VAR_5
+val,VAR_6
+ret,VAR_7

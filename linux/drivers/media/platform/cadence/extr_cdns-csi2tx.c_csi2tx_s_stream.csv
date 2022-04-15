@@ -1,0 +1,10 @@
+csi2tx_start,FUNC_0
+csi2tx_stop,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+v4l2_subdev_to_csi2tx,FUNC_4
+csi2tx_s_stream,FUNC_5
+subdev,VAR_0
+enable,VAR_1
+csi2tx,VAR_2
+ret,VAR_3

@@ -1,0 +1,15 @@
+DPCPU_PTR,FUNC_0
+ET_HW_LOCK,FUNC_1
+ET_HW_UNLOCK,FUNC_2
+curcpu,VAR_0
+curthread,VAR_1
+handleevents,FUNC_3
+hardclock_sync,FUNC_4
+sbinuptime,FUNC_5
+spinlock_enter,FUNC_6
+spinlock_exit,FUNC_7
+timerstate,VAR_2
+cpu_initclocks_ap,FUNC_8
+now,VAR_3
+state,VAR_4
+td,VAR_5

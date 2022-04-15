@@ -1,0 +1,13 @@
+ACPI_ADR_SPACE_GPIO,VAR_0
+ACPI_FAILURE,FUNC_0
+ACPI_HANDLE,FUNC_1
+INIT_LIST_HEAD,FUNC_2
+acpi_gpio_adr_space_handler,VAR_1
+acpi_install_address_space_handler,FUNC_3
+dev_err,FUNC_4
+mutex_init,FUNC_5
+acpi_gpiochip_request_regions,FUNC_6
+achip,VAR_2
+chip,VAR_3
+handle,VAR_4
+status,VAR_5

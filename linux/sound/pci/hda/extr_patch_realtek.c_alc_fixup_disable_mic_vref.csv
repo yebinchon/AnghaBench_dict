@@ -1,0 +1,7 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+PIN_VREFHIZ,VAR_1
+snd_hda_codec_set_pin_target,FUNC_0
+alc_fixup_disable_mic_vref,FUNC_1
+codec,VAR_2
+fix,VAR_3
+action,VAR_4

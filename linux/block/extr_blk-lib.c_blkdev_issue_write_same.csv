@@ -1,0 +1,14 @@
+__blkdev_issue_write_same,FUNC_0
+bio_put,FUNC_1
+blk_finish_plug,FUNC_2
+blk_start_plug,FUNC_3
+submit_bio_wait,FUNC_4
+blkdev_issue_write_same,FUNC_5
+bdev,VAR_0
+sector,VAR_1
+nr_sects,VAR_2
+gfp_mask,VAR_3
+page,VAR_4
+bio,VAR_5
+plug,VAR_6
+ret,VAR_7

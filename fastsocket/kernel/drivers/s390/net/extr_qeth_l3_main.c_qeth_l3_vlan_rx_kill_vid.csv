@@ -1,0 +1,15 @@
+QETH_DBF_TEXT,FUNC_0
+QETH_DBF_TEXT_,FUNC_1
+QETH_RECOVER_THREAD,VAR_0
+TRACE,VAR_1
+qeth_l3_free_vlan_addresses,FUNC_2
+qeth_l3_set_multicast_list,FUNC_3
+qeth_wait_for_threads,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+vlan_group_set_device,FUNC_7
+qeth_l3_vlan_rx_kill_vid,FUNC_8
+dev,VAR_2
+vid,VAR_3
+card,VAR_4
+flags,VAR_5

@@ -1,0 +1,16 @@
+Com_Printf,FUNC_0
+MAX_MSGLEN,VAR_0
+MSG_Clear,FUNC_1
+MSG_Init,FUNC_2
+MSG_WriteLong,FUNC_3
+SVF_BOT,VAR_1
+SV_BuildClientSnapshot,FUNC_4
+SV_SendMessageToClient,FUNC_5
+SV_UpdateServerCommandsToClient,FUNC_6
+SV_WriteDownloadToClient,FUNC_7
+SV_WriteSnapshotToClient,FUNC_8
+qtrue,VAR_2
+SV_SendClientSnapshot,FUNC_9
+client,VAR_3
+msg_buf,VAR_4
+msg,VAR_5

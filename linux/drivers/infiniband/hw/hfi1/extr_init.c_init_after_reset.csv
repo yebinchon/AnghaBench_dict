@@ -1,0 +1,13 @@
+HFI1_RCVCTRL_CTXT_DIS,VAR_0
+HFI1_RCVCTRL_INTRAVAIL_DIS,VAR_1
+HFI1_RCVCTRL_TAILUPD_DIS,VAR_2
+PSC_GLOBAL_DISABLE,VAR_3
+hfi1_rcd_get_by_index,FUNC_0
+hfi1_rcd_put,FUNC_1
+hfi1_rcvctrl,FUNC_2
+pio_send_control,FUNC_3
+sc_disable,FUNC_4
+init_after_reset,FUNC_5
+dd,VAR_4
+i,VAR_5
+rcd,VAR_6

@@ -1,0 +1,15 @@
+BUCKET_ADDR,FUNC_0
+BUCKET_IS_DELETED,FUNC_1
+BUCKET_IS_EMPTY,FUNC_2
+memcpy,FUNC_3
+memmove,FUNC_4
+hashindex_compact,FUNC_5
+index,VAR_0
+idx,VAR_1
+start_idx,VAR_2
+begin_used_idx,VAR_3
+empty_slot_count,VAR_4
+count,VAR_5
+buckets_to_copy,VAR_6
+compact_tail_idx,VAR_7
+saved_size,VAR_8

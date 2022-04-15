@@ -1,0 +1,17 @@
+ATA_DEV_ATA,VAR_0
+ATA_MAX_DEVICES,VAR_1
+HZ,VAR_2
+SCR_ACTIVE,VAR_3
+SCR_ERROR,VAR_4
+SERROR_IRQ_MASK,VAR_5
+VPRINTK,FUNC_0
+jiffies,VAR_6
+sata_oxnas_dev_config,FUNC_1
+sata_oxnas_irq_on,FUNC_2
+sata_oxnas_link_write,FUNC_3
+sata_oxnas_reset_ucode,FUNC_4
+sata_oxnas_scr_write_port,FUNC_5
+sata_std_hardreset,FUNC_6
+sata_oxnas_post_reset_init,FUNC_7
+ap,VAR_7
+dev,VAR_8

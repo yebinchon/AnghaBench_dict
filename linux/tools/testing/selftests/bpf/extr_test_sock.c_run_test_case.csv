@@ -1,0 +1,17 @@
+ATTACH_REJECT,VAR_0
+BIND_REJECT,VAR_1
+EPERM,VAR_2
+LOAD_REJECT,VAR_3
+SUCCESS,VAR_4
+attach_sock_prog,FUNC_0
+bind_sock,FUNC_1
+bpf_prog_detach,FUNC_2
+close,FUNC_3
+errno,VAR_5
+load_sock_prog,FUNC_4
+printf,FUNC_5
+run_test_case,FUNC_6
+cgfd,VAR_6
+test,VAR_7
+progfd,VAR_8
+err,VAR_9

@@ -1,0 +1,13 @@
+DPRINT1,FUNC_0
+FALSE,VAR_0
+FILE_DEVICE_RASACD,VAR_1
+IoCreateDevice,FUNC_1
+NT_SUCCESS,FUNC_2
+RtlInitUnicodeString,FUNC_3
+STATUS_SUCCESS,VAR_2
+DriverEntry,FUNC_4
+pDriverObject,VAR_3
+pRegistryPath,VAR_4
+DeviceName,VAR_5
+pDeviceObject,VAR_6
+Status,VAR_7

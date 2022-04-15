@@ -1,0 +1,14 @@
+PTRIN,FUNC_0
+PTROUT,FUNC_1
+bsd_to_linux_sigaltstack,FUNC_2
+copyin,FUNC_3
+copyout,FUNC_4
+kern_sigaltstack,FUNC_5
+linux_to_bsd_sigaltstack,FUNC_6
+linux_sigaltstack,FUNC_7
+td,VAR_0
+uap,VAR_1
+ss,VAR_2
+oss,VAR_3
+lss,VAR_4
+error,VAR_5

@@ -1,0 +1,12 @@
+AUDIT_SYSCLOSE,FUNC_0
+EBADF,VAR_0
+FILEDESC_XLOCK,FUNC_1
+FILEDESC_XUNLOCK,FUNC_2
+closefp,FUNC_3
+fdfree,FUNC_4
+fget_locked,FUNC_5
+kern_close,FUNC_6
+td,VAR_1
+fd,VAR_2
+fdp,VAR_3
+fp,VAR_4

@@ -1,0 +1,11 @@
+PCF2127_B_TMR_CD,VAR_0
+PCF2127_M_TMR_CTRL,VAR_1
+PCF2127_R_TMR_CTL,VAR_2
+PCF8523_B_TMR_A_64HZ,VAR_3
+read_reg,FUNC_0
+write_reg,FUNC_1
+pcf2127_start_timer,FUNC_2
+sc,VAR_4
+err,VAR_5
+stdctl,VAR_6
+tmrctl,VAR_7

@@ -1,0 +1,14 @@
+UNIPHIER_FI2C_CR,VAR_0
+UNIPHIER_FI2C_CR_MST,VAR_1
+UNIPHIER_FI2C_CYC,VAR_2
+UNIPHIER_FI2C_DSUT,VAR_3
+UNIPHIER_FI2C_LCTL,VAR_4
+UNIPHIER_FI2C_SSUT,VAR_5
+readl,FUNC_0
+uniphier_fi2c_prepare_operation,FUNC_1
+uniphier_fi2c_reset,FUNC_2
+writel,FUNC_3
+uniphier_fi2c_hw_init,FUNC_4
+priv,VAR_6
+cyc,VAR_7
+tmp,VAR_8

@@ -1,0 +1,15 @@
+CONNECTED_BIT,VAR_0
+IP_EVENT,VAR_1
+IP_EVENT_STA_GOT_IP,VAR_2
+WIFI_EVENT,VAR_3
+WIFI_EVENT_STA_DISCONNECTED,VAR_4
+WIFI_EVENT_STA_START,VAR_5
+esp_wifi_connect,FUNC_0
+wifi_event_group,VAR_6
+xEventGroupClearBits,FUNC_1
+xEventGroupSetBits,FUNC_2
+event_handler,FUNC_3
+arg,VAR_7
+event_base,VAR_8
+event_id,VAR_9
+event_data,VAR_10

@@ -1,0 +1,16 @@
+FAULT_FLAG_WRITE,VAR_0
+HPAGE_PMD_MASK,VAR_1
+pmd_lock,FUNC_0
+pmd_mkdirty,FUNC_1
+pmd_mkyoung,FUNC_2
+pmd_same,FUNC_3
+pmdp_set_access_flags,FUNC_4
+spin_unlock,FUNC_5
+unlikely,FUNC_6
+update_mmu_cache_pmd,FUNC_7
+huge_pmd_set_accessed,FUNC_8
+vmf,VAR_2
+orig_pmd,VAR_3
+entry,VAR_4
+haddr,VAR_5
+write,VAR_6

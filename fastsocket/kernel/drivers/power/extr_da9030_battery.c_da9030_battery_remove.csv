@@ -1,0 +1,14 @@
+DA9030_EVENT_CHDET,VAR_0
+DA9030_EVENT_CHIOVER,VAR_1
+DA9030_EVENT_TBAT,VAR_2
+DA9030_EVENT_VBATMON,VAR_3
+cancel_delayed_work_sync,FUNC_0
+da9030_bat_remove_debugfs,FUNC_1
+da9030_set_charge,FUNC_2
+da903x_unregister_notifier,FUNC_3
+kfree,FUNC_4
+platform_get_drvdata,FUNC_5
+power_supply_unregister,FUNC_6
+da9030_battery_remove,FUNC_7
+dev,VAR_4
+charger,VAR_5

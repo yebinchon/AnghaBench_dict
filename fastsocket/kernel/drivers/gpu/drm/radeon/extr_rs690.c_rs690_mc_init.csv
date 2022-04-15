@@ -1,0 +1,16 @@
+G_000100_MC_FB_START,FUNC_0
+RADEON_CONFIG_MEMSIZE,VAR_0
+RREG32,FUNC_1
+RREG32_MC,FUNC_2
+R_000100_MCCFG_FB_LOCATION,VAR_1
+pci_resource_len,FUNC_3
+pci_resource_start,FUNC_4
+radeon_atombios_sideport_present,FUNC_5
+radeon_gtt_location,FUNC_6
+radeon_update_bandwidth_info,FUNC_7
+radeon_vram_location,FUNC_8
+rs400_gart_adjust_size,FUNC_9
+rs690_pm_info,FUNC_10
+rs690_mc_init,FUNC_11
+rdev,VAR_2
+base,VAR_3

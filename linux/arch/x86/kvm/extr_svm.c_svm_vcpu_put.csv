@@ -1,0 +1,16 @@
+MSR_KERNEL_GS_BASE,VAR_0
+NR_HOST_SAVE_USER_MSRS,VAR_1
+avic_vcpu_put,FUNC_0
+current,VAR_2
+fs,VAR_3
+gs,VAR_4
+host_save_user_msrs,VAR_5
+kvm_load_ldt,FUNC_1
+load_gs_index,FUNC_2
+loadsegment,FUNC_3
+to_svm,FUNC_4
+wrmsrl,FUNC_5
+svm_vcpu_put,FUNC_6
+vcpu,VAR_6
+svm,VAR_7
+i,VAR_8

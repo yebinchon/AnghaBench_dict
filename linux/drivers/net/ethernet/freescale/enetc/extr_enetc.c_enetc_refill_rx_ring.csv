@@ -1,0 +1,13 @@
+ENETC_RXBD,FUNC_0
+cpu_to_le64,FUNC_1
+enetc_new_page,FUNC_2
+enetc_wr_reg,FUNC_3
+likely,FUNC_4
+unlikely,FUNC_5
+enetc_refill_rx_ring,FUNC_6
+rx_ring,VAR_0
+buff_cnt,VAR_1
+rx_swbd,VAR_2
+rxbd,VAR_3
+i,VAR_4
+j,VAR_5

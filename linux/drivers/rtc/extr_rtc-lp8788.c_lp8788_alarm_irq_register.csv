@@ -1,0 +1,14 @@
+IORESOURCE_IRQ,VAR_0
+LP8788_ALARM_1,VAR_1
+LP8788_ALM_IRQ,VAR_2
+devm_request_threaded_irq,FUNC_0
+irq_create_mapping,FUNC_1
+lp8788_alarm_irq_handler,VAR_3
+platform_get_resource_byname,FUNC_2
+lp8788_alarm_irq_register,FUNC_3
+pdev,VAR_4
+rtc,VAR_5
+r,VAR_6
+lp,VAR_7
+irqdm,VAR_8
+irq,VAR_9

@@ -1,0 +1,15 @@
+MMC_REG_BUFFER_ACCESS,VAR_0
+STATUS_BUF_READ_RDY,VAR_1
+STATUS_READ_OP_DONE,VAR_2
+cpu_to_le32,FUNC_0
+memcpy,FUNC_1
+mxcmci_poll_status,FUNC_2
+mxcmci_readl,FUNC_3
+mxcmci_pull,FUNC_4
+host,VAR_3
+_buf,VAR_4
+bytes,VAR_5
+stat,VAR_6
+buf,VAR_7
+b,VAR_8
+tmp,VAR_9

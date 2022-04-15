@@ -1,0 +1,13 @@
+BUS_DMA_NOWAIT,VAR_0
+ENXIO,VAR_1
+TRM_MAX_SG_LISTENTRY,VAR_2
+TRM_MAX_SRB_CNT,VAR_3
+bus_dmamap_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+trm_srbmapSG,VAR_4
+trm_initSRB,FUNC_3
+pACB,VAR_5
+i,VAR_6
+pSRB,VAR_7
+error,VAR_8

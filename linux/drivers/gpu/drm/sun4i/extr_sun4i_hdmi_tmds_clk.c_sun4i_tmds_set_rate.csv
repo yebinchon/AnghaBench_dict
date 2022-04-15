@@ -1,0 +1,17 @@
+SUN4I_HDMI_PAD_CTRL1_HALVE_CLK,VAR_0
+SUN4I_HDMI_PAD_CTRL1_REG,VAR_1
+SUN4I_HDMI_PLL_CTRL_DIV,FUNC_0
+SUN4I_HDMI_PLL_CTRL_DIV_MASK,VAR_2
+SUN4I_HDMI_PLL_CTRL_REG,VAR_3
+hw_to_tmds,FUNC_1
+readl,FUNC_2
+sun4i_tmds_calc_divider,FUNC_3
+writel,FUNC_4
+sun4i_tmds_set_rate,FUNC_5
+hw,VAR_4
+rate,VAR_5
+parent_rate,VAR_6
+tmds,VAR_7
+half,VAR_8
+reg,VAR_9
+div,VAR_10

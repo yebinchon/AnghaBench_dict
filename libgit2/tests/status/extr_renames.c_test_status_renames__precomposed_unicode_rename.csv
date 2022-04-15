@@ -1,0 +1,17 @@
+ARRAY_SIZE,FUNC_0
+GIT_STATUS_OPTIONS_INIT,VAR_0
+GIT_STATUS_OPT_INCLUDE_UNTRACKED,VAR_1
+GIT_STATUS_OPT_RENAMES_INDEX_TO_WORKDIR,VAR_2
+GIT_STATUS_WT_DELETED,VAR_3
+GIT_STATUS_WT_NEW,VAR_4
+GIT_STATUS_WT_RENAMED,VAR_5
+check_status,FUNC_1
+cl_git_pass,FUNC_2
+cl_repo_set_bool,FUNC_3
+g_repo,VAR_6
+git_status_list_free,FUNC_4
+git_status_list_new,FUNC_5
+nfc,VAR_7
+nfd,VAR_8
+rename_file,FUNC_6
+test_status_renames__precomposed_unicode_rename,FUNC_7

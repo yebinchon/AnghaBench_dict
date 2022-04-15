@@ -1,0 +1,17 @@
+S_IRUGO,VAR_0
+add_dev_support_show,VAR_1
+aux_firmware_rev_show,VAR_2
+device_create_file,FUNC_0
+device_id_show,VAR_3
+device_remove_file,FUNC_1
+firmware_rev_show,VAR_4
+guid_show,VAR_5
+ipmi_version_show,VAR_6
+manufacturer_id_show,VAR_7
+product_id_show,VAR_8
+provides_dev_sdrs_show,VAR_9
+revision_show,VAR_10
+sysfs_attr_init,FUNC_2
+create_files,FUNC_3
+bmc,VAR_11
+err,VAR_12

@@ -1,0 +1,16 @@
+DPRINT,FUNC_0
+DosCloseHandle,FUNC_1
+DosGetFileDescriptor,FUNC_2
+FALSE,VAR_0
+FAR_POINTER,FUNC_3
+SEGMENT_TO_PSP,FUNC_4
+SYSTEM_PSP,VAR_1
+Sda,VAR_2
+TRUE,VAR_3
+DosForceDuplicateHandle,FUNC_5
+OldHandle,VAR_4
+NewHandle,VAR_5
+DescriptorId,VAR_6
+PspBlock,VAR_7
+HandleTable,VAR_8
+Descriptor,VAR_9

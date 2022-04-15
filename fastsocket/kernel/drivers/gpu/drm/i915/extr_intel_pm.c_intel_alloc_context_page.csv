@@ -1,0 +1,13 @@
+DRM_DEBUG,FUNC_0
+DRM_ERROR,FUNC_1
+WARN_ON,FUNC_2
+drm_gem_object_unreference,FUNC_3
+i915_gem_alloc_object,FUNC_4
+i915_gem_object_pin,FUNC_5
+i915_gem_object_set_to_gtt_domain,FUNC_6
+i915_gem_object_unpin,FUNC_7
+mutex_is_locked,FUNC_8
+intel_alloc_context_page,FUNC_9
+dev,VAR_0
+ctx,VAR_1
+ret,VAR_2

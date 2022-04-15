@@ -1,0 +1,13 @@
+clear_bam_transaction,FUNC_0
+clear_read_regs,FUNC_1
+get_qcom_nand_controller,FUNC_2
+read_page_ecc,FUNC_3
+set_address,FUNC_4
+to_qcom_nand_host,FUNC_5
+update_rw_regs,FUNC_6
+qcom_nandc_read_oob,FUNC_7
+chip,VAR_0
+page,VAR_1
+host,VAR_2
+nandc,VAR_3
+ecc,VAR_4

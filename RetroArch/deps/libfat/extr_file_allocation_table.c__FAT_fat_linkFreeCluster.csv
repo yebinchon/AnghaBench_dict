@@ -1,0 +1,13 @@
+CLUSTER_EOF,VAR_0
+CLUSTER_ERROR,VAR_1
+CLUSTER_FIRST,VAR_2
+CLUSTER_FREE,VAR_3
+_FAT_fat_nextCluster,FUNC_0
+_FAT_fat_writeFatEntry,FUNC_1
+_FAT_fat_linkFreeCluster,FUNC_2
+partition,VAR_4
+cluster,VAR_5
+firstFree,VAR_6
+curLink,VAR_7
+lastCluster,VAR_8
+loopedAroundFAT,VAR_9

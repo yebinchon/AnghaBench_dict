@@ -1,0 +1,8 @@
+RCVBUF_SIZE,VAR_0
+assert,FUNC_0
+sd_genl_socket_open,FUNC_1
+sd_netlink_attach_event,FUNC_2
+sd_netlink_inc_rcvbuf,FUNC_3
+manager_connect_genl,FUNC_4
+m,VAR_1
+r,VAR_2

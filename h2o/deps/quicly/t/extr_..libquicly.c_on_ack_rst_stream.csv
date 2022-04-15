@@ -1,0 +1,12 @@
+QUICLY_SENTMAP_EVENT_ACKED,VAR_0
+QUICLY_SENTMAP_EVENT_EXPIRED,VAR_1
+destroy_stream,FUNC_0
+on_ack_stream_state_sender,FUNC_1
+quicly_get_stream,FUNC_2
+stream_is_destroyable,FUNC_3
+on_ack_rst_stream,FUNC_4
+conn,VAR_2
+packet,VAR_3
+sent,VAR_4
+event,VAR_5
+stream,VAR_6

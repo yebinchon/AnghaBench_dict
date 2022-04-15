@@ -1,0 +1,11 @@
+add_round_key,FUNC_0
+inv_mix_columns,FUNC_1
+inv_shift_rows,FUNC_2
+inv_sub_bytes,FUNC_3
+br_aes_small_decrypt,FUNC_4
+num_rounds,VAR_0
+skey,VAR_1
+data,VAR_2
+buf,VAR_3
+state,VAR_4
+u,VAR_5

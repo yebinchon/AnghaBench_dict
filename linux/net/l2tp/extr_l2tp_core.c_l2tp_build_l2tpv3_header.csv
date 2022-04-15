@@ -1,0 +1,16 @@
+L2TP_ENCAPTYPE_UDP,VAR_0
+L2TP_HDR_VER_3,VAR_1
+L2TP_L2SPECTYPE_DEFAULT,VAR_2
+L2TP_MSG_SEQ,VAR_3
+htonl,FUNC_0
+htons,FUNC_1
+l2tp_dbg,FUNC_2
+memcpy,FUNC_3
+l2tp_build_l2tpv3_header,FUNC_4
+session,VAR_4
+buf,VAR_5
+tunnel,VAR_6
+bufp,VAR_7
+optr,VAR_8
+flags,VAR_9
+l2h,VAR_10

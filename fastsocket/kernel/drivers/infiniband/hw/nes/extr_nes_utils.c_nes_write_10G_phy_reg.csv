@@ -1,0 +1,16 @@
+NES_DBG_PHY,VAR_0
+NES_IDX_MAC_INT_STATUS,VAR_1
+NES_IDX_MAC_MDIO_CONTROL,VAR_2
+nes_debug,FUNC_0
+nes_read_indexed,FUNC_1
+nes_write_indexed,FUNC_2
+udelay,FUNC_3
+nes_write_10G_phy_reg,FUNC_4
+nesdev,VAR_3
+phy_addr,VAR_4
+dev_addr,VAR_5
+phy_reg,VAR_6
+data,VAR_7
+port_addr,VAR_8
+u32temp,VAR_9
+counter,VAR_10

@@ -1,0 +1,13 @@
+GFP_KERNEL,VAR_0
+IRQ_DOMAIN_NAME_ALLOCATED,VAR_1
+debugfs_add_domain_dir,FUNC_0
+debugfs_remove_domain_dir,FUNC_1
+irq_domain_mutex,VAR_2
+kasprintf,FUNC_2
+kfree,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+irq_domain_update_bus_token,FUNC_6
+domain,VAR_3
+bus_token,VAR_4
+name,VAR_5

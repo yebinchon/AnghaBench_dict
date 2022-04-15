@@ -1,0 +1,13 @@
+IUCV_CONNECTED,VAR_0
+IUCV_SEVERED,VAR_1
+TTY_CLOSED,VAR_2
+TTY_OPENED,VAR_3
+hvc_iucv_cleanup,FUNC_0
+hvc_kick,FUNC_1
+iucv_path_free,FUNC_2
+iucv_path_sever,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+hvc_iucv_hangup,FUNC_6
+priv,VAR_4
+path,VAR_5

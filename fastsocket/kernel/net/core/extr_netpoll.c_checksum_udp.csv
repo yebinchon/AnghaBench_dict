@@ -1,0 +1,14 @@
+CHECKSUM_COMPLETE,VAR_0
+IPPROTO_UDP,VAR_1
+__skb_checksum_complete,FUNC_0
+csum_add,FUNC_1
+csum_fold,FUNC_2
+csum_tcpudp_nofold,FUNC_3
+skb_csum_unnecessary,FUNC_4
+checksum_udp,FUNC_5
+skb,VAR_2
+uh,VAR_3
+ulen,VAR_4
+saddr,VAR_5
+daddr,VAR_6
+psum,VAR_7

@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+DTRACE_PROBE,FUNC_1
+curthread,VAR_0
+cv_wait,FUNC_2
+mutex_enter,FUNC_3
+mutex_exit,FUNC_4
+rrn_add,FUNC_5
+rrn_find,FUNC_6
+zfs__rrwfastpath__rdmiss,VAR_1
+zfs_refcount_add,FUNC_7
+zfs_refcount_count,FUNC_8
+zfs_refcount_is_zero,FUNC_9
+rrw_enter_read_impl,FUNC_10
+rrl,VAR_2
+prio,VAR_3
+tag,VAR_4

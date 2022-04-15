@@ -1,0 +1,17 @@
+COOKIE_TO_EPOCH,FUNC_0
+KASSERT,FUNC_1
+PCPU_GET,FUNC_2
+PCPU_SET,FUNC_3
+asid_epoch,VAR_0
+bcast_tlbi_workaround,VAR_1
+curpmap,VAR_2
+dsb,FUNC_4
+invalidate_local_icache,FUNC_5
+ish,VAR_3
+kernel_pmap,VAR_4
+pmap_alloc_asid,FUNC_6
+pmap_to_ttbr0,FUNC_7
+set_ttbr0,FUNC_8
+pmap_activate_int,FUNC_9
+pmap,VAR_5
+epoch,VAR_6

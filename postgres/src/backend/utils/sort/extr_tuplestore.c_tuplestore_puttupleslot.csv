@@ -1,0 +1,10 @@
+ExecCopySlotMinimalTuple,FUNC_0
+GetMemoryChunkSpace,FUNC_1
+MemoryContextSwitchTo,FUNC_2
+USEMEM,FUNC_3
+tuplestore_puttuple_common,FUNC_4
+tuplestore_puttupleslot,FUNC_5
+state,VAR_0
+slot,VAR_1
+tuple,VAR_2
+oldcxt,VAR_3

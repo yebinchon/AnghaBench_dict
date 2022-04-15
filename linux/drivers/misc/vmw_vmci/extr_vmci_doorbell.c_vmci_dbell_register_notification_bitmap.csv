@@ -1,0 +1,13 @@
+VMCI_ANON_SRC_HANDLE,VAR_0
+VMCI_DG_HEADERSIZE,VAR_1
+VMCI_HYPERVISOR_CONTEXT_ID,VAR_2
+VMCI_SET_NOTIFY_BITMAP,VAR_3
+VMCI_SUCCESS,VAR_4
+pr_devel,FUNC_0
+vmci_make_handle,FUNC_1
+vmci_send_datagram,FUNC_2
+vmci_use_ppn64,FUNC_3
+vmci_dbell_register_notification_bitmap,FUNC_4
+bitmap_ppn,VAR_5
+result,VAR_6
+bitmap_set_msg,VAR_7

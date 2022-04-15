@@ -1,0 +1,14 @@
+Assert,FUNC_0
+CHECK_SCAN_PROCEDURE,FUNC_1
+ItemPointerIsValid,FUNC_2
+RecentGlobalXmin,VAR_0
+SCAN_CHECKS,VAR_1
+TransactionIdIsValid,FUNC_3
+amgettuple,VAR_2
+pgstat_count_index_tuples,FUNC_4
+stub1,FUNC_5
+table_index_fetch_reset,FUNC_6
+index_getnext_tid,FUNC_7
+scan,VAR_3
+direction,VAR_4
+found,VAR_5

@@ -1,0 +1,16 @@
+FLAG_ACTIVE_LOW,VAR_0
+GPIO_IRQF_TRIGGER_FALLING,VAR_1
+GPIO_IRQF_TRIGGER_RISING,VAR_2
+clear_bit,FUNC_0
+dev_get_drvdata,FUNC_1
+gpio_sysfs_free_irq,FUNC_2
+gpio_sysfs_request_irq,FUNC_3
+set_bit,FUNC_4
+test_bit,FUNC_5
+gpio_sysfs_set_active_low,FUNC_6
+dev,VAR_3
+value,VAR_4
+data,VAR_5
+desc,VAR_6
+status,VAR_7
+flags,VAR_8

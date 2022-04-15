@@ -1,0 +1,14 @@
+EBT_DROP,VAR_0
+ETH_ALEN,VAR_1
+NF_BR_BROUTING,VAR_2
+PACKET_HOST,VAR_3
+br_port_get_rcu,FUNC_0
+eth_hdr,FUNC_1
+ether_addr_copy,FUNC_2
+skb_ensure_writable,FUNC_3
+xt_hooknum,FUNC_4
+xt_in,FUNC_5
+ebt_redirect_tg,FUNC_6
+skb,VAR_4
+par,VAR_5
+info,VAR_6

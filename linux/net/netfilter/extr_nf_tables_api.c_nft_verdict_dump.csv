@@ -1,0 +1,12 @@
+NFTA_VERDICT_CHAIN,VAR_0
+NFTA_VERDICT_CODE,VAR_1
+htonl,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start_noflag,FUNC_2
+nla_put_be32,FUNC_3
+nla_put_string,FUNC_4
+nft_verdict_dump,FUNC_5
+skb,VAR_2
+type,VAR_3
+v,VAR_4
+nest,VAR_5

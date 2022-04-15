@@ -1,0 +1,10 @@
+HV_STATUS_INSUFFICIENT_BUFFERS,VAR_0
+VMBUS_MESSAGE_CONNECTION_ID,VAR_1
+hv_post_message,FUNC_0
+msleep,FUNC_1
+vmbus_post_msg,FUNC_2
+buffer,VAR_2
+buflen,VAR_3
+conn_id,VAR_4
+ret,VAR_5
+retries,VAR_6

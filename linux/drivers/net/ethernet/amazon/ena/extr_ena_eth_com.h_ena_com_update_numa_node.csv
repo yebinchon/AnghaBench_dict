@@ -1,0 +1,7 @@
+ENA_ETH_IO_NUMA_NODE_CFG_REG_ENABLED_MASK,VAR_0
+ENA_ETH_IO_NUMA_NODE_CFG_REG_NUMA_MASK,VAR_1
+writel,FUNC_0
+ena_com_update_numa_node,FUNC_1
+io_cq,VAR_2
+numa_node,VAR_3
+numa_cfg,VAR_4

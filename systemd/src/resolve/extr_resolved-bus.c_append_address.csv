@@ -1,0 +1,15 @@
+AF_INET,VAR_0
+AF_INET6,VAR_1
+DNS_TYPE_A,VAR_2
+DNS_TYPE_AAAA,VAR_3
+EAFNOSUPPORT,VAR_4
+assert,FUNC_0
+sd_bus_message_append,FUNC_1
+sd_bus_message_append_array,FUNC_2
+sd_bus_message_close_container,FUNC_3
+sd_bus_message_open_container,FUNC_4
+append_address,FUNC_5
+reply,VAR_5
+rr,VAR_6
+ifindex,VAR_7
+r,VAR_8

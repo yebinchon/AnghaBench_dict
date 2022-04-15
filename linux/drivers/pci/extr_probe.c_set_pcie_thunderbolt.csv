@@ -1,0 +1,11 @@
+PCI_EXT_CAP_ID_VNDR,VAR_0
+PCI_VENDOR_ID_INTEL,VAR_1
+PCI_VNDR_HEADER,VAR_2
+PCI_VNDR_HEADER_ID,FUNC_0
+PCI_VSEC_ID_INTEL_TBT,VAR_3
+pci_find_next_ext_capability,FUNC_1
+pci_read_config_dword,FUNC_2
+set_pcie_thunderbolt,FUNC_3
+dev,VAR_4
+vsec,VAR_5
+header,VAR_6

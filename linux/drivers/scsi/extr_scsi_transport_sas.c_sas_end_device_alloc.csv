@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+SAS_END_DEVICE,VAR_1
+dev_set_name,FUNC_0
+dev_to_rphy,FUNC_1
+dev_to_shost,FUNC_2
+device_initialize,FUNC_3
+get_device,FUNC_4
+kzalloc,FUNC_5
+sas_end_device_release,VAR_2
+sas_rphy_initialize,FUNC_6
+scsi_is_sas_expander_device,FUNC_7
+transport_setup_device,FUNC_8
+sas_end_device_alloc,FUNC_9
+parent,VAR_3
+shost,VAR_4
+rdev,VAR_5
+rphy,VAR_6

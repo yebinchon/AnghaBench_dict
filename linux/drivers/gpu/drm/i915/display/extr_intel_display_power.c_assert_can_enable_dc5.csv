@@ -1,0 +1,11 @@
+DC_STATE_EN,VAR_0
+DC_STATE_EN_UPTO_DC5,VAR_1
+I915_READ,FUNC_0
+SKL_DISP_PW_2,VAR_2
+WARN_ONCE,FUNC_1
+assert_csr_loaded,FUNC_2
+assert_rpm_wakelock_held,FUNC_3
+intel_display_power_well_is_enabled,FUNC_4
+assert_can_enable_dc5,FUNC_5
+dev_priv,VAR_3
+pg2_enabled,VAR_4

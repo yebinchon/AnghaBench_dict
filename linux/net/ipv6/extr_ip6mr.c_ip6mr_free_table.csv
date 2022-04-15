@@ -1,0 +1,10 @@
+MRT6_FLUSH_MFC,VAR_0
+MRT6_FLUSH_MFC_STATIC,VAR_1
+MRT6_FLUSH_MIFS,VAR_2
+MRT6_FLUSH_MIFS_STATIC,VAR_3
+del_timer_sync,FUNC_0
+kfree,FUNC_1
+mroute_clean_tables,FUNC_2
+rhltable_destroy,FUNC_3
+ip6mr_free_table,FUNC_4
+mrt,VAR_4

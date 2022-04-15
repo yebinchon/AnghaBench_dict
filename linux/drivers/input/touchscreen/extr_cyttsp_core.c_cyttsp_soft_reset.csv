@@ -1,0 +1,16 @@
+CY_BL_STATE,VAR_0
+CY_DELAY_DFLT,VAR_1
+CY_DELAY_MAX,VAR_2
+CY_IDLE_STATE,VAR_3
+CY_SOFT_RESET_MODE,VAR_4
+EIO,VAR_5
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+msecs_to_jiffies,FUNC_2
+reinit_completion,FUNC_3
+ttsp_send_command,FUNC_4
+wait_for_completion_timeout,FUNC_5
+cyttsp_soft_reset,FUNC_6
+ts,VAR_6
+timeout,VAR_7
+retval,VAR_8

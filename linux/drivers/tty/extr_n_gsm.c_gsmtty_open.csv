@@ -1,0 +1,9 @@
+gsm_dlci_begin_open,FUNC_0
+tty_port_block_til_ready,FUNC_1
+tty_port_set_initialized,FUNC_2
+tty_port_tty_set,FUNC_3
+gsmtty_open,FUNC_4
+tty,VAR_0
+filp,VAR_1
+dlci,VAR_2
+port,VAR_3

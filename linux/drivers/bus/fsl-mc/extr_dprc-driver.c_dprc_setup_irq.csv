@@ -1,0 +1,8 @@
+disable_dprc_irq,FUNC_0
+enable_dprc_irq,FUNC_1
+fsl_mc_allocate_irqs,FUNC_2
+fsl_mc_free_irqs,FUNC_3
+register_dprc_irq_handler,FUNC_4
+dprc_setup_irq,FUNC_5
+mc_dev,VAR_0
+error,VAR_1

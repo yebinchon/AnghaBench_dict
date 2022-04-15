@@ -1,0 +1,11 @@
+TIMER_CTL_ENABLE,VAR_0
+TIMER_CTL_ONESHOT,VAR_1
+TIMER_CTL_REG,FUNC_0
+TIMER_CTL_RELOAD,VAR_2
+readl,FUNC_1
+writel,FUNC_2
+sun5i_clkevt_time_start,FUNC_3
+ce,VAR_3
+timer,VAR_4
+periodic,VAR_5
+val,VAR_6

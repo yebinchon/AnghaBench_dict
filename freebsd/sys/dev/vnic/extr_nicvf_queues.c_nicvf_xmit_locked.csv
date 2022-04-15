@@ -1,0 +1,12 @@
+ETHER_BPF_MTAP,FUNC_0
+NICVF_TX_LOCK_ASSERT,FUNC_1
+drbr_advance,FUNC_2
+drbr_peek,FUNC_3
+drbr_putback,FUNC_4
+nicvf_tx_mbuf_locked,FUNC_5
+nicvf_xmit_locked,FUNC_6
+sq,VAR_0
+nic,VAR_1
+ifp,VAR_2
+next,VAR_3
+err,VAR_4

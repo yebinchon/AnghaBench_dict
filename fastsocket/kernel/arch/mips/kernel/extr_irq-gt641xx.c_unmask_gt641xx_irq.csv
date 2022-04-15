@@ -1,0 +1,11 @@
+GT641XX_IRQ_TO_BIT,FUNC_0
+GT_INTRMASK_OFS,VAR_0
+GT_READ,FUNC_1
+GT_WRITE,FUNC_2
+gt641xx_irq_lock,VAR_1
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+unmask_gt641xx_irq,FUNC_5
+irq,VAR_2
+flags,VAR_3
+mask,VAR_4

@@ -1,0 +1,13 @@
+memset,FUNC_0
+put_unaligned_be16,FUNC_1
+put_unaligned_be32,FUNC_2
+scsi_sg_copy_from_buffer,FUNC_3
+myrb_mode_sense,FUNC_4
+cb,VAR_0
+scmd,VAR_1
+ldev_info,VAR_2
+modes,VAR_3
+mode_pg,VAR_4
+dbd,VAR_5
+mode_len,VAR_6
+block_desc,VAR_7

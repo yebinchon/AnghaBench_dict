@@ -1,0 +1,13 @@
+B_READ,VAR_0
+VM_PROT_READ,VAR_1
+VM_PROT_WRITE,VAR_2
+current_map,FUNC_0
+vm_map_check_protection,FUNC_1
+vm_map_page_mask,FUNC_2
+vm_map_round_page,FUNC_3
+vm_map_trunc_page,FUNC_4
+useracc,FUNC_5
+addr,VAR_3
+len,VAR_4
+prot,VAR_5
+map,VAR_6

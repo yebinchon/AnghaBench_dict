@@ -1,0 +1,15 @@
+MCP4725_I2C_ADDR_BASE,VAR_0
+PLATFORM_I2C_DIRECTION_RECEIVER,VAR_1
+get_address,FUNC_0
+lua_istable,FUNC_1
+lua_pushnumber,FUNC_2
+mcp4725_i2c_id,VAR_2
+platform_i2c_recv_byte,FUNC_3
+platform_i2c_send_address,FUNC_4
+platform_i2c_send_start,FUNC_5
+platform_i2c_send_stop,FUNC_6
+mcp4725_read,FUNC_7
+L,VAR_3
+i2c_address,VAR_4
+recieve_buffer,VAR_5
+i,VAR_6

@@ -1,0 +1,15 @@
+TXQ_COMMAND,VAR_0
+TXQ_CURRENT_DESC_PTR,FUNC_0
+__netif_tx_lock,FUNC_1
+__netif_tx_unlock,FUNC_2
+netdev_get_tx_queue,FUNC_3
+rdlp,FUNC_4
+smp_processor_id,FUNC_5
+txq_enable,FUNC_6
+txq_to_mp,FUNC_7
+txq_kick,FUNC_8
+txq,VAR_1
+mp,VAR_2
+nq,VAR_3
+hw_desc_ptr,VAR_4
+expected_ptr,VAR_5

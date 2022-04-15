@@ -1,0 +1,14 @@
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_EXCLUSIVE,VAR_0
+LW_SHARED,VAR_1
+SLRU_PAGE_EMPTY,VAR_2
+SLRU_PAGE_READ_IN_PROGRESS,VAR_3
+SimpleLruReadPage,FUNC_2
+SlruRecentlyUsed,FUNC_3
+SimpleLruReadPage_ReadOnly,FUNC_4
+ctl,VAR_4
+pageno,VAR_5
+xid,VAR_6
+shared,VAR_7
+slotno,VAR_8

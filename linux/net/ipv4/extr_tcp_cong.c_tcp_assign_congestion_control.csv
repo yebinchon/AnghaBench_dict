@@ -1,0 +1,17 @@
+INET_ECN_dontxmit,FUNC_0
+INET_ECN_xmit,FUNC_1
+TCP_CONG_NEEDS_ECN,VAR_0
+inet_csk,FUNC_2
+memset,FUNC_3
+rcu_dereference,FUNC_4
+rcu_read_lock,FUNC_5
+rcu_read_unlock,FUNC_6
+sock_net,FUNC_7
+tcp_reno,VAR_1
+try_module_get,FUNC_8
+unlikely,FUNC_9
+tcp_assign_congestion_control,FUNC_10
+sk,VAR_2
+net,VAR_3
+icsk,VAR_4
+ca,VAR_5

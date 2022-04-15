@@ -1,0 +1,15 @@
+IOMAP_F_BUFFER_HEAD,VAR_0
+PageUptodate,FUNC_0
+WARN_ON_ONCE,FUNC_1
+__block_write_begin_int,FUNC_2
+block_commit_write,FUNC_3
+iomap_page_create,FUNC_4
+set_page_dirty,FUNC_5
+iomap_page_mkwrite_actor,FUNC_6
+inode,VAR_1
+pos,VAR_2
+length,VAR_3
+data,VAR_4
+iomap,VAR_5
+page,VAR_6
+ret,VAR_7

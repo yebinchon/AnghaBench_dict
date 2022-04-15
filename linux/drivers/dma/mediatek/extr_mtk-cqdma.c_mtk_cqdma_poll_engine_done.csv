@@ -1,0 +1,10 @@
+MTK_CQDMA_EN,VAR_0
+MTK_CQDMA_EN_BIT,VAR_1
+MTK_CQDMA_TIMEOUT_POLL,VAR_2
+MTK_CQDMA_USEC_POLL,VAR_3
+readl_poll_timeout,FUNC_0
+readl_poll_timeout_atomic,FUNC_1
+mtk_cqdma_poll_engine_done,FUNC_2
+pc,VAR_4
+atomic,VAR_5
+status,VAR_6

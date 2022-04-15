@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+STK1160_AC97CTL_0,VAR_1
+STK1160_AC97CTL_0_CR,VAR_2
+STK1160_AC97CTL_0_CW,VAR_3
+STK1160_AC97_TIMEOUT,VAR_4
+jiffies,VAR_5
+msecs_to_jiffies,FUNC_0
+stk1160_err,FUNC_1
+stk1160_read_reg,FUNC_2
+time_is_after_jiffies,FUNC_3
+usleep_range,FUNC_4
+stk1160_ac97_wait_transfer_complete,FUNC_5
+dev,VAR_6
+timeout,VAR_7
+value,VAR_8

@@ -1,0 +1,14 @@
+cl_assert_equal_s,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_0
+git_blob_create_from_workdir,FUNC_3
+git_blob_filter,FUNC_4
+git_blob_free,FUNC_5
+git_blob_lookup,FUNC_6
+git_blob_rawcontent,FUNC_7
+git_buf_dispose,FUNC_8
+test_filter_blob__ident,FUNC_9
+id,VAR_1
+blob,VAR_2
+buf,VAR_3

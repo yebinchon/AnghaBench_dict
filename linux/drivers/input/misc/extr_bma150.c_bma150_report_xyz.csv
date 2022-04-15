@@ -1,0 +1,16 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+ABS_Z,VAR_2
+BMA150_ACC_X_LSB_REG,VAR_3
+BMA150_XYZ_DATA_SIZE,VAR_4
+i2c_smbus_read_i2c_block_data,FUNC_0
+input_report_abs,FUNC_1
+input_sync,FUNC_2
+sign_extend32,FUNC_3
+bma150_report_xyz,FUNC_4
+bma150,VAR_5
+data,VAR_6
+x,VAR_7
+y,VAR_8
+z,VAR_9
+ret,VAR_10

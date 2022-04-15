@@ -1,0 +1,15 @@
+ATA_PERIODIC_POLL,VAR_0
+ENXIO,VAR_1
+TRUE,VAR_2
+ata_periodic_poll,VAR_3
+ata_reinit,FUNC_0
+callout_reset,FUNC_1
+device_get_softc,FUNC_2
+hz,VAR_4
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+xpt_release_simq,FUNC_5
+ata_resume,FUNC_6
+dev,VAR_5
+ch,VAR_6
+error,VAR_7

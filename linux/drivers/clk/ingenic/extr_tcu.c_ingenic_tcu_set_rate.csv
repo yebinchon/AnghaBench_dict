@@ -1,0 +1,17 @@
+TCU_TCSR_PRESCALE_LSB,VAR_0
+TCU_TCSR_PRESCALE_MASK,VAR_1
+WARN_ONCE,FUNC_0
+ingenic_tcu_disable_regs,FUNC_1
+ingenic_tcu_enable_regs,FUNC_2
+ingenic_tcu_get_prescale,FUNC_3
+regmap_update_bits,FUNC_4
+to_tcu_clk,FUNC_5
+ingenic_tcu_set_rate,FUNC_6
+hw,VAR_2
+req_rate,VAR_3
+parent_rate,VAR_4
+tcu_clk,VAR_5
+info,VAR_6
+prescale,VAR_7
+was_enabled,VAR_8
+ret,VAR_9

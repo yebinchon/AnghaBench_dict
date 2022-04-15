@@ -1,0 +1,16 @@
+CR_CHAN,FUNC_0
+USBDUX_CMD_TIMER_RD,VAR_0
+le16_to_cpu,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+receive_dux_commands,FUNC_4
+send_dux_commands,FUNC_5
+usbdux_counter_read,FUNC_6
+dev,VAR_1
+s,VAR_2
+insn,VAR_3
+data,VAR_4
+devpriv,VAR_5
+chan,VAR_6
+ret,VAR_7
+i,VAR_8

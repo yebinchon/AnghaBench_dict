@@ -1,0 +1,9 @@
+SECURE_KEEP_CAPS,VAR_0
+cap_clear,FUNC_0
+issecure,FUNC_1
+make_kuid,FUNC_2
+uid_eq,FUNC_3
+cap_emulate_setxuid,FUNC_4
+new,VAR_1
+old,VAR_2
+root_uid,VAR_3

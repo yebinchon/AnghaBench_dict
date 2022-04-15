@@ -1,0 +1,13 @@
+DISPLAY_HEIGHT,VAR_0
+DISPLAY_PIXEL_FORMAT,VAR_1
+DISPLAY_STRIDE_IN_PIXELS,VAR_2
+DISPLAY_WIDTH,VAR_3
+SCE_DISPLAY_SETBUF_NEXTFRAME,VAR_4
+memset,FUNC_0
+sceDisplaySetFrameBuf,FUNC_1
+sceDisplayWaitVblankStart,FUNC_2
+vblank_wait,VAR_5
+display_callback,FUNC_3
+callback_data,VAR_6
+framebuf,VAR_7
+display_data,VAR_8

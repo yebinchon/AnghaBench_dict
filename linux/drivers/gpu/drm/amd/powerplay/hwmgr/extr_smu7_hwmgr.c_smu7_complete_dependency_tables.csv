@@ -1,0 +1,14 @@
+SMU7_VOLTAGE_CONTROL_BY_SVID2,VAR_0
+smu7_calc_mm_voltage_dependency_table,FUNC_0
+smu7_calc_voltage_dependency_tables,FUNC_1
+smu7_patch_clock_voltage_limits_with_vddc_leakage,FUNC_2
+smu7_patch_lookup_table_with_leakage,FUNC_3
+smu7_patch_ppt_v1_with_vdd_leakage,FUNC_4
+smu7_patch_voltage_dependency_tables_with_lookup_table,FUNC_5
+smu7_sort_lookup_table,FUNC_6
+smu7_complete_dependency_tables,FUNC_7
+hwmgr,VAR_1
+result,VAR_2
+tmp_result,VAR_3
+data,VAR_4
+table_info,VAR_5

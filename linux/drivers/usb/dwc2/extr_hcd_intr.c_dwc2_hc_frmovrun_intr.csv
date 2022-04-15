@@ -1,0 +1,15 @@
+DWC2_HC_XFER_FRAME_OVERRUN,VAR_0
+HCINTMSK_FRMOVRUN,VAR_1
+dbg_hc,FUNC_0
+dev_dbg,FUNC_1
+disable_hc_int,FUNC_2
+dwc2_halt_channel,FUNC_3
+dwc2_hc_handle_tt_clear,FUNC_4
+dwc2_hcd_get_pipe_type,FUNC_5
+dwc2_update_isoc_urb_state,FUNC_6
+dwc2_hc_frmovrun_intr,FUNC_7
+hsotg,VAR_2
+chan,VAR_3
+chnum,VAR_4
+qtd,VAR_5
+halt_status,VAR_6

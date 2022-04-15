@@ -1,0 +1,15 @@
+DRV_MSG_CODE_GET_MBA_VERSION,VAR_0
+ECORE_SUCCESS,VAR_1
+ECORE_UNKNOWN_ERROR,VAR_2
+FW_MSG_CODE_MASK,VAR_3
+FW_MSG_CODE_NVM_OK,VAR_4
+MCP_DRV_NVM_BUF_LEN,VAR_5
+ecore_mcp_nvm_rd_cmd,FUNC_0
+ecore_mcp_get_mba_versions,FUNC_1
+p_hwfn,VAR_6
+p_ptt,VAR_7
+p_mba_vers,VAR_8
+buf_size,VAR_9
+resp,VAR_10
+param,VAR_11
+rc,VAR_12

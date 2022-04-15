@@ -1,0 +1,17 @@
+RTL8306_NUM_PORTS,VAR_0
+RTL_REG_CPU_LINKUP,VAR_1
+RTL_REG_EN_TRUNK,VAR_2
+RTL_REG_RESET,VAR_3
+RTL_REG_TRUNK_PORTSEL,VAR_4
+msleep,FUNC_0
+rtl_get,FUNC_1
+rtl_phy_restore,FUNC_2
+rtl_phy_save,FUNC_3
+rtl_port_set_enable,FUNC_4
+rtl_set,FUNC_5
+rtl_hw_apply,FUNC_6
+dev,VAR_5
+i,VAR_6
+trunk_en,VAR_7
+trunk_psel,VAR_8
+port5,VAR_9

@@ -1,0 +1,16 @@
+FDDI_K_LLC_LEN,VAR_0
+FDDI_K_LLC_ZLEN,VAR_1
+NETDEV_TX_BUSY,VAR_2
+NETDEV_TX_OK,VAR_3
+dev_kfree_skb,FUNC_0
+netdev_priv,FUNC_1
+netif_start_queue,FUNC_2
+netif_stop_queue,FUNC_3
+pr_debug,FUNC_4
+send_queued_packets,FUNC_5
+skb_queue_tail,FUNC_6
+skfp_send_pkt,FUNC_7
+skb,VAR_4
+dev,VAR_5
+smc,VAR_6
+bp,VAR_7

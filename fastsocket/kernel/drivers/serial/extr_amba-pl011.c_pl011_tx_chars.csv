@@ -1,0 +1,13 @@
+UART01x_DR,VAR_0
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+pl011_stop_tx,FUNC_0
+uart_circ_chars_pending,FUNC_1
+uart_circ_empty,FUNC_2
+uart_tx_stopped,FUNC_3
+uart_write_wakeup,FUNC_4
+writew,FUNC_5
+pl011_tx_chars,FUNC_6
+uap,VAR_3
+xmit,VAR_4
+count,VAR_5

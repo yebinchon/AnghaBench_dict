@@ -1,0 +1,15 @@
+AST_VHUB_NUM_PORTS,VAR_0
+USB_PORT_STAT_ENABLE,VAR_1
+USB_PORT_STAT_SUSPEND,VAR_2
+ast_vhub_change_port_stat,FUNC_0
+ast_vhub_dev_resume,FUNC_1
+ast_vhub_dev_suspend,FUNC_2
+ast_vhub_update_hub_ep1,FUNC_3
+std_req_complete,VAR_3
+std_req_stall,VAR_4
+ast_vhub_clr_port_feature,FUNC_4
+ep,VAR_5
+port,VAR_6
+feat,VAR_7
+vhub,VAR_8
+p,VAR_9

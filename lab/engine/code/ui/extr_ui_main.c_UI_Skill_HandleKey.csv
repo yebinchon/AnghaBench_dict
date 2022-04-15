@@ -1,0 +1,12 @@
+UI_SelectForKey,FUNC_0
+numSkillLevels,VAR_0
+qfalse,VAR_1
+qtrue,VAR_2
+trap_Cvar_SetValue,FUNC_1
+trap_Cvar_VariableValue,FUNC_2
+UI_Skill_HandleKey,FUNC_3
+flags,VAR_3
+special,VAR_4
+key,VAR_5
+select,VAR_6
+i,VAR_7

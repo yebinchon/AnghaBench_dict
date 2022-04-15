@@ -1,0 +1,12 @@
+SCA3000_REG_INT_MASK_ADDR,VAR_0
+SCA3000_REG_INT_MASK_RING_HALF,VAR_1
+__sca3000_hw_ring_state_set,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sca3000_read_data_short,FUNC_4
+sca3000_write_reg,FUNC_5
+sca3000_hw_ring_preenable,FUNC_6
+indio_dev,VAR_2
+ret,VAR_3
+st,VAR_4

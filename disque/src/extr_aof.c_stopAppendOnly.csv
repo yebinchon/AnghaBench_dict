@@ -1,0 +1,16 @@
+AOF_OFF,VAR_0
+LL_NOTICE,VAR_1
+SIGUSR1,VAR_2
+aofClosePipes,FUNC_0
+aofRemoveTempFile,FUNC_1
+aofRewriteBufferReset,FUNC_2
+aof_fsync,FUNC_3
+close,FUNC_4
+flushAppendOnlyFile,FUNC_5
+kill,FUNC_6
+server,VAR_3
+serverAssert,FUNC_7
+serverLog,FUNC_8
+wait3,FUNC_9
+stopAppendOnly,FUNC_10
+statloc,VAR_4

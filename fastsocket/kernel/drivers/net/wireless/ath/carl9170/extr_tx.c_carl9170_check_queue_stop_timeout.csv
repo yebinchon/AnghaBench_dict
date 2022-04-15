@@ -1,0 +1,16 @@
+CARL9170_QUEUE_STUCK_TIMEOUT,VAR_0
+CARL9170_RR_STUCK_TX,VAR_1
+IEEE80211_SKB_CB,FUNC_0
+carl9170_restart,FUNC_1
+msecs_to_jiffies,FUNC_2
+skb_peek,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+time_is_before_jiffies,FUNC_6
+carl9170_check_queue_stop_timeout,FUNC_7
+ar,VAR_2
+i,VAR_3
+skb,VAR_4
+txinfo,VAR_5
+arinfo,VAR_6
+restart,VAR_7

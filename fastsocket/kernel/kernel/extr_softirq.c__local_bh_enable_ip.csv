@@ -1,0 +1,17 @@
+SOFTIRQ_DISABLE_OFFSET,VAR_0
+WARN_ON_ONCE,FUNC_0
+dec_preempt_count,FUNC_1
+do_softirq,FUNC_2
+in_interrupt,FUNC_3
+in_irq,FUNC_4
+irqs_disabled,FUNC_5
+local_irq_disable,FUNC_6
+local_irq_enable,FUNC_7
+local_softirq_pending,FUNC_8
+preempt_check_resched,FUNC_9
+softirq_count,FUNC_10
+sub_preempt_count,FUNC_11
+trace_softirqs_on,FUNC_12
+unlikely,FUNC_13
+_local_bh_enable_ip,FUNC_14
+ip,VAR_1

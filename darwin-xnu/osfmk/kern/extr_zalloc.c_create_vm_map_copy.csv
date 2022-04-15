@@ -1,0 +1,17 @@
+KERN_SUCCESS,VAR_0
+PAGE_SIZE,VAR_1
+TRUE,VAR_2
+assert,FUNC_0
+bzero,FUNC_1
+ipc_kernel_map,VAR_3
+kmem_free,FUNC_2
+round_page,FUNC_3
+vm_map_copyin,FUNC_4
+create_vm_map_copy,FUNC_5
+start_addr,VAR_4
+total_size,VAR_5
+used_size,VAR_6
+kr,VAR_7
+end_addr,VAR_8
+free_size,VAR_9
+copy,VAR_10

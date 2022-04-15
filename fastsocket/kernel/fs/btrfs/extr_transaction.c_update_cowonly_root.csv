@@ -1,0 +1,13 @@
+btrfs_root_bytenr,FUNC_0
+btrfs_root_used,FUNC_1
+btrfs_set_root_node,FUNC_2
+btrfs_update_root,FUNC_3
+btrfs_write_dirty_block_groups,FUNC_4
+switch_commit_root,FUNC_5
+update_cowonly_root,FUNC_6
+trans,VAR_0
+root,VAR_1
+ret,VAR_2
+old_root_bytenr,VAR_3
+old_root_used,VAR_4
+tree_root,VAR_5

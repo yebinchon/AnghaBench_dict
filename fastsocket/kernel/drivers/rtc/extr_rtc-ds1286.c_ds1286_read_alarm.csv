@@ -1,0 +1,15 @@
+RTC_CMD,VAR_0
+RTC_DAY_ALARM,VAR_1
+RTC_HOURS_ALARM,VAR_2
+RTC_MINUTES_ALARM,VAR_3
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+ds1286_rtc_read,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ds1286_read_alarm,FUNC_5
+dev,VAR_4
+alm,VAR_5
+priv,VAR_6
+cmd,VAR_7
+flags,VAR_8

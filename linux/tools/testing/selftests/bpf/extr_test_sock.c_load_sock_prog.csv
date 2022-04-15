@@ -1,0 +1,14 @@
+BPF_LOG_BUF_SIZE,VAR_0
+BPF_PROG_TYPE_CGROUP_SOCK,VAR_1
+bpf_load_program_xattr,FUNC_0
+bpf_log_buf,VAR_2
+fprintf,FUNC_1
+memset,FUNC_2
+probe_prog_length,FUNC_3
+stderr,VAR_3
+verbose,VAR_4
+load_sock_prog,FUNC_4
+prog,VAR_5
+attach_type,VAR_6
+attr,VAR_7
+ret,VAR_8

@@ -1,0 +1,7 @@
+JZ_MMC_JZ4780,VAR_0
+JZ_REG_MMC_IREG,VAR_1
+writel,FUNC_0
+writew,FUNC_1
+jz4740_mmc_write_irq_reg,FUNC_2
+host,VAR_2
+val,VAR_3

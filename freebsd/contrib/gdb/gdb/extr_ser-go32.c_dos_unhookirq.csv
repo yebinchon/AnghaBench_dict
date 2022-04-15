@@ -1,0 +1,16 @@
+ICU_MASK,VAR_0
+_go32_dpmi_free_iret_wrapper,FUNC_0
+_go32_dpmi_free_real_mode_callback,FUNC_1
+_go32_dpmi_set_protected_mode_interrupt_vector,FUNC_2
+_go32_dpmi_set_real_mode_interrupt_vector,FUNC_3
+disable,FUNC_4
+enable,FUNC_5
+icu_oldmask,VAR_1
+inportb,FUNC_6
+intrupts,VAR_2
+outportb,FUNC_7
+dos_unhookirq,FUNC_8
+intr,VAR_3
+irq,VAR_4
+vec,VAR_5
+mask,VAR_6

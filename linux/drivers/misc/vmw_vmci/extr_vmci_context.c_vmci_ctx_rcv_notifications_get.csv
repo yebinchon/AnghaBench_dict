@@ -1,0 +1,15 @@
+VMCI_ERROR_NOT_FOUND,VAR_0
+VMCI_ERROR_NO_MEM,VAR_1
+VMCI_MAX_GUEST_DOORBELL_COUNT,VAR_2
+VMCI_SUCCESS,VAR_3
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+vmci_ctx_get,FUNC_2
+vmci_ctx_put,FUNC_3
+vmci_handle_arr_create,FUNC_4
+vmci_ctx_rcv_notifications_get,FUNC_5
+context_id,VAR_4
+db_handle_array,VAR_5
+qp_handle_array,VAR_6
+context,VAR_7
+result,VAR_8

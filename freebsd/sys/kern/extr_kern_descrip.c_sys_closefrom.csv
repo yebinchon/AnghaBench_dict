@@ -1,0 +1,9 @@
+AUDIT_ARG_FD,FUNC_0
+FILEDESC_SLOCK,FUNC_1
+FILEDESC_SUNLOCK,FUNC_2
+kern_close,FUNC_3
+sys_closefrom,FUNC_4
+td,VAR_0
+uap,VAR_1
+fdp,VAR_2
+fd,VAR_3

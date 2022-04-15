@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+SPI_INTR_CLEAR_ALL,VAR_1
+SPI_INTR_CMD_DONE,VAR_2
+SPI_INT_MASK,VAR_3
+SPI_INT_STATUS,VAR_4
+bcm_spi_readb,FUNC_0
+bcm_spi_writeb,FUNC_1
+complete,FUNC_2
+spi_master_get_devdata,FUNC_3
+bcm63xx_spi_interrupt,FUNC_4
+irq,VAR_5
+dev_id,VAR_6
+master,VAR_7
+bs,VAR_8
+intr,VAR_9

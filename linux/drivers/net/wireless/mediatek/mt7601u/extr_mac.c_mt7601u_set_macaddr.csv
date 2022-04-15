@@ -1,0 +1,14 @@
+FIELD_PREP,FUNC_0
+MT_MAC_ADDR_DW0,VAR_0
+MT_MAC_ADDR_DW1,VAR_1
+MT_MAC_ADDR_DW1_U2ME_MASK,VAR_2
+dev_info,FUNC_1
+eth_random_addr,FUNC_2
+ether_addr_copy,FUNC_3
+get_unaligned_le16,FUNC_4
+get_unaligned_le32,FUNC_5
+is_valid_ether_addr,FUNC_6
+mt76_wr,FUNC_7
+mt7601u_set_macaddr,FUNC_8
+dev,VAR_3
+addr,VAR_4

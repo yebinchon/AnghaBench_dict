@@ -1,0 +1,13 @@
+lua_pushcfunction,FUNC_0
+lua_setfield,FUNC_1
+ngx_http_lua_ngx_cookie_time,VAR_0
+ngx_http_lua_ngx_http_time,VAR_1
+ngx_http_lua_ngx_localtime,VAR_2
+ngx_http_lua_ngx_now,VAR_3
+ngx_http_lua_ngx_parse_http_time,VAR_4
+ngx_http_lua_ngx_time,VAR_5
+ngx_http_lua_ngx_today,VAR_6
+ngx_http_lua_ngx_update_time,VAR_7
+ngx_http_lua_ngx_utctime,VAR_8
+ngx_http_lua_inject_time_api,FUNC_2
+L,VAR_9

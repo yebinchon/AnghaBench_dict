@@ -1,0 +1,14 @@
+EFI_GPT_PRIMARY_CORRUPT,VAR_0
+EIDRM,VAR_1
+O_DIRECT,VAR_2
+O_RDONLY,VAR_3
+close,FUNC_0
+efi_alloc_and_read,FUNC_1
+efi_free,FUNC_2
+errno,VAR_4
+open,FUNC_3
+zpool_label_disk_check,FUNC_4
+path,VAR_5
+vtoc,VAR_6
+fd,VAR_7
+err,VAR_8

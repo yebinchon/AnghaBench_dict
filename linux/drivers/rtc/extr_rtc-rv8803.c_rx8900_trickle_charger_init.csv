@@ -1,0 +1,13 @@
+RX8900_BACKUP_CTRL,VAR_0
+RX8900_FLAG_SWOFF,VAR_1
+RX8900_FLAG_VDETOFF,VAR_2
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+of_property_read_bool,FUNC_2
+rx_8900,VAR_3
+rx8900_trickle_charger_init,FUNC_3
+rv8803,VAR_4
+client,VAR_5
+node,VAR_6
+err,VAR_7
+flags,VAR_8

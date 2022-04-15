@@ -1,0 +1,16 @@
+DRM_ERROR,FUNC_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+PIPESTAT,FUNC_3
+PIPE_FIFO_UNDERRUN_STATUS,VAR_0
+POSTING_READ,FUNC_4
+i915_pipestat_enable_mask,FUNC_5
+lockdep_assert_held,FUNC_6
+pipe_name,FUNC_7
+to_i915,FUNC_8
+trace_intel_cpu_fifo_underrun,FUNC_9
+i9xx_check_fifo_underruns,FUNC_10
+crtc,VAR_1
+dev_priv,VAR_2
+reg,VAR_3
+enable_mask,VAR_4

@@ -1,0 +1,13 @@
+CMD_CRC_FWD,VAR_0
+GENET_POWER_WOL_MAGIC,VAR_1
+MPD_EN,VAR_2
+UMAC_CMD,VAR_3
+UMAC_MPD_CTRL,VAR_4
+bcmgenet_umac_readl,FUNC_0
+bcmgenet_umac_writel,FUNC_1
+netif_err,FUNC_2
+wol,VAR_5
+bcmgenet_wol_power_up_cfg,FUNC_3
+priv,VAR_6
+mode,VAR_7
+reg,VAR_8

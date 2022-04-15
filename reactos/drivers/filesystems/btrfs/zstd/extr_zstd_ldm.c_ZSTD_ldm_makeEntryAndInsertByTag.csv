@@ -1,0 +1,15 @@
+ZSTD_ldm_getChecksum,FUNC_0
+ZSTD_ldm_getSmallHash,FUNC_1
+ZSTD_ldm_getTag,FUNC_2
+ZSTD_ldm_insertEntry,FUNC_3
+ZSTD_ldm_makeEntryAndInsertByTag,FUNC_4
+ldmState,VAR_0
+rollingHash,VAR_1
+hBits,VAR_2
+offset,VAR_3
+ldmParams,VAR_4
+tag,VAR_5
+tagMask,VAR_6
+hash,VAR_7
+checksum,VAR_8
+entry,VAR_9

@@ -1,0 +1,17 @@
+DMA_TO_DEVICE,VAR_0
+FTGMAC100_TXDES0_FTS,VAR_1
+FTGMAC100_TXDES0_LTS,VAR_2
+FTGMAC100_TXDES0_TXBUF_SIZE,FUNC_0
+dev_kfree_skb,FUNC_1
+dma_unmap_page,FUNC_2
+dma_unmap_single,FUNC_3
+le32_to_cpu,FUNC_4
+skb_headlen,FUNC_5
+ftgmac100_free_tx_packet,FUNC_6
+priv,VAR_3
+pointer,VAR_4
+skb,VAR_5
+txdes,VAR_6
+ctl_stat,VAR_7
+map,VAR_8
+len,VAR_9

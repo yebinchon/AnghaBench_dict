@@ -1,0 +1,14 @@
+ACPI_Q_MADT_IRQ0,VAR_0
+AcpiGbl_FADT,VAR_1
+acpi_OverrideInterruptLevel,FUNC_0
+acpi_quirks,VAR_2
+bootverbose,VAR_3
+madt_parse_interrupt_values,FUNC_1
+panic,FUNC_2
+printf,FUNC_3
+xen_register_pirq,FUNC_4
+madt_parse_interrupt_override,FUNC_5
+intr,VAR_4
+trig,VAR_5
+pol,VAR_6
+ret,VAR_7

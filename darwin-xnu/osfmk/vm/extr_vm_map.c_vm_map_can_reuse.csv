@@ -1,0 +1,15 @@
+KERN_INVALID_ADDRESS,VAR_0
+KERN_SUCCESS,VAR_1
+assert,FUNC_0
+kernel_pmap,VAR_2
+vm_map_entry_is_reusable,FUNC_1
+vm_map_lock_read,FUNC_2
+vm_map_range_check,FUNC_3
+vm_map_to_entry,FUNC_4
+vm_map_unlock_read,FUNC_5
+vm_page_stats_reusable,VAR_3
+vm_map_can_reuse,FUNC_6
+map,VAR_4
+start,VAR_5
+end,VAR_6
+entry,VAR_7

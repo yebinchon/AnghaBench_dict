@@ -1,0 +1,17 @@
+BREAK_INSTR_SIZE,VAR_0
+NUMREGBYTES,VAR_1
+arch_needs_sstep_emulation,VAR_2
+eprintk,FUNC_0
+gdb_regs_to_pt_regs,FUNC_1
+instruction_pointer,FUNC_2
+kgdb_hex2mem,FUNC_3
+kgdbts_gdb_regs,VAR_3
+kgdbts_regs,VAR_4
+sstep_addr,VAR_5
+sstep_state,VAR_6
+strncmp,FUNC_4
+ts,VAR_7
+v2printk,FUNC_5
+emul_sstep_put,FUNC_6
+put_str,VAR_8
+arg,VAR_9

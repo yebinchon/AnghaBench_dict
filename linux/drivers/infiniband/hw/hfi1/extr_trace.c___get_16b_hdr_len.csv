@@ -1,0 +1,11 @@
+IB_OPCODE_UD_SEND_ONLY,VAR_0
+OPA_16B_L4_FM,VAR_1
+OPA_16B_L4_IB_LOCAL,VAR_2
+hdr_len_by_opcode,VAR_3
+hfi1_16B_get_l4,FUNC_0
+ib_bth_get_opcode,FUNC_1
+__get_16b_hdr_len,FUNC_2
+hdr,VAR_4
+ohdr,VAR_5
+opcode,VAR_6
+l4,VAR_7

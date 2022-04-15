@@ -1,0 +1,15 @@
+ERROR,VAR_0
+FileClose,FUNC_0
+FileSync,FUNC_1
+WAIT_EVENT_LOGICAL_REWRITE_SYNC,VAR_1
+data_sync_elevel,FUNC_2
+ereport,FUNC_3
+errcode_for_file_access,FUNC_4
+errmsg,FUNC_5
+hash_seq_init,FUNC_6
+hash_seq_search,FUNC_7
+logical_heap_rewrite_flush_mappings,FUNC_8
+logical_end_heap_rewrite,FUNC_9
+state,VAR_2
+seq_status,VAR_3
+src,VAR_4

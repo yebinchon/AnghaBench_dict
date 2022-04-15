@@ -1,0 +1,17 @@
+ETH_ALEN,VAR_0
+ETH_HLEN,VAR_1
+ETH_P_802_3,VAR_2
+IFF_LOOPBACK,VAR_3
+IFF_NOARP,VAR_4
+htons,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+skb_push,FUNC_3
+eth_header,FUNC_4
+skb,VAR_5
+dev,VAR_6
+type,VAR_7
+daddr,VAR_8
+saddr,VAR_9
+len,VAR_10
+eth,VAR_11

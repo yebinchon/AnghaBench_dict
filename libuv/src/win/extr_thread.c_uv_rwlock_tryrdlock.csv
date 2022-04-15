@@ -1,0 +1,13 @@
+GetLastError,FUNC_0
+LeaveCriticalSection,FUNC_1
+TryEnterCriticalSection,FUNC_2
+UV_EBUSY,VAR_0
+WAIT_FAILED,VAR_1
+WAIT_OBJECT_0,VAR_2
+WAIT_TIMEOUT,VAR_3
+WaitForSingleObject,FUNC_3
+uv_fatal_error,FUNC_4
+uv_rwlock_tryrdlock,FUNC_5
+rwlock,VAR_4
+err,VAR_5
+r,VAR_6

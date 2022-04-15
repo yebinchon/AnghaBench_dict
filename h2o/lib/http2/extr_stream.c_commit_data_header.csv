@@ -1,0 +1,17 @@
+H2O_HTTP2_ERROR_PROTOCOL,VAR_0
+H2O_HTTP2_ERROR_REFUSED_STREAM,VAR_1
+H2O_HTTP2_FRAME_FLAG_END_STREAM,VAR_2
+H2O_HTTP2_FRAME_HEADER_SIZE,VAR_3
+H2O_HTTP2_FRAME_TYPE_DATA,VAR_4
+H2O_SEND_STATE_ERROR,VAR_5
+H2O_SEND_STATE_FINAL,VAR_6
+assert,FUNC_0
+h2o_http2_encode_frame_header,FUNC_1
+h2o_http2_encode_rst_stream_frame,FUNC_2
+h2o_http2_window_consume_window,FUNC_3
+commit_data_header,FUNC_4
+conn,VAR_7
+stream,VAR_8
+outbuf,VAR_9
+length,VAR_10
+send_state,VAR_11

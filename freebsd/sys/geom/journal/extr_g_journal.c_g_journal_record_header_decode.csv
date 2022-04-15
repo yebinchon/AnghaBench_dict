@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+GJ_RECORD_HEADER_MAGIC,VAR_1
+GJ_RECORD_HEADER_NENTRIES,VAR_2
+bcopy,FUNC_0
+le16dec,FUNC_1
+le32dec,FUNC_2
+le64dec,FUNC_3
+strcmp,FUNC_4
+g_journal_record_header_decode,FUNC_5
+data,VAR_3
+hdr,VAR_4
+ent,VAR_5
+i,VAR_6

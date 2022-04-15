@@ -1,0 +1,15 @@
+EXTENT_DIRTY,VAR_0
+EXTENT_NEED_WAIT,VAR_1
+EXTENT_NEW,VAR_2
+btrfs_abort_transaction,FUNC_0
+btrfs_handle_fs_error,FUNC_1
+clear_extent_bits,FUNC_2
+free_extent_buffer,FUNC_3
+kfree,FUNC_4
+process_one_buffer,VAR_3
+walk_log_tree,FUNC_5
+free_log_tree,FUNC_6
+trans,VAR_4
+log,VAR_5
+ret,VAR_6
+wc,VAR_7

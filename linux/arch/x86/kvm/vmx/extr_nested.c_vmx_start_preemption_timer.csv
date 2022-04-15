@@ -1,0 +1,12 @@
+HRTIMER_MODE_REL,VAR_0
+VMX_MISC_EMULATED_PREEMPTION_TIMER_RATE,VAR_1
+do_div,FUNC_0
+get_vmcs12,FUNC_1
+hrtimer_start,FUNC_2
+ns_to_ktime,FUNC_3
+to_vmx,FUNC_4
+vmx_preemption_timer_fn,FUNC_5
+vmx_start_preemption_timer,FUNC_6
+vcpu,VAR_2
+preemption_timeout,VAR_3
+vmx,VAR_4

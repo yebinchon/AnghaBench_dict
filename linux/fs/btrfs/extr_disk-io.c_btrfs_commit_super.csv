@@ -1,0 +1,14 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+btrfs_commit_transaction,FUNC_2
+btrfs_join_transaction,FUNC_3
+btrfs_run_delayed_iputs,FUNC_4
+down_write,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+up_write,FUNC_8
+wake_up_process,FUNC_9
+btrfs_commit_super,FUNC_10
+fs_info,VAR_0
+root,VAR_1
+trans,VAR_2

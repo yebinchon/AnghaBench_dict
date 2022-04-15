@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+apply_wqattrs_lock,FUNC_0
+apply_wqattrs_unlock,FUNC_1
+cpu_possible_mask,VAR_3
+cpumask_and,FUNC_2
+cpumask_copy,FUNC_3
+cpumask_empty,FUNC_4
+free_cpumask_var,FUNC_5
+workqueue_apply_unbound_cpumask,FUNC_6
+wq_unbound_cpumask,VAR_4
+zalloc_cpumask_var,FUNC_7
+workqueue_set_unbound_cpumask,FUNC_8
+cpumask,VAR_5
+ret,VAR_6
+saved_cpumask,VAR_7

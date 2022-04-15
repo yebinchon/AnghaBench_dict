@@ -1,0 +1,9 @@
+KVM_S390_INT_EMERGENCY,VAR_0
+SIGP_CC_ORDER_CODE_ACCEPTED,VAR_1
+VCPU_EVENT,FUNC_0
+kvm_s390_inject_vcpu,FUNC_1
+__inject_sigp_emergency,FUNC_2
+vcpu,VAR_2
+dst_vcpu,VAR_3
+irq,VAR_4
+rc,VAR_5

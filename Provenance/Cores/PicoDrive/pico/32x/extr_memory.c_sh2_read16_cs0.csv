@@ -1,0 +1,16 @@
+EL_32X,VAR_0
+EL_LOGMASK,VAR_1
+EL_PWM,VAR_2
+Pico32xMem,VAR_3
+SH2_STATE_VPOLL,VAR_4
+elprintf_sh2,FUNC_0
+p32x_sh2reg_read16,FUNC_1
+p32x_vdp_read16,FUNC_2
+sh2_burn_cycles,FUNC_3
+sh2_pc,FUNC_4
+sh2_poll_detect,FUNC_5
+sh2_read16_unmapped,FUNC_6
+sh2_read16_cs0,FUNC_7
+a,VAR_5
+sh2,VAR_6
+d,VAR_7

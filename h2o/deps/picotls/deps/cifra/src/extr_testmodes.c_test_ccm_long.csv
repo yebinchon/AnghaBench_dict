@@ -1,0 +1,16 @@
+TEST_CHECK,FUNC_0
+cf_aes,VAR_0
+cf_aes_init,FUNC_1
+cf_ccm_encrypt,FUNC_2
+fill,FUNC_3
+memcmp,FUNC_4
+test_ccm_long,FUNC_5
+header,VAR_1
+key,VAR_2
+tag,VAR_3
+nonce,VAR_4
+plain,VAR_5
+cipher,VAR_6
+expect_tag,VAR_7
+expect_cipher,VAR_8
+ctx,VAR_9

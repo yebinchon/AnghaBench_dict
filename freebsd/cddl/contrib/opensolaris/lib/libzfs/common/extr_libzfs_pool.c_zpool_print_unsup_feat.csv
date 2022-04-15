@@ -1,0 +1,17 @@
+DATA_TYPE_STRING,VAR_0
+ZPOOL_CONFIG_LOAD_INFO,VAR_1
+ZPOOL_CONFIG_UNSUP_FEAT,VAR_2
+nvlist_lookup_nvlist,FUNC_0
+nvlist_next_nvpair,FUNC_1
+nvpair_name,FUNC_2
+nvpair_type,FUNC_3
+nvpair_value_string,FUNC_4
+printf,FUNC_5
+strlen,FUNC_6
+verify,FUNC_7
+zpool_print_unsup_feat,FUNC_8
+config,VAR_3
+nvinfo,VAR_4
+unsup_feat,VAR_5
+nvp,VAR_6
+desc,VAR_7

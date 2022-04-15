@@ -1,0 +1,13 @@
+ENA_ETH_IO_RX_CDESC_BASE_LAST_MASK,VAR_0
+ENA_ETH_IO_RX_CDESC_BASE_LAST_SHIFT,VAR_1
+READ_ONCE32,FUNC_0
+ena_com_cq_inc_head,FUNC_1
+ena_com_get_next_rx_cdesc,FUNC_2
+ena_trc_dbg,FUNC_3
+ena_com_cdesc_rx_pkt_get,FUNC_4
+io_cq,VAR_2
+first_cdesc_idx,VAR_3
+cdesc,VAR_4
+count,VAR_5
+head_masked,VAR_6
+last,VAR_7

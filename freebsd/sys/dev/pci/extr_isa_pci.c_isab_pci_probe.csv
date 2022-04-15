@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+PCIC_BRIDGE,VAR_1
+PCIS_BRIDGE_ISA,VAR_2
+bootverbose,VAR_3
+device_set_desc,FUNC_0
+pci_get_class,FUNC_1
+pci_get_devid,FUNC_2
+pci_get_subclass,FUNC_3
+printf,FUNC_4
+isab_pci_probe,FUNC_5
+dev,VAR_4
+matched,VAR_5

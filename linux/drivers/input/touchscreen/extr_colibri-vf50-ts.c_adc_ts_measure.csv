@@ -1,0 +1,14 @@
+COLI_TOUCH_MAX_DELAY_US,VAR_0
+COLI_TOUCH_MIN_DELAY_US,VAR_1
+COLI_TOUCH_NO_OF_AVGS,VAR_2
+gpiod_set_value,FUNC_0
+iio_read_channel_raw,FUNC_1
+usleep_range,FUNC_2
+adc_ts_measure,FUNC_3
+channel,VAR_3
+plate_p,VAR_4
+plate_m,VAR_5
+i,VAR_6
+value,VAR_7
+val,VAR_8
+error,VAR_9

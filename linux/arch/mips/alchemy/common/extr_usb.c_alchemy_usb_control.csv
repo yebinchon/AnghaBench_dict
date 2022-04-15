@@ -1,0 +1,17 @@
+AU1000_OHCICFG,VAR_0
+AU1000_USB_OHCI_PHYS_ADDR,VAR_1
+AU1550_OHCICFG,VAR_2
+AU1550_USB_OHCI_PHYS_ADDR,VAR_3
+ENODEV,VAR_4
+alchemy_get_cputype,FUNC_0
+alchemy_usb_lock,VAR_5
+au1000_usb_control,FUNC_1
+au1200_usb_control,FUNC_2
+au1300_usb_control,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+alchemy_usb_control,FUNC_6
+block,VAR_6
+enable,VAR_7
+flags,VAR_8
+ret,VAR_9

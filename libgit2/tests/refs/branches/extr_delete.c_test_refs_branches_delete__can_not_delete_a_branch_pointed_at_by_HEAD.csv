@@ -1,0 +1,14 @@
+GIT_BRANCH_LOCAL,VAR_0
+GIT_HEAD_FILE,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_branch_delete,FUNC_3
+git_branch_lookup,FUNC_4
+git_reference_free,FUNC_5
+git_reference_lookup,FUNC_6
+git_reference_symbolic_target,FUNC_7
+repo,VAR_2
+test_refs_branches_delete__can_not_delete_a_branch_pointed_at_by_HEAD,FUNC_8
+head,VAR_3
+branch,VAR_4

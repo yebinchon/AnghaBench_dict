@@ -1,0 +1,16 @@
+EMSGSIZE,VAR_0
+NL80211_ATTR_COOKIE,VAR_1
+NL80211_ATTR_IFINDEX,VAR_2
+NL80211_ATTR_PAD,VAR_3
+NL80211_ATTR_WIPHY,VAR_4
+genlmsg_cancel,FUNC_0
+genlmsg_end,FUNC_1
+nl80211hdr_put,FUNC_2
+nla_put_u32,FUNC_3
+nla_put_u64_64bit,FUNC_4
+wiphy_to_rdev,FUNC_5
+nl80211_prep_sched_scan_msg,FUNC_6
+msg,VAR_5
+req,VAR_6
+cmd,VAR_7
+hdr,VAR_8

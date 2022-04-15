@@ -1,0 +1,17 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+GIT_OBJECT_ANY,VAR_2
+assert_on_branch,FUNC_0
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_3
+git_checkout_tree,FUNC_3
+git_object_free,FUNC_4
+git_object_lookup,FUNC_5
+git_path_isfile,FUNC_6
+git_reference_name_to_id,FUNC_7
+p_mkdir,FUNC_8
+test_checkout_tree__can_write_to_empty_dirs,FUNC_9
+opts,VAR_4
+oid,VAR_5
+obj,VAR_6

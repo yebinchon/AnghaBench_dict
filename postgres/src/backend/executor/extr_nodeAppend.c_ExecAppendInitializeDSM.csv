@@ -1,0 +1,10 @@
+LWLockInitialize,FUNC_0
+LWTRANCHE_PARALLEL_APPEND,VAR_0
+choose_next_subplan_for_leader,VAR_1
+memset,FUNC_1
+shm_toc_allocate,FUNC_2
+shm_toc_insert,FUNC_3
+ExecAppendInitializeDSM,FUNC_4
+node,VAR_2
+pcxt,VAR_3
+pstate,VAR_4

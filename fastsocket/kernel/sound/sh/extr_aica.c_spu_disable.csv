@@ -1,0 +1,11 @@
+ARM_RESET_REGISTER,VAR_0
+SPU_REGISTER_BASE,VAR_1
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+readl,FUNC_2
+spu_write_wait,FUNC_3
+writel,FUNC_4
+spu_disable,FUNC_5
+i,VAR_2
+flags,VAR_3
+regval,VAR_4

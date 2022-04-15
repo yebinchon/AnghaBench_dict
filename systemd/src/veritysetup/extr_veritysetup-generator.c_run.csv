@@ -1,0 +1,14 @@
+PROC_CMDLINE_STRIP_RD_PREFIX,VAR_0
+arg_dest,VAR_1
+arg_enabled,VAR_2
+assert_se,FUNC_0
+create_device,FUNC_1
+determine_devices,FUNC_2
+log_warning_errno,FUNC_3
+parse_proc_cmdline_item,VAR_3
+proc_cmdline_parse,FUNC_4
+run,FUNC_5
+dest,VAR_4
+dest_early,VAR_5
+dest_late,VAR_6
+r,VAR_7

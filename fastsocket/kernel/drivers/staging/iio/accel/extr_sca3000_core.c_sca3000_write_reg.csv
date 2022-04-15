@@ -1,0 +1,10 @@
+SCA3000_WRITE_REG,FUNC_0
+spi_message_add_tail,FUNC_1
+spi_message_init,FUNC_2
+spi_sync,FUNC_3
+sca3000_write_reg,FUNC_4
+st,VAR_0
+address,VAR_1
+val,VAR_2
+xfer,VAR_3
+msg,VAR_4

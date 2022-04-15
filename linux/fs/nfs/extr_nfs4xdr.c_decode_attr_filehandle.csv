@@ -1,0 +1,15 @@
+EIO,VAR_0
+FATTR4_WORD0_FILEHANDLE,VAR_1
+NFS4_FHSIZE,VAR_2
+be32_to_cpup,FUNC_0
+likely,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+unlikely,FUNC_4
+xdr_inline_decode,FUNC_5
+decode_attr_filehandle,FUNC_6
+xdr,VAR_3
+bitmap,VAR_4
+fh,VAR_5
+p,VAR_6
+len,VAR_7

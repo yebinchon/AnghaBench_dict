@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+ENXIO,VAR_1
+M_USBDEV,VAR_2
+M_WAITOK,VAR_3
+copyout,FUNC_0
+free,FUNC_1
+malloc,FUNC_2
+usbd_req_get_report,FUNC_3
+uhid_get_report,FUNC_4
+sc,VAR_4
+type,VAR_5
+id,VAR_6
+kern_data,VAR_7
+user_data,VAR_8
+len,VAR_9
+err,VAR_10
+free_data,VAR_11

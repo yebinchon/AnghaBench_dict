@@ -1,0 +1,12 @@
+SCTP_RTXR_PMTUD,VAR_0
+SPP_PMTUD_ENABLE,VAR_1
+atomic_set,FUNC_0
+sctp_assoc_sync_pmtu,FUNC_1
+sctp_retransmit,FUNC_2
+sctp_transport_update_pmtu,FUNC_3
+sock_owned_by_user,FUNC_4
+sctp_icmp_frag_needed,FUNC_5
+sk,VAR_2
+asoc,VAR_3
+t,VAR_4
+pmtu,VAR_5

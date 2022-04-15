@@ -1,0 +1,11 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+git_diff_free,FUNC_2
+git_diff_index_to_workdir,FUNC_3
+git_diff_num_deltas,FUNC_4
+git_repository_index__weakptr,FUNC_5
+setup_race,FUNC_6
+test_index_racy__detects_diff_of_change_in_identical_timestamp,FUNC_7
+index,VAR_1
+diff,VAR_2

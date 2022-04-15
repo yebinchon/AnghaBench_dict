@@ -1,0 +1,16 @@
+dev_err,FUNC_0
+disable_irq,FUNC_1
+enable_irq,FUNC_2
+i2c_get_clientdata,FUNC_3
+mutex_lock_interruptible,FUNC_4
+mutex_unlock,FUNC_5
+wdt87xx_get_sysparam,FUNC_6
+wdt87xx_load_chunk,FUNC_7
+wdt87xx_sw_reset,FUNC_8
+wdt87xx_validate_firmware,FUNC_9
+wdt87xx_do_update_firmware,FUNC_10
+client,VAR_0
+fw,VAR_1
+chunk_id,VAR_2
+wdt,VAR_3
+error,VAR_4

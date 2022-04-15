@@ -1,0 +1,8 @@
+__flush_purge_region,FUNC_0
+sh64_icache_inv_kernel_range,FUNC_1
+wmb,FUNC_2
+sh5_flush_icache_range,FUNC_3
+args,VAR_0
+data,VAR_1
+start,VAR_2
+end,VAR_3

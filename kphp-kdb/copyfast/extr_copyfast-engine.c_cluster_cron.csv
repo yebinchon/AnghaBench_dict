@@ -1,0 +1,17 @@
+CHILDREN_RENEW_TIME,VAR_0
+ID_MASK,VAR_1
+JOIN_RENEW_TIME,VAR_2
+LAST_CHILDREN_GET_TIME,VAR_3
+LAST_STATS_TIME,VAR_4
+NODE_ID,VAR_5
+STATS_RENEW_TIME,VAR_6
+binlog_flush,FUNC_0
+get_target_connection,FUNC_1
+main_targ,VAR_7
+precise_now,VAR_8
+rpc_send_join,FUNC_2
+rpc_send_stats,FUNC_3
+send_friends_binlog_position,FUNC_4
+cluster_cron,FUNC_5
+c,VAR_9
+c,VAR_10

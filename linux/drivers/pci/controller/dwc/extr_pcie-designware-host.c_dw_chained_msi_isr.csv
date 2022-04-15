@@ -1,0 +1,9 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+dw_handle_msi_irq,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+dw_chained_msi_isr,FUNC_5
+desc,VAR_0
+chip,VAR_1
+pp,VAR_2

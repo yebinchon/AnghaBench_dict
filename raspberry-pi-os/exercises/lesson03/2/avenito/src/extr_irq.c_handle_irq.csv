@@ -1,0 +1,10 @@
+AUX_IRQ,VAR_0
+IRQ_PENDING_1,VAR_1
+SYSTEM_TIMER_IRQ_1,VAR_2
+get32,FUNC_0
+handle_timer_irq,FUNC_1
+handle_uart_irq,FUNC_2
+miniUART_IRQ,VAR_3
+handle_irq,FUNC_3
+irq1,VAR_4
+irq2,VAR_5

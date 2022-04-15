@@ -1,0 +1,15 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+ExecClearTuple,FUNC_1
+ExecProcNode,FUNC_2
+ExecStoreHeapTuple,FUNC_3
+HeapTupleIsValid,FUNC_4
+TupIsNull,FUNC_5
+gather_readnext,FUNC_6
+outerPlanState,FUNC_7
+gather_getnext,FUNC_8
+gatherstate,VAR_0
+outerPlan,VAR_1
+outerTupleSlot,VAR_2
+fslot,VAR_3
+tup,VAR_4
+estate,VAR_5

@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+EDRIVE_CANT_DO_THIS,VAR_1
+GPCMD_READ_10,VAR_2
+IOCTL_TIMEOUT,VAR_3
+KERN_INFO,VAR_4
+memset,FUNC_0
+sr_do_ioctl,FUNC_1
+sr_printk,FUNC_2
+sr_read_cd,FUNC_3
+sr_set_blocklength,FUNC_4
+sr_read_sector,FUNC_5
+cd,VAR_5
+lba,VAR_6
+blksize,VAR_7
+dest,VAR_8
+cgc,VAR_9
+rc,VAR_10

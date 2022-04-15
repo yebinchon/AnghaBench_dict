@@ -1,0 +1,16 @@
+SVN_ERR,FUNC_0
+SVN_ERR_RA_OUT_OF_DATE,VAR_0
+SVN_NO_ERROR,VAR_1
+_,FUNC_1
+svn_error_createf,FUNC_2
+svn_ra_change_rev_prop2,FUNC_3
+svn_ra_rev_prop,FUNC_4
+svn_string_compare,FUNC_5
+check_and_set_revprop,FUNC_6
+set_rev,VAR_2
+ra_session,VAR_3
+propname,VAR_4
+original_propval,VAR_5
+propval,VAR_6
+pool,VAR_7
+current,VAR_8

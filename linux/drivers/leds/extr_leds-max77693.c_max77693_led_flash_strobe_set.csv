@@ -1,0 +1,16 @@
+MODE_FLASH,FUNC_0
+flcdev_to_sub_led,FUNC_1
+max77693_add_mode,FUNC_2
+max77693_clear_mode,FUNC_3
+max77693_get_flash_faults,FUNC_4
+max77693_set_timeout,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+sub_led_to_led,FUNC_8
+max77693_led_flash_strobe_set,FUNC_9
+fled_cdev,VAR_0
+state,VAR_1
+sub_led,VAR_2
+led,VAR_3
+fled_id,VAR_4
+ret,VAR_5

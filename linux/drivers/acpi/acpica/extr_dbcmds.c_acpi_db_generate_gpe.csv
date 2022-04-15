@@ -1,0 +1,11 @@
+ACPI_TO_POINTER,FUNC_0
+acpi_ev_get_gpe_event_info,FUNC_1
+acpi_ev_gpe_dispatch,FUNC_2
+acpi_os_printf,FUNC_3
+strtoul,FUNC_4
+acpi_db_generate_gpe,FUNC_5
+gpe_arg,VAR_0
+block_arg,VAR_1
+block_number,VAR_2
+gpe_number,VAR_3
+gpe_event_info,VAR_4

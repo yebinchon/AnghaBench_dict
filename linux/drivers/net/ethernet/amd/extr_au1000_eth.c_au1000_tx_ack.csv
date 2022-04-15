@@ -1,0 +1,10 @@
+NUM_TX_DMA,VAR_0
+TX_T_DONE,VAR_1
+au1000_update_tx_stats,FUNC_0
+netdev_priv,FUNC_1
+netif_wake_queue,FUNC_2
+wmb,FUNC_3
+au1000_tx_ack,FUNC_4
+dev,VAR_2
+aup,VAR_3
+ptxd,VAR_4

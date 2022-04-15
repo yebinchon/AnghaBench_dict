@@ -1,0 +1,17 @@
+AES_KEYSIZE_128,VAR_0
+AES_KEYSIZE_192,VAR_1
+AES_KEYSIZE_256,VAR_2
+CRYPTO_TFM_REQ_MASK,VAR_3
+EINVAL,VAR_4
+crypto_ablkcipher_ctx,FUNC_0
+crypto_sync_skcipher_clear_flags,FUNC_1
+crypto_sync_skcipher_set_flags,FUNC_2
+crypto_sync_skcipher_setkey,FUNC_3
+memcpy,FUNC_4
+pr_debug,FUNC_5
+omap_aes_setkey,FUNC_6
+tfm,VAR_5
+key,VAR_6
+keylen,VAR_7
+ctx,VAR_8
+ret,VAR_9

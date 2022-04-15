@@ -1,0 +1,11 @@
+ACPI_FREE,FUNC_0
+ACPI_TYPE_BUFFER,VAR_0
+HID_EVENT_FILTER_UUID,VAR_1
+acpi_evaluate_dsm_typed,FUNC_1
+acpi_handle_debug,FUNC_2
+guid_parse,FUNC_3
+intel_dsm_guid,VAR_2
+intel_hid_dsm_fn_mask,VAR_3
+intel_hid_init_dsm,FUNC_4
+handle,VAR_4
+obj,VAR_5

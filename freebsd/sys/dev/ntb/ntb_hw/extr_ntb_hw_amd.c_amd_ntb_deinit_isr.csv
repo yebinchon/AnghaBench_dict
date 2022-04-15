@@ -1,0 +1,11 @@
+AMD_DBMASK_OFFSET,VAR_0
+SYS_RES_IRQ,VAR_1
+amd_ntb_free_msix_vec,FUNC_0
+amd_ntb_reg_write,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+rman_get_rid,FUNC_4
+amd_ntb_deinit_isr,FUNC_5
+ntb,VAR_2
+current_int,VAR_3
+i,VAR_4

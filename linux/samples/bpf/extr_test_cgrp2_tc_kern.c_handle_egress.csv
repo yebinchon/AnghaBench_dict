@@ -1,0 +1,17 @@
+ETH_P_IPV6,VAR_0
+IPPROTO_ICMPV6,VAR_1
+TC_ACT_OK,VAR_2
+TC_ACT_SHOT,VAR_3
+bpf_skb_under_cgroup,FUNC_0
+bpf_trace_printk,FUNC_1
+htons,FUNC_2
+test_cgrp2_array_pin,VAR_4
+handle_egress,FUNC_3
+skb,VAR_5
+data,VAR_6
+eth,VAR_7
+ip6h,VAR_8
+data_end,VAR_9
+dont_care_msg,VAR_10
+pass_msg,VAR_11
+reject_msg,VAR_12

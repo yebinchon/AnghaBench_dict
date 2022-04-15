@@ -1,0 +1,10 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+inw,FUNC_0
+pci_resource_start,FUNC_1
+to_pci_dev,FUNC_2
+tc86c001_cable_detect,FUNC_3
+hwif,VAR_2
+dev,VAR_3
+sc_base,VAR_4
+scr1,VAR_5

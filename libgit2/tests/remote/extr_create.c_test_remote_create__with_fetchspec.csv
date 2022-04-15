@@ -1,0 +1,17 @@
+_repo,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_p,FUNC_1
+cl_assert_equal_s,FUNC_2
+cl_git_pass,FUNC_3
+count_config_entries_match,FUNC_4
+git_remote_create_with_fetchspec,FUNC_5
+git_remote_free,FUNC_6
+git_remote_get_fetch_refspecs,FUNC_7
+git_remote_name,FUNC_8
+git_remote_owner,FUNC_9
+git_remote_url,FUNC_10
+git_strarray_free,FUNC_11
+test_remote_create__with_fetchspec,FUNC_12
+remote,VAR_1
+array,VAR_2
+section_count,VAR_3

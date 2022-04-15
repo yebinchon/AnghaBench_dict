@@ -1,0 +1,9 @@
+ESP_OK,VAR_0
+ESP_SLEEP_WAKEUP_TOUCHPAD,VAR_1
+TOUCH_PAD_MAX,VAR_2
+assert,FUNC_0
+esp_sleep_get_wakeup_cause,FUNC_1
+touch_pad_get_wakeup_status,FUNC_2
+esp_sleep_get_touchpad_wakeup_status,FUNC_3
+pad_num,VAR_3
+ret,VAR_4

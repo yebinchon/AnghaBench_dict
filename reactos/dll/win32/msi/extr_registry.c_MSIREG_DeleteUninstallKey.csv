@@ -1,0 +1,14 @@
+HKEY_LOCAL_MACHINE,VAR_0
+PLATFORM_INTEL,VAR_1
+RegDeleteTreeW,FUNC_0
+TRACE,FUNC_1
+debugstr_w,FUNC_2
+is_64bit,VAR_2
+strcatW,FUNC_3
+strcpyW,FUNC_4
+szUninstall,VAR_3
+szUninstall_32node,VAR_4
+MSIREG_DeleteUninstallKey,FUNC_5
+product,VAR_5
+platform,VAR_6
+keypath,VAR_7

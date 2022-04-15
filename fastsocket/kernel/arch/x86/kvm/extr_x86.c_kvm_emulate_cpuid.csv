@@ -1,0 +1,16 @@
+VCPU_REGS_RAX,VAR_0
+VCPU_REGS_RBX,VAR_1
+VCPU_REGS_RCX,VAR_2
+VCPU_REGS_RDX,VAR_3
+check_cpuid_limit,FUNC_0
+kvm_find_cpuid_entry,FUNC_1
+kvm_register_read,FUNC_2
+kvm_register_write,FUNC_3
+kvm_x86_ops,VAR_4
+stub1,FUNC_4
+trace_kvm_cpuid,FUNC_5
+kvm_emulate_cpuid,FUNC_6
+vcpu,VAR_5
+function,VAR_6
+index,VAR_7
+best,VAR_8

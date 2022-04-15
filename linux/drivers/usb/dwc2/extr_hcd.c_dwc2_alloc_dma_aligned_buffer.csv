@@ -1,0 +1,13 @@
+DWC2_USB_DMA_ALIGN,VAR_0
+ENOMEM,VAR_1
+PTR_ALIGN,FUNC_0
+URB_ALIGNED_TEMP_BUFFER,VAR_2
+dma_get_cache_alignment,FUNC_1
+kmalloc,FUNC_2
+memcpy,FUNC_3
+usb_urb_dir_out,FUNC_4
+dwc2_alloc_dma_aligned_buffer,FUNC_5
+urb,VAR_3
+mem_flags,VAR_4
+kmalloc_ptr,VAR_5
+kmalloc_size,VAR_6

@@ -1,0 +1,16 @@
+GetProcessHeap,FUNC_0
+HeapAlloc,FUNC_1
+HeapFree,FUNC_2
+HeapReAlloc,FUNC_3
+STATUS_INFO_LENGTH_MISMATCH,VAR_0
+STATUS_SUCCESS,VAR_1
+SystemBasicInformation,VAR_2
+SystemProcessorPerformanceInformation,VAR_3
+ok,FUNC_4
+pNtQuerySystemInformation,FUNC_5
+test_query_procperf,FUNC_6
+status,VAR_4
+ReturnLength,VAR_5
+NeededLength,VAR_6
+sbi,VAR_7
+sppi,VAR_8

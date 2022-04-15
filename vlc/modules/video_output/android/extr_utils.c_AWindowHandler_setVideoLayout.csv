@@ -1,0 +1,16 @@
+AWindowHandler_getEnv,FUNC_0
+CallVoidMethod,VAR_0
+JNI_ANWCALL,FUNC_1
+VLC_EGENERIC,VAR_1
+VLC_SUCCESS,VAR_2
+assert,FUNC_2
+setVideoLayout,VAR_3
+AWindowHandler_setVideoLayout,FUNC_3
+p_awh,VAR_4
+i_width,VAR_5
+i_height,VAR_6
+i_visible_width,VAR_7
+i_visible_height,VAR_8
+i_sar_num,VAR_9
+i_sar_den,VAR_10
+p_env,VAR_11

@@ -1,0 +1,10 @@
+DIV_CTL1_DIV_FACTOR_MASK,VAR_0
+REG_DIV_CTL1,VAR_1
+div_factor_to_div,FUNC_0
+regmap_read,FUNC_1
+to_clkdiv,FUNC_2
+clk_spmi_pmic_div_recalc_rate,FUNC_3
+hw,VAR_2
+parent_rate,VAR_3
+clkdiv,VAR_4
+div_factor,VAR_5

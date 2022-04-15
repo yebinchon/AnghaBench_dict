@@ -1,0 +1,14 @@
+NETDEV_TX_BUSY,VAR_0
+NETDEV_TX_OK,VAR_1
+XCAN_FLAG_TX_MAILBOXES,VAR_2
+can_dropped_invalid_skb,FUNC_0
+netdev_err,FUNC_1
+netdev_priv,FUNC_2
+netif_stop_queue,FUNC_3
+xcan_start_xmit_fifo,FUNC_4
+xcan_start_xmit_mailbox,FUNC_5
+xcan_start_xmit,FUNC_6
+skb,VAR_3
+ndev,VAR_4
+priv,VAR_5
+ret,VAR_6

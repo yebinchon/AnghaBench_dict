@@ -1,0 +1,13 @@
+CLOCK_MONOTONIC,VAR_0
+DCE_VIRTUAL_VBLANK_PERIOD,VAR_1
+DRM_DEBUG,FUNC_0
+HRTIMER_MODE_REL,VAR_2
+dce_virtual_vblank_timer_handle,VAR_3
+hrtimer_cancel,FUNC_1
+hrtimer_init,FUNC_2
+hrtimer_set_expires,FUNC_3
+hrtimer_start,FUNC_4
+dce_virtual_set_crtc_vblank_interrupt_state,FUNC_5
+adev,VAR_4
+crtc,VAR_5
+state,VAR_6

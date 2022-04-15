@@ -1,0 +1,17 @@
+aout_ChannelExtract,FUNC_0
+aout_Interleave,FUNC_1
+av_frame_free,FUNC_2
+av_sample_fmt_is_planar,FUNC_3
+block_Alloc,FUNC_4
+block_Release,FUNC_5
+likely,FUNC_6
+vlc_av_frame_Wrap,FUNC_7
+ConvertAVFrame,FUNC_8
+p_dec,VAR_0
+frame,VAR_1
+p_sys,VAR_2
+ctx,VAR_3
+p_block,VAR_4
+planes,VAR_5
+i,VAR_6
+p_buffer,VAR_7

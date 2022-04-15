@@ -1,0 +1,17 @@
+INIT_DELAYED_WORK,FUNC_0
+INIT_LIST_HEAD,FUNC_1
+INIT_WORK,FUNC_2
+RDS_CONN_DOWN,VAR_0
+RDS_PROTOCOL_VERSION,VAR_1
+atomic_set,FUNC_3
+init_waitqueue_head,FUNC_4
+mutex_init,FUNC_5
+rds_connect_worker,VAR_2
+rds_recv_worker,VAR_3
+rds_send_worker,VAR_4
+rds_shutdown_worker,VAR_5
+spin_lock_init,FUNC_6
+__rds_conn_path_init,FUNC_7
+conn,VAR_6
+cp,VAR_7
+is_outgoing,VAR_8

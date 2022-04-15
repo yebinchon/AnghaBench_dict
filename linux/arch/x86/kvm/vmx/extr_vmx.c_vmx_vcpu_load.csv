@@ -1,0 +1,9 @@
+get_debugctlmsr,FUNC_0
+read_pkru,FUNC_1
+to_vmx,FUNC_2
+vmx_vcpu_load_vmcs,FUNC_3
+vmx_vcpu_pi_load,FUNC_4
+vmx_vcpu_load,FUNC_5
+vcpu,VAR_0
+cpu,VAR_1
+vmx,VAR_2

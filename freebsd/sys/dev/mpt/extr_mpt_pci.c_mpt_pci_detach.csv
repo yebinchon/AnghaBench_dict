@@ -1,0 +1,15 @@
+EVENTHANDLER_DEREGISTER,FUNC_0
+FALSE,VAR_0
+MPT_LOCK_DESTROY,FUNC_1
+device_get_softc,FUNC_2
+mpt_detach,FUNC_3
+mpt_disable_ints,FUNC_4
+mpt_dma_mem_free,FUNC_5
+mpt_free_bus_resources,FUNC_6
+mpt_raid_free_mem,FUNC_7
+mpt_reset,FUNC_8
+mpt_unlink_peer,FUNC_9
+shutdown_post_sync,VAR_1
+mpt_pci_detach,FUNC_10
+dev,VAR_2
+mpt,VAR_3

@@ -1,0 +1,15 @@
+ISCSI_MAX_SESS_PER_HBA,VAR_0
+MIN_NUM_CPUS_MSIX,FUNC_0
+QEDI_ERR,FUNC_1
+QEDI_MAX_ISCSI_CONNS_PER_HBA,VAR_1
+QEDI_SQ_SIZE,VAR_2
+iscsi_host_alloc,FUNC_2
+iscsi_host_priv,FUNC_3
+memset,FUNC_4
+pci_set_drvdata,FUNC_5
+qedi_host_template,VAR_3
+qedi_scsi_transport,VAR_4
+qedi_host_alloc,FUNC_6
+pdev,VAR_5
+shost,VAR_6
+qedi,VAR_7

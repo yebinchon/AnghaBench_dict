@@ -1,0 +1,13 @@
+EPOLLIN,VAR_0
+SD_EVENT_ON,VAR_1
+assert,FUNC_0
+journal_remote_handle_raw_source,FUNC_1
+journal_remote_server_global,VAR_2
+sd_event_source_set_enabled,FUNC_2
+dispatch_raw_source_event,FUNC_3
+event,VAR_3
+fd,VAR_4
+revents,VAR_5
+userdata,VAR_6
+source,VAR_7
+r,VAR_8

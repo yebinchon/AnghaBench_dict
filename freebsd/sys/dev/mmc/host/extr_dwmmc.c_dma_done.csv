@@ -1,0 +1,9 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+MMC_DATA_WRITE,VAR_2
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+dma_done,FUNC_2
+sc,VAR_3
+cmd,VAR_4
+data,VAR_5

@@ -1,0 +1,11 @@
+MSR_K6_EPMR,VAR_0
+POWERNOW_IOPORT,VAR_1
+clock_ratio,VAR_2
+inl,FUNC_0
+local_irq_disable,FUNC_1
+local_irq_enable,FUNC_2
+register_to_index,VAR_3
+wrmsr,FUNC_3
+powernow_k6_get_cpu_multiplier,FUNC_4
+invalue,VAR_4
+msrval,VAR_5

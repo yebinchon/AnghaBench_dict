@@ -1,0 +1,14 @@
+atomic_dec_and_test,FUNC_0
+kernfs_open_file_mutex,VAR_0
+kernfs_open_node_lock,VAR_1
+kfree,FUNC_1
+list_del,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+kernfs_put_open_node,FUNC_7
+kn,VAR_2
+of,VAR_3
+on,VAR_4
+flags,VAR_5

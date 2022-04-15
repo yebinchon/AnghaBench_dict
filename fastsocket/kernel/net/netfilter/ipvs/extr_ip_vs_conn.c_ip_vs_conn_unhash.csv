@@ -1,0 +1,12 @@
+IP_VS_CONN_F_HASHED,VAR_0
+atomic_dec,FUNC_0
+ct_write_lock,FUNC_1
+ct_write_unlock,FUNC_2
+ip_vs_conn_hashkey_conn,FUNC_3
+list_del,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ip_vs_conn_unhash,FUNC_7
+cp,VAR_1
+hash,VAR_2
+ret,VAR_3

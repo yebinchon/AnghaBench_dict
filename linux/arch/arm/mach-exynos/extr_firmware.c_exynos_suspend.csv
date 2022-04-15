@@ -1,0 +1,13 @@
+ARM_CPU_PART_CORTEX_A9,VAR_0
+EXYNOS_BOOT_ADDR,VAR_1
+EXYNOS_BOOT_FLAG,VAR_2
+EXYNOS_SLEEP_MAGIC,VAR_3
+__pa_symbol,FUNC_0
+cpu_suspend,FUNC_1
+exynos_cpu_resume_ns,VAR_4
+exynos_cpu_suspend,VAR_5
+exynos_save_cp15,FUNC_2
+read_cpuid_part,FUNC_3
+sysram_ns_base_addr,VAR_6
+writel,FUNC_4
+exynos_suspend,FUNC_5

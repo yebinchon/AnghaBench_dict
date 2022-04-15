@@ -1,0 +1,13 @@
+AGP_I810_PGTBL_CTL,VAR_0
+AGP_I810_PGTBL_ENABLED,VAR_1
+AGP_I810_PGTBL_SIZE_MASK,VAR_2
+AGP_I965_PGTBL_CTL2,VAR_3
+bus_read_4,FUNC_0
+bus_write_4,FUNC_1
+device_get_softc,FUNC_2
+agp_gen5_adjust_pgtbl_size,FUNC_3
+dev,VAR_4
+sz,VAR_5
+sc,VAR_6
+pgetbl_ctl,VAR_7
+pgetbl_ctl2,VAR_8

@@ -1,0 +1,14 @@
+DestroyWindow,FUNC_0
+SPIF_SENDCHANGE,VAR_0
+SPI_SETFOREGROUNDLOCKTIMEOUT,VAR_1
+SystemParametersInfoW,FUNC_1
+UIntToPtr,FUNC_2
+_glfw,VAR_2
+_glfwTerminateEGL,FUNC_3
+_glfwTerminateJoysticksWin32,FUNC_4
+_glfwTerminateThreadLocalStorageWin32,FUNC_5
+_glfwTerminateWGL,FUNC_6
+_glfwUnregisterWindowClassWin32,FUNC_7
+free,FUNC_8
+freeLibraries,FUNC_9
+_glfwPlatformTerminate,FUNC_10

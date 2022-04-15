@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+GPIOD_IN,VAR_2
+GPIOD_OUT_HIGH,VAR_3
+GPIOD_OUT_LOW,VAR_4
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+PTR_ERR_OR_ZERO,FUNC_2
+devm_gpiod_get,FUNC_3
+devm_hwmon_device_register_with_groups,FUNC_4
+devm_kzalloc,FUNC_5
+mutex_init,FUNC_6
+nsa320_groups,VAR_5
+nsa320_hwmon_probe,FUNC_7
+pdev,VAR_6
+hwmon,VAR_7
+classdev,VAR_8

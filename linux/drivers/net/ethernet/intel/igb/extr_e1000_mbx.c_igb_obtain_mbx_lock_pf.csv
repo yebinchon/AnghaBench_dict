@@ -1,0 +1,12 @@
+E1000_ERR_MBX,VAR_0
+E1000_P2VMAILBOX,FUNC_0
+E1000_P2VMAILBOX_PFU,VAR_1
+rd32,FUNC_1
+udelay,FUNC_2
+wr32,FUNC_3
+igb_obtain_mbx_lock_pf,FUNC_4
+hw,VAR_2
+vf_number,VAR_3
+ret_val,VAR_4
+p2v_mailbox,VAR_5
+count,VAR_6

@@ -1,0 +1,17 @@
+ATF_REQUIRE,FUNC_0
+CLOCK_REALTIME,VAR_0
+ETIMEDOUT,VAR_1
+PTHREAD_REQUIRE,FUNC_1
+clock_gettime,FUNC_2
+memset,FUNC_3
+pthread_cond_timedwait,FUNC_4
+pthread_exit,FUNC_5
+pthread_mutex_lock,FUNC_6
+pthread_mutex_unlock,FUNC_7
+static_cond,VAR_2
+static_mutex,VAR_3
+pthread_cond_timedwait_func,FUNC_8
+arg,VAR_4
+ts,VAR_5
+i,VAR_6
+rv,VAR_7

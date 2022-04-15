@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+ISCSI_DEF_MAX_RECV_SEG_LEN,VAR_2
+ISER_RX_LOGIN_SIZE,VAR_3
+ib_destroy_fmr_pool,FUNC_1
+ib_dma_unmap_single,FUNC_2
+iser_info,FUNC_3
+kfree,FUNC_4
+rdma_destroy_qp,FUNC_5
+iser_free_ib_conn_res,FUNC_6
+ib_conn,VAR_4
+cq_index,VAR_5

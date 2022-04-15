@@ -1,0 +1,13 @@
+Assert,FUNC_0
+BUFFER_LOCK_SHARE,VAR_0
+BUFFER_LOCK_UNLOCK,VAR_1
+BufferIsValid,FUNC_1
+HeapTupleSatisfiesVisibility,FUNC_2
+LockBuffer,FUNC_3
+TTS_IS_BUFFERTUPLE,FUNC_4
+heapam_tuple_satisfies_snapshot,FUNC_5
+rel,VAR_2
+slot,VAR_3
+snapshot,VAR_4
+bslot,VAR_5
+res,VAR_6

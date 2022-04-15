@@ -1,0 +1,14 @@
+HUB_SUSPEND,VAR_0
+cancel_delayed_work_sync,FUNC_0
+del_timer_sync,FUNC_1
+flush_work,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+usb_disconnect,FUNC_5
+usb_kill_urb,FUNC_6
+hub_quiesce,FUNC_7
+hub,VAR_1
+type,VAR_2
+hdev,VAR_3
+flags,VAR_4
+i,VAR_5

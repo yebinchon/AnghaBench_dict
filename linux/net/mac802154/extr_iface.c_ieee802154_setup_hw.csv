@@ -1,0 +1,17 @@
+IEEE802154_HW_AFILT,VAR_0
+IEEE802154_HW_CSMA_PARAMS,VAR_1
+IEEE802154_HW_FRAME_RETRIES,VAR_2
+IEEE802154_HW_LBT,VAR_3
+IEEE802154_HW_PROMISCUOUS,VAR_4
+drv_set_csma_params,FUNC_0
+drv_set_extended_addr,FUNC_1
+drv_set_lbt_mode,FUNC_2
+drv_set_max_frame_retries,FUNC_3
+drv_set_pan_id,FUNC_4
+drv_set_promiscuous_mode,FUNC_5
+drv_set_short_addr,FUNC_6
+ieee802154_setup_hw,FUNC_7
+sdata,VAR_5
+local,VAR_6
+wpan_dev,VAR_7
+ret,VAR_8

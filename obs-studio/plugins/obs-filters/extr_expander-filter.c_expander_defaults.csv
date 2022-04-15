@@ -1,0 +1,16 @@
+S_ATTACK_TIME,VAR_0
+S_DETECTOR,VAR_1
+S_OUTPUT_GAIN,VAR_2
+S_PRESETS,VAR_3
+S_RATIO,VAR_4
+S_RELEASE_TIME,VAR_5
+S_THRESHOLD,VAR_6
+obs_data_get_string,FUNC_0
+obs_data_set_default_double,FUNC_1
+obs_data_set_default_int,FUNC_2
+obs_data_set_default_string,FUNC_3
+strcmp,FUNC_4
+expander_defaults,FUNC_5
+s,VAR_7
+presets,VAR_8
+is_expander_preset,VAR_9

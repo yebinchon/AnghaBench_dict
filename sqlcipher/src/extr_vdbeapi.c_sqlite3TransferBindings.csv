@@ -1,0 +1,11 @@
+SQLITE_OK,VAR_0
+assert,FUNC_0
+sqlite3VdbeMemMove,FUNC_1
+sqlite3_mutex_enter,FUNC_2
+sqlite3_mutex_leave,FUNC_3
+sqlite3TransferBindings,FUNC_4
+pFromStmt,VAR_1
+pToStmt,VAR_2
+pFrom,VAR_3
+pTo,VAR_4
+i,VAR_5

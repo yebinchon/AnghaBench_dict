@@ -1,0 +1,12 @@
+crypto_cfb_bsize,FUNC_0
+crypto_cfb_decrypt_blocks,FUNC_1
+crypto_cfb_final,FUNC_2
+crypto_skcipher_reqtfm,FUNC_3
+skcipher_walk_done,FUNC_4
+skcipher_walk_virt,FUNC_5
+crypto_cfb_decrypt,FUNC_6
+req,VAR_0
+tfm,VAR_1
+walk,VAR_2
+bsize,VAR_3
+err,VAR_4

@@ -1,0 +1,13 @@
+BUG,FUNC_0
+TOMOYO_MAC_FOR_FILE,VAR_0
+TOMOYO_TYPE_EXECUTE_ACL,VAR_1
+TOMOYO_TYPE_READ_ACL,VAR_2
+TOMOYO_TYPE_READ_WRITE_ACL,VAR_3
+TOMOYO_TYPE_WRITE_ACL,VAR_4
+tomoyo_check_flags,FUNC_1
+tomoyo_check_single_path_acl2,FUNC_2
+tomoyo_check_file_acl,FUNC_3
+domain,VAR_5
+filename,VAR_6
+operation,VAR_7
+perm,VAR_8

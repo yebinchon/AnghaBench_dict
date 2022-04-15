@@ -1,0 +1,15 @@
+BIO_puts,FUNC_0
+EVP_PKEY_RSA_PSS,VAR_0
+OBJ_obj2nid,FUNC_1
+RSA_PSS_PARAMS_free,FUNC_2
+X509_signature_dump,FUNC_3
+rsa_pss_decode,FUNC_4
+rsa_pss_param_print,FUNC_5
+rsa_sig_print,FUNC_6
+bp,VAR_1
+sigalg,VAR_2
+sig,VAR_3
+indent,VAR_4
+pctx,VAR_5
+rv,VAR_6
+pss,VAR_7

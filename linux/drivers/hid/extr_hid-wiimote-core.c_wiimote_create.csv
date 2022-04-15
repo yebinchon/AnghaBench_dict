@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+INIT_WORK,FUNC_0
+WIIPROTO_REQ_DRM_K,VAR_1
+hid_set_drvdata,FUNC_1
+init_completion,FUNC_2
+kzalloc,FUNC_3
+mutex_init,FUNC_4
+spin_lock_init,FUNC_5
+timer_setup,FUNC_6
+wiimote_init_timeout,VAR_2
+wiimote_init_worker,VAR_3
+wiimote_queue_worker,VAR_4
+wiimote_create,FUNC_7
+hdev,VAR_5
+wdata,VAR_6

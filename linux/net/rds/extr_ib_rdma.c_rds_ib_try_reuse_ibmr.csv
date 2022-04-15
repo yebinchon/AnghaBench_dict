@@ -1,0 +1,14 @@
+RDS_IB_MR_8K_POOL,VAR_0
+atomic_dec,FUNC_0
+atomic_inc_return,FUNC_1
+rds_ib_flush_mr_pool,FUNC_2
+rds_ib_reuse_mr,FUNC_3
+rds_ib_stats_inc,FUNC_4
+s_ib_rdma_mr_1m_pool_depleted,VAR_1
+s_ib_rdma_mr_1m_pool_wait,VAR_2
+s_ib_rdma_mr_8k_pool_depleted,VAR_3
+s_ib_rdma_mr_8k_pool_wait,VAR_4
+rds_ib_try_reuse_ibmr,FUNC_5
+pool,VAR_5
+ibmr,VAR_6
+iter,VAR_7

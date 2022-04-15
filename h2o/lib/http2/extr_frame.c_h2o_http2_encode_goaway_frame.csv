@@ -1,0 +1,10 @@
+H2O_HTTP2_FRAME_TYPE_GOAWAY,VAR_0
+allocate_frame,FUNC_0
+h2o_http2_encode32u,FUNC_1
+h2o_memcpy,FUNC_2
+h2o_http2_encode_goaway_frame,FUNC_3
+buf,VAR_1
+last_stream_id,VAR_2
+errnum,VAR_3
+additional_data,VAR_4
+dst,VAR_5

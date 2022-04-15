@@ -1,0 +1,12 @@
+ATI_REG_PHYS_OUT_ADDR_EN,VAR_0
+ATI_REG_PHYS_OUT_ADDR_SHIFT,VAR_1
+ATI_REG_PHYS_OUT_DATA_SHIFT,VAR_2
+PHYS_OUT_ADDR,VAR_3
+atiixp_write,FUNC_0
+snd_atiixp_acquire_codec,FUNC_1
+snd_atiixp_codec_write,FUNC_2
+chip,VAR_4
+codec,VAR_5
+reg,VAR_6
+val,VAR_7
+data,VAR_8

@@ -1,0 +1,17 @@
+MULTI_PART,VAR_0
+TEMP_LENGTH,VAR_1
+fill_header,FUNC_0
+fill_uint32,FUNC_1
+lua_pushlstring,FUNC_2
+lua_rawseti,FUNC_3
+memcpy,FUNC_4
+packreq_multi,FUNC_5
+L,VAR_2
+session,VAR_3
+msg,VAR_4
+sz,VAR_5
+buf,VAR_6
+part,VAR_7
+i,VAR_8
+ptr,VAR_9
+s,VAR_10

@@ -1,0 +1,15 @@
+E2BIG,VAR_0
+ENOMEM,VAR_1
+MRVDRV_ETH_RX_PACKET_BUFFER_SIZE,VAR_2
+NET_IP_ALIGN,VAR_3
+dev_alloc_skb,FUNC_0
+lbs_deb_sdio,FUNC_1
+lbs_process_rxed_packet,FUNC_2
+skb_put_data,FUNC_3
+skb_reserve,FUNC_4
+if_sdio_handle_data,FUNC_5
+card,VAR_4
+buffer,VAR_5
+size,VAR_6
+ret,VAR_7
+skb,VAR_8

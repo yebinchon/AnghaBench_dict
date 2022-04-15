@@ -1,0 +1,15 @@
+AF_INET,VAR_0
+IFF_UP,VAR_1
+SIOCSIFADDR,VAR_2
+SIOCSIFFLAGS,VAR_3
+err,FUNC_0
+htonl,FUNC_1
+ioctl,FUNC_2
+memset,FUNC_3
+strcpy,FUNC_4
+configure_device,FUNC_5
+fd,VAR_4
+tapif,VAR_5
+ipaddr,VAR_6
+ifr,VAR_7
+sin,VAR_8

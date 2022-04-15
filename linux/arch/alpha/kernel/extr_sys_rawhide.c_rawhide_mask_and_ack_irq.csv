@@ -1,0 +1,15 @@
+MCPCIA_HOSE2MID,FUNC_0
+MCPCIA_INT_REQ,FUNC_1
+cached_irq_masks,VAR_0
+hose_exists,FUNC_2
+hose_irq_masks,VAR_1
+rawhide_irq_lock,VAR_2
+rawhide_update_irq_hw,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+rawhide_mask_and_ack_irq,FUNC_6
+d,VAR_3
+mask,VAR_4
+mask1,VAR_5
+hose,VAR_6
+irq,VAR_7

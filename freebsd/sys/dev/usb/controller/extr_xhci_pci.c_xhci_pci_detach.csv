@@ -1,0 +1,17 @@
+PCI_XHCI_CBMEM,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_delete_children,FUNC_2
+device_get_softc,FUNC_3
+pci_disable_busmaster,FUNC_4
+pci_release_msi,FUNC_5
+rman_get_rid,FUNC_6
+usb_callout_drain,FUNC_7
+xhci_halt_controller,FUNC_8
+xhci_reset_controller,FUNC_9
+xhci_uninit,FUNC_10
+xhci_pci_detach,FUNC_11
+self,VAR_3
+sc,VAR_4

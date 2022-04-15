@@ -1,0 +1,9 @@
+VGIC_MIN_LPI,VAR_0
+__vgic_put_lpi_locked,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+vgic_put_irq,FUNC_3
+kvm,VAR_1
+irq,VAR_2
+dist,VAR_3
+flags,VAR_4

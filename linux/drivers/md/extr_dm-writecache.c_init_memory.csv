@@ -1,0 +1,17 @@
+ARRAY_SIZE,FUNC_0
+MEMORY_SUPERBLOCK_MAGIC,VAR_0
+MEMORY_SUPERBLOCK_VERSION,VAR_1
+calculate_memory_size,FUNC_1
+cpu_to_le32,FUNC_2
+cpu_to_le64,FUNC_3
+pmem_assign,FUNC_4
+sb,FUNC_5
+write_original_sector_seq_count,FUNC_6
+writecache_alloc_entries,FUNC_7
+writecache_commit_flushed,FUNC_8
+writecache_flush_all_metadata,FUNC_9
+writecache_flush_region,FUNC_10
+init_memory,FUNC_11
+wc,VAR_2
+b,VAR_3
+r,VAR_4

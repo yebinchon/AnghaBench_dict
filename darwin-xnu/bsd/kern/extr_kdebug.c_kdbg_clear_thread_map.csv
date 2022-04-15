@@ -1,0 +1,10 @@
+KDBG_MAPINIT,VAR_0
+assert,FUNC_0
+kd_ctrl_page,VAR_1
+kd_mapcount,VAR_2
+kd_mapptr,VAR_3
+kd_mapsize,VAR_4
+kernel_map,VAR_5
+kmem_free,FUNC_1
+ktrace_assert_lock_held,FUNC_2
+kdbg_clear_thread_map,FUNC_3

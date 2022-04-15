@@ -1,0 +1,12 @@
+FLAG_PROMISC,VAR_0
+IFF_ALLMULTI,VAR_1
+IFF_PROMISC,VAR_2
+JOB_PROMISC,VAR_3
+airo_set_promisc,FUNC_0
+change_bit,FUNC_1
+down_trylock,FUNC_2
+set_bit,FUNC_3
+wake_up_interruptible,FUNC_4
+airo_set_multicast_list,FUNC_5
+dev,VAR_4
+ai,VAR_5

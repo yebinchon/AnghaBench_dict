@@ -1,0 +1,16 @@
+ESP_LOGI,FUNC_0
+TAG,VAR_0
+TEST_ASSERT_EQUAL_MEMORY_MESSAGE,FUNC_1
+esp_internal_aes_decrypt,FUNC_2
+esp_internal_aes_encrypt,FUNC_3
+exit_flag,VAR_1
+memset,FUNC_4
+vTaskDelete,FUNC_5
+xSemaphoreGive,FUNC_6
+aes_task,FUNC_7
+pvParameters,VAR_2
+sema,VAR_3
+ctx,VAR_4
+input,VAR_5
+output,VAR_6
+output2,VAR_7

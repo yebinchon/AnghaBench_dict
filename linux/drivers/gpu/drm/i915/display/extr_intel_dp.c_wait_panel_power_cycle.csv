@@ -1,0 +1,12 @@
+DRM_DEBUG_KMS,FUNC_0
+IDLE_CYCLE_MASK,VAR_0
+IDLE_CYCLE_VALUE,VAR_1
+jiffies,VAR_2
+ktime_get_boottime,FUNC_1
+ktime_ms_delta,FUNC_2
+wait_panel_status,FUNC_3
+wait_remaining_ms_from_jiffies,FUNC_4
+wait_panel_power_cycle,FUNC_5
+intel_dp,VAR_3
+panel_power_on_time,VAR_4
+panel_power_off_duration,VAR_5

@@ -1,0 +1,12 @@
+X86_FEATURE_FPU,VAR_0
+X86_FEATURE_FXSR,VAR_1
+X86_FEATURE_XSAVES,VAR_2
+fpstate_init_fstate,FUNC_0
+fpstate_init_fxstate,FUNC_1
+fpstate_init_soft,FUNC_2
+fpstate_init_xstate,FUNC_3
+fpu_kernel_xstate_size,VAR_3
+memset,FUNC_4
+static_cpu_has,FUNC_5
+fpstate_init,FUNC_6
+state,VAR_4

@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+IS_ERR,FUNC_0
+OPTEE_MSG_ATTR_TYPE_RMEM_INPUT,VAR_1
+OPTEE_MSG_CMD_UNREGISTER_SHM,VAR_2
+PTR_ERR,FUNC_1
+TEEC_SUCCESS,VAR_3
+get_msg_arg,FUNC_2
+optee_do_call_with_arg,FUNC_3
+tee_shm_free,FUNC_4
+optee_shm_unregister,FUNC_5
+ctx,VAR_4
+shm,VAR_5
+shm_arg,VAR_6
+msg_arg,VAR_7
+msg_parg,VAR_8
+rc,VAR_9

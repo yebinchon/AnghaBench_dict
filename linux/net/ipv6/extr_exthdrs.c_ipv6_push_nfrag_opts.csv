@@ -1,0 +1,10 @@
+NEXTHDR_DEST,VAR_0
+NEXTHDR_HOP,VAR_1
+ipv6_push_exthdr,FUNC_0
+ipv6_push_rthdr,FUNC_1
+ipv6_push_nfrag_opts,FUNC_2
+skb,VAR_2
+opt,VAR_3
+proto,VAR_4
+daddr,VAR_5
+saddr,VAR_6

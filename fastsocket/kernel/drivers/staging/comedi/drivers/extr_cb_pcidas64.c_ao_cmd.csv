@@ -1,0 +1,17 @@
+DAC_CONTROL0_REG,VAR_0
+EBUSY,VAR_1
+PLX_DESC_IN_PCI_BIT,VAR_2
+PLX_INTR_TERM_COUNT,VAR_3
+ao_inttrig,VAR_4
+external_ai_queue_in_use,FUNC_0
+load_first_dma_descriptor,FUNC_1
+priv,FUNC_2
+set_dac_control1_reg,FUNC_3
+set_dac_interval_regs,FUNC_4
+set_dac_select_reg,FUNC_5
+warn_external_queue,FUNC_6
+writew,FUNC_7
+ao_cmd,FUNC_8
+dev,VAR_5
+s,VAR_6
+cmd,VAR_7

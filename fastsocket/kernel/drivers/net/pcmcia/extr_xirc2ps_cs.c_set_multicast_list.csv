@@ -1,0 +1,15 @@
+EnableRecv,VAR_0
+GetByte,FUNC_0
+IFF_ALLMULTI,VAR_1
+IFF_PROMISC,VAR_2
+Offline,VAR_3
+Online,VAR_4
+PutByte,FUNC_1
+SelectPage,FUNC_2
+XIRCREG40_CMD0,VAR_5
+XIRCREG42_SWC1,VAR_6
+set_addresses,FUNC_3
+set_multicast_list,FUNC_4
+dev,VAR_7
+ioaddr,VAR_8
+value,VAR_9

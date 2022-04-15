@@ -1,0 +1,17 @@
+KASSERT,FUNC_0
+LOCK_LOG_LOCK,FUNC_1
+LOP_EXCLUSIVE,VAR_0
+RA_WLOCKED,VAR_1
+RW_DESTROYED,VAR_2
+TD_LOCKS_DEC,FUNC_2
+WITNESS_UNLOCK,FUNC_3
+__rw_assert,FUNC_4
+__rw_wunlock,FUNC_5
+_rw_wunlock_hard,FUNC_6
+curthread,VAR_3
+rwlock2rw,FUNC_7
+_rw_wunlock_cookie,FUNC_8
+c,VAR_4
+file,VAR_5
+line,VAR_6
+rw,VAR_7

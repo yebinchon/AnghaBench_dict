@@ -1,0 +1,16 @@
+CHECK_FAIL,FUNC_0
+close,FUNC_1
+pthread_cond_wait,FUNC_2
+pthread_create,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+run_test,FUNC_6
+server_started,VAR_0
+server_started_mtx,VAR_1
+server_thread,VAR_2
+start_server,FUNC_7
+test__join_cgroup,FUNC_8
+test_tcp_rtt,FUNC_9
+server_fd,VAR_3
+cgroup_fd,VAR_4
+tid,VAR_5

@@ -1,0 +1,17 @@
+AP_EVENT_DISABLED,VAR_0
+HAPD_IFACE_DFS,VAR_1
+HAPD_IFACE_DISABLED,VAR_2
+MSG_ERROR,VAR_3
+MSG_INFO,VAR_4
+eloop_terminate,FUNC_0
+hostapd_set_state,FUNC_1
+hostapd_setup_interface_complete_sync,FUNC_2
+wpa_msg,FUNC_3
+wpa_printf,FUNC_4
+hostapd_setup_interface_complete,FUNC_5
+iface,VAR_5
+err,VAR_6
+interfaces,VAR_7
+hapd,VAR_8
+i,VAR_9
+not_ready_in_sync_ifaces,VAR_10

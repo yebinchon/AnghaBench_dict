@@ -1,0 +1,17 @@
+__ocfs2_prepare_orphan_dir,FUNC_0
+brelse,FUNC_1
+inode_unlock,FUNC_2
+iput,FUNC_3
+mlog_errno,FUNC_4
+ocfs2_inode_unlock,FUNC_5
+ocfs2_lookup_lock_orphan_dir,FUNC_6
+ocfs2_prepare_orphan_dir,FUNC_7
+osb,VAR_0
+ret_orphan_dir,VAR_1
+blkno,VAR_2
+name,VAR_3
+lookup,VAR_4
+dio,VAR_5
+orphan_dir_inode,VAR_6
+orphan_dir_bh,VAR_7
+ret,VAR_8

@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ETIMEDOUT,VAR_1
+STMPE_ADC_TIMEOUT,VAR_2
+STMPE_REG_TEMP_CTRL,VAR_3
+STMPE_START_ONE_TEMP_CONV,VAR_4
+STMPE_TEMP_CHANNEL,VAR_5
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+reinit_completion,FUNC_2
+stmpe_reg_write,FUNC_3
+wait_for_completion_timeout,FUNC_4
+stmpe_read_temp,FUNC_5
+info,VAR_6
+chan,VAR_7
+val,VAR_8
+ret,VAR_9

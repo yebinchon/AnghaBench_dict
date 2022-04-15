@@ -1,0 +1,11 @@
+LOWPAN_DISPATCH_FRAG_MASK,VAR_0
+RX_CONTINUE,VAR_1
+RX_DROP,VAR_2
+RX_QUEUED,VAR_3
+lowpan_frag_rcv,FUNC_0
+lowpan_is_frag1,FUNC_1
+lowpan_is_fragn,FUNC_2
+skb_network_header,FUNC_3
+lowpan_rx_h_frag,FUNC_4
+skb,VAR_4
+ret,VAR_5

@@ -1,0 +1,13 @@
+VORTEX_WTDMA_BUFBASE,VAR_0
+VORTEX_WTDMA_BUFCFG0,VAR_1
+VORTEX_WTDMA_BUFCFG1,VAR_2
+hwwrite,FUNC_0
+snd_pcm_sgbuf_get_addr,FUNC_1
+vortex_wtdma_setfirstbuffer,FUNC_2
+vortex_wtdma_setstartbuffer,FUNC_3
+vortex_wtdma_setbuffers,FUNC_4
+vortex,VAR_3
+wtdma,VAR_4
+psize,VAR_5
+count,VAR_6
+dma,VAR_7

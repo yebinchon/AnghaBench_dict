@@ -1,0 +1,13 @@
+BIO_NOCLOSE,VAR_0
+BIO_new,FUNC_0
+BIO_s_socket,FUNC_1
+BIO_set_fd,FUNC_2
+ERR_R_BUF_LIB,VAR_1
+SSL_F_SSL_SET_FD,VAR_2
+SSL_set_bio,FUNC_3
+SSLerr,FUNC_4
+SSL_set_fd,FUNC_5
+s,VAR_3
+fd,VAR_4
+ret,VAR_5
+bio,VAR_6

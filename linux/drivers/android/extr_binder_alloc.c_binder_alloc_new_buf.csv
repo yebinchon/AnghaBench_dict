@@ -1,0 +1,10 @@
+binder_alloc_new_buf_locked,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+binder_alloc_new_buf,FUNC_3
+alloc,VAR_0
+data_size,VAR_1
+offsets_size,VAR_2
+extra_buffers_size,VAR_3
+is_async,VAR_4
+buffer,VAR_5

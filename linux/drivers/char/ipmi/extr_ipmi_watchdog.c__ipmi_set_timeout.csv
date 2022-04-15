@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+IPMI_SET_TIMEOUT_FORCE_HB,VAR_1
+IPMI_SET_TIMEOUT_HB_IF_NECESSARY,VAR_2
+__ipmi_heartbeat,FUNC_0
+__ipmi_set_timeout,FUNC_1
+atomic_set,FUNC_2
+msg_tofree,VAR_3
+msg_wait,VAR_4
+recv_msg,VAR_5
+smi_msg,VAR_6
+wait_for_completion,FUNC_3
+watchdog_user,VAR_7
+_ipmi_set_timeout,FUNC_4
+do_heartbeat,VAR_8
+send_heartbeat_now,VAR_9
+rv,VAR_10

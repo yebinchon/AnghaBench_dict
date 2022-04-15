@@ -1,0 +1,13 @@
+container_detach,FUNC_0
+container_floating_move_to_center,FUNC_1
+container_handle_fullscreen_reparent,FUNC_2
+ipc_event_window,FUNC_3
+output_get_active_workspace,FUNC_4
+sway_assert,FUNC_5
+workspace_add_floating,FUNC_6
+workspace_detect_urgent,FUNC_7
+evacuate_sticky,FUNC_8
+old_ws,VAR_0
+new_output,VAR_1
+new_ws,VAR_2
+sticky,VAR_3

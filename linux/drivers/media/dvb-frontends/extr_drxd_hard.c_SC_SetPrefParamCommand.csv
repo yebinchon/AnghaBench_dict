@@ -1,0 +1,15 @@
+SC_RA_RAM_CMD_ADDR__A,VAR_0
+SC_RA_RAM_CMD_SET_PREF_PARAM,VAR_1
+SC_RA_RAM_PARAM0__A,VAR_2
+SC_RA_RAM_PARAM1__A,VAR_3
+SC_SendCommand,FUNC_0
+SC_WaitForReady,FUNC_1
+Write16,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+SC_SetPrefParamCommand,FUNC_5
+state,VAR_4
+subCmd,VAR_5
+param0,VAR_6
+param1,VAR_7
+status,VAR_8

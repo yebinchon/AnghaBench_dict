@@ -1,0 +1,16 @@
+NIC_PF_INTR_ID_MBOX0,VAR_0
+PCI_IRQ_MSIX,VAR_1
+dev_err,FUNC_0
+nic_enable_mbx_intr,FUNC_1
+nic_free_all_interrupts,FUNC_2
+nic_mbx_intr_handler,VAR_2
+pci_alloc_irq_vectors,FUNC_3
+pci_free_irq_vectors,FUNC_4
+pci_irq_vector,FUNC_5
+pci_msix_vec_count,FUNC_6
+request_irq,FUNC_7
+sprintf,FUNC_8
+nic_register_interrupts,FUNC_9
+nic,VAR_3
+i,VAR_4
+ret,VAR_5

@@ -1,0 +1,12 @@
+DEVICE_REGISTER,VAR_0
+IO_DATA_PORT,VAR_1
+IO_INDEX_PORT,VAR_2
+LOCK_DATA,VAR_3
+UNLOCK_DATA,VAR_4
+outb_p,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+spinlock,VAR_5
+timeoutM,VAR_6
+wdt977_keepalive,FUNC_3
+flags,VAR_7

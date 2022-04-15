@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+IOV_SCHEMA_HASDEFAULT,VAR_1
+PCIR_SRIOV_TOTAL_VFS,VAR_2
+PCIZ_SRIOV,VAR_3
+TRUE,VAR_4
+device_printf,FUNC_0
+pci_find_extcap,FUNC_1
+pci_iov_attach,FUNC_2
+pci_iov_schema_add_bool,FUNC_3
+pci_iov_schema_add_unicast_mac,FUNC_4
+pci_iov_schema_alloc_node,FUNC_5
+pci_read_config,FUNC_6
+nic_sriov_init,FUNC_7
+dev,VAR_5
+nic,VAR_6

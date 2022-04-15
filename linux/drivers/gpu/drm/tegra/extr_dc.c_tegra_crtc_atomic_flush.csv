@@ -1,0 +1,13 @@
+DC_CMD_STATE_CONTROL,VAR_0
+GENERAL_ACT_REQ,VAR_1
+GENERAL_UPDATE,VAR_2
+tegra_dc_readl,FUNC_0
+tegra_dc_writel,FUNC_1
+to_dc_state,FUNC_2
+to_tegra_dc,FUNC_3
+tegra_crtc_atomic_flush,FUNC_4
+crtc,VAR_3
+old_crtc_state,VAR_4
+state,VAR_5
+dc,VAR_6
+value,VAR_7

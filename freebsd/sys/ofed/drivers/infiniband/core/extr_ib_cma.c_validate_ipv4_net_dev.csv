@@ -1,0 +1,14 @@
+CURVNET_RESTORE,FUNC_0
+CURVNET_SET,FUNC_1
+RTFREE_LOCKED,FUNC_2
+dev_put,FUNC_3
+ip_dev_find,FUNC_4
+ipv4_is_lbcast,FUNC_5
+ipv4_is_loopback,FUNC_6
+ipv4_is_multicast,FUNC_7
+ipv4_is_zeronet,FUNC_8
+rtalloc1,FUNC_9
+validate_ipv4_net_dev,FUNC_10
+net_dev,VAR_0
+dst_addr,VAR_1
+src_addr,VAR_2

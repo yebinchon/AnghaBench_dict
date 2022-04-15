@@ -1,0 +1,9 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_status_list_entrycount,FUNC_2
+git_status_list_free,FUNC_3
+git_status_list_new,FUNC_4
+assert_status_entrycount,FUNC_5
+repo,VAR_0
+count,VAR_1
+status,VAR_2

@@ -1,0 +1,12 @@
+atomic_thread_fence_rel,FUNC_0
+be16_to_cpu,FUNC_1
+callout_reset_curcpu,FUNC_2
+mlx5_wq_ll_get_wqe,FUNC_3
+mlx5_wq_ll_is_full,FUNC_4
+mlx5_wq_ll_push,FUNC_5
+mlx5_wq_ll_update_db_record,FUNC_6
+mlx5e_alloc_rx_wqe,FUNC_7
+unlikely,FUNC_8
+mlx5e_post_rx_wqes,FUNC_9
+rq,VAR_0
+wqe,VAR_1

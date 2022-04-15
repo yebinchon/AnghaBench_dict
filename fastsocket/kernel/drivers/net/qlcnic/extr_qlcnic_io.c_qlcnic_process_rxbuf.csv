@@ -1,0 +1,16 @@
+CHECKSUM_UNNECESSARY,VAR_0
+PCI_DMA_FROMDEVICE,VAR_1
+STATUS_CKSUM_LOOP,VAR_2
+STATUS_CKSUM_OK,VAR_3
+WARN_ON,FUNC_0
+likely,FUNC_1
+pci_unmap_single,FUNC_2
+skb_checksum_none_assert,FUNC_3
+unlikely,FUNC_4
+qlcnic_process_rxbuf,FUNC_5
+adapter,VAR_4
+ring,VAR_5
+index,VAR_6
+cksum,VAR_7
+buffer,VAR_8
+skb,VAR_9

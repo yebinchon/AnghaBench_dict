@@ -1,0 +1,12 @@
+VLAN_HDR_SZ,VAR_0
+XDP_ABORTED,VAR_1
+XDP_PASS,VAR_2
+bpf_xdp_adjust_head,FUNC_0
+parse_eth_frame,FUNC_1
+shift_mac_4bytes_32bit,FUNC_2
+xdp_prognum3,FUNC_3
+ctx,VAR_3
+data_end,VAR_4
+data,VAR_5
+orig_eth,VAR_6
+pkt,VAR_7

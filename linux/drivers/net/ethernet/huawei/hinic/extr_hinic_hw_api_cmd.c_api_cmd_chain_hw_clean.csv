@@ -1,0 +1,14 @@
+AEQE_EN,VAR_0
+CELL_SIZE,VAR_1
+HINIC_API_CMD_CHAIN_CTRL_CLEAR,FUNC_0
+HINIC_CSR_API_CMD_CHAIN_CTRL_ADDR,FUNC_1
+RESTART_WB_STAT,VAR_2
+XOR_CHK_EN,VAR_3
+XOR_ERR,VAR_4
+hinic_hwif_read_reg,FUNC_2
+hinic_hwif_write_reg,FUNC_3
+api_cmd_chain_hw_clean,FUNC_4
+chain,VAR_5
+hwif,VAR_6
+addr,VAR_7
+ctrl,VAR_8

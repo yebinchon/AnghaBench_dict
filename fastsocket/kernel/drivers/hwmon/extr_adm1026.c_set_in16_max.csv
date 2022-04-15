@@ -1,0 +1,17 @@
+ADM1026_REG_IN_MAX,VAR_0
+INS_TO_REG,FUNC_0
+NEG12_OFFSET,VAR_1
+adm1026_write_value,FUNC_1
+i2c_get_clientdata,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtol,FUNC_5
+to_i2c_client,FUNC_6
+set_in16_max,FUNC_7
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+count,VAR_5
+client,VAR_6
+data,VAR_7
+val,VAR_8

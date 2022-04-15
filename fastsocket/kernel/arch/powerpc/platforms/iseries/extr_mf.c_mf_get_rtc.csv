@@ -1,0 +1,11 @@
+get_rtc_time_complete,VAR_0
+init_completion,FUNC_0
+memset,FUNC_1
+rtc_set_tm,FUNC_2
+signal_ce_msg_simple,FUNC_3
+wait_for_completion,FUNC_4
+mf_get_rtc,FUNC_5
+tm,VAR_1
+ce_complete,VAR_2
+rtc_data,VAR_3
+rc,VAR_4

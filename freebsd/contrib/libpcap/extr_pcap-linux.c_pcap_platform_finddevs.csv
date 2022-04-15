@@ -1,0 +1,14 @@
+PCAP_IF_CONNECTION_STATUS_NOT_APPLICABLE,VAR_0
+PCAP_IF_RUNNING,VAR_1
+PCAP_IF_UP,VAR_2
+add_dev,FUNC_0
+any_descr,VAR_3
+can_be_bound,VAR_4
+get_if_flags,VAR_5
+pcap_findalldevs_interfaces,FUNC_1
+scan_proc_net_dev,FUNC_2
+scan_sys_class_net,FUNC_3
+pcap_platform_finddevs,FUNC_4
+devlistp,VAR_6
+errbuf,VAR_7
+ret,VAR_8

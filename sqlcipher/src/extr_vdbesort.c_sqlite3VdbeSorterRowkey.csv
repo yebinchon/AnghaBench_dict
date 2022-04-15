@@ -1,0 +1,15 @@
+CURTYPE_SORTER,VAR_0
+MEM_Blob,VAR_1
+MemSetTypeFlag,FUNC_0
+SQLITE_NOMEM_BKPT,VAR_2
+SQLITE_OK,VAR_3
+assert,FUNC_1
+memcpy,FUNC_2
+sqlite3VdbeMemClearAndResize,FUNC_3
+vdbeSorterRowkey,FUNC_4
+sqlite3VdbeSorterRowkey,FUNC_5
+pCsr,VAR_4
+pOut,VAR_5
+pSorter,VAR_6
+pKey,VAR_7
+nKey,VAR_8

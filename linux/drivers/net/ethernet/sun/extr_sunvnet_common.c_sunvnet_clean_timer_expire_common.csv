@@ -1,0 +1,17 @@
+VNET_CLEAN_TIMEOUT,VAR_0
+VNET_PORT_TO_NET_DEVICE,FUNC_0
+clean_timer,VAR_1
+del_timer,FUNC_1
+from_timer,FUNC_2
+jiffies,VAR_2
+mod_timer,FUNC_3
+netif_tx_lock,FUNC_4
+netif_tx_unlock,FUNC_5
+port,VAR_3
+vnet_clean_tx_ring,FUNC_6
+vnet_free_skbs,FUNC_7
+sunvnet_clean_timer_expire_common,FUNC_8
+t,VAR_4
+port,VAR_5
+freeskbs,VAR_6
+pending,VAR_7

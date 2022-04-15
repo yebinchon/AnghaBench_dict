@@ -1,0 +1,14 @@
+aio_cancel_all,FUNC_0
+current,VAR_0
+dprintk,FUNC_1
+hlist_del_rcu,FUNC_2
+likely,FUNC_3
+put_ioctx,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+wait_for_all_aios,FUNC_7
+wake_up,FUNC_8
+io_destroy,FUNC_9
+ioctx,VAR_1
+mm,VAR_2
+was_dead,VAR_3

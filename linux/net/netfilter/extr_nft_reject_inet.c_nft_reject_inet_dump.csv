@@ -1,0 +1,10 @@
+NFTA_REJECT_ICMP_CODE,VAR_0
+NFTA_REJECT_TYPE,VAR_1
+htonl,FUNC_0
+nft_expr_priv,FUNC_1
+nla_put_be32,FUNC_2
+nla_put_u8,FUNC_3
+nft_reject_inet_dump,FUNC_4
+skb,VAR_2
+expr,VAR_3
+priv,VAR_4

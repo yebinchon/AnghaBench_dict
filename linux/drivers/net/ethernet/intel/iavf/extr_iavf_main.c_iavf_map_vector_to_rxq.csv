@@ -1,0 +1,13 @@
+BIT,FUNC_0
+IAVF_RX_ITR,VAR_0
+IAVF_VFINT_ITRN1,FUNC_1
+ITR_TO_REG,FUNC_2
+jiffies,VAR_1
+wr32,FUNC_3
+iavf_map_vector_to_rxq,FUNC_4
+adapter,VAR_2
+v_idx,VAR_3
+r_idx,VAR_4
+q_vector,VAR_5
+rx_ring,VAR_6
+hw,VAR_7

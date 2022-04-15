@@ -1,0 +1,15 @@
+CPUHP_PERF_POWER,VAR_0
+EBUSY,VAR_1
+MMCR0_FCHV,VAR_2
+MSR_HV,VAR_3
+PERF_TYPE_RAW,VAR_4
+cpuhp_setup_state,FUNC_0
+freeze_events_kernel,VAR_5
+mfmsr,FUNC_1
+perf_pmu_register,FUNC_2
+power_pmu,VAR_6
+power_pmu_prepare_cpu,VAR_7
+ppmu,VAR_8
+pr_info,FUNC_3
+register_power_pmu,FUNC_4
+pmu,VAR_9

@@ -1,0 +1,11 @@
+AF_INET,VAR_0
+RT_SCOPE_LINK,VAR_1
+assert,FUNC_0
+fw_add_masquerade,FUNC_1
+in_addr_mask,FUNC_2
+address_establish,FUNC_3
+address,VAR_2
+link,VAR_3
+masq,VAR_4
+r,VAR_5
+masked,VAR_6

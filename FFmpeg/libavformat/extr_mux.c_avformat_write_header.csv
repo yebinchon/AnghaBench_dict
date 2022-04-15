@@ -1,0 +1,16 @@
+AVFMT_NOFILE,VAR_0
+AVIO_DATA_MARKER_HEADER,VAR_1
+AVIO_DATA_MARKER_UNKNOWN,VAR_2
+AV_NOPTS_VALUE,VAR_3
+avformat_init_output,FUNC_0
+avio_write_marker,FUNC_1
+deinit_muxer,FUNC_2
+flush_if_needed,FUNC_3
+init_pts,FUNC_4
+stub1,FUNC_5
+avformat_write_header,FUNC_6
+s,VAR_4
+options,VAR_5
+ret,VAR_6
+already_initialized,VAR_7
+streams_already_initialized,VAR_8

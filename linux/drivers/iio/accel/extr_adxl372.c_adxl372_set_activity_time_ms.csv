@@ -1,0 +1,10 @@
+ADXL372_ODR_6400HZ,VAR_0
+ADXL372_TIME_ACT,VAR_1
+DIV_ROUND_CLOSEST,FUNC_0
+regmap_write,FUNC_1
+adxl372_set_activity_time_ms,FUNC_2
+st,VAR_2
+act_time_ms,VAR_3
+reg_val,VAR_4
+scale_factor,VAR_5
+ret,VAR_6

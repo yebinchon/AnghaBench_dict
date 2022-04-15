@@ -1,0 +1,15 @@
+SDMMC,VAR_0
+pdFALSE,VAR_1
+pdTRUE,VAR_2
+portYIELD_FROM_ISR,FUNC_0
+s_io_intr_event,VAR_3
+xQueueSendFromISR,FUNC_1
+xSemaphoreGiveFromISR,FUNC_2
+sdmmc_isr,FUNC_3
+arg,VAR_4
+queue,VAR_5
+event,VAR_6
+higher_priority_task_awoken,VAR_7
+pending,VAR_8
+dma_pending,VAR_9
+sdio_pending,VAR_10

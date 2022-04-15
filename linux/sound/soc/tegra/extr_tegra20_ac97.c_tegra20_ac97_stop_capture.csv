@@ -1,0 +1,5 @@
+TEGRA20_AC97_FIFO1_SCR,VAR_0
+TEGRA20_AC97_FIFO_SCR_REC_FULL_EN,VAR_1
+regmap_update_bits,FUNC_0
+tegra20_ac97_stop_capture,FUNC_1
+ac97,VAR_2

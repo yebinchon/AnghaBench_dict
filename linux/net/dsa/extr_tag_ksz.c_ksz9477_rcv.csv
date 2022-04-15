@@ -1,0 +1,12 @@
+KSZ9477_PTP_TAG_INDICATION,VAR_0
+KSZ9477_PTP_TAG_LEN,VAR_1
+KSZ_EGRESS_TAG_LEN,VAR_2
+ksz_common_rcv,FUNC_0
+skb_tail_pointer,FUNC_1
+ksz9477_rcv,FUNC_2
+skb,VAR_3
+dev,VAR_4
+pt,VAR_5
+tag,VAR_6
+port,VAR_7
+len,VAR_8

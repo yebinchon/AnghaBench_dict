@@ -1,0 +1,10 @@
+RNG_CTRL,VAR_0
+RNG_EN,VAR_1
+clk_disable_unprepare,FUNC_0
+readl,FUNC_1
+to_mtk_rng,FUNC_2
+writel,FUNC_3
+mtk_rng_cleanup,FUNC_4
+rng,VAR_2
+priv,VAR_3
+val,VAR_4

@@ -1,0 +1,13 @@
+CIO_MSG_EVENT,FUNC_0
+HZ,VAR_0
+jiffies,VAR_1
+mod_timer,FUNC_1
+recovery_delay,VAR_2
+recovery_lock,VAR_3
+recovery_phase,VAR_4
+recovery_timer,VAR_5
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+timer_pending,FUNC_4
+ccw_device_schedule_recovery,FUNC_5
+flags,VAR_6

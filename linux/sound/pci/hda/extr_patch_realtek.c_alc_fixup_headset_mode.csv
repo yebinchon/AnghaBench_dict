@@ -1,0 +1,13 @@
+ALC_HEADSET_MODE_UNKNOWN,VAR_0
+ALC_HEADSET_TYPE_UNKNOWN,VAR_1
+HDA_PINCFG_HEADPHONE_MIC,VAR_2
+HDA_PINCFG_HEADSET_MIC,VAR_3
+alc_probe_headset_mode,FUNC_0
+alc_update_headset_mode,FUNC_1
+is_s3_resume,FUNC_2
+is_s4_resume,FUNC_3
+alc_fixup_headset_mode,FUNC_4
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+spec,VAR_7

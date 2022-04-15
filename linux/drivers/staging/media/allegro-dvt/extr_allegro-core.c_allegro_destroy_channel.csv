@@ -1,0 +1,14 @@
+allegro_mcu_send_destroy_channel,FUNC_0
+channel_exists,FUNC_1
+clear_bit,FUNC_2
+destroy_intermediate_buffers,FUNC_3
+destroy_reference_buffers,FUNC_4
+msecs_to_jiffies,FUNC_5
+reinit_completion,FUNC_6
+v4l2_ctrl_grab,FUNC_7
+v4l2_warn,FUNC_8
+wait_for_completion_timeout,FUNC_9
+allegro_destroy_channel,FUNC_10
+channel,VAR_0
+dev,VAR_1
+timeout,VAR_2

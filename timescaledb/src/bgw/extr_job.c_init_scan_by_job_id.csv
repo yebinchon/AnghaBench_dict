@@ -1,0 +1,12 @@
+Anum_bgw_job_pkey_idx_id,VAR_0
+BGW_JOB,VAR_1
+BGW_JOB_PKEY_IDX,VAR_2
+BTEqualStrategyNumber,VAR_3
+F_INT4EQ,VAR_4
+Int32GetDatum,FUNC_0
+catalog_get_index,FUNC_1
+ts_catalog_get,FUNC_2
+ts_scan_iterator_scan_key_init,FUNC_3
+init_scan_by_job_id,FUNC_4
+iterator,VAR_5
+job_id,VAR_6

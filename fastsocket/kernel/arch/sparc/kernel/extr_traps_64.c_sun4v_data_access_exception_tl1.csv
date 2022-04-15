@@ -1,0 +1,10 @@
+DIE_TRAP_TL1,VAR_0
+NOTIFY_STOP,VAR_1
+SIGTRAP,VAR_2
+dump_tl1_traplog,FUNC_0
+notify_die,FUNC_1
+sun4v_data_access_exception,FUNC_2
+sun4v_data_access_exception_tl1,FUNC_3
+regs,VAR_3
+addr,VAR_4
+type_ctx,VAR_5

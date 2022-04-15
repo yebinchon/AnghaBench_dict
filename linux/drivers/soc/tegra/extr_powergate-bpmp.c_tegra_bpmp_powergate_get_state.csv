@@ -1,0 +1,13 @@
+CMD_PG_GET_STATE,VAR_0
+EINVAL,VAR_1
+MRQ_PG,VAR_2
+PG_STATE_OFF,VAR_3
+memset,FUNC_0
+tegra_bpmp_transfer,FUNC_1
+tegra_bpmp_powergate_get_state,FUNC_2
+bpmp,VAR_4
+id,VAR_5
+response,VAR_6
+request,VAR_7
+msg,VAR_8
+err,VAR_9

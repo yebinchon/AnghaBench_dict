@@ -1,0 +1,13 @@
+BWN_LOCK_INIT,FUNC_0
+M_NOWAIT,VAR_0
+PI_NET,VAR_1
+TAILQ_INIT,FUNC_1
+callout_init_mtx,FUNC_2
+device_get_nameunit,FUNC_3
+ifqmaxlen,VAR_2
+mbufq_init,FUNC_4
+taskqueue_create_fast,FUNC_5
+taskqueue_start_threads,FUNC_6
+taskqueue_thread_enqueue,VAR_3
+bwn_attach_pre,FUNC_7
+sc,VAR_4

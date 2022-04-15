@@ -1,0 +1,13 @@
+CHECK_BUSY,FUNC_0
+JOB940_PICOSTATESAVE2,VAR_0
+YM2612GetRegs,FUNC_1
+add_job_940,FUNC_2
+memcpy,FUNC_3
+printf,FUNC_4
+shared_ctl,VAR_1
+wait_busy_940,FUNC_5
+YM2612PicoStateSave2_940,FUNC_6
+tat,VAR_2
+tbt,VAR_3
+ym_remote_regs,VAR_4
+ym_local_regs,VAR_5

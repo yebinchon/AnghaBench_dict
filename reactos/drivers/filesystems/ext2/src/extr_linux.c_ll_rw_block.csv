@@ -1,0 +1,15 @@
+SWRITE,VAR_0
+WRITE,VAR_1
+buffer_uptodate,FUNC_0
+get_bh,FUNC_1
+lock_buffer,FUNC_2
+submit_bh,FUNC_3
+test_clear_buffer_dirty,FUNC_4
+test_set_buffer_locked,FUNC_5
+unlock_buffer,FUNC_6
+ll_rw_block,FUNC_7
+rw,VAR_2
+nr,VAR_3
+bhs,VAR_4
+i,VAR_5
+bh,VAR_6

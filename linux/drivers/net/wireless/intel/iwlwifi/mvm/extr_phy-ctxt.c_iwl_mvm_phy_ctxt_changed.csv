@@ -1,0 +1,15 @@
+FW_CTXT_ACTION_ADD,VAR_0
+FW_CTXT_ACTION_MODIFY,VAR_1
+FW_CTXT_ACTION_REMOVE,VAR_2
+IWL_UCODE_TLV_CAPA_BINDING_CDB_SUPPORT,VAR_3
+fw_has_capa,FUNC_0
+iwl_mvm_phy_ctxt_apply,FUNC_1
+lockdep_assert_held,FUNC_2
+iwl_mvm_phy_ctxt_changed,FUNC_3
+mvm,VAR_4
+ctxt,VAR_5
+chandef,VAR_6
+chains_static,VAR_7
+chains_dynamic,VAR_8
+action,VAR_9
+ret,VAR_10

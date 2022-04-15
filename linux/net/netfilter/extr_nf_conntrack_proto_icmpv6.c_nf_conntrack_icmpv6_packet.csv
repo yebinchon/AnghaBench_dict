@@ -1,0 +1,17 @@
+NFPROTO_IPV6,VAR_0
+NF_ACCEPT,VAR_1
+icmpv6_get_timeouts,FUNC_0
+nf_ct_dump_tuple_ipv6,FUNC_1
+nf_ct_is_confirmed,FUNC_2
+nf_ct_net,FUNC_3
+nf_ct_refresh_acct,FUNC_4
+nf_ct_timeout_lookup,FUNC_5
+pr_debug,FUNC_6
+nf_conntrack_icmpv6_packet,FUNC_7
+ct,VAR_2
+skb,VAR_3
+ctinfo,VAR_4
+state,VAR_5
+timeout,VAR_6
+valid_new,VAR_7
+type,VAR_8

@@ -1,0 +1,15 @@
+DBGWVR_ADDR_MASK,VAR_0
+DBG_BKPT_BNT_SLOT,VAR_1
+DBG_BKPT_BT_SLOT,VAR_2
+DBG_REG_BASE_WCR,VAR_3
+DBG_REG_BASE_WVR,VAR_4
+DBG_WB_CTRL_E,VAR_5
+dbg_capable,FUNC_0
+dbg_remove_breakpoint,FUNC_1
+dbg_watchpoint_num,VAR_6
+dbg_wb_read_reg,FUNC_2
+dbg_wb_write_reg,FUNC_3
+kdb_cpu_clear_singlestep,FUNC_4
+wvr,VAR_7
+wcr,VAR_8
+i,VAR_9

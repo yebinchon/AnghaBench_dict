@@ -1,0 +1,15 @@
+BROPT_VLAN_ENABLED,VAR_0
+EOPNOTSUPP,VAR_1
+SWITCHDEV_ATTR_ID_BRIDGE_VLAN_FILTERING,VAR_2
+SWITCHDEV_F_SKIP_EOPNOTSUPP,VAR_3
+br_manage_promisc,FUNC_0
+br_opt_get,FUNC_1
+br_opt_toggle,FUNC_2
+br_recalculate_fwd_mask,FUNC_3
+recalculate_group_addr,FUNC_4
+switchdev_port_attr_set,FUNC_5
+__br_vlan_filter_toggle,FUNC_6
+br,VAR_4
+val,VAR_5
+attr,VAR_6
+err,VAR_7

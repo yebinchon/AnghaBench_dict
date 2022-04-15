@@ -1,0 +1,10 @@
+MNT_WAIT,VAR_0
+fuse_internal_fsync,FUNC_0
+fuse_isdeadfs,FUNC_1
+vop_stdfdatasync_buf,FUNC_2
+fuse_vnop_fdatasync,FUNC_3
+ap,VAR_1
+vp,VAR_2
+td,VAR_3
+waitfor,VAR_4
+err,VAR_5

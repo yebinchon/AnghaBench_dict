@@ -1,0 +1,15 @@
+THREAD_NULL,VAR_0
+TH_SFLAG_WAITQ_PROMOTED,VAR_1
+assert,FUNC_0
+current_thread,FUNC_1
+sched_thread_unpromote_reason,FUNC_2
+splsched,FUNC_3
+splx,FUNC_4
+thread_lock,FUNC_5
+thread_unlock,FUNC_6
+waitq_held,FUNC_7
+waitq_irq_safe,FUNC_8
+waitq_clear_promotion_locked,FUNC_9
+waitq,VAR_2
+thread,VAR_3
+s,VAR_4

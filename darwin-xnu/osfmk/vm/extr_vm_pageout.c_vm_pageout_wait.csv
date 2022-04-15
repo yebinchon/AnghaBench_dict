@@ -1,0 +1,15 @@
+KERN_OPERATION_TIMED_OUT,VAR_0
+KERN_SUCCESS,VAR_1
+LCK_SLEEP_DEFAULT,VAR_2
+THREAD_AWAKENED,VAR_3
+THREAD_UNINT,VAR_4
+TRUE,VAR_5
+lck_mtx_lock,FUNC_0
+lck_mtx_sleep_deadline,FUNC_1
+lck_mtx_unlock,FUNC_2
+vm_page_queue_free_lock,VAR_6
+vm_pageout_running,VAR_7
+vm_pageout_waiter,VAR_8
+vm_pageout_wait,FUNC_3
+deadline,VAR_9
+kr,VAR_10

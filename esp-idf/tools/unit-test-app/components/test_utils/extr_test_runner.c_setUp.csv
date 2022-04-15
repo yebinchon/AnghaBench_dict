@@ -1,0 +1,13 @@
+COMP_LEAK_GENERAL,VAR_0
+CONFIG_UNITY_CRITICAL_LEAK_LEVEL_GENERAL,VAR_1
+CONFIG_UNITY_WARN_LEAK_LEVEL_GENERAL,VAR_2
+TYPE_LEAK_CRITICAL,VAR_3
+TYPE_LEAK_WARNING,VAR_4
+assert,FUNC_0
+get_test_data_partition,FUNC_1
+heap_trace_init_standalone,FUNC_2
+malloc,FUNC_3
+printf,FUNC_4
+test_utils_set_leak_level,FUNC_5
+unity_reset_leak_checks,FUNC_6
+setUp,FUNC_7

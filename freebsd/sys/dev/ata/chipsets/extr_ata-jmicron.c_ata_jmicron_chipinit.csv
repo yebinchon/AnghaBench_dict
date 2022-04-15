@@ -1,0 +1,17 @@
+ENXIO,VAR_0
+ata_generic_intr,VAR_1
+ata_generic_reset,VAR_2
+ata_jmicron_ch_attach,VAR_3
+ata_jmicron_setmode,VAR_4
+ata_pci_ch_detach,VAR_5
+ata_setup_interrupt,FUNC_0
+bus_generic_attach,FUNC_1
+device_add_child,FUNC_2
+device_get_softc,FUNC_3
+device_set_ivars,FUNC_4
+pci_read_config,FUNC_5
+pci_write_config,FUNC_6
+ata_jmicron_chipinit,FUNC_7
+dev,VAR_6
+ctlr,VAR_7
+child,VAR_8

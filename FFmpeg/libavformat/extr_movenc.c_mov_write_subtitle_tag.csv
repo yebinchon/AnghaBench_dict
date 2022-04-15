@@ -1,0 +1,12 @@
+AV_CODEC_ID_DVD_SUBTITLE,VAR_0
+avio_tell,FUNC_0
+avio_wb16,FUNC_1
+avio_wb32,FUNC_2
+avio_wl32,FUNC_3
+avio_write,FUNC_4
+mov_write_esds_tag,FUNC_5
+update_size,FUNC_6
+mov_write_subtitle_tag,FUNC_7
+pb,VAR_1
+track,VAR_2
+pos,VAR_3

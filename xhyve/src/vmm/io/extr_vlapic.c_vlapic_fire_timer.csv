@@ -1,0 +1,10 @@
+APIC_LVT_DM_FIXED,VAR_0
+APIC_OFFSET_TIMER_LVT,VAR_1
+VLAPIC_CTR0,FUNC_0
+VLAPIC_INTR_TIMER,VAR_2
+vlapic_fire_lvt,FUNC_1
+vlapic_get_lvt,FUNC_2
+vmm_stat_incr,FUNC_3
+vlapic_fire_timer,FUNC_4
+vlapic,VAR_3
+lvt,VAR_4

@@ -1,0 +1,12 @@
+ATH_LOCK,FUNC_0
+ATH_UNLOCK,FUNC_1
+HAL_GPIO_OUTPUT_MUX_AS_OUTPUT,VAR_0
+HAL_GPIO_OUTPUT_MUX_MAC_NETWORK_LED,VAR_1
+HAL_GPIO_OUTPUT_MUX_MAC_POWER_LED,VAR_2
+HAL_PM_AWAKE,VAR_3
+ath_hal_gpioCfgOutput,FUNC_2
+ath_hal_gpioset,FUNC_3
+ath_power_restore_power_state,FUNC_4
+ath_power_set_power_state,FUNC_5
+ath_led_config,FUNC_6
+sc,VAR_4

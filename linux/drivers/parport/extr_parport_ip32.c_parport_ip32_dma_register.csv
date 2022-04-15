@@ -1,0 +1,14 @@
+MACEISA_PAR_CTXA_IRQ,VAR_0
+MACEISA_PAR_CTXB_IRQ,VAR_1
+MACEISA_PAR_MERR_IRQ,VAR_2
+MACEPAR_CTLSTAT_RESET,VAR_3
+free_irq,FUNC_0
+mace,VAR_4
+parport_ip32_dma,VAR_5
+parport_ip32_dma_interrupt,VAR_6
+parport_ip32_merr_interrupt,VAR_7
+request_irq,FUNC_1
+spin_lock_init,FUNC_2
+writeq,FUNC_3
+parport_ip32_dma_register,FUNC_4
+err,VAR_8

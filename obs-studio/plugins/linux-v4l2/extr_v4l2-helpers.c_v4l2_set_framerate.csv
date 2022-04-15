@@ -1,0 +1,13 @@
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_0
+VIDIOC_G_PARM,VAR_1
+VIDIOC_S_PARM,VAR_2
+v4l2_ioctl,FUNC_0
+v4l2_pack_tuple,FUNC_1
+v4l2_unpack_tuple,FUNC_2
+v4l2_set_framerate,FUNC_3
+dev,VAR_3
+framerate,VAR_4
+set,VAR_5
+num,VAR_6
+denom,VAR_7
+par,VAR_8

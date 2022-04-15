@@ -1,0 +1,15 @@
+KASSERT,FUNC_0
+SFXGE_TXQ_LOCK_ASSERT_OWNED,FUNC_1
+atomic_readandclear_ptr,FUNC_2
+sfxge_is_mbuf_non_tcp,FUNC_3
+sfxge_tx_qdpl_swizzle,FUNC_4
+txq,VAR_0
+stdp,VAR_1
+mbuf,VAR_2
+get_next,VAR_3
+get_tailp,VAR_4
+putp,VAR_5
+put,VAR_6
+count,VAR_7
+non_tcp_count,VAR_8
+put_next,VAR_9

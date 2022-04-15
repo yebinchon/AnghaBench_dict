@@ -1,0 +1,10 @@
+NMI_LOCAL,VAR_0
+NMI_UNKNOWN,VAR_1
+kgdb_nmi_handler,VAR_2
+kgdb_notifier,VAR_3
+register_die_notifier,FUNC_0
+register_nmi_handler,FUNC_1
+unregister_die_notifier,FUNC_2
+unregister_nmi_handler,FUNC_3
+kgdb_arch_init,FUNC_4
+retval,VAR_4

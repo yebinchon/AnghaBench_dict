@@ -1,0 +1,16 @@
+SD_LISTEN_FDS_START,VAR_0
+SOCK_STREAM,VAR_1
+errno,VAR_2
+make_inet_socket,FUNC_0
+make_unix_socket,FUNC_1
+sd_is_socket_inet,FUNC_2
+sd_is_socket_unix,FUNC_3
+sd_listen_fds,FUNC_4
+strncmp,FUNC_5
+twarn,FUNC_6
+twarnx,FUNC_7
+make_server_socket,FUNC_8
+host,VAR_3
+port,VAR_4
+fd,VAR_5
+r,VAR_6

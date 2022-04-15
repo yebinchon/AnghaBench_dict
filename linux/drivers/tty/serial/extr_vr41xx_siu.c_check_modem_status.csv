@@ -1,0 +1,15 @@
+UART_MSR,VAR_0
+UART_MSR_ANY_DELTA,VAR_1
+UART_MSR_CTS,VAR_2
+UART_MSR_DCD,VAR_3
+UART_MSR_DCTS,VAR_4
+UART_MSR_DDCD,VAR_5
+UART_MSR_DDSR,VAR_6
+UART_MSR_TERI,VAR_7
+siu_read,FUNC_0
+uart_handle_cts_change,FUNC_1
+uart_handle_dcd_change,FUNC_2
+wake_up_interruptible,FUNC_3
+check_modem_status,FUNC_4
+port,VAR_8
+msr,VAR_9

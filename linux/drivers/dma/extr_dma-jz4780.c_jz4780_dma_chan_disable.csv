@@ -1,0 +1,8 @@
+BIT,FUNC_0
+JZ_DMA_REG_DCKEC,VAR_0
+JZ_SOC_DATA_NO_DCKES_DCKEC,VAR_1
+JZ_SOC_DATA_PER_CHAN_PM,VAR_2
+jz4780_dma_ctrl_writel,FUNC_1
+jz4780_dma_chan_disable,FUNC_2
+jzdma,VAR_3
+chn,VAR_4

@@ -1,0 +1,17 @@
+MNTK_SUSPEND,VAR_0
+MNT_ILOCK,FUNC_0
+MNT_IUNLOCK,FUNC_1
+MNT_REL,FUNC_2
+MPASS,FUNC_3
+ref,VAR_1
+vfs_assert_mount_counters,FUNC_4
+vfs_dump_mount_counters,FUNC_5
+vfs_mp_count_sub_pcpu,FUNC_6
+vfs_op_thread_enter,FUNC_7
+vfs_op_thread_exit,FUNC_8
+vn_suspendable,FUNC_9
+wakeup,FUNC_10
+writeopcount,VAR_2
+vn_finished_write,FUNC_11
+mp,VAR_3
+c,VAR_4

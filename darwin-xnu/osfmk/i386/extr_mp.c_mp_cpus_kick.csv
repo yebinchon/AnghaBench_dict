@@ -1,0 +1,16 @@
+FALSE,VAR_0
+KICK,VAR_1
+LAPIC_VECTOR,FUNC_0
+cpu_is_running,FUNC_1
+cpu_number,FUNC_2
+cpu_to_cpumask,FUNC_3
+lapic_send_ipi,FUNC_4
+ml_set_interrupts_enabled,FUNC_5
+mp_safe_spin_lock,FUNC_6
+real_ncpus,VAR_2
+simple_unlock,FUNC_7
+x86_topo_lock,VAR_3
+mp_cpus_kick,FUNC_8
+cpus,VAR_4
+cpu,VAR_5
+intrs_enabled,VAR_6

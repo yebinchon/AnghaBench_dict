@@ -1,0 +1,17 @@
+EFAULT,VAR_0
+TPM_DIGEST_SIZE,VAR_1
+TPM_HEADER_SIZE,VAR_2
+TPM_ORD_PCRREAD,VAR_3
+TPM_TAG_RQU_COMMAND,VAR_4
+memcpy,FUNC_0
+tpm_buf_append_u32,FUNC_1
+tpm_buf_destroy,FUNC_2
+tpm_buf_init,FUNC_3
+tpm_buf_length,FUNC_4
+tpm_transmit_cmd,FUNC_5
+tpm1_pcr_read,FUNC_6
+chip,VAR_5
+pcr_idx,VAR_6
+res_buf,VAR_7
+buf,VAR_8
+rc,VAR_9

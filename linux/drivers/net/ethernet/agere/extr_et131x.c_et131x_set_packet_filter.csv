@@ -1,0 +1,13 @@
+ET131X_PACKET_TYPE_ALL_MULTICAST,VAR_0
+ET131X_PACKET_TYPE_BROADCAST,VAR_1
+ET131X_PACKET_TYPE_DIRECTED,VAR_2
+ET131X_PACKET_TYPE_PROMISCUOUS,VAR_3
+et1310_setup_device_for_multicast,FUNC_0
+et1310_setup_device_for_unicast,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+et131x_set_packet_filter,FUNC_4
+adapter,VAR_4
+filter,VAR_5
+ctrl,VAR_6
+pf_ctrl,VAR_7

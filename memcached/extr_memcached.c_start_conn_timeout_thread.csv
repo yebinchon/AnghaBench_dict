@@ -1,0 +1,10 @@
+conn_timeout_thread,VAR_0
+conn_timeout_tid,VAR_1
+do_run_conn_timeout_thread,VAR_2
+fprintf,FUNC_0
+pthread_create,FUNC_1
+settings,VAR_3
+stderr,VAR_4
+strerror,FUNC_2
+start_conn_timeout_thread,FUNC_3
+ret,VAR_5

@@ -1,0 +1,11 @@
+SWIMS_USB_REQUEST_SetSwocMode,VAR_0
+USB_CTRL_SET_TIMEOUT,VAR_1
+USB_DIR_OUT,VAR_2
+USB_TYPE_VENDOR,VAR_3
+US_DEBUGP,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+sierra_set_ms_mode,FUNC_3
+udev,VAR_4
+eSWocMode,VAR_5
+result,VAR_6

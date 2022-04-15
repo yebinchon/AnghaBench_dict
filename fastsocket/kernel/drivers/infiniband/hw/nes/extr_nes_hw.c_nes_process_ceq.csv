@@ -1,0 +1,13 @@
+NES_CEQE_CQ_CTX_HIGH_IDX,VAR_0
+NES_CEQE_CQ_CTX_LOW_IDX,VAR_1
+NES_CEQE_VALID,VAR_2
+barrier,FUNC_0
+le32_to_cpu,FUNC_1
+stub1,FUNC_2
+nes_process_ceq,FUNC_3
+nesdev,VAR_3
+ceq,VAR_4
+u64temp,VAR_5
+cq,VAR_6
+head,VAR_7
+ceq_size,VAR_8

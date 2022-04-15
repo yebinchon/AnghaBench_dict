@@ -1,0 +1,15 @@
+Giant,VAR_0
+URB_IS_SLEEPING,VAR_1
+URB_WAIT_WAKEUP,VAR_2
+cv_wait,FUNC_0
+mtx_lock,FUNC_1
+mtx_owned,FUNC_2
+mtx_unlock,FUNC_3
+usb_linux_wait_complete,VAR_3
+usb_submit_urb,FUNC_4
+usb_start_wait_urb,FUNC_5
+urb,VAR_4
+timeout,VAR_5
+p_actlen,VAR_6
+err,VAR_7
+do_unlock,VAR_8

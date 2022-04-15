@@ -1,0 +1,16 @@
+CR_CHAN,FUNC_0
+CR_RANGE,FUNC_1
+PCL726_AO_LSB_REG,FUNC_2
+PCL726_AO_MSB_REG,FUNC_3
+comedi_chan_range_is_bipolar,FUNC_4
+comedi_offset_munge,FUNC_5
+outb,FUNC_6
+pcl726_ao_insn_write,FUNC_7
+dev,VAR_0
+s,VAR_1
+insn,VAR_2
+data,VAR_3
+chan,VAR_4
+range,VAR_5
+i,VAR_6
+val,VAR_7

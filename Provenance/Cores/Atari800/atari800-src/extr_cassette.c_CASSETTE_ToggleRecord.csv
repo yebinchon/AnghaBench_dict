@@ -1,0 +1,15 @@
+CASSETTE_STATUS_NONE,VAR_0
+CASSETTE_STATUS_READ_WRITE,VAR_1
+CASSETTE_record,VAR_2
+CASSETTE_status,VAR_3
+CASSETTE_write_protect,VAR_4
+FALSE,VAR_5
+IMG_TAPE_Flush,FUNC_0
+UpdateFlags,FUNC_1
+cassette_file,VAR_6
+cassette_writable,VAR_7
+eof_of_tape,VAR_8
+event_time_left,VAR_9
+passing_gap,VAR_10
+pending_serin,VAR_11
+CASSETTE_ToggleRecord,FUNC_2

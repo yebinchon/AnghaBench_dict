@@ -1,0 +1,13 @@
+CLEAR_NEXUS_POST,VAR_0
+CLEAR_NEXUS_PRE,VAR_1
+EXEC_Q,VAR_2
+NEXUS_I_T_L,VAR_3
+NOTINQ,VAR_4
+SEND_Q,VAR_5
+cpu_to_le16,FUNC_0
+memcpy,FUNC_1
+scb,VAR_6
+asd_clear_nexus_I_T_L,FUNC_2
+dev,VAR_7
+lun,VAR_8
+asd_ha,VAR_9

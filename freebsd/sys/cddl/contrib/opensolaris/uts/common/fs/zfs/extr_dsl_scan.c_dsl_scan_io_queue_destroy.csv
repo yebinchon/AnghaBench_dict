@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+MUTEX_HELD,FUNC_1
+atomic_add_64,FUNC_2
+avl_destroy,FUNC_3
+avl_destroy_nodes,FUNC_4
+cv_destroy,FUNC_5
+kmem_free,FUNC_6
+range_tree_contains,FUNC_7
+range_tree_destroy,FUNC_8
+range_tree_vacate,FUNC_9
+dsl_scan_io_queue_destroy,FUNC_10
+queue,VAR_0
+scn,VAR_1
+sio,VAR_2
+cookie,VAR_3
+bytes_dequeued,VAR_4

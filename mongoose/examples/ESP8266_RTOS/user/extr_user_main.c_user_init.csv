@@ -1,0 +1,9 @@
+MGOS_TASK_PRIORITY,VAR_0
+MG_TASK_STACK_SIZE,VAR_1
+UART_CLK_FREQ,VAR_2
+mg_task,VAR_3
+printf,FUNC_0
+system_get_free_heap_size,FUNC_1
+uart_div_modify,FUNC_2
+xTaskCreate,FUNC_3
+user_init,FUNC_4

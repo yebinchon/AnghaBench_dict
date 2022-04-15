@@ -1,0 +1,17 @@
+EAP_TYPE_EXPANDED,VAR_0
+EAP_VENDOR_IETF,VAR_1
+host_to_be16,FUNC_0
+wpabuf_alloc,FUNC_1
+wpabuf_put,FUNC_2
+wpabuf_put_be24,FUNC_3
+wpabuf_put_be32,FUNC_4
+wpabuf_put_u8,FUNC_5
+eap_msg_alloc,FUNC_6
+vendor,VAR_2
+type,VAR_3
+payload_len,VAR_4
+code,VAR_5
+identifier,VAR_6
+buf,VAR_7
+hdr,VAR_8
+len,VAR_9

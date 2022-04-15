@@ -1,0 +1,16 @@
+CPUSTAT_STOPPED,VAR_0
+__disable_ibs_on_vcpu,FUNC_0
+__enable_ibs_on_vcpu,FUNC_1
+atomic_read,FUNC_2
+is_vcpu_stopped,FUNC_3
+kvm_s390_clear_stop_irq,FUNC_4
+kvm_s390_set_cpuflags,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+trace_kvm_s390_vcpu_start_stop,FUNC_8
+kvm_s390_vcpu_stop,FUNC_9
+vcpu,VAR_1
+i,VAR_2
+online_vcpus,VAR_3
+started_vcpus,VAR_4
+started_vcpu,VAR_5

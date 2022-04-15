@@ -1,0 +1,13 @@
+BHSLR_REASON_CLOSE_SESSION,VAR_0
+ISCSI_BHS_OPCODE_IMMEDIATE,VAR_1
+ISCSI_BHS_OPCODE_LOGOUT_REQUEST,VAR_2
+ISCSI_SNLT,FUNC_0
+log_debugx,FUNC_1
+log_errx,FUNC_2
+ntohl,FUNC_3
+pdu_new,FUNC_4
+pdu_receive,FUNC_5
+logout_receive,FUNC_6
+conn,VAR_3
+request,VAR_4
+bhslr,VAR_5

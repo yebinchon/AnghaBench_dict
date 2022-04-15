@@ -1,0 +1,11 @@
+SIGALRM,VAR_0
+SIG_BLOCK,VAR_1
+SIG_SETMASK,VAR_2
+StopTimerNoBlock,FUNC_0
+sigaddset,FUNC_1
+sigemptyset,FUNC_2
+sigprocmask,FUNC_3
+timer_Stop,FUNC_4
+tp,VAR_3
+mask,VAR_4
+omask,VAR_5

@@ -1,0 +1,12 @@
+CHIPC_CHIPCTRL,VAR_0
+CHIPC_LOCK,FUNC_0
+CHIPC_UNLOCK,FUNC_1
+bhnd_bus_read_4,FUNC_2
+bhnd_bus_write_4,FUNC_3
+device_get_softc,FUNC_4
+chipc_write_chipctrl,FUNC_5
+dev,VAR_1
+value,VAR_2
+mask,VAR_3
+sc,VAR_4
+cctrl,VAR_5

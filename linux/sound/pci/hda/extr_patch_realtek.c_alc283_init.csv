@@ -1,0 +1,16 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+AC_VERB_SET_PIN_WIDGET_CONTROL,VAR_1
+AMP_OUT_MUTE,VAR_2
+PIN_OUT,VAR_3
+alc283_restore_default_value,FUNC_0
+alc_get_hp_pin,FUNC_1
+alc_update_coef_idx,FUNC_2
+alc_write_coef_idx,FUNC_3
+msleep,FUNC_4
+snd_hda_codec_write,FUNC_5
+snd_hda_jack_detect,FUNC_6
+alc283_init,FUNC_7
+codec,VAR_4
+spec,VAR_5
+hp_pin,VAR_6
+hp_pin_sense,VAR_7

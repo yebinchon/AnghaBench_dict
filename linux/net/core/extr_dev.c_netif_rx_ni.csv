@@ -1,0 +1,10 @@
+do_softirq,FUNC_0
+local_softirq_pending,FUNC_1
+netif_rx_internal,FUNC_2
+preempt_disable,FUNC_3
+preempt_enable,FUNC_4
+trace_netif_rx_ni_entry,FUNC_5
+trace_netif_rx_ni_exit,FUNC_6
+netif_rx_ni,FUNC_7
+skb,VAR_0
+err,VAR_1

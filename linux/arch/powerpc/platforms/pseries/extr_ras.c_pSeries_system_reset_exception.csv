@@ -1,0 +1,17 @@
+MSR_DR,VAR_0
+MSR_HV,VAR_1
+MSR_ILE,VAR_2
+MSR_IR,VAR_3
+MSR_LE,VAR_4
+MSR_ME,VAR_5
+MSR_PR,VAR_6
+MSR_RI,VAR_7
+MSR_SF,VAR_8
+be64_to_cpu,FUNC_0
+fwnmi_active,VAR_9
+fwnmi_get_errinfo,FUNC_1
+fwnmi_release_errinfo,FUNC_2
+smp_handle_nmi_ipi,FUNC_3
+pSeries_system_reset_exception,FUNC_4
+regs,VAR_10
+errhdr,VAR_11

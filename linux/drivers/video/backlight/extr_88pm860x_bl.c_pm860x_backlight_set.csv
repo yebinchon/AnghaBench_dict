@@ -1,0 +1,17 @@
+CURRENT_BITMASK,VAR_0
+MAX_BRIGHTNESS,VAR_1
+PM8606_PWM,VAR_2
+PM8606_PWM_FREQ_MASK,VAR_3
+PM8606_WLED_ON,VAR_4
+backlight_power_set,FUNC_0
+bl_get_data,FUNC_1
+dev_dbg,FUNC_2
+pm860x_reg_write,FUNC_3
+pm860x_set_bits,FUNC_4
+pm860x_backlight_set,FUNC_5
+bl,VAR_5
+brightness,VAR_6
+data,VAR_7
+chip,VAR_8
+value,VAR_9
+ret,VAR_10

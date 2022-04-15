@@ -1,0 +1,16 @@
+CTX_LOCK,FUNC_0
+CTX_UNLOCK,FUNC_1
+LIBUSB20_ERROR_BUSY,VAR_0
+LIBUSB_ERROR_INVALID_PARAM,VAR_1
+LIBUSB_ERROR_OTHER,VAR_2
+libusb10_get_transfer,FUNC_2
+libusb20_tr_clear_stall_sync,FUNC_3
+libusb20_tr_close,FUNC_4
+libusb20_tr_open,FUNC_5
+libusb_get_device,FUNC_6
+libusb_clear_halt,FUNC_7
+pdev,VAR_3
+endpoint,VAR_4
+xfer,VAR_5
+dev,VAR_6
+err,VAR_7

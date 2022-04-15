@@ -1,0 +1,16 @@
+EIO,VAR_0
+KFD_FENCE_COMPLETED,VAR_1
+KFD_FENCE_INIT,VAR_2
+KFD_QUEUE_TYPE_COMPUTE,VAR_3
+amdkfd_fence_wait_timeout,FUNC_0
+pm_release_ib,FUNC_1
+pm_send_query_status,FUNC_2
+pm_send_unmap_queue,FUNC_3
+pr_debug,FUNC_4
+queue_preemption_timeout_ms,VAR_4
+unmap_sdma_queues,FUNC_5
+unmap_queues_cpsch,FUNC_6
+dqm,VAR_5
+filter,VAR_6
+filter_param,VAR_7
+retval,VAR_8

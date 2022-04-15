@@ -1,0 +1,15 @@
+GP2AP020A00F_OPMODE_SHUTDOWN,VAR_0
+dev_err,FUNC_0
+free_irq,FUNC_1
+gp2ap020a00f_set_operation_mode,FUNC_2
+i2c_get_clientdata,FUNC_3
+iio_device_unregister,FUNC_4
+iio_priv,FUNC_5
+iio_trigger_unregister,FUNC_6
+iio_triggered_buffer_cleanup,FUNC_7
+regulator_disable,FUNC_8
+gp2ap020a00f_remove,FUNC_9
+client,VAR_1
+indio_dev,VAR_2
+data,VAR_3
+err,VAR_4

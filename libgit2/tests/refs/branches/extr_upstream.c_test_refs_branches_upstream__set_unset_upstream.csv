@@ -1,0 +1,11 @@
+assert_config_entry_existence,FUNC_0
+assert_config_entry_value,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_sandbox_cleanup,FUNC_3
+cl_git_sandbox_init,FUNC_4
+git_branch_set_upstream,FUNC_5
+git_reference_free,FUNC_6
+git_reference_lookup,FUNC_7
+test_refs_branches_upstream__set_unset_upstream,FUNC_8
+branch,VAR_0
+repository,VAR_1

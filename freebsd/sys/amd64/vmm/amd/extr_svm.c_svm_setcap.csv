@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+ENOENT,VAR_1
+VMCB_CTRL1_INTCPT,VAR_2
+VMCB_INTCPT_HLT,VAR_3
+VMCB_INTCPT_PAUSE,VAR_4
+svm_set_intercept,FUNC_0
+svm_setcap,FUNC_1
+arg,VAR_5
+vcpu,VAR_6
+type,VAR_7
+val,VAR_8
+sc,VAR_9
+error,VAR_10

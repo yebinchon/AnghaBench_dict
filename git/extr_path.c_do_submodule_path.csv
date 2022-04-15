@@ -1,0 +1,17 @@
+STRBUF_INIT,VAR_0
+get_common_dir_noenv,FUNC_0
+strbuf_addbuf,FUNC_1
+strbuf_cleanup_path,FUNC_2
+strbuf_complete,FUNC_3
+strbuf_release,FUNC_4
+strbuf_vaddf,FUNC_5
+submodule_to_gitdir,FUNC_6
+update_common_dir,FUNC_7
+do_submodule_path,FUNC_8
+buf,VAR_1
+path,VAR_2
+fmt,VAR_3
+args,VAR_4
+git_submodule_common_dir,VAR_5
+git_submodule_dir,VAR_6
+ret,VAR_7

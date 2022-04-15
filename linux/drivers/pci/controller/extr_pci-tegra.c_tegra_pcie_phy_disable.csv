@@ -1,0 +1,12 @@
+PADS_CTL,VAR_0
+PADS_CTL_IDDQ_1L,VAR_1
+PADS_CTL_RX_DATA_EN_1L,VAR_2
+PADS_CTL_TX_DATA_EN_1L,VAR_3
+PADS_PLL_CTL_RST_B4SM,VAR_4
+pads_readl,FUNC_0
+pads_writel,FUNC_1
+usleep_range,FUNC_2
+tegra_pcie_phy_disable,FUNC_3
+pcie,VAR_5
+soc,VAR_6
+value,VAR_7

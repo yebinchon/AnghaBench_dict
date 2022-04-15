@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+MPC_OBJECT_MBUF,VAR_1
+M_ASSERTPKTHDR,FUNC_0
+PACKET_TAG_MACLABEL,VAR_2
+m_tag_free,FUNC_1
+m_tag_get,FUNC_2
+m_tag_prepend,FUNC_3
+mac_labeled,VAR_3
+mac_mbuf_tag_init,FUNC_4
+mac_mbuf_init,FUNC_5
+m,VAR_4
+flag,VAR_5
+tag,VAR_6
+error,VAR_7

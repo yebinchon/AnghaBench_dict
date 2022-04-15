@@ -1,0 +1,11 @@
+TCP_LOG_EVENTP,FUNC_0
+TCP_LOG_STATE_OFF,VAR_0
+TCP_SACK_FILTER_RES,VAR_1
+memset,FUNC_1
+tcp_get_usecs,FUNC_2
+ctf_log_sack_filter,FUNC_3
+tp,VAR_2
+num_sack_blks,VAR_3
+sack_blocks,VAR_4
+log,VAR_5
+tv,VAR_6

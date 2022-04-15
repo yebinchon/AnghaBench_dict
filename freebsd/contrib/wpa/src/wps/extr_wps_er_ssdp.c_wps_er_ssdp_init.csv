@@ -1,0 +1,11 @@
+EVENT_TYPE_READ,VAR_0
+MSG_INFO,VAR_1
+add_ssdp_network,FUNC_0
+eloop_register_sock,FUNC_1
+ssdp_listener_open,FUNC_2
+ssdp_open_multicast_sock,FUNC_3
+wpa_printf,FUNC_4
+wps_er_send_ssdp_msearch,FUNC_5
+wps_er_ssdp_rx,VAR_2
+wps_er_ssdp_init,FUNC_6
+er,VAR_3

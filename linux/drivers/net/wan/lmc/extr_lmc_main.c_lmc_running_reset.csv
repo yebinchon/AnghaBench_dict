@@ -1,0 +1,17 @@
+LMC_CSR_WRITE,FUNC_0
+TULIP_CMD_RXRUN,VAR_0
+TULIP_CMD_TXRUN,VAR_1
+TULIP_DEFAULT_INTR_MASK,VAR_2
+csr_command,VAR_3
+csr_intr,VAR_4
+dev_to_sc,FUNC_1
+lmc_dec_reset,FUNC_2
+lmc_reset,FUNC_3
+lmc_softreset,FUNC_4
+lmc_trace,FUNC_5
+netif_wake_queue,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+lmc_running_reset,FUNC_9
+dev,VAR_5
+sc,VAR_6

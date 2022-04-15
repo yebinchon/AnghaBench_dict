@@ -1,0 +1,17 @@
+CAM_CMD_TIMEOUT,VAR_0
+ORB_FUN_RST,VAR_1
+SBP_DEV_DEAD,VAR_2
+SBP_DEV_LOGIN,VAR_3
+SBP_DEV_RESET,VAR_4
+SBP_LOCK_ASSERT,FUNC_0
+printf,FUNC_1
+sbp_abort_all_ocbs,FUNC_2
+sbp_mgm_orb,FUNC_3
+sbp_reset_start,FUNC_4
+xpt_freeze_devq,FUNC_5
+sbp_target_reset,FUNC_6
+sdev,VAR_5
+method,VAR_6
+i,VAR_7
+target,VAR_8
+tsdev,VAR_9

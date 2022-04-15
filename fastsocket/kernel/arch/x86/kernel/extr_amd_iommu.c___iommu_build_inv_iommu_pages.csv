@@ -1,0 +1,14 @@
+CMD_INV_IOMMU_PAGES,VAR_0
+CMD_INV_IOMMU_PAGES_PDE_MASK,VAR_1
+CMD_INV_IOMMU_PAGES_SIZE_MASK,VAR_2
+CMD_SET_TYPE,FUNC_0
+PAGE_MASK,VAR_3
+lower_32_bits,FUNC_1
+memset,FUNC_2
+upper_32_bits,FUNC_3
+__iommu_build_inv_iommu_pages,FUNC_4
+cmd,VAR_4
+address,VAR_5
+domid,VAR_6
+pde,VAR_7
+s,VAR_8

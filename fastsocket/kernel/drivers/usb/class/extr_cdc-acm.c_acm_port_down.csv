@@ -1,0 +1,17 @@
+ACM_CLOSE_TIMEOUT,VAR_0
+ACM_NW,VAR_1
+HZ,VAR_2
+acm_set_control,FUNC_0
+acm_wb_is_avail,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+open_mutex,VAR_3
+usb_autopm_get_interface,FUNC_4
+usb_autopm_put_interface,FUNC_5
+usb_kill_urb,FUNC_6
+wait_event_interruptible_timeout,FUNC_7
+acm_port_down,FUNC_8
+acm,VAR_4
+drain,VAR_5
+i,VAR_6
+nr,VAR_7

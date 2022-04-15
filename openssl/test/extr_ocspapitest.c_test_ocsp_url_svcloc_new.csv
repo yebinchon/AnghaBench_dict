@@ -1,0 +1,12 @@
+OCSP_url_svcloc_new,FUNC_0
+TEST_ptr,FUNC_1
+TEST_true,FUNC_2
+X509_EXTENSION_free,FUNC_3
+X509_free,FUNC_4
+X509_get_issuer_name,FUNC_5
+get_cert,FUNC_6
+test_ocsp_url_svcloc_new,FUNC_7
+urls,VAR_0
+issuer,VAR_1
+ext,VAR_2
+ret,VAR_3

@@ -1,0 +1,15 @@
+VENDOR_MODEL_PERF_OPERATION_TYPE_SET,VAR_0
+VENDOR_MODEL_PERF_OPERATION_TYPE_SET_UNACK,VAR_1
+ble_mesh_test_perf_sema,VAR_2
+portMAX_DELAY,VAR_3
+test_perf_statistics,VAR_4
+xSemaphoreGive,FUNC_0
+xSemaphoreTake,FUNC_1
+ble_mesh_test_performance_client_model_accumulate_time,FUNC_2
+time,VAR_5
+data,VAR_6
+ack_ttl,VAR_7
+length,VAR_8
+i,VAR_9
+sequence_num,VAR_10
+node_received_ttl,VAR_11

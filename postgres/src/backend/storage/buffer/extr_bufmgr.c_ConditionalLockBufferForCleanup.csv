@@ -1,0 +1,17 @@
+Assert,FUNC_0
+BUFFER_LOCK_UNLOCK,VAR_0
+BUF_STATE_GET_REFCOUNT,FUNC_1
+BufferIsLocal,FUNC_2
+BufferIsValid,FUNC_3
+ConditionalLockBuffer,FUNC_4
+GetBufferDescriptor,FUNC_5
+GetPrivateRefCount,FUNC_6
+LocalRefCount,VAR_1
+LockBufHdr,FUNC_7
+LockBuffer,FUNC_8
+UnlockBufHdr,FUNC_9
+ConditionalLockBufferForCleanup,FUNC_10
+buffer,VAR_2
+bufHdr,VAR_3
+buf_state,VAR_4
+refcount,VAR_5

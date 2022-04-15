@@ -1,0 +1,17 @@
+AL_ETH_S2M_UDMA_COMP_COAL_TIMEOUT,VAR_0
+AL_TRUE,VAR_1
+EC_RFW_OUT_CFG_META_CNT_MASK,VAR_2
+UDMA_RX,VAR_3
+UDMA_TX,VAR_4
+al_assert,FUNC_0
+al_dbg,FUNC_1
+al_reg_write32_masked,FUNC_2
+al_udma_q_init,FUNC_3
+al_udma_s2m_q_compl_coal_config,FUNC_4
+al_eth_queue_config,FUNC_5
+adapter,VAR_5
+type,VAR_6
+qid,VAR_7
+q_params,VAR_8
+udma,VAR_9
+rc,VAR_10

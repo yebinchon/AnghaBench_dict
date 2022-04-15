@@ -1,0 +1,16 @@
+JAIL_ERRMSGLEN,VAR_0
+MAXHOSTNAMELEN,VAR_1
+errno,VAR_2
+jail_errmsg,VAR_3
+jail_get,FUNC_0
+memset,FUNC_1
+strerror,FUNC_2
+strerror_r,FUNC_3
+xSnprintf,FUNC_4
+xStrdup,FUNC_5
+FreeBSDProcessList_readJailName,FUNC_6
+kproc,VAR_4
+jid,VAR_5
+jiov,VAR_6
+jname,VAR_7
+jnamebuf,VAR_8

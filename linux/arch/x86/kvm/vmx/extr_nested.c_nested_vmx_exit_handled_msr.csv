@@ -1,0 +1,12 @@
+CPU_BASED_USE_MSR_BITMAPS,VAR_0
+EXIT_REASON_MSR_WRITE,VAR_1
+kvm_rcx_read,FUNC_0
+kvm_vcpu_read_guest,FUNC_1
+nested_cpu_has,FUNC_2
+nested_vmx_exit_handled_msr,FUNC_3
+vcpu,VAR_2
+vmcs12,VAR_3
+exit_reason,VAR_4
+msr_index,VAR_5
+bitmap,VAR_6
+b,VAR_7

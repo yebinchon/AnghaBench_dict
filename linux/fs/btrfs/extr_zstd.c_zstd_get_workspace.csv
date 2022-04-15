@@ -1,0 +1,16 @@
+DEFINE_WAIT,FUNC_0
+IS_ERR,FUNC_1
+TASK_UNINTERRUPTIBLE,VAR_0
+finish_wait,FUNC_2
+memalloc_nofs_restore,FUNC_3
+memalloc_nofs_save,FUNC_4
+prepare_to_wait,FUNC_5
+schedule,FUNC_6
+wait,VAR_1
+wsm,VAR_2
+zstd_alloc_workspace,FUNC_7
+zstd_find_workspace,FUNC_8
+zstd_get_workspace,FUNC_9
+level,VAR_3
+ws,VAR_4
+nofs_flag,VAR_5

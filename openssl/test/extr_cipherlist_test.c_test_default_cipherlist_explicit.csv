@@ -1,0 +1,8 @@
+EXECUTE_CIPHERLIST_TEST,FUNC_0
+SETUP_CIPHERLIST_TEST_FIXTURE,FUNC_1
+SSL_CTX_set_cipher_list,FUNC_2
+TEST_true,FUNC_3
+fixture,VAR_0
+result,VAR_1
+tear_down,FUNC_4
+test_default_cipherlist_explicit,FUNC_5

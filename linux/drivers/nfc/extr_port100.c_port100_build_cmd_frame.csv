@@ -1,0 +1,12 @@
+PORT100_FRAME_HEADER_LEN,VAR_0
+PORT100_FRAME_TAIL_LEN,VAR_1
+port100_tx_frame_finish,FUNC_0
+port100_tx_frame_init,FUNC_1
+port100_tx_update_payload_len,FUNC_2
+skb_push,FUNC_3
+skb_put,FUNC_4
+port100_build_cmd_frame,FUNC_5
+dev,VAR_2
+cmd_code,VAR_3
+skb,VAR_4
+payload_len,VAR_5

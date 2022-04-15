@@ -1,0 +1,15 @@
+XPC_DEACTIVATE_PARTITION,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+unlikely,FUNC_3
+xpSuccess,VAR_0
+xpc_partitions,VAR_1
+xpc_send_activate_IRQ_uv,FUNC_4
+xpc_send_activate_IRQ_ch_uv,FUNC_5
+ch,VAR_2
+irq_flags,VAR_3
+msg,VAR_4
+msg_size,VAR_5
+msg_type,VAR_6
+part,VAR_7
+ret,VAR_8

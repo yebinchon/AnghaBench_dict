@@ -1,0 +1,17 @@
+PCI_DMA_FROMDEVICE,VAR_0
+RX_RING_SIZE,VAR_1
+RxDescEndRing,VAR_2
+RxDescQIdx,VAR_3
+RxDescValid,VAR_4
+cpu_to_dma,FUNC_0
+dev_kfree_skb,FUNC_1
+netdev_alloc_skb,FUNC_2
+netdev_priv,FUNC_3
+pci_dma_mapping_error,FUNC_4
+pci_map_single,FUNC_5
+writew,FUNC_6
+refill_rx_ring,FUNC_7
+dev,VAR_5
+np,VAR_6
+skb,VAR_7
+entry,VAR_8

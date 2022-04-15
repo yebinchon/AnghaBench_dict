@@ -1,0 +1,12 @@
+I2C_SW_RETRIES,VAR_0
+SCL,VAR_1
+SDA,VAR_2
+read_bit_from_ddc,FUNC_0
+udelay,FUNC_1
+wait_for_scl_high_sw,FUNC_2
+write_bit_to_ddc,FUNC_3
+start_sync_sw,FUNC_4
+ctx,VAR_3
+ddc_handle,VAR_4
+clock_delay_div_4,VAR_5
+retry,VAR_6

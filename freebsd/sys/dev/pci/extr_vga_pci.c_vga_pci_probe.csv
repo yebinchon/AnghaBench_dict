@@ -1,0 +1,9 @@
+BUS_PROBE_GENERIC,VAR_0
+ENXIO,VAR_1
+PCIS_OLD_VGA,VAR_2
+device_set_desc,FUNC_0
+pci_get_class,FUNC_1
+pci_get_subclass,FUNC_2
+vga_pci_is_boot_display,FUNC_3
+vga_pci_probe,FUNC_4
+dev,VAR_3

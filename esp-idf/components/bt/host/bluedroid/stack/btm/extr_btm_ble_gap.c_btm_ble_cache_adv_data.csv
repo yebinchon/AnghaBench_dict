@@ -1,0 +1,17 @@
+BD_ADDR_LEN,VAR_0
+BTM_BLE_CACHE_ADV_DATA_MAX,VAR_1
+BTM_BLE_SCAN_RSP_EVT,VAR_2
+STREAM_TO_UINT8,FUNC_0
+btm_cb,VAR_3
+memcmp,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+btm_ble_cache_adv_data,FUNC_4
+bda,VAR_4
+p_cur,VAR_5
+data_len,VAR_6
+p,VAR_7
+evt_type,VAR_8
+p_le_inq_cb,VAR_9
+p_cache,VAR_10
+length,VAR_11

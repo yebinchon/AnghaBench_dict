@@ -1,0 +1,17 @@
+EXT2_IOC_GETFLAGS,VAR_0
+EXT2_IOC_SETFLAGS,VAR_1
+EXT2_NODUMP_FL,VAR_2
+O_NONBLOCK,VAR_3
+O_RDONLY,VAR_4
+UF_NODUMP,VAR_5
+assertion_count,FUNC_0
+chflags,FUNC_1
+close,FUNC_2
+failure_finish,FUNC_3
+failure_start,FUNC_4
+ioctl,FUNC_5
+open,FUNC_6
+assertion_nodump,FUNC_7
+file,VAR_6
+line,VAR_7
+pathname,VAR_8

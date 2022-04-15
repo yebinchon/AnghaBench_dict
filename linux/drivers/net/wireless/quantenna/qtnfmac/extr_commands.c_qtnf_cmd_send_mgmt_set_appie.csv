@@ -1,0 +1,17 @@
+E2BIG,VAR_0
+ENOMEM,VAR_1
+QLINK_CMD_MGMT_SET_APPIE,VAR_2
+QTNF_MAX_CMD_BUF_SIZE,VAR_3
+pr_warn,FUNC_0
+qtnf_bus_lock,FUNC_1
+qtnf_bus_unlock,FUNC_2
+qtnf_cmd_alloc_new_cmdskb,FUNC_3
+qtnf_cmd_send,FUNC_4
+qtnf_cmd_tlv_ie_set_add,FUNC_5
+qtnf_cmd_send_mgmt_set_appie,FUNC_6
+vif,VAR_4
+frame_type,VAR_5
+buf,VAR_6
+len,VAR_7
+cmd_skb,VAR_8
+ret,VAR_9

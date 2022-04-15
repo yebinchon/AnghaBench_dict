@@ -1,0 +1,15 @@
+HNAE3_PORT_BASE_VLAN_DISABLE,VAR_0
+HNAE3_PORT_BASE_VLAN_ENABLE,VAR_1
+HNAE3_PORT_BASE_VLAN_MODIFY,VAR_2
+hclge_set_vlan_filter_hw,FUNC_0
+hclge_update_vlan_filter_entries,FUNC_1
+hclge_vlan_offload_cfg,FUNC_2
+htons,FUNC_3
+hclge_update_port_base_vlan_cfg,FUNC_4
+vport,VAR_3
+state,VAR_4
+vlan_info,VAR_5
+nic,VAR_6
+old_vlan_info,VAR_7
+hdev,VAR_8
+ret,VAR_9

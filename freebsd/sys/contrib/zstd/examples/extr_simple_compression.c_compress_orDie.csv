@@ -1,0 +1,16 @@
+CHECK_ZSTD,FUNC_0
+ZSTD_compress,FUNC_1
+ZSTD_compressBound,FUNC_2
+free,FUNC_3
+mallocAndLoadFile_orDie,FUNC_4
+malloc_orDie,FUNC_5
+printf,FUNC_6
+saveFile_orDie,FUNC_7
+compress_orDie,FUNC_8
+fname,VAR_0
+oname,VAR_1
+fSize,VAR_2
+fBuff,VAR_3
+cBuffSize,VAR_4
+cBuff,VAR_5
+cSize,VAR_6

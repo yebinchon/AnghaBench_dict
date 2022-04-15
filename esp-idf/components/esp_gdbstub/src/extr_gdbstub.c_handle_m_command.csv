@@ -1,0 +1,13 @@
+esp_gdbstub_gethex,FUNC_0
+esp_gdbstub_readmem,FUNC_1
+esp_gdbstub_send_end,FUNC_2
+esp_gdbstub_send_hex,FUNC_3
+esp_gdbstub_send_start,FUNC_4
+esp_gdbstub_send_str_packet,FUNC_5
+handle_m_command,FUNC_6
+cmd,VAR_0
+len,VAR_1
+addr,VAR_2
+size,VAR_3
+i,VAR_4
+b,VAR_5

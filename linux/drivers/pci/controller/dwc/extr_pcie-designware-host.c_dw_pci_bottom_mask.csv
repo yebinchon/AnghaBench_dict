@@ -1,0 +1,15 @@
+BIT,FUNC_0
+MAX_MSI_IRQS_PER_CTRL,VAR_0
+MSI_REG_CTRL_BLOCK_SIZE,VAR_1
+PCIE_MSI_INTR0_MASK,VAR_2
+dw_pcie_wr_own_conf,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+dw_pci_bottom_mask,FUNC_5
+d,VAR_3
+pp,VAR_4
+res,VAR_5
+bit,VAR_6
+ctrl,VAR_7
+flags,VAR_8

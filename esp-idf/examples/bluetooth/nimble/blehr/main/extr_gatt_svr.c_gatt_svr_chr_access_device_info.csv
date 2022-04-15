@@ -1,0 +1,17 @@
+BLE_ATT_ERR_INSUFFICIENT_RES,VAR_0
+BLE_ATT_ERR_UNLIKELY,VAR_1
+GATT_MANUFACTURER_NAME_UUID,VAR_2
+GATT_MODEL_NUMBER_UUID,VAR_3
+assert,FUNC_0
+ble_uuid_u16,FUNC_1
+manuf_name,VAR_4
+model_num,VAR_5
+os_mbuf_append,FUNC_2
+strlen,FUNC_3
+gatt_svr_chr_access_device_info,FUNC_4
+conn_handle,VAR_6
+attr_handle,VAR_7
+ctxt,VAR_8
+arg,VAR_9
+uuid,VAR_10
+rc,VAR_11

@@ -1,0 +1,13 @@
+allocate_mm,FUNC_0
+dup_mmap,FUNC_1
+get_mm_rss,FUNC_2
+memcpy,FUNC_3
+mm_init,FUNC_4
+mm_init_owner,FUNC_5
+mmput,FUNC_6
+try_module_get,FUNC_7
+dup_mm,FUNC_8
+tsk,VAR_0
+oldmm,VAR_1
+mm,VAR_2
+err,VAR_3

@@ -1,0 +1,15 @@
+ISCSI_SW_TCP_DBG,FUNC_0
+WARN_ON,FUNC_1
+iscsi_padded,FUNC_2
+iscsi_segment_seek_sg,FUNC_3
+ntoh24,FUNC_4
+iscsi_sw_tcp_send_data_prep,FUNC_5
+conn,VAR_0
+sg,VAR_1
+count,VAR_2
+offset,VAR_3
+len,VAR_4
+tcp_conn,VAR_5
+tcp_sw_conn,VAR_6
+tx_hash,VAR_7
+hdr_spec_len,VAR_8

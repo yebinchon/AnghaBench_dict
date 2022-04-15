@@ -1,0 +1,16 @@
+SPIGCR1,VAR_0
+SPIGCR1_LOOPBACK_MASK,VAR_1
+SPIPC0,VAR_2
+SPIPC0_SPIENA_MASK,VAR_3
+SPI_LOOP,VAR_4
+SPI_NO_CS,VAR_5
+SPI_READY,VAR_6
+clear_io_bits,FUNC_0
+davinci_spi_of_setup,FUNC_1
+set_io_bits,FUNC_2
+spi_master_get_devdata,FUNC_3
+davinci_spi_setup,FUNC_4
+spi,VAR_7
+dspi,VAR_8
+np,VAR_9
+internal_cs,VAR_10

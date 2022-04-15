@@ -1,0 +1,13 @@
+MIPI_DCS_ENTER_SLEEP_MODE,VAR_0
+MIPI_DCS_EXIT_SLEEP_MODE,VAR_1
+TASK_UNINTERRUPTIBLE,VAR_2
+acx565akm_cmd,FUNC_0
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_1
+schedule_timeout,FUNC_2
+set_current_state,FUNC_3
+acx565akm_set_sleep_mode,FUNC_4
+lcd,VAR_4
+on,VAR_5
+cmd,VAR_6
+wait,VAR_7

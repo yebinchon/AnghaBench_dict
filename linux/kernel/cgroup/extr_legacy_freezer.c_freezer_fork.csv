@@ -1,0 +1,13 @@
+CGROUP_FREEZING,VAR_0
+freeze_task,FUNC_0
+freezer_cgrp_id,VAR_1
+freezer_mutex,VAR_2
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+task_css_is_root,FUNC_5
+task_freezer,FUNC_6
+freezer_fork,FUNC_7
+task,VAR_3
+freezer,VAR_4

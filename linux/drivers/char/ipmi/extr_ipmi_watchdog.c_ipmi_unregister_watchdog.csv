@@ -1,0 +1,17 @@
+atomic_read,FUNC_0
+ipmi_destroy_user,FUNC_1
+ipmi_start_timer_on_heartbeat,VAR_0
+ipmi_watchdog_mutex,VAR_1
+ipmi_wdog_miscdev,VAR_2
+misc_deregister,FUNC_2
+msg_free_smi,FUNC_3
+msg_tofree,VAR_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pr_warn,FUNC_6
+watchdog_ifnum,VAR_4
+watchdog_user,VAR_5
+ipmi_unregister_watchdog,FUNC_7
+ipmi_intf,VAR_6
+rv,VAR_7
+loc_user,VAR_8

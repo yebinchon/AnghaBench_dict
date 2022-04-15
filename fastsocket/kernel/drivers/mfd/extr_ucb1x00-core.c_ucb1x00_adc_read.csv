@@ -1,0 +1,16 @@
+TASK_INTERRUPTIBLE,VAR_0
+UCB_ADC_CR,VAR_1
+UCB_ADC_DAT,FUNC_0
+UCB_ADC_DATA,VAR_2
+UCB_ADC_DAT_VAL,VAR_3
+UCB_ADC_START,VAR_4
+UCB_ADC_SYNC_ENA,VAR_5
+schedule_timeout,FUNC_1
+set_current_state,FUNC_2
+ucb1x00_reg_read,FUNC_3
+ucb1x00_reg_write,FUNC_4
+ucb1x00_adc_read,FUNC_5
+ucb,VAR_6
+adc_channel,VAR_7
+sync,VAR_8
+val,VAR_9

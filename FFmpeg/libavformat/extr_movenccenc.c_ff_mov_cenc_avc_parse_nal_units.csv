@@ -1,0 +1,17 @@
+auxiliary_info_add_subsample,FUNC_0
+avio_w8,FUNC_1
+avio_wb32,FUNC_2
+ff_avc_find_startcode,FUNC_3
+mov_cenc_end_packet,FUNC_4
+mov_cenc_start_packet,FUNC_5
+mov_cenc_write_encrypted,FUNC_6
+ff_mov_cenc_avc_parse_nal_units,FUNC_7
+ctx,VAR_0
+pb,VAR_1
+buf_in,VAR_2
+size,VAR_3
+p,VAR_4
+end,VAR_5
+nal_start,VAR_6
+nal_end,VAR_7
+ret,VAR_8

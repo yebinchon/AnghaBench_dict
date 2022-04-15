@@ -1,0 +1,16 @@
+SCIC_LOG_OBJECT_CONTROLLER,VAR_0
+SCIC_LOG_OBJECT_INITIALIZATION,VAR_1
+SCIC_LOG_TRACE,FUNC_0
+SCI_MAX_PHYS,VAR_2
+SCI_MAX_PORTS,VAR_3
+SCI_SUCCESS,VAR_4
+sci_base_object_get_logger,FUNC_1
+scic_cb_timer_destroy,FUNC_2
+scic_sds_phy_release_resource,FUNC_3
+scic_sds_port_configuration_agent_release_resource,FUNC_4
+scic_sds_port_release_resource,FUNC_5
+scic_sds_controller_release_resource,FUNC_6
+this_controller,VAR_5
+port,VAR_6
+phy,VAR_7
+index,VAR_8

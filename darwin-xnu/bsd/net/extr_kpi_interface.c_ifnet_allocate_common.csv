@@ -1,0 +1,11 @@
+IFNET_INIT_ALLOC_KPI,VAR_0
+IFNET_INIT_CURRENT_VERSION,VAR_1
+IFNET_INIT_LEGACY,VAR_2
+IFNET_INIT_NX_NOAUTO,VAR_3
+bzero,FUNC_0
+ifnet_allocate_extended,FUNC_1
+ifnet_allocate_common,FUNC_2
+init,VAR_4
+ifp,VAR_5
+is_internal,VAR_6
+einit,VAR_7

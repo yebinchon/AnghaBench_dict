@@ -1,0 +1,14 @@
+FORMAT_MESSAGE_ALLOCATE_BUFFER,VAR_0
+FORMAT_MESSAGE_FROM_SYSTEM,VAR_1
+FormatMessageA,FUNC_0
+GetLastError,FUNC_1
+LocalFree,FUNC_2
+exit,FUNC_3
+fprintf,FUNC_4
+getAppName,FUNC_5
+puts,FUNC_6
+stderr,VAR_2
+REGPROC_print_error,FUNC_7
+lpMsgBuf,VAR_3
+error_code,VAR_4
+status,VAR_5

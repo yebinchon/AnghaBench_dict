@@ -1,0 +1,15 @@
+ACTION_TASK_STOP,VAR_0
+MDNS_SERVICE_LOCK,FUNC_0
+MDNS_SERVICE_UNLOCK,FUNC_1
+_mdns_execute_action,FUNC_2
+_mdns_server,VAR_1
+_mdns_service_task_handle,VAR_2
+pdTRUE,VAR_3
+portMAX_DELAY,VAR_4
+portTICK_PERIOD_MS,VAR_5
+vTaskDelay,FUNC_3
+vTaskDelete,FUNC_4
+xQueueReceive,FUNC_5
+_mdns_service_task,FUNC_6
+pvParameters,VAR_6
+a,VAR_7

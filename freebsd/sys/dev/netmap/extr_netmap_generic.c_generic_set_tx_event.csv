@@ -1,0 +1,17 @@
+MBUF_REFCNT,FUNC_0
+SET_MBUF_DESTRUCTOR,FUNC_1
+generic_mbuf_destructor,VAR_0
+m_freem,FUNC_2
+mtx_lock_spin,FUNC_3
+mtx_unlock_spin,FUNC_4
+nm_next,FUNC_5
+nm_prdis,FUNC_6
+ring_middle,FUNC_7
+smp_mb,FUNC_8
+generic_set_tx_event,FUNC_9
+kring,VAR_1
+hwcur,VAR_2
+lim,VAR_3
+m,VAR_4
+e,VAR_5
+ntc,VAR_6

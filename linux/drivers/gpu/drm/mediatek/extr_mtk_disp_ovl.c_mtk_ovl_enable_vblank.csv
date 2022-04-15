@@ -1,0 +1,10 @@
+DISP_REG_OVL_INTEN,VAR_0
+DISP_REG_OVL_INTSTA,VAR_1
+OVL_FME_CPL_INT,VAR_2
+comp_to_ovl,FUNC_0
+writel,FUNC_1
+writel_relaxed,FUNC_2
+mtk_ovl_enable_vblank,FUNC_3
+comp,VAR_3
+crtc,VAR_4
+ovl,VAR_5

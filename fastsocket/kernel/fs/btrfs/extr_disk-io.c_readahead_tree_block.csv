@@ -1,0 +1,14 @@
+BTRFS_I,FUNC_0
+WAIT_NONE,VAR_0
+btree_get_extent,VAR_1
+btrfs_find_create_tree_block,FUNC_1
+free_extent_buffer,FUNC_2
+read_extent_buffer_pages,FUNC_3
+readahead_tree_block,FUNC_4
+root,VAR_2
+bytenr,VAR_3
+blocksize,VAR_4
+parent_transid,VAR_5
+buf,VAR_6
+btree_inode,VAR_7
+ret,VAR_8

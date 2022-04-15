@@ -1,0 +1,9 @@
+EXYNOS5420_ARM_USE_STANDBY_WFI0,VAR_0
+EXYNOS5420_KFC_USE_STANDBY_WFI0,VAR_1
+MPIDR_AFFINITY_LEVEL,FUNC_0
+S5P_CENTRAL_SEQ_OPTION,VAR_2
+exynos_pm_central_suspend,FUNC_1
+pmu_raw_writel,FUNC_2
+read_cpuid_mpidr,FUNC_3
+exynos5420_pm_suspend,FUNC_4
+this_cluster,VAR_3

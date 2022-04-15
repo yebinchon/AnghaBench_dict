@@ -1,0 +1,15 @@
+FIXED_QUEUE_MAX_TIMEOUT,VAR_0
+MSG_STACK_TO_HC_HCI_CMD,VAR_1
+OSI_THREAD_MAX_TIMEOUT,VAR_2
+STREAM_TO_UINT16,FUNC_0
+assert,FUNC_1
+fixed_queue_enqueue,FUNC_2
+future_new,FUNC_3
+hci_host_env,VAR_3
+hci_host_task_post,FUNC_4
+osi_calloc,FUNC_5
+transmit_command_futured,FUNC_6
+command,VAR_4
+wait_entry,VAR_5
+future,VAR_6
+stream,VAR_7

@@ -1,0 +1,15 @@
+PARPORT_IP32_IRQ_FWD,VAR_0
+PARPORT_IP32_IRQ_HERE,VAR_1
+PARPORT_IRQ_NONE,VAR_2
+parport_ip32_fwp_wait_interrupt,FUNC_0
+parport_ip32_fwp_wait_polling,FUNC_1
+writeb,FUNC_2
+writesb,FUNC_3
+parport_ip32_fifo_write_block_pio,FUNC_4
+p,VAR_3
+buf,VAR_4
+len,VAR_5
+priv,VAR_6
+bufp,VAR_7
+left,VAR_8
+count,VAR_9

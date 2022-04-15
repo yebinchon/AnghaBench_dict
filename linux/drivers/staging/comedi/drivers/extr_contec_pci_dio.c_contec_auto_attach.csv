@@ -1,0 +1,17 @@
+COMEDI_SUBD_DI,VAR_0
+COMEDI_SUBD_DO,VAR_1
+SDF_READABLE,VAR_2
+SDF_WRITABLE,VAR_3
+comedi_alloc_subdevices,FUNC_0
+comedi_pci_enable,FUNC_1
+comedi_to_pci_dev,FUNC_2
+contec_di_insn_bits,VAR_4
+contec_do_insn_bits,VAR_5
+pci_resource_start,FUNC_3
+range_digital,VAR_6
+contec_auto_attach,FUNC_4
+dev,VAR_7
+context_unused,VAR_8
+pcidev,VAR_9
+s,VAR_10
+ret,VAR_11

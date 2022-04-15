@@ -1,0 +1,17 @@
+MSGDMA_DESC_CTL_TX_SINGLE,VAR_0
+MSGDMA_DESC_TX_STRIDE,VAR_1
+burst_seq_num,VAR_2
+control,VAR_3
+csrwr32,FUNC_0
+len,VAR_4
+lower_32_bits,FUNC_1
+msgdma_descroffs,FUNC_2
+read_addr_hi,VAR_5
+read_addr_lo,VAR_6
+stride,VAR_7
+upper_32_bits,FUNC_3
+write_addr_hi,VAR_8
+write_addr_lo,VAR_9
+msgdma_tx_buffer,FUNC_4
+priv,VAR_10
+buffer,VAR_11

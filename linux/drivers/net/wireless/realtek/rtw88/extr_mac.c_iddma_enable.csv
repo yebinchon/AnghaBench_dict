@@ -1,0 +1,12 @@
+BIT_DDMACH0_OWN,VAR_0
+EBUSY,VAR_1
+REG_DDMA_CH0CTRL,VAR_2
+REG_DDMA_CH0DA,VAR_3
+REG_DDMA_CH0SA,VAR_4
+check_hw_ready,FUNC_0
+rtw_write32,FUNC_1
+iddma_enable,FUNC_2
+rtwdev,VAR_5
+src,VAR_6
+dst,VAR_7
+ctrl,VAR_8

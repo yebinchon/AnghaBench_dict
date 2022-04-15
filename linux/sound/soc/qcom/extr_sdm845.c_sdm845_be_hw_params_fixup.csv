@@ -1,0 +1,14 @@
+DEFAULT_SAMPLE_RATE_48K,VAR_0
+SNDRV_PCM_FORMAT_S16_LE,VAR_1
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_2
+SNDRV_PCM_HW_PARAM_FORMAT,VAR_3
+SNDRV_PCM_HW_PARAM_RATE,VAR_4
+hw_param_interval,FUNC_0
+hw_param_mask,FUNC_1
+snd_mask_set_format,FUNC_2
+sdm845_be_hw_params_fixup,FUNC_3
+rtd,VAR_5
+params,VAR_6
+rate,VAR_7
+channels,VAR_8
+fmt,VAR_9

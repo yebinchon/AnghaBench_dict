@@ -1,0 +1,9 @@
+GetDlgCtrlID,FUNC_0
+IsWindow,FUNC_1
+SendMessageW,FUNC_2
+TRACE,FUNC_3
+WM_NOTIFY,VAR_0
+TOOLBAR_SendNotify,FUNC_4
+nmhdr,VAR_1
+infoPtr,VAR_2
+code,VAR_3

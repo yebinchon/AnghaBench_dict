@@ -1,0 +1,14 @@
+UDF_PART_FLAG_FREED_BITMAP,VAR_0
+UDF_PART_FLAG_FREED_TABLE,VAR_1
+UDF_PART_FLAG_UNALLOC_BITMAP,VAR_2
+UDF_PART_FLAG_UNALLOC_TABLE,VAR_3
+UDF_SB,FUNC_0
+le32_to_cpu,FUNC_1
+udf_count_free_bitmap,FUNC_2
+udf_count_free_table,FUNC_3
+udf_count_free,FUNC_4
+sb,VAR_4
+accum,VAR_5
+sbi,VAR_6
+map,VAR_7
+lvid,VAR_8

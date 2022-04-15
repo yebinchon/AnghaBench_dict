@@ -1,0 +1,12 @@
+HTTP_CONTEXT_STATE_CLOSED,VAR_0
+HTTP_CONTEXT_STATE_DROPPING,VAR_1
+HTTP_CONTEXT_STATE_HANDLING,VAR_2
+HTTP_CONTEXT_STATE_READY,VAR_3
+httpAlterContextState,FUNC_0
+httpCloseContext,FUNC_1
+httpError,FUNC_2
+httpRemoveContextFromEpoll,FUNC_3
+httpTrace,FUNC_4
+httpCloseContextByServer,FUNC_5
+pThread,VAR_4
+pContext,VAR_5

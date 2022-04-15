@@ -1,0 +1,9 @@
+SNDRV_GF1_GB_REC_DMA_CONTROL,VAR_0
+SNDRV_PCM_TRIGGER_START,VAR_1
+snd_gf1_i_look8,FUNC_0
+snd_gf1_i_write8,FUNC_1
+snd_gf1_pcm_capture_prepare,FUNC_2
+snd_gf1_pcm_capture_trigger,FUNC_3
+snd_pcm_period_elapsed,FUNC_4
+snd_gf1_pcm_interrupt_dma_read,FUNC_5
+gus,VAR_2

@@ -1,0 +1,11 @@
+FW_FINAL,VAR_0
+FW_TRY,VAR_1
+__obtain_firmware,FUNC_0
+fw_mutex,VAR_2
+fw_state,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+retry_firmware,FUNC_3
+dd,VAR_4
+load_result,VAR_5
+retry,VAR_6

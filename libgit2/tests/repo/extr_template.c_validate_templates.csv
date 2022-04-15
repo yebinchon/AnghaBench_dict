@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+assert_hooks_match,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+cl_repo_get_bool,FUNC_3
+git_buf_clear,FUNC_4
+git_buf_dispose,FUNC_5
+git_buf_joinpath,FUNC_6
+git_futils_readbuffer,FUNC_7
+git_repository_path,FUNC_8
+validate_templates,FUNC_9
+repo,VAR_1
+template_path,VAR_2
+path,VAR_3
+expected,VAR_4
+actual,VAR_5
+filemode,VAR_6

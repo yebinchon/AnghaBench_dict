@@ -1,0 +1,6 @@
+assert_is_ignored,FUNC_0
+cl_git_mkfile,FUNC_1
+make_test_data,FUNC_2
+refute_is_ignored,FUNC_3
+test_ignore_status__leading_spaces_are_significant,FUNC_4
+test_files,VAR_0

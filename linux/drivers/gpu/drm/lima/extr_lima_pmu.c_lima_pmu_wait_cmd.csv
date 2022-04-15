@@ -1,0 +1,11 @@
+LIMA_PMU_INT_CLEAR,VAR_0
+LIMA_PMU_INT_CMD_MASK,VAR_1
+LIMA_PMU_INT_RAWSTAT,VAR_2
+dev_err,FUNC_0
+pmu_write,FUNC_1
+readl_poll_timeout,FUNC_2
+lima_pmu_wait_cmd,FUNC_3
+ip,VAR_3
+dev,VAR_4
+err,VAR_5
+v,VAR_6

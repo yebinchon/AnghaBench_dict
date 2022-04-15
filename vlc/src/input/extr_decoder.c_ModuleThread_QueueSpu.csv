@@ -1,0 +1,11 @@
+ModuleThread_PlaySpu,FUNC_0
+VLC_TICK_INVALID,VAR_0
+assert,FUNC_1
+dec_get_owner,FUNC_2
+subpicture_Delete,FUNC_3
+vlc_mutex_lock,FUNC_4
+vlc_mutex_unlock,FUNC_5
+ModuleThread_QueueSpu,FUNC_6
+p_dec,VAR_1
+p_spu,VAR_2
+p_owner,VAR_3

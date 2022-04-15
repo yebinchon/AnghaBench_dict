@@ -1,0 +1,15 @@
+RW_WRITER,VAR_0
+dmu_objset_id,FUNC_0
+iput,FUNC_1
+rw_enter,FUNC_2
+rw_exit,FUNC_3
+zfs_snapshot_lock,VAR_1
+zfsctl_snapshot_find_by_objsetid,FUNC_4
+zfsctl_snapshot_rele,FUNC_5
+zfsctl_snapshot_remove,FUNC_6
+zfsctl_snapshot_unmount_cancel,FUNC_7
+zfsctl_destroy,FUNC_8
+zfsvfs,VAR_2
+se,VAR_3
+spa,VAR_4
+objsetid,VAR_5

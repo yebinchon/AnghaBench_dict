@@ -1,0 +1,9 @@
+aegis128_load_state_neon,FUNC_0
+aegis128_save_state_neon,FUNC_1
+aegis128_update_neon,FUNC_2
+preload_sbox,FUNC_3
+vld1q_u8,FUNC_4
+crypto_aegis128_update_neon,FUNC_5
+state,VAR_0
+msg,VAR_1
+st,VAR_2

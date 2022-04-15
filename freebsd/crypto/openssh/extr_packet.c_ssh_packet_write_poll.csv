@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+EINTR,VAR_1
+EWOULDBLOCK,VAR_2
+SSH_ERR_CONN_CLOSED,VAR_3
+SSH_ERR_SYSTEM_ERROR,VAR_4
+errno,VAR_5
+sshbuf_consume,FUNC_0
+sshbuf_len,FUNC_1
+sshbuf_ptr,FUNC_2
+write,FUNC_3
+ssh_packet_write_poll,FUNC_4
+ssh,VAR_6
+state,VAR_7
+len,VAR_8
+r,VAR_9

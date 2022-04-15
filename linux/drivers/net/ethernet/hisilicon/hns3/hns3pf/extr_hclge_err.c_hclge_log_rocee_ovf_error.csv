@@ -1,0 +1,14 @@
+HCLGE_ROCEE_OVF_ERR_INT_MASK,VAR_0
+HCLGE_ROCEE_OVF_ERR_TYPE_MASK,VAR_1
+HCLGE_ROCEE_PF_RAS_INT_CMD,VAR_2
+dev_err,FUNC_0
+hclge_cmd_query_error,FUNC_1
+hclge_rocee_qmm_ovf_err_int,VAR_3
+le32_to_cpu,FUNC_2
+hclge_log_rocee_ovf_error,FUNC_3
+hdev,VAR_4
+dev,VAR_5
+desc,VAR_6
+ret,VAR_7
+err,VAR_8
+err_sts,VAR_9

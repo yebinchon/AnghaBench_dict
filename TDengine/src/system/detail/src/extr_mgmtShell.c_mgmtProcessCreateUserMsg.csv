@@ -1,0 +1,13 @@
+TSDB_CODE_NO_RIGHTS,VAR_0
+TSDB_CODE_SUCCESS,VAR_1
+TSDB_MSG_TYPE_CREATE_USER_RSP,VAR_2
+mLPrint,FUNC_0
+mgmtCheckRedirectMsg,FUNC_1
+mgmtCreateUser,FUNC_2
+taosSendSimpleRsp,FUNC_3
+mgmtProcessCreateUserMsg,FUNC_4
+pMsg,VAR_3
+msgLen,VAR_4
+pConn,VAR_5
+pCreate,VAR_6
+code,VAR_7

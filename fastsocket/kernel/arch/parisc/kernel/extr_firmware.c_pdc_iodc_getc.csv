@@ -1,0 +1,13 @@
+ENTRY_IO_CIN,VAR_0
+PAGE0,VAR_1
+__pa,FUNC_0
+iodc_dbuf,VAR_2
+iodc_retbuf,VAR_3
+pdc_lock,VAR_4
+real32_call,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+pdc_iodc_getc,FUNC_4
+ch,VAR_5
+status,VAR_6
+flags,VAR_7

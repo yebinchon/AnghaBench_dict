@@ -1,0 +1,17 @@
+cpumask_clear_cpu,FUNC_0
+cpumask_setall,FUNC_1
+current,VAR_0
+fakewriter_tasks,VAR_1
+get_online_cpus,FUNC_2
+nfakewriters,VAR_2
+nrealreaders,VAR_3
+num_online_cpus,FUNC_3
+put_online_cpus,FUNC_4
+rcu_idle_cpu,VAR_4
+reader_tasks,VAR_5
+set_cpus_allowed_ptr,FUNC_5
+shuffle_tmp_mask,VAR_6
+stats_task,VAR_7
+writer_task,VAR_8
+rcu_torture_shuffle_tasks,FUNC_6
+i,VAR_9

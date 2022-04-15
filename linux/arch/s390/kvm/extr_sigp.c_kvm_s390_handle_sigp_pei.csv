@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+EOPNOTSUPP,VAR_0
+SIGP_CC_ORDER_CODE_ACCEPTED,VAR_1
+SIGP_EXTERNAL_CALL,VAR_2
+kvm_get_vcpu_by_id,FUNC_1
+kvm_s390_get_base_disp_rs,FUNC_2
+kvm_s390_set_psw_cc,FUNC_3
+kvm_s390_vcpu_wakeup,FUNC_4
+trace_kvm_s390_handle_sigp_pei,FUNC_5
+kvm_s390_handle_sigp_pei,FUNC_6
+vcpu,VAR_3
+r3,VAR_4
+cpu_addr,VAR_5
+dest_vcpu,VAR_6
+order_code,VAR_7

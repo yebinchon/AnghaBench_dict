@@ -1,0 +1,16 @@
+IP_VALID,FUNC_0
+KERN_FAILURE,VAR_0
+KERN_INVALID_VALUE,VAR_1
+KERN_SUCCESS,VAR_2
+MACH_VOUCHER_ATTR_KEY_PTHPRIORITY,VAR_3
+assert,FUNC_1
+mach_voucher_extract_attr_recipe,FUNC_2
+memcpy,FUNC_3
+ipc_get_pthpriority_from_kmsg_voucher,FUNC_4
+kmsg,VAR_4
+canonicalize_priority_value,VAR_5
+pthread_priority_voucher,VAR_6
+content_size,VAR_7
+content_data,VAR_8
+cur_content,VAR_9
+kr,VAR_10

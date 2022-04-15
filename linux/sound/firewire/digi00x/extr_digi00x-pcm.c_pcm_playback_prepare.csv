@@ -1,0 +1,9 @@
+amdtp_dot_reset,FUNC_0
+amdtp_stream_pcm_prepare,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+snd_dg00x_stream_start_duplex,FUNC_4
+pcm_playback_prepare,FUNC_5
+substream,VAR_0
+dg00x,VAR_1
+err,VAR_2

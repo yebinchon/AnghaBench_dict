@@ -1,0 +1,14 @@
+AR71XX_RST_WDOG_CONTROL,VAR_0
+ATH_READ_REG,FUNC_0
+ATH_WRITE_REG,FUNC_1
+EVENTHANDLER_REGISTER,FUNC_2
+RST_WDOG_ACTION_NOACTION,VAR_1
+RST_WDOG_LAST,VAR_2
+ar71xx_wdog_sysctl,FUNC_3
+ar71xx_wdog_watchdog_fn,VAR_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+watchdog_list,VAR_4
+ar71xx_wdog_attach,FUNC_6
+dev,VAR_5
+sc,VAR_6

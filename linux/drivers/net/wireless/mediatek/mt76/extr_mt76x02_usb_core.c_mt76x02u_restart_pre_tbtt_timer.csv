@@ -1,0 +1,17 @@
+HRTIMER_MODE_REL,VAR_0
+MT_TBTT_TIMER,VAR_1
+MT_TBTT_TIMER_VAL,VAR_2
+MT_TSF_TIMER_DW0,VAR_3
+MT_TSF_TIMER_DW1,VAR_4
+PRE_TBTT_USEC,VAR_5
+dev_dbg,FUNC_0
+hrtimer_start,FUNC_1
+mt76_get_field,FUNC_2
+mt76_rr,FUNC_3
+mt76x02u_restart_pre_tbtt_timer,FUNC_4
+dev,VAR_6
+tbtt,VAR_7
+dw0,VAR_8
+dw1,VAR_9
+tsf,VAR_10
+time,VAR_11

@@ -1,0 +1,16 @@
+alpha_perf_event_update,FUNC_0
+cpu_hw_events,VAR_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+perf_event_update_userpage,FUNC_3
+perf_pmu_disable,FUNC_4
+perf_pmu_enable,FUNC_5
+this_cpu_ptr,FUNC_6
+alpha_pmu_del,FUNC_7
+event,VAR_1
+flags,VAR_2
+cpuc,VAR_3
+hwc,VAR_4
+irq_flags,VAR_5
+j,VAR_6
+idx,VAR_7

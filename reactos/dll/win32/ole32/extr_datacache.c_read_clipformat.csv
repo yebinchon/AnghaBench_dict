@@ -1,0 +1,16 @@
+DV_E_CLIPFORMAT,VAR_0
+E_OUTOFMEMORY,VAR_1
+GetProcessHeap,FUNC_0
+HeapAlloc,FUNC_1
+HeapFree,FUNC_2
+IStream_Read,FUNC_3
+RegisterClipboardFormatA,FUNC_4
+S_OK,VAR_2
+read_clipformat,FUNC_5
+stream,VAR_3
+clipformat,VAR_4
+length,VAR_5
+hr,VAR_6
+read,VAR_7
+cf,VAR_8
+format_name,VAR_9

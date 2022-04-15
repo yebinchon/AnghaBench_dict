@@ -1,0 +1,9 @@
+SIRFSOC_CPUIOBRG_ADDR,VAR_0
+SIRFSOC_CPUIOBRG_DATA,VAR_1
+SIRFSOC_CPUIOBRG_WRBE,VAR_2
+sirfsoc_rtc_iobrg_wait_sync,FUNC_0
+sirfsoc_rtciobrg_base,VAR_3
+writel_relaxed,FUNC_1
+sirfsoc_rtc_iobrg_pre_writel,FUNC_2
+val,VAR_4
+addr,VAR_5

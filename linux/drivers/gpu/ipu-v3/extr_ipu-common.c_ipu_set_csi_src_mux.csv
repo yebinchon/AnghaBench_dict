@@ -1,0 +1,14 @@
+IPU_CONF,VAR_0
+IPU_CONF_CSI0_DATA_SOURCE,VAR_1
+IPU_CONF_CSI1_DATA_SOURCE,VAR_2
+ipu_cm_read,FUNC_0
+ipu_cm_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ipu_set_csi_src_mux,FUNC_4
+ipu,VAR_3
+csi_id,VAR_4
+mipi_csi2,VAR_5
+flags,VAR_6
+val,VAR_7
+mask,VAR_8

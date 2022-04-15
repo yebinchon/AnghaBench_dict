@@ -1,0 +1,10 @@
+__drm_atomic_helper_plane_destroy_state,FUNC_0
+drm_framebuffer_put,FUNC_1
+drm_framebuffer_read_refcount,FUNC_2
+kfree,FUNC_3
+to_vkms_plane_state,FUNC_4
+vkms_plane_destroy_state,FUNC_5
+plane,VAR_0
+old_state,VAR_1
+vkms_state,VAR_2
+crtc,VAR_3

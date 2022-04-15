@@ -1,0 +1,16 @@
+MMS_PACKET_MEDIA,VAR_0
+mms_CommandRead,FUNC_0
+mms_CommandSend,FUNC_1
+mms_HeaderMediaRead,FUNC_2
+msg_Dbg,FUNC_3
+msg_Err,FUNC_4
+var_buffer_add32,FUNC_5
+var_buffer_add64,FUNC_6
+var_buffer_add8,FUNC_7
+var_buffer_free,FUNC_8
+var_buffer_initwrite,FUNC_9
+MMSStart,FUNC_10
+p_access,VAR_1
+i_packet,VAR_2
+p_sys,VAR_3
+buffer,VAR_4

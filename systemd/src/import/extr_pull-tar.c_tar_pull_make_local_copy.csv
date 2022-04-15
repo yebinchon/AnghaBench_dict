@@ -1,0 +1,16 @@
+COPY_REFLINK,VAR_0
+COPY_REPLACE,VAR_1
+EEXIST,VAR_2
+ENOENT,VAR_3
+assert,FUNC_0
+copy_file_atomic,FUNC_1
+log_debug_errno,FUNC_2
+log_info,FUNC_3
+log_warning_errno,FUNC_4
+pull_make_local_copy,FUNC_5
+strjoina,FUNC_6
+tar_pull_determine_path,FUNC_7
+tar_pull_make_local_copy,FUNC_8
+i,VAR_4
+r,VAR_5
+local_settings,VAR_6

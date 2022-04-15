@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+I2C_SMBUS_READ,VAR_1
+I2C_SMBUS_WORD_DATA,VAR_2
+cbus_transfer,FUNC_0
+i2c_get_adapdata,FUNC_1
+cbus_i2c_smbus_xfer,FUNC_2
+adapter,VAR_3
+addr,VAR_4
+flags,VAR_5
+read_write,VAR_6
+command,VAR_7
+size,VAR_8
+data,VAR_9
+chost,VAR_10
+ret,VAR_11

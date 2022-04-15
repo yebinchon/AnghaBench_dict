@@ -1,0 +1,14 @@
+SizeOfXLogLongPHD,VAR_0
+SizeOfXLogShortPHD,VAR_1
+UsableBytesInPage,VAR_2
+UsableBytesInSegment,VAR_3
+XLOG_BLCKSZ,VAR_4
+XLogSegNoOffsetToRecPtr,FUNC_0
+wal_segment_size,VAR_5
+XLogBytePosToRecPtr,FUNC_1
+bytepos,VAR_6
+fullsegs,VAR_7
+fullpages,VAR_8
+bytesleft,VAR_9
+seg_offset,VAR_10
+result,VAR_11

@@ -1,0 +1,14 @@
+ExecClearTuple,FUNC_0
+ExecStoreBufferHeapTuple,FUNC_1
+HEAPAMSLOTDEBUG_1,VAR_0
+HEAPAMSLOTDEBUG_2,VAR_1
+HEAPAMSLOTDEBUG_3,VAR_2
+SO_ALLOW_PAGEMODE,VAR_3
+heapgettup,FUNC_2
+heapgettup_pagemode,FUNC_3
+pgstat_count_heap_getnext,FUNC_4
+heap_getnextslot,FUNC_5
+sscan,VAR_4
+direction,VAR_5
+slot,VAR_6
+scan,VAR_7

@@ -1,0 +1,13 @@
+CONFIG_RTC_DRV_DS3232_HWMON,VAR_0
+IS_ENABLED,FUNC_0
+IS_ERR,FUNC_1
+PTR_ERR,FUNC_2
+dev_err,FUNC_3
+dev_get_drvdata,FUNC_4
+devm_hwmon_device_register_with_info,FUNC_5
+ds3232_hwmon_chip_info,VAR_1
+ds3232_hwmon_register,FUNC_6
+dev,VAR_2
+name,VAR_3
+ds3232,VAR_4
+hwmon_dev,VAR_5

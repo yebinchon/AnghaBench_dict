@@ -1,0 +1,17 @@
+BIO_printf,FUNC_0
+SSL_CTX_sess_accept,FUNC_1
+SSL_CTX_sess_accept_good,FUNC_2
+SSL_CTX_sess_accept_renegotiate,FUNC_3
+SSL_CTX_sess_cache_full,FUNC_4
+SSL_CTX_sess_cb_hits,FUNC_5
+SSL_CTX_sess_connect,FUNC_6
+SSL_CTX_sess_connect_good,FUNC_7
+SSL_CTX_sess_connect_renegotiate,FUNC_8
+SSL_CTX_sess_get_cache_size,FUNC_9
+SSL_CTX_sess_hits,FUNC_10
+SSL_CTX_sess_misses,FUNC_11
+SSL_CTX_sess_number,FUNC_12
+SSL_CTX_sess_timeouts,FUNC_13
+print_stats,FUNC_14
+bio,VAR_0
+ssl_ctx,VAR_1

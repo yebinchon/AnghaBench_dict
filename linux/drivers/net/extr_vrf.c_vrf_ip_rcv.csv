@@ -1,0 +1,17 @@
+IPCB,FUNC_0
+IPSKB_L3SLAVE,VAR_0
+NFPROTO_IPV4,VAR_1
+NF_INET_PRE_ROUTING,VAR_2
+PACKET_HOST,VAR_3
+PACKET_LOOPBACK,VAR_4
+dev_queue_xmit_nit,FUNC_1
+ip_hdr,FUNC_2
+ipv4_is_multicast,FUNC_3
+list_empty,FUNC_4
+skb_pull,FUNC_5
+skb_push,FUNC_6
+vrf_rcv_nfhook,FUNC_7
+vrf_rx_stats,FUNC_8
+vrf_ip_rcv,FUNC_9
+vrf_dev,VAR_5
+skb,VAR_6

@@ -1,0 +1,13 @@
+MIN_SQ_DESC_PER_PKT_XMIT,VAR_0
+nicvf_get_nxt_sqentry,FUNC_0
+nicvf_get_sq_desc,FUNC_1
+nicvf_sq_add_gather_subdesc,FUNC_2
+nicvf_xdp_sq_add_hdr_subdesc,FUNC_3
+nicvf_xdp_sq_append_pkt,FUNC_4
+nic,VAR_1
+sq,VAR_2
+bufaddr,VAR_3
+dma_addr,VAR_4
+len,VAR_5
+subdesc_cnt,VAR_6
+qentry,VAR_7

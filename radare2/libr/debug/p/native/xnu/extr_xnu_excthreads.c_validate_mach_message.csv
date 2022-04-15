@@ -1,0 +1,13 @@
+KERN_SUCCESS,VAR_0
+MACH_MSGH_BITS_COMPLEX,VAR_1
+NDR_PROTOCOL_2_0,VAR_2
+NDR_record,VAR_3
+eprintf,FUNC_0
+ex,VAR_4
+mach_port_deallocate,FUNC_1
+mach_task_self,FUNC_2
+pid_to_task,FUNC_3
+validate_mach_message,FUNC_4
+dbg,VAR_5
+msg,VAR_6
+kr,VAR_7

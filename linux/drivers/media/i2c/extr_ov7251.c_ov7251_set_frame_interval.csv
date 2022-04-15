@@ -1,0 +1,13 @@
+__v4l2_ctrl_modify_range,FUNC_0
+__v4l2_ctrl_s_ctrl,FUNC_1
+__v4l2_ctrl_s_ctrl_int64,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+ov7251_find_mode_by_ival,FUNC_5
+to_ov7251,FUNC_6
+ov7251_set_frame_interval,FUNC_7
+subdev,VAR_0
+fi,VAR_1
+ov7251,VAR_2
+new_mode,VAR_3
+ret,VAR_4

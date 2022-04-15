@@ -1,0 +1,14 @@
+IOC_IRQREQA,VAR_0
+IOC_T0CNTH,VAR_1
+IOC_T0CNTL,VAR_2
+IOC_T0LATCH,VAR_3
+LATCH,VAR_4
+barrier,FUNC_0
+ioc_readb,FUNC_1
+ioc_writeb,FUNC_2
+tick_nsec,VAR_5
+ioc_timer_gettimeoffset,FUNC_3
+count1,VAR_6
+count2,VAR_7
+status,VAR_8
+offset,VAR_9

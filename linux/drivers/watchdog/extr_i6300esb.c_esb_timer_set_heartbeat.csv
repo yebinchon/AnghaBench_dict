@@ -1,0 +1,13 @@
+ESB_RELOAD_REG,FUNC_0
+ESB_TIMER1_REG,FUNC_1
+ESB_TIMER2_REG,FUNC_2
+ESB_WDT_RELOAD,VAR_0
+esb_unlock_registers,FUNC_3
+to_esb_dev,FUNC_4
+writel,FUNC_5
+writew,FUNC_6
+esb_timer_set_heartbeat,FUNC_7
+wdd,VAR_1
+time,VAR_2
+edev,VAR_3
+val,VAR_4

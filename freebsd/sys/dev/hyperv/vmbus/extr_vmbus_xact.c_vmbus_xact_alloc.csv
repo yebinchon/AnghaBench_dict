@@ -1,0 +1,12 @@
+BUS_DMA_WAITOK,VAR_0
+M_DEVBUF,VAR_1
+M_WAITOK,VAR_2
+M_ZERO,VAR_3
+PAGE_SIZE,VAR_4
+free,FUNC_0
+hyperv_dmamem_alloc,FUNC_1
+malloc,FUNC_2
+vmbus_xact_alloc,FUNC_3
+ctx,VAR_5
+parent_dtag,VAR_6
+xact,VAR_7

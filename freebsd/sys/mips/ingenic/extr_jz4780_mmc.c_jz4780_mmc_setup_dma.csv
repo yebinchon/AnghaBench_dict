@@ -1,0 +1,17 @@
+BUS_DMA_ALLOCNOW,VAR_0
+BUS_DMA_WAITOK,VAR_1
+BUS_DMA_ZERO,VAR_2
+BUS_SPACE_MAXADDR,VAR_3
+BUS_SPACE_MAXADDR_32BIT,VAR_4
+JZ_MSC_DMA_MAX_SIZE,VAR_5
+JZ_MSC_DMA_SEGS,VAR_6
+bus_dma_tag_create,FUNC_0
+bus_dmamap_create,FUNC_1
+bus_dmamap_load,FUNC_2
+bus_dmamem_alloc,FUNC_3
+bus_get_dma_tag,FUNC_4
+jz4780_mmc_dma_desc_cb,VAR_7
+jz4780_mmc_setup_dma,FUNC_5
+sc,VAR_8
+dma_desc_size,VAR_9
+error,VAR_10

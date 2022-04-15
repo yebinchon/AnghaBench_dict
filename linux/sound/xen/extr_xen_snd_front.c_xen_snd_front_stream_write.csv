@@ -1,0 +1,12 @@
+XENSND_OP_WRITE,VAR_0
+be_stream_do_io,FUNC_0
+be_stream_prepare_req,FUNC_1
+be_stream_wait_io,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+xen_snd_front_stream_write,FUNC_5
+evtchnl,VAR_1
+pos,VAR_2
+count,VAR_3
+req,VAR_4
+ret,VAR_5

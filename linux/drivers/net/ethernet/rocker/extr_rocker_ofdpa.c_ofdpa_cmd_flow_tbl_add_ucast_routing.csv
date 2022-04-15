@@ -1,0 +1,13 @@
+EMSGSIZE,VAR_0
+ROCKER_TLV_OF_DPA_DST_IP,VAR_1
+ROCKER_TLV_OF_DPA_DST_IP_MASK,VAR_2
+ROCKER_TLV_OF_DPA_ETHERTYPE,VAR_3
+ROCKER_TLV_OF_DPA_GOTO_TABLE_ID,VAR_4
+ROCKER_TLV_OF_DPA_GROUP_ID,VAR_5
+rocker_tlv_put_be16,FUNC_0
+rocker_tlv_put_be32,FUNC_1
+rocker_tlv_put_u16,FUNC_2
+rocker_tlv_put_u32,FUNC_3
+ofdpa_cmd_flow_tbl_add_ucast_routing,FUNC_4
+desc_info,VAR_6
+entry,VAR_7

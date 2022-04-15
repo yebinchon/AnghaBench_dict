@@ -1,0 +1,14 @@
+IPS_MAX_SG,VAR_0
+IPS_SGLIST_SIZE,FUNC_0
+IPS_USE_ENH_SGLIST,FUNC_1
+METHOD_TRACE,FUNC_2
+memset,FUNC_3
+pci_alloc_consistent,FUNC_4
+pci_free_consistent,FUNC_5
+ips_allocatescbs,FUNC_6
+ha,VAR_1
+scb_p,VAR_2
+ips_sg,VAR_3
+i,VAR_4
+command_dma,VAR_5
+sg_dma,VAR_6

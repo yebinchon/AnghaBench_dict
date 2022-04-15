@@ -1,0 +1,13 @@
+MAX8907_REG_ALARM0_CNTL,VAR_0
+MAX8907_REG_ALARM0_SEC,VAR_1
+TIME_NUM,VAR_2
+dev_get_drvdata,FUNC_0
+regmap_bulk_write,FUNC_1
+regmap_write,FUNC_2
+tm_to_regs,FUNC_3
+max8907_rtc_set_alarm,FUNC_4
+dev,VAR_3
+alrm,VAR_4
+rtc,VAR_5
+regs,VAR_6
+ret,VAR_7

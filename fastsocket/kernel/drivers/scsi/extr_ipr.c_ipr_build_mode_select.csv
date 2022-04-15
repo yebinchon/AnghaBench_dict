@@ -1,0 +1,12 @@
+IPR_FLAGS_HI_WRITE_NOT_READ,VAR_0
+IPR_IOADL_FLAGS_WRITE_LAST,VAR_1
+IPR_RQTYPE_SCSICDB,VAR_2
+MODE_SELECT,VAR_3
+ipr_init_ioadl,FUNC_0
+ipr_build_mode_select,FUNC_1
+ipr_cmd,VAR_4
+res_handle,VAR_5
+parm,VAR_6
+dma_addr,VAR_7
+xfer_len,VAR_8
+ioarcb,VAR_9

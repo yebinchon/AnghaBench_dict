@@ -1,0 +1,9 @@
+STATUSF_IP2,VAR_0
+STATUSF_IP3,VAR_1
+STATUSF_IP4,VAR_2
+clear_c0_status,FUNC_0
+octeon_irq_init_ciu_percpu,FUNC_1
+octeon_irq_percpu_enable,FUNC_2
+octeon_irq_use_ip4,VAR_3
+set_c0_status,FUNC_3
+octeon_irq_setup_secondary_ciu,FUNC_4

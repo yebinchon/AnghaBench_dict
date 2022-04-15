@@ -1,0 +1,11 @@
+HYPERVISOR_vcpu_op,FUNC_0
+VCPUOP_register_vcpu_time_memory_area,VAR_0
+clear_page,FUNC_1
+pr_notice,FUNC_2
+xen_clock,VAR_1
+xen_clock_value_saved,VAR_2
+xen_clocksource_read,FUNC_3
+xen_sched_clock_offset,VAR_3
+xen_save_time_memory_area,FUNC_4
+t,VAR_4
+ret,VAR_5

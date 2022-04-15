@@ -1,0 +1,12 @@
+VCPU_CTR2,FUNC_0
+VCPU_EXITINTINFO,VAR_0
+VMCB_EXITINTINFO_VALID,FUNC_1
+VMCB_EXITINTINFO_VECTOR,FUNC_2
+svm_get_vmcb_ctrl,FUNC_3
+vm_exit_intinfo,FUNC_4
+vmm_stat_incr,FUNC_5
+svm_save_intinfo,FUNC_6
+svm_sc,VAR_1
+vcpu,VAR_2
+ctrl,VAR_3
+intinfo,VAR_4

@@ -1,0 +1,10 @@
+BHND_BUS_GET_DMA_TRANSLATION,FUNC_0
+device_get_parent,FUNC_1
+panic,FUNC_2
+bhnd_bus_generic_get_dma_translation,FUNC_3
+dev,VAR_0
+child,VAR_1
+width,VAR_2
+flags,VAR_3
+dmat,VAR_4
+translation,VAR_5

@@ -1,0 +1,15 @@
+HZ,VAR_0
+TMP421_CONFIG_REG_1,VAR_1
+TMP421_TEMP_LSB,VAR_2
+TMP421_TEMP_MSB,VAR_3
+dev_get_drvdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+jiffies,VAR_4
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+time_after,FUNC_4
+tmp421_update_device,FUNC_5
+dev,VAR_5
+data,VAR_6
+client,VAR_7
+i,VAR_8

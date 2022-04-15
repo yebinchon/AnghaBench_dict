@@ -1,0 +1,16 @@
+EXT4_BG_BLOCK_BITMAP_CSUM_HI_END,VAR_0
+EXT4_CLUSTERS_PER_GROUP,FUNC_0
+EXT4_SB,FUNC_1
+ext4_chksum,FUNC_2
+ext4_has_metadata_csum,FUNC_3
+le16_to_cpu,FUNC_4
+ext4_block_bitmap_csum_verify,FUNC_5
+sb,VAR_1
+group,VAR_2
+gdp,VAR_3
+bh,VAR_4
+hi,VAR_5
+provided,VAR_6
+calculated,VAR_7
+sbi,VAR_8
+sz,VAR_9

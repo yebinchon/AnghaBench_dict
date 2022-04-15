@@ -1,0 +1,16 @@
+JFS_IP,FUNC_0
+__jfs_setxattr,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+txBegin,FUNC_4
+txCommit,FUNC_5
+txEnd,FUNC_6
+__jfs_xattr_set,FUNC_7
+inode,VAR_0
+name,VAR_1
+value,VAR_2
+size,VAR_3
+flags,VAR_4
+ji,VAR_5
+tid,VAR_6
+rc,VAR_7

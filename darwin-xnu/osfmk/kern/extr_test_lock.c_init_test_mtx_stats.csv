@@ -1,0 +1,15 @@
+TEST_MTX_MAX_STATS,VAR_0
+TRUE,VAR_1
+atomic_store,FUNC_0
+enabled,VAR_2
+lck_attr_setdefault,FUNC_1
+lck_grp_attr_setdefault,FUNC_2
+lck_grp_init,FUNC_3
+lck_mtx_test_stats,VAR_3
+lck_spin_init,FUNC_4
+memset,FUNC_5
+test_mtx_stats_attr,VAR_4
+test_mtx_stats_grp,VAR_5
+test_mtx_stats_grp_attr,VAR_6
+init_test_mtx_stats,FUNC_6
+i,VAR_7

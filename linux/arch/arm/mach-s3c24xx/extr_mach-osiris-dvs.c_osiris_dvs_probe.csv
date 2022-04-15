@@ -1,0 +1,13 @@
+CPUFREQ_TRANSITION_NOTIFIER,VAR_0
+OSIRIS_GPIO_DVS,VAR_1
+cpufreq_register_notifier,FUNC_0
+dev_err,FUNC_1
+dev_info,FUNC_2
+gpio_direction_output,FUNC_3
+gpio_free,FUNC_4
+gpio_request,FUNC_5
+osiris_dvs_nb,VAR_2
+osiris_dvs_tps_setdvs,FUNC_6
+osiris_dvs_probe,FUNC_7
+pdev,VAR_3
+ret,VAR_4

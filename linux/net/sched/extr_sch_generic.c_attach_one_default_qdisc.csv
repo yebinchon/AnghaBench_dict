@@ -1,0 +1,17 @@
+ARPHRD_CAN,VAR_0
+IFF_NO_QUEUE,VAR_1
+TCQ_F_NOPARENT,VAR_2
+TCQ_F_ONETXQUEUE,VAR_3
+TC_H_ROOT,VAR_4
+default_qdisc_ops,VAR_5
+netdev_info,FUNC_0
+netif_is_multiqueue,FUNC_1
+noqueue_qdisc_ops,VAR_6
+pfifo_fast_ops,VAR_7
+qdisc_create_dflt,FUNC_2
+attach_one_default_qdisc,FUNC_3
+dev,VAR_8
+dev_queue,VAR_9
+_unused,VAR_10
+qdisc,VAR_11
+ops,VAR_12

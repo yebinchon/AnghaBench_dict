@@ -1,0 +1,16 @@
+DEVICE_SUSPEND,FUNC_0
+USB_IFACE_INDEX_ANY,VAR_0
+device_add_child,FUNC_1
+device_delete_child,FUNC_2
+device_is_attached,FUNC_3
+device_printf,FUNC_4
+device_probe_and_attach,FUNC_5
+device_quiet,FUNC_6
+device_set_ivars,FUNC_7
+panic,FUNC_8
+usb_probe_and_attach_sub,FUNC_9
+udev,VAR_1
+uaa,VAR_2
+iface,VAR_3
+dev,VAR_4
+err,VAR_5

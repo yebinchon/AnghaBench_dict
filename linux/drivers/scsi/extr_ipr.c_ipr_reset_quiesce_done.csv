@@ -1,0 +1,9 @@
+ENTER,VAR_0
+IPR_PCII_IOA_TRANS_TO_OPER,VAR_1
+IPR_RC_JOB_CONTINUE,VAR_2
+LEAVE,VAR_3
+ipr_ioa_bringdown_done,VAR_4
+ipr_mask_and_clear_interrupts,FUNC_0
+ipr_reset_quiesce_done,FUNC_1
+ipr_cmd,VAR_5
+ioa_cfg,VAR_6

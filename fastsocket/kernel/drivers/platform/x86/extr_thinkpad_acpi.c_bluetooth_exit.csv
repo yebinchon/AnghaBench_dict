@@ -1,0 +1,7 @@
+TPACPI_RFK_BLUETOOTH_SW_ID,VAR_0
+bluetooth_attr_group,VAR_1
+bluetooth_shutdown,FUNC_0
+sysfs_remove_group,FUNC_1
+tpacpi_destroy_rfkill,FUNC_2
+tpacpi_pdev,VAR_2
+bluetooth_exit,FUNC_3

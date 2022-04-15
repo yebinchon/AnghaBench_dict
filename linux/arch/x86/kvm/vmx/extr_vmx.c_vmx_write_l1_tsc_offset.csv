@@ -1,0 +1,11 @@
+CPU_BASED_USE_TSC_OFFSETING,VAR_0
+TSC_OFFSET,VAR_1
+get_vmcs12,FUNC_0
+is_guest_mode,FUNC_1
+trace_kvm_write_tsc_offset,FUNC_2
+vmcs_write64,FUNC_3
+vmx_write_l1_tsc_offset,FUNC_4
+vcpu,VAR_2
+offset,VAR_3
+vmcs12,VAR_4
+g_tsc_offset,VAR_5

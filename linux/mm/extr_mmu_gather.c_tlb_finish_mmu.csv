@@ -1,0 +1,9 @@
+__tlb_reset_range,FUNC_0
+dec_tlb_flush_pending,FUNC_1
+mm_tlb_flush_nested,FUNC_2
+tlb_batch_list_free,FUNC_3
+tlb_flush_mmu,FUNC_4
+tlb_finish_mmu,FUNC_5
+tlb,VAR_0
+start,VAR_1
+end,VAR_2

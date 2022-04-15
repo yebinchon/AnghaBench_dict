@@ -1,0 +1,14 @@
+ACLCHECK_NOT_OWNER,VAR_0
+ACLCHECK_OK,VAR_1
+ACL_USAGE,VAR_2
+GetUserId,FUNC_0
+OBJECT_FOREIGN_SERVER,VAR_3
+aclcheck_error,FUNC_1
+pg_foreign_server_aclcheck,FUNC_2
+pg_foreign_server_ownercheck,FUNC_3
+user_mapping_ddl_aclcheck,FUNC_4
+umuserid,VAR_4
+serverid,VAR_5
+servername,VAR_6
+curuserid,VAR_7
+aclresult,VAR_8

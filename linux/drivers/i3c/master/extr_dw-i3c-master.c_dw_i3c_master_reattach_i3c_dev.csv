@@ -1,0 +1,12 @@
+DEV_ADDR_TABLE_DYNAMIC_ADDR,FUNC_0
+DEV_ADDR_TABLE_LOC,FUNC_1
+i3c_dev_get_master,FUNC_2
+i3c_dev_get_master_data,FUNC_3
+to_dw_i3c_master,FUNC_4
+writel,FUNC_5
+dw_i3c_master_reattach_i3c_dev,FUNC_6
+dev,VAR_0
+old_dyn_addr,VAR_1
+data,VAR_2
+m,VAR_3
+master,VAR_4

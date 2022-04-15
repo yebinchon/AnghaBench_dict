@@ -1,0 +1,13 @@
+NOTE_DELETE,VAR_0
+NOTE_LINK,VAR_1
+NOTE_RENAME,VAR_2
+NOTE_WRITE,VAR_3
+lock_vnode_and_post,FUNC_0
+vnode_isdir,FUNC_1
+vnode_setneedinactive,FUNC_2
+post_rename,FUNC_3
+fdvp,VAR_4
+fvp,VAR_5
+tdvp,VAR_6
+tvp,VAR_7
+events,VAR_8

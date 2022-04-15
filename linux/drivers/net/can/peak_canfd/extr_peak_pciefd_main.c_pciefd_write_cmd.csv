@@ -1,0 +1,9 @@
+PCIEFD_REG_CAN_CMD_PORT_H,VAR_0
+PCIEFD_REG_CAN_CMD_PORT_L,VAR_1
+pciefd_can_writereg,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+pciefd_write_cmd,FUNC_3
+ucan,VAR_2
+priv,VAR_3
+flags,VAR_4

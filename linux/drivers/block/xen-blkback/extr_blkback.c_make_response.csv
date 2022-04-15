@@ -1,0 +1,15 @@
+BUG,FUNC_0
+RING_GET_RESPONSE,FUNC_1
+RING_PUSH_RESPONSES_AND_CHECK_NOTIFY,FUNC_2
+notify_remote_via_irq,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+make_response,FUNC_6
+ring,VAR_0
+id,VAR_1
+op,VAR_2
+st,VAR_3
+resp,VAR_4
+flags,VAR_5
+blk_rings,VAR_6
+notify,VAR_7

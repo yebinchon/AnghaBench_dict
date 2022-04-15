@@ -1,0 +1,13 @@
+MSG_DEBUG,VAR_0
+MSG_INFO,VAR_1
+WPS_EVENT_AP_SETUP_LOCKED,VAR_2
+eloop_cancel_timeout,FUNC_0
+eloop_register_timeout,FUNC_1
+hostapd_wps_reenable_ap_pin,VAR_3
+wpa_msg,FUNC_2
+wpa_printf,FUNC_3
+wps_registrar_update_ie,FUNC_4
+wps_pwd_auth_fail,FUNC_5
+hapd,VAR_4
+ctx,VAR_5
+data,VAR_6

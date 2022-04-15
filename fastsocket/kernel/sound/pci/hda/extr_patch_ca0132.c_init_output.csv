@@ -1,0 +1,12 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+AC_WCAP_OUT_AMP,VAR_1
+AMP_OUT_UNMUTE,VAR_2
+AMP_OUT_ZERO,VAR_3
+PIN_HP,VAR_4
+get_wcaps,FUNC_0
+snd_hda_codec_write,FUNC_1
+snd_hda_set_pin_ctl,FUNC_2
+init_output,FUNC_3
+codec,VAR_5
+pin,VAR_6
+dac,VAR_7

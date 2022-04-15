@@ -1,0 +1,16 @@
+LK_EXCLUSIVE,VAR_0
+LK_INTERLOCK,VAR_1
+LK_NOWAIT,VAR_2
+LK_SLEEPFAIL,VAR_3
+VI_LOCK,FUNC_0
+VI_MTX,FUNC_1
+VI_UNLOCK,FUNC_2
+ffs_snapdata_alloc,FUNC_3
+ffs_snapdata_free,FUNC_4
+lockmgr,FUNC_5
+panic,FUNC_6
+ffs_snapdata_acquire,FUNC_7
+devvp,VAR_4
+nsn,VAR_5
+sn,VAR_6
+error,VAR_7

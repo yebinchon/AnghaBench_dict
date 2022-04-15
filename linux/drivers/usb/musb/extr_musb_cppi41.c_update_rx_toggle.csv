@@ -1,0 +1,14 @@
+MUSB_RXCSR,VAR_0
+MUSB_RXCSR_H_DATATOGGLE,VAR_1
+MUSB_RXCSR_H_WR_DATATOGGLE,VAR_2
+is_host_active,FUNC_0
+musb_dbg,FUNC_1
+musb_ep_select,FUNC_2
+musb_readw,FUNC_3
+musb_writew,FUNC_4
+update_rx_toggle,FUNC_5
+cppi41_channel,VAR_3
+hw_ep,VAR_4
+musb,VAR_5
+csr,VAR_6
+toggle,VAR_7

@@ -1,0 +1,13 @@
+FALSE,VAR_0
+SATI_DATA_DIRECTION_IN,VAR_1
+SAT_PROTOCOL_UDMA_DATA_IN,VAR_2
+SAT_PROTOCOL_UDMA_DATA_OUT,VAR_3
+sati_move_set_ata_command,FUNC_0
+sati_move_set_sector_count,FUNC_1
+sati_move_large_udma_translate_command,FUNC_2
+sequence,VAR_4
+scsi_io,VAR_5
+ata_io,VAR_6
+sector_count,VAR_7
+write_opcode,VAR_8
+read_opcode,VAR_9

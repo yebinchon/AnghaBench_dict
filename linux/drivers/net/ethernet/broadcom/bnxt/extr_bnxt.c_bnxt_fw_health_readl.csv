@@ -1,0 +1,13 @@
+BNXT_FW_HEALTH_REG_OFF,FUNC_0
+BNXT_FW_HEALTH_REG_TYPE,FUNC_1
+BNXT_FW_RESET_INPROG_REG,VAR_0
+pci_read_config_dword,FUNC_2
+readl,FUNC_3
+bnxt_fw_health_readl,FUNC_4
+bp,VAR_1
+reg_idx,VAR_2
+fw_health,VAR_3
+reg,VAR_4
+reg_type,VAR_5
+reg_off,VAR_6
+val,VAR_7

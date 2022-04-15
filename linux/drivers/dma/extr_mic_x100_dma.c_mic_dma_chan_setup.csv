@@ -1,0 +1,14 @@
+MIC_DMA_CHAN_MIC,VAR_0
+MIC_DMA_REG_DCHERRMSK,VAR_1
+MIC_DMA_REG_DTPR,VAR_2
+mic_dma_chan_mask_intr,FUNC_0
+mic_dma_chan_set_desc_ring,FUNC_1
+mic_dma_chan_set_owner,FUNC_2
+mic_dma_chan_unmask_intr,FUNC_3
+mic_dma_check_chan,FUNC_4
+mic_dma_disable_chan,FUNC_5
+mic_dma_enable_chan,FUNC_6
+mic_dma_read_reg,FUNC_7
+mic_dma_write_reg,FUNC_8
+mic_dma_chan_setup,FUNC_9
+ch,VAR_3

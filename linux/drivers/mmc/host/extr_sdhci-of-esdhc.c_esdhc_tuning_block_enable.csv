@@ -1,0 +1,11 @@
+ESDHC_DMA_SYSCTL,VAR_0
+ESDHC_FLUSH_ASYNC_FIFO,VAR_1
+ESDHC_TBCTL,VAR_2
+ESDHC_TB_EN,VAR_3
+esdhc_clock_enable,FUNC_0
+sdhci_readl,FUNC_1
+sdhci_writel,FUNC_2
+esdhc_tuning_block_enable,FUNC_3
+host,VAR_4
+enable,VAR_5
+val,VAR_6

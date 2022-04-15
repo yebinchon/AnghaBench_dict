@@ -1,0 +1,16 @@
+BIT,FUNC_0
+FE_IRQ_ENABLE,VAR_0
+IRQ_TYPE_EDGE_FALLING,VAR_1
+IRQ_TYPE_EDGE_RISING,VAR_2
+RE_IRQ_ENABLE,VAR_3
+gpiochip_get_data,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+irqd_get_trigger_type,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+oxnas_gpio_irq_unmask,FUNC_6
+data,VAR_4
+chip,VAR_5
+bank,VAR_6
+type,VAR_7
+mask,VAR_8

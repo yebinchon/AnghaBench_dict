@@ -1,0 +1,15 @@
+TCS3472_ENABLE,VAR_0
+TCS3472_ENABLE_AIEN,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+tcs3472_write_event_config,FUNC_4
+indio_dev,VAR_2
+chan,VAR_3
+type,VAR_4
+dir,VAR_5
+state,VAR_6
+data,VAR_7
+ret,VAR_8
+enable_old,VAR_9

@@ -1,0 +1,13 @@
+H_SUCCESS,VAR_0
+XICS_DBG,FUNC_0
+XICS_RM_CHECK_RESEND,VAR_1
+XICS_RM_KICK_VCPU,VAR_2
+XICS_RM_NOTIFY_EOI,VAR_3
+icp_check_resend,FUNC_1
+kvm_notify_acked_irq,FUNC_2
+kvmppc_fast_vcpu_kick,FUNC_3
+kvmppc_xics_rm_complete,FUNC_4
+vcpu,VAR_4
+hcall,VAR_5
+xics,VAR_6
+icp,VAR_7

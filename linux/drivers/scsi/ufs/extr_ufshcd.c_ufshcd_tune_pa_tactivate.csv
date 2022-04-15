@@ -1,0 +1,14 @@
+PA_TACTIVATE,VAR_0
+PA_TACTIVATE_TIME_UNIT_US,VAR_1
+RX_MIN_ACTIVATETIME_CAPABILITY,VAR_2
+RX_MIN_ACTIVATETIME_UNIT_US,VAR_3
+UIC_ARG_MIB,FUNC_0
+UIC_ARG_MIB_SEL,FUNC_1
+UIC_ARG_MPHY_RX_GEN_SEL_INDEX,FUNC_2
+ufshcd_dme_peer_get,FUNC_3
+ufshcd_dme_set,FUNC_4
+ufshcd_tune_pa_tactivate,FUNC_5
+hba,VAR_4
+ret,VAR_5
+peer_rx_min_activatetime,VAR_6
+tuned_pa_tactivate,VAR_7

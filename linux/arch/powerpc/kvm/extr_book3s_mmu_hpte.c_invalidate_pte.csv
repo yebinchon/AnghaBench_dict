@@ -1,0 +1,13 @@
+call_rcu,FUNC_0
+free_pte_rcu,VAR_0
+hlist_del_init_rcu,FUNC_1
+hlist_unhashed,FUNC_2
+kvmppc_mmu_invalidate_pte,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+to_book3s,FUNC_6
+trace_kvm_book3s_mmu_invalidate,FUNC_7
+invalidate_pte,FUNC_8
+vcpu,VAR_1
+pte,VAR_2
+vcpu3s,VAR_3

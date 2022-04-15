@@ -1,0 +1,13 @@
+br_des_ct_process_block,FUNC_0
+br_des_ct_skey_expand,FUNC_1
+memcpy,FUNC_2
+br_des_ct_cbcdec_run,FUNC_3
+ctx,VAR_0
+iv,VAR_1
+data,VAR_2
+len,VAR_3
+buf,VAR_4
+ivbuf,VAR_5
+sk_exp,VAR_6
+tmp,VAR_7
+i,VAR_8

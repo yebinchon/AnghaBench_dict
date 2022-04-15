@@ -1,0 +1,11 @@
+VCOS_FUNCTION,VAR_0
+VCOS_SUCCESS,VAR_1
+WFC_IPC_MSG_SS_SIGNAL_MM_IMAGE_DATA,VAR_2
+vcos_assert,FUNC_0
+vcos_log_trace,FUNC_1
+wfc_client_ipc_send,FUNC_2
+wfc_server_stream_signal_mm_image_data,FUNC_3
+stream,VAR_3
+image_handle,VAR_4
+msg,VAR_5
+status,VAR_6

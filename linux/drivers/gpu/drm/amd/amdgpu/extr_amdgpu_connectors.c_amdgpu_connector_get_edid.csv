@@ -1,0 +1,17 @@
+CONNECTOR_OBJECT_ID_DISPLAYPORT,VAR_0
+CONNECTOR_OBJECT_ID_eDP,VAR_1
+DRM_MODE_CONNECTOR_DisplayPort,VAR_2
+DRM_MODE_CONNECTOR_LVDS,VAR_3
+DRM_MODE_CONNECTOR_eDP,VAR_4
+ENCODER_OBJECT_ID_NONE,VAR_5
+amdgpu_connector_encoder_get_dp_bridge_encoder_id,FUNC_0
+amdgpu_connector_get_hardcoded_edid,FUNC_1
+amdgpu_i2c_router_select_ddc_port,FUNC_2
+drm_get_edid,FUNC_3
+to_amdgpu_connector,FUNC_4
+amdgpu_connector_get_edid,FUNC_5
+connector,VAR_6
+dev,VAR_7
+adev,VAR_8
+amdgpu_connector,VAR_9
+dig,VAR_10

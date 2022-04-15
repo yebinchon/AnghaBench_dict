@@ -1,0 +1,16 @@
+OHCI_QUIRK_AMD_PLL,VAR_0
+OHCI_QUIRK_AMD_PREFETCH,VAR_1
+PCI_DEVICE_ID_ATI_SBX00_SMBUS,VAR_2
+PCI_REVISION_ID,VAR_3
+PCI_VENDOR_ID_ATI,VAR_4
+hcd_to_ohci,FUNC_0
+ohci_dbg,FUNC_1
+pci_dev_put,FUNC_2
+pci_get_device,FUNC_3
+pci_read_config_byte,FUNC_4
+usb_amd_find_chipset_info,FUNC_5
+ohci_quirk_amd700,FUNC_6
+hcd,VAR_5
+ohci,VAR_6
+amd_smbus_dev,VAR_7
+rev,VAR_8

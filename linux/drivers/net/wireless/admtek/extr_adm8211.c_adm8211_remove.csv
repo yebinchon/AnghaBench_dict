@@ -1,0 +1,12 @@
+ieee80211_free_hw,FUNC_0
+ieee80211_unregister_hw,FUNC_1
+kfree,FUNC_2
+pci_disable_device,FUNC_3
+pci_free_consistent,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_iounmap,FUNC_6
+pci_release_regions,FUNC_7
+adm8211_remove,FUNC_8
+pdev,VAR_0
+dev,VAR_1
+priv,VAR_2

@@ -1,0 +1,12 @@
+KERN_ERR,VAR_0
+LOG_SLI,VAR_1
+__lpfc_sli4_process_cq,FUNC_0
+lpfc_printf_log,FUNC_1
+lpfc_sli4_fp_handle_cqe,VAR_2
+lpfc_worker_wake_up,FUNC_2
+queue_delayed_work_on,FUNC_3
+__lpfc_sli4_hba_process_cq,FUNC_4
+cq,VAR_3
+phba,VAR_4
+delay,VAR_5
+workposted,VAR_6

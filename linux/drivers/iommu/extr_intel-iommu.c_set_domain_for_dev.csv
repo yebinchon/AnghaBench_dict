@@ -1,0 +1,17 @@
+PCI_BUS_NUM,FUNC_0
+dev_is_pci,FUNC_1
+device_to_iommu,FUNC_2
+dmar_insert_one_dev_info,FUNC_3
+get_last_alias,VAR_0
+pci_for_each_dma_alias,FUNC_4
+to_pci_dev,FUNC_5
+set_domain_for_dev,FUNC_6
+dev,VAR_1
+domain,VAR_2
+iommu,VAR_3
+tmp,VAR_4
+req_id,VAR_5
+dma_alias,VAR_6
+bus,VAR_7
+devfn,VAR_8
+pdev,VAR_9

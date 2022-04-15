@@ -1,0 +1,17 @@
+LUN_ADDR_LEN,VAR_0
+SNIC_REQ_ITMF,VAR_1
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+memcpy,FUNC_3
+snic_io_hdr_enc,FUNC_4
+snic_itmf_init,FUNC_5
+req,VAR_2
+cmnd_id,VAR_3
+host_id,VAR_4
+ctx,VAR_5
+flags,VAR_6
+req_id,VAR_7
+tgt_id,VAR_8
+lun,VAR_9
+tm_type,VAR_10

@@ -1,0 +1,11 @@
+assert_has_reflog,FUNC_0
+cl_git_pass,FUNC_1
+current_master_tip,VAR_0
+g_repo,VAR_1
+git_oid_fromstr,FUNC_2
+git_reference_create,FUNC_3
+git_reference_ensure_log,FUNC_4
+git_reference_free,FUNC_5
+test_refs_reflog_reflog__write_when_explicitly_active,FUNC_6
+ref,VAR_2
+id,VAR_3

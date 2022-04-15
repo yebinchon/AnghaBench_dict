@@ -1,0 +1,12 @@
+ZFCP_MAX_ERPS,VAR_0
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_1
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+dev_err,FUNC_3
+zfcp_erp_adapter_block,FUNC_4
+zfcp_erp_adapter_unblock,FUNC_5
+zfcp_erp_set_adapter_status,FUNC_6
+zfcp_erp_strategy_check_adapter,FUNC_7
+adapter,VAR_2
+result,VAR_3

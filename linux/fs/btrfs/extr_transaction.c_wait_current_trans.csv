@@ -1,0 +1,10 @@
+TRANS_STATE_UNBLOCKED,VAR_0
+btrfs_put_transaction,FUNC_0
+is_transaction_blocked,FUNC_1
+refcount_inc,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wait_event,FUNC_5
+wait_current_trans,FUNC_6
+fs_info,VAR_1
+cur_trans,VAR_2

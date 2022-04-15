@@ -1,0 +1,13 @@
+BIO_new_file,FUNC_0
+ERR,FUNC_1
+X509_NAME_oneline,FUNC_2
+X509_get_subject_name,FUNC_3
+cert_dst,VAR_0
+fprintf,FUNC_4
+i2d_X509_bio,FUNC_5
+kbuild_verbose,VAR_1
+stderr,VAR_2
+wb,VAR_3
+write_cert,FUNC_6
+x509,VAR_4
+buf,VAR_5

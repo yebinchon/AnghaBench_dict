@@ -1,0 +1,16 @@
+HCLGE_OPC_RSS_INDIR_TABLE,VAR_0
+HCLGE_RSS_CFG_TBL_NUM,VAR_1
+HCLGE_RSS_CFG_TBL_SIZE,VAR_2
+HCLGE_RSS_SET_BITMAP_MSK,VAR_3
+cpu_to_le16,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hclge_set_rss_indir_table,FUNC_4
+hdev,VAR_4
+indir,VAR_5
+req,VAR_6
+desc,VAR_7
+i,VAR_8
+j,VAR_9
+ret,VAR_10

@@ -1,0 +1,17 @@
+AC_BUS_RESET,VAR_0
+ATA_ACTIVE,VAR_1
+ATA_IDLE,VAR_2
+ATA_RESET,FUNC_0
+ERESTART,VAR_3
+TRUE,VAR_4
+ata_cam_end_transaction,FUNC_1
+callout_stop,FUNC_2
+device_get_softc,FUNC_3
+stub1,FUNC_4
+xpt_async,FUNC_5
+xpt_freeze_simq,FUNC_6
+xpt_release_simq,FUNC_7
+ata_reinit,FUNC_8
+dev,VAR_5
+ch,VAR_6
+request,VAR_7

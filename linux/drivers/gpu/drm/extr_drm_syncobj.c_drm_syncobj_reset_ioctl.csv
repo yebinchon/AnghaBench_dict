@@ -1,0 +1,16 @@
+DRIVER_SYNCOBJ,VAR_0
+EINVAL,VAR_1
+EOPNOTSUPP,VAR_2
+drm_core_check_feature,FUNC_0
+drm_syncobj_array_find,FUNC_1
+drm_syncobj_array_free,FUNC_2
+drm_syncobj_replace_fence,FUNC_3
+u64_to_user_ptr,FUNC_4
+drm_syncobj_reset_ioctl,FUNC_5
+dev,VAR_3
+data,VAR_4
+file_private,VAR_5
+args,VAR_6
+syncobjs,VAR_7
+i,VAR_8
+ret,VAR_9

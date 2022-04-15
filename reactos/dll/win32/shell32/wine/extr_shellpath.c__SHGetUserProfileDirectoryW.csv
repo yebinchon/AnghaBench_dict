@@ -1,0 +1,12 @@
+CloseHandle,FUNC_0
+GetCurrentProcess,FUNC_1
+GetDefaultUserProfileDirectoryW,FUNC_2
+GetUserProfileDirectoryW,FUNC_3
+OpenProcessToken,FUNC_4
+TOKEN_QUERY,VAR_0
+TRACE,FUNC_5
+_SHGetUserProfileDirectoryW,FUNC_6
+hToken,VAR_1
+szPath,VAR_2
+lpcchPath,VAR_3
+result,VAR_4

@@ -1,0 +1,8 @@
+BC_ENABLE,VAR_0
+L3_M_BC_CR,VAR_1
+to_l3cache_pmu,FUNC_0
+wmb,FUNC_1
+writel_relaxed,FUNC_2
+qcom_l3_cache__pmu_enable,FUNC_3
+pmu,VAR_2
+l3pmu,VAR_3

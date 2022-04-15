@@ -1,0 +1,17 @@
+GROUPCHAT_STATUS_CONNECTED,VAR_0
+MAX_GROUP_MESSAGE_DATA_LEN,VAR_1
+get_group_c,FUNC_0
+htonl,FUNC_1
+htons,FUNC_2
+memcpy,FUNC_3
+send_message_all_close,FUNC_4
+send_message_group,FUNC_5
+g_c,VAR_2
+groupnumber,VAR_3
+message_id,VAR_4
+data,VAR_5
+len,VAR_6
+g,VAR_7
+packet,VAR_8
+peer_num,VAR_9
+message_num,VAR_10

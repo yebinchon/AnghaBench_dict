@@ -1,0 +1,13 @@
+MSR_AMD64_BU_CFG2,VAR_0
+MSR_AMD64_MCx_MASK,FUNC_0
+X86_BUG_AMD_TLB_MMATCH,VAR_1
+amd_erratum_383,VAR_2
+boot_cpu_data,VAR_3
+check_enable_amd_mmconf_dmi,FUNC_1
+cpu_has_amd_erratum,FUNC_2
+fam10h_check_enable_mmcfg,FUNC_3
+msr_clear_bit,FUNC_4
+msr_set_bit,FUNC_5
+set_cpu_bug,FUNC_6
+init_amd_gh,FUNC_7
+c,VAR_4

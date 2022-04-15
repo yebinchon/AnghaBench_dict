@@ -1,0 +1,15 @@
+ALWAYS,FUNC_0
+DBFLAG_SchemaChange,VAR_0
+assert,FUNC_1
+sqlite3DeleteTrigger,FUNC_2
+sqlite3HashInsert,FUNC_3
+sqlite3SchemaMutexHeld,FUNC_4
+tableOfTrigger,FUNC_5
+sqlite3UnlinkAndDeleteTrigger,FUNC_6
+db,VAR_1
+iDb,VAR_2
+zName,VAR_3
+pTrigger,VAR_4
+pHash,VAR_5
+pTab,VAR_6
+pp,VAR_7

@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+PCI1760_CMD_TIMEOUT,VAR_1
+PCI1760_IMB_REG,FUNC_0
+PCI1760_OMB_REG,FUNC_1
+cpu_relax,FUNC_2
+inb,FUNC_3
+jiffies,VAR_2
+outb,FUNC_4
+time_before,FUNC_5
+usecs_to_jiffies,FUNC_6
+pci1760_send_cmd,FUNC_7
+dev,VAR_3
+cmd,VAR_4
+val,VAR_5
+timeout,VAR_6

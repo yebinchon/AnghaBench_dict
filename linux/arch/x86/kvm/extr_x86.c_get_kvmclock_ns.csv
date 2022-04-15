@@ -1,0 +1,16 @@
+NSEC_PER_SEC,VAR_0
+__pvclock_read_cycles,FUNC_0
+__this_cpu_read,FUNC_1
+cpu_tsc_khz,VAR_1
+get_cpu,FUNC_2
+ktime_get_boottime_ns,FUNC_3
+kvm_get_time_scale,FUNC_4
+put_cpu,FUNC_5
+rdtsc,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+get_kvmclock_ns,FUNC_9
+kvm,VAR_2
+ka,VAR_3
+hv_clock,VAR_4
+ret,VAR_5

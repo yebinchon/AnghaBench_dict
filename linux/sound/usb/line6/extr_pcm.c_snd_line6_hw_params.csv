@@ -1,0 +1,16 @@
+LINE6_STREAM_PCM,VAR_0
+get_stream,FUNC_0
+line6_buffer_acquire,FUNC_1
+line6_buffer_release,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+params_buffer_bytes,FUNC_5
+params_period_bytes,FUNC_6
+snd_pcm_lib_malloc_pages,FUNC_7
+snd_pcm_substream_chip,FUNC_8
+snd_line6_hw_params,FUNC_9
+substream,VAR_1
+hw_params,VAR_2
+ret,VAR_3
+line6pcm,VAR_4
+pstr,VAR_5

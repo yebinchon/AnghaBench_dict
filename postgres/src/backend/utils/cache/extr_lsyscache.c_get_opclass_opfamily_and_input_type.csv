@@ -1,0 +1,12 @@
+CLAOID,VAR_0
+GETSTRUCT,FUNC_0
+HeapTupleIsValid,FUNC_1
+ObjectIdGetDatum,FUNC_2
+ReleaseSysCache,FUNC_3
+SearchSysCache1,FUNC_4
+get_opclass_opfamily_and_input_type,FUNC_5
+opclass,VAR_1
+opfamily,VAR_2
+opcintype,VAR_3
+tp,VAR_4
+cla_tup,VAR_5

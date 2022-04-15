@@ -1,0 +1,13 @@
+FLASH_SECTOR_SIZE,VAR_0
+SPIEraseSector,FUNC_0
+SPIRead,FUNC_1
+SPIWrite,FUNC_2
+copy_raw,FUNC_3
+src_addr,VAR_1
+dst_addr,VAR_2
+size,VAR_3
+buffer_size,VAR_4
+buffer,VAR_5
+left,VAR_6
+saddr,VAR_7
+daddr,VAR_8

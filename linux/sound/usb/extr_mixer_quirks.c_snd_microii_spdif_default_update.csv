@@ -1,0 +1,15 @@
+IEC958_AES0_NONAUDIO,VAR_0
+UAC_SET_CUR,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_OTHER,VAR_3
+USB_TYPE_VENDOR,VAR_4
+snd_usb_ctl_msg,FUNC_0
+snd_usb_lock_shutdown,FUNC_1
+snd_usb_unlock_shutdown,FUNC_2
+usb_sndctrlpipe,FUNC_3
+snd_microii_spdif_default_update,FUNC_4
+list,VAR_5
+chip,VAR_6
+pval,VAR_7
+reg,VAR_8
+err,VAR_9

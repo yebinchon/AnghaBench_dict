@@ -1,0 +1,10 @@
+GDROM_COM_EXECDIAG,VAR_0
+GDROM_ERROR_REG,VAR_1
+GDROM_STATUSCOMMAND_REG,VAR_2
+ctrl_inb,FUNC_0
+ctrl_outb,FUNC_1
+gd,VAR_3
+gdrom_hardreset,FUNC_2
+gdrom_wait_busy_sleeps,FUNC_3
+gdrom_wait_clrbusy,FUNC_4
+gdrom_execute_diagnostic,FUNC_5

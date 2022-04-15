@@ -1,0 +1,6 @@
+L2_QOS_CDP_ENABLE,VAR_0
+MSR_IA32_L2_QOS_CFG,VAR_1
+wrmsrl,FUNC_0
+l2_qos_cfg_update,FUNC_1
+arg,VAR_2
+enable,VAR_3

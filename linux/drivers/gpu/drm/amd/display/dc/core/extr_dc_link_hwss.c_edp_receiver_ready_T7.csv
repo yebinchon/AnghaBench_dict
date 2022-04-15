@@ -1,0 +1,12 @@
+DC_OK,VAR_0
+DP_EDP_12,VAR_1
+DP_EDP_DPCD_REV,VAR_2
+DP_SINK_STATUS,VAR_3
+core_link_read_dpcd,FUNC_0
+udelay,FUNC_1
+edp_receiver_ready_T7,FUNC_2
+link,VAR_4
+tries,VAR_5
+sinkstatus,VAR_6
+edpRev,VAR_7
+result,VAR_8

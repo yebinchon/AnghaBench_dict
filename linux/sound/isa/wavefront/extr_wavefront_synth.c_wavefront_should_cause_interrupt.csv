@@ -1,0 +1,16 @@
+add_wait_queue,FUNC_0
+barrier,FUNC_1
+current,VAR_0
+init_waitqueue_entry,FUNC_2
+jiffies,VAR_1
+outb,FUNC_3
+schedule_timeout_uninterruptible,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+time_before,FUNC_7
+wavefront_should_cause_interrupt,FUNC_8
+dev,VAR_2
+val,VAR_3
+port,VAR_4
+timeout,VAR_5
+wait,VAR_6

@@ -1,0 +1,17 @@
+AF_INET6,VAR_0
+IPPROTO_TCP,VAR_1
+SOCK_STREAM,VAR_2
+TCP_MAX_BACKLOG,VAR_3
+bind_to_port,FUNC_0
+kill_sock,FUNC_1
+listen,FUNC_2
+set_socket_dualstack,FUNC_3
+set_socket_nonblock,FUNC_4
+set_socket_reuseaddr,FUNC_5
+sock_valid,FUNC_6
+socket,FUNC_7
+new_listening_TCP_socket,FUNC_8
+family,VAR_4
+port,VAR_5
+sock,VAR_6
+ok,VAR_7

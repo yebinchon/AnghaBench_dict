@@ -1,0 +1,14 @@
+EP_FromJoin,VAR_0
+ExprHasProperty,FUNC_0
+IsVirtual,FUNC_1
+TK_AGG_COLUMN,VAR_1
+TK_AGG_FUNCTION,VAR_2
+WRC_Abort,VAR_3
+WRC_Continue,VAR_4
+WRC_Prune,VAR_5
+sqlite3ExprImpliesNonNullRow,FUNC_2
+sqlite3WalkExpr,FUNC_3
+testcase,FUNC_4
+impliesNotNullRow,FUNC_5
+pWalker,VAR_6
+pExpr,VAR_7

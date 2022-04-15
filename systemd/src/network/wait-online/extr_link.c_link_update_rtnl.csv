@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+IFLA_IFNAME,VAR_1
+assert,FUNC_0
+assert_se,FUNC_1
+free_and_replace,FUNC_2
+hashmap_put,FUNC_3
+hashmap_remove,FUNC_4
+sd_netlink_message_read_string,FUNC_5
+sd_rtnl_message_link_get_flags,FUNC_6
+strdup,FUNC_7
+streq,FUNC_8
+link_update_rtnl,FUNC_9
+l,VAR_2
+m,VAR_3
+ifname,VAR_4
+r,VAR_5
+new_ifname,VAR_6

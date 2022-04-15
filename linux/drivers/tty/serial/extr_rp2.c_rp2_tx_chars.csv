@@ -1,0 +1,16 @@
+FIFO_SIZE,VAR_0
+RP2_DATA_BYTE,VAR_1
+RP2_TX_FIFO_COUNT,VAR_2
+UART_XMIT_SIZE,VAR_3
+WAKEUP_CHARS,VAR_4
+readw,FUNC_0
+rp2_uart_stop_tx,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_tx_stopped,FUNC_4
+uart_write_wakeup,FUNC_5
+writeb,FUNC_6
+rp2_tx_chars,FUNC_7
+up,VAR_5
+max_tx,VAR_6
+xmit,VAR_7

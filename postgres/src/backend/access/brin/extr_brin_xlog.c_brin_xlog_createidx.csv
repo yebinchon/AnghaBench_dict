@@ -1,0 +1,15 @@
+Assert,FUNC_0
+BufferGetPage,FUNC_1
+BufferIsValid,FUNC_2
+MarkBufferDirty,FUNC_3
+PageSetLSN,FUNC_4
+UnlockReleaseBuffer,FUNC_5
+XLogInitBufferForRedo,FUNC_6
+XLogRecGetData,FUNC_7
+brin_metapage_init,FUNC_8
+brin_xlog_createidx,FUNC_9
+record,VAR_0
+lsn,VAR_1
+xlrec,VAR_2
+buf,VAR_3
+page,VAR_4

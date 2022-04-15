@@ -1,0 +1,16 @@
+CHV_PADCTRL0,VAR_0
+CHV_PADCTRL0_INTSEL_MASK,VAR_1
+CHV_PADCTRL0_INTSEL_SHIFT,VAR_2
+chv_padreg,FUNC_0
+clear_bit,FUNC_1
+gpiochip_get_data,FUNC_2
+readl,FUNC_3
+chv_init_irq_valid_mask,FUNC_4
+chip,VAR_3
+valid_mask,VAR_4
+ngpios,VAR_5
+pctrl,VAR_6
+community,VAR_7
+i,VAR_8
+desc,VAR_9
+intsel,VAR_10

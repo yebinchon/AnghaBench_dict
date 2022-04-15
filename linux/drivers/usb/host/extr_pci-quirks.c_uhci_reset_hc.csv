@@ -1,0 +1,14 @@
+UHCI_USBCMD,VAR_0
+UHCI_USBCMD_HCRESET,VAR_1
+UHCI_USBINTR,VAR_2
+UHCI_USBLEGSUP,VAR_3
+UHCI_USBLEGSUP_RWC,VAR_4
+dev_warn,FUNC_0
+inw,FUNC_1
+mb,FUNC_2
+outw,FUNC_3
+pci_write_config_word,FUNC_4
+udelay,FUNC_5
+uhci_reset_hc,FUNC_6
+pdev,VAR_5
+base,VAR_6

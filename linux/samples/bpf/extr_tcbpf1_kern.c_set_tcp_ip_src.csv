@@ -1,0 +1,13 @@
+IP_CSUM_OFF,VAR_0
+IP_SRC_OFF,VAR_1
+IS_PSEUDO,VAR_2
+TCP_CSUM_OFF,VAR_3
+_htonl,FUNC_0
+bpf_l3_csum_replace,FUNC_1
+bpf_l4_csum_replace,FUNC_2
+bpf_skb_store_bytes,FUNC_3
+load_word,FUNC_4
+set_tcp_ip_src,FUNC_5
+skb,VAR_4
+new_ip,VAR_5
+old_ip,VAR_6

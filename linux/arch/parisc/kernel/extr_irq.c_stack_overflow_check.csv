@@ -1,0 +1,16 @@
+IRQ_STACK_SIZE,VAR_0
+STACK_MARGIN,VAR_1
+THREAD_SIZE,VAR_2
+current,VAR_3
+current_thread_info,FUNC_0
+irq_stack_union,VAR_4
+irq_stat,VAR_5
+likely,FUNC_1
+panic,FUNC_2
+per_cpu,FUNC_3
+pr_emerg,FUNC_4
+smp_processor_id,FUNC_5
+sysctl_panic_on_stackoverflow,VAR_6
+unlikely,FUNC_6
+stack_overflow_check,FUNC_7
+regs,VAR_7

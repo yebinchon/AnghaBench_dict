@@ -1,0 +1,13 @@
+DVLAN_CLEAN_BR,VAR_0
+br_delbr,FUNC_0
+br_getnumports,FUNC_1
+dyn_iface_put,FUNC_2
+ifconfig_down,FUNC_3
+vlan_dellink_tagged,FUNC_4
+vlan_put_bridge,FUNC_5
+br_name,VAR_1
+hapd,VAR_2
+vid,VAR_3
+clean,VAR_4
+tagged_interface,VAR_5
+vlan_naming,VAR_6

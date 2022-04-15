@@ -1,0 +1,13 @@
+GL520_REG_BEEP_MASK,VAR_0
+GL520_REG_CONF,VAR_1
+extra_sensor_type,VAR_2
+gl520_read_value,FUNC_0
+gl520_update_device,FUNC_1
+gl520_write_value,FUNC_2
+i2c_get_clientdata,FUNC_3
+vid_which_vrm,FUNC_4
+gl520_init_client,FUNC_5
+client,VAR_3
+data,VAR_4
+oldconf,VAR_5
+conf,VAR_6

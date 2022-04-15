@@ -1,0 +1,14 @@
+CTA_SYNPROXY,VAR_0
+CTA_SYNPROXY_ISN,VAR_1
+CTA_SYNPROXY_ITS,VAR_2
+CTA_SYNPROXY_TSOFF,VAR_3
+htonl,FUNC_0
+nfct_synproxy,FUNC_1
+nla_nest_end,FUNC_2
+nla_nest_start,FUNC_3
+nla_put_be32,FUNC_4
+ctnetlink_dump_ct_synproxy,FUNC_5
+skb,VAR_4
+ct,VAR_5
+synproxy,VAR_6
+nest_parms,VAR_7

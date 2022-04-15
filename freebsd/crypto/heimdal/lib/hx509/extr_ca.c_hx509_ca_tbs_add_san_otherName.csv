@@ -1,0 +1,9 @@
+add_GeneralNames,FUNC_0
+choice_GeneralName_otherName,VAR_0
+memset,FUNC_1
+hx509_ca_tbs_add_san_otherName,FUNC_2
+context,VAR_1
+tbs,VAR_2
+oid,VAR_3
+os,VAR_4
+gn,VAR_5

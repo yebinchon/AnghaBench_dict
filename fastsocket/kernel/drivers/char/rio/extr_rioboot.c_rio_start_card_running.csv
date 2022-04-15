@@ -1,0 +1,10 @@
+BOOT_FROM_RAM,VAR_0
+EXTERNAL_BUS_ON,VAR_1
+PCITpBootFromRam,VAR_2
+PCITpBusEnable,VAR_3
+RIOAtVec2Ctrl,VAR_4
+RIO_DEBUG_BOOT,VAR_5
+rio_dprintk,FUNC_0
+writeb,FUNC_1
+rio_start_card_running,FUNC_2
+HostP,VAR_6

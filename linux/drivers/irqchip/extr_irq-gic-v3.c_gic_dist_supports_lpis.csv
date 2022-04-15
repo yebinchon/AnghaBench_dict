@@ -1,0 +1,8 @@
+CONFIG_ARM_GIC_V3_ITS,VAR_0
+GICD_TYPER,VAR_1
+GICD_TYPER_LPIS,VAR_2
+IS_ENABLED,FUNC_0
+gic_data,VAR_3
+gicv3_nolpi,VAR_4
+readl_relaxed,FUNC_1
+gic_dist_supports_lpis,FUNC_2

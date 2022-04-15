@@ -1,0 +1,10 @@
+FDB_SLOW_PATH_CHAIN,VAR_0
+MLX5_FLOW_CONTEXT_ACTION_FWD_DEST,VAR_1
+SLOW,VAR_2
+flow_flag_clear,FUNC_0
+memcpy,FUNC_1
+mlx5e_tc_unoffload_fdb_rules,FUNC_2
+mlx5e_tc_unoffload_from_slow_path,FUNC_3
+esw,VAR_3
+flow,VAR_4
+slow_attr,VAR_5

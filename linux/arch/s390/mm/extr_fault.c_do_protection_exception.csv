@@ -1,0 +1,15 @@
+MACHINE_HAS_NX,VAR_0
+PAGE_MASK,VAR_1
+VM_EXEC,VAR_2
+VM_FAULT_BADACCESS,VAR_3
+VM_WRITE,VAR_4
+__rewind_psw,FUNC_0
+do_exception,FUNC_1
+do_fault_error,FUNC_2
+do_low_address,FUNC_3
+unlikely,FUNC_4
+do_protection_exception,FUNC_5
+regs,VAR_5
+trans_exc_code,VAR_6
+access,VAR_7
+fault,VAR_8

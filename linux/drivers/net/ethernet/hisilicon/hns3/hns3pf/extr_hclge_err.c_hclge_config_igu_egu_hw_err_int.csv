@@ -1,0 +1,17 @@
+HCLGE_IGU_COMMON_INT_EN,VAR_0
+HCLGE_IGU_EGU_TNL_INT_EN,VAR_1
+HCLGE_IGU_ERR_INT_EN,VAR_2
+HCLGE_IGU_ERR_INT_EN_MASK,VAR_3
+HCLGE_IGU_TNL_ERR_INT_EN,VAR_4
+HCLGE_IGU_TNL_ERR_INT_EN_MASK,VAR_5
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hclge_config_ncsi_hw_err_int,FUNC_4
+hclge_config_igu_egu_hw_err_int,FUNC_5
+hdev,VAR_6
+en,VAR_7
+dev,VAR_8
+desc,VAR_9
+ret,VAR_10

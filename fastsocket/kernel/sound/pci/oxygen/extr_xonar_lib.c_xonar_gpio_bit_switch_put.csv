@@ -1,0 +1,15 @@
+OXYGEN_GPIO_DATA,VAR_0
+XONAR_GPIO_BIT_INVERT,VAR_1
+oxygen_read16,FUNC_0
+oxygen_write16,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+xonar_gpio_bit_switch_put,FUNC_4
+ctl,VAR_2
+value,VAR_3
+chip,VAR_4
+bit,VAR_5
+invert,VAR_6
+old_bits,VAR_7
+new_bits,VAR_8
+changed,VAR_9

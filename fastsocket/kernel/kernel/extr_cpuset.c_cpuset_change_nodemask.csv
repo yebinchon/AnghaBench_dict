@@ -1,0 +1,16 @@
+cgroup_cs,FUNC_0
+cpuset_change_task_nodemask,FUNC_1
+cpuset_migrate_mm,FUNC_2
+get_task_mm,FUNC_3
+guarantee_online_mems,FUNC_4
+is_memory_migrate,FUNC_5
+mmput,FUNC_6
+mpol_rebind_mm,FUNC_7
+cpuset_change_nodemask,FUNC_8
+p,VAR_0
+scan,VAR_1
+mm,VAR_2
+cs,VAR_3
+migrate,VAR_4
+oldmem,VAR_5
+newmems,VAR_6

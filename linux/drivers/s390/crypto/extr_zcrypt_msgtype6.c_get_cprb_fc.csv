@@ -1,0 +1,17 @@
+CEXXC_RESPONSE_TYPE_XCRB,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+MSGTYPE06_MAX_MSG_SIZE,VAR_3
+XCRB_msg_to_type6CPRB_msgX,FUNC_0
+atomic_inc_return,FUNC_1
+current,VAR_4
+kmalloc,FUNC_2
+kmemdup,FUNC_3
+zcrypt_msgtype6_receive,VAR_5
+zcrypt_step,VAR_6
+get_cprb_fc,FUNC_4
+xcRB,VAR_7
+ap_msg,VAR_8
+func_code,VAR_9
+dom,VAR_10
+resp_type,VAR_11

@@ -1,0 +1,15 @@
+QEDI_ERR,FUNC_0
+qedi_process_login_resp,FUNC_1
+qedi_process_logout_resp,FUNC_2
+qedi_process_nopin_mesg,FUNC_3
+qedi_process_text_resp,FUNC_4
+qedi_process_tmf_resp,FUNC_5
+qedi_scsi_completion,FUNC_6
+qedi_mtask_completion,FUNC_7
+qedi,VAR_0
+cqe,VAR_1
+task,VAR_2
+conn,VAR_3
+que_idx,VAR_4
+iscsi_conn,VAR_5
+hdr_opcode,VAR_6

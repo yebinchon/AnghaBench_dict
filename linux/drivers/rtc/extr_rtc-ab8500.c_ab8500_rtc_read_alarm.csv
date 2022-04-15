@@ -1,0 +1,17 @@
+AB8500_RTC,VAR_0
+AB8500_RTC_STAT_REG,VAR_1
+ARRAY_SIZE,FUNC_0
+RTC_ALARM_ENA,VAR_2
+ab8500_rtc_alarm_regs,VAR_3
+abx500_get_register_interruptible,FUNC_1
+rtc_time_to_tm,FUNC_2
+ab8500_rtc_read_alarm,FUNC_3
+dev,VAR_4
+alarm,VAR_5
+retval,VAR_6
+i,VAR_7
+rtc_ctrl,VAR_8
+value,VAR_9
+buf,VAR_10
+secs,VAR_11
+mins,VAR_12

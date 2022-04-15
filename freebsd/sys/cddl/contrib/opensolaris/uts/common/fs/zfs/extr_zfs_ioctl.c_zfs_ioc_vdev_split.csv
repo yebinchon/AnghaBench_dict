@@ -1,0 +1,14 @@
+FTAG,VAR_0
+ZPOOL_EXPORT_AFTER_SPLIT,VAR_1
+get_nvlist,FUNC_0
+nvlist_free,FUNC_1
+spa_close,FUNC_2
+spa_open,FUNC_3
+spa_vdev_split_mirror,FUNC_4
+zfs_ioc_vdev_split,FUNC_5
+zc,VAR_2
+spa,VAR_3
+config,VAR_4
+props,VAR_5
+error,VAR_6
+exp,VAR_7

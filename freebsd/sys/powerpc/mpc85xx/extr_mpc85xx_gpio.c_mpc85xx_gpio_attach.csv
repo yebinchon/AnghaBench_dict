@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+GPIO_LOCK_INIT,FUNC_0
+OF_device_register_xref,FUNC_1
+OF_xref_from_node,FUNC_2
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+gpiobus_attach_bus,FUNC_6
+mpc85xx_gpio_detach,FUNC_7
+ofw_bus_get_node,FUNC_8
+mpc85xx_gpio_attach,FUNC_9
+dev,VAR_3
+sc,VAR_4
+rid,VAR_5

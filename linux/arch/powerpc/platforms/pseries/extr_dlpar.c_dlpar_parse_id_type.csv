@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+PSERIES_HP_ELOG_ID_DRC_COUNT,VAR_1
+PSERIES_HP_ELOG_ID_DRC_IC,VAR_2
+PSERIES_HP_ELOG_ID_DRC_INDEX,VAR_3
+cpu_to_be32,FUNC_0
+kstrtou32,FUNC_1
+pr_err,FUNC_2
+strsep,FUNC_3
+sysfs_streq,FUNC_4
+dlpar_parse_id_type,FUNC_5
+cmd,VAR_4
+hp_elog,VAR_5
+arg,VAR_6
+count,VAR_7
+index,VAR_8

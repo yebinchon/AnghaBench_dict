@@ -1,0 +1,8 @@
+FMC2_CSQIER,VAR_0
+FMC2_CSQIER_TCIE,VAR_1
+FMC2_IRQ_UNKNOWN,VAR_2
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+stm32_fmc2_disable_seq_irq,FUNC_2
+fmc2,VAR_3
+csqier,VAR_4

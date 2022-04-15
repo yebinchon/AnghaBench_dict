@@ -1,0 +1,14 @@
+BLOCKED_NONE,VAR_0
+CLIENT_ID_AOF,VAR_1
+SLAVE_STATE_WAIT_BGSAVE_START,VAR_2
+dupClientReplyValue,VAR_3
+freeClientReplyValue,VAR_4
+initClientMultiState,FUNC_0
+listCreate,FUNC_1
+listSetDupMethod,FUNC_2
+listSetFreeMethod,FUNC_3
+sdsempty,FUNC_4
+selectDb,FUNC_5
+zmalloc,FUNC_6
+createAOFClient,FUNC_7
+c,VAR_5

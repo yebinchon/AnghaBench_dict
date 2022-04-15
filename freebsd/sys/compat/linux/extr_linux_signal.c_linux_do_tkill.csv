@@ -1,0 +1,12 @@
+AUDIT_ARG_PID,FUNC_0
+AUDIT_ARG_PROCESS,FUNC_1
+AUDIT_ARG_SIGNUM,FUNC_2
+PROC_UNLOCK,FUNC_3
+p_cansignal,FUNC_4
+tdksignal,FUNC_5
+linux_do_tkill,FUNC_6
+td,VAR_0
+tdt,VAR_1
+ksi,VAR_2
+p,VAR_3
+error,VAR_4

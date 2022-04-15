@@ -1,0 +1,13 @@
+AC_VERB_SET_CONFIG_DEFAULT_BYTES_3,VAR_0
+HDA_FIXUP_ACT_INIT,VAR_1
+HDA_FIXUP_ACT_PRE_PROBE,VAR_2
+HDA_PINCFG_NO_HP_FIXUP,VAR_3
+snd_hda_apply_pincfgs,FUNC_0
+snd_hda_codec_write,FUNC_1
+alc_fixup_tpt470_dock,FUNC_2
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+pincfgs,VAR_7
+preferred_pairs,VAR_8
+spec,VAR_9

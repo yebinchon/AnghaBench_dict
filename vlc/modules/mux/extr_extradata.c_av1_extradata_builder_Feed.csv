@@ -1,0 +1,16 @@
+AV1_OBUGetType,FUNC_0
+AV1_OBU_SEQUENCE_HEADER,VAR_0
+AV1_OBU_iterate_next,FUNC_1
+AV1_OBU_iterator_init,FUNC_2
+AV1_OBU_parse_sequence_header,FUNC_3
+AV1_create_DecoderConfigurationRecord,FUNC_4
+AV1_release_sequence_header,FUNC_5
+av1_extradata_builder_Feed,FUNC_6
+m,VAR_1
+p_data,VAR_2
+i_data,VAR_3
+ctx,VAR_4
+p_obu,VAR_5
+i_obu,VAR_6
+OBUtype,VAR_7
+p_sh,VAR_8

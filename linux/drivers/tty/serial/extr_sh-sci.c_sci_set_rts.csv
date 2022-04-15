@@ -1,0 +1,16 @@
+PORT_SCIFA,VAR_0
+PORT_SCIFB,VAR_1
+SCPCR,VAR_2
+SCPCR_RTSC,VAR_3
+SCPDR,VAR_4
+SCPDR_RTSD,VAR_5
+SCSPTR,VAR_6
+SCSPTR_RTSDT,VAR_7
+sci_getreg,FUNC_0
+serial_port_in,FUNC_1
+serial_port_out,FUNC_2
+sci_set_rts,FUNC_3
+port,VAR_8
+state,VAR_9
+data,VAR_10
+ctrl,VAR_11

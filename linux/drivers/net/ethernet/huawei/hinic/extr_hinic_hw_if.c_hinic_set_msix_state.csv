@@ -1,0 +1,11 @@
+HINIC_PCI_MSIX_ENTRY_CTRL_MASKBIT,VAR_0
+HINIC_PCI_MSIX_ENTRY_SIZE,VAR_1
+HINIC_PCI_MSIX_ENTRY_VECTOR_CTRL,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+hinic_set_msix_state,FUNC_2
+hwif,VAR_3
+msix_idx,VAR_4
+flag,VAR_5
+offset,VAR_6
+mask_bits,VAR_7

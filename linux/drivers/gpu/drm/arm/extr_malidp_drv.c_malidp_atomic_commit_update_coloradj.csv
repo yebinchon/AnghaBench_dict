@@ -1,0 +1,16 @@
+MALIDP_COLORADJ_NUM_COEFFS,VAR_0
+MALIDP_COLOR_ADJ_COEF,VAR_1
+MALIDP_DE_DISPLAY_FUNC,VAR_2
+MALIDP_DISP_FUNC_CADJ,VAR_3
+crtc_to_malidp_device,FUNC_0
+malidp_hw_clearbits,FUNC_1
+malidp_hw_setbits,FUNC_2
+malidp_hw_write,FUNC_3
+to_malidp_crtc_state,FUNC_4
+malidp_atomic_commit_update_coloradj,FUNC_5
+crtc,VAR_4
+old_state,VAR_5
+malidp,VAR_6
+hwdev,VAR_7
+i,VAR_8
+mc,VAR_9

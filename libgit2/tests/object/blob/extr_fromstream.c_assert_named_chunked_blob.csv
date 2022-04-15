@@ -1,0 +1,17 @@
+cl_assert_equal_oid,FUNC_0
+cl_git_pass,FUNC_1
+git_blob_create_from_stream,FUNC_2
+git_blob_create_from_stream_commit,FUNC_3
+git_oid_fromstr,FUNC_4
+repo,VAR_0
+strlen,FUNC_5
+stub1,FUNC_6
+textual_content,VAR_1
+assert_named_chunked_blob,FUNC_7
+expected_sha,VAR_2
+fake_name,VAR_3
+expected_id,VAR_4
+id,VAR_5
+stream,VAR_6
+i,VAR_7
+howmany,VAR_8

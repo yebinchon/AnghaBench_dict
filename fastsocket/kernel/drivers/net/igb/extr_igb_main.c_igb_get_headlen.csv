@@ -1,0 +1,17 @@
+ETH_HLEN,VAR_0
+ETH_P_8021Q,VAR_1
+ETH_P_IP,VAR_2
+ETH_P_IPV6,VAR_3
+IPPROTO_TCP,VAR_4
+IPPROTO_UDP,VAR_5
+IP_OFFSET,VAR_6
+VLAN_HLEN,VAR_7
+__constant_htons,FUNC_0
+htons,FUNC_1
+igb_get_headlen,FUNC_2
+data,VAR_8
+max_len,VAR_9
+hdr,VAR_10
+protocol,VAR_11
+nexthdr,VAR_12
+hlen,VAR_13

@@ -1,0 +1,13 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+EJUSTRETURN,VAR_1
+ET_LOCK_ASSERT,FUNC_0
+IFCOUNTER_OERRORS,VAR_2
+IFF_DRV_RUNNING,VAR_3
+bus_dmamap_sync,FUNC_1
+et_init_locked,FUNC_2
+if_inc_counter,FUNC_3
+if_printf,FUNC_4
+le32toh,FUNC_5
+et_watchdog,FUNC_6
+sc,VAR_4
+status,VAR_5

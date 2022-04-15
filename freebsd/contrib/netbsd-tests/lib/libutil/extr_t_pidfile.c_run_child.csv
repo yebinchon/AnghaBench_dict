@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+EXIT_SUCCESS,VAR_0
+WEXITSTATUS,FUNC_1
+WIFEXITED,FUNC_2
+assert,FUNC_3
+atf_tc_fail,FUNC_4
+fork,FUNC_5
+in_child,VAR_1
+waitpid,FUNC_6
+run_child,FUNC_7
+child,VAR_2
+cookie,VAR_3
+pid,VAR_4
+status,VAR_5

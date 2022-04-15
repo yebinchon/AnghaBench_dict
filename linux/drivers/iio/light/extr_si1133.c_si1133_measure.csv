@@ -1,0 +1,12 @@
+BIT,FUNC_0
+SI1133_REG_HOSTOUT,FUNC_1
+be16_to_cpu,FUNC_2
+si1133_bulk_read,FUNC_3
+si1133_set_adcmux,FUNC_4
+si1133_set_chlist,FUNC_5
+si1133_measure,FUNC_6
+data,VAR_0
+chan,VAR_1
+val,VAR_2
+err,VAR_3
+resp,VAR_4

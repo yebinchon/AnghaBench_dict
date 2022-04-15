@@ -1,0 +1,14 @@
+CMX_LOCK,FUNC_0
+CMX_UNLOCK,FUNC_1
+DEBUG_printf,FUNC_2
+PZERO,VAR_0
+callout_drain,FUNC_3
+callout_stop,FUNC_4
+cmx_release_resources,FUNC_5
+destroy_dev,FUNC_6
+device_get_softc,FUNC_7
+selwakeuppri,FUNC_8
+wakeup,FUNC_9
+cmx_detach,FUNC_10
+dev,VAR_1
+sc,VAR_2

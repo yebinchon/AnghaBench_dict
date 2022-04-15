@@ -1,0 +1,12 @@
+AFS_VNODE_CB_PROMISED,VAR_0
+AFS_VNODE_LOCK_WAITING_FOR_CB,VAR_1
+AFS_VNODE_NEW_CONTENT,VAR_2
+_enter,FUNC_0
+afs_clear_permits,FUNC_1
+afs_lock_may_be_available,FUNC_2
+clear_bit,FUNC_3
+test_and_clear_bit,FUNC_4
+trace_afs_cb_break,FUNC_5
+__afs_break_callback,FUNC_6
+vnode,VAR_3
+reason,VAR_4

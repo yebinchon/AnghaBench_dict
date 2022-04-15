@@ -1,0 +1,9 @@
+SMMU_TLB_FLUSH,VAR_0
+SMMU_TLB_FLUSH_ASID_MATCH,VAR_1
+SMMU_TLB_FLUSH_VA_SECTION,FUNC_0
+smmu_writel,FUNC_1
+smmu_flush_tlb_section,FUNC_2
+smmu,VAR_2
+asid,VAR_3
+iova,VAR_4
+value,VAR_5

@@ -1,0 +1,16 @@
+BONDING_SLAVE_STATE_INACTIVE,VAR_0
+IB_CACHE_GID_DEFAULT_MODE_DELETE,VAR_1
+ib_cache_gid_set_default_gid,FUNC_0
+is_eth_active_slave_of_bonding_rcu,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+rdma_is_upper_dev_rcu,FUNC_4
+rdma_vlan_dev_real_dev,FUNC_5
+roce_gid_type_mask_support,FUNC_6
+bond_delete_netdev_default_gids,FUNC_7
+ib_dev,VAR_2
+port,VAR_3
+rdma_ndev,VAR_4
+event_ndev,VAR_5
+real_dev,VAR_6
+gid_type_mask,VAR_7

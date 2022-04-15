@@ -1,0 +1,15 @@
+CTL_PTEADDR,VAR_0
+CTL_TLBACC,VAR_1
+CTL_TLBMISC,VAR_2
+PAGE_SIZE,VAR_3
+TLBMISC_WE,VAR_4
+WRCTL,FUNC_0
+cpuinfo,VAR_5
+get_misc_and_pid,FUNC_1
+pteaddr_invalid,FUNC_2
+flush_tlb_all,FUNC_3
+addr,VAR_6
+line,VAR_7
+way,VAR_8
+org_misc,VAR_9
+pid_misc,VAR_10

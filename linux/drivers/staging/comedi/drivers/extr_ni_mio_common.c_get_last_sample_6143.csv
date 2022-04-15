@@ -1,0 +1,12 @@
+NI6143_AI_FIFO_CTRL_REG,VAR_0
+NI6143_AI_FIFO_DATA_REG,VAR_1
+NI6143_AI_FIFO_STATUS_REG,VAR_2
+comedi_buf_write_samples,FUNC_0
+ni_readl,FUNC_1
+ni_writel,FUNC_2
+get_last_sample_6143,FUNC_3
+dev,VAR_3
+devpriv,VAR_4
+s,VAR_5
+data,VAR_6
+dl,VAR_7

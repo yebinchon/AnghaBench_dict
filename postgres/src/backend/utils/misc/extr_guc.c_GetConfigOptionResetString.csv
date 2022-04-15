@@ -1,0 +1,17 @@
+DEFAULT_ROLE_READ_ALL_SETTINGS,VAR_0
+ERRCODE_INSUFFICIENT_PRIVILEGE,VAR_1
+ERRCODE_UNDEFINED_OBJECT,VAR_2
+ERROR,VAR_3
+GUC_SUPERUSER_ONLY,VAR_4
+GetUserId,FUNC_0
+config_enum_lookup_by_value,FUNC_1
+ereport,FUNC_2
+errcode,FUNC_3
+errmsg,FUNC_4
+find_option,FUNC_5
+is_member_of_role,FUNC_6
+snprintf,FUNC_7
+GetConfigOptionResetString,FUNC_8
+name,VAR_5
+record,VAR_6
+buffer,VAR_7

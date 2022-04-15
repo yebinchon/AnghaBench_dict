@@ -1,0 +1,12 @@
+FILE_TYPE_DIRECTORY,VAR_0
+MENU_ENUM_LABEL_FILE_DETECT_CORE_LIST_PUSH_DIR,VAR_1
+MSG_UNKNOWN,VAR_2
+WIIU_SD_PATH,VAR_3
+WIIU_USB_PATH,VAR_4
+menu_entries_append_enum,FUNC_0
+msg_hash_to_str,FUNC_1
+frontend_wiiu_parse_drive_list,FUNC_2
+data,VAR_5
+load_content,VAR_6
+list,VAR_7
+enum_idx,VAR_8

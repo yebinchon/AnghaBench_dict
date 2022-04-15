@@ -1,0 +1,16 @@
+CTX_HWBITS,FUNC_0
+__flush_tlb_page,FUNC_1
+atomic_read,FUNC_2
+cpumask_copy,FUNC_3
+cpumask_of,FUNC_4
+current,VAR_0
+get_cpu,FUNC_5
+mm_cpumask,FUNC_6
+put_cpu,FUNC_7
+smp_cross_call_masked,FUNC_8
+xcall_flush_tlb_page,VAR_1
+smp_flush_tlb_page,FUNC_9
+mm,VAR_2
+vaddr,VAR_3
+context,VAR_4
+cpu,VAR_5

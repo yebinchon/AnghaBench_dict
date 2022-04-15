@@ -1,0 +1,17 @@
+ICE_VF_STATE_ACTIVE,VAR_0
+VIRTCHNL_OP_GET_STATS,VAR_1
+VIRTCHNL_STATUS_ERR_PARAM,VAR_2
+VIRTCHNL_STATUS_SUCCESS,VAR_3
+ice_update_eth_stats,FUNC_0
+ice_vc_isvalid_vsi_id,FUNC_1
+ice_vc_send_msg_to_vf,FUNC_2
+memset,FUNC_3
+test_bit,FUNC_4
+ice_vc_get_stats_msg,FUNC_5
+vf,VAR_4
+msg,VAR_5
+v_ret,VAR_6
+vqs,VAR_7
+pf,VAR_8
+stats,VAR_9
+vsi,VAR_10

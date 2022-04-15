@@ -1,0 +1,16 @@
+CAP_SYS_BOOT,VAR_0
+EINVAL,VAR_1
+EPERM,VAR_2
+KEXEC_ARCH_MASK,VAR_3
+KEXEC_FLAGS,VAR_4
+KEXEC_SEGMENT_MAX,VAR_5
+LOADING_KEXEC_IMAGE,VAR_6
+LOCKDOWN_KEXEC,VAR_7
+capable,FUNC_0
+kexec_load_disabled,VAR_8
+security_kernel_load_data,FUNC_1
+security_locked_down,FUNC_2
+kexec_load_check,FUNC_3
+nr_segments,VAR_9
+flags,VAR_10
+result,VAR_11

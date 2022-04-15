@@ -1,0 +1,14 @@
+SOCKET_EXEC_START_POST,VAR_0
+SOCKET_FAILURE_RESOURCES,VAR_1
+SOCKET_START_POST,VAR_2
+UNIT,FUNC_0
+assert,FUNC_1
+log_unit_warning_errno,FUNC_2
+socket_enter_listening,FUNC_3
+socket_enter_stop_pre,FUNC_4
+socket_set_state,FUNC_5
+socket_spawn,FUNC_6
+socket_unwatch_control_pid,FUNC_7
+socket_enter_start_post,FUNC_8
+s,VAR_3
+r,VAR_4

@@ -1,0 +1,8 @@
+__flush_tlb_kernel_page,FUNC_0
+broadcast_tlb_a15_erratum,FUNC_1
+ipi_flush_tlb_kernel_page,VAR_0
+on_each_cpu,FUNC_2
+tlb_ops_need_broadcast,FUNC_3
+flush_tlb_kernel_page,FUNC_4
+kaddr,VAR_1
+ta,VAR_2

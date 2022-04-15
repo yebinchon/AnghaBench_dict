@@ -1,0 +1,16 @@
+H_READ,VAR_0
+LPTE_REF,VAR_1
+LPTE_VALID,VAR_2
+LPTE_WIRED,VAR_3
+memcpy,FUNC_0
+mftb,FUNC_1
+phyp_pft_hcall,FUNC_2
+mphyp_pte_spillable_ident,FUNC_3
+ptegbase,VAR_4
+to_evict,VAR_5
+slot,VAR_6
+junk,VAR_7
+k,VAR_8
+pt,VAR_9
+i,VAR_10
+j,VAR_11

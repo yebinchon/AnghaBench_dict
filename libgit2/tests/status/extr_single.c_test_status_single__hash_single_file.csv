@@ -1,0 +1,14 @@
+GIT_OBJECT_BLOB,VAR_0
+cl_assert_equal_oid,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_set_cleanup,FUNC_3
+cleanup__remove_file,VAR_1
+git_odb_hashfile,FUNC_4
+git_oid_fromstr,FUNC_5
+test_status_single__hash_single_file,FUNC_6
+file_name,VAR_2
+file_contents,VAR_3
+file_hash,VAR_4
+expected_id,VAR_5
+actual_id,VAR_6

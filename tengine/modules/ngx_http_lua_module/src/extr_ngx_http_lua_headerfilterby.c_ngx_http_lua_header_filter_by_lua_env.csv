@@ -1,0 +1,10 @@
+lua_createtable,FUNC_0
+lua_setfenv,FUNC_1
+lua_setfield,FUNC_2
+lua_setmetatable,FUNC_3
+ngx_http_lua_create_new_globals_table,FUNC_4
+ngx_http_lua_get_globals_table,FUNC_5
+ngx_http_lua_set_req,FUNC_6
+ngx_http_lua_header_filter_by_lua_env,FUNC_7
+L,VAR_0
+r,VAR_1

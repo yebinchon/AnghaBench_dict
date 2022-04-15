@@ -1,0 +1,12 @@
+pci_read_config_word,FUNC_0
+pci_write_config_byte,FUNC_1
+pci_write_config_word,FUNC_2
+svwks_csb_check,FUNC_3
+to_pci_dev,FUNC_4
+svwks_set_pio_mode,FUNC_5
+drive,VAR_0
+pio,VAR_1
+pio_modes,VAR_2
+drive_pci,VAR_3
+dev,VAR_4
+csb_pio,VAR_5

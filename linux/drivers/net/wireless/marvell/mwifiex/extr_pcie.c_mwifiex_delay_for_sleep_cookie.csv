@@ -1,0 +1,17 @@
+INFO,VAR_0
+MWIFIEX_DEF_SLEEP_COOKIE,VAR_1
+MWIFIEX_SKB_DMA_ADDR,FUNC_0
+PCI_DMA_FROMDEVICE,VAR_2
+get_unaligned_le32,FUNC_1
+mwifiex_dbg,FUNC_2
+pci_dma_sync_single_for_cpu,FUNC_3
+pci_dma_sync_single_for_device,FUNC_4
+usleep_range,FUNC_5
+mwifiex_delay_for_sleep_cookie,FUNC_6
+adapter,VAR_3
+max_delay_loop_cnt,VAR_4
+card,VAR_5
+buffer,VAR_6
+sleep_cookie,VAR_7
+count,VAR_8
+cmdrsp,VAR_9

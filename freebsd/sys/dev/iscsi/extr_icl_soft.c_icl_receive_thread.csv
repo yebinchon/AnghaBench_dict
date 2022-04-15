@@ -1,0 +1,14 @@
+ICL_CONN_LOCK,FUNC_0
+ICL_CONN_UNLOCK,FUNC_1
+SOCKBUF_LOCK,FUNC_2
+SOCKBUF_UNLOCK,FUNC_3
+cv_signal,FUNC_4
+cv_wait,FUNC_5
+icl_conn_receive_pdus,FUNC_6
+kthread_exit,FUNC_7
+sbavail,FUNC_8
+icl_receive_thread,FUNC_9
+arg,VAR_0
+ic,VAR_1
+available,VAR_2
+so,VAR_3

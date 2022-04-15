@@ -1,0 +1,16 @@
+DA8XX_FRAME_WAIT,VAR_0
+LCD_RASTER_CTRL_REG,VAR_1
+LCD_RASTER_ENABLE,VAR_2
+LCD_VERSION_2,VAR_3
+frame_done_flag,VAR_4
+frame_done_wq,VAR_5
+lcd_revision,VAR_6
+lcdc_read,FUNC_0
+lcdc_write,FUNC_1
+msecs_to_jiffies,FUNC_2
+pr_err,FUNC_3
+wait_event_interruptible_timeout,FUNC_4
+lcd_disable_raster,FUNC_5
+wait_for_frame_done,VAR_7
+reg,VAR_8
+ret,VAR_9

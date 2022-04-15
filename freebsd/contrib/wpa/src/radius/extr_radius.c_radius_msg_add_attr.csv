@@ -1,0 +1,17 @@
+MSG_ERROR,VAR_0
+RADIUS_MAX_ATTR_LEN,VAR_1
+TEST_FAIL,FUNC_0
+radius_msg_add_attr_to_array,FUNC_1
+wpa_printf,FUNC_2
+wpabuf_mhead,FUNC_3
+wpabuf_put,FUNC_4
+wpabuf_put_data,FUNC_5
+wpabuf_resize,FUNC_6
+wpabuf_tailroom,FUNC_7
+radius_msg_add_attr,FUNC_8
+msg,VAR_2
+type,VAR_3
+data,VAR_4
+data_len,VAR_5
+buf_needed,VAR_6
+attr,VAR_7

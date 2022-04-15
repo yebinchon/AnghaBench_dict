@@ -1,0 +1,16 @@
+ExAcquireResourceExclusiveLite,FUNC_0
+ExAcquireResourceSharedLite,FUNC_1
+ExReleaseResourceLite,FUNC_2
+FSRTL_VOLUME_DISMOUNT,VAR_0
+FsRtlNotifyVolumeEvent,FUNC_3
+IRP_MN_REMOVE_DEVICE,VAR_1
+NT_SUCCESS,FUNC_4
+STATUS_SUCCESS,VAR_2
+VPB_MOUNTED,VAR_3
+WARN,FUNC_5
+send_disks_pnp_message,FUNC_6
+uninit,FUNC_7
+pnp_remove_device,FUNC_8
+DeviceObject,VAR_4
+Vcb,VAR_5
+Status,VAR_6

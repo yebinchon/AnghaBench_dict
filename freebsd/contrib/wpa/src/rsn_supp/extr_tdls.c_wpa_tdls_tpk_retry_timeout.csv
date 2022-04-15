@@ -1,0 +1,13 @@
+MSG_DEBUG,VAR_0
+MSG_INFO,VAR_1
+WLAN_REASON_TDLS_TEARDOWN_UNSPECIFIED,VAR_2
+eloop_cancel_timeout,FUNC_0
+eloop_register_timeout,FUNC_1
+wpa_printf,FUNC_2
+wpa_tdls_do_teardown,FUNC_3
+wpa_tdls_send_tpk_msg,FUNC_4
+wpa_tdls_tpk_retry_timeout,FUNC_5
+eloop_ctx,VAR_3
+timeout_ctx,VAR_4
+sm,VAR_5
+peer,VAR_6

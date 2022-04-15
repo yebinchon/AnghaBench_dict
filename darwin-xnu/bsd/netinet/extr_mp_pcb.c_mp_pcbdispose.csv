@@ -1,0 +1,15 @@
+LCK_MTX_ASSERT,FUNC_0
+LCK_MTX_ASSERT_OWNED,VAR_0
+MPPCB_STATE_DEAD,VAR_1
+MPP_ATTACHED,VAR_2
+TAILQ_REMOVE,FUNC_1
+VERIFY,FUNC_2
+lck_mtx_destroy,FUNC_3
+mpp_entry,VAR_3
+mpp_lock_assert_held,FUNC_4
+mpp_unlock,FUNC_5
+necp_mppcb_dispose,FUNC_6
+zfree,FUNC_7
+mp_pcbdispose,FUNC_8
+mpp,VAR_4
+mppi,VAR_5

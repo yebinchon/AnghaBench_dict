@@ -1,0 +1,14 @@
+copy_mbuf,FUNC_0
+feth_lock,FUNC_1
+feth_output_common,FUNC_2
+feth_unlock,FUNC_3
+ifnet_get_if_fake,FUNC_4
+ifnet_stat_increment_out,FUNC_5
+m_freem,FUNC_6
+feth_output,FUNC_7
+ifp,VAR_0
+m,VAR_1
+copy_m,VAR_2
+fakeif,VAR_3
+flags,VAR_4
+peer,VAR_5

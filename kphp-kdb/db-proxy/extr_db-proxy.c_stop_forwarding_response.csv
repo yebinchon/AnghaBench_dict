@@ -1,0 +1,12 @@
+C_STOPREAD,VAR_0
+FORWARD_HIGH_WATERMARK,VAR_1
+FORWARD_LOW_WATERMARK,VAR_2
+assert,FUNC_0
+conn_wait_net,VAR_3
+create_reverse_watermark_query,FUNC_1
+fprintf,FUNC_2
+stderr,VAR_4
+verbosity,VAR_5
+stop_forwarding_response,FUNC_3
+c,VAR_6
+d,VAR_7

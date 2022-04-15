@@ -1,0 +1,12 @@
+UART_CR,VAR_0
+UART_CR_CMD_RESET_TX_READY,VAR_1
+UART_ISR,VAR_2
+UART_ISR_TX_READY,VAR_3
+UART_SR,VAR_4
+UART_SR_TX_EMPTY,VAR_5
+msm_read,FUNC_0
+msm_write,FUNC_1
+udelay,FUNC_2
+msm_wait_for_xmitr,FUNC_3
+port,VAR_6
+timeout,VAR_7

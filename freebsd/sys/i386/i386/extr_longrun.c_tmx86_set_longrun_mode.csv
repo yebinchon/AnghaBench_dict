@@ -1,0 +1,13 @@
+LONGRUN_MODE_UNKNOWN,VAR_0
+LONGRUN_MODE_WRITE,FUNC_0
+MSR_TMx86_LONGRUN,VAR_1
+MSR_TMx86_LONGRUN_FLAGS,VAR_2
+intr_disable,FUNC_1
+intr_restore,FUNC_2
+longrun_modes,VAR_3
+rdmsr,FUNC_3
+wrmsr,FUNC_4
+tmx86_set_longrun_mode,FUNC_5
+mode,VAR_4
+saveintr,VAR_5
+msrinfo,VAR_6

@@ -1,0 +1,14 @@
+SNDRV_OSS_INFO_DEV_AUDIO,VAR_0
+SNDRV_PCM_INFO_HALF_DUPLEX,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+adsp_map,VAR_4
+dsp_map,VAR_5
+register_oss_dsp,FUNC_0
+snd_oss_info_register,FUNC_1
+snd_pcm_oss_proc_init,FUNC_2
+sprintf,FUNC_3
+snd_pcm_oss_register_minor,FUNC_4
+pcm,VAR_6
+name,VAR_7
+duplex,VAR_8

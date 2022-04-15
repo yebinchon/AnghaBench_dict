@@ -1,0 +1,17 @@
+ARRAY_SIZE,FUNC_0
+GFP_KERNEL,VAR_0
+INIT_LIST_HEAD,FUNC_1
+PERCPU_REF_ALLOW_REINIT,VAR_1
+atomic_set,FUNC_2
+init_completion,FUNC_3
+init_waitqueue_head,FUNC_4
+io_ring_ctx_ref_free,VAR_2
+kfree,FUNC_5
+kzalloc,FUNC_6
+mutex_init,FUNC_7
+percpu_ref_init,FUNC_8
+spin_lock_init,FUNC_9
+io_ring_ctx_alloc,FUNC_10
+p,VAR_3
+ctx,VAR_4
+i,VAR_5

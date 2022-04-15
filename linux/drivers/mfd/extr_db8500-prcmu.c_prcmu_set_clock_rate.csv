@@ -1,0 +1,15 @@
+PRCMU_ARMSS,VAR_0
+PRCMU_DSI0CLK,VAR_1
+PRCMU_DSI0ESCCLK,VAR_2
+PRCMU_DSI1CLK,VAR_3
+PRCMU_DSI2ESCCLK,VAR_4
+PRCMU_NUM_REG_CLOCKS,VAR_5
+PRCMU_PLLDSI,VAR_6
+set_armss_rate,FUNC_0
+set_clock_rate,FUNC_1
+set_dsiclk_rate,FUNC_2
+set_dsiescclk_rate,FUNC_3
+set_plldsi_rate,FUNC_4
+prcmu_set_clock_rate,FUNC_5
+clock,VAR_7
+rate,VAR_8

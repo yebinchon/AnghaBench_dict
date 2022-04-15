@@ -1,0 +1,12 @@
+COALITION_FOCAL_TASKS_ACCOUNTING,VAR_0
+COALITION_NULL,VAR_1
+FALSE,VAR_2
+TRUE,VAR_3
+UINT32_MAX,VAR_4
+assert,FUNC_0
+hw_atomic_add,FUNC_1
+task_coalition_adjust_nonfocal_count,FUNC_2
+task,VAR_5
+count,VAR_6
+new_count,VAR_7
+coal,VAR_8

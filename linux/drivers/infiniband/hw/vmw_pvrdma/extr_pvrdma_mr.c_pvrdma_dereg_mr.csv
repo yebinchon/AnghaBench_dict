@@ -1,0 +1,17 @@
+PVRDMA_CMD_DESTROY_MR,VAR_0
+dev_warn,FUNC_0
+ib_umem_release,FUNC_1
+kfree,FUNC_2
+memset,FUNC_3
+pvrdma_cmd_post,FUNC_4
+pvrdma_page_dir_cleanup,FUNC_5
+to_vdev,FUNC_6
+to_vmr,FUNC_7
+pvrdma_dereg_mr,FUNC_8
+ibmr,VAR_1
+udata,VAR_2
+mr,VAR_3
+dev,VAR_4
+req,VAR_5
+cmd,VAR_6
+ret,VAR_7

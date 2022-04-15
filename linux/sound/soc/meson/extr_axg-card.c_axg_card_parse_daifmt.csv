@@ -1,0 +1,14 @@
+PREFIX,VAR_0
+SND_SOC_DAIFMT_CBM_CFM,VAR_1
+SND_SOC_DAIFMT_CBM_CFS,VAR_2
+SND_SOC_DAIFMT_CBS_CFM,VAR_3
+SND_SOC_DAIFMT_CBS_CFS,VAR_4
+SND_SOC_DAIFMT_MASTER_MASK,VAR_5
+of_node_put,FUNC_0
+snd_soc_of_parse_daifmt,FUNC_1
+axg_card_parse_daifmt,FUNC_2
+node,VAR_6
+cpu_node,VAR_7
+bitclkmaster,VAR_8
+framemaster,VAR_9
+daifmt,VAR_10

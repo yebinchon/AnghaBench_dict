@@ -1,0 +1,15 @@
+MCPWM_DUTY_MODE_0,VAR_0
+MCPWM_TIMER_0,VAR_1
+MCPWM_UNIT_0,VAR_2
+MCPWM_UP_COUNTER,VAR_3
+brushed_motor_backward,FUNC_0
+brushed_motor_forward,FUNC_1
+brushed_motor_stop,FUNC_2
+mcpwm_example_gpio_initialize,FUNC_3
+mcpwm_init,FUNC_4
+portTICK_RATE_MS,VAR_4
+printf,FUNC_5
+vTaskDelay,FUNC_6
+mcpwm_example_brushed_motor_control,FUNC_7
+arg,VAR_5
+pwm_config,VAR_6

@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+IS_ALIGNED,FUNC_0
+LPFC_HDR_TEMPLATE_SIZE,VAR_1
+LPFC_RPI_HDR_COUNT,VAR_2
+dma_alloc_coherent,FUNC_1
+dma_free_coherent,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+list_add_tail,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+lpfc_sli4_create_rpi_hdr,FUNC_8
+phba,VAR_3
+rpi_limit,VAR_4
+curr_rpi_range,VAR_5
+dmabuf,VAR_6
+rpi_hdr,VAR_7

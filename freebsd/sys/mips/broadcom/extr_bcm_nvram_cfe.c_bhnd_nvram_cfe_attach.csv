@@ -1,0 +1,12 @@
+BHND_SERVICE_NVRAM,VAR_0
+KASSERT,FUNC_0
+bcm_get_platform,FUNC_1
+bhnd_nvram_store_free,FUNC_2
+bhnd_nvram_store_parse_new,FUNC_3
+bhnd_service_registry_add,FUNC_4
+device_get_softc,FUNC_5
+bhnd_nvram_cfe_attach,FUNC_6
+dev,VAR_1
+bp,VAR_2
+sc,VAR_3
+error,VAR_4

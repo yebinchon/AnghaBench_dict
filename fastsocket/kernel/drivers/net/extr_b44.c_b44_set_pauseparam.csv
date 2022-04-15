@@ -1,0 +1,16 @@
+B44_FLAG_PAUSE_AUTO,VAR_0
+B44_FLAG_RX_PAUSE,VAR_1
+B44_FLAG_TX_PAUSE,VAR_2
+B44_FULL_RESET,VAR_3
+__b44_set_flow_ctrl,FUNC_0
+b44_enable_ints,FUNC_1
+b44_halt,FUNC_2
+b44_init_hw,FUNC_3
+b44_init_rings,FUNC_4
+netdev_priv,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+b44_set_pauseparam,FUNC_8
+dev,VAR_4
+epause,VAR_5
+bp,VAR_6

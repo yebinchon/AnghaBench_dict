@@ -1,0 +1,15 @@
+ENODEV,VAR_0
+HIDMA_EVCA_IRQ_CLR_REG,VAR_1
+HIDMA_EVCA_IRQ_EN_REG,VAR_2
+HIDMA_EVCA_IRQ_STAT_REG,VAR_3
+atomic_set,FUNC_0
+hidma_ll_reset,FUNC_1
+memset,FUNC_2
+readl,FUNC_3
+tasklet_kill,FUNC_4
+writel,FUNC_5
+hidma_ll_uninit,FUNC_6
+lldev,VAR_4
+required_bytes,VAR_5
+rc,VAR_6
+val,VAR_7

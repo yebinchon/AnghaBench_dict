@@ -1,0 +1,11 @@
+MLXSW_REG_SLDR_OP_LAG_ADD_PORT_LIST,VAR_0
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_sldr_lag_id_set,FUNC_1
+mlxsw_reg_sldr_num_ports_set,FUNC_2
+mlxsw_reg_sldr_op_set,FUNC_3
+mlxsw_reg_sldr_system_port_set,FUNC_4
+sldr,VAR_1
+mlxsw_reg_sldr_lag_add_port_pack,FUNC_5
+payload,VAR_2
+lag_id,VAR_3
+local_port,VAR_4

@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+TIPC_NLA_NET,VAR_1
+TIPC_NLA_NET_ID,VAR_2
+TIPC_NLA_NET_MAX,VAR_3
+TIPC_TLV_UNSIGNED,VAR_4
+htonl,FUNC_0
+nla_get_u32,FUNC_1
+nla_parse_nested_deprecated,FUNC_2
+tipc_add_tlv,FUNC_3
+tipc_nl_compat_net_dump,FUNC_4
+msg,VAR_5
+attrs,VAR_6
+id,VAR_7
+net,VAR_8
+err,VAR_9

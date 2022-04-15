@@ -1,0 +1,16 @@
+dev_attr_phy_standalone,VAR_0
+device_release_driver,FUNC_0
+module_put,FUNC_1
+phy_device_reset,FUNC_2
+phy_driver_is_genphy,FUNC_3
+phy_driver_is_genphy_10g,FUNC_4
+phy_led_triggers_unregister,FUNC_5
+phy_suspend,FUNC_6
+put_device,FUNC_7
+sysfs_remove_file,FUNC_8
+sysfs_remove_link,FUNC_9
+phy_detach,FUNC_10
+phydev,VAR_1
+dev,VAR_2
+ndev_owner,VAR_3
+bus,VAR_4

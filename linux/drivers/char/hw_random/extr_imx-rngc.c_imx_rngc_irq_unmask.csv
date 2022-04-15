@@ -1,0 +1,8 @@
+RNGC_CONTROL,VAR_0
+RNGC_CTRL_MASK_DONE,VAR_1
+RNGC_CTRL_MASK_ERROR,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+imx_rngc_irq_unmask,FUNC_2
+rngc,VAR_3
+ctrl,VAR_4

@@ -1,0 +1,14 @@
+GetNextLocalTransactionId,FUNC_0
+HASH_BLOBS,VAR_0
+HASH_ELEM,VAR_1
+MyBackendId,VAR_2
+RecoveryLockLists,VAR_3
+STANDBY_INITIALIZED,VAR_4
+SharedInvalBackendInit,FUNC_1
+VirtualXactLockTableInsert,FUNC_2
+hash_create,FUNC_3
+memset,FUNC_4
+standbyState,VAR_5
+InitRecoveryTransactionEnvironment,FUNC_5
+vxid,VAR_6
+hash_ctl,VAR_7

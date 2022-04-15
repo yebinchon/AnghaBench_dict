@@ -1,0 +1,8 @@
+PBS_UNIT_PCIE_CONF_1_PCIE_EXIST_SHIFT,VAR_0
+al_pcie_port_is_enabled,FUNC_0
+al_reg_write32_masked,FUNC_1
+al_warn,FUNC_2
+al_pcie_port_disable,FUNC_3
+pcie_port,VAR_1
+pbs_reg_base,VAR_2
+port_id,VAR_3

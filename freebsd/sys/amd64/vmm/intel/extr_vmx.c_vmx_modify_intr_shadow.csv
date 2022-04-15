@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+HWINTR_BLOCKING,VAR_1
+VCPU_CTR2,FUNC_0
+VMCS_GUEST_INTERRUPTIBILITY,VAR_2
+VMCS_IDENT,FUNC_1
+vmcs_getreg,FUNC_2
+vmcs_setreg,FUNC_3
+vmx_modify_intr_shadow,FUNC_4
+vmx,VAR_3
+vcpu,VAR_4
+running,VAR_5
+val,VAR_6
+vmcs,VAR_7
+gi,VAR_8
+error,VAR_9
+ident,VAR_10

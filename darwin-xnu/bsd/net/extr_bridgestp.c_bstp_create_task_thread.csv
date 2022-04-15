@@ -1,0 +1,17 @@
+bstp_lock_attr,VAR_0
+bstp_lock_grp,VAR_1
+bstp_task_attr,VAR_2
+bstp_task_grp,VAR_3
+bstp_task_mtx,VAR_4
+bstp_task_thread,VAR_5
+bstp_task_thread_func,VAR_6
+kernel_thread_start,FUNC_0
+lck_attr_alloc_init,FUNC_1
+lck_attr_setdebug,FUNC_2
+lck_grp_alloc_init,FUNC_3
+lck_grp_attr_alloc_init,FUNC_4
+lck_grp_attr_free,FUNC_5
+lck_mtx_init,FUNC_6
+bstp_create_task_thread,FUNC_7
+error,VAR_7
+lck_grp_attr,VAR_8

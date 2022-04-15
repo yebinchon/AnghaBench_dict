@@ -1,0 +1,10 @@
+BM_MOD_WDEN,VAR_0
+BM_MOD_WDRESET,VAR_1
+HW_WDFEED,VAR_2
+HW_WDMOD,VAR_3
+HW_WDTC,VAR_4
+asm9260_wdt_feed,FUNC_0
+iowrite32,FUNC_1
+mdelay,FUNC_2
+asm9260_wdt_sys_reset,FUNC_3
+priv,VAR_5

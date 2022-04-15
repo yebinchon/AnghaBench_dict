@@ -1,0 +1,12 @@
+copy_block4_mmi,FUNC_0
+ff_put_pixels4_l2_8_mmi,FUNC_1
+put_h264_qpel4_h_lowpass_mmi,FUNC_2
+put_h264_qpel4_v_lowpass_mmi,FUNC_3
+ff_put_h264_qpel4_mc11_mmi,FUNC_4
+dst,VAR_0
+src,VAR_1
+stride,VAR_2
+full,VAR_3
+full_mid,VAR_4
+halfH,VAR_5
+halfV,VAR_6

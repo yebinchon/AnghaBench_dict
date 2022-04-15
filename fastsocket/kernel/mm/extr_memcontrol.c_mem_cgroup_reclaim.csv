@@ -1,0 +1,14 @@
+MEM_CGROUP_MAX_RECLAIM_LOOPS,VAR_0
+MEM_CGROUP_RECLAIM_NOSWAP,VAR_1
+MEM_CGROUP_RECLAIM_SHRINK,VAR_2
+drain_all_stock_async,FUNC_0
+get_swappiness,FUNC_1
+mem_cgroup_check_under_limit,FUNC_2
+try_to_free_mem_cgroup_pages,FUNC_3
+mem_cgroup_reclaim,FUNC_4
+memcg,VAR_3
+gfp_mask,VAR_4
+flags,VAR_5
+total,VAR_6
+noswap,VAR_7
+loop,VAR_8

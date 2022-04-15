@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+FSL_QDMA_COMMAND_BUFFER_SIZE,VAR_1
+FSL_QDMA_DESCRIPTOR_BUFFER_SIZE,VAR_2
+INIT_LIST_HEAD,FUNC_0
+dev_err,FUNC_1
+dma_pool_create,FUNC_2
+dma_pool_destroy,FUNC_3
+fsl_qdma_pre_request_enqueue_desc,FUNC_4
+to_fsl_qdma_chan,FUNC_5
+fsl_qdma_alloc_chan_resources,FUNC_6
+chan,VAR_3
+ret,VAR_4
+fsl_chan,VAR_5
+fsl_qdma,VAR_6
+fsl_queue,VAR_7

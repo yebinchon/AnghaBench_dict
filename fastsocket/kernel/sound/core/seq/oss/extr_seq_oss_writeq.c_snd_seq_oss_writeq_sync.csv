@@ -1,0 +1,16 @@
+HZ,VAR_0
+SEQ_SYNCTIMER,VAR_1
+SNDRV_SEQ_EVENT_ECHO,VAR_2
+current,VAR_3
+memset,FUNC_0
+signal_pending,FUNC_1
+snd_seq_kernel_client_enqueue_blocking,FUNC_2
+snd_seq_oss_fill_addr,FUNC_3
+snd_seq_oss_timer_cur_tick,FUNC_4
+wait_event_interruptible_timeout,FUNC_5
+snd_seq_oss_writeq_sync,FUNC_6
+q,VAR_4
+dp,VAR_5
+time,VAR_6
+ev,VAR_7
+rec,VAR_8

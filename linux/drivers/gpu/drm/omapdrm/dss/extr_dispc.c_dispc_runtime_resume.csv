@@ -1,0 +1,12 @@
+DISPC_CONFIG,VAR_0
+OMAP_DSS_LOAD_FRAME_ONLY,VAR_1
+REG_GET,FUNC_0
+_omap_dispc_initial_config,FUNC_1
+dev_get_drvdata,FUNC_2
+dispc_errata_i734_wa,FUNC_3
+dispc_restore_context,FUNC_4
+dispc_restore_gamma_tables,FUNC_5
+smp_wmb,FUNC_6
+dispc_runtime_resume,FUNC_7
+dev,VAR_2
+dispc,VAR_3

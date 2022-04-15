@@ -1,0 +1,11 @@
+W83793_REG_BANKSEL,VAR_0
+dev_err,FUNC_0
+i2c_get_clientdata,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+w83793_write_value,FUNC_3
+client,VAR_1
+reg,VAR_2
+value,VAR_3
+data,VAR_4
+res,VAR_5
+new_bank,VAR_6

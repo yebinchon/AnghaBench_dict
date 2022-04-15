@@ -1,0 +1,10 @@
+ISCSI_OP_LOGOUT_RSP,VAR_0
+__iscsi_complete_pdu,FUNC_0
+cpu_to_be32,FUNC_1
+be_complete_logout,FUNC_2
+beiscsi_conn,VAR_1
+task,VAR_2
+csol_cqe,VAR_3
+hdr,VAR_4
+io_task,VAR_5
+conn,VAR_6

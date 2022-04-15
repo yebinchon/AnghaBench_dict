@@ -1,0 +1,12 @@
+CAM_REQ_CMP,VAR_0
+cam_sim_path,FUNC_0
+device_printf,FUNC_1
+xpt_alloc_ccb_nowait,FUNC_2
+xpt_create_path,FUNC_3
+xpt_free_ccb,FUNC_4
+xpt_rescan,FUNC_5
+pvscsi_process_msg,FUNC_6
+sc,VAR_1
+e,VAR_2
+desc,VAR_3
+ccb,VAR_4

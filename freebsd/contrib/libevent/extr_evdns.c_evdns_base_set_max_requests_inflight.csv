@@ -1,0 +1,15 @@
+ASSERT_LOCKED,FUNC_0
+EVUTIL_ASSERT,FUNC_1
+evdns_request_insert,FUNC_2
+evdns_request_remove,FUNC_3
+mm_calloc,FUNC_4
+mm_free,FUNC_5
+evdns_base_set_max_requests_inflight,FUNC_6
+base,VAR_0
+maxinflight,VAR_1
+old_n_heads,VAR_2
+n_heads,VAR_3
+old_heads,VAR_4
+new_heads,VAR_5
+req,VAR_6
+i,VAR_7

@@ -1,0 +1,17 @@
+INHIBIT_BLOCK,VAR_0
+INHIBIT_DELAY,VAR_1
+assert,FUNC_0
+inhibit_what_to_string,FUNC_1
+manager_inhibit_what,FUNC_2
+sd_bus_message_append,FUNC_3
+streq,FUNC_4
+property_get_inhibited,FUNC_5
+bus,VAR_2
+path,VAR_3
+interface,VAR_4
+property,VAR_5
+reply,VAR_6
+userdata,VAR_7
+error,VAR_8
+m,VAR_9
+w,VAR_10

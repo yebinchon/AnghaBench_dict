@@ -1,0 +1,15 @@
+BPF_F_TUNINFO_IPV6,VAR_0
+ERROR,FUNC_0
+TC_ACT_OK,VAR_1
+TC_ACT_SHOT,VAR_2
+bpf_htonl,FUNC_1
+bpf_htons,FUNC_2
+bpf_skb_set_tunnel_key,FUNC_3
+_ip6ip6_set_tunnel,FUNC_4
+skb,VAR_3
+key,VAR_4
+data,VAR_5
+iph,VAR_6
+tcp,VAR_7
+data_end,VAR_8
+ret,VAR_9

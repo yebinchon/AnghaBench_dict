@@ -1,0 +1,16 @@
+ADVERTISE_1000FULL,VAR_0
+ADVERTISE_1000HALF,VAR_1
+AUTONEG_DISABLE,VAR_2
+ETH_TP_MDI_AUTO,VAR_3
+MDIO_MMD_AN,VAR_4
+MV_AN_CTRL1000,VAR_5
+genphy_c45_an_config_aneg,FUNC_0
+genphy_c45_check_and_restart_aneg,FUNC_1
+genphy_c45_pma_setup_forced,FUNC_2
+linkmode_adv_to_mii_ctrl1000_t,FUNC_3
+phy_modify_mmd_changed,FUNC_4
+mv3310_config_aneg,FUNC_5
+phydev,VAR_6
+changed,VAR_7
+reg,VAR_8
+ret,VAR_9

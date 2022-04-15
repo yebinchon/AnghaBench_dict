@@ -1,0 +1,17 @@
+B43legacy_DMA32_RXCTL,VAR_0
+B43legacy_DMA32_RXSTATE,VAR_1
+B43legacy_DMA32_RXSTATUS,VAR_2
+B43legacy_DMA32_RXSTAT_DISABLED,VAR_3
+ENODEV,VAR_4
+b43legacy_read32,FUNC_0
+b43legacy_write32,FUNC_1
+b43legacyerr,FUNC_2
+might_sleep,FUNC_3
+msleep,FUNC_4
+b43legacy_dmacontroller_rx_reset,FUNC_5
+dev,VAR_5
+mmio_base,VAR_6
+type,VAR_7
+i,VAR_8
+value,VAR_9
+offset,VAR_10

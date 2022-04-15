@@ -1,0 +1,12 @@
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_get_softc,FUNC_2
+hme_detach,FUNC_3
+mtx_destroy,FUNC_4
+rman_get_rid,FUNC_5
+hme_pci_detach,FUNC_6
+dev,VAR_2
+hsc,VAR_3
+sc,VAR_4

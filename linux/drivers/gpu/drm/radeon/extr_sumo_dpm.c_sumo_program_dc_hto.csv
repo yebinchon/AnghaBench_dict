@@ -1,0 +1,15 @@
+CG_SCLK_DPM_CTRL_4,VAR_0
+DC_HDC,FUNC_0
+DC_HDC_MASK,VAR_1
+DC_HU,FUNC_1
+DC_HU_MASK,VAR_2
+RREG32,FUNC_2
+WREG32,FUNC_3
+r600_calculate_u_and_p,FUNC_4
+radeon_get_xclk,FUNC_5
+sumo_program_dc_hto,FUNC_6
+rdev,VAR_3
+cg_sclk_dpm_ctrl_4,VAR_4
+p,VAR_5
+u,VAR_6
+xclk,VAR_7

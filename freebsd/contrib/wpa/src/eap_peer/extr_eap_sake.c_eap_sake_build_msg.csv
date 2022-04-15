@@ -1,0 +1,16 @@
+EAP_CODE_RESPONSE,VAR_0
+EAP_SAKE_VERSION,VAR_1
+EAP_TYPE_SAKE,VAR_2
+EAP_VENDOR_IETF,VAR_3
+MSG_ERROR,VAR_4
+eap_msg_alloc,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_put,FUNC_2
+eap_sake_build_msg,FUNC_3
+data,VAR_5
+id,VAR_6
+length,VAR_7
+subtype,VAR_8
+sake,VAR_9
+msg,VAR_10
+plen,VAR_11

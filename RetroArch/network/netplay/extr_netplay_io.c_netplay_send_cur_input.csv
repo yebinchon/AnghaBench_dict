@@ -1,0 +1,15 @@
+MAX_CLIENTS,VAR_0
+NETPLAY_CMD_NOINPUT,VAR_1
+NETPLAY_CONNECTION_PLAYING,VAR_2
+NETPLAY_CONNECTION_SLAVE,VAR_3
+htonl,FUNC_0
+netplay_send_flush,FUNC_1
+netplay_send_raw_cmd,FUNC_2
+send_input_frame,FUNC_3
+netplay_send_cur_input,FUNC_4
+netplay,VAR_4
+connection,VAR_5
+from_client,VAR_6
+to_client,VAR_7
+dframe,VAR_8
+payload,VAR_9

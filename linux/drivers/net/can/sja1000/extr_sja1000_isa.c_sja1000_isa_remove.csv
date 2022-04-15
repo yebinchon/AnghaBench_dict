@@ -1,0 +1,17 @@
+SJA1000_IOSIZE,VAR_0
+SJA1000_IOSIZE_INDIRECT,VAR_1
+free_sja1000dev,FUNC_0
+iounmap,FUNC_1
+mem,VAR_2
+netdev_priv,FUNC_2
+platform_get_drvdata,FUNC_3
+port,VAR_3
+release_mem_region,FUNC_4
+release_region,FUNC_5
+sja1000_isa_port_read_reg_indirect,VAR_4
+unregister_sja1000dev,FUNC_6
+sja1000_isa_remove,FUNC_7
+pdev,VAR_5
+dev,VAR_6
+priv,VAR_7
+idx,VAR_8

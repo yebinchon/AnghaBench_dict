@@ -1,0 +1,16 @@
+ALTERA_PCIE_V2,VAR_0
+IORESOURCE_MEM,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+altera_pcie_isr,VAR_2
+dev_err,FUNC_2
+devm_ioremap_resource,FUNC_3
+irq_set_chained_handler_and_data,FUNC_4
+platform_get_irq,FUNC_5
+platform_get_resource_byname,FUNC_6
+altera_pcie_parse_dt,FUNC_7
+pcie,VAR_3
+dev,VAR_4
+pdev,VAR_5
+cra,VAR_6
+hip,VAR_7

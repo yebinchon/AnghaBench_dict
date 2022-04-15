@@ -1,0 +1,9 @@
+AR5416_PWR_TABLE_OFFSET_DB,VAR_0
+get_unaligned_be16,FUNC_0
+le16_to_cpu,FUNC_1
+ath9k_hw_4k_get_eeprom,FUNC_2
+ah,VAR_1
+param,VAR_2
+eep,VAR_3
+pModal,VAR_4
+pBase,VAR_5

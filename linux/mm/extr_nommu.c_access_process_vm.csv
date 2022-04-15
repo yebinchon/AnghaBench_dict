@@ -1,0 +1,10 @@
+__access_remote_vm,FUNC_0
+get_task_mm,FUNC_1
+mmput,FUNC_2
+access_process_vm,FUNC_3
+tsk,VAR_0
+addr,VAR_1
+buf,VAR_2
+len,VAR_3
+gup_flags,VAR_4
+mm,VAR_5

@@ -1,0 +1,16 @@
+MBX_MAX_WORDS,VAR_0
+dib9000_read16_noinc_attr,FUNC_0
+dib9000_read_word_attr,FUNC_1
+dib9000_write_word_attr,FUNC_2
+dprintk,FUNC_3
+mutex_lock_interruptible,FUNC_4
+mutex_unlock,FUNC_5
+dib9000_mbx_read,FUNC_6
+state,VAR_1
+data,VAR_2
+risc_id,VAR_3
+attr,VAR_4
+tmp,VAR_5
+i,VAR_6
+size,VAR_7
+mc_base,VAR_8

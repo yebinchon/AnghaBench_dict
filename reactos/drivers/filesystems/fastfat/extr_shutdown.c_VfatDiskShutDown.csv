@@ -1,0 +1,17 @@
+Executive,VAR_0
+FALSE,VAR_1
+IRP_MJ_SHUTDOWN,VAR_2
+IoBuildSynchronousFsdRequest,FUNC_0
+IoCallDriver,FUNC_1
+KeInitializeEvent,FUNC_2
+KeWaitForSingleObject,FUNC_3
+KernelMode,VAR_3
+NotificationEvent,VAR_4
+STATUS_INSUFFICIENT_RESOURCES,VAR_5
+STATUS_PENDING,VAR_6
+VfatDiskShutDown,FUNC_4
+Vcb,VAR_7
+Irp,VAR_8
+Event,VAR_9
+Status,VAR_10
+IoStatus,VAR_11

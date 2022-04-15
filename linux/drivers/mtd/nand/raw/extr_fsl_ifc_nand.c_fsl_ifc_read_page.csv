@@ -1,0 +1,17 @@
+IFC_NAND_EVTER_STAT_ECCER,VAR_0
+IFC_NAND_EVTER_STAT_OPC,VAR_1
+check_erased_page,FUNC_0
+fsl_ifc_read_buf,FUNC_1
+ifc_nand_ctrl,VAR_2
+nand_get_controller_data,FUNC_2
+nand_read_page_op,FUNC_3
+nand_to_mtd,FUNC_4
+fsl_ifc_read_page,FUNC_5
+chip,VAR_3
+buf,VAR_4
+oob_required,VAR_5
+page,VAR_6
+mtd,VAR_7
+priv,VAR_8
+ctrl,VAR_9
+nctrl,VAR_10

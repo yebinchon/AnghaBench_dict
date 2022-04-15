@@ -1,0 +1,11 @@
+__set_bit,FUNC_0
+gpiochip_get_data,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+xlp_gpio_set_reg,FUNC_5
+xlp_gpio_irq_unmask,FUNC_6
+d,VAR_0
+gc,VAR_1
+priv,VAR_2
+flags,VAR_3

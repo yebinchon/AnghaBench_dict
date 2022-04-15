@@ -1,0 +1,17 @@
+NLA_PUT_U32,FUNC_0
+TCA_BASIC_CLASSID,VAR_0
+TCA_BASIC_EMATCHES,VAR_1
+TCA_OPTIONS,VAR_2
+basic_ext_map,VAR_3
+nla_nest_cancel,FUNC_1
+nla_nest_end,FUNC_2
+nla_nest_start,FUNC_3
+tcf_em_tree_dump,FUNC_4
+tcf_exts_dump,FUNC_5
+basic_dump,FUNC_6
+tp,VAR_4
+fh,VAR_5
+skb,VAR_6
+t,VAR_7
+f,VAR_8
+nest,VAR_9

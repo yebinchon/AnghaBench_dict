@@ -1,0 +1,17 @@
+CMD_DELETE,VAR_0
+CMD_UPDATE,VAR_1
+ERRCODE_OBJECT_NOT_IN_PREREQUISITE_STATE,VAR_2
+ERROR,VAR_3
+GetRelationPublicationActions,FUNC_0
+OidIsValid,FUNC_1
+REPLICA_IDENTITY_FULL,VAR_4
+RelationGetRelationName,FUNC_2
+RelationGetReplicaIndex,FUNC_3
+ereport,FUNC_4
+errcode,FUNC_5
+errhint,FUNC_6
+errmsg,FUNC_7
+CheckCmdReplicaIdentity,FUNC_8
+rel,VAR_5
+cmd,VAR_6
+pubactions,VAR_7

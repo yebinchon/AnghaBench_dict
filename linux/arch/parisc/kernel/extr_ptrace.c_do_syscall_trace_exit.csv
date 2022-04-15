@@ -1,0 +1,12 @@
+TIF_BLOCKSTEP,VAR_0
+TIF_SINGLESTEP,VAR_1
+TIF_SYSCALL_TRACE,VAR_2
+TIF_SYSCALL_TRACEPOINT,VAR_3
+audit_syscall_exit,FUNC_0
+test_thread_flag,FUNC_1
+trace_sys_exit,FUNC_2
+tracehook_report_syscall_exit,FUNC_3
+unlikely,FUNC_4
+do_syscall_trace_exit,FUNC_5
+regs,VAR_4
+stepping,VAR_5

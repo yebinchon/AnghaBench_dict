@@ -1,0 +1,13 @@
+ATA_ID_EIDE_PIO,VAR_0
+ATA_ID_EIDE_PIO_IORDY,VAR_1
+ATA_ID_FIELD_VALID,VAR_2
+XFER_PIO_0,VAR_3
+ata_id_has_iordy,FUNC_0
+ata_id_is_cfa,FUNC_1
+ide_timing_find_mode,FUNC_2
+ide_pio_cycle_time,FUNC_3
+drive,VAR_4
+pio,VAR_5
+id,VAR_6
+t,VAR_7
+cycle,VAR_8

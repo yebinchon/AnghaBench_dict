@@ -1,0 +1,12 @@
+PCI_ERR_UNCOR_MASK,VAR_0
+PCI_ERR_UNC_INTN,VAR_1
+PCI_ERR_UNC_MALF_TLP,VAR_2
+PCI_EXT_CAP_ID_ERR,VAR_3
+pci_find_ext_capability,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+cxl_fixup_malformed_tlp,FUNC_3
+adapter,VAR_4
+dev,VAR_5
+aer,VAR_6
+data,VAR_7

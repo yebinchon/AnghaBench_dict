@@ -1,0 +1,17 @@
+NN_SWS_CLOSE_ERR_INVALID_FRAME,VAR_0
+NN_SWS_INSTATE_RECVD_CHUNKED,VAR_1
+NN_SWS_UTF8_FRAGMENT,VAR_2
+NN_SWS_UTF8_INVALID,VAR_3
+NN_SWS_UTF8_MAX_CODEPOINT_LEN,VAR_4
+memcpy,FUNC_0
+memset,FUNC_1
+nn_assert,FUNC_2
+nn_pipebase_received,FUNC_3
+nn_sws_fail_conn,FUNC_4
+nn_sws_recv_hdr,FUNC_5
+nn_utf8_code_point,FUNC_6
+nn_sws_validate_utf8_chunk,FUNC_7
+self,VAR_5
+pos,VAR_6
+code_point_len,VAR_7
+len,VAR_8

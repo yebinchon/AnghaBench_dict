@@ -1,0 +1,16 @@
+BLKPREP_OK,VAR_0
+BLK_MAX_CDB,VAR_1
+GPCMD_READ_10,VAR_2
+GPCMD_WRITE_10,VAR_3
+READ,VAR_4
+blk_rq_pos,FUNC_0
+blk_rq_sectors,FUNC_1
+memset,FUNC_2
+queue_logical_block_size,FUNC_3
+rq_data_dir,FUNC_4
+ide_cdrom_prep_fs,FUNC_5
+q,VAR_5
+rq,VAR_6
+hard_sect,VAR_7
+block,VAR_8
+blocks,VAR_9

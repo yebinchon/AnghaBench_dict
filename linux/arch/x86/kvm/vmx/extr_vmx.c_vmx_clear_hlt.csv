@@ -1,0 +1,8 @@
+GUEST_ACTIVITY_ACTIVE,VAR_0
+GUEST_ACTIVITY_HLT,VAR_1
+GUEST_ACTIVITY_STATE,VAR_2
+kvm_hlt_in_guest,FUNC_0
+vmcs_read32,FUNC_1
+vmcs_write32,FUNC_2
+vmx_clear_hlt,FUNC_3
+vcpu,VAR_3

@@ -1,0 +1,14 @@
+DBG_STATUS_DUMP_BUF_TOO_SMALL,VAR_0
+DBG_STATUS_OK,VAR_1
+ecore_dbg_grc_set_params_default,FUNC_0
+ecore_dbg_igu_fifo_get_dump_buf_size,FUNC_1
+ecore_igu_fifo_dump,FUNC_2
+ecore_update_blocks_reset_state,FUNC_3
+ecore_dbg_igu_fifo_dump,FUNC_4
+p_hwfn,VAR_2
+p_ptt,VAR_3
+dump_buf,VAR_4
+buf_size_in_dwords,VAR_5
+num_dumped_dwords,VAR_6
+needed_buf_size_in_dwords,VAR_7
+status,VAR_8

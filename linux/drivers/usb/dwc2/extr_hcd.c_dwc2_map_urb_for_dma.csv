@@ -1,0 +1,10 @@
+DWC2_USB_DMA_ALIGN,VAR_0
+WARN_ON_ONCE,FUNC_0
+dwc2_alloc_dma_aligned_buffer,FUNC_1
+dwc2_free_dma_aligned_buffer,FUNC_2
+usb_hcd_map_urb_for_dma,FUNC_3
+dwc2_map_urb_for_dma,FUNC_4
+hcd,VAR_1
+urb,VAR_2
+mem_flags,VAR_3
+ret,VAR_4

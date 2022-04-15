@@ -1,0 +1,9 @@
+SCIC_PORT_NOT_READY_NO_ACTIVE_PHYS,VAR_0
+SCIC_SDS_PORT_READY_SUBSTATE_OPERATIONAL,VAR_1
+SCIC_SDS_PORT_READY_SUBSTATE_WAITING,VAR_2
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_port_set_ready_state_handlers,FUNC_1
+scic_sds_port_suspend_port_task_scheduler,FUNC_2
+scic_sds_port_ready_substate_waiting_enter,FUNC_3
+object,VAR_3
+this_port,VAR_4

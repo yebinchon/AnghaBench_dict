@@ -1,0 +1,12 @@
+C_ERR,VAR_0
+C_OK,VAR_1
+JOB_STATE_QUEUED,VAR_2
+addReplyLongLong,FUNC_0
+dequeueJob,FUNC_1
+lookupJob,FUNC_2
+validateJobIDs,FUNC_3
+dequeueCommand,FUNC_4
+c,VAR_3
+j,VAR_4
+dequeued,VAR_5
+job,VAR_6

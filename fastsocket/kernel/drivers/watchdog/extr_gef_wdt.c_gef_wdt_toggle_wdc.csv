@@ -1,0 +1,14 @@
+GEF_WDC_ENABLED_SHIFT,VAR_0
+gef_wdt_count,VAR_1
+gef_wdt_regs,VAR_2
+gef_wdt_spinlock,VAR_3
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+gef_wdt_toggle_wdc,FUNC_4
+enabled_predicate,VAR_4
+field_shift,VAR_5
+data,VAR_6
+enabled,VAR_7
+ret,VAR_8

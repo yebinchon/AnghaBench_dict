@@ -1,0 +1,12 @@
+DPU_REG_READ,FUNC_0
+DPU_REG_WRITE,FUNC_1
+VBIF_XIN_CLR_ERR,VAR_0
+VBIF_XIN_PND_ERR,VAR_1
+VBIF_XIN_SRC_ERR,VAR_2
+dpu_hw_clear_errors,FUNC_2
+vbif,VAR_3
+pnd_errors,VAR_4
+src_errors,VAR_5
+c,VAR_6
+pnd,VAR_7
+src,VAR_8

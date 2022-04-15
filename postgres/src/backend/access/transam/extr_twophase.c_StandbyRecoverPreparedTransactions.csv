@@ -1,0 +1,13 @@
+Assert,FUNC_0
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_EXCLUSIVE,VAR_0
+ProcessTwoPhaseBuffer,FUNC_3
+TwoPhaseState,VAR_1
+TwoPhaseStateLock,VAR_2
+pfree,FUNC_4
+StandbyRecoverPreparedTransactions,FUNC_5
+i,VAR_3
+xid,VAR_4
+buf,VAR_5
+gxact,VAR_6

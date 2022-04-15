@@ -1,0 +1,12 @@
+CAL_ADC_Config_Data_High_Word_67xx,VAR_0
+CAL_ADC_Config_Data_Low_Word_67xx,VAR_1
+CSCMD_COMMAND,VAR_2
+CSCMD_REGISTER_SELECT_MASK,VAR_3
+comedi_error,FUNC_0
+cs5529_command,FUNC_1
+cs5529_wait_for_idle,FUNC_2
+ni_ao_win_outw,FUNC_3
+cs5529_config_write,FUNC_4
+dev,VAR_4
+value,VAR_5
+reg_select_bits,VAR_6

@@ -1,0 +1,15 @@
+MNT_WAIT,VAR_0
+MSDOSFS_FSIMOD,VAR_1
+MSDOSFS_LOCK_MP,FUNC_0
+MSDOSFS_UNLOCK_MP,FUNC_1
+NOCRED,VAR_2
+bawrite,FUNC_2
+bread,FUNC_3
+bwrite,FUNC_4
+putulong,FUNC_5
+msdosfs_fsiflush,FUNC_6
+pmp,VAR_3
+waitfor,VAR_4
+fp,VAR_5
+bp,VAR_6
+error,VAR_7

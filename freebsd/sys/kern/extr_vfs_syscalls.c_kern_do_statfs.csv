@@ -1,0 +1,14 @@
+EBADF,VAR_0
+PRIV_VFS_GENERATION,VAR_1
+VFS_STATFS,FUNC_0
+mac_mount_check_stat,FUNC_1
+prison_enforce_statfs,FUNC_2
+priv_check,FUNC_3
+vfs_busy,FUNC_4
+vfs_rel,FUNC_5
+vfs_unbusy,FUNC_6
+kern_do_statfs,FUNC_7
+td,VAR_2
+mp,VAR_3
+buf,VAR_4
+error,VAR_5

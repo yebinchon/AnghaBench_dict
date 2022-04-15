@@ -1,0 +1,14 @@
+i2c_smbus_read_word_data,FUNC_0
+ktime_add,FUNC_1
+ktime_get,FUNC_2
+ktime_us_delta,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+usleep_range,FUNC_6
+vcnl4200_measure,FUNC_7
+data,VAR_0
+chan,VAR_1
+val,VAR_2
+ret,VAR_3
+delta,VAR_4
+next_measurement,VAR_5

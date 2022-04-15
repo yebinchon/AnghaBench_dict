@@ -1,0 +1,14 @@
+DEVICE_COUNT_RESOURCE,VAR_0
+pci_clear_mwi,FUNC_0
+pci_disable_device,FUNC_1
+pci_disable_msi,FUNC_2
+pci_disable_msix,FUNC_3
+pci_intx,FUNC_4
+pci_release_region,FUNC_5
+to_pci_dev,FUNC_6
+pcim_release,FUNC_7
+gendev,VAR_1
+res,VAR_2
+dev,VAR_3
+this,VAR_4
+i,VAR_5

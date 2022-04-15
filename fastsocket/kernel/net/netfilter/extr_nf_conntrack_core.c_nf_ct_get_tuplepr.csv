@@ -1,0 +1,17 @@
+NF_ACCEPT,VAR_0
+__nf_ct_l3proto_find,FUNC_0
+__nf_ct_l4proto_find,FUNC_1
+nf_ct_get_tuple,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+stub1,FUNC_5
+nf_ct_get_tuplepr,FUNC_6
+skb,VAR_1
+nhoff,VAR_2
+l3num,VAR_3
+tuple,VAR_4
+l3proto,VAR_5
+l4proto,VAR_6
+protoff,VAR_7
+protonum,VAR_8
+ret,VAR_9

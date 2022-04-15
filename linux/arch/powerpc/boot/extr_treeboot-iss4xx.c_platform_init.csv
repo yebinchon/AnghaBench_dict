@@ -1,0 +1,16 @@
+SPRN_PIR,VAR_0
+_dtb_start,VAR_1
+_end,VAR_2
+fdt_init,FUNC_0
+fdt_set_boot_cpuid_phys,FUNC_1
+ibm44x_dbcr_reset,VAR_3
+iss_4xx_fixups,VAR_4
+iss_4xx_vmlinux_alloc,VAR_5
+mfspr,FUNC_2
+platform_ops,VAR_6
+serial_console_init,FUNC_3
+simple_alloc_init,FUNC_4
+platform_init,FUNC_5
+end_of_ram,VAR_7
+avail_ram,VAR_8
+pir_reg,VAR_9

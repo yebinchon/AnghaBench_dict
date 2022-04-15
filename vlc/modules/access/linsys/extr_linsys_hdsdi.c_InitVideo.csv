@@ -1,0 +1,15 @@
+START_DATE,VAR_0
+VIDEO_ES,VAR_1
+VLC_CODEC_I420,VAR_2
+VLC_EGENERIC,VAR_3
+VLC_SUCCESS,VAR_4
+VOUT_ASPECT_FACTOR,VAR_5
+es_format_Init,FUNC_0
+es_out_Add,FUNC_1
+msg_Dbg,FUNC_2
+msg_Err,FUNC_3
+vlc_tick_from_samples,FUNC_4
+InitVideo,FUNC_5
+p_demux,VAR_6
+p_sys,VAR_7
+fmt,VAR_8

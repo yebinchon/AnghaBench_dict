@@ -1,0 +1,17 @@
+CAM_REQ_CMP,VAR_0
+CISS_IS_PHYSICAL,FUNC_0
+ENOENT,VAR_1
+cam_periph_find,FUNC_1
+cam_sim_path,FUNC_2
+sprintf,FUNC_3
+xpt_create_path,FUNC_4
+xpt_free_path,FUNC_5
+xpt_path_lock,FUNC_6
+xpt_path_unlock,FUNC_7
+ciss_name_device,FUNC_8
+sc,VAR_2
+bus,VAR_3
+target,VAR_4
+periph,VAR_5
+path,VAR_6
+status,VAR_7

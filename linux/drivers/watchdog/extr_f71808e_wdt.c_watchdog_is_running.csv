@@ -1,0 +1,14 @@
+BIT,FUNC_0
+F71808FG_FLAG_WD_EN,VAR_0
+F71808FG_REG_WDT_CONF,VAR_1
+SIO_F71808FG_LD_WDT,VAR_2
+SIO_REG_ENABLE,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+superio_enter,FUNC_3
+superio_exit,FUNC_4
+superio_inb,FUNC_5
+superio_select,FUNC_6
+watchdog,VAR_4
+watchdog_is_running,FUNC_7
+is_running,VAR_5

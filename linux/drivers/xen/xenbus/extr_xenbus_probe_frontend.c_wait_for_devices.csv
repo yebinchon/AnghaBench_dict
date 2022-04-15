@@ -1,0 +1,15 @@
+bus_for_each_dev,FUNC_0
+exists_essential_connecting_device,FUNC_1
+exists_non_essential_connecting_device,FUNC_2
+jiffies,VAR_0
+print_device_status,VAR_1
+printk,FUNC_3
+ready_to_wait_for_devices,VAR_2
+wait_loop,FUNC_4
+xen_domain,FUNC_5
+xenbus_frontend,VAR_3
+wait_for_devices,FUNC_6
+xendrv,VAR_4
+start,VAR_5
+drv,VAR_6
+seconds_waited,VAR_7

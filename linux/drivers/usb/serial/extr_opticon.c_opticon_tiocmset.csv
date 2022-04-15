@@ -1,0 +1,17 @@
+CONTROL_RTS,VAR_0
+TIOCM_RTS,VAR_1
+send_control_msg,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+usb_get_serial_port_data,FUNC_3
+usb_translate_errors,FUNC_4
+opticon_tiocmset,FUNC_5
+tty,VAR_2
+set,VAR_3
+clear,VAR_4
+port,VAR_5
+priv,VAR_6
+flags,VAR_7
+rts,VAR_8
+changed,VAR_9
+ret,VAR_10

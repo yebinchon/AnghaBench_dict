@@ -1,0 +1,14 @@
+PS2DATA,VAR_0
+PS2STAT,VAR_1
+PS2STAT_TXE,VAR_2
+enable_irq,FUNC_0
+readl_relaxed,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel_relaxed,FUNC_4
+ps2_write,FUNC_5
+io,VAR_3
+val,VAR_4
+ps2if,VAR_5
+flags,VAR_6
+head,VAR_7

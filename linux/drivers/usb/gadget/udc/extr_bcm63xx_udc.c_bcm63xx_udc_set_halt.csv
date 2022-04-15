@@ -1,0 +1,10 @@
+bcm63xx_set_stall,FUNC_0
+our_ep,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+bcm63xx_udc_set_halt,FUNC_4
+ep,VAR_0
+value,VAR_1
+bep,VAR_2
+udc,VAR_3
+flags,VAR_4

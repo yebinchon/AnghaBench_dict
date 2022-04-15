@@ -1,0 +1,15 @@
+M_TTM_POOLMGR,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+NUM_PAGES_TO_ALLOC,VAR_3
+SMALL_ALLOCATION,VAR_4
+TTM_PAGE_FLAG_DMA32,VAR_5
+_manager,VAR_6
+malloc,FUNC_0
+printf,FUNC_1
+refcount_init,FUNC_2
+ttm_page_pool_init_locked,FUNC_3
+ttm_pool_mm_shrink_init,FUNC_4
+ttm_page_alloc_init,FUNC_5
+glob,VAR_7
+max_pages,VAR_8

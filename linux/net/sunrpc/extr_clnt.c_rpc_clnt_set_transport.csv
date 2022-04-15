@@ -1,0 +1,11 @@
+lockdep_is_held,FUNC_0
+rcu_assign_pointer,FUNC_1
+rcu_dereference_protected,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+xprt_bound,FUNC_5
+rpc_clnt_set_transport,FUNC_6
+clnt,VAR_0
+xprt,VAR_1
+timeout,VAR_2
+old,VAR_3

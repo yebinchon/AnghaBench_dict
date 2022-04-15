@@ -1,0 +1,16 @@
+AX_CMD_WRITE_MII_REG,VAR_0
+asix_set_hw_mii,FUNC_0
+asix_set_sw_mii,FUNC_1
+asix_write_cmd,FUNC_2
+cpu_to_le16,FUNC_3
+devdbg,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+netdev_priv,FUNC_7
+asix_mdio_write,FUNC_8
+netdev,VAR_1
+phy_id,VAR_2
+loc,VAR_3
+val,VAR_4
+dev,VAR_5
+res,VAR_6

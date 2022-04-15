@@ -1,0 +1,10 @@
+MACHINE_HAS_NX,VAR_0
+PAGE_MASK,VAR_1
+PAGE_SIZE,VAR_2
+SET_MEMORY_NX,VAR_3
+SET_MEMORY_X,VAR_4
+change_page_attr,FUNC_0
+__set_memory,FUNC_1
+addr,VAR_5
+numpages,VAR_6
+flags,VAR_7

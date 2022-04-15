@@ -1,0 +1,15 @@
+ADFS_DEFAULT_OTHER_MASK,VAR_0
+ADFS_DEFAULT_OWNER_MASK,VAR_1
+ADFS_SB,FUNC_0
+GLOBAL_ROOT_GID,VAR_2
+GLOBAL_ROOT_UID,VAR_3
+from_kgid_munged,FUNC_1
+from_kuid_munged,FUNC_2
+gid_eq,FUNC_3
+init_user_ns,VAR_4
+seq_printf,FUNC_4
+uid_eq,FUNC_5
+adfs_show_options,FUNC_6
+seq,VAR_5
+root,VAR_6
+asb,VAR_7

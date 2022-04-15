@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+FEC_ENET_RX_FRSIZE,VAR_1
+RX_RING_SIZE,VAR_2
+TX_RING_SIZE,VAR_3
+dev_kfree_skb,FUNC_0
+dma_unmap_single,FUNC_1
+kfree,FUNC_2
+netdev_priv,FUNC_3
+fec_enet_free_buffers,FUNC_4
+dev,VAR_4
+fep,VAR_5
+i,VAR_6
+skb,VAR_7
+bdp,VAR_8

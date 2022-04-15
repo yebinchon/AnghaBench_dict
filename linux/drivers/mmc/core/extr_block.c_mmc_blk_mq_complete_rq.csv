@@ -1,0 +1,16 @@
+BLK_STS_IOERR,VAR_0
+BLK_STS_OK,VAR_1
+MMC_MAX_RETRIES,VAR_2
+RQF_QUIET,VAR_3
+__blk_mq_end_request,FUNC_0
+blk_mq_end_request,FUNC_1
+blk_mq_requeue_request,FUNC_2
+blk_rq_bytes,FUNC_3
+blk_update_request,FUNC_4
+mmc_card_removed,FUNC_5
+req_to_mmc_queue_req,FUNC_6
+mmc_blk_mq_complete_rq,FUNC_7
+mq,VAR_4
+req,VAR_5
+mqrq,VAR_6
+nr_bytes,VAR_7

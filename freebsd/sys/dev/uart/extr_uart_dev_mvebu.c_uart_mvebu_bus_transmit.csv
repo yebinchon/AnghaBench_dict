@@ -1,0 +1,14 @@
+CTRL_INTR_MASK,VAR_0
+CTRL_TX_IDLE_INT,VAR_1
+UART_CTRL,VAR_2
+UART_TSH,VAR_3
+uart_barrier,FUNC_0
+uart_getreg,FUNC_1
+uart_lock,FUNC_2
+uart_setreg,FUNC_3
+uart_unlock,FUNC_4
+uart_mvebu_bus_transmit,FUNC_5
+sc,VAR_4
+bas,VAR_5
+i,VAR_6
+ctrl,VAR_7

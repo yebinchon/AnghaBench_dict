@@ -1,0 +1,17 @@
+DFLG_NO_CABLE,VAR_0
+LOOP_RESYNC_NEEDED,VAR_1
+MK_SYNC_ALL,VAR_2
+RESET_MARKER_NEEDED,VAR_3
+clear_bit,FUNC_0
+qla25xx_init_queues,FUNC_1
+qla2x00_fw_ready,FUNC_2
+qla2x00_init_rings,FUNC_3
+qla2x00_isp_firmware,FUNC_4
+qla2x00_marker,FUNC_5
+qla2x00_setup_chip,FUNC_6
+set_bit,FUNC_7
+stub1,FUNC_8
+qla2x00_restart_isp,FUNC_9
+vha,VAR_4
+status,VAR_5
+ha,VAR_6

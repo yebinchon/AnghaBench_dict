@@ -1,0 +1,12 @@
+WORK_OFFQ_POOL_NONE,VAR_0
+WORK_OFFQ_POOL_SHIFT,VAR_1
+WORK_STRUCT_PWQ,VAR_2
+WORK_STRUCT_WQ_DATA_MASK,VAR_3
+assert_rcu_or_pool_mutex,FUNC_0
+atomic_long_read,FUNC_1
+idr_find,FUNC_2
+worker_pool_idr,VAR_4
+get_work_pool,FUNC_3
+work,VAR_5
+data,VAR_6
+pool_id,VAR_7

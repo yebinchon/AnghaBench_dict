@@ -1,0 +1,7 @@
+SMI_ADDR_TSTCNTL,VAR_0
+TSTMODE_DISABLE,VAR_1
+TSTMODE_ENABLE,VAR_2
+phy_write,FUNC_0
+rockchip_init_tstmode,FUNC_1
+phydev,VAR_3
+ret,VAR_4

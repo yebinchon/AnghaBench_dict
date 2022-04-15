@@ -1,0 +1,15 @@
+CDNS_UART_CR,VAR_0
+CDNS_UART_CR_RX_DIS,VAR_1
+CDNS_UART_CR_TX_DIS,VAR_2
+CDNS_UART_IDR,VAR_3
+CDNS_UART_IMR,VAR_4
+CDNS_UART_ISR,VAR_5
+free_irq,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+cdns_uart_shutdown,FUNC_5
+port,VAR_6
+status,VAR_7
+flags,VAR_8

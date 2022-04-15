@@ -1,0 +1,13 @@
+CPU_FTR_HVMODE,VAR_0
+EINVAL,VAR_1
+LPID_RSVD,VAR_2
+MMU_FTR_LOCKLESS_TLBIE,VAR_3
+SPRN_LPID,VAR_4
+cpu_has_feature,FUNC_0
+kvmppc_claim_lpid,FUNC_1
+kvmppc_init_lpid,FUNC_2
+mfspr,FUNC_3
+mmu_has_feature,FUNC_4
+kvmppc_mmu_hv_init,FUNC_5
+host_lpid,VAR_5
+rsvd_lpid,VAR_6

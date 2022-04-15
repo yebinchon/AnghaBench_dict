@@ -1,0 +1,13 @@
+DMAR_ASSERT_LOCKED,FUNC_0
+KASSERT,FUNC_1
+cpu_spinwait,FUNC_2
+dmar_qi_advance_tail,FUNC_3
+dmar_qi_emit_wait_descr,FUNC_4
+dmar_qi_ensure,FUNC_5
+dmar_qi_seq_processed,FUNC_6
+dmar_qi_emit_wait_seq,FUNC_7
+unit,VAR_0
+pseq,VAR_1
+emit_wait,VAR_2
+gsec,VAR_3
+seq,VAR_4

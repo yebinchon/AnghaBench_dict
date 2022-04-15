@@ -1,0 +1,12 @@
+ECR_MODE_MASK,VAR_0
+ECR_MODE_PS2,VAR_1
+ECR_MODE_SPP,VAR_2
+ECR_SERVINTR,VAR_3
+ECR_nERRINTR,VAR_4
+parport_ip32_read_econtrol,FUNC_0
+parport_ip32_write_econtrol,FUNC_1
+parport_ip32_set_mode,FUNC_2
+p,VAR_5
+mode,VAR_6
+omode,VAR_7
+ecr,VAR_8

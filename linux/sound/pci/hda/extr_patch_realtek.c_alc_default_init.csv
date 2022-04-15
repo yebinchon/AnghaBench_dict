@@ -1,0 +1,13 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+AC_VERB_SET_PIN_WIDGET_CONTROL,VAR_1
+AMP_OUT_MUTE,VAR_2
+PIN_OUT,VAR_3
+alc_get_hp_pin,FUNC_0
+msleep,FUNC_1
+snd_hda_codec_write,FUNC_2
+snd_hda_jack_detect,FUNC_3
+alc_default_init,FUNC_4
+codec,VAR_4
+spec,VAR_5
+hp_pin,VAR_6
+hp_pin_sense,VAR_7

@@ -1,0 +1,16 @@
+KASSERT,FUNC_0
+MC_CTL2_CMCI_EN,VAR_0
+MC_CTL2_THRESHOLD,VAR_1
+MSR_MC_CTL2,FUNC_1
+PCPU_GET,FUNC_2
+PCPU_SET,FUNC_3
+cmc_state,VAR_2
+cmci_mask,VAR_3
+cpuid,VAR_4
+mca_banks,VAR_5
+rdmsr,FUNC_4
+wrmsr,FUNC_5
+cmci_monitor,FUNC_6
+i,VAR_6
+cc,VAR_7
+ctl,VAR_8

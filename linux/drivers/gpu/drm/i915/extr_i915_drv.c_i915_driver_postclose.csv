@@ -1,0 +1,11 @@
+i915_gem_context_close,FUNC_0
+i915_gem_flush_free_objects,FUNC_1
+i915_gem_release,FUNC_2
+kfree,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+to_i915,FUNC_6
+i915_driver_postclose,FUNC_7
+dev,VAR_0
+file,VAR_1
+file_priv,VAR_2

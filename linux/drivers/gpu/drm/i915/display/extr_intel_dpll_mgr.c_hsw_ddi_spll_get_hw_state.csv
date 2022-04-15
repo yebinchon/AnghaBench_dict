@@ -1,0 +1,12 @@
+I915_READ,FUNC_0
+POWER_DOMAIN_DISPLAY_CORE,VAR_0
+SPLL_CTL,VAR_1
+SPLL_PLL_ENABLE,VAR_2
+intel_display_power_get_if_enabled,FUNC_1
+intel_display_power_put,FUNC_2
+hsw_ddi_spll_get_hw_state,FUNC_3
+dev_priv,VAR_3
+pll,VAR_4
+hw_state,VAR_5
+wakeref,VAR_6
+val,VAR_7

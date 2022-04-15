@@ -1,0 +1,12 @@
+BCMA_CORE_PCI_SPROM,FUNC_0
+BCMA_CORE_PCI_SPROM_PI_MASK,VAR_0
+BCMA_CORE_PCI_SPROM_PI_OFFSET,VAR_1
+BCMA_CORE_PCI_SPROM_PI_SHIFT,VAR_2
+pcicore_read16,FUNC_1
+pcicore_write16,FUNC_2
+bcma_core_pci_fixcfg,FUNC_3
+pc,VAR_3
+core,VAR_4
+val16,VAR_5
+core_index,VAR_6
+regoff,VAR_7

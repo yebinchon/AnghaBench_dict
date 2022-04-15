@@ -1,0 +1,16 @@
+AssertArg,FUNC_0
+LW_EXCLUSIVE,VAR_0
+LW_LOCK_MASK,VAR_1
+LW_SHARED,VAR_2
+LW_VAL_EXCLUSIVE,VAR_3
+LW_VAL_SHARED,VAR_4
+MyProc,VAR_5
+pg_atomic_compare_exchange_u32,FUNC_1
+pg_atomic_read_u32,FUNC_2
+pg_unreachable,FUNC_3
+LWLockAttemptLock,FUNC_4
+lock,VAR_6
+mode,VAR_7
+old_state,VAR_8
+desired_state,VAR_9
+lock_free,VAR_10

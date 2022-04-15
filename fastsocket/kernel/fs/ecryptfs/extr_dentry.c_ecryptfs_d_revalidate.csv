@@ -1,0 +1,14 @@
+ecryptfs_dentry_to_lower,FUNC_0
+ecryptfs_dentry_to_lower_mnt,FUNC_1
+ecryptfs_inode_to_lower,FUNC_2
+fsstack_copy_attr_all,FUNC_3
+stub1,FUNC_4
+ecryptfs_d_revalidate,FUNC_5
+dentry,VAR_0
+nd,VAR_1
+lower_dentry,VAR_2
+lower_mnt,VAR_3
+dentry_save,VAR_4
+vfsmount_save,VAR_5
+rc,VAR_6
+lower_inode,VAR_7

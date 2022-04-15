@@ -1,0 +1,16 @@
+ERROR,FUNC_0
+USB_CTRL_SET_TIMEOUT,VAR_0
+USB_ENDPOINT_HALT,VAR_1
+USB_RECIP_ENDPOINT,VAR_2
+USB_REQ_SET_FEATURE,VAR_3
+usb_clear_halt,FUNC_1
+usb_control_msg,FUNC_2
+usb_sndctrlpipe,FUNC_3
+verify_halted,FUNC_4
+verify_not_halted,FUNC_5
+test_halt,FUNC_6
+tdev,VAR_4
+ep,VAR_5
+urb,VAR_6
+retval,VAR_7
+ret,VAR_8

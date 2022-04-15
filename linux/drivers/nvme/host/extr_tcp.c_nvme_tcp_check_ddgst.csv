@@ -1,0 +1,15 @@
+EPROTO,VAR_0
+NVME_TCP_F_DDGST,VAR_1
+NVME_TCP_F_HDGST,VAR_2
+crypto_ahash_init,FUNC_0
+dev_err,FUNC_1
+le32_to_cpu,FUNC_2
+nvme_tcp_hdgst_len,FUNC_3
+nvme_tcp_queue_id,FUNC_4
+unlikely,FUNC_5
+nvme_tcp_check_ddgst,FUNC_6
+queue,VAR_3
+pdu,VAR_4
+hdr,VAR_5
+digest_len,VAR_6
+len,VAR_7

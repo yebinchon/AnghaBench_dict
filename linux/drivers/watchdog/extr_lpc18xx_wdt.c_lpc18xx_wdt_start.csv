@@ -1,0 +1,13 @@
+LPC18XX_WDT_MOD,VAR_0
+LPC18XX_WDT_MOD_WDEN,VAR_1
+LPC18XX_WDT_MOD_WDRESET,VAR_2
+del_timer,FUNC_0
+lpc18xx_wdt_feed,FUNC_1
+readl,FUNC_2
+timer_pending,FUNC_3
+watchdog_get_drvdata,FUNC_4
+writel,FUNC_5
+lpc18xx_wdt_start,FUNC_6
+wdt_dev,VAR_3
+lpc18xx_wdt,VAR_4
+val,VAR_5

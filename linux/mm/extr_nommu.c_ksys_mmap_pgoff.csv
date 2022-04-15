@@ -1,0 +1,17 @@
+EBADF,VAR_0
+MAP_ANONYMOUS,VAR_1
+MAP_DENYWRITE,VAR_2
+MAP_EXECUTABLE,VAR_3
+audit_mmap_fd,FUNC_0
+fget,FUNC_1
+fput,FUNC_2
+vm_mmap_pgoff,FUNC_3
+ksys_mmap_pgoff,FUNC_4
+addr,VAR_4
+len,VAR_5
+prot,VAR_6
+flags,VAR_7
+fd,VAR_8
+pgoff,VAR_9
+file,VAR_10
+retval,VAR_11

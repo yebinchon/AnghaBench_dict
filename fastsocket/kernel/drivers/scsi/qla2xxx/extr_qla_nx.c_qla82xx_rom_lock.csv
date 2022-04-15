@@ -1,0 +1,16 @@
+PCIE_SEM2_LOCK,VAR_0
+QLA82XX_PCIE_REG,FUNC_0
+QLA82XX_ROM_LOCK_ID,VAR_1
+ROM_LOCK_DRIVER,VAR_2
+pci_get_drvdata,FUNC_1
+ql_dbg,FUNC_2
+ql_dbg_p3p,VAR_3
+qla82xx_rd_32,FUNC_3
+qla82xx_rom_lock_timeout,VAR_4
+qla82xx_wr_32,FUNC_4
+qla82xx_rom_lock,FUNC_5
+ha,VAR_5
+done,VAR_6
+timeout,VAR_7
+lock_owner,VAR_8
+vha,VAR_9

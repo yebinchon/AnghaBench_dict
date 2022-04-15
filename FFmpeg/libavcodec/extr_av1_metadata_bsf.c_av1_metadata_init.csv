@@ -1,0 +1,16 @@
+AV1_OBU_SEQUENCE_HEADER,VAR_0
+AV_CODEC_ID_AV1,VAR_1
+AV_LOG_ERROR,VAR_2
+av1_metadata_update_sequence_header,FUNC_0
+av_log,FUNC_1
+ff_cbs_fragment_reset,FUNC_2
+ff_cbs_init,FUNC_3
+ff_cbs_read_extradata,FUNC_4
+ff_cbs_write_extradata,FUNC_5
+av1_metadata_init,FUNC_6
+bsf,VAR_3
+ctx,VAR_4
+frag,VAR_5
+obu,VAR_6
+err,VAR_7
+i,VAR_8

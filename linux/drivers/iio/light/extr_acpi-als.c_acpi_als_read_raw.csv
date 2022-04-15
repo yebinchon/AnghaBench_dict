@@ -1,0 +1,17 @@
+ACPI_ALS_ILLUMINANCE,VAR_0
+EINVAL,VAR_1
+IIO_CHAN_INFO_PROCESSED,VAR_2
+IIO_CHAN_INFO_RAW,VAR_3
+IIO_LIGHT,VAR_4
+IIO_VAL_INT,VAR_5
+acpi_als_read_value,FUNC_0
+iio_priv,FUNC_1
+acpi_als_read_raw,FUNC_2
+indio_dev,VAR_6
+chan,VAR_7
+val,VAR_8
+val2,VAR_9
+mask,VAR_10
+als,VAR_11
+temp_val,VAR_12
+ret,VAR_13

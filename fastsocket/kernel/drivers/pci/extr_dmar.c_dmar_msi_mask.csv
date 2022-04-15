@@ -1,0 +1,11 @@
+DMAR_FECTL_REG,VAR_0
+DMA_FECTL_IM,VAR_1
+get_irq_data,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+dmar_msi_mask,FUNC_5
+irq,VAR_2
+flag,VAR_3
+iommu,VAR_4

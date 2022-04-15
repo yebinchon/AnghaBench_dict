@@ -1,0 +1,5 @@
+TSL4531_CONTROL,VAR_0
+TSL4531_MODE_POWERDOWN,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+tsl4531_powerdown,FUNC_1
+client,VAR_2

@@ -1,0 +1,16 @@
+CURSOR_IGNORE_DELETE,VAR_0
+CURSOR_IGNORE_SYSTEM,VAR_1
+LSM_OK,VAR_2
+assert,FUNC_0
+lsmMCursorClose,FUNC_1
+lsmTreeCursorDestroy,FUNC_2
+lsmTreeCursorNew,FUNC_3
+lsmTreeHasOld,FUNC_4
+multiCursorInit,FUNC_5
+multiCursorNew,FUNC_6
+lsmMCursorNew,FUNC_7
+pDb,VAR_3
+ppCsr,VAR_4
+pCsr,VAR_5
+rc,VAR_6
+bOld,VAR_7

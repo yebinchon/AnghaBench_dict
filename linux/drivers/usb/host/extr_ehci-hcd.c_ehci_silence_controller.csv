@@ -1,0 +1,9 @@
+EHCI_RH_HALTED,VAR_0
+ehci_halt,FUNC_0
+ehci_readl,FUNC_1
+ehci_turn_off_all_ports,FUNC_2
+ehci_writel,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+ehci_silence_controller,FUNC_6
+ehci,VAR_1

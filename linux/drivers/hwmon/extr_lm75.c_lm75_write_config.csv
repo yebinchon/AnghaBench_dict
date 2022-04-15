@@ -1,0 +1,9 @@
+LM75_REG_CONF,VAR_0
+LM75_SHUTDOWN,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+lm75_write_config,FUNC_1
+data,VAR_2
+set_mask,VAR_3
+clr_mask,VAR_4
+value,VAR_5
+err,VAR_6

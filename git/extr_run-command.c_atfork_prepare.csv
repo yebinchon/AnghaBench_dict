@@ -1,0 +1,11 @@
+CHECK_BUG,FUNC_0
+PTHREAD_CANCEL_DISABLE,VAR_0
+SIG_SETMASK,VAR_1
+die_errno,FUNC_1
+pthread_setcancelstate,FUNC_2
+pthread_sigmask,FUNC_3
+sigfillset,FUNC_4
+sigprocmask,FUNC_5
+atfork_prepare,FUNC_6
+as,VAR_2
+all,VAR_3

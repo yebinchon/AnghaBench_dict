@@ -1,0 +1,11 @@
+IFF_DRV_RUNNING,VAR_0
+LINK_STATE_DOWN,VAR_1
+LINK_STATE_UP,VAR_2
+Q8_LINK_STATE,VAR_3
+READ_REG32,FUNC_0
+atomic_store_rel_8,FUNC_1
+if_link_state_change,FUNC_2
+ql_update_link_state,FUNC_3
+ha,VAR_4
+link_state,VAR_5
+prev_link_state,VAR_6

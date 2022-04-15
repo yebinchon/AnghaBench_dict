@@ -1,0 +1,17 @@
+OWL_UART_STAT,VAR_0
+OWL_UART_STAT_TFFU,VAR_1
+OWL_UART_TXDAT,VAR_2
+SERIAL_XMIT_SIZE,VAR_3
+WAKEUP_CHARS,VAR_4
+cpu_relax,FUNC_0
+owl_uart_read,FUNC_1
+owl_uart_stop_tx,FUNC_2
+owl_uart_write,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_circ_empty,FUNC_5
+uart_tx_stopped,FUNC_6
+uart_write_wakeup,FUNC_7
+owl_uart_send_chars,FUNC_8
+port,VAR_5
+xmit,VAR_6
+ch,VAR_7

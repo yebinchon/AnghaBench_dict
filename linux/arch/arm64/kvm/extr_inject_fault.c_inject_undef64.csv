@@ -1,0 +1,17 @@
+ESR_EL1,VAR_0
+ESR_ELx_EC_SHIFT,VAR_1
+ESR_ELx_EC_UNKNOWN,VAR_2
+ESR_ELx_IL,VAR_3
+PSTATE_FAULT_BITS_64,VAR_4
+except_type_sync,VAR_5
+get_except_vector,FUNC_0
+kvm_vcpu_trap_il_is32bit,FUNC_1
+vcpu_cpsr,FUNC_2
+vcpu_pc,FUNC_3
+vcpu_write_elr_el1,FUNC_4
+vcpu_write_spsr,FUNC_5
+vcpu_write_sys_reg,FUNC_6
+inject_undef64,FUNC_7
+vcpu,VAR_6
+cpsr,VAR_7
+esr,VAR_8

@@ -1,0 +1,12 @@
+irq_data_get_irq_handler_data,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+sbus_writel,FUNC_3
+smp_processor_id,FUNC_4
+sun4m_irq_global,VAR_0
+sun4m_irq_percpu,VAR_1
+sun4m_mask_irq,FUNC_5
+data,VAR_2
+handler_data,VAR_3
+cpu,VAR_4
+flags,VAR_5

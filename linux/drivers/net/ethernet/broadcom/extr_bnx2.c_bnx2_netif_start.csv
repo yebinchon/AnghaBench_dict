@@ -1,0 +1,12 @@
+atomic_dec_and_test,FUNC_0
+bnx2_cnic_start,FUNC_1
+bnx2_enable_int,FUNC_2
+bnx2_napi_enable,FUNC_3
+netif_carrier_on,FUNC_4
+netif_running,FUNC_5
+netif_tx_wake_all_queues,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+bnx2_netif_start,FUNC_9
+bp,VAR_0
+start_cnic,VAR_1

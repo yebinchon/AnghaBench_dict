@@ -1,0 +1,17 @@
+UART_XMIT_SIZE,VAR_0
+UA_EMI_REC,VAR_1
+WAKEUP_CHARS,VAR_2
+digicolor_uart_stop_tx,FUNC_0
+digicolor_uart_tx_full,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_circ_empty,FUNC_5
+uart_tx_stopped,FUNC_6
+uart_write_wakeup,FUNC_7
+writeb,FUNC_8
+writeb_relaxed,FUNC_9
+digicolor_uart_tx,FUNC_10
+port,VAR_3
+xmit,VAR_4
+flags,VAR_5

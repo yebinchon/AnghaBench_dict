@@ -1,0 +1,10 @@
+apply_stream_frame,FUNC_0
+assert,FUNC_1
+quicly_decode_crypto_frame,FUNC_2
+quicly_get_stream,FUNC_3
+handle_crypto_frame,FUNC_4
+conn,VAR_0
+state,VAR_1
+frame,VAR_2
+stream,VAR_3
+ret,VAR_4

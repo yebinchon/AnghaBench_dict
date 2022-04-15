@@ -1,0 +1,14 @@
+TB_CFG_PKG_XDOMAIN_RESP,VAR_0
+UUID_RESPONSE,VAR_1
+__tb_xdomain_response,FUNC_0
+lower_32_bits,FUNC_1
+memset,FUNC_2
+tb_xdp_fill_header,FUNC_3
+upper_32_bits,FUNC_4
+uuid_copy,FUNC_5
+tb_xdp_uuid_response,FUNC_6
+ctl,VAR_2
+route,VAR_3
+sequence,VAR_4
+uuid,VAR_5
+res,VAR_6

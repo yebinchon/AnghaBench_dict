@@ -1,0 +1,15 @@
+ECHO,VAR_0
+ICANON,VAR_1
+TCSANOW,VAR_2
+VMIN,VAR_3
+VTIME,VAR_4
+enable_kx,FUNC_0
+getch2_active,VAR_5
+read_terminal,VAR_6
+tcgetattr,FUNC_1
+tcsetattr,FUNC_2
+tio_orig,VAR_7
+tio_orig_set,VAR_8
+tty_in,VAR_9
+do_activate_getch2,FUNC_3
+tio_new,VAR_10

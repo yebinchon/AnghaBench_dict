@@ -1,0 +1,14 @@
+INVALID_PAGE,VAR_0
+PT32E_ROOT_LEVEL,VAR_1
+PT32_ROOT_LEVEL,VAR_2
+paging32_gva_to_gpa,VAR_3
+paging32_invlpg,VAR_4
+paging32_page_fault,VAR_5
+paging32_prefetch_page,VAR_6
+paging32_sync_page,VAR_7
+paging_free,VAR_8
+paging_new_cr3,VAR_9
+reset_rsvds_bits_mask,FUNC_0
+paging32_init_context,FUNC_1
+vcpu,VAR_10
+context,VAR_11

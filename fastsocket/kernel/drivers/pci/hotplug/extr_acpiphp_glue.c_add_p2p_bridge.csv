@@ -1,0 +1,14 @@
+BRIDGE_TYPE_P2P,VAR_0
+GFP_KERNEL,VAR_1
+acpi_get_pci_dev,FUNC_0
+config_p2p_bridge_flags,FUNC_1
+err,FUNC_2
+get_device,FUNC_3
+init_bridge_misc,FUNC_4
+kfree,FUNC_5
+kzalloc,FUNC_6
+pci_dev_put,FUNC_7
+spin_lock_init,FUNC_8
+add_p2p_bridge,FUNC_9
+handle,VAR_2
+bridge,VAR_3

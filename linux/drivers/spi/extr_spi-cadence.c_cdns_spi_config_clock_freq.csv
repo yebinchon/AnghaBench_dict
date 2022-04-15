@@ -1,0 +1,16 @@
+CDNS_SPI_BAUD_DIV_MAX,VAR_0
+CDNS_SPI_BAUD_DIV_MIN,VAR_1
+CDNS_SPI_BAUD_DIV_SHIFT,VAR_2
+CDNS_SPI_CR,VAR_3
+CDNS_SPI_CR_BAUD_DIV,VAR_4
+cdns_spi_read,FUNC_0
+cdns_spi_write,FUNC_1
+clk_get_rate,FUNC_2
+spi_master_get_devdata,FUNC_3
+cdns_spi_config_clock_freq,FUNC_4
+spi,VAR_5
+transfer,VAR_6
+xspi,VAR_7
+ctrl_reg,VAR_8
+baud_rate_val,VAR_9
+frequency,VAR_10

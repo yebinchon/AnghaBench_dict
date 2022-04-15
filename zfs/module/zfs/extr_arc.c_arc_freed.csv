@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+BP_IS_EMBEDDED,FUNC_1
+HDR_HAS_L1HDR,FUNC_2
+HDR_IO_IN_PROGRESS,FUNC_3
+arc_anon,VAR_0
+arc_change_state,FUNC_4
+arc_hdr_destroy,FUNC_5
+buf_hash_find,FUNC_6
+mutex_exit,FUNC_7
+spa_load_guid,FUNC_8
+zfs_refcount_is_zero,FUNC_9
+arc_freed,FUNC_10
+spa,VAR_1
+bp,VAR_2
+hdr,VAR_3
+hash_lock,VAR_4
+guid,VAR_5

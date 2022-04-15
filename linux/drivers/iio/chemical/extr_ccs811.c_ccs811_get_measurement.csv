@@ -1,0 +1,11 @@
+CCS811_ALG_RESULT_DATA,VAR_0
+CCS811_STATUS,VAR_1
+CCS811_STATUS_DATA_READY,VAR_2
+EIO,VAR_3
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_read_i2c_block_data,FUNC_1
+msleep,FUNC_2
+ccs811_get_measurement,FUNC_3
+data,VAR_4
+ret,VAR_5
+tries,VAR_6

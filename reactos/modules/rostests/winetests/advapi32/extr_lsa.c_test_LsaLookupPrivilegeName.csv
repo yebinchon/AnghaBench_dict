@@ -1,0 +1,15 @@
+LsaFreeMemory,FUNC_0
+LsaLookupPrivilegeName,FUNC_1
+LsaOpenPolicy,FUNC_2
+POLICY_LOOKUP_NAMES,VAR_0
+SE_CREATE_TOKEN_PRIVILEGE,VAR_1
+STATUS_NO_SUCH_PRIVILEGE,VAR_2
+STATUS_SUCCESS,VAR_3
+memset,FUNC_3
+ok,FUNC_4
+test_LsaLookupPrivilegeName,FUNC_5
+attrs,VAR_4
+name,VAR_5
+policy,VAR_6
+status,VAR_7
+luid,VAR_8

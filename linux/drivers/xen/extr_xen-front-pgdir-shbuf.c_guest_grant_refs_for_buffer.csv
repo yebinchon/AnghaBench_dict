@@ -1,0 +1,10 @@
+gnttab_claim_grant_reference,FUNC_0
+gnttab_grant_foreign_access_ref,FUNC_1
+xen_page_to_gfn,FUNC_2
+guest_grant_refs_for_buffer,FUNC_3
+buf,VAR_0
+priv_gref_head,VAR_1
+gref_idx,VAR_2
+i,VAR_3
+cur_ref,VAR_4
+otherend_id,VAR_5

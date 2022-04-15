@@ -1,0 +1,15 @@
+nand_soft_waitrdy,FUNC_0
+stm32_fmc2_read_data,FUNC_1
+stm32_fmc2_select_chip,FUNC_2
+stm32_fmc2_write_data,FUNC_3
+to_stm32_nfc,FUNC_4
+writeb_relaxed,FUNC_5
+stm32_fmc2_exec_op,FUNC_6
+chip,VAR_0
+op,VAR_1
+check_only,VAR_2
+fmc2,VAR_3
+instr,VAR_4
+op_id,VAR_5
+i,VAR_6
+ret,VAR_7

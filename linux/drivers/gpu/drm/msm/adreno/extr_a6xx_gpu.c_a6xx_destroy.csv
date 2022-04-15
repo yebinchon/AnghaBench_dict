@@ -1,0 +1,11 @@
+a6xx_gmu_remove,FUNC_0
+adreno_gpu_cleanup,FUNC_1
+drm_gem_object_put_unlocked,FUNC_2
+kfree,FUNC_3
+msm_gem_unpin_iova,FUNC_4
+to_a6xx_gpu,FUNC_5
+to_adreno_gpu,FUNC_6
+a6xx_destroy,FUNC_7
+gpu,VAR_0
+adreno_gpu,VAR_1
+a6xx_gpu,VAR_2

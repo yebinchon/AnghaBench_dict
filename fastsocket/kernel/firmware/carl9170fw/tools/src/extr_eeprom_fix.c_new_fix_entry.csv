@@ -1,0 +1,14 @@
+CARL9170FW_FIX_DESC_CUR_VER,VAR_0
+CARL9170FW_FIX_DESC_MIN_VER,VAR_1
+ENOMEM,VAR_2
+FIX_MAGIC,VAR_3
+carl9170fw_fill_desc,FUNC_0
+carlfw_desc_add_tail,FUNC_1
+cpu_to_le16,FUNC_2
+malloc,FUNC_3
+memcpy,FUNC_4
+new_fix_entry,FUNC_5
+fw,VAR_4
+fix_entry,VAR_5
+fix,VAR_6
+len,VAR_7

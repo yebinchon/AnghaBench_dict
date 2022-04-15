@@ -1,0 +1,17 @@
+PIC_CLOCK_TIMER,VAR_0
+XLP_IO_CLK,VAR_1
+XLP_PCI_DEVINFO_REG0,VAR_2
+nlm_get_pic_pcibase,FUNC_0
+nlm_get_pic_regbase,FUNC_1
+nlm_nodeid,FUNC_2
+nlm_pic_set_timer,FUNC_3
+nlm_pic_write_irt,FUNC_4
+nlm_read_reg,FUNC_5
+platform_get_timecount,VAR_3
+platform_timecounter,VAR_4
+printf,FUNC_6
+xlp_pic_base,VAR_5
+xlp_pic_init,FUNC_7
+pic_timecounter,VAR_6
+i,VAR_7
+maxirt,VAR_8

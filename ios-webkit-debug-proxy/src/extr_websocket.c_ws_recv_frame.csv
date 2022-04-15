@@ -1,0 +1,15 @@
+OPCODE_CLOSE,VAR_0
+OPCODE_CONTINUATION,VAR_1
+STATE_CLOSED,VAR_2
+STATE_ERROR,VAR_3
+STATE_READ_FRAME_LENGTH,VAR_4
+cb_clear,FUNC_0
+stub1,FUNC_1
+ws_read_frame,FUNC_2
+ws_recv_frame,FUNC_3
+self,VAR_5
+my,VAR_6
+is_fin,VAR_7
+opcode,VAR_8
+is_masking,VAR_9
+should_keep,VAR_10

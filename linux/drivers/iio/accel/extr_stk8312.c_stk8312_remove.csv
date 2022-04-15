@@ -1,0 +1,11 @@
+STK8312_MODE_STANDBY,VAR_0
+i2c_get_clientdata,FUNC_0
+iio_device_unregister,FUNC_1
+iio_priv,FUNC_2
+iio_trigger_unregister,FUNC_3
+iio_triggered_buffer_cleanup,FUNC_4
+stk8312_set_mode,FUNC_5
+stk8312_remove,FUNC_6
+client,VAR_1
+indio_dev,VAR_2
+data,VAR_3

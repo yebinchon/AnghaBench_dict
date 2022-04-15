@@ -1,0 +1,11 @@
+MLX4_MPT_PD_FLAG_EN_INV,VAR_0
+MLX4_MPT_PD_MASK,VAR_1
+MLX4_MPT_PD_VF_MASK,VAR_2
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+mlx4_is_mfunc,FUNC_2
+mlx4_mr_hw_change_pd,FUNC_3
+dev,VAR_3
+mpt_entry,VAR_4
+pdn,VAR_5
+pd_flags,VAR_6

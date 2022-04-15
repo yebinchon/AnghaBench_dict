@@ -1,0 +1,13 @@
+ALL_CRLF_TEXT_AS_CRLF,VAR_0
+ALL_CRLF_TEXT_RAW,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_2
+git_blob_filter,FUNC_2
+git_blob_free,FUNC_3
+git_blob_rawcontent,FUNC_4
+git_buf_dispose,FUNC_5
+git_revparse_single,FUNC_6
+test_filter_blob__all_crlf,FUNC_7
+blob,VAR_3
+buf,VAR_4

@@ -1,0 +1,10 @@
+BFI_MC_MSGQ,VAR_0
+BFI_MSGQ_H2I_DOORBELL_PI,VAR_1
+bfa_msgq_cmdq_dbell_ready,FUNC_0
+bfa_nw_ioc_mbox_queue,FUNC_1
+bfi_h2i_set,FUNC_2
+htons,FUNC_3
+memset,FUNC_4
+bfa_msgq_cmdq_dbell,FUNC_5
+cmdq,VAR_2
+dbell,VAR_3

@@ -1,0 +1,15 @@
+AC_PWRST_ACTUAL,VAR_0
+AC_PWRST_ACTUAL_SHIFT,VAR_1
+AC_PWRST_D0,VAR_2
+AC_VERB_GET_POWER_STATE,VAR_3
+AC_VERB_SET_POWER_STATE,VAR_4
+codec_dbg,FUNC_0
+msleep,FUNC_1
+snd_hda_check_power_state,FUNC_2
+snd_hda_codec_read,FUNC_3
+snd_hda_codec_write,FUNC_4
+haswell_verify_D0,FUNC_5
+codec,VAR_5
+cvt_nid,VAR_6
+nid,VAR_7
+pwr,VAR_8

@@ -1,0 +1,15 @@
+LL_RESERVED_SPACE,FUNC_0
+RCV_SHUTDOWN,VAR_0
+SEND_SHUTDOWN,VAR_1
+afiucv_hs_send,FUNC_1
+iucv_sk,FUNC_2
+skb_reserve,FUNC_3
+sock_alloc_send_skb,FUNC_4
+iucv_send_ctrl,FUNC_5
+sk,VAR_2
+flags,VAR_3
+iucv,VAR_4
+err,VAR_5
+blen,VAR_6
+skb,VAR_7
+shutdown,VAR_8

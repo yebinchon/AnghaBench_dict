@@ -1,0 +1,16 @@
+OFDPA_INTERNAL_VLAN_ID_BASE,VAR_0
+clear_bit,FUNC_0
+hash_del,FUNC_1
+kfree,FUNC_2
+netdev_err,FUNC_3
+ntohs,FUNC_4
+ofdpa_internal_vlan_tbl_find,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+ofdpa_port_internal_vlan_id_put,FUNC_8
+ofdpa_port,VAR_1
+ifindex,VAR_2
+ofdpa,VAR_3
+found,VAR_4
+lock_flags,VAR_5
+bit,VAR_6

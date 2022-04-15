@@ -1,0 +1,17 @@
+ALTERA_SPI_CONTROL,VAR_0
+ALTERA_SPI_CONTROL_IRRDY_MSK,VAR_1
+ALTERA_SPI_STATUS,VAR_2
+ALTERA_SPI_STATUS_RRDY_MSK,VAR_3
+DIV_ROUND_UP,FUNC_0
+altera_spi_rx_word,FUNC_1
+altera_spi_tx_word,FUNC_2
+cpu_relax,FUNC_3
+readl,FUNC_4
+spi_finalize_current_transfer,FUNC_5
+spi_master_get_devdata,FUNC_6
+writel,FUNC_7
+altera_spi_txrx,FUNC_8
+master,VAR_4
+spi,VAR_5
+t,VAR_6
+hw,VAR_7

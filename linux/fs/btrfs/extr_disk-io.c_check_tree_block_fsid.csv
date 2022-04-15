@@ -1,0 +1,13 @@
+BTRFS_FSID_SIZE,VAR_0
+METADATA_UUID,VAR_1
+btrfs_fs_incompat,FUNC_0
+btrfs_header_fsid,FUNC_1
+memcmp,FUNC_2
+read_extent_buffer,FUNC_3
+check_tree_block_fsid,FUNC_4
+eb,VAR_2
+fs_info,VAR_3
+fs_devices,VAR_4
+fsid,VAR_5
+ret,VAR_6
+metadata_uuid,VAR_7

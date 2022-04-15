@@ -1,0 +1,15 @@
+TAILQ_REMOVE,FUNC_0
+lck_mtx_destroy,FUNC_1
+lck_mtx_lock,FUNC_2
+lck_mtx_unlock,FUNC_3
+lck_rw_destroy,FUNC_4
+mbuf_freem_list,FUNC_5
+utun_chain,VAR_0
+utun_head,VAR_1
+utun_lck_grp,VAR_2
+utun_lock,VAR_3
+utun_pcb_zone,VAR_4
+zfree,FUNC_6
+utun_free_pcb,FUNC_7
+pcb,VAR_5
+in_list,VAR_6

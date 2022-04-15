@@ -1,0 +1,15 @@
+MA_OWNED,VAR_0
+MFI_CMD_TBOLT,VAR_1
+MFI_ON_MFIQ_BUSY,VAR_2
+MFI_ON_MFIQ_MASK,VAR_3
+MFI_ON_MFIQ_READY,VAR_4
+mfi_enqueue_free,FUNC_0
+mfi_remove_busy,FUNC_1
+mfi_remove_ready,FUNC_2
+mfi_tbolt_return_cmd,FUNC_3
+mtx_assert,FUNC_4
+panic,FUNC_5
+mfi_release_command,FUNC_6
+cm,VAR_5
+hdr,VAR_6
+hdr_data,VAR_7

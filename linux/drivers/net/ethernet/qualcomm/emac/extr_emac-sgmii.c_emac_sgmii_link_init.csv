@@ -1,0 +1,10 @@
+AN_ENABLE,VAR_0
+EMAC_SGMII_PHY_AUTONEG_CFG2,VAR_1
+FORCE_AN_RX_CFG,VAR_2
+FORCE_AN_TX_CFG,VAR_3
+readl,FUNC_0
+writel,FUNC_1
+emac_sgmii_link_init,FUNC_2
+adpt,VAR_4
+phy,VAR_5
+val,VAR_6

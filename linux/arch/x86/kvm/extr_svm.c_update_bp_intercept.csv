@@ -1,0 +1,9 @@
+BP_VECTOR,VAR_0
+KVM_GUESTDBG_ENABLE,VAR_1
+KVM_GUESTDBG_USE_SW_BP,VAR_2
+clr_exception_intercept,FUNC_0
+set_exception_intercept,FUNC_1
+to_svm,FUNC_2
+update_bp_intercept,FUNC_3
+vcpu,VAR_3
+svm,VAR_4

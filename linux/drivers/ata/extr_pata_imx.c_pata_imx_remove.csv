@@ -1,0 +1,9 @@
+PATA_IMX_ATA_INT_EN,VAR_0
+__raw_writel,FUNC_0
+ata_host_detach,FUNC_1
+clk_disable_unprepare,FUNC_2
+platform_get_drvdata,FUNC_3
+pata_imx_remove,FUNC_4
+pdev,VAR_1
+host,VAR_2
+priv,VAR_3

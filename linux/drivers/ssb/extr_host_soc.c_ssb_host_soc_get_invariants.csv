@@ -1,0 +1,14 @@
+SSB_BOARDVENDOR_BCM,VAR_0
+bcm47xx_nvram_getenv,FUNC_0
+kstrtou16,FUNC_1
+memset,FUNC_2
+pr_warn,FUNC_3
+simple_strtoul,FUNC_4
+ssb_fill_sprom_with_fallback,FUNC_5
+strim,FUNC_6
+ssb_host_soc_get_invariants,FUNC_7
+bus,VAR_1
+iv,VAR_2
+buf,VAR_3
+len,VAR_4
+err,VAR_5

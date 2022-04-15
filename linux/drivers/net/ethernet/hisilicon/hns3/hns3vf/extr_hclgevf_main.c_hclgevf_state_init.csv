@@ -1,0 +1,15 @@
+HCLGEVF_STATE_DOWN,VAR_0
+HCLGEVF_STATE_MBX_HANDLING,VAR_1
+HCLGEVF_STATE_MBX_SERVICE_SCHED,VAR_2
+HCLGEVF_STATE_SERVICE_SCHED,VAR_3
+INIT_WORK,FUNC_0
+clear_bit,FUNC_1
+hclgevf_mailbox_service_task,VAR_4
+hclgevf_reset_service_task,VAR_5
+hclgevf_service_task,VAR_6
+hclgevf_service_timer,VAR_7
+mutex_init,FUNC_2
+set_bit,FUNC_3
+timer_setup,FUNC_4
+hclgevf_state_init,FUNC_5
+hdev,VAR_8

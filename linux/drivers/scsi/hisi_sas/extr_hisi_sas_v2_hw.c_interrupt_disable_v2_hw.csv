@@ -1,0 +1,15 @@
+CHL_INT1_MSK,VAR_0
+CHL_INT2_MSK,VAR_1
+ENT_INT_SRC_MSK1,VAR_2
+ENT_INT_SRC_MSK2,VAR_3
+ENT_INT_SRC_MSK3,VAR_4
+OQ0_INT_SRC_MSK,VAR_5
+SAS_ECC_INTR_MSK,VAR_6
+hisi_sas_phy_write32,FUNC_0
+hisi_sas_write32,FUNC_1
+platform_get_irq,FUNC_2
+synchronize_irq,FUNC_3
+interrupt_disable_v2_hw,FUNC_4
+hisi_hba,VAR_7
+pdev,VAR_8
+i,VAR_9

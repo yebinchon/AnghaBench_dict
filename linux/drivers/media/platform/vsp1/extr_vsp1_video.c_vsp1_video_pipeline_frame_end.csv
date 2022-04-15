@@ -1,0 +1,17 @@
+VSP1_DL_FRAME_END_COMPLETED,VAR_0
+VSP1_PIPELINE_STOPPED,VAR_1
+VSP1_PIPELINE_STOPPING,VAR_2
+WARN_ON_ONCE,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+vsp1_pipeline_ready,FUNC_3
+vsp1_video_frame_end,FUNC_4
+vsp1_video_pipeline_run,FUNC_5
+wake_up,FUNC_6
+vsp1_video_pipeline_frame_end,FUNC_7
+pipe,VAR_3
+completion,VAR_4
+vsp1,VAR_5
+state,VAR_6
+flags,VAR_7
+i,VAR_8

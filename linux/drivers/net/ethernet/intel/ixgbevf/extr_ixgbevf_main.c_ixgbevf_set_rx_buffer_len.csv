@@ -1,0 +1,14 @@
+ETH_FCS_LEN,VAR_0
+ETH_HLEN,VAR_1
+IXGBEVF_FLAGS_LEGACY_RX,VAR_2
+IXGBEVF_MAX_FRAME_BUILD_SKB,VAR_3
+PAGE_SIZE,VAR_4
+clear_ring_build_skb_enabled,FUNC_0
+clear_ring_uses_large_buffer,FUNC_1
+set_ring_build_skb_enabled,FUNC_2
+set_ring_uses_large_buffer,FUNC_3
+ixgbevf_set_rx_buffer_len,FUNC_4
+adapter,VAR_5
+rx_ring,VAR_6
+netdev,VAR_7
+max_frame,VAR_8

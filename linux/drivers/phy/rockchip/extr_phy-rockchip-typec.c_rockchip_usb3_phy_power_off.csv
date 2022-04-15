@@ -1,0 +1,11 @@
+MODE_DFP_USB,VAR_0
+MODE_DISCONNECT,VAR_1
+MODE_UFP_USB,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+phy_get_drvdata,FUNC_2
+tcphy_cfg_usb3_to_usb2_only,FUNC_3
+tcphy_phy_deinit,FUNC_4
+rockchip_usb3_phy_power_off,FUNC_5
+phy,VAR_3
+tcphy,VAR_4

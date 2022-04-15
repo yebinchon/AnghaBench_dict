@@ -1,0 +1,17 @@
+IB_PORT_ACTIVE,VAR_0
+IB_PORT_PHYS_STATE_DISABLED,VAR_1
+IB_PORT_PHYS_STATE_LINK_UP,VAR_2
+IB_PORT_PHYS_STATE_POLLING,VAR_3
+IFF_UP,VAR_4
+dev_get_flags,FUNC_0
+ib_get_eth_speed,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_rdev,FUNC_4
+rxe_query_port,FUNC_5
+dev,VAR_5
+port_num,VAR_6
+attr,VAR_7
+rxe,VAR_8
+port,VAR_9
+rc,VAR_10

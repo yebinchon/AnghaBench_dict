@@ -1,0 +1,17 @@
+LSM_OK,VAR_0
+assert,FUNC_0
+fsAppendData,FUNC_1
+fsLastPageOnPagesBlock,FUNC_2
+fsPageToBlock,FUNC_3
+memset,FUNC_4
+putRecordSize,FUNC_5
+lsmFsSortedPadding,FUNC_6
+pFS,VAR_1
+pSnapshot,VAR_2
+pSeg,VAR_3
+rc,VAR_4
+iLast2,VAR_5
+iLast,VAR_6
+nPad,VAR_7
+aSz,VAR_8
+aBuf,VAR_9

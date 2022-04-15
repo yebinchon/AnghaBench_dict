@@ -1,0 +1,14 @@
+EPIPE,VAR_0
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_1
+get_fmt,VAR_2
+v4l2_subdev_call,FUNC_0
+video_find_format,FUNC_1
+video_mbus_to_pix_mp,FUNC_2
+video_remote_subdev,FUNC_3
+video_get_subdev_format,FUNC_4
+video,VAR_3
+format,VAR_4
+fmt,VAR_5
+subdev,VAR_6
+pad,VAR_7
+ret,VAR_8

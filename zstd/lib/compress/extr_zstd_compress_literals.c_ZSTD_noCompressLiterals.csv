@@ -1,0 +1,14 @@
+MEM_writeLE16,FUNC_0
+MEM_writeLE32,FUNC_1
+RETURN_ERROR_IF,FUNC_2
+assert,FUNC_3
+dstSize_tooSmall,VAR_0
+memcpy,FUNC_4
+set_basic,VAR_1
+ZSTD_noCompressLiterals,FUNC_5
+dst,VAR_2
+dstCapacity,VAR_3
+src,VAR_4
+srcSize,VAR_5
+ostart,VAR_6
+flSize,VAR_7

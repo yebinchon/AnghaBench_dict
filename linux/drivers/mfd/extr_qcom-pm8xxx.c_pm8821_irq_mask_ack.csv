@@ -1,0 +1,16 @@
+BIT,FUNC_0
+PM8821_BLOCKS_PER_MASTER,VAR_0
+PM8821_SSBI_ADDR_IRQ_CLEAR,FUNC_1
+PM8821_SSBI_ADDR_IRQ_MASK,FUNC_2
+irq_data_get_irq_chip_data,FUNC_3
+irqd_to_hwirq,FUNC_4
+pr_err,FUNC_5
+regmap_update_bits,FUNC_6
+pm8821_irq_mask_ack,FUNC_7
+d,VAR_1
+chip,VAR_2
+pmirq,VAR_3
+block,VAR_4
+master,VAR_5
+irq_bit,VAR_6
+rc,VAR_7

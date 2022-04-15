@@ -1,0 +1,17 @@
+LSM_MISUSE,VAR_0
+LSM_OK,VAR_1
+assert,FUNC_0
+assertRwclientLockValue,FUNC_1
+getFullpathname,FUNC_2
+lsmCheckpointBlksz,FUNC_3
+lsmCheckpointLoad,FUNC_4
+lsmCheckpointPgsz,FUNC_5
+lsmDbDatabaseConnect,FUNC_6
+lsmFree,FUNC_7
+lsmFsSetBlockSize,FUNC_8
+lsmFsSetPageSize,FUNC_9
+lsm_open,FUNC_10
+pDb,VAR_2
+zFilename,VAR_3
+rc,VAR_4
+zFull,VAR_5

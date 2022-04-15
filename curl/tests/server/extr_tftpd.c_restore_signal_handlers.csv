@@ -1,0 +1,13 @@
+SIGBREAK,VAR_0
+SIGHUP,VAR_1
+SIGINT,VAR_2
+SIGPIPE,VAR_3
+SIGTERM,VAR_4
+SIG_ERR,VAR_5
+old_sigbreak_handler,VAR_6
+old_sighup_handler,VAR_7
+old_sigint_handler,VAR_8
+old_sigpipe_handler,VAR_9
+old_sigterm_handler,VAR_10
+signal,FUNC_0
+restore_signal_handlers,FUNC_1

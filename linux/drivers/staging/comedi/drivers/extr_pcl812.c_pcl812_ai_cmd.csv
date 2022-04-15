@@ -1,0 +1,17 @@
+CMDF_WAKE_EOS,VAR_0
+PCL812_CTRL_PACER_DMA_TRIG,VAR_1
+PCL812_CTRL_PACER_EOC_TRIG,VAR_2
+PCL812_CTRL_REG,VAR_3
+comedi_8254_pacer_enable,FUNC_0
+comedi_8254_update_divisors,FUNC_1
+outb,FUNC_2
+pcl812_ai_set_chan_range,FUNC_3
+pcl812_ai_setup_dma,FUNC_4
+pcl812_ai_cmd,FUNC_5
+dev,VAR_4
+s,VAR_5
+devpriv,VAR_6
+dma,VAR_7
+cmd,VAR_8
+ctrl,VAR_9
+i,VAR_10

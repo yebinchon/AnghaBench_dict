@@ -1,0 +1,11 @@
+SYS_RES_IOPORT,VAR_0
+bus_generic_detach,FUNC_0
+bus_release_resource,FUNC_1
+destroy_dev,FUNC_2
+device_delete_children,FUNC_3
+device_get_softc,FUNC_4
+mtx_destroy,FUNC_5
+superio_detach,FUNC_6
+dev,VAR_1
+sc,VAR_2
+error,VAR_3

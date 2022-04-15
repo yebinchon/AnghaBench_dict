@@ -1,0 +1,11 @@
+UHF_PORT_U1_TIMEOUT,VAR_0
+UR_SET_FEATURE,VAR_1
+USETW,FUNC_0
+UT_WRITE_CLASS_OTHER,VAR_2
+usbd_do_request,FUNC_1
+usbd_req_set_hub_u1_timeout,FUNC_2
+udev,VAR_3
+mtx,VAR_4
+port,VAR_5
+timeout,VAR_6
+req,VAR_7

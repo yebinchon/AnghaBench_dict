@@ -1,0 +1,15 @@
+MMC_POWER_OFF,VAR_0
+SDHCI_INTEL_PWR_TIMEOUT_CNT,VAR_1
+SDHCI_INTEL_PWR_TIMEOUT_UDELAY,VAR_2
+SDHCI_POWER_CONTROL,VAR_3
+SDHCI_POWER_ON,VAR_4
+sdhci_readb,FUNC_0
+sdhci_set_power,FUNC_1
+sdhci_writeb,FUNC_2
+udelay,FUNC_3
+sdhci_intel_set_power,FUNC_4
+host,VAR_5
+mode,VAR_6
+vdd,VAR_7
+cntr,VAR_8
+reg,VAR_9

@@ -1,0 +1,14 @@
+CONFIGFS_ITEM_BIN_ATTR,VAR_0
+I_MUTEX_NORMAL,VAR_1
+S_IALLUGO,VAR_2
+S_IFREG,VAR_3
+configfs_make_dirent,FUNC_0
+inode_lock_nested,FUNC_1
+inode_unlock,FUNC_2
+configfs_create_bin_file,FUNC_3
+item,VAR_4
+bin_attr,VAR_5
+dir,VAR_6
+parent_sd,VAR_7
+mode,VAR_8
+error,VAR_9

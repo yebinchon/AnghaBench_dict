@@ -1,0 +1,13 @@
+HCLGE_OPC_QUERY_FUNC_STATUS,VAR_0
+HCLGE_QUERY_MAX_CNT,VAR_1
+dev_err,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hclge_parse_func_status,FUNC_3
+usleep_range,FUNC_4
+hclge_query_function_status,FUNC_5
+hdev,VAR_2
+req,VAR_3
+desc,VAR_4
+timeout,VAR_5
+ret,VAR_6

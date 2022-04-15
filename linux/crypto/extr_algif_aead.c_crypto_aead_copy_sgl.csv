@@ -1,0 +1,12 @@
+CRYPTO_TFM_REQ_MAY_BACKLOG,VAR_0
+SYNC_SKCIPHER_REQUEST_ON_STACK,FUNC_0
+crypto_skcipher_encrypt,FUNC_1
+skcipher_request_set_callback,FUNC_2
+skcipher_request_set_crypt,FUNC_3
+skcipher_request_set_sync_tfm,FUNC_4
+skreq,VAR_1
+crypto_aead_copy_sgl,FUNC_5
+null_tfm,VAR_2
+src,VAR_3
+dst,VAR_4
+len,VAR_5

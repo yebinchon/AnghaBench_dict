@@ -1,0 +1,15 @@
+CTDP_CMD_OPERATION_STOP,VAR_0
+EIO,VAR_1
+EOPNOTSUPP,VAR_2
+IWL_UCODE_REGULAR,VAR_3
+iwl_mvm_ctdp_command,FUNC_0
+iwl_mvm_firmware_running,FUNC_1
+iwl_mvm_is_ctdp_supported,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+iwl_dbgfs_stop_ctdp_write,FUNC_5
+mvm,VAR_4
+buf,VAR_5
+count,VAR_6
+ppos,VAR_7
+ret,VAR_8

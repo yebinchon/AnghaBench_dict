@@ -1,0 +1,15 @@
+EINTR,VAR_0
+ERESTART,VAR_1
+EWOULDBLOCK,VAR_2
+KASSERT,FUNC_0
+_completion_claim,FUNC_1
+cv_timedwait_sig,FUNC_2
+jiffies,VAR_3
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+wait_for_completion_interruptible_timeout,FUNC_5
+c,VAR_4
+timeout,VAR_5
+res,VAR_6
+start,VAR_7
+now,VAR_8

@@ -1,0 +1,11 @@
+ARMV8_PMU_CYCLE_IDX,VAR_0
+ARMV8_PMU_PMCR_N_MASK,VAR_1
+ARMV8_PMU_PMCR_N_SHIFT,VAR_2
+PMCR_EL0,VAR_3
+__vcpu_sys_reg,FUNC_0
+kvm_inject_undefined,FUNC_1
+pmu_counter_idx_valid,FUNC_2
+vcpu,VAR_4
+idx,VAR_5
+pmcr,VAR_6
+val,VAR_7

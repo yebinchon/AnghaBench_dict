@@ -1,0 +1,16 @@
+TIF_SIGPENDING,VAR_0
+WARN,FUNC_0
+arch_has_block_step,FUNC_1
+arch_has_single_step,FUNC_2
+finish_report_reset,FUNC_3
+likely,FUNC_4
+set_tsk_thread_flag,FUNC_5
+signal_pending,FUNC_6
+user_disable_single_step,FUNC_7
+user_enable_block_step,FUNC_8
+user_enable_single_step,FUNC_9
+utrace_stop,FUNC_10
+finish_resume_report,FUNC_11
+task,VAR_1
+utrace,VAR_2
+report,VAR_3

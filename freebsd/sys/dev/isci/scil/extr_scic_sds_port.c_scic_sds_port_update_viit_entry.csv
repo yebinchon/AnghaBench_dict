@@ -1,0 +1,13 @@
+SCU_VIIT_ENTRY_ID_VIIT,VAR_0
+SCU_VIIT_ENTRY_LPVIE_SHIFT,VAR_1
+SCU_VIIT_IPPT_INITIATOR,VAR_2
+SCU_VIIT_STATUS_ALL_VALID,VAR_3
+initiator_sas_address_hi,VAR_4
+initiator_sas_address_lo,VAR_5
+reserved,VAR_6
+scic_sds_port_get_sas_address,FUNC_0
+scu_port_viit_register_write,FUNC_1
+status,VAR_7
+scic_sds_port_update_viit_entry,FUNC_2
+this_port,VAR_8
+sas_address,VAR_9

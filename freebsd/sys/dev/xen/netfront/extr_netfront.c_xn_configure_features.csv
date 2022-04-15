@@ -1,0 +1,15 @@
+CSUM_TSO,VAR_0
+IFCAP_LRO,VAR_1
+IFCAP_RXCSUM,VAR_2
+IFCAP_TSO4,VAR_3
+IFCAP_TXCSUM,VAR_4
+XN_CSUM_FEATURES,VAR_5
+device_printf,FUNC_0
+tcp_lro_free,FUNC_1
+tcp_lro_init,FUNC_2
+xn_enable_lro,VAR_6
+xn_configure_features,FUNC_3
+np,VAR_7
+err,VAR_8
+cap_enabled,VAR_9
+ifp,VAR_10

@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+M_WAITOK,VAR_1
+TTYOUTQ_DATASIZE,VAR_2
+TTYOUTQ_INSERT_TAIL,FUNC_0
+howmany,FUNC_1
+tty_gone,FUNC_2
+tty_lock,FUNC_3
+tty_unlock,FUNC_4
+ttyoutq_zone,VAR_3
+uma_zalloc,FUNC_5
+uma_zfree,FUNC_6
+ttyoutq_setsize,FUNC_7
+to,VAR_4
+tp,VAR_5
+size,VAR_6
+tob,VAR_7

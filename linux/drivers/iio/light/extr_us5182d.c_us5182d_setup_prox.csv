@@ -1,0 +1,11 @@
+IIO_EV_DIR_FALLING,VAR_0
+IIO_EV_DIR_RISING,VAR_1
+US5182D_REG_PXH_TH,VAR_2
+US5182D_REG_PXL_TH,VAR_3
+i2c_smbus_write_word_data,FUNC_0
+iio_priv,FUNC_1
+us5182d_setup_prox,FUNC_2
+indio_dev,VAR_4
+dir,VAR_5
+val,VAR_6
+data,VAR_7

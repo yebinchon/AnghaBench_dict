@@ -1,0 +1,12 @@
+CGC_DATA_READ,VAR_0
+GPCMD_GET_EVENT_STATUS_NOTIFICATION,VAR_1
+be16_to_cpu,FUNC_0
+init_cdrom_command,FUNC_1
+memcpy,FUNC_2
+stub1,FUNC_3
+cdrom_get_media_event,FUNC_4
+cdi,VAR_2
+med,VAR_3
+cgc,VAR_4
+buffer,VAR_5
+eh,VAR_6

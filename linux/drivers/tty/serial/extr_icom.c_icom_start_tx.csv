@@ -1,0 +1,9 @@
+CMD_HOLD_XMIT,VAR_0
+ICOM_PORT,VAR_1
+icom_write,FUNC_0
+readb,FUNC_1
+trace,FUNC_2
+writeb,FUNC_3
+icom_start_tx,FUNC_4
+port,VAR_2
+cmdReg,VAR_3

@@ -1,0 +1,11 @@
+QLC_83XX_IDC_DEV_READY,VAR_0
+QLC_83XX_MBX_READY,VAR_1
+__QLCNIC_RESETTING,VAR_2
+clear_bit,FUNC_0
+dev_err,FUNC_1
+qlcnic_sriov_vf_detach,FUNC_2
+set_bit,FUNC_3
+qlcnic_sriov_vf_idc_init_reset_state,FUNC_4
+adapter,VAR_3
+idc,VAR_4
+func,VAR_5

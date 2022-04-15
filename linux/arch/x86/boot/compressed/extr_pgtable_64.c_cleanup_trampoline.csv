@@ -1,0 +1,11 @@
+PAGE_SIZE,VAR_0
+TRAMPOLINE_32BIT_PGTABLE_OFFSET,VAR_1
+TRAMPOLINE_32BIT_SIZE,VAR_2
+__native_read_cr3,FUNC_0
+memcpy,FUNC_1
+native_write_cr3,FUNC_2
+trampoline_32bit,VAR_3
+trampoline_save,VAR_4
+cleanup_trampoline,FUNC_3
+pgtable,VAR_5
+trampoline_pgtable,VAR_6

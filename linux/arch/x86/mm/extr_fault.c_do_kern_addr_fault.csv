@@ -1,0 +1,14 @@
+WARN_ON_ONCE,FUNC_0
+X86_PF_PK,VAR_0
+X86_PF_PROT,VAR_1
+X86_PF_RSVD,VAR_2
+X86_PF_USER,VAR_3
+X86_TRAP_PF,VAR_4
+bad_area_nosemaphore,FUNC_1
+kprobe_page_fault,FUNC_2
+spurious_kernel_fault,FUNC_3
+vmalloc_fault,FUNC_4
+do_kern_addr_fault,FUNC_5
+regs,VAR_5
+hw_error_code,VAR_6
+address,VAR_7

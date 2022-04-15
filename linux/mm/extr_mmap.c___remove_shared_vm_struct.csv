@@ -1,0 +1,12 @@
+VM_DENYWRITE,VAR_0
+VM_SHARED,VAR_1
+atomic_inc,FUNC_0
+file_inode,FUNC_1
+flush_dcache_mmap_lock,FUNC_2
+flush_dcache_mmap_unlock,FUNC_3
+mapping_unmap_writable,FUNC_4
+vma_interval_tree_remove,FUNC_5
+__remove_shared_vm_struct,FUNC_6
+vma,VAR_2
+file,VAR_3
+mapping,VAR_4

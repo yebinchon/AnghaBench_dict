@@ -1,0 +1,15 @@
+atomic_dec,FUNC_0
+atomic_inc_return,FUNC_1
+crash_shutdown_register,FUNC_2
+ehea_crash_handler,VAR_0
+ehea_create_busmap,FUNC_3
+ehea_mem_nb,VAR_1
+ehea_memory_hooks_registered,VAR_2
+ehea_reboot_nb,VAR_3
+pr_info,FUNC_4
+register_memory_notifier,FUNC_5
+register_reboot_notifier,FUNC_6
+unregister_memory_notifier,FUNC_7
+unregister_reboot_notifier,FUNC_8
+ehea_register_memory_hooks,FUNC_9
+ret,VAR_4

@@ -1,0 +1,15 @@
+init_completion,FUNC_0
+mmc_post_req,FUNC_1
+mmc_pre_req,FUNC_2
+mmc_retune_release,FUNC_3
+mmc_start_request,FUNC_4
+mmc_test_check_result,FUNC_5
+mmc_test_wait_busy,FUNC_6
+mmc_test_wait_done,VAR_0
+wait_for_completion,FUNC_7
+mmc_test_start_areq,FUNC_8
+test,VAR_1
+mrq,VAR_2
+prev_mrq,VAR_3
+host,VAR_4
+err,VAR_5

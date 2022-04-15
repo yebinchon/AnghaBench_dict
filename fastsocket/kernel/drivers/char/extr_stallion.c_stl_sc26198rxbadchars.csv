@@ -1,0 +1,15 @@
+CR_CLEARRXERR,VAR_0
+MR1,VAR_1
+MR1_ERRBLOCK,VAR_2
+RXFIFO,VAR_3
+SCCR,VAR_4
+SR,VAR_5
+SR_RXRDY,VAR_6
+stl_sc26198getreg,FUNC_0
+stl_sc26198rxbadch,FUNC_1
+stl_sc26198setreg,FUNC_2
+stl_sc26198rxbadchars,FUNC_3
+portp,VAR_7
+status,VAR_8
+mr1,VAR_9
+ch,VAR_10

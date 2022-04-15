@@ -1,0 +1,15 @@
+ge25519_frombytes,FUNC_0
+ge25519_is_on_curve,FUNC_1
+ge25519_p1p1_to_p3,FUNC_2
+ge25519_p3_to_cached,FUNC_3
+ge25519_p3_tobytes,FUNC_4
+ge25519_sub,FUNC_5
+crypto_core_ed25519_sub,FUNC_6
+r,VAR_0
+p,VAR_1
+q,VAR_2
+p_p3,VAR_3
+q_p3,VAR_4
+r_p3,VAR_5
+r_p1p1,VAR_6
+q_cached,VAR_7

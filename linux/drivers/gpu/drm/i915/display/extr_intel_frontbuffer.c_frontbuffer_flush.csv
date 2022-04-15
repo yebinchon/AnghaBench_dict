@@ -1,0 +1,10 @@
+intel_edp_drrs_flush,FUNC_0
+intel_fbc_flush,FUNC_1
+intel_psr_flush,FUNC_2
+might_sleep,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+frontbuffer_flush,FUNC_6
+i915,VAR_0
+frontbuffer_bits,VAR_1
+origin,VAR_2

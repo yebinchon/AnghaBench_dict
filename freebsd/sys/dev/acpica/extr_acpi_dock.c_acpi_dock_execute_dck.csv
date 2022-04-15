@@ -1,0 +1,14 @@
+ACPI_DOCK_ISOLATE,VAR_0
+ACPI_SUCCESS,FUNC_0
+ACPI_TYPE_INTEGER,VAR_1
+AcpiEvaluateObject,FUNC_1
+acpi_get_handle,FUNC_2
+acpi_dock_execute_dck,FUNC_3
+dev,VAR_2
+dock,VAR_3
+h,VAR_4
+argobj,VAR_5
+args,VAR_6
+buf,VAR_7
+retobj,VAR_8
+status,VAR_9

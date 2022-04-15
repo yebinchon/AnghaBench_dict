@@ -1,0 +1,17 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+__wait,VAR_1
+atomic_dec,FUNC_1
+atomic_dec_and_test,FUNC_2
+atomic_inc,FUNC_3
+finish_wait,FUNC_4
+is_suspended,FUNC_5
+prepare_to_wait,FUNC_6
+rcu_read_lock,FUNC_7
+rcu_read_unlock,FUNC_8
+schedule,FUNC_9
+stub1,FUNC_10
+wake_up,FUNC_11
+md_handle_request,FUNC_12
+mddev,VAR_2
+bio,VAR_3

@@ -1,0 +1,17 @@
+SVN_ERR,FUNC_0
+svn_dirent_get_absolute,FUNC_1
+svn_error_trace,FUNC_2
+svn_wc__adm_get_db,FUNC_3
+svn_wc__context_create_with_db,FUNC_4
+svn_wc_context_destroy,FUNC_5
+svn_wc_transmit_prop_deltas2,FUNC_6
+svn_wc_transmit_prop_deltas,FUNC_7
+path,VAR_0
+adm_access,VAR_1
+entry,VAR_2
+editor,VAR_3
+baton,VAR_4
+tempfile,VAR_5
+pool,VAR_6
+local_abspath,VAR_7
+wc_ctx,VAR_8

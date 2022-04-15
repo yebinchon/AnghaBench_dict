@@ -1,0 +1,9 @@
+PWM_CH_REG_OFFSET,VAR_0
+PWM_CH_REG_SIZE,VAR_1
+writel_relaxed,FUNC_0
+atmel_pwm_ch_writel,FUNC_1
+chip,VAR_2
+ch,VAR_3
+offset,VAR_4
+val,VAR_5
+base,VAR_6

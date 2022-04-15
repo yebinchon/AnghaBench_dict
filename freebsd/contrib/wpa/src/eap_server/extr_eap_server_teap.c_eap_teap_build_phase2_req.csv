@@ -1,0 +1,14 @@
+MSG_DEBUG,VAR_0
+MSG_MSGDUMP,VAR_1
+TEAP_TLV_BASIC_PASSWORD_AUTH_REQ,VAR_2
+eap_teap_put_tlv_hdr,FUNC_0
+eap_teap_tlv_eap_payload,FUNC_1
+stub1,FUNC_2
+wpa_hexdump_buf_key,FUNC_3
+wpa_printf,FUNC_4
+wpabuf_alloc,FUNC_5
+eap_teap_build_phase2_req,FUNC_6
+sm,VAR_3
+data,VAR_4
+id,VAR_5
+req,VAR_6

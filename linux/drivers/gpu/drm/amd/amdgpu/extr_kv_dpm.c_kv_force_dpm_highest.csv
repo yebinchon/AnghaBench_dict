@@ -1,0 +1,12 @@
+CHIP_KABINI,VAR_0
+CHIP_MULLINS,VAR_1
+PPSMC_MSG_DPM_ForceState,VAR_2
+SMU7_MAX_LEVELS_GRAPHICS,VAR_3
+amdgpu_kv_dpm_get_enable_mask,FUNC_0
+amdgpu_kv_send_msg_to_smc_with_parameter,FUNC_1
+kv_set_enabled_level,FUNC_2
+kv_force_dpm_highest,FUNC_3
+adev,VAR_4
+ret,VAR_5
+enable_mask,VAR_6
+i,VAR_7

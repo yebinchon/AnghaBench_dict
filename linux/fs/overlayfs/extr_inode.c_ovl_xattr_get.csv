@@ -1,0 +1,14 @@
+ovl_dentry_lower,FUNC_0
+ovl_i_dentry_upper,FUNC_1
+ovl_override_creds,FUNC_2
+revert_creds,FUNC_3
+vfs_getxattr,FUNC_4
+ovl_xattr_get,FUNC_5
+dentry,VAR_0
+inode,VAR_1
+name,VAR_2
+value,VAR_3
+size,VAR_4
+res,VAR_5
+old_cred,VAR_6
+realdentry,VAR_7

@@ -1,0 +1,16 @@
+NSEC_PER_USEC,VAR_0
+SI_SM_CALL_WITH_DELAY,VAR_1
+getnstimeofday,FUNC_0
+ipmi_si_is_busy,FUNC_1
+ipmi_si_set_not_busy,FUNC_2
+kipmid_max_busy_us,VAR_2
+num_max_busy_us,VAR_3
+timespec_add_ns,FUNC_3
+timespec_compare,FUNC_4
+unlikely,FUNC_5
+ipmi_thread_busy_wait,FUNC_6
+smi_result,VAR_4
+smi_info,VAR_5
+busy_until,VAR_6
+max_busy_us,VAR_7
+now,VAR_8

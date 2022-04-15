@@ -1,0 +1,16 @@
+AZX_CGCTL_ADSPDCGE,VAR_0
+AZX_PCIREG_CGCTL,VAR_1
+AZX_PCIREG_PGCTL,VAR_2
+AZX_PGCTL_ADSPPGD,VAR_3
+AZX_REG_VS_EM2_L1SEN,VAR_4
+VS_EM2,VAR_5
+pci_get_drvdata,FUNC_0
+snd_hdac_chip_updatel,FUNC_1
+to_pci_dev,FUNC_2
+update_pci_dword,FUNC_3
+skl_clock_power_gating,FUNC_4
+dev,VAR_6
+enable,VAR_7
+pci,VAR_8
+bus,VAR_9
+val,VAR_10

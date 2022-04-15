@@ -1,0 +1,12 @@
+Anum_chunk_constraint_chunk_id_dimension_slice_id_idx_chunk_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CHUNK_CONSTRAINT,VAR_2
+CHUNK_CONSTRAINT_CHUNK_ID_DIMENSION_SLICE_ID_IDX,VAR_3
+F_INT4EQ,VAR_4
+Int32GetDatum,FUNC_0
+catalog_get_index,FUNC_1
+ts_catalog_get,FUNC_2
+ts_scan_iterator_scan_key_init,FUNC_3
+init_scan_by_chunk_id,FUNC_4
+iterator,VAR_5
+chunk_id,VAR_6

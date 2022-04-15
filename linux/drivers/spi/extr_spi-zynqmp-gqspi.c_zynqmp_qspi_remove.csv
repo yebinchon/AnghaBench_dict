@@ -1,0 +1,12 @@
+GQSPI_EN_OFST,VAR_0
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_set_suspended,FUNC_3
+spi_master_get_devdata,FUNC_4
+spi_unregister_master,FUNC_5
+zynqmp_gqspi_write,FUNC_6
+zynqmp_qspi_remove,FUNC_7
+pdev,VAR_1
+master,VAR_2
+xqspi,VAR_3

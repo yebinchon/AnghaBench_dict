@@ -1,0 +1,17 @@
+RP5C01_MODE,VAR_0
+RP5C01_MODE_MODE01,VAR_1
+RP5C01_MODE_RAM_BLOCK10,VAR_2
+RP5C01_MODE_RAM_BLOCK11,VAR_3
+RP5C01_MODE_TIMER_EN,VAR_4
+rp5c01_read,FUNC_0
+rp5c01_write,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+rp5c01_nvram_read,FUNC_4
+_priv,VAR_5
+pos,VAR_6
+val,VAR_7
+bytes,VAR_8
+priv,VAR_9
+buf,VAR_10
+data,VAR_11

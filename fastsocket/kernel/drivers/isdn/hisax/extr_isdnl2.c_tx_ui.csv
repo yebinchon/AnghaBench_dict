@@ -1,0 +1,13 @@
+CMD,VAR_0
+MAX_HEADER_LEN,VAR_1
+UI,VAR_2
+enqueue_ui,FUNC_0
+memcpy,FUNC_1
+sethdraddr,FUNC_2
+skb_dequeue,FUNC_3
+skb_push,FUNC_4
+tx_ui,FUNC_5
+st,VAR_3
+skb,VAR_4
+header,VAR_5
+i,VAR_6

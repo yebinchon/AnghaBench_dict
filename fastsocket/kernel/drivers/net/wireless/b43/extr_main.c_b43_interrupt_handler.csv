@@ -1,0 +1,13 @@
+B43_STAT_STARTED,VAR_0
+IRQ_NONE,VAR_1
+b43_do_interrupt,FUNC_0
+b43_status,FUNC_1
+mmiowb,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+unlikely,FUNC_5
+b43_interrupt_handler,FUNC_6
+irq,VAR_2
+dev_id,VAR_3
+dev,VAR_4
+ret,VAR_5

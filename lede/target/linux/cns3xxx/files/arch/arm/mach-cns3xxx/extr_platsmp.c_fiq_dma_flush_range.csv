@@ -1,0 +1,16 @@
+CNS3XXX_FLUSH_RANGE,VAR_0
+FIQ_GENERATE,VAR_1
+barrier,FUNC_0
+cpu_online,FUNC_1
+fiq_data,VAR_2
+raw_local_irq_restore,FUNC_2
+raw_local_irq_save,FUNC_3
+smp_mb,FUNC_4
+this_cpu_ptr,FUNC_5
+v6_dma_flush_range,FUNC_6
+writel_relaxed,FUNC_7
+fiq_dma_flush_range,FUNC_8
+start,VAR_3
+end,VAR_4
+flags,VAR_5
+req,VAR_6

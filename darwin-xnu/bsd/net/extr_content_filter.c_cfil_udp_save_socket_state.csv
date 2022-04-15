@@ -1,0 +1,16 @@
+AF_INET,VAR_0
+AF_INET6,VAR_1
+KERNEL_MODULE_TAG_ID,VAR_2
+KERNEL_TAG_TYPE_CFIL_UDP,VAR_3
+M_DONTWAIT,VAR_4
+M_PKTHDR,VAR_5
+fill_ip6_sockaddr_4_6,FUNC_0
+fill_ip_sockaddr_4_6,FUNC_1
+m_tag_create,FUNC_2
+m_tag_prepend,FUNC_3
+cfil_udp_save_socket_state,FUNC_4
+cfil_info,VAR_6
+m,VAR_7
+tag,VAR_8
+ctag,VAR_9
+hash_entry,VAR_10

@@ -1,0 +1,13 @@
+AUDIT_NLGRP_READLOG,VAR_0
+GFP_KERNEL,VAR_1
+audit_get_sk,FUNC_0
+init_net,VAR_2
+netlink_has_listeners,FUNC_1
+nlmsg_hdr,FUNC_2
+nlmsg_multicast,FUNC_3
+skb_copy,FUNC_4
+kauditd_send_multicast_skb,FUNC_5
+skb,VAR_3
+copy,VAR_4
+sock,VAR_5
+nlh,VAR_6

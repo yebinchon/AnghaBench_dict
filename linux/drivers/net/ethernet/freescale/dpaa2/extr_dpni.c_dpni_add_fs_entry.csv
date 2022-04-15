@@ -1,0 +1,15 @@
+DPNI_CMDID_ADD_FS_ENT,VAR_0
+cpu_to_le16,FUNC_0
+cpu_to_le64,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpni_add_fs_entry,FUNC_4
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+tc_id,VAR_4
+index,VAR_5
+cfg,VAR_6
+action,VAR_7
+cmd_params,VAR_8
+cmd,VAR_9

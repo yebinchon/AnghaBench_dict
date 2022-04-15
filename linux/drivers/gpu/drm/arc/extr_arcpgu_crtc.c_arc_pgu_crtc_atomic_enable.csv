@@ -1,0 +1,10 @@
+ARCPGU_CTRL_ENABLE_MASK,VAR_0
+ARCPGU_REG_CTRL,VAR_1
+arc_pgu_read,FUNC_0
+arc_pgu_write,FUNC_1
+clk_prepare_enable,FUNC_2
+crtc_to_arcpgu_priv,FUNC_3
+arc_pgu_crtc_atomic_enable,FUNC_4
+crtc,VAR_2
+old_state,VAR_3
+arcpgu,VAR_4

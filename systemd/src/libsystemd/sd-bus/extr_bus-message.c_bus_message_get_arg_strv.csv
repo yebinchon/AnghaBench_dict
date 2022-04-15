@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+SD_BUS_TYPE_ARRAY,VAR_1
+STR_IN_SET,FUNC_0
+assert,FUNC_1
+bus_message_get_arg_skip,FUNC_2
+sd_bus_message_read_strv,FUNC_3
+bus_message_get_arg_strv,FUNC_4
+m,VAR_2
+i,VAR_3
+strv,VAR_4
+contents,VAR_5
+type,VAR_6
+r,VAR_7

@@ -1,0 +1,10 @@
+NR_PKEYS,VAR_0
+PAGE_SIZE,VAR_1
+PROT_READ,VAR_2
+pkey_assert,FUNC_0
+sys_mprotect_pkey,FUNC_1
+test_pkey_syscalls_bad_args,FUNC_2
+ptr,VAR_3
+pkey,VAR_4
+err,VAR_5
+bad_pkey,VAR_6

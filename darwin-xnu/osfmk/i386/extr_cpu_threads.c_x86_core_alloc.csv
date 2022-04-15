@@ -1,0 +1,17 @@
+X86CORE_FL_HALTED,VAR_0
+X86CORE_FL_IDLE,VAR_1
+X86CORE_FL_PRESENT,VAR_2
+X86CORE_FL_READY,VAR_3
+bzero,FUNC_0
+cpu_datap,FUNC_1
+free_cores,VAR_4
+kalloc,FUNC_2
+mp_safe_spin_lock,FUNC_3
+panic,FUNC_4
+simple_unlock,FUNC_5
+topoParms,VAR_5
+x86_topo_lock,VAR_6
+x86_core_alloc,FUNC_6
+cpu,VAR_7
+core,VAR_8
+cpup,VAR_9

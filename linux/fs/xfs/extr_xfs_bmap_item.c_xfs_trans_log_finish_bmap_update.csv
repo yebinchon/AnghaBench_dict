@@ -1,0 +1,15 @@
+XFS_LI_DIRTY,VAR_0
+XFS_TRANS_DIRTY,VAR_1
+set_bit,FUNC_0
+xfs_bmap_finish_one,FUNC_1
+xfs_trans_log_finish_bmap_update,FUNC_2
+tp,VAR_2
+budp,VAR_3
+type,VAR_4
+ip,VAR_5
+whichfork,VAR_6
+startoff,VAR_7
+startblock,VAR_8
+blockcount,VAR_9
+state,VAR_10
+error,VAR_11

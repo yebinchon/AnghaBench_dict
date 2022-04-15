@@ -1,0 +1,13 @@
+DRM_DEBUG_DRIVER,FUNC_0
+drm_crtc_arm_vblank_event,FUNC_1
+drm_crtc_send_vblank_event,FUNC_2
+drm_crtc_to_sun4i_crtc,FUNC_3
+drm_crtc_vblank_get,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+sunxi_engine_commit,FUNC_7
+sun4i_crtc_atomic_flush,FUNC_8
+crtc,VAR_0
+old_state,VAR_1
+scrtc,VAR_2
+event,VAR_3

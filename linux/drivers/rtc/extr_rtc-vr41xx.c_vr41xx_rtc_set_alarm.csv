@@ -1,0 +1,16 @@
+ECMPHREG,VAR_0
+ECMPLREG,VAR_1
+ECMPMREG,VAR_2
+aie_irq,VAR_3
+alarm_enabled,VAR_4
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+rtc1_write,FUNC_2
+rtc_lock,VAR_5
+rtc_tm_to_time64,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+vr41xx_rtc_set_alarm,FUNC_6
+dev,VAR_6
+wkalrm,VAR_7
+alarm_sec,VAR_8

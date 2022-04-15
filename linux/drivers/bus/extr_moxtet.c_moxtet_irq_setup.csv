@@ -1,0 +1,16 @@
+BIT,FUNC_0
+ENOMEM,VAR_0
+IRQF_ONESHOT,VAR_1
+MOXTET_NIRQS,VAR_2
+dev_err,FUNC_1
+irq_create_mapping,FUNC_2
+irq_domain_add_simple,FUNC_3
+moxtet_irq_chip,VAR_3
+moxtet_irq_domain,VAR_4
+moxtet_irq_free,FUNC_4
+moxtet_irq_thread_fn,VAR_5
+request_threaded_irq,FUNC_5
+moxtet_irq_setup,FUNC_6
+moxtet,VAR_6
+i,VAR_7
+ret,VAR_8

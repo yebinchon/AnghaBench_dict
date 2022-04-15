@@ -1,0 +1,12 @@
+EXT2_ET_MMP_CHANGE_ABORT,VAR_0
+EXT2_ET_OP_NOT_SUPPORTED,VAR_1
+EXT2_FLAG_RW,VAR_2
+EXT2_FLAG_SKIP_MMP,VAR_3
+EXT4_MMP_SEQ_CLEAN,VAR_4
+close,FUNC_0
+ext2fs_has_feature_mmp,FUNC_1
+ext2fs_mmp_read,FUNC_2
+ext2fs_mmp_write,FUNC_3
+memcmp,FUNC_4
+ext2fs_mmp_stop,FUNC_5
+fs,VAR_5

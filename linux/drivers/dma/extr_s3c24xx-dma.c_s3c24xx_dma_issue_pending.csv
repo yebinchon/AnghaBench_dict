@@ -1,0 +1,10 @@
+S3C24XX_DMA_CHAN_WAITING,VAR_0
+s3c24xx_dma_phy_alloc_and_start,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_s3c24xx_dma_chan,FUNC_3
+vchan_issue_pending,FUNC_4
+s3c24xx_dma_issue_pending,FUNC_5
+chan,VAR_1
+s3cchan,VAR_2
+flags,VAR_3

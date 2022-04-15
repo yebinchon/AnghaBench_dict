@@ -1,0 +1,12 @@
+IFF_DRV_RUNNING,VAR_0
+MA_OWNED,VAR_1
+URNDIS_BULK_TX,VAR_2
+URNDIS_LOCK_ASSERT,FUNC_0
+uether_getifp,FUNC_1
+uether_getsc,FUNC_2
+urndis_start,FUNC_3
+usbd_xfer_set_stall,FUNC_4
+urndis_init,FUNC_5
+ue,VAR_3
+sc,VAR_4
+ifp,VAR_5

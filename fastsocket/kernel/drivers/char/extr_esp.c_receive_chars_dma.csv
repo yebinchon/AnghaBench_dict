@@ -1,0 +1,14 @@
+DMA_MODE_READ,VAR_0
+ESI_START_DMA_RX,VAR_1
+ESP_STAT_DMA_RX,VAR_2
+ESP_STAT_RX_TIMEOUT,VAR_3
+UART_ESI_CMD1,VAR_4
+dma,VAR_5
+dma_buffer,VAR_6
+dma_bytes,VAR_7
+isa_virt_to_bus,FUNC_0
+program_isa_dma,FUNC_1
+serial_out,FUNC_2
+receive_chars_dma,FUNC_3
+info,VAR_8
+num_bytes,VAR_9

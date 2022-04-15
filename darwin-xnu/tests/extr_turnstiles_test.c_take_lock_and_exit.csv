@@ -1,0 +1,13 @@
+T_ASSERT_EQ,FUNC_0
+get_pri,FUNC_1
+mach_thread_self,FUNC_2
+pthread_threadid_np,FUNC_3
+sleep,FUNC_4
+turnstile_prim_lock,FUNC_5
+take_lock_and_exit,FUNC_6
+arg,VAR_0
+old_pri,VAR_1
+unboosted_pri,VAR_2
+boosted_pri,VAR_3
+tid,VAR_4
+type,VAR_5

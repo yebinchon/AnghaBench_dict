@@ -1,0 +1,14 @@
+BUS_DMA_ALLOCNOW,VAR_0
+BUS_SPACE_MAXADDR,VAR_1
+BUS_SPACE_MAXADDR_32BIT,VAR_2
+ENOMEM,VAR_3
+MRSAS_MAX_MFI_CMDS,VAR_4
+MRSAS_MFI_FRAME_SIZE,VAR_5
+bus_dma_tag_create,FUNC_0
+device_printf,FUNC_1
+memset,FUNC_2
+mrsas_alloc_frame,FUNC_3
+mrsas_create_frame_pool,FUNC_4
+sc,VAR_6
+i,VAR_7
+cmd,VAR_8

@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+JZ4780_I2C_STA,VAR_1
+JZ4780_I2C_STA_MSTACT,VAR_2
+JZ4780_I2C_STA_TFE,VAR_3
+JZ4780_I2C_TAR,VAR_4
+dev_err,FUNC_0
+jz4780_i2c_readw,FUNC_1
+jz4780_i2c_writew,FUNC_2
+usleep_range,FUNC_3
+jz4780_i2c_set_target,FUNC_4
+i2c,VAR_5
+address,VAR_6
+regval,VAR_7
+loops,VAR_8

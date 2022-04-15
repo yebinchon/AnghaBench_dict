@@ -1,0 +1,14 @@
+SD_EVENT_PRIORITY_IMPORTANT,VAR_0
+assert,FUNC_0
+on_network_event,VAR_1
+sd_event_add_io,FUNC_1
+sd_event_source_set_description,FUNC_2
+sd_event_source_set_priority,FUNC_3
+sd_network_monitor_get_events,FUNC_4
+sd_network_monitor_get_fd,FUNC_5
+sd_network_monitor_new,FUNC_6
+manager_network_monitor_listen,FUNC_7
+m,VAR_2
+r,VAR_3
+fd,VAR_4
+events,VAR_5

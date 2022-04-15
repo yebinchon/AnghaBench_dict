@@ -1,0 +1,14 @@
+BUS_WAIT_FOR_INACTIVE,VAR_0
+BUS_WAIT_FOR_MAINTENANCE_END,VAR_1
+BUS_WAIT_NO_JOB,VAR_2
+FLAGS_SET,FUNC_0
+assert,FUNC_1
+assert_se,FUNC_2
+bus_wait_for_units_check_ready,FUNC_3
+streq,FUNC_4
+streq_ptr,FUNC_5
+stub1,FUNC_6
+wait_for_item_free,FUNC_7
+wait_for_item_check_ready,FUNC_8
+item,VAR_3
+d,VAR_4

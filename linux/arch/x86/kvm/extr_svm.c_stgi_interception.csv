@@ -1,0 +1,11 @@
+INTERCEPT_STGI,VAR_0
+KVM_REQ_EVENT,VAR_1
+clr_intercept,FUNC_0
+enable_gif,FUNC_1
+kvm_make_request,FUNC_2
+kvm_skip_emulated_instruction,FUNC_3
+nested_svm_check_permissions,FUNC_4
+vgif_enabled,FUNC_5
+stgi_interception,FUNC_6
+svm,VAR_2
+ret,VAR_3

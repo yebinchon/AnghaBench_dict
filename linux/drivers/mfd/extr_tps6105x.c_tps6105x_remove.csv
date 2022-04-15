@@ -1,0 +1,10 @@
+TPS6105X_MODE_SHUTDOWN,VAR_0
+TPS6105X_REG0_MODE_MASK,VAR_1
+TPS6105X_REG0_MODE_SHIFT,VAR_2
+TPS6105X_REG_0,VAR_3
+i2c_get_clientdata,FUNC_0
+mfd_remove_devices,FUNC_1
+regmap_update_bits,FUNC_2
+tps6105x_remove,FUNC_3
+client,VAR_4
+tps6105x,VAR_5

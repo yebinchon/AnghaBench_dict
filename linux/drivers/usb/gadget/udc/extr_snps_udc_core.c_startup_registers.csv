@@ -1,0 +1,14 @@
+AMD_ADDBITS,FUNC_0
+UDC_DEVCFG_SPD,VAR_0
+UDC_DEVCFG_SPD_FS,VAR_1
+UDC_DEVCFG_SPD_HS,VAR_2
+readl,FUNC_1
+udc_basic_init,FUNC_2
+udc_mask_unused_interrupts,FUNC_3
+udc_setup_endpoints,FUNC_4
+udc_soft_reset,FUNC_5
+use_fullspeed,VAR_3
+writel,FUNC_6
+startup_registers,FUNC_7
+dev,VAR_4
+tmp,VAR_5

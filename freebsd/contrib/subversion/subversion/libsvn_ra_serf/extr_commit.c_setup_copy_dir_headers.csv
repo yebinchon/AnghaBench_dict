@@ -1,0 +1,16 @@
+USING_HTTPV2_COMMIT_SUPPORT,FUNC_0
+apr_pstrdup,FUNC_1
+apr_uri_unparse,FUNC_2
+serf_bucket_headers_set,FUNC_3
+serf_bucket_headers_setn,FUNC_4
+setup_add_dir_common_headers,FUNC_5
+svn_error_trace,FUNC_6
+svn_path_url_add_component2,FUNC_7
+setup_copy_dir_headers,FUNC_8
+headers,VAR_0
+baton,VAR_1
+pool,VAR_2
+scratch_pool,VAR_3
+dir,VAR_4
+uri,VAR_5
+absolute_uri,VAR_6

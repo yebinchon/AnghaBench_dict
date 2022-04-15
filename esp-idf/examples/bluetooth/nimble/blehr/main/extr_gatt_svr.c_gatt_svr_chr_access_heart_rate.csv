@@ -1,0 +1,14 @@
+BLE_ATT_ERR_INSUFFICIENT_RES,VAR_0
+BLE_ATT_ERR_UNLIKELY,VAR_1
+GATT_HRS_BODY_SENSOR_LOC_UUID,VAR_2
+assert,FUNC_0
+ble_uuid_u16,FUNC_1
+os_mbuf_append,FUNC_2
+gatt_svr_chr_access_heart_rate,FUNC_3
+conn_handle,VAR_3
+attr_handle,VAR_4
+ctxt,VAR_5
+arg,VAR_6
+body_sens_loc,VAR_7
+uuid,VAR_8
+rc,VAR_9

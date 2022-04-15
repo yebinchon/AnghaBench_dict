@@ -1,0 +1,10 @@
+IFCOUNTER_IPACKETS,VAR_0
+MA_OWNED,VAR_1
+UE_LOCK_ASSERT,FUNC_0
+if_inc_counter,FUNC_1
+mbufq_enqueue,FUNC_2
+uether_rxmbuf,FUNC_3
+ue,VAR_2
+m,VAR_3
+len,VAR_4
+ifp,VAR_5

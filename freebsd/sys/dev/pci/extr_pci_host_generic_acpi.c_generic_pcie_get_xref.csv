@@ -1,0 +1,13 @@
+ACPI_MSI_XREF,VAR_0
+PCI_ID_RID,VAR_1
+acpi_iort_map_pci_msi,FUNC_0
+device_get_softc,FUNC_1
+pcib_get_id,FUNC_2
+generic_pcie_get_xref,FUNC_3
+pci,VAR_2
+child,VAR_3
+sc,VAR_4
+rid,VAR_5
+xref,VAR_6
+devid,VAR_7
+err,VAR_8

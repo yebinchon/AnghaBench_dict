@@ -1,0 +1,15 @@
+HeapTupleHeaderGetXmin,FUNC_0
+ItemPointerGetBlockNumber,FUNC_1
+ItemPointerGetOffsetNumber,FUNC_2
+PredicateLockAcquire,FUNC_3
+PredicateLockExists,FUNC_4
+SET_PREDICATELOCKTARGETTAG_RELATION,FUNC_5
+SET_PREDICATELOCKTARGETTAG_TUPLE,FUNC_6
+SerializationNeededForRead,FUNC_7
+TransactionIdIsCurrentTransactionId,FUNC_8
+PredicateLockTuple,FUNC_9
+relation,VAR_0
+tuple,VAR_1
+snapshot,VAR_2
+tag,VAR_3
+tid,VAR_4

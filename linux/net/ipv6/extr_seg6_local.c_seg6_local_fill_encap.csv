@@ -1,0 +1,14 @@
+EMSGSIZE,VAR_0
+SEG6_LOCAL_ACTION,VAR_1
+SEG6_LOCAL_MAX,VAR_2
+nla_put_u32,FUNC_0
+seg6_action_params,VAR_3
+seg6_local_lwtunnel,FUNC_1
+stub1,FUNC_2
+seg6_local_fill_encap,FUNC_3
+skb,VAR_4
+lwt,VAR_5
+slwt,VAR_6
+param,VAR_7
+i,VAR_8
+err,VAR_9

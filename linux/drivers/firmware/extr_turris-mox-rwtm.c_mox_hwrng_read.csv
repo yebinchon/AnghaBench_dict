@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+MBOX_CMD_GET_RANDOM,VAR_1
+mbox_send_message,FUNC_0
+memcpy,FUNC_1
+mox_get_status,FUNC_2
+mutex_lock,FUNC_3
+mutex_trylock,FUNC_4
+mutex_unlock,FUNC_5
+wait_for_completion_interruptible,FUNC_6
+mox_hwrng_read,FUNC_7
+rng,VAR_2
+data,VAR_3
+max,VAR_4
+wait,VAR_5
+rwtm,VAR_6
+msg,VAR_7
+ret,VAR_8

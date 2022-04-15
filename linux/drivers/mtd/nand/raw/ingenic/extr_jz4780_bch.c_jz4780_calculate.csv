@@ -1,0 +1,16 @@
+BCH_BHINT_ENCF,VAR_0
+ETIMEDOUT,VAR_1
+dev_err,FUNC_0
+jz4780_bch_disable,FUNC_1
+jz4780_bch_read_parity,FUNC_2
+jz4780_bch_reset,FUNC_3
+jz4780_bch_wait_complete,FUNC_4
+jz4780_bch_write_data,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+jz4780_calculate,FUNC_8
+bch,VAR_2
+params,VAR_3
+buf,VAR_4
+ecc_code,VAR_5
+ret,VAR_6

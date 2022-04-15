@@ -1,0 +1,17 @@
+CLKID_CPU_CLK_DYN1_SEL,VAR_0
+__clk_lookup,FUNC_0
+clk_hw_get_name,FUNC_1
+clk_hw_get_parent_by_index,FUNC_2
+clk_notifier_register,FUNC_3
+dev_err,FUNC_4
+g12a_cpu_clk_dyn,VAR_1
+g12a_cpu_clk_mux_nb,VAR_2
+g12a_cpu_clk_postmux0,VAR_3
+g12a_cpu_clk_postmux0_nb_data,VAR_4
+meson_g12a_dvfs_setup_common,FUNC_5
+pdev,VAR_5
+hws,VAR_6
+notifier_clk_name,VAR_7
+notifier_clk,VAR_8
+xtal,VAR_9
+ret,VAR_10

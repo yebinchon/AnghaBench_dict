@@ -1,0 +1,15 @@
+DR_RX_FIFO_EMPTY,VAR_0
+GETREG,FUNC_0
+INT_STATUS_ACK,VAR_1
+SETREG,FUNC_1
+UART_DR,VAR_2
+UART_INT_STATUS,VAR_3
+UART_STAT_OVERRUN,VAR_4
+uart_lock,FUNC_2
+uart_rx_full,FUNC_3
+uart_rx_put,FUNC_4
+uart_unlock,FUNC_5
+lowrisc_uart_bus_receive,FUNC_6
+sc,VAR_5
+bas,VAR_6
+reg,VAR_7

@@ -1,0 +1,12 @@
+CKSEG0,VAR_0
+ERRCTL_SPRAM,VAR_1
+Index_Load_Tag_I,VAR_2
+bis_c0_errctl,FUNC_0
+cache_op,FUNC_1
+ehb,FUNC_2
+read_c0_taglo,FUNC_3
+write_c0_errctl,FUNC_4
+ispram_load_tag,FUNC_5
+offset,VAR_3
+data,VAR_4
+errctl,VAR_5

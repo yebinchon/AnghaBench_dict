@@ -1,0 +1,11 @@
+DS1672_REG_CONTROL_EOSC,VAR_0
+ds1672_get_control,FUNC_0
+sprintf,FUNC_1
+to_i2c_client,FUNC_2
+show_control,FUNC_3
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+client,VAR_4
+control,VAR_5
+err,VAR_6

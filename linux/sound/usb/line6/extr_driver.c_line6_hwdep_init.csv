@@ -1,0 +1,12 @@
+INIT_KFIFO,FUNC_0
+SNDRV_HWDEP_IFACE_LINE6,VAR_0
+hwdep_ops,VAR_1
+init_waitqueue_head,FUNC_1
+line6_hwdep_push_message,VAR_2
+mutex_init,FUNC_2
+snd_hwdep_new,FUNC_3
+strcpy,FUNC_4
+line6_hwdep_init,FUNC_5
+line6,VAR_3
+err,VAR_4
+hwdep,VAR_5

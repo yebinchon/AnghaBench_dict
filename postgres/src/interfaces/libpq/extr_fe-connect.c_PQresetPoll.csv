@@ -1,0 +1,13 @@
+CONNECTION_BAD,VAR_0
+PGEVT_CONNRESET,VAR_1
+PGRES_POLLING_FAILED,VAR_2
+PGRES_POLLING_OK,VAR_3
+PQconnectPoll,FUNC_0
+libpq_gettext,FUNC_1
+printfPQExpBuffer,FUNC_2
+stub1,FUNC_3
+PQresetPoll,FUNC_4
+conn,VAR_4
+status,VAR_5
+i,VAR_6
+evt,VAR_7

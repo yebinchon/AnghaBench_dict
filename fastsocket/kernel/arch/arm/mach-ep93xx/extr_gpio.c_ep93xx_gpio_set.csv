@@ -1,0 +1,12 @@
+__raw_readb,FUNC_0
+__raw_writeb,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+to_ep93xx_gpio_chip,FUNC_4
+ep93xx_gpio_set,FUNC_5
+chip,VAR_0
+offset,VAR_1
+val,VAR_2
+ep93xx_chip,VAR_3
+flags,VAR_4
+v,VAR_5

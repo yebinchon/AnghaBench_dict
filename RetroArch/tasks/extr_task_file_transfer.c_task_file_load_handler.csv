@@ -1,0 +1,17 @@
+NBIO_READ,VAR_0
+nbio_begin_read,FUNC_0
+nbio_open,FUNC_1
+strdup,FUNC_2
+string_is_empty,FUNC_3
+task_audio_mixer_load_handler,FUNC_4
+task_file_transfer_iterate_parse,FUNC_5
+task_file_transfer_iterate_transfer,FUNC_6
+task_get_cancelled,FUNC_7
+task_image_load_handler,FUNC_8
+task_set_cancelled,FUNC_9
+task_set_error,FUNC_10
+task_set_finished,FUNC_11
+task_file_load_handler,FUNC_12
+task,VAR_1
+nbio,VAR_2
+handle,VAR_3

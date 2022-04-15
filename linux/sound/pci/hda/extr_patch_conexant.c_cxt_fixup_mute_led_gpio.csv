@@ -1,0 +1,13 @@
+AC_VERB_SET_GPIO_DATA,VAR_0
+HDA_FIXUP_ACT_PRE_PROBE,VAR_1
+cxt_fixup_gpio_mute_hook,VAR_2
+cxt_gpio_micmute_update,VAR_3
+snd_hda_add_verbs,FUNC_0
+snd_hda_codec_write,FUNC_1
+snd_hda_gen_add_micmute_led,FUNC_2
+cxt_fixup_mute_led_gpio,FUNC_3
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+spec,VAR_7
+gpio_init,VAR_8

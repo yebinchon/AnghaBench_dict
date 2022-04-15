@@ -1,0 +1,13 @@
+DMA_TO_DEVICE,VAR_0
+MXS_AUART_DMA_TX_SYNC,VAR_1
+WAKEUP_CHARS,VAR_2
+clear_bit,FUNC_0
+dma_unmap_sg,FUNC_1
+mxs_auart_tx_chars,FUNC_2
+smp_mb__after_atomic,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_write_wakeup,FUNC_5
+dma_tx_callback,FUNC_6
+param,VAR_3
+s,VAR_4
+xmit,VAR_5

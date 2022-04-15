@@ -1,0 +1,12 @@
+GIT_WORKTREE_PRUNE_OPTIONS_INIT,VAR_0
+GIT_WORKTREE_PRUNE_VALID,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+fixture,VAR_2
+git_path_exists,FUNC_2
+git_worktree_free,FUNC_3
+git_worktree_lookup,FUNC_4
+git_worktree_prune,FUNC_5
+test_worktree_worktree__prune_gitdir_only,FUNC_6
+opts,VAR_3
+wt,VAR_4

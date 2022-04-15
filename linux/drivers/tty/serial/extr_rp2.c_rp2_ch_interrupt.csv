@@ -1,0 +1,14 @@
+RP2_CHAN_STAT,VAR_0
+RP2_CHAN_STAT_MS_CHANGED_MASK,VAR_1
+RP2_CHAN_STAT_RXDATA_m,VAR_2
+RP2_CHAN_STAT_TXEMPTY_m,VAR_3
+readl,FUNC_0
+rp2_rx_chars,FUNC_1
+rp2_tx_chars,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wake_up_interruptible,FUNC_5
+writel,FUNC_6
+rp2_ch_interrupt,FUNC_7
+up,VAR_4
+status,VAR_5

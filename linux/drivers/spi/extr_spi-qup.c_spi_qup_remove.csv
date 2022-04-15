@@ -1,0 +1,14 @@
+QUP_STATE_RESET,VAR_0
+clk_disable_unprepare,FUNC_0
+dev_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_noidle,FUNC_4
+spi_master_get_devdata,FUNC_5
+spi_qup_release_dma,FUNC_6
+spi_qup_set_state,FUNC_7
+spi_qup_remove,FUNC_8
+pdev,VAR_1
+master,VAR_2
+controller,VAR_3
+ret,VAR_4

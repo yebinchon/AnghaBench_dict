@@ -1,0 +1,17 @@
+CheckAndPromotePredicateLockRequest,FUNC_0
+CoarserLockCovers,FUNC_1
+CreatePredicateLock,FUNC_2
+DeleteChildTargetLocks,FUNC_3
+GET_PREDICATELOCKTARGETTAG_TYPE,FUNC_4
+HASH_ENTER,VAR_0
+LocalPredicateLockHash,VAR_1
+MySerializableXact,VAR_2
+PREDLOCKTAG_TUPLE,VAR_3
+PredicateLockExists,FUNC_5
+PredicateLockTargetTagHashCode,FUNC_6
+hash_search_with_hash_value,FUNC_7
+PredicateLockAcquire,FUNC_8
+targettag,VAR_4
+targettaghash,VAR_5
+found,VAR_6
+locallock,VAR_7

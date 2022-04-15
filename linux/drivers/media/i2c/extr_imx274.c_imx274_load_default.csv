@@ -1,0 +1,8 @@
+IMX274_DEF_FRAME_RATE,VAR_0
+IMX274_DEF_GAIN,VAR_1
+TEST_PATTERN_DISABLED,VAR_2
+imx274_set_frame_interval,FUNC_0
+v4l2_ctrl_s_ctrl,FUNC_1
+imx274_load_default,FUNC_2
+priv,VAR_3
+ret,VAR_4

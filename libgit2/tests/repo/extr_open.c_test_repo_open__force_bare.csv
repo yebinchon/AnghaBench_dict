@@ -1,0 +1,17 @@
+GIT_REPOSITORY_OPEN_BARE,VAR_0
+GIT_REPOSITORY_OPEN_CROSS_FS,VAR_1
+cl_assert,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_mkfile,FUNC_2
+cl_git_pass,FUNC_3
+cl_git_sandbox_init,FUNC_4
+git_repository_free,FUNC_5
+git_repository_is_bare,FUNC_6
+git_repository_open,FUNC_7
+git_repository_open_bare,FUNC_8
+git_repository_open_ext,FUNC_9
+make_gitlink_dir,FUNC_10
+p_mkdir,FUNC_11
+test_repo_open__force_bare,FUNC_12
+repo,VAR_2
+barerepo,VAR_3

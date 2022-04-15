@@ -1,0 +1,17 @@
+CMD,VAR_0
+CMD_BUSY_TIMEOUT,VAR_1
+ENODEV,VAR_2
+EVACK,VAR_3
+EVSTAT,VAR_4
+HERMES_CMD_BUSY,VAR_5
+HERMES_CMD_INIT,VAR_6
+INTEN,VAR_7
+hermes_doicmd_wait,FUNC_0
+hermes_read_regn,FUNC_1
+hermes_write_regn,FUNC_2
+udelay,FUNC_3
+hermes_init,FUNC_4
+hw,VAR_8
+reg,VAR_9
+err,VAR_10
+k,VAR_11

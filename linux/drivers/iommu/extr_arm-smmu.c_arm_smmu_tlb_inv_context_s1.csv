@@ -1,0 +1,7 @@
+ARM_SMMU_CB_S1_TLBIASID,VAR_0
+arm_smmu_cb_write,FUNC_0
+arm_smmu_tlb_sync_context,FUNC_1
+wmb,FUNC_2
+arm_smmu_tlb_inv_context_s1,FUNC_3
+cookie,VAR_1
+smmu_domain,VAR_2

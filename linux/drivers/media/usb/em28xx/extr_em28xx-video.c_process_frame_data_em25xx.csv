@@ -1,0 +1,14 @@
+EM25XX_FRMDATAHDR_BYTE1,VAR_0
+EM25XX_FRMDATAHDR_BYTE2_FRAME_END,VAR_1
+EM25XX_FRMDATAHDR_BYTE2_FRAME_ID,VAR_2
+EM25XX_FRMDATAHDR_BYTE2_MASK,VAR_3
+em28xx_copy_video,FUNC_0
+finish_field_prepare_next,FUNC_1
+process_frame_data_em25xx,FUNC_2
+dev,VAR_4
+data_pkt,VAR_5
+data_len,VAR_6
+buf,VAR_7
+dmaq,VAR_8
+v4l2,VAR_9
+frame_end,VAR_10

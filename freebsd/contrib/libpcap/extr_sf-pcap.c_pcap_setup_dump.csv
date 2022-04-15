@@ -1,0 +1,14 @@
+PCAP_ERRBUF_SIZE,VAR_0
+SET_BINMODE,FUNC_0
+_IONBF,VAR_1
+errno,VAR_2
+fclose,FUNC_1
+pcap_fmt_errmsg_for_errno,FUNC_2
+setvbuf,FUNC_3
+sf_write_header,FUNC_4
+stdout,VAR_3
+pcap_setup_dump,FUNC_5
+p,VAR_4
+linktype,VAR_5
+f,VAR_6
+fname,VAR_7

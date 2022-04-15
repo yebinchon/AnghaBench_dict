@@ -1,0 +1,17 @@
+CREG_CLK_1KHZ,VAR_0
+CREG_CLK_32KHZ,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+clk_creg,VAR_2
+clk_creg_clocks,VAR_3
+clk_creg_data,VAR_4
+clk_creg_early,VAR_5
+clk_register_creg_clk,FUNC_2
+dev_err,FUNC_3
+of_clk_add_provider,FUNC_4
+of_clk_src_onecell_get,VAR_6
+syscon_node_to_regmap,FUNC_5
+lpc18xx_creg_clk_probe,FUNC_6
+pdev,VAR_7
+np,VAR_8
+syscon,VAR_9

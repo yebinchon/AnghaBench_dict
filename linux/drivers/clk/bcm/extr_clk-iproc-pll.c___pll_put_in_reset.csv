@@ -1,0 +1,9 @@
+BIT,FUNC_0
+IPROC_CLK_PLL_RESET_ACTIVE_LOW,VAR_0
+iproc_pll_write,FUNC_1
+readl,FUNC_2
+__pll_put_in_reset,FUNC_3
+pll,VAR_1
+val,VAR_2
+ctrl,VAR_3
+reset,VAR_4

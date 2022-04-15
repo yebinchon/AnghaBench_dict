@@ -1,0 +1,6 @@
+EnsurePartitionTableNotReplicatedForTruncate,FUNC_0
+ErrorIfUnsupportedTruncateStmt,FUNC_1
+ExecuteTruncateStmtSequentialIfNecessary,FUNC_2
+LockTruncatedRelationMetadataInWorkers,FUNC_3
+ProcessTruncateStatement,FUNC_4
+truncateStatement,VAR_0

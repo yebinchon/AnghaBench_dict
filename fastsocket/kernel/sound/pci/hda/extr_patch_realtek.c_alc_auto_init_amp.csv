@@ -1,0 +1,16 @@
+AC_VERB_GET_PROC_COEF,VAR_0
+AC_VERB_SET_COEF_INDEX,VAR_1
+AC_VERB_SET_PROC_COEF,VAR_2
+alc888_coef_init,FUNC_0
+alc889_coef_init,FUNC_1
+alc_auto_setup_eapd,FUNC_2
+alc_gpio1_init_verbs,VAR_3
+alc_gpio2_init_verbs,VAR_4
+alc_gpio3_init_verbs,VAR_5
+snd_hda_codec_read,FUNC_3
+snd_hda_codec_write,FUNC_4
+snd_hda_sequence_write,FUNC_5
+alc_auto_init_amp,FUNC_6
+codec,VAR_6
+type,VAR_7
+tmp,VAR_8

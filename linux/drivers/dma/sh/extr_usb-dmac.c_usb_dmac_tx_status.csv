@@ -1,0 +1,16 @@
+DMA_COMPLETE,VAR_0
+dma_cookie_status,FUNC_0
+dma_set_residue,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_usb_dmac_chan,FUNC_4
+usb_dmac_chan_get_residue,FUNC_5
+usb_dmac_chan_get_residue_if_complete,FUNC_6
+usb_dmac_tx_status,FUNC_7
+chan,VAR_1
+cookie,VAR_2
+txstate,VAR_3
+uchan,VAR_4
+status,VAR_5
+residue,VAR_6
+flags,VAR_7

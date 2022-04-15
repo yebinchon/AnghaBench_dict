@@ -1,0 +1,15 @@
+MT_VEND_MULTI_WRITE,VAR_0
+MT_VEND_TYPE_MASK,VAR_1
+MT_VEND_WRITE_CFG,VAR_2
+USB_DIR_OUT,VAR_3
+USB_TYPE_VENDOR,VAR_4
+__mt76u_vendor_request,FUNC_0
+cpu_to_le32,FUNC_1
+trace_usb_reg_wr,FUNC_2
+__mt76u_wr,FUNC_3
+dev,VAR_5
+addr,VAR_6
+val,VAR_7
+usb,VAR_8
+offset,VAR_9
+req,VAR_10

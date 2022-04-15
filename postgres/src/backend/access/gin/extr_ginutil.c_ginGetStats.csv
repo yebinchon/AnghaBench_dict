@@ -1,0 +1,13 @@
+BufferGetPage,FUNC_0
+GIN_METAPAGE_BLKNO,VAR_0
+GIN_SHARE,VAR_1
+GinPageGetMeta,FUNC_1
+LockBuffer,FUNC_2
+ReadBuffer,FUNC_3
+UnlockReleaseBuffer,FUNC_4
+ginGetStats,FUNC_5
+index,VAR_2
+stats,VAR_3
+metabuffer,VAR_4
+metapage,VAR_5
+metadata,VAR_6

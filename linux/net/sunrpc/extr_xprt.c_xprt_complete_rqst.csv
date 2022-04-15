@@ -1,0 +1,11 @@
+dprintk,FUNC_0
+ntohl,FUNC_1
+rpc_wake_up_queued_task,FUNC_2
+smp_wmb,FUNC_3
+trace_xprt_complete_rqst,FUNC_4
+xprt_request_dequeue_receive_locked,FUNC_5
+xprt_complete_rqst,FUNC_6
+task,VAR_0
+copied,VAR_1
+req,VAR_2
+xprt,VAR_3

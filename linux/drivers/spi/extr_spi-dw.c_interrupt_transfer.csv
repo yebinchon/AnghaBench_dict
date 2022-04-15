@@ -1,0 +1,17 @@
+DW_SPI_ICR,VAR_0
+DW_SPI_ISR,VAR_1
+IRQ_HANDLED,VAR_2
+SPI_INT_RXOI,VAR_3
+SPI_INT_RXUI,VAR_4
+SPI_INT_TXEI,VAR_5
+SPI_INT_TXOI,VAR_6
+dw_reader,FUNC_0
+dw_readl,FUNC_1
+dw_writer,FUNC_2
+int_error_stop,FUNC_3
+spi_finalize_current_transfer,FUNC_4
+spi_mask_intr,FUNC_5
+spi_umask_intr,FUNC_6
+interrupt_transfer,FUNC_7
+dws,VAR_7
+irq_status,VAR_8

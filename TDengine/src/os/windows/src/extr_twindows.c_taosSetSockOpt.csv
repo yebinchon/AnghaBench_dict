@@ -1,0 +1,12 @@
+SOL_SOCKET,VAR_0
+SOL_TCP,VAR_1
+TCP_KEEPCNT,VAR_2
+TCP_KEEPIDLE,VAR_3
+TCP_KEEPINTVL,VAR_4
+setsockopt,FUNC_0
+taosSetSockOpt,FUNC_1
+socketfd,VAR_5
+level,VAR_6
+optname,VAR_7
+optval,VAR_8
+optlen,VAR_9

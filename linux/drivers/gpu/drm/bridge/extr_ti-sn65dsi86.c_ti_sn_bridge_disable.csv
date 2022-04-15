@@ -1,0 +1,12 @@
+SN_ENH_FRAME_REG,VAR_0
+SN_ML_TX_MODE_REG,VAR_1
+SN_PLL_ENABLE_REG,VAR_2
+VSTREAM_ENABLE,VAR_3
+bridge_to_ti_sn_bridge,FUNC_0
+drm_panel_disable,FUNC_1
+drm_panel_unprepare,FUNC_2
+regmap_update_bits,FUNC_3
+regmap_write,FUNC_4
+ti_sn_bridge_disable,FUNC_5
+bridge,VAR_4
+pdata,VAR_5

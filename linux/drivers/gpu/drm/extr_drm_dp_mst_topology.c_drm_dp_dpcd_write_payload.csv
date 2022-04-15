@@ -1,0 +1,17 @@
+DP_PAYLOAD_ALLOCATE_SET,VAR_0
+DP_PAYLOAD_TABLE_UPDATED,VAR_1
+DP_PAYLOAD_TABLE_UPDATE_STATUS,VAR_2
+DRM_DEBUG_KMS,FUNC_0
+EINVAL,VAR_3
+drm_dp_dpcd_readb,FUNC_1
+drm_dp_dpcd_write,FUNC_2
+drm_dp_dpcd_writeb,FUNC_3
+usleep_range,FUNC_4
+drm_dp_dpcd_write_payload,FUNC_5
+mgr,VAR_4
+id,VAR_5
+payload,VAR_6
+payload_alloc,VAR_7
+status,VAR_8
+ret,VAR_9
+retries,VAR_10

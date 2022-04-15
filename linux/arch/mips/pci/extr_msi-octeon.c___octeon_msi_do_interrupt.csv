@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+OCTEON_IRQ_MSI_BIT0,VAR_2
+cvmx_write_csr,FUNC_0
+do_IRQ,FUNC_1
+fls64,FUNC_2
+msi_rcv_reg,VAR_3
+__octeon_msi_do_interrupt,FUNC_3
+index,VAR_4
+msi_bits,VAR_5
+irq,VAR_6
+bit,VAR_7

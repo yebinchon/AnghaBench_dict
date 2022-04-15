@@ -1,0 +1,15 @@
+FB_EVENT_FB_UNREGISTERED,VAR_0
+FB_PIXMAP_DEFAULT,VAR_1
+console_lock,FUNC_0
+console_unlock,FUNC_1
+fb_cleanup_device,FUNC_2
+fb_destroy_modelist,FUNC_3
+fb_notifier_call_chain,FUNC_4
+fbcon_fb_unregistered,FUNC_5
+kfree,FUNC_6
+num_registered_fb,VAR_2
+put_fb_info,FUNC_7
+registered_fb,VAR_3
+unlink_framebuffer,FUNC_8
+do_unregister_framebuffer,FUNC_9
+fb_info,VAR_4

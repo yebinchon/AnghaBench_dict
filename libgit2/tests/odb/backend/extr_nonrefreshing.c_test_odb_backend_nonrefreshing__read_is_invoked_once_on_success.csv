@@ -1,0 +1,10 @@
+GIT_OBJECT_ANY,VAR_0
+_existing_oid,VAR_1
+_fake,VAR_2
+_repo,VAR_3
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_object_free,FUNC_2
+git_object_lookup,FUNC_3
+test_odb_backend_nonrefreshing__read_is_invoked_once_on_success,FUNC_4
+obj,VAR_4

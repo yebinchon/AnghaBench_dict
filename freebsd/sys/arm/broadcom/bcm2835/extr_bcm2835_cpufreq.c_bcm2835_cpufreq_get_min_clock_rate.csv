@@ -1,0 +1,13 @@
+BCM2835_MBOX_CODE_REQ,VAR_0
+BCM2835_MBOX_TAG_GET_MIN_CLOCK_RATE,VAR_1
+DPRINTF,FUNC_0
+MSG_ERROR,VAR_2
+bcm2835_mbox_property,FUNC_1
+device_printf,FUNC_2
+memset,FUNC_3
+bcm2835_cpufreq_get_min_clock_rate,FUNC_4
+sc,VAR_3
+clock_id,VAR_4
+msg,VAR_5
+rate,VAR_6
+err,VAR_7

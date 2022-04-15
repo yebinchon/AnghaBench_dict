@@ -1,0 +1,12 @@
+PALMAS_POWER_CTRL_ENABLE1_MASK,VAR_0
+PALMAS_POWER_CTRL_ENABLE2_MASK,VAR_1
+PALMAS_POWER_CTRL_NSLEEP_MASK,VAR_2
+of_property_read_bool,FUNC_0
+of_property_read_u32,FUNC_1
+palmas_set_pdata_irq_flag,FUNC_2
+palmas_dt_to_pdata,FUNC_3
+i2c,VAR_3
+pdata,VAR_4
+node,VAR_5
+ret,VAR_6
+prop,VAR_7

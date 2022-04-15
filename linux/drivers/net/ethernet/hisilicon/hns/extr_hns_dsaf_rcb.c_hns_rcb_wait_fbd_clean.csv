@@ -1,0 +1,14 @@
+RCB_INT_FLAG_RX,VAR_0
+RCB_INT_FLAG_TX,VAR_1
+RCB_RING_RX_RING_FBDNUM_REG,VAR_2
+RCB_RING_TX_RING_FBDNUM_REG,VAR_3
+dev_err,FUNC_0
+dsaf_read_dev,FUNC_1
+usleep_range,FUNC_2
+hns_rcb_wait_fbd_clean,FUNC_3
+qs,VAR_4
+q_num,VAR_5
+flag,VAR_6
+i,VAR_7
+wait_cnt,VAR_8
+fbd_num,VAR_9

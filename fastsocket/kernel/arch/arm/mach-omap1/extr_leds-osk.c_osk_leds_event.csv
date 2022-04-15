@@ -1,0 +1,13 @@
+IDLE_LED,VAR_0
+LED_STATE_CLAIMED,VAR_1
+LED_STATE_ENABLED,VAR_2
+TIMER_LED,VAR_3
+hw_led_state,VAR_4
+led_state,VAR_5
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+mistral_setled,FUNC_2
+osk_leds_event,FUNC_3
+evt,VAR_6
+flags,VAR_7
+leds,VAR_8

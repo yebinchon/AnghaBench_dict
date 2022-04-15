@@ -1,0 +1,13 @@
+BMA180_CTRL_REG0,VAR_0
+BMA180_DIS_WAKE_UP,VAR_1
+BMA180_OFFSET_LSB1,VAR_2
+BMA180_SMP_SKIP,VAR_3
+bma180_chip_init,FUNC_0
+bma180_set_bits,FUNC_1
+bma180_set_bw,FUNC_2
+bma180_set_ee_writing_state,FUNC_3
+bma180_set_scale,FUNC_4
+dev_err,FUNC_5
+bma180_chip_config,FUNC_6
+data,VAR_4
+ret,VAR_5

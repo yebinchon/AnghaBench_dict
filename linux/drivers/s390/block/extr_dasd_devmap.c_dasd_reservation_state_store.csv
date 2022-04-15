@@ -1,0 +1,16 @@
+DASD_FLAG_LOCK_STOLEN,VAR_0
+EINVAL,VAR_1
+ENODEV,VAR_2
+IS_ERR,FUNC_0
+clear_bit,FUNC_1
+dasd_device_from_cdev,FUNC_2
+dasd_put_device,FUNC_3
+sysfs_streq,FUNC_4
+to_ccwdev,FUNC_5
+dasd_reservation_state_store,FUNC_6
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+count,VAR_6
+device,VAR_7
+rc,VAR_8

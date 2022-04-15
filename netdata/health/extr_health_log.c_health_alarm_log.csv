@@ -1,0 +1,16 @@
+D_HEALTH,VAR_0
+HEALTH_ENTRY_FLAG_UPDATED,VAR_1
+RRDCALC_STATUS_CRITICAL,VAR_2
+RRDCALC_STATUS_WARNING,VAR_3
+alarm_entry_isrepeating,FUNC_0
+debug,FUNC_1
+error,FUNC_2
+health_alarm_log_save,FUNC_3
+netdata_rwlock_rdlock,FUNC_4
+netdata_rwlock_unlock,FUNC_5
+netdata_rwlock_wrlock,FUNC_6
+unlikely,FUNC_7
+health_alarm_log,FUNC_8
+host,VAR_4
+ae,VAR_5
+t,VAR_6

@@ -1,0 +1,17 @@
+CHECK_AND_CALL,FUNC_0
+EBADF,VAR_0
+FD_TABLE_ENTRY_UNUSED,VAR_1
+_lock_acquire,FUNC_1
+_lock_release,FUNC_2
+close,VAR_2
+get_local_fd,FUNC_3
+get_vfs_for_fd,FUNC_4
+s_fd_table,VAR_3
+s_fd_table_lock,VAR_4
+esp_vfs_close,FUNC_5
+r,VAR_5
+fd,VAR_6
+vfs,VAR_7
+local_fd,VAR_8
+r,VAR_9
+ret,VAR_10

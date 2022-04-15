@@ -1,0 +1,17 @@
+PCI_BUS_FLAGS_NO_EXTCFG,VAR_0
+PCI_CAP_ID_PCIX,VAR_1
+PCI_CFG_SPACE_EXP_SIZE,VAR_2
+PCI_CFG_SPACE_SIZE,VAR_3
+PCI_CLASS_BRIDGE_HOST,VAR_4
+PCI_X_STATUS,VAR_5
+PCI_X_STATUS_266MHZ,VAR_6
+PCI_X_STATUS_533MHZ,VAR_7
+pci_cfg_space_size_ext,FUNC_0
+pci_find_capability,FUNC_1
+pci_is_pcie,FUNC_2
+pci_read_config_dword,FUNC_3
+pci_cfg_space_size,FUNC_4
+dev,VAR_8
+pos,VAR_9
+status,VAR_10
+class,VAR_11

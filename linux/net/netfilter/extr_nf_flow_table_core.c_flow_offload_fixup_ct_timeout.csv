@@ -1,0 +1,13 @@
+IPPROTO_TCP,VAR_0
+IPPROTO_UDP,VAR_1
+NF_FLOWTABLE_TCP_PICKUP_TIMEOUT,VAR_2
+NF_FLOWTABLE_UDP_PICKUP_TIMEOUT,VAR_3
+nf_ct_l4proto_find,FUNC_0
+nf_ct_protonum,FUNC_1
+nf_flow_timeout_delta,FUNC_2
+nfct_time_stamp,VAR_4
+flow_offload_fixup_ct_timeout,FUNC_3
+ct,VAR_5
+l4proto,VAR_6
+l4num,VAR_7
+timeout,VAR_8

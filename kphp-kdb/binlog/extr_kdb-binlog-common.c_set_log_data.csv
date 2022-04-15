@@ -1,0 +1,15 @@
+LogCopyBuffer,VAR_0
+ULOG_BUFFER_SIZE,VAR_1
+W,VAR_2
+binlog_check_mode,VAR_3
+binlog_fd,VAR_4
+binlog_size,VAR_5
+exit,FUNC_0
+fprintf,FUNC_1
+load_binlog_headers,FUNC_2
+log_pos,VAR_6
+malloc,FUNC_3
+stderr,VAR_7
+set_log_data,FUNC_4
+logfd,VAR_8
+logsize,VAR_9

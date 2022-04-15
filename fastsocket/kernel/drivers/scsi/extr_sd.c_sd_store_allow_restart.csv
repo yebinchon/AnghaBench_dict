@@ -1,0 +1,14 @@
+CAP_SYS_ADMIN,VAR_0
+EACCES,VAR_1
+EINVAL,VAR_2
+TYPE_DISK,VAR_3
+capable,FUNC_0
+simple_strtoul,FUNC_1
+to_scsi_disk,FUNC_2
+sd_store_allow_restart,FUNC_3
+dev,VAR_4
+attr,VAR_5
+buf,VAR_6
+count,VAR_7
+sdkp,VAR_8
+sdp,VAR_9

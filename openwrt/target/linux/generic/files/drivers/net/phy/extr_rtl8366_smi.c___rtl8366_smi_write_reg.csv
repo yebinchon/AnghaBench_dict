@@ -1,0 +1,13 @@
+rtl8366_smi_start,FUNC_0
+rtl8366_smi_stop,FUNC_1
+rtl8366_smi_write_byte,FUNC_2
+rtl8366_smi_write_byte_noack,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+__rtl8366_smi_write_reg,FUNC_6
+smi,VAR_0
+addr,VAR_1
+data,VAR_2
+ack,VAR_3
+flags,VAR_4
+ret,VAR_5

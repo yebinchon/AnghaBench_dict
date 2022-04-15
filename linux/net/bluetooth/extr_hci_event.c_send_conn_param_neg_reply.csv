@@ -1,0 +1,8 @@
+HCI_OP_LE_CONN_PARAM_REQ_NEG_REPLY,VAR_0
+cpu_to_le16,FUNC_0
+hci_send_cmd,FUNC_1
+send_conn_param_neg_reply,FUNC_2
+hdev,VAR_1
+handle,VAR_2
+reason,VAR_3
+cp,VAR_4

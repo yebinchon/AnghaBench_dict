@@ -1,0 +1,17 @@
+BIT,FUNC_0
+ST_PINCONF_OD,VAR_0
+ST_PINCONF_OE,VAR_1
+ST_PINCONF_PU,VAR_2
+regmap_field_read,FUNC_1
+regmap_field_write,FUNC_2
+st_pinconf_set_config,FUNC_3
+pc,VAR_3
+pin,VAR_4
+config,VAR_5
+output_enable,VAR_6
+pull_up,VAR_7
+open_drain,VAR_8
+oe_value,VAR_9
+pu_value,VAR_10
+od_value,VAR_11
+mask,VAR_12

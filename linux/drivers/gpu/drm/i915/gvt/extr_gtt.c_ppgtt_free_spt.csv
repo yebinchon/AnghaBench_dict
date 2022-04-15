@@ -1,0 +1,12 @@
+I915_GTT_PAGE_SHIFT,VAR_0
+PCI_DMA_BIDIRECTIONAL,VAR_1
+detach_oos_page,FUNC_0
+dma_unmap_page,FUNC_1
+free_spt,FUNC_2
+intel_vgpu_unregister_page_track,FUNC_3
+list_del_init,FUNC_4
+radix_tree_delete,FUNC_5
+trace_spt_free,FUNC_6
+ppgtt_free_spt,FUNC_7
+spt,VAR_2
+kdev,VAR_3

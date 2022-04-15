@@ -1,0 +1,15 @@
+ENET_IRMASK_REG,VAR_0
+ENET_IR_MIB,VAR_1
+ENET_IR_REG,VAR_2
+IRQ_HANDLED,VAR_3
+IRQ_NONE,VAR_4
+enet_readl,FUNC_0
+enet_writel,FUNC_1
+netdev_priv,FUNC_2
+schedule_work,FUNC_3
+bcm_enet_isr_mac,FUNC_4
+irq,VAR_5
+dev_id,VAR_6
+dev,VAR_7
+priv,VAR_8
+stat,VAR_9

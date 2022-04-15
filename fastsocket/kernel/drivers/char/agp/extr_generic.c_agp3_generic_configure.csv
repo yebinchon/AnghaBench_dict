@@ -1,0 +1,15 @@
+AGPAPSIZE,VAR_0
+AGPCTRL,VAR_1
+AGPCTRL_APERENB,VAR_2
+AGPCTRL_GTLBEN,VAR_3
+AGPGARTLO,VAR_4
+AGP_APBASE,VAR_5
+A_SIZE_16,FUNC_0
+PCI_BASE_ADDRESS_MEM_MASK,VAR_6
+agp_bridge,VAR_7
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+pci_write_config_word,FUNC_3
+agp3_generic_configure,FUNC_4
+temp,VAR_8
+current_size,VAR_9

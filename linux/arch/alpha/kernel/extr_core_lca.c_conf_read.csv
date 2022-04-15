@@ -1,0 +1,16 @@
+LCA_IOC_STAT0,VAR_0
+LCA_IOC_STAT0_CODE_MASK,VAR_1
+LCA_IOC_STAT0_CODE_SHIFT,VAR_2
+LCA_IOC_STAT0_ERR,VAR_3
+draina,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+mb,FUNC_3
+printk,FUNC_4
+wrmces,FUNC_5
+conf_read,FUNC_6
+addr,VAR_4
+flags,VAR_5
+code,VAR_6
+stat0,VAR_7
+value,VAR_8

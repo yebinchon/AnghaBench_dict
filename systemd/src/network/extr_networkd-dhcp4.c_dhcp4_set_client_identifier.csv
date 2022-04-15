@@ -1,0 +1,16 @@
+ARPHRD_ETHER,VAR_0
+DUID_TYPE_LLT,VAR_1
+assert,FUNC_0
+assert_not_reached,FUNC_1
+link_get_duid,FUNC_2
+log_link_error_errno,FUNC_3
+sd_dhcp_client_set_client_id,FUNC_4
+sd_dhcp_client_set_duid,FUNC_5
+sd_dhcp_client_set_duid_llt,FUNC_6
+sd_dhcp_client_set_iaid_duid,FUNC_7
+sd_dhcp_client_set_iaid_duid_llt,FUNC_8
+dhcp4_set_client_identifier,FUNC_9
+link,VAR_2
+r,VAR_3
+duid,VAR_4
+duid,VAR_5

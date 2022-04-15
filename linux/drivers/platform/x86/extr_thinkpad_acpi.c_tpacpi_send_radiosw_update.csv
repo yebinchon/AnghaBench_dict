@@ -1,0 +1,15 @@
+SW_RFKILL_ALL,VAR_0
+TPACPI_RFK_RADIO_OFF,VAR_1
+TPACPI_RFK_RADIO_ON,VAR_2
+hotkey_get_wlsw,FUNC_0
+hotkey_radio_sw_notify_change,FUNC_1
+input_report_switch,FUNC_2
+input_sync,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+tpacpi_inputdev,VAR_3
+tpacpi_inputdev_send_mutex,VAR_4
+tpacpi_rfk_update_hwblock_state,FUNC_6
+tpacpi_rfk_update_swstate_all,FUNC_7
+tpacpi_send_radiosw_update,FUNC_8
+wlsw,VAR_5

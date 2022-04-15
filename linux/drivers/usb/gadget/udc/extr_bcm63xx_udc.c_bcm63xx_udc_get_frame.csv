@@ -1,0 +1,8 @@
+USBD_STATUS_REG,VAR_0
+USBD_STATUS_SOF_MASK,VAR_1
+USBD_STATUS_SOF_SHIFT,VAR_2
+gadget_to_udc,FUNC_0
+usbd_readl,FUNC_1
+bcm63xx_udc_get_frame,FUNC_2
+gadget,VAR_3
+udc,VAR_4

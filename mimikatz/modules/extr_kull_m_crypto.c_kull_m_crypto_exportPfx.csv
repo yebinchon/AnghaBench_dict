@@ -1,0 +1,15 @@
+EXPORT_PRIVATE_KEYS,VAR_0
+FALSE,VAR_1
+LPTR,VAR_2
+LocalAlloc,FUNC_0
+LocalFree,FUNC_1
+MIMIKATZ,VAR_3
+PFXExportCertStoreEx,FUNC_2
+PRINT_ERROR_AUTO,FUNC_3
+REPORT_NOT_ABLE_TO_EXPORT_PRIVATE_KEY,VAR_4
+kull_m_file_writeData,FUNC_4
+kull_m_crypto_exportPfx,FUNC_5
+hStore,VAR_5
+filename,VAR_6
+isExported,VAR_7
+bDataBlob,VAR_8

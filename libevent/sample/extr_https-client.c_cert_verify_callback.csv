@@ -1,0 +1,16 @@
+X509_NAME_oneline,FUNC_0
+X509_STORE_CTX_get_current_cert,FUNC_1
+X509_get_subject_name,FUNC_2
+X509_verify_cert,FUNC_3
+ignore_cert,VAR_0
+printf,FUNC_4
+validate_hostname,FUNC_5
+cert_verify_callback,FUNC_6
+x509_ctx,VAR_1
+arg,VAR_2
+cert_str,VAR_3
+host,VAR_4
+res_str,VAR_5
+res,VAR_6
+ok_so_far,VAR_7
+server_cert,VAR_8

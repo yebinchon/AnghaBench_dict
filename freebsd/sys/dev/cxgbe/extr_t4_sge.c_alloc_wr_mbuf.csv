@@ -1,0 +1,14 @@
+MCLBYTES,VAR_0
+MC_RAW_WR,VAR_1
+MHLEN,VAR_2
+MT_DATA,VAR_3
+M_PKTHDR,VAR_4
+howmany,FUNC_0
+m_getcl,FUNC_1
+m_gethdr,FUNC_2
+set_mbuf_cflags,FUNC_3
+set_mbuf_len16,FUNC_4
+alloc_wr_mbuf,FUNC_5
+len,VAR_5
+how,VAR_6
+m,VAR_7

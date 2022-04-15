@@ -1,0 +1,11 @@
+RTC_DEV_BUSY,VAR_0
+RTC_UIE_OFF,VAR_1
+clear_bit_unlock,FUNC_0
+rtc_dev_ioctl,FUNC_1
+rtc_irq_set_state,FUNC_2
+rtc_update_irq_enable,FUNC_3
+stub1,FUNC_4
+rtc_dev_release,FUNC_5
+inode,VAR_2
+file,VAR_3
+rtc,VAR_4

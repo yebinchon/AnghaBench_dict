@@ -1,0 +1,17 @@
+ACLCHECK_OK,VAR_0
+ACL_USAGE,VAR_1
+GetUserId,FUNC_0
+InvalidOid,VAR_2
+InvokeNamespaceSearchHook,FUNC_1
+OBJECT_SCHEMA,VAR_3
+OidIsValid,FUNC_2
+aclcheck_error,FUNC_3
+get_namespace_oid,FUNC_4
+myTempNamespace,VAR_4
+pg_namespace_aclcheck,FUNC_5
+strcmp,FUNC_6
+LookupExplicitNamespace,FUNC_7
+nspname,VAR_5
+missing_ok,VAR_6
+namespaceId,VAR_7
+aclresult,VAR_8

@@ -1,0 +1,11 @@
+BCMA_CC_NFLASH_CTL,VAR_0
+EBUSY,VAR_1
+NCTL_START,VAR_2
+NFLASH_READY_RETRIES,VAR_3
+bcma_cc_read32,FUNC_0
+bcma_cc_write32,FUNC_1
+pr_err,FUNC_2
+bcm47xxnflash_ops_bcm4706_ctl_cmd,FUNC_3
+cc,VAR_4
+code,VAR_5
+i,VAR_6

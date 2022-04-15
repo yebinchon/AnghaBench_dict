@@ -1,0 +1,11 @@
+CDO_Disarm_Bit,VAR_0
+CDO_Empty_FIFO_Interrupt_Enable_Clear_Bit,VAR_1
+CDO_Error_Interrupt_Enable_Clear_Bit,VAR_2
+CDO_FIFO_Request_Interrupt_Enable_Clear_Bit,VAR_3
+M_Offset_CDIO_Command,VAR_4
+M_Offset_CDO_Mask_Enable,VAR_5
+ni_release_cdo_mite_channel,FUNC_0
+ni_writel,FUNC_1
+ni_cdio_cancel,FUNC_2
+dev,VAR_6
+s,VAR_7

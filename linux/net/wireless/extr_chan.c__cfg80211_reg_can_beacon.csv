@@ -1,0 +1,15 @@
+IEEE80211_CHAN_DISABLED,VAR_0
+IEEE80211_CHAN_NO_IR,VAR_1
+IEEE80211_CHAN_RADAR,VAR_2
+cfg80211_chandef_dfs_available,FUNC_0
+cfg80211_chandef_dfs_required,FUNC_1
+cfg80211_chandef_usable,FUNC_2
+trace_cfg80211_reg_can_beacon,FUNC_3
+trace_cfg80211_return_bool,FUNC_4
+_cfg80211_reg_can_beacon,FUNC_5
+wiphy,VAR_3
+chandef,VAR_4
+iftype,VAR_5
+check_no_ir,VAR_6
+res,VAR_7
+prohibited_flags,VAR_8

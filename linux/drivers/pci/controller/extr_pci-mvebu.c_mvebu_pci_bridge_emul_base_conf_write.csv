@@ -1,0 +1,15 @@
+PCI_COMMAND_IO,VAR_0
+PCI_COMMAND_MEMORY,VAR_1
+PCI_IO_RANGE_TYPE_32,VAR_2
+mvebu_has_ioport,FUNC_0
+mvebu_pcie_handle_iobase_change,FUNC_1
+mvebu_pcie_handle_membase_change,FUNC_2
+mvebu_pcie_set_local_bus_nr,FUNC_3
+mvebu_pci_bridge_emul_base_conf_write,FUNC_4
+bridge,VAR_3
+reg,VAR_4
+old,VAR_5
+new,VAR_6
+mask,VAR_7
+port,VAR_8
+conf,VAR_9

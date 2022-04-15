@@ -1,0 +1,12 @@
+PLX9056_CNTRL,VAR_0
+PLX9056_PCI_RCR,VAR_1
+PLX_PCI_RESET,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+mdelay,FUNC_2
+pci_get_drvdata,FUNC_3
+udelay,FUNC_4
+plx9056_pci_reset_common,FUNC_5
+pdev,VAR_3
+card,VAR_4
+cntrl,VAR_5

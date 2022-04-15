@@ -1,0 +1,13 @@
+F2FS_DIRTY_QDATA,VAR_0
+SBI_QUOTA_NEED_FLUSH,VAR_1
+SBI_QUOTA_NEED_REPAIR,VAR_2
+SBI_QUOTA_SKIP_FLUSH,VAR_3
+clear_sbi_flag,FUNC_0
+down_write,FUNC_1
+get_pages,FUNC_2
+is_journalled_quota,FUNC_3
+is_sbi_flag_set,FUNC_4
+up_write,FUNC_5
+__need_flush_quota,FUNC_6
+sbi,VAR_4
+ret,VAR_5

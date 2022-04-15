@@ -1,0 +1,13 @@
+EXT4_IGET_SPECIAL,VAR_0
+IS_ERR,FUNC_0
+KERN_ERR,VAR_1
+S_ISREG,FUNC_1
+ext4_iget,FUNC_2
+ext4_msg,FUNC_3
+iput,FUNC_4
+jbd_debug,FUNC_5
+make_bad_inode,FUNC_6
+ext4_get_journal_inode,FUNC_7
+sb,VAR_2
+journal_inum,VAR_3
+journal_inode,VAR_4

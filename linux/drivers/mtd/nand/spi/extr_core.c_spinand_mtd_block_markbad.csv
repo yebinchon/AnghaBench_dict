@@ -1,0 +1,13 @@
+mtd_to_nanddev,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+nand_to_spinand,FUNC_3
+nanddev_markbad,FUNC_4
+nanddev_offs_to_pos,FUNC_5
+spinand_mtd_block_markbad,FUNC_6
+mtd,VAR_0
+offs,VAR_1
+nand,VAR_2
+spinand,VAR_3
+pos,VAR_4
+ret,VAR_5

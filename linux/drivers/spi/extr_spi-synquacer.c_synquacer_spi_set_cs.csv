@@ -1,0 +1,11 @@
+SYNQUACER_HSSPI_DMPSEL_CS_MASK,VAR_0
+SYNQUACER_HSSPI_DMPSEL_CS_SHIFT,VAR_1
+SYNQUACER_HSSPI_REG_DMSTART,VAR_2
+readl,FUNC_0
+spi_master_get_devdata,FUNC_1
+writel,FUNC_2
+synquacer_spi_set_cs,FUNC_3
+spi,VAR_3
+enable,VAR_4
+sspi,VAR_5
+val,VAR_6

@@ -1,0 +1,14 @@
+BHND_SERVICE_ANY,VAR_0
+CHIPC_LOCK_DESTROY,FUNC_0
+RF_ACTIVE,VAR_1
+RF_ALLOCATED,VAR_2
+bhnd_deregister_provider,FUNC_1
+bus_generic_detach,FUNC_2
+chipc_free_rman,FUNC_3
+chipc_release_region,FUNC_4
+device_delete_children,FUNC_5
+device_get_softc,FUNC_6
+chipc_detach,FUNC_7
+dev,VAR_3
+sc,VAR_4
+error,VAR_5

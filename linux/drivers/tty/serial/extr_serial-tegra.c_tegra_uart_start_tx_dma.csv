@@ -1,0 +1,17 @@
+DMA_MEM_TO_DEV,VAR_0
+DMA_PREP_INTERRUPT,VAR_1
+DMA_TO_DEVICE,VAR_2
+EIO,VAR_3
+TEGRA_UART_TX_DMA,VAR_4
+UART_XMIT_SIZE,VAR_5
+dev_err,FUNC_0
+dma_async_issue_pending,FUNC_1
+dma_sync_single_for_device,FUNC_2
+dmaengine_prep_slave_single,FUNC_3
+dmaengine_submit,FUNC_4
+tegra_uart_tx_dma_complete,VAR_6
+tegra_uart_start_tx_dma,FUNC_5
+tup,VAR_7
+count,VAR_8
+xmit,VAR_9
+tx_phys_addr,VAR_10

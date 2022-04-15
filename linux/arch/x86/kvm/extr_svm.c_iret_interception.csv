@@ -1,0 +1,8 @@
+HF_IRET_MASK,VAR_0
+INTERCEPT_IRET,VAR_1
+KVM_REQ_EVENT,VAR_2
+clr_intercept,FUNC_0
+kvm_make_request,FUNC_1
+kvm_rip_read,FUNC_2
+iret_interception,FUNC_3
+svm,VAR_3

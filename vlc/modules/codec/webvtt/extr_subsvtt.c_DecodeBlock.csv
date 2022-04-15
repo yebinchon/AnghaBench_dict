@@ -1,0 +1,14 @@
+BLOCK_FLAG_DISCONTINUITY,VAR_0
+ClearCuesByTime,FUNC_0
+Flush,FUNC_1
+ProcessISOBMFF,FUNC_2
+Render,FUNC_3
+VLCDEC_SUCCESS,VAR_1
+VLC_TICK_0,VAR_2
+block_Release,FUNC_4
+DecodeBlock,FUNC_5
+p_dec,VAR_3
+p_block,VAR_4
+p_sys,VAR_5
+i_start,VAR_6
+i_stop,VAR_7

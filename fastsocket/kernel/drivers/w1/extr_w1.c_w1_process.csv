@@ -1,0 +1,17 @@
+TASK_INTERRUPTIBLE,VAR_0
+W1_SEARCH,VAR_1
+__set_current_state,FUNC_0
+atomic_dec,FUNC_1
+kthread_should_stop,FUNC_2
+msecs_to_jiffies,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+schedule,FUNC_6
+schedule_timeout,FUNC_7
+try_to_freeze,FUNC_8
+w1_search_process,FUNC_9
+w1_timeout,VAR_2
+w1_process,FUNC_10
+data,VAR_3
+dev,VAR_4
+jtime,VAR_5

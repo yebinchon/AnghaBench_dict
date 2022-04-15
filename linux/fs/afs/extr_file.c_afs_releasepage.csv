@@ -1,0 +1,15 @@
+AFS_FS_I,FUNC_0
+ClearPagePrivate,FUNC_1
+PagePrivate,FUNC_2
+_enter,FUNC_3
+_leave,FUNC_4
+fscache_maybe_release_page,FUNC_5
+page_private,FUNC_6
+set_page_private,FUNC_7
+trace_afs_page_dirty,FUNC_8
+tracepoint_string,FUNC_9
+afs_releasepage,FUNC_10
+page,VAR_0
+gfp_flags,VAR_1
+vnode,VAR_2
+priv,VAR_3

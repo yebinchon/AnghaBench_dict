@@ -1,0 +1,16 @@
+CurrentStateChange,VAR_0
+GetContextManipulateHandler,VAR_1
+InException,VAR_2
+KDDBGPRINT,FUNC_0
+KdpManipulateStateHandler,VAR_3
+PsGetThreadId,FUNC_1
+PsGetThreadProcessId,FUNC_2
+TRUE,VAR_4
+gdb_dbg_pid,VAR_5
+gdb_dbg_tid,VAR_6
+gdb_send_exception,FUNC_3
+handle_to_gdb_pid,FUNC_4
+handle_to_gdb_tid,FUNC_5
+send_kd_state_change,FUNC_6
+StateChange,VAR_7
+Thread,VAR_8

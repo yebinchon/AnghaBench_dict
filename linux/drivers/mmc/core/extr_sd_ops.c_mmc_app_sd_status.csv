@@ -1,0 +1,17 @@
+MMC_CMD_ADTC,VAR_0
+MMC_DATA_READ,VAR_1
+MMC_RSP_R1,VAR_2
+MMC_RSP_SPI_R2,VAR_3
+SD_APP_SD_STATUS,VAR_4
+mmc_app_cmd,FUNC_0
+mmc_set_data_timeout,FUNC_1
+mmc_wait_for_req,FUNC_2
+sg_init_one,FUNC_3
+mmc_app_sd_status,FUNC_4
+card,VAR_5
+ssr,VAR_6
+err,VAR_7
+mrq,VAR_8
+cmd,VAR_9
+data,VAR_10
+sg,VAR_11

@@ -1,0 +1,11 @@
+TPACPI_FAN_WR_NONE,VAR_0
+TPACPI_LIFE_EXITING,VAR_1
+cancel_delayed_work,FUNC_0
+fan_control_access_mode,VAR_2
+fan_watchdog_maxinterval,VAR_3
+fan_watchdog_task,VAR_4
+mod_delayed_work,FUNC_1
+msecs_to_jiffies,FUNC_2
+tpacpi_lifecycle,VAR_5
+tpacpi_wq,VAR_6
+fan_watchdog_reset,FUNC_3

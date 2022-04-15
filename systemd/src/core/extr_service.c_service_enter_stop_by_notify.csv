@@ -1,0 +1,11 @@
+CLOCK_MONOTONIC,VAR_0
+SERVICE_STOP_SIGTERM,VAR_1
+UNIT,FUNC_0
+assert,FUNC_1
+now,FUNC_2
+service_arm_timer,FUNC_3
+service_set_state,FUNC_4
+unit_enqueue_rewatch_pids,FUNC_5
+usec_add,FUNC_6
+service_enter_stop_by_notify,FUNC_7
+s,VAR_2

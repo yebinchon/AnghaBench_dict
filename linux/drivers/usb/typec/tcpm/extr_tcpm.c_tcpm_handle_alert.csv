@@ -1,0 +1,14 @@
+GET_STATUS_SEND,VAR_0
+PD_MSG_CTRL_WAIT,VAR_1
+USB_PD_ADO_TYPE_BATT_STATUS_CHANGE,VAR_2
+le32_to_cpu,FUNC_0
+tcpm_log,FUNC_1
+tcpm_queue_message,FUNC_2
+tcpm_set_state,FUNC_3
+usb_pd_ado_type,FUNC_4
+tcpm_handle_alert,FUNC_5
+port,VAR_3
+payload,VAR_4
+cnt,VAR_5
+p0,VAR_6
+type,VAR_7

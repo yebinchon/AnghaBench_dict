@@ -1,0 +1,13 @@
+MSG_DEBUG,VAR_0
+SSL_CTX_get0_certificate,FUNC_0
+SSL_CTX_get0_chain_certs,FUNC_1
+STACK_OF,FUNC_2
+X509,VAR_1
+certs,VAR_2
+openssl_debug_dump_certificate,FUNC_3
+sk_X509_num,FUNC_4
+sk_X509_value,FUNC_5
+wpa_printf,FUNC_6
+openssl_debug_dump_certificates,FUNC_7
+ssl_ctx,VAR_3
+i,VAR_4

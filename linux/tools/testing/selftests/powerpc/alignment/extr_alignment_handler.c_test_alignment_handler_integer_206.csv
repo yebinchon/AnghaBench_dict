@@ -1,0 +1,11 @@
+LOAD_XFORM_TEST,FUNC_0
+PPC_FEATURE_ARCH_2_06,VAR_0
+SKIP_IF,FUNC_1
+STORE_XFORM_TEST,FUNC_2
+can_open_fb0,FUNC_3
+have_hwcap,FUNC_4
+ldbrx,VAR_1
+printf,FUNC_5
+stdbrx,VAR_2
+test_alignment_handler_integer_206,FUNC_6
+rc,VAR_3

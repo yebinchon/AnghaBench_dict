@@ -1,0 +1,16 @@
+TFFS_BLOCK_HEADER_MAGIC,VAR_0
+TFFS_SECTORS_PER_PAGE,VAR_1
+check_sector,FUNC_0
+fprintf,FUNC_1
+read_sector,FUNC_2
+read_uint32,FUNC_3
+read_uint64,FUNC_4
+readbuf,VAR_2
+sector_mark_bad,FUNC_5
+stderr,VAR_3
+check_block,FUNC_6
+pos,VAR_4
+sector,VAR_5
+num_hdr_bad,VAR_6
+i,VAR_7
+bad,VAR_8

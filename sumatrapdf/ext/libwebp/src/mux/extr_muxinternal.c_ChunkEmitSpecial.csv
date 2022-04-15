@@ -1,0 +1,14 @@
+CHUNK_HEADER_SIZE,VAR_0
+ChunkDiskSize,FUNC_0
+IDX_ANMF,VAR_1
+PutLE32,FUNC_1
+TAG_SIZE,VAR_2
+assert,FUNC_2
+kChunks,VAR_3
+memcpy,FUNC_3
+ChunkEmitSpecial,FUNC_4
+header,VAR_4
+total_size,VAR_5
+dst,VAR_6
+header_size,VAR_7
+offset_to_next,VAR_8

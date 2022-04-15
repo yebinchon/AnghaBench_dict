@@ -1,0 +1,12 @@
+BIO_printf,FUNC_0
+ERR_clear_error,FUNC_1
+ERR_print_errors,FUNC_2
+NCONF_get_string,FUNC_3
+OPENSSL_strdup,FUNC_4
+RAND_load_file,FUNC_5
+bio_err,VAR_0
+save_rand_file,VAR_1
+app_RAND_load_conf,FUNC_6
+c,VAR_2
+section,VAR_3
+randfile,VAR_4

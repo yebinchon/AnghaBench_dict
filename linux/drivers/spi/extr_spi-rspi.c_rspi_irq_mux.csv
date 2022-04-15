@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+RSPI_SPSR,VAR_2
+SPCR_SPRIE,VAR_3
+SPCR_SPTIE,VAR_4
+SPSR_SPRF,VAR_5
+SPSR_SPTEF,VAR_6
+rspi_disable_irq,FUNC_0
+rspi_read8,FUNC_1
+wake_up,FUNC_2
+rspi_irq_mux,FUNC_3
+irq,VAR_7
+_sr,VAR_8
+rspi,VAR_9
+spsr,VAR_10
+ret,VAR_11
+disable_irq,VAR_12

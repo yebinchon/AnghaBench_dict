@@ -1,0 +1,12 @@
+SIGNAL_STOP_STOPPED,VAR_0
+UTRACE_REPORT,VAR_1
+lock_task_sighand,FUNC_0
+ptrace_context,FUNC_1
+unlock_task_sighand,FUNC_2
+utrace_control,FUNC_3
+ptrace_wake_up,FUNC_4
+tracee,VAR_2
+engine,VAR_3
+action,VAR_4
+force_wakeup,VAR_5
+flags,VAR_6

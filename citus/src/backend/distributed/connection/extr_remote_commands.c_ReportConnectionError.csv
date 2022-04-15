@@ -1,0 +1,15 @@
+ApplyLogRedaction,FUNC_0
+ERRCODE_CONNECTION_FAILURE,VAR_0
+PQerrorMessage,FUNC_1
+ereport,FUNC_2
+errcode,FUNC_3
+errdetail,FUNC_4
+errmsg,FUNC_5
+pchomp,FUNC_6
+ReportConnectionError,FUNC_7
+connection,VAR_1
+elevel,VAR_2
+nodeName,VAR_3
+nodePort,VAR_4
+pgConn,VAR_5
+messageDetail,VAR_6

@@ -1,0 +1,11 @@
+IS_QLA8044,FUNC_0
+LEG_INTR_MASK_OFFSET,VAR_0
+pci_get_drvdata,FUNC_1
+qla8044_wr_reg,FUNC_2
+qla82xx_mbx_intr_enable,FUNC_3
+qla82xx_wr_32,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+qla82xx_enable_intrs,FUNC_7
+ha,VAR_1
+vha,VAR_2

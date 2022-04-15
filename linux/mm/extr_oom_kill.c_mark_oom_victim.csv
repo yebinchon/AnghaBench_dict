@@ -1,0 +1,15 @@
+MMF_OOM_VICTIM,VAR_0
+TIF_MEMDIE,VAR_1
+WARN_ON,FUNC_0
+__thaw_task,FUNC_1
+atomic_inc,FUNC_2
+cmpxchg,FUNC_3
+mmgrab,FUNC_4
+oom_killer_disabled,VAR_2
+oom_victims,VAR_3
+set_bit,FUNC_5
+test_and_set_tsk_thread_flag,FUNC_6
+trace_mark_victim,FUNC_7
+mark_oom_victim,FUNC_8
+tsk,VAR_4
+mm,VAR_5

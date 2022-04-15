@@ -1,0 +1,13 @@
+assert,FUNC_0
+clEnqueueNDRangeKernel,FUNC_1
+clReleaseEvent,FUNC_2
+clSetKernelArg,FUNC_3
+clWaitForEvents,FUNC_4
+rgb_to_yuv_queue,FUNC_5
+s,VAR_0
+q,VAR_1
+rgb_cl,VAR_2
+yuv_cl,VAR_3
+err,VAR_4
+work_size,VAR_5
+event,VAR_6

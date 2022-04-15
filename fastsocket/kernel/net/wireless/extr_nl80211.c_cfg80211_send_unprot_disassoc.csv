@@ -1,0 +1,12 @@
+GFP_ATOMIC,VAR_0
+NL80211_CMD_UNPROT_DISASSOCIATE,VAR_1
+nl80211_send_mlme_event,FUNC_0
+trace_cfg80211_send_unprot_disassoc,FUNC_1
+wiphy_to_dev,FUNC_2
+cfg80211_send_unprot_disassoc,FUNC_3
+dev,VAR_2
+buf,VAR_3
+len,VAR_4
+wdev,VAR_5
+wiphy,VAR_6
+rdev,VAR_7

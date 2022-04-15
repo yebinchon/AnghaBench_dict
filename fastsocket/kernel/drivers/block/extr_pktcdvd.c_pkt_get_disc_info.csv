@@ -1,0 +1,10 @@
+CGC_DATA_READ,VAR_0
+GPCMD_READ_DISC_INFO,VAR_1
+be16_to_cpu,FUNC_0
+init_cdrom_command,FUNC_1
+pkt_generic_packet,FUNC_2
+pkt_get_disc_info,FUNC_3
+pd,VAR_2
+di,VAR_3
+cgc,VAR_4
+ret,VAR_5

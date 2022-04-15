@@ -1,0 +1,12 @@
+TPM_CHIP_FLAG_IRQ,VAR_0
+TPM_GLOBAL_INT_ENABLE,VAR_1
+TPM_INT_ENABLE,FUNC_0
+dev_get_drvdata,FUNC_1
+devm_free_irq,FUNC_2
+tpm_tis_read32,FUNC_3
+tpm_tis_write32,FUNC_4
+disable_interrupts,FUNC_5
+chip,VAR_2
+priv,VAR_3
+intmask,VAR_4
+rc,VAR_5

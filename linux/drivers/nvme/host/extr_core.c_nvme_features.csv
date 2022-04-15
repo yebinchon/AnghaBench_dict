@@ -1,0 +1,16 @@
+NVME_QID_ANY,VAR_0
+__nvme_submit_sync_cmd,FUNC_0
+cpu_to_le32,FUNC_1
+le32_to_cpu,FUNC_2
+memset,FUNC_3
+nvme_features,FUNC_4
+dev,VAR_1
+op,VAR_2
+fid,VAR_3
+dword11,VAR_4
+buffer,VAR_5
+buflen,VAR_6
+result,VAR_7
+c,VAR_8
+res,VAR_9
+ret,VAR_10

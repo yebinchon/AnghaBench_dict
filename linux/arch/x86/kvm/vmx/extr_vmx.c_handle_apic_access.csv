@@ -1,0 +1,16 @@
+APIC_ACCESS_OFFSET,VAR_0
+APIC_ACCESS_TYPE,VAR_1
+APIC_EOI,VAR_2
+EXIT_QUALIFICATION,VAR_3
+TYPE_LINEAR_APIC_INST_WRITE,VAR_4
+fasteoi,VAR_5
+kvm_emulate_instruction,FUNC_0
+kvm_lapic_set_eoi,FUNC_1
+kvm_skip_emulated_instruction,FUNC_2
+likely,FUNC_3
+vmcs_readl,FUNC_4
+handle_apic_access,FUNC_5
+vcpu,VAR_6
+exit_qualification,VAR_7
+access_type,VAR_8
+offset,VAR_9

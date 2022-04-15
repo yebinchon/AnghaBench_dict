@@ -1,0 +1,12 @@
+LPC18XX_EEPROM_PWRDWN,VAR_0
+LPC18XX_EEPROM_PWRDWN_NO,VAR_1
+LPC18XX_EEPROM_PWRDWN_YES,VAR_2
+lpc18xx_eeprom_writel,FUNC_0
+readl,FUNC_1
+usleep_range,FUNC_2
+lpc18xx_eeprom_read,FUNC_3
+context,VAR_3
+offset,VAR_4
+val,VAR_5
+bytes,VAR_6
+eeprom,VAR_7

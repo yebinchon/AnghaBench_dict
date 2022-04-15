@@ -1,0 +1,13 @@
+SYNC_SKCIPHER_REQUEST_ON_STACK,FUNC_0
+aead_request_flags,FUNC_1
+crypto_aead_ctx,FUNC_2
+crypto_aead_reqtfm,FUNC_3
+crypto_skcipher_encrypt,FUNC_4
+skcipher_request_set_callback,FUNC_5
+skcipher_request_set_crypt,FUNC_6
+skcipher_request_set_sync_tfm,FUNC_7
+skreq,VAR_0
+crypto_authenc_copy_assoc,FUNC_8
+req,VAR_1
+authenc,VAR_2
+ctx,VAR_3

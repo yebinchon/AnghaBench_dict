@@ -1,0 +1,15 @@
+TIMER_BASE_CLK,VAR_0
+TIMER_COUNT_UP,VAR_1
+TIMER_INTR_LEVEL,VAR_2
+TIMER_PAUSE,VAR_3
+timer_enable_intr,FUNC_0
+timer_init,FUNC_1
+timer_pause,FUNC_2
+timer_set_alarm_value,FUNC_3
+timer_set_counter_value,FUNC_4
+example_timer_init,FUNC_5
+timer_group,VAR_4
+timer_idx,VAR_5
+period,VAR_6
+config,VAR_7
+alarm_val,VAR_8

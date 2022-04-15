@@ -1,0 +1,11 @@
+ADSP_STATE_READY_TIMEOUT_MS,VAR_0
+__q6core_is_adsp_ready,FUNC_0
+g_core,VAR_1
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+time_after,FUNC_4
+q6core_is_adsp_ready,FUNC_5
+timeout,VAR_3
+ret,VAR_4

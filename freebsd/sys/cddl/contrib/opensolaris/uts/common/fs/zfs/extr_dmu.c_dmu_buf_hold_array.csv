@@ -1,0 +1,16 @@
+DMU_READ_PREFETCH,VAR_0
+FTAG,VAR_1
+dmu_buf_hold_array_by_dnode,FUNC_0
+dnode_hold,FUNC_1
+dnode_rele,FUNC_2
+dmu_buf_hold_array,FUNC_3
+os,VAR_2
+object,VAR_3
+offset,VAR_4
+length,VAR_5
+read,VAR_6
+tag,VAR_7
+numbufsp,VAR_8
+dbpp,VAR_9
+dn,VAR_10
+err,VAR_11

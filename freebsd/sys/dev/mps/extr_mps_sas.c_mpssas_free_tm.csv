@@ -1,0 +1,12 @@
+MPSSAS_TARGET_INRESET,VAR_0
+MPS_INFO,VAR_1
+TRUE,VAR_2
+mps_dprint,FUNC_0
+mps_free_high_priority_command,FUNC_1
+xpt_free_ccb,FUNC_2
+xpt_free_path,FUNC_3
+xpt_release_devq,FUNC_4
+mpssas_free_tm,FUNC_5
+sc,VAR_3
+tm,VAR_4
+target_id,VAR_5

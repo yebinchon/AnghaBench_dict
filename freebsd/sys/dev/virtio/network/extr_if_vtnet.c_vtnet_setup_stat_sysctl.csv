@@ -1,0 +1,11 @@
+CTLFLAG_RD,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_UQUAD,FUNC_0
+vtnet_accum_stats,FUNC_1
+vtnet_setup_stat_sysctl,FUNC_2
+ctx,VAR_2
+child,VAR_3
+sc,VAR_4
+stats,VAR_5
+rxaccum,VAR_6
+txaccum,VAR_7

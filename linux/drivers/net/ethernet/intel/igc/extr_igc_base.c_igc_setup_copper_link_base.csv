@@ -1,0 +1,11 @@
+IGC_CTRL,VAR_0
+IGC_CTRL_FRCDPX,VAR_1
+IGC_CTRL_FRCSPD,VAR_2
+IGC_CTRL_SLU,VAR_3
+igc_setup_copper_link,FUNC_0
+rd32,FUNC_1
+wr32,FUNC_2
+igc_setup_copper_link_base,FUNC_3
+hw,VAR_4
+ret_val,VAR_5
+ctrl,VAR_6

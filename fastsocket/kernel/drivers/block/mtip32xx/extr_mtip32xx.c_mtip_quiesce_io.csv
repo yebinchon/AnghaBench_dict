@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EFAULT,VAR_1
+MTIP_DDF_REMOVE_PENDING_BIT,VAR_2
+MTIP_PF_ISSUE_CMDS_BIT,VAR_3
+MTIP_PF_SVC_THD_ACTIVE_BIT,VAR_4
+jiffies,VAR_5
+msecs_to_jiffies,FUNC_0
+msleep,FUNC_1
+readl,FUNC_2
+test_bit,FUNC_3
+time_before,FUNC_4
+mtip_quiesce_io,FUNC_5
+port,VAR_6
+timeout,VAR_7
+to,VAR_8
+n,VAR_9
+active,VAR_10

@@ -1,0 +1,15 @@
+SIRFSOC_DMA_CH_LOOP_CTRL,VAR_0
+SIRFSOC_DMA_CH_LOOP_CTRL_ATLAS7,VAR_1
+SIRFSOC_DMA_LOOP_CTRL_ATLAS7,VAR_2
+dma_chan_to_sirfsoc_dma,FUNC_0
+dma_chan_to_sirfsoc_dma_chan,FUNC_1
+readl_relaxed,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+writel_relaxed,FUNC_5
+sirfsoc_dma_resume_chan,FUNC_6
+chan,VAR_3
+schan,VAR_4
+sdma,VAR_5
+cid,VAR_6
+flags,VAR_7

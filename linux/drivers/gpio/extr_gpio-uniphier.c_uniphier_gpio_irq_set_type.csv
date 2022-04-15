@@ -1,0 +1,13 @@
+BIT,FUNC_0
+IRQ_TYPE_EDGE_BOTH,VAR_0
+IRQ_TYPE_EDGE_FALLING,VAR_1
+UNIPHIER_GPIO_IRQ_FLT_EN,VAR_2
+UNIPHIER_GPIO_IRQ_MODE,VAR_3
+irq_chip_set_type_parent,FUNC_1
+uniphier_gpio_reg_update,FUNC_2
+uniphier_gpio_irq_set_type,FUNC_3
+data,VAR_4
+type,VAR_5
+priv,VAR_6
+mask,VAR_7
+val,VAR_8

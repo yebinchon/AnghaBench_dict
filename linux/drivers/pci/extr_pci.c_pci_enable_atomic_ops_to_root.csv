@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+PCI_EXP_DEVCAP2,VAR_1
+PCI_EXP_DEVCAP2_ATOMIC_ROUTE,VAR_2
+PCI_EXP_DEVCTL2,VAR_3
+PCI_EXP_DEVCTL2_ATOMIC_EGRESS_BLOCK,VAR_4
+PCI_EXP_DEVCTL2_ATOMIC_REQ,VAR_5
+pci_is_pcie,FUNC_0
+pci_pcie_type,FUNC_1
+pcie_capability_read_dword,FUNC_2
+pcie_capability_set_word,FUNC_3
+pci_enable_atomic_ops_to_root,FUNC_4
+dev,VAR_6
+cap_mask,VAR_7
+bus,VAR_8
+bridge,VAR_9
+cap,VAR_10
+ctl2,VAR_11

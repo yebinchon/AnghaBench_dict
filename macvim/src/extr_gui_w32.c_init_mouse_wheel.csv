@@ -1,0 +1,17 @@
+FindWindow,FUNC_0
+RegisterWindowMessage,FUNC_1
+SPI_GETWHEELSCROLLLINES,VAR_0
+SendMessage,FUNC_2
+SystemParametersInfo,FUNC_3
+VER_PLATFORM_WIN32_NT,VAR_1
+VER_PLATFORM_WIN32_WINDOWS,VAR_2
+VMOUSEZ_CLASSNAME,VAR_3
+VMOUSEZ_TITLE,VAR_4
+VMSH_MOUSEWHEEL,VAR_5
+VMSH_SCROLL_LINES,VAR_6
+mouse_scroll_lines,VAR_7
+msh_msgmousewheel,VAR_8
+os_version,VAR_9
+init_mouse_wheel,FUNC_4
+hdl_mswheel,VAR_10
+msh_msgscrolllines,VAR_11

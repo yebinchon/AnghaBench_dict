@@ -1,0 +1,12 @@
+FCOE_KWQE_HEADER_LAYER_CODE_SHIFT,VAR_0
+FCOE_KWQE_LAYER_CODE,VAR_1
+FCOE_KWQE_OPCODE_DESTROY_CONN,VAR_2
+memset,FUNC_0
+stub1,FUNC_1
+bnx2fc_send_session_destroy_req,FUNC_2
+hba,VAR_3
+tgt,VAR_4
+destroy_req,VAR_5
+kwqe_arr,VAR_6
+num_kwqes,VAR_7
+rc,VAR_8

@@ -1,0 +1,11 @@
+TIF_POLLING_NRFLAG,VAR_0
+clear_thread_flag,FUNC_0
+cpu_relax,FUNC_1
+cpu_sleep,FUNC_2
+hlt_counter,VAR_1
+local_irq_disable,FUNC_3
+local_irq_enable,FUNC_4
+need_resched,FUNC_5
+set_thread_flag,FUNC_6
+smp_mb__after_clear_bit,FUNC_7
+default_idle,FUNC_8

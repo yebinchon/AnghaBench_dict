@@ -1,0 +1,16 @@
+EnableMenuItem,FUNC_0
+GetMenu,FUNC_1
+IDM_DISCONNECT,VAR_0
+IsCDRomDrive,FUNC_2
+IsRemoteDrive,FUNC_3
+MF_BYCOMMAND,VAR_1
+MF_ENABLED,VAR_2
+MF_GRAYED,VAR_3
+SendMessage,FUNC_4
+TB_ENABLEBUTTON,VAR_4
+cDrives,VAR_5
+hwndFrame,VAR_6
+hwndToolbar,VAR_7
+rgiDrive,VAR_8
+EnableDisconnectButton,FUNC_5
+i,VAR_9

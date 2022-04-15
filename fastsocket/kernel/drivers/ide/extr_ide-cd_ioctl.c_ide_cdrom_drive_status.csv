@@ -1,0 +1,17 @@
+CDSL_CURRENT,VAR_0
+CDS_DISC_OK,VAR_1
+CDS_DRIVE_NOT_READY,VAR_2
+CDS_NO_DISC,VAR_3
+CDS_TRAY_OPEN,VAR_4
+EINVAL,VAR_5
+NOT_READY,VAR_6
+UNIT_ATTENTION,VAR_7
+cdrom_check_status,FUNC_0
+cdrom_get_media_event,FUNC_1
+ide_cdrom_drive_status,FUNC_2
+cdi,VAR_8
+slot_nr,VAR_9
+drive,VAR_10
+med,VAR_11
+sense,VAR_12
+stat,VAR_13

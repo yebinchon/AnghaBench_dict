@@ -1,0 +1,17 @@
+MAC_PFR,VAR_0
+MAC_PFR_PR_LEN,VAR_1
+MAC_PFR_PR_POS,VAR_2
+NETIF_F_HW_VLAN_CTAG_FILTER,VAR_3
+XLGMAC_GET_REG_BITS,FUNC_0
+XLGMAC_SET_REG_BITS,FUNC_1
+drv,VAR_4
+netif_dbg,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+xlgmac_disable_rx_vlan_filtering,FUNC_5
+xlgmac_enable_rx_vlan_filtering,FUNC_6
+xlgmac_set_promiscuous_mode,FUNC_7
+pdata,VAR_5
+enable,VAR_6
+val,VAR_7
+regval,VAR_8

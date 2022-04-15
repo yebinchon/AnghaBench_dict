@@ -1,0 +1,17 @@
+CPUID_TO_FAMILY,FUNC_0
+CPUID_TO_MODEL,FUNC_1
+MTX_DEF,VAR_0
+UINT_MAX,VAR_1
+cpu_id,VAR_2
+cpu_vendor_id,VAR_3
+first_msi_irq,VAR_4
+intr_register_pic,FUNC_2
+msi_enabled,VAR_5
+msi_lock,VAR_6
+msi_pic,VAR_7
+msix_disable_migration,VAR_8
+mtx_init,FUNC_3
+num_io_irqs,VAR_9
+num_msi_irqs,VAR_10
+panic,FUNC_4
+msi_init,FUNC_5

@@ -1,0 +1,13 @@
+LSAPI_perror_r,FUNC_0
+O_APPEND,VAR_0
+O_CREAT,VAR_1
+O_WRONLY,VAR_2
+close,FUNC_1
+dup2,FUNC_2
+free,FUNC_3
+open,FUNC_4
+s_stderr_log_path,VAR_3
+strdup,FUNC_5
+lsapi_reopen_stderr2,FUNC_6
+full_path,VAR_4
+newfd,VAR_5

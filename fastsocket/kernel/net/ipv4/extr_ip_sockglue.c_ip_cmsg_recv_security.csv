@@ -1,0 +1,13 @@
+SCM_SECURITY,VAR_0
+SOL_IP,VAR_1
+put_cmsg,FUNC_0
+security_release_secctx,FUNC_1
+security_secid_to_secctx,FUNC_2
+security_socket_getpeersec_dgram,FUNC_3
+ip_cmsg_recv_security,FUNC_4
+msg,VAR_2
+skb,VAR_3
+secdata,VAR_4
+seclen,VAR_5
+secid,VAR_6
+err,VAR_7

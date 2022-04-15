@@ -1,0 +1,11 @@
+IE_IRQ1,VAR_0
+SNI_PCIT_INT_REG,VAR_1
+SNI_PCIT_INT_START,VAR_2
+clear_c0_status,FUNC_0
+do_IRQ,FUNC_1
+ffs,FUNC_2
+likely,FUNC_3
+set_c0_status,FUNC_4
+pcit_hwint1,FUNC_5
+pending,VAR_3
+irq,VAR_4

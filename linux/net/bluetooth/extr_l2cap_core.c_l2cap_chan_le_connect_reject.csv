@@ -1,0 +1,14 @@
+BT_DISCONN,VAR_0
+FLAG_DEFER_SETUP,VAR_1
+L2CAP_CR_LE_AUTHORIZATION,VAR_2
+L2CAP_CR_LE_BAD_PSM,VAR_3
+L2CAP_LE_CONN_RSP,VAR_4
+cpu_to_le16,FUNC_0
+l2cap_send_cmd,FUNC_1
+l2cap_state_change,FUNC_2
+test_bit,FUNC_3
+l2cap_chan_le_connect_reject,FUNC_4
+chan,VAR_5
+conn,VAR_6
+rsp,VAR_7
+result,VAR_8

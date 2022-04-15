@@ -1,0 +1,13 @@
+CFG_NO_LED,VAR_0
+IPW_DEBUG_LED,FUNC_0
+IPW_EVENT_REG,VAR_1
+STATUS_LED_ACT_ON,VAR_2
+ipw_read_reg32,FUNC_1
+ipw_register_toggle,FUNC_2
+ipw_write_reg32,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ipw_led_activity_off,FUNC_6
+priv,VAR_3
+flags,VAR_4
+led,VAR_5

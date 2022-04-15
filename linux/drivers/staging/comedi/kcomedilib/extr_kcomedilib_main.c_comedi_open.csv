@@ -1,0 +1,12 @@
+COMEDI_NUM_BOARD_MINORS,VAR_0
+comedi_dev_get_from_minor,FUNC_0
+comedi_dev_put,FUNC_1
+down_read,FUNC_2
+kstrtouint,FUNC_3
+strncmp,FUNC_4
+up_read,FUNC_5
+comedi_open,FUNC_6
+filename,VAR_1
+dev,VAR_2
+retval,VAR_3
+minor,VAR_4

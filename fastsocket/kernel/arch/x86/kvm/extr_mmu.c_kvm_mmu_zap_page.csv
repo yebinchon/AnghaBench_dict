@@ -1,0 +1,16 @@
+hlist_del,FUNC_0
+kvm_flush_remote_tlbs,FUNC_1
+kvm_mmu_free_page,FUNC_2
+kvm_mmu_page_unlink_children,FUNC_3
+kvm_mmu_reset_last_pte_updated,FUNC_4
+kvm_mmu_unlink_parents,FUNC_5
+kvm_reload_remote_mmus,FUNC_6
+kvm_unlink_unsync_page,FUNC_7
+list_move,FUNC_8
+mmu_zap_unsync_children,FUNC_9
+trace_kvm_mmu_zap_page,FUNC_10
+unaccount_shadowed,FUNC_11
+kvm_mmu_zap_page,FUNC_12
+kvm,VAR_0
+sp,VAR_1
+ret,VAR_2

@@ -1,0 +1,13 @@
+BTRFS_DELAYED_BACKGROUND,VAR_0
+BTRFS_DELAYED_BATCH,VAR_1
+BTRFS_DELAYED_WRITEBACK,VAR_2
+atomic_read,FUNC_0
+btrfs_workqueue_normal_congested,FUNC_1
+btrfs_wq_run_delayed_node,FUNC_2
+could_end_wait,FUNC_3
+wait_event_interruptible,FUNC_4
+btrfs_balance_delayed_items,FUNC_5
+fs_info,VAR_3
+delayed_root,VAR_4
+seq,VAR_5
+ret,VAR_6

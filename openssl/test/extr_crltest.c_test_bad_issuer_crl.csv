@@ -1,0 +1,14 @@
+CRL_from_strings,FUNC_0
+TEST_int_eq,FUNC_1
+TEST_ptr,FUNC_2
+X509_CRL_free,FUNC_3
+X509_V_ERR_UNABLE_TO_GET_CRL,VAR_0
+X509_V_FLAG_CRL_CHECK,VAR_1
+kBadIssuerCRL,VAR_2
+make_CRL_stack,FUNC_4
+test_leaf,VAR_3
+test_root,VAR_4
+verify,FUNC_5
+test_bad_issuer_crl,FUNC_6
+bad_issuer_crl,VAR_5
+r,VAR_6

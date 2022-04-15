@@ -1,0 +1,16 @@
+CONN_DIGEST_CRC32C,VAR_0
+CTL_ISCSI,VAR_1
+CTL_ISCSI_DIGEST_CRC32C,VAR_2
+CTL_ISCSI_HANDOFF,VAR_3
+CTL_ISCSI_OK,VAR_4
+bzero,FUNC_0
+ctl_fd,VAR_5
+ioctl,FUNC_1
+log_err,FUNC_2
+log_errx,FUNC_3
+memcpy,FUNC_4
+proxy_mode,VAR_6
+strlcpy,FUNC_5
+kernel_handoff,FUNC_6
+conn,VAR_7
+req,VAR_8

@@ -1,0 +1,14 @@
+PAGE_SHIFT,VAR_0
+create_empty_buffers,FUNC_0
+nilfs_page_get_nth_block,FUNC_1
+page_has_buffers,FUNC_2
+touch_buffer,FUNC_3
+wait_on_buffer,FUNC_4
+__nilfs_get_page_block,FUNC_5
+page,VAR_1
+block,VAR_2
+index,VAR_3
+blkbits,VAR_4
+b_state,VAR_5
+first_block,VAR_6
+bh,VAR_7

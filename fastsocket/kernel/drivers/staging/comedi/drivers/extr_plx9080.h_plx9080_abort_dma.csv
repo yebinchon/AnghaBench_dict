@@ -1,0 +1,17 @@
+ETIMEDOUT,VAR_0
+PLX_DMA0_CS_REG,VAR_1
+PLX_DMA1_CS_REG,VAR_2
+PLX_DMA_ABORT_BIT,VAR_3
+PLX_DMA_DONE_BIT,VAR_4
+PLX_DMA_EN_BIT,VAR_5
+printk,FUNC_0
+readb,FUNC_1
+udelay,FUNC_2
+writeb,FUNC_3
+plx9080_abort_dma,FUNC_4
+iobase,VAR_6
+channel,VAR_7
+dma_cs_addr,VAR_8
+dma_status,VAR_9
+timeout,VAR_10
+i,VAR_11

@@ -1,0 +1,10 @@
+COMEDI_NUM_BOARD_MINORS,VAR_0
+comedi_get_device_file_info,FUNC_0
+simple_strtoul,FUNC_1
+strncmp,FUNC_2
+try_module_get,FUNC_3
+comedi_open,FUNC_4
+filename,VAR_1
+dev_file_info,VAR_2
+dev,VAR_3
+minor,VAR_4

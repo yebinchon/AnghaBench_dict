@@ -1,0 +1,13 @@
+EVTCHNOP_close,VAR_0
+HYPERVISOR_event_channel_op,FUNC_0
+evtchn_mask_port,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+panic,FUNC_4
+xen_intr_isrc_lock,VAR_1
+xen_intr_port_to_isrc,VAR_2
+xen_intr_pirq_disable_intr,FUNC_5
+base_isrc,VAR_3
+isrc,VAR_4
+close,VAR_5
+error,VAR_6

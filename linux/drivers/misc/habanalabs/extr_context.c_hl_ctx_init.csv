@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+HL_KERNEL_ASID_ID,VAR_1
+atomic_set,FUNC_0
+dev_err,FUNC_1
+hl_asid_alloc,FUNC_2
+hl_asid_free,FUNC_3
+hl_mmu_ctx_init,FUNC_4
+hl_vm_ctx_init,FUNC_5
+kref_init,FUNC_6
+spin_lock_init,FUNC_7
+hl_ctx_init,FUNC_8
+hdev,VAR_2
+ctx,VAR_3
+is_kernel_ctx,VAR_4
+rc,VAR_5

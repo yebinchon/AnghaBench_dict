@@ -1,0 +1,15 @@
+HSW_AUD_CHICKENBIT,VAR_0
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+IS_GEN,FUNC_2
+SKL_AUD_CODEC_WAKE_SIGNAL,VAR_1
+i915_audio_component_get_power,FUNC_3
+i915_audio_component_put_power,FUNC_4
+kdev_to_i915,FUNC_5
+usleep_range,FUNC_6
+i915_audio_component_codec_wake_override,FUNC_7
+kdev,VAR_2
+enable,VAR_3
+dev_priv,VAR_4
+cookie,VAR_5
+tmp,VAR_6

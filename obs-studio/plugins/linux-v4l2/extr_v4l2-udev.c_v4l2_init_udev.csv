@@ -1,0 +1,15 @@
+OS_EVENT_TYPE_MANUAL,VAR_0
+os_event_init,FUNC_0
+pthread_create,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+signal_handler_add_array,FUNC_4
+signal_handler_create,FUNC_5
+udev_event,VAR_1
+udev_event_thread,VAR_2
+udev_mutex,VAR_3
+udev_refs,VAR_4
+udev_signalhandler,VAR_5
+udev_signals,VAR_6
+udev_thread,VAR_7
+v4l2_init_udev,FUNC_6

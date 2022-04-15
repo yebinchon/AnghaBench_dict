@@ -1,0 +1,11 @@
+ieee80211_free_hw,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_release_regions,FUNC_3
+pci_set_drvdata,FUNC_4
+rt2x00lib_remove_dev,FUNC_5
+rt2x00pci_free_reg,FUNC_6
+rt2x00pci_remove,FUNC_7
+pci_dev,VAR_0
+hw,VAR_1
+rt2x00dev,VAR_2

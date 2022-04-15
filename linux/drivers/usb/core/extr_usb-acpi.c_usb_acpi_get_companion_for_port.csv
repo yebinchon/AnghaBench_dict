@@ -1,0 +1,13 @@
+ACPI_COMPANION,FUNC_0
+acpi_bus_get_device,FUNC_1
+bus_to_hcd,FUNC_2
+to_usb_device,FUNC_3
+usb_acpi_find_port,FUNC_4
+usb_get_hub_port_acpi_handle,FUNC_5
+usb_hcd_find_raw_port_number,FUNC_6
+usb_acpi_get_companion_for_port,FUNC_7
+port_dev,VAR_0
+udev,VAR_1
+adev,VAR_2
+parent_handle,VAR_3
+port1,VAR_4

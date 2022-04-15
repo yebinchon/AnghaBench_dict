@@ -1,0 +1,13 @@
+MTK_NOR_PP_DATA_REG,VAR_0
+MTK_NOR_WR_CMD,VAR_1
+SFLASH_WRBUF_SIZE,VAR_2
+mtk_nor_execute_cmd,FUNC_0
+mtk_nor_set_addr,FUNC_1
+writel,FUNC_2
+mtk_nor_write_buffer,FUNC_3
+mtk_nor,VAR_3
+addr,VAR_4
+buf,VAR_5
+i,VAR_6
+bufidx,VAR_7
+data,VAR_8

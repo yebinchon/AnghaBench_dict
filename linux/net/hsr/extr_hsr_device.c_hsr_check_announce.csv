@@ -1,0 +1,11 @@
+HSR_ANNOUNCE_INTERVAL,VAR_0
+IF_OPER_UP,VAR_1
+del_timer,FUNC_0
+jiffies,VAR_2
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+netdev_priv,FUNC_3
+hsr_check_announce,FUNC_4
+hsr_dev,VAR_3
+old_operstate,VAR_4
+hsr,VAR_5

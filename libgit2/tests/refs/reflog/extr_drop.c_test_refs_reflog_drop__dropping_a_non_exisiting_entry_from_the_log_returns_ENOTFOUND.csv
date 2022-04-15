@@ -1,0 +1,8 @@
+GIT_ENOTFOUND,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_sz,FUNC_1
+entrycount,VAR_1
+g_reflog,VAR_2
+git_reflog_drop,FUNC_2
+git_reflog_entrycount,FUNC_3
+test_refs_reflog_drop__dropping_a_non_exisiting_entry_from_the_log_returns_ENOTFOUND,FUNC_4

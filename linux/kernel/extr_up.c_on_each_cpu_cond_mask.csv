@@ -1,0 +1,14 @@
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+on_each_cpu_cond_mask,FUNC_4
+cond_func,VAR_0
+cpu,VAR_1
+info,VAR_2
+func,VAR_3
+info,VAR_4
+wait,VAR_5
+gfp_flags,VAR_6
+mask,VAR_7
+flags,VAR_8

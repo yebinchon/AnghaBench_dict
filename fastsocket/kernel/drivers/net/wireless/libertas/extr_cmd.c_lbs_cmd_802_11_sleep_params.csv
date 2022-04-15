@@ -1,0 +1,16 @@
+CMD_802_11_SLEEP_PARAMS,VAR_0
+CMD_ACT_GET,VAR_1
+LBS_DEB_CMD,VAR_2
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_deb_cmd,FUNC_2
+lbs_deb_enter,FUNC_3
+lbs_deb_leave_args,FUNC_4
+le16_to_cpu,FUNC_5
+memset,FUNC_6
+lbs_cmd_802_11_sleep_params,FUNC_7
+priv,VAR_3
+cmd_action,VAR_4
+sp,VAR_5
+cmd,VAR_6
+ret,VAR_7

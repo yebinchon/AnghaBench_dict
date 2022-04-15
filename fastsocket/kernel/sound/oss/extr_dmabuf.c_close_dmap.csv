@@ -1,0 +1,13 @@
+DMAP_FREE_ON_CLOSE,VAR_0
+DMA_BUSY,VAR_1
+DMODE_NONE,VAR_2
+claim_dma_lock,FUNC_0
+disable_dma,FUNC_1
+release_dma_lock,FUNC_2
+sound_close_dma,FUNC_3
+sound_dmap_flag,VAR_3
+sound_free_dmap,FUNC_4
+close_dmap,FUNC_5
+adev,VAR_4
+dmap,VAR_5
+flags,VAR_6

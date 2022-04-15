@@ -1,0 +1,15 @@
+HID_INPUT_REPORT,VAR_0
+WACOM_FINGER_FIELD,FUNC_0
+WACOM_PEN_FIELD,FUNC_1
+hid_get_drvdata,FUNC_2
+wacom_report_events,FUNC_3
+wacom_set_num_expected,FUNC_4
+wacom_wac_finger_report,FUNC_5
+wacom_wac_pen_report,FUNC_6
+wacom_wac_collection,FUNC_7
+hdev,VAR_1
+report,VAR_2
+collection_index,VAR_3
+field,VAR_4
+field_index,VAR_5
+wacom,VAR_6

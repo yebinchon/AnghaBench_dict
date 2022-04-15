@@ -1,0 +1,14 @@
+DP_ERR,FUNC_0
+IB_WC_GENERAL_ERR,VAR_0
+IB_WC_RECV,VAR_1
+RDMA_CQE_RESP_STS_OK,VAR_2
+likely,FUNC_1
+qedr_cqe_resp_status_to_ib,FUNC_2
+qedr_set_ok_cqe_resp_wc,FUNC_3
+__process_resp_one,FUNC_4
+dev,VAR_3
+qp,VAR_4
+cq,VAR_5
+wc,VAR_6
+resp,VAR_7
+wr_id,VAR_8

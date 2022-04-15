@@ -1,0 +1,10 @@
+BCMA_CORE_PCIE2,VAR_0
+BRCMF_PCIE_PCIE2REG_CONFIGADDR,VAR_1
+BRCMF_PCIE_PCIE2REG_CONFIGDATA,VAR_2
+brcmf_pcie_read_reg32,FUNC_0
+brcmf_pcie_select_core,FUNC_1
+brcmf_pcie_write_reg32,FUNC_2
+device_wakeup_enable,FUNC_3
+brcmf_pcie_attach,FUNC_4
+devinfo,VAR_3
+config,VAR_4

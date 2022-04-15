@@ -1,0 +1,15 @@
+CVMX_CLOCK_CORE,VAR_0
+CVMX_SPXX_CLK_STAT,FUNC_0
+cvmx_clock_get_rate,FUNC_1
+cvmx_dprintf,FUNC_2
+cvmx_get_cycle,FUNC_3
+cvmx_read_csr,FUNC_4
+cvmx_write_csr,FUNC_5
+cvmx_spi_clock_detect_cb,FUNC_6
+interface,VAR_1
+mode,VAR_2
+timeout,VAR_3
+clock_transitions,VAR_4
+stat,VAR_5
+timeout_time,VAR_6
+MS,VAR_7

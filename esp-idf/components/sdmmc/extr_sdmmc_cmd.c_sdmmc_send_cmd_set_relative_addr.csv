@@ -1,0 +1,14 @@
+ESP_OK,VAR_0
+MMC_ARG_RCA,FUNC_0
+SCF_CMD_BCR,VAR_1
+SCF_RSP_R6,VAR_2
+SD_R6_RCA,FUNC_1
+SD_SEND_RELATIVE_ADDR,VAR_3
+assert,FUNC_2
+sdmmc_send_cmd,FUNC_3
+sdmmc_send_cmd_set_relative_addr,FUNC_4
+card,VAR_4
+out_rca,VAR_5
+cmd,VAR_6
+mmc_rca,VAR_7
+err,VAR_8

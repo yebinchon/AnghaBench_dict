@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+lockdep_is_held,FUNC_0
+rcu_access_pointer,FUNC_1
+rcu_assign_pointer,FUNC_2
+rcu_dereference_protected,FUNC_3
+reuseport_alloc,FUNC_4
+reuseport_lock,VAR_1
+sk_reuseport_prog_free,FUNC_5
+sk_unhashed,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+reuseport_attach_prog,FUNC_9
+sk,VAR_2
+prog,VAR_3
+reuse,VAR_4
+old_prog,VAR_5
+err,VAR_6

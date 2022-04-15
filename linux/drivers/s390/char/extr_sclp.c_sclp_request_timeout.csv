@@ -1,0 +1,15 @@
+HZ,VAR_0
+SCLP_BUSY_INTERVAL,VAR_1
+__sclp_queue_read_req,FUNC_0
+__sclp_set_request_timer,FUNC_1
+sclp_lock,VAR_2
+sclp_process_queue,FUNC_2
+sclp_request_timeout_normal,VAR_3
+sclp_running_state,VAR_4
+sclp_running_state_idle,VAR_5
+sclp_running_state_running,VAR_6
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+sclp_request_timeout,FUNC_5
+force_restart,VAR_7
+flags,VAR_8

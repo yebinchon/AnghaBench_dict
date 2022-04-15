@@ -1,0 +1,16 @@
+CXD2880_TNRDMD_WAIT_INIT_INTVL,VAR_0
+CXD2880_TNRDMD_WAIT_INIT_TIMEOUT,VAR_1
+EINVAL,VAR_2
+ETIMEDOUT,VAR_3
+cxd2880_tnrdmd_check_internal_cpu_status,FUNC_0
+cxd2880_tnrdmd_init1,FUNC_1
+cxd2880_tnrdmd_init2,FUNC_2
+ktime_get,FUNC_3
+ktime_sub,FUNC_4
+ktime_to_ms,FUNC_5
+usleep_range,FUNC_6
+cxd2880_integ_init,FUNC_7
+tnr_dmd,VAR_4
+ret,VAR_5
+start,VAR_6
+cpu_task_completed,VAR_7

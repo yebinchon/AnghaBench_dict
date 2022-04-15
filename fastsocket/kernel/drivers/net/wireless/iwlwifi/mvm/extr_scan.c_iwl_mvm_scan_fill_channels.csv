@@ -1,0 +1,15 @@
+BIT,FUNC_0
+IEEE80211_CHAN_PASSIVE_SCAN,VAR_0
+SCAN_CHANNEL_TYPE_ACTIVE,VAR_1
+cpu_to_le16,FUNC_1
+cpu_to_le32,FUNC_2
+iwl_mvm_get_active_dwell,FUNC_3
+iwl_mvm_get_passive_dwell,FUNC_4
+le16_to_cpu,FUNC_5
+iwl_mvm_scan_fill_channels,FUNC_6
+cmd,VAR_2
+req,VAR_3
+passive_dwell,VAR_4
+active_dwell,VAR_5
+chan,VAR_6
+i,VAR_7

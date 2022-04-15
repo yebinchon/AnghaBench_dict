@@ -1,0 +1,15 @@
+PCAP_REG_RTC_DAY,VAR_0
+PCAP_REG_RTC_TOD,VAR_1
+PCAP_RTC_DAY_MASK,VAR_2
+PCAP_RTC_TOD_MASK,VAR_3
+SEC_PER_DAY,VAR_4
+dev_get_drvdata,FUNC_0
+ezx_pcap_read,FUNC_1
+rtc_time64_to_tm,FUNC_2
+pcap_rtc_read_time,FUNC_3
+dev,VAR_5
+tm,VAR_6
+pcap_rtc,VAR_7
+secs,VAR_8
+tod,VAR_9
+days,VAR_10

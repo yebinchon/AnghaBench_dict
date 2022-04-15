@@ -1,0 +1,14 @@
+CLK_LOCK,FUNC_0
+CLK_RD_4,FUNC_1
+CLK_UNLOCK,FUNC_2
+CLK_WR_4,FUNC_3
+JZ_USBPCR1,VAR_0
+PCR_REFCLK_CORE,VAR_1
+PCR_REFCLK_M,VAR_2
+clknode_get_softc,FUNC_4
+clknode_init_parent_idx,FUNC_5
+jz4780_clk_otg_init,FUNC_6
+clk,VAR_3
+dev,VAR_4
+sc,VAR_5
+reg,VAR_6

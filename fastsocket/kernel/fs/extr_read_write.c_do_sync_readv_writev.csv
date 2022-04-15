@@ -1,0 +1,14 @@
+EIOCBQUEUED,VAR_0
+EIOCBRETRY,VAR_1
+init_sync_kiocb,FUNC_0
+wait_on_retry_sync_kiocb,FUNC_1
+wait_on_sync_kiocb,FUNC_2
+do_sync_readv_writev,FUNC_3
+filp,VAR_2
+iov,VAR_3
+nr_segs,VAR_4
+len,VAR_5
+ppos,VAR_6
+fn,VAR_7
+kiocb,VAR_8
+ret,VAR_9

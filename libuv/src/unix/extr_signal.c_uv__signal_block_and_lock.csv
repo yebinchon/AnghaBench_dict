@@ -1,0 +1,8 @@
+SIG_SETMASK,VAR_0
+abort,FUNC_0
+pthread_sigmask,FUNC_1
+sigfillset,FUNC_2
+uv__signal_lock,FUNC_3
+uv__signal_block_and_lock,FUNC_4
+saved_sigmask,VAR_1
+new_mask,VAR_2

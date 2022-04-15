@@ -1,0 +1,13 @@
+ST_NCI_APDU_READER_GATE,VAR_0
+ST_NCI_UICC_HOST_ID,VAR_1
+complete,FUNC_0
+del_timer_sync,FUNC_1
+nci_get_drvdata,FUNC_2
+pr_debug,FUNC_3
+st_nci_hci_cmd_received,FUNC_4
+ndev,VAR_2
+pipe,VAR_3
+cmd,VAR_4
+skb,VAR_5
+info,VAR_6
+gate,VAR_7

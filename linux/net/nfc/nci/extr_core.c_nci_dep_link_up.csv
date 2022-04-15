@@ -1,0 +1,16 @@
+NFC_COMM_PASSIVE,VAR_0
+NFC_PROTO_NFC_DEP,VAR_1
+NFC_RF_INITIATOR,VAR_2
+nci_activate_target,FUNC_0
+nfc_dep_link_is_up,FUNC_1
+nfc_get_drvdata,FUNC_2
+nfc_set_remote_general_bytes,FUNC_3
+pr_debug,FUNC_4
+nci_dep_link_up,FUNC_5
+nfc_dev,VAR_3
+target,VAR_4
+comm_mode,VAR_5
+gb,VAR_6
+gb_len,VAR_7
+ndev,VAR_8
+rc,VAR_9

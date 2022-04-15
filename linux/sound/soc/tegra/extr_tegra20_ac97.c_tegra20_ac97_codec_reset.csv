@@ -1,0 +1,14 @@
+TEGRA20_AC97_STATUS1,VAR_0
+TEGRA20_AC97_STATUS1_CODEC1_RDY,VAR_1
+gpio_set_value,FUNC_0
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_1
+regmap_read,FUNC_2
+time_after,FUNC_3
+udelay,FUNC_4
+usleep_range,FUNC_5
+workdata,VAR_3
+tegra20_ac97_codec_reset,FUNC_6
+ac97,VAR_4
+readback,VAR_5
+timeout,VAR_6

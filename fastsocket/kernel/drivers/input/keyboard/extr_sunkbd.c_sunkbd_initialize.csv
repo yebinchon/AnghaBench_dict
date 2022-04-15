@@ -1,0 +1,8 @@
+HZ,VAR_0
+SUNKBD_CMD_LAYOUT,VAR_1
+SUNKBD_CMD_RESET,VAR_2
+SUNKBD_LAYOUT_5_MASK,VAR_3
+serio_write,FUNC_0
+wait_event_interruptible_timeout,FUNC_1
+sunkbd_initialize,FUNC_2
+sunkbd,VAR_4

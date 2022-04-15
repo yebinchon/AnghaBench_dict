@@ -1,0 +1,10 @@
+IB_EVENT_CLIENT_REREGISTER,VAR_0
+MLX4_EQ_PORT_INFO_CLIENT_REREG_MASK,VAR_1
+mlx4_gen_slaves_port_mgt_ev,FUNC_0
+mlx4_ib_dispatch_event,FUNC_1
+mlx4_ib_invalidate_all_guid_record,FUNC_2
+mlx4_ib_mcg_port_cleanup,FUNC_3
+mlx4_is_master,FUNC_4
+handle_client_rereg_event,FUNC_5
+dev,VAR_2
+port_num,VAR_3

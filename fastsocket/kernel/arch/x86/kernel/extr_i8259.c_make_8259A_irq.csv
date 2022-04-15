@@ -1,0 +1,8 @@
+disable_irq_nosync,FUNC_0
+enable_irq,FUNC_1
+handle_level_irq,VAR_0
+i8259A_chip,VAR_1
+io_apic_irqs,VAR_2
+set_irq_chip_and_handler_name,FUNC_2
+make_8259A_irq,FUNC_3
+irq,VAR_3

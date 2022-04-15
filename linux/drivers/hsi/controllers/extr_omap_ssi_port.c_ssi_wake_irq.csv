@@ -1,0 +1,15 @@
+IRQF_ONESHOT,VAR_0
+IRQF_TRIGGER_FALLING,VAR_1
+IRQF_TRIGGER_RISING,VAR_2
+dev_err,FUNC_0
+devm_request_threaded_irq,FUNC_1
+enable_irq_wake,FUNC_2
+gpiod_to_irq,FUNC_3
+hsi_port_drvdata,FUNC_4
+ssi_wake_thread,VAR_3
+ssi_wake_irq,FUNC_5
+port,VAR_4
+pd,VAR_5
+omap_port,VAR_6
+cawake_irq,VAR_7
+err,VAR_8

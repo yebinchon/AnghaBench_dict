@@ -1,0 +1,14 @@
+PCIE_REG_STATUS,VAR_0
+PCIE_STATUS_LINK_DOWN,VAR_1
+bus_space_read_4,FUNC_0
+device_get_softc,FUNC_1
+mv_pcib_hw_cfgread,FUNC_2
+mv_pcib_root_slot,FUNC_3
+mv_pcib_read_config,FUNC_4
+dev,VAR_2
+bus,VAR_3
+slot,VAR_4
+func,VAR_5
+reg,VAR_6
+bytes,VAR_7
+sc,VAR_8

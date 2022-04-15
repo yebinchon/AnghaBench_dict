@@ -1,0 +1,11 @@
+HOLD_INTERRUPTS,FUNC_0
+RESUME_INTERRUPTS,FUNC_1
+TerminateBackgroundWorker,FUNC_2
+WaitForParallelWorkersToExit,FUNC_3
+dlist_delete,FUNC_4
+dsm_detach,FUNC_5
+pfree,FUNC_6
+shm_mq_detach,FUNC_7
+DestroyParallelContext,FUNC_8
+pcxt,VAR_0
+i,VAR_1

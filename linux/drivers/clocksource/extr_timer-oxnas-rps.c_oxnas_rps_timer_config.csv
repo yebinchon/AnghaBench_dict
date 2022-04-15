@@ -1,0 +1,10 @@
+TIMER_CTRL_REG,VAR_0
+TIMER_ENABLE,VAR_1
+TIMER_LOAD_REG,VAR_2
+TIMER_PERIODIC,VAR_3
+writel_relaxed,FUNC_0
+oxnas_rps_timer_config,FUNC_1
+rps,VAR_4
+period,VAR_5
+periodic,VAR_6
+cfg,VAR_7

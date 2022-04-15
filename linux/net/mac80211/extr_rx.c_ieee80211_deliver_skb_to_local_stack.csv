@@ -1,0 +1,17 @@
+ETH_P_PREAUTH,VAR_0
+IEEE80211_SKB_RXCB,FUNC_0
+RX_FLAG_DECRYPTED,VAR_1
+cfg80211_rx_control_port,FUNC_1
+cpu_to_be16,FUNC_2
+dev_kfree_skb,FUNC_3
+memset,FUNC_4
+napi_gro_receive,FUNC_5
+netif_receive_skb,FUNC_6
+unlikely,FUNC_7
+ieee80211_deliver_skb_to_local_stack,FUNC_8
+skb,VAR_2
+rx,VAR_3
+sdata,VAR_4
+dev,VAR_5
+status,VAR_6
+noencrypt,VAR_7

@@ -1,0 +1,9 @@
+branch,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_branch_upstream,FUNC_2
+git_reference_lookup,FUNC_3
+git_reference_name,FUNC_4
+repo,VAR_1
+upstream,VAR_2
+test_refs_branches_upstream__can_retrieve_the_remote_tracking_reference_of_a_local_branch,FUNC_5

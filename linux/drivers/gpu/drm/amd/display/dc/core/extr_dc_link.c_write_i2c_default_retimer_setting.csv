@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+DC_LOGGER_INIT,FUNC_1
+RETIMER_REDRIVER_INFO,FUNC_2
+i2c_write,FUNC_3
+memset,FUNC_4
+write_i2c_default_retimer_setting,FUNC_5
+pipe_ctx,VAR_0
+is_vga_mode,VAR_1
+is_over_340mhz,VAR_2
+slave_address,VAR_3
+buffer,VAR_4
+i2c_success,VAR_5

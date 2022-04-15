@@ -1,0 +1,15 @@
+CiChangeAllVLanMacAddress,FUNC_0
+CiGetCurrentMachineHash,FUNC_1
+CiGetCurrentMachineHashNew,FUNC_2
+CiGetCurrentMachineHashOld,FUNC_3
+CiReadLastMachineHash,FUNC_4
+CiWriteLastMachineHash,FUNC_5
+Cmp,FUNC_6
+MsIsAdmin,FUNC_7
+SHA1_SIZE,VAR_0
+CiChangeAllVLanMacAddressIfMachineChanged,FUNC_8
+c,VAR_1
+current_hash_new,VAR_2
+current_hash,VAR_3
+current_hash_old,VAR_4
+saved_hash,VAR_5

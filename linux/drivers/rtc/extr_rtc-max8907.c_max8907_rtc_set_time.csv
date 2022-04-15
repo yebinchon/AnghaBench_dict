@@ -1,0 +1,10 @@
+MAX8907_REG_RTC_SEC,VAR_0
+TIME_NUM,VAR_1
+dev_get_drvdata,FUNC_0
+regmap_bulk_write,FUNC_1
+tm_to_regs,FUNC_2
+max8907_rtc_set_time,FUNC_3
+dev,VAR_2
+tm,VAR_3
+rtc,VAR_4
+regs,VAR_5

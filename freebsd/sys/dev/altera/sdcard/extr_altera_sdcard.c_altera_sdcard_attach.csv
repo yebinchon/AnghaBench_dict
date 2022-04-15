@@ -1,0 +1,13 @@
+ALTERA_SDCARD_CONDVAR_INIT,FUNC_0
+ALTERA_SDCARD_LOCK_INIT,FUNC_1
+ALTERA_SDCARD_STATE_NOCARD,VAR_0
+M_WAITOK,VAR_1
+PI_DISK,VAR_2
+TIMEOUT_TASK_INIT,FUNC_2
+altera_sdcard_task,FUNC_3
+bioq_init,FUNC_4
+taskqueue_create,FUNC_5
+taskqueue_start_threads,FUNC_6
+taskqueue_thread_enqueue,VAR_3
+altera_sdcard_attach,FUNC_7
+sc,VAR_4

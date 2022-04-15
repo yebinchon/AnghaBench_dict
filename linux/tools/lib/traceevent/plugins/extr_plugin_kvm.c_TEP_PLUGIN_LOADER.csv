@@ -1,0 +1,15 @@
+TEP_FUNC_ARG_INT,VAR_0
+TEP_FUNC_ARG_LONG,VAR_1
+TEP_FUNC_ARG_VOID,VAR_2
+init_disassembler,FUNC_0
+kvm_emulate_insn_handler,VAR_3
+kvm_exit_handler,VAR_4
+kvm_mmu_get_page_handler,VAR_5
+kvm_mmu_print_role,VAR_6
+kvm_nested_vmexit_handler,VAR_7
+kvm_nested_vmexit_inject_handler,VAR_8
+process_is_writable_pte,VAR_9
+tep_register_event_handler,FUNC_1
+tep_register_print_function,FUNC_2
+TEP_PLUGIN_LOADER,FUNC_3
+tep,VAR_10

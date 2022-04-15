@@ -1,0 +1,12 @@
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+free,FUNC_2
+pcm_getdevinfo,FUNC_3
+pcm_unregister,FUNC_4
+nm_pci_detach,FUNC_5
+dev,VAR_3
+r,VAR_4
+sc,VAR_5

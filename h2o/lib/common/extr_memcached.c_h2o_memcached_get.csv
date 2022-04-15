@@ -1,0 +1,13 @@
+H2O_MEMCACHED_ENCODE_KEY,VAR_0
+H2O_MEMCACHED_ENCODE_VALUE,VAR_1
+REQ_TYPE_GET,VAR_2
+create_req,FUNC_0
+dispatch,FUNC_1
+h2o_memcached_get,FUNC_2
+ctx,VAR_3
+receiver,VAR_4
+key,VAR_5
+cb,VAR_6
+cb_data,VAR_7
+flags,VAR_8
+req,VAR_9

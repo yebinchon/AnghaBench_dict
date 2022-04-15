@@ -1,0 +1,17 @@
+UDD_STATE_IDLE,VAR_0
+USB_DEVICE_CALLBACK_LPMSUSP,VAR_1
+USB_DEVICE_CALLBACK_RESET,VAR_2
+USB_DEVICE_CALLBACK_SOF,VAR_3
+USB_DEVICE_CALLBACK_SUSPEND,VAR_4
+USB_DEVICE_CALLBACK_WAKEUP,VAR_5
+_usb_device_lpm_suspend,VAR_6
+_usb_on_bus_reset,VAR_7
+_usb_on_sof_notify,VAR_8
+_usb_on_suspend,VAR_9
+_usb_on_wakeup,VAR_10
+udd_sleep_mode,FUNC_0
+usb_device,VAR_11
+usb_device_attach,FUNC_1
+usb_device_enable_callback,FUNC_2
+usb_device_register_callback,FUNC_3
+udd_attach,FUNC_4

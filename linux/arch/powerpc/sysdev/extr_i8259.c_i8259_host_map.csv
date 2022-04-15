@@ -1,0 +1,11 @@
+IRQ_LEVEL,VAR_0
+IRQ_NOREQUEST,VAR_1
+handle_level_irq,VAR_2
+i8259_pic,VAR_3
+irq_set_chip_and_handler,FUNC_0
+irq_set_status_flags,FUNC_1
+pr_debug,FUNC_2
+i8259_host_map,FUNC_3
+h,VAR_4
+virq,VAR_5
+hw,VAR_6

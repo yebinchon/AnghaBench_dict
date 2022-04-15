@@ -1,0 +1,10 @@
+CRYPTO_THREAD_get_local,FUNC_0
+CRYPTO_THREAD_set_local,FUNC_1
+TEST_ptr_eq,FUNC_2
+TEST_ptr_null,FUNC_3
+TEST_true,FUNC_4
+destructor_run_count,VAR_0
+thread_local_key,VAR_1
+thread_local_thread_cb_ok,VAR_2
+thread_local_thread_cb,FUNC_5
+ptr,VAR_3

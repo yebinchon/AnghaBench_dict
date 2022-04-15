@@ -1,0 +1,15 @@
+ALLOW_DISABLE_KBD,FUNC_0
+EIO,VAR_0
+KBD_KBD_CONTROL_BITS,VAR_1
+KB_CONF_NO_RESET,VAR_2
+bootverbose,VAR_3
+empty_both_buffers,FUNC_1
+printf,FUNC_2
+reset_kbd,FUNC_3
+set_controller_command_byte,FUNC_4
+test_controller,FUNC_5
+test_kbd_port,FUNC_6
+atkbd_reset,FUNC_7
+kbdc,VAR_4
+flags,VAR_5
+c,VAR_6

@@ -1,0 +1,17 @@
+CURLOPT_PRIVATE,VAR_0
+CURLOPT_URL,VAR_1
+CURLOPT_WRITEDATA,VAR_2
+curl_easy_init,FUNC_0
+curl_easy_setopt,FUNC_1
+curl_handle,VAR_3
+curl_multi_add_handle,FUNC_2
+fopen,FUNC_3
+fprintf,FUNC_4
+snprintf,FUNC_5
+stderr,VAR_4
+add_download,FUNC_6
+url,VAR_5
+num,VAR_6
+filename,VAR_7
+file,VAR_8
+handle,VAR_9

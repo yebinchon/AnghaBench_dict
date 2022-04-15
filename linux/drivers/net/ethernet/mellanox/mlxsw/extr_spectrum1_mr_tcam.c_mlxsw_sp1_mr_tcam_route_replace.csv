@@ -1,0 +1,15 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_RMFT2_IRIF_MASK_IGNORE,VAR_0
+MLXSW_REG_RMFT2_LEN,VAR_1
+mlxsw_afa_block_first_set,FUNC_1
+mlxsw_reg_rmft2_ipv4_pack,FUNC_2
+mlxsw_reg_rmft2_ipv6_pack,FUNC_3
+mlxsw_reg_write,FUNC_4
+ntohl,FUNC_5
+rmft2,VAR_2
+mlxsw_sp1_mr_tcam_route_replace,FUNC_6
+mlxsw_sp,VAR_3
+parman_item,VAR_4
+key,VAR_5
+afa_block,VAR_6
+rmft2_pl,VAR_7

@@ -1,0 +1,13 @@
+EIO,VAR_0
+ENA_FLAG_TRIGGER_RESET,VAR_1
+ENA_MAX_NO_INTERRUPT_ITERATIONS,VAR_2
+ENA_REGS_RESET_MISS_INTERRUPT,VAR_3
+ena_com_cq_empty,FUNC_0
+likely,FUNC_1
+netif_err,FUNC_2
+rx_err,VAR_4
+set_bit,FUNC_3
+smp_mb__before_atomic,FUNC_4
+check_for_rx_interrupt_queue,FUNC_5
+adapter,VAR_5
+rx_ring,VAR_6

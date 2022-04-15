@@ -1,0 +1,16 @@
+ATFORK_ARENA_PTR,VAR_0
+_int_free,FUNC_0
+arena_for_chunk,FUNC_1
+arena_key,VAR_1
+chunk_is_mmapped,FUNC_2
+mem2chunk,FUNC_3
+munmap_chunk,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+tsd_getspecific,FUNC_7
+free_atfork,FUNC_8
+mem,VAR_2
+caller,VAR_3
+vptr,VAR_4
+ar_ptr,VAR_5
+p,VAR_6

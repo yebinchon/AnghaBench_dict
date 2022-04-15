@@ -1,0 +1,17 @@
+CMD_802_11_HOST_SLEEP_ACTIVATE,VAR_0
+EHS_REMOVE_WAKEUP,VAR_1
+HZ,VAR_2
+PS_STATE_FULL_POWER,VAR_3
+__lbs_cmd,FUNC_0
+lbs_host_sleep_cfg,FUNC_1
+lbs_ret_host_sleep_activate,VAR_4
+memset,FUNC_2
+netdev_err,FUNC_3
+netdev_info,FUNC_4
+wait_event_interruptible_timeout,FUNC_5
+lbs_set_host_sleep,FUNC_6
+priv,VAR_5
+host_sleep,VAR_6
+cmd,VAR_7
+ret,VAR_8
+criteria,VAR_9

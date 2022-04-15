@@ -1,0 +1,11 @@
+DA9052_IRQ_PENDOWN,VAR_0
+DA9052_IRQ_TSIREADY,VAR_1
+DA9052_LDO9_REG,VAR_2
+da9052_free_irq,FUNC_0
+da9052_reg_write,FUNC_1
+input_unregister_device,FUNC_2
+kfree,FUNC_3
+platform_get_drvdata,FUNC_4
+da9052_ts_remove,FUNC_5
+pdev,VAR_3
+tsi,VAR_4

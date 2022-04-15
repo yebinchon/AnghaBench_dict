@@ -1,0 +1,16 @@
+ECORE_LL2_RX_REGISTERED,FUNC_0
+ECORE_LL2_TX_REGISTERED,FUNC_1
+OSAL_FREE,FUNC_2
+OSAL_MUTEX_ACQUIRE,FUNC_3
+OSAL_MUTEX_RELEASE,FUNC_4
+OSAL_NULL,VAR_0
+ecore_chain_free,FUNC_5
+ecore_cxt_release_cid,FUNC_6
+ecore_int_unregister_cb,FUNC_7
+ecore_ll2_handle_sanity,FUNC_8
+ecore_ll2_release_connection_ooo,FUNC_9
+ecore_ll2_release_connection,FUNC_10
+cxt,VAR_1
+connection_handle,VAR_2
+p_hwfn,VAR_3
+p_ll2_conn,VAR_4

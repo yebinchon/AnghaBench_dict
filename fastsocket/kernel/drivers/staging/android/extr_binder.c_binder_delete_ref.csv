@@ -1,0 +1,13 @@
+BINDER_DEBUG_DEAD_BINDER,VAR_0
+BINDER_DEBUG_INTERNAL_REFS,VAR_1
+BINDER_STAT_DEATH,VAR_2
+BINDER_STAT_REF,VAR_3
+binder_debug,FUNC_0
+binder_dec_node,FUNC_1
+binder_stats_deleted,FUNC_2
+hlist_del,FUNC_3
+kfree,FUNC_4
+list_del,FUNC_5
+rb_erase,FUNC_6
+binder_delete_ref,FUNC_7
+ref,VAR_4

@@ -1,0 +1,11 @@
+IPROC_GPIO_OUT_EN_OFFSET,VAR_0
+dev_dbg,FUNC_0
+gpiochip_get_data,FUNC_1
+iproc_set_bit,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+iproc_gpio_direction_input,FUNC_5
+gc,VAR_1
+gpio,VAR_2
+chip,VAR_3
+flags,VAR_4

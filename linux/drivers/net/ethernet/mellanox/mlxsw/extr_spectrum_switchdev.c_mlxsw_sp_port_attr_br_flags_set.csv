@@ -1,0 +1,17 @@
+BR_FLOOD,VAR_0
+BR_LEARNING,VAR_1
+BR_MCAST_FLOOD,VAR_2
+MLXSW_SP_FLOOD_TYPE_MC,VAR_3
+MLXSW_SP_FLOOD_TYPE_UC,VAR_4
+memcpy,FUNC_0
+mlxsw_sp_bridge_port_find,FUNC_1
+mlxsw_sp_bridge_port_flood_table_set,FUNC_2
+mlxsw_sp_bridge_port_learning_set,FUNC_3
+switchdev_trans_ph_prepare,FUNC_4
+mlxsw_sp_port_attr_br_flags_set,FUNC_5
+mlxsw_sp_port,VAR_5
+trans,VAR_6
+orig_dev,VAR_7
+brport_flags,VAR_8
+bridge_port,VAR_9
+err,VAR_10

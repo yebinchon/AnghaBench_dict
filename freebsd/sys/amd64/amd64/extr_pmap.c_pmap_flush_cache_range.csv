@@ -1,0 +1,12 @@
+CPUID_STDEXT_CLWB,VAR_0
+atomic_thread_fence_seq_cst,FUNC_0
+clwb,FUNC_1
+cpu_clflush_line_size,VAR_1
+cpu_stdext_feature,VAR_2
+lapic_paddr,VAR_3
+pmap_force_invalidate_cache_range,FUNC_2
+pmap_invalidate_cache_range_check_align,FUNC_3
+pmap_kextract,FUNC_4
+pmap_flush_cache_range,FUNC_5
+sva,VAR_4
+eva,VAR_5

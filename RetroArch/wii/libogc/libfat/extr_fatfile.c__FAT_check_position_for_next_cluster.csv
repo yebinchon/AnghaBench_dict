@@ -1,0 +1,14 @@
+CLUSTER_EOF,VAR_0
+CLUSTER_FREE,VAR_1
+EINVAL,VAR_2
+ENOSPC,VAR_3
+_FAT_fat_isValidCluster,FUNC_0
+_FAT_fat_linkFreeCluster,FUNC_1
+_FAT_fat_nextCluster,FUNC_2
+_FAT_check_position_for_next_cluster,FUNC_3
+r,VAR_4
+position,VAR_5
+partition,VAR_6
+remain,VAR_7
+flagNoError,VAR_8
+tempNextCluster,VAR_9

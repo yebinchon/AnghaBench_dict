@@ -1,0 +1,14 @@
+AFS_FS_S,FUNC_0
+ASSERT,FUNC_1
+IS_ERR,FUNC_2
+PTR_ERR,FUNC_3
+afs_file_key,FUNC_4
+afs_page_filler,FUNC_5
+afs_request_key,FUNC_6
+key_put,FUNC_7
+afs_readpage,FUNC_8
+file,VAR_0
+page,VAR_1
+key,VAR_2
+ret,VAR_3
+inode,VAR_4

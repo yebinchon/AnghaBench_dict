@@ -1,0 +1,17 @@
+ARPOP_REPLY,VAR_0
+ARPOP_REQUEST,VAR_1
+ETH_P_ARP,VAR_2
+arp_hdr,FUNC_0
+arp_send,FUNC_1
+htons,FUNC_2
+memcpy,FUNC_3
+skb_reset_network_header,FUNC_4
+cxgb3_arp_process,FUNC_5
+pi,VAR_3
+skb,VAR_4
+dev,VAR_5
+arp,VAR_6
+arp_ptr,VAR_7
+sha,VAR_8
+sip,VAR_9
+tip,VAR_10

@@ -1,0 +1,15 @@
+GENMASK,FUNC_0
+VGIC_ADDR_TO_INTID,FUNC_1
+kvm_mpidr_to_vcpu,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+vgic_get_irq,FUNC_5
+vgic_put_irq,FUNC_6
+vgic_mmio_write_irouter,FUNC_7
+vcpu,VAR_0
+addr,VAR_1
+len,VAR_2
+val,VAR_3
+intid,VAR_4
+irq,VAR_5
+flags,VAR_6

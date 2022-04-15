@@ -1,0 +1,11 @@
+NFS4CLNT_RECLAIM_REBOOT,VAR_0
+NFS_OWNER_RECLAIM_REBOOT,VAR_1
+NFS_STATE_RECLAIM_NOGRACE,VAR_2
+NFS_STATE_RECLAIM_REBOOT,VAR_3
+clear_bit,FUNC_0
+nfs4_valid_open_stateid,FUNC_1
+set_bit,FUNC_2
+test_bit,FUNC_3
+nfs4_state_mark_reclaim_reboot,FUNC_4
+clp,VAR_4
+state,VAR_5

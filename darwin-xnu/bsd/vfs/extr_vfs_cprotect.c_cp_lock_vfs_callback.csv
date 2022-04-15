@@ -1,0 +1,15 @@
+FIODEVICELOCKED,VAR_0
+VFSATTR_INIT,FUNC_0
+VFSATTR_IS_SUPPORTED,FUNC_1
+VFSATTR_WANTED,FUNC_2
+VFS_IOCTL,FUNC_3
+f_uuid,VAR_1
+memcmp,FUNC_4
+vfs_context_current,FUNC_5
+vfs_context_kernel,FUNC_6
+vfs_getattr,FUNC_7
+cp_lock_vfs_callback,FUNC_8
+mp,VAR_2
+arg,VAR_3
+callback_arg,VAR_4
+va,VAR_5

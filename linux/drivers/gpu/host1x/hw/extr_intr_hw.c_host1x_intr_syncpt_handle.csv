@@ -1,0 +1,9 @@
+BIT,FUNC_0
+HOST1X_SYNC_SYNCPT_THRESH_CPU0_INT_STATUS,FUNC_1
+HOST1X_SYNC_SYNCPT_THRESH_INT_DISABLE,FUNC_2
+host1x_sync_writel,FUNC_3
+schedule_work,FUNC_4
+host1x_intr_syncpt_handle,FUNC_5
+syncpt,VAR_0
+id,VAR_1
+host,VAR_2

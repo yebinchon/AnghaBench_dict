@@ -1,0 +1,16 @@
+HID_FEATURE_REPORT,VAR_0
+HID_INPUT_REPORT,VAR_1
+HID_MIN_BUFFER_SIZE,VAR_2
+HID_OUTPUT_REPORT,VAR_3
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+i2c_get_clientdata,FUNC_2
+i2c_hid_alloc_buffers,FUNC_3
+i2c_hid_find_max_report,FUNC_4
+i2c_hid_free_buffers,FUNC_5
+i2c_hid_start,FUNC_6
+hid,VAR_4
+client,VAR_5
+ihid,VAR_6
+ret,VAR_7
+bufsize,VAR_8

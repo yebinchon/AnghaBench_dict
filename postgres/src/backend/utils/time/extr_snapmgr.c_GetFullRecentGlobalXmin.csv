@@ -1,0 +1,12 @@
+Assert,FUNC_0
+EpochFromFullTransactionId,FUNC_1
+FullTransactionIdFromEpochAndXid,FUNC_2
+ReadNextFullTransactionId,FUNC_3
+RecentGlobalXmin,VAR_0
+TransactionIdIsNormal,FUNC_4
+XidFromFullTransactionId,FUNC_5
+GetFullRecentGlobalXmin,FUNC_6
+nextxid_full,VAR_1
+nextxid_epoch,VAR_2
+nextxid_xid,VAR_3
+epoch,VAR_4

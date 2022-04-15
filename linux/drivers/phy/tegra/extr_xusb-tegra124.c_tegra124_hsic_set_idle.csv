@@ -1,0 +1,10 @@
+XUSB_PADCTL_HSIC_PADX_CTL1,FUNC_0
+XUSB_PADCTL_HSIC_PAD_CTL1_RPD_DATA,VAR_0
+XUSB_PADCTL_HSIC_PAD_CTL1_RPU_STROBE,VAR_1
+padctl_readl,FUNC_1
+padctl_writel,FUNC_2
+tegra124_hsic_set_idle,FUNC_3
+padctl,VAR_2
+index,VAR_3
+idle,VAR_4
+value,VAR_5

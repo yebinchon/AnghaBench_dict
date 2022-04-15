@@ -1,0 +1,15 @@
+CMD_ISA_DELAY_TIME_2SECS,VAR_0
+PCWD_REVISION_A,VAR_1
+PCWD_REVISION_C,VAR_2
+WDIOF_CARDRESET,VAR_3
+WDIOF_OVERHEAT,VAR_4
+pcwd_get_firmware,FUNC_0
+pcwd_get_option_switches,FUNC_1
+pcwd_private,VAR_5
+pr_emerg,FUNC_2
+pr_info,FUNC_3
+send_isa_command,FUNC_4
+set_command_mode,FUNC_5
+unset_command_mode,FUNC_6
+pcwd_show_card_info,FUNC_7
+option_switches,VAR_6

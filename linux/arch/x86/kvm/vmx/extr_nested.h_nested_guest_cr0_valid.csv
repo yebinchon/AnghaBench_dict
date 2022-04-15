@@ -1,0 +1,13 @@
+SECONDARY_EXEC_UNRESTRICTED_GUEST,VAR_0
+X86_CR0_PE,VAR_1
+X86_CR0_PG,VAR_2
+fixed_bits_valid,FUNC_0
+get_vmcs12,FUNC_1
+nested_cpu_has2,FUNC_2
+to_vmx,FUNC_3
+nested_guest_cr0_valid,FUNC_4
+vcpu,VAR_3
+val,VAR_4
+fixed0,VAR_5
+fixed1,VAR_6
+vmcs12,VAR_7

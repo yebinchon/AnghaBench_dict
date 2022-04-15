@@ -1,0 +1,12 @@
+pvrdma_poll_one,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_vcq,FUNC_3
+pvrdma_poll_cq,FUNC_4
+ibcq,VAR_0
+num_entries,VAR_1
+wc,VAR_2
+cq,VAR_3
+cur_qp,VAR_4
+flags,VAR_5
+npolled,VAR_6

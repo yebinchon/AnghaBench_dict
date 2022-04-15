@@ -1,0 +1,12 @@
+TPM2_CC_FLUSH_CONTEXT,VAR_0
+TPM2_ST_NO_SESSIONS,VAR_1
+dev_warn,FUNC_0
+tpm_buf_append_u32,FUNC_1
+tpm_buf_destroy,FUNC_2
+tpm_buf_init,FUNC_3
+tpm_transmit_cmd,FUNC_4
+tpm2_flush_context,FUNC_5
+chip,VAR_2
+handle,VAR_3
+buf,VAR_4
+rc,VAR_5

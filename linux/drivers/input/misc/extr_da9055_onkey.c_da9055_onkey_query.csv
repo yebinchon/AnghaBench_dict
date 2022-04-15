@@ -1,0 +1,12 @@
+DA9055_NOKEY_STS,VAR_0
+DA9055_REG_STATUS_A,VAR_1
+KEY_POWER,VAR_2
+da9055_reg_read,FUNC_0
+dev_err,FUNC_1
+input_report_key,FUNC_2
+input_sync,FUNC_3
+msecs_to_jiffies,FUNC_4
+schedule_delayed_work,FUNC_5
+da9055_onkey_query,FUNC_6
+onkey,VAR_3
+key_stat,VAR_4

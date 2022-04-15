@@ -1,0 +1,9 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+CS5535_CABLE_DETECT,VAR_2
+pci_read_config_byte,FUNC_0
+to_pci_dev,FUNC_1
+cs5535_cable_detect,FUNC_2
+ap,VAR_3
+cable,VAR_4
+pdev,VAR_5

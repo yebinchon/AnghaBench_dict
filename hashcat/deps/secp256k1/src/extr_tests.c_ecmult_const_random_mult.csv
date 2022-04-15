@@ -1,0 +1,11 @@
+CHECK,FUNC_0
+SECP256K1_GE_CONST,FUNC_1
+SECP256K1_SCALAR_CONST,FUNC_2
+ge_equals_gej,FUNC_3
+secp256k1_ecmult_const,FUNC_4
+secp256k1_ge_is_valid_var,FUNC_5
+ecmult_const_random_mult,FUNC_6
+a,VAR_0
+xn,VAR_1
+expected_b,VAR_2
+b,VAR_3

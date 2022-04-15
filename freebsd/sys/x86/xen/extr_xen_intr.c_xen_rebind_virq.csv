@@ -1,0 +1,14 @@
+EVTCHNOP_bind_virq,VAR_0
+HYPERVISOR_event_channel_op,FUNC_0
+cpu_apic_ids,VAR_1
+evtchn_unmask_port,FUNC_1
+panic,FUNC_2
+pcpu_find,FUNC_3
+xen_intr_assign_cpu,FUNC_4
+xen_intr_port_to_isrc,VAR_2
+xen_rebind_virq,FUNC_5
+isrc,VAR_3
+cpu,VAR_4
+vcpu_id,VAR_5
+error,VAR_6
+bind_virq,VAR_7

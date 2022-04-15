@@ -1,0 +1,16 @@
+GFP_ATOMIC,VAR_0
+__GFP_NOWARN,VAR_1
+__napi_alloc_skb,FUNC_0
+__skb_put,FUNC_1
+i40e_reuse_rx_buffer_zc,FUNC_2
+memcpy,FUNC_3
+skb_metadata_set,FUNC_4
+skb_reserve,FUNC_5
+unlikely,FUNC_6
+i40e_construct_skb_zc,FUNC_7
+rx_ring,VAR_2
+bi,VAR_3
+xdp,VAR_4
+metasize,VAR_5
+datasize,VAR_6
+skb,VAR_7

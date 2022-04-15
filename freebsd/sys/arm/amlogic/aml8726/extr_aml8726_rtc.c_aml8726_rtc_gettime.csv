@@ -1,0 +1,11 @@
+AML_RTC_LOCK,FUNC_0
+AML_RTC_TIME_SREG,VAR_0
+AML_RTC_UNLOCK,FUNC_1
+aml8726_rtc_sreg_read,FUNC_2
+device_get_softc,FUNC_3
+aml8726_rtc_gettime,FUNC_4
+dev,VAR_1
+ts,VAR_2
+sc,VAR_3
+sec,VAR_4
+error,VAR_5

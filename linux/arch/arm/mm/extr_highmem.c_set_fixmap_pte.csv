@@ -1,0 +1,10 @@
+__fix_to_virt,FUNC_0
+local_flush_tlb_kernel_page,FUNC_1
+pmd_off_k,FUNC_2
+pte_offset_kernel,FUNC_3
+set_pte_ext,FUNC_4
+set_fixmap_pte,FUNC_5
+idx,VAR_0
+pte,VAR_1
+vaddr,VAR_2
+ptep,VAR_3

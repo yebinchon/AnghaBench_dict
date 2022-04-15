@@ -1,0 +1,12 @@
+compute_vmaf,FUNC_0
+read_frame_10bit,FUNC_1
+read_frame_8bit,FUNC_2
+compute_vmaf_score,FUNC_3
+s,VAR_0
+read_frame,VAR_1
+ref_data,VAR_2
+main_data,VAR_3
+temp_data,VAR_4
+stride,VAR_5
+ctx,VAR_6
+format,VAR_7

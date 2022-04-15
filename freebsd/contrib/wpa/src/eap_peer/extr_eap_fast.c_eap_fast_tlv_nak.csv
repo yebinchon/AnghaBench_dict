@@ -1,0 +1,11 @@
+EAP_TLV_NAK_TLV,VAR_0
+EAP_TLV_TYPE_MANDATORY,VAR_1
+host_to_be16,FUNC_0
+host_to_be32,FUNC_1
+wpabuf_alloc,FUNC_2
+wpabuf_put,FUNC_3
+eap_fast_tlv_nak,FUNC_4
+vendor_id,VAR_2
+tlv_type,VAR_3
+buf,VAR_4
+nak,VAR_5

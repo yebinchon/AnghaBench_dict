@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+NFSSVC_MAXBLKSIZE,VAR_1
+SIMPLE_TRANSACTION_LIMIT,VAR_2
+get_int,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+nfsd_max_blksize,VAR_3
+nfsd_mutex,VAR_4
+nfsd_serv,VAR_5
+scnprintf,FUNC_3
+write_maxblksize,FUNC_4
+file,VAR_6
+buf,VAR_7
+size,VAR_8
+mesg,VAR_9
+bsize,VAR_10
+rv,VAR_11

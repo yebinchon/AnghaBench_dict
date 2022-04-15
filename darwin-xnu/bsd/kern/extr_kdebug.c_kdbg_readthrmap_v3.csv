@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+KDBG_MAPINIT,VAR_1
+kd_ctrl_page,VAR_2
+kd_mapcount,VAR_3
+kdbg_clear_thread_map,FUNC_0
+kdbg_write_v3_header,FUNC_1
+ktrace_assert_lock_held,FUNC_2
+kdbg_readthrmap_v3,FUNC_3
+buffer,VAR_4
+buffer_size,VAR_5
+fd,VAR_6
+ret,VAR_7
+map_initialized,VAR_8
+map_size,VAR_9

@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+UDCA_BUFF_SIZE,VAR_1
+clk_disable_unprepare,FUNC_0
+device_init_wakeup,FUNC_1
+dma_free_coherent,FUNC_2
+dma_pool_destroy,FUNC_3
+platform_get_drvdata,FUNC_4
+pullup,FUNC_5
+remove_debug_file,FUNC_6
+udc_clk_set,FUNC_7
+udc_disable,FUNC_8
+usb_del_gadget_udc,FUNC_9
+lpc32xx_udc_remove,FUNC_10
+pdev,VAR_2
+udc,VAR_3

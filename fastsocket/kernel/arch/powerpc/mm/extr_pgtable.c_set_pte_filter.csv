@@ -1,0 +1,17 @@
+CPU_FTR_COHERENT_ICACHE,VAR_0
+CPU_FTR_NOEXECUTE,VAR_1
+PG_arch_1,VAR_2
+_PAGE_HPTEFLAGS,VAR_3
+__pte,FUNC_0
+_tlbil_va,FUNC_1
+cpu_has_feature,FUNC_2
+flush_dcache_icache_page,FUNC_3
+maybe_pte_to_page,FUNC_4
+pte_looks_normal,FUNC_5
+pte_val,FUNC_6
+set_bit,FUNC_7
+test_bit,FUNC_8
+set_pte_filter,FUNC_9
+pte,VAR_4
+addr,VAR_5
+pg,VAR_6

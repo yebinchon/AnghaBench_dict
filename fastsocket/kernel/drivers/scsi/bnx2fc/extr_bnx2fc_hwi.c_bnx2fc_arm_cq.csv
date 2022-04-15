@@ -1,0 +1,9 @@
+FCOE_CQE_TOGGLE_BIT_SHIFT,VAR_0
+cpu_to_le32,FUNC_0
+mmiowb,FUNC_1
+wmb,FUNC_2
+writel,FUNC_3
+bnx2fc_arm_cq,FUNC_4
+tgt,VAR_1
+rx_db,VAR_2
+msg,VAR_3

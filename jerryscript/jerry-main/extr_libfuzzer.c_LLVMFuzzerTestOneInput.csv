@@ -1,0 +1,17 @@
+JERRY_INIT_EMPTY,VAR_0
+JERRY_PARSE_NO_OPTS,VAR_1
+jerry_cleanup,FUNC_0
+jerry_init,FUNC_1
+jerry_is_valid_utf8_string,FUNC_2
+jerry_parse,FUNC_3
+jerry_release_value,FUNC_4
+jerry_run,FUNC_5
+jerry_run_all_enqueued_jobs,FUNC_6
+jerry_value_is_error,FUNC_7
+srand,FUNC_8
+LLVMFuzzerTestOneInput,FUNC_9
+data,VAR_2
+size,VAR_3
+parse_value,VAR_4
+run_value,VAR_5
+run_queue_value,VAR_6

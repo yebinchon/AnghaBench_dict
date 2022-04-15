@@ -1,0 +1,14 @@
+XFER_MW_DMA_0,VAR_0
+XFER_UDMA_0,VAR_1
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+to_pci_dev,FUNC_2
+serverworks_set_dmamode,FUNC_3
+ap,VAR_2
+adev,VAR_3
+dma_mode,VAR_4
+offset,VAR_5
+devbits,VAR_6
+ultra,VAR_7
+ultra_cfg,VAR_8
+pdev,VAR_9

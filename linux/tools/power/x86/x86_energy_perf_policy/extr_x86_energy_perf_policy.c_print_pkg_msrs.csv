@@ -1,0 +1,15 @@
+MSR_HWP_INTERRUPT,VAR_0
+MSR_HWP_REQUEST_PKG,VAR_1
+MSR_HWP_STATUS,VAR_2
+first_cpu_in_pkg,VAR_3
+fprintf,FUNC_0
+get_msr,FUNC_1
+has_hwp,VAR_4
+has_hwp_notify,VAR_5
+print_hwp_request_pkg,FUNC_2
+read_hwp_request,FUNC_3
+stderr,VAR_6
+print_pkg_msrs,FUNC_4
+pkg,VAR_7
+req,VAR_8
+msr,VAR_9

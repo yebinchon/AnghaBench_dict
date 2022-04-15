@@ -1,0 +1,17 @@
+COMEDI_SUBD_DI,VAR_0
+COMEDI_SUBD_DO,VAR_1
+SDF_READABLE,VAR_2
+SDF_WRITABLE,VAR_3
+comedi_alloc_subdevices,FUNC_0
+comedi_request_region,FUNC_1
+pcl730_di_insn_bits,VAR_4
+pcl730_do_insn_bits,VAR_5
+pcl730_get_bits,FUNC_2
+range_digital,VAR_6
+pcl730_attach,FUNC_3
+dev,VAR_7
+it,VAR_8
+board,VAR_9
+s,VAR_10
+subdev,VAR_11
+ret,VAR_12

@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+NITIO_Num_Registers,VAR_0
+mmiowb,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+write_register,FUNC_4
+ni_tio_set_bits_transient,FUNC_5
+counter,VAR_1
+register_index,VAR_2
+bit_mask,VAR_3
+bit_values,VAR_4
+transient_bit_values,VAR_5
+counter_dev,VAR_6
+flags,VAR_7

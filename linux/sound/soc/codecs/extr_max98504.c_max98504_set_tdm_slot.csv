@@ -1,0 +1,13 @@
+MAX98504_PCM_TX_ENABLE,VAR_0
+MAX98504_PDM_TX_ENABLE,VAR_1
+WARN_ON,FUNC_0
+regmap_write,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+max98504_set_tdm_slot,FUNC_3
+dai,VAR_2
+tx_mask,VAR_3
+rx_mask,VAR_4
+slots,VAR_5
+slot_width,VAR_6
+max98504,VAR_7
+map,VAR_8

@@ -1,0 +1,14 @@
+STM32H7_SPI_CFG1,VAR_0
+STM32H7_SPI_CFG1_DSIZE,VAR_1
+STM32H7_SPI_CFG1_DSIZE_SHIFT,VAR_2
+STM32H7_SPI_CFG1_FTHLV,VAR_3
+STM32H7_SPI_CFG1_FTHLV_SHIFT,VAR_4
+readl_relaxed,FUNC_0
+stm32h7_spi_prepare_fthlv,FUNC_1
+writel_relaxed,FUNC_2
+stm32h7_spi_set_bpw,FUNC_3
+spi,VAR_5
+bpw,VAR_6
+fthlv,VAR_7
+cfg1_clrb,VAR_8
+cfg1_setb,VAR_9

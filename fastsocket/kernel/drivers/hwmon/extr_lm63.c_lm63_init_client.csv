@@ -1,0 +1,10 @@
+LM63_REG_CONFIG1,VAR_0
+LM63_REG_CONFIG_FAN,VAR_1
+LM63_REG_PWM_FREQ,VAR_2
+dev_dbg,FUNC_0
+i2c_get_clientdata,FUNC_1
+i2c_smbus_read_byte_data,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+lm63_init_client,FUNC_4
+client,VAR_3
+data,VAR_4

@@ -1,0 +1,13 @@
+PCI_CSI_CONTROL,VAR_0
+PCI_CSI_CONTROL_PORTS_OFF_MASK,VAR_1
+PCI_D3cold,VAR_2
+PCI_INTERRUPT_CTRL,VAR_3
+isp_set_power,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_save_state,FUNC_2
+pci_write_config_dword,FUNC_3
+to_pci_dev,FUNC_4
+isp_pci_suspend,FUNC_5
+dev,VAR_4
+pdev,VAR_5
+val,VAR_6

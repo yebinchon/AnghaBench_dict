@@ -1,0 +1,17 @@
+IB_QPT_UD,VAR_0
+IB_QP_ACCESS_FLAGS,VAR_1
+IB_QP_PKEY_INDEX,VAR_2
+IB_QP_PORT,VAR_3
+IB_QP_QKEY,VAR_4
+IB_QP_STATE,VAR_5
+cma_set_qkey,FUNC_0
+ib_addr_get_pkey,FUNC_1
+ib_find_cached_pkey,FUNC_2
+rdma_cap_eth_ah,FUNC_3
+cma_ib_init_qp_attr,FUNC_4
+id_priv,VAR_6
+qp_attr,VAR_7
+qp_attr_mask,VAR_8
+dev_addr,VAR_9
+ret,VAR_10
+pkey,VAR_11

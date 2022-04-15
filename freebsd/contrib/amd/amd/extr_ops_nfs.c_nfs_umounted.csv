@@ -1,0 +1,13 @@
+MFF_WEBNFS,VAR_0
+MOUNTPROC_UMNT,VAR_1
+SET_FH_VERSION,FUNC_0
+call_mountd,FUNC_1
+dlog,FUNC_2
+prime_nfs_fhandle_cache,FUNC_3
+strchr,FUNC_4
+nfs_umounted,FUNC_5
+mf,VAR_2
+fs,VAR_3
+colon,VAR_4
+path,VAR_5
+f,VAR_6

@@ -1,0 +1,14 @@
+SPRD_SPI_INT_CLR,VAR_0
+SPRD_SPI_INT_RAW_STS,VAR_1
+SPRD_SPI_RX_END_INT_CLR,VAR_2
+SPRD_SPI_RX_END_IRQ,VAR_3
+dev_err,FUNC_0
+readl_relaxed_poll_timeout,FUNC_1
+sprd_spi_transfer_max_timeout,FUNC_2
+writel_relaxed,FUNC_3
+sprd_spi_wait_for_rx_end,FUNC_4
+ss,VAR_4
+t,VAR_5
+val,VAR_6
+us,VAR_7
+ret,VAR_8

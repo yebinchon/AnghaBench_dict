@@ -1,0 +1,9 @@
+BNAD_GET_MBOX_IRQ,FUNC_0
+bnad_disable_mbox_irq,FUNC_1
+free_irq,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bnad_mbox_irq_free,FUNC_5
+bnad,VAR_0
+irq,VAR_1
+flags,VAR_2

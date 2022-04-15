@@ -1,0 +1,10 @@
+AHCI_SLOT_RUNNING,VAR_0
+MA_OWNED,VAR_1
+SBT_1MS,VAR_2
+ahci_timeout,VAR_3
+callout_reset_sbt,FUNC_0
+mtx_assert,FUNC_1
+ahci_rearm_timeout,FUNC_2
+ch,VAR_4
+i,VAR_5
+slot,VAR_6

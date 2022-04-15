@@ -1,0 +1,11 @@
+MTK_EINT_DBNC_RST_BIT,VAR_0
+MTK_EINT_DBNC_SET_EN,VAR_1
+readl,FUNC_0
+writel,FUNC_1
+mtk_eint_debounce_process,FUNC_2
+eint,VAR_2
+index,VAR_3
+rst,VAR_4
+ctrl_offset,VAR_5
+bit,VAR_6
+dbnc,VAR_7

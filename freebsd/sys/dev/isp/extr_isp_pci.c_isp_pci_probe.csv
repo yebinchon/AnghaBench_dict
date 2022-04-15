@@ -1,0 +1,16 @@
+AMI_RAID_SUBVENDOR_ID,VAR_0
+BUS_PROBE_DEFAULT,VAR_1
+ENXIO,VAR_2
+ISP_CORE_VERSION_MAJOR,VAR_3
+ISP_CORE_VERSION_MINOR,VAR_4
+ISP_PLATFORM_VERSION_MAJOR,VAR_5
+ISP_PLATFORM_VERSION_MINOR,VAR_6
+bootverbose,VAR_7
+device_set_desc,FUNC_0
+isp_announced,VAR_8
+pci_get_device,FUNC_1
+pci_get_subvendor,FUNC_2
+pci_get_vendor,FUNC_3
+printf,FUNC_4
+isp_pci_probe,FUNC_5
+dev,VAR_9

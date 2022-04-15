@@ -1,0 +1,16 @@
+bus_to_hcd,FUNC_0
+hcd_to_fotg210,FUNC_1
+qh_lines,FUNC_2
+scnprintf,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+strlen,FUNC_6
+fill_async_buffer,FUNC_7
+buf,VAR_0
+hcd,VAR_1
+fotg210,VAR_2
+flags,VAR_3
+temp,VAR_4
+size,VAR_5
+next,VAR_6
+qh,VAR_7

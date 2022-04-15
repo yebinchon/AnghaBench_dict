@@ -1,0 +1,10 @@
+btmtkuart_is_standalone,FUNC_0
+clk_disable_unprepare,FUNC_1
+hci_free_dev,FUNC_2
+hci_unregister_dev,FUNC_3
+regulator_disable,FUNC_4
+serdev_device_get_drvdata,FUNC_5
+btmtkuart_remove,FUNC_6
+serdev,VAR_0
+bdev,VAR_1
+hdev,VAR_2

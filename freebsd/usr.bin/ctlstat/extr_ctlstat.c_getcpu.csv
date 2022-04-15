@@ -1,0 +1,12 @@
+CPUSTATES,VAR_0
+CP_IDLE,VAR_1
+CP_INTR,VAR_2
+CP_NICE,VAR_3
+CP_SYS,VAR_4
+CP_USER,VAR_5
+sysctlbyname,FUNC_0
+warn,FUNC_1
+getcpu,FUNC_2
+cpu_stats,VAR_6
+cp_time,VAR_7
+cplen,VAR_8

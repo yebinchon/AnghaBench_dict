@@ -1,0 +1,16 @@
+MENU_SETTINGS_CORE_OPTION_START,VAR_0
+RARCH_CTL_CORE_OPTIONS_LIST_GET,VAR_1
+core_option_manager_get_info,FUNC_0
+rarch_ctl,FUNC_1
+string_is_empty,FUNC_2
+strlcpy,FUNC_3
+action_bind_sublabel_core_option,FUNC_4
+list,VAR_2
+type,VAR_3
+i,VAR_4
+label,VAR_5
+path,VAR_6
+s,VAR_7
+len,VAR_8
+opt,VAR_9
+info,VAR_10

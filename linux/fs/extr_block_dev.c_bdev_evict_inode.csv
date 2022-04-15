@@ -1,0 +1,14 @@
+BDEV_I,FUNC_0
+bdev_lock,VAR_0
+bdi_put,FUNC_1
+clear_inode,FUNC_2
+inode_detach_wb,FUNC_3
+invalidate_inode_buffers,FUNC_4
+list_del_init,FUNC_5
+noop_backing_dev_info,VAR_1
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+truncate_inode_pages_final,FUNC_8
+bdev_evict_inode,FUNC_9
+inode,VAR_2
+bdev,VAR_3

@@ -1,0 +1,13 @@
+CPU_FTR_ARCH_207S,VAR_0
+KVM_PPC_1T_SEGMENTS,VAR_1
+KVM_PPC_NO_HASH,VAR_2
+KVM_PPC_PAGE_SIZES_REAL,VAR_3
+SLB_VSID_L,VAR_4
+SLB_VSID_LP_01,VAR_5
+cpu_has_feature,FUNC_0
+kvmhv_on_pseries,FUNC_1
+kvmppc_add_seg_page_size,FUNC_2
+kvm_vm_ioctl_get_smmu_info_hv,FUNC_3
+kvm,VAR_6
+info,VAR_7
+sps,VAR_8

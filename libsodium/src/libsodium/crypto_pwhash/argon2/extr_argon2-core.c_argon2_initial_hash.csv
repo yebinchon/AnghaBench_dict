@@ -1,0 +1,15 @@
+ARGON2_FLAG_CLEAR_PASSWORD,VAR_0
+ARGON2_FLAG_CLEAR_SECRET,VAR_1
+ARGON2_PREHASH_DIGEST_LENGTH,VAR_2
+ARGON2_VERSION_NUMBER,VAR_3
+STORE32_LE,FUNC_0
+crypto_generichash_blake2b_final,FUNC_1
+crypto_generichash_blake2b_init,FUNC_2
+crypto_generichash_blake2b_update,FUNC_3
+sodium_memzero,FUNC_4
+argon2_initial_hash,FUNC_5
+blockhash,VAR_4
+context,VAR_5
+type,VAR_6
+BlakeHash,VAR_7
+value,VAR_8

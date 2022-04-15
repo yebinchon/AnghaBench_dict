@@ -1,0 +1,12 @@
+NVMET_TCP_SEND_R2T,VAR_0
+NVME_TCP_F_HDGST,VAR_1
+cpu_to_le32,FUNC_0
+nvme_tcp_r2t,VAR_2
+nvmet_tcp_cmd_tag,FUNC_1
+nvmet_tcp_hdgst,FUNC_2
+nvmet_tcp_hdgst_len,FUNC_3
+nvmet_setup_r2t_pdu,FUNC_4
+cmd,VAR_3
+pdu,VAR_4
+queue,VAR_5
+hdgst,VAR_6

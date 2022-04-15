@@ -1,0 +1,17 @@
+BHND_ERROR_DEV,FUNC_0
+EHCI_USBINTR,VAR_0
+EWRITE4,FUNC_1
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+USB_BRIDGE_INTR_MASK,VAR_3
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_delete_children,FUNC_4
+device_get_softc,FUNC_5
+ehci_detach,FUNC_6
+ehci_iterate_hw_softc,VAR_4
+usb_bus_mem_free_all,FUNC_7
+bhnd_ehci_detach,FUNC_8
+self,VAR_5
+sc,VAR_6
+err,VAR_7

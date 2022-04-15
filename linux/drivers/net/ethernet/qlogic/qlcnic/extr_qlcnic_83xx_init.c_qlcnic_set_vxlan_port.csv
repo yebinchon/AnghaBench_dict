@@ -1,0 +1,15 @@
+QLCNIC_CMD_INIT_NIC_FUNC,VAR_0
+QLC_83XX_ENCAP_TYPE_VXLAN,VAR_1
+QLC_83XX_MULTI_TENANCY_INFO,VAR_2
+QLC_83XX_SET_VXLAN_UDP_DPORT,VAR_3
+QLC_83XX_VXLAN_UDP_DPORT,FUNC_0
+memset,FUNC_1
+netdev_err,FUNC_2
+qlcnic_alloc_mbx_args,FUNC_3
+qlcnic_free_mbx_args,FUNC_4
+qlcnic_issue_cmd,FUNC_5
+qlcnic_set_vxlan_port,FUNC_6
+adapter,VAR_4
+port,VAR_5
+cmd,VAR_6
+ret,VAR_7

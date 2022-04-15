@@ -1,0 +1,12 @@
+__brelse,FUNC_0
+__jbd2_journal_refile_buffer,FUNC_1
+jbd2_journal_remove_journal_head,FUNC_2
+jbd_lock_bh_state,FUNC_3
+jbd_unlock_bh_state,FUNC_4
+jh2bh,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+jbd2_journal_refile_buffer,FUNC_8
+journal,VAR_0
+jh,VAR_1
+bh,VAR_2

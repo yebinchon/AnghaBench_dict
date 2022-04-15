@@ -1,0 +1,15 @@
+ABS_MT_POSITION_X,VAR_0
+ABS_MT_POSITION_Y,VAR_1
+ABS_MT_WIDTH_MAJOR,VAR_2
+ABS_MT_WIDTH_MINOR,VAR_3
+MT_TOOL_FINGER,VAR_4
+get_unaligned_le16,FUNC_0
+input_mt_get_slot_by_key,FUNC_1
+input_mt_report_slot_state,FUNC_2
+input_mt_slot,FUNC_3
+input_report_abs,FUNC_4
+surface3_spi_report_touch,FUNC_5
+ts_data,VAR_5
+finger,VAR_6
+st,VAR_7
+slot,VAR_8

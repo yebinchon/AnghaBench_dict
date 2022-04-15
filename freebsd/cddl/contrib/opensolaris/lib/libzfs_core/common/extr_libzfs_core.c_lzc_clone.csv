@@ -1,0 +1,12 @@
+ZFS_IOC_CLONE,VAR_0
+fnvlist_add_nvlist,FUNC_0
+fnvlist_add_string,FUNC_1
+fnvlist_alloc,FUNC_2
+lzc_ioctl,FUNC_3
+nvlist_free,FUNC_4
+lzc_clone,FUNC_5
+fsname,VAR_1
+origin,VAR_2
+props,VAR_3
+error,VAR_4
+args,VAR_5

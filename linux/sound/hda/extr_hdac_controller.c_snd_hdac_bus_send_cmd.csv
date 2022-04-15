@@ -1,0 +1,17 @@
+AZX_MAX_CORB_ENTRIES,VAR_0
+CORBRP,VAR_1
+CORBWP,VAR_2
+EAGAIN,VAR_3
+EIO,VAR_4
+azx_command_addr,FUNC_0
+cpu_to_le32,FUNC_1
+snd_hdac_chip_readw,FUNC_2
+snd_hdac_chip_writew,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+snd_hdac_bus_send_cmd,FUNC_6
+bus,VAR_5
+val,VAR_6
+addr,VAR_7
+wp,VAR_8
+rp,VAR_9

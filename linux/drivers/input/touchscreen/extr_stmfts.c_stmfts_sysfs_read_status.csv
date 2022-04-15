@@ -1,0 +1,11 @@
+STMFTS_READ_STATUS,VAR_0
+dev_get_drvdata,FUNC_0
+i2c_smbus_read_i2c_block_data,FUNC_1
+sprintf,FUNC_2
+stmfts_sysfs_read_status,FUNC_3
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+sdata,VAR_4
+status,VAR_5
+err,VAR_6

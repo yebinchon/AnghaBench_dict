@@ -1,0 +1,10 @@
+A_PCICFG_MODE,VAR_0
+F_PCI_MODE_64BIT,VAR_1
+F_PCI_MODE_PCIX,VAR_2
+G_PCI_MODE_CLK,FUNC_0
+pci_read_config_dword,FUNC_1
+get_pci_mode,FUNC_2
+adapter,VAR_3
+p,VAR_4
+speed_map,VAR_5
+pci_mode,VAR_6

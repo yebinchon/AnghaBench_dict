@@ -1,0 +1,11 @@
+MIXER_ADDR,VAR_0
+MIXER_DATA,VAR_1
+inb,FUNC_0
+outb,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+udelay,FUNC_4
+ess_identify,FUNC_5
+devc,VAR_2
+val,VAR_3
+flags,VAR_4

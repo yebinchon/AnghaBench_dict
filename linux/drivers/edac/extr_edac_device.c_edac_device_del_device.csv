@@ -1,0 +1,16 @@
+EDAC_MC,VAR_0
+KERN_INFO,VAR_1
+OP_OFFLINE,VAR_2
+del_edac_device_from_global_list,FUNC_0
+device_ctls_mutex,VAR_3
+edac_dbg,FUNC_1
+edac_dev_name,FUNC_2
+edac_device_remove_sysfs,FUNC_3
+edac_device_workq_teardown,FUNC_4
+edac_printk,FUNC_5
+find_edac_device_by_dev,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+edac_device_del_device,FUNC_9
+dev,VAR_4
+edac_dev,VAR_5

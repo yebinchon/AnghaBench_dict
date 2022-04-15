@@ -1,0 +1,13 @@
+GIT_ENOTFOUND,VAR_0
+TEST_INDEX_PATH,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git__strcmp,FUNC_2
+git_index_find_prefix,FUNC_3
+git_index_free,FUNC_4
+git_index_get_byindex,FUNC_5
+git_index_open,FUNC_6
+test_index_tests__find_prefix,FUNC_7
+index,VAR_2
+entry,VAR_3
+pos,VAR_4

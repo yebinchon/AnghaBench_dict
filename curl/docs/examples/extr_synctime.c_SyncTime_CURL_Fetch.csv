@@ -1,0 +1,15 @@
+CURLOPT_NOBODY,VAR_0
+CURLOPT_URL,VAR_1
+CURLOPT_WRITEDATA,VAR_2
+HTTP_COMMAND_HEAD,VAR_3
+curl_easy_perform,FUNC_0
+curl_easy_setopt,FUNC_1
+fclose,FUNC_2
+fopen,FUNC_3
+SyncTime_CURL_Fetch,FUNC_4
+curl,VAR_4
+URL_Str,VAR_5
+OutFileName,VAR_6
+HttpGetBody,VAR_7
+outfile,VAR_8
+res,VAR_9

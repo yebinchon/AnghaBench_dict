@@ -1,0 +1,16 @@
+cap_fstat_rights,VAR_0
+cloudabi_convert_filetype,FUNC_0
+convert_stat,FUNC_1
+copyout,FUNC_2
+fdrop,FUNC_3
+fget,FUNC_4
+fo_stat,FUNC_5
+memset,FUNC_6
+cloudabi_sys_file_stat_fget,FUNC_7
+td,VAR_1
+uap,VAR_2
+sb,VAR_3
+csb,VAR_4
+fp,VAR_5
+filetype,VAR_6
+error,VAR_7

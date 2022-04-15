@@ -1,0 +1,16 @@
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+oops_in_progress,VAR_0
+spin_lock,FUNC_2
+spin_trylock,FUNC_3
+spin_unlock,FUNC_4
+sunhv_console_putchar,FUNC_5
+sunhv_port,VAR_1
+sunhv_console_write_bychar,FUNC_6
+con,VAR_2
+s,VAR_3
+n,VAR_4
+port,VAR_5
+flags,VAR_6
+i,VAR_7
+locked,VAR_8

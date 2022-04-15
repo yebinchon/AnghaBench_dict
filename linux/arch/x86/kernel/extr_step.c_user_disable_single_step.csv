@@ -1,0 +1,11 @@
+TIF_BLOCKSTEP,VAR_0
+TIF_FORCED_TF,VAR_1
+TIF_SINGLESTEP,VAR_2
+X86_EFLAGS_TF,VAR_3
+clear_tsk_thread_flag,FUNC_0
+set_task_blockstep,FUNC_1
+task_pt_regs,FUNC_2
+test_and_clear_tsk_thread_flag,FUNC_3
+test_tsk_thread_flag,FUNC_4
+user_disable_single_step,FUNC_5
+child,VAR_4

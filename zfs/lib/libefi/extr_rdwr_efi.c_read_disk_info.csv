@@ -1,0 +1,9 @@
+BLKGETSIZE64,VAR_0
+BLKSSZGET,VAR_1
+ioctl,FUNC_0
+read_disk_info,FUNC_1
+fd,VAR_2
+capacity,VAR_3
+lbsize,VAR_4
+sector_size,VAR_5
+capacity_size,VAR_6

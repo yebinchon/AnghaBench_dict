@@ -1,0 +1,14 @@
+esp_vhci_host_check_send_available,FUNC_0
+esp_vhci_host_register_callback,FUNC_1
+hci_cmd_send_ble_adv_start,FUNC_2
+hci_cmd_send_ble_set_adv_data,FUNC_3
+hci_cmd_send_ble_set_adv_param,FUNC_4
+hci_cmd_send_reset,FUNC_5
+portTICK_PERIOD_MS,VAR_0
+printf,FUNC_6
+vTaskDelay,FUNC_7
+vhci_host_cb,VAR_1
+bleAdvtTask,FUNC_8
+pvParameters,VAR_2
+cmd_cnt,VAR_3
+send_avail,VAR_4

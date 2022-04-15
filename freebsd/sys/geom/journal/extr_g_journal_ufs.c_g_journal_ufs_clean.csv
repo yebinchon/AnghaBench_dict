@@ -1,0 +1,10 @@
+FS_NEEDSFSCK,VAR_0
+FS_UNCLEAN,VAR_1
+MNT_WAIT,VAR_2
+VFSTOUFS,FUNC_0
+ffs_sbupdate,FUNC_1
+g_journal_ufs_clean,FUNC_2
+mp,VAR_3
+ump,VAR_4
+fs,VAR_5
+flags,VAR_6

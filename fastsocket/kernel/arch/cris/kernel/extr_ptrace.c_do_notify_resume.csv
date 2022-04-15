@@ -1,0 +1,12 @@
+TIF_NOTIFY_RESUME,VAR_0
+_TIF_NOTIFY_RESUME,VAR_1
+_TIF_SIGPENDING,VAR_2
+clear_thread_flag,FUNC_0
+current,VAR_3
+do_signal,FUNC_1
+key_replace_session_keyring,FUNC_2
+tracehook_notify_resume,FUNC_3
+do_notify_resume,FUNC_4
+canrestart,VAR_4
+regs,VAR_5
+thread_info_flags,VAR_6

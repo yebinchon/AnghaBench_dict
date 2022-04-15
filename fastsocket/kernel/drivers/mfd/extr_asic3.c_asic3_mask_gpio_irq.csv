@@ -1,0 +1,15 @@
+ASIC3_GPIO_MASK,VAR_0
+asic3_irq_to_bank,FUNC_0
+asic3_irq_to_index,FUNC_1
+asic3_read_register,FUNC_2
+asic3_write_register,FUNC_3
+get_irq_chip_data,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+asic3_mask_gpio_irq,FUNC_7
+irq,VAR_1
+asic,VAR_2
+val,VAR_3
+bank,VAR_4
+index,VAR_5
+flags,VAR_6

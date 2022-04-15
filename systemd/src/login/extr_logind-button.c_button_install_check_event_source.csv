@@ -1,0 +1,8 @@
+SD_EVENT_PRIORITY_IDLE,VAR_0
+assert,FUNC_0
+button_recheck,VAR_1
+sd_event_add_post,FUNC_1
+sd_event_source_set_priority,FUNC_2
+button_install_check_event_source,FUNC_3
+b,VAR_2
+r,VAR_3

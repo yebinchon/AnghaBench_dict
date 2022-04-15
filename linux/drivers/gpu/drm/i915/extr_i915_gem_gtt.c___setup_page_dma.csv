@@ -1,0 +1,15 @@
+DMA_ATTR_NO_WARN,VAR_0
+DMA_ATTR_SKIP_CPU_SYNC,VAR_1
+ENOMEM,VAR_2
+I915_GFP_ALLOW_FAIL,VAR_3
+PAGE_SIZE,VAR_4
+PCI_DMA_BIDIRECTIONAL,VAR_5
+dma_map_page_attrs,FUNC_0
+dma_mapping_error,FUNC_1
+unlikely,FUNC_2
+vm_alloc_page,FUNC_3
+vm_free_page,FUNC_4
+__setup_page_dma,FUNC_5
+vm,VAR_6
+p,VAR_7
+gfp,VAR_8

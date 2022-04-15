@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+DRXC_RE,VAR_2
+DTXC_TE,VAR_3
+KS8695_DRXC,VAR_4
+KS8695_DTXC,VAR_5
+MAX_RX_DESC,VAR_6
+MAX_TX_DESC,VAR_7
+dev_kfree_skb_irq,FUNC_0
+dma_unmap_single,FUNC_1
+free_irq,FUNC_2
+ks8695_readreg,FUNC_3
+ks8695_writereg,FUNC_4
+ks8695_shutdown,FUNC_5
+ksp,VAR_8
+ctrl,VAR_9
+buff_n,VAR_10

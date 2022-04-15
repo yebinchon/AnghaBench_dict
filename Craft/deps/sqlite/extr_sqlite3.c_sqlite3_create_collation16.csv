@@ -1,0 +1,17 @@
+SQLITE_OK,VAR_0
+SQLITE_UTF16NATIVE,VAR_1
+assert,FUNC_0
+createCollation,FUNC_1
+sqlite3ApiExit,FUNC_2
+sqlite3DbFree,FUNC_3
+sqlite3Utf16to8,FUNC_4
+sqlite3_mutex_enter,FUNC_5
+sqlite3_mutex_leave,FUNC_6
+sqlite3_create_collation16,FUNC_7
+db,VAR_2
+zName,VAR_3
+enc,VAR_4
+pCtx,VAR_5
+xCompare,VAR_6
+rc,VAR_7
+zName8,VAR_8

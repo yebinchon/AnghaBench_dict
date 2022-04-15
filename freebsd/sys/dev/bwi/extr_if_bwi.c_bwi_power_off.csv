@@ -1,0 +1,12 @@
+BWI_PCIM_GPIO_PLL_PWR_OFF,VAR_0
+BWI_PCIM_GPIO_PWR_ON,VAR_1
+BWI_PCIR_GPIO_ENABLE,VAR_2
+BWI_PCIR_GPIO_IN,VAR_3
+BWI_PCIR_GPIO_OUT,VAR_4
+pci_read_config,FUNC_0
+pci_write_config,FUNC_1
+bwi_power_off,FUNC_2
+sc,VAR_5
+with_pll,VAR_6
+gpio_out,VAR_7
+gpio_en,VAR_8

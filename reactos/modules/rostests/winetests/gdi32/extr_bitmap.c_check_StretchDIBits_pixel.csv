@@ -1,0 +1,14 @@
+BI_RGB,VAR_0
+DIB_RGB_COLORS,VAR_1
+StretchDIBits,FUNC_0
+memset,FUNC_1
+ok,FUNC_2
+check_StretchDIBits_pixel,FUNC_3
+hdcDst,VAR_2
+dstBuffer,VAR_3
+srcBuffer,VAR_4
+dwRop,VAR_5
+expected,VAR_6
+line,VAR_7
+buffer,VAR_8
+bitmapInfo,VAR_9

@@ -1,0 +1,16 @@
+BEISCSI_LOG_INIT,VAR_0
+HWI_MEM_SGE,VAR_1
+KERN_ERR,VAR_2
+KERN_INFO,VAR_3
+PAGE_SIZE,VAR_4
+be_cmd_iscsi_post_sgl_pages,FUNC_0
+beiscsi_log,FUNC_1
+hwi_build_be_sgl_arr,FUNC_2
+beiscsi_post_pages,FUNC_3
+phba,VAR_5
+mem_descr,VAR_6
+pm_arr,VAR_7
+page_offset,VAR_8
+i,VAR_9
+sgl,VAR_10
+status,VAR_11

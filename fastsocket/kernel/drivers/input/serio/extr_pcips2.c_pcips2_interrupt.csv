@@ -1,0 +1,17 @@
+IRQ_RETVAL,FUNC_0
+PS2_DATA,VAR_0
+PS2_STATUS,VAR_1
+PS2_STAT_PARITY,VAR_2
+PS2_STAT_RXFULL,VAR_3
+SERIO_PARITY,VAR_4
+hweight8,FUNC_1
+inb,FUNC_2
+serio_interrupt,FUNC_3
+pcips2_interrupt,FUNC_4
+irq,VAR_5
+devid,VAR_6
+ps2if,VAR_7
+status,VAR_8
+scancode,VAR_9
+handled,VAR_10
+flag,VAR_11

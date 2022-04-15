@@ -1,0 +1,11 @@
+ALIGN,FUNC_0
+btrfs_calculate_inode_block_rsv_size,FUNC_1
+btrfs_inode_rsv_release,FUNC_2
+btrfs_is_testing,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+btrfs_delalloc_release_metadata,FUNC_6
+inode,VAR_0
+num_bytes,VAR_1
+qgroup_free,VAR_2
+fs_info,VAR_3

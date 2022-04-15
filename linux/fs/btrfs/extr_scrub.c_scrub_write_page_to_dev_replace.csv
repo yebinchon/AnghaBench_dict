@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+clear_page,FUNC_1
+flush_dcache_page,FUNC_2
+kmap_atomic,FUNC_3
+kunmap_atomic,FUNC_4
+scrub_add_page_to_wr_bio,FUNC_5
+scrub_write_page_to_dev_replace,FUNC_6
+sblock,VAR_0
+page_num,VAR_1
+spage,VAR_2
+mapped_buffer,VAR_3

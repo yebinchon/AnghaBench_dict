@@ -1,0 +1,13 @@
+SDHCI_INT_DATA_TIMEOUT,VAR_0
+SDHCI_QUIRK2_DISABLE_HW_TIMEOUT,VAR_1
+SDHCI_TIMEOUT_CONTROL,VAR_2
+sdhci_calc_sw_timeout,FUNC_0
+sdhci_calc_timeout,FUNC_1
+sdhci_set_data_timeout_irq,FUNC_2
+sdhci_writeb,FUNC_3
+stub1,FUNC_4
+sdhci_set_timeout,FUNC_5
+host,VAR_3
+cmd,VAR_4
+count,VAR_5
+too_big,VAR_6

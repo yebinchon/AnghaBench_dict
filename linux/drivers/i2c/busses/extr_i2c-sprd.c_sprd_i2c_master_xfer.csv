@@ -1,0 +1,11 @@
+pm_runtime_get_sync,FUNC_0
+pm_runtime_mark_last_busy,FUNC_1
+pm_runtime_put_autosuspend,FUNC_2
+sprd_i2c_handle_msg,FUNC_3
+sprd_i2c_master_xfer,FUNC_4
+i2c_adap,VAR_0
+msgs,VAR_1
+num,VAR_2
+i2c_dev,VAR_3
+im,VAR_4
+ret,VAR_5

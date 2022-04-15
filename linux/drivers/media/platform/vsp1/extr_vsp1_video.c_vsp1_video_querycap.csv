@@ -1,0 +1,14 @@
+V4L2_CAP_DEVICE_CAPS,VAR_0
+V4L2_CAP_STREAMING,VAR_1
+V4L2_CAP_VIDEO_CAPTURE_MPLANE,VAR_2
+V4L2_CAP_VIDEO_OUTPUT_MPLANE,VAR_3
+dev_name,FUNC_0
+snprintf,FUNC_1
+strscpy,FUNC_2
+to_vsp1_video,FUNC_3
+vsp1_video_querycap,FUNC_4
+file,VAR_4
+fh,VAR_5
+cap,VAR_6
+vfh,VAR_7
+video,VAR_8

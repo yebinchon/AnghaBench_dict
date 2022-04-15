@@ -1,0 +1,15 @@
+__tegra_bpmp_channel_read,FUNC_0
+clear_bit,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+tegra_bpmp_channel_get_thread_index,FUNC_4
+up,FUNC_5
+tegra_bpmp_channel_read,FUNC_6
+channel,VAR_0
+data,VAR_1
+size,VAR_2
+ret,VAR_3
+bpmp,VAR_4
+flags,VAR_5
+err,VAR_6
+index,VAR_7

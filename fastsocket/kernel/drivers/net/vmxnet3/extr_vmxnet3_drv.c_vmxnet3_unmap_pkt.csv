@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+VMXNET3_INC_RING_IDX_ONLY,FUNC_1
+VMXNET3_TXDESC_GET_EOP,FUNC_2
+dev_kfree_skb_any,FUNC_3
+vmxnet3_cmd_ring_adv_next2comp,FUNC_4
+vmxnet3_unmap_tx_buf,FUNC_5
+vmxnet3_unmap_pkt,FUNC_6
+eop_idx,VAR_0
+tq,VAR_1
+pdev,VAR_2
+adapter,VAR_3
+skb,VAR_4
+entries,VAR_5

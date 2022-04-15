@@ -1,0 +1,8 @@
+STMFX_BOOT_TIME_MS,VAR_0
+STMFX_REG_SYS_CTRL,VAR_1
+STMFX_REG_SYS_CTRL_SWRST,VAR_2
+msleep,FUNC_0
+regmap_write,FUNC_1
+stmfx_chip_reset,FUNC_2
+stmfx,VAR_3
+ret,VAR_4

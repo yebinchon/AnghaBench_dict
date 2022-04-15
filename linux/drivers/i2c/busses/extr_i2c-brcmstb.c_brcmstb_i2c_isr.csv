@@ -1,0 +1,16 @@
+BSC_CTL_REG_INT_EN_MASK,VAR_0
+INT_DISABLE,VAR_1
+IRQ_HANDLED,VAR_2
+IRQ_NONE,VAR_3
+brcmstb_i2c_enable_disable_irq,FUNC_0
+bsc_readl,FUNC_1
+complete,FUNC_2
+ctl_reg,VAR_4
+dev_dbg,FUNC_3
+iic_enable,VAR_5
+brcmstb_i2c_isr,FUNC_4
+irq,VAR_6
+devid,VAR_7
+dev,VAR_8
+status_bsc_ctl,VAR_9
+status_iic_intrp,VAR_10

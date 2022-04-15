@@ -1,0 +1,16 @@
+EIO,VAR_0
+disk_identify_command,FUNC_0
+disk_identify_packet_device_command,FUNC_1
+disk_scsi_inquiry_command,FUNC_2
+errno,VAR_1
+memzero,FUNC_3
+disk_identify,FUNC_4
+fd,VAR_2
+out_identify,VAR_3
+out_is_packet_device,VAR_4
+ret,VAR_5
+inquiry_buf,VAR_6
+peripheral_device_type,VAR_7
+all_nul_bytes,VAR_8
+n,VAR_9
+is_packet_device,VAR_10

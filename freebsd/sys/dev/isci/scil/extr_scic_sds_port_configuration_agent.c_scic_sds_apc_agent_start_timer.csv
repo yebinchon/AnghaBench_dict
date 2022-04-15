@@ -1,0 +1,13 @@
+SCIC_LOG_OBJECT_CONTROLLER,VAR_0
+SCIC_LOG_OBJECT_PHY,VAR_1
+SCIC_LOG_OBJECT_PORT,VAR_2
+SCIC_LOG_TRACE,FUNC_0
+TRUE,VAR_3
+sci_base_object_get_logger,FUNC_1
+scic_cb_timer_start,FUNC_2
+scic_cb_timer_stop,FUNC_3
+scic_sds_apc_agent_start_timer,FUNC_4
+controller,VAR_4
+port_agent,VAR_5
+phy,VAR_6
+timeout,VAR_7

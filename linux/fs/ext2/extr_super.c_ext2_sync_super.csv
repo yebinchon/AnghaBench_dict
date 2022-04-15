@@ -1,0 +1,14 @@
+EXT2_SB,FUNC_0
+cpu_to_le32,FUNC_1
+ext2_clear_super_error,FUNC_2
+ext2_count_free_blocks,FUNC_3
+ext2_count_free_inodes,FUNC_4
+ktime_get_real_seconds,FUNC_5
+mark_buffer_dirty,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+sync_dirty_buffer,FUNC_9
+ext2_sync_super,FUNC_10
+sb,VAR_0
+es,VAR_1
+wait,VAR_2

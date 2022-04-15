@@ -1,0 +1,15 @@
+PageDirty,FUNC_0
+invalidate_inode_pages2_range,FUNC_1
+lock_page,FUNC_2
+nilfs_forget_buffer,FUNC_3
+page_cache_get,FUNC_4
+page_cache_release,FUNC_5
+page_index,FUNC_6
+unlock_page,FUNC_7
+wait_on_page_writeback,FUNC_8
+nilfs_btnode_delete,FUNC_9
+bh,VAR_0
+mapping,VAR_1
+page,VAR_2
+index,VAR_3
+still_dirty,VAR_4

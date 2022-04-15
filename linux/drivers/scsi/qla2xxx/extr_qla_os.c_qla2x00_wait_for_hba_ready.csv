@@ -1,0 +1,11 @@
+FX00_RESET_RECOVERY,VAR_0
+FX00_TARGET_SCAN,VAR_1
+UNLOADING,VAR_2
+msleep,FUNC_0
+pci_get_drvdata,FUNC_1
+qla2x00_reset_active,FUNC_2
+test_bit,FUNC_3
+qla2x00_wait_for_hba_ready,FUNC_4
+vha,VAR_3
+ha,VAR_4
+base_vha,VAR_5

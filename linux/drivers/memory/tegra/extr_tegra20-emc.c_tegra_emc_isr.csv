@@ -1,0 +1,15 @@
+EMC_CLKCHANGE_COMPLETE_INT,VAR_0
+EMC_INTSTATUS,VAR_1
+EMC_REFRESH_OVERFLOW_INT,VAR_2
+IRQ_HANDLED,VAR_3
+IRQ_NONE,VAR_4
+complete,FUNC_0
+dev_err_ratelimited,FUNC_1
+readl_relaxed,FUNC_2
+writel_relaxed,FUNC_3
+tegra_emc_isr,FUNC_4
+irq,VAR_5
+data,VAR_6
+emc,VAR_7
+intmask,VAR_8
+status,VAR_9

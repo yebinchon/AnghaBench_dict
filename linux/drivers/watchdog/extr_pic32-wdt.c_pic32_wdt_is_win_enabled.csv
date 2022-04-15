@@ -1,0 +1,5 @@
+WDTCON_REG,VAR_0
+WDTCON_WIN_EN,VAR_1
+readl,FUNC_0
+pic32_wdt_is_win_enabled,FUNC_1
+wdt,VAR_2

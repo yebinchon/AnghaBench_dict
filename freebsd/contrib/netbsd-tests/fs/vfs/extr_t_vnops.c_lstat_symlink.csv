@@ -1,0 +1,16 @@
+ATF_CHECK,FUNC_0
+ATF_REQUIRE,FUNC_1
+FSTEST_ENTER,FUNC_2
+FSTEST_EXIT,FUNC_3
+S_ISLNK,FUNC_4
+USES_SYMLINKS,VAR_0
+rump_sys_lstat,FUNC_5
+rump_sys_symlink,FUNC_6
+strlen,FUNC_7
+lstat_symlink,FUNC_8
+tc,VAR_1
+mp,VAR_2
+src,VAR_3
+dst,VAR_4
+res,VAR_5
+st,VAR_6

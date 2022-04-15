@@ -1,0 +1,13 @@
+VLC_INPUT_OPTION_TRUSTED,VAR_0
+VLC_VAR_ADDRESS,VAR_1
+assert,FUNC_0
+var_Create,FUNC_1
+var_OptionParse,FUNC_2
+var_SetAddress,FUNC_3
+vlc_mutex_lock,FUNC_4
+vlc_mutex_unlock,FUNC_5
+input_item_ApplyOptions,FUNC_6
+obj,VAR_2
+item,VAR_3
+i,VAR_4
+o,VAR_5

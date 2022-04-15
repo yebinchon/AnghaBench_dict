@@ -1,0 +1,16 @@
+EVTHREAD_LOCKTYPE_RECURSIVE,VAR_0
+EVTHREAD_LOCK_API_VERSION,VAR_1
+debug_cond_wait,VAR_2
+debug_lock_alloc,VAR_3
+debug_lock_free,VAR_4
+debug_lock_lock,VAR_5
+debug_lock_unlock,VAR_6
+event_global_setup_locks_,FUNC_0
+evthread_cond_fns_,VAR_7
+evthread_lock_debugging_enabled_,VAR_8
+evthread_lock_fns_,VAR_9
+memcpy,FUNC_1
+original_cond_fns_,VAR_10
+original_lock_fns_,VAR_11
+evthread_enable_lock_debugging,FUNC_2
+cbs,VAR_12

@@ -1,0 +1,8 @@
+VMBUS_XACT_CTXF_DESTROY,VAR_0
+mtx_lock,FUNC_0
+mtx_unlock,FUNC_1
+panic,FUNC_2
+vmbus_xact_get1,FUNC_3
+wakeup,FUNC_4
+vmbus_xact_ctx_orphan,FUNC_5
+ctx,VAR_1

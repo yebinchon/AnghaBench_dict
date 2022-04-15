@@ -1,0 +1,16 @@
+RING_DESC_BUFFER_OVERRUN,VAR_0
+RING_DESC_CRC_ERROR,VAR_1
+TBNET_MAX_MTU,VAR_2
+TBNET_RING_SIZE,VAR_3
+le16_to_cpu,FUNC_0
+le32_to_cpu,FUNC_1
+tbnet_frame_size,FUNC_2
+tbnet_check_frame,FUNC_3
+net,VAR_4
+tf,VAR_5
+hdr,VAR_6
+frame_id,VAR_7
+frame_count,VAR_8
+frame_size,VAR_9
+frame_index,VAR_10
+size,VAR_11

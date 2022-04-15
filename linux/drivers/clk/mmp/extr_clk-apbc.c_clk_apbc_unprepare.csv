@@ -1,0 +1,15 @@
+APBC_APBCLK,VAR_0
+APBC_FNCLK,VAR_1
+APBC_POWER,VAR_2
+APBC_POWER_CTRL,VAR_3
+readl_relaxed,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_clk_apbc,FUNC_3
+udelay,FUNC_4
+writel_relaxed,FUNC_5
+clk_apbc_unprepare,FUNC_6
+hw,VAR_4
+apbc,VAR_5
+data,VAR_6
+flags,VAR_7

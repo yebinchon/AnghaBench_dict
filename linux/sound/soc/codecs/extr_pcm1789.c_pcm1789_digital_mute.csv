@@ -1,0 +1,9 @@
+PCM1789_MUTE_MASK,VAR_0
+PCM1789_SOFT_MUTE,VAR_1
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+pcm1789_digital_mute,FUNC_2
+codec_dai,VAR_2
+mute,VAR_3
+component,VAR_4
+priv,VAR_5

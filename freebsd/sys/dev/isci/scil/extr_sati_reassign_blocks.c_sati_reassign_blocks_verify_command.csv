@@ -1,0 +1,12 @@
+ATA_READ_VERIFY_SECTORS,VAR_0
+ATA_READ_VERIFY_SECTORS_EXT,VAR_1
+SATI_DEVICE_CAP_48BIT_ENABLE,VAR_2
+SATI_SUCCESS,VAR_3
+sati_ata_non_data_command,FUNC_0
+sati_cb_get_h2d_register_fis_address,FUNC_1
+sati_set_ata_command,FUNC_2
+sati_reassign_blocks_verify_command,FUNC_3
+sequence,VAR_4
+scsi_io,VAR_5
+ata_io,VAR_6
+register_fis,VAR_7

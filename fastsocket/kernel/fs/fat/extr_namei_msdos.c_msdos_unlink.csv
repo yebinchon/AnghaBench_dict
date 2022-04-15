@@ -1,0 +1,15 @@
+CURRENT_TIME_SEC,VAR_0
+clear_nlink,FUNC_0
+fat_detach,FUNC_1
+fat_flush_inodes,FUNC_2
+fat_remove_entries,FUNC_3
+lock_super,FUNC_4
+msdos_find,FUNC_5
+unlock_super,FUNC_6
+msdos_unlink,FUNC_7
+dir,VAR_1
+dentry,VAR_2
+inode,VAR_3
+sb,VAR_4
+sinfo,VAR_5
+err,VAR_6

@@ -1,0 +1,15 @@
+PCIR_COMMAND,VAR_0
+PCIR_REVID,VAR_1
+PCIR_SUBDEV_0,VAR_2
+PCIR_SUBVEND_0,VAR_3
+device_printf,FUNC_0
+e1000_set_mac_type,FUNC_1
+iflib_get_dev,FUNC_2
+iflib_get_softc,FUNC_3
+pci_get_device,FUNC_4
+pci_get_vendor,FUNC_5
+pci_read_config,FUNC_6
+em_identify_hardware,FUNC_7
+ctx,VAR_4
+dev,VAR_5
+adapter,VAR_6

@@ -1,0 +1,14 @@
+SSB_CHIPCO_CAP_PMU,VAR_0
+SSB_CHIPCO_PMU_CAP,VAR_1
+SSB_CHIPCO_PMU_CAP_REVISION,VAR_2
+SSB_CHIPCO_PMU_CTL,VAR_3
+SSB_CHIPCO_PMU_CTL_NOILPONW,VAR_4
+chipco_mask32,FUNC_0
+chipco_read32,FUNC_1
+chipco_set32,FUNC_2
+dev_dbg,FUNC_3
+ssb_pmu_pll_init,FUNC_4
+ssb_pmu_resources_init,FUNC_5
+ssb_pmu_init,FUNC_6
+cc,VAR_5
+pmucap,VAR_6

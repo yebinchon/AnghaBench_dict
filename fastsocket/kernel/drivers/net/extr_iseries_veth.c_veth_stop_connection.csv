@@ -1,0 +1,9 @@
+VETH_STATE_RESET,VAR_0
+VETH_STATE_SHUTDOWN,VAR_1
+cancel_delayed_work,FUNC_0
+flush_scheduled_work,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+veth_kick_statemachine,FUNC_4
+veth_stop_connection,FUNC_5
+cnx,VAR_2

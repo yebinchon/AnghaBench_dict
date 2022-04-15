@@ -1,0 +1,15 @@
+HFS_FK_DATA,VAR_0
+HFS_FK_RSRC,VAR_1
+HFS_FLG_EXT_DIRTY,VAR_2
+HFS_FLG_EXT_NEW,VAR_3
+HFS_I,FUNC_0
+HFS_IS_RSRC,FUNC_1
+__hfs_ext_read_extent,FUNC_2
+__hfs_ext_write_extent,FUNC_3
+be16_to_cpu,FUNC_4
+hfs_ext_block_count,FUNC_5
+__hfs_ext_cache_extent,FUNC_6
+fd,VAR_4
+inode,VAR_5
+block,VAR_6
+res,VAR_7

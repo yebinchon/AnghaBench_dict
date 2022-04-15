@@ -1,0 +1,10 @@
+STATUS_RFKILL_HW,VAR_0
+STATUS_RFKILL_OPMODE,VAR_1
+clear_bit,FUNC_0
+iwl_is_rfkill_set,FUNC_1
+iwl_trans_pcie_rf_kill,FUNC_2
+set_bit,FUNC_3
+iwl_trans_pcie_handle_stop_rfkill,FUNC_4
+trans,VAR_2
+was_in_rfkill,VAR_3
+hw_rfkill,VAR_4

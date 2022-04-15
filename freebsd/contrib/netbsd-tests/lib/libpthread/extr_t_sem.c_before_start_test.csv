@@ -1,0 +1,16 @@
+ATF_REQUIRE,FUNC_0
+PTHREAD_REQUIRE,FUNC_1
+SEM_REQUIRE,FUNC_2
+SIGALRM,VAR_0
+SIG_ERR,VAR_1
+alarm_ms,FUNC_3
+pthread_create,FUNC_4
+pthread_join,FUNC_5
+sem,VAR_2
+sem_init,FUNC_6
+sighandler,VAR_3
+signal,FUNC_7
+threadfunc,FUNC_8
+before_start_test,FUNC_9
+use_pthread,VAR_4
+t,VAR_5

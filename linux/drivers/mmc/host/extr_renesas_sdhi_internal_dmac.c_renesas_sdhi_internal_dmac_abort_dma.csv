@@ -1,0 +1,12 @@
+DM_CM_RST,VAR_0
+RST_DTRANRST0,VAR_1
+RST_DTRANRST1,VAR_2
+RST_RESERVED_BITS,VAR_3
+SDHI_INTERNAL_DMAC_RX_IN_USE,VAR_4
+clear_bit,FUNC_0
+global_flags,VAR_5
+renesas_sdhi_internal_dmac_dm_write,FUNC_1
+renesas_sdhi_internal_dmac_enable_dma,FUNC_2
+renesas_sdhi_internal_dmac_abort_dma,FUNC_3
+host,VAR_6
+val,VAR_7

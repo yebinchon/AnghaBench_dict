@@ -1,0 +1,15 @@
+BPF_PROG_RUN,VAR_0
+BPF_PROG_RUN_ARRAY,FUNC_0
+current,VAR_1
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+task_dfl_cgroup,FUNC_3
+__cgroup_bpf_check_dev_permission,FUNC_4
+dev_type,VAR_2
+major,VAR_3
+minor,VAR_4
+access,VAR_5
+type,VAR_6
+cgrp,VAR_7
+ctx,VAR_8
+allow,VAR_9

@@ -1,0 +1,16 @@
+GET_SQ_DESC,FUNC_0
+NICVF_TX_LOCK,FUNC_1
+NICVF_TX_UNLOCK,FUNC_2
+NIC_QSET_SQ_0_7_HEAD,VAR_0
+SQ_DESC_TYPE_HEADER,VAR_1
+bus_dmamap_unload,FUNC_3
+m_freem,FUNC_4
+nicvf_put_sq_desc,FUNC_5
+nicvf_queue_reg_read,FUNC_6
+nicvf_sq_free_used_descs,FUNC_7
+nic,VAR_2
+sq,VAR_3
+qidx,VAR_4
+head,VAR_5
+snd_buff,VAR_6
+hdr,VAR_7

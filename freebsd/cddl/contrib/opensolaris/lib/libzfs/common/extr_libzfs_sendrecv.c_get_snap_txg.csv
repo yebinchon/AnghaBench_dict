@@ -1,0 +1,15 @@
+ZFS_MAX_DATASET_NAME_LEN,VAR_0
+ZFS_PROP_CREATETXG,VAR_1
+ZFS_TYPE_SNAPSHOT,VAR_2
+snprintf,FUNC_0
+zfs_close,FUNC_1
+zfs_dataset_exists,FUNC_2
+zfs_open,FUNC_3
+zfs_prop_get_int,FUNC_4
+get_snap_txg,FUNC_5
+hdl,VAR_3
+fs,VAR_4
+snap,VAR_5
+name,VAR_6
+txg,VAR_7
+zhp,VAR_8

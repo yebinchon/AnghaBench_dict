@@ -1,0 +1,16 @@
+RTW_SEC_CAM_ENTRY_SHIFT,VAR_0
+RTW_SEC_CMD_POLLING,VAR_1
+RTW_SEC_CMD_REG,VAR_2
+RTW_SEC_CMD_WRITE_ENABLE,VAR_3
+RTW_SEC_WRITE_REG,VAR_4
+clear_bit,FUNC_0
+eth_zero_addr,FUNC_1
+rtw_write32,FUNC_2
+rtw_sec_clear_cam,FUNC_3
+rtwdev,VAR_5
+sec,VAR_6
+hw_key_idx,VAR_7
+cam,VAR_8
+write_cmd,VAR_9
+command,VAR_10
+addr,VAR_11

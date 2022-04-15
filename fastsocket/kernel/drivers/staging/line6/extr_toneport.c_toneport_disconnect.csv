@@ -1,0 +1,12 @@
+LINE6_DEVID_GUITARPORT,VAR_0
+dev_attr_led_green,VAR_1
+dev_attr_led_red,VAR_2
+device_remove_file,FUNC_0
+toneport_destruct,FUNC_1
+unlink_wait_clear_audio_in_urbs,FUNC_2
+unlink_wait_clear_audio_out_urbs,FUNC_3
+usb_get_intfdata,FUNC_4
+toneport_disconnect,FUNC_5
+interface,VAR_3
+toneport,VAR_4
+line6pcm,VAR_5

@@ -1,0 +1,17 @@
+CAM_DIR_BOTH,VAR_0
+CAM_DIR_MASK,VAR_1
+CAM_REQ_INVALID,VAR_2
+EINVAL,VAR_3
+VIRTIO_SCSI_CDB_SIZE,VAR_4
+VTSCSI_ERROR,VAR_5
+VTSCSI_FLAG_BIDIRECTIONAL,VAR_6
+vtscsi_dprintf,FUNC_0
+vtscsi_start_scsi_cmd,FUNC_1
+xpt_done,FUNC_2
+vtscsi_cam_scsi_io,FUNC_3
+sc,VAR_7
+sim,VAR_8
+ccb,VAR_9
+ccbh,VAR_10
+csio,VAR_11
+error,VAR_12

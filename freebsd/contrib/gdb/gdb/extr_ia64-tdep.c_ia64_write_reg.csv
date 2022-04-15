@@ -1,0 +1,14 @@
+IA64_BSPSTORE_REGNUM,VAR_0
+IA64_BSP_REGNUM,VAR_1
+TARGET_OBJECT_DIRTY,VAR_2
+current_regcache,VAR_3
+current_target,VAR_4
+regcache_cooked_read_unsigned,FUNC_0
+target_write_partial,FUNC_1
+write_memory,FUNC_2
+ia64_write_reg,FUNC_3
+addr,VAR_5
+buf,VAR_6
+len,VAR_7
+bspstore,VAR_8
+bsp,VAR_9

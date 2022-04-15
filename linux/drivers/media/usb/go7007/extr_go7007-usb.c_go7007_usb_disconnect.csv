@@ -1,0 +1,12 @@
+STATUS_SHUTDOWN,VAR_0
+go7007_snd_remove,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+to_go7007,FUNC_3
+usb_get_intfdata,FUNC_4
+v4l2_device_disconnect,FUNC_5
+v4l2_device_put,FUNC_6
+video_unregister_device,FUNC_7
+go7007_usb_disconnect,FUNC_8
+intf,VAR_1
+go,VAR_2

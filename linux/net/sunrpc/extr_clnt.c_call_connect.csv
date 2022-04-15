@@ -1,0 +1,14 @@
+ENOTCONN,VAR_0
+RPC_TASK_NOCONNECT,VAR_1
+call_connect_status,VAR_2
+call_transmit,VAR_3
+dprintk,FUNC_0
+rpc_call_rpcerror,FUNC_1
+rpc_task_handle_transmitted,FUNC_2
+rpc_task_transmitted,FUNC_3
+xprt_connect,FUNC_4
+xprt_connected,FUNC_5
+xprt_prepare_transmit,FUNC_6
+call_connect,FUNC_7
+task,VAR_4
+xprt,VAR_5

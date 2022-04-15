@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+IPS_MAX_SG,VAR_1
+IPS_SGLIST_SIZE,FUNC_0
+IPS_USE_ENH_SGLIST,FUNC_1
+METHOD_TRACE,FUNC_2
+dma_alloc_coherent,FUNC_3
+dma_free_coherent,FUNC_4
+memset,FUNC_5
+ips_allocatescbs,FUNC_6
+ha,VAR_2
+scb_p,VAR_3
+ips_sg,VAR_4
+i,VAR_5
+command_dma,VAR_6
+sg_dma,VAR_7

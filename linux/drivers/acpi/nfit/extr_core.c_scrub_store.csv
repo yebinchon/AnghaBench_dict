@@ -1,0 +1,17 @@
+ARS_REQ_LONG,VAR_0
+EINVAL,VAR_1
+acpi_nfit_ars_rescan,FUNC_0
+dev_get_drvdata,FUNC_1
+kstrtol,FUNC_2
+nfit_device_lock,FUNC_3
+nfit_device_unlock,FUNC_4
+to_acpi_desc,FUNC_5
+scrub_store,FUNC_6
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+size,VAR_5
+nd_desc,VAR_6
+rc,VAR_7
+val,VAR_8
+acpi_desc,VAR_9

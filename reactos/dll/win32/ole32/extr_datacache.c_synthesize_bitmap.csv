@@ -1,0 +1,17 @@
+CBM_INIT,VAR_0
+CreateDIBitmap,FUNC_0
+DIB_RGB_COLORS,VAR_1
+E_FAIL,VAR_2
+GetDC,FUNC_1
+GlobalLock,FUNC_2
+GlobalUnlock,FUNC_3
+ReleaseDC,FUNC_4
+S_OK,VAR_3
+TYMED_GDI,VAR_4
+bitmap_info_size,FUNC_5
+synthesize_bitmap,FUNC_6
+dib,VAR_5
+med,VAR_6
+hr,VAR_7
+bmi,VAR_8
+hdc,VAR_9

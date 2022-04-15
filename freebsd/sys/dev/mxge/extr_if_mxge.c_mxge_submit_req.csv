@@ -1,0 +1,15 @@
+mxge_pio_copy,FUNC_0
+mxge_submit_req_backwards,FUNC_1
+wmb,FUNC_2
+mxge_submit_req,FUNC_3
+tx,VAR_0
+src,VAR_1
+cnt,VAR_2
+idx,VAR_3
+i,VAR_4
+src_ints,VAR_5
+dst_ints,VAR_6
+srcp,VAR_7
+dstp,VAR_8
+dst,VAR_9
+last_flags,VAR_10

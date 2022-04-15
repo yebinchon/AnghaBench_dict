@@ -1,0 +1,16 @@
+GFP_NOFS,VAR_0
+PAGE_SIZE,VAR_1
+SECTOR_SIZE,VAR_2
+SetPagePrivate,FUNC_0
+__GFP_NOFAIL,VAR_3
+atomic_set,FUNC_1
+bitmap_zero,FUNC_2
+get_page,FUNC_3
+i_blocksize,FUNC_4
+kmalloc,FUNC_5
+set_page_private,FUNC_6
+to_iomap_page,FUNC_7
+iomap_page_create,FUNC_8
+inode,VAR_4
+page,VAR_5
+iop,VAR_6

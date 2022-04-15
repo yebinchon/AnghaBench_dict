@@ -1,0 +1,17 @@
+LIO_CN23XX_SLI_SCRATCH2,VAR_0
+LIO_MAX_CORES,VAR_1
+bzero,FUNC_0
+kproc_suspend_check,FUNC_1
+lio_dev_err,FUNC_2
+lio_get_other_octeon_device,FUNC_3
+lio_ms_to_ticks,FUNC_4
+lio_read_csr64,FUNC_5
+pause,FUNC_6
+lio_watchdog,FUNC_7
+param,VAR_2
+core_num,VAR_3
+mask_of_crashed_or_stuck_cores,VAR_4
+oct,VAR_5
+err_msg_was_printed,VAR_6
+other_oct,VAR_7
+core_crashed_or_got_stuck,VAR_8

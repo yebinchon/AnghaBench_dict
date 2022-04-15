@@ -1,0 +1,12 @@
+CONFIG_EDAC_DEBUG,VAR_0
+IS_ENABLED,FUNC_0
+S_IWUSR,VAR_1
+debugfs_create_file,FUNC_1
+edac_debugfs_create_dir_at,FUNC_2
+snprintf,FUNC_3
+xgene_edac_l3_debug_inject_fops,VAR_2
+xgene_edac_l3_create_debugfs_nodes,FUNC_4
+edac_dev,VAR_3
+ctx,VAR_4
+dbgfs_dir,VAR_5
+name,VAR_6

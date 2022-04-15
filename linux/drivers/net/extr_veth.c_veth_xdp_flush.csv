@@ -1,0 +1,16 @@
+__veth_xdp_flush,FUNC_0
+netdev_priv,FUNC_1
+rcu_access_pointer,FUNC_2
+rcu_dereference,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+unlikely,FUNC_6
+veth_select_rxq,FUNC_7
+veth_xdp_flush_bq,FUNC_8
+veth_xdp_flush,FUNC_9
+dev,VAR_0
+bq,VAR_1
+rcv_priv,VAR_2
+priv,VAR_3
+rcv,VAR_4
+rq,VAR_5

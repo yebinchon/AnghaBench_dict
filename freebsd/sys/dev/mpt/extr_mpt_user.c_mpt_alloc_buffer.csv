@@ -1,0 +1,17 @@
+BUS_DMA_COHERENT,VAR_0
+BUS_DMA_NOWAIT,VAR_1
+BUS_SPACE_MAXADDR,VAR_2
+BUS_SPACE_MAXADDR_32BIT,VAR_3
+ENOSPC,VAR_4
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+bus_dmamem_free,FUNC_3
+mpt_dma_tag_create,FUNC_4
+mpt_map_rquest,VAR_5
+mpt_alloc_buffer,FUNC_5
+mpt,VAR_6
+page_mem,VAR_7
+len,VAR_8
+mi,VAR_9
+error,VAR_10

@@ -1,0 +1,10 @@
+BUS_ADD_CHILD,FUNC_0
+OF_getprop,FUNC_1
+device_find_child,FUNC_2
+device_printf,FUNC_3
+ofw_bus_get_node,FUNC_4
+pmufreq_identify,FUNC_5
+driver,VAR_0
+parent,VAR_1
+node,VAR_2
+min_freq,VAR_3

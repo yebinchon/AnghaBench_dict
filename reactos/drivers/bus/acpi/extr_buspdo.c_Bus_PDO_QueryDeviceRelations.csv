@@ -1,0 +1,14 @@
+ASSERTMSG,FUNC_0
+ExAllocatePoolWithTag,FUNC_1
+IoGetCurrentIrpStackLocation,FUNC_2
+ObReferenceObject,FUNC_3
+PAGED_CODE,FUNC_4
+PagedPool,VAR_0
+STATUS_INSUFFICIENT_RESOURCES,VAR_1
+STATUS_SUCCESS,VAR_2
+Bus_PDO_QueryDeviceRelations,FUNC_5
+DeviceData,VAR_3
+Irp,VAR_4
+stack,VAR_5
+deviceRelations,VAR_6
+status,VAR_7

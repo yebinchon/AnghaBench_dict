@@ -1,0 +1,14 @@
+GIT_ITEROVER,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_config_iterator_free,FUNC_2
+git_config_iterator_glob_new,FUNC_3
+git_config_next,FUNC_4
+check_glob_iter,FUNC_5
+cfg,VAR_1
+regexp,VAR_2
+expected,VAR_3
+iter,VAR_4
+entry,VAR_5
+count,VAR_6
+error,VAR_7

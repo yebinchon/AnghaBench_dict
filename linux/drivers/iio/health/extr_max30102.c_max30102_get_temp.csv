@@ -1,0 +1,11 @@
+MAX30102_REG_TEMP_CONFIG,VAR_0
+MAX30102_REG_TEMP_CONFIG_TEMP_EN,VAR_1
+max30102_read_temp,FUNC_0
+max30102_set_power,FUNC_1
+msleep,FUNC_2
+regmap_update_bits,FUNC_3
+max30102_get_temp,FUNC_4
+data,VAR_2
+val,VAR_3
+en,VAR_4
+ret,VAR_5

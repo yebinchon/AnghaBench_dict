@@ -1,0 +1,15 @@
+I2SCON,VAR_0
+QUIRK_NEED_RSTCLR,VAR_1
+is_secondary,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put,FUNC_2
+snd_soc_dai_get_drvdata,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_info,FUNC_6
+writel,FUNC_7
+samsung_i2s_dai_remove,FUNC_8
+dai,VAR_2
+priv,VAR_3
+i2s,VAR_4
+flags,VAR_5

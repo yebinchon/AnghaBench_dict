@@ -1,0 +1,16 @@
+Assert,FUNC_0
+MemoryContextSwitchTo,FUNC_1
+chunk_constraints_get,FUNC_2
+hypercube_is_sorted,FUNC_3
+is_dimension_constraint,FUNC_4
+ts_dimension_slice_scan_by_id,FUNC_5
+ts_hypercube_alloc,FUNC_6
+ts_hypercube_slice_sort,FUNC_7
+ts_hypercube_from_constraints,FUNC_8
+constraints,VAR_0
+mctx,VAR_1
+hc,VAR_2
+i,VAR_3
+old,VAR_4
+cc,VAR_5
+slice,VAR_6

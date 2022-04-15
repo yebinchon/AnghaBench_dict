@@ -1,0 +1,12 @@
+drm_mode_config_helper_suspend,FUNC_0
+pci_save_state,FUNC_1
+qxl_check_idle,FUNC_2
+qxl_destroy_monitors_object,FUNC_3
+qxl_queue_garbage_collect,FUNC_4
+qxl_surf_evict,FUNC_5
+qxl_vram_evict,FUNC_6
+qxl_drm_freeze,FUNC_7
+dev,VAR_0
+pdev,VAR_1
+qdev,VAR_2
+ret,VAR_3

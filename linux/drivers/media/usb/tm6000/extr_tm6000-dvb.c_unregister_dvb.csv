@@ -1,0 +1,13 @@
+dvb_dmx_release,FUNC_0
+dvb_dmxdev_release,FUNC_1
+dvb_frontend_detach,FUNC_2
+dvb_unregister_adapter,FUNC_3
+dvb_unregister_frontend,FUNC_4
+kfree,FUNC_5
+mutex_destroy,FUNC_6
+usb_free_urb,FUNC_7
+usb_unlink_urb,FUNC_8
+unregister_dvb,FUNC_9
+dev,VAR_0
+dvb,VAR_1
+bulk_urb,VAR_2

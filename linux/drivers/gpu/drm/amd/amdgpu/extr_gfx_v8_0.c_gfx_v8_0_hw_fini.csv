@@ -1,0 +1,15 @@
+amdgpu_gfx_rlc_enter_safe_mode,FUNC_0
+amdgpu_gfx_rlc_exit_safe_mode,FUNC_1
+amdgpu_irq_put,FUNC_2
+amdgpu_sriov_vf,FUNC_3
+gfx_v8_0_cp_enable,FUNC_4
+gfx_v8_0_csb_vram_unpin,FUNC_5
+gfx_v8_0_kcq_disable,FUNC_6
+gfx_v8_0_wait_for_idle,FUNC_7
+gfx_v8_0_wait_for_rlc_idle,FUNC_8
+pr_debug,FUNC_9
+pr_err,FUNC_10
+stub1,FUNC_11
+gfx_v8_0_hw_fini,FUNC_12
+handle,VAR_0
+adev,VAR_1

@@ -1,0 +1,13 @@
+FC_RPORT_DBG,FUNC_0
+RPORT_EV_NONE,VAR_0
+RPORT_ST_DELETE,VAR_1
+fc_rport_destroy,VAR_2
+fc_rport_state_enter,FUNC_1
+kref_get,FUNC_2
+kref_put,FUNC_3
+lockdep_assert_held,FUNC_4
+queue_work,FUNC_5
+rport_event_queue,VAR_3
+fc_rport_enter_delete,FUNC_6
+rdata,VAR_4
+event,VAR_5

@@ -1,0 +1,15 @@
+CRD_F_ENCRYPT,VAR_0
+NLM_CIPHER_3DES,VAR_1
+NLM_HASH_BYPASS,VAR_2
+nlm_crypto_complete_sec_request,FUNC_0
+nlm_crypto_fill_cipher_pkt_param,FUNC_1
+nlm_crypto_fill_pkt_ctrl,FUNC_2
+nlm_crypto_form_srcdst_segs,FUNC_3
+nlm_crypto_do_cipher,FUNC_4
+sc,VAR_3
+cmd,VAR_4
+cipdesc,VAR_5
+cipkey,VAR_6
+ret,VAR_7
+k,VAR_8
+tkey,VAR_9

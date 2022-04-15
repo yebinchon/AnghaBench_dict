@@ -1,0 +1,15 @@
+MSG_DEBUG,VAR_0
+TEAP_STATUS_FAILURE,VAR_1
+TEAP_STATUS_SUCCESS,VAR_2
+TEAP_TLV_INTERMEDIATE_RESULT,VAR_3
+TEAP_TLV_MANDATORY,VAR_4
+TEAP_TLV_RESULT,VAR_5
+host_to_be16,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_alloc,FUNC_2
+wpabuf_put,FUNC_3
+eap_teap_tlv_result,FUNC_4
+status,VAR_6
+intermediate,VAR_7
+buf,VAR_8
+result,VAR_9

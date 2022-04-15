@@ -1,0 +1,11 @@
+OPT_BIND_IP,VAR_0
+OPT_DROP_THRESHOLD,VAR_1
+OPT_LOWLATENCY_ENABLED,VAR_2
+OPT_MAX_SHUTDOWN_TIME_SEC,VAR_3
+OPT_NEWSOCKETLOOP_ENABLED,VAR_4
+OPT_PFRAME_DROP_THRESHOLD,VAR_5
+obs_data_set_default_bool,FUNC_0
+obs_data_set_default_int,FUNC_1
+obs_data_set_default_string,FUNC_2
+rtmp_stream_defaults,FUNC_3
+defaults,VAR_6

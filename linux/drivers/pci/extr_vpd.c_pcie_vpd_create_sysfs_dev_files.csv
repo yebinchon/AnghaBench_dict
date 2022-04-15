@@ -1,0 +1,13 @@
+GFP_ATOMIC,VAR_0
+S_IRUSR,VAR_1
+S_IWUSR,VAR_2
+kfree,FUNC_0
+kzalloc,FUNC_1
+read_vpd_attr,VAR_3
+sysfs_bin_attr_init,FUNC_2
+sysfs_create_bin_file,FUNC_3
+write_vpd_attr,VAR_4
+pcie_vpd_create_sysfs_dev_files,FUNC_4
+dev,VAR_5
+retval,VAR_6
+attr,VAR_7

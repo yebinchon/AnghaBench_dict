@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+SPMI_VS_OCP_FALL_DELAY_US,VAR_1
+SPMI_VS_OCP_FAULT_DELAY_US,VAR_2
+dev_err,FUNC_0
+ktime_get,FUNC_1
+ktime_us_delta,FUNC_2
+msecs_to_jiffies,FUNC_3
+schedule_delayed_work,FUNC_4
+spmi_regulator_vs_clear_ocp,FUNC_5
+udelay,FUNC_6
+spmi_regulator_vs_ocp_isr,FUNC_7
+irq,VAR_3
+data,VAR_4
+vreg,VAR_5
+ocp_irq_time,VAR_6
+ocp_trigger_delay_us,VAR_7

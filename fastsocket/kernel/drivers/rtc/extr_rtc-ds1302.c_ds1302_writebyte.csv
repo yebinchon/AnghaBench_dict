@@ -1,0 +1,10 @@
+RTC_CMD_WRITE,VAR_0
+RTC_IODATA,VAR_1
+RTC_RESET,VAR_2
+RTC_SCLK,VAR_3
+ds1302_sendbits,FUNC_0
+get_dp,FUNC_1
+set_dp,FUNC_2
+ds1302_writebyte,FUNC_3
+addr,VAR_4
+val,VAR_5

@@ -1,0 +1,15 @@
+K_ENTER,VAR_0
+K_KP_ENTER,VAR_1
+K_MOUSE1,VAR_2
+K_MOUSE2,VAR_3
+UI_BuildServerDisplayList,FUNC_0
+qfalse,VAR_4
+qtrue,VAR_5
+trap_Cvar_Set,FUNC_1
+uiInfo,VAR_6
+ui_joinGameType,VAR_7
+va,FUNC_2
+UI_JoinGameType_HandleKey,FUNC_3
+flags,VAR_8
+special,VAR_9
+key,VAR_10

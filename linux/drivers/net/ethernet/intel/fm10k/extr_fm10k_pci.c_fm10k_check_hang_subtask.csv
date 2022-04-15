@@ -1,0 +1,15 @@
+FM10K_ITR_ENABLE,VAR_0
+FM10K_ITR_PENDING2,VAR_1
+HZ,VAR_2
+__FM10K_DOWN,VAR_3
+__FM10K_RESETTING,VAR_4
+jiffies,VAR_5
+netif_carrier_ok,FUNC_0
+set_check_for_tx_hang,FUNC_1
+test_bit,FUNC_2
+time_is_after_eq_jiffies,FUNC_3
+writel,FUNC_4
+fm10k_check_hang_subtask,FUNC_5
+interface,VAR_6
+i,VAR_7
+qv,VAR_8

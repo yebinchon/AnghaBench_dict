@@ -1,0 +1,17 @@
+DATA_IN_RESPONSE_MIN_SIZE,VAR_0
+DHTPK_DATA_MAX_LENGTH,VAR_1
+DHTPK_DATA_MIN_LENGTH,VAR_2
+crypto_box_NONCEBYTES,VAR_3
+crypto_box_PUBLICKEYBYTES,VAR_4
+decrypt_data,FUNC_0
+handle_dhtpk_announce,FUNC_1
+public_key_cmp,FUNC_2
+handle_dht_dhtpk,FUNC_3
+object,VAR_5
+source,VAR_6
+source_pubkey,VAR_7
+packet,VAR_8
+length,VAR_9
+onion_c,VAR_10
+plain,VAR_11
+len,VAR_12

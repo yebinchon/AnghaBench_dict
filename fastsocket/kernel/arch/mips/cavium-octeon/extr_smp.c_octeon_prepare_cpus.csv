@@ -1,0 +1,11 @@
+CVMX_CIU_MBOX_CLRX,FUNC_0
+IRQF_DISABLED,VAR_0
+OCTEON_IRQ_MBOX0,VAR_1
+OCTEON_IRQ_MBOX1,VAR_2
+cvmx_get_core_num,FUNC_1
+cvmx_write_csr,FUNC_2
+mailbox_interrupt,VAR_3
+panic,FUNC_3
+request_irq,FUNC_4
+octeon_prepare_cpus,FUNC_5
+max_cpus,VAR_4

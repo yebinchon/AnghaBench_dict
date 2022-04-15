@@ -1,0 +1,17 @@
+FRONTEND_POWERSTATE_CHARGED,VAR_0
+FRONTEND_POWERSTATE_CHARGING,VAR_1
+FRONTEND_POWERSTATE_NONE,VAR_2
+FRONTEND_POWERSTATE_NO_SOURCE,VAR_3
+FRONTEND_POWERSTATE_ON_POWER_SOURCE,VAR_4
+scePowerGetBatteryLifePercent,FUNC_0
+scePowerGetBatteryLifeTime,FUNC_1
+scePowerIsBatteryCharging,FUNC_2
+scePowerIsBatteryExist,FUNC_3
+scePowerIsPowerOnline,FUNC_4
+frontend_psp_get_powerstate,FUNC_5
+seconds,VAR_5
+percent,VAR_6
+ret,VAR_7
+battery,VAR_8
+plugged,VAR_9
+charging,VAR_10

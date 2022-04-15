@@ -1,0 +1,11 @@
+CPUID_FEATURE_RDRAND,VAR_0
+CPUID_LEAF7_FEATURE_RDSEED,VAR_1
+assert,FUNC_0
+cpuid_features,FUNC_1
+cpuid_leaf7_features,FUNC_2
+rdrand_seed,FUNC_3
+rdseed_seed,FUNC_4
+intel_entropysource,FUNC_5
+buf,VAR_2
+nbytes,VAR_3
+nwords,VAR_4

@@ -1,0 +1,16 @@
+SATI_COMPLETE,VAR_0
+SATI_DEVICE_CAP_48BIT_ENABLE,VAR_1
+SATI_SUCCESS,VAR_2
+sati_cb_get_h2d_register_fis_address,FUNC_0
+sati_set_ata_features,FUNC_1
+sati_set_ata_features_exp,FUNC_2
+sati_set_ata_sector_count,FUNC_3
+sati_set_ata_sector_count_exp,FUNC_4
+sati_move_set_sector_count,FUNC_5
+sequence,VAR_3
+scsi_io,VAR_4
+ata_io,VAR_5
+sector_count,VAR_6
+is_fpdma_command,VAR_7
+max_sector_count,VAR_8
+register_fis,VAR_9

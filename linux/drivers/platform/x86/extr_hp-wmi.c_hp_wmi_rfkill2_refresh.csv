@@ -1,0 +1,15 @@
+HPWMI_READ,VAR_0
+HPWMI_WIRELESS2_QUERY,VAR_1
+IS_HWBLOCKED,FUNC_0
+IS_SWBLOCKED,FUNC_1
+hp_wmi_perform_query,FUNC_2
+pr_warn,FUNC_3
+rfkill2,VAR_2
+rfkill2_count,VAR_3
+rfkill_set_states,FUNC_4
+hp_wmi_rfkill2_refresh,FUNC_5
+state,VAR_4
+err,VAR_5
+i,VAR_6
+num,VAR_7
+devstate,VAR_8

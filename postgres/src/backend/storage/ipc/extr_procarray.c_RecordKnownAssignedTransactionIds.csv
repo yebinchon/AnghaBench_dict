@@ -1,0 +1,17 @@
+AdvanceNextFullTransactionIdPastXid,FUNC_0
+Assert,FUNC_1
+DEBUG4,VAR_0
+ExtendSUBTRANS,FUNC_2
+KnownAssignedXidsAdd,FUNC_3
+STANDBY_INITIALIZED,VAR_1
+TransactionIdAdvance,FUNC_4
+TransactionIdFollows,FUNC_5
+TransactionIdIsValid,FUNC_6
+TransactionIdPrecedes,FUNC_7
+elog,FUNC_8
+latestObservedXid,VAR_2
+standbyState,VAR_3
+trace_recovery,FUNC_9
+RecordKnownAssignedTransactionIds,FUNC_10
+xid,VAR_4
+next_expected_xid,VAR_5

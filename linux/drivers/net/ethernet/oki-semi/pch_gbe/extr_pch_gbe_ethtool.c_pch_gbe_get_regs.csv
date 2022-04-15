@@ -1,0 +1,15 @@
+PCH_GBE_MAC_REGS_LEN,VAR_0
+PCH_GBE_PHY_REGS_LEN,VAR_1
+ioread32,FUNC_0
+netdev_priv,FUNC_1
+pch_gbe_phy_read_reg_miic,FUNC_2
+pch_gbe_get_regs,FUNC_3
+netdev,VAR_2
+regs,VAR_3
+p,VAR_4
+adapter,VAR_5
+hw,VAR_6
+pdev,VAR_7
+regs_buff,VAR_8
+i,VAR_9
+tmp,VAR_10

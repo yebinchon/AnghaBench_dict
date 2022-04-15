@@ -1,0 +1,12 @@
+BATCHNORM,VAR_0
+add_bias,FUNC_0
+axpy_cpu,FUNC_1
+copy_cpu,FUNC_2
+mean_cpu,FUNC_3
+normalize_cpu,FUNC_4
+scal_cpu,FUNC_5
+scale_bias,FUNC_6
+variance_cpu,FUNC_7
+forward_batchnorm_layer,FUNC_8
+l,VAR_1
+net,VAR_2

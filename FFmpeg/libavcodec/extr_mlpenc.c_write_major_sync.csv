@@ -1,0 +1,16 @@
+AV_CODEC_ID_MLP,VAR_0
+AV_CODEC_ID_TRUEHD,VAR_1
+AV_WL16,FUNC_0
+MAJOR_SYNC_INFO_SIGNATURE,VAR_2
+SYNC_MAJOR,VAR_3
+SYNC_MLP,VAR_4
+SYNC_TRUEHD,VAR_5
+ff_mlp_checksum16,FUNC_1
+flush_put_bits,FUNC_2
+init_put_bits,FUNC_3
+put_bits,FUNC_4
+write_major_sync,FUNC_5
+ctx,VAR_6
+buf,VAR_7
+buf_size,VAR_8
+pb,VAR_9

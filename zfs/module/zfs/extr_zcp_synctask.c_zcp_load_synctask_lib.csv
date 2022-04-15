@@ -1,0 +1,16 @@
+lua_newtable,FUNC_0
+lua_pushboolean,FUNC_1
+lua_pushcclosure,FUNC_2
+lua_pushlightuserdata,FUNC_3
+lua_setfield,FUNC_4
+zcp_synctask_destroy_info,VAR_0
+zcp_synctask_promote_info,VAR_1
+zcp_synctask_rollback_info,VAR_2
+zcp_synctask_snapshot_info,VAR_3
+zcp_synctask_wrapper,VAR_4
+zcp_load_synctask_lib,FUNC_5
+state,VAR_5
+sync,VAR_6
+i,VAR_7
+zcp_synctask_funcs,VAR_8
+info,VAR_9

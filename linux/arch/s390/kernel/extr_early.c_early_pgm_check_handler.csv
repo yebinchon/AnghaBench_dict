@@ -1,0 +1,11 @@
+S390_lowcore,VAR_0
+__ctl_load,FUNC_0
+__ctl_store,FUNC_1
+disabled_wait,FUNC_2
+extable_fixup,FUNC_3
+s390_search_extables,FUNC_4
+early_pgm_check_handler,FUNC_5
+fixup,VAR_1
+cr0,VAR_2
+cr0_new,VAR_3
+addr,VAR_4

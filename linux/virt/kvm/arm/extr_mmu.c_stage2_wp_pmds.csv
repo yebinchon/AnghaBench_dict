@@ -1,0 +1,14 @@
+kvm_s2pmd_readonly,FUNC_0
+kvm_set_s2pmd_readonly,FUNC_1
+pmd_none,FUNC_2
+pmd_thp_or_huge,FUNC_3
+stage2_pmd_addr_end,FUNC_4
+stage2_pmd_offset,FUNC_5
+stage2_wp_ptes,FUNC_6
+stage2_wp_pmds,FUNC_7
+kvm,VAR_0
+pud,VAR_1
+addr,VAR_2
+end,VAR_3
+pmd,VAR_4
+next,VAR_5

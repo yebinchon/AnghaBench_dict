@@ -1,0 +1,17 @@
+AES_BLOCK_SIZE,VAR_0
+HCOP_FC_AES,VAR_1
+NX_CPB_SET_KEY_SIZE,FUNC_0
+NX_KS_AES_128,VAR_2
+NX_MODE_AES_XCBC_MAC,VAR_3
+crypto_tfm_ctx,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+nx_build_sg_list,FUNC_4
+nx_ctx_init,FUNC_5
+shash_desc_ctx,FUNC_6
+nx_xcbc_init,FUNC_7
+desc,VAR_4
+sctx,VAR_5
+nx_ctx,VAR_6
+csbcpb,VAR_7
+out_sg,VAR_8

@@ -1,0 +1,15 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+ExecIndexAdvanceArrayKeys,FUNC_1
+ExecReScan,FUNC_2
+InstrStartNode,FUNC_3
+InstrStopNode,FUNC_4
+index_getbitmap,FUNC_5
+index_rescan,FUNC_6
+tbm_create,FUNC_7
+work_mem,VAR_0
+MultiExecBitmapIndexScan,FUNC_8
+node,VAR_1
+tbm,VAR_2
+scandesc,VAR_3
+nTuples,VAR_4
+doscan,VAR_5

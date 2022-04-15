@@ -1,0 +1,13 @@
+FALSE,VAR_0
+SCIC_SDS_PORT_READY_SUBSTATE_CONFIGURING,VAR_1
+SCI_SUCCESS,VAR_2
+TRUE,VAR_3
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_port_general_link_up_handler,FUNC_1
+scic_sds_port_set_phy,FUNC_2
+scic_sds_port_ready_configuring_substate_add_phy_handler,FUNC_3
+port,VAR_4
+phy,VAR_5
+this_port,VAR_6
+this_phy,VAR_7
+status,VAR_8

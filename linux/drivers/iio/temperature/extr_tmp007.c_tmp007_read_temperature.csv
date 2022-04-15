@@ -1,0 +1,11 @@
+EIO,VAR_0
+TMP007_STATUS,VAR_1
+TMP007_STATUS_CONV_READY,VAR_2
+TMP007_STATUS_DATA_VALID,VAR_3
+i2c_smbus_read_word_swapped,FUNC_0
+msleep,FUNC_1
+tmp007_read_temperature,FUNC_2
+data,VAR_4
+reg,VAR_5
+ret,VAR_6
+tries,VAR_7

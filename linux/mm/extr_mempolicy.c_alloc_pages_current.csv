@@ -1,0 +1,17 @@
+MPOL_INTERLEAVE,VAR_0
+__GFP_THISNODE,VAR_1
+__alloc_pages_nodemask,FUNC_0
+alloc_page_interleave,FUNC_1
+current,VAR_2
+default_policy,VAR_3
+get_task_policy,FUNC_2
+in_interrupt,FUNC_3
+interleave_nodes,FUNC_4
+numa_node_id,FUNC_5
+policy_node,FUNC_6
+policy_nodemask,FUNC_7
+alloc_pages_current,FUNC_8
+gfp,VAR_4
+order,VAR_5
+pol,VAR_6
+page,VAR_7

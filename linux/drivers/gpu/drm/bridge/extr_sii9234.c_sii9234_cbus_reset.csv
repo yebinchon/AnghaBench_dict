@@ -1,0 +1,10 @@
+BIT_CBUS_RESET,VAR_0
+MHL_TX_SRST,VAR_1
+T_SRC_CBUS_DEGLITCH,VAR_2
+cbus_writeb,FUNC_0
+mhl_tx_writebm,FUNC_1
+msleep,FUNC_2
+sii9234_clear_error,FUNC_3
+sii9234_cbus_reset,FUNC_4
+ctx,VAR_3
+i,VAR_4

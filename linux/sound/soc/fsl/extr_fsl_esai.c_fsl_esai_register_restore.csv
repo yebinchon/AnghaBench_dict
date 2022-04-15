@@ -1,0 +1,9 @@
+ESAI_xFCR_xFR,VAR_0
+REG_ESAI_RFCR,VAR_1
+REG_ESAI_TFCR,VAR_2
+regcache_mark_dirty,FUNC_0
+regcache_sync,FUNC_1
+regmap_update_bits,FUNC_2
+fsl_esai_register_restore,FUNC_3
+esai_priv,VAR_3
+ret,VAR_4

@@ -1,0 +1,17 @@
+NIL,VAR_0
+T_BitmapAnd,VAR_1
+T_BitmapAndPath,VAR_2
+T_BitmapHeapPath,VAR_3
+T_BitmapHeapScan,VAR_4
+cost_bitmap_and_node,FUNC_0
+cost_bitmap_heap_scan,FUNC_1
+get_baserel_parampathinfo,FUNC_2
+get_bitmap_tree_required_outer,FUNC_3
+get_loop_count,FUNC_4
+bitmap_and_cost_est,FUNC_5
+root,VAR_5
+rel,VAR_6
+paths,VAR_7
+apath,VAR_8
+bpath,VAR_9
+required_outer,VAR_10

@@ -1,0 +1,15 @@
+MWIFIEX_BUF_FLAG_AGGR_PKT,VAR_0
+MWIFIEX_SKB_TXCB,FUNC_0
+atomic_dec,FUNC_1
+atomic_sub,FUNC_2
+mwifiex_host_to_card,FUNC_3
+mwifiex_wmm_lists_empty,FUNC_4
+skb_dequeue,FUNC_5
+skb_peek,FUNC_6
+skb_queue_empty,FUNC_7
+mwifiex_dequeue_tx_queue,FUNC_8
+adapter,VAR_1
+skb,VAR_2
+skb_next,VAR_3
+tx_info,VAR_4
+tx_param,VAR_5

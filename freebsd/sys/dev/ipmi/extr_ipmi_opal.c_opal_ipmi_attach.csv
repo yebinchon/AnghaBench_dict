@@ -1,0 +1,17 @@
+ENXIO,VAR_0
+IPMI_MAX_RX,VAR_1
+M_IPMI,VAR_2
+M_WAITOK,VAR_3
+M_ZERO,VAR_4
+OF_getencprop,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+ipmi_attach,FUNC_3
+ipmi_polled_enqueue_request,VAR_5
+malloc,FUNC_4
+ofw_bus_get_node,FUNC_5
+opal_ipmi_driver_request,VAR_6
+opal_ipmi_startup,VAR_7
+opal_ipmi_attach,FUNC_6
+dev,VAR_8
+sc,VAR_9

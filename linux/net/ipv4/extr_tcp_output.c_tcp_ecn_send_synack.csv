@@ -1,0 +1,12 @@
+INET_ECN_xmit,FUNC_0
+TCPHDR_CWR,VAR_0
+TCPHDR_ECE,VAR_1
+TCP_ECN_OK,VAR_2
+TCP_SKB_CB,FUNC_1
+tcp_bpf_ca_needs_ecn,FUNC_2
+tcp_ca_needs_ecn,FUNC_3
+tcp_sk,FUNC_4
+tcp_ecn_send_synack,FUNC_5
+sk,VAR_3
+skb,VAR_4
+tp,VAR_5

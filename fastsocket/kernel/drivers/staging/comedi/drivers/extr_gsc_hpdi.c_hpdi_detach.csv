@@ -1,0 +1,14 @@
+DMA_BUFFER_SIZE,VAR_0
+NUM_DMA_BUFFERS,VAR_1
+NUM_DMA_DESCRIPTORS,VAR_2
+comedi_pci_disable,FUNC_0
+disable_plx_interrupts,FUNC_1
+free_irq,FUNC_2
+iounmap,FUNC_3
+pci_dev_put,FUNC_4
+pci_free_consistent,FUNC_5
+printk,FUNC_6
+priv,FUNC_7
+hpdi_detach,FUNC_8
+dev,VAR_3
+i,VAR_4

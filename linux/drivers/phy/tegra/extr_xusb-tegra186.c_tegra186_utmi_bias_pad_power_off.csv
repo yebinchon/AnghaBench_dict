@@ -1,0 +1,13 @@
+USB2_PD_TRK,VAR_0
+WARN_ON,FUNC_0
+XUSB_PADCTL_USB2_BIAS_PAD_CTL1,VAR_1
+clk_disable_unprepare,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+padctl_readl,FUNC_4
+padctl_writel,FUNC_5
+to_tegra186_xusb_padctl,FUNC_6
+tegra186_utmi_bias_pad_power_off,FUNC_7
+padctl,VAR_2
+priv,VAR_3
+value,VAR_4

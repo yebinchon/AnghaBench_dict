@@ -1,0 +1,11 @@
+__trace_add_event_dirs,FUNC_0
+create_event_toplevel_files,FUNC_1
+down_write,FUNC_2
+event_mutex,VAR_0
+lockdep_assert_held,FUNC_3
+trace_event_sem,VAR_1
+up_write,FUNC_4
+event_trace_add_tracer,FUNC_5
+parent,VAR_2
+tr,VAR_3
+ret,VAR_4

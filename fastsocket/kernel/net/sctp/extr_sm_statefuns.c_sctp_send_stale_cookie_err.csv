@@ -1,0 +1,16 @@
+SCTP_CMD_SEND_PKT,VAR_0
+SCTP_INC_STATS,FUNC_0
+SCTP_MIB_OUTCTRLCHUNKS,VAR_1
+SCTP_PACKET,FUNC_1
+sctp_add_cmd_sf,FUNC_2
+sctp_chunk_free,FUNC_3
+sctp_ootb_pkt_new,FUNC_4
+sctp_packet_append_chunk,FUNC_5
+sctp_send_stale_cookie_err,FUNC_6
+ep,VAR_2
+asoc,VAR_3
+chunk,VAR_4
+commands,VAR_5
+err_chunk,VAR_6
+packet,VAR_7
+cookie,VAR_8

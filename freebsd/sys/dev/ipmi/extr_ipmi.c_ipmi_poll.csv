@@ -1,0 +1,15 @@
+IPMI_LOCK,FUNC_0
+IPMI_UNLOCK,FUNC_1
+POLLERR,VAR_0
+POLLIN,VAR_1
+POLLRDNORM,VAR_2
+TAILQ_EMPTY,FUNC_2
+devfs_get_cdevpriv,FUNC_3
+selrecord,FUNC_4
+ipmi_poll,FUNC_5
+cdev,VAR_3
+poll_events,VAR_4
+td,VAR_5
+dev,VAR_6
+sc,VAR_7
+revents,VAR_8

@@ -1,0 +1,16 @@
+CLSCTX_INPROC_SERVER,VAR_0
+CLSID_CTaskScheduler,VAR_1
+COR_E_FILENOTFOUND,VAR_2
+CoCreateInstance,FUNC_0
+IID_ITask,VAR_3
+IID_ITaskScheduler,VAR_4
+ITaskScheduler_Activate,FUNC_1
+ITaskScheduler_Release,FUNC_2
+S_OK,VAR_5
+ok,FUNC_3
+skip,FUNC_4
+test_task_scheduler,VAR_6
+test_Activate,FUNC_5
+hres,VAR_7
+task,VAR_8
+not_task_name,VAR_9

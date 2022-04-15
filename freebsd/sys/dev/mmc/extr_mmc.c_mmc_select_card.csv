@@ -1,0 +1,11 @@
+CMD_RETRIES,VAR_0
+MMC_CMD_AC,VAR_1
+MMC_RSP_NONE,VAR_2
+MMC_RSP_R1B,VAR_3
+MMC_SELECT_CARD,VAR_4
+mmc_wait_for_command,FUNC_0
+mmc_select_card,FUNC_1
+sc,VAR_5
+rca,VAR_6
+err,VAR_7
+flags,VAR_8

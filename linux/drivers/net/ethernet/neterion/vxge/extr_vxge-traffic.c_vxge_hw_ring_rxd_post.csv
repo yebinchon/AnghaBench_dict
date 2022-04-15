@@ -1,0 +1,8 @@
+VXGE_HW_RING_RXD_LIST_OWN_ADAPTER,VAR_0
+vxge_hw_channel_dtr_post,FUNC_0
+wmb,FUNC_1
+vxge_hw_ring_rxd_post,FUNC_2
+ring,VAR_1
+rxdh,VAR_2
+rxdp,VAR_3
+channel,VAR_4

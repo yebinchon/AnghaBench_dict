@@ -1,0 +1,10 @@
+cl_git_fail,FUNC_0
+g_repo,VAR_0
+git_oid_fromstr,FUNC_1
+git_reference_create,FUNC_2
+git_reference_lookup,FUNC_3
+test_refs_create__oid_unknown_fails_by_default,FUNC_4
+new_reference,VAR_1
+looked_up_ref,VAR_2
+id,VAR_3
+new_head,VAR_4

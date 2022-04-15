@@ -1,0 +1,16 @@
+HZ,VAR_0
+SHT21_TRIG_RH_MEASUREMENT_HM,VAR_1
+SHT21_TRIG_T_MEASUREMENT_HM,VAR_2
+dev_get_drvdata,FUNC_0
+i2c_smbus_read_word_swapped,FUNC_1
+jiffies,VAR_3
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sht21_rh_ticks_to_per_cent_mille,FUNC_4
+sht21_temp_ticks_to_millicelsius,FUNC_5
+time_after,FUNC_6
+sht21_update_measurements,FUNC_7
+dev,VAR_4
+ret,VAR_5
+sht21,VAR_6
+client,VAR_7

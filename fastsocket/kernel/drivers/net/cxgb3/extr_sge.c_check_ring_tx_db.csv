@@ -1,0 +1,13 @@
+A_SG_KDOORBELL,VAR_0
+F_SELEGRCNTX,VAR_1
+TXQ_LAST_PKT_DB,VAR_2
+TXQ_RUNNING,VAR_3
+V_EGRCNTX,FUNC_0
+clear_bit,FUNC_1
+set_bit,FUNC_2
+t3_write_reg,FUNC_3
+test_and_set_bit,FUNC_4
+wmb,FUNC_5
+check_ring_tx_db,FUNC_6
+adap,VAR_4
+q,VAR_5

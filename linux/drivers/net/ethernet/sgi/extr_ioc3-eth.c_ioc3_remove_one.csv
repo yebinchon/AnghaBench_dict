@@ -1,0 +1,14 @@
+RX_RING_SIZE,VAR_0
+TX_RING_SIZE,VAR_1
+del_timer_sync,FUNC_0
+dma_direct_free_pages,FUNC_1
+free_netdev,FUNC_2
+iounmap,FUNC_3
+netdev_priv,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_release_regions,FUNC_6
+unregister_netdev,FUNC_7
+ioc3_remove_one,FUNC_8
+pdev,VAR_2
+dev,VAR_3
+ip,VAR_4

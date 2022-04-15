@@ -1,0 +1,15 @@
+KSFT_FAIL,VAR_0
+KSFT_PASS,VAR_1
+alloc_anon_50M_check,VAR_2
+alloc_pagecache_50M_check,VAR_3
+cg_create,FUNC_0
+cg_destroy,FUNC_1
+cg_name,FUNC_2
+cg_read_long,FUNC_3
+cg_run,FUNC_4
+free,FUNC_5
+test_memcg_current,FUNC_6
+root,VAR_4
+ret,VAR_5
+current,VAR_6
+memcg,VAR_7

@@ -1,0 +1,16 @@
+OPS_MAGIC,VAR_0
+core_stratum,VAR_1
+fbsd_core_close,VAR_2
+fbsd_core_detach,VAR_3
+fbsd_core_files_info,VAR_4
+fbsd_core_open,VAR_5
+fbsd_core_ops,VAR_6
+fbsd_thread_alive,VAR_7
+fbsd_thread_create_inferior,VAR_8
+fbsd_thread_fetch_registers,VAR_9
+fbsd_thread_find_new_threads,VAR_10
+fbsd_thread_pid_to_str,VAR_11
+fbsd_thread_xfer_memory,VAR_12
+ignore,VAR_13
+tc_none,VAR_14
+init_fbsd_core_ops,FUNC_0

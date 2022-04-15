@@ -1,0 +1,10 @@
+aspeed_vuart_attr_group,VAR_0
+aspeed_vuart_set_enabled,FUNC_0
+clk_disable_unprepare,FUNC_1
+del_timer_sync,FUNC_2
+platform_get_drvdata,FUNC_3
+serial8250_unregister_port,FUNC_4
+sysfs_remove_group,FUNC_5
+aspeed_vuart_remove,FUNC_6
+pdev,VAR_1
+vuart,VAR_2

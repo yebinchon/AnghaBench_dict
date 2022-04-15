@@ -1,0 +1,15 @@
+____nf_conntrack_find,FUNC_0
+atomic_inc_not_zero,FUNC_1
+likely,FUNC_2
+nf_ct_key_equal,FUNC_3
+nf_ct_put,FUNC_4
+nf_ct_tuplehash_to_ctrack,FUNC_5
+rcu_read_lock,FUNC_6
+rcu_read_unlock,FUNC_7
+__nf_conntrack_find_get,FUNC_8
+net,VAR_0
+zone,VAR_1
+tuple,VAR_2
+hash,VAR_3
+h,VAR_4
+ct,VAR_5

@@ -1,0 +1,10 @@
+CVMX_MF_ENTRY_LO_0,FUNC_0
+CVMX_MF_ENTRY_LO_1,FUNC_1
+TLB_VALID,VAR_0
+__tlb_read_index,FUNC_2
+cvmx_core_get_tlb_entries,FUNC_3
+__tlb_entry_is_free,FUNC_4
+tlbi,VAR_1
+ret,VAR_2
+lo0,VAR_3
+lo1,VAR_4

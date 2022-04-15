@@ -1,0 +1,17 @@
+VMBUS_CHAN_FLAG_BATCHREAD,VAR_0
+VMBUS_EVTFLAG_SHIFT,VAR_1
+__compiler_membar,FUNC_0
+__predict_false,FUNC_1
+atomic_swap_long,FUNC_2
+ffsl,FUNC_3
+taskqueue_enqueue,FUNC_4
+vmbus_rxbr_intr_mask,FUNC_5
+vmbus_event_flags_proc,FUNC_6
+sc,VAR_2
+event_flags,VAR_3
+flag_cnt,VAR_4
+f,VAR_5
+chid_base,VAR_6
+flags,VAR_7
+chid_ofs,VAR_8
+chan,VAR_9

@@ -1,0 +1,17 @@
+DMA_PREP_INTERRUPT,VAR_0
+list_empty,FUNC_0
+spin_lock_bh,FUNC_1
+spin_unlock_bh,FUNC_2
+to_txx9dmac_chan,FUNC_3
+txx9_dma_have_SMPCHN,FUNC_4
+txx9dmac_chain_dynamic,FUNC_5
+txx9dmac_chan_INTENT,FUNC_6
+txx9dmac_dequeue,FUNC_7
+txx9dmac_dostart,FUNC_8
+txx9dmac_first_active,FUNC_9
+txx9dmac_last_active,FUNC_10
+txx9dmac_scan_descriptors,FUNC_11
+txx9dmac_issue_pending,FUNC_12
+chan,VAR_1
+dc,VAR_2
+prev,VAR_3

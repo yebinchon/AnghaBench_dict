@@ -1,0 +1,17 @@
+MLX4_PROT_ETH,VAR_0
+bond_option_active_slave_get_rcu,FUNC_0
+dev_hold,FUNC_1
+mlx4_get_protocol_dev,FUNC_2
+mlx4_is_bonded,FUNC_3
+netdev_master_upper_dev_get_rcu,FUNC_4
+netdev_priv,FUNC_5
+rcu_read_lock,FUNC_6
+rcu_read_unlock,FUNC_7
+to_mdev,FUNC_8
+mlx4_ib_get_netdev,FUNC_9
+device,VAR_1
+port_num,VAR_2
+ibdev,VAR_3
+dev,VAR_4
+upper,VAR_5
+active,VAR_6

@@ -1,0 +1,11 @@
+EHCI_HRTIMER_ASYNC_UNLINKS,VAR_0
+QH_STATE_LINKED,VAR_1
+QH_UNLINK_QUEUE_EMPTY,VAR_2
+ehci_enable_event,FUNC_0
+list_empty,FUNC_1
+start_unlink_async,FUNC_2
+unlink_empty_async,FUNC_3
+ehci,VAR_3
+qh,VAR_4
+qh_to_unlink,VAR_5
+count,VAR_6

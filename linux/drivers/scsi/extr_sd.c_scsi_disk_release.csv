@@ -1,0 +1,13 @@
+blk_mq_freeze_queue,FUNC_0
+blk_mq_unfreeze_queue,FUNC_1
+ida_free,FUNC_2
+kfree,FUNC_3
+put_device,FUNC_4
+put_disk,FUNC_5
+sd_index_ida,VAR_0
+to_scsi_disk,FUNC_6
+scsi_disk_release,FUNC_7
+dev,VAR_1
+sdkp,VAR_2
+disk,VAR_3
+q,VAR_4

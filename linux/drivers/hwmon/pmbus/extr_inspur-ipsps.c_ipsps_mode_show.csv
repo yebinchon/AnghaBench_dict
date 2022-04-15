@@ -1,0 +1,17 @@
+MODE_ACTIVE_STRING,VAR_0
+MODE_REDUNDANCY_STRING,VAR_1
+MODE_STANDBY_STRING,VAR_2
+PAGE_SIZE,VAR_3
+i2c_smbus_read_byte_data,FUNC_0
+ipsps_regs,VAR_4
+snprintf,FUNC_1
+to_i2c_client,FUNC_2
+to_sensor_dev_attr,FUNC_3
+ipsps_mode_show,FUNC_4
+dev,VAR_5
+devattr,VAR_6
+buf,VAR_7
+reg,VAR_8
+rc,VAR_9
+client,VAR_10
+attr,VAR_11

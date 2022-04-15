@@ -1,0 +1,16 @@
+ARCMSR_HBDMU_ALL_INT_DISABLE,VAR_0
+ARCMSR_HBDMU_ALL_INT_ENABLE,VAR_1
+ARCMSR_HBDMU_OUTBOUND_DOORBELL_INT,VAR_2
+ARCMSR_HBDMU_OUTBOUND_INT,VAR_3
+ARCMSR_HBDMU_OUTBOUND_POSTQUEUE_INT,VAR_4
+CHIP_REG_READ32,FUNC_0
+CHIP_REG_WRITE32,FUNC_1
+HBD_MessageUnit,VAR_5
+arcmsr_hbd_doorbell_isr,FUNC_2
+arcmsr_hbd_postqueue_isr,FUNC_3
+host_int_status,VAR_6
+pcief0_int_enable,VAR_7
+arcmsr_handle_hbd_isr,FUNC_4
+acb,VAR_8
+host_interrupt_status,VAR_9
+intmask_org,VAR_10

@@ -1,0 +1,14 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+VB2_MEMORY_DMABUF,VAR_2
+VB2_MEMORY_MMAP,VAR_3
+VB2_MEMORY_USERPTR,VAR_4
+__verify_dmabuf_ops,FUNC_0
+__verify_mmap_ops,FUNC_1
+__verify_userptr_ops,FUNC_2
+dprintk,FUNC_3
+vb2_fileio_is_active,FUNC_4
+vb2_verify_memory_type,FUNC_5
+q,VAR_5
+memory,VAR_6
+type,VAR_7

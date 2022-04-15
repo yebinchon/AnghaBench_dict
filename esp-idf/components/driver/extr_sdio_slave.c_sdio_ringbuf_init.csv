@@ -1,0 +1,11 @@
+ESP_ERR_INVALID_STATE,VAR_0
+ESP_ERR_NO_MEM,VAR_1
+ESP_OK,VAR_2
+SDIO_SLAVE_LOGE,FUNC_0
+malloc,FUNC_1
+sdio_ringbuf_deinit,FUNC_2
+xSemaphoreCreateCounting,FUNC_3
+sdio_ringbuf_init,FUNC_4
+buf,VAR_3
+item_size,VAR_4
+item_cnt,VAR_5

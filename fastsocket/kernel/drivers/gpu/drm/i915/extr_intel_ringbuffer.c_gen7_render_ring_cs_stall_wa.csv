@@ -1,0 +1,9 @@
+GFX_OP_PIPE_CONTROL,FUNC_0
+PIPE_CONTROL_CS_STALL,VAR_0
+PIPE_CONTROL_STALL_AT_SCOREBOARD,VAR_1
+intel_ring_advance,FUNC_1
+intel_ring_begin,FUNC_2
+intel_ring_emit,FUNC_3
+gen7_render_ring_cs_stall_wa,FUNC_4
+ring,VAR_2
+ret,VAR_3

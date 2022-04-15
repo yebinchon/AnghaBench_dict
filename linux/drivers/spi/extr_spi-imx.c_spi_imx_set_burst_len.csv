@@ -1,0 +1,9 @@
+MX51_ECSPI_CTRL,VAR_0
+MX51_ECSPI_CTRL_BL_MASK,VAR_1
+MX51_ECSPI_CTRL_BL_OFFSET,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+spi_imx_set_burst_len,FUNC_2
+spi_imx,VAR_3
+n_bits,VAR_4
+ctrl,VAR_5

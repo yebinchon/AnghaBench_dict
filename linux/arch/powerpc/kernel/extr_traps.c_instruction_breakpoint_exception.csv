@@ -1,0 +1,12 @@
+DIE_IABR_MATCH,VAR_0
+NOTIFY_STOP,VAR_1
+SIGTRAP,VAR_2
+TRAP_BRKPT,VAR_3
+_exception,FUNC_0
+debugger_iabr_match,FUNC_1
+exception_enter,FUNC_2
+exception_exit,FUNC_3
+notify_die,FUNC_4
+instruction_breakpoint_exception,FUNC_5
+regs,VAR_4
+prev_state,VAR_5

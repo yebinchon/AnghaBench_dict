@@ -1,0 +1,15 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+TRIDENT_DEVICE_ID_SI7018,VAR_2
+snd_dma_pci_data,FUNC_0
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+snd_trident_spdif_7018_ops,VAR_3
+snd_trident_spdif_ops,VAR_4
+strcpy,FUNC_4
+snd_trident_spdif_pcm,FUNC_5
+trident,VAR_5
+device,VAR_6
+spdif,VAR_7
+err,VAR_8

@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+NFSIOS_VFSWRITEPAGE,VAR_1
+NFSIOS_WRITEPAGES,VAR_2
+WB_SYNC_NONE,VAR_3
+nfs_add_stats,FUNC_0
+nfs_inc_stats,FUNC_1
+nfs_page_async_flush,FUNC_2
+nfs_pageio_cond_complete,FUNC_3
+redirty_page_for_writepage,FUNC_4
+nfs_do_writepage,FUNC_5
+page,VAR_4
+wbc,VAR_5
+pgio,VAR_6
+inode,VAR_7
+ret,VAR_8

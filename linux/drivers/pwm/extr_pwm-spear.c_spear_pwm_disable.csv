@@ -1,0 +1,11 @@
+PWMCR,VAR_0
+PWMCR_PWM_ENABLE,VAR_1
+clk_disable,FUNC_0
+spear_pwm_readl,FUNC_1
+spear_pwm_writel,FUNC_2
+to_spear_pwm_chip,FUNC_3
+spear_pwm_disable,FUNC_4
+chip,VAR_2
+pwm,VAR_3
+pc,VAR_4
+val,VAR_5

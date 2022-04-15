@@ -1,0 +1,17 @@
+AIN_BUF_SIZE,VAR_0
+AllocCommonBuffers,FUNC_0
+ENOMEM,VAR_1
+NGENE_IO_AIN,VAR_2
+NGENE_IO_HDTV,VAR_3
+NGENE_IO_TSIN,VAR_4
+NGENE_IO_TSOUT,VAR_5
+TSIN_BUF_SIZE,VAR_6
+TSOUT_BUF_SIZE,VAR_7
+VIN_BUF_SIZE,VAR_8
+dvb_ringbuffer_init,FUNC_1
+ioremap,FUNC_2
+pci_resource_len,FUNC_3
+pci_resource_start,FUNC_4
+vmalloc,FUNC_5
+ngene_get_buffers,FUNC_6
+dev,VAR_9

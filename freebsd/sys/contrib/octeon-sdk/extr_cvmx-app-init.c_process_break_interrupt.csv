@@ -1,0 +1,9 @@
+CVMX_IRQ_UART0,VAR_0
+CVMX_MIO_UARTX_LSR,FUNC_0
+CVMX_MIO_UARTX_RBR,FUNC_1
+__octeon_uart_trylock,FUNC_2
+cvmx_read_csr,FUNC_3
+process_break_interrupt,FUNC_4
+irq_number,VAR_1
+registers,VAR_2
+user_arg,VAR_3

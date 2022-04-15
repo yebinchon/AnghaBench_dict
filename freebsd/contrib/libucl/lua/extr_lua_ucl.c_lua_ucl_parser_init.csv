@@ -1,0 +1,14 @@
+PARSER_META,VAR_0
+UCL_PARSER_NO_FILEVARS,VAR_1
+luaL_getmetatable,FUNC_0
+lua_gettop,FUNC_1
+lua_newuserdata,FUNC_2
+lua_pushnil,FUNC_3
+lua_setmetatable,FUNC_4
+lua_tonumber,FUNC_5
+ucl_parser_new,FUNC_6
+lua_ucl_parser_init,FUNC_7
+L,VAR_2
+parser,VAR_3
+pparser,VAR_4
+flags,VAR_5

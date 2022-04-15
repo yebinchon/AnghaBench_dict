@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+EPERM,VAR_1
+ESRCH,VAR_2
+PROC_NULL,VAR_3
+P_MEMSTAT_FREEZE_DISABLED,VAR_4
+current_proc,FUNC_0
+proc_find,FUNC_1
+proc_list_lock,FUNC_2
+proc_list_unlock,FUNC_3
+proc_rele,FUNC_4
+proc_rele_locked,FUNC_5
+memorystatus_get_process_is_freezable,FUNC_6
+pid,VAR_5
+is_freezable,VAR_6
+p,VAR_7

@@ -1,0 +1,12 @@
+RT1308_POWER_STATUS,VAR_0
+RT1308_POW_PDB_MN_BIT,VAR_1
+RT1308_POW_PDB_REG_BIT,VAR_2
+msleep,FUNC_0
+snd_soc_component_update_bits,FUNC_1
+snd_soc_dapm_to_component,FUNC_2
+usleep_range,FUNC_3
+rt1308_classd_event,FUNC_4
+w,VAR_3
+kcontrol,VAR_4
+event,VAR_5
+component,VAR_6

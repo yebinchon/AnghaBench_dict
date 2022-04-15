@@ -1,0 +1,16 @@
+FORMER_REG_CLOCK_CONFIG,VAR_0
+TCODE_READ_BLOCK_REQUEST,VAR_1
+le32_to_cpu,FUNC_0
+parse_clock_bits,FUNC_1
+snd_ff_proc_get_clk_label,FUNC_2
+snd_fw_transaction,FUNC_3
+snd_iprintf,FUNC_4
+dump_clock_config,FUNC_5
+ff,VAR_2
+buffer,VAR_3
+reg,VAR_4
+data,VAR_5
+rate,VAR_6
+src,VAR_7
+label,VAR_8
+err,VAR_9

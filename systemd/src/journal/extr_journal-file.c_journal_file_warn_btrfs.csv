@@ -1,0 +1,11 @@
+FS_NOCOW_FL,VAR_0
+assert,FUNC_0
+btrfs_is_filesystem,FUNC_1
+log_debug,FUNC_2
+log_notice,FUNC_3
+log_warning_errno,FUNC_4
+read_attr_fd,FUNC_5
+journal_file_warn_btrfs,FUNC_6
+f,VAR_1
+attrs,VAR_2
+r,VAR_3

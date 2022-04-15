@@ -1,0 +1,9 @@
+NHMEX_PMON_CTL_EN_BIT22,VAR_0
+NHMEX_S_PMON_MM_CFG_EN,VAR_1
+wrmsrl,FUNC_0
+nhmex_sbox_msr_enable_event,FUNC_1
+box,VAR_2
+event,VAR_3
+hwc,VAR_4
+reg1,VAR_5
+reg2,VAR_6

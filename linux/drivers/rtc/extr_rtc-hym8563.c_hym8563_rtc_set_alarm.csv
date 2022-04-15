@@ -1,0 +1,17 @@
+HYM8563_ALM_BIT_DISABLE,VAR_0
+HYM8563_ALM_MIN,VAR_1
+HYM8563_CTL2,VAR_2
+HYM8563_CTL2_AIE,VAR_3
+bin2bcd,FUNC_0
+hym8563_rtc_alarm_irq_enable,FUNC_1
+i2c_smbus_read_byte_data,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+i2c_smbus_write_i2c_block_data,FUNC_4
+to_i2c_client,FUNC_5
+hym8563_rtc_set_alarm,FUNC_6
+dev,VAR_4
+alm,VAR_5
+client,VAR_6
+alm_tm,VAR_7
+buf,VAR_8
+ret,VAR_9

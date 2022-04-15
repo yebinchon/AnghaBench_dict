@@ -1,0 +1,16 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_WOL_FILTER_QCFG,VAR_1
+WOL_FILTER_ALLOC_REQ_WOL_TYPE_MAGICPKT,VAR_2
+_hwrm_send_message,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+cpu_to_le16,FUNC_2
+le16_to_cpu,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+bnxt_hwrm_get_wol_fltrs,FUNC_6
+bp,VAR_3
+handle,VAR_4
+req,VAR_5
+resp,VAR_6
+next_handle,VAR_7
+rc,VAR_8

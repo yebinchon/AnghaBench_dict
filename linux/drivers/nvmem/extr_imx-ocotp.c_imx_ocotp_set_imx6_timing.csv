@@ -1,0 +1,16 @@
+DIV_ROUND_CLOSEST,FUNC_0
+DIV_ROUND_UP,FUNC_1
+IMX_OCOTP_ADDR_TIMING,VAR_0
+TIMING_RELAX_NS,VAR_1
+TIMING_STROBE_PROG_US,VAR_2
+TIMING_STROBE_READ_NS,VAR_3
+clk_get_rate,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+imx_ocotp_set_imx6_timing,FUNC_5
+priv,VAR_4
+clk_rate,VAR_5
+strobe_read,VAR_6
+relax,VAR_7
+strobe_prog,VAR_8
+timing,VAR_9

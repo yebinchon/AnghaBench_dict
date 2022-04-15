@@ -1,0 +1,12 @@
+DPRINT,FUNC_0
+ENTER_FUNC,FUNC_1
+GetGDTPtr,FUNC_2
+IsRangeValid,FUNC_3
+LEAVE_FUNC,FUNC_4
+GetLinearAddress,FUNC_5
+Segment,VAR_0
+Offset,VAR_1
+pGdt,VAR_2
+result,VAR_3
+pSel,VAR_4
+OriginalSegment,VAR_5

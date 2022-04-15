@@ -1,0 +1,16 @@
+I915_WRITE_FW,FUNC_0
+PLANE_CTL,FUNC_1
+PLANE_CUS_CTL,FUNC_2
+PLANE_SURF,FUNC_3
+icl_is_hdr_plane,FUNC_4
+skl_write_plane_wm,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+to_i915,FUNC_8
+skl_disable_plane,FUNC_9
+plane,VAR_0
+crtc_state,VAR_1
+dev_priv,VAR_2
+plane_id,VAR_3
+pipe,VAR_4
+irqflags,VAR_5

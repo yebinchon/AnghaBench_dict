@@ -1,0 +1,15 @@
+AD1938_SPI_ADDR,VAR_0
+AD1938_SPI_BUFLEN,VAR_1
+AD1938_SPI_READ,VAR_2
+EIO,VAR_3
+spi_message_add_tail,FUNC_0
+spi_message_init,FUNC_1
+spi_sync,FUNC_2
+ad1938_read_reg,FUNC_3
+codec,VAR_4
+reg,VAR_5
+w_buf,VAR_6
+r_buf,VAR_7
+ret,VAR_8
+t,VAR_9
+m,VAR_10

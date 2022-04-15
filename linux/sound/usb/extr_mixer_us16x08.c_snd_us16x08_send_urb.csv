@@ -1,0 +1,8 @@
+SND_US16X08_URB_REQUEST,VAR_0
+SND_US16X08_URB_REQUESTTYPE,VAR_1
+snd_usb_ctl_msg,FUNC_0
+usb_sndctrlpipe,FUNC_1
+snd_us16x08_send_urb,FUNC_2
+chip,VAR_2
+buf,VAR_3
+size,VAR_4

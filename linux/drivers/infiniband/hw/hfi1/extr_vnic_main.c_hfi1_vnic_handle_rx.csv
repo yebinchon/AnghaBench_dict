@@ -1,0 +1,15 @@
+dev_kfree_skb_any,FUNC_0
+eth_type_trans,FUNC_1
+hfi1_vnic_decap_skb,FUNC_2
+hfi1_vnic_get_skb,FUNC_3
+hfi1_vnic_update_rx_counters,FUNC_4
+napi_gro_receive,FUNC_5
+skb_checksum_none_assert,FUNC_6
+unlikely,FUNC_7
+hfi1_vnic_handle_rx,FUNC_8
+rxq,VAR_0
+work_done,VAR_1
+work_to_do,VAR_2
+vinfo,VAR_3
+skb,VAR_4
+rc,VAR_5

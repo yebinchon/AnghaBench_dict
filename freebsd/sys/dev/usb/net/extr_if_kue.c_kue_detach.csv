@@ -1,0 +1,11 @@
+KUE_N_TRANSFER,VAR_0
+M_USBDEV,VAR_1
+device_get_softc,FUNC_0
+free,FUNC_1
+mtx_destroy,FUNC_2
+uether_ifdetach,FUNC_3
+usbd_transfer_unsetup,FUNC_4
+kue_detach,FUNC_5
+dev,VAR_2
+sc,VAR_3
+ue,VAR_4

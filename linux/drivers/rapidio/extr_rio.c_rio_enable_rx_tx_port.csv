@@ -1,0 +1,16 @@
+EIO,VAR_0
+RIO_PORT_N_CTL_CSR,FUNC_0
+RIO_PORT_N_CTL_EN_RX,VAR_1
+RIO_PORT_N_CTL_EN_TX,VAR_2
+pr_debug,FUNC_1
+rio_local_read_config_32,FUNC_2
+rio_local_write_config_32,FUNC_3
+rio_mport_get_physefb,FUNC_4
+rio_mport_read_config_32,FUNC_5
+rio_mport_write_config_32,FUNC_6
+rio_enable_rx_tx_port,FUNC_7
+port,VAR_3
+local,VAR_4
+destid,VAR_5
+hopcount,VAR_6
+port_num,VAR_7

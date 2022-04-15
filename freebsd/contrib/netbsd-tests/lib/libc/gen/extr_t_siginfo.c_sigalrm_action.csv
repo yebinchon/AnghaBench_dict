@@ -1,0 +1,10 @@
+ATF_REQUIRE_EQ,FUNC_0
+ITIMER_REAL,VAR_0
+SIGALRM,VAR_1
+SI_TIMER,VAR_2
+atf_tc_pass,FUNC_1
+sig_debug,FUNC_2
+sigalrm_action,FUNC_3
+signo,VAR_3
+info,VAR_4
+ptr,VAR_5

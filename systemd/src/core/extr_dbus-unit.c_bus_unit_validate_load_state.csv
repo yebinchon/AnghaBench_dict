@@ -1,0 +1,9 @@
+BUS_ERROR_BAD_UNIT_SETTING,VAR_0
+BUS_ERROR_NO_SUCH_UNIT,VAR_1
+BUS_ERROR_UNIT_MASKED,VAR_2
+assert,FUNC_0
+sd_bus_error_set_errnof,FUNC_1
+sd_bus_error_setf,FUNC_2
+bus_unit_validate_load_state,FUNC_3
+u,VAR_3
+error,VAR_4

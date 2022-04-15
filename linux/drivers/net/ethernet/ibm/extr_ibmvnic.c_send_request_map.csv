@@ -1,0 +1,11 @@
+IBMVNIC_CRQ_CMD,VAR_0
+REQUEST_MAP,VAR_1
+cpu_to_be32,FUNC_0
+ibmvnic_send_crq,FUNC_1
+memset,FUNC_2
+send_request_map,FUNC_3
+adapter,VAR_2
+addr,VAR_3
+len,VAR_4
+map_id,VAR_5
+crq,VAR_6

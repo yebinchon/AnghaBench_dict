@@ -1,0 +1,15 @@
+ZFCP_MAX_ERPS,VAR_0
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_1
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+dev_err,FUNC_3
+sdev_to_zfcp,FUNC_4
+zfcp_erp_lun_block,FUNC_5
+zfcp_erp_lun_unblock,FUNC_6
+zfcp_erp_set_lun_status,FUNC_7
+zfcp_scsi_dev_lun,FUNC_8
+zfcp_erp_strategy_check_lun,FUNC_9
+sdev,VAR_2
+result,VAR_3
+zfcp_sdev,VAR_4

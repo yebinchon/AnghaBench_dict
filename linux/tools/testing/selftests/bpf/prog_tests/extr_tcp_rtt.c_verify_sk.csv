@@ -1,0 +1,15 @@
+CHECK_FAIL,FUNC_0
+bpf_map_lookup_elem,FUNC_1
+log_err,FUNC_2
+perror,FUNC_3
+verify_sk,FUNC_4
+map_fd,VAR_0
+client_fd,VAR_1
+msg,VAR_2
+invoked,VAR_3
+dsack_dups,VAR_4
+delivered,VAR_5
+delivered_ce,VAR_6
+icsk_retransmits,VAR_7
+err,VAR_8
+val,VAR_9

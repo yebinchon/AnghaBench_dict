@@ -1,0 +1,15 @@
+DTSEC_LOCK_ASSERT,FUNC_0
+E_OK,VAR_0
+FM_MAC_ModifyMacAddr,FUNC_1
+IFF_UP,VAR_1
+IF_LLADDR,FUNC_2
+callout_reset,FUNC_3
+device_printf,FUNC_4
+dtsec_if_deinit_locked,FUNC_5
+dtsec_if_disable_locked,FUNC_6
+dtsec_if_enable_locked,FUNC_7
+dtsec_if_tick,VAR_2
+hz,VAR_3
+dtsec_if_init_locked,FUNC_8
+sc,VAR_4
+error,VAR_5

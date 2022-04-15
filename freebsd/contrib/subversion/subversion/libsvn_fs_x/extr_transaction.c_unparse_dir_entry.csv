@@ -1,0 +1,17 @@
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_0
+SVN__MAX_ENCODED_UINT_LEN,VAR_1
+apr_palloc,FUNC_1
+memcpy,FUNC_2
+strlen,FUNC_3
+svn__encode_int,FUNC_4
+svn__encode_uint,FUNC_5
+svn_stream_write,FUNC_6
+unparse_dir_entry,FUNC_7
+dirent,VAR_2
+stream,VAR_3
+scratch_pool,VAR_4
+to_write,VAR_5
+name_len,VAR_6
+buffer,VAR_7
+p,VAR_8

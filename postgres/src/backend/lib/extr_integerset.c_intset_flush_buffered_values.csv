@@ -1,0 +1,15 @@
+MAX_LEAF_ITEMS,VAR_0
+MAX_VALUES_PER_LEAF_ITEM,VAR_1
+intset_new_leaf_node,FUNC_0
+intset_update_upper,FUNC_1
+memmove,FUNC_2
+simple8b_encode,FUNC_3
+intset_flush_buffered_values,FUNC_4
+intset,VAR_2
+values,VAR_3
+num_values,VAR_4
+num_packed,VAR_5
+leaf,VAR_6
+item,VAR_7
+num_encoded,VAR_8
+old_leaf,VAR_9

@@ -1,0 +1,12 @@
+ORDER_LEN,VAR_0
+br_ecdsa_i15_sign_raw,FUNC_0
+br_ecdsa_raw_to_asn1,FUNC_1
+memcpy,FUNC_2
+br_ecdsa_i15_sign_asn1,FUNC_3
+impl,VAR_1
+hf,VAR_2
+hash_value,VAR_3
+sk,VAR_4
+sig,VAR_5
+rsig,VAR_6
+sig_len,VAR_7

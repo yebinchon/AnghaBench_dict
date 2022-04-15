@@ -1,0 +1,13 @@
+BLK_STS_IOERR,VAR_0
+SKD_REQ_STATE_BUSY,VAR_1
+SKD_REQ_STATE_IDLE,VAR_2
+blk_mq_complete_request,FUNC_0
+blk_mq_rq_to_pdu,FUNC_1
+skd_log_skreq,FUNC_2
+skd_postop_sg_list,FUNC_3
+skd_recover_request,FUNC_4
+req,VAR_3
+data,VAR_4
+reserved,VAR_5
+skdev,VAR_6
+skreq,VAR_7

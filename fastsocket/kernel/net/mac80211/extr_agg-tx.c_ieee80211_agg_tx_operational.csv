@@ -1,0 +1,16 @@
+HT_AGG_STATE_OPERATIONAL,VAR_0
+IEEE80211_AMPDU_TX_OPERATIONAL,VAR_1
+drv_ampdu_action,FUNC_0
+ht_dbg,FUNC_1
+ieee80211_agg_splice_finish,FUNC_2
+ieee80211_agg_splice_packets,FUNC_3
+lockdep_assert_held,FUNC_4
+rcu_dereference_protected_tid_tx,FUNC_5
+set_bit,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+ieee80211_agg_tx_operational,FUNC_9
+local,VAR_2
+sta,VAR_3
+tid,VAR_4
+tid_tx,VAR_5

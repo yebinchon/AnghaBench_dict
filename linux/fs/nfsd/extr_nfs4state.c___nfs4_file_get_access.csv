@@ -1,0 +1,9 @@
+NFS4_SHARE_ACCESS_READ,VAR_0
+NFS4_SHARE_ACCESS_WRITE,VAR_1
+O_RDONLY,VAR_2
+O_WRONLY,VAR_3
+atomic_inc,FUNC_0
+lockdep_assert_held,FUNC_1
+__nfs4_file_get_access,FUNC_2
+fp,VAR_4
+access,VAR_5

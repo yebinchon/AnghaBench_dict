@@ -1,0 +1,12 @@
+VGIC_CONFIG_LEVEL,VAR_0
+VGIC_NR_PRIVATE_IRQS,VAR_1
+VGIC_NR_SGIS,VAR_2
+vgic_get_irq,FUNC_0
+vgic_put_irq,FUNC_1
+vgic_read_irq_line_level_info,FUNC_2
+vcpu,VAR_3
+intid,VAR_4
+i,VAR_5
+val,VAR_6
+nr_irqs,VAR_7
+irq,VAR_8

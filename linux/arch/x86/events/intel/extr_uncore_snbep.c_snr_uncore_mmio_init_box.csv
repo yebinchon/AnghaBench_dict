@@ -1,0 +1,17 @@
+IVBEP_PMON_BOX_CTL_INT,VAR_0
+SNR_IMC_MMIO_BASE_MASK,VAR_1
+SNR_IMC_MMIO_BASE_OFFSET,VAR_2
+SNR_IMC_MMIO_MEM0_MASK,VAR_3
+SNR_IMC_MMIO_MEM0_OFFSET,VAR_4
+SNR_IMC_MMIO_SIZE,VAR_5
+ioremap,FUNC_0
+pci_read_config_dword,FUNC_1
+snr_uncore_get_mc_dev,FUNC_2
+uncore_mmio_box_ctl,FUNC_3
+writel,FUNC_4
+snr_uncore_mmio_init_box,FUNC_5
+box,VAR_6
+pdev,VAR_7
+box_ctl,VAR_8
+addr,VAR_9
+pci_dword,VAR_10

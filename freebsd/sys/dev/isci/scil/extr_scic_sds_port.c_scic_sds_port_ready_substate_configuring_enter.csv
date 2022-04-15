@@ -1,0 +1,11 @@
+SCIC_PORT_NOT_READY_NO_ACTIVE_PHYS,VAR_0
+SCIC_SDS_PORT_READY_SUBSTATE_CONFIGURING,VAR_1
+SCIC_SDS_PORT_READY_SUBSTATE_OPERATIONAL,VAR_2
+SCIC_SDS_PORT_READY_SUBSTATE_WAITING,VAR_3
+sci_base_state_machine_change_state,FUNC_0
+scic_cb_port_not_ready,FUNC_1
+scic_sds_port_get_controller,FUNC_2
+scic_sds_port_set_ready_state_handlers,FUNC_3
+scic_sds_port_ready_substate_configuring_enter,FUNC_4
+object,VAR_4
+this_port,VAR_5

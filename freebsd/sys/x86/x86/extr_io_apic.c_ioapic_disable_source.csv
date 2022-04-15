@@ -1,0 +1,14 @@
+IOAPIC_REDTBL_LO,FUNC_0
+IOART_INTMSET,VAR_0
+PIC_EOI,VAR_1
+_ioapic_eoi_source,FUNC_1
+icu_lock,VAR_2
+ioapic_write,FUNC_2
+mtx_lock_spin,FUNC_3
+mtx_unlock_spin,FUNC_4
+ioapic_disable_source,FUNC_5
+isrc,VAR_3
+eoi,VAR_4
+intpin,VAR_5
+io,VAR_6
+flags,VAR_7

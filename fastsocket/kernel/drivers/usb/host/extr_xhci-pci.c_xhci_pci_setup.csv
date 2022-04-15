@@ -1,0 +1,15 @@
+XHCI_SBRN_OFFSET,VAR_0
+hcd_to_xhci,FUNC_0
+kfree,FUNC_1
+pci_read_config_byte,FUNC_2
+to_pci_dev,FUNC_3
+usb_hcd_is_primary_hcd,FUNC_4
+xhci_dbg,FUNC_5
+xhci_gen_setup,FUNC_6
+xhci_pci_quirks,VAR_1
+xhci_pci_reinit,FUNC_7
+xhci_pci_setup,FUNC_8
+hcd,VAR_2
+xhci,VAR_3
+pdev,VAR_4
+retval,VAR_5

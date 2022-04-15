@@ -1,0 +1,9 @@
+CHIP_R600,VAR_0
+RADEON_GEM_MAX_SURFACES,VAR_1
+RADEON_SURFACE_CNTL,VAR_2
+WREG32,FUNC_0
+radeon_bo_get_surface_reg,FUNC_1
+radeon_clear_surface_reg,FUNC_2
+radeon_surface_init,FUNC_3
+rdev,VAR_3
+i,VAR_4

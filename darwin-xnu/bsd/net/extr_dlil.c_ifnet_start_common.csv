@@ -1,0 +1,11 @@
+IFCQ_LEN,FUNC_0
+IFEF_ENQUEUE_MULTI,VAR_0
+IFEF_TXSTART,VAR_1
+IFSF_FLOW_CONTROLLED,VAR_2
+THREAD_NULL,VAR_3
+lck_mtx_lock_spin,FUNC_1
+lck_mtx_unlock,FUNC_2
+thread_wakeup_thread,FUNC_3
+ifnet_start_common,FUNC_4
+ifp,VAR_4
+resetfc,VAR_5

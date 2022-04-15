@@ -1,0 +1,11 @@
+DEBUG_IRQ,FUNC_0
+NETX_DPMAS_INT_EN,VAR_0
+NETX_DPMAS_INT_STAT,VAR_1
+NETX_IRQ_HIF_CHAINED,FUNC_1
+generic_handle_irq,FUNC_2
+readl,FUNC_3
+netx_hif_demux_handler,FUNC_4
+irq_unused,VAR_2
+desc,VAR_3
+irq,VAR_4
+stat,VAR_5

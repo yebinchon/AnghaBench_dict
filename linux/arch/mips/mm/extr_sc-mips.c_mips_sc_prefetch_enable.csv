@@ -1,0 +1,13 @@
+CM_GCR_L2_PFT_CONTROL_B_CEN,VAR_0
+CM_GCR_L2_PFT_CONTROL_B_PORTID,VAR_1
+CM_GCR_L2_PFT_CONTROL_NPFT,VAR_2
+CM_GCR_L2_PFT_CONTROL_PAGEMASK,VAR_3
+CM_GCR_L2_PFT_CONTROL_PFTEN,VAR_4
+CM_REV_CM2_5,VAR_5
+PAGE_MASK,VAR_6
+mips_cm_revision,FUNC_0
+read_gcr_l2_pft_control,FUNC_1
+set_gcr_l2_pft_control_b,FUNC_2
+write_gcr_l2_pft_control,FUNC_3
+mips_sc_prefetch_enable,FUNC_4
+pftctl,VAR_7

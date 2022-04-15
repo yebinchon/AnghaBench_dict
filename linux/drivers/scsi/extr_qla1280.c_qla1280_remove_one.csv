@@ -1,0 +1,15 @@
+REQUEST_ENTRY_CNT,VAR_0
+RESPONSE_ENTRY_CNT,VAR_1
+dma_free_coherent,FUNC_0
+free_irq,FUNC_1
+iounmap,FUNC_2
+pci_disable_device,FUNC_3
+pci_get_drvdata,FUNC_4
+qla1280_disable_intrs,FUNC_5
+release_region,FUNC_6
+scsi_host_put,FUNC_7
+scsi_remove_host,FUNC_8
+qla1280_remove_one,FUNC_9
+pdev,VAR_2
+host,VAR_3
+ha,VAR_4

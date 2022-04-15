@@ -1,0 +1,15 @@
+REDISMODULE_OK,VAR_0
+RedisModule_Call,FUNC_0
+RedisModule_FreeCallReply,FUNC_1
+RedisModule_ReplyWithCallReply,FUNC_2
+RedisModule_ReplyWithError,FUNC_3
+RedisModule_StringPtrLen,FUNC_4
+RedisModule_WrongArity,FUNC_5
+errno,VAR_1
+strerror,FUNC_6
+test_call_generic,FUNC_7
+ctx,VAR_2
+argv,VAR_3
+argc,VAR_4
+cmdname,VAR_5
+reply,VAR_6

@@ -1,0 +1,16 @@
+HX509_KU_CERT_MISSING,VAR_0
+_hx509_cert_get_version,FUNC_0
+_hx509_get_cert,FUNC_1
+asn1_oid_id_x509_ce_keyUsage,VAR_1
+decode_KeyUsage,FUNC_2
+find_extension,FUNC_3
+memset,FUNC_4
+_hx509_cert_get_keyusage,FUNC_5
+context,VAR_2
+c,VAR_3
+ku,VAR_4
+cert,VAR_5
+e,VAR_6
+size,VAR_7
+ret,VAR_8
+i,VAR_9

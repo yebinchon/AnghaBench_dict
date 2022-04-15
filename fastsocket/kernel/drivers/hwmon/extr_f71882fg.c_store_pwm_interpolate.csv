@@ -1,0 +1,16 @@
+F71882FG_REG_POINT_MAPPING,FUNC_0
+dev_get_drvdata,FUNC_1
+f71882fg_read8,FUNC_2
+f71882fg_write8,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+simple_strtoul,FUNC_6
+to_sensor_dev_attr_2,FUNC_7
+store_pwm_interpolate,FUNC_8
+dev,VAR_0
+devattr,VAR_1
+buf,VAR_2
+count,VAR_3
+data,VAR_4
+nr,VAR_5
+val,VAR_6

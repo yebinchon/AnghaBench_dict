@@ -1,0 +1,15 @@
+PCWD_REVISION_A,VAR_0
+WDT_INTERVAL,VAR_1
+WD_WDRST,VAR_2
+inb_p,FUNC_0
+jiffies,VAR_3
+mod_timer,FUNC_1
+outb_p,FUNC_2
+pcwd_private,VAR_4
+pr_warn,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+time_before,FUNC_6
+pcwd_timer_ping,FUNC_7
+unused,VAR_5
+wdrst_stat,VAR_6

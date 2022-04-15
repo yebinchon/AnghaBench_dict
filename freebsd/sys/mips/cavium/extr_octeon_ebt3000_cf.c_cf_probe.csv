@@ -1,0 +1,9 @@
+BUS_PROBE_NOWILDCARD,VAR_0
+CVMX_BOARD_TYPE_SIM,VAR_1
+ENXIO,VAR_2
+cvmx_sysinfo_get,FUNC_0
+device_get_unit,FUNC_1
+device_set_desc,FUNC_2
+panic,FUNC_3
+cf_probe,FUNC_4
+dev,VAR_3

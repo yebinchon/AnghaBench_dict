@@ -1,0 +1,10 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+alc269_fixup_hp_gpio_mic_mute_hook,VAR_1
+alc269_fixup_hp_gpio_mute_hook,VAR_2
+snd_hda_add_verbs,FUNC_0
+alc269_fixup_hp_gpio_led,FUNC_1
+codec,VAR_3
+fix,VAR_4
+action,VAR_5
+spec,VAR_6
+gpio_init,VAR_7

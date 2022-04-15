@@ -1,0 +1,9 @@
+GIC_VX_CTL_FDC_ROUTABLE,VAR_0
+GIC_VX_CTL_PERFCNT_ROUTABLE,VAR_1
+GIC_VX_CTL_SWINT_ROUTABLE,VAR_2
+GIC_VX_CTL_TIMER_ROUTABLE,VAR_3
+cpu_has_veic,VAR_4
+read_gic_vl_ctl,FUNC_0
+gic_local_irq_is_routable,FUNC_1
+intr,VAR_5
+vpe_ctl,VAR_6

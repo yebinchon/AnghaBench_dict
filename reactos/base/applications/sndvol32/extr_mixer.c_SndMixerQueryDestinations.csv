@@ -1,0 +1,17 @@
+DPRINT,FUNC_0
+FALSE,VAR_0
+GetProcessHeap,FUNC_1
+HEAP_ZERO_MEMORY,VAR_1
+HeapAlloc,FUNC_2
+HeapFree,FUNC_3
+MIXER_GETLINEINFOF_DESTINATION,VAR_2
+MMSYSERR_NOERROR,VAR_3
+SndMixerQueryConnections,FUNC_4
+SndMixerQueryControls,FUNC_5
+TRUE,VAR_4
+mixerGetLineInfo,FUNC_6
+SndMixerQueryDestinations,FUNC_7
+Mixer,VAR_5
+i,VAR_6
+Ret,VAR_7
+Line,VAR_8

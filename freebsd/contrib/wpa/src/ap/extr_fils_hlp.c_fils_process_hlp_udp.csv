@@ -1,0 +1,17 @@
+DHCP_CLIENT_PORT,VAR_0
+DHCP_SERVER_PORT,VAR_1
+MSG_DEBUG,VAR_2
+fils_process_hlp_dhcp,FUNC_0
+ntohs,FUNC_1
+wpa_printf,FUNC_2
+fils_process_hlp_udp,FUNC_3
+hapd,VAR_3
+sta,VAR_4
+dst,VAR_5
+pos,VAR_6
+len,VAR_7
+iph,VAR_8
+udph,VAR_9
+sport,VAR_10
+dport,VAR_11
+ulen,VAR_12

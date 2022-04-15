@@ -1,0 +1,16 @@
+VB2_BUF_STATE_DONE,VAR_0
+VB2_BUF_STATE_ERROR,VAR_1
+imx_media_capture_device_next_buf,FUNC_0
+ipu_cpmem_set_buffer,FUNC_1
+ipu_idmac_buffer_is_ready,FUNC_2
+ipu_idmac_clear_buffer,FUNC_3
+ktime_get_ns,FUNC_4
+vb2_buffer_done,FUNC_5
+vb2_dma_contig_plane_dma_addr,FUNC_6
+csi_vb2_buf_done,FUNC_7
+priv,VAR_2
+vdev,VAR_3
+done,VAR_4
+next,VAR_5
+vb,VAR_6
+phys,VAR_7

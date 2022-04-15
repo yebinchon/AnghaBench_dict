@@ -1,0 +1,17 @@
+FF_FILTER_FORWARD_STATUS_BACK_ALL,FUNC_0
+ff_inlink_acknowledge_status,FUNC_1
+ff_inlink_check_available_samples,FUNC_2
+ff_inlink_consume_frame,FUNC_3
+ff_inlink_consume_samples,FUNC_4
+ff_inlink_request_frame,FUNC_5
+ff_outlink_frame_wanted,FUNC_6
+ff_outlink_set_status,FUNC_7
+try_push_frame,FUNC_8
+activate,FUNC_9
+ctx,VAR_0
+s,VAR_1
+i,VAR_2
+ret,VAR_3
+status,VAR_4
+nb_samples,VAR_5
+pts,VAR_6

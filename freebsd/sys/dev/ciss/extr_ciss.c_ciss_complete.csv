@@ -1,0 +1,14 @@
+CISS_REQ_BUSY,VAR_0
+CISS_REQ_POLL,VAR_1
+CISS_REQ_SLEEP,VAR_2
+ciss_dequeue_complete,FUNC_0
+ciss_enqueue_free,FUNC_1
+ciss_printf,FUNC_2
+ciss_unmap_request,FUNC_3
+debug_called,FUNC_4
+stub1,FUNC_5
+wakeup,FUNC_6
+ciss_complete,FUNC_7
+sc,VAR_3
+qh,VAR_4
+cr,VAR_5

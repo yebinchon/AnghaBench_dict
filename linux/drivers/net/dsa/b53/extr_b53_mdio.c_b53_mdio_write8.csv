@@ -1,0 +1,12 @@
+BRCM_PSEUDO_PHY_ADDR,VAR_0
+REG_MII_ADDR_WRITE,VAR_1
+REG_MII_DATA0,VAR_2
+b53_mdio_op,FUNC_0
+mdiobus_write_nested,FUNC_1
+b53_mdio_write8,FUNC_2
+dev,VAR_3
+page,VAR_4
+reg,VAR_5
+value,VAR_6
+bus,VAR_7
+ret,VAR_8

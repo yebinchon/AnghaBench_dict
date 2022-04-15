@@ -1,0 +1,15 @@
+TMP401_TEMP_MSB_READ,VAR_0
+TMP432_TEMP_MSB_READ,VAR_1
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_read_word_swapped,FUNC_1
+tmp411,VAR_2
+tmp432,VAR_3
+tmp401_update_device_reg16,FUNC_2
+client,VAR_4
+data,VAR_5
+i,VAR_6
+j,VAR_7
+val,VAR_8
+num_regs,VAR_9
+num_sensors,VAR_10
+regaddr,VAR_11

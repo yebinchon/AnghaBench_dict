@@ -1,0 +1,16 @@
+SSH_ERR_INVALID_ARGUMENT,VAR_0
+SSH_ERR_KEY_TYPE_UNKNOWN,VAR_1
+SSH_KEY_MAX_SIGN_DATA_SIZE,VAR_2
+ssh_dss_sign,FUNC_0
+ssh_ecdsa_sign,FUNC_1
+ssh_ed25519_sign,FUNC_2
+ssh_rsa_sign,FUNC_3
+ssh_xmss_sign,FUNC_4
+sshkey_sign,FUNC_5
+key,VAR_3
+sigp,VAR_4
+lenp,VAR_5
+data,VAR_6
+datalen,VAR_7
+alg,VAR_8
+compat,VAR_9

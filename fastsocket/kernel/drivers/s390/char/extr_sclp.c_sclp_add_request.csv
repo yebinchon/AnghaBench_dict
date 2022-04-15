@@ -1,0 +1,17 @@
+EIO,VAR_0
+ENODATA,VAR_1
+SCLP_REQ_QUEUED,VAR_2
+__sclp_can_add_request,FUNC_0
+__sclp_start_request,FUNC_1
+list_add_tail,FUNC_2
+list_del,FUNC_3
+sclp_lock,VAR_3
+sclp_req_queue,VAR_4
+sclp_running_state,VAR_5
+sclp_running_state_idle,VAR_6
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+sclp_add_request,FUNC_6
+req,VAR_7
+flags,VAR_8
+rc,VAR_9

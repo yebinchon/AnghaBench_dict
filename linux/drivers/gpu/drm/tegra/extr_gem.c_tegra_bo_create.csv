@@ -1,0 +1,16 @@
+DRM_TEGRA_GEM_CREATE_BOTTOM_UP,VAR_0
+DRM_TEGRA_GEM_CREATE_TILED,VAR_1
+ERR_PTR,FUNC_0
+IS_ERR,FUNC_1
+TEGRA_BO_BOTTOM_UP,VAR_2
+TEGRA_BO_TILING_MODE_TILED,VAR_3
+drm_gem_object_release,FUNC_2
+kfree,FUNC_3
+tegra_bo_alloc,FUNC_4
+tegra_bo_alloc_object,FUNC_5
+tegra_bo_create,FUNC_6
+drm,VAR_4
+size,VAR_5
+flags,VAR_6
+bo,VAR_7
+err,VAR_8

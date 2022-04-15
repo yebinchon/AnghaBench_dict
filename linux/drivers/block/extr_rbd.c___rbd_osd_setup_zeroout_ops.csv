@@ -1,0 +1,15 @@
+CEPH_OSD_OP_CREATE,VAR_0
+CEPH_OSD_OP_DELETE,VAR_1
+CEPH_OSD_OP_TRUNCATE,VAR_2
+RBD_OBJ_FLAG_COPYUP_ENABLED,VAR_3
+RBD_OBJ_FLAG_DELETION,VAR_4
+osd_req_op_extent_init,FUNC_0
+osd_req_op_init,FUNC_1
+rbd_assert,FUNC_2
+rbd_obj_is_entire,FUNC_3
+truncate_or_zero_opcode,FUNC_4
+__rbd_osd_setup_zeroout_ops,FUNC_5
+osd_req,VAR_5
+which,VAR_6
+obj_req,VAR_7
+opcode,VAR_8

@@ -1,0 +1,17 @@
+PUSHINT,FUNC_0
+VM_RESTART,VAR_0
+stackPopINT,FUNC_1
+stackPopPtr,FUNC_2
+strncpy,FUNC_3
+vmCheckStack,FUNC_4
+vmGetInBuf,FUNC_5
+vmGetInBufEnd,FUNC_6
+vmThrow,FUNC_7
+vmUpdateTib,FUNC_8
+accept,FUNC_9
+pVM,VAR_1
+count,VAR_2
+len,VAR_3
+cp,VAR_4
+pBuf,VAR_5
+pEnd,VAR_6

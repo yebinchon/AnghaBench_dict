@@ -1,0 +1,13 @@
+PGRES_COMMAND_OK,VAR_0
+PQclear,FUNC_0
+PQerrorMessage,FUNC_1
+PQexec,FUNC_2
+PQfinish,FUNC_3
+PQresultStatus,FUNC_4
+exit_nicely,FUNC_5
+pg_log_error,FUNC_6
+pg_log_info,FUNC_7
+executeCommand,FUNC_8
+conn,VAR_1
+query,VAR_2
+res,VAR_3

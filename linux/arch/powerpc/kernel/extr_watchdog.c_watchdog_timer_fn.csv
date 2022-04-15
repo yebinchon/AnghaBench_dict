@@ -1,0 +1,14 @@
+HRTIMER_NORESTART,VAR_0
+HRTIMER_RESTART,VAR_1
+NMI_WATCHDOG_ENABLED,VAR_2
+cpumask_test_cpu,FUNC_0
+hrtimer_forward_now,FUNC_1
+ms_to_ktime,FUNC_2
+smp_processor_id,FUNC_3
+watchdog_cpumask,VAR_3
+watchdog_enabled,VAR_4
+watchdog_timer_interrupt,FUNC_4
+wd_timer_period_ms,VAR_5
+watchdog_timer_fn,FUNC_5
+hrtimer,VAR_6
+cpu,VAR_7

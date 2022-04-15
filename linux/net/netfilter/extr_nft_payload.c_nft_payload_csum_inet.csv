@@ -1,0 +1,11 @@
+nft_csum_replace,FUNC_0
+skb_copy_bits,FUNC_1
+skb_ensure_writable,FUNC_2
+skb_store_bits,FUNC_3
+nft_payload_csum_inet,FUNC_4
+skb,VAR_0
+src,VAR_1
+fsum,VAR_2
+tsum,VAR_3
+csum_offset,VAR_4
+sum,VAR_5

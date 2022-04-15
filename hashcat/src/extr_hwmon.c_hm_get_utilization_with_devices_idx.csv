@@ -1,0 +1,13 @@
+CL_DEVICE_TYPE_GPU,VAR_0
+VENDOR_ID_AMD,VAR_1
+VENDOR_ID_NV,VAR_2
+hm_ADL_Overdrive_CurrentActivity_Get,FUNC_0
+hm_NVML_nvmlDeviceGetUtilizationRates,FUNC_1
+hm_get_utilization_with_devices_idx,FUNC_2
+hashcat_ctx,VAR_3
+backend_device_idx,VAR_4
+hwmon_ctx,VAR_5
+backend_ctx,VAR_6
+utilization,VAR_7
+PMActivity,VAR_8
+utilization,VAR_9

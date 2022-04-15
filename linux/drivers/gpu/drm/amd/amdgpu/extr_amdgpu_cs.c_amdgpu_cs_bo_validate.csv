@@ -1,0 +1,15 @@
+AMDGPU_GEM_CREATE_CPU_ACCESS_REQUIRED,VAR_0
+ENOMEM,VAR_1
+amdgpu_bo_in_cpu_visible_vram,FUNC_0
+amdgpu_bo_placement_from_domain,FUNC_1
+amdgpu_gmc_vram_full_visible,FUNC_2
+amdgpu_ttm_adev,FUNC_3
+ttm_bo_validate,FUNC_4
+unlikely,FUNC_5
+amdgpu_cs_bo_validate,FUNC_6
+p,VAR_2
+bo,VAR_3
+adev,VAR_4
+ctx,VAR_5
+domain,VAR_6
+r,VAR_7

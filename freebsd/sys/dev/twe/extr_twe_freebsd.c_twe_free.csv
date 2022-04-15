@@ -1,0 +1,17 @@
+SYS_RES_IOPORT,VAR_0
+SYS_RES_IRQ,VAR_1
+TWE_IO_CONFIG_REG,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_unload,FUNC_1
+bus_dmamem_free,FUNC_2
+bus_release_resource,FUNC_3
+bus_teardown_intr,FUNC_4
+debug_called,FUNC_5
+destroy_dev,FUNC_6
+mtx_destroy,FUNC_7
+sx_destroy,FUNC_8
+twe_dequeue_free,FUNC_9
+twe_free_request,FUNC_10
+twe_free,FUNC_11
+sc,VAR_3
+tr,VAR_4

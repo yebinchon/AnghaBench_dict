@@ -1,0 +1,15 @@
+BIT,FUNC_0
+FW_HDR_CHKSUM_SIZE,VAR_0
+FW_HDR_DMEM_SIZE,VAR_1
+FW_HDR_EMEM_SIZE,VAR_2
+FW_HDR_IMEM_SIZE,VAR_3
+FW_HDR_MEM_USAGE,VAR_4
+FW_HDR_SIZE,VAR_5
+le32_to_cpu,FUNC_1
+check_firmware_size,FUNC_2
+data,VAR_6
+size,VAR_7
+dmem_size,VAR_8
+imem_size,VAR_9
+emem_size,VAR_10
+real_size,VAR_11

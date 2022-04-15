@@ -1,0 +1,14 @@
+CDNS_UART_CR,VAR_0
+CDNS_UART_CR_TX_DIS,VAR_1
+CDNS_UART_CR_TX_EN,VAR_2
+CDNS_UART_IER,VAR_3
+CDNS_UART_ISR,VAR_4
+CDNS_UART_IXR_TXEMPTY,VAR_5
+cdns_uart_handle_tx,FUNC_0
+readl,FUNC_1
+uart_circ_empty,FUNC_2
+uart_tx_stopped,FUNC_3
+writel,FUNC_4
+cdns_uart_start_tx,FUNC_5
+port,VAR_6
+status,VAR_7

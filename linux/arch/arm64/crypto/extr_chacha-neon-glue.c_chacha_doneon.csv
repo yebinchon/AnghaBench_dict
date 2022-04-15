@@ -1,0 +1,13 @@
+CHACHA_BLOCK_SIZE,VAR_0
+chacha_4block_xor_neon,FUNC_0
+chacha_block_xor_neon,FUNC_1
+memcpy,FUNC_2
+min,FUNC_3
+chacha_doneon,FUNC_4
+state,VAR_1
+dst,VAR_2
+src,VAR_3
+bytes,VAR_4
+nrounds,VAR_5
+l,VAR_6
+buf,VAR_7

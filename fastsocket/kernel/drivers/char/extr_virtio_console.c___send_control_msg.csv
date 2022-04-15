@@ -1,0 +1,17 @@
+cpu_relax,FUNC_0
+sg_init_one,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+use_multiport,FUNC_4
+virtqueue_add_buf,FUNC_5
+virtqueue_get_buf,FUNC_6
+virtqueue_kick,FUNC_7
+__send_control_msg,FUNC_8
+portdev,VAR_0
+port_id,VAR_1
+event,VAR_2
+value,VAR_3
+sg,VAR_4
+cpkt,VAR_5
+vq,VAR_6
+len,VAR_7

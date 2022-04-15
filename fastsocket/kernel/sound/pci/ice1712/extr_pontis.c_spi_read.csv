@@ -1,0 +1,14 @@
+PONTIS_CS_CLK,VAR_0
+PONTIS_CS_CS,VAR_1
+PONTIS_CS_WDATA,VAR_2
+set_gpio_bit,FUNC_0
+snd_ice1712_gpio_set_dir,FUNC_1
+snd_ice1712_gpio_set_mask,FUNC_2
+spi_read_byte,FUNC_3
+spi_send_byte,FUNC_4
+udelay,FUNC_5
+spi_read,FUNC_6
+ice,VAR_3
+dev,VAR_4
+reg,VAR_5
+val,VAR_6

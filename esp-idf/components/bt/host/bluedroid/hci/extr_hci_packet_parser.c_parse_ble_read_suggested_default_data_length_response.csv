@@ -1,0 +1,9 @@
+HCI_BLE_READ_DEFAULT_DATA_LENGTH,VAR_0
+STREAM_TO_UINT16,FUNC_0
+osi_free,FUNC_1
+read_command_complete_header,FUNC_2
+parse_ble_read_suggested_default_data_length_response,FUNC_3
+response,VAR_1
+ble_default_packet_length_ptr,VAR_2
+ble_default_packet_txtime_ptr,VAR_3
+stream,VAR_4

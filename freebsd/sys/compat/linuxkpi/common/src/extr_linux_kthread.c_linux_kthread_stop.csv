@@ -1,0 +1,9 @@
+KTHREAD_SHOULD_STOP_MASK,VAR_0
+atomic_or,FUNC_0
+kthread_unpark,FUNC_1
+put_task_struct,FUNC_2
+wait_for_completion,FUNC_3
+wake_up_process,FUNC_4
+linux_kthread_stop,FUNC_5
+task,VAR_1
+retval,VAR_2

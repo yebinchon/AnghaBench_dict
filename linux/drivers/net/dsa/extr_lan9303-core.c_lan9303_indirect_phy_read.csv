@@ -1,0 +1,15 @@
+LAN9303_PMI_ACCESS,VAR_0
+LAN9303_PMI_ACCESS_MIIRINDA,FUNC_0
+LAN9303_PMI_ACCESS_PHY_ADDR,FUNC_1
+LAN9303_PMI_DATA,VAR_1
+lan9303_indirect_phy_wait_for_completion,FUNC_2
+lan9303_read,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+regmap_write,FUNC_6
+lan9303_indirect_phy_read,FUNC_7
+chip,VAR_2
+addr,VAR_3
+regnum,VAR_4
+ret,VAR_5
+val,VAR_6

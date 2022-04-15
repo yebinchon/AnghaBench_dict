@@ -1,0 +1,17 @@
+AC_ERR_TIMEOUT,VAR_0
+ATA_QCFLAG_EH_SCHEDULED,VAR_1
+BLK_EH_HANDLED,VAR_2
+BLK_EH_NOT_HANDLED,VAR_3
+DPRINTK,FUNC_0
+WARN_ON,FUNC_1
+ata_qc_from_tag,FUNC_2
+ata_shost_to_port,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ata_scsi_timed_out,FUNC_6
+cmd,VAR_4
+host,VAR_5
+ap,VAR_6
+flags,VAR_7
+qc,VAR_8
+ret,VAR_9

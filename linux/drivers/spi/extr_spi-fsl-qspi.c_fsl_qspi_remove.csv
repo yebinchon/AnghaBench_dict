@@ -1,0 +1,10 @@
+QUADSPI_MCR,VAR_0
+QUADSPI_MCR_MDIS_MASK,VAR_1
+QUADSPI_RSER,VAR_2
+fsl_qspi_clk_disable_unprep,FUNC_0
+mutex_destroy,FUNC_1
+platform_get_drvdata,FUNC_2
+qspi_writel,FUNC_3
+fsl_qspi_remove,FUNC_4
+pdev,VAR_3
+q,VAR_4

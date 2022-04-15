@@ -1,0 +1,14 @@
+BRA_SMB_BASE_ADDR,VAR_0
+SECOCEC_ENABLE_REG_1,VAR_1
+SECOCEC_ENABLE_REG_1_IR,VAR_2
+cec_notifier_cec_adap_unregister,FUNC_0
+cec_unregister_adapter,FUNC_1
+dev_dbg,FUNC_2
+platform_get_drvdata,FUNC_3
+release_region,FUNC_4
+smb_rd16,FUNC_5
+smb_wr16,FUNC_6
+secocec_remove,FUNC_7
+pdev,VAR_3
+secocec,VAR_4
+val,VAR_5

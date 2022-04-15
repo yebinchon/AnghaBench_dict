@@ -1,0 +1,12 @@
+EBUSY,VAR_0
+MIN_NR_CONSOLES,VAR_1
+VT_BUSY,FUNC_0
+console_lock,FUNC_1
+console_unlock,FUNC_2
+kfree,FUNC_3
+tty_port_destroy,FUNC_4
+vc_deallocate,FUNC_5
+vt_disallocate,FUNC_6
+vc_num,VAR_2
+vc,VAR_3
+ret,VAR_4

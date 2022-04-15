@@ -1,0 +1,15 @@
+FWHT_FL_CHROMA_FULL_HEIGHT,VAR_0
+FWHT_FL_CHROMA_FULL_WIDTH,VAR_1
+FWHT_FL_COMPONENTS_NUM_MSK,VAR_2
+FWHT_FL_COMPONENTS_NUM_OFFSET,VAR_3
+FWHT_FL_PIXENC_MSK,VAR_4
+ntohl,FUNC_0
+v4l2_fwht_find_nth_fmt,FUNC_1
+info_from_header,FUNC_2
+p_hdr,VAR_5
+flags,VAR_6
+width_div,VAR_7
+height_div,VAR_8
+components_num,VAR_9
+pixenc,VAR_10
+version,VAR_11

@@ -1,0 +1,17 @@
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+SNDRV_PCM_HW_PARAM_FORMAT,VAR_1
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+dev_dbg,FUNC_2
+hw_rule_playback_channels_by_format,VAR_2
+hw_rule_playback_format_by_channels,VAR_3
+num_analog_busses_out,FUNC_3
+num_pipes_out,FUNC_4
+pcm_open,FUNC_5
+snd_pcm_hw_rule_add,FUNC_6
+snd_pcm_substream_chip,FUNC_7
+pcm_analog_out_open,FUNC_8
+substream,VAR_4
+chip,VAR_5
+max_channels,VAR_6
+err,VAR_7

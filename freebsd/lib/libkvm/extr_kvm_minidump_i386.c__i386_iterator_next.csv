@@ -1,0 +1,17 @@
+I386_PAGE_SHIFT,VAR_0
+I386_PG_FRAME,VAR_1
+I386_PG_FRAME_PAE,VAR_2
+I386_PG_V,VAR_3
+_i386_entry_to_prot,FUNC_0
+_i386_pte_get,FUNC_1
+_i386_pte_pae_get,FUNC_2
+_i386_iterator_next,FUNC_3
+it,VAR_4
+pa,VAR_5
+va,VAR_6
+dva,VAR_7
+prot,VAR_8
+vm,VAR_9
+pte32,VAR_10
+pte64,VAR_11
+found,VAR_12

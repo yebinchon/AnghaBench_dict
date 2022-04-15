@@ -1,0 +1,17 @@
+EINPROGRESS,VAR_0
+ETIMEDOUT,VAR_1
+POLLOUT,VAR_2
+REDIS_ERR,VAR_3
+REDIS_ERR_IO,VAR_4
+REDIS_OK,VAR_5
+__redisSetErrorFromErrno,FUNC_0
+errno,VAR_6
+poll,FUNC_1
+redisCheckConnectDone,FUNC_2
+redisCheckSocketError,FUNC_3
+redisNetClose,FUNC_4
+redisContextWaitReady,FUNC_5
+c,VAR_7
+msec,VAR_8
+wfd,VAR_9
+res,VAR_10

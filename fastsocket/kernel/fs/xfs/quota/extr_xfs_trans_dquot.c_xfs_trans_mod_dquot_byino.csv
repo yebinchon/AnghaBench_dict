@@ -1,0 +1,12 @@
+XFS_IS_OQUOTA_ON,FUNC_0
+XFS_IS_QUOTA_ON,FUNC_1
+XFS_IS_QUOTA_RUNNING,FUNC_2
+XFS_IS_UQUOTA_ON,FUNC_3
+xfs_trans_alloc_dqinfo,FUNC_4
+xfs_trans_mod_dquot,FUNC_5
+xfs_trans_mod_dquot_byino,FUNC_6
+tp,VAR_0
+ip,VAR_1
+field,VAR_2
+delta,VAR_3
+mp,VAR_4

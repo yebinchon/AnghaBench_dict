@@ -1,0 +1,14 @@
+D_LOW,VAR_0
+OPENVPN_STATE_ASSIGN_IP,VAR_1
+do_ifconfig_ipv4,FUNC_0
+do_ifconfig_ipv6,FUNC_1
+management,VAR_2
+management_set_state,FUNC_2
+msg,FUNC_3
+net_ctx_free,FUNC_4
+do_ifconfig,FUNC_5
+tt,VAR_3
+ifname,VAR_4
+tun_mtu,VAR_5
+es,VAR_6
+ctx,VAR_7

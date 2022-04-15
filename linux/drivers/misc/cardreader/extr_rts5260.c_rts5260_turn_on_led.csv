@@ -1,0 +1,6 @@
+RTS5260_REG_GPIO_CTL0,VAR_0
+RTS5260_REG_GPIO_MASK,VAR_1
+RTS5260_REG_GPIO_ON,VAR_2
+rtsx_pci_write_register,FUNC_0
+rts5260_turn_on_led,FUNC_1
+pcr,VAR_3

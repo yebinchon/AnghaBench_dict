@@ -1,0 +1,16 @@
+ETIMEDOUT,VAR_0
+VADC_CONV_TIME_MAX_US,VAR_1
+VADC_CONV_TIME_MIN_US,VAR_2
+VADC_STATUS1,VAR_3
+VADC_STATUS1_EOC,VAR_4
+VADC_STATUS1_REQ_STS_EOC_MASK,VAR_5
+usleep_range,FUNC_0
+vadc_read,FUNC_1
+vadc_show_status,FUNC_2
+vadc_poll_wait_eoc,FUNC_3
+vadc,VAR_6
+interval_us,VAR_7
+count,VAR_8
+retry,VAR_9
+sta1,VAR_10
+ret,VAR_11

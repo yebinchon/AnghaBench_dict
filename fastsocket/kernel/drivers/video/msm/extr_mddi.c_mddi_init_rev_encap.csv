@@ -1,0 +1,10 @@
+CMD,VAR_0
+MDDI_CMD_FORCE_NEW_REV_PTR,VAR_1
+MDDI_INT_NO_CMD_PKTS_PEND,VAR_2
+MDDI_REV_BUFFER_SIZE,VAR_3
+REV_PTR,VAR_4
+mddi_wait_interrupt,FUNC_0
+mddi_writel,FUNC_1
+memset,FUNC_2
+mddi_init_rev_encap,FUNC_3
+mddi,VAR_5

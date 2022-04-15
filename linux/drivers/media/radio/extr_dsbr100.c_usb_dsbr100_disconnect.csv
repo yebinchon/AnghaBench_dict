@@ -1,0 +1,16 @@
+DSB100_ONOFF,VAR_0
+USB_DIR_IN,VAR_1
+USB_RECIP_DEVICE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+usb_control_msg,FUNC_2
+usb_get_intfdata,FUNC_3
+usb_rcvctrlpipe,FUNC_4
+usb_set_intfdata,FUNC_5
+v4l2_device_disconnect,FUNC_6
+v4l2_device_put,FUNC_7
+video_unregister_device,FUNC_8
+usb_dsbr100_disconnect,FUNC_9
+intf,VAR_4
+radio,VAR_5

@@ -1,0 +1,15 @@
+AddressDestroy,FUNC_0
+assert,FUNC_1
+free,FUNC_2
+msg_Dbg,FUNC_3
+sap_addrs,VAR_0
+sap_mutex,VAR_1
+vlc_cond_signal,FUNC_4
+vlc_mutex_lock,FUNC_5
+vlc_mutex_unlock,FUNC_6
+sout_AnnounceUnRegister,FUNC_7
+obj,VAR_2
+session,VAR_3
+addr,VAR_4
+paddr,VAR_5
+psession,VAR_6

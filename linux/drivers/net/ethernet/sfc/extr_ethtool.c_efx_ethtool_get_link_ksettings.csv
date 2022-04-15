@@ -1,0 +1,17 @@
+DUPLEX_FULL,VAR_0
+DUPLEX_HALF,VAR_1
+LOOPBACK_INTERNAL,FUNC_0
+SUPPORTED_Asym_Pause,VAR_2
+SUPPORTED_Pause,VAR_3
+ethtool_convert_legacy_u32_to_link_mode,FUNC_1
+ethtool_convert_link_mode_to_legacy_u32,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+netdev_priv,FUNC_5
+stub1,FUNC_6
+efx_ethtool_get_link_ksettings,FUNC_7
+net_dev,VAR_4
+cmd,VAR_5
+efx,VAR_6
+link_state,VAR_7
+supported,VAR_8

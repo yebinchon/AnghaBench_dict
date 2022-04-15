@@ -1,0 +1,14 @@
+EHCI_LIST_END,VAR_0
+ENOMEM,VAR_1
+MURB_NUM,VAR_2
+QHEAD_NUM,VAR_3
+QTD_NUM,VAR_4
+ehci_mem_cleanup,FUNC_0
+kcalloc,FUNC_1
+oxu_dbg,FUNC_2
+oxu_qh_alloc,FUNC_3
+virt_to_phys,FUNC_4
+ehci_mem_init,FUNC_5
+oxu,VAR_5
+flags,VAR_6
+i,VAR_7

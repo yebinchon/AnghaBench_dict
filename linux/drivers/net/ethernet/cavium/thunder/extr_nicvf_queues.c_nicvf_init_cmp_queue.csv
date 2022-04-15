@@ -1,0 +1,11 @@
+CMP_QUEUE_CQE_THRESH,VAR_0
+CMP_QUEUE_DESC_SIZE,VAR_1
+CMP_QUEUE_TIMER_THRESH,VAR_2
+NICVF_CQ_BASE_ALIGN_BYTES,VAR_3
+nicvf_alloc_q_desc_mem,FUNC_0
+pass1_silicon,FUNC_1
+nicvf_init_cmp_queue,FUNC_2
+nic,VAR_4
+cq,VAR_5
+q_len,VAR_6
+err,VAR_7

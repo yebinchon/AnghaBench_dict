@@ -1,0 +1,13 @@
+cpu_die,FUNC_0
+cpu_is_offline,FUNC_1
+default_idle,FUNC_2
+need_resched,FUNC_3
+pm_idle,FUNC_4
+preempt_disable,FUNC_5
+preempt_enable_no_resched,FUNC_6
+schedule,FUNC_7
+smp_processor_id,FUNC_8
+tick_nohz_restart_sched_tick,FUNC_9
+tick_nohz_stop_sched_tick,FUNC_10
+cpu_idle,FUNC_11
+idle,VAR_0

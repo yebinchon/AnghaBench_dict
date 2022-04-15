@@ -1,0 +1,14 @@
+do_run_lru_maintainer_thread,VAR_0
+fprintf,FUNC_0
+lru_maintainer_lock,VAR_1
+lru_maintainer_thread,VAR_2
+lru_maintainer_tid,VAR_3
+pthread_create,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+settings,VAR_4
+stderr,VAR_5
+strerror,FUNC_4
+start_lru_maintainer_thread,FUNC_5
+arg,VAR_6
+ret,VAR_7

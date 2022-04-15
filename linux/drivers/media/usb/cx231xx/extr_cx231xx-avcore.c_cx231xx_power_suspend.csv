@@ -1,0 +1,12 @@
+PWR_CTL_EN,VAR_0
+PWR_MODE_MASK,VAR_1
+VRT_GET_REGISTER,VAR_2
+VRT_SET_REGISTER,VAR_3
+cx231xx_read_ctrl_reg,FUNC_0
+cx231xx_write_ctrl_reg,FUNC_1
+le32_to_cpu,FUNC_2
+cx231xx_power_suspend,FUNC_3
+dev,VAR_4
+value,VAR_5
+tmp,VAR_6
+status,VAR_7

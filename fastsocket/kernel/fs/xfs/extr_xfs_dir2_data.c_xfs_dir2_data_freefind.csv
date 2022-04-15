@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+XFS_DIR2_BLOCK_MAGIC,VAR_0
+XFS_DIR2_DATA_FD_COUNT,VAR_1
+XFS_DIR2_DATA_MAGIC,VAR_2
+be16_to_cpu,FUNC_1
+be32_to_cpu,FUNC_2
+xfs_dir2_data_freefind,FUNC_3
+d,VAR_3
+dup,VAR_4
+dfp,VAR_5
+off,VAR_6

@@ -1,0 +1,16 @@
+dev_get_drvdata,FUNC_0
+i2c_smbus_read_word_data,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sprintf,FUNC_4
+to_iio_dev_attr,FUNC_5
+tsl2561_read_val,FUNC_6
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+ret,VAR_3
+data,VAR_4
+len,VAR_5
+this_attr,VAR_6
+indio_dev,VAR_7
+st,VAR_8

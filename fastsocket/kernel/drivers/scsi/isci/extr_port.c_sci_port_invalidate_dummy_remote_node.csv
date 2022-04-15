@@ -1,0 +1,12 @@
+SCU_CONTEXT_COMMAND_LOGICAL_PORT_SHIFT,VAR_0
+SCU_CONTEXT_COMMAND_POST_RNC_INVALIDATE,VAR_1
+readl,FUNC_0
+sci_controller_post_request,FUNC_1
+udelay,FUNC_2
+sci_port_invalidate_dummy_remote_node,FUNC_3
+iport,VAR_2
+ihost,VAR_3
+phys_index,VAR_4
+rnc,VAR_5
+rni,VAR_6
+command,VAR_7

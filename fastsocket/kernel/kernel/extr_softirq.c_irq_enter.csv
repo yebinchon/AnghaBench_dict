@@ -1,0 +1,10 @@
+__irq_enter,FUNC_0
+_local_bh_enable,FUNC_1
+idle_cpu,FUNC_2
+in_interrupt,FUNC_3
+local_bh_disable,FUNC_4
+rcu_irq_enter,FUNC_5
+smp_processor_id,FUNC_6
+tick_check_idle,FUNC_7
+irq_enter,FUNC_8
+cpu,VAR_0

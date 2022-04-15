@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+RENAME_EXCHANGE,VAR_1
+RENAME_NOREPLACE,VAR_2
+RENAME_WHITEOUT,VAR_3
+do_rename,FUNC_0
+fscrypt_prepare_rename,FUNC_1
+inode_is_locked,FUNC_2
+ubifs_assert,FUNC_3
+ubifs_xrename,FUNC_4
+ubifs_rename,FUNC_5
+old_dir,VAR_4
+old_dentry,VAR_5
+new_dir,VAR_6
+new_dentry,VAR_7
+flags,VAR_8
+err,VAR_9
+c,VAR_10

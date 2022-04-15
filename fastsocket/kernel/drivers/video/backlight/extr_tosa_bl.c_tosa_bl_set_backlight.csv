@@ -1,0 +1,10 @@
+DAC_CH1,VAR_0
+DAC_CH2,VAR_1
+TOSA_GPIO_BL_C20MA,VAR_2
+gpio_set_value,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+tosa_bl_enable,FUNC_2
+tosa_bl_set_backlight,FUNC_3
+data,VAR_3
+brightness,VAR_4
+spi,VAR_5

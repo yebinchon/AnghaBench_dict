@@ -1,0 +1,12 @@
+ALI_SATA,VAR_0
+M_ATAPCI,VAR_1
+PCIR_BAR,FUNC_0
+SYS_RES_IOPORT,VAR_2
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+free,FUNC_3
+ata_ali_chipdeinit,FUNC_4
+dev,VAR_3
+ctlr,VAR_4
+res,VAR_5
+i,VAR_6

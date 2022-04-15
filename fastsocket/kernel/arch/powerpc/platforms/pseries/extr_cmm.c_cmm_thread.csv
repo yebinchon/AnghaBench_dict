@@ -1,0 +1,17 @@
+cmm_alloc_pages,FUNC_0
+cmm_dbg,FUNC_1
+cmm_free_pages,FUNC_2
+cmm_get_mpp,FUNC_3
+delay,VAR_0
+hotplug_delay,VAR_1
+hotplug_mutex,VAR_2
+hotplug_occurred,VAR_3
+kthread_should_stop,FUNC_4
+loaned_pages,VAR_4
+loaned_pages_target,VAR_5
+msleep_interruptible,FUNC_5
+mutex_trylock,FUNC_6
+mutex_unlock,FUNC_7
+cmm_thread,FUNC_8
+dummy,VAR_6
+timeleft,VAR_7

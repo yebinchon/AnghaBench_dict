@@ -1,0 +1,17 @@
+BPF_F_NUMA_NODE,VAR_0
+BPF_MAP_CREATE,VAR_1
+BPF_OBJ_NAME_LEN,VAR_2
+memcpy,FUNC_0
+memset,FUNC_1
+min,FUNC_2
+strlen,FUNC_3
+sys_bpf,FUNC_4
+bpf_create_map_in_map_node,FUNC_5
+map_type,VAR_3
+name,VAR_4
+key_size,VAR_5
+inner_map_fd,VAR_6
+max_entries,VAR_7
+map_flags,VAR_8
+node,VAR_9
+attr,VAR_10

@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+MAC_SYS_CTRL,VAR_1
+MAC_SYS_CTRL_RESET_BBP,VAR_2
+MAC_SYS_CTRL_RESET_CSR,VAR_3
+PBF_SYS_CTRL,VAR_4
+REGISTER_TIMEOUT,VAR_5
+USB_DEVICE_MODE,VAR_6
+USB_DMA_CFG,VAR_7
+USB_MODE_RESET,VAR_8
+rt2800_wait_csr_ready,FUNC_0
+rt2x00_set_field32,FUNC_1
+rt2x00usb_register_read,FUNC_2
+rt2x00usb_register_write,FUNC_3
+rt2x00usb_vendor_request_sw,FUNC_4
+rt2800usb_init_registers,FUNC_5
+rt2x00dev,VAR_9
+reg,VAR_10

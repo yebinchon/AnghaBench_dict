@@ -1,0 +1,17 @@
+DB_RF_HAVESTRUCT,VAR_0
+DMU_SPILL_BLKID,VAR_1
+EIO,VAR_2
+RW_READER,VAR_3
+SET_ERROR,FUNC_0
+dbuf_hold,FUNC_1
+dbuf_read,FUNC_2
+dbuf_rele,FUNC_3
+rw_enter,FUNC_4
+rw_exit,FUNC_5
+dmu_spill_hold_by_dnode,FUNC_6
+dn,VAR_4
+flags,VAR_5
+tag,VAR_6
+dbp,VAR_7
+db,VAR_8
+err,VAR_9

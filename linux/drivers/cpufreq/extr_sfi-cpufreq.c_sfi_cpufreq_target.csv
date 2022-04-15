@@ -1,0 +1,11 @@
+INTEL_PERF_CTL_MASK,VAR_0
+MSR_IA32_PERF_CTL,VAR_1
+rdmsr_on_cpu,FUNC_0
+sfi_cpufreq_array,VAR_2
+wrmsr_on_cpu,FUNC_1
+sfi_cpufreq_target,FUNC_2
+policy,VAR_3
+index,VAR_4
+next_perf_state,VAR_5
+lo,VAR_6
+hi,VAR_7

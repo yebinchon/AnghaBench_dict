@@ -1,0 +1,14 @@
+GetDC,FUNC_0
+GetTextExtentPointW,FUNC_1
+ReleaseDC,FUNC_2
+SelectObject,FUNC_3
+SendMessageW,FUNC_4
+TRACE,FUNC_5
+WM_GETFONT,VAR_0
+COMBOEX_GetComboFontSize,FUNC_6
+infoPtr,VAR_1
+size,VAR_2
+strA,VAR_3
+nfont,VAR_4
+ofont,VAR_5
+mydc,VAR_6

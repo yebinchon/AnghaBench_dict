@@ -1,0 +1,14 @@
+NLA_PUT,FUNC_0
+TCA_OPTIONS,VAR_0
+TCA_TBF_PARMS,VAR_1
+memset,FUNC_1
+nla_nest_cancel,FUNC_2
+nla_nest_end,FUNC_3
+nla_nest_start,FUNC_4
+qdisc_priv,FUNC_5
+tbf_dump,FUNC_6
+sch,VAR_2
+skb,VAR_3
+q,VAR_4
+nest,VAR_5
+opt,VAR_6

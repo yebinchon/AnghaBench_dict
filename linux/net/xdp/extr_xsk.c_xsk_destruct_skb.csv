@@ -1,0 +1,12 @@
+WARN_ON_ONCE,FUNC_0
+skb_shinfo,FUNC_1
+sock_wfree,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+xdp_sk,FUNC_5
+xskq_produce_addr,FUNC_6
+xsk_destruct_skb,FUNC_7
+skb,VAR_0
+addr,VAR_1
+xs,VAR_2
+flags,VAR_3

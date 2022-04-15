@@ -1,0 +1,15 @@
+SNDRV_HWDEP_IFACE_USB_STREAM,VAR_0
+SND_USB_STREAM_ID,VAR_1
+US122L,FUNC_0
+snd_hwdep_new,FUNC_1
+sprintf,FUNC_2
+usb_stream_hwdep_ioctl,VAR_2
+usb_stream_hwdep_mmap,VAR_3
+usb_stream_hwdep_open,VAR_4
+usb_stream_hwdep_poll,VAR_5
+usb_stream_hwdep_release,VAR_6
+usb_stream_hwdep_new,FUNC_3
+card,VAR_7
+err,VAR_8
+hw,VAR_9
+dev,VAR_10

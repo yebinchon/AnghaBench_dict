@@ -1,0 +1,14 @@
+MAX_STREAMS,VAR_0
+SND_DICE_RATE_MODE_COUNT,VAR_1
+TX_NUMBER_AUDIO,VAR_2
+alesis_io14_tx_pcm_chs,VAR_3
+alesis_io26_tx_pcm_chs,VAR_4
+be32_to_cpu,FUNC_0
+memcpy,FUNC_1
+snd_dice_transaction_read_tx,FUNC_2
+snd_dice_detect_alesis_formats,FUNC_3
+dice,VAR_5
+reg,VAR_6
+data,VAR_7
+i,VAR_8
+err,VAR_9

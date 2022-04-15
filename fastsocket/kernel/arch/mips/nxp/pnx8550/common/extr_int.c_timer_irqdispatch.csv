@@ -1,0 +1,9 @@
+PNX8550_INT_TIMER1,VAR_0
+PNX8550_INT_TIMER2,VAR_1
+PNX8550_INT_TIMER3,VAR_2
+do_IRQ,FUNC_0
+printk,FUNC_1
+read_c0_config7,FUNC_2
+unlikely,FUNC_3
+timer_irqdispatch,FUNC_4
+irq,VAR_3

@@ -1,0 +1,17 @@
+ENTER,VAR_0
+GET_DUMP,VAR_1
+IPR_CHECK_FOR_RESET_TIMEOUT,VAR_2
+IPR_PCII_MAILBOX_STABLE,VAR_3
+IPR_RC_JOB_RETURN,VAR_4
+IPR_SIS32_DUMP_TIMEOUT,VAR_5
+IPR_SIS64_DUMP_TIMEOUT,VAR_6
+LEAVE,VAR_7
+READ_DUMP,VAR_8
+dev_err,FUNC_0
+ipr_reset_start_timer,FUNC_1
+ipr_reset_wait_for_dump,VAR_9
+readl,FUNC_2
+schedule_work,FUNC_3
+ipr_dump_mailbox_wait,FUNC_4
+ipr_cmd,VAR_10
+ioa_cfg,VAR_11

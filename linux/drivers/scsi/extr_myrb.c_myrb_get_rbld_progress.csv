@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+MYRB_CMD_GET_REBUILD_PROGRESS,VAR_1
+MYRB_MCMD_TAG,VAR_2
+MYRB_STATUS_RBLD_NOT_CHECKED,VAR_3
+dma_alloc_coherent,FUNC_0
+dma_free_coherent,FUNC_1
+memcpy,FUNC_2
+myrb_exec_cmd,FUNC_3
+myrb_reset_cmd,FUNC_4
+myrb_get_rbld_progress,FUNC_5
+cb,VAR_4
+rbld,VAR_5
+cmd_blk,VAR_6
+mbox,VAR_7
+rbld_buf,VAR_8
+rbld_addr,VAR_9
+status,VAR_10

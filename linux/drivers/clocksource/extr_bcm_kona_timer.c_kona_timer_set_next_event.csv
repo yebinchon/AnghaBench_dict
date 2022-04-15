@@ -1,0 +1,14 @@
+KONA_GPTIMER_STCM0_OFFSET,VAR_0
+KONA_GPTIMER_STCS_COMPARE_ENABLE_SHIFT,VAR_1
+KONA_GPTIMER_STCS_OFFSET,VAR_2
+kona_timer_get_counter,FUNC_0
+readl,FUNC_1
+timers,VAR_3
+writel,FUNC_2
+kona_timer_set_next_event,FUNC_3
+clc,VAR_4
+unused,VAR_5
+lsw,VAR_6
+msw,VAR_7
+reg,VAR_8
+ret,VAR_9

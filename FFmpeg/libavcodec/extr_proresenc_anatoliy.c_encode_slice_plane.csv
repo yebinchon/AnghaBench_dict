@@ -1,0 +1,15 @@
+encode_ac_coeffs,FUNC_0
+encode_dc_coeffs,FUNC_1
+flush_put_bits,FUNC_2
+init_put_bits,FUNC_3
+put_bits_ptr,FUNC_4
+encode_slice_plane,FUNC_5
+blocks,VAR_0
+mb_count,VAR_1
+buf,VAR_2
+buf_size,VAR_3
+qmat,VAR_4
+sub_sample_chroma,VAR_5
+ff_prores_scan,VAR_6
+blocks_per_slice,VAR_7
+pb,VAR_8

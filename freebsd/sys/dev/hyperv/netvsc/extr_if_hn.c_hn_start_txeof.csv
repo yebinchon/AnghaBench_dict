@@ -1,0 +1,12 @@
+IFF_DRV_OACTIVE,VAR_0
+KASSERT,FUNC_0
+atomic_clear_int,FUNC_1
+hn_start_locked,FUNC_2
+mtx_trylock,FUNC_3
+mtx_unlock,FUNC_4
+taskqueue_enqueue,FUNC_5
+hn_start_txeof,FUNC_6
+txr,VAR_1
+sc,VAR_2
+ifp,VAR_3
+sched,VAR_4

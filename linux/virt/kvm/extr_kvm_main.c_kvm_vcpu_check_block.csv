@@ -1,0 +1,13 @@
+EINTR,VAR_0
+KVM_REQ_UNHALT,VAR_1
+current,VAR_2
+kvm_arch_vcpu_runnable,FUNC_0
+kvm_cpu_has_pending_timer,FUNC_1
+kvm_make_request,FUNC_2
+signal_pending,FUNC_3
+srcu_read_lock,FUNC_4
+srcu_read_unlock,FUNC_5
+kvm_vcpu_check_block,FUNC_6
+vcpu,VAR_3
+ret,VAR_4
+idx,VAR_5

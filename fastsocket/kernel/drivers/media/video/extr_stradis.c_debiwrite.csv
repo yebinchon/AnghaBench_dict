@@ -1,0 +1,15 @@
+SAA7146_DEBI_AD,VAR_0
+SAA7146_DEBI_COMMAND,VAR_1
+SAA7146_DEBI_CONFIG,VAR_2
+SAA7146_MC2,VAR_3
+SAA7146_MC2_UPLD_DEBI,VAR_4
+saawrite,FUNC_0
+virt_to_bus,FUNC_1
+wait_for_debi_done,FUNC_2
+debiwrite,FUNC_3
+saa,VAR_5
+config,VAR_6
+addr,VAR_7
+val,VAR_8
+count,VAR_9
+cmd,VAR_10

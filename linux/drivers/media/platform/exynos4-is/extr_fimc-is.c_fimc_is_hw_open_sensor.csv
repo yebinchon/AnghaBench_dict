@@ -1,0 +1,13 @@
+HIC_OPEN_SENSOR,VAR_0
+IS_ST_OPEN_SENSOR,VAR_1
+MCUCTL_REG_ISSR,FUNC_0
+fimc_is_hw_set_intgr0_gd0,FUNC_1
+fimc_is_hw_wait_intmsr0_intmsd0,FUNC_2
+fimc_is_mem_barrier,FUNC_3
+fimc_is_wait_event,FUNC_4
+mcuctl_write,FUNC_5
+udelay,FUNC_6
+fimc_is_hw_open_sensor,FUNC_7
+is,VAR_2
+sensor,VAR_3
+soe,VAR_4

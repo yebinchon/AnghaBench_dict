@@ -1,0 +1,17 @@
+INTEL_GVT_PCI_BAR_APERTURE,VAR_0
+PAGE_SHIFT,VAR_1
+PCI_BASE_ADDRESS_2,VAR_2
+PCI_BASE_ADDRESS_MEM_TYPE_64,VAR_3
+intel_gvt_hypervisor_map_gfn_to_mfn,FUNC_0
+vgpu_aperture_offset,FUNC_1
+vgpu_aperture_pa_base,FUNC_2
+vgpu_aperture_sz,FUNC_3
+vgpu_cfg_space,FUNC_4
+map_aperture,FUNC_5
+vgpu,VAR_4
+map,VAR_5
+aperture_pa,VAR_6
+aperture_sz,VAR_7
+first_gfn,VAR_8
+val,VAR_9
+ret,VAR_10

@@ -1,0 +1,12 @@
+ASPM_FORCE_CTL,VAR_0
+CHECK_PID,FUNC_0
+CHK_SDIO_EXIST,FUNC_1
+LCTLR,VAR_1
+STATUS_FAIL,VAR_2
+STATUS_SUCCESS,VAR_3
+rtsx_write_cfg_dw,FUNC_2
+rtsx_write_config_byte,FUNC_3
+rtsx_write_register,FUNC_4
+rtsx_reset_aspm,FUNC_5
+chip,VAR_4
+ret,VAR_5

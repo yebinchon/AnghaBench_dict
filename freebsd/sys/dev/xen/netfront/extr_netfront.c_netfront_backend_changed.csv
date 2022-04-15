@@ -1,0 +1,14 @@
+CURVNET_RESTORE,FUNC_0
+CURVNET_SET,FUNC_1
+DPRINTK,FUNC_2
+device_get_softc,FUNC_3
+netfront_send_fake_arp,FUNC_4
+netif_disconnect_backend,FUNC_5
+xenbus_get_state,FUNC_6
+xenbus_set_state,FUNC_7
+xn_connect,FUNC_8
+xn_kick_rings,FUNC_9
+netfront_backend_changed,FUNC_10
+dev,VAR_0
+newstate,VAR_1
+sc,VAR_2

@@ -1,0 +1,14 @@
+CMD_GET_FIRMWARE_VERSION,VAR_0
+WDIOF_CARDRESET,VAR_1
+WDIOF_OVERHEAT,VAR_2
+pcipcwd_get_option_switches,FUNC_0
+pcipcwd_private,VAR_3
+pr_info,FUNC_1
+send_command,FUNC_2
+sprintf,FUNC_3
+pcipcwd_show_card_info,FUNC_4
+got_fw_rev,VAR_4
+fw_rev_major,VAR_5
+fw_rev_minor,VAR_6
+fw_ver_str,VAR_7
+option_switches,VAR_8

@@ -1,0 +1,12 @@
+UMOUNT_CONNECTED,VAR_0
+free_mnt_ns,FUNC_0
+is_anon_ns,FUNC_1
+lock_mount_hash,FUNC_2
+namespace_lock,FUNC_3
+namespace_unlock,FUNC_4
+real_mount,FUNC_5
+umount_tree,FUNC_6
+unlock_mount_hash,FUNC_7
+dissolve_on_fput,FUNC_8
+mnt,VAR_1
+ns,VAR_2

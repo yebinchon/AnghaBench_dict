@@ -1,0 +1,9 @@
+PCIE_CFG_REG_PL3,VAR_0
+PCIE_CFG_REG_PL3_L1_ENT_LATENCY_SHIFT,VAR_1
+PCIE_CFG_REG_PL3_L1_ENT_LATENCY_SMASK,VAR_2
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+aspm_hw_set_l1_ent_latency,FUNC_2
+dd,VAR_3
+l1_ent_lat,VAR_4
+reg32,VAR_5

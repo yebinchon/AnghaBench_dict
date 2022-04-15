@@ -1,0 +1,13 @@
+i2c_get_clientdata,FUNC_0
+mcp3021_read16,FUNC_1
+sprintf,FUNC_2
+to_i2c_client,FUNC_3
+volts_from_reg,FUNC_4
+in0_input_show,FUNC_5
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+client,VAR_3
+data,VAR_4
+reg,VAR_5
+in_input,VAR_6

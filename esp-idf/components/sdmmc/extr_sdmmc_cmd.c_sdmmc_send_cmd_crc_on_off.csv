@@ -1,0 +1,10 @@
+SCF_CMD_AC,VAR_0
+SCF_RSP_R1,VAR_1
+SD_CRC_ON_OFF,VAR_2
+assert,FUNC_0
+host_is_spi,FUNC_1
+sdmmc_send_cmd,FUNC_2
+sdmmc_send_cmd_crc_on_off,FUNC_3
+card,VAR_3
+crc_enable,VAR_4
+cmd,VAR_5

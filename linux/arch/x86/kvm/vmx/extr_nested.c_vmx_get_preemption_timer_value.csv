@@ -1,0 +1,9 @@
+VMX_MISC_EMULATED_PREEMPTION_TIMER_RATE,VAR_0
+do_div,FUNC_0
+hrtimer_get_remaining,FUNC_1
+ktime_to_ns,FUNC_2
+to_vmx,FUNC_3
+vmx_get_preemption_timer_value,FUNC_4
+vcpu,VAR_1
+remaining,VAR_2
+value,VAR_3

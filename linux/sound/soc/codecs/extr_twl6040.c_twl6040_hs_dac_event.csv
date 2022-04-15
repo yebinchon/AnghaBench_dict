@@ -1,0 +1,15 @@
+SND_SOC_DAPM_EVENT_ON,FUNC_0
+TWL6040_HSDACENA,VAR_0
+TWL6040_REG_HSLCTL,VAR_1
+TWL6040_REG_HSRCTL,VAR_2
+msleep,FUNC_1
+snd_soc_dapm_to_component,FUNC_2
+twl6040_read,FUNC_3
+twl6040_write,FUNC_4
+twl6040_hs_dac_event,FUNC_5
+w,VAR_3
+kcontrol,VAR_4
+event,VAR_5
+component,VAR_6
+hslctl,VAR_7
+hsrctl,VAR_8

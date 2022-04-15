@@ -1,0 +1,17 @@
+CARD_PWR_CTL,VAR_0
+LDO3318_PWR_MASK,VAR_1
+PWR_GATE_CTRL,VAR_2
+SD_POWER_MASK,VAR_3
+SD_VCC_PARTIAL_POWER_ON,VAR_4
+SD_VCC_POWER_ON,VAR_5
+WRITE_REG_CMD,VAR_6
+msleep,FUNC_0
+rtsx_pci_add_cmd,FUNC_1
+rtsx_pci_enable_ocp,FUNC_2
+rtsx_pci_init_cmd,FUNC_3
+rtsx_pci_send_cmd,FUNC_4
+rtsx_base_card_power_on,FUNC_5
+pcr,VAR_7
+card,VAR_8
+err,VAR_9
+option,VAR_10

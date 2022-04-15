@@ -1,0 +1,13 @@
+ACPI_FAILURE,FUNC_0
+ACPI_SIG_DMAR,VAR_0
+AcpiGetTable,FUNC_1
+AcpiPutTable,FUNC_2
+printf,FUNC_3
+dmar_iterate_tbl,FUNC_4
+iter,VAR_1
+arg,VAR_2
+dmartbl,VAR_3
+dmarh,VAR_4
+ptr,VAR_5
+ptrend,VAR_6
+status,VAR_7

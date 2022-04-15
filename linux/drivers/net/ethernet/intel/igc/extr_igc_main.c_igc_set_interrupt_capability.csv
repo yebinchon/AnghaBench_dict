@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+IGC_FLAG_HAS_MSI,VAR_1
+IGC_FLAG_HAS_MSIX,VAR_2
+IGC_FLAG_QUEUE_PAIRS,VAR_3
+igc_reset_interrupt_capability,FUNC_0
+kcalloc,FUNC_1
+kfree,FUNC_2
+pci_enable_msi,FUNC_3
+pci_enable_msix_range,FUNC_4
+igc_set_interrupt_capability,FUNC_5
+adapter,VAR_4
+msix,VAR_5
+numvecs,VAR_6
+i,VAR_7
+err,VAR_8

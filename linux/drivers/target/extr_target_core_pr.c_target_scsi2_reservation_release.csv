@@ -1,0 +1,14 @@
+GOOD,VAR_0
+TCM_RESERVATION_CONFLICT,VAR_1
+pr_debug,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+target_check_scsi2_reservation_conflict,FUNC_3
+target_complete_cmd,FUNC_4
+target_release_reservation,FUNC_5
+target_scsi2_reservation_release,FUNC_6
+cmd,VAR_2
+dev,VAR_3
+sess,VAR_4
+tpg,VAR_5
+rc,VAR_6

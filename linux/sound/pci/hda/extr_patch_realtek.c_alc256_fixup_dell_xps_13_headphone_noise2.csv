@@ -1,0 +1,11 @@
+AC_WCAP_IN_AMP,VAR_0
+HDA_AMP_VOLMASK,VAR_1
+HDA_FIXUP_ACT_PRE_PROBE,VAR_2
+HDA_INPUT,VAR_3
+get_wcaps,FUNC_0
+snd_hda_codec_amp_stereo,FUNC_1
+snd_hda_override_wcaps,FUNC_2
+alc256_fixup_dell_xps_13_headphone_noise2,FUNC_3
+codec,VAR_4
+fix,VAR_5
+action,VAR_6

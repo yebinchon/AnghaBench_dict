@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+INIT_LIST_HEAD,FUNC_0
+get_device,FUNC_1
+kzalloc,FUNC_2
+mutex_init,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+put_device,FUNC_6
+iommu_register_device_fault_handler,FUNC_7
+dev,VAR_4
+handler,VAR_5
+data,VAR_6
+param,VAR_7
+ret,VAR_8

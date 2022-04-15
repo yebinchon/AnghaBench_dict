@@ -1,0 +1,15 @@
+ECB_ABORT,VAR_0
+MA_OWNED,VAR_1
+NCR_ABORT_TIMEOUT,VAR_2
+NCR_CONNECTED,VAR_3
+NCR_IDLE,VAR_4
+NCR_LOCK_ASSERT,FUNC_0
+SEND_ABORT,VAR_5
+callout_reset,FUNC_1
+mstohz,FUNC_2
+ncr53c9x_callout,VAR_6
+ncr53c9x_sched,FUNC_3
+ncr53c9x_sched_msgout,FUNC_4
+ncr53c9x_abort,FUNC_5
+sc,VAR_7
+ecb,VAR_8

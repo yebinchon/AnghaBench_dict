@@ -1,0 +1,9 @@
+CNTR_CTRL_PRESCALE_MIN,VAR_0
+CNTR_ID_WDOG,VAR_1
+do_div,FUNC_0
+get_counter_value,FUNC_1
+watchdog_get_drvdata,FUNC_2
+armada_37xx_wdt_get_timeleft,FUNC_3
+wdt,VAR_2
+dev,VAR_3
+res,VAR_4

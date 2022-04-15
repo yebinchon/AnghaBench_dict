@@ -1,0 +1,14 @@
+M_RES,FUNC_0
+xfs_buf_relse,FUNC_1
+xfs_bwrite,FUNC_2
+xfs_log_sb,FUNC_3
+xfs_trans_alloc,FUNC_4
+xfs_trans_bhold,FUNC_5
+xfs_trans_commit,FUNC_6
+xfs_trans_getsb,FUNC_7
+xfs_trans_set_sync,FUNC_8
+xfs_sync_sb_buf,FUNC_9
+mp,VAR_0
+tp,VAR_1
+bp,VAR_2
+error,VAR_3

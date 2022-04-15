@@ -1,0 +1,17 @@
+ARM_CPU_PART_CORTEX_A9,VAR_0
+ENOSYS,VAR_1
+FW_DO_IDLE_AFTR,VAR_2
+S5P_CHECK_AFTR,VAR_3
+SYS_AFTR,VAR_4
+call_firmware_op,FUNC_0
+cpu_do_idle,FUNC_1
+do_idle,VAR_5
+exynos_cpu_save_register,FUNC_2
+exynos_cpu_set_boot_vector,FUNC_3
+exynos_set_wakeupmask,FUNC_4
+exynos_sys_powerdown_conf,FUNC_5
+read_cpuid_part,FUNC_6
+soc_is_exynos3250,FUNC_7
+exynos_aftr_finisher,FUNC_8
+flags,VAR_6
+ret,VAR_7

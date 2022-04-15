@@ -1,0 +1,12 @@
+kvmhv_flush_lpid,FUNC_0
+kvmhv_flush_nested,FUNC_1
+kvmppc_free_pgtable_radix,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+kvmhv_emulate_tlbie_lpid,FUNC_7
+vcpu,VAR_0
+gp,VAR_1
+ric,VAR_2
+kvm,VAR_3

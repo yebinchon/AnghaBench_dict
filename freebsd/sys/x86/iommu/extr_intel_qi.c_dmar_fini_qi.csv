@@ -1,0 +1,15 @@
+DMAR_LOCK,FUNC_0
+DMAR_UNLOCK,FUNC_1
+KASSERT,FUNC_2
+dmar_disable_qi,FUNC_3
+dmar_disable_qi_intr,FUNC_4
+dmar_qi_advance_tail,FUNC_5
+dmar_qi_emit_wait_seq,FUNC_6
+dmar_qi_ensure,FUNC_7
+dmar_qi_wait_for_seq,FUNC_8
+kmem_free,FUNC_9
+taskqueue_drain,FUNC_10
+taskqueue_free,FUNC_11
+dmar_fini_qi,FUNC_12
+unit,VAR_0
+gseq,VAR_1

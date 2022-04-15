@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+FIXADDR_START,VAR_0
+FIX_KMAP_BEGIN,VAR_1
+KM_TYPE_NR,VAR_2
+PAGE_MASK,VAR_3
+__fix_to_virt,FUNC_1
+init_mm,VAR_4
+kmap_pte,VAR_5
+local_flush_tlb_one,FUNC_2
+pagefault_enable,FUNC_3
+pte_clear,FUNC_4
+smp_processor_id,FUNC_5
+__kunmap_atomic,FUNC_6
+kvaddr,VAR_6
+type,VAR_7

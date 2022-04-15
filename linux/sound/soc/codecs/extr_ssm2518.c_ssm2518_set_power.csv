@@ -1,0 +1,13 @@
+SSM2518_POWER1_RESET,VAR_0
+SSM2518_POWER1_SPWDN,VAR_1
+SSM2518_REG_POWER1,VAR_2
+gpio_is_valid,FUNC_0
+gpio_set_value,FUNC_1
+regcache_cache_only,FUNC_2
+regcache_mark_dirty,FUNC_3
+regcache_sync,FUNC_4
+regmap_update_bits,FUNC_5
+ssm2518_set_power,FUNC_6
+ssm2518,VAR_3
+enable,VAR_4
+ret,VAR_5

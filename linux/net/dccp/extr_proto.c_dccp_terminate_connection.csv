@@ -1,0 +1,14 @@
+DCCP_ACTIVE_CLOSEREQ,VAR_0
+DCCP_CLOSED,VAR_1
+DCCP_CLOSING,VAR_2
+DCCP_ROLE_SERVER,VAR_3
+ICSK_TIME_DACK,VAR_4
+dccp_finish_passive_close,FUNC_0
+dccp_pr_debug,FUNC_1
+dccp_send_close,FUNC_2
+dccp_set_state,FUNC_3
+dccp_sk,FUNC_4
+inet_csk_clear_xmit_timer,FUNC_5
+dccp_terminate_connection,FUNC_6
+sk,VAR_5
+next_state,VAR_6

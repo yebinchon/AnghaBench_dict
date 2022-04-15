@@ -1,0 +1,15 @@
+CMD_BUFFER_SIZE,VAR_0
+EIO,VAR_1
+LOOP_TIMEOUT,VAR_2
+MMIO_CMD_HEAD_OFFSET,VAR_3
+copy_cmd_to_buffer,FUNC_0
+pr_err,FUNC_1
+readl,FUNC_2
+udelay,FUNC_3
+__iommu_queue_command_sync,FUNC_4
+iommu,VAR_4
+cmd,VAR_5
+sync,VAR_6
+count,VAR_7
+left,VAR_8
+next_tail,VAR_9

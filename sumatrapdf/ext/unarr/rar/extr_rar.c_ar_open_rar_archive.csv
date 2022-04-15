@@ -1,0 +1,14 @@
+FILE_SIGNATURE_SIZE,VAR_0
+SEEK_SET,VAR_1
+ar_open_archive,FUNC_0
+ar_read,FUNC_1
+ar_seek,FUNC_2
+memcmp,FUNC_3
+rar_close,VAR_2
+rar_get_name,VAR_3
+rar_parse_entry,VAR_4
+rar_uncompress,VAR_5
+warn,FUNC_4
+ar_open_rar_archive,FUNC_5
+stream,VAR_6
+signature,VAR_7

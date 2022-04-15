@@ -1,0 +1,13 @@
+GIT_REMOTE_CREATE_OPTIONS_INIT,VAR_0
+GIT_REMOTE_CREATE_SKIP_INSTEADOF,VAR_1
+_repo,VAR_2
+cl_assert_equal_p,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+git_remote_create_with_opts,FUNC_3
+git_remote_free,FUNC_4
+git_remote_pushurl,FUNC_5
+git_remote_url,FUNC_6
+test_remote_create__with_opts_insteadof_disabled,FUNC_7
+remote,VAR_3
+opts,VAR_4

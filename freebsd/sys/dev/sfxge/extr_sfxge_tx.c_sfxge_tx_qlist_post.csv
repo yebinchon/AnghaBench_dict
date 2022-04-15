@@ -1,0 +1,12 @@
+EFX_TXQ_LIMIT,FUNC_0
+KASSERT,FUNC_1
+SFXGE_TXQ_LOCK_ASSERT_OWNED,FUNC_2
+efx_tx_qdesc_post,FUNC_3
+mb,FUNC_4
+sfxge_tx_qreap,FUNC_5
+sfxge_tx_qlist_post,FUNC_6
+txq,VAR_0
+old_added,VAR_1
+block_level,VAR_2
+level,VAR_3
+rc,VAR_4

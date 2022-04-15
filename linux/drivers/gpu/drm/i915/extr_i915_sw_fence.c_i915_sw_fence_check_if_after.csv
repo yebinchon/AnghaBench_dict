@@ -1,0 +1,12 @@
+CONFIG_DRM_I915_SW_FENCE_CHECK_DAG,VAR_0
+IS_ENABLED,FUNC_0
+__i915_sw_fence_check_if_after,FUNC_1
+__i915_sw_fence_clear_checked_bit,FUNC_2
+i915_sw_fence_lock,VAR_1
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+i915_sw_fence_check_if_after,FUNC_5
+fence,VAR_2
+signaler,VAR_3
+flags,VAR_4
+err,VAR_5

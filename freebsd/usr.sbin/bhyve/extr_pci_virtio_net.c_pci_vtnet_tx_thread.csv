@@ -1,0 +1,15 @@
+VTNET_TXQ,VAR_0
+assert,FUNC_0
+pci_vtnet_proctx,FUNC_1
+pthread_cond_wait,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+vq_endchains,FUNC_5
+vq_has_descs,FUNC_6
+vq_kick_disable,FUNC_7
+vq_kick_enable,FUNC_8
+pci_vtnet_tx_thread,FUNC_9
+param,VAR_1
+sc,VAR_2
+vq,VAR_3
+error,VAR_4

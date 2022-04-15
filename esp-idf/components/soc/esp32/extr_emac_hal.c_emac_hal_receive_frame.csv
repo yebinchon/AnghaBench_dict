@@ -1,0 +1,16 @@
+CONFIG_ETH_DMA_BUFFER_SIZE,VAR_0
+CONFIG_ETH_DMA_RX_BUFFER_NUM,VAR_1
+EMAC_DMADESC_OWNER_DMA,VAR_2
+ETH_CRC_LENGTH,VAR_3
+memcpy,FUNC_0
+emac_hal_receive_frame,FUNC_1
+hal,VAR_4
+buf,VAR_5
+size,VAR_6
+frames_remain,VAR_7
+desc_iter,VAR_8
+first_desc,VAR_9
+iter,VAR_10
+seg_count,VAR_11
+len,VAR_12
+frame_count,VAR_13

@@ -1,0 +1,11 @@
+CMD_IAAD,VAR_0
+EHCI_HRTIMER_IAA_WATCHDOG,VAR_1
+EHCI_RH_RUNNING,VAR_2
+ehci_enable_event,FUNC_0
+ehci_readl,FUNC_1
+ehci_writel,FUNC_2
+end_unlink_async,FUNC_3
+unlikely,FUNC_4
+wmb,FUNC_5
+start_iaa_cycle,FUNC_6
+ehci,VAR_3

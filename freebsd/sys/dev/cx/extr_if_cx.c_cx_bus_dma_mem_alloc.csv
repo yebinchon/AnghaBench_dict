@@ -1,0 +1,16 @@
+BUS_DMA_NOWAIT,VAR_0
+BUS_DMA_ZERO,VAR_1
+BUS_SPACE_MAXADDR,VAR_2
+BUS_SPACE_MAXADDR_24BIT,VAR_3
+bus_dma_tag_create,FUNC_0
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_load,FUNC_2
+bus_dmamem_alloc,FUNC_3
+bus_dmamem_free,FUNC_4
+cx_bus_dmamap_addr,VAR_4
+printf,FUNC_5
+cx_bus_dma_mem_alloc,FUNC_6
+bnum,VAR_5
+cnum,VAR_6
+dmem,VAR_7
+error,VAR_8

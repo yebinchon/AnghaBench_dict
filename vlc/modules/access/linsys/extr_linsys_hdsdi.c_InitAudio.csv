@@ -1,0 +1,16 @@
+AOUT_CHANS_STEREO,VAR_0
+AUDIO_ES,VAR_1
+MAX_AUDIOS,VAR_2
+START_DATE,VAR_3
+VLC_CODEC_S16L,VAR_4
+VLC_SUCCESS,VAR_5
+es_format_Init,FUNC_0
+es_out_Add,FUNC_1
+msg_Dbg,FUNC_2
+vlc_tick_from_samples,FUNC_3
+InitAudio,FUNC_4
+p_demux,VAR_6
+p_sys,VAR_7
+fmt,VAR_8
+i,VAR_9
+p_audio,VAR_10

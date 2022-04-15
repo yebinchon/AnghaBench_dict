@@ -1,0 +1,17 @@
+RX_FIFO_WC_MSK,VAR_0
+RX_LAST,VAR_1
+RX_LAST_BYTE_VALID_MSK,VAR_2
+RX_LAST_BYTE_VALID_SHFT,VAR_3
+SE_GENI_RX_FIFO_STATUS,VAR_4
+readl,FUNC_0
+stub1,FUNC_1
+to_dev_port,FUNC_2
+qcom_geni_serial_handle_rx,FUNC_3
+uport,VAR_5
+drop,VAR_6
+status,VAR_7
+word_cnt,VAR_8
+last_word_byte_cnt,VAR_9
+last_word_partial,VAR_10
+total_bytes,VAR_11
+port,VAR_12

@@ -1,0 +1,15 @@
+get_tlb_eaddr,FUNC_0
+get_tlb_end,FUNC_1
+get_tlb_tid,FUNC_2
+get_tlb_v,FUNC_3
+kvmppc_e500_stlbe_invalidate,FUNC_4
+write_host_tlbe,FUNC_5
+kvmppc_e500_tlb1_invalidate,FUNC_6
+vcpu_e500,VAR_0
+eaddr,VAR_1
+eend,VAR_2
+tid,VAR_3
+pid,VAR_4
+i,VAR_5
+stlbe,VAR_6
+tid,VAR_7

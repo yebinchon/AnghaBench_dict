@@ -1,0 +1,12 @@
+E1000_SUCCESS,VAR_0
+MII_SR_AUTONEG_COMPLETE,VAR_1
+PHY_AUTO_NEG_TIME,VAR_2
+PHY_STATUS,VAR_3
+e1000_read_phy_reg,FUNC_0
+e_dbg,FUNC_1
+msleep,FUNC_2
+e1000_wait_autoneg,FUNC_3
+hw,VAR_4
+ret_val,VAR_5
+i,VAR_6
+phy_data,VAR_7

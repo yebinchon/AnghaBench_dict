@@ -1,0 +1,16 @@
+LDNS_ANCOUNT,FUNC_0
+LDNS_RR_TYPE_SOA,VAR_0
+memset,FUNC_1
+pkt_dname_len,FUNC_2
+query_info_parse,FUNC_3
+sldns_buffer_begin,FUNC_4
+sldns_buffer_read_u16,FUNC_5
+sldns_buffer_read_u32,FUNC_6
+sldns_buffer_remaining,FUNC_7
+sldns_buffer_set_position,FUNC_8
+sldns_buffer_skip,FUNC_9
+auth_zone_parse_notify_serial,FUNC_10
+pkt,VAR_1
+serial,VAR_2
+q,VAR_3
+rdlen,VAR_4

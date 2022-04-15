@@ -1,0 +1,8 @@
+CVMX_GPIO_BIT_CFGX,FUNC_0
+CVMX_GPIO_TX_SET,VAR_0
+cvmx_write_csr,FUNC_1
+octeon_bootinfo,VAR_1
+octeon_kill_core,FUNC_2
+octeon_write_lcd,FUNC_3
+smp_call_function,FUNC_4
+octeon_halt,FUNC_5

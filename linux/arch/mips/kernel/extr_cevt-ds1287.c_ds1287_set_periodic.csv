@@ -1,0 +1,10 @@
+CMOS_READ,FUNC_0
+CMOS_WRITE,FUNC_1
+RTC_PIE,VAR_0
+RTC_REG_B,VAR_1
+rtc_lock,VAR_2
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+ds1287_set_periodic,FUNC_4
+evt,VAR_3
+val,VAR_4

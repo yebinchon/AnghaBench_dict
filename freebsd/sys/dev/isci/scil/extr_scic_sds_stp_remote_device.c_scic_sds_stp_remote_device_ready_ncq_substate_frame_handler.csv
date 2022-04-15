@@ -1,0 +1,16 @@
+ATA_STATUS_REG_ERROR_BIT,VAR_0
+SATA_FIS_TYPE_REGD2H,VAR_1
+SATA_FIS_TYPE_SETDEVBITS,VAR_2
+SCIC_REMOTE_DEVICE_NOT_READY_SATA_SDB_ERROR_FIS_RECEIVED,VAR_3
+SCIC_SDS_STP_REMOTE_DEVICE_READY_SUBSTATE_NCQ_ERROR,VAR_4
+SCI_FAILURE,VAR_5
+SCI_SUCCESS,VAR_6
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_controller_release_frame,FUNC_1
+scic_sds_remote_device_get_controller,FUNC_2
+scic_sds_unsolicited_frame_control_get_header,FUNC_3
+scic_sds_stp_remote_device_ready_ncq_substate_frame_handler,FUNC_4
+this_device,VAR_7
+frame_index,VAR_8
+status,VAR_9
+frame_header,VAR_10

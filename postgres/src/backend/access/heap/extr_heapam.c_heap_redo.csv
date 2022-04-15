@@ -1,0 +1,14 @@
+PANIC,VAR_0
+XLOG_HEAP_OPMASK,VAR_1
+XLR_INFO_MASK,VAR_2
+XLogRecGetInfo,FUNC_0
+elog,FUNC_1
+heap_xlog_confirm,FUNC_2
+heap_xlog_delete,FUNC_3
+heap_xlog_inplace,FUNC_4
+heap_xlog_insert,FUNC_5
+heap_xlog_lock,FUNC_6
+heap_xlog_update,FUNC_7
+heap_redo,FUNC_8
+record,VAR_3
+info,VAR_4

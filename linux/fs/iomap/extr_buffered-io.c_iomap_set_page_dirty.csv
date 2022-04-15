@@ -1,0 +1,12 @@
+I_DIRTY_PAGES,VAR_0
+TestSetPageDirty,FUNC_0
+__mark_inode_dirty,FUNC_1
+__set_page_dirty,FUNC_2
+lock_page_memcg,FUNC_3
+page_mapping,FUNC_4
+unlikely,FUNC_5
+unlock_page_memcg,FUNC_6
+iomap_set_page_dirty,FUNC_7
+page,VAR_1
+mapping,VAR_2
+newly_dirty,VAR_3

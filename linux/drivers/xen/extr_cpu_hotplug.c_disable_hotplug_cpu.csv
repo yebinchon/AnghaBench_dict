@@ -1,0 +1,11 @@
+cpu_is_hotpluggable,FUNC_0
+cpu_online,FUNC_1
+cpu_present,FUNC_2
+device_offline,FUNC_3
+get_cpu_device,FUNC_4
+lock_device_hotplug,FUNC_5
+set_cpu_present,FUNC_6
+unlock_device_hotplug,FUNC_7
+xen_arch_unregister_cpu,FUNC_8
+disable_hotplug_cpu,FUNC_9
+cpu,VAR_0

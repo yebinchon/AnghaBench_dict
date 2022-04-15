@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+FASTTRAP_OBJC_NAME,VAR_0
+FASTTRAP_ONESHOT_NAME,VAR_1
+FASTTRAP_PID_NAME,VAR_2
+LCK_MTX_ASSERT,FUNC_1
+LCK_MTX_ASSERT_NOTOWNED,VAR_3
+LCK_MTX_ASSERT_OWNED,VAR_4
+current_proc,FUNC_2
+dtrace_ptss_exec_exit,FUNC_3
+fasttrap_provider_retire,FUNC_4
+lck_mtx_lock,FUNC_5
+lck_mtx_unlock,FUNC_6
+proc_lock,FUNC_7
+proc_unlock,FUNC_8
+fasttrap_exec_exit,FUNC_9
+p,VAR_5

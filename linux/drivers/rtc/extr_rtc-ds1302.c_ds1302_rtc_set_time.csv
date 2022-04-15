@@ -1,0 +1,16 @@
+RTC_ADDR_CTRL,VAR_0
+RTC_CLCK_BURST,VAR_1
+RTC_CLCK_LEN,VAR_2
+RTC_CMD_WRITE,VAR_3
+RTC_CMD_WRITE_DISABLE,VAR_4
+RTC_CMD_WRITE_ENABLE,VAR_5
+bin2bcd,FUNC_0
+dev_get_drvdata,FUNC_1
+spi_write_then_read,FUNC_2
+ds1302_rtc_set_time,FUNC_3
+dev,VAR_6
+time,VAR_7
+spi,VAR_8
+buf,VAR_9
+bp,VAR_10
+status,VAR_11

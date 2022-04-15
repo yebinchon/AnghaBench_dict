@@ -1,0 +1,14 @@
+IBV_SEND_INLINE,VAR_0
+IBV_WR_RDMA_WRITE_WITH_IMM,VAR_1
+IBV_WR_SEND,VAR_2
+RS_OPT_MSG_SEND,VAR_3
+htobe32,FUNC_0
+ibv_post_send,FUNC_1
+rdma_seterrno,FUNC_2
+rs_send_wr_id,FUNC_3
+rs_post_msg,FUNC_4
+rs,VAR_4
+msg,VAR_5
+wr,VAR_6
+bad,VAR_7
+sge,VAR_8

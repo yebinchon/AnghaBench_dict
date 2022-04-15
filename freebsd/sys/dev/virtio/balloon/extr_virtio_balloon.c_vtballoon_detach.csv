@@ -1,0 +1,16 @@
+M_DEVBUF,VAR_0
+VTBALLOON_FLAG_DETACH,VAR_1
+VTBALLOON_LOCK,FUNC_0
+VTBALLOON_LOCK_DESTROY,FUNC_1
+VTBALLOON_MTX,FUNC_2
+VTBALLOON_UNLOCK,FUNC_3
+device_get_softc,FUNC_4
+device_is_attached,FUNC_5
+free,FUNC_6
+msleep,FUNC_7
+vtballoon_pop,FUNC_8
+vtballoon_stop,FUNC_9
+wakeup_one,FUNC_10
+vtballoon_detach,FUNC_11
+dev,VAR_2
+sc,VAR_3

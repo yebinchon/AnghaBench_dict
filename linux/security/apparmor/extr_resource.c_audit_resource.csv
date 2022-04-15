@@ -1,0 +1,15 @@
+AUDIT_APPARMOR_AUTO,VAR_0
+DEFINE_AUDIT_DATA,FUNC_0
+LSM_AUDIT_DATA_NONE,VAR_1
+OP_SETRLIMIT,VAR_2
+aa_audit,FUNC_1
+aad,FUNC_2
+audit_cb,VAR_3
+sa,VAR_4
+audit_resource,FUNC_3
+profile,VAR_5
+resource,VAR_6
+value,VAR_7
+peer,VAR_8
+info,VAR_9
+error,VAR_10

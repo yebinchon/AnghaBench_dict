@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+I_CLEAR,VAR_0
+I_FREEING,VAR_1
+S_ISBLK,FUNC_1
+S_ISCHR,FUNC_2
+bd_forget,FUNC_3
+cd_forget,FUNC_4
+inode_sync_wait,FUNC_5
+invalidate_inode_buffers,FUNC_6
+might_sleep,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+stub1,FUNC_10
+vfs_dq_drop,FUNC_11
+clear_inode,FUNC_12
+inode,VAR_2

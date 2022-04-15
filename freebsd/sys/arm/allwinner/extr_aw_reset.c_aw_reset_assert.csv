@@ -1,0 +1,13 @@
+RESET_OFFSET,FUNC_0
+RESET_READ,FUNC_1
+RESET_SHIFT,FUNC_2
+RESET_WRITE,FUNC_3
+device_get_softc,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+aw_reset_assert,FUNC_7
+dev,VAR_0
+id,VAR_1
+reset,VAR_2
+sc,VAR_3
+reg_value,VAR_4

@@ -1,0 +1,14 @@
+EXTCON_USB_HOST,VAR_0
+OTG_STATE_B_IDLE,VAR_1
+TAHVO_REG_USBR,VAR_2
+USBR_NSUSPEND,VAR_3
+USBR_REGOUT,VAR_4
+USBR_SLAVE_CONTROL,VAR_5
+USBR_SLAVE_SW,VAR_6
+check_vbus_state,FUNC_0
+dev_get_drvdata,FUNC_1
+extcon_set_state_sync,FUNC_2
+retu_write,FUNC_3
+tahvo_usb_become_peripheral,FUNC_4
+tu,VAR_7
+rdev,VAR_8

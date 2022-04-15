@@ -1,0 +1,14 @@
+QLCNIC_H2C_OPCODE_LRO_REQUEST,VAR_0
+QLCNIC_HOST_REQUEST,VAR_1
+QLCNIC_LRO_REQUEST_CLEANUP,VAR_2
+__QLCNIC_FW_ATTACHED,VAR_3
+cpu_to_le64,FUNC_0
+dev_err,FUNC_1
+memset,FUNC_2
+qlcnic_send_cmd_descs,FUNC_3
+test_bit,FUNC_4
+qlcnic_send_lro_cleanup,FUNC_5
+adapter,VAR_4
+req,VAR_5
+word,VAR_6
+rv,VAR_7

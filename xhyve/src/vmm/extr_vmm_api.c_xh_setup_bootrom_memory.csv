@@ -1,0 +1,10 @@
+XHYVE_PAGE_SIZE,VAR_0
+XHYVE_PROT_EXECUTE,VAR_1
+XHYVE_PROT_READ,VAR_2
+assert,FUNC_0
+setup_memory_segment,FUNC_1
+xh_setup_bootrom_memory,FUNC_2
+len,VAR_3
+addr,VAR_4
+error,VAR_5
+gpa,VAR_6

@@ -1,0 +1,16 @@
+BUS_DMA_LOCK,VAR_0
+BUS_DMA_UNLOCK,VAR_1
+BUS_DMA_WAITOK,VAR_2
+STAILQ_FIRST,FUNC_0
+STAILQ_REMOVE_HEAD,FUNC_1
+bounce_lock,VAR_3
+bounce_map_callbacklist,VAR_4
+bus_dmamap_load_mem,FUNC_2
+links,VAR_5
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+stub1,FUNC_5
+stub2,FUNC_6
+busdma_swi,FUNC_7
+dmat,VAR_6
+map,VAR_7

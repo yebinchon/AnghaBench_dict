@@ -1,0 +1,12 @@
+STI_COMPA_H,VAR_0
+STI_COMPA_L,VAR_1
+STI_INTENCLR,VAR_2
+STI_INTENSET,VAR_3
+STI_INTFFCLR,VAR_4
+em_sti_write,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+em_sti_set_next,FUNC_3
+p,VAR_5
+next,VAR_6
+flags,VAR_7

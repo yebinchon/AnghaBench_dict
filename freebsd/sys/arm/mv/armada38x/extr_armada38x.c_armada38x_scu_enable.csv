@@ -1,0 +1,14 @@
+MV_SCU_BASE,VAR_0
+MV_SCU_ENABLE,VAR_1
+MV_SCU_REGS_LEN,VAR_2
+MV_SCU_REG_CTRL,VAR_3
+MV_SCU_SL_L2_ENABLE,VAR_4
+bus_space_map,FUNC_0
+bus_space_read_4,FUNC_1
+bus_space_unmap,FUNC_2
+bus_space_write_4,FUNC_3
+fdtbus_bs_tag,VAR_5
+armada38x_scu_enable,FUNC_4
+vaddr_scu,VAR_6
+rv,VAR_7
+val,VAR_8

@@ -1,0 +1,10 @@
+ata_host_detach,FUNC_0
+device_remove_file,FUNC_1
+iounmap,FUNC_2
+irq_dispose_mapping,FUNC_3
+kfree,FUNC_4
+platform_get_drvdata,FUNC_5
+sata_fsl_remove,FUNC_6
+ofdev,VAR_0
+host,VAR_1
+host_priv,VAR_2

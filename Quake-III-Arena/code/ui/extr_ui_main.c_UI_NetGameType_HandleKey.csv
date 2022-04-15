@@ -1,0 +1,17 @@
+FEEDER_ALLMAPS,VAR_0
+K_ENTER,VAR_1
+K_KP_ENTER,VAR_2
+K_MOUSE1,VAR_3
+K_MOUSE2,VAR_4
+Menu_SetFeederSelection,FUNC_0
+UI_MapCountByGameType,FUNC_1
+qfalse,VAR_5
+qtrue,VAR_6
+trap_Cvar_Set,FUNC_2
+uiInfo,VAR_7
+ui_netGameType,VAR_8
+va,FUNC_3
+UI_NetGameType_HandleKey,FUNC_4
+flags,VAR_9
+special,VAR_10
+key,VAR_11

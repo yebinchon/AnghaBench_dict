@@ -1,0 +1,11 @@
+GIT_REPOSITORY_FOREACH_HEAD_SKIP_REPO,VAR_0
+assert,FUNC_0
+branch_equals,VAR_1
+git_reference_is_branch,FUNC_1
+git_reference_owner,FUNC_2
+git_repository_foreach_head,FUNC_3
+git_repository_is_bare,FUNC_4
+git_branch_is_checked_out,FUNC_5
+branch,VAR_2
+repo,VAR_3
+flags,VAR_4

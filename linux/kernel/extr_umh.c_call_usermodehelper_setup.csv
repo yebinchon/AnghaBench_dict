@@ -1,0 +1,16 @@
+CONFIG_STATIC_USERMODEHELPER_PATH,VAR_0
+INIT_WORK,FUNC_0
+call_usermodehelper_exec_work,VAR_1
+kzalloc,FUNC_1
+call_usermodehelper_setup,FUNC_2
+path,VAR_2
+argv,VAR_3
+envp,VAR_4
+gfp_mask,VAR_5
+init,VAR_6
+info,VAR_7
+new,VAR_8
+cleanup,VAR_9
+info,VAR_10
+data,VAR_11
+sub_info,VAR_12

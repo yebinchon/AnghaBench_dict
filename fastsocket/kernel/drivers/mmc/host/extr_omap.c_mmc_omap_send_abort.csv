@@ -1,0 +1,14 @@
+CMD,VAR_0
+OMAP_MMC_READ,FUNC_0
+OMAP_MMC_STAT_END_OF_CMD,VAR_1
+OMAP_MMC_WRITE,FUNC_1
+STAT,VAR_2
+udelay,FUNC_2
+mmc_omap_send_abort,FUNC_3
+host,VAR_3
+maxloops,VAR_4
+slot,VAR_5
+restarts,VAR_6
+passes,VAR_7
+timeout,VAR_8
+stat,VAR_9

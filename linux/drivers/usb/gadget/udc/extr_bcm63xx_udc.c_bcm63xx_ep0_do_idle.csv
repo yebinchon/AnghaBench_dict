@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+EP0_IDLE,VAR_1
+EP0_IN_FAKE_STATUS_PHASE,VAR_2
+EP0_SHUTDOWN,VAR_3
+IUDMA_EP0_RXCHAN,VAR_4
+bcm63xx_ep0_do_setup,FUNC_0
+bcm63xx_ep0_nuke_reply,FUNC_1
+bcm63xx_ep0_spoof_set_cfg,FUNC_2
+bcm63xx_ep0_spoof_set_iface,FUNC_3
+dev_warn,FUNC_4
+iudma_reset_channel,FUNC_5
+mb,FUNC_6
+usb_gadget_unmap_request,FUNC_7
+bcm63xx_ep0_do_idle,FUNC_8
+udc,VAR_5

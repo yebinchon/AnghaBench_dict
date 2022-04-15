@@ -1,0 +1,15 @@
+LDNS_MAX_DOMAINLEN,VAR_0
+VERB_QUERY,VAR_1
+dname_pkt_copy,FUNC_0
+log_assert,FUNC_1
+log_nametypeclass,FUNC_2
+msgparse_bucket_remove,FUNC_3
+ntohs,FUNC_4
+verbosity,VAR_2
+remove_rrset,FUNC_5
+str,VAR_3
+pkt,VAR_4
+msg,VAR_5
+prev,VAR_6
+rrset,VAR_7
+buf,VAR_8

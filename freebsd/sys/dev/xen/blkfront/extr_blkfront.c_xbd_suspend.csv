@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EWOULDBLOCK,VAR_1
+PRIBIO,VAR_2
+XBD_Q_BUSY,VAR_3
+XBD_STATE_SUSPENDED,VAR_4
+device_get_softc,FUNC_0
+hz,VAR_5
+msleep,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+xbd_queue_length,FUNC_4
+xbd_suspend,FUNC_5
+dev,VAR_6
+sc,VAR_7
+retval,VAR_8
+saved_state,VAR_9

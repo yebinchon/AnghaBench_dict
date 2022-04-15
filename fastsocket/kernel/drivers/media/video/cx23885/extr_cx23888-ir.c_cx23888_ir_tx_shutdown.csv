@@ -1,0 +1,13 @@
+CX23888_IR_TXCLK_REG,VAR_0
+TXCLK_TCD,VAR_1
+control_tx_enable,FUNC_0
+control_tx_modulation_enable,FUNC_1
+cx23888_ir_write4,FUNC_2
+irqenable_tx,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+to_state,FUNC_6
+cx23888_ir_tx_shutdown,FUNC_7
+sd,VAR_2
+state,VAR_3
+dev,VAR_4

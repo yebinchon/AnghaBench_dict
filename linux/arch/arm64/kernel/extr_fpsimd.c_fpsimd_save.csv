@@ -1,0 +1,17 @@
+SIGKILL,VAR_0
+SI_KERNEL,VAR_1
+TIF_FOREIGN_FPSTATE,VAR_2
+TIF_SVE,VAR_3
+WARN_ON,FUNC_0
+force_signal_inject,FUNC_1
+fpsimd_last_state,VAR_4
+fpsimd_save_state,FUNC_2
+have_cpu_fpsimd_context,FUNC_3
+sve_ffr_offset,FUNC_4
+sve_get_vl,FUNC_5
+sve_save_state,FUNC_6
+system_supports_sve,FUNC_7
+test_thread_flag,FUNC_8
+this_cpu_ptr,FUNC_9
+fpsimd_save,FUNC_10
+last,VAR_5

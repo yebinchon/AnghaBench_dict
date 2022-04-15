@@ -1,0 +1,12 @@
+BM_MOD_WDEN,VAR_0
+BM_MOD_WDRESET,VAR_1
+HW_RESET,VAR_2
+HW_WDMOD,VAR_3
+asm9260_wdt_feed,FUNC_0
+asm9260_wdt_updatetimeout,FUNC_1
+iowrite32,FUNC_2
+watchdog_get_drvdata,FUNC_3
+asm9260_wdt_enable,FUNC_4
+wdd,VAR_4
+priv,VAR_5
+mode,VAR_6

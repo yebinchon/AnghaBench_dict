@@ -1,0 +1,13 @@
+BNXT_TPA_INNER_L2_OFF,FUNC_0
+BNXT_TPA_INNER_L3_OFF,FUNC_1
+BNXT_TPA_OUTER_L3_OFF,FUNC_2
+ETH_HLEN,VAR_0
+RX_TPA_START_CMP_FLAGS2_IP_TYPE,VAR_1
+bnxt_gro_tunnel,FUNC_3
+skb_set_network_header,FUNC_4
+skb_set_transport_header,FUNC_5
+bnxt_gro_func_5750x,FUNC_6
+tpa_info,VAR_2
+payload_off,VAR_3
+tcp_ts,VAR_4
+skb,VAR_5

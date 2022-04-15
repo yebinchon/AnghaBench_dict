@@ -1,0 +1,16 @@
+EACCES,VAR_0
+F2FS_BLKSIZE,VAR_1
+f2fs_is_first_block_written,FUNC_0
+f2fs_is_volatile_file,FUNC_1
+file_inode,FUNC_2
+inode_lock,FUNC_3
+inode_owner_or_capable,FUNC_4
+inode_unlock,FUNC_5
+mnt_drop_write_file,FUNC_6
+mnt_want_write_file,FUNC_7
+punch_hole,FUNC_8
+truncate_partial_data_page,FUNC_9
+f2fs_ioc_release_volatile_write,FUNC_10
+filp,VAR_2
+inode,VAR_3
+ret,VAR_4

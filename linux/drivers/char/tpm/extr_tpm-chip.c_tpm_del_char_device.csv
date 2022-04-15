@@ -1,0 +1,15 @@
+TPM2_SU_CLEAR,VAR_0
+TPM_CHIP_FLAG_TPM2,VAR_1
+cdev_device_del,FUNC_0
+dev_nums_idr,VAR_2
+down_write,FUNC_1
+idr_lock,VAR_3
+idr_replace,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+tpm2_shutdown,FUNC_5
+tpm_chip_start,FUNC_6
+tpm_chip_stop,FUNC_7
+up_write,FUNC_8
+tpm_del_char_device,FUNC_9
+chip,VAR_4

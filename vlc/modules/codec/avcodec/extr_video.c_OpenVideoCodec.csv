@@ -1,0 +1,16 @@
+AV_CODEC_FLAG_LOW_DELAY,VAR_0
+AV_CODEC_ID_THEORA,VAR_1
+AV_CODEC_ID_VC1,VAR_2
+AV_PIX_FMT_NONE,VAR_3
+cc_Init,FUNC_0
+ffmpeg_OpenCodec,FUNC_1
+msg_Dbg,FUNC_2
+msg_Warn,FUNC_3
+set_video_color_settings,FUNC_4
+var_InheritBool,FUNC_5
+OpenVideoCodec,FUNC_6
+p_dec,VAR_4
+p_sys,VAR_5
+ctx,VAR_6
+codec,VAR_7
+ret,VAR_8

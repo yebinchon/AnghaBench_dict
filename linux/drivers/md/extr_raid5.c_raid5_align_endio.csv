@@ -1,0 +1,14 @@
+add_bio_to_retry,FUNC_0
+atomic_dec_and_test,FUNC_1
+bio_endio,FUNC_2
+bio_put,FUNC_3
+pr_debug,FUNC_4
+rdev_dec_pending,FUNC_5
+wake_up,FUNC_6
+raid5_align_endio,FUNC_7
+bi,VAR_0
+raid_bi,VAR_1
+mddev,VAR_2
+conf,VAR_3
+rdev,VAR_4
+error,VAR_5

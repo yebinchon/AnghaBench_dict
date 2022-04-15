@@ -1,0 +1,11 @@
+SQLITE_OK,VAR_0
+SQLITE_PREPARE_SAVESQL,VAR_1
+assert,FUNC_0
+sqlite3LockAndPrepare,FUNC_1
+sqlite3_prepare_v2,FUNC_2
+db,VAR_2
+zSql,VAR_3
+nBytes,VAR_4
+ppStmt,VAR_5
+pzTail,VAR_6
+rc,VAR_7

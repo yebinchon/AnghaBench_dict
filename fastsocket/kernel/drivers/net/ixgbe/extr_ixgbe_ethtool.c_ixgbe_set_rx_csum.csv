@@ -1,0 +1,12 @@
+IXGBE_FLAG2_RSC_CAPABLE,VAR_0
+IXGBE_FLAG2_RSC_ENABLED,VAR_1
+NETIF_F_LRO,VAR_2
+NETIF_F_RXCSUM,VAR_3
+ixgbe_do_reset,FUNC_0
+ixgbe_set_rsc,FUNC_1
+netdev_priv,FUNC_2
+ixgbe_set_rx_csum,FUNC_3
+netdev,VAR_4
+data,VAR_5
+adapter,VAR_6
+need_reset,VAR_7

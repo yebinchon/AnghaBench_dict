@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+ENOMEM,VAR_2
+GFP_DMA,VAR_3
+USB_ENDPOINT_XFER_ISOC,VAR_4
+USB_SPEED_HIGH,VAR_5
+dma_map_single,FUNC_0
+dma_unmap_single,FUNC_1
+dwc2_max_desc_num,FUNC_2
+kcalloc,FUNC_3
+kmem_cache_free,FUNC_4
+kmem_cache_zalloc,FUNC_5
+dwc2_desc_list_alloc,FUNC_6
+hsotg,VAR_6
+qh,VAR_7
+flags,VAR_8
+desc_cache,VAR_9

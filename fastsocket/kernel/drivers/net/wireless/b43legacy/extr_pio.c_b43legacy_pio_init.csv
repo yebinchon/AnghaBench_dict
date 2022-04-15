@@ -1,0 +1,14 @@
+B43legacy_IRQ_PIO_WORKAROUND,VAR_0
+B43legacy_MMIO_PIO1_BASE,VAR_1
+B43legacy_MMIO_PIO2_BASE,VAR_2
+B43legacy_MMIO_PIO3_BASE,VAR_3
+B43legacy_MMIO_PIO4_BASE,VAR_4
+ENOMEM,VAR_5
+b43legacy_destroy_pioqueue,FUNC_0
+b43legacy_setup_pioqueue,FUNC_1
+b43legacydbg,FUNC_2
+b43legacy_pio_init,FUNC_3
+dev,VAR_6
+pio,VAR_7
+queue,VAR_8
+err,VAR_9

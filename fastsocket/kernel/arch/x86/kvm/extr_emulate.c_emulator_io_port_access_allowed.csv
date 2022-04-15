@@ -1,0 +1,16 @@
+VCPU_SREG_TR,VAR_0
+X86EMUL_CONTINUE,VAR_1
+kvm_get_segment,FUNC_0
+stub1,FUNC_1
+stub2,FUNC_2
+emulator_io_port_access_allowed,FUNC_3
+ctxt,VAR_2
+ops,VAR_3
+port,VAR_4
+len,VAR_5
+tr_seg,VAR_6
+r,VAR_7
+io_bitmap_ptr,VAR_8
+perm,VAR_9
+bit_idx,VAR_10
+mask,VAR_11

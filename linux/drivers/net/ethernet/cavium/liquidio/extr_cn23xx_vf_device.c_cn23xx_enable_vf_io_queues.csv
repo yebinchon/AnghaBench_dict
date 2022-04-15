@@ -1,0 +1,15 @@
+BIT_ULL,FUNC_0
+CN23XX_PKT_INPUT_CTL_IS_64B,VAR_0
+CN23XX_PKT_INPUT_CTL_RING_ENB,VAR_1
+CN23XX_PKT_OUTPUT_CTL_RING_ENB,VAR_2
+CN23XX_VF_SLI_IQ_PKT_CONTROL64,FUNC_1
+CN23XX_VF_SLI_OQ_PKT_CONTROL,FUNC_2
+octeon_read_csr,FUNC_3
+octeon_read_csr64,FUNC_4
+octeon_write_csr,FUNC_5
+octeon_write_csr64,FUNC_6
+cn23xx_enable_vf_io_queues,FUNC_7
+oct,VAR_3
+q_no,VAR_4
+reg_val,VAR_5
+reg_val,VAR_6

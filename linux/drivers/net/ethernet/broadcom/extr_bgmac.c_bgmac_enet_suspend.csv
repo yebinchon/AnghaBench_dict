@@ -1,0 +1,12 @@
+bgmac_chip_intrs_off,FUNC_0
+bgmac_chip_reset,FUNC_1
+bgmac_dma_cleanup,FUNC_2
+napi_disable,FUNC_3
+netif_device_detach,FUNC_4
+netif_running,FUNC_5
+netif_stop_queue,FUNC_6
+netif_tx_lock,FUNC_7
+netif_tx_unlock,FUNC_8
+phy_stop,FUNC_9
+bgmac_enet_suspend,FUNC_10
+bgmac,VAR_0

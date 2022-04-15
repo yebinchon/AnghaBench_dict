@@ -1,0 +1,9 @@
+ATF_REQUIRE_EQ_MSG,FUNC_0
+ENOSYS,VAR_0
+EPERM,VAR_1
+MODCTL_EXISTS,VAR_2
+atf_tc_skip,FUNC_1
+errno,VAR_3
+modctl,FUNC_2
+check_permission,FUNC_3
+err,VAR_4

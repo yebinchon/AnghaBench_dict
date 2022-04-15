@@ -1,0 +1,14 @@
+DRM_MODE_DPMS_ON,VAR_0
+EBUSY,VAR_1
+drm_client_modeset_commit_atomic,FUNC_0
+drm_client_modeset_dpms_legacy,FUNC_1
+drm_drv_uses_atomic_modeset,FUNC_2
+drm_master_internal_acquire,FUNC_3
+drm_master_internal_release,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+drm_client_modeset_dpms,FUNC_7
+client,VAR_2
+mode,VAR_3
+dev,VAR_4
+ret,VAR_5

@@ -1,0 +1,16 @@
+__skb_pull,FUNC_0
+__skb_push,FUNC_1
+dev_net,FUNC_2
+ip6_protocol_deliver_rcu,FUNC_3
+likely,FUNC_4
+skb_mac_offset,FUNC_5
+skb_transport_offset,FUNC_6
+udp_rcv_segment,FUNC_7
+udp_unexpected_gso,FUNC_8
+udpv6_queue_rcv_one_skb,FUNC_9
+udpv6_queue_rcv_skb,FUNC_10
+sk,VAR_0
+skb,VAR_1
+next,VAR_2
+segs,VAR_3
+ret,VAR_4

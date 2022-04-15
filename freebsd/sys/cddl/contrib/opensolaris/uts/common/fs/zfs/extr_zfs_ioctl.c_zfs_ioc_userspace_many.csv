@@ -1,0 +1,17 @@
+B_FALSE,VAR_0
+ENOMEM,VAR_1
+FTAG,VAR_2
+KM_SLEEP,VAR_3
+SET_ERROR,FUNC_0
+ddi_copyout,FUNC_1
+kmem_alloc,FUNC_2
+kmem_free,FUNC_3
+zfs_userspace_many,FUNC_4
+zfsvfs_hold,FUNC_5
+zfsvfs_rele,FUNC_6
+zfs_ioc_userspace_many,FUNC_7
+zc,VAR_4
+zfsvfs,VAR_5
+bufsize,VAR_6
+error,VAR_7
+buf,VAR_8

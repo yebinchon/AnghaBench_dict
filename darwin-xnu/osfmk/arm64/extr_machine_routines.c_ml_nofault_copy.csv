@@ -1,0 +1,14 @@
+PAGE_MASK,VAR_0
+PAGE_SIZE,VAR_1
+bcopy_phys,FUNC_0
+kvtophys,FUNC_1
+pmap_valid_address,FUNC_2
+trunc_page_64,FUNC_3
+ml_nofault_copy,FUNC_4
+virtsrc,VAR_2
+virtdst,VAR_3
+size,VAR_4
+cur_phys_dst,VAR_5
+cur_phys_src,VAR_6
+count,VAR_7
+nbytes,VAR_8

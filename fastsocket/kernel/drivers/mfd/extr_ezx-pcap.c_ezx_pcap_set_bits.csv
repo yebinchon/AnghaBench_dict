@@ -1,0 +1,14 @@
+PCAP_REGISTER_ADDRESS_SHIFT,VAR_0
+PCAP_REGISTER_READ_OP_BIT,VAR_1
+PCAP_REGISTER_VALUE_MASK,VAR_2
+PCAP_REGISTER_WRITE_OP_BIT,VAR_3
+ezx_pcap_putget,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+ezx_pcap_set_bits,FUNC_3
+pcap,VAR_4
+reg_num,VAR_5
+mask,VAR_6
+val,VAR_7
+ret,VAR_8
+tmp,VAR_9

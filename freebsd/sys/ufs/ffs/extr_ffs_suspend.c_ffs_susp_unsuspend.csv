@@ -1,0 +1,13 @@
+SA_XLOCKED,VAR_0
+UFS_LOCK,FUNC_0
+UFS_UNLOCK,FUNC_1
+UM_WRITESUSPENDED,VAR_1
+VFSTOUFS,FUNC_2
+curthread,VAR_2
+ffs_susp_lock,VAR_3
+sx_assert,FUNC_3
+vfs_unbusy,FUNC_4
+vfs_write_resume,FUNC_5
+ffs_susp_unsuspend,FUNC_6
+mp,VAR_4
+ump,VAR_5

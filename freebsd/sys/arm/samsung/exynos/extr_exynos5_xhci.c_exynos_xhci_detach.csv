@@ -1,0 +1,12 @@
+bus_release_resources,FUNC_0
+bus_teardown_intr,FUNC_1
+device_delete_children,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+exynos_xhci_spec,VAR_0
+xhci_halt_controller,FUNC_5
+xhci_uninit,FUNC_6
+exynos_xhci_detach,FUNC_7
+dev,VAR_1
+esc,VAR_2
+err,VAR_3

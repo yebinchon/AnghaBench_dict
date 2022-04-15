@@ -1,0 +1,11 @@
+FMODE_WRITE,VAR_0
+NVRAM_EXCL,VAR_1
+NVRAM_WRITE,VAR_2
+nvram_open_cnt,VAR_3
+nvram_open_mode,VAR_4
+nvram_state_lock,VAR_5
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+nvram_misc_release,FUNC_2
+inode,VAR_6
+file,VAR_7

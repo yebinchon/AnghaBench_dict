@@ -1,0 +1,10 @@
+INIT_WORK,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+XPRT_LOCKED,VAR_1
+del_timer_sync,FUNC_1
+dprintk,FUNC_2
+schedule_work,FUNC_3
+wait_on_bit_lock,FUNC_4
+xprt_destroy_cb,VAR_2
+xprt_destroy,FUNC_5
+xprt,VAR_3

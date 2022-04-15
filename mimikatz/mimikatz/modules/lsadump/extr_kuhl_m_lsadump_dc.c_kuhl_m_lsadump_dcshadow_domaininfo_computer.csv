@@ -1,0 +1,17 @@
+FALSE,VAR_0
+LDAP_SCOPE_SUBTREE,VAR_1
+PRINT_ERROR,FUNC_0
+kuhl_m_lsadump_dcshadow_getSingleTextAttr,FUNC_1
+kull_m_string_copy,FUNC_2
+kull_m_string_sprintf,FUNC_3
+ldap_get_dn,FUNC_4
+ldap_memfree,FUNC_5
+ldap_msgfree,FUNC_6
+ldap_search_s,FUNC_7
+kuhl_m_lsadump_dcshadow_domaininfo_computer,FUNC_8
+info,VAR_2
+dwErr,VAR_3
+szComputerFilter,VAR_4
+szTempComputerDN,VAR_5
+szComputerAttributes,VAR_6
+pComputerSearchResult,VAR_7

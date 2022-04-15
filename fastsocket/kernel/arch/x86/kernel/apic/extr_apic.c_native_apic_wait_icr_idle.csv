@@ -1,0 +1,5 @@
+APIC_ICR,VAR_0
+APIC_ICR_BUSY,VAR_1
+apic_read,FUNC_0
+cpu_relax,FUNC_1
+native_apic_wait_icr_idle,FUNC_2

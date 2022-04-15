@@ -1,0 +1,14 @@
+INPCB_STATE_DEAD,VAR_0
+WNT_STOPUSING,VAR_1
+in_pcbdetach,FUNC_0
+in_pcbdispose,FUNC_1
+in_pcblookup_local,FUNC_2
+socket_lock,FUNC_3
+socket_unlock,FUNC_4
+in_pcblookup_local_and_cleanup,FUNC_5
+pcbinfo,VAR_2
+laddr,VAR_3
+lport_arg,VAR_4
+wild_okay,VAR_5
+inp,VAR_6
+so,VAR_7

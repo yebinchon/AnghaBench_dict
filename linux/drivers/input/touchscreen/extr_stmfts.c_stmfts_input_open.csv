@@ -1,0 +1,13 @@
+STMFTS_MS_KEY_SENSE_ON,VAR_0
+STMFTS_MS_MT_SENSE_ON,VAR_1
+STMFTS_SS_HOVER_SENSE_ON,VAR_2
+dev_warn,FUNC_0
+i2c_smbus_write_byte,FUNC_1
+input_get_drvdata,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pm_runtime_get_sync,FUNC_5
+stmfts_input_open,FUNC_6
+dev,VAR_3
+sdata,VAR_4
+err,VAR_5

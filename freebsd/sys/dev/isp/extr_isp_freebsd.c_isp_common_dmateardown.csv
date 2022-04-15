@@ -1,0 +1,11 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+CAM_DIR_IN,VAR_2
+CAM_DIR_MASK,VAR_3
+PISP_PCMD,FUNC_0
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+isp_common_dmateardown,FUNC_3
+isp,VAR_4
+csio,VAR_5
+hdl,VAR_6

@@ -1,0 +1,9 @@
+SAS_PROTOCOL_SSP,VAR_0
+TMF_RESP_FUNC_ESUPP,VAR_1
+pm8001_exec_internal_tmf_task,FUNC_0
+strncpy,FUNC_1
+pm8001_issue_ssp_tmf,FUNC_2
+dev,VAR_2
+lun,VAR_3
+tmf,VAR_4
+ssp_task,VAR_5

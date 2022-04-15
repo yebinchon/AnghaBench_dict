@@ -1,0 +1,9 @@
+HF_NMI_MASK,VAR_0
+INTERCEPT_IRET,VAR_1
+VMCB_INTERCEPTS,VAR_2
+mark_dirty,FUNC_0
+to_svm,FUNC_1
+svm_set_nmi_mask,FUNC_2
+vcpu,VAR_3
+masked,VAR_4
+svm,VAR_5

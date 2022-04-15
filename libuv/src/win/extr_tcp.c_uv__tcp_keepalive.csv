@@ -1,0 +1,11 @@
+IPPROTO_TCP,VAR_0
+SOL_SOCKET,VAR_1
+SO_KEEPALIVE,VAR_2
+TCP_KEEPALIVE,VAR_3
+WSAGetLastError,FUNC_0
+setsockopt,FUNC_1
+uv__tcp_keepalive,FUNC_2
+handle,VAR_4
+socket,VAR_5
+enable,VAR_6
+delay,VAR_7

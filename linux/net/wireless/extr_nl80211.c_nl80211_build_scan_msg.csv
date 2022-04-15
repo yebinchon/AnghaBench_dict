@@ -1,0 +1,12 @@
+GFP_KERNEL,VAR_0
+NL80211_CMD_NEW_SCAN_RESULTS,VAR_1
+NL80211_CMD_SCAN_ABORTED,VAR_2
+NLMSG_DEFAULT_SIZE,VAR_3
+nl80211_prep_scan_msg,FUNC_0
+nlmsg_free,FUNC_1
+nlmsg_new,FUNC_2
+nl80211_build_scan_msg,FUNC_3
+rdev,VAR_4
+wdev,VAR_5
+aborted,VAR_6
+msg,VAR_7

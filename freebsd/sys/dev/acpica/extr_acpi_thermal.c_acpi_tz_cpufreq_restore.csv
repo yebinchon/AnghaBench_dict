@@ -1,0 +1,13 @@
+ACPI_VPRINT,FUNC_0
+CPUFREQ_PRIO_KERN,VAR_0
+CPUFREQ_SET,FUNC_1
+ENXIO,VAR_1
+FALSE,VAR_2
+TZ_KELVTOC,FUNC_2
+acpi_device_get_parent_softc,FUNC_3
+devclass_find,FUNC_4
+devclass_get_device,FUNC_5
+acpi_tz_cpufreq_restore,FUNC_6
+sc,VAR_3
+dev,VAR_4
+error,VAR_5

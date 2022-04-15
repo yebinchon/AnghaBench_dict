@@ -1,0 +1,17 @@
+HRTIMER_MODE_REL_PINNED,VAR_0
+PERF_EF_START,VAR_1
+PERF_EF_UPDATE,VAR_2
+PERF_HES_STOPPED,VAR_3
+arm_ccn_pmu_active_counters,FUNC_0
+arm_ccn_pmu_event_alloc,FUNC_1
+arm_ccn_pmu_event_config,FUNC_2
+arm_ccn_pmu_event_start,FUNC_3
+arm_ccn_pmu_timer_period,FUNC_4
+hrtimer_start,FUNC_5
+pmu_to_arm_ccn,FUNC_6
+arm_ccn_pmu_event_add,FUNC_7
+event,VAR_4
+flags,VAR_5
+err,VAR_6
+hw,VAR_7
+ccn,VAR_8

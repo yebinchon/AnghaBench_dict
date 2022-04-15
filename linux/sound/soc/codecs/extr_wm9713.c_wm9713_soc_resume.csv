@@ -1,0 +1,13 @@
+SND_SOC_BIAS_STANDBY,VAR_0
+WM9713_VENDOR_ID,VAR_1
+WM9713_VENDOR_ID_MASK,VAR_2
+regcache_mark_dirty,FUNC_0
+snd_ac97_reset,FUNC_1
+snd_soc_component_cache_sync,FUNC_2
+snd_soc_component_force_bias_level,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+wm9713_set_pll,FUNC_5
+wm9713_soc_resume,FUNC_6
+component,VAR_3
+wm9713,VAR_4
+ret,VAR_5

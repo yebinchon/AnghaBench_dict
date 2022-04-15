@@ -1,0 +1,12 @@
+GIT_PKT_FLUSH,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_strn,FUNC_1
+cl_git_pass,FUNC_2
+git_pkt_free,FUNC_3
+git_pkt_parse_line,FUNC_4
+strlen,FUNC_5
+assert_flush_parses,FUNC_6
+line,VAR_1
+linelen,VAR_2
+endptr,VAR_3
+pkt,VAR_4

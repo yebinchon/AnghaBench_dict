@@ -1,0 +1,15 @@
+ALLOW_MEDIUM_REMOVAL,VAR_0
+COMMAND_SIZE,FUNC_0
+HZ,VAR_1
+IS_ERR,FUNC_1
+REQ_OP_SCSI_IN,VAR_2
+RQF_QUIET,VAR_3
+SCSI_REMOVAL_PREVENT,VAR_4
+blk_execute_rq_nowait,FUNC_2
+blk_get_request,FUNC_3
+eh_lock_door_done,VAR_5
+scsi_req,FUNC_4
+scsi_eh_lock_door,FUNC_5
+sdev,VAR_6
+req,VAR_7
+rq,VAR_8

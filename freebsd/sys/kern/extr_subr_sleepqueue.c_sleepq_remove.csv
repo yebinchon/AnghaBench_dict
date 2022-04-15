@@ -1,0 +1,14 @@
+MPASS,FUNC_0
+TD_ON_SLEEPQ,FUNC_1
+kick_proc0,FUNC_2
+sleepq_lock,FUNC_3
+sleepq_lookup,FUNC_4
+sleepq_release,FUNC_5
+sleepq_resume_thread,FUNC_6
+thread_lock,FUNC_7
+thread_unlock,FUNC_8
+sleepq_remove,FUNC_9
+td,VAR_0
+wchan,VAR_1
+sq,VAR_2
+wakeup_swapper,VAR_3

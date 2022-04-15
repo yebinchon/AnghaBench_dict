@@ -1,0 +1,13 @@
+BIT,FUNC_0
+ROCKCHIP_SPI_CLR_BITS,FUNC_1
+ROCKCHIP_SPI_SER,VAR_0
+ROCKCHIP_SPI_SET_BITS,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put,FUNC_4
+spi_master_get_devdata,FUNC_5
+rockchip_spi_set_cs,FUNC_6
+spi,VAR_1
+enable,VAR_2
+master,VAR_3
+rs,VAR_4
+cs_asserted,VAR_5

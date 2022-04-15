@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+EACCES,VAR_0
+JOURNAL_SYSTEM_INODE,VAR_1
+OCFS2_BH_IGNORE_CACHE,VAR_2
+SET_INODE_JOURNAL,FUNC_1
+iput,FUNC_2
+is_bad_inode,FUNC_3
+mlog_errno,FUNC_4
+ocfs2_get_system_file_inode,FUNC_5
+ocfs2_read_inode_block_full,FUNC_6
+ocfs2_read_journal_inode,FUNC_7
+osb,VAR_3
+slot_num,VAR_4
+bh,VAR_5
+ret_inode,VAR_6
+status,VAR_7
+inode,VAR_8

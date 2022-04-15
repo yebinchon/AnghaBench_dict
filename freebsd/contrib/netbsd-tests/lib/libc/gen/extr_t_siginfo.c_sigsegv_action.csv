@@ -1,0 +1,9 @@
+ATF_REQUIRE_EQ,FUNC_0
+SEGV_MAPERR,VAR_0
+SIGSEGV,VAR_1
+atf_tc_pass,FUNC_1
+sig_debug,FUNC_2
+sigsegv_action,FUNC_3
+signo,VAR_2
+info,VAR_3
+ptr,VAR_4

@@ -1,0 +1,16 @@
+MLX5E_SQ_STATE_ENABLED,VAR_0
+clear_bit,FUNC_0
+memset,FUNC_1
+mlx5_wq_cyc_ctr2ix,FUNC_2
+mlx5e_notify_hw,FUNC_3
+mlx5e_post_nop,FUNC_4
+mlx5e_tx_disable_queue,FUNC_5
+mlx5e_wqc_has_room_for,FUNC_6
+napi_synchronize,FUNC_7
+mlx5e_deactivate_txqsq,FUNC_8
+sq,VAR_1
+c,VAR_2
+wq,VAR_3
+pi,VAR_4
+wi,VAR_5
+nop,VAR_6

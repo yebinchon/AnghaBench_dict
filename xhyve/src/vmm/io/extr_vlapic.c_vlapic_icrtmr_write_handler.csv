@@ -1,0 +1,14 @@
+VLAPIC_TIMER_LOCK,FUNC_0
+VLAPIC_TIMER_UNLOCK,FUNC_1
+bintime_add,FUNC_2
+bintime_mul,FUNC_3
+binuptime,FUNC_4
+bttosbt,FUNC_5
+callout_reset_sbt,FUNC_6
+callout_stop,FUNC_7
+vlapic_callout_handler,VAR_0
+vlapic_icrtmr_write_handler,FUNC_8
+vlapic,VAR_1
+lapic,VAR_2
+sbt,VAR_3
+icr_timer,VAR_4

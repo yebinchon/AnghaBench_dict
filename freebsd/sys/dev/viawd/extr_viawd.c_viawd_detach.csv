@@ -1,0 +1,16 @@
+EVENTHANDLER_DEREGISTER,FUNC_0
+SYS_RES_MEMORY,VAR_0
+VIAWD_MEM_CTRL,VAR_1
+VIAWD_MEM_CTRL_ENABLE,VAR_2
+VIAWD_TIMEOUT_SHUTDOWN,VAR_3
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+viawd_read_4,FUNC_4
+viawd_tmr_set,FUNC_5
+viawd_tmr_state,FUNC_6
+watchdog_list,VAR_4
+viawd_detach,FUNC_7
+dev,VAR_5
+sc,VAR_6
+reg,VAR_7

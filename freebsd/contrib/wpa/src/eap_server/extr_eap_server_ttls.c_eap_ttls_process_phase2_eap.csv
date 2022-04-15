@@ -1,0 +1,15 @@
+EAP_TYPE_IDENTITY,VAR_0
+MSG_DEBUG,VAR_1
+MSG_INFO,VAR_2
+PHASE2_START,VAR_3
+be_to_host16,FUNC_0
+eap_ttls_phase2_eap_init,FUNC_1
+eap_ttls_process_phase2_eap_response,FUNC_2
+wpa_printf,FUNC_3
+eap_ttls_process_phase2_eap,FUNC_4
+sm,VAR_4
+data,VAR_5
+eap,VAR_6
+eap_len,VAR_7
+hdr,VAR_8
+len,VAR_9

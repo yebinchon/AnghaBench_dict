@@ -1,0 +1,11 @@
+d_instantiate,FUNC_0
+drop_nlink,FUNC_1
+ext4_add_entry,FUNC_2
+ext4_mark_inode_dirty,FUNC_3
+iput,FUNC_4
+unlock_new_inode,FUNC_5
+ext4_add_nondir,FUNC_6
+handle,VAR_0
+dentry,VAR_1
+inode,VAR_2
+err,VAR_3

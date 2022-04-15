@@ -1,0 +1,17 @@
+CVMX_BOOTMEM_FLAG_NO_LOCKING,VAR_0
+CVMX_BOOTMEM_NAMED_GET_FIELD,FUNC_0
+base_addr,VAR_1
+cvmx_bootmem_phy_named_block_alloc,FUNC_1
+cvmx_bootmem_phy_named_block_find,FUNC_2
+cvmx_phys_to_ptr,FUNC_3
+memset,FUNC_4
+cvmx_bootmem_alloc_named_range_once,FUNC_5
+size,VAR_2
+min_addr,VAR_3
+max_addr,VAR_4
+align,VAR_5
+name,VAR_6
+init,VAR_7
+addr,VAR_8
+ptr,VAR_9
+named_block_desc_addr,VAR_10

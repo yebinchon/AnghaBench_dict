@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+NETDEV_CHANGEMTU,VAR_2
+NETDEV_PRECHANGEMTU,VAR_3
+NL_SET_ERR_MSG,FUNC_0
+__dev_set_mtu,FUNC_1
+call_netdevice_notifiers,FUNC_2
+call_netdevice_notifiers_mtu,FUNC_3
+netif_device_present,FUNC_4
+notifier_to_errno,FUNC_5
+dev_set_mtu_ext,FUNC_6
+dev,VAR_4
+new_mtu,VAR_5
+extack,VAR_6
+err,VAR_7
+orig_mtu,VAR_8

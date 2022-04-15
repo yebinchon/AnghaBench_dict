@@ -1,0 +1,10 @@
+EP_STALLED,VAR_0
+EP_STALL_PENDING,VAR_1
+EP_STS_DBUSY,VAR_2
+cdns3_ep_stall_flush,FUNC_0
+readl,FUNC_1
+trace_cdns3_halt,FUNC_2
+__cdns3_gadget_ep_set_halt,FUNC_3
+priv_ep,VAR_3
+priv_dev,VAR_4
+ep_sts_reg,VAR_5

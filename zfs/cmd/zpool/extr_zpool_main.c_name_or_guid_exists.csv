@@ -1,0 +1,16 @@
+ZPOOL_CONFIG_POOL_GUID,VAR_0
+ZPOOL_CONFIG_POOL_NAME,VAR_1
+nvlist_lookup_string,FUNC_0
+nvlist_lookup_uint64,FUNC_1
+strcmp,FUNC_2
+verify,FUNC_3
+zpool_close,FUNC_4
+zpool_get_config,FUNC_5
+name_or_guid_exists,FUNC_6
+zhp,VAR_2
+data,VAR_3
+args,VAR_4
+config,VAR_5
+found,VAR_6
+pool_name,VAR_7
+pool_guid,VAR_8

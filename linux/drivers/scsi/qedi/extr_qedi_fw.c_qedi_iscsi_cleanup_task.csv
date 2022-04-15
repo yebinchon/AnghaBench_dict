@@ -1,0 +1,17 @@
+QEDI_INFO,FUNC_0
+QEDI_LOG_SCSI_TM,VAR_0
+get_itt,FUNC_1
+init_cleanup_task,FUNC_2
+memset,FUNC_3
+qedi_get_wqe_idx,FUNC_4
+qedi_ring_doorbell,FUNC_5
+qedi_iscsi_cleanup_task,FUNC_6
+task,VAR_1
+mark_cmd_node_deleted,VAR_2
+task_params,VAR_3
+ep,VAR_4
+conn,VAR_5
+qedi_conn,VAR_6
+cmd,VAR_7
+sq_idx,VAR_8
+rval,VAR_9

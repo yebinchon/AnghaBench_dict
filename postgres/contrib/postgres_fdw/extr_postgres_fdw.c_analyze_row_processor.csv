@@ -1,0 +1,13 @@
+Assert,FUNC_0
+MemoryContextSwitchTo,FUNC_1
+heap_freetuple,FUNC_2
+make_tuple_from_result_row,FUNC_3
+reservoir_get_next_S,FUNC_4
+sampler_random_fract,FUNC_5
+analyze_row_processor,FUNC_6
+res,VAR_0
+row,VAR_1
+astate,VAR_2
+targrows,VAR_3
+pos,VAR_4
+oldcontext,VAR_5

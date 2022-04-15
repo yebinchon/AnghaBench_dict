@@ -1,0 +1,12 @@
+INTC_MIR_SET0,VAR_0
+INT_34XX_GPT12_IRQ,VAR_1
+IRQ_BITS_PER_REG,VAR_2
+cpu_is_omap34xx,FUNC_0
+intc_bank_write_reg,FUNC_1
+irq_banks,VAR_3
+omap_check_spurious,FUNC_2
+previous_irq,VAR_4
+omap_mask_irq,FUNC_3
+irq,VAR_5
+offset,VAR_6
+spurious,VAR_7

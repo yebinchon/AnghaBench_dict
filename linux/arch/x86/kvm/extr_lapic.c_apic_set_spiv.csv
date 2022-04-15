@@ -1,0 +1,11 @@
+APIC_SPIV,VAR_0
+APIC_SPIV_APIC_ENABLED,VAR_1
+apic_sw_disabled,VAR_2
+kvm_lapic_set_reg,FUNC_0
+recalculate_apic_map,FUNC_1
+static_key_slow_dec_deferred,FUNC_2
+static_key_slow_inc,FUNC_3
+apic_set_spiv,FUNC_4
+apic,VAR_3
+val,VAR_4
+enabled,VAR_5

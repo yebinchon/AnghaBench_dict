@@ -1,0 +1,17 @@
+VENC_H264_VPU_WORK_BUF_MAX,VAR_0
+VENC_H264_VPU_WORK_BUF_RC_CODE,VAR_1
+VENC_H264_VPU_WORK_BUF_SKIP_FRAME,VAR_2
+h264_enc_free_work_buf,FUNC_0
+memcpy,FUNC_1
+mtk_vcodec_debug,FUNC_2
+mtk_vcodec_debug_enter,FUNC_3
+mtk_vcodec_debug_leave,FUNC_4
+mtk_vcodec_err,FUNC_5
+mtk_vcodec_mem_alloc,FUNC_6
+vpu_mapping_dm_addr,FUNC_7
+h264_enc_alloc_work_buf,FUNC_8
+inst,VAR_3
+i,VAR_4
+ret,VAR_5
+wb,VAR_6
+tmp_va,VAR_7

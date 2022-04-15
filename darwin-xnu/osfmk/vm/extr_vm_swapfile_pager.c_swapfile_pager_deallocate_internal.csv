@@ -1,0 +1,12 @@
+MEMORY_OBJECT_CONTROL_NULL,VAR_0
+SWAPFILE_PAGER_NULL,VAR_1
+kfree,FUNC_0
+lck_mtx_lock,FUNC_1
+lck_mtx_unlock,FUNC_2
+memory_object_control_deallocate,FUNC_3
+swapfile_pager_dequeue,FUNC_4
+swapfile_pager_lock,VAR_2
+swapfile_pager_terminate_internal,FUNC_5
+swapfile_pager_deallocate_internal,FUNC_6
+pager,VAR_3
+locked,VAR_4

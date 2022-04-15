@@ -1,0 +1,10 @@
+VM_PAGE_GRAB_SECLUDED,VAR_0
+VM_PAGE_NULL,VAR_1
+vm_object_lock_assert_exclusive,FUNC_0
+vm_page_grab_options,FUNC_1
+vm_page_insert,FUNC_2
+vm_page_alloc,FUNC_3
+object,VAR_2
+offset,VAR_3
+mem,VAR_4
+grab_options,VAR_5

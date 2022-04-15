@@ -1,0 +1,12 @@
+ICP_DDI_HPD_ENABLE_MASK,VAR_0
+ICP_TC_HPD_ENABLE_MASK,VAR_1
+SDE_DDI_MASK_ICP,VAR_2
+SDE_TC_MASK_ICP,VAR_3
+hpd_icp,VAR_4
+ibx_display_interrupt_update,FUNC_0
+icp_hpd_detection_setup,FUNC_1
+intel_hpd_enabled_irqs,FUNC_2
+icp_hpd_irq_setup,FUNC_3
+dev_priv,VAR_5
+hotplug_irqs,VAR_6
+enabled_irqs,VAR_7

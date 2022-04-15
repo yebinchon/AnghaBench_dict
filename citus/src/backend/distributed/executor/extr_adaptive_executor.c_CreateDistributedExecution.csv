@@ -1,0 +1,17 @@
+ExtractLocalAndRemoteTasks,FUNC_0
+NIL,VAR_0
+ShouldExecuteTasksLocally,FUNC_1
+TaskListModifiesDatabase,FUNC_2
+TupleDescGetAttInMetadata,FUNC_3
+list_length,FUNC_4
+palloc0,FUNC_5
+CreateDistributedExecution,FUNC_6
+modLevel,VAR_1
+taskList,VAR_2
+hasReturning,VAR_3
+paramListInfo,VAR_4
+tupleDescriptor,VAR_5
+tupleStore,VAR_6
+targetPoolSize,VAR_7
+execution,VAR_8
+readOnlyPlan,VAR_9

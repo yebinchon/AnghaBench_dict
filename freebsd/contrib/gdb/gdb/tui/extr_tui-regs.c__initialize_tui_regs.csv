@@ -1,0 +1,16 @@
+add_cmd,FUNC_0
+add_com,FUNC_1
+add_prefix_cmd,FUNC_2
+class_tui,VAR_0
+tui_get_cmd_list,FUNC_3
+tui_reg_command,VAR_1
+tui_reg_float_command,VAR_2
+tui_reg_general_command,VAR_3
+tui_reg_next_command,VAR_4
+tui_reg_system_command,VAR_5
+tui_scroll_regs_backward_command,VAR_6
+tui_scroll_regs_forward_command,VAR_7
+tuireglist,VAR_8
+xdb_commands,VAR_9
+_initialize_tui_regs,FUNC_4
+tuicmd,VAR_10

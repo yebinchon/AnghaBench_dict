@@ -1,0 +1,15 @@
+PCMMIO_PAGE,FUNC_0
+PCMMIO_PAGE_LOCK_REG,VAR_0
+PCMMIO_PAGE_REG,FUNC_1
+PCMMIO_PORT_REG,FUNC_2
+outb,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+pcmmio_dio_write,FUNC_6
+dev,VAR_1
+val,VAR_2
+page,VAR_3
+port,VAR_4
+devpriv,VAR_5
+iobase,VAR_6
+flags,VAR_7

@@ -1,0 +1,17 @@
+HASH_ENTER,VAR_0
+LogicalRepRelMap,VAR_1
+LogicalRepRelMapContext,VAR_2
+MemoryContextSwitchTo,FUNC_0
+bms_copy,FUNC_1
+hash_search,FUNC_2
+logicalrep_relmap_free_entry,FUNC_3
+logicalrep_relmap_init,FUNC_4
+memset,FUNC_5
+palloc,FUNC_6
+pstrdup,FUNC_7
+logicalrep_relmap_update,FUNC_8
+remoterel,VAR_3
+oldctx,VAR_4
+entry,VAR_5
+found,VAR_6
+i,VAR_7

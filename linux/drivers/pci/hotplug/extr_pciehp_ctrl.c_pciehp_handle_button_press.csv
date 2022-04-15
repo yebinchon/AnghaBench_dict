@@ -1,0 +1,15 @@
+HZ,VAR_0
+PCI_EXP_SLTCTL_ATTN_IND_OFF,VAR_1
+PCI_EXP_SLTCTL_PWR_IND_BLINK,VAR_2
+PCI_EXP_SLTCTL_PWR_IND_OFF,VAR_3
+PCI_EXP_SLTCTL_PWR_IND_ON,VAR_4
+cancel_delayed_work,FUNC_0
+ctrl_err,FUNC_1
+ctrl_info,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pciehp_set_indicators,FUNC_5
+schedule_delayed_work,FUNC_6
+slot_name,FUNC_7
+pciehp_handle_button_press,FUNC_8
+ctrl,VAR_5

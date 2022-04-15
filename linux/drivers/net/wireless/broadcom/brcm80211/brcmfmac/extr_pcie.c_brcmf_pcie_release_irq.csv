@@ -1,0 +1,15 @@
+BRCMF_PCIE_PCIE2REG_MAILBOXINT,VAR_0
+brcmf_err,FUNC_0
+brcmf_pcie_intr_disable,FUNC_1
+brcmf_pcie_read_reg32,FUNC_2
+brcmf_pcie_write_reg32,FUNC_3
+dev_get_drvdata,FUNC_4
+free_irq,FUNC_5
+msleep,FUNC_6
+pci_disable_msi,FUNC_7
+brcmf_pcie_release_irq,FUNC_8
+devinfo,VAR_1
+pdev,VAR_2
+bus,VAR_3
+status,VAR_4
+count,VAR_5

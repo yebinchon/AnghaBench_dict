@@ -1,0 +1,11 @@
+CS35L33_CLK_CTL,VAR_0
+CS35L33_PWRCTL2,VAR_1
+CS35L33_SDOUT_3ST_I2S,VAR_2
+CS35L33_SDOUT_3ST_TDM,VAR_3
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+cs35l33_set_tristate,FUNC_2
+dai,VAR_4
+tristate,VAR_5
+component,VAR_6
+priv,VAR_7

@@ -1,0 +1,12 @@
+SVGA_FIFO_FENCE_GOAL,VAR_0
+VMW_FENCE_WRAP,VAR_1
+dma_fence_is_signaled_locked,FUNC_0
+fman_from_fence,FUNC_1
+likely,FUNC_2
+vmw_mmio_read,FUNC_3
+vmw_mmio_write,FUNC_4
+vmw_fence_goal_check_locked,FUNC_5
+fence,VAR_2
+fman,VAR_3
+goal_seqno,VAR_4
+fifo_mem,VAR_5

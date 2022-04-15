@@ -1,0 +1,16 @@
+NVME_STATUS_DNR_MASK,VAR_0
+NVME_STATUS_DNR_SHIFT,VAR_1
+NVME_STATUS_SCT_MASK,VAR_2
+NVME_STATUS_SCT_SHIFT,VAR_3
+NVME_STATUS_SC_MASK,VAR_4
+NVME_STATUS_SC_SHIFT,VAR_5
+memset,FUNC_0
+nvme_qpair_complete_tracker,FUNC_1
+nvme_qpair_manual_complete_tracker,FUNC_2
+qpair,VAR_6
+tr,VAR_7
+sct,VAR_8
+sc,VAR_9
+dnr,VAR_10
+print_on_error,VAR_11
+cpl,VAR_12

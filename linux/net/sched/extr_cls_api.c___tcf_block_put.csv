@@ -1,0 +1,14 @@
+list_empty,FUNC_0
+mutex_unlock,FUNC_1
+refcount_dec_and_mutex_lock,FUNC_2
+tcf_block_destroy,FUNC_3
+tcf_block_flush_all_chains,FUNC_4
+tcf_block_offload_unbind,FUNC_5
+tcf_block_remove,FUNC_6
+tcf_block_shared,FUNC_7
+__tcf_block_put,FUNC_8
+block,VAR_0
+q,VAR_1
+ei,VAR_2
+rtnl_held,VAR_3
+free_block,VAR_4

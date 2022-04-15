@@ -1,0 +1,17 @@
+TSCAN1_MODE,VAR_0
+TSCAN1_PLD_SIZE,VAR_1
+TSCAN1_SJA1000_SIZE,VAR_2
+dev_get_drvdata,FUNC_0
+dev_set_drvdata,FUNC_1
+free_sja1000dev,FUNC_2
+netdev_priv,FUNC_3
+outb,FUNC_4
+release_region,FUNC_5
+unregister_sja1000dev,FUNC_6
+tscan1_remove,FUNC_7
+dev,VAR_3
+id,VAR_4
+netdev,VAR_5
+priv,VAR_6
+pld_base,VAR_7
+sja1000_base,VAR_8

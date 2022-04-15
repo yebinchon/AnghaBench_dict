@@ -1,0 +1,15 @@
+QLCNIC_MGMT_FUNC,VAR_0
+QLCNIC_SRIOV_PF_FUNC,VAR_1
+__QLCNIC_SRIOV_ENABLE,VAR_2
+__qlcnic_sriov_cleanup,FUNC_0
+clear_bit,FUNC_1
+qlcnic_sriov_alloc_vlans,FUNC_2
+qlcnic_sriov_init,FUNC_3
+qlcnic_sriov_pf_create_flr_queue,FUNC_4
+qlcnic_sriov_pf_del_flr_queue,FUNC_5
+qlcnic_sriov_pf_init,FUNC_6
+set_bit,FUNC_7
+__qlcnic_pci_sriov_enable,FUNC_8
+adapter,VAR_3
+num_vfs,VAR_4
+err,VAR_5

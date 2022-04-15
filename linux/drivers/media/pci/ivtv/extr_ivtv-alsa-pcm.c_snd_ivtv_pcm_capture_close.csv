@@ -1,0 +1,15 @@
+IVTV_ENC_STREAM_TYPE_PCM,VAR_0
+IVTV_F_S_STREAMING,VAR_1
+clear_bit,FUNC_0
+ivtv_release_stream,FUNC_1
+ivtv_stop_v4l2_encode_stream,FUNC_2
+snd_ivtv_lock,FUNC_3
+snd_ivtv_unlock,FUNC_4
+snd_pcm_substream_chip,FUNC_5
+to_ivtv,FUNC_6
+snd_ivtv_pcm_capture_close,FUNC_7
+substream,VAR_2
+itvsc,VAR_3
+v4l2_dev,VAR_4
+itv,VAR_5
+s,VAR_6

@@ -1,0 +1,14 @@
+AL_TRUE,VAR_0
+EINVAL,VAR_1
+UDMA_M2S_CFG_LEN_ENCODE_64K,VAR_2
+UDMA_M2S_CFG_LEN_MAX_PKT_SIZE_MASK,VAR_3
+UDMA_TX,VAR_4
+al_assert,FUNC_0
+al_err,FUNC_1
+al_reg_read32,FUNC_2
+al_reg_write32,FUNC_3
+al_udma_m2s_packet_size_cfg_set,FUNC_4
+udma,VAR_5
+conf,VAR_6
+reg,VAR_7
+max_supported_size,VAR_8

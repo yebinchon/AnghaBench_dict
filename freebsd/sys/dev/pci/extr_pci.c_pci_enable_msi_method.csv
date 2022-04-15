@@ -1,0 +1,17 @@
+PCIM_MSICTRL_64BIT,VAR_0
+PCIM_MSICTRL_MSI_ENABLE,VAR_1
+PCIR_MSI_ADDR,VAR_2
+PCIR_MSI_ADDR_HIGH,VAR_3
+PCIR_MSI_CTRL,VAR_4
+PCIR_MSI_DATA,VAR_5
+PCIR_MSI_DATA_64BIT,VAR_6
+device_get_ivars,FUNC_0
+pci_ht_map_msi,FUNC_1
+pci_write_config,FUNC_2
+pci_enable_msi_method,FUNC_3
+dev,VAR_7
+child,VAR_8
+address,VAR_9
+data,VAR_10
+dinfo,VAR_11
+msi,VAR_12

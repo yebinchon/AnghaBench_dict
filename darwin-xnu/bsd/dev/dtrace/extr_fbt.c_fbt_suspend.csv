@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+dtrace_membar_consumer,FUNC_1
+flush_dcache,FUNC_2
+invalidate_icache,FUNC_3
+ml_nofault_copy,FUNC_4
+fbt_suspend,FUNC_5
+arg,VAR_0
+id,VAR_1
+parg,VAR_2
+fbt,VAR_3
+ctl,VAR_4

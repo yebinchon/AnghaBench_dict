@@ -1,0 +1,16 @@
+BIO_ADDR_sockaddr,FUNC_0
+BIO_ADDR_sockaddr_size,FUNC_1
+BIO_clear_retry_flags,FUNC_2
+BIO_dgram_should_retry,FUNC_3
+BIO_set_retry_write,FUNC_4
+clear_socket_error,FUNC_5
+get_last_socket_error,FUNC_6
+sendto,FUNC_7
+writesocket,FUNC_8
+dgram_write,FUNC_9
+b,VAR_0
+in,VAR_1
+inl,VAR_2
+ret,VAR_3
+data,VAR_4
+peerlen,VAR_5

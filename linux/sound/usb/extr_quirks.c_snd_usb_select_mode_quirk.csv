@@ -1,0 +1,14 @@
+SNDRV_PCM_FMTBIT_DSD_U32_BE,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+is_itf_usb_dsd_dac,FUNC_0
+msleep,FUNC_1
+snd_usb_ctl_msg,FUNC_2
+usb_set_interface,FUNC_3
+usb_sndctrlpipe,FUNC_4
+snd_usb_select_mode_quirk,FUNC_5
+subs,VAR_4
+fmt,VAR_5
+dev,VAR_6
+err,VAR_7

@@ -1,0 +1,11 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+DBASSERT,FUNC_0
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+bus_dmamem_free,FUNC_4
+memset,FUNC_5
+bxe_dma_free,FUNC_6
+sc,VAR_2
+dma,VAR_3

@@ -1,0 +1,12 @@
+SST25L_CMD_RDSR,VAR_0
+memset,FUNC_0
+spi_message_add_tail,FUNC_1
+spi_message_init,FUNC_2
+spi_sync,FUNC_3
+sst25l_status,FUNC_4
+flash,VAR_1
+status,VAR_2
+m,VAR_3
+t,VAR_4
+cmd_resp,VAR_5
+err,VAR_6

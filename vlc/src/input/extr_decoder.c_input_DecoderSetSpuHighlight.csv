@@ -1,0 +1,14 @@
+SOUT_INPUT_SET_SPU_HIGHLIGHT,VAR_0
+SPU_ES,VAR_1
+VLC_EGENERIC,VAR_2
+VLC_SUCCESS,VAR_3
+assert,FUNC_0
+dec_get_owner,FUNC_1
+sout_InputControl,FUNC_2
+vlc_mutex_lock,FUNC_3
+vlc_mutex_unlock,FUNC_4
+vout_SetSpuHighlight,FUNC_5
+input_DecoderSetSpuHighlight,FUNC_6
+dec,VAR_4
+spu_hl,VAR_5
+p_owner,VAR_6

@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+REQ_OP_WRITE,VAR_1
+REQ_PREFLUSH,VAR_2
+bdev_get_queue,FUNC_0
+bio_alloc,FUNC_1
+bio_put,FUNC_2
+bio_set_dev,FUNC_3
+submit_bio_wait,FUNC_4
+blkdev_issue_flush,FUNC_5
+bdev,VAR_3
+gfp_mask,VAR_4
+error_sector,VAR_5
+q,VAR_6
+bio,VAR_7
+ret,VAR_8

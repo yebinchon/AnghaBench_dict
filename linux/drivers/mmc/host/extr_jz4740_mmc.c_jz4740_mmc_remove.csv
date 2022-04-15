@@ -1,0 +1,11 @@
+del_timer_sync,FUNC_0
+free_irq,FUNC_1
+jz4740_mmc_release_dma_channels,FUNC_2
+jz4740_mmc_reset,FUNC_3
+jz4740_mmc_set_irq_enabled,FUNC_4
+mmc_free_host,FUNC_5
+mmc_remove_host,FUNC_6
+platform_get_drvdata,FUNC_7
+jz4740_mmc_remove,FUNC_8
+pdev,VAR_0
+host,VAR_1

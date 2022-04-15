@@ -1,0 +1,11 @@
+TCPC_RX_DETECT,VAR_0
+TCPC_RX_DETECT_HARD_RESET,VAR_1
+TCPC_RX_DETECT_SOP,VAR_2
+regmap_write,FUNC_0
+tcpc_to_tcpci,FUNC_1
+tcpci_set_pd_rx,FUNC_2
+tcpc,VAR_3
+enable,VAR_4
+tcpci,VAR_5
+reg,VAR_6
+ret,VAR_7

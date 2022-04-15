@@ -1,0 +1,11 @@
+CTL_HA_CHAN_CTL,VAR_0
+CTL_IO_SCSI,VAR_1
+CTL_MSG_FINISH_IO,VAR_2
+M_WAITOK,VAR_3
+ctl_free_io,FUNC_0
+ctl_ha_msg_send,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+ctl_ha_done,FUNC_4
+io,VAR_4
+msg,VAR_5

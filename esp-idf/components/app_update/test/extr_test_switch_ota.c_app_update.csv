@@ -1,0 +1,13 @@
+OTA_SIZE_UNKNOWN,VAR_0
+TEST_ASSERT_NOT_NULL,FUNC_0
+TEST_ESP_OK,FUNC_1
+copy_app_partition,FUNC_2
+esp_ota_begin,FUNC_3
+esp_ota_end,FUNC_4
+esp_ota_get_next_update_partition,FUNC_5
+esp_ota_set_boot_partition,FUNC_6
+get_running_firmware,FUNC_7
+app_update,FUNC_8
+cur_app,VAR_1
+update_partition,VAR_2
+update_handle,VAR_3

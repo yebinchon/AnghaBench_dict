@@ -1,0 +1,16 @@
+DDP_FLAG_LAST,VAR_0
+DDP_FLAG_TAGGED,VAR_1
+MPA_CRC_SIZE,VAR_2
+MPA_HDR_SIZE,VAR_3
+__rdmap_get_opcode,FUNC_0
+cpu_to_be32,FUNC_1
+cpu_to_be64,FUNC_2
+crypto_shash_init,FUNC_3
+crypto_shash_update,FUNC_4
+htons,FUNC_5
+iwarp_pktinfo,VAR_4
+siw_prepare_fpdu,FUNC_6
+qp,VAR_5
+wqe,VAR_6
+c_tx,VAR_7
+data_len,VAR_8

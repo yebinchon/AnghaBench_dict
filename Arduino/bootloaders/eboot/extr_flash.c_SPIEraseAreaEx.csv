@@ -1,0 +1,11 @@
+FLASH_BLOCK_SIZE,VAR_0
+FLASH_SECTOR_SIZE,VAR_1
+SPIEraseBlock,FUNC_0
+SPIEraseSector,FUNC_1
+SPIEraseAreaEx,FUNC_2
+start,VAR_2
+size,VAR_3
+sectors_per_block,VAR_4
+current_sector,VAR_5
+sector_count,VAR_6
+end,VAR_7

@@ -1,0 +1,14 @@
+ATA_CMD_SET_FEATURES,VAR_0
+ATA_PROT_NODATA,VAR_1
+ATA_TFLAG_DEVICE,VAR_2
+ATA_TFLAG_ISADDR,VAR_3
+DMA_NONE,VAR_4
+DPRINTK,FUNC_0
+ata_exec_internal,FUNC_1
+ata_tf_init,FUNC_2
+ata_dev_set_feature,FUNC_3
+dev,VAR_5
+enable,VAR_6
+feature,VAR_7
+tf,VAR_8
+err_mask,VAR_9

@@ -1,0 +1,16 @@
+ATF_CHECK_EQ,FUNC_0
+ATF_CHECK_STREQ,FUNC_1
+CE,FUNC_2
+array_size,FUNC_3
+atf_list_fini,FUNC_4
+atf_list_index_c,FUNC_5
+atf_list_size,FUNC_6
+atf_text_split,FUNC_7
+printf,FUNC_8
+check_split,FUNC_9
+str,VAR_0
+delim,VAR_1
+words,VAR_2
+list,VAR_3
+word,VAR_4
+i,VAR_5

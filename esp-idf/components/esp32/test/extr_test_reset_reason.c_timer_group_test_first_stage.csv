@@ -1,0 +1,16 @@
+POWERON_RESET,VAR_0
+TEST_ASSERT,FUNC_0
+TEST_ASSERT_EQUAL,FUNC_1
+TIMER_0,VAR_1
+TIMER_GROUP_0,VAR_2
+TIMER_INTR_T0,VAR_3
+esp_restart,FUNC_2
+printf,FUNC_3
+rtc_get_reset_reason,FUNC_4
+timer_group_intr_get_in_isr,FUNC_5
+timer_group_test_init,FUNC_6
+timer_start,FUNC_7
+vTaskDelay,FUNC_8
+timer_group_test_first_stage,FUNC_9
+rst_res,VAR_4
+loop_cnt,VAR_5

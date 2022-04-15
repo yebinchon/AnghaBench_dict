@@ -1,0 +1,16 @@
+GetNumberOfIkeClientsFromIP,FUNC_0
+IKE_QUOTA_MAX_NUM_CLIENTS,VAR_0
+IKE_QUOTA_MAX_NUM_CLIENTS_PER_IP,VAR_1
+Insert,FUNC_1
+LIST_NUM,FUNC_2
+NewIkeClient,FUNC_3
+SearchIkeClientForIkePacket,FUNC_4
+SetIkeClientEndpoint,FUNC_5
+SearchOrCreateNewIkeClientForIkePacket,FUNC_6
+ike,VAR_2
+client_ip,VAR_3
+client_port,VAR_4
+server_ip,VAR_5
+server_port,VAR_6
+pr,VAR_7
+c,VAR_8

@@ -1,0 +1,12 @@
+TX_MULTIQ_STEERING,VAR_0
+VPATH_QUEUE_START,VAR_1
+VPATH_QUEUE_STOP,VAR_2
+netdev_get_tx_queue,FUNC_0
+netif_tx_queue_stopped,FUNC_1
+netif_tx_wake_queue,FUNC_2
+vxge_wake_tx_queue,FUNC_3
+fifo,VAR_3
+skb,VAR_4
+dev,VAR_5
+vpath_no,VAR_6
+txq,VAR_7

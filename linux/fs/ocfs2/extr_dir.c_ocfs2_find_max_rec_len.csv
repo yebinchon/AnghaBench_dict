@@ -1,0 +1,16 @@
+OCFS2_DIR_MIN_REC_LEN,VAR_0
+le16_to_cpu,FUNC_0
+ocfs2_dir_trailer_blk_off,FUNC_1
+ocfs2_figure_dirent_hole,FUNC_2
+ocfs2_trailer_from_bh,FUNC_3
+ocfs2_find_max_rec_len,FUNC_4
+sb,VAR_1
+dirblock_bh,VAR_2
+size,VAR_3
+this_hole,VAR_4
+largest_hole,VAR_5
+trailer,VAR_6
+de_buf,VAR_7
+limit,VAR_8
+start,VAR_9
+de,VAR_10

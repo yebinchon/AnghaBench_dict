@@ -1,0 +1,15 @@
+CQE_ADDL_STATUS_MASK,VAR_0
+CQE_ADDL_STATUS_SHIFT,VAR_1
+EIO,VAR_2
+be_decode_resp_hdr,FUNC_0
+be_mcc_notify,FUNC_1
+be_mcc_wait_compl,FUNC_2
+index_dec,FUNC_3
+queue_index_node,FUNC_4
+be_mcc_notify_wait,FUNC_5
+adapter,VAR_3
+status,VAR_4
+wrb,VAR_5
+mcc_obj,VAR_6
+index,VAR_7
+resp,VAR_8

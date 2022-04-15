@@ -1,0 +1,15 @@
+WPAD_DATA_ACCEL,VAR_0
+WPAD_DATA_EXPANSION,VAR_1
+WPAD_DATA_IR,VAR_2
+WPAD_ERR_NONE,VAR_3
+calc_joystick_state,FUNC_0
+calculate_gforce,FUNC_1
+calculate_orientation,FUNC_2
+interpret_ir_data,FUNC_3
+__wpad_calc_data,FUNC_4
+data,VAR_4
+lstate,VAR_5
+accel_calib,VAR_6
+smoothed,VAR_7
+nc,VAR_8
+cc,VAR_9

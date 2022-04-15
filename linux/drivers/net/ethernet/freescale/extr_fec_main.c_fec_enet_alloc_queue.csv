@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+FEC_MAX_SKB_DESCS,VAR_1
+GFP_KERNEL,VAR_2
+RX_RING_SIZE,VAR_3
+TSO_HEADER_SIZE,VAR_4
+TX_RING_SIZE,VAR_5
+dma_alloc_coherent,FUNC_0
+fec_enet_free_queue,FUNC_1
+kzalloc,FUNC_2
+netdev_priv,FUNC_3
+fec_enet_alloc_queue,FUNC_4
+ndev,VAR_6
+fep,VAR_7
+i,VAR_8
+ret,VAR_9
+txq,VAR_10

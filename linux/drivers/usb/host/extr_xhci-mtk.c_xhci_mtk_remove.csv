@@ -1,0 +1,16 @@
+device_init_wakeup,FUNC_0
+hcd_to_xhci,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_put_sync,FUNC_4
+usb_put_hcd,FUNC_5
+usb_remove_hcd,FUNC_6
+xhci_mtk_clks_disable,FUNC_7
+xhci_mtk_ldos_disable,FUNC_8
+xhci_mtk_sch_exit,FUNC_9
+xhci_mtk_remove,FUNC_10
+dev,VAR_0
+mtk,VAR_1
+hcd,VAR_2
+xhci,VAR_3
+shared_hcd,VAR_4

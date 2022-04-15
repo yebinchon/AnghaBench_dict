@@ -1,0 +1,15 @@
+ATA_TIMING_8BIT,VAR_0
+ATA_TIMING_SETUP,VAR_1
+XFER_PIO_0,VAR_2
+ata_dev_pair,FUNC_0
+ata_pio_need_iordy,FUNC_1
+ata_timing_compute,FUNC_2
+ata_timing_merge,FUNC_3
+ep93xx_pata_enable_pio,FUNC_4
+ep93xx_pata_set_piomode,FUNC_5
+ap,VAR_3
+adev,VAR_4
+drv_data,VAR_5
+pair,VAR_6
+T,VAR_7
+t,VAR_8

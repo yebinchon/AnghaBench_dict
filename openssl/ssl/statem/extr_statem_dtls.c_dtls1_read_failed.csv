@@ -1,0 +1,14 @@
+BIO_FLAGS_READ,VAR_0
+BIO_set_flags,FUNC_0
+ERR_R_INTERNAL_ERROR,VAR_1
+SSL_AD_INTERNAL_ERROR,VAR_2
+SSL_F_DTLS1_READ_FAILED,VAR_3
+SSL_get_rbio,FUNC_1
+SSL_in_init,FUNC_2
+SSLfatal,FUNC_3
+dtls1_handle_timeout,FUNC_4
+dtls1_is_timer_expired,FUNC_5
+ossl_statem_in_error,FUNC_6
+dtls1_read_failed,FUNC_7
+s,VAR_4
+code,VAR_5

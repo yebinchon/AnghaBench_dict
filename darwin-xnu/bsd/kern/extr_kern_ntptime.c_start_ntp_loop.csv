@@ -1,0 +1,11 @@
+NTP_LOCK,FUNC_0
+NTP_UNLOCK,FUNC_1
+TIMER_CALL_SYS_CRITICAL,VAR_0
+mach_absolute_time,FUNC_2
+ntp_loop_active,VAR_1
+ntp_loop_deadline,VAR_2
+ntp_loop_period,VAR_3
+ntp_loop_update,VAR_4
+timer_call_enter,FUNC_3
+start_ntp_loop,FUNC_4
+enable,VAR_5

@@ -1,0 +1,11 @@
+RADEON_RESET_COMPUTE,VAR_0
+RADEON_RESET_CP,VAR_1
+RADEON_RESET_GFX,VAR_2
+cayman_gpu_check_soft_reset,FUNC_0
+radeon_ring_force_activity,FUNC_1
+radeon_ring_lockup_update,FUNC_2
+radeon_ring_test_lockup,FUNC_3
+cayman_gfx_is_lockup,FUNC_4
+rdev,VAR_3
+ring,VAR_4
+reset_mask,VAR_5

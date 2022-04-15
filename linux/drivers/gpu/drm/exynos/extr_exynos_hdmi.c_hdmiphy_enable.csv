@@ -1,0 +1,15 @@
+ARRAY_SIZE,FUNC_0
+DRM_DEV_DEBUG_KMS,FUNC_1
+HDMI_PHY_CON_0,VAR_0
+HDMI_PHY_POWER_OFF_EN,VAR_1
+PMU_HDMI_PHY_CONTROL,VAR_2
+PMU_HDMI_PHY_ENABLE_BIT,VAR_3
+hdmi_reg_writemask,FUNC_2
+hdmi_set_refclk,FUNC_3
+hdmiphy_conf_apply,FUNC_4
+pm_runtime_get_sync,FUNC_5
+regmap_update_bits,FUNC_6
+regulator_bulk_enable,FUNC_7
+supply,VAR_4
+hdmiphy_enable,FUNC_8
+hdata,VAR_5

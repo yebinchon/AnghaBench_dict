@@ -1,0 +1,14 @@
+CQE_OPCODE,FUNC_0
+CQE_TS,FUNC_1
+CQE_WRID_MSN,FUNC_2
+CQE_WRID_SQ_IDX,FUNC_3
+FW_RI_RECEIVE,VAR_0
+SQ_TYPE,FUNC_4
+atomic_inc_return,FUNC_5
+cxgb4_read_sge_timestamp,FUNC_6
+ktime_get,FUNC_7
+c4iw_log_wr_stats,FUNC_8
+wq,VAR_1
+cqe,VAR_2
+le,VAR_3
+idx,VAR_4

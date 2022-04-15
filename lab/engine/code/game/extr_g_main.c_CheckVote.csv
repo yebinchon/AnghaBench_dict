@@ -1,0 +1,9 @@
+CS_VOTE_TIME,VAR_0
+EXEC_APPEND,VAR_1
+VOTE_TIME,VAR_2
+level,VAR_3
+trap_SendConsoleCommand,FUNC_0
+trap_SendServerCommand,FUNC_1
+trap_SetConfigstring,FUNC_2
+va,FUNC_3
+CheckVote,FUNC_4

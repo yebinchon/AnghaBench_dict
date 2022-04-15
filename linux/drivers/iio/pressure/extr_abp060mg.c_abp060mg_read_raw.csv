@@ -1,0 +1,16 @@
+ABP060MG_NUM_COUNTS,VAR_0
+EINVAL,VAR_1
+IIO_VAL_FRACTIONAL,VAR_2
+IIO_VAL_INT,VAR_3
+abp060mg_get_measurement,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+abp060mg_read_raw,FUNC_4
+indio_dev,VAR_4
+chan,VAR_5
+val,VAR_6
+val2,VAR_7
+mask,VAR_8
+state,VAR_9
+ret,VAR_10

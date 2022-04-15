@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+PKT_BUF_SZ,VAR_2
+RX_RING_SIZE,VAR_3
+TX_RING_SIZE,VAR_4
+dev_err,FUNC_0
+dma_alloc_coherent,FUNC_1
+dma_free_coherent,FUNC_2
+kmalloc,FUNC_3
+netdev_priv,FUNC_4
+sh_eth_ring_free,FUNC_5
+sh_eth_ring_init,FUNC_6
+ndev,VAR_5
+mdp,VAR_6
+rx_ringsize,VAR_7
+tx_ringsize,VAR_8
+ret,VAR_9

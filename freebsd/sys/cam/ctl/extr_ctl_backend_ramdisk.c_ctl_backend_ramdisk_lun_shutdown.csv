@@ -1,0 +1,14 @@
+CTL_BE_RAMDISK_LUN_UNCONFIGURED,VAR_0
+CTL_BE_RAMDISK_LUN_WAITING,VAR_1
+M_RAMDISK,VAR_2
+STAILQ_REMOVE,FUNC_0
+ctl_be_ramdisk_lun,VAR_3
+free,FUNC_1
+links,VAR_4
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+wakeup,FUNC_4
+ctl_backend_ramdisk_lun_shutdown,FUNC_5
+be_lun,VAR_5
+lun,VAR_6
+softc,VAR_7

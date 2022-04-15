@@ -1,0 +1,12 @@
+TG0_WDT_TICK_US,VAR_0
+TIMERG0,VAR_1
+TIMERG1,VAR_2
+TIMER_WDT_RESET_SYSTEM,VAR_3
+timer_ll_wdt_feed,FUNC_0
+timer_ll_wdt_init,FUNC_1
+timer_ll_wdt_set_enable,FUNC_2
+timer_ll_wdt_set_protect,FUNC_3
+timer_ll_wdt_set_tick,FUNC_4
+timer_ll_wdt_set_timeout,FUNC_5
+timer_ll_wdt_set_timeout_behavior,FUNC_6
+reconfigureAllWdts,FUNC_7

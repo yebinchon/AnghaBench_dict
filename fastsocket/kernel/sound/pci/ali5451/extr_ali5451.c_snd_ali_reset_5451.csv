@@ -1,0 +1,11 @@
+AC97_POWERDOWN,VAR_0
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+snd_ali_codec_peek,FUNC_2
+udelay,FUNC_3
+snd_ali_reset_5451,FUNC_4
+codec,VAR_1
+pci_dev,VAR_2
+wCount,VAR_3
+wReg,VAR_4
+dwVal,VAR_5

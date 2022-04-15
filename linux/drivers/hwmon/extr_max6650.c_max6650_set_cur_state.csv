@@ -1,0 +1,16 @@
+MAX6650_CFG_MODE_OFF,VAR_0
+MAX6650_CFG_MODE_OPEN_LOOP,VAR_1
+MAX6650_CFG_V12,VAR_2
+MAX6650_REG_DAC,VAR_3
+clamp_val,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+max6650_set_operating_mode,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pwm_to_dac,FUNC_5
+max6650_set_cur_state,FUNC_6
+cdev,VAR_4
+state,VAR_5
+data,VAR_6
+client,VAR_7
+err,VAR_8

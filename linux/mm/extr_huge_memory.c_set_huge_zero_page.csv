@@ -1,0 +1,14 @@
+mk_pmd,FUNC_0
+mm_inc_nr_ptes,FUNC_1
+pgtable_trans_huge_deposit,FUNC_2
+pmd_mkhuge,FUNC_3
+pmd_none,FUNC_4
+set_pmd_at,FUNC_5
+set_huge_zero_page,FUNC_6
+pgtable,VAR_0
+mm,VAR_1
+vma,VAR_2
+haddr,VAR_3
+pmd,VAR_4
+zero_page,VAR_5
+entry,VAR_6

@@ -1,0 +1,10 @@
+PLAY_SERVICE,VAR_0
+SBUF_NUM,VAR_1
+TLG_TUNE_PLAY_SVC_STOP,VAR_2
+send_set_req,FUNC_0
+usb_kill_urb,FUNC_1
+usb_transfer_stop,FUNC_2
+video,VAR_3
+i,VAR_4
+cmd_status,VAR_5
+pd,VAR_6

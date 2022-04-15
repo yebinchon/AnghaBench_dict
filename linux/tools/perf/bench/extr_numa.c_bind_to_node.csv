@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+CPU_SET,FUNC_1
+CPU_ZERO,FUNC_2
+NUMA_NO_NODE,VAR_0
+g,VAR_1
+nr_numa_nodes,FUNC_3
+sched_getaffinity,FUNC_4
+sched_setaffinity,FUNC_5
+bind_to_node,FUNC_6
+target_node,VAR_2
+cpus_per_node,VAR_3
+orig_mask,VAR_4
+mask,VAR_5
+cpu,VAR_6
+ret,VAR_7
+cpu_start,VAR_8
+cpu_stop,VAR_9

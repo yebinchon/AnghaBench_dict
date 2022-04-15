@@ -1,0 +1,17 @@
+GC_LOCK,FUNC_0
+GC_UNLOCK,FUNC_1
+callout_reset,FUNC_2
+gxemul_cons_alt_break_state,VAR_0
+gxemul_cons_callout,VAR_1
+gxemul_cons_polltime,VAR_2
+gxemul_cons_read,FUNC_3
+gxemul_cons_readable,FUNC_4
+kdb_alt_break,FUNC_5
+tty_lock,FUNC_6
+tty_unlock,FUNC_7
+ttydisc_rint,FUNC_8
+ttydisc_rint_done,FUNC_9
+gxemul_cons_timeout,FUNC_10
+v,VAR_3
+tp,VAR_4
+c,VAR_5

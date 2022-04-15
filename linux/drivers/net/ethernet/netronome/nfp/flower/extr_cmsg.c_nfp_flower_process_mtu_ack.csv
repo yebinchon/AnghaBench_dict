@@ -1,0 +1,12 @@
+NFP_FLOWER_CMSG_PORTMOD_MTU_CHANGE_ONLY,VAR_0
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+nfp_flower_cmsg_get_data,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+wake_up,FUNC_5
+nfp_flower_process_mtu_ack,FUNC_6
+app,VAR_1
+skb,VAR_2
+app_priv,VAR_3
+msg,VAR_4

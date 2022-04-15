@@ -1,0 +1,11 @@
+SPIF_SENDCHANGE,VAR_0
+SPI_SETFOREGROUNDLOCKTIMEOUT,VAR_1
+SystemParametersInfoW,FUNC_0
+UIntToPtr,FUNC_1
+_glfw,VAR_2
+_glfwTerminateContextAPI,FUNC_2
+_glfwTerminateJoysticks,FUNC_3
+_glfwUnregisterWindowClass,FUNC_4
+free,FUNC_5
+terminateLibraries,FUNC_6
+_glfwPlatformTerminate,FUNC_7

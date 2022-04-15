@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+EIO,VAR_0
+S_ISREG,FUNC_1
+blkdev_issue_flush,FUNC_2
+reiserfs_barrier_flush,FUNC_3
+reiserfs_commit_for_inode,FUNC_4
+reiserfs_write_lock,FUNC_5
+reiserfs_write_unlock,FUNC_6
+sync_mapping_buffers,FUNC_7
+reiserfs_sync_file,FUNC_8
+filp,VAR_1
+dentry,VAR_2
+datasync,VAR_3
+inode,VAR_4
+err,VAR_5
+barrier_done,VAR_6

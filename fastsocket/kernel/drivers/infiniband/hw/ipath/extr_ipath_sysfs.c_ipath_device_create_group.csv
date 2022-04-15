@@ -1,0 +1,14 @@
+IPATH_HAS_MULT_IB_SPEED,VAR_0
+dev_attr_group,VAR_1
+dev_attr_jint_idle_ticks,VAR_2
+dev_attr_jint_max_packets,VAR_3
+dev_counter_attr_group,VAR_4
+dev_ibcfg_attr_group,VAR_5
+device_create_file,FUNC_0
+device_remove_file,FUNC_1
+sysfs_create_group,FUNC_2
+sysfs_remove_group,FUNC_3
+ipath_device_create_group,FUNC_4
+dev,VAR_6
+dd,VAR_7
+ret,VAR_8

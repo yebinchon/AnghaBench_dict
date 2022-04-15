@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+IB_QPT_GSI,VAR_2
+MLX4_NUM_TUNNEL_BUFS,VAR_3
+ib_destroy_ah,FUNC_0
+ib_dma_unmap_single,FUNC_1
+kfree,FUNC_2
+mlx4_ib_free_pv_qp_bufs,FUNC_3
+ctx,VAR_4
+qp_type,VAR_5
+is_tun,VAR_6
+i,VAR_7
+tun_qp,VAR_8
+rx_buf_size,VAR_9
+tx_buf_size,VAR_10

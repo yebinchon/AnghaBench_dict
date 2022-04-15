@@ -1,0 +1,12 @@
+PNX8XXX_LCR,VAR_0
+PNX8XXX_UART_LCR_TXBREAK,VAR_1
+serial_in,FUNC_0
+serial_out,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+pnx8xxx_break_ctl,FUNC_4
+port,VAR_2
+break_state,VAR_3
+sport,VAR_4
+flags,VAR_5
+lcr,VAR_6

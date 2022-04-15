@@ -1,0 +1,11 @@
+ENOMEM,VAR_0
+NL80211_MESH_POWER_ACTIVE,VAR_1
+WLAN_EID_MESH_AWAKE_WINDOW,VAR_2
+put_unaligned_le16,FUNC_0
+skb_put,FUNC_1
+skb_tailroom,FUNC_2
+mesh_add_awake_window_ie,FUNC_3
+sdata,VAR_3
+skb,VAR_4
+ifmsh,VAR_5
+pos,VAR_6

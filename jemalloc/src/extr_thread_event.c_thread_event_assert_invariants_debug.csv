@@ -1,0 +1,17 @@
+THREAD_ALLOCATED_NEXT_EVENT_FAST_MAX,VAR_0
+THREAD_EVENT_MAX_INTERVAL,VAR_1
+assert,FUNC_0
+thread_allocated_get,FUNC_1
+thread_allocated_last_event_get,FUNC_2
+thread_allocated_next_event_compute,FUNC_3
+thread_allocated_next_event_fast_get,FUNC_4
+thread_allocated_next_event_get,FUNC_5
+thread_event_active,VAR_2
+thread_event_assert_invariants_debug,FUNC_6
+tsd,VAR_3
+thread_allocated,VAR_4
+last_event,VAR_5
+next_event,VAR_6
+next_event_fast,VAR_7
+interval,VAR_8
+min_wait,VAR_9

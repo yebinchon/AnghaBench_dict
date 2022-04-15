@@ -1,0 +1,13 @@
+MEM_writeLE24,FUNC_0
+RETURN_ERROR_IF,FUNC_1
+ZSTD_blockHeaderSize,VAR_0
+bt_raw,VAR_1
+dstSize_tooSmall,VAR_2
+memcpy,FUNC_2
+ZSTD_noCompressBlock,FUNC_3
+dst,VAR_3
+dstCapacity,VAR_4
+src,VAR_5
+srcSize,VAR_6
+lastBlock,VAR_7
+cBlockHeader24,VAR_8

@@ -1,0 +1,11 @@
+PCI_DEVICE_ID_INTEL_JAKETOWN_UBOX,VAR_0
+PCI_VENDOR_ID_INTEL,VAR_1
+pci_get_device,FUNC_0
+pci_read_config_dword,FUNC_1
+pcibus_to_physid,VAR_2
+snbep_pci2phy_map_init,FUNC_2
+ubox_dev,VAR_3
+i,VAR_4
+bus,VAR_5
+nodeid,VAR_6
+config,VAR_7

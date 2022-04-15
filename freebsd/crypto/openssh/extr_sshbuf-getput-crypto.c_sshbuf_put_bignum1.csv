@@ -1,0 +1,17 @@
+BN_bn2bin,FUNC_0
+BN_num_bits,FUNC_1
+POKE_U16,FUNC_2
+SSHBUF_MAX_BIGNUM,VAR_0
+SSH_ERR_INTERNAL_ERROR,VAR_1
+SSH_ERR_INVALID_ARGUMENT,VAR_2
+explicit_bzero,FUNC_3
+memcpy,FUNC_4
+sshbuf_reserve,FUNC_5
+sshbuf_put_bignum1,FUNC_6
+buf,VAR_3
+v,VAR_4
+r,VAR_5
+len_bits,VAR_6
+len_bytes,VAR_7
+d,VAR_8
+dp,VAR_9

@@ -1,0 +1,14 @@
+CPSW_DEBUGF,FUNC_0
+CPSW_PORT_LOCK,FUNC_1
+CPSW_PORT_UNLOCK,FUNC_2
+bus_generic_detach,FUNC_3
+callout_drain,FUNC_4
+cpswp_stop_locked,FUNC_5
+device_get_softc,FUNC_6
+device_is_attached,FUNC_7
+ether_ifdetach,FUNC_8
+if_free,FUNC_9
+mtx_destroy,FUNC_10
+cpswp_detach,FUNC_11
+dev,VAR_0
+sc,VAR_1

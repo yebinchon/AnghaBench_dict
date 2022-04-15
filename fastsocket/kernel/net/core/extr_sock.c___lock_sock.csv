@@ -1,0 +1,11 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+finish_wait,FUNC_1
+prepare_to_wait_exclusive,FUNC_2
+schedule,FUNC_3
+sock_owned_by_user,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+wait,VAR_1
+__lock_sock,FUNC_7
+sk,VAR_2

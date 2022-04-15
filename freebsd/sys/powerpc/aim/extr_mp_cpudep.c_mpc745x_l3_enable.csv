@@ -1,0 +1,12 @@
+DELAY,FUNC_0
+L3CR_L3CLKEN,VAR_0
+L3CR_L3E,VAR_1
+L3CR_L3I,VAR_2
+L3CR_L3PE,VAR_3
+SPR_L3CR,VAR_4
+mfspr,FUNC_1
+mtspr,FUNC_2
+powerpc_sync,FUNC_3
+mpc745x_l3_enable,FUNC_4
+l3cr_config,VAR_5
+ccr,VAR_6

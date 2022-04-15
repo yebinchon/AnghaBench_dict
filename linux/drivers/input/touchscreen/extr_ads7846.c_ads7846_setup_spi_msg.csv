@@ -1,0 +1,15 @@
+CS_CHANGE,FUNC_0
+PWRDOWN,VAR_0
+READ_X,FUNC_1
+READ_Y,FUNC_2
+READ_Z1,FUNC_3
+READ_Z2,FUNC_4
+spi_message_add_tail,FUNC_5
+spi_message_init,FUNC_6
+ads7846_setup_spi_msg,FUNC_7
+ts,VAR_1
+pdata,VAR_2
+m,VAR_3
+x,VAR_4
+packet,VAR_5
+vref,VAR_6

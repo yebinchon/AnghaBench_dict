@@ -1,0 +1,12 @@
+CTRL1_CUR_FRAME_DONE_IRQ,VAR_0
+CTRL1_CUR_FRAME_DONE_IRQ_EN,VAR_1
+LCDC_CTRL1,VAR_2
+REG_CLR,VAR_3
+REG_SET,VAR_4
+drm_pipe_to_mxsfb_drm_private,FUNC_0
+mxsfb_disable_axi_clk,FUNC_1
+mxsfb_enable_axi_clk,FUNC_2
+writel,FUNC_3
+mxsfb_pipe_enable_vblank,FUNC_4
+pipe,VAR_5
+mxsfb,VAR_6

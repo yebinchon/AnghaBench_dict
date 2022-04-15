@@ -1,0 +1,15 @@
+CMD_SUCCESS,VAR_0
+EXPECTED_EQUAL_TO,VAR_1
+SWAY_INFO,VAR_2
+WRAP_FORCE,VAR_3
+WRAP_YES,VAR_4
+checkarg,FUNC_0
+cmd_results_new,FUNC_1
+config,VAR_5
+config_add_swaynag_warning,FUNC_2
+parse_boolean,FUNC_3
+sway_log,FUNC_4
+cmd_force_focus_wrapping,FUNC_5
+argc,VAR_6
+argv,VAR_7
+error,VAR_8

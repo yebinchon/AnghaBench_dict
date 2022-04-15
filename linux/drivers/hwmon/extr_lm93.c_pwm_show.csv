@@ -1,0 +1,17 @@
+LM93_PWM_CTL2,VAR_0
+LM93_PWM_CTL4,VAR_1
+LM93_PWM_FROM_REG,FUNC_0
+LM93_PWM_MAP_HI_FREQ,VAR_2
+LM93_PWM_MAP_LO_FREQ,VAR_3
+lm93_update_device,FUNC_1
+sprintf,FUNC_2
+to_sensor_dev_attr,FUNC_3
+pwm_show,FUNC_4
+dev,VAR_4
+attr,VAR_5
+buf,VAR_6
+nr,VAR_7
+data,VAR_8
+ctl2,VAR_9
+ctl4,VAR_10
+rc,VAR_11

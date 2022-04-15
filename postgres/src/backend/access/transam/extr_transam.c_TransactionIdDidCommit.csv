@@ -1,0 +1,13 @@
+SubTransGetParent,FUNC_0
+TRANSACTION_STATUS_COMMITTED,VAR_0
+TRANSACTION_STATUS_SUB_COMMITTED,VAR_1
+TransactionIdIsValid,FUNC_1
+TransactionIdPrecedes,FUNC_2
+TransactionLogFetch,FUNC_3
+TransactionXmin,VAR_2
+WARNING,VAR_3
+elog,FUNC_4
+TransactionIdDidCommit,FUNC_5
+transactionId,VAR_4
+xidstatus,VAR_5
+parentXid,VAR_6

@@ -1,0 +1,14 @@
+CDR1_REQ,VAR_0
+CEC_MAX_MSG_SIZE,VAR_1
+REG_CCONR,VAR_2
+REG_CDR0,VAR_3
+memcpy,FUNC_0
+tda9950_write,FUNC_1
+tda9950_write_range,FUNC_2
+tda9950_cec_transmit,FUNC_3
+adap,VAR_4
+attempts,VAR_5
+signal_free_time,VAR_6
+msg,VAR_7
+priv,VAR_8
+buf,VAR_9

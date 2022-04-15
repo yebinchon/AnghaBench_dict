@@ -1,0 +1,10 @@
+CMD_04_GET_EVENT,VAR_0
+lx_message_init,FUNC_0
+lx_message_send_atomic,FUNC_1
+memcpy,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+lx_dsp_read_async_events,FUNC_5
+chip,VAR_1
+data,VAR_2
+ret,VAR_3

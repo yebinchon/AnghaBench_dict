@@ -1,0 +1,15 @@
+Assert,FUNC_0
+HASH_ENTER,VAR_0
+LWLockAcquire,FUNC_1
+LWLockHeldByMe,FUNC_2
+LWLockRelease,FUNC_3
+LW_EXCLUSIVE,VAR_1
+PredicateLockTargetHash,VAR_2
+ScratchPartitionLock,VAR_3
+ScratchTargetTag,VAR_4
+ScratchTargetTagHash,VAR_5
+SerializablePredicateLockListLock,VAR_6
+hash_search_with_hash_value,FUNC_4
+RestoreScratchTarget,FUNC_5
+lockheld,VAR_7
+found,VAR_8

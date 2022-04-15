@@ -1,0 +1,11 @@
+DB_CQ_NUM_POPPED_SHIFT,VAR_0
+DB_CQ_OFFSET,VAR_1
+DB_CQ_REARM_SHIFT,VAR_2
+DB_CQ_RING_ID_MASK,VAR_3
+iowrite32,FUNC_0
+beiscsi_cq_notify,FUNC_1
+phba,VAR_4
+qid,VAR_5
+arm,VAR_6
+num_popped,VAR_7
+val,VAR_8

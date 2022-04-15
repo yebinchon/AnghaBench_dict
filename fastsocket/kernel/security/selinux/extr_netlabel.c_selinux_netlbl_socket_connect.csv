@@ -1,0 +1,17 @@
+AF_UNSPEC,VAR_0
+ENOMEM,VAR_1
+NLBL_CONNLABELED,VAR_2
+NLBL_REQSKB,VAR_3
+bh_lock_sock_nested,FUNC_0
+bh_unlock_sock,FUNC_1
+local_bh_disable,FUNC_2
+local_bh_enable,FUNC_3
+netlbl_conn_setattr,FUNC_4
+netlbl_sock_delattr,FUNC_5
+selinux_netlbl_sock_genattr,FUNC_6
+selinux_netlbl_socket_connect,FUNC_7
+sk,VAR_4
+addr,VAR_5
+rc,VAR_6
+sksec,VAR_7
+secattr,VAR_8

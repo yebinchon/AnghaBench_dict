@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+SDEV_BLOCK,VAR_1
+SDEV_CANCEL,VAR_2
+SDEV_CREATED,VAR_3
+SDEV_CREATED_BLOCK,VAR_4
+SDEV_OFFLINE,VAR_5
+SDEV_TRANSPORT_OFFLINE,VAR_6
+blk_start_queue,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+__scsi_internal_device_unblock,FUNC_3
+sdev,VAR_7
+new_state,VAR_8
+q,VAR_9
+flags,VAR_10

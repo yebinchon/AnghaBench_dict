@@ -1,0 +1,15 @@
+HDA_DSP_CL_TRIGGER_TIMEOUT,VAR_0
+HDA_DSP_HDA_BAR,VAR_1
+SOF_HDA_CL_DMA_SD_INT_MASK,VAR_2
+SOF_HDA_INTCTL,VAR_3
+SOF_HDA_SD_CTL_DMA_START,VAR_4
+SOF_STREAM_SD_OFFSET,FUNC_0
+hda_dsp_stream_trigger,FUNC_1
+snd_sof_dsp_update_bits,FUNC_2
+wait_event_timeout,FUNC_3
+cl_trigger,FUNC_4
+sdev,VAR_5
+stream,VAR_6
+cmd,VAR_7
+hstream,VAR_8
+sd_offset,VAR_9

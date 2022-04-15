@@ -1,0 +1,10 @@
+MAX6642_REG_R_CONFIG,VAR_0
+MAX6642_REG_R_LOCAL_HIGH,VAR_1
+MAX6642_REG_R_REMOTE_HIGH,VAR_2
+MAX6642_REG_W_CONFIG,VAR_3
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+max6642_init_client,FUNC_2
+data,VAR_4
+client,VAR_5
+config,VAR_6

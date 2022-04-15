@@ -1,0 +1,10 @@
+DMA_BIDIRECTIONAL,VAR_0
+DMA_FROM_DEVICE,VAR_1
+SENSE_SIZE,VAR_2
+TOTAL_SG_ENTRY,VAR_3
+dma_unmap_single,FUNC_0
+scsi_dma_unmap,FUNC_1
+scsi_sg_count,FUNC_2
+i91u_unmap_scb,FUNC_3
+pci_dev,VAR_4
+cmnd,VAR_5

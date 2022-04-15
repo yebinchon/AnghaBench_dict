@@ -1,0 +1,14 @@
+BTA_DM_API_BLE_SCAN_FIL_PARAM_EVT,VAR_0
+bta_sys_sendmsg,FUNC_0
+memset,FUNC_1
+osi_malloc,FUNC_2
+BTA_DmSetBleScanFilterParams,FUNC_3
+client_if,VAR_1
+scan_interval,VAR_2
+scan_window,VAR_3
+scan_mode,VAR_4
+scan_fil_poilcy,VAR_5
+addr_type_own,VAR_6
+scan_duplicate_filter,VAR_7
+scan_param_setup_cback,VAR_8
+p_msg,VAR_9

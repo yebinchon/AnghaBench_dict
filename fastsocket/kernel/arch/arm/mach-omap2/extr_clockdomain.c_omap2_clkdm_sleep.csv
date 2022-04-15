@@ -1,0 +1,16 @@
+BUG,FUNC_0
+CLKDM_CAN_FORCE_SLEEP,VAR_0
+CM_CLKSTCTRL,VAR_1
+EINVAL,VAR_2
+OMAP24XX_FORCESTATE,VAR_3
+OMAP34XX_CLKSTCTRL_FORCE_SLEEP,VAR_4
+PM_PWSTCTRL,VAR_5
+__ffs,FUNC_1
+cm_rmw_mod_reg_bits,FUNC_2
+cm_set_mod_reg_bits,FUNC_3
+cpu_is_omap24xx,FUNC_4
+cpu_is_omap34xx,FUNC_5
+pr_debug,FUNC_6
+omap2_clkdm_sleep,FUNC_7
+clkdm,VAR_6
+v,VAR_7

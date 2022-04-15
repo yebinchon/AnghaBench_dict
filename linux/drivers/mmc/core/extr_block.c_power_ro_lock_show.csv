@@ -1,0 +1,15 @@
+EXT_CSD_BOOT_WP_B_PERM_WP_EN,VAR_0
+EXT_CSD_BOOT_WP_B_PWR_WP_EN,VAR_1
+PAGE_SIZE,VAR_2
+dev_to_disk,FUNC_0
+mmc_blk_get,FUNC_1
+mmc_blk_put,FUNC_2
+snprintf,FUNC_3
+power_ro_lock_show,FUNC_4
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+ret,VAR_6
+md,VAR_7
+card,VAR_8
+locked,VAR_9

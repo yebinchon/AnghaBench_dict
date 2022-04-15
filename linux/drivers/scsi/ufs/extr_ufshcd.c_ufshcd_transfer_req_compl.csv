@@ -1,0 +1,10 @@
+REG_UTP_TRANSFER_REQ_DOOR_BELL,VAR_0
+UFSHCI_QUIRK_SKIP_RESET_INTR_AGGR,VAR_1
+__ufshcd_transfer_req_compl,FUNC_0
+ufshcd_is_intr_aggr_allowed,FUNC_1
+ufshcd_readl,FUNC_2
+ufshcd_reset_intr_aggr,FUNC_3
+ufshcd_transfer_req_compl,FUNC_4
+hba,VAR_2
+completed_reqs,VAR_3
+tr_doorbell,VAR_4

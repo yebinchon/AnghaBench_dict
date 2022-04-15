@@ -1,0 +1,11 @@
+KVM_SREGS_E_BASE,VAR_0
+KVM_SREGS_E_UPDATE_DEC,VAR_1
+KVM_SREGS_E_UPDATE_TSR,VAR_2
+kvmppc_emulate_dec,FUNC_0
+kvmppc_set_dar,FUNC_1
+kvmppc_set_esr,FUNC_2
+kvmppc_set_tcr,FUNC_3
+kvmppc_set_tsr,FUNC_4
+set_sregs_base,FUNC_5
+vcpu,VAR_3
+sregs,VAR_4

@@ -1,0 +1,13 @@
+MSP_WR_DSP,VAR_0
+SendDAC,FUNC_0
+dprintk,FUNC_1
+i2c_writereg,FUNC_2
+msp_writereg,FUNC_3
+av7110_set_volume,FUNC_4
+av7110,VAR_1
+volleft,VAR_2
+volright,VAR_3
+err,VAR_4
+vol,VAR_5
+val,VAR_6
+balance,VAR_7

@@ -1,0 +1,8 @@
+BIT,FUNC_0
+REG_PIO_CLR_POUT,VAR_0
+REG_PIO_SET_POUT,VAR_1
+writel,FUNC_1
+__st_gpio_set,FUNC_2
+bank,VAR_2
+offset,VAR_3
+value,VAR_4

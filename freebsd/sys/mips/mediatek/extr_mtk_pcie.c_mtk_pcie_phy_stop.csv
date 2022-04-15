@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+MTK_SOC_MT7621,VAR_1
+SYSCTL_MT7621_REV_E,VAR_2
+SYSCTL_REVID,VAR_3
+SYSCTL_REVID_MASK,VAR_4
+device_get_softc,FUNC_0
+fdt_clock_disable_all,FUNC_1
+fdt_reset_assert_all,FUNC_2
+fdt_reset_deassert_all,FUNC_3
+mtk_sysctl_get,FUNC_4
+mtk_pcie_phy_stop,FUNC_5
+dev,VAR_5
+sc,VAR_6

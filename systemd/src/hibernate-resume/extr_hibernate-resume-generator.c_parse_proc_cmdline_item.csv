@@ -1,0 +1,16 @@
+arg_noresume,VAR_0
+arg_resume_device,VAR_1
+arg_resume_options,VAR_2
+arg_root_options,VAR_3
+free_and_replace,FUNC_0
+fstab_node_to_udev_node,FUNC_1
+log_oom,FUNC_2
+log_warning,FUNC_3
+proc_cmdline_value_missing,FUNC_4
+streq,FUNC_5
+strextend_with_separator,FUNC_6
+parse_proc_cmdline_item,FUNC_7
+key,VAR_4
+value,VAR_5
+data,VAR_6
+s,VAR_7

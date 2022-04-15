@@ -1,0 +1,13 @@
+ANY_PHASE_ID,VAR_0
+GET_FIELD,FUNC_0
+INIT_IF_PHASE_OP_CMD_OFFSET,VAR_1
+INIT_IF_PHASE_OP_PHASE,VAR_2
+INIT_IF_PHASE_OP_PHASE_ID,VAR_3
+le32_to_cpu,FUNC_1
+qed_init_cmd_phase,FUNC_2
+p_hwfn,VAR_4
+p_cmd,VAR_5
+phase,VAR_6
+phase_id,VAR_7
+data,VAR_8
+op_data,VAR_9

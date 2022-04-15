@@ -1,0 +1,17 @@
+ArchiveRecoveryRequested,VAR_0
+ControlFile,VAR_1
+ERROR,VAR_2
+EnableHotStandby,VAR_3
+MaxConnections,VAR_4
+RecoveryRequiresIntParameter,FUNC_0
+WAL_LEVEL_MINIMAL,VAR_5
+WAL_LEVEL_REPLICA,VAR_6
+WARNING,VAR_7
+ereport,FUNC_1
+errhint,FUNC_2
+errmsg,FUNC_3
+max_locks_per_xact,VAR_8
+max_prepared_xacts,VAR_9
+max_wal_senders,VAR_10
+max_worker_processes,VAR_11
+CheckRequiredParameterValues,FUNC_4

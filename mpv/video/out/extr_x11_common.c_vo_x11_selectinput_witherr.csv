@@ -1,0 +1,14 @@
+ButtonPressMask,VAR_0
+ButtonReleaseMask,VAR_1
+MP_ERR,FUNC_0
+NoEventMask,VAR_2
+PointerMotionMask,VAR_3
+XGetWindowAttributes,FUNC_1
+XSelectInput,FUNC_2
+vo_x11_selectinput_witherr,FUNC_3
+vo,VAR_4
+display,VAR_5
+w,VAR_6
+event_mask,VAR_7
+a,VAR_8
+bad,VAR_9

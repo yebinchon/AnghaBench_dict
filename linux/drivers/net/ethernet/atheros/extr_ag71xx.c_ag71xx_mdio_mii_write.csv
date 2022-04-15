@@ -1,0 +1,13 @@
+AG71XX_REG_MII_ADDR,VAR_0
+AG71XX_REG_MII_CTRL,VAR_1
+MII_ADDR_SHIFT,VAR_2
+ag71xx_mdio_wait_busy,FUNC_0
+ag71xx_wr,FUNC_1
+link,VAR_3
+netif_dbg,FUNC_2
+ag71xx_mdio_mii_write,FUNC_3
+bus,VAR_4
+addr,VAR_5
+reg,VAR_6
+val,VAR_7
+ag,VAR_8

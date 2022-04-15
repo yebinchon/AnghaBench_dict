@@ -1,0 +1,12 @@
+C_SEG_BUSY,FUNC_0
+FALSE,VAR_0
+TRUE,VAR_1
+assert,FUNC_1
+c_list_lock,VAR_2
+c_seg_do_minor_compaction_and_unlock,FUNC_2
+lck_mtx_try_lock_spin_always,FUNC_3
+lck_mtx_unlock_always,FUNC_4
+try_minor_compaction_failed,VAR_3
+try_minor_compaction_succeeded,VAR_4
+c_seg_try_minor_compaction_and_unlock,FUNC_5
+c_seg,VAR_5

@@ -1,0 +1,14 @@
+__ufshcd_send_uic_cmd,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ufshcd_add_delay_before_dme_cmd,FUNC_5
+ufshcd_hold,FUNC_6
+ufshcd_release,FUNC_7
+ufshcd_wait_for_uic_cmd,FUNC_8
+ufshcd_send_uic_cmd,FUNC_9
+hba,VAR_0
+uic_cmd,VAR_1
+ret,VAR_2
+flags,VAR_3

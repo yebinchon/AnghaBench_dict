@@ -1,0 +1,17 @@
+MAX_PACKET_SIZE,VAR_0
+TCP_CLIENT_DISCONNECTED,VAR_1
+TCP_PING_FREQUENCY,VAR_2
+TCP_PING_TIMEOUT,VAR_3
+handle_TCP_packet,FUNC_0
+is_timeout,FUNC_1
+random_64b,FUNC_2
+read_packet_TCP_secure_connection,FUNC_3
+send_pending_data,FUNC_4
+send_ping_request,FUNC_5
+send_ping_response,FUNC_6
+unix_time,FUNC_7
+do_confirmed_TCP,FUNC_8
+conn,VAR_4
+packet,VAR_5
+len,VAR_6
+ping_id,VAR_7

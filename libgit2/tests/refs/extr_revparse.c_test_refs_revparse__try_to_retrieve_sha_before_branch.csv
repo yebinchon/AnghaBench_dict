@@ -1,0 +1,16 @@
+GIT_OID_HEXSZ,VAR_0
+cl_git_pass,FUNC_0
+cl_git_sandbox_cleanup,FUNC_1
+cl_git_sandbox_init,FUNC_2
+git_branch_create,FUNC_3
+git_object_free,FUNC_4
+git_object_id,FUNC_5
+git_oid_tostr,FUNC_6
+git_reference_free,FUNC_7
+git_revparse_single,FUNC_8
+test_object_inrepo,FUNC_9
+test_refs_revparse__try_to_retrieve_sha_before_branch,FUNC_10
+repo,VAR_1
+branch,VAR_2
+target,VAR_3
+sha,VAR_4

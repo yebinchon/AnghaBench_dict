@@ -1,0 +1,16 @@
+AMD_K7_NUM_IORR,VAR_0
+EINVAL,VAR_1
+IORR_BASE0,VAR_2
+IORR_MASK0,VAR_3
+SYSCFG,VAR_4
+rdmsr,FUNC_0
+rounddown2,FUNC_1
+wrmsr,FUNC_2
+nvidia_init_iorr,FUNC_3
+addr,VAR_5
+size,VAR_6
+base,VAR_7
+mask,VAR_8
+sys,VAR_9
+iorr_addr,VAR_10
+free_iorr_addr,VAR_11

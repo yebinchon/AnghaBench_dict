@@ -1,0 +1,14 @@
+CLUSTER_ERROR,VAR_0
+CLUSTER_FREE,VAR_1
+_FAT_cache_writeSectors,FUNC_0
+_FAT_fat_clusterToSector,FUNC_1
+_FAT_fat_linkFreeCluster,FUNC_2
+_FAT_mem_allocate,FUNC_3
+_FAT_mem_free,FUNC_4
+memset,FUNC_5
+_FAT_fat_linkFreeClusterCleared,FUNC_6
+partition,VAR_2
+cluster,VAR_3
+newCluster,VAR_4
+i,VAR_5
+emptySector,VAR_6

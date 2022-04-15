@@ -1,0 +1,16 @@
+Anum_pg_constraint_conbin,VAR_0
+DirectFunctionCall2,FUNC_0
+ERROR,VAR_1
+GETSTRUCT,FUNC_1
+ObjectIdGetDatum,FUNC_2
+TextDatumGetCString,FUNC_3
+elog,FUNC_4
+heap_getattr,FUNC_5
+pg_get_expr,VAR_2
+decompile_conbin,FUNC_6
+contup,VAR_3
+tupdesc,VAR_4
+con,VAR_5
+isnull,VAR_6
+attr,VAR_7
+expr,VAR_8

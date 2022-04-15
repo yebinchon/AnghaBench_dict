@@ -1,0 +1,14 @@
+MADERA_FLLAO_CONTROL_1_OFFS,VAR_0
+MADERA_FLLAO_CONTROL_2_OFFS,VAR_1
+MADERA_FLL_AO_CTRL_UPD_MASK,VAR_2
+MADERA_FLL_AO_ENA,VAR_3
+MADERA_FLL_AO_HOLD,VAR_4
+madera_fll_dbg,FUNC_0
+madera_wait_for_fll,FUNC_1
+pm_runtime_put_autosuspend,FUNC_2
+regmap_update_bits,FUNC_3
+regmap_update_bits_check,FUNC_4
+madera_disable_fll_ao,FUNC_5
+fll,VAR_5
+madera,VAR_6
+change,VAR_7

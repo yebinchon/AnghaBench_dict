@@ -1,0 +1,9 @@
+SDHCI_INT_ENABLE,VAR_0
+SDHCI_SIGNAL_ENABLE,VAR_1
+sdhci_readl,FUNC_0
+sdhci_writel,FUNC_1
+sdhci_clear_set_irqs,FUNC_2
+host,VAR_2
+clear,VAR_3
+set,VAR_4
+ier,VAR_5

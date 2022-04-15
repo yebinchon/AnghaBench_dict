@@ -1,0 +1,13 @@
+ETH_P_IP,VAR_0
+IP_DF,VAR_1
+htons,FUNC_0
+ip_hdr,FUNC_1
+skb_put,FUNC_2
+skb_reset_network_header,FUNC_3
+nf_reject_iphdr_put,FUNC_4
+nskb,VAR_2
+oldskb,VAR_3
+protocol,VAR_4
+ttl,VAR_5
+niph,VAR_6
+oiph,VAR_7

@@ -1,0 +1,15 @@
+EXT2_BG_BLOCK_UNINIT,VAR_0
+EXT2_BG_INODE_UNINIT,VAR_1
+ext2fs_bg_flags_clear,FUNC_0
+ext2fs_bg_flags_test,FUNC_1
+ext2fs_fast_unmark_inode_bitmap2,FUNC_2
+ext2fs_group_desc_csum_set,FUNC_3
+ext2fs_has_group_desc_csum,FUNC_4
+ext2fs_mark_ib_dirty,FUNC_5
+ext2fs_mark_super_dirty,FUNC_6
+check_inode_uninit,FUNC_7
+fs,VAR_2
+map,VAR_3
+group,VAR_4
+i,VAR_5
+ino,VAR_6

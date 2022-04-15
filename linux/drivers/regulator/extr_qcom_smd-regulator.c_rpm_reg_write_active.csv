@@ -1,0 +1,11 @@
+QCOM_SMD_RPM_ACTIVE_STATE,VAR_0
+RPM_KEY_MA,VAR_1
+RPM_KEY_SWEN,VAR_2
+RPM_KEY_UV,VAR_3
+cpu_to_le32,FUNC_0
+qcom_rpm_smd_write,FUNC_1
+rpm_reg_write_active,FUNC_2
+vreg,VAR_4
+req,VAR_5
+reqlen,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+DQ_FAKE_B,VAR_0
+NO_QUOTA,VAR_1
+QUOTA_NL_IHARDWARN,VAR_2
+QUOTA_NL_ISOFTLONGWARN,VAR_3
+QUOTA_NL_ISOFTWARN,VAR_4
+QUOTA_NL_NOWARN,VAR_5
+QUOTA_OK,VAR_6
+get_seconds,FUNC_0
+ignore_hardlimit,FUNC_1
+sb_dqopt,FUNC_2
+sb_has_quota_limits_enabled,FUNC_3
+test_bit,FUNC_4
+check_idq,FUNC_5
+dquot,VAR_7
+inodes,VAR_8
+warntype,VAR_9
+newinodes,VAR_10

@@ -1,0 +1,16 @@
+MIPI_DCS_SET_COLUMN_ADDRESS,VAR_0
+MIPI_DCS_SET_PAGE_ADDRESS,VAR_1
+MIPI_DCS_WRITE_MEMORY_START,VAR_2
+drm_dev_enter,FUNC_0
+drm_dev_exit,FUNC_1
+memset,FUNC_2
+mipi_dbi_command,FUNC_3
+mipi_dbi_command_buf,FUNC_4
+mipi_dbi_blank,FUNC_5
+dbidev,VAR_3
+drm,VAR_4
+height,VAR_5
+width,VAR_6
+dbi,VAR_7
+len,VAR_8
+idx,VAR_9

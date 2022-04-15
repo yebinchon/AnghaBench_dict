@@ -1,0 +1,15 @@
+cancel_cb,VAR_0
+display_error_cb,VAR_1
+display_login_cb,VAR_2
+display_progress_cb,VAR_3
+display_question_cb,VAR_4
+update_progress_cb,VAR_5
+vlc_dialog_provider_set_callbacks,FUNC_0
+vlc_mutex_lock,FUNC_1
+vlc_mutex_unlock,FUNC_2
+libvlc_dialog_set_callbacks,FUNC_3
+p_instance,VAR_6
+p_cbs,VAR_7
+p_data,VAR_8
+p_libvlc,VAR_9
+dialog_cbs,VAR_10

@@ -1,0 +1,17 @@
+EROFS,VAR_0
+MEMSTICK_CP_BLOCK,VAR_1
+MS_CMD_BLOCK_ERASE,VAR_2
+__set_bit,FUNC_0
+cpu_to_be16,FUNC_1
+dbg_verbose,FUNC_2
+h_msb_send_command,VAR_3
+msb_mark_bad,FUNC_3
+msb_mark_block_unused,FUNC_4
+msb_reset,FUNC_5
+msb_run_state_machine,FUNC_6
+pr_err,FUNC_7
+msb_erase_block,FUNC_8
+msb,VAR_4
+pba,VAR_5
+error,VAR_6
+try,VAR_7

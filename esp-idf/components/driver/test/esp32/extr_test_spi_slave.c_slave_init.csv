@@ -1,0 +1,12 @@
+GPIO_PULLUP_ONLY,VAR_0
+PIN_NUM_CLK,VAR_1
+PIN_NUM_CS,VAR_2
+PIN_NUM_MISO,VAR_3
+PIN_NUM_MOSI,VAR_4
+TEST_ESP_OK,FUNC_0
+TEST_SLAVE_HOST,VAR_5
+gpio_set_pull_mode,FUNC_1
+spi_slave_initialize,FUNC_2
+slave_init,FUNC_3
+buscfg,VAR_6
+slvcfg,VAR_7

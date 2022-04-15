@@ -1,0 +1,11 @@
+DC_LOG_BACKLIGHT,FUNC_0
+TO_DCE_ABM,FUNC_1
+dmcu_set_backlight_level,FUNC_2
+driver_set_backlight_level,FUNC_3
+dce_abm_set_backlight_level_pwm,FUNC_4
+abm,VAR_0
+backlight_pwm_u16_16,VAR_1
+frame_ramp,VAR_2
+controller_id,VAR_3
+use_smooth_brightness,VAR_4
+abm_dce,VAR_5

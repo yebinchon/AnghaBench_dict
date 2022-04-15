@@ -1,0 +1,16 @@
+OCFS2_I,FUNC_0
+i_size_read,FUNC_1
+mlog_errno,FUNC_2
+ocfs2_align_bytes_to_blocks,FUNC_3
+ocfs2_zero_extend_get_range,FUNC_4
+ocfs2_zero_extend_range,FUNC_5
+trace_ocfs2_zero_extend,FUNC_6
+ocfs2_zero_extend,FUNC_7
+inode,VAR_0
+di_bh,VAR_1
+zero_to_size,VAR_2
+ret,VAR_3
+zero_start,VAR_4
+range_start,VAR_5
+range_end,VAR_6
+sb,VAR_7

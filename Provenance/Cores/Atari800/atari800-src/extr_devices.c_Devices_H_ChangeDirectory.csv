@@ -1,0 +1,16 @@
+CPU_ClrN,VAR_0
+CPU_SetN,VAR_1
+CPU_regY,VAR_2
+Devices_GetHostPath,FUNC_0
+Devices_h_current_dir,VAR_3
+FALSE,VAR_4
+Log_print,FUNC_1
+Util_DIR_SEP_CHAR,VAR_5
+Util_direxists,FUNC_2
+Util_stpcpy,FUNC_3
+atari_path,VAR_6
+devbug,VAR_7
+h_devnum,VAR_8
+host_path,VAR_9
+Devices_H_ChangeDirectory,FUNC_4
+p,VAR_10

@@ -1,0 +1,17 @@
+XFER_MW_DMA_0,VAR_0
+XFER_UDMA_0,VAR_1
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+sc1200_clock,FUNC_2
+to_pci_dev,FUNC_3
+sc1200_set_dmamode,FUNC_4
+ap,VAR_2
+adev,VAR_3
+udma_timing,VAR_4
+mwdma_timing,VAR_5
+clock,VAR_6
+pdev,VAR_7
+reg,VAR_8
+mode,VAR_9
+format,VAR_10
+timings,VAR_11

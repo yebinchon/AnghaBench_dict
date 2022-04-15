@@ -1,0 +1,12 @@
+BIT,FUNC_0
+ZYNQ_GPIO_INTEN_OFFSET,FUNC_1
+gpiochip_get_data,FUNC_2
+irq_data_get_irq_chip_data,FUNC_3
+writel_relaxed,FUNC_4
+zynq_gpio_get_bank_pin,FUNC_5
+zynq_gpio_irq_unmask,FUNC_6
+irq_data,VAR_0
+device_pin_num,VAR_1
+bank_num,VAR_2
+bank_pin_num,VAR_3
+gpio,VAR_4

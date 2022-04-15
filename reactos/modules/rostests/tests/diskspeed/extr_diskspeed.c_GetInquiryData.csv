@@ -1,0 +1,16 @@
+DeviceIoControl,FUNC_0
+FALSE,VAR_0
+IOCTL_SCSI_GET_ADDRESS,VAR_1
+IOCTL_SCSI_GET_INQUIRY_DATA,VAR_2
+TRUE,VAR_3
+memcpy,FUNC_1
+GetInquiryData,FUNC_2
+hDevice,VAR_4
+InquiryData,VAR_5
+Result,VAR_6
+dwReturned,VAR_7
+ScsiAddress,VAR_8
+AdapterInfo,VAR_9
+InquiryBuffer,VAR_10
+Buffer,VAR_11
+i,VAR_12

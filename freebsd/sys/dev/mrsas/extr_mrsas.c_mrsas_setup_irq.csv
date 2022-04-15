@@ -1,0 +1,14 @@
+FAIL,VAR_0
+INTR_MPSAFE,VAR_1
+INTR_TYPE_CAM,VAR_2
+RF_ACTIVE,VAR_3
+RF_SHAREABLE,VAR_4
+SUCCESS,VAR_5
+SYS_RES_IRQ,VAR_6
+bus_alloc_resource_any,FUNC_0
+bus_setup_intr,FUNC_1
+device_printf,FUNC_2
+mrsas_isr,VAR_7
+mrsas_setup_msix,FUNC_3
+mrsas_setup_irq,FUNC_4
+sc,VAR_8

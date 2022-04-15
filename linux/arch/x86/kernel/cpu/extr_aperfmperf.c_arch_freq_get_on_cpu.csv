@@ -1,0 +1,15 @@
+APERFMPERF_REFRESH_DELAY_MS,VAR_0
+HK_FLAG_MISC,VAR_1
+X86_FEATURE_APERFMPERF,VAR_2
+aperfmperf_snapshot_cpu,FUNC_0
+aperfmperf_snapshot_khz,VAR_3
+boot_cpu_has,FUNC_1
+cpu_khz,VAR_4
+housekeeping_cpu,FUNC_2
+ktime_get,FUNC_3
+msleep,FUNC_4
+per_cpu,FUNC_5
+samples,VAR_5
+smp_call_function_single,FUNC_6
+arch_freq_get_on_cpu,FUNC_7
+cpu,VAR_6

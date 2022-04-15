@@ -1,0 +1,16 @@
+WEP_ICV_LEN,VAR_0
+WEP_IV_LEN,VAR_1
+WLAN_KEY_LEN_WEP104,VAR_2
+ieee80211_wep_add_iv,FUNC_0
+ieee80211_wep_encrypt_data,FUNC_1
+memcpy,FUNC_2
+skb_put,FUNC_3
+ieee80211_wep_encrypt,FUNC_4
+local,VAR_3
+skb,VAR_4
+key,VAR_5
+keylen,VAR_6
+keyidx,VAR_7
+iv,VAR_8
+len,VAR_9
+rc4key,VAR_10

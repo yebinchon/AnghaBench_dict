@@ -1,0 +1,16 @@
+pthread_cond_broadcast,FUNC_0
+pthread_cond_wait,FUNC_1
+pthread_create,FUNC_2
+pthread_join,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+test_membarrier_fail,FUNC_6
+test_membarrier_success,FUNC_7
+test_membarrier_thread,VAR_0
+test_membarrier_thread_cond,VAR_1
+test_membarrier_thread_mutex,VAR_2
+thread_quit,VAR_3
+thread_ready,VAR_4
+test_mt_membarrier,FUNC_8
+i,VAR_5
+test_thread,VAR_6

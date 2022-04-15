@@ -1,0 +1,16 @@
+MB_COMPOSITE,VAR_0
+MB_ERR_INVALID_CHARS,VAR_1
+check_invalid_chars_dbcs,FUNC_0
+check_invalid_chars_sbcs,FUNC_1
+mbstowcs_dbcs,FUNC_2
+mbstowcs_dbcs_decompose,FUNC_3
+mbstowcs_sbcs,FUNC_4
+mbstowcs_sbcs_decompose,FUNC_5
+wine_cp_mbstowcs,FUNC_6
+table,VAR_2
+flags,VAR_3
+s,VAR_4
+srclen,VAR_5
+dst,VAR_6
+dstlen,VAR_7
+src,VAR_8

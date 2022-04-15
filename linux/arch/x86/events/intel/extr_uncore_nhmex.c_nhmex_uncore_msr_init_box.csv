@@ -1,0 +1,5 @@
+NHMEX_U_MSR_PMON_GLOBAL_CTL,VAR_0
+NHMEX_U_PMON_GLOBAL_EN_ALL,VAR_1
+wrmsrl,FUNC_0
+nhmex_uncore_msr_init_box,FUNC_1
+box,VAR_2

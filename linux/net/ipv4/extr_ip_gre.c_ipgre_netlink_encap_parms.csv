@@ -1,0 +1,11 @@
+IFLA_GRE_ENCAP_DPORT,VAR_0
+IFLA_GRE_ENCAP_FLAGS,VAR_1
+IFLA_GRE_ENCAP_SPORT,VAR_2
+IFLA_GRE_ENCAP_TYPE,VAR_3
+memset,FUNC_0
+nla_get_be16,FUNC_1
+nla_get_u16,FUNC_2
+ipgre_netlink_encap_parms,FUNC_3
+data,VAR_4
+ipencap,VAR_5
+ret,VAR_6

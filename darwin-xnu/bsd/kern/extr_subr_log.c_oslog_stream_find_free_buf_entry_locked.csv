@@ -1,0 +1,17 @@
+LCK_ASSERT_OWNED,VAR_0
+LCK_SPIN_ASSERT,FUNC_0
+STAILQ_FIRST,FUNC_1
+STAILQ_NEXT,FUNC_2
+STAILQ_REMOVE_AFTER,FUNC_3
+STAILQ_REMOVE_HEAD,FUNC_4
+buf_entries,VAR_1
+oslog_s_dropped_msgcount,VAR_2
+oslog_stream_buf_head,VAR_3
+oslog_stream_free_head,VAR_4
+oslog_stream_link_type_metadata,VAR_5
+oslog_stream_lock,VAR_6
+oslog_streambufp,VAR_7
+oslog_stream_find_free_buf_entry_locked,FUNC_5
+mbp,VAR_8
+buf_entry,VAR_9
+prev_entry,VAR_10

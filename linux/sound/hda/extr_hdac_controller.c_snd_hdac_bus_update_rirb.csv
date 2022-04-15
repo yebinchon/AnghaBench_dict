@@ -1,0 +1,17 @@
+AZX_MAX_RIRB_ENTRIES,VAR_0
+AZX_RIRB_EX_UNSOL_EV,VAR_1
+HDA_MAX_CODECS,VAR_2
+RIRBWP,VAR_3
+dev_err,FUNC_0
+dev_err_ratelimited,FUNC_1
+le32_to_cpu,FUNC_2
+snd_BUG,FUNC_3
+snd_hdac_bus_queue_event,FUNC_4
+snd_hdac_chip_readw,FUNC_5
+snd_hdac_bus_update_rirb,FUNC_6
+bus,VAR_4
+rp,VAR_5
+wp,VAR_6
+addr,VAR_7
+res,VAR_8
+res_ex,VAR_9

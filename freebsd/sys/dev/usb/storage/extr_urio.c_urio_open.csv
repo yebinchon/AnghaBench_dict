@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+FREAD,VAR_1
+FWRITE,VAR_2
+URIO_FLAG_READ_STALL,VAR_3
+URIO_FLAG_WRITE_STALL,VAR_4
+URIO_IFQ_MAXLEN,VAR_5
+URIO_T_RD,VAR_6
+URIO_T_WR,VAR_7
+mtx_lock,FUNC_0
+mtx_unlock,FUNC_1
+usb_fifo_alloc_buffer,FUNC_2
+usb_fifo_softc,FUNC_3
+usbd_xfer_max_len,FUNC_4
+urio_open,FUNC_5
+fifo,VAR_8
+fflags,VAR_9
+sc,VAR_10

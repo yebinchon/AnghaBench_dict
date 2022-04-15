@@ -1,0 +1,16 @@
+APIC_DEFAULT_PHYS_BASE,VAR_0
+MSR_IA32_APICBASE_BSP,VAR_1
+MSR_IA32_APICBASE_ENABLE,VAR_2
+avic_update_vapic_bar,FUNC_0
+init_vmcb,FUNC_1
+kvm_cpuid,FUNC_2
+kvm_rdx_write,FUNC_3
+kvm_vcpu_apicv_active,FUNC_4
+kvm_vcpu_is_reset_bsp,FUNC_5
+to_svm,FUNC_6
+svm_vcpu_reset,FUNC_7
+vcpu,VAR_3
+init_event,VAR_4
+svm,VAR_5
+dummy,VAR_6
+eax,VAR_7

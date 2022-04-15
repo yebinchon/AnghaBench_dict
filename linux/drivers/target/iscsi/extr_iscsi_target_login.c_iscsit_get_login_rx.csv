@@ -1,0 +1,17 @@
+ISCSI_HDR_LEN,VAR_0
+ISCSI_LOGIN_CURRENT_STAGE,FUNC_0
+MAX_KEY_VALUE_PAIRS,VAR_1
+be16_to_cpu,FUNC_1
+be32_to_cpu,FUNC_2
+iscsi_login_rx_data,FUNC_3
+iscsi_target_check_login_request,FUNC_4
+memcpy,FUNC_5
+memset,FUNC_6
+ntoh24,FUNC_7
+pr_debug,FUNC_8
+iscsit_get_login_rx,FUNC_9
+conn,VAR_2
+login,VAR_3
+login_req,VAR_4
+padding,VAR_5
+payload_length,VAR_6

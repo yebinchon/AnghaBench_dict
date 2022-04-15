@@ -1,0 +1,14 @@
+I965_PIPECONF_ACTIVE,VAR_0
+INTEL_GEN,FUNC_0
+PIPECONF,FUNC_1
+WARN,FUNC_2
+intel_de_wait_for_clear,FUNC_3
+intel_wait_for_pipe_scanline_stopped,FUNC_4
+to_i915,FUNC_5
+to_intel_crtc,FUNC_6
+intel_wait_for_pipe_off,FUNC_7
+old_crtc_state,VAR_1
+crtc,VAR_2
+dev_priv,VAR_3
+cpu_transcoder,VAR_4
+reg,VAR_5

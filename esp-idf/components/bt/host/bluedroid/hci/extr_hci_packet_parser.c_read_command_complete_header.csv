@@ -1,0 +1,17 @@
+HCI_COMMAND_COMPLETE_EVT,VAR_0
+HCI_SUCCESS,VAR_1
+NO_OPCODE_CHECKING,VAR_2
+STREAM_SKIP_UINT8,FUNC_0
+STREAM_TO_UINT16,FUNC_1
+STREAM_TO_UINT8,FUNC_2
+assert,FUNC_3
+read_command_complete_header,FUNC_4
+response,VAR_3
+expected_opcode,VAR_4
+minimum_bytes_after,VAR_5
+stream,VAR_6
+event_code,VAR_7
+parameter_length,VAR_8
+parameter_bytes_we_read_here,VAR_9
+opcode,VAR_10
+status,VAR_11

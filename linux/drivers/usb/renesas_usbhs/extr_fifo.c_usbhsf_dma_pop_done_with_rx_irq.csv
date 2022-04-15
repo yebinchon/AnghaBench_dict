@@ -1,0 +1,11 @@
+usbhs_pipe_get_maxpacket,FUNC_0
+usbhs_pipe_running,FUNC_1
+usbhsf_dma_stop,FUNC_2
+usbhsf_dma_unmap,FUNC_3
+usbhsf_fifo_unselect,FUNC_4
+usbhsf_prepare_pop,FUNC_5
+usbhsf_dma_pop_done_with_rx_irq,FUNC_6
+pkt,VAR_0
+is_done,VAR_1
+pipe,VAR_2
+maxp,VAR_3

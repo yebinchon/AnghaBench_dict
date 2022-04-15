@@ -1,0 +1,9 @@
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+SNDRV_PCM_HW_PARAM_RATE,VAR_1
+eld_limit_channels,VAR_2
+eld_limit_rates,VAR_3
+snd_pcm_hw_rule_add,FUNC_0
+snd_pcm_hw_constraint_eld,FUNC_1
+runtime,VAR_4
+eld,VAR_5
+ret,VAR_6

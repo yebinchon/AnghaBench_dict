@@ -1,0 +1,15 @@
+BIOSET_NEED_BVECS,VAR_0
+ENOMEM,VAR_1
+ERR_PTR,FUNC_0
+GFP_KERNEL,VAR_2
+_dm_io_cache,VAR_3
+bioset_init,FUNC_1
+dm_get_reserved_bio_based_ios,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+mempool_exit,FUNC_5
+mempool_init_slab_pool,FUNC_6
+dm_io_client_create,FUNC_7
+client,VAR_4
+min_ios,VAR_5
+ret,VAR_6

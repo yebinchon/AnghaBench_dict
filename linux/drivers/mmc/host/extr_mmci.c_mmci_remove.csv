@@ -1,0 +1,17 @@
+MMCICOMMAND,VAR_0
+MMCIDATACTRL,VAR_1
+MMCIMASK0,VAR_2
+MMCIMASK1,VAR_3
+amba_get_drvdata,FUNC_0
+clk_disable_unprepare,FUNC_1
+mmc_free_host,FUNC_2
+mmc_priv,FUNC_3
+mmc_remove_host,FUNC_4
+mmci_dma_release,FUNC_5
+pm_runtime_get_sync,FUNC_6
+writel,FUNC_7
+mmci_remove,FUNC_8
+dev,VAR_4
+mmc,VAR_5
+host,VAR_6
+variant,VAR_7

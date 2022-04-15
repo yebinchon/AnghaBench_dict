@@ -1,0 +1,13 @@
+VENDOR_DSPIO_STATUS,VAR_0
+VENDOR_STATUS_DSPIO_OK,VAR_1
+VENDOR_STATUS_DSPIO_SCP_RESPONSE_QUEUE_EMPTY,VAR_2
+WIDGET_DSP_CTRL,VAR_3
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_0
+msleep,FUNC_1
+snd_hda_codec_read,FUNC_2
+time_before,FUNC_3
+dspio_write_wait,FUNC_4
+codec,VAR_5
+status,VAR_6
+timeout,VAR_7

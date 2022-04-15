@@ -1,0 +1,11 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_RTAR_LEN,VAR_0
+MLXSW_REG_RTAR_OP_ALLOCATE,VAR_1
+MLXSW_SP1_MR_TCAM_REGION_BASE_COUNT,VAR_2
+mlxsw_reg_rtar_pack,FUNC_1
+mlxsw_reg_write,FUNC_2
+rtar,VAR_3
+mlxsw_sp1_mr_tcam_region_alloc,FUNC_3
+mr_tcam_region,VAR_4
+mlxsw_sp,VAR_5
+rtar_pl,VAR_6

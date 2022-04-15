@@ -1,0 +1,13 @@
+GEF_PIC_INTR_MASK,FUNC_0
+gef_irq_to_hw,FUNC_1
+gef_pic_irq_reg_base,VAR_0
+gef_pic_lock,VAR_1
+in_be32,FUNC_2
+out_be32,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+gef_pic_unmask,FUNC_6
+virq,VAR_2
+flags,VAR_3
+hwirq,VAR_4
+mask,VAR_5

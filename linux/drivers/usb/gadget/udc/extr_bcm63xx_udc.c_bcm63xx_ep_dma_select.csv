@@ -1,0 +1,9 @@
+USBD_CONTROL_INIT_SEL_MASK,VAR_0
+USBD_CONTROL_INIT_SEL_SHIFT,VAR_1
+USBD_CONTROL_REG,VAR_2
+usbd_readl,FUNC_0
+usbd_writel,FUNC_1
+bcm63xx_ep_dma_select,FUNC_2
+udc,VAR_3
+idx,VAR_4
+val,VAR_5

@@ -1,0 +1,13 @@
+ESAI_xCCR_xDC,FUNC_0
+ESAI_xCCR_xDC_MASK,VAR_0
+REG_ESAI_RCCR,VAR_1
+REG_ESAI_TCCR,VAR_2
+regmap_update_bits,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+fsl_esai_set_dai_tdm_slot,FUNC_3
+dai,VAR_3
+tx_mask,VAR_4
+rx_mask,VAR_5
+slots,VAR_6
+slot_width,VAR_7
+esai_priv,VAR_8

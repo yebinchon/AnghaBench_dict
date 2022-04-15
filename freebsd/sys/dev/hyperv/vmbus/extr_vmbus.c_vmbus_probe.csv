@@ -1,0 +1,10 @@
+BUS_PROBE_DEFAULT,VAR_0
+CPUID_HV_MSR_SYNIC,VAR_1
+ENXIO,VAR_2
+VM_GUEST_HV,VAR_3
+device_get_unit,FUNC_0
+device_set_desc,FUNC_1
+hyperv_features,VAR_4
+vm_guest,VAR_5
+vmbus_probe,FUNC_2
+dev,VAR_6

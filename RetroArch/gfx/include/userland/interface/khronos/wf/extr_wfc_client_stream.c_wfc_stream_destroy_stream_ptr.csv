@@ -1,0 +1,16 @@
+GLOBAL_UNLOCK,FUNC_0
+STREAM_LOCK,FUNC_1
+STREAM_UNLOCK,FUNC_2
+VCOS_FUNCTION,VAR_0
+WFC_STREAM_FLAGS_REQ_RECT,VAR_1
+vcos_blockpool_free,FUNC_3
+vcos_log_error,FUNC_4
+vcos_log_trace,FUNC_5
+vcos_mutex_delete,FUNC_6
+vcos_thread_join,FUNC_7
+wfc_server_disconnect,FUNC_8
+wfc_stream_global_lock_and_find_stream_ptr,FUNC_9
+wfc_stream_head,VAR_2
+wfc_stream_destroy_stream_ptr,FUNC_10
+stream,VAR_3
+stream_ptr,VAR_4

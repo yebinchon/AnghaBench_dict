@@ -1,0 +1,17 @@
+FRAME_LENGTH,VAR_0
+HEADER_LENGTH,VAR_1
+VLC_DEMUXER_EOF,VAR_2
+VLC_DEMUXER_SUCCESS,VAR_3
+date_Get,FUNC_0
+date_Increment,FUNC_1
+es_out_Send,FUNC_2
+es_out_SetPCR,FUNC_3
+msg_Warn,FUNC_4
+vlc_stream_Block,FUNC_5
+vlc_stream_Tell,FUNC_6
+Demux,FUNC_7
+p_demux,VAR_4
+p_sys,VAR_5
+p_block,VAR_6
+i_offset,VAR_7
+i_frames,VAR_8

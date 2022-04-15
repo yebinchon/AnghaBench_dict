@@ -1,0 +1,15 @@
+DPRINT,FUNC_0
+ENTER_FUNC,FUNC_1
+FALSE,VAR_0
+FindSwBp,FUNC_2
+IsAddressValid,FUNC_3
+IsAddressWriteable,FUNC_4
+LEAVE_FUNC,FUNC_5
+PICE_memset,FUNC_6
+SetAddressWriteable,FUNC_7
+TRUE,VAR_1
+RemoveSWBreakpoint,FUNC_8
+ulAddress,VAR_2
+p,VAR_3
+bResult,VAR_4
+isWriteable,VAR_5

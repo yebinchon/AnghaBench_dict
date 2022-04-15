@@ -1,0 +1,16 @@
+HCLGE_TM_QCN_MEM_ERR_INT_EN,VAR_0
+HCLGE_TM_QCN_MEM_INT_CFG,VAR_1
+HCLGE_TM_SCH_ECC_ERR_INT_EN,VAR_2
+HCLGE_TM_SCH_ECC_INT_EN,VAR_3
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_query_error,FUNC_2
+hclge_cmd_reuse_desc,FUNC_3
+hclge_cmd_send,FUNC_4
+hclge_cmd_setup_basic_desc,FUNC_5
+hclge_config_tm_hw_err_int,FUNC_6
+hdev,VAR_4
+en,VAR_5
+dev,VAR_6
+desc,VAR_7
+ret,VAR_8

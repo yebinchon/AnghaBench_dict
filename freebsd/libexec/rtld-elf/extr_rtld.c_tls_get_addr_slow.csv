@@ -1,0 +1,17 @@
+allocate_module_tls,FUNC_0
+free,FUNC_1
+lock_release,FUNC_2
+memcpy,FUNC_3
+rtld_bind_lock,VAR_0
+tls_dtv_generation,VAR_1
+tls_max_index,VAR_2
+wlock_acquire,FUNC_4
+xcalloc,FUNC_5
+tls_get_addr_slow,FUNC_6
+dtvp,VAR_3
+index,VAR_4
+offset,VAR_5
+newdtv,VAR_6
+dtv,VAR_7
+lockstate,VAR_8
+to_copy,VAR_9

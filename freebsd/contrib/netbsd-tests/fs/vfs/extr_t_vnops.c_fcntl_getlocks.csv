@@ -1,0 +1,16 @@
+ATF_REQUIRE,FUNC_0
+F_GETLK,VAR_0
+F_RDLCK,VAR_1
+F_UNLCK,VAR_2
+RL,FUNC_1
+SEEK_SET,VAR_3
+rump_sys_fcntl,FUNC_2
+fcntl_getlocks,FUNC_3
+fildes,VAR_4
+start,VAR_5
+len,VAR_6
+lock,VAR_7
+end,VAR_8
+rv,VAR_9
+l,VAR_10
+n,VAR_11

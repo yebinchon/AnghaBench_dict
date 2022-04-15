@@ -1,0 +1,17 @@
+ASUS_WMI_DEVID_BLUETOOTH,VAR_0
+ASUS_WMI_DEVID_GPS,VAR_1
+ASUS_WMI_DEVID_UWB,VAR_2
+ASUS_WMI_DEVID_WIMAX,VAR_3
+ASUS_WMI_DEVID_WWAN3G,VAR_4
+IS_ERR_OR_NULL,FUNC_0
+asus_rfkill_hotplug,FUNC_1
+asus_wmi_fnlock_update,FUNC_2
+asus_wmi_get_devstate_simple,FUNC_3
+asus_wmi_has_fnlock_key,FUNC_4
+dev_get_drvdata,FUNC_5
+kbd_led_update,FUNC_6
+rfkill_set_sw_state,FUNC_7
+asus_hotk_restore,FUNC_8
+device,VAR_5
+asus,VAR_6
+bl,VAR_7

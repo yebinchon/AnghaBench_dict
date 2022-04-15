@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+MUTEX_HELD,FUNC_1
+mutex_enter,FUNC_2
+mutex_exit,FUNC_3
+spa_writeable,FUNC_4
+zil_get_commit_list,FUNC_5
+zil_process_commit_list,FUNC_6
+zil_prune_commit_list,FUNC_7
+zil_commit_writer,FUNC_8
+zilog,VAR_0
+zcw,VAR_1

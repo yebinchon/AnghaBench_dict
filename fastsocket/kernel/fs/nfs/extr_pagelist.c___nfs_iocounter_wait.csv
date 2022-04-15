@@ -1,0 +1,14 @@
+DEFINE_WAIT_BIT,FUNC_0
+NFS_IO_INPROGRESS,VAR_0
+TASK_KILLABLE,VAR_1
+atomic_read,FUNC_1
+bit_waitqueue,FUNC_2
+finish_wait,FUNC_3
+nfs_wait_bit_killable,FUNC_4
+prepare_to_wait,FUNC_5
+q,VAR_2
+set_bit,FUNC_6
+__nfs_iocounter_wait,FUNC_7
+c,VAR_3
+wq,VAR_4
+ret,VAR_5

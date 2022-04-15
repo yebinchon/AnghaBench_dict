@@ -1,0 +1,15 @@
+CN23XX_INTR_CINT_ENB,VAR_0
+CN23XX_SLI_IQ_BASE_ADDR64,FUNC_0
+CN23XX_SLI_IQ_DOORBELL,FUNC_1
+CN23XX_SLI_IQ_INSTR_COUNT64,FUNC_2
+CN23XX_SLI_IQ_SIZE,FUNC_3
+dev_dbg,FUNC_4
+octeon_write_csr,FUNC_5
+octeon_write_csr64,FUNC_6
+readq,FUNC_7
+writeq,FUNC_8
+cn23xx_setup_iq_regs,FUNC_9
+oct,VAR_1
+iq_no,VAR_2
+iq,VAR_3
+pkt_in_done,VAR_4

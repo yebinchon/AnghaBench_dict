@@ -1,0 +1,16 @@
+BRDDISABLE,FUNC_0
+BRDENABLE,FUNC_1
+CR_RXENABLE,VAR_0
+CR_TXENABLE,VAR_1
+SCCR,VAR_2
+brd_lock,VAR_3
+pr_debug,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stl_sc26198setreg,FUNC_5
+stl_sc26198enablerxtx,FUNC_6
+portp,VAR_4
+rx,VAR_5
+tx,VAR_6
+ccr,VAR_7
+flags,VAR_8

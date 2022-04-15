@@ -1,0 +1,10 @@
+FD_CLOEXEC,VAR_0
+F_GETFD,VAR_1
+F_SETFD,VAR_2
+SWAY_ERROR,VAR_3
+fcntl,FUNC_0
+sway_log_errno,FUNC_1
+sway_set_cloexec,FUNC_2
+fd,VAR_4
+cloexec,VAR_5
+flags,VAR_6

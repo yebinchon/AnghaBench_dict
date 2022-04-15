@@ -1,0 +1,11 @@
+FORCEWAKE_BLITTER,VAR_0
+GUC_CTL_MAX_DWORDS,VAR_1
+SOFT_SCRATCH,FUNC_0
+guc_to_gt,FUNC_1
+intel_uncore_forcewake_get,FUNC_2
+intel_uncore_forcewake_put,FUNC_3
+intel_uncore_write,FUNC_4
+intel_guc_write_params,FUNC_5
+guc,VAR_2
+uncore,VAR_3
+i,VAR_4

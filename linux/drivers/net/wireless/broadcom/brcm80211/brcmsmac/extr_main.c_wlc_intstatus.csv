@@ -1,0 +1,17 @@
+D11REGOFFS,FUNC_0
+DEF_RXINTMASK,VAR_0
+MI_DMAINT,VAR_1
+RX_FIFO,VAR_2
+bcma_read32,FUNC_1
+bcma_write32,FUNC_2
+brcms_deviceremoved,FUNC_3
+intctrlregs,VAR_3
+macintmask,VAR_4
+trace_brcms_macintstatus,FUNC_4
+wlc_intstatus,FUNC_5
+wlc,VAR_5
+in_isr,VAR_6
+wlc_hw,VAR_7
+core,VAR_8
+macintstatus,VAR_9
+mask,VAR_10

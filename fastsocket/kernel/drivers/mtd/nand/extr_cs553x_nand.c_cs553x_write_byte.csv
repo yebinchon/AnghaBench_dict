@@ -1,0 +1,10 @@
+CS_NAND_CTLR_BUSY,VAR_0
+MM_NAND_STS,VAR_1
+readb,FUNC_0
+udelay,FUNC_1
+writeb,FUNC_2
+cs553x_write_byte,FUNC_3
+mtd,VAR_2
+byte,VAR_3
+this,VAR_4
+i,VAR_5

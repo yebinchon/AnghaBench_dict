@@ -1,0 +1,17 @@
+ABP060MG_ERROR_MASK,VAR_0
+ABP060MG_MAX_COUNTS,VAR_1
+ABP060MG_MIN_COUNTS,VAR_2
+ABP060MG_RESP_TIME_MS,VAR_3
+EIO,VAR_4
+IIO_VAL_INT,VAR_5
+be16_to_cpu,FUNC_0
+i2c_master_recv,FUNC_1
+i2c_master_send,FUNC_2
+msleep_interruptible,FUNC_3
+abp060mg_get_measurement,FUNC_4
+state,VAR_6
+val,VAR_7
+client,VAR_8
+buf,VAR_9
+pressure,VAR_10
+ret,VAR_11

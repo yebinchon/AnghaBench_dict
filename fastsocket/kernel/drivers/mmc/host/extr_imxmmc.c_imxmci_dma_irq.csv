@@ -1,0 +1,11 @@
+IMXMCI_PEND_DMA_END_b,VAR_0
+MMC_REG_STATUS,VAR_1
+atomic_set,FUNC_0
+readw,FUNC_1
+set_bit,FUNC_2
+tasklet_schedule,FUNC_3
+imxmci_dma_irq,FUNC_4
+dma,VAR_2
+devid,VAR_3
+host,VAR_4
+stat,VAR_5

@@ -1,0 +1,6 @@
+WDOG_TIMEOUT_RANGE_REG_OFFSET,VAR_0
+dw_wdt_top_in_seconds,FUNC_0
+readl,FUNC_1
+dw_wdt_get_top,FUNC_2
+dw_wdt,VAR_1
+top,VAR_2

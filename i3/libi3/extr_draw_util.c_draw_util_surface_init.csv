@@ -1,0 +1,16 @@
+ELOG,FUNC_0
+cairo_create,FUNC_1
+cairo_xcb_surface_create,FUNC_2
+visual_type,VAR_0
+xcb_create_gc_checked,FUNC_3
+xcb_generate_id,FUNC_4
+xcb_request_check,FUNC_5
+draw_util_surface_init,FUNC_6
+conn,VAR_1
+surface,VAR_2
+drawable,VAR_3
+visual,VAR_4
+width,VAR_5
+height,VAR_6
+gc_cookie,VAR_7
+error,VAR_8

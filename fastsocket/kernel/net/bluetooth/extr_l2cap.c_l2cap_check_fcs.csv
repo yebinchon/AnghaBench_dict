@@ -1,0 +1,12 @@
+EINVAL,VAR_0
+L2CAP_FCS_CRC16,VAR_1
+L2CAP_HDR_SIZE,VAR_2
+crc16,FUNC_0
+get_unaligned_le16,FUNC_1
+skb_trim,FUNC_2
+l2cap_check_fcs,FUNC_3
+pi,VAR_3
+skb,VAR_4
+our_fcs,VAR_5
+rcv_fcs,VAR_6
+hdr_size,VAR_7

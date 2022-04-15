@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_STATS,VAR_1
+ENOMEM,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_ULONG,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+nitems,FUNC_4
+sfxge_tx_stats,VAR_4
+sfxge_txq_stat_init,FUNC_5
+txq,VAR_5
+txq_node,VAR_6
+ctx,VAR_7
+stat_node,VAR_8
+id,VAR_9

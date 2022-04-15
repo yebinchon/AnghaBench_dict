@@ -1,0 +1,13 @@
+CSR_GP_CNTRL,VAR_0
+CSR_GP_CNTRL_REG_FLAG_INIT_DONE,VAR_1
+CSR_GP_CNTRL_REG_FLAG_MAC_ACCESS_REQ,VAR_2
+CSR_UCODE_DRV_GP1_BIT_D3_CFG_COMPLETE,VAR_3
+CSR_UCODE_DRV_GP1_SET,VAR_4
+iwl_clear_bit,FUNC_0
+iwl_disable_interrupts,FUNC_1
+iwl_pcie_disable_ict,FUNC_2
+iwl_pcie_set_pwr,FUNC_3
+iwl_trans_pcie_tx_reset,FUNC_4
+iwl_write32,FUNC_5
+iwl_trans_pcie_d3_suspend,FUNC_6
+trans,VAR_5

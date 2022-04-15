@@ -1,0 +1,14 @@
+FMODE_READ,VAR_0
+FMODE_WRITE,VAR_1
+S_IFLNK,VAR_2
+S_IRUSR,VAR_3
+S_ISLNK,FUNC_0
+S_IWUSR,VAR_4
+S_IXUSR,VAR_5
+security_task_to_inode,FUNC_1
+task_dump_owner,FUNC_2
+tid_fd_update_inode,FUNC_3
+task,VAR_6
+inode,VAR_7
+f_mode,VAR_8
+i_mode,VAR_9

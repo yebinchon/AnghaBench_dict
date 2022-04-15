@@ -1,0 +1,11 @@
+assert_is_ignored,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_rewritefile,FUNC_3
+cl_must_pass,FUNC_4
+g_repo,VAR_0
+git_config_set_bool,FUNC_5
+git_repository_config,FUNC_6
+p_mkdir,FUNC_7
+test_ignore_path__case_sensitive_unignore_does_nothing,FUNC_8
+cfg,VAR_1

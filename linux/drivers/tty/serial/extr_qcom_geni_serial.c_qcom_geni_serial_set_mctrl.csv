@@ -1,0 +1,10 @@
+SE_UART_MANUAL_RFR,VAR_0
+TIOCM_RTS,VAR_1
+UART_MANUAL_RFR_EN,VAR_2
+UART_RFR_NOT_READY,VAR_3
+uart_console,FUNC_0
+writel,FUNC_1
+qcom_geni_serial_set_mctrl,FUNC_2
+uport,VAR_4
+mctrl,VAR_5
+uart_manual_rfr,VAR_6

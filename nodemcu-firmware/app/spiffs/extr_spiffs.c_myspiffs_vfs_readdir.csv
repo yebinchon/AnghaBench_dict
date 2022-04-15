@@ -1,0 +1,12 @@
+FS_OBJ_NAME_LEN,VAR_0
+GET_DIR_D,FUNC_0
+SPIFFS_readdir,FUNC_1
+VFS_RES_ERR,VAR_1
+VFS_RES_OK,VAR_2
+d,VAR_3
+memset,FUNC_2
+strncpy,FUNC_3
+myspiffs_vfs_readdir,FUNC_4
+dd,VAR_4
+buf,VAR_5
+dirent,VAR_6

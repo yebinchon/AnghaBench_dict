@@ -1,0 +1,17 @@
+KOBJ_REMOVE,VAR_0
+dev_vdbg,FUNC_0
+device_unregister,FUNC_1
+flush_work,FUNC_2
+gadget_driver_pending_list,VAR_1
+kobject_uevent,FUNC_3
+list_add,FUNC_4
+list_del,FUNC_5
+memset,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+udc_lock,VAR_2
+usb_gadget_remove_driver,FUNC_9
+usb_del_gadget_udc,FUNC_10
+gadget,VAR_3
+udc,VAR_4
+driver,VAR_5

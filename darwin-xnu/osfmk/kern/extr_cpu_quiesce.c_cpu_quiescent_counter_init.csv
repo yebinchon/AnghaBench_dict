@@ -1,0 +1,9 @@
+CPU_CHECKIN_MASK,VAR_0
+CPU_CHECKIN_MIN_INTERVAL_US,VAR_1
+CPU_EXPECTED_MASK,VAR_2
+MAX_CPUS,VAR_3
+assert,FUNC_0
+cpu_checked_in_bit,FUNC_1
+cpu_expected_bit,FUNC_2
+cpu_quiescent_counter_set_min_interval_us,FUNC_3
+cpu_quiescent_counter_init,FUNC_4

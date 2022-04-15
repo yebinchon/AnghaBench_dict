@@ -1,0 +1,12 @@
+AC_DEV_LIST_LEN_MASK,VAR_0
+AC_PAR_DEVLIST_LEN,VAR_1
+AC_WCAP_DIGITAL,VAR_2
+AC_WID_PIN,VAR_3
+get_wcaps,FUNC_0
+get_wcaps_type,FUNC_1
+snd_hdac_read_parm_uncached,FUNC_2
+snd_hda_get_num_devices,FUNC_3
+codec,VAR_4
+nid,VAR_5
+wcaps,VAR_6
+parm,VAR_7

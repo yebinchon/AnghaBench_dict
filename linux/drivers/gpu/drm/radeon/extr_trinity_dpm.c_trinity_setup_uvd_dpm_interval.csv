@@ -1,0 +1,14 @@
+PM_TP,VAR_0
+RREG32_SMC,FUNC_0
+SMU_UVD_DPM_CNTL,VAR_1
+WREG32_SMC,FUNC_1
+r600_calculate_u_and_p,FUNC_2
+radeon_get_xclk,FUNC_3
+trinity_setup_uvd_dpm_interval,FUNC_4
+rdev,VAR_2
+interval,VAR_3
+p,VAR_4
+u,VAR_5
+tp,VAR_6
+val,VAR_7
+xclk,VAR_8

@@ -1,0 +1,15 @@
+EXIT_REASON_EPT_MISCONFIG,VAR_0
+EXIT_REASON_EPT_VIOLATION,VAR_1
+EXIT_REASON_PML_FULL,VAR_2
+INTR_INFO_UNBLOCK_NMI,VAR_3
+PFERR_RSVD_MASK,VAR_4
+get_vmcs12,FUNC_0
+nested_vmx_vmexit,FUNC_1
+to_vmx,FUNC_2
+nested_ept_inject_page_fault,FUNC_3
+vcpu,VAR_5
+fault,VAR_6
+vmcs12,VAR_7
+vmx,VAR_8
+exit_reason,VAR_9
+exit_qualification,VAR_10

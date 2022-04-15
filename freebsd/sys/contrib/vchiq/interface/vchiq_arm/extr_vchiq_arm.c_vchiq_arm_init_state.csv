@@ -1,0 +1,14 @@
+SUSPEND_TIMER_TIMEOUT_MS,VAR_0
+VCHIQ_SUCCESS,VAR_1
+VC_RESUME_RESUMED,VAR_2
+atomic_set,FUNC_0
+complete_all,FUNC_1
+init_completion,FUNC_2
+init_timer,FUNC_3
+rwlock_init,FUNC_4
+set_resume_state,FUNC_5
+suspend_timer_callback,VAR_3
+vchiq_arm_init_state,FUNC_6
+state,VAR_4
+arm_state,VAR_5
+status,VAR_6

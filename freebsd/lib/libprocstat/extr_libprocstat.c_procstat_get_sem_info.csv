@@ -1,0 +1,14 @@
+PROCSTAT_CORE,VAR_0
+PROCSTAT_KVM,VAR_1
+PROCSTAT_SYSCTL,VAR_2
+_POSIX2_LINE_MAX,VAR_3
+assert,FUNC_0
+procstat_get_sem_info_kvm,FUNC_1
+procstat_get_sem_info_sysctl,FUNC_2
+snprintf,FUNC_3
+warnx,FUNC_4
+procstat_get_sem_info,FUNC_5
+procstat,VAR_4
+fst,VAR_5
+sem,VAR_6
+errbuf,VAR_7

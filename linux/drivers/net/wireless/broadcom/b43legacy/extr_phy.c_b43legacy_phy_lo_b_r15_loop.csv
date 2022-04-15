@@ -1,0 +1,11 @@
+b43legacy_phy_read,FUNC_0
+b43legacy_phy_write,FUNC_1
+cond_resched,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+udelay,FUNC_5
+b43legacy_phy_lo_b_r15_loop,FUNC_6
+dev,VAR_0
+i,VAR_1
+ret,VAR_2
+flags,VAR_3

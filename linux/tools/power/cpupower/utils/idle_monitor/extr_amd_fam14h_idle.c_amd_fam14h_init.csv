@@ -1,0 +1,15 @@
+NBP1,VAR_0
+PCI_MONITOR_ENABLE_REG,VAR_1
+amd_fam14h_get_pci_info,FUNC_0
+amd_fam14h_pci_dev,VAR_2
+dprint,FUNC_1
+pci_read_long,FUNC_2
+pci_write_long,FUNC_3
+previous_count,VAR_3
+amd_fam14h_init,FUNC_4
+state,VAR_4
+cpu,VAR_5
+enable_bit,VAR_6
+pci_offset,VAR_7
+ret,VAR_8
+val,VAR_9

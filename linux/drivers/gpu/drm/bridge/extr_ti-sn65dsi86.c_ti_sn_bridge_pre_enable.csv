@@ -1,0 +1,10 @@
+HPD_DISABLE,VAR_0
+SN_HPD_DISABLE_REG,VAR_1
+bridge_to_ti_sn_bridge,FUNC_0
+drm_panel_prepare,FUNC_1
+pm_runtime_get_sync,FUNC_2
+regmap_update_bits,FUNC_3
+ti_sn_bridge_set_refclk_freq,FUNC_4
+ti_sn_bridge_pre_enable,FUNC_5
+bridge,VAR_2
+pdata,VAR_3

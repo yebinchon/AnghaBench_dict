@@ -1,0 +1,17 @@
+ETH_ALEN,VAR_0
+QLCNIC_MAC_EVENT,VAR_1
+QLCNIC_REQUEST,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le64,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+qlcnic_send_cmd_descs,FUNC_4
+qlcnic_82xx_sre_macaddr_change,FUNC_5
+adapter,VAR_3
+addr,VAR_4
+vlan_id,VAR_5
+op,VAR_6
+req,VAR_7
+mac_req,VAR_8
+vlan_req,VAR_9
+word,VAR_10

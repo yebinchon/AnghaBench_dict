@@ -1,0 +1,10 @@
+BITFLIP_FILTER_PRIORITY,VAR_0
+GIT_FILTER_DRIVER_PRIORITY,VAR_1
+REVERSE_FILTER_PRIORITY,VAR_2
+cl_git_pass,FUNC_0
+create_bitflip_filter,FUNC_1
+create_erroneous_filter,FUNC_2
+create_reverse_filter,FUNC_3
+git_filter_register,FUNC_4
+register_custom_filters,FUNC_5
+filters_registered,VAR_3

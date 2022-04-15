@@ -1,0 +1,13 @@
+IMAGETAG_CRC_START,VAR_0
+IMAGETAG_MAGIC1_TCOM,VAR_1
+crc32,FUNC_0
+fake_data,VAR_2
+htonl,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+ntohl,FUNC_4
+strlen,FUNC_5
+fix_header,FUNC_6
+buf,VAR_3
+tag,VAR_4
+crc,VAR_5

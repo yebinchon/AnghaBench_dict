@@ -1,0 +1,12 @@
+CAN_LED_EVENT_STOP,VAR_0
+can_led_event,FUNC_0
+close_candev,FUNC_1
+free_irq,FUNC_2
+napi_disable,FUNC_3
+netdev_priv,FUNC_4
+netif_stop_queue,FUNC_5
+pm_runtime_put,FUNC_6
+xcan_chip_stop,FUNC_7
+xcan_close,FUNC_8
+ndev,VAR_1
+priv,VAR_2

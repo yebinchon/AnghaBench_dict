@@ -1,0 +1,13 @@
+SCTP_CMD_TRANSPORT_HB_SENT,VAR_0
+SCTP_DISPOSITION_CONSUME,VAR_1
+SCTP_DISPOSITION_NOMEM,VAR_2
+SCTP_TRANSPORT,FUNC_0
+sctp_add_cmd_sf,FUNC_1
+sctp_sf_heartbeat,FUNC_2
+sctp_sf_do_prm_requestheartbeat,FUNC_3
+net,VAR_3
+ep,VAR_4
+asoc,VAR_5
+type,VAR_6
+arg,VAR_7
+commands,VAR_8

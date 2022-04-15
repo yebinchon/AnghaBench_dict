@@ -1,0 +1,10 @@
+X86_FEATURE_XSAVE,VAR_0
+XFEATURE_MASK_FPSSE,VAR_1
+XSAVE_HDR_OFFSET,VAR_2
+boot_cpu_has,FUNC_0
+fill_xsave,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+kvm_vcpu_ioctl_x86_get_xsave,FUNC_4
+vcpu,VAR_3
+guest_xsave,VAR_4

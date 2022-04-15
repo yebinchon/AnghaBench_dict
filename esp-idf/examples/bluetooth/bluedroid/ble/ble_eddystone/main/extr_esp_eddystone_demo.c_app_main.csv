@@ -1,0 +1,13 @@
+BT_CONTROLLER_INIT_CONFIG_DEFAULT,FUNC_0
+ESP_BT_MODE_BLE,VAR_0
+ESP_BT_MODE_CLASSIC_BT,VAR_1
+ESP_ERROR_CHECK,FUNC_1
+ble_scan_params,VAR_2
+esp_ble_gap_set_scan_params,FUNC_2
+esp_bt_controller_enable,FUNC_3
+esp_bt_controller_init,FUNC_4
+esp_bt_controller_mem_release,FUNC_5
+esp_eddystone_init,FUNC_6
+nvs_flash_init,FUNC_7
+app_main,FUNC_8
+bt_cfg,VAR_3

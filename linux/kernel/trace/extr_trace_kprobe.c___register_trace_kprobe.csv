@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+KPROBE_FLAG_DISABLED,VAR_1
+LOCKDOWN_KPROBES,VAR_2
+pr_warn,FUNC_0
+register_kprobe,FUNC_1
+register_kretprobe,FUNC_2
+security_locked_down,FUNC_3
+trace_kprobe_is_registered,FUNC_4
+trace_kprobe_is_return,FUNC_5
+trace_kprobe_symbol,FUNC_6
+trace_probe_is_enabled,FUNC_7
+traceprobe_update_arg,FUNC_8
+within_notrace_func,FUNC_9
+__register_trace_kprobe,FUNC_10
+tk,VAR_3
+i,VAR_4
+ret,VAR_5

@@ -1,0 +1,10 @@
+SPRN_TCR,VAR_0
+WDTP,FUNC_0
+WDTP_MASK,VAR_1
+mfspr,FUNC_1
+mtspr,FUNC_2
+sec_to_period,FUNC_3
+__booke_wdt_set,FUNC_4
+data,VAR_2
+val,VAR_3
+wdog,VAR_4

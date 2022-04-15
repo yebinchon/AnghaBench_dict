@@ -1,0 +1,9 @@
+MT9P031_READ_MODE_2_ROW_BLC,VAR_0
+MT9P031_ROW_BLACK_TARGET,VAR_1
+mt9p031_set_mode2,FUNC_0
+mt9p031_write,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+mt9p031_restore_blc,FUNC_3
+mt9p031,VAR_2
+client,VAR_3
+ret,VAR_4

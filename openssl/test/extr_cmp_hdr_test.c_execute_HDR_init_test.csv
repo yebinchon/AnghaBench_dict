@@ -1,0 +1,15 @@
+ASN1_OCTET_STRING_cmp,FUNC_0
+OSSL_CMP_HDR_get0_recipNonce,FUNC_1
+OSSL_CMP_HDR_get0_transactionID,FUNC_2
+OSSL_CMP_PVNO,VAR_0
+TEST_int_eq,FUNC_3
+TEST_ptr,FUNC_4
+TEST_true,FUNC_5
+ossl_cmp_hdr_get0_senderNonce,FUNC_6
+ossl_cmp_hdr_get_pvno,FUNC_7
+ossl_cmp_hdr_init,FUNC_8
+execute_HDR_init_test,FUNC_9
+fixture,VAR_1
+header_nonce,VAR_2
+ctx_nonce,VAR_3
+res,VAR_4

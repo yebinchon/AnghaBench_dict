@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+atomic_long_dec_and_test,FUNC_1
+atomic_long_read,FUNC_2
+list_del_init,FUNC_3
+list_empty,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+unix_gc_lock,VAR_0
+unix_get_socket,FUNC_7
+unix_sk,FUNC_8
+unix_tot_inflight,VAR_1
+unix_notinflight,FUNC_9
+user,VAR_2
+fp,VAR_3
+s,VAR_4
+u,VAR_5

@@ -1,0 +1,15 @@
+MMC_SIGNAL_VOLTAGE_180,VAR_0
+MMC_SIGNAL_VOLTAGE_330,VAR_1
+mmc_priv,FUNC_0
+sdhci_pltfm_priv,FUNC_1
+sdhci_priv,FUNC_2
+sdhci_start_signal_voltage_switch,FUNC_3
+tegra_sdhci_pad_autocalib,FUNC_4
+tegra_sdhci_set_padctrl,FUNC_5
+sdhci_tegra_start_signal_voltage_switch,FUNC_6
+mmc,VAR_2
+ios,VAR_3
+host,VAR_4
+pltfm_host,VAR_5
+tegra_host,VAR_6
+ret,VAR_7

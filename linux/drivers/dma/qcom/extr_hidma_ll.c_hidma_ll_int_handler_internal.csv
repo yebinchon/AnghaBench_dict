@@ -1,0 +1,15 @@
+HIDMA_ERR_INT_MASK,VAR_0
+HIDMA_EVCA_IRQ_CLR_REG,VAR_1
+HIDMA_EVRE_STATUS_ERROR,VAR_2
+dev_err,FUNC_0
+hidma_cleanup_pending_tre,FUNC_1
+hidma_handle_tre_completion,FUNC_2
+hidma_ll_disable,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+writel,FUNC_6
+writel_relaxed,FUNC_7
+hidma_ll_int_handler_internal,FUNC_8
+lldev,VAR_3
+cause,VAR_4
+irqflags,VAR_5

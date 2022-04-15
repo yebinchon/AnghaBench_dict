@@ -1,0 +1,16 @@
+AUXIO_LED_LED,VAR_0
+ENXIO,VAR_1
+RF_ACTIVE,VAR_2
+SYS_RES_MEMORY,VAR_3
+auxio_free_resource,FUNC_0
+auxio_led_func,FUNC_1
+auxio_led_read,FUNC_2
+bus_alloc_resource_any,FUNC_3
+device_printf,FUNC_4
+led_create,FUNC_5
+rman_get_bushandle,FUNC_6
+rman_get_bustag,FUNC_7
+auxio_attach_common,FUNC_8
+sc,VAR_4
+res,VAR_5
+i,VAR_6

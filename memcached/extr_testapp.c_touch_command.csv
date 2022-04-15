@@ -1,0 +1,15 @@
+PROTOCOL_BINARY_REQ,VAR_0
+assert,FUNC_0
+htonl,FUNC_1
+htons,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+touch_command,FUNC_5
+buf,VAR_1
+bufsz,VAR_2
+cmd,VAR_3
+key,VAR_4
+keylen,VAR_5
+exptime,VAR_6
+request,VAR_7
+key_offset,VAR_8

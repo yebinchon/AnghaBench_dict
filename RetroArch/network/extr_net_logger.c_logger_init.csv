@@ -1,0 +1,15 @@
+PC_DEVELOPMENT_IP_ADDRESS,VAR_0
+PC_DEVELOPMENT_UDP_PORT,VAR_1
+SOCKET_DOMAIN_INET,VAR_2
+SOCKET_PROTOCOL_NONE,VAR_3
+SOCKET_TYPE_DATAGRAM,VAR_4
+g_sid,VAR_5
+network_init,FUNC_0
+printf,FUNC_1
+socket_create,FUNC_2
+socket_set_target,FUNC_3
+target,VAR_6
+logger_init,FUNC_4
+in_target,VAR_7
+server,VAR_8
+port,VAR_9

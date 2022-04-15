@@ -1,0 +1,10 @@
+SET_PDUTYPE,FUNC_0
+SNMP_PDU_GET,VAR_0
+SNMP_PDU_GETBULK,VAR_1
+SNMP_PDU_GETNEXT,VAR_2
+assert,FUNC_1
+strcasecmp,FUNC_2
+warnx,FUNC_3
+parse_pdu_type,FUNC_4
+snmptoolctx,VAR_3
+opt_arg,VAR_4

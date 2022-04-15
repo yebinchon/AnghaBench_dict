@@ -1,0 +1,10 @@
+AGP_AMD64_APBASE,VAR_0
+AGP_AMD64_APBASE_MASK,VAR_1
+device_get_softc,FUNC_0
+pci_cfgregwrite,FUNC_1
+rman_get_start,FUNC_2
+agp_amd64_apbase_fixup,FUNC_3
+dev,VAR_2
+sc,VAR_3
+apbase,VAR_4
+i,VAR_5

@@ -1,0 +1,16 @@
+O_CLOEXEC,VAR_0
+O_WRONLY,VAR_1
+close,FUNC_0
+errno,VAR_2
+ksft_exit_fail_msg,FUNC_1
+open,FUNC_2
+strerror,FUNC_3
+write_nointr,FUNC_4
+write_to_file,FUNC_5
+filename,VAR_3
+buf,VAR_4
+count,VAR_5
+allowed_errno,VAR_6
+fd,VAR_7
+saved_errno,VAR_8
+ret,VAR_9

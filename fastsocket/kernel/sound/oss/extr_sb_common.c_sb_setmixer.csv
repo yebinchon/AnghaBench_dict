@@ -1,0 +1,13 @@
+MDL_ESS,VAR_0
+MIXER_ADDR,VAR_1
+MIXER_DATA,VAR_2
+ess_setmixer,FUNC_0
+outb,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+udelay,FUNC_4
+sb_setmixer,FUNC_5
+devc,VAR_3
+port,VAR_4
+value,VAR_5
+flags,VAR_6

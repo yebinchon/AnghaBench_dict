@@ -1,0 +1,13 @@
+ACPI_END,VAR_0
+ACPI_GPE0_BLK,VAR_1
+ACPI_PM_CNT_BLK,VAR_2
+ACPI_PM_EVT_BLK,VAR_3
+inl,FUNC_0
+outl,FUNC_1
+outw,FUNC_2
+pm2_ioread,FUNC_3
+pm2_iowrite,FUNC_4
+pm_ioread,FUNC_5
+pm_iowrite,FUNC_6
+acpi_registers_setup,FUNC_7
+value,VAR_4

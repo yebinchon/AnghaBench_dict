@@ -1,0 +1,13 @@
+I915_READ,FUNC_0
+POWER_DOMAIN_DISPLAY_CORE,VAR_0
+WRPLL_CTL,FUNC_1
+WRPLL_PLL_ENABLE,VAR_1
+intel_display_power_get_if_enabled,FUNC_2
+intel_display_power_put,FUNC_3
+hsw_ddi_wrpll_get_hw_state,FUNC_4
+dev_priv,VAR_2
+pll,VAR_3
+hw_state,VAR_4
+id,VAR_5
+wakeref,VAR_6
+val,VAR_7

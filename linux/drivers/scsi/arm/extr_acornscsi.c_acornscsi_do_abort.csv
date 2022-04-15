@@ -1,0 +1,17 @@
+CMND_DISCONNECT,VAR_0
+SBIC_CMND,VAR_1
+acornscsi_abortcmd,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+printk,FUNC_3
+queue_remove_cmd,FUNC_4
+res_not_running,VAR_2
+res_snooze,VAR_3
+res_success,VAR_4
+res_success_clear,VAR_5
+sbic_arm_write,FUNC_5
+acornscsi_do_abort,FUNC_6
+host,VAR_6
+SCpnt,VAR_7
+res,VAR_8
+flags,VAR_9

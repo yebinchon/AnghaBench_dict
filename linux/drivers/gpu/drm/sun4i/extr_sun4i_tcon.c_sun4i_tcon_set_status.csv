@@ -1,0 +1,12 @@
+DRM_DEBUG_DRIVER,FUNC_0
+SUN4I_TCON_GCTL_REG,VAR_0
+SUN4I_TCON_GCTL_TCON_ENABLE,VAR_1
+regmap_update_bits,FUNC_1
+sun4i_tcon_channel_set_status,FUNC_2
+sun4i_tcon_lvds_set_status,FUNC_3
+sun4i_tcon_set_status,FUNC_4
+tcon,VAR_2
+encoder,VAR_3
+enabled,VAR_4
+is_lvds,VAR_5
+channel,VAR_6

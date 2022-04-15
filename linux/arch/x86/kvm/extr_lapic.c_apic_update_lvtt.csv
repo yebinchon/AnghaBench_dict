@@ -1,0 +1,11 @@
+APIC_LVTT,VAR_0
+APIC_LVT_TIMER_TSCDEADLINE,VAR_1
+APIC_TMICT,VAR_2
+apic_lvtt_tscdeadline,FUNC_0
+hrtimer_cancel,FUNC_1
+kvm_lapic_get_reg,FUNC_2
+kvm_lapic_set_reg,FUNC_3
+limit_periodic_timer_frequency,FUNC_4
+apic_update_lvtt,FUNC_5
+apic,VAR_3
+timer_mode,VAR_4

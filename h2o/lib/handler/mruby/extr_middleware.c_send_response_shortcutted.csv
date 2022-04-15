@@ -1,0 +1,15 @@
+H2O_TOKEN_DATE,VAR_0
+assert,FUNC_0
+create_sender,FUNC_1
+h2o_find_header,FUNC_2
+h2o_mruby_set_response_header,FUNC_3
+h2o_resp_add_date_header,FUNC_4
+h2o_start_response,FUNC_5
+mrb_nil_value,FUNC_6
+stub1,FUNC_7
+send_response_shortcutted,FUNC_8
+subreq,VAR_1
+generator,VAR_2
+i,VAR_3
+header,VAR_4
+sender,VAR_5

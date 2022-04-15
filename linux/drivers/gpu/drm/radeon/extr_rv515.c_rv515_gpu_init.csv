@@ -1,0 +1,14 @@
+R300_DST_PIPE_CONFIG,VAR_0
+R400_GB_PIPE_SELECT,VAR_1
+RREG32,FUNC_0
+WREG32_PLL,FUNC_1
+pr_warn,FUNC_2
+r100_gui_wait_for_idle,FUNC_3
+r420_pipes_init,FUNC_4
+rv515_mc_wait_for_idle,FUNC_5
+rv515_vga_render_disable,FUNC_6
+rv515_gpu_init,FUNC_7
+rdev,VAR_2
+pipe_select_current,VAR_3
+gb_pipe_select,VAR_4
+tmp,VAR_5

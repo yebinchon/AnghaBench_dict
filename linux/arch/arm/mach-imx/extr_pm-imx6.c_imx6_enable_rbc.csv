@@ -1,0 +1,13 @@
+BM_CCR_RBC_BYPASS_COUNT,VAR_0
+BM_CCR_RBC_EN,VAR_1
+CCR,VAR_2
+ccm_base,VAR_3
+imx_gpc_mask_all,FUNC_0
+imx_gpc_restore_all,FUNC_1
+readl_relaxed,FUNC_2
+udelay,FUNC_3
+writel,FUNC_4
+writel_relaxed,FUNC_5
+imx6_enable_rbc,FUNC_6
+enable,VAR_4
+val,VAR_5

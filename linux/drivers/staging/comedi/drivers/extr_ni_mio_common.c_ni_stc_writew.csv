@@ -1,0 +1,12 @@
+NI_E_STC_WINDOW_ADDR_REG,VAR_0
+NI_E_STC_WINDOW_DATA_REG,VAR_1
+m_series_stc_write,FUNC_0
+ni_writew,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ni_stc_writew,FUNC_4
+dev,VAR_2
+data,VAR_3
+reg,VAR_4
+devpriv,VAR_5
+flags,VAR_6

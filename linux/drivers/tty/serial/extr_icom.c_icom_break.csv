@@ -1,0 +1,12 @@
+CMD_SND_BREAK,VAR_0
+ICOM_PORT,VAR_1
+readb,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+trace,FUNC_3
+writeb,FUNC_4
+icom_break,FUNC_5
+port,VAR_2
+break_state,VAR_3
+cmdReg,VAR_4
+flags,VAR_5

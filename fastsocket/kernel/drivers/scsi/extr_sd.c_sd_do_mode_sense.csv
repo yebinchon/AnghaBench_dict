@@ -1,0 +1,11 @@
+SD_MAX_RETRIES,VAR_0
+SD_TIMEOUT,VAR_1
+scsi_mode_sense,FUNC_0
+sd_do_mode_sense,FUNC_1
+sdp,VAR_2
+dbd,VAR_3
+modepage,VAR_4
+buffer,VAR_5
+len,VAR_6
+data,VAR_7
+sshdr,VAR_8

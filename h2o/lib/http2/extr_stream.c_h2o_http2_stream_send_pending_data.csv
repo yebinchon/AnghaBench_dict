@@ -1,0 +1,13 @@
+H2O_HTTP2_STREAM_STATE_END_STREAM,VAR_0
+H2O_HTTP2_STREAM_STATE_SEND_BODY_IS_FINAL,VAR_1
+H2O_SEND_STATE_ERROR,VAR_2
+h2o_http2_stream_set_state,FUNC_0
+h2o_http2_window_get_avail,FUNC_1
+memmove,FUNC_2
+send_data,FUNC_3
+h2o_http2_stream_send_pending_data,FUNC_4
+conn,VAR_3
+stream,VAR_4
+send_state,VAR_5
+nextbuf,VAR_6
+newsize,VAR_7

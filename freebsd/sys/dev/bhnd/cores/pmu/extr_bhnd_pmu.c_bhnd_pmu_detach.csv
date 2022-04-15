@@ -1,0 +1,12 @@
+BHND_SERVICE_ANY,VAR_0
+BHND_SERVICE_CHIPC,VAR_1
+BPMU_LOCK_DESTROY,FUNC_0
+bhnd_deregister_provider,FUNC_1
+bhnd_free_core_clkctl,FUNC_2
+bhnd_pmu_query_fini,FUNC_3
+bhnd_release_provider,FUNC_4
+device_get_softc,FUNC_5
+bhnd_pmu_detach,FUNC_6
+dev,VAR_2
+sc,VAR_3
+error,VAR_4

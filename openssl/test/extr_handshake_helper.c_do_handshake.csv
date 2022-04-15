@@ -1,0 +1,17 @@
+HANDSHAKE_RESULT_free,FUNC_0
+SSL_SESSION_free,FUNC_1
+SSL_TEST_FIRST_HANDSHAKE_FAILED,VAR_0
+SSL_TEST_HANDSHAKE_RESUME,VAR_1
+SSL_TEST_INTERNAL_ERROR,VAR_2
+SSL_TEST_SUCCESS,VAR_3
+do_handshake_internal,FUNC_2
+do_handshake,FUNC_3
+server_ctx,VAR_4
+server2_ctx,VAR_5
+client_ctx,VAR_6
+resume_server_ctx,VAR_7
+resume_client_ctx,VAR_8
+test_ctx,VAR_9
+result,VAR_10
+session,VAR_11
+serv_sess,VAR_12

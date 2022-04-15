@@ -1,0 +1,15 @@
+EIO,VAR_0
+EREMOTEIO,VAR_1
+NFS4_STATEID_SIZE,VAR_2
+be32_to_cpup,FUNC_0
+decode_opaque_fixed,FUNC_1
+decode_verifier,FUNC_2
+unlikely,FUNC_3
+xdr_decode_hyper,FUNC_4
+xdr_inline_decode,FUNC_5
+decode_write_response,FUNC_6
+xdr,VAR_3
+res,VAR_4
+p,VAR_5
+status,VAR_6
+count,VAR_7

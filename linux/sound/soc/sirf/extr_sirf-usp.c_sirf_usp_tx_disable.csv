@@ -1,0 +1,7 @@
+USP_TX_ENA,VAR_0
+USP_TX_FIFO_OP,VAR_1
+USP_TX_RX_ENABLE,VAR_2
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+sirf_usp_tx_disable,FUNC_2
+usp,VAR_3

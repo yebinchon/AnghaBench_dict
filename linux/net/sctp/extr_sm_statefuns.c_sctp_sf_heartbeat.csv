@@ -1,0 +1,16 @@
+SCTP_CHUNK,FUNC_0
+SCTP_CMD_REPLY,VAR_0
+SCTP_CMD_RTO_PENDING,VAR_1
+SCTP_DISPOSITION_CONSUME,VAR_2
+SCTP_DISPOSITION_NOMEM,VAR_3
+SCTP_TRANSPORT,FUNC_1
+sctp_add_cmd_sf,FUNC_2
+sctp_make_heartbeat,FUNC_3
+sctp_sf_heartbeat,FUNC_4
+ep,VAR_4
+asoc,VAR_5
+type,VAR_6
+arg,VAR_7
+commands,VAR_8
+transport,VAR_9
+reply,VAR_10

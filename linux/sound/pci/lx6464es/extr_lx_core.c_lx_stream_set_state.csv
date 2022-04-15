@@ -1,0 +1,13 @@
+CMD_13_SET_STREAM_STATE,VAR_0
+PIPE_INFO_TO_CMD,FUNC_0
+lx_message_init,FUNC_1
+lx_message_send_atomic,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+lx_stream_set_state,FUNC_5
+chip,VAR_1
+pipe,VAR_2
+is_capture,VAR_3
+state,VAR_4
+err,VAR_5
+pipe_cmd,VAR_6

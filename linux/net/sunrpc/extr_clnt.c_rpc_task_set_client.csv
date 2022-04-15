@@ -1,0 +1,13 @@
+RPC_TASK_NO_RETRANS_TIMEOUT,VAR_0
+RPC_TASK_SOFT,VAR_1
+RPC_TASK_SWAPPER,VAR_2
+RPC_TASK_TIMEOUT,VAR_3
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+list_add_tail,FUNC_2
+rpc_task_set_transport,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+rpc_task_set_client,FUNC_6
+task,VAR_4
+clnt,VAR_5

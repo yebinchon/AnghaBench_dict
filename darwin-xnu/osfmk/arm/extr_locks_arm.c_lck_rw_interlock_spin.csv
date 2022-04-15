@@ -1,0 +1,8 @@
+LCK_RW_INTERLOCK,VAR_0
+clear_exclusive,FUNC_0
+load_exclusive32,FUNC_1
+memory_order_relaxed,VAR_1
+panic,FUNC_2
+wait_for_event,FUNC_3
+lck_rw_interlock_spin,FUNC_4
+lock,VAR_2

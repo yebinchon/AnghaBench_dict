@@ -1,0 +1,10 @@
+MEI_WDT_RUNNING,VAR_0
+MEI_WDT_START,VAR_1
+init_completion,FUNC_0
+mei_wdt_ping,FUNC_1
+wait_for_completion_killable,FUNC_2
+watchdog_get_drvdata,FUNC_3
+mei_wdt_ops_ping,FUNC_4
+wdd,VAR_2
+wdt,VAR_3
+ret,VAR_4

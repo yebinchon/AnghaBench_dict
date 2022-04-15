@@ -1,0 +1,13 @@
+BSR_BULK_IN_FULL,VAR_0
+BS_READABLE,VAR_1
+DEBUGP,FUNC_0
+POLL_LOOP_COUNT,VAR_2
+REG_OFFSET_BUFFER_STATUS,VAR_3
+test_and_clear_bit,FUNC_1
+wait_event_interruptible_timeout,FUNC_2
+xinb,FUNC_3
+wait_for_bulk_in_ready,FUNC_4
+dev,VAR_4
+i,VAR_5
+rc,VAR_6
+iobase,VAR_7

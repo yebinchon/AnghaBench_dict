@@ -1,0 +1,12 @@
+PMCRAID_ABORT_CMD,VAR_0
+PMCRAID_MAX_CDB_LEN,VAR_1
+REQ_TYPE_IOACMD,VAR_2
+cpu_to_be64,FUNC_0
+le64_to_cpu,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+pmcraid_prepare_cancel_cmd,FUNC_4
+cmd,VAR_3
+cmd_to_cancel,VAR_4
+ioarcb,VAR_5
+ioarcb_addr,VAR_6

@@ -1,0 +1,12 @@
+NVME_CTRL_RESETTING,VAR_0
+dev_warn,FUNC_0
+nvme_change_ctrl_state,FUNC_1
+nvme_queue_scan,FUNC_2
+nvme_wq,VAR_1
+queue_work,FUNC_3
+set_bit,FUNC_4
+trace_nvme_async_event,FUNC_5
+nvme_handle_aen_notice,FUNC_6
+ctrl,VAR_2
+result,VAR_3
+aer_notice_type,VAR_4

@@ -1,0 +1,14 @@
+IB_MGMT_RMPP_FLAG_FIRST,VAR_0
+IB_MGMT_RMPP_STATUS_BAD_SEG,VAR_1
+IB_MGMT_RMPP_STATUS_BAD_STATUS,VAR_2
+continue_rmpp,FUNC_0
+cpu_to_be32,FUNC_1
+ib_free_recv_mad,FUNC_2
+ib_get_rmpp_flags,FUNC_3
+nack_recv,FUNC_4
+start_rmpp,FUNC_5
+process_rmpp_data,FUNC_6
+agent,VAR_3
+mad_recv_wc,VAR_4
+rmpp_hdr,VAR_5
+rmpp_status,VAR_6

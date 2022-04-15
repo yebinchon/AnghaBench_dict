@@ -1,0 +1,10 @@
+GIT_EINVALIDSPEC,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_branch_move,FUNC_2
+git_reference_free,FUNC_3
+git_reference_lookup,FUNC_4
+repo,VAR_1
+test_refs_branches_move__moving_a_branch_with_an_invalid_name_returns_EINVALIDSPEC,FUNC_5
+original_ref,VAR_2
+new_ref,VAR_3

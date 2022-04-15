@@ -1,0 +1,12 @@
+ATA_DMA_MASK,VAR_0
+SCC_BMID_BAR,VAR_1
+pci_set_consistent_dma_mask,FUNC_0
+pci_set_dma_mask,FUNC_1
+pci_set_master,FUNC_2
+scc_reset_controller,FUNC_3
+scc_setup_ports,FUNC_4
+to_pci_dev,FUNC_5
+scc_host_init,FUNC_6
+host,VAR_2
+pdev,VAR_3
+rc,VAR_4

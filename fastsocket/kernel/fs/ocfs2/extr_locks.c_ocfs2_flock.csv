@@ -1,0 +1,16 @@
+ENOLCK,VAR_0
+FL_FLOCK,VAR_1
+F_UNLCK,VAR_2
+OCFS2_MOUNT_LOCALFLOCKS,VAR_3
+OCFS2_SB,FUNC_0
+__mandatory_lock,FUNC_1
+flock_lock_file_wait,FUNC_2
+ocfs2_do_flock,FUNC_3
+ocfs2_do_funlock,FUNC_4
+ocfs2_mount_local,FUNC_5
+ocfs2_flock,FUNC_6
+file,VAR_4
+cmd,VAR_5
+fl,VAR_6
+inode,VAR_7
+osb,VAR_8

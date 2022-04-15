@@ -1,0 +1,13 @@
+CLKRX_BYP,VAR_0
+CLK_RESET,VAR_1
+COMP_EN,VAR_2
+DLL_RESET,VAR_3
+PORT_EN,VAR_4
+XCV_DLL_CTL,VAR_5
+XCV_RESET,VAR_6
+msleep,FUNC_0
+readq_relaxed,FUNC_1
+writeq_relaxed,FUNC_2
+xcv,VAR_7
+xcv_init_hw,FUNC_3
+cfg,VAR_8

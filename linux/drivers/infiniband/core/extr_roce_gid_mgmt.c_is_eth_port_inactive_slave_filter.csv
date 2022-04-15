@@ -1,0 +1,12 @@
+BONDING_SLAVE_STATE_INACTIVE,VAR_0
+is_eth_active_slave_of_bonding_rcu,FUNC_0
+netdev_master_upper_dev_get_rcu,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+is_eth_port_inactive_slave_filter,FUNC_4
+ib_dev,VAR_1
+port,VAR_2
+rdma_ndev,VAR_3
+cookie,VAR_4
+master_dev,VAR_5
+res,VAR_6

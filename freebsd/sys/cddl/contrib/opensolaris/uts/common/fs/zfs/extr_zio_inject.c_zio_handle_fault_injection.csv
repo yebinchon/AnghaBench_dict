@@ -1,0 +1,17 @@
+BP_GET_TYPE,FUNC_0
+DMU_OT_NONE,VAR_0
+RW_READER,VAR_1
+ZINJECT_DATA_FAULT,VAR_2
+ZIO_TYPE_READ,VAR_3
+inject_handlers,VAR_4
+inject_lock,VAR_5
+list_head,FUNC_1
+list_next,FUNC_2
+rw_enter,FUNC_3
+rw_exit,FUNC_4
+zio_match_handler,FUNC_5
+zio_handle_fault_injection,FUNC_6
+zio,VAR_6
+error,VAR_7
+ret,VAR_8
+handler,VAR_9

@@ -1,0 +1,17 @@
+VMCI_ERROR_INVALID_ARGS,VAR_0
+VMCI_ERROR_QUEUEPAIR_NOT_READY,VAR_1
+VMCI_ERROR_WOULD_BLOCK,VAR_2
+WRITE,VAR_3
+iov_iter_kvec,FUNC_0
+qp_enqueue_locked,FUNC_1
+qp_lock,FUNC_2
+qp_unlock,FUNC_3
+qp_wait_for_ready_queue,FUNC_4
+vmci_qpair_enqueue,FUNC_5
+qpair,VAR_4
+buf,VAR_5
+buf_size,VAR_6
+buf_type,VAR_7
+result,VAR_8
+from,VAR_9
+v,VAR_10

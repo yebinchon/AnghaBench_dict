@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+ASSERT0,FUNC_1
+BP_IS_GANG,FUNC_2
+KM_SLEEP,VAR_0
+MUTEX_HELD,FUNC_3
+atomic_add_64,FUNC_4
+bp2sio,FUNC_5
+kmem_zalloc,FUNC_6
+scan_io_queue_insert_impl,FUNC_7
+scan_io_queue_insert,FUNC_8
+queue,VAR_1
+bp,VAR_2
+dva_i,VAR_3
+zio_flags,VAR_4
+zb,VAR_5
+scn,VAR_6
+sio,VAR_7

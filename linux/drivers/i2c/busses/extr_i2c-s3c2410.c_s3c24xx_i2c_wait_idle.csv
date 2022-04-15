@@ -1,0 +1,17 @@
+S3C2410_IDLE_TIMEOUT,VAR_0
+S3C2410_IICSTAT,VAR_1
+S3C2410_IICSTAT_START,VAR_2
+cpu_relax,FUNC_0
+dev_dbg,FUNC_1
+dev_warn,FUNC_2
+ktime_get,FUNC_3
+ktime_us_delta,FUNC_4
+readl,FUNC_5
+usleep_range,FUNC_6
+s3c24xx_i2c_wait_idle,FUNC_7
+i2c,VAR_3
+iicstat,VAR_4
+start,VAR_5
+now,VAR_6
+delay,VAR_7
+spins,VAR_8

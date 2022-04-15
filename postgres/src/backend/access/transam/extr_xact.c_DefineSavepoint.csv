@@ -1,0 +1,17 @@
+BlockStateAsString,FUNC_0
+CurrentTransactionState,VAR_0
+ERRCODE_INVALID_TRANSACTION_STATE,VAR_1
+ERRCODE_NO_ACTIVE_SQL_TRANSACTION,VAR_2
+ERROR,VAR_3
+FATAL,VAR_4
+IsInParallelMode,FUNC_1
+MemoryContextStrdup,FUNC_2
+PushTransaction,FUNC_3
+TopTransactionContext,VAR_5
+elog,FUNC_4
+ereport,FUNC_5
+errcode,FUNC_6
+errmsg,FUNC_7
+DefineSavepoint,FUNC_8
+name,VAR_6
+s,VAR_7

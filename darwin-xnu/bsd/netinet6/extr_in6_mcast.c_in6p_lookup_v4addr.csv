@@ -1,0 +1,14 @@
+AF_INET,VAR_0
+EADDRNOTAVAIL,VAR_1
+IFA_REMREF,FUNC_0
+if_index,VAR_2
+ifa_ifpgetprimary,FUNC_1
+ifindex2ifnet,VAR_3
+ifnet_head_done,FUNC_2
+ifnet_head_lock_shared,FUNC_3
+in6p_lookup_v4addr,FUNC_4
+mreq,VAR_4
+v4mreq,VAR_5
+ifp,VAR_6
+ifa,VAR_7
+sin,VAR_8

@@ -1,0 +1,11 @@
+get_mmio_spte_gfn,FUNC_0
+is_mmio_spte,FUNC_1
+mark_mmio_spte,FUNC_2
+mmu_spte_clear_no_track,FUNC_3
+unlikely,FUNC_4
+sync_mmio_spte,FUNC_5
+vcpu,VAR_0
+sptep,VAR_1
+gfn,VAR_2
+access,VAR_3
+nr_present,VAR_4

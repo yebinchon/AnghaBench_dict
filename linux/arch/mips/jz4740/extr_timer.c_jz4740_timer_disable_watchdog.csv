@@ -1,0 +1,5 @@
+BIT,FUNC_0
+JZ_REG_TIMER_STOP_SET,VAR_0
+jz4740_timer_base,VAR_1
+writel,FUNC_1
+jz4740_timer_disable_watchdog,FUNC_2

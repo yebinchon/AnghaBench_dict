@@ -1,0 +1,10 @@
+COMEDI_COUNTER_ARMED,VAR_0
+COMEDI_COUNTER_COUNTING,VAR_1
+Gi_Armed_Bit,FUNC_0
+Gi_Counting_Bit,FUNC_1
+NITIO_Gxx_Status_Reg,FUNC_2
+read_register,FUNC_3
+ni_tio_counter_status,FUNC_4
+counter,VAR_2
+status,VAR_3
+bits,VAR_4

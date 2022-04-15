@@ -1,0 +1,10 @@
+CEC_RW_BUS_BUSY,VAR_0
+CEC_RW_REG,VAR_1
+ETIMEDOUT,VAR_2
+ktime_add_us,FUNC_0
+ktime_compare,FUNC_1
+ktime_get,FUNC_2
+readl_relaxed,FUNC_3
+meson_ao_cec_wait_busy,FUNC_4
+ao_cec,VAR_3
+timeout,VAR_4

@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_UINT,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_PROC,FUNC_1
+SYSCTL_ADD_UQUAD,FUNC_2
+SYSCTL_CHILDREN,FUNC_3
+device_get_sysctl_ctx,FUNC_4
+device_get_sysctl_tree,FUNC_5
+sysctl_bcm2835_audio_dest,VAR_4
+vchi_audio_sysctl_init,FUNC_6
+sc,VAR_5
+ctx,VAR_6
+tree_node,VAR_7
+tree,VAR_8

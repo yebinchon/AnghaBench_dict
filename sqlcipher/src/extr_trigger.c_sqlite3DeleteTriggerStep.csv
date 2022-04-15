@@ -1,0 +1,10 @@
+sqlite3DbFree,FUNC_0
+sqlite3ExprDelete,FUNC_1
+sqlite3ExprListDelete,FUNC_2
+sqlite3IdListDelete,FUNC_3
+sqlite3SelectDelete,FUNC_4
+sqlite3UpsertDelete,FUNC_5
+sqlite3DeleteTriggerStep,FUNC_6
+db,VAR_0
+pTriggerStep,VAR_1
+pTmp,VAR_2

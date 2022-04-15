@@ -1,0 +1,15 @@
+MB1H_RESET_MODEM,VAR_0
+MBOX_BIT,FUNC_0
+PRCM_MBOX_CPU_SET,VAR_1
+PRCM_MBOX_CPU_VAL,VAR_2
+PRCM_MBOX_HEADER_REQ_MB1,VAR_3
+cpu_relax,FUNC_1
+mb1_transfer,VAR_4
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+readl,FUNC_4
+tcdm_base,VAR_5
+wait_for_completion,FUNC_5
+writeb,FUNC_6
+writel,FUNC_7
+db8500_prcmu_modem_reset,FUNC_8

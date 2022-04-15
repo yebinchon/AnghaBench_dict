@@ -1,0 +1,13 @@
+BLK_STS_IOERR,VAR_0
+BLK_STS_OK,VAR_1
+BTRFS_RBIO_PARITY_SCRUB,VAR_2
+atomic_dec_and_test,FUNC_0
+atomic_read,FUNC_1
+bio_put,FUNC_2
+fail_bio_stripe,FUNC_3
+rbio_orig_end_io,FUNC_4
+raid_write_end_io,FUNC_5
+bio,VAR_3
+rbio,VAR_4
+err,VAR_5
+max_errors,VAR_6

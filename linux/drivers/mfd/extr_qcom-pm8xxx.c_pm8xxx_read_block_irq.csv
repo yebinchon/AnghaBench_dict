@@ -1,0 +1,12 @@
+SSBI_REG_ADDR_IRQ_BLK_SEL,VAR_0
+SSBI_REG_ADDR_IRQ_IT_STATUS,VAR_1
+pr_err,FUNC_0
+regmap_read,FUNC_1
+regmap_write,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+pm8xxx_read_block_irq,FUNC_5
+chip,VAR_2
+bp,VAR_3
+ip,VAR_4
+rc,VAR_5

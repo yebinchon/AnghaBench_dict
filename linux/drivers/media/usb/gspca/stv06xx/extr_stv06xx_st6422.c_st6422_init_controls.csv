@@ -1,0 +1,10 @@
+V4L2_CID_BRIGHTNESS,VAR_0
+V4L2_CID_CONTRAST,VAR_1
+V4L2_CID_EXPOSURE,VAR_2
+V4L2_CID_GAIN,VAR_3
+st6422_ctrl_ops,VAR_4
+v4l2_ctrl_handler_init,FUNC_0
+v4l2_ctrl_new_std,FUNC_1
+st6422_init_controls,FUNC_2
+sd,VAR_5
+hdl,VAR_6

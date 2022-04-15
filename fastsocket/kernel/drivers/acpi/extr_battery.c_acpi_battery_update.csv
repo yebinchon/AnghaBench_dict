@@ -1,0 +1,13 @@
+acpi_battery_get_info,FUNC_0
+acpi_battery_get_state,FUNC_1
+acpi_battery_get_status,FUNC_2
+acpi_battery_init_alarm,FUNC_3
+acpi_battery_present,FUNC_4
+acpi_battery_quirks,FUNC_5
+sysfs_add_battery,FUNC_6
+sysfs_remove_battery,FUNC_7
+acpi_battery_update,FUNC_8
+battery,VAR_0
+get_info,VAR_1
+result,VAR_2
+old_present,VAR_3

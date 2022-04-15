@@ -1,0 +1,9 @@
+LAPIC_ESR,VAR_0
+PCPU_GET,FUNC_0
+cpuid,VAR_1
+lapic_eoi,FUNC_1
+lapic_read32,FUNC_2
+lapic_write32,FUNC_3
+printf,FUNC_4
+lapic_handle_error,FUNC_5
+esr,VAR_2

@@ -1,0 +1,17 @@
+ACPI_AML_BUF_SIZE,VAR_0
+ACPI_AML_OUT_KERN,VAR_1
+acpi_aml_io,VAR_2
+acpi_aml_lock_write,FUNC_0
+acpi_aml_unlock_fifo,FUNC_1
+circ_space_to_end,FUNC_2
+memcpy,FUNC_3
+min,FUNC_4
+smp_mb,FUNC_5
+smp_wmb,FUNC_6
+acpi_aml_write_kern,FUNC_7
+buf,VAR_3
+len,VAR_4
+ret,VAR_5
+crc,VAR_6
+n,VAR_7
+p,VAR_8

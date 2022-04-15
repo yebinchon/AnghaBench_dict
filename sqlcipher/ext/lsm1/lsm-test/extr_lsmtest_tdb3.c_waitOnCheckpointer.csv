@@ -1,0 +1,13 @@
+LSMTEST_MODE_BACKGROUND_CKPT,VAR_0
+LSM_INFO_CHECKPOINT_SIZE,VAR_1
+LSM_OK,VAR_2
+lsm_info,FUNC_0
+mt_signal_worker,FUNC_1
+printf,FUNC_2
+usleep,FUNC_3
+waitOnCheckpointer,FUNC_4
+pDb,VAR_3
+db,VAR_4
+nSleep,VAR_5
+nKB,VAR_6
+rc,VAR_7

@@ -1,0 +1,17 @@
+EVENT_FLEXIBLE,VAR_0
+EVENT_PINNED,VAR_1
+EVENT_TIME,VAR_2
+WARN_ON_ONCE,FUNC_0
+ctx_flexible_sched_in,FUNC_1
+ctx_pinned_sched_in,FUNC_2
+likely,FUNC_3
+lockdep_assert_held,FUNC_4
+perf_cgroup_set_timestamp,FUNC_5
+perf_clock,FUNC_6
+ctx_sched_in,FUNC_7
+ctx,VAR_3
+cpuctx,VAR_4
+event_type,VAR_5
+task,VAR_6
+is_active,VAR_7
+now,VAR_8

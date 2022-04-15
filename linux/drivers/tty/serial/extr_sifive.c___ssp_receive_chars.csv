@@ -1,0 +1,12 @@
+SIFIVE_RX_FIFO_DEPTH,VAR_0
+TTY_NORMAL,VAR_1
+__ssp_receive_char,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+tty_flip_buffer_push,FUNC_3
+uart_insert_char,FUNC_4
+__ssp_receive_chars,FUNC_5
+ssp,VAR_2
+ch,VAR_3
+is_empty,VAR_4
+c,VAR_5

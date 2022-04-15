@@ -1,0 +1,12 @@
+RT5616_LOUT_CTRL1,VAR_0
+RT5616_L_MUTE,VAR_1
+RT5616_PWR_ANLG1,VAR_2
+RT5616_PWR_LM,VAR_3
+RT5616_R_MUTE,VAR_4
+snd_soc_component_update_bits,FUNC_0
+snd_soc_dapm_to_component,FUNC_1
+rt5616_lout_event,FUNC_2
+w,VAR_5
+kcontrol,VAR_6
+event,VAR_7
+component,VAR_8

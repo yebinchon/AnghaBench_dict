@@ -1,0 +1,12 @@
+GC_N64_DWS,VAR_0
+GC_N64_POWER_W,VAR_1
+GC_N64_STOP_BIT,VAR_2
+GC_N64_STOP_LENGTH,VAR_3
+parport_write_data,FUNC_0
+udelay,FUNC_1
+gc_n64_send_stop_bit,FUNC_2
+gc,VAR_4
+target,VAR_5
+port,VAR_6
+i,VAR_7
+data,VAR_8

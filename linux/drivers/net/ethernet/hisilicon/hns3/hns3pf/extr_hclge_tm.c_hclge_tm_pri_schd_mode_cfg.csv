@@ -1,0 +1,10 @@
+HCLGE_OPC_TM_PRI_SCH_MODE_CFG,VAR_0
+HCLGE_SCH_MODE_DWRR,VAR_1
+HCLGE_TM_TX_SCHD_DWRR_MSK,VAR_2
+cpu_to_le32,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hclge_tm_pri_schd_mode_cfg,FUNC_3
+hdev,VAR_3
+pri_id,VAR_4
+desc,VAR_5

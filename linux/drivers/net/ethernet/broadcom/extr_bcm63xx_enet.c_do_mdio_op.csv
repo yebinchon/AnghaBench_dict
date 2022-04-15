@@ -1,0 +1,11 @@
+ENET_IR_MII,VAR_0
+ENET_IR_REG,VAR_1
+ENET_MIIDATA_REG,VAR_2
+enet_readl,FUNC_0
+enet_writel,FUNC_1
+udelay,FUNC_2
+wmb,FUNC_3
+do_mdio_op,FUNC_4
+priv,VAR_3
+data,VAR_4
+limit,VAR_5

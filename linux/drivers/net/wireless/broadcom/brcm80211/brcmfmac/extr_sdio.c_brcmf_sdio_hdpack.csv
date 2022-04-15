@@ -1,0 +1,16 @@
+SDPCM_CHANNEL_MASK,VAR_0
+SDPCM_CHANNEL_SHIFT,VAR_1
+SDPCM_DOFFSET_MASK,VAR_2
+SDPCM_DOFFSET_SHIFT,VAR_3
+SDPCM_HWEXT_LEN,VAR_4
+SDPCM_HWHDR_LEN,VAR_5
+SDPCM_TX,VAR_6
+brcmf_sdio_update_hwhdr,FUNC_0
+cpu_to_le32,FUNC_1
+trace_brcmf_sdpcm_hdr,FUNC_2
+brcmf_sdio_hdpack,FUNC_3
+bus,VAR_7
+header,VAR_8
+hd_info,VAR_9
+hdrval,VAR_10
+hdr_offset,VAR_11

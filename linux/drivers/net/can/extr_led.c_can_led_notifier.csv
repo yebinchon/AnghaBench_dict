@@ -1,0 +1,14 @@
+CAN_LED_NAME_SZ,VAR_0
+NETDEV_CHANGENAME,VAR_1
+NOTIFY_DONE,VAR_2
+led_trigger_rename_static,FUNC_0
+netdev_notifier_info_to_dev,FUNC_1
+safe_candev_priv,FUNC_2
+snprintf,FUNC_3
+can_led_notifier,FUNC_4
+nb,VAR_3
+msg,VAR_4
+ptr,VAR_5
+netdev,VAR_6
+priv,VAR_7
+name,VAR_8

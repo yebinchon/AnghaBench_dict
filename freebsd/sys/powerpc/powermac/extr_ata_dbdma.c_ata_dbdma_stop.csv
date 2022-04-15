@@ -1,0 +1,14 @@
+ATA_DMA_ACTIVE,VAR_0
+ATA_S_ERROR,VAR_1
+DBDMA_STATUS_ACTIVE,VAR_2
+DBDMA_STATUS_DEAD,VAR_3
+DBDMA_STATUS_RUN,VAR_4
+ata_dbdma_reset,FUNC_0
+dbdma_get_chan_status,FUNC_1
+dbdma_pause,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+ata_dbdma_stop,FUNC_5
+request,VAR_5
+sc,VAR_6
+status,VAR_7

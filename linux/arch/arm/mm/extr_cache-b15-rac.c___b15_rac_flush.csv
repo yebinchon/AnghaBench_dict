@@ -1,0 +1,8 @@
+FLUSH_RAC,VAR_0
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+b15_rac_base,VAR_1
+dmb,FUNC_2
+rac_flush_offset,VAR_2
+__b15_rac_flush,FUNC_3
+reg,VAR_3

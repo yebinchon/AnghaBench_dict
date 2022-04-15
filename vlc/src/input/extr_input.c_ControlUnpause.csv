@@ -1,0 +1,12 @@
+DEMUX_SET_PAUSE_STATE,VAR_0
+ERROR_S,VAR_1
+PLAYING_S,VAR_2
+demux_Control,FUNC_0
+es_out_SetPauseState,FUNC_1
+input_ChangeState,FUNC_2
+input_priv,FUNC_3
+msg_Err,FUNC_4
+ControlUnpause,FUNC_5
+p_input,VAR_3
+i_control_date,VAR_4
+p_demux,VAR_5

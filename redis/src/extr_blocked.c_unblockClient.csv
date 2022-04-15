@@ -1,0 +1,16 @@
+BLOCKED_LIST,VAR_0
+BLOCKED_MODULE,VAR_1
+BLOCKED_NONE,VAR_2
+BLOCKED_STREAM,VAR_3
+BLOCKED_WAIT,VAR_4
+BLOCKED_ZSET,VAR_5
+CLIENT_BLOCKED,VAR_6
+moduleClientIsBlockedOnKeys,FUNC_0
+queueClientForReprocessing,FUNC_1
+server,VAR_7
+serverPanic,FUNC_2
+unblockClientFromModule,FUNC_3
+unblockClientWaitingData,FUNC_4
+unblockClientWaitingReplicas,FUNC_5
+unblockClient,FUNC_6
+c,VAR_8

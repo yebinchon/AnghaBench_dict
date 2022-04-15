@@ -1,0 +1,13 @@
+DMA_IN_PROGRESS,VAR_0
+HW_APBHX_CHANNEL_CTRL,VAR_1
+HW_APBHX_CTRL0,VAR_2
+STMP_OFFSET_REG_CLR,VAR_3
+apbh_is_old,FUNC_0
+dma_is_apbh,FUNC_1
+to_mxs_dma_chan,FUNC_2
+writel,FUNC_3
+mxs_dma_resume_chan,FUNC_4
+chan,VAR_4
+mxs_chan,VAR_5
+mxs_dma,VAR_6
+chan_id,VAR_7

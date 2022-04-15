@@ -1,0 +1,10 @@
+SCU_CONTEXT_COMMAND_POST_RNC_32,VAR_0
+SCU_CONTEXT_COMMAND_POST_RNC_96,VAR_1
+TRUE,VAR_2
+scic_sds_controller_get_remote_node_context_buffer,FUNC_0
+scic_sds_port_setup_transports,FUNC_1
+scic_sds_remote_device_get_controller,FUNC_2
+scic_sds_remote_device_post_request,FUNC_3
+scic_sds_remote_node_context_validate_context_buffer,FUNC_4
+this_rnc,VAR_3
+rnc_buffer,VAR_4

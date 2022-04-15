@@ -1,0 +1,15 @@
+UNCAC_ADDR,FUNC_0
+__get_free_pages,FUNC_1
+dma_alloc_from_coherent,FUNC_2
+dma_cache_wback_inv,FUNC_3
+get_order,FUNC_4
+massage_gfp_flags,FUNC_5
+memset,FUNC_6
+plat_device_is_coherent,FUNC_7
+plat_map_dma_mem,FUNC_8
+dma_alloc_coherent,FUNC_9
+dev,VAR_0
+size,VAR_1
+dma_handle,VAR_2
+gfp,VAR_3
+ret,VAR_4

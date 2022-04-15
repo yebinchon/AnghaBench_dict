@@ -1,0 +1,9 @@
+NICCY_PCI,VAR_0
+PCI_IRQ_CTRL_REG,VAR_1
+PCI_IRQ_DISABLE,VAR_2
+inl,FUNC_0
+outl,FUNC_1
+release_region,FUNC_2
+release_io_niccy,FUNC_3
+cs,VAR_3
+val,VAR_4

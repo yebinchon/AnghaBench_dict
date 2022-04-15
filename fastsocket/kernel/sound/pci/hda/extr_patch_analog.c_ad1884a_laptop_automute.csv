@@ -1,0 +1,9 @@
+AC_VERB_SET_EAPD_BTLENABLE,VAR_0
+HDA_AMP_MUTE,VAR_1
+HDA_OUTPUT,VAR_2
+snd_hda_codec_amp_stereo,FUNC_0
+snd_hda_codec_write,FUNC_1
+snd_hda_jack_detect,FUNC_2
+ad1884a_laptop_automute,FUNC_3
+codec,VAR_3
+present,VAR_4

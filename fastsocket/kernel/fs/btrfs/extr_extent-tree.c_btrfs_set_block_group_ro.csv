@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+CHUNK_ALLOC_FORCE,VAR_0
+IS_ERR,FUNC_1
+PTR_ERR,FUNC_2
+btrfs_end_transaction,FUNC_3
+btrfs_join_transaction,FUNC_4
+do_chunk_alloc,FUNC_5
+get_alloc_profile,FUNC_6
+set_block_group_ro,FUNC_7
+update_block_group_flags,FUNC_8
+btrfs_set_block_group_ro,FUNC_9
+root,VAR_1
+cache,VAR_2
+trans,VAR_3
+alloc_flags,VAR_4
+ret,VAR_5

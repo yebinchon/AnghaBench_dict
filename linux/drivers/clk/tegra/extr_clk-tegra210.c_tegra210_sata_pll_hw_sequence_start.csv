@@ -1,0 +1,7 @@
+SATA_PLL_CFG0,VAR_0
+SATA_PLL_CFG0_SEQ_ENABLE,VAR_1
+clk_base,VAR_2
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+tegra210_sata_pll_hw_sequence_start,FUNC_2
+val,VAR_3

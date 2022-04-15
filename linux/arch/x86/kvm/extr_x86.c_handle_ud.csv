@@ -1,0 +1,14 @@
+EMULTYPE_TRAP_UD,VAR_0
+EMULTYPE_TRAP_UD_FORCED,VAR_1
+force_emulation_prefix,VAR_2
+kvm_emulate_instruction,FUNC_0
+kvm_get_linear_rip,FUNC_1
+kvm_read_guest_virt,FUNC_2
+kvm_rip_read,FUNC_3
+kvm_rip_write,FUNC_4
+memcmp,FUNC_5
+handle_ud,FUNC_6
+vcpu,VAR_3
+emul_type,VAR_4
+sig,VAR_5
+e,VAR_6

@@ -1,0 +1,16 @@
+CAUSEB_EXCCODE,VAR_0
+CAUSEF_BD,VAR_1
+CAUSEF_EXCCODE,VAR_2
+KVM_EXIT_INTERNAL_ERROR,VAR_3
+RESUME_HOST,VAR_4
+kvm_arch_vcpu_dump_regs,FUNC_0
+kvm_err,FUNC_1
+kvm_get_badinstr,FUNC_2
+read_gc0_status,FUNC_3
+kvm_trap_vz_no_handler,FUNC_4
+vcpu,VAR_5
+opc,VAR_6
+cause,VAR_7
+exccode,VAR_8
+badvaddr,VAR_9
+inst,VAR_10

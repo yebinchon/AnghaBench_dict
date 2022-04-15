@@ -1,0 +1,16 @@
+FALSE,VAR_0
+FIXED_CTR_CTRL,VAR_1
+FIXED_CTR_CTRL_ENABLE,VAR_2
+FIXED_CTR_CTRL_INIT,VAR_3
+GLOBAL_CTRL,VAR_4
+GLOBAL_CTRL_FIXED_EN,VAR_5
+MT_CORE_NFIXED,VAR_6
+assert,FUNC_0
+ml_get_interrupts_enabled,FUNC_1
+mt_core_set_snap,FUNC_2
+mt_core_supported,VAR_7
+wrmsr64,FUNC_3
+core_up,FUNC_4
+cpu,VAR_8
+mtc,VAR_9
+i,VAR_10

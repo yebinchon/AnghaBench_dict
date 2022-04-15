@@ -1,0 +1,13 @@
+FW_DEVLOG_CMD,VAR_0
+FW_LEN16,FUNC_0
+F_FW_CMD_READ,VAR_1
+F_FW_CMD_REQUEST,VAR_2
+V_FW_CMD_OP,FUNC_1
+cpu_to_be32,FUNC_2
+memset,FUNC_3
+t4_wr_mbox,FUNC_4
+t4_get_devlog_level,FUNC_5
+adapter,VAR_3
+level,VAR_4
+devlog_cmd,VAR_5
+ret,VAR_6

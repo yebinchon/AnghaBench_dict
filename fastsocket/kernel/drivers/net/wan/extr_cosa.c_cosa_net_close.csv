@@ -1,0 +1,11 @@
+cosa_disable_rx,FUNC_0
+dev_to_chan,FUNC_1
+hdlc_close,FUNC_2
+kfree_skb,FUNC_3
+netif_stop_queue,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+cosa_net_close,FUNC_7
+dev,VAR_0
+chan,VAR_1
+flags,VAR_2

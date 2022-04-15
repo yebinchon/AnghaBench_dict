@@ -1,0 +1,15 @@
+AUTO_SHARE,VAR_0
+THREAD_SHARE,VAR_1
+TYPE_SIMPLE_WAIT,VAR_2
+umtx_key_get,FUNC_0
+umtx_key_release,FUNC_1
+umtxq_lock,FUNC_2
+umtxq_signal,FUNC_3
+umtxq_unlock,FUNC_4
+kern_umtx_wake,FUNC_5
+td,VAR_3
+uaddr,VAR_4
+n_wake,VAR_5
+is_private,VAR_6
+key,VAR_7
+ret,VAR_8

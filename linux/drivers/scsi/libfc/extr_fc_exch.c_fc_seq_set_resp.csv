@@ -1,0 +1,15 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+current,VAR_1
+fc_seq_exch,FUNC_1
+finish_wait,FUNC_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+wait,VAR_2
+fc_seq_set_resp,FUNC_7
+sp,VAR_3
+resp,VAR_4
+arg,VAR_5
+ep,VAR_6

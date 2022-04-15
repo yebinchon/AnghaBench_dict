@@ -1,0 +1,15 @@
+FLAG_VF_MULTICAST_PROMISC,VAR_0
+FLAG_VF_UNICAST_PROMISC,VAR_1
+IAVF_FLAG_AQ_CONFIGURE_PROMISC,VAR_2
+IFF_ALLMULTI,VAR_3
+IFF_PROMISC,VAR_4
+MAX_MULTICAST_ADDR,VAR_5
+iavf_send_vc_msg,FUNC_0
+if_llmaddr_count,FUNC_1
+iflib_get_ifp,FUNC_2
+iflib_get_softc,FUNC_3
+iavf_if_promisc_set,FUNC_4
+ctx,VAR_6
+flags,VAR_7
+sc,VAR_8
+ifp,VAR_9

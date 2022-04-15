@@ -1,0 +1,10 @@
+EMULATED_MTSPR_EXITS,VAR_0
+EMULATE_DONE,VAR_1
+kvmppc_booke_emulate_mtspr,FUNC_0
+kvmppc_set_exit_type,FUNC_1
+kvmppc_set_pid,FUNC_2
+kvmppc_core_emulate_mtspr,FUNC_3
+vcpu,VAR_2
+sprn,VAR_3
+rs,VAR_4
+emulated,VAR_5

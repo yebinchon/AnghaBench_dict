@@ -1,0 +1,11 @@
+WARN_ON_ONCE,FUNC_0
+__kthread_cancel_work,FUNC_1
+kthread_flush_work,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+__kthread_cancel_work_sync,FUNC_5
+work,VAR_0
+is_dwork,VAR_1
+worker,VAR_2
+flags,VAR_3
+ret,VAR_4

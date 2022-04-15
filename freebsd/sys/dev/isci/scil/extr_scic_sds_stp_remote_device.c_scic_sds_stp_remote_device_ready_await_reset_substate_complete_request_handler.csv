@@ -1,0 +1,13 @@
+SCIC_LOG_ERROR,FUNC_0
+SCIC_LOG_OBJECT_STP_REMOTE_TARGET,VAR_0
+SCI_SUCCESS,VAR_1
+sci_base_object_get_logger,FUNC_1
+scic_sds_io_request_complete,FUNC_2
+scic_sds_port_complete_io,FUNC_3
+scic_sds_remote_device_decrement_request_count,FUNC_4
+scic_sds_stp_remote_device_ready_await_reset_substate_complete_request_handler,FUNC_5
+device,VAR_2
+request,VAR_3
+this_device,VAR_4
+the_request,VAR_5
+status,VAR_6

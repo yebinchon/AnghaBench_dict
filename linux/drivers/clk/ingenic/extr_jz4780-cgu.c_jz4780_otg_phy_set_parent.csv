@@ -1,0 +1,14 @@
+CGU_REG_USBPCR1,VAR_0
+EINVAL,VAR_1
+USBPCR1_REFCLKSEL_CORE,VAR_2
+USBPCR1_REFCLKSEL_MASK,VAR_3
+cgu,VAR_4
+readl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel,FUNC_3
+jz4780_otg_phy_set_parent,FUNC_4
+hw,VAR_5
+idx,VAR_6
+flags,VAR_7
+usbpcr1,VAR_8

@@ -1,0 +1,15 @@
+FPGA_NAND_CMD_ADDR,VAR_0
+FPGA_NAND_CMD_COMMAND,VAR_1
+FPGA_NAND_DATA_SHIFT,VAR_2
+FPGA_NAND_ENABLE,VAR_3
+NAND_CLE,VAR_4
+NAND_CMD_NONE,VAR_5
+NAND_NCE,VAR_6
+nand_get_controller_data,FUNC_0
+out_be32,FUNC_1
+socrates_nand_cmd_ctrl,FUNC_2
+nand_chip,VAR_7
+cmd,VAR_8
+ctrl,VAR_9
+host,VAR_10
+val,VAR_11

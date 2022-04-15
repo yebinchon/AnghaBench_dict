@@ -1,0 +1,12 @@
+NHMEX_PMON_CTL_EN_BIT0,VAR_0
+NHMEX_R_PMON_CTL_EV_SEL_MASK,VAR_1
+nhmex_rbox_shared_reg_config,FUNC_0
+wrmsrl,FUNC_1
+nhmex_rbox_msr_enable_event,FUNC_2
+box,VAR_2
+event,VAR_3
+hwc,VAR_4
+reg1,VAR_5
+reg2,VAR_6
+idx,VAR_7
+er_idx,VAR_8

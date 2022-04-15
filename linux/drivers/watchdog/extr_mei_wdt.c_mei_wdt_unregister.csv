@@ -1,0 +1,8 @@
+__mei_wdt_is_registered,FUNC_0
+memset,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+watchdog_set_drvdata,FUNC_4
+watchdog_unregister_device,FUNC_5
+mei_wdt_unregister,FUNC_6
+wdt,VAR_0

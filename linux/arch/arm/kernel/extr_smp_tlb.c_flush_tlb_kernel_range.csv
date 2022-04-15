@@ -1,0 +1,9 @@
+broadcast_tlb_a15_erratum,FUNC_0
+ipi_flush_tlb_kernel_range,VAR_0
+local_flush_tlb_kernel_range,FUNC_1
+on_each_cpu,FUNC_2
+tlb_ops_need_broadcast,FUNC_3
+flush_tlb_kernel_range,FUNC_4
+start,VAR_1
+end,VAR_2
+ta,VAR_3

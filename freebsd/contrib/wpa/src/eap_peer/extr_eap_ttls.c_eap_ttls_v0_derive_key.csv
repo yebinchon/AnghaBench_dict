@@ -1,0 +1,16 @@
+EAP_EMSK_LEN,VAR_0
+EAP_TLS_KEY_LEN,VAR_1
+EAP_TYPE_TTLS,VAR_2
+MSG_DEBUG,VAR_3
+MSG_ERROR,VAR_4
+MSG_INFO,VAR_5
+eap_peer_tls_derive_key,FUNC_0
+eap_peer_tls_derive_session_id,FUNC_1
+eap_ttls_free_key,FUNC_2
+os_free,FUNC_3
+wpa_hexdump,FUNC_4
+wpa_hexdump_key,FUNC_5
+wpa_printf,FUNC_6
+eap_ttls_v0_derive_key,FUNC_7
+sm,VAR_6
+data,VAR_7

@@ -1,0 +1,14 @@
+PT_REGS_PARM2,FUNC_0
+PT_REGS_PARM3,FUNC_1
+bpf_map_lookup_elem,FUNC_2
+bpf_probe_read,FUNC_3
+bpf_probe_write_user,FUNC_4
+dnat_map,VAR_0
+memcpy,FUNC_5
+bpf_prog1,FUNC_6
+ctx,VAR_1
+new_addr,VAR_2
+orig_addr,VAR_3
+mapped_addr,VAR_4
+sockaddr_arg,VAR_5
+sockaddr_len,VAR_6

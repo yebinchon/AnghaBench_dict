@@ -1,0 +1,16 @@
+AV_FRAME_DATA_STEREO3D,VAR_0
+AV_LOG_WARNING,VAR_1
+AV_STEREO3D_FLAG_INVERT,VAR_2
+X264_RC_ABR,VAR_3
+X264_RC_CQP,VAR_4
+X264_RC_CRF,VAR_5
+av_frame_get_side_data,FUNC_0
+av_log,FUNC_1
+x264_encoder_reconfig,FUNC_2
+reconfig_encoder,FUNC_3
+ctx,VAR_6
+frame,VAR_7
+x4,VAR_8
+side_data,VAR_9
+stereo,VAR_10
+fpa_type,VAR_11

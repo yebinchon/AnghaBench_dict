@@ -1,0 +1,15 @@
+BFA_IOIM_LUN_MASK_ACTIVE,VAR_0
+BFA_STATUS_OK,VAR_1
+ENXIO,VAR_2
+MAX_LUN_MASK_CFG,VAR_3
+bfa_get_lun_mask_list,FUNC_0
+scsilun_to_int,FUNC_1
+bfad_im_check_if_make_lun_visible,FUNC_2
+sdev,VAR_4
+rport,VAR_5
+itnim_data,VAR_6
+bfa,VAR_7
+bfa_rport,VAR_8
+lun_list,VAR_9
+i,VAR_10
+ret,VAR_11

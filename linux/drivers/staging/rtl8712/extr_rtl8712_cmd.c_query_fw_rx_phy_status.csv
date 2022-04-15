@@ -1,0 +1,12 @@
+IOCMD_CTRL_REG,VAR_0
+IOCMD_DATA_REG,VAR_1
+_FW_LINKED,VAR_2
+check_fwstate,FUNC_0
+msleep,FUNC_1
+r8712_read32,FUNC_2
+r8712_signal_scale_mapping,FUNC_3
+r8712_write32,FUNC_4
+query_fw_rx_phy_status,FUNC_5
+padapter,VAR_3
+val32,VAR_4
+pollingcnts,VAR_5

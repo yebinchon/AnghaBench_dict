@@ -1,0 +1,9 @@
+clk_disable_unprepare,FUNC_0
+do_dw_dma_disable,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_sync_suspend,FUNC_4
+dw_shutdown,FUNC_5
+pdev,VAR_0
+data,VAR_1
+chip,VAR_2

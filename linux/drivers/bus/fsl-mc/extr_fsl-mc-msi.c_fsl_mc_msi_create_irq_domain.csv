@@ -1,0 +1,14 @@
+DOMAIN_BUS_FSL_MC_MSI,VAR_0
+MSI_FLAG_LEVEL_CAPABLE,VAR_1
+MSI_FLAG_USE_DEF_CHIP_OPS,VAR_2
+MSI_FLAG_USE_DEF_DOM_OPS,VAR_3
+WARN_ON,FUNC_0
+fsl_mc_msi_update_chip_ops,FUNC_1
+fsl_mc_msi_update_dom_ops,FUNC_2
+irq_domain_update_bus_token,FUNC_3
+msi_create_irq_domain,FUNC_4
+fsl_mc_msi_create_irq_domain,FUNC_5
+fwnode,VAR_4
+info,VAR_5
+parent,VAR_6
+domain,VAR_7

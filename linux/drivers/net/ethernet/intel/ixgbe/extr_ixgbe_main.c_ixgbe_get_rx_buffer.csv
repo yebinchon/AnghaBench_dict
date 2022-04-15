@@ -1,0 +1,12 @@
+DMA_FROM_DEVICE,VAR_0
+IXGBE_RXD_STAT_EOP,VAR_1
+dma_sync_single_range_for_cpu,FUNC_0
+ixgbe_dma_sync_frag,FUNC_1
+ixgbe_test_staterr,FUNC_2
+prefetchw,FUNC_3
+ixgbe_get_rx_buffer,FUNC_4
+rx_ring,VAR_2
+rx_desc,VAR_3
+skb,VAR_4
+size,VAR_5
+rx_buffer,VAR_6

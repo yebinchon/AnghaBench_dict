@@ -1,0 +1,14 @@
+HZ,VAR_0
+JZ4740_MMC_STATE_READ_RESPONSE,VAR_1
+JZ_MMC_IRQ_END_CMD_RES,VAR_2
+jiffies,VAR_3
+jz4740_mmc_send_command,FUNC_0
+jz4740_mmc_set_irq_enabled,FUNC_1
+jz4740_mmc_write_irq_reg,FUNC_2
+mmc_priv,FUNC_3
+mod_timer,FUNC_4
+set_bit,FUNC_5
+jz4740_mmc_request,FUNC_6
+mmc,VAR_4
+req,VAR_5
+host,VAR_6

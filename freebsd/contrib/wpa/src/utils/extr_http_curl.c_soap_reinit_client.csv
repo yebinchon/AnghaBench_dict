@@ -1,0 +1,14 @@
+clear_curl,FUNC_0
+clone_str,FUNC_1
+os_free,FUNC_2
+soap_init_client,FUNC_3
+str_clear_free,FUNC_4
+soap_reinit_client,FUNC_5
+ctx,VAR_0
+address,VAR_1
+ca_fname,VAR_2
+username,VAR_3
+password,VAR_4
+client_cert,VAR_5
+client_key,VAR_6
+ret,VAR_7

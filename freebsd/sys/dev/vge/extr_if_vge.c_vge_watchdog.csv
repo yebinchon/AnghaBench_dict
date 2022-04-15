@@ -1,0 +1,16 @@
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+VGE_LOCK_ASSERT,FUNC_0
+VGE_RX_DESC_CNT,VAR_2
+callout_reset,FUNC_1
+hz,VAR_3
+if_inc_counter,FUNC_2
+if_printf,FUNC_3
+vge_init_locked,FUNC_4
+vge_rxeof,FUNC_5
+vge_stats_update,FUNC_6
+vge_txeof,FUNC_7
+vge_watchdog,FUNC_8
+arg,VAR_4
+sc,VAR_5
+ifp,VAR_6

@@ -1,0 +1,17 @@
+CVMX_USB_CALLBACK_TRANSFER_COMPLETE,VAR_0
+CVMX_USB_COMPLETE_SUCCESS,VAR_1
+CVMX_USB_LOG_CALLED,FUNC_0
+CVMX_USB_LOG_PARAM,FUNC_1
+CVMX_USB_RETURN_NOTHING,FUNC_2
+CVMX_USB_STAGE_NON_CONTROL,VAR_2
+CVMX_USB_TRANSFER_ISOCHRONOUS,VAR_3
+__cvmx_usb_append_pipe,FUNC_3
+__cvmx_usb_free_transaction,FUNC_4
+__cvmx_usb_perform_callback,FUNC_5
+__cvmx_usb_remove_pipe,FUNC_6
+cvmx_unlikely,FUNC_7
+__cvmx_usb_perform_complete,FUNC_8
+usb,VAR_4
+pipe,VAR_5
+transaction,VAR_6
+complete_code,VAR_7

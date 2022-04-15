@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+NL80211_CMD_DEL_WIPHY,VAR_1
+NL80211_CMD_NEW_WIPHY,VAR_2
+NL80211_MCGRP_CONFIG,VAR_3
+NLMSG_DEFAULT_SIZE,VAR_4
+WARN_ON,FUNC_0
+genlmsg_multicast_netns,FUNC_1
+nl80211_fam,VAR_5
+nl80211_send_wiphy,FUNC_2
+nlmsg_free,FUNC_3
+nlmsg_new,FUNC_4
+wiphy_net,FUNC_5
+nl80211_notify_wiphy,FUNC_6
+rdev,VAR_6
+cmd,VAR_7
+msg,VAR_8
+state,VAR_9

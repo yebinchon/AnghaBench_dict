@@ -1,0 +1,17 @@
+UNSET,VAR_0
+V4L2_TUNER_MODE_MONO,VAR_1
+V4L2_TUNER_MODE_STEREO,VAR_2
+V4L2_TUNER_SUB_STEREO,VAR_3
+cx88_get_stereo,FUNC_0
+cx88_set_stereo,FUNC_1
+dprintk,FUNC_2
+kthread_should_stop,FUNC_3
+memset,FUNC_4
+msleep_interruptible,FUNC_5
+set_freezable,FUNC_6
+try_to_freeze,FUNC_7
+cx88_audio_thread,FUNC_8
+data,VAR_4
+core,VAR_5
+t,VAR_6
+mode,VAR_7

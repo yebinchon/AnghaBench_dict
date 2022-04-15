@@ -1,0 +1,13 @@
+ARM_SMMU_FEAT_PRI,VAR_0
+IRQF_ONESHOT,VAR_1
+arm_smmu_evtq_thread,VAR_2
+arm_smmu_gerror_handler,VAR_3
+arm_smmu_priq_thread,VAR_4
+arm_smmu_setup_msis,FUNC_0
+dev_warn,FUNC_1
+devm_request_irq,FUNC_2
+devm_request_threaded_irq,FUNC_3
+arm_smmu_setup_unique_irqs,FUNC_4
+smmu,VAR_5
+irq,VAR_6
+ret,VAR_7

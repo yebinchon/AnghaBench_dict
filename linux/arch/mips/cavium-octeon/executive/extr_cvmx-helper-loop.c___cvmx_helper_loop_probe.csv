@@ -1,0 +1,12 @@
+CVMX_IPD_SUB_PORT_FCS,VAR_0
+CVMX_PIP_PRT_CFGX,FUNC_0
+cvmx_helper_get_ipd_port,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+__cvmx_helper_loop_probe,FUNC_4
+interface,VAR_1
+ipd_sub_port_fcs,VAR_2
+num_ports,VAR_3
+port,VAR_4
+port_cfg,VAR_5
+ipd_port,VAR_6

@@ -1,0 +1,14 @@
+ADT7470_REG_ALARM1_MASK,VAR_0
+EINVAL,VAR_1
+adt7470_write_word_data,FUNC_0
+dev_get_drvdata,FUNC_1
+kstrtoul,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+alarm_mask_store,FUNC_5
+dev,VAR_2
+devattr,VAR_3
+buf,VAR_4
+count,VAR_5
+data,VAR_6
+mask,VAR_7

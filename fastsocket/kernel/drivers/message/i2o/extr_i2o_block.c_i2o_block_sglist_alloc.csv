@@ -1,0 +1,12 @@
+PCI_DMA_FROMDEVICE,VAR_0
+PCI_DMA_TODEVICE,VAR_1
+READ,VAR_2
+blk_rq_map_sg,FUNC_0
+i2o_dma_map_sg,FUNC_1
+rq_data_dir,FUNC_2
+i2o_block_sglist_alloc,FUNC_3
+c,VAR_3
+ireq,VAR_4
+mptr,VAR_5
+nents,VAR_6
+direction,VAR_7

@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+PageHighMem,FUNC_1
+PageOffline,FUNC_2
+PageReserved,FUNC_3
+kernel_page_present,FUNC_4
+page_is_guard,FUNC_5
+page_zone,FUNC_6
+pfn_is_nosave,FUNC_7
+pfn_to_online_page,FUNC_8
+pfn_valid,FUNC_9
+swsusp_page_is_forbidden,FUNC_10
+swsusp_page_is_free,FUNC_11
+saveable_page,FUNC_12
+zone,VAR_0
+pfn,VAR_1
+page,VAR_2

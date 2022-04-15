@@ -1,0 +1,14 @@
+UART_GET_UTSR1,FUNC_0
+UART_PUT_CHAR,FUNC_1
+UART_XMIT_SIZE,VAR_0
+UTSR1_TNF,VAR_1
+WAKEUP_CHARS,VAR_2
+sa1100_mctrl_check,FUNC_2
+sa1100_stop_tx,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_circ_empty,FUNC_5
+uart_tx_stopped,FUNC_6
+uart_write_wakeup,FUNC_7
+sa1100_tx_chars,FUNC_8
+sport,VAR_3
+xmit,VAR_4

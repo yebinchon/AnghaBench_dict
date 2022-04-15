@@ -1,0 +1,14 @@
+BUS_DMA_ALLOCNOW,VAR_0
+BUS_DMA_NOWAIT,VAR_1
+BUS_SPACE_MAXADDR,VAR_2
+BUS_SPACE_MAXADDR_32BIT,VAR_3
+ENOMEM,VAR_4
+bus_dma_tag_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+device_printf,FUNC_3
+memset,FUNC_4
+mrsas_addr_cb,VAR_5
+mrsas_alloc_evt_log_info_cmd,FUNC_5
+sc,VAR_6
+el_info_size,VAR_7

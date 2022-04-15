@@ -1,0 +1,11 @@
+IS_RTC_GET_IT,FUNC_0
+RESET,VAR_0
+RTC,VAR_1
+RTC_TAFCR_TAMPIE,VAR_2
+SET,VAR_3
+assert_param,FUNC_1
+RTC_GetITStatus,FUNC_2
+RTC_IT,VAR_4
+bitstatus,VAR_5
+tmpreg,VAR_6
+enablestatus,VAR_7

@@ -1,0 +1,9 @@
+BUS_PROBE_SPECIFIC,VAR_0
+ENXIO,VAR_1
+PS3_BUSTYPE_SYSBUS,VAR_2
+PS3_DEVTYPE_USB,VAR_3
+device_set_desc,FUNC_0
+ps3bus_get_bustype,FUNC_1
+ps3bus_get_devtype,FUNC_2
+ehci_ps3_probe,FUNC_3
+dev,VAR_4

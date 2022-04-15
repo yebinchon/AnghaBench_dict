@@ -1,0 +1,12 @@
+TOUCH_PAD_MAX,VAR_0
+portTICK_PERIOD_MS,VAR_1
+printf,FUNC_0
+touch_pad_read,FUNC_1
+touch_pad_read_filtered,FUNC_2
+touch_pad_read_raw_data,FUNC_3
+vTaskDelay,FUNC_4
+tp_example_read_task,FUNC_5
+pvParameter,VAR_2
+touch_value,VAR_3
+touch_filter_value,VAR_4
+i,VAR_5

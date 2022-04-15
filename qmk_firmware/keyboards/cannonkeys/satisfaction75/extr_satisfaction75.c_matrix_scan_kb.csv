@@ -1,0 +1,17 @@
+DISPLAYOFF,VAR_0
+OLED_OFF,VAR_1
+RTCD1,VAR_2
+ScreenOffInterval,VAR_3
+draw_ui,FUNC_0
+last_flush,VAR_4
+last_minute,VAR_5
+last_timespec,VAR_6
+oled_mode,VAR_7
+oled_sleeping,VAR_8
+queue_for_send,VAR_9
+read_host_led_state,FUNC_1
+rtcGetTime,FUNC_2
+send_command,FUNC_3
+timer_elapsed,FUNC_4
+matrix_scan_kb,FUNC_5
+minutes_since_midnight,VAR_10

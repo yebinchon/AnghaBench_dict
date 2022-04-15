@@ -1,0 +1,9 @@
+RVT_S_WAIT_DMA,VAR_0
+hfi1_schedule_send,FUNC_0
+iowait_to_qp,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+iowait_sdma_drained,FUNC_4
+wait,VAR_1
+qp,VAR_2
+flags,VAR_3

@@ -1,0 +1,15 @@
+LPFC_FCP_RING,VAR_0
+LPFC_PROCESS_LA,VAR_1
+list_empty,FUNC_0
+lockdep_assert_held,FUNC_1
+lpfc_is_link_up,FUNC_2
+lpfc_sli_next_iocb_slot,FUNC_3
+lpfc_sli_ringtx_get,FUNC_4
+lpfc_sli_submit_iocb,FUNC_5
+lpfc_sli_update_full_ring,FUNC_6
+lpfc_sli_update_ring,FUNC_7
+lpfc_sli_resume_iocb,FUNC_8
+phba,VAR_2
+pring,VAR_3
+iocb,VAR_4
+nextiocb,VAR_5

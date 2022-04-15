@@ -1,0 +1,16 @@
+EMFILE,VAR_0
+ENFILE,VAR_1
+ERRCODE_INSUFFICIENT_RESOURCES,VAR_2
+LOG,VAR_3
+ReleaseLruFile,FUNC_0
+ereport,FUNC_1
+errcode,FUNC_2
+errmsg,FUNC_3
+errno,VAR_4
+open,FUNC_4
+BasicOpenFilePerm,FUNC_5
+fileName,VAR_5
+fileFlags,VAR_6
+fileMode,VAR_7
+fd,VAR_8
+save_errno,VAR_9

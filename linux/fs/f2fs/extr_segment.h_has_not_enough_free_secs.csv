@@ -1,0 +1,17 @@
+F2FS_DIRTY_DENTS,VAR_0
+F2FS_DIRTY_IMETA,VAR_1
+F2FS_DIRTY_NODES,VAR_2
+SBI_POR_DOING,VAR_3
+free_sections,FUNC_0
+get_blocktype_secs,FUNC_1
+has_curseg_enough_space,FUNC_2
+is_sbi_flag_set,FUNC_3
+reserved_sections,FUNC_4
+unlikely,FUNC_5
+has_not_enough_free_secs,FUNC_6
+sbi,VAR_4
+freed,VAR_5
+needed,VAR_6
+node_secs,VAR_7
+dent_secs,VAR_8
+imeta_secs,VAR_9

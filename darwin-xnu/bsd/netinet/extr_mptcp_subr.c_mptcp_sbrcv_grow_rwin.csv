@@ -1,0 +1,15 @@
+IS_TCP_RECV_BG,FUNC_0
+SOF1_EXTEND_BK_IDLE_WANTED,VAR_0
+min,FUNC_1
+mptcp_get_maxseg,FUNC_2
+sbreserve,FUNC_3
+tcp_autorcvbuf_max,VAR_1
+tcp_cansbgrow,FUNC_4
+tcp_do_autorcvbuf,VAR_2
+tcp_recv_bg,VAR_3
+mptcp_sbrcv_grow_rwin,FUNC_5
+mp_tp,VAR_4
+sb,VAR_5
+mp_so,VAR_6
+rcvbufinc,VAR_7
+rcvbuf,VAR_8

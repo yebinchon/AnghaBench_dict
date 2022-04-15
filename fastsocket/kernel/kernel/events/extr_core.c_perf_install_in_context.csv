@@ -1,0 +1,12 @@
+__perf_install_in_context,VAR_0
+add_event_to_ctx,FUNC_0
+cpu_function_call,FUNC_1
+lockdep_assert_held,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+task_function_call,FUNC_5
+perf_install_in_context,FUNC_6
+ctx,VAR_1
+event,VAR_2
+cpu,VAR_3
+task,VAR_4

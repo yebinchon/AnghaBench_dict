@@ -1,0 +1,13 @@
+__snd_util_mem_free,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+synth_free_pages,FUNC_5
+unmap_memblk,FUNC_6
+snd_emu10k1_synth_free,FUNC_7
+emu,VAR_0
+memblk,VAR_1
+hdr,VAR_2
+blk,VAR_3
+flags,VAR_4

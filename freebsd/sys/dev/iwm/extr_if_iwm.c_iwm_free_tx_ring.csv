@@ -1,0 +1,13 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+IWM_TX_RING_COUNT,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+iwm_dma_contig_free,FUNC_4
+m_freem,FUNC_5
+iwm_free_tx_ring,FUNC_6
+sc,VAR_2
+ring,VAR_3
+i,VAR_4
+data,VAR_5

@@ -1,0 +1,12 @@
+EROFS_I,FUNC_0
+STATX_ATTR_COMPRESSED,VAR_0
+STATX_ATTR_IMMUTABLE,VAR_1
+d_inode,FUNC_1
+erofs_inode_is_data_compressed,FUNC_2
+generic_fillattr,FUNC_3
+erofs_getattr,FUNC_4
+path,VAR_2
+stat,VAR_3
+request_mask,VAR_4
+query_flags,VAR_5
+inode,VAR_6

@@ -1,0 +1,16 @@
+ATTR_ATIME,VAR_0
+ATTR_ATIME_SET,VAR_1
+ATTR_GID,VAR_2
+ATTR_MODE,VAR_3
+ATTR_MTIME,VAR_4
+ATTR_MTIME_SET,VAR_5
+ATTR_SIZE,VAR_6
+ATTR_UID,VAR_7
+__constant_htonl,FUNC_0
+htonl,FUNC_1
+xdr_encode_current_server_time,FUNC_2
+xdr_encode_time,FUNC_3
+xdr_encode_sattr,FUNC_4
+p,VAR_8
+attr,VAR_9
+not_set,VAR_10

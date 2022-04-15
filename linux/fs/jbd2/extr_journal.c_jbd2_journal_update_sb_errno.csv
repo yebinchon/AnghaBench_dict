@@ -1,0 +1,11 @@
+ESHUTDOWN,VAR_0
+REQ_FUA,VAR_1
+REQ_SYNC,VAR_2
+cpu_to_be32,FUNC_0
+jbd2_write_superblock,FUNC_1
+jbd_debug,FUNC_2
+lock_buffer,FUNC_3
+jbd2_journal_update_sb_errno,FUNC_4
+journal,VAR_3
+sb,VAR_4
+errcode,VAR_5

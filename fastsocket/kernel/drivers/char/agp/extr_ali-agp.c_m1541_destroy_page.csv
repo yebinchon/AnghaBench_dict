@@ -1,0 +1,14 @@
+AGP_PAGE_DESTROY_UNMAP,VAR_0
+ALI_CACHE_FLUSH_ADDR_MASK,VAR_1
+ALI_CACHE_FLUSH_CTRL,VAR_2
+ALI_CACHE_FLUSH_EN,VAR_3
+agp_bridge,VAR_4
+agp_generic_destroy_page,FUNC_0
+global_cache_flush,FUNC_1
+page_to_phys,FUNC_2
+pci_read_config_dword,FUNC_3
+pci_write_config_dword,FUNC_4
+m1541_destroy_page,FUNC_5
+page,VAR_5
+flags,VAR_6
+temp,VAR_7

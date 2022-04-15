@@ -1,0 +1,15 @@
+VTSCSI_FLAG_DETACH,VAR_0
+VTSCSI_LOCK,FUNC_0
+VTSCSI_LOCK_DESTROY,FUNC_1
+VTSCSI_UNLOCK,FUNC_2
+device_get_softc,FUNC_3
+device_is_attached,FUNC_4
+sglist_free,FUNC_5
+vtscsi_complete_vqs,FUNC_6
+vtscsi_drain_vqs,FUNC_7
+vtscsi_free_cam,FUNC_8
+vtscsi_free_requests,FUNC_9
+vtscsi_stop,FUNC_10
+vtscsi_detach,FUNC_11
+dev,VAR_1
+sc,VAR_2

@@ -1,0 +1,16 @@
+IEEE80211_IOC_CHANNEL,VAR_0
+IFF_PPROMISC,VAR_1
+IFF_UP,VAR_2
+SIOCGIFFLAGS,VAR_3
+SIOCSIFFLAGS,VAR_4
+chaninfo,VAR_5
+die,FUNC_0
+ioctl,FUNC_1
+ioctl_s,VAR_6
+memset,FUNC_2
+set_chan,FUNC_3
+strcpy,FUNC_4
+setup_if,FUNC_5
+dev,VAR_7
+ifr,VAR_8
+flags,VAR_9

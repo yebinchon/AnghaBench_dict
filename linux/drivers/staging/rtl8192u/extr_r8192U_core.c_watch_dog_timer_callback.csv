@@ -1,0 +1,11 @@
+IEEE80211_WATCH_DOG_TIME,VAR_0
+from_timer,FUNC_0
+jiffies,VAR_1
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+priv,VAR_2
+schedule_delayed_work,FUNC_3
+watch_dog_timer,VAR_3
+watch_dog_timer_callback,FUNC_4
+t,VAR_4
+priv,VAR_5

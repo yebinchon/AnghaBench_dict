@@ -1,0 +1,16 @@
+SCLP_CMDW_WRITE_EVENT_MASK,VAR_0
+SCLP_MASK_SIZE_COMPAT,VAR_1
+SCLP_REQ_FILLED,VAR_2
+clear_page,FUNC_0
+memset,FUNC_1
+sccb_set_recv_mask,FUNC_2
+sccb_set_sclp_recv_mask,FUNC_3
+sccb_set_sclp_send_mask,FUNC_4
+sccb_set_send_mask,FUNC_5
+sclp_init_req,VAR_3
+sclp_init_sccb,VAR_4
+sclp_mask_compat_mode,VAR_5
+__sclp_make_init_req,FUNC_6
+receive_mask,VAR_6
+send_mask,VAR_7
+sccb,VAR_8

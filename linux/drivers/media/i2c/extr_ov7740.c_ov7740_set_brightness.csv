@@ -1,0 +1,11 @@
+REG13_AEC_EN,VAR_0
+REG13_AGC_EN,VAR_1
+REG_REG13,VAR_2
+REG_SGNSET,VAR_3
+REG_YBRIGHT,VAR_4
+SGNSET_YBRIGHT_MASK,VAR_5
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+ov7740_set_brightness,FUNC_2
+regmap,VAR_6
+value,VAR_7

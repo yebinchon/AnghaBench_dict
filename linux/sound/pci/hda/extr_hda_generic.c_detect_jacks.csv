@@ -1,0 +1,11 @@
+AC_PINCTL_IN_EN,VAR_0
+HDA_JACK_PRESENT,VAR_1
+snd_hda_codec_get_pin_target,FUNC_0
+snd_hda_jack_detect_state,FUNC_1
+detect_jacks,FUNC_2
+codec,VAR_2
+num_pins,VAR_3
+pins,VAR_4
+i,VAR_5
+present,VAR_6
+nid,VAR_7

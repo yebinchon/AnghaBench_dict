@@ -1,0 +1,17 @@
+RWSEM_FLAG_HANDOFF,VAR_0
+RWSEM_FLAG_WAITERS,VAR_1
+RWSEM_LOCK_MASK,VAR_2
+RWSEM_WRITER_LOCKED,VAR_3
+WRITER_HANDOFF,VAR_4
+WRITER_NOT_FIRST,VAR_5
+atomic_long_read,FUNC_0
+atomic_long_try_cmpxchg_acquire,FUNC_1
+list_is_singular,FUNC_2
+lockdep_assert_held,FUNC_3
+rwsem_set_owner,FUNC_4
+rwsem_try_write_lock,FUNC_5
+sem,VAR_6
+wstate,VAR_7
+count,VAR_8
+new,VAR_9
+has_handoff,VAR_10

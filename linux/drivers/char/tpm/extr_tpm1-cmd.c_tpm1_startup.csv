@@ -1,0 +1,12 @@
+TPM_ORD_STARTUP,VAR_0
+TPM_ST_CLEAR,VAR_1
+TPM_TAG_RQU_COMMAND,VAR_2
+dev_info,FUNC_0
+tpm_buf_append_u16,FUNC_1
+tpm_buf_destroy,FUNC_2
+tpm_buf_init,FUNC_3
+tpm_transmit_cmd,FUNC_4
+tpm1_startup,FUNC_5
+chip,VAR_3
+buf,VAR_4
+rc,VAR_5

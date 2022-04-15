@@ -1,0 +1,17 @@
+MUSB_DEVCTL,VAR_0
+MUSB_DEVCTL_HM,VAR_1
+is_cppi_enabled,FUNC_0
+is_host_capable,FUNC_1
+is_peripheral_capable,FUNC_2
+musb_g_ep0_irq,FUNC_3
+musb_g_rx,FUNC_4
+musb_g_tx,FUNC_5
+musb_h_ep0_irq,FUNC_6
+musb_host_rx,FUNC_7
+musb_host_tx,FUNC_8
+musb_readb,FUNC_9
+musb_dma_completion,FUNC_10
+musb,VAR_2
+epnum,VAR_3
+transmit,VAR_4
+devctl,VAR_5

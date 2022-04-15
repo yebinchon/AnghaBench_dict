@@ -1,0 +1,17 @@
+ARCHIVE_FATAL,VAR_0
+ARCHIVE_OK,VAR_1
+ENOMEM,VAR_2
+archive_read_disk_set_gname_lookup,FUNC_0
+archive_read_disk_set_uname_lookup,FUNC_1
+archive_set_error,FUNC_2
+cleanup,VAR_3
+free,FUNC_3
+lookup_gname,VAR_4
+lookup_uname,VAR_5
+malloc,FUNC_4
+memset,FUNC_5
+name_cache_size,VAR_6
+archive_read_disk_set_standard_lookup,FUNC_6
+a,VAR_7
+ucache,VAR_8
+gcache,VAR_9

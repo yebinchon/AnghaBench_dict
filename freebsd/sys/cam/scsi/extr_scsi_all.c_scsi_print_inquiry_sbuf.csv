@@ -1,0 +1,15 @@
+SCSI_REV_0,VAR_0
+SCSI_REV_SPC,VAR_1
+SID_ANSI_REV,FUNC_0
+SID_IS_REMOVABLE,FUNC_1
+SID_QUAL,FUNC_2
+SID_QUAL_IS_VENDOR_UNIQUE,FUNC_3
+SID_TYPE,FUNC_4
+sbuf_printf,FUNC_5
+scsi_print_inquiry_short_sbuf,FUNC_6
+scsi_print_inquiry_sbuf,FUNC_7
+sb,VAR_2
+inq_data,VAR_3
+type,VAR_4
+dtype,VAR_5
+qtype,VAR_6

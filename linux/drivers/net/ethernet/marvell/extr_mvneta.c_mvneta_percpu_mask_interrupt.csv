@@ -1,0 +1,7 @@
+MVNETA_INTR_MISC_MASK,VAR_0
+MVNETA_INTR_NEW_MASK,VAR_1
+MVNETA_INTR_OLD_MASK,VAR_2
+mvreg_write,FUNC_0
+mvneta_percpu_mask_interrupt,FUNC_1
+arg,VAR_3
+pp,VAR_4

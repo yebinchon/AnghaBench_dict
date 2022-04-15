@@ -1,0 +1,12 @@
+X86_CR4_LA57,VAR_0
+X86_CR4_PKE,VAR_1
+X86_CR4_SMAP,VAR_2
+X86_CR4_SMEP,VAR_3
+cpuid_maxphyaddr,FUNC_0
+is_pae,FUNC_1
+is_paging,FUNC_2
+is_pse,FUNC_3
+kvm_read_cr4_bits,FUNC_4
+kvm_calc_mmu_role_ext,FUNC_5
+vcpu,VAR_4
+ext,VAR_5

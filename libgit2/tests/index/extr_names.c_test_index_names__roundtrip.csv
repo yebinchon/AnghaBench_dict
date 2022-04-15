@@ -1,0 +1,12 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_index_clear,FUNC_2
+git_index_name_add,FUNC_3
+git_index_name_entrycount,FUNC_4
+git_index_name_get_byindex,FUNC_5
+git_index_read,FUNC_6
+git_index_write,FUNC_7
+repo_index,VAR_0
+strcmp,FUNC_8
+test_index_names__roundtrip,FUNC_9
+conflict_name,VAR_1

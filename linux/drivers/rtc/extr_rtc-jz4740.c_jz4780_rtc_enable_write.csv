@@ -1,0 +1,12 @@
+EIO,VAR_0
+JZ_REG_RTC_WENR,VAR_1
+JZ_RTC_WENR_MAGIC,VAR_2
+JZ_RTC_WENR_WEN,VAR_3
+jz4740_rtc_wait_write_ready,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+jz4780_rtc_enable_write,FUNC_3
+rtc,VAR_4
+ctrl,VAR_5
+ret,VAR_6
+timeout,VAR_7

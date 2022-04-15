@@ -1,0 +1,12 @@
+ZSTD_createCCtx,FUNC_0
+ZSTD_freeCCtx,FUNC_1
+assert,FUNC_2
+local_ZSTD_compressStream,FUNC_3
+local_ZSTD_compressStream_freshCCtx,FUNC_4
+src,VAR_0
+srcSize,VAR_1
+dst,VAR_2
+dstCapacity,VAR_3
+payload,VAR_4
+cctx,VAR_5
+r,VAR_6

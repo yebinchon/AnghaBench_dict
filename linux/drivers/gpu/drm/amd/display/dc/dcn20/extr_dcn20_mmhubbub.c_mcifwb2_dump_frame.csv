@@ -1,0 +1,17 @@
+MCIF_WB_BUFMGR_SW_CONTROL,VAR_0
+MCIF_WB_BUFMGR_SW_LOCK,VAR_1
+REG_UPDATE,FUNC_0
+TO_DCN20_MMHUBBUB,FUNC_1
+memcpy,FUNC_2
+mcifwb2_dump_frame,FUNC_3
+mcif_wb,VAR_2
+mcif_params,VAR_3
+out_format,VAR_4
+dest_width,VAR_5
+dest_height,VAR_6
+dump_info,VAR_7
+luma_buffer,VAR_8
+chroma_buffer,VAR_9
+dest_luma_buffer,VAR_10
+dest_chroma_buffer,VAR_11
+mcif_wb20,VAR_12

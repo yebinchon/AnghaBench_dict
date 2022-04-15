@@ -1,0 +1,12 @@
+comedi_to_usb_interface,FUNC_0
+kfree,FUNC_1
+mutex_destroy,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+usb_free_urb,FUNC_5
+usb_kill_urb,FUNC_6
+usb_set_intfdata,FUNC_7
+usbduxfast_detach,FUNC_8
+dev,VAR_0
+intf,VAR_1
+devpriv,VAR_2

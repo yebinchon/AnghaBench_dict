@@ -1,0 +1,15 @@
+USB3_USB_COM_CON,VAR_0
+USB3_USB_OTG_INT_ENA,VAR_1
+USB3_USB_OTG_INT_STA,VAR_2
+USB_COM_CON_PN_LSTTR_PP,VAR_3
+USB_COM_CON_PN_RDATAIF_NL,VAR_4
+USB_COM_CON_PN_WDATAIF_NL,VAR_5
+USB_OTG_IDMON,VAR_6
+usb3_check_id,FUNC_0
+usb3_check_vbus,FUNC_1
+usb3_init_axi_bridge,FUNC_2
+usb3_init_epc_registers,FUNC_3
+usb3_set_bit,FUNC_4
+usb3_write,FUNC_5
+renesas_usb3_init_controller,FUNC_6
+usb3,VAR_7

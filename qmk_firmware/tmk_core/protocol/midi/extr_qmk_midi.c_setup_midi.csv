@@ -1,0 +1,14 @@
+cc_callback,VAR_0
+fallthrough_callback,VAR_1
+midi_device,VAR_2
+midi_device_init,FUNC_0
+midi_device_set_pre_input_process_func,FUNC_1
+midi_device_set_send_func,FUNC_2
+midi_init,FUNC_3
+midi_register_cc_callback,FUNC_4
+midi_register_fallthrough_callback,FUNC_5
+midi_register_sysex_callback,FUNC_6
+sysex_callback,VAR_3
+usb_get_midi,VAR_4
+usb_send_func,VAR_5
+setup_midi,FUNC_7

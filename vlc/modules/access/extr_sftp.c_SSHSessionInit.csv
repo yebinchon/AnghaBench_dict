@@ -1,0 +1,17 @@
+LIBSSH2_ERROR_EAGAIN,VAR_0
+SOCK_STREAM,VAR_1
+SSHSessionDestroy,FUNC_0
+VLC_EGENERIC,VAR_2
+VLC_SUCCESS,VAR_3
+assert,FUNC_1
+libssh2_session_init,FUNC_2
+libssh2_session_set_blocking,FUNC_3
+libssh2_session_startup,FUNC_4
+msg_Err,FUNC_5
+net_Connect,FUNC_6
+SSHSessionInit,FUNC_7
+p_access,VAR_4
+psz_host,VAR_5
+i_port,VAR_6
+p_sys,VAR_7
+i_ret,VAR_8

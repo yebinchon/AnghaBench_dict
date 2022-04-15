@@ -1,0 +1,11 @@
+BH_TRANSMIT,VAR_0
+MGSL_MODE_ASYNC,VAR_1
+SerialSignal_RTS,VAR_2
+del_timer,FUNC_0
+get_signals,FUNC_1
+hdlcdev_tx_done,FUNC_2
+set_signals,FUNC_3
+tx_stop,FUNC_4
+tx_done,FUNC_5
+info,VAR_3
+tty,VAR_4

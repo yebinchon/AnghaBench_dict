@@ -1,0 +1,17 @@
+CIR_IRCON,VAR_0
+CIR_IRCON_RXEN,VAR_1
+CIR_IRCON_RXINV,VAR_2
+CIR_IRCON_SAMPLE_PERIOD_SEL,VAR_3
+CIR_IRCON_TXEN,VAR_4
+CIR_IRSTS,VAR_5
+CR_LOGICAL_DEV_EN,VAR_6
+LOGICAL_DEV_CIR,VAR_7
+LOGICAL_DEV_ENABLE,VAR_8
+nvt_cir_reg_write,FUNC_0
+nvt_cr_write,FUNC_1
+nvt_efm_disable,FUNC_2
+nvt_efm_enable,FUNC_3
+nvt_select_logical_dev,FUNC_4
+nvt_set_cir_iren,FUNC_5
+nvt_enable_cir,FUNC_6
+nvt,VAR_9

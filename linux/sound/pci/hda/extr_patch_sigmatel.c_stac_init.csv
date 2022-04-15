@@ -1,0 +1,11 @@
+AC_PWRST_D3,VAR_0
+AC_VERB_IDT_SET_POWER_MAP,VAR_1
+AC_VERB_SET_POWER_STATE,VAR_2
+snd_hda_codec_write,FUNC_0
+snd_hda_gen_init,FUNC_1
+stac_gpio_set,FUNC_2
+stac_store_hints,FUNC_3
+stac_init,FUNC_4
+codec,VAR_3
+spec,VAR_4
+i,VAR_5

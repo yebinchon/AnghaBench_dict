@@ -1,0 +1,15 @@
+CVMX_ASXX_PRT_LOOP,FUNC_0
+CVMX_ASXX_RX_PRT_EN,FUNC_1
+CVMX_ASXX_TX_PRT_EN,FUNC_2
+CVMX_GMXX_PRTX_CFG,FUNC_3
+CVMX_GMXX_TXX_BURST,FUNC_4
+CVMX_GMXX_TXX_CLK,FUNC_5
+CVMX_GMXX_TXX_SLOT,FUNC_6
+cvmx_read_csr,FUNC_7
+cvmx_write_csr,FUNC_8
+cvmx_helper_rgmii_internal_loopback,FUNC_9
+port,VAR_0
+interface,VAR_1
+index,VAR_2
+tmp,VAR_3
+gmx_cfg,VAR_4

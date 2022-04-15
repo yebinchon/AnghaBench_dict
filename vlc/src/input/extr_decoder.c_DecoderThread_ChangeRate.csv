@@ -1,0 +1,13 @@
+VOUT_SPU_CHANNEL_INVALID,VAR_0
+aout_DecChangeRate,FUNC_0
+assert,FUNC_1
+msg_Dbg,FUNC_2
+vlc_assert_unreachable,FUNC_3
+vlc_mutex_lock,FUNC_4
+vlc_mutex_unlock,FUNC_5
+vout_ChangeRate,FUNC_6
+vout_ChangeSpuRate,FUNC_7
+DecoderThread_ChangeRate,FUNC_8
+p_owner,VAR_1
+rate,VAR_2
+p_dec,VAR_3

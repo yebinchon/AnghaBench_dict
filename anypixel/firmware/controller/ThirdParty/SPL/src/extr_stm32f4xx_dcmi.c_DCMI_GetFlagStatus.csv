@@ -1,0 +1,10 @@
+DCMI,VAR_0
+IS_DCMI_GET_FLAG,FUNC_0
+RESET,VAR_1
+SET,VAR_2
+assert_param,FUNC_1
+DCMI_GetFlagStatus,FUNC_2
+DCMI_FLAG,VAR_3
+bitstatus,VAR_4
+dcmireg,VAR_5
+tempreg,VAR_6

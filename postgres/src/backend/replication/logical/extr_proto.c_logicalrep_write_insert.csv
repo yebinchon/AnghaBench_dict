@@ -1,0 +1,12 @@
+Assert,FUNC_0
+REPLICA_IDENTITY_DEFAULT,VAR_0
+REPLICA_IDENTITY_FULL,VAR_1
+REPLICA_IDENTITY_INDEX,VAR_2
+RelationGetRelid,FUNC_1
+logicalrep_write_tuple,FUNC_2
+pq_sendbyte,FUNC_3
+pq_sendint32,FUNC_4
+logicalrep_write_insert,FUNC_5
+out,VAR_3
+rel,VAR_4
+newtuple,VAR_5

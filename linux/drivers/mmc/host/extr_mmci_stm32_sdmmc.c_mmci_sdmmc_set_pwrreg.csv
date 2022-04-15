@@ -1,0 +1,17 @@
+MCI_IRQENABLE,VAR_0
+MCI_PWR_OFF,VAR_1
+MCI_PWR_ON,VAR_2
+MCI_STM32_PWR_CYC,VAR_3
+MMCIMASK0,VAR_4
+MMC_POWER_OFF,VAR_5
+MMC_POWER_ON,VAR_6
+mdelay,FUNC_0
+mmci_write_pwrreg,FUNC_1
+reset_control_assert,FUNC_2
+reset_control_deassert,FUNC_3
+udelay,FUNC_4
+writel,FUNC_5
+mmci_sdmmc_set_pwrreg,FUNC_6
+host,VAR_7
+pwr,VAR_8
+ios,VAR_9

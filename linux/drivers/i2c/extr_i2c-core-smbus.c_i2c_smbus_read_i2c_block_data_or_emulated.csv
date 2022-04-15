@@ -1,0 +1,16 @@
+EOPNOTSUPP,VAR_0
+I2C_FUNC_SMBUS_READ_BYTE_DATA,VAR_1
+I2C_FUNC_SMBUS_READ_I2C_BLOCK,VAR_2
+I2C_FUNC_SMBUS_READ_WORD_DATA,VAR_3
+I2C_SMBUS_BLOCK_MAX,VAR_4
+i2c_check_functionality,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_read_i2c_block_data,FUNC_2
+i2c_smbus_read_word_data,FUNC_3
+i2c_smbus_read_i2c_block_data_or_emulated,FUNC_4
+client,VAR_5
+command,VAR_6
+length,VAR_7
+values,VAR_8
+i,VAR_9
+status,VAR_10

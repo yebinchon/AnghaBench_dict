@@ -1,0 +1,15 @@
+COMMAND,VAR_0
+GetIndexIntoMasterTable,FUNC_0
+ReadEfuseValue,VAR_1
+amdgpu_atom_execute_table,FUNC_1
+cpu_to_le16,FUNC_2
+le32_to_cpu,FUNC_3
+atomctrl_read_efuse,FUNC_4
+hwmgr,VAR_2
+start_index,VAR_3
+end_index,VAR_4
+mask,VAR_5
+efuse,VAR_6
+adev,VAR_7
+result,VAR_8
+efuse_param,VAR_9

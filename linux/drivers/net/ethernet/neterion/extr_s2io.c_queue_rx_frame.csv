@@ -1,0 +1,12 @@
+ETH_P_8021Q,VAR_0
+__vlan_hwaccel_put_tag,FUNC_0
+eth_type_trans,FUNC_1
+htons,FUNC_2
+netdev_priv,FUNC_3
+netif_receive_skb,FUNC_4
+netif_rx,FUNC_5
+queue_rx_frame,FUNC_6
+skb,VAR_1
+vlan_tag,VAR_2
+dev,VAR_3
+sp,VAR_4

@@ -1,0 +1,12 @@
+ARPSTAT_ADD,FUNC_0
+IF_AFDATA_WLOCK_ASSERT,FUNC_1
+KASSERT,FUNC_2
+LLE_LINKED,VAR_0
+LLE_WLOCK_ASSERT,FUNC_3
+dropped,VAR_1
+llentry_free,FUNC_4
+lltable_unlink_entry,FUNC_5
+in_lltable_free_entry,FUNC_6
+llt,VAR_2
+lle,VAR_3
+pkts_dropped,VAR_4

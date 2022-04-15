@@ -1,0 +1,11 @@
+clk_disable_unprepare,FUNC_0
+drm_bridge_disable,FUNC_1
+drm_bridge_post_disable,FUNC_2
+pm_runtime_put,FUNC_3
+to_vc4_dsi_encoder,FUNC_4
+vc4_dsi_ulps,FUNC_5
+vc4_dsi_encoder_disable,FUNC_6
+encoder,VAR_0
+vc4_encoder,VAR_1
+dsi,VAR_2
+dev,VAR_3

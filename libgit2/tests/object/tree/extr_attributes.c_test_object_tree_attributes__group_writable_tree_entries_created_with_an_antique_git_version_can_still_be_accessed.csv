@@ -1,0 +1,14 @@
+GIT_FILEMODE_BLOB,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_oid_fromstr,FUNC_2
+git_tree_entry_byname,FUNC_3
+git_tree_entry_filemode,FUNC_4
+git_tree_free,FUNC_5
+git_tree_lookup,FUNC_6
+repo,VAR_1
+tree_oid,VAR_2
+test_object_tree_attributes__group_writable_tree_entries_created_with_an_antique_git_version_can_still_be_accessed,FUNC_7
+tid,VAR_3
+tree,VAR_4
+entry,VAR_5

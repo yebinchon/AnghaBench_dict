@@ -1,0 +1,17 @@
+UDCCSR_PC,VAR_0
+UDCDR,VAR_1
+ep_count_bytes_remain,FUNC_0
+ep_is_empty,FUNC_1
+ep_write_UDCCSR,FUNC_2
+likely,FUNC_3
+min,FUNC_4
+prefetchw,FUNC_5
+udc_ep_readl,FUNC_6
+read_packet,FUNC_7
+ep,VAR_2
+req,VAR_3
+buf,VAR_4
+bytes_ep,VAR_5
+bufferspace,VAR_6
+count,VAR_7
+i,VAR_8

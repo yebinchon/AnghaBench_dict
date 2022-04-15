@@ -1,0 +1,11 @@
+FLAG_EXT_CTRL,VAR_0
+L2CAP_HDR_SIZE,VAR_1
+__pack_enhanced_control,FUNC_0
+__pack_extended_control,FUNC_1
+put_unaligned_le16,FUNC_2
+put_unaligned_le32,FUNC_3
+test_bit,FUNC_4
+__pack_control,FUNC_5
+chan,VAR_2
+control,VAR_3
+skb,VAR_4

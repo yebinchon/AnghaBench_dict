@@ -1,0 +1,14 @@
+EXTINT_OFF,VAR_0
+IRQ_EINT4t7,VAR_1
+IRQ_EINT7,VAR_2
+IRQ_EINT8t23,VAR_3
+S3C24XX_EINTMASK,VAR_4
+S3C24XX_EINTPEND,VAR_5
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+s3c_irq_ack,FUNC_2
+s3c_irqext_ack,FUNC_3
+irqno,VAR_6
+req,VAR_7
+bit,VAR_8
+mask,VAR_9

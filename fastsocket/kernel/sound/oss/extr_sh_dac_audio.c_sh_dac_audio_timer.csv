@@ -1,0 +1,14 @@
+BUFFER_SIZE,VAR_0
+CONFIG_SOUND_SH_DAC_AUDIO_CHANNEL,VAR_1
+HRTIMER_MODE_REL,VAR_2
+HRTIMER_NORESTART,VAR_3
+buffer_begin,VAR_4
+buffer_end,VAR_5
+data_buffer,VAR_6
+empty,VAR_7
+hrtimer,VAR_8
+hrtimer_start,FUNC_0
+sh_dac_output,FUNC_1
+wakeups_per_second,VAR_9
+sh_dac_audio_timer,FUNC_2
+handle,VAR_10

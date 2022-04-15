@@ -1,0 +1,13 @@
+UAC_SET_CUR,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_OTHER,VAR_2
+USB_TYPE_VENDOR,VAR_3
+snd_usb_ctl_msg,FUNC_0
+snd_usb_lock_shutdown,FUNC_1
+snd_usb_unlock_shutdown,FUNC_2
+usb_sndctrlpipe,FUNC_3
+snd_microii_spdif_switch_update,FUNC_4
+list,VAR_4
+chip,VAR_5
+reg,VAR_6
+err,VAR_7

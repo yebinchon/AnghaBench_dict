@@ -1,0 +1,16 @@
+RG_REROUTE_GW,VAR_0
+add_route_ipv6_to_option_list,FUNC_0
+init_route_ipv6_list,FUNC_1
+link_socket_current_remote_ipv6,FUNC_2
+setenv_routes_ipv6,FUNC_3
+string_alloc,FUNC_4
+do_init_route_ipv6_list,FUNC_5
+options,VAR_1
+route_ipv6_list,VAR_2
+link_socket_info,VAR_3
+es,VAR_4
+ctx,VAR_5
+gw,VAR_6
+metric,VAR_7
+opt_list,VAR_8
+i,VAR_9

@@ -1,0 +1,15 @@
+BQ2415X_REG_CONTROL,VAR_0
+BQ2415X_REG_CURRENT,VAR_1
+BQ2415X_REG_STATUS,VAR_2
+BQ2415X_REG_VENDER,VAR_3
+BQ2415X_REG_VOLTAGE,VAR_4
+bq2415x_sysfs_print_reg,FUNC_0
+dev_get_drvdata,FUNC_1
+power_supply_get_drvdata,FUNC_2
+bq2415x_sysfs_show_registers,FUNC_3
+dev,VAR_5
+attr,VAR_6
+buf,VAR_7
+psy,VAR_8
+bq,VAR_9
+ret,VAR_10

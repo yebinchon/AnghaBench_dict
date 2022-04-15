@@ -1,0 +1,12 @@
+BHSLR_RESPONSE_CLOSED_SUCCESSFULLY,VAR_0
+ISCSI_BHS_OPCODE_LOGOUT_RESPONSE,VAR_1
+log_errx,FUNC_0
+log_warnx,FUNC_1
+ntohl,FUNC_2
+ntohs,FUNC_3
+pdu_new,FUNC_4
+pdu_receive,FUNC_5
+logout_receive,FUNC_6
+conn,VAR_2
+response,VAR_3
+bhslr,VAR_4

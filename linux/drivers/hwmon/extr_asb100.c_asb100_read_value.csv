@@ -1,0 +1,14 @@
+ASB100_REG_BANK,VAR_0
+i2c_get_clientdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_read_word_swapped,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+asb100_read_value,FUNC_6
+client,VAR_1
+reg,VAR_2
+data,VAR_3
+cl,VAR_4
+res,VAR_5
+bank,VAR_6

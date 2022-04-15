@@ -1,0 +1,15 @@
+S3C_CAMIF_NUM_GPIOS,VAR_0
+S3C_GPIO_PULL_NONE,VAR_1
+S3C_GPIO_SFN,FUNC_0
+camif_get_gpios,FUNC_1
+gpio_free,FUNC_2
+gpio_request,FUNC_3
+pr_err,FUNC_4
+s3c_gpio_cfgpin,FUNC_5
+s3c_gpio_setpull,FUNC_6
+s3c_camif_gpio_get,FUNC_7
+gpio_start,VAR_2
+gpio_reset,VAR_3
+ret,VAR_4
+i,VAR_5
+gpio,VAR_6

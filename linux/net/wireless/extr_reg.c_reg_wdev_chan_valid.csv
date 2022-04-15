@@ -1,0 +1,17 @@
+IEEE80211_CHAN_DISABLED,VAR_0
+NL80211_CHAN_NO_HT,VAR_1
+WARN_ON,FUNC_0
+cfg80211_chandef_create,FUNC_1
+cfg80211_chandef_usable,FUNC_2
+cfg80211_reg_can_beacon_relax,FUNC_3
+netif_running,FUNC_4
+rdev_get_channel,FUNC_5
+wdev_lock,FUNC_6
+wdev_unlock,FUNC_7
+wiphy_to_rdev,FUNC_8
+reg_wdev_chan_valid,FUNC_9
+wiphy,VAR_2
+wdev,VAR_3
+chandef,VAR_4
+rdev,VAR_5
+iftype,VAR_6

@@ -1,0 +1,17 @@
+CONDUIT_HVC,VAR_0
+CONFIG_VMAP_STACK,VAR_1
+IS_ENABLED,FUNC_0
+SDEI_EXIT_HVC,VAR_2
+SDEI_EXIT_SMC,VAR_3
+TRAMP_VALIAS,VAR_4
+__entry_tramp_text_start,VAR_5
+__sdei_asm_entry_trampoline,VAR_6
+__sdei_asm_handler,VAR_7
+arm64_kernel_unmapped_at_el0,FUNC_1
+init_sdei_stacks,FUNC_2
+is_hyp_mode_available,FUNC_3
+is_kernel_in_hyp_mode,FUNC_4
+pr_err,FUNC_5
+sdei_exit_mode,VAR_8
+sdei_arch_get_entry_point,FUNC_6
+conduit,VAR_9

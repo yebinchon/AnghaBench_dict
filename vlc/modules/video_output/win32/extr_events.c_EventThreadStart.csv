@@ -1,0 +1,17 @@
+EventThread,VAR_0
+VLC_EGENERIC,VAR_1
+VLC_SUCCESS,VAR_2
+VLC_THREAD_PRIORITY_LOW,VAR_3
+atomic_store,FUNC_0
+msg_Dbg,FUNC_1
+msg_Err,FUNC_2
+vlc_clone,FUNC_3
+vlc_cond_wait,FUNC_4
+vlc_join,FUNC_5
+vlc_mutex_lock,FUNC_6
+vlc_mutex_unlock,FUNC_7
+EventThreadStart,FUNC_8
+p_event,VAR_4
+p_hwnd,VAR_5
+p_cfg,VAR_6
+b_error,VAR_7

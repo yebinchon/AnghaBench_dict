@@ -1,0 +1,17 @@
+CM_MSG_RESPONSE_REQ,VAR_0
+IB_CM_REJ_TIMEOUT,VAR_1
+__be16_to_cpu,FUNC_0
+atomic_inc,FUNC_1
+cm,VAR_2
+cm_acquire_id,FUNC_2
+cm_find_remote_id,FUNC_3
+cm_local_id,FUNC_4
+cm_rej_get_msg_rejected,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+xa_load,FUNC_8
+cm_acquire_rejected_id,FUNC_9
+rej_msg,VAR_3
+timewait_info,VAR_4
+cm_id_priv,VAR_5
+remote_id,VAR_6

@@ -1,0 +1,16 @@
+PF_EXITING,VAR_0
+SIGKILL,VAR_1
+cmpxchg,FUNC_0
+current,VAR_2
+drm_sched_entity_is_idle,FUNC_1
+drm_sched_rq_remove_entity,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wait_event_killable,FUNC_5
+wait_event_timeout,FUNC_6
+drm_sched_entity_flush,FUNC_7
+entity,VAR_3
+timeout,VAR_4
+sched,VAR_5
+last_user,VAR_6
+ret,VAR_7

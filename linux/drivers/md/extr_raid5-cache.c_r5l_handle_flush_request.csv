@@ -1,0 +1,13 @@
+EAGAIN,VAR_0
+R5C_JOURNAL_MODE_WRITE_THROUGH,VAR_1
+REQ_PREFLUSH,VAR_2
+atomic_inc,FUNC_0
+bio_endio,FUNC_1
+bio_list_add,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+r5l_get_meta,FUNC_5
+r5l_submit_current_io,FUNC_6
+r5l_handle_flush_request,FUNC_7
+log,VAR_3
+bio,VAR_4

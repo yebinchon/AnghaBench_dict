@@ -1,0 +1,10 @@
+PMAP_BATCH_SET_CACHE_ATTR,FUNC_0
+VM_WIMG_MASK,VAR_0
+VM_WIMG_USE_DEFAULT,VAR_1
+assert,FUNC_1
+vm_object_set_pmap_cache_attr,FUNC_2
+object,VAR_2
+user_page_list,VAR_3
+num_pages,VAR_4
+batch_pmap_op,VAR_5
+cache_attr,VAR_6

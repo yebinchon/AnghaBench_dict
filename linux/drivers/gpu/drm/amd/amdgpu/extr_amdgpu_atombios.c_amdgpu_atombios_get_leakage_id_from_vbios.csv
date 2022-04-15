@@ -1,0 +1,16 @@
+ATOM_GET_LEAKAGE_ID,VAR_0
+COMMAND,VAR_1
+DRM_ERROR,FUNC_0
+EINVAL,VAR_2
+GetIndexIntoMasterTable,FUNC_1
+SetVoltage,VAR_3
+amdgpu_atom_execute_table,FUNC_2
+amdgpu_atom_parse_cmd_header,FUNC_3
+le16_to_cpu,FUNC_4
+amdgpu_atombios_get_leakage_id_from_vbios,FUNC_5
+adev,VAR_4
+leakage_id,VAR_5
+args,VAR_6
+index,VAR_7
+frev,VAR_8
+crev,VAR_9

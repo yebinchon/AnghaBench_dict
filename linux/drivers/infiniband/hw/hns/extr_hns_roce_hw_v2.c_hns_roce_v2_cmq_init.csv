@@ -1,0 +1,14 @@
+CMD_CRQ_DESC_NUM,VAR_0
+CMD_CSQ_DESC_NUM,VAR_1
+HNS_ROCE_CMQ_TX_TIMEOUT,VAR_2
+TYPE_CRQ,VAR_3
+TYPE_CSQ,VAR_4
+dev_err,FUNC_0
+hns_roce_cmq_init_regs,FUNC_1
+hns_roce_free_cmq_desc,FUNC_2
+hns_roce_init_cmq_ring,FUNC_3
+spin_lock_init,FUNC_4
+hns_roce_v2_cmq_init,FUNC_5
+hr_dev,VAR_5
+priv,VAR_6
+ret,VAR_7

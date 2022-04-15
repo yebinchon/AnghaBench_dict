@@ -1,0 +1,15 @@
+DISABLE_NEC,VAR_0
+ENABLE_RC5,VAR_1
+ENABLE_RC6,VAR_2
+IR_CTRL,VAR_3
+NEC_ANY,VAR_4
+RC6_CTRL,VAR_5
+RC_PROTO_BIT_RC5,VAR_6
+RC_PROTO_BIT_RC6_0,VAR_7
+writel_relaxed,FUNC_0
+tango_change_protocol,FUNC_1
+dev,VAR_8
+rc_type,VAR_9
+ir,VAR_10
+rc5_ctrl,VAR_11
+rc6_ctrl,VAR_12

@@ -1,0 +1,11 @@
+DSBPLAY_LOOPING,VAR_0
+DSBSTATUS_BUFFERLOST,VAR_1
+DSBSTATUS_PLAYING,VAR_2
+IDirectSoundBuffer_GetStatus,FUNC_0
+IDirectSoundBuffer_Play,FUNC_1
+IDirectSoundBuffer_Restore,FUNC_2
+IDirectSoundBuffer_SetCurrentPosition,FUNC_3
+IDirectSoundBuffer_SetFormat,FUNC_4
+CheckStatus,FUNC_5
+tmp,VAR_3
+status,VAR_4

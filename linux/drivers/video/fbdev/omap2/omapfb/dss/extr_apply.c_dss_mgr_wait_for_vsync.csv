@@ -1,0 +1,13 @@
+DISPC_IRQ_EVSYNC_EVEN,VAR_0
+DISPC_IRQ_EVSYNC_ODD,VAR_1
+ENODEV,VAR_2
+dispc_mgr_get_vsync_irq,FUNC_0
+dispc_runtime_get,FUNC_1
+dispc_runtime_put,FUNC_2
+msecs_to_jiffies,FUNC_3
+omap_dispc_wait_for_irq_interruptible_timeout,FUNC_4
+dss_mgr_wait_for_vsync,FUNC_5
+mgr,VAR_3
+timeout,VAR_4
+irq,VAR_5
+r,VAR_6

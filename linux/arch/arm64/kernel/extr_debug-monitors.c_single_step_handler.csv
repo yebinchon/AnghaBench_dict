@@ -1,0 +1,15 @@
+DBG_HOOK_HANDLED,VAR_0
+TRAP_TRACE,VAR_1
+call_step_hook,FUNC_0
+current,VAR_2
+pr_warn,FUNC_1
+reinstall_suspended_bps,FUNC_2
+send_user_sigtrap,FUNC_3
+set_regs_spsr_ss,FUNC_4
+user_mode,FUNC_5
+user_rewind_single_step,FUNC_6
+single_step_handler,FUNC_7
+unused,VAR_3
+esr,VAR_4
+regs,VAR_5
+handler_found,VAR_6

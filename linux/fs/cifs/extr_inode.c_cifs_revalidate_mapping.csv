@@ -1,0 +1,16 @@
+CIFS_I,FUNC_0
+CIFS_INO_INVALID_MAPPING,VAR_0
+CIFS_INO_LOCK,VAR_1
+TASK_KILLABLE,VAR_2
+cifs_invalidate_mapping,FUNC_1
+cifs_wait_bit_killable,VAR_3
+clear_bit_unlock,FUNC_2
+set_bit,FUNC_3
+smp_mb__after_atomic,FUNC_4
+test_and_clear_bit,FUNC_5
+wait_on_bit_lock_action,FUNC_6
+wake_up_bit,FUNC_7
+cifs_revalidate_mapping,FUNC_8
+inode,VAR_4
+rc,VAR_5
+flags,VAR_6

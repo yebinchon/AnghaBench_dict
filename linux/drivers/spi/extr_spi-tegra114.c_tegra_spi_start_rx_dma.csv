@@ -1,0 +1,13 @@
+DMA_CTRL_ACK,VAR_0
+DMA_DEV_TO_MEM,VAR_1
+DMA_PREP_INTERRUPT,VAR_2
+EIO,VAR_3
+dev_err,FUNC_0
+dma_async_issue_pending,FUNC_1
+dmaengine_prep_slave_single,FUNC_2
+dmaengine_submit,FUNC_3
+reinit_completion,FUNC_4
+tegra_spi_dma_complete,VAR_4
+tegra_spi_start_rx_dma,FUNC_5
+tspi,VAR_5
+len,VAR_6

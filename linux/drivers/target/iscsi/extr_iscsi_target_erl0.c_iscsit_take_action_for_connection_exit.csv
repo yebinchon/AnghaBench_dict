@@ -1,0 +1,12 @@
+TARG_CONN_STATE_CLEANUP_WAIT,VAR_0
+TARG_CONN_STATE_IN_LOGOUT,VAR_1
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+iscsit_close_connection,FUNC_2
+iscsit_handle_connection_cleanup,FUNC_3
+pr_debug,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+iscsit_take_action_for_connection_exit,FUNC_7
+conn,VAR_2
+conn_freed,VAR_3

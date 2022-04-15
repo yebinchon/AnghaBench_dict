@@ -1,0 +1,12 @@
+KASSERT,FUNC_0
+VMBUS_XACT_CTXF_DESTROY,VAR_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+printf,FUNC_3
+vmbus_xact_save_resp,FUNC_4
+wakeup,FUNC_5
+vmbus_xact_ctx_wakeup,FUNC_6
+ctx,VAR_1
+data,VAR_2
+dlen,VAR_3
+do_wakeup,VAR_4

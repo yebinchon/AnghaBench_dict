@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+SCSI_VPD_DEVICE_ID,VAR_2
+SCSI_VPD_DEVICE_ID_IDX,VAR_3
+VPD_PAGE,VAR_4
+kfree,FUNC_0
+kzalloc,FUNC_1
+memcpy,FUNC_2
+pqi_scsi_inquiry,FUNC_3
+pqi_vpd_page_supported,FUNC_4
+pqi_get_device_id,FUNC_5
+ctrl_info,VAR_5
+scsi3addr,VAR_6
+device_id,VAR_7
+buflen,VAR_8
+rc,VAR_9
+buf,VAR_10

@@ -1,0 +1,14 @@
+CLUSTER_MANAGER_COMMAND,FUNC_0
+CLUSTER_MANAGER_PRINT_REPLY_ERROR,FUNC_1
+REDIS_REPLY_ARRAY,VAR_0
+clusterManagerCheckRedisReply,FUNC_2
+freeReplyObject,FUNC_3
+zfree,FUNC_4
+clusterManagerExecTransaction,FUNC_5
+node,VAR_1
+onerror,VAR_2
+reply,VAR_3
+success,VAR_4
+i,VAR_5
+r,VAR_6
+err,VAR_7

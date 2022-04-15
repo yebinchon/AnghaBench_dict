@@ -1,0 +1,11 @@
+O_CLOEXEC,VAR_0
+O_DIRECTORY,VAR_1
+O_NOFOLLOW,VAR_2
+O_RDONLY,VAR_3
+assert_se,FUNC_0
+fd_is_cgroup_fs,FUNC_1
+fd_is_temporary_fs,FUNC_2
+open,FUNC_3
+safe_close,FUNC_4
+test_fd_is_cgroup_fs,FUNC_5
+fd,VAR_4

@@ -1,0 +1,14 @@
+BGW_JOB_STAT,VAR_0
+DT_NOBEGIN,VAR_1
+RowExclusiveLock,VAR_2
+ShareRowExclusiveLock,VAR_3
+bgw_job_stat_insert_relation,FUNC_0
+bgw_job_stat_scan_job_id,FUNC_1
+bgw_job_stat_tuple_mark_start,VAR_4
+catalog_get_table_id,FUNC_2
+heap_close,FUNC_3
+heap_open,FUNC_4
+ts_catalog_get,FUNC_5
+ts_bgw_job_stat_mark_start,FUNC_6
+bgw_job_id,VAR_5
+rel,VAR_6

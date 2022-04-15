@@ -1,0 +1,16 @@
+DEBUGFS_FSDATA_IS_REAL_FOPS_BIT,VAR_0
+EIO,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+READ_ONCE,FUNC_0
+cmpxchg,FUNC_1
+d_unlinked,FUNC_2
+init_completion,FUNC_3
+kfree,FUNC_4
+kmalloc,FUNC_5
+refcount_inc_not_zero,FUNC_6
+refcount_set,FUNC_7
+debugfs_file_get,FUNC_8
+dentry,VAR_4
+fsd,VAR_5
+d_fsd,VAR_6

@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+MSR_TMTA_LONGRUN_CTRL,VAR_1
+MSR_TMTA_LONGRUN_FLAGS,VAR_2
+longrun_high_freq,VAR_3
+longrun_low_freq,VAR_4
+rdmsr,FUNC_0
+wrmsr,FUNC_1
+longrun_set_policy,FUNC_2
+policy,VAR_5
+msr_lo,VAR_6
+msr_hi,VAR_7
+pctg_lo,VAR_8
+pctg_hi,VAR_9

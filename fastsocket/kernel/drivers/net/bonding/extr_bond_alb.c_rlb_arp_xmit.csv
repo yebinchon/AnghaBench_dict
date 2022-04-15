@@ -1,0 +1,15 @@
+ARPOP_REPLY,VAR_0
+ARPOP_REQUEST,VAR_1
+ETH_ALEN,VAR_2
+RLB_UPDATE_DELAY,VAR_3
+arp_pkt,FUNC_0
+htons,FUNC_1
+memcpy,FUNC_2
+pr_debug,FUNC_3
+rlb_choose_channel,FUNC_4
+rlb_req_update_subnet_clients,FUNC_5
+rlb_arp_xmit,FUNC_6
+skb,VAR_4
+bond,VAR_5
+arp,VAR_6
+tx_slave,VAR_7

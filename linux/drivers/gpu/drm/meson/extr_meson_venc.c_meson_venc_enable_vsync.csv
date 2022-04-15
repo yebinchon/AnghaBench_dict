@@ -1,0 +1,9 @@
+BIT,FUNC_0
+HHI_GCLK_MPEG2,VAR_0
+VENC_INTCTRL,VAR_1
+VENC_INTCTRL_ENCI_LNRST_INT_EN,VAR_2
+_REG,FUNC_1
+regmap_update_bits,FUNC_2
+writel_relaxed,FUNC_3
+meson_venc_enable_vsync,FUNC_4
+priv,VAR_3

@@ -1,0 +1,16 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_2
+git_checkout_head,FUNC_3
+git_index_add_bypath,FUNC_4
+git_index_free,FUNC_5
+git_index_write,FUNC_6
+git_path_isfile,FUNC_7
+git_repository_index,FUNC_8
+p_mkdir,FUNC_9
+test_checkout_head__do_not_remove_untracked_file,FUNC_10
+opts,VAR_3
+index,VAR_4

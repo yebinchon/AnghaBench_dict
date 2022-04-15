@@ -1,0 +1,10 @@
+REG_OCPCTL,VAR_0
+SD_OCP_INT_CLR,VAR_1
+SD_OC_CLR,VAR_2
+rtsx_pci_write_register,FUNC_0
+stub1,FUNC_1
+udelay,FUNC_2
+rtsx_pci_clear_ocpstat,FUNC_3
+pcr,VAR_3
+mask,VAR_4
+val,VAR_5

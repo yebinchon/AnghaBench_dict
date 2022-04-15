@@ -1,0 +1,12 @@
+RC_INCR,VAR_0
+SIG_SETMASK,VAR_1
+WAFLAG,VAR_2
+assert,FUNC_0
+atomic_add_rel_int,FUNC_1
+atomic_fetchadd_int,FUNC_2
+oldsigmask,VAR_3
+sigprocmask,FUNC_3
+wnested,VAR_4
+def_lock_release,FUNC_4
+lock,VAR_5
+l,VAR_6

@@ -1,0 +1,13 @@
+BEISCSI_LOG_CONFIG,VAR_0
+CMD_SUBSYSTEM_ISCSI,VAR_1
+ENOMEM,VAR_2
+KERN_ERR,VAR_3
+be_cmd_hdr_prepare,FUNC_0
+beiscsi_log,FUNC_1
+memset,FUNC_2
+pci_alloc_consistent,FUNC_3
+mgmt_alloc_cmd_data,FUNC_4
+phba,VAR_4
+cmd,VAR_5
+iscsi_cmd,VAR_6
+size,VAR_7

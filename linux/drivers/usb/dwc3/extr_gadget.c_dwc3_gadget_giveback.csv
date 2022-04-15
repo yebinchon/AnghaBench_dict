@@ -1,0 +1,10 @@
+DWC3_REQUEST_STATUS_COMPLETED,VAR_0
+dwc3_gadget_del_and_unmap_request,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+usb_gadget_giveback_request,FUNC_3
+dwc3_gadget_giveback,FUNC_4
+dep,VAR_1
+req,VAR_2
+status,VAR_3
+dwc,VAR_4

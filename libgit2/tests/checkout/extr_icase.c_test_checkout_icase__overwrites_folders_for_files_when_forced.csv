@@ -1,0 +1,16 @@
+GIT_CHECKOUT_FORCE,VAR_0
+O_CREAT,VAR_1
+O_TRUNC,VAR_2
+O_WRONLY,VAR_3
+assert_name_is,FUNC_0
+checkout_opts,VAR_4
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_write2file,FUNC_3
+cl_must_pass,FUNC_4
+git_checkout_tree,FUNC_5
+git_path_isdir,FUNC_6
+obj,VAR_5
+p_mkdir,FUNC_7
+repo,VAR_6
+test_checkout_icase__overwrites_folders_for_files_when_forced,FUNC_8

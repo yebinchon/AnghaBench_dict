@@ -1,0 +1,17 @@
+CRYPT_DECODE_ALLOC_FLAG,VAR_0
+CRYPT_DECODE_NOCOPY_FLAG,VAR_1
+CertFindRDNAttr,FUNC_0
+CertRDNValueToStrA,FUNC_1
+CryptDecodeObjectEx,FUNC_2
+LocalFree,FUNC_3
+X509_ASN_ENCODING,VAR_2
+X509_NAME,VAR_3
+szOID_COMMON_NAME,VAR_4
+get_cert_common_name,FUNC_4
+cert,VAR_5
+buf,VAR_6
+name,VAR_7
+nameInfo,VAR_8
+size,VAR_9
+ret,VAR_10
+commonName,VAR_11

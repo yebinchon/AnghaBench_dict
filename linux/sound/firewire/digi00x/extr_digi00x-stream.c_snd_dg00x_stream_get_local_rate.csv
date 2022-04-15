@@ -1,0 +1,14 @@
+ARRAY_SIZE,FUNC_0
+DG00X_ADDR_BASE,VAR_0
+DG00X_OFFSET_LOCAL_RATE,VAR_1
+EIO,VAR_2
+TCODE_READ_QUADLET_REQUEST,VAR_3
+be32_to_cpu,FUNC_1
+snd_dg00x_stream_rates,VAR_4
+snd_fw_transaction,FUNC_2
+snd_dg00x_stream_get_local_rate,FUNC_3
+dg00x,VAR_5
+rate,VAR_6
+data,VAR_7
+reg,VAR_8
+err,VAR_9

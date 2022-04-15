@@ -1,0 +1,8 @@
+iwl_trans_write32,FUNC_0
+lower_32_bits,FUNC_1
+trace_iwlwifi_dev_iowrite64,FUNC_2
+upper_32_bits,FUNC_3
+iwl_write64,FUNC_4
+trans,VAR_0
+ofs,VAR_1
+val,VAR_2

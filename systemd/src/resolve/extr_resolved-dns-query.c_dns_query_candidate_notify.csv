@@ -1,0 +1,13 @@
+DNS_TRANSACTION_IS_LIVE,FUNC_0
+DNS_TRANSACTION_SUCCESS,VAR_0
+assert,FUNC_1
+dns_query_candidate_go,FUNC_2
+dns_query_candidate_next_search_domain,FUNC_3
+dns_query_candidate_setup_transactions,FUNC_4
+dns_query_candidate_state,FUNC_5
+dns_query_ready,FUNC_6
+log_warning_errno,FUNC_7
+dns_query_candidate_notify,FUNC_8
+c,VAR_1
+state,VAR_2
+r,VAR_3

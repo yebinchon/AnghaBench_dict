@@ -1,0 +1,16 @@
+CLOCK_MONOTONIC,VAR_0
+DPRINTF,FUNC_0
+ETIMEDOUT,VAR_1
+GET_CONTEXT,FUNC_1
+LIBUSB_DEBUG_FUNCTION,VAR_2
+LIBUSB_ERROR_OTHER,VAR_3
+NO_THREAD,VAR_4
+clock_gettime,FUNC_2
+pthread_cond_timedwait,FUNC_3
+pthread_cond_wait,FUNC_4
+pthread_self,FUNC_5
+libusb_wait_for_event,FUNC_6
+ctx,VAR_5
+tv,VAR_6
+ts,VAR_7
+err,VAR_8

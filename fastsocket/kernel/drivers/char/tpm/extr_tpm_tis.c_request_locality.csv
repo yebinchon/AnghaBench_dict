@@ -1,0 +1,14 @@
+TPM_ACCESS,FUNC_0
+TPM_ACCESS_REQUEST_USE,VAR_0
+TPM_TIMEOUT,VAR_1
+check_locality,FUNC_1
+iowrite8,FUNC_2
+jiffies,VAR_2
+msleep,FUNC_3
+time_before,FUNC_4
+wait_event_interruptible_timeout,FUNC_5
+request_locality,FUNC_6
+chip,VAR_3
+l,VAR_4
+stop,VAR_5
+rc,VAR_6

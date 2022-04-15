@@ -1,0 +1,13 @@
+PDC_IRQ_ENABLE,VAR_0
+PDC_IRQ_STATUS,VAR_1
+generic_handle_irq,FUNC_0
+irq_desc_get_handler_data,FUNC_1
+irq_linear_revmap,FUNC_2
+pdc_read,FUNC_3
+syswake_to_hwirq,FUNC_4
+pdc_intc_syswake_isr,FUNC_5
+desc,VAR_2
+priv,VAR_3
+syswake,VAR_4
+irq_no,VAR_5
+status,VAR_6

@@ -1,0 +1,11 @@
+Assert,FUNC_0
+CONNECTION_OK,VAR_0
+LogRemoteCommand,FUNC_1
+PQisnonblocking,FUNC_2
+PQsendQuery,FUNC_3
+PQstatus,FUNC_4
+SendRemoteCommand,FUNC_5
+connection,VAR_1
+command,VAR_2
+pgConn,VAR_3
+rc,VAR_4

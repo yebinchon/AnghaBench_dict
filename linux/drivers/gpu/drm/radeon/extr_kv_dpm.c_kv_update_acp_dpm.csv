@@ -1,0 +1,15 @@
+AcpBootLevel,VAR_0
+PPSMC_MSG_ACPDPM_SetEnabledMask,VAR_1
+SMU7_Fusion_DpmTable,VAR_2
+kv_copy_bytes_to_smc,FUNC_0
+kv_enable_acp_dpm,FUNC_1
+kv_get_acp_boot_level,FUNC_2
+kv_get_pi,FUNC_3
+kv_send_msg_to_smc_with_parameter,FUNC_4
+offsetof,FUNC_5
+kv_update_acp_dpm,FUNC_6
+rdev,VAR_3
+gate,VAR_4
+pi,VAR_5
+table,VAR_6
+ret,VAR_7

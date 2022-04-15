@@ -1,0 +1,17 @@
+ConvertStringSidToSid,FUNC_0
+DEFAULT_GROUP_ATTRIBUTES,VAR_0
+LPTR,VAR_1
+LocalAlloc,FUNC_1
+LocalFree,FUNC_2
+_wcsdup,FUNC_3
+free,FUNC_4
+wcstok_s,FUNC_5
+kuhl_m_pac_stringToSids,FUNC_6
+szSids,VAR_2
+sids,VAR_3
+cbSids,VAR_4
+dupSids,VAR_5
+nextSetToken,VAR_6
+SetToken,VAR_7
+i,VAR_8
+tmp,VAR_9

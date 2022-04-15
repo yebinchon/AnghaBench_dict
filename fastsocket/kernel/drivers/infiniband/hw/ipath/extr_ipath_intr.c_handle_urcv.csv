@@ -1,0 +1,14 @@
+IPATH_PORT_WAITING_RCV,VAR_0
+IPATH_PORT_WAITING_URG,VAR_1
+clear_bit,FUNC_0
+ipath_write_kreg,FUNC_1
+rmb,FUNC_2
+test_and_clear_bit,FUNC_3
+wake_up_interruptible,FUNC_4
+handle_urcv,FUNC_5
+dd,VAR_2
+istat,VAR_3
+portr,VAR_4
+i,VAR_5
+rcvdint,VAR_6
+pd,VAR_7

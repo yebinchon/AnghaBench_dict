@@ -1,0 +1,13 @@
+BT_BLE_COEX_TAG,VAR_0
+ESP_LOGE,FUNC_0
+PROFILE_A_APP_ID,VAR_1
+PROFILE_B_APP_ID,VAR_2
+esp_ble_gap_register_callback,FUNC_1
+esp_ble_gatt_set_local_mtu,FUNC_2
+esp_ble_gatts_app_register,FUNC_3
+esp_ble_gatts_register_callback,FUNC_4
+gap_event_handler,VAR_3
+gatts_event_handler,VAR_4
+ble_gatts_init,FUNC_5
+ret,VAR_5
+local_mtu_ret,VAR_6

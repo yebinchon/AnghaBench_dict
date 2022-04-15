@@ -1,0 +1,10 @@
+__alloc_dma_pages,FUNC_0
+get_pages,FUNC_1
+memset,FUNC_2
+virt_to_phys,FUNC_3
+dma_alloc_coherent,FUNC_4
+dev,VAR_0
+size,VAR_1
+dma_handle,VAR_2
+gfp,VAR_3
+ret,VAR_4

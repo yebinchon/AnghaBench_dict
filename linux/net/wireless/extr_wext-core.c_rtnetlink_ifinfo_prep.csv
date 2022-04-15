@@ -1,0 +1,13 @@
+AF_UNSPEC,VAR_0
+IFLA_IFNAME,VAR_1
+RTM_NEWLINK,VAR_2
+dev_get_flags,FUNC_0
+nla_put_string,FUNC_1
+nlmsg_cancel,FUNC_2
+nlmsg_data,FUNC_3
+nlmsg_put,FUNC_4
+rtnetlink_ifinfo_prep,FUNC_5
+dev,VAR_3
+skb,VAR_4
+r,VAR_5
+nlh,VAR_6

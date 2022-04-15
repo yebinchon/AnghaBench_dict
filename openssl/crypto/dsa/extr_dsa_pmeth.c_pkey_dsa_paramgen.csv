@@ -1,0 +1,14 @@
+BN_GENCB_free,FUNC_0
+BN_GENCB_new,FUNC_1
+DSA_free,FUNC_2
+DSA_new,FUNC_3
+EVP_PKEY_assign_DSA,FUNC_4
+dsa_builtin_paramgen,FUNC_5
+evp_pkey_set_cb_translate,FUNC_6
+pkey_dsa_paramgen,FUNC_7
+ctx,VAR_0
+pkey,VAR_1
+dsa,VAR_2
+dctx,VAR_3
+pcb,VAR_4
+ret,VAR_5

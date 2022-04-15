@@ -1,0 +1,14 @@
+O_NONBLOCK,VAR_0
+O_RDONLY,VAR_1
+SNDCTL_DSP_GETCAPS,VAR_2
+errno,VAR_3
+ioctl,FUNC_0
+msg_Err,FUNC_1
+vlc_close,FUNC_2
+vlc_open,FUNC_3
+vlc_strerror_c,FUNC_4
+ProbeAudioDevOss,FUNC_5
+p_demux,VAR_4
+psz_device,VAR_5
+i_caps,VAR_6
+i_fd,VAR_7

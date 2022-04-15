@@ -1,0 +1,14 @@
+PSL_T,VAR_0
+SIGTRAP,VAR_1
+TRAP_TRACE,VAR_2
+amd64_syscall_ret_flush_l1d,FUNC_0
+curthread,VAR_3
+ksiginfo_init_trap,FUNC_1
+syscallenter,FUNC_2
+syscallret,FUNC_3
+trapsignal,FUNC_4
+ia32_syscall,FUNC_5
+frame,VAR_4
+td,VAR_5
+orig_tf_rflags,VAR_6
+ksi,VAR_7

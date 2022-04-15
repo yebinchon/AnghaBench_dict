@@ -1,0 +1,12 @@
+B43_LPPHY_TX_GAIN_CTL_OVERRIDE_VAL,VAR_0
+B43_PHY_OFDM,FUNC_0
+b43_phy_maskset,FUNC_1
+b43_phy_write,FUNC_2
+lpphy_enable_tx_gain_override,FUNC_3
+lpphy_get_pa_gain,FUNC_4
+lpphy_set_dac_gain,FUNC_5
+lpphy_set_tx_gains,FUNC_6
+dev,VAR_1
+gains,VAR_2
+rf_gain,VAR_3
+pa_gain,VAR_4

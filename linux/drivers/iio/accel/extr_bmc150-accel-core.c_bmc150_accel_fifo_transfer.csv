@@ -1,0 +1,12 @@
+BMC150_ACCEL_REG_FIFO_DATA,VAR_0
+dev_err,FUNC_0
+regmap_get_device,FUNC_1
+regmap_raw_read,FUNC_2
+bmc150_accel_fifo_transfer,FUNC_3
+data,VAR_1
+buffer,VAR_2
+samples,VAR_3
+dev,VAR_4
+sample_length,VAR_5
+ret,VAR_6
+total_length,VAR_7

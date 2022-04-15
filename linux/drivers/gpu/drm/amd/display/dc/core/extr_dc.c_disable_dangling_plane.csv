@@ -1,0 +1,15 @@
+dc_create_state,FUNC_0
+dc_release_state,FUNC_1
+dc_rem_all_planes_for_stream,FUNC_2
+dc_resource_state_copy_construct,FUNC_3
+disable_all_writeback_pipes_for_stream,FUNC_4
+stub1,FUNC_5
+disable_dangling_plane,FUNC_6
+dc,VAR_0
+context,VAR_1
+i,VAR_2
+j,VAR_3
+dangling_context,VAR_4
+current_ctx,VAR_5
+old_stream,VAR_6
+should_disable,VAR_7

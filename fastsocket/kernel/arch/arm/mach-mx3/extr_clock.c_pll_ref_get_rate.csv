@@ -1,0 +1,10 @@
+CKIL_CLK_FREQ,VAR_0
+MXC_CCM_CCMR,VAR_1
+MXC_CCM_CCMR_PRCS_MASK,VAR_2
+MXC_CCM_CCMR_PRCS_OFFSET,VAR_3
+__raw_readl,FUNC_0
+ckih_clk,VAR_4
+clk_get_rate,FUNC_1
+pll_ref_get_rate,FUNC_2
+ccmr,VAR_5
+prcs,VAR_6

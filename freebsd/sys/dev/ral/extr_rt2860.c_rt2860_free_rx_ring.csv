@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+RT2860_RX_RING_COUNT,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+bus_dmamem_free,FUNC_4
+m_freem,FUNC_5
+rt2860_free_rx_ring,FUNC_6
+sc,VAR_3
+ring,VAR_4
+i,VAR_5
+data,VAR_6

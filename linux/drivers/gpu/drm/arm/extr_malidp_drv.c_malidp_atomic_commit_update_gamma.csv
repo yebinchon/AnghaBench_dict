@@ -1,0 +1,13 @@
+MALIDP_DE_DISPLAY_FUNC,VAR_0
+MALIDP_DISP_FUNC_GAMMA,VAR_1
+crtc_to_malidp_device,FUNC_0
+malidp_hw_clearbits,FUNC_1
+malidp_hw_setbits,FUNC_2
+malidp_write_gamma_table,FUNC_3
+to_malidp_crtc_state,FUNC_4
+malidp_atomic_commit_update_gamma,FUNC_5
+crtc,VAR_2
+old_state,VAR_3
+malidp,VAR_4
+hwdev,VAR_5
+mc,VAR_6

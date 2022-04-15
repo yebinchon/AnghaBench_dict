@@ -1,0 +1,14 @@
+DEFINE_WAIT_BIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+__I_LOCK,VAR_1
+bit_waitqueue,FUNC_1
+finish_wait,FUNC_2
+inode_lock,VAR_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+wait,VAR_3
+__wait_on_freeing_inode,FUNC_7
+inode,VAR_4
+wq,VAR_5

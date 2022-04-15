@@ -1,0 +1,17 @@
+WARN_ON,FUNC_0
+__update_clear_spte_fast,FUNC_1
+__update_clear_spte_slow,FUNC_2
+is_accessed_spte,FUNC_3
+is_dirty_spte,FUNC_4
+is_shadow_present_pte,FUNC_5
+kvm_is_reserved_pfn,FUNC_6
+kvm_set_pfn_accessed,FUNC_7
+kvm_set_pfn_dirty,FUNC_8
+page_count,FUNC_9
+pfn_to_page,FUNC_10
+spte_has_volatile_bits,FUNC_11
+spte_to_pfn,FUNC_12
+mmu_spte_clear_track_bits,FUNC_13
+sptep,VAR_0
+pfn,VAR_1
+old_spte,VAR_2

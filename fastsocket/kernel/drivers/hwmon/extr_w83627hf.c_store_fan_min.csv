@@ -1,0 +1,17 @@
+DIV_FROM_REG,FUNC_0
+FAN_TO_REG,FUNC_1
+W83627HF_REG_FAN_MIN,FUNC_2
+dev_get_drvdata,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+simple_strtoul,FUNC_6
+to_sensor_dev_attr,FUNC_7
+w83627hf_write_value,FUNC_8
+store_fan_min,FUNC_9
+dev,VAR_0
+devattr,VAR_1
+buf,VAR_2
+count,VAR_3
+nr,VAR_4
+data,VAR_5
+val,VAR_6

@@ -1,0 +1,10 @@
+ASSERT_RTNL,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+tcf_chain_dereference,FUNC_3
+tcf_proto_get,FUNC_4
+tcf_proto_is_deleting,FUNC_5
+__tcf_get_next_proto,FUNC_6
+chain,VAR_0
+tp,VAR_1
+prio,VAR_2

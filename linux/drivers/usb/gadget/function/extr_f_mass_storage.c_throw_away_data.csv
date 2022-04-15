@@ -1,0 +1,16 @@
+BUF_STATE_EMPTY,VAR_0
+EINTR,VAR_1
+EIO,VAR_2
+FSG_BUFLEN,VAR_3
+FSG_STATE_ABORT_BULK_OUT,VAR_4
+min,FUNC_0
+raise_exception,FUNC_1
+set_bulk_out_req_length,FUNC_2
+sleep_thread,FUNC_3
+start_out_transfer,FUNC_4
+throw_away_data,FUNC_5
+common,VAR_5
+bh,VAR_6
+bh2,VAR_7
+amount,VAR_8
+rc,VAR_9

@@ -1,0 +1,15 @@
+CPU_FTR_ARCH_300,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+MAX_SMT_THREADS,VAR_3
+cpu_has_feature,FUNC_0
+is_power_of_2,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+threads_per_subcore,VAR_4
+kvmhv_set_smt_mode,FUNC_4
+kvm,VAR_5
+smt_mode,VAR_6
+flags,VAR_7
+err,VAR_8
+esmt,VAR_9

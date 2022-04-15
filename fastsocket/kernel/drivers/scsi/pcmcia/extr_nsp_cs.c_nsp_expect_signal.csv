@@ -1,0 +1,14 @@
+BUSMON_PHASE_MASK,VAR_0
+IRQSTATUS,VAR_1
+IRQSTATUS_SCSI,VAR_2
+SCSIBUSMON,VAR_3
+nsp_index_read,FUNC_0
+nsp_read,FUNC_1
+nsp_expect_signal,FUNC_2
+SCpnt,VAR_4
+current_phase,VAR_5
+mask,VAR_6
+base,VAR_7
+time_out,VAR_8
+phase,VAR_9
+i_src,VAR_10

@@ -1,0 +1,10 @@
+DPCD_LANE_COUNT_SET,FUNC_0
+DP_LANE_COUNT_ENHANCED_FRAME_EN,VAR_0
+DP_LANE_COUNT_SET,VAR_1
+drm_dp_dpcd_readb,FUNC_1
+drm_dp_dpcd_writeb,FUNC_2
+analogix_dp_enable_rx_to_enhanced_mode,FUNC_3
+dp,VAR_2
+enable,VAR_3
+data,VAR_4
+ret,VAR_5

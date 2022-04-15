@@ -1,0 +1,16 @@
+CRC32_INITIAL,VAR_0
+CSR0,VAR_1
+FL_NEED_RESEND,VAR_2
+FL_WAIT_ACK,VAR_3
+TR_ERROR_COUNT,VAR_4
+TR_REQ,VAR_5
+download_data,FUNC_0
+drop_xmit_queue,FUNC_1
+sbni_inb,FUNC_2
+sbni_outb,FUNC_3
+sbni_outsb,FUNC_4
+send_frame_header,FUNC_5
+send_frame,FUNC_6
+sc,VAR_6
+crc,VAR_7
+csr0,VAR_8

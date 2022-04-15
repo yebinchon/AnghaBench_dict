@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_1
+device_printf,FUNC_2
+iflib_get_dev,FUNC_3
+iflib_get_softc,FUNC_4
+rman_get_bushandle,FUNC_5
+rman_get_bustag,FUNC_6
+ixv_allocate_pci_resources,FUNC_7
+ctx,VAR_3
+adapter,VAR_4
+dev,VAR_5
+rid,VAR_6

@@ -1,0 +1,10 @@
+ASSERT,FUNC_0
+ASSERT_EQ,FUNC_1
+MG_MQTT_CMD_CONNACK,VAR_0
+create_test_connection,FUNC_2
+destroy_test_connection,FUNC_3
+mg_mqtt_connack,FUNC_4
+mg_set_protocol_mqtt,FUNC_5
+test_mqtt_connack,FUNC_6
+nc,VAR_1
+got,VAR_2

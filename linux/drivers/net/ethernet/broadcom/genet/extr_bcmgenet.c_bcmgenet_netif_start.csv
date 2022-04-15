@@ -1,0 +1,11 @@
+CMD_RX_EN,VAR_0
+CMD_TX_EN,VAR_1
+bcmgenet_enable_rx_napi,FUNC_0
+bcmgenet_enable_tx_napi,FUNC_1
+bcmgenet_link_intr_enable,FUNC_2
+netdev_priv,FUNC_3
+phy_start,FUNC_4
+umac_enable_set,FUNC_5
+bcmgenet_netif_start,FUNC_6
+dev,VAR_2
+priv,VAR_3

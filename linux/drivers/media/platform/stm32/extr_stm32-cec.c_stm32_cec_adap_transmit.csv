@@ -1,0 +1,12 @@
+CEC_CR,VAR_0
+CEC_TXDR,VAR_1
+TXEOM,VAR_2
+TXSOM,VAR_3
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+stm32_cec_adap_transmit,FUNC_2
+adap,VAR_4
+attempts,VAR_5
+signal_free_time,VAR_6
+msg,VAR_7
+cec,VAR_8

@@ -1,0 +1,13 @@
+PCI_CLASS_SERIAL_USB_EHCI,VAR_0
+PCI_CLASS_SERIAL_USB_OHCI,VAR_1
+PCI_CLASS_SERIAL_USB_UHCI,VAR_2
+PCI_CLASS_SERIAL_USB_XHCI,VAR_3
+dev_warn,FUNC_0
+pci_disable_device,FUNC_1
+pci_enable_device,FUNC_2
+quirk_usb_disable_ehci,FUNC_3
+quirk_usb_handoff_ohci,FUNC_4
+quirk_usb_handoff_uhci,FUNC_5
+quirk_usb_handoff_xhci,FUNC_6
+quirk_usb_early_handoff,FUNC_7
+pdev,VAR_4

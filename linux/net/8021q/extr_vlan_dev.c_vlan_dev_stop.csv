@@ -1,0 +1,15 @@
+IFF_ALLMULTI,VAR_0
+IFF_PROMISC,VAR_1
+VLAN_FLAG_BRIDGE_BINDING,VAR_2
+dev_mc_unsync,FUNC_0
+dev_set_allmulti,FUNC_1
+dev_set_promiscuity,FUNC_2
+dev_uc_del,FUNC_3
+dev_uc_unsync,FUNC_4
+ether_addr_equal,FUNC_5
+netif_carrier_off,FUNC_6
+vlan_dev_priv,FUNC_7
+vlan_dev_stop,FUNC_8
+dev,VAR_3
+vlan,VAR_4
+real_dev,VAR_5

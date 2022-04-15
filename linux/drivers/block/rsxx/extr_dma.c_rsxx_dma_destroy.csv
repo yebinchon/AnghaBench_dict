@@ -1,0 +1,16 @@
+COMMAND_BUFFER_SIZE8,VAR_0
+COMPLETE_DMA,VAR_1
+STATUS_BUFFER_SIZE8,VAR_2
+del_timer_sync,FUNC_0
+destroy_workqueue,FUNC_1
+dma_free_coherent,FUNC_2
+rsxx_cleanup_dma_queue,FUNC_3
+rsxx_dma_cancel,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+timer_pending,FUNC_7
+vfree,FUNC_8
+rsxx_dma_destroy,FUNC_9
+card,VAR_3
+ctrl,VAR_4
+i,VAR_5

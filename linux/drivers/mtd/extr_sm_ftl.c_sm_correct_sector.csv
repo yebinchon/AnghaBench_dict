@@ -1,0 +1,10 @@
+CONFIG_MTD_NAND_ECC_SW_HAMMING_SMC,VAR_0
+EIO,VAR_1
+IS_ENABLED,FUNC_0
+SM_SMALL_PAGE,VAR_2
+__nand_calculate_ecc,FUNC_1
+__nand_correct_data,FUNC_2
+sm_correct_sector,FUNC_3
+buffer,VAR_3
+oob,VAR_4
+ecc,VAR_5

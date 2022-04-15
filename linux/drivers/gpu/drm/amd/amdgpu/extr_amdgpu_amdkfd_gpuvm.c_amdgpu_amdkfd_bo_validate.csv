@@ -1,0 +1,13 @@
+AMDGPU_FENCE_OWNER_KFD,VAR_0
+EINVAL,VAR_1
+WARN,FUNC_0
+amdgpu_bo_placement_from_domain,FUNC_1
+amdgpu_bo_sync_wait,FUNC_2
+amdgpu_ttm_tt_get_usermm,FUNC_3
+ttm_bo_validate,FUNC_4
+amdgpu_amdkfd_bo_validate,FUNC_5
+bo,VAR_2
+domain,VAR_3
+wait,VAR_4
+ctx,VAR_5
+ret,VAR_6

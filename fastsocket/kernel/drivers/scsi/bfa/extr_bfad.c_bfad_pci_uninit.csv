@@ -1,0 +1,8 @@
+pci_disable_device,FUNC_0
+pci_disable_pcie_error_reporting,FUNC_1
+pci_iounmap,FUNC_2
+pci_release_regions,FUNC_3
+pci_set_drvdata,FUNC_4
+bfad_pci_uninit,FUNC_5
+pdev,VAR_0
+bfad,VAR_1

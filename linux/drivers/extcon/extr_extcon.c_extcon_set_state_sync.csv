@@ -1,0 +1,13 @@
+extcon_set_state,FUNC_0
+extcon_sync,FUNC_1
+find_cable_index_by_id,FUNC_2
+is_extcon_changed,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+extcon_set_state_sync,FUNC_6
+edev,VAR_0
+id,VAR_1
+state,VAR_2
+ret,VAR_3
+index,VAR_4
+flags,VAR_5

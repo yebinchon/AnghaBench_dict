@@ -1,0 +1,13 @@
+ITIMER_PROF,VAR_0
+ITIMER_VIRTUAL,VAR_1
+SEND_SIG_PRIV,VAR_2
+SIGPROF,VAR_3
+__group_send_sig_info,FUNC_0
+task_tgid,FUNC_1
+trace_itimer_expire,FUNC_2
+check_cpu_itimer,FUNC_3
+tsk,VAR_4
+it,VAR_5
+expires,VAR_6
+cur_time,VAR_7
+signo,VAR_8

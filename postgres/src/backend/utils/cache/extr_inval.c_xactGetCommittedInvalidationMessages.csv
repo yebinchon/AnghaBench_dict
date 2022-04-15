@@ -1,0 +1,12 @@
+Assert,FUNC_0
+CurTransactionContext,VAR_0
+MakeSharedInvalidMessagesArray,VAR_1
+MemoryContextSwitchTo,FUNC_1
+ProcessInvalidationMessagesMulti,FUNC_2
+SharedInvalidMessagesArray,VAR_2
+numSharedInvalidMessagesArray,VAR_3
+transInvalInfo,VAR_4
+xactGetCommittedInvalidationMessages,FUNC_3
+msgs,VAR_5
+RelcacheInitFileInval,VAR_6
+oldcontext,VAR_7

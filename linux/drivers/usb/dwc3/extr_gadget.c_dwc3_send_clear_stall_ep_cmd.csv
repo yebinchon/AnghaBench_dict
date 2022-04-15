@@ -1,0 +1,11 @@
+DWC3_DEPCMD_CLEARPENDIN,VAR_0
+DWC3_DEPCMD_CLEARSTALL,VAR_1
+DWC3_REVISION_260A,VAR_2
+USB_SPEED_SUPER,VAR_3
+dwc3_send_gadget_ep_cmd,FUNC_0
+memset,FUNC_1
+dwc3_send_clear_stall_ep_cmd,FUNC_2
+dep,VAR_4
+dwc,VAR_5
+params,VAR_6
+cmd,VAR_7

@@ -1,0 +1,17 @@
+ADM1026_REG_CONFIG1,VAR_0
+CFG1_THERM_HOT,VAR_1
+EINVAL,VAR_2
+adm1026_write_value,FUNC_0
+dev_get_drvdata,FUNC_1
+kstrtoul,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+set_temp_crit_enable,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+count,VAR_6
+data,VAR_7
+client,VAR_8
+val,VAR_9
+err,VAR_10

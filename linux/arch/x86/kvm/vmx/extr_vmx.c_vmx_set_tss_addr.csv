@@ -1,0 +1,10 @@
+PAGE_SIZE,VAR_0
+TSS_PRIVATE_MEMSLOT,VAR_1
+enable_unrestricted_guest,VAR_2
+init_rmode_tss,FUNC_0
+to_kvm_vmx,FUNC_1
+x86_set_memory_region,FUNC_2
+vmx_set_tss_addr,FUNC_3
+kvm,VAR_3
+addr,VAR_4
+ret,VAR_5

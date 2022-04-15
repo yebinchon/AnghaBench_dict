@@ -1,0 +1,13 @@
+BIT,FUNC_0
+FPGA_IRQ_MASK_EN,VAR_0
+FPGA_IRQ_SET_CLR,VAR_1
+irq_data_get_irq_chip_data,FUNC_1
+irqd_to_hwirq,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+cplds_irq_unmask,FUNC_5
+d,VAR_2
+fpga,VAR_3
+cplds_irq,VAR_4
+set,VAR_5
+bit,VAR_6

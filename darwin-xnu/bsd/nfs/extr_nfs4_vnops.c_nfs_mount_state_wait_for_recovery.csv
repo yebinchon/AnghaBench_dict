@@ -1,0 +1,16 @@
+INTR,VAR_0
+NFSSTA_RECOVER,VAR_1
+NMFLAG,FUNC_0
+PCATCH,VAR_2
+PZERO,VAR_3
+current_thread,FUNC_1
+lck_mtx_lock,FUNC_2
+lck_mtx_unlock,FUNC_3
+msleep,FUNC_4
+nfs_mount_sock_thread_wake,FUNC_5
+nfs_sigintr,FUNC_6
+nfs_mount_state_wait_for_recovery,FUNC_7
+nmp,VAR_4
+ts,VAR_5
+error,VAR_6
+slpflag,VAR_7

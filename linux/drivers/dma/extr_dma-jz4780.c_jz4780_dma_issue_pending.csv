@@ -1,0 +1,9 @@
+jz4780_dma_begin,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_jz4780_dma_chan,FUNC_3
+vchan_issue_pending,FUNC_4
+jz4780_dma_issue_pending,FUNC_5
+chan,VAR_0
+jzchan,VAR_1
+flags,VAR_2

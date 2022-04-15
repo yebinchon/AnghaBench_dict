@@ -1,0 +1,17 @@
+LPC32XX_RTC_CTRL,VAR_0
+LPC32XX_RTC_CTRL_MATCH0,VAR_1
+LPC32XX_RTC_INTSTAT,VAR_2
+LPC32XX_RTC_INTSTAT_MATCH0,VAR_3
+LPC32XX_RTC_MATCH0,VAR_4
+dev_get_drvdata,FUNC_0
+rtc_readl,FUNC_1
+rtc_tm_to_time64,FUNC_2
+rtc_writel,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+lpc32xx_rtc_set_alarm,FUNC_6
+dev,VAR_5
+wkalrm,VAR_6
+rtc,VAR_7
+alarmsecs,VAR_8
+tmp,VAR_9

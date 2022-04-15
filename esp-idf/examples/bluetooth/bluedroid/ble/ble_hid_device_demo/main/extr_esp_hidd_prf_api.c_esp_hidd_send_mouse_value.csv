@@ -1,0 +1,11 @@
+HID_MOUSE_IN_RPT_LEN,VAR_0
+HID_REPORT_TYPE_INPUT,VAR_1
+HID_RPT_ID_MOUSE_IN,VAR_2
+hid_dev_send_report,FUNC_0
+hidd_le_env,VAR_3
+esp_hidd_send_mouse_value,FUNC_1
+conn_id,VAR_4
+mouse_button,VAR_5
+mickeys_x,VAR_6
+mickeys_y,VAR_7
+buffer,VAR_8

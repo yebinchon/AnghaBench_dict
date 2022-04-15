@@ -1,0 +1,16 @@
+CloseHandle,FUNC_0
+CreateEvent,FUNC_1
+GetLastError,FUNC_2
+INFINITE,VAR_0
+InterlockedCompareExchangePointer,FUNC_3
+SetEvent,FUNC_4
+WAIT_OBJECT_0,VAR_1
+WaitForSingleObject,FUNC_5
+assert,FUNC_6
+uv_fatal_error,FUNC_7
+uv__once_inner,FUNC_8
+guard,VAR_2
+callback,VAR_3
+result,VAR_4
+existing_event,VAR_5
+created_event,VAR_6

@@ -1,0 +1,13 @@
+CTL_LUN_ERROR,VAR_0
+CTL_PORT_REQ,VAR_1
+ENOTTY,VAR_2
+cfi_ioctl_port_create,FUNC_0
+cfi_ioctl_port_remove,FUNC_1
+snprintf,FUNC_2
+cfi_ioctl,FUNC_3
+dev,VAR_3
+cmd,VAR_4
+addr,VAR_5
+flag,VAR_6
+td,VAR_7
+req,VAR_8

@@ -1,0 +1,13 @@
+ND_DEVICE_DAX_PMEM,VAR_0
+ND_DEVICE_DIMM,VAR_1
+ND_DEVICE_REGION_BLK,VAR_2
+ND_DEVICE_REGION_PMEM,VAR_3
+is_memory,FUNC_0
+is_nd_blk,FUNC_1
+is_nd_dax,FUNC_2
+is_nd_region,FUNC_3
+is_nvdimm,FUNC_4
+nd_region_to_nstype,FUNC_5
+to_nd_region,FUNC_6
+to_nd_device_type,FUNC_7
+dev,VAR_4

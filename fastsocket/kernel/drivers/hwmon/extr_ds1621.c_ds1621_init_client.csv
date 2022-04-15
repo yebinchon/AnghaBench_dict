@@ -1,0 +1,12 @@
+DS1621_COM_START,VAR_0
+DS1621_REG_CONF,VAR_1
+DS1621_REG_CONFIG_1SHOT,VAR_2
+DS1621_REG_CONFIG_POLARITY,VAR_3
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_write_byte,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+polarity,VAR_4
+ds1621_init_client,FUNC_3
+client,VAR_5
+conf,VAR_6
+new_conf,VAR_7

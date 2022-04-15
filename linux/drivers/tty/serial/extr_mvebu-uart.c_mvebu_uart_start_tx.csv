@@ -1,0 +1,12 @@
+CTRL_TX_RDY_INT,FUNC_0
+IS_EXTENDED,FUNC_1
+UART_INTR,FUNC_2
+UART_TSH,FUNC_3
+UART_XMIT_SIZE,VAR_0
+readl,FUNC_4
+uart_circ_empty,FUNC_5
+writel,FUNC_6
+mvebu_uart_start_tx,FUNC_7
+port,VAR_1
+ctl,VAR_2
+xmit,VAR_3

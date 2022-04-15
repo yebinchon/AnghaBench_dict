@@ -1,0 +1,14 @@
+EIO,VAR_0
+MMC_CMD_BCR,VAR_1
+MMC_RSP_R7,VAR_2
+MMC_RSP_SPI_R7,VAR_3
+SD_SEND_IF_COND,VAR_4
+mmc_host_is_spi,FUNC_0
+mmc_wait_for_cmd,FUNC_1
+mmc_send_if_cond,FUNC_2
+host,VAR_5
+ocr,VAR_6
+cmd,VAR_7
+err,VAR_8
+test_pattern,VAR_9
+result_pattern,VAR_10

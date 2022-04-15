@@ -1,0 +1,12 @@
+GET_SQ_DESC,FUNC_0
+SND_QUEUE_DESC_SIZE,VAR_0
+SQ_DESC_TYPE_HEADER,VAR_1
+memset,FUNC_1
+virt_to_page,FUNC_2
+nicvf_xdp_sq_add_hdr_subdesc,FUNC_3
+sq,VAR_2
+qentry,VAR_3
+subdesc_cnt,VAR_4
+data,VAR_5
+len,VAR_6
+hdr,VAR_7

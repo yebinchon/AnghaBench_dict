@@ -1,0 +1,14 @@
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_delete_children,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+ehci_detach,FUNC_5
+ehci_iterate_hw_softc,VAR_2
+usb_bus_mem_free_all,FUNC_6
+ehci_fdt_detach,FUNC_7
+self,VAR_3
+sc,VAR_4
+err,VAR_5

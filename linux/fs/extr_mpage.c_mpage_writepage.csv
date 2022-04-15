@@ -1,0 +1,12 @@
+REQ_OP_WRITE,VAR_0
+REQ_SYNC,VAR_1
+WB_SYNC_ALL,VAR_2
+__mpage_writepage,FUNC_0
+mpage_bio_submit,FUNC_1
+mpage_writepage,FUNC_2
+page,VAR_3
+get_block,VAR_4
+wbc,VAR_5
+mpd,VAR_6
+ret,VAR_7
+op_flags,VAR_8

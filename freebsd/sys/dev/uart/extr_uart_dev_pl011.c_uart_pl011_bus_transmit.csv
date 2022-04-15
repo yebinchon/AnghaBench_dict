@@ -1,0 +1,11 @@
+UART_DR,VAR_0
+UART_IMSC,VAR_1
+__uart_setreg,FUNC_0
+uart_barrier,FUNC_1
+uart_lock,FUNC_2
+uart_unlock,FUNC_3
+uart_pl011_bus_transmit,FUNC_4
+sc,VAR_2
+psc,VAR_3
+bas,VAR_4
+i,VAR_5

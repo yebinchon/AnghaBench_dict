@@ -1,0 +1,10 @@
+IPVS_SYNC_WAKEUP_RATE,VAR_0
+ip_vs_sync_lock,VAR_1
+ip_vs_sync_queue_delay,VAR_2
+ip_vs_sync_queue_len,VAR_3
+spin_lock_bh,FUNC_0
+spin_unlock_bh,FUNC_1
+sync_master_thread,VAR_4
+wake_up_process,FUNC_2
+master_wakeup_work_handler,FUNC_3
+work,VAR_5

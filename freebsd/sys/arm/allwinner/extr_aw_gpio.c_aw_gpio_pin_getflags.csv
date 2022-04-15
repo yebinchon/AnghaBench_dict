@@ -1,0 +1,17 @@
+AW_GPIO_LOCK,FUNC_0
+AW_GPIO_UNLOCK,FUNC_1
+EINVAL,VAR_0
+GPIO_PIN_INPUT,VAR_1
+GPIO_PIN_OUTPUT,VAR_2
+GPIO_PIN_PULLDOWN,VAR_3
+GPIO_PIN_PULLUP,VAR_4
+aw_gpio_get_function,FUNC_2
+aw_gpio_get_pud,FUNC_3
+device_get_softc,FUNC_4
+aw_gpio_pin_getflags,FUNC_5
+dev,VAR_5
+pin,VAR_6
+flags,VAR_7
+sc,VAR_8
+func,VAR_9
+pud,VAR_10

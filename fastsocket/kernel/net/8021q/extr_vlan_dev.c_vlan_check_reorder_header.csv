@@ -1,0 +1,10 @@
+ETH_HLEN,VAR_0
+VLAN_ETH_HLEN,VAR_1
+VLAN_FLAG_REORDER_HDR,VAR_2
+VLAN_HLEN,VAR_3
+memmove,FUNC_0
+skb_cow,FUNC_1
+skb_headroom,FUNC_2
+vlan_dev_info,FUNC_3
+vlan_check_reorder_header,FUNC_4
+skb,VAR_4

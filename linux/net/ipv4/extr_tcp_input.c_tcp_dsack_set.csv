@@ -1,0 +1,13 @@
+LINUX_MIB_TCPDSACKOFOSENT,VAR_0
+LINUX_MIB_TCPDSACKOLDSENT,VAR_1
+NET_INC_STATS,FUNC_0
+before,FUNC_1
+sock_net,FUNC_2
+tcp_is_sack,FUNC_3
+tcp_sk,FUNC_4
+tcp_dsack_set,FUNC_5
+sk,VAR_2
+seq,VAR_3
+end_seq,VAR_4
+tp,VAR_5
+mib_idx,VAR_6

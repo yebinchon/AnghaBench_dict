@@ -1,0 +1,12 @@
+SA_NODEFER,VAR_0
+SA_RESETHAND,VAR_1
+SA_SIGINFO,VAR_2
+SIGBUS,VAR_3
+SIGFPE,VAR_4
+SIGILL,VAR_5
+SIGSEGV,VAR_6
+rdbCheckHandleCrash,VAR_7
+sigaction,FUNC_0
+sigemptyset,FUNC_1
+rdbCheckSetupSignals,FUNC_2
+act,VAR_8

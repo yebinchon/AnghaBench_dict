@@ -1,0 +1,15 @@
+_gdScaleHoriz,FUNC_0
+_gdScaleVert,FUNC_1
+gdImageCreateTrueColor,FUNC_2
+gdImageDestroy,FUNC_3
+gdImagePaletteToTrueColor,FUNC_4
+gdImageSetInterpolationMethod,FUNC_5
+gdImageScaleTwoPass,FUNC_6
+src,VAR_0
+src_width,VAR_1
+src_height,VAR_2
+new_width,VAR_3
+new_height,VAR_4
+tmp_im,VAR_5
+dst,VAR_6
+scale_pass_res,VAR_7

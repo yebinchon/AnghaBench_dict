@@ -1,0 +1,15 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+snd_dma_pci_data,FUNC_0
+snd_pcm_add_chmap_ctls,FUNC_1
+snd_pcm_lib_preallocate_pages_for_all,FUNC_2
+snd_pcm_new,FUNC_3
+snd_pcm_set_ops,FUNC_4
+snd_ymfpci_playback_4ch_ops,VAR_2
+strcpy,FUNC_5
+surround_map,VAR_3
+snd_ymfpci_pcm_4ch,FUNC_6
+chip,VAR_4
+device,VAR_5
+pcm,VAR_6
+err,VAR_7

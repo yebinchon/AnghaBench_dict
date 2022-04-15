@@ -1,0 +1,15 @@
+OTG_STATE_A_WAIT_VFALL,VAR_0
+OTG_STATE_B_PERIPHERAL,VAR_1
+from_timer,FUNC_0
+musb,VAR_2
+musb_dbg,FUNC_1
+musb_g_disconnect,FUNC_2
+musb_platform_set_vbus,FUNC_3
+otg_timer,VAR_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+usb_otg_state_string,FUNC_6
+musb_otg_timer_func,FUNC_7
+t,VAR_4
+musb,VAR_5
+flags,VAR_6

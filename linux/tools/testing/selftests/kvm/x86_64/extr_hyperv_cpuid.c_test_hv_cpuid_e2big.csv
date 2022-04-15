@@ -1,0 +1,10 @@
+E2BIG,VAR_0
+KVM_GET_SUPPORTED_HV_CPUID,VAR_1
+TEST_ASSERT,FUNC_0
+VCPU_ID,VAR_2
+_vcpu_ioctl,FUNC_1
+errno,VAR_3
+test_hv_cpuid_e2big,FUNC_2
+vm,VAR_4
+cpuid,VAR_5
+ret,VAR_6

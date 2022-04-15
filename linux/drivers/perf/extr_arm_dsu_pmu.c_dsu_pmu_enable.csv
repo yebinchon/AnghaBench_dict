@@ -1,0 +1,13 @@
+CLUSTERPMCR_E,VAR_0
+DSU_PMU_MAX_HW_CNTRS,VAR_1
+__dsu_pmu_read_pmcr,FUNC_0
+__dsu_pmu_write_pmcr,FUNC_1
+bitmap_empty,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+to_dsu_pmu,FUNC_5
+dsu_pmu_enable,FUNC_6
+pmu,VAR_2
+pmcr,VAR_3
+flags,VAR_4
+dsu_pmu,VAR_5

@@ -1,0 +1,15 @@
+O_CLOEXEC,VAR_0
+O_DIRECTORY,VAR_1
+SIGUSR1,VAR_2
+close,FUNC_0
+ksft_exit_fail_msg,FUNC_1
+ksft_test_result_pass,FUNC_2
+open,FUNC_3
+set_signal_received_on_sigusr1,VAR_3
+signal,FUNC_4
+signal_received,VAR_4
+sys_pidfd_send_signal,FUNC_5
+test_pidfd_send_signal_simple_success,FUNC_6
+pidfd,VAR_5
+ret,VAR_6
+test_name,VAR_7

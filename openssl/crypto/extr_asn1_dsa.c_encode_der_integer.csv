@@ -1,0 +1,14 @@
+BN_bn2binpad,FUNC_0
+BN_is_negative,FUNC_1
+BN_num_bits,FUNC_2
+ID_INTEGER,VAR_0
+WPACKET_allocate_bytes,FUNC_3
+WPACKET_close,FUNC_4
+WPACKET_put_bytes_u8,FUNC_5
+WPACKET_start_sub_packet,FUNC_6
+encode_der_length,FUNC_7
+encode_der_integer,FUNC_8
+pkt,VAR_1
+n,VAR_2
+bnbytes,VAR_3
+cont_len,VAR_4

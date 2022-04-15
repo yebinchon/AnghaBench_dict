@@ -1,0 +1,12 @@
+PREEMPT_NONE,VAR_0
+REG_A5XX_CP_CONTEXT_SWITCH_SMMU_INFO_HI,VAR_1
+REG_A5XX_CP_CONTEXT_SWITCH_SMMU_INFO_LO,VAR_2
+gpu_write64,FUNC_0
+set_preempt_state,FUNC_1
+to_a5xx_gpu,FUNC_2
+to_adreno_gpu,FUNC_3
+a5xx_preempt_hw_init,FUNC_4
+gpu,VAR_3
+adreno_gpu,VAR_4
+a5xx_gpu,VAR_5
+i,VAR_6

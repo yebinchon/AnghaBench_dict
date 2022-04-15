@@ -1,0 +1,12 @@
+AD5272_RESET,VAR_0
+GPIOD_OUT_LOW,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+ad5272_write,FUNC_2
+devm_gpiod_get_optional,FUNC_3
+gpiod_set_value,FUNC_4
+udelay,FUNC_5
+usleep_range,FUNC_6
+ad5272_reset,FUNC_7
+data,VAR_2
+reset_gpio,VAR_3

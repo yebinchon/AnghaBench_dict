@@ -1,0 +1,11 @@
+SPIFFS_CHECK_RES,FUNC_0
+SPIFFS_DATA_PAGE_SIZE,FUNC_1
+SPIFFS_PAGE_TO_PADDR,FUNC_2
+spiffs_page_allocate_data,FUNC_3
+spiffs_phys_cpy,FUNC_4
+spiffs_rewrite_page,FUNC_5
+fs,VAR_0
+cur_pix,VAR_1
+p_hdr,VAR_2
+new_pix,VAR_3
+res,VAR_4

@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+PAGE_SIZE,VAR_1
+TPACPI_THERMAL_SENSOR_NA,VAR_2
+snprintf,FUNC_0
+thermal_get_sensor,FUNC_1
+to_sensor_dev_attr,FUNC_2
+thermal_temp_input_show,FUNC_3
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+sensor_attr,VAR_6
+idx,VAR_7
+value,VAR_8
+res,VAR_9

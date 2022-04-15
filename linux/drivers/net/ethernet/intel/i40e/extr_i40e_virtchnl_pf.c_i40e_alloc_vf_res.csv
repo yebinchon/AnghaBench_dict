@@ -1,0 +1,15 @@
+I40E_DEFAULT_QUEUES_PER_VF,VAR_0
+I40E_MAX_VF_QUEUES,VAR_1
+I40E_VF_STATE_INIT,VAR_2
+I40E_VIRTCHNL_VF_CAP_PRIVILEGE,VAR_3
+clear_bit,FUNC_0
+dev_info,FUNC_1
+i40e_alloc_vsi_res,FUNC_2
+i40e_free_vf_res,FUNC_3
+set_bit,FUNC_4
+i40e_alloc_vf_res,FUNC_5
+vf,VAR_4
+pf,VAR_5
+total_queue_pairs,VAR_6
+ret,VAR_7
+idx,VAR_8

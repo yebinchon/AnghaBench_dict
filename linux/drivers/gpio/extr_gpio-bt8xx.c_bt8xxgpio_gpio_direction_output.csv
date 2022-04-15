@@ -1,0 +1,15 @@
+BT848_GPIO_DATA,VAR_0
+BT848_GPIO_OUT_EN,VAR_1
+bgread,FUNC_0
+bgwrite,FUNC_1
+gpiochip_get_data,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bt8xxgpio_gpio_direction_output,FUNC_5
+gpio,VAR_2
+nr,VAR_3
+val,VAR_4
+bg,VAR_5
+flags,VAR_6
+outen,VAR_7
+data,VAR_8

@@ -1,0 +1,14 @@
+EE76_CMD_LEN,VAR_0
+EE_READ,VAR_1
+inl,FUNC_0
+outl,FUNC_1
+udelay,FUNC_2
+v_EepromClock76,FUNC_3
+v_EepromSendCommand76,FUNC_4
+v_EepromCs76Read,FUNC_5
+dw_Address,VAR_2
+w_offset,VAR_3
+pw_Value,VAR_4
+c_BitPos,VAR_5
+dw_RegisterValue,VAR_6
+dw_RegisterValueRead,VAR_7

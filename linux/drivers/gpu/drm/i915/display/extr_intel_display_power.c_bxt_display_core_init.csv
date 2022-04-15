@@ -1,0 +1,16 @@
+DC_STATE_DISABLE,VAR_0
+SKL_DISP_PW_1,VAR_1
+gen9_dbuf_enable,FUNC_0
+gen9_set_dc_state,FUNC_1
+intel_cdclk_init,FUNC_2
+intel_csr_load_program,FUNC_3
+intel_pch_reset_handshake,FUNC_4
+intel_power_well_enable,FUNC_5
+lookup_power_well,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+bxt_display_core_init,FUNC_9
+dev_priv,VAR_2
+resume,VAR_3
+power_domains,VAR_4
+well,VAR_5

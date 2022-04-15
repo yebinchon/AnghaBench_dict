@@ -1,0 +1,16 @@
+IPU_PRG_CTL,VAR_0
+IPU_PRG_CTL_BYPASS,FUNC_0
+IPU_PRG_REG_UPDATE,VAR_1
+IPU_PRG_REG_UPDATE_REG_UPDATE,VAR_2
+ipu_prg_ipu_to_prg_chan,FUNC_1
+ipu_prg_put_pre,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put,FUNC_4
+readl,FUNC_5
+writel,FUNC_6
+ipu_prg_channel_disable,FUNC_7
+ipu_chan,VAR_3
+prg_chan,VAR_4
+prg,VAR_5
+chan,VAR_6
+val,VAR_7

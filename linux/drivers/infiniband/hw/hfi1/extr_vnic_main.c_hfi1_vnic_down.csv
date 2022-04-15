@@ -1,0 +1,13 @@
+HFI1_VNIC_UP,VAR_0
+clear_bit,FUNC_0
+msix_vnic_synchronize_irq,FUNC_1
+napi_disable,FUNC_2
+netif_carrier_off,FUNC_3
+netif_tx_disable,FUNC_4
+skb_queue_purge,FUNC_5
+xa_erase,FUNC_6
+hfi1_vnic_down,FUNC_7
+vinfo,VAR_1
+dd,VAR_2
+i,VAR_3
+rxq,VAR_4

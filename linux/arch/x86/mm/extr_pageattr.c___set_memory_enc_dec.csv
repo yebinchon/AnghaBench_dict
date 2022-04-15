@@ -1,0 +1,17 @@
+PAGE_MASK,VAR_0
+WARN_ONCE,FUNC_0
+_PAGE_ENC,VAR_1
+__change_page_attr_set_clr,FUNC_1
+__pgprot,FUNC_2
+cpa_flush,FUNC_3
+init_mm,VAR_2
+kmap_flush_unused,FUNC_4
+mem_encrypt_active,FUNC_5
+memset,FUNC_6
+vm_unmap_aliases,FUNC_7
+__set_memory_enc_dec,FUNC_8
+addr,VAR_3
+numpages,VAR_4
+enc,VAR_5
+cpa,VAR_6
+ret,VAR_7

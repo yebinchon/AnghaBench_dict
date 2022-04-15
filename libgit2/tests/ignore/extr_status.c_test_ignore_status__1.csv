@@ -1,0 +1,7 @@
+assert_is_ignored,FUNC_0
+cl_git_rewritefile,FUNC_1
+cl_git_sandbox_init,FUNC_2
+g_repo,VAR_0
+git_attr_cache_flush,FUNC_3
+refute_is_ignored,FUNC_4
+test_ignore_status__1,FUNC_5

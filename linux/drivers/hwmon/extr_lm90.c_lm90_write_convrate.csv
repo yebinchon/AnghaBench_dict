@@ -1,0 +1,9 @@
+LM90_PAUSE_FOR_CONFIG,VAR_0
+LM90_REG_W_CONVRATE,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+lm90_update_confreg,FUNC_1
+lm90_write_convrate,FUNC_2
+data,VAR_2
+val,VAR_3
+config,VAR_4
+err,VAR_5

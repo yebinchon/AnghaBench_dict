@@ -1,0 +1,14 @@
+CQ_LEN_1024,VAR_0
+ENXIO,VAR_1
+QCREATED,VAR_2
+device_printf,FUNC_0
+oce_cq_create,FUNC_1
+oce_mbox_create_wq,FUNC_2
+oce_wq_del,FUNC_3
+oce_wq_handler,VAR_3
+oce_wq_create,FUNC_4
+wq,VAR_4
+eq,VAR_5
+sc,VAR_6
+cq,VAR_7
+rc,VAR_8

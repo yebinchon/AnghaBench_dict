@@ -1,0 +1,15 @@
+CRYPTOCAP_F_HARDWARE,VAR_0
+CRYPTOCAP_F_SYNC,VAR_1
+CRYPTO_3DES_CBC,VAR_2
+CRYPTO_AES_CBC,VAR_3
+CRYPTO_DES_CBC,VAR_4
+CRYPTO_MD5_HMAC,VAR_5
+CRYPTO_SHA1_HMAC,VAR_6
+ENXIO,VAR_7
+crypto_get_driverid,FUNC_0
+crypto_register,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+cryptocteon_attach,FUNC_4
+dev,VAR_8
+sc,VAR_9

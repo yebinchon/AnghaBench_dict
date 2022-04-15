@@ -1,0 +1,15 @@
+CSR_CLRBIT_1,FUNC_0
+CSR_SETBIT_1,FUNC_1
+DELAY,FUNC_2
+RL_EECMD,VAR_0
+RL_EEMODE_PROGRAM,VAR_1
+RL_EE_SEL,VAR_2
+re_eeprom_getword,FUNC_3
+re_read_eeprom,FUNC_4
+sc,VAR_3
+dest,VAR_4
+off,VAR_5
+cnt,VAR_6
+i,VAR_7
+word,VAR_8
+ptr,VAR_9

@@ -1,0 +1,10 @@
+A_IMR_REGISTER,FUNC_0
+IOADDR,FUNC_1
+R_IMR_INTERRUPT_STATUS_BASE,VAR_0
+__raw_readq,FUNC_2
+do_IRQ,FUNC_3
+fls64,FUNC_4
+smp_processor_id,FUNC_5
+dispatch_ip2,FUNC_6
+cpu,VAR_1
+mask,VAR_2

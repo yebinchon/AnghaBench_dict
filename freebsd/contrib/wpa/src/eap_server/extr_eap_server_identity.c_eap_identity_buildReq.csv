@@ -1,0 +1,17 @@
+EAP_CODE_REQUEST,VAR_0
+EAP_TYPE_IDENTITY,VAR_1
+EAP_VENDOR_IETF,VAR_2
+FAILURE,VAR_3
+MSG_ERROR,VAR_4
+eap_msg_alloc,FUNC_0
+stub1,FUNC_1
+wpa_printf,FUNC_2
+wpabuf_put_data,FUNC_3
+eap_identity_buildReq,FUNC_4
+sm,VAR_5
+priv,VAR_6
+id,VAR_7
+data,VAR_8
+req,VAR_9
+req_data,VAR_10
+req_data_len,VAR_11

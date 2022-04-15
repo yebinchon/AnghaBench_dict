@@ -1,0 +1,16 @@
+TP_HKEY_EV_KBD_LIGHT,VAR_0
+alsa_card,VAR_1
+ibm_backlight_device,VAR_2
+kbdlight_brightness,VAR_3
+kbdlight_mutex,VAR_4
+kbdlight_sysfs_get,FUNC_0
+led_classdev_notify_brightness_hw_changed,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+tp_features,VAR_5
+tpacpi_brightness_notify_change,FUNC_4
+tpacpi_led_kbdlight,VAR_6
+volume_alsa_notify_change,FUNC_5
+tpacpi_driver_event,FUNC_6
+hkey_event,VAR_7
+brightness,VAR_8

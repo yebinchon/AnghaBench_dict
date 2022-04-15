@@ -1,0 +1,16 @@
+PTHREAD_BARRIER_SERIAL_THREAD,VAR_0
+PTHREAD_PROCESS_PRIVATE,VAR_1
+assert,FUNC_0
+barrier,VAR_2
+func,VAR_3
+pthread_barrier_destroy,FUNC_1
+pthread_barrier_init,FUNC_2
+pthread_barrierattr_destroy,FUNC_3
+pthread_barrierattr_init,FUNC_4
+pthread_barrierattr_setpshared,FUNC_5
+pthread_create,FUNC_6
+pthread_join,FUNC_7
+result,VAR_4
+main,FUNC_8
+t,VAR_5
+ba,VAR_6

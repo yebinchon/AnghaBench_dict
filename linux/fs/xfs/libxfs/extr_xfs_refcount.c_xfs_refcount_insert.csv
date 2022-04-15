@@ -1,0 +1,11 @@
+XFS_WANT_CORRUPTED_GOTO,FUNC_0
+_RET_IP_,VAR_0
+out_error,VAR_1
+trace_xfs_refcount_insert,FUNC_1
+trace_xfs_refcount_insert_error,FUNC_2
+xfs_btree_insert,FUNC_3
+xfs_refcount_insert,FUNC_4
+cur,VAR_2
+irec,VAR_3
+i,VAR_4
+error,VAR_5

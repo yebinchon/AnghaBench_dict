@@ -1,0 +1,17 @@
+FLAC__ASSERT,FUNC_0
+FLAC__STREAM_DECODER_MEMORY_ALLOCATION_ERROR,VAR_0
+FLAC__STREAM_METADATA_VORBIS_COMMENT_ENTRY_LENGTH_LEN,VAR_1
+FLAC__STREAM_METADATA_VORBIS_COMMENT_NUM_COMMENTS_LEN,VAR_2
+FLAC__bitreader_is_consumed_byte_aligned,FUNC_1
+FLAC__bitreader_read_byte_block_aligned_no_crc,FUNC_2
+FLAC__bitreader_read_uint32_little_endian,FUNC_3
+FLAC__bitreader_skip_byte_block_aligned_no_crc,FUNC_4
+free,FUNC_5
+memset,FUNC_6
+safe_malloc_add_2op_,FUNC_7
+safe_malloc_mul_2op_p,FUNC_8
+read_metadata_vorbiscomment_,FUNC_9
+decoder,VAR_3
+obj,VAR_4
+length,VAR_5
+i,VAR_6

@@ -1,0 +1,15 @@
+MEDIA_ENT_F_FLASH,VAR_0
+V4L2_SUBDEV_FL_HAS_DEVNODE,VAR_1
+lm3560_init_controls,FUNC_0
+lm3560_ops,VAR_2
+media_entity_pads_init,FUNC_1
+strscpy,FUNC_2
+to_i2c_client,FUNC_3
+v4l2_ctrl_handler_free,FUNC_4
+v4l2_i2c_subdev_init,FUNC_5
+lm3560_subdev_init,FUNC_6
+flash,VAR_3
+led_no,VAR_4
+led_name,VAR_5
+client,VAR_6
+rval,VAR_7

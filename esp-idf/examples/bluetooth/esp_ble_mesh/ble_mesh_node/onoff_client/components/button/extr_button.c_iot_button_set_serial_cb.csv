@@ -1,0 +1,16 @@
+ESP_OK,VAR_0
+ESP_TIMER_TASK,VAR_1
+button_press_serial_cb,VAR_2
+esp_timer_create,FUNC_0
+pdFALSE,VAR_3
+portMAX_DELAY,VAR_4
+portTICK_PERIOD_MS,VAR_5
+xTimerChangePeriod,FUNC_1
+xTimerCreate,FUNC_2
+iot_button_set_serial_cb,FUNC_3
+btn_handle,VAR_6
+start_after_sec,VAR_7
+interval_tick,VAR_8
+cb,VAR_9
+arg,VAR_10
+btn,VAR_11

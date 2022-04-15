@@ -1,0 +1,8 @@
+ADD_PORT,VAR_0
+DATA_PORT,VAR_1
+nubus_writew,FUNC_0
+swab16,FUNC_1
+writereg_io,FUNC_2
+dev,VAR_2
+portno,VAR_3
+value,VAR_4

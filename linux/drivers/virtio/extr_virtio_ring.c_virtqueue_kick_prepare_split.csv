@@ -1,0 +1,17 @@
+END_USE,FUNC_0
+LAST_ADD_TIME_CHECK,FUNC_1
+LAST_ADD_TIME_INVALID,FUNC_2
+START_USE,FUNC_3
+VRING_USED_F_NO_NOTIFY,VAR_0
+cpu_to_virtio16,FUNC_4
+to_vvq,FUNC_5
+virtio16_to_cpu,FUNC_6
+virtio_mb,FUNC_7
+vring_avail_event,FUNC_8
+vring_need_event,FUNC_9
+virtqueue_kick_prepare_split,FUNC_10
+_vq,VAR_1
+vq,VAR_2
+new,VAR_3
+old,VAR_4
+needs_kick,VAR_5

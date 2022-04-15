@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+EIO,VAR_1
+ETH_FLAG_LRO,VAR_2
+NETIF_F_LRO,VAR_3
+NETXEN_NIC_LRO_DISABLED,VAR_4
+NETXEN_NIC_LRO_ENABLED,VAR_5
+NX_FW_CAPABILITY_HW_LRO,VAR_6
+ethtool_op_get_flags,FUNC_0
+netdev_info,FUNC_1
+netdev_priv,FUNC_2
+netxen_config_hw_lro,FUNC_3
+netxen_send_lro_cleanup,FUNC_4
+netxen_nic_set_flags,FUNC_5
+netdev,VAR_7
+data,VAR_8
+adapter,VAR_9
+hw_lro,VAR_10

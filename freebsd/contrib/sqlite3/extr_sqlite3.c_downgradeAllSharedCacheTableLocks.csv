@@ -1,0 +1,8 @@
+BTS_EXCLUSIVE,VAR_0
+BTS_PENDING,VAR_1
+READ_LOCK,VAR_2
+assert,FUNC_0
+downgradeAllSharedCacheTableLocks,FUNC_1
+p,VAR_3
+pBt,VAR_4
+pLock,VAR_5

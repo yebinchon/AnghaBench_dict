@@ -1,0 +1,13 @@
+T_EXPECT_EQ,FUNC_0
+T_EXPECT_TRUE,FUNC_1
+T_LOG,FUNC_2
+dt_launch_tool,FUNC_3
+dt_waitpid,FUNC_4
+spawn_proc,FUNC_5
+command,VAR_0
+pid,VAR_1
+launch_tool_ret,VAR_2
+waitpid_ret,VAR_3
+status,VAR_4
+signal,VAR_5
+timeout,VAR_6

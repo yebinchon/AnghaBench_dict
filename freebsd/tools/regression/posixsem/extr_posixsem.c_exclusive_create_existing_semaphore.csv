@@ -1,0 +1,11 @@
+EEXIST,VAR_0
+O_CREAT,VAR_1
+O_EXCL,VAR_2
+TEST_PATH,VAR_3
+fail_errno,FUNC_0
+ksem_close,FUNC_1
+ksem_open,FUNC_2
+ksem_open_should_fail,FUNC_3
+ksem_unlink,FUNC_4
+exclusive_create_existing_semaphore,FUNC_5
+id,VAR_4

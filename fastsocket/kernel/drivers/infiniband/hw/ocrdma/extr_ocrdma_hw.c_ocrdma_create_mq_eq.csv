@@ -1,0 +1,16 @@
+BE_INTERRUPT_MODE_INTX,VAR_0
+EBUSY,VAR_1
+IRQF_SHARED,VAR_2
+OCRDMA_EQ_LEN,VAR_3
+_ocrdma_destroy_eq,FUNC_0
+ocrdma_create_eq,FUNC_1
+ocrdma_get_irq,FUNC_2
+ocrdma_irq_handler,VAR_4
+request_irq,FUNC_3
+sprintf,FUNC_4
+ocrdma_create_mq_eq,FUNC_5
+dev,VAR_5
+status,VAR_6
+irq,VAR_7
+flags,VAR_8
+num_eq,VAR_9

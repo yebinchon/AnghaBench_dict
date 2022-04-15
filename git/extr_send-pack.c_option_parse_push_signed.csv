@@ -1,0 +1,10 @@
+SEND_PACK_PUSH_CERT_ALWAYS,VAR_0
+SEND_PACK_PUSH_CERT_IF_ASKED,VAR_1
+SEND_PACK_PUSH_CERT_NEVER,VAR_2
+die,FUNC_0
+git_parse_maybe_bool,FUNC_1
+strcasecmp,FUNC_2
+option_parse_push_signed,FUNC_3
+opt,VAR_3
+arg,VAR_4
+unset,VAR_5

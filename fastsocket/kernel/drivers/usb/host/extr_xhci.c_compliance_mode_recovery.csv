@@ -1,0 +1,17 @@
+COMP_MODE_RCVRY_MSECS,VAR_0
+HC_STATE_SUSPENDED,VAR_1
+PORT_PLS_MASK,VAR_2
+USB_SS_PORT_LS_COMP_MOD,VAR_3
+jiffies,VAR_4
+mod_timer,FUNC_0
+msecs_to_jiffies,FUNC_1
+usb_hcd_poll_rh_status,FUNC_2
+usb_hcd_resume_root_hub,FUNC_3
+xhci_dbg,FUNC_4
+xhci_readl,FUNC_5
+compliance_mode_recovery,FUNC_6
+arg,VAR_5
+xhci,VAR_6
+hcd,VAR_7
+temp,VAR_8
+i,VAR_9

@@ -1,0 +1,13 @@
+KVM_MEM_LOG_DIRTY_PAGES,VAR_0
+KVM_MR_FLAGS_ONLY,VAR_1
+PAGE_SHIFT,VAR_2
+atomic64_inc,FUNC_0
+kvm_is_radix,FUNC_1
+kvmppc_radix_flush_memslot,FUNC_2
+kvmppc_core_commit_memory_region_hv,FUNC_3
+kvm,VAR_3
+mem,VAR_4
+old,VAR_5
+new,VAR_6
+change,VAR_7
+npages,VAR_8

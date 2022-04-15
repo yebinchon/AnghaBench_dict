@@ -1,0 +1,16 @@
+EAP_CODE_REQUEST,VAR_0
+EAP_TLS_FLAGS_START,VAR_1
+EAP_TYPE_TTLS,VAR_2
+EAP_VENDOR_IETF,VAR_3
+FAILURE,VAR_4
+MSG_ERROR,VAR_5
+PHASE1,VAR_6
+eap_msg_alloc,FUNC_0
+eap_ttls_state,FUNC_1
+wpa_printf,FUNC_2
+wpabuf_put_u8,FUNC_3
+eap_ttls_build_start,FUNC_4
+sm,VAR_7
+data,VAR_8
+id,VAR_9
+req,VAR_10

@@ -1,0 +1,13 @@
+AFMT_MU_LAW,VAR_0
+AFMT_S16_LE,VAR_1
+AFMT_U8,VAR_2
+O_NONBLOCK,VAR_3
+SNDRV_MINOR_OSS_DEVICE,FUNC_0
+atomic_set,FUNC_1
+mutex_init,FUNC_2
+snd_pcm_oss_release_substream,VAR_4
+snd_pcm_oss_init_substream,FUNC_3
+substream,VAR_5
+setup,VAR_6
+minor,VAR_7
+runtime,VAR_8

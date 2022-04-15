@@ -1,0 +1,14 @@
+CStringGetDatum,FUNC_0
+DT_NOBEGIN,VAR_0
+DatumGetTimestampTz,FUNC_1
+DirectFunctionCall3,FUNC_2
+PQgetisnull,FUNC_3
+PQgetvalue,FUNC_4
+timestamptz_in,VAR_1
+ParseTimestampTzField,FUNC_5
+result,VAR_2
+rowIndex,VAR_3
+colIndex,VAR_4
+resultString,VAR_5
+resultStringDatum,VAR_6
+timestampDatum,VAR_7

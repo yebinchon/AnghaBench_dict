@@ -1,0 +1,9 @@
+EFA_REGS_MMIO_RESP_HI_OFF,VAR_0
+EFA_REGS_MMIO_RESP_LO_OFF,VAR_1
+GENMASK,FUNC_0
+writel,FUNC_1
+efa_com_mmio_reg_read_resp_addr_init,FUNC_2
+edev,VAR_2
+mmio_read,VAR_3
+addr_high,VAR_4
+addr_low,VAR_5

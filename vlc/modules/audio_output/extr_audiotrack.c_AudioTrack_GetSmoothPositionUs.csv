@@ -1,0 +1,16 @@
+AudioTrack_getPlaybackHeadPosition,FUNC_0
+CallStaticIntMethod,VAR_0
+FRAMES_TO_US,FUNC_1
+JNI_CALL,FUNC_2
+SMOOTHPOS_INTERVAL_US,VAR_1
+SMOOTHPOS_SAMPLE_COUNT,VAR_2
+jfields,VAR_3
+vlc_tick_now,FUNC_3
+AudioTrack_GetSmoothPositionUs,FUNC_4
+env,VAR_4
+p_aout,VAR_5
+p_sys,VAR_6
+i_audiotrack_us,VAR_7
+i_now,VAR_8
+i,VAR_9
+i_latency_ms,VAR_10

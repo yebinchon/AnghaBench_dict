@@ -1,0 +1,17 @@
+artpec6_crypto_common_destroy,FUNC_0
+artpec6_crypto_common_init,FUNC_1
+artpec6_crypto_complete_cbc_encrypt,FUNC_2
+artpec6_crypto_complete_crypto,FUNC_3
+artpec6_crypto_prepare_crypto,FUNC_4
+artpec6_crypto_submit,FUNC_5
+crypto_skcipher_ctx,FUNC_6
+crypto_skcipher_reqtfm,FUNC_7
+skcipher_request_ctx,FUNC_8
+artpec6_crypto_encrypt,FUNC_9
+req,VAR_0
+cipher,VAR_1
+ctx,VAR_2
+req_ctx,VAR_3
+complete,VAR_4
+req,VAR_5
+ret,VAR_6

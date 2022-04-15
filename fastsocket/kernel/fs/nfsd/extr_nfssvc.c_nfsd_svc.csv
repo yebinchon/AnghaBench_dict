@@ -1,0 +1,17 @@
+NFSD_MAXSERVS,VAR_0
+dprintk,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+nfsd_create_serv,FUNC_3
+nfsd_mutex,VAR_1
+nfsd_serv,VAR_2
+nfsd_shutdown,FUNC_4
+nfsd_startup,FUNC_5
+nfsd_up,VAR_3
+svc_destroy,FUNC_6
+svc_set_num_threads,FUNC_7
+nfsd_svc,FUNC_8
+port,VAR_4
+nrservs,VAR_5
+error,VAR_6
+nfsd_up_before,VAR_7

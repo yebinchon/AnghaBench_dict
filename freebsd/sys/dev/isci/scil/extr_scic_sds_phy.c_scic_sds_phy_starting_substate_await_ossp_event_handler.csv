@@ -1,0 +1,14 @@
+SCIC_LOG_OBJECT_PHY,VAR_0
+SCIC_LOG_OBJECT_RECEIVED_EVENTS,VAR_1
+SCIC_LOG_WARNING,FUNC_0
+SCI_FAILURE,VAR_2
+SCI_SUCCESS,VAR_3
+TRUE,VAR_4
+sci_base_object_get_logger,FUNC_1
+scic_sds_phy_start_sas_link_training,FUNC_2
+scic_sds_phy_start_sata_link_training,FUNC_3
+scu_get_event_code,FUNC_4
+scic_sds_phy_starting_substate_await_ossp_event_handler,FUNC_5
+this_phy,VAR_5
+event_code,VAR_6
+result,VAR_7

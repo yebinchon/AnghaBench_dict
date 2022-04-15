@@ -1,0 +1,17 @@
+ACL_LINK,VAR_0
+BT_DBG,FUNC_0
+get_unaligned_le16,FUNC_1
+hci_conn_hash_lookup_handle,FUNC_2
+hci_sched_tx,FUNC_3
+skb_pull,FUNC_4
+tasklet_disable,FUNC_5
+tasklet_enable,FUNC_6
+hci_num_comp_pkts_evt,FUNC_7
+hdev,VAR_1
+skb,VAR_2
+ev,VAR_3
+ptr,VAR_4
+i,VAR_5
+conn,VAR_6
+handle,VAR_7
+count,VAR_8

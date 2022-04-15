@@ -1,0 +1,16 @@
+DatumGetCString,FUNC_0
+DirectFunctionCall1,FUNC_1
+ERROR,VAR_0
+NAMEDATALEN,VAR_1
+TRANSFER_MODE_AUTOMATIC,VAR_2
+TRANSFER_MODE_BLOCK_WRITES,VAR_3
+TRANSFER_MODE_FORCE_LOGICAL,VAR_4
+enum_out,VAR_5
+ereport,FUNC_2
+errmsg,FUNC_3
+strncmp,FUNC_4
+LookupShardTransferMode,FUNC_5
+shardReplicationModeOid,VAR_6
+shardReplicationMode,VAR_7
+enumLabelDatum,VAR_8
+enumLabel,VAR_9

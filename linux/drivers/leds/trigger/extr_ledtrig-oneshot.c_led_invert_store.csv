@@ -1,0 +1,15 @@
+LED_FULL,VAR_0
+LED_OFF,VAR_1
+kstrtoul,FUNC_0
+led_set_brightness_nosleep,FUNC_1
+led_trigger_get_drvdata,FUNC_2
+led_trigger_get_led,FUNC_3
+led_invert_store,FUNC_4
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+size,VAR_5
+led_cdev,VAR_6
+oneshot_data,VAR_7
+state,VAR_8
+ret,VAR_9

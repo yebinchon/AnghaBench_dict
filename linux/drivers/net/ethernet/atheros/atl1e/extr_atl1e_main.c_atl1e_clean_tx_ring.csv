@@ -1,0 +1,14 @@
+ATL1E_TX_PCIMAP_PAGE,VAR_0
+ATL1E_TX_PCIMAP_SINGLE,VAR_1
+PCI_DMA_TODEVICE,VAR_2
+dev_kfree_skb_any,FUNC_0
+memset,FUNC_1
+pci_unmap_page,FUNC_2
+pci_unmap_single,FUNC_3
+atl1e_clean_tx_ring,FUNC_4
+adapter,VAR_3
+tx_ring,VAR_4
+tx_buffer,VAR_5
+pdev,VAR_6
+index,VAR_7
+ring_count,VAR_8

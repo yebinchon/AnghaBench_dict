@@ -1,0 +1,15 @@
+INIT_WORK,FUNC_0
+VIA_NUM_BLIT_ENGINES,VAR_0
+VIA_NUM_BLIT_SLOTS,VAR_1
+init_waitqueue_head,FUNC_1
+pci_set_master,FUNC_2
+spin_lock_init,FUNC_3
+timer_setup,FUNC_4
+via_dmablit_timer,VAR_2
+via_dmablit_workqueue,VAR_3
+via_init_dmablit,FUNC_5
+dev,VAR_4
+i,VAR_5
+j,VAR_6
+dev_priv,VAR_7
+blitq,VAR_8

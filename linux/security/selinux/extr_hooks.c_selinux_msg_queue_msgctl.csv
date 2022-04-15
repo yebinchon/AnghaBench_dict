@@ -1,0 +1,16 @@
+MSGQ__ASSOCIATE,VAR_0
+MSGQ__DESTROY,VAR_1
+MSGQ__GETATTR,VAR_2
+MSGQ__SETATTR,VAR_3
+SECCLASS_SYSTEM,VAR_4
+SECINITSID_KERNEL,VAR_5
+SYSTEM__IPC_INFO,VAR_6
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+ipc_has_perm,FUNC_2
+selinux_state,VAR_7
+selinux_msg_queue_msgctl,FUNC_3
+msq,VAR_8
+cmd,VAR_9
+err,VAR_10
+perms,VAR_11

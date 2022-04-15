@@ -1,0 +1,12 @@
+KVM_SET_USER_MEMORY_REGION,VAR_0
+TEST_ASSERT,FUNC_0
+errno,VAR_1
+free,FUNC_1
+ioctl,FUNC_2
+kvm_vm_release,FUNC_3
+munmap,FUNC_4
+sparsebit_free,FUNC_5
+kvm_vm_free,FUNC_6
+vmp,VAR_2
+ret,VAR_3
+region,VAR_4

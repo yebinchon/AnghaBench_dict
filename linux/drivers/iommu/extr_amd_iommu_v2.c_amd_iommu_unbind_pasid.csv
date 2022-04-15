@@ -1,0 +1,16 @@
+amd_iommu_v2_supported,FUNC_0
+clear_pasid_state,FUNC_1
+device_id,FUNC_2
+get_device_state,FUNC_3
+get_pasid_state,FUNC_4
+might_sleep,FUNC_5
+mmu_notifier_unregister,FUNC_6
+put_device_state,FUNC_7
+put_pasid_state,FUNC_8
+put_pasid_state_wait,FUNC_9
+amd_iommu_unbind_pasid,FUNC_10
+pdev,VAR_0
+pasid,VAR_1
+pasid_state,VAR_2
+dev_state,VAR_3
+devid,VAR_4

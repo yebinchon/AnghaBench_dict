@@ -1,0 +1,16 @@
+W1_F0D_READ_EEPROM,VAR_0
+W1_F0D_READ_MAXLEN,VAR_1
+W1_F0D_READ_RETRIES,VAR_2
+dev_err,FUNC_0
+memcmp,FUNC_1
+w1_read_block,FUNC_2
+w1_reset_select_slave,FUNC_3
+w1_write_block,FUNC_4
+w1_f0d_readblock,FUNC_5
+sl,VAR_3
+off,VAR_4
+count,VAR_5
+buf,VAR_6
+wrbuf,VAR_7
+cmp,VAR_8
+tries,VAR_9

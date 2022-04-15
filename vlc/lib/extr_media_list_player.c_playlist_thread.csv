@@ -1,0 +1,12 @@
+mutex_cleanup_push,FUNC_0
+set_relative_playlist_position_and_play,FUNC_1
+vlc_assert_unreachable,FUNC_2
+vlc_cleanup_pop,FUNC_3
+vlc_cond_wait,FUNC_4
+vlc_mutex_lock,FUNC_5
+vlc_restorecancel,FUNC_6
+vlc_savecancel,FUNC_7
+playlist_thread,FUNC_8
+data,VAR_0
+mlp,VAR_1
+canc,VAR_2

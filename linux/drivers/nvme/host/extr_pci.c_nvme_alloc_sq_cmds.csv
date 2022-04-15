@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+NVMEQ_SQ_CMB,VAR_2
+NVME_CMBSZ_SQS,VAR_3
+SQ_SIZE,FUNC_0
+dma_alloc_coherent,FUNC_1
+pci_alloc_p2pmem,FUNC_2
+pci_free_p2pmem,FUNC_3
+pci_p2pmem_virt_to_bus,FUNC_4
+set_bit,FUNC_5
+to_pci_dev,FUNC_6
+nvme_alloc_sq_cmds,FUNC_7
+dev,VAR_4
+nvmeq,VAR_5
+qid,VAR_6
+pdev,VAR_7

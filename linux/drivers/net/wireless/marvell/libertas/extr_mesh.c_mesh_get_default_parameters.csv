@@ -1,0 +1,13 @@
+CMD_ACT_MESH_CONFIG_GET,VAR_0
+CMD_TYPE_MESH_GET_DEFAULTS,VAR_1
+EOPNOTSUPP,VAR_2
+lbs_mesh_config_send,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+to_net_dev,FUNC_3
+mesh_get_default_parameters,FUNC_4
+dev,VAR_3
+defs,VAR_4
+priv,VAR_5
+cmd,VAR_6
+ret,VAR_7

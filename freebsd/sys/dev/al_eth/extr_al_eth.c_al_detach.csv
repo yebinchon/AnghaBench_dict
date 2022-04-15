@@ -1,0 +1,10 @@
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+al_eth_down,FUNC_0
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+ether_ifdetach,FUNC_3
+mtx_destroy,FUNC_4
+al_detach,FUNC_5
+dev,VAR_2
+adapter,VAR_3

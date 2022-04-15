@@ -1,0 +1,12 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+TI_MINI_RX_RING_CNT,VAR_2
+TI_MINI_RX_RING_SZ,VAR_3
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+bzero,FUNC_2
+m_freem,FUNC_3
+ti_free_rx_ring_mini,FUNC_4
+sc,VAR_4
+map,VAR_5
+i,VAR_6

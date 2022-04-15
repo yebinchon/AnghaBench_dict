@@ -1,0 +1,15 @@
+__cached_rbnode_delete_update,FUNC_0
+alloc_and_init_iova,FUNC_1
+free_iova_mem,FUNC_2
+iova_insert_rbtree,FUNC_3
+rb_erase,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+split_and_remove_iova,FUNC_7
+iovad,VAR_0
+iova,VAR_1
+pfn_lo,VAR_2
+pfn_hi,VAR_3
+flags,VAR_4
+prev,VAR_5
+next,VAR_6

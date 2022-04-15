@@ -1,0 +1,17 @@
+HT_STREAM_2X2,VAR_0
+HostCmd_ACT_GET_BOTH,VAR_1
+HostCmd_ACT_GET_RX,VAR_2
+HostCmd_ACT_GET_TX,VAR_3
+HostCmd_ACT_SET_BOTH,VAR_4
+HostCmd_ACT_SET_RX,VAR_5
+HostCmd_ACT_SET_TX,VAR_6
+HostCmd_CMD_RF_ANTENNA,VAR_7
+S_DS_GEN,VAR_8
+cpu_to_le16,FUNC_0
+mwifiex_cmd_rf_antenna,FUNC_1
+priv,VAR_9
+cmd,VAR_10
+cmd_action,VAR_11
+ant_cfg,VAR_12
+ant_mimo,VAR_13
+ant_siso,VAR_14

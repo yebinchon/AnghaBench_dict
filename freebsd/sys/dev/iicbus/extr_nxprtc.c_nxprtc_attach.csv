@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+ENXIO,VAR_1
+PCF8523_R_SECOND,VAR_2
+PCF8523_R_TMR_A_COUNT,VAR_3
+PCF8563_R_SECOND,VAR_4
+PCF8563_R_TMR_COUNT,VAR_5
+config_intrhook_establish,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+nxprtc_get_chiptype,FUNC_4
+nxprtc_start,VAR_6
+nxprtc_attach,FUNC_5
+dev,VAR_7
+sc,VAR_8

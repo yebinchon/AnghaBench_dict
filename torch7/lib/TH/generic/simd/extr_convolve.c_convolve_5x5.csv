@@ -1,0 +1,11 @@
+convolve_5x5_avx,FUNC_0
+convolve_5x5_sse,FUNC_1
+haveCPUFeature,FUNC_2
+kCPUFeature_AVX,VAR_0
+convolve_5x5,FUNC_3
+output,VAR_1
+input,VAR_2
+kernel,VAR_3
+outRows,VAR_4
+outCols,VAR_5
+inCols,VAR_6

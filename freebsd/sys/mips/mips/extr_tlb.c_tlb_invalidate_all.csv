@@ -1,0 +1,12 @@
+TLBHI_ASID_MASK,VAR_0
+intr_disable,FUNC_0
+intr_restore,FUNC_1
+mips_rd_entryhi,FUNC_2
+mips_rd_wired,FUNC_3
+mips_wr_entryhi,FUNC_4
+num_tlbentries,VAR_1
+tlb_invalidate_one,FUNC_5
+tlb_invalidate_all,FUNC_6
+asid,VAR_2
+s,VAR_3
+i,VAR_4

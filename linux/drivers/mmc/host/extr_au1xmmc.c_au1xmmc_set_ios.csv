@@ -1,0 +1,16 @@
+HOST_CONFIG2,FUNC_0
+MMC_POWER_OFF,VAR_0
+MMC_POWER_ON,VAR_1
+SD_CONFIG2_BB,VAR_2
+SD_CONFIG2_WB,VAR_3
+__raw_readl,FUNC_1
+__raw_writel,FUNC_2
+au1xmmc_set_clock,FUNC_3
+au1xmmc_set_power,FUNC_4
+mmc_priv,FUNC_5
+wmb,FUNC_6
+au1xmmc_set_ios,FUNC_7
+mmc,VAR_4
+ios,VAR_5
+host,VAR_6
+config2,VAR_7

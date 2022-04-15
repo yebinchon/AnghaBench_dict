@@ -1,0 +1,11 @@
+KVMPPC_VCPU_BUSY_IN_HOST,VAR_0
+KVMPPC_VCPU_RUNNABLE,VAR_1
+WRITE_ONCE,FUNC_0
+mftb,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+vcore_stolen_time,FUNC_4
+kvmppc_remove_runnable,FUNC_5
+vc,VAR_2
+vcpu,VAR_3
+now,VAR_4

@@ -1,0 +1,11 @@
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+TV_CTL,VAR_0
+TV_ENC_ENABLE,VAR_1
+to_i915,FUNC_2
+intel_disable_tv,FUNC_3
+encoder,VAR_2
+old_crtc_state,VAR_3
+old_conn_state,VAR_4
+dev,VAR_5
+dev_priv,VAR_6

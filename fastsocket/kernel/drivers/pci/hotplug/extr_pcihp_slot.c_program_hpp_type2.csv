@@ -1,0 +1,17 @@
+PCI_ERR_CAP,VAR_0
+PCI_ERR_COR_MASK,VAR_1
+PCI_ERR_UNCOR_MASK,VAR_2
+PCI_ERR_UNCOR_SEVER,VAR_3
+PCI_EXP_DEVCTL,VAR_4
+PCI_EXP_LNKCTL,VAR_5
+PCI_EXT_CAP_ID_ERR,VAR_6
+dev_warn,FUNC_0
+pci_find_ext_capability,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+pcie_capability_clear_and_set_word,FUNC_4
+program_hpp_type2,FUNC_5
+dev,VAR_7
+hpp,VAR_8
+pos,VAR_9
+reg32,VAR_10

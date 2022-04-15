@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+IGB_RX_DESC,FUNC_0
+cpu_to_le64,FUNC_1
+dma_sync_single_range_for_device,FUNC_2
+dma_wmb,FUNC_3
+igb_alloc_mapped_page,FUNC_4
+igb_rx_bufsz,FUNC_5
+unlikely,FUNC_6
+writel,FUNC_7
+igb_alloc_rx_buffers,FUNC_8
+rx_ring,VAR_1
+cleaned_count,VAR_2
+rx_desc,VAR_3
+bi,VAR_4
+i,VAR_5
+bufsz,VAR_6

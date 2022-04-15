@@ -1,0 +1,9 @@
+EPCTRL_RX_EP_STALL,VAR_0
+EPCTRL_TX_EP_STALL,VAR_1
+WAIT_FOR_SETUP,VAR_2
+dr_regs,VAR_3
+fsl_readl,FUNC_0
+fsl_writel,FUNC_1
+ep0stall,FUNC_2
+udc,VAR_4
+tmp,VAR_5

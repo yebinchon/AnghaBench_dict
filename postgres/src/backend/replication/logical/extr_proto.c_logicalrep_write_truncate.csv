@@ -1,0 +1,13 @@
+TRUNCATE_CASCADE,VAR_0
+TRUNCATE_RESTART_SEQS,VAR_1
+pq_sendbyte,FUNC_0
+pq_sendint32,FUNC_1
+pq_sendint8,FUNC_2
+logicalrep_write_truncate,FUNC_3
+out,VAR_2
+nrelids,VAR_3
+relids,VAR_4
+cascade,VAR_5
+restart_seqs,VAR_6
+i,VAR_7
+flags,VAR_8

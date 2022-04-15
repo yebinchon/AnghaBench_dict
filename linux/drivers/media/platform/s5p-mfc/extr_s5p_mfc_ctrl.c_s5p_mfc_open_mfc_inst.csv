@@ -1,0 +1,17 @@
+EIO,VAR_0
+MFCINST_DECODER,VAR_1
+S5P_MFC_R2H_CMD_OPEN_INSTANCE_RET,VAR_2
+alloc_dec_temp_buffers,VAR_3
+alloc_instance_buffer,VAR_4
+mfc_debug,FUNC_0
+mfc_err,FUNC_1
+release_dec_desc_buffer,VAR_5
+release_instance_buffer,VAR_6
+s5p_mfc_hw_call,FUNC_2
+s5p_mfc_wait_for_done_ctx,FUNC_3
+set_work_bit_irqsave,FUNC_4
+try_run,VAR_7
+s5p_mfc_open_mfc_inst,FUNC_5
+dev,VAR_8
+ctx,VAR_9
+ret,VAR_10

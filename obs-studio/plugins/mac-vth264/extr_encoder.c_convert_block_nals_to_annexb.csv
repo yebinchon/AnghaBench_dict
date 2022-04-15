@@ -1,0 +1,16 @@
+CFSwapInt16BigToHost,FUNC_0
+CFSwapInt32BigToHost,FUNC_1
+CMBlockBufferGetDataPointer,FUNC_2
+LOG_ERROR,VAR_0
+VT_BLOG,FUNC_3
+packet_put,FUNC_4
+packet_put_startcode,FUNC_5
+convert_block_nals_to_annexb,FUNC_6
+enc,VAR_1
+packet,VAR_2
+block,VAR_3
+nal_length_bytes,VAR_4
+block_size,VAR_5
+block_buf,VAR_6
+bytes_remaining,VAR_7
+nal_size,VAR_8

@@ -1,0 +1,17 @@
+M_DEVBUF,VAR_0
+control_softc,VAR_1
+ctl_frontend_deregister,FUNC_0
+ctl_tpc_shutdown,FUNC_1
+destroy_dev,FUNC_2
+free,FUNC_3
+ha_frontend,VAR_2
+mtx_destroy,FUNC_4
+pause,FUNC_5
+sysctl_ctx_free,FUNC_6
+uma_zdestroy,FUNC_7
+wakeup,FUNC_8
+worker_threads,VAR_3
+ctl_shutdown,FUNC_9
+softc,VAR_4
+i,VAR_5
+thr,VAR_6

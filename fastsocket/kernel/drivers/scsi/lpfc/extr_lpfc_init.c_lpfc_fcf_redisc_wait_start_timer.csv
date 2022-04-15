@@ -1,0 +1,12 @@
+FCF_AVAILABLE,VAR_0
+FCF_REDISC_PEND,VAR_1
+FCF_SCAN_DONE,VAR_2
+LPFC_FCF_REDISCOVER_WAIT_TMO,VAR_3
+jiffies,VAR_4
+mod_timer,FUNC_0
+msecs_to_jiffies,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+lpfc_fcf_redisc_wait_start_timer,FUNC_4
+phba,VAR_5
+fcf_redisc_wait_tmo,VAR_6

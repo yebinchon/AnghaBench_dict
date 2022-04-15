@@ -1,0 +1,16 @@
+BQ27XXX_DM_BLOCK,VAR_0
+BQ27XXX_DM_CKSUM,VAR_1
+BQ27XXX_DM_CLASS,VAR_2
+BQ27XXX_DM_DATA,VAR_3
+BQ27XXX_DM_SZ,VAR_4
+BQ27XXX_MSLEEP,FUNC_0
+EINVAL,VAR_5
+bq27xxx_battery_checksum_dm_block,FUNC_1
+bq27xxx_read,FUNC_2
+bq27xxx_read_block,FUNC_3
+bq27xxx_write,FUNC_4
+dev_err,FUNC_5
+bq27xxx_battery_read_dm_block,FUNC_6
+di,VAR_6
+buf,VAR_7
+ret,VAR_8

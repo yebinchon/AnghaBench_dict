@@ -1,0 +1,15 @@
+MIN,FUNC_0
+hc_clEnqueueNDRangeKernel,FUNC_1
+hc_clFinish,FUNC_2
+hc_clFlush,FUNC_3
+hc_cuLaunchKernel,FUNC_4
+hc_cuStreamSynchronize,FUNC_5
+run_kernel_tm,FUNC_6
+hashcat_ctx,VAR_0
+device_param,VAR_1
+num_elements,VAR_2
+kernel_threads,VAR_3
+cuda_function,VAR_4
+cuda_kernel,VAR_5
+global_work_size,VAR_6
+local_work_size,VAR_7

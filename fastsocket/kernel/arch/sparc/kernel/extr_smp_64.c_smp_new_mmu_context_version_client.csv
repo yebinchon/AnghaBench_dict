@@ -1,0 +1,17 @@
+CTX_HWBITS,FUNC_0
+CTX_VALID,FUNC_1
+SECONDARY_CONTEXT,VAR_0
+__flush_tlb_mm,FUNC_2
+clear_softint,FUNC_3
+current,VAR_1
+get_new_mmu_context,FUNC_4
+init_mm,VAR_2
+load_secondary_context,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+unlikely,FUNC_8
+smp_new_mmu_context_version_client,FUNC_9
+irq,VAR_3
+regs,VAR_4
+mm,VAR_5
+flags,VAR_6

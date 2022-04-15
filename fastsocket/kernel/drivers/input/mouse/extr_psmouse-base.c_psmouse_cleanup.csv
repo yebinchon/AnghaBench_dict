@@ -1,0 +1,16 @@
+PSMOUSE_CMD_ENABLE,VAR_0
+SERIO_PS_PSTHRU,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+ps2_command,FUNC_2
+psmouse_activate,FUNC_3
+psmouse_deactivate,FUNC_4
+psmouse_mutex,VAR_2
+psmouse_reset,FUNC_5
+serio_get_drvdata,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+psmouse_cleanup,FUNC_9
+serio,VAR_3
+psmouse,VAR_4
+parent,VAR_5

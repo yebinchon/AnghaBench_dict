@@ -1,0 +1,11 @@
+PCI_EXP_DPC_CTL,VAR_0
+PCI_EXT_CAP_ID_DPC,VAR_1
+pci_find_saved_ext_cap,FUNC_0
+pci_is_pcie,FUNC_1
+pci_read_config_word,FUNC_2
+to_dpc_dev,FUNC_3
+pci_save_dpc_state,FUNC_4
+dev,VAR_2
+dpc,VAR_3
+save_state,VAR_4
+cap,VAR_5

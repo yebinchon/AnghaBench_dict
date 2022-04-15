@@ -1,0 +1,8 @@
+event_is_checkpointed,FUNC_0
+local64_set,FUNC_1
+unlikely,FUNC_2
+wrmsrl,FUNC_3
+x86_perf_event_set_period,FUNC_4
+x86_perf_event_update,FUNC_5
+intel_pmu_save_and_restart,FUNC_6
+event,VAR_0

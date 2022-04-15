@@ -1,0 +1,16 @@
+DIFF_MODIFY_TWO_FILES,VAR_0
+GIT_APPLY_LOCATION_INDEX,VAR_1
+GIT_APPLY_OPTIONS_INIT,VAR_2
+cl_git_fail_with,FUNC_0
+cl_git_pass,FUNC_1
+delta_abort_cb,VAR_3
+git_apply,FUNC_2
+git_diff_free,FUNC_3
+git_diff_from_buffer,FUNC_4
+repo,VAR_4
+strlen,FUNC_5
+validate_index_unchanged,FUNC_6
+validate_workdir_unchanged,FUNC_7
+test_apply_callbacks__delta_aborts,FUNC_8
+diff,VAR_5
+opts,VAR_6

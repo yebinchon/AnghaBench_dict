@@ -1,0 +1,12 @@
+CT_POLICY_EVAL_CTX_free,FUNC_0
+CT_POLICY_EVAL_CTX_get_time,FUNC_1
+CT_POLICY_EVAL_CTX_new,FUNC_2
+TEST_time_t_le,FUNC_3
+abs,FUNC_4
+difftime,FUNC_5
+time,FUNC_6
+test_default_ct_policy_eval_ctx_time_is_now,FUNC_7
+success,VAR_0
+ct_policy_ctx,VAR_1
+default_time,VAR_2
+time_tolerance,VAR_3

@@ -1,0 +1,16 @@
+E_OUTOFMEMORY,VAR_0
+EnterCriticalSection,FUNC_0
+GetProcessHeap,FUNC_1
+HeapAlloc,FUNC_2
+IChannelHook_AddRef,FUNC_3
+LeaveCriticalSection,FUNC_4
+S_OK,VAR_1
+TRACE,FUNC_5
+channel_hooks,VAR_2
+csChannelHook,VAR_3
+debugstr_guid,FUNC_6
+list_add_tail,FUNC_7
+RPC_RegisterChannelHook,FUNC_8
+rguid,VAR_4
+hook,VAR_5
+entry,VAR_6

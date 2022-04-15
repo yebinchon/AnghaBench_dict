@@ -1,0 +1,15 @@
+EDDYSTONE_FRAME_TYPE_TLM,VAR_0
+EDDYSTONE_FRAME_TYPE_UID,VAR_1
+EDDYSTONE_FRAME_TYPE_URL,VAR_2
+EDDYSTONE_SERVICE_UUID,VAR_3
+esp_eddystone_get_inform,FUNC_0
+little_endian_read_16,FUNC_1
+esp_eddystone_decode,FUNC_2
+buf,VAR_4
+len,VAR_5
+res,VAR_6
+pos,VAR_7
+ad_type,VAR_8
+uuid,VAR_9
+type,VAR_10
+frame_type,VAR_11

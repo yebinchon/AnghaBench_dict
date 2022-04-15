@@ -1,0 +1,16 @@
+IPMI_SET_TIMEOUT_NO_HB,VAR_0
+NOTIFY_OK,VAR_1
+SYS_HALT,VAR_2
+SYS_POWER_OFF,VAR_3
+WDOG_TIMEOUT_NONE,VAR_4
+WDOG_TIMEOUT_RESET,VAR_5
+ipmi_set_timeout,FUNC_0
+ipmi_watchdog_state,VAR_6
+pretimeout,VAR_7
+timeout,VAR_8
+watchdog_user,VAR_9
+wdog_reboot_handler,FUNC_1
+this,VAR_10
+code,VAR_11
+unused,VAR_12
+reboot_event_handled,VAR_13

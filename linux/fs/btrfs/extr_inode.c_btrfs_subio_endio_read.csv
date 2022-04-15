@@ -1,0 +1,11 @@
+BLK_STS_OK,VAR_0
+BTRFS_I,FUNC_0
+BTRFS_INODE_NODATASUM,VAR_1
+__btrfs_correct_data_nocsum,FUNC_1
+__btrfs_subio_endio_read,FUNC_2
+unlikely,FUNC_3
+btrfs_subio_endio_read,FUNC_4
+inode,VAR_2
+io_bio,VAR_3
+err,VAR_4
+skip_csum,VAR_5

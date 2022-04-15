@@ -1,0 +1,14 @@
+SNDRV_RAWMIDI_INFO_DUPLEX,VAR_0
+SNDRV_RAWMIDI_INFO_INPUT,VAR_1
+SNDRV_RAWMIDI_INFO_OUTPUT,VAR_2
+SNDRV_RAWMIDI_STREAM_INPUT,VAR_3
+SNDRV_RAWMIDI_STREAM_OUTPUT,VAR_4
+snd_rawmidi_new,FUNC_0
+snd_rawmidi_set_ops,FUNC_1
+snd_usb_caiaq_midi_input,VAR_5
+snd_usb_caiaq_midi_output,VAR_6
+strlcpy,FUNC_2
+snd_usb_caiaq_midi_init,FUNC_3
+device,VAR_7
+ret,VAR_8
+rmidi,VAR_9

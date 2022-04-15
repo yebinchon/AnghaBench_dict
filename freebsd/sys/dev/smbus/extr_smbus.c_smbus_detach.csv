@@ -1,0 +1,8 @@
+bus_generic_detach,FUNC_0
+device_delete_children,FUNC_1
+device_get_softc,FUNC_2
+mtx_destroy,FUNC_3
+smbus_detach,FUNC_4
+dev,VAR_0
+sc,VAR_1
+error,VAR_2

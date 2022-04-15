@@ -1,0 +1,14 @@
+GIT_DIFF_OPTIONS_INIT,VAR_0
+GIT_EBAREREPO,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+g_repo,VAR_2
+git_diff_index_to_workdir,FUNC_3
+git_diff_tree_to_workdir,FUNC_4
+git_repository_head_tree,FUNC_5
+git_tree_free,FUNC_6
+test_diff_workdir__cannot_diff_against_a_bare_repository,FUNC_7
+opts,VAR_3
+diff,VAR_4
+tree,VAR_5

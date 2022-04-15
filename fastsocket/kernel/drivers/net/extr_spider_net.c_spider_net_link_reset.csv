@@ -1,0 +1,14 @@
+BCM54XX_COPPER,VAR_0
+SPIDER_NET_ANEG_TIMER,VAR_1
+SPIDER_NET_GMACINTEN,VAR_2
+SPIDER_NET_GMACST,VAR_3
+del_timer_sync,FUNC_0
+jiffies,VAR_4
+mod_timer,FUNC_1
+netdev_priv,FUNC_2
+spider_net_read_reg,FUNC_3
+spider_net_setup_aneg,FUNC_4
+spider_net_write_reg,FUNC_5
+spider_net_link_reset,FUNC_6
+netdev,VAR_5
+card,VAR_6

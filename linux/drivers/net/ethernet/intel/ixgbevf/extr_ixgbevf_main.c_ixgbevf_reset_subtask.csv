@@ -1,0 +1,11 @@
+__IXGBEVF_DOWN,VAR_0
+__IXGBEVF_REMOVING,VAR_1
+__IXGBEVF_RESETTING,VAR_2
+__IXGBEVF_RESET_REQUESTED,VAR_3
+ixgbevf_reinit_locked,FUNC_0
+rtnl_lock,FUNC_1
+rtnl_unlock,FUNC_2
+test_and_clear_bit,FUNC_3
+test_bit,FUNC_4
+ixgbevf_reset_subtask,FUNC_5
+adapter,VAR_4

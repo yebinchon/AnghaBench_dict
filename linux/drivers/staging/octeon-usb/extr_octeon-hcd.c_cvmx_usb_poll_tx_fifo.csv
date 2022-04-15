@@ -1,0 +1,13 @@
+CVMX_USBCX_GINTMSK,FUNC_0
+CVMX_USBCX_GNPTXSTS,FUNC_1
+CVMX_USBCX_HPTXSTS,FUNC_2
+USB_SET_FIELD32,FUNC_3
+cvmx_usb_fill_tx_hw,FUNC_4
+cvmx_usb_read_csr32,FUNC_5
+cvmx_usbcx_gintmsk,VAR_0
+nptxfempmsk,VAR_1
+ptxfempmsk,VAR_2
+cvmx_usb_poll_tx_fifo,FUNC_6
+usb,VAR_3
+tx_status,VAR_4
+tx_status,VAR_5

@@ -1,0 +1,11 @@
+ACCESS_ONCE,FUNC_0
+__rcu_process_gp_end,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+spin_trylock,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+rcu_process_gp_end,FUNC_6
+rsp,VAR_0
+rdp,VAR_1
+flags,VAR_2
+rnp,VAR_3

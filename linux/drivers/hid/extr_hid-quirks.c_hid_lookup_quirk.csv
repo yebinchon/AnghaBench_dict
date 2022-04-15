@@ -1,0 +1,16 @@
+BUS_USB,VAR_0
+HID_QUIRK_IGNORE,VAR_1
+HID_QUIRK_NO_INIT_REPORTS,VAR_2
+USB_DEVICE_ID_NCR_FIRST,VAR_3
+USB_DEVICE_ID_NCR_LAST,VAR_4
+USB_VENDOR_ID_JABRA,VAR_5
+USB_VENDOR_ID_NCR,VAR_6
+dquirks_lock,VAR_7
+hid_exists_dquirk,FUNC_0
+hid_gets_squirk,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+hid_lookup_quirk,FUNC_4
+hdev,VAR_8
+quirks,VAR_9
+quirk_entry,VAR_10

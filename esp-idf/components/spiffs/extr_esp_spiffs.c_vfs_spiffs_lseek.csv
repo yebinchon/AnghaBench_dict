@@ -1,0 +1,12 @@
+SPIFFS_clearerr,FUNC_0
+SPIFFS_errno,FUNC_1
+SPIFFS_lseek,FUNC_2
+errno,VAR_0
+spiffs_res_to_errno,FUNC_3
+vfs_spiffs_lseek,FUNC_4
+ctx,VAR_1
+fd,VAR_2
+offset,VAR_3
+mode,VAR_4
+efs,VAR_5
+res,VAR_6

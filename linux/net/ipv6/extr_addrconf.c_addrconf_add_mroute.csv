@@ -1,0 +1,13 @@
+GFP_KERNEL,VAR_0
+IP6_RT_PRIO_ADDRCONF,VAR_1
+RT6_TABLE_LOCAL,VAR_2
+RTF_UP,VAR_3
+RTN_UNICAST,VAR_4
+dev_net,FUNC_0
+htonl,FUNC_1
+ip6_route_add,FUNC_2
+ipv6_addr_set,FUNC_3
+l3mdev_fib_table,FUNC_4
+addrconf_add_mroute,FUNC_5
+dev,VAR_5
+cfg,VAR_6

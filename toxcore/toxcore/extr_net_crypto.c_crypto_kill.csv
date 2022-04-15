@@ -1,0 +1,15 @@
+CRYPTO_CONN_ESTABLISHED,VAR_0
+bs_list_remove,FUNC_0
+clear_buffer,FUNC_1
+clear_temp_packet,FUNC_2
+get_crypto_connection,FUNC_3
+kill_tcp_connection_to,FUNC_4
+pthread_mutex_lock,FUNC_5
+pthread_mutex_unlock,FUNC_6
+send_kill_packet,FUNC_7
+wipe_crypto_connection,FUNC_8
+crypto_kill,FUNC_9
+c,VAR_1
+crypt_connection_id,VAR_2
+conn,VAR_3
+ret,VAR_4

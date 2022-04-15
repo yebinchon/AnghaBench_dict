@@ -1,0 +1,12 @@
+AMDGPU_FENCE_FLAG_64BIT,VAR_0
+DMA_PACKET,FUNC_0
+DMA_PACKET_FENCE,VAR_1
+DMA_PACKET_TRAP,VAR_2
+amdgpu_ring_write,FUNC_1
+upper_32_bits,FUNC_2
+si_dma_ring_emit_fence,FUNC_3
+ring,VAR_3
+addr,VAR_4
+seq,VAR_5
+flags,VAR_6
+write64bit,VAR_7

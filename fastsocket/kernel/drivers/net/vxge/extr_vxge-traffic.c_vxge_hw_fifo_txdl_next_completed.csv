@@ -1,0 +1,14 @@
+VXGE_HW_FIFO_TXD_LIST_OWN_ADAPTER,VAR_0
+VXGE_HW_FIFO_TXD_T_CODE_GET,FUNC_0
+VXGE_HW_INF_NO_MORE_COMPLETED_DESCRIPTORS,VAR_1
+VXGE_HW_OK,VAR_2
+vxge_assert,FUNC_1
+vxge_hw_channel_dtr_complete,FUNC_2
+vxge_hw_channel_dtr_try_complete,FUNC_3
+vxge_hw_fifo_txdl_next_completed,FUNC_4
+fifo,VAR_3
+txdlh,VAR_4
+t_code,VAR_5
+channel,VAR_6
+txdp,VAR_7
+status,VAR_8

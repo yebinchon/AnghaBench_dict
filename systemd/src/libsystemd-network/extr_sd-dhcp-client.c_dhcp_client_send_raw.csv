@@ -1,0 +1,9 @@
+DHCP_PORT_SERVER,VAR_0
+INADDR_ANY,VAR_1
+INADDR_BROADCAST,VAR_2
+dhcp_network_send_raw_socket,FUNC_0
+dhcp_packet_append_ip_headers,FUNC_1
+dhcp_client_send_raw,FUNC_2
+client,VAR_3
+packet,VAR_4
+len,VAR_5

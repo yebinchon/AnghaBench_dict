@@ -1,0 +1,17 @@
+OMXJPEG_ERROR_ILCLIENT_INIT,VAR_0
+OMXJPEG_ERROR_MEMORY,VAR_1
+OMXJPEG_ERROR_OMX_INIT,VAR_2
+OMXJPEG_OK,VAR_3
+OMX_ErrorNone,VAR_4
+OMX_Init,FUNC_0
+ilclient_destroy,FUNC_1
+ilclient_init,FUNC_2
+malloc,FUNC_3
+memset,FUNC_4
+perror,FUNC_5
+prepareImageDecoder,FUNC_6
+prepareResizer,FUNC_7
+startupImageDecoder,FUNC_8
+setupOpenMaxJpegDecoder,FUNC_9
+pDecoder,VAR_5
+ret,VAR_6

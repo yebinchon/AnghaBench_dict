@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+HYPERVISOR_mca,FUNC_0
+VIRQ_MCA,VAR_2
+XEN_MC_physcpuinfo,VAR_3
+bind_virq_to_irqhandler,FUNC_1
+g_physinfo,VAR_4
+kcalloc,FUNC_2
+kfree,FUNC_3
+memset,FUNC_4
+ncpus,VAR_5
+pr_err,FUNC_5
+set_xen_guest_handle,FUNC_6
+xen_mce_interrupt,VAR_6
+bind_virq_for_mce,FUNC_7
+ret,VAR_7
+mc_op,VAR_8

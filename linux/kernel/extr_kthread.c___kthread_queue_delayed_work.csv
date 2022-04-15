@@ -1,0 +1,13 @@
+WARN_ON_ONCE,FUNC_0
+add_timer,FUNC_1
+jiffies,VAR_0
+kthread_delayed_work_timer_fn,VAR_1
+kthread_insert_work,FUNC_2
+kthread_insert_work_sanity_check,FUNC_3
+list_add,FUNC_4
+__kthread_queue_delayed_work,FUNC_5
+worker,VAR_2
+dwork,VAR_3
+delay,VAR_4
+timer,VAR_5
+work,VAR_6

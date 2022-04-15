@@ -1,0 +1,14 @@
+DELAY,FUNC_0
+OPAL_BUSY,VAR_0
+OPAL_CHECK_ASYNC_COMPLETION,VAR_1
+OPAL_SUCCESS,VAR_2
+atomic_thread_fence_acq,FUNC_1
+completions,VAR_3
+memcpy,FUNC_2
+opal_call,FUNC_3
+vtophys,FUNC_4
+opal_wait_completion,FUNC_5
+buf,VAR_4
+size,VAR_5
+token,VAR_6
+err,VAR_7

@@ -1,0 +1,15 @@
+B43_LPPHY_TXPCTL_HW,VAR_0
+B43_LPPHY_TX_PWR_CTL_CMD,VAR_1
+B43_LPPHY_TX_PWR_CTL_NNUM,VAR_2
+B43_PHY_OFDM,FUNC_0
+b43_phy_mask,FUNC_1
+b43_phy_maskset,FUNC_2
+b43_phy_set,FUNC_3
+lpphy_disable_tx_gain_override,FUNC_4
+lpphy_read_tx_pctl_mode_from_hardware,FUNC_5
+lpphy_write_tx_pctl_mode_to_hardware,FUNC_6
+lpphy_set_tx_power_control,FUNC_7
+dev,VAR_3
+mode,VAR_4
+lpphy,VAR_5
+oldmode,VAR_6

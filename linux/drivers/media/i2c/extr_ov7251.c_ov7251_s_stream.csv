@@ -1,0 +1,15 @@
+OV7251_SC_MODE_SELECT,VAR_0
+OV7251_SC_MODE_SELECT_STREAMING,VAR_1
+OV7251_SC_MODE_SELECT_SW_STANDBY,VAR_2
+__v4l2_ctrl_handler_setup,FUNC_0
+dev_err,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+ov7251_set_register_array,FUNC_4
+ov7251_write_reg,FUNC_5
+to_ov7251,FUNC_6
+ov7251_s_stream,FUNC_7
+subdev,VAR_3
+enable,VAR_4
+ov7251,VAR_5
+ret,VAR_6

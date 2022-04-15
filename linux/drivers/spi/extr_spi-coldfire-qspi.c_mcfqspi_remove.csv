@@ -1,0 +1,11 @@
+MCFQSPI_QMR_MSTR,VAR_0
+clk_disable,FUNC_0
+mcfqspi_cs_teardown,FUNC_1
+mcfqspi_wr_qmr,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+spi_master_get_devdata,FUNC_5
+mcfqspi_remove,FUNC_6
+pdev,VAR_1
+master,VAR_2
+mcfqspi,VAR_3

@@ -1,0 +1,10 @@
+KNL_PMON_FIXED_CTL_EN,VAR_0
+SNBEP_PMON_CTL_EN,VAR_1
+SNBEP_PMON_CTL_EV_SEL_MASK,VAR_2
+UNCORE_FIXED_EVENT,VAR_3
+pci_write_config_dword,FUNC_0
+knl_uncore_imc_enable_event,FUNC_1
+box,VAR_4
+event,VAR_5
+pdev,VAR_6
+hwc,VAR_7

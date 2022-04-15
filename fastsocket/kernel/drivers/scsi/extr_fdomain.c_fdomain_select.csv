@@ -1,0 +1,16 @@
+PARITY_MASK,VAR_0
+SCSI_Cntl,VAR_1
+SCSI_Data_NoACK,VAR_2
+SCSI_Status,VAR_3
+TMC_Cntl,VAR_4
+adapter_mask,VAR_5
+fdomain_make_bus_idle,FUNC_0
+inb,FUNC_1
+mdelay,FUNC_2
+outb,FUNC_3
+port_base,VAR_6
+printk,FUNC_4
+fdomain_select,FUNC_5
+target,VAR_7
+status,VAR_8
+timeout,VAR_9

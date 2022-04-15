@@ -1,0 +1,15 @@
+LIO_CN23XX_PF,FUNC_0
+OCTEON_ALL_INTR,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+lio_dev_info,FUNC_3
+lio_setup_interrupt,FUNC_4
+pci_release_msi,FUNC_5
+stub1,FUNC_6
+stub2,FUNC_7
+lio_irq_reallocate_irqs,FUNC_8
+oct,VAR_2
+num_ioqs,VAR_3
+i,VAR_4
+num_msix_irqs,VAR_5

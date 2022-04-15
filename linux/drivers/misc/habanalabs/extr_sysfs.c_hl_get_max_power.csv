@@ -1,0 +1,12 @@
+ARMCP_PACKET_MAX_POWER_GET,VAR_0
+ARMCP_PKT_CTL_OPCODE_SHIFT,VAR_1
+SET_PWR_PKT_TIMEOUT,VAR_2
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+memset,FUNC_2
+stub1,FUNC_3
+hl_get_max_power,FUNC_4
+hdev,VAR_3
+pkt,VAR_4
+result,VAR_5
+rc,VAR_6

@@ -1,0 +1,14 @@
+KENV_GET,VAR_0
+acpi_get_rsdp,FUNC_0
+acpi_scan_rsd_ptr,FUNC_1
+acpi_user_init,FUNC_2
+hint_acpi_0_rsdp,VAR_1
+kenv,FUNC_3
+machdep_acpi_root,VAR_2
+strtoul,FUNC_4
+sysctlbyname,FUNC_5
+acpi_find_rsd_ptr,FUNC_6
+rsdp,VAR_3
+buf,VAR_4
+addr,VAR_5
+len,VAR_6

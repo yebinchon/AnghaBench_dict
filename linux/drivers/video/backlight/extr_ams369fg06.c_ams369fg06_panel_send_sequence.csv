@@ -1,0 +1,10 @@
+DEFMASK,VAR_0
+ENDDEF,VAR_1
+SLEEPMSEC,VAR_2
+ams369fg06_spi_write,FUNC_0
+msleep,FUNC_1
+ams369fg06_panel_send_sequence,FUNC_2
+lcd,VAR_3
+wbuf,VAR_4
+ret,VAR_5
+i,VAR_6

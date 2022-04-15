@@ -1,0 +1,17 @@
+add_assoc_zval_ex,FUNC_0
+array_init,FUNC_1
+efree,FUNC_2
+read_mbulk_header,FUNC_3
+redis_read_stream_messages,FUNC_4
+redis_sock_read,FUNC_5
+zval_dtor,FUNC_6
+redis_read_stream_messages_multi,FUNC_7
+redis_sock,VAR_0
+count,VAR_1
+z_streams,VAR_2
+z_messages,VAR_3
+i,VAR_4
+shdr,VAR_5
+messages,VAR_6
+id,VAR_7
+idlen,VAR_8

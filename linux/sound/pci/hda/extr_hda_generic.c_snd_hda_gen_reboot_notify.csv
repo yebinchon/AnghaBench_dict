@@ -1,0 +1,7 @@
+AC_PWRST_D3,VAR_0
+AC_VERB_SET_POWER_STATE,VAR_1
+msleep,FUNC_0
+snd_hda_codec_set_power_to_all,FUNC_1
+snd_hda_codec_write,FUNC_2
+snd_hda_gen_reboot_notify,FUNC_3
+codec,VAR_2

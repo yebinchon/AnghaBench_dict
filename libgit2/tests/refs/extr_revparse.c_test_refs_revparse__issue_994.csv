@@ -1,0 +1,16 @@
+GIT_ENOTFOUND,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_object_free,FUNC_4
+git_reference_create,FUNC_5
+git_reference_free,FUNC_6
+git_reference_target,FUNC_7
+git_repository_head,FUNC_8
+git_revparse_single,FUNC_9
+test_refs_revparse__issue_994,FUNC_10
+repo,VAR_1
+head,VAR_2
+with_at,VAR_3
+target,VAR_4

@@ -1,0 +1,8 @@
+SUN8I_HDMI_PHY_REXT_CTRL_REG,VAR_0
+SUN8I_HDMI_PHY_REXT_CTRL_REXT_EN,VAR_1
+dw_hdmi_phy_gen2_pddq,FUNC_0
+dw_hdmi_phy_gen2_txpwron,FUNC_1
+regmap_update_bits,FUNC_2
+sun8i_hdmi_phy_disable_a83t,FUNC_3
+hdmi,VAR_2
+phy,VAR_3

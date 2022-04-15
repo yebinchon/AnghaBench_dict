@@ -1,0 +1,10 @@
+CMD_RUN,VAR_0
+STS_HALT,VAR_1
+XHCI_IRQS,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+xhci_quiesce,FUNC_2
+xhci,VAR_3
+halted,VAR_4
+cmd,VAR_5
+mask,VAR_6

@@ -1,0 +1,12 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+device_set_desc,FUNC_0
+ds_devs,VAR_2
+ds_finddev,FUNC_1
+pci_get_devid,FUNC_2
+pci_get_subdevice,FUNC_3
+pci_get_subvendor,FUNC_4
+ds_pci_probe,FUNC_5
+dev,VAR_3
+i,VAR_4
+subdev,VAR_5

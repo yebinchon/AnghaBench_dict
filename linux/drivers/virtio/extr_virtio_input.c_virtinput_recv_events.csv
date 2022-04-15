@@ -1,0 +1,14 @@
+input_event,FUNC_0
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+virtinput_queue_evtbuf,FUNC_5
+virtqueue_get_buf,FUNC_6
+virtqueue_kick,FUNC_7
+virtinput_recv_events,FUNC_8
+vq,VAR_0
+vi,VAR_1
+event,VAR_2
+flags,VAR_3
+len,VAR_4

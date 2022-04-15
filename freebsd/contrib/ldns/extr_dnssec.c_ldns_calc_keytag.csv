@@ -1,0 +1,15 @@
+LDNS_MIN_BUFLEN,VAR_0
+LDNS_RR_TYPE_DNSKEY,VAR_1
+LDNS_RR_TYPE_KEY,VAR_2
+ldns_buffer_begin,FUNC_0
+ldns_buffer_free,FUNC_1
+ldns_buffer_new,FUNC_2
+ldns_buffer_position,FUNC_3
+ldns_calc_keytag_raw,FUNC_4
+ldns_rr_get_type,FUNC_5
+ldns_rr_rdata2buffer_wire,FUNC_6
+ldns_calc_keytag,FUNC_7
+key,VAR_3
+ac16,VAR_4
+keybuf,VAR_5
+keysize,VAR_6

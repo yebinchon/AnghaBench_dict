@@ -1,0 +1,14 @@
+BIP_BLOCK_INTEGRITY,VAR_0
+INIT_WORK,FUNC_0
+REQ_OP_READ,VAR_1
+bio_integrity,FUNC_1
+bio_integrity_free,FUNC_2
+bio_integrity_verify_fn,VAR_2
+bio_op,FUNC_3
+blk_get_integrity,FUNC_4
+kintegrityd_wq,VAR_3
+queue_work,FUNC_5
+__bio_integrity_endio,FUNC_6
+bio,VAR_4
+bi,VAR_5
+bip,VAR_6

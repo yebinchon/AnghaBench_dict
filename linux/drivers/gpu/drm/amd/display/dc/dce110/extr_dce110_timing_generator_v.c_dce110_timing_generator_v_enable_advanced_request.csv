@@ -1,0 +1,13 @@
+CRTCV_START_LINE_CONTROL,VAR_0
+CRTC_ADVANCED_START_LINE_POSITION,VAR_1
+CRTC_LEGACY_REQUESTOR_EN,VAR_2
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+mmCRTCV_START_LINE_CONTROL,VAR_3
+set_reg_field_value,FUNC_2
+dce110_timing_generator_v_enable_advanced_request,FUNC_3
+tg,VAR_4
+enable,VAR_5
+timing,VAR_6
+addr,VAR_7
+value,VAR_8

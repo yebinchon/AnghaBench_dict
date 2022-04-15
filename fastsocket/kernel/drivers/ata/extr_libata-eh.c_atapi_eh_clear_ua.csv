@@ -1,0 +1,14 @@
+AC_ERR_DEV,VAR_0
+ATA_EH_UA_TRIES,VAR_1
+EIO,VAR_2
+KERN_WARNING,VAR_3
+UNIT_ATTENTION,VAR_4
+ata_dev_printk,FUNC_0
+atapi_eh_request_sense,FUNC_1
+atapi_eh_tur,FUNC_2
+atapi_eh_clear_ua,FUNC_3
+dev,VAR_5
+i,VAR_6
+sense_buffer,VAR_7
+sense_key,VAR_8
+err_mask,VAR_9

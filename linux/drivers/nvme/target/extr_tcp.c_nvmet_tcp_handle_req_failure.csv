@@ -1,0 +1,15 @@
+NVMET_TCP_F_INIT_FAILED,VAR_0
+NVMET_TCP_RECV_DATA,VAR_1
+le32_to_cpu,FUNC_0
+nvme_is_write,FUNC_1
+nvmet_prepare_receive_pdu,FUNC_2
+nvmet_tcp_fatal_error,FUNC_3
+nvmet_tcp_map_data,FUNC_4
+nvmet_tcp_map_pdu_iovec,FUNC_5
+pr_err,FUNC_6
+unlikely,FUNC_7
+nvmet_tcp_handle_req_failure,FUNC_8
+queue,VAR_2
+cmd,VAR_3
+req,VAR_4
+ret,VAR_5

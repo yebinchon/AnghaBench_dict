@@ -1,0 +1,15 @@
+ATTR_CMN_ACCTIME,VAR_0
+ATTR_CMN_MODTIME,VAR_1
+TIMEVAL_TO_TIMESPEC,FUNC_0
+UTIME_NOW,VAR_2
+UTIME_OMIT,VAR_3
+__commpage_gettimeofday,FUNC_1
+__gettimeofday,FUNC_2
+prepare_times_array_and_attrs,FUNC_3
+times_in,VAR_4
+times_out,VAR_5
+times_out_size,VAR_6
+now,VAR_7
+tv,VAR_8
+attrs,VAR_9
+times_cursor,VAR_10

@@ -1,0 +1,16 @@
+sati_scsi_common_descriptor_sense_construct,FUNC_0
+sati_scsi_get_sense_data_buffer,FUNC_1
+sati_set_sense_data_byte,FUNC_2
+sati_scsi_read_ncq_error_descriptor_sense_construct,FUNC_3
+sequence,VAR_0
+scsi_io,VAR_1
+ata_input_data,VAR_2
+scsi_status,VAR_3
+response_code,VAR_4
+sense_key,VAR_5
+additional_sense_code,VAR_6
+additional_sense_code_qualifier,VAR_7
+sense_data,VAR_8
+sense_len,VAR_9
+information_buff,VAR_10
+ncq_log,VAR_11

@@ -1,0 +1,14 @@
+KASSERT,FUNC_0
+VM_OBJECT_ASSERT_WLOCKED,FUNC_1
+VPO_UNMANAGED,VAR_0
+VPR_TRYFREE,VAR_1
+pmap_page_is_mapped,FUNC_2
+vm_page_busied,FUNC_3
+vm_page_free,FUNC_4
+vm_page_lock,FUNC_5
+vm_page_release_toq,FUNC_6
+vm_page_unlock,FUNC_7
+vm_page_unwire_noq,FUNC_8
+vm_page_release_locked,FUNC_9
+m,VAR_2
+flags,VAR_3

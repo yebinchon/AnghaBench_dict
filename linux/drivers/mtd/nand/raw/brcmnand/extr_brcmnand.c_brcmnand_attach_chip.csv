@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+NAND_BBT_NO_OOB,VAR_1
+NAND_BBT_USE_FLASH,VAR_2
+NAND_NO_SUBPAGE_WRITE,VAR_3
+NAND_USE_BOUNCE_BUFFER,VAR_4
+brcmnand_setup_dev,FUNC_0
+brcmstb_choose_ecc_layout,FUNC_1
+nand_get_controller_data,FUNC_2
+nand_to_mtd,FUNC_3
+brcmnand_attach_chip,FUNC_4
+chip,VAR_5
+mtd,VAR_6
+host,VAR_7
+ret,VAR_8

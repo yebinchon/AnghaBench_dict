@@ -1,0 +1,17 @@
+chipcHw_CLOCK_ARM,VAR_0
+chipcHw_CLOCK_BUS,VAR_1
+chipcHw_CLOCK_DDR,VAR_2
+chipcHw_CLOCK_RTBUS,VAR_3
+chipcHw_CLOCK_VPM,VAR_4
+chipcHw_REG_ACLKClock_CLK_DIV_MASK,VAR_5
+chipcHw_REG_STICKY_CHIP_SOFT_RESET,VAR_6
+chipcHw_REG_STICKY_CHIP_WARM_RESET,VAR_7
+chipcHw_clearStickyBits,FUNC_0
+chipcHw_getStickyBits,FUNC_1
+chipcHw_pll1Enable,FUNC_2
+chipcHw_pll2Enable,FUNC_3
+chipcHw_setClockFrequency,FUNC_4
+delay_init,FUNC_5
+pChipcHw,VAR_8
+chipcHw_Init,FUNC_6
+initParam,VAR_9

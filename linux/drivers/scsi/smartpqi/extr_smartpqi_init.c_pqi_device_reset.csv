@@ -1,0 +1,15 @@
+FAILED,VAR_0
+_pqi_device_reset,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pqi_ctrl_block_requests,FUNC_3
+pqi_ctrl_unblock_requests,FUNC_4
+pqi_ctrl_wait_until_quiesced,FUNC_5
+pqi_device_reset_done,FUNC_6
+pqi_device_reset_start,FUNC_7
+pqi_fail_io_queued_for_device,FUNC_8
+pqi_wait_until_inbound_queues_empty,FUNC_9
+pqi_device_reset,FUNC_10
+ctrl_info,VAR_1
+device,VAR_2
+rc,VAR_3

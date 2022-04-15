@@ -1,0 +1,16 @@
+JME_NAPI_DISABLE,FUNC_0
+jme_disable_rx_engine,FUNC_1
+jme_disable_tx_engine,FUNC_2
+jme_free_irq,FUNC_3
+jme_free_rx_resources,FUNC_4
+jme_free_tx_resources,FUNC_5
+jme_phy_off,FUNC_6
+jme_reset_mac_processor,FUNC_7
+jme_stop_irq,FUNC_8
+netdev_priv,FUNC_9
+netif_carrier_off,FUNC_10
+netif_stop_queue,FUNC_11
+tasklet_kill,FUNC_12
+jme_close,FUNC_13
+netdev,VAR_0
+jme,VAR_1

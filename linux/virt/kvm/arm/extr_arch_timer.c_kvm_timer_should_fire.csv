@@ -1,0 +1,15 @@
+ARCH_TIMER_CTRL_ENABLE,VAR_0
+ARCH_TIMER_CTRL_IT_MASK,VAR_1
+ARCH_TIMER_CTRL_IT_STAT,VAR_2
+SYS_CNTP_CTL,VAR_3
+SYS_CNTV_CTL,VAR_4
+arch_timer_ctx_index,FUNC_0
+kvm_phys_timer_read,FUNC_1
+kvm_timer_irq_can_fire,FUNC_2
+read_sysreg_el0,FUNC_3
+kvm_timer_should_fire,FUNC_4
+timer_ctx,VAR_5
+index,VAR_6
+cval,VAR_7
+now,VAR_8
+cnt_ctl,VAR_9

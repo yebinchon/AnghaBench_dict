@@ -1,0 +1,12 @@
+RTCSB_24HR,VAR_0
+RTC_INTR,VAR_1
+RTC_STATUSA,VAR_2
+RTC_STATUSB,VAR_3
+atrtc_lock,VAR_4
+mtx_lock_spin,FUNC_0
+mtx_unlock_spin,FUNC_1
+rtc_statusa,VAR_5
+rtc_statusb,VAR_6
+rtcin_locked,FUNC_2
+rtcout_locked,FUNC_3
+atrtc_restore,FUNC_4

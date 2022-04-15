@@ -1,0 +1,14 @@
+XFER_MW_DMA_0,VAR_0
+XFER_PIO_0,VAR_1
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+to_pci_dev,FUNC_2
+sis_ata100_program_timings,FUNC_3
+drive,VAR_2
+mode,VAR_3
+dev,VAR_4
+t1,VAR_5
+drive_pci,VAR_6
+pio_timings,VAR_7
+mwdma_timings,VAR_8
+t2,VAR_9

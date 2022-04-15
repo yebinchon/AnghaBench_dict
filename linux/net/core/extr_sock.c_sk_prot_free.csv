@@ -1,0 +1,11 @@
+cgroup_sk_free,FUNC_0
+kfree,FUNC_1
+kmem_cache_free,FUNC_2
+mem_cgroup_sk_free,FUNC_3
+module_put,FUNC_4
+security_sk_free,FUNC_5
+sk_prot_free,FUNC_6
+prot,VAR_0
+sk,VAR_1
+slab,VAR_2
+owner,VAR_3

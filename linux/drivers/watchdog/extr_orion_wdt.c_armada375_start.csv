@@ -1,0 +1,14 @@
+TIMER1_ENABLE_BIT,VAR_0
+TIMER1_VAL_OFF,VAR_1
+TIMER_A370_STATUS,VAR_2
+TIMER_CTRL,VAR_3
+WDIOF_PRETIMEOUT,VAR_4
+WDT_A370_EXPIRED,VAR_5
+atomic_io_modify,FUNC_0
+readl,FUNC_1
+watchdog_get_drvdata,FUNC_2
+writel,FUNC_3
+armada375_start,FUNC_4
+wdt_dev,VAR_6
+dev,VAR_7
+reg,VAR_8

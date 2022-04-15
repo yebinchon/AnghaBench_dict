@@ -1,0 +1,15 @@
+BREAKPOINT_INSTRUCTION,VAR_0
+KPROBE_HIT_SS,VAR_1
+KPROBE_REENTER,VAR_2
+X86_EFLAGS_IF,VAR_3
+X86_EFLAGS_TF,VAR_4
+clear_btf,FUNC_0
+reset_current_kprobe,FUNC_1
+save_previous_kprobe,FUNC_2
+set_current_kprobe,FUNC_3
+setup_detour_execution,FUNC_4
+setup_singlestep,FUNC_5
+p,VAR_5
+regs,VAR_6
+kcb,VAR_7
+reenter,VAR_8

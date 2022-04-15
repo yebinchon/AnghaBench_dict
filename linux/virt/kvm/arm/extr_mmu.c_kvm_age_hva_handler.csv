@@ -1,0 +1,16 @@
+PAGE_SIZE,VAR_0
+PMD_SIZE,VAR_1
+PUD_SIZE,VAR_2
+WARN_ON,FUNC_0
+stage2_get_leaf_entry,FUNC_1
+stage2_pmdp_test_and_clear_young,FUNC_2
+stage2_ptep_test_and_clear_young,FUNC_3
+stage2_pudp_test_and_clear_young,FUNC_4
+kvm_age_hva_handler,FUNC_5
+kvm,VAR_3
+gpa,VAR_4
+size,VAR_5
+data,VAR_6
+pud,VAR_7
+pmd,VAR_8
+pte,VAR_9

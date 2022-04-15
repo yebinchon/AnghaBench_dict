@@ -1,0 +1,16 @@
+BATADV_TP_REASON_MEMORY_ERROR,VAR_0
+IS_ERR,FUNC_0
+batadv_tp_batctl_error_notify,FUNC_1
+batadv_tp_send,VAR_1
+batadv_tp_sender_cleanup,FUNC_2
+batadv_tp_session_cookie,FUNC_3
+batadv_tp_vars_put,FUNC_4
+kref_get,FUNC_5
+kthread_create,FUNC_6
+pr_err,FUNC_7
+wake_up_process,FUNC_8
+batadv_tp_start_kthread,FUNC_9
+tp_vars,VAR_2
+kthread,VAR_3
+bat_priv,VAR_4
+session_cookie,VAR_5

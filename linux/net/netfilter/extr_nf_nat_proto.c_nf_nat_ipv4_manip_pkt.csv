@@ -1,0 +1,11 @@
+NF_NAT_MANIP_SRC,VAR_0
+csum_replace4,FUNC_0
+l4proto_manip_pkt,FUNC_1
+skb_ensure_writable,FUNC_2
+nf_nat_ipv4_manip_pkt,FUNC_3
+skb,VAR_1
+iphdroff,VAR_2
+target,VAR_3
+maniptype,VAR_4
+iph,VAR_5
+hdroff,VAR_6

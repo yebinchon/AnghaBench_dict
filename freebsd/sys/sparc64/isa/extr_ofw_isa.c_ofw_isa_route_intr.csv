@@ -1,0 +1,11 @@
+PCIB_ROUTE_INTERRUPT,FUNC_0
+device_get_parent,FUNC_1
+ofw_bus_lookup_imap,FUNC_2
+ofw_isa_route_intr,FUNC_3
+bridge,VAR_0
+node,VAR_1
+ii,VAR_2
+intr,VAR_3
+reg,VAR_4
+pbridge,VAR_5
+mintr,VAR_6

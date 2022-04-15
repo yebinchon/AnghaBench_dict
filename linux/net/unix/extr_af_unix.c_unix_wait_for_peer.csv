@@ -1,0 +1,17 @@
+DEFINE_WAIT,FUNC_0
+RCV_SHUTDOWN,VAR_0
+SOCK_DEAD,VAR_1
+TASK_INTERRUPTIBLE,VAR_2
+finish_wait,FUNC_1
+prepare_to_wait_exclusive,FUNC_2
+schedule_timeout,FUNC_3
+sock_flag,FUNC_4
+unix_recvq_full,FUNC_5
+unix_sk,FUNC_6
+unix_state_unlock,FUNC_7
+wait,VAR_3
+unix_wait_for_peer,FUNC_8
+other,VAR_4
+timeo,VAR_5
+u,VAR_6
+sched,VAR_7

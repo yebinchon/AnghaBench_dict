@@ -1,0 +1,13 @@
+SEEK_SET,VAR_0
+TSDB_KEYSIZE,VAR_1
+TWO_STAGE_COMP,VAR_2
+UNUSED,FUNC_0
+fseek,FUNC_1
+fwrite,FUNC_2
+shrinkBuffer,FUNC_3
+tsCompressTimestamp,FUNC_4
+writeDataToDisk,FUNC_5
+pTSBuf,VAR_3
+pBlock,VAR_4
+r,VAR_5
+blockSize,VAR_6

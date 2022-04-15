@@ -1,0 +1,17 @@
+SN_PCIDEV_BUSSOFT,FUNC_0
+SN_PCIDEV_INFO,FUNC_1
+call_rcu,FUNC_2
+free_irq_vector,FUNC_3
+kfree,FUNC_4
+list_del_rcu,FUNC_5
+list_empty,FUNC_6
+pci_dev_put,FUNC_7
+sn_irq_info_free,VAR_0
+sn_irq_info_lock,VAR_1
+sn_irq_lh,VAR_2
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+unregister_intr_pda,FUNC_10
+sn_irq_unfixup,FUNC_11
+pci_dev,VAR_3
+sn_irq_info,VAR_4

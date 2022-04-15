@@ -1,0 +1,11 @@
+EXPOSURE_KNEE,VAR_0
+GAIN_KNEE,VAR_1
+PAC_AUTOGAIN_IGNORE_FRAMES,VAR_2
+atomic_read,FUNC_0
+gspca_auto_gain_n_exposure,FUNC_1
+do_autogain,FUNC_2
+gspca_dev,VAR_3
+sd,VAR_4
+avg_lum,VAR_5
+desired_lum,VAR_6
+deadzone,VAR_7

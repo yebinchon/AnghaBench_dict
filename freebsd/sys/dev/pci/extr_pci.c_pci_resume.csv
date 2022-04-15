@@ -1,0 +1,12 @@
+BUS_RESUME_CHILD,FUNC_0
+M_TEMP,VAR_0
+device_get_children,FUNC_1
+free,FUNC_2
+pci_get_class,FUNC_3
+pci_resume,FUNC_4
+dev,VAR_1
+child,VAR_2
+devlist,VAR_3
+error,VAR_4
+i,VAR_5
+numdevs,VAR_6

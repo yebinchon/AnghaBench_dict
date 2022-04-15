@@ -1,0 +1,17 @@
+ETH_RAMROD_RX_QUEUE_STOP,VAR_0
+PROTOCOLID_ETH,VAR_1
+QED_QUEUE_CID_SELF,VAR_2
+QED_SPQ_MODE_EBLOCK,VAR_3
+cpu_to_le16,FUNC_0
+memset,FUNC_1
+qed_sp_init_request,FUNC_2
+qed_spq_post,FUNC_3
+qed_eth_pf_rx_queue_stop,FUNC_4
+p_hwfn,VAR_4
+p_cid,VAR_5
+b_eq_completion_only,VAR_6
+b_cqe_completion,VAR_7
+p_ramrod,VAR_8
+p_ent,VAR_9
+init_data,VAR_10
+rc,VAR_11

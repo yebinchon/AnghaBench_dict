@@ -1,0 +1,15 @@
+__cbc_decrypt,FUNC_0
+cast5_fpu_begin,FUNC_1
+cast5_fpu_end,FUNC_2
+crypto_skcipher_ctx,FUNC_3
+crypto_skcipher_reqtfm,FUNC_4
+skcipher_walk_done,FUNC_5
+skcipher_walk_virt,FUNC_6
+cbc_decrypt,FUNC_7
+req,VAR_0
+tfm,VAR_1
+ctx,VAR_2
+fpu_enabled,VAR_3
+walk,VAR_4
+nbytes,VAR_5
+err,VAR_6

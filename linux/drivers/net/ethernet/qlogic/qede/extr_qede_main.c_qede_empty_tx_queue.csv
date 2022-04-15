@@ -1,0 +1,16 @@
+DP_NOTICE,FUNC_0
+DP_VERBOSE,FUNC_1
+NETIF_MSG_IFDOWN,VAR_0
+netdev_get_tx_queue,FUNC_2
+netdev_tx_completed_queue,FUNC_3
+qed_chain_get_cons_idx,FUNC_4
+qed_chain_get_prod_idx,FUNC_5
+qede_free_tx_pkt,FUNC_6
+qede_empty_tx_queue,FUNC_7
+edev,VAR_1
+txq,VAR_2
+pkts_compl,VAR_3
+bytes_compl,VAR_4
+netdev_txq,VAR_5
+rc,VAR_6
+len,VAR_7

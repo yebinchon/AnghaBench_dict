@@ -1,0 +1,16 @@
+BUG,FUNC_0
+TASKLET_STATE_SCHED,VAR_0
+__raise_softirq_irqoff,FUNC_1
+atomic_read,FUNC_2
+local_irq_disable,FUNC_3
+local_irq_enable,FUNC_4
+stub1,FUNC_5
+tasklet_trylock,FUNC_6
+tasklet_unlock,FUNC_7
+test_and_clear_bit,FUNC_8
+tasklet_action_common,FUNC_9
+a,VAR_1
+tl_head,VAR_2
+softirq_nr,VAR_3
+list,VAR_4
+t,VAR_5

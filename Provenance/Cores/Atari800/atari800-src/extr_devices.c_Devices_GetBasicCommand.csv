@@ -1,0 +1,17 @@
+BINLOAD_LOADING_BASIC_LISTED,VAR_0
+BINLOAD_LOADING_BASIC_SAVED,VAR_1
+BINLOAD_loading_basic,VAR_2
+CPU_ClrN,VAR_3
+CPU_regA,VAR_4
+CPU_regY,VAR_5
+CPU_rts_handler,VAR_6
+Devices_E_Read,VAR_7
+Devices_OpenBasicFile,VAR_8
+Devices_RestoreEHREAD,VAR_9
+ESC_AddEscRts,FUNC_0
+ESC_EHOPEN,VAR_10
+ESC_EHREAD,VAR_11
+basic_command_ptr,VAR_12
+ehopen_addr,VAR_13
+ehread_addr,VAR_14
+Devices_GetBasicCommand,FUNC_1

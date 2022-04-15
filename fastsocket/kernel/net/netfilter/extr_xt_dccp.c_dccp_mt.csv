@@ -1,0 +1,15 @@
+DCCHECK,FUNC_0
+XT_DCCP_DEST_PORTS,VAR_0
+XT_DCCP_OPTION,VAR_1
+XT_DCCP_SRC_PORTS,VAR_2
+XT_DCCP_TYPE,VAR_3
+match_option,FUNC_1
+match_types,FUNC_2
+ntohs,FUNC_3
+skb_header_pointer,FUNC_4
+dccp_mt,FUNC_5
+skb,VAR_4
+par,VAR_5
+info,VAR_6
+dh,VAR_7
+_dh,VAR_8

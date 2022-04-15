@@ -1,0 +1,14 @@
+CLASS_INET,VAR_0
+EVDNS_ANSWER_SECTION,VAR_1
+TYPE_PTR,VAR_2
+evdns_server_request_add_reply,FUNC_0
+evutil_snprintf,FUNC_1
+ntohl,FUNC_2
+evdns_server_request_add_ptr_reply,FUNC_3
+req,VAR_3
+in,VAR_4
+inaddr_name,VAR_5
+hostname,VAR_6
+ttl,VAR_7
+a,VAR_8
+buf,VAR_9

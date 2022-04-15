@@ -1,0 +1,14 @@
+USB_ENDPOINT_XFER_BULK,VAR_0
+USB_ENDPOINT_XFER_INT,VAR_1
+gadget_find_ep_by_name,FUNC_0
+snprintf,FUNC_1
+usb_endpoint_dir_in,FUNC_2
+usb_endpoint_num,FUNC_3
+usb_endpoint_type,FUNC_4
+usb_gadget_ep_match_desc,FUNC_5
+net2280_match_ep,FUNC_6
+_gadget,VAR_2
+desc,VAR_3
+ep_comp,VAR_4
+name,VAR_5
+ep,VAR_6

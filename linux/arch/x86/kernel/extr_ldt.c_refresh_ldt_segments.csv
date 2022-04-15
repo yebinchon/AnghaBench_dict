@@ -1,0 +1,7 @@
+SEGMENT_LDT,VAR_0
+SEGMENT_TI_MASK,VAR_1
+ds,VAR_2
+es,VAR_3
+loadsegment,FUNC_0
+savesegment,FUNC_1
+refresh_ldt_segments,FUNC_2

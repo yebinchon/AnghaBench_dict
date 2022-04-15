@@ -1,0 +1,12 @@
+CSR_READ,FUNC_0
+EIO,VAR_0
+JZ_RTC_TIMEOUT,VAR_1
+JZ_RTSR,VAR_2
+device_get_softc,FUNC_1
+jz4780_rtc_gettime,FUNC_2
+dev,VAR_3
+ts,VAR_4
+sc,VAR_5
+val1,VAR_6
+val2,VAR_7
+timeout,VAR_8

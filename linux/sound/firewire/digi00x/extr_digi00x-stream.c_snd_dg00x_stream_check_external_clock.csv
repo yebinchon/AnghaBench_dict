@@ -1,0 +1,10 @@
+DG00X_ADDR_BASE,VAR_0
+DG00X_OFFSET_DETECT_EXTERNAL,VAR_1
+TCODE_READ_QUADLET_REQUEST,VAR_2
+be32_to_cpu,FUNC_0
+snd_fw_transaction,FUNC_1
+snd_dg00x_stream_check_external_clock,FUNC_2
+dg00x,VAR_3
+detect,VAR_4
+reg,VAR_5
+err,VAR_6

@@ -1,0 +1,10 @@
+IF_LOCK,FUNC_0
+IF_UNLOCK,FUNC_1
+ieee80211_free_node,FUNC_2
+m_freem,FUNC_3
+ieee80211_flush_ifq,FUNC_4
+ifq,VAR_0
+vap,VAR_1
+ni,VAR_2
+m,VAR_3
+mprev,VAR_4

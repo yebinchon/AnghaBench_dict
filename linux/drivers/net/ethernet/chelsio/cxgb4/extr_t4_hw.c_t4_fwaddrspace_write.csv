@@ -1,0 +1,17 @@
+FW_CMD_OP_V,FUNC_0
+FW_CMD_REQUEST_F,VAR_0
+FW_CMD_WRITE_F,VAR_1
+FW_LDST_ADDRSPC_FIRMWARE,VAR_2
+FW_LDST_CMD,VAR_3
+FW_LDST_CMD_ADDRSPACE_V,FUNC_1
+FW_LEN16,FUNC_2
+cpu_to_be32,FUNC_3
+memset,FUNC_4
+t4_wr_mbox,FUNC_5
+t4_fwaddrspace_write,FUNC_6
+adap,VAR_4
+mbox,VAR_5
+addr,VAR_6
+val,VAR_7
+ldst_addrspace,VAR_8
+c,VAR_9

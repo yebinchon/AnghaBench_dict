@@ -1,0 +1,13 @@
+HPTS_REMOVE_INPUT,VAR_0
+HPTS_REMOVE_OUTPUT,VAR_1
+INP_WLOCK_ASSERT,FUNC_0
+mtx_unlock,FUNC_1
+tcp_hpts_lock,FUNC_2
+tcp_hpts_remove_locked_input,FUNC_3
+tcp_hpts_remove_locked_output,FUNC_4
+tcp_input_lock,FUNC_5
+__tcp_hpts_remove,FUNC_6
+inp,VAR_2
+flags,VAR_3
+line,VAR_4
+hpts,VAR_5

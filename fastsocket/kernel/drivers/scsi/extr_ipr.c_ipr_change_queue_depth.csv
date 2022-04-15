@@ -1,0 +1,15 @@
+EOPNOTSUPP,VAR_0
+IPR_MAX_CMD_PER_ATA_LUN,VAR_1
+SCSI_QDEPTH_DEFAULT,VAR_2
+ipr_is_gata,FUNC_0
+scsi_adjust_queue_depth,FUNC_1
+scsi_get_tag_type,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ipr_change_queue_depth,FUNC_5
+sdev,VAR_3
+qdepth,VAR_4
+reason,VAR_5
+ioa_cfg,VAR_6
+res,VAR_7
+lock_flags,VAR_8

@@ -1,0 +1,15 @@
+ETH_ALEN,VAR_0
+FTGMAC100_OFFSET_MAC_LADR,VAR_1
+FTGMAC100_OFFSET_MAC_MADR,VAR_2
+dev_info,FUNC_0
+device_get_mac_address,FUNC_1
+eth_hw_addr_random,FUNC_2
+ether_addr_copy,FUNC_3
+ioread32,FUNC_4
+is_valid_ether_addr,FUNC_5
+ftgmac100_initial_mac,FUNC_6
+priv,VAR_3
+mac,VAR_4
+m,VAR_5
+l,VAR_6
+addr,VAR_7

@@ -1,0 +1,16 @@
+SATI_DATA_DIRECTION_IN,VAR_0
+SAT_PROTOCOL_UDMA_DATA_IN,VAR_1
+SAT_PROTOCOL_UDMA_DATA_OUT,VAR_2
+sati_cb_get_cdb_address,FUNC_0
+sati_cb_get_h2d_register_fis_address,FUNC_1
+sati_get_cdb_byte,FUNC_2
+sati_move_set_ata_command,FUNC_3
+sati_set_ata_sector_count,FUNC_4
+sati_move_small_udma_translate_command,FUNC_5
+sequence,VAR_3
+scsi_io,VAR_4
+ata_io,VAR_5
+write_opcode,VAR_6
+read_opcode,VAR_7
+cdb,VAR_8
+register_fis,VAR_9

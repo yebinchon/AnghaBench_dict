@@ -1,0 +1,12 @@
+UART_PORT_COMBINED_IRQ,VAR_0
+UARTn_CTRL,VAR_1
+UARTn_CTRL_RX_GRP,VAR_2
+UARTn_CTRL_TX_GRP,VAR_3
+free_irq,FUNC_0
+mps2_uart_read8,FUNC_1
+mps2_uart_write8,FUNC_2
+to_mps2_port,FUNC_3
+mps2_uart_shutdown,FUNC_4
+port,VAR_4
+mps_port,VAR_5
+control,VAR_6

@@ -1,0 +1,14 @@
+ACPI_FAILURE,FUNC_0
+ENXIO,VAR_0
+acpi_GetInteger,FUNC_1
+acpi_battery_register,FUNC_2
+acpi_get_handle,FUNC_3
+devclass_find,FUNC_4
+devclass_get_device,FUNC_5
+device_get_softc,FUNC_6
+device_printf,FUNC_7
+timespecclear,FUNC_8
+acpi_smbat_attach,FUNC_9
+dev,VAR_1
+sc,VAR_2
+base,VAR_3

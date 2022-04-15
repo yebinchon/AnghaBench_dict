@@ -1,0 +1,17 @@
+AMDGPU_GEM_DOMAIN_VRAM,VAR_0
+AMDGPU_MAX_COMPUTE_QUEUES,VAR_1
+GFX7_MEC_HPD_SIZE,VAR_2
+PAGE_SIZE,VAR_3
+amdgpu_bo_create_reserved,FUNC_0
+amdgpu_bo_kunmap,FUNC_1
+amdgpu_bo_unreserve,FUNC_2
+amdgpu_gfx_compute_queue_acquire,FUNC_3
+bitmap_zero,FUNC_4
+dev_warn,FUNC_5
+gfx_v7_0_mec_fini,FUNC_6
+memset,FUNC_7
+gfx_v7_0_mec_init,FUNC_8
+adev,VAR_4
+r,VAR_5
+hpd,VAR_6
+mec_hpd_size,VAR_7

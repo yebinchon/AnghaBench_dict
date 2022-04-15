@@ -1,0 +1,13 @@
+REG_READ,FUNC_0
+REG_WRITE,FUNC_1
+RTC_ENTRY_ADDR_REG,VAR_0
+RTC_MEMORY_CRC_REG,VAR_1
+_lock_acquire,FUNC_2
+_lock_release,FUNC_3
+esp_ptr_executable,FUNC_4
+lock_rtc_memory_crc,VAR_2
+set_rtc_memory_crc,FUNC_5
+esp_get_deep_sleep_wake_stub,FUNC_6
+stored_crc,VAR_3
+calc_crc,VAR_4
+stub_ptr,VAR_5

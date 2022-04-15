@@ -1,0 +1,16 @@
+KM_SLEEP,VAR_0
+MAX,FUNC_0
+M_WAITOK,VAR_1
+TASKQ_THREADS_CPU_PCT,VAR_2
+kmem_alloc,FUNC_1
+mp_ncpus,VAR_3
+taskqueue_create,FUNC_2
+taskqueue_start_threads_in_proc,FUNC_3
+taskqueue_thread_enqueue,VAR_4
+taskq_create_impl,FUNC_4
+name,VAR_5
+nthreads,VAR_6
+pri,VAR_7
+proc,VAR_8
+flags,VAR_9
+tq,VAR_10

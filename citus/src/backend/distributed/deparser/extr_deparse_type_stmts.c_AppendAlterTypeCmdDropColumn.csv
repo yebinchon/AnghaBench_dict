@@ -1,0 +1,9 @@
+AT_DropColumn,VAR_0
+Assert,FUNC_0
+DROP_CASCADE,VAR_1
+appendStringInfo,FUNC_1
+appendStringInfoString,FUNC_2
+quote_identifier,FUNC_3
+AppendAlterTypeCmdDropColumn,FUNC_4
+buf,VAR_2
+alterTableCmd,VAR_3

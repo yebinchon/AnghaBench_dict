@@ -1,0 +1,15 @@
+SNDRV_PCM_FMTBIT_S32,VAR_0
+SNDRV_PCM_RATE_44100,VAR_1
+SNDRV_PCM_RATE_48000,VAR_2
+SNDRV_PCM_RATE_88200,VAR_3
+SNDRV_PCM_RATE_96000,VAR_4
+SNDRV_PCM_STREAM_CAPTURE,VAR_5
+amdtp_tscm_add_pcm_hw_constraints,FUNC_0
+snd_pcm_limit_hw_rates,FUNC_1
+pcm_init_hw_params,FUNC_2
+tscm,VAR_6
+substream,VAR_7
+runtime,VAR_8
+hw,VAR_9
+stream,VAR_10
+pcm_channels,VAR_11

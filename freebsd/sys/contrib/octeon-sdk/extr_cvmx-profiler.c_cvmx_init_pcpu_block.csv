@@ -1,0 +1,12 @@
+EVENT_BUFFER_BLOCK,VAR_0
+PADBYTES,VAR_1
+assert,FUNC_0
+cvmx_atomic_set32,FUNC_1
+cvmx_get_memory_addr,FUNC_2
+eccb,VAR_2
+pcpu_cfg_blk,VAR_3
+read_percpu_block,VAR_4
+cvmx_init_pcpu_block,FUNC_3
+cpu,VAR_5
+size,VAR_6
+cpu_buf,VAR_7

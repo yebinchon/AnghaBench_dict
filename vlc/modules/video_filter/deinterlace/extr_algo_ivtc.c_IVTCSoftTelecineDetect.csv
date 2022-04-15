@@ -1,0 +1,15 @@
+CADENCE_POS_INVALID,VAR_0
+IVTC_MODE_TELECINED_NTSC_SOFT,VAR_1
+TFD_INVALID,VAR_2
+assert,FUNC_0
+msg_Dbg,FUNC_1
+IVTCSoftTelecineDetect,FUNC_2
+p_filter,VAR_3
+p_sys,VAR_4
+p_ivtc,VAR_5
+p_prev,VAR_6
+p_curr,VAR_7
+p_next,VAR_8
+b_soft_telecine_1,VAR_9
+b_soft_telecine_2,VAR_10
+b_soft_telecine_3,VAR_11

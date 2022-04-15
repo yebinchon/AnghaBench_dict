@@ -1,0 +1,11 @@
+VM_MEMATTR_UNCACHEABLE,VAR_0
+VM_MEMATTR_WRITE_BACK,VAR_1
+VM_MEMATTR_WRITE_COMBINING,VAR_2
+pmap_page_set_memattr,FUNC_0
+tt_cached,VAR_3
+tt_uncached,VAR_4
+tt_wc,VAR_5
+ttm_tt_set_page_caching,FUNC_1
+p,VAR_6
+c_old,VAR_7
+c_new,VAR_8

@@ -1,0 +1,16 @@
+WRITE_ONCE,FUNC_0
+atomic_dec_and_test,FUNC_1
+bio_check_pages_dirty,FUNC_2
+bio_put,FUNC_3
+bio_release_pages,FUNC_4
+blk_status_to_errno,FUNC_5
+blk_wake_io_task,FUNC_6
+likely,FUNC_7
+stub1,FUNC_8
+blkdev_bio_end_io,FUNC_9
+bio,VAR_0
+dio,VAR_1
+should_dirty,VAR_2
+iocb,VAR_3
+ret,VAR_4
+waiter,VAR_5

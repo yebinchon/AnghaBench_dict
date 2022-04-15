@@ -1,0 +1,13 @@
+LOG_ERR,VAR_0
+PATH_DEVD_PIPE,VAR_1
+PF_LOCAL,VAR_2
+SOCK_STREAM,VAR_3
+bzero,FUNC_0
+close,FUNC_1
+connect,FUNC_2
+socket,FUNC_3
+strlcpy,FUNC_4
+syslog,FUNC_5
+create_devd_socket,FUNC_6
+d_sock,VAR_4
+devd_addr,VAR_5

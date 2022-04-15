@@ -1,0 +1,11 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+nfs_inode_remove_request,FUNC_2
+nfs_lock_and_join_requests,FUNC_3
+nfs_unlock_and_release_request,FUNC_4
+wait_on_page_writeback,FUNC_5
+nfs_wb_page_cancel,FUNC_6
+inode,VAR_0
+page,VAR_1
+req,VAR_2
+ret,VAR_3

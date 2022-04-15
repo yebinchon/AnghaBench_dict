@@ -1,0 +1,11 @@
+L4_CHECKSUM_DIS_AND_L3_CHECKSUM_DIS,VAR_0
+L4_CHECKSUM_DIS_AND_L3_CHECKSUM_EN,VAR_1
+L4_CHECKSUM_EN_AND_L3_CHECKSUM_DIS,VAR_2
+L4_CHECKSUM_EN_AND_L3_CHECKSUM_EN,VAR_3
+al_reg_write32,FUNC_0
+al_eth_tx_crc_chksum_replace_cmd_entry_set,FUNC_1
+adapter,VAR_4
+idx,VAR_5
+tx_replace_entry,VAR_6
+replace_table_address,VAR_7
+tx_replace_cmd,VAR_8

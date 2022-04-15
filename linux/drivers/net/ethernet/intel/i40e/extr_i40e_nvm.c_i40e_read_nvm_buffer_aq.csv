@@ -1,0 +1,14 @@
+I40E_SR_SECTOR_SIZE_IN_WORDS,VAR_0
+i40e_read_nvm_aq,FUNC_0
+le16_to_cpu,FUNC_1
+min,FUNC_2
+i40e_read_nvm_buffer_aq,FUNC_3
+hw,VAR_1
+offset,VAR_2
+words,VAR_3
+data,VAR_4
+ret_code,VAR_5
+read_size,VAR_6
+last_cmd,VAR_7
+words_read,VAR_8
+i,VAR_9

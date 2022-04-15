@@ -1,0 +1,8 @@
+destroy_dev,FUNC_0
+g_topology_lock,FUNC_1
+g_topology_unlock,FUNC_2
+nvdimm_spa_g_destroy_geom,FUNC_3
+pmap_large_unmap,FUNC_4
+vm_object_deallocate,FUNC_5
+nvdimm_spa_dev_fini,FUNC_6
+dev,VAR_0

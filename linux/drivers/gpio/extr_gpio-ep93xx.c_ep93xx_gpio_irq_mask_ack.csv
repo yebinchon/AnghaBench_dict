@@ -1,0 +1,17 @@
+BIT,FUNC_0
+IRQ_TYPE_EDGE_BOTH,VAR_0
+eoi_register_offset,VAR_1
+ep93xx_gpio_port,FUNC_1
+ep93xx_gpio_update_int_params,FUNC_2
+gpio_int_type2,VAR_2
+gpio_int_unmasked,VAR_3
+gpiochip_get_data,FUNC_3
+irq_data_get_irq_chip_data,FUNC_4
+irqd_get_trigger_type,FUNC_5
+writeb,FUNC_6
+ep93xx_gpio_irq_mask_ack,FUNC_7
+d,VAR_4
+gc,VAR_5
+epg,VAR_6
+port,VAR_7
+port_mask,VAR_8

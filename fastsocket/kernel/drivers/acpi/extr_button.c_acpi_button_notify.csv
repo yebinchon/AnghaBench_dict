@@ -1,0 +1,17 @@
+ACPI_BUTTON_TYPE_LID,VAR_0
+ACPI_DB_INFO,VAR_1
+ACPI_DEBUG_PRINT,FUNC_0
+KEY_POWER,VAR_2
+KEY_SLEEP,VAR_3
+acpi_bus_generate_proc_event,FUNC_1
+acpi_driver_data,FUNC_2
+acpi_lid_send_state,FUNC_3
+input_report_key,FUNC_4
+input_sync,FUNC_5
+test_bit,FUNC_6
+acpi_button_notify,FUNC_7
+device,VAR_4
+event,VAR_5
+button,VAR_6
+input,VAR_7
+keycode,VAR_8

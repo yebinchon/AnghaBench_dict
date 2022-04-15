@@ -1,0 +1,17 @@
+DSP_VC_SET_GD_AUDIO_STATE,VAR_0
+EIO,VAR_1
+GD_CLOCK_44,VAR_2
+GD_CLOCK_48,VAR_3
+GD_CLOCK_NOCHANGE,VAR_4
+GD_SPDIF_STATUS_44,VAR_5
+GD_SPDIF_STATUS_48,VAR_6
+GD_SPDIF_STATUS_NOCHANGE,VAR_7
+clear_handshake,FUNC_0
+cpu_to_le32,FUNC_1
+send_vector,FUNC_2
+wait_handshake,FUNC_3
+set_sample_rate,FUNC_4
+chip,VAR_8
+rate,VAR_9
+clock_state,VAR_10
+spdif_status,VAR_11

@@ -1,0 +1,14 @@
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_generic_detach,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_softc,FUNC_3
+free,FUNC_4
+rman_get_rid,FUNC_5
+sdhci_cleanup_slot,FUNC_6
+sdhci_fdt_gpio_teardown,FUNC_7
+sdhci_xenon_detach,FUNC_8
+dev,VAR_3
+sc,VAR_4

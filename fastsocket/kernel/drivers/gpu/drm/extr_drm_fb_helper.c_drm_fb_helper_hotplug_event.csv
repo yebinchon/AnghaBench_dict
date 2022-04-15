@@ -1,0 +1,16 @@
+DRM_DEBUG_KMS,FUNC_0
+drm_fb_helper_is_bound,FUNC_1
+drm_fb_helper_probe_connector_modes,FUNC_2
+drm_fb_helper_set_par,FUNC_3
+drm_modeset_lock_all,FUNC_4
+drm_modeset_unlock_all,FUNC_5
+drm_setup_crtcs,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+drm_fb_helper_hotplug_event,FUNC_9
+fb_helper,VAR_0
+dev,VAR_1
+count,VAR_2
+max_width,VAR_3
+max_height,VAR_4
+bpp_sel,VAR_5

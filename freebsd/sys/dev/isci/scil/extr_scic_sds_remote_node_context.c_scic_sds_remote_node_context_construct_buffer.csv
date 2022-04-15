@@ -1,0 +1,12 @@
+FALSE,VAR_0
+SCIC_SWAP_DWORD,FUNC_0
+TRUE,VAR_1
+memset,FUNC_1
+scic_sds_controller_get_remote_node_context_buffer,FUNC_2
+scic_sds_remote_device_get_controller,FUNC_3
+scic_sds_remote_device_get_port_index,FUNC_4
+scic_sds_remote_device_node_count,FUNC_5
+scic_sds_remote_node_context_construct_buffer,FUNC_6
+this_rnc,VAR_2
+rnc,VAR_3
+the_controller,VAR_4

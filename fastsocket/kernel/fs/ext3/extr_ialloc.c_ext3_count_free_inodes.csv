@@ -1,0 +1,15 @@
+EXT3_INODES_PER_GROUP,FUNC_0
+EXT3_SB,FUNC_1
+brelse,FUNC_2
+cond_resched,FUNC_3
+ext3_count_free,FUNC_4
+ext3_get_group_desc,FUNC_5
+le16_to_cpu,FUNC_6
+le32_to_cpu,FUNC_7
+printk,FUNC_8
+read_inode_bitmap,FUNC_9
+ext3_count_free_inodes,FUNC_10
+sb,VAR_0
+desc_count,VAR_1
+gdp,VAR_2
+i,VAR_3

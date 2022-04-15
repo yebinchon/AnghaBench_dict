@@ -1,0 +1,14 @@
+CAN_LED_EVENT_RX,VAR_0
+IFI_CANFD_RXSTCMD,VAR_1
+IFI_CANFD_RXSTCMD_EMPTY,VAR_2
+can_led_event,FUNC_0
+ifi_canfd_read_fifo,FUNC_1
+netdev_dbg,FUNC_2
+netdev_priv,FUNC_3
+readl,FUNC_4
+ifi_canfd_do_rx_poll,FUNC_5
+ndev,VAR_3
+quota,VAR_4
+priv,VAR_5
+pkts,VAR_6
+rxst,VAR_7

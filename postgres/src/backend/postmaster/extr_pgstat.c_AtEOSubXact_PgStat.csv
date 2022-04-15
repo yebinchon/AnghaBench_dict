@@ -1,0 +1,14 @@
+Assert,FUNC_0
+get_tabstat_stack_level,FUNC_1
+pfree,FUNC_2
+pgStatXactStack,VAR_0
+pgstat_truncate_restore_counters,FUNC_3
+pgstat_truncate_save_counters,FUNC_4
+AtEOSubXact_PgStat,FUNC_5
+isCommit,VAR_1
+nestDepth,VAR_2
+xact_state,VAR_3
+trans,VAR_4
+next_trans,VAR_5
+tabstat,VAR_6
+upper_xact_state,VAR_7

@@ -1,0 +1,16 @@
+ATF_REQUIRE_EQ,FUNC_0
+CLOCK_MONOTONIC,VAR_0
+POLLIN,VAR_1
+atf_tc_fail,FUNC_1
+clock_gettime,FUNC_2
+errno,VAR_2
+get_records,FUNC_3
+ppoll,FUNC_4
+strerror,FUNC_5
+check_auditpipe,FUNC_6
+fd,VAR_3
+auditregex,VAR_4
+pipestream,VAR_5
+currtime,VAR_6
+endtime,VAR_7
+timeout,VAR_8

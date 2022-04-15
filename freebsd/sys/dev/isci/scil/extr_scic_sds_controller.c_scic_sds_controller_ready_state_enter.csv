@@ -1,0 +1,14 @@
+IDLE_ENABLE,VAR_0
+REGCLK_ENABLE,VAR_1
+SCI_BASE_CONTROLLER_STATE_READY,VAR_2
+SMU_CGUCR_GEN_BIT,FUNC_0
+SMU_CGUCR_READ,FUNC_1
+SMU_CGUCR_WRITE,FUNC_2
+TXCLK_ENABLE,VAR_3
+XCLK_ENABLE,VAR_4
+scic_controller_set_interrupt_coalescence,FUNC_3
+scic_sds_controller_set_base_state_handlers,FUNC_4
+scic_sds_controller_ready_state_enter,FUNC_5
+object,VAR_5
+clock_gating_unit_value,VAR_6
+this_controller,VAR_7

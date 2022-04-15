@@ -1,0 +1,12 @@
+ENOBUFS,VAR_0
+IEEE802154_MAX_PAGE,VAR_1
+NL802154_ATTR_CHANNELS_SUPPORTED,VAR_2
+NL802154_ATTR_SUPPORTED_CHANNEL,VAR_3
+nla_nest_end,FUNC_0
+nla_nest_start_noflag,FUNC_1
+nla_put_u32,FUNC_2
+nl802154_send_wpan_phy_channels,FUNC_3
+rdev,VAR_4
+msg,VAR_5
+nl_page,VAR_6
+page,VAR_7

@@ -1,0 +1,16 @@
+EFX_TX_BUF_SKB,VAR_0
+EFX_TX_CB_SIZE,VAR_1
+EFX_WARN_ON_ONCE_PARANOID,FUNC_0
+EFX_WARN_ON_PARANOID,FUNC_1
+ENOMEM,VAR_2
+efx_tx_get_copy_buffer,FUNC_2
+efx_tx_queue_get_insert_buffer,FUNC_3
+skb_copy_bits,FUNC_4
+unlikely,FUNC_5
+efx_enqueue_skb_copy,FUNC_6
+tx_queue,VAR_3
+skb,VAR_4
+copy_len,VAR_5
+buffer,VAR_6
+copy_buffer,VAR_7
+rc,VAR_8

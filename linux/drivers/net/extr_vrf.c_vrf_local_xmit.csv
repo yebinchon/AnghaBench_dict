@@ -1,0 +1,15 @@
+NETDEV_TX_OK,VAR_0
+NET_RX_SUCCESS,VAR_1
+PACKET_LOOPBACK,VAR_2
+eth_type_trans,FUNC_0
+likely,FUNC_1
+netif_rx,FUNC_2
+skb_dst_set,FUNC_3
+skb_orphan,FUNC_4
+this_cpu_inc,FUNC_5
+vrf_rx_stats,FUNC_6
+vrf_local_xmit,FUNC_7
+skb,VAR_3
+dev,VAR_4
+dst,VAR_5
+len,VAR_6

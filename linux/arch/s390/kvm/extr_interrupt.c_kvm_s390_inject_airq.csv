@@ -1,0 +1,16 @@
+AIS_MODE_MASK,FUNC_0
+KVM_S390_AIS_MODE_SINGLE,VAR_0
+KVM_S390_INT_IO,FUNC_1
+isc_to_int_word,FUNC_2
+kvm_s390_inject_vm,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+test_kvm_facility,FUNC_6
+trace_kvm_s390_airq_suppressed,FUNC_7
+trace_kvm_s390_modify_ais_mode,FUNC_8
+kvm_s390_inject_airq,FUNC_9
+kvm,VAR_1
+adapter,VAR_2
+fi,VAR_3
+s390int,VAR_4
+ret,VAR_5

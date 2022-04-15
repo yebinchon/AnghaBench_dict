@@ -1,0 +1,15 @@
+CVMX_PCSX_MISCX_CTL_REG,FUNC_0
+CVMX_PCSX_MRX_CONTROL_REG,FUNC_1
+__cvmx_helper_sgmii_hardware_init_link,FUNC_2
+cvmx_helper_get_interface_index_num,FUNC_3
+cvmx_helper_get_interface_num,FUNC_4
+cvmx_read_csr,FUNC_5
+cvmx_write_csr,FUNC_6
+__cvmx_helper_sgmii_configure_loopback,FUNC_7
+ipd_port,VAR_0
+enable_internal,VAR_1
+enable_external,VAR_2
+interface,VAR_3
+index,VAR_4
+pcsx_mrx_control_reg,VAR_5
+pcsx_miscx_ctl_reg,VAR_6

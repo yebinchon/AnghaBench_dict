@@ -1,0 +1,14 @@
+SYNUSB_IO_ALWAYS,VAR_0
+SYNUSB_RECV_SIZE,VAR_1
+input_unregister_device,FUNC_0
+interface_to_usbdev,FUNC_1
+kfree,FUNC_2
+synusb_close,FUNC_3
+usb_free_coherent,FUNC_4
+usb_free_urb,FUNC_5
+usb_get_intfdata,FUNC_6
+usb_set_intfdata,FUNC_7
+synusb_disconnect,FUNC_8
+intf,VAR_2
+synusb,VAR_3
+udev,VAR_4

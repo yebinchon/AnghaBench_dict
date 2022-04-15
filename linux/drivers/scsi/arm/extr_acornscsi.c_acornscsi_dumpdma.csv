@@ -1,0 +1,13 @@
+DMAC_MASKREG,VAR_0
+DMAC_MODECON,VAR_1
+DMAC_TXCNTHI,VAR_2
+DMAC_TXCNTLO,VAR_3
+dmac_address,FUNC_0
+dmac_read,FUNC_1
+printk,FUNC_2
+acornscsi_dumpdma,FUNC_3
+host,VAR_4
+where,VAR_5
+mode,VAR_6
+addr,VAR_7
+len,VAR_8

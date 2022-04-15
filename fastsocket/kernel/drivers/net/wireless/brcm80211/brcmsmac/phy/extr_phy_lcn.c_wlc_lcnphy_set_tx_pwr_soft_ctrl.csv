@@ -1,0 +1,15 @@
+LCNPHY_TBL_ID_TXPWRCTL,VAR_0
+LCNPHY_TX_PWR_CTRL_RATE_OFFSET,VAR_1
+mod_phy_reg,FUNC_0
+or_phy_reg,FUNC_1
+wlc_lcnphy_tssi_based_pwr_ctrl_enabled,FUNC_2
+wlc_lcnphy_write_table,FUNC_3
+wlc_lcnphy_set_tx_pwr_soft_ctrl,FUNC_4
+pi,VAR_2
+index,VAR_3
+cck_offset,VAR_4
+ofdm_offset,VAR_5
+reg_offset_cck,VAR_6
+i,VAR_7
+index2,VAR_8
+tab,VAR_9

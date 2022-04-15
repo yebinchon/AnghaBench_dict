@@ -1,0 +1,14 @@
+AF_INET,VAR_0
+IP_ORIGDSTADDR,VAR_1
+SOL_IP,VAR_2
+ip_hdr,FUNC_0
+memset,FUNC_1
+put_cmsg,FUNC_2
+skb_header_pointer,FUNC_3
+skb_transport_offset,FUNC_4
+ip_cmsg_recv_dstaddr,FUNC_5
+msg,VAR_3
+skb,VAR_4
+_ports,VAR_5
+ports,VAR_6
+sin,VAR_7

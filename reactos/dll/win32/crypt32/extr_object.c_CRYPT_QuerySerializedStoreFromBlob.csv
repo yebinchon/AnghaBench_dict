@@ -1,0 +1,17 @@
+CERT_QUERY_CONTENT_SERIALIZED_STORE,VAR_0
+CERT_STORE_CREATE_NEW_FLAG,VAR_1
+CERT_STORE_PROV_MEMORY,VAR_2
+CRYPT_ReadSerializedStoreFromBlob,FUNC_0
+CertCloseStore,FUNC_1
+CertDuplicateStore,FUNC_2
+CertOpenStore,FUNC_3
+TRACE,FUNC_4
+X509_ASN_ENCODING,VAR_3
+CRYPT_QuerySerializedStoreFromBlob,FUNC_5
+blob,VAR_4
+pdwMsgAndCertEncodingType,VAR_5
+pdwContentType,VAR_6
+phCertStore,VAR_7
+phMsg,VAR_8
+store,VAR_9
+ret,VAR_10

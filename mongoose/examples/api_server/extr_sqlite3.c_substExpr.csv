@@ -1,0 +1,15 @@
+EP_xIsSelect,VAR_0
+ExprHasProperty,FUNC_0
+TK_COLUMN,VAR_1
+TK_NULL,VAR_2
+assert,FUNC_1
+sqlite3ExprDelete,FUNC_2
+sqlite3ExprDup,FUNC_3
+substExprList,FUNC_4
+substSelect,FUNC_5
+substExpr,FUNC_6
+db,VAR_3
+pExpr,VAR_4
+iTable,VAR_5
+pEList,VAR_6
+pNew,VAR_7

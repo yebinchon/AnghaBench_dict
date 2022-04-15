@@ -1,0 +1,17 @@
+LOCK_DIE_ON_ERROR,VAR_0
+STRBUF_INIT,VAR_1
+check_shallow_file_for_update,FUNC_0
+die_errno,FUNC_1
+get_lock_file_path,FUNC_2
+git_path_shallow,FUNC_3
+hold_lock_file_for_update,FUNC_4
+strbuf_release,FUNC_5
+the_repository,VAR_2
+write_in_full,FUNC_6
+write_shallow_commits,FUNC_7
+setup_alternate_shallow,FUNC_8
+shallow_lock,VAR_3
+alternate_shallow_file,VAR_4
+extra,VAR_5
+sb,VAR_6
+fd,VAR_7

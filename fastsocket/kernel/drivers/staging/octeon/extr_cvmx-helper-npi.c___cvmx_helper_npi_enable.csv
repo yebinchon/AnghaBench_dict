@@ -1,0 +1,14 @@
+CVMX_PIP_PRT_CFGX,FUNC_0
+OCTEON_CN3XXX,VAR_0
+OCTEON_CN58XX,VAR_1
+OCTEON_IS_MODEL,FUNC_1
+cvmx_helper_get_ipd_port,FUNC_2
+cvmx_helper_ports_on_interface,FUNC_3
+cvmx_read_csr,FUNC_4
+cvmx_write_csr,FUNC_5
+__cvmx_helper_npi_enable,FUNC_6
+interface,VAR_2
+num_ports,VAR_3
+port,VAR_4
+port_cfg,VAR_5
+ipd_port,VAR_6

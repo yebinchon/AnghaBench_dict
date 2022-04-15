@@ -1,0 +1,17 @@
+DID_NO_CONNECT,VAR_0
+RTSX_STAT_DISCONNECT,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+rtsx_set_stat,FUNC_2
+rtsx_to_host,FUNC_3
+scsi_lock,FUNC_4
+scsi_remove_host,FUNC_5
+scsi_unlock,FUNC_6
+stub1,FUNC_7
+wait_for_completion,FUNC_8
+wait_timeout,FUNC_9
+wake_up,FUNC_10
+quiesce_and_remove_host,FUNC_11
+dev,VAR_2
+host,VAR_3
+chip,VAR_4

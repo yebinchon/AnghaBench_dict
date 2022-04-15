@@ -1,0 +1,8 @@
+CLOCK_MONOTONIC,VAR_0
+HRTIMER_MODE_ABS_HARD,VAR_1
+bc_handler,VAR_2
+bctimer,VAR_3
+ce_broadcast_hrtimer,VAR_4
+clockevents_register_device,FUNC_0
+hrtimer_init,FUNC_1
+tick_setup_hrtimer_broadcast,FUNC_2

@@ -1,0 +1,17 @@
+DMA_CTRL_ACK,VAR_0
+DMA_PREP_INTERRUPT,VAR_1
+ENOMEM,VAR_2
+dmaengine_pcm_dma_complete,VAR_3
+dmaengine_prep_dma_cyclic,FUNC_0
+dmaengine_submit,FUNC_1
+snd_pcm_lib_buffer_bytes,FUNC_2
+snd_pcm_lib_period_bytes,FUNC_3
+snd_pcm_substream_to_dma_direction,FUNC_4
+substream_to_prtd,FUNC_5
+dmaengine_pcm_prepare_and_submit,FUNC_6
+substream,VAR_4
+prtd,VAR_5
+chan,VAR_6
+desc,VAR_7
+direction,VAR_8
+flags,VAR_9

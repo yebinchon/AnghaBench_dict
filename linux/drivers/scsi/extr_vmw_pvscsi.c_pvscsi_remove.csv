@@ -1,0 +1,11 @@
+__pvscsi_shutdown,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pvscsi_release_resources,FUNC_3
+scsi_host_put,FUNC_4
+scsi_remove_host,FUNC_5
+shost_priv,FUNC_6
+pvscsi_remove,FUNC_7
+pdev,VAR_0
+host,VAR_1
+adapter,VAR_2

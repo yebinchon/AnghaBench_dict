@@ -1,0 +1,6 @@
+DMA_FENCE_FLAG_TIMESTAMP_BIT,VAR_0
+set_bit,FUNC_0
+trace_dma_fence_signaled,FUNC_1
+__dma_fence_signal__timestamp,FUNC_2
+fence,VAR_1
+timestamp,VAR_2

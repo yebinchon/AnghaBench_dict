@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+PROC_UNLOCK,FUNC_1
+atomic_dec_64,FUNC_2
+fasttrap_proc_release,FUNC_3
+kmem_free,FUNC_4
+mutex_destroy,FUNC_5
+pfind,FUNC_6
+fasttrap_provider_free,FUNC_7
+provider,VAR_0
+pid,VAR_1
+p,VAR_2

@@ -1,0 +1,15 @@
+DMA_CHANNEL_ENABLED,FUNC_0
+PERIPH_SPI2_DMA_MODULE,VAR_0
+PERIPH_SPI3_DMA_MODULE,VAR_1
+PERIPH_SPI_SHARED_DMA_MODULE,VAR_2
+SOC_SPI_DMA_CHAN_NUM,VAR_3
+assert,FUNC_1
+get_dma_periph,FUNC_2
+periph_module_enable,FUNC_3
+portENTER_CRITICAL,FUNC_4
+portEXIT_CRITICAL,FUNC_5
+spi_dma_chan_enabled,VAR_4
+spi_dma_spinlock,VAR_5
+spicommon_dma_chan_claim,FUNC_6
+dma_chan,VAR_6
+ret,VAR_7

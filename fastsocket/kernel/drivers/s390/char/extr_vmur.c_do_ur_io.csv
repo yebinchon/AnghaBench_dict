@@ -1,0 +1,15 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+TRACE,FUNC_1
+ccw_device_start,FUNC_2
+event,VAR_0
+get_ccwdev_lock,FUNC_3
+mutex_lock_interruptible,FUNC_4
+mutex_unlock,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+wait_for_completion,FUNC_8
+do_ur_io,FUNC_9
+urd,VAR_1
+cpa,VAR_2
+rc,VAR_3
+cdev,VAR_4

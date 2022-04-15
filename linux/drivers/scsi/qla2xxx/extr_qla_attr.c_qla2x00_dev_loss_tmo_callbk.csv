@@ -1,0 +1,16 @@
+ABORT_ISP_ACTIVE,VAR_0
+DID_NO_CONNECT,VAR_1
+FCS_DEVICE_DEAD,VAR_2
+pci_channel_offline,FUNC_0
+qla2x00_abort_all_cmds,FUNC_1
+qla2x00_set_fcport_state,FUNC_2
+rport_to_shost,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+test_bit,FUNC_6
+unlikely,FUNC_7
+qla2x00_dev_loss_tmo_callbk,FUNC_8
+rport,VAR_3
+host,VAR_4
+fcport,VAR_5
+flags,VAR_6

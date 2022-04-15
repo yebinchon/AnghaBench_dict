@@ -1,0 +1,16 @@
+IRQ_RETVAL,FUNC_0
+REG_IRQSTAT,VAR_0
+TWSIIRQS,VAR_1
+mcam_reg_read,FUNC_1
+mcam_reg_write,FUNC_2
+mccic_irq,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+wake_up,FUNC_6
+cafe_irq,FUNC_7
+irq,VAR_2
+data,VAR_3
+cam,VAR_4
+mcam,VAR_5
+irqs,VAR_6
+handled,VAR_7

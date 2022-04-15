@@ -1,0 +1,17 @@
+CreateFileMappingW,FUNC_0
+FALSE,VAR_0
+FILE_MAP_WRITE,VAR_1
+MAX_PATH,VAR_2
+OpenFileMappingW,FUNC_1
+PAGE_READWRITE,VAR_3
+TRUE,VAR_4
+cache_container_create_object_name,FUNC_2
+wsprintfW,FUNC_3
+cache_container_map_index,FUNC_4
+file,VAR_5
+path,VAR_6
+size,VAR_7
+validate,VAR_8
+mapping_name_format,VAR_9
+mapping_name,VAR_10
+mapping,VAR_11

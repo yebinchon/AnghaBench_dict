@@ -1,0 +1,13 @@
+PTHREAD_BARRIER_SERIAL_THREAD,VAR_0
+SCHED_OTHER,VAR_1
+assert,FUNC_0
+endBarrier,VAR_2
+pthread_barrier_wait,FUNC_1
+pthread_getschedparam,FUNC_2
+pthread_self,FUNC_3
+startBarrier,VAR_3
+func,FUNC_4
+arg,VAR_4
+policy,VAR_5
+result,VAR_6
+param,VAR_7

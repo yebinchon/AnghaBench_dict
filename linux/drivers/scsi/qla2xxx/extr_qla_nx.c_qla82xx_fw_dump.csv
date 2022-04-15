@@ -1,0 +1,10 @@
+qla2x00_wait_for_chip_reset,FUNC_0
+qla82xx_idc_lock,FUNC_1
+qla82xx_idc_unlock,FUNC_2
+qla82xx_set_reset_owner,FUNC_3
+scsi_block_requests,FUNC_4
+scsi_unblock_requests,FUNC_5
+qla82xx_fw_dump,FUNC_6
+vha,VAR_0
+hardware_locked,VAR_1
+ha,VAR_2

@@ -1,0 +1,17 @@
+IWN_GP_CNTRL,VAR_0
+IWN_GP_CNTRL_RFKILL,VAR_1
+IWN_INT,VAR_2
+IWN_INT_MASK,VAR_3
+IWN_LOCK,FUNC_0
+IWN_READ,FUNC_1
+IWN_UNLOCK,FUNC_2
+IWN_WRITE,FUNC_3
+device_printf,FUNC_4
+ieee80211_resume_all,FUNC_5
+ieee80211_suspend_all,FUNC_6
+iwn_rftoggle_task,FUNC_7
+arg,VAR_4
+npending,VAR_5
+sc,VAR_6
+ic,VAR_7
+tmp,VAR_8

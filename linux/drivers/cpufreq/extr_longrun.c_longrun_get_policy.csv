@@ -1,0 +1,12 @@
+CPUFREQ_POLICY_PERFORMANCE,VAR_0
+CPUFREQ_POLICY_POWERSAVE,VAR_1
+MSR_TMTA_LONGRUN_CTRL,VAR_2
+MSR_TMTA_LONGRUN_FLAGS,VAR_3
+longrun_high_freq,VAR_4
+longrun_low_freq,VAR_5
+pr_debug,FUNC_0
+rdmsr,FUNC_1
+longrun_get_policy,FUNC_2
+policy,VAR_6
+msr_lo,VAR_7
+msr_hi,VAR_8

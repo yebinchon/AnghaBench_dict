@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+NVKM_NOTIFY_WORK,VAR_0
+assert_spin_locked,FUNC_1
+memcpy,FUNC_2
+nvkm_notify_func,FUNC_3
+nvkm_notify_put_locked,FUNC_4
+schedule_work,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+test_bit,FUNC_8
+nvkm_notify_send,FUNC_9
+notify,VAR_1
+data,VAR_2
+size,VAR_3
+event,VAR_4
+flags,VAR_5

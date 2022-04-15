@@ -1,0 +1,17 @@
+IB_MGMT_CLASS_SUBN_ADM,VAR_0
+IB_MGMT_METHOD_GET_RESP,VAR_1
+IB_SA_ATTR_MC_MEMBER_REC,VAR_2
+cpu_to_be16,FUNC_0
+cpu_to_be32,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+send_mad_to_slave,FUNC_4
+send_reply_to_slave,FUNC_5
+slave,VAR_3
+group,VAR_4
+req_sa_mad,VAR_5
+status,VAR_6
+mad,VAR_7
+sa_data,VAR_8
+req_sa_data,VAR_9
+ret,VAR_10

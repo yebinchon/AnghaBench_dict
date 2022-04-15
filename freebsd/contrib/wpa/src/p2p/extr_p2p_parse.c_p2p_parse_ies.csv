@@ -1,0 +1,17 @@
+MSG_DEBUG,VAR_0
+MSG_MSGDUMP,VAR_1
+P2P_IE_VENDOR_TYPE,VAR_2
+WFD_IE_VENDOR_TYPE,VAR_3
+WPS_DEV_OUI_WFA,VAR_4
+ieee802_11_parse_elems,FUNC_0
+ieee802_11_vendor_ie_concat,FUNC_1
+p2p_parse_free,FUNC_2
+p2p_parse_p2p_ie,FUNC_3
+p2p_parse_wps_ie,FUNC_4
+wpa_hexdump_buf,FUNC_5
+wpa_printf,FUNC_6
+p2p_parse_ies,FUNC_7
+data,VAR_5
+len,VAR_6
+msg,VAR_7
+elems,VAR_8

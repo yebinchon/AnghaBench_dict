@@ -1,0 +1,17 @@
+PCI_IRQ_MSI,VAR_0
+PCI_IRQ_MSIX,VAR_1
+XGBE_IRQ_MODE_LEVEL,VAR_2
+XGBE_MSI_BASE_COUNT,VAR_3
+XGBE_MSI_MIN_COUNT,VAR_4
+dev_dbg,FUNC_0
+dev_info,FUNC_1
+max,FUNC_2
+netif_msg_probe,FUNC_3
+pci_alloc_irq_vectors,FUNC_4
+pci_irq_vector,FUNC_5
+xgbe_config_multi_msi,FUNC_6
+pdata,VAR_5
+vector_count,VAR_6
+i,VAR_7
+j,VAR_8
+ret,VAR_9

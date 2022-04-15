@@ -1,0 +1,13 @@
+IS_ERR,FUNC_0
+LTQ_FALCON_SYS1_CPU0RS,VAR_0
+LTQ_FALCON_SYS1_CPU0RS_MASK,VAR_1
+LTQ_FALCON_SYS1_CPU0RS_WDT,VAR_2
+PTR_ERR,FUNC_1
+WDIOF_CARDRESET,VAR_3
+regmap_read,FUNC_2
+syscon_regmap_lookup_by_phandle,FUNC_3
+ltq_wdt_falcon_bootstatus_get,FUNC_4
+dev,VAR_4
+rcu_regmap,VAR_5
+val,VAR_6
+err,VAR_7

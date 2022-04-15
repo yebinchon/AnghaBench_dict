@@ -1,0 +1,16 @@
+AQ_NIC_WOL_ENABLED,VAR_0
+HAL_ATLANTIC_UTILS_FW_MSG_ENABLE_WAKEUP,VAR_1
+MPI_POWER,VAR_2
+aq_fw1x_set_wol,FUNC_0
+hw_atl_utils_fw_rpc_call,FUNC_1
+hw_atl_utils_fw_rpc_wait,FUNC_2
+hw_atl_utils_mpi_set_speed,FUNC_3
+hw_atl_utils_mpi_set_state,FUNC_4
+memset,FUNC_5
+aq_fw1x_set_power,FUNC_6
+self,VAR_3
+power_state,VAR_4
+mac,VAR_5
+prpc,VAR_6
+rpc_size,VAR_7
+err,VAR_8

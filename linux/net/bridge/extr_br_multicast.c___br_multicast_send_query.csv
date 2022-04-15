@@ -1,0 +1,17 @@
+BR_MCAST_DIR_RX,VAR_0
+BR_MCAST_DIR_TX,VAR_1
+NFPROTO_BRIDGE,VAR_2
+NF_BR_LOCAL_OUT,VAR_3
+NF_HOOK,FUNC_0
+br_dev_queue_push_xmit,VAR_4
+br_multicast_alloc_query,FUNC_1
+br_multicast_count,FUNC_2
+br_multicast_select_own_querier,FUNC_3
+dev_net,FUNC_4
+netif_rx,FUNC_5
+__br_multicast_send_query,FUNC_6
+br,VAR_5
+port,VAR_6
+ip,VAR_7
+skb,VAR_8
+igmp_type,VAR_9

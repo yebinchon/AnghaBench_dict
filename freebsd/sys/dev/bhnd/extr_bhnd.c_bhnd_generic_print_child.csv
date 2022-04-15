@@ -1,0 +1,14 @@
+BUS_GET_RESOURCE_LIST,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bhnd_get_core_index,FUNC_1
+bus_print_child_domain,FUNC_2
+bus_print_child_footer,FUNC_3
+bus_print_child_header,FUNC_4
+printf,FUNC_5
+resource_list_print_type,FUNC_6
+bhnd_generic_print_child,FUNC_7
+dev,VAR_2
+child,VAR_3
+rl,VAR_4
+retval,VAR_5

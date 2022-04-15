@@ -1,0 +1,11 @@
+DM_IO_KMEM,VAR_0
+REQ_OP_WRITE,VAR_1
+SB_SECTORS,VAR_2
+dm_io,FUNC_0
+sb_set_version,FUNC_1
+sync_rw_sb,FUNC_2
+ic,VAR_3
+op,VAR_4
+op_flags,VAR_5
+io_req,VAR_6
+io_loc,VAR_7

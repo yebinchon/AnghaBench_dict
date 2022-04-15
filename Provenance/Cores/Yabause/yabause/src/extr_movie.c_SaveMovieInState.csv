@@ -1,0 +1,11 @@
+Movie,VAR_0
+Playback,VAR_1
+ReadMovieIntoABuffer,FUNC_0
+Recording,VAR_2
+SEEK_END,VAR_3
+fseek,FUNC_1
+fwrite,FUNC_2
+SaveMovieInState,FUNC_3
+fp,VAR_4
+check,VAR_5
+tempbuffer,VAR_6

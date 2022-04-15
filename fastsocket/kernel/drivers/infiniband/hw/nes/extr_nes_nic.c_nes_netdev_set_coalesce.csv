@@ -1,0 +1,15 @@
+NES_PERIODIC_CONTROL,VAR_0
+NES_TIMER_INT_LIMIT,VAR_1
+NES_TIMER_INT_LIMIT_DYNAMIC,VAR_2
+nes_write32,FUNC_0
+netdev_priv,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+nes_netdev_set_coalesce,FUNC_4
+netdev,VAR_3
+et_coalesce,VAR_4
+nesvnic,VAR_5
+nesdev,VAR_6
+nesadapter,VAR_7
+shared_timer,VAR_8
+flags,VAR_9

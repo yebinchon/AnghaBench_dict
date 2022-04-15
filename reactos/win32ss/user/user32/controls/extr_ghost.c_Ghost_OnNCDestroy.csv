@@ -1,0 +1,17 @@
+DeleteObject,FUNC_0
+FNID_DESTROY,VAR_0
+GHOST_PROP,VAR_1
+GWLP_USERDATA,VAR_2
+GetProcessHeap,FUNC_1
+Ghost_DestroyTarget,FUNC_2
+Ghost_GetData,FUNC_3
+HeapFree,FUNC_4
+NtUserSetWindowFNID,FUNC_5
+PostQuitMessage,FUNC_6
+RemovePropW,FUNC_7
+SW_SHOWNOACTIVATE,VAR_3
+SetWindowLongPtrW,FUNC_8
+ShowWindowAsync,FUNC_9
+Ghost_OnNCDestroy,FUNC_10
+hwnd,VAR_4
+pData,VAR_5

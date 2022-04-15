@@ -1,0 +1,11 @@
+ACPI_FAILURE,FUNC_0
+ACPI_KEYBOARD_BACKLIGHT_WRITE,VAR_0
+ACPI_TYPE_INTEGER,VAR_1
+acpi_evaluate_object,FUNC_1
+dev_err,FUNC_2
+keyboard_led_set_brightness,FUNC_3
+cdev,VAR_2
+brightness,VAR_3
+param,VAR_4
+input,VAR_5
+status,VAR_6

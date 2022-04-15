@@ -1,0 +1,17 @@
+QUERY_IS_ASC_QUERY,FUNC_0
+SET_MASTER_SCAN_FLAG,FUNC_1
+SET_SUPPLEMENT_SCAN_FLAG,FUNC_2
+assert,FUNC_3
+disableFunctForSuppleScan,FUNC_4
+doScanAllDataBlocks,FUNC_5
+enableFunctForMasterScan,FUNC_6
+loadRequiredBlockIntoMem,FUNC_7
+needSupplementaryScan,FUNC_8
+queryStatusRestore,FUNC_9
+queryStatusSave,FUNC_10
+doSingleMeterSupplementScan,FUNC_11
+pRuntimeEnv,VAR_0
+pQuery,VAR_1
+qStatus,VAR_2
+endKey,VAR_3
+actKey,VAR_4

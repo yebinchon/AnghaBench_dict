@@ -1,0 +1,10 @@
+DSOUND_PrimaryClose,FUNC_0
+DS_OK,VAR_0
+EnterCriticalSection,FUNC_1
+GetProcessHeap,FUNC_2
+HeapFree,FUNC_3
+IDsDriverBuffer_Release,FUNC_4
+LeaveCriticalSection,FUNC_5
+TRACE,FUNC_6
+DSOUND_PrimaryDestroy,FUNC_7
+device,VAR_1

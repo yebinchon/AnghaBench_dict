@@ -1,0 +1,14 @@
+hostapd_ctrl_iface_receive_process,FUNC_0
+hostapd_interfaces_get_hapd,FUNC_1
+os_snprintf,FUNC_2
+os_snprintf_error,FUNC_3
+hostapd_global_ctrl_iface_ifname,FUNC_4
+interfaces,VAR_0
+ifname,VAR_1
+buf,VAR_2
+reply,VAR_3
+reply_size,VAR_4
+from,VAR_5
+fromlen,VAR_6
+hapd,VAR_7
+res,VAR_8

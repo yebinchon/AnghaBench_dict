@@ -1,0 +1,16 @@
+ICU_IMR_OFFSET,VAR_0
+IMEN_MASK,FUNC_0
+INTR_TRIGGER_EDGE,VAR_1
+MASTER,VAR_2
+PIC_EOI,VAR_3
+_atpic_eoi_master,FUNC_1
+_atpic_eoi_slave,FUNC_2
+atpics,VAR_4
+outb,FUNC_3
+spinlock_enter,FUNC_4
+spinlock_exit,FUNC_5
+atpic_disable_source,FUNC_6
+isrc,VAR_5
+eoi,VAR_6
+ai,VAR_7
+ap,VAR_8

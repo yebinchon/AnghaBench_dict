@@ -1,0 +1,15 @@
+ES_MODE_PLAY2,VAR_0
+SNDRV_PCM_HW_PARAM_RATE,VAR_1
+snd_ensoniq_playback2,VAR_2
+snd_es1370_hw_constraints_clock,VAR_3
+snd_es1371_hw_constraints_dac_clock,VAR_4
+snd_pcm_hw_constraint_ratdens,FUNC_0
+snd_pcm_hw_constraint_ratnums,FUNC_1
+snd_pcm_set_sync,FUNC_2
+snd_pcm_substream_chip,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+snd_ensoniq_playback2_open,FUNC_6
+substream,VAR_5
+ensoniq,VAR_6
+runtime,VAR_7

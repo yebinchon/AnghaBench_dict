@@ -1,0 +1,15 @@
+EVENT_HANDLER_FLAG_DO_NOT_AUTO_RECONNECT,VAR_0
+TEST_ESP_OK,FUNC_0
+WIFI_INIT_CONFIG_DEFAULT,FUNC_1
+WIFI_MODE_STA,VAR_1
+esp_wifi_init,FUNC_2
+esp_wifi_set_mode,FUNC_3
+esp_wifi_start,FUNC_4
+event_init,FUNC_5
+unity_reset_leak_checks,FUNC_6
+wifi_event_handler_flag,VAR_2
+wifi_events,VAR_3
+xEventGroupClearBits,FUNC_7
+xEventGroupCreate,FUNC_8
+start_wifi_as_sta,FUNC_9
+cfg,VAR_4

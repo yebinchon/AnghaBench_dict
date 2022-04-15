@@ -1,0 +1,17 @@
+SECONDARY_EXEC_VIRTUALIZE_APIC_ACCESSES,VAR_0
+SECONDARY_EXEC_VIRTUALIZE_X2APIC_MODE,VAR_1
+WARN_ONCE,FUNC_0
+cpu_has_vmx_virtualize_x2apic_mode,FUNC_1
+flexpriority_enabled,VAR_2
+is_guest_mode,FUNC_2
+kvm_get_apic_mode,FUNC_3
+lapic_in_kernel,FUNC_4
+secondary_exec_controls_get,FUNC_5
+secondary_exec_controls_set,FUNC_6
+to_vmx,FUNC_7
+vmx_flush_tlb,FUNC_8
+vmx_update_msr_bitmap,FUNC_9
+vmx_set_virtual_apic_mode,FUNC_10
+vcpu,VAR_3
+vmx,VAR_4
+sec_exec_control,VAR_5

@@ -1,0 +1,17 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+DSI_VC_CTRL,FUNC_1
+DSI_VC_IRQ_PACKET_SENT,VAR_0
+DSSERR,FUNC_2
+EIO,VAR_1
+REG_GET,FUNC_3
+completion,VAR_2
+dsi_packet_sent_handler_l4,VAR_3
+dsi_register_isr_vc,FUNC_4
+dsi_unregister_isr_vc,FUNC_5
+msecs_to_jiffies,FUNC_6
+wait_for_completion_timeout,FUNC_7
+dsi_sync_vc_l4,FUNC_8
+dsi,VAR_4
+channel,VAR_5
+l4_data,VAR_6
+r,VAR_7

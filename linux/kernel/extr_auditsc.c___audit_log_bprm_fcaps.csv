@@ -1,0 +1,16 @@
+AUDIT_BPRM_FCAPS,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+VFS_CAP_FLAGS_EFFECTIVE,VAR_3
+VFS_CAP_REVISION_MASK,VAR_4
+VFS_CAP_REVISION_SHIFT,VAR_5
+audit_context,FUNC_0
+get_vfs_caps_from_disk,FUNC_1
+kmalloc,FUNC_2
+__audit_log_bprm_fcaps,FUNC_3
+bprm,VAR_6
+new,VAR_7
+old,VAR_8
+ax,VAR_9
+context,VAR_10
+vcaps,VAR_11

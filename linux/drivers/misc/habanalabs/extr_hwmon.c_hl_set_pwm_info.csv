@@ -1,0 +1,16 @@
+ARMCP_PACKET_PWM_SET,VAR_0
+ARMCP_PKT_CTL_OPCODE_SHIFT,VAR_1
+SENSORS_PKT_TIMEOUT,VAR_2
+__cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+dev_err,FUNC_3
+memset,FUNC_4
+stub1,FUNC_5
+hl_set_pwm_info,FUNC_6
+hdev,VAR_3
+sensor_index,VAR_4
+attr,VAR_5
+value,VAR_6
+pkt,VAR_7
+rc,VAR_8

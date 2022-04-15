@@ -1,0 +1,15 @@
+AM_SEEKING_CanGetDuration,VAR_0
+AM_SEEKING_CanGetStopPos,VAR_1
+AM_SEEKING_CanSeekAbsolute,VAR_2
+AM_SEEKING_CanSeekBackwards,VAR_3
+AM_SEEKING_CanSeekForwards,VAR_4
+S_OK,VAR_5
+TIME_FORMAT_MEDIA_TIME,VAR_6
+assert,FUNC_0
+SourceSeeking_Init,FUNC_1
+pSeeking,VAR_7
+Vtbl,VAR_8
+fnChangeStop,VAR_9
+fnChangeStart,VAR_10
+fnChangeRate,VAR_11
+crit_sect,VAR_12

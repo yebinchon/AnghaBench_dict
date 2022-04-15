@@ -1,0 +1,11 @@
+BPF_DROP,VAR_0
+BPF_OK,VAR_1
+IP_DST_OFF,VAR_2
+bpf_skb_load_bytes,FUNC_0
+printk,FUNC_1
+rewrite,FUNC_2
+do_test_rewrite,FUNC_3
+skb,VAR_3
+old_ip,VAR_4
+new_ip,VAR_5
+ret,VAR_6

@@ -1,0 +1,13 @@
+CMD_INSERT,VAR_0
+CMD_UPDATE,VAR_1
+ExecSetupChildParentMapForSubplan,FUNC_0
+MakeTransitionCaptureState,FUNC_1
+ONCONFLICT_UPDATE,VAR_2
+RelationGetRelid,FUNC_2
+getTargetResultRelInfo,FUNC_3
+tupconv_map_for_subplan,FUNC_4
+ExecSetupTransitionCaptureState,FUNC_5
+mtstate,VAR_3
+estate,VAR_4
+plan,VAR_5
+targetRelInfo,VAR_6

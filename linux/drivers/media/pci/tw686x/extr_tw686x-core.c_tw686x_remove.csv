@@ -1,0 +1,15 @@
+del_timer_sync,FUNC_0
+free_irq,FUNC_1
+pci_disable_device,FUNC_2
+pci_get_drvdata,FUNC_3
+pci_iounmap,FUNC_4
+pci_release_regions,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+tw686x_audio_free,FUNC_8
+tw686x_video_free,FUNC_9
+v4l2_device_put,FUNC_10
+tw686x_remove,FUNC_11
+pci_dev,VAR_0
+dev,VAR_1
+flags,VAR_2

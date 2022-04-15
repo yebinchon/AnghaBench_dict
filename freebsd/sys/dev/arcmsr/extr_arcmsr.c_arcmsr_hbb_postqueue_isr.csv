@@ -1,0 +1,14 @@
+ARCMSR_MAX_HBB_POSTQUEUE,VAR_0
+ARCMSR_SRBREPLY_FLAG_ERROR_MODE0,VAR_1
+BUS_DMASYNC_POSTREAD,VAR_2
+BUS_DMASYNC_POSTWRITE,VAR_3
+FALSE,VAR_4
+TRUE,VAR_5
+arcmsr_drain_donequeue,FUNC_0
+bus_dmamap_sync,FUNC_1
+arcmsr_hbb_postqueue_isr,FUNC_2
+acb,VAR_6
+phbbmu,VAR_7
+flag_srb,VAR_8
+index,VAR_9
+error,VAR_10

@@ -1,0 +1,17 @@
+calc_global_load_tick,FUNC_0
+cpu_rq,FUNC_1
+idle_cpu,FUNC_2
+perf_event_task_tick,FUNC_3
+psi_task_tick,FUNC_4
+rq_lock,FUNC_5
+rq_unlock,FUNC_6
+sched_clock_tick,FUNC_7
+smp_processor_id,FUNC_8
+stub1,FUNC_9
+trigger_load_balance,FUNC_10
+update_rq_clock,FUNC_11
+scheduler_tick,FUNC_12
+cpu,VAR_0
+rq,VAR_1
+curr,VAR_2
+rf,VAR_3

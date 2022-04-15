@@ -1,0 +1,16 @@
+CFGCHIP,FUNC_0
+CFGCHIP2_PHYCLKGD,VAR_0
+CFGCHIP2_PHYPWRDN,VAR_1
+CFGCHIP2_PHY_PLLON,VAR_2
+CFGCHIP2_RESET,VAR_3
+clk_disable,FUNC_1
+clk_enable,FUNC_2
+regmap_read_poll_timeout,FUNC_3
+regmap_write_bits,FUNC_4
+to_da8xx_usb0_clk48,FUNC_5
+da8xx_usb0_clk48_enable,FUNC_6
+hw,VAR_4
+usb0,VAR_5
+mask,VAR_6
+val,VAR_7
+ret,VAR_8

@@ -1,0 +1,13 @@
+PDMIC_CR,VAR_0
+PDMIC_IER,VAR_1
+PDMIC_IER_OVRE,VAR_2
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+regmap_write,FUNC_2
+snd_soc_card_get_drvdata,FUNC_3
+atmel_pdmic_cpu_dai_startup,FUNC_4
+substream,VAR_3
+cpu_dai,VAR_4
+rtd,VAR_5
+dd,VAR_6
+ret,VAR_7

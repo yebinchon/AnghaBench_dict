@@ -1,0 +1,14 @@
+LM3646_NAME,VAR_0
+MEDIA_ENT_F_FLASH,VAR_1
+V4L2_SUBDEV_FL_HAS_DEVNODE,VAR_2
+lm3646_init_controls,FUNC_0
+lm3646_ops,VAR_3
+media_entity_pads_init,FUNC_1
+strscpy,FUNC_2
+to_i2c_client,FUNC_3
+v4l2_ctrl_handler_free,FUNC_4
+v4l2_i2c_subdev_init,FUNC_5
+lm3646_subdev_init,FUNC_6
+flash,VAR_4
+client,VAR_5
+rval,VAR_6

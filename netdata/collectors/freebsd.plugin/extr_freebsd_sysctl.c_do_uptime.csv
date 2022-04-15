@@ -1,0 +1,17 @@
+CLOCK_UPTIME,VAR_0
+NETDATA_CHART_PRIO_SYSTEM_UPTIME,VAR_1
+RRDSET_TYPE_LINE,VAR_2
+RRD_ALGORITHM_ABSOLUTE,VAR_3
+clock_gettime,FUNC_0
+rrddim_add,FUNC_1
+rrddim_set_by_pointer,FUNC_2
+rrdset_create_localhost,FUNC_3
+rrdset_done,FUNC_4
+rrdset_next,FUNC_5
+unlikely,FUNC_6
+do_uptime,FUNC_7
+update_every,VAR_4
+dt,VAR_5
+up_time,VAR_6
+st,VAR_7
+rd,VAR_8

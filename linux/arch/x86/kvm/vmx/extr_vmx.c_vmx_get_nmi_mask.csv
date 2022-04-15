@@ -1,0 +1,9 @@
+GUEST_INTERRUPTIBILITY_INFO,VAR_0
+GUEST_INTR_STATE_NMI,VAR_1
+enable_vnmi,VAR_2
+to_vmx,FUNC_0
+vmcs_read32,FUNC_1
+vmx_get_nmi_mask,FUNC_2
+vcpu,VAR_3
+vmx,VAR_4
+masked,VAR_5

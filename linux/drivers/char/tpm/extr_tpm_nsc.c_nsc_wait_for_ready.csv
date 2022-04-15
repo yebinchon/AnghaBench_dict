@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+NSC_DATA,VAR_1
+NSC_STATUS,VAR_2
+NSC_STATUS_OBF,VAR_3
+NSC_STATUS_RDY,VAR_4
+TPM_TIMEOUT,VAR_5
+dev_get_drvdata,FUNC_0
+dev_info,FUNC_1
+inb,FUNC_2
+jiffies,VAR_6
+msleep,FUNC_3
+time_before,FUNC_4
+nsc_wait_for_ready,FUNC_5
+chip,VAR_7
+priv,VAR_8
+status,VAR_9
+stop,VAR_10

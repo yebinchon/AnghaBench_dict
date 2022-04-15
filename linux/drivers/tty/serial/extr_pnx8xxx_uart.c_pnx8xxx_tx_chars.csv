@@ -1,0 +1,15 @@
+PNX8XXX_FIFO,VAR_0
+PNX8XXX_UART_FIFO_TXFIFO,VAR_1
+UART_XMIT_SIZE,VAR_2
+WAKEUP_CHARS,VAR_3
+pnx8xxx_mctrl_check,FUNC_0
+pnx8xxx_stop_tx,FUNC_1
+serial_in,FUNC_2
+serial_out,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_circ_empty,FUNC_5
+uart_tx_stopped,FUNC_6
+uart_write_wakeup,FUNC_7
+pnx8xxx_tx_chars,FUNC_8
+sport,VAR_4
+xmit,VAR_5

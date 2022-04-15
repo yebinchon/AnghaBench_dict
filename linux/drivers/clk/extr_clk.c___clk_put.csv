@@ -1,0 +1,15 @@
+IS_ERR,FUNC_0
+WARN_ON,FUNC_1
+WARN_ON_ONCE,FUNC_2
+__clk_release,VAR_0
+clk_core_rate_unprotect,FUNC_3
+clk_core_set_rate_nolock,FUNC_4
+clk_prepare_lock,FUNC_5
+clk_prepare_unlock,FUNC_6
+free_clk,FUNC_7
+hlist_del,FUNC_8
+kref_put,FUNC_9
+module_put,FUNC_10
+__clk_put,FUNC_11
+clk,VAR_1
+owner,VAR_2

@@ -1,0 +1,12 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+current,VAR_1
+finish_wait,FUNC_1
+prepare_to_wait,FUNC_2
+signal_pending,FUNC_3
+sk_stream_closing,FUNC_4
+sk_wait_event,FUNC_5
+wait,VAR_2
+sk_stream_wait_close,FUNC_6
+sk,VAR_3
+timeout,VAR_4

@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+NLA_PUT_U32,FUNC_0
+ONE_FP,VAR_1
+TCA_OPTIONS,VAR_2
+TCA_QFQ_LMAX,VAR_3
+TCA_QFQ_WEIGHT,VAR_4
+TC_H_ROOT,VAR_5
+nla_nest_cancel,FUNC_1
+nla_nest_end,FUNC_2
+nla_nest_start,FUNC_3
+qfq_dump_class,FUNC_4
+sch,VAR_6
+arg,VAR_7
+skb,VAR_8
+tcm,VAR_9
+cl,VAR_10
+nest,VAR_11

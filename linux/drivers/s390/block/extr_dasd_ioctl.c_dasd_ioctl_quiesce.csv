@@ -1,0 +1,14 @@
+CAP_SYS_ADMIN,VAR_0
+DASD_STOPPED_QUIESCE,VAR_1
+EACCES,VAR_2
+capable,FUNC_0
+dasd_device_set_stop_bits,FUNC_1
+dev_name,FUNC_2
+get_ccwdev_lock,FUNC_3
+pr_info,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+dasd_ioctl_quiesce,FUNC_7
+block,VAR_3
+flags,VAR_4
+base,VAR_5

@@ -1,0 +1,12 @@
+VGIC_ADDR_TO_INTID,FUNC_0
+__vgic_mmio_write_sactive,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+vgic_change_active_finish,FUNC_4
+vgic_change_active_prepare,FUNC_5
+vgic_mmio_write_sactive,FUNC_6
+vcpu,VAR_0
+addr,VAR_1
+len,VAR_2
+val,VAR_3
+intid,VAR_4

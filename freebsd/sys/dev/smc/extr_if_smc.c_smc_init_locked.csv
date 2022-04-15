@@ -1,0 +1,16 @@
+IFCAP_POLLING,VAR_0
+IFF_DRV_OACTIVE,VAR_1
+IFF_DRV_RUNNING,VAR_2
+SMC_ASSERT_LOCKED,FUNC_0
+SMC_LOCK,FUNC_1
+SMC_UNLOCK,FUNC_2
+callout_reset,FUNC_3
+ether_poll_register,FUNC_4
+hz,VAR_3
+smc_enable,FUNC_5
+smc_poll,VAR_4
+smc_reset,FUNC_6
+smc_start_locked,FUNC_7
+smc_init_locked,FUNC_8
+sc,VAR_5
+ifp,VAR_6

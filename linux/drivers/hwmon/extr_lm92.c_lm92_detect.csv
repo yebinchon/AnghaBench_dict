@@ -1,0 +1,17 @@
+ENODEV,VAR_0
+I2C_FUNC_SMBUS_BYTE_DATA,VAR_1
+I2C_FUNC_SMBUS_WORD_DATA,VAR_2
+I2C_NAME_SIZE,VAR_3
+LM92_REG_CONFIG,VAR_4
+LM92_REG_MAN_ID,VAR_5
+i2c_check_functionality,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_read_word_data,FUNC_2
+pr_info,FUNC_3
+strlcpy,FUNC_4
+lm92_detect,FUNC_5
+new_client,VAR_6
+info,VAR_7
+adapter,VAR_8
+config,VAR_9
+man_id,VAR_10

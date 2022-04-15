@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+aio_complete,FUNC_1
+ocfs2_iocb_clear_rw_locked,FUNC_2
+ocfs2_iocb_is_rw_locked,FUNC_3
+ocfs2_iocb_rw_locked_level,FUNC_4
+ocfs2_rw_unlock,FUNC_5
+up_read,FUNC_6
+ocfs2_dio_end_io,FUNC_7
+iocb,VAR_0
+offset,VAR_1
+bytes,VAR_2
+private,VAR_3
+ret,VAR_4
+is_async,VAR_5
+inode,VAR_6
+level,VAR_7

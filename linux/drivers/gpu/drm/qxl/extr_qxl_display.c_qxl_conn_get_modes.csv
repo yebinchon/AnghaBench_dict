@@ -1,0 +1,14 @@
+drm_add_modes_noedid,FUNC_0
+drm_connector_to_qxl_output,FUNC_1
+drm_set_preferred_mode,FUNC_2
+qxl_add_extra_modes,FUNC_3
+qxl_add_monitors_config_modes,FUNC_4
+qxl_conn_get_modes,FUNC_5
+connector,VAR_0
+dev,VAR_1
+qdev,VAR_2
+output,VAR_3
+pwidth,VAR_4
+pheight,VAR_5
+ret,VAR_6
+head,VAR_7

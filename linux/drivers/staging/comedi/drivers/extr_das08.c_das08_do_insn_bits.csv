@@ -1,0 +1,13 @@
+DAS08_CONTROL_DO,FUNC_0
+DAS08_CONTROL_DO_MASK,VAR_0
+DAS08_CONTROL_REG,VAR_1
+comedi_dio_update_state,FUNC_1
+outb,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+das08_do_insn_bits,FUNC_5
+dev,VAR_2
+s,VAR_3
+insn,VAR_4
+data,VAR_5
+devpriv,VAR_6

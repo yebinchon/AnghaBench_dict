@@ -1,0 +1,15 @@
+ETH_HLEN,VAR_0
+VLAN_HLEN,VAR_1
+ether_addr_copy,FUNC_0
+htons,FUNC_1
+is_vlan_dev,FUNC_2
+vlan_dev_vlan_id,FUNC_3
+vlan_dev_vlan_proto,FUNC_4
+gen_eth_tnl_hdr,FUNC_5
+buf,VAR_2
+dev,VAR_3
+e,VAR_4
+proto,VAR_5
+eth,VAR_6
+ip,VAR_7
+vlan,VAR_8

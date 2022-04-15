@@ -1,0 +1,14 @@
+HDSPM_Midi0InterruptEnable,VAR_0
+HDSPM_Midi1InterruptEnable,VAR_1
+HDSPM_controlRegister,VAR_2
+hdspm_write,FUNC_0
+snd_hdspm_flush_midi_input,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+snd_hdspm_midi_input_trigger,FUNC_4
+substream,VAR_3
+up,VAR_4
+hdspm,VAR_5
+hmidi,VAR_6
+flags,VAR_7
+ie,VAR_8

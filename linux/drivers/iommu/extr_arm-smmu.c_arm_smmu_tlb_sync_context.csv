@@ -1,0 +1,11 @@
+ARM_SMMU_CB,FUNC_0
+ARM_SMMU_CB_TLBSTATUS,VAR_0
+ARM_SMMU_CB_TLBSYNC,VAR_1
+__arm_smmu_tlb_sync,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+arm_smmu_tlb_sync_context,FUNC_4
+cookie,VAR_2
+smmu_domain,VAR_3
+smmu,VAR_4
+flags,VAR_5

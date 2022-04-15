@@ -1,0 +1,14 @@
+ECRYPTFS_MSG_CTX_STATE_DONE,VAR_0
+ENOMSG,VAR_1
+HZ,VAR_2
+ecryptfs_message_wait_timeout,VAR_3
+ecryptfs_msg_ctx_alloc_to_free,FUNC_0
+ecryptfs_msg_ctx_lists_mux,VAR_4
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+schedule_timeout_interruptible,FUNC_3
+ecryptfs_wait_for_response,FUNC_4
+msg_ctx,VAR_5
+msg,VAR_6
+timeout,VAR_7
+rc,VAR_8

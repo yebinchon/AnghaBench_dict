@@ -1,0 +1,17 @@
+ZM_BCMC_ARRAY_SIZE,VAR_0
+ZM_ERR_FLUSH_PS_QUEUE,VAR_1
+ZM_MAX_AP_SUPPORT,VAR_2
+ZM_UNI_ARRAY_SIZE,VAR_3
+wd,VAR_4
+zfwBufFree,FUNC_0
+zm_assert,FUNC_1
+zmw_declare_for_critical_section,FUNC_2
+zmw_enter_critical_section,FUNC_3
+zmw_get_wlan_dev,FUNC_4
+zmw_leave_critical_section,FUNC_5
+zfApFlushBufferedPsFrame,FUNC_6
+dev,VAR_5
+emptyFlag,VAR_6
+freeCount,VAR_7
+vap,VAR_8
+psBuf,VAR_9

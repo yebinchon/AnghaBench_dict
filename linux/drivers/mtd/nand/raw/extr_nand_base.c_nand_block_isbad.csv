@@ -1,0 +1,12 @@
+mtd_to_nand,FUNC_0
+nand_block_checkbad,FUNC_1
+nand_deselect_target,FUNC_2
+nand_get_device,FUNC_3
+nand_release_device,FUNC_4
+nand_select_target,FUNC_5
+nand_block_isbad,FUNC_6
+mtd,VAR_0
+offs,VAR_1
+chip,VAR_2
+chipnr,VAR_3
+ret,VAR_4

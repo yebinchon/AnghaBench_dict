@@ -1,0 +1,14 @@
+CODEC_TYPE_RT5650,VAR_0
+RT5645_DIG_GATE_CTRL,VAR_1
+RT5645_GEN_CTRL1,VAR_2
+RT5645_GP1_PIN_IRQ,VAR_3
+RT5645_GPIO_CTRL1,VAR_4
+regmap_update_bits,FUNC_0
+rt5645_irq,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+rt5645_set_jack_detect,FUNC_3
+component,VAR_5
+hp_jack,VAR_6
+mic_jack,VAR_7
+btn_jack,VAR_8
+rt5645,VAR_9

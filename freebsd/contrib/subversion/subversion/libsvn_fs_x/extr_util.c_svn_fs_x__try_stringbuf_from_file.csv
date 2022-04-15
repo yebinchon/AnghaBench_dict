@@ -1,0 +1,17 @@
+APR_STATUS_IS_ENOENT,FUNC_0
+APR_TO_OS_ERROR,FUNC_1
+EIO,VAR_0
+ESTALE,VAR_1
+FALSE,VAR_2
+SVN_NO_ERROR,VAR_3
+TRUE,VAR_4
+svn_error_clear,FUNC_2
+svn_error_trace,FUNC_3
+svn_stringbuf_from_file2,FUNC_4
+svn_fs_x__try_stringbuf_from_file,FUNC_5
+content,VAR_5
+missing,VAR_6
+path,VAR_7
+last_attempt,VAR_8
+result_pool,VAR_9
+err,VAR_10

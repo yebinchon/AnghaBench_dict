@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+ETHTOOL_GDRVINFO,VAR_1
+IFNAMSIZ,VAR_2
+SIOCETHTOOL,VAR_3
+errno,VAR_4
+ethtool_connect_or_warn,FUNC_0
+ioctl,FUNC_1
+strdup,FUNC_2
+strscpy,FUNC_3
+ethtool_get_driver,FUNC_4
+fd,VAR_5
+ifname,VAR_6
+ret,VAR_7
+ecmd,VAR_8
+ifr,VAR_9
+d,VAR_10
+r,VAR_11

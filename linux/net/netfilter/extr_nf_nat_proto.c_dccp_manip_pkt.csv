@@ -1,0 +1,10 @@
+NF_NAT_MANIP_SRC,VAR_0
+inet_proto_csum_replace2,FUNC_0
+nf_csum_update,FUNC_1
+skb_ensure_writable,FUNC_2
+dccp_manip_pkt,FUNC_3
+skb,VAR_1
+iphdroff,VAR_2
+hdroff,VAR_3
+tuple,VAR_4
+maniptype,VAR_5

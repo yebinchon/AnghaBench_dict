@@ -1,0 +1,14 @@
+PCI_RESOURCES_RELEASED,VAR_0
+VM_PKT_DATA_INBAND,VAR_1
+get_pcichild_wslot,FUNC_0
+hv_get_drvdata,FUNC_1
+memset,FUNC_2
+put_pcichild,FUNC_3
+vmbus_sendpacket,FUNC_4
+hv_send_resources_released,FUNC_5
+hdev,VAR_2
+hbus,VAR_3
+pkt,VAR_4
+hpdev,VAR_5
+wslot,VAR_6
+ret,VAR_7

@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+cptvf_read_vq_done_count,FUNC_0
+cptvf_write_vq_done_ack,FUNC_1
+dev_err,FUNC_2
+get_cptvf_vq_wqe,FUNC_3
+tasklet_hi_schedule,FUNC_4
+unlikely,FUNC_5
+cptvf_done_intr_handler,FUNC_6
+irq,VAR_2
+cptvf_irq,VAR_3
+cptvf,VAR_4
+pdev,VAR_5
+intr,VAR_6
+wqe,VAR_7

@@ -1,0 +1,15 @@
+ExecEvalExpr,FUNC_0
+MemoryContextSwitchTo,FUNC_1
+PG_DETOAST_DATUM,FUNC_2
+PointerGetDatum,FUNC_3
+SK_ISNULL,VAR_0
+ExecIndexEvalRuntimeKeys,FUNC_4
+econtext,VAR_1
+runtimeKeys,VAR_2
+numRuntimeKeys,VAR_3
+j,VAR_4
+oldContext,VAR_5
+scan_key,VAR_6
+key_expr,VAR_7
+scanvalue,VAR_8
+isNull,VAR_9

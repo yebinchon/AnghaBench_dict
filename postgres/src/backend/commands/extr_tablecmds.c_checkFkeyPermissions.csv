@@ -1,0 +1,16 @@
+ACLCHECK_OK,VAR_0
+ACL_REFERENCES,VAR_1
+GetUserId,FUNC_0
+RelationGetRelationName,FUNC_1
+RelationGetRelid,FUNC_2
+aclcheck_error,FUNC_3
+get_relkind_objtype,FUNC_4
+pg_attribute_aclcheck,FUNC_5
+pg_class_aclcheck,FUNC_6
+checkFkeyPermissions,FUNC_7
+rel,VAR_2
+attnums,VAR_3
+natts,VAR_4
+roleid,VAR_5
+aclresult,VAR_6
+i,VAR_7

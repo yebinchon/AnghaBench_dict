@@ -1,0 +1,15 @@
+KVASER_PCIEFD_IEN_REG,VAR_0
+KVASER_PCIEFD_IRQ_ALL_MSK,VAR_1
+KVASER_PCIEFD_IRQ_REG,VAR_2
+KVASER_PCIEFD_SRB_CTRL_REG,VAR_3
+free_irq,FUNC_0
+iowrite32,FUNC_1
+kvaser_pciefd_remove_all_ctrls,FUNC_2
+pci_clear_master,FUNC_3
+pci_disable_device,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_iounmap,FUNC_6
+pci_release_regions,FUNC_7
+kvaser_pciefd_remove,FUNC_8
+pdev,VAR_4
+pcie,VAR_5

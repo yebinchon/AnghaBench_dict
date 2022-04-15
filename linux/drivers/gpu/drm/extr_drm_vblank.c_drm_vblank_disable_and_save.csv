@@ -1,0 +1,10 @@
+__disable_vblank,FUNC_0
+assert_spin_locked,FUNC_1
+drm_update_vblank_count,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+drm_vblank_disable_and_save,FUNC_5
+dev,VAR_0
+pipe,VAR_1
+vblank,VAR_2
+irqflags,VAR_3

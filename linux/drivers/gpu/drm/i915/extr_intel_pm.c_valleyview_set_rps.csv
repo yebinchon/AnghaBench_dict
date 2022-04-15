@@ -1,0 +1,16 @@
+GEN6_PMINTRMSK,VAR_0
+I915_WRITE,FUNC_0
+IS_CHERRYVIEW,FUNC_1
+PUNIT_REG_GPU_FREQ_REQ,VAR_1
+WARN_ONCE,FUNC_2
+gen6_rps_pm_mask,FUNC_3
+gen6_set_rps_thresholds,FUNC_4
+intel_gpu_freq,FUNC_5
+trace_intel_gpu_freq_change,FUNC_6
+vlv_punit_get,FUNC_7
+vlv_punit_put,FUNC_8
+vlv_punit_write,FUNC_9
+valleyview_set_rps,FUNC_10
+dev_priv,VAR_2
+val,VAR_3
+err,VAR_4

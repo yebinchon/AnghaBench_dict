@@ -1,0 +1,17 @@
+M_DDR,VAR_0
+M_LOCK,VAR_1
+M_LOCK_CTRL,VAR_2
+M_UNLOCK,VAR_3
+SDRC_DLLA_CTRL,VAR_4
+SDRC_DLLA_STATUS,VAR_5
+SDRC_DLLB_CTRL,VAR_6
+SDRC_DLLB_STATUS,VAR_7
+SDRC_MR_0,VAR_8
+cpu_is_omap2422,FUNC_0
+mem_timings,VAR_9
+omap2_sram_ddr_init,FUNC_1
+sdrc_read_reg,FUNC_2
+omap2xxx_sdrc_init_params,FUNC_3
+force_lock_to_unlock_mode,VAR_10
+dll_cnt,VAR_11
+fast_dll,VAR_12

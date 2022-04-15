@@ -1,0 +1,15 @@
+BEGIN_ITERATE_HISTORY,FUNC_0
+ClosePager,FUNC_1
+END_ITERATE_HISTORY,FUNC_2
+INT_MAX,VAR_0
+PageOutput,FUNC_3
+cur_hist,VAR_1
+fclose,FUNC_4
+fopen,FUNC_5
+fprintf,FUNC_6
+pg_log_error,FUNC_7
+pset,VAR_2
+useHistory,VAR_3
+printHistory,FUNC_8
+fname,VAR_4
+pager,VAR_5

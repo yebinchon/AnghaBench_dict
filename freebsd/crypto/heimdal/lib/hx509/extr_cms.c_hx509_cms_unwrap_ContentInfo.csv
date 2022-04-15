@@ -1,0 +1,14 @@
+decode_ContentInfo,FUNC_0
+der_copy_octet_string,FUNC_1
+der_copy_oid,FUNC_2
+der_free_oid,FUNC_3
+free_ContentInfo,FUNC_4
+memset,FUNC_5
+hx509_cms_unwrap_ContentInfo,FUNC_6
+in,VAR_0
+oid,VAR_1
+out,VAR_2
+have_data,VAR_3
+ci,VAR_4
+size,VAR_5
+ret,VAR_6

@@ -1,0 +1,17 @@
+AF_INET,VAR_0
+SBind,FUNC_0
+SListen,FUNC_1
+SOCK_STREAM,VAR_1
+closesocket,FUNC_2
+errno,VAR_2
+kSBindFailed,VAR_3
+kSListenFailed,VAR_4
+kSNewFailed,VAR_5
+socket,FUNC_3
+SNewStreamServer,FUNC_4
+port,VAR_6
+nTries,VAR_7
+reuseFlag,VAR_8
+listenQueueSize,VAR_9
+oerrno,VAR_10
+sfd,VAR_11

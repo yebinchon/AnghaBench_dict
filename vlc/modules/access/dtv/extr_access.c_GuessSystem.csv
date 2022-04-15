@@ -1,0 +1,14 @@
+DTV_DELGROUP_CABLE,VAR_0
+DTV_DELGROUP_G2,VAR_1
+DTV_DELGROUP_SAT,VAR_2
+DTV_DELGROUP_TERRES,VAR_3
+DTV_DELIVERY_NONE,VAR_4
+GetDeliveryByScheme,FUNC_0
+GetSingleDelivery,FUNC_1
+dvb_enum_systems,FUNC_2
+strcasecmp,FUNC_3
+GuessSystem,FUNC_4
+scheme,VAR_5
+dev,VAR_6
+d,VAR_7
+systems,VAR_8

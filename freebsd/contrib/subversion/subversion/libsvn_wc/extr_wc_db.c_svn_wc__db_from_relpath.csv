@@ -1,0 +1,16 @@
+CHECK_MINIMAL_WCROOT,FUNC_0
+SVN_ERR,FUNC_1
+SVN_ERR_ASSERT,FUNC_2
+SVN_NO_ERROR,VAR_0
+svn_dirent_join,FUNC_3
+svn_relpath_is_canonical,FUNC_4
+svn_wc__db_wcroot_parse_local_abspath,FUNC_5
+svn_wc__db_from_relpath,FUNC_6
+local_abspath,VAR_1
+db,VAR_2
+wri_abspath,VAR_3
+local_relpath,VAR_4
+result_pool,VAR_5
+scratch_pool,VAR_6
+wcroot,VAR_7
+unused_relpath,VAR_8

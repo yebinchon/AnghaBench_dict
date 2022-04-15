@@ -1,0 +1,15 @@
+CTRLR_HEARTBEAT_CNT,FUNC_0
+DBG_ERR,FUNC_1
+DBG_FUNC,FUNC_2
+DBG_INFO,FUNC_3
+OS_ATOMIC64_READ,FUNC_4
+PQI_EVENT_HEARTBEAT,VAR_0
+PQI_MAX_HEARTBEAT_REQUESTS,VAR_1
+PQI_NEW_HEARTBEAT_MECHANISM,FUNC_5
+os_stop_heartbeat_timer,FUNC_6
+pqisrc_ack_all_events,FUNC_7
+pqisrc_take_ctrl_offline,FUNC_8
+pqisrc_heartbeat_timer_handler,FUNC_9
+softs,VAR_2
+num_intrs,VAR_3
+take_offline,VAR_4

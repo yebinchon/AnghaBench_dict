@@ -1,0 +1,11 @@
+IRQ_SUBCLASS_MEASUREMENT_ALERT,VAR_0
+PMC_RELEASE,VAR_1
+cpum_cf_setup_cpu,VAR_2
+cpumcf_owner,VAR_3
+cpumcf_owner_lock,VAR_4
+irq_subclass_unregister,FUNC_0
+on_each_cpu,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+__kernel_cpumcf_end,FUNC_4
+flags,VAR_5

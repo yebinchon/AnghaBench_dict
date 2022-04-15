@@ -1,0 +1,10 @@
+framebuffer_release,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_release_region,FUNC_3
+smtc_unmap_mmio,FUNC_4
+smtc_unmap_smem,FUNC_5
+unregister_framebuffer,FUNC_6
+smtcfb_pci_remove,FUNC_7
+pdev,VAR_0
+sfb,VAR_1

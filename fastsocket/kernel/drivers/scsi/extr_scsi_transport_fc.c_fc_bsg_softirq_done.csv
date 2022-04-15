@@ -1,0 +1,9 @@
+FC_RQST_STATE_DONE,VAR_0
+blk_end_request_all,FUNC_0
+fc_destroy_bsgjob,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+fc_bsg_softirq_done,FUNC_4
+rq,VAR_1
+job,VAR_2
+flags,VAR_3

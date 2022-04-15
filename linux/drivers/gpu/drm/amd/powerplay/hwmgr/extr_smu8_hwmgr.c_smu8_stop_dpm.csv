@@ -1,0 +1,9 @@
+DPMFlags_SCLK_Enabled,VAR_0
+PPSMC_MSG_DisableAllSmuFeatures,VAR_1
+SCLK_DPM_MASK,VAR_2
+smum_send_msg_to_smc_with_parameter,FUNC_0
+smu8_stop_dpm,FUNC_1
+hwmgr,VAR_3
+ret,VAR_4
+data,VAR_5
+dpm_features,VAR_6

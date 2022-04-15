@@ -1,0 +1,14 @@
+PCI_COMMAND_MEMORY,VAR_0
+map_aperture,FUNC_0
+trap_gttmmio,FUNC_1
+vgpu_cfg_space,FUNC_2
+vgpu_pci_cfg_mem_write,FUNC_3
+emulate_pci_command_write,FUNC_4
+vgpu,VAR_1
+offset,VAR_2
+p_data,VAR_3
+bytes,VAR_4
+old,VAR_5
+new,VAR_6
+changed,VAR_7
+ret,VAR_8

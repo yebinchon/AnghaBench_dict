@@ -1,0 +1,16 @@
+PASID_PDE_SHIFT,VAR_0
+dev_is_pci,FUNC_0
+device_detach_pasid_table,FUNC_1
+free_pages,FUNC_2
+free_pgtable_page,FUNC_3
+get_pasid_table_from_pde,FUNC_4
+kfree,FUNC_5
+list_empty,FUNC_6
+intel_pasid_free_table,FUNC_7
+dev,VAR_1
+info,VAR_2
+pasid_table,VAR_3
+dir,VAR_4
+table,VAR_5
+i,VAR_6
+max_pde,VAR_7

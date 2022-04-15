@@ -1,0 +1,13 @@
+EAP_AKA_AUTN_LEN,VAR_0
+EAP_AKA_RAND_LEN,VAR_1
+MSG_DEBUG,VAR_2
+eap_sm_request_sim,FUNC_0
+os_snprintf,FUNC_1
+wpa_printf,FUNC_2
+wpa_snprintf_hex,FUNC_3
+eap_aka_ext_sim_req,FUNC_4
+sm,VAR_3
+data,VAR_4
+req,VAR_5
+pos,VAR_6
+end,VAR_7

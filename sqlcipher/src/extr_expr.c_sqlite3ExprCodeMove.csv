@@ -1,0 +1,8 @@
+OP_Move,VAR_0
+assert,FUNC_0
+sqlite3VdbeAddOp3,FUNC_1
+sqlite3ExprCodeMove,FUNC_2
+pParse,VAR_1
+iFrom,VAR_2
+iTo,VAR_3
+nReg,VAR_4

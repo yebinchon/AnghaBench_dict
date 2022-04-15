@@ -1,0 +1,9 @@
+nfs_check_inode_attributes,FUNC_0
+nfs_inode_attrs_need_update,FUNC_1
+nfs_update_inode,FUNC_2
+trace_nfs_refresh_inode_enter,FUNC_3
+trace_nfs_refresh_inode_exit,FUNC_4
+nfs_refresh_inode_locked,FUNC_5
+inode,VAR_0
+fattr,VAR_1
+ret,VAR_2

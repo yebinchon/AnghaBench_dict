@@ -1,0 +1,12 @@
+HDA_FIXUP_ACT_INIT,VAR_0
+alc_auto_init_amp,FUNC_0
+alc_fix_pll,FUNC_1
+alc_pre_init,FUNC_2
+is_s4_resume,FUNC_3
+snd_hda_apply_fixup,FUNC_4
+snd_hda_apply_verbs,FUNC_5
+snd_hda_gen_init,FUNC_6
+stub1,FUNC_7
+alc_init,FUNC_8
+codec,VAR_1
+spec,VAR_2

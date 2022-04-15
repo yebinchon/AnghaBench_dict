@@ -1,0 +1,11 @@
+TTY_FLUSHING,VAR_0
+TTY_FLUSHPENDING,VAR_1
+__tty_buffer_flush,FUNC_0
+set_bit,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+test_bit,FUNC_4
+wait_event,FUNC_5
+tty_buffer_flush,FUNC_6
+tty,VAR_2
+flags,VAR_3

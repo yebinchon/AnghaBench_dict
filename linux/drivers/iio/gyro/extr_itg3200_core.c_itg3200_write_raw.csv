@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ITG3200_DLPF_CFG_MASK,VAR_1
+ITG3200_REG_DLPF,VAR_2
+ITG3200_REG_SAMPLE_RATE_DIV,VAR_3
+itg3200_read_reg_8,FUNC_0
+itg3200_write_reg_8,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+itg3200_write_raw,FUNC_4
+indio_dev,VAR_4
+chan,VAR_5
+val,VAR_6
+val2,VAR_7
+mask,VAR_8
+ret,VAR_9
+t,VAR_10

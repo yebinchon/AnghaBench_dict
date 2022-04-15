@@ -1,0 +1,17 @@
+FIONBIO,VAR_0
+F_GETFL,VAR_1
+F_SETFL,VAR_2
+NO_ERROR,VAR_3
+O_NONBLOCK,VAR_4
+fcntl,FUNC_0
+ioctlsocket,FUNC_1
+mrb_get_args,FUNC_2
+mrb_nil_value,FUNC_3
+mrb_sys_fail,FUNC_4
+socket_fd,FUNC_5
+mrb_basicsocket_setnonblock,FUNC_6
+mrb,VAR_5
+self,VAR_6
+fd,VAR_7
+flags,VAR_8
+nonblocking,VAR_9

@@ -1,0 +1,16 @@
+VQASSERT,FUNC_0
+VQ_RING_ASSERT_CHAIN_TERM,FUNC_1
+VQ_RING_ASSERT_VALID_IDX,FUNC_2
+VRING_DESC_F_INDIRECT,VAR_0
+vq_ring_enqueue_segments,FUNC_3
+vq_ring_update_avail,FUNC_4
+vq_ring_enqueue_indirect,FUNC_5
+vq,VAR_1
+cookie,VAR_2
+sg,VAR_3
+readable,VAR_4
+writable,VAR_5
+dp,VAR_6
+dxp,VAR_7
+needed,VAR_8
+head_idx,VAR_9

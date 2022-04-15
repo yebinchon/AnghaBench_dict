@@ -1,0 +1,9 @@
+SIS_CAPTURE_DMA_FORMAT_CSO,VAR_0
+VOICE_SSO_TIMING,VAR_1
+VOICE_SYNC_TIMING,VAR_2
+readw,FUNC_0
+sis_update_sso,FUNC_1
+snd_pcm_period_elapsed,FUNC_2
+sis_update_voice,FUNC_3
+voice,VAR_3
+sync,VAR_4

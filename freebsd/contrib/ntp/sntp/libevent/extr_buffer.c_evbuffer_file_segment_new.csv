@@ -1,0 +1,15 @@
+EVBUFFER_CHAIN_MAX,VAR_0
+EVBUF_FS_DISABLE_LOCKING,VAR_1
+EVBUF_FS_DISABLE_SENDFILE,VAR_2
+EVTHREAD_ALLOC_LOCK,FUNC_0
+evbuffer_file_segment_materialize,FUNC_1
+fstat,FUNC_2
+mm_calloc,FUNC_3
+mm_free,FUNC_4
+evbuffer_file_segment_new,FUNC_5
+fd,VAR_3
+offset,VAR_4
+length,VAR_5
+flags,VAR_6
+seg,VAR_7
+st,VAR_8

@@ -1,0 +1,17 @@
+CESA_DMA_REQ,VAR_0
+CESA_SA_CRYPT_IV_SRAM_OFFSET,VAR_1
+atomic_sub,FUNC_0
+crypto_skcipher_ivsize,FUNC_1
+crypto_skcipher_reqtfm,FUNC_2
+memcpy,FUNC_3
+memcpy_fromio,FUNC_4
+mv_cesa_req_get_type,FUNC_5
+skcipher_request_cast,FUNC_6
+skcipher_request_ctx,FUNC_7
+mv_cesa_skcipher_complete,FUNC_8
+req,VAR_2
+skreq,VAR_3
+creq,VAR_4
+engine,VAR_5
+ivsize,VAR_6
+basereq,VAR_7

@@ -1,0 +1,15 @@
+NETDEV_TX_OK,VAR_0
+READ_ONCE,FUNC_0
+bond_dev_queue_xmit,FUNC_1
+bond_tx_drop,FUNC_2
+bond_xmit_hash,FUNC_3
+likely,FUNC_4
+netdev_priv,FUNC_5
+rcu_dereference,FUNC_6
+bond_3ad_xor_xmit,FUNC_7
+skb,VAR_1
+dev,VAR_2
+bond,VAR_3
+slave,VAR_4
+slaves,VAR_5
+count,VAR_6

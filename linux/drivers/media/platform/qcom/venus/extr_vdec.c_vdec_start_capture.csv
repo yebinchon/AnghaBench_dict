@@ -1,0 +1,17 @@
+HFI_FLUSH_OUTPUT,VAR_0
+VB2_MAX_FRAME,VAR_1
+VENUS_DEC_STATE_DECODING,VAR_2
+VENUS_DEC_STATE_STOPPED,VAR_3
+hfi_session_continue,FUNC_0
+hfi_session_flush,FUNC_1
+vdec_output_conf,FUNC_2
+venus_helper_alloc_dpb_bufs,FUNC_3
+venus_helper_free_dpb_bufs,FUNC_4
+venus_helper_intbufs_realloc,FUNC_5
+venus_helper_load_scale_clocks,FUNC_6
+venus_helper_process_initial_cap_bufs,FUNC_7
+venus_helper_queue_dpb_bufs,FUNC_8
+venus_helper_set_num_bufs,FUNC_9
+vdec_start_capture,FUNC_10
+inst,VAR_4
+ret,VAR_5

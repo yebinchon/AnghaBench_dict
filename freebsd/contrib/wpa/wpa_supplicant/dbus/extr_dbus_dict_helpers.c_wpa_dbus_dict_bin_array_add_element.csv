@@ -1,0 +1,13 @@
+DBUS_TYPE_ARRAY,VAR_0
+DBUS_TYPE_BYTE,VAR_1
+DBUS_TYPE_BYTE_AS_STRING,VAR_2
+FALSE,VAR_3
+dbus_message_iter_append_basic,FUNC_0
+dbus_message_iter_close_container,FUNC_1
+dbus_message_iter_open_container,FUNC_2
+wpa_dbus_dict_bin_array_add_element,FUNC_3
+iter_array,VAR_4
+value,VAR_5
+value_len,VAR_6
+iter_bytes,VAR_7
+i,VAR_8

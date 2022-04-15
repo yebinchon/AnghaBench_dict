@@ -1,0 +1,17 @@
+MSG_COULD_NOT_FIND_VALID_DATA_TRACK,VAR_0
+MSG_READING_FIRST_DATA_TRACK,VAR_1
+PATH_MAX_LENGTH,VAR_2
+RARCH_LOG,FUNC_0
+cue_find_track,FUNC_1
+free,FUNC_2
+intfstream_file_get_crc,FUNC_3
+malloc,FUNC_4
+msg_hash_to_str,FUNC_5
+strerror,FUNC_6
+task_database_cue_get_crc,FUNC_7
+name,VAR_3
+crc,VAR_4
+track_path,VAR_5
+offset,VAR_6
+size,VAR_7
+rv,VAR_8

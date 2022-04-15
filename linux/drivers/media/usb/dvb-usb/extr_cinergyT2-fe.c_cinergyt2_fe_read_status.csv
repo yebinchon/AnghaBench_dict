@@ -1,0 +1,16 @@
+CINERGYT2_EP1_GET_TUNER_STATUS,VAR_0
+FE_HAS_CARRIER,VAR_1
+FE_HAS_LOCK,VAR_2
+FE_HAS_SIGNAL,VAR_3
+FE_HAS_SYNC,VAR_4
+FE_HAS_VITERBI,VAR_5
+dvb_usb_generic_rw,FUNC_0
+le16_to_cpu,FUNC_1
+memcpy,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+cinergyt2_fe_read_status,FUNC_5
+fe,VAR_6
+status,VAR_7
+state,VAR_8
+ret,VAR_9

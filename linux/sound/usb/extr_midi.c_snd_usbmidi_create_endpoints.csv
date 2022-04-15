@@ -1,0 +1,15 @@
+MIDI_MAX_ENDPOINTS,VAR_0
+SNDRV_RAWMIDI_STREAM_INPUT,VAR_1
+SNDRV_RAWMIDI_STREAM_OUTPUT,VAR_2
+dev_dbg,FUNC_0
+snd_usbmidi_in_endpoint_create,FUNC_1
+snd_usbmidi_init_substream,FUNC_2
+snd_usbmidi_out_endpoint_create,FUNC_3
+snd_usbmidi_create_endpoints,FUNC_4
+umidi,VAR_3
+endpoints,VAR_4
+i,VAR_5
+j,VAR_6
+err,VAR_7
+out_ports,VAR_8
+in_ports,VAR_9

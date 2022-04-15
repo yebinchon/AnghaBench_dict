@@ -1,0 +1,17 @@
+FUSE_GETLK,VAR_0
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+convert_fuse_file_lock,FUNC_2
+fuse_get_req_nopages,FUNC_3
+fuse_lk_fill,FUNC_4
+fuse_put_request,FUNC_5
+fuse_request_send,FUNC_6
+get_fuse_conn,FUNC_7
+fuse_getlk,FUNC_8
+file,VAR_1
+fl,VAR_2
+inode,VAR_3
+fc,VAR_4
+req,VAR_5
+outarg,VAR_6
+err,VAR_7

@@ -1,0 +1,14 @@
+LM93_TEMP_AUTO_OFFSET_FROM_REG,FUNC_0
+LM93_TEMP_OFFSET_MODE_FROM_REG,FUNC_1
+lm93_update_device,FUNC_2
+sprintf,FUNC_3
+to_sensor_dev_attr_2,FUNC_4
+show_temp_auto_offset,FUNC_5
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+s_attr,VAR_3
+nr,VAR_4
+ofs,VAR_5
+data,VAR_6
+mode,VAR_7

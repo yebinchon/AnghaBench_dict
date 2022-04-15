@@ -1,0 +1,9 @@
+LATCH,VAR_0
+PIT_CH0,VAR_1
+PIT_MODE,VAR_2
+i8253_lock,VAR_3
+outb_p,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+udelay,FUNC_3
+reinit_timer,FUNC_4

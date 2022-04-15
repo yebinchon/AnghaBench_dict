@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+RCU_INIT_POINTER,FUNC_1
+lockdep_is_held,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+nf_ct_ecache_mutex,VAR_0
+rcu_dereference_protected,FUNC_5
+nf_conntrack_unregister_notifier,FUNC_6
+net,VAR_1
+new,VAR_2
+notify,VAR_3

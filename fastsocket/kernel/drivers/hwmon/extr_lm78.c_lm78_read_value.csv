@@ -1,0 +1,11 @@
+LM78_ADDR_REG_OFFSET,VAR_0
+LM78_DATA_REG_OFFSET,VAR_1
+i2c_smbus_read_byte_data,FUNC_0
+inb_p,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+outb_p,FUNC_4
+lm78_read_value,FUNC_5
+data,VAR_2
+reg,VAR_3
+client,VAR_4

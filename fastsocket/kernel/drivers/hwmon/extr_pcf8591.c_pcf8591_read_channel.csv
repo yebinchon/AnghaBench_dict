@@ -1,0 +1,15 @@
+PCF8591_CONTROL_AICH_MASK,VAR_0
+REG_TO_SIGNED,FUNC_0
+i2c_get_clientdata,FUNC_1
+i2c_smbus_read_byte,FUNC_2
+i2c_smbus_write_byte,FUNC_3
+input_mode,VAR_1
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+to_i2c_client,FUNC_6
+pcf8591_read_channel,FUNC_7
+dev,VAR_2
+channel,VAR_3
+value,VAR_4
+client,VAR_5
+data,VAR_6

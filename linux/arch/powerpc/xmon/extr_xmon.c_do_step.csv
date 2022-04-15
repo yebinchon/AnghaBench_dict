@@ -1,0 +1,15 @@
+IS_RFID,FUNC_0
+MSR_64BIT,VAR_0
+MSR_IR,VAR_1
+MSR_PR,VAR_2
+MSR_SE,VAR_3
+emulate_step,FUNC_1
+force_enable_xmon,FUNC_2
+mread,FUNC_3
+ppc_inst_dump,FUNC_4
+printf,FUNC_5
+xmon_print_symbol,FUNC_6
+do_step,FUNC_7
+regs,VAR_4
+instr,VAR_5
+stepped,VAR_6

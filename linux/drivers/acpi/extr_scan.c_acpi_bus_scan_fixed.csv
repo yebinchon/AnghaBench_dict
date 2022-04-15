@@ -1,0 +1,13 @@
+ACPI_BUS_TYPE_POWER_BUTTON,VAR_0
+ACPI_BUS_TYPE_SLEEP_BUTTON,VAR_1
+ACPI_FADT_POWER_BUTTON,VAR_2
+ACPI_FADT_SLEEP_BUTTON,VAR_3
+ACPI_STA_DEFAULT,VAR_4
+acpi_add_single_object,FUNC_0
+acpi_gbl_FADT,VAR_5
+device_attach,FUNC_1
+device_init_wakeup,FUNC_2
+acpi_bus_scan_fixed,FUNC_3
+result,VAR_6
+device,VAR_7
+device,VAR_8

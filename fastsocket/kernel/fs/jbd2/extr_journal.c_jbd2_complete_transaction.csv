@@ -1,0 +1,8 @@
+jbd2_log_start_commit,FUNC_0
+jbd2_log_wait_commit,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+jbd2_complete_transaction,FUNC_4
+journal,VAR_0
+tid,VAR_1
+need_to_wait,VAR_2

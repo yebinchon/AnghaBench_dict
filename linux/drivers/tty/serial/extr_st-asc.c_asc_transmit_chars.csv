@@ -1,0 +1,15 @@
+ASC_TXBUF,VAR_0
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+asc_disable_tx_interrupts,FUNC_0
+asc_hw_txroom,FUNC_1
+asc_out,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_tx_stopped,FUNC_5
+uart_write_wakeup,FUNC_6
+asc_transmit_chars,FUNC_7
+port,VAR_3
+xmit,VAR_4
+txroom,VAR_5
+c,VAR_6

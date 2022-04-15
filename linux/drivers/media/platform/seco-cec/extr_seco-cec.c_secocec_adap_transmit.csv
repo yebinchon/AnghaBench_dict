@@ -1,0 +1,17 @@
+SECOCEC_WRITE_BYTE0,VAR_0
+SECOCEC_WRITE_DATA_00,VAR_1
+SECOCEC_WRITE_DATA_LENGTH,VAR_2
+SECOCEC_WRITE_OPERATION_ID,VAR_3
+smb_wr16,FUNC_0
+secocec_adap_transmit,FUNC_1
+adap,VAR_4
+attempts,VAR_5
+signal_free_time,VAR_6
+msg,VAR_7
+payload_len,VAR_8
+payload_id_len,VAR_9
+destination,VAR_10
+val,VAR_11
+payload_msg,VAR_12
+status,VAR_13
+i,VAR_14

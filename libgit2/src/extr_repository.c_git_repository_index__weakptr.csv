@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+GIT_INDEX_CAPABILITY_FROM_OWNER,VAR_1
+GIT_INDEX_FILE,VAR_2
+GIT_REFCOUNT_OWN,FUNC_0
+assert,FUNC_1
+git__compare_and_swap,FUNC_2
+git_buf_dispose,FUNC_3
+git_buf_joinpath,FUNC_4
+git_index_free,FUNC_5
+git_index_open,FUNC_6
+git_index_set_caps,FUNC_7
+git_repository_index__weakptr,FUNC_8
+out,VAR_3
+repo,VAR_4
+error,VAR_5
+index_path,VAR_6
+index,VAR_7

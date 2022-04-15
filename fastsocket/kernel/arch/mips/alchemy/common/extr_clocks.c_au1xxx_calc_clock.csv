@@ -1,0 +1,15 @@
+AU1000_SRC_CLK,VAR_0
+CONFIG_SOC_AU1000_FREQUENCY,VAR_1
+SYS_CPUPLL,VAR_2
+SYS_POWERCTRL,VAR_3
+au1xxx_cpu_has_pll_wo,FUNC_0
+au_readl,FUNC_1
+mips_hpt_frequency,VAR_4
+set_au1x00_speed,FUNC_2
+set_au1x00_uart_baud_base,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+time_lock,VAR_5
+au1xxx_calc_clock,FUNC_6
+cpu_speed,VAR_6
+flags,VAR_7

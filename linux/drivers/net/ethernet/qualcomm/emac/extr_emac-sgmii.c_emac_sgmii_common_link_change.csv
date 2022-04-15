@@ -1,0 +1,10 @@
+EMAC_SGMII_PHY_INTERRUPT_MASK,VAR_0
+SGMII_ISR_MASK,VAR_1
+emac_sgmii_irq_clear,FUNC_0
+synchronize_irq,FUNC_1
+writel,FUNC_2
+emac_sgmii_common_link_change,FUNC_3
+adpt,VAR_2
+linkup,VAR_3
+sgmii,VAR_4
+ret,VAR_5

@@ -1,0 +1,14 @@
+UART_LSR_REG,VAR_0
+UART_LSR_THRE,VAR_1
+UART_TX_REG,VAR_2
+mtk_uart_enable_txintr,FUNC_0
+uart_barrier,FUNC_1
+uart_getreg,FUNC_2
+uart_lock,FUNC_3
+uart_output,VAR_3
+uart_setreg,FUNC_4
+uart_unlock,FUNC_5
+mtk_uart_bus_transmit,FUNC_6
+sc,VAR_4
+bas,VAR_5
+i,VAR_6

@@ -1,0 +1,15 @@
+BPF_PROG_TEST_RUN,VAR_0
+memset,FUNC_0
+ptr_to_u64,FUNC_1
+sys_bpf,FUNC_2
+bpf_prog_test_run,FUNC_3
+prog_fd,VAR_1
+repeat,VAR_2
+data,VAR_3
+size,VAR_4
+data_out,VAR_5
+size_out,VAR_6
+retval,VAR_7
+duration,VAR_8
+attr,VAR_9
+ret,VAR_10

@@ -1,0 +1,13 @@
+CNF_PWR_CTL_2,VAR_0
+CTL_SD_MEM_CARD_OPT,VAR_1
+mmc_priv,FUNC_0
+sd_config_write8,FUNC_1
+sd_ctrl_write16,FUNC_2
+tmio_mmc_clk_start,FUNC_3
+tmio_mmc_clk_stop,FUNC_4
+tmio_mmc_set_clock,FUNC_5
+udelay,FUNC_6
+tmio_mmc_set_ios,FUNC_7
+mmc,VAR_2
+ios,VAR_3
+host,VAR_4

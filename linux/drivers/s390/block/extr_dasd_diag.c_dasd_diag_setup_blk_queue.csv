@@ -1,0 +1,15 @@
+DIAG_MAX_BLOCKS,VAR_0
+PAGE_SIZE,VAR_1
+QUEUE_FLAG_NONROT,VAR_2
+USHRT_MAX,VAR_3
+blk_queue_flag_set,FUNC_0
+blk_queue_logical_block_size,FUNC_1
+blk_queue_max_hw_sectors,FUNC_2
+blk_queue_max_segment_size,FUNC_3
+blk_queue_max_segments,FUNC_4
+blk_queue_segment_boundary,FUNC_5
+dasd_diag_setup_blk_queue,FUNC_6
+block,VAR_4
+logical_block_size,VAR_5
+q,VAR_6
+max,VAR_7

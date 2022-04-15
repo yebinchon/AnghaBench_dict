@@ -1,0 +1,14 @@
+PLLU_MISC0_DEFAULT_VALUE,VAR_0
+PLLU_MISC0_LOCK_ENABLE,VAR_1
+PLLU_MISC1_DEFAULT_VALUE,VAR_2
+PLLU_MISC1_LOCK_OVERRIDE,VAR_3
+PLL_ENABLE,VAR_4
+clk_base,VAR_5
+pllu_check_defaults,FUNC_0
+pr_warn,FUNC_1
+readl_relaxed,FUNC_2
+udelay,FUNC_3
+writel_relaxed,FUNC_4
+tegra210_pllu_set_defaults,FUNC_5
+pllu,VAR_6
+val,VAR_7

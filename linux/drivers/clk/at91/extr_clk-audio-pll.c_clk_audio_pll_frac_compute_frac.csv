@@ -1,0 +1,13 @@
+AT91_PMC_AUDIO_PLL_FRACR_MASK,VAR_0
+AUDIO_PLL_DIV_FRAC,VAR_1
+AUDIO_PLL_ND_MAX,VAR_2
+DIV_ROUND_CLOSEST_ULL,FUNC_0
+EINVAL,VAR_3
+do_div,FUNC_1
+clk_audio_pll_frac_compute_frac,FUNC_2
+rate,VAR_4
+parent_rate,VAR_5
+nd,VAR_6
+fracr,VAR_7
+tmp,VAR_8
+rem,VAR_9

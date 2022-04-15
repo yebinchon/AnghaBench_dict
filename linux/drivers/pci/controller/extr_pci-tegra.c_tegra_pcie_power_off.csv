@@ -1,0 +1,11 @@
+TEGRA_POWERGATE_PCIE,VAR_0
+clk_disable_unprepare,FUNC_0
+dev_warn,FUNC_1
+regulator_bulk_disable,FUNC_2
+reset_control_assert,FUNC_3
+tegra_powergate_power_off,FUNC_4
+tegra_pcie_power_off,FUNC_5
+pcie,VAR_1
+dev,VAR_2
+soc,VAR_3
+err,VAR_4

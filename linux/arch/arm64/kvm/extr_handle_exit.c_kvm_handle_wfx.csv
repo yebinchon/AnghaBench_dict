@@ -1,0 +1,14 @@
+ESR_ELx_WFx_ISS_WFE,VAR_0
+KVM_REQ_UNHALT,VAR_1
+kvm_clear_request,FUNC_0
+kvm_skip_instr,FUNC_1
+kvm_vcpu_block,FUNC_2
+kvm_vcpu_get_hsr,FUNC_3
+kvm_vcpu_on_spin,FUNC_4
+kvm_vcpu_trap_il_is32bit,FUNC_5
+trace_kvm_wfx_arm64,FUNC_6
+vcpu_mode_priv,FUNC_7
+vcpu_pc,FUNC_8
+kvm_handle_wfx,FUNC_9
+vcpu,VAR_2
+run,VAR_3

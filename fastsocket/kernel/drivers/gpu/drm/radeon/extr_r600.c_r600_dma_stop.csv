@@ -1,0 +1,9 @@
+DMA_RB_CNTL,VAR_0
+DMA_RB_ENABLE,VAR_1
+R600_RING_TYPE_DMA_INDEX,VAR_2
+RREG32,FUNC_0
+WREG32,FUNC_1
+radeon_ttm_set_active_vram_size,FUNC_2
+r600_dma_stop,FUNC_3
+rdev,VAR_3
+rb_cntl,VAR_4

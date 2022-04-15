@@ -1,0 +1,9 @@
+MAX31790_REG_FAN_CONFIG,FUNC_0
+MAX31790_REG_FAN_DYNAMICS,FUNC_1
+NR_CHANNEL,VAR_0
+i2c_smbus_read_byte_data,FUNC_2
+max31790_init_client,FUNC_3
+client,VAR_1
+data,VAR_2
+i,VAR_3
+rv,VAR_4

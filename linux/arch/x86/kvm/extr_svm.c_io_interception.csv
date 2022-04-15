@@ -1,0 +1,14 @@
+SVM_IOIO_SIZE_MASK,VAR_0
+SVM_IOIO_SIZE_SHIFT,VAR_1
+SVM_IOIO_STR_MASK,VAR_2
+SVM_IOIO_TYPE_MASK,VAR_3
+kvm_emulate_instruction,FUNC_0
+kvm_fast_pio,FUNC_1
+io_interception,FUNC_2
+svm,VAR_4
+vcpu,VAR_5
+io_info,VAR_6
+size,VAR_7
+in,VAR_8
+string,VAR_9
+port,VAR_10

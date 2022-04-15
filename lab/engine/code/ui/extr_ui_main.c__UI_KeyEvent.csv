@@ -1,0 +1,15 @@
+KEYCATCH_UI,VAR_0
+K_ESCAPE,VAR_1
+Menu_Count,FUNC_0
+Menu_GetFocused,FUNC_1
+Menu_HandleKey,FUNC_2
+Menus_AnyFullScreenVisible,FUNC_3
+Menus_CloseAll,FUNC_4
+trap_Cvar_Set,FUNC_5
+trap_Key_ClearStates,FUNC_6
+trap_Key_GetCatcher,FUNC_7
+trap_Key_SetCatcher,FUNC_8
+_UI_KeyEvent,FUNC_9
+key,VAR_2
+down,VAR_3
+menu,VAR_4

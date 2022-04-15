@@ -1,0 +1,13 @@
+APR_STATUS_IS_EOF,FUNC_0
+SVN_NO_ERROR,VAR_0
+svn_error_clear,FUNC_1
+svn_error_trace,FUNC_2
+svn_io_file_getc,FUNC_3
+svn_io_file_read_full2,FUNC_4
+read_full_handler_apr,FUNC_5
+baton,VAR_1
+buffer,VAR_2
+len,VAR_3
+btn,VAR_4
+err,VAR_5
+eof,VAR_6

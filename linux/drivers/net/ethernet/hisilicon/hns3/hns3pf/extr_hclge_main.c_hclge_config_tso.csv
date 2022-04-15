@@ -1,0 +1,14 @@
+HCLGE_OPC_TSO_GENERIC_CONFIG,VAR_0
+HCLGE_TSO_MSS_MIN_M,VAR_1
+HCLGE_TSO_MSS_MIN_S,VAR_2
+cpu_to_le16,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hnae3_set_field,FUNC_3
+hclge_config_tso,FUNC_4
+hdev,VAR_3
+tso_mss_min,VAR_4
+tso_mss_max,VAR_5
+req,VAR_6
+desc,VAR_7
+tso_mss,VAR_8

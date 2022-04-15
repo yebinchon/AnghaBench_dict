@@ -1,0 +1,9 @@
+MCG_STATUS_RIPV,VAR_0
+MSR_IA32_MCG_STATUS,VAR_1
+cpu_is_offline,FUNC_0
+crashing_cpu,VAR_2
+mce_rdmsrl,FUNC_1
+mce_wrmsrl,FUNC_2
+__mc_check_crashing_cpu,FUNC_3
+cpu,VAR_3
+mcgstatus,VAR_4

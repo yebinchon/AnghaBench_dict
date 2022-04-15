@@ -1,0 +1,15 @@
+I40E_AQ_VSI_PROP_SWITCH_VALID,VAR_0
+I40E_AQ_VSI_SW_ID_FLAG_ALLOW_LB,VAR_1
+IXL_VSI_DATA_PORT,VAR_2
+device_printf,FUNC_0
+htole16,FUNC_1
+i40e_aq_update_vsi_params,FUNC_2
+memset,FUNC_3
+ixl_config_pf_vsi_loopback,FUNC_4
+pf,VAR_3
+enable,VAR_4
+hw,VAR_5
+dev,VAR_6
+vsi,VAR_7
+ctxt,VAR_8
+error,VAR_9

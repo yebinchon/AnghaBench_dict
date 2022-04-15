@@ -1,0 +1,12 @@
+DEVTOSOFTC,FUNC_0
+ENXIO,VAR_0
+SYS_RES_DRQ,VAR_1
+SYS_RES_IOPORT,VAR_2
+SYS_RES_IRQ,VAR_3
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_delete_children,FUNC_3
+mtx_destroy,FUNC_4
+ppc_detach,FUNC_5
+dev,VAR_4
+ppc,VAR_5

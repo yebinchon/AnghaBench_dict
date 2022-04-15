@@ -1,0 +1,14 @@
+ESP_ERR_INVALID_ARG,VAR_0
+ESP_ERR_MBEDTLS_CERT_PARTLY_OK,VAR_1
+ESP_FAIL,VAR_2
+ESP_LOGE,FUNC_0
+ESP_OK,VAR_3
+TAG,VAR_4
+esp_mbedtls_init_global_ca_store,FUNC_1
+global_cacert,VAR_5
+mbedtls_x509_crt_free,FUNC_2
+mbedtls_x509_crt_parse,FUNC_3
+esp_mbedtls_set_global_ca_store,FUNC_4
+cacert_pem_buf,VAR_6
+cacert_pem_bytes,VAR_7
+ret,VAR_8

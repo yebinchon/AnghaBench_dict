@@ -1,0 +1,16 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+ABS_Z,VAR_2
+XOUT_L,VAR_3
+dev_err,FUNC_0
+input_report_abs,FUNC_1
+input_sync,FUNC_2
+kxtj9_i2c_read,FUNC_3
+le16_to_cpu,FUNC_4
+kxtj9_report_acceleration_data,FUNC_5
+tj9,VAR_4
+acc_data,VAR_5
+x,VAR_6
+y,VAR_7
+z,VAR_8
+err,VAR_9

@@ -1,0 +1,12 @@
+TEST_CHECK,FUNC_0
+cf_salsa20_cipher,FUNC_1
+cf_salsa20_init,FUNC_2
+memcmp,FUNC_3
+memset,FUNC_4
+unhex,FUNC_5
+test_salsa20,FUNC_6
+ctx,VAR_0
+key,VAR_1
+nonce,VAR_2
+cipher,VAR_3
+expect,VAR_4

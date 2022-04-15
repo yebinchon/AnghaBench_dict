@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+IE_SOFT,VAR_1
+INTR_ENTROPY,VAR_2
+PI_SWI,FUNC_0
+intr_event_add_handler,FUNC_1
+intr_event_create,FUNC_2
+swi_assign_cpu,VAR_3
+swi_add,FUNC_3
+eventp,VAR_4
+name,VAR_5
+handler,VAR_6
+arg,VAR_7
+pri,VAR_8
+flags,VAR_9
+cookiep,VAR_10
+ie,VAR_11
+error,VAR_12

@@ -1,0 +1,14 @@
+EXT2_INODES_PER_GROUP,FUNC_0
+EXT2_SB,FUNC_1
+brelse,FUNC_2
+ext2_count_free,FUNC_3
+ext2_get_group_desc,FUNC_4
+le16_to_cpu,FUNC_5
+percpu_counter_read,FUNC_6
+printk,FUNC_7
+read_inode_bitmap,FUNC_8
+ext2_count_free_inodes,FUNC_9
+sb,VAR_0
+desc,VAR_1
+desc_count,VAR_2
+i,VAR_3

@@ -1,0 +1,5 @@
+INT_SOURCE_USART_2_TRANSMIT,VAR_0
+SYS_INT_SourceDisable,FUNC_0
+SYS_INT_SourceStatusClear,FUNC_1
+SYS_INT_SourceStatusGet,FUNC_2
+DRV_USART0_TasksTransmit,FUNC_3

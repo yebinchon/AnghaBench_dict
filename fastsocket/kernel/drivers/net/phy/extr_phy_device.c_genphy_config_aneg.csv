@@ -1,0 +1,12 @@
+AUTONEG_ENABLE,VAR_0
+BMCR_ANENABLE,VAR_1
+BMCR_ISOLATE,VAR_2
+MII_BMCR,VAR_3
+genphy_config_advert,FUNC_0
+genphy_restart_aneg,FUNC_1
+genphy_setup_forced,FUNC_2
+phy_read,FUNC_3
+genphy_config_aneg,FUNC_4
+phydev,VAR_4
+result,VAR_5
+ctl,VAR_6

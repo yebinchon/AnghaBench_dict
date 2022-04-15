@@ -1,0 +1,6 @@
+UDMA_GEN_TGTID_CFG_TGTID_0_MSIX_TGTID_ACCESS_EN,VAR_0
+UDMA_GEN_TGTID_CFG_TGTID_0_MSIX_TGTID_SEL,VAR_1
+al_reg_write32_masked,FUNC_0
+al_udma_gen_tgtid_msix_conf_set,FUNC_1
+unit_regs,VAR_2
+conf,VAR_3

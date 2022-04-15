@@ -1,0 +1,16 @@
+ATF_CHECK_EQ_MSG,FUNC_0
+ATF_CHECK_MSG,FUNC_1
+ATF_REQUIRE,FUNC_2
+MAP_FAILED,VAR_0
+errno,VAR_1
+getpagesize,FUNC_3
+mmap,FUNC_4
+munmap,FUNC_5
+checked_mmap,FUNC_6
+prot,VAR_2
+flags,VAR_3
+fd,VAR_4
+error,VAR_5
+msg,VAR_6
+p,VAR_7
+pagesize,VAR_8

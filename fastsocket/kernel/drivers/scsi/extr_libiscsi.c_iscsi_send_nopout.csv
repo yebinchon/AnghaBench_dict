@@ -1,0 +1,14 @@
+ISCSI_FLAG_CMD_FINAL,VAR_0
+ISCSI_OP_IMMEDIATE,VAR_1
+ISCSI_OP_NOOP_OUT,VAR_2
+KERN_ERR,VAR_3
+RESERVED_ITT,VAR_4
+__iscsi_conn_send_pdu,FUNC_0
+iscsi_conn_printk,FUNC_1
+jiffies,VAR_5
+memset,FUNC_2
+iscsi_send_nopout,FUNC_3
+conn,VAR_6
+rhdr,VAR_7
+hdr,VAR_8
+task,VAR_9

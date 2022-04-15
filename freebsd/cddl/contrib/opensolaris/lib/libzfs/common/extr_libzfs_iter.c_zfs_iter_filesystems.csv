@@ -1,0 +1,13 @@
+ZFS_IOC_DATASET_LIST_NEXT,VAR_0
+ZFS_TYPE_FILESYSTEM,VAR_1
+make_dataset_handle_zc,FUNC_0
+zcmd_alloc_dst_nvlist,FUNC_1
+zcmd_free_nvlists,FUNC_2
+zfs_do_list_ioctl,FUNC_3
+zfs_iter_filesystems,FUNC_4
+zhp,VAR_2
+func,VAR_3
+data,VAR_4
+zc,VAR_5
+nzhp,VAR_6
+ret,VAR_7

@@ -1,0 +1,7 @@
+TSL2561_CONTROL_REGISTER,VAR_0
+TSL2561_CONT_REG_PWR_OFF,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+tsl2561_powerdown,FUNC_1
+client,VAR_2
+err,VAR_3
+Command,VAR_4

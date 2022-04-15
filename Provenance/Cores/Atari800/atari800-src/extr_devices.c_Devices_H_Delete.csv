@@ -1,0 +1,17 @@
+CHECK_READ_ONLY,VAR_0
+CPU_ClrN,VAR_1
+CPU_SetN,VAR_2
+CPU_regY,VAR_3
+Devices_GetHostPath,FUNC_0
+Devices_OpenDir,FUNC_1
+Devices_ReadDir,FUNC_2
+FALSE,VAR_4
+Log_print,FUNC_3
+Util_unlink,FUNC_4
+devbug,VAR_5
+host_path,VAR_6
+Devices_H_Delete,FUNC_5
+num_deleted,VAR_7
+num_failed,VAR_8
+num_locked,VAR_9
+readonly,VAR_10

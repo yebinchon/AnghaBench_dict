@@ -1,0 +1,15 @@
+DPRINTF,FUNC_0
+MA_OWNED,VAR_0
+UE_XFERTYPE,VAR_1
+USB_BUS_LOCK_ASSERT,FUNC_1
+USB_ERR_NORMAL_COMPLETION,VAR_2
+mtx_owned,FUNC_2
+usb_callout_stop,FUNC_3
+usb_command_wrapper,FUNC_4
+usbd_callback_ss_done_defer,FUNC_5
+usbd_errstr,FUNC_6
+usbd_transfer_dequeue,FUNC_7
+usbd_transfer_done,FUNC_8
+xfer,VAR_3
+error,VAR_4
+info,VAR_5

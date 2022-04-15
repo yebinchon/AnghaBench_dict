@@ -1,0 +1,14 @@
+AMDGPU_FENCE_FLAG_64BIT,VAR_0
+PACKET0,FUNC_0
+VCN_DEC_CMD_FENCE,VAR_1
+VCN_DEC_CMD_TRAP,VAR_2
+VCN_DEC_KMD_CMD,VAR_3
+WARN_ON,FUNC_1
+amdgpu_ring_write,FUNC_2
+upper_32_bits,FUNC_3
+vcn_v2_0_dec_ring_emit_fence,FUNC_4
+ring,VAR_4
+addr,VAR_5
+seq,VAR_6
+flags,VAR_7
+adev,VAR_8

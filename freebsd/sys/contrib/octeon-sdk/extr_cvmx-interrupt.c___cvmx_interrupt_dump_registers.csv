@@ -1,0 +1,15 @@
+COP0_BADVADDR,VAR_0
+COP0_CAUSE,VAR_1
+COP0_EPC,VAR_2
+COP0_STATUS,VAR_3
+CVMX_MF_COP0,FUNC_0
+HI32,FUNC_1
+LO32,FUNC_2
+cvmx_safe_printf,FUNC_3
+print_reg64,FUNC_4
+reg_names,VAR_4
+__cvmx_interrupt_dump_registers,FUNC_5
+registers,VAR_5
+r1,VAR_6
+r2,VAR_7
+reg,VAR_8

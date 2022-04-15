@@ -1,0 +1,12 @@
+REG_INT_MSK_LINE_C,VAR_0
+REG_INT_MSK_STS_C,VAR_1
+TWL6030_USBOTG_INT_MASK,VAR_2
+cancel_delayed_work_sync,FUNC_0
+cancel_work_sync,FUNC_1
+free_irq,FUNC_2
+platform_get_drvdata,FUNC_3
+regulator_put,FUNC_4
+twl6030_interrupt_mask,FUNC_5
+twl6030_usb_remove,FUNC_6
+pdev,VAR_3
+twl,VAR_4

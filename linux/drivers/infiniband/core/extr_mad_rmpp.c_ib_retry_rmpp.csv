@@ -1,0 +1,10 @@
+IB_MGMT_RMPP_FLAG_ACTIVE,VAR_0
+IB_RMPP_RESULT_CONSUMED,VAR_1
+IB_RMPP_RESULT_PROCESSED,VAR_2
+IB_RMPP_RESULT_UNHANDLED,VAR_3
+ib_get_rmpp_flags,FUNC_0
+send_next_seg,FUNC_1
+ib_retry_rmpp,FUNC_2
+mad_send_wr,VAR_4
+rmpp_mad,VAR_5
+ret,VAR_6

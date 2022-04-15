@@ -1,0 +1,16 @@
+CMD_T_ABORTED,VAR_0
+CMD_T_COMPLETE,VAR_1
+CMD_T_FABRIC_STOP,VAR_2
+CMD_T_TAS,VAR_3
+WARN_ON_ONCE,FUNC_0
+assert_spin_locked,FUNC_1
+irqs_disabled,FUNC_2
+kref_get_unless_zero,FUNC_3
+pr_debug,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+__target_check_io_state,FUNC_7
+se_cmd,VAR_4
+tmr_sess,VAR_5
+tas,VAR_6
+sess,VAR_7

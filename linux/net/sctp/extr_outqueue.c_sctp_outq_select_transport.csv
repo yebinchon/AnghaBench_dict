@@ -1,0 +1,15 @@
+SCTP_CID_ASCONF_ACK,VAR_0
+SCTP_CID_HEARTBEAT,VAR_1
+SCTP_CID_HEARTBEAT_ACK,VAR_2
+list_add_tail,FUNC_0
+list_empty,FUNC_1
+sctp_assoc_lookup_paddr,FUNC_2
+sctp_chunk_is_data,FUNC_3
+sctp_cmp_addr_exact,FUNC_4
+sctp_packet_config,FUNC_5
+sctp_transport_burst_limited,FUNC_6
+sctp_outq_select_transport,FUNC_7
+ctx,VAR_3
+chunk,VAR_4
+new_transport,VAR_5
+type,VAR_6

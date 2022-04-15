@@ -1,0 +1,11 @@
+B43legacy_MACCTL_RADIOLOCK,VAR_0
+B43legacy_MMIO_MACCTL,VAR_1
+B43legacy_MMIO_PHY_VER,VAR_2
+B43legacy_WARN_ON,FUNC_0
+b43legacy_read16,FUNC_1
+b43legacy_read32,FUNC_2
+b43legacy_write32,FUNC_3
+mmiowb,FUNC_4
+b43legacy_radio_unlock,FUNC_5
+dev,VAR_3
+status,VAR_4

@@ -1,0 +1,11 @@
+E820_TYPE_RAM,VAR_0
+PageReserved,FUNC_0
+e820__mapped_raw_any,FUNC_1
+is_zero_pfn,FUNC_2
+pat_enabled,FUNC_3
+pat_pfn_immune_to_uc_mtrr,FUNC_4
+pfn_to_hpa,FUNC_5
+pfn_to_page,FUNC_6
+pfn_valid,FUNC_7
+kvm_is_mmio_pfn,FUNC_8
+pfn,VAR_1

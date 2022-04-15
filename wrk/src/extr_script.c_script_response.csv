@@ -1,0 +1,14 @@
+buffer_pushlstring,FUNC_0
+buffer_reset,FUNC_1
+lua_call,FUNC_2
+lua_getglobal,FUNC_3
+lua_newtable,FUNC_4
+lua_pushinteger,FUNC_5
+lua_pushlstring,FUNC_6
+lua_rawset,FUNC_7
+script_response,FUNC_8
+L,VAR_0
+status,VAR_1
+headers,VAR_2
+body,VAR_3
+c,VAR_4

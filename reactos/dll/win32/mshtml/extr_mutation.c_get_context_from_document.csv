@@ -1,0 +1,13 @@
+IID_nsIDocument,VAR_0
+NS_OK,VAR_1
+TRACE,FUNC_0
+assert,FUNC_1
+content_utils,VAR_2
+nsIContentUtils_GetContextFromDocument,FUNC_2
+nsIDOMHTMLDocument_QueryInterface,FUNC_3
+nsIDocument_Release,FUNC_4
+get_context_from_document,FUNC_5
+nsdoc,VAR_3
+doc,VAR_4
+ctx,VAR_5
+nsres,VAR_6

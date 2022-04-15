@@ -1,0 +1,7 @@
+NFTA_TUNNEL_KEY_DPORT,VAR_0
+NFTA_TUNNEL_KEY_SPORT,VAR_1
+htons,FUNC_0
+nla_put_be16,FUNC_1
+nft_tunnel_ports_dump,FUNC_2
+skb,VAR_2
+info,VAR_3

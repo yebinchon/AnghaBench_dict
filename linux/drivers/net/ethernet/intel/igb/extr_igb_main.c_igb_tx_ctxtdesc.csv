@@ -1,0 +1,17 @@
+E1000_ADVTXD_DTYP_CTXT,VAR_0
+E1000_TXD_CMD_DEXT,VAR_1
+IGB_RING_FLAG_TX_CTX_IDX,VAR_2
+IGB_TX_CTXTDESC,FUNC_0
+cpu_to_le32,FUNC_1
+ktime_set,FUNC_2
+ktime_to_timespec64,FUNC_3
+test_bit,FUNC_4
+igb_tx_ctxtdesc,FUNC_5
+tx_ring,VAR_3
+first,VAR_4
+vlan_macip_lens,VAR_5
+type_tucmd,VAR_6
+mss_l4len_idx,VAR_7
+context_desc,VAR_8
+i,VAR_9
+ts,VAR_10

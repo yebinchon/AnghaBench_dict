@@ -1,0 +1,17 @@
+HID_OUTPUT_FIFO_SIZE,VAR_0
+hid_hw_wait,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+picolcd_fb_reset,FUNC_3
+picolcd_fb_send_tile,FUNC_4
+picolcd_fb_update_tile,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+picolcd_fb_update,FUNC_8
+info,VAR_1
+chip,VAR_2
+tile,VAR_3
+n,VAR_4
+flags,VAR_5
+fbdata,VAR_6
+data,VAR_7

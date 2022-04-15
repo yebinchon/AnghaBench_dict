@@ -1,0 +1,15 @@
+BLK_STS_TARGET,VAR_0
+REQ_NOUNMAP,VAR_1
+blk_rq_pos,FUNC_0
+blk_rq_sectors,FUNC_1
+scsi_disk,FUNC_2
+sd_setup_write_same10_cmnd,FUNC_3
+sd_setup_write_same16_cmnd,FUNC_4
+sectors_to_logical,FUNC_5
+sd_setup_write_zeroes_cmnd,FUNC_6
+cmd,VAR_2
+rq,VAR_3
+sdp,VAR_4
+sdkp,VAR_5
+lba,VAR_6
+nr_blocks,VAR_7

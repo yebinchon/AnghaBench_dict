@@ -1,0 +1,17 @@
+CLK_FRAC_DIVIDER_ZERO_BASED,VAR_0
+__acquire,FUNC_0
+__release,FUNC_1
+clk_fd_readl,FUNC_2
+do_div,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_clk_fd,FUNC_6
+clk_fd_recalc_rate,FUNC_7
+hw,VAR_1
+parent_rate,VAR_2
+fd,VAR_3
+flags,VAR_4
+m,VAR_5
+n,VAR_6
+val,VAR_7
+ret,VAR_8

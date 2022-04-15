@@ -1,0 +1,13 @@
+INIT_LIST_HEAD,FUNC_0
+XHCI_CTX_TYPE_INPUT,VAR_0
+init_completion,FUNC_1
+kfree,FUNC_2
+kzalloc,FUNC_3
+xhci_alloc_container_ctx,FUNC_4
+xhci_free_container_ctx,FUNC_5
+xhci_alloc_command,FUNC_6
+xhci,VAR_1
+allocate_in_ctx,VAR_2
+allocate_completion,VAR_3
+mem_flags,VAR_4
+command,VAR_5

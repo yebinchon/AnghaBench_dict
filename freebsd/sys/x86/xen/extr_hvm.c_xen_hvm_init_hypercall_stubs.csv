@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENXIO,VAR_1
+KERNBASE,VAR_2
+XEN_HVM_INIT_EARLY,VAR_3
+XEN_HVM_INIT_LATE,VAR_4
+cpuid_base,VAR_5
+do_cpuid,FUNC_0
+hypercall_page,VAR_6
+hypervisor_version,FUNC_1
+vtophys,FUNC_2
+wrmsr,FUNC_3
+xen_domain,FUNC_4
+xen_hvm_cpuid_base,FUNC_5
+xen_hvm_init_hypercall_stubs,FUNC_6
+init_type,VAR_7
+regs,VAR_8

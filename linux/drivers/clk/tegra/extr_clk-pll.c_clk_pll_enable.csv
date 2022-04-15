@@ -1,0 +1,12 @@
+_clk_pll_enable,FUNC_0
+clk_pll_is_enabled,FUNC_1
+clk_pll_wait_for_lock,FUNC_2
+pll_clk_start_ss,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_clk_pll,FUNC_6
+clk_pll_enable,FUNC_7
+hw,VAR_0
+pll,VAR_1
+flags,VAR_2
+ret,VAR_3

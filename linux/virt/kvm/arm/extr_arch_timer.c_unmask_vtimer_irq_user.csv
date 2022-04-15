@@ -1,0 +1,12 @@
+enable_percpu_irq,FUNC_0
+has_gic_active_state,VAR_0
+host_vtimer_irq,VAR_1
+host_vtimer_irq_flags,VAR_2
+kvm_timer_should_fire,FUNC_1
+kvm_timer_update_irq,FUNC_2
+set_timer_irq_phys_active,FUNC_3
+static_branch_likely,FUNC_4
+vcpu_vtimer,FUNC_5
+unmask_vtimer_irq_user,FUNC_6
+vcpu,VAR_3
+vtimer,VAR_4

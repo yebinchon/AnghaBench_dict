@@ -1,0 +1,12 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+DMF_LOADED,VAR_2
+PSR_DMA_WRITE_SYNC,VAR_3
+Sync,VAR_4
+bus_space_read_8,FUNC_0
+membar,FUNC_1
+sabre_dmamap_sync,FUNC_2
+dt,VAR_5
+map,VAR_6
+op,VAR_7
+is,VAR_8

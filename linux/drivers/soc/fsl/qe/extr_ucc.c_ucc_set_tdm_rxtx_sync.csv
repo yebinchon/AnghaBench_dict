@@ -1,0 +1,16 @@
+COMM_DIR_RX,VAR_0
+COMM_DIR_TX,VAR_1
+EINVAL,VAR_2
+QE_CMXUCR_TX_CLK_SRC_MASK,VAR_3
+UCC_TDM_NUM,VAR_4
+qe_clrsetbits32,FUNC_0
+qe_immr,VAR_5
+ucc_get_tdm_sync_shift,FUNC_1
+ucc_get_tdm_sync_source,FUNC_2
+ucc_set_tdm_rxtx_sync,FUNC_3
+tdm_num,VAR_6
+clock,VAR_7
+mode,VAR_8
+source,VAR_9
+shift,VAR_10
+qe_mux_reg,VAR_11

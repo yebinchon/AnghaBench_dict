@@ -1,0 +1,16 @@
+AUXIO_AUX1_MASK,VAR_0
+auxio_lock,VAR_1
+auxio_register,VAR_2
+readl,FUNC_0
+sbus_readb,FUNC_1
+sbus_writeb,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+writel,FUNC_5
+__auxio_rmw,FUNC_6
+bits_on,VAR_3
+bits_off,VAR_4
+ebus,VAR_5
+flags,VAR_6
+regval,VAR_7
+newval,VAR_8

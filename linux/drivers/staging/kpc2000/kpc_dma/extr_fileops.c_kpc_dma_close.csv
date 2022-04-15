@@ -1,0 +1,17 @@
+ACD_FLAG_ABORT,VAR_0
+DMA_DESC_CTL_EOP,VAR_1
+atomic_inc,FUNC_0
+clear_desc,FUNC_1
+dev_dbg,FUNC_2
+kfree,FUNC_3
+lock_engine,FUNC_4
+start_dma_engine,FUNC_5
+stop_dma_engine,FUNC_6
+transfer_complete_cb,FUNC_7
+unlock_engine,FUNC_8
+kpc_dma_close,FUNC_9
+inode,VAR_2
+filp,VAR_3
+cur,VAR_4
+priv,VAR_5
+eng,VAR_6

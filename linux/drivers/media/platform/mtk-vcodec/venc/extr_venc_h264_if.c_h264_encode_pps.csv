@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+H264_BS_MODE_PPS,VAR_1
+MTK_VENC_IRQ_STATUS_PPS,VAR_2
+VENC_PIC_BITSTREAM_BYTE_CNT,VAR_3
+h264_enc_wait_venc_done,FUNC_0
+h264_read_reg,FUNC_1
+mtk_vcodec_debug,FUNC_2
+mtk_vcodec_debug_enter,FUNC_3
+mtk_vcodec_err,FUNC_4
+vpu_enc_encode,FUNC_5
+h264_encode_pps,FUNC_6
+inst,VAR_4
+bs_buf,VAR_5
+bs_size,VAR_6
+ret,VAR_7
+irq_status,VAR_8

@@ -1,0 +1,12 @@
+GUEST_INTERRUPTIBILITY_INFO,VAR_0
+GUEST_INTR_STATE_MOV_SS,VAR_1
+GUEST_INTR_STATE_STI,VAR_2
+X86_SHADOW_INT_MOV_SS,VAR_3
+X86_SHADOW_INT_STI,VAR_4
+vmcs_read32,FUNC_0
+vmcs_write32,FUNC_1
+vmx_set_interrupt_shadow,FUNC_2
+vcpu,VAR_5
+mask,VAR_6
+interruptibility_old,VAR_7
+interruptibility,VAR_8

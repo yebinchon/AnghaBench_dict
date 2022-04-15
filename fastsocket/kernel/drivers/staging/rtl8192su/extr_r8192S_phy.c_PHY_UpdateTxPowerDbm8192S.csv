@@ -1,0 +1,14 @@
+PHY_SetTxPowerLevel8192S,FUNC_0
+TRUE,VAR_0
+WIRELESS_MODE_B,VAR_1
+WIRELESS_MODE_N_24G,VAR_2
+ieee80211_priv,FUNC_1
+phy_DbmToTxPwrIdx,FUNC_2
+PHY_UpdateTxPowerDbm8192S,FUNC_3
+dev,VAR_3
+powerInDbm,VAR_4
+priv,VAR_5
+idx,VAR_6
+rf_path,VAR_7
+CckTxPwrIdx,VAR_8
+OfdmTxPwrIdx,VAR_9

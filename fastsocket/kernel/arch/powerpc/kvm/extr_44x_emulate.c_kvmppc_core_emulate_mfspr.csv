@@ -1,0 +1,9 @@
+EMULATED_MFSPR_EXITS,VAR_0
+EMULATE_DONE,VAR_1
+kvmppc_booke_emulate_mfspr,FUNC_0
+kvmppc_set_exit_type,FUNC_1
+kvmppc_core_emulate_mfspr,FUNC_2
+vcpu,VAR_2
+sprn,VAR_3
+rt,VAR_4
+emulated,VAR_5

@@ -1,0 +1,15 @@
+O_CREAT,VAR_0
+O_NONBLOCK,VAR_1
+O_RDWR,VAR_2
+_exit,FUNC_0
+close,FUNC_1
+errno,VAR_3
+flopen,FUNC_2
+strerror,FUNC_3
+unlink,FUNC_4
+vfork,FUNC_5
+test_flopen_lock_other,FUNC_6
+fn,VAR_4
+result,VAR_5
+fd1,VAR_6
+fd2,VAR_7

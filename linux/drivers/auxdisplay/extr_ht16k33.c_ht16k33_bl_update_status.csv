@@ -1,0 +1,11 @@
+BL_CORE_FBBLANK,VAR_0
+FB_BLANK_UNBLANK,VAR_1
+REG_BRIGHTNESS,VAR_2
+bl_get_data,FUNC_0
+ht16k33_display_off,FUNC_1
+ht16k33_display_on,FUNC_2
+i2c_smbus_write_byte,FUNC_3
+ht16k33_bl_update_status,FUNC_4
+bl,VAR_3
+brightness,VAR_4
+priv,VAR_5

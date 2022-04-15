@@ -1,0 +1,16 @@
+PAGE_SIZE,VAR_0
+VM_EXTERNAL_STATE_EXISTS,VAR_1
+VM_PAGE_NULL,VAR_2
+vm_compressor_pager_next_compressed,FUNC_0
+vm_compressor_pager_state_get,FUNC_1
+vm_compressor_pager_transfer,FUNC_2
+vm_counters,VAR_3
+vm_object_lock_assert_exclusive,FUNC_3
+vm_page_lookup,FUNC_4
+vm_object_do_collapse_compressor,FUNC_5
+object,VAR_4
+backing_object,VAR_5
+new_offset,VAR_6
+backing_offset,VAR_7
+size,VAR_8
+backing_pager_offset,VAR_9

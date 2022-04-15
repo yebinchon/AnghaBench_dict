@@ -1,0 +1,11 @@
+ACM_CTRL_DTR,VAR_0
+ACM_CTRL_RTS,VAR_1
+TIOCM_DTR,VAR_2
+TIOCM_RTS,VAR_3
+acm_set_control,FUNC_0
+acm_tty_tiocmset,FUNC_1
+tty,VAR_4
+set,VAR_5
+clear,VAR_6
+acm,VAR_7
+newctrl,VAR_8

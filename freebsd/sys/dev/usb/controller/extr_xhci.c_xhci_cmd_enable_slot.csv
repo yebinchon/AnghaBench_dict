@@ -1,0 +1,13 @@
+DPRINTF,FUNC_0
+XHCI_TRB_3_SLOT_GET,FUNC_1
+XHCI_TRB_3_TYPE_SET,FUNC_2
+XHCI_TRB_TYPE_ENABLE_SLOT,VAR_0
+htole32,FUNC_3
+le32toh,FUNC_4
+xhci_do_command,FUNC_5
+xhci_cmd_enable_slot,FUNC_6
+sc,VAR_1
+pslot,VAR_2
+trb,VAR_3
+temp,VAR_4
+err,VAR_5

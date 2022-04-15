@@ -1,0 +1,9 @@
+BGE_CHIPREV_5700_BX,VAR_0
+BGE_MBX_TX_HOST_PROD0_LO,VAR_1
+BGE_TX_TIMEOUT,VAR_2
+BUS_DMASYNC_PREWRITE,VAR_3
+bge_writembx,FUNC_0
+bus_dmamap_sync,FUNC_1
+bge_start_tx,FUNC_2
+sc,VAR_4
+prodidx,VAR_5

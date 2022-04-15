@@ -1,0 +1,13 @@
+LDNS_RR_TYPE_DNSKEY,VAR_0
+LDNS_RR_TYPE_NSEC3,VAR_1
+LDNS_RR_TYPE_RRSIG,VAR_2
+rr_comment_dnskey,FUNC_0
+rr_comment_nsec3,FUNC_1
+rr_comment_rrsig,FUNC_2
+sldns_wire2str_rr_comment_print,FUNC_3
+s,VAR_3
+slen,VAR_4
+rr,VAR_5
+rrlen,VAR_6
+dname_off,VAR_7
+rrtype,VAR_8

@@ -1,0 +1,14 @@
+__scsi_release_buffers,FUNC_0
+blk_end_request,FUNC_1
+blk_end_request_all,FUNC_2
+scsi_next_command,FUNC_3
+scsi_noretry_cmd,FUNC_4
+scsi_release_buffers,FUNC_5
+scsi_requeue_command,FUNC_6
+scsi_end_request,FUNC_7
+cmd,VAR_0
+error,VAR_1
+bytes,VAR_2
+requeue,VAR_3
+q,VAR_4
+req,VAR_5

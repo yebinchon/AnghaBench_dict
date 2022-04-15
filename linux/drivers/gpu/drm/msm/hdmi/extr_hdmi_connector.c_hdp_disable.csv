@@ -1,0 +1,16 @@
+REG_HDMI_HPD_INT_CTRL,VAR_0
+dev_warn,FUNC_0
+enable_hpd_clocks,FUNC_1
+gpio_config,FUNC_2
+hdmi_write,FUNC_3
+msm_hdmi_set_mode,FUNC_4
+pinctrl_pm_select_sleep_state,FUNC_5
+pm_runtime_put_autosuspend,FUNC_6
+regulator_disable,FUNC_7
+hdp_disable,FUNC_8
+hdmi_connector,VAR_1
+hdmi,VAR_2
+config,VAR_3
+dev,VAR_4
+i,VAR_5
+ret,VAR_6

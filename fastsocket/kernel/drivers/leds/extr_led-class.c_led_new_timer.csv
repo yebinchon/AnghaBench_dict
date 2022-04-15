@@ -1,0 +1,13 @@
+GFP_ATOMIC,VAR_0
+init_timer,FUNC_0
+kzalloc,FUNC_1
+led_lock,VAR_1
+led_timer_function,VAR_2
+led_timers,VAR_3
+list_add,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+led_new_timer,FUNC_5
+led_cdev,VAR_4
+led,VAR_5
+flags,VAR_6

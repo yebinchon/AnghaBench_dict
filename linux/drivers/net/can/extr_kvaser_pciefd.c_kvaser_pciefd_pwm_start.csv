@@ -1,0 +1,12 @@
+KVASER_PCIEFD_KCAN_PWM_REG,VAR_0
+KVASER_PCIEFD_KCAN_PWM_TOP_SHIFT,VAR_1
+iowrite32,FUNC_0
+kvaser_pciefd_pwm_stop,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+kvaser_pciefd_pwm_start,FUNC_4
+can,VAR_2
+top,VAR_3
+trigger,VAR_4
+pwm_ctrl,VAR_5
+irq,VAR_6

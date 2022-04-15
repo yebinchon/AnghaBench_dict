@@ -1,0 +1,10 @@
+cl_assert_equal_b,FUNC_0
+cl_assert_equal_p,FUNC_1
+cl_git_pass,FUNC_2
+git_repository_free,FUNC_3
+git_repository_is_bare,FUNC_4
+git_repository_new,FUNC_5
+git_repository_path,FUNC_6
+git_repository_workdir,FUNC_7
+test_repo_new__has_nothing,FUNC_8
+repo,VAR_0

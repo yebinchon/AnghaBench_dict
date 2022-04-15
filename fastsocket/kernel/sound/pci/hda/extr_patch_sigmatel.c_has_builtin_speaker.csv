@@ -1,0 +1,11 @@
+AUTO_PIN_SPEAKER_OUT,VAR_0
+INPUT_PIN_ATTR_INT,VAR_1
+snd_hda_codec_get_pincfg,FUNC_0
+snd_hda_get_input_pin_attr,FUNC_1
+has_builtin_speaker,FUNC_2
+codec,VAR_2
+spec,VAR_3
+nid_pin,VAR_4
+nids,VAR_5
+i,VAR_6
+def_conf,VAR_7

@@ -1,0 +1,11 @@
+MAC_IFNET_LOCK,FUNC_0
+MAC_IFNET_UNLOCK,FUNC_1
+MAC_POLICY_PERFORM_NOSLEEP,FUNC_2
+ifnet_create_mbuf,VAR_0
+mac_mbuf_to_label,FUNC_3
+mac_policy_count,VAR_1
+mac_ifnet_create_mbuf,FUNC_4
+ifp,VAR_2
+m,VAR_3
+label,VAR_4
+locked,VAR_5

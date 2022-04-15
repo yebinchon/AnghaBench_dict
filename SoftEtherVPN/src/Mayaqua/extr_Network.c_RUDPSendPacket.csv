@@ -1,0 +1,13 @@
+Add,FUNC_0
+Clone,FUNC_1
+NewUdpPacket,FUNC_2
+RUDP_PROTOCOL_DNS,VAR_0
+RUDP_PROTOCOL_ICMP,VAR_1
+RUDPSendPacket,FUNC_3
+r,VAR_2
+dest_ip,VAR_3
+dest_port,VAR_4
+data,VAR_5
+size,VAR_6
+icmp_type,VAR_7
+p,VAR_8

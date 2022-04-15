@@ -1,0 +1,15 @@
+GJ_DEBUG,FUNC_0
+KASSERT,FUNC_1
+g_journal_cache_mtx,VAR_0
+g_journal_force_switch,VAR_1
+g_journal_stats_journal_full,VAR_2
+g_journal_switcher_state,VAR_3
+g_journal_switcher_wokenup,VAR_4
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+panic,FUNC_4
+wakeup,FUNC_5
+g_journal_check_overflow,FUNC_6
+sc,VAR_5
+length,VAR_6
+used,VAR_7

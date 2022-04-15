@@ -1,0 +1,17 @@
+ExFreePoolWithTag,FUNC_0
+FileCloseAddress,FUNC_1
+FileCloseConnection,FUNC_2
+FileCloseControlChannel,FUNC_3
+IoGetCurrentIrpStackLocation,FUNC_4
+MIN_TRACE,VAR_0
+NT_SUCCESS,FUNC_5
+STATUS_INVALID_PARAMETER,VAR_1
+TI_DbgPrint,FUNC_6
+TRANS_CONTEXT_TAG,VAR_2
+TiCloseFileObject,FUNC_7
+DeviceObject,VAR_3
+Irp,VAR_4
+IrpSp,VAR_5
+Context,VAR_6
+Request,VAR_7
+Status,VAR_8

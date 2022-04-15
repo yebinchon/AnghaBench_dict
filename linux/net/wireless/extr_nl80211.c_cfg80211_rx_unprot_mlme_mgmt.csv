@@ -1,0 +1,17 @@
+GFP_ATOMIC,VAR_0
+NL80211_CMD_UNPROT_DEAUTHENTICATE,VAR_1
+NL80211_CMD_UNPROT_DISASSOCIATE,VAR_2
+WARN_ON,FUNC_0
+ieee80211_is_deauth,FUNC_1
+nl80211_send_mlme_event,FUNC_2
+trace_cfg80211_rx_unprot_mlme_mgmt,FUNC_3
+wiphy_to_rdev,FUNC_4
+cfg80211_rx_unprot_mlme_mgmt,FUNC_5
+dev,VAR_3
+buf,VAR_4
+len,VAR_5
+wdev,VAR_6
+wiphy,VAR_7
+rdev,VAR_8
+mgmt,VAR_9
+cmd,VAR_10

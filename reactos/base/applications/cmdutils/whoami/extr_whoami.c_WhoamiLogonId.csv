@@ -1,0 +1,12 @@
+ConvertSidToStringSidW,FUNC_0
+LocalFree,FUNC_1
+SE_GROUP_LOGON_ID,VAR_0
+TokenGroups,VAR_1
+WhoamiFree,FUNC_2
+WhoamiGetTokenInfo,FUNC_3
+wprintf,FUNC_4
+WhoamiLogonId,FUNC_5
+pGroupInfo,VAR_2
+dwIndex,VAR_3
+pSidStr,VAR_4
+pSid,VAR_5

@@ -1,0 +1,13 @@
+CONFIG_EXAMPLE_MDNS_HOST_NAME,VAR_0
+CONFIG_EXAMPLE_WEB_MOUNT_POINT,VAR_1
+ESP_ERROR_CHECK,FUNC_0
+esp_event_loop_create_default,FUNC_1
+esp_netif_init,FUNC_2
+example_connect,FUNC_3
+init_fs,FUNC_4
+initialise_mdns,FUNC_5
+netbiosns_init,FUNC_6
+netbiosns_set_name,FUNC_7
+nvs_flash_init,FUNC_8
+start_rest_server,FUNC_9
+app_main,FUNC_10

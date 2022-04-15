@@ -1,0 +1,15 @@
+ENODEV,VAR_0
+SSB_BAR0_MAX_RETRIES,VAR_1
+SSB_BAR0_WIN,VAR_2
+SSB_CORE_SIZE,VAR_3
+SSB_ENUM_BASE,VAR_4
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+pr_err,FUNC_2
+udelay,FUNC_3
+ssb_pci_switch_coreidx,FUNC_4
+bus,VAR_5
+coreidx,VAR_6
+err,VAR_7
+attempts,VAR_8
+cur_core,VAR_9

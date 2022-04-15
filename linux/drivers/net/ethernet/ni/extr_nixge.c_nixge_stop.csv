@@ -1,0 +1,17 @@
+XAXIDMA_CR_RUNSTOP_MASK,VAR_0
+XAXIDMA_RX_CR_OFFSET,VAR_1
+XAXIDMA_TX_CR_OFFSET,VAR_2
+free_irq,FUNC_0
+napi_disable,FUNC_1
+netdev_priv,FUNC_2
+netif_stop_queue,FUNC_3
+nixge_dma_read_reg,FUNC_4
+nixge_dma_write_reg,FUNC_5
+nixge_hw_dma_bd_release,FUNC_6
+phy_disconnect,FUNC_7
+phy_stop,FUNC_8
+tasklet_kill,FUNC_9
+nixge_stop,FUNC_10
+ndev,VAR_3
+priv,VAR_4
+cr,VAR_5

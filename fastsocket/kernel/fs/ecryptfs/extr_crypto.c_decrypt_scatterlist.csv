@@ -1,0 +1,17 @@
+CRYPTO_TFM_REQ_MAY_SLEEP,VAR_0
+EINVAL,VAR_1
+KERN_DEBUG,VAR_2
+KERN_ERR,VAR_3
+crypto_blkcipher_decrypt_iv,FUNC_0
+crypto_blkcipher_setkey,FUNC_1
+ecryptfs_printk,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+decrypt_scatterlist,FUNC_5
+crypt_stat,VAR_4
+dest_sg,VAR_5
+src_sg,VAR_6
+size,VAR_7
+iv,VAR_8
+desc,VAR_9
+rc,VAR_10

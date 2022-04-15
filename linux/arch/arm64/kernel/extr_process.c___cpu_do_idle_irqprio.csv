@@ -1,0 +1,12 @@
+GIC_PRIO_IRQON,VAR_0
+GIC_PRIO_PSR_I_SET,VAR_1
+PSR_I_BIT,VAR_2
+__cpu_do_idle,FUNC_0
+daif,VAR_3
+gic_read_pmr,FUNC_1
+gic_write_pmr,FUNC_2
+read_sysreg,FUNC_3
+write_sysreg,FUNC_4
+__cpu_do_idle_irqprio,FUNC_5
+pmr,VAR_4
+daif_bits,VAR_5

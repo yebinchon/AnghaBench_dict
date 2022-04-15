@@ -1,0 +1,14 @@
+CTPF_ABORT_RPL_PENDING,VAR_0
+CXGBI_DBG_SOCK,VAR_1
+cxgbi_sock_closed,FUNC_0
+cxgbi_sock_flag,FUNC_1
+cxgbi_sock_get,FUNC_2
+cxgbi_sock_put,FUNC_3
+cxgbi_sock_set_state,FUNC_4
+log_debug,FUNC_5
+pr_err,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+cxgbi_sock_rcv_close_conn_rpl,FUNC_9
+csk,VAR_2
+snd_nxt,VAR_3

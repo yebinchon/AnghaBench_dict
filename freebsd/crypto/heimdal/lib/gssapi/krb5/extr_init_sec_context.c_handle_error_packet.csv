@@ -1,0 +1,17 @@
+INITIATOR_RESTART,VAR_0
+KRB5KRB_AP_ERR_SKEW,VAR_1
+RETRIED,VAR_2
+free_KRB_ERROR,FUNC_0
+krb5_cc_set_config,FUNC_1
+krb5_error_from_rd_error,FUNC_2
+krb5_rd_error,FUNC_3
+time,FUNC_4
+handle_error_packet,FUNC_5
+context,VAR_3
+ctx,VAR_4
+indata,VAR_5
+kret,VAR_6
+error,VAR_7
+timedata,VAR_8
+p,VAR_9
+t,VAR_10

@@ -1,0 +1,9 @@
+ENXIO,VAR_0
+MSR_IA32_ENERGY_PERF_BIAS,VAR_1
+X86_FEATURE_EPB,VAR_2
+boot_cpu_has,FUNC_0
+rdmsrl_on_cpu,FUNC_1
+intel_pstate_get_epb,FUNC_2
+cpu_data,VAR_3
+epb,VAR_4
+ret,VAR_5

@@ -1,0 +1,16 @@
+ABORT_ALL,VAR_0
+ABORT_MASK,VAR_1
+ABORT_SINGLE,VAR_2
+cpu_to_le32,FUNC_0
+memset,FUNC_1
+pm8001_mpi_build_cmd,FUNC_2
+send_task_abort,FUNC_3
+pm8001_ha,VAR_3
+opc,VAR_4
+dev_id,VAR_5
+flag,VAR_6
+task_tag,VAR_7
+cmd_tag,VAR_8
+task_abort,VAR_9
+circularQ,VAR_10
+ret,VAR_11

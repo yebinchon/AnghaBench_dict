@@ -1,0 +1,14 @@
+PARSER_META,VAR_0
+luaL_newmetatable,FUNC_0
+lua_pop,FUNC_1
+lua_pushcfunction,FUNC_2
+lua_pushvalue,FUNC_3
+lua_setfield,FUNC_4
+lua_ucl_parser_gc,VAR_1
+lua_ucl_parser_get_object,VAR_2
+lua_ucl_parser_get_object_wrapped,VAR_3
+lua_ucl_parser_parse_file,VAR_4
+lua_ucl_parser_parse_string,VAR_5
+lua_ucl_parser_validate,VAR_6
+lua_ucl_parser_mt,FUNC_5
+L,VAR_7

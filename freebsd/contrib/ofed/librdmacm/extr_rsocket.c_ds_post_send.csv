@@ -1,0 +1,12 @@
+IBV_SEND_INLINE,VAR_0
+IBV_WR_SEND,VAR_1
+RDMA_UDP_QKEY,VAR_2
+ibv_post_send,FUNC_0
+rdma_seterrno,FUNC_1
+rs_send_wr_id,FUNC_2
+ds_post_send,FUNC_3
+rs,VAR_3
+sge,VAR_4
+wr_data,VAR_5
+wr,VAR_6
+bad,VAR_7

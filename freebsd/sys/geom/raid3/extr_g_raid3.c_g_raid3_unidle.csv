@@ -1,0 +1,14 @@
+G_RAID3_DEBUG,FUNC_0
+G_RAID3_DEVICE_FLAG_NOFAILSYNC,VAR_0
+G_RAID3_DISK_FLAG_DIRTY,VAR_1
+G_RAID3_DISK_STATE_ACTIVE,VAR_2
+SX_XLOCKED,VAR_3
+g_raid3_get_diskname,FUNC_1
+g_raid3_update_metadata,FUNC_2
+g_topology_assert_not,FUNC_3
+sx_assert,FUNC_4
+time_uptime,VAR_4
+g_raid3_unidle,FUNC_5
+sc,VAR_5
+disk,VAR_6
+i,VAR_7

@@ -1,0 +1,17 @@
+SNDRV_PCM_STREAM_CAPTURE,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+omap_mcpdm_active,FUNC_2
+omap_mcpdm_close_streams,FUNC_3
+omap_mcpdm_stop,FUNC_4
+pm_qos_remove_request,FUNC_5
+pm_qos_update_request,FUNC_6
+snd_soc_dai_get_drvdata,FUNC_7
+omap_mcpdm_dai_shutdown,FUNC_8
+substream,VAR_2
+dai,VAR_3
+mcpdm,VAR_4
+tx,VAR_5
+stream1,VAR_6
+stream2,VAR_7

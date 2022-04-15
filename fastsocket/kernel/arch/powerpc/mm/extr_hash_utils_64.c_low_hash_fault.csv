@@ -1,0 +1,11 @@
+BUS_ADRERR,VAR_0
+SEGV_ACCERR,VAR_1
+SIGBUS,VAR_2
+SIGSEGV,VAR_3
+_exception,FUNC_0
+bad_page_fault,FUNC_1
+user_mode,FUNC_2
+low_hash_fault,FUNC_3
+regs,VAR_4
+address,VAR_5
+rc,VAR_6

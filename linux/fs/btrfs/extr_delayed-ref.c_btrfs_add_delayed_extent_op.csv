@@ -1,0 +1,17 @@
+BTRFS_UPDATE_DELAYED_HEAD,VAR_0
+ENOMEM,VAR_1
+GFP_NOFS,VAR_2
+add_delayed_ref_head,FUNC_0
+btrfs_delayed_ref_head_cachep,VAR_3
+btrfs_update_delayed_refs_rsv,FUNC_1
+init_delayed_ref_head,FUNC_2
+kmem_cache_alloc,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+btrfs_add_delayed_extent_op,FUNC_6
+trans,VAR_4
+bytenr,VAR_5
+num_bytes,VAR_6
+extent_op,VAR_7
+head_ref,VAR_8
+delayed_refs,VAR_9

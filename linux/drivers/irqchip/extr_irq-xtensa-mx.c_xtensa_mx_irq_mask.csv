@@ -1,0 +1,15 @@
+HW_IRQ_MX_BASE,VAR_0
+MIENG,VAR_1
+XCHAL_INTTYPE_MASK_EXTERN_EDGE,VAR_2
+XCHAL_INTTYPE_MASK_EXTERN_LEVEL,VAR_3
+__this_cpu_read,FUNC_0
+__this_cpu_write,FUNC_1
+cached_irq_mask,VAR_4
+intenable,VAR_5
+set_er,FUNC_2
+xtensa_get_ext_irq_no,FUNC_3
+xtensa_set_sr,FUNC_4
+xtensa_mx_irq_mask,FUNC_5
+d,VAR_6
+mask,VAR_7
+ext_irq,VAR_8

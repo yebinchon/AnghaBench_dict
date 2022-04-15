@@ -1,0 +1,10 @@
+INTERCEPT_CR8_WRITE,VAR_0
+V_TPR_MASK,VAR_1
+is_cr_intercept,FUNC_0
+kvm_set_cr8,FUNC_1
+svm_nested_virtualize_tpr,FUNC_2
+to_svm,FUNC_3
+sync_cr8_to_lapic,FUNC_4
+vcpu,VAR_2
+svm,VAR_3
+cr8,VAR_4

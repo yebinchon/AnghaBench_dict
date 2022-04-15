@@ -1,0 +1,13 @@
+HNS3_RX_LOW_BYTE_RATE,VAR_0
+HNS3_RX_MID_BYTE_RATE,VAR_1
+HNS3_RX_ULTRA_PACKET_RATE,VAR_2
+do_div,FUNC_0
+jiffies,VAR_3
+jiffies_to_msecs,FUNC_1
+hns3_get_new_flow_lvl,FUNC_2
+ring_group,VAR_4
+new_flow_level,VAR_5
+tqp_vector,VAR_6
+packets_per_msecs,VAR_7
+bytes_per_msecs,VAR_8
+time_passed_ms,VAR_9

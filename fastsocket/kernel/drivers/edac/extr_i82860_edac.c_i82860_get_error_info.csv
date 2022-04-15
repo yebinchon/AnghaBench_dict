@@ -1,0 +1,11 @@
+I82860_DERRCTL_STS,VAR_0
+I82860_EAP,VAR_1
+I82860_ERRSTS,VAR_2
+pci_read_config_dword,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_bits16,FUNC_2
+to_pci_dev,FUNC_3
+i82860_get_error_info,FUNC_4
+mci,VAR_3
+info,VAR_4
+pdev,VAR_5

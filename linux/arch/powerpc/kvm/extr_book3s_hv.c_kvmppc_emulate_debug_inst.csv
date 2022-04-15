@@ -1,0 +1,14 @@
+EMULATE_DONE,VAR_0
+INST_GENERIC,VAR_1
+KVMPPC_INST_SW_BREAKPOINT,VAR_2
+KVM_EXIT_DEBUG,VAR_3
+RESUME_GUEST,VAR_4
+RESUME_HOST,VAR_5
+SRR1_PROGILL,VAR_6
+kvmppc_core_queue_program,FUNC_0
+kvmppc_get_last_inst,FUNC_1
+kvmppc_get_pc,FUNC_2
+kvmppc_emulate_debug_inst,FUNC_3
+run,VAR_7
+vcpu,VAR_8
+last_inst,VAR_9

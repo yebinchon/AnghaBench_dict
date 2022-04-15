@@ -1,0 +1,15 @@
+ASSERT_EXIT_CRIT_RETURN,FUNC_0
+VOID_RETURN,VAR_0
+calloc,FUNC_1
+find_task_in_twdt_list,FUNC_2
+portENTER_CRITICAL,FUNC_3
+portEXIT_CRITICAL,FUNC_4
+reset_hw_timer,FUNC_5
+twdt_config,VAR_1
+twdt_spinlock,VAR_2
+xTaskGetCurrentTaskHandle,FUNC_6
+esp_task_wdt_feed,FUNC_7
+handle,VAR_3
+all_reset,VAR_4
+target_task,VAR_5
+task,VAR_6

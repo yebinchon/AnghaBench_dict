@@ -1,0 +1,14 @@
+NI611X_AO_FIFO_OFFSET_LOAD_REG,VAR_0
+NISTC_DAC_FIFO_CLR_REG,VAR_1
+comedi_buf_read_n_available,FUNC_0
+comedi_bytes_to_samples,FUNC_1
+ni_ao_fifo_load,FUNC_2
+ni_ao_win_outl,FUNC_3
+ni_stc_writew,FUNC_4
+ni_ao_prep_fifo,FUNC_5
+dev,VAR_2
+s,VAR_3
+board,VAR_4
+devpriv,VAR_5
+nbytes,VAR_6
+nsamples,VAR_7

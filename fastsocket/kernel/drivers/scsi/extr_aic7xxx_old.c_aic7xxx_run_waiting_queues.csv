@@ -1,0 +1,16 @@
+AHC_QUEUE_REGS,VAR_0
+FALSE,VAR_1
+HNSCB_QOFF,VAR_2
+KERNEL_QINPOS,VAR_3
+SCB_WAITINGQ,VAR_4
+aic7xxx_busy_target,FUNC_0
+aic_outb,FUNC_1
+pause_sequencer,FUNC_2
+scbq_insert_tail,FUNC_3
+scbq_remove_head,FUNC_4
+unpause_sequencer,FUNC_5
+aic7xxx_run_waiting_queues,FUNC_6
+p,VAR_5
+scb,VAR_6
+aic_dev,VAR_7
+sent,VAR_8

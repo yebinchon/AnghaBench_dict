@@ -1,0 +1,15 @@
+BNXT_FW_RESET_STATE_ENABLE_DEV,VAR_0
+BNXT_FW_RESET_STATE_RESET_FW,VAR_1
+BNXT_STATE_IN_FW_RESET,VAR_2
+BNXT_STATE_OPEN,VAR_3
+ERROR_RECOVERY_QCFG_RESP_FLAGS_CO_CPU,VAR_4
+HZ,VAR_5
+bnxt_fw_reset_close,FUNC_0
+bnxt_queue_fw_reset_work,FUNC_1
+jiffies,VAR_6
+set_bit,FUNC_2
+test_bit,FUNC_3
+bnxt_force_fw_reset,FUNC_4
+bp,VAR_7
+fw_health,VAR_8
+wait_dsecs,VAR_9

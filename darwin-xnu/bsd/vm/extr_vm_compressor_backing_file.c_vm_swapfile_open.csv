@@ -1,0 +1,17 @@
+FREAD,VAR_0
+FWRITE,VAR_1
+MNTK_NOSWAP,VAR_2
+O_CREAT,VAR_3
+O_TRUNC,VAR_4
+S_IRUSR,VAR_5
+S_IWUSR,VAR_6
+printf,FUNC_0
+vfs_context_kernel,FUNC_1
+vm_swapfile_close,FUNC_2
+vnode_open,FUNC_3
+vnode_put,FUNC_4
+vm_swapfile_open,FUNC_5
+path,VAR_7
+vp,VAR_8
+error,VAR_9
+ctx,VAR_10

@@ -1,0 +1,13 @@
+IRQ_TYPE_LEVEL_HIGH,VAR_0
+IRQ_TYPE_LEVEL_LOW,VAR_1
+gpiochip_get_data,FUNC_0
+handle_edge_irq,VAR_2
+handle_level_irq,VAR_3
+irq_data_get_irq_chip_data,FUNC_1
+irq_set_handler_locked,FUNC_2
+irq_set_type,FUNC_3
+owl_gpio_irq_set_type,FUNC_4
+data,VAR_4
+type,VAR_5
+gc,VAR_6
+pctrl,VAR_7

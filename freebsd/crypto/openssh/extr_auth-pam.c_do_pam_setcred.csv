@@ -1,0 +1,16 @@
+PAM_CONV,VAR_0
+PAM_ESTABLISH_CRED,VAR_1
+PAM_REINITIALIZE_CRED,VAR_2
+PAM_SUCCESS,VAR_3
+debug,FUNC_0
+fatal,FUNC_1
+pam_set_item,FUNC_2
+pam_setcred,FUNC_3
+pam_strerror,FUNC_4
+sshpam_authenticated,VAR_4
+sshpam_cred_established,VAR_5
+sshpam_err,VAR_6
+sshpam_handle,VAR_7
+store_conv,VAR_8
+do_pam_setcred,FUNC_5
+init,VAR_9

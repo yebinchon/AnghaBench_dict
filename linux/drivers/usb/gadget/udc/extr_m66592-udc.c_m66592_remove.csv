@@ -1,0 +1,13 @@
+clk_disable,FUNC_0
+clk_put,FUNC_1
+del_timer_sync,FUNC_2
+free_irq,FUNC_3
+iounmap,FUNC_4
+kfree,FUNC_5
+m66592_free_request,FUNC_6
+platform_get_drvdata,FUNC_7
+platform_get_irq,FUNC_8
+usb_del_gadget_udc,FUNC_9
+m66592_remove,FUNC_10
+pdev,VAR_0
+m66592,VAR_1

@@ -1,0 +1,10 @@
+LOAD_NORMAL,VAR_0
+UNLOAD_NORMAL,VAR_1
+bnx2x_nic_load,FUNC_0
+bnx2x_nic_unload,FUNC_1
+netdev_priv,FUNC_2
+netif_running,FUNC_3
+unlikely,FUNC_4
+bnx2x_reload_if_running,FUNC_5
+dev,VAR_2
+bp,VAR_3

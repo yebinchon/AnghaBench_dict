@@ -1,0 +1,16 @@
+VMCI_ERROR_NOT_FOUND,VAR_0
+VMCI_QPFLAG_LOCAL,VAR_1
+VMCI_SUCCESS,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+qp_detatch_hypercall,FUNC_2
+qp_guest_endpoint_destroy,FUNC_3
+qp_guest_endpoints,VAR_3
+qp_guest_handle_to_entry,FUNC_4
+qp_list_remove_entry,FUNC_5
+qp_notify_peer_local,FUNC_6
+qp_detatch_guest_work,FUNC_7
+handle,VAR_4
+result,VAR_5
+entry,VAR_6
+ref_count,VAR_7

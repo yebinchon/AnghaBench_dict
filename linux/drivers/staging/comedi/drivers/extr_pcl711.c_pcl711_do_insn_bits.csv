@@ -1,0 +1,10 @@
+PCL711_DO_LSB_REG,VAR_0
+PCL711_DO_MSB_REG,VAR_1
+comedi_dio_update_state,FUNC_0
+outb,FUNC_1
+pcl711_do_insn_bits,FUNC_2
+dev,VAR_2
+s,VAR_3
+insn,VAR_4
+data,VAR_5
+mask,VAR_6

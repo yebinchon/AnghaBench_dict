@@ -1,0 +1,14 @@
+HCLGEVF_RSS_KEY_SIZE,VAR_0
+HCLGEVF_RSS_MBX_RESP_LEN,VAR_1
+HCLGE_MBX_GET_RSS_KEY,VAR_2
+dev_err,FUNC_0
+hclgevf_send_mbx_msg,FUNC_1
+memcpy,FUNC_2
+hclgevf_get_rss_hash_key,FUNC_3
+hdev,VAR_3
+rss_cfg,VAR_4
+resp_msg,VAR_5
+msg_num,VAR_6
+hash_key_index,VAR_7
+index,VAR_8
+ret,VAR_9

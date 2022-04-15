@@ -1,0 +1,7 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+enqueue_cmd_and_start_io,FUNC_1
+wait,VAR_0
+wait_for_completion,FUNC_2
+hpsa_scsi_do_simple_cmd_core,FUNC_3
+h,VAR_1
+c,VAR_2

@@ -1,0 +1,14 @@
+NFE_MSI_MESSAGES,VAR_0
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bootverbose,VAR_3
+bus_alloc_resource_any,FUNC_1
+bus_release_resource,FUNC_2
+device_printf,FUNC_3
+pci_alloc_msix,FUNC_4
+pci_release_msi,FUNC_5
+nfe_alloc_msix,FUNC_6
+sc,VAR_4
+count,VAR_5
+rid,VAR_6

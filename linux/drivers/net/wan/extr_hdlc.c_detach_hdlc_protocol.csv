@@ -1,0 +1,13 @@
+NETDEV_PRE_TYPE_CHANGE,VAR_0
+call_netdevice_notifiers,FUNC_0
+dev_to_hdlc,FUNC_1
+hdlc_setup_dev,FUNC_2
+kfree,FUNC_3
+module_put,FUNC_4
+netdev_err,FUNC_5
+notifier_to_errno,FUNC_6
+stub1,FUNC_7
+detach_hdlc_protocol,FUNC_8
+dev,VAR_1
+hdlc,VAR_2
+err,VAR_3

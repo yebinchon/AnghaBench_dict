@@ -1,0 +1,17 @@
+PFIL_IN,VAR_0
+PFIL_MEMPTR,VAR_1
+PFIL_OUT,VAR_2
+PFIL_TYPE_ETHERNET,VAR_3
+PFIL_TYPE_IP4,VAR_4
+PFIL_TYPE_IP6,VAR_5
+PFIL_VERSION,VAR_6
+V_ipfw_inet6_hook,VAR_7
+V_ipfw_inet_hook,VAR_8
+V_ipfw_link_hook,VAR_9
+ipfw_check_frame,VAR_10
+ipfw_check_packet,VAR_11
+pfil_add_hook,FUNC_0
+ipfw_hook,FUNC_1
+pf,VAR_12
+pha,VAR_13
+h,VAR_14

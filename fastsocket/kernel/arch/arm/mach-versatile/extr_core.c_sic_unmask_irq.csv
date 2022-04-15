@@ -1,0 +1,6 @@
+IRQ_SIC_START,VAR_0
+SIC_IRQ_ENABLE_SET,VAR_1
+VA_SIC_BASE,VAR_2
+writel,FUNC_0
+sic_unmask_irq,FUNC_1
+irq,VAR_3

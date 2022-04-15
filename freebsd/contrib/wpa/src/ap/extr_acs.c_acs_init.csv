@@ -1,0 +1,14 @@
+ACS_EVENT_STARTED,VAR_0
+HAPD_IFACE_ACS,VAR_1
+HOSTAPD_CHAN_ACS,VAR_2
+HOSTAPD_CHAN_INVALID,VAR_3
+MSG_INFO,VAR_4
+WPA_DRIVER_FLAGS_ACS_OFFLOAD,VAR_5
+acs_cleanup,FUNC_0
+acs_request_scan,FUNC_1
+hostapd_drv_do_acs,FUNC_2
+hostapd_set_state,FUNC_3
+wpa_msg,FUNC_4
+wpa_printf,FUNC_5
+acs_init,FUNC_6
+iface,VAR_6

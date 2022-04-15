@@ -1,0 +1,15 @@
+AMD_DPM_FORCED_LEVEL_PROFILE_MIN_MCLK,VAR_0
+AMD_DPM_FORCED_LEVEL_PROFILE_MIN_SCLK,VAR_1
+AMD_DPM_FORCED_LEVEL_PROFILE_PEAK,VAR_2
+SMU_MCLK,VAR_3
+SMU_SCLK,VAR_4
+SMU_SOCCLK,VAR_5
+smu_get_dpm_level_count,FUNC_0
+navi10_get_profiling_clk_mask,FUNC_1
+smu,VAR_6
+level,VAR_7
+sclk_mask,VAR_8
+mclk_mask,VAR_9
+soc_mask,VAR_10
+ret,VAR_11
+level_count,VAR_12

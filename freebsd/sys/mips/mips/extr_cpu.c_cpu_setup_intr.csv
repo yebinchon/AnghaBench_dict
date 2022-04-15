@@ -1,0 +1,16 @@
+cpu_establish_hardintr,FUNC_0
+device_get_nameunit,FUNC_1
+device_printf,FUNC_2
+rman_activate_resource,FUNC_3
+rman_get_start,FUNC_4
+cpu_setup_intr,FUNC_5
+dev,VAR_0
+child,VAR_1
+res,VAR_2
+flags,VAR_3
+filt,VAR_4
+handler,VAR_5
+arg,VAR_6
+cookiep,VAR_7
+error,VAR_8
+intr,VAR_9

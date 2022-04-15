@@ -1,0 +1,16 @@
+BTRFS_I,FUNC_0
+BTRFS_INODE_READONLY,VAR_0
+EACCES,VAR_1
+EROFS,VAR_2
+MAY_WRITE,VAR_3
+S_ISDIR,FUNC_1
+S_ISLNK,FUNC_2
+S_ISREG,FUNC_3
+btrfs_check_acl,VAR_4
+btrfs_root_readonly,FUNC_4
+generic_permission,FUNC_5
+btrfs_permission,FUNC_6
+inode,VAR_5
+mask,VAR_6
+root,VAR_7
+mode,VAR_8

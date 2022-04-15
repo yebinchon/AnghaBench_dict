@@ -1,0 +1,17 @@
+CURSOR_DRAW_DELAY,VAR_0
+KD_TEXT,VAR_1
+console_blanked,VAR_2
+cursor_undrawn,FUNC_0
+p,VAR_3
+scr_readw,FUNC_1
+sti_putc,FUNC_2
+sticon_sti,VAR_4
+vbl_cursor_cnt,VAR_5
+vga_is_gfx,VAR_6
+sticon_putcs,FUNC_3
+conp,VAR_7
+s,VAR_8
+count,VAR_9
+ypos,VAR_10
+xpos,VAR_11
+redraw_cursor,VAR_12

@@ -1,0 +1,8 @@
+GUEST_INTR_STATUS,VAR_0
+vmcs_read16,FUNC_0
+vmcs_write16,FUNC_1
+vmx_hwapic_isr_update,FUNC_2
+vcpu,VAR_1
+max_isr,VAR_2
+status,VAR_3
+old,VAR_4

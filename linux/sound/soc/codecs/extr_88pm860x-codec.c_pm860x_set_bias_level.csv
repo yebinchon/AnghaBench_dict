@@ -1,0 +1,14 @@
+AUDIO_PLL,VAR_0
+AUDIO_SECTION_ON,VAR_1
+AUDIO_SECTION_RESET,VAR_2
+REG_MISC2,VAR_3
+pm860x_reg_write,FUNC_0
+pm860x_set_bits,FUNC_1
+snd_soc_component_get_bias_level,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+udelay,FUNC_4
+pm860x_set_bias_level,FUNC_5
+component,VAR_4
+level,VAR_5
+pm860x,VAR_6
+data,VAR_7

@@ -1,0 +1,11 @@
+AR8327_LED_PATTERN_BLINK,VAR_0
+EINVAL,VAR_1
+ar8327_led_schedule_change,FUNC_0
+led_cdev_to_ar8327_led,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+ar8327_led_blink_set,FUNC_4
+led_cdev,VAR_2
+delay_on,VAR_3
+delay_off,VAR_4
+aled,VAR_5

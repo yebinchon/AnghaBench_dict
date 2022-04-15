@@ -1,0 +1,9 @@
+__netif_receive_skb_one_core,FUNC_0
+memalloc_noreclaim_restore,FUNC_1
+memalloc_noreclaim_save,FUNC_2
+sk_memalloc_socks,FUNC_3
+skb_pfmemalloc,FUNC_4
+__netif_receive_skb,FUNC_5
+skb,VAR_0
+ret,VAR_1
+noreclaim_flag,VAR_2

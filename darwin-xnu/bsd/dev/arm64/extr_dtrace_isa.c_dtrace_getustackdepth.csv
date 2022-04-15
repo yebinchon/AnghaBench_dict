@@ -1,0 +1,17 @@
+CPU_DTRACE_ENTRY,VAR_0
+CPU_DTRACE_FAULT,VAR_1
+DTRACE_CPUFLAG_ISSET,FUNC_0
+current_thread,FUNC_1
+dtrace_getustack_common,FUNC_2
+find_user_regs,FUNC_3
+get_saved_state_fp,FUNC_4
+get_saved_state_lr,FUNC_5
+get_saved_state_pc,FUNC_6
+get_saved_state_sp,FUNC_7
+dtrace_getustackdepth,FUNC_8
+thread,VAR_2
+regs,VAR_3
+pc,VAR_4
+sp,VAR_5
+fp,VAR_6
+n,VAR_7

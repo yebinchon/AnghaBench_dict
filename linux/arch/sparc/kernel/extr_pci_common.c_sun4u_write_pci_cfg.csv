@@ -1,0 +1,17 @@
+PCIBIOS_SUCCESSFUL,VAR_0
+PCI_SLOT,FUNC_0
+pci_config_write16,FUNC_1
+pci_config_write32,FUNC_2
+pci_config_write8,FUNC_3
+printk,FUNC_4
+sun4u_config_mkaddr,FUNC_5
+sun4u_write_pci_cfg_host,FUNC_6
+sun4u_write_pci_cfg,FUNC_7
+bus_dev,VAR_1
+devfn,VAR_2
+where,VAR_3
+size,VAR_4
+value,VAR_5
+pbm,VAR_6
+bus,VAR_7
+addr,VAR_8

@@ -1,0 +1,9 @@
+IFF_ALLMULTI,VAR_0
+glc_add_maddr,VAR_1
+if_foreach_llmaddr,FUNC_0
+lv1_net_add_multicast_address,FUNC_1
+lv1_net_remove_multicast_address,FUNC_2
+glc_set_multicast,FUNC_3
+sc,VAR_2
+ifp,VAR_3
+naddrs,VAR_4

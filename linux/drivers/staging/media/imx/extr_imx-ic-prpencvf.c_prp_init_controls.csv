@@ -1,0 +1,13 @@
+V4L2_CID_HFLIP,VAR_0
+V4L2_CID_ROTATE,VAR_1
+V4L2_CID_VFLIP,VAR_2
+prp_ctrl_ops,VAR_3
+v4l2_ctrl_handler_free,FUNC_0
+v4l2_ctrl_handler_init,FUNC_1
+v4l2_ctrl_handler_setup,FUNC_2
+v4l2_ctrl_new_std,FUNC_3
+prp_init_controls,FUNC_4
+priv,VAR_4
+ic_priv,VAR_5
+hdlr,VAR_6
+ret,VAR_7

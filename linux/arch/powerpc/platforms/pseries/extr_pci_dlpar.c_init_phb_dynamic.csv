@@ -1,0 +1,14 @@
+PCI_DN,FUNC_0
+eeh_add_device_tree_early,FUNC_1
+eeh_dev_phb_init_dynamic,FUNC_2
+pci_devs_phb_init_dynamic,FUNC_3
+pci_process_bridge_OF_ranges,FUNC_4
+pcibios_alloc_controller,FUNC_5
+pcibios_finish_adding_to_bus,FUNC_6
+pcibios_scan_phb,FUNC_7
+pr_debug,FUNC_8
+pseries_pci_controller_ops,VAR_0
+rtas_setup_phb,FUNC_9
+init_phb_dynamic,FUNC_10
+dn,VAR_1
+phb,VAR_2

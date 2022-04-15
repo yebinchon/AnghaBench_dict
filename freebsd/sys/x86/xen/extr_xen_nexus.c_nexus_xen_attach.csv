@@ -1,0 +1,15 @@
+BUS_ADD_CHILD,FUNC_0
+acpi_cpu_disabled,VAR_0
+acpi_hpet_disabled,VAR_1
+acpi_install_wakeup_handler,FUNC_1
+acpi_timer_disabled,VAR_2
+bus_generic_attach,FUNC_2
+bus_generic_probe,FUNC_3
+device_get_softc,FUNC_4
+nexus_init_resources,FUNC_5
+panic,FUNC_6
+xen_initial_domain,FUNC_7
+nexus_xen_attach,FUNC_8
+dev,VAR_3
+error,VAR_4
+acpi_dev,VAR_5

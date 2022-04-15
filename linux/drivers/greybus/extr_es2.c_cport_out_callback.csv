@@ -1,0 +1,14 @@
+check_urb_status,FUNC_0
+free_urb,FUNC_1
+gb_message_cport_clear,FUNC_2
+greybus_message_sent,FUNC_3
+hd_to_es2,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+cport_out_callback,FUNC_7
+urb,VAR_0
+message,VAR_1
+hd,VAR_2
+es2,VAR_3
+status,VAR_4
+flags,VAR_5

@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+M98095_090_PWR_EN_IN,VAR_0
+M98095_MBEN,VAR_1
+clk_disable_unprepare,FUNC_1
+clk_prepare_enable,FUNC_2
+dev_err,FUNC_3
+regcache_mark_dirty,FUNC_4
+regcache_sync,FUNC_5
+snd_soc_component_get_bias_level,FUNC_6
+snd_soc_component_get_drvdata,FUNC_7
+snd_soc_component_update_bits,FUNC_8
+max98095_set_bias_level,FUNC_9
+component,VAR_2
+level,VAR_3
+max98095,VAR_4
+ret,VAR_5

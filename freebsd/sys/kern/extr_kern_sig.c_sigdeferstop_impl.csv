@@ -1,0 +1,14 @@
+SIGDEFERSTOP_VAL_NCHG,VAR_0
+TDF_SBDRY,VAR_1
+TDF_SEINTR,VAR_2
+TDF_SERESTART,VAR_3
+curthread,VAR_4
+panic,FUNC_0
+sigdeferstop_curr_flags,FUNC_1
+thread_lock,FUNC_2
+thread_unlock,FUNC_3
+sigdeferstop_impl,FUNC_4
+mode,VAR_5
+td,VAR_6
+cflags,VAR_7
+nflags,VAR_8

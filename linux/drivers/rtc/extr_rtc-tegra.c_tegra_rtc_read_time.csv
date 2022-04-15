@@ -1,0 +1,15 @@
+TEGRA_RTC_REG_MILLI_SECONDS,VAR_0
+TEGRA_RTC_REG_SHADOW_SECONDS,VAR_1
+dev_get_drvdata,FUNC_0
+dev_vdbg,FUNC_1
+readl,FUNC_2
+rtc_time64_to_tm,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+tegra_rtc_read_time,FUNC_6
+dev,VAR_2
+tm,VAR_3
+info,VAR_4
+flags,VAR_5
+sec,VAR_6
+msec,VAR_7

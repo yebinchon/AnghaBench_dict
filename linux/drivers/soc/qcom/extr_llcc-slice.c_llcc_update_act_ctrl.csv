@@ -1,0 +1,17 @@
+ACT_CTRL_ACT_TRIG,VAR_0
+IS_ERR,FUNC_0
+LLCC_STATUS_READ_DELAY,VAR_1
+LLCC_TRP_ACT_CTRLn,FUNC_1
+LLCC_TRP_STATUSn,FUNC_2
+PTR_ERR,FUNC_3
+drv_data,VAR_2
+regmap_read_poll_timeout,FUNC_4
+regmap_write,FUNC_5
+llcc_update_act_ctrl,FUNC_6
+sid,VAR_3
+act_ctrl_reg_val,VAR_4
+status,VAR_5
+act_ctrl_reg,VAR_6
+status_reg,VAR_7
+slice_status,VAR_8
+ret,VAR_9

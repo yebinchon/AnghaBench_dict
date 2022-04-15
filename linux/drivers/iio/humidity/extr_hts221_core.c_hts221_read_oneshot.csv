@@ -1,0 +1,11 @@
+IIO_VAL_INT,VAR_0
+hts221_set_enable,FUNC_0
+le16_to_cpu,FUNC_1
+msleep,FUNC_2
+regmap_bulk_read,FUNC_3
+hts221_read_oneshot,FUNC_4
+hw,VAR_1
+addr,VAR_2
+val,VAR_3
+data,VAR_4
+err,VAR_5

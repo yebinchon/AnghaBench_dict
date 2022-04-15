@@ -1,0 +1,12 @@
+DPRINTF,FUNC_0
+U3G_MAXPORTS,VAR_0
+U3G_N_TRANSFER,VAR_1
+device_claim_softc,FUNC_1
+device_get_softc,FUNC_2
+u3g_free_softc,FUNC_3
+ucom_detach,FUNC_4
+usbd_transfer_unsetup,FUNC_5
+u3g_detach,FUNC_6
+dev,VAR_2
+sc,VAR_3
+subunit,VAR_4

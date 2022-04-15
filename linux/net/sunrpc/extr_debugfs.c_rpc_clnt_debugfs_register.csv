@@ -1,0 +1,13 @@
+S_IFREG,VAR_0
+debugfs_create_dir,FUNC_0
+debugfs_create_file,FUNC_1
+do_xprt_debugfs,VAR_1
+rpc_clnt_dir,VAR_2
+rpc_clnt_iterate_for_each_xprt,FUNC_2
+snprintf,FUNC_3
+tasks_fops,VAR_3
+rpc_clnt_debugfs_register,FUNC_4
+clnt,VAR_4
+len,VAR_5
+name,VAR_6
+xprtnum,VAR_7

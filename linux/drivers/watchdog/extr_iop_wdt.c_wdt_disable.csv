@@ -1,0 +1,12 @@
+IOP_WDTCR_DIS,VAR_0
+IOP_WDTCR_DIS_ARM,VAR_1
+WDT_ENABLED,VAR_2
+clear_bit,FUNC_0
+pr_info,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+wdt_lock,VAR_3
+wdt_status,VAR_4
+wdt_supports_disable,FUNC_4
+write_wdtcr,FUNC_5
+wdt_disable,FUNC_6

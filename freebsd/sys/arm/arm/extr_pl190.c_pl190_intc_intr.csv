@@ -1,0 +1,17 @@
+FILTER_HANDLED,VAR_0
+INTC_VIC_READ_4,FUNC_0
+PCPU_GET,FUNC_1
+VICIRQSTATUS,VAR_1
+VIC_LOCK,FUNC_2
+VIC_NIRQS,VAR_2
+VIC_UNLOCK,FUNC_3
+cpuid,VAR_3
+curthread,VAR_4
+pl190_intc_irq_dispatch,FUNC_4
+pl190_intc_intr,FUNC_5
+arg,VAR_5
+sc,VAR_6
+cpu,VAR_7
+num,VAR_8
+pending,VAR_9
+tf,VAR_10

@@ -1,0 +1,16 @@
+PAGE_SIZE,VAR_0
+UINSNS_PER_PAGE,VAR_1
+UPROBE_XOL_SLOT_BYTES,VAR_2
+atomic_dec,FUNC_0
+clear_bit,FUNC_1
+smp_mb__after_atomic,FUNC_2
+unlikely,FUNC_3
+waitqueue_active,FUNC_4
+wake_up,FUNC_5
+xol_free_insn_slot,FUNC_6
+tsk,VAR_3
+area,VAR_4
+vma_end,VAR_5
+slot_addr,VAR_6
+offset,VAR_7
+slot_nr,VAR_8

@@ -1,0 +1,16 @@
+H_PERIOD,VAR_0
+H_PULSE,VAR_1
+TIMER0_id,VAR_2
+TIMER1_id,VAR_3
+TIMER_CLK_SEL,VAR_4
+TIMER_EMU_RUN,VAR_5
+TIMER_MODE_PWM,VAR_6
+TIMER_PERIOD_CNT,VAR_7
+TIMER_TIN_SEL,VAR_8
+V_PERIOD,VAR_9
+V_PULSE,VAR_10
+bfin_t350mcqb_stop_timers,FUNC_0
+set_gptimer_config,FUNC_1
+set_gptimer_period,FUNC_2
+set_gptimer_pwidth,FUNC_3
+bfin_t350mcqb_init_timers,FUNC_4

@@ -1,0 +1,17 @@
+SNDRV_PCM_TRIGGER_STOP,VAR_0
+SND_SOC_DAPM_STREAM_NOP,VAR_1
+SND_SOC_DPCM_TRIGGER_BESPOKE,VAR_2
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+dpcm_be_dai_hw_free,FUNC_2
+dpcm_be_dai_shutdown,FUNC_3
+dpcm_be_dai_trigger,FUNC_4
+dpcm_dapm_stream_event,FUNC_5
+snd_soc_dpcm_get_substream,FUNC_6
+soc_pcm_bespoke_trigger,FUNC_7
+dpcm_run_update_shutdown,FUNC_8
+fe,VAR_3
+stream,VAR_4
+substream,VAR_5
+trigger,VAR_6
+err,VAR_7

@@ -1,0 +1,16 @@
+EADM_IDLE,VAR_0
+EADM_NOT_OPER,VAR_1
+SCH_TODO_UNREG,VAR_2
+cio_update_schib,FUNC_0
+css_sched_sch_todo,FUNC_1
+device_is_registered,FUNC_2
+get_eadm_private,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+work_pending,FUNC_6
+eadm_subchannel_sch_event,FUNC_7
+sch,VAR_3
+process,VAR_4
+private,VAR_5
+flags,VAR_6
+ret,VAR_7

@@ -1,0 +1,13 @@
+CLOCK_PROCESS_CPUTIME_ID,VAR_0
+CLOCK_THREAD_CPUTIME_ID,VAR_1
+ITIMER_PROF,VAR_2
+ITIMER_REAL,VAR_3
+ITIMER_VIRTUAL,VAR_4
+check_itimer,FUNC_0
+check_timer_create,FUNC_1
+ksft_exit_fail,FUNC_2
+ksft_exit_pass,FUNC_3
+printf,FUNC_4
+main,FUNC_5
+argc,VAR_5
+argv,VAR_6

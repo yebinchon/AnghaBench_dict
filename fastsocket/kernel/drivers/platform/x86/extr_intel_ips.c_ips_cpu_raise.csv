@@ -1,0 +1,12 @@
+THM_MPCPC,VAR_0
+TURBO_POWER_CURRENT_LIMIT,VAR_1
+TURBO_TDC_OVR_EN,VAR_2
+TURBO_TDP_MASK,VAR_3
+rdmsrl,FUNC_0
+thm_writew,FUNC_1
+wrmsrl,FUNC_2
+ips_cpu_raise,FUNC_3
+ips,VAR_4
+turbo_override,VAR_5
+cur_tdp_limit,VAR_6
+new_tdp_limit,VAR_7

@@ -1,0 +1,11 @@
+ENOMEM,VAR_0
+LS_SIZE,VAR_1
+PAGE_SIZE,VAR_2
+SetPageReserved,FUNC_0
+memset,FUNC_1
+vmalloc,FUNC_2
+vmalloc_to_page,FUNC_3
+spu_alloc_lscsa_std,FUNC_4
+csa,VAR_3
+lscsa,VAR_4
+p,VAR_5

@@ -1,0 +1,11 @@
+S5PC100_CLKSRC1_CLK48M_MASK,VAR_0
+S5PC1XX_CLK_SRC1,VAR_1
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+clk_48m_ctrl,FUNC_4
+clk,VAR_2
+enable,VAR_3
+flags,VAR_4
+val,VAR_5

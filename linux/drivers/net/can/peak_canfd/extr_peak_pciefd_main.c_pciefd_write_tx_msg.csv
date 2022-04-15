@@ -1,0 +1,8 @@
+PCIEFD_REG_CAN_TX_REQ_ACC,VAR_0
+le16_to_cpu,FUNC_0
+pciefd_can_writereg,FUNC_1
+pciefd_write_tx_msg,FUNC_2
+ucan,VAR_1
+msg,VAR_2
+priv,VAR_3
+page,VAR_4

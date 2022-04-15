@@ -1,0 +1,14 @@
+SSH2_MSG_KEX_ECDH_INIT,VAR_0
+SSH2_MSG_KEX_ECDH_REPLY,VAR_1
+debug,FUNC_0
+dump_digest,FUNC_1
+input_kex_c25519_reply,VAR_2
+kexc25519_keygen,FUNC_2
+ssh_dispatch_set,FUNC_3
+sshpkt_put_string,FUNC_4
+sshpkt_send,FUNC_5
+sshpkt_start,FUNC_6
+kexc25519_client,FUNC_7
+ssh,VAR_3
+kex,VAR_4
+r,VAR_5

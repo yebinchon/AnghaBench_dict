@@ -1,0 +1,12 @@
+MBI_REG_WRITE,VAR_0
+QRK_DTS_REG_OFFSET_ENABLE,VAR_1
+QRK_DTS_REG_OFFSET_PTPS,VAR_2
+QRK_MBI_UNIT_RMU,VAR_3
+dts_update_mutex,VAR_4
+iosf_mbi_write,FUNC_0
+kfree,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+thermal_zone_device_unregister,FUNC_4
+free_soc_dts,FUNC_5
+aux_entry,VAR_5

@@ -1,0 +1,12 @@
+USB_CDC_NCM_NDP16_NOCRC_SIGN,VAR_0
+cdc_ncm_fill_tx_frame,FUNC_0
+cpu_to_le32,FUNC_1
+dev_kfree_skb_any,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+cdc_ncm_tx_fixup,FUNC_5
+dev,VAR_1
+skb,VAR_2
+flags,VAR_3
+skb_out,VAR_4
+ctx,VAR_5

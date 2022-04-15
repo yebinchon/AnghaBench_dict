@@ -1,0 +1,16 @@
+CL_DEVICE_TYPE_GPU,VAR_0
+NVML_CLOCK_SM,VAR_1
+VENDOR_ID_AMD,VAR_2
+VENDOR_ID_NV,VAR_3
+hm_ADL_Overdrive_CurrentActivity_Get,FUNC_0
+hm_NVML_nvmlDeviceGetClockInfo,FUNC_1
+hm_SYSFS_get_pp_dpm_sclk,FUNC_2
+hm_get_corespeed_with_devices_idx,FUNC_3
+hashcat_ctx,VAR_4
+backend_device_idx,VAR_5
+hwmon_ctx,VAR_6
+backend_ctx,VAR_7
+clockfreq,VAR_8
+PMActivity,VAR_9
+clockfreq,VAR_10
+clockfreq,VAR_11

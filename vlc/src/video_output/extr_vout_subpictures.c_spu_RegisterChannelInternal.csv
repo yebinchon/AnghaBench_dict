@@ -1,0 +1,14 @@
+VLC_VOUT_ORDER_PRIMARY,VAR_0
+VOUT_SPU_CHANNEL_INVALID,VAR_1
+spu_GetFreeChannelId,FUNC_0
+spu_channel_Init,FUNC_1
+vlc_mutex_lock,FUNC_2
+vlc_mutex_unlock,FUNC_3
+vlc_vector_push,FUNC_4
+spu_RegisterChannelInternal,FUNC_5
+spu,VAR_2
+clock,VAR_3
+order,VAR_4
+sys,VAR_5
+channel_id,VAR_6
+channel,VAR_7

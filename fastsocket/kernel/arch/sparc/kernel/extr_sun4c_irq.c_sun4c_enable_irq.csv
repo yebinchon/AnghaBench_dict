@@ -1,0 +1,15 @@
+NR_IRQS,VAR_0
+SUN4C_INT_E1,VAR_1
+SUN4C_INT_E10,VAR_2
+SUN4C_INT_E14,VAR_3
+SUN4C_INT_E8,VAR_4
+interrupt_enable,VAR_5
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+sbus_readb,FUNC_2
+sbus_writeb,FUNC_3
+sun4c_enable_irq,FUNC_4
+irq_nr,VAR_6
+flags,VAR_7
+current_mask,VAR_8
+new_mask,VAR_9

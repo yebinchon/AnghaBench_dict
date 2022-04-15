@@ -1,0 +1,17 @@
+AC_PINCTL_VREFEN,VAR_0
+PIN_HP,VAR_1
+PIN_IN,VAR_2
+PIN_OUT,VAR_3
+cvt_from_vref_idx,FUNC_0
+get_in_jack_num_items,FUNC_1
+get_out_jack_num_items,FUNC_2
+get_vref_caps,FUNC_3
+snd_hda_codec_get_pin_target,FUNC_4
+get_cur_hp_mic_jack_mode,FUNC_5
+codec,VAR_4
+nid,VAR_5
+out_jacks,VAR_6
+in_jacks,VAR_7
+val,VAR_8
+idx,VAR_9
+vref_caps,VAR_10

@@ -1,0 +1,11 @@
+_repo,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+cl_set_cleanup,FUNC_2
+cleanup_repository,VAR_1
+git_futils_mkdir,FUNC_3
+git_repository_free,FUNC_4
+git_repository_init,FUNC_5
+git_repository_path,FUNC_6
+test_repo_init__can_reinit_an_initialized_repository,FUNC_7
+reinit,VAR_2

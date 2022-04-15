@@ -1,0 +1,12 @@
+BUG_ON,FUNC_0
+PageSlab,FUNC_1
+__ClearPageSlab,FUNC_2
+__ClearPageSlabPfmemalloc,FUNC_3
+__free_pages,FUNC_4
+current,VAR_0
+page_mapcount_reset,FUNC_5
+uncharge_slab_page,FUNC_6
+kmem_freepages,FUNC_7
+cachep,VAR_1
+page,VAR_2
+order,VAR_3

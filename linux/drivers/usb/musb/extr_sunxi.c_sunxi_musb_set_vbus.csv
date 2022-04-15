@@ -1,0 +1,10 @@
+OTG_STATE_A_WAIT_VRISE,VAR_0
+SUNXI_MUSB_FL_VBUS_ON,VAR_1
+clear_bit,FUNC_0
+dev_get_drvdata,FUNC_1
+schedule_work,FUNC_2
+set_bit,FUNC_3
+sunxi_musb_set_vbus,FUNC_4
+musb,VAR_2
+is_on,VAR_3
+glue,VAR_4

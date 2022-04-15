@@ -1,0 +1,13 @@
+DRM_MTRR_WC,VAR_0
+TTM_PL_TT,VAR_1
+TTM_PL_VRAM,VAR_2
+drm_mtrr_del,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+nouveau_ttm_global_release,FUNC_3
+pci_resource_len,FUNC_4
+pci_resource_start,FUNC_5
+ttm_bo_clean_mm,FUNC_6
+ttm_bo_device_release,FUNC_7
+nouveau_ttm_fini,FUNC_8
+drm,VAR_3

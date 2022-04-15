@@ -1,0 +1,16 @@
+XHCI_STATE_REMOVING,VAR_0
+clk_disable_unprepare,FUNC_0
+hcd_to_xhci,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_set_suspended,FUNC_4
+usb_phy_shutdown,FUNC_5
+usb_put_hcd,FUNC_6
+usb_remove_hcd,FUNC_7
+xhci_plat_remove,FUNC_8
+dev,VAR_1
+hcd,VAR_2
+xhci,VAR_3
+clk,VAR_4
+reg_clk,VAR_5
+shared_hcd,VAR_6

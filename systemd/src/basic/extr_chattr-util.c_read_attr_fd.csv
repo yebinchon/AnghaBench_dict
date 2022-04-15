@@ -1,0 +1,12 @@
+ENOTTY,VAR_0
+FS_IOC_GETFLAGS,VAR_1
+S_ISDIR,FUNC_0
+S_ISREG,FUNC_1
+assert,FUNC_2
+errno,VAR_2
+fstat,FUNC_3
+ioctl,FUNC_4
+read_attr_fd,FUNC_5
+fd,VAR_3
+ret,VAR_4
+st,VAR_5

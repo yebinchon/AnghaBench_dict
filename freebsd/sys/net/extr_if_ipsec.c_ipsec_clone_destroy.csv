@@ -1,0 +1,15 @@
+CK_LIST_REMOVE,FUNC_0
+IPSEC_WAIT,FUNC_1
+M_IPSEC,VAR_0
+bpfdetach,FUNC_2
+free,FUNC_3
+idhash,VAR_1
+if_detach,FUNC_4
+if_free,FUNC_5
+ipsec_delete_tunnel,FUNC_6
+ipsec_ioctl_sx,VAR_2
+sx_xlock,FUNC_7
+sx_xunlock,FUNC_8
+ipsec_clone_destroy,FUNC_9
+ifp,VAR_3
+sc,VAR_4

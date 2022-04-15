@@ -1,0 +1,12 @@
+XFS_AG_RESV_RMAPBT,VAR_0
+_RET_IP_,VAR_1
+trace_xfs_ag_resv_free,FUNC_0
+trace_xfs_ag_resv_free_error,FUNC_1
+xfs_mod_fdblocks,FUNC_2
+xfs_perag_resv,FUNC_3
+__xfs_ag_resv_free,FUNC_4
+pag,VAR_2
+type,VAR_3
+resv,VAR_4
+oldresv,VAR_5
+error,VAR_6

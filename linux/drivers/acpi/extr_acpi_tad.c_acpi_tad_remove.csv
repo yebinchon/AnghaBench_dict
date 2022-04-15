@@ -1,0 +1,17 @@
+ACPI_TAD_AC_TIMER,VAR_0
+ACPI_TAD_DC_TIMER,VAR_1
+ACPI_TAD_DC_WAKE,VAR_2
+acpi_tad_attr_group,VAR_3
+acpi_tad_clear_status,FUNC_0
+acpi_tad_dc_attr_group,VAR_4
+acpi_tad_disable_timer,FUNC_1
+dev_get_drvdata,FUNC_2
+device_init_wakeup,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_sync,FUNC_6
+sysfs_remove_group,FUNC_7
+acpi_tad_remove,FUNC_8
+pdev,VAR_5
+dev,VAR_6
+dd,VAR_7

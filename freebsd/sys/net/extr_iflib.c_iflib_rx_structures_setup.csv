@@ -1,0 +1,12 @@
+IFCAP_LRO,VAR_0
+IFDI_RXQ_SETUP,FUNC_0
+TCP_LRO_ENTRIES,VAR_1
+device_printf,FUNC_1
+if_getcapabilities,FUNC_2
+min,FUNC_3
+tcp_lro_free,FUNC_4
+tcp_lro_init_args,FUNC_5
+iflib_rx_structures_setup,FUNC_6
+ctx,VAR_2
+rxq,VAR_3
+q,VAR_4

@@ -1,0 +1,16 @@
+DRM_DEBUG_DRIVER,FUNC_0
+DRM_INFO,FUNC_1
+HDMI_CFG,VAR_0
+HDMI_CFG_SW_RST_EN,VAR_1
+HDMI_STA,VAR_2
+HDMI_STA_SW_RST,VAR_3
+HDMI_TIMEOUT_SWRESET,VAR_4
+clk_disable_unprepare,FUNC_2
+clk_prepare_enable,FUNC_3
+hdmi_read,FUNC_4
+hdmi_write,FUNC_5
+msecs_to_jiffies,FUNC_6
+wait_event_interruptible_timeout,FUNC_7
+hdmi_swreset,FUNC_8
+hdmi,VAR_5
+val,VAR_6

@@ -1,0 +1,9 @@
+MIIBUS_STATCHG,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+if_setbaudrate,FUNC_3
+ifmedia_baudrate,FUNC_4
+miibus_statchg,FUNC_5
+dev,VAR_0
+parent,VAR_1
+mii,VAR_2

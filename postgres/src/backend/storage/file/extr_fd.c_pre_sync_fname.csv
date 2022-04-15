@@ -1,0 +1,15 @@
+CloseTransientFile,FUNC_0
+EACCES,VAR_0
+O_RDONLY,VAR_1
+OpenTransientFile,FUNC_1
+PG_BINARY,VAR_2
+ereport,FUNC_2
+errcode_for_file_access,FUNC_3
+errmsg,FUNC_4
+errno,VAR_3
+pg_flush_data,FUNC_5
+pre_sync_fname,FUNC_6
+fname,VAR_4
+isdir,VAR_5
+elevel,VAR_6
+fd,VAR_7

@@ -1,0 +1,15 @@
+FSI_SISC,VAR_0
+FSI_SLAVE_BASE,VAR_1
+FSI_SSTAT,VAR_2
+be32_to_cpu,FUNC_0
+dev_dbg,FUNC_1
+fsi_master_read,FUNC_2
+fsi_master_write,FUNC_3
+fsi_slave_report_and_clear_errors,FUNC_4
+slave,VAR_3
+master,VAR_4
+irq,VAR_5
+stat,VAR_6
+rc,VAR_7
+link,VAR_8
+id,VAR_9

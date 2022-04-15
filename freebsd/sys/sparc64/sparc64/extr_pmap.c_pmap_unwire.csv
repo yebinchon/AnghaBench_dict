@@ -1,0 +1,13 @@
+PAGE_SIZE,VAR_0
+PMAP_LOCK,FUNC_0
+PMAP_TSB_THRESH,VAR_1
+PMAP_UNLOCK,FUNC_1
+pmap_unwire_tte,FUNC_2
+tsb_foreach,FUNC_3
+tsb_tte_lookup,FUNC_4
+pmap_unwire,FUNC_5
+pm,VAR_2
+sva,VAR_3
+eva,VAR_4
+va,VAR_5
+tp,VAR_6

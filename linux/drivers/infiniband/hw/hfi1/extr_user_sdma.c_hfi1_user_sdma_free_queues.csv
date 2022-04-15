@@ -1,0 +1,12 @@
+atomic_read,FUNC_0
+hfi1_mmu_rb_unregister,FUNC_1
+iowait_sdma_drain,FUNC_2
+kfree,FUNC_3
+kmem_cache_destroy,FUNC_4
+trace_hfi1_sdma_user_free_queues,FUNC_5
+vfree,FUNC_6
+wait_event_interruptible,FUNC_7
+hfi1_user_sdma_free_queues,FUNC_8
+fd,VAR_0
+uctxt,VAR_1
+pq,VAR_2

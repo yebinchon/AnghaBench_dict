@@ -1,0 +1,10 @@
+CMD_RESET,VAR_0
+COMMAND_GLOBAL,VAR_1
+PDC_CHASSIS_DIRECT_SHUTDOWN,VAR_2
+ftc_bitmap,VAR_3
+gsc_writel,FUNC_0
+pdc_chassis_send_status,FUNC_1
+pdc_do_firm_test_reset,FUNC_2
+pdc_do_reset,FUNC_3
+machine_restart,FUNC_4
+cmd,VAR_4

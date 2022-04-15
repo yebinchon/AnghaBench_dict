@@ -1,0 +1,11 @@
+E1000_TXSTMPH,VAR_0
+E1000_TXSTMPL,VAR_1
+dev_kfree_skb_any,FUNC_0
+igb_ptp_systim_to_hwtstamp,FUNC_1
+rd32,FUNC_2
+skb_tstamp_tx,FUNC_3
+igb_ptp_tx_hwtstamp,FUNC_4
+adapter,VAR_2
+hw,VAR_3
+shhwtstamps,VAR_4
+regval,VAR_5

@@ -1,0 +1,17 @@
+BUG,FUNC_0
+ENOENT,VAR_0
+GNTST_bad_virt_addr,VAR_1
+GNTST_okay,VAR_2
+GNTTABOP_unmap_grant_ref,VAR_3
+HYPERVISOR_grant_table_op,FUNC_1
+read_lock,FUNC_2
+read_unlock,FUNC_3
+vmlist,VAR_4
+vmlist_lock,VAR_5
+xen_free_vm_area,FUNC_4
+xenbus_dev_error,FUNC_5
+xenbus_unmap_ring_vfree,FUNC_6
+dev,VAR_6
+vaddr,VAR_7
+area,VAR_8
+op,VAR_9

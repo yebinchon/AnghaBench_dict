@@ -1,0 +1,9 @@
+BLKIO_STAT_QUEUED,VAR_0
+blkio_check_and_dec_stat,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+blkiocg_update_io_remove_stats,FUNC_3
+blkg,VAR_1
+direction,VAR_2
+sync,VAR_3
+flags,VAR_4

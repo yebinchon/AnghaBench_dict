@@ -1,0 +1,16 @@
+__ccwgroup_match_all,VAR_0
+__ccwgroup_remove_cdev_refs,FUNC_0
+__ccwgroup_remove_symlinks,FUNC_1
+device_unregister,FUNC_2
+driver_find_device,FUNC_3
+driver_unregister,FUNC_4
+get_driver,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+put_device,FUNC_8
+put_driver,FUNC_9
+to_ccwgroupdev,FUNC_10
+ccwgroup_driver_unregister,FUNC_11
+cdriver,VAR_1
+dev,VAR_2
+gdev,VAR_3

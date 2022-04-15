@@ -1,0 +1,16 @@
+AF_INET,VAR_0
+H2O_SOCKETPOOL_TYPE_NAMED,VAR_1
+H2O_SOCKETPOOL_TYPE_SOCKADDR,VAR_2
+assert,FUNC_0
+h2o_hostinfo_aton,FUNC_1
+h2o_url_get_port,FUNC_2
+h2o_url_host_to_sun,FUNC_3
+h2o_url_host_to_sun_err_is_not_unix_socket,VAR_3
+htons,FUNC_4
+memset,FUNC_5
+detect_target_type,FUNC_6
+url,VAR_4
+sa,VAR_5
+salen,VAR_6
+to_sun_err,VAR_7
+sin,VAR_8

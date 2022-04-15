@@ -1,0 +1,9 @@
+JZ_MMC_READ_2,FUNC_0
+JZ_MSC_RES,VAR_0
+MMC_RSP_136,VAR_1
+MMC_RSP_PRESENT,VAR_2
+jz4780_mmc_read_response,FUNC_1
+sc,VAR_3
+cmd,VAR_4
+i,VAR_5
+val,VAR_6

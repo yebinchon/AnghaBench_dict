@@ -1,0 +1,17 @@
+CM_CAPTURE_SPDF,VAR_0
+CM_CH_CAPT,VAR_1
+CM_DBLSPDS,VAR_2
+CM_REG_CHFORMAT,VAR_3
+CM_REG_FUNCTRL1,VAR_4
+CM_REG_MISC_CTRL,VAR_5
+CM_SPD32SEL,VAR_6
+snd_cmipci_clear_bit,FUNC_0
+snd_cmipci_pcm_prepare,FUNC_1
+snd_cmipci_set_bit,FUNC_2
+snd_pcm_format_width,FUNC_3
+snd_pcm_substream_chip,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+snd_cmipci_capture_spdif_prepare,FUNC_7
+substream,VAR_7
+cm,VAR_8

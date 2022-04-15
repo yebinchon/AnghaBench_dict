@@ -1,0 +1,17 @@
+FSL_UPM_WAIT_RUN_PATTERN,VAR_0
+NAND_ALE,VAR_1
+NAND_CLE,VAR_2
+NAND_CMD_NONE,VAR_3
+NAND_CTRL_CHANGE,VAR_4
+fsl_upm_end_pattern,FUNC_0
+fsl_upm_run_pattern,FUNC_1
+fsl_upm_start_pattern,FUNC_2
+fun_wait_rnb,FUNC_3
+to_fsl_upm_nand,FUNC_4
+fun_cmd_ctrl,FUNC_5
+mtd,VAR_5
+cmd,VAR_6
+ctrl,VAR_7
+chip,VAR_8
+fun,VAR_9
+mar,VAR_10

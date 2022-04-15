@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+EPIPE,VAR_1
+ESTRPIPE,VAR_2
+SNDRV_PCM_STATE_PREPARED,VAR_3
+SNDRV_PCM_STATE_SUSPENDED,VAR_4
+SNDRV_PCM_STATE_XRUN,VAR_5
+__snd_pcm_lib_xfer,FUNC_0
+pcm_dbg,FUNC_1
+snd_pcm_oss_prepare,FUNC_2
+snd_pcm_oss_write3,FUNC_3
+substream,VAR_6
+ptr,VAR_7
+frames,VAR_8
+in_kernel,VAR_9
+runtime,VAR_10
+ret,VAR_11

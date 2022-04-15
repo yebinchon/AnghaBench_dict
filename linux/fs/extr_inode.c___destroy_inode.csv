@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+WARN_ON,FUNC_1
+atomic_long_dec,FUNC_2
+atomic_long_read,FUNC_3
+fsnotify_inode_delete,FUNC_4
+inode_detach_wb,FUNC_5
+inode_has_buffers,FUNC_6
+is_uncached_acl,FUNC_7
+locks_free_lock_context,FUNC_8
+nr_inodes,VAR_0
+posix_acl_release,FUNC_9
+security_inode_free,FUNC_10
+this_cpu_dec,FUNC_11
+__destroy_inode,FUNC_12
+inode,VAR_1

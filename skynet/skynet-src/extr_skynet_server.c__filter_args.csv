@@ -1,0 +1,16 @@
+MESSAGE_TYPE_SHIFT,VAR_0
+PTYPE_TAG_ALLOCSESSION,VAR_1
+PTYPE_TAG_DONTCOPY,VAR_2
+assert,FUNC_0
+memcpy,FUNC_1
+skynet_context_newsession,FUNC_2
+skynet_malloc,FUNC_3
+_filter_args,FUNC_4
+context,VAR_3
+type,VAR_4
+session,VAR_5
+data,VAR_6
+sz,VAR_7
+needcopy,VAR_8
+allocsession,VAR_9
+msg,VAR_10

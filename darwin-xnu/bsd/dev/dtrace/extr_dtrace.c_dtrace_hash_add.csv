@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+DTRACE_HASHEQ,FUNC_1
+DTRACE_HASHNEXT,FUNC_2
+DTRACE_HASHPREV,FUNC_3
+DTRACE_HASHSTR,FUNC_4
+KM_SLEEP,VAR_0
+dtrace_hash_resize,FUNC_5
+kmem_zalloc,FUNC_6
+dtrace_hash_add,FUNC_7
+hash,VAR_1
+new,VAR_2
+hashval,VAR_3
+ndx,VAR_4
+bucket,VAR_5
+nextp,VAR_6
+prevp,VAR_7

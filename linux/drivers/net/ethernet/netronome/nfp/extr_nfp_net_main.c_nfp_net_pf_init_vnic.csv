@@ -1,0 +1,16 @@
+nfp_app_vnic_init,FUNC_0
+nfp_devlink_port_register,FUNC_1
+nfp_devlink_port_type_clear,FUNC_2
+nfp_devlink_port_type_eth_set,FUNC_3
+nfp_devlink_port_unregister,FUNC_4
+nfp_net_clean,FUNC_5
+nfp_net_debugfs_dir_clean,FUNC_6
+nfp_net_debugfs_vnic_add,FUNC_7
+nfp_net_info,FUNC_8
+nfp_net_init,FUNC_9
+nfp_net_is_data_vnic,FUNC_10
+nfp_net_pf_init_vnic,FUNC_11
+pf,VAR_0
+nn,VAR_1
+id,VAR_2
+err,VAR_3

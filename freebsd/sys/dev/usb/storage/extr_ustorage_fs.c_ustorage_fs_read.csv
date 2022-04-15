@@ -1,0 +1,11 @@
+SC_READ_6,VAR_0
+SS_INVALID_FIELD_IN_CDB,VAR_1
+SS_LOGICAL_BLOCK_ADDRESS_OUT_OF_RANGE,VAR_2
+get_be16,FUNC_0
+get_be32,FUNC_1
+ustorage_fs_read,FUNC_2
+sc,VAR_3
+currlun,VAR_4
+file_offset,VAR_5
+lba,VAR_6
+len,VAR_7

@@ -1,0 +1,15 @@
+APPEND_CHAIN_MULTICAST,FUNC_0
+EVBUFFER_FILESEGMENT,VAR_0
+EVBUFFER_LOCK2,FUNC_1
+EVBUFFER_MULTICAST,VAR_1
+EVBUFFER_SENDFILE,VAR_2
+EVBUFFER_UNLOCK2,FUNC_2
+evbuffer_free_all_chains,FUNC_3
+evbuffer_invoke_callbacks_,FUNC_4
+evbuffer_add_buffer_reference,FUNC_5
+outbuf,VAR_3
+inbuf,VAR_4
+in_total_len,VAR_5
+out_total_len,VAR_6
+chain,VAR_7
+result,VAR_8

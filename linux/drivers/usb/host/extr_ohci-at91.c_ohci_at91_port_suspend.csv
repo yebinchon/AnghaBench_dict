@@ -1,0 +1,9 @@
+AT91_OHCIICR_USB_SUSPEND,VAR_0
+AT91_SFR_OHCIICR,VAR_1
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+ohci_at91_port_suspend,FUNC_2
+regmap,VAR_2
+set,VAR_3
+regval,VAR_4
+ret,VAR_5

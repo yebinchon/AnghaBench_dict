@@ -1,0 +1,17 @@
+AF_INET,VAR_0
+SIOCGIFFLAGS,VAR_1
+SIOCSIFFLAGS,VAR_2
+SOCK_DGRAM,VAR_3
+close,FUNC_0
+ioctl,FUNC_1
+memset,FUNC_2
+socket,FUNC_3
+strlcpy,FUNC_4
+warn,FUNC_5
+if_setflags,FUNC_6
+ifnam,VAR_4
+flags,VAR_5
+ifr,VAR_6
+fd,VAR_7
+error,VAR_8
+oflags,VAR_9

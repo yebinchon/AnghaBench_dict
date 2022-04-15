@@ -1,0 +1,15 @@
+ARM64_HAS_RAS_EXTN,VAR_0
+ARM_EXCEPTION_CODE,FUNC_0
+ARM_EXCEPTION_EL1_SERROR,VAR_1
+ARM_SERROR_PENDING,FUNC_1
+disr_to_esr,FUNC_2
+kvm_handle_guest_serror,FUNC_3
+kvm_inject_vabt,FUNC_4
+kvm_vcpu_get_disr,FUNC_5
+kvm_vcpu_get_hsr,FUNC_6
+this_cpu_has_cap,FUNC_7
+handle_exit_early,FUNC_8
+vcpu,VAR_2
+run,VAR_3
+exception_index,VAR_4
+disr,VAR_5

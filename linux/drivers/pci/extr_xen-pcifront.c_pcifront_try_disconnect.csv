@@ -1,0 +1,11 @@
+XenbusStateClosed,VAR_0
+XenbusStateClosing,VAR_1
+XenbusStateConnected,VAR_2
+pcifront_disconnect,FUNC_0
+pcifront_free_roots,FUNC_1
+xenbus_read_driver_state,FUNC_2
+xenbus_switch_state,FUNC_3
+pcifront_try_disconnect,FUNC_4
+pdev,VAR_3
+err,VAR_4
+prev_state,VAR_5

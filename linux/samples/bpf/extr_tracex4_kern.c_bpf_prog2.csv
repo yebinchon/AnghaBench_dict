@@ -1,0 +1,11 @@
+BPF_ANY,VAR_0
+BPF_KRETPROBE_READ_RET_IP,FUNC_0
+PT_REGS_RC,FUNC_1
+bpf_ktime_get_ns,FUNC_2
+bpf_map_update_elem,FUNC_3
+my_map,VAR_1
+bpf_prog2,FUNC_4
+ctx,VAR_2
+ptr,VAR_3
+ip,VAR_4
+v,VAR_5

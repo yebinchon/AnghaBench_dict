@@ -1,0 +1,10 @@
+probe_kernel_address,FUNC_0
+user_64bit_mode,FUNC_1
+user_mode,FUNC_2
+check_prefetch_opcode,FUNC_3
+regs,VAR_0
+instr,VAR_1
+opcode,VAR_2
+prefetch,VAR_3
+instr_hi,VAR_4
+instr_lo,VAR_5

@@ -1,0 +1,17 @@
+PAGE_SIZE,VAR_0
+VMCI_DOORBELL_HASH,FUNC_0
+dbell_index_table_find,FUNC_1
+hlist_add_head,FUNC_2
+last_notify_idx_released,VAR_1
+last_notify_idx_reserved,VAR_2
+max_notify_idx,VAR_3
+notify_idx_count,VAR_4
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+vmci_doorbell_it,VAR_5
+vmci_resource_get,FUNC_5
+dbell_index_table_add,FUNC_6
+entry,VAR_6
+bucket,VAR_7
+new_notify_idx,VAR_8
+reused,VAR_9

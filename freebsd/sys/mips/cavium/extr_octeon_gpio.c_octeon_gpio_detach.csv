@@ -1,0 +1,13 @@
+KASSERT,FUNC_0
+OCTEON_GPIO_IRQS,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_softc,FUNC_3
+gpiobus_detach_bus,FUNC_4
+mtx_destroy,FUNC_5
+mtx_initialized,FUNC_6
+octeon_gpio_detach,FUNC_7
+dev,VAR_2
+sc,VAR_3
+i,VAR_4

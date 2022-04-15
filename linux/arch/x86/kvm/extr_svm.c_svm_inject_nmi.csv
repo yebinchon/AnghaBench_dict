@@ -1,0 +1,9 @@
+HF_NMI_MASK,VAR_0
+INTERCEPT_IRET,VAR_1
+SVM_EVTINJ_TYPE_NMI,VAR_2
+SVM_EVTINJ_VALID,VAR_3
+set_intercept,FUNC_0
+to_svm,FUNC_1
+svm_inject_nmi,FUNC_2
+vcpu,VAR_4
+svm,VAR_5

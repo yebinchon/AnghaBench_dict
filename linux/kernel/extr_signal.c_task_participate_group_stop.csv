@@ -1,0 +1,10 @@
+JOBCTL_STOP_CONSUME,VAR_0
+JOBCTL_STOP_PENDING,VAR_1
+SIGNAL_STOP_STOPPED,VAR_2
+WARN_ON_ONCE,FUNC_0
+signal_set_stop_flags,FUNC_1
+task_clear_jobctl_pending,FUNC_2
+task_participate_group_stop,FUNC_3
+task,VAR_3
+sig,VAR_4
+consume,VAR_5

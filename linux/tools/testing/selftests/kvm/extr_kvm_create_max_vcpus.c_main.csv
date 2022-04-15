@@ -1,0 +1,11 @@
+KVM_CAP_MAX_VCPUS,VAR_0
+KVM_CAP_MAX_VCPU_ID,VAR_1
+TEST_ASSERT,FUNC_0
+kvm_check_cap,FUNC_1
+printf,FUNC_2
+test_vcpu_creation,FUNC_3
+main,FUNC_4
+argc,VAR_2
+argv,VAR_3
+kvm_max_vcpu_id,VAR_4
+kvm_max_vcpus,VAR_5

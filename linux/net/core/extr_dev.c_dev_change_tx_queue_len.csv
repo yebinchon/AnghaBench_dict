@@ -1,0 +1,11 @@
+ERANGE,VAR_0
+NETDEV_CHANGE_TX_QUEUE_LEN,VAR_1
+call_netdevice_notifiers,FUNC_0
+dev_qdisc_change_tx_queue_len,FUNC_1
+netdev_err,FUNC_2
+notifier_to_errno,FUNC_3
+dev_change_tx_queue_len,FUNC_4
+dev,VAR_2
+new_len,VAR_3
+orig_len,VAR_4
+res,VAR_5

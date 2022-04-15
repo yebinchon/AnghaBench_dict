@@ -1,0 +1,16 @@
+CSMI_CC_SAS_SMP_PASSTHRU,VAR_0
+CSMI_IOCTL_TIMEOUT,VAR_1
+GFP_KERNEL,VAR_2
+SMP_CRC_FIELD_LENGTH,VAR_3
+kzalloc,FUNC_0
+put_unaligned_be64,FUNC_1
+put_unaligned_le32,FUNC_2
+sg_copy_to_buffer,FUNC_3
+pqi_build_csmi_smp_passthru_buffer,FUNC_4
+rphy,VAR_4
+job,VAR_5
+smp_buf,VAR_6
+ioctl_header,VAR_7
+parameters,VAR_8
+req_size,VAR_9
+resp_size,VAR_10

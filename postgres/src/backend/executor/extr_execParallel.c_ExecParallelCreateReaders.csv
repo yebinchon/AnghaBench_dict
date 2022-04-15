@@ -1,0 +1,8 @@
+Assert,FUNC_0
+CreateTupleQueueReader,FUNC_1
+palloc,FUNC_2
+shm_mq_set_handle,FUNC_3
+ExecParallelCreateReaders,FUNC_4
+pei,VAR_0
+nworkers,VAR_1
+i,VAR_2

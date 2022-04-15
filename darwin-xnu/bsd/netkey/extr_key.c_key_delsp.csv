@@ -1,0 +1,16 @@
+IPSEC_SPSTATE_DEAD,VAR_0
+KFREE,FUNC_0
+LCK_MTX_ASSERT,FUNC_1
+LCK_MTX_ASSERT_OWNED,VAR_1
+LIST_REMOVE,FUNC_2
+__LIST_CHAINED,FUNC_3
+chain,VAR_2
+ifnet_release,FUNC_4
+ipsec_policy_count,VAR_3
+keydb_delsecpolicy,FUNC_5
+panic,FUNC_6
+sadb_mutex,VAR_4
+key_delsp,FUNC_7
+sp,VAR_5
+isr,VAR_6
+nextisr,VAR_7

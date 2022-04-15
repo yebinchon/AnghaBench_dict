@@ -1,0 +1,14 @@
+IXP4XX_GPIO_LOW,VAR_0
+NAS100D_LED_PWR_GPIO,VAR_1
+NAS100D_PB_GPIO,VAR_2
+PBUTTON_HOLDDOWN_COUNT,VAR_3
+ctrl_alt_del,FUNC_0
+gpio_get_value,FUNC_1
+gpio_line_set,FUNC_2
+jiffies,VAR_4
+mod_timer,FUNC_3
+msecs_to_jiffies,FUNC_4
+nas100d_power_timer,VAR_5
+power_button_countdown,VAR_6
+nas100d_power_handler,FUNC_5
+data,VAR_7

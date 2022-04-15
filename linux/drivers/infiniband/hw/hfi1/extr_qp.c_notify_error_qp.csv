@@ -1,0 +1,16 @@
+HFI1_S_ANY_WAIT_IO,VAR_0
+IOWAIT_PENDING_IB,VAR_1
+IOWAIT_PENDING_TID,VAR_2
+RVT_S_BUSY,VAR_3
+flush_tx_list,FUNC_0
+iowait_clear_flag,FUNC_1
+list_del_init,FUNC_2
+list_empty,FUNC_3
+rvt_put_mr,FUNC_4
+rvt_put_qp,FUNC_5
+write_seqlock,FUNC_6
+write_sequnlock,FUNC_7
+notify_error_qp,FUNC_8
+qp,VAR_4
+priv,VAR_5
+lock,VAR_6

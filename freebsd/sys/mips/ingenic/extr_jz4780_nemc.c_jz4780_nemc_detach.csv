@@ -1,0 +1,8 @@
+bus_generic_detach,FUNC_0
+bus_release_resources,FUNC_1
+clk_release,FUNC_2
+device_get_softc,FUNC_3
+jz4780_nemc_spec,VAR_0
+jz4780_nemc_detach,FUNC_4
+dev,VAR_1
+sc,VAR_2

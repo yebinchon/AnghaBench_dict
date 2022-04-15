@@ -1,0 +1,11 @@
+ISER_CONN_DOWN,VAR_0
+ISER_CONN_TERMINATING,VAR_1
+ISER_CONN_UP,VAR_2
+iser_conn_put,FUNC_0
+iser_conn_state_comp_exch,FUNC_1
+iser_err,FUNC_2
+rdma_disconnect,FUNC_3
+wait_event_interruptible,FUNC_4
+iser_conn_terminate,FUNC_5
+ib_conn,VAR_3
+err,VAR_4

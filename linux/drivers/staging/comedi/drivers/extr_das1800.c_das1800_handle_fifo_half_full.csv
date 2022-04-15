@@ -1,0 +1,10 @@
+DAS1800_FIFO,VAR_0
+FIFO_SIZE,VAR_1
+comedi_buf_write_samples,FUNC_0
+comedi_nsamples_left,FUNC_1
+insw,FUNC_2
+das1800_handle_fifo_half_full,FUNC_3
+dev,VAR_2
+s,VAR_3
+devpriv,VAR_4
+nsamples,VAR_5

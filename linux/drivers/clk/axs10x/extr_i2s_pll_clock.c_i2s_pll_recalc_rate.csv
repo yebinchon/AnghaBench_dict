@@ -1,0 +1,13 @@
+PLL_FBDIV_REG,VAR_0
+PLL_IDIV_REG,VAR_1
+PLL_ODIV0_REG,VAR_2
+i2s_pll_get_value,FUNC_0
+i2s_pll_read,FUNC_1
+to_i2s_pll_clk,FUNC_2
+i2s_pll_recalc_rate,FUNC_3
+hw,VAR_3
+parent_rate,VAR_4
+clk,VAR_5
+idiv,VAR_6
+fbdiv,VAR_7
+odiv,VAR_8

@@ -1,0 +1,16 @@
+EL3WINDOW,FUNC_0
+EL3_CMD,VAR_0
+MEDIA_TP,VAR_1
+RxDisable,VAR_2
+SetIntrEnb,VAR_3
+StatsDisable,VAR_4
+StopCoax,VAR_5
+TxDisable,VAR_6
+WN4_MEDIA,VAR_7
+inw,FUNC_1
+netif_stop_queue,FUNC_2
+outw,FUNC_3
+update_stats,FUNC_4
+el3_down,FUNC_5
+dev,VAR_8
+ioaddr,VAR_9

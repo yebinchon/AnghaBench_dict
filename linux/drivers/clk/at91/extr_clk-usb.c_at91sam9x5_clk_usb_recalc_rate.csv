@@ -1,0 +1,12 @@
+AT91_PMC_OHCIUSBDIV,VAR_0
+AT91_PMC_USB,VAR_1
+DIV_ROUND_CLOSEST,FUNC_0
+SAM9X5_USB_DIV_SHIFT,VAR_2
+regmap_read,FUNC_1
+to_at91sam9x5_clk_usb,FUNC_2
+at91sam9x5_clk_usb_recalc_rate,FUNC_3
+hw,VAR_3
+parent_rate,VAR_4
+usb,VAR_5
+usbr,VAR_6
+usbdiv,VAR_7

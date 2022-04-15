@@ -1,0 +1,12 @@
+GIT_BUF_INIT,VAR_0
+GIT_DIFF_STATS_NUMBER,VAR_1
+_stats,VAR_2
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+diff_stats_from_commit_oid,FUNC_2
+git_buf_cstr,FUNC_3
+git_buf_dispose,FUNC_4
+git_diff_stats_to_buf,FUNC_5
+test_diff_stats__numstat,FUNC_6
+buf,VAR_3
+stat,VAR_4

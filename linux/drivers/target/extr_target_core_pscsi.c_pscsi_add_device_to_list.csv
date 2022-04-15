@@ -1,0 +1,15 @@
+PSCSI_DEFAULT_QUEUEDEPTH,VAR_0
+PSCSI_DEV,FUNC_0
+TYPE_TAPE,VAR_1
+min_not_zero,FUNC_1
+pr_err,FUNC_2
+pscsi_get_inquiry_vpd_device_ident,FUNC_3
+pscsi_get_inquiry_vpd_serial,FUNC_4
+pscsi_set_inquiry_info,FUNC_5
+pscsi_tape_read_blocksize,FUNC_6
+queue_max_hw_sectors,FUNC_7
+pscsi_add_device_to_list,FUNC_8
+dev,VAR_2
+sd,VAR_3
+pdv,VAR_4
+q,VAR_5

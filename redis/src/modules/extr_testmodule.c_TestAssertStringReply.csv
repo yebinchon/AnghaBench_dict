@@ -1,0 +1,16 @@
+REDISMODULE_REPLY_STRING,VAR_0
+RedisModule_CallReplyType,FUNC_0
+RedisModule_CreateString,FUNC_1
+RedisModule_CreateStringFromCallReply,FUNC_2
+RedisModule_Log,FUNC_3
+RedisModule_StringCompare,FUNC_4
+RedisModule_StringPtrLen,FUNC_5
+TestAssertStringReply,FUNC_6
+ctx,VAR_1
+reply,VAR_2
+str,VAR_3
+len,VAR_4
+mystr,VAR_5
+expected,VAR_6
+mystr_ptr,VAR_7
+expected_ptr,VAR_8

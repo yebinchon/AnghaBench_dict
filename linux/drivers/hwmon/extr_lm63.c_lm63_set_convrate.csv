@@ -1,0 +1,10 @@
+LM63_MAX_CONVRATE,VAR_0
+LM63_REG_CONVRATE,VAR_1
+UPDATE_INTERVAL,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+lm63_set_convrate,FUNC_2
+data,VAR_2
+interval,VAR_3
+client,VAR_4
+update_interval,VAR_5
+i,VAR_6

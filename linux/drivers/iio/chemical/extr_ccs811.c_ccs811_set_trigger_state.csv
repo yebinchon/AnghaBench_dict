@@ -1,0 +1,12 @@
+CCS811_MEAS_MODE,VAR_0
+CCS811_MEAS_MODE_INTERRUPT,VAR_1
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+iio_priv,FUNC_2
+iio_trigger_get_drvdata,FUNC_3
+ccs811_set_trigger_state,FUNC_4
+trig,VAR_2
+state,VAR_3
+indio_dev,VAR_4
+data,VAR_5
+ret,VAR_6

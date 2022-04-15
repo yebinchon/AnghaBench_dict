@@ -1,0 +1,11 @@
+CONFIG_SOUND_SH_DAC_AUDIO_CHANNEL,VAR_0
+HD64461_GPADR,VAR_1
+HD64461_GPADR_SPEAKER,VAR_2
+__raw_readw,FUNC_0
+__raw_writew,FUNC_1
+dac_audio_stop_timer,FUNC_2
+mach_is_hp6xx,FUNC_3
+sh_dac_disable,FUNC_4
+sh_dac_output,FUNC_5
+dac_audio_stop,FUNC_6
+v,VAR_3

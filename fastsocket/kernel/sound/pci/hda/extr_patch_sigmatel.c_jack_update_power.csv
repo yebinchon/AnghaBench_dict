@@ -1,0 +1,13 @@
+AC_VERB_IDT_SET_POWER_MAP,VAR_0
+HDA_GEN_LAST_EVENT,VAR_1
+STAC_PWR_EVENT,VAR_2
+snd_hda_codec_write,FUNC_0
+snd_hda_jack_detect,FUNC_1
+snd_hda_jack_tbl_get,FUNC_2
+stac_toggle_power_map,FUNC_3
+jack_update_power,FUNC_4
+codec,VAR_3
+jack,VAR_4
+spec,VAR_5
+i,VAR_6
+nid,VAR_7

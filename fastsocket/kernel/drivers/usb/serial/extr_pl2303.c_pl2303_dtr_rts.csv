@@ -1,0 +1,12 @@
+CONTROL_DTR,VAR_0
+CONTROL_RTS,VAR_1
+set_control_lines,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+usb_get_serial_port_data,FUNC_3
+pl2303_dtr_rts,FUNC_4
+port,VAR_2
+on,VAR_3
+priv,VAR_4
+flags,VAR_5
+control,VAR_6

@@ -1,0 +1,9 @@
+BHND_BUS_MAP_INTR,FUNC_0
+SYS_RES_IRQ,VAR_0
+device_printf,FUNC_1
+resource_list_add_next,FUNC_2
+siba_register_interrupts,FUNC_3
+dev,VAR_1
+child,VAR_2
+dinfo,VAR_3
+error,VAR_4

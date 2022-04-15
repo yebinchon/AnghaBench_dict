@@ -1,0 +1,10 @@
+CMD_T_BUSY,VAR_0
+CMD_T_REQUEST_STOP,VAR_1
+pr_debug,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+wait_for_completion,FUNC_3
+target_stop_cmd,FUNC_4
+cmd,VAR_2
+flags,VAR_3
+was_active,VAR_4

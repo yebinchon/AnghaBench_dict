@@ -1,0 +1,11 @@
+CPS_DEFAULT_ROUTE,VAR_0
+RIO_GLOBAL_TABLE,VAR_1
+RIO_STD_RTE_CONF_DESTID_SEL_CSR,VAR_2
+RIO_STD_RTE_CONF_PORT_SEL_CSR,VAR_3
+rio_mport_write_config_32,FUNC_0
+idtcps_route_clr_table,FUNC_1
+mport,VAR_4
+destid,VAR_5
+hopcount,VAR_6
+table,VAR_7
+i,VAR_8

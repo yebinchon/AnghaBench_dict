@@ -1,0 +1,15 @@
+CLR_RH_PORTSTAT,FUNC_0
+SUSPEND_BITS,VAR_0
+clear_bit,FUNC_1
+set_bit,FUNC_2
+test_bit,FUNC_3
+udelay,FUNC_4
+uhci_readw,FUNC_5
+uhci_to_hcd,FUNC_6
+usb_hcd_end_port_resume,FUNC_7
+uhci_finish_suspend,FUNC_8
+uhci,VAR_1
+port,VAR_2
+port_addr,VAR_3
+status,VAR_4
+i,VAR_5

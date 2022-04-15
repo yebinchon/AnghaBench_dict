@@ -1,0 +1,14 @@
+ESP_OK,VAR_0
+TEST_ASSERT_EQUAL,FUNC_0
+esp_event_handler_register_with,FUNC_1
+esp_event_handler_unregister_with,FUNC_2
+portMAX_DELAY,VAR_1
+vTaskDelay,FUNC_3
+vTaskDelete,FUNC_4
+xSemaphoreGive,FUNC_5
+xSemaphoreTake,FUNC_6
+test_event_simple_handler_registration_task,FUNC_7
+args,VAR_2
+arg,VAR_3
+data,VAR_4
+i,VAR_5

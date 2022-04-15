@@ -1,0 +1,11 @@
+RXRPC_CALL_COMPLETE,VAR_0
+RXRPC_CALL_RESEND_TIMER,VAR_1
+RXRPC_CALL_RUN_RTIMER,VAR_2
+clear_bit,FUNC_0
+read_lock_bh,FUNC_1
+read_unlock_bh,FUNC_2
+rxrpc_queue_call,FUNC_3
+test_and_set_bit,FUNC_4
+try_to_del_timer_sync,FUNC_5
+rxrpc_instant_resend,FUNC_6
+call,VAR_3

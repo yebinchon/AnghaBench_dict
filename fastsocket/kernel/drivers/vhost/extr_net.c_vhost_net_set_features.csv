@@ -1,0 +1,17 @@
+EFAULT,VAR_0
+VHOST_F_LOG_ALL,VAR_1
+VHOST_NET_F_VIRTIO_NET_HDR,VAR_2
+VHOST_NET_VQ_MAX,VAR_3
+VIRTIO_NET_F_MRG_RXBUF,VAR_4
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+smp_wmb,FUNC_2
+vhost_log_access_ok,FUNC_3
+vhost_net_flush,FUNC_4
+vhost_net_set_features,FUNC_5
+n,VAR_5
+features,VAR_6
+vhost_hlen,VAR_7
+sock_hlen,VAR_8
+hdr_len,VAR_9
+i,VAR_10

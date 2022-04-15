@@ -1,0 +1,16 @@
+ACPI_FAILURE,FUNC_0
+ACPI_SERIAL_BEGIN,FUNC_1
+ACPI_SERIAL_END,FUNC_2
+AE_OK,VAR_0
+AcpiEvaluateObject,FUNC_3
+ENXIO,VAR_1
+acpi_get_handle,FUNC_4
+acpi_pci_link_route_irqs,FUNC_5
+device_get_softc,FUNC_6
+pci_link,VAR_2
+acpi_pci_link_resume,FUNC_7
+dev,VAR_3
+sc,VAR_4
+status,VAR_5
+i,VAR_6
+routed,VAR_7

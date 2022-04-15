@@ -1,0 +1,12 @@
+DistributionDeleteCommand,FUNC_0
+EnableDDLPropagation,VAR_0
+EnsureCoordinator,FUNC_1
+IsDistributedTable,FUNC_2
+SendCommandToWorkers,FUNC_3
+ShouldSyncTableMetadata,FUNC_4
+WORKERS_WITH_METADATA,VAR_1
+MasterRemoveDistributedTableMetadataFromWorkers,FUNC_5
+relationId,VAR_2
+schemaName,VAR_3
+tableName,VAR_4
+deleteDistributionCommand,VAR_5

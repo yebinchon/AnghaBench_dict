@@ -1,0 +1,14 @@
+BSTP_PORT_NEWINFO,VAR_0
+BSTP_ROLE_DESIGNATED,VAR_1
+DPRINTF,FUNC_0
+bstp_set_other_tcprop,FUNC_1
+bstp_set_timer_tc,FUNC_2
+bstp_timer_stop,FUNC_3
+bstp_transmit,FUNC_4
+getmicrotime,FUNC_5
+taskqueue_enqueue,FUNC_6
+taskqueue_swi,VAR_2
+bstp_set_port_tc,FUNC_7
+bp,VAR_3
+state,VAR_4
+bs,VAR_5

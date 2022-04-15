@@ -1,0 +1,16 @@
+BTM_BleUpdateAdvWhitelist,FUNC_0
+BTM_BleUpdateBgConnDev,FUNC_1
+FALSE,VAR_0
+GATT_MAX_APPS,VAR_1
+TRUE,VAR_2
+gatt_find_bg_dev,FUNC_2
+memset,FUNC_3
+gatt_remove_bg_dev_from_list,FUNC_4
+p_reg,VAR_3
+bd_addr,VAR_4
+is_initiator,VAR_5
+gatt_if,VAR_6
+p_dev,VAR_7
+i,VAR_8
+j,VAR_9
+ret,VAR_10

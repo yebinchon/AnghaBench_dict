@@ -1,0 +1,11 @@
+ATF_REQUIRE_MSG,FUNC_0
+VM_MAX_WIRED,VAR_0
+errno,VAR_1
+printf,FUNC_1
+strerror,FUNC_2
+sysctlbyname,FUNC_3
+vm_max_wired_sysctl,FUNC_4
+old_value,VAR_2
+new_value,VAR_3
+old_len,VAR_4
+new_len,VAR_5

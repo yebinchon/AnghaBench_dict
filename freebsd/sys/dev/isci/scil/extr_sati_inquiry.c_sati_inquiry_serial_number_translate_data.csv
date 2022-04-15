@@ -1,0 +1,11 @@
+ATA_IDENTIFY_DEVICE_GET_OFFSET,FUNC_0
+ATA_IDENTIFY_SERIAL_NUMBER_LEN,VAR_0
+SCSI_INQUIRY_UNIT_SERIAL_NUM_PAGE,VAR_1
+TRUE,VAR_2
+sati_ata_identify_device_copy_data,FUNC_1
+sati_set_data_byte,FUNC_2
+serial_number,VAR_3
+sati_inquiry_serial_number_translate_data,FUNC_3
+sequence,VAR_4
+ata_input_data,VAR_5
+scsi_io,VAR_6

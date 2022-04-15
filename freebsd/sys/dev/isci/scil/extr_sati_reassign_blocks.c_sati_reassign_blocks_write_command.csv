@@ -1,0 +1,13 @@
+ATA_WRITE_DMA,VAR_0
+ATA_WRITE_DMA_EXT,VAR_1
+SATI_DATA_DIRECTION_OUT,VAR_2
+SATI_DEVICE_CAP_48BIT_ENABLE,VAR_3
+SATI_SUCCESS,VAR_4
+sati_ata_non_data_command,FUNC_0
+sati_cb_get_h2d_register_fis_address,FUNC_1
+sati_set_ata_command,FUNC_2
+sati_reassign_blocks_write_command,FUNC_3
+sequence,VAR_5
+scsi_io,VAR_6
+ata_io,VAR_7
+register_fis,VAR_8

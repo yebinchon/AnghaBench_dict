@@ -1,0 +1,14 @@
+IFLA_MACSEC_ENCODING_SA,VAR_0
+IFLA_MACSEC_ENCRYPT,VAR_1
+IFLA_MACSEC_PORT,VAR_2
+MACSEC,FUNC_0
+assert,FUNC_1
+log_netdev_error_errno,FUNC_2
+sd_netlink_message_append_u16,FUNC_3
+sd_netlink_message_append_u8,FUNC_4
+netdev_macsec_fill_message_create,FUNC_5
+netdev,VAR_3
+link,VAR_4
+m,VAR_5
+v,VAR_6
+r,VAR_7

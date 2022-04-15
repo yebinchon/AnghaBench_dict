@@ -1,0 +1,7 @@
+DHCP6_REQUEST_IA_NA,VAR_0
+EINVAL,VAR_1
+SET_FLAG,FUNC_0
+assert_return,FUNC_1
+sd_dhcp6_client_set_address_request,FUNC_2
+client,VAR_2
+request,VAR_3

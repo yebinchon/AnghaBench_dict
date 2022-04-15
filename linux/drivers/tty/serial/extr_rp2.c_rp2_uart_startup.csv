@@ -1,0 +1,13 @@
+RP2_CHAN_STAT,VAR_0
+RP2_TXRX_CTL,VAR_1
+RP2_TXRX_CTL_MSRIRQ_m,VAR_2
+RP2_TXRX_CTL_RXIRQ_m,VAR_3
+RP2_TXRX_CTL_RX_TRIG_1,VAR_4
+RP2_TXRX_CTL_RX_TRIG_m,VAR_5
+port_to_up,FUNC_0
+rp2_flush_fifos,FUNC_1
+rp2_mask_ch_irq,FUNC_2
+rp2_rmw,FUNC_3
+rp2_uart_startup,FUNC_4
+port,VAR_6
+up,VAR_7

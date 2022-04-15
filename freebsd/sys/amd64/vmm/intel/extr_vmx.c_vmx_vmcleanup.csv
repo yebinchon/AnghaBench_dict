@@ -1,0 +1,13 @@
+DEFAULT_APIC_BASE,VAR_0
+M_VMX,VAR_1
+PAGE_SIZE,VAR_2
+apic_access_virtualization,FUNC_0
+free,FUNC_1
+vm_get_maxcpus,FUNC_2
+vm_unmap_mmio,FUNC_3
+vpid_free,FUNC_4
+vmx_vmcleanup,FUNC_5
+arg,VAR_3
+i,VAR_4
+vmx,VAR_5
+maxcpus,VAR_6

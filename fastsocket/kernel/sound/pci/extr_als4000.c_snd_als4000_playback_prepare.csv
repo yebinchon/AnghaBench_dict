@@ -1,0 +1,17 @@
+ALS4000_FORMAT_16BIT,VAR_0
+playback_cmd,FUNC_0
+snd_als4000_get_format,FUNC_1
+snd_als4000_set_playback_dma,FUNC_2
+snd_als4000_set_rate,FUNC_3
+snd_pcm_lib_buffer_bytes,FUNC_4
+snd_pcm_lib_period_bytes,FUNC_5
+snd_pcm_substream_chip,FUNC_6
+snd_sbdsp_command,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+snd_als4000_playback_prepare,FUNC_10
+substream,VAR_1
+chip,VAR_2
+runtime,VAR_3
+size,VAR_4
+count,VAR_5

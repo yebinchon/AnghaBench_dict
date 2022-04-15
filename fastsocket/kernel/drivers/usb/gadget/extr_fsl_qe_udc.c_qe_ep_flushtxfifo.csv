@@ -1,0 +1,12 @@
+USB_CMD_EP_MASK,VAR_0
+USB_CMD_FLUSH_FIFO,VAR_1
+in_be16,FUNC_0
+out_8,FUNC_1
+out_be16,FUNC_2
+out_be32,FUNC_3
+qe_ep_cmd_restarttx,FUNC_4
+qe_ep_cmd_stoptx,FUNC_5
+qe_ep_flushtxfifo,FUNC_6
+ep,VAR_2
+udc,VAR_3
+i,VAR_4

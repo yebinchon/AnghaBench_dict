@@ -1,0 +1,16 @@
+LDNS_RR_TYPE_RRSIG,VAR_0
+log_assert,FUNC_0
+log_info,FUNC_1
+memmove,FUNC_2
+sldns_wire2str_rr_buf,FUNC_3
+sldns_write_uint16,FUNC_4
+sldns_write_uint32,FUNC_5
+packed_rr_to_string,FUNC_6
+rrset,VAR_1
+i,VAR_2
+now,VAR_3
+dest,VAR_4
+dest_len,VAR_5
+d,VAR_6
+rr,VAR_7
+rlen,VAR_8

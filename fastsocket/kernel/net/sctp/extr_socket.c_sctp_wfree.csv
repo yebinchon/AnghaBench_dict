@@ -1,0 +1,11 @@
+SCTP_DATA_SNDSIZE,FUNC_0
+__sctp_write_space,FUNC_1
+atomic_sub,FUNC_2
+sctp_association_put,FUNC_3
+sk_mem_uncharge,FUNC_4
+sock_wfree,FUNC_5
+sctp_wfree,FUNC_6
+skb,VAR_0
+asoc,VAR_1
+chunk,VAR_2
+sk,VAR_3

@@ -1,0 +1,15 @@
+SQLITE_MISUSE_BKPT,VAR_0
+assert,FUNC_0
+createCollation,FUNC_1
+sqlite3ApiExit,FUNC_2
+sqlite3SafetyCheckOk,FUNC_3
+sqlite3_mutex_enter,FUNC_4
+sqlite3_mutex_leave,FUNC_5
+sqlite3_create_collation_v2,FUNC_6
+db,VAR_1
+zName,VAR_2
+enc,VAR_3
+pCtx,VAR_4
+xCompare,VAR_5
+xDel,VAR_6
+rc,VAR_7

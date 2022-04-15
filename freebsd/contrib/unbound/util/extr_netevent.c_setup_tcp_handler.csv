@@ -1,0 +1,11 @@
+TCP_QUERY_TIMEOUT_MINIMUM,VAR_0
+comm_point_start_listening,FUNC_0
+comm_tcp,VAR_1
+log_assert,FUNC_1
+sldns_buffer_clear,FUNC_2
+setup_tcp_handler,FUNC_3
+c,VAR_2
+fd,VAR_3
+cur,VAR_4
+max,VAR_5
+handler_usage,VAR_6

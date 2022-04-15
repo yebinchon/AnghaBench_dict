@@ -1,0 +1,16 @@
+EXT_META_LISTENER,VAR_0
+LUA_END,VAR_1
+VLC_EGENERIC,VAR_2
+VLC_SUCCESS,VAR_3
+assert,FUNC_0
+inputItemMetaChanged,VAR_4
+input_item_Release,FUNC_1
+lua_ExecuteFunction,FUNC_2
+lua_close,FUNC_3
+vlc_InputItemMetaChanged,VAR_5
+vlc_event_detach,FUNC_4
+vlclua_fd_interrupt,FUNC_5
+lua_ExtensionDeactivate,FUNC_6
+p_mgr,VAR_6
+p_ext,VAR_7
+i_ret,VAR_8

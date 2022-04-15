@@ -1,0 +1,17 @@
+BUS_MESSAGE_IS_GVARIANT,FUNC_0
+EINVAL,VAR_0
+ENOMEM,VAR_1
+SD_BUS_MAXIMUM_SIGNATURE_LENGTH,VAR_2
+SD_BUS_TYPE_SIGNATURE,VAR_3
+assert,FUNC_1
+memcpy,FUNC_2
+message_append_field_string,FUNC_3
+message_extend_fields,FUNC_4
+strlen,FUNC_5
+message_append_field_signature,FUNC_6
+m,VAR_4
+h,VAR_5
+s,VAR_6
+ret,VAR_7
+l,VAR_8
+p,VAR_9

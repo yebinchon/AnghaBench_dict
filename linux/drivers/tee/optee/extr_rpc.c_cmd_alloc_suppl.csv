@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+ERR_PTR,FUNC_0
+OPTEE_MSG_RPC_CMD_SHM_ALLOC,VAR_1
+OPTEE_MSG_RPC_SHM_TYPE_APPL,VAR_2
+TEE_IOCTL_PARAM_ATTR_TYPE_VALUE_INOUT,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+optee_supp_thrd_req,FUNC_3
+tee_get_drvdata,FUNC_4
+tee_shm_get_from_id,FUNC_5
+cmd_alloc_suppl,FUNC_6
+ctx,VAR_4
+sz,VAR_5
+ret,VAR_6
+param,VAR_7
+optee,VAR_8
+shm,VAR_9

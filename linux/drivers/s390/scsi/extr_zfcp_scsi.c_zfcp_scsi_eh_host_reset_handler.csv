@@ -1,0 +1,14 @@
+FSF_FEATURE_NPIV_MODE,VAR_0
+SUCCESS,VAR_1
+fc_block_scsi_eh,FUNC_0
+sdev_to_zfcp,FUNC_1
+zfcp_dbf_scsi_eh,FUNC_2
+zfcp_erp_adapter_reopen,FUNC_3
+zfcp_erp_port_forced_reopen_all,FUNC_4
+zfcp_erp_wait,FUNC_5
+zfcp_scsi_eh_host_reset_handler,FUNC_6
+scpnt,VAR_2
+zfcp_sdev,VAR_3
+adapter,VAR_4
+ret,VAR_5
+fc_ret,VAR_6

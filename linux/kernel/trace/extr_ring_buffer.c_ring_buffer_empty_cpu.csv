@@ -1,0 +1,13 @@
+cpumask_test_cpu,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+rb_per_cpu_empty,FUNC_3
+rb_reader_lock,FUNC_4
+rb_reader_unlock,FUNC_5
+ring_buffer_empty_cpu,FUNC_6
+buffer,VAR_0
+cpu,VAR_1
+cpu_buffer,VAR_2
+flags,VAR_3
+dolock,VAR_4
+ret,VAR_5

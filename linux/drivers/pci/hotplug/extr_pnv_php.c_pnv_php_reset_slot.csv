@@ -1,0 +1,15 @@
+PCI_EXP_SLTSTA,VAR_0
+PCI_EXP_SLTSTA_DLLSC,VAR_1
+PCI_EXP_SLTSTA_PDC,VAR_2
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+pci_bridge_secondary_bus_reset,FUNC_2
+pcie_capability_read_word,FUNC_3
+pcie_capability_write_word,FUNC_4
+to_pnv_php_slot,FUNC_5
+pnv_php_reset_slot,FUNC_6
+slot,VAR_3
+probe,VAR_4
+php_slot,VAR_5
+bridge,VAR_6
+sts,VAR_7

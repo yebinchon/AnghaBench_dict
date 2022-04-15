@@ -1,0 +1,17 @@
+AUTONEG_ENABLE,VAR_0
+MDIO_MMD_PCS,VAR_1
+MDIO_STAT1,VAR_2
+MDIO_STAT1_LSTATUS,VAR_3
+XGBE_LINK_ERR,VAR_4
+XGBE_LINK_INIT,VAR_5
+XMDIO_READ,FUNC_0
+clear_bit,FUNC_1
+test_bit,FUNC_2
+xgbe_check_link_timeout,FUNC_3
+xgbe_phy_adjust_link,FUNC_4
+xgbe_phy_aneg_done,FUNC_5
+xgbe_phy_status_aneg,FUNC_6
+xgbe_phy_status,FUNC_7
+pdata,VAR_6
+reg,VAR_7
+link_aneg,VAR_8

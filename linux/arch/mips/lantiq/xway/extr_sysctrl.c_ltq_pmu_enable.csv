@@ -1,0 +1,11 @@
+PMU_PWDCR,VAR_0
+PMU_PWDSR,VAR_1
+g_pmu_lock,VAR_2
+panic,FUNC_0
+pmu_r32,FUNC_1
+pmu_w32,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+ltq_pmu_enable,FUNC_5
+module,VAR_3
+retry,VAR_4

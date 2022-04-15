@@ -1,0 +1,16 @@
+PAGE_SIZE,VAR_0
+copy_oldmem_page,FUNC_0
+copy_oldmem_page_encrypted,FUNC_1
+memset,FUNC_2
+pfn_is_ram,FUNC_3
+read_from_oldmem,FUNC_4
+buf,VAR_1
+count,VAR_2
+ppos,VAR_3
+userbuf,VAR_4
+encrypted,VAR_5
+pfn,VAR_6
+offset,VAR_7
+nr_bytes,VAR_8
+read,VAR_9
+tmp,VAR_10

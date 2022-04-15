@@ -1,0 +1,12 @@
+TASK_INTERRUPTIBLE,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+current,VAR_2
+msecs_to_jiffies,FUNC_0
+schedule_timeout,FUNC_1
+set_current_state,FUNC_2
+signal_pending,FUNC_3
+cx18_msleep_timeout,FUNC_4
+msecs,VAR_3
+intr,VAR_4
+timeout,VAR_5
+sig,VAR_6

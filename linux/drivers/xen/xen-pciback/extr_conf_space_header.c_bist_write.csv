@@ -1,0 +1,10 @@
+PCI_BIST_START,VAR_0
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+bist_write,FUNC_2
+dev,VAR_1
+offset,VAR_2
+value,VAR_3
+data,VAR_4
+cur_value,VAR_5
+err,VAR_6

@@ -1,0 +1,16 @@
+EMSGSIZE,VAR_0
+TIPC_NLA_SOCK_ADDR,VAR_1
+TIPC_NLA_SOCK_HAS_PUBL,VAR_2
+TIPC_NLA_SOCK_REF,VAR_3
+__tipc_nl_add_sk_con,FUNC_0
+list_empty,FUNC_1
+nla_put_flag,FUNC_2
+nla_put_u32,FUNC_3
+sock_net,FUNC_4
+tipc_own_addr,FUNC_5
+tipc_sk_connected,FUNC_6
+__tipc_nl_add_sk_info,FUNC_7
+skb,VAR_4
+tsk,VAR_5
+net,VAR_6
+sk,VAR_7

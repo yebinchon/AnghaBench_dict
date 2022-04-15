@@ -1,0 +1,14 @@
+ALLOCSET_SMALL_SIZES,VAR_0
+AllocSetContextCreate,FUNC_0
+MemoryContextSwitchTo,FUNC_1
+chunk_store_entry_free,VAR_1
+palloc,FUNC_2
+ts_chunk_copy,FUNC_3
+ts_subspace_store_add,FUNC_4
+ts_subspace_store_mcxt,FUNC_5
+hypertable_chunk_store_add,FUNC_6
+h,VAR_2
+chunk,VAR_3
+cse,VAR_4
+old_mcxt,VAR_5
+chunk_mcxt,VAR_6

@@ -1,0 +1,15 @@
+get_ctx,FUNC_0
+luaL_checkstring,FUNC_1
+lua_pushboolean,FUNC_2
+lua_toboolean,FUNC_3
+mpv_event_name,FUNC_4
+mpv_request_event,FUNC_5
+strcmp,FUNC_6
+script_request_event,FUNC_7
+L,VAR_0
+ctx,VAR_1
+event,VAR_2
+enable,VAR_3
+event_id,VAR_4
+n,VAR_5
+name,VAR_6

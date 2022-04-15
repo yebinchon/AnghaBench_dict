@@ -1,0 +1,11 @@
+BuildDnsQueryPacket,FUNC_0
+Endian16,FUNC_1
+NewBuf,FUNC_2
+SeekBufToBegin,FUNC_3
+WriteBuf,FUNC_4
+Zero,FUNC_5
+NnBuildDnsQueryPacket,FUNC_6
+hostname,VAR_0
+tran_id,VAR_1
+buf,VAR_2
+header,VAR_3

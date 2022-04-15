@@ -1,0 +1,12 @@
+_repo,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+create_note,FUNC_2
+git_note_foreach,FUNC_3
+note_list_cb,VAR_1
+test_notes_notes__can_retrieve_a_list_of_notes_for_a_given_namespace,FUNC_4
+note_oid1,VAR_2
+note_oid2,VAR_3
+note_oid3,VAR_4
+note_oid4,VAR_5
+retrieved_notes,VAR_6

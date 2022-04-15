@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+MPLS_LS_TTL_MASK,VAR_1
+MPLS_LS_TTL_SHIFT,VAR_2
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+eth_p_mpls,FUNC_2
+mpls_hdr,FUNC_3
+skb_mpls_update_lse,FUNC_4
+unlikely,FUNC_5
+skb_mpls_dec_ttl,FUNC_6
+skb,VAR_3
+lse,VAR_4
+ttl,VAR_5

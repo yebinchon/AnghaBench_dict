@@ -1,0 +1,16 @@
+EVP_CIPHER_CTX_free,FUNC_0
+EVP_CIPHER_CTX_new,FUNC_1
+EVP_CIPHER_CTX_set_padding,FUNC_2
+EVP_DecryptInit_ex,FUNC_3
+EVP_EncryptInit_ex,FUNC_4
+PTLS_ERROR_LIBRARY,VAR_0
+PTLS_ERROR_NO_MEMORY,VAR_1
+cipher_dispose,VAR_2
+cipher_do_init,VAR_3
+cipher_setup_crypto,FUNC_5
+_ctx,VAR_4
+is_enc,VAR_5
+key,VAR_6
+cipher,VAR_7
+do_transform,VAR_8
+ctx,VAR_9

@@ -1,0 +1,16 @@
+M_COMMON_GENI_M_IRQ_EN,VAR_0
+SE_GENI_M_IRQ_EN,VAR_1
+SE_GENI_RX_RFR_WATERMARK_REG,VAR_2
+SE_GENI_RX_WATERMARK_REG,VAR_3
+SE_GENI_S_IRQ_EN,VAR_4
+S_COMMON_GENI_S_IRQ_EN,VAR_5
+geni_se_io_init,FUNC_0
+geni_se_io_set_mode,FUNC_1
+geni_se_irq_clear,FUNC_2
+readl_relaxed,FUNC_3
+writel_relaxed,FUNC_4
+geni_se_init,FUNC_5
+se,VAR_6
+rx_wm,VAR_7
+rx_rfr,VAR_8
+val,VAR_9

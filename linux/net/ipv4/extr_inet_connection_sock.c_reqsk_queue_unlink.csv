@@ -1,0 +1,14 @@
+__sk_nulls_del_node_init_rcu,FUNC_0
+del_timer_sync,FUNC_1
+inet_ehash_lockp,FUNC_2
+req_to_sk,FUNC_3
+reqsk_put,FUNC_4
+sk_hashed,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+timer_pending,FUNC_8
+reqsk_queue_unlink,FUNC_9
+req,VAR_0
+hashinfo,VAR_1
+found,VAR_2
+lock,VAR_3

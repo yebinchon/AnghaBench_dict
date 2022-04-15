@@ -1,0 +1,16 @@
+VBI_HBLANK_SAMPLES_50HZ,VAR_0
+VBI_HBLANK_SAMPLES_60HZ,VAR_1
+decode_vbi_line,VAR_2
+memcpy,FUNC_0
+sliced_vbi_eav_rp,VAR_3
+v4l2_subdev_call,FUNC_1
+compress_sliced_buf,FUNC_2
+cx,VAR_4
+buf,VAR_5
+size,VAR_6
+hdr_size,VAR_7
+vbi,VAR_8
+i,VAR_9
+line,VAR_10
+line_size,VAR_11
+p,VAR_12

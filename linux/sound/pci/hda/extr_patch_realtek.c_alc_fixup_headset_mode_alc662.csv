@@ -1,0 +1,13 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+AC_WCAP_IN_AMP,VAR_1
+HDA_FIXUP_ACT_PRE_PROBE,VAR_2
+HDA_PINCFG_HEADSET_MIC,VAR_3
+alc_fixup_headset_mode,FUNC_0
+get_wcaps,FUNC_1
+snd_hda_codec_write,FUNC_2
+snd_hda_override_wcaps,FUNC_3
+alc_fixup_headset_mode_alc662,FUNC_4
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+spec,VAR_7

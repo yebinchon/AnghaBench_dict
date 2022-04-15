@@ -1,0 +1,17 @@
+XFER_MW_DMA_0,VAR_0
+XFER_UDMA_0,VAR_1
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+to_pci_dev,FUNC_2
+svwks_set_dma_mode,FUNC_3
+drive,VAR_2
+speed,VAR_3
+udma_modes,VAR_4
+dma_modes,VAR_5
+drive_pci2,VAR_6
+hwif,VAR_7
+dev,VAR_8
+unit,VAR_9
+ultra_enable,VAR_10
+ultra_timing,VAR_11
+dma_timing,VAR_12

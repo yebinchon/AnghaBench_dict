@@ -1,0 +1,15 @@
+ENOSYS,VAR_0
+LOCAL_PEERCRED,VAR_1
+SOL_SOCKET,VAR_2
+SO_PEERCRED,VAR_3
+XUCRED_VERSION,VAR_4
+errno,VAR_5
+getpeerucred,FUNC_0
+getsockopt,FUNC_1
+ucred_free,FUNC_2
+ucred_getegid,FUNC_3
+ucred_geteuid,FUNC_4
+getpeereid,FUNC_5
+sock,VAR_6
+uid,VAR_7
+gid,VAR_8

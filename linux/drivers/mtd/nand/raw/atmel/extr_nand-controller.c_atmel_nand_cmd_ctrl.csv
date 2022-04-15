@@ -1,0 +1,14 @@
+NAND_ALE,VAR_0
+NAND_CLE,VAR_1
+NAND_CTRL_CHANGE,VAR_2
+NAND_NCE,VAR_3
+gpiod_set_value,FUNC_0
+to_atmel_nand,FUNC_1
+to_nand_controller,FUNC_2
+writeb,FUNC_3
+atmel_nand_cmd_ctrl,FUNC_4
+chip,VAR_4
+cmd,VAR_5
+ctrl,VAR_6
+nand,VAR_7
+nc,VAR_8

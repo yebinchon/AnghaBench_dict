@@ -1,0 +1,15 @@
+BIT,FUNC_0
+MLXBF_TM_RX_HWM_IRQ,VAR_0
+MLXBF_TM_TX_LWM_IRQ,VAR_1
+VIRTIO_ID_CONSOLE,VAR_2
+mlxbf_tmfifo_console_output,FUNC_1
+schedule_work,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+test_and_set_bit,FUNC_5
+mlxbf_tmfifo_virtio_notify,FUNC_6
+vq,VAR_3
+vring,VAR_4
+tm_vdev,VAR_5
+fifo,VAR_6
+flags,VAR_7

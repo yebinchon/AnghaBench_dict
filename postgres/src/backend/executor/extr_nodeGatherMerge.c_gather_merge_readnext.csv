@@ -1,0 +1,17 @@
+Assert,FUNC_0
+ExecProcNode,FUNC_1
+ExecStoreHeapTuple,FUNC_2
+HeapTupleIsValid,FUNC_3
+TupIsNull,FUNC_4
+gm_readnext_tuple,FUNC_5
+load_tuple_array,FUNC_6
+outerPlanState,FUNC_7
+gather_merge_readnext,FUNC_8
+gm_state,VAR_0
+reader,VAR_1
+nowait,VAR_2
+tuple_buffer,VAR_3
+tup,VAR_4
+outerPlan,VAR_5
+outerTupleSlot,VAR_6
+estate,VAR_7

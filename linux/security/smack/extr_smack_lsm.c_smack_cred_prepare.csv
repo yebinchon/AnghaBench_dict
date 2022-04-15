@@ -1,0 +1,11 @@
+init_task_smack,FUNC_0
+smack_cred,FUNC_1
+smk_copy_relabel,FUNC_2
+smk_copy_rules,FUNC_3
+smack_cred_prepare,FUNC_4
+new,VAR_0
+old,VAR_1
+gfp,VAR_2
+old_tsp,VAR_3
+new_tsp,VAR_4
+rc,VAR_5

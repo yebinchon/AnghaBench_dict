@@ -1,0 +1,15 @@
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+tc_chain_notify_delete,FUNC_2
+tc_chain_tmplt_del,FUNC_3
+tcf_chain_destroy,FUNC_4
+tcf_chain_detach,FUNC_5
+__tcf_chain_put,FUNC_6
+chain,VAR_0
+by_act,VAR_1
+explicitly_created,VAR_2
+block,VAR_3
+tmplt_ops,VAR_4
+free_block,VAR_5
+refcnt,VAR_6
+tmplt_priv,VAR_7

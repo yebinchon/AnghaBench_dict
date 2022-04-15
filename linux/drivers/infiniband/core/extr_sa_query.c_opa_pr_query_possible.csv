@@ -1,0 +1,13 @@
+IB_MULTICAST_LID_BASE,VAR_0
+PR_IB_SUPPORTED,VAR_1
+PR_NOT_SUPPORTED,VAR_2
+PR_OPA_SUPPORTED,VAR_3
+be16_to_cpu,FUNC_0
+ib_query_port,FUNC_1
+ib_sa_opa_pathrecord_support,FUNC_2
+opa_pr_query_possible,FUNC_3
+client,VAR_4
+device,VAR_5
+port_num,VAR_6
+rec,VAR_7
+port_attr,VAR_8

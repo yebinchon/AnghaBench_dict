@@ -1,0 +1,10 @@
+barrier,FUNC_0
+i915_request_completed,FUNC_1
+i915_request_get_rcu,FUNC_2
+i915_request_put,FUNC_3
+rcu_access_pointer,FUNC_4
+rcu_dereference,FUNC_5
+rcu_pointer_handoff,FUNC_6
+__i915_active_request_get_rcu,FUNC_7
+active,VAR_0
+request,VAR_1

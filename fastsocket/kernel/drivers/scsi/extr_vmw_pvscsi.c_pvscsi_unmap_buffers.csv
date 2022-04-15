@@ -1,0 +1,14 @@
+PCI_DMA_FROMDEVICE,VAR_0
+PCI_DMA_TODEVICE,VAR_1
+SCSI_SENSE_BUFFERSIZE,VAR_2
+SGL_SIZE,VAR_3
+pci_unmap_single,FUNC_0
+scsi_bufflen,FUNC_1
+scsi_dma_unmap,FUNC_2
+scsi_sg_count,FUNC_3
+pvscsi_unmap_buffers,FUNC_4
+adapter,VAR_4
+ctx,VAR_5
+cmd,VAR_6
+bufflen,VAR_7
+count,VAR_8

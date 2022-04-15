@@ -1,0 +1,17 @@
+ENXIO,VAR_0
+M_NVDIMM,VAR_1
+PRIBIO,VAR_2
+devstat_remove_entry,FUNC_0
+free,FUNC_1
+g_topology_assert,FUNC_2
+g_wither_geom,FUNC_3
+msleep,FUNC_4
+mtx_destroy,FUNC_5
+mtx_lock,FUNC_6
+mtx_unlock,FUNC_7
+wakeup,FUNC_8
+nvdimm_spa_g_destroy_geom,FUNC_9
+req,VAR_3
+cp,VAR_4
+gp,VAR_5
+sc,VAR_6

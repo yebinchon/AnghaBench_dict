@@ -1,0 +1,17 @@
+IBA7220_IBCC_LINKCMD_SHIFT,VAR_0
+QIBL_IB_LINK_DISABLED,VAR_1
+QLOGIC_IB_IBCC_LINKCMD_DOWN,VAR_2
+QLOGIC_IB_IBCC_LINKINITCMD_DISABLE,VAR_3
+QLOGIC_IB_IBCC_LINKINITCMD_SHIFT,VAR_4
+kr_ibcctrl,VAR_5
+kr_scratch,VAR_6
+qib_write_kreg,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+qib_set_ib_7220_lstate,FUNC_3
+ppd,VAR_7
+linkcmd,VAR_8
+linitcmd,VAR_9
+mod_wd,VAR_10
+dd,VAR_11
+flags,VAR_12

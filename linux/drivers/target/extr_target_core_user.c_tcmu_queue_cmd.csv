@@ -1,0 +1,14 @@
+TCMU_DEV,FUNC_0
+TCM_LOGICAL_UNIT_COMMUNICATION_FAILURE,VAR_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+queue_cmd_ring,FUNC_3
+tcmu_alloc_cmd,FUNC_4
+tcmu_free_cmd,FUNC_5
+tcmu_queue_cmd,FUNC_6
+se_cmd,VAR_1
+se_dev,VAR_2
+udev,VAR_3
+tcmu_cmd,VAR_4
+scsi_ret,VAR_5
+ret,VAR_6

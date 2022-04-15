@@ -1,0 +1,16 @@
+IDE_HFLAG_MMIO,VAR_0
+SATA_CONTROL_OFFSET,VAR_1
+SATA_ERROR_OFFSET,VAR_2
+SATA_STATUS_OFFSET,VAR_3
+memset,FUNC_0
+pci_get_drvdata,FUNC_1
+pdev_is_sata,FUNC_2
+to_pci_dev,FUNC_3
+init_mmio_iops_siimage,FUNC_4
+hwif,VAR_4
+dev,VAR_5
+host,VAR_6
+addr,VAR_7
+ch,VAR_8
+io_ports,VAR_9
+base,VAR_10

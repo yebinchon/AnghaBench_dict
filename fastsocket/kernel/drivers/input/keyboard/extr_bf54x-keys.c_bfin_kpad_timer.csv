@@ -1,0 +1,12 @@
+bfin_kpad_clear_irq,FUNC_0
+bfin_kpad_get_keypressed,FUNC_1
+enable_irq,FUNC_2
+input_report_key,FUNC_3
+input_sync,FUNC_4
+jiffies,VAR_0
+mod_timer,FUNC_5
+platform_get_drvdata,FUNC_6
+bfin_kpad_timer,FUNC_7
+data,VAR_1
+pdev,VAR_2
+bf54x_kpad,VAR_3

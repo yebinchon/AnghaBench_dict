@@ -1,0 +1,13 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+M_DEVBUF,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+free,FUNC_4
+m_freem,FUNC_5
+iwi_free_rx_ring,FUNC_6
+sc,VAR_2
+ring,VAR_3
+data,VAR_4
+i,VAR_5

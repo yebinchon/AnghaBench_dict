@@ -1,0 +1,15 @@
+DMU_OST_ZVOL,VAR_0
+EIO,VAR_1
+VERIFY0,FUNC_0
+dmu_objset_fast_stat,FUNC_1
+dmu_objset_stats,FUNC_2
+dmu_objset_type,FUNC_3
+dsl_prop_get_all,FUNC_4
+nvlist_free,FUNC_5
+put_nvlist,FUNC_6
+zvol_get_stats,FUNC_7
+zfs_ioc_objset_stats_impl,FUNC_8
+zc,VAR_2
+os,VAR_3
+error,VAR_4
+nv,VAR_5

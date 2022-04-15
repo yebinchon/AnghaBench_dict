@@ -1,0 +1,16 @@
+V4L2_BUF_TYPE_VIDEO_CAPTURE_MPLANE,VAR_0
+V4L2_BUF_TYPE_VIDEO_OUTPUT_MPLANE,VAR_1
+memset,FUNC_0
+to_inst,FUNC_1
+vdec_try_fmt_common,FUNC_2
+vdec_s_fmt,FUNC_3
+file,VAR_2
+fh,VAR_3
+f,VAR_4
+inst,VAR_5
+pixmp,VAR_6
+orig_pixmp,VAR_7
+fmt,VAR_8
+format,VAR_9
+pixfmt_out,VAR_10
+pixfmt_cap,VAR_11

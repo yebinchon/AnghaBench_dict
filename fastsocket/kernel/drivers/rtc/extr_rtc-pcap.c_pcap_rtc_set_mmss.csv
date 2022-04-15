@@ -1,0 +1,13 @@
+PCAP_REG_RTC_DAY,VAR_0
+PCAP_REG_RTC_TOD,VAR_1
+SEC_PER_DAY,VAR_2
+ezx_pcap_write,FUNC_0
+platform_get_drvdata,FUNC_1
+to_platform_device,FUNC_2
+pcap_rtc_set_mmss,FUNC_3
+dev,VAR_3
+secs,VAR_4
+pdev,VAR_5
+pcap_rtc,VAR_6
+tod,VAR_7
+days,VAR_8

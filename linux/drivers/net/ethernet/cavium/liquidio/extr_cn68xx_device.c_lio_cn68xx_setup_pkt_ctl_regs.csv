@@ -1,0 +1,14 @@
+CFG_GET_IS_SLI_BP_ON,FUNC_0
+CFG_GET_OQ_MAX_Q,FUNC_1
+CHIP_CONF,FUNC_2
+CN68XX_SLI_TX_PIPE,VAR_0
+CN6XXX_SLI_PKT_CTL,VAR_1
+cn6xxx,VAR_2
+octeon_read_csr64,FUNC_3
+octeon_write_csr64,FUNC_4
+lio_cn68xx_setup_pkt_ctl_regs,FUNC_5
+oct,VAR_3
+cn68xx,VAR_4
+pktctl,VAR_5
+tx_pipe,VAR_6
+max_oqs,VAR_7

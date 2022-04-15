@@ -1,0 +1,11 @@
+CPUID_EXT_MMFR0,VAR_0
+CPU_ARCH_ARMv3,VAR_1
+CPU_ARCH_ARMv4T,VAR_2
+CPU_ARCH_ARMv6,VAR_3
+CPU_ARCH_ARMv7,VAR_4
+CPU_ARCH_UNKNOWN,VAR_5
+read_cpuid_ext,FUNC_0
+read_cpuid_id,FUNC_1
+__get_cpu_architecture,FUNC_2
+cpu_arch,VAR_6
+mmfr0,VAR_7

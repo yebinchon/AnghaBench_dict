@@ -1,0 +1,15 @@
+CSR_READ_1,FUNC_0
+CSR_WRITE_1,FUNC_1
+IFF_UP,VAR_0
+RL_FLAG_MACSLEEP,VAR_1
+RL_GPIO,VAR_2
+RL_LOCK,FUNC_2
+RL_MACDBG,VAR_3
+RL_UNLOCK,FUNC_3
+device_get_softc,FUNC_4
+re_clrwol,FUNC_5
+re_init_locked,FUNC_6
+re_resume,FUNC_7
+dev,VAR_4
+sc,VAR_5
+ifp,VAR_6

@@ -1,0 +1,12 @@
+BUG,FUNC_0
+SMSC911X_SWAP_FIFO,VAR_0
+SMSC911X_USE_16BIT,VAR_1
+SMSC911X_USE_32BIT,VAR_2
+TX_DATA_FIFO,VAR_3
+smsc911x_reg_write,FUNC_1
+swab32,FUNC_2
+writesl,FUNC_3
+smsc911x_tx_writefifo,FUNC_4
+pdata,VAR_4
+buf,VAR_5
+wordcount,VAR_6

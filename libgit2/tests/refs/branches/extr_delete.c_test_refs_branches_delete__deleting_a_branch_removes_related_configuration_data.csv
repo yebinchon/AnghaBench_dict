@@ -1,0 +1,9 @@
+GIT_BRANCH_LOCAL,VAR_0
+assert_config_entry_existence,FUNC_0
+cl_git_pass,FUNC_1
+git_branch_delete,FUNC_2
+git_branch_lookup,FUNC_3
+git_reference_free,FUNC_4
+repo,VAR_1
+test_refs_branches_delete__deleting_a_branch_removes_related_configuration_data,FUNC_5
+branch,VAR_2

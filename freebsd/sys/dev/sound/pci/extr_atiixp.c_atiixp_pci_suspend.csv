@@ -1,0 +1,17 @@
+ATI_IXP_CHN_RUNNING,VAR_0
+ATI_IXP_CHN_SUSPEND,VAR_1
+ATI_REG_CMD,VAR_2
+ATI_REG_CMD_AC_RESET,VAR_3
+ATI_REG_CMD_POWERDOWN,VAR_4
+PCMTRIG_STOP,VAR_5
+atiixp_chan_trigger,FUNC_0
+atiixp_disable_interrupts,FUNC_1
+atiixp_lock,FUNC_2
+atiixp_rd,FUNC_3
+atiixp_unlock,FUNC_4
+atiixp_wr,FUNC_5
+pcm_getdevinfo,FUNC_6
+atiixp_pci_suspend,FUNC_7
+dev,VAR_6
+sc,VAR_7
+value,VAR_8

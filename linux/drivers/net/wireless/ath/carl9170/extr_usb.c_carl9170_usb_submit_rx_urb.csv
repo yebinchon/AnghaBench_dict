@@ -1,0 +1,17 @@
+AR9170_NUM_RX_URBS,VAR_0
+ENOSPC,VAR_1
+atomic_dec,FUNC_0
+atomic_inc,FUNC_1
+atomic_read,FUNC_2
+unlikely,FUNC_3
+usb_anchor_urb,FUNC_4
+usb_free_urb,FUNC_5
+usb_get_from_anchor,FUNC_6
+usb_submit_urb,FUNC_7
+usb_unanchor_urb,FUNC_8
+carl9170_usb_submit_rx_urb,FUNC_9
+ar,VAR_2
+gfp,VAR_3
+urb,VAR_4
+err,VAR_5
+runs,VAR_6

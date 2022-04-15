@@ -1,0 +1,12 @@
+CONFIG_MAX_NAME,VAR_0
+CONFIG_SECTION_PLUGIN_PROC_DISKSTATS,VAR_1
+config_get_boolean,FUNC_0
+reallocz,FUNC_1
+snprintfz,FUNC_2
+is_major_enabled,FUNC_3
+major,VAR_2
+major_configs,VAR_3
+major_size,VAR_4
+wanted_size,VAR_5
+i,VAR_6
+buffer,VAR_7

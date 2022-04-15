@@ -1,0 +1,15 @@
+CR_CONFIG_PHILIPS,VAR_0
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+patch_6m_band_edge,FUNC_2
+patch_cck_gain,FUNC_3
+update_channel_integration_and_calibration,FUNC_4
+zd_chip_lock_phy_regs,FUNC_5
+zd_chip_unlock_phy_regs,FUNC_6
+zd_iowrite32_locked,FUNC_7
+zd_rf_set_channel,FUNC_8
+zd_chip_set_channel,FUNC_9
+chip,VAR_1
+channel,VAR_2
+r,VAR_3
+t,VAR_4

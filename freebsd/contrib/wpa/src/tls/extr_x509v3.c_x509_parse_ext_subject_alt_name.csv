@@ -1,0 +1,12 @@
+ASN1_CLASS_UNIVERSAL,VAR_0
+ASN1_TAG_SEQUENCE,VAR_1
+MSG_DEBUG,VAR_2
+X509_EXT_SUBJECT_ALT_NAME,VAR_3
+asn1_get_next,FUNC_0
+wpa_printf,FUNC_1
+x509_parse_ext_alt_name,FUNC_2
+x509_parse_ext_subject_alt_name,FUNC_3
+cert,VAR_4
+pos,VAR_5
+len,VAR_6
+hdr,VAR_7

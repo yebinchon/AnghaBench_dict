@@ -1,0 +1,16 @@
+CMD_ACTIVATE,VAR_0
+Run,VAR_1
+VLC_ENOMEM,VAR_2
+VLC_SUCCESS,VAR_3
+VLC_THREAD_PRIORITY_LOW,VAR_4
+assert,FUNC_0
+calloc,FUNC_1
+msg_Dbg,FUNC_2
+vlc_clone,FUNC_3
+vlc_cond_signal,FUNC_4
+vlc_mutex_lock,FUNC_5
+vlc_mutex_unlock,FUNC_6
+Activate,FUNC_7
+p_mgr,VAR_5
+p_ext,VAR_6
+p_sys,VAR_7

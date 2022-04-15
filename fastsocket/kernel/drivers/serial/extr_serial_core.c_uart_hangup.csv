@@ -1,0 +1,16 @@
+ASYNCB_NORMAL_ACTIVE,VAR_0
+ASYNC_NORMAL_ACTIVE,VAR_1
+BUG_ON,FUNC_0
+clear_bit,FUNC_1
+kernel_locked,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pr_debug,FUNC_5
+tty_port_tty_set,FUNC_6
+uart_flush_buffer,FUNC_7
+uart_shutdown,FUNC_8
+wake_up_interruptible,FUNC_9
+uart_hangup,FUNC_10
+tty,VAR_2
+state,VAR_3
+port,VAR_4

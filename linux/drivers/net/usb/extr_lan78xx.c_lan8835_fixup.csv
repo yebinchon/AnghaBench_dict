@@ -1,0 +1,14 @@
+MAC_RGMII_ID,VAR_0
+MAC_RGMII_ID_TXC_DELAY_EN_,VAR_1
+MDIO_MMD_PCS,VAR_2
+PHY_INTERFACE_MODE_RGMII_TXID,VAR_3
+RGMII_TX_BYP_DLL,VAR_4
+lan78xx_write_reg,FUNC_0
+netdev_priv,FUNC_1
+phy_read_mmd,FUNC_2
+phy_write_mmd,FUNC_3
+lan8835_fixup,FUNC_4
+phydev,VAR_5
+buf,VAR_6
+ret,VAR_7
+dev,VAR_8

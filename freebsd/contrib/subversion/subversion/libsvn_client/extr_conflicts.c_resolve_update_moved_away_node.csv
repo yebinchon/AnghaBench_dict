@@ -1,0 +1,17 @@
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_0
+svn_client_conflict_get_local_abspath,FUNC_1
+svn_client_conflict_option_get_id,FUNC_2
+svn_error_compose_create,FUNC_3
+svn_io_sleep_for_timestamps,FUNC_4
+svn_wc__acquire_write_lock_for_resolve,FUNC_5
+svn_wc__conflict_tree_update_moved_away_node,FUNC_6
+svn_wc__release_write_lock,FUNC_7
+resolve_update_moved_away_node,FUNC_8
+option,VAR_1
+conflict,VAR_2
+ctx,VAR_3
+scratch_pool,VAR_4
+local_abspath,VAR_5
+lock_abspath,VAR_6
+err,VAR_7

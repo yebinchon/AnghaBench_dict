@@ -1,0 +1,10 @@
+NO_SYSCALL,VAR_0
+TIF_SYSCALL_TRACE,VAR_1
+TIF_SYSCALL_TRACEPOINT,VAR_2
+current,VAR_3
+syscall_get_nr,FUNC_0
+test_thread_flag,FUNC_1
+trace_sys_enter,FUNC_2
+tracehook_report_syscall_entry,FUNC_3
+do_syscall_trace_enter,FUNC_4
+regs,VAR_4

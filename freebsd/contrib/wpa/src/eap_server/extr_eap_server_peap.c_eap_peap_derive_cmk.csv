@@ -1,0 +1,17 @@
+EAP_TLS_KEY_LEN,VAR_0
+MSG_DEBUG,VAR_1
+eap_peap_get_isk,FUNC_0
+eap_server_tls_derive_key,FUNC_1
+forced_memzero,FUNC_2
+os_free,FUNC_3
+os_memcpy,FUNC_4
+peap_prfplus,FUNC_5
+tls_connection_resumed,FUNC_6
+wpa_hexdump_key,FUNC_7
+eap_peap_derive_cmk,FUNC_8
+sm,VAR_2
+data,VAR_3
+tk,VAR_4
+isk,VAR_5
+imck,VAR_6
+res,VAR_7

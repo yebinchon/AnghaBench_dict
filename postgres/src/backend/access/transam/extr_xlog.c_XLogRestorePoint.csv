@@ -1,0 +1,15 @@
+GetCurrentTimestamp,FUNC_0
+LOG,VAR_0
+MAXFNAMELEN,VAR_1
+RM_XLOG_ID,VAR_2
+XLOG_RESTORE_POINT,VAR_3
+XLogBeginInsert,FUNC_1
+XLogInsert,FUNC_2
+XLogRegisterData,FUNC_3
+ereport,FUNC_4
+errmsg,FUNC_5
+strlcpy,FUNC_6
+XLogRestorePoint,FUNC_7
+rpName,VAR_4
+RecPtr,VAR_5
+xlrec,VAR_6

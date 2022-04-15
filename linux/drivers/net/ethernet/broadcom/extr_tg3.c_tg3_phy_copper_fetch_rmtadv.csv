@@ -1,0 +1,11 @@
+MII_LPA,VAR_0
+MII_STAT1000,VAR_1
+TG3_PHYFLG_10_100_ONLY,VAR_2
+mii_lpa_to_ethtool_lpa_t,FUNC_0
+mii_stat1000_to_ethtool_lpa_t,FUNC_1
+tg3_readphy,FUNC_2
+tg3_phy_copper_fetch_rmtadv,FUNC_3
+tp,VAR_3
+rmtadv,VAR_4
+lpeth,VAR_5
+val,VAR_6

@@ -1,0 +1,11 @@
+AGP_AMD64_NVIDIA_0_APBASE,VAR_0
+AGP_AMD64_NVIDIA_1_APBASE1,VAR_1
+AGP_AMD64_NVIDIA_1_APBASE2,VAR_2
+agp_amd64_apbase_fixup,FUNC_0
+device_get_softc,FUNC_1
+pci_cfgregwrite,FUNC_2
+pci_read_config,FUNC_3
+pci_write_config,FUNC_4
+agp_amd64_nvidia_init,FUNC_5
+dev,VAR_3
+sc,VAR_4

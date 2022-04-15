@@ -1,0 +1,12 @@
+SECWDOG_COUNT_MASK,VAR_0
+SECWDOG_COUNT_REG,VAR_1
+TICKS_TO_SECS,FUNC_0
+secure_register_read,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+watchdog_get_drvdata,FUNC_4
+bcm_kona_wdt_get_timeleft,FUNC_5
+wdog,VAR_2
+wdt,VAR_3
+val,VAR_4
+flags,VAR_5

@@ -1,0 +1,10 @@
+ECHO,VAR_0
+ICANON,VAR_1
+TCSANOW,VAR_2
+VMIN,VAR_3
+VTIME,VAR_4
+tcgetattr,FUNC_0
+tcsetattr,FUNC_1
+set_term_quiet_input,FUNC_2
+old,VAR_5
+tc,VAR_6

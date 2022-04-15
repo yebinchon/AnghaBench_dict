@@ -1,0 +1,17 @@
+debug_rt_mutex_lock,FUNC_0
+lockdep_assert_held,FUNC_1
+mark_rt_mutex_waiters,FUNC_2
+raw_spin_lock,FUNC_3
+raw_spin_unlock,FUNC_4
+rt_mutex_dequeue,FUNC_5
+rt_mutex_enqueue_pi,FUNC_6
+rt_mutex_has_waiters,FUNC_7
+rt_mutex_owner,FUNC_8
+rt_mutex_set_owner,FUNC_9
+rt_mutex_top_waiter,FUNC_10
+rt_mutex_waiter_less,FUNC_11
+task_to_waiter,FUNC_12
+try_to_take_rt_mutex,FUNC_13
+lock,VAR_0
+task,VAR_1
+waiter,VAR_2

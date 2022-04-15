@@ -1,0 +1,16 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_prcr_dest_offset_set,FUNC_1
+mlxsw_reg_prcr_dest_tcam_region_info_memcpy_to,FUNC_2
+mlxsw_reg_prcr_offset_set,FUNC_3
+mlxsw_reg_prcr_op_set,FUNC_4
+mlxsw_reg_prcr_size_set,FUNC_5
+mlxsw_reg_prcr_tcam_region_info_memcpy_to,FUNC_6
+prcr,VAR_0
+mlxsw_reg_prcr_pack,FUNC_7
+payload,VAR_1
+op,VAR_2
+src_tcam_region_info,VAR_3
+src_offset,VAR_4
+dest_tcam_region_info,VAR_5
+dest_offset,VAR_6
+size,VAR_7

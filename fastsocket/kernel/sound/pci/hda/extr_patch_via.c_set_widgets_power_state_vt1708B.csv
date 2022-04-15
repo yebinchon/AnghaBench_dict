@@ -1,0 +1,15 @@
+AC_PWRST_D0,VAR_0
+AC_PWRST_D3,VAR_1
+AC_VERB_GET_CONNECT_SEL,VAR_2
+VT1708B_4CH,VAR_3
+VT1708S,VAR_4
+set_pin_power_state,FUNC_0
+smart51_enabled,FUNC_1
+snd_hda_codec_read,FUNC_2
+update_power_state,FUNC_3
+set_widgets_power_state_vt1708B,FUNC_4
+codec,VAR_5
+spec,VAR_6
+imux_is_smixer,VAR_7
+parm,VAR_8
+is_8ch,VAR_9

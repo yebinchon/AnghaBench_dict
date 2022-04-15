@@ -1,0 +1,10 @@
+CRT_CTRL1,VAR_0
+CRT_CTRL_VERTICAL_INTR_EN,VAR_1
+CRT_CTRL_VERTICAL_INTR_STS,VAR_2
+drm_pipe_to_aspeed_gfx,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+aspeed_gfx_enable_vblank,FUNC_3
+pipe,VAR_3
+priv,VAR_4
+reg,VAR_5

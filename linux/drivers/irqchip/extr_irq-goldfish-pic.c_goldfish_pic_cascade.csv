@@ -1,0 +1,16 @@
+GFPIC_REG_IRQ_PENDING,VAR_0
+__fls,FUNC_0
+chained_irq_enter,FUNC_1
+chained_irq_exit,FUNC_2
+generic_handle_irq,FUNC_3
+irq_desc_get_chip,FUNC_4
+irq_desc_get_handler_data,FUNC_5
+irq_linear_revmap,FUNC_6
+readl,FUNC_7
+goldfish_pic_cascade,FUNC_8
+desc,VAR_1
+gfpic,VAR_2
+host_chip,VAR_3
+pending,VAR_4
+hwirq,VAR_5
+virq,VAR_6

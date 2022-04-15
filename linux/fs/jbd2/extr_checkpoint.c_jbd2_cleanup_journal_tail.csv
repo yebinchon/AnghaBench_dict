@@ -1,0 +1,12 @@
+EIO,VAR_0
+GFP_NOFS,VAR_1
+JBD2_BARRIER,VAR_2
+J_ASSERT,FUNC_0
+__jbd2_update_log_tail,FUNC_1
+blkdev_issue_flush,FUNC_2
+is_journal_aborted,FUNC_3
+jbd2_journal_get_log_tail,FUNC_4
+jbd2_cleanup_journal_tail,FUNC_5
+journal,VAR_3
+first_tid,VAR_4
+blocknr,VAR_5

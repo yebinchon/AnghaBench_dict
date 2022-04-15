@@ -1,0 +1,13 @@
+FOTG210_INEPMPSR,FUNC_0
+FOTG210_OUTEPMPSR,FUNC_1
+INOUTEPMPSR_MPS,FUNC_2
+ioread32,FUNC_3
+iowrite32,FUNC_4
+fotg210_set_mps,FUNC_5
+ep,VAR_0
+epnum,VAR_1
+mps,VAR_2
+dir_in,VAR_3
+fotg210,VAR_4
+val,VAR_5
+offset,VAR_6

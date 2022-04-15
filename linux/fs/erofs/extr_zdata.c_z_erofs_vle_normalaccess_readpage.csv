@@ -1,0 +1,17 @@
+DECOMPRESS_FRONTEND_INIT,FUNC_0
+LIST_HEAD,FUNC_1
+PAGE_SHIFT,VAR_0
+erofs_err,FUNC_2
+pagepool,VAR_1
+put_page,FUNC_3
+put_pages_list,FUNC_4
+trace_erofs_readpage,FUNC_5
+z_erofs_collector_end,FUNC_6
+z_erofs_do_read_page,FUNC_7
+z_erofs_submit_and_unzip,FUNC_8
+z_erofs_vle_normalaccess_readpage,FUNC_9
+file,VAR_2
+page,VAR_3
+inode,VAR_4
+f,VAR_5
+err,VAR_6

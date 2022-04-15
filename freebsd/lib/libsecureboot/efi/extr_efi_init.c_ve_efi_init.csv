@@ -1,0 +1,15 @@
+efi_get_forbidden_certs,FUNC_0
+efi_get_forbidden_digests,FUNC_1
+efi_get_trusted_certs,FUNC_2
+efi_secure_boot_enabled,FUNC_3
+free_certificates,FUNC_4
+ve_forbidden_anchors_add,FUNC_5
+ve_forbidden_digest_add,FUNC_6
+ve_trust_anchors_add,FUNC_7
+xfree,FUNC_8
+ve_efi_init,FUNC_9
+xcs,VAR_0
+digests,VAR_1
+num,VAR_2
+result,VAR_3
+once,VAR_4

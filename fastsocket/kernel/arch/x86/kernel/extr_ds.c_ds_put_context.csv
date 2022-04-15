@@ -1,0 +1,12 @@
+TIF_DS_AREA_MSR,VAR_0
+clear_tsk_thread_flag,FUNC_0
+current,VAR_1
+ds_lock,VAR_2
+kfree,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wait_task_context_switch,FUNC_4
+ds_put_context,FUNC_5
+context,VAR_3
+task,VAR_4
+irq,VAR_5

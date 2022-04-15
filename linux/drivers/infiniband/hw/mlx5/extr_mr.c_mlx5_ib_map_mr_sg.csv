@@ -1,0 +1,15 @@
+DMA_TO_DEVICE,VAR_0
+MLX5_MKC_ACCESS_MODE_KLMS,VAR_1
+ib_dma_sync_single_for_cpu,FUNC_0
+ib_dma_sync_single_for_device,FUNC_1
+ib_sg_to_pages,FUNC_2
+mlx5_ib_sg_to_klms,FUNC_3
+mlx5_set_page,VAR_2
+to_mmr,FUNC_4
+mlx5_ib_map_mr_sg,FUNC_5
+ibmr,VAR_3
+sg,VAR_4
+sg_nents,VAR_5
+sg_offset,VAR_6
+mr,VAR_7
+n,VAR_8

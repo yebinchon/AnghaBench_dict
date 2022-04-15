@@ -1,0 +1,17 @@
+VM_MAYREAD,VAR_0
+VM_MAYWRITE,VAR_1
+copy_from_user,FUNC_0
+copy_to_user,FUNC_1
+down_read,FUNC_2
+find_vma,FUNC_3
+get_task_mm,FUNC_4
+mmput,FUNC_5
+up_read,FUNC_6
+access_process_vm,FUNC_7
+tsk,VAR_2
+addr,VAR_3
+buf,VAR_4
+len,VAR_5
+write,VAR_6
+vma,VAR_7
+mm,VAR_8

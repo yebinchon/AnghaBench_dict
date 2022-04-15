@@ -1,0 +1,17 @@
+OID_802_11_ADD_KEY,VAR_0
+WORK_LINK_DOWN,VAR_1
+WORK_LINK_UP,VAR_2
+get_rndis_wlan_priv,FUNC_0
+le32_to_cpu,FUNC_1
+netdev_dbg,FUNC_2
+netdev_info,FUNC_3
+queue_work,FUNC_4
+rndis_wlan_media_specific_indication,FUNC_5
+set_bit,FUNC_6
+usbnet_pause_rx,FUNC_7
+rndis_wlan_indication,FUNC_8
+usbdev,VAR_3
+ind,VAR_4
+buflen,VAR_5
+priv,VAR_6
+msg,VAR_7

@@ -1,0 +1,17 @@
+TRACE_CTX,VAR_0
+event_context_switch,VAR_1
+filter_check_discard,FUNC_0
+ring_buffer_event_data,FUNC_1
+task_cpu,FUNC_2
+trace_buffer_lock_reserve,FUNC_3
+trace_buffer_unlock_commit,FUNC_4
+tracing_sched_switch_trace,FUNC_5
+tr,VAR_2
+prev,VAR_3
+next,VAR_4
+flags,VAR_5
+pc,VAR_6
+call,VAR_7
+buffer,VAR_8
+event,VAR_9
+entry,VAR_10

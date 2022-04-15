@@ -1,0 +1,11 @@
+ENA_FLAG_TRIGGER_RESET,VAR_0
+ENA_REGS_RESET_ADMIN_TO,VAR_1
+drv,VAR_2
+ena_com_get_admin_running_state,FUNC_0
+netif_err,FUNC_1
+set_bit,FUNC_2
+u64_stats_update_begin,FUNC_3
+u64_stats_update_end,FUNC_4
+unlikely,FUNC_5
+check_for_admin_com_state,FUNC_6
+adapter,VAR_3

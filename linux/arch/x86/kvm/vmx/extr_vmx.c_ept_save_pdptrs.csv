@@ -1,0 +1,11 @@
+GUEST_PDPTR0,VAR_0
+GUEST_PDPTR1,VAR_1
+GUEST_PDPTR2,VAR_2
+GUEST_PDPTR3,VAR_3
+VCPU_EXREG_PDPTR,VAR_4
+__set_bit,FUNC_0
+is_pae_paging,FUNC_1
+vmcs_read64,FUNC_2
+ept_save_pdptrs,FUNC_3
+vcpu,VAR_5
+mmu,VAR_6

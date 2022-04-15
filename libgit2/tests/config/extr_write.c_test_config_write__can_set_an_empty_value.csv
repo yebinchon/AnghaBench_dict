@@ -1,0 +1,13 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_buf_dispose,FUNC_4
+git_config_free,FUNC_5
+git_config_get_string_buf,FUNC_6
+git_config_set_string,FUNC_7
+git_repository_config,FUNC_8
+test_config_write__can_set_an_empty_value,FUNC_9
+repository,VAR_0
+config,VAR_1
+buf,VAR_2

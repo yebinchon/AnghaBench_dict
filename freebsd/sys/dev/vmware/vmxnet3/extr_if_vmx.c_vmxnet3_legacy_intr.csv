@@ -1,0 +1,13 @@
+FILTER_HANDLED,VAR_0
+FILTER_SCHEDULE_THREAD,VAR_1
+IFLIB_INTR_LEGACY,VAR_2
+VMXNET3_BAR1_INTR,VAR_3
+VMXNET3_IMM_ACTIVE,VAR_4
+iflib_admin_intr_deferred,FUNC_0
+vmxnet3_intr_disable_all,FUNC_1
+vmxnet3_read_bar1,FUNC_2
+vmxnet3_legacy_intr,FUNC_3
+xsc,VAR_5
+sc,VAR_6
+scctx,VAR_7
+ctx,VAR_8

@@ -1,0 +1,13 @@
+BJ_Forget,VAR_0
+JBUFFER_TRACE,FUNC_0
+__brelse,FUNC_1
+__jbd2_journal_file_buffer,FUNC_2
+__jbd2_journal_unfile_buffer,FUNC_3
+clear_buffer_dirty,FUNC_4
+jbd2_journal_remove_journal_head,FUNC_5
+jh2bh,FUNC_6
+__dispose_buffer,FUNC_7
+jh,VAR_1
+transaction,VAR_2
+may_free,VAR_3
+bh,VAR_4

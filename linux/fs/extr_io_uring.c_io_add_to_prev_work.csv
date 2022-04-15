@@ -1,0 +1,11 @@
+REQ_F_SEQ_PREV,VAR_0
+atomic_read,FUNC_0
+list_add_tail,FUNC_1
+list_del_init,FUNC_2
+smp_mb,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+io_add_to_prev_work,FUNC_6
+list,VAR_1
+req,VAR_2
+ret,VAR_3

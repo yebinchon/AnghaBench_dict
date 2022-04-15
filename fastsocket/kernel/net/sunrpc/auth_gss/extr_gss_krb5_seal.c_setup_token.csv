@@ -1,0 +1,12 @@
+GSS_KRB5_TOK_HDR_LEN,VAR_0
+KG_TOK_MIC_MSG,VAR_1
+SEAL_ALG_NONE,VAR_2
+cpu_to_le16,FUNC_0
+g_make_token_header,FUNC_1
+g_token_size,FUNC_2
+setup_token,FUNC_3
+ctx,VAR_3
+token,VAR_4
+ptr,VAR_5
+krb5_hdr,VAR_6
+body_size,VAR_7

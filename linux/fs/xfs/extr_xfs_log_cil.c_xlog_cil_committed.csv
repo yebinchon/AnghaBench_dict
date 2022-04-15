@@ -1,0 +1,16 @@
+XFS_MOUNT_DISCARD,VAR_0
+kmem_free,FUNC_0
+list_del,FUNC_1
+list_empty,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wake_up_all,FUNC_5
+xfs_extent_busy_clear,FUNC_6
+xfs_extent_busy_sort,FUNC_7
+xfs_trans_committed_bulk,FUNC_8
+xlog_cil_free_logvec,FUNC_9
+xlog_discard_busy_extents,FUNC_10
+xlog_cil_committed,FUNC_11
+ctx,VAR_1
+abort,VAR_2
+mp,VAR_3

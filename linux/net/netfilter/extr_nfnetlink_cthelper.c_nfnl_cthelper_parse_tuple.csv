@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+NFCTH_TUPLE_L3PROTONUM,VAR_1
+NFCTH_TUPLE_L4PROTONUM,VAR_2
+NFCTH_TUPLE_MAX,VAR_3
+memset,FUNC_0
+nfnl_cthelper_tuple_pol,VAR_4
+nla_get_be16,FUNC_1
+nla_get_u8,FUNC_2
+nla_parse_nested_deprecated,FUNC_3
+ntohs,FUNC_4
+nfnl_cthelper_parse_tuple,FUNC_5
+tuple,VAR_5
+attr,VAR_6
+err,VAR_7
+tb,VAR_8

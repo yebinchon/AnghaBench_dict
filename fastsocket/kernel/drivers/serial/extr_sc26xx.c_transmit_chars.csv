@@ -1,0 +1,16 @@
+IMR_TXRDY,VAR_0
+READ_SC_PORT,FUNC_0
+SR,VAR_1
+SR_TXRDY,VAR_2
+THR,VAR_3
+UART_XMIT_SIZE,VAR_4
+WAKEUP_CHARS,VAR_5
+WRITE_SC_PORT,FUNC_1
+sc26xx_disable_irq,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_tx_stopped,FUNC_5
+uart_write_wakeup,FUNC_6
+transmit_chars,FUNC_7
+port,VAR_6
+xmit,VAR_7

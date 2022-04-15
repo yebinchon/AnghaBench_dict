@@ -1,0 +1,13 @@
+DP_CEC_RX_MESSAGE_BUFFER,VAR_0
+DP_CEC_RX_MESSAGE_ENDED,VAR_1
+DP_CEC_RX_MESSAGE_INFO,VAR_2
+DP_CEC_RX_MESSAGE_LEN_MASK,VAR_3
+cec_received_msg,FUNC_0
+drm_dp_dpcd_read,FUNC_1
+drm_dp_dpcd_readb,FUNC_2
+drm_dp_cec_received,FUNC_3
+aux,VAR_4
+adap,VAR_5
+msg,VAR_6
+rx_msg_info,VAR_7
+err,VAR_8

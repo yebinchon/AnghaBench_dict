@@ -1,0 +1,15 @@
+MDNS_IF_MAX,VAR_0
+_MDNS_SIZEOF_IP6_ADDR,VAR_1
+_ipv6_address_is_zero,FUNC_0
+_mdns_dup_interface,FUNC_1
+_mdns_get_esp_netif,FUNC_2
+_mdns_get_other_if,FUNC_3
+esp_netif_get_ip6_linklocal,FUNC_4
+memcmp,FUNC_5
+_mdns_check_aaaa_collision,FUNC_6
+ip,VAR_2
+tcpip_if,VAR_3
+if_ip6,VAR_4
+other_ip6,VAR_5
+ret,VAR_6
+other_if,VAR_7

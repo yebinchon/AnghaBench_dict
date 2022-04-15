@@ -1,0 +1,12 @@
+SDMA_OPCODE_POLL_REG_MEM,VAR_0
+SDMA_PACKET,FUNC_0
+SDMA_POLL_REG_MEM_EXTRA_FUNC,FUNC_1
+SDMA_POLL_REG_MEM_EXTRA_OP,FUNC_2
+amdgpu_gmc_emit_flush_gpu_tlb,FUNC_3
+amdgpu_ring_write,FUNC_4
+mmVM_INVALIDATE_REQUEST,VAR_1
+cik_sdma_ring_emit_vm_flush,FUNC_5
+ring,VAR_2
+vmid,VAR_3
+pd_addr,VAR_4
+extra_bits,VAR_5

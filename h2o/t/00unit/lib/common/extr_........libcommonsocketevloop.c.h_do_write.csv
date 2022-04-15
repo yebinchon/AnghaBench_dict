@@ -1,0 +1,16 @@
+H2O_SOCKET_FLAG_IS_WRITE_NOTIFY,VAR_0
+H2O_STRLIT,FUNC_0
+assert,FUNC_1
+h2o_iovec_init,FUNC_2
+h2o_mem_alloc,FUNC_3
+link_to_pending,FUNC_4
+link_to_statechanged,FUNC_5
+write_core,FUNC_6
+do_write,FUNC_7
+_sock,VAR_1
+bufs,VAR_2
+bufcnt,VAR_3
+cb,VAR_4
+sock,VAR_5
+first_buf_written,VAR_6
+i,VAR_7

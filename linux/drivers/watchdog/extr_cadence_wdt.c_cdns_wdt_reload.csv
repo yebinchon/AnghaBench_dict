@@ -1,0 +1,9 @@
+CDNS_WDT_RESTART_KEY,VAR_0
+CDNS_WDT_RESTART_OFFSET,VAR_1
+cdns_wdt_writereg,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+watchdog_get_drvdata,FUNC_3
+cdns_wdt_reload,FUNC_4
+wdd,VAR_2
+wdt,VAR_3

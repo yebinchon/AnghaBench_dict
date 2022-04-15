@@ -1,0 +1,16 @@
+ALL_CRLF_TEXT_AS_CRLF,VAR_0
+ALL_CRLF_TEXT_RAW,VAR_1
+ALL_LF_TEXT_AS_CRLF,VAR_2
+ALL_LF_TEXT_RAW,VAR_3
+GIT_CHECKOUT_FORCE,VAR_4
+GIT_CHECKOUT_OPTIONS_INIT,VAR_5
+GIT_EOL_CRLF,VAR_6
+GIT_EOL_NATIVE,VAR_7
+check_file_contents,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_repo_set_bool,FUNC_3
+g_repo,VAR_8
+git_checkout_head,FUNC_4
+test_checkout_crlf__autocrlf_false_text_auto_attr,FUNC_5
+opts,VAR_9

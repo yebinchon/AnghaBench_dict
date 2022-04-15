@@ -1,0 +1,17 @@
+RRD_PAGE_DIRTY,VAR_0
+RRD_PAGE_POPULATED,VAR_1
+pg_cache_evict_unsafe,FUNC_0
+pg_cache_put_unsafe,FUNC_1
+pg_cache_replaceQ_delete_unsafe,FUNC_2
+pg_cache_try_get_unsafe,FUNC_3
+rrdeng_page_descr_mutex_lock,FUNC_4
+rrdeng_page_descr_mutex_unlock,FUNC_5
+rrdeng_try_deallocate_pg_cache_descr,FUNC_6
+uv_rwlock_wrlock,FUNC_7
+uv_rwlock_wrunlock,FUNC_8
+pg_cache_try_evict_one_page_unsafe,FUNC_9
+ctx,VAR_2
+pg_cache,VAR_3
+old_flags,VAR_4
+descr,VAR_5
+pg_cache_descr,VAR_6

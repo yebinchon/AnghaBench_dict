@@ -1,0 +1,9 @@
+F_SETFL,VAR_0
+SIGIO,VAR_1
+fcntl,FUNC_0
+old_fcntl_flags,VAR_2
+old_sigio,VAR_3
+signal,FUNC_1
+target_activity_fd,VAR_4
+target_activity_function,VAR_5
+clear_sigio_trap,FUNC_2

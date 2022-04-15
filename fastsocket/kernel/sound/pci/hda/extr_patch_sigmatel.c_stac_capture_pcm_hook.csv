@@ -1,0 +1,13 @@
+AC_PWRST_D0,VAR_0
+AC_PWRST_D3,VAR_1
+AC_VERB_SET_POWER_STATE,VAR_2
+msleep,FUNC_0
+snd_hda_codec_write,FUNC_1
+stac_capture_pcm_hook,FUNC_2
+hinfo,VAR_3
+codec,VAR_4
+substream,VAR_5
+action,VAR_6
+spec,VAR_7
+i,VAR_8
+idx,VAR_9

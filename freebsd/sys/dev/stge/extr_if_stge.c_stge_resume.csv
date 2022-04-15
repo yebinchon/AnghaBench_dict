@@ -1,0 +1,17 @@
+CSR_READ_1,FUNC_0
+CSR_WRITE_1,FUNC_1
+IFF_UP,VAR_0
+STGE_LOCK,FUNC_2
+STGE_UNLOCK,FUNC_3
+STGE_WakeEvent,VAR_1
+WE_LinkEventEnable,VAR_2
+WE_MagicPktEnable,VAR_3
+WE_WakeOnLanEnable,VAR_4
+WE_WakePktEnable,VAR_5
+device_get_softc,FUNC_4
+stge_init_locked,FUNC_5
+stge_resume,FUNC_6
+dev,VAR_6
+sc,VAR_7
+ifp,VAR_8
+v,VAR_9

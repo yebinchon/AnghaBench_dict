@@ -1,0 +1,10 @@
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+create_commit_from_ids,FUNC_2
+git_oid_fromstr,FUNC_3
+parent_id_str,VAR_0
+tree_id_str,VAR_1
+test_commit_write__can_validate_objects,FUNC_4
+tree_id,VAR_2
+parent_id,VAR_3
+commit_id,VAR_4

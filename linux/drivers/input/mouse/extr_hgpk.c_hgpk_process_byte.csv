@@ -1,0 +1,16 @@
+HGPK_MODE_MOUSE,VAR_0
+PSMOUSE_BAD_DATA,VAR_1
+PSMOUSE_FULL_PACKET,VAR_2
+PSMOUSE_GOOD_DATA,VAR_3
+hgpk_is_byte_valid,FUNC_0
+hgpk_process_advanced_packet,FUNC_1
+hgpk_process_simple_packet,FUNC_2
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_3
+post_interrupt_delay,VAR_5
+psmouse_dbg,FUNC_4
+psmouse_queue_work,FUNC_5
+time_before,FUNC_6
+hgpk_process_byte,FUNC_7
+psmouse,VAR_6
+priv,VAR_7

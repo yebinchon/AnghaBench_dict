@@ -1,0 +1,16 @@
+GUEST_PML_INDEX,VAR_0
+PAGE_SHIFT,VAR_1
+PAGE_SIZE,VAR_2
+PML_ENTITY_NUM,VAR_3
+WARN_ON,FUNC_0
+kvm_vcpu_mark_page_dirty,FUNC_1
+page_address,FUNC_2
+to_vmx,FUNC_3
+vmcs_read16,FUNC_4
+vmcs_write16,FUNC_5
+vmx_flush_pml_buffer,FUNC_6
+vcpu,VAR_4
+vmx,VAR_5
+pml_buf,VAR_6
+pml_idx,VAR_7
+gpa,VAR_8

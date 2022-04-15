@@ -1,0 +1,10 @@
+ACPI_FAILURE,FUNC_0
+METHOD_BRIGHTNESS_GET,VAR_0
+acpi_evaluate_integer,FUNC_1
+bl_get_data,FUNC_2
+pr_warn,FUNC_3
+asus_read_brightness,FUNC_4
+bd,VAR_1
+asus,VAR_2
+value,VAR_3
+rv,VAR_4

@@ -1,0 +1,15 @@
+DRM_DEV_ERROR,FUNC_0
+REG_MDP5_PP_TEAR_CHECK_EN,FUNC_1
+VSYNC_CLK_RATE,VAR_0
+clk_prepare_enable,FUNC_2
+clk_round_rate,FUNC_3
+clk_set_rate,FUNC_4
+get_kms,FUNC_5
+mdp5_crtc_get_mixer,FUNC_6
+mdp5_write,FUNC_7
+pingpong_tearcheck_enable,FUNC_8
+encoder,VAR_1
+mdp5_kms,VAR_2
+mixer,VAR_3
+pp_id,VAR_4
+ret,VAR_5

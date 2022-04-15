@@ -1,0 +1,14 @@
+IStorage_CreateStream,FUNC_0
+IStream_Release,FUNC_1
+IStream_Write,FUNC_2
+STGM_CREATE,VAR_0
+STGM_SHARE_EXCLUSIVE,VAR_1
+STGM_WRITE,VAR_2
+S_OK,VAR_3
+OLECONVERT_CreateOle10NativeStream,FUNC_3
+pStorage,VAR_4
+pData,VAR_5
+dwDataLength,VAR_6
+hRes,VAR_7
+pStream,VAR_8
+wstrStreamName,VAR_9

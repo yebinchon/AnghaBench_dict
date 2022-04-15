@@ -1,0 +1,17 @@
+CQHCI_CFG,VAR_0
+CQHCI_QUIRK_SHORT_TXFR_DESC_SZ,VAR_1
+CQHCI_TASK_DESC_SZ,VAR_2
+CQHCI_TASK_DESC_SZ_128,VAR_3
+ENOMEM,VAR_4
+GFP_KERNEL,VAR_5
+cqhci_readl,FUNC_0
+cqhci_writel,FUNC_1
+dmam_alloc_coherent,FUNC_2
+dmam_free_coherent,FUNC_3
+mmc_dev,FUNC_4
+mmc_hostname,FUNC_5
+pr_debug,FUNC_6
+setup_trans_desc,FUNC_7
+cqhci_host_alloc_tdl,FUNC_8
+cq_host,VAR_6
+i,VAR_7

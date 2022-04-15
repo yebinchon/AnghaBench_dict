@@ -1,0 +1,15 @@
+ARRAY_SIZE,FUNC_0
+check_mailmap_resolve,FUNC_1
+cl_assert_equal_sz,FUNC_2
+cl_fixture,FUNC_3
+cl_git_pass,FUNC_4
+cl_git_sandbox_init,FUNC_5
+g_config,VAR_0
+g_mailmap,VAR_1
+g_repo,VAR_2
+git_config_set_string,FUNC_6
+git_mailmap_from_repository,FUNC_7
+git_repository_config,FUNC_8
+git_vector_length,FUNC_9
+resolved_with_file_override,VAR_3
+test_mailmap_parsing__file_config,FUNC_10

@@ -1,0 +1,15 @@
+AUTOMERGEABLE_MERGED_FILE,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_assert_equal_strn,FUNC_2
+cl_git_pass,FUNC_3
+git_merge_file_from_index,FUNC_4
+git_merge_file_result_free,FUNC_5
+git_oid_fromstr,FUNC_6
+repo,VAR_1
+strlen,FUNC_7
+test_merge_files__automerge_from_index,FUNC_8
+result,VAR_2
+ancestor,VAR_3
+ours,VAR_4
+theirs,VAR_5

@@ -1,0 +1,17 @@
+AVIERR_FILEREAD,VAR_0
+AVIERR_MEMORY,VAR_1
+AVIERR_OK,VAR_2
+GetProcessHeap,FUNC_0
+HEAP_ZERO_MEMORY,VAR_3
+HeapAlloc,FUNC_1
+HeapReAlloc,FUNC_2
+SEEK_SET,VAR_4
+assert,FUNC_3
+mmioRead,FUNC_4
+mmioSeek,FUNC_5
+ReadChunkIntoExtra,FUNC_6
+extra,VAR_5
+hmmio,VAR_6
+lpck,VAR_7
+lp,VAR_8
+cb,VAR_9

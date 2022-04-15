@@ -1,0 +1,12 @@
+MLX5_DROP_NEW_HEALTH_WORK,VAR_0
+MLX5_DROP_NEW_RECOVERY_WORK,VAR_1
+MLX5_DROP_NEW_WATCHDOG_WORK,VAR_2
+del_timer_sync,FUNC_0
+set_bit,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+mlx5_stop_health_poll,FUNC_4
+dev,VAR_3
+disable_health,VAR_4
+health,VAR_5
+flags,VAR_6

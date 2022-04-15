@@ -1,0 +1,15 @@
+AXP288_ADC_TS_CURRENT_ON,VAR_0
+AXP288_ADC_TS_CURRENT_ON_OFF_MASK,VAR_1
+AXP288_ADC_TS_CURRENT_ON_ONDEMAND,VAR_2
+AXP288_ADC_TS_PIN_CTRL,VAR_3
+AXP288_GP_ADC_H,VAR_4
+regmap_bulk_read,FUNC_0
+regmap_read,FUNC_1
+regmap_update_bits,FUNC_2
+usleep_range,FUNC_3
+intel_xpower_pmic_get_raw_temp,FUNC_4
+regmap,VAR_5
+reg,VAR_6
+ret,VAR_7
+adc_ts_pin_ctrl,VAR_8
+buf,VAR_9

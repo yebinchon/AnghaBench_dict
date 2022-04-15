@@ -1,0 +1,13 @@
+TRACKING_NAME_DATA_INIT,VAR_0
+check_tracking_name,VAR_1
+for_each_remote,FUNC_0
+free,FUNC_1
+git_config_get_string_const,FUNC_2
+oidcpy,FUNC_3
+xstrfmt,FUNC_4
+unique_tracking_name,FUNC_5
+name,VAR_2
+oid,VAR_3
+dwim_remotes_matched,VAR_4
+cb_data,VAR_5
+default_remote,VAR_6

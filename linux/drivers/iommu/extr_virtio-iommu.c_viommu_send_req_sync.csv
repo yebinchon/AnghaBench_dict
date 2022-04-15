@@ -1,0 +1,12 @@
+__viommu_add_req,FUNC_0
+__viommu_sync_req,FUNC_1
+dev_dbg,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+viommu_get_req_errno,FUNC_5
+viommu_send_req_sync,FUNC_6
+viommu,VAR_0
+buf,VAR_1
+len,VAR_2
+ret,VAR_3
+flags,VAR_4

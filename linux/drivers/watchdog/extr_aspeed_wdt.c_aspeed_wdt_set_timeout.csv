@@ -1,0 +1,12 @@
+WDT_RATE_1MHZ,VAR_0
+WDT_RELOAD_VALUE,VAR_1
+WDT_RESTART,VAR_2
+WDT_RESTART_MAGIC,VAR_3
+min,FUNC_0
+to_aspeed_wdt,FUNC_1
+writel,FUNC_2
+aspeed_wdt_set_timeout,FUNC_3
+wdd,VAR_4
+timeout,VAR_5
+wdt,VAR_6
+actual,VAR_7

@@ -1,0 +1,16 @@
+ALARM_INT_ALL,VAR_0
+RB_POWEROFF,VAR_1
+RD4,FUNC_0
+SHUT_INT_ALL,VAR_2
+THS_INTS,VAR_3
+WR4,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+shutdown_nice,FUNC_4
+taskqueue_enqueue,FUNC_5
+taskqueue_thread,VAR_4
+aw_thermal_intr,FUNC_6
+arg,VAR_5
+sc,VAR_6
+dev,VAR_7
+ints,VAR_8

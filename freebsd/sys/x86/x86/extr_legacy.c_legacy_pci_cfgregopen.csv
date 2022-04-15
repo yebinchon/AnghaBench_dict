@@ -1,0 +1,14 @@
+CFGMECH_NONE,VAR_0
+CFGMECH_PCIE,VAR_1
+PCIR_DEVICE,VAR_2
+PCIR_VENDOR,VAR_3
+bootverbose,VAR_4
+cfgmech,VAR_5
+device_printf,FUNC_0
+pci_cfgregread,FUNC_1
+pcie_cfgregopen,FUNC_2
+legacy_pci_cfgregopen,FUNC_3
+dev,VAR_6
+pciebar,VAR_7
+did,VAR_8
+vid,VAR_9

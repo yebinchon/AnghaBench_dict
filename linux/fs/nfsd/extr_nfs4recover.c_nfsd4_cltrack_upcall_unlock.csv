@@ -1,0 +1,7 @@
+NFSD4_CLIENT_UPCALL_LOCK,VAR_0
+clear_bit,FUNC_0
+smp_mb__after_atomic,FUNC_1
+smp_mb__before_atomic,FUNC_2
+wake_up_bit,FUNC_3
+nfsd4_cltrack_upcall_unlock,FUNC_4
+clp,VAR_1

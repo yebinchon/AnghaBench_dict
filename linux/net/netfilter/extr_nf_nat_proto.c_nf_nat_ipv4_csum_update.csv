@@ -1,0 +1,11 @@
+NF_NAT_MANIP_SRC,VAR_0
+inet_proto_csum_replace4,FUNC_0
+nf_nat_ipv4_csum_update,FUNC_1
+skb,VAR_1
+iphdroff,VAR_2
+check,VAR_3
+t,VAR_4
+maniptype,VAR_5
+iph,VAR_6
+oldip,VAR_7
+newip,VAR_8

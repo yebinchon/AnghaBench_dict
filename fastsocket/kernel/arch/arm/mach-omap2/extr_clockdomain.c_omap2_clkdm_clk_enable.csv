@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+OMAP24XX_CLKSTCTRL_ENABLE_AUTO,VAR_1
+OMAP34XX_CLKSTCTRL_ENABLE_AUTO,VAR_2
+_clkdm_add_autodeps,FUNC_0
+_omap2_clkdm_set_hwsup,FUNC_1
+atomic_inc_return,FUNC_2
+cpu_is_omap24xx,FUNC_3
+cpu_is_omap34xx,FUNC_4
+omap2_clkdm_clktrctrl_read,FUNC_5
+omap2_clkdm_wakeup,FUNC_6
+pr_debug,FUNC_7
+pwrdm_clkdm_state_switch,FUNC_8
+pwrdm_wait_transition,FUNC_9
+omap2_clkdm_clk_enable,FUNC_10
+clkdm,VAR_3
+clk,VAR_4
+v,VAR_5

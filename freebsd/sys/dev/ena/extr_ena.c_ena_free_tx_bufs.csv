@@ -1,0 +1,16 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+ENA_DBG,VAR_1
+ENA_RING_MTX_LOCK,FUNC_0
+ENA_RING_MTX_UNLOCK,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+device_printf,FUNC_4
+ena_trace,FUNC_5
+m_free,FUNC_6
+ena_free_tx_bufs,FUNC_7
+adapter,VAR_2
+qid,VAR_3
+print_once,VAR_4
+tx_ring,VAR_5
+i,VAR_6
+tx_info,VAR_7

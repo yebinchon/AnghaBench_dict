@@ -1,0 +1,14 @@
+GFP_ATOMIC,VAR_0
+SCTP_CMD_TIMER_STOP,VAR_1
+SCTP_EVENT_TIMEOUT_T4_RTO,VAR_2
+SCTP_TO,FUNC_0
+sctp_add_cmd_sf,FUNC_1
+sctp_ulpevent_make_remote_error,FUNC_2
+sctp_ulpq_tail_event,FUNC_3
+sctp_cmd_process_operr,FUNC_4
+cmds,VAR_3
+asoc,VAR_4
+chunk,VAR_5
+err_hdr,VAR_6
+ev,VAR_7
+unk_chunk_hdr,VAR_8

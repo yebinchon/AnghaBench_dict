@@ -1,0 +1,17 @@
+FYI,VAR_0
+SMB_COM_NT_CANCEL,VAR_1
+be32_to_cpu,FUNC_0
+cifs_dbg,FUNC_1
+cifs_sign_smb,FUNC_2
+cpu_to_be32,FUNC_3
+get_mid,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+put_bcc,FUNC_7
+smb_send,FUNC_8
+send_nt_cancel,FUNC_9
+server,VAR_2
+rqst,VAR_3
+mid,VAR_4
+rc,VAR_5
+in_buf,VAR_6

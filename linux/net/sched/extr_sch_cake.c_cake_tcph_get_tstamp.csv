@@ -1,0 +1,10 @@
+TCPOLEN_TIMESTAMP,VAR_0
+TCPOPT_TIMESTAMP,VAR_1
+cake_get_tcpopt,FUNC_0
+get_unaligned_be32,FUNC_1
+cake_tcph_get_tstamp,FUNC_2
+tcph,VAR_2
+tsval,VAR_3
+tsecr,VAR_4
+ptr,VAR_5
+opsize,VAR_6

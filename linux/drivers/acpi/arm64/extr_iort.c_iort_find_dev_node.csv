@@ -1,0 +1,12 @@
+ACPI_IORT_NODE_NAMED_COMPONENT,VAR_0
+ACPI_IORT_NODE_PCI_ROOT_COMPLEX,VAR_1
+dev_is_pci,FUNC_0
+iort_get_iort_node,FUNC_1
+iort_match_node_callback,VAR_2
+iort_scan_node,FUNC_2
+pci_is_root_bus,FUNC_3
+to_pci_dev,FUNC_4
+iort_find_dev_node,FUNC_5
+dev,VAR_3
+pbus,VAR_4
+node,VAR_5

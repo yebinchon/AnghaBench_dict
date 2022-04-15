@@ -1,0 +1,16 @@
+ABX8XX_IRQ_AIE,VAR_0
+ABX8XX_REG_ASC,VAR_1
+ABX8XX_REG_IRQ,VAR_2
+ABX8XX_STATUS_AF,VAR_3
+EINVAL,VAR_4
+bcd2bin,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_read_i2c_block_data,FUNC_2
+to_i2c_client,FUNC_3
+abx80x_read_alarm,FUNC_4
+dev,VAR_5
+t,VAR_6
+client,VAR_7
+buf,VAR_8
+irq_mask,VAR_9
+err,VAR_10

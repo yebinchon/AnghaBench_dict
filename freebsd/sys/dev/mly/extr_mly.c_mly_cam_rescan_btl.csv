@@ -1,0 +1,14 @@
+CAM_REQ_CMP,VAR_0
+cam_sim_path,FUNC_0
+debug,FUNC_1
+debug_called,FUNC_2
+mly_printf,FUNC_3
+xpt_alloc_ccb,FUNC_4
+xpt_create_path,FUNC_5
+xpt_free_ccb,FUNC_6
+xpt_rescan,FUNC_7
+mly_cam_rescan_btl,FUNC_8
+sc,VAR_1
+bus,VAR_2
+target,VAR_3
+ccb,VAR_4

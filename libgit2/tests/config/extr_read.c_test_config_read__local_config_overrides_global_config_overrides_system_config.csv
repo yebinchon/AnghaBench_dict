@@ -1,0 +1,13 @@
+GIT_CONFIG_LEVEL_GLOBAL,VAR_0
+GIT_CONFIG_LEVEL_LOCAL,VAR_1
+GIT_CONFIG_LEVEL_SYSTEM,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+git_config_add_file_ondisk,FUNC_3
+git_config_free,FUNC_4
+git_config_get_int32,FUNC_5
+git_config_new,FUNC_6
+test_config_read__local_config_overrides_global_config_overrides_system_config,FUNC_7
+cfg,VAR_3
+i,VAR_4

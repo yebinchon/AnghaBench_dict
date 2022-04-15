@@ -1,0 +1,13 @@
+READ_GITFILE_ERR_OPEN_FAILED,VAR_0
+READ_GITFILE_ERR_READ_FAILED,VAR_1
+assert,FUNC_0
+is_git_directory,FUNC_1
+read_gitfile_gently,FUNC_2
+strbuf_addstr,FUNC_3
+strbuf_complete,FUNC_4
+strbuf_setlen,FUNC_5
+is_nonbare_repository_dir,FUNC_6
+path,VAR_2
+ret,VAR_3
+gitfile_error,VAR_4
+orig_path_len,VAR_5

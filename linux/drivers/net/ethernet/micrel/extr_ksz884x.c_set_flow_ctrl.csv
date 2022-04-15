@@ -1,0 +1,11 @@
+DMA_RX_FLOW_ENABLE,VAR_0
+DMA_TX_FLOW_ENABLE,VAR_1
+KS_DMA_RX_CTRL,VAR_2
+KS_DMA_TX_CTRL,VAR_3
+writel,FUNC_0
+set_flow_ctrl,FUNC_1
+hw,VAR_4
+rx,VAR_5
+tx,VAR_6
+rx_cfg,VAR_7
+tx_cfg,VAR_8

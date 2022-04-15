@@ -1,0 +1,14 @@
+X509_NAME_oneline,FUNC_0
+X509_STORE_CTX_get0_cert,FUNC_1
+X509_STORE_CTX_get_error_depth,FUNC_2
+X509_get_subject_name,FUNC_3
+X509_verify_cert,FUNC_4
+printf,FUNC_5
+app_verify_callback,FUNC_6
+ctx,VAR_0
+arg,VAR_1
+ok,VAR_2
+cb_arg,VAR_3
+s,VAR_4
+buf,VAR_5
+c,VAR_6

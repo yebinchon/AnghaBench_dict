@@ -1,0 +1,10 @@
+CR_CHAN,FUNC_0
+PCIMDDA_DA_CHAN,FUNC_1
+comedi_readback_insn_read,FUNC_2
+inw,FUNC_3
+cb_pcimdda_ao_insn_read,FUNC_4
+dev,VAR_0
+s,VAR_1
+insn,VAR_2
+data,VAR_3
+chan,VAR_4

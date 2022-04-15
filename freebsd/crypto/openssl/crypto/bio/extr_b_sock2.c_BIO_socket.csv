@@ -1,0 +1,15 @@
+BIO_F_BIO_SOCKET,VAR_0
+BIO_R_UNABLE_TO_CREATE_SOCKET,VAR_1
+BIO_sock_init,FUNC_0
+BIOerr,FUNC_1
+INVALID_SOCKET,VAR_2
+SYS_F_SOCKET,VAR_3
+SYSerr,FUNC_2
+get_last_socket_error,FUNC_3
+socket,FUNC_4
+BIO_socket,FUNC_5
+domain,VAR_4
+socktype,VAR_5
+protocol,VAR_6
+options,VAR_7
+sock,VAR_8

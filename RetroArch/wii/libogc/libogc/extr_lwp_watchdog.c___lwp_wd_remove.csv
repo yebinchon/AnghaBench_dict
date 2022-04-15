@@ -1,0 +1,17 @@
+_CPU_ISR_Disable,FUNC_0
+_CPU_ISR_Restore,FUNC_1
+__lwp_isr_in_progress,FUNC_2
+__lwp_queue_extractI,FUNC_3
+__lwp_queue_isempty,FUNC_4
+__lwp_wd_first,FUNC_5
+__lwp_wd_next,FUNC_6
+__lwp_wd_settimer,FUNC_7
+_wd_sync_count,VAR_0
+_wd_sync_level,VAR_1
+printf,FUNC_8
+__lwp_wd_remove,FUNC_9
+header,VAR_2
+wd,VAR_3
+level,VAR_4
+prev_state,VAR_5
+next,VAR_6

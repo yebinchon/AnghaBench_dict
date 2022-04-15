@@ -1,0 +1,13 @@
+IPPROTO_TCP,VAR_0
+IS_AF_UNIX,FUNC_0
+LOG,VAR_1
+STATUS_ERROR,VAR_2
+STATUS_OK,VAR_3
+TCP_KEEPINTVL,VAR_4
+elog,FUNC_1
+pq_getkeepalivesinterval,FUNC_2
+pq_setkeepaliveswin32,FUNC_3
+setsockopt,FUNC_4
+pq_setkeepalivesinterval,FUNC_5
+interval,VAR_5
+port,VAR_6

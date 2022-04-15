@@ -1,0 +1,16 @@
+EM_NVM_MSIX_N_MASK,VAR_0
+EM_NVM_MSIX_N_SHIFT,VAR_1
+EM_NVM_PCIE_CTRL,VAR_2
+bootverbose,VAR_3
+device_printf,FUNC_0
+e1000_read_nvm,FUNC_1
+e1000_update_nvm_checksum,FUNC_2
+e1000_write_nvm,FUNC_3
+iflib_get_dev,FUNC_4
+iflib_get_softc,FUNC_5
+em_enable_vectors_82574,FUNC_6
+ctx,VAR_4
+adapter,VAR_5
+hw,VAR_6
+dev,VAR_7
+edata,VAR_8

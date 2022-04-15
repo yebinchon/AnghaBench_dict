@@ -1,0 +1,8 @@
+cl_assert_equal_i,FUNC_0
+cl_git_remove_placeholders,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_repository_is_empty,FUNC_4
+git_repository_path,FUNC_5
+test_repo_getters__is_empty_correctly_deals_with_pristine_looking_repos,FUNC_6
+repo,VAR_0

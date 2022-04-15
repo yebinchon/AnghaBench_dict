@@ -1,0 +1,16 @@
+WARN_ON_ONCE,FUNC_0
+__hrtimer_hres_active,FUNC_1
+hrtimer_bases,VAR_0
+hrtimer_get_expires,FUNC_2
+hrtimer_get_expires_tv64,FUNC_3
+ktime_before,FUNC_4
+ktime_sub,FUNC_5
+this_cpu_ptr,FUNC_6
+tick_program_event,FUNC_7
+hrtimer_reprogram,FUNC_8
+timer,VAR_1
+reprogram,VAR_2
+cpu_base,VAR_3
+base,VAR_4
+expires,VAR_5
+timer_cpu_base,VAR_6

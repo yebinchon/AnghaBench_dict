@@ -1,0 +1,14 @@
+NET_RX_SUCCESS,VAR_0
+__netif_receive_skb,FUNC_0
+enqueue_to_backlog,FUNC_1
+get_rps_cpu,FUNC_2
+net_timestamp_check,FUNC_3
+netdev_tstamp_prequeue,VAR_1
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+rps_needed,VAR_2
+skb_defer_rx_timestamp,FUNC_6
+static_branch_unlikely,FUNC_7
+netif_receive_skb_internal,FUNC_8
+skb,VAR_3
+ret,VAR_4

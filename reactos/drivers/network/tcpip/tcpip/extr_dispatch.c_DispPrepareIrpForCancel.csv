@@ -1,0 +1,15 @@
+DEBUG_IRP,VAR_0
+IoAcquireCancelSpinLock,FUNC_0
+IoGetCurrentIrpStackLocation,FUNC_1
+IoReleaseCancelSpinLock,FUNC_2
+IoSetCancelRoutine,FUNC_3
+STATUS_CANCELLED,VAR_1
+STATUS_SUCCESS,VAR_2
+TI_DbgPrint,FUNC_4
+DispPrepareIrpForCancel,FUNC_5
+Context,VAR_3
+Irp,VAR_4
+CancelRoutine,VAR_5
+OldIrql,VAR_6
+IrpSp,VAR_7
+TransContext,VAR_8

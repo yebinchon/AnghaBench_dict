@@ -1,0 +1,16 @@
+EVP_MAC_CTX_set_params,FUNC_0
+EVP_MAX_MD_SIZE,VAR_0
+OPENSSL_zalloc,FUNC_1
+OSSL_MAC_PARAM_CUSTOM,VAR_1
+OSSL_MAC_PARAM_SIZE,VAR_2
+OSSL_PARAM_construct_end,FUNC_2
+OSSL_PARAM_construct_octet_string,FUNC_3
+OSSL_PARAM_construct_size_t,FUNC_4
+kmac_init,FUNC_5
+ctx,VAR_3
+custom,VAR_4
+custom_len,VAR_5
+kmac_out_len,VAR_6
+derived_key_len,VAR_7
+out,VAR_8
+params,VAR_9

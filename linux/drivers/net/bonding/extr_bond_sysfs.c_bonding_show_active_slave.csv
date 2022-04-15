@@ -1,0 +1,12 @@
+bond_option_active_slave_get_rcu,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+sprintf,FUNC_3
+to_bond,FUNC_4
+bonding_show_active_slave,FUNC_5
+d,VAR_0
+attr,VAR_1
+buf,VAR_2
+bond,VAR_3
+slave_dev,VAR_4
+count,VAR_5

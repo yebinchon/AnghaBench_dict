@@ -1,0 +1,13 @@
+VIDEO_ES,VAR_0
+assert,FUNC_0
+dec_get_owner,FUNC_1
+vlc_fifo_Lock,FUNC_2
+vlc_fifo_Signal,FUNC_3
+vlc_fifo_Unlock,FUNC_4
+vlc_mutex_lock,FUNC_5
+vlc_mutex_unlock,FUNC_6
+vout_NextPicture,FUNC_7
+input_DecoderFrameNext,FUNC_8
+p_dec,VAR_1
+pi_duration,VAR_2
+p_owner,VAR_3

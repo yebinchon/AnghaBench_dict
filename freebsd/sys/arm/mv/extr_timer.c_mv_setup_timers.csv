@@ -1,0 +1,16 @@
+CPU_TIMER0_25MHZ_EN,VAR_0
+CPU_TIMER0_AUTO,VAR_1
+CPU_TIMER0_EN,VAR_2
+CPU_TIMER1_25MHZ_EN,VAR_3
+CPU_TIMER1_AUTO,VAR_4
+CPU_TIMER1_EN,VAR_5
+INITIAL_TIMECOUNTER,VAR_6
+MV_SOC_ARMADA_XP,VAR_7
+mv_get_timer_control,FUNC_0
+mv_set_timer,FUNC_1
+mv_set_timer_control,FUNC_2
+mv_set_timer_rel,FUNC_3
+timer_softc,VAR_8
+timers_initialized,VAR_9
+mv_setup_timers,FUNC_4
+val,VAR_10

@@ -1,0 +1,16 @@
+ETH_P_8021Q,VAR_0
+NFP_NET_CFG_MBOX_CMD_CTAG_FILTER_KILL,VAR_1
+NFP_NET_CFG_VLAN_FILTER_PROTO,VAR_2
+NFP_NET_CFG_VLAN_FILTER_SZ,VAR_3
+NFP_NET_CFG_VLAN_FILTER_VID,VAR_4
+netdev_priv,FUNC_0
+nfp_net_mbox_lock,FUNC_1
+nfp_net_mbox_reconfig_and_unlock,FUNC_2
+nn_writew,FUNC_3
+nfp_net_vlan_rx_kill_vid,FUNC_4
+netdev,VAR_5
+proto,VAR_6
+vid,VAR_7
+cmd,VAR_8
+nn,VAR_9
+err,VAR_10

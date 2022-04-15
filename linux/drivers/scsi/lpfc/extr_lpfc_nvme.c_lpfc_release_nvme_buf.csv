@@ -1,0 +1,15 @@
+KERN_INFO,VAR_0
+LOG_NVME_ABTS,VAR_1
+LPFC_SBUF_BUMP_QDEPTH,VAR_2
+LPFC_SBUF_XBUSY,VAR_3
+atomic_dec,FUNC_0
+list_add_tail,FUNC_1
+lpfc_printf_log,FUNC_2
+lpfc_release_io_buf,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+lpfc_release_nvme_buf,FUNC_6
+phba,VAR_4
+lpfc_ncmd,VAR_5
+qp,VAR_6
+iflag,VAR_7

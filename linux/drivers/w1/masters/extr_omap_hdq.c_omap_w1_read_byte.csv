@@ -1,0 +1,15 @@
+EINTR,VAR_0
+OMAP_HDQ_CTRL_STATUS,VAR_1
+OMAP_HDQ_CTRL_STATUS_INTERRUPTMASK,VAR_2
+dev_dbg,FUNC_0
+hdq_disable_interrupt,FUNC_1
+hdq_read_byte,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+omap_hdq_get,FUNC_5
+omap_hdq_put,FUNC_6
+omap_w1_read_byte,FUNC_7
+_hdq,VAR_3
+hdq_data,VAR_4
+val,VAR_5
+ret,VAR_6

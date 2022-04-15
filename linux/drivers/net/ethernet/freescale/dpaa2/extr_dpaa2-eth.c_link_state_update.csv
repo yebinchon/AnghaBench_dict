@@ -1,0 +1,17 @@
+DPNI_LINK_OPT_ASYM_PAUSE,VAR_0
+DPNI_LINK_OPT_PAUSE,VAR_1
+dpaa2_eth_set_rx_taildrop,FUNC_0
+dpni_get_link_state,FUNC_1
+netdev_err,FUNC_2
+netdev_info,FUNC_3
+netif_carrier_off,FUNC_4
+netif_carrier_on,FUNC_5
+netif_tx_start_all_queues,FUNC_6
+netif_tx_stop_all_queues,FUNC_7
+unlikely,FUNC_8
+update_tx_fqids,FUNC_9
+link_state_update,FUNC_10
+priv,VAR_2
+state,VAR_3
+tx_pause,VAR_4
+err,VAR_5

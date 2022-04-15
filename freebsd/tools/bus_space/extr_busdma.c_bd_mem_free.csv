@@ -1,0 +1,16 @@
+BUSDMA_MD_BUS,VAR_0
+BUSDMA_MD_PHYS,VAR_1
+BUSDMA_MD_VIRT,VAR_2
+OBJ_TYPE_MD,VAR_3
+PROTO_IOC_BUSDMA,VAR_4
+PROTO_IOC_BUSDMA_MEM_FREE,VAR_5
+bd_md_del_segs,FUNC_0
+errno,VAR_6
+ioctl,FUNC_1
+memset,FUNC_2
+obj_free,FUNC_3
+obj_lookup,FUNC_4
+bd_mem_free,FUNC_5
+mdid,VAR_7
+ioc,VAR_8
+md,VAR_9

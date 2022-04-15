@@ -1,0 +1,17 @@
+REQ_TYPE_FS,VAR_0
+SCSI_SENSE_BUFFERSIZE,VAR_1
+blk_rq_pos,FUNC_0
+do_div,FUNC_1
+min,FUNC_2
+scsi_bufflen,FUNC_3
+scsi_get_resid,FUNC_4
+scsi_get_sense_info_fld,FUNC_5
+sd_completed_bytes,FUNC_6
+scmd,VAR_2
+start_lba,VAR_3
+end_lba,VAR_4
+bad_lba,VAR_5
+info_valid,VAR_6
+transferred,VAR_7
+good_bytes,VAR_8
+factor,VAR_9

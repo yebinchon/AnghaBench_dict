@@ -1,0 +1,15 @@
+MD_RECOVERY_FROZEN,VAR_0
+RT_FLAG_RS_RESUMED,VAR_1
+RT_FLAG_RS_SUSPENDED,VAR_2
+attempt_restore_of_faulty_devices,FUNC_0
+clear_bit,FUNC_1
+mddev_lock_nointr,FUNC_2
+mddev_resume,FUNC_3
+mddev_unlock,FUNC_4
+rs_set_capacity,FUNC_5
+test_and_clear_bit,FUNC_6
+test_and_set_bit,FUNC_7
+raid_resume,FUNC_8
+ti,VAR_3
+rs,VAR_4
+mddev,VAR_5

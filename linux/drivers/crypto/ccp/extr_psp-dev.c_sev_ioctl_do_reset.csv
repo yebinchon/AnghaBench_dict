@@ -1,0 +1,11 @@
+EBUSY,VAR_0
+SEV_CMD_FACTORY_RESET,VAR_1
+SEV_STATE_INIT,VAR_2
+SEV_STATE_WORKING,VAR_3
+__sev_do_cmd_locked,FUNC_0
+__sev_platform_shutdown_locked,FUNC_1
+sev_get_platform_state,FUNC_2
+sev_ioctl_do_reset,FUNC_3
+argp,VAR_4
+state,VAR_5
+rc,VAR_6

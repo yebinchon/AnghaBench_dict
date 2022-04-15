@@ -1,0 +1,15 @@
+comedi_dio_update_state,FUNC_0
+pcmuio_read,FUNC_1
+pcmuio_subdevice_to_asic,FUNC_2
+pcmuio_subdevice_to_port,FUNC_3
+pcmuio_write,FUNC_4
+pcmuio_dio_insn_bits,FUNC_5
+dev,VAR_0
+s,VAR_1
+insn,VAR_2
+data,VAR_3
+asic,VAR_4
+port,VAR_5
+chanmask,VAR_6
+mask,VAR_7
+val,VAR_8

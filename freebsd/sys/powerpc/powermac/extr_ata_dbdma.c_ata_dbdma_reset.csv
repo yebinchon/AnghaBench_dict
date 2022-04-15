@@ -1,0 +1,10 @@
+ATA_DMA_ACTIVE,VAR_0
+dbdma_insert_stop,FUNC_0
+dbdma_set_current_cmd,FUNC_1
+dbdma_stop,FUNC_2
+device_get_softc,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+ata_dbdma_reset,FUNC_6
+dev,VAR_1
+sc,VAR_2

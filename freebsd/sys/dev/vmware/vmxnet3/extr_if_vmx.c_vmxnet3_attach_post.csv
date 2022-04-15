@@ -1,0 +1,17 @@
+IFM_AUTO,VAR_0
+IFM_ETHER,VAR_1
+VMXNET3_FLAG_RSS,VAR_2
+iflib_get_dev,FUNC_0
+iflib_get_softc,FUNC_1
+iflib_get_softc_ctx,FUNC_2
+ifmedia_add,FUNC_3
+ifmedia_set,FUNC_4
+vmxnet3_alloc_data,FUNC_5
+vmxnet3_set_interrupt_idx,FUNC_6
+vmxnet3_setup_sysctl,FUNC_7
+vmxnet3_attach_post,FUNC_8
+ctx,VAR_3
+dev,VAR_4
+scctx,VAR_5
+sc,VAR_6
+error,VAR_7

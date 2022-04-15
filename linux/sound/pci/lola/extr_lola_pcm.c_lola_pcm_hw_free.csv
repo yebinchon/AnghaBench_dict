@@ -1,0 +1,13 @@
+lola_cleanup_slave_streams,FUNC_0
+lola_get_pcm,FUNC_1
+lola_get_stream,FUNC_2
+lola_stream_reset,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+snd_pcm_lib_free_pages,FUNC_6
+snd_pcm_substream_chip,FUNC_7
+lola_pcm_hw_free,FUNC_8
+substream,VAR_0
+chip,VAR_1
+pcm,VAR_2
+str,VAR_3

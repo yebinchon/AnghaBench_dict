@@ -1,0 +1,13 @@
+cpufreq_disable_fast_switch,FUNC_0
+global_tunables_lock,VAR_0
+gov_attr_set_put,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sugov_kthread_stop,FUNC_4
+sugov_policy_free,FUNC_5
+sugov_tunables_free,FUNC_6
+sugov_exit,FUNC_7
+policy,VAR_1
+sg_policy,VAR_2
+tunables,VAR_3
+count,VAR_4

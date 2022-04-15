@@ -1,0 +1,14 @@
+AMD64_GARTAPERTUREBASE,VAR_0
+AMD_NB_GART,VAR_1
+amd_nb_has_feature,FUNC_0
+amd_nb_num,FUNC_1
+aperture_alloc,VAR_2
+aperture_order,VAR_3
+fix_up_north_bridges,VAR_4
+gart_set_size_and_enable,FUNC_2
+node_to_amd_nb,FUNC_3
+pci_write_config_dword,FUNC_4
+pr_info,FUNC_5
+gart_fixup_northbridges,FUNC_6
+i,VAR_5
+dev,VAR_6

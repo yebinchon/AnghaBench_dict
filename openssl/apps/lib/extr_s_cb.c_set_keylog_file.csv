@@ -1,0 +1,13 @@
+BIO_flush,FUNC_0
+BIO_free_all,FUNC_1
+BIO_new_file,FUNC_2
+BIO_printf,FUNC_3
+BIO_puts,FUNC_4
+BIO_tell,FUNC_5
+SSL_CTX_set_keylog_callback,FUNC_6
+bio_err,VAR_0
+bio_keylog,VAR_1
+keylog_callback,VAR_2
+set_keylog_file,FUNC_7
+ctx,VAR_3
+keylog_file,VAR_4

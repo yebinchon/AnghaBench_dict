@@ -1,0 +1,11 @@
+DA9063_REG_CONTROL_D,VAR_0
+DA9063_TWDSCALE_MASK,VAR_1
+da9063_wdt_disable_timer,FUNC_0
+da9063_wdt_timeout_to_sel,FUNC_1
+regmap_update_bits,FUNC_2
+usleep_range,FUNC_3
+da9063_wdt_update_timeout,FUNC_4
+da9063,VAR_2
+timeout,VAR_3
+regval,VAR_4
+ret,VAR_5

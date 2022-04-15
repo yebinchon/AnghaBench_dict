@@ -1,0 +1,14 @@
+MG_F_SEND_AND_CLOSE,VAR_0
+MG_SOCK_STRINGIFY_IP,VAR_1
+MG_SOCK_STRINGIFY_PORT,VAR_2
+SYS_PRINT,FUNC_0
+mg_printf,FUNC_1
+mg_send_response_line,FUNC_2
+mg_sock_addr_to_str,FUNC_3
+ev_handler,FUNC_4
+nc,VAR_3
+ev,VAR_4
+ev_data,VAR_5
+addr,VAR_6
+hm,VAR_7
+addr,VAR_8

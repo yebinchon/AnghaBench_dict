@@ -1,0 +1,15 @@
+create_command,FUNC_0
+detect_command_type,FUNC_1
+redisFormatSdsCommandArgv,FUNC_2
+sdsfree,FUNC_3
+send_command,FUNC_4
+h2o_redis_command_argv,FUNC_5
+client,VAR_0
+cb,VAR_1
+cb_data,VAR_2
+argc,VAR_3
+argv,VAR_4
+argvlen,VAR_5
+sdscmd,VAR_6
+len,VAR_7
+command,VAR_8

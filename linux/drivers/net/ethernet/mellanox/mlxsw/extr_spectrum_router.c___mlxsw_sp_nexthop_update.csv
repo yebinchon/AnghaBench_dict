@@ -1,0 +1,15 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_RATR_LEN,VAR_0
+MLXSW_REG_RATR_OP_WRITE_WRITE_ENTRY,VAR_1
+MLXSW_REG_RATR_TYPE_ETHERNET,VAR_2
+mlxsw_reg_ratr_counter_pack,FUNC_1
+mlxsw_reg_ratr_eth_entry_pack,FUNC_2
+mlxsw_reg_ratr_pack,FUNC_3
+mlxsw_reg_write,FUNC_4
+ratr,VAR_3
+__mlxsw_sp_nexthop_update,FUNC_5
+mlxsw_sp,VAR_4
+adj_index,VAR_5
+nh,VAR_6
+neigh_entry,VAR_7
+ratr_pl,VAR_8

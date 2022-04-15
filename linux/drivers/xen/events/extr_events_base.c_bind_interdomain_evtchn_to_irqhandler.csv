@@ -1,0 +1,12 @@
+bind_interdomain_evtchn_to_irq,FUNC_0
+request_irq,FUNC_1
+unbind_from_irq,FUNC_2
+bind_interdomain_evtchn_to_irqhandler,FUNC_3
+remote_domain,VAR_0
+remote_port,VAR_1
+handler,VAR_2
+irqflags,VAR_3
+devname,VAR_4
+dev_id,VAR_5
+irq,VAR_6
+retval,VAR_7

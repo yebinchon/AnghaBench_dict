@@ -1,0 +1,8 @@
+BFI_PORT_MODE_FC,VAR_0
+IOC_E_FWRSP_GETATTR,VAR_1
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+bfa_fsm_send_event,FUNC_2
+bfa_ioc_getattr_reply,FUNC_3
+ioc,VAR_2
+attr,VAR_3

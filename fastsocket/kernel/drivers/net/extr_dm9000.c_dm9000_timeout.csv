@@ -1,0 +1,15 @@
+dm9000_init_dm9000,FUNC_0
+dm9000_reset,FUNC_1
+jiffies,VAR_0
+netdev_priv,FUNC_2
+netif_stop_queue,FUNC_3
+netif_wake_queue,FUNC_4
+readb,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+writeb,FUNC_8
+dm9000_timeout,FUNC_9
+dev,VAR_1
+db,VAR_2
+reg_save,VAR_3
+flags,VAR_4

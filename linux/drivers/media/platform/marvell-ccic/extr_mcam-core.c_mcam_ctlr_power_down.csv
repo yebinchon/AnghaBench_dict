@@ -1,0 +1,9 @@
+C1_PWRDWN,VAR_0
+REG_CTRL1,VAR_1
+mcam_reg_set_bit,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+stub1,FUNC_3
+mcam_ctlr_power_down,FUNC_4
+cam,VAR_2
+flags,VAR_3

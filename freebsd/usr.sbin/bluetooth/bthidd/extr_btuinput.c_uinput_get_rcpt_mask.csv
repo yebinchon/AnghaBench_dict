@@ -1,0 +1,15 @@
+CLOCK_MONOTONIC_FAST,VAR_0
+ENOENT,VAR_1
+EVDEV_RCPT_HW_KBD,VAR_2
+EVDEV_RCPT_HW_MOUSE,VAR_3
+MASK_POLL_INTERVAL,VAR_4
+MASK_SYSCTL,VAR_5
+clock_gettime,FUNC_0
+errno,VAR_6
+sysctlbyname,FUNC_1
+uinput_get_rcpt_mask,FUNC_2
+last,VAR_7
+now,VAR_8
+mask,VAR_9
+len,VAR_10
+elapsed,VAR_11

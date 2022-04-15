@@ -1,0 +1,12 @@
+CTLFLAG_RW,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_softc,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+ar5315_spi_attach_sysctl,FUNC_5
+dev,VAR_2
+sc,VAR_3
+ctx,VAR_4
+tree,VAR_5

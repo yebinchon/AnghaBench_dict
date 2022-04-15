@@ -1,0 +1,17 @@
+IORESOURCE_MEM_64,VAR_0
+IORESOURCE_PREFETCH,VAR_1
+PCI_BRIDGE_RESOURCES,VAR_2
+PCI_PREF_BASE_UPPER32,VAR_3
+PCI_PREF_LIMIT_UPPER32,VAR_4
+PCI_PREF_MEMORY_BASE,VAR_5
+pci_info,FUNC_0
+pci_write_config_dword,FUNC_1
+pcibios_resource_to_bus,FUNC_2
+upper_32_bits,FUNC_3
+pci_setup_bridge_mmio_pref,FUNC_4
+bridge,VAR_6
+res,VAR_7
+region,VAR_8
+l,VAR_9
+bu,VAR_10
+lu,VAR_11

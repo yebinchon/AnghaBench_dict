@@ -1,0 +1,15 @@
+BPF_LWT_REROUTE,VAR_0
+EINVAL,VAR_1
+NO_REDIRECT,VAR_2
+bpf_lwt_input_reroute,FUNC_0
+bpf_lwt_lwtunnel,FUNC_1
+kfree_skb,FUNC_2
+run_lwt_bpf,FUNC_3
+skb_dst,FUNC_4
+stub1,FUNC_5
+unlikely,FUNC_6
+bpf_input,FUNC_7
+skb,VAR_3
+dst,VAR_4
+bpf,VAR_5
+ret,VAR_6

@@ -1,0 +1,13 @@
+EIO,VAR_0
+ERESTARTSYS,VAR_1
+HZ,VAR_2
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+uhid_queue,FUNC_2
+wait_event_interruptible_timeout,FUNC_3
+__uhid_report_queue_and_wait,FUNC_4
+uhid,VAR_3
+ev,VAR_4
+report_id,VAR_5
+flags,VAR_6
+ret,VAR_7

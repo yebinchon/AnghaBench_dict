@@ -1,0 +1,8 @@
+RADEON_LVDS_BL_MOD_LEVEL_SHIFT,VAR_0
+RADEON_LVDS_GEN_CNTL,VAR_1
+RREG32,FUNC_0
+radeon_legacy_get_backlight_level,FUNC_1
+radeon_encoder,VAR_2
+dev,VAR_3
+rdev,VAR_4
+backlight_level,VAR_5

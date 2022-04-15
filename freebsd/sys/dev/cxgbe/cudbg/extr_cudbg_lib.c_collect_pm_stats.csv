@@ -1,0 +1,15 @@
+compress_buff,FUNC_0
+get_scratch_buff,FUNC_1
+release_scratch_buff,FUNC_2
+t4_pmrx_get_stats,FUNC_3
+t4_pmtx_get_stats,FUNC_4
+write_compression_hdr,FUNC_5
+collect_pm_stats,FUNC_6
+pdbg_init,VAR_0
+dbg_buff,VAR_1
+cudbg_err,VAR_2
+padap,VAR_3
+scratch_buff,VAR_4
+pm_stats_buff,VAR_5
+size,VAR_6
+rc,VAR_7

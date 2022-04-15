@@ -1,0 +1,8 @@
+BLK_STS_OK,VAR_0
+BTRFS_DEV_STATE_FLUSH_SENT,VAR_1
+clear_bit,FUNC_0
+test_bit,FUNC_1
+wait_for_completion_io,FUNC_2
+wait_dev_flush,FUNC_3
+device,VAR_2
+bio,VAR_3

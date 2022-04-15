@@ -1,0 +1,9 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_commit_tree,FUNC_2
+git_tree_entrycount,FUNC_3
+git_tree_free,FUNC_4
+assert_commit_tree_has_n_entries,FUNC_5
+c,VAR_0
+count,VAR_1
+tree,VAR_2

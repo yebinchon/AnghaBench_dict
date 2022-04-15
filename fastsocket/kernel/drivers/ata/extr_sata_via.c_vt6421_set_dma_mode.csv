@@ -1,0 +1,9 @@
+PATA_UDMA_TIMING,VAR_0
+XFER_UDMA_0,VAR_1
+pci_write_config_byte,FUNC_0
+to_pci_dev,FUNC_1
+vt6421_set_dma_mode,FUNC_2
+ap,VAR_2
+adev,VAR_3
+pdev,VAR_4
+udma_bits,VAR_5

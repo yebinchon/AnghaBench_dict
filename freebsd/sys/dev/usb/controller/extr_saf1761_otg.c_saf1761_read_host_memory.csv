@@ -1,0 +1,14 @@
+SAF1761_90NS_DELAY,FUNC_0
+SAF1761_WRITE_LE_4,FUNC_1
+SOTG_DATA_ADDR,FUNC_2
+SOTG_MEMORY_REG,VAR_0
+bus_space_read_region_4,FUNC_3
+usbd_copy_in,FUNC_4
+usbd_get_page,FUNC_5
+saf1761_read_host_memory,FUNC_6
+sc,VAR_1
+td,VAR_2
+len,VAR_3
+buf_res,VAR_4
+offset,VAR_5
+count,VAR_6

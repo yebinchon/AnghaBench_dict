@@ -1,0 +1,11 @@
+DBG_HOOK_HANDLED,VAR_0
+EFAULT,VAR_1
+TRAP_BRKPT,VAR_2
+call_break_hook,FUNC_0
+pr_warn,FUNC_1
+send_user_sigtrap,FUNC_2
+user_mode,FUNC_3
+brk_handler,FUNC_4
+unused,VAR_3
+esr,VAR_4
+regs,VAR_5

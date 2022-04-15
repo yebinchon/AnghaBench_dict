@@ -1,0 +1,17 @@
+MAX_NR_BANKS,VAR_0
+MCG_BANKCNT_MASK,VAR_1
+MCG_EXT_CNT,FUNC_0
+MCG_EXT_P,VAR_2
+MCG_SER_P,VAR_3
+MSR_IA32_MCG_CAP,VAR_4
+MSR_IA32_MCG_EIP,VAR_5
+__mcheck_cpu_mce_banks_init,FUNC_1
+mca_cfg,VAR_6
+mce_num_banks,VAR_7
+pr_warn,FUNC_2
+rdmsrl,FUNC_3
+smp_processor_id,FUNC_4
+this_cpu_write,FUNC_5
+__mcheck_cpu_cap_init,FUNC_6
+cap,VAR_8
+b,VAR_9

@@ -1,0 +1,16 @@
+CHAN_OP_DRAIN,VAR_0
+DPRINTF,FUNC_0
+UAUDIO_NCHANBUFS,VAR_1
+bus_generic_detach,FUNC_1
+device_get_softc,FUNC_2
+sbuf_delete,FUNC_3
+uaudio_hid_detach,FUNC_4
+uaudio_mixer_ctl_free,FUNC_5
+umidi_detach,FUNC_6
+usb_proc_explore_lock,FUNC_7
+usb_proc_explore_mwait,FUNC_8
+usb_proc_explore_unlock,FUNC_9
+usbd_transfer_unsetup,FUNC_10
+uaudio_detach,FUNC_11
+dev,VAR_2
+sc,VAR_3

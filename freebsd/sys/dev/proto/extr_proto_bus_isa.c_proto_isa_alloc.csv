@@ -1,0 +1,14 @@
+PROTO_RES_BUSDMA,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_DRQ,VAR_2
+bus_alloc_resource_any,FUNC_0
+device_get_softc,FUNC_1
+proto_add_resource,FUNC_2
+proto_isa_alloc,FUNC_3
+dev,VAR_3
+type,VAR_4
+nrids,VAR_5
+res,VAR_6
+sc,VAR_7
+count,VAR_8
+rid,VAR_9

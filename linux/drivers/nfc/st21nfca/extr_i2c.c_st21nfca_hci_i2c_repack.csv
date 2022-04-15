@@ -1,0 +1,13 @@
+EBADMSG,VAR_0
+ST21NFCA_BYTE_STUFFING_MASK,VAR_1
+ST21NFCA_ESCAPE_BYTE_STUFFING,VAR_2
+check_crc,FUNC_0
+get_frame_size,FUNC_1
+skb_pull,FUNC_2
+skb_trim,FUNC_3
+st21nfca_hci_i2c_repack,FUNC_4
+skb,VAR_3
+i,VAR_4
+j,VAR_5
+r,VAR_6
+size,VAR_7

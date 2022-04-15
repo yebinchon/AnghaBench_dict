@@ -1,0 +1,15 @@
+AMD_IP_BLOCK_TYPE_UVD,VAR_0
+AMD_PG_STATE_GATE,VAR_1
+AMD_PG_STATE_UNGATE,VAR_2
+PPSMC_MSG_UVDPowerOFF,VAR_3
+PPSMC_MSG_UVDPowerON,VAR_4
+amdgpu_device_ip_set_powergating_state,FUNC_0
+amdgpu_kv_notify_message_to_smu,FUNC_1
+kv_get_pi,FUNC_2
+kv_update_uvd_dpm,FUNC_3
+kv_dpm_powergate_uvd,FUNC_4
+handle,VAR_5
+gate,VAR_6
+adev,VAR_7
+pi,VAR_8
+ret,VAR_9

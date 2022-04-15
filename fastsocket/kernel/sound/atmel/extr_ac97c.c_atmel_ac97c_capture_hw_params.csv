@@ -1,0 +1,16 @@
+DMA_RX_READY,VAR_0
+dw_dma_cyclic_free,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+opened_mutex,VAR_1
+params_buffer_bytes,FUNC_3
+params_format,FUNC_4
+params_rate,FUNC_5
+snd_pcm_lib_malloc_pages,FUNC_6
+snd_pcm_substream_chip,FUNC_7
+test_and_clear_bit,FUNC_8
+atmel_ac97c_capture_hw_params,FUNC_9
+substream,VAR_2
+hw_params,VAR_3
+chip,VAR_4
+retval,VAR_5

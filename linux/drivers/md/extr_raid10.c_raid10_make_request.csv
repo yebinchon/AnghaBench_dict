@@ -1,0 +1,14 @@
+REQ_PREFLUSH,VAR_0
+__make_request,FUNC_0
+bio_sectors,FUNC_1
+md_flush_request,FUNC_2
+md_write_start,FUNC_3
+unlikely,FUNC_4
+wake_up,FUNC_5
+raid10_make_request,FUNC_6
+mddev,VAR_1
+bio,VAR_2
+conf,VAR_3
+chunk_mask,VAR_4
+chunk_sects,VAR_5
+sectors,VAR_6

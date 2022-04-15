@@ -1,0 +1,14 @@
+DatabaseRelationId,VAR_0
+SEPG_CLASS_DB_DATABASE,VAR_1
+SEPG_DB_DATABASE__RELABELFROM,VAR_2
+SEPG_DB_DATABASE__RELABELTO,VAR_3
+SEPG_DB_DATABASE__SETATTR,VAR_4
+getObjectIdentity,FUNC_0
+pfree,FUNC_1
+sepgsql_avc_check_perms,FUNC_2
+sepgsql_avc_check_perms_label,FUNC_3
+sepgsql_database_relabel,FUNC_4
+databaseId,VAR_5
+seclabel,VAR_6
+object,VAR_7
+audit_name,VAR_8

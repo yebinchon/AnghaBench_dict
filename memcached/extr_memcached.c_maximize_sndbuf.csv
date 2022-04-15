@@ -1,0 +1,17 @@
+MAX_SENDBUF_SIZE,VAR_0
+SOL_SOCKET,VAR_1
+SO_SNDBUF,VAR_2
+fprintf,FUNC_0
+getsockopt,FUNC_1
+perror,FUNC_2
+setsockopt,FUNC_3
+settings,VAR_3
+stderr,VAR_4
+maximize_sndbuf,FUNC_4
+sfd,VAR_5
+intsize,VAR_6
+last_good,VAR_7
+min,VAR_8
+max,VAR_9
+avg,VAR_10
+old_size,VAR_11

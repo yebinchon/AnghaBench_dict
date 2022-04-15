@@ -1,0 +1,13 @@
+I2C_ADDR,VAR_0
+SUN8I_HDMI_PHY_REXT_CTRL_REG,VAR_1
+SUN8I_HDMI_PHY_REXT_CTRL_REXT_EN,VAR_2
+dw_hdmi_phy_gen2_pddq,FUNC_0
+dw_hdmi_phy_gen2_txpwron,FUNC_1
+dw_hdmi_phy_i2c_set_addr,FUNC_2
+dw_hdmi_phy_i2c_write,FUNC_3
+dw_hdmi_phy_reset,FUNC_4
+regmap_update_bits,FUNC_5
+sun8i_hdmi_phy_config_a83t,FUNC_6
+hdmi,VAR_3
+phy,VAR_4
+clk_rate,VAR_5

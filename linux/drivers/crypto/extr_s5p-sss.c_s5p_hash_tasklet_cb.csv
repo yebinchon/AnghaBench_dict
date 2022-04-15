@@ -1,0 +1,13 @@
+HASH_FLAGS_BUSY,VAR_0
+HASH_FLAGS_DMA_ACTIVE,VAR_1
+HASH_FLAGS_DMA_READY,VAR_2
+HASH_FLAGS_OUTPUT_READY,VAR_3
+clear_bit,FUNC_0
+s5p_hash_finish_req,FUNC_1
+s5p_hash_handle_queue,FUNC_2
+s5p_hash_update_dma_stop,FUNC_3
+test_and_clear_bit,FUNC_4
+test_bit,FUNC_5
+s5p_hash_tasklet_cb,FUNC_6
+data,VAR_4
+dd,VAR_5

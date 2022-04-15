@@ -1,0 +1,13 @@
+EXT3_I,FUNC_0
+EXT3_SB,FUNC_1
+rsv_is_empty,FUNC_2
+rsv_window_remove,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+trace_ext3_discard_reservation,FUNC_6
+ext3_discard_reservation,FUNC_7
+inode,VAR_0
+ei,VAR_1
+block_i,VAR_2
+rsv,VAR_3
+rsv_lock,VAR_4

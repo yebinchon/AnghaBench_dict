@@ -1,0 +1,14 @@
+SI5341_OUT_CFG_RDIV_FORCE2,VAR_0
+SI5341_OUT_CONFIG,FUNC_0
+SI5341_OUT_R_REG,FUNC_1
+regmap_bulk_read,FUNC_2
+regmap_read,FUNC_3
+to_clk_si5341_output,FUNC_4
+si5341_output_clk_recalc_rate,FUNC_5
+hw,VAR_1
+parent_rate,VAR_2
+output,VAR_3
+err,VAR_4
+val,VAR_5
+r_divider,VAR_6
+r,VAR_7

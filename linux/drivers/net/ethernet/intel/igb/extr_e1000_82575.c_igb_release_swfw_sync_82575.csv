@@ -1,0 +1,9 @@
+E1000_SW_FW_SYNC,VAR_0
+igb_get_hw_semaphore,FUNC_0
+igb_put_hw_semaphore,FUNC_1
+rd32,FUNC_2
+wr32,FUNC_3
+igb_release_swfw_sync_82575,FUNC_4
+hw,VAR_1
+mask,VAR_2
+swfw_sync,VAR_3

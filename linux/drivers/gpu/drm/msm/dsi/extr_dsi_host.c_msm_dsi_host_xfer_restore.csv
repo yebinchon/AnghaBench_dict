@@ -1,0 +1,14 @@
+DSI_IRQ_MASK_CMD_DMA_DONE,VAR_0
+MIPI_DSI_MSG_USE_LPM,VAR_1
+REG_DSI_CTRL,VAR_2
+dsi_intr_ctrl,FUNC_0
+dsi_set_tx_power_mode,FUNC_1
+dsi_write,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+stub1,FUNC_4
+to_msm_dsi_host,FUNC_5
+msm_dsi_host_xfer_restore,FUNC_6
+host,VAR_3
+msg,VAR_4
+msm_host,VAR_5
+cfg_hnd,VAR_6

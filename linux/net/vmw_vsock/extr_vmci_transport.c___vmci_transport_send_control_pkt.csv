@@ -1,0 +1,15 @@
+vmci_datagram_send,FUNC_0
+vmci_transport_error_to_vsock_error,FUNC_1
+vmci_transport_packet_init,FUNC_2
+__vmci_transport_send_control_pkt,FUNC_3
+pkt,VAR_0
+src,VAR_1
+dst,VAR_2
+type,VAR_3
+size,VAR_4
+mode,VAR_5
+wait,VAR_6
+proto,VAR_7
+handle,VAR_8
+convert_error,VAR_9
+err,VAR_10

@@ -1,0 +1,15 @@
+bus_alloc_resource,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+rman_reserve_resource,FUNC_3
+ciu_alloc_resource,FUNC_4
+bus,VAR_0
+child,VAR_1
+type,VAR_2
+rid,VAR_3
+start,VAR_4
+end,VAR_5
+count,VAR_6
+flags,VAR_7
+res,VAR_8
+sc,VAR_9

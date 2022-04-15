@@ -1,0 +1,15 @@
+AMR_MAXCMD,VAR_0
+BUS_DMA_NOWAIT,VAR_1
+BUS_SPACE_MAXADDR,VAR_2
+BUS_SPACE_MAXADDR_32BIT,VAR_3
+ENOMEM,VAR_4
+amr_sglist_helper,VAR_5
+bus_dma_tag_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+bzero,FUNC_3
+device_printf,FUNC_4
+amr_ccb_map,FUNC_5
+sc,VAR_6
+ccbsize,VAR_7
+error,VAR_8

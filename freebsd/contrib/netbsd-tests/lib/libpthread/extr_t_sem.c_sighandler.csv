@@ -1,0 +1,7 @@
+ATF_REQUIRE_EQ_MSG,FUNC_0
+SEM_REQUIRE,FUNC_1
+SIGALRM,VAR_0
+sem,VAR_1
+sem_post,FUNC_2
+sighandler,FUNC_3
+signo,VAR_2

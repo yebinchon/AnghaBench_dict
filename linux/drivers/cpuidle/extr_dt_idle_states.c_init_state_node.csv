@@ -1,0 +1,17 @@
+CPUIDLE_DESC_LEN,VAR_0
+CPUIDLE_FLAG_TIMER_STOP,VAR_1
+CPUIDLE_NAME_LEN,VAR_2
+EINVAL,VAR_3
+of_property_read_bool,FUNC_0
+of_property_read_string,FUNC_1
+of_property_read_u32,FUNC_2
+pr_debug,FUNC_3
+strncpy,FUNC_4
+init_state_node,FUNC_5
+idle_state,VAR_4
+match_id,VAR_5
+state_node,VAR_6
+err,VAR_7
+desc,VAR_8
+entry_latency,VAR_9
+exit_latency,VAR_10

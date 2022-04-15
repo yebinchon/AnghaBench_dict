@@ -1,0 +1,17 @@
+MAX_LAUNCH_DATA_SIZE,VAR_0
+RARCH_PATH_CONTENT,VAR_1
+XLaunchNewImage,FUNC_0
+XSetLaunchData,FUNC_1
+memset,FUNC_2
+path_get,FUNC_3
+path_is_empty,FUNC_4
+snprintf,FUNC_5
+string_is_empty,FUNC_6
+strlcpy,FUNC_7
+verbosity_disable,FUNC_8
+verbosity_enable,FUNC_9
+verbosity_is_enabled,FUNC_10
+frontend_xdk_exec,FUNC_11
+path,VAR_2
+should_load_game,VAR_3
+original_verbose,VAR_4

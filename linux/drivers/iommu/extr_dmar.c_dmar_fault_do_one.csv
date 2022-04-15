@@ -1,0 +1,14 @@
+INTR_REMAP,VAR_0
+PCI_FUNC,FUNC_0
+PCI_SLOT,FUNC_1
+dmar_get_fault_reason,FUNC_2
+pr_err,FUNC_3
+dmar_fault_do_one,FUNC_4
+iommu,VAR_1
+type,VAR_2
+fault_reason,VAR_3
+pasid,VAR_4
+source_id,VAR_5
+addr,VAR_6
+reason,VAR_7
+fault_type,VAR_8

@@ -1,0 +1,9 @@
+DEFINE_WAIT_BIT,FUNC_0
+PG_locked,VAR_0
+TASK_KILLABLE,VAR_1
+__wait_on_bit_lock,FUNC_1
+page_waitqueue,FUNC_2
+sync_page_killable,VAR_2
+wait,VAR_3
+__lock_page_killable,FUNC_3
+page,VAR_4

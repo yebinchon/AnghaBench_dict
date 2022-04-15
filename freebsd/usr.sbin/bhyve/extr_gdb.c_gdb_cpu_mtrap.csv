@@ -1,0 +1,14 @@
+VM_CAP_MTRAP_EXIT,VAR_0
+_gdb_cpu_suspend,FUNC_0
+assert,FUNC_1
+ctx,VAR_1
+debug,FUNC_2
+gdb_lock,VAR_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+stepping_vcpu,VAR_3
+stopped_vcpu,VAR_4
+vm_set_capability,FUNC_5
+vm_suspend_cpu,FUNC_6
+gdb_cpu_mtrap,FUNC_7
+vcpu,VAR_5

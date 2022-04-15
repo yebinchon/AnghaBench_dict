@@ -1,0 +1,13 @@
+M_GIC_V3,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_0
+device_get_softc,FUNC_1
+device_is_attached,FUNC_2
+free,FUNC_3
+mp_maxid,VAR_2
+panic,FUNC_4
+gic_v3_detach,FUNC_5
+dev,VAR_3
+sc,VAR_4
+i,VAR_5
+rid,VAR_6

@@ -1,0 +1,12 @@
+CF_CONNECTED,VAR_0
+SHUT_RDWR,VAR_1
+conn_put,FUNC_0
+kernel_sock_shutdown,FUNC_1
+test_and_clear_bit,FUNC_2
+tipc_conn_delete_sub,FUNC_3
+write_lock_bh,FUNC_4
+write_unlock_bh,FUNC_5
+tipc_conn_close,FUNC_6
+con,VAR_2
+sk,VAR_3
+disconnect,VAR_4

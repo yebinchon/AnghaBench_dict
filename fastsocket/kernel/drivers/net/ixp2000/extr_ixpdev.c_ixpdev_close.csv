@@ -1,0 +1,13 @@
+IRQ_IXP2000_THDA0,VAR_0
+IXP2000_IRQ_THD_ENABLE_CLEAR_A_0,VAR_1
+free_irq,FUNC_0
+ixp2000_reg_write,FUNC_1
+napi_disable,FUNC_2
+nds,VAR_2
+nds_open,VAR_3
+netdev_priv,FUNC_3
+netif_stop_queue,FUNC_4
+set_port_admin_status,FUNC_5
+ixpdev_close,FUNC_6
+dev,VAR_4
+ip,VAR_5

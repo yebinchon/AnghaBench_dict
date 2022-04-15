@@ -1,0 +1,12 @@
+SPRD_SPI_CS0_VALID,VAR_0
+SPRD_SPI_CSN_MASK,VAR_1
+SPRD_SPI_CTL0,VAR_2
+readl_relaxed,FUNC_0
+spi_controller_get_devdata,FUNC_1
+writel_relaxed,FUNC_2
+sprd_spi_chipselect,FUNC_3
+sdev,VAR_3
+cs,VAR_4
+sctlr,VAR_5
+ss,VAR_6
+val,VAR_7

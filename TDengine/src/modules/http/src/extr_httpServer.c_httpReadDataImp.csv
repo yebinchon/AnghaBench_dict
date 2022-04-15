@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+EINTR,VAR_1
+EWOULDBLOCK,VAR_2
+HTTP_BUFFER_SIZE,VAR_3
+HTTP_REQUSET_TOO_BIG,VAR_4
+HTTP_STEP_SIZE,VAR_5
+errno,VAR_6
+httpError,FUNC_0
+httpReadDirtyData,FUNC_1
+httpRemoveContextFromEpoll,FUNC_2
+httpSendErrorResp,FUNC_3
+httpTrace,FUNC_4
+taosReadSocket,FUNC_5
+httpReadDataImp,FUNC_6
+pContext,VAR_7
+pParser,VAR_8
+nread,VAR_9

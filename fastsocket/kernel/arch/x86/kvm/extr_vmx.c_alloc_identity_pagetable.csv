@@ -1,0 +1,11 @@
+IDENTITY_PAGETABLE_PRIVATE_MEMSLOT,VAR_0
+PAGE_SHIFT,VAR_1
+PAGE_SIZE,VAR_2
+__kvm_set_memory_region,FUNC_0
+gfn_to_page,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+alloc_identity_pagetable,FUNC_4
+kvm,VAR_3
+kvm_userspace_mem,VAR_4
+r,VAR_5

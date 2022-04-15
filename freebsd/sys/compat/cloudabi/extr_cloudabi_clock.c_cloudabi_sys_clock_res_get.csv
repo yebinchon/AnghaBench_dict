@@ -1,0 +1,11 @@
+cloudabi_convert_clockid,FUNC_0
+cloudabi_convert_timespec,FUNC_1
+kern_clock_getres,FUNC_2
+memcpy,FUNC_3
+cloudabi_sys_clock_res_get,FUNC_4
+td,VAR_0
+uap,VAR_1
+ts,VAR_2
+cts,VAR_3
+error,VAR_4
+clockid,VAR_5

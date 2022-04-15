@@ -1,0 +1,15 @@
+InitWalSenderSlot,FUNC_0
+MarkPostmasterChildWalSender,FUNC_1
+MemoryContextAlloc,FUNC_2
+MemoryContextAllocZero,FUNC_3
+PMSIGNAL_ADVANCE_STATE_MACHINE,VAR_0
+RecoveryInProgress,FUNC_4
+SendPostmasterSignal,FUNC_5
+TopMemoryContext,VAR_1
+WALOpenSegmentInit,FUNC_6
+am_cascading_walsender,VAR_2
+lag_tracker,VAR_3
+sendCxt,VAR_4
+sendSeg,VAR_5
+wal_segment_size,VAR_6
+InitWalSender,FUNC_7

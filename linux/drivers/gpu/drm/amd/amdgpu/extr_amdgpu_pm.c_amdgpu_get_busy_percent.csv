@@ -1,0 +1,14 @@
+AMDGPU_PP_SENSOR_GPU_LOAD,VAR_0
+PAGE_SIZE,VAR_1
+amdgpu_dpm_read_sensor,FUNC_0
+dev_get_drvdata,FUNC_1
+snprintf,FUNC_2
+amdgpu_get_busy_percent,FUNC_3
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+ddev,VAR_5
+adev,VAR_6
+r,VAR_7
+value,VAR_8
+size,VAR_9

@@ -1,0 +1,16 @@
+MMU_CONTEXT_ASID_MASK,VAR_0
+MMU_NO_ASID,VAR_1
+NO_CONTEXT,VAR_2
+PAGE_MASK,VAR_3
+__flush_tlb_page,FUNC_0
+current,VAR_4
+get_asid,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+set_asid,FUNC_4
+flush_tlb_page,FUNC_5
+vma,VAR_5
+page,VAR_6
+flags,VAR_7
+asid,VAR_8
+saved_asid,VAR_9

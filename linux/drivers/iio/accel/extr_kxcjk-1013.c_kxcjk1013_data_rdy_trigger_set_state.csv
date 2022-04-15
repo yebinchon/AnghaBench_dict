@@ -1,0 +1,13 @@
+iio_priv,FUNC_0
+iio_trigger_get_drvdata,FUNC_1
+kxcjk1013_set_power_state,FUNC_2
+kxcjk1013_setup_any_motion_interrupt,FUNC_3
+kxcjk1013_setup_new_data_interrupt,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+kxcjk1013_data_rdy_trigger_set_state,FUNC_7
+trig,VAR_0
+state,VAR_1
+indio_dev,VAR_2
+data,VAR_3
+ret,VAR_4

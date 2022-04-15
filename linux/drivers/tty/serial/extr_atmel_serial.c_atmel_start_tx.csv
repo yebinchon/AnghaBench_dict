@@ -1,0 +1,16 @@
+ATMEL_PDC_PTCR,VAR_0
+ATMEL_PDC_PTSR,VAR_1
+ATMEL_PDC_TXTEN,VAR_2
+ATMEL_US_CR,VAR_3
+ATMEL_US_IER,VAR_4
+ATMEL_US_TXEN,VAR_5
+atmel_stop_rx,FUNC_0
+atmel_uart_is_half_duplex,FUNC_1
+atmel_uart_readl,FUNC_2
+atmel_uart_writel,FUNC_3
+atmel_use_dma_tx,FUNC_4
+atmel_use_pdc_tx,FUNC_5
+to_atmel_uart_port,FUNC_6
+atmel_start_tx,FUNC_7
+port,VAR_6
+atmel_port,VAR_7

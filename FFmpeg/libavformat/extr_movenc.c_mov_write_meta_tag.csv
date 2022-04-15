@@ -1,0 +1,16 @@
+FF_MOV_FLAG_USE_MDTA,VAR_0
+avio_tell,FUNC_0
+avio_wb32,FUNC_1
+ffio_wfourcc,FUNC_2
+mov_write_ilst_tag,FUNC_3
+mov_write_itunes_hdlr_tag,FUNC_4
+mov_write_mdta_hdlr_tag,FUNC_5
+mov_write_mdta_ilst_tag,FUNC_6
+mov_write_mdta_keys_tag,FUNC_7
+update_size,FUNC_8
+mov_write_meta_tag,FUNC_9
+pb,VAR_1
+mov,VAR_2
+s,VAR_3
+size,VAR_4
+pos,VAR_5

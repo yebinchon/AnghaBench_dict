@@ -1,0 +1,17 @@
+ESP_LOGD,FUNC_0
+ESP_LOGE,FUNC_1
+ESP_LOGW,FUNC_2
+HTTP_AUTH_TYPE_BASIC,VAR_0
+HTTP_AUTH_TYPE_DIGEST,VAR_1
+HTTP_AUTH_TYPE_NONE,VAR_2
+HTTP_METHOD_MAPPING,VAR_3
+HTTP_STATE_RES_COMPLETE_HEADER,VAR_4
+TAG,VAR_5
+_clear_auth_data,FUNC_3
+http_utils_get_string_between,FUNC_4
+http_utils_str_starts_with,FUNC_5
+http_utils_trim_whitespace,FUNC_6
+strdup,FUNC_7
+esp_http_client_add_auth,FUNC_8
+client,VAR_6
+auth_header,VAR_7

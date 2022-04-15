@@ -1,0 +1,14 @@
+FilterByOrigin,FUNC_0
+REORDER_BUFFER_CHANGE_INTERNAL_SPEC_CONFIRM,VAR_0
+ReorderBufferGetChange,FUNC_1
+ReorderBufferQueueChange,FUNC_2
+XLogRecGetBlockTag,FUNC_3
+XLogRecGetOrigin,FUNC_4
+XLogRecGetXid,FUNC_5
+memcpy,FUNC_6
+DecodeSpecConfirm,FUNC_7
+ctx,VAR_1
+buf,VAR_2
+r,VAR_3
+change,VAR_4
+target_node,VAR_5

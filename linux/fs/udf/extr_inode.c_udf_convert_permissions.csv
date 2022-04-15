@@ -1,0 +1,13 @@
+ICBTAG_FLAG_SETGID,VAR_0
+ICBTAG_FLAG_SETUID,VAR_1
+ICBTAG_FLAG_STICKY,VAR_2
+S_ISGID,VAR_3
+S_ISUID,VAR_4
+S_ISVTX,VAR_5
+le16_to_cpu,FUNC_0
+le32_to_cpu,FUNC_1
+udf_convert_permissions,FUNC_2
+fe,VAR_6
+mode,VAR_7
+permissions,VAR_8
+flags,VAR_9

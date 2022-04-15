@@ -1,0 +1,10 @@
+NFS_LSEG_LAYOUTCOMMIT,VAR_0
+NFS_LSEG_LAYOUTRETURN,VAR_1
+NFS_LSEG_ROC,VAR_2
+NFS_LSEG_VALID,VAR_3
+clear_bit,FUNC_0
+pnfs_lseg_dec_and_remove_zero,FUNC_1
+test_and_clear_bit,FUNC_2
+pnfs_clear_lseg_state,FUNC_3
+lseg,VAR_4
+free_me,VAR_5

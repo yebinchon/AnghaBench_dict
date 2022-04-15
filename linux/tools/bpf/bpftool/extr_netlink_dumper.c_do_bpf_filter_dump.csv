@@ -1,0 +1,15 @@
+LIBBPF_ERRNO__NLPARSE,VAR_0
+NET_DUMP_STR,FUNC_0
+NET_DUMP_UINT,FUNC_1
+TCA_BPF_ACT,VAR_1
+TCA_BPF_ID,VAR_2
+TCA_BPF_MAX,VAR_3
+TCA_BPF_NAME,VAR_4
+do_bpf_act_dump,FUNC_2
+libbpf_nla_getattr_str,FUNC_3
+libbpf_nla_getattr_u32,FUNC_4
+libbpf_nla_parse_nested,FUNC_5
+do_bpf_filter_dump,FUNC_6
+attr,VAR_5
+tb,VAR_6
+ret,VAR_7

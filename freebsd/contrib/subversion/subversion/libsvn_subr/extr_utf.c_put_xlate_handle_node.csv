@@ -1,0 +1,17 @@
+SVN_MUTEX__WITH_LOCK,FUNC_0
+SVN_NO_ERROR,VAR_0
+SVN_UTF_NTOU_XLATE_HANDLE,VAR_1
+SVN_UTF_UTON_XLATE_HANDLE,VAR_2
+apr_pool_cleanup_null,VAR_3
+apr_pool_userdata_set,FUNC_1
+assert,FUNC_2
+atomic_swap,FUNC_3
+put_xlate_handle_node_internal,FUNC_4
+xlat_ntou_static_handle,VAR_4
+xlat_uton_static_handle,VAR_5
+xlate_handle_hash,VAR_6
+xlate_handle_mutex,VAR_7
+put_xlate_handle_node,FUNC_5
+node,VAR_8
+userdata_key,VAR_9
+pool,VAR_10

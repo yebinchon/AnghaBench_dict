@@ -1,0 +1,16 @@
+GFP_ATOMIC,VAR_0
+SCTP_CID_AUTH,VAR_1
+htons,FUNC_0
+ntohs,FUNC_1
+sctp_addto_chunk,FUNC_2
+sctp_auth_asoc_get_hmac,FUNC_3
+sctp_make_control,FUNC_4
+skb_put_zero,FUNC_5
+skb_tail_pointer,FUNC_6
+unlikely,FUNC_7
+sctp_make_auth,FUNC_8
+asoc,VAR_2
+key_id,VAR_3
+auth_hdr,VAR_4
+hmac_desc,VAR_5
+retval,VAR_6

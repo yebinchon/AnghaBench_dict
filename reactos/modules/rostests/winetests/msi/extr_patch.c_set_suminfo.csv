@@ -1,0 +1,15 @@
+ERROR_SUCCESS,VAR_0
+MSIDBOPEN_DIRECT,VAR_1
+MsiCloseHandle,FUNC_0
+MsiGetSummaryInformationA,FUNC_1
+MsiOpenDatabaseW,FUNC_2
+MsiSummaryInfoPersist,FUNC_3
+MsiSummaryInfoSetPropertyA,FUNC_4
+VT_I4,VAR_2
+VT_LPSTR,VAR_3
+ok,FUNC_5
+set_suminfo,FUNC_6
+filename,VAR_4
+r,VAR_5
+hsi,VAR_6
+hdb,VAR_7

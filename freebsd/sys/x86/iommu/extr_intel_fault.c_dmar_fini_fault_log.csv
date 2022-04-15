@@ -1,0 +1,10 @@
+DMAR_LOCK,FUNC_0
+DMAR_UNLOCK,FUNC_1
+M_DEVBUF,VAR_0
+dmar_disable_fault_intr,FUNC_2
+free,FUNC_3
+mtx_destroy,FUNC_4
+taskqueue_drain,FUNC_5
+taskqueue_free,FUNC_6
+dmar_fini_fault_log,FUNC_7
+unit,VAR_1

@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+OF_finddevice,FUNC_0
+OF_getprop,FUNC_1
+PCI_VENDOR_ID_NVIDIA,VAR_1
+device_get_parent,FUNC_2
+device_set_desc,FUNC_3
+pci_get_vendor,FUNC_4
+strcmp,FUNC_5
+nvbl_probe,FUNC_6
+dev,VAR_2
+control,VAR_3
+handle,VAR_4

@@ -1,0 +1,15 @@
+MLX5_ESWITCH_LEGACY,VAR_0
+MLX5_VPORT_STATE_OP_MOD_ESW_VPORT,VAR_1
+SET_VLAN_INSERT,VAR_2
+SET_VLAN_STRIP,VAR_3
+esw_vport_egress_config,FUNC_0
+esw_vport_ingress_config,FUNC_1
+mlx5_modify_nic_vport_mac_address,FUNC_2
+mlx5_modify_nic_vport_node_guid,FUNC_3
+mlx5_modify_vport_admin_state,FUNC_4
+modify_esw_vport_cvlan,FUNC_5
+esw_apply_vport_conf,FUNC_6
+esw,VAR_4
+vport,VAR_5
+vport_num,VAR_6
+flags,VAR_7

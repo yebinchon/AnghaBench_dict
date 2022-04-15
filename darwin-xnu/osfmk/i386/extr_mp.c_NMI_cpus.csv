@@ -1,0 +1,17 @@
+FALSE,VAR_0
+NMIPI_enable,FUNC_0
+TRUE,VAR_1
+cpu_NMI_interrupt,FUNC_1
+cpu_datap,FUNC_2
+cpu_is_running,FUNC_3
+cpu_pause,FUNC_4
+handle_pending_TLB_flushes,FUNC_5
+machine_timeout_suspended,FUNC_6
+ml_set_interrupts_enabled,FUNC_7
+panic,FUNC_8
+rdtsc64,FUNC_9
+real_ncpus,VAR_2
+NMI_cpus,FUNC_10
+cpu,VAR_3
+intrs_enabled,VAR_4
+tsc_timeout,VAR_5

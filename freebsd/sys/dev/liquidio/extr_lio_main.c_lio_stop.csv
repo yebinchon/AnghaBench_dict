@@ -1,0 +1,13 @@
+IFF_DRV_RUNNING,VAR_0
+LINK_STATE_DOWN,VAR_1
+LIO_IFSTATE_RUNNING,VAR_2
+if_getsoftc,FUNC_0
+if_link_state_change,FUNC_1
+if_setdrvflagbits,FUNC_2
+lio_dev_info,FUNC_3
+lio_ifstate_reset,FUNC_4
+lio_send_rx_ctrl_cmd,FUNC_5
+lio_stop,FUNC_6
+ifp,VAR_3
+lio,VAR_4
+oct,VAR_5

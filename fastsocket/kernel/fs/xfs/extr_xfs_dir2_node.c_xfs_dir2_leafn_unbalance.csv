@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+XFS_DIR2_LEAFN_MAGIC,VAR_0
+be16_to_cpu,FUNC_1
+be32_to_cpu,FUNC_2
+xfs_dir2_leaf_compact,FUNC_3
+xfs_dir2_leafn_check,FUNC_4
+xfs_dir2_leafn_moveents,FUNC_5
+xfs_dir2_leafn_order,FUNC_6
+xfs_dir2_leafn_unbalance,FUNC_7
+state,VAR_1
+drop_blk,VAR_2
+save_blk,VAR_3
+args,VAR_4
+drop_leaf,VAR_5
+save_leaf,VAR_6

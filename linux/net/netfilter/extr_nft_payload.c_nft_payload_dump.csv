@@ -1,0 +1,12 @@
+NFTA_PAYLOAD_BASE,VAR_0
+NFTA_PAYLOAD_DREG,VAR_1
+NFTA_PAYLOAD_LEN,VAR_2
+NFTA_PAYLOAD_OFFSET,VAR_3
+htonl,FUNC_0
+nft_dump_register,FUNC_1
+nft_expr_priv,FUNC_2
+nla_put_be32,FUNC_3
+nft_payload_dump,FUNC_4
+skb,VAR_4
+expr,VAR_5
+priv,VAR_6

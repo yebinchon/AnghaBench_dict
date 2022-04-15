@@ -1,0 +1,9 @@
+SD_DHCP_CLIENT_EVENT_STOP,VAR_0
+assert,FUNC_0
+client_initialize,FUNC_1
+client_notify,FUNC_2
+log_dhcp_client,FUNC_3
+log_dhcp_client_errno,FUNC_4
+client_stop,FUNC_5
+client,VAR_1
+error,VAR_2

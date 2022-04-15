@@ -1,0 +1,16 @@
+block_write_begin,FUNC_0
+nilfs_get_block,VAR_0
+nilfs_transaction_abort,FUNC_1
+nilfs_transaction_begin,FUNC_2
+nilfs_write_failed,FUNC_3
+unlikely,FUNC_4
+nilfs_write_begin,FUNC_5
+file,VAR_1
+mapping,VAR_2
+pos,VAR_3
+len,VAR_4
+flags,VAR_5
+pagep,VAR_6
+fsdata,VAR_7
+inode,VAR_8
+err,VAR_9

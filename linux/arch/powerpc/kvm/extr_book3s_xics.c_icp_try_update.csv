@@ -1,0 +1,11 @@
+BOOK3S_INTERRUPT_EXTERNAL,VAR_0
+XICS_DBG,FUNC_0
+cmpxchg64,FUNC_1
+kvmppc_book3s_queue_irqprio,FUNC_2
+kvmppc_fast_vcpu_kick,FUNC_3
+icp_try_update,FUNC_4
+icp,VAR_1
+old,VAR_2
+new,VAR_3
+change_self,VAR_4
+success,VAR_5

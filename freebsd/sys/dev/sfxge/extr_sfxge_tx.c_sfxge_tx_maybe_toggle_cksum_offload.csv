@@ -1,0 +1,14 @@
+CSUM_DELAY_DATA,VAR_0
+CSUM_DELAY_DATA_IPV6,VAR_1
+CSUM_DELAY_IP,VAR_2
+CSUM_TSO,VAR_3
+EFX_TXQ_CKSUM_IPV4,VAR_4
+EFX_TXQ_CKSUM_TCPUDP,VAR_5
+efx_tx_qdesc_checksum_create,FUNC_0
+sfxge_next_stmp,FUNC_1
+sfxge_tx_maybe_toggle_cksum_offload,FUNC_2
+txq,VAR_6
+mbuf,VAR_7
+pstmp,VAR_8
+new_hw_cksum_flags,VAR_9
+desc,VAR_10

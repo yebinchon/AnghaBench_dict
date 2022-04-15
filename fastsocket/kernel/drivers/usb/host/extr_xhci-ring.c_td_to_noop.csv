@@ -1,0 +1,16 @@
+TRB_CHAIN,VAR_0
+TRB_CYCLE,VAR_1
+TRB_TR_NOOP,VAR_2
+TRB_TYPE,FUNC_0
+TRB_TYPE_LINK_LE32,FUNC_1
+cpu_to_le32,FUNC_2
+next_trb,FUNC_3
+xhci_dbg,FUNC_4
+xhci_trb_virt_to_dma,FUNC_5
+td_to_noop,FUNC_6
+xhci,VAR_3
+ep_ring,VAR_4
+cur_td,VAR_5
+flip_cycle,VAR_6
+cur_seg,VAR_7
+cur_trb,VAR_8

@@ -1,0 +1,17 @@
+CMD_ABORT_XRI_CN,VAR_0
+CMD_CLOSE_XRI_CN,VAR_1
+FC_UNLOADING,VAR_2
+IOCB_ERROR,VAR_3
+LPFC_DRIVER_ABORTED,VAR_4
+LPFC_ELS_RING,VAR_5
+LPFC_IO_FABRIC,VAR_6
+lockdep_assert_held,FUNC_0
+lpfc_ignore_els_cmpl,VAR_7
+lpfc_sli_abort_iotag_issue,FUNC_1
+lpfc_sli_issue_abort_iotag,FUNC_2
+phba,VAR_8
+pring,VAR_9
+cmdiocb,VAR_10
+vport,VAR_11
+retval,VAR_12
+icmd,VAR_13

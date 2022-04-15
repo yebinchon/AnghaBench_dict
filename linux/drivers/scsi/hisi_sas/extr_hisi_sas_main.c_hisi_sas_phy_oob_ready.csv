@@ -1,0 +1,11 @@
+HISI_SAS_WAIT_PHYUP_TIMEOUT,VAR_0
+HZ,VAR_1
+add_timer,FUNC_0
+dev_dbg,FUNC_1
+jiffies,VAR_2
+timer_pending,FUNC_2
+hisi_sas_phy_oob_ready,FUNC_3
+hisi_hba,VAR_3
+phy_no,VAR_4
+phy,VAR_5
+dev,VAR_6

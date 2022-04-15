@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+EPERM,VAR_1
+KPC_CLASS_CONFIGURABLE_MASK,VAR_2
+KPC_CLASS_FIXED_MASK,VAR_3
+KPC_CLASS_POWER_MASK,VAR_4
+assert,FUNC_0
+kpc_config_lock,VAR_5
+kpc_controls_fixed_counters,FUNC_1
+kpc_get_configurable_pmc_mask,FUNC_2
+kpc_set_period_arch,FUNC_3
+kprintf,FUNC_4
+lck_mtx_lock,FUNC_5
+lck_mtx_unlock,FUNC_6
+kpc_set_period,FUNC_7
+classes,VAR_6
+val,VAR_7
+mp_config,VAR_8

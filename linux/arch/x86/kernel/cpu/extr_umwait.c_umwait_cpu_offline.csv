@@ -1,0 +1,5 @@
+MSR_IA32_UMWAIT_CONTROL,VAR_0
+orig_umwait_control_cached,VAR_1
+wrmsr,FUNC_0
+umwait_cpu_offline,FUNC_1
+cpu,VAR_2

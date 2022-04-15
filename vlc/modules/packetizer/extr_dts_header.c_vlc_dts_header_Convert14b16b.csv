@@ -1,0 +1,15 @@
+Buf14To16,FUNC_0
+DTS_SYNC_CORE_14BITS_BE,VAR_0
+DTS_SYNC_CORE_14BITS_LE,VAR_1
+DTS_SYNC_NONE,VAR_2
+VLC_DTS_HEADER_SIZE,VAR_3
+dts_header_getSyncword,FUNC_1
+vlc_dts_header_Convert14b16b,FUNC_2
+p_dst,VAR_4
+i_dst,VAR_5
+p_src,VAR_6
+i_src,VAR_7
+b_out_le,VAR_8
+i_size,VAR_9
+syncword,VAR_10
+i_ret,VAR_11

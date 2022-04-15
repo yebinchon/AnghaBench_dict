@@ -1,0 +1,13 @@
+OBJECT_META,VAR_0
+luaL_newmetatable,FUNC_0
+lua_pop,FUNC_1
+lua_pushcfunction,FUNC_2
+lua_pushstring,FUNC_3
+lua_pushvalue,FUNC_4
+lua_setfield,FUNC_5
+lua_ucl_object_gc,VAR_1
+lua_ucl_object_tostring,VAR_2
+lua_ucl_object_unwrap,VAR_3
+lua_ucl_object_validate,VAR_4
+lua_ucl_object_mt,FUNC_6
+L,VAR_5

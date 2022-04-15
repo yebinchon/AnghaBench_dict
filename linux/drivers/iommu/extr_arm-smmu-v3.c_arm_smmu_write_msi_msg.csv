@@ -1,0 +1,14 @@
+ARM_SMMU_MEMATTR_DEVICE_nGnRE,VAR_0
+MSI_CFG0_ADDR_MASK,VAR_1
+arm_smmu_msi_cfg,VAR_2
+dev_get_drvdata,FUNC_0
+msi_desc_to_dev,FUNC_1
+writel_relaxed,FUNC_2
+writeq_relaxed,FUNC_3
+arm_smmu_write_msi_msg,FUNC_4
+desc,VAR_3
+msg,VAR_4
+doorbell,VAR_5
+dev,VAR_6
+smmu,VAR_7
+cfg,VAR_8

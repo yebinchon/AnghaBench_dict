@@ -1,0 +1,16 @@
+BIT,FUNC_0
+PERIP_PWM_PDM_CONTROL,VAR_0
+PERIP_PWM_PDM_CONTROL_CH_MASK,VAR_1
+PERIP_PWM_PDM_CONTROL_CH_SHIFT,FUNC_1
+PWM_CTRL_CFG,VAR_2
+img_pwm_readl,FUNC_2
+img_pwm_writel,FUNC_3
+pm_runtime_get_sync,FUNC_4
+regmap_update_bits,FUNC_5
+to_img_pwm_chip,FUNC_6
+img_pwm_enable,FUNC_7
+chip,VAR_3
+pwm,VAR_4
+val,VAR_5
+pwm_chip,VAR_6
+ret,VAR_7

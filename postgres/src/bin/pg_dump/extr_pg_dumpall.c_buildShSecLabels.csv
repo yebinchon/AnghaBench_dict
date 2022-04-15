@@ -1,0 +1,15 @@
+PQclear,FUNC_0
+buildShSecLabelQuery,FUNC_1
+createPQExpBuffer,FUNC_2
+destroyPQExpBuffer,FUNC_3
+emitShSecLabels,FUNC_4
+executeQuery,FUNC_5
+buildShSecLabels,FUNC_6
+conn,VAR_0
+catalog_name,VAR_1
+objectId,VAR_2
+objtype,VAR_3
+objname,VAR_4
+buffer,VAR_5
+sql,VAR_6
+res,VAR_7

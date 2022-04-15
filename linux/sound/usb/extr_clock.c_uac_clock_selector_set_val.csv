@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+UAC2_CS_CUR,VAR_1
+UAC2_CX_CLOCK_SELECTOR,VAR_2
+USB_DIR_OUT,VAR_3
+USB_RECIP_INTERFACE,VAR_4
+USB_TYPE_CLASS,VAR_5
+snd_usb_ctl_msg,FUNC_0
+snd_usb_ctrl_intf,FUNC_1
+uac_clock_selector_get_val,FUNC_2
+usb_audio_err,FUNC_3
+usb_sndctrlpipe,FUNC_4
+uac_clock_selector_set_val,FUNC_5
+chip,VAR_6
+selector_id,VAR_7
+pin,VAR_8
+ret,VAR_9

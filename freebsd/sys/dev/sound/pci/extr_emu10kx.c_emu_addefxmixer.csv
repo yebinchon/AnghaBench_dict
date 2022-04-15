@@ -1,0 +1,16 @@
+CTLFLAG_RW,VAR_0
+CTLTYPE_INT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+emu_rm_gpr_alloc,FUNC_2
+emumix_set_fxvol,FUNC_3
+snprintf,FUNC_4
+sysctl_emu_mixer_control,VAR_3
+emu_addefxmixer,FUNC_5
+sc,VAR_4
+mix_name,VAR_5
+mix_id,VAR_6
+defvolume,VAR_7
+volgpr,VAR_8
+sysctl_name,VAR_9

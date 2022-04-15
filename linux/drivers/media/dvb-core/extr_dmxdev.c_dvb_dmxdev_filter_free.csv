@@ -1,0 +1,17 @@
+DMXDEV_STATE_FREE,VAR_0
+dvb_dmxdev_filter_reset,FUNC_0
+dvb_dmxdev_filter_state_set,FUNC_1
+dvb_dmxdev_filter_stop,FUNC_2
+dvb_vb2_is_streaming,FUNC_3
+dvb_vb2_release,FUNC_4
+dvb_vb2_stream_off,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+vfree,FUNC_10
+wake_up,FUNC_11
+dvb_dmxdev_filter_free,FUNC_12
+dmxdev,VAR_1
+dmxdevfilter,VAR_2
+mem,VAR_3

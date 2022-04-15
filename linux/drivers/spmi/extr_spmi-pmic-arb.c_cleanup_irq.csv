@@ -1,0 +1,16 @@
+BIT,FUNC_0
+QPNPINT_REG_EN_CLR,VAR_0
+QPNPINT_REG_LATCHED_CLR,VAR_1
+SPMI_CMD_EXT_WRITEL,VAR_2
+dev_err_ratelimited,FUNC_1
+pmic_arb_write_cmd,FUNC_2
+stub1,FUNC_3
+writel_relaxed,FUNC_4
+cleanup_irq,FUNC_5
+pmic_arb,VAR_3
+apid,VAR_4
+id,VAR_5
+ppid,VAR_6
+sid,VAR_7
+per,VAR_8
+irq_mask,VAR_9

@@ -1,0 +1,15 @@
+CA8210_SYNC_TIMEOUT,VAR_0
+dev_crit,FUNC_0
+dev_dbg,FUNC_1
+gpio_set_value,FUNC_2
+msecs_to_jiffies,FUNC_3
+msleep,FUNC_4
+reinit_completion,FUNC_5
+spi_get_drvdata,FUNC_6
+wait_for_completion_interruptible_timeout,FUNC_7
+ca8210_reset_send,FUNC_8
+spi,VAR_1
+ms,VAR_2
+pdata,VAR_3
+priv,VAR_4
+status,VAR_5

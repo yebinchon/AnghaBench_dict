@@ -1,0 +1,15 @@
+ALTERA_TSE_SW_RESET_WATCHDOG_CNTR,VAR_0
+MSGDMA_CSR_CTL_RESET,VAR_1
+MSGDMA_CSR_STAT_MASK,VAR_2
+MSGDMA_CSR_STAT_RESETTING,VAR_3
+control,VAR_4
+csrwr32,FUNC_0
+drv,VAR_5
+msgdma_csroffs,FUNC_1
+netif_warn,FUNC_2
+status,VAR_6
+tse_bit_is_clear,FUNC_3
+udelay,FUNC_4
+msgdma_reset,FUNC_5
+priv,VAR_7
+counter,VAR_8

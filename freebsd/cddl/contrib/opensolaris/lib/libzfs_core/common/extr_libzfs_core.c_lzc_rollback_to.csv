@@ -1,0 +1,11 @@
+ZFS_IOC_ROLLBACK,VAR_0
+fnvlist_add_string,FUNC_0
+fnvlist_alloc,FUNC_1
+lzc_ioctl,FUNC_2
+nvlist_free,FUNC_3
+lzc_rollback_to,FUNC_4
+fsname,VAR_1
+snapname,VAR_2
+args,VAR_3
+result,VAR_4
+err,VAR_5

@@ -1,0 +1,12 @@
+callout_drain,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+mtx_destroy,FUNC_3
+nic_unregister_interrupts,FUNC_4
+nicpf_free_res,FUNC_5
+pci_disable_busmaster,FUNC_6
+pci_iov_detach,FUNC_7
+nicpf_detach,FUNC_8
+dev,VAR_0
+nic,VAR_1
+err,VAR_2

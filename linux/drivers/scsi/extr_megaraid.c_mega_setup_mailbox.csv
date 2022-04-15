@@ -1,0 +1,14 @@
+BOARD_IOMAP,VAR_0
+ENABLE_MBOX_BYTE,VAR_1
+ENABLE_MBOX_REGION,VAR_2
+MBOX_PORT0,VAR_3
+MBOX_PORT1,VAR_4
+MBOX_PORT2,VAR_5
+MBOX_PORT3,VAR_6
+irq_ack,FUNC_0
+irq_enable,FUNC_1
+outb,FUNC_2
+pci_alloc_consistent,FUNC_3
+mega_setup_mailbox,FUNC_4
+adapter,VAR_7
+align,VAR_8

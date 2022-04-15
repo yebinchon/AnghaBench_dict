@@ -1,0 +1,13 @@
+CRYPT_SavePKCSToMem,FUNC_0
+CryptMemAlloc,FUNC_1
+ERROR_OUTOFMEMORY,VAR_0
+FALSE,VAR_1
+SetLastError,FUNC_2
+TRACE,FUNC_3
+WriteFile,FUNC_4
+CRYPT_SavePKCSToFile,FUNC_5
+store,VAR_2
+dwMsgAndCertEncodingType,VAR_3
+handle,VAR_4
+blob,VAR_5
+ret,VAR_6

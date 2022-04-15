@@ -1,0 +1,17 @@
+WM_DO_NOT_CHANGE_CURRENT_DESKTOP,VAR_0
+WM_PANGO_WORKSPACE_NAMES,VAR_1
+current_window_manager,VAR_2
+g_debug,FUNC_0
+g_strcmp0,FUNC_1
+xcb,VAR_3
+xcb_ewmh_get_supporting_wm_check_reply,FUNC_2
+xcb_ewmh_get_supporting_wm_check_unchecked,FUNC_3
+xcb_ewmh_get_utf8_strings_reply_wipe,FUNC_4
+xcb_ewmh_get_wm_name_reply,FUNC_5
+xcb_ewmh_get_wm_name_unchecked,FUNC_6
+xcb_stuff_get_root_window,FUNC_7
+x11_helper_discover_window_manager,FUNC_8
+wm_win,VAR_4
+cc,VAR_5
+wtitle,VAR_6
+cookie,VAR_7

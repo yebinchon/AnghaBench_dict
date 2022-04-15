@@ -1,0 +1,16 @@
+TEST_ASSERT,FUNC_0
+jerry_create_object,FUNC_1
+jerry_set_object_native_pointer,FUNC_2
+jerryx_close_handle_scope,FUNC_3
+jerryx_create_handle,FUNC_4
+jerryx_escape_handle,FUNC_5
+jerryx_handle_scope_get_current,FUNC_6
+jerryx_handle_scope_ok,VAR_0
+jerryx_open_escapable_handle_scope,FUNC_7
+native_info,VAR_1
+create_object_nested,FUNC_8
+times,VAR_2
+scope,VAR_3
+obj,VAR_4
+escaped,VAR_5
+status,VAR_6

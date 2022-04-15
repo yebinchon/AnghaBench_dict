@@ -1,0 +1,12 @@
+I2C_WRITE_MASK,VAR_0
+RTC_I2C_ADDRESS,VAR_1
+RTC_Y2K_MASK,VAR_2
+i2c_outb,FUNC_0
+i2c_start,FUNC_1
+i2c_stop,FUNC_2
+rtc_lock,VAR_3
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+to_bcd,FUNC_5
+set_rtc_time,FUNC_6
+rtc_tm,VAR_4

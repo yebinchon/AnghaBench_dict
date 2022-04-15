@@ -1,0 +1,17 @@
+BinaryMasterCopyFormat,VAR_0
+EXECUTE_SQL_TASK_TO_FILE_BINARY,VAR_1
+EXECUTE_SQL_TASK_TO_FILE_TEXT,VAR_2
+TASK_CLIENT_SIDE_QUEUED,VAR_3
+TaskAssignmentQuery,FUNC_0
+TaskStateHashEnter,FUNC_1
+appendStringInfo,FUNC_2
+makeStringInfo,FUNC_3
+quote_literal_cstr,FUNC_4
+TrackerQueueSqlTask,FUNC_5
+taskTracker,VAR_4
+task,VAR_5
+taskStateHash,VAR_6
+taskState,VAR_7
+taskAssignmentQuery,VAR_8
+sqlTaskQueryString,VAR_9
+escapedTaskQueryString,VAR_10

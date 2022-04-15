@@ -1,0 +1,14 @@
+FC_VFI_REGISTERED,VAR_0
+KERN_ERR,VAR_1
+LOG_DISCOVERY,VAR_2
+LOG_MBOX,VAR_3
+lpfc_printf_log,FUNC_0
+lpfc_shost_from_vport,FUNC_1
+mempool_free,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+lpfc_unregister_vfi_cmpl,FUNC_5
+phba,VAR_4
+mboxq,VAR_5
+vport,VAR_6
+shost,VAR_7

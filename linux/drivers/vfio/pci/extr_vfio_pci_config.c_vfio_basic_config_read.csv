@@ -1,0 +1,17 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_MEMORY,VAR_1
+cpu_to_le32,FUNC_0
+is_bar,FUNC_1
+le16_to_cpu,FUNC_2
+le32_to_cpu,FUNC_3
+vfio_bar_fixup,FUNC_4
+vfio_default_config_read,FUNC_5
+vfio_basic_config_read,FUNC_6
+vdev,VAR_2
+pos,VAR_3
+count,VAR_4
+perm,VAR_5
+offset,VAR_6
+val,VAR_7
+cmd,VAR_8
+tmp_val,VAR_9

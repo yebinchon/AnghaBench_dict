@@ -1,0 +1,17 @@
+BUG,FUNC_0
+DEBUG,FUNC_1
+EIO,VAR_0
+MTD_DEBUG_LEVEL3,VAR_1
+SECTOR_SHIFT,VAR_2
+SECTOR_SIZE,VAR_3
+memset,FUNC_2
+read_physical_sector,FUNC_3
+ssfdcr_readsect,FUNC_4
+dev,VAR_4
+logic_sect_no,VAR_5
+buf,VAR_6
+ssfdc,VAR_7
+sectors_per_block,VAR_8
+offset,VAR_9
+block_address,VAR_10
+sect_no,VAR_11

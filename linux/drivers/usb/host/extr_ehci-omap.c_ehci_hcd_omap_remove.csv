@@ -1,0 +1,13 @@
+dev_get_drvdata,FUNC_0
+hcd_to_ehci,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_put_sync,FUNC_3
+usb_phy_shutdown,FUNC_4
+usb_put_hcd,FUNC_5
+usb_remove_hcd,FUNC_6
+ehci_hcd_omap_remove,FUNC_7
+pdev,VAR_0
+dev,VAR_1
+hcd,VAR_2
+omap,VAR_3
+i,VAR_4

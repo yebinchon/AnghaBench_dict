@@ -1,0 +1,10 @@
+GIT_OBJECT_COMMIT,VAR_0
+GIT_STASH_DEFAULT,VAR_1
+assert_object_oid,FUNC_0
+cl_git_pass,FUNC_1
+git_oid_tostr_s,FUNC_2
+git_stash_save,FUNC_3
+repo,VAR_2
+signature,VAR_3
+stash_tip_oid,VAR_4
+test_stash_save__stashing_updates_the_reflog,FUNC_4

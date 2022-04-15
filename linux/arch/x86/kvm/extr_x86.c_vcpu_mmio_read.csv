@@ -1,0 +1,14 @@
+KVM_MMIO_BUS,VAR_0
+KVM_TRACE_MMIO_READ,VAR_1
+kvm_io_bus_read,FUNC_0
+kvm_iodevice_read,FUNC_1
+lapic_in_kernel,FUNC_2
+min,FUNC_3
+trace_kvm_mmio,FUNC_4
+vcpu_mmio_read,FUNC_5
+vcpu,VAR_2
+addr,VAR_3
+len,VAR_4
+v,VAR_5
+handled,VAR_6
+n,VAR_7

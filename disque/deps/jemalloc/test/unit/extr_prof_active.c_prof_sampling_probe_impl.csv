@@ -1,0 +1,11 @@
+assert_ptr_not_null,FUNC_0
+assert_zu_eq,FUNC_1
+dallocx,FUNC_2
+mallocx,FUNC_3
+prof_bt_count,FUNC_4
+prof_sampling_probe_impl,FUNC_5
+expect_sample,VAR_0
+func,VAR_1
+line,VAR_2
+p,VAR_3
+expected_backtraces,VAR_4

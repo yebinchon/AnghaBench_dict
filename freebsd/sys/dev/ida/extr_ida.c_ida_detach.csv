@@ -1,0 +1,9 @@
+bus_generic_detach,FUNC_0
+destroy_dev,FUNC_1
+device_delete_children,FUNC_2
+device_get_softc,FUNC_3
+ida_free,FUNC_4
+ida_detach,FUNC_5
+dev,VAR_0
+ida,VAR_1
+error,VAR_2

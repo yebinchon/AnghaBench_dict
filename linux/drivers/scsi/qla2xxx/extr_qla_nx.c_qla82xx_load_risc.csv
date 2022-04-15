@@ -1,0 +1,12 @@
+IS_QLA8044,FUNC_0
+IS_QLA82XX,FUNC_1
+qla8044_device_state_handler,FUNC_2
+qla8044_idc_lock,FUNC_3
+qla8044_idc_unlock,FUNC_4
+qla82xx_device_state_handler,FUNC_5
+qla83xx_reset_ownership,FUNC_6
+qla82xx_load_risc,FUNC_7
+vha,VAR_0
+srisc_addr,VAR_1
+rval,VAR_2
+ha,VAR_3

@@ -1,0 +1,13 @@
+CSUM_MANGLED_0,VAR_0
+NF_NAT_MANIP_SRC,VAR_1
+inet_proto_csum_replace2,FUNC_0
+nf_csum_update,FUNC_1
+__udp_manip_pkt,FUNC_2
+skb,VAR_2
+iphdroff,VAR_3
+hdr,VAR_4
+tuple,VAR_5
+maniptype,VAR_6
+do_csum,VAR_7
+portptr,VAR_8
+newport,VAR_9

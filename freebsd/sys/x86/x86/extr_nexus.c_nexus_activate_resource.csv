@@ -1,0 +1,16 @@
+RF_UNMAPPED,VAR_0
+SYS_RES_IOPORT,VAR_1
+SYS_RES_MEMORY,VAR_2
+nexus_map_resource,FUNC_0
+rman_activate_resource,FUNC_1
+rman_deactivate_resource,FUNC_2
+rman_get_flags,FUNC_3
+rman_set_mapping,FUNC_4
+nexus_activate_resource,FUNC_5
+bus,VAR_3
+child,VAR_4
+type,VAR_5
+rid,VAR_6
+r,VAR_7
+map,VAR_8
+error,VAR_9

@@ -1,0 +1,17 @@
+Assert,FUNC_0
+IsUnderPostmaster,VAR_0
+MemoryContextAlloc,FUNC_1
+NAMEDATALEN,VAR_1
+NamedLWLockTrancheRequestArray,VAR_2
+NamedLWLockTrancheRequests,VAR_3
+NamedLWLockTrancheRequestsAllocated,VAR_4
+StrNCpy,FUNC_2
+TopMemoryContext,VAR_5
+lock_named_request_allowed,VAR_6
+repalloc,FUNC_3
+strlen,FUNC_4
+RequestNamedLWLockTranche,FUNC_5
+tranche_name,VAR_7
+num_lwlocks,VAR_8
+request,VAR_9
+i,VAR_10

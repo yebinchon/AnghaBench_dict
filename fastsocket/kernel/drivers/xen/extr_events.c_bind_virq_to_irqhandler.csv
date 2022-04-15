@@ -1,0 +1,12 @@
+bind_virq_to_irq,FUNC_0
+request_irq,FUNC_1
+unbind_from_irq,FUNC_2
+bind_virq_to_irqhandler,FUNC_3
+virq,VAR_0
+cpu,VAR_1
+handler,VAR_2
+irqflags,VAR_3
+devname,VAR_4
+dev_id,VAR_5
+irq,VAR_6
+retval,VAR_7

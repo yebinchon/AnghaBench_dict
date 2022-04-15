@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+XFS_AGF_FLCOUNT,VAR_0
+XFS_AGF_FLFIRST,VAR_1
+XFS_AGF_FLLAST,VAR_2
+XFS_BUF_TO_AGF,FUNC_1
+_RET_IP_,VAR_3
+cpu_to_be32,FUNC_2
+trace_xfs_agfl_reset,FUNC_3
+xfs_agfl_size,FUNC_4
+xfs_alloc_log_agf,FUNC_5
+xfs_warn,FUNC_6
+xfs_agfl_reset,FUNC_7
+tp,VAR_4
+agbp,VAR_5
+pag,VAR_6
+mp,VAR_7
+agf,VAR_8

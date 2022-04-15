@@ -1,0 +1,11 @@
+CONFIG_ESP_CONSOLE_UART_NUM,VAR_0
+UART_FIFO_LEN,VAR_1
+fflush,FUNC_0
+fread,FUNC_1
+portTICK_PERIOD_MS,VAR_2
+stdin,VAR_3
+stdout,VAR_4
+uart_tx_wait_idle,FUNC_2
+vTaskDelay,FUNC_3
+flush_stdin_stdout,FUNC_4
+bitbucket,VAR_5

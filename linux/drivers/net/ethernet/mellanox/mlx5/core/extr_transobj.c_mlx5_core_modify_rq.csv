@@ -1,0 +1,14 @@
+MLX5_CMD_OP_MODIFY_RQ,VAR_0
+MLX5_SET,FUNC_0
+MLX5_ST_SZ_DW,FUNC_1
+memset,FUNC_2
+mlx5_cmd_exec,FUNC_3
+modify_rq_in,VAR_1
+modify_rq_out,VAR_2
+opcode,VAR_3
+mlx5_core_modify_rq,FUNC_4
+dev,VAR_4
+rqn,VAR_5
+in,VAR_6
+inlen,VAR_7
+out,VAR_8

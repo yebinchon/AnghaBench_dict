@@ -1,0 +1,13 @@
+OCS_HW_BLS_ACC,VAR_0
+OCS_IO_TYPE_BLS_RESP,VAR_1
+UINT16_MAX,VAR_2
+ocs_assert,FUNC_0
+ocs_memset,FUNC_1
+ocs_scsi_io_dispatch,FUNC_2
+ocs_target_bls_resp_cb,VAR_3
+ocs_target_send_bls_resp,FUNC_3
+io,VAR_4
+cb,VAR_5
+arg,VAR_6
+rc,VAR_7
+acc,VAR_8

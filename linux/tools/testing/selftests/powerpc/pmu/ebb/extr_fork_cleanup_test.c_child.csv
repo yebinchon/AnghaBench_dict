@@ -1,0 +1,10 @@
+FAIL_IF,FUNC_0
+SPRN_BESCR,VAR_0
+SPRN_EBBHR,VAR_1
+SPRN_EBBRR,VAR_2
+catch_sigill,FUNC_1
+event,VAR_3
+event_read,FUNC_2
+mfspr,FUNC_3
+write_pmc1,VAR_4
+child,FUNC_4

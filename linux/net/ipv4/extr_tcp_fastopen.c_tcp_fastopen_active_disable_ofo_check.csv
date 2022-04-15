@@ -1,0 +1,17 @@
+IFF_LOOPBACK,VAR_0
+TCPHDR_FIN,VAR_1
+TCP_SKB_CB,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+dst_release,FUNC_3
+sk_dst_get,FUNC_4
+skb_rb_first,FUNC_5
+skb_rb_next,FUNC_6
+sock_net,FUNC_7
+tcp_fastopen_active_disable,FUNC_8
+tcp_sk,FUNC_9
+tcp_fastopen_active_disable_ofo_check,FUNC_10
+sk,VAR_2
+tp,VAR_3
+dst,VAR_4
+skb,VAR_5

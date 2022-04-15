@@ -1,0 +1,13 @@
+SCSI_FIXED_SENSE_DATA_VALID_BIT,VAR_0
+sati_scsi_get_sense_data_buffer,FUNC_0
+sati_set_sense_data_byte,FUNC_1
+sati_scsi_fixed_sense_data_construct,FUNC_2
+sequence,VAR_1
+scsi_io,VAR_2
+scsi_status,VAR_3
+response_code,VAR_4
+sense_key,VAR_5
+additional_sense_code,VAR_6
+additional_sense_code_qualifier,VAR_7
+sense_data,VAR_8
+sense_len,VAR_9

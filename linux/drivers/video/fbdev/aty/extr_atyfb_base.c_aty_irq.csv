@@ -1,0 +1,17 @@
+CRTC_INT_CNTL,VAR_0
+CRTC_INT_EN_MASK,VAR_1
+CRTC_OFF_PITCH,VAR_2
+CRTC_VBLANK_INT,VAR_3
+CRTC_VBLANK_INT_AK,VAR_4
+IRQ_RETVAL,FUNC_0
+aty_ld_le32,FUNC_1
+aty_st_le32,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wake_up_interruptible,FUNC_5
+aty_irq,FUNC_6
+irq,VAR_5
+dev_id,VAR_6
+par,VAR_7
+handled,VAR_8
+int_cntl,VAR_9

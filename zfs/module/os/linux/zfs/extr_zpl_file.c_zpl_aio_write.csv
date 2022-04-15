@@ -1,0 +1,17 @@
+S_ISBLK,FUNC_0
+UIO_USERSPACE,VAR_0
+VERIFY_READ,VAR_1
+generic_segment_checks,FUNC_1
+generic_write_checks,FUNC_2
+zpl_iter_write_common,FUNC_3
+zpl_aio_write,FUNC_4
+kiocb,VAR_2
+iovp,VAR_3
+nr_segs,VAR_4
+pos,VAR_5
+file,VAR_6
+mapping,VAR_7
+ip,VAR_8
+isblk,VAR_9
+count,VAR_10
+ret,VAR_11

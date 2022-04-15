@@ -1,0 +1,17 @@
+CPUFREQ_POSTCHANGE,VAR_0
+CPUFREQ_PRECHANGE,VAR_1
+cbe_freqs,VAR_2
+cbe_switch_mutex,VAR_3
+cpufreq_frequency_table_target,FUNC_0
+cpufreq_notify_transition,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pr_debug,FUNC_4
+set_pmode,FUNC_5
+cbe_cpufreq_target,FUNC_6
+policy,VAR_4
+target_freq,VAR_5
+relation,VAR_6
+rc,VAR_7
+freqs,VAR_8
+cbe_pmode_new,VAR_9

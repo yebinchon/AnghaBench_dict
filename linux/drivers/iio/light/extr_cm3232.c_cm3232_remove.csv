@@ -1,0 +1,8 @@
+CM3232_CMD_ALS_DISABLE,VAR_0
+CM3232_REG_ADDR_CMD,VAR_1
+i2c_get_clientdata,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+iio_device_unregister,FUNC_2
+cm3232_remove,FUNC_3
+client,VAR_2
+indio_dev,VAR_3

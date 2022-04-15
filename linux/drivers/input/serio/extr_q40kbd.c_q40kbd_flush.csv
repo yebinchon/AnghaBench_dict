@@ -1,0 +1,10 @@
+INTERRUPT_REG,VAR_0
+KEYCODE_REG,VAR_1
+Q40_IRQ_KEYB_MASK,VAR_2
+master_inb,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+q40kbd_flush,FUNC_3
+q40kbd,VAR_3
+maxread,VAR_4
+flags,VAR_5

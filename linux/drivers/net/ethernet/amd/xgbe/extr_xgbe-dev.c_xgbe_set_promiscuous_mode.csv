@@ -1,0 +1,13 @@
+MAC_PFR,VAR_0
+NETIF_F_HW_VLAN_CTAG_FILTER,VAR_1
+PR,VAR_2
+XGMAC_IOREAD_BITS,FUNC_0
+XGMAC_IOWRITE_BITS,FUNC_1
+drv,VAR_3
+netif_dbg,FUNC_2
+xgbe_disable_rx_vlan_filtering,FUNC_3
+xgbe_enable_rx_vlan_filtering,FUNC_4
+xgbe_set_promiscuous_mode,FUNC_5
+pdata,VAR_4
+enable,VAR_5
+val,VAR_6

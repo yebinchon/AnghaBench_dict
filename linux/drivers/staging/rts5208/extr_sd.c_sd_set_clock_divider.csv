@@ -1,0 +1,12 @@
+REG_SD_CFG1,VAR_0
+SD_CLK_DIVIDE_0,VAR_1
+SD_CLK_DIVIDE_128,VAR_2
+SD_CLK_DIVIDE_256,VAR_3
+STATUS_SUCCESS,VAR_4
+rtsx_write_register,FUNC_0
+sd_set_clock_divider,FUNC_1
+chip,VAR_5
+clk_div,VAR_6
+retval,VAR_7
+mask,VAR_8
+val,VAR_9

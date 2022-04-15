@@ -1,0 +1,12 @@
+NFCTH_TUPLE,VAR_0
+NFCTH_TUPLE_L3PROTONUM,VAR_1
+NFCTH_TUPLE_L4PROTONUM,VAR_2
+htons,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put_be16,FUNC_3
+nla_put_u8,FUNC_4
+nfnl_cthelper_dump_tuple,FUNC_5
+skb,VAR_3
+helper,VAR_4
+nest_parms,VAR_5

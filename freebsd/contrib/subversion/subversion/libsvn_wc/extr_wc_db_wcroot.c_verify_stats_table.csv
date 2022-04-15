@@ -1,0 +1,15 @@
+STMT_HAVE_STAT1_TABLE,VAR_0
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_1
+SVN_WC__ENSURE_STAT1_TABLE,VAR_2
+svn_error_clear,FUNC_1
+svn_sqlite__get_statement,FUNC_2
+svn_sqlite__reset,FUNC_3
+svn_sqlite__step,FUNC_4
+svn_wc__db_install_schema_statistics,FUNC_5
+verify_stats_table,FUNC_6
+sdb,VAR_3
+format,VAR_4
+scratch_pool,VAR_5
+stmt,VAR_6
+have_row,VAR_7

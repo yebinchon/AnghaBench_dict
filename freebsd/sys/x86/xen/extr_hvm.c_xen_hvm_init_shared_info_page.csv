@@ -1,0 +1,15 @@
+DOMID_SELF,VAR_0
+HYPERVISOR_memory_op,FUNC_0
+HYPERVISOR_shared_info,VAR_1
+M_NOWAIT,VAR_2
+M_XENHVM,VAR_3
+PAGE_SHIFT,VAR_4
+PAGE_SIZE,VAR_5
+XENMAPSPACE_shared_info,VAR_6
+XENMEM_add_to_physmap,VAR_7
+malloc,FUNC_1
+panic,FUNC_2
+vtophys,FUNC_3
+xen_pv_domain,FUNC_4
+xen_hvm_init_shared_info_page,FUNC_5
+xatp,VAR_8

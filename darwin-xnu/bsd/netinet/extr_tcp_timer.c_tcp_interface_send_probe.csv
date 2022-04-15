@@ -1,0 +1,15 @@
+TCP_TIMERLIST_10MS_MODE,VAR_0
+TCP_TIMER_10MS_QUANTUM,VAR_1
+calculate_tcp_clock,FUNC_0
+lck_mtx_lock,FUNC_1
+lck_mtx_unlock,FUNC_2
+tcp_now,VAR_2
+tcp_sched_timerlist,FUNC_3
+tcp_timer_list,VAR_3
+tcpstat,VAR_4
+timer_diff,FUNC_4
+tcp_interface_send_probe,FUNC_5
+probe_if_index,VAR_5
+offset,VAR_6
+listp,VAR_7
+diff,VAR_8

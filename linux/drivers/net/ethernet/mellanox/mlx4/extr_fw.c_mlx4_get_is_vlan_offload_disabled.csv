@@ -1,0 +1,9 @@
+QUERY_FUNC_CAP_VLAN_OFFLOAD_DISABLE,VAR_0
+memset,FUNC_0
+mlx4_QUERY_FUNC_CAP,FUNC_1
+mlx4_get_is_vlan_offload_disabled,FUNC_2
+dev,VAR_1
+port,VAR_2
+vlan_offload_disabled,VAR_3
+func_cap,VAR_4
+err,VAR_5

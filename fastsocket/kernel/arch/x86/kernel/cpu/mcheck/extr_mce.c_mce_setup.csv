@@ -1,0 +1,11 @@
+MSR_IA32_MCG_CAP,VAR_0
+boot_cpu_data,VAR_1
+cpu_data,FUNC_0
+cpuid_eax,FUNC_1
+get_seconds,FUNC_2
+memset,FUNC_3
+rdmsrl,FUNC_4
+rdtscll,FUNC_5
+smp_processor_id,FUNC_6
+mce_setup,FUNC_7
+m,VAR_2

@@ -1,0 +1,14 @@
+CAPABILITY_SHIFT,FUNC_0
+CAP_SYS_ADMIN,VAR_0
+SD_BUS_ERROR_ACCESS_DENIED,VAR_1
+SD_BUS_VTABLE_UNPRIVILEGED,VAR_2
+assert,FUNC_1
+sd_bus_error_setf,FUNC_2
+sd_bus_query_sender_privilege,FUNC_3
+check_access,FUNC_4
+bus,VAR_3
+m,VAR_4
+c,VAR_5
+error,VAR_6
+cap,VAR_7
+r,VAR_8

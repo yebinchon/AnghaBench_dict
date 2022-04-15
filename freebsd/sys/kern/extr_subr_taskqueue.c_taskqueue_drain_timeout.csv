@@ -1,0 +1,9 @@
+DT_DRAIN_IN_PROGRESS,VAR_0
+KASSERT,FUNC_0
+TQ_LOCK,FUNC_1
+TQ_UNLOCK,FUNC_2
+callout_drain,FUNC_3
+taskqueue_drain,FUNC_4
+taskqueue_drain_timeout,FUNC_5
+queue,VAR_1
+timeout_task,VAR_2

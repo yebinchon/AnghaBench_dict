@@ -1,0 +1,14 @@
+Assert,FUNC_0
+GETSTRUCT,FUNC_1
+MemoryContextSwitchTo,FUNC_2
+SCAN_CONTINUE,VAR_0
+lappend,FUNC_3
+palloc,FUNC_4
+ts_catalog_delete,FUNC_5
+scan_del_materialization_invalidation_tuple,FUNC_6
+ti,VAR_1
+data,VAR_2
+scan_state,VAR_3
+old_ctx,VAR_4
+invalidation_form,VAR_5
+invalidation,VAR_6

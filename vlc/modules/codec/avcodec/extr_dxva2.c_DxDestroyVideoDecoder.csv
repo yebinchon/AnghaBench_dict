@@ -1,0 +1,13 @@
+D3D9_Destroy,FUNC_0
+D3D9_ReleaseDevice,FUNC_1
+FreeLibrary,FUNC_2
+IDirect3DDeviceManager9_CloseDeviceHandle,FUNC_3
+IDirect3DDeviceManager9_Release,FUNC_4
+IDirect3DSurface9_Release,FUNC_5
+IDirectXVideoDecoderService_Release,FUNC_6
+IDirectXVideoDecoder_Release,FUNC_7
+free,FUNC_8
+DxDestroyVideoDecoder,FUNC_9
+opaque,VAR_0
+sys,VAR_1
+i,VAR_2

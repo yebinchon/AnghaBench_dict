@@ -1,0 +1,10 @@
+CMD_READ_STATUS,VAR_0
+SPIBUS_TRANSFER,FUNC_0
+STATUS_WIP,VAR_1
+memset,FUNC_1
+mx25l_wait_for_device_ready,FUNC_2
+sc,VAR_2
+txBuf,VAR_3
+rxBuf,VAR_4
+cmd,VAR_5
+err,VAR_6

@@ -1,0 +1,13 @@
+BAND_AAC,VAR_0
+GET_BSS_ROLE,FUNC_0
+HostCmd_ACT_GEN_SET,VAR_1
+HostCmd_CMD_802_11_ASSOCIATE,VAR_2
+ISSUPP_11ACENABLED,FUNC_1
+MWIFIEX_BSS_ROLE_STA,VAR_3
+NL80211_IFTYPE_STATION,VAR_4
+mwifiex_send_cmd,FUNC_2
+mwifiex_set_11ac_ba_params,FUNC_3
+mwifiex_set_ba_params,FUNC_4
+mwifiex_associate,FUNC_5
+priv,VAR_5
+bss_desc,VAR_6

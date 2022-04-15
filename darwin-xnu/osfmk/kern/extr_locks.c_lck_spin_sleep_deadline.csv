@@ -1,0 +1,16 @@
+LCK_SLEEP_MASK,VAR_0
+LCK_SLEEP_UNLOCK,VAR_1
+THREAD_CONTINUE_NULL,VAR_2
+THREAD_WAITING,VAR_3
+assert_wait_deadline,FUNC_0
+lck_spin_lock,FUNC_1
+lck_spin_unlock,FUNC_2
+panic,FUNC_3
+thread_block,FUNC_4
+lck_spin_sleep_deadline,FUNC_5
+lck,VAR_4
+lck_sleep_action,VAR_5
+event,VAR_6
+interruptible,VAR_7
+deadline,VAR_8
+res,VAR_9

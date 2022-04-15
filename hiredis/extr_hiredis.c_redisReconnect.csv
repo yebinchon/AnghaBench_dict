@@ -1,0 +1,17 @@
+REDIS_CONN_TCP,VAR_0
+REDIS_CONN_UNIX,VAR_1
+REDIS_ERR,VAR_2
+REDIS_ERR_OTHER,VAR_3
+__redisSetError,FUNC_0
+memset,FUNC_1
+redisContextConnectBindTcp,FUNC_2
+redisContextConnectUnix,FUNC_3
+redisNetClose,FUNC_4
+redisReaderCreate,FUNC_5
+redisReaderFree,FUNC_6
+sdsempty,FUNC_7
+sdsfree,FUNC_8
+strlen,FUNC_9
+stub1,FUNC_10
+redisReconnect,FUNC_11
+c,VAR_4

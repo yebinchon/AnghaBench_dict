@@ -1,0 +1,17 @@
+EIO,VAR_0
+ST21NFCA_NFC_DEP_DID_BIT_SET,FUNC_0
+ST21NFCA_NFC_DEP_NAD_BIT_SET,FUNC_1
+ST21NFCA_NFC_DEP_PFB_PNI,FUNC_2
+ST21NFCA_NFC_DEP_PFB_TYPE,FUNC_3
+nfc_hci_get_clientdata,FUNC_4
+nfc_tm_data_received,FUNC_5
+pr_err,FUNC_6
+skb_pull,FUNC_7
+skb_trim,FUNC_8
+st21nfca_tm_recv_dep_req,FUNC_9
+hdev,VAR_1
+skb,VAR_2
+dep_req,VAR_3
+size,VAR_4
+r,VAR_5
+info,VAR_6

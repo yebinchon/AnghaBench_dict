@@ -1,0 +1,17 @@
+NETDEV_TX_BUSY,VAR_0
+NETDEV_TX_LOCKED,VAR_1
+NETDEV_TX_OK,VAR_2
+PCH_GBE_DESC_UNUSED,FUNC_0
+netdev_priv,FUNC_1
+netif_stop_queue,FUNC_2
+pch_gbe_tx_queue,FUNC_3
+pr_debug,FUNC_4
+spin_trylock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+unlikely,FUNC_7
+pch_gbe_xmit_frame,FUNC_8
+skb,VAR_3
+netdev,VAR_4
+adapter,VAR_5
+tx_ring,VAR_6
+flags,VAR_7

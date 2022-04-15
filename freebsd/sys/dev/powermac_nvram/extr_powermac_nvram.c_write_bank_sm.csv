@@ -1,0 +1,13 @@
+NVRAM_SIZE,VAR_0
+OUTB_DELAY,FUNC_0
+SM_FLASH_CMD_CLEAR_STATUS,VAR_1
+SM_FLASH_CMD_RESET,VAR_2
+SM_FLASH_CMD_WRITE_SETUP,VAR_3
+device_printf,FUNC_1
+outb,FUNC_2
+wait_operation_complete_sm,FUNC_3
+write_bank_sm,FUNC_4
+dev,VAR_4
+bank,VAR_5
+data,VAR_6
+i,VAR_7

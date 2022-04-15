@@ -1,0 +1,17 @@
+AddWaitEdge,FUNC_0
+GetLocksMethodTable,FUNC_1
+IsConflictingLockMask,FUNC_2
+IsProcessWaitingForSafeOperations,FUNC_3
+IsSameLockGroup,FUNC_4
+LOCKBIT_ON,FUNC_5
+AddEdgesForWaitQueue,FUNC_6
+waitGraph,VAR_0
+waitingProc,VAR_1
+remaining,VAR_2
+waitLock,VAR_3
+lockMethodTable,VAR_4
+conflictMask,VAR_5
+waitQueue,VAR_6
+queueSize,VAR_7
+currentProc,VAR_8
+awaitMask,VAR_9

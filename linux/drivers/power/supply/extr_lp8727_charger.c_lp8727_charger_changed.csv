@@ -1,0 +1,11 @@
+LP8727_CHGCTRL2,VAR_0
+LP8727_ICHG_SHIFT,VAR_1
+dev_get_drvdata,FUNC_0
+lp8727_is_charger_attached,FUNC_1
+lp8727_write_byte,FUNC_2
+lp8727_charger_changed,FUNC_3
+psy,VAR_2
+pchg,VAR_3
+eoc_level,VAR_4
+ichg,VAR_5
+val,VAR_6

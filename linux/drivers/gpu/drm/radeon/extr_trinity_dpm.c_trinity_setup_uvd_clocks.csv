@@ -1,0 +1,17 @@
+CG_MISC_REG,VAR_0
+RREG32,FUNC_0
+WREG32,FUNC_1
+radeon_set_uvd_clocks,FUNC_2
+trinity_get_pi,FUNC_3
+trinity_gfx_powergating_enable,FUNC_4
+trinity_setup_uvd_clock_table,FUNC_5
+trinity_setup_uvd_dpm_interval,FUNC_6
+trinity_uvd_clocks_equal,FUNC_7
+trinity_uvd_clocks_zero,FUNC_8
+trinity_uvd_dpm_config,FUNC_9
+trinity_setup_uvd_clocks,FUNC_10
+rdev,VAR_1
+new_rps,VAR_2
+old_rps,VAR_3
+pi,VAR_4
+tmp,VAR_5

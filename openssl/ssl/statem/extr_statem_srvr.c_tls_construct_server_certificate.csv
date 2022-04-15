@@ -1,0 +1,11 @@
+ERR_R_INTERNAL_ERROR,VAR_0
+SSL_AD_INTERNAL_ERROR,VAR_1
+SSL_F_TLS_CONSTRUCT_SERVER_CERTIFICATE,VAR_2
+SSL_IS_TLS13,FUNC_0
+SSLfatal,FUNC_1
+WPACKET_put_bytes_u8,FUNC_2
+ssl3_output_cert_chain,FUNC_3
+tls_construct_server_certificate,FUNC_4
+s,VAR_3
+pkt,VAR_4
+cpk,VAR_5

@@ -1,0 +1,12 @@
+__need_more_worker,FUNC_0
+get_pwq,FUNC_1
+list_add_tail,FUNC_2
+set_work_pwq,FUNC_3
+smp_mb,FUNC_4
+wake_up_worker,FUNC_5
+insert_work,FUNC_6
+pwq,VAR_0
+work,VAR_1
+head,VAR_2
+extra_flags,VAR_3
+pool,VAR_4

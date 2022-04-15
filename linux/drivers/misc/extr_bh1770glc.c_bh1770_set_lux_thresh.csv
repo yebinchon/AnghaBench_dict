@@ -1,0 +1,12 @@
+BH1770_LUX_RANGE,VAR_0
+EINVAL,VAR_1
+bh1770_lux_update_thresholds,FUNC_0
+kstrtoul,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+bh1770_set_lux_thresh,FUNC_4
+chip,VAR_2
+target,VAR_3
+buf,VAR_4
+thresh,VAR_5
+ret,VAR_6

@@ -1,0 +1,7 @@
+ASPEED_PTCR_CTRL,VAR_0
+ASPEED_PTCR_CTRL_FAN_NUM_EN,FUNC_0
+regmap_update_bits,FUNC_1
+aspeed_set_fan_tach_ch_enable,FUNC_2
+regmap,VAR_1
+fan_tach_ch,VAR_2
+enable,VAR_3

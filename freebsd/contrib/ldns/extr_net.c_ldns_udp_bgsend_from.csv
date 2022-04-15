@@ -1,0 +1,12 @@
+bind,FUNC_0
+close_socket,FUNC_1
+ldns_udp_connect,FUNC_2
+ldns_udp_send_query,FUNC_3
+ldns_udp_bgsend_from,FUNC_4
+qbin,VAR_0
+to,VAR_1
+tolen,VAR_2
+from,VAR_3
+fromlen,VAR_4
+timeout,VAR_5
+sockfd,VAR_6

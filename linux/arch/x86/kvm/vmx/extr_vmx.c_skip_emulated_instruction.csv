@@ -1,0 +1,14 @@
+EMULTYPE_SKIP,VAR_0
+EXIT_REASON_EPT_MISCONFIG,VAR_1
+VM_EXIT_INSTRUCTION_LEN,VAR_2
+X86_FEATURE_HYPERVISOR,VAR_3
+kvm_emulate_instruction,FUNC_0
+kvm_rip_read,FUNC_1
+kvm_rip_write,FUNC_2
+static_cpu_has,FUNC_3
+to_vmx,FUNC_4
+vmcs_read32,FUNC_5
+vmx_set_interrupt_shadow,FUNC_6
+skip_emulated_instruction,FUNC_7
+vcpu,VAR_4
+rip,VAR_5

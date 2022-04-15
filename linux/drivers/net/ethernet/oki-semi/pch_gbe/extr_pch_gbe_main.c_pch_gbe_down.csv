@@ -1,0 +1,17 @@
+atomic_set,FUNC_0
+del_timer_sync,FUNC_1
+napi_disable,FUNC_2
+netif_carrier_off,FUNC_3
+netif_stop_queue,FUNC_4
+pch_gbe_clean_rx_ring,FUNC_5
+pch_gbe_clean_tx_ring,FUNC_6
+pch_gbe_free_irq,FUNC_7
+pch_gbe_irq_disable,FUNC_8
+pch_gbe_reset,FUNC_9
+pci_channel_io_normal,VAR_0
+pci_free_consistent,FUNC_10
+pch_gbe_down,FUNC_11
+adapter,VAR_1
+netdev,VAR_2
+pdev,VAR_3
+rx_ring,VAR_4

@@ -1,0 +1,14 @@
+HDMI0_AUDIO_PACKET_CONTROL,VAR_0
+HDMI0_AUDIO_TEST_EN,VAR_1
+WREG32_P,FUNC_0
+r600_hdmi_is_audio_buffer_filled,FUNC_1
+to_radeon_encoder,FUNC_2
+r600_hdmi_audio_workaround,FUNC_3
+encoder,VAR_2
+dev,VAR_3
+rdev,VAR_4
+radeon_encoder,VAR_5
+dig,VAR_6
+offset,VAR_7
+hdmi_audio_workaround,VAR_8
+value,VAR_9

@@ -1,0 +1,11 @@
+IFF_DRV_RUNNING,VAR_0
+VTNET_CORE_LOCK_ASSERT,FUNC_0
+callout_stop,FUNC_1
+virtio_stop,FUNC_2
+vtnet_disable_interrupts,FUNC_3
+vtnet_drain_rxtx_queues,FUNC_4
+vtnet_stop_rendezvous,FUNC_5
+vtnet_stop,FUNC_6
+sc,VAR_1
+dev,VAR_2
+ifp,VAR_3

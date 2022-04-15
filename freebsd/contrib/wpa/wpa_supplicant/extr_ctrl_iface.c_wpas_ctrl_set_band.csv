@@ -1,0 +1,14 @@
+EVENT_CHANNEL_LIST_CHANGED,VAR_0
+REGDOM_SET_BY_USER,VAR_1
+REGDOM_TYPE_UNKNOWN,VAR_2
+WPA_SETBAND_2G,VAR_3
+WPA_SETBAND_5G,VAR_4
+WPA_SETBAND_AUTO,VAR_5
+os_memset,FUNC_0
+os_strcmp,FUNC_1
+wpa_drv_setband,FUNC_2
+wpa_supplicant_event,FUNC_3
+wpas_ctrl_set_band,FUNC_4
+wpa_s,VAR_6
+band,VAR_7
+event,VAR_8

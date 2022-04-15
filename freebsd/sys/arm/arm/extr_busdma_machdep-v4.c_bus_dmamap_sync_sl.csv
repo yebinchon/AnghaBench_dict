@@ -1,0 +1,15 @@
+KASSERT,FUNC_0
+VM_PAGE_TO_PHYS,FUNC_1
+atop,FUNC_2
+bus_dmamap_sync_buf,FUNC_3
+pmap_quick_enter_page,FUNC_4
+pmap_quick_remove_page,FUNC_5
+ptoa,FUNC_6
+round_page,FUNC_7
+bus_dmamap_sync_sl,FUNC_8
+sl,VAR_0
+op,VAR_1
+bufaligned,VAR_2
+tempvaddr,VAR_3
+curpage,VAR_4
+npages,VAR_5

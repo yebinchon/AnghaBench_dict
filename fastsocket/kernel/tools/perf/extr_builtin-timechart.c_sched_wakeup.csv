@@ -1,0 +1,17 @@
+TRACE_FLAG_HARDIRQ,VAR_0
+TRACE_FLAG_SOFTIRQ,VAR_1
+TYPE_BLOCKED,VAR_2
+TYPE_NONE,VAR_3
+TYPE_WAITING,VAR_4
+find_create_pid,FUNC_0
+pid_put_sample,FUNC_1
+wake_events,VAR_5
+zalloc,FUNC_2
+sched_wakeup,FUNC_3
+cpu,VAR_6
+timestamp,VAR_7
+pid,VAR_8
+te,VAR_9
+p,VAR_10
+wake,VAR_11
+we,VAR_12

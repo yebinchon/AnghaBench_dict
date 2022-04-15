@@ -1,0 +1,14 @@
+UVC_BUF_STATE_QUEUED,VAR_0
+lockdep_assert_irqs_enabled,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+uvc_queue_return_buffers,FUNC_3
+uvc_queue_to_stream,FUNC_4
+uvc_video_start_streaming,FUNC_5
+vb2_get_drv_priv,FUNC_6
+uvc_start_streaming,FUNC_7
+vq,VAR_1
+count,VAR_2
+queue,VAR_3
+stream,VAR_4
+ret,VAR_5

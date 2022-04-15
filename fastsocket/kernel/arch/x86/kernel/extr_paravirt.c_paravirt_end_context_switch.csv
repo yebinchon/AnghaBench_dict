@@ -1,0 +1,10 @@
+BUG_ON,FUNC_0
+PARAVIRT_LAZY_CPU,VAR_0
+TIF_LAZY_MMU_UPDATES,VAR_1
+arch_enter_lazy_mmu_mode,FUNC_1
+leave_lazy,FUNC_2
+preemptible,FUNC_3
+task_thread_info,FUNC_4
+test_and_clear_ti_thread_flag,FUNC_5
+paravirt_end_context_switch,FUNC_6
+next,VAR_2

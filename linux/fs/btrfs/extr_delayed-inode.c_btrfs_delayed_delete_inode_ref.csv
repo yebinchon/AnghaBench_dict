@@ -1,0 +1,16 @@
+BTRFS_DELAYED_NODE_DEL_IREF,VAR_0
+BTRFS_FS_LOG_RECOVERING,VAR_1
+EAGAIN,VAR_2
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+atomic_inc,FUNC_2
+btrfs_get_or_create_delayed_node,FUNC_3
+btrfs_release_delayed_node,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+set_bit,FUNC_7
+test_bit,FUNC_8
+btrfs_delayed_delete_inode_ref,FUNC_9
+inode,VAR_3
+fs_info,VAR_4
+delayed_node,VAR_5

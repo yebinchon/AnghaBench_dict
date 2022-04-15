@@ -1,0 +1,11 @@
+FLAG_REGISTERED,VAR_0
+INIT_LIST_HEAD,FUNC_0
+list_add,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+rpc_server_list,VAR_1
+rpc_server_list_lock,VAR_2
+rpc_server_register,FUNC_4
+rpc_servers_active,VAR_3
+msm_rpc_create_server,FUNC_5
+server,VAR_4

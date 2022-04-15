@@ -1,0 +1,17 @@
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_ASSERT_NOT_EQUAL,FUNC_1
+UNITY_FREERTOS_PRIORITY,VAR_0
+printf,FUNC_2
+task_count,VAR_1
+vTaskDelay,FUNC_3
+vTaskDelete,FUNC_4
+vTaskResume,FUNC_5
+vTaskSuspend,FUNC_6
+xTaskCreatePinnedToCore,FUNC_7
+test_suspend_resume,FUNC_8
+target_core,VAR_2
+counter,VAR_3
+counter_task,VAR_4
+TEST_ITERATIONS,VAR_5
+i,VAR_6
+suspend_count,VAR_7

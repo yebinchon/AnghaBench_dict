@@ -1,0 +1,17 @@
+BPF_PROG_TYPE_CGROUP_SKB,VAR_0
+CHECK_FAIL,FUNC_0
+bpf_object__close,FUNC_1
+bpf_prog_load,FUNC_2
+errno,VAR_1
+printf,FUNC_3
+pthread_create,FUNC_4
+pthread_join,FUNC_5
+spin_lock_thread,VAR_2
+test_spinlock,FUNC_6
+file,VAR_3
+thread_id,VAR_4
+obj,VAR_5
+prog_fd,VAR_6
+err,VAR_7
+i,VAR_8
+ret,VAR_9

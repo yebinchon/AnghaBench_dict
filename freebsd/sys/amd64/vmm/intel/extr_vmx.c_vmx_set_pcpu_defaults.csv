@@ -1,0 +1,16 @@
+VCPU_MIGRATIONS,VAR_0
+VMCS_HOST_GDTR_BASE,VAR_1
+VMCS_HOST_GS_BASE,VAR_2
+VMCS_HOST_TR_BASE,VAR_3
+curcpu,VAR_4
+vmcs_write,FUNC_0
+vmm_get_host_gdtrbase,FUNC_1
+vmm_get_host_gsbase,FUNC_2
+vmm_get_host_trbase,FUNC_3
+vmm_stat_incr,FUNC_4
+vmx_invvpid,FUNC_5
+vmx_set_pcpu_defaults,FUNC_6
+vmx,VAR_5
+vcpu,VAR_6
+pmap,VAR_7
+vmxstate,VAR_8

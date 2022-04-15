@@ -1,0 +1,17 @@
+TPM_CAP_PROP_MANUFACTURER,VAR_0
+TPM_CAP_VERSION_1_1,VAR_1
+TPM_CAP_VERSION_1_2,VAR_2
+be32_to_cpu,FUNC_0
+sprintf,FUNC_1
+to_tpm_chip,FUNC_2
+tpm1_getcap,FUNC_3
+tpm_put_ops,FUNC_4
+tpm_try_get_ops,FUNC_5
+caps_show,FUNC_6
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+chip,VAR_6
+rc,VAR_7
+str,VAR_8
+cap,VAR_9

@@ -1,0 +1,16 @@
+COMPRESSOR_SLOTS_CHUNK_SIZE,VAR_0
+COMPRESSOR_SLOTS_PER_CHUNK,VAR_1
+compressor_pager_lock,FUNC_0
+compressor_pager_lookup,FUNC_1
+compressor_pager_slots_chunk_free,FUNC_2
+compressor_pager_unlock,FUNC_3
+kfree,FUNC_4
+vm_compressor_pager_reap_pages,FUNC_5
+mem_obj,VAR_2
+flags,VAR_3
+pager,VAR_4
+num_chunks,VAR_5
+failures,VAR_6
+i,VAR_7
+chunk,VAR_8
+num_slots_freed,VAR_9

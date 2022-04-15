@@ -1,0 +1,16 @@
+AV_RB32,FUNC_0
+CHECK_SEEK_FAILED,VAR_0
+CHECK_WRONG_HEADER,VAR_1
+SEEK_SET,VAR_2
+avio_read,FUNC_1
+avio_seek,FUNC_2
+avpriv_mpegaudio_decode_header,FUNC_3
+ff_mpa_check_header,FUNC_4
+check,FUNC_5
+pb,VAR_3
+pos,VAR_4
+ret_header,VAR_5
+ret,VAR_6
+header_buf,VAR_7
+header,VAR_8
+sd,VAR_9

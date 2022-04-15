@@ -1,0 +1,14 @@
+VIA_WDT_MMIO_LEN,VAR_0
+del_timer_sync,FUNC_0
+iounmap,FUNC_1
+mmio,VAR_1
+pci_disable_device,FUNC_2
+release_mem_region,FUNC_3
+release_resource,FUNC_4
+timer,VAR_2
+watchdog_unregister_device,FUNC_5
+wdt_dev,VAR_3
+wdt_mem,VAR_4
+wdt_res,VAR_5
+wdt_remove,FUNC_6
+pdev,VAR_6

@@ -1,0 +1,16 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+GIT_PERMS_IS_EXEC,FUNC_0
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+cl_skip,FUNC_3
+g_repo,VAR_2
+git_checkout_tree,FUNC_4
+git_commit_free,FUNC_5
+git_commit_lookup,FUNC_6
+git_oid_fromstr,FUNC_7
+read_filemode,FUNC_8
+test_checkout_tree__filemode_preserved_in_workdir,FUNC_9
+executable_oid,VAR_3
+commit,VAR_4
+opts,VAR_5

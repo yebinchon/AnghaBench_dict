@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+SCIF_LOG_OBJECT_DOMAIN_DISCOVERY,VAR_0
+SCIF_LOG_OBJECT_REMOTE_DEVICE,VAR_1
+SCIF_LOG_TRACE,FUNC_1
+sci_base_object_get_logger,FUNC_2
+scif_sas_controller_allocate_smp_phy,FUNC_3
+scif_sas_smp_phy_construct,FUNC_4
+scif_sas_smp_remote_device_populate_smp_phy_list,FUNC_5
+fw_device,VAR_2
+this_smp_phy,VAR_3
+expander_phy_id,VAR_4

@@ -1,0 +1,10 @@
+MV88E6XXX_TAI_OVERFLOW_PERIOD,VAR_0
+dw_overflow_to_chip,FUNC_0
+mv88e6xxx_ptp_gettime,FUNC_1
+schedule_delayed_work,FUNC_2
+to_delayed_work,FUNC_3
+mv88e6xxx_ptp_overflow_check,FUNC_4
+work,VAR_1
+dw,VAR_2
+chip,VAR_3
+ts,VAR_4

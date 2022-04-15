@@ -1,0 +1,14 @@
+M_ASSERTPKTHDR,FUNC_0
+M_HASHTYPE_GET,FUNC_1
+M_HASHTYPE_SET,FUNC_2
+NETISR_CPUID_NONE,VAR_0
+RSS_HASH_PKT_INGRESS,VAR_1
+rss_hash2cpuid,FUNC_3
+rss_mbuf_software_hash_v4,FUNC_4
+rss_soft_m2cpuid_v4,FUNC_5
+m,VAR_2
+source,VAR_3
+cpuid,VAR_4
+hash_val,VAR_5
+hash_type,VAR_6
+ret,VAR_7

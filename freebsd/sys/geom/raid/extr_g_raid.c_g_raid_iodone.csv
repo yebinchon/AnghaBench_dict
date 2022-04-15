@@ -1,0 +1,16 @@
+BIO_DELETE,VAR_0
+BIO_WRITE,VAR_1
+G_RAID_LOGREQ,FUNC_0
+SX_LOCKED,VAR_2
+bioq_remove,FUNC_1
+g_io_deliver,FUNC_2
+g_raid_finish_with_locked_ranges,FUNC_3
+g_raid_is_in_locked_range,FUNC_4
+getmicrouptime,FUNC_5
+sx_assert,FUNC_6
+time_uptime,VAR_3
+g_raid_iodone,FUNC_7
+bp,VAR_4
+error,VAR_5
+sc,VAR_6
+vol,VAR_7

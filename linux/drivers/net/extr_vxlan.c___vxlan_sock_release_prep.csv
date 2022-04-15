@@ -1,0 +1,14 @@
+UDP_TUNNEL_TYPE_VXLAN,VAR_0
+UDP_TUNNEL_TYPE_VXLAN_GPE,VAR_1
+VXLAN_F_GPE,VAR_2
+hlist_del_rcu,FUNC_0
+net_generic,FUNC_1
+refcount_dec_and_test,FUNC_2
+sock_net,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+udp_tunnel_notify_del_rx_port,FUNC_6
+vxlan_net_id,VAR_3
+__vxlan_sock_release_prep,FUNC_7
+vs,VAR_4
+vn,VAR_5

@@ -1,0 +1,15 @@
+DEFINE_WAIT,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__add_wait_queue_entry_tail,FUNC_1
+__remove_wait_queue,FUNC_2
+__set_current_state,FUNC_3
+likely,FUNC_4
+list_empty,FUNC_5
+schedule,FUNC_6
+set_current_state,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+wait,VAR_2
+run_down,FUNC_10
+m,VAR_3

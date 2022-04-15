@@ -1,0 +1,15 @@
+IWL_MVM_TRAFFIC_LOW,VAR_0
+MVM_LL_PERIOD,VAR_1
+MVM_TCM_PERIOD,VAR_2
+NUM_MAC_INDEX_DRIVER,VAR_3
+jiffies,VAR_4
+memset,FUNC_0
+schedule_delayed_work,FUNC_1
+smp_mb,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+iwl_mvm_resume_tcm,FUNC_5
+mvm,VAR_5
+mac,VAR_6
+low_latency,VAR_7
+mdata,VAR_8

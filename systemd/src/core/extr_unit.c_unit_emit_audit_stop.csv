@@ -1,0 +1,9 @@
+AUDIT_SERVICE_START,VAR_0
+AUDIT_SERVICE_STOP,VAR_1
+UNIT_INACTIVE,VAR_2
+UNIT_SERVICE,VAR_3
+assert,FUNC_0
+manager_send_unit_audit,FUNC_1
+unit_emit_audit_stop,FUNC_2
+u,VAR_4
+state,VAR_5

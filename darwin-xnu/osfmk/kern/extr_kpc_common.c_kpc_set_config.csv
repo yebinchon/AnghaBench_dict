@@ -1,0 +1,16 @@
+EPERM,VAR_0
+KPC_CLASS_CONFIGURABLE_MASK,VAR_1
+KPC_CLASS_POWER_MASK,VAR_2
+KPC_CLASS_RAWPMU_MASK,VAR_3
+assert,FUNC_0
+kpc_config_lock,VAR_4
+kpc_get_configurable_pmc_mask,FUNC_1
+kpc_multiple_clients,FUNC_2
+kpc_set_config_arch,FUNC_3
+lck_mtx_lock,FUNC_4
+lck_mtx_unlock,FUNC_5
+kpc_set_config,FUNC_6
+classes,VAR_5
+configv,VAR_6
+ret,VAR_7
+mp_config,VAR_8

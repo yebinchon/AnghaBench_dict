@@ -1,0 +1,15 @@
+BUS_DMASYNC_PREWRITE,VAR_0
+XDMA_MEM_TO_MEM,VAR_1
+XR_TYPE_PHYS_ADDR,VAR_2
+bus_dmamap_sync,FUNC_0
+device_printf,FUNC_1
+xdma_begin,FUNC_2
+xdma_channel_alloc,FUNC_3
+xdma_ofw_get,FUNC_4
+xdma_request,FUNC_5
+xdma_setup_intr,FUNC_6
+xdmatest_intr,VAR_3
+xdmatest_test,FUNC_7
+sc,VAR_4
+err,VAR_5
+i,VAR_6

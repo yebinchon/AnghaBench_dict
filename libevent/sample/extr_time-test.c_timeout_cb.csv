@@ -1,0 +1,16 @@
+event_add,FUNC_0
+event_is_persistent,VAR_0
+evutil_gettimeofday,FUNC_1
+evutil_timerclear,FUNC_2
+evutil_timersub,FUNC_3
+lasttime,VAR_1
+printf,FUNC_4
+timeout_cb,FUNC_5
+fd,VAR_2
+event,VAR_3
+arg,VAR_4
+newtime,VAR_5
+difference,VAR_6
+timeout,VAR_7
+elapsed,VAR_8
+tv,VAR_9

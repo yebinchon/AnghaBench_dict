@@ -1,0 +1,12 @@
+RSDT_OFFSET,VAR_0
+XHYVE_ACPI_BASE,VAR_1
+XSDT_OFFSET,VAR_2
+acpitbl_checksum,FUNC_0
+acpitbl_write32,FUNC_1
+acpitbl_write64,FUNC_2
+acpitbl_write8,FUNC_3
+memcpy,FUNC_4
+tb,VAR_3
+acpitbl_build_rdsp,FUNC_5
+rdsp,VAR_4
+rdsp_tmpl,VAR_5

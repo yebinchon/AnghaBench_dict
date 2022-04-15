@@ -1,0 +1,12 @@
+HN_RX_FLAG_ATTACHED,VAR_0
+HN_TX_FLAG_ATTACHED,VAR_1
+KASSERT,FUNC_0
+hn_chan_detach,FUNC_1
+vmbus_subchan_drain,FUNC_2
+vmbus_subchan_get,FUNC_3
+vmbus_subchan_rel,FUNC_4
+hn_detach_allchans,FUNC_5
+sc,VAR_2
+subchans,VAR_3
+subchan_cnt,VAR_4
+i,VAR_5

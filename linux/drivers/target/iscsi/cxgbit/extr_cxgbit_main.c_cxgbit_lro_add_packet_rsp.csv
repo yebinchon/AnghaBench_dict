@@ -1,0 +1,15 @@
+PDUCBF_RX_HDR,VAR_0
+PDUCBF_RX_STATUS,VAR_1
+be32_to_cpu,FUNC_0
+cxgbit_process_ddpvld,FUNC_1
+cxgbit_skb_lro_cb,FUNC_2
+cxgbit_skb_lro_pdu_cb,FUNC_3
+ntohl,FUNC_4
+ntohs,FUNC_5
+cxgbit_lro_add_packet_rsp,FUNC_6
+skb,VAR_2
+op,VAR_3
+rsp,VAR_4
+lro_cb,VAR_5
+pdu_cb,VAR_6
+cpl,VAR_7

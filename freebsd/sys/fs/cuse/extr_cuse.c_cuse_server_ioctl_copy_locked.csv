@@ -1,0 +1,17 @@
+CUSE_BUFFER_MAX,VAR_0
+CUSE_BUF_MIN_PTR,VAR_1
+EFAULT,VAR_2
+ENOMEM,VAR_3
+ENXIO,VAR_4
+copyin,FUNC_0
+copyout,FUNC_1
+cuse_lock,FUNC_2
+cuse_unlock,FUNC_3
+cv_signal,FUNC_4
+cuse_server_ioctl_copy_locked,FUNC_5
+pccmd,VAR_5
+pchk,VAR_6
+isread,VAR_7
+p_proc,VAR_8
+offset,VAR_9
+error,VAR_10

@@ -1,0 +1,17 @@
+FAN_TO_REG,FUNC_0
+LM63_REG_TACH_LIMIT_LSB,VAR_0
+LM63_REG_TACH_LIMIT_MSB,VAR_1
+i2c_get_clientdata,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtoul,FUNC_5
+to_i2c_client,FUNC_6
+set_fan,FUNC_7
+dev,VAR_2
+dummy,VAR_3
+buf,VAR_4
+count,VAR_5
+client,VAR_6
+data,VAR_7
+val,VAR_8

@@ -1,0 +1,13 @@
+fm10k_fifo_tail_offset,FUNC_0
+fm10k_mbx_head_sub,FUNC_1
+fm10k_read_reg,FUNC_2
+wmb,FUNC_3
+fm10k_mbx_read_copy,FUNC_4
+hw,VAR_0
+mbx,VAR_1
+fifo,VAR_2
+mbmem,VAR_3
+tail,VAR_4
+end,VAR_5
+len,VAR_6
+head,VAR_7

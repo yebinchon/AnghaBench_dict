@@ -1,0 +1,12 @@
+RK30_WDT_BASE,VAR_0
+RK30_WDT_PSIZE,VAR_1
+WDOG_CTRL,VAR_2
+WDOG_CTRL_EN,VAR_3
+WDOG_CTRL_RSP_MODE,VAR_4
+WDOG_CTRL_RST_PULSE,VAR_5
+WDOG_TORR,VAR_6
+bus_space_map,FUNC_0
+bus_space_write_4,FUNC_1
+fdtbus_bs_tag,VAR_7
+rk30_wd_watchdog_reset,FUNC_2
+bsh,VAR_8

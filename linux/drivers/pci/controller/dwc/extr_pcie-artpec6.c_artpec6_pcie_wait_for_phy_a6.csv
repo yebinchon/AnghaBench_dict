@@ -1,0 +1,15 @@
+NOCCFG,VAR_0
+NOCCFG_POWER_PCIE_IDLE,VAR_1
+NOCCFG_POWER_PCIE_IDLEACK,VAR_2
+PHY_COSPLLLOCK,VAR_3
+PHY_STATUS,VAR_4
+artpec6_pcie_readl,FUNC_0
+dev_err,FUNC_1
+readl,FUNC_2
+usleep_range,FUNC_3
+artpec6_pcie_wait_for_phy_a6,FUNC_4
+artpec6_pcie,VAR_5
+pci,VAR_6
+dev,VAR_7
+val,VAR_8
+retries,VAR_9

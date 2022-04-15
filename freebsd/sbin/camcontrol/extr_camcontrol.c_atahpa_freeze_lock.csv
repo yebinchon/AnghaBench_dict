@@ -1,0 +1,15 @@
+AP_PROTO_NON_DATA,VAR_0
+ATA_HPA_FEAT_FREEZE,VAR_1
+ATA_SET_MAX_ADDRESS,VAR_2
+ATA_SET_MAX_ADDRESS48,VAR_3
+CAM_DIR_NONE,VAR_4
+MSG_SIMPLE_Q_TAG,VAR_5
+ata_do_cmd,FUNC_0
+atahpa_freeze_lock,FUNC_1
+device,VAR_6
+retry_count,VAR_7
+timeout,VAR_8
+ccb,VAR_9
+is48bit,VAR_10
+cmd,VAR_11
+protocol,VAR_12

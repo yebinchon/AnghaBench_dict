@@ -1,0 +1,17 @@
+Assert,FUNC_0
+ConditionVariableBroadcast,FUNC_1
+LWLockAcquire,FUNC_2
+LWLockRelease,FUNC_3
+LW_SHARED,VAR_0
+MyProcPid,VAR_1
+MyReplicationSlot,VAR_2
+RS_TEMPORARY,VAR_3
+ReplicationSlotControlLock,VAR_4
+ReplicationSlotCtl,VAR_5
+ReplicationSlotDropPtr,FUNC_4
+SpinLockAcquire,FUNC_5
+SpinLockRelease,FUNC_6
+max_replication_slots,VAR_6
+ReplicationSlotCleanup,FUNC_7
+i,VAR_7
+s,VAR_8

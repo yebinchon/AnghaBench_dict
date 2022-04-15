@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+SCIF_LOG_ERROR,FUNC_1
+SCIF_LOG_OBJECT_IO_REQUEST,VAR_0
+SCI_CONTROLLER_INVALID_IO_TAG,VAR_1
+sci_base_object_get_logger,FUNC_2
+scif_sas_controller_allocate_internal_request,FUNC_3
+scif_sas_internal_io_request_construct_smp,FUNC_4
+scif_sas_io_request_construct_smp,FUNC_5
+scif_sas_smp_request_build,FUNC_6
+fw_controller,VAR_2
+fw_device,VAR_3
+smp_request,VAR_4
+external_request_object,VAR_5
+external_memory,VAR_6
+internal_io_memory,VAR_7

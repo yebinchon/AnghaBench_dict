@@ -1,0 +1,10 @@
+NPCM7XX_REG_TCSR0,VAR_0
+NPCM7XX_Tx_COUNTEN,VAR_1
+readl,FUNC_0
+timer_of_base,FUNC_1
+to_timer_of,FUNC_2
+writel,FUNC_3
+npcm7xx_timer_resume,FUNC_4
+evt,VAR_2
+to,VAR_3
+val,VAR_4

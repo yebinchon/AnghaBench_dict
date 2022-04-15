@@ -1,0 +1,16 @@
+C_ERR,VAR_0
+C_OK,VAR_1
+RDBFLAGS_NONE,VAR_2
+RDBFLAGS_REPLICATION,VAR_3
+RDB_EOF_MARK_SIZE,VAR_4
+errno,VAR_5
+getRandomHexChars,FUNC_0
+rdbSaveRio,FUNC_1
+rioWrite,FUNC_2
+startSaving,FUNC_3
+stopSaving,FUNC_4
+rdbSaveRioWithEOFMark,FUNC_5
+rdb,VAR_6
+error,VAR_7
+rsi,VAR_8
+eofmark,VAR_9

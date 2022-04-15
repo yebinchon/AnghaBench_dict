@@ -1,0 +1,16 @@
+TX_THRESHOLD,VAR_0
+__netif_tx_lock,FUNC_0
+__netif_tx_unlock,FUNC_1
+ftgmac100_tx_buf_avail,FUNC_2
+ftgmac100_tx_buf_cleanable,FUNC_3
+ftgmac100_tx_complete_packet,FUNC_4
+netdev_get_tx_queue,FUNC_5
+netif_queue_stopped,FUNC_6
+netif_wake_queue,FUNC_7
+smp_mb,FUNC_8
+smp_processor_id,FUNC_9
+unlikely,FUNC_10
+ftgmac100_tx_complete,FUNC_11
+priv,VAR_1
+netdev,VAR_2
+txq,VAR_3

@@ -1,0 +1,17 @@
+ASID_MASK,VAR_0
+BARRIER,VAR_1
+current_cpu_data,VAR_2
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+printk,FUNC_2
+r3k_have_wired_reg,VAR_3
+read_c0_entryhi,FUNC_3
+read_c0_wired,FUNC_4
+tlb_write_indexed,FUNC_5
+write_c0_entryhi,FUNC_6
+write_c0_entrylo0,FUNC_7
+write_c0_index,FUNC_8
+local_flush_tlb_all,FUNC_9
+flags,VAR_4
+old_ctx,VAR_5
+entry,VAR_6

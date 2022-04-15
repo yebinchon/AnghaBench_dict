@@ -1,0 +1,16 @@
+CPT_FLAG_SRIOV_ENABLED,VAR_0
+ENODEV,VAR_1
+PCI_EXT_CAP_ID_SRIOV,VAR_2
+PCI_SRIOV_TOTAL_VF,VAR_3
+dev_err,FUNC_0
+dev_info,FUNC_1
+pci_enable_sriov,FUNC_2
+pci_find_ext_capability,FUNC_3
+pci_read_config_word,FUNC_4
+cpt_sriov_init,FUNC_5
+cpt,VAR_4
+num_vfs,VAR_5
+pos,VAR_6
+err,VAR_7
+total_vf_cnt,VAR_8
+pdev,VAR_9

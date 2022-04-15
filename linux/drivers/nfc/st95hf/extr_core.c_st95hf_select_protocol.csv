@@ -1,0 +1,14 @@
+CMD_ISO14443A_PROTOCOL_SELECT,VAR_0
+CMD_ISO14443B_PROTOCOL_SELECT,VAR_1
+CMD_ISO15693_PROTOCOL_SELECT,VAR_2
+EINVAL,VAR_3
+dev_err,FUNC_0
+secondary_configuration_type4a,FUNC_1
+secondary_configuration_type4b,FUNC_2
+st95hf_send_recv_cmd,FUNC_3
+usleep_range,FUNC_4
+st95hf_select_protocol,FUNC_5
+stcontext,VAR_4
+type,VAR_5
+result,VAR_6
+dev,VAR_7

@@ -1,0 +1,11 @@
+__IXGBEVF_HANG_CHECK_ARMED,VAR_0
+clear_bit,FUNC_0
+clear_check_for_tx_hang,FUNC_1
+ixgbevf_get_tx_completed,FUNC_2
+ixgbevf_get_tx_pending,FUNC_3
+test_and_set_bit,FUNC_4
+ixgbevf_check_tx_hang,FUNC_5
+tx_ring,VAR_1
+tx_done,VAR_2
+tx_done_old,VAR_3
+tx_pending,VAR_4

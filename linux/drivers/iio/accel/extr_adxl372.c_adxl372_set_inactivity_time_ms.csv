@@ -1,0 +1,13 @@
+ADXL372_ODR_6400HZ,VAR_0
+ADXL372_TIME_INACT_H,VAR_1
+ADXL372_TIME_INACT_L,VAR_2
+DIV_ROUND_CLOSEST,FUNC_0
+regmap_write,FUNC_1
+adxl372_set_inactivity_time_ms,FUNC_2
+st,VAR_3
+inact_time_ms,VAR_4
+reg_val_h,VAR_5
+reg_val_l,VAR_6
+res,VAR_7
+scale_factor,VAR_8
+ret,VAR_9

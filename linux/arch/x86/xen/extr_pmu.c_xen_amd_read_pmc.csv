@@ -1,0 +1,16 @@
+XENPMU_IRQ_PROCESSING,VAR_0
+amd_counters_base,VAR_1
+amd_msr_step,VAR_2
+counters,VAR_3
+field_offset,FUNC_0
+get_xenpmu_data,FUNC_1
+get_xenpmu_flags,FUNC_2
+native_read_msr_safe,FUNC_3
+xen_amd_read_pmc,FUNC_4
+counter,VAR_4
+ctxt,VAR_5
+counter_regs,VAR_6
+xenpmu_data,VAR_7
+xenpmu_flags,VAR_8
+msr,VAR_9
+err,VAR_10

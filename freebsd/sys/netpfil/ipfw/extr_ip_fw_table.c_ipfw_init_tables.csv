@@ -1,0 +1,16 @@
+IPFW_ADD_OBJ_REWRITER,FUNC_0
+IPFW_ADD_SOPT_HANDLER,FUNC_1
+M_IPFW,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+V_fw_tables_max,VAR_3
+ipfw_objhash_create,FUNC_2
+ipfw_table_algo_init,FUNC_3
+ipfw_table_value_init,FUNC_4
+malloc,FUNC_5
+opcodes,VAR_4
+scodes,VAR_5
+ipfw_init_tables,FUNC_6
+ch,VAR_6
+first,VAR_7
+tcfg,VAR_8

@@ -1,0 +1,11 @@
+call_rcu,FUNC_0
+ip_vs_dest_dst_rcu_free,VAR_0
+lockdep_is_held,FUNC_1
+rcu_assign_pointer,FUNC_2
+rcu_dereference_protected,FUNC_3
+__ip_vs_dst_set,FUNC_4
+dest,VAR_1
+dest_dst,VAR_2
+dst,VAR_3
+dst_cookie,VAR_4
+old,VAR_5

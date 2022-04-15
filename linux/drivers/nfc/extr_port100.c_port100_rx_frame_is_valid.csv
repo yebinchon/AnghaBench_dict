@@ -1,0 +1,11 @@
+PORT100_FRAME_CHECKSUM,FUNC_0
+PORT100_FRAME_EXT,VAR_0
+PORT100_FRAME_SOF,VAR_1
+cpu_to_be16,FUNC_1
+le16_to_cpu,FUNC_2
+port100_checksum,FUNC_3
+port100_data_checksum,FUNC_4
+port100_rx_frame_is_valid,FUNC_5
+_frame,VAR_2
+checksum,VAR_3
+frame,VAR_4

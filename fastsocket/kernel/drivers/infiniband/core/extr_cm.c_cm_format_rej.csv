@@ -1,0 +1,17 @@
+CM_MSG_RESPONSE_OTHER,VAR_0
+CM_MSG_RESPONSE_REP,VAR_1
+CM_MSG_RESPONSE_REQ,VAR_2
+CM_REJ_ATTR_ID,VAR_3
+cm_format_mad_hdr,FUNC_0
+cm_rej_set_msg_rejected,FUNC_1
+cm_rej_set_reject_info_len,FUNC_2
+cpu_to_be16,FUNC_3
+memcpy,FUNC_4
+cm_format_rej,FUNC_5
+rej_msg,VAR_4
+cm_id_priv,VAR_5
+reason,VAR_6
+ari,VAR_7
+ari_length,VAR_8
+private_data,VAR_9
+private_data_len,VAR_10

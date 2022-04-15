@@ -1,0 +1,16 @@
+PAGE_MASK,VAR_0
+PAGE_SHIFT,VAR_1
+PAGE_SIZE,VAR_2
+flush_tlb_all,FUNC_0
+mtsp,FUNC_1
+pdtlb,FUNC_2
+pitlb,FUNC_3
+purge_tlb_end,FUNC_4
+purge_tlb_start,FUNC_5
+split_tlb,VAR_3
+__flush_tlb_range,FUNC_6
+sid,VAR_4
+start,VAR_5
+end,VAR_6
+npages,VAR_7
+flags,VAR_8

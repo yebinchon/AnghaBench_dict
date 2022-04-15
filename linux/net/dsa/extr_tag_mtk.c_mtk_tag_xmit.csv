@@ -1,0 +1,16 @@
+ETH_ALEN,VAR_0
+MTK_HDR_LEN,VAR_1
+MTK_HDR_XMIT_DP_BIT_MASK,VAR_2
+MTK_HDR_XMIT_TAGGED_TPID_8100,VAR_3
+MTK_HDR_XMIT_UNTAGGED,VAR_4
+dsa_slave_to_port,FUNC_0
+memmove,FUNC_1
+skb_cow_head,FUNC_2
+skb_push,FUNC_3
+skb_vlan_tagged,FUNC_4
+mtk_tag_xmit,FUNC_5
+skb,VAR_5
+dev,VAR_6
+dp,VAR_7
+mtk_tag,VAR_8
+is_vlan_skb,VAR_9

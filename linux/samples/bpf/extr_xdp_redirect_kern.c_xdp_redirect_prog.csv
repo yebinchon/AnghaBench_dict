@@ -1,0 +1,17 @@
+XDP_DROP,VAR_0
+bpf_map_lookup_elem,FUNC_0
+bpf_redirect,FUNC_1
+rxcnt,VAR_1
+swap_src_dst_mac,FUNC_2
+tx_port,VAR_2
+xdp_redirect_prog,FUNC_3
+ctx,VAR_3
+data_end,VAR_4
+data,VAR_5
+eth,VAR_6
+rc,VAR_7
+ifindex,VAR_8
+port,VAR_9
+value,VAR_10
+key,VAR_11
+nh_off,VAR_12

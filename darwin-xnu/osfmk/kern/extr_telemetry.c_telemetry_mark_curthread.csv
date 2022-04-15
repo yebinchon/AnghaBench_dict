@@ -1,0 +1,14 @@
+AST_TELEMETRY_KERNEL,VAR_0
+AST_TELEMETRY_PMI,VAR_1
+AST_TELEMETRY_USER,VAR_2
+FALSE,VAR_3
+ast_propagate,FUNC_0
+current_thread,FUNC_1
+telemetry_is_active,FUNC_2
+telemetry_needs_record,VAR_4
+thread_ast_set,FUNC_3
+telemetry_mark_curthread,FUNC_4
+interrupted_userspace,VAR_5
+pmi,VAR_6
+ast_bits,VAR_7
+thread,VAR_8

@@ -1,0 +1,15 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_config_free,FUNC_2
+git_config_get_string,FUNC_3
+git_config_open_ondisk,FUNC_4
+git_config_set_string,FUNC_5
+git_config_snapshot,FUNC_6
+test_config_write__add_value_which_needs_quotes,FUNC_7
+cfg,VAR_0
+base,VAR_1
+str1,VAR_2
+str2,VAR_3
+str3,VAR_4
+str4,VAR_5
+str5,VAR_6

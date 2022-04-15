@@ -1,0 +1,13 @@
+MAX77686_RTC_WRITE,VAR_0
+REG_RTC_UPDATE0,VAR_1
+RTC_RBUDR_SHIFT,VAR_2
+RTC_UDR_SHIFT,VAR_3
+dev_err,FUNC_0
+regmap_update_bits,FUNC_1
+usleep_range,FUNC_2
+max77686_rtc_update,FUNC_3
+info,VAR_4
+op,VAR_5
+ret,VAR_6
+data,VAR_7
+delay,VAR_8

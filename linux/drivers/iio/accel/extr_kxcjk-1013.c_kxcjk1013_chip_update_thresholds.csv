@@ -1,0 +1,10 @@
+KXCJK1013_REG_WAKE_THRES,VAR_0
+KXCJK1013_REG_WAKE_TIMER,VAR_1
+KXTF9,VAR_2
+KXTF9_REG_WAKE_THRESH,VAR_3
+dev_err,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+kxcjk1013_chip_update_thresholds,FUNC_2
+data,VAR_4
+waketh_reg,VAR_5
+ret,VAR_6

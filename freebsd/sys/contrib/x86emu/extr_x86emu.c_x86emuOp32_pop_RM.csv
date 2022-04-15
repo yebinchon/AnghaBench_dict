@@ -1,0 +1,10 @@
+decode_rl_address,FUNC_0
+decode_rl_long_register,FUNC_1
+fetch_decode_modrm,FUNC_2
+pop_long,FUNC_3
+store_data_long,FUNC_4
+x86emuOp32_pop_RM,FUNC_5
+emu,VAR_0
+destoffset,VAR_1
+destval,VAR_2
+destreg,VAR_3

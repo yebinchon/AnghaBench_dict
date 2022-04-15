@@ -1,0 +1,13 @@
+MPR_CM_FLAGS_USE_CCB,VAR_0
+MPR_CM_FLAGS_USE_UIO,VAR_1
+bus_dmamap_load,FUNC_0
+bus_dmamap_load_ccb,FUNC_1
+bus_dmamap_load_uio,FUNC_2
+mpr_add_dmaseg,FUNC_3
+mpr_data_cb,VAR_2
+mpr_data_cb2,VAR_3
+mpr_enqueue_request,FUNC_4
+mpr_map_command,FUNC_5
+sc,VAR_4
+cm,VAR_5
+error,VAR_6

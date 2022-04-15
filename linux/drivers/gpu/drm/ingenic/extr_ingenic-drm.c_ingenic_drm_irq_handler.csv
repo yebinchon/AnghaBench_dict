@@ -1,0 +1,11 @@
+IRQ_HANDLED,VAR_0
+JZ_LCD_STATE_EOF_IRQ,VAR_1
+JZ_REG_LCD_STATE,VAR_2
+drm_crtc_handle_vblank,FUNC_0
+regmap_read,FUNC_1
+regmap_update_bits,FUNC_2
+ingenic_drm_irq_handler,FUNC_3
+irq,VAR_3
+arg,VAR_4
+priv,VAR_5
+state,VAR_6

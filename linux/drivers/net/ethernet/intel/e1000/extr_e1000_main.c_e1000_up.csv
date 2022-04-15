@@ -1,0 +1,12 @@
+E1000_ICS_LSC,VAR_0
+ICS,VAR_1
+__E1000_DOWN,VAR_2
+clear_bit,FUNC_0
+e1000_configure,FUNC_1
+e1000_irq_enable,FUNC_2
+ew32,FUNC_3
+napi_enable,FUNC_4
+netif_wake_queue,FUNC_5
+e1000_up,FUNC_6
+adapter,VAR_3
+hw,VAR_4

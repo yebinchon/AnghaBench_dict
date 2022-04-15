@@ -1,0 +1,17 @@
+Assert,FUNC_0
+AssertTXNLsnOrder,FUNC_1
+ERROR,VAR_0
+ReorderBufferTXNByXid,FUNC_2
+ReorderBufferTransferSnapToParent,FUNC_3
+dlist_delete,FUNC_4
+dlist_push_tail,FUNC_5
+elog,FUNC_6
+ReorderBufferAssignChild,FUNC_7
+rb,VAR_1
+xid,VAR_2
+subxid,VAR_3
+lsn,VAR_4
+txn,VAR_5
+subtxn,VAR_6
+new_top,VAR_7
+new_sub,VAR_8

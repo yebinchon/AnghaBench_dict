@@ -1,0 +1,13 @@
+XFS_B_TO_FSB,FUNC_0
+XFS_B_TO_FSBT,FUNC_1
+_RET_IP_,VAR_0
+trace_xfs_reflink_end_cow,FUNC_2
+trace_xfs_reflink_end_cow_error,FUNC_3
+xfs_reflink_end_cow_extent,FUNC_4
+xfs_reflink_end_cow,FUNC_5
+ip,VAR_1
+offset,VAR_2
+count,VAR_3
+offset_fsb,VAR_4
+end_fsb,VAR_5
+error,VAR_6

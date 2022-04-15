@@ -1,0 +1,17 @@
+CVMX_USBNX_DMA0_INB_CHN0,FUNC_0
+CVMX_USB_LOG_CALLED,FUNC_1
+CVMX_USB_LOG_PARAM,FUNC_2
+CVMX_USB_RETURN,FUNC_3
+MAX_CHANNELS,VAR_0
+USB_FIFO_ADDRESS,FUNC_4
+cvmx_phys_to_ptr,FUNC_5
+cvmx_read64_uint64,FUNC_6
+cvmx_write64_uint32,FUNC_7
+__cvmx_usb_fill_tx_hw,FUNC_8
+usb,VAR_1
+fifo,VAR_2
+available,VAR_3
+i,VAR_4
+ptr,VAR_5
+csr_address,VAR_6
+words,VAR_7

@@ -1,0 +1,13 @@
+amdgpu_ring_emit_reg_write_reg_wait,FUNC_0
+amdgpu_ring_emit_wreg,FUNC_1
+gmc_v9_0_get_invalidate_req,FUNC_2
+lower_32_bits,FUNC_3
+upper_32_bits,FUNC_4
+gmc_v9_0_emit_flush_gpu_tlb,FUNC_5
+ring,VAR_0
+vmid,VAR_1
+pd_addr,VAR_2
+adev,VAR_3
+hub,VAR_4
+req,VAR_5
+eng,VAR_6

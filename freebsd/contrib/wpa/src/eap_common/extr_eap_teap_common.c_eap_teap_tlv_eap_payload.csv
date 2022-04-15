@@ -1,0 +1,12 @@
+MSG_DEBUG,VAR_0
+MSG_ERROR,VAR_1
+TEAP_TLV_EAP_PAYLOAD,VAR_2
+TEAP_TLV_MANDATORY,VAR_3
+eap_teap_put_tlv_buf,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_alloc,FUNC_2
+wpabuf_free,FUNC_3
+wpabuf_len,FUNC_4
+eap_teap_tlv_eap_payload,FUNC_5
+buf,VAR_4
+e,VAR_5

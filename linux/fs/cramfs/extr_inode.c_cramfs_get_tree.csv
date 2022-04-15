@@ -1,0 +1,11 @@
+CONFIG_CRAMFS_BLOCKDEV,VAR_0
+CONFIG_CRAMFS_MTD,VAR_1
+ENOPROTOOPT,VAR_2
+IS_ENABLED,FUNC_0
+cramfs_blkdev_fill_super,VAR_3
+cramfs_mtd_fill_super,VAR_4
+get_tree_bdev,FUNC_1
+get_tree_mtd,FUNC_2
+cramfs_get_tree,FUNC_3
+fc,VAR_5
+ret,VAR_6

@@ -1,0 +1,11 @@
+TIMBUART_CTRL,VAR_0
+TIMBUART_CTRL_FLSHTX,VAR_1
+TIMBUART_ISR,VAR_2
+TXBF,VAR_3
+ioread8,FUNC_0
+iowrite32,FUNC_1
+iowrite8,FUNC_2
+timbuart_tx_empty,FUNC_3
+timbuart_flush_buffer,FUNC_4
+port,VAR_4
+ctl,VAR_5

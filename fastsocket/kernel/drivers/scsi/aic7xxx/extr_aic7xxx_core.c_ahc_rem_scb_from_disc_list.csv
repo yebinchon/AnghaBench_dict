@@ -1,0 +1,13 @@
+DISCONNECTED_SCBH,VAR_0
+SCBPTR,VAR_1
+SCB_CONTROL,VAR_2
+SCB_LIST_NULL,VAR_3
+SCB_NEXT,VAR_4
+ahc_add_curscb_to_free_list,FUNC_0
+ahc_inb,FUNC_1
+ahc_outb,FUNC_2
+ahc_rem_scb_from_disc_list,FUNC_3
+ahc,VAR_5
+prev,VAR_6
+scbptr,VAR_7
+next,VAR_8

@@ -1,0 +1,16 @@
+BRCMF_H2D_MSGRING_FLOWRING_IDSTART,VAR_0
+atomic_dec,FUNC_0
+brcmf_get_ifp,FUNC_1
+brcmf_msgbuf_get_pktid,FUNC_2
+brcmf_txfinalize,FUNC_3
+le16_to_cpu,FUNC_4
+le32_to_cpu,FUNC_5
+set_bit,FUNC_6
+brcmf_msgbuf_process_txstatus,FUNC_7
+msgbuf,VAR_1
+buf,VAR_2
+commonring,VAR_3
+tx_status,VAR_4
+idx,VAR_5
+skb,VAR_6
+flowid,VAR_7

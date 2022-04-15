@@ -1,0 +1,13 @@
+CRC32C,VAR_0
+CXGBIT_SUBMODE_DCRC,VAR_1
+CXGBIT_SUBMODE_HCRC,VAR_2
+DATADIGEST,VAR_3
+HEADERDIGEST,VAR_4
+cxgbit_setup_conn_digest,FUNC_0
+iscsi_find_param_from_key,FUNC_1
+pr_err,FUNC_2
+strcmp,FUNC_3
+cxgbit_set_digest,FUNC_4
+csk,VAR_5
+conn,VAR_6
+param,VAR_7

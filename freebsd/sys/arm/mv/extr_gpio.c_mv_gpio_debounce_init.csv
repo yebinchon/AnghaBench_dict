@@ -1,0 +1,14 @@
+DEBOUNCE_CHECK_MS,VAR_0
+DEBOUNCE_HI_LO_MS,VAR_1
+DEBOUNCE_LO_HI_MS,VAR_2
+MV_GPIO_ASSERT_LOCKED,FUNC_0
+device_get_softc,FUNC_1
+mv_gpio_debounced_state_set,FUNC_2
+mv_gpio_polarity,FUNC_3
+mv_gpio_value_get,FUNC_4
+mv_gpio_debounce_init,FUNC_5
+dev,VAR_3
+pin,VAR_4
+raw_read,VAR_5
+cnt,VAR_6
+sc,VAR_7

@@ -1,0 +1,13 @@
+WARN_ON,FUNC_0
+arch_gettimeoffset,FUNC_1
+ktime_add_ns,FUNC_2
+ktime_set,FUNC_3
+read_seqbegin,FUNC_4
+read_seqretry,FUNC_5
+timekeeper,VAR_0
+timekeeping_get_ns,FUNC_6
+timekeeping_suspended,VAR_1
+ktime_get,FUNC_7
+seq,VAR_2
+secs,VAR_3
+nsecs,VAR_4

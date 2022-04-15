@@ -1,0 +1,13 @@
+ExecClearTuple,FUNC_0
+ExecMaterializeSlot,FUNC_1
+ExecStoreVirtualTuple,FUNC_2
+MINIMAL_TUPLE_OFFSET,VAR_0
+TTS_IS_MINIMALTUPLE,FUNC_3
+heap_deform_tuple,FUNC_4
+pfree,FUNC_5
+tts_minimal_store_tuple,FUNC_6
+ExecForceStoreMinimalTuple,FUNC_7
+mtup,VAR_1
+slot,VAR_2
+shouldFree,VAR_3
+htup,VAR_4

@@ -1,0 +1,11 @@
+OC_I2C_CMD_REG,VAR_0
+OC_I2C_DATA_REG,VAR_1
+OC_STATUS_TIP,VAR_2
+device_printf,FUNC_0
+iicoc_dev_read,FUNC_1
+iicoc_dev_write,FUNC_2
+iicoc_wait_on_status,FUNC_3
+iicoc_rd_cmd,FUNC_4
+dev,VAR_3
+cmd,VAR_4
+data,VAR_5

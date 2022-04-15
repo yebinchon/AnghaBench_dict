@@ -1,0 +1,13 @@
+KERNEL_LDT,VAR_0
+LDTSZ_MIN,VAR_1
+USER_LDT,VAR_2
+bcopy,FUNC_0
+bzero,FUNC_1
+current_ldt,FUNC_2
+gdt_desc_p,FUNC_3
+ml_cpu_set_ldt,FUNC_4
+user_ldt_set,FUNC_5
+thread,VAR_3
+task,VAR_4
+user_ldt,VAR_5
+ldtp,VAR_6

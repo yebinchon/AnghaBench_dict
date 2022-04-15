@@ -1,0 +1,15 @@
+__blk_mq_end_request,FUNC_0
+bio_data,FUNC_1
+blk_rq_cur_bytes,FUNC_2
+blk_rq_cur_sectors,FUNC_3
+blk_update_request,FUNC_4
+pd_block,VAR_0
+pd_buf,VAR_1
+pd_count,VAR_2
+pd_lock,VAR_3
+pd_req,VAR_4
+pd_run,VAR_5
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+pd_next_buf,FUNC_7
+saved_flags,VAR_6

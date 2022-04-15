@@ -1,0 +1,14 @@
+PCI_XHCI_INTEL_USB2PRM,VAR_0
+PCI_XHCI_INTEL_USB3PRM,VAR_1
+PCI_XHCI_INTEL_USB3_PSSEN,VAR_2
+PCI_XHCI_INTEL_XUSB2PR,VAR_3
+device_printf,FUNC_0
+pci_read_config,FUNC_1
+pci_write_config,FUNC_2
+xhci_pci_port_route,FUNC_3
+self,VAR_4
+set,VAR_5
+clear,VAR_6
+temp,VAR_7
+usb3_mask,VAR_8
+usb2_mask,VAR_9

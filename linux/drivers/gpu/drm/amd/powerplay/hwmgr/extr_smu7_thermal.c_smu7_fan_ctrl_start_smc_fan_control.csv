@@ -1,0 +1,16 @@
+FAN_CONTROL_FUZZY,VAR_0
+FAN_CONTROL_TABLE,VAR_1
+PHM_PlatformCaps_FanSpeedInTableIsRPM,VAR_2
+PHM_PlatformCaps_ODFuzzyFanControlSupport,VAR_3
+PPSMC_MSG_SetFanTemperatureTarget,VAR_4
+PPSMC_StartFanControl,VAR_5
+PP_CAP,FUNC_0
+cgs_write_register,FUNC_1
+mmSMC_MSG_ARG_0,VAR_6
+smum_send_msg_to_smc,FUNC_2
+smum_send_msg_to_smc_with_parameter,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+smu7_fan_ctrl_start_smc_fan_control,FUNC_6
+hwmgr,VAR_7
+result,VAR_8

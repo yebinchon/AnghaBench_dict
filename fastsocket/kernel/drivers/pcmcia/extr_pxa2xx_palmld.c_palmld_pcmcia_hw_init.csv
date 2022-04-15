@@ -1,0 +1,11 @@
+GPIO_NR_PALMLD_PCMCIA_POWER,VAR_0
+GPIO_NR_PALMLD_PCMCIA_READY,VAR_1
+GPIO_NR_PALMLD_PCMCIA_RESET,VAR_2
+IRQ_GPIO,FUNC_0
+gpio_direction_input,FUNC_1
+gpio_direction_output,FUNC_2
+gpio_free,FUNC_3
+gpio_request,FUNC_4
+palmld_pcmcia_hw_init,FUNC_5
+skt,VAR_3
+ret,VAR_4

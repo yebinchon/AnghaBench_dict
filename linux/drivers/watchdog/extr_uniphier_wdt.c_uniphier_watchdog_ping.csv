@@ -1,0 +1,12 @@
+WDTCTRL,VAR_0
+WDTCTRL_CLEAR,VAR_1
+WDTCTRL_STATUS,VAR_2
+WDTST_TIMEOUT,VAR_3
+regmap_read_poll_timeout,FUNC_0
+regmap_write_bits,FUNC_1
+watchdog_get_drvdata,FUNC_2
+uniphier_watchdog_ping,FUNC_3
+w,VAR_4
+wdev,VAR_5
+val,VAR_6
+ret,VAR_7

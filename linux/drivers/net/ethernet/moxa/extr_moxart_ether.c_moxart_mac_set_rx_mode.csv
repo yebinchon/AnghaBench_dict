@@ -1,0 +1,16 @@
+HT_MULTI_EN,VAR_0
+IFF_ALLMULTI,VAR_1
+IFF_MULTICAST,VAR_2
+IFF_PROMISC,VAR_3
+RCV_ALL,VAR_4
+REG_MAC_CTRL,VAR_5
+RX_MULTIPKT,VAR_6
+moxart_mac_setmulticast,FUNC_0
+netdev_mc_count,FUNC_1
+netdev_priv,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+writel,FUNC_5
+moxart_mac_set_rx_mode,FUNC_6
+ndev,VAR_7
+priv,VAR_8

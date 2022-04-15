@@ -1,0 +1,15 @@
+TTEVT_NONE,VAR_0
+TTEVT_SIGNAL,VAR_1
+debug_on,VAR_2
+get_printable_name_of_ttrace_event,FUNC_0
+get_process_first_stopped_thread_id,FUNC_1
+get_process_next_stopped_thread_id,FUNC_2
+get_raw_pc,FUNC_3
+printf,FUNC_4
+was_handled,FUNC_5
+count_unhandled_events,FUNC_6
+real_pid,VAR_3
+real_tid,VAR_4
+tstate,VAR_5
+ttid,VAR_6
+events_left,VAR_7

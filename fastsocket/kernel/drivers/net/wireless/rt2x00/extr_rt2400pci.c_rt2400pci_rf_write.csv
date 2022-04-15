@@ -1,0 +1,16 @@
+RFCSR,VAR_0
+RFCSR_BUSY,VAR_1
+RFCSR_IF_SELECT,VAR_2
+RFCSR_NUMBER_OF_BITS,VAR_3
+RFCSR_VALUE,VAR_4
+WAIT_FOR_RF,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rt2x00_rf_write,FUNC_3
+rt2x00_set_field32,FUNC_4
+rt2x00mmio_register_write,FUNC_5
+rt2400pci_rf_write,FUNC_6
+rt2x00dev,VAR_5
+word,VAR_6
+value,VAR_7
+reg,VAR_8

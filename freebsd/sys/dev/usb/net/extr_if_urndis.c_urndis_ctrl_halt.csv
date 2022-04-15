@@ -1,0 +1,10 @@
+DPRINTF,FUNC_0
+REMOTE_NDIS_HALT_MSG,VAR_0
+RNDIS_STATUS_SUCCESS,VAR_1
+htole32,FUNC_1
+le32toh,FUNC_2
+urndis_ctrl_send,FUNC_3
+urndis_ctrl_halt,FUNC_4
+sc,VAR_2
+msg,VAR_3
+rval,VAR_4

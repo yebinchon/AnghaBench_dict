@@ -1,0 +1,13 @@
+CCKPRNG_NEED_ENTROPY,VAR_0
+CCKPRNG_OK,VAR_1
+PRNG_CCKPRNG,FUNC_0
+Reseed,FUNC_1
+lck_mtx_lock,FUNC_2
+lck_mtx_unlock,FUNC_3
+panic,FUNC_4
+prng,VAR_2
+prng_generate,FUNC_5
+read_random,FUNC_6
+buffer,VAR_3
+numbytes,VAR_4
+err,VAR_5

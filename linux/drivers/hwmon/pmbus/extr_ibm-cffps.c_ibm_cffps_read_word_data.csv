@@ -1,0 +1,12 @@
+CFFPS_MFR_PS_KILL,VAR_0
+ENODATA,VAR_1
+PB_STATUS_OFF,VAR_2
+PMBUS_STATUS_MFR_SPECIFIC,VAR_3
+pmbus_read_byte_data,FUNC_0
+pmbus_read_word_data,FUNC_1
+ibm_cffps_read_word_data,FUNC_2
+client,VAR_4
+page,VAR_5
+reg,VAR_6
+rc,VAR_7
+mfr,VAR_8

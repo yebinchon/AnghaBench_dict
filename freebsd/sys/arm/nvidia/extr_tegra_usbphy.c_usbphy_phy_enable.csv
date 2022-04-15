@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+USB_IFC_TYPE_UTMI,VAR_1
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+phynode_get_device,FUNC_2
+usbphy_utmi_disable,FUNC_3
+usbphy_utmi_enable,FUNC_4
+usbphy_phy_enable,FUNC_5
+phy,VAR_2
+enable,VAR_3
+dev,VAR_4
+sc,VAR_5
+rv,VAR_6

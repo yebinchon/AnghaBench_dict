@@ -1,0 +1,16 @@
+CGS_IND_REG__SMC,VAR_0
+PHM_PlatformCaps_StablePState,VAR_1
+PPSMC_MSG_VCEDPM_SetEnabledMask,VAR_2
+SMU74_Discrete_DpmTable,VAR_3
+VceBootLevel,VAR_4
+cgs_read_ind_register,FUNC_0
+cgs_write_ind_register,FUNC_1
+offsetof,FUNC_2
+phm_cap_enabled,FUNC_3
+smum_send_msg_to_smc_with_parameter,FUNC_4
+polaris10_update_vce_smc_table,FUNC_5
+hwmgr,VAR_5
+smu_data,VAR_6
+mm_boot_level_offset,VAR_7
+mm_boot_level_value,VAR_8
+table_info,VAR_9

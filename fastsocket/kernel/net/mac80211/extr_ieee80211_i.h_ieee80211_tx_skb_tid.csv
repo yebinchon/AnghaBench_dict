@@ -1,0 +1,11 @@
+WARN_ON,FUNC_0
+__ieee80211_tx_skb_tid_band,FUNC_1
+kfree_skb,FUNC_2
+rcu_dereference,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+ieee80211_tx_skb_tid,FUNC_6
+sdata,VAR_0
+skb,VAR_1
+tid,VAR_2
+chanctx_conf,VAR_3

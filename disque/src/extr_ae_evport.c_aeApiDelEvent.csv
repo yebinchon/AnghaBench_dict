@@ -1,0 +1,17 @@
+AE_NONE,VAR_0
+PORT_SOURCE_FD,VAR_1
+abort,FUNC_0
+aeApiAssociate,FUNC_1
+aeApiLookupPending,FUNC_2
+evport_debug,VAR_2
+fprintf,FUNC_3
+perror,FUNC_4
+port_dissociate,FUNC_5
+stderr,VAR_3
+aeApiDelEvent,FUNC_6
+eventLoop,VAR_4
+fd,VAR_5
+mask,VAR_6
+state,VAR_7
+fullmask,VAR_8
+pfd,VAR_9

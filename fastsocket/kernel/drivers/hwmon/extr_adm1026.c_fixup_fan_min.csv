@@ -1,0 +1,13 @@
+ADM1026_REG_FAN_MIN,FUNC_0
+SENSORS_LIMIT,FUNC_1
+adm1026_write_value,FUNC_2
+i2c_get_clientdata,FUNC_3
+to_i2c_client,FUNC_4
+fixup_fan_min,FUNC_5
+dev,VAR_0
+fan,VAR_1
+old_div,VAR_2
+client,VAR_3
+data,VAR_4
+new_min,VAR_5
+new_div,VAR_6

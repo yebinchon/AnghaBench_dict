@@ -1,0 +1,17 @@
+AC_SCSI_AEN,VAR_0
+ATA_INL,FUNC_0
+CAM_REQ_CMP,VAR_1
+SATA_FISDW0,VAR_2
+bootverbose,VAR_3
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+xpt_async,FUNC_3
+xpt_create_path,FUNC_4
+xpt_free_path,FUNC_5
+xpt_path_path_id,FUNC_6
+mvs_notify_events,FUNC_7
+dev,VAR_4
+ch,VAR_5
+dpath,VAR_6
+fis,VAR_7
+d,VAR_8

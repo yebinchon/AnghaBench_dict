@@ -1,0 +1,11 @@
+Assert,FUNC_0
+COMPRESSION_ALGORITHM_DICTIONARY,VAR_0
+SET_VARSIZE,FUNC_1
+bytes_serialize_array_compressor_and_advance,FUNC_2
+bytes_serialize_simple8b_and_advance,FUNC_3
+palloc0,FUNC_4
+dictionary_compressed_from_serialization_info,FUNC_5
+sizes,VAR_1
+element_type,VAR_2
+data,VAR_3
+bitmap,VAR_4

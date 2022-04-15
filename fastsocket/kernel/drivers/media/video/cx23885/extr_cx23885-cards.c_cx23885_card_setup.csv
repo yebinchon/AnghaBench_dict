@@ -1,0 +1,15 @@
+CX23885_HW_AV_CORE,VAR_0
+CX23885_SRC_SEL_PARALLEL_MPEG_VIDEO,VAR_1
+core,VAR_2
+enable_885_ir,VAR_3
+hauppauge_eeprom,FUNC_0
+load_fw,VAR_4
+netup_initialize,FUNC_1
+tveeprom_read,FUNC_2
+v4l2_i2c_new_subdev,FUNC_3
+v4l2_subdev_call,FUNC_4
+cx23885_card_setup,FUNC_5
+dev,VAR_5
+ts1,VAR_6
+ts2,VAR_7
+eeprom,VAR_8

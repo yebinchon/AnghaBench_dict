@@ -1,0 +1,13 @@
+ALPS_PROTO_V5,VAR_0
+ALPS_PS2_INTERLEAVED,VAR_1
+PSMOUSE_BAD_DATA,VAR_2
+PSMOUSE_FULL_PACKET,VAR_3
+PSMOUSE_GOOD_DATA,VAR_4
+alps_handle_interleaved_ps2,FUNC_0
+alps_is_valid_first_byte,FUNC_1
+alps_report_bare_ps2_packet,FUNC_2
+dbg,FUNC_3
+stub1,FUNC_4
+alps_process_byte,FUNC_5
+psmouse,VAR_5
+priv,VAR_6

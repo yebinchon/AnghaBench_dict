@@ -1,0 +1,15 @@
+AccessShareLock,VAR_0
+Anum_tablespace_hypertable_id_tablespace_name_idx_hypertable_id,VAR_1
+BTEqualStrategyNumber,VAR_2
+F_INT4EQ,VAR_3
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+TABLESPACE_DEFAULT_CAPACITY,VAR_4
+TABLESPACE_HYPERTABLE_ID_TABLESPACE_NAME_IDX,VAR_5
+tablespace_scan_internal,FUNC_2
+tablespace_tuple_found,VAR_6
+tablespaces_alloc,FUNC_3
+ts_tablespace_scan,FUNC_4
+hypertable_id,VAR_7
+tspcs,VAR_8
+scankey,VAR_9

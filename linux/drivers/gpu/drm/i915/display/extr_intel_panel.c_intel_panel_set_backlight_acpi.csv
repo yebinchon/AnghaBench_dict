@@ -1,0 +1,16 @@
+WARN_ON,FUNC_0
+clamp_user_to_hw,FUNC_1
+intel_panel_actually_set_backlight,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+scale_hw_to_user,FUNC_5
+to_i915,FUNC_6
+to_intel_connector,FUNC_7
+intel_panel_set_backlight_acpi,FUNC_8
+conn_state,VAR_0
+user_level,VAR_1
+user_max,VAR_2
+connector,VAR_3
+dev_priv,VAR_4
+panel,VAR_5
+hw_level,VAR_6

@@ -1,0 +1,15 @@
+ECHILD,VAR_0
+WAIT_ANY,VAR_1
+WIFEXITED,FUNC_0
+WIFSIGNALED,FUNC_1
+WIFSTOPPED,FUNC_2
+WNOHANG,VAR_2
+WUNTRACED,VAR_3
+errno,VAR_4
+fatal,FUNC_3
+server_child_exited,FUNC_4
+server_child_stopped,FUNC_5
+waitpid,FUNC_6
+server_child_signal,FUNC_7
+status,VAR_5
+pid,VAR_6

@@ -1,0 +1,16 @@
+GIT_STASH_DEFAULT,VAR_0
+GIT_STATUS_INDEX_DELETED,VAR_1
+GIT_STATUS_WT_NEW,VAR_2
+assert_blob_oid,FUNC_0
+assert_status,FUNC_1
+cl_git_pass,FUNC_2
+git_index_free,FUNC_3
+git_index_remove_bypath,FUNC_4
+git_index_write,FUNC_5
+git_repository_index,FUNC_6
+git_stash_save,FUNC_7
+repo,VAR_3
+signature,VAR_4
+stash_tip_oid,VAR_5
+test_stash_save__deleted_in_index_modified_in_workdir,FUNC_8
+index,VAR_6

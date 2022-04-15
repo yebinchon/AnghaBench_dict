@@ -1,0 +1,16 @@
+FALSE,VAR_0
+arc_flush,FUNC_0
+bpobj_close,FUNC_1
+dmu_buf_user_evict_wait,FUNC_2
+dmu_objset_evict,FUNC_3
+dsl_dataset_rele,FUNC_4
+dsl_dir_rele,FUNC_5
+dsl_scan_fini,FUNC_6
+kmem_free,FUNC_7
+mutex_destroy,FUNC_8
+rrw_destroy,FUNC_9
+taskq_destroy,FUNC_10
+txg_fini,FUNC_11
+txg_list_destroy,FUNC_12
+dsl_pool_close,FUNC_13
+dp,VAR_1

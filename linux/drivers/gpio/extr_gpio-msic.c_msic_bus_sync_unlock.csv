@@ -1,0 +1,16 @@
+IRQ_TYPE_EDGE_FALLING,VAR_0
+IRQ_TYPE_EDGE_RISING,VAR_1
+MSIC_GPIO_INTCNT_MASK,VAR_2
+MSIC_GPIO_TRIG_FALL,VAR_3
+MSIC_GPIO_TRIG_RISE,VAR_4
+__ffs,FUNC_0
+intel_msic_reg_update,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+msic_gpio_to_ireg,FUNC_3
+mutex_unlock,FUNC_4
+msic_bus_sync_unlock,FUNC_5
+data,VAR_5
+mg,VAR_6
+offset,VAR_7
+reg,VAR_8
+trig,VAR_9

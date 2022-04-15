@@ -1,0 +1,17 @@
+ENXIO,VAR_0
+ETHERSWITCH_VLAN_DOT1Q,VAR_1
+SIOCSIFMEDIA,VAR_2
+device_get_softc,FUNC_0
+ifmedia_ioctl,FUNC_1
+mtkswitch_ifpforport,FUNC_2
+mtkswitch_is_cpuport,FUNC_3
+mtkswitch_miiforport,FUNC_4
+stub1,FUNC_5
+mtkswitch_setport,FUNC_6
+dev,VAR_3
+p,VAR_4
+err,VAR_5
+sc,VAR_6
+ifm,VAR_7
+mii,VAR_8
+ifp,VAR_9

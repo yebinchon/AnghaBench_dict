@@ -1,0 +1,17 @@
+LPC32XX_HSUART_CTRL,FUNC_0
+LPC32XX_HSUART_FIFO,FUNC_1
+LPC32XX_HSUART_LEVEL,FUNC_2
+LPC32XX_HSU_TX_INT_EN,VAR_0
+LPC32XX_HSU_TX_LEV,FUNC_3
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+readl,FUNC_4
+uart_circ_chars_pending,FUNC_5
+uart_circ_empty,FUNC_6
+uart_tx_stopped,FUNC_7
+uart_write_wakeup,FUNC_8
+writel,FUNC_9
+__serial_lpc32xx_tx,FUNC_10
+port,VAR_3
+xmit,VAR_4
+tmp,VAR_5

@@ -1,0 +1,15 @@
+CGEM_ASSERT_LOCKED,FUNC_0
+IFF_DRV_OACTIVE,VAR_0
+IFF_DRV_RUNNING,VAR_1
+callout_reset,FUNC_1
+cgem_config,FUNC_2
+cgem_fill_rqueue,FUNC_3
+cgem_tick,VAR_2
+device_get_softc,FUNC_4
+hz,VAR_3
+if_getdrvflags,FUNC_5
+if_setdrvflagbits,FUNC_6
+mii_mediachg,FUNC_7
+cgem_init_locked,FUNC_8
+sc,VAR_4
+mii,VAR_5

@@ -1,0 +1,16 @@
+EVL_VLID_MASK,VAR_0
+I40E_ERR_PARAM,VAR_1
+VF_FLAG_VLAN_CAP,VAR_2
+VIRTCHNL_OP_ADD_VLAN,VAR_3
+VIRTCHNL_OP_DEL_VLAN,VAR_4
+i40e_send_vf_nack,FUNC_0
+ixl_del_filter,FUNC_1
+ixl_send_vf_ack,FUNC_2
+ixl_vf_del_vlan_msg,FUNC_3
+pf,VAR_5
+vf,VAR_6
+msg,VAR_7
+msg_size,VAR_8
+filter_list,VAR_9
+i,VAR_10
+expected_size,VAR_11

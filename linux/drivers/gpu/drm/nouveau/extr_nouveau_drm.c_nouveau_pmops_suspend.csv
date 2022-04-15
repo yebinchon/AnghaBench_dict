@@ -1,0 +1,15 @@
+DRM_SWITCH_POWER_DYNAMIC_OFF,VAR_0
+DRM_SWITCH_POWER_OFF,VAR_1
+PCI_D3hot,VAR_2
+nouveau_do_suspend,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_save_state,FUNC_3
+pci_set_power_state,FUNC_4
+to_pci_dev,FUNC_5
+udelay,FUNC_6
+nouveau_pmops_suspend,FUNC_7
+dev,VAR_3
+pdev,VAR_4
+drm_dev,VAR_5
+ret,VAR_6

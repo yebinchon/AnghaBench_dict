@@ -1,0 +1,14 @@
+PF_UNIX,VAR_0
+SOCK_DGRAM,VAR_1
+SOCK_RAW,VAR_2
+TOMOYO_NETWORK_SEND,VAR_3
+tomoyo_check_inet_address,FUNC_0
+tomoyo_check_unix_address,FUNC_1
+tomoyo_sock_family,FUNC_2
+tomoyo_socket_sendmsg_permission,FUNC_3
+sock,VAR_4
+msg,VAR_5
+size,VAR_6
+address,VAR_7
+family,VAR_8
+type,VAR_9

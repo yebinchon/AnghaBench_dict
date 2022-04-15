@@ -1,0 +1,10 @@
+bcm5974_start_traffic,FUNC_0
+input_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+usb_autopm_get_interface,FUNC_4
+usb_autopm_put_interface,FUNC_5
+bcm5974_open,FUNC_6
+input,VAR_0
+dev,VAR_1
+error,VAR_2

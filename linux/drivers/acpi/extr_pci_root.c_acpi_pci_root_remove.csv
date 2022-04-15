@@ -1,0 +1,15 @@
+WARN_ON,FUNC_0
+acpi_driver_data,FUNC_1
+acpi_ioapic_remove,FUNC_2
+device_set_wakeup_capable,FUNC_3
+dmar_device_remove,FUNC_4
+kfree,FUNC_5
+pci_acpi_remove_bus_pm_notifier,FUNC_6
+pci_ioapic_remove,FUNC_7
+pci_lock_rescan_remove,FUNC_8
+pci_remove_root_bus,FUNC_9
+pci_stop_root_bus,FUNC_10
+pci_unlock_rescan_remove,FUNC_11
+acpi_pci_root_remove,FUNC_12
+device,VAR_0
+root,VAR_1

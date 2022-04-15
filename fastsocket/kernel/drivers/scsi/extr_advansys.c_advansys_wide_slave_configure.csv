@@ -1,0 +1,17 @@
+ADV_CHIP_ASC38C1600,VAR_0
+ASC_MC_NUMBER_OF_MAX_CMD,VAR_1
+ASC_MC_TAGQNG_ABLE,VAR_2
+AdvReadWordLram,FUNC_0
+AdvWriteByteLram,FUNC_1
+AdvWriteWordLram,FUNC_2
+MSG_ORDERED_TAG,VAR_3
+advansys_wide_enable_ppr,FUNC_3
+advansys_wide_enable_sdtr,FUNC_4
+advansys_wide_enable_wdtr,FUNC_5
+scsi_adjust_queue_depth,FUNC_6
+advansys_wide_slave_configure,FUNC_7
+sdev,VAR_4
+adv_dvc,VAR_5
+iop_base,VAR_6
+tidmask,VAR_7
+cfg_word,VAR_8

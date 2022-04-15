@@ -1,0 +1,11 @@
+CLK_CTL_SCLKEN,VAR_0
+CTL_SD_CARD_CLK_CTL,VAR_1
+SH_MOBILE_SDHI_SCC_CKSEL,VAR_2
+SH_MOBILE_SDHI_SCC_CKSEL_DTSEL,VAR_3
+sd_ctrl_read16,FUNC_0
+sd_ctrl_write16,FUNC_1
+sd_scc_read32,FUNC_2
+sd_scc_write32,FUNC_3
+renesas_sdhi_reset_scc,FUNC_4
+host,VAR_4
+priv,VAR_5

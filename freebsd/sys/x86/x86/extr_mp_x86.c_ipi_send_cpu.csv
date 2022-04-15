@@ -1,0 +1,14 @@
+IPI_BITMAP_VECTOR,VAR_0
+IPI_IS_BITMAPED,FUNC_0
+KASSERT,FUNC_1
+atomic_fcmpset_int,FUNC_2
+cpu_apic_ids,VAR_1
+cpuid_to_pcpu,VAR_2
+lapic_ipi_vectored,FUNC_3
+ipi_send_cpu,FUNC_4
+cpu,VAR_3
+ipi,VAR_4
+bitmap,VAR_5
+old,VAR_6
+new,VAR_7
+cpu_bitmap,VAR_8

@@ -1,0 +1,11 @@
+BUS_ADD_CHILD,FUNC_0
+bus_generic_attach,FUNC_1
+bus_generic_probe,FUNC_2
+devclass_find,FUNC_3
+devclass_get_device,FUNC_4
+device_probe_and_attach,FUNC_5
+legacy_pci_cfgregopen,FUNC_6
+panic,FUNC_7
+legacy_attach,FUNC_8
+dev,VAR_0
+child,VAR_1

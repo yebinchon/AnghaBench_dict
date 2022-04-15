@@ -1,0 +1,11 @@
+EP_STATE_IDLE,VAR_0
+INIT_LIST_HEAD,FUNC_0
+ep_name,VAR_1
+list_add_tail,FUNC_1
+qe_ep_ops,VAR_2
+strcpy,FUNC_2
+usb_ep_set_maxpacket_limit,FUNC_3
+qe_ep_config,FUNC_4
+udc,VAR_3
+pipe_num,VAR_4
+ep,VAR_5

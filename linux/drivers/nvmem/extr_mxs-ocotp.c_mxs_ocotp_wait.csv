@@ -1,0 +1,11 @@
+BM_OCOTP_CTRL_BUSY,VAR_0
+BM_OCOTP_CTRL_ERROR,VAR_1
+EBUSY,VAR_2
+EIO,VAR_3
+OCOTP_TIMEOUT,VAR_4
+cpu_relax,FUNC_0
+readl,FUNC_1
+mxs_ocotp_wait,FUNC_2
+otp,VAR_5
+timeout,VAR_6
+status,VAR_7

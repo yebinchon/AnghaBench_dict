@@ -1,0 +1,17 @@
+ERROR_SUCCESS,VAR_0
+MsiCloseHandle,FUNC_0
+MsiDatabaseOpenViewA,FUNC_1
+MsiRecordGetInteger,FUNC_2
+MsiViewClose,FUNC_3
+MsiViewExecute,FUNC_4
+MsiViewFetch,FUNC_5
+sprintf,FUNC_6
+get_columns_table_type,FUNC_7
+hdb,VAR_1
+table,VAR_2
+field,VAR_3
+hview,VAR_4
+rec,VAR_5
+r,VAR_6
+type,VAR_7
+query,VAR_8

@@ -1,0 +1,14 @@
+BISTEN_LSB,VAR_0
+R_OPCODE_LSB,VAR_1
+R_OP_UPDATE,VAR_2
+SJA_EN,VAR_3
+kr_r_access,VAR_4
+kr_scratch,VAR_5
+qib_r_wait_for_rdy,FUNC_0
+qib_read_kreg32,FUNC_1
+qib_write_kreg,FUNC_2
+qib_r_update,FUNC_3
+dd,VAR_6
+bisten,VAR_7
+val,VAR_8
+ret,VAR_9

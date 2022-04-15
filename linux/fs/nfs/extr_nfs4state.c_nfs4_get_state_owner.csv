@@ -1,0 +1,14 @@
+nfs4_alloc_state_owner,FUNC_0
+nfs4_find_state_owner_locked,FUNC_1
+nfs4_free_state_owner,FUNC_2
+nfs4_gc_state_owners,FUNC_3
+nfs4_insert_state_owner_locked,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+nfs4_get_state_owner,FUNC_7
+server,VAR_0
+cred,VAR_1
+gfp_flags,VAR_2
+clp,VAR_3
+sp,VAR_4
+new,VAR_5

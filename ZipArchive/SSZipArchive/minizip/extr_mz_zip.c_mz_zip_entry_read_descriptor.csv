@@ -1,0 +1,14 @@
+MZ_FORMAT_ERROR,VAR_0
+MZ_OK,VAR_1
+MZ_ZIP_MAGIC_DATADESCRIPTOR,VAR_2
+mz_stream_read_int64,FUNC_0
+mz_stream_read_uint32,FUNC_1
+mz_zip_entry_read_descriptor,FUNC_2
+stream,VAR_3
+zip64,VAR_4
+crc32,VAR_5
+compressed_size,VAR_6
+uncompressed_size,VAR_7
+value32,VAR_8
+value64,VAR_9
+err,VAR_10

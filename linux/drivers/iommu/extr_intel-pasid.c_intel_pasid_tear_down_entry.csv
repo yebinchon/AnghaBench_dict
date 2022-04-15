@@ -1,0 +1,16 @@
+WARN_ON,FUNC_0
+cap_caching_mode,FUNC_1
+clflush_cache_range,FUNC_2
+devtlb_invalidation_with_pasid,FUNC_3
+ecap_coherent,FUNC_4
+intel_pasid_clear_entry,FUNC_5
+intel_pasid_get_entry,FUNC_6
+iotlb_invalidation_with_pasid,FUNC_7
+pasid_cache_invalidation_with_pasid,FUNC_8
+pasid_get_domain_id,FUNC_9
+intel_pasid_tear_down_entry,FUNC_10
+iommu,VAR_0
+dev,VAR_1
+pasid,VAR_2
+pte,VAR_3
+did,VAR_4

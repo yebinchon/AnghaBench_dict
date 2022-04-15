@@ -1,0 +1,15 @@
+TSDB_METER_STATE_UPDATING,VAR_0
+dTrace,FUNC_0
+pthread_mutex_lock,FUNC_1
+pthread_mutex_unlock,FUNC_2
+taosTmrStart,FUNC_3
+vnodeClearMeterState,FUNC_4
+vnodeCommitMultiToFile,FUNC_5
+vnodeList,VAR_1
+vnodeTmrCtrl,VAR_2
+vnodeProcessUpdateSchemaTimer,FUNC_6
+param,VAR_3
+tmrId,VAR_4
+pObj,VAR_5
+pVnode,VAR_6
+pPool,VAR_7

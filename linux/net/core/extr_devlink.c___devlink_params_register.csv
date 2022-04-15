@@ -1,0 +1,16 @@
+devlink_param_register_one,FUNC_0
+devlink_param_unregister_one,FUNC_1
+devlink_param_verify,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+__devlink_params_register,FUNC_5
+devlink,VAR_0
+port_index,VAR_1
+param_list,VAR_2
+params,VAR_3
+params_count,VAR_4
+reg_cmd,VAR_5
+unreg_cmd,VAR_6
+param,VAR_7
+i,VAR_8
+err,VAR_9

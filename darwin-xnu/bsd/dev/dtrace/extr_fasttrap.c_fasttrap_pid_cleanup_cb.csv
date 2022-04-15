@@ -1,0 +1,16 @@
+FASTTRAP_CLEANUP_PROVIDER,VAR_0
+FASTTRAP_CLEANUP_TRACEPOINT,VAR_1
+PRIBIO,VAR_2
+atomic_and_32,FUNC_0
+fasttrap_cleanup_mtx,VAR_3
+fasttrap_cleanup_work,VAR_4
+fasttrap_pid_cleanup_compute_priority,FUNC_1
+fasttrap_pid_cleanup_providers,FUNC_2
+fasttrap_tracepoint_cleanup,FUNC_3
+lck_mtx_lock,FUNC_4
+lck_mtx_unlock,FUNC_5
+msleep,FUNC_6
+fasttrap_pid_cleanup_cb,FUNC_7
+work,VAR_5
+later,VAR_6
+t,VAR_7

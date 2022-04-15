@@ -1,0 +1,17 @@
+ESP_LOGD,FUNC_0
+ESP_LOGE,FUNC_1
+ESP_PARTITION_SUBTYPE_APP_OTA_MIN,VAR_0
+ESP_PARTITION_TYPE_APP,VAR_1
+TAG,VAR_2
+bootloader_common_get_active_otadata,FUNC_2
+bootloader_common_ota_select_invalid,FUNC_3
+esp_partition_find_first,FUNC_4
+find_default_boot_partition,FUNC_5
+get_ota_partition_count,FUNC_6
+read_otadata,FUNC_7
+esp_ota_get_boot_partition,FUNC_8
+otadata,VAR_3
+otadata_partition,VAR_4
+ota_app_count,VAR_5
+active_otadata,VAR_6
+ota_slot,VAR_7

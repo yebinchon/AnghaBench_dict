@@ -1,0 +1,11 @@
+IPPROTO_TCP,VAR_0
+SOCK_ERRNO,VAR_1
+SOCK_STRERROR,FUNC_0
+TCP_USER_TIMEOUT,VAR_2
+appendPQExpBuffer,FUNC_1
+libpq_gettext,FUNC_2
+parse_int_param,FUNC_3
+setsockopt,FUNC_4
+setTCPUserTimeout,FUNC_5
+conn,VAR_3
+timeout,VAR_4

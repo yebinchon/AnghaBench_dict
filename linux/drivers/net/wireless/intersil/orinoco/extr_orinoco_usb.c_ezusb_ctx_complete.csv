@@ -1,0 +1,15 @@
+EZUSB_RID_TX,VAR_0
+err,FUNC_0
+ezusb_complete_all,FUNC_1
+ezusb_req_queue_run,FUNC_2
+ezusb_request_context_put,FUNC_3
+list_del_init,FUNC_4
+netif_wake_queue,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+ezusb_ctx_complete,FUNC_8
+ctx,VAR_1
+upriv,VAR_2
+flags,VAR_3
+dev,VAR_4
+stats,VAR_5

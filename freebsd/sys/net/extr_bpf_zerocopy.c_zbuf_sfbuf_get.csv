@@ -1,0 +1,12 @@
+PAGE_SIZE,VAR_0
+SFB_NOWAIT,VAR_1
+VM_PROT_READ,VAR_2
+VM_PROT_WRITE,VAR_3
+sf_buf_alloc,FUNC_0
+vm_fault_quick_hold_pages,FUNC_1
+zbuf_page_free,FUNC_2
+zbuf_sfbuf_get,FUNC_3
+map,VAR_4
+uaddr,VAR_5
+sf,VAR_6
+pp,VAR_7

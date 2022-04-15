@@ -1,0 +1,14 @@
+QUIRK_HDMIPHY,VAR_0
+S3C2410_IICSTAT,VAR_1
+S3C2410_IICSTAT_START,VAR_2
+S3C2410_IICSTAT_TXRXEN,VAR_3
+STATE_STOP,VAR_4
+dev_dbg,FUNC_0
+readl,FUNC_1
+s3c24xx_i2c_disable_irq,FUNC_2
+s3c24xx_i2c_master_complete,FUNC_3
+writel,FUNC_4
+s3c24xx_i2c_stop,FUNC_5
+i2c,VAR_5
+ret,VAR_6
+iicstat,VAR_7

@@ -1,0 +1,10 @@
+BDISP_MAX_CTRL_NUM,VAR_0
+V4L2_CID_HFLIP,VAR_1
+V4L2_CID_VFLIP,VAR_2
+bdisp_c_ops,VAR_3
+v4l2_ctrl_handler_free,FUNC_0
+v4l2_ctrl_handler_init,FUNC_1
+v4l2_ctrl_new_std,FUNC_2
+bdisp_ctrls_create,FUNC_3
+ctx,VAR_4
+err,VAR_5

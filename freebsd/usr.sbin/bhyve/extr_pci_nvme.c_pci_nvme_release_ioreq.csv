@@ -1,0 +1,9 @@
+NVME_CC_GET_EN,FUNC_0
+NVME_CSTS_GET_RDY,FUNC_1
+NVME_CSTS_RDY,VAR_0
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+sem_post,FUNC_4
+pci_nvme_release_ioreq,FUNC_5
+sc,VAR_1
+req,VAR_2

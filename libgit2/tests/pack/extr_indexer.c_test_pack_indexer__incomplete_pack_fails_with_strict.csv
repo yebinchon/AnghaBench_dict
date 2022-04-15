@@ -1,0 +1,14 @@
+GIT_INDEXER_OPTIONS_INIT,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_indexer_append,FUNC_3
+git_indexer_commit,FUNC_4
+git_indexer_free,FUNC_5
+git_indexer_new,FUNC_6
+incomplete_pack,VAR_1
+incomplete_pack_len,VAR_2
+test_pack_indexer__incomplete_pack_fails_with_strict,FUNC_7
+opts,VAR_3
+idx,VAR_4
+stats,VAR_5

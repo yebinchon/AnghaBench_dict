@@ -1,0 +1,15 @@
+MSI_CFG0_ADDR_MASK,VAR_0
+MSI_CFG2_MEMATTR_DEVICE_nGnRE,VAR_1
+SMMU_PMCG_IRQ_CFG0,VAR_2
+SMMU_PMCG_IRQ_CFG1,VAR_3
+SMMU_PMCG_IRQ_CFG2,VAR_4
+dev_get_drvdata,FUNC_0
+msi_desc_to_dev,FUNC_1
+writel_relaxed,FUNC_2
+writeq_relaxed,FUNC_3
+smmu_pmu_write_msi_msg,FUNC_4
+desc,VAR_5
+msg,VAR_6
+doorbell,VAR_7
+dev,VAR_8
+pmu,VAR_9

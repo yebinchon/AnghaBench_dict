@@ -1,0 +1,15 @@
+DS1305_RTC_LEN,VAR_0
+DS1305_SEC,VAR_1
+DS1305_WRITE,VAR_2
+bin2bcd,FUNC_0
+dev_dbg,FUNC_1
+dev_get_drvdata,FUNC_2
+dev_vdbg,FUNC_3
+hour2bcd,FUNC_4
+spi_write_then_read,FUNC_5
+ds1305_set_time,FUNC_6
+dev,VAR_3
+time,VAR_4
+ds1305,VAR_5
+buf,VAR_6
+bp,VAR_7

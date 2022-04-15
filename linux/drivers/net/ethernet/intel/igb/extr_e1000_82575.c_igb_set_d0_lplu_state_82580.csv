@@ -1,0 +1,12 @@
+E1000_82580_PHY_POWER_MGMT,VAR_0
+E1000_82580_PM_D0_LPLU,VAR_1
+E1000_82580_PM_SPD,VAR_2
+e1000_smart_speed_off,VAR_3
+e1000_smart_speed_on,VAR_4
+rd32,FUNC_0
+wr32,FUNC_1
+igb_set_d0_lplu_state_82580,FUNC_2
+hw,VAR_5
+active,VAR_6
+phy,VAR_7
+data,VAR_8

@@ -1,0 +1,16 @@
+GL_NORMAL_ARRAY,VAR_0
+GL_VERTEX_ARRAY,VAR_1
+NB_BANDS,VAR_2
+SPECTRUM_WIDTH,VAR_3
+drawBar,FUNC_0
+glDisableClientState,FUNC_1
+glEnableClientState,FUNC_2
+glPopMatrix,FUNC_3
+glPushMatrix,FUNC_4
+glScalef,FUNC_5
+glTranslatef,FUNC_6
+setBarColor,FUNC_7
+drawBars,FUNC_8
+heights,VAR_4
+w,VAR_5
+i,VAR_6

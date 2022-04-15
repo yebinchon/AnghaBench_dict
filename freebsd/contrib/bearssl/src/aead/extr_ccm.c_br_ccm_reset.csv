@@ -1,0 +1,17 @@
+br_enc16be,FUNC_0
+br_enc32be,FUNC_1
+br_enc64be,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+stub1,FUNC_5
+stub2,FUNC_6
+br_ccm_reset,FUNC_7
+ctx,VAR_0
+nonce,VAR_1
+nonce_len,VAR_2
+aad_len,VAR_3
+data_len,VAR_4
+tag_len,VAR_5
+tmp,VAR_6
+u,VAR_7
+q,VAR_8

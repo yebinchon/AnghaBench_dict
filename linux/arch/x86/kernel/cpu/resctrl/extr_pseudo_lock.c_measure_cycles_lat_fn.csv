@@ -1,0 +1,16 @@
+MSR_MISC_FEATURE_CONTROL,VAR_0
+READ_ONCE,FUNC_0
+local_irq_disable,FUNC_1
+local_irq_enable,FUNC_2
+prefetch_disable_bits,VAR_1
+rdtsc_ordered,FUNC_3
+trace_pseudo_lock_mem_latency,FUNC_4
+wake_up_interruptible,FUNC_5
+wrmsr,FUNC_6
+measure_cycles_lat_fn,FUNC_7
+_plr,VAR_2
+plr,VAR_3
+i,VAR_4
+start,VAR_5
+end,VAR_6
+mem_r,VAR_7

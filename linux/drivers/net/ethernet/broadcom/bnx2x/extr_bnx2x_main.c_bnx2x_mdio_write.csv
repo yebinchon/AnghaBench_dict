@@ -1,0 +1,16 @@
+DEFAULT_PHY_DEV_ADDR,VAR_0
+DP,FUNC_0
+MDIO_DEVAD_NONE,VAR_1
+NETIF_MSG_LINK,VAR_2
+bnx2x_acquire_phy_lock,FUNC_1
+bnx2x_phy_write,FUNC_2
+bnx2x_release_phy_lock,FUNC_3
+netdev_priv,FUNC_4
+bnx2x_mdio_write,FUNC_5
+netdev,VAR_3
+prtad,VAR_4
+devad,VAR_5
+addr,VAR_6
+value,VAR_7
+bp,VAR_8
+rc,VAR_9

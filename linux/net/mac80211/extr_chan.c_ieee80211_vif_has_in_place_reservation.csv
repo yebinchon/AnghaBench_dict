@@ -1,0 +1,9 @@
+IEEE80211_CHANCTX_REPLACES_OTHER,VAR_0
+IEEE80211_CHANCTX_WILL_BE_REPLACED,VAR_1
+WARN_ON,FUNC_0
+ieee80211_vif_get_chanctx,FUNC_1
+lockdep_assert_held,FUNC_2
+ieee80211_vif_has_in_place_reservation,FUNC_3
+sdata,VAR_2
+old_ctx,VAR_3
+new_ctx,VAR_4

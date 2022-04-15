@@ -1,0 +1,10 @@
+regmap_async_is_done,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+trace_regmap_async_complete_done,FUNC_3
+trace_regmap_async_complete_start,FUNC_4
+wait_event,FUNC_5
+regmap_async_complete,FUNC_6
+map,VAR_0
+flags,VAR_1
+ret,VAR_2

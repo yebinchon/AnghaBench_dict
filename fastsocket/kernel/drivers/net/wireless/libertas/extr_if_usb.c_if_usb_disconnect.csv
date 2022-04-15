@@ -1,0 +1,17 @@
+LBS_DEB_MAIN,VAR_0
+dev_attr_lbs_flash_boot2,VAR_1
+dev_attr_lbs_flash_fw,VAR_2
+device_remove_file,FUNC_0
+if_usb_free,FUNC_1
+interface_to_usbdev,FUNC_2
+lbs_deb_enter,FUNC_3
+lbs_deb_leave,FUNC_4
+lbs_remove_card,FUNC_5
+lbs_stop_card,FUNC_6
+usb_get_intfdata,FUNC_7
+usb_put_dev,FUNC_8
+usb_set_intfdata,FUNC_9
+if_usb_disconnect,FUNC_10
+intf,VAR_3
+cardp,VAR_4
+priv,VAR_5

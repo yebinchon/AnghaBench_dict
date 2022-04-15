@@ -1,0 +1,17 @@
+CVMX_ASXX_RX_CLK_SETX,FUNC_0
+CVMX_ASXX_TX_CLK_SETX,FUNC_1
+CVMX_BOARD_TYPE_CN3005_EVB_HS5,VAR_0
+CVMX_BOARD_TYPE_CN3010_EVB_HS5,VAR_1
+CVMX_BOARD_TYPE_CUST_UBIQUITI_E100,VAR_2
+CVMX_BOARD_TYPE_CUST_UBIQUITI_E120,VAR_3
+CVMX_BOARD_TYPE_LANAI2_U,VAR_4
+cvmx_dprintf,FUNC_2
+cvmx_helper_board_get_mii_address,FUNC_3
+cvmx_mdio_read,FUNC_4
+cvmx_sysinfo_get,FUNC_5
+cvmx_wait,FUNC_6
+cvmx_write_csr,FUNC_7
+__cvmx_helper_board_hardware_enable,FUNC_8
+interface,VAR_5
+phy_addr,VAR_6
+phy_identifier,VAR_7

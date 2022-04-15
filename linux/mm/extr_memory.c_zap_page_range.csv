@@ -1,0 +1,15 @@
+MMU_NOTIFY_CLEAR,VAR_0
+lru_add_drain,FUNC_0
+mmu_notifier_invalidate_range_end,FUNC_1
+mmu_notifier_invalidate_range_start,FUNC_2
+mmu_notifier_range_init,FUNC_3
+tlb_finish_mmu,FUNC_4
+tlb_gather_mmu,FUNC_5
+unmap_single_vma,FUNC_6
+update_hiwater_rss,FUNC_7
+zap_page_range,FUNC_8
+vma,VAR_1
+start,VAR_2
+size,VAR_3
+range,VAR_4
+tlb,VAR_5

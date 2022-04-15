@@ -1,0 +1,11 @@
+VMXNET3_STATE_BIT_RESETTING,VAR_0
+clear_bit,FUNC_0
+netdev_priv,FUNC_1
+test_and_set_bit,FUNC_2
+usleep_range,FUNC_3
+vmxnet3_quiesce_dev,FUNC_4
+vmxnet3_rq_destroy_all,FUNC_5
+vmxnet3_tq_destroy_all,FUNC_6
+vmxnet3_close,FUNC_7
+netdev,VAR_1
+adapter,VAR_2

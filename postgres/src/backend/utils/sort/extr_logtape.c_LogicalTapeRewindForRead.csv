@@ -1,0 +1,13 @@
+Assert,FUNC_0
+BLCKSZ,VAR_0
+TapeBlockSetNBytes,FUNC_1
+VALGRIND_MAKE_MEM_DEFINED,FUNC_2
+ltsReadFillBuffer,FUNC_3
+ltsWriteBlock,FUNC_4
+palloc,FUNC_5
+pfree,FUNC_6
+LogicalTapeRewindForRead,FUNC_7
+lts,VAR_1
+tapenum,VAR_2
+buffer_size,VAR_3
+lt,VAR_4

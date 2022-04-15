@@ -1,0 +1,13 @@
+__skb_queue_head_init,FUNC_0
+atomic_add,FUNC_1
+sk_rmem_alloc_get,FUNC_2
+sock_net,FUNC_3
+tipc_node_distr_xmit,FUNC_4
+tipc_sk,FUNC_5
+tipc_sk_filter_rcv,FUNC_6
+tipc_sk_backlog_rcv,FUNC_7
+sk,VAR_0
+skb,VAR_1
+before,VAR_2
+xmitq,VAR_3
+added,VAR_4

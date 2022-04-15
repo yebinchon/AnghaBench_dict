@@ -1,0 +1,14 @@
+ERROR_SUCCESS,VAR_0
+ITERATE_Actions,VAR_1
+MSI_IterateRecords,FUNC_0
+MSI_OpenQuery,FUNC_1
+TRACE,FUNC_2
+TRUE,VAR_2
+msi_set_property,FUNC_3
+msiobj_release,FUNC_4
+szSourceDir,VAR_3
+ACTION_ProcessExecSequence,FUNC_5
+package,VAR_4
+query,VAR_5
+view,VAR_6
+rc,VAR_7

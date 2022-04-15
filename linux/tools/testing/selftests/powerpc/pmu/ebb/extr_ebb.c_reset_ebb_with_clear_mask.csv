@@ -1,0 +1,11 @@
+BESCR_PME,VAR_0
+BESCR_PMEO,VAR_1
+MMCR0_PMAE,VAR_2
+SPRN_BESCRR,VAR_3
+SPRN_BESCRS,VAR_4
+SPRN_MMCR0,VAR_5
+mfspr,FUNC_0
+mtspr,FUNC_1
+reset_ebb_with_clear_mask,FUNC_2
+mmcr0_clear_mask,VAR_6
+val,VAR_7

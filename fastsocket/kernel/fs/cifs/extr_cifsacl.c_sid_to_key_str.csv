@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+NUM_AUTHS,VAR_1
+SIDOWNER,VAR_2
+SID_STRING_BASE_SIZE,VAR_3
+SID_STRING_SUBAUTH_SIZE,VAR_4
+kmalloc,FUNC_0
+le32_to_cpu,FUNC_1
+sprintf,FUNC_2
+sid_to_key_str,FUNC_3
+sidptr,VAR_5
+type,VAR_6
+i,VAR_7
+len,VAR_8
+saval,VAR_9
+sidstr,VAR_10
+strptr,VAR_11

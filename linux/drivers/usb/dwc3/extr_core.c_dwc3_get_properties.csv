@@ -1,0 +1,17 @@
+device_property_read_bool,FUNC_0
+device_property_read_string,FUNC_1
+device_property_read_u32,FUNC_2
+device_property_read_u8,FUNC_3
+of_usb_get_phy_mode,FUNC_4
+usb_get_dr_mode,FUNC_5
+usb_get_maximum_speed,FUNC_6
+dwc3_get_properties,FUNC_7
+dwc,VAR_0
+dev,VAR_1
+lpm_nyet_threshold,VAR_2
+tx_de_emphasis,VAR_3
+hird_threshold,VAR_4
+rx_thr_num_pkt_prd,VAR_5
+rx_max_burst_prd,VAR_6
+tx_thr_num_pkt_prd,VAR_7
+tx_max_burst_prd,VAR_8

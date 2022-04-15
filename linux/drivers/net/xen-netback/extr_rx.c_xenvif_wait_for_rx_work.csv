@@ -1,0 +1,11 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+finish_wait,FUNC_1
+prepare_to_wait,FUNC_2
+schedule_timeout,FUNC_3
+wait,VAR_1
+xenvif_have_rx_work,FUNC_4
+xenvif_rx_queue_timeout,FUNC_5
+xenvif_wait_for_rx_work,FUNC_6
+queue,VAR_2
+ret,VAR_3

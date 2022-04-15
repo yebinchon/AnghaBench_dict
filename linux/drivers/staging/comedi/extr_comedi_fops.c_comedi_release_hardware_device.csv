@@ -1,0 +1,11 @@
+COMEDI_NUM_BOARD_MINORS,VAR_0
+comedi_board_minor_table,VAR_1
+comedi_board_minor_table_lock,VAR_2
+comedi_free_board_dev,FUNC_0
+comedi_num_legacy_minors,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+comedi_release_hardware_device,FUNC_3
+hardware_device,VAR_4
+minor,VAR_5
+dev,VAR_6

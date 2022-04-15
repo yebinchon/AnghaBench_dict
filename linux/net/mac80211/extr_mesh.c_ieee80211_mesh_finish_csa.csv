@@ -1,0 +1,16 @@
+BSS_CHANGED_BEACON,VAR_0
+EINVAL,VAR_1
+IEEE80211_MESH_CSA_ROLE_NONE,VAR_2
+RCU_INIT_POINTER,FUNC_0
+ieee80211_mesh_rebuild_beacon,FUNC_1
+kfree_rcu,FUNC_2
+lockdep_is_held,FUNC_3
+mcsa_dbg,FUNC_4
+rcu_dereference_protected,FUNC_5
+rcu_head,VAR_3
+ieee80211_mesh_finish_csa,FUNC_6
+sdata,VAR_4
+ifmsh,VAR_5
+tmp_csa_settings,VAR_6
+ret,VAR_7
+changed,VAR_8

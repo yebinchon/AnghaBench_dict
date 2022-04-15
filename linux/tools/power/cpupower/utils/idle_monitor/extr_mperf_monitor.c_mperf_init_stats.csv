@@ -1,0 +1,10 @@
+MSR_APERF,VAR_0
+MSR_MPERF,VAR_1
+aperf_previous_count,VAR_2
+is_valid,VAR_3
+mperf_previous_count,VAR_4
+read_msr,FUNC_0
+mperf_init_stats,FUNC_1
+cpu,VAR_5
+val,VAR_6
+ret,VAR_7

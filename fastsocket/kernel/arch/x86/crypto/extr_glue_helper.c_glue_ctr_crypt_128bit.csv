@@ -1,0 +1,17 @@
+__glue_ctr_crypt_128bit,FUNC_0
+blkcipher_walk_done,FUNC_1
+blkcipher_walk_init,FUNC_2
+blkcipher_walk_virt_block,FUNC_3
+glue_ctr_crypt_final_128bit,FUNC_4
+glue_fpu_begin,FUNC_5
+glue_fpu_end,FUNC_6
+glue_ctr_crypt_128bit,FUNC_7
+gctx,VAR_0
+desc,VAR_1
+dst,VAR_2
+src,VAR_3
+nbytes,VAR_4
+bsize,VAR_5
+fpu_enabled,VAR_6
+walk,VAR_7
+err,VAR_8

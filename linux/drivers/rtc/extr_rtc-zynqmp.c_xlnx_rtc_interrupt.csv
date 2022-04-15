@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+RTC_AF,VAR_2
+RTC_INT_ALRM,VAR_3
+RTC_INT_SEC,VAR_4
+RTC_INT_STS,VAR_5
+RTC_IRQF,VAR_6
+readl,FUNC_0
+rtc_update_irq,FUNC_1
+writel,FUNC_2
+xlnx_rtc_interrupt,FUNC_3
+irq,VAR_7
+id,VAR_8
+xrtcdev,VAR_9
+status,VAR_10

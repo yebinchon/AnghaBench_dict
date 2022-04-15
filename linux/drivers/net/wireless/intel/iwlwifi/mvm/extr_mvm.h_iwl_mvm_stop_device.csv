@@ -1,0 +1,10 @@
+IWL_MVM_STATUS_FIRMWARE_RUNNING,VAR_0
+clear_bit,FUNC_0
+iwl_free_fw_paging,FUNC_1
+iwl_fw_cancel_timestamp,FUNC_2
+iwl_fw_dbg_stop_sync,FUNC_3
+iwl_fw_dump_conf_clear,FUNC_4
+iwl_trans_stop_device,FUNC_5
+lockdep_assert_held,FUNC_6
+iwl_mvm_stop_device,FUNC_7
+mvm,VAR_1

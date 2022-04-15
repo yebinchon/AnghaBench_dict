@@ -1,0 +1,17 @@
+AF_CHPRST_DETECTED,VAR_0
+AF_CHPRST_NEEDED,VAR_1
+AF_CHPRST_STARTED,VAR_2
+AF_DEGRADED_MODE,VAR_3
+AF_FIRST_INIT,VAR_4
+AF_POWER_MGT,VAR_5
+ESAS2R_LOG_CRIT,VAR_6
+clear_bit,FUNC_0
+esas2r_check_adapter,FUNC_1
+esas2r_disable_chip_interrupts,FUNC_2
+esas2r_enable_chip_interrupts,FUNC_3
+esas2r_init_adapter_hw,FUNC_4
+esas2r_log,FUNC_5
+esas2r_send_reset_ae,FUNC_6
+test_bit,FUNC_7
+esas2r_handle_chip_rst_during_tasklet,FUNC_8
+a,VAR_7

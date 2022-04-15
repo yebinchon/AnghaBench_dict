@@ -1,0 +1,11 @@
+S_IFDIR,VAR_0
+assert,FUNC_0
+mac_selinux_create_file_clear,FUNC_1
+mac_selinux_create_file_prepare_at,FUNC_2
+mac_smack_fix_at,FUNC_3
+mkdirat_errno_wrapper,FUNC_4
+mkdirat_label,FUNC_5
+dirfd,VAR_1
+path,VAR_2
+mode,VAR_3
+r,VAR_4

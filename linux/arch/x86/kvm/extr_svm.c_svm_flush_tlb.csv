@@ -1,0 +1,8 @@
+TLB_CONTROL_FLUSH_ASID,VAR_0
+X86_FEATURE_FLUSHBYASID,VAR_1
+static_cpu_has,FUNC_0
+to_svm,FUNC_1
+svm_flush_tlb,FUNC_2
+vcpu,VAR_2
+invalidate_gpa,VAR_3
+svm,VAR_4

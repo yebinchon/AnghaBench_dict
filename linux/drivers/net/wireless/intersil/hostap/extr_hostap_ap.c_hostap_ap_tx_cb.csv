@@ -1,0 +1,17 @@
+BIT,FUNC_0
+ETH_P_802_2,VAR_0
+IEEE80211_FCTL_VERS,VAR_1
+PACKET_OTHERHOST,VAR_2
+cpu_to_be16,FUNC_1
+cpu_to_le16,FUNC_2
+dev_kfree_skb,FUNC_3
+hostap_80211_get_hdrlen,FUNC_4
+memset,FUNC_5
+netif_rx,FUNC_6
+skb_pull,FUNC_7
+hostap_ap_tx_cb,FUNC_8
+skb,VAR_3
+ok,VAR_4
+data,VAR_5
+ap,VAR_6
+hdr,VAR_7

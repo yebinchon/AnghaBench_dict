@@ -1,0 +1,9 @@
+SUBSTREAM_FLAG_DATA_EP_STARTED,VAR_0
+SUBSTREAM_FLAG_SYNC_EP_STARTED,VAR_1
+snd_usb_endpoint_stop,FUNC_0
+test_and_clear_bit,FUNC_1
+stop_endpoints,FUNC_2
+subs,VAR_2
+force,VAR_3
+can_sleep,VAR_4
+wait,VAR_5

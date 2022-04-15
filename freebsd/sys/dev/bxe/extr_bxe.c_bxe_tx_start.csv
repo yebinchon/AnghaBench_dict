@@ -1,0 +1,12 @@
+BLOGW,FUNC_0
+BXE_FP_TX_LOCK,FUNC_1
+BXE_FP_TX_UNLOCK,FUNC_2
+IFF_DRV_OACTIVE,VAR_0
+IFF_DRV_RUNNING,VAR_1
+bxe_tx_start_locked,FUNC_3
+if_getdrvflags,FUNC_4
+if_getsoftc,FUNC_5
+bxe_tx_start,FUNC_6
+ifp,VAR_2
+sc,VAR_3
+fp,VAR_4

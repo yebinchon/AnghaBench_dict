@@ -1,0 +1,15 @@
+AVIC_PHYSICAL_ID_ENTRY_HOST_PHYSICAL_ID_MASK,VAR_0
+AVIC_PHYSICAL_ID_ENTRY_IS_RUNNING_MASK,VAR_1
+READ_ONCE,FUNC_0
+WARN_ON,FUNC_1
+WRITE_ONCE,FUNC_2
+avic_update_iommu_vcpu_affinity,FUNC_3
+kvm_cpu_get_apicid,FUNC_4
+kvm_vcpu_apicv_active,FUNC_5
+to_svm,FUNC_6
+avic_vcpu_load,FUNC_7
+vcpu,VAR_2
+cpu,VAR_3
+entry,VAR_4
+h_physical_id,VAR_5
+svm,VAR_6

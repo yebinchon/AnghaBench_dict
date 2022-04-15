@@ -1,0 +1,8 @@
+KTHREAD_IS_PARKED_MASK,VAR_0
+KTHREAD_SHOULD_PARK_MASK,VAR_1
+TASK_PARKED,VAR_2
+atomic_andnot,FUNC_0
+atomic_fetch_andnot,FUNC_1
+wake_up_state,FUNC_2
+linux_kthread_unpark,FUNC_3
+task,VAR_3

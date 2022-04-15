@@ -1,0 +1,15 @@
+CMD_ACCESS_IO_WRITE,VAR_0
+IO_NUM_REG_CONT,VAR_1
+pcxhr_init_rmh,FUNC_0
+pcxhr_send_msg_nolock,FUNC_1
+snd_printdd,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+pcxhr_write_io_num_reg_cont,FUNC_5
+mgr,VAR_2
+mask,VAR_3
+value,VAR_4
+changed,VAR_5
+rmh,VAR_6
+flags,VAR_7
+err,VAR_8

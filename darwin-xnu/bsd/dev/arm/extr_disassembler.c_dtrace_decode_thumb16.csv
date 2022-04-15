@@ -1,0 +1,14 @@
+BITS,FUNC_0
+FASTTRAP_T_B_UNCOND,VAR_0
+FASTTRAP_T_COMMON,VAR_1
+FASTTRAP_T_INV,VAR_2
+FASTTRAP_T_LDR_PC_IMMED,VAR_3
+thumb16_cond_supervisor,FUNC_1
+thumb16_data_proc,FUNC_2
+thumb16_data_special_and_branch,FUNC_3
+thumb16_loadstore_single,FUNC_4
+thumb16_misc,FUNC_5
+thumb16_shift_addsub_move_compare,FUNC_6
+dtrace_decode_thumb16,FUNC_7
+instr,VAR_4
+opcode,VAR_5

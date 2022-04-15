@@ -1,0 +1,11 @@
+DefWindowProcW,FUNC_0
+GetWindowRect,FUNC_1
+TRACE,FUNC_2
+WM_WINDOWPOSCHANGED,VAR_0
+wine_dbgstr_rect,FUNC_3
+REBAR_WindowPosChanged,FUNC_4
+infoPtr,VAR_1
+wParam,VAR_2
+lParam,VAR_3
+ret,VAR_4
+rc,VAR_5

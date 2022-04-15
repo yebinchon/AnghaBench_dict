@@ -1,0 +1,8 @@
+MPI2_REQ_DESCRIPT_FLAGS_HIGH_PRIORITY,VAR_0
+_base_writeq,FUNC_0
+cpu_to_le16,FUNC_1
+mpt2sas_base_put_smid_hi_priority,FUNC_2
+ioc,VAR_1
+smid,VAR_2
+descriptor,VAR_3
+request,VAR_4

@@ -1,0 +1,15 @@
+HN_FLAG_CHIM_REF,VAR_0
+HN_FLAG_RXBUF_REF,VAR_1
+HN_FLAG_SYNTH_ATTACHED,VAR_2
+KASSERT,FUNC_0
+VMBUS_VERSION_WIN10,VAR_3
+hn_detach_allchans,FUNC_1
+hn_nvs_detach,FUNC_2
+hn_rndis_detach,FUNC_3
+if_printf,FUNC_4
+vmbus_chan_gpadl_disconnect,FUNC_5
+vmbus_current_version,VAR_4
+hn_synth_detach,FUNC_6
+sc,VAR_5
+error,VAR_6
+error,VAR_7

@@ -1,0 +1,16 @@
+WI_CMD_TX,VAR_0
+WI_RECLAIM,VAR_1
+counter_u64_add,FUNC_0
+device_printf,FUNC_1
+m_freem,FUNC_2
+wi_cmd,FUNC_3
+wi_mwrite_bap,FUNC_4
+wi_write_bap,FUNC_5
+wi_start_tx,FUNC_6
+sc,VAR_2
+frmhdr,VAR_3
+m0,VAR_4
+cur,VAR_5
+fid,VAR_6
+off,VAR_7
+error,VAR_8

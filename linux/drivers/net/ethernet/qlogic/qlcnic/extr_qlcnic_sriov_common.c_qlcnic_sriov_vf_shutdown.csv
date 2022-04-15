@@ -1,0 +1,16 @@
+QLCNIC_BC_CMD_CHANNEL_TERM,VAR_0
+cancel_delayed_work_sync,FUNC_0
+netif_device_detach,FUNC_1
+netif_running,FUNC_2
+pci_get_drvdata,FUNC_3
+pci_save_state,FUNC_4
+qlcnic_83xx_disable_mbx_intr,FUNC_5
+qlcnic_cancel_idc_work,FUNC_6
+qlcnic_down,FUNC_7
+qlcnic_sriov_cfg_bc_intr,FUNC_8
+qlcnic_sriov_channel_cfg_cmd,FUNC_9
+qlcnic_sriov_vf_shutdown,FUNC_10
+pdev,VAR_1
+adapter,VAR_2
+netdev,VAR_3
+retval,VAR_4

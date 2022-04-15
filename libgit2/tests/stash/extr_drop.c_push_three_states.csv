@@ -1,0 +1,15 @@
+GIT_STASH_INCLUDE_UNTRACKED,VAR_0
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_repo_commit_from_index,FUNC_3
+git_index_add_bypath,FUNC_4
+git_index_free,FUNC_5
+git_path_exists,FUNC_6
+git_repository_index,FUNC_7
+git_stash_save,FUNC_8
+repo,VAR_1
+signature,VAR_2
+push_three_states,FUNC_9
+oid,VAR_3
+index,VAR_4

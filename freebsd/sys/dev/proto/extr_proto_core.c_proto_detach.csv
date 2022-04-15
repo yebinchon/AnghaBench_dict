@@ -1,0 +1,14 @@
+EBUSY,VAR_0
+PROTO_RES_UNUSED,VAR_1
+bus_release_resource,FUNC_0
+destroy_dev,FUNC_1
+device_get_softc,FUNC_2
+mtx_destroy,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+proto_busdma_detach,FUNC_6
+proto_detach,FUNC_7
+dev,VAR_2
+sc,VAR_3
+r,VAR_4
+res,VAR_5

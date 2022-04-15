@@ -1,0 +1,14 @@
+MALIDP_MMU_PREFETCH_FULL_PGSIZES,VAR_0
+MALIDP_MMU_PREFETCH_PARTIAL_PGSIZES,VAR_1
+MALIDP_PREFETCH_MODE_FULL,VAR_2
+MALIDP_PREFETCH_MODE_NONE,VAR_3
+MALIDP_PREFETCH_MODE_PARTIAL,VAR_4
+__ffs,FUNC_0
+__fls,FUNC_1
+malidp_check_pages_threshold,FUNC_2
+malidp_partial_prefetch_supported,FUNC_3
+malidp_mmu_prefetch_select_mode,FUNC_4
+ms,VAR_5
+pgsize_bitmap,VAR_6
+pgsizes,VAR_7
+largest_pgsize,VAR_8

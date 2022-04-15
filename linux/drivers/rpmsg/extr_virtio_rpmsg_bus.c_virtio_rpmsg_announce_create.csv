@@ -1,0 +1,16 @@
+RPMSG_NAME_SIZE,VAR_0
+RPMSG_NS_ADDR,VAR_1
+RPMSG_NS_CREATE,VAR_2
+VIRTIO_RPMSG_F_NS,VAR_3
+dev_err,FUNC_0
+rpmsg_sendto,FUNC_1
+strncpy,FUNC_2
+to_virtio_rpmsg_channel,FUNC_3
+virtio_has_feature,FUNC_4
+virtio_rpmsg_announce_create,FUNC_5
+rpdev,VAR_4
+vch,VAR_5
+vrp,VAR_6
+dev,VAR_7
+err,VAR_8
+nsm,VAR_9

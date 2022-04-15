@@ -1,0 +1,15 @@
+CYAPA_PM_DEACTIVE,VAR_0
+PWR_MODE_OFF,VAR_1
+disable_irq,FUNC_0
+input_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_enabled,FUNC_5
+pm_runtime_set_suspended,FUNC_6
+stub1,FUNC_7
+cyapa_close,FUNC_8
+input,VAR_2
+cyapa,VAR_3
+client,VAR_4
+dev,VAR_5

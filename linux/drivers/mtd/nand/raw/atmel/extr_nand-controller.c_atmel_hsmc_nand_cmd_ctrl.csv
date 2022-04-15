@@ -1,0 +1,13 @@
+ATMEL_NFC_MAX_ADDR_CYCLES,VAR_0
+NAND_ALE,VAR_1
+NAND_CLE,VAR_2
+NAND_CMD_NONE,VAR_3
+atmel_nfc_exec_op,FUNC_0
+to_atmel_nand,FUNC_1
+to_hsmc_nand_controller,FUNC_2
+atmel_hsmc_nand_cmd_ctrl,FUNC_3
+chip,VAR_4
+dat,VAR_5
+ctrl,VAR_6
+nand,VAR_7
+nc,VAR_8

@@ -1,0 +1,16 @@
+O_APPEND,VAR_0
+O_CREAT,VAR_1
+O_RDWR,VAR_2
+O_WRONLY,VAR_3
+assert,FUNC_0
+close,FUNC_1
+dup2,FUNC_2
+fflush,FUNC_3
+fprintf,FUNC_4
+logname,VAR_4
+open,FUNC_5
+stderr,VAR_5
+stdout,VAR_6
+verbosity,VAR_7
+reopen_logs,FUNC_6
+fd,VAR_8

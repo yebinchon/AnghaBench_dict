@@ -1,0 +1,10 @@
+SMU_MSG_SetXgmiMode,VAR_0
+XGMI_STATE_D0,VAR_1
+XGMI_STATE_D3,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+smu_send_smc_msg_with_param,FUNC_2
+smu_v11_0_set_xgmi_pstate,FUNC_3
+smu,VAR_3
+pstate,VAR_4
+ret,VAR_5

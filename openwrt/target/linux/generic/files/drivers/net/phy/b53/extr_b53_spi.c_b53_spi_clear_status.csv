@@ -1,0 +1,10 @@
+B53_SPI_CMD_SPIF,VAR_0
+B53_SPI_STATUS,VAR_1
+EIO,VAR_2
+b53_spi_read_reg,FUNC_0
+mdelay,FUNC_1
+b53_spi_clear_status,FUNC_2
+spi,VAR_3
+i,VAR_4
+rxbuf,VAR_5
+ret,VAR_6

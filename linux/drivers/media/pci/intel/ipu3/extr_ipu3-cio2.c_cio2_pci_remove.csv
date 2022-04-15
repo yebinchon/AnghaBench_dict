@@ -1,0 +1,12 @@
+cio2_fbpt_exit_dummy,FUNC_0
+cio2_queues_exit,FUNC_1
+media_device_cleanup,FUNC_2
+media_device_unregister,FUNC_3
+mutex_destroy,FUNC_4
+pci_get_drvdata,FUNC_5
+v4l2_async_notifier_cleanup,FUNC_6
+v4l2_async_notifier_unregister,FUNC_7
+v4l2_device_unregister,FUNC_8
+cio2_pci_remove,FUNC_9
+pci_dev,VAR_0
+cio2,VAR_1

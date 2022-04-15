@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+INIT_LIST_HEAD,FUNC_0
+SCIF_WAIT_NACK,VAR_1
+atomic_inc,FUNC_1
+kmalloc,FUNC_2
+list_add_tail,FUNC_3
+memcpy,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+schedule_work,FUNC_7
+scif_info,VAR_2
+scif_nodeqp_send,FUNC_8
+scif_recv_wait,FUNC_9
+scifdev,VAR_3
+msg,VAR_4
+ep,VAR_5
+fence,VAR_6

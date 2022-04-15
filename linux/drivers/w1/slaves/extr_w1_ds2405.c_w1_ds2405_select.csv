@@ -1,0 +1,15 @@
+BIT,FUNC_0
+W1_ALARM_SEARCH,VAR_0
+W1_SEARCH,VAR_1
+le64_to_cpu,FUNC_1
+w1_reset_bus,FUNC_2
+w1_triplet,FUNC_3
+w1_write_8,FUNC_4
+w1_ds2405_select,FUNC_5
+sl,VAR_2
+only_active,VAR_3
+dev,VAR_4
+dev_addr,VAR_5
+bit_ctr,VAR_6
+bit2send,VAR_7
+ret,VAR_8

@@ -1,0 +1,10 @@
+VMCB_INTR,VAR_0
+V_IRQ_MASK,VAR_1
+disable_gif,FUNC_0
+kvm_rip_read,FUNC_1
+mark_dirty,FUNC_2
+nested_svm_check_permissions,FUNC_3
+skip_emulated_instruction,FUNC_4
+svm_clear_vintr,FUNC_5
+clgi_interception,FUNC_6
+svm,VAR_2

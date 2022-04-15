@@ -1,0 +1,17 @@
+DMA_BIDIRECTIONAL,VAR_0
+OCTEON_MGMT_RX_RING_SIZE,VAR_1
+OCTEON_MGMT_TX_RING_SIZE,VAR_2
+dma_unmap_single,FUNC_0
+free_irq,FUNC_1
+kfree,FUNC_2
+napi_disable,FUNC_3
+netdev_priv,FUNC_4
+netif_carrier_off,FUNC_5
+netif_stop_queue,FUNC_6
+octeon_mgmt_reset_hw,FUNC_7
+phy_disconnect,FUNC_8
+ring_size_to_bytes,FUNC_9
+skb_queue_purge,FUNC_10
+octeon_mgmt_stop,FUNC_11
+netdev,VAR_3
+p,VAR_4

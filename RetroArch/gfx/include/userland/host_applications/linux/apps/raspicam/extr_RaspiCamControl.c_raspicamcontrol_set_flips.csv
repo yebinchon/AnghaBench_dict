@@ -1,0 +1,12 @@
+MMAL_PARAMETER_MIRROR,VAR_0
+MMAL_PARAM_MIRROR_BOTH,VAR_1
+MMAL_PARAM_MIRROR_HORIZONTAL,VAR_2
+MMAL_PARAM_MIRROR_NONE,VAR_3
+MMAL_PARAM_MIRROR_VERTICAL,VAR_4
+mmal_port_parameter_set,FUNC_0
+mmal_status_to_int,FUNC_1
+raspicamcontrol_set_flips,FUNC_2
+camera,VAR_5
+hflip,VAR_6
+vflip,VAR_7
+mirror,VAR_8

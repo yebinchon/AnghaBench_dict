@@ -1,0 +1,11 @@
+I915_READ,FUNC_0
+TV_CTL,VAR_0
+TV_ENC_ENABLE,VAR_1
+TV_ENC_PIPE_SEL_MASK,VAR_2
+TV_ENC_PIPE_SEL_SHIFT,VAR_3
+to_i915,FUNC_1
+intel_tv_get_hw_state,FUNC_2
+encoder,VAR_4
+pipe,VAR_5
+dev_priv,VAR_6
+tmp,VAR_7

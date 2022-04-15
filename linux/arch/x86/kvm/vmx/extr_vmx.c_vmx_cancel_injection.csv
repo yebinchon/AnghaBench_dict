@@ -1,0 +1,8 @@
+VM_ENTRY_EXCEPTION_ERROR_CODE,VAR_0
+VM_ENTRY_INSTRUCTION_LEN,VAR_1
+VM_ENTRY_INTR_INFO_FIELD,VAR_2
+__vmx_complete_interrupts,FUNC_0
+vmcs_read32,FUNC_1
+vmcs_write32,FUNC_2
+vmx_cancel_injection,FUNC_3
+vcpu,VAR_3

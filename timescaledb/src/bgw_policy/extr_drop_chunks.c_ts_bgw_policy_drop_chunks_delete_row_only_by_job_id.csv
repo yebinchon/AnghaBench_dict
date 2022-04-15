@@ -1,0 +1,14 @@
+Anum_bgw_policy_drop_chunks_pkey_job_id,VAR_0
+BGW_POLICY_DROP_CHUNKS,VAR_1
+BGW_POLICY_DROP_CHUNKS_PKEY,VAR_2
+BGW_POLICY_DROP_CHUNKS_TABLE_NAME,VAR_3
+BTEqualStrategyNumber,VAR_4
+F_INT4EQ,VAR_5
+Int32GetDatum,FUNC_0
+RowExclusiveLock,VAR_6
+ScanKeyInit,FUNC_1
+ts_bgw_policy_delete_row_only_tuple_found,VAR_7
+ts_catalog_scan_one,FUNC_2
+ts_bgw_policy_drop_chunks_delete_row_only_by_job_id,FUNC_3
+job_id,VAR_8
+scankey,VAR_9

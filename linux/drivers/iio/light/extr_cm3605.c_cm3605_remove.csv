@@ -1,0 +1,12 @@
+LED_OFF,VAR_0
+gpiod_set_value_cansleep,FUNC_0
+iio_device_unregister,FUNC_1
+iio_priv,FUNC_2
+led_trigger_event,FUNC_3
+led_trigger_unregister_simple,FUNC_4
+platform_get_drvdata,FUNC_5
+regulator_disable,FUNC_6
+cm3605_remove,FUNC_7
+pdev,VAR_1
+indio_dev,VAR_2
+cm3605,VAR_3

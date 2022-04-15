@@ -1,0 +1,15 @@
+PCI_SRIOV_CAP_VFM,VAR_0
+PCI_SRIOV_CTRL,VAR_1
+PCI_SRIOV_CTRL_MSE,VAR_2
+PCI_SRIOV_CTRL_VFE,VAR_3
+pci_cfg_access_lock,FUNC_0
+pci_cfg_access_unlock,FUNC_1
+pci_write_config_word,FUNC_2
+sriov_disable_migration,FUNC_3
+ssleep,FUNC_4
+sysfs_remove_link,FUNC_5
+virtfn_remove,FUNC_6
+sriov_disable,FUNC_7
+dev,VAR_4
+i,VAR_5
+iov,VAR_6

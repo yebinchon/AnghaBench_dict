@@ -1,0 +1,11 @@
+AST_VHUB_DEV_ISR,VAR_0
+VHUV_DEV_IRQ_EP0_IN_ACK_STALL,VAR_1
+VHUV_DEV_IRQ_EP0_OUT_ACK_STALL,VAR_2
+VHUV_DEV_IRQ_EP0_SETUP,VAR_3
+ast_vhub_ep0_handle_ack,FUNC_0
+ast_vhub_ep0_handle_setup,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+ast_vhub_dev_irq,FUNC_4
+d,VAR_4
+istat,VAR_5

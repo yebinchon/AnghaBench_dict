@@ -1,0 +1,13 @@
+GITS_BASER_VALID,VAR_0
+GITS_CBASER_VALID,VAR_1
+GITS_CTLR_ENABLE,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+vgic_its_invalidate_cache,FUNC_2
+vgic_its_process_commands,FUNC_3
+vgic_mmio_write_its_ctlr,FUNC_4
+kvm,VAR_3
+its,VAR_4
+addr,VAR_5
+len,VAR_6
+val,VAR_7

@@ -1,0 +1,11 @@
+IPS_USE_ENH_SGLIST,FUNC_0
+cpu_to_le32,FUNC_1
+pci_dma_hi32,FUNC_2
+pci_dma_lo32,FUNC_3
+ips_fill_scb_sg_single,FUNC_4
+ha,VAR_0
+busaddr,VAR_1
+scb,VAR_2
+indx,VAR_3
+e_len,VAR_4
+ret_val,VAR_5

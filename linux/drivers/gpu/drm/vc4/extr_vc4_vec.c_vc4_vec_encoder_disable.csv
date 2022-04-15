@@ -1,0 +1,16 @@
+DRM_ERROR,FUNC_0
+VEC_CFG,VAR_0
+VEC_DAC_MISC,VAR_1
+VEC_DAC_MISC_BIAS_PWRDN,VAR_2
+VEC_DAC_MISC_DAC_PWRDN,VAR_3
+VEC_DAC_MISC_LDO_PWRDN,VAR_4
+VEC_DAC_MISC_VCD_PWRDN,VAR_5
+VEC_WRITE,FUNC_1
+clk_disable_unprepare,FUNC_2
+pm_runtime_put,FUNC_3
+to_vc4_vec_encoder,FUNC_4
+vc4_vec_encoder_disable,FUNC_5
+encoder,VAR_6
+vc4_vec_encoder,VAR_7
+vec,VAR_8
+ret,VAR_9

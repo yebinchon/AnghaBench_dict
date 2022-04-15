@@ -1,0 +1,14 @@
+EC_F_PKEY_EC_PARAMGEN,VAR_0
+EC_KEY_free,FUNC_0
+EC_KEY_new,FUNC_1
+EC_KEY_set_group,FUNC_2
+EC_R_NO_PARAMETERS_SET,VAR_1
+ECerr,FUNC_3
+EVP_PKEY_assign_EC_KEY,FUNC_4
+ossl_assert,FUNC_5
+pkey_ec_paramgen,FUNC_6
+ctx,VAR_2
+pkey,VAR_3
+ec,VAR_4
+dctx,VAR_5
+ret,VAR_6

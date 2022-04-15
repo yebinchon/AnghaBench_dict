@@ -1,0 +1,10 @@
+TCP_NEW_SYN_RECV,VAR_0
+TCP_TIME_WAIT,VAR_1
+inet_reqsk,FUNC_0
+inet_twsk,FUNC_1
+inet_twsk_free,FUNC_2
+refcount_dec_and_test,FUNC_3
+reqsk_free,FUNC_4
+sk_free,FUNC_5
+sock_gen_put,FUNC_6
+sk,VAR_2

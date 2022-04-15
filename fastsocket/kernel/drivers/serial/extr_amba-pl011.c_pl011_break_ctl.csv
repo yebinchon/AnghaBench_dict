@@ -1,0 +1,12 @@
+UART011_LCRH,VAR_0
+UART01x_LCRH_BRK,VAR_1
+readw,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writew,FUNC_3
+pl011_break_ctl,FUNC_4
+port,VAR_2
+break_state,VAR_3
+uap,VAR_4
+flags,VAR_5
+lcr_h,VAR_6

@@ -1,0 +1,14 @@
+APIC_LVT_LEVEL_TRIGGER,VAR_0
+APIC_LVT_MASKED,VAR_1
+APIC_MODE_MASK,VAR_2
+APIC_VECTOR_MASK,VAR_3
+__apic_accept_irq,FUNC_0
+kvm_apic_hw_enabled,FUNC_1
+kvm_lapic_get_reg,FUNC_2
+kvm_apic_local_deliver,FUNC_3
+apic,VAR_4
+lvt_type,VAR_5
+reg,VAR_6
+vector,VAR_7
+mode,VAR_8
+trig_mode,VAR_9

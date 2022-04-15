@@ -1,0 +1,15 @@
+AS3722_RTC_SECOND,VAR_0
+AS3722_RTC_START_YEAR,VAR_1
+EINVAL,VAR_2
+as3722_write_buf,FUNC_0
+bin2bcd,FUNC_1
+clock_ts_to_ct,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+as3722_rtc_settime,FUNC_5
+dev,VAR_3
+ts,VAR_4
+sc,VAR_5
+ct,VAR_6
+buf,VAR_7
+rv,VAR_8

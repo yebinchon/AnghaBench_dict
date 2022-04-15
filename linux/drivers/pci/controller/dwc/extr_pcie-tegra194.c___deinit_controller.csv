@@ -1,0 +1,10 @@
+clk_disable_unprepare,FUNC_0
+dev_err,FUNC_1
+regulator_disable,FUNC_2
+reset_control_assert,FUNC_3
+tegra_pcie_bpmp_set_ctrl_state,FUNC_4
+tegra_pcie_disable_phy,FUNC_5
+tegra_pcie_disable_slot_regulators,FUNC_6
+__deinit_controller,FUNC_7
+pcie,VAR_0
+ret,VAR_1

@@ -1,0 +1,14 @@
+DP_IRQ_TYPE_HP_CABLE_IN,VAR_0
+DP_IRQ_TYPE_HP_CABLE_OUT,VAR_1
+DP_IRQ_TYPE_UNKNOWN,VAR_2
+IRQ_HANDLED,VAR_3
+analogix_dp_clear_hotplug_interrupts,FUNC_0
+analogix_dp_get_irq_type,FUNC_1
+analogix_dp_unmute_hpd_interrupt,FUNC_2
+dev_dbg,FUNC_3
+drm_helper_hpd_irq_event,FUNC_4
+analogix_dp_irq_thread,FUNC_5
+irq,VAR_4
+arg,VAR_5
+dp,VAR_6
+irq_type,VAR_7

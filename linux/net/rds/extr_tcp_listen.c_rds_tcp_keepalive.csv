@@ -1,0 +1,13 @@
+IPPROTO_TCP,VAR_0
+SOL_SOCKET,VAR_1
+SO_KEEPALIVE,VAR_2
+TCP_KEEPCNT,VAR_3
+TCP_KEEPIDLE,VAR_4
+TCP_KEEPINTVL,VAR_5
+kernel_setsockopt,FUNC_0
+rds_tcp_keepalive,FUNC_1
+sock,VAR_6
+keepidle,VAR_7
+keepcnt,VAR_8
+keepalive,VAR_9
+ret,VAR_10

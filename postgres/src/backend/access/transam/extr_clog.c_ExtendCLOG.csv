@@ -1,0 +1,12 @@
+CLogControlLock,VAR_0
+FirstNormalTransactionId,VAR_1
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_EXCLUSIVE,VAR_2
+TransactionIdEquals,FUNC_2
+TransactionIdToPage,FUNC_3
+TransactionIdToPgIndex,FUNC_4
+ZeroCLOGPage,FUNC_5
+ExtendCLOG,FUNC_6
+newestXact,VAR_3
+pageno,VAR_4

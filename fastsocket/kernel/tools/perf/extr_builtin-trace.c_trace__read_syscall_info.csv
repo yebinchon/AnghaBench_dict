@@ -1,0 +1,13 @@
+audit_syscall_to_name,FUNC_0
+event_format__new,FUNC_1
+memset,FUNC_2
+realloc,FUNC_3
+snprintf,FUNC_4
+syscall_fmt__find,FUNC_5
+trace__read_syscall_info,FUNC_6
+trace,VAR_0
+id,VAR_1
+tp_name,VAR_2
+sc,VAR_3
+name,VAR_4
+nsyscalls,VAR_5

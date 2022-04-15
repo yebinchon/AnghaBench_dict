@@ -1,0 +1,12 @@
+EPCTRL_RX_DATA_TOGGLE_RST,VAR_0
+EPCTRL_RX_EP_STALL,VAR_1
+EPCTRL_TX_DATA_TOGGLE_RST,VAR_2
+EPCTRL_TX_EP_STALL,VAR_3
+dr_regs,VAR_4
+fsl_readl,FUNC_0
+fsl_writel,FUNC_1
+dr_ep_change_stall,FUNC_2
+ep_num,VAR_5
+dir,VAR_6
+value,VAR_7
+tmp_epctrl,VAR_8

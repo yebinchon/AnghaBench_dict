@@ -1,0 +1,17 @@
+DBG,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+mdp5_ctl_blend,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_mdp5_crtc,FUNC_5
+to_mdp5_crtc_state,FUNC_6
+complete_flip,FUNC_7
+crtc,VAR_0
+file,VAR_1
+mdp5_cstate,VAR_2
+pipeline,VAR_3
+mdp5_crtc,VAR_4
+ctl,VAR_5
+dev,VAR_6
+event,VAR_7
+flags,VAR_8

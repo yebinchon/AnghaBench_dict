@@ -1,0 +1,14 @@
+TIMER_CLEAR,VAR_0
+TIMER_ENABLE,VAR_1
+TIMER_ENABLE_EN,VAR_2
+TIMER_MATCH_VAL,VAR_3
+TIMER_STS_GPT0_CLR_PEND,VAR_4
+cpu_relax,FUNC_0
+event_base,VAR_5
+readl_relaxed,FUNC_1
+sts_base,VAR_6
+writel_relaxed,FUNC_2
+msm_timer_set_next_event,FUNC_3
+cycles,VAR_7
+evt,VAR_8
+ctrl,VAR_9

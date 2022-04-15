@@ -1,0 +1,14 @@
+ARCMSR_SRBREPLY_FLAG_ERROR_MODE0,VAR_0
+BUS_DMASYNC_POSTREAD,VAR_1
+BUS_DMASYNC_POSTWRITE,VAR_2
+CHIP_REG_READ32,FUNC_0
+FALSE,VAR_3
+HBA_MessageUnit,VAR_4
+TRUE,VAR_5
+arcmsr_drain_donequeue,FUNC_1
+bus_dmamap_sync,FUNC_2
+outbound_queueport,VAR_6
+arcmsr_hba_postqueue_isr,FUNC_3
+acb,VAR_7
+flag_srb,VAR_8
+error,VAR_9

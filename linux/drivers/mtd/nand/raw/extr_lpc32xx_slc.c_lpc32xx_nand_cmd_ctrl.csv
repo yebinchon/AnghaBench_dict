@@ -1,0 +1,16 @@
+NAND_CLE,VAR_0
+NAND_CMD_NONE,VAR_1
+NAND_NCE,VAR_2
+SLCCFG_CE_LOW,VAR_3
+SLC_ADDR,FUNC_0
+SLC_CFG,FUNC_1
+SLC_CMD,FUNC_2
+nand_get_controller_data,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+lpc32xx_nand_cmd_ctrl,FUNC_6
+chip,VAR_4
+cmd,VAR_5
+ctrl,VAR_6
+tmp,VAR_7
+host,VAR_8

@@ -1,0 +1,17 @@
+CTP_ESTABLISHED,VAR_0
+CXGBI_DBG_ISCSI,VAR_1
+CXGBI_DBG_SOCK,VAR_2
+cxgbi_sock_closed,FUNC_0
+cxgbi_sock_put,FUNC_1
+iscsi_destroy_endpoint,FUNC_2
+iscsi_suspend_tx,FUNC_3
+likely,FUNC_4
+log_debug,FUNC_5
+need_active_close,FUNC_6
+write_lock_bh,FUNC_7
+write_unlock_bh,FUNC_8
+cxgbi_ep_disconnect,FUNC_9
+ep,VAR_3
+cep,VAR_4
+cconn,VAR_5
+csk,VAR_6

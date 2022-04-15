@@ -1,0 +1,16 @@
+BRIDGE_CAUSE,VAR_0
+RSTOUTn_MASK,VAR_1
+TIMER_CTRL,VAR_2
+WDT_EN,VAR_3
+WDT_INT_REQ,VAR_4
+WDT_RESET_OUT_EN,VAR_5
+WDT_VAL,VAR_6
+heartbeat,VAR_7
+readl,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+wdt_lock,VAR_8
+wdt_tclk,VAR_9
+writel,FUNC_3
+orion_wdt_enable,FUNC_4
+reg,VAR_10

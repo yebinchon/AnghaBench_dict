@@ -1,0 +1,17 @@
+EIO,VAR_0
+GO7007_BOARDID_ADS_USBAV_709,VAR_1
+call_all,FUNC_0
+go7007_start_encoder,FUNC_1
+go7007_write_addr,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+s_stream,VAR_2
+set_formatting,FUNC_5
+v4l2_ctrl_grab,FUNC_6
+vb2_get_drv_priv,FUNC_7
+video,VAR_3
+go7007_start_streaming,FUNC_8
+q,VAR_4
+count,VAR_5
+go,VAR_6
+ret,VAR_7

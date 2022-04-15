@@ -1,0 +1,13 @@
+NPCM7XX_REG_TCSR0,VAR_0
+NPCM7XX_REG_TICR0,VAR_1
+NPCM7XX_START_PERIODIC_Tx,VAR_2
+NPCM7XX_Tx_OPER,VAR_3
+readl,FUNC_0
+timer_of_base,FUNC_1
+timer_of_period,FUNC_2
+to_timer_of,FUNC_3
+writel,FUNC_4
+npcm7xx_timer_periodic,FUNC_5
+evt,VAR_4
+to,VAR_5
+val,VAR_6

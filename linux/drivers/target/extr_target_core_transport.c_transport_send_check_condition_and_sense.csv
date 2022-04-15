@@ -1,0 +1,13 @@
+SCF_SCSI_TMR_CDB,VAR_0
+SCF_SENT_CHECK_CONDITION,VAR_1
+WARN_ON_ONCE,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+stub1,FUNC_3
+trace_target_cmd_complete,FUNC_4
+translate_sense_reason,FUNC_5
+transport_send_check_condition_and_sense,FUNC_6
+cmd,VAR_2
+reason,VAR_3
+from_transport,VAR_4
+flags,VAR_5

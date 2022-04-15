@@ -1,0 +1,13 @@
+CRYPTO_F_OSSL_PROVIDER_ADD_PARAMETER,VAR_0
+CRYPTOerr,FUNC_0
+ERR_R_MALLOC_FAILURE,VAR_1
+OPENSSL_free,FUNC_1
+OPENSSL_strdup,FUNC_2
+OPENSSL_zalloc,FUNC_3
+sk_INFOPAIR_new_null,FUNC_4
+sk_INFOPAIR_push,FUNC_5
+ossl_provider_add_parameter,FUNC_6
+prov,VAR_2
+name,VAR_3
+value,VAR_4
+pair,VAR_5

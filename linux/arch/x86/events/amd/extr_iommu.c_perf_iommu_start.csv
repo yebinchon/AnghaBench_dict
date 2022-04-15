@@ -1,0 +1,16 @@
+IOMMU_PC_COUNTER_REG,VAR_0
+PERF_EF_RELOAD,VAR_1
+PERF_HES_STOPPED,VAR_2
+PERF_HES_UPTODATE,VAR_3
+WARN_ON_ONCE,FUNC_0
+amd_iommu_pc_set_reg,FUNC_1
+local64_read,FUNC_2
+perf_event_2_iommu,FUNC_3
+perf_event_update_userpage,FUNC_4
+perf_iommu_enable_event,FUNC_5
+perf_iommu_start,FUNC_6
+event,VAR_4
+flags,VAR_5
+hwc,VAR_6
+prev_raw_count,VAR_7
+iommu,VAR_8

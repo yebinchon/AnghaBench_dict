@@ -1,0 +1,12 @@
+CARL9170_CMD_READ_TSF,VAR_0
+WARN_ON,FUNC_0
+carl9170_exec_cmd,FUNC_1
+le64_to_cpu,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+carl9170_op_get_tsf,FUNC_5
+hw,VAR_1
+vif,VAR_2
+ar,VAR_3
+tsf,VAR_4
+err,VAR_5

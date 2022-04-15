@@ -1,0 +1,8 @@
+DS2760_EEPROM_BLOCK1,VAR_0
+DS2760_RATED_CAPACITY,VAR_1
+w1_ds2760_recall_eeprom,FUNC_0
+w1_ds2760_store_eeprom,FUNC_1
+w1_ds2760_write,FUNC_2
+ds2760_battery_write_rated_capacity,FUNC_3
+di,VAR_2
+rated_capacity,VAR_3

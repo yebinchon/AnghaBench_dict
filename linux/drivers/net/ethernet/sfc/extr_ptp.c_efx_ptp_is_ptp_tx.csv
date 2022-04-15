@@ -1,0 +1,16 @@
+ETH_P_IP,VAR_0
+IPPROTO_UDP,VAR_1
+MC_CMD_PTP_IN_TRANSMIT_PACKET_MAXNUM,VAR_2
+PTP_EVENT_PORT,VAR_3
+PTP_MIN_LENGTH,VAR_4
+htons,FUNC_0
+ip_hdr,FUNC_1
+likely,FUNC_2
+skb_headlen,FUNC_3
+skb_network_header_len,FUNC_4
+skb_transport_header_was_set,FUNC_5
+skb_transport_offset,FUNC_6
+udp_hdr,FUNC_7
+efx_ptp_is_ptp_tx,FUNC_8
+efx,VAR_5
+skb,VAR_6

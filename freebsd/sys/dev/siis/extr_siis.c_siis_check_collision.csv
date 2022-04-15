@@ -1,0 +1,11 @@
+CAM_ATAIO_CONTROL,VAR_0
+CAM_ATAIO_FPDMA,VAR_1
+CAM_ATAIO_NEEDRESULT,VAR_2
+MA_OWNED,VAR_3
+XPT_ATA_IO,VAR_4
+device_get_softc,FUNC_0
+mtx_assert,FUNC_1
+siis_check_collision,FUNC_2
+dev,VAR_5
+ccb,VAR_6
+ch,VAR_7

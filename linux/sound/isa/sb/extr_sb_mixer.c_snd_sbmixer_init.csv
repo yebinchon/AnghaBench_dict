@@ -1,0 +1,17 @@
+snd_component_add,FUNC_0
+snd_sbmixer_add_ctl_elem,FUNC_1
+snd_sbmixer_write,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+strcpy,FUNC_5
+snd_sbmixer_init,FUNC_6
+chip,VAR_0
+controls,VAR_1
+controls_count,VAR_2
+map,VAR_3
+map_count,VAR_4
+name,VAR_5
+flags,VAR_6
+card,VAR_7
+idx,VAR_8
+err,VAR_9

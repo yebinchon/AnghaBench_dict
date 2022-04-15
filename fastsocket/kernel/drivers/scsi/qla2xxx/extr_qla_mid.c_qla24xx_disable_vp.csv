@@ -1,0 +1,14 @@
+FC_VPORT_DISABLED,VAR_0
+FC_VPORT_FAILED,VAR_1
+LOOP_DOWN,VAR_2
+LOOP_DOWN_TIME,VAR_3
+QLA_SUCCESS,VAR_4
+VCE_COMMAND_DISABLE_VPS_LOGO_ALL,VAR_5
+VP_FAILED,VAR_6
+atomic_set,FUNC_0
+fc_vport_set_state,FUNC_1
+qla24xx_control_vp,FUNC_2
+qla2x00_mark_vp_devices_dead,FUNC_3
+qla24xx_disable_vp,FUNC_4
+vha,VAR_7
+ret,VAR_8

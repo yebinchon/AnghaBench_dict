@@ -1,0 +1,11 @@
+ENDPOINT0,VAR_0
+HTC_CTRL_RSVD_SVC,VAR_1
+HTC_MAX_CONTROL_MESSAGE_LENGTH,VAR_2
+atomic_inc,FUNC_0
+be16_to_cpu,FUNC_1
+complete,FUNC_2
+htc_process_target_rdy,FUNC_3
+target,VAR_3
+buf,VAR_4
+endpoint,VAR_5
+htc_ready_msg,VAR_6

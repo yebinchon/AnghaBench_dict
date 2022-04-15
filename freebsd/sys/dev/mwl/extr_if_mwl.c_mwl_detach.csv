@@ -1,0 +1,13 @@
+MWL_LOCK,FUNC_0
+MWL_RXFREE_DESTROY,FUNC_1
+MWL_UNLOCK,FUNC_2
+callout_drain,FUNC_3
+ieee80211_ifdetach,FUNC_4
+mbufq_drain,FUNC_5
+mwl_dma_cleanup,FUNC_6
+mwl_hal_detach,FUNC_7
+mwl_stop,FUNC_8
+mwl_tx_cleanup,FUNC_9
+mwl_detach,FUNC_10
+sc,VAR_0
+ic,VAR_1

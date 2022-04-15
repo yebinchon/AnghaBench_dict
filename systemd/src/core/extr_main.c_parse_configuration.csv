@@ -1,0 +1,14 @@
+arg_system,VAR_0
+assert,FUNC_0
+fallback_rlimit_memlock,FUNC_1
+fallback_rlimit_nofile,FUNC_2
+log_parse_environment,FUNC_3
+log_warning_errno,FUNC_4
+parse_config_file,FUNC_5
+parse_proc_cmdline_item,VAR_1
+proc_cmdline_parse,FUNC_6
+reset_arguments,FUNC_7
+parse_configuration,FUNC_8
+saved_rlimit_nofile,VAR_2
+saved_rlimit_memlock,VAR_3
+r,VAR_4

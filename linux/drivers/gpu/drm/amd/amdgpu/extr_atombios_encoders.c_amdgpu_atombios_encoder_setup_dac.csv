@@ -1,0 +1,17 @@
+ATOM_DAC1_PS2,VAR_0
+COMMAND,VAR_1
+DAC1EncoderControl,VAR_2
+DAC2EncoderControl,VAR_3
+GetIndexIntoMasterTable,FUNC_0
+amdgpu_atom_execute_table,FUNC_1
+cpu_to_le16,FUNC_2
+memset,FUNC_3
+to_amdgpu_encoder,FUNC_4
+amdgpu_atombios_encoder_setup_dac,FUNC_5
+encoder,VAR_4
+action,VAR_5
+dev,VAR_6
+adev,VAR_7
+amdgpu_encoder,VAR_8
+args,VAR_9
+index,VAR_10

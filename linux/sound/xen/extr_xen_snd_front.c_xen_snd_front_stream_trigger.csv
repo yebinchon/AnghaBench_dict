@@ -1,0 +1,11 @@
+XENSND_OP_TRIGGER,VAR_0
+be_stream_do_io,FUNC_0
+be_stream_prepare_req,FUNC_1
+be_stream_wait_io,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+xen_snd_front_stream_trigger,FUNC_5
+evtchnl,VAR_1
+type,VAR_2
+req,VAR_3
+ret,VAR_4

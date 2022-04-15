@@ -1,0 +1,13 @@
+__perform_reclaim,FUNC_0
+drain_all_pages,FUNC_1
+get_page_from_freelist,FUNC_2
+unlikely,FUNC_3
+unreserve_highatomic_pageblock,FUNC_4
+__alloc_pages_direct_reclaim,FUNC_5
+gfp_mask,VAR_0
+order,VAR_1
+alloc_flags,VAR_2
+ac,VAR_3
+did_some_progress,VAR_4
+page,VAR_5
+drained,VAR_6

@@ -1,0 +1,16 @@
+GIT_MERGE_OPTIONS_INIT,VAR_0
+THEIRS_UNRELATED_PARENT,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_annotated_commit_free,FUNC_2
+git_annotated_commit_lookup,FUNC_3
+git_merge,FUNC_4
+git_oid_fromstr,FUNC_5
+merge_test_index,FUNC_6
+repo,VAR_2
+repo_index,VAR_3
+test_merge_workdir_simple__unrelated,FUNC_7
+their_oids,VAR_4
+their_heads,VAR_5
+merge_opts,VAR_6
+merge_index_entries,VAR_7

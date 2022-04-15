@@ -1,0 +1,10 @@
+XHCI_CMD_INTE,VAR_0
+XHCI_ERDP_LO_BUSY,VAR_1
+XHCI_IMAN_INTR_ENA,VAR_2
+XHCI_IMAN_INTR_PEND,VAR_3
+XHCI_STS_EINT,VAR_4
+pci_generate_msi,FUNC_0
+pci_lintr_assert,FUNC_1
+pci_msi_enabled,FUNC_2
+pci_xhci_assert_interrupt,FUNC_3
+sc,VAR_5

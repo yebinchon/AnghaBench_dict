@@ -1,0 +1,14 @@
+ixgbe_clean_rx_ring,FUNC_0
+ixgbe_clean_tx_ring,FUNC_1
+ixgbe_disable_rxr_hw,FUNC_2
+ixgbe_disable_txr,FUNC_3
+ixgbe_reset_rxr_stats,FUNC_4
+ixgbe_reset_txr_stats,FUNC_5
+napi_disable,FUNC_6
+synchronize_rcu,FUNC_7
+ixgbe_txrx_ring_disable,FUNC_8
+adapter,VAR_0
+ring,VAR_1
+rx_ring,VAR_2
+tx_ring,VAR_3
+xdp_ring,VAR_4

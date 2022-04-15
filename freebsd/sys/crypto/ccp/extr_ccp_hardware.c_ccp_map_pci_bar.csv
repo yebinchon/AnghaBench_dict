@@ -1,0 +1,13 @@
+ENODEV,VAR_0
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_1
+bus_release_resource,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+rman_get_bushandle,FUNC_5
+rman_get_bustag,FUNC_6
+ccp_map_pci_bar,FUNC_7
+dev,VAR_3
+sc,VAR_4

@@ -1,0 +1,7 @@
+LSM_LOCK_DMS2,VAR_0
+LSM_LOCK_EXCL,VAR_1
+LSM_LOCK_WRITER,VAR_2
+assert,FUNC_0
+lsmShmAssertLock,FUNC_1
+lsmTreeDiscardOld,FUNC_2
+pDb,VAR_3

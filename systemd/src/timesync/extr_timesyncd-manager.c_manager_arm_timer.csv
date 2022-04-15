@@ -1,0 +1,13 @@
+SD_EVENT_ONESHOT,VAR_0
+assert,FUNC_0
+clock_boottime_or_monotonic,FUNC_1
+manager_timer,VAR_1
+now,FUNC_2
+sd_event_add_time,FUNC_3
+sd_event_source_set_enabled,FUNC_4
+sd_event_source_set_time,FUNC_5
+sd_event_source_unref,FUNC_6
+manager_arm_timer,FUNC_7
+m,VAR_2
+next,VAR_3
+r,VAR_4

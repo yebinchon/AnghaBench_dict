@@ -1,0 +1,14 @@
+ADC_CONTROL0_REG,VAR_0
+ADC_CONTROL1_REG,VAR_1
+ADC_DMA_DISABLE_BIT,VAR_2
+ADC_GATE_LEVEL_BIT,VAR_3
+ADC_SOFT_GATE_BITS,VAR_4
+ADC_SW_GATE_BIT,VAR_5
+disable_ai_interrupts,FUNC_0
+priv,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writew,FUNC_4
+disable_ai_pacing,FUNC_5
+dev,VAR_6
+flags,VAR_7

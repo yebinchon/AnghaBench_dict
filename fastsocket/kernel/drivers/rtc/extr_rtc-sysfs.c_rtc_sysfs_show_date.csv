@@ -1,0 +1,9 @@
+rtc_read_time,FUNC_0
+sprintf,FUNC_1
+to_rtc_device,FUNC_2
+rtc_sysfs_show_date,FUNC_3
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+retval,VAR_3
+tm,VAR_4

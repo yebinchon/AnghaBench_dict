@@ -1,0 +1,16 @@
+amdgpu_bo_kunmap,FUNC_0
+amdgpu_bo_subtract_pin_size,FUNC_1
+amdgpu_bo_unref,FUNC_2
+amdgpu_ttm_adev,FUNC_3
+drm_gem_object_release,FUNC_4
+drm_prime_gem_destroy,FUNC_5
+kfree,FUNC_6
+list_del_init,FUNC_7
+list_empty,FUNC_8
+mutex_lock,FUNC_9
+mutex_unlock,FUNC_10
+ttm_to_amdgpu_bo,FUNC_11
+amdgpu_bo_destroy,FUNC_12
+tbo,VAR_0
+adev,VAR_1
+bo,VAR_2

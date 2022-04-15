@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+RFKILL_BLOCK_HW,VAR_0
+RFKILL_BLOCK_SW,VAR_1
+__rfkill_set_sw_state,FUNC_1
+rfkill_global_led_trigger_event,FUNC_2
+rfkill_led_trigger_event,FUNC_3
+schedule_work,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+rfkill_set_sw_state,FUNC_7
+rfkill,VAR_2
+blocked,VAR_3
+flags,VAR_4
+prev,VAR_5
+hwblock,VAR_6

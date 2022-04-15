@@ -1,0 +1,16 @@
+FMC2_ECC_HAM,VAR_0
+FMC2_PCR,VAR_1
+FMC2_PCR_WEN,VAR_2
+NAND_ECC_WRITE,VAR_3
+readl_relaxed,FUNC_0
+reinit_completion,FUNC_1
+stm32_fmc2_clear_bch_irq,FUNC_2
+stm32_fmc2_enable_bch_irq,FUNC_3
+stm32_fmc2_set_ecc,FUNC_4
+to_stm32_nfc,FUNC_5
+writel_relaxed,FUNC_6
+stm32_fmc2_hwctl,FUNC_7
+chip,VAR_4
+mode,VAR_5
+fmc2,VAR_6
+pcr,VAR_7

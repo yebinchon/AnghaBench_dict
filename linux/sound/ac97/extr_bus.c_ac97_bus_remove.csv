@@ -1,0 +1,12 @@
+ac97_put_disable_clk,FUNC_0
+pm_runtime_disable,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_put_noidle,FUNC_3
+stub1,FUNC_4
+to_ac97_device,FUNC_5
+to_ac97_driver,FUNC_6
+ac97_bus_remove,FUNC_7
+dev,VAR_0
+adev,VAR_1
+adrv,VAR_2
+ret,VAR_3

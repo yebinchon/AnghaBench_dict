@@ -1,0 +1,11 @@
+IRQ_EINT,FUNC_0
+S3C64XX_EINT0MASK,VAR_0
+S3C64XX_EINT0PEND,VAR_1
+__raw_readl,FUNC_1
+generic_handle_irq,FUNC_2
+s3c_irq_demux_eint,FUNC_3
+start,VAR_2
+end,VAR_3
+status,VAR_4
+mask,VAR_5
+irq,VAR_6

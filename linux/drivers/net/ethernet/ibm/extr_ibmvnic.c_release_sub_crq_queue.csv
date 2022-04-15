@@ -1,0 +1,17 @@
+DMA_BIDIRECTIONAL,VAR_0
+H_BUSY,VAR_1
+H_FREE_SUB_CRQ,VAR_2
+H_IS_LONG_BUSY,FUNC_0
+PAGE_SIZE,VAR_3
+dma_unmap_single,FUNC_1
+free_pages,FUNC_2
+kfree,FUNC_3
+netdev_dbg,FUNC_4
+netdev_err,FUNC_5
+plpar_hcall_norets,FUNC_6
+release_sub_crq_queue,FUNC_7
+adapter,VAR_4
+scrq,VAR_5
+do_h_free,VAR_6
+dev,VAR_7
+rc,VAR_8

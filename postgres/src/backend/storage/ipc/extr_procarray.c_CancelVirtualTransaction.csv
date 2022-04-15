@@ -1,0 +1,17 @@
+GET_VXID_FROM_PGPROC,FUNC_0
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_SHARED,VAR_0
+ProcArrayLock,VAR_1
+SendProcSignal,FUNC_3
+allProcs,VAR_2
+procArray,VAR_3
+CancelVirtualTransaction,FUNC_4
+vxid,VAR_4
+sigmode,VAR_5
+arrayP,VAR_6
+index,VAR_7
+pid,VAR_8
+pgprocno,VAR_9
+proc,VAR_10
+procvxid,VAR_11

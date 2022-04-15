@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+LTC3880_MFR_IOUT_PEAK,VAR_1
+LTC3880_MFR_TEMPERATURE2_PEAK,VAR_2
+ltc2978_read_word_data_common,FUNC_0
+ltc_get_max,FUNC_1
+pmbus_get_driver_info,FUNC_2
+to_ltc2978_data,FUNC_3
+ltc3880_read_word_data,FUNC_4
+client,VAR_3
+page,VAR_4
+reg,VAR_5
+info,VAR_6
+data,VAR_7
+ret,VAR_8

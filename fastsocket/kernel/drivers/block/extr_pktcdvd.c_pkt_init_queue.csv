@@ -1,0 +1,11 @@
+CD_FRAMESIZE,VAR_0
+PACKET_MAX_SECTORS,VAR_1
+blk_queue_logical_block_size,FUNC_0
+blk_queue_make_request,FUNC_1
+blk_queue_max_hw_sectors,FUNC_2
+blk_queue_merge_bvec,FUNC_3
+pkt_make_request,VAR_2
+pkt_merge_bvec,VAR_3
+pkt_init_queue,FUNC_4
+pd,VAR_4
+q,VAR_5

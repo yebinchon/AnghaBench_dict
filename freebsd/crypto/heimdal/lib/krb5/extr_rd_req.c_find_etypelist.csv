@@ -1,0 +1,15 @@
+KRB5_AUTHDATA_GSS_API_ETYPE_NEGOTIATION,VAR_0
+KRB5_AUTHDATA_IF_RELEVANT,VAR_1
+decode_AD_IF_RELEVANT,FUNC_0
+decode_EtypeList,FUNC_1
+free_AD_IF_RELEVANT,FUNC_2
+krb5_clear_error_message,FUNC_3
+memset,FUNC_4
+find_etypelist,FUNC_5
+context,VAR_2
+auth_context,VAR_3
+etypes,VAR_4
+ret,VAR_5
+ad,VAR_6
+adIfRelevant,VAR_7
+i,VAR_8

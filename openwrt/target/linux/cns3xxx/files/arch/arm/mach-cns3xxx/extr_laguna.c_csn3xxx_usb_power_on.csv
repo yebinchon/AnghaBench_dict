@@ -1,0 +1,13 @@
+MISC_CHIP_CONFIG_REG,VAR_0
+PM_CLK_GATE_REG_OFFSET_USB_HOST,VAR_1
+PM_PLL_HM_PD_CTRL_REG_OFFSET_PLL_USB,VAR_2
+PM_SOFT_RST_REG_OFFST_USB_HOST,VAR_3
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+atomic_inc_return,FUNC_2
+cns3xxx_pwr_clk_en,FUNC_3
+cns3xxx_pwr_power_up,FUNC_4
+cns3xxx_pwr_soft_rst,FUNC_5
+usb_pwr_ref,VAR_4
+csn3xxx_usb_power_on,FUNC_6
+pdev,VAR_5

@@ -1,0 +1,14 @@
+ADD_CNT,FUNC_0
+END_TIMER,FUNC_1
+RPC_BUFFER_MAGIC,VAR_0
+START_TIMER,FUNC_2
+TL_RPC_DEST_ACTOR,VAR_1
+TL_RPC_DEST_ACTOR_FLAGS,VAR_2
+assert,FUNC_3
+buffer_write_int,FUNC_4
+buffer_write_long,FUNC_5
+outbuf,VAR_3
+store,VAR_4
+do_rpc_store_header,FUNC_6
+cluster_id,VAR_5
+flags,VAR_6

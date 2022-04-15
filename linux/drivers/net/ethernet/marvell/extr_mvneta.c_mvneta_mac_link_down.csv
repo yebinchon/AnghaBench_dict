@@ -1,0 +1,17 @@
+MVNETA_GMAC_AUTONEG_CONFIG,VAR_0
+MVNETA_GMAC_FORCE_LINK_DOWN,VAR_1
+MVNETA_GMAC_FORCE_LINK_PASS,VAR_2
+mvneta_port_down,FUNC_0
+mvneta_set_eee,FUNC_1
+mvreg_read,FUNC_2
+mvreg_write,FUNC_3
+netdev_priv,FUNC_4
+phylink_autoneg_inband,FUNC_5
+to_net_dev,FUNC_6
+mvneta_mac_link_down,FUNC_7
+config,VAR_3
+mode,VAR_4
+interface,VAR_5
+ndev,VAR_6
+pp,VAR_7
+val,VAR_8

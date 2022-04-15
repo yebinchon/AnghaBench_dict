@@ -1,0 +1,14 @@
+OPJ_FALSE,VAR_0
+OPJ_TRUE,VAR_1
+assert,FUNC_0
+opj_j2k_write_all_tile_parts,FUNC_1
+opj_j2k_write_first_tile_part,FUNC_2
+opj_stream_write_data,FUNC_3
+opj_j2k_post_write_tile,FUNC_4
+p_j2k,VAR_2
+p_stream,VAR_3
+p_manager,VAR_4
+l_nb_bytes_written,VAR_5
+l_current_data,VAR_6
+l_tile_size,VAR_7
+l_available_data,VAR_8

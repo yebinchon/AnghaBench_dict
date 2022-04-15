@@ -1,0 +1,16 @@
+AMDTP_IN_STREAM,VAR_0
+AMDTP_OUT_STREAM,VAR_1
+V2_IN_OUT_CONF_OFFSET,VAR_2
+V2_OPT_IN_IFACE_MASK,VAR_3
+V2_OPT_IN_IFACE_SHIFT,VAR_4
+V2_OPT_OUT_IFACE_MASK,VAR_5
+V2_OPT_OUT_IFACE_SHIFT,VAR_6
+be32_to_cpu,FUNC_0
+calculate_differed_part,FUNC_1
+calculate_fixed_part,FUNC_2
+snd_motu_transaction_read,FUNC_3
+v2_cache_packet_formats,FUNC_4
+motu,VAR_7
+reg,VAR_8
+data,VAR_9
+err,VAR_10

@@ -1,0 +1,10 @@
+CNT_CNTRL_RESET,VAR_0
+TTC_CNT_CNTRL_DISABLE_MASK,VAR_1
+TTC_CNT_CNTRL_OFFSET,VAR_2
+TTC_INTR_VAL_OFFSET,VAR_3
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+ttc_set_interval,FUNC_2
+timer,VAR_4
+cycles,VAR_5
+ctrl_reg,VAR_6

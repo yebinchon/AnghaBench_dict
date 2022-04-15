@@ -1,0 +1,13 @@
+TEGRA_GMI_CONFIG,VAR_0
+TEGRA_GMI_CONFIG_GO,VAR_1
+TEGRA_GMI_TIMING0,VAR_2
+TEGRA_GMI_TIMING1,VAR_3
+clk_prepare_enable,FUNC_0
+dev_err,FUNC_1
+reset_control_assert,FUNC_2
+reset_control_deassert,FUNC_3
+usleep_range,FUNC_4
+writel,FUNC_5
+tegra_gmi_enable,FUNC_6
+gmi,VAR_4
+err,VAR_5

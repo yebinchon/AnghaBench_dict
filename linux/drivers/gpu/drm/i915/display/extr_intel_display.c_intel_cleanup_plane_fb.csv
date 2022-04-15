@@ -1,0 +1,12 @@
+intel_plane_unpin_fb,FUNC_0
+intel_rps_mark_interactive,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_i915,FUNC_4
+to_intel_atomic_state,FUNC_5
+to_intel_plane_state,FUNC_6
+intel_cleanup_plane_fb,FUNC_7
+plane,VAR_0
+old_state,VAR_1
+intel_state,VAR_2
+dev_priv,VAR_3

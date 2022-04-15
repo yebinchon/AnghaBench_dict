@@ -1,0 +1,13 @@
+EXYNOS7_THD_TEMP_FALL7_6,VAR_0
+EXYNOS7_TMU_TEMP_MASK,VAR_1
+readl,FUNC_0
+temp_to_code,FUNC_1
+writel,FUNC_2
+exynos7_tmu_set_trip_hyst,FUNC_3
+data,VAR_2
+trip,VAR_3
+temp,VAR_4
+hyst,VAR_5
+reg_off,VAR_6
+bit_off,VAR_7
+th,VAR_8

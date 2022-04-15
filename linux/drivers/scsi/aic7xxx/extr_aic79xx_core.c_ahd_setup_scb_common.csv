@@ -1,0 +1,10 @@
+MAX_CDB_LEN_WITH_SENSE_ADDR,VAR_0
+SCB_CDB_LEN_PTR,VAR_1
+SCB_PACKETIZED,VAR_2
+SCB_TAG_TYPE,VAR_3
+SCB_XFERLEN_ODD,VAR_4
+ahd_get_transfer_length,FUNC_0
+ahd_htole32,FUNC_1
+ahd_setup_scb_common,FUNC_2
+ahd,VAR_5
+scb,VAR_6

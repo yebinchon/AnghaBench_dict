@@ -1,0 +1,13 @@
+IPV6_FLOWLABEL_MGR,VAR_0
+IPV6_FL_A_GET,VAR_1
+SOL_IPV6,VAR_2
+errno,VAR_3
+error,FUNC_0
+htonl,FUNC_1
+setsockopt,FUNC_2
+flowlabel_get,FUNC_3
+fd,VAR_4
+label,VAR_5
+share,VAR_6
+flags,VAR_7
+req,VAR_8

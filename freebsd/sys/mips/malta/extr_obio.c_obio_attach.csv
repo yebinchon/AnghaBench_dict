@@ -1,0 +1,15 @@
+MALTA_PCIMEM3_SIZE,VAR_0
+MALTA_UART0ADR,VAR_1
+MIPS_PHYS_TO_KSEG1,FUNC_0
+RMAN_ARRAY,VAR_2
+bus_generic_attach,FUNC_1
+bus_generic_probe,FUNC_2
+device_add_child,FUNC_3
+device_get_softc,FUNC_4
+mips_bus_space_generic,VAR_3
+panic,FUNC_5
+rman_init,FUNC_6
+rman_manage_region,FUNC_7
+obio_attach,FUNC_8
+dev,VAR_4
+sc,VAR_5

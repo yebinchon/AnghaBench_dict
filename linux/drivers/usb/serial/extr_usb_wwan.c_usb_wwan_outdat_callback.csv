@@ -1,0 +1,16 @@
+N_OUT_URB,VAR_0
+clear_bit,FUNC_0
+smp_mb__before_atomic,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+usb_autopm_put_interface_async,FUNC_4
+usb_get_serial_data,FUNC_5
+usb_get_serial_port_data,FUNC_6
+usb_serial_port_softint,FUNC_7
+usb_wwan_outdat_callback,FUNC_8
+urb,VAR_1
+port,VAR_2
+portdata,VAR_3
+intfdata,VAR_4
+flags,VAR_5
+i,VAR_6

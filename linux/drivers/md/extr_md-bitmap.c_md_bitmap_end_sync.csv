@@ -1,0 +1,15 @@
+NEEDED,FUNC_0
+NEEDED_MASK,VAR_0
+RESYNC,FUNC_1
+RESYNC_MASK,VAR_1
+md_bitmap_get_counter,FUNC_2
+md_bitmap_set_pending,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+md_bitmap_end_sync,FUNC_6
+bitmap,VAR_2
+offset,VAR_3
+blocks,VAR_4
+aborted,VAR_5
+bmc,VAR_6
+flags,VAR_7

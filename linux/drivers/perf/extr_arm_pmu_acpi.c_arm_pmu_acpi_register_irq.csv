@@ -1,0 +1,13 @@
+ACPI_ACTIVE_HIGH,VAR_0
+ACPI_EDGE_SENSITIVE,VAR_1
+ACPI_LEVEL_SENSITIVE,VAR_2
+ACPI_MADT_PERFORMANCE_IRQ_MODE,VAR_3
+EINVAL,VAR_4
+WARN_ON,FUNC_0
+acpi_cpu_get_madt_gicc,FUNC_1
+acpi_register_gsi,FUNC_2
+arm_pmu_acpi_register_irq,FUNC_3
+cpu,VAR_5
+gicc,VAR_6
+gsi,VAR_7
+trigger,VAR_8

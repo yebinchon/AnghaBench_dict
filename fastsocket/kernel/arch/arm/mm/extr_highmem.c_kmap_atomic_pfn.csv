@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+FIX_KMAP_BEGIN,VAR_0
+KM_TYPE_NR,VAR_1
+TOP_PTE,FUNC_1
+__fix_to_virt,FUNC_2
+kmap_prot,VAR_2
+local_flush_tlb_kernel_page,FUNC_3
+pagefault_disable,FUNC_4
+pfn_pte,FUNC_5
+pte_none,FUNC_6
+set_pte_ext,FUNC_7
+smp_processor_id,FUNC_8
+kmap_atomic_pfn,FUNC_9
+pfn,VAR_3
+type,VAR_4
+idx,VAR_5
+vaddr,VAR_6

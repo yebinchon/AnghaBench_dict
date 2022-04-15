@@ -1,0 +1,15 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+IPS_OS_FREEBSD,VAR_2
+IPS_RW_NVRAM_CMD,VAR_3
+IPS_VERSION_MAJOR,VAR_4
+IPS_VERSION_MINOR,VAR_5
+bus_dmamap_sync,FUNC_0
+ips_wakeup_callback,VAR_6
+strncpy,FUNC_1
+stub1,FUNC_2
+ips_write_nvram,FUNC_3
+command,VAR_7
+sc,VAR_8
+command_struct,VAR_9
+nvram,VAR_10

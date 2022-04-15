@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+SET_ERROR,FUNC_0
+dsl_bookmark_create,FUNC_1
+nvlist_next_nvpair,FUNC_2
+nvpair_name,FUNC_3
+nvpair_value_string,FUNC_4
+strcmp,FUNC_5
+zfs_ioc_bookmark,FUNC_6
+poolname,VAR_1
+innvl,VAR_2
+outnvl,VAR_3
+pair,VAR_4
+snap_name,VAR_5
+pair2,VAR_6

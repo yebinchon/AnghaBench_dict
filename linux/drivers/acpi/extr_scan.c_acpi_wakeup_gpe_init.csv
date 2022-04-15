@@ -1,0 +1,12 @@
+ACPI_STATE_S4,VAR_0
+ACPI_STATE_S5,VAR_1
+ACPI_SUCCESS,FUNC_0
+acpi_mark_gpe_for_wake,FUNC_1
+acpi_match_device_ids,FUNC_2
+acpi_setup_gpe_for_wake,FUNC_3
+device_set_wakeup_capable,FUNC_4
+acpi_wakeup_gpe_init,FUNC_5
+device,VAR_2
+button_device_ids,VAR_3
+wakeup,VAR_4
+status,VAR_5

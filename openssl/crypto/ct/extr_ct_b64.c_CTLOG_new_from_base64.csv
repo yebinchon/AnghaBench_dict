@@ -1,0 +1,17 @@
+CTLOG_new,FUNC_0
+CT_F_CTLOG_NEW_FROM_BASE64,VAR_0
+CT_R_LOG_CONF_INVALID_KEY,VAR_1
+CTerr,FUNC_1
+ERR_R_PASSED_INVALID_ARGUMENT,VAR_2
+EVP_PKEY_free,FUNC_2
+OPENSSL_free,FUNC_3
+ct_base64_decode,FUNC_4
+d2i_PUBKEY,FUNC_5
+CTLOG_new_from_base64,FUNC_6
+ct_log,VAR_3
+pkey_base64,VAR_4
+name,VAR_5
+pkey_der,VAR_6
+pkey_der_len,VAR_7
+p,VAR_8
+pkey,VAR_9

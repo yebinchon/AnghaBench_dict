@@ -1,0 +1,12 @@
+HDA_FIXUP_ACT_PROBE,VAR_0
+HDA_GEN_HP_EVENT,VAR_1
+alc260_gpio1_automute,VAR_2
+alc_gpio1_init_verbs,VAR_3
+snd_hda_add_verbs,FUNC_0
+snd_hda_gen_hp_automute,VAR_4
+snd_hda_jack_detect_enable_callback,FUNC_1
+alc260_fixup_gpio1_toggle,FUNC_2
+codec,VAR_5
+fix,VAR_6
+action,VAR_7
+spec,VAR_8

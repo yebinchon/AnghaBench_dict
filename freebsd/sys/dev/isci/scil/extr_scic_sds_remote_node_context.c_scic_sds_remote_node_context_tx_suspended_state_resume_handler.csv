@@ -1,0 +1,11 @@
+SCIC_SDS_REMOTE_NODE_CONTEXT_INVALIDATING_STATE,VAR_0
+SCIC_SDS_REMOTE_NODE_CONTEXT_RESUMING_STATE,VAR_1
+SCI_SUCCESS,VAR_2
+sci_base_state_machine_change_state,FUNC_0
+scic_remote_device_get_protocols,FUNC_1
+scic_sds_remote_node_context_setup_to_resume,FUNC_2
+scic_sds_remote_node_context_tx_suspended_state_resume_handler,FUNC_3
+this_rnc,VAR_3
+the_callback,VAR_4
+callback_parameter,VAR_5
+protocols,VAR_6

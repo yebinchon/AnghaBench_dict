@@ -1,0 +1,12 @@
+BCMA_DMP_RC_RESET,VAR_0
+BCMA_DMP_RESETCTRL,VAR_1
+BHND_IOCTL_CLK_EN,VAR_2
+bhnd_read_config,FUNC_0
+bhnd_read_ioctl,FUNC_1
+device_printf,FUNC_2
+bcma_is_hw_suspended,FUNC_3
+dev,VAR_3
+child,VAR_4
+rst,VAR_5
+ioctl,VAR_6
+error,VAR_7

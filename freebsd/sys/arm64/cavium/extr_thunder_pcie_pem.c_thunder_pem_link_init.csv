@@ -1,0 +1,17 @@
+DELAY,FUNC_0
+ENXIO,VAR_0
+PCIERC_CFG032,VAR_1
+PEM_CFG_LINK_MASK,VAR_2
+PEM_CFG_LINK_RDY,VAR_3
+PEM_CTL_STATUS,VAR_4
+PEM_LINK_DLLA,VAR_5
+PEM_LINK_ENABLE,VAR_6
+PEM_LINK_LT,VAR_7
+PEM_ON_REG,VAR_8
+bus_space_read_8,FUNC_1
+bus_space_write_8,FUNC_2
+device_printf,FUNC_3
+thunder_pem_config_reg_read,FUNC_4
+thunder_pem_link_init,FUNC_5
+sc,VAR_9
+regval,VAR_10

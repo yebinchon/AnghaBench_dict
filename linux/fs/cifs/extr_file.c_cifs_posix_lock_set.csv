@@ -1,0 +1,14 @@
+CIFS_I,FUNC_0
+FILE_LOCK_DEFERRED,VAR_0
+FL_POSIX,VAR_1
+cifs_down_write,FUNC_1
+file_inode,FUNC_2
+locks_delete_block,FUNC_3
+posix_lock_file,FUNC_4
+up_write,FUNC_5
+wait_event_interruptible,FUNC_6
+cifs_posix_lock_set,FUNC_7
+file,VAR_2
+flock,VAR_3
+cinode,VAR_4
+rc,VAR_5

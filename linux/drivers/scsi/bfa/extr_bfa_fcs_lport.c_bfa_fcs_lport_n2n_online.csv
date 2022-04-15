@@ -1,0 +1,17 @@
+N2N_LOCAL_PID,VAR_0
+N2N_REMOTE_PID,VAR_1
+RPSM_EVENT_DELETE,VAR_2
+RPSM_EVENT_PLOGI_SEND,VAR_3
+WARN_ON,FUNC_0
+bfa_fcs_lport_get_rport_by_pid,FUNC_1
+bfa_fcs_lport_get_rport_by_pwwn,FUNC_2
+bfa_fcs_rport_create,FUNC_3
+bfa_lps_set_n2n_pid,FUNC_4
+bfa_sm_send_event,FUNC_5
+bfa_trc,FUNC_6
+memcmp,FUNC_7
+bfa_fcs_lport_n2n_online,FUNC_8
+port,VAR_4
+n2n_port,VAR_5
+pcfg,VAR_6
+rport,VAR_7

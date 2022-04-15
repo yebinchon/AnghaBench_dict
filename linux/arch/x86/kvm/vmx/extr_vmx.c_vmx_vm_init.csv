@@ -1,0 +1,15 @@
+L1TF_MSG_L1D,VAR_0
+L1TF_MSG_SMT,VAR_1
+VMENTER_L1D_FLUSH_NEVER,VAR_2
+X86_BUG_L1TF,VAR_3
+boot_cpu_has,FUNC_0
+enable_ept,VAR_4
+l1tf_mitigation,VAR_5
+l1tf_vmx_mitigation,VAR_6
+ple_gap,VAR_7
+pr_warn_once,FUNC_1
+sched_smt_active,FUNC_2
+spin_lock_init,FUNC_3
+to_kvm_vmx,FUNC_4
+vmx_vm_init,FUNC_5
+kvm,VAR_8

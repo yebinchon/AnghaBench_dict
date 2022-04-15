@@ -1,0 +1,16 @@
+NVME_CMD_EFFECTS_CCC,VAR_0
+NVME_CMD_EFFECTS_CSE_MASK,VAR_1
+NVME_CMD_EFFECTS_LBCC,VAR_2
+NVME_CMD_EFFECTS_NCC,VAR_3
+NVME_CMD_EFFECTS_NIC,VAR_4
+NVME_NSID_ALL,VAR_5
+mutex_unlock,FUNC_0
+nvme_init_identify,FUNC_1
+nvme_mpath_unfreeze,FUNC_2
+nvme_queue_scan,FUNC_3
+nvme_remove_invalid_namespaces,FUNC_4
+nvme_unfreeze,FUNC_5
+nvme_update_formats,FUNC_6
+nvme_passthru_end,FUNC_7
+ctrl,VAR_6
+effects,VAR_7

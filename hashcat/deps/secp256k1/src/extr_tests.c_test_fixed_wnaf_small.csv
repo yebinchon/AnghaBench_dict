@@ -1,0 +1,17 @@
+CHECK,FUNC_0
+WNAF_SIZE,FUNC_1
+secp256k1_scalar_set_int,FUNC_2
+secp256k1_wnaf_fixed,FUNC_3
+test_fixed_wnaf_small_helper,FUNC_4
+test_fixed_wnaf_small,FUNC_5
+w,VAR_0
+wnaf,VAR_1
+i,VAR_2
+skew,VAR_3
+num,VAR_4
+v,VAR_5
+v,VAR_6
+wnaf_expected,VAR_7
+wnaf_expected,VAR_8
+wnaf_expected,VAR_9
+wnaf_expected,VAR_10

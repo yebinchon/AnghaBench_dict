@@ -1,0 +1,12 @@
+CLOCK_MONOTONIC,VAR_0
+CLOCK_REALTIME,VAR_1
+get_xtime_and_monotonic_and_sleep_offset,FUNC_0
+ktime_add,FUNC_1
+timespec_to_ktime,FUNC_2
+hrtimer_get_softirq_time,FUNC_3
+base,VAR_2
+xtim,VAR_3
+tomono,VAR_4
+xts,VAR_5
+tom,VAR_6
+slp,VAR_7

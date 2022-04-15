@@ -1,0 +1,16 @@
+ACPI_ADR_SPACE_EC,VAR_0
+ACPI_FAILURE,FUNC_0
+EC_FLAGS_EC_HANDLER_INSTALLED,VAR_1
+EC_FLAGS_EVT_HANDLER_INSTALLED,VAR_2
+EC_FLAGS_GPE_HANDLER_INSTALLED,VAR_3
+acpi_ec_gpe_handler,VAR_4
+acpi_ec_remove_query_handlers,FUNC_1
+acpi_ec_space_handler,VAR_5
+acpi_ec_stop,FUNC_2
+acpi_remove_address_space_handler,FUNC_3
+acpi_remove_gpe_handler,FUNC_4
+clear_bit,FUNC_5
+pr_err,FUNC_6
+test_bit,FUNC_7
+ec_remove_handlers,FUNC_8
+ec,VAR_6

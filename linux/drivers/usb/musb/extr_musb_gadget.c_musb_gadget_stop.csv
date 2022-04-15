@@ -1,0 +1,17 @@
+OTG_STATE_UNDEFINED,VAR_0
+gadget_to_musb,FUNC_0
+musb_gadget_vbus_draw,FUNC_1
+musb_hnp_stop,FUNC_2
+musb_platform_try_idle,FUNC_3
+musb_stop,FUNC_4
+otg_set_peripheral,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_mark_last_busy,FUNC_7
+pm_runtime_put_autosuspend,FUNC_8
+schedule_delayed_work,FUNC_9
+spin_lock_irqsave,FUNC_10
+spin_unlock_irqrestore,FUNC_11
+musb_gadget_stop,FUNC_12
+g,VAR_1
+musb,VAR_2
+flags,VAR_3

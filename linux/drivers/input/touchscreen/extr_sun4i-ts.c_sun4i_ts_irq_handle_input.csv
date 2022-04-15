@@ -1,0 +1,15 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+FIFO_DATA_PENDING,VAR_3
+TP_DATA,VAR_4
+TP_UP_PENDING,VAR_5
+input_report_abs,FUNC_0
+input_report_key,FUNC_1
+input_sync,FUNC_2
+readl,FUNC_3
+sun4i_ts_irq_handle_input,FUNC_4
+ts,VAR_6
+reg_val,VAR_7
+x,VAR_8
+y,VAR_9

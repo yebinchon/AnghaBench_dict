@@ -1,0 +1,9 @@
+get_oh_stats_reg,FUNC_0
+get_rx_stats_reg,FUNC_1
+get_tx_stats_reg,FUNC_2
+ioread32be,FUNC_3
+fman_port_get_stats_counter,FUNC_4
+port,VAR_0
+counter,VAR_1
+stats_reg,VAR_2
+ret_val,VAR_3

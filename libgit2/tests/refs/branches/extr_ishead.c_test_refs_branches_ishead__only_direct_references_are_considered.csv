@@ -1,0 +1,15 @@
+GIT_HEAD_FILE,VAR_0
+branch,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+git_branch_is_head,FUNC_3
+git_reference_free,FUNC_4
+git_reference_name,FUNC_5
+git_reference_symbolic_create,FUNC_6
+git_repository_head,FUNC_7
+repo,VAR_2
+test_refs_branches_ishead__only_direct_references_are_considered,FUNC_8
+linked,VAR_3
+super,VAR_4
+head,VAR_5

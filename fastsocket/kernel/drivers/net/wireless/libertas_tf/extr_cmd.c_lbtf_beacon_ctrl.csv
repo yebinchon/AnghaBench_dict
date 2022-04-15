@@ -1,0 +1,12 @@
+CMD_802_11_BEACON_CTRL,VAR_0
+CMD_ACT_SET,VAR_1
+LBTF_DEB_CMD,VAR_2
+cpu_to_le16,FUNC_0
+lbtf_cmd_async,FUNC_1
+lbtf_deb_enter,FUNC_2
+lbtf_deb_leave,FUNC_3
+lbtf_beacon_ctrl,FUNC_4
+priv,VAR_3
+beacon_enable,VAR_4
+beacon_int,VAR_5
+cmd,VAR_6

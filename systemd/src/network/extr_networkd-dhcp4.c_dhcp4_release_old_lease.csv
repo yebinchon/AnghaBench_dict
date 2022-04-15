@@ -1,0 +1,13 @@
+assert,FUNC_0
+dhcp_remove_address,FUNC_1
+dhcp_remove_dns_routes,FUNC_2
+dhcp_remove_router,FUNC_3
+dhcp_remove_routes,FUNC_4
+in4_addr_equal,FUNC_5
+link_dirty,FUNC_6
+sd_dhcp_lease_get_address,FUNC_7
+sd_dhcp_lease_unref,FUNC_8
+dhcp4_release_old_lease,FUNC_9
+link,VAR_0
+address,VAR_1
+address_old,VAR_2

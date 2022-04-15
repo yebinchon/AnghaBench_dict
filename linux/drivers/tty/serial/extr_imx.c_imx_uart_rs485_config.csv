@@ -1,0 +1,15 @@
+SER_RS485_ENABLED,VAR_0
+SER_RS485_RTS_AFTER_SEND,VAR_1
+SER_RS485_RTS_ON_SEND,VAR_2
+SER_RS485_RX_DURING_TX,VAR_3
+UCR2,VAR_4
+imx_uart_readl,FUNC_0
+imx_uart_rts_active,FUNC_1
+imx_uart_rts_inactive,FUNC_2
+imx_uart_start_rx,FUNC_3
+imx_uart_writel,FUNC_4
+imx_uart_rs485_config,FUNC_5
+port,VAR_5
+rs485conf,VAR_6
+sport,VAR_7
+ucr2,VAR_8

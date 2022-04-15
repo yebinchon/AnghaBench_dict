@@ -1,0 +1,16 @@
+BLAKE2B_BLOCKBYTES,VAR_0
+PARALLELISM_DEGREE,VAR_1
+blake2b_update,FUNC_0
+memcpy,FUNC_1
+omp_get_thread_num,FUNC_2
+omp_set_num_threads,FUNC_3
+blake2bp_update,FUNC_4
+S,VAR_2
+in,VAR_3
+inlen,VAR_4
+left,VAR_5
+fill,VAR_6
+i,VAR_7
+id__,VAR_8
+inlen__,VAR_9
+in__,VAR_10

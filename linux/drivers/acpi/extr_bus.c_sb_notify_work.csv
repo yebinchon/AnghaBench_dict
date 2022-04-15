@@ -1,0 +1,11 @@
+ACPI_OST_EC_OSPM_SHUTDOWN,VAR_0
+ACPI_OST_SC_OS_SHUTDOWN_IN_PROGRESS,VAR_1
+ACPI_SB_INDICATE_INTERVAL,VAR_2
+acpi_evaluate_ost,FUNC_0
+acpi_get_handle,FUNC_1
+msleep,FUNC_2
+orderly_poweroff,FUNC_3
+pr_info,FUNC_4
+sb_notify_work,FUNC_5
+dummy,VAR_3
+sb_handle,VAR_4

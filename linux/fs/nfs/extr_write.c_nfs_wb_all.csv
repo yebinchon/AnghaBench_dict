@@ -1,0 +1,9 @@
+FLUSH_SYNC,VAR_0
+filemap_write_and_wait,FUNC_0
+nfs_commit_inode,FUNC_1
+pnfs_sync_inode,FUNC_2
+trace_nfs_writeback_inode_enter,FUNC_3
+trace_nfs_writeback_inode_exit,FUNC_4
+nfs_wb_all,FUNC_5
+inode,VAR_1
+ret,VAR_2

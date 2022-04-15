@@ -1,0 +1,15 @@
+ClearPagePinned,FUNC_0
+MMUEXT_UNPIN_TABLE,VAR_0
+PFN_PHYS,FUNC_1
+PT_PTE,VAR_1
+PageHighMem,FUNC_2
+PagePinned,FUNC_3
+USE_SPLIT_PTLOCKS,VAR_2
+__va,FUNC_4
+make_lowmem_page_readwrite,FUNC_5
+pfn_to_page,FUNC_6
+pin_pagetable_pfn,FUNC_7
+xen_release_ptpage,FUNC_8
+pfn,VAR_3
+level,VAR_4
+page,VAR_5

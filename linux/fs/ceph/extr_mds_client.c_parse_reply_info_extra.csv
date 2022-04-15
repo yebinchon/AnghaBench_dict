@@ -1,0 +1,15 @@
+CEPH_MDS_OP_CREATE,VAR_0
+CEPH_MDS_OP_GETFILELOCK,VAR_1
+CEPH_MDS_OP_LSSNAP,VAR_2
+CEPH_MDS_OP_READDIR,VAR_3
+EIO,VAR_4
+le32_to_cpu,FUNC_0
+parse_reply_info_create,FUNC_1
+parse_reply_info_filelock,FUNC_2
+parse_reply_info_readdir,FUNC_3
+parse_reply_info_extra,FUNC_4
+p,VAR_5
+end,VAR_6
+info,VAR_7
+features,VAR_8
+op,VAR_9

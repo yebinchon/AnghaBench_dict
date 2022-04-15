@@ -1,0 +1,10 @@
+EZUSB_CTX_QUEUED,VAR_0
+ezusb_req_queue_run,FUNC_0
+list_add_tail,FUNC_1
+refcount_inc,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ezusb_req_enqueue_run,FUNC_5
+upriv,VAR_1
+ctx,VAR_2
+flags,VAR_3

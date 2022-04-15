@@ -1,0 +1,13 @@
+RT5665_MONO_NG2_CTRL_1,VAR_0
+RT5665_NG2_DIS,VAR_1
+RT5665_NG2_EN,VAR_2
+RT5665_NG2_EN_MASK,VAR_3
+snd_soc_component_read32,FUNC_0
+snd_soc_component_update_bits,FUNC_1
+snd_soc_kcontrol_component,FUNC_2
+snd_soc_put_volsw,FUNC_3
+rt5665_mono_vol_put,FUNC_4
+kcontrol,VAR_4
+ucontrol,VAR_5
+component,VAR_6
+ret,VAR_7

@@ -1,0 +1,15 @@
+PRIO,FUNC_0
+VLAPIC_CTR1,FUNC_1
+dump_isrvec_stk,FUNC_2
+xhyve_abort,FUNC_3
+vlapic_update_ppr,FUNC_4
+vlapic,VAR_0
+isrvec,VAR_1
+tpr,VAR_2
+ppr,VAR_3
+i,VAR_4
+lastprio,VAR_5
+curprio,VAR_6
+vector,VAR_7
+idx,VAR_8
+isrptr,VAR_9

@@ -1,0 +1,12 @@
+EMSGSIZE,VAR_0
+OVS_TUNNEL_KEY_ATTR_VXLAN_OPTS,VAR_1
+OVS_VXLAN_EXT_GBP,VAR_2
+nla_nest_end,FUNC_0
+nla_nest_start_noflag,FUNC_1
+nla_put_u32,FUNC_2
+vxlan_opt_to_nlattr,FUNC_3
+skb,VAR_3
+tun_opts,VAR_4
+swkey_tun_opts_len,VAR_5
+opts,VAR_6
+nla,VAR_7

@@ -1,0 +1,13 @@
+armada_fbdev_fini,FUNC_0
+component_unbind_all,FUNC_1
+dev_get_drvdata,FUNC_2
+drm_atomic_helper_shutdown,FUNC_3
+drm_dev_put,FUNC_4
+drm_dev_unregister,FUNC_5
+drm_kms_helper_poll_fini,FUNC_6
+drm_mm_takedown,FUNC_7
+drm_mode_config_cleanup,FUNC_8
+armada_drm_unbind,FUNC_9
+dev,VAR_0
+drm,VAR_1
+priv,VAR_2

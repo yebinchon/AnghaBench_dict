@@ -1,0 +1,13 @@
+IORESOURCE_ROM_ENABLE,VAR_0
+PCI_ROM_RESOURCE,VAR_1
+add_to_failed_list,FUNC_0
+pci_assign_resource,FUNC_1
+pci_is_root_bus,FUNC_2
+reset_resource,FUNC_3
+resource_size,FUNC_4
+assign_requested_resources_sorted,FUNC_5
+head,VAR_2
+fail_head,VAR_3
+res,VAR_4
+list,VAR_5
+idx,VAR_6

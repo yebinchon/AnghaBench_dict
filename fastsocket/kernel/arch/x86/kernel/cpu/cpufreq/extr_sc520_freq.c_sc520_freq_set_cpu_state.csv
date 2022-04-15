@@ -1,0 +1,13 @@
+CPUFREQ_POSTCHANGE,VAR_0
+CPUFREQ_PRECHANGE,VAR_1
+cpuctl,VAR_2
+cpufreq_notify_transition,FUNC_0
+dprintk,FUNC_1
+local_irq_disable,FUNC_2
+local_irq_enable,FUNC_3
+sc520_freq_get_cpu_frequency,FUNC_4
+sc520_freq_table,VAR_3
+sc520_freq_set_cpu_state,FUNC_5
+state,VAR_4
+freqs,VAR_5
+clockspeed_reg,VAR_6

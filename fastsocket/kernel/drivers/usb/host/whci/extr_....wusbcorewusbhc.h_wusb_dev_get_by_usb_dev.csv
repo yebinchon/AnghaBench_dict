@@ -1,0 +1,9 @@
+__wusb_dev_get_by_usb_dev,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+wusbhc_get_by_usb_dev,FUNC_3
+wusbhc_put,FUNC_4
+wusb_dev_get_by_usb_dev,FUNC_5
+usb_dev,VAR_0
+wusbhc,VAR_1
+wusb_dev,VAR_2

@@ -1,0 +1,8 @@
+KVM_FEATURE_PV_EOI,VAR_0
+MSR_KVM_PV_EOI_EN,VAR_1
+kvm_disable_steal_time,FUNC_0
+kvm_para_has_feature,FUNC_1
+kvm_pv_disable_apf,FUNC_2
+wrmsrl,FUNC_3
+kvm_pv_guest_cpu_reboot,FUNC_4
+unused,VAR_2

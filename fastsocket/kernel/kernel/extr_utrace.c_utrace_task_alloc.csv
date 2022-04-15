@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+INIT_LIST_HEAD,FUNC_0
+UTRACE_RESUME,VAR_1
+kmem_cache_free,FUNC_1
+kmem_cache_zalloc,FUNC_2
+likely,FUNC_3
+smp_wmb,FUNC_4
+spin_lock_init,FUNC_5
+task_lock,FUNC_6
+task_unlock,FUNC_7
+unlikely,FUNC_8
+utrace_cachep,VAR_2
+utrace_task_alloc,FUNC_9
+task,VAR_3
+utrace,VAR_4

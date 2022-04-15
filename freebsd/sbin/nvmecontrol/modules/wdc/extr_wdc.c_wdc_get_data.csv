@@ -1,0 +1,16 @@
+NVME_PASSTHROUGH_CMD,VAR_0
+err,FUNC_0
+errx,FUNC_1
+htole32,FUNC_2
+ioctl,FUNC_3
+memset,FUNC_4
+nvme_completion_is_error,FUNC_5
+wdc_get_data,FUNC_6
+fd,VAR_1
+opcode,VAR_2
+len,VAR_3
+off,VAR_4
+cmd,VAR_5
+buffer,VAR_6
+buflen,VAR_7
+pt,VAR_8

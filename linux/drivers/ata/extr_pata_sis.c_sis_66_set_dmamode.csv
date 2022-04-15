@@ -1,0 +1,15 @@
+XFER_MW_DMA_0,VAR_0
+XFER_UDMA_0,VAR_1
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+sis_old_port_base,FUNC_2
+to_pci_dev,FUNC_3
+sis_66_set_dmamode,FUNC_4
+ap,VAR_2
+adev,VAR_3
+pdev,VAR_4
+speed,VAR_5
+drive_pci,VAR_6
+timing,VAR_7
+mwdma_bits,VAR_8
+udma_bits,VAR_9

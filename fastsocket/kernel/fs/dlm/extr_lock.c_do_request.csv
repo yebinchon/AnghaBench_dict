@@ -1,0 +1,13 @@
+DLM_LKSTS_WAITING,VAR_0
+EAGAIN,VAR_1
+EINPROGRESS,VAR_2
+add_lkb,FUNC_0
+add_timeout,FUNC_1
+can_be_granted,FUNC_2
+can_be_queued,FUNC_3
+grant_lock,FUNC_4
+queue_cast,FUNC_5
+do_request,FUNC_6
+r,VAR_3
+lkb,VAR_4
+error,VAR_5

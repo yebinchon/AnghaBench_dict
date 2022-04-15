@@ -1,0 +1,15 @@
+BNXT_HWRM_LOCK,FUNC_0
+BNXT_HWRM_UNLOCK,FUNC_1
+BNXT_NVM_TIMEO,VAR_0
+HWRM_NVM_GET_DIR_INFO,VAR_1
+_hwrm_send_message,FUNC_2
+bnxt_hwrm_cmd_hdr_init,FUNC_3
+le32toh,FUNC_4
+bnxt_hwrm_nvm_get_dir_info,FUNC_5
+softc,VAR_2
+entries,VAR_3
+entry_length,VAR_4
+req,VAR_5
+resp,VAR_6
+rc,VAR_7
+old_timeo,VAR_8

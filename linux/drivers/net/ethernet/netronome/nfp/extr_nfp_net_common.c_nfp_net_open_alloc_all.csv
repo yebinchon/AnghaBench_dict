@@ -1,0 +1,17 @@
+NFP_NET_CFG_EXN,VAR_0
+NFP_NET_CFG_LSC,VAR_1
+NFP_NET_IRQ_EXN_IDX,VAR_2
+NFP_NET_IRQ_LSC_IDX,VAR_3
+disable_irq,FUNC_0
+nfp_net_aux_irq_free,FUNC_1
+nfp_net_aux_irq_request,FUNC_2
+nfp_net_cleanup_vector,FUNC_3
+nfp_net_prepare_vector,FUNC_4
+nfp_net_rx_rings_free,FUNC_5
+nfp_net_rx_rings_prepare,FUNC_6
+nfp_net_tx_rings_prepare,FUNC_7
+nfp_net_vector_assign_rings,FUNC_8
+nfp_net_open_alloc_all,FUNC_9
+nn,VAR_4
+err,VAR_5
+r,VAR_6

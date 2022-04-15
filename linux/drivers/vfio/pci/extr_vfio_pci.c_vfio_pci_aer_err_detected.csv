@@ -1,0 +1,13 @@
+PCI_ERS_RESULT_CAN_RECOVER,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+eventfd_signal,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+vfio_device_data,FUNC_3
+vfio_device_get_from_dev,FUNC_4
+vfio_device_put,FUNC_5
+vfio_pci_aer_err_detected,FUNC_6
+pdev,VAR_2
+state,VAR_3
+vdev,VAR_4
+device,VAR_5

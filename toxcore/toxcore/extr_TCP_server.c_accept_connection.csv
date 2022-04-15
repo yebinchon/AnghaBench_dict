@@ -1,0 +1,13 @@
+MAX_INCOMMING_CONNECTIONS,VAR_0
+TCP_STATUS_CONNECTED,VAR_1
+TCP_STATUS_NO_STATUS,VAR_2
+kill_TCP_connection,FUNC_0
+kill_sock,FUNC_1
+set_socket_nonblock,FUNC_2
+set_socket_nosigpipe,FUNC_3
+sock_valid,FUNC_4
+accept_connection,FUNC_5
+TCP_server,VAR_3
+sock,VAR_4
+index,VAR_5
+conn,VAR_6

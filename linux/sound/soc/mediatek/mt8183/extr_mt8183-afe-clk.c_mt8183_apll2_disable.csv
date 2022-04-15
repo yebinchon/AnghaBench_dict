@@ -1,0 +1,12 @@
+AFE_24M_ON_MASK_SFT,VAR_0
+AFE_24M_ON_SFT,VAR_1
+AFE_APLL2_TUNER_CFG,VAR_2
+AFE_HD_ENGEN_ENABLE,VAR_3
+CLK_APLL24M,VAR_4
+CLK_APLL2_TUNER,VAR_5
+apll2_mux_setting,FUNC_0
+clk_disable_unprepare,FUNC_1
+regmap_update_bits,FUNC_2
+mt8183_apll2_disable,FUNC_3
+afe,VAR_6
+afe_priv,VAR_7

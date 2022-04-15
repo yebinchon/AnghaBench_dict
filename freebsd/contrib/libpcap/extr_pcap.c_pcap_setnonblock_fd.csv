@@ -1,0 +1,11 @@
+F_GETFL,VAR_0
+F_SETFL,VAR_1
+O_NONBLOCK,VAR_2
+PCAP_ERRBUF_SIZE,VAR_3
+errno,VAR_4
+fcntl,FUNC_0
+pcap_fmt_errmsg_for_errno,FUNC_1
+pcap_setnonblock_fd,FUNC_2
+p,VAR_5
+nonblock,VAR_6
+fdflags,VAR_7

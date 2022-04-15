@@ -1,0 +1,9 @@
+ST0_BEV,VAR_0
+STATUSF_IP2,VAR_1
+ebase,VAR_2
+irq_cpu_online,FUNC_0
+set_c0_status,FUNC_1
+write_c0_ebase,FUNC_2
+write_c0_status,FUNC_3
+paravirt_init_secondary,FUNC_4
+sr,VAR_3

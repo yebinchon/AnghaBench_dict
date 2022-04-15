@@ -1,0 +1,17 @@
+CMD_ALIVE,VAR_0
+PS_STATE_S2,VAR_1
+RT_TRACE,FUNC_0
+_FAIL,VAR_2
+_SUCCESS,VAR_3
+_drv_info_,VAR_4
+_module_rtl871x_pwrctrl_c_,VAR_5
+adapter_to_pwrctl,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+register_task_alive,FUNC_4
+rtw_set_rpwm,FUNC_5
+rtw_register_cmd_alive,FUNC_6
+padapter,VAR_6
+res,VAR_7
+pwrctrl,VAR_8
+pslv,VAR_9

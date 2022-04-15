@@ -1,0 +1,11 @@
+PacketLength,VAR_0
+WA_XFER_ISO_PACKET_INFO,VAR_1
+cpu_to_le16,FUNC_0
+struct_size,FUNC_1
+__wa_setup_isoc_packet_descr,FUNC_2
+packet_desc,VAR_2
+xfer,VAR_3
+seg,VAR_4
+iso_frame_desc,VAR_5
+frame_index,VAR_6
+offset_index,VAR_7

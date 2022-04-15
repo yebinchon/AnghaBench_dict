@@ -1,0 +1,8 @@
+BPF_CGROUP_RUN_PROG_INET_EGRESS,FUNC_0
+__ip6_finish_output,FUNC_1
+kfree_skb,FUNC_2
+ip6_finish_output,FUNC_3
+net,VAR_0
+sk,VAR_1
+skb,VAR_2
+ret,VAR_3

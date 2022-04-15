@@ -1,0 +1,16 @@
+CONFIG_SND_SOC_SOF_PROBE_WORK_QUEUE,VAR_0
+IS_ENABLED,FUNC_0
+IS_ERR_OR_NULL,FUNC_1
+cancel_work_sync,FUNC_2
+dev_get_drvdata,FUNC_3
+platform_device_unregister,FUNC_4
+release_firmware,FUNC_5
+snd_sof_free_debug,FUNC_6
+snd_sof_free_trace,FUNC_7
+snd_sof_fw_unload,FUNC_8
+snd_sof_ipc_free,FUNC_9
+snd_sof_remove,FUNC_10
+snd_sof_device_remove,FUNC_11
+dev,VAR_1
+sdev,VAR_2
+pdata,VAR_3

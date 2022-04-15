@@ -1,0 +1,13 @@
+PMU_TYPE_COUNTER,VAR_0
+PMU_TYPE_EVNTSEL,VAR_1
+get_gp_pmc_amd,FUNC_0
+pmc_read_counter,FUNC_1
+reprogram_gp_counter,FUNC_2
+vcpu_to_pmu,FUNC_3
+amd_pmu_set_msr,FUNC_4
+vcpu,VAR_2
+msr_info,VAR_3
+pmu,VAR_4
+pmc,VAR_5
+msr,VAR_6
+data,VAR_7

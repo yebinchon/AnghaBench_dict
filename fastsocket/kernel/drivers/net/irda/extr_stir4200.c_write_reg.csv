@@ -1,0 +1,13 @@
+CTRL_TIMEOUT,VAR_0
+REQ_WRITE_SINGLE,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_DEVICE,VAR_3
+USB_TYPE_VENDOR,VAR_4
+pr_debug,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+write_reg,FUNC_3
+stir,VAR_5
+reg,VAR_6
+value,VAR_7
+dev,VAR_8

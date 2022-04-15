@@ -1,0 +1,16 @@
+CGN_DEST_TYPE,VAR_0
+CGN_UNITS,VAR_1
+DPSECI_CMDID_SET_CONGESTION_NOTIFICATION,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+dpseci_set_field,FUNC_3
+mc_encode_cmd_header,FUNC_4
+mc_send_command,FUNC_5
+dpseci_set_congestion_notification,FUNC_6
+mc_io,VAR_3
+cmd_flags,VAR_4
+token,VAR_5
+cfg,VAR_6
+cmd,VAR_7
+cmd_params,VAR_8

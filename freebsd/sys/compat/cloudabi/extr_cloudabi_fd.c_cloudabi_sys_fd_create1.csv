@@ -1,0 +1,14 @@
+CAP_FSTAT,VAR_0
+CAP_FTRUNCATE,VAR_1
+CAP_MMAP_RWX,VAR_2
+EINVAL,VAR_3
+F_SEAL_SEAL,VAR_4
+O_CLOEXEC,VAR_5
+O_RDWR,VAR_6
+SHM_ANON,VAR_7
+cap_rights_init,FUNC_0
+kern_shm_open,FUNC_1
+cloudabi_sys_fd_create1,FUNC_2
+td,VAR_8
+uap,VAR_9
+fcaps,VAR_10

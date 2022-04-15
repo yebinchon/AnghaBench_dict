@@ -1,0 +1,17 @@
+AVERROR_INVALIDDATA,VAR_0
+get_bits1,FUNC_0
+get_ue_golomb_long,FUNC_1
+skip_bits,FUNC_2
+skip_sub_layer_hrd_parameters,FUNC_3
+skip_hrd_parameters,FUNC_4
+gb,VAR_1
+cprms_present_flag,VAR_2
+max_sub_layers_minus1,VAR_3
+i,VAR_4
+sub_pic_hrd_params_present_flag,VAR_5
+nal_hrd_parameters_present_flag,VAR_6
+vcl_hrd_parameters_present_flag,VAR_7
+cpb_cnt_minus1,VAR_8
+low_delay_hrd_flag,VAR_9
+fixed_pic_rate_within_cvs_flag,VAR_10
+fixed_pic_rate_general_flag,VAR_11

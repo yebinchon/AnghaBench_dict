@@ -1,0 +1,11 @@
+MOXA_MUST_EFR_REGISTER,VAR_0
+MOXA_MUST_EFR_SF_TX1,VAR_1
+MOXA_MUST_EFR_SF_TX_MASK,VAR_2
+MOXA_MUST_ENTER_ENCHANCE,VAR_3
+UART_LCR,VAR_4
+inb,FUNC_0
+outb,FUNC_1
+mxser_enable_must_tx_software_flow_control,FUNC_2
+baseio,VAR_5
+oldlcr,VAR_6
+efr,VAR_7

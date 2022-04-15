@@ -1,0 +1,9 @@
+ESP_TIMER_TASK,VAR_0
+MDNS_TIMER_PERIOD_US,VAR_1
+_mdns_server,VAR_2
+_mdns_timer_cb,VAR_3
+esp_timer_create,FUNC_0
+esp_timer_start_periodic,FUNC_1
+_mdns_start_timer,FUNC_2
+timer_conf,VAR_4
+err,VAR_5

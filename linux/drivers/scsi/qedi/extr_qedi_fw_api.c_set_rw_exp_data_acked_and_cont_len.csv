@@ -1,0 +1,14 @@
+ISCSI_AHS_CNTL_SIZE,VAR_0
+SET_FIELD,FUNC_0
+USTORM_ISCSI_TASK_ST_CTX_AHS_EXIST,VAR_1
+cpu_to_le32,FUNC_1
+min,FUNC_2
+set_rw_exp_data_acked_and_cont_len,FUNC_3
+context,VAR_2
+conn_params,VAR_3
+task_type,VAR_4
+task_size,VAR_5
+exp_data_transfer_len,VAR_6
+total_ahs_length,VAR_7
+max_unsolicited_data,VAR_8
+val,VAR_9

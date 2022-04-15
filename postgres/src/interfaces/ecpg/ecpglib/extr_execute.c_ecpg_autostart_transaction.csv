@@ -1,0 +1,8 @@
+PQTRANS_IDLE,VAR_0
+PQclear,FUNC_0
+PQexec,FUNC_1
+PQtransactionStatus,FUNC_2
+ecpg_check_PQresult,FUNC_3
+ecpg_free_params,FUNC_4
+ecpg_autostart_transaction,FUNC_5
+stmt,VAR_1

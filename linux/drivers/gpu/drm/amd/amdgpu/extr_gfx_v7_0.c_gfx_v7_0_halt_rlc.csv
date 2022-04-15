@@ -1,0 +1,13 @@
+RLC_CNTL__RLC_ENABLE_F32_MASK,VAR_0
+RLC_GPM_STAT__RLC_BUSY_MASK,VAR_1
+RREG32,FUNC_0
+WREG32,FUNC_1
+gfx_v7_0_wait_for_rlc_serdes,FUNC_2
+mmRLC_CNTL,VAR_2
+mmRLC_GPM_STAT,VAR_3
+udelay,FUNC_3
+gfx_v7_0_halt_rlc,FUNC_4
+adev,VAR_4
+data,VAR_5
+orig,VAR_6
+i,VAR_7

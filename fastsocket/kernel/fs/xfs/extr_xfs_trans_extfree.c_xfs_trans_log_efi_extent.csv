@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+XFS_LID_DIRTY,VAR_0
+XFS_TRANS_DIRTY,VAR_1
+atomic_inc_return,FUNC_1
+xfs_trans_log_efi_extent,FUNC_2
+tp,VAR_2
+efip,VAR_3
+start_block,VAR_4
+ext_len,VAR_5
+next_extent,VAR_6
+extp,VAR_7

@@ -1,0 +1,16 @@
+HCI_OP_LE_CONN_UPDATE,VAR_0
+cpu_to_le16,FUNC_0
+hci_conn_params_lookup,FUNC_1
+hci_dev_lock,FUNC_2
+hci_dev_unlock,FUNC_3
+hci_send_cmd,FUNC_4
+memset,FUNC_5
+hci_le_conn_update,FUNC_6
+conn,VAR_1
+min,VAR_2
+max,VAR_3
+latency,VAR_4
+to_multiplier,VAR_5
+hdev,VAR_6
+params,VAR_7
+cp,VAR_8

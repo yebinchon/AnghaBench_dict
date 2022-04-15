@@ -1,0 +1,17 @@
+Assert,FUNC_0
+BlockStateAsString,FUNC_1
+CommitSubTransaction,FUNC_2
+CurTransactionContext,VAR_0
+CurrentTransactionState,VAR_1
+ERRCODE_INVALID_TRANSACTION_STATE,VAR_2
+ERROR,VAR_3
+IsInParallelMode,FUNC_3
+MemoryContextSwitchTo,FUNC_4
+TBLOCK_SUBINPROGRESS,VAR_4
+TRANS_INPROGRESS,VAR_5
+elog,FUNC_5
+ereport,FUNC_6
+errcode,FUNC_7
+errmsg,FUNC_8
+ReleaseCurrentSubTransaction,FUNC_9
+s,VAR_6

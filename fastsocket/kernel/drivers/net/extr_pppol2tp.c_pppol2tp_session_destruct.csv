@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+L2TP_SESSION_MAGIC,VAR_0
+L2TP_TUNNEL_MAGIC,VAR_1
+atomic_dec,FUNC_1
+hlist_del_init,FUNC_2
+kfree,FUNC_3
+pppol2tp_session_count,VAR_2
+pppol2tp_tunnel_dec_refcount,FUNC_4
+write_lock_bh,FUNC_5
+write_unlock_bh,FUNC_6
+pppol2tp_session_destruct,FUNC_7
+sk,VAR_3
+session,VAR_4
+tunnel,VAR_5

@@ -1,0 +1,12 @@
+inode_lock,FUNC_0
+inode_unlock,FUNC_1
+jbd2_journal_start_commit,FUNC_2
+jbd2_log_wait_commit,FUNC_3
+mlog_errno,FUNC_4
+ocfs2_flush_truncate_log,FUNC_5
+ocfs2_try_to_free_truncate_log,FUNC_6
+osb,VAR_0
+needed,VAR_1
+target,VAR_2
+ret,VAR_3
+truncated_clusters,VAR_4

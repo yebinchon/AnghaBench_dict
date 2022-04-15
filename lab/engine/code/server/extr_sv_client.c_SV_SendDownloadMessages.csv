@@ -1,0 +1,16 @@
+MAX_MSGLEN,VAR_0
+MSG_Init,FUNC_0
+MSG_WriteByte,FUNC_1
+MSG_WriteLong,FUNC_2
+SV_Netchan_Transmit,FUNC_3
+SV_WriteDownloadToClient,FUNC_4
+sv_maxclients,VAR_1
+svc_EOF,VAR_2
+svs,VAR_3
+SV_SendDownloadMessages,FUNC_5
+i,VAR_4
+numDLs,VAR_5
+retval,VAR_6
+cl,VAR_7
+msg,VAR_8
+msgBuffer,VAR_9

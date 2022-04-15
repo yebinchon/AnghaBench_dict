@@ -1,0 +1,17 @@
+MA_OWNED,VAR_0
+PVSCSI_ABORT_TIMEOUT,VAR_1
+PVSCSI_RESET_TIMEOUT,VAR_2
+SBT_1S,VAR_3
+callout_reset_sbt,FUNC_0
+device_printf,FUNC_1
+mtx_assert,FUNC_2
+pvscsi_abort,FUNC_3
+pvscsi_adapter_reset,FUNC_4
+pvscsi_bus_reset,FUNC_5
+pvscsi_device_reset,FUNC_6
+pvscsi_freeze,FUNC_7
+pvscsi_timeout,FUNC_8
+arg,VAR_4
+hcb,VAR_5
+sc,VAR_6
+ccb,VAR_7

@@ -1,0 +1,14 @@
+g_assert,FUNC_0
+hb_face_destroy,FUNC_1
+hb_face_get_empty,FUNC_2
+hb_set_add,FUNC_3
+hb_subset,FUNC_4
+hb_subset_input_create_or_fail,FUNC_5
+hb_subset_input_destroy,FUNC_6
+hb_subset_input_unicode_set,FUNC_7
+hb_subset_test_open_font,FUNC_8
+test_subset_crash,FUNC_9
+face,VAR_0
+input,VAR_1
+codepoints,VAR_2
+subset,VAR_3

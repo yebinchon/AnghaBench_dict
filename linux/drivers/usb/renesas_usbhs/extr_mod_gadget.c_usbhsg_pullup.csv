@@ -1,0 +1,14 @@
+USBHSG_STATUS_SOFT_CONNECT,VAR_0
+usbhs_lock,FUNC_0
+usbhs_unlock,FUNC_1
+usbhsg_gadget_to_gpriv,FUNC_2
+usbhsg_gpriv_to_priv,FUNC_3
+usbhsg_status_clr,FUNC_4
+usbhsg_status_set,FUNC_5
+usbhsg_update_pullup,FUNC_6
+usbhsg_pullup,FUNC_7
+gadget,VAR_1
+is_on,VAR_2
+gpriv,VAR_3
+priv,VAR_4
+flags,VAR_5

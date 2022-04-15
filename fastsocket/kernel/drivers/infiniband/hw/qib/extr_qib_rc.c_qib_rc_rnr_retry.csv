@@ -1,0 +1,9 @@
+QIB_S_WAIT_RNR,VAR_0
+del_timer,FUNC_0
+qib_schedule_send,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+qib_rc_rnr_retry,FUNC_4
+arg,VAR_1
+qp,VAR_2
+flags,VAR_3

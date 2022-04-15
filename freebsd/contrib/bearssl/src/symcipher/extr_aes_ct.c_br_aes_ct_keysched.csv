@@ -1,0 +1,16 @@
+Rcon,VAR_0
+br_aes_ct_ortho,FUNC_0
+br_dec32le,FUNC_1
+sub_word,FUNC_2
+br_aes_ct_keysched,FUNC_3
+comp_skey,VAR_1
+key,VAR_2
+key_len,VAR_3
+num_rounds,VAR_4
+i,VAR_5
+j,VAR_6
+k,VAR_7
+nk,VAR_8
+nkf,VAR_9
+tmp,VAR_10
+skey,VAR_11

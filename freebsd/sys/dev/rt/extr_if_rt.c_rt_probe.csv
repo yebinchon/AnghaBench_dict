@@ -1,0 +1,15 @@
+BUS_PROBE_GENERIC,VAR_0
+ENXIO,VAR_1
+RT_CHIPID_MT7620,VAR_2
+RT_CHIPID_MT7621,VAR_3
+RT_CHIPID_RT3050,VAR_4
+RT_CHIPID_RT5350,VAR_5
+device_get_softc,FUNC_0
+device_set_desc_copy,FUNC_1
+ofw_bus_search_compatible,FUNC_2
+rt_compat_data,VAR_6
+snprintf,FUNC_3
+rt_probe,FUNC_4
+dev,VAR_7
+sc,VAR_8
+buf,VAR_9

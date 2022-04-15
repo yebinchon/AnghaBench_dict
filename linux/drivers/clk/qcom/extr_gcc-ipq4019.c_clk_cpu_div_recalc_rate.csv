@@ -1,0 +1,12 @@
+BIT,FUNC_0
+clk_fepll_vco_calc_rate,FUNC_1
+do_div,FUNC_2
+regmap_read,FUNC_3
+to_clk_fepll,FUNC_4
+clk_cpu_div_recalc_rate,FUNC_5
+hw,VAR_0
+parent_rate,VAR_1
+pll,VAR_2
+cdiv,VAR_3
+pre_div,VAR_4
+rate,VAR_5

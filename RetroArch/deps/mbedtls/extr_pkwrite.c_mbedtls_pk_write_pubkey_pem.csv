@@ -1,0 +1,12 @@
+PEM_BEGIN_PUBLIC_KEY,VAR_0
+PEM_END_PUBLIC_KEY,VAR_1
+PUB_DER_MAX_BYTES,VAR_2
+mbedtls_pem_write_buffer,FUNC_0
+mbedtls_pk_write_pubkey_der,FUNC_1
+mbedtls_pk_write_pubkey_pem,FUNC_2
+key,VAR_3
+buf,VAR_4
+size,VAR_5
+ret,VAR_6
+output_buf,VAR_7
+olen,VAR_8

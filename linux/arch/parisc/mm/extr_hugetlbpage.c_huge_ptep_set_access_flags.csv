@@ -1,0 +1,14 @@
+__set_huge_pte_at,FUNC_0
+pgd_spinlock,FUNC_1
+pte_same,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+huge_ptep_set_access_flags,FUNC_5
+vma,VAR_0
+addr,VAR_1
+ptep,VAR_2
+pte,VAR_3
+dirty,VAR_4
+flags,VAR_5
+changed,VAR_6
+mm,VAR_7

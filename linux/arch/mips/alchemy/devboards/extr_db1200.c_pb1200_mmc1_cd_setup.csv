@@ -1,0 +1,14 @@
+BCSR_INT_SD1INSERT,VAR_0
+BCSR_SIGSTAT,VAR_1
+PB1200_SD1_EJECT_INT,VAR_2
+PB1200_SD1_INSERT_INT,VAR_3
+bcsr_read,FUNC_0
+enable_irq,FUNC_1
+free_irq,FUNC_2
+pb1200_mmc1_cd,VAR_4
+pb1200_mmc1_cdfn,VAR_5
+request_threaded_irq,FUNC_3
+pb1200_mmc1_cd_setup,FUNC_4
+mmc_host,VAR_6
+en,VAR_7
+ret,VAR_8

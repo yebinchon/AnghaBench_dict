@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+TELEM_ADD,VAR_1
+TELEM_IOSS,VAR_2
+TELEM_PSS,VAR_3
+TELEM_UPDATE,VAR_4
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+telemetry_check_evtid,FUNC_2
+telemetry_setup_iossevtconfig,FUNC_3
+telemetry_setup_pssevtconfig,FUNC_4
+telm_conf,VAR_5
+telemetry_setup_evtconfig,FUNC_5
+pss_evtconfig,VAR_6
+ioss_evtconfig,VAR_7
+action,VAR_8
+ret,VAR_9

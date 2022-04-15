@@ -1,0 +1,14 @@
+BIT,FUNC_0
+RPMH_ACTIVE_ONLY_STATE,VAR_0
+RPMH_SLEEP_STATE,VAR_1
+RPMH_WAKE_ONLY_STATE,VAR_2
+dev_err,FUNC_1
+has_state_changed,FUNC_2
+rpmh_write_async,FUNC_3
+clk_rpmh_send_aggregate_command,FUNC_4
+c,VAR_3
+cmd,VAR_4
+cmd_state,VAR_5
+on_val,VAR_6
+state,VAR_7
+ret,VAR_8

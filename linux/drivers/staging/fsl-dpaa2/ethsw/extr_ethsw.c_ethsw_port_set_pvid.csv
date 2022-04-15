@@ -1,0 +1,16 @@
+ETHSW_VLAN_PVID,VAR_0
+dpsw_if_disable,FUNC_0
+dpsw_if_enable,FUNC_1
+dpsw_if_get_tci,FUNC_2
+dpsw_if_set_tci,FUNC_3
+netdev_err,FUNC_4
+netif_oper_up,FUNC_5
+ethsw_port_set_pvid,FUNC_6
+port_priv,VAR_1
+pvid,VAR_2
+ethsw,VAR_3
+netdev,VAR_4
+tci_cfg,VAR_5
+is_oper,VAR_6
+err,VAR_7
+ret,VAR_8

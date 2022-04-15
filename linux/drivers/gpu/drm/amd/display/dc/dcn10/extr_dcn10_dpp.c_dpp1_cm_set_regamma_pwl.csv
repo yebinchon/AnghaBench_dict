@@ -1,0 +1,16 @@
+CM_RGAM_CONTROL,VAR_0
+CM_RGAM_LUT_MODE,VAR_1
+REG_SET,FUNC_0
+TO_DCN10_DPP,FUNC_1
+dpp1_cm_configure_regamma_lut,FUNC_2
+dpp1_cm_power_on_regamma_lut,FUNC_3
+dpp1_cm_program_regamma_lut,FUNC_4
+dpp1_cm_program_regamma_luta_settings,FUNC_5
+dpp1_cm_program_regamma_lutb_settings,FUNC_6
+memcmp,FUNC_7
+dpp1_cm_set_regamma_pwl,FUNC_8
+dpp_base,VAR_2
+params,VAR_3
+mode,VAR_4
+dpp,VAR_5
+re_mode,VAR_6

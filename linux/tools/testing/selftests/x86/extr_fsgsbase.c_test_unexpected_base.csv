@@ -1,0 +1,14 @@
+ARCH_SET_GS,VAR_0
+FUTEX_WAIT,VAR_1
+FUTEX_WAKE,VAR_2
+GS,VAR_3
+SYS_arch_prctl,VAR_4
+SYS_futex,VAR_5
+err,FUNC_0
+ftx,VAR_6
+nerrs,VAR_7
+printf,FUNC_1
+read_base,FUNC_2
+syscall,FUNC_3
+test_unexpected_base,FUNC_4
+base,VAR_8

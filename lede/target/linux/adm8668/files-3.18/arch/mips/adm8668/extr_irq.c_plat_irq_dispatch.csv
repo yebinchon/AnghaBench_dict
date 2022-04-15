@@ -1,0 +1,11 @@
+MIPS_CPU_IRQ_BASE,VAR_0
+ST0_IM,VAR_1
+STATUSF_IP2,VAR_2
+STATUSF_IP7,VAR_3
+adm8668_irq_cascade,FUNC_0
+do_IRQ,FUNC_1
+read_c0_cause,FUNC_2
+read_c0_status,FUNC_3
+spurious_interrupt,FUNC_4
+plat_irq_dispatch,FUNC_5
+pending,VAR_4

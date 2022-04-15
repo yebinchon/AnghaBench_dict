@@ -1,0 +1,12 @@
+UHID_SNES_N_TRANSFER,VAR_0
+device_get_softc,FUNC_0
+mtx_destroy,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+usb_callout_drain,FUNC_4
+usb_callout_stop,FUNC_5
+usb_fifo_detach,FUNC_6
+usbd_transfer_unsetup,FUNC_7
+uhid_snes_detach,FUNC_8
+dev,VAR_1
+sc,VAR_2

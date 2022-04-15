@@ -1,0 +1,16 @@
+BMIC_IDENTIFY_PHYSICAL_DEVICE,VAR_0
+CISS_GET_DRIVE_NUMBER,FUNC_0
+NO_TIMEOUT,VAR_1
+RAID_CTLR_LUNID,VAR_2
+pqi_build_raid_path_request,FUNC_1
+pqi_pci_unmap,FUNC_2
+pqi_submit_raid_request_synchronous,FUNC_3
+pqi_identify_physical_device,FUNC_4
+ctrl_info,VAR_3
+device,VAR_4
+buffer,VAR_5
+buffer_length,VAR_6
+rc,VAR_7
+dir,VAR_8
+bmic_device_index,VAR_9
+request,VAR_10

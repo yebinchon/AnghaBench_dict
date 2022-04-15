@@ -1,0 +1,12 @@
+DS1347_CLOCK_BURST,VAR_0
+bcd2bin,FUNC_0
+regmap_bulk_read,FUNC_1
+spi_get_drvdata,FUNC_2
+to_spi_device,FUNC_3
+ds1347_read_time,FUNC_4
+dev,VAR_1
+dt,VAR_2
+spi,VAR_3
+map,VAR_4
+err,VAR_5
+buf,VAR_6

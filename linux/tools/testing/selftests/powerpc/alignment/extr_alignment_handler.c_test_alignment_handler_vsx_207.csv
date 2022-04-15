@@ -1,0 +1,14 @@
+LOAD_VSX_XFORM_TEST,FUNC_0
+PPC_FEATURE2_ARCH_2_07,VAR_0
+SKIP_IF,FUNC_1
+STORE_VSX_XFORM_TEST,FUNC_2
+can_open_fb0,FUNC_3
+have_hwcap2,FUNC_4
+lxsiwax,VAR_1
+lxsiwzx,VAR_2
+lxsspx,VAR_3
+printf,FUNC_5
+stxsiwx,VAR_4
+stxsspx,VAR_5
+test_alignment_handler_vsx_207,FUNC_6
+rc,VAR_6

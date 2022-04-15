@@ -1,0 +1,16 @@
+STMT_SELECT_WORKING_CHILDREN,VAR_0
+SVN_ERR,FUNC_0
+SVN_ERR_ASSERT,FUNC_1
+VERIFY_USABLE_WCROOT,FUNC_2
+gather_children,FUNC_3
+svn_dirent_is_absolute,FUNC_4
+svn_error_trace,FUNC_5
+svn_wc__db_wcroot_parse_local_abspath,FUNC_6
+svn_wc__db_read_children_of_working_node,FUNC_7
+children,VAR_1
+db,VAR_2
+local_abspath,VAR_3
+result_pool,VAR_4
+scratch_pool,VAR_5
+wcroot,VAR_6
+local_relpath,VAR_7

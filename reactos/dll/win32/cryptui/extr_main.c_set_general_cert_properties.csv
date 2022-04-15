@@ -1,0 +1,16 @@
+CERT_DESCRIPTION_PROP_ID,VAR_0
+CERT_FRIENDLY_NAME_PROP_ID,VAR_1
+GetDlgItem,FUNC_0
+GetProcessHeap,FUNC_1
+HeapFree,FUNC_2
+IDC_DESCRIPTION,VAR_2
+IDC_FRIENDLY_NAME,VAR_3
+SendMessageW,FUNC_3
+WM_SETTEXT,VAR_4
+get_cert_property_as_string,FUNC_4
+show_cert_usages,FUNC_5
+set_general_cert_properties,FUNC_6
+hwnd,VAR_5
+data,VAR_6
+cert,VAR_7
+str,VAR_8

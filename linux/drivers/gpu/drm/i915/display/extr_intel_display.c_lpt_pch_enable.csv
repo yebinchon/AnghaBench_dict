@@ -1,0 +1,13 @@
+PIPE_A,VAR_0
+assert_pch_transcoder_disabled,FUNC_0
+ironlake_pch_transcoder_set_timings,FUNC_1
+lpt_enable_pch_transcoder,FUNC_2
+lpt_program_iclkip,FUNC_3
+to_i915,FUNC_4
+to_intel_crtc,FUNC_5
+lpt_pch_enable,FUNC_6
+state,VAR_1
+crtc_state,VAR_2
+crtc,VAR_3
+dev_priv,VAR_4
+cpu_transcoder,VAR_5

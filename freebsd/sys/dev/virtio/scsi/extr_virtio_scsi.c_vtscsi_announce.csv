@@ -1,0 +1,15 @@
+CAM_LUN_WILDCARD,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_TARGET_WILDCARD,VAR_2
+VTSCSI_ERROR,VAR_3
+cam_sim_path,FUNC_0
+vtscsi_dprintf,FUNC_1
+xpt_async,FUNC_2
+xpt_create_path,FUNC_3
+xpt_free_path,FUNC_4
+vtscsi_announce,FUNC_5
+sc,VAR_4
+ac_code,VAR_5
+target_id,VAR_6
+lun_id,VAR_7
+path,VAR_8

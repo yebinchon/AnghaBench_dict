@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+KVMPPC_XICS_ICS_SHIFT,VAR_1
+KVMPPC_XICS_IRQ_PER_ICS,VAR_2
+MASKED,VAR_3
+kzalloc,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+smp_wmb,FUNC_3
+kvmppc_xive_create_src_block,FUNC_4
+xive,VAR_4
+irq,VAR_5
+sb,VAR_6
+i,VAR_7
+bid,VAR_8

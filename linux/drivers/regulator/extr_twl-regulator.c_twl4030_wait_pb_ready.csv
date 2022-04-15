@@ -1,0 +1,10 @@
+ETIMEDOUT,VAR_0
+PB_I2C_BUSY,VAR_1
+TWL4030_PM_MASTER_PB_CFG,VAR_2
+TWL_MODULE_PM_MASTER,VAR_3
+mdelay,FUNC_0
+twl_i2c_read_u8,FUNC_1
+twl4030_wait_pb_ready,FUNC_2
+ret,VAR_4
+timeout,VAR_5
+val,VAR_6

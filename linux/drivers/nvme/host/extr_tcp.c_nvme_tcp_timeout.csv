@@ -1,0 +1,17 @@
+BLK_EH_DONE,VAR_0
+BLK_EH_RESET_TIMER,VAR_1
+NVME_CTRL_LIVE,VAR_2
+NVME_CTRL_RESETTING,VAR_3
+blk_mq_rq_to_pdu,FUNC_0
+dev_warn,FUNC_1
+flush_work,FUNC_2
+nvme_tcp_error_recovery,FUNC_3
+nvme_tcp_queue_id,FUNC_4
+nvme_tcp_teardown_admin_queue,FUNC_5
+nvme_tcp_teardown_io_queues,FUNC_6
+nvme_tcp_timeout,FUNC_7
+rq,VAR_4
+reserved,VAR_5
+req,VAR_6
+ctrl,VAR_7
+pdu,VAR_8

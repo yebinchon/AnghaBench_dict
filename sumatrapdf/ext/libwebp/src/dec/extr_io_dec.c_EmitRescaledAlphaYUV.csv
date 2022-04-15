@@ -1,0 +1,12 @@
+FillAlphaPlane,FUNC_0
+Rescale,FUNC_1
+WebPMultRows,FUNC_2
+assert,FUNC_3
+EmitRescaledAlphaYUV,FUNC_4
+io,VAR_0
+p,VAR_1
+expected_num_lines_out,VAR_2
+buf,VAR_3
+dst_a,VAR_4
+dst_y,VAR_5
+num_lines_out,VAR_6

@@ -1,0 +1,14 @@
+MVNETA_BM_COMMAND_REG,VAR_0
+MVNETA_BM_POOLS_NUM,VAR_1
+MVNETA_BM_STOP_MASK,VAR_2
+clk_disable_unprepare,FUNC_0
+mvneta_bm_pool_destroy,FUNC_1
+mvneta_bm_put_sram,FUNC_2
+mvneta_bm_write,FUNC_3
+platform_get_drvdata,FUNC_4
+mvneta_bm_remove,FUNC_5
+pdev,VAR_3
+priv,VAR_4
+all_ports_map,VAR_5
+i,VAR_6
+bm_pool,VAR_7

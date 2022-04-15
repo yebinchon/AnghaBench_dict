@@ -1,0 +1,13 @@
+BLKIF_MAX_SEGMENTS_PER_REQUEST,VAR_0
+HZ,VAR_1
+blkfront_mutex,VAR_2
+blkfront_setup_discard,FUNC_0
+blkfront_work,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+schedule_delayed_work,FUNC_3
+xen_blkif_max_segments,VAR_4
+xenbus_read_unsigned,FUNC_4
+blkfront_gather_backend_features,FUNC_5
+info,VAR_5
+indirect_segments,VAR_6

@@ -1,0 +1,16 @@
+AccessShareLock,VAR_0
+Anum_tablespace_tablespace_name,VAR_1
+BTEqualStrategyNumber,VAR_2
+CStringGetDatum,FUNC_0
+DirectFunctionCall1,FUNC_1
+F_NAMEEQ,VAR_3
+INVALID_INDEXID,VAR_4
+ScanKeyInit,FUNC_2
+namein,VAR_5
+tablespace_scan_internal,FUNC_3
+tablespace_scan_by_name,FUNC_4
+tspcname,VAR_6
+tuple_found,VAR_7
+data,VAR_8
+scankey,VAR_9
+nkeys,VAR_10

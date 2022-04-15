@@ -1,0 +1,17 @@
+__GFP_ZERO,VAR_0
+kfree,FUNC_0
+kmalloc,FUNC_1
+kmem_cache_alloc,FUNC_2
+kmem_cache_free,FUNC_3
+security_sk_alloc,FUNC_4
+security_sk_free,FUNC_5
+sk_prot_clear_nulls,FUNC_6
+sk_tx_queue_clear,FUNC_7
+try_module_get,FUNC_8
+want_init_on_alloc,FUNC_9
+sk_prot_alloc,FUNC_10
+prot,VAR_1
+priority,VAR_2
+family,VAR_3
+sk,VAR_4
+slab,VAR_5

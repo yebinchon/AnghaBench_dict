@@ -1,0 +1,11 @@
+QSPI_SPBFCR,VAR_0
+RSPI_SPSR,VAR_1
+SPBFCR_RXRST,VAR_2
+SPBFCR_TXRST,VAR_3
+SPSR_SPRF,VAR_4
+rspi_read8,FUNC_0
+rspi_read_data,FUNC_1
+rspi_write8,FUNC_2
+qspi_receive_init,FUNC_3
+rspi,VAR_5
+spsr,VAR_6

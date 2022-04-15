@@ -1,0 +1,11 @@
+IRQCHIP_MASK_ON_SUSPEND,VAR_0
+IRQD_WAKEUP_ARMED,VAR_1
+IRQS_SUSPENDED,VAR_2
+__disable_irq,FUNC_0
+irq_desc_get_chip,FUNC_1
+irq_desc_is_chained,FUNC_2
+irqd_is_wakeup_set,FUNC_3
+irqd_set,FUNC_4
+mask_irq,FUNC_5
+suspend_device_irq,FUNC_6
+desc,VAR_3

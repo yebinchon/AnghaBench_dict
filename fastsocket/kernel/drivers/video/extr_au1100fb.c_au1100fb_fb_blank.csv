@@ -1,0 +1,14 @@
+LCD_CONTROL_GO,VAR_0
+PB1100_G_CONTROL,VAR_1
+PB1100_G_CONTROL_BL,VAR_2
+PB1100_G_CONTROL_VDD,VAR_3
+au_readw,FUNC_0
+au_sync,FUNC_1
+au_writew,FUNC_2
+drv_info,VAR_4
+print_dbg,FUNC_3
+to_au1100fb_device,FUNC_4
+au1100fb_fb_blank,FUNC_5
+blank_mode,VAR_5
+fbi,VAR_6
+fbdev,VAR_7

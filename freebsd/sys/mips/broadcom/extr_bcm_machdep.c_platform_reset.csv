@@ -1,0 +1,16 @@
+BCM_CHIPC_WRITE_4,FUNC_0
+BCM_PMU_WRITE_4,FUNC_1
+BHND_CHIPID_BCM4785,VAR_0
+BHND_PMU_WATCHDOG,VAR_1
+BMIPS_BCMCFG_PLLCFG3_SM,VAR_2
+CHIPC_WATCHDOG,VAR_3
+bcm_bmips_wr_pllcfg3,FUNC_2
+bcm_get_platform,FUNC_3
+bcm_platform_data_avail,VAR_4
+cfe_exit,FUNC_4
+intr_disable,FUNC_5
+mips_sync,FUNC_6
+printf,FUNC_7
+platform_reset,FUNC_8
+bp,VAR_5
+bcm4785war,VAR_6

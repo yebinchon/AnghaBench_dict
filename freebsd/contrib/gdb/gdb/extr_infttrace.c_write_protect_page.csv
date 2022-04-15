@@ -1,0 +1,13 @@
+PROT_WRITE,VAR_0
+TT_NIL,VAR_1
+TT_PROC_GET_MPROTECT,VAR_2
+TT_PROC_SET_MPROTECT,VAR_3
+call_ttrace,FUNC_0
+errno,VAR_4
+memory_page_dictionary,VAR_5
+write_protect_page,FUNC_1
+pid,VAR_6
+page_start,VAR_7
+tt_status,VAR_8
+original_permissions,VAR_9
+new_permissions,VAR_10

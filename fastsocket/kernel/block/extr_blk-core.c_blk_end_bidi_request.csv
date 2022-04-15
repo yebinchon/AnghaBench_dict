@@ -1,0 +1,11 @@
+blk_finish_request,FUNC_0
+blk_update_bidi_request,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+blk_end_bidi_request,FUNC_4
+rq,VAR_0
+error,VAR_1
+nr_bytes,VAR_2
+bidi_bytes,VAR_3
+q,VAR_4
+flags,VAR_5

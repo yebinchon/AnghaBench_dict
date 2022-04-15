@@ -1,0 +1,11 @@
+GMUX_PORT_DISCRETE_POWER,VAR_0
+VGA_SWITCHEROO_ON,VAR_1
+gmux_write8,FUNC_0
+msecs_to_jiffies,FUNC_1
+pr_debug,FUNC_2
+pr_warn,FUNC_3
+reinit_completion,FUNC_4
+wait_for_completion_interruptible_timeout,FUNC_5
+gmux_set_discrete_state,FUNC_6
+gmux_data,VAR_2
+state,VAR_3

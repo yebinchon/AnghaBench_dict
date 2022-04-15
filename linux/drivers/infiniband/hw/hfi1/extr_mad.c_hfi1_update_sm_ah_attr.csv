@@ -1,0 +1,14 @@
+IB_AH_GRH,VAR_0
+IB_MULTICAST_LID_BASE,VAR_1
+OPA_MAKE_ID,FUNC_0
+be16_to_cpu,FUNC_1
+ppd_from_ibp,FUNC_2
+rdma_ah_retrieve_grh,FUNC_3
+rdma_ah_set_ah_flags,FUNC_4
+rdma_ah_set_dlid,FUNC_5
+rdma_ah_set_port_num,FUNC_6
+hfi1_update_sm_ah_attr,FUNC_7
+ibp,VAR_2
+attr,VAR_3
+dlid,VAR_4
+grh,VAR_5

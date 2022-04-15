@@ -1,0 +1,15 @@
+DT9812_RMW_MULTI_BYTE_REG,VAR_0
+DT9812_USB_TIMEOUT,VAR_1
+comedi_to_usb_dev,FUNC_0
+cpu_to_le32,FUNC_1
+usb_bulk_msg,FUNC_2
+usb_sndbulkpipe,FUNC_3
+dt9812_rmw_multiple_registers,FUNC_4
+dev,VAR_2
+reg_count,VAR_3
+rmw,VAR_4
+usb,VAR_5
+devpriv,VAR_6
+cmd,VAR_7
+i,VAR_8
+count,VAR_9

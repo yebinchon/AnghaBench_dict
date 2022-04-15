@@ -1,0 +1,13 @@
+O_RDWR,VAR_0
+STDERR_FILENO,VAR_1
+STDIN_FILENO,VAR_2
+STDOUT_FILENO,VAR_3
+close,FUNC_0
+dup2,FUNC_1
+errno,VAR_4
+open,FUNC_2
+strerror,FUNC_3
+zed_log_die,FUNC_4
+zed_log_pipe_close_writes,FUNC_5
+_finish_daemonize,FUNC_6
+devnull,VAR_5

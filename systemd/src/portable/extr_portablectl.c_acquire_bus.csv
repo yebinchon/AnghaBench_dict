@@ -1,0 +1,10 @@
+arg_ask_password,VAR_0
+arg_host,VAR_1
+arg_transport,VAR_2
+assert,FUNC_0
+bus_connect_transport,FUNC_1
+log_error_errno,FUNC_2
+sd_bus_set_allow_interactive_authorization,FUNC_3
+acquire_bus,FUNC_4
+bus,VAR_3
+r,VAR_4

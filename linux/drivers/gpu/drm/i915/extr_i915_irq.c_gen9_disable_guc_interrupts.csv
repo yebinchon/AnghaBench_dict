@@ -1,0 +1,10 @@
+assert_rpm_wakelock_held,FUNC_0
+gen6_gt_pm_disable_irq,FUNC_1
+gen9_reset_guc_interrupts,FUNC_2
+guc_to_gt,FUNC_3
+intel_synchronize_irq,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+gen9_disable_guc_interrupts,FUNC_7
+guc,VAR_0
+gt,VAR_1

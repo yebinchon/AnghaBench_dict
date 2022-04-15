@@ -1,0 +1,17 @@
+UART_C2,VAR_0
+UART_C2_RIE,VAR_1
+UART_D,VAR_2
+UART_S1,VAR_3
+UART_S1_RDRF,VAR_4
+UART_STAT_OVERRUN,VAR_5
+uart_getreg,FUNC_0
+uart_lock,FUNC_1
+uart_rx_full,FUNC_2
+uart_rx_put,FUNC_3
+uart_setreg,FUNC_4
+uart_unlock,FUNC_5
+vf_uart_bus_receive,FUNC_6
+sc,VAR_6
+bas,VAR_7
+reg,VAR_8
+c,VAR_9

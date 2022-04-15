@@ -1,0 +1,14 @@
+DBUS_TYPE_INVALID,VAR_0
+DBUS_TYPE_STRING,VAR_1
+DBUS_TYPE_UINT32,VAR_2
+RARCH_ERR,FUNC_0
+RARCH_LOG,FUNC_1
+dbus_connection,VAR_3
+dbus_connection_send_with_reply_and_block,FUNC_2
+dbus_message_append_args,FUNC_3
+dbus_message_get_args,FUNC_4
+dbus_message_new_method_call,FUNC_5
+dbus_message_unref,FUNC_6
+dbus_screensaver_cookie,VAR_4
+dbus_screensaver_inhibit,FUNC_7
+ret,VAR_5

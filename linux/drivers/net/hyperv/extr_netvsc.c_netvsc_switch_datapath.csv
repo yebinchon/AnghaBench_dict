@@ -1,0 +1,16 @@
+NVSP_DATAPATH_SYNTHETIC,VAR_0
+NVSP_DATAPATH_VF,VAR_1
+NVSP_MSG4_TYPE_SWITCH_DATA_PATH,VAR_2
+VM_PKT_DATA_INBAND,VAR_3
+memset,FUNC_0
+netdev_priv,FUNC_1
+rtnl_dereference,FUNC_2
+trace_nvsp_send,FUNC_3
+vmbus_sendpacket,FUNC_4
+netvsc_switch_datapath,FUNC_5
+ndev,VAR_4
+vf,VAR_5
+net_device_ctx,VAR_6
+dev,VAR_7
+nv_dev,VAR_8
+init_pkt,VAR_9

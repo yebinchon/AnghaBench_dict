@@ -1,0 +1,17 @@
+RTC_CTRL,VAR_0
+RTC_ENABLE,VAR_1
+RTC_TIME,VAR_2
+RTC_UNLOCK,VAR_3
+RTC_YEAR,VAR_4
+dev_get_drvdata,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+aspeed_rtc_set_time,FUNC_3
+dev,VAR_5
+tm,VAR_6
+rtc,VAR_7
+reg1,VAR_8
+reg2,VAR_9
+ctrl,VAR_10
+year,VAR_11
+cent,VAR_12

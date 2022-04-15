@@ -1,0 +1,13 @@
+ATA_CYPRESS_82C693,VAR_0
+BUS_PROBE_LOW_PRIORITY,VAR_1
+ENXIO,VAR_2
+PCIS_STORAGE_IDE,VAR_3
+ata_cypress_chipinit,VAR_4
+device_get_softc,FUNC_0
+device_set_desc,FUNC_1
+pci_get_devid,FUNC_2
+pci_get_function,FUNC_3
+pci_get_subclass,FUNC_4
+ata_cypress_probe,FUNC_5
+dev,VAR_5
+ctlr,VAR_6

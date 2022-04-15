@@ -1,0 +1,17 @@
+HB_ACODEC_MASK,VAR_0
+HB_ACODEC_PASS_FLAG,VAR_1
+hb_audio_bitrate_get_best,FUNC_0
+hb_audio_samplerate_get_sr_shift,FUNC_1
+hb_mixdown_get_discrete_channel_count,FUNC_2
+hb_mixdown_get_low_freq_channel_count,FUNC_3
+mixdown_get_opus_coupled_stream_count,FUNC_4
+hb_audio_bitrate_get_default,FUNC_5
+codec,VAR_2
+samplerate,VAR_3
+mixdown,VAR_4
+bitrate,VAR_5
+nchannels,VAR_6
+nlfe,VAR_7
+sr_shift,VAR_8
+coupled,VAR_9
+uncoupled,VAR_10

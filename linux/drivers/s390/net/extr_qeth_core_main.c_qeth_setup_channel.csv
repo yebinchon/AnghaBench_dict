@@ -1,0 +1,11 @@
+CH_STATE_DOWN,VAR_0
+QETH_DBF_TEXT,FUNC_0
+SETUP,VAR_1
+atomic_set,FUNC_1
+get_ccwdev_lock,FUNC_2
+qeth_irq,VAR_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+qeth_setup_channel,FUNC_5
+channel,VAR_3
+cdev,VAR_4

@@ -1,0 +1,16 @@
+DPR_ADC_BUFFER,VAR_0
+DPR_AD_BUF_FRONT,VAR_1
+DPR_AD_BUF_REAR,VAR_2
+DPR_AI_FIFO_DEPTH,VAR_3
+comedi_buf_write_samples,FUNC_0
+readw,FUNC_1
+writew,FUNC_2
+dt3k_ai_empty_fifo,FUNC_3
+dev,VAR_4
+s,VAR_5
+devpriv,VAR_6
+front,VAR_7
+rear,VAR_8
+count,VAR_9
+i,VAR_10
+data,VAR_11

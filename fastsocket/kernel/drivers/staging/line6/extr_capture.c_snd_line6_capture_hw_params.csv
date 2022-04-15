@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+LINE6_ISO_BUFFERS,VAR_2
+LINE6_ISO_PACKETS,VAR_3
+LINE6_ISO_PACKET_SIZE_MAX,VAR_4
+dev_err,FUNC_0
+kmalloc,FUNC_1
+params_buffer_bytes,FUNC_2
+params_period_bytes,FUNC_3
+s2m,FUNC_4
+snd_pcm_lib_malloc_pages,FUNC_5
+snd_pcm_substream_chip,FUNC_6
+snd_line6_capture_hw_params,FUNC_7
+substream,VAR_5
+hw_params,VAR_6
+ret,VAR_7
+line6pcm,VAR_8

@@ -1,0 +1,12 @@
+gnss_insert_raw,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+serdev_device_get_drvdata,FUNC_3
+wake_up_interruptible,FUNC_4
+sirf_receive_buf,FUNC_5
+serdev,VAR_0
+buf,VAR_1
+count,VAR_2
+data,VAR_3
+gdev,VAR_4
+ret,VAR_5

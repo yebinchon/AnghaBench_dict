@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+WAIT_FOR_FW_RDY,VAR_2
+WAIT_FOR_INPUT_RDY,VAR_3
+ish_is_input_ready,FUNC_0
+ishtp_fw_is_ready,FUNC_1
+msleep_interruptible,FUNC_2
+timed_wait_for_timeout,FUNC_3
+dev,VAR_4
+condition,VAR_5
+timeinc,VAR_6
+timeout,VAR_7
+complete,VAR_8
+ret,VAR_9
+left_time,VAR_10

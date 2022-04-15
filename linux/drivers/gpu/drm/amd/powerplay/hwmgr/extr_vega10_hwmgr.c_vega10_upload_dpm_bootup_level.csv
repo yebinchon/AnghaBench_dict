@@ -1,0 +1,11 @@
+NUM_UCLK_DPM_LEVELS,VAR_0
+PPSMC_MSG_SetSoftMinGfxclkByIndex,VAR_1
+PPSMC_MSG_SetSoftMinSocclkByIndex,VAR_2
+PPSMC_MSG_SetSoftMinUclkByIndex,VAR_3
+smum_send_msg_to_smc_with_parameter,FUNC_0
+vega10_apply_dal_minimum_voltage_request,FUNC_1
+vega10_get_soc_index_for_max_uclk,FUNC_2
+vega10_upload_dpm_bootup_level,FUNC_3
+hwmgr,VAR_4
+data,VAR_5
+socclk_idx,VAR_6

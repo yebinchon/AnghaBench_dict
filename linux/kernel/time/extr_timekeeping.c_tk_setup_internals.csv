@@ -1,0 +1,12 @@
+NTP_INTERVAL_LENGTH,VAR_0
+NTP_SCALE_SHIFT,VAR_1
+do_div,FUNC_0
+tk_clock_read,FUNC_1
+tk_setup_internals,FUNC_2
+tk,VAR_2
+clock,VAR_3
+interval,VAR_4
+tmp,VAR_5
+ntpinterval,VAR_6
+old_clock,VAR_7
+shift_change,VAR_8

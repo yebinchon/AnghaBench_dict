@@ -1,0 +1,13 @@
+REG_MAC_CTRL,VAR_0
+__atlx_vlan_mode,FUNC_0
+ioread32,FUNC_1
+iowrite32,FUNC_2
+netdev_priv,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+atlx_vlan_mode,FUNC_6
+netdev,VAR_1
+features,VAR_2
+adapter,VAR_3
+flags,VAR_4
+ctrl,VAR_5

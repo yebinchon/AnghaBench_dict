@@ -1,0 +1,8 @@
+CPUSTAT_EXT_INT,VAR_0
+IRQ_PEND_EXT_MASK,VAR_1
+LCTL_CR0,VAR_2
+kvm_s390_set_cpuflags,FUNC_0
+pending_irqs_no_gisa,FUNC_1
+psw_extint_disabled,FUNC_2
+set_intercept_indicators_ext,FUNC_3
+vcpu,VAR_3

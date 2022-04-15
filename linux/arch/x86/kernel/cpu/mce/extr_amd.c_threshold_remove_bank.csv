@@ -1,0 +1,16 @@
+__threshold_remove_blocks,FUNC_0
+amd_get_nb_id,FUNC_1
+deallocate_threshold_block,FUNC_2
+is_shared_bank,FUNC_3
+kfree,FUNC_4
+kobject_del,FUNC_5
+kobject_put,FUNC_6
+node_to_amd_nb,FUNC_7
+per_cpu,FUNC_8
+refcount_dec_and_test,FUNC_9
+threshold_banks,VAR_0
+threshold_remove_bank,FUNC_10
+cpu,VAR_1
+bank,VAR_2
+nb,VAR_3
+b,VAR_4

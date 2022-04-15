@@ -1,0 +1,11 @@
+WIPHY_PARAM_FRAG_THRESHOLD,VAR_0
+WIPHY_PARAM_RTS_THRESHOLD,VAR_1
+set_frag_threshold,FUNC_0
+set_rts_threshold,FUNC_1
+wiphy_priv,FUNC_2
+rndis_set_wiphy_params,FUNC_3
+wiphy,VAR_2
+changed,VAR_3
+priv,VAR_4
+usbdev,VAR_5
+err,VAR_6

@@ -1,0 +1,10 @@
+EBUSY,VAR_0
+KVM_S390_SIGP_STOP,VAR_1
+SIGP_CC_BUSY,VAR_2
+VCPU_EVENT,FUNC_0
+kvm_s390_inject_vcpu,FUNC_1
+__sigp_stop,FUNC_2
+vcpu,VAR_3
+dst_vcpu,VAR_4
+irq,VAR_5
+rc,VAR_6

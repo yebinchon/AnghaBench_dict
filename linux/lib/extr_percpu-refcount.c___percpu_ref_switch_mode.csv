@@ -1,0 +1,10 @@
+__PERCPU_REF_DEAD,VAR_0
+__percpu_ref_switch_to_atomic,FUNC_0
+__percpu_ref_switch_to_percpu,FUNC_1
+lockdep_assert_held,FUNC_2
+percpu_ref_switch_lock,VAR_1
+percpu_ref_switch_waitq,VAR_2
+wait_event_lock_irq,FUNC_3
+__percpu_ref_switch_mode,FUNC_4
+ref,VAR_3
+confirm_switch,VAR_4

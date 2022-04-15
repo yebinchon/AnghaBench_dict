@@ -1,0 +1,11 @@
+MT2701_IOMMU_PAGE_SHIFT,VAR_0
+MT2701_IOMMU_PAGE_SIZE,VAR_1
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+to_mtk_domain,FUNC_2
+mtk_iommu_iova_to_phys,FUNC_3
+domain,VAR_2
+iova,VAR_3
+dom,VAR_4
+flags,VAR_5
+pa,VAR_6

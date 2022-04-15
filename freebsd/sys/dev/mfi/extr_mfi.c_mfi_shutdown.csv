@@ -1,0 +1,15 @@
+MFI_CMD_POLLED,VAR_0
+MFI_DCMD_CTRL_SHUTDOWN,VAR_1
+MFI_FRAME_DIR_NONE,VAR_2
+device_printf,FUNC_0
+mfi_abort,FUNC_1
+mfi_dcmd_command,FUNC_2
+mfi_mapcmd,FUNC_3
+mfi_release_command,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+mfi_shutdown,FUNC_7
+sc,VAR_3
+dcmd,VAR_4
+cm,VAR_5
+error,VAR_6

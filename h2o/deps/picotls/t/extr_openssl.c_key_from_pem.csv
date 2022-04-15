@@ -1,0 +1,13 @@
+BIO_free,FUNC_0
+BIO_new_mem_buf,FUNC_1
+EVP_PKEY_free,FUNC_2
+PEM_read_bio_PrivateKey,FUNC_3
+assert,FUNC_4
+ptls_openssl_create_key_exchange,FUNC_5
+strlen,FUNC_6
+key_from_pem,FUNC_7
+pem,VAR_0
+bio,VAR_1
+pkey,VAR_2
+ctx,VAR_3
+ret,VAR_4

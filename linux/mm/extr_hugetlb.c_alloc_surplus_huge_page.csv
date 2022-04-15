@@ -1,0 +1,14 @@
+SetPageHugeTemporary,FUNC_0
+alloc_fresh_huge_page,FUNC_1
+hstate_is_gigantic,FUNC_2
+hugetlb_lock,VAR_0
+page_to_nid,FUNC_3
+put_page,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+alloc_surplus_huge_page,FUNC_7
+h,VAR_1
+gfp_mask,VAR_2
+nid,VAR_3
+nmask,VAR_4
+page,VAR_5

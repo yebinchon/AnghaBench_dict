@@ -1,0 +1,13 @@
+ENOTDIR,VAR_0
+call_rcu,FUNC_0
+down_write,FUNC_1
+key_payload_reserve,FUNC_2
+key_type_keyring,VAR_1
+keyring_clear_rcu_disposal,VAR_2
+rcu_assign_pointer,FUNC_3
+rcu_dereference_locked_keyring,FUNC_4
+up_write,FUNC_5
+keyring_clear,FUNC_6
+keyring,VAR_3
+klist,VAR_4
+ret,VAR_5

@@ -1,0 +1,13 @@
+EIO,VAR_0
+PN544_FW_CMD_CHECK,VAR_1
+crc_ccitt,FUNC_0
+i2c_master_send,FUNC_1
+put_unaligned_be16,FUNC_2
+pn544_hci_i2c_fw_check_cmd,FUNC_3
+client,VAR_2
+start_addr,VAR_3
+data,VAR_4
+datalen,VAR_5
+frame,VAR_6
+r,VAR_7
+crc,VAR_8

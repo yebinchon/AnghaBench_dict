@@ -1,0 +1,17 @@
+INT_EN_CLR,VAR_0
+LAN743X_USED_RX_CHANNELS,VAR_1
+lan743x_csr_write,FUNC_0
+lan743x_dmac_init,FUNC_1
+lan743x_gpio_init,FUNC_2
+lan743x_mac_init,FUNC_3
+lan743x_phy_init,FUNC_4
+lan743x_ptp_init,FUNC_5
+lan743x_rfe_update_mac_address,FUNC_6
+mutex_init,FUNC_7
+spin_lock_init,FUNC_8
+lan743x_hardware_init,FUNC_9
+adapter,VAR_2
+pdev,VAR_3
+tx,VAR_4
+index,VAR_5
+ret,VAR_6

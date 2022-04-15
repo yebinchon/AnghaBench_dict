@@ -1,0 +1,10 @@
+INTEL_PMC_IDX_FIXED_BTS,VAR_0
+MSR_CORE_PERF_GLOBAL_CTRL,VAR_1
+cpu_hw_events,VAR_2
+intel_pmu_disable_bts,FUNC_0
+intel_pmu_pebs_disable_all,FUNC_1
+test_bit,FUNC_2
+this_cpu_ptr,FUNC_3
+wrmsrl,FUNC_4
+__intel_pmu_disable_all,FUNC_5
+cpuc,VAR_3

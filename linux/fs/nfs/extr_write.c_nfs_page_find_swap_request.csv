@@ -1,0 +1,13 @@
+NFS_I,FUNC_0
+PageSwapCache,FUNC_1
+WARN_ON_ONCE,FUNC_2
+kref_get,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+nfs_page_search_commits_for_head_request_locked,FUNC_6
+page_file_mapping,FUNC_7
+nfs_page_find_swap_request,FUNC_8
+page,VAR_0
+inode,VAR_1
+nfsi,VAR_2
+req,VAR_3

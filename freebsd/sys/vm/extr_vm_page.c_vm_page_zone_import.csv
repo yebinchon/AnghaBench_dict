@@ -1,0 +1,16 @@
+VM_ALLOC_NORMAL,VAR_0
+VM_DOMAIN,FUNC_0
+vm_domain_allocate,FUNC_1
+vm_domain_free_lock,FUNC_2
+vm_domain_free_unlock,FUNC_3
+vm_domain_freecnt_inc,FUNC_4
+vm_phys_alloc_npages,FUNC_5
+vm_page_zone_import,FUNC_6
+arg,VAR_1
+store,VAR_2
+cnt,VAR_3
+domain,VAR_4
+flags,VAR_5
+vmd,VAR_6
+pgcache,VAR_7
+i,VAR_8

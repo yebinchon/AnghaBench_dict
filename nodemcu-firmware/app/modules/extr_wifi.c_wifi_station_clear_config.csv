@@ -1,0 +1,12 @@
+lua_pushboolean,FUNC_0
+memset,FUNC_1
+wifi_station_disconnect,FUNC_2
+wifi_station_set_auto_connect,FUNC_3
+wifi_station_set_config,FUNC_4
+wifi_station_set_config_current,FUNC_5
+wifi_station_clear_config,FUNC_6
+L,VAR_0
+sta_conf,VAR_1
+auto_connect,VAR_2
+save_to_flash,VAR_3
+config_success,VAR_4

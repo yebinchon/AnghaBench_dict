@@ -1,0 +1,10 @@
+MMC_SEND_CSD,VAR_0
+be32_to_cpu,FUNC_0
+mmc_host_is_spi,FUNC_1
+mmc_send_cxd_data,FUNC_2
+mmc_send_cxd_native,FUNC_3
+mmc_send_csd,FUNC_4
+card,VAR_1
+csd,VAR_2
+ret,VAR_3
+i,VAR_4

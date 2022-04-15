@@ -1,0 +1,16 @@
+BPF_CLASS,FUNC_0
+BPF_JMP32,VAR_0
+BPF_OP,FUNC_1
+BPF_SRC,FUNC_2
+BPF_X,VAR_1
+PTR_TO_PACKET,VAR_2
+PTR_TO_PACKET_END,VAR_3
+PTR_TO_PACKET_META,VAR_4
+find_good_pkt_pointers,FUNC_3
+reg_is_init_pkt_pointer,FUNC_4
+try_match_pkt_pointers,FUNC_5
+insn,VAR_5
+dst_reg,VAR_6
+src_reg,VAR_7
+this_branch,VAR_8
+other_branch,VAR_9

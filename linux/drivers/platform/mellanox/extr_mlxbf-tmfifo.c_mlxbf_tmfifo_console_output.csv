@@ -1,0 +1,13 @@
+CIRC_SPACE,FUNC_0
+MLXBF_TMFIFO_CON_TX_BUF_RSV_SIZE,VAR_0
+MLXBF_TMFIFO_CON_TX_BUF_SIZE,VAR_1
+mlxbf_tmfifo_console_output_one,FUNC_1
+mlxbf_tmfifo_get_next_desc,FUNC_2
+mlxbf_tmfifo_get_pkt_len,FUNC_3
+mlxbf_tmfifo_release_desc,FUNC_4
+mlxbf_tmfifo_console_output,FUNC_5
+cons,VAR_2
+vring,VAR_3
+desc,VAR_4
+len,VAR_5
+avail,VAR_6

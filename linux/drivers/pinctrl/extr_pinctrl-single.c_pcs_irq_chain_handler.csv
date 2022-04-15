@@ -1,0 +1,9 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+irq_desc_get_chip,FUNC_2
+irq_desc_get_handler_data,FUNC_3
+pcs_irq_handle,FUNC_4
+pcs_irq_chain_handler,FUNC_5
+desc,VAR_0
+pcs_soc,VAR_1
+chip,VAR_2

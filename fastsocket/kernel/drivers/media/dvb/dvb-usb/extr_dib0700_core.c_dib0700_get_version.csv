@@ -1,0 +1,14 @@
+REQUEST_GET_VERSION,VAR_0
+USB_CTRL_GET_TIMEOUT,VAR_1
+USB_DIR_IN,VAR_2
+USB_TYPE_VENDOR,VAR_3
+usb_control_msg,FUNC_0
+usb_rcvctrlpipe,FUNC_1
+dib0700_get_version,FUNC_2
+d,VAR_4
+hwversion,VAR_5
+romversion,VAR_6
+ramversion,VAR_7
+fwtype,VAR_8
+b,VAR_9
+ret,VAR_10

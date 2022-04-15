@@ -1,0 +1,17 @@
+CMDQ_ALLOCATE_MRW_MRW_FLAGS_MW_TYPE1,VAR_0
+CMDQ_ALLOCATE_MRW_MRW_FLAGS_MW_TYPE2A,VAR_1
+CMDQ_ALLOCATE_MRW_MRW_FLAGS_MW_TYPE2B,VAR_2
+DEALLOCATE_KEY,VAR_3
+RCFW_CMD_PREP,FUNC_0
+bnxt_qplib_free_hwq,FUNC_1
+bnxt_qplib_rcfw_send_message,FUNC_2
+cpu_to_le32,FUNC_3
+dev_info,FUNC_4
+bnxt_qplib_free_mrw,FUNC_5
+res,VAR_4
+mrw,VAR_5
+rcfw,VAR_6
+req,VAR_7
+resp,VAR_8
+cmd_flags,VAR_9
+rc,VAR_10

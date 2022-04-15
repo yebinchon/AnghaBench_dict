@@ -1,0 +1,13 @@
+RT_MUTEX_HAS_WAITERS,VAR_0
+current,VAR_1
+preempt_disable,FUNC_0
+raw_spin_lock,FUNC_1
+raw_spin_unlock,FUNC_2
+rt_mutex_adjust_prio,FUNC_3
+rt_mutex_dequeue_pi,FUNC_4
+rt_mutex_top_waiter,FUNC_5
+wake_q_add,FUNC_6
+mark_wakeup_next_waiter,FUNC_7
+wake_q,VAR_2
+lock,VAR_3
+waiter,VAR_4

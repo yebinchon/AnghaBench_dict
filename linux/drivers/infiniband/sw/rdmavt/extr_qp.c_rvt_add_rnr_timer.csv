@@ -1,0 +1,11 @@
+HRTIMER_MODE_REL_PINNED,VAR_0
+RVT_S_WAIT_RNR,VAR_1
+hrtimer_start,FUNC_0
+lockdep_assert_held,FUNC_1
+ns_to_ktime,FUNC_2
+rvt_aeth_to_usec,FUNC_3
+trace_rvt_rnrnak_add,FUNC_4
+rvt_add_rnr_timer,FUNC_5
+qp,VAR_2
+aeth,VAR_3
+to,VAR_4

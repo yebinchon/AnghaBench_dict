@@ -1,0 +1,14 @@
+PACKET_FORMAT_OFFSET,VAR_0
+RX_PACKET_EXCLUDE_DIFFERED_DATA_CHUNKS,VAR_1
+TX_PACKET_EXCLUDE_DIFFERED_DATA_CHUNKS,VAR_2
+TX_PACKET_TRANSMISSION_SPEED_MASK,VAR_3
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+fw_parent_device,FUNC_2
+snd_motu_transaction_read,FUNC_3
+snd_motu_transaction_write,FUNC_4
+ensure_packet_formats,FUNC_5
+motu,VAR_4
+reg,VAR_5
+data,VAR_6
+err,VAR_7

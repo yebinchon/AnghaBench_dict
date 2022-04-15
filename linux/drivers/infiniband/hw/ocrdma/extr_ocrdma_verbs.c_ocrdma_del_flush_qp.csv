@@ -1,0 +1,11 @@
+get_ocrdma_dev,FUNC_0
+list_del,FUNC_1
+ocrdma_is_qp_in_rq_flushlist,FUNC_2
+ocrdma_is_qp_in_sq_flushlist,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ocrdma_del_flush_qp,FUNC_6
+qp,VAR_0
+found,VAR_1
+flags,VAR_2
+dev,VAR_3

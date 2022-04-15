@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+ATF_REQUIRE_STREQ,FUNC_1
+FSTYPE_P2K_FFS,FUNC_2
+FSTYPE_PUFFS,FUNC_3
+MAXNAMLEN,VAR_0
+ST_WAIT,VAR_1
+atf_tc_fail_errno,FUNC_4
+atf_tc_get_md_var,FUNC_5
+rump_sys_statvfs1,FUNC_6
+tstatvfs,FUNC_7
+tc,VAR_2
+path,VAR_3
+fstype,VAR_4
+svb,VAR_5

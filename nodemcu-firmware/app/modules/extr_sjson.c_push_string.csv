@@ -1,0 +1,13 @@
+fromhex,FUNC_0
+get_state_buffer,FUNC_1
+luaL_buffinit,FUNC_2
+luaL_pushresult,FUNC_3
+luaL_putchar,FUNC_4
+output_utf8,FUNC_5
+push_string,FUNC_6
+data,VAR_0
+state,VAR_1
+b,VAR_2
+i,VAR_3
+c,VAR_4
+nc,VAR_5

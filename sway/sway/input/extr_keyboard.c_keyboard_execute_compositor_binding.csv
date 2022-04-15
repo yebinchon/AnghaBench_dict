@@ -1,0 +1,15 @@
+XKB_KEY_XF86Switch_VT_1,VAR_0
+XKB_KEY_XF86Switch_VT_12,VAR_1
+server,VAR_2
+wlr_backend_get_session,FUNC_0
+wlr_backend_is_multi,FUNC_1
+wlr_session_change_vt,FUNC_2
+keyboard_execute_compositor_binding,FUNC_3
+keyboard,VAR_3
+pressed_keysyms,VAR_4
+modifiers,VAR_5
+keysyms_len,VAR_6
+i,VAR_7
+keysym,VAR_8
+session,VAR_9
+vt,VAR_10

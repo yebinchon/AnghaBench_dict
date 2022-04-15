@@ -1,0 +1,15 @@
+USB_CLASS_VENDOR_SPEC,VAR_0
+create_autodetect_quirk,FUNC_0
+get_iface_desc,FUNC_1
+usb_driver_claim_interface,FUNC_2
+usb_ifnum_to_if,FUNC_3
+usb_interface_claimed,FUNC_4
+create_autodetect_quirks,FUNC_5
+chip,VAR_1
+iface,VAR_2
+driver,VAR_3
+quirk,VAR_4
+probed_ifnum,VAR_5
+ifcount,VAR_6
+ifnum,VAR_7
+err,VAR_8

@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+PageDirty,FUNC_1
+PageLocked,FUNC_2
+attach_page_buffers,FUNC_3
+set_buffer_dirty,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+attach_nobh_buffers,FUNC_7
+page,VAR_0
+head,VAR_1
+bh,VAR_2

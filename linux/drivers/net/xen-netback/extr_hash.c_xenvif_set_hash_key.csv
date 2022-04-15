@@ -1,0 +1,17 @@
+DOMID_SELF,VAR_0
+GNTCOPY_source_gref,VAR_1
+GNTST_okay,VAR_2
+XEN_NETBK_MAX_HASH_KEY_SIZE,VAR_3
+XEN_NETIF_CTRL_STATUS_INVALID_PARAMETER,VAR_4
+XEN_NETIF_CTRL_STATUS_SUCCESS,VAR_5
+gnttab_batch_copy,FUNC_0
+memset,FUNC_1
+virt_to_gfn,FUNC_2
+xen_offset_in_page,FUNC_3
+xenvif_flush_hash,FUNC_4
+xenvif_set_hash_key,FUNC_5
+vif,VAR_6
+gref,VAR_7
+len,VAR_8
+key,VAR_9
+copy_op,VAR_10

@@ -1,0 +1,17 @@
+AGP_NORMAL_MEMORY,VAR_0
+AGP_PHYSICAL_MEMORY,VAR_1
+EBUSY,VAR_2
+ENODEV,VAR_3
+ENOMEM,VAR_4
+agp_allocate_memory,FUNC_0
+agp_backend_acquire,FUNC_1
+agp_backend_release,FUNC_2
+agp_bind_memory,FUNC_3
+i810_fix_offsets,FUNC_4
+i810_fix_pointers,FUNC_5
+printk,FUNC_6
+i810_alloc_agp_mem,FUNC_7
+info,VAR_5
+par,VAR_6
+size,VAR_7
+bridge,VAR_8

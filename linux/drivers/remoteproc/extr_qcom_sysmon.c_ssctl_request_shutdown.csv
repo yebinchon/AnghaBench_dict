@@ -1,0 +1,17 @@
+HZ,VAR_0
+SSCTL_SHUTDOWN_REQ,VAR_1
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+qmi_send_request,FUNC_2
+qmi_txn_cancel,FUNC_3
+qmi_txn_init,FUNC_4
+qmi_txn_wait,FUNC_5
+reinit_completion,FUNC_6
+ssctl_shutdown_resp_ei,VAR_2
+try_wait_for_completion,FUNC_7
+wait_for_completion_timeout,FUNC_8
+ssctl_request_shutdown,FUNC_9
+sysmon,VAR_3
+resp,VAR_4
+txn,VAR_5
+ret,VAR_6

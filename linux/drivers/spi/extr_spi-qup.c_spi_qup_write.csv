@@ -1,0 +1,16 @@
+DIV_ROUND_UP,FUNC_0
+QUP_IO_M_MODE_BLOCK,VAR_0
+QUP_OPERATIONAL,VAR_1
+QUP_OP_OUT_BLOCK_WRITE_REQ,VAR_2
+QUP_OP_OUT_FIFO_FULL,VAR_3
+QUP_OP_OUT_SERVICE_FLAG,VAR_4
+spi_qup_is_flag_set,FUNC_1
+spi_qup_len,FUNC_2
+spi_qup_write_to_fifo,FUNC_3
+writel_relaxed,FUNC_4
+spi_qup_write,FUNC_5
+controller,VAR_5
+is_block_mode,VAR_6
+remainder,VAR_7
+words_per_block,VAR_8
+num_words,VAR_9

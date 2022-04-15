@@ -1,0 +1,11 @@
+TIMER_A_CONTROL,VAR_0
+TIMER_A_COUNT,VAR_1
+TIMER_A_ENABLE_COUNT,VAR_2
+TIMER_A_ENABLE_WATCHDOG,VAR_3
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+writel_relaxed,FUNC_2
+dc_wdt_set,FUNC_3
+wdt,VAR_4
+ticks,VAR_5
+flags,VAR_6

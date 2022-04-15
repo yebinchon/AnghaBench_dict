@@ -1,0 +1,12 @@
+DPRINTK,FUNC_0
+KASSERT,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+disk_gone,FUNC_4
+xbd_closing,FUNC_5
+xbd_connect,FUNC_6
+xbd_initialize,FUNC_7
+xbd_backend_changed,FUNC_8
+dev,VAR_0
+backend_state,VAR_1
+sc,VAR_2

@@ -1,0 +1,14 @@
+MCBSP_DMA_MODE_THRESHOLD,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+omap_mcbsp_get_dma_op_mode,FUNC_0
+omap_mcbsp_set_rx_threshold,FUNC_1
+omap_mcbsp_set_tx_threshold,FUNC_2
+snd_pcm_lib_period_bytes,FUNC_3
+to_mcbsp,FUNC_4
+omap_mcbsp_set_threshold,FUNC_5
+substream,VAR_2
+rtd,VAR_3
+cpu_dai,VAR_4
+mcbsp_data,VAR_5
+dma_op_mode,VAR_6
+samples,VAR_7

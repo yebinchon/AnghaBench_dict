@@ -1,0 +1,17 @@
+BCM2835_NUM_IRQS,VAR_0
+BUG,FUNC_0
+bcm2835_gpio_irq_handle_bank,FUNC_1
+chained_irq_enter,FUNC_2
+chained_irq_exit,FUNC_3
+gpiochip_get_data,FUNC_4
+irq_desc_get_chip,FUNC_5
+irq_desc_get_handler_data,FUNC_6
+irq_desc_get_irq,FUNC_7
+bcm2835_gpio_irq_handler,FUNC_8
+desc,VAR_1
+chip,VAR_2
+pc,VAR_3
+host_chip,VAR_4
+irq,VAR_5
+group,VAR_6
+i,VAR_7

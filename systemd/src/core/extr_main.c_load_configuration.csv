@@ -1,0 +1,17 @@
+SHOW_STATUS_YES,VAR_0
+SPECIAL_DEFAULT_TARGET,VAR_1
+_SHOW_STATUS_INVALID,VAR_2
+arg_default_unit,VAR_3
+arg_show_status,VAR_4
+assert,FUNC_0
+log_oom,FUNC_1
+parse_argv,FUNC_2
+parse_configuration,FUNC_3
+strdup,FUNC_4
+load_configuration,FUNC_5
+argc,VAR_5
+argv,VAR_6
+saved_rlimit_nofile,VAR_7
+saved_rlimit_memlock,VAR_8
+ret_error_message,VAR_9
+r,VAR_10

@@ -1,0 +1,16 @@
+ARRAY_SIZE,FUNC_0
+HDSPM_AES_SYNC_CHECK,FUNC_1
+HDSPM_MAX_CHANNELS,VAR_0
+snd_ctl_add,FUNC_2
+snd_ctl_new1,FUNC_3
+snd_hdspm_controls_aes32,VAR_1
+snd_hdspm_controls_madi,VAR_2
+snd_hdspm_playback_mixer,VAR_3
+snd_hdspm_create_controls,FUNC_4
+card,VAR_4
+hdspm,VAR_5
+idx,VAR_6
+limit,VAR_7
+err,VAR_8
+kctl,VAR_9
+aes_sync_ctl,VAR_10

@@ -1,0 +1,12 @@
+GIC_HWIRQ_TO_SHARED,FUNC_0
+cpumask_first,FUNC_1
+gic_clear_pcpu_masks,FUNC_2
+irq_data_get_effective_affinity_mask,FUNC_3
+pcpu_masks,VAR_0
+per_cpu_ptr,FUNC_4
+set_bit,FUNC_5
+write_gic_smask,FUNC_6
+gic_unmask_irq,FUNC_7
+d,VAR_1
+intr,VAR_2
+cpu,VAR_3

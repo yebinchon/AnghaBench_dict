@@ -1,0 +1,9 @@
+IIO_EVENT_CODE_RING_50_FULL,VAR_0
+IIO_EVENT_CODE_RING_75_FULL,VAR_1
+SCA3000_INT_STATUS_HALF,VAR_2
+SCA3000_INT_STATUS_THREE_QUARTERS,VAR_3
+iio_push_or_escallate_ring_event,FUNC_0
+iio_push_ring_event,FUNC_1
+sca3000_ring_int_process,FUNC_2
+val,VAR_4
+ring,VAR_5

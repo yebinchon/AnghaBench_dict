@@ -1,0 +1,9 @@
+JOBCTL_TRAP_FREEZE,VAR_0
+lock_task_sighand,FUNC_0
+signal_wake_up,FUNC_1
+unlock_task_sighand,FUNC_2
+wake_up_process,FUNC_3
+cgroup_freeze_task,FUNC_4
+task,VAR_1
+freeze,VAR_2
+flags,VAR_3

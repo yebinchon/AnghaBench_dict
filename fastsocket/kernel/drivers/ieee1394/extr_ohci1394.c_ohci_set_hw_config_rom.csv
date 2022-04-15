@@ -1,0 +1,10 @@
+OHCI1394_BusOptions,VAR_0
+OHCI1394_ConfigROMhdr,VAR_1
+OHCI_CONFIG_ROM_LEN,VAR_2
+be32_to_cpu,FUNC_0
+memcpy,FUNC_1
+reg_write,FUNC_2
+ohci_set_hw_config_rom,FUNC_3
+host,VAR_3
+config_rom,VAR_4
+ohci,VAR_5

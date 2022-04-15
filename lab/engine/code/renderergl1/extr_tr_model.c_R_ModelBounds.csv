@@ -1,0 +1,17 @@
+MOD_BRUSH,VAR_0
+MOD_IQM,VAR_1
+MOD_MDR,VAR_2
+MOD_MESH,VAR_3
+R_GetModelByHandle,FUNC_0
+VectorClear,FUNC_1
+VectorCopy,FUNC_2
+R_ModelBounds,FUNC_3
+handle,VAR_4
+mins,VAR_5
+maxs,VAR_6
+model,VAR_7
+header,VAR_8
+frame,VAR_9
+header,VAR_10
+frame,VAR_11
+iqmData,VAR_12

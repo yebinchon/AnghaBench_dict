@@ -1,0 +1,13 @@
+VM_DENYWRITE,VAR_0
+VM_NONLINEAR,VAR_1
+VM_SHARED,VAR_2
+atomic_inc,FUNC_0
+flush_dcache_mmap_lock,FUNC_1
+flush_dcache_mmap_unlock,FUNC_2
+list_del_init,FUNC_3
+unlikely,FUNC_4
+vma_prio_tree_remove,FUNC_5
+__remove_shared_vm_struct,FUNC_6
+vma,VAR_3
+file,VAR_4
+mapping,VAR_5

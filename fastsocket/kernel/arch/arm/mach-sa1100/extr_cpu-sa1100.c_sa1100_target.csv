@@ -1,0 +1,15 @@
+CPUFREQ_POSTCHANGE,VAR_0
+CPUFREQ_PRECHANGE,VAR_1
+PPCR,VAR_2
+cpufreq_notify_transition,FUNC_0
+sa1100_update_dram_timings,FUNC_1
+sa11x0_freq_to_ppcr,FUNC_2
+sa11x0_getspeed,FUNC_3
+sa11x0_ppcr_to_freq,FUNC_4
+sa1100_target,FUNC_5
+policy,VAR_3
+target_freq,VAR_4
+relation,VAR_5
+cur,VAR_6
+new_ppcr,VAR_7
+freqs,VAR_8

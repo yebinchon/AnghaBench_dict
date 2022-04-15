@@ -1,0 +1,17 @@
+IS_ERR,FUNC_0
+__reg_process_hint_driver,FUNC_1
+get_cfg80211_regdom,FUNC_2
+get_wiphy_regdom,FUNC_3
+nl80211_send_reg_change_event,FUNC_4
+rcu_assign_pointer,FUNC_5
+rcu_free_regdom,FUNC_6
+reg_copy_regd,FUNC_7
+reg_query_database,FUNC_8
+reg_set_request_processed,FUNC_9
+reg_update_last_request,FUNC_10
+reg_process_hint_driver,FUNC_11
+wiphy,VAR_0
+driver_request,VAR_1
+regd,VAR_2
+tmp,VAR_3
+treatment,VAR_4

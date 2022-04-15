@@ -1,0 +1,9 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+pci_read_config_byte,FUNC_0
+to_pci_dev,FUNC_1
+slc90e66_cable_detect,FUNC_2
+hwif,VAR_2
+dev,VAR_3
+reg47,VAR_4
+mask,VAR_5

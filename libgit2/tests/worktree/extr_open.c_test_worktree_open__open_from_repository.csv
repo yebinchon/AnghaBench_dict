@@ -1,0 +1,11 @@
+WORKTREE_REPO,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+fixture,VAR_1
+git_worktree_free,FUNC_3
+git_worktree_lookup,FUNC_4
+git_worktree_open_from_repository,FUNC_5
+test_worktree_open__open_from_repository,FUNC_6
+opened,VAR_2
+lookedup,VAR_3

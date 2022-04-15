@@ -1,0 +1,15 @@
+XLP_SPI_FIFO_SIZE,VAR_0
+XLP_SPI_FIFO_WCNT,VAR_1
+XLP_SPI_TXDATA_FIFO,VAR_2
+XLP_SPI_TXFIFO_WCNT_MASK,VAR_3
+XLP_SPI_TXFIFO_WCNT_SHIFT,VAR_4
+min,FUNC_0
+xlp_spi_reg_read,FUNC_1
+xlp_spi_reg_write,FUNC_2
+xlp_spi_fill_txfifo,FUNC_3
+xspi,VAR_5
+tx_data,VAR_6
+txfifo_cnt,VAR_7
+i,VAR_8
+j,VAR_9
+nbytes,VAR_10

@@ -1,0 +1,17 @@
+CM_DIV_FRAC_MASK,VAR_0
+CM_FRAC,VAR_1
+bcm2835_clock_choose_div,FUNC_0
+bcm2835_clock_from_hw,FUNC_1
+cprman_read,FUNC_2
+cprman_write,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+bcm2835_clock_set_rate,FUNC_6
+hw,VAR_2
+rate,VAR_3
+parent_rate,VAR_4
+clock,VAR_5
+cprman,VAR_6
+data,VAR_7
+div,VAR_8
+ctl,VAR_9

@@ -1,0 +1,15 @@
+IPCB,FUNC_0
+IPSKB_FRAG_PMTU,VAR_0
+IPSKB_REROUTED,VAR_1
+dst_output,FUNC_1
+ip_finish_output2,FUNC_2
+ip_finish_output_gso,FUNC_3
+ip_fragment,FUNC_4
+ip_skb_dst_mtu,FUNC_5
+skb_dst,FUNC_6
+skb_is_gso,FUNC_7
+__ip_finish_output,FUNC_8
+net,VAR_2
+sk,VAR_3
+skb,VAR_4
+mtu,VAR_5

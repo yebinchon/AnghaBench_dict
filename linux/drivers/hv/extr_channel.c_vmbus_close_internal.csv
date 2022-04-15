@@ -1,0 +1,13 @@
+CHANNELMSG_CLOSECHANNEL,VAR_0
+CHANNEL_OPENED_STATE,VAR_1
+CHANNEL_OPEN_STATE,VAR_2
+EINVAL,VAR_3
+pr_err,FUNC_0
+trace_vmbus_close_internal,FUNC_1
+vmbus_post_msg,FUNC_2
+vmbus_reset_channel_cb,FUNC_3
+vmbus_teardown_gpadl,FUNC_4
+vmbus_close_internal,FUNC_5
+channel,VAR_4
+msg,VAR_5
+ret,VAR_6

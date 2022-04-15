@@ -1,0 +1,10 @@
+CSI2_PHY_TST_CTRL0,VAR_0
+CSI2_PHY_TST_CTRL1,VAR_1
+PHY_TESTCLK,VAR_2
+PHY_TESTCLR,VAR_3
+PHY_TESTEN,VAR_4
+writel,FUNC_0
+dw_mipi_csi2_phy_write,FUNC_1
+csi2,VAR_5
+test_code,VAR_6
+test_data,VAR_7

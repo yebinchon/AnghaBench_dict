@@ -1,0 +1,11 @@
+FDC_MAXREG,VAR_0
+SYS_RES_DRQ,VAR_1
+SYS_RES_IOPORT,VAR_2
+SYS_RES_IRQ,VAR_3
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+fdc_release_resources,FUNC_2
+fdc,VAR_4
+dev,VAR_5
+last,VAR_6
+i,VAR_7

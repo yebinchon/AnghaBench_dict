@@ -1,0 +1,10 @@
+MPI2_EVENT_IR_VOLUME_RC_STATE_CHANGED,VAR_0
+MPI2_RAID_VOL_STATE_FAILED,VAR_1
+MPI2_RAID_VOL_STATE_MISSING,VAR_2
+_scsih_set_volume_delete_flag,FUNC_0
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+_scsih_check_volume_delete_events,FUNC_3
+ioc,VAR_3
+event_data,VAR_4
+state,VAR_5

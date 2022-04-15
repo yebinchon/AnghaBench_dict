@@ -1,0 +1,16 @@
+HID0_DOZE,VAR_0
+HID0_E500MC_BITMASK,VAR_1
+HID0_E500_BITMASK,VAR_2
+HID0_E5500_BITMASK,VAR_3
+HID0_NAP,VAR_4
+HID0_SLEEP,VAR_5
+SPR_HID0,VAR_6
+cpu_idle_booke,VAR_7
+cpu_idle_e500mc,VAR_8
+cpu_idle_hook,VAR_9
+mfspr,FUNC_0
+mtspr,FUNC_1
+printf,FUNC_2
+cpu_booke_setup,FUNC_3
+cpuid,VAR_10
+vers,VAR_11

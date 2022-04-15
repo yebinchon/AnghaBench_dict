@@ -1,0 +1,12 @@
+ISCSI_TASK_TYPE_MIDPATH,VAR_0
+cpu_to_le32,FUNC_0
+init_default_iscsi_task,FUNC_1
+init_scsi_sgl_context,FUNC_2
+init_sqe,FUNC_3
+init_ustorm_task_contexts,FUNC_4
+init_initiator_logout_request_task,FUNC_5
+task_params,VAR_1
+logout_hdr,VAR_2
+tx_params,VAR_3
+rx_params,VAR_4
+cxt,VAR_5

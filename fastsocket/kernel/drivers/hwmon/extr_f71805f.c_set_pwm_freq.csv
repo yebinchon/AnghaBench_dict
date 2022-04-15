@@ -1,0 +1,17 @@
+F71805F_REG_PWM_FREQ,FUNC_0
+dev_get_drvdata,FUNC_1
+f71805f_write8,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pwm_freq_to_reg,FUNC_5
+simple_strtoul,FUNC_6
+to_sensor_dev_attr,FUNC_7
+set_pwm_freq,FUNC_8
+dev,VAR_0
+devattr,VAR_1
+buf,VAR_2
+count,VAR_3
+data,VAR_4
+attr,VAR_5
+nr,VAR_6
+val,VAR_7

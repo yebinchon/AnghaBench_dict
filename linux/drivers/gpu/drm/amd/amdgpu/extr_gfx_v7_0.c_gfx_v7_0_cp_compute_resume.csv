@@ -1,0 +1,15 @@
+RREG32,FUNC_0
+WREG32,FUNC_1
+amdgpu_ring_test_helper,FUNC_2
+gfx_v7_0_compute_pipe_init,FUNC_3
+gfx_v7_0_compute_queue_init,FUNC_4
+gfx_v7_0_cp_compute_enable,FUNC_5
+gfx_v7_0_cp_compute_fini,FUNC_6
+mmCP_CPF_DEBUG,VAR_0
+gfx_v7_0_cp_compute_resume,FUNC_7
+adev,VAR_1
+r,VAR_2
+i,VAR_3
+j,VAR_4
+tmp,VAR_5
+ring,VAR_6

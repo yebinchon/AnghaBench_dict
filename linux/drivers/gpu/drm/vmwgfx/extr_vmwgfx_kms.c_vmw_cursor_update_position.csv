@@ -1,0 +1,15 @@
+SVGA_FIFO_CURSOR_COUNT,VAR_0
+SVGA_FIFO_CURSOR_ON,VAR_1
+SVGA_FIFO_CURSOR_X,VAR_2
+SVGA_FIFO_CURSOR_Y,VAR_3
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+vmw_mmio_read,FUNC_2
+vmw_mmio_write,FUNC_3
+vmw_cursor_update_position,FUNC_4
+dev_priv,VAR_4
+show,VAR_5
+x,VAR_6
+y,VAR_7
+fifo_mem,VAR_8
+count,VAR_9

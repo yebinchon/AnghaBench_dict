@@ -1,0 +1,13 @@
+NB8800_TXC_CR,VAR_0
+NB8800_TX_DESC_ADDR,VAR_1
+TCR_EN,VAR_2
+TX_DESC_COUNT,VAR_3
+nb8800_readl,FUNC_0
+nb8800_writel,FUNC_1
+netdev_priv,FUNC_2
+wmb,FUNC_3
+__nb8800_tx_dma_start,FUNC_4
+dev,VAR_4
+priv,VAR_5
+txb,VAR_6
+txc_cr,VAR_7

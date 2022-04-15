@@ -1,0 +1,17 @@
+TIF_IRET,VAR_0
+TIF_NOTIFY_RESUME,VAR_1
+_TIF_MCE_NOTIFY,VAR_2
+_TIF_NOTIFY_RESUME,VAR_3
+_TIF_SIGPENDING,VAR_4
+_TIF_USER_RETURN_NOTIFY,VAR_5
+clear_thread_flag,FUNC_0
+current,VAR_6
+do_signal,FUNC_1
+fire_user_return_notifiers,FUNC_2
+key_replace_session_keyring,FUNC_3
+mce_notify_process,FUNC_4
+tracehook_notify_resume,FUNC_5
+do_notify_resume,FUNC_6
+regs,VAR_7
+unused,VAR_8
+thread_info_flags,VAR_9

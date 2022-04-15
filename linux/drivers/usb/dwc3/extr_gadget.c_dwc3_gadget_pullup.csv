@@ -1,0 +1,17 @@
+DWC3_PULL_UP_TIMEOUT,VAR_0
+EP0_SETUP_PHASE,VAR_1
+ETIMEDOUT,VAR_2
+dev_err,FUNC_0
+dwc3_gadget_run_stop,FUNC_1
+gadget_to_dwc,FUNC_2
+msecs_to_jiffies,FUNC_3
+reinit_completion,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+wait_for_completion_timeout,FUNC_7
+dwc3_gadget_pullup,FUNC_8
+g,VAR_3
+is_on,VAR_4
+dwc,VAR_5
+flags,VAR_6
+ret,VAR_7

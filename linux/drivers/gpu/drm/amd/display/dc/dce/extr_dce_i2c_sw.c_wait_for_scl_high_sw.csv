@@ -1,0 +1,10 @@
+I2C_SW_TIMEOUT_DELAY,VAR_0
+SCL,VAR_1
+read_bit_from_ddc,FUNC_0
+udelay,FUNC_1
+wait_for_scl_high_sw,FUNC_2
+ctx,VAR_2
+ddc,VAR_3
+clock_delay_div_4,VAR_4
+scl_retry,VAR_5
+scl_retry_max,VAR_6

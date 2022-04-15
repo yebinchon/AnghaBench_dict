@@ -1,0 +1,17 @@
+INT_SLAVE_EVENT,VAR_0
+LINESTAT_ABORT_DET,VAR_1
+SCB_INT_MASK_REG,VAR_2
+SCB_STATUS_REG,VAR_3
+check_timer,VAR_4
+dev_dbg,FUNC_0
+from_timer,FUNC_1
+i2c,VAR_5
+img_i2c_readl,FUNC_2
+img_i2c_writel,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+img_i2c_check_timer,FUNC_6
+t,VAR_6
+i2c,VAR_7
+flags,VAR_8
+line_status,VAR_9

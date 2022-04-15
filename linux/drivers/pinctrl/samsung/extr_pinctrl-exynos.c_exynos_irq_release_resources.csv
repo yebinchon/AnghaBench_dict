@@ -1,0 +1,17 @@
+EXYNOS_PIN_FUNC_INPUT,VAR_0
+PINCFG_TYPE_FUNC,VAR_1
+gpiochip_unlock_as_irq,FUNC_0
+irq_data_get_irq_chip_data,FUNC_1
+readl,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+writel,FUNC_5
+exynos_irq_release_resources,FUNC_6
+irqd,VAR_2
+bank,VAR_3
+bank_type,VAR_4
+reg_con,VAR_5
+flags,VAR_6
+shift,VAR_7
+mask,VAR_8
+con,VAR_9

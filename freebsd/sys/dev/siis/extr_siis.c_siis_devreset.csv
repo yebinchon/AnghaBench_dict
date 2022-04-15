@@ -1,0 +1,14 @@
+ATA_INL,FUNC_0
+ATA_OUTL,FUNC_1
+DELAY,FUNC_2
+EBUSY,VAR_0
+SIIS_P_CTLSET,VAR_1
+SIIS_P_CTL_DEV_RESET,VAR_2
+SIIS_P_STS,VAR_3
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+siis_devreset,FUNC_5
+dev,VAR_4
+ch,VAR_5
+timeout,VAR_6
+val,VAR_7

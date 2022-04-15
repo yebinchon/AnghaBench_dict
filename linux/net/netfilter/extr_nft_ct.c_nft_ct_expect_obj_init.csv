@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+NFTA_CT_EXPECT_DPORT,VAR_1
+NFTA_CT_EXPECT_L3PROTO,VAR_2
+NFTA_CT_EXPECT_L4PROTO,VAR_3
+NFTA_CT_EXPECT_SIZE,VAR_4
+NFTA_CT_EXPECT_TIMEOUT,VAR_5
+nf_ct_netns_get,FUNC_0
+nft_obj_data,FUNC_1
+nla_get_be16,FUNC_2
+nla_get_u32,FUNC_3
+nla_get_u8,FUNC_4
+ntohs,FUNC_5
+nft_ct_expect_obj_init,FUNC_6
+ctx,VAR_6
+tb,VAR_7
+obj,VAR_8
+priv,VAR_9

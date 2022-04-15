@@ -1,0 +1,16 @@
+atf_is_error,FUNC_0
+atf_process_child_wait,FUNC_1
+atf_process_fork,FUNC_2
+atf_process_stream_fini,FUNC_3
+exec_child,VAR_0
+init_sbs,FUNC_4
+fork_and_wait,FUNC_5
+argv,VAR_1
+outfile,VAR_2
+errfile,VAR_3
+status,VAR_4
+err,VAR_5
+child,VAR_6
+outsb,VAR_7
+errsb,VAR_8
+ea,VAR_9

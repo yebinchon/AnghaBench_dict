@@ -1,0 +1,13 @@
+PCI_DMA_FROMDEVICE,VAR_0
+RTK_PCI_RX_BUF_SIZE,VAR_1
+dev_kfree_skb,FUNC_0
+pci_unmap_single,FUNC_1
+to_pci_dev,FUNC_2
+rtw_pci_free_rx_ring_skbs,FUNC_3
+rtwdev,VAR_2
+rx_ring,VAR_3
+pdev,VAR_4
+skb,VAR_5
+buf_sz,VAR_6
+dma,VAR_7
+i,VAR_8

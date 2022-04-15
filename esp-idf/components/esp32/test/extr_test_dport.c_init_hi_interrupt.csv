@@ -1,0 +1,13 @@
+ESP_INTR_FLAG_IRAM,VAR_0
+ESP_INTR_FLAG_LEVEL5,VAR_1
+ETS_INTERNAL_TIMER2_INTR_SOURCE,VAR_2
+TEST_ESP_OK,FUNC_0
+esp_intr_alloc,FUNC_1
+esp_intr_free,FUNC_2
+exit_flag,VAR_3
+inth,VAR_4
+printf,FUNC_3
+vTaskDelete,FUNC_4
+xPortGetCoreID,FUNC_5
+init_hi_interrupt,FUNC_6
+arg,VAR_5

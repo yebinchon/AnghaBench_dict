@@ -1,0 +1,17 @@
+DSU_PMU_IDX_CYCLE_COUNTER,VAR_0
+WARN_ON,FUNC_0
+__dsu_pmu_write_counter,FUNC_1
+__dsu_pmu_write_pmccntr,FUNC_2
+cpumask_test_cpu,FUNC_3
+dev_err,FUNC_4
+dsu_pmu_counter_valid,FUNC_5
+raw_spin_lock_irqsave,FUNC_6
+raw_spin_unlock_irqrestore,FUNC_7
+smp_processor_id,FUNC_8
+to_dsu_pmu,FUNC_9
+dsu_pmu_write_counter,FUNC_10
+event,VAR_1
+val,VAR_2
+flags,VAR_3
+dsu_pmu,VAR_4
+idx,VAR_5

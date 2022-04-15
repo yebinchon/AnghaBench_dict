@@ -1,0 +1,9 @@
+blake2b_compress,VAR_0
+blake2b_compress_avx2,VAR_1
+blake2b_compress_ref,VAR_2
+blake2b_compress_sse41,VAR_3
+blake2b_compress_ssse3,VAR_4
+sodium_runtime_has_avx2,FUNC_0
+sodium_runtime_has_sse41,FUNC_1
+sodium_runtime_has_ssse3,FUNC_2
+blake2b_pick_best_implementation,FUNC_3

@@ -1,0 +1,14 @@
+EREMOTEIO,VAR_0
+VPRBRD_GPIOB_CMD_SETDIR,VAR_1
+VPRBRD_USB_REQUEST_GPIOB,VAR_2
+VPRBRD_USB_TIMEOUT_MS,VAR_3
+VPRBRD_USB_TYPE_OUT,VAR_4
+cpu_to_be16,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+vprbrd_gpiob_setdir,FUNC_3
+vb,VAR_5
+offset,VAR_6
+dir,VAR_7
+gbmsg,VAR_8
+ret,VAR_9

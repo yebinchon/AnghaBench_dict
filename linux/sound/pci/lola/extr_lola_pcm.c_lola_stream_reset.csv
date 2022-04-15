@@ -1,0 +1,15 @@
+BDPL,VAR_0
+BDPU,VAR_1
+CTL,VAR_2
+LOLA_DSD_CTL_DEIE,VAR_3
+LOLA_DSD_CTL_IOCE,VAR_4
+LOLA_DSD_CTL_SRST,VAR_5
+LVI,VAR_6
+lola_dsd_write,FUNC_0
+lola_stream_clear_pending_irq,FUNC_1
+lola_stream_wait_for_fifo,FUNC_2
+lola_sync_pause,FUNC_3
+wait_for_srst_clear,FUNC_4
+lola_stream_reset,FUNC_5
+chip,VAR_7
+str,VAR_8

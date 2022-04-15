@@ -1,0 +1,13 @@
+BNX2FC_FLAG_ENABLED,VAR_0
+BNX2FC_FLAG_OFFLOADED,VAR_1
+BNX2FC_FLAG_UPLD_REQ_COMPL,VAR_2
+BNX2FC_TGT_DBG,FUNC_0
+clear_bit,FUNC_1
+from_timer,FUNC_2
+set_bit,FUNC_3
+tgt,VAR_3
+upld_timer,VAR_4
+wake_up_interruptible,FUNC_4
+bnx2fc_upld_timer,FUNC_5
+t,VAR_5
+tgt,VAR_6

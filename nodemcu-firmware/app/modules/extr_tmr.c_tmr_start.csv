@@ -1,0 +1,12 @@
+LUA_NOREF,VAR_0
+LUA_REGISTRYINDEX,VAR_1
+TIMER_IDLE_FLAG,VAR_2
+TIMER_MODE_AUTO,VAR_3
+luaL_ref,FUNC_0
+lua_pushboolean,FUNC_1
+lua_pushvalue,FUNC_2
+os_timer_arm,FUNC_3
+tmr_get,FUNC_4
+tmr_start,FUNC_5
+L,VAR_4
+tmr,VAR_5

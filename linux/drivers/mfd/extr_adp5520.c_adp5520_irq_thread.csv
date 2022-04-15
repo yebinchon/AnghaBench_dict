@@ -1,0 +1,17 @@
+ADP5520_CMPR_INT,VAR_0
+ADP5520_GPI_INT,VAR_1
+ADP5520_KP_INT,VAR_2
+ADP5520_KR_INT,VAR_3
+ADP5520_MODE_STATUS,VAR_4
+ADP5520_OVP_INT,VAR_5
+IRQ_HANDLED,VAR_6
+__adp5520_ack_bits,FUNC_0
+__adp5520_read,FUNC_1
+blocking_notifier_call_chain,FUNC_2
+adp5520_irq_thread,FUNC_3
+irq,VAR_7
+data,VAR_8
+chip,VAR_9
+events,VAR_10
+reg_val,VAR_11
+ret,VAR_12

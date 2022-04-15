@@ -1,0 +1,12 @@
+mvpp2_rx_pkts_coal_set,FUNC_0
+mvpp2_rx_time_coal_set,FUNC_1
+mvpp2_tx_pkts_coal_set,FUNC_2
+mvpp2_tx_time_coal_set,FUNC_3
+netdev_priv,FUNC_4
+mvpp2_ethtool_set_coalesce,FUNC_5
+dev,VAR_0
+c,VAR_1
+port,VAR_2
+queue,VAR_3
+rxq,VAR_4
+txq,VAR_5

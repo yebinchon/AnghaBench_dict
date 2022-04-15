@@ -1,0 +1,16 @@
+REG_SSI_SCR,VAR_0
+REG_SSI_SFCSR,VAR_1
+SSI_SCR_TCH_EN,VAR_2
+SSI_SFCSR_RFWM0,FUNC_0
+SSI_SFCSR_RFWM1,FUNC_1
+SSI_SFCSR_TFWM0,FUNC_2
+SSI_SFCSR_TFWM1,FUNC_3
+_fsl_ssi_set_dai_fmt,FUNC_4
+fsl_ssi_is_ac97,FUNC_5
+fsl_ssi_setup_ac97,FUNC_6
+fsl_ssi_setup_regvals,FUNC_7
+regmap_update_bits,FUNC_8
+regmap_write,FUNC_9
+fsl_ssi_hw_init,FUNC_10
+ssi,VAR_3
+wm,VAR_4

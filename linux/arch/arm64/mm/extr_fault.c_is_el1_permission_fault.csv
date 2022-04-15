@@ -1,0 +1,15 @@
+ESR_ELx_EC,FUNC_0
+ESR_ELx_EC_DABT_CUR,VAR_0
+ESR_ELx_EC_IABT_CUR,VAR_1
+ESR_ELx_FSC_FAULT,VAR_2
+ESR_ELx_FSC_PERM,VAR_3
+ESR_ELx_FSC_TYPE,VAR_4
+PSR_PAN_BIT,VAR_5
+is_ttbr0_addr,FUNC_1
+system_uses_ttbr0_pan,FUNC_2
+is_el1_permission_fault,FUNC_3
+addr,VAR_6
+esr,VAR_7
+regs,VAR_8
+ec,VAR_9
+fsc_type,VAR_10

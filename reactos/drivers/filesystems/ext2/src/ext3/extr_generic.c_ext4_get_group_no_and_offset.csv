@@ -1,0 +1,11 @@
+EXT3_SB,FUNC_0
+EXT4_BLOCKS_PER_GROUP,FUNC_1
+do_div,FUNC_2
+le32_to_cpu,FUNC_3
+ext4_get_group_no_and_offset,FUNC_4
+sb,VAR_0
+blocknr,VAR_1
+blockgrpp,VAR_2
+offsetp,VAR_3
+es,VAR_4
+offset,VAR_5

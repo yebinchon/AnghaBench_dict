@@ -1,0 +1,14 @@
+LONG_MAX,VAR_0
+PAGECACHE_TAG_DIRTY,VAR_1
+do_writepages,FUNC_0
+mapping_cap_writeback_dirty,FUNC_1
+mapping_tagged,FUNC_2
+wbc_attach_fdatawrite_inode,FUNC_3
+wbc_detach_inode,FUNC_4
+__filemap_fdatawrite_range,FUNC_5
+mapping,VAR_2
+start,VAR_3
+end,VAR_4
+sync_mode,VAR_5
+ret,VAR_6
+wbc,VAR_7

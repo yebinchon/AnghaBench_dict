@@ -1,0 +1,12 @@
+IIO_VAL_INT,VAR_0
+SX9500_REG_SENSOR_SEL,VAR_1
+SX9500_REG_USE_MSB,VAR_2
+be16_to_cpu,FUNC_0
+regmap_bulk_read,FUNC_1
+regmap_write,FUNC_2
+sx9500_read_prox_data,FUNC_3
+data,VAR_3
+chan,VAR_4
+val,VAR_5
+ret,VAR_6
+regval,VAR_7

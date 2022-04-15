@@ -1,0 +1,17 @@
+KTFRWK_MUTEX_INIT,FUNC_0
+MAXCPU,VAR_0
+M_NOWAIT,VAR_1
+PI_NET,VAR_2
+TAILQ_INIT,FUNC_1
+TASK_INIT,FUNC_2
+kfrwk,VAR_3
+kfrwk_task,VAR_4
+ktest_frwk_inited,VAR_5
+mp_ncpus,VAR_6
+panic,FUNC_3
+printf,FUNC_4
+taskqueue_create_fast,FUNC_5
+taskqueue_start_threads,FUNC_6
+taskqueue_thread_enqueue,VAR_7
+kerntest_frwk_init,FUNC_7
+ncpus,VAR_8

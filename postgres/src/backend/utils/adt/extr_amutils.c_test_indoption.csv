@@ -1,0 +1,16 @@
+Anum_pg_index_indoption,VAR_0
+Assert,FUNC_0
+DatumGetPointer,FUNC_1
+INDEXRELID,VAR_1
+SysCacheGetAttr,FUNC_2
+test_indoption,FUNC_3
+tuple,VAR_2
+attno,VAR_3
+guard,VAR_4
+iopt_mask,VAR_5
+iopt_expect,VAR_6
+res,VAR_7
+datum,VAR_8
+isnull,VAR_9
+indoption,VAR_10
+indoption_val,VAR_11

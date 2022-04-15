@@ -1,0 +1,17 @@
+DSoundInit,FUNC_0
+EOPT_EN_SOUND,VAR_0
+EOPT_EXT_FRMLIMIT,VAR_1
+FrameWnd,VAR_2
+POPT_EN_STEREO,VAR_3
+PicoOpt,VAR_4
+PicoWriteSound,VAR_5
+PsndLen,VAR_6
+PsndOut,VAR_7
+PsndRate,VAR_8
+PsndRerate,FUNC_1
+currentConfig,VAR_9
+lprintf,FUNC_2
+sndbuff,VAR_10
+update_sound,VAR_11
+pemu_sound_start,FUNC_3
+ret,VAR_12

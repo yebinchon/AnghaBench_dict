@@ -1,0 +1,12 @@
+CPLD_CMD_WRITE_CFG,VAR_0
+memset,FUNC_0
+spi_message_add_tail,FUNC_1
+spi_message_init,FUNC_2
+spi_sync,FUNC_3
+rb4xx_cpld_write_cfg,FUNC_4
+cpld,VAR_1
+config,VAR_2
+t,VAR_3
+m,VAR_4
+cmd,VAR_5
+err,VAR_6

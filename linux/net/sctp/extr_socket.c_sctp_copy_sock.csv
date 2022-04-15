@@ -1,0 +1,17 @@
+IPPROTO_SCTP,VAR_0
+SK_FLAGS_TIMESTAMP,VAR_1
+htons,FUNC_0
+inet_sk,FUNC_1
+net_enable_timestamp,FUNC_2
+prandom_u32,FUNC_3
+sctp_destruct_sock,VAR_2
+sctp_sk,FUNC_4
+security_sctp_sk_clone,FUNC_5
+sctp_copy_sock,FUNC_6
+newsk,VAR_3
+sk,VAR_4
+asoc,VAR_5
+inet,VAR_6
+newinet,VAR_7
+sp,VAR_8
+ep,VAR_9

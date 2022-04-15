@@ -1,0 +1,13 @@
+ieee80211_free_hw,FUNC_0
+ieee80211_unregister_hw,FUNC_1
+interface_to_usbdev,FUNC_2
+kfree,FUNC_3
+rtl8187_leds_exit,FUNC_4
+rtl8187_rfkill_exit,FUNC_5
+usb_get_intfdata,FUNC_6
+usb_put_dev,FUNC_7
+usb_reset_device,FUNC_8
+rtl8187_disconnect,FUNC_9
+intf,VAR_0
+dev,VAR_1
+priv,VAR_2

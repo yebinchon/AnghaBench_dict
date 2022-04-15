@@ -1,0 +1,11 @@
+GRE_UDPENCAP,VAR_0
+GRE_UDPPORT,VAR_1
+MPASS,FUNC_0
+SA_XLOCKED,VAR_2
+gre_ioctl_sx,VAR_3
+htons,FUNC_1
+sx_assert,FUNC_2
+gre_update_udphdr,FUNC_3
+sc,VAR_4
+udp,VAR_5
+csum,VAR_6

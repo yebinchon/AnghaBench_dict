@@ -1,0 +1,17 @@
+Assert,FUNC_0
+GetRunningTransactionData,FUNC_1
+GetRunningTransactionLocks,FUNC_2
+LWLockRelease,FUNC_3
+LogAccessExclusiveLocks,FUNC_4
+LogCurrentRunningXacts,FUNC_5
+ProcArrayLock,VAR_0
+WAL_LEVEL_LOGICAL,VAR_1
+XLogStandbyInfoActive,FUNC_6
+XidGenLock,VAR_2
+pfree,FUNC_7
+wal_level,VAR_3
+LogStandbySnapshot,FUNC_8
+recptr,VAR_4
+running,VAR_5
+locks,VAR_6
+nlocks,VAR_7

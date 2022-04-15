@@ -1,0 +1,14 @@
+SCIC_PORT_NOT_READY_NO_ACTIVE_PHYS,VAR_0
+SCI_BASE_PORT_STATE_READY,VAR_1
+SCI_BASE_PORT_STATE_RESETTING,VAR_2
+SCI_SUCCESS,VAR_3
+sci_base_state_machine_start,FUNC_0
+scic_cb_port_hard_reset_complete,FUNC_1
+scic_cb_port_not_ready,FUNC_2
+scic_sds_port_get_controller,FUNC_3
+scic_sds_port_get_ready_substate_machine,FUNC_4
+scic_sds_port_post_dummy_remote_node,FUNC_5
+scic_sds_port_set_base_state_handlers,FUNC_6
+scic_sds_port_ready_state_enter,FUNC_7
+object,VAR_4
+this_port,VAR_5

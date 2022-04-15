@@ -1,0 +1,14 @@
+VIVS_MMUv2_CONTROL,VAR_0
+VIVS_MMUv2_CONTROL_ENABLE,VAR_1
+etnaviv_buffer_config_mmuv2,FUNC_0
+etnaviv_cmdbuf_get_pa,FUNC_1
+etnaviv_gpu_start_fe,FUNC_2
+etnaviv_gpu_wait_idle,FUNC_3
+gpu_read,FUNC_4
+gpu_write,FUNC_5
+to_v2_context,FUNC_6
+etnaviv_iommuv2_restore_nonsec,FUNC_7
+gpu,VAR_2
+context,VAR_3
+v2_context,VAR_4
+prefetch,VAR_5

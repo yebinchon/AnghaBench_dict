@@ -1,0 +1,11 @@
+EFAULT,VAR_0
+SMC_LLC_WAIT_TIME,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+reinit_completion,FUNC_2
+smc_llc_send_delete_rkey,FUNC_3
+wait_for_completion_interruptible_timeout,FUNC_4
+smc_llc_do_delete_rkey,FUNC_5
+link,VAR_2
+rmb_desc,VAR_3
+rc,VAR_4

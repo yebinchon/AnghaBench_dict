@@ -1,0 +1,10 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+ISCSI_DEF_MAX_RECV_SEG_LEN,VAR_2
+ISER_RX_LOGIN_SIZE,VAR_3
+M_ISER_INITIATOR,VAR_4
+free,FUNC_0
+ib_dma_unmap_single,FUNC_1
+iser_free_login_buf,FUNC_2
+iser_conn,VAR_5
+device,VAR_6

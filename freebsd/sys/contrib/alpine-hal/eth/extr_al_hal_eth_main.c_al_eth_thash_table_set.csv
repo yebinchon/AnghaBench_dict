@@ -1,0 +1,13 @@
+AL_ETH_RX_THASH_TABLE_SIZE,VAR_0
+AL_ETH_THASH_Q_MASK,VAR_1
+AL_ETH_THASH_Q_SHIFT,VAR_2
+AL_ETH_THASH_UDMA_MASK,VAR_3
+AL_ETH_THASH_UDMA_SHIFT,VAR_4
+al_assert,FUNC_0
+al_reg_write32,FUNC_1
+al_eth_thash_table_set,FUNC_2
+adapter,VAR_5
+idx,VAR_6
+udma,VAR_7
+queue,VAR_8
+entry,VAR_9

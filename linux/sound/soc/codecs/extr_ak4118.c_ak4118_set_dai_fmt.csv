@@ -1,0 +1,17 @@
+AK4118_REG_FORMAT_CTL,VAR_0
+AK4118_REG_FORMAT_CTL_DIF0,VAR_1
+AK4118_REG_FORMAT_CTL_DIF1,VAR_2
+AK4118_REG_FORMAT_CTL_DIF2,VAR_3
+ENOTSUPP,VAR_4
+SND_SOC_DAIFMT_MASTER_MASK,VAR_5
+ak4118_set_dai_fmt_master,FUNC_0
+ak4118_set_dai_fmt_slave,FUNC_1
+regmap_update_bits,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+ak4118_set_dai_fmt,FUNC_4
+dai,VAR_6
+format,VAR_7
+component,VAR_8
+ak4118,VAR_9
+dif,VAR_10
+ret,VAR_11

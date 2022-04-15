@@ -1,0 +1,10 @@
+ARMADA_370_XP_INT_CLEAR_MASK_OFFS,VAR_0
+ARMADA_370_XP_INT_SET_ENABLE_OFFS,VAR_1
+irqd_to_hwirq,FUNC_0
+is_percpu_irq,FUNC_1
+main_int_base,VAR_2
+per_cpu_int_base,VAR_3
+writel,FUNC_2
+armada_370_xp_irq_unmask,FUNC_3
+d,VAR_4
+hwirq,VAR_5

@@ -1,0 +1,10 @@
+KVM_REQ_HV_STIMER,VAR_0
+kvm_make_request,FUNC_0
+kvm_vcpu_kick,FUNC_1
+set_bit,FUNC_2
+stimer_to_vcpu,FUNC_3
+vcpu_to_hv_vcpu,FUNC_4
+stimer_mark_pending,FUNC_5
+stimer,VAR_1
+vcpu_kick,VAR_2
+vcpu,VAR_3

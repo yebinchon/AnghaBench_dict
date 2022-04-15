@@ -1,0 +1,15 @@
+JOB_STATE_ACKED,VAR_0
+LL_VERBOSE,VAR_1
+clusterBroadcastDelJob,FUNC_0
+dictAdd,FUNC_1
+dictFind,FUNC_2
+dictSize,FUNC_3
+freeJob,FUNC_4
+server,VAR_2
+serverLog,FUNC_5
+unregisterJob,FUNC_6
+gotAckReceived,FUNC_7
+sender,VAR_3
+job,VAR_4
+known,VAR_5
+dummy_ack,VAR_6

@@ -1,0 +1,12 @@
+TIME_MSEC_ENCODER_OK,VAR_0
+add_timer,FUNC_0
+del_timer_sync,FUNC_1
+jiffies,VAR_1
+msecs_to_jiffies,FUNC_2
+pvr2_encoder_start,FUNC_3
+pvr2_encoder_stop,FUNC_4
+state_check_disable_encoder_run,FUNC_5
+state_check_enable_encoder_run,FUNC_6
+trace_stbit,FUNC_7
+state_eval_encoder_run,FUNC_8
+hdw,VAR_2

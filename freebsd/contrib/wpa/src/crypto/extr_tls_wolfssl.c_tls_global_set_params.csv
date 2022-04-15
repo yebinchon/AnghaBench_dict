@@ -1,0 +1,17 @@
+MSG_DEBUG,VAR_0
+MSG_INFO,VAR_1
+TLS_CONN_DISABLE_SESSION_TICKET,VAR_2
+ocsp_resp_free_cb,VAR_3
+ocsp_status_cb,VAR_4
+tls_global_ca_cert,FUNC_0
+tls_global_client_cert,FUNC_1
+tls_global_dh,FUNC_2
+tls_global_private_key,FUNC_3
+wolfSSL_CTX_SetOCSP_Cb,FUNC_4
+wolfSSL_CTX_SetOCSP_OverrideURL,FUNC_5
+wolfSSL_CTX_UseSessionTicket,FUNC_6
+wolfSSL_CTX_set_cipher_list,FUNC_7
+wpa_printf,FUNC_8
+tls_global_set_params,FUNC_9
+tls_ctx,VAR_5
+params,VAR_6

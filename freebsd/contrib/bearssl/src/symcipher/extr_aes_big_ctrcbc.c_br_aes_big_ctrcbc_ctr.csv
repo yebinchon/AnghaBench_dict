@@ -1,0 +1,17 @@
+br_aes_big_encrypt,FUNC_0
+br_dec32be,FUNC_1
+br_enc32be,FUNC_2
+xorbuf,FUNC_3
+br_aes_big_ctrcbc_ctr,FUNC_4
+ctx,VAR_0
+ctr,VAR_1
+data,VAR_2
+len,VAR_3
+buf,VAR_4
+bctr,VAR_5
+cc0,VAR_6
+cc1,VAR_7
+cc2,VAR_8
+cc3,VAR_9
+tmp,VAR_10
+carry,VAR_11

@@ -1,0 +1,13 @@
+PF_QUEUE_TAG_HASH_SIZE_DEFAULT,VAR_0
+PF_RULE_TAG_HASH_SIZE_DEFAULT,VAR_1
+UMA_ALIGN_PTR,VAR_2
+V_pf_qids,VAR_3
+V_pf_tag_z,VAR_4
+V_pf_tags,VAR_5
+V_pf_vnet_active,VAR_6
+pf_init_tagset,FUNC_0
+pf_queue_tag_hashsize,VAR_7
+pf_rule_tag_hashsize,VAR_8
+pfattach_vnet,FUNC_1
+uma_zcreate,FUNC_2
+pf_load_vnet,FUNC_3

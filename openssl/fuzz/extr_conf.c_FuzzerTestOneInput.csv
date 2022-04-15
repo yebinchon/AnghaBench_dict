@@ -1,0 +1,15 @@
+BIO_free,FUNC_0
+BIO_new,FUNC_1
+BIO_s_mem,FUNC_2
+BIO_write,FUNC_3
+ERR_clear_error,FUNC_4
+NCONF_free,FUNC_5
+NCONF_load_bio,FUNC_6
+NCONF_new,FUNC_7
+OPENSSL_assert,FUNC_8
+FuzzerTestOneInput,FUNC_9
+buf,VAR_0
+len,VAR_1
+conf,VAR_2
+in,VAR_3
+eline,VAR_4

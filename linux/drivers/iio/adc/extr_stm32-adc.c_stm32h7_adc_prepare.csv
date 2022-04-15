@@ -1,0 +1,14 @@
+STM32H7_ADC_DIFSEL,VAR_0
+STM32H7_ADC_PCSEL,VAR_1
+stm32_adc_writel,FUNC_0
+stm32h7_adc_disable,FUNC_1
+stm32h7_adc_enable,FUNC_2
+stm32h7_adc_enter_pwr_down,FUNC_3
+stm32h7_adc_exit_pwr_down,FUNC_4
+stm32h7_adc_read_selfcalib,FUNC_5
+stm32h7_adc_restore_selfcalib,FUNC_6
+stm32h7_adc_selfcalib,FUNC_7
+stm32h7_adc_prepare,FUNC_8
+adc,VAR_2
+calib,VAR_3
+ret,VAR_4

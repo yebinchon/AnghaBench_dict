@@ -1,0 +1,12 @@
+MSR_IDLE,VAR_0
+MSR_KERNEL,VAR_1
+__ppc64_runlatch_off,FUNC_0
+__ppc64_runlatch_on,FUNC_1
+fini_irq_for_idle_irqsoff,FUNC_2
+irq_set_pending_from_srr1,FUNC_3
+mtmsr,FUNC_4
+power7_idle_insn,FUNC_5
+prep_irq_for_idle_irqsoff,FUNC_6
+power7_idle_type,FUNC_7
+type,VAR_2
+srr1,VAR_3

@@ -1,0 +1,11 @@
+EPERM,VAR_0
+KERN_HOSTNAME_STRING,VAR_1
+expect,FUNC_0
+stored_hostname,VAR_2
+strlen,FUNC_1
+sysctlbyname,FUNC_2
+priv_sysctl_writejail,FUNC_3
+asroot,VAR_3
+injail,VAR_4
+test,VAR_5
+error,VAR_6

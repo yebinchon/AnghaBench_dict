@@ -1,0 +1,11 @@
+ZFCP_STATUS_ADAPTER_LINK_UNPLUGGED,VAR_0
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_1
+atomic_or,FUNC_0
+atomic_read,FUNC_1
+dev_warn,FUNC_2
+zfcp_erp_set_adapter_status,FUNC_3
+zfcp_scsi_schedule_rports_block,FUNC_4
+zfcp_fsf_link_down_info_eval,FUNC_5
+req,VAR_2
+link_down,VAR_3
+adapter,VAR_4

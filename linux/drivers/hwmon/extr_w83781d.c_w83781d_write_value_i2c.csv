@@ -1,0 +1,10 @@
+W83781D_REG_BANK,VAR_0
+i2c_smbus_write_byte_data,FUNC_0
+i2c_smbus_write_word_swapped,FUNC_1
+w83781d_write_value_i2c,FUNC_2
+data,VAR_1
+reg,VAR_2
+value,VAR_3
+client,VAR_4
+bank,VAR_5
+cl,VAR_6

@@ -1,0 +1,14 @@
+DMA_BIDIRECTIONAL,VAR_0
+ENOMEM,VAR_1
+PAGE_SIZE,VAR_2
+dma_sync_single_for_device,FUNC_0
+xdp_umem_get_data,FUNC_1
+xdp_umem_get_dma,FUNC_2
+xsk_umem_adjust_offset,FUNC_3
+xsk_umem_discard_addr_rq,FUNC_4
+xsk_umem_peek_addr_rq,FUNC_5
+mlx5e_xsk_page_alloc_umem,FUNC_6
+rq,VAR_3
+dma_info,VAR_4
+umem,VAR_5
+handle,VAR_6

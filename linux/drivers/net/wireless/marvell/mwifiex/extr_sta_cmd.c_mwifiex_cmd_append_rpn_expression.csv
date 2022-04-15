@@ -1,0 +1,15 @@
+MWIFIEX_MEF_MAX_BYTESEQ,VAR_0
+MWIFIEX_MEF_MAX_FILTERS,VAR_1
+STACK_NBYTES,VAR_2
+TYPE_BYTESEQ,VAR_3
+TYPE_DNUM,VAR_4
+memcpy,FUNC_0
+put_unaligned_le32,FUNC_1
+mwifiex_cmd_append_rpn_expression,FUNC_2
+priv,VAR_5
+mef_entry,VAR_6
+buffer,VAR_7
+filter,VAR_8
+i,VAR_9
+byte_len,VAR_10
+stack_ptr,VAR_11

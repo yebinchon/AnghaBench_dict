@@ -1,0 +1,16 @@
+CPUSTAT_P,VAR_0
+EINVAL,VAR_1
+KVM_GUESTDBG_ENABLE,VAR_2
+KVM_GUESTDBG_USE_HW_BP,VAR_3
+VALID_GUESTDBG_FLAGS,VAR_4
+kvm_s390_clear_bp_data,FUNC_0
+kvm_s390_clear_cpuflags,FUNC_1
+kvm_s390_import_bp_data,FUNC_2
+kvm_s390_set_cpuflags,FUNC_3
+sclp,VAR_5
+vcpu_load,FUNC_4
+vcpu_put,FUNC_5
+kvm_arch_vcpu_ioctl_set_guest_debug,FUNC_6
+vcpu,VAR_6
+dbg,VAR_7
+rc,VAR_8

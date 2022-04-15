@@ -1,0 +1,16 @@
+ISCSI_OPCODE_MASK,VAR_0
+KERN_ALERT,VAR_1
+bnx2i_iscsi_prep_generic_pdu_bd,FUNC_0
+bnx2i_send_iscsi_login,FUNC_1
+bnx2i_send_iscsi_logout,FUNC_2
+bnx2i_send_iscsi_nopout,FUNC_3
+bnx2i_send_iscsi_text,FUNC_4
+bnx2i_send_iscsi_tmf,FUNC_5
+iscsi_conn_printk,FUNC_6
+bnx2i_iscsi_send_generic_request,FUNC_7
+task,VAR_2
+cmd,VAR_3
+bnx2i_conn,VAR_4
+rc,VAR_5
+buf,VAR_6
+data_len,VAR_7

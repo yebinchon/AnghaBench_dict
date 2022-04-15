@@ -1,0 +1,15 @@
+cryptd_skcipher_child,FUNC_0
+cryptd_skcipher_queued,FUNC_1
+crypto_simd_usable,FUNC_2
+crypto_skcipher_ctx,FUNC_3
+crypto_skcipher_encrypt,FUNC_4
+crypto_skcipher_reqtfm,FUNC_5
+in_atomic,FUNC_6
+skcipher_request_ctx,FUNC_7
+skcipher_request_set_tfm,FUNC_8
+simd_skcipher_encrypt,FUNC_9
+req,VAR_0
+tfm,VAR_1
+ctx,VAR_2
+subreq,VAR_3
+child,VAR_4

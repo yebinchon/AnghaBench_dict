@@ -1,0 +1,12 @@
+MV88E6390_G2_EEPROM_ADDR,VAR_0
+MV88E6XXX_G2_EEPROM_CMD_OP_WRITE,VAR_1
+MV88E6XXX_G2_EEPROM_CMD_WRITE_EN,VAR_2
+mv88e6xxx_g2_eeprom_cmd,FUNC_0
+mv88e6xxx_g2_eeprom_wait,FUNC_1
+mv88e6xxx_g2_write,FUNC_2
+mv88e6xxx_g2_eeprom_write8,FUNC_3
+chip,VAR_3
+addr,VAR_4
+data,VAR_5
+cmd,VAR_6
+err,VAR_7

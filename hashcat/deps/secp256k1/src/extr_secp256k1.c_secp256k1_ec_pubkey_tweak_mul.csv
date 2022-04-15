@@ -1,0 +1,16 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+memset,FUNC_2
+secp256k1_eckey_pubkey_tweak_mul,FUNC_3
+secp256k1_ecmult_context_is_built,FUNC_4
+secp256k1_pubkey_load,FUNC_5
+secp256k1_pubkey_save,FUNC_6
+secp256k1_scalar_set_b32,FUNC_7
+secp256k1_ec_pubkey_tweak_mul,FUNC_8
+ctx,VAR_0
+pubkey,VAR_1
+tweak,VAR_2
+p,VAR_3
+factor,VAR_4
+ret,VAR_5
+overflow,VAR_6

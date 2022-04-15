@@ -1,0 +1,12 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+finish_wait,FUNC_1
+mutex_lock,FUNC_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+wait,VAR_1
+journal_lock_updates,FUNC_7
+journal,VAR_2
+transaction,VAR_3

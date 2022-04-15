@@ -1,0 +1,15 @@
+REGBUF_STANDARD,VAR_0
+RM_GIST_ID,VAR_1
+SizeOfGistxlogPageDelete,VAR_2
+XLOG_GIST_PAGE_DELETE,VAR_3
+XLogBeginInsert,FUNC_0
+XLogInsert,FUNC_1
+XLogRegisterBuffer,FUNC_2
+XLogRegisterData,FUNC_3
+gistXLogPageDelete,FUNC_4
+buffer,VAR_4
+xid,VAR_5
+parentBuffer,VAR_6
+downlinkOffset,VAR_7
+xlrec,VAR_8
+recptr,VAR_9

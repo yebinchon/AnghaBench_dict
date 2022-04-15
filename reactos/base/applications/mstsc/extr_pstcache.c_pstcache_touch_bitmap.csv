@@ -1,0 +1,12 @@
+BMPCACHE2_NUM_PSTCELLS,VAR_0
+IS_PERSISTENT,FUNC_0
+MAX_CELL_SIZE,VAR_1
+g_pstcache_Bpp,VAR_2
+g_pstcache_fd,VAR_3
+rd_lseek_file,FUNC_1
+rd_write_file,FUNC_2
+pstcache_touch_bitmap,FUNC_3
+cache_id,VAR_4
+cache_idx,VAR_5
+stamp,VAR_6
+fd,VAR_7

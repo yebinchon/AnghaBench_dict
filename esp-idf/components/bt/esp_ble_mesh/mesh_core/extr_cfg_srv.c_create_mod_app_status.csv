@@ -1,0 +1,14 @@
+OP_MOD_APP_STATUS,VAR_0
+bt_mesh_model_msg_init,FUNC_0
+memcpy,FUNC_1
+net_buf_simple_add,FUNC_2
+net_buf_simple_add_le16,FUNC_3
+net_buf_simple_add_u8,FUNC_4
+create_mod_app_status,FUNC_5
+msg,VAR_1
+mod,VAR_2
+vnd,VAR_3
+elem_addr,VAR_4
+app_idx,VAR_5
+status,VAR_6
+mod_id,VAR_7

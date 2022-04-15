@@ -1,0 +1,16 @@
+AO_RTI_GEN_PWR_SLEEP0,VAR_0
+BIT,FUNC_0
+GEN_PWR_VPU_HDMI,VAR_1
+GEN_PWR_VPU_HDMI_ISO,VAR_2
+HHI_MEM_PD_REG0,VAR_3
+HHI_VPU_MEM_PD_REG0,VAR_4
+HHI_VPU_MEM_PD_REG1,VAR_5
+clk_disable_unprepare,FUNC_1
+genpd_to_pd,FUNC_2
+msleep,FUNC_3
+regmap_update_bits,FUNC_4
+udelay,FUNC_5
+meson_gx_pwrc_vpu_power_off,FUNC_6
+genpd,VAR_6
+pd,VAR_7
+i,VAR_8

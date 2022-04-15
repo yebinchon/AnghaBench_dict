@@ -1,0 +1,11 @@
+QLA_TGT_DATASEGS_PER_CMD_24XX,VAR_0
+append_dsd64,FUNC_0
+cpu_to_le16,FUNC_1
+cpu_to_le32,FUNC_2
+qlt_load_cont_data_segments,FUNC_3
+sg_next,FUNC_4
+qlt_load_data_segments,FUNC_5
+prm,VAR_1
+cnt,VAR_2
+cur_dsd,VAR_3
+pkt24,VAR_4

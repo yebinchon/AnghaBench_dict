@@ -1,0 +1,9 @@
+AT_WRITE_FLUSH,FUNC_0
+AT_WRITE_REG,FUNC_1
+ISR_DIS_INT,VAR_0
+REG_IMR,VAR_1
+REG_ISR,VAR_2
+atomic_inc,FUNC_2
+synchronize_irq,FUNC_3
+atl1c_irq_disable,FUNC_4
+adapter,VAR_3

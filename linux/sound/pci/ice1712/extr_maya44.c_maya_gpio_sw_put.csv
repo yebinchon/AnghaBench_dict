@@ -1,0 +1,14 @@
+GET_GPIO_VAL_INV,FUNC_0
+GET_GPIO_VAL_SHIFT,FUNC_1
+maya_set_gpio_bits,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+snd_kcontrol_chip,FUNC_5
+maya_gpio_sw_put,FUNC_6
+kcontrol,VAR_0
+ucontrol,VAR_1
+chip,VAR_2
+shift,VAR_3
+val,VAR_4
+mask,VAR_5
+changed,VAR_6

@@ -1,0 +1,14 @@
+BACKING_DEV_OFFLINE_TIMEOUT,VAR_0
+HZ,VAR_1
+bcache_device_stop,FUNC_0
+bdev_get_queue,FUNC_1
+blk_queue_dying,FUNC_2
+kthread_should_stop,FUNC_3
+pr_err,FUNC_4
+schedule_timeout_interruptible,FUNC_5
+smp_mb,FUNC_6
+wait_for_kthread_stop,FUNC_7
+cached_dev_status_update,FUNC_8
+arg,VAR_2
+dc,VAR_3
+q,VAR_4

@@ -1,0 +1,17 @@
+LOG_ERR,VAR_0
+SIOCIFCREATE,VAR_1
+SIOCSIFNAME,VAR_2
+bzero,FUNC_0
+errno,VAR_3
+free,FUNC_1
+ioctl,FUNC_2
+sock,VAR_4
+strcmp,FUNC_3
+strdup,FUNC_4
+strerror,FUNC_5
+strlcpy,FUNC_6
+syslog,FUNC_7
+bridge_create,FUNC_8
+b_name,VAR_5
+new_name,VAR_6
+ifr,VAR_7

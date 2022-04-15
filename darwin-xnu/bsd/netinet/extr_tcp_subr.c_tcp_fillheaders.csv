@@ -1,0 +1,17 @@
+INP_IPV6,VAR_0
+IPPROTO_TCP,VAR_1
+IPV6_FLOWINFO_MASK,VAR_2
+IPV6_VERSION,VAR_3
+IPV6_VERSION_MASK,VAR_4
+IP_VHL_BORING,VAR_5
+htonl,FUNC_0
+htons,FUNC_1
+in6_pseudo,FUNC_2
+in_pseudo,FUNC_3
+tcp_fillheaders,FUNC_4
+tp,VAR_6
+ip_ptr,VAR_7
+tcp_ptr,VAR_8
+inp,VAR_9
+tcp_hdr,VAR_10
+ip,VAR_11

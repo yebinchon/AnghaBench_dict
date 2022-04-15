@@ -1,0 +1,10 @@
+iwl_read_prph_no_grab,FUNC_0
+iwl_trans_grab_nic_access,FUNC_1
+iwl_trans_release_nic_access,FUNC_2
+iwl_write_prph_no_grab,FUNC_3
+iwl_set_bits_mask_prph,FUNC_4
+trans,VAR_0
+ofs,VAR_1
+bits,VAR_2
+mask,VAR_3
+flags,VAR_4

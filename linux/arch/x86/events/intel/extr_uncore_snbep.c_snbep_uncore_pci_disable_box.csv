@@ -1,0 +1,9 @@
+SNBEP_PMON_BOX_CTL_FRZ,VAR_0
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+uncore_pci_box_ctl,FUNC_2
+snbep_uncore_pci_disable_box,FUNC_3
+box,VAR_1
+pdev,VAR_2
+box_ctl,VAR_3
+config,VAR_4

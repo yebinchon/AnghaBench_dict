@@ -1,0 +1,8 @@
+FSCACHE_OBJECT_EV_CLEARED,VAR_0
+_enter,FUNC_0
+fscache_raise_event,FUNC_1
+spin_lock_nested,FUNC_2
+spin_unlock,FUNC_3
+fscache_done_parent_op,FUNC_4
+object,VAR_1
+parent,VAR_2

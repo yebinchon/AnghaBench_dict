@@ -1,0 +1,14 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_VNIC_RSS_COS_LB_CTX_ALLOC,VAR_1
+_hwrm_send_message,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+le16_to_cpu,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+bnxt_hwrm_vnic_ctx_alloc,FUNC_5
+bp,VAR_2
+vnic_id,VAR_3
+ctx_idx,VAR_4
+rc,VAR_5
+req,VAR_6
+resp,VAR_7

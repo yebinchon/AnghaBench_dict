@@ -1,0 +1,13 @@
+PLL_BYPASSNL,VAR_0
+PLL_OUTCTRL,VAR_1
+PLL_RESET_N,VAR_2
+regmap_read,FUNC_0
+regmap_update_bits,FUNC_1
+to_clk_pll,FUNC_2
+udelay,FUNC_3
+wait_for_pll,FUNC_4
+clk_pll_sr2_enable,FUNC_5
+hw,VAR_3
+pll,VAR_4
+ret,VAR_5
+mode,VAR_6

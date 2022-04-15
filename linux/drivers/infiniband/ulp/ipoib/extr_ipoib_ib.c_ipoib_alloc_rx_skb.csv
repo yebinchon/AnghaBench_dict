@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+IPOIB_HARD_LEN,VAR_1
+IPOIB_UD_BUF_SIZE,FUNC_0
+dev_alloc_skb,FUNC_1
+dev_kfree_skb_any,FUNC_2
+ib_dma_map_single,FUNC_3
+ib_dma_mapping_error,FUNC_4
+ipoib_priv,FUNC_5
+skb_reserve,FUNC_6
+unlikely,FUNC_7
+ipoib_alloc_rx_skb,FUNC_8
+dev,VAR_2
+id,VAR_3
+priv,VAR_4
+skb,VAR_5
+buf_size,VAR_6
+mapping,VAR_7

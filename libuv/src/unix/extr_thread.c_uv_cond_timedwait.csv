@@ -1,0 +1,17 @@
+ETIMEDOUT,VAR_0
+NANOSEC,VAR_1
+UV_CLOCK_PRECISE,VAR_2
+UV_EINVAL,VAR_3
+UV_ETIMEDOUT,VAR_4
+abort,FUNC_0
+gettimeofday,FUNC_1
+pthread_cond_timedwait,FUNC_2
+pthread_cond_timedwait_monotonic_np,FUNC_3
+pthread_cond_timedwait_relative_np,FUNC_4
+uv__hrtime,FUNC_5
+uv_cond_timedwait,FUNC_6
+cond,VAR_5
+mutex,VAR_6
+timeout,VAR_7
+r,VAR_8
+ts,VAR_9

@@ -1,0 +1,16 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__set_current_state,FUNC_1
+add_wait_queue,FUNC_2
+audit_backlog_limit,VAR_2
+audit_backlog_wait,VAR_3
+audit_skb_queue,VAR_4
+current,VAR_5
+remove_wait_queue,FUNC_3
+schedule_timeout,FUNC_4
+set_current_state,FUNC_5
+skb_queue_len,FUNC_6
+wait,VAR_6
+wait_for_auditd,FUNC_7
+sleep_time,VAR_7

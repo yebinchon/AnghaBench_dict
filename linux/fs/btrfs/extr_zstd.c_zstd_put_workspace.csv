@@ -1,0 +1,17 @@
+INIT_LIST_HEAD,FUNC_0
+ZSTD_BTRFS_MAX_LEVEL,VAR_0
+ZSTD_BTRFS_RECLAIM_JIFFIES,VAR_1
+cond_wake_up,FUNC_1
+jiffies,VAR_2
+list_add,FUNC_2
+list_empty,FUNC_3
+list_to_workspace,FUNC_4
+mod_timer,FUNC_5
+set_bit,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+timer_pending,FUNC_9
+wsm,VAR_3
+zstd_put_workspace,FUNC_10
+ws,VAR_4
+workspace,VAR_5

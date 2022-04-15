@@ -1,0 +1,17 @@
+EVENT_MODIFY_STATE,VAR_0
+NGX_LOG_ALERT,VAR_1
+NGX_LOG_ERR,VAR_2
+NGX_PROCESS_SYNC_NAME,VAR_3
+OpenEvent,FUNC_0
+SetEvent,FUNC_1
+ngx_close_handle,FUNC_2
+ngx_errno,VAR_4
+ngx_log_error,FUNC_3
+ngx_sprintf,FUNC_4
+ngx_os_signal_process,FUNC_5
+cycle,VAR_5
+sig,VAR_6
+pid,VAR_7
+ev,VAR_8
+rc,VAR_9
+evn,VAR_10

@@ -1,0 +1,14 @@
+__omap3isp_get,FUNC_0
+__omap3isp_put,FUNC_1
+isp_cleanup_modules,FUNC_2
+isp_detach_iommu,FUNC_3
+isp_unregister_entities,FUNC_4
+isp_xclk_cleanup,FUNC_5
+kfree,FUNC_6
+media_entity_enum_cleanup,FUNC_7
+platform_get_drvdata,FUNC_8
+v4l2_async_notifier_cleanup,FUNC_9
+v4l2_async_notifier_unregister,FUNC_10
+isp_remove,FUNC_11
+pdev,VAR_0
+isp,VAR_1

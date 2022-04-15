@@ -1,0 +1,16 @@
+ADD_CNT,FUNC_0
+END_TIMER,FUNC_1
+FAILURE,VAR_0
+IS_ARRAY,VAR_1
+START_TIMER,FUNC_2
+Z_ARRVAL_P,FUNC_3
+Z_TYPE_P,FUNC_4
+assert,FUNC_5
+strlen,FUNC_6
+zend_hash_find,FUNC_7
+zend_hash_index_find,FUNC_8
+get_field,FUNC_9
+arr,VAR_2
+id,VAR_3
+num,VAR_4
+t,VAR_5

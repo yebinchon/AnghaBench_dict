@@ -1,0 +1,16 @@
+CR_OFFSET,VAR_0
+DBR_OFFSET,VAR_1
+IOP3XX_ICR_MSTART,VAR_2
+IOP3XX_ICR_MSTOP,VAR_3
+IOP3XX_ICR_NACK,VAR_4
+IOP3XX_ICR_TBYTE,VAR_5
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+iop3xx_i2c_wait_rx_done,FUNC_2
+iop3xx_i2c_read_byte,FUNC_3
+iop3xx_adap,VAR_6
+byte,VAR_7
+stop,VAR_8
+cr,VAR_9
+status,VAR_10
+rc,VAR_11

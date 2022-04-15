@@ -1,0 +1,12 @@
+CLUSTER_EOF,VAR_0
+DIR_ENTRY_DATA_SIZE,VAR_1
+FAT16_ROOT_DIR_CLUSTER,VAR_2
+_FAT_fat_isValidCluster,FUNC_0
+_FAT_fat_linkFreeClusterCleared,FUNC_1
+_FAT_fat_nextCluster,FUNC_2
+_FAT_directory_incrementDirEntryPosition,FUNC_3
+partition,VAR_3
+entryPosition,VAR_4
+extendDirectory,VAR_5
+position,VAR_6
+tempCluster,VAR_7

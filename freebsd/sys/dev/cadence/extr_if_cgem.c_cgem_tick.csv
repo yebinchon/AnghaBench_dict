@@ -1,0 +1,14 @@
+CGEM_ASSERT_LOCKED,FUNC_0
+CGEM_NET_CTRL,VAR_0
+CGEM_NET_CTRL_RX_EN,VAR_1
+DELAY,FUNC_1
+WR4,FUNC_2
+callout_reset,FUNC_3
+cgem_poll_hw_stats,FUNC_4
+device_get_softc,FUNC_5
+hz,VAR_2
+mii_tick,FUNC_6
+cgem_tick,FUNC_7
+arg,VAR_3
+sc,VAR_4
+mii,VAR_5

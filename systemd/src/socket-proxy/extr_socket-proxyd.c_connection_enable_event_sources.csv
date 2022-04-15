@@ -1,0 +1,12 @@
+EPOLLIN,VAR_0
+EPOLLOUT,VAR_1
+assert,FUNC_0
+log_error_errno,FUNC_1
+sd_event_add_io,FUNC_2
+sd_event_source_set_io_events,FUNC_3
+traffic_cb,VAR_2
+connection_enable_event_sources,FUNC_4
+c,VAR_3
+a,VAR_4
+b,VAR_5
+r,VAR_6

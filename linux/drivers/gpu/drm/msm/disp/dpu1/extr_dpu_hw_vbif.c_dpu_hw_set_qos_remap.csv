@@ -1,0 +1,15 @@
+DPU_REG_READ,FUNC_0
+DPU_REG_WRITE,FUNC_1
+VBIF_XINL_QOS_LVL_REMAP_000,VAR_0
+VBIF_XINL_QOS_RP_REMAP_000,VAR_1
+dpu_hw_set_qos_remap,FUNC_2
+vbif,VAR_2
+xin_id,VAR_3
+level,VAR_4
+remap_level,VAR_5
+c,VAR_6
+reg_val,VAR_7
+reg_val_lvl,VAR_8
+mask,VAR_9
+reg_high,VAR_10
+reg_shift,VAR_11

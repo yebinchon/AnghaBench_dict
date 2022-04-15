@@ -1,0 +1,13 @@
+NL80211_CMD_UNEXPECTED_FRAME,VAR_0
+NL80211_IFTYPE_AP,VAR_1
+NL80211_IFTYPE_P2P_GO,VAR_2
+WARN_ON,FUNC_0
+__nl80211_unexpected_frame,FUNC_1
+trace_cfg80211_return_bool,FUNC_2
+trace_cfg80211_rx_spurious_frame,FUNC_3
+cfg80211_rx_spurious_frame,FUNC_4
+dev,VAR_3
+addr,VAR_4
+gfp,VAR_5
+wdev,VAR_6
+ret,VAR_7

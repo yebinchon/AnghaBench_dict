@@ -1,0 +1,14 @@
+DCCP_TIME_WAIT,VAR_0
+POLL_ERR,VAR_1
+SOCK_DEAD,VAR_2
+SOCK_WAKE_IO,VAR_3
+dccp_fin,FUNC_0
+dccp_hdr_reset,FUNC_1
+dccp_reset_code_convert,FUNC_2
+dccp_time_wait,FUNC_3
+sk_wake_async,FUNC_4
+sock_flag,FUNC_5
+dccp_rcv_reset,FUNC_6
+sk,VAR_4
+skb,VAR_5
+err,VAR_6

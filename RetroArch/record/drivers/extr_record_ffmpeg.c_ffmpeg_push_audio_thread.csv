@@ -1,0 +1,16 @@
+av_interleaved_write_frame,FUNC_0
+encode_audio,FUNC_1
+ffmpeg_audio_resample,FUNC_2
+memcpy,FUNC_3
+ffmpeg_push_audio_thread,FUNC_4
+handle,VAR_0
+aud,VAR_1
+require_block,VAR_2
+written_frames,VAR_3
+pkt,VAR_4
+can_write,VAR_5
+write_left,VAR_6
+write_frames,VAR_7
+write_size,VAR_8
+bytes_in_buffer,VAR_9
+written_bytes,VAR_10

@@ -1,0 +1,14 @@
+SYS_RES_IRQ,VAR_0
+bpfdetach,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_parent,FUNC_3
+device_get_softc,FUNC_4
+if_detach,FUNC_5
+lpstop,FUNC_6
+ppb_lock,FUNC_7
+ppb_unlock,FUNC_8
+lp_detach,FUNC_9
+dev,VAR_1
+sc,VAR_2
+ppbus,VAR_3

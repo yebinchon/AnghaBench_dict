@@ -1,0 +1,13 @@
+ETH_PLL_CTL0,VAR_0
+FIELD_GET,FUNC_0
+PLL_CTL0_M,VAR_1
+PLL_CTL0_N,VAR_2
+g12a_ephy_pll_to_dev,FUNC_1
+readl,FUNC_2
+g12a_ephy_pll_recalc_rate,FUNC_3
+hw,VAR_3
+parent_rate,VAR_4
+pll,VAR_5
+val,VAR_6
+m,VAR_7
+n,VAR_8

@@ -1,0 +1,15 @@
+CH341_LCR_CS8,VAR_0
+CH341_LCR_ENABLE_RX,VAR_1
+CH341_LCR_ENABLE_TX,VAR_2
+DEFAULT_BAUD_RATE,VAR_3
+ENOMEM,VAR_4
+GFP_KERNEL,VAR_5
+ch341_configure,FUNC_0
+kfree,FUNC_1
+kzalloc,FUNC_2
+spin_lock_init,FUNC_3
+usb_set_serial_port_data,FUNC_4
+ch341_port_probe,FUNC_5
+port,VAR_6
+priv,VAR_7
+r,VAR_8

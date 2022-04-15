@@ -1,0 +1,10 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+secp256k1_scalar_clear,FUNC_2
+secp256k1_scalar_get_b32,FUNC_3
+secp256k1_scalar_negate,FUNC_4
+secp256k1_scalar_set_b32,FUNC_5
+secp256k1_ec_privkey_negate,FUNC_6
+ctx,VAR_0
+seckey,VAR_1
+sec,VAR_2

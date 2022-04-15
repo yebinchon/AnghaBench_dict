@@ -1,0 +1,12 @@
+ASN1_CLASS_UNIVERSAL,VAR_0
+ASN1_TAG_BITSTRING,VAR_1
+MSG_DEBUG,VAR_2
+X509_EXT_KEY_USAGE,VAR_3
+asn1_bit_string_to_long,FUNC_0
+asn1_get_next,FUNC_1
+wpa_printf,FUNC_2
+x509_parse_ext_key_usage,FUNC_3
+cert,VAR_4
+pos,VAR_5
+len,VAR_6
+hdr,VAR_7

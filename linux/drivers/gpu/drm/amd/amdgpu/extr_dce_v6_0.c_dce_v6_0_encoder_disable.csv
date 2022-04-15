@@ -1,0 +1,13 @@
+ATOM_ENCODER_MODE_HDMI,VAR_0
+DRM_MODE_DPMS_OFF,VAR_1
+ENCODER_MODE_IS_DP,FUNC_0
+amdgpu_atombios_encoder_dpms,FUNC_1
+amdgpu_atombios_encoder_get_encoder_mode,FUNC_2
+amdgpu_atombios_encoder_is_digital,FUNC_3
+dce_v6_0_afmt_enable,FUNC_4
+to_amdgpu_encoder,FUNC_5
+dce_v6_0_encoder_disable,FUNC_6
+encoder,VAR_2
+amdgpu_encoder,VAR_3
+dig,VAR_4
+em,VAR_5

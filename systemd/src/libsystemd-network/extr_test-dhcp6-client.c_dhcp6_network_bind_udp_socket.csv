@@ -1,0 +1,12 @@
+AF_UNIX,VAR_0
+SOCK_CLOEXEC,VAR_1
+SOCK_NONBLOCK,VAR_2
+SOCK_STREAM,VAR_3
+assert_se,FUNC_0
+errno,VAR_4
+socketpair,FUNC_1
+test_dhcp_fd,VAR_5
+test_index,VAR_6
+dhcp6_network_bind_udp_socket,FUNC_2
+index,VAR_7
+local_address,VAR_8

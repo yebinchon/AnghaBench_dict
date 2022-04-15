@@ -1,0 +1,10 @@
+_ccv_nnc_conv_forw_4x4_3x3_winograd_neon,FUNC_0
+_ccv_nnc_conv_forw_4x4_3x3_winograd_ref,FUNC_1
+_ccv_nnc_conv_forw_4x4_3x3_winograd_sse2,FUNC_2
+_ccv_nnc_conv_forw_4x4_3x3_winograd_cpu_opt,FUNC_3
+a,VAR_0
+w,VAR_1
+bias,VAR_2
+hint,VAR_3
+b,VAR_4
+stream_context,VAR_5

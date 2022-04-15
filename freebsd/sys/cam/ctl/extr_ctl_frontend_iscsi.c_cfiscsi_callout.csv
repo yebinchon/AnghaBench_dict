@@ -1,0 +1,16 @@
+CFISCSI_SESSION_WARN,FUNC_0
+ISCSI_BHS_OPCODE_NOP_IN,VAR_0
+M_NOWAIT,VAR_1
+atomic_add_int,FUNC_1
+callout_schedule,FUNC_2
+cfiscsi_pdu_queue,FUNC_3
+cfiscsi_session_terminate,FUNC_4
+hz,VAR_2
+icl_pdu_new,FUNC_5
+login_timeout,VAR_3
+ping_timeout,VAR_4
+cfiscsi_callout,FUNC_6
+context,VAR_5
+cp,VAR_6
+bhsni,VAR_7
+cs,VAR_8

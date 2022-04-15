@@ -1,0 +1,9 @@
+LDT_BASE_ADDR,VAR_0
+LDT_END_ADDR,VAR_1
+X86_FEATURE_PTI,VAR_2
+boot_cpu_has,FUNC_0
+free_pgd_range,FUNC_1
+tlb_finish_mmu,FUNC_2
+tlb_gather_mmu,FUNC_3
+free_ldt_pgtables,FUNC_4
+mm,VAR_3

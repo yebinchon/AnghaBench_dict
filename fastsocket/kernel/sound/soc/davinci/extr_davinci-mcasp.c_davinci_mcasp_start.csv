@@ -1,0 +1,10 @@
+DAVINCI_MCASP_RFIFOCTL,VAR_0
+DAVINCI_MCASP_WFIFOCTL,VAR_1
+FIFO_ENABLE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+mcasp_set_bits,FUNC_0
+mcasp_start_rx,FUNC_1
+mcasp_start_tx,FUNC_2
+davinci_mcasp_start,FUNC_3
+dev,VAR_4
+stream,VAR_5

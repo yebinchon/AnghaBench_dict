@@ -1,0 +1,16 @@
+SSD1307FB_DISPLAY_OFF,VAR_0
+__free_pages,FUNC_0
+__va,FUNC_1
+backlight_device_unregister,FUNC_2
+fb_deferred_io_cleanup,FUNC_3
+framebuffer_release,FUNC_4
+get_order,FUNC_5
+i2c_get_clientdata,FUNC_6
+pwm_disable,FUNC_7
+pwm_put,FUNC_8
+ssd1307fb_write_cmd,FUNC_9
+unregister_framebuffer,FUNC_10
+ssd1307fb_remove,FUNC_11
+client,VAR_1
+info,VAR_2
+par,VAR_3

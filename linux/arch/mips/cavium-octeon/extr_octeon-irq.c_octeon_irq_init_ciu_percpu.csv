@@ -1,0 +1,15 @@
+CVMX_CIU_INTX_EN0,FUNC_0
+CVMX_CIU_INTX_EN1,FUNC_1
+CVMX_CIU_INTX_SUM0,FUNC_2
+__this_cpu_write,FUNC_3
+cvmx_get_core_num,FUNC_4
+cvmx_read_csr,FUNC_5
+cvmx_write_csr,FUNC_6
+octeon_irq_ciu0_en_mirror,VAR_0
+octeon_irq_ciu1_en_mirror,VAR_1
+octeon_irq_ciu_spinlock,VAR_2
+raw_spin_lock_init,FUNC_7
+this_cpu_ptr,FUNC_8
+wmb,FUNC_9
+octeon_irq_init_ciu_percpu,FUNC_10
+coreid,VAR_3

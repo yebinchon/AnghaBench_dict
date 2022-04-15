@@ -1,0 +1,9 @@
+LM3631,VAR_0
+LM3631_LCD_EN_MASK,VAR_1
+LM3631_REG_DEVCTRL,VAR_2
+gpiod_set_value,FUNC_0
+regmap_update_bits,FUNC_1
+usleep_range,FUNC_2
+ti_lmu_enable_hw,FUNC_3
+lmu,VAR_3
+id,VAR_4

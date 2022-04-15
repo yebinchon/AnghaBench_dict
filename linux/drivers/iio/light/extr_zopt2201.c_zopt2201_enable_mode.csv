@@ -1,0 +1,8 @@
+ZOPT2201_MAIN_CTRL,VAR_0
+ZOPT2201_MAIN_CTRL_LS_EN,VAR_1
+ZOPT2201_MAIN_CTRL_LS_MODE,VAR_2
+i2c_smbus_write_byte_data,FUNC_0
+zopt2201_enable_mode,FUNC_1
+data,VAR_3
+uvb_mode,VAR_4
+out,VAR_5

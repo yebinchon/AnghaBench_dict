@@ -1,0 +1,15 @@
+GPIO_DIR,VAR_0
+mpc8xxx_gpio2mask,FUNC_0
+mpc8xxx_gpio_set,FUNC_1
+setbits32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_mpc8xxx_gpio_chip,FUNC_5
+to_of_mm_gpio_chip,FUNC_6
+mpc8xxx_gpio_dir_out,FUNC_7
+gc,VAR_1
+gpio,VAR_2
+val,VAR_3
+mm,VAR_4
+mpc8xxx_gc,VAR_5
+flags,VAR_6

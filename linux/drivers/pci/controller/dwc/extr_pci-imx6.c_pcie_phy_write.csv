@@ -1,0 +1,14 @@
+PCIE_PHY_CTRL,VAR_0
+PCIE_PHY_CTRL_CAP_DAT,VAR_1
+PCIE_PHY_CTRL_DATA,FUNC_0
+PCIE_PHY_CTRL_WR,VAR_2
+dw_pcie_writel_dbi,FUNC_1
+pcie_phy_poll_ack,FUNC_2
+pcie_phy_wait_ack,FUNC_3
+pcie_phy_write,FUNC_4
+imx6_pcie,VAR_3
+addr,VAR_4
+data,VAR_5
+pci,VAR_6
+var,VAR_7
+ret,VAR_8

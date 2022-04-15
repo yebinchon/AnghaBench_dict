@@ -1,0 +1,14 @@
+GC_MAKE_PERSISTENT_LOCAL,FUNC_0
+ZVAL_NEW_STR,FUNC_1
+Z_STR,FUNC_2
+fcgi_mgmt_vars,VAR_0
+zend_hash_add,FUNC_3
+zend_string_init,FUNC_4
+zend_string_release_ex,FUNC_5
+fcgi_set_mgmt_var,FUNC_6
+name,VAR_1
+name_len,VAR_2
+value,VAR_3
+value_len,VAR_4
+zvalue,VAR_5
+key,VAR_6

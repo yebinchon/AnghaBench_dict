@@ -1,0 +1,10 @@
+ENODEV,VAR_0
+STK1160_SBUSR_RA,VAR_1
+STK1160_SICTL,VAR_2
+STK1160_SICTL_SDA,VAR_3
+stk1160_i2c_busy_wait,FUNC_0
+stk1160_write_reg,FUNC_1
+stk1160_i2c_check_for_device,FUNC_2
+dev,VAR_4
+addr,VAR_5
+rc,VAR_6

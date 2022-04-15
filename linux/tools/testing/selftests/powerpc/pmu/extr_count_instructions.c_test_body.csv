@@ -1,0 +1,14 @@
+FAIL_IF,FUNC_0
+PERF_COUNT_HW_CPU_CYCLES,VAR_0
+PERF_COUNT_HW_INSTRUCTIONS,VAR_1
+determine_overhead,FUNC_1
+do_count_loop,FUNC_2
+event_close,FUNC_3
+event_open,FUNC_4
+event_open_with_group,FUNC_5
+perror,FUNC_6
+printf,FUNC_7
+setup_event,FUNC_8
+test_body,FUNC_9
+events,VAR_2
+overhead,VAR_3

@@ -1,0 +1,17 @@
+DEVEN,VAR_0
+DEVEN_MCHBAR_EN,VAR_1
+INTEL_GEN,FUNC_0
+IS_CHERRYVIEW,FUNC_1
+IS_I915G,FUNC_2
+IS_I915GM,FUNC_3
+IS_VALLEYVIEW,FUNC_4
+MCHBAR_I915,VAR_2
+MCHBAR_I965,VAR_3
+intel_alloc_mchbar_resource,FUNC_5
+pci_read_config_dword,FUNC_6
+pci_write_config_dword,FUNC_7
+intel_setup_mchbar,FUNC_8
+dev_priv,VAR_4
+mchbar_reg,VAR_5
+temp,VAR_6
+enabled,VAR_7

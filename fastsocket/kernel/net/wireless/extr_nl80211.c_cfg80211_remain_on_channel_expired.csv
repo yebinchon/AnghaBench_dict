@@ -1,0 +1,11 @@
+NL80211_CMD_CANCEL_REMAIN_ON_CHANNEL,VAR_0
+nl80211_send_remain_on_chan_event,FUNC_0
+trace_cfg80211_ready_on_channel_expired,FUNC_1
+wiphy_to_dev,FUNC_2
+cfg80211_remain_on_channel_expired,FUNC_3
+wdev,VAR_1
+cookie,VAR_2
+chan,VAR_3
+gfp,VAR_4
+wiphy,VAR_5
+rdev,VAR_6

@@ -1,0 +1,16 @@
+MMU_WARN_ON,FUNC_0
+is_nx,FUNC_1
+is_pae,FUNC_2
+paging64_gva_to_gpa,VAR_0
+paging64_invlpg,VAR_1
+paging64_page_fault,VAR_2
+paging64_sync_page,VAR_3
+paging64_update_pte,VAR_4
+reset_rsvds_bits_mask,FUNC_3
+update_last_nonleaf_level,FUNC_4
+update_permission_bitmask,FUNC_5
+update_pkru_bitmask,FUNC_6
+paging64_init_context_common,FUNC_7
+vcpu,VAR_5
+context,VAR_6
+level,VAR_7

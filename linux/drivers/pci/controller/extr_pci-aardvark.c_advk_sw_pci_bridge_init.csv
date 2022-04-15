@@ -1,0 +1,11 @@
+PCIE_CORE_DEV_ID_REG,VAR_0
+PCIE_CORE_DEV_REV_REG,VAR_1
+PCIE_CORE_INT_A_ASSERT_ENABLE,VAR_2
+PCI_IO_RANGE_TYPE_32,VAR_3
+PCI_PREF_RANGE_TYPE_64,VAR_4
+advk_pci_bridge_emul_ops,VAR_5
+advk_readl,FUNC_0
+pci_bridge_emul_init,FUNC_1
+advk_sw_pci_bridge_init,FUNC_2
+pcie,VAR_6
+bridge,VAR_7

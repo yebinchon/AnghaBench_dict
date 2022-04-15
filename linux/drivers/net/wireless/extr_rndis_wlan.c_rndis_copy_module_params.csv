@@ -1,0 +1,16 @@
+get_rndis_wlan_priv,FUNC_0
+modparam_afterburner,VAR_0
+modparam_country,VAR_1
+modparam_frameburst,VAR_2
+modparam_power_output,VAR_3
+modparam_power_save,VAR_4
+modparam_roamdelta,VAR_5
+modparam_roamtrigger,VAR_6
+modparam_workaround_interval,VAR_7
+strcmp,FUNC_1
+strcpy,FUNC_2
+toupper,FUNC_3
+rndis_copy_module_params,FUNC_4
+usbdev,VAR_8
+device_type,VAR_9
+priv,VAR_10

@@ -1,0 +1,17 @@
+IR_PULSE,VAR_0
+IR_SPACE,VAR_1
+SAA7134_GPIO_GPMODE3,VAR_2
+SAA7134_GPIO_GPRESCAN,VAR_3
+SAA7134_GPIO_GPSTATUS0,VAR_4
+ir_raw_event_store_edge,FUNC_0
+jiffies,VAR_5
+jiffies_to_msecs,FUNC_1
+mod_timer,FUNC_2
+saa_clearb,FUNC_3
+saa_readl,FUNC_4
+saa_setb,FUNC_5
+saa7134_raw_decode_irq,FUNC_6
+dev,VAR_6
+ir,VAR_7
+timeout,VAR_8
+space,VAR_9

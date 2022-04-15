@@ -1,0 +1,13 @@
+H2O_HTTP3_ERROR_REQUEST_REJECTED,VAR_0
+H2O_HTTP3_SERVER_STREAM_STATE_CLOSE_WAIT,VAR_1
+H2O_HTTP3_SERVER_STREAM_STATE_RECV_HEADERS,VAR_2
+assert,FUNC_0
+h2o_linklist_is_linked,FUNC_1
+h2o_linklist_unlink,FUNC_2
+quicly_reset_stream,FUNC_3
+quicly_sendstate_transfer_complete,FUNC_4
+set_state,FUNC_5
+on_receive_reset,FUNC_6
+qs,VAR_3
+err,VAR_4
+stream,VAR_5

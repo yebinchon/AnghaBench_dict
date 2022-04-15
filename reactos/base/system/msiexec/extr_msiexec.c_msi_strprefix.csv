@@ -1,0 +1,17 @@
+CP_ACP,VAR_0
+CSTR_EQUAL,VAR_1
+CompareStringW,FUNC_0
+FALSE,VAR_2
+GetProcessHeap,FUNC_1
+GetThreadLocale,FUNC_2
+HeapAlloc,FUNC_3
+HeapFree,FUNC_4
+MultiByteToWideChar,FUNC_5
+NORM_IGNORECASE,VAR_3
+lstrlenW,FUNC_6
+msi_strprefix,FUNC_7
+str1,VAR_4
+str2,VAR_5
+len,VAR_6
+ret,VAR_7
+strW,VAR_8

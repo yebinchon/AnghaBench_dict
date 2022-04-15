@@ -1,0 +1,14 @@
+PyBytes_FromString,FUNC_0
+PyDict_New,FUNC_1
+PyInt_FromLong,FUNC_2
+PyTuple_New,FUNC_3
+PyTuple_SET_ITEM,FUNC_4
+Py_DECREF,FUNC_5
+Py_INCREF,FUNC_6
+_datetime_strings,VAR_0
+get_datetime_metadata_from_dtype,FUNC_7
+_get_pickleabletype_from_datetime_metadata,FUNC_8
+dtype,VAR_1
+ret,VAR_2
+dt_tuple,VAR_3
+meta,VAR_4

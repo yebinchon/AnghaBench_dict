@@ -1,0 +1,10 @@
+GRDOM_RESET_ENABLE,VAR_0
+I915_GDRST,VAR_1
+g4x_reset_complete,FUNC_0
+pci_write_config_byte,FUNC_1
+wait_for_atomic,FUNC_2
+g33_do_reset,FUNC_3
+gt,VAR_2
+engine_mask,VAR_3
+retry,VAR_4
+pdev,VAR_5

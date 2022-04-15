@@ -1,0 +1,17 @@
+CAP_ACCEPT,VAR_0
+CAP_EVENT,VAR_1
+CAP_IOCTL,VAR_2
+CAP_READ,VAR_3
+CAP_SETSOCKOPT,VAR_4
+CAP_WRITE,VAR_5
+EX_OSERR,VAR_6
+FIONREAD,VAR_7
+cap_rights_init,FUNC_0
+caph_ioctls_limit,FUNC_1
+caph_rights_limit,FUNC_2
+errx,FUNC_3
+nitems,FUNC_4
+limit_gdb_socket,FUNC_5
+s,VAR_8
+rights,VAR_9
+ioctls,VAR_10

@@ -1,0 +1,9 @@
+btrfs_buffer_uptodate,FUNC_0
+btrfs_pin_extent_for_log_replay,FUNC_1
+btrfs_wait_tree_block_writeback,FUNC_2
+btrfs_write_tree_block,FUNC_3
+process_one_buffer,FUNC_4
+log,VAR_0
+eb,VAR_1
+wc,VAR_2
+gen,VAR_3

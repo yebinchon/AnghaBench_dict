@@ -1,0 +1,16 @@
+RNDIS_STATUS_NOT_ACCEPTED,VAR_0
+RNDIS_STATUS_SUCCESS,VAR_1
+SET_OID,VAR_2
+r8712_bb_reg_read,FUNC_0
+r8712_bb_reg_write,FUNC_1
+r8712_write16,FUNC_2
+r8712_write32,FUNC_3
+r8712_write8,FUNC_4
+oid_rt_pro_write_register_hdl,FUNC_5
+poid_par_priv,VAR_3
+Adapter,VAR_4
+status,VAR_5
+RegRWStruct,VAR_6
+offset,VAR_7
+value,VAR_8
+oldValue,VAR_9

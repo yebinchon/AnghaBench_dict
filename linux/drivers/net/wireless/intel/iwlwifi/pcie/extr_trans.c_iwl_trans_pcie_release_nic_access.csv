@@ -1,0 +1,11 @@
+BIT,FUNC_0
+CSR_GP_CNTRL,VAR_0
+IWL_TRANS_GET_PCIE_TRANS,FUNC_1
+__acquire,FUNC_2
+__iwl_trans_pcie_clear_bit,FUNC_3
+lockdep_assert_held,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+iwl_trans_pcie_release_nic_access,FUNC_6
+trans,VAR_1
+flags,VAR_2
+trans_pcie,VAR_3

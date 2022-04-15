@@ -1,0 +1,17 @@
+MZ_AES_AUTHCODE_SIZE,VAR_0
+MZ_CRC_ERROR,VAR_1
+MZ_HASH_SHA1_SIZE,VAR_2
+MZ_OK,VAR_3
+MZ_OPEN_MODE_READ,VAR_4
+MZ_OPEN_MODE_WRITE,VAR_5
+MZ_READ_ERROR,VAR_6
+MZ_WRITE_ERROR,VAR_7
+memcmp,FUNC_0
+mz_crypt_hmac_end,FUNC_1
+mz_stream_read,FUNC_2
+mz_stream_write,FUNC_3
+mz_stream_wzaes_close,FUNC_4
+stream,VAR_8
+wzaes,VAR_9
+expected_hash,VAR_10
+computed_hash,VAR_11

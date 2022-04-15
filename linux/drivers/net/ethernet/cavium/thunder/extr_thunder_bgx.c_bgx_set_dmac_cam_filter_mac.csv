@@ -1,0 +1,12 @@
+BGX_CMR_RX_DMACX_CAM,VAR_0
+LMAC_ID_MASK,VAR_1
+RX_DMACX_CAM_EN,VAR_2
+RX_DMACX_CAM_LMACID,FUNC_0
+bgx_reg_write,FUNC_1
+bgx_set_dmac_cam_filter_mac,FUNC_2
+bgx,VAR_3
+lmacid,VAR_4
+cam_dmac,VAR_5
+idx,VAR_6
+lmac,VAR_7
+cfg,VAR_8

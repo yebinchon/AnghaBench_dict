@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+PCH_GBE_RESERVE_MEMORY,VAR_2
+dma_alloc_coherent,FUNC_0
+memset,FUNC_1
+pr_err,FUNC_2
+pch_gbe_alloc_rx_buffers_pool,FUNC_3
+adapter,VAR_3
+rx_ring,VAR_4
+cleaned_count,VAR_5
+pdev,VAR_6
+buffer_info,VAR_7
+i,VAR_8
+bufsz,VAR_9
+size,VAR_10

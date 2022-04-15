@@ -1,0 +1,9 @@
+HF_IRET_MASK,VAR_0
+HF_NMI_MASK,VAR_1
+X86_EFLAGS_RF,VAR_2
+X86_EFLAGS_TF,VAR_3
+to_svm,FUNC_0
+update_db_intercept,FUNC_1
+enable_nmi_window,FUNC_2
+vcpu,VAR_4
+svm,VAR_5

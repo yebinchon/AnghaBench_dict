@@ -1,0 +1,13 @@
+ATF_REQUIRE_EQ,FUNC_0
+FPE_INTDIV,VAR_0
+SIGFPE,VAR_1
+atf_tc_expect_pass,FUNC_1
+atf_tc_fail,FUNC_2
+intdiv_signalled,VAR_2
+sig_debug,FUNC_3
+sigfpe_int_env,VAR_3
+siglongjmp,FUNC_4
+sigfpe_int_action,FUNC_5
+signo,VAR_4
+info,VAR_5
+ptr,VAR_6

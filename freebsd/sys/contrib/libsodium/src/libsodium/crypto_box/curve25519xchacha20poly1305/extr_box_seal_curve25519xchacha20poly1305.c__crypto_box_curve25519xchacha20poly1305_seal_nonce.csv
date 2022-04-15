@@ -1,0 +1,10 @@
+crypto_box_curve25519xchacha20poly1305_NONCEBYTES,VAR_0
+crypto_box_curve25519xchacha20poly1305_PUBLICKEYBYTES,VAR_1
+crypto_generichash_final,FUNC_0
+crypto_generichash_init,FUNC_1
+crypto_generichash_update,FUNC_2
+_crypto_box_curve25519xchacha20poly1305_seal_nonce,FUNC_3
+nonce,VAR_2
+pk1,VAR_3
+pk2,VAR_4
+st,VAR_5

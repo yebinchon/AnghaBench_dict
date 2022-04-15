@@ -1,0 +1,15 @@
+NETPLAY_CMD_INFO,VAR_0
+NETPLAY_CONNECTION_PRE_INFO,VAR_1
+content_get_crc,FUNC_0
+htonl,FUNC_1
+memset,FUNC_2
+netplay_send,FUNC_3
+netplay_send_flush,FUNC_4
+runloop_get_libretro_system_info,FUNC_5
+strlcpy,FUNC_6
+netplay_handshake_info,FUNC_7
+netplay,VAR_2
+connection,VAR_3
+info_buf,VAR_4
+content_crc,VAR_5
+system,VAR_6

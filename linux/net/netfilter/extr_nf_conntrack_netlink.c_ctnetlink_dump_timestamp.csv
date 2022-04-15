@@ -1,0 +1,14 @@
+CTA_TIMESTAMP,VAR_0
+CTA_TIMESTAMP_PAD,VAR_1
+CTA_TIMESTAMP_START,VAR_2
+CTA_TIMESTAMP_STOP,VAR_3
+cpu_to_be64,FUNC_0
+nf_conn_tstamp_find,FUNC_1
+nla_nest_end,FUNC_2
+nla_nest_start,FUNC_3
+nla_put_be64,FUNC_4
+ctnetlink_dump_timestamp,FUNC_5
+skb,VAR_4
+ct,VAR_5
+nest_count,VAR_6
+tstamp,VAR_7

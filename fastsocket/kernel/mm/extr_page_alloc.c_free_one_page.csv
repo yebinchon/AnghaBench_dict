@@ -1,0 +1,13 @@
+NR_FREE_PAGES,VAR_0
+ZONE_ALL_UNRECLAIMABLE,VAR_1
+__free_one_page,FUNC_0
+__mod_zone_page_state,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+watermark_check_zone,FUNC_4
+zone_clear_flag,FUNC_5
+free_one_page,FUNC_6
+zone,VAR_2
+page,VAR_3
+order,VAR_4
+migratetype,VAR_5

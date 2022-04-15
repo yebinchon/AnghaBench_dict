@@ -1,0 +1,14 @@
+INT_MASK_TX,VAR_0
+TX_BD_READY,VAR_1
+ethoc_ack_irq,FUNC_0
+ethoc_read_bd,FUNC_1
+ethoc_update_tx_stats,FUNC_2
+netdev_priv,FUNC_3
+netif_wake_queue,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ethoc_tx,FUNC_7
+dev,VAR_2
+priv,VAR_3
+entry,VAR_4
+bd,VAR_5

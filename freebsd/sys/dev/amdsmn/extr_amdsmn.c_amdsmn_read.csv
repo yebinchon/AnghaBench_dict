@@ -1,0 +1,12 @@
+device_get_parent,FUNC_0
+device_get_softc,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+pci_read_config,FUNC_4
+pci_write_config,FUNC_5
+amdsmn_read,FUNC_6
+dev,VAR_0
+addr,VAR_1
+value,VAR_2
+sc,VAR_3
+parent,VAR_4

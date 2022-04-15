@@ -1,0 +1,16 @@
+SIOTRCR,VAR_0
+UART_IER_MSI,VAR_1
+UART_IER_RDI,VAR_2
+UART_IER_RLSI,VAR_3
+is_real_interrupt,FUNC_0
+jiffies,VAR_4
+mod_timer,FUNC_1
+serial_link_irq_chain,FUNC_2
+sio_init,FUNC_3
+sio_out,FUNC_4
+sio_reset,FUNC_5
+m32r_sio_startup,FUNC_6
+port,VAR_5
+up,VAR_6
+retval,VAR_7
+timeout,VAR_8

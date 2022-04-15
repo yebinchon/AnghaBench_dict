@@ -1,0 +1,14 @@
+device_set_wakeup_enable,FUNC_0
+gfar_set_mac_address,FUNC_1
+init_phy,FUNC_2
+init_registers,FUNC_3
+napi_disable,FUNC_4
+napi_enable,FUNC_5
+netdev_priv,FUNC_6
+netif_start_queue,FUNC_7
+skb_queue_head_init,FUNC_8
+startup_gfar,FUNC_9
+gfar_enet_open,FUNC_10
+dev,VAR_0
+priv,VAR_1
+err,VAR_2

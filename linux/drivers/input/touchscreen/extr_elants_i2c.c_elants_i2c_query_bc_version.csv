@@ -1,0 +1,13 @@
+CMD_HEADER_READ,VAR_0
+E_ELAN_INFO_BC_VER,VAR_1
+HEADER_SIZE,VAR_2
+dev_err,FUNC_0
+elants_i2c_execute_command,FUNC_1
+elants_i2c_parse_version,FUNC_2
+elants_i2c_query_bc_version,FUNC_3
+ts,VAR_3
+client,VAR_4
+cmd,VAR_5
+resp,VAR_6
+version,VAR_7
+error,VAR_8

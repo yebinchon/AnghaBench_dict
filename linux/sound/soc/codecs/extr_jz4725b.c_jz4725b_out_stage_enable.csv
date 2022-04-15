@@ -1,0 +1,17 @@
+BIT,FUNC_0
+EINVAL,VAR_0
+JZ4725B_CODEC_REG_IFR,VAR_1
+REG_IFR_RAMP_DOWN_DONE_OFFSET,VAR_2
+REG_IFR_RAMP_UP_DONE_OFFSET,VAR_3
+regmap_read_poll_timeout,FUNC_1
+regmap_update_bits,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+snd_soc_dapm_to_component,FUNC_4
+jz4725b_out_stage_enable,FUNC_5
+w,VAR_4
+kcontrol,VAR_5
+event,VAR_6
+codec,VAR_7
+icdc,VAR_8
+map,VAR_9
+val,VAR_10

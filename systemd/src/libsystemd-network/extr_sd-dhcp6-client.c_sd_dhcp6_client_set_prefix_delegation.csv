@@ -1,0 +1,7 @@
+DHCP6_REQUEST_IA_PD,VAR_0
+EINVAL,VAR_1
+SET_FLAG,FUNC_0
+assert_return,FUNC_1
+sd_dhcp6_client_set_prefix_delegation,FUNC_2
+client,VAR_2
+delegation,VAR_3

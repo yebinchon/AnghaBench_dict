@@ -1,0 +1,13 @@
+QE_CR_PROTOCOL_UNSPECIFIED,VAR_0
+QE_CR_SUBBLOCK_INVALID,VAR_1
+QE_IMMAP_SIZE,VAR_2
+QE_RESET,VAR_3
+get_qe_base,FUNC_0
+ioremap,FUNC_1
+panic,FUNC_2
+qe_immr,VAR_4
+qe_issue_cmd,FUNC_3
+qe_muram_init,FUNC_4
+qe_sdma_init,FUNC_5
+qe_snums_init,FUNC_6
+qe_reset,FUNC_7

@@ -1,0 +1,17 @@
+ISC_SHA1_BLOCK_LENGTH,VAR_0
+ISC_SHA1_DIGESTLENGTH,VAR_1
+OPAD,VAR_2
+REQUIRE,FUNC_0
+isc_hmacsha1_invalidate,FUNC_1
+isc_sha1_final,FUNC_2
+isc_sha1_init,FUNC_3
+isc_sha1_update,FUNC_4
+memcpy,FUNC_5
+memset,FUNC_6
+isc_hmacsha1_sign,FUNC_7
+ctx,VAR_3
+digest,VAR_4
+len,VAR_5
+opad,VAR_6
+newdigest,VAR_7
+i,VAR_8

@@ -1,0 +1,17 @@
+OHCI_INTR_MIE,VAR_0
+del_timer,FUNC_0
+dma_free_coherent,FUNC_1
+flush_scheduled_work,FUNC_2
+free_irq,FUNC_3
+hcd_to_ohci,FUNC_4
+ohci_dump,FUNC_5
+ohci_mem_cleanup,FUNC_6
+ohci_usb_reset,FUNC_7
+ohci_writel,FUNC_8
+quirk_amdiso,FUNC_9
+quirk_zfmicro,FUNC_10
+remove_debug_files,FUNC_11
+usb_amd_dev_put,FUNC_12
+ohci_stop,FUNC_13
+hcd,VAR_1
+ohci,VAR_2

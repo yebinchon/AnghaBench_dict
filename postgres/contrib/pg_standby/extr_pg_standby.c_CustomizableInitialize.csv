@@ -1,0 +1,16 @@
+MAXPGPATH,VAR_0
+SET_RESTORE_COMMAND,FUNC_0
+WALFilePath,VAR_1
+archiveLocation,VAR_2
+exit,FUNC_1
+fflush,FUNC_2
+fprintf,FUNC_3
+nextWALFileName,VAR_3
+progname,VAR_4
+restoreCommandType,VAR_5
+snprintf,FUNC_4
+stat,FUNC_5
+stat_buf,VAR_6
+stderr,VAR_7
+xlogFilePath,VAR_8
+CustomizableInitialize,FUNC_6

@@ -1,0 +1,15 @@
+ENODEV,VAR_0
+PCAP_ERRBUF_SIZE,VAR_1
+PCAP_ERROR,VAR_2
+PCAP_ERROR_NO_SUCH_DEVICE,VAR_3
+SIOCGIFHWADDR,VAR_4
+errno,VAR_5
+ioctl,FUNC_0
+memset,FUNC_1
+pcap_fmt_errmsg_for_errno,FUNC_2
+strlcpy,FUNC_3
+iface_get_arptype,FUNC_4
+fd,VAR_6
+device,VAR_7
+ebuf,VAR_8
+ifr,VAR_9

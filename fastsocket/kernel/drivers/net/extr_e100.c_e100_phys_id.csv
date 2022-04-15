@@ -1,0 +1,16 @@
+E100_82552_LED_OVERRIDE,VAR_0
+HZ,VAR_1
+MAX_SCHEDULE_TIMEOUT,VAR_2
+MII_LED_CONTROL,VAR_3
+del_timer_sync,FUNC_0
+jiffies,VAR_4
+mdio_write,FUNC_1
+mod_timer,FUNC_2
+msleep_interruptible,FUNC_3
+netdev_priv,FUNC_4
+phy_82552_v,VAR_5
+e100_phys_id,FUNC_5
+netdev,VAR_6
+data,VAR_7
+nic,VAR_8
+led_reg,VAR_9

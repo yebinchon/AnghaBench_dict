@@ -1,0 +1,16 @@
+FIELD_PREP,FUNC_0
+TSTCNTL,VAR_0
+TSTCNTL_REG_BANK_SEL,VAR_1
+TSTCNTL_TEST_MODE,VAR_2
+TSTCNTL_WRITE,VAR_3
+TSTCNTL_WRITE_ADDRESS,VAR_4
+TSTWRITE,VAR_5
+meson_gxl_close_banks,FUNC_1
+meson_gxl_open_banks,FUNC_2
+phy_write,FUNC_3
+meson_gxl_write_reg,FUNC_4
+phydev,VAR_6
+bank,VAR_7
+reg,VAR_8
+value,VAR_9
+ret,VAR_10

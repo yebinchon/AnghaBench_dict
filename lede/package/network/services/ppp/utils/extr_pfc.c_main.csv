@@ -1,0 +1,16 @@
+DLT_PPP_PPPD,VAR_0
+PPP_HDRLEN,VAR_1
+atoi,FUNC_0
+bpf_dump,FUNC_1
+pcap_compile,FUNC_2
+pcap_geterr,FUNC_3
+pcap_open_dead,FUNC_4
+printf,FUNC_5
+strcmp,FUNC_6
+main,FUNC_7
+argc,VAR_2
+argv,VAR_3
+pc,VAR_4
+filter,VAR_5
+netmask,VAR_6
+dflag,VAR_7

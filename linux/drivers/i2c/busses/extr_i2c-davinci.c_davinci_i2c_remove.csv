@@ -1,0 +1,14 @@
+DAVINCI_I2C_MDR_REG,VAR_0
+davinci_i2c_write_reg,FUNC_0
+i2c_davinci_cpufreq_deregister,FUNC_1
+i2c_del_adapter,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_dont_use_autosuspend,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put_noidle,FUNC_7
+pm_runtime_put_sync,FUNC_8
+davinci_i2c_remove,FUNC_9
+pdev,VAR_1
+dev,VAR_2
+ret,VAR_3

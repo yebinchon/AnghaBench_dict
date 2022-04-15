@@ -1,0 +1,13 @@
+RADEON_CONFIG_APER_SIZE,VAR_0
+RADEON_CONFIG_MEMSIZE,VAR_1
+RADEON_IS_IGP,VAR_2
+RADEON_NB_TOM,VAR_3
+RREG32,FUNC_0
+WREG32,FUNC_1
+pci_resource_len,FUNC_2
+pci_resource_start,FUNC_3
+r100_get_accessible_vram,FUNC_4
+r100_vram_init_sizes,FUNC_5
+rdev,VAR_4
+config_aper_size,VAR_5
+tom,VAR_6

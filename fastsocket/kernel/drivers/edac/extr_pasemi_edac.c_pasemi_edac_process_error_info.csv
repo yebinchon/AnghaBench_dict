@@ -1,0 +1,16 @@
+MCDEBUG_ERRLOG1A,VAR_0
+MCDEBUG_ERRLOG1A_MERR_CS_M,VAR_1
+MCDEBUG_ERRLOG1A_MERR_CS_S,VAR_2
+MCDEBUG_ERRSTA_MBE_STATUS,VAR_3
+MCDEBUG_ERRSTA_RFL_STATUS,VAR_4
+MCDEBUG_ERRSTA_SBE_STATUS,VAR_5
+edac_mc_handle_ce,FUNC_0
+edac_mc_handle_ue,FUNC_1
+pci_read_config_dword,FUNC_2
+to_pci_dev,FUNC_3
+pasemi_edac_process_error_info,FUNC_4
+mci,VAR_6
+errsta,VAR_7
+pdev,VAR_8
+errlog1a,VAR_9
+cs,VAR_10

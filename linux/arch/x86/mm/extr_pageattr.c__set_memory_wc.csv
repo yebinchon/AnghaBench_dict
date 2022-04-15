@@ -1,0 +1,11 @@
+_PAGE_CACHE_MASK,VAR_0
+_PAGE_CACHE_MODE_UC_MINUS,VAR_1
+_PAGE_CACHE_MODE_WC,VAR_2
+__pgprot,FUNC_0
+cachemode2pgprot,FUNC_1
+change_page_attr_set,FUNC_2
+change_page_attr_set_clr,FUNC_3
+_set_memory_wc,FUNC_4
+addr,VAR_3
+numpages,VAR_4
+ret,VAR_5

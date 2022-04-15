@@ -1,0 +1,16 @@
+RTL_IICBUS_TIMEOUT,VAR_0
+RTL_IICBUS_WRITE,VAR_1
+RTL_SMI_ACQUIRED_ASSERT,FUNC_0
+device_get_parent,FUNC_1
+iicbus_stop,FUNC_2
+iicbus_write,FUNC_3
+smi_select,FUNC_4
+smi_write_locked,FUNC_5
+sc,VAR_2
+addr,VAR_3
+data,VAR_4
+sleep,VAR_5
+err,VAR_6
+iicbus,VAR_7
+bytes,VAR_8
+xferd,VAR_9

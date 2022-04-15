@@ -1,0 +1,16 @@
+ChoosePixelFormat,FUNC_0
+CreateWindowA,FUNC_1
+DescribePixelFormat,FUNC_2
+DestroyWindow,FUNC_3
+GetDC,FUNC_4
+GetLastError,FUNC_5
+ReleaseDC,FUNC_6
+WS_OVERLAPPEDWINDOW,VAR_0
+memset,FUNC_7
+ok,FUNC_8
+test_pfd,FUNC_9
+pfd,VAR_1
+fmt,VAR_2
+pf,VAR_3
+hdc,VAR_4
+hwnd,VAR_5

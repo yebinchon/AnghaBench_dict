@@ -1,0 +1,17 @@
+EPOLLIN,VAR_0
+EPOLLRDNORM,VAR_1
+HFI1_CTXT_WAITING_RCV,VAR_2
+HFI1_RCVCTRL_INTRAVAIL_ENB,VAR_3
+hdrqempty,FUNC_0
+hfi1_rcvctrl,FUNC_1
+poll_wait,FUNC_2
+set_bit,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+poll_next,FUNC_6
+fp,VAR_4
+pt,VAR_5
+fd,VAR_6
+uctxt,VAR_7
+dd,VAR_8
+pollflag,VAR_9

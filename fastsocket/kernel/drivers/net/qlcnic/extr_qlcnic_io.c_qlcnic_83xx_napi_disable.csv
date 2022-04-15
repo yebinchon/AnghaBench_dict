@@ -1,0 +1,13 @@
+QLCNIC_ADAPTER_UP_MAGIC,VAR_0
+QLCNIC_MSIX_ENABLED,VAR_1
+QLCNIC_TX_INTR_SHARED,VAR_2
+napi_disable,FUNC_0
+napi_synchronize,FUNC_1
+qlcnic_83xx_disable_intr,FUNC_2
+qlcnic_83xx_disable_tx_intr,FUNC_3
+qlcnic_83xx_napi_disable,FUNC_4
+adapter,VAR_3
+ring,VAR_4
+sds_ring,VAR_5
+recv_ctx,VAR_6
+tx_ring,VAR_7

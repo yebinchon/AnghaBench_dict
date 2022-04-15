@@ -1,0 +1,13 @@
+dev_get_drvdata,FUNC_0
+rtc7301_select_bank,FUNC_1
+rtc7301_start,FUNC_2
+rtc7301_stop,FUNC_3
+rtc7301_write_time,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+udelay,FUNC_7
+rtc7301_set_time,FUNC_8
+dev,VAR_0
+tm,VAR_1
+priv,VAR_2
+flags,VAR_3

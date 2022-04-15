@@ -1,0 +1,12 @@
+_QIB_EVENT_DISARM_BUFS_BIT,VAR_0
+_QIB_MAX_EVENT_BIT,VAR_1
+clear_bit,FUNC_0
+disarm_req_delay,FUNC_1
+qib_disarm_piobufs_ifneeded,FUNC_2
+test_bit,FUNC_3
+qib_user_event_ack,FUNC_4
+rcd,VAR_2
+subctxt,VAR_3
+events,VAR_4
+ret,VAR_5
+i,VAR_6

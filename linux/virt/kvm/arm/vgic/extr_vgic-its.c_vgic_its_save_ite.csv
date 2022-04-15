@@ -1,0 +1,14 @@
+KVM_ITS_ITE_NEXT_SHIFT,VAR_0
+KVM_ITS_ITE_PINTID_SHIFT,VAR_1
+compute_next_eventid_offset,FUNC_0
+cpu_to_le64,FUNC_1
+kvm_write_guest_lock,FUNC_2
+vgic_its_save_ite,FUNC_3
+its,VAR_2
+dev,VAR_3
+ite,VAR_4
+gpa,VAR_5
+ite_esz,VAR_6
+kvm,VAR_7
+next_offset,VAR_8
+val,VAR_9

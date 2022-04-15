@@ -1,0 +1,16 @@
+OTAPDLYENA_MASK,VAR_0
+OTAPDLYENA_SHIFT,VAR_1
+OTAPDLYSEL_MASK,VAR_2
+OTAPDLYSEL_SHIFT,VAR_3
+PHY_CTRL4,VAR_4
+regmap_update_bits,FUNC_0
+sdhci_pltfm_priv,FUNC_1
+sdhci_priv,FUNC_2
+sdhci_set_clock,FUNC_3
+sdhci_j721e_4bit_set_clock,FUNC_4
+host,VAR_5
+clock,VAR_6
+pltfm_host,VAR_7
+sdhci_am654,VAR_8
+val,VAR_9
+mask,VAR_10

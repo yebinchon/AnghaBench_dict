@@ -1,0 +1,14 @@
+CTLFLAG_RD,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+URTW_SYSCTL_STAT_ADD32,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+urtw_sysctl_node,FUNC_5
+sc,VAR_2
+ctx,VAR_3
+child,VAR_4
+parent,VAR_5
+tree,VAR_6
+stats,VAR_7

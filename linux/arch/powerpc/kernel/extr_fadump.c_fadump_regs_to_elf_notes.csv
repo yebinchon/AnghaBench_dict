@@ -1,0 +1,9 @@
+CRASH_CORE_NOTE_NAME,VAR_0
+NT_PRSTATUS,VAR_1
+append_elf_note,FUNC_0
+elf_core_copy_kernel_regs,FUNC_1
+memset,FUNC_2
+fadump_regs_to_elf_notes,FUNC_3
+buf,VAR_2
+regs,VAR_3
+prstatus,VAR_4

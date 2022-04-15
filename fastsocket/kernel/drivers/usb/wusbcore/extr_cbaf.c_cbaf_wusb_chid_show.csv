@@ -1,0 +1,13 @@
+PAGE_SIZE,VAR_0
+WUSB_CKHDID_STRSIZE,VAR_1
+ckhdid_printf,FUNC_0
+scnprintf,FUNC_1
+to_usb_interface,FUNC_2
+usb_get_intfdata,FUNC_3
+cbaf_wusb_chid_show,FUNC_4
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+iface,VAR_5
+cbaf,VAR_6
+pr_chid,VAR_7

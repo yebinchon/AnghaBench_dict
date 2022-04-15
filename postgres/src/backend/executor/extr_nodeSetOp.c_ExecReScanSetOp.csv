@@ -1,0 +1,9 @@
+ExecClearTuple,FUNC_0
+ExecReScan,FUNC_1
+MemoryContextResetAndDeleteChildren,FUNC_2
+ResetTupleHashIterator,FUNC_3
+ResetTupleHashTable,FUNC_4
+SETOP_HASHED,VAR_0
+heap_freetuple,FUNC_5
+ExecReScanSetOp,FUNC_6
+node,VAR_1

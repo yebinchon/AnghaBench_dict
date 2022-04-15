@@ -1,0 +1,11 @@
+NICVF_INTR_RBDR,VAR_0
+nicvf_clear_intr,FUNC_0
+nicvf_disable_intr,FUNC_1
+nicvf_is_intr_enabled,FUNC_2
+taskqueue_enqueue,FUNC_3
+nicvf_rbdr_intr_handler,FUNC_4
+arg,VAR_1
+nic,VAR_2
+qs,VAR_3
+rbdr,VAR_4
+qidx,VAR_5

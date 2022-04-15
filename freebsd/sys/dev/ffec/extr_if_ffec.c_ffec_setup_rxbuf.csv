@@ -1,0 +1,15 @@
+BUS_DMASYNC_PREREAD,VAR_0
+ETHER_ALIGN,VAR_1
+FECFLAG_RACC,VAR_2
+bus_dmamap_load_mbuf_sg,FUNC_0
+bus_dmamap_sync,FUNC_1
+ffec_setup_rxdesc,FUNC_2
+m_adj,FUNC_3
+roundup,FUNC_4
+ffec_setup_rxbuf,FUNC_5
+sc,VAR_3
+idx,VAR_4
+m,VAR_5
+error,VAR_6
+nsegs,VAR_7
+seg,VAR_8

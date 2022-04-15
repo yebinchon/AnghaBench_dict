@@ -1,0 +1,13 @@
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+TWL4030_OPTION_1,VAR_1
+TWL4030_REG_CODEC_MODE,VAR_2
+snd_pcm_hw_constraint_minmax,FUNC_0
+twl4030_constraints,FUNC_1
+twl4030_read_reg_cache,FUNC_2
+twl4030_startup,FUNC_3
+substream,VAR_3
+dai,VAR_4
+rtd,VAR_5
+socdev,VAR_6
+codec,VAR_7
+twl4030,VAR_8

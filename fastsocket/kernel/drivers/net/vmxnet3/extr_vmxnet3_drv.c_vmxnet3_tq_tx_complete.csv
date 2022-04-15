@@ -1,0 +1,17 @@
+VMXNET3_TCD_GET_GEN,FUNC_0
+VMXNET3_TCD_GET_TXIDX,FUNC_1
+VMXNET3_WAKE_QUEUE_THRESHOLD,FUNC_2
+netif_carrier_ok,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+unlikely,FUNC_6
+vmxnet3_cmd_ring_desc_avail,FUNC_7
+vmxnet3_comp_ring_adv_next2proc,FUNC_8
+vmxnet3_tq_stopped,FUNC_9
+vmxnet3_tq_wake,FUNC_10
+vmxnet3_unmap_pkt,FUNC_11
+vmxnet3_tq_tx_complete,FUNC_12
+tq,VAR_0
+adapter,VAR_1
+completed,VAR_2
+gdesc,VAR_3

@@ -1,0 +1,14 @@
+IPS_ADAPTER_ID,VAR_0
+IPS_IOCTL_COMMAND,VAR_1
+METHOD_TRACE,FUNC_0
+kmap_atomic,FUNC_1
+kunmap_atomic,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+scsi_sglist,FUNC_5
+sg_page,FUNC_6
+ips_is_passthru,FUNC_7
+SC,VAR_2
+flags,VAR_3
+sg,VAR_4
+buffer,VAR_5

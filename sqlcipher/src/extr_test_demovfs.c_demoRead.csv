@@ -1,0 +1,16 @@
+SEEK_SET,VAR_0
+SQLITE_IOERR_READ,VAR_1
+SQLITE_IOERR_SHORT_READ,VAR_2
+SQLITE_OK,VAR_3
+demoFlushBuffer,FUNC_0
+lseek,FUNC_1
+read,FUNC_2
+demoRead,FUNC_3
+pFile,VAR_4
+zBuf,VAR_5
+iAmt,VAR_6
+iOfst,VAR_7
+p,VAR_8
+ofst,VAR_9
+nRead,VAR_10
+rc,VAR_11

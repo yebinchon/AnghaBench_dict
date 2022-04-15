@@ -1,0 +1,14 @@
+Assert,FUNC_0
+DistPartitionKey,FUNC_1
+GetRTEIdentity,FUNC_2
+IsDistributedTable,FUNC_3
+RTE_RELATION,VAR_0
+lappend,FUNC_4
+palloc0,FUNC_5
+AddRteRelationToAttributeEquivalenceClass,FUNC_6
+attrEquivalenceClass,VAR_1
+rangeTableEntry,VAR_2
+varToBeAdded,VAR_3
+attributeEqMember,VAR_4
+relationId,VAR_5
+relationPartitionKey,VAR_6

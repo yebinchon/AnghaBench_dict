@@ -1,0 +1,14 @@
+KEY_DOWN,VAR_0
+PRESSED,VAR_1
+RELEASED,VAR_2
+__this_cpu_write,FUNC_0
+input_report_key,FUNC_1
+input_sync,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+preempt_disable,FUNC_5
+preempt_enable,FUNC_6
+reporting_keystroke,VAR_3
+virt_keyboard,VAR_4
+speakup_fake_down_arrow,FUNC_7
+flags,VAR_5

@@ -1,0 +1,17 @@
+ETH_P_IP,VAR_0
+ETH_P_IPV6,VAR_1
+IPPROTO_GRE,VAR_2
+IPPROTO_IPIP,VAR_3
+IP_VS_TUNNEL_ENCAP_FLAG_CSUM,VAR_4
+TUNNEL_CSUM,VAR_5
+gre_build_header,FUNC_0
+gre_calc_hlen,FUNC_1
+htons,FUNC_2
+ipvs_gre_encap,FUNC_3
+net,VAR_6
+skb,VAR_7
+cp,VAR_8
+next_protocol,VAR_9
+proto,VAR_10
+tflags,VAR_11
+hdrlen,VAR_12

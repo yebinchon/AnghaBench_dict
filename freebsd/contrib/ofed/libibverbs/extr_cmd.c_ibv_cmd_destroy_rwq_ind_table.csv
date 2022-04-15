@@ -1,0 +1,9 @@
+DESTROY_RWQ_IND_TBL,VAR_0
+IBV_INIT_CMD_EX,FUNC_0
+errno,VAR_1
+memset,FUNC_1
+write,FUNC_2
+ibv_cmd_destroy_rwq_ind_table,FUNC_3
+rwq_ind_table,VAR_2
+cmd,VAR_3
+ret,VAR_4

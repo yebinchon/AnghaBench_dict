@@ -1,0 +1,17 @@
+del_timer_sync,FUNC_0
+netdev_priv,FUNC_1
+netif_device_detach,FUNC_2
+netif_running,FUNC_3
+pci_choose_state,FUNC_4
+pci_disable_device,FUNC_5
+pci_get_drvdata,FUNC_6
+pci_save_state,FUNC_7
+pci_set_power_state,FUNC_8
+ql_adapter_down,FUNC_9
+ql_wol,FUNC_10
+qlge_suspend,FUNC_11
+pdev,VAR_0
+state,VAR_1
+ndev,VAR_2
+qdev,VAR_3
+err,VAR_4

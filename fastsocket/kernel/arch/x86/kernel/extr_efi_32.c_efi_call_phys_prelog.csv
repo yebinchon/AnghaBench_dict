@@ -1,0 +1,17 @@
+GDT_SIZE,VAR_0
+PAGE_OFFSET,VAR_1
+X86_CR4_PAE,VAR_2
+__flush_tlb_all,FUNC_0
+__pa,FUNC_1
+efi_bak_pg_dir_pointer,VAR_3
+efi_rt_eflags,VAR_4
+get_cpu_gdt_table,FUNC_2
+load_gdt,FUNC_3
+local_irq_save,FUNC_4
+pgd_index,FUNC_5
+read_cr4_safe,FUNC_6
+swapper_pg_dir,VAR_5
+efi_call_phys_prelog,FUNC_7
+cr4,VAR_6
+temp,VAR_7
+gdt_descr,VAR_8

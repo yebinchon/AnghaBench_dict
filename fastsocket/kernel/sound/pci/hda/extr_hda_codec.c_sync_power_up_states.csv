@@ -1,0 +1,13 @@
+AC_PWRST_D0,VAR_0
+AC_VERB_SET_POWER_STATE,VAR_1
+AC_WCAP_POWER,VAR_2
+get_wcaps,FUNC_0
+snd_hda_check_power_state,FUNC_1
+snd_hda_codec_write,FUNC_2
+stub1,FUNC_3
+sync_power_up_states,FUNC_4
+codec,VAR_3
+nid,VAR_4
+i,VAR_5
+wcaps,VAR_6
+target,VAR_7

@@ -1,0 +1,10 @@
+SPIFLASH,VAR_0
+SPI_MEM_WP_REG_M,VAR_1
+SPI_WP_REG_M,VAR_2
+g_rom_spiflash_dummy_len_plus,VAR_3
+execute_flash_command,FUNC_0
+command,VAR_4
+mosi_data,VAR_5
+mosi_len,VAR_6
+miso_len,VAR_7
+old_ctrl_reg,VAR_8

@@ -1,0 +1,16 @@
+CHANSIZE_MASK,VAR_0
+CONFIG_MEMSIZE,VAR_1
+MC_ARB_RAMCFG,VAR_2
+MC_SHARED_CHMAP,VAR_3
+NOOFCHAN_MASK,VAR_4
+NOOFCHAN_SHIFT,VAR_5
+RREG32,FUNC_0
+pci_resource_len,FUNC_1
+pci_resource_start,FUNC_2
+radeon_update_bandwidth_info,FUNC_3
+si_vram_gtt_location,FUNC_4
+cik_mc_init,FUNC_5
+rdev,VAR_6
+tmp,VAR_7
+chansize,VAR_8
+numchan,VAR_9

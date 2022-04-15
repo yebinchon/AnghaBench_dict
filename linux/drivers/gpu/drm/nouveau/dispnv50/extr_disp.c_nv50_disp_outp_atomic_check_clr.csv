@@ -1,0 +1,15 @@
+DRM_MODE_ENCODER_DPMST,VAR_0
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+drm_atomic_crtc_needs_modeset,FUNC_2
+drm_atomic_get_new_crtc_state,FUNC_3
+drm_atomic_get_old_crtc_state,FUNC_4
+nv50_disp_outp_atomic_add,FUNC_5
+nv50_disp_outp_atomic_check_clr,FUNC_6
+atom,VAR_1
+old_connector_state,VAR_2
+encoder,VAR_3
+old_crtc_state,VAR_4
+new_crtc_state,VAR_5
+crtc,VAR_6
+outp,VAR_7

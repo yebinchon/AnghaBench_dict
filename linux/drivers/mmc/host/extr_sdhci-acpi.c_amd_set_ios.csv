@@ -1,0 +1,13 @@
+MMC_TIMING_MMC_HS,VAR_0
+MMC_TIMING_MMC_HS200,VAR_1
+MMC_TIMING_MMC_HS400,VAR_2
+SDHCI_HOST_CONTROL2,VAR_3
+mmc_priv,FUNC_0
+sdhci_acpi_amd_hs400_dll,FUNC_1
+sdhci_set_ios,FUNC_2
+sdhci_writew,FUNC_3
+amd_set_ios,FUNC_4
+mmc,VAR_4
+ios,VAR_5
+host,VAR_6
+old_timing,VAR_7

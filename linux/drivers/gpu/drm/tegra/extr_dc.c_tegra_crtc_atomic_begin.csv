@@ -1,0 +1,9 @@
+drm_crtc_arm_vblank_event,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_vblank_get,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+tegra_crtc_atomic_begin,FUNC_5
+crtc,VAR_0
+old_crtc_state,VAR_1
+flags,VAR_2

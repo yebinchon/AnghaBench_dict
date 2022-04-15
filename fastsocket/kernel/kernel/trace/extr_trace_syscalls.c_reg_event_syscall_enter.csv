@@ -1,0 +1,16 @@
+ENOSYS,VAR_0
+NR_syscalls,VAR_1
+enabled_enter_syscalls,VAR_2
+ftrace_syscall_enter,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+register_trace_sys_enter,FUNC_2
+set_bit,FUNC_3
+sys_refcount_enter,VAR_4
+syscall_name_to_nr,FUNC_4
+syscall_trace_lock,VAR_5
+reg_event_syscall_enter,FUNC_5
+call,VAR_6
+ret,VAR_7
+num,VAR_8
+name,VAR_9

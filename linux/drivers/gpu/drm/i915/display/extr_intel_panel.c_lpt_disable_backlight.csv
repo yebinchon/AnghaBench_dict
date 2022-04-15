@@ -1,0 +1,15 @@
+BLC_PWM_CPU_CTL2,VAR_0
+BLC_PWM_PCH_CTL1,VAR_1
+BLM_PCH_PWM_ENABLE,VAR_2
+BLM_PWM_ENABLE,VAR_3
+DRM_DEBUG_KMS,FUNC_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+intel_panel_actually_set_backlight,FUNC_3
+to_i915,FUNC_4
+to_intel_connector,FUNC_5
+lpt_disable_backlight,FUNC_6
+old_conn_state,VAR_4
+connector,VAR_5
+dev_priv,VAR_6
+tmp,VAR_7

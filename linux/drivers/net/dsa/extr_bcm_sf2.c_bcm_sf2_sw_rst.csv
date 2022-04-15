@@ -1,0 +1,12 @@
+CORE_WATCHDOG_CTRL,VAR_0
+EN_CHIP_RST,VAR_1
+EN_SW_RESET,VAR_2
+ETIMEDOUT,VAR_3
+SOFTWARE_RESET,VAR_4
+core_readl,FUNC_0
+core_writel,FUNC_1
+usleep_range,FUNC_2
+bcm_sf2_sw_rst,FUNC_3
+priv,VAR_5
+timeout,VAR_6
+reg,VAR_7

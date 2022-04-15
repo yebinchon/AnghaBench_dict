@@ -1,0 +1,16 @@
+BGMAC_DESC_CTL1_LEN,VAR_0
+BGMAC_TX_RING_SLOTS,VAR_1
+DMA_TO_DEVICE,VAR_2
+dev_kfree_skb,FUNC_0
+dma_unmap_page,FUNC_1
+dma_unmap_single,FUNC_2
+le32_to_cpu,FUNC_3
+bgmac_dma_tx_ring_free,FUNC_4
+bgmac,VAR_3
+ring,VAR_4
+dma_dev,VAR_5
+dma_desc,VAR_6
+slot,VAR_7
+i,VAR_8
+ctl1,VAR_9
+len,VAR_10

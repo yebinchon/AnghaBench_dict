@@ -1,0 +1,17 @@
+HFCPCI_INTS_TIMER,VAR_0
+HFCPCI_INT_M1,VAR_1
+HFCPCI_MST_MODE,VAR_2
+L1_DEB_ISAC,VAR_3
+Write_hfc,FUNC_0
+debugl1,FUNC_1
+inithfcpci,FUNC_2
+msleep,FUNC_3
+release_io_hfcpci,FUNC_4
+reset_hfcpci,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+hfcpci_card_msg,FUNC_8
+cs,VAR_4
+mt,VAR_5
+arg,VAR_6
+flags,VAR_7

@@ -1,0 +1,13 @@
+lua_createtable,FUNC_0
+lua_setfield,FUNC_1
+ngx_http_lua_inject_req_args_api,FUNC_2
+ngx_http_lua_inject_req_body_api,FUNC_3
+ngx_http_lua_inject_req_header_api,FUNC_4
+ngx_http_lua_inject_req_method_api,FUNC_5
+ngx_http_lua_inject_req_misc_api,FUNC_6
+ngx_http_lua_inject_req_socket_api,FUNC_7
+ngx_http_lua_inject_req_time_api,FUNC_8
+ngx_http_lua_inject_req_uri_api,FUNC_9
+ngx_http_lua_inject_req_api,FUNC_10
+log,VAR_0
+L,VAR_1

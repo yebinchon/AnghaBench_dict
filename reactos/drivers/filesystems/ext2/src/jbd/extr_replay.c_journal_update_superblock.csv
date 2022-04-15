@@ -1,0 +1,15 @@
+BUFFER_TRACE,FUNC_0
+JFS_FLUSHED,VAR_0
+SWRITE,VAR_1
+cpu_to_be32,FUNC_1
+jbd_debug,FUNC_2
+jbd_lock,FUNC_3
+jbd_unlock,FUNC_4
+ll_rw_block,FUNC_5
+mark_buffer_dirty,FUNC_6
+sync_dirty_buffer,FUNC_7
+journal_update_superblock,FUNC_8
+journal,VAR_2
+wait,VAR_3
+sb,VAR_4
+bh,VAR_5

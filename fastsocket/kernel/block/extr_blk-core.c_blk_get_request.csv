@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+READ,VAR_0
+WRITE,VAR_1
+__GFP_WAIT,VAR_2
+get_request,FUNC_1
+get_request_wait,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+blk_get_request,FUNC_5
+q,VAR_3
+rw,VAR_4
+gfp_mask,VAR_5
+rq,VAR_6

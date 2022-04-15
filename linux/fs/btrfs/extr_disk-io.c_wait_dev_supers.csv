@@ -1,0 +1,17 @@
+BTRFS_BDEV_BLOCKSIZE,VAR_0
+BTRFS_SUPER_INFO_SIZE,VAR_1
+BTRFS_SUPER_MIRROR_MAX,VAR_2
+__find_get_block,FUNC_0
+brelse,FUNC_1
+btrfs_err,FUNC_2
+btrfs_sb_offset,FUNC_3
+buffer_uptodate,FUNC_4
+wait_on_buffer,FUNC_5
+wait_dev_supers,FUNC_6
+device,VAR_3
+max_mirrors,VAR_4
+bh,VAR_5
+i,VAR_6
+errors,VAR_7
+primary_failed,VAR_8
+bytenr,VAR_9

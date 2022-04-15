@@ -1,0 +1,16 @@
+AC_AMPCAP_MUTE_SHIFT,VAR_0
+AC_AMPCAP_NUM_STEPS_SHIFT,VAR_1
+AC_AMPCAP_OFFSET_SHIFT,VAR_2
+AC_AMPCAP_STEP_SIZE_SHIFT,VAR_3
+ENOMEM,VAR_4
+HDA_INPUT,VAR_5
+snd_hda_add_verbs,FUNC_0
+snd_hda_override_amp_caps,FUNC_1
+via_free,FUNC_2
+via_new_spec,FUNC_3
+via_parse_auto_config,FUNC_4
+vt1702_init_verbs,VAR_6
+patch_vt1702,FUNC_5
+codec,VAR_7
+spec,VAR_8
+err,VAR_9

@@ -1,0 +1,16 @@
+FDEV,FUNC_0
+SM_I,FUNC_1
+__update_discard_tree_range,FUNC_2
+f2fs_bdev_support_discard,FUNC_3
+f2fs_is_multi_device,FUNC_4
+f2fs_target_device_index,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+trace_f2fs_queue_discard,FUNC_8
+__queue_discard_cmd,FUNC_9
+sbi,VAR_0
+bdev,VAR_1
+blkstart,VAR_2
+blklen,VAR_3
+lblkstart,VAR_4
+devi,VAR_5

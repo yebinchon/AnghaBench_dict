@@ -1,0 +1,11 @@
+CLKSET0_PRIVATE,VAR_0
+CLKSET0_USB30_FSEL_USB_EXTAL,VAR_1
+PHY_ENABLE_RESET_EN,VAR_2
+USB30_CLKSET0,VAR_3
+USB30_PHY_ENABLE,VAR_4
+rcar_gen3_phy_usb3_enable_ssc,FUNC_0
+usleep_range,FUNC_1
+write_clkset1_for_usb_extal,FUNC_2
+writew,FUNC_3
+rcar_gen3_phy_usb3_select_usb_extal,FUNC_4
+r,VAR_5

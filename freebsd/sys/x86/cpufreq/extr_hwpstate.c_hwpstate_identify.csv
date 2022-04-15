@@ -1,0 +1,14 @@
+AMDPM_HW_PSTATE,VAR_0
+BUS_ADD_CHILD,FUNC_0
+CPUID_TO_FAMILY,FUNC_1
+CPU_VENDOR_AMD,VAR_1
+HWPSTATE_DEBUG,FUNC_2
+amd_pminfo,VAR_2
+cpu_id,VAR_3
+cpu_vendor_id,VAR_4
+device_find_child,FUNC_3
+device_printf,FUNC_4
+resource_disabled,FUNC_5
+hwpstate_identify,FUNC_6
+driver,VAR_5
+parent,VAR_6

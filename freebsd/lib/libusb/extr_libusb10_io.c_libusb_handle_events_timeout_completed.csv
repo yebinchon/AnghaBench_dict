@@ -1,0 +1,11 @@
+DPRINTF,FUNC_0
+GET_CONTEXT,FUNC_1
+LIBUSB_DEBUG_FUNCTION,VAR_0
+libusb_handle_events_locked,FUNC_2
+libusb_lock_events,FUNC_3
+libusb_unlock_events,FUNC_4
+libusb_handle_events_timeout_completed,FUNC_5
+ctx,VAR_1
+tv,VAR_2
+completed,VAR_3
+err,VAR_4

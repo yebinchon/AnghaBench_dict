@@ -1,0 +1,16 @@
+mmc_test_check_result,FUNC_0
+mmc_test_prepare_mrq,FUNC_1
+mmc_test_wait_busy,FUNC_2
+mmc_wait_for_req,FUNC_3
+mmc_test_simple_transfer,FUNC_4
+test,VAR_0
+sg,VAR_1
+sg_len,VAR_2
+dev_addr,VAR_3
+blocks,VAR_4
+blksz,VAR_5
+write,VAR_6
+mrq,VAR_7
+cmd,VAR_8
+stop,VAR_9
+data,VAR_10

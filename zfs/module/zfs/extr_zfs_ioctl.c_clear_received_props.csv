@@ -1,0 +1,14 @@
+ZPROP_SRC_NONE,VAR_0
+ZPROP_SRC_RECEIVED,VAR_1
+dsl_prop_get_hasrecvd,FUNC_0
+nvlist_empty,FUNC_1
+nvlist_free,FUNC_2
+props_skip,FUNC_3
+zfs_set_prop_nvlist,FUNC_4
+clear_received_props,FUNC_5
+dsname,VAR_2
+props,VAR_3
+skipped,VAR_4
+err,VAR_5
+cleared_props,VAR_6
+flags,VAR_7

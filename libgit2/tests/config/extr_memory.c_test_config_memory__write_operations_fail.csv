@@ -1,0 +1,8 @@
+backend,VAR_0
+cl_git_fail,FUNC_0
+git_config_backend_delete,FUNC_1
+git_config_backend_lock,FUNC_2
+git_config_backend_set_string,FUNC_3
+git_config_backend_unlock,FUNC_4
+setup_backend,FUNC_5
+test_config_memory__write_operations_fail,FUNC_6

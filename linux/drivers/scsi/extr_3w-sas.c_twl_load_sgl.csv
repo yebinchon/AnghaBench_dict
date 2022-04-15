@@ -1,0 +1,17 @@
+TW_CPU_TO_SGL,FUNC_0
+TW_LUN_OUT,FUNC_1
+TW_OP_EXECUTE_SCSI,VAR_0
+TW_OP_OUT,FUNC_2
+TW_REQ_LUN_IN,FUNC_3
+TW_SGL_OUT,FUNC_4
+cpu_to_le16,FUNC_5
+twl_load_sgl,FUNC_6
+tw_dev,VAR_1
+full_command_packet,VAR_2
+request_id,VAR_3
+dma_handle,VAR_4
+length,VAR_5
+oldcommand,VAR_6
+newcommand,VAR_7
+sgl,VAR_8
+pae,VAR_9

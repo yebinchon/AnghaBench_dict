@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+THR_PSHARED_PTR,VAR_2
+THR_UMUTEX_LOCK,FUNC_0
+THR_UMUTEX_UNLOCK,FUNC_1
+__thr_pshared_destroy,FUNC_2
+__thr_pshared_offpage,FUNC_3
+_get_curthread,FUNC_4
+_thr_ucond_wait,FUNC_5
+free,FUNC_6
+_pthread_barrier_destroy,FUNC_7
+barrier,VAR_3
+bar,VAR_4
+curthread,VAR_5
+pshared,VAR_6

@@ -1,0 +1,16 @@
+DDI_BUF_BALANCE_LEG_ENABLE,VAR_0
+DDI_BUF_TRANS_HI,FUNC_0
+DDI_BUF_TRANS_LO,FUNC_1
+I915_WRITE,FUNC_2
+IS_GEN9_BC,FUNC_3
+WARN_ON_ONCE,FUNC_4
+intel_ddi_get_buf_trans_hdmi,FUNC_5
+to_i915,FUNC_6
+intel_prepare_hdmi_ddi_buffers,FUNC_7
+encoder,VAR_1
+level,VAR_2
+dev_priv,VAR_3
+iboost_bit,VAR_4
+n_entries,VAR_5
+port,VAR_6
+ddi_translations,VAR_7

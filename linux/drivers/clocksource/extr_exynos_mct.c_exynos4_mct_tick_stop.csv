@@ -1,0 +1,11 @@
+MCT_L_TCON_INT_START,VAR_0
+MCT_L_TCON_OFFSET,VAR_1
+MCT_L_TCON_TIMER_START,VAR_2
+exynos4_mct_write,FUNC_0
+readl_relaxed,FUNC_1
+reg_base,VAR_3
+exynos4_mct_tick_stop,FUNC_2
+mevt,VAR_4
+tmp,VAR_5
+mask,VAR_6
+offset,VAR_7

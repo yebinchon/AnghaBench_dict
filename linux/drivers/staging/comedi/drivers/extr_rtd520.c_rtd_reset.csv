@@ -1,0 +1,11 @@
+LAS0_BOARD_RESET,VAR_0
+LAS0_CLEAR,VAR_1
+LAS0_IT,VAR_2
+PLX_REG_INTCSR,VAR_3
+readw,FUNC_0
+usleep_range,FUNC_1
+writel,FUNC_2
+writew,FUNC_3
+rtd_reset,FUNC_4
+dev,VAR_4
+devpriv,VAR_5

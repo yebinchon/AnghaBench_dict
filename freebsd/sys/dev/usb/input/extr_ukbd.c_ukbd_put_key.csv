@@ -1,0 +1,14 @@
+DPRINTF,FUNC_0
+EVDEV_RCPT_HW_KBD,VAR_0
+EV_KEY,VAR_1
+KEY_INDEX,FUNC_1
+KEY_RELEASE,VAR_2
+UKBD_IN_BUF_SIZE,VAR_3
+UKBD_LOCK_ASSERT,FUNC_2
+evdev_hid2key,FUNC_3
+evdev_push_event,FUNC_4
+evdev_rcpt_mask,VAR_4
+evdev_sync,FUNC_5
+ukbd_put_key,FUNC_6
+sc,VAR_5
+key,VAR_6

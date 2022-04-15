@@ -1,0 +1,15 @@
+STATIC_KEY_CHECK_USE,FUNC_0
+atomic_cmpxchg,FUNC_1
+atomic_inc,FUNC_2
+atomic_read,FUNC_3
+atomic_set,FUNC_4
+atomic_set_release,FUNC_5
+jump_label_lock,FUNC_6
+jump_label_unlock,FUNC_7
+jump_label_update,FUNC_8
+likely,FUNC_9
+lockdep_assert_cpus_held,FUNC_10
+static_key_slow_inc_cpuslocked,FUNC_11
+key,VAR_0
+v,VAR_1
+v1,VAR_2

@@ -1,0 +1,12 @@
+BIT,FUNC_0
+GPIO_PDDR,VAR_0
+gpiochip_get_data,FUNC_1
+pinctrl_gpio_direction_input,FUNC_2
+vf610_gpio_readl,FUNC_3
+vf610_gpio_writel,FUNC_4
+vf610_gpio_direction_input,FUNC_5
+chip,VAR_1
+gpio,VAR_2
+port,VAR_3
+mask,VAR_4
+val,VAR_5

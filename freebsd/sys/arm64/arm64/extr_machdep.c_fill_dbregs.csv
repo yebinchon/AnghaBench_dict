@@ -1,0 +1,14 @@
+DBGMON_ENABLED,VAR_0
+ID_AA64DFR0_BRPs_SHIFT,VAR_1
+ID_AA64DFR0_DebugVer_SHIFT,VAR_2
+ID_AA64DFR0_EL1,VAR_3
+extract_user_id_field,FUNC_0
+memset,FUNC_1
+fill_dbregs,FUNC_2
+td,VAR_4
+regs,VAR_5
+monitor,VAR_6
+count,VAR_7
+i,VAR_8
+debug_ver,VAR_9
+nbkpts,VAR_10

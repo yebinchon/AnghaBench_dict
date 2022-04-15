@@ -1,0 +1,11 @@
+EXTERNAL_AVX2_FAST,FUNC_0
+EXTERNAL_SSE4,FUNC_1
+EXTERNAL_SSSE3,FUNC_2
+av_get_cpu_flags,FUNC_3
+ff_blend_frames16_avx2,VAR_0
+ff_blend_frames16_sse4,VAR_1
+ff_blend_frames_avx2,VAR_2
+ff_blend_frames_ssse3,VAR_3
+ff_framerate_init_x86,FUNC_4
+s,VAR_4
+cpu_flags,VAR_5

@@ -1,0 +1,12 @@
+pci_read_config_word,FUNC_0
+sprintf,FUNC_1
+to_pci_dev,FUNC_2
+to_sensor_dev_attr,FUNC_3
+thresh_show,FUNC_4
+dev,VAR_0
+devattr,VAR_1
+buf,VAR_2
+pdev,VAR_3
+reg,VAR_4
+temp,VAR_5
+tsthr,VAR_6

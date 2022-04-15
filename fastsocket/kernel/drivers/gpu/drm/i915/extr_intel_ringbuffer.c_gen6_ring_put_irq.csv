@@ -1,0 +1,15 @@
+GEN6_RENDER_L3_PARITY_ERROR,VAR_0
+GTIMR,VAR_1
+HAS_L3_GPU_CACHE,FUNC_0
+I915_WRITE,FUNC_1
+I915_WRITE_IMR,FUNC_2
+POSTING_READ,FUNC_3
+RCS,VAR_2
+gen6_gt_force_wake_put,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+gen6_ring_put_irq,FUNC_7
+ring,VAR_3
+dev,VAR_4
+dev_priv,VAR_5
+flags,VAR_6

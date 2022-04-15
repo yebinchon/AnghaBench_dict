@@ -1,0 +1,14 @@
+GINTMSK,VAR_0
+GINTSTS,VAR_1
+GINTSTS_CONIDSTSCHNG,VAR_2
+GINTSTS_SOF,VAR_3
+dev_dbg,FUNC_0
+dwc2_is_host_mode,FUNC_1
+dwc2_readl,FUNC_2
+dwc2_writel,FUNC_3
+queue_work,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+dwc2_handle_conn_id_status_change_intr,FUNC_7
+hsotg,VAR_4
+gintmsk,VAR_5

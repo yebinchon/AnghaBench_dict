@@ -1,0 +1,17 @@
+MAXPATHLEN,VAR_0
+MNTTYPE_ZFS,VAR_1
+MNT_NOWAIT,VAR_2
+fprintf,FUNC_0
+getmntinfo,FUNC_1
+jail_remove,FUNC_2
+stderr,VAR_3
+strncmp,FUNC_3
+strnlen,FUNC_4
+unmount,FUNC_5
+bectl_jail_cleanup,FUNC_6
+mountpoint,VAR_4
+jid,VAR_5
+mntbuf,VAR_6
+i,VAR_7
+searchlen,VAR_8
+mntsize,VAR_9

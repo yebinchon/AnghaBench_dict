@@ -1,0 +1,17 @@
+BYT_RT5651_MCLK_25MHZ,VAR_0
+BYT_RT5651_MCLK_EN,VAR_1
+RT5651_PLL1_S_BCLK1,VAR_2
+RT5651_PLL1_S_MCLK,VAR_3
+RT5651_SCLK_S_PLL1,VAR_4
+SND_SOC_CLOCK_IN,VAR_5
+byt_rt5651_quirk,VAR_6
+dev_err,FUNC_0
+snd_soc_dai_set_pll,FUNC_1
+snd_soc_dai_set_sysclk,FUNC_2
+byt_rt5651_prepare_and_enable_pll1,FUNC_3
+codec_dai,VAR_7
+rate,VAR_8
+bclk_ratio,VAR_9
+clk_id,VAR_10
+clk_freq,VAR_11
+ret,VAR_12

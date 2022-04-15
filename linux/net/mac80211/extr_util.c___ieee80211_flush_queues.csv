@@ -1,0 +1,12 @@
+IEEE80211_QUEUE_STOP_REASON_FLUSH,VAR_0
+QUEUE_CONTROL,VAR_1
+drv_flush,FUNC_0
+ieee80211_get_vif_queues,FUNC_1
+ieee80211_hw_check,FUNC_2
+ieee80211_stop_queues_by_reason,FUNC_3
+ieee80211_wake_queues_by_reason,FUNC_4
+__ieee80211_flush_queues,FUNC_5
+local,VAR_2
+sdata,VAR_3
+queues,VAR_4
+drop,VAR_5

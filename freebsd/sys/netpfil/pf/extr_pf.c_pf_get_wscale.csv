@@ -1,0 +1,13 @@
+PF_WSCALE_FLAG,VAR_0
+TCP_MAX_WINSHIFT,VAR_1
+pf_pull_hdr,FUNC_0
+pf_get_wscale,FUNC_1
+m,VAR_2
+off,VAR_3
+th_off,VAR_4
+af,VAR_5
+hlen,VAR_6
+hdr,VAR_7
+opt,VAR_8
+optlen,VAR_9
+wscale,VAR_10

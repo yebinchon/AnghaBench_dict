@@ -1,0 +1,8 @@
+TASK_INTERRUPTIBLE,VAR_0
+TIF_SIGPENDING,VAR_1
+kick_process,FUNC_0
+set_tsk_thread_flag,FUNC_1
+wake_up_state,FUNC_2
+signal_wake_up_state,FUNC_3
+t,VAR_2
+state,VAR_3

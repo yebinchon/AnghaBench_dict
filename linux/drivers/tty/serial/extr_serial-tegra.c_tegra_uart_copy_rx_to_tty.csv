@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+TEGRA_UART_RX_DMA_BUFFER_SIZE,VAR_2
+UART_LSR_DR,VAR_3
+WARN_ON,FUNC_0
+dev_err,FUNC_1
+dma_sync_single_for_cpu,FUNC_2
+dma_sync_single_for_device,FUNC_3
+tty_insert_flip_string,FUNC_4
+tegra_uart_copy_rx_to_tty,FUNC_5
+tup,VAR_4
+tty,VAR_5
+count,VAR_6
+copied,VAR_7

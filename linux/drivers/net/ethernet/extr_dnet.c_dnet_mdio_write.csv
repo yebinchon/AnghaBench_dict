@@ -1,0 +1,14 @@
+DNET_INTERNAL_GMII_MNG_CMD_FIN,VAR_0
+DNET_INTERNAL_GMII_MNG_CTL_REG,VAR_1
+DNET_INTERNAL_GMII_MNG_DAT_REG,VAR_2
+cpu_relax,FUNC_0
+dnet_readw_mac,FUNC_1
+dnet_writew_mac,FUNC_2
+pr_debug,FUNC_3
+dnet_mdio_write,FUNC_4
+bus,VAR_3
+mii_id,VAR_4
+regnum,VAR_5
+value,VAR_6
+bp,VAR_7
+tmp,VAR_8

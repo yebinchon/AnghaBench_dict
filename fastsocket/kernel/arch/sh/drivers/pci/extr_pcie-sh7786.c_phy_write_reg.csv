@@ -1,0 +1,17 @@
+BITS_ADR,VAR_0
+BITS_CKE,VAR_1
+BITS_CMD,VAR_2
+BITS_LANE,VAR_3
+SH4A_PCIEPHYADRR,VAR_4
+SH4A_PCIEPHYCTLR,VAR_5
+SH4A_PCIEPHYDOUTR,VAR_6
+pci_read_reg,FUNC_0
+pci_write_reg,FUNC_1
+phy_wait_for_ack,FUNC_2
+phy_write_reg,FUNC_3
+chan,VAR_7
+addr,VAR_8
+lane,VAR_9
+data,VAR_10
+phyaddr,VAR_11
+ctrl,VAR_12

@@ -1,0 +1,12 @@
+BIT,FUNC_0
+OCELOT_GPIO_INTR,VAR_0
+REG,FUNC_1
+gpiochip_get_data,FUNC_2
+irq_data_get_irq_chip_data,FUNC_3
+irqd_to_hwirq,FUNC_4
+regmap_write_bits,FUNC_5
+ocelot_irq_ack,FUNC_6
+data,VAR_1
+chip,VAR_2
+info,VAR_3
+gpio,VAR_4

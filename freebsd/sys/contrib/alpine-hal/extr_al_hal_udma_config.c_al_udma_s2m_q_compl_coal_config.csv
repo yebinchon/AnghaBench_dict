@@ -1,0 +1,9 @@
+AL_TRUE,VAR_0
+UDMA_S2M_Q_COMP_CFG_DIS_COMP_COAL,VAR_1
+al_reg_read32,FUNC_0
+al_reg_write32,FUNC_1
+al_udma_s2m_q_compl_coal_config,FUNC_2
+udma_q,VAR_2
+enable,VAR_3
+coal_timeout,VAR_4
+reg,VAR_5

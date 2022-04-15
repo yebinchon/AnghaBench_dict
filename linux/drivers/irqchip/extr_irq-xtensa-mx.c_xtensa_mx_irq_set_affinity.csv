@@ -1,0 +1,13 @@
+HW_IRQ_MX_BASE,VAR_0
+MIROUT,FUNC_0
+cpu_online_mask,VAR_1
+cpumask_any_and,FUNC_1
+cpumask_of,FUNC_2
+irq_data_update_effective_affinity,FUNC_3
+set_er,FUNC_4
+xtensa_mx_irq_set_affinity,FUNC_5
+d,VAR_2
+dest,VAR_3
+force,VAR_4
+cpu,VAR_5
+mask,VAR_6

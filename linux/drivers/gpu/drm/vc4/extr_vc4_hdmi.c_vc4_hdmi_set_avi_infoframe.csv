@@ -1,0 +1,17 @@
+DRM_ERROR,FUNC_0
+HDMI_QUANTIZATION_RANGE_FULL,VAR_0
+HDMI_QUANTIZATION_RANGE_LIMITED,VAR_1
+drm_hdmi_avi_infoframe_from_display_mode,FUNC_1
+drm_hdmi_avi_infoframe_quant_range,FUNC_2
+to_vc4_hdmi_encoder,FUNC_3
+vc4_hdmi_write_infoframe,FUNC_4
+vc4_hdmi_set_avi_infoframe,FUNC_5
+encoder,VAR_2
+vc4_encoder,VAR_3
+vc4,VAR_4
+hdmi,VAR_5
+cstate,VAR_6
+crtc,VAR_7
+mode,VAR_8
+frame,VAR_9
+ret,VAR_10

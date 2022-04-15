@@ -1,0 +1,17 @@
+V4L2_BUF_FLAG_LAST,VAR_0
+V4L2_TYPE_IS_OUTPUT,FUNC_0
+VB2_BUF_STATE_DONE,VAR_1
+VB2_BUF_STATE_ERROR,VAR_2
+kvfree,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+v4l2_event_queue_fh,FUNC_4
+v4l2_m2m_dst_buf_remove,FUNC_5
+vb2_buffer_done,FUNC_6
+vb2_get_drv_priv,FUNC_7
+vicodec_eos_event,VAR_3
+vicodec_return_bufs,FUNC_8
+vicodec_stop_streaming,FUNC_9
+q,VAR_4
+ctx,VAR_5
+next_dst_buf,VAR_6

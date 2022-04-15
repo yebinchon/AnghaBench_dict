@@ -1,0 +1,16 @@
+CLOCK_BOOTTIME,VAR_0
+CLOCK_REALTIME,VAR_1
+clock_gettime,FUNC_0
+json_output,VAR_2
+localtime_r,FUNC_1
+perror,FUNC_2
+snprintf,FUNC_3
+strftime,FUNC_4
+print_boot_time,FUNC_5
+nsecs,VAR_3
+buf,VAR_4
+size,VAR_5
+real_time_ts,VAR_6
+boot_time_ts,VAR_7
+wallclock_secs,VAR_8
+load_tm,VAR_9

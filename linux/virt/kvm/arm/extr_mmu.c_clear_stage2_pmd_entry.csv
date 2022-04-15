@@ -1,0 +1,13 @@
+VM_BUG_ON,FUNC_0
+free_page,FUNC_1
+kvm_tlb_flush_vmid_ipa,FUNC_2
+pmd_clear,FUNC_3
+pmd_thp_or_huge,FUNC_4
+pte_offset_kernel,FUNC_5
+put_page,FUNC_6
+virt_to_page,FUNC_7
+clear_stage2_pmd_entry,FUNC_8
+kvm,VAR_0
+pmd,VAR_1
+addr,VAR_2
+pte_table,VAR_3

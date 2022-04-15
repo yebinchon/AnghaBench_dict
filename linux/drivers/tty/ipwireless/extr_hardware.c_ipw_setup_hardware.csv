@@ -1,0 +1,16 @@
+DCR_RXRESET,VAR_0
+DCR_TXRESET,VAR_1
+HW_VERSION_1,VAR_2
+IER_RXENABLED,VAR_3
+IER_TXENABLED,VAR_4
+IODCR,VAR_5
+IOIER,VAR_6
+outw,FUNC_0
+readw,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writew,FUNC_4
+ipw_setup_hardware,FUNC_5
+hw,VAR_7
+flags,VAR_8
+csr,VAR_9

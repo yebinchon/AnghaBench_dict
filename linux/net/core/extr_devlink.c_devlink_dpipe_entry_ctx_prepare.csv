@@ -1,0 +1,13 @@
+DEVLINK_ATTR_DPIPE_ENTRIES,VAR_0
+EMSGSIZE,VAR_1
+NLM_F_MULTI,VAR_2
+devlink_dpipe_send_and_alloc_skb,FUNC_0
+devlink_nl_family,VAR_3
+devlink_nl_put_handle,FUNC_1
+genlmsg_put,FUNC_2
+nla_nest_start_noflag,FUNC_3
+nlmsg_free,FUNC_4
+devlink_dpipe_entry_ctx_prepare,FUNC_5
+dump_ctx,VAR_4
+devlink,VAR_5
+err,VAR_6

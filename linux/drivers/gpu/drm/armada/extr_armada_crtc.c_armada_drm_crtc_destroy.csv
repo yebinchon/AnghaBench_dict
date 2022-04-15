@@ -1,0 +1,12 @@
+LCD_SPU_IRQ_ENA,VAR_0
+drm_crtc_cleanup,FUNC_0
+drm_gem_object_put_unlocked,FUNC_1
+drm_to_armada_crtc,FUNC_2
+kfree,FUNC_3
+of_node_put,FUNC_4
+stub1,FUNC_5
+writel_relaxed,FUNC_6
+armada_drm_crtc_destroy,FUNC_7
+crtc,VAR_1
+dcrtc,VAR_2
+priv,VAR_3

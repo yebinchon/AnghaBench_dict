@@ -1,0 +1,17 @@
+KVM_NR_VAR_MTRR,VAR_0
+MSR_IA32_CR_PAT,VAR_1
+MSR_MTRRdefType,VAR_2
+MSR_MTRRfix4K_F8000,VAR_3
+MSR_MTRRfix64K_00000,VAR_4
+WARN_ON,FUNC_0
+cpuid_maxphyaddr,FUNC_1
+kvm_inject_gp,FUNC_2
+kvm_pat_valid,FUNC_3
+msr_mtrr_valid,FUNC_4
+valid_mtrr_type,FUNC_5
+kvm_mtrr_valid,FUNC_6
+vcpu,VAR_5
+msr,VAR_6
+data,VAR_7
+i,VAR_8
+mask,VAR_9

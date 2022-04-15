@@ -1,0 +1,17 @@
+CTL_SOFTC,FUNC_0
+CTL_TASK_FUNCTION_COMPLETE,VAR_0
+CTL_TASK_FUNCTION_SUCCEEDED,VAR_1
+CTL_TASK_LUN_DOES_NOT_EXIST,VAR_2
+CTL_UA_NONE,VAR_3
+ctl_build_qae,FUNC_1
+ctl_get_initindex,FUNC_2
+ctl_max_luns,VAR_4
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+ctl_query_async_event,FUNC_5
+io,VAR_5
+softc,VAR_6
+lun,VAR_7
+ua,VAR_8
+targ_lun,VAR_9
+initidx,VAR_10

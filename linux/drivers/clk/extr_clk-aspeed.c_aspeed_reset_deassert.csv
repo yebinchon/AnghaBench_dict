@@ -1,0 +1,13 @@
+ASPEED_RESET2_OFFSET,VAR_0
+ASPEED_RESET_CTRL,VAR_1
+ASPEED_RESET_CTRL2,VAR_2
+BIT,FUNC_0
+aspeed_resets,VAR_3
+regmap_update_bits,FUNC_1
+to_aspeed_reset,FUNC_2
+aspeed_reset_deassert,FUNC_3
+rcdev,VAR_4
+id,VAR_5
+ar,VAR_6
+reg,VAR_7
+bit,VAR_8

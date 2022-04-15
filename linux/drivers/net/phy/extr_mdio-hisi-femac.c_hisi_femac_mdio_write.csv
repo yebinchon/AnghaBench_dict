@@ -1,0 +1,13 @@
+BIT_PHY_ADDR_OFFSET,VAR_0
+BIT_WR_DATA_OFFSET,VAR_1
+MDIO_RWCTRL,VAR_2
+MDIO_WRITE,VAR_3
+hisi_femac_mdio_wait_ready,FUNC_0
+writel,FUNC_1
+hisi_femac_mdio_write,FUNC_2
+bus,VAR_4
+mii_id,VAR_5
+regnum,VAR_6
+value,VAR_7
+data,VAR_8
+ret,VAR_9

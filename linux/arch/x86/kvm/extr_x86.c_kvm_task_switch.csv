@@ -1,0 +1,17 @@
+KVM_EXIT_INTERNAL_ERROR,VAR_0
+KVM_INTERNAL_ERROR_EMULATION,VAR_1
+KVM_REQ_EVENT,VAR_2
+emulator_task_switch,FUNC_0
+init_emulate_ctxt,FUNC_1
+kvm_make_request,FUNC_2
+kvm_rip_write,FUNC_3
+kvm_set_rflags,FUNC_4
+kvm_task_switch,FUNC_5
+vcpu,VAR_3
+tss_selector,VAR_4
+idt_index,VAR_5
+reason,VAR_6
+has_error_code,VAR_7
+error_code,VAR_8
+ctxt,VAR_9
+ret,VAR_10

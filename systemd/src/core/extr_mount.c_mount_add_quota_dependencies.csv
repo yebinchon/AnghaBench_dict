@@ -1,0 +1,17 @@
+MANAGER_IS_SYSTEM,FUNC_0
+SPECIAL_QUOTACHECK_SERVICE,VAR_0
+SPECIAL_QUOTAON_SERVICE,VAR_1
+UNIT,FUNC_1
+UNIT_BEFORE,VAR_2
+UNIT_DEPENDENCY_FILE,VAR_3
+UNIT_DEPENDENCY_MOUNTINFO_IMPLICIT,VAR_4
+UNIT_WANTS,VAR_5
+assert,FUNC_2
+get_mount_parameters_fragment,FUNC_3
+mount_needs_quota,FUNC_4
+unit_add_two_dependencies_by_name,FUNC_5
+mount_add_quota_dependencies,FUNC_6
+m,VAR_6
+mask,VAR_7
+p,VAR_8
+r,VAR_9

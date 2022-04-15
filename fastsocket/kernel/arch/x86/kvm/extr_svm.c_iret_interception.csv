@@ -1,0 +1,7 @@
+HF_IRET_MASK,VAR_0
+INTERCEPT_IRET,VAR_1
+VMCB_INTERCEPTS,VAR_2
+kvm_rip_read,FUNC_0
+mark_dirty,FUNC_1
+iret_interception,FUNC_2
+svm,VAR_3

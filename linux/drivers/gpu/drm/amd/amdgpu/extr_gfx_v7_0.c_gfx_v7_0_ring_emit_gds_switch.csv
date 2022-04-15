@@ -1,0 +1,16 @@
+GDS_GWS_VMID0__SIZE__SHIFT,VAR_0
+PACKET3,FUNC_0
+PACKET3_WRITE_DATA,VAR_1
+WRITE_DATA_DST_SEL,FUNC_1
+WRITE_DATA_ENGINE_SEL,FUNC_2
+amdgpu_gds_reg_offset,VAR_2
+amdgpu_ring_write,FUNC_3
+gfx_v7_0_ring_emit_gds_switch,FUNC_4
+ring,VAR_3
+vmid,VAR_4
+gds_base,VAR_5
+gds_size,VAR_6
+gws_base,VAR_7
+gws_size,VAR_8
+oa_base,VAR_9
+oa_size,VAR_10

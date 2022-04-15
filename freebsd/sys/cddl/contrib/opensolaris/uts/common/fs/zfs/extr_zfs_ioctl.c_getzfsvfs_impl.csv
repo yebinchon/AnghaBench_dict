@@ -1,0 +1,14 @@
+DMU_OST_ZFS,VAR_0
+EINVAL,VAR_1
+ESRCH,VAR_2
+SET_ERROR,FUNC_0
+dmu_objset_get_user,FUNC_1
+dmu_objset_type,FUNC_2
+mutex_enter,FUNC_3
+mutex_exit,FUNC_4
+vfs_ref,FUNC_5
+getzfsvfs_impl,FUNC_6
+os,VAR_3
+vfsp,VAR_4
+zfvp,VAR_5
+error,VAR_6

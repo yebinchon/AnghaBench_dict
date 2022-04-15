@@ -1,0 +1,17 @@
+CF_UNICODETEXT,VAR_0
+CP_UTF8,VAR_1
+CloseClipboard,FUNC_0
+GMEM_MOVEABLE,VAR_2
+GlobalAlloc,FUNC_1
+GlobalLock,FUNC_2
+GlobalUnlock,FUNC_3
+MultiByteToWideChar,FUNC_4
+OpenClipboard,FUNC_5
+SetClipboardData,FUNC_6
+nk_d3d9_clipboard_copy,FUNC_7
+usr,VAR_3
+text,VAR_4
+len,VAR_5
+wsize,VAR_6
+mem,VAR_7
+wstr,VAR_8

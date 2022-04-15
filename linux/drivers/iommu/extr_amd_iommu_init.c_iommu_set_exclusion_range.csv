@@ -1,0 +1,10 @@
+MMIO_EXCL_BASE_OFFSET,VAR_0
+MMIO_EXCL_ENABLE_MASK,VAR_1
+MMIO_EXCL_LIMIT_OFFSET,VAR_2
+PAGE_MASK,VAR_3
+memcpy_toio,FUNC_0
+iommu_set_exclusion_range,FUNC_1
+iommu,VAR_4
+start,VAR_5
+limit,VAR_6
+entry,VAR_7

@@ -1,0 +1,15 @@
+KVM_HVA_ERR_RO_BAD,VAR_0
+KVM_PFN_ERR_RO_FAULT,VAR_1
+KVM_PFN_NOSLOT,VAR_2
+__gfn_to_hva_many,FUNC_0
+hva_to_pfn,FUNC_1
+kvm_is_error_hva,FUNC_2
+memslot_is_readonly,FUNC_3
+__gfn_to_pfn_memslot,FUNC_4
+slot,VAR_3
+gfn,VAR_4
+atomic,VAR_5
+async,VAR_6
+write_fault,VAR_7
+writable,VAR_8
+addr,VAR_9

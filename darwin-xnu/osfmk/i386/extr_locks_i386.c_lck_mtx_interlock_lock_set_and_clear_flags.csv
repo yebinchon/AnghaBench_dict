@@ -1,0 +1,16 @@
+FALSE,VAR_0
+LCK_MTX_ILOCKED_MSK,VAR_1
+__improbable,FUNC_0
+atomic_compare_exchange32,FUNC_1
+cpu_pause,FUNC_2
+disable_preemption,FUNC_3
+enable_preemption,FUNC_4
+memory_order_acquire_smp,VAR_2
+ordered_load_mtx_state,FUNC_5
+lck_mtx_interlock_lock_set_and_clear_flags,FUNC_6
+mutex,VAR_3
+xor_flags,VAR_4
+and_flags,VAR_5
+new_state,VAR_6
+state,VAR_7
+prev,VAR_8

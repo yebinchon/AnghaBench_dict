@@ -1,0 +1,12 @@
+CMD_802_11_RF_CHANNEL,VAR_0
+CMD_OPT_802_11_RF_CHANNEL_SET,VAR_1
+LBTF_DEB_CMD,VAR_2
+cpu_to_le16,FUNC_0
+lbtf_cmd_with_response,FUNC_1
+lbtf_deb_enter,FUNC_2
+lbtf_deb_leave_args,FUNC_3
+lbtf_set_channel,FUNC_4
+priv,VAR_3
+channel,VAR_4
+ret,VAR_5
+cmd,VAR_6

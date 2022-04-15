@@ -1,0 +1,10 @@
+BCH_BHINT,VAR_0
+BCH_TIMEOUT_US,VAR_1
+readl_poll_timeout,FUNC_0
+writel,FUNC_1
+jz4780_bch_wait_complete,FUNC_2
+bch,VAR_2
+irq,VAR_3
+status,VAR_4
+reg,VAR_5
+ret,VAR_6

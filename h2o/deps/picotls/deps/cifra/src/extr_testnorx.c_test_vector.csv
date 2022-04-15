@@ -1,0 +1,17 @@
+TEST_CHECK,FUNC_0
+cf_norx32_decrypt,FUNC_1
+cf_norx32_encrypt,FUNC_2
+memcmp,FUNC_3
+unhex,FUNC_4
+test_vector,FUNC_5
+K,VAR_0
+N,VAR_1
+A,VAR_2
+M,VAR_3
+Z,VAR_4
+C,VAR_5
+T,VAR_6
+i,VAR_7
+expect_C,VAR_8
+expect_T,VAR_9
+M2,VAR_10

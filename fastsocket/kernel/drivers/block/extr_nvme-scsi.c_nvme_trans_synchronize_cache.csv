@@ -1,0 +1,17 @@
+NVME_IO_TIMEOUT,VAR_0
+SNTI_TRANSLATION_SUCCESS,VAR_1
+cpu_to_le32,FUNC_0
+get_nvmeq,FUNC_1
+memset,FUNC_2
+nvme_cmd_flush,VAR_2
+nvme_submit_sync_cmd,FUNC_3
+nvme_trans_status_code,FUNC_4
+put_nvmeq,FUNC_5
+nvme_trans_synchronize_cache,FUNC_6
+ns,VAR_3
+hdr,VAR_4
+cmd,VAR_5
+res,VAR_6
+nvme_sc,VAR_7
+c,VAR_8
+nvmeq,VAR_9

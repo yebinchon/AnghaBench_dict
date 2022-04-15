@@ -1,0 +1,17 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+RT_DEVICEID_8139,VAR_2
+RT_VENDORID,VAR_3
+device_set_desc,FUNC_0
+nitems,FUNC_1
+pci_get_device,FUNC_2
+pci_get_revid,FUNC_3
+pci_get_vendor,FUNC_4
+rl_devs,VAR_4
+rl_probe,FUNC_5
+dev,VAR_5
+t,VAR_6
+devid,VAR_7
+revid,VAR_8
+vendor,VAR_9
+i,VAR_10

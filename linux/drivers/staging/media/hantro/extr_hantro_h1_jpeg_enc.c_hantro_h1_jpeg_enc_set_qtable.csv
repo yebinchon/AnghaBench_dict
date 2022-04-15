@@ -1,0 +1,11 @@
+H1_JPEG_QUANT_TABLE_COUNT,VAR_0
+H1_REG_JPEG_CHROMA_QUAT,FUNC_0
+H1_REG_JPEG_LUMA_QUAT,FUNC_1
+get_unaligned_be32,FUNC_2
+vepu_write_relaxed,FUNC_3
+hantro_h1_jpeg_enc_set_qtable,FUNC_4
+vpu,VAR_1
+luma_qtable,VAR_2
+chroma_qtable,VAR_3
+reg,VAR_4
+i,VAR_5

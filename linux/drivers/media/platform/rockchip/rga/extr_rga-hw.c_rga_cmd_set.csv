@@ -1,0 +1,15 @@
+DMA_BIDIRECTIONAL,VAR_0
+PAGE_SIZE,VAR_1
+RGA_CMDBUF_SIZE,VAR_2
+RGA_CMD_BASE,VAR_3
+dma_sync_single_for_device,FUNC_0
+memset,FUNC_1
+rga_cmd_set_dst_addr,FUNC_2
+rga_cmd_set_mode,FUNC_3
+rga_cmd_set_src1_addr,FUNC_4
+rga_cmd_set_src_addr,FUNC_5
+rga_cmd_set_trans_info,FUNC_6
+rga_write,FUNC_7
+rga_cmd_set,FUNC_8
+ctx,VAR_4
+rga,VAR_5

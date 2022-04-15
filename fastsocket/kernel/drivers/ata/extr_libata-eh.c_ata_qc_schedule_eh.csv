@@ -1,0 +1,11 @@
+ATA_QCFLAG_FAILED,VAR_0
+WARN_ON,FUNC_0
+ata_eh_set_pending,FUNC_1
+blk_abort_request,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ata_qc_schedule_eh,FUNC_5
+qc,VAR_1
+ap,VAR_2
+q,VAR_3
+flags,VAR_4

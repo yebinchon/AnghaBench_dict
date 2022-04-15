@@ -1,0 +1,17 @@
+VTCON_CONSOLE_PORT,VAR_0
+VTCON_MAXPORTS,VAR_1
+WPRINTF,FUNC_0
+assert,FUNC_1
+pci_vtcon_announce_port,FUNC_2
+pci_vtcon_control_send,FUNC_3
+pci_vtcon_open_port,FUNC_4
+pci_vtcon_control_tx,FUNC_5
+port,VAR_2
+arg,VAR_3
+iov,VAR_4
+niov,VAR_5
+sc,VAR_6
+tmp,VAR_7
+resp,VAR_8
+ctrl,VAR_9
+i,VAR_10

@@ -1,0 +1,16 @@
+GFS2_I,FUNC_0
+GFS2_SB,FUNC_1
+PageChecked,FUNC_2
+__gfs2_jdata_writepage,FUNC_3
+current,VAR_0
+gfs2_assert_withdraw,FUNC_4
+gfs2_glock_is_held_excl,FUNC_5
+redirty_page_for_writepage,FUNC_6
+unlock_page,FUNC_7
+gfs2_jdata_writepage,FUNC_8
+page,VAR_1
+wbc,VAR_2
+inode,VAR_3
+ip,VAR_4
+sdp,VAR_5
+ret,VAR_6

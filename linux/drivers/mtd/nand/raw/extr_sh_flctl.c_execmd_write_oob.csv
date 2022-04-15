@@ -1,0 +1,17 @@
+FLDTCNTR,FUNC_0
+NAND_CMD_PAGEPROG,VAR_0
+NAND_CMD_SEQIN,VAR_1
+empty_fifo,FUNC_1
+mtd_to_flctl,FUNC_2
+set_addr,FUNC_3
+set_cmd_regs,FUNC_4
+start_translation,FUNC_5
+wait_completion,FUNC_6
+write_fiforeg,FUNC_7
+writel,FUNC_8
+execmd_write_oob,FUNC_9
+mtd,VAR_2
+flctl,VAR_3
+page_addr,VAR_4
+sector,VAR_5
+page_sectors,VAR_6

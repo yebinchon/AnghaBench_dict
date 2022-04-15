@@ -1,0 +1,11 @@
+blk_mq_quiesce_queue,FUNC_0
+cancel_delayed_work_sync,FUNC_1
+cancel_work_sync,FUNC_2
+nvme_disable_ctrl,FUNC_3
+nvme_shutdown_ctrl,FUNC_4
+nvme_tcp_teardown_admin_queue,FUNC_5
+nvme_tcp_teardown_io_queues,FUNC_6
+to_tcp_ctrl,FUNC_7
+nvme_tcp_teardown_ctrl,FUNC_8
+ctrl,VAR_0
+shutdown,VAR_1

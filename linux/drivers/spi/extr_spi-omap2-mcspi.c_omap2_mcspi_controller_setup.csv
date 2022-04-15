@@ -1,0 +1,13 @@
+OMAP2_MCSPI_WAKEUPENABLE,VAR_0
+OMAP2_MCSPI_WAKEUPENABLE_WKEN,VAR_1
+mcspi_write_reg,FUNC_0
+omap2_mcspi_set_mode,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_mark_last_busy,FUNC_3
+pm_runtime_put_autosuspend,FUNC_4
+pm_runtime_put_noidle,FUNC_5
+omap2_mcspi_controller_setup,FUNC_6
+mcspi,VAR_2
+master,VAR_3
+ctx,VAR_4
+ret,VAR_5

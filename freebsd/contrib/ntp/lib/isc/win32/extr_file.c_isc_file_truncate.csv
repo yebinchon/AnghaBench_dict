@@ -1,0 +1,13 @@
+ISC_R_SUCCESS,VAR_0
+REQUIRE,FUNC_0
+_O_BINARY,VAR_1
+_O_RDWR,VAR_2
+_chsize,FUNC_1
+close,FUNC_2
+errno,VAR_3
+isc__errno2result,FUNC_3
+open,FUNC_4
+isc_file_truncate,FUNC_5
+filename,VAR_4
+size,VAR_5
+fh,VAR_6

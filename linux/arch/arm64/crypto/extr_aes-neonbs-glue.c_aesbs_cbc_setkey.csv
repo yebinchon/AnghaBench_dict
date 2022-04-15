@@ -1,0 +1,13 @@
+aes_expandkey,FUNC_0
+aesbs_convert_key,FUNC_1
+crypto_skcipher_ctx,FUNC_2
+kernel_neon_begin,FUNC_3
+kernel_neon_end,FUNC_4
+memcpy,FUNC_5
+aesbs_cbc_setkey,FUNC_6
+tfm,VAR_0
+in_key,VAR_1
+key_len,VAR_2
+ctx,VAR_3
+rk,VAR_4
+err,VAR_5

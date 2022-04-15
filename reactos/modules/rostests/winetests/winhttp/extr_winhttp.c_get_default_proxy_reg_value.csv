@@ -1,0 +1,15 @@
+Connections,VAR_0
+HKEY_LOCAL_MACHINE,VAR_1
+KEY_READ,VAR_2
+RegCloseKey,FUNC_0
+RegOpenKeyExW,FUNC_1
+RegQueryValueExW,FUNC_2
+WinHttpSettings,VAR_3
+get_default_proxy_reg_value,FUNC_3
+buf,VAR_4
+len,VAR_5
+type,VAR_6
+l,VAR_7
+key,VAR_8
+ret,VAR_9
+size,VAR_10

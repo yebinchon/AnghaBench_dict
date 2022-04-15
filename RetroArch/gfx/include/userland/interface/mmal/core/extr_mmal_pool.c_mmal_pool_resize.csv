@@ -1,0 +1,16 @@
+ALIGN,VAR_0
+MMAL_EINVAL,VAR_1
+MMAL_ENOMEM,VAR_2
+MMAL_SUCCESS,VAR_3
+ROUND_UP,FUNC_0
+mmal_pool_initialise_buffer_headers,FUNC_1
+mmal_queue_get,FUNC_2
+mmal_queue_put,FUNC_3
+vcos_calloc,FUNC_4
+vcos_free,FUNC_5
+mmal_pool_resize,FUNC_6
+pool,VAR_4
+headers,VAR_5
+payload_size,VAR_6
+private,VAR_7
+i,VAR_8

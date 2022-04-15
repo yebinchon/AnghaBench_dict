@@ -1,0 +1,16 @@
+CH_ERR,FUNC_0
+EEPROMVSIZE,VAR_0
+EINVAL,VAR_1
+PCI_VPD_ADDR,VAR_2
+PCI_VPD_ADDR_F,VAR_3
+PCI_VPD_DATA,VAR_4
+le32_to_cpu,FUNC_1
+t4_os_pci_read_cfg4,FUNC_2
+t4_os_pci_write_cfg2,FUNC_3
+t4_seeprom_wait,FUNC_4
+t4_seeprom_read,FUNC_5
+adapter,VAR_5
+addr,VAR_6
+data,VAR_7
+base,VAR_8
+ret,VAR_9

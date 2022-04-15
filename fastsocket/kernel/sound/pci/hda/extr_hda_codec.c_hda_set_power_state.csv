@@ -1,0 +1,16 @@
+AC_PWRST_D3,VAR_0
+AC_PWRST_ERROR,VAR_1
+AC_VERB_SET_POWER_STATE,VAR_2
+HDA_RW_NO_RESPONSE_FALLBACK,VAR_3
+hda_sync_power_state,FUNC_0
+msleep,FUNC_1
+snd_hda_codec_read,FUNC_2
+snd_hda_codec_set_power_to_all,FUNC_3
+stub1,FUNC_4
+hda_set_power_state,FUNC_5
+codec,VAR_4
+power_state,VAR_5
+fg,VAR_6
+count,VAR_7
+state,VAR_8
+flags,VAR_9

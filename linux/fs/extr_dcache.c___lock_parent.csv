@@ -1,0 +1,11 @@
+DENTRY_D_LOCK_NESTED,VAR_0
+READ_ONCE,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+spin_lock,FUNC_3
+spin_lock_nested,FUNC_4
+spin_unlock,FUNC_5
+unlikely,FUNC_6
+__lock_parent,FUNC_7
+dentry,VAR_1
+parent,VAR_2

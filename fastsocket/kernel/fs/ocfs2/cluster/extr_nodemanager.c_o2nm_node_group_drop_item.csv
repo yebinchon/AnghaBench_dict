@@ -1,0 +1,15 @@
+O2NM_INVALID_NODE_NUM,VAR_0
+clear_bit,FUNC_0
+config_item_put,FUNC_1
+o2net_disconnect_node,FUNC_2
+o2net_stop_listening,FUNC_3
+rb_erase,FUNC_4
+to_o2nm_cluster,FUNC_5
+to_o2nm_node,FUNC_6
+write_lock,FUNC_7
+write_unlock,FUNC_8
+o2nm_node_group_drop_item,FUNC_9
+group,VAR_1
+item,VAR_2
+node,VAR_3
+cluster,VAR_4

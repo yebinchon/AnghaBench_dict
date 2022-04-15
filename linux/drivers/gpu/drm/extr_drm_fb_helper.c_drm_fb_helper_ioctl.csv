@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+ENOTTY,VAR_1
+drm_crtc_vblank_get,FUNC_0
+drm_crtc_vblank_put,FUNC_1
+drm_crtc_wait_one_vblank,FUNC_2
+drm_master_internal_acquire,FUNC_3
+drm_master_internal_release,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+drm_fb_helper_ioctl,FUNC_7
+info,VAR_2
+cmd,VAR_3
+arg,VAR_4
+fb_helper,VAR_5
+dev,VAR_6
+crtc,VAR_7
+ret,VAR_8

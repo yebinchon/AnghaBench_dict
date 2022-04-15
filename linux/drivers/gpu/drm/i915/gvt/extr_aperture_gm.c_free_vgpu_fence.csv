@@ -1,0 +1,14 @@
+WARN_ON,FUNC_0
+_clear_vgpu_fence,FUNC_1
+i915_unreserve_fence,FUNC_2
+intel_runtime_pm_get,FUNC_3
+intel_runtime_pm_put_unchecked,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+vgpu_fence_sz,FUNC_7
+free_vgpu_fence,FUNC_8
+vgpu,VAR_0
+gvt,VAR_1
+dev_priv,VAR_2
+reg,VAR_3
+i,VAR_4

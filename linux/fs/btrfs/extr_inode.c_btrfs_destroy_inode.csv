@@ -1,0 +1,16 @@
+BTRFS_I,FUNC_0
+WARN_ON,FUNC_1
+btrfs_drop_extent_cache,FUNC_2
+btrfs_err,FUNC_3
+btrfs_lookup_first_ordered_extent,FUNC_4
+btrfs_put_ordered_extent,FUNC_5
+btrfs_qgroup_check_reserved_leak,FUNC_6
+btrfs_remove_ordered_extent,FUNC_7
+btrfs_sb,FUNC_8
+hlist_empty,FUNC_9
+inode_tree_del,FUNC_10
+btrfs_destroy_inode,FUNC_11
+inode,VAR_0
+fs_info,VAR_1
+ordered,VAR_2
+root,VAR_3

@@ -1,0 +1,15 @@
+__clk_set_parent_after,FUNC_0
+__clk_set_parent_before,FUNC_1
+clk_enable_lock,FUNC_2
+clk_enable_unlock,FUNC_3
+clk_reparent,FUNC_4
+stub1,FUNC_5
+trace_clk_set_parent,FUNC_6
+trace_clk_set_parent_complete,FUNC_7
+__clk_set_parent,FUNC_8
+core,VAR_0
+parent,VAR_1
+p_index,VAR_2
+flags,VAR_3
+ret,VAR_4
+old_parent,VAR_5

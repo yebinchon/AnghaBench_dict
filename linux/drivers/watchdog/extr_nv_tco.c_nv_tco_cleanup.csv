@@ -1,0 +1,14 @@
+MCP51_SMBUS_SETUP_B,VAR_0
+MCP51_SMBUS_SETUP_B_TCO_REBOOT,VAR_1
+misc_deregister,FUNC_0
+nowayout,VAR_2
+nv_tco_miscdev,VAR_3
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+pr_crit,FUNC_3
+release_region,FUNC_4
+tco_pci,VAR_4
+tco_timer_stop,FUNC_5
+tcobase,VAR_5
+nv_tco_cleanup,FUNC_6
+val,VAR_6

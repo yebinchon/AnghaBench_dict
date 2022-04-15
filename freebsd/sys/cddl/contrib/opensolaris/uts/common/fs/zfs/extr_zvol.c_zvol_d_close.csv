@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+FDSYNC,VAR_0
+FSYNC,VAR_1
+ZVOL_EXCL,VAR_2
+mutex_enter,FUNC_1
+mutex_exit,FUNC_2
+zfsdev_state_lock,VAR_3
+zvol_last_close,FUNC_3
+zvol_d_close,FUNC_4
+dev,VAR_4
+flags,VAR_5
+fmt,VAR_6
+td,VAR_7
+zv,VAR_8

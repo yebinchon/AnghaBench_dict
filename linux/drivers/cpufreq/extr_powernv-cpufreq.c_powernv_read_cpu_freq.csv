@@ -1,0 +1,10 @@
+SPRN_PMSR,VAR_0
+extract_local_pstate,FUNC_0
+get_pmspr,FUNC_1
+pr_debug,FUNC_2
+pstate_id_to_freq,FUNC_3
+raw_smp_processor_id,FUNC_4
+powernv_read_cpu_freq,FUNC_5
+arg,VAR_1
+pmspr_val,VAR_2
+freq_data,VAR_3

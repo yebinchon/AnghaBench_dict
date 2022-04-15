@@ -1,0 +1,14 @@
+END_USE,FUNC_0
+START_USE,FUNC_1
+VRING_USED_F_NO_NOTIFY,VAR_0
+to_vvq,FUNC_2
+virtio_mb,FUNC_3
+virtio_wmb,FUNC_4
+vring_avail_event,FUNC_5
+vring_need_event,FUNC_6
+virtqueue_kick_prepare,FUNC_7
+_vq,VAR_1
+vq,VAR_2
+new,VAR_3
+old,VAR_4
+needs_kick,VAR_5

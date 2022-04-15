@@ -1,0 +1,10 @@
+PVCLOCK_FLAG_TSC_STABLE,VAR_0
+atomic_cmpset_64,FUNC_0
+atomic_load_acq_64,FUNC_1
+pvclock_last_cycles,VAR_1
+pvclock_read_time_info,FUNC_2
+pvclock_get_timecount,FUNC_3
+ti,VAR_2
+now,VAR_3
+last,VAR_4
+flags,VAR_5

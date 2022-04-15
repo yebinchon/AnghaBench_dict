@@ -1,0 +1,17 @@
+ADV_TASK_CORE,VAR_0
+BLE_MESH_QUEUE_SET_SIZE,VAR_1
+BLE_MESH_QUEUE_SIZE,VAR_2
+BLE_MESH_RELAY_QUEUE_SIZE,VAR_3
+adv_thread,VAR_4
+configASSERT,FUNC_0
+configMAX_PRIORITIES,VAR_5
+pdTRUE,VAR_6
+xBleMeshQueue,VAR_7
+xBleMeshQueueSet,VAR_8
+xBleMeshRelayQueue,VAR_9
+xQueueAddToSet,FUNC_1
+xQueueCreate,FUNC_2
+xQueueCreateSet,FUNC_3
+xTaskCreatePinnedToCore,FUNC_4
+bt_mesh_adv_init,FUNC_5
+ret,VAR_10

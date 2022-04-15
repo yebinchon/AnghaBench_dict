@@ -1,0 +1,17 @@
+NI_MAXHOST,VAR_0
+NI_MAXSERV,VAR_1
+NI_NUMERICHOST,VAR_2
+NI_NUMERICSERV,VAR_3
+checkaddr,FUNC_0
+gai_strerror,FUNC_1
+getnameinfo,FUNC_2
+luaL_error,FUNC_3
+lua_pushfstring,FUNC_4
+script_addr_tostring,FUNC_5
+L,VAR_4
+addr,VAR_5
+host,VAR_6
+service,VAR_7
+flags,VAR_8
+rc,VAR_9
+msg,VAR_10

@@ -1,0 +1,12 @@
+ARC_TIMERN_MAX,VAR_0
+arc_clockevent_device,VAR_1
+arc_timer_freq,VAR_2
+arc_timer_irq,VAR_3
+clockevents_config_and_register,FUNC_0
+cpumask_of,FUNC_1
+enable_percpu_irq,FUNC_2
+smp_processor_id,FUNC_3
+this_cpu_ptr,FUNC_4
+arc_timer_starting_cpu,FUNC_5
+cpu,VAR_4
+evt,VAR_5

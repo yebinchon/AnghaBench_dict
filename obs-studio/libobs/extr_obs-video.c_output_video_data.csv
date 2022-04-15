@@ -1,0 +1,12 @@
+copy_rgbx_frame,FUNC_0
+set_gpu_converted_data,FUNC_1
+video_output_get_info,FUNC_2
+video_output_lock_frame,FUNC_3
+video_output_unlock_frame,FUNC_4
+output_video_data,FUNC_5
+video,VAR_0
+input_frame,VAR_1
+count,VAR_2
+info,VAR_3
+output_frame,VAR_4
+locked,VAR_5

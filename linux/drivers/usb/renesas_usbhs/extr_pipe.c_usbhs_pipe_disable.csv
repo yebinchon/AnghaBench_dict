@@ -1,0 +1,11 @@
+PBUSY,VAR_0
+PID_MASK,VAR_1
+PID_NAK,VAR_2
+__usbhsp_pid_try_nak_if_stall,FUNC_0
+udelay,FUNC_1
+usbhsp_pipectrl_get,FUNC_2
+usbhsp_pipectrl_set,FUNC_3
+usbhs_pipe_disable,FUNC_4
+pipe,VAR_3
+timeout,VAR_4
+val,VAR_5

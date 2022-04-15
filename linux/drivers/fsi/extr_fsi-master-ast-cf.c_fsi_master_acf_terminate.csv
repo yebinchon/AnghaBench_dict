@@ -1,0 +1,12 @@
+ARB_ARM_ACK,VAR_0
+ARB_REG,VAR_1
+CF_STARTED,VAR_2
+iowrite32,FUNC_0
+iowrite8,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+release_copro_gpios,FUNC_4
+reset_cf,FUNC_5
+fsi_master_acf_terminate,FUNC_6
+master,VAR_3
+flags,VAR_4

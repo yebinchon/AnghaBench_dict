@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+RFKILL_TYPE_BLUETOOTH,VAR_1
+gpio_direction_output,FUNC_0
+gpio_free,FUNC_1
+gpio_request,FUNC_2
+platform_set_drvdata,FUNC_3
+rfkill_alloc,FUNC_4
+rfkill_destroy,FUNC_5
+rfkill_register,FUNC_6
+rfkill_set_led_trigger_name,FUNC_7
+tosa_bt_off,FUNC_8
+tosa_bt_rfkill_ops,VAR_2
+tosa_bt_probe,FUNC_9
+dev,VAR_3
+rc,VAR_4
+rfk,VAR_5
+data,VAR_6

@@ -1,0 +1,15 @@
+MLXSW_PCI_AQ_PAGES,VAR_0
+__mlxsw_pci_queue_page_get,FUNC_0
+mlxsw_cmd_mbox_sw2hw_dq_cq_set,FUNC_1
+mlxsw_cmd_mbox_sw2hw_dq_log2_dq_sz_set,FUNC_2
+mlxsw_cmd_mbox_sw2hw_dq_pa_set,FUNC_3
+mlxsw_cmd_mbox_sw2hw_dq_sdq_tclass_set,FUNC_4
+mlxsw_cmd_sw2hw_sdq,FUNC_5
+mlxsw_pci_queue_doorbell_producer_ring,FUNC_6
+mlxsw_pci_sdq_init,FUNC_7
+mlxsw_pci,VAR_1
+mbox,VAR_2
+q,VAR_3
+i,VAR_4
+err,VAR_5
+mapaddr,VAR_6

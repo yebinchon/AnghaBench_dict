@@ -1,0 +1,17 @@
+GET_BYTE,FUNC_0
+MXL_ENABLE_BIG_ENDIAN,VAR_0
+MXL_HYDRA_I2C_HDR_SIZE,VAR_1
+MXL_HYDRA_PLID_REG_READ,VAR_2
+MXL_HYDRA_REG_SIZE_IN_BYTES,VAR_3
+convert_endian,FUNC_1
+i2cread,FUNC_2
+i2cwrite,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+read_register_block,FUNC_6
+state,VAR_4
+reg,VAR_5
+size,VAR_6
+data,VAR_7
+stat,VAR_8
+buf,VAR_9

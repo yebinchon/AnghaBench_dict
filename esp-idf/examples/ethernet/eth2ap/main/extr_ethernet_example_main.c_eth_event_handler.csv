@@ -1,0 +1,17 @@
+ESP_ERROR_CHECK,FUNC_0
+ESP_LOGI,FUNC_1
+ETH_CMD_G_MAC_ADDR,VAR_0
+TAG,VAR_1
+WIFI_IF_AP,VAR_2
+esp_eth_ioctl,FUNC_2
+esp_wifi_set_mac,FUNC_3
+esp_wifi_start,FUNC_4
+esp_wifi_stop,FUNC_5
+s_eth_handle,VAR_3
+s_eth_mac,VAR_4
+s_ethernet_is_connected,VAR_5
+eth_event_handler,FUNC_6
+arg,VAR_6
+event_base,VAR_7
+event_id,VAR_8
+event_data,VAR_9

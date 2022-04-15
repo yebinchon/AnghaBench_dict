@@ -1,0 +1,10 @@
+RREG32,FUNC_0
+amdgpu_gfx_select_se_sh,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+soc15_read_indexed_register,FUNC_4
+adev,VAR_0
+se_num,VAR_1
+sh_num,VAR_2
+reg_offset,VAR_3
+val,VAR_4

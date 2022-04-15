@@ -1,0 +1,13 @@
+bna_rx_vlan_del,FUNC_0
+clear_bit,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+bnad_vlan_rx_kill_vid,FUNC_7
+netdev,VAR_0
+proto,VAR_1
+vid,VAR_2
+bnad,VAR_3
+flags,VAR_4

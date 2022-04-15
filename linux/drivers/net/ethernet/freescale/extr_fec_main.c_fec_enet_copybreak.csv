@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+FEC_ENET_RX_FRSIZE,VAR_1
+dma_sync_single_for_cpu,FUNC_0
+fec32_to_cpu,FUNC_1
+memcpy,FUNC_2
+netdev_alloc_skb,FUNC_3
+netdev_priv,FUNC_4
+swap_buffer2,FUNC_5
+fec_enet_copybreak,FUNC_6
+ndev,VAR_2
+skb,VAR_3
+bdp,VAR_4
+length,VAR_5
+swap,VAR_6
+fep,VAR_7
+new_skb,VAR_8

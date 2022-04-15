@@ -1,0 +1,13 @@
+MZ_OK,VAR_0
+MZ_SEEK_ERROR,VAR_1
+SEEK_CUR,VAR_2
+SEEK_END,VAR_3
+SEEK_SET,VAR_4
+errno,VAR_5
+fseeko64,FUNC_0
+mz_stream_os_seek,FUNC_1
+stream,VAR_6
+offset,VAR_7
+origin,VAR_8
+posix,VAR_9
+fseek_origin,VAR_10

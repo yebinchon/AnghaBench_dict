@@ -1,0 +1,16 @@
+ARM_UNIFIED_THREAD_STATE_COUNT,VAR_0
+KERN_INVALID_ARGUMENT,VAR_1
+KERN_SUCCESS,VAR_2
+const_thread_state32,FUNC_0
+const_thread_state64,FUNC_1
+handle_set_arm32_thread_state,FUNC_2
+is_saved_state32,FUNC_3
+is_saved_state64,FUNC_4
+is_thread_state64,FUNC_5
+thread_state32_to_saved_state,FUNC_6
+thread_state64_to_saved_state,FUNC_7
+handle_set_arm_thread_state,FUNC_8
+tstate,VAR_3
+count,VAR_4
+saved_state,VAR_5
+unified_state,VAR_6

@@ -1,0 +1,14 @@
+INVOKER_GID,VAR_0
+INVOKER_UID,VAR_1
+T_ASSERT_NOTNULL,FUNC_0
+T_ASSERT_POSIX_SUCCESS,FUNC_1
+T_QUIET,VAR_2
+T_WITH_ERRNO,VAR_3
+_get_sudo_invoker,FUNC_2
+getpwnam,FUNC_3
+setgid,FUNC_4
+setuid,FUNC_5
+drop_priv,FUNC_6
+pw,VAR_4
+lower_uid,VAR_5
+lower_gid,VAR_6

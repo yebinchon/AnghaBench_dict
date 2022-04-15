@@ -1,0 +1,14 @@
+PCI230_ZCLK_SCE,VAR_0
+comedi_8254_set_mode,FUNC_0
+comedi_8254_write,FUNC_1
+outb,FUNC_2
+pci230_choose_clk_count,FUNC_3
+pci230_clk_config,FUNC_4
+pci230_ct_setup_ns_mode,FUNC_5
+dev,VAR_1
+ct,VAR_2
+mode,VAR_3
+ns,VAR_4
+flags,VAR_5
+clk_src,VAR_6
+count,VAR_7

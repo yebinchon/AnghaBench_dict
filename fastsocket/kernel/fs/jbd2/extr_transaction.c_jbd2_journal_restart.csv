@@ -1,0 +1,16 @@
+J_ASSERT,FUNC_0
+__jbd2_log_start_commit,FUNC_1
+is_handle_aborted,FUNC_2
+jbd_debug,FUNC_3
+journal_current_handle,FUNC_4
+lock_map_release,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+start_this_handle,FUNC_8
+wake_up,FUNC_9
+jbd2_journal_restart,FUNC_10
+handle,VAR_0
+nblocks,VAR_1
+transaction,VAR_2
+journal,VAR_3
+ret,VAR_4

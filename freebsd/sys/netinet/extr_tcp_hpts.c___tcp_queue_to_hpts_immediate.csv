@@ -1,0 +1,9 @@
+INP_WLOCK_ASSERT,FUNC_0
+mtx_unlock,FUNC_1
+tcp_hpts_lock,FUNC_2
+tcp_queue_to_hpts_immediate_locked,FUNC_3
+__tcp_queue_to_hpts_immediate,FUNC_4
+inp,VAR_0
+line,VAR_1
+ret,VAR_2
+hpts,VAR_3

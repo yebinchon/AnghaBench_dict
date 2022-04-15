@@ -1,0 +1,16 @@
+DDRB,VAR_0
+DDRC,VAR_1
+ICR1,VAR_2
+OCR1A,VAR_3
+OCR1B,VAR_4
+OCR1C,VAR_5
+PORTC,VAR_6
+TCCR1A,VAR_7
+TCCR1B,VAR_8
+WDTO_500MS,VAR_9
+cbi,FUNC_0
+issi_init,FUNC_1
+matrix_init_user,FUNC_2
+sbi,FUNC_3
+wdt_enable,FUNC_4
+matrix_init_kb,FUNC_5

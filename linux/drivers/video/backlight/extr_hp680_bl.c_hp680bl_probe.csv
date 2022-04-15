@@ -1,0 +1,14 @@
+BACKLIGHT_RAW,VAR_0
+HP680_DEFAULT_INTENSITY,VAR_1
+HP680_MAX_INTENSITY,VAR_2
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+devm_backlight_device_register,FUNC_2
+hp680bl_ops,VAR_3
+hp680bl_send_intensity,FUNC_3
+memset,FUNC_4
+platform_set_drvdata,FUNC_5
+hp680bl_probe,FUNC_6
+pdev,VAR_4
+props,VAR_5
+bd,VAR_6

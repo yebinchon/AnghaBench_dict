@@ -1,0 +1,17 @@
+CLIENT_CONTROL,VAR_0
+CLIENT_SUSPENDED,VAR_1
+IMSG_HEADER_SIZE,VAR_2
+MAX_IMSGSIZE,VAR_3
+MSG_LOCK,VAR_4
+TTYC_CLEAR,VAR_5
+TTYC_E3,VAR_6
+TTYC_SMCUP,VAR_7
+options_get_string,FUNC_0
+proc_send,FUNC_1
+strlen,FUNC_2
+tty_raw,FUNC_3
+tty_stop_tty,FUNC_4
+tty_term_string,FUNC_5
+server_lock_client,FUNC_6
+c,VAR_8
+cmd,VAR_9

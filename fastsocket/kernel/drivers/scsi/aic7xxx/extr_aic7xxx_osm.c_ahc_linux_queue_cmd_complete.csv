@@ -1,0 +1,17 @@
+DID_ABORT,VAR_0
+DID_BAD_TARGET,VAR_1
+DID_BUS_BUSY,VAR_2
+DID_ERROR,VAR_3
+DID_NO_CONNECT,VAR_4
+DID_OK,VAR_5
+DID_PARITY,VAR_6
+DID_REQUEUE,VAR_7
+DID_RESET,VAR_8
+DID_TIME_OUT,VAR_9
+ahc_cmd_get_transaction_status,FUNC_0
+ahc_cmd_set_transaction_status,FUNC_1
+stub1,FUNC_2
+ahc_linux_queue_cmd_complete,FUNC_3
+ahc,VAR_10
+cmd,VAR_11
+new_status,VAR_12

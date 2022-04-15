@@ -1,0 +1,16 @@
+BUG,FUNC_0
+E1000_EICR_RX_QUEUE0,VAR_0
+E1000_EICR_TX_QUEUE0,VAR_1
+E1000_EIMS_OTHER,VAR_2
+E1000_MSIXBM,FUNC_1
+IGB_N0_QUEUE,VAR_3
+array_wr32,FUNC_2
+igb_write_ivar,FUNC_3
+igb_assign_vector,FUNC_4
+q_vector,VAR_4
+msix_vector,VAR_5
+adapter,VAR_6
+hw,VAR_7
+rx_queue,VAR_8
+tx_queue,VAR_9
+msixbm,VAR_10

@@ -1,0 +1,16 @@
+ASSERT_POOL,FUNC_0
+VCOS_BLOCKPOOL_HANDLE_GET_INDEX,FUNC_1
+VCOS_BLOCKPOOL_HANDLE_GET_SUBPOOL,FUNC_2
+VCOS_BLOCKPOOL_SUBPOOL_MAGIC,VAR_0
+VCOS_FUNCTION,VAR_1
+vcos_log_trace,FUNC_3
+vcos_mutex_lock,FUNC_4
+vcos_mutex_unlock,FUNC_5
+vcos_generic_blockpool_elem_from_handle,FUNC_6
+pool,VAR_2
+handle,VAR_3
+subpool,VAR_4
+subpool_id,VAR_5
+index,VAR_6
+ret,VAR_7
+hdr,VAR_8

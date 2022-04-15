@@ -1,0 +1,9 @@
+ADAU1781_DIG_PWDN1,VAR_0
+ADAU17X1_CLOCK_CONTROL,VAR_1
+ADAU17X1_CLOCK_CONTROL_SYSCLK_EN,VAR_2
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+adau1781_set_bias_level,FUNC_2
+component,VAR_3
+level,VAR_4
+adau,VAR_5

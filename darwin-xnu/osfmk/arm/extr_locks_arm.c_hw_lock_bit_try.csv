@@ -1,0 +1,16 @@
+FALSE,VAR_0
+LOCKSTAT_RECORD,FUNC_0
+LS_LCK_SPIN_LOCK_ACQUIRE,VAR_1
+TRUE,VAR_2
+_disable_preemption,FUNC_1
+_enable_preemption,FUNC_2
+atomic_test_and_set32,FUNC_3
+memory_order_acquire,VAR_3
+ordered_load_bit,FUNC_4
+ordered_store_bit,FUNC_5
+hw_lock_bit_try,FUNC_6
+lock,VAR_4
+bit,VAR_5
+mask,VAR_6
+state,VAR_7
+success,VAR_8

@@ -1,0 +1,15 @@
+LCK_MTX_ASSERT,FUNC_0
+LCK_MTX_ASSERT_NOTOWNED,VAR_0
+RT_LOCK_ASSERT_HELD,FUNC_1
+RT_REMREF_LOCKED,FUNC_2
+RT_UNLOCK,FUNC_3
+lck_mtx_lock,FUNC_4
+lck_mtx_unlock,FUNC_5
+nd6_is_new_addr_neighbor,FUNC_6
+nd6_lookup,FUNC_7
+nd6_mutex,VAR_1
+nd6_is_addr_neighbor,FUNC_8
+addr,VAR_2
+ifp,VAR_3
+rt_locked,VAR_4
+rt,VAR_5

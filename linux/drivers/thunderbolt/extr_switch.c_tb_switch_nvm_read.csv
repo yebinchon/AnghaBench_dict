@@ -1,0 +1,14 @@
+dma_port_flash_read,FUNC_0
+mutex_trylock,FUNC_1
+mutex_unlock,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_mark_last_busy,FUNC_4
+pm_runtime_put_autosuspend,FUNC_5
+restart_syscall,FUNC_6
+tb_switch_nvm_read,FUNC_7
+priv,VAR_0
+offset,VAR_1
+val,VAR_2
+bytes,VAR_3
+sw,VAR_4
+ret,VAR_5

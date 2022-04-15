@@ -1,0 +1,13 @@
+SIGALRM_MASK,VAR_0
+SIGIO,VAR_1
+SIGIO_MASK,VAR_2
+barrier,FUNC_0
+sig_handler_common,FUNC_1
+signals_active,VAR_3
+signals_enabled,VAR_4
+signals_pending,VAR_5
+timer_real_alarm_handler,FUNC_2
+um_trace_signals_off,FUNC_3
+um_trace_signals_on,FUNC_4
+unblock_signals,FUNC_5
+save_pending,VAR_6

@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+PCIC_BRIDGE,VAR_1
+PCIR_SECBUS_1,VAR_2
+PCIS_BRIDGE_PCI,VAR_3
+device_set_desc,FUNC_0
+mptable_pci_probe_table,FUNC_1
+pci_get_class,FUNC_2
+pci_get_subclass,FUNC_3
+pci_read_config,FUNC_4
+mptable_pcib_probe,FUNC_5
+dev,VAR_4
+bus,VAR_5

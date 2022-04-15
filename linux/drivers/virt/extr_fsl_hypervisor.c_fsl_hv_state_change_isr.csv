@@ -1,0 +1,11 @@
+FH_PARTITION_STOPPED,VAR_0
+IRQ_HANDLED,VAR_1
+IRQ_WAKE_THREAD,VAR_2
+fh_partition_get_status,FUNC_0
+fsl_hv_queue_doorbell,FUNC_1
+fsl_hv_state_change_isr,FUNC_2
+irq,VAR_3
+data,VAR_4
+status,VAR_5
+dbisr,VAR_6
+ret,VAR_7

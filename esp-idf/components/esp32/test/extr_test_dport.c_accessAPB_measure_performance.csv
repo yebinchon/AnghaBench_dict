@@ -1,0 +1,11 @@
+REG_READ,FUNC_0
+UART_DATE_REG,FUNC_1
+apb_counter,VAR_0
+apb_test_result,VAR_1
+exit_flag,VAR_2
+vTaskDelete,FUNC_2
+xSemaphoreGive,FUNC_3
+accessAPB_measure_performance,FUNC_4
+pvParameters,VAR_3
+sema,VAR_4
+uart_date,VAR_5

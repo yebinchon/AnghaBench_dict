@@ -1,0 +1,13 @@
+AOP_WRITEPAGE_ACTIVATE,VAR_0
+PF_MEMALLOC,VAR_1
+btrfs_add_delayed_iput,FUNC_0
+current,VAR_2
+extent_write_full_page,FUNC_1
+igrab,FUNC_2
+redirty_page_for_writepage,FUNC_3
+unlock_page,FUNC_4
+btrfs_writepage,FUNC_5
+page,VAR_3
+wbc,VAR_4
+inode,VAR_5
+ret,VAR_6

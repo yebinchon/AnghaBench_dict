@@ -1,0 +1,12 @@
+ADD_CNT,FUNC_0
+END_TIMER,FUNC_1
+RPC_BUFFER_MAGIC,VAR_0
+START_TIMER,FUNC_2
+assert,FUNC_3
+buffer_write_double,FUNC_4
+fprintf,FUNC_5
+outbuf,VAR_1
+stderr,VAR_2
+store,VAR_3
+do_rpc_store_double,FUNC_6
+value,VAR_4

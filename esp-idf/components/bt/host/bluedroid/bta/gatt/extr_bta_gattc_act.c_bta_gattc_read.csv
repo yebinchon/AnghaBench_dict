@@ -1,0 +1,13 @@
+BTA_GATT_OK,VAR_0
+GATTC_OPTYPE_READ,VAR_1
+GATTC_Read,FUNC_0
+GATT_READ_BY_HANDLE,VAR_2
+bta_gattc_cmpl_sendmsg,FUNC_1
+bta_gattc_enqueue,FUNC_2
+bta_gattc_pop_command_to_send,FUNC_3
+memset,FUNC_4
+bta_gattc_read,FUNC_5
+p_clcb,VAR_3
+p_data,VAR_4
+read_param,VAR_5
+status,VAR_6

@@ -1,0 +1,14 @@
+OPTEE_SMC_DISABLE_SHM_CACHE,VAR_0
+OPTEE_SMC_RETURN_ENOTAVAIL,VAR_1
+OPTEE_SMC_RETURN_OK,VAR_2
+optee_cq_wait_final,FUNC_0
+optee_cq_wait_for_completion,FUNC_1
+optee_cq_wait_init,FUNC_2
+reg_pair_to_ptr,FUNC_3
+stub1,FUNC_4
+tee_shm_free,FUNC_5
+optee_disable_shm_cache,FUNC_6
+optee,VAR_3
+w,VAR_4
+res,VAR_5
+shm,VAR_6

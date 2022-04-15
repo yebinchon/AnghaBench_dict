@@ -1,0 +1,13 @@
+SATI_FAILURE,VAR_0
+SATI_SEQUENCE_STATE_AWAIT_RESPONSE,VAR_1
+SATI_SEQUENCE_STATE_INCOMPLETE,VAR_2
+SATI_SEQUENCE_STATE_INITIAL,VAR_3
+SATI_SEQUENCE_WRITE_AND_VERIFY,VAR_4
+TRUE,VAR_5
+sati_verify_12_translate_command,FUNC_0
+sati_write_12_translate_command,FUNC_1
+sati_write_and_verify_12_translate_command,FUNC_2
+sequence,VAR_6
+scsi_io,VAR_7
+ata_io,VAR_8
+status,VAR_9

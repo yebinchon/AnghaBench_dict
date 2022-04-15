@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+IBLOCK_DEV,FUNC_0
+REQ_OP_WRITE,VAR_1
+REQ_PREFLUSH,VAR_2
+SAM_STAT_GOOD,VAR_3
+bio_alloc,FUNC_1
+bio_set_dev,FUNC_2
+iblock_end_io_flush,VAR_4
+submit_bio,FUNC_3
+target_complete_cmd,FUNC_4
+iblock_execute_sync_cache,FUNC_5
+cmd,VAR_5
+ib_dev,VAR_6
+immed,VAR_7
+bio,VAR_8

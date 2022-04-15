@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+PROCESS_ACTIVE_TIME_MS,VAR_2
+dma_fence_is_signaled,FUNC_0
+get_jiffies_64,FUNC_1
+kfd_lookup_process_by_mm,FUNC_2
+kfd_unref_process,FUNC_3
+msecs_to_jiffies,FUNC_4
+schedule_delayed_work,FUNC_5
+kgd2kfd_schedule_evict_and_restore_process,FUNC_6
+mm,VAR_3
+fence,VAR_4
+p,VAR_5
+active_time,VAR_6
+delay_jiffies,VAR_7

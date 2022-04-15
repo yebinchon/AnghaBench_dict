@@ -1,0 +1,15 @@
+INSTALLMESSAGE_INFO,VAR_0
+INSTALLMESSAGE_SHOWDIALOG,VAR_1
+MSI_CreateRecord,FUNC_0
+MSI_ProcessMessage,FUNC_1
+MSI_RecordSetInteger,FUNC_2
+MSI_RecordSetStringW,FUNC_3
+TABLE_Exists,FUNC_4
+msiobj_release,FUNC_5
+ACTION_ShowDialog,FUNC_6
+package,VAR_2
+dialog,VAR_3
+szDialog,VAR_4
+row,VAR_5
+rc,VAR_6
+row,VAR_7

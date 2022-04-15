@@ -1,0 +1,15 @@
+IGC_ICR,VAR_0
+__IGC_DOWN,VAR_1
+clear_bit,FUNC_0
+igc_assign_vector,FUNC_1
+igc_configure,FUNC_2
+igc_configure_msix,FUNC_3
+igc_irq_enable,FUNC_4
+napi_enable,FUNC_5
+netif_tx_start_all_queues,FUNC_6
+rd32,FUNC_7
+schedule_work,FUNC_8
+igc_up,FUNC_9
+adapter,VAR_2
+hw,VAR_3
+i,VAR_4

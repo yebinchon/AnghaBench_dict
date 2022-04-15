@@ -1,0 +1,11 @@
+ACPI_SUCCESS,FUNC_0
+SW_TABLET_MODE,VAR_0
+cmpc_get_tablet,FUNC_1
+dev_get_drvdata,FUNC_2
+input_report_switch,FUNC_3
+input_sync,FUNC_4
+cmpc_tablet_handler,FUNC_5
+dev,VAR_1
+event,VAR_2
+val,VAR_3
+inputdev,VAR_4

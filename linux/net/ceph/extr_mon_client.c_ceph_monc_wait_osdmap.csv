@@ -1,0 +1,14 @@
+CEPH_SUB_OSDMAP,VAR_0
+ETIMEDOUT,VAR_1
+ceph_timeout_jiffies,FUNC_0
+jiffies,VAR_2
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+time_after_eq,FUNC_3
+wait_event_interruptible_timeout,FUNC_4
+ceph_monc_wait_osdmap,FUNC_5
+monc,VAR_3
+epoch,VAR_4
+timeout,VAR_5
+started,VAR_6
+ret,VAR_7

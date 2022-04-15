@@ -1,0 +1,17 @@
+APIC_TPR_INT,VAR_0
+VMX_CTR_PIR,FUNC_0
+VPR_PRIO_BIT,FUNC_1
+atomic_cmpset_long,FUNC_2
+atomic_set_int,FUNC_3
+atomic_set_long,FUNC_4
+vmx_set_intr_ready,FUNC_5
+vlapic,VAR_1
+vector,VAR_2
+level,VAR_3
+vlapic_vtx,VAR_4
+pir_desc,VAR_5
+mask,VAR_6
+idx,VAR_7
+notify,VAR_8
+old_prio,VAR_9
+prio_bit,VAR_10

@@ -1,0 +1,14 @@
+KVM_EXIT_INTERNAL_ERROR,VAR_0
+KVM_MIPS_AUX_MSA,VAR_1
+MIPS_CONF5_MSAEN,VAR_2
+RESUME_GUEST,VAR_3
+RESUME_HOST,VAR_4
+ST0_CU1,VAR_5
+ST0_FR,VAR_6
+kvm_mips_guest_has_msa,FUNC_0
+kvm_own_msa,FUNC_1
+read_gc0_config5,FUNC_2
+read_gc0_status,FUNC_3
+kvm_trap_vz_handle_msa_disabled,FUNC_4
+vcpu,VAR_7
+run,VAR_8

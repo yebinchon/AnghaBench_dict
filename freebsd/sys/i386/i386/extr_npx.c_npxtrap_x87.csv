@@ -1,0 +1,16 @@
+GET_FPU_CW,FUNC_0
+GET_FPU_SW,FUNC_1
+PCPU_GET,FUNC_2
+critical_enter,FUNC_3
+critical_exit,FUNC_4
+curthread,VAR_0
+fnstcw,FUNC_5
+fnstsw,FUNC_6
+fpcurthread,VAR_1
+fpetable,VAR_2
+hw_float,VAR_3
+panic,FUNC_7
+printf,FUNC_8
+npxtrap_x87,FUNC_9
+control,VAR_4
+status,VAR_5

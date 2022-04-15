@@ -1,0 +1,16 @@
+LDNS_RR_TYPE_NSEC,VAR_0
+LDNS_STATUS_CRYPTO_NO_DNSKEY,VAR_1
+LDNS_STATUS_DNSSEC_EXISTENCE_DENIED,VAR_2
+LDNS_STATUS_ERR,VAR_3
+LDNS_STATUS_OK,VAR_4
+ldns_rr_compare_ds,FUNC_0
+ldns_rr_get_type,FUNC_1
+ldns_rr_list_rr,FUNC_2
+ldns_rr_list_rr_count,FUNC_3
+ldns_dnssec_trust_tree_contains_keys,FUNC_4
+tree,VAR_5
+trusted_keys,VAR_6
+i,VAR_7
+result,VAR_8
+equal,VAR_9
+parent_result,VAR_10

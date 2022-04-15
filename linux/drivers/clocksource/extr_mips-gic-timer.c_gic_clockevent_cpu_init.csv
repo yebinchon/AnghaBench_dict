@@ -1,0 +1,12 @@
+CLOCK_EVT_FEAT_C3STOP,VAR_0
+CLOCK_EVT_FEAT_ONESHOT,VAR_1
+IRQ_TYPE_NONE,VAR_2
+clockevents_config_and_register,FUNC_0
+cpumask_of,FUNC_1
+enable_percpu_irq,FUNC_2
+gic_frequency,VAR_3
+gic_next_event,VAR_4
+gic_timer_irq,VAR_5
+gic_clockevent_cpu_init,FUNC_3
+cpu,VAR_6
+cd,VAR_7

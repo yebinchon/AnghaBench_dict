@@ -1,0 +1,16 @@
+MLX4_CQ_DB_REQ_NOT,VAR_0
+MLX4_CQ_DB_REQ_NOT_SOL,VAR_1
+MLX4_CQ_DOORBELL,VAR_2
+htobe32,FUNC_0
+mlx4_write64,FUNC_1
+to_mcq,FUNC_2
+to_mctx,FUNC_3
+udma_to_device_barrier,FUNC_4
+mlx4_arm_cq,FUNC_5
+ibvcq,VAR_3
+solicited,VAR_4
+cq,VAR_5
+doorbell,VAR_6
+sn,VAR_7
+ci,VAR_8
+cmd,VAR_9

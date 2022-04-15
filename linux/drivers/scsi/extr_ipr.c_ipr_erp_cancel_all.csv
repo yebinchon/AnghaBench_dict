@@ -1,0 +1,13 @@
+IPR_CANCEL_ALL_REQUESTS,VAR_0
+IPR_CANCEL_ALL_TIMEOUT,VAR_1
+IPR_RQTYPE_IOACMD,VAR_2
+__ipr_erp_request_sense,FUNC_0
+ipr_do_req,FUNC_1
+ipr_erp_request_sense,VAR_3
+ipr_reinit_ipr_cmnd_for_erp,FUNC_2
+ipr_timeout,VAR_4
+ipr_erp_cancel_all,FUNC_3
+ipr_cmd,VAR_5
+scsi_cmd,VAR_6
+res,VAR_7
+cmd_pkt,VAR_8

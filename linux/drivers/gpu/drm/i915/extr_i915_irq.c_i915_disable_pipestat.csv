@@ -1,0 +1,16 @@
+I915_WRITE,FUNC_0
+PIPESTAT,FUNC_1
+PIPESTAT_INT_STATUS_MASK,VAR_0
+POSTING_READ,FUNC_2
+WARN_ON,FUNC_3
+WARN_ONCE,FUNC_4
+i915_pipestat_enable_mask,FUNC_5
+intel_irqs_enabled,FUNC_6
+lockdep_assert_held,FUNC_7
+pipe_name,FUNC_8
+i915_disable_pipestat,FUNC_9
+dev_priv,VAR_1
+pipe,VAR_2
+status_mask,VAR_3
+reg,VAR_4
+enable_mask,VAR_5

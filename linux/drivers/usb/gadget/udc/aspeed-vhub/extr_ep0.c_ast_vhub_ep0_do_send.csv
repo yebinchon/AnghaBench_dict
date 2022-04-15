@@ -1,0 +1,14 @@
+EPVDBG,FUNC_0
+VHUB_EP0_RX_BUFF_RDY,VAR_0
+VHUB_EP0_SET_TX_LEN,FUNC_1
+VHUB_EP0_TX_BUFF_RDY,VAR_1
+ast_vhub_done,FUNC_2
+ep0_state_status,VAR_2
+memcpy,FUNC_3
+vhub_dma_workaround,FUNC_4
+writel,FUNC_5
+ast_vhub_ep0_do_send,FUNC_6
+ep,VAR_3
+req,VAR_4
+chunk,VAR_5
+reg,VAR_6

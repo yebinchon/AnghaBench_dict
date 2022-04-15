@@ -1,0 +1,14 @@
+PSC_SPIMSK_SD,VAR_0
+PSC_SPIMSK_TR,VAR_1
+PSC_SPIPCR_MS,VAR_2
+PSC_SPISTAT_TF,VAR_3
+au_sync,FUNC_0
+spi_master_get_devdata,FUNC_1
+stub1,FUNC_2
+wait_for_completion,FUNC_3
+au1550_spi_pio_txrxb,FUNC_4
+spi,VAR_4
+t,VAR_5
+stat,VAR_6
+mask,VAR_7
+hw,VAR_8

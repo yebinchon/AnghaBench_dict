@@ -1,0 +1,10 @@
+CRYPTO_THREAD_read_lock,FUNC_0
+CRYPTO_THREAD_unlock,FUNC_1
+CRYPTO_THREAD_write_lock,FUNC_2
+openssl_ctx_get_concrete,FUNC_3
+openssl_ctx_run_once,FUNC_4
+ctx,VAR_0
+idx,VAR_1
+run_once_fn,VAR_2
+done,VAR_3
+ret,VAR_4

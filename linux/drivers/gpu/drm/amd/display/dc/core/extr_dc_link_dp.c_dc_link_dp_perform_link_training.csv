@@ -1,0 +1,14 @@
+LINK_TRAINING_SUCCESS,VAR_0
+dp_set_fec_ready,FUNC_0
+dpcd_set_link_settings,FUNC_1
+initialize_training_settings,FUNC_2
+perform_channel_equalization_sequence,FUNC_3
+perform_clock_recovery_sequence,FUNC_4
+perform_link_training_int,FUNC_5
+print_status_message,FUNC_6
+dc_link_dp_perform_link_training,FUNC_7
+link,VAR_1
+link_setting,VAR_2
+skip_video_pattern,VAR_3
+status,VAR_4
+lt_settings,VAR_5

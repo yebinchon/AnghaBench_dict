@@ -1,0 +1,16 @@
+PROCESS_WRITER,VAR_0
+T_ASSERT_POSIX_SUCCESS,FUNC_0
+T_LOG,FUNC_1
+T_QUIET,VAR_1
+close,FUNC_2
+dt_fork_helper,FUNC_3
+dt_run_helpers,FUNC_4
+fd_pair_init,FUNC_5
+pipe,FUNC_6
+shared,VAR_2
+drive_processes,FUNC_7
+fd_pair,VAR_3
+rd_mode,VAR_4
+wr_mode,VAR_5
+fds,VAR_6
+helpers,VAR_7

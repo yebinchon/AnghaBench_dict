@@ -1,0 +1,15 @@
+EMSGSIZE,VAR_0
+TIPC_NLA_LINK,VAR_1
+TIPC_NLA_LINK_NAME,VAR_2
+TIPC_NLA_LINK_PROP,VAR_3
+TLV_DATA,FUNC_0
+__tipc_add_link_prop,FUNC_1
+nla_nest_end,FUNC_2
+nla_nest_start_noflag,FUNC_3
+nla_put_string,FUNC_4
+__tipc_nl_compat_link_set,FUNC_5
+skb,VAR_4
+msg,VAR_5
+prop,VAR_6
+link,VAR_7
+lc,VAR_8

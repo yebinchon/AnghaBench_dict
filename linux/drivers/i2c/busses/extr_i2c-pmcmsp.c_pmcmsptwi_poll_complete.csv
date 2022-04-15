@@ -1,0 +1,16 @@
+MSP_MAX_POLL,VAR_0
+MSP_POLL_DELAY,VAR_1
+MSP_TWI_BUSY_REG_OFFSET,VAR_2
+MSP_TWI_INT_STS_REG_OFFSET,VAR_3
+MSP_TWI_XFER_TIMEOUT,VAR_4
+dev_dbg,FUNC_0
+pmcmsptwi_adapter,VAR_5
+pmcmsptwi_get_result,FUNC_1
+pmcmsptwi_readl,FUNC_2
+pmcmsptwi_writel,FUNC_3
+udelay,FUNC_4
+pmcmsptwi_poll_complete,FUNC_5
+data,VAR_6
+i,VAR_7
+val,VAR_8
+reason,VAR_9

@@ -1,0 +1,11 @@
+PCI_CAP_ID_EXP,VAR_0
+PCI_CAP_ID_PCIX,VAR_1
+PCI_EXP_SAVE_REGS,VAR_2
+PCI_EXT_CAP_ID_LTR,VAR_3
+pci_add_cap_save_buffer,FUNC_0
+pci_add_ext_cap_save_buffer,FUNC_1
+pci_allocate_vc_save_buffers,FUNC_2
+pci_err,FUNC_3
+pci_allocate_cap_save_buffers,FUNC_4
+dev,VAR_4
+error,VAR_5

@@ -1,0 +1,9 @@
+RPC_CRYPTO_NONE,VAR_0
+RPC_NONCE,VAR_1
+TCP_RPC_DATA,FUNC_0
+assert,FUNC_1
+memset,FUNC_2
+tcp_rpc_conn_send_data,FUNC_3
+tcp_rpcc_init_fake_crypto,FUNC_4
+c,VAR_2
+buf,VAR_3

@@ -1,0 +1,10 @@
+BOOTLOADER_PCI_READ_BUFFER_OWNER_ADDR,VAR_0
+HZ,VAR_1
+OCTEON_PCI_IO_BUF_OWNER_HOST,VAR_2
+dev_dbg,FUNC_0
+octeon_mem_access_ok,FUNC_1
+octeon_read_device_mem32,FUNC_2
+schedule_timeout_uninterruptible,FUNC_3
+octeon_wait_for_bootloader,FUNC_4
+oct,VAR_3
+wait_time_hundredths,VAR_4

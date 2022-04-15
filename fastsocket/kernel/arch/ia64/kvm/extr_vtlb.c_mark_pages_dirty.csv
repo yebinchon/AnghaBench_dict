@@ -1,0 +1,17 @@
+KVM_MEM_DIRTY_LOG_BASE,VAR_0
+PAGE_SHIFT,VAR_1
+_PAGE_PPN_MASK,VAR_2
+__kvm_va,FUNC_0
+set_bit,FUNC_1
+test_bit,FUNC_2
+vmm_spin_lock,FUNC_3
+vmm_spin_unlock,FUNC_4
+mark_pages_dirty,FUNC_5
+v,VAR_3
+pte,VAR_4
+ps,VAR_5
+i,VAR_6
+dirty_pages,VAR_7
+base_gfn,VAR_8
+lock,VAR_9
+dirty_bitmap,VAR_10

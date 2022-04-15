@@ -1,0 +1,12 @@
+IGB_FILTER_FLAG_DST_MAC_ADDR,VAR_0
+IGB_FILTER_FLAG_ETHER_TYPE,VAR_1
+IGB_FILTER_FLAG_SRC_MAC_ADDR,VAR_2
+IGB_FILTER_FLAG_VLAN_TCI,VAR_3
+IGB_MAC_STATE_SRC_ADDR,VAR_4
+igb_clear_etype_filter_regs,FUNC_0
+igb_clear_vlan_prio_filter,FUNC_1
+igb_del_mac_steering_filter,FUNC_2
+ntohs,FUNC_3
+igb_erase_filter,FUNC_4
+adapter,VAR_5
+input,VAR_6

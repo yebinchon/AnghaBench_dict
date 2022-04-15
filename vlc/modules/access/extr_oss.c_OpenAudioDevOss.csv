@@ -1,0 +1,17 @@
+AFMT_S16_LE,VAR_0
+O_NONBLOCK,VAR_1
+O_RDONLY,VAR_2
+SNDCTL_DSP_SETFMT,VAR_3
+SNDCTL_DSP_SPEED,VAR_4
+SNDCTL_DSP_STEREO,VAR_5
+errno,VAR_6
+ioctl,FUNC_0
+msg_Err,FUNC_1
+vlc_close,FUNC_2
+vlc_open,FUNC_3
+vlc_strerror_c,FUNC_4
+OpenAudioDevOss,FUNC_5
+p_demux,VAR_7
+p_sys,VAR_8
+i_fd,VAR_9
+i_format,VAR_10

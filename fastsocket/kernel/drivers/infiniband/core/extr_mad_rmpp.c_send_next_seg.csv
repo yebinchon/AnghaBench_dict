@@ -1,0 +1,13 @@
+IB_MGMT_RMPP_DATA,VAR_0
+IB_MGMT_RMPP_FLAG_ACTIVE,VAR_1
+IB_MGMT_RMPP_FLAG_FIRST,VAR_2
+IB_MGMT_RMPP_FLAG_LAST,VAR_3
+cpu_to_be32,FUNC_0
+ib_send_mad,FUNC_1
+ib_set_rmpp_flags,FUNC_2
+msecs_to_jiffies,FUNC_3
+send_next_seg,FUNC_4
+mad_send_wr,VAR_4
+rmpp_mad,VAR_5
+timeout,VAR_6
+paylen,VAR_7

@@ -1,0 +1,11 @@
+I387_SIZEOF_FSAVE,VAR_0
+gdb_assert,FUNC_0
+i386_supply_gregset,FUNC_1
+i387_supply_fsave,FUNC_2
+i386nbsd_aout_supply_regset,FUNC_3
+regset,VAR_1
+regcache,VAR_2
+regnum,VAR_3
+regs,VAR_4
+len,VAR_5
+tdep,VAR_6

@@ -1,0 +1,12 @@
+cfg,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+count_me,VAR_1
+git_config_get_multivar_foreach,FUNC_3
+git_config_open_ondisk,FUNC_4
+git_config_snapshot,FUNC_5
+p_unlink,FUNC_6
+snapshot,VAR_2
+test_config_snapshot__multivar,FUNC_7
+count,VAR_3

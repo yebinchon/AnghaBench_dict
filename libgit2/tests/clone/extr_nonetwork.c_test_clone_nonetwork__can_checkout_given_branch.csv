@@ -1,0 +1,14 @@
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_s,FUNC_2
+cl_git_fixture_url,FUNC_3
+cl_git_pass,FUNC_4
+g_options,VAR_0
+g_ref,VAR_1
+g_repo,VAR_2
+git_clone,FUNC_5
+git_path_exists,FUNC_6
+git_reference_name,FUNC_7
+git_repository_head,FUNC_8
+git_repository_head_unborn,FUNC_9
+test_clone_nonetwork__can_checkout_given_branch,FUNC_10

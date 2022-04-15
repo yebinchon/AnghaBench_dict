@@ -1,0 +1,14 @@
+DC_LOCK_ASSERT,FUNC_0
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+IFQ_DRV_IS_EMPTY,FUNC_1
+callout_reset,FUNC_2
+dc_init_locked,FUNC_3
+dc_start_locked,FUNC_4
+device_printf,FUNC_5
+hz,VAR_2
+if_inc_counter,FUNC_6
+dc_watchdog,FUNC_7
+xsc,VAR_3
+sc,VAR_4
+ifp,VAR_5

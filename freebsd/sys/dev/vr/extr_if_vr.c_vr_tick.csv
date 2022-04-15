@@ -1,0 +1,16 @@
+IFF_DRV_RUNNING,VAR_0
+VR_F_LINK,VAR_1
+VR_F_RESTART,VAR_2
+VR_LOCK_ASSERT,FUNC_0
+callout_reset,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+hz,VAR_3
+mii_tick,FUNC_4
+vr_init_locked,FUNC_5
+vr_miibus_statchg,FUNC_6
+vr_watchdog,FUNC_7
+vr_tick,FUNC_8
+xsc,VAR_4
+sc,VAR_5
+mii,VAR_6

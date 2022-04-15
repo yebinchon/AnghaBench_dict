@@ -1,0 +1,10 @@
+__add_event_to_tracers,FUNC_0
+__register_event,FUNC_1
+event_mutex,VAR_0
+lockdep_assert_held,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+trace_types_lock,VAR_1
+trace_add_event_call,FUNC_5
+call,VAR_2
+ret,VAR_3

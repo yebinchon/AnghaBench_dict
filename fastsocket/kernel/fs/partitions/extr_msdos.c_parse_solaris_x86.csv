@@ -1,0 +1,14 @@
+SOLARIS_X86_NUMSLICE,VAR_0
+SOLARIS_X86_VTOC_SANE,VAR_1
+le16_to_cpu,FUNC_0
+le32_to_cpu,FUNC_1
+printk,FUNC_2
+put_dev_sector,FUNC_3
+put_partition,FUNC_4
+read_dev_sector,FUNC_5
+parse_solaris_x86,FUNC_6
+state,VAR_2
+bdev,VAR_3
+offset,VAR_4
+size,VAR_5
+origin,VAR_6

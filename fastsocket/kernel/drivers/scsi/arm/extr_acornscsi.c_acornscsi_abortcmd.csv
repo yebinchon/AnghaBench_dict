@@ -1,0 +1,11 @@
+ABORT,VAR_0
+ABORT_TAG,VAR_1
+CMND_ASSERTATN,VAR_2
+PHASE_ABORTED,VAR_3
+SBIC_CMND,VAR_4
+msgqueue_addmsg,FUNC_0
+msgqueue_flush,FUNC_1
+sbic_arm_write,FUNC_2
+acornscsi_abortcmd,FUNC_3
+host,VAR_5
+tag,VAR_6

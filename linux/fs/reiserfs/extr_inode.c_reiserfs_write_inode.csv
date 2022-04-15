@@ -1,0 +1,15 @@
+EROFS,VAR_0
+PF_MEMALLOC,VAR_1
+WB_SYNC_ALL,VAR_2
+current,VAR_3
+journal_begin,FUNC_0
+journal_end_sync,FUNC_1
+reiserfs_update_sd,FUNC_2
+reiserfs_write_lock,FUNC_3
+reiserfs_write_unlock,FUNC_4
+sb_rdonly,FUNC_5
+reiserfs_write_inode,FUNC_6
+inode,VAR_4
+wbc,VAR_5
+th,VAR_6
+jbegin_count,VAR_7

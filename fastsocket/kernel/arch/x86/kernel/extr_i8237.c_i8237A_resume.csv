@@ -1,0 +1,12 @@
+DMA1_RESET_REG,VAR_0
+DMA2_RESET_REG,VAR_1
+claim_dma_lock,FUNC_0
+dma_outb,FUNC_1
+enable_dma,FUNC_2
+release_dma_lock,FUNC_3
+set_dma_addr,FUNC_4
+set_dma_count,FUNC_5
+i8237A_resume,FUNC_6
+dev,VAR_2
+flags,VAR_3
+i,VAR_4

@@ -1,0 +1,17 @@
+EASI_BASE,VAR_0
+EASI_SIZE,VAR_1
+EASI_START,VAR_2
+IO_BASE,VAR_3
+IO_SIZE,VAR_4
+IO_START,VAR_5
+PGDIR_SIZE,VAR_6
+TLB_FLUSH_VMA,FUNC_0
+VM_EXEC,VAR_7
+flush_tlb_range,FUNC_1
+memcpy,FUNC_2
+pgd_offset,FUNC_3
+ecard_init_pgtables,FUNC_4
+mm,VAR_8
+vma,VAR_9
+src_pgd,VAR_10
+dst_pgd,VAR_11

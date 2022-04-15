@@ -1,0 +1,14 @@
+JERRY_LOG_LEVEL_ERROR,VAR_0
+assert,FUNC_0
+jerry_get_utf8_string_size,FUNC_1
+jerry_port_log,FUNC_2
+jerry_release_value,FUNC_3
+jerry_string_to_utf8_char_buffer,FUNC_4
+jerry_value_is_error,FUNC_5
+jerry_value_to_string,FUNC_6
+print_unhandled_exception,FUNC_7
+error_value,VAR_1
+err_str_val,VAR_2
+err_str_size,VAR_3
+err_str_buf,VAR_4
+string_end,VAR_5

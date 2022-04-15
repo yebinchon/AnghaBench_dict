@@ -1,0 +1,16 @@
+assert,FUNC_0
+client_context_flush_all,FUNC_1
+free,FUNC_2
+journal_file_close,FUNC_3
+journal_ratelimit_free,FUNC_4
+mmap_cache_unref,FUNC_5
+munmap,FUNC_6
+ordered_hashmap_free_with_destructor,FUNC_7
+safe_close,FUNC_8
+sd_event_source_unref,FUNC_9
+sd_event_unref,FUNC_10
+set_free_with_destructor,FUNC_11
+stdout_stream_free,FUNC_12
+varlink_server_unref,FUNC_13
+server_done,FUNC_14
+s,VAR_0

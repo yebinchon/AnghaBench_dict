@@ -1,0 +1,14 @@
+MLX5_IB_SEND_UMR_UNREG,VAR_0
+MLX5_IB_SEND_UMR_UPDATE_MTT,VAR_1
+MLX5_MKEY_STATUS_FREE,VAR_2
+convert_access,FUNC_0
+cpu_to_be32,FUNC_1
+cpu_to_be64,FUNC_2
+memset,FUNC_3
+mlx5_mkey_variant,FUNC_4
+to_mpd,FUNC_5
+umr_wr,FUNC_6
+set_reg_mkey_segment,FUNC_7
+seg,VAR_3
+wr,VAR_4
+umrwr,VAR_5

@@ -1,0 +1,10 @@
+MA_OWNED,VAR_0
+UBT_FLAG_T_PENDING,VAR_1
+UBT_FLAG_T_START_ALL,VAR_2
+UBT_FLAG_T_STOP_ALL,VAR_3
+mtx_assert,FUNC_0
+taskqueue_enqueue,FUNC_1
+taskqueue_swi,VAR_4
+ubt_task_schedule,FUNC_2
+sc,VAR_5
+action,VAR_6

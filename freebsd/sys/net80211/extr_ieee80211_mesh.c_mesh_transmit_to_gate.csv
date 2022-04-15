@@ -1,0 +1,12 @@
+IEEE80211_TX_UNLOCK_ASSERT,FUNC_0
+IFCOUNTER_OERRORS,VAR_0
+ieee80211_mesh_find_txnode,FUNC_1
+ieee80211_vap_pkt_send_dest,FUNC_2
+if_inc_counter,FUNC_3
+m_freem,FUNC_4
+mesh_transmit_to_gate,FUNC_5
+vap,VAR_1
+m,VAR_2
+rt_gate,VAR_3
+ifp,VAR_4
+ni,VAR_5

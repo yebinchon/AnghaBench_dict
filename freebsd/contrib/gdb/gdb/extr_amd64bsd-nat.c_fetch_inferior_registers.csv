@@ -1,0 +1,15 @@
+AMD64_ST0_REGNUM,VAR_0
+PIDGET,FUNC_0
+PT_GETFPREGS,VAR_1
+PT_GETREGS,VAR_2
+amd64_native_gregset_supplies_p,FUNC_1
+amd64_supply_fxsave,FUNC_2
+amd64_supply_native_gregset,FUNC_3
+current_regcache,VAR_3
+inferior_ptid,VAR_4
+perror_with_name,FUNC_4
+ptrace,FUNC_5
+fetch_inferior_registers,FUNC_6
+regnum,VAR_5
+regs,VAR_6
+fpregs,VAR_7

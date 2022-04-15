@@ -1,0 +1,8 @@
+HYPERVISOR_shared_info,VAR_0
+NMI_REASON_IOCHK,VAR_1
+NMI_REASON_SERR,VAR_2
+_XEN_NMIREASON_io_error,VAR_3
+_XEN_NMIREASON_pci_serr,VAR_4
+test_bit,FUNC_0
+xen_get_nmi_reason,FUNC_1
+reason,VAR_5

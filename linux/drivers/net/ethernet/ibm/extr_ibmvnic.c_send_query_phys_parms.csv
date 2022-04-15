@@ -1,0 +1,11 @@
+EIO,VAR_0
+IBMVNIC_CRQ_CMD,VAR_1
+QUERY_PHYS_PARMS,VAR_2
+ibmvnic_send_crq,FUNC_0
+init_completion,FUNC_1
+memset,FUNC_2
+wait_for_completion,FUNC_3
+send_query_phys_parms,FUNC_4
+adapter,VAR_3
+crq,VAR_4
+rc,VAR_5

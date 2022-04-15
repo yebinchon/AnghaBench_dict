@@ -1,0 +1,13 @@
+MAXPATHLEN,VAR_0
+M_TEMP,VAR_1
+M_WAITOK,VAR_2
+copyinstr,FUNC_0
+free,FUNC_1
+kern_kldload,FUNC_2
+malloc,FUNC_3
+sys_kldload,FUNC_4
+td,VAR_3
+uap,VAR_4
+pathname,VAR_5
+error,VAR_6
+fileid,VAR_7

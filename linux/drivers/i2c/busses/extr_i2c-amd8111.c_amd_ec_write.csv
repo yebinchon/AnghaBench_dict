@@ -1,0 +1,10 @@
+AMD_EC_CMD,VAR_0
+AMD_EC_CMD_WR,VAR_1
+AMD_EC_DATA,VAR_2
+amd_ec_wait_write,FUNC_0
+outb,FUNC_1
+amd_ec_write,FUNC_2
+smbus,VAR_3
+address,VAR_4
+data,VAR_5
+status,VAR_6

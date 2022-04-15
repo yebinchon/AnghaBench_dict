@@ -1,0 +1,12 @@
+PROC_POLICY_ACTION_APPLY,VAR_0
+PROC_POLICY_RESOURCE_USAGE,VAR_1
+PROC_POLICY_RUSAGE_CPU,VAR_2
+PROC_POLICY_SCOPE_PROCESS,VAR_3
+__process_policy,FUNC_0
+bzero,FUNC_1
+errno,VAR_4
+proc_setcpu_percentage,FUNC_2
+pid,VAR_5
+action,VAR_6
+percentage,VAR_7
+attr,VAR_8

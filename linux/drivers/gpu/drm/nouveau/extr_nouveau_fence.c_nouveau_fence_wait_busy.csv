@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+ERESTARTSYS,VAR_1
+TASK_INTERRUPTIBLE,VAR_2
+TASK_RUNNING,VAR_3
+TASK_UNINTERRUPTIBLE,VAR_4
+__set_current_state,FUNC_0
+current,VAR_5
+jiffies,VAR_6
+nouveau_fence_done,FUNC_1
+signal_pending,FUNC_2
+time_after_eq,FUNC_3
+nouveau_fence_wait_busy,FUNC_4
+fence,VAR_7
+intr,VAR_8
+ret,VAR_9

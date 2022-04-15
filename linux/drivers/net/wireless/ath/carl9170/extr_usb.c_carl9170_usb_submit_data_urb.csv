@@ -1,0 +1,17 @@
+AR9170_NUM_TX_URBS,VAR_0
+GFP_ATOMIC,VAR_1
+atomic_dec,FUNC_0
+atomic_inc_return,FUNC_1
+dev_err,FUNC_2
+likely,FUNC_3
+net_ratelimit,FUNC_4
+unlikely,FUNC_5
+usb_anchor_urb,FUNC_6
+usb_free_urb,FUNC_7
+usb_get_from_anchor,FUNC_8
+usb_submit_urb,FUNC_9
+usb_unanchor_urb,FUNC_10
+carl9170_usb_submit_data_urb,FUNC_11
+ar,VAR_2
+urb,VAR_3
+err,VAR_4

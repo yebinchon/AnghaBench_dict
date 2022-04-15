@@ -1,0 +1,13 @@
+be_cmd_get_flash_crc,FUNC_0
+memcmp,FUNC_1
+be_check_flash_crc,FUNC_2
+adapter,VAR_0
+p,VAR_1
+img_offset,VAR_2
+img_size,VAR_3
+hdr_size,VAR_4
+img_optype,VAR_5
+crc_match,VAR_6
+crc_offset,VAR_7
+status,VAR_8
+crc,VAR_9

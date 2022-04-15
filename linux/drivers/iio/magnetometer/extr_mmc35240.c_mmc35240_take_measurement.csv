@@ -1,0 +1,14 @@
+EIO,VAR_0
+MMC35240_CTRL0_TM_BIT,VAR_1
+MMC35240_REG_CTRL0,VAR_2
+MMC35240_REG_STATUS,VAR_3
+MMC35240_STATUS_MEAS_DONE_BIT,VAR_4
+dev_err,FUNC_0
+regmap_read,FUNC_1
+regmap_write,FUNC_2
+usleep_range,FUNC_3
+mmc35240_take_measurement,FUNC_4
+data,VAR_5
+ret,VAR_6
+tries,VAR_7
+reg_status,VAR_8

@@ -1,0 +1,9 @@
+E1000_TXDCTL,FUNC_0
+igb_configure_tx_ring,FUNC_1
+usleep_range,FUNC_2
+wr32,FUNC_3
+wrfl,FUNC_4
+igb_configure_tx,FUNC_5
+adapter,VAR_0
+hw,VAR_1
+i,VAR_2

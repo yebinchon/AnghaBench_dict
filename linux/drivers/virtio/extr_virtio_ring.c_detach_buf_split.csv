@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+VRING_DESC_F_INDIRECT,VAR_0
+VRING_DESC_F_NEXT,VAR_1
+cpu_to_virtio16,FUNC_1
+kfree,FUNC_2
+virtio16_to_cpu,FUNC_3
+virtio32_to_cpu,FUNC_4
+vring_unmap_one_split,FUNC_5
+detach_buf_split,FUNC_6
+vq,VAR_2
+head,VAR_3
+ctx,VAR_4
+i,VAR_5
+j,VAR_6
+nextflag,VAR_7
+indir_desc,VAR_8
+len,VAR_9

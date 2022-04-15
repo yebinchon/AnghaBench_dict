@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+IFNET_KEEPALIVE_OFFLOAD_FRAME_DATA_SIZE,VAR_1
+IS_INTF_CLAT46,FUNC_0
+P2ROUNDUP,FUNC_1
+VERIFY,FUNC_2
+bzero,FUNC_3
+key_fill_offload_frames_for_savs,FUNC_4
+tcp_fill_keepalive_offload_frames,FUNC_5
+udp_fill_keepalive_offload_frames,FUNC_6
+ifnet_get_keepalive_offload_frames,FUNC_7
+ifp,VAR_2
+frames_array,VAR_3
+frames_array_count,VAR_4
+frame_data_offset,VAR_5
+used_frames_count,VAR_6
+i,VAR_7
+frame,VAR_8

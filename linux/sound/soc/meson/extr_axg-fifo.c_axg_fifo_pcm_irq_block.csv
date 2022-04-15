@@ -1,0 +1,17 @@
+FIFO_INT_COUNT_REPEAT,VAR_0
+FIFO_INT_MASK,VAR_1
+FIFO_STATUS1,VAR_2
+IRQ_RETVAL,FUNC_0
+STATUS1_INT_STS,FUNC_1
+axg_fifo_ack_irq,FUNC_2
+axg_fifo_data,FUNC_3
+axg_fifo_dev,FUNC_4
+dev_dbg,FUNC_5
+regmap_read,FUNC_6
+snd_pcm_period_elapsed,FUNC_7
+axg_fifo_pcm_irq_block,FUNC_8
+irq,VAR_3
+dev_id,VAR_4
+ss,VAR_5
+fifo,VAR_6
+status,VAR_7

@@ -1,0 +1,17 @@
+DB_KPRT,VAR_0
+FALSE,VAR_1
+PE_kputc,VAR_2
+PE_parse_boot_argn,FUNC_0
+PE_state,VAR_3
+TRUE,VAR_4
+cnputc,VAR_5
+disable_serial_output,VAR_6
+kprintf_lock,VAR_7
+pal_serial_init,FUNC_1
+pal_serial_putc,VAR_8
+panic,FUNC_2
+simple_lock_init,FUNC_3
+PE_init_kprintf,FUNC_4
+vm_initialized,VAR_9
+boot_arg,VAR_10
+new_disable_serial_output,VAR_11

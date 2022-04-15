@@ -1,0 +1,11 @@
+SJA1105_SIZE_PORT_CTRL,VAR_0
+SPI_READ,VAR_1
+SPI_WRITE,VAR_2
+sja1105_spi_send_int,FUNC_0
+sja1105_inhibit_tx,FUNC_1
+priv,VAR_3
+port_bitmap,VAR_4
+tx_inhibited,VAR_5
+regs,VAR_6
+inhibit_cmd,VAR_7
+rc,VAR_8

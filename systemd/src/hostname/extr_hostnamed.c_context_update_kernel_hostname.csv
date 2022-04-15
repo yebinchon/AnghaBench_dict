@@ -1,0 +1,14 @@
+FALLBACK_HOSTNAME,VAR_0
+PROP_HOSTNAME,VAR_1
+PROP_STATIC_HOSTNAME,VAR_2
+STRV_MAKE,FUNC_0
+assert,FUNC_1
+errno,VAR_3
+hostname_is_useful,FUNC_2
+isempty,FUNC_3
+nscd_flush_cache,FUNC_4
+sethostname_idempotent,FUNC_5
+context_update_kernel_hostname,FUNC_6
+c,VAR_4
+static_hn,VAR_5
+hn,VAR_6

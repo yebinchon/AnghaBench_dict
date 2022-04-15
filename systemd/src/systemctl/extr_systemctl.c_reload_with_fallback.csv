@@ -1,0 +1,12 @@
+ACTION_REEXEC,VAR_0
+ACTION_RELOAD,VAR_1
+IN_SET,FUNC_0
+SIGHUP,VAR_2
+SIGTERM,VAR_3
+arg_action,VAR_4
+assert,FUNC_1
+daemon_reload,FUNC_2
+errno,VAR_5
+kill,FUNC_3
+log_error_errno,FUNC_4
+reload_with_fallback,FUNC_5

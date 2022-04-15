@@ -1,0 +1,11 @@
+kvm_vcpu_kick,FUNC_0
+kvm_vcpu_trigger_posted_interrupt,FUNC_1
+pi_test_and_set_on,FUNC_2
+pi_test_and_set_pir,FUNC_3
+to_vmx,FUNC_4
+vmx_deliver_nested_posted_interrupt,FUNC_5
+vmx_deliver_posted_interrupt,FUNC_6
+vcpu,VAR_0
+vector,VAR_1
+vmx,VAR_2
+r,VAR_3

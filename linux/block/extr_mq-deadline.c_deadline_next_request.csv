@@ -1,0 +1,13 @@
+READ,VAR_0
+WARN_ON_ONCE,FUNC_0
+WRITE,VAR_1
+blk_queue_is_zoned,FUNC_1
+blk_req_can_dispatch_to_zone,FUNC_2
+deadline_latter_request,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+deadline_next_request,FUNC_6
+dd,VAR_2
+data_dir,VAR_3
+rq,VAR_4
+flags,VAR_5

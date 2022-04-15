@@ -1,0 +1,15 @@
+BT_ERR,FUNC_0
+CARD_READY,VAR_0
+ENODEV,VAR_1
+REG_CONTROL,VAR_2
+REG_CONTROL_BT_RESET,VAR_3
+REG_CONTROL_CARD_RESET,VAR_4
+bluecard_hci_close,FUNC_1
+clear_bit,FUNC_2
+hci_free_dev,FUNC_3
+hci_unregister_dev,FUNC_4
+outb,FUNC_5
+bluecard_close,FUNC_6
+info,VAR_5
+iobase,VAR_6
+hdev,VAR_7

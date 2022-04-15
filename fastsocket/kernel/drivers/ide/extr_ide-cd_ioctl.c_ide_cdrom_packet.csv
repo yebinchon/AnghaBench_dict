@@ -1,0 +1,12 @@
+ATAPI_WAIT_PC,VAR_0
+CGC_DATA_WRITE,VAR_1
+REQ_QUIET,VAR_2
+REQ_WRITE,VAR_3
+ide_cd_queue_pc,FUNC_0
+memset,FUNC_1
+ide_cdrom_packet,FUNC_2
+cdi,VAR_4
+cgc,VAR_5
+drive,VAR_6
+flags,VAR_7
+len,VAR_8

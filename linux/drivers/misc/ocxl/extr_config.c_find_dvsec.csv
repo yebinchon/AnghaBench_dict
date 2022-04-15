@@ -1,0 +1,12 @@
+OCXL_DVSEC_ID_OFFSET,VAR_0
+OCXL_DVSEC_VENDOR_OFFSET,VAR_1
+OCXL_EXT_CAP_ID_DVSEC,VAR_2
+PCI_VENDOR_ID_IBM,VAR_3
+pci_find_next_ext_capability,FUNC_0
+pci_read_config_word,FUNC_1
+find_dvsec,FUNC_2
+dev,VAR_4
+dvsec_id,VAR_5
+vsec,VAR_6
+vendor,VAR_7
+id,VAR_8

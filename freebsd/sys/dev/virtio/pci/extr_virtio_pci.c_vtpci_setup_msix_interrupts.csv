@@ -1,0 +1,13 @@
+VTPCI_FLAG_SHARED_MSIX,VAR_0
+bus_setup_intr,FUNC_0
+vtpci_config_intr,VAR_1
+vtpci_set_host_msix_vectors,FUNC_1
+vtpci_setup_pervq_msix_interrupts,FUNC_2
+vtpci_vq_shared_intr,VAR_2
+vtpci_vq_shared_intr_filter,VAR_3
+vtpci_setup_msix_interrupts,FUNC_3
+sc,VAR_4
+type,VAR_5
+dev,VAR_6
+intr,VAR_7
+error,VAR_8

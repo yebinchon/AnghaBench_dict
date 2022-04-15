@@ -1,0 +1,8 @@
+RESET_PID_FILTER,VAR_0
+SET_STREAMING,VAR_1
+dvb_usb_generic_write,FUNC_0
+dtt200u_streaming_ctrl,FUNC_1
+adap,VAR_2
+onoff,VAR_3
+b_streaming,VAR_4
+b_rst_pid,VAR_5

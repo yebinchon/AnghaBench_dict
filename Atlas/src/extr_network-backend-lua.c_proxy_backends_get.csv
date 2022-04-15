@@ -1,0 +1,13 @@
+luaL_checkinteger,FUNC_0
+luaL_checkself,FUNC_1
+lua_newuserdata,FUNC_2
+lua_pushnil,FUNC_3
+lua_setmetatable,FUNC_4
+network_backend_lua_getmetatable,FUNC_5
+network_backends_get,FUNC_6
+proxy_backends_get,FUNC_7
+L,VAR_0
+backend,VAR_1
+backend_p,VAR_2
+bs,VAR_3
+backend_ndx,VAR_4

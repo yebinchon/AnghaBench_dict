@@ -1,0 +1,13 @@
+EPOLLIN,VAR_0
+EPOLLOUT,VAR_1
+EPOLLRDNORM,VAR_2
+EPOLLWRNORM,VAR_3
+poll_wait,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+usblp_poll,FUNC_3
+file,VAR_4
+wait,VAR_5
+ret,VAR_6
+flags,VAR_7
+usblp,VAR_8

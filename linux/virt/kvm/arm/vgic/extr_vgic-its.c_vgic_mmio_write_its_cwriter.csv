@@ -1,0 +1,13 @@
+ITS_CMD_BUFFER_SIZE,FUNC_0
+ITS_CMD_OFFSET,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+update_64bit_reg,FUNC_4
+vgic_its_process_commands,FUNC_5
+vgic_mmio_write_its_cwriter,FUNC_6
+kvm,VAR_0
+its,VAR_1
+addr,VAR_2
+len,VAR_3
+val,VAR_4
+reg,VAR_5

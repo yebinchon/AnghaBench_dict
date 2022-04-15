@@ -1,0 +1,16 @@
+ALL_WORKERS,VAR_0
+DISABLE_DDL_PROPAGATION,VAR_1
+ENABLE_DDL_PROPAGATION,VAR_2
+EnsureDependenciesExistsOnAllNodes,FUNC_0
+GetFunctionAlterOwnerCommand,FUNC_1
+GetFunctionDDLCommand,FUNC_2
+GetObjectAddressFromParseTree,FUNC_3
+NIL,VAR_3
+NodeDDLTaskList,FUNC_4
+ShouldPropagateCreateFunction,FUNC_5
+list_make4,FUNC_6
+ProcessCreateFunctionStmt,FUNC_7
+stmt,VAR_4
+queryString,VAR_5
+address,VAR_6
+commands,VAR_7

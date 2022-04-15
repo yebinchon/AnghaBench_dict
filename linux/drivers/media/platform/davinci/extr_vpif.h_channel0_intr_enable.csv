@@ -1,0 +1,11 @@
+VPIF_INTEN,VAR_0
+VPIF_INTEN_FRAME_CH0,VAR_1
+VPIF_INTEN_SET,VAR_2
+regr,FUNC_0
+regw,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+vpif_lock,VAR_3
+channel0_intr_enable,FUNC_4
+enable,VAR_4
+flags,VAR_5

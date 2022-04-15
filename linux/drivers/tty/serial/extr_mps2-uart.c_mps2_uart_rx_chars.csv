@@ -1,0 +1,11 @@
+TTY_NORMAL,VAR_0
+UARTn_DATA,VAR_1
+UARTn_STATE,VAR_2
+UARTn_STATE_RX_FULL,VAR_3
+mps2_uart_read8,FUNC_0
+tty_flip_buffer_push,FUNC_1
+tty_insert_flip_char,FUNC_2
+mps2_uart_rx_chars,FUNC_3
+port,VAR_4
+tport,VAR_5
+rxdata,VAR_6

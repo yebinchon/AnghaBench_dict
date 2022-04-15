@@ -1,0 +1,17 @@
+AUDIO,VAR_0
+HDMI_INFOFRAME_SIZE,FUNC_0
+INFOFRAME_CTRL_CHECKSUM_ENABLE,VAR_1
+INFOFRAME_CTRL_ENABLE,VAR_2
+SOR_HDMI_AUDIO_INFOFRAME_CTRL,VAR_3
+dev_err,FUNC_1
+hdmi_audio_infoframe_init,FUNC_2
+hdmi_audio_infoframe_pack,FUNC_3
+tegra_sor_hdmi_write_infopack,FUNC_4
+tegra_sor_readl,FUNC_5
+tegra_sor_writel,FUNC_6
+tegra_sor_hdmi_enable_audio_infoframe,FUNC_7
+sor,VAR_4
+buffer,VAR_5
+frame,VAR_6
+value,VAR_7
+err,VAR_8

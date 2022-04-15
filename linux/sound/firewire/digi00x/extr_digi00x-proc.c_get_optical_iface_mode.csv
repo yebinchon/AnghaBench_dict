@@ -1,0 +1,10 @@
+DG00X_ADDR_BASE,VAR_0
+DG00X_OFFSET_OPT_IFACE_MODE,VAR_1
+TCODE_READ_QUADLET_REQUEST,VAR_2
+be32_to_cpu,FUNC_0
+snd_fw_transaction,FUNC_1
+get_optical_iface_mode,FUNC_2
+dg00x,VAR_3
+mode,VAR_4
+data,VAR_5
+err,VAR_6

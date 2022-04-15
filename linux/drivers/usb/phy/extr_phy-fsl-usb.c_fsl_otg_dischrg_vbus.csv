@@ -1,0 +1,9 @@
+OTGSC_CTRL_VBUS_CHARGE,VAR_0
+OTGSC_CTRL_VBUS_DISCHARGE,VAR_1
+OTGSC_INTSTS_MASK,VAR_2
+fsl_readl,FUNC_0
+fsl_writel,FUNC_1
+usb_dr_regs,VAR_3
+fsl_otg_dischrg_vbus,FUNC_2
+on,VAR_4
+tmp,VAR_5

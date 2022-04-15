@@ -1,0 +1,11 @@
+HID_GENERIC,VAR_0
+INPUT_MT_DIRECT,VAR_1
+INPUT_MT_POINTER,VAR_2
+WACOM_DEVICETYPE_DIRECT,VAR_3
+hid_get_drvdata,FUNC_0
+input_mt_init_slots,FUNC_1
+wacom_post_parse_hid,FUNC_2
+hdev,VAR_4
+features,VAR_5
+wacom,VAR_6
+wacom_wac,VAR_7

@@ -1,0 +1,12 @@
+EP_CMD_DFLUSH,VAR_0
+EP_CMD_ERDY,VAR_1
+EP_CMD_SSTALL,VAR_2
+EP_STALLED,VAR_3
+EP_STALL_PENDING,VAR_4
+readl_poll_timeout_atomic,FUNC_0
+trace_cdns3_halt,FUNC_1
+writel,FUNC_2
+cdns3_ep_stall_flush,FUNC_3
+priv_ep,VAR_5
+priv_dev,VAR_6
+val,VAR_7

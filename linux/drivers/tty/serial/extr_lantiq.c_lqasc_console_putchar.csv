@@ -1,0 +1,10 @@
+ASCFSTAT_TXFREEMASK,VAR_0
+ASCFSTAT_TXFREEOFF,VAR_1
+LTQ_ASC_FSTAT,VAR_2
+LTQ_ASC_TBUF,VAR_3
+__raw_readl,FUNC_0
+writeb,FUNC_1
+lqasc_console_putchar,FUNC_2
+port,VAR_4
+ch,VAR_5
+fifofree,VAR_6

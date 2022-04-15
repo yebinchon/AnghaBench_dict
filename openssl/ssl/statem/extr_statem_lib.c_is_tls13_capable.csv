@@ -1,0 +1,12 @@
+EC_GROUP_get_curve_name,FUNC_0
+EC_KEY_get0_group,FUNC_1
+EVP_PKEY_get0_EC_KEY,FUNC_2
+SSL_PKEY_ECC,VAR_0
+SSL_PKEY_NUM,VAR_1
+ssl_has_cert,FUNC_3
+tls_check_sigalg_curve,FUNC_4
+is_tls13_capable,FUNC_5
+s,VAR_2
+i,VAR_3
+curve,VAR_4
+eckey,VAR_5

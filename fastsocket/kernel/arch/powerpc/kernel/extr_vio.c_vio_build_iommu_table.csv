@@ -1,0 +1,16 @@
+FW_FEATURE_ISERIES,VAR_0
+GFP_KERNEL,VAR_1
+IOMMU_PAGE_SHIFT,VAR_2
+TCE_VB,VAR_3
+firmware_has_feature,FUNC_0
+iommu_init_table,FUNC_1
+kzalloc,FUNC_2
+of_get_property,FUNC_3
+of_parse_dma_window,FUNC_4
+vio_build_iommu_table_iseries,FUNC_5
+vio_build_iommu_table,FUNC_6
+dev,VAR_4
+dma_window,VAR_5
+tbl,VAR_6
+offset,VAR_7
+size,VAR_8

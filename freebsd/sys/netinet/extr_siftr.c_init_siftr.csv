@@ -1,0 +1,16 @@
+EVENTHANDLER_REGISTER,FUNC_0
+MODVERSION_STR,VAR_0
+MTX_DEF,VAR_1
+M_SIFTR,VAR_2
+SHUTDOWN_PRI_FIRST,VAR_3
+SIFTR_EXPECTED_MAX_TCP_FLOWS,VAR_4
+counter_hash,VAR_5
+hashinit,FUNC_1
+mtx_init,FUNC_2
+shutdown_pre_sync,VAR_6
+siftr_hashmask,VAR_7
+siftr_pkt_mgr_mtx,VAR_8
+siftr_pkt_queue_mtx,VAR_9
+siftr_shutdown_handler,VAR_10
+uprintf,FUNC_3
+init_siftr,FUNC_4

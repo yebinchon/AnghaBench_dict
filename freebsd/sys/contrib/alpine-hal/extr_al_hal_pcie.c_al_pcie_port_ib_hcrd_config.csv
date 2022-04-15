@@ -1,0 +1,8 @@
+RADM_NPQ_HCRD_VC0_MASK,VAR_0
+RADM_NPQ_HCRD_VC0_SHIFT,VAR_1
+RADM_PQ_HCRD_VC0_MASK,VAR_2
+RADM_PQ_HCRD_VC0_SHIFT,VAR_3
+al_reg_write32_masked,FUNC_0
+al_pcie_port_ib_hcrd_config,FUNC_1
+pcie_port,VAR_4
+regs,VAR_5

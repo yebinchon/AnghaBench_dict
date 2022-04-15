@@ -1,0 +1,15 @@
+BLC_POLARITY_INVERSE,VAR_0
+BLC_PWM_CTL,VAR_1
+BRIGHTNESS_MAX_LEVEL,VAR_2
+BUG_ON,FUNC_0
+PSB_BACKLIGHT_PWM_CTL_SHIFT,VAR_3
+PSB_BACKLIGHT_PWM_POLARITY_BIT_CLEAR,VAR_4
+REG_WRITE,FUNC_1
+dev_info,FUNC_2
+psb_intel_lvds_get_max_backlight,FUNC_3
+psb_lvds_pwm_set_brightness,FUNC_4
+dev,VAR_5
+level,VAR_6
+dev_priv,VAR_7
+max_pwm_blc,VAR_8
+blc_pwm_duty_cycle,VAR_9

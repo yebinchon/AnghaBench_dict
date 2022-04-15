@@ -1,0 +1,15 @@
+ATA_CHECKS_CABLE,VAR_0
+ATA_NO_ATAPI_DMA,VAR_1
+ENXIO,VAR_2
+PR_NEW,VAR_3
+ata_pci_ch_attach,FUNC_0
+ata_promise_dmareset,VAR_4
+ata_promise_dmastart,VAR_5
+ata_promise_dmastop,VAR_6
+ata_promise_status,VAR_7
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+ata_promise_ch_attach,FUNC_3
+dev,VAR_8
+ctlr,VAR_9
+ch,VAR_10

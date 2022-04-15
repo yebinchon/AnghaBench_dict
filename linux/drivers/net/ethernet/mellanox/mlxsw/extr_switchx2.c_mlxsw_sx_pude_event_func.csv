@@ -1,0 +1,17 @@
+DEVLINK_PORT_TYPE_ETH,VAR_0
+DEVLINK_PORT_TYPE_IB,VAR_1
+dev_warn,FUNC_0
+mlxsw_core_port_type_get,FUNC_1
+mlxsw_reg_pude_local_port_get,FUNC_2
+mlxsw_reg_pude_oper_status_get,FUNC_3
+mlxsw_sx_pude_eth_event_func,FUNC_4
+mlxsw_sx_pude_ib_event_func,FUNC_5
+mlxsw_sx_pude_event_func,FUNC_6
+reg,VAR_2
+pude_pl,VAR_3
+priv,VAR_4
+mlxsw_sx,VAR_5
+mlxsw_sx_port,VAR_6
+status,VAR_7
+port_type,VAR_8
+local_port,VAR_9

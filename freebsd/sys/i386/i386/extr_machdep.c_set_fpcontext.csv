@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+_MC_FPFMT_387,VAR_1
+_MC_FPFMT_NODEV,VAR_2
+_MC_FPFMT_XMM,VAR_3
+_MC_FPOWNED_FPU,VAR_4
+_MC_FPOWNED_NONE,VAR_5
+_MC_FPOWNED_PCB,VAR_6
+fpstate_drop,FUNC_0
+npxsetregs,FUNC_1
+set_fpcontext,FUNC_2
+td,VAR_7
+mcp,VAR_8
+xfpustate,VAR_9
+xfpustate_len,VAR_10
+error,VAR_11

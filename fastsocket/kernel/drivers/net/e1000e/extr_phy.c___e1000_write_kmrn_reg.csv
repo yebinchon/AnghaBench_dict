@@ -1,0 +1,15 @@
+E1000_KMRNCTRLSTA_OFFSET,VAR_0
+E1000_KMRNCTRLSTA_OFFSET_SHIFT,VAR_1
+KMRNCTRLSTA,VAR_2
+e1e_flush,FUNC_0
+ew32,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+udelay,FUNC_4
+__e1000_write_kmrn_reg,FUNC_5
+hw,VAR_3
+offset,VAR_4
+data,VAR_5
+locked,VAR_6
+kmrnctrlsta,VAR_7
+ret_val,VAR_8

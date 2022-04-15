@@ -1,0 +1,10 @@
+ATA_MAX_TRIM_RNUM,VAR_0
+ata_id_has_trim,FUNC_0
+ata_id_log2_per_physical_sector,FUNC_1
+put_unaligned_be16,FUNC_2
+put_unaligned_be32,FUNC_3
+put_unaligned_be64,FUNC_4
+ata_scsiop_inq_b0,FUNC_5
+args,VAR_1
+rbuf,VAR_2
+min_io_sectors,VAR_3

@@ -1,0 +1,11 @@
+NoShutdown,VAR_0
+PM_HOT_STANDBY,VAR_1
+PM_RECOVERY,VAR_2
+PM_STARTUP,VAR_3
+PM_WAIT_READONLY,VAR_4
+Shutdown,VAR_5
+StartWalReceiver,FUNC_0
+WalReceiverPID,VAR_6
+WalReceiverRequested,VAR_7
+pmState,VAR_8
+MaybeStartWalReceiver,FUNC_1

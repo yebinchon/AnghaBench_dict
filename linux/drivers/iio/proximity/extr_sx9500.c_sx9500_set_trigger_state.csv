@@ -1,0 +1,12 @@
+iio_priv,FUNC_0
+iio_trigger_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sx9500_dec_data_rdy_users,FUNC_4
+sx9500_inc_data_rdy_users,FUNC_5
+sx9500_set_trigger_state,FUNC_6
+trig,VAR_0
+state,VAR_1
+indio_dev,VAR_2
+data,VAR_3
+ret,VAR_4

@@ -1,0 +1,15 @@
+SM501_ADDR_FLIP,VAR_0
+SM501_DC_CRT_CONTROL,VAR_1
+SM501_DC_CRT_CONTROL_PIXEL_MASK,VAR_2
+SM501_DC_CRT_FB_ADDR,VAR_3
+readl,FUNC_0
+sm501fb_sync_regs,FUNC_1
+writel,FUNC_2
+sm501fb_pan_crt,FUNC_3
+var,VAR_4
+info,VAR_5
+par,VAR_6
+fbi,VAR_7
+bytes_pixel,VAR_8
+reg,VAR_9
+xoffs,VAR_10

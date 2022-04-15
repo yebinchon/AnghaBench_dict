@@ -1,0 +1,17 @@
+IPRINTK,FUNC_0
+PCI_COMMAND,VAR_0
+PCI_COMMAND_IO,VAR_1
+PCI_COMMAND_MASTER,VAR_2
+PCI_COMMAND_MEMORY,VAR_3
+SAR_CFG_SWRST,VAR_4
+SAR_REG_CFG,VAR_5
+XPRINTK,FUNC_1
+deinit_card,FUNC_2
+mdelay,FUNC_3
+pci_read_config_word,FUNC_4
+pci_write_config_word,FUNC_5
+printk,FUNC_6
+writel,FUNC_7
+idt77252_preset,FUNC_8
+card,VAR_6
+pci_command,VAR_7

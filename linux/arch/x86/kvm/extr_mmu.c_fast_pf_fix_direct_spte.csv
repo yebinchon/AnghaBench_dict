@@ -1,0 +1,12 @@
+WARN_ON,FUNC_0
+cmpxchg64,FUNC_1
+is_writable_pte,FUNC_2
+kvm_mmu_page_get_gfn,FUNC_3
+kvm_vcpu_mark_page_dirty,FUNC_4
+fast_pf_fix_direct_spte,FUNC_5
+vcpu,VAR_0
+sp,VAR_1
+sptep,VAR_2
+old_spte,VAR_3
+new_spte,VAR_4
+gfn,VAR_5

@@ -1,0 +1,15 @@
+XDR_QUADLEN,FUNC_0
+decode_fh,FUNC_1
+ntohl,FUNC_2
+svc_max_payload,FUNC_3
+xdr_decode_hyper,FUNC_4
+nfs3svc_decode_writeargs,FUNC_5
+rqstp,VAR_0
+p,VAR_1
+args,VAR_2
+len,VAR_3
+hdr,VAR_4
+dlen,VAR_5
+max_blocksize,VAR_6
+head,VAR_7
+tail,VAR_8

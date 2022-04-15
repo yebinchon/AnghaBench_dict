@@ -1,0 +1,17 @@
+FIFO_READY,VAR_0
+SOCK_DMA_FIFO_STATUS,VAR_1
+TIFM_FIFO_READY,VAR_2
+dev_dbg,FUNC_0
+mmc_priv,FUNC_1
+readl,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+tifm_get_drvdata,FUNC_5
+tifm_sd_check_status,FUNC_6
+tifm_sd_set_dma_data,FUNC_7
+writel,FUNC_8
+tifm_sd_data_event,FUNC_9
+sock,VAR_3
+host,VAR_4
+fifo_status,VAR_5
+r_data,VAR_6

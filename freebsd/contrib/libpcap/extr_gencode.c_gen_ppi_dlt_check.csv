@@ -1,0 +1,14 @@
+BPF_ABS,VAR_0
+BPF_JEQ,VAR_1
+BPF_LD,VAR_2
+BPF_W,VAR_3
+DLT_IEEE802_11,VAR_4
+DLT_PPI,VAR_5
+JMP,FUNC_0
+SWAPLONG,FUNC_1
+new_block,FUNC_2
+new_stmt,FUNC_3
+gen_ppi_dlt_check,FUNC_4
+cstate,VAR_6
+s_load_dlt,VAR_7
+b,VAR_8

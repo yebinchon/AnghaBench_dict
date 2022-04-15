@@ -1,0 +1,13 @@
+BIT,FUNC_0
+DEV_ADDR_TABLE_LOC,FUNC_1
+i2c_dev_get_master,FUNC_2
+i2c_dev_get_master_data,FUNC_3
+i2c_dev_set_master_data,FUNC_4
+kfree,FUNC_5
+to_dw_i3c_master,FUNC_6
+writel,FUNC_7
+dw_i3c_master_detach_i2c_dev,FUNC_8
+dev,VAR_0
+data,VAR_1
+m,VAR_2
+master,VAR_3

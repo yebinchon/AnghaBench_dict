@@ -1,0 +1,15 @@
+cw1200_debug_release,FUNC_0
+cw1200_pm_deinit,FUNC_1
+cw1200_queue_deinit,FUNC_2
+cw1200_queue_stats_deinit,FUNC_3
+cw1200_unregister_bh,FUNC_4
+del_timer_sync,FUNC_5
+destroy_workqueue,FUNC_6
+ieee80211_unregister_hw,FUNC_7
+mutex_destroy,FUNC_8
+release_firmware,FUNC_9
+wsm_buf_deinit,FUNC_10
+cw1200_unregister_common,FUNC_11
+dev,VAR_0
+priv,VAR_1
+i,VAR_2

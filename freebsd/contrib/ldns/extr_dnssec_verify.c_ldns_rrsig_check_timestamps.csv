@@ -1,0 +1,12 @@
+LDNS_STATUS_CRYPTO_EXPIRATION_BEFORE_INCEPTION,VAR_0
+LDNS_STATUS_CRYPTO_SIG_EXPIRED,VAR_1
+LDNS_STATUS_CRYPTO_SIG_NOT_INCEPTED,VAR_2
+LDNS_STATUS_OK,VAR_3
+ldns_rdf2native_time_t,FUNC_0
+ldns_rr_rrsig_expiration,FUNC_1
+ldns_rr_rrsig_inception,FUNC_2
+ldns_rrsig_check_timestamps,FUNC_3
+rrsig,VAR_4
+now,VAR_5
+inception,VAR_6
+expiration,VAR_7

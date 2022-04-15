@@ -1,0 +1,15 @@
+VIC_IRQ_STATUS,VAR_0
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+ffs,FUNC_2
+generic_handle_irq,FUNC_3
+irq_desc_get_chip,FUNC_4
+irq_desc_get_handler_data,FUNC_5
+irq_find_mapping,FUNC_6
+readl_relaxed,FUNC_7
+vic_handle_irq_cascaded,FUNC_8
+desc,VAR_1
+stat,VAR_2
+hwirq,VAR_3
+host_chip,VAR_4
+vic,VAR_5

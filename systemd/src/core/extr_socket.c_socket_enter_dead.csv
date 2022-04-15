@@ -1,0 +1,16 @@
+SOCKET_DEAD,VAR_0
+SOCKET_FAILED,VAR_1
+SOCKET_SUCCESS,VAR_2
+UNIT,FUNC_0
+assert,FUNC_1
+dynamic_creds_destroy,FUNC_2
+exec_runtime_unref,FUNC_3
+socket_result_to_string,FUNC_4
+socket_set_state,FUNC_5
+unit_destroy_runtime_directory,FUNC_6
+unit_log_failure,FUNC_7
+unit_log_success,FUNC_8
+unit_unref_uid_gid,FUNC_9
+socket_enter_dead,FUNC_10
+s,VAR_3
+f,VAR_4

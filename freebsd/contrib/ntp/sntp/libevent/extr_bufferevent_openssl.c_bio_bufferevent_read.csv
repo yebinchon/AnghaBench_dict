@@ -1,0 +1,11 @@
+BIO_clear_retry_flags,FUNC_0
+BIO_set_retry_read,FUNC_1
+bufferevent_get_input,FUNC_2
+evbuffer_get_length,FUNC_3
+evbuffer_remove,FUNC_4
+bio_bufferevent_read,FUNC_5
+b,VAR_0
+out,VAR_1
+outlen,VAR_2
+r,VAR_3
+input,VAR_4

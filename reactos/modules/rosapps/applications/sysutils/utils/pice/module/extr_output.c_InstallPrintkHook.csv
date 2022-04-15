@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+DPRINT,FUNC_1
+ENTER_FUNC,FUNC_2
+InstallSWBreakpoint,FUNC_3
+LEAVE_FUNC,FUNC_4
+PrintkCallback,VAR_0
+ScanExports,FUNC_5
+TRUE,VAR_1
+bIsPrintkPatched,VAR_2
+ulPrintk,VAR_3
+InstallPrintkHook,FUNC_6

@@ -1,0 +1,10 @@
+DSA_AREA_LOCK,FUNC_0
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_EXCLUSIVE,VAR_0
+check_for_freed_segments_locked,FUNC_3
+pg_read_barrier,FUNC_4
+unlikely,FUNC_5
+check_for_freed_segments,FUNC_6
+area,VAR_1
+freed_segment_counter,VAR_2

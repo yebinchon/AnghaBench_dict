@@ -1,0 +1,16 @@
+is_hugetlb_pmd,FUNC_0
+is_hugetlb_pud,FUNC_1
+pgd_none,FUNC_2
+pgd_offset,FUNC_3
+pmd_none,FUNC_4
+pmd_offset,FUNC_5
+pte_offset_map,FUNC_6
+pud_none,FUNC_7
+pud_offset,FUNC_8
+huge_pte_offset,FUNC_9
+mm,VAR_0
+addr,VAR_1
+sz,VAR_2
+pgd,VAR_3
+pud,VAR_4
+pmd,VAR_5

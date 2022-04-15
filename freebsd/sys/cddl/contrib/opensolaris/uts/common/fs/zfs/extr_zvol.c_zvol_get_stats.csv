@@ -1,0 +1,13 @@
+ZFS_PROP_VOLBLOCKSIZE,VAR_0
+ZFS_PROP_VOLSIZE,VAR_1
+ZVOL_OBJ,VAR_2
+ZVOL_ZAP_OBJ,VAR_3
+dmu_object_info,FUNC_0
+dsl_prop_nvlist_add_uint64,FUNC_1
+zap_lookup,FUNC_2
+zvol_get_stats,FUNC_3
+os,VAR_4
+nv,VAR_5
+error,VAR_6
+doi,VAR_7
+val,VAR_8

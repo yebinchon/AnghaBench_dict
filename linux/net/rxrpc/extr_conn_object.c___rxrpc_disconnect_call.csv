@@ -1,0 +1,14 @@
+RXRPC_CHANNELMASK,VAR_0
+RXRPC_PACKET_TYPE_ABORT,VAR_1
+RXRPC_PACKET_TYPE_ACK,VAR_2
+RX_USER_ABORT,VAR_3
+_enter,FUNC_0
+_leave,FUNC_1
+rcu_access_pointer,FUNC_2
+rcu_assign_pointer,FUNC_3
+smp_wmb,FUNC_4
+trace_rxrpc_disconnect_call,FUNC_5
+__rxrpc_disconnect_call,FUNC_6
+conn,VAR_4
+call,VAR_5
+chan,VAR_6

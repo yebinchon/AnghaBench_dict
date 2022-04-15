@@ -1,0 +1,8 @@
+EP_STATE_DISCONN_START,VAR_0
+EP_STATE_TCP_RST_RCVD,VAR_1
+bnx2i_recovery_que_add_conn,FUNC_0
+wake_up_interruptible,FUNC_1
+bnx2i_cm_remote_abort,FUNC_2
+cm_sk,VAR_2
+ep,VAR_3
+old_state,VAR_4

@@ -1,0 +1,17 @@
+CONFIG_ACPI_APEI_GHES,VAR_0
+EINVAL,VAR_1
+EOPNOTSUPP,VAR_2
+IS_ENABLED,FUNC_0
+SDEI_EVENT_INFO_EV_PRIORITY,VAR_3
+SDEI_EVENT_PRIORITY_CRITICAL,VAR_4
+sdei_api_event_get_info,FUNC_1
+sdei_event_enable,FUNC_2
+sdei_event_register,FUNC_3
+sdei_register_ghes,FUNC_4
+ghes,VAR_5
+normal_cb,VAR_6
+critical_cb,VAR_7
+err,VAR_8
+result,VAR_9
+event_num,VAR_10
+cb,VAR_11

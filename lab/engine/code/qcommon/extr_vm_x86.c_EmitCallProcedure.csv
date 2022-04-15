@@ -1,0 +1,15 @@
+Emit4,FUNC_0
+EmitCallErrJump,FUNC_1
+EmitCallRel,FUNC_2
+EmitRexString,FUNC_3
+EmitString,FUNC_4
+SET_JMPOFS,FUNC_5
+STACK_POP,FUNC_6
+STACK_PUSH,FUNC_7
+compiledOfs,VAR_0
+EmitCallProcedure,FUNC_8
+vm,VAR_1
+sysCallOfs,VAR_2
+jmpSystemCall,VAR_3
+jmpBadAddr,VAR_4
+retval,VAR_5

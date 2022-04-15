@@ -1,0 +1,16 @@
+CON_DRIVER_FLAG_MODULE,VAR_0
+ENODEV,VAR_1
+MAX_NR_CON_DRIVER,VAR_2
+MKDEV,FUNC_0
+acquire_console_sem,FUNC_1
+con_is_bound,FUNC_2
+device_destroy,FUNC_3
+registered_con_driver,VAR_3
+release_console_sem,FUNC_4
+vtconsole_class,VAR_4
+vtconsole_deinit_device,FUNC_5
+unregister_con_driver,FUNC_6
+csw,VAR_5
+i,VAR_6
+retval,VAR_7
+con_driver,VAR_8

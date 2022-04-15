@@ -1,0 +1,15 @@
+MC13892_REGULATORMODE1_VCAMCONFIGEN,VAR_0
+REGULATOR_MODE_FAST,VAR_1
+REGULATOR_MODE_NORMAL,VAR_2
+mc13892_regulators,VAR_3
+mc13xxx_lock,FUNC_0
+mc13xxx_reg_read,FUNC_1
+mc13xxx_unlock,FUNC_2
+rdev_get_drvdata,FUNC_3
+rdev_get_id,FUNC_4
+mc13892_vcam_get_mode,FUNC_5
+rdev,VAR_4
+priv,VAR_5
+ret,VAR_6
+id,VAR_7
+val,VAR_8

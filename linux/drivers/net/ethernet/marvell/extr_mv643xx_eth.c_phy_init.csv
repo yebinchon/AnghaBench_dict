@@ -1,0 +1,13 @@
+AUTONEG_DISABLE,VAR_0
+AUTONEG_ENABLE,VAR_1
+ETHTOOL_LINK_MODE_Autoneg_BIT,VAR_2
+linkmode_copy,FUNC_0
+linkmode_set_bit,FUNC_1
+linkmode_zero,FUNC_2
+phy_start_aneg,FUNC_3
+phy_init,FUNC_4
+mp,VAR_3
+speed,VAR_4
+duplex,VAR_5
+dev,VAR_6
+phy,VAR_7

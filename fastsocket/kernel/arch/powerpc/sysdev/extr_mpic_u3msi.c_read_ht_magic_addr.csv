@@ -1,0 +1,14 @@
+HT_MSI_ADDR_HI,VAR_0
+HT_MSI_ADDR_LO,VAR_1
+HT_MSI_ADDR_LO_MASK,VAR_2
+HT_MSI_FIXED_ADDR,VAR_3
+HT_MSI_FLAGS,VAR_4
+HT_MSI_FLAGS_FIXED,VAR_5
+pci_read_config_byte,FUNC_0
+pci_read_config_dword,FUNC_1
+read_ht_magic_addr,FUNC_2
+pdev,VAR_6
+pos,VAR_7
+flags,VAR_8
+tmp,VAR_9
+addr,VAR_10

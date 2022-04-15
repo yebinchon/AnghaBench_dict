@@ -1,0 +1,15 @@
+ASSERT_EQ,FUNC_0
+c_int_eq,VAR_0
+mg_bind,FUNC_1
+mg_connect_http,FUNC_2
+mg_connect_ws,FUNC_3
+mg_mgr_free,FUNC_4
+mg_mgr_init,FUNC_5
+mg_set_protocol_http_websocket,FUNC_6
+poll_until,FUNC_7
+test_auth_client_handler,VAR_1
+test_auth_server_handler,VAR_2
+test_http_auth,FUNC_8
+connected,VAR_3
+nc,VAR_4
+mgr,VAR_5

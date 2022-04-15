@@ -1,0 +1,12 @@
+bond_delete_netdev_default_gids,FUNC_0
+dev_hold,FUNC_1
+dev_put,FUNC_2
+netdev_master_upper_dev_get_rcu,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+del_netdev_default_ips_join,FUNC_6
+ib_dev,VAR_0
+port,VAR_1
+rdma_ndev,VAR_2
+cookie,VAR_3
+master_ndev,VAR_4

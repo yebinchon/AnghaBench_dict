@@ -1,0 +1,13 @@
+_repo,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_oid,FUNC_1
+cl_git_pass,FUNC_2
+git_merge_bases,FUNC_3
+git_oid_fromstr,FUNC_4
+git_oidarray_free,FUNC_5
+test_revwalk_mergebase__multiple_merge_bases,FUNC_6
+one,VAR_1
+two,VAR_2
+expected1,VAR_3
+expected2,VAR_4
+result,VAR_5

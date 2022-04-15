@@ -1,0 +1,14 @@
+LEON3_BYPASS_LOAD_PA,FUNC_0
+LEON3_BYPASS_STORE_PA,FUNC_1
+LEON_IMASK,FUNC_2
+irq_choose_cpu,FUNC_3
+irq_data_get_affinity_mask,FUNC_4
+leon_irq_lock,VAR_0
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+leon_unmask_irq,FUNC_7
+data,VAR_1
+mask,VAR_2
+oldmask,VAR_3
+flags,VAR_4
+cpu,VAR_5

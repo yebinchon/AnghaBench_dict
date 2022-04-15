@@ -1,0 +1,11 @@
+HFI1_PKT_TYPE_16B,VAR_0
+HFI1_PKT_TYPE_9B,VAR_1
+OPA_LID_PERMISSIVE,VAR_2
+be32_to_cpu,FUNC_0
+hfi1_get_packet_type,FUNC_1
+ib_is_opa_gid,FUNC_2
+rdma_ah_get_dlid,FUNC_3
+rdma_ah_read_grh,FUNC_4
+hfi1_get_hdr_type,FUNC_5
+lid,VAR_3
+attr,VAR_4

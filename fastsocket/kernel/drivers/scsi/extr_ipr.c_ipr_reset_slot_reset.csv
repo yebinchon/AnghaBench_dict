@@ -1,0 +1,12 @@
+ENTER,VAR_0
+IPR_PCI_RESET_TIMEOUT,VAR_1
+IPR_RC_JOB_RETURN,VAR_2
+LEAVE,VAR_3
+ipr_reset_slot_reset_done,VAR_4
+ipr_reset_start_timer,FUNC_0
+pci_set_pcie_reset_state,FUNC_1
+pcie_warm_reset,VAR_5
+ipr_reset_slot_reset,FUNC_2
+ipr_cmd,VAR_6
+ioa_cfg,VAR_7
+pdev,VAR_8

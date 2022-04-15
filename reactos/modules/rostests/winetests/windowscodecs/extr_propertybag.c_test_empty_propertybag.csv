@@ -1,0 +1,16 @@
+CLSCTX_INPROC_SERVER,VAR_0
+CLSID_WICImagingFactory,VAR_1
+CoCreateInstance,FUNC_0
+FAILED,FUNC_1
+IID_IWICComponentFactory,VAR_2
+IPropertyBag2_Release,FUNC_2
+IWICComponentFactory_CreateEncoderPropertyBag,FUNC_3
+IWICComponentFactory_Release,FUNC_4
+S_OK,VAR_3
+ok,FUNC_5
+test_propertybag_countproperties,FUNC_6
+test_propertybag_getpropertyinfo,FUNC_7
+test_empty_propertybag,FUNC_8
+hr,VAR_4
+factory,VAR_5
+property,VAR_6

@@ -1,0 +1,11 @@
+ACB_F_MSG_START_BGRB,VAR_0
+ARCMSR_HBCMU_DRV2IOP_MESSAGE_CMD_DONE,VAR_1
+ARCMSR_INBOUND_MESG0_STOP_BGRB,VAR_2
+CHIP_REG_WRITE32,FUNC_0
+HBC_MessageUnit,VAR_3
+arcmsr_hbc_wait_msgint_ready,FUNC_1
+inbound_doorbell,VAR_4
+inbound_msgaddr0,VAR_5
+printf,FUNC_2
+arcmsr_stop_hbc_bgrb,FUNC_3
+acb,VAR_6

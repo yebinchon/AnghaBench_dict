@@ -1,0 +1,11 @@
+FALSE,VAR_0
+SCIC_SDS_PHY_PROTOCOL_SAS,VAR_1
+SCI_BASE_PHY_STATE_RESETTING,VAR_2
+SCI_BASE_PHY_STATE_STARTING,VAR_3
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_phy_set_base_state_handlers,FUNC_1
+scic_sds_port_deactivate_phy,FUNC_2
+scu_link_layer_tx_hard_reset,FUNC_3
+scic_sds_phy_resetting_state_enter,FUNC_4
+object,VAR_4
+this_phy,VAR_5

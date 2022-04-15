@@ -1,0 +1,13 @@
+CM3232_CMD_ALS_DISABLE,VAR_0
+CM3232_CMD_ALS_RESET,VAR_1
+CM3232_REG_ADDR_CMD,VAR_2
+CM3232_REG_ADDR_ID,VAR_3
+ENODEV,VAR_4
+cm3232_als_info_default,VAR_5
+dev_err,FUNC_0
+i2c_smbus_read_word_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+cm3232_reg_init,FUNC_3
+chip,VAR_6
+client,VAR_7
+ret,VAR_8

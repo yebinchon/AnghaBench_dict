@@ -1,0 +1,15 @@
+EINTR,VAR_0
+ENOMEM,VAR_1
+RQ_DONE,VAR_2
+ncp_abort_request,FUNC_0
+ncp_add_request,FUNC_1
+ncp_alloc_req,FUNC_2
+ncp_req_put,FUNC_3
+wait_event_interruptible,FUNC_4
+do_ncp_rpc_call,FUNC_5
+server,VAR_3
+size,VAR_4
+reply_buf,VAR_5
+max_reply_size,VAR_6
+result,VAR_7
+req,VAR_8

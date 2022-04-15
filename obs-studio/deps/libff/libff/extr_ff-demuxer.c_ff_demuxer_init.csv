@@ -1,0 +1,13 @@
+AUDIO_FRAME_QUEUE_SIZE,VAR_0
+AUDIO_PACKET_QUEUE_SIZE,VAR_1
+AVDISCARD_DEFAULT,VAR_2
+DEFAULT_AV_SYNC_TYPE,VAR_3
+VIDEO_FRAME_QUEUE_SIZE,VAR_4
+VIDEO_PACKET_QUEUE_SIZE,VAR_5
+av_mallocz,FUNC_0
+av_register_all,FUNC_1
+avdevice_register_all,FUNC_2
+avfilter_register_all,FUNC_3
+avformat_network_init,FUNC_4
+ff_demuxer_init,FUNC_5
+demuxer,VAR_6

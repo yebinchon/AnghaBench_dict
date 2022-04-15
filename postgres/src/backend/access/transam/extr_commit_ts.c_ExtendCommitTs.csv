@@ -1,0 +1,15 @@
+Assert,FUNC_0
+CommitTsControlLock,VAR_0
+FirstNormalTransactionId,VAR_1
+InRecovery,VAR_2
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_EXCLUSIVE,VAR_3
+TransactionIdEquals,FUNC_3
+TransactionIdToCTsEntry,FUNC_4
+TransactionIdToCTsPage,FUNC_5
+ZeroCommitTsPage,FUNC_6
+commitTsShared,VAR_4
+ExtendCommitTs,FUNC_7
+newestXact,VAR_5
+pageno,VAR_6

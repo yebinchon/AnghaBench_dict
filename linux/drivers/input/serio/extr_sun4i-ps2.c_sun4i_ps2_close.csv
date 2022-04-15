@@ -1,0 +1,9 @@
+PS2_GCTL_INTEN,VAR_0
+PS2_REG_GCTL,VAR_1
+readl,FUNC_0
+synchronize_irq,FUNC_1
+writel,FUNC_2
+sun4i_ps2_close,FUNC_3
+serio,VAR_2
+drvdata,VAR_3
+rval,VAR_4

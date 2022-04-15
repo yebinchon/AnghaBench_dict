@@ -1,0 +1,12 @@
+clk_pllv3_vf610_rate_to_mf,FUNC_0
+clk_pllv3_wait_lock,FUNC_1
+readl_relaxed,FUNC_2
+to_clk_pllv3,FUNC_3
+writel_relaxed,FUNC_4
+clk_pllv3_vf610_set_rate,FUNC_5
+hw,VAR_0
+rate,VAR_1
+parent_rate,VAR_2
+pll,VAR_3
+mf,VAR_4
+val,VAR_5

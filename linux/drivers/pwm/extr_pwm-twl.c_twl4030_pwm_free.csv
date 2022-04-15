@@ -1,0 +1,17 @@
+TWL4030_GPIO6_PWM0_MUTE_MASK,VAR_0
+TWL4030_GPIO7_VIBRASYNC_PWM1_MASK,VAR_1
+TWL4030_MODULE_INTBR,VAR_2
+TWL4030_PMBR1_REG,VAR_3
+dev_err,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+to_twl,FUNC_3
+twl_i2c_read_u8,FUNC_4
+twl_i2c_write_u8,FUNC_5
+twl4030_pwm_free,FUNC_6
+chip,VAR_4
+pwm,VAR_5
+twl,VAR_6
+ret,VAR_7
+val,VAR_8
+mask,VAR_9

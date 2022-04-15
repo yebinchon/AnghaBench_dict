@@ -1,0 +1,15 @@
+EFA_ADMIN_ACQ_COMMON_DESC_COMMAND_ID_MASK,VAR_0
+EFA_AQ_STATE_POLLING_BIT,VAR_1
+EFA_AQ_STATE_RUNNING_BIT,VAR_2
+EFA_CMD_COMPLETED,VAR_3
+clear_bit,FUNC_0
+complete,FUNC_1
+efa_com_get_comp_ctx,FUNC_2
+ibdev_err,FUNC_3
+memcpy,FUNC_4
+test_bit,FUNC_5
+efa_com_handle_single_admin_completion,FUNC_6
+aq,VAR_4
+cqe,VAR_5
+comp_ctx,VAR_6
+cmd_id,VAR_7

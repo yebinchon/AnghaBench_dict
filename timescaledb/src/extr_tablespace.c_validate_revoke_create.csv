@@ -1,0 +1,16 @@
+ACLCHECK_OK,VAR_0
+ACL_CREATE,VAR_1
+ERRCODE_DEPENDENT_OBJECTS_STILL_EXIST,VAR_2
+ERROR,VAR_3
+ereport,FUNC_0
+errcode,FUNC_1
+errhint,FUNC_2
+errmsg,FUNC_3
+get_rel_name,FUNC_4
+get_tablespace_name,FUNC_5
+pg_tablespace_aclcheck,FUNC_6
+validate_revoke_create,FUNC_7
+tspcoid,VAR_4
+role,VAR_5
+relid,VAR_6
+aclresult,VAR_7

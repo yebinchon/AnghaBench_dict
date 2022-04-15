@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+flush_cache_vmap,FUNC_1
+ioremap_p4d_range,FUNC_2
+might_sleep,FUNC_3
+pgd_addr_end,FUNC_4
+pgd_offset_k,FUNC_5
+ioremap_page_range,FUNC_6
+addr,VAR_0
+end,VAR_1
+phys_addr,VAR_2
+prot,VAR_3
+pgd,VAR_4
+start,VAR_5
+next,VAR_6
+err,VAR_7

@@ -1,0 +1,14 @@
+CH_TX_FIFO_EMPTY,VAR_0
+CH_TX_FIFO_LWM,VAR_1
+INFO,VAR_2
+IOCTL,VAR_3
+UART_FCR_CLEAR_XMIT,VAR_4
+UART_FCR_ENABLE_FIFO,VAR_5
+jsm_printk,FUNC_0
+readb,FUNC_1
+udelay,FUNC_2
+writeb,FUNC_3
+neo_flush_uart_write,FUNC_4
+ch,VAR_6
+tmp,VAR_7
+i,VAR_8

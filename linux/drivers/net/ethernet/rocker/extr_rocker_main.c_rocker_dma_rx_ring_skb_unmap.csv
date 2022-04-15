@@ -1,0 +1,12 @@
+PCI_DMA_FROMDEVICE,VAR_0
+ROCKER_TLV_RX_FRAG_ADDR,VAR_1
+ROCKER_TLV_RX_FRAG_MAX_LEN,VAR_2
+pci_unmap_single,FUNC_0
+rocker_tlv_get_u16,FUNC_1
+rocker_tlv_get_u64,FUNC_2
+rocker_dma_rx_ring_skb_unmap,FUNC_3
+rocker,VAR_3
+attrs,VAR_4
+pdev,VAR_5
+dma_handle,VAR_6
+len,VAR_7

@@ -1,0 +1,17 @@
+CAM_DEV_TAG_AFTER_COUNT,VAR_0
+CAM_PERIPH_ANNOUNCED,VAR_1
+MA_OWNED,VAR_2
+SID_CmdQue,VAR_3
+cam_periph_assert,FUNC_0
+sbuf_printf,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+xpt_announce_periph,FUNC_4
+xpt_proto_find,FUNC_5
+xsoftc,VAR_4
+xpt_announce_periph_sbuf,FUNC_6
+periph,VAR_5
+sb,VAR_6
+announce_string,VAR_7
+path,VAR_8
+proto,VAR_9

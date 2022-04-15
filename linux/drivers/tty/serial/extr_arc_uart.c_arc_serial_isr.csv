@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+RXIENB,VAR_1
+TXEMPTY,VAR_2
+TXIENB,VAR_3
+UART_GET_STATUS,FUNC_0
+UART_TX_IRQ_DISABLE,FUNC_1
+arc_serial_rx_chars,FUNC_2
+arc_serial_tx_chars,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+uart_tx_stopped,FUNC_6
+arc_serial_isr,FUNC_7
+irq,VAR_4
+dev_id,VAR_5
+port,VAR_6
+status,VAR_7

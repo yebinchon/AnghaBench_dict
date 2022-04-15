@@ -1,0 +1,11 @@
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_delete_children,FUNC_2
+device_get_softc,FUNC_3
+dwc_otg_uninit,FUNC_4
+usb_bus_mem_free_all,FUNC_5
+dwc_otg_detach,FUNC_6
+dev,VAR_2
+sc,VAR_3

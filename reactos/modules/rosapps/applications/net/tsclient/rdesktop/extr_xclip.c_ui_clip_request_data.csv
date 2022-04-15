@@ -1,0 +1,15 @@
+CurrentTime,VAR_0
+DEBUG_CLIPBOARD,FUNC_0
+None,VAR_1
+PropModeReplace,VAR_2
+XA_INTEGER,VAR_3
+XChangeProperty,FUNC_1
+XConvertSelection,FUNC_2
+XGetSelectionOwner,FUNC_3
+helper_cliprdr_send_empty_response,FUNC_4
+xclip_clear_target_props,FUNC_5
+ui_clip_request_data,FUNC_6
+This,VAR_4
+format,VAR_5
+primary_owner,VAR_6
+clipboard_owner,VAR_7

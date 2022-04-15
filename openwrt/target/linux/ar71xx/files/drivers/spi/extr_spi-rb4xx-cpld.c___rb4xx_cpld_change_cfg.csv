@@ -1,0 +1,11 @@
+CPLD_CFG_nLED5,VAR_0
+CPLD_CMD_LED5_OFF,VAR_1
+CPLD_CMD_LED5_ON,VAR_2
+rb4xx_cpld_write_cfg,FUNC_0
+rb4xx_cpld_write_cmd,FUNC_1
+__rb4xx_cpld_change_cfg,FUNC_2
+cpld,VAR_3
+mask,VAR_4
+value,VAR_5
+config,VAR_6
+err,VAR_7

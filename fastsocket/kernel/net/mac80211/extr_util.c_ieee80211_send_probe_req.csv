@@ -1,0 +1,17 @@
+IEEE80211_SKB_CB,FUNC_0
+ieee80211_build_probe_req,FUNC_1
+ieee80211_tx_skb,FUNC_2
+ieee80211_tx_skb_tid_band,FUNC_3
+ieee80211_send_probe_req,FUNC_4
+sdata,VAR_0
+dst,VAR_1
+ssid,VAR_2
+ssid_len,VAR_3
+ie,VAR_4
+ie_len,VAR_5
+ratemask,VAR_6
+directed,VAR_7
+tx_flags,VAR_8
+channel,VAR_9
+scan,VAR_10
+skb,VAR_11

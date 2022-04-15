@@ -1,0 +1,16 @@
+SEND_PACK_PUSH_CERT_ALWAYS,VAR_0
+SEND_PACK_PUSH_CERT_IF_ASKED,VAR_1
+SEND_PACK_PUSH_CERT_NEVER,VAR_2
+args,VAR_3
+error,FUNC_0
+git_config_get_value,FUNC_1
+git_default_config,FUNC_2
+git_gpg_config,FUNC_3
+git_parse_maybe_bool,FUNC_4
+strcasecmp,FUNC_5
+strcmp,FUNC_6
+send_pack_config,FUNC_7
+k,VAR_4
+v,VAR_5
+cb,VAR_6
+value,VAR_7

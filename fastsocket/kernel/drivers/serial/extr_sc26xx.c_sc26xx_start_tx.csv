@@ -1,0 +1,12 @@
+IMR_TXRDY,VAR_0
+READ_SC_PORT,FUNC_0
+SR,VAR_1
+SR_TXRDY,VAR_2
+THR,VAR_3
+UART_XMIT_SIZE,VAR_4
+WRITE_SC_PORT,FUNC_1
+sc26xx_enable_irq,FUNC_2
+uart_circ_empty,FUNC_3
+sc26xx_start_tx,FUNC_4
+port,VAR_5
+xmit,VAR_6

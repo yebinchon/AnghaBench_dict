@@ -1,0 +1,7 @@
+BITS_RX_EN,VAR_0
+BITS_TX_EN,VAR_1
+DESC_WR_RD_ENA,VAR_2
+PORT_EN,VAR_3
+writel_relaxed,FUNC_0
+hix5hd2_port_enable,FUNC_1
+priv,VAR_4

@@ -1,0 +1,13 @@
+MG_F_SEND_AND_CLOSE,VAR_0
+WEBSOCKET_OP_CLOSE,VAR_1
+mg_send,FUNC_0
+mg_send_ws_header,FUNC_1
+mg_ws_mask_frame,FUNC_2
+mg_send_websocket_framev,FUNC_3
+nc,VAR_2
+op,VAR_3
+strv,VAR_4
+strvcnt,VAR_5
+ctx,VAR_6
+i,VAR_7
+len,VAR_8

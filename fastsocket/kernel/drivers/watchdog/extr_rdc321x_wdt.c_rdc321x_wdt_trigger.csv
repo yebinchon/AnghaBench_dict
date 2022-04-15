@@ -1,0 +1,15 @@
+RDC3210_CFGREG_DATA,VAR_0
+RDC_WDT_EN,VAR_1
+RDC_WDT_INTERVAL,VAR_2
+complete,FUNC_0
+inl,FUNC_1
+jiffies,VAR_3
+mod_timer,FUNC_2
+outl,FUNC_3
+rdc321x_wdt_device,VAR_4
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ticks,VAR_5
+rdc321x_wdt_trigger,FUNC_6
+unused,VAR_6
+flags,VAR_7

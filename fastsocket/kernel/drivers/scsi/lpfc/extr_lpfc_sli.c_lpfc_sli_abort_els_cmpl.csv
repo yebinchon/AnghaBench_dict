@@ -1,0 +1,16 @@
+KERN_WARNING,VAR_0
+LOG_ELS,VAR_1
+LOG_SLI,VAR_2
+LPFC_SLI_REV4,VAR_3
+lpfc_printf_log,FUNC_0
+lpfc_sli_release_iocbq,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+lpfc_sli_abort_els_cmpl,FUNC_4
+phba,VAR_4
+cmdiocb,VAR_5
+rspiocb,VAR_6
+irsp,VAR_7
+abort_iotag,VAR_8
+abort_context,VAR_9
+abort_iocb,VAR_10

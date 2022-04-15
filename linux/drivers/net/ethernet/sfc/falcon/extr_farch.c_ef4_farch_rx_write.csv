@@ -1,0 +1,12 @@
+EF4_POPULATE_DWORD_1,FUNC_0
+FRF_AZ_RX_DESC_WPTR_DWORD,VAR_0
+FR_AZ_RX_DESC_UPD_DWORD_P0,VAR_1
+ef4_farch_build_rx_desc,FUNC_1
+ef4_rx_queue_index,FUNC_2
+ef4_writed_page,FUNC_3
+wmb,FUNC_4
+ef4_farch_rx_write,FUNC_5
+rx_queue,VAR_2
+efx,VAR_3
+reg,VAR_4
+write_ptr,VAR_5

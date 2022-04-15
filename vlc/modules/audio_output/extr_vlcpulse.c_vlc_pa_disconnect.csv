@@ -1,0 +1,12 @@
+pa_context_disconnect,FUNC_0
+pa_context_set_event_callback,FUNC_1
+pa_context_set_state_callback,FUNC_2
+pa_context_unref,FUNC_3
+pa_threaded_mainloop_free,FUNC_4
+pa_threaded_mainloop_lock,FUNC_5
+pa_threaded_mainloop_stop,FUNC_6
+pa_threaded_mainloop_unlock,FUNC_7
+vlc_pa_disconnect,FUNC_8
+obj,VAR_0
+ctx,VAR_1
+mainloop,VAR_2

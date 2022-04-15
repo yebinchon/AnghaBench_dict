@@ -1,0 +1,15 @@
+IB_MGMT_RMPP_FLAG_ACTIVE,VAR_0
+IB_MGMT_RMPP_STATUS_BADT,VAR_1
+IB_MGMT_RMPP_STATUS_UNV,VAR_2
+IB_MGMT_RMPP_VERSION,VAR_3
+abort_send,FUNC_0
+ib_free_recv_mad,FUNC_1
+nack_recv,FUNC_2
+process_rmpp_abort,FUNC_3
+process_rmpp_ack,FUNC_4
+process_rmpp_data,FUNC_5
+process_rmpp_stop,FUNC_6
+ib_process_rmpp_recv_wc,FUNC_7
+agent,VAR_4
+mad_recv_wc,VAR_5
+rmpp_mad,VAR_6

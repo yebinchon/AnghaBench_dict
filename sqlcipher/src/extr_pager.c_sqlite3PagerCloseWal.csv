@@ -1,0 +1,17 @@
+PAGER_JOURNALMODE_WAL,VAR_0
+SHARED_LOCK,VAR_1
+SQLITE_ACCESS_EXISTS,VAR_2
+SQLITE_OK,VAR_3
+assert,FUNC_0
+pagerExclusiveLock,FUNC_1
+pagerFixMaplimit,FUNC_2
+pagerLockDb,FUNC_3
+pagerOpenWal,FUNC_4
+pagerUnlockDb,FUNC_5
+sqlite3OsAccess,FUNC_6
+sqlite3WalClose,FUNC_7
+sqlite3PagerCloseWal,FUNC_8
+pPager,VAR_4
+db,VAR_5
+rc,VAR_6
+logexists,VAR_7

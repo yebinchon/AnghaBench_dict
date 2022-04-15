@@ -1,0 +1,15 @@
+LDNS_HEADER_SIZE,VAR_0
+LDNS_RCODE_FORMERR,VAR_1
+LDNS_SECTION_ADDITIONAL,VAR_2
+LDNS_SECTION_ANSWER,VAR_3
+LDNS_SECTION_AUTHORITY,VAR_4
+parse_query_section,FUNC_0
+parse_section,FUNC_1
+sldns_buffer_read,FUNC_2
+sldns_buffer_read_u16,FUNC_3
+sldns_buffer_remaining,FUNC_4
+parse_packet,FUNC_5
+pkt,VAR_5
+msg,VAR_6
+region,VAR_7
+ret,VAR_8

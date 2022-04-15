@@ -1,0 +1,14 @@
+CTL_LUN,FUNC_0
+SLP_LBIN,VAR_0
+SLP_REFTEMPERATURE,VAR_1
+SLP_TEMPERATURE,VAR_2
+dnvlist_get_string,FUNC_1
+scsi_ulto2b,FUNC_2
+strtol,FUNC_3
+ctl_temp_log_sense_handler,FUNC_4
+ctsio,VAR_3
+page_index,VAR_4
+pc,VAR_5
+lun,VAR_6
+data,VAR_7
+value,VAR_8

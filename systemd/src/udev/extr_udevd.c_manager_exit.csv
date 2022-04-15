@@ -1,0 +1,10 @@
+EVENT_QUEUED,VAR_0
+assert,FUNC_0
+event_queue_cleanup,FUNC_1
+manager_kill_workers,FUNC_2
+safe_close,FUNC_3
+sd_event_source_unref,FUNC_4
+sd_notify,FUNC_5
+udev_ctrl_unref,FUNC_6
+manager_exit,FUNC_7
+manager,VAR_1

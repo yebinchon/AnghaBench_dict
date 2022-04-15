@@ -1,0 +1,17 @@
+ENODEV,VAR_0
+ST21NFCA_APDU_READER_GATE,VAR_1
+ST21NFCA_EVT_TRANSMIT_DATA,VAR_2
+jiffies,VAR_3
+mod_timer,FUNC_0
+msecs_to_jiffies,FUNC_1
+nfc_hci_get_clientdata,FUNC_2
+nfc_hci_send_event,FUNC_3
+pr_debug,FUNC_4
+st21nfca_hci_se_io,FUNC_5
+hdev,VAR_4
+se_idx,VAR_5
+apdu,VAR_6
+apdu_length,VAR_7
+cb,VAR_8
+cb_context,VAR_9
+info,VAR_10

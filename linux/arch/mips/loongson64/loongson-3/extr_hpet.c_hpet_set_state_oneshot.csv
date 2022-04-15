@@ -1,0 +1,13 @@
+HPET_T0_CFG,VAR_0
+HPET_TN_32BIT,VAR_1
+HPET_TN_ENABLE,VAR_2
+HPET_TN_PERIODIC,VAR_3
+hpet_lock,VAR_4
+hpet_read,FUNC_0
+hpet_write,FUNC_1
+pr_info,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+hpet_set_state_oneshot,FUNC_5
+evt,VAR_5
+cfg,VAR_6

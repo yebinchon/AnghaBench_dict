@@ -1,0 +1,9 @@
+SST25L_CMD_SECTOR_ERASE,VAR_0
+spi_write,FUNC_0
+sst25l_wait_till_ready,FUNC_1
+sst25l_write_enable,FUNC_2
+sst25l_erase_sector,FUNC_3
+flash,VAR_1
+offset,VAR_2
+command,VAR_3
+err,VAR_4

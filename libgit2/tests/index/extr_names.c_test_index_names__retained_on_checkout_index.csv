@@ -1,0 +1,12 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+GIT_CHECKOUT_UPDATE_ONLY,VAR_2
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_checkout_index,FUNC_2
+git_index_name_entrycount,FUNC_3
+repo,VAR_3
+repo_index,VAR_4
+test_index_names__add,FUNC_4
+test_index_names__retained_on_checkout_index,FUNC_5
+opts,VAR_5

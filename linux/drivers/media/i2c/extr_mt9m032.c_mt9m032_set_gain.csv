@@ -1,0 +1,15 @@
+MT9M032_GAIN_ALL,VAR_0
+MT9M032_GAIN_AMUL_SHIFT,VAR_1
+MT9M032_GAIN_ANALOG_MASK,VAR_2
+MT9M032_GAIN_DIGITAL_MASK,VAR_3
+MT9M032_GAIN_DIGITAL_SHIFT,VAR_4
+mt9m032_write,FUNC_0
+v4l2_get_subdevdata,FUNC_1
+mt9m032_set_gain,FUNC_2
+sensor,VAR_5
+val,VAR_6
+client,VAR_7
+digital_gain_val,VAR_8
+analog_mul,VAR_9
+analog_gain_val,VAR_10
+reg_val,VAR_11

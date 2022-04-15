@@ -1,0 +1,15 @@
+DEFINE_AUDIT_DATA,FUNC_0
+LSM_AUDIT_DATA_NONE,VAR_0
+MAY_READ,VAR_1
+MAY_WRITE,VAR_2
+OP_SIGNAL,VAR_3
+aad,FUNC_1
+map_signal_num,FUNC_2
+profile_signal_perm,FUNC_3
+sa,VAR_4
+xcheck_labels,FUNC_4
+aa_may_signal,FUNC_5
+sender,VAR_5
+target,VAR_6
+sig,VAR_7
+profile,VAR_8

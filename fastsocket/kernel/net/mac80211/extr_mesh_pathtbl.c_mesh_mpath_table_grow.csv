@@ -1,0 +1,14 @@
+__mesh_table_free,FUNC_0
+call_rcu,FUNC_1
+mesh_paths,VAR_0
+mesh_table_alloc,FUNC_2
+mesh_table_free_rcu,VAR_1
+mesh_table_grow,FUNC_3
+pathtbl_resize_lock,VAR_2
+rcu_assign_pointer,FUNC_4
+resize_dereference_mesh_paths,FUNC_5
+write_lock_bh,FUNC_6
+write_unlock_bh,FUNC_7
+mesh_mpath_table_grow,FUNC_8
+oldtbl,VAR_3
+newtbl,VAR_4

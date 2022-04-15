@@ -1,0 +1,16 @@
+ACPI_DECODE_10,VAR_0
+ACPI_DECODE_16,VAR_1
+ACPI_IO_RANGE,VAR_2
+ACPI_MEMORY_RANGE,VAR_3
+ACPI_PRODUCER,VAR_4
+ACPI_SUCCESS,FUNC_0
+acpi_resource_to_address64,FUNC_1
+dev_warn,FUNC_2
+pnpacpi_parse_allocated_ioresource,FUNC_3
+pnpacpi_parse_allocated_memresource,FUNC_4
+pnpacpi_parse_allocated_address_space,FUNC_5
+dev,VAR_5
+res,VAR_6
+addr,VAR_7
+p,VAR_8
+status,VAR_9

@@ -1,0 +1,16 @@
+MFI_CMD_ABORT,VAR_0
+MRSAS_INTERNAL_CMD_WAIT_TIME,VAR_1
+device_printf,FUNC_0
+hz,VAR_2
+mrsas_get_mfi_cmd,FUNC_1
+mrsas_issue_dcmd,FUNC_2
+mrsas_release_mfi_cmd,FUNC_3
+tsleep,FUNC_4
+mrsas_issue_blocked_abort_cmd,FUNC_5
+sc,VAR_3
+cmd_to_abort,VAR_4
+cmd,VAR_5
+abort_fr,VAR_6
+retcode,VAR_7
+total_time,VAR_8
+max_wait,VAR_9

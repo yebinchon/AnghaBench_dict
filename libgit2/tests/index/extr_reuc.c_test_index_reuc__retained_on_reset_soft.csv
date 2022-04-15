@@ -1,0 +1,12 @@
+GIT_RESET_HARD,VAR_0
+GIT_RESET_SOFT,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_object_free,FUNC_2
+git_reset,FUNC_3
+git_revparse_single,FUNC_4
+repo,VAR_2
+reuc_entry_exists,FUNC_5
+test_index_reuc__add,FUNC_6
+test_index_reuc__retained_on_reset_soft,FUNC_7
+target,VAR_3

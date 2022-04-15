@@ -1,0 +1,16 @@
+UTUN_IF_DEFAULT_RING_SIZE,VAR_0
+UTUN_IF_DEFAULT_RX_FSW_RING_SIZE,VAR_1
+UTUN_IF_DEFAULT_SLOT_SIZE,VAR_2
+UTUN_IF_DEFAULT_TX_FSW_RING_SIZE,VAR_3
+lck_mtx_init,FUNC_0
+lck_rw_init,FUNC_1
+memset,FUNC_2
+utun_lck_attr,VAR_4
+utun_lck_grp,VAR_5
+utun_pcb_zone,VAR_6
+zalloc,FUNC_3
+utun_ctl_bind,FUNC_4
+kctlref,VAR_7
+sac,VAR_8
+unitinfo,VAR_9
+pcb,VAR_10

@@ -1,0 +1,12 @@
+APPLESMC_DATA_PORT,VAR_0
+APPLESMC_GET_KEY_BY_INDEX_CMD,VAR_1
+EIO,VAR_2
+__wait_status,FUNC_0
+inb,FUNC_1
+outb,FUNC_2
+send_command,FUNC_3
+applesmc_get_key_at_index,FUNC_4
+index,VAR_3
+key,VAR_4
+i,VAR_5
+readkey,VAR_6

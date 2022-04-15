@@ -1,0 +1,14 @@
+DATA_DIR_RX,VAR_0
+DATA_DIR_TX,VAR_1
+IRQ_WAKE_THREAD,VAR_2
+SLINK_RX_OVF,VAR_3
+SLINK_RX_UNF,VAR_4
+SLINK_STATUS,VAR_5
+SLINK_TX_OVF,VAR_6
+SLINK_TX_UNF,VAR_7
+tegra_slink_clear_status,FUNC_0
+tegra_slink_readl,FUNC_1
+tegra_slink_isr,FUNC_2
+irq,VAR_8
+context_data,VAR_9
+tspi,VAR_10

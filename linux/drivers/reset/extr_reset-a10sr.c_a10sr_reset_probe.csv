@@ -1,0 +1,13 @@
+A10SR_RESET_NUM,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+THIS_MODULE,VAR_3
+a10sr_reset_ops,VAR_4
+dev_get_drvdata,FUNC_0
+devm_kzalloc,FUNC_1
+devm_reset_controller_register,FUNC_2
+platform_set_drvdata,FUNC_3
+a10sr_reset_probe,FUNC_4
+pdev,VAR_5
+a10sr,VAR_6
+a10r,VAR_7

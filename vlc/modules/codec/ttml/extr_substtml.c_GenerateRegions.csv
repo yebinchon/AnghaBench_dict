@@ -1,0 +1,15 @@
+ConvertNodesToRegionContent,FUNC_0
+FindNode,FUNC_1
+InitTTMLContext,FUNC_2
+tt_node_NameCompare,FUNC_3
+vlc_dictionary_clear,FUNC_4
+vlc_dictionary_init,FUNC_5
+GenerateRegions,FUNC_6
+p_rootnode,VAR_0
+playbacktime,VAR_1
+p_regions,VAR_2
+pp_region_last,VAR_3
+p_bodynode,VAR_4
+context,VAR_5
+i,VAR_6
+p_entry,VAR_7

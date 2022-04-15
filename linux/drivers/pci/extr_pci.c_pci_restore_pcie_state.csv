@@ -1,0 +1,15 @@
+PCI_CAP_ID_EXP,VAR_0
+PCI_EXP_DEVCTL,VAR_1
+PCI_EXP_DEVCTL2,VAR_2
+PCI_EXP_LNKCTL,VAR_3
+PCI_EXP_LNKCTL2,VAR_4
+PCI_EXP_RTCTL,VAR_5
+PCI_EXP_SLTCTL,VAR_6
+PCI_EXP_SLTCTL2,VAR_7
+pci_find_saved_cap,FUNC_0
+pcie_capability_write_word,FUNC_1
+pci_restore_pcie_state,FUNC_2
+dev,VAR_8
+i,VAR_9
+save_state,VAR_10
+cap,VAR_11

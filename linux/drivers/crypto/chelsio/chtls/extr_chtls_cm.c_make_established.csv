@@ -1,0 +1,13 @@
+RCV_BUFSIZ_M,VAR_0
+TCP_ESTABLISHED,VAR_1
+assign_rxopt,FUNC_0
+inet_sk,FUNC_1
+prandom_u32,FUNC_2
+smp_mb,FUNC_3
+tcp_set_state,FUNC_4
+tcp_sk,FUNC_5
+make_established,FUNC_6
+sk,VAR_2
+snd_isn,VAR_3
+opt,VAR_4
+tp,VAR_5

@@ -1,0 +1,14 @@
+STATUS_RSP_SIZE,VAR_0
+STATUS_SIZE,VAR_1
+TWHI_MAX,VAR_2
+TWHI_MIN,VAR_3
+atmel_i2c_status,FUNC_0
+i2c_get_clientdata,FUNC_1
+i2c_master_recv,FUNC_2
+i2c_master_send,FUNC_3
+usleep_range,FUNC_4
+atmel_i2c_wakeup,FUNC_5
+client,VAR_4
+i2c_priv,VAR_5
+status,VAR_6
+ret,VAR_7

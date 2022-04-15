@@ -1,0 +1,17 @@
+APR_SUCCESS,VAR_0
+DEFLATE_BUFFER_SIZE,VAR_1
+DEFLATE_MAGIC_SIZE,VAR_2
+DEFLATE_MEMLEVEL,VAR_3
+DEFLATE_WINDOW_SIZE,VAR_4
+STATE_INIT,VAR_5
+STATE_READING_HEADER,VAR_6
+memset,FUNC_0
+serf_bucket_aggregate_create,FUNC_1
+serf_bucket_create,FUNC_2
+serf_bucket_mem_alloc,FUNC_3
+serf_bucket_type_deflate,VAR_7
+serf_bucket_deflate_create,FUNC_4
+stream,VAR_8
+allocator,VAR_9
+format,VAR_10
+ctx,VAR_11

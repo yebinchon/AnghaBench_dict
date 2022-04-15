@@ -1,0 +1,15 @@
+ALTERA_TSE_SW_RESET_WATCHDOG_CNTR,VAR_0
+MAC_CMDCFG_CNT_RESET,VAR_1
+MAC_CMDCFG_RX_ENA,VAR_2
+MAC_CMDCFG_SW_RESET,VAR_3
+MAC_CMDCFG_TX_ENA,VAR_4
+command_config,VAR_5
+csrrd32,FUNC_0
+csrwr32,FUNC_1
+tse_bit_is_clear,FUNC_2
+tse_csroffs,FUNC_3
+udelay,FUNC_4
+reset_mac,FUNC_5
+priv,VAR_6
+counter,VAR_7
+dat,VAR_8

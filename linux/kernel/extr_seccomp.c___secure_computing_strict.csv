@@ -1,0 +1,11 @@
+SECCOMP_RET_KILL_THREAD,VAR_0
+SIGKILL,VAR_1
+do_exit,FUNC_0
+dump_stack,FUNC_1
+get_compat_mode1_syscalls,FUNC_2
+in_compat_syscall,FUNC_3
+mode1_syscalls,VAR_2
+seccomp_log,FUNC_4
+__secure_computing_strict,FUNC_5
+this_syscall,VAR_3
+syscall_whitelist,VAR_4

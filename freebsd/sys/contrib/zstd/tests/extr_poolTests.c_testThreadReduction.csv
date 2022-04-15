@@ -1,0 +1,14 @@
+ASSERT_FALSE,FUNC_0
+ASSERT_TRUE,FUNC_1
+POOL_create,FUNC_2
+POOL_free,FUNC_3
+ZSTD_pthread_cond_destroy,FUNC_4
+ZSTD_pthread_cond_init,FUNC_5
+ZSTD_pthread_mutex_destroy,FUNC_6
+ZSTD_pthread_mutex_init,FUNC_7
+memset,FUNC_8
+testThreadReduction_internal,FUNC_9
+testThreadReduction,FUNC_10
+result,VAR_0
+test,VAR_1
+ctx,VAR_2

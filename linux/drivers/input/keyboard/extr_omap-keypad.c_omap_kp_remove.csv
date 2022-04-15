@@ -1,0 +1,14 @@
+OMAP1_MPUIO_BASE,VAR_0
+OMAP_MPUIO_KBD_MASKIT,VAR_1
+del_timer_sync,FUNC_0
+free_irq,FUNC_1
+input_unregister_device,FUNC_2
+kfree,FUNC_3
+kp_tasklet,VAR_2
+omap_writew,FUNC_4
+platform_get_drvdata,FUNC_5
+tasklet_disable,FUNC_6
+tasklet_kill,FUNC_7
+omap_kp_remove,FUNC_8
+pdev,VAR_3
+omap_kp,VAR_4

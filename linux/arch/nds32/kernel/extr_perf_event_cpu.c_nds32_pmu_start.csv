@@ -1,0 +1,13 @@
+NDS32_SR_PFM_CTL,VAR_0
+PFM_CTL_EN,VAR_1
+PFM_CTL_OVF,VAR_2
+__nds32__mfsr,FUNC_0
+__nds32__mtsr_isb,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+stub1,FUNC_4
+nds32_pmu_start,FUNC_5
+cpu_pmu,VAR_3
+flags,VAR_4
+val,VAR_5
+events,VAR_6

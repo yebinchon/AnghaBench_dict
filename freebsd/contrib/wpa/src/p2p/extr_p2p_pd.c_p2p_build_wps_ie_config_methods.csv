@@ -1,0 +1,12 @@
+ATTR_CONFIG_METHODS,VAR_0
+WLAN_EID_VENDOR_SPECIFIC,VAR_1
+WPS_DEV_OUI_WFA,VAR_2
+p2p_buf_update_ie_hdr,FUNC_0
+wpabuf_put,FUNC_1
+wpabuf_put_be16,FUNC_2
+wpabuf_put_be32,FUNC_3
+wpabuf_put_u8,FUNC_4
+p2p_build_wps_ie_config_methods,FUNC_5
+buf,VAR_3
+config_methods,VAR_4
+len,VAR_5

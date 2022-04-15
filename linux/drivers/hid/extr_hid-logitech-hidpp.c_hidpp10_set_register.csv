@@ -1,0 +1,14 @@
+HIDPP_GET_REGISTER,VAR_0
+HIDPP_SET_REGISTER,VAR_1
+REPORT_ID_HIDPP_SHORT,VAR_2
+hidpp_send_rap_command_sync,FUNC_0
+memcpy,FUNC_1
+hidpp10_set_register,FUNC_2
+hidpp_dev,VAR_3
+register_address,VAR_4
+byte,VAR_5
+mask,VAR_6
+value,VAR_7
+response,VAR_8
+ret,VAR_9
+params,VAR_10

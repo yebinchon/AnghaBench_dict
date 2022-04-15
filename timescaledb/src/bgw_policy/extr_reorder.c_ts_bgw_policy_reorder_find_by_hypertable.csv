@@ -1,0 +1,15 @@
+AccessShareLock,VAR_0
+Anum_bgw_policy_reorder_hypertable_id_idx_hypertable_id,VAR_1
+BGW_POLICY_REORDER,VAR_2
+BGW_POLICY_REORDER_HYPERTABLE_ID_IDX,VAR_3
+BGW_POLICY_REORDER_TABLE_NAME,VAR_4
+BTEqualStrategyNumber,VAR_5
+F_INT4EQ,VAR_6
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+bgw_policy_reorder_tuple_found,VAR_7
+ts_catalog_scan_one,FUNC_2
+ts_bgw_policy_reorder_find_by_hypertable,FUNC_3
+hypertable_id,VAR_8
+scankey,VAR_9
+ret,VAR_10

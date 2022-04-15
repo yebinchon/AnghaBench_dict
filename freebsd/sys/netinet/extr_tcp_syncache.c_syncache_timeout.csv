@@ -1,0 +1,14 @@
+TCPTV_REXMTMAX,VAR_0
+TCPT_RANGESET,FUNC_0
+TSTMP_LT,FUNC_1
+callout_reset,FUNC_2
+syncache_timer,VAR_1
+tcp_backoff,VAR_2
+tcp_rexmit_initial,VAR_3
+tcp_rexmit_min,VAR_4
+ticks,VAR_5
+syncache_timeout,FUNC_3
+sc,VAR_6
+sch,VAR_7
+docallout,VAR_8
+rexmt,VAR_9

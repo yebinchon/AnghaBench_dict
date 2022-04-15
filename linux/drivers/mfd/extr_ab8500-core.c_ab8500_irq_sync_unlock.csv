@@ -1,0 +1,14 @@
+AB8500_INTERRUPT,VAR_0
+AB8500_IT_MASK1_REG,VAR_1
+atomic_dec,FUNC_0
+irq_data_get_irq_chip_data,FUNC_1
+is_ab8500_1p1_or_earlier,FUNC_2
+mutex_unlock,FUNC_3
+set_register_interruptible,FUNC_4
+ab8500_irq_sync_unlock,FUNC_5
+data,VAR_2
+ab8500,VAR_3
+i,VAR_4
+old,VAR_5
+new,VAR_6
+reg,VAR_7

@@ -1,0 +1,15 @@
+CPU_IS_FIRST_CORE_IN_PACKAGE,VAR_0
+CPU_IS_FIRST_THREAD_IN_CORE,VAR_1
+MSR_IA32_ENERGY_PERF_BIAS,VAR_2
+cpu_migrate,FUNC_0
+fprintf,FUNC_1
+get_msr,FUNC_2
+has_epb,VAR_3
+outf,VAR_4
+print_epb,FUNC_3
+t,VAR_5
+c,VAR_6
+p,VAR_7
+msr,VAR_8
+epb_string,VAR_9
+cpu,VAR_10

@@ -1,0 +1,13 @@
+SPRD_WDT_CNT_EN_BIT,VAR_0
+SPRD_WDT_CTRL,VAR_1
+SPRD_WDT_INT_EN_BIT,VAR_2
+SPRD_WDT_RST_EN_BIT,VAR_3
+readl_relaxed,FUNC_0
+sprd_wdt_lock,FUNC_1
+sprd_wdt_unlock,FUNC_2
+to_sprd_wdt,FUNC_3
+writel_relaxed,FUNC_4
+sprd_wdt_stop,FUNC_5
+wdd,VAR_4
+wdt,VAR_5
+val,VAR_6

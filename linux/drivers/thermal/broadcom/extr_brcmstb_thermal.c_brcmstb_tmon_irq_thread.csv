@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+TMON_TRIP_TYPE_HIGH,VAR_1
+TMON_TRIP_TYPE_LOW,VAR_2
+avs_tmon_get_intr_temp,FUNC_0
+avs_tmon_get_trip_temp,FUNC_1
+avs_tmon_trip_enable,FUNC_2
+dev_dbg,FUNC_3
+thermal_zone_device_update,FUNC_4
+brcmstb_tmon_irq_thread,FUNC_5
+irq,VAR_3
+data,VAR_4
+priv,VAR_5
+low,VAR_6
+high,VAR_7
+intr,VAR_8

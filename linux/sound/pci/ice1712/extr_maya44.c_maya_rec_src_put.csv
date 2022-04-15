@@ -1,0 +1,14 @@
+GPIO_MIC_RELAY,VAR_0
+MAYA_LINE_IN,VAR_1
+MAYA_MIC_IN,VAR_2
+maya_set_gpio_bits,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_kcontrol_chip,FUNC_3
+wm8776_select_input,FUNC_4
+maya_rec_src_put,FUNC_5
+kcontrol,VAR_3
+ucontrol,VAR_4
+chip,VAR_5
+sel,VAR_6
+changed,VAR_7

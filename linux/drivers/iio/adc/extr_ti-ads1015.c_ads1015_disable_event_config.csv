@@ -1,0 +1,15 @@
+ADS1015_CFG_COMP_DISABLE,VAR_0
+ADS1015_CFG_COMP_MODE_TRAD,VAR_1
+ADS1015_CFG_COMP_MODE_WINDOW,VAR_2
+ADS1015_CFG_COMP_QUE_MASK,VAR_3
+ADS1015_CFG_COMP_QUE_SHIFT,VAR_4
+ADS1015_CFG_REG,VAR_5
+ads1015_event_channel_disable,FUNC_0
+ads1015_event_channel_enabled,FUNC_1
+ads1015_set_power_state,FUNC_2
+regmap_update_bits,FUNC_3
+ads1015_disable_event_config,FUNC_4
+data,VAR_6
+chan,VAR_7
+comp_mode,VAR_8
+ret,VAR_9

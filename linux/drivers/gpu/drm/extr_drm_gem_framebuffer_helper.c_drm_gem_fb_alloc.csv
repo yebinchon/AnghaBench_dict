@@ -1,0 +1,17 @@
+DRM_DEV_ERROR,FUNC_0
+ENOMEM,VAR_0
+ERR_PTR,FUNC_1
+GFP_KERNEL,VAR_1
+drm_framebuffer_init,FUNC_2
+drm_helper_mode_fill_fb_struct,FUNC_3
+kfree,FUNC_4
+kzalloc,FUNC_5
+drm_gem_fb_alloc,FUNC_6
+dev,VAR_2
+mode_cmd,VAR_3
+obj,VAR_4
+num_planes,VAR_5
+funcs,VAR_6
+fb,VAR_7
+ret,VAR_8
+i,VAR_9

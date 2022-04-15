@@ -1,0 +1,11 @@
+DISABLE_FCP_RING_INT,VAR_0
+ENABLE_FCP_RING_POLLING,VAR_1
+HA_R0RE_REQ,VAR_2
+LPFC_FCP_RING,VAR_3
+lpfc_poll_rearm_timer,FUNC_0
+lpfc_sli_handle_fast_ring_event,FUNC_1
+scsi_change_queue_depth,FUNC_2
+lpfc_slave_configure,FUNC_3
+sdev,VAR_4
+vport,VAR_5
+phba,VAR_6

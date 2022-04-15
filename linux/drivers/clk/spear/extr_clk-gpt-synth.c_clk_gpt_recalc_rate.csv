@@ -1,0 +1,14 @@
+GPT_MSCALE_MASK,VAR_0
+GPT_NSCALE_MASK,VAR_1
+GPT_NSCALE_SHIFT,VAR_2
+readl_relaxed,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_clk_gpt,FUNC_3
+clk_gpt_recalc_rate,FUNC_4
+hw,VAR_3
+parent_rate,VAR_4
+gpt,VAR_5
+flags,VAR_6
+div,VAR_7
+val,VAR_8

@@ -1,0 +1,13 @@
+SPU_CONTEXT_FAULT_PENDING,VAR_0
+SPU_CONTEXT_SWITCH_PENDING,VAR_1
+clear_bit,FUNC_0
+eieio,FUNC_1
+set_bit,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+spu_int_mask_get,FUNC_5
+spu_int_mask_set,FUNC_6
+synchronize_irq,FUNC_7
+disable_interrupts,FUNC_8
+csa,VAR_2
+spu,VAR_3

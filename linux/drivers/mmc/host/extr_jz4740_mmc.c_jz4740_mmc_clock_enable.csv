@@ -1,0 +1,8 @@
+JZ_MMC_STRPCL_CLOCK_START,VAR_0
+JZ_MMC_STRPCL_START_OP,VAR_1
+JZ_REG_MMC_STRPCL,VAR_2
+writew,FUNC_0
+jz4740_mmc_clock_enable,FUNC_1
+host,VAR_3
+start_transfer,VAR_4
+val,VAR_5

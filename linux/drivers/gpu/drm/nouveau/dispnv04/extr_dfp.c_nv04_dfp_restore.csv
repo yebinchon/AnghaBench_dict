@@ -1,0 +1,17 @@
+DCB_OUTPUT_LVDS,VAR_0
+DCB_OUTPUT_TMDS,VAR_1
+LVDS_PANEL_ON,VAR_2
+NV_DPMS_CLEARED,VAR_3
+call_lvds_script,FUNC_0
+nouveau_encoder,FUNC_1
+nouveau_encoder_connector_get,FUNC_2
+nouveau_hw_pllvals_to_clk,FUNC_3
+nv04_display,FUNC_4
+run_tmds_table,FUNC_5
+nv04_dfp_restore,FUNC_6
+encoder,VAR_4
+nv_encoder,VAR_5
+dev,VAR_6
+head,VAR_7
+connector,VAR_8
+clock,VAR_9

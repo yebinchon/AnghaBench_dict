@@ -1,0 +1,16 @@
+XADC_CONF1_SEQ_DEFAULT,VAR_0
+XADC_CONF1_SEQ_MASK,VAR_1
+XADC_REG_CONF1,VAR_2
+XADC_REG_SEQ,FUNC_0
+iio_priv,FUNC_1
+xadc_get_seq_mode,FUNC_2
+xadc_postdisable,FUNC_3
+xadc_power_adc_b,FUNC_4
+xadc_update_adc_reg,FUNC_5
+xadc_write_adc_reg,FUNC_6
+xadc_preenable,FUNC_7
+indio_dev,VAR_3
+xadc,VAR_4
+scan_mask,VAR_5
+seq_mode,VAR_6
+ret,VAR_7

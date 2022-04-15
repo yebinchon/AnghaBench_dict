@@ -1,0 +1,14 @@
+NAND_OPERATION,FUNC_0
+NAND_OP_WAIT_RDY,FUNC_1
+PSEC_TO_MSEC,FUNC_2
+PSEC_TO_NSEC,FUNC_3
+nand_exec_op,FUNC_4
+nand_has_exec_op,FUNC_5
+nand_wait_ready,FUNC_6
+udelay,FUNC_7
+nand_wait_rdy_op,FUNC_8
+chip,VAR_0
+timeout_ms,VAR_1
+delay_ns,VAR_2
+instrs,VAR_3
+op,VAR_4

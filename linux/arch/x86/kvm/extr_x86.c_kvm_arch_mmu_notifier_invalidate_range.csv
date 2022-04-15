@@ -1,0 +1,11 @@
+APIC_DEFAULT_PHYS_BASE,VAR_0
+KVM_REQ_APIC_PAGE_RELOAD,VAR_1
+PAGE_SHIFT,VAR_2
+gfn_to_hva,FUNC_0
+kvm_make_all_cpus_request,FUNC_1
+kvm_arch_mmu_notifier_invalidate_range,FUNC_2
+kvm,VAR_3
+start,VAR_4
+end,VAR_5
+blockable,VAR_6
+apic_address,VAR_7

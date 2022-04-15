@@ -1,0 +1,16 @@
+BCM63XX_MAX_CTRL_PKT,VAR_0
+EAGAIN,VAR_1
+IUDMA_EP0_RXCHAN,VAR_2
+IUDMA_EP0_TXCHAN,VAR_3
+bcm63xx_ep0_complete,FUNC_0
+bcm63xx_ep0_do_idle,FUNC_1
+bcm63xx_ep0_internal_request,FUNC_2
+bcm63xx_ep0_map_write,FUNC_3
+bcm63xx_ep0_nuke_reply,FUNC_4
+bcm63xx_ep0_read_complete,FUNC_5
+iudma_reset_channel,FUNC_6
+bcm63xx_ep0_one_round,FUNC_7
+udc,VAR_4
+ep0state,VAR_5
+shutdown,VAR_6
+r,VAR_7

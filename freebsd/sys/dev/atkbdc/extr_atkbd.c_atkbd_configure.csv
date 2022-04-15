@@ -1,0 +1,16 @@
+ATKBD_DEFAULT,VAR_0
+ATKBD_DRIVER_NAME,VAR_1
+KB_REGISTERED,VAR_2
+atkbd_init,FUNC_0
+atkbd_probe,FUNC_1
+atkbdc_configure,FUNC_2
+kbd_find_keyboard,FUNC_3
+kbd_get_keyboard,FUNC_4
+kbd_unregister,FUNC_5
+resource_disabled,FUNC_6
+resource_int_value,FUNC_7
+atkbd_configure,FUNC_8
+flags,VAR_3
+kbd,VAR_4
+arg,VAR_5
+i,VAR_6

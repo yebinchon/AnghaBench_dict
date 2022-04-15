@@ -1,0 +1,15 @@
+RIO_INB_ATMU_COUNT,VAR_0
+RIWAR_ENABLE,VAR_1
+RIWTAR_TRAD_MASK,VAR_2
+RIWTAR_TRAD_VAL_SHIFT,VAR_3
+in_be32,FUNC_0
+out_be32,FUNC_1
+fsl_unmap_inb_mem,FUNC_2
+mport,VAR_4
+lstart,VAR_5
+win_start_shift,VAR_6
+base_start_shift,VAR_7
+priv,VAR_8
+riwar,VAR_9
+riwtar,VAR_10
+i,VAR_11

@@ -1,0 +1,16 @@
+DEVTOSOFTC,FUNC_0
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+callout_drain,FUNC_3
+destroy_dev,FUNC_4
+device_get_parent,FUNC_5
+free,FUNC_6
+lpt_release_ppbus,FUNC_7
+ppb_lock,FUNC_8
+ppb_unlock,FUNC_9
+lpt_detach,FUNC_10
+dev,VAR_2
+sc,VAR_3
+ppbus,VAR_4

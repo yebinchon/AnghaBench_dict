@@ -1,0 +1,13 @@
+VGA_MSR_READ,VAR_0
+VGA_MSR_WRITE,VAR_1
+VGA_RSRC_LEGACY_IO,VAR_2
+gen8_irq_power_well_post_enable,FUNC_0
+inb,FUNC_1
+outb,FUNC_2
+vga_get_uninterruptible,FUNC_3
+vga_put,FUNC_4
+hsw_power_well_post_enable,FUNC_5
+dev_priv,VAR_3
+irq_pipe_mask,VAR_4
+has_vga,VAR_5
+pdev,VAR_6

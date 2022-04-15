@@ -1,0 +1,15 @@
+BIN_GROUP_ICON_ITEM_SIZE,VAR_0
+BIN_GROUP_ICON_SIZE,VAR_1
+set_windres_bfd_content,FUNC_0
+windres_put_16,FUNC_1
+windres_put_32,FUNC_2
+windres_put_8,FUNC_3
+res_to_bin_group_icon,FUNC_4
+wrbfd,VAR_2
+off,VAR_3
+group_icons,VAR_4
+start,VAR_5
+bgi,VAR_6
+c,VAR_7
+gi,VAR_8
+bgii,VAR_9

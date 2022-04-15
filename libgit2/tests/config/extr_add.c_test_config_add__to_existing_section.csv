@@ -1,0 +1,10 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_config_delete_entry,FUNC_2
+git_config_free,FUNC_3
+git_config_get_int32,FUNC_4
+git_config_open_ondisk,FUNC_5
+git_config_set_int32,FUNC_6
+test_config_add__to_existing_section,FUNC_7
+cfg,VAR_0
+i,VAR_1

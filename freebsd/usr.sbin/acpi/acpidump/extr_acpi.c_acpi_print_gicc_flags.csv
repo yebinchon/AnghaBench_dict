@@ -1,0 +1,5 @@
+ACPI_MADT_PERFORMANCE_IRQ_MODE,VAR_0
+ACPI_MADT_VGIC_IRQ_MODE,VAR_1
+printf,FUNC_0
+acpi_print_gicc_flags,FUNC_1
+flags,VAR_2

@@ -1,0 +1,16 @@
+MAX_UDP_SENDBUF_SIZE,VAR_0
+SOL_SOCKET,VAR_1
+SO_SNDBUF,VAR_2
+getsockopt,FUNC_0
+perror,FUNC_1
+setsockopt,FUNC_2
+verbosity,VAR_3
+vkprintf,FUNC_3
+maximize_sndbuf,FUNC_4
+sfd,VAR_4
+max,VAR_5
+intsize,VAR_6
+last_good,VAR_7
+min,VAR_8
+avg,VAR_9
+old_size,VAR_10

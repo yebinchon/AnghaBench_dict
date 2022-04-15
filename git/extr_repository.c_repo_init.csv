@@ -1,0 +1,15 @@
+REPOSITORY_FORMAT_INIT,VAR_0
+clear_repository_format,FUNC_0
+memset,FUNC_1
+parsed_object_pool_new,FUNC_2
+raw_object_store_new,FUNC_3
+read_and_verify_repository_format,FUNC_4
+repo_clear,FUNC_5
+repo_init_gitdir,FUNC_6
+repo_set_hash_algo,FUNC_7
+repo_set_worktree,FUNC_8
+repo_init,FUNC_9
+repo,VAR_1
+gitdir,VAR_2
+worktree,VAR_3
+format,VAR_4

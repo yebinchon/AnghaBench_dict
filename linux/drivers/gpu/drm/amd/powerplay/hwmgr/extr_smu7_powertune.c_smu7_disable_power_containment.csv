@@ -1,0 +1,15 @@
+PHM_PlatformCaps_PowerContainment,VAR_0
+POWERCONTAINMENT_FEATURE_DTE,VAR_1
+POWERCONTAINMENT_FEATURE_PkgPwrLimit,VAR_2
+POWERCONTAINMENT_FEATURE_TDCLimit,VAR_3
+PPSMC_MSG_DisableDTE,VAR_4
+PPSMC_MSG_PkgPwrLimitDisable,VAR_5
+PPSMC_MSG_TDCLimitDisable,VAR_6
+PP_ASSERT_WITH_CODE,FUNC_0
+PP_CAP,FUNC_1
+smum_send_msg_to_smc,FUNC_2
+smu7_disable_power_containment,FUNC_3
+hwmgr,VAR_7
+data,VAR_8
+result,VAR_9
+smc_result,VAR_10

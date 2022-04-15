@@ -1,0 +1,16 @@
+EF4_TX_BUF_OPTION,VAR_0
+RESET_TYPE_TX_SKIP,VAR_1
+ef4_dequeue_buffer,FUNC_0
+ef4_schedule_reset,FUNC_1
+netif_err,FUNC_2
+tx_err,VAR_2
+unlikely,FUNC_3
+ef4_dequeue_buffers,FUNC_4
+tx_queue,VAR_3
+index,VAR_4
+pkts_compl,VAR_5
+bytes_compl,VAR_6
+efx,VAR_7
+stop_index,VAR_8
+read_ptr,VAR_9
+buffer,VAR_10

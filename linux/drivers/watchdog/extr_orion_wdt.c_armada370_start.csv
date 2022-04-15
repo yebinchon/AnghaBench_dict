@@ -1,0 +1,11 @@
+TIMER_A370_STATUS,VAR_0
+TIMER_CTRL,VAR_1
+WDT_A370_EXPIRED,VAR_2
+atomic_io_modify,FUNC_0
+readl,FUNC_1
+watchdog_get_drvdata,FUNC_2
+writel,FUNC_3
+armada370_start,FUNC_4
+wdt_dev,VAR_3
+dev,VAR_4
+reg,VAR_5

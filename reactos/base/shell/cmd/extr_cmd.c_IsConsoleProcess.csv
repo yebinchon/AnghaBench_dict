@@ -1,0 +1,13 @@
+IMAGE_SUBSYSTEM_WINDOWS_CUI,VAR_0
+NT_SUCCESS,FUNC_0
+NtQueryInformationProcessPtr,FUNC_1
+NtReadVirtualMemoryPtr,FUNC_2
+ProcessBasicInformation,VAR_1
+TRUE,VAR_2
+WARN,FUNC_3
+IsConsoleProcess,FUNC_4
+Process,VAR_3
+Status,VAR_4
+Info,VAR_5
+ProcessPeb,VAR_6
+BytesRead,VAR_7

@@ -1,0 +1,16 @@
+RBD_WATCH_STATE_ERROR,VAR_0
+RBD_WATCH_STATE_REGISTERED,VAR_1
+__rbd_unregister_watch,FUNC_0
+down_write,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+queue_delayed_work,FUNC_4
+rbd_empty_cid,VAR_2
+rbd_set_owner_cid,FUNC_5
+rbd_warn,FUNC_6
+up_write,FUNC_7
+rbd_watch_errcb,FUNC_8
+arg,VAR_3
+cookie,VAR_4
+err,VAR_5
+rbd_dev,VAR_6

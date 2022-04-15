@@ -1,0 +1,11 @@
+ACPI_SYSTEM_NOTIFY,VAR_0
+ACPI_TYPE_DEVICE,VAR_1
+AcpiInstallNotifyHandler,FUNC_0
+AcpiWalkNamespace,FUNC_1
+acpi_get_handle,FUNC_2
+acpi_pci_bus_notify_handler,VAR_2
+acpi_pci_install_device_notify_handler,VAR_3
+pci_attach,FUNC_3
+acpi_pci_attach,FUNC_4
+dev,VAR_4
+error,VAR_5

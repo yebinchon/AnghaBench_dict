@@ -1,0 +1,16 @@
+DRV_MSG_CODE_BW_UPDATE_ACK,VAR_0
+MCP_PF_ID,FUNC_0
+OSAL_SPIN_LOCK,FUNC_1
+OSAL_SPIN_UNLOCK,FUNC_2
+ecore_configure_pf_max_bandwidth,FUNC_3
+ecore_configure_pf_min_bandwidth,FUNC_4
+ecore_mcp_cmd,FUNC_5
+ecore_mcp_get_shmem_func,FUNC_6
+ecore_read_pf_bandwidth,FUNC_7
+ecore_mcp_update_bw,FUNC_8
+p_hwfn,VAR_1
+p_ptt,VAR_2
+p_info,VAR_3
+shmem_info,VAR_4
+resp,VAR_5
+param,VAR_6

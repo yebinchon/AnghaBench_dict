@@ -1,0 +1,16 @@
+decode_3operands,FUNC_0
+decode_bcond,FUNC_1
+decode_bit_op,FUNC_2
+decode_extended,FUNC_3
+decode_imm_reg,FUNC_4
+decode_jarl,FUNC_5
+decode_load_store,FUNC_6
+decode_reg_reg,FUNC_7
+get_opcode,FUNC_8
+r_read_le16,FUNC_9
+v850_decode_command,FUNC_10
+instr,VAR_0
+len,VAR_1
+cmd,VAR_2
+ret,VAR_3
+in,VAR_4

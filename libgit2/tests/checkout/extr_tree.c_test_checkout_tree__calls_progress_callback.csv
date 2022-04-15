@@ -1,0 +1,10 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_object,VAR_0
+g_opts,VAR_1
+g_repo,VAR_2
+git_checkout_tree,FUNC_2
+git_revparse_single,FUNC_3
+progress,VAR_3
+test_checkout_tree__calls_progress_callback,FUNC_4
+was_called,VAR_4

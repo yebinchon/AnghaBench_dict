@@ -1,0 +1,16 @@
+HCI_EVENT_PKT,VAR_0
+HCI_EV_CMD_COMPLETE,VAR_1
+HCI_EV_CMD_STATUS,VAR_2
+HCI_FLT_EVENT_BITS,VAR_3
+HCI_FLT_TYPE_BITS,VAR_4
+get_unaligned,FUNC_0
+hci_pi,FUNC_1
+hci_skb_pkt_type,FUNC_2
+hci_test_bit,FUNC_3
+test_bit,FUNC_4
+is_filtered_packet,FUNC_5
+sk,VAR_5
+skb,VAR_6
+flt,VAR_7
+flt_type,VAR_8
+flt_event,VAR_9

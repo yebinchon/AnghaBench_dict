@@ -1,0 +1,13 @@
+MSTR_INT_EN,VAR_0
+MSTR_INT_STATUS,VAR_1
+QSPI_ALL_IRQS,VAR_2
+QSPI_ERR_IRQS,VAR_3
+QSPI_WRITE,VAR_4
+RESP_FIFO_RDY,VAR_5
+WR_FIFO_EMPTY,VAR_6
+qcom_qspi_pio_xfer_cfg,FUNC_0
+qcom_qspi_pio_xfer_ctrl,FUNC_1
+writel,FUNC_2
+qcom_qspi_pio_xfer,FUNC_3
+ctrl,VAR_7
+ints,VAR_8

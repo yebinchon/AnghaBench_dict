@@ -1,0 +1,17 @@
+DBUS_TYPE_STRING,VAR_0
+LOOP_STATUS_NONE,VAR_1
+LOOP_STATUS_PLAYLIST,VAR_2
+LOOP_STATUS_TRACK,VAR_3
+VLC_ENOMEM,VAR_4
+VLC_SUCCESS,VAR_5
+dbus_message_iter_append_basic,FUNC_0
+vlc_assert_unreachable,FUNC_1
+vlc_playlist_GetPlaybackRepeat,FUNC_2
+vlc_playlist_Lock,FUNC_3
+vlc_playlist_Unlock,FUNC_4
+MarshalLoopStatus,FUNC_5
+p_intf,VAR_6
+container,VAR_7
+playlist,VAR_8
+repeat_mode,VAR_9
+psz_loop_status,VAR_10

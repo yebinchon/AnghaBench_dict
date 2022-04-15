@@ -1,0 +1,10 @@
+FALSE,VAR_0
+MNTOPT_EXEC,VAR_1
+MNTOPT_NOEXEC,VAR_2
+VFS_NOEXEC,VAR_3
+vfs_clearmntopt,FUNC_0
+vfs_setmntopt,FUNC_1
+exec_changed_cb,FUNC_2
+arg,VAR_4
+newval,VAR_5
+zfsvfs,VAR_6

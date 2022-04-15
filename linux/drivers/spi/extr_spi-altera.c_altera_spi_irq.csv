@@ -1,0 +1,13 @@
+ALTERA_SPI_CONTROL,VAR_0
+ALTERA_SPI_CONTROL_IRRDY_MSK,VAR_1
+IRQ_HANDLED,VAR_2
+altera_spi_rx_word,FUNC_0
+altera_spi_tx_word,FUNC_1
+spi_finalize_current_transfer,FUNC_2
+spi_master_get_devdata,FUNC_3
+writel,FUNC_4
+altera_spi_irq,FUNC_5
+irq,VAR_3
+dev,VAR_4
+master,VAR_5
+hw,VAR_6

@@ -1,0 +1,11 @@
+APMG_PS_CTRL_MSK_PWR_SRC,VAR_0
+APMG_PS_CTRL_REG,VAR_1
+APMG_PS_CTRL_VAL_PWR_SRC_VAUX,VAR_2
+APMG_PS_CTRL_VAL_PWR_SRC_VMAIN,VAR_3
+PCI_D3cold,VAR_4
+iwl_set_bits_mask_prph,FUNC_0
+pci_pme_capable,FUNC_1
+to_pci_dev,FUNC_2
+iwl_pcie_set_pwr,FUNC_3
+trans,VAR_5
+vaux,VAR_6

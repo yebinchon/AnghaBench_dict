@@ -1,0 +1,9 @@
+MVNETA_RXQ_ADD_NON_OCCUPIED_SHIFT,VAR_0
+MVNETA_RXQ_STATUS_UPDATE_REG,FUNC_0
+mvreg_write,FUNC_1
+mvneta_rxq_desc_num_update,FUNC_2
+pp,VAR_1
+rxq,VAR_2
+rx_done,VAR_3
+rx_filled,VAR_4
+val,VAR_5

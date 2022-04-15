@@ -1,0 +1,9 @@
+INTEL_PMC_IDX_FIXED,VAR_0
+MSR_CORE_PERF_FIXED_CTR0,VAR_1
+MSR_P6_EVNTSEL0,VAR_2
+get_fixed_pmc,FUNC_0
+get_gp_pmc,FUNC_1
+intel_pmc_idx_to_pmc,FUNC_2
+pmu,VAR_3
+pmc_idx,VAR_4
+idx,VAR_5

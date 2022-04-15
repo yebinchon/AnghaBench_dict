@@ -1,0 +1,15 @@
+LDNS_FREE,FUNC_0
+LDNS_RBTREE_NULL,VAR_0
+assert,FUNC_1
+ldns_dname_compare_v,VAR_1
+ldns_dnssec_name_make_hashed_name,FUNC_2
+ldns_hashed_names_node_free,VAR_2
+ldns_rbtree_create,FUNC_3
+ldns_rbtree_first,FUNC_4
+ldns_rbtree_next,FUNC_5
+ldns_traverse_postorder,FUNC_6
+ldns_dnssec_zone_hashed_names_from_nsec3,FUNC_7
+zone,VAR_3
+nsec3rr,VAR_4
+current_node,VAR_5
+current_name,VAR_6

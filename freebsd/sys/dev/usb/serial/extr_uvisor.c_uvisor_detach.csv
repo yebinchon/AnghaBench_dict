@@ -1,0 +1,10 @@
+DPRINTF,FUNC_0
+UVISOR_N_TRANSFER,VAR_0
+device_claim_softc,FUNC_1
+device_get_softc,FUNC_2
+ucom_detach,FUNC_3
+usbd_transfer_unsetup,FUNC_4
+uvisor_free_softc,FUNC_5
+uvisor_detach,FUNC_6
+dev,VAR_1
+sc,VAR_2

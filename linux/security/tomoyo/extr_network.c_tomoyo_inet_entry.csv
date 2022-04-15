@@ -1,0 +1,17 @@
+TOMOYO_CONFIG_DISABLED,VAR_0
+TOMOYO_RETRY_REQUEST,VAR_1
+TOMOYO_TYPE_INET_ACL,VAR_2
+ntohs,FUNC_0
+tomoyo_audit_inet_log,FUNC_1
+tomoyo_check_acl,FUNC_2
+tomoyo_check_inet_acl,VAR_3
+tomoyo_inet2mac,VAR_4
+tomoyo_init_request_info,FUNC_3
+tomoyo_read_lock,FUNC_4
+tomoyo_read_unlock,FUNC_5
+tomoyo_inet_entry,FUNC_6
+address,VAR_5
+idx,VAR_6
+r,VAR_7
+error,VAR_8
+type,VAR_9

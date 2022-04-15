@@ -1,0 +1,8 @@
+ADG792A_LDSW,VAR_0
+ADG792A_RESETB,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+adg792a_write_cmd,FUNC_1
+i2c,VAR_2
+cmd,VAR_3
+reset,VAR_4
+data,VAR_5

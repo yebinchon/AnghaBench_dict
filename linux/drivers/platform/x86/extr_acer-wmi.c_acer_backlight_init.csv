@@ -1,0 +1,16 @@
+BACKLIGHT_PLATFORM,VAR_0
+FB_BLANK_UNBLANK,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+acer_backlight_device,VAR_2
+acer_bl_ops,VAR_3
+backlight_device_register,FUNC_2
+backlight_update_status,FUNC_3
+max_brightness,VAR_4
+memset,FUNC_4
+pr_err,FUNC_5
+read_brightness,FUNC_6
+acer_backlight_init,FUNC_7
+dev,VAR_5
+props,VAR_6
+bd,VAR_7

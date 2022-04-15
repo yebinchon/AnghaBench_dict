@@ -1,0 +1,16 @@
+DA7219_HP_L_AMP_MIN_GAIN_EN_MASK,VAR_0
+DA7219_HP_L_CTRL,VAR_1
+DA7219_HP_R_AMP_MIN_GAIN_EN_MASK,VAR_2
+DA7219_HP_R_CTRL,VAR_3
+DA7219_MIN_GAIN_DELAY,VAR_4
+EINVAL,VAR_5
+msleep,FUNC_0
+snd_soc_component_update_bits,FUNC_1
+snd_soc_dapm_to_component,FUNC_2
+da7219_mixout_event,FUNC_3
+w,VAR_6
+kcontrol,VAR_7
+event,VAR_8
+component,VAR_9
+hp_ctrl,VAR_10
+min_gain_mask,VAR_11

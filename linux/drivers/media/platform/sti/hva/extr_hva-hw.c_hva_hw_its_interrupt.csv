@@ -1,0 +1,10 @@
+HVA_HIF_FIFO_STS,VAR_0
+HVA_HIF_REG_IT_ACK,VAR_1
+HVA_HIF_REG_SFL,VAR_2
+IRQ_WAKE_THREAD,VAR_3
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+hva_hw_its_interrupt,FUNC_2
+irq,VAR_4
+data,VAR_5
+hva,VAR_6

@@ -1,0 +1,17 @@
+CQHCI_CLEAR_ALL_TASKS,VAR_0
+CQHCI_CTL,VAR_1
+CQHCI_IS_TCL,VAR_2
+cqhci_readl,FUNC_0
+cqhci_set_irqs,FUNC_1
+cqhci_tasks_cleared,FUNC_2
+cqhci_writel,FUNC_3
+mmc_hostname,FUNC_4
+msecs_to_jiffies,FUNC_5
+pr_debug,FUNC_6
+wait_event_timeout,FUNC_7
+cqhci_clear_all_tasks,FUNC_8
+mmc,VAR_3
+timeout,VAR_4
+cq_host,VAR_5
+ret,VAR_6
+ctl,VAR_7

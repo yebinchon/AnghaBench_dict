@@ -1,0 +1,12 @@
+VMCI_ERROR_INVALID_ARGS,VAR_0
+VMCI_QPFLAG_LOCAL,VAR_1
+VMCI_QPFLAG_NONBLOCK,VAR_2
+enqueue,FUNC_0
+vmci_memcpy_to_queue_v,VAR_3
+vmci_memcpy_to_queue_v_local,VAR_4
+vmci_qpair_enquev,FUNC_1
+qpair,VAR_5
+iov,VAR_6
+iov_size,VAR_7
+buf_type,VAR_8
+result,VAR_9

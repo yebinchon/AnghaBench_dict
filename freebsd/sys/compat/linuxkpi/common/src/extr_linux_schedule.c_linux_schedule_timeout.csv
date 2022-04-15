@@ -1,0 +1,17 @@
+ERESTARTSYS,VAR_0
+MAX_SCHEDULE_TIMEOUT,VAR_1
+TASK_RUNNING,VAR_2
+TASK_WAKING,VAR_3
+atomic_read,FUNC_0
+current,VAR_4
+linux_add_to_sleepqueue,FUNC_1
+set_task_state,FUNC_2
+sleepq_lock,FUNC_3
+sleepq_release,FUNC_4
+ticks,VAR_5
+linux_schedule_timeout,FUNC_5
+timeout,VAR_6
+task,VAR_7
+ret,VAR_8
+state,VAR_9
+remainder,VAR_10

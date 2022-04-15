@@ -1,0 +1,14 @@
+FL_LOCKING,VAR_0
+ONENAND_CMD_UNLOCK,VAR_1
+ONENAND_CMD_UNLOCK_ALL,VAR_2
+ONENAND_HAS_UNLOCK_ALL,VAR_3
+ONENAND_IS_DDP,FUNC_0
+s3c_onenand_check_lock_status,FUNC_1
+s3c_onenand_do_lock_cmd,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+s3c_unlock_all,FUNC_5
+mtd,VAR_4
+this,VAR_5
+ofs,VAR_6
+len,VAR_7

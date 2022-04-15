@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+VFS_I,FUNC_1
+XFS_ICHGTIME_CHG,VAR_0
+XFS_ILOG_CORE,VAR_1
+drop_nlink,FUNC_2
+xfs_iunlink,FUNC_3
+xfs_trans_ichgtime,FUNC_4
+xfs_trans_log_inode,FUNC_5
+xfs_droplink,FUNC_6
+tp,VAR_2
+ip,VAR_3
+error,VAR_4

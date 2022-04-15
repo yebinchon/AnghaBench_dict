@@ -1,0 +1,17 @@
+FW_FEATURE_LPAR,VAR_0
+GFP_KERNEL,VAR_1
+IOMMU_PAGE_SHIFT_4K,VAR_2
+TCE_VB,VAR_3
+firmware_has_feature,FUNC_0
+iommu_init_table,FUNC_1
+iommu_table_lpar_multi_ops,VAR_4
+iommu_table_pseries_ops,VAR_5
+kzalloc,FUNC_2
+of_get_property,FUNC_3
+of_parse_dma_window,FUNC_4
+vio_build_iommu_table,FUNC_5
+dev,VAR_6
+dma_window,VAR_7
+tbl,VAR_8
+offset,VAR_9
+size,VAR_10

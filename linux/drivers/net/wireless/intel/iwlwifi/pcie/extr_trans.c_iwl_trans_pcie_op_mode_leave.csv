@@ -1,0 +1,10 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+iwl_disable_interrupts,FUNC_1
+iwl_pcie_apm_stop,FUNC_2
+iwl_pcie_disable_ict,FUNC_3
+iwl_pcie_synchronize_irqs,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+iwl_trans_pcie_op_mode_leave,FUNC_7
+trans,VAR_0
+trans_pcie,VAR_1

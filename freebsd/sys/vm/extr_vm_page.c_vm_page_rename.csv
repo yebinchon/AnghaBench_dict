@@ -1,0 +1,13 @@
+KASSERT,FUNC_0
+VM_OBJECT_ASSERT_WLOCKED,FUNC_1
+vm_page_dirty,FUNC_2
+vm_page_insert_radixdone,FUNC_3
+vm_page_object_remove,FUNC_4
+vm_radix_insert,FUNC_5
+vm_radix_lookup_le,FUNC_6
+vm_page_rename,FUNC_7
+m,VAR_0
+new_object,VAR_1
+new_pindex,VAR_2
+mpred,VAR_3
+opidx,VAR_4

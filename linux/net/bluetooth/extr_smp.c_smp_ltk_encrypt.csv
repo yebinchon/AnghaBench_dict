@@ -1,0 +1,12 @@
+HCI_CONN_ENCRYPT_PEND,VAR_0
+HCI_CONN_STK_ENCRYPT,VAR_1
+clear_bit,FUNC_0
+hci_find_ltk,FUNC_1
+hci_le_start_enc,FUNC_2
+smp_ltk_sec_level,FUNC_3
+test_and_set_bit,FUNC_4
+smp_ltk_encrypt,FUNC_5
+conn,VAR_2
+sec_level,VAR_3
+key,VAR_4
+hcon,VAR_5

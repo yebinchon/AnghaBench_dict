@@ -1,0 +1,17 @@
+MPASS,FUNC_0
+STAILQ_INSERT_TAIL,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+soaio_idle,VAR_0
+soaio_jobs,VAR_1
+soaio_jobs_lock,VAR_2
+soaio_kproc_task,VAR_3
+soaio_max_procs,VAR_4
+soaio_num_procs,VAR_5
+soaio_queued,VAR_6
+ta_link,VAR_7
+taskqueue_enqueue,FUNC_4
+taskqueue_thread,VAR_8
+wakeup_one,FUNC_5
+soaio_enqueue,FUNC_6
+task,VAR_9

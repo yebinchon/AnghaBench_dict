@@ -1,0 +1,16 @@
+ARCH_PERFMON_EVENTSEL_ENABLE,VAR_0
+INTEL_PMC_IDX_FIXED_BTS,VAR_1
+MSR_ARCH_PERFMON_FIXED_CTR_CTRL,VAR_2
+__this_cpu_read,FUNC_0
+__x86_pmu_enable_event,FUNC_1
+cpu_hw_events,VAR_3
+event_is_checkpointed,FUNC_2
+intel_pmu_enable_bts,FUNC_3
+intel_pmu_enable_fixed,FUNC_4
+intel_pmu_pebs_enable,FUNC_5
+this_cpu_ptr,FUNC_6
+unlikely,FUNC_7
+intel_pmu_enable_event,FUNC_8
+event,VAR_4
+hwc,VAR_5
+cpuc,VAR_6

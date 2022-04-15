@@ -1,0 +1,14 @@
+AMD_BIT,FUNC_0
+DBG,FUNC_1
+UDC_BCM_REV,VAR_0
+UDC_DEVCFG_SOFTRESET,VAR_1
+UDC_DEV_MSK_DISABLE,VAR_2
+UDC_EPINT_MSK_DISABLE_ALL,VAR_3
+readl,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+udc_irq_spinlock,VAR_4
+writel,FUNC_5
+udc_soft_reset,FUNC_6
+dev,VAR_5
+flags,VAR_6

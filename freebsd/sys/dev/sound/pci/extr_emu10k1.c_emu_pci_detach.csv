@@ -1,0 +1,16 @@
+M_DEVBUF,VAR_0
+PCIR_BAR,FUNC_0
+SYS_RES_IOPORT,VAR_1
+SYS_RES_IRQ,VAR_2
+bus_dma_tag_destroy,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+emu_uninit,FUNC_4
+free,FUNC_5
+pcm_getdevinfo,FUNC_6
+pcm_unregister,FUNC_7
+snd_mtxfree,FUNC_8
+emu_pci_detach,FUNC_9
+dev,VAR_3
+r,VAR_4
+sc,VAR_5

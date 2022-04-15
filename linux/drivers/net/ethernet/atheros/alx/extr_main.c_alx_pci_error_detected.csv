@@ -1,0 +1,17 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_NEED_RESET,VAR_1
+alx_halt,FUNC_0
+dev_info,FUNC_1
+netif_device_detach,FUNC_2
+netif_running,FUNC_3
+pci_channel_io_perm_failure,VAR_2
+pci_disable_device,FUNC_4
+pci_get_drvdata,FUNC_5
+rtnl_lock,FUNC_6
+rtnl_unlock,FUNC_7
+alx_pci_error_detected,FUNC_8
+pdev,VAR_3
+state,VAR_4
+alx,VAR_5
+netdev,VAR_6
+rc,VAR_7

@@ -1,0 +1,17 @@
+LIST_REMOVE,FUNC_0
+bridge_cloner,VAR_0
+bridge_in_bsd_mode,FUNC_1
+bridge_list_mtx,VAR_1
+bridge_lock_grp,VAR_2
+bridge_rtable_fini,FUNC_2
+bstp_detach,FUNC_3
+if_clone_softc_deallocate,FUNC_4
+ifnet_release,FUNC_5
+ifnet_softc,FUNC_6
+lck_mtx_destroy,FUNC_7
+lck_mtx_lock,FUNC_8
+lck_mtx_unlock,FUNC_9
+sc_list,VAR_3
+bridge_detach,FUNC_10
+ifp,VAR_4
+sc,VAR_5

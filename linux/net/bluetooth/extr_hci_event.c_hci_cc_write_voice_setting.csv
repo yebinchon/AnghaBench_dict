@@ -1,0 +1,12 @@
+BT_DBG,FUNC_0
+HCI_NOTIFY_VOICE_SETTING,VAR_0
+HCI_OP_WRITE_VOICE_SETTING,VAR_1
+get_unaligned_le16,FUNC_1
+hci_sent_cmd_data,FUNC_2
+stub1,FUNC_3
+hci_cc_write_voice_setting,FUNC_4
+hdev,VAR_2
+skb,VAR_3
+status,VAR_4
+setting,VAR_5
+sent,VAR_6

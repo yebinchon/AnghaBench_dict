@@ -1,0 +1,15 @@
+MAX77620_FPS_SRC_DEF,VAR_0
+MAX77620_FPS_SRC_NONE,VAR_1
+MAX77620_POWER_MODE_NORMAL,VAR_2
+max77620_config_power_ok,FUNC_0
+max77620_regulator_get_fps_src,FUNC_1
+max77620_regulator_get_power_mode,FUNC_2
+max77620_regulator_set_fps_slots,FUNC_3
+max77620_regulator_set_fps_src,FUNC_4
+max77620_regulator_set_power_mode,FUNC_5
+max77620_set_slew_rate,FUNC_6
+max77620_init_pmic,FUNC_7
+pmic,VAR_3
+id,VAR_4
+rpdata,VAR_5
+ret,VAR_6

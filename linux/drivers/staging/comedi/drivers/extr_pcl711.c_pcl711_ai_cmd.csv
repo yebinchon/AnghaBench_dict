@@ -1,0 +1,14 @@
+PCL711_INT_STAT_CLR,VAR_0
+PCL711_INT_STAT_REG,VAR_1
+PCL711_MODE_EXT_IRQ,VAR_2
+PCL711_MODE_PACER_IRQ,VAR_3
+TRIG_TIMER,VAR_4
+comedi_8254_pacer_enable,FUNC_0
+comedi_8254_update_divisors,FUNC_1
+outb,FUNC_2
+pcl711_ai_set_mode,FUNC_3
+pcl711_set_changain,FUNC_4
+pcl711_ai_cmd,FUNC_5
+dev,VAR_5
+s,VAR_6
+cmd,VAR_7

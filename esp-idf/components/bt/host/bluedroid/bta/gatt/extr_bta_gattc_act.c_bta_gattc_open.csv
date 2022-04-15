@@ -1,0 +1,17 @@
+APPL_TRACE_ERROR,FUNC_0
+BTA_GATTC_INT_CONN_EVT,VAR_0
+BTA_GATTC_INT_OPEN_FAIL_EVT,VAR_1
+BT_TRANSPORT_LE,VAR_2
+FALSE,VAR_3
+GATT_Connect,FUNC_1
+GATT_GetConnIdIfConnected,FUNC_2
+TRUE,VAR_4
+bta_gattc_sm_execute,FUNC_3
+gatt_find_specific_app_in_hold_link,FUNC_4
+gatt_find_tcb_by_addr,FUNC_5
+bta_gattc_open,FUNC_6
+p_clcb,VAR_5
+p_data,VAR_6
+gattc_data,VAR_7
+found_app,VAR_8
+p_tcb,VAR_9

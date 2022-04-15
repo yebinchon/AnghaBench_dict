@@ -1,0 +1,15 @@
+EIO,VAR_0
+RNG_DATA,VAR_1
+mtk_rng_wait_ready,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_sync_autosuspend,FUNC_3
+readl,FUNC_4
+to_mtk_rng,FUNC_5
+mtk_rng_read,FUNC_6
+rng,VAR_2
+buf,VAR_3
+max,VAR_4
+wait,VAR_5
+priv,VAR_6
+retval,VAR_7

@@ -1,0 +1,13 @@
+TPM_CAP_PROP_OWNER,VAR_0
+sprintf,FUNC_0
+to_tpm_chip,FUNC_1
+tpm1_getcap,FUNC_2
+tpm_put_ops,FUNC_3
+tpm_try_get_ops,FUNC_4
+owned_show,FUNC_5
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+chip,VAR_4
+rc,VAR_5
+cap,VAR_6

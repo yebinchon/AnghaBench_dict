@@ -1,0 +1,10 @@
+SUPERVISED_AUTODETECT,VAR_0
+SUPERVISED_SYSTEMD,VAR_1
+SUPERVISED_UPSTART,VAR_2
+getenv,FUNC_0
+redisSupervisedSystemd,FUNC_1
+redisSupervisedUpstart,FUNC_2
+redisIsSupervised,FUNC_3
+mode,VAR_3
+upstart_job,VAR_4
+notify_socket,VAR_5

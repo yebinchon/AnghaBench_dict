@@ -1,0 +1,16 @@
+EVP_PKEY_free,FUNC_0
+EVP_PKEY_id,FUNC_1
+TEST_int_eq,FUNC_2
+TEST_ptr,FUNC_3
+TEST_ptr_eq,FUNC_4
+d2i_AutoPrivateKey,FUNC_5
+keydata,VAR_0
+test_d2i_AutoPrivateKey,FUNC_6
+i,VAR_1
+ret,VAR_2
+p,VAR_3
+pkey,VAR_4
+ak,VAR_5
+input,VAR_6
+input_len,VAR_7
+expected_id,VAR_8

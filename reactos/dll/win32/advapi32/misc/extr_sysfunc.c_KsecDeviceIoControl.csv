@@ -1,0 +1,12 @@
+KsecDeviceHandle,VAR_0
+KsecOpenDevice,FUNC_0
+NT_SUCCESS,FUNC_1
+NtDeviceIoControlFile,FUNC_2
+KsecDeviceIoControl,FUNC_3
+IoControlCode,VAR_1
+InputBuffer,VAR_2
+InputBufferLength,VAR_3
+OutputBuffer,VAR_4
+OutputBufferLength,VAR_5
+IoStatusBlock,VAR_6
+Status,VAR_7

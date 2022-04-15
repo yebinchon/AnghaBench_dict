@@ -1,0 +1,17 @@
+CVMX_PIP_BSEL_EXT_CFGX,FUNC_0
+CVMX_PIP_BSEL_TBL_ENTX,FUNC_1
+CVMX_PIP_PRT_TAGX,FUNC_2
+OCTEON_FEATURE_BIT_EXTRACTOR,VAR_0
+cvmx_pip_get_bsel_table_index,FUNC_3
+cvmx_read_csr,FUNC_4
+cvmx_wqe_get_port,FUNC_5
+octeon_has_feature,FUNC_6
+cvmx_pip_get_bsel_tag,FUNC_7
+work,VAR_1
+index,VAR_2
+port,VAR_3
+bit,VAR_4
+upper_tag,VAR_5
+bsel_tbl,VAR_6
+bsel_cfg,VAR_7
+prt_tag,VAR_8

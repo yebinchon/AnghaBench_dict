@@ -1,0 +1,14 @@
+ISP1301_I2C_INTERRUPT_FALLING,VAR_0
+ISP1301_I2C_INTERRUPT_RISING,VAR_1
+ISP1301_I2C_REG_CLEAR_ADDR,VAR_2
+atomic_read,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+stop_activity,FUNC_4
+to_udc,FUNC_5
+udc_clk_set,FUNC_6
+wait_event_interruptible,FUNC_7
+lpc32xx_stop,FUNC_8
+gadget,VAR_3
+udc,VAR_4

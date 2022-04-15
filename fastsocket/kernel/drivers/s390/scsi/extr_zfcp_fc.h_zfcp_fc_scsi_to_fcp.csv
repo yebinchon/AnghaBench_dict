@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+FCP_CFL_RDDATA,VAR_2
+FCP_CFL_WRDATA,VAR_3
+FCP_PTA_ORDERED,VAR_4
+FCP_PTA_SIMPLE,VAR_5
+SCSI_PROT_DIF_TYPE1,VAR_6
+int_to_scsilun,FUNC_0
+memcpy,FUNC_1
+scsi_bufflen,FUNC_2
+scsi_get_prot_type,FUNC_3
+scsi_populate_tag_msg,FUNC_4
+zfcp_fc_scsi_to_fcp,FUNC_5
+fcp,VAR_7
+scsi,VAR_8
+tag,VAR_9

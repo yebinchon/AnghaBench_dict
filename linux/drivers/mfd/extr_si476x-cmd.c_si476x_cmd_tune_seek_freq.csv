@@ -1,0 +1,14 @@
+SI476X_TIMEOUT_TUNE,VAR_0
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+si476x_cmd_clear_stc,FUNC_2
+si476x_core_send_command,FUNC_3
+wait_event_killable,FUNC_4
+si476x_cmd_tune_seek_freq,FUNC_5
+core,VAR_1
+cmd,VAR_2
+args,VAR_3
+argn,VAR_4
+resp,VAR_5
+respn,VAR_6
+err,VAR_7

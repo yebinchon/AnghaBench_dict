@@ -1,0 +1,15 @@
+InitMemBuffer,FUNC_0
+MemDataSize,FUNC_1
+ParseChunk,FUNC_2
+ParseRIFFHeader,FUNC_3
+ProcessChunk,FUNC_4
+ShowSummary,FUNC_5
+Validate,FUNC_6
+WEBP_INFO_OK,VAR_0
+printf,FUNC_7
+AnalyzeWebP,FUNC_8
+webp_info,VAR_1
+webp_data,VAR_2
+chunk_data,VAR_3
+mem_buffer,VAR_4
+webp_info_status,VAR_5

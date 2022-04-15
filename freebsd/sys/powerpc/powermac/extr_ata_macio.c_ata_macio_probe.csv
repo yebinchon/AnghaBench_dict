@@ -1,0 +1,15 @@
+ATA_UDMA4,VAR_0
+ATA_WDMA2,VAR_1
+ENXIO,VAR_2
+ata_probe,FUNC_0
+bzero,FUNC_1
+device_get_softc,FUNC_2
+device_set_desc,FUNC_3
+ofw_bus_get_name,FUNC_4
+ofw_bus_get_type,FUNC_5
+strcmp,FUNC_6
+ata_macio_probe,FUNC_7
+dev,VAR_3
+type,VAR_4
+name,VAR_5
+sc,VAR_6

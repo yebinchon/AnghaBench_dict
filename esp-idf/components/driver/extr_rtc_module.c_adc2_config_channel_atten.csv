@@ -1,0 +1,17 @@
+ADC2_CHANNEL_MAX,VAR_0
+ADC_ATTEN_11db,VAR_1
+ESP_ERR_INVALID_ARG,VAR_2
+ESP_ERR_TIMEOUT,VAR_3
+ESP_OK,VAR_4
+RTC_MODULE_CHECK,FUNC_0
+SENS,VAR_5
+_lock_release,FUNC_1
+_lock_try_acquire,FUNC_2
+adc2_pad_init,FUNC_3
+adc2_spinlock,VAR_6
+adc2_wifi_lock,VAR_7
+portENTER_CRITICAL,FUNC_4
+portEXIT_CRITICAL,FUNC_5
+adc2_config_channel_atten,FUNC_6
+channel,VAR_8
+atten,VAR_9

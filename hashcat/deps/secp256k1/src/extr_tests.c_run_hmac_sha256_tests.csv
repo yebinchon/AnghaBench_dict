@@ -1,0 +1,15 @@
+CHECK,FUNC_0
+memcmp,FUNC_1
+secp256k1_hmac_sha256_finalize,FUNC_2
+secp256k1_hmac_sha256_initialize,FUNC_3
+secp256k1_hmac_sha256_write,FUNC_4
+secp256k1_rand_int,FUNC_5
+strlen,FUNC_6
+run_hmac_sha256_tests,FUNC_7
+keys,VAR_0
+inputs,VAR_1
+outputs,VAR_2
+i,VAR_3
+hasher,VAR_4
+out,VAR_5
+split,VAR_6

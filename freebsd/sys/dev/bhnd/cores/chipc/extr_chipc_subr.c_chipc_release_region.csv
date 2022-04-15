@@ -1,0 +1,13 @@
+CHIPC_LOCK,FUNC_0
+CHIPC_UNLOCK,FUNC_1
+KASSERT,FUNC_2
+RF_ACTIVE,VAR_0
+RF_ALLOCATED,VAR_1
+SYS_RES_MEMORY,VAR_2
+bhnd_deactivate_resource,FUNC_3
+bhnd_release_resource,FUNC_4
+chipc_release_region,FUNC_5
+sc,VAR_3
+cr,VAR_4
+flags,VAR_5
+error,VAR_6

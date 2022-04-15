@@ -1,0 +1,15 @@
+DBF_LH,FUNC_0
+EIO,VAR_0
+TAPEBLOCK_HSEC_S2B,VAR_1
+blk_end_request_all,FUNC_1
+blk_peek_request,FUNC_2
+blk_rq_pos,FUNC_3
+blk_rq_sectors,FUNC_4
+list_empty,FUNC_5
+stub1,FUNC_6
+tapeblock_trigger_requeue,FUNC_7
+__tapeblock_end_request,FUNC_8
+ccw_req,VAR_2
+data,VAR_3
+device,VAR_4
+req,VAR_5

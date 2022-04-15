@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+EPERM,VAR_1
+SNDRV_SEQ_QUEUE_DIRECT,VAR_2
+check_event_type_and_length,FUNC_0
+snd_BUG_ON,FUNC_1
+snd_seq_client_unlock,FUNC_2
+snd_seq_client_use_ptr,FUNC_3
+snd_seq_deliver_event,FUNC_4
+snd_seq_kernel_client_dispatch,FUNC_5
+client,VAR_3
+ev,VAR_4
+atomic,VAR_5
+hop,VAR_6
+cptr,VAR_7
+result,VAR_8

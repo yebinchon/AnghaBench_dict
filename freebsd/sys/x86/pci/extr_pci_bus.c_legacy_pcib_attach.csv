@@ -1,0 +1,10 @@
+BUS_ADD_CHILD,FUNC_0
+bus_generic_attach,FUNC_1
+device_add_child,FUNC_2
+device_get_parent,FUNC_3
+device_probe_and_attach,FUNC_4
+pci_pir_probe,FUNC_5
+pcib_get_bus,FUNC_6
+legacy_pcib_attach,FUNC_7
+dev,VAR_0
+bus,VAR_1

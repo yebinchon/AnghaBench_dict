@@ -1,0 +1,13 @@
+RB4XX_NAND_GPIO_ALE,VAR_0
+RB4XX_NAND_GPIO_CLE,VAR_1
+RB4XX_NAND_GPIO_NCE,VAR_2
+RB4XX_NAND_GPIO_READY,VAR_3
+gpio_free,FUNC_0
+kfree,FUNC_1
+nand_release,FUNC_2
+platform_get_drvdata,FUNC_3
+platform_set_drvdata,FUNC_4
+rbinfo_to_mtd,FUNC_5
+rb4xx_nand_remove,FUNC_6
+pdev,VAR_4
+info,VAR_5

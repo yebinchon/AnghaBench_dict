@@ -1,0 +1,16 @@
+debug_rt_mutex_lock,FUNC_0
+debug_rt_mutex_print_deadlock,FUNC_1
+mark_rt_mutex_waiters,FUNC_2
+rt_mutex_deadlock_account_lock,FUNC_3
+rt_mutex_owner,FUNC_4
+rt_mutex_set_owner,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+task_blocks_on_rt_mutex,FUNC_8
+try_to_steal_lock,FUNC_9
+rt_mutex_start_proxy_lock,FUNC_10
+lock,VAR_0
+waiter,VAR_1
+task,VAR_2
+detect_deadlock,VAR_3
+ret,VAR_4

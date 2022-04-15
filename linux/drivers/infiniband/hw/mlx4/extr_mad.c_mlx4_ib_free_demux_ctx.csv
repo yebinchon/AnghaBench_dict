@@ -1,0 +1,13 @@
+DEMUX_PV_STATE_DOWN,VAR_0
+DEMUX_PV_STATE_DOWNING,VAR_1
+destroy_pv_resources,FUNC_0
+destroy_workqueue,FUNC_1
+flush_workqueue,FUNC_2
+free_pv_object,FUNC_3
+kfree,FUNC_4
+mlx4_ib_mcg_port_cleanup,FUNC_5
+to_mdev,FUNC_6
+mlx4_ib_free_demux_ctx,FUNC_7
+ctx,VAR_2
+i,VAR_3
+dev,VAR_4

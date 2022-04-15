@@ -1,0 +1,17 @@
+AML_GPIO_LOCK_DESTROY,FUNC_0
+AML_GPIO_LOCK_INIT,FUNC_1
+ENXIO,VAR_0
+OF_getencprop,FUNC_2
+aml8726_gpio_spec,VAR_1
+bus_alloc_resources,FUNC_3
+bus_release_resources,FUNC_4
+device_get_softc,FUNC_5
+device_printf,FUNC_6
+gpiobus_attach_bus,FUNC_7
+ofw_bus_get_node,FUNC_8
+rman_get_start,FUNC_9
+aml8726_gpio_attach,FUNC_10
+dev,VAR_2
+sc,VAR_3
+node,VAR_4
+prop,VAR_5

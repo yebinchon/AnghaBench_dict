@@ -1,0 +1,14 @@
+ILL_ILLADR,VAR_0
+PSW_BITS_AMODE_24BIT,VAR_1
+PSW_BITS_AMODE_31BIT,VAR_2
+SIGILL,VAR_3
+UPROBE_SWBP_INSN_SIZE,VAR_4
+__rewind_psw,FUNC_0
+do_report_trap,FUNC_1
+handle_insn_ril,FUNC_2
+is_compat_task,FUNC_3
+probe_is_insn_relative_long,FUNC_4
+psw_bits,FUNC_5
+arch_uprobe_skip_sstep,FUNC_6
+auprobe,VAR_5
+regs,VAR_6

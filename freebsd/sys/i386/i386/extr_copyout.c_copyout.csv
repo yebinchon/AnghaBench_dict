@@ -1,0 +1,17 @@
+EFAULT,VAR_0
+PAGE_SIZE,VAR_1
+TRAMP_COPYOUT_SZ,VAR_2
+VM_MAXUSER_ADDRESS,VAR_3
+copyout_fast_tramp,FUNC_0
+copyout_slow0,VAR_4
+cp_slow0,FUNC_1
+fast_copyout,VAR_5
+pmap_get_kcr3,FUNC_2
+round_page,FUNC_3
+copyout,FUNC_4
+kaddr,VAR_6
+udaddr,VAR_7
+len,VAR_8
+ca,VAR_9
+uc,VAR_10
+plen,VAR_11

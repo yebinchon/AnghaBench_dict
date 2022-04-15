@@ -1,0 +1,17 @@
+WBSD_DFR,VAR_0
+WBSD_FIFO_EMPTY,VAR_1
+WBSD_FIFO_EMTHRE,VAR_2
+WBSD_FIFO_FULL,VAR_3
+WBSD_FSR,VAR_4
+inb,FUNC_0
+outb,FUNC_1
+tasklet_schedule,FUNC_2
+wbsd_next_sg,FUNC_3
+wbsd_sg_to_buffer,FUNC_4
+wbsd_fill_fifo,FUNC_5
+host,VAR_5
+data,VAR_6
+buffer,VAR_7
+i,VAR_8
+fsr,VAR_9
+fifo,VAR_10

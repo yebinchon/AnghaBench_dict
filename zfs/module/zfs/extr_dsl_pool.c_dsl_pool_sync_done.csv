@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+dmu_buf_rele,FUNC_1
+dmu_objset_ds,FUNC_2
+dmu_objset_is_dirty,FUNC_3
+txg_list_head,FUNC_4
+txg_list_remove_this,FUNC_5
+zil_clean,FUNC_6
+dsl_pool_sync_done,FUNC_7
+dp,VAR_0
+txg,VAR_1
+zilog,VAR_2
+ds,VAR_3

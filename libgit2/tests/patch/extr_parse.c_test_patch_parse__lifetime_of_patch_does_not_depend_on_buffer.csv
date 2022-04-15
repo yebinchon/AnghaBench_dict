@@ -1,0 +1,13 @@
+GIT_BUF_INIT,VAR_0
+PATCH_ORIGINAL_TO_CHANGE_MIDDLE,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_buf_dispose,FUNC_2
+git_buf_sets,FUNC_3
+git_patch_free,FUNC_4
+git_patch_from_buffer,FUNC_5
+git_patch_to_buf,FUNC_6
+test_patch_parse__lifetime_of_patch_does_not_depend_on_buffer,FUNC_7
+diff,VAR_2
+rendered,VAR_3
+patch,VAR_4

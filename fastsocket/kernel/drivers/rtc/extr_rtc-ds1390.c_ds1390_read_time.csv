@@ -1,0 +1,12 @@
+DS1390_REG_SECONDS,VAR_0
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+rtc_valid_tm,FUNC_2
+spi_write_then_read,FUNC_3
+to_spi_device,FUNC_4
+ds1390_read_time,FUNC_5
+dev,VAR_1
+dt,VAR_2
+spi,VAR_3
+chip,VAR_4
+status,VAR_5

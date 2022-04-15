@@ -1,0 +1,14 @@
+TIOCM_DTR,VAR_0
+TIOCM_RTS,VAR_1
+mct_u232_set_modem_ctrl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+usb_get_serial_port_data,FUNC_3
+mct_u232_tiocmset,FUNC_4
+tty,VAR_2
+set,VAR_3
+clear,VAR_4
+port,VAR_5
+priv,VAR_6
+control_state,VAR_7
+flags,VAR_8

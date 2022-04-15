@@ -1,0 +1,17 @@
+ARM_SMMU_CB_S2_TLBIIPAS2,VAR_0
+ARM_SMMU_CB_S2_TLBIIPAS2L,VAR_1
+ARM_SMMU_CTX_FMT_AARCH64,VAR_2
+ARM_SMMU_FEAT_COHERENT_WALK,VAR_3
+arm_smmu_cb_write,FUNC_0
+arm_smmu_cb_writeq,FUNC_1
+wmb,FUNC_2
+arm_smmu_tlb_inv_range_s2,FUNC_3
+iova,VAR_4
+size,VAR_5
+granule,VAR_6
+leaf,VAR_7
+cookie,VAR_8
+smmu_domain,VAR_9
+smmu,VAR_10
+reg,VAR_11
+idx,VAR_12

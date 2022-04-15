@@ -1,0 +1,15 @@
+MAX_RCV_QUEUES_PER_QS,VAR_0
+MAX_SND_QUEUES_PER_QS,VAR_1
+NIC_MBOX_MSG_ALLOC_SQS,VAR_2
+NIC_MBOX_MSG_SNICVF_PTR,VAR_3
+max,FUNC_0
+nicvf_open,FUNC_1
+nicvf_send_msg_to_pf,FUNC_2
+nicvf_set_real_num_queues,FUNC_3
+nicvf_request_sqs,FUNC_4
+nic,VAR_4
+mbx,VAR_5
+sqs,VAR_6
+sqs_count,VAR_7
+rx_queues,VAR_8
+tx_queues,VAR_9

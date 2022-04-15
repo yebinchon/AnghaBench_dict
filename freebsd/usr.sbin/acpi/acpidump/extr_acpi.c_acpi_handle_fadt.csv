@@ -1,0 +1,15 @@
+ACPI_SIG_FACS,VAR_0
+acpi_checksum,FUNC_0
+acpi_get_fadt_revision,FUNC_1
+acpi_map_sdt,FUNC_2
+acpi_print_dsdt,FUNC_3
+acpi_print_facs,FUNC_4
+acpi_print_fadt,FUNC_5
+errx,FUNC_6
+memcmp,FUNC_7
+acpi_handle_fadt,FUNC_8
+sdp,VAR_1
+dsdp,VAR_2
+facs,VAR_3
+fadt,VAR_4
+fadt_revision,VAR_5

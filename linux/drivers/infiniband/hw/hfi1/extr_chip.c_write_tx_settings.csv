@@ -1,0 +1,14 @@
+ENABLE_LANE_TX_SHIFT,VAR_0
+GENERAL_CONFIG,VAR_1
+MAX_RATE_SHIFT,VAR_2
+RX_POLARITY_INVERSION_SHIFT,VAR_3
+TX_POLARITY_INVERSION_SHIFT,VAR_4
+TX_SETTINGS,VAR_5
+load_8051_config,FUNC_0
+write_tx_settings,FUNC_1
+dd,VAR_6
+enable_lane_tx,VAR_7
+tx_polarity_inversion,VAR_8
+rx_polarity_inversion,VAR_9
+max_rate,VAR_10
+frame,VAR_11

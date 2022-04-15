@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+XFS_ALLOC_REC_ADDR,FUNC_1
+XFS_BUF_TO_BLOCK,FUNC_2
+XFS_FSB_TO_AGBNO,FUNC_3
+be16_add_cpu,FUNC_4
+be32_add_cpu,FUNC_5
+be32_to_cpu,FUNC_6
+cpu_to_be32,FUNC_7
+is_log_ag,FUNC_8
+xfs_freesp_init_recs,FUNC_9
+mp,VAR_0
+bp,VAR_1
+id,VAR_2
+arec,VAR_3
+block,VAR_4
+nrec,VAR_5
+start,VAR_6

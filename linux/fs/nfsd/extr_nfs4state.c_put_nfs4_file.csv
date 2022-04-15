@@ -1,0 +1,11 @@
+WARN_ON_ONCE,FUNC_0
+call_rcu,FUNC_1
+hlist_del_rcu,FUNC_2
+list_empty,FUNC_3
+might_lock,FUNC_4
+nfsd4_free_file_rcu,VAR_0
+refcount_dec_and_lock,FUNC_5
+spin_unlock,FUNC_6
+state_lock,VAR_1
+put_nfs4_file,FUNC_7
+fi,VAR_2

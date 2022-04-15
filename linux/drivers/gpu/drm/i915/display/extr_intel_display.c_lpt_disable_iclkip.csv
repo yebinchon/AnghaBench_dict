@@ -1,0 +1,13 @@
+I915_WRITE,FUNC_0
+PIXCLK_GATE,VAR_0
+PIXCLK_GATE_GATE,VAR_1
+SBI_ICLK,VAR_2
+SBI_SSCCTL6,VAR_3
+SBI_SSCCTL_DISABLE,VAR_4
+intel_sbi_read,FUNC_1
+intel_sbi_write,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+lpt_disable_iclkip,FUNC_5
+dev_priv,VAR_5
+temp,VAR_6

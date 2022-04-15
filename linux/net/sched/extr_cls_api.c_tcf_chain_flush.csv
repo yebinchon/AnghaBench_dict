@@ -1,0 +1,13 @@
+RCU_INIT_POINTER,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rcu_dereference_protected,FUNC_3
+tcf_chain0_head_change,FUNC_4
+tcf_chain_dereference,FUNC_5
+tcf_proto_put,FUNC_6
+tcf_proto_signal_destroying,FUNC_7
+tcf_chain_flush,FUNC_8
+chain,VAR_0
+rtnl_held,VAR_1
+tp,VAR_2
+tp_next,VAR_3

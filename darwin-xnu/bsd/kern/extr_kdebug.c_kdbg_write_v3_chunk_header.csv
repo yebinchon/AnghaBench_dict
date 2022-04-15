@@ -1,0 +1,14 @@
+KERN_SUCCESS,VAR_0
+RAW_file_offset,VAR_1
+assert,FUNC_0
+copyout,FUNC_1
+kdbg_write_to_vnode,FUNC_2
+kdbg_write_v3_chunk_header,FUNC_3
+buffer,VAR_2
+tag,VAR_3
+sub_tag,VAR_4
+length,VAR_5
+vp,VAR_6
+ctx,VAR_7
+ret,VAR_8
+header,VAR_9

@@ -1,0 +1,12 @@
+CTLR,VAR_0
+GIC_PRIORITY_MIN,VAR_1
+ICC_CTLR_EL1_EOIMODE,VAR_2
+ICC_IGRPEN0_EL1_EN,VAR_3
+IGRPEN1,VAR_4
+gic_icc_clear,FUNC_0
+gic_icc_set,FUNC_1
+gic_v3_cpu_enable_sre,FUNC_2
+gic_v3_cpu_priority,FUNC_3
+gic_v3_cpu_init,FUNC_4
+sc,VAR_5
+err,VAR_6

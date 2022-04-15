@@ -1,0 +1,17 @@
+ENOTTY,VAR_0
+INTEL_SPT_ACS_CTRL,VAR_1
+PCI_ACS_CAP,VAR_2
+PCI_ACS_CR,VAR_3
+PCI_ACS_EC,VAR_4
+PCI_ACS_RR,VAR_5
+PCI_EXT_CAP_ID_ACS,VAR_6
+pci_find_ext_capability,FUNC_0
+pci_info,FUNC_1
+pci_quirk_intel_spt_pch_acs_match,FUNC_2
+pci_read_config_dword,FUNC_3
+pci_write_config_dword,FUNC_4
+pci_quirk_disable_intel_spt_pch_acs_redir,FUNC_5
+dev,VAR_7
+pos,VAR_8
+cap,VAR_9
+ctrl,VAR_10

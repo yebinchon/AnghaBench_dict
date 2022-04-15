@@ -1,0 +1,17 @@
+NF_SYNPROXY_OPT_MSS,VAR_0
+NF_SYNPROXY_OPT_TIMESTAMP,VAR_1
+__cookie_v4_check,FUNC_0
+ip_hdr,FUNC_1
+ntohl,FUNC_2
+synproxy_check_timestamp_cookie,FUNC_3
+synproxy_pernet,FUNC_4
+synproxy_send_server_syn,FUNC_5
+this_cpu_inc,FUNC_6
+synproxy_recv_client_ack,FUNC_7
+net,VAR_2
+skb,VAR_3
+th,VAR_4
+opts,VAR_5
+recv_seq,VAR_6
+snet,VAR_7
+mss,VAR_8

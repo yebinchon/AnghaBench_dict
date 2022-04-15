@@ -1,0 +1,15 @@
+IFF_DRV_RUNNING,VAR_0
+RCW1_RX,VAR_1
+TC_TX,VAR_2
+WRITE4,FUNC_0
+XAE_ASSERT_LOCKED,FUNC_1
+XAE_RCW1,VAR_3
+XAE_TC,VAR_4
+callout_reset,FUNC_2
+hz,VAR_5
+mii_mediachg,FUNC_3
+xae_setup_rxfilter,FUNC_4
+xae_tick,VAR_6
+xae_init_locked,FUNC_5
+sc,VAR_7
+ifp,VAR_8

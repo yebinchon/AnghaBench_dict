@@ -1,0 +1,10 @@
+ata_sff_data_xfer,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+ata_sff_data_xfer_noirq,FUNC_3
+dev,VAR_0
+buf,VAR_1
+buflen,VAR_2
+rw,VAR_3
+flags,VAR_4
+consumed,VAR_5

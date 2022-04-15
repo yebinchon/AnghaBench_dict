@@ -1,0 +1,9 @@
+CMD_ASYNC,VAR_0
+IWL_STATS_CONF_CLEAR_STATS,VAR_1
+REPLY_STATISTICS_CMD,VAR_2
+iwl_dvm_send_cmd_pdu,FUNC_0
+iwl_send_statistics_request,FUNC_1
+priv,VAR_3
+flags,VAR_4
+clear,VAR_5
+statistics_cmd,VAR_6

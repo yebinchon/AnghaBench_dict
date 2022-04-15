@@ -1,0 +1,16 @@
+Assert,FUNC_0
+CLASS_TUPLE_SIZE,VAR_0
+GETSTRUCT,FUNC_1
+IsTransactionState,FUNC_2
+RELKIND_INDEX,VAR_1
+RelationGetRelid,FUNC_3
+RelationInitPhysicalAddr,FUNC_4
+RelationReloadIndexInfo,FUNC_5
+ScanPgRelation,FUNC_6
+criticalRelcachesBuilt,VAR_2
+heap_freetuple,FUNC_7
+memcpy,FUNC_8
+RelationReloadNailed,FUNC_9
+relation,VAR_3
+pg_class_tuple,VAR_4
+relp,VAR_5

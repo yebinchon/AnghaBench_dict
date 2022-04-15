@@ -1,0 +1,16 @@
+CMD_ACT_MESH_SET_ANYCAST,VAR_0
+cpu_to_le32,FUNC_0
+lbs_mesh_access,FUNC_1
+memset,FUNC_2
+sscanf,FUNC_3
+strlen,FUNC_4
+to_net_dev,FUNC_5
+lbs_anycast_set,FUNC_6
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+priv,VAR_5
+mesh_access,VAR_6
+datum,VAR_7
+ret,VAR_8

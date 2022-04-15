@@ -1,0 +1,13 @@
+LPC32XX_DMA_DATA_SIZE,VAR_0
+LPC32XX_SLC_DEV_ECC_BYTES,VAR_1
+NAND_BBT_USE_FLASH,VAR_2
+bbt_smallpage_main_descr,VAR_3
+bbt_smallpage_mirror_descr,VAR_4
+lpc32xx_ooblayout_ops,VAR_5
+mtd_set_ooblayout,FUNC_0
+nand_get_controller_data,FUNC_1
+nand_to_mtd,FUNC_2
+lpc32xx_nand_attach_chip,FUNC_3
+chip,VAR_6
+mtd,VAR_7
+host,VAR_8

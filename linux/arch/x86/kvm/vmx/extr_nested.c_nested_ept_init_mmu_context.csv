@@ -1,0 +1,12 @@
+VMX_EPT_EXECUTE_ONLY_BIT,VAR_0
+WARN_ON,FUNC_0
+kvm_init_shadow_ept_mmu,FUNC_1
+kvm_pdptr_read,VAR_1
+mmu_is_nested,FUNC_2
+nested_ept_ad_enabled,FUNC_3
+nested_ept_get_cr3,FUNC_4
+nested_ept_inject_page_fault,VAR_2
+to_vmx,FUNC_5
+vmx_set_cr3,VAR_3
+nested_ept_init_mmu_context,FUNC_6
+vcpu,VAR_4

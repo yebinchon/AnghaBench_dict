@@ -1,0 +1,13 @@
+card_busy_detect,FUNC_0
+mmc_blk_data_timeout_ms,FUNC_1
+mmc_blk_send_stop,FUNC_2
+mmc_retune_hold_now,FUNC_3
+mmc_retune_release,FUNC_4
+req_to_mmc_queue_req,FUNC_5
+mmc_blk_fix_state,FUNC_6
+card,VAR_0
+req,VAR_1
+mqrq,VAR_2
+brq,VAR_3
+timeout,VAR_4
+err,VAR_5

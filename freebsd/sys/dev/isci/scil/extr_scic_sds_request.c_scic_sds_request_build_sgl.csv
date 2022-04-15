@@ -1,0 +1,17 @@
+SCU_SGL_COPY,FUNC_0
+SCU_SGL_ZERO,FUNC_1
+sci_cb_physical_address_lower,FUNC_2
+sci_cb_physical_address_upper,FUNC_3
+scic_cb_io_request_get_next_sge,FUNC_4
+scic_cb_io_request_get_physical_address,FUNC_5
+scic_sds_request_get_controller,FUNC_6
+scic_sds_request_get_sgl_element_pair,FUNC_7
+scic_sds_request_get_user_request,FUNC_8
+scic_sds_request_build_sgl,FUNC_9
+this_request,VAR_0
+os_sge,VAR_1
+os_handle,VAR_2
+physical_address,VAR_3
+sgl_pair_index,VAR_4
+scu_sgl_list,VAR_5
+previous_pair,VAR_6

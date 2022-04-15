@@ -1,0 +1,14 @@
+M2P_CONTROL,VAR_0
+M2P_CONTROL_NFBINT,VAR_1
+M2P_CONTROL_STALLINT,VAR_2
+M2P_STATE_ON,VAR_3
+m2p_channel_state,FUNC_0
+m2p_set_control,FUNC_1
+readl,FUNC_2
+schedule,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+m2p_hw_synchronize,FUNC_6
+edmac,VAR_4
+flags,VAR_5
+control,VAR_6

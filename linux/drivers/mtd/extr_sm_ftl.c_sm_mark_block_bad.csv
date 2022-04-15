@@ -1,0 +1,12 @@
+SM_OOB_SIZE,VAR_0
+SM_SECTOR_SIZE,VAR_1
+memset,FUNC_0
+sm_printk,FUNC_1
+sm_recheck_media,FUNC_2
+sm_write_sector,FUNC_3
+sm_mark_block_bad,FUNC_4
+ftl,VAR_2
+zone,VAR_3
+block,VAR_4
+oob,VAR_5
+boffset,VAR_6

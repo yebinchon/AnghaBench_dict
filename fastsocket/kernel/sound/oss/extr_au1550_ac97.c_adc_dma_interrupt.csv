@@ -1,0 +1,15 @@
+au1xxx_dbdma_get_dest,FUNC_0
+au1xxx_dbdma_put_dest,FUNC_1
+err,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+stop_adc,FUNC_5
+waitqueue_active,FUNC_6
+wake_up,FUNC_7
+adc_dma_interrupt,FUNC_8
+irq,VAR_0
+dev_id,VAR_1
+s,VAR_2
+dp,VAR_3
+obytes,VAR_4
+obuf,VAR_5

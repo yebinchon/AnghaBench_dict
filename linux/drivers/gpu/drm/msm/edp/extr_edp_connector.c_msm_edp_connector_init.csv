@@ -1,0 +1,16 @@
+DRM_CONNECTOR_POLL_CONNECT,VAR_0
+DRM_MODE_CONNECTOR_eDP,VAR_1
+ENOMEM,VAR_2
+ERR_PTR,FUNC_0
+GFP_KERNEL,VAR_3
+drm_connector_attach_encoder,FUNC_1
+drm_connector_helper_add,FUNC_2
+drm_connector_init,FUNC_3
+edp_connector_funcs,VAR_4
+edp_connector_helper_funcs,VAR_5
+kzalloc,FUNC_4
+msm_edp_connector_init,FUNC_5
+edp,VAR_6
+connector,VAR_7
+edp_connector,VAR_8
+ret,VAR_9

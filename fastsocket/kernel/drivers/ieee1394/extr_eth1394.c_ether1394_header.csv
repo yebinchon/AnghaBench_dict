@@ -1,0 +1,15 @@
+ETH1394_HLEN,VAR_0
+IFF_LOOPBACK,VAR_1
+IFF_NOARP,VAR_2
+htons,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+skb_push,FUNC_3
+ether1394_header,FUNC_4
+skb,VAR_3
+dev,VAR_4
+type,VAR_5
+daddr,VAR_6
+saddr,VAR_7
+len,VAR_8
+eth,VAR_9

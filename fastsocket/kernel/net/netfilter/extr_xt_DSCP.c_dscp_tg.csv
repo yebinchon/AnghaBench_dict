@@ -1,0 +1,13 @@
+NF_DROP,VAR_0
+XT_CONTINUE,VAR_1
+XT_DSCP_MASK,VAR_2
+XT_DSCP_SHIFT,VAR_3
+ip_hdr,FUNC_0
+ipv4_change_dsfield,FUNC_1
+ipv4_get_dsfield,FUNC_2
+skb_make_writable,FUNC_3
+dscp_tg,FUNC_4
+skb,VAR_4
+par,VAR_5
+dinfo,VAR_6
+dscp,VAR_7

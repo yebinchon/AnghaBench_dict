@@ -1,0 +1,13 @@
+BLOCK_FLAG_CORRUPTED,VAR_0
+BLOCK_FLAG_DISCONTINUITY,VAR_1
+BLOCK_FLAG_SCRAMBLED,VAR_2
+VLC_UNUSED,FUNC_0
+block_Release,FUNC_1
+ts_sections_processor_Push,FUNC_2
+ts_sections_processor_Reset,FUNC_3
+GatherSectionsData,FUNC_4
+p_demux,VAR_3
+p_pid,VAR_4
+p_pkt,VAR_5
+i_skip,VAR_6
+b_ret,VAR_7

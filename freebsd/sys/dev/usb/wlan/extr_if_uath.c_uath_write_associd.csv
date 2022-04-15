@@ -1,0 +1,14 @@
+IEEE80211_ADDR_COPY,FUNC_0
+TAILQ_FIRST,FUNC_1
+WDCMSG_WRITE_ASSOCID,VAR_0
+htobe32,FUNC_2
+ieee80211_free_node,FUNC_3
+ieee80211_ref_node,FUNC_4
+memset,FUNC_5
+uath_cmd_write,FUNC_6
+uath_write_associd,FUNC_7
+sc,VAR_1
+ic,VAR_2
+vap,VAR_3
+ni,VAR_4
+associd,VAR_5

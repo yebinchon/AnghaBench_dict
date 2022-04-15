@@ -1,0 +1,12 @@
+BLK_STS_OK,VAR_0
+EIO,VAR_1
+ENXIO,VAR_2
+RQF_QUIET,VAR_3
+blk_execute_rq,FUNC_0
+blk_mq_end_request,FUNC_1
+blk_queue_dying,FUNC_2
+scsi_req,FUNC_3
+unlikely,FUNC_4
+ide_pm_execute_rq,FUNC_5
+rq,VAR_4
+q,VAR_5

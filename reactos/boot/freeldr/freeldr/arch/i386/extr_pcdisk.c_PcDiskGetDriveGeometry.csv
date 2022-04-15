@@ -1,0 +1,13 @@
+DiskGetExtendedDriveParameters,FUNC_0
+FALSE,VAR_0
+INT386_SUCCESS,FUNC_1
+Int386,FUNC_2
+TRACE,FUNC_3
+TRUE,VAR_1
+PcDiskGetDriveGeometry,FUNC_4
+DriveNumber,VAR_2
+Geometry,VAR_3
+ExtGeometry,VAR_4
+RegsIn,VAR_5
+RegsOut,VAR_6
+Cylinders,VAR_7

@@ -1,0 +1,16 @@
+REDIS_CLI_RCFILE_DEFAULT,VAR_0
+REDIS_CLI_RCFILE_ENV,VAR_1
+cliSetPreferences,FUNC_0
+fclose,FUNC_1
+fgets,FUNC_2
+fopen,FUNC_3
+getDotfilePath,FUNC_4
+sdsfree,FUNC_5
+sdsfreesplitres,FUNC_6
+sdssplitargs,FUNC_7
+cliLoadPreferences,FUNC_8
+rcfile,VAR_2
+fp,VAR_3
+buf,VAR_4
+argv,VAR_5
+argc,VAR_6

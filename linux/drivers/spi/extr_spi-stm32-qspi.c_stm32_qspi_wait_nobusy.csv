@@ -1,0 +1,7 @@
+QSPI_SR,VAR_0
+SR_BUSY,VAR_1
+STM32_BUSY_TIMEOUT_US,VAR_2
+readl_relaxed_poll_timeout_atomic,FUNC_0
+stm32_qspi_wait_nobusy,FUNC_1
+qspi,VAR_3
+sr,VAR_4

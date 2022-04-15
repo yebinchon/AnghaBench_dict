@@ -1,0 +1,11 @@
+TRB_CYCLE,VAR_0
+cpu_to_le32,FUNC_0
+wmb,FUNC_1
+xhci_ring_ep_doorbell,FUNC_2
+giveback_first_trb,FUNC_3
+xhci,VAR_1
+slot_id,VAR_2
+ep_index,VAR_3
+stream_id,VAR_4
+start_cycle,VAR_5
+start_trb,VAR_6

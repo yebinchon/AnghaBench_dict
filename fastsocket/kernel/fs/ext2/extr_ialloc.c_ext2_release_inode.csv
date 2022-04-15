@@ -1,0 +1,15 @@
+EXT2_SB,FUNC_0
+ext2_error,FUNC_1
+ext2_get_group_desc,FUNC_2
+le16_add_cpu,FUNC_3
+mark_buffer_dirty,FUNC_4
+percpu_counter_dec,FUNC_5
+sb_bgl_lock,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+ext2_release_inode,FUNC_9
+sb,VAR_0
+group,VAR_1
+dir,VAR_2
+desc,VAR_3
+bh,VAR_4

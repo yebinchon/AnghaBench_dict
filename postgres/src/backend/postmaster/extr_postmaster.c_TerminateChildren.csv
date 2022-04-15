@@ -1,0 +1,16 @@
+AutoVacPID,VAR_0
+BgWriterPID,VAR_1
+CheckpointerPID,VAR_2
+PgArchPID,VAR_3
+PgStatPID,VAR_4
+SIGKILL,VAR_5
+SIGQUIT,VAR_6
+STARTUP_SIGNALED,VAR_7
+SignalChildren,FUNC_0
+StartupPID,VAR_8
+StartupStatus,VAR_9
+WalReceiverPID,VAR_10
+WalWriterPID,VAR_11
+signal_child,FUNC_1
+TerminateChildren,FUNC_2
+signal,VAR_12

@@ -1,0 +1,16 @@
+Assert,FUNC_0
+BufferGetPage,FUNC_1
+GinDataPageAddPostingItem,FUNC_2
+GinDataPageGetPostingItem,FUNC_3
+GinPageIsLeaf,FUNC_4
+PostingItemSetBlockNumber,FUNC_5
+ginRedoRecompress,FUNC_6
+ginRedoInsertData,FUNC_7
+buffer,VAR_0
+isLeaf,VAR_1
+rightblkno,VAR_2
+rdata,VAR_3
+page,VAR_4
+data,VAR_5
+data,VAR_6
+oldpitem,VAR_7

@@ -1,0 +1,15 @@
+CONFIG_TRANSPARENT_HUGEPAGE,VAR_0
+IS_ENABLED,FUNC_0
+WARN_ON_ONCE,FUNC_1
+clear_page_idle,FUNC_2
+page_vma_mapped_walk,FUNC_3
+pmdp_clear_young_notify,FUNC_4
+ptep_clear_young_notify,FUNC_5
+set_page_young,FUNC_6
+page_idle_clear_pte_refs_one,FUNC_7
+page,VAR_1
+vma,VAR_2
+addr,VAR_3
+arg,VAR_4
+pvmw,VAR_5
+referenced,VAR_6

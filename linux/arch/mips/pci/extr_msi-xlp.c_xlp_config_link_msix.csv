@@ -1,0 +1,17 @@
+MSI_ADDR_SZ,VAR_0
+PCIE_9XX_BRIDGE_MSIX_ADDR_BASE,VAR_1
+PCIE_9XX_BRIDGE_MSIX_ADDR_LIMIT,VAR_2
+PCIE_9XX_INT_EN0,VAR_3
+PCIE_BRIDGE_MSIX_ADDR_BASE,VAR_4
+PCIE_BRIDGE_MSIX_ADDR_LIMIT,VAR_5
+PCIE_INT_EN0,VAR_6
+cpu_is_xlp9xx,FUNC_0
+nlm_read_pci_reg,FUNC_1
+nlm_read_reg,FUNC_2
+nlm_write_pci_reg,FUNC_3
+nlm_write_reg,FUNC_4
+xlp_config_link_msix,FUNC_5
+lnkbase,VAR_7
+lirq,VAR_8
+msixaddr,VAR_9
+val,VAR_10

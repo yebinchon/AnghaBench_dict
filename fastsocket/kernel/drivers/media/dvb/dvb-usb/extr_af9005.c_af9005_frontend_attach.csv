@@ -1,0 +1,13 @@
+af9005_fe_attach,FUNC_0
+af9005_read_eeprom,FUNC_1
+debug_dump,FUNC_2
+dvb_usb_af9005_dump_eeprom,VAR_0
+printk,FUNC_3
+usb_clear_halt,FUNC_4
+usb_rcvbulkpipe,FUNC_5
+usb_sndbulkpipe,FUNC_6
+af9005_frontend_attach,FUNC_7
+adap,VAR_1
+buf,VAR_2
+i,VAR_3
+udev,VAR_4

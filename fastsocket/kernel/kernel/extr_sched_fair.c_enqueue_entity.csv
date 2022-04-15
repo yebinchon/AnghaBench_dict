@@ -1,0 +1,17 @@
+ENQUEUE_WAKEUP,VAR_0
+ENQUEUE_WAKING,VAR_1
+__enqueue_entity,FUNC_0
+account_entity_enqueue,FUNC_1
+check_enqueue_throttle,FUNC_2
+check_spread,FUNC_3
+enqueue_sleeper,FUNC_4
+list_add_leaf_cfs_rq,FUNC_5
+place_entity,FUNC_6
+update_cfs_load,FUNC_7
+update_cfs_shares,FUNC_8
+update_curr,FUNC_9
+update_stats_enqueue,FUNC_10
+enqueue_entity,FUNC_11
+cfs_rq,VAR_2
+se,VAR_3
+flags,VAR_4

@@ -1,0 +1,10 @@
+ATA_SRST,VAR_0
+IDECTRL_ADDR_CTL,VAR_1
+ep93xx_pata_wait_after_reset,FUNC_0
+ep93xx_pata_write_reg,FUNC_1
+udelay,FUNC_2
+ep93xx_pata_bus_softreset,FUNC_3
+ap,VAR_2
+devmask,VAR_3
+deadline,VAR_4
+drv_data,VAR_5

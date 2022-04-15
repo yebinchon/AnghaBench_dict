@@ -1,0 +1,16 @@
+BIO_dgram_is_sctp,FUNC_0
+SSL_EARLY_DATA_ACCEPTING,VAR_0
+SSL_IS_DTLS,FUNC_1
+SSL_IS_TLS13,FUNC_2
+SSL_get_wbio,FUNC_3
+TLS1_FLAGS_STATELESS,VAR_1
+WORK_ERROR,VAR_2
+WORK_FINISHED_CONTINUE,VAR_3
+dtls1_clear_sent_buffer,FUNC_4
+dtls_wait_for_dry,FUNC_5
+stub1,FUNC_6
+tls_finish_handshake,FUNC_7
+ossl_statem_server_pre_work,FUNC_8
+s,VAR_4
+wst,VAR_5
+st,VAR_6

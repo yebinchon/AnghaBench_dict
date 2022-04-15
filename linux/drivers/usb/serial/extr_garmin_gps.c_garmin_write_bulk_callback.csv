@@ -1,0 +1,11 @@
+GARMIN_LAYERID_APPL,VAR_0
+MODE_GARMIN_SERIAL,VAR_1
+getLayerId,FUNC_0
+gsp_send_ack,FUNC_1
+kfree,FUNC_2
+usb_get_serial_port_data,FUNC_3
+usb_serial_port_softint,FUNC_4
+garmin_write_bulk_callback,FUNC_5
+urb,VAR_2
+port,VAR_3
+garmin_data_p,VAR_4

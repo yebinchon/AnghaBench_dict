@@ -1,0 +1,10 @@
+assert_no_reflog_update,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+g_repo,VAR_0
+git_config_free,FUNC_4
+git_config_set_bool,FUNC_5
+git_repository_config,FUNC_6
+test_refs_reflog_reflog__logallrefupdates_nonbare_set_false,FUNC_7
+config,VAR_1

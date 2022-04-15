@@ -1,0 +1,13 @@
+IEEE80211_MAX_SSID_LEN,VAR_0
+M_SSID,VAR_1
+M_SSIDLEN,VAR_2
+brcms_b_write_shm,FUNC_0
+brcms_c_copyto_shm,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+brcms_c_shm_ssid_upd,FUNC_4
+wlc,VAR_3
+cfg,VAR_4
+ssidptr,VAR_5
+base,VAR_6
+ssidbuf,VAR_7

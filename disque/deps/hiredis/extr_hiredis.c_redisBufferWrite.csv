@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+EINTR,VAR_1
+REDIS_BLOCK,VAR_2
+REDIS_ERR,VAR_3
+REDIS_ERR_IO,VAR_4
+REDIS_OK,VAR_5
+__redisSetError,FUNC_0
+errno,VAR_6
+sdsempty,FUNC_1
+sdsfree,FUNC_2
+sdslen,FUNC_3
+sdsrange,FUNC_4
+write,FUNC_5
+redisBufferWrite,FUNC_6
+c,VAR_7
+done,VAR_8
+nwritten,VAR_9

@@ -1,0 +1,12 @@
+ACPI_SUCCESS,FUNC_0
+EV_SW,VAR_0
+SW_TABLET_MODE,VAR_1
+cmpc_get_tablet,FUNC_1
+input_report_switch,FUNC_2
+input_sync,FUNC_3
+set_bit,FUNC_4
+to_acpi_device,FUNC_5
+cmpc_tablet_idev_init,FUNC_6
+inputdev,VAR_2
+val,VAR_3
+acpi,VAR_4

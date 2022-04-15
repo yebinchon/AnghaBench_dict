@@ -1,0 +1,14 @@
+gve_irq_doorbell,FUNC_0
+gve_rx_idx_to_ntfy,FUNC_1
+gve_set_napi_enabled,FUNC_2
+gve_tx_idx_to_ntfy,FUNC_3
+iowrite32be,FUNC_4
+napi_enable,FUNC_5
+netif_tx_start_all_queues,FUNC_6
+gve_turnup,FUNC_7
+priv,VAR_0
+idx,VAR_1
+ntfy_idx,VAR_2
+block,VAR_3
+ntfy_idx,VAR_4
+block,VAR_5

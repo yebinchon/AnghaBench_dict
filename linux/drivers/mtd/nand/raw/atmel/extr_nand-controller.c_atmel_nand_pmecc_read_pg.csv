@@ -1,0 +1,15 @@
+NAND_ECC_READ,VAR_0
+atmel_nand_pmecc_correct_data,FUNC_0
+atmel_nand_pmecc_disable,FUNC_1
+atmel_nand_pmecc_enable,FUNC_2
+atmel_nand_read_buf,FUNC_3
+nand_read_page_op,FUNC_4
+nand_to_mtd,FUNC_5
+atmel_nand_pmecc_read_pg,FUNC_6
+chip,VAR_1
+buf,VAR_2
+oob_required,VAR_3
+page,VAR_4
+raw,VAR_5
+mtd,VAR_6
+ret,VAR_7

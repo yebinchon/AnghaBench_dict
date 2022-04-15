@@ -1,0 +1,14 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+cl_must_fail,FUNC_2
+git_config_free,FUNC_3
+git_config_get_int32,FUNC_4
+git_config_get_int64,FUNC_5
+git_config_open_ondisk,FUNC_6
+git_config_set_int32,FUNC_7
+git_config_set_int64,FUNC_8
+test_config_write__replace_value,FUNC_9
+cfg,VAR_0
+i,VAR_1
+l,VAR_2
+expected,VAR_3

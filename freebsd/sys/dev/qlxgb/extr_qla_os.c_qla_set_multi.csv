@@ -1,0 +1,11 @@
+Q8_MAC_ADDR_LEN,VAR_0
+Q8_MAX_NUM_MULTICAST_ADDRS,VAR_1
+if_foreach_llmaddr,FUNC_0
+qla_copy_maddr,VAR_2
+qla_hw_set_multi,FUNC_1
+qla_set_multi,FUNC_2
+ha,VAR_3
+add_multi,VAR_4
+mta,VAR_5
+ifp,VAR_6
+mcnt,VAR_7

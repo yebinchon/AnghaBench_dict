@@ -1,0 +1,15 @@
+BL_CORE_SUSPENDED,VAR_0
+FB_BLANK_UNBLANK,VAR_1
+TPS65217_PROTECT_NONE,VAR_2
+TPS65217_REG_WLEDCTRL2,VAR_3
+bl_get_data,FUNC_0
+dev_dbg,FUNC_1
+dev_err,FUNC_2
+tps65217_bl_disable,FUNC_3
+tps65217_bl_enable,FUNC_4
+tps65217_reg_write,FUNC_5
+tps65217_bl_update_status,FUNC_6
+bl,VAR_4
+tps65217_bl,VAR_5
+rc,VAR_6
+brightness,VAR_7

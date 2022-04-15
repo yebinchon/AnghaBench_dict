@@ -1,0 +1,13 @@
+DPNI_CMDID_GET_LINK_CFG,VAR_0
+le32_to_cpu,FUNC_0
+le64_to_cpu,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpni_get_link_cfg,FUNC_4
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+cfg,VAR_4
+cmd,VAR_5
+rsp_params,VAR_6
+err,VAR_7

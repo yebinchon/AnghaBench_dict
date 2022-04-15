@@ -1,0 +1,17 @@
+WL_SEAT_CAPABILITY_POINTER,VAR_0
+WL_SEAT_CAPABILITY_TOUCH,VAR_1
+assert,FUNC_0
+pointer_listener,VAR_2
+touch_listener,VAR_3
+wl_compositor_create_surface,FUNC_1
+wl_pointer_add_listener,FUNC_2
+wl_pointer_release,FUNC_3
+wl_seat_get_pointer,FUNC_4
+wl_seat_get_touch,FUNC_5
+wl_touch_add_listener,FUNC_6
+wl_touch_release,FUNC_7
+seat_handle_capabilities,FUNC_8
+data,VAR_4
+wl_seat,VAR_5
+caps,VAR_6
+seat,VAR_7

@@ -1,0 +1,17 @@
+GIT_CONFIGMAP_SYMLINKS,VAR_0
+GIT_DIFF_FLAG__FREE_DATA,VAR_1
+GIT_ERROR_CHECK_ALLOC,FUNC_0
+GIT_ERROR_OS,VAR_2
+diff_file_content_load_workdir_symlink_fake,FUNC_1
+git__calloc,FUNC_2
+git_buf_cstr,FUNC_3
+git_error_set,FUNC_4
+git_repository__configmap_lookup,FUNC_5
+p_readlink,FUNC_6
+diff_file_content_load_workdir_symlink,FUNC_7
+fc,VAR_3
+path,VAR_4
+alloc_len,VAR_5
+read_len,VAR_6
+symlink_supported,VAR_7
+error,VAR_8

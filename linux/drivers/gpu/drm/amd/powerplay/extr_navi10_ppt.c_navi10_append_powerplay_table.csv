@@ -1,0 +1,16 @@
+DPM_OVERRIDE_DISABLE_DFLL_PLL_SHUTDOWN,VAR_0
+NUM_I2C_CONTROLLERS,VAR_1
+PP_GFXOFF_MASK,VAR_2
+atom_master_list_of_data_tables_v2_1,VAR_3
+get_index_into_master_table,FUNC_0
+memcpy,FUNC_1
+smc_dpm_info,VAR_4
+smu_get_atom_data_table,FUNC_2
+navi10_append_powerplay_table,FUNC_3
+smu,VAR_5
+adev,VAR_6
+table_context,VAR_7
+smc_pptable,VAR_8
+smc_dpm_table,VAR_9
+index,VAR_10
+ret,VAR_11

@@ -1,0 +1,13 @@
+MADV_HUGEPAGE,VAR_0
+REAL_PAGE_SIZE,VAR_1
+ZEND_MM_ALIGNED_OFFSET,FUNC_0
+madvise,FUNC_1
+zend_mm_mmap,FUNC_2
+zend_mm_mmap_fixed,FUNC_3
+zend_mm_munmap,FUNC_4
+zend_mm_use_huge_pages,VAR_2
+zend_mm_chunk_alloc_int,FUNC_5
+size,VAR_3
+alignment,VAR_4
+ptr,VAR_5
+offset,VAR_6

@@ -1,0 +1,16 @@
+BUG,FUNC_0
+RB_WARN_ON,FUNC_1
+rb_advance_reader,FUNC_2
+rb_get_reader_page,FUNC_3
+rb_lost_events,FUNC_4
+rb_null_event,FUNC_5
+rb_reader_event,FUNC_6
+ring_buffer_event_time_stamp,FUNC_7
+ring_buffer_normalize_time_stamp,FUNC_8
+rb_buffer_peek,FUNC_9
+cpu_buffer,VAR_0
+ts,VAR_1
+lost_events,VAR_2
+event,VAR_3
+reader,VAR_4
+nr_loops,VAR_5

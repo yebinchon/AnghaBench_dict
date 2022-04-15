@@ -1,0 +1,7 @@
+INP_WLOCK_ASSERT,FUNC_0
+MAC_POLICY_PERFORM_NOSLEEP,FUNC_1
+SOCK_LOCK_ASSERT,FUNC_2
+inpcb_sosetlabel,VAR_0
+mac_inpcb_sosetlabel,FUNC_3
+so,VAR_1
+inp,VAR_2

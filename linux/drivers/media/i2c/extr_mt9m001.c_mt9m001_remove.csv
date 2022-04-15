@@ -1,0 +1,13 @@
+media_entity_cleanup,FUNC_0
+mt9m001_power_off,FUNC_1
+mutex_destroy,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put_noidle,FUNC_5
+pm_runtime_set_suspended,FUNC_6
+to_mt9m001,FUNC_7
+v4l2_async_unregister_subdev,FUNC_8
+v4l2_ctrl_handler_free,FUNC_9
+mt9m001_remove,FUNC_10
+client,VAR_0
+mt9m001,VAR_1

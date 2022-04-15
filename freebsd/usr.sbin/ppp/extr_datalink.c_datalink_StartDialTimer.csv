@@ -1,0 +1,13 @@
+DATALINK_OPENING,VAR_0
+DIAL_TIMEOUT,VAR_1
+LogPHASE,VAR_2
+SECTICKS,VAR_3
+datalink_OpenTimeout,VAR_4
+log_Printf,FUNC_0
+random,FUNC_1
+timer_Start,FUNC_2
+timer_Stop,FUNC_3
+datalink_StartDialTimer,FUNC_4
+dl,VAR_5
+Timeout,VAR_6
+result,VAR_7

@@ -1,0 +1,12 @@
+DP_MODE_CTL,VAR_0
+DP_MODE_ENTER_A2,VAR_1
+MODE_DFP_DP,VAR_2
+MODE_DISCONNECT,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+phy_get_drvdata,FUNC_2
+tcphy_phy_deinit,FUNC_3
+writel,FUNC_4
+rockchip_dp_phy_power_off,FUNC_5
+phy,VAR_4
+tcphy,VAR_5

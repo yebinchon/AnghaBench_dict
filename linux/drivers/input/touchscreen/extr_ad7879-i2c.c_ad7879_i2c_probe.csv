@@ -1,0 +1,15 @@
+AD7879_DEVID,VAR_0
+BUS_I2C,VAR_1
+EIO,VAR_2
+I2C_FUNC_SMBUS_WORD_DATA,VAR_3
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+ad7879_i2c_regmap_config,VAR_4
+ad7879_probe,FUNC_2
+dev_err,FUNC_3
+devm_regmap_init_i2c,FUNC_4
+i2c_check_functionality,FUNC_5
+ad7879_i2c_probe,FUNC_6
+client,VAR_5
+id,VAR_6
+regmap,VAR_7

@@ -1,0 +1,14 @@
+CCMP_MIC_LEN,VAR_0
+CCMP_TK_LEN,VAR_1
+crypto_aead_setauthsize,FUNC_0
+crypto_aead_setkey,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+rtllib_ccmp_set_key,FUNC_4
+key,VAR_2
+len,VAR_3
+seq,VAR_4
+priv,VAR_5
+data,VAR_6
+keyidx,VAR_7
+tfm,VAR_8

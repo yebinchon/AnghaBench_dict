@@ -1,0 +1,10 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_qrwe_dscp_set,FUNC_1
+mlxsw_reg_qrwe_local_port_set,FUNC_2
+mlxsw_reg_qrwe_pcp_set,FUNC_3
+qrwe,VAR_0
+mlxsw_reg_qrwe_pack,FUNC_4
+payload,VAR_1
+local_port,VAR_2
+rewrite_pcp,VAR_3
+rewrite_dscp,VAR_4

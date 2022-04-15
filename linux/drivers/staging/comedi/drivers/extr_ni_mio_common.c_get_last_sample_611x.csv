@@ -1,0 +1,11 @@
+NI611X_AI_FIFO_DATA_REG,VAR_0
+NI_E_STATUS_REG,VAR_1
+comedi_buf_write_samples,FUNC_0
+ni_readb,FUNC_1
+ni_readl,FUNC_2
+get_last_sample_611x,FUNC_3
+dev,VAR_2
+devpriv,VAR_3
+s,VAR_4
+data,VAR_5
+dl,VAR_6

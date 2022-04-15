@@ -1,0 +1,14 @@
+JME_RXCS,VAR_0
+JME_RX_DISABLE_TIMEOUT,VAR_1
+RXCS_ENABLE,VAR_2
+jme_mac_rxclk_off,FUNC_0
+jread32,FUNC_1
+jwrite32,FUNC_2
+mdelay,FUNC_3
+pr_err,FUNC_4
+rmb,FUNC_5
+wmb,FUNC_6
+jme_disable_rx_engine,FUNC_7
+jme,VAR_3
+i,VAR_4
+val,VAR_5

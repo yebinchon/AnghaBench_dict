@@ -1,0 +1,16 @@
+ADMIN_TIMEOUT,VAR_0
+BLK_MQ_F_NO_SCHED,VAR_1
+ENODEV,VAR_2
+ENOMEM,VAR_3
+IS_ERR,FUNC_0
+NVME_AQ_MQ_TAG_DEPTH,VAR_4
+blk_get_queue,FUNC_1
+blk_mq_alloc_tag_set,FUNC_2
+blk_mq_free_tag_set,FUNC_3
+blk_mq_init_queue,FUNC_4
+blk_mq_unquiesce_queue,FUNC_5
+dev_to_node,FUNC_6
+nvme_dev_remove_admin,FUNC_7
+nvme_mq_admin_ops,VAR_5
+nvme_alloc_admin_tags,FUNC_8
+dev,VAR_6

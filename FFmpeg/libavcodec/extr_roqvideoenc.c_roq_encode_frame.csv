@@ -1,0 +1,14 @@
+AV_PKT_FLAG_KEY,VAR_0
+ROQ_LAMBDA_SCALE,VAR_1
+ff_alloc_packet2,FUNC_0
+ff_get_buffer,FUNC_1
+roq_encode_video,FUNC_2
+roq_write_video_info_chunk,FUNC_3
+roq_encode_frame,FUNC_4
+avctx,VAR_2
+pkt,VAR_3
+frame,VAR_4
+got_packet,VAR_5
+enc,VAR_6
+size,VAR_7
+ret,VAR_8

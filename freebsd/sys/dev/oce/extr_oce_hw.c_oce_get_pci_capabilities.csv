@@ -1,0 +1,15 @@
+OCE_FLAGS_MSIX_CAPABLE,VAR_0
+OCE_FLAGS_MSI_CAPABLE,VAR_1
+OCE_FLAGS_PCIE,VAR_2
+OCE_FLAGS_PCIX,VAR_3
+PCIY_EXPRESS,VAR_4
+PCIY_MSI,VAR_5
+PCIY_MSIX,VAR_6
+PCIY_PCIX,VAR_7
+pci_find_extcap,FUNC_0
+pci_msix_count,FUNC_1
+pci_read_config,FUNC_2
+oce_get_pci_capabilities,FUNC_3
+sc,VAR_8
+val,VAR_9
+link_status,VAR_10

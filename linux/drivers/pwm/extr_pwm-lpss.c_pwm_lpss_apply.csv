@@ -1,0 +1,17 @@
+PWM_ENABLE,VAR_0
+pm_runtime_get_sync,FUNC_0
+pm_runtime_put,FUNC_1
+pwm_is_enabled,FUNC_2
+pwm_lpss_cond_enable,FUNC_3
+pwm_lpss_is_updating,FUNC_4
+pwm_lpss_prepare,FUNC_5
+pwm_lpss_read,FUNC_6
+pwm_lpss_wait_for_update,FUNC_7
+pwm_lpss_write,FUNC_8
+to_lpwm,FUNC_9
+pwm_lpss_apply,FUNC_10
+chip,VAR_1
+pwm,VAR_2
+state,VAR_3
+lpwm,VAR_4
+ret,VAR_5

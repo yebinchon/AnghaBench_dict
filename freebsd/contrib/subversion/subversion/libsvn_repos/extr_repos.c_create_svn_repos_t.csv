@@ -1,0 +1,12 @@
+SVN_REPOS__CONF_DIR,VAR_0
+SVN_REPOS__DB_DIR,VAR_1
+SVN_REPOS__HOOK_DIR,VAR_2
+SVN_REPOS__LOCK_DIR,VAR_3
+apr_hash_make,FUNC_0
+apr_pcalloc,FUNC_1
+apr_pstrdup,FUNC_2
+svn_dirent_join,FUNC_3
+create_svn_repos_t,FUNC_4
+path,VAR_4
+pool,VAR_5
+repos,VAR_6

@@ -1,0 +1,14 @@
+WORK_BUSY_PENDING,VAR_0
+WORK_BUSY_RUNNING,VAR_1
+find_worker_executing_work,FUNC_0
+get_work_pool,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+work_pending,FUNC_6
+work_busy,FUNC_7
+work,VAR_2
+pool,VAR_3
+flags,VAR_4
+ret,VAR_5

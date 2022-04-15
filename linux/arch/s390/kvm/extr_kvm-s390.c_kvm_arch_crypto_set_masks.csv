@@ -1,0 +1,15 @@
+CRYCB_FORMAT_MASK,VAR_0
+KVM_REQ_VSIE_RESTART,VAR_1
+VM_EVENT,FUNC_0
+kvm_s390_sync_request_broadcast,FUNC_1
+kvm_s390_vcpu_block_all,FUNC_2
+kvm_s390_vcpu_unblock_all,FUNC_3
+memcpy,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+kvm_arch_crypto_set_masks,FUNC_7
+kvm,VAR_2
+apm,VAR_3
+aqm,VAR_4
+adm,VAR_5
+crycb,VAR_6

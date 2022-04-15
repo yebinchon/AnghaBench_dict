@@ -1,0 +1,11 @@
+__sysrq_get_key_op,FUNC_0
+__sysrq_put_key_op,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+sysrq_key_table_lock,VAR_0
+__sysrq_swap_key_ops,FUNC_4
+key,VAR_1
+insert_op_p,VAR_2
+remove_op_p,VAR_3
+retval,VAR_4
+flags,VAR_5

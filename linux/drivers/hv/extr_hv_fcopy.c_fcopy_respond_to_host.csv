@@ -1,0 +1,12 @@
+ICMSGHDRFLAG_RESPONSE,VAR_0
+ICMSGHDRFLAG_TRANSACTION,VAR_1
+VM_PKT_DATA_INBAND,VAR_2
+fcopy_transaction,VAR_3
+recv_buffer,VAR_4
+vmbus_sendpacket,FUNC_0
+fcopy_respond_to_host,FUNC_1
+error,VAR_5
+icmsghdr,VAR_6
+buf_len,VAR_7
+channel,VAR_8
+req_id,VAR_9

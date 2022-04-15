@@ -1,0 +1,12 @@
+DCPCTR,VAR_0
+SUREQ,VAR_1
+USBINDX,VAR_2
+USBLENG,VAR_3
+USBREQ,VAR_4
+USBVAL,VAR_5
+le16_to_cpu,FUNC_0
+usbhs_bset,FUNC_1
+usbhs_write,FUNC_2
+usbhs_usbreq_set_val,FUNC_3
+priv,VAR_6
+req,VAR_7

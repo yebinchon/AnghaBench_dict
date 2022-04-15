@@ -1,0 +1,17 @@
+DictMergeWithRegionID,FUNC_0
+DictMergeWithStyleID,FUNC_1
+DictToTTMLStyle,FUNC_2
+DictionaryMerge,FUNC_3
+assert,FUNC_4
+ttml_style_New,FUNC_5
+vlc_dictionary_clear,FUNC_6
+vlc_dictionary_init,FUNC_7
+vlc_dictionary_is_empty,FUNC_8
+vlc_dictionary_value_for_key,FUNC_9
+InheritTTMLStyles,FUNC_10
+p_ctx,VAR_0
+p_node,VAR_1
+p_ttml_style,VAR_2
+merged,VAR_3
+psz_styleid,VAR_4
+psz_regionid,VAR_5

@@ -1,0 +1,13 @@
+REQ_OP_WRITE,VAR_0
+REQ_PREFLUSH,VAR_1
+bio_reset,FUNC_0
+bio_set_dev,FUNC_1
+list_empty,FUNC_2
+list_splice_tail_init,FUNC_3
+r5l_log_flush_endio,VAR_2
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+submit_bio,FUNC_6
+r5l_flush_stripe_to_raid,FUNC_7
+log,VAR_3
+do_flush,VAR_4

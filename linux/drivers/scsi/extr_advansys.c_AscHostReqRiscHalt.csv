@@ -1,0 +1,12 @@
+ASCV_STOP_CODE_B,VAR_0
+ASC_STOP_HOST_REQ_RISC_HALT,VAR_1
+ASC_STOP_REQ_RISC_STOP,VAR_2
+AscIsChipHalted,FUNC_0
+AscReadLramByte,FUNC_1
+AscWriteLramByte,FUNC_2
+mdelay,FUNC_3
+AscHostReqRiscHalt,FUNC_4
+iop_base,VAR_3
+count,VAR_4
+sta,VAR_5
+saved_stop_code,VAR_6

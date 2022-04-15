@@ -1,0 +1,14 @@
+amdgpu_bo_reserve,FUNC_0
+amdgpu_bo_unpin,FUNC_1
+amdgpu_bo_unreserve,FUNC_2
+amdgpu_ttm_adev,FUNC_3
+drm_gem_map_detach,FUNC_4
+gem_to_amdgpu_bo,FUNC_5
+unlikely,FUNC_6
+amdgpu_dma_buf_map_detach,FUNC_7
+dma_buf,VAR_0
+attach,VAR_1
+obj,VAR_2
+bo,VAR_3
+adev,VAR_4
+ret,VAR_5

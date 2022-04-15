@@ -1,0 +1,14 @@
+PSB_GMCH_CTRL,VAR_0
+PSB_PGETBL_CTL,VAR_1
+PSB_WVDC32,FUNC_0
+_PSB_GMCH_ENABLED,VAR_2
+_PSB_PGETBL_ENABLED,VAR_3
+pci_get_drvdata,FUNC_1
+pci_write_config_word,FUNC_2
+psb_gtt_restore,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+gma_resume_display,FUNC_6
+pdev,VAR_4
+dev,VAR_5
+dev_priv,VAR_6

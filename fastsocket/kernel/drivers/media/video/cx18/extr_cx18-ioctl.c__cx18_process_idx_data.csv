@@ -1,0 +1,13 @@
+V4L2_ENC_IDX_ENTRIES,VAR_0
+V4L2_ENC_IDX_FRAME_B,VAR_1
+V4L2_ENC_IDX_FRAME_I,VAR_2
+V4L2_ENC_IDX_FRAME_P,VAR_3
+le32_to_cpu,FUNC_0
+_cx18_process_idx_data,FUNC_1
+buf,VAR_4
+idx,VAR_5
+consumed,VAR_6
+remaining,VAR_7
+e_idx,VAR_8
+e_buf,VAR_9
+mapping,VAR_10

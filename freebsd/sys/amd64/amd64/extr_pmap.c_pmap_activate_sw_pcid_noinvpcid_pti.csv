@@ -1,0 +1,9 @@
+intr_disable,FUNC_0
+intr_restore,FUNC_1
+pmap_activate_sw_pcid_pti,FUNC_2
+pmap_activate_sw_pti_post,FUNC_3
+pmap_activate_sw_pcid_noinvpcid_pti,FUNC_4
+td,VAR_0
+pmap,VAR_1
+cpuid,VAR_2
+rflags,VAR_3

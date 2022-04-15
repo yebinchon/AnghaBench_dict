@@ -1,0 +1,13 @@
+CR6_RXSC,VAR_0
+CR6_TXSC,VAR_1
+DCR5,VAR_2
+DCR7,VAR_3
+inl,FUNC_0
+netdev_priv,FUNC_1
+netif_stop_queue,FUNC_2
+outl,FUNC_3
+uli526x_free_rxbuffer,FUNC_4
+update_cr6,FUNC_5
+uli526x_reset_prepare,FUNC_6
+dev,VAR_4
+db,VAR_5

@@ -1,0 +1,17 @@
+IMX_SC_PM_FUNC_GET_CLOCK_RATE,VAR_0
+IMX_SC_RPC_SVC_PM,VAR_1
+IMX_SC_RPC_VERSION,VAR_2
+ccm_ipc_handle,VAR_3
+clk_hw_get_name,FUNC_0
+cpu_to_le16,FUNC_1
+imx_scu_call_rpc,FUNC_2
+le32_to_cpu,FUNC_3
+pr_err,FUNC_4
+to_clk_scu,FUNC_5
+clk_scu_recalc_rate,FUNC_6
+hw,VAR_4
+parent_rate,VAR_5
+clk,VAR_6
+msg,VAR_7
+hdr,VAR_8
+ret,VAR_9

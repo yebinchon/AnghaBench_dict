@@ -1,0 +1,17 @@
+BOOT_RUNNING,VAR_0
+M_WAITOK,VAR_1
+TUNABLE_INT_FETCH,FUNC_0
+UMA_TIMEOUT,VAR_2
+booted,VAR_3
+callout_init,FUNC_1
+callout_reset,FUNC_2
+counter_u64_alloc,FUNC_3
+dbg_divisor,VAR_4
+hz,VAR_5
+uma_callout,VAR_6
+uma_dbg_cnt,VAR_7
+uma_skip_cnt,VAR_8
+uma_timeout,VAR_9
+zone_alloc_counters,VAR_10
+zone_foreach,FUNC_4
+uma_startup3,FUNC_5

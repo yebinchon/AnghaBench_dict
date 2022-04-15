@@ -1,0 +1,11 @@
+F_GETFL,VAR_0
+F_SETFL,VAR_1
+O_NONBLOCK,VAR_2
+errno,VAR_3
+fcntl,FUNC_0
+pError,FUNC_1
+strerror,FUNC_2
+taosSetNonblocking,FUNC_3
+sock,VAR_4
+on,VAR_5
+flags,VAR_6

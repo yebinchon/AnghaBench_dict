@@ -1,0 +1,10 @@
+COMMIT_TS_TRUNCATE,VAR_0
+RM_COMMIT_TS_ID,VAR_1
+SizeOfCommitTsTruncate,VAR_2
+XLogBeginInsert,FUNC_0
+XLogInsert,FUNC_1
+XLogRegisterData,FUNC_2
+WriteTruncateXlogRec,FUNC_3
+pageno,VAR_3
+oldestXid,VAR_4
+xlrec,VAR_5

@@ -1,0 +1,17 @@
+DMA_BIDIRECTIONAL,VAR_0
+WARN_ON,FUNC_0
+dma_unmap_sg,FUNC_1
+drm_gem_free_mmap_offset,FUNC_2
+drm_gem_shmem_is_purgeable,FUNC_3
+drm_gem_shmem_put_pages_locked,FUNC_4
+drm_vma_node_unmap,FUNC_5
+file_inode,FUNC_6
+invalidate_mapping_pages,FUNC_7
+kfree,FUNC_8
+sg_free_table,FUNC_9
+shmem_truncate_range,FUNC_10
+to_drm_gem_shmem_obj,FUNC_11
+drm_gem_shmem_purge_locked,FUNC_12
+obj,VAR_1
+dev,VAR_2
+shmem,VAR_3

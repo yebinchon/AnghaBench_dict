@@ -1,0 +1,12 @@
+PROCESSOR_NULL,VAR_0
+assert,FUNC_0
+pset_lock,FUNC_1
+pset_unlock,FUNC_2
+run_queue_remove,FUNC_3
+runq_consider_decr_bound_count,FUNC_4
+runq_for_processor,FUNC_5
+sched_traditional_processor_queue_remove,FUNC_6
+processor,VAR_1
+thread,VAR_2
+pset,VAR_3
+rq,VAR_4

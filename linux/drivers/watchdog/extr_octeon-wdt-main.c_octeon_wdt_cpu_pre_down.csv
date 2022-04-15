@@ -1,0 +1,13 @@
+CVMX_CIU_PP_POKEX,FUNC_0
+CVMX_CIU_WDOGX,FUNC_1
+cpu2core,FUNC_2
+cpu_to_node,FUNC_3
+cvmx_write_csr_node,FUNC_4
+free_irq,FUNC_5
+octeon_wdt_cpu_to_irq,FUNC_6
+octeon_wdt_poke_irq,VAR_0
+octeon_wdt_cpu_pre_down,FUNC_7
+cpu,VAR_1
+core,VAR_2
+node,VAR_3
+ciu_wdog,VAR_4

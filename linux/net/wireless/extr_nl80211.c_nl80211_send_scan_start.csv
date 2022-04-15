@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+NL80211_CMD_TRIGGER_SCAN,VAR_1
+NL80211_MCGRP_SCAN,VAR_2
+NLMSG_DEFAULT_SIZE,VAR_3
+genlmsg_multicast_netns,FUNC_0
+nl80211_fam,VAR_4
+nl80211_prep_scan_msg,FUNC_1
+nlmsg_free,FUNC_2
+nlmsg_new,FUNC_3
+wiphy_net,FUNC_4
+nl80211_send_scan_start,FUNC_5
+rdev,VAR_5
+wdev,VAR_6
+msg,VAR_7

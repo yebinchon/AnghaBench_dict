@@ -1,0 +1,15 @@
+PCI_MSI_FLAGS,VAR_0
+PCI_MSI_FLAGS_ENABLE,VAR_1
+PCI_MSI_FLAGS_QSIZE,VAR_2
+arch_restore_msi_irqs,FUNC_0
+irq_get_msi_desc,FUNC_1
+msi_mask,FUNC_2
+msi_mask_irq,FUNC_3
+pci_intx_for_msi,FUNC_4
+pci_msi_set_enable,FUNC_5
+pci_read_config_word,FUNC_6
+pci_write_config_word,FUNC_7
+__pci_restore_msi_state,FUNC_8
+dev,VAR_3
+control,VAR_4
+entry,VAR_5

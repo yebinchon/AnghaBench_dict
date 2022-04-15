@@ -1,0 +1,9 @@
+ASSERT,FUNC_0
+XFS_IFLOCK,VAR_0
+__XFS_IFLOCK_BIT,VAR_1
+smp_mb,FUNC_1
+wake_up_bit,FUNC_2
+xfs_iflags_clear,FUNC_3
+xfs_isiflocked,FUNC_4
+xfs_ifunlock,FUNC_5
+ip,VAR_2

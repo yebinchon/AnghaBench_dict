@@ -1,0 +1,11 @@
+IRQ_HANDLED,VAR_0
+PMIC_WD_BARK_STS_BIT,VAR_1
+PON_INT_RT_STS,VAR_2
+regmap_read,FUNC_0
+watchdog_notify_pretimeout,FUNC_1
+pm8916_wdt_isr,FUNC_2
+irq,VAR_3
+arg,VAR_4
+wdt,VAR_5
+err,VAR_6
+sts,VAR_7

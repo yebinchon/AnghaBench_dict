@@ -1,0 +1,12 @@
+CMD_IAAD,VAR_0
+EHCI_RH_RUNNING,VAR_1
+INCR,FUNC_0
+STS_IAA,VAR_2
+ehci_dbg,FUNC_1
+ehci_readl,FUNC_2
+ehci_writel,FUNC_3
+end_iaa_cycle,FUNC_4
+ehci_iaa_watchdog,FUNC_5
+ehci,VAR_3
+cmd,VAR_4
+status,VAR_5

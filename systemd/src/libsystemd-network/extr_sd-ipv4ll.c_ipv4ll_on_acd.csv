@@ -1,0 +1,14 @@
+IPV4LL_DONT_DESTROY,FUNC_0
+SD_IPV4LL_EVENT_BIND,VAR_0
+SD_IPV4LL_EVENT_CONFLICT,VAR_1
+SD_IPV4LL_EVENT_STOP,VAR_2
+assert,FUNC_1
+assert_not_reached,FUNC_2
+ipv4ll_client_notify,FUNC_3
+sd_ipv4ll_restart,FUNC_4
+ipv4ll_on_acd,FUNC_5
+acd,VAR_3
+event,VAR_4
+userdata,VAR_5
+ll,VAR_6
+r,VAR_7

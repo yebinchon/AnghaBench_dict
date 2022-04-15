@@ -1,0 +1,13 @@
+REQS_PER_CONN,VAR_0
+SVN_NO_ERROR,VAR_1
+apr_pcalloc,FUNC_0
+serf_bucket_allocator_create,FUNC_1
+serf_connection_create2,FUNC_2
+svn_ra_serf__conn_closed,VAR_2
+svn_ra_serf__conn_setup,VAR_3
+svn_ra_serf__wrap_err,FUNC_3
+open_connection_if_needed,FUNC_4
+sess,VAR_4
+num_active_reqs,VAR_5
+cur,VAR_6
+status,VAR_7

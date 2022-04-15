@@ -1,0 +1,14 @@
+SIGPIPE,VAR_0
+SIG_IGN,VAR_1
+SIG_SETMASK,VAR_2
+adns_if_nosigpipe,VAR_3
+assert,FUNC_0
+sigaction,FUNC_1
+sigdelset,FUNC_2
+sigfillset,FUNC_3
+sigprocmask,FUNC_4
+adns__sigpipe_protect,FUNC_5
+ads,VAR_4
+toblock,VAR_5
+sa,VAR_6
+r,VAR_7

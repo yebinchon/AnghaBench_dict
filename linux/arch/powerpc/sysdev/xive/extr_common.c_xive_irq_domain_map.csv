@@ -1,0 +1,13 @@
+IRQ_LEVEL,VAR_0
+handle_fasteoi_irq,VAR_1
+handle_percpu_irq,VAR_2
+irq_clear_status_flags,FUNC_0
+irq_set_chip_and_handler,FUNC_1
+xive_ipi_chip,VAR_3
+xive_irq_alloc_data,FUNC_2
+xive_irq_chip,VAR_4
+xive_irq_domain_map,FUNC_3
+h,VAR_5
+virq,VAR_6
+hw,VAR_7
+rc,VAR_8

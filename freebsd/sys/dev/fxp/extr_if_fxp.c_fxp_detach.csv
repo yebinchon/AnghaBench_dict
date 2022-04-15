@@ -1,0 +1,17 @@
+CSR_WRITE_1,FUNC_0
+FXP_CSR_SCB_INTRCNTL,VAR_0
+FXP_LOCK,FUNC_1
+FXP_SCB_INTR_DISABLE,VAR_1
+FXP_UNLOCK,FUNC_2
+IFCAP_POLLING,VAR_2
+bus_teardown_intr,FUNC_3
+callout_drain,FUNC_4
+device_get_softc,FUNC_5
+ether_ifdetach,FUNC_6
+ether_poll_deregister,FUNC_7
+fxp_release,FUNC_8
+fxp_stop,FUNC_9
+if_getcapenable,FUNC_10
+fxp_detach,FUNC_11
+dev,VAR_3
+sc,VAR_4

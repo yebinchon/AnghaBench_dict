@@ -1,0 +1,16 @@
+REPLAY_OPTS_INIT,VAR_0
+REPLAY_PICK,VAR_1
+REPLAY_REVERT,VAR_2
+_,FUNC_0
+file_exists,FUNC_1
+git_path_cherry_pick_head,FUNC_2
+git_path_revert_head,FUNC_3
+have_finished_the_last_pick,FUNC_4
+sequencer_remove_state,FUNC_5
+unlink,FUNC_6
+warning,FUNC_7
+sequencer_post_commit_cleanup,FUNC_8
+r,VAR_3
+verbose,VAR_4
+opts,VAR_5
+need_cleanup,VAR_6

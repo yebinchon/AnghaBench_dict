@@ -1,0 +1,17 @@
+FTAG,VAR_0
+SPA_FEATURE_FS_SS_LIMIT,VAR_1
+VERIFY0,FUNC_0
+dmu_tx_pool,FUNC_1
+dsl_dataset_get_spa,FUNC_2
+dsl_dataset_hold,FUNC_3
+dsl_dataset_rele,FUNC_4
+dsl_dir_init_fs_ss_count,FUNC_5
+spa_feature_incr,FUNC_6
+spa_feature_is_active,FUNC_7
+dsl_dir_actv_fs_ss_limit_sync,FUNC_8
+arg,VAR_2
+tx,VAR_3
+ddname,VAR_4
+dp,VAR_5
+ds,VAR_6
+spa,VAR_7

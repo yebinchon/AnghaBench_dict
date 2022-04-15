@@ -1,0 +1,13 @@
+DRM_DEBUG_DRIVER,FUNC_0
+SUN4I_BACKEND_ATTCTL_REG0,FUNC_1
+SUN4I_BACKEND_ATTCTL_REG0_LAY_VDOEN,VAR_0
+SUN4I_BACKEND_ATTCTL_REG1,FUNC_2
+SUN4I_BACKEND_ATTCTL_REG1_LAY_FBFMT,VAR_1
+regmap_update_bits,FUNC_3
+sun4i_backend_drm_format_to_layer,FUNC_4
+sun4i_backend_update_layer_frontend,FUNC_5
+backend,VAR_2
+layer,VAR_3
+fmt,VAR_4
+val,VAR_5
+ret,VAR_6

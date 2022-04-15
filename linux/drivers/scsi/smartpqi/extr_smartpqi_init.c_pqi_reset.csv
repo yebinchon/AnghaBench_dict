@@ -1,0 +1,10 @@
+PQI_RESET_ACTION_RESET,VAR_0
+PQI_RESET_TYPE_HARD_RESET,VAR_1
+dev_err,FUNC_0
+pqi_wait_for_pqi_reset_completion,FUNC_1
+sis_pqi_reset_quiesce,FUNC_2
+writel,FUNC_3
+pqi_reset,FUNC_4
+ctrl_info,VAR_2
+rc,VAR_3
+reset_reg,VAR_4

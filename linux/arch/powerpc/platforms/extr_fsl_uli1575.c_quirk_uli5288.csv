@@ -1,0 +1,11 @@
+PCI_CLASS_REVISION,VAR_0
+PCI_CLASS_STORAGE_SATA_AHCI,VAR_1
+is_quirk_valid,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_byte,FUNC_3
+pci_write_config_dword,FUNC_4
+quirk_uli5288,FUNC_5
+dev,VAR_2
+c,VAR_3
+d,VAR_4

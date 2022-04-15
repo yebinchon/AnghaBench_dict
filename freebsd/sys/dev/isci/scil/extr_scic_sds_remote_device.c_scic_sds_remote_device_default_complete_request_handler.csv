@@ -1,0 +1,11 @@
+SCIC_LOG_OBJECT_SMP_REMOTE_TARGET,VAR_0
+SCIC_LOG_OBJECT_SSP_REMOTE_TARGET,VAR_1
+SCIC_LOG_OBJECT_STP_REMOTE_TARGET,VAR_2
+SCIC_LOG_WARNING,FUNC_0
+SCI_FAILURE_INVALID_STATE,VAR_3
+sci_base_object_get_logger,FUNC_1
+sci_base_state_machine_get_state,FUNC_2
+scic_sds_remote_device_get_base_state_machine,FUNC_3
+scic_sds_remote_device_default_complete_request_handler,FUNC_4
+device,VAR_4
+request,VAR_5

@@ -1,0 +1,16 @@
+IEEE80211_CHAN_RADAR,VAR_0
+MT76_SCANNING,VAR_1
+MT_HW_RDD0,VAR_2
+MT_RX_SEL0,VAR_3
+NL80211_DFS_AVAILABLE,VAR_4
+NL80211_DFS_UNSET,VAR_5
+RDD_CAC_END,VAR_6
+RDD_NORMAL_START,VAR_7
+mt7615_dfs_start_radar_detector,FUNC_0
+mt7615_dfs_stop_radar_detector,FUNC_1
+mt7615_mcu_rdd_cmd,FUNC_2
+test_bit,FUNC_3
+mt7615_dfs_init_radar_detector,FUNC_4
+dev,VAR_8
+chandef,VAR_9
+err,VAR_10

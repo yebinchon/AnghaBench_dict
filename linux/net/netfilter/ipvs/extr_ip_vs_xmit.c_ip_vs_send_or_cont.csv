@@ -1,0 +1,17 @@
+IP_VS_CONN_F_NFCT,VAR_0
+NF_ACCEPT,VAR_1
+NF_HOOK,FUNC_0
+NF_INET_LOCAL_OUT,VAR_2
+NF_STOLEN,VAR_3
+dst_output,VAR_4
+ip_vs_drop_early_demux_sk,FUNC_1
+ip_vs_notrack,FUNC_2
+likely,FUNC_3
+skb_dst,FUNC_4
+skb_forward_csum,FUNC_5
+ip_vs_send_or_cont,FUNC_6
+pf,VAR_5
+skb,VAR_6
+cp,VAR_7
+local,VAR_8
+ret,VAR_9

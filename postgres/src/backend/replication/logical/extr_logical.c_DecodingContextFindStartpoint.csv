@@ -1,0 +1,16 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+DEBUG1,VAR_0
+DecodingContextReady,FUNC_1
+ERROR,VAR_1
+InvalidXLogRecPtr,VAR_2
+LogicalDecodingProcessRecord,FUNC_2
+SpinLockAcquire,FUNC_3
+SpinLockRelease,FUNC_4
+XLogReadRecord,FUNC_5
+elog,FUNC_6
+DecodingContextFindStartpoint,FUNC_7
+ctx,VAR_3
+startptr,VAR_4
+slot,VAR_5
+record,VAR_6
+err,VAR_7

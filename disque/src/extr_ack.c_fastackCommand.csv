@@ -1,0 +1,16 @@
+CLUSTERMSG_NOFLAGS,VAR_0
+CLUSTERMSG_TYPE_DELJOB,VAR_1
+C_ERR,VAR_2
+addReplyLongLong,FUNC_0
+clusterBroadcastDelJob,FUNC_1
+clusterBroadcastJobIDMessage,FUNC_2
+freeJob,FUNC_3
+lookupJob,FUNC_4
+server,VAR_3
+unregisterJob,FUNC_5
+validateJobIDs,FUNC_6
+fastackCommand,FUNC_7
+c,VAR_4
+j,VAR_5
+known,VAR_6
+job,VAR_7

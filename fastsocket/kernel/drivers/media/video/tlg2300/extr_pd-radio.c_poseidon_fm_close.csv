@@ -1,0 +1,14 @@
+PLAY_SERVICE,VAR_0
+POSEIDON_STATE_FM,VAR_1
+TLG_TUNE_PLAY_SVC_STOP,VAR_2
+kref_put,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+poseidon_delete,VAR_3
+send_set_req,FUNC_3
+usb_autopm_put_interface,FUNC_4
+poseidon_fm_close,FUNC_5
+filp,VAR_4
+p,VAR_5
+fm,VAR_6
+status,VAR_7

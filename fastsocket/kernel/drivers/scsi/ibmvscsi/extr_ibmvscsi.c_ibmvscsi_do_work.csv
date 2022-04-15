@@ -1,0 +1,16 @@
+IBMVSCSI_CRQ_INIT,VAR_0
+atomic_set,FUNC_0
+dev_err,FUNC_1
+ibmvscsi_ops,VAR_1
+scsi_unblock_requests,FUNC_2
+smp_mb,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+stub3,FUNC_6
+stub4,FUNC_7
+to_vio_dev,FUNC_8
+vio_enable_interrupts,FUNC_9
+ibmvscsi_do_work,FUNC_10
+hostdata,VAR_2
+rc,VAR_3
+action,VAR_4

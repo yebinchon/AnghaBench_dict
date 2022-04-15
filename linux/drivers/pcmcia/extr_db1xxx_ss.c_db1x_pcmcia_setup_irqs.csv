@@ -1,0 +1,16 @@
+BOARD_TYPE_DB1200,VAR_0
+BOARD_TYPE_DB1300,VAR_1
+IRQ_TYPE_EDGE_BOTH,VAR_2
+db1000_pcmcia_cdirq,VAR_3
+db1000_pcmcia_stschgirq,VAR_4
+db1200_pcmcia_cdirq,VAR_5
+db1200_pcmcia_cdirq_fn,VAR_6
+db1x_card_inserted,FUNC_0
+enable_irq,FUNC_1
+free_irq,FUNC_2
+irq_set_irq_type,FUNC_3
+request_irq,FUNC_4
+request_threaded_irq,FUNC_5
+db1x_pcmcia_setup_irqs,FUNC_6
+sock,VAR_7
+ret,VAR_8

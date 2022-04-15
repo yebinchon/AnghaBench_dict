@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+FLUSH_MERGE,VAR_1
+NOBARRIER,VAR_2
+REQ_OP_WRITE,VAR_3
+REQ_PREFLUSH,VAR_4
+REQ_SYNC,VAR_5
+bio_put,FUNC_0
+bio_set_dev,FUNC_1
+f2fs_bio_alloc,FUNC_2
+submit_bio_wait,FUNC_3
+test_opt,FUNC_4
+trace_f2fs_issue_flush,FUNC_5
+__submit_flush_wait,FUNC_6
+sbi,VAR_6
+bdev,VAR_7
+bio,VAR_8
+ret,VAR_9

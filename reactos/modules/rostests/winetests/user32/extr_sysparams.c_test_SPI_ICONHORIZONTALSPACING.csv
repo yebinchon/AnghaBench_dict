@@ -1,0 +1,12 @@
+GetLastError,FUNC_0
+SPIF_UPDATEINIFILE,VAR_0
+SPI_ICONHORIZONTALSPACING,VAR_1
+SetLastError,FUNC_1
+SystemParametersInfoA,FUNC_2
+dotest_spi_iconhorizontalspacing,FUNC_3
+ok,FUNC_4
+test_error_msg,FUNC_5
+trace,FUNC_6
+test_SPI_ICONHORIZONTALSPACING,FUNC_7
+rc,VAR_2
+old_spacing,VAR_3

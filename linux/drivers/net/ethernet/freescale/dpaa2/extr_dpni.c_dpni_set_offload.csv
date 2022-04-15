@@ -1,0 +1,12 @@
+DPNI_CMDID_SET_OFFLOAD,VAR_0
+cpu_to_le32,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpni_set_offload,FUNC_3
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+type,VAR_4
+config,VAR_5
+cmd,VAR_6
+cmd_params,VAR_7

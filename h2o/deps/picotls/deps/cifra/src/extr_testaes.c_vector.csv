@@ -1,0 +1,17 @@
+TEST_CHECK,FUNC_0
+cf_aes_decrypt,FUNC_1
+cf_aes_encrypt,FUNC_2
+cf_aes_finish,FUNC_3
+cf_aes_init,FUNC_4
+memcmp,FUNC_5
+unhex,FUNC_6
+vector,FUNC_7
+input,VAR_0
+output,VAR_1
+key,VAR_2
+keybuf,VAR_3
+inbuf,VAR_4
+outbuf,VAR_5
+tmp,VAR_6
+nkey,VAR_7
+ctx,VAR_8

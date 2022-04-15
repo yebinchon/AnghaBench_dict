@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+ocotp_detach,FUNC_3
+ocotp_regs,VAR_3
+ocotp_sc,VAR_4
+ocotp_size,VAR_5
+pmap_unmapdev,FUNC_4
+ocotp_attach,FUNC_5
+dev,VAR_6
+sc,VAR_7
+err,VAR_8
+rid,VAR_9

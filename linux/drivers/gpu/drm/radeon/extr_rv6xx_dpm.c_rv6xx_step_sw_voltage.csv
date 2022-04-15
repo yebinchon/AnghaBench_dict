@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+R600_POWER_LEVEL_CTXSW,VAR_1
+SET_VOLTAGE_TYPE_ASIC_VDDC,VAR_2
+msleep,FUNC_0
+radeon_atom_get_voltage_step,FUNC_1
+radeon_atom_round_to_true_voltage,FUNC_2
+rv6xx_program_voltage_stepping_entry,FUNC_3
+rv6xx_step_sw_voltage,FUNC_4
+rdev,VAR_3
+initial_voltage,VAR_4
+target_voltage,VAR_5
+current_voltage,VAR_6
+true_target_voltage,VAR_7
+voltage_step,VAR_8
+signed_voltage_step,VAR_9

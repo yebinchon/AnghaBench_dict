@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+EMAC_RX_SKB_HEADROOM,VAR_1
+ENOMEM,VAR_2
+MAL_RX_CTRL_EMPTY,VAR_3
+MAL_RX_CTRL_WRAP,VAR_4
+NUM_RX_BUFF,VAR_5
+alloc_skb,FUNC_0
+dma_map_single,FUNC_1
+skb_reserve,FUNC_2
+unlikely,FUNC_3
+wmb,FUNC_4
+emac_alloc_rx_skb,FUNC_5
+dev,VAR_6
+slot,VAR_7
+flags,VAR_8
+skb,VAR_9

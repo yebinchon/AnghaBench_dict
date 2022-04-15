@@ -1,0 +1,16 @@
+CPC_TTY_DBG,FUNC_0
+ETH_P_CUST,VAR_0
+PACKET_HOST,VAR_1
+dev_alloc_skb,FUNC_1
+htons,FUNC_2
+netif_rx,FUNC_3
+skb_copy_to_linear_data,FUNC_4
+skb_copy_to_linear_data_offset,FUNC_5
+skb_put,FUNC_6
+skb_reset_mac_header,FUNC_7
+cpc_tty_trace,FUNC_8
+dev,VAR_2
+buf,VAR_3
+len,VAR_4
+rxtx,VAR_5
+skb,VAR_6

@@ -1,0 +1,16 @@
+ADD_TEST,FUNC_0
+certs_dir,VAR_0
+ct_dir,VAR_1
+getenv,FUNC_1
+printf,FUNC_2
+test_ctlog_from_base64,VAR_2
+test_decode_tls_sct,VAR_3
+test_default_ct_policy_eval_ctx_time_is_now,VAR_4
+test_encode_tls_sct,VAR_5
+test_multiple_scts_in_certificate,VAR_6
+test_no_scts_in_certificate,VAR_7
+test_one_sct_in_certificate,VAR_8
+test_verify_fails_for_future_sct,VAR_9
+test_verify_multiple_scts,VAR_10
+test_verify_one_sct,VAR_11
+setup_tests,FUNC_3

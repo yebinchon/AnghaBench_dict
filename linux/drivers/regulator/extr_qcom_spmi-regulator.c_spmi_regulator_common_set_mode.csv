@@ -1,0 +1,11 @@
+SPMI_COMMON_MODE_AUTO_MASK,VAR_0
+SPMI_COMMON_MODE_HPM_MASK,VAR_1
+SPMI_COMMON_REG_MODE,VAR_2
+rdev_get_drvdata,FUNC_0
+spmi_vreg_update_bits,FUNC_1
+spmi_regulator_common_set_mode,FUNC_2
+rdev,VAR_3
+mode,VAR_4
+vreg,VAR_5
+mask,VAR_6
+val,VAR_7

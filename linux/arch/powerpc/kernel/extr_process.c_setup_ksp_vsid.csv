@@ -1,0 +1,14 @@
+MMU_FTR_1T_SEGMENT,VAR_0
+MMU_SEGSIZE_1T,VAR_1
+MMU_SEGSIZE_256M,VAR_2
+SLB_VSID_KERNEL,VAR_3
+SLB_VSID_SHIFT,VAR_4
+SLB_VSID_SHIFT_1T,VAR_5
+get_kernel_vsid,FUNC_0
+mmu_has_feature,FUNC_1
+mmu_linear_psize,VAR_6
+mmu_psize_defs,VAR_7
+radix_enabled,FUNC_2
+setup_ksp_vsid,FUNC_3
+p,VAR_8
+sp,VAR_9

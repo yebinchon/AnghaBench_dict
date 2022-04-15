@@ -1,0 +1,17 @@
+CONFIG_GENERIC_CMOS_UPDATE,VAR_0
+ENODEV,VAR_1
+EPROTO,VAR_2
+IS_ENABLED,FUNC_0
+NSEC_PER_SEC,VAR_3
+ktime_get_real_ts64,FUNC_1
+persistent_clock_is_local,VAR_4
+rtc_tv_nsec_ok,FUNC_2
+sched_sync_hw_clock,FUNC_3
+sys_tz,VAR_5
+update_persistent_clock64,FUNC_4
+sync_cmos_clock,FUNC_5
+no_cmos,VAR_6
+now,VAR_7
+adjust,VAR_8
+rc,VAR_9
+target_nsec,VAR_10

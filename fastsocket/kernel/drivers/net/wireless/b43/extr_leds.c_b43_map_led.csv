@@ -1,0 +1,16 @@
+B43_LED_MAX_NAME_LEN,VAR_0
+b43_register_led,FUNC_0
+b43warn,FUNC_1
+ieee80211_get_assoc_led_name,FUNC_2
+ieee80211_get_radio_led_name,FUNC_3
+ieee80211_get_rx_led_name,FUNC_4
+ieee80211_get_tx_led_name,FUNC_5
+snprintf,FUNC_6
+wiphy_name,FUNC_7
+b43_map_led,FUNC_8
+dev,VAR_1
+led_index,VAR_2
+behaviour,VAR_3
+activelow,VAR_4
+hw,VAR_5
+name,VAR_6

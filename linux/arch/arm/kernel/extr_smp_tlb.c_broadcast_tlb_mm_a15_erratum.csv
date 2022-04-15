@@ -1,0 +1,11 @@
+CPU_BITS_NONE,VAR_0
+a15_erratum_get_cpumask,FUNC_0
+erratum_a15_798181,FUNC_1
+get_cpu,FUNC_2
+ipi_flush_tlb_a15_erratum,VAR_1
+put_cpu,FUNC_3
+smp_call_function_many,FUNC_4
+broadcast_tlb_mm_a15_erratum,FUNC_5
+mm,VAR_2
+this_cpu,VAR_3
+mask,VAR_4

@@ -1,0 +1,10 @@
+A_I3_SHMLOG_PATH,VAR_0
+A_UTF8_STRING,VAR_1
+XCB_PROP_MODE_REPLACE,VAR_2
+conn,VAR_3
+root,VAR_4
+shmlogname,VAR_5
+strlen,FUNC_0
+xcb_change_property,FUNC_1
+xcb_delete_property,FUNC_2
+update_shmlog_atom,FUNC_3

@@ -1,0 +1,13 @@
+SDMA_OPCODE_INDIRECT_BUFFER,VAR_0
+SDMA_OPCODE_NOP,VAR_1
+SDMA_OPCODE_WRITE,VAR_2
+SDMA_PACKET,FUNC_0
+SDMA_WRITE_SUB_OPCODE_LINEAR,VAR_3
+radeon_ring_write,FUNC_1
+upper_32_bits,FUNC_2
+cik_sdma_ring_ib_execute,FUNC_3
+rdev,VAR_4
+ib,VAR_5
+ring,VAR_6
+extra_bits,VAR_7
+next_rptr,VAR_8

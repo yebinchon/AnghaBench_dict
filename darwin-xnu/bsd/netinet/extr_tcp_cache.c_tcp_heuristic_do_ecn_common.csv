@@ -1,0 +1,13 @@
+ECN_RETRY_LIMIT,VAR_0
+FALSE,VAR_1
+TRUE,VAR_2
+TSTMP_GT,FUNC_0
+disable_tcp_heuristics,VAR_3
+tcp_getheuristic_with_lock,FUNC_1
+tcp_heuristic_unlock,FUNC_2
+tcp_now,VAR_4
+tcp_heuristic_do_ecn_common,FUNC_3
+tcks,VAR_5
+head,VAR_6
+tpheur,VAR_7
+ret,VAR_8

@@ -1,0 +1,15 @@
+OCFS2_I,FUNC_0
+OCFS2_SB,FUNC_1
+d_inode,FUNC_2
+d_move,FUNC_3
+mlog_errno,FUNC_4
+ocfs2_dentry_attach_lock,FUNC_5
+ocfs2_dentry_lock_put,FUNC_6
+ocfs2_dentry_move,FUNC_7
+dentry,VAR_0
+target,VAR_1
+old_dir,VAR_2
+new_dir,VAR_3
+ret,VAR_4
+osb,VAR_5
+inode,VAR_6

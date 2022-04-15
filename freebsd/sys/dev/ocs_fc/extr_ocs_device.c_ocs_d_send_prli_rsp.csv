@@ -1,0 +1,16 @@
+FC_EXPL_NO_ADDITIONAL,VAR_0
+FC_EXPL_REQUEST_NOT_SUPPORTED,VAR_1
+FC_REASON_UNABLE_TO_PERFORM,VAR_2
+OCS_NODE_SHUTDOWN_DEFAULT,VAR_3
+__ocs_d_device_ready,VAR_4
+__ocs_d_initiate_shutdown,VAR_5
+node_printf,FUNC_0
+ocs_node_transition,FUNC_1
+ocs_scsi_validate_initiator,FUNC_2
+ocs_send_ls_rjt,FUNC_3
+ocs_send_prli_acc,FUNC_4
+ocs_d_send_prli_rsp,FUNC_5
+io,VAR_6
+ox_id,VAR_7
+ocs,VAR_8
+node,VAR_9

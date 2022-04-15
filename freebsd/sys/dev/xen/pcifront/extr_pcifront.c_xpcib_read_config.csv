@@ -1,0 +1,15 @@
+DPRINTF,FUNC_0
+PCI_DEVFN,FUNC_1
+XEN_PCI_OP_conf_read,VAR_0
+device_get_softc,FUNC_2
+do_pci_op,FUNC_3
+xpcib_read_config,FUNC_4
+dev,VAR_1
+bus,VAR_2
+slot,VAR_3
+func,VAR_4
+reg,VAR_5
+bytes,VAR_6
+sc,VAR_7
+op,VAR_8
+err,VAR_9

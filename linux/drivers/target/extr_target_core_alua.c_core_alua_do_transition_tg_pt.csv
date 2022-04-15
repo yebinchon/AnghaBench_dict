@@ -1,0 +1,17 @@
+ALUA_ACCESS_STATE_TRANSITION,VAR_0
+ALUA_STATUS_ALTERED_BY_EXPLICIT_STPG,VAR_1
+ALUA_STATUS_ALTERED_BY_IMPLICIT_ALUA,VAR_2
+EAGAIN,VAR_3
+config_item_name,FUNC_0
+core_alua_dump_state,FUNC_1
+core_alua_queue_state_change_ua,FUNC_2
+core_alua_update_tpg_primary_metadata,FUNC_3
+msleep_interruptible,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+pr_debug,FUNC_7
+core_alua_do_transition_tg_pt,FUNC_8
+tg_pt_gp,VAR_4
+new_state,VAR_5
+explicit,VAR_6
+prev_state,VAR_7

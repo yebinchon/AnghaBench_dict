@@ -1,0 +1,16 @@
+DBUS_TYPE_STRING,VAR_0
+MSG_ERROR,VAR_1
+WPAS_DBUS_NEW_IFACE_INTERFACE,VAR_2
+dbus_connection_send,FUNC_0
+dbus_message_iter_append_basic,FUNC_1
+dbus_message_iter_init_append,FUNC_2
+dbus_message_new_signal,FUNC_3
+dbus_message_unref,FUNC_4
+wpa_printf,FUNC_5
+wpas_dbus_signal_eap_status,FUNC_6
+wpa_s,VAR_3
+status,VAR_4
+parameter,VAR_5
+iface,VAR_6
+msg,VAR_7
+iter,VAR_8

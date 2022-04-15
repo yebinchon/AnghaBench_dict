@@ -1,0 +1,15 @@
+GPIOLED_LOCK_INIT,FUNC_0
+device_get_name,FUNC_1
+device_get_nameunit,FUNC_2
+device_get_parent,FUNC_3
+device_get_softc,FUNC_4
+device_get_unit,FUNC_5
+gpioled_control,VAR_0
+led_create_state,FUNC_6
+resource_int_value,FUNC_7
+resource_string_value,FUNC_8
+gpioled_attach,FUNC_9
+dev,VAR_1
+sc,VAR_2
+state,VAR_3
+name,VAR_4

@@ -1,0 +1,17 @@
+MPT_SCSI_CMD_PER_DEV_HIGH,VAR_0
+MPT_SCSI_CMD_PER_DEV_LOW,VAR_1
+MPT_TARGET_FLAGS_Q_YES,VAR_2
+MPT_ULTRA160,VAR_3
+SPI,VAR_4
+TYPE_DISK,VAR_5
+scsi_change_queue_depth,FUNC_0
+scsi_target,FUNC_1
+shost_priv,FUNC_2
+mptscsih_change_queue_depth,FUNC_3
+sdev,VAR_6
+qdepth,VAR_7
+hd,VAR_8
+vtarget,VAR_9
+starget,VAR_10
+max_depth,VAR_11
+ioc,VAR_12

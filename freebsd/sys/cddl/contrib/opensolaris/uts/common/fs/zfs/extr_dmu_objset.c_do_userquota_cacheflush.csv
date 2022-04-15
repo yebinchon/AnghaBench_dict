@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+DMU_GROUPUSED_OBJECT,VAR_0
+DMU_USERUSED_OBJECT,VAR_1
+VERIFY0,FUNC_1
+avl_destroy,FUNC_2
+avl_destroy_nodes,FUNC_3
+dmu_tx_is_syncing,FUNC_4
+kmem_free,FUNC_5
+mutex_enter,FUNC_6
+mutex_exit,FUNC_7
+zap_increment_int,FUNC_8
+do_userquota_cacheflush,FUNC_9
+os,VAR_2
+cache,VAR_3
+tx,VAR_4
+cookie,VAR_5
+uqn,VAR_6

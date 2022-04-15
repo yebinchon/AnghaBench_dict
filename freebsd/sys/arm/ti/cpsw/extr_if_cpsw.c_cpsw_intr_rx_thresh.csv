@@ -1,0 +1,15 @@
+CPSW_CPDMA_CPDMA_EOI_VECTOR,VAR_0
+CPSW_RX_LOCK,FUNC_0
+CPSW_RX_UNLOCK,FUNC_1
+IFCOUNTER_IPACKETS,VAR_1
+cpsw_rx_dequeue,FUNC_2
+cpsw_rx_enqueue,FUNC_3
+cpsw_write_4,FUNC_4
+if_inc_counter,FUNC_5
+stub1,FUNC_6
+cpsw_intr_rx_thresh,FUNC_7
+arg,VAR_2
+sc,VAR_3
+ifp,VAR_4
+received,VAR_5
+next,VAR_6

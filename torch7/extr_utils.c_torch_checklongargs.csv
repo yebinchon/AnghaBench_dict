@@ -1,0 +1,16 @@
+THLongStorage_copy,FUNC_0
+THLongStorage_free,FUNC_1
+THLongStorage_newWithSize,FUNC_2
+THLongStorage_set,FUNC_3
+luaL_argerror,FUNC_4
+luaT_toudata,FUNC_5
+lua_gettop,FUNC_6
+lua_isnumber,FUNC_7
+lua_tonumber,FUNC_8
+torch_checklongargs,FUNC_9
+L,VAR_0
+index,VAR_1
+storage,VAR_2
+i,VAR_3
+narg,VAR_4
+storagesrc,VAR_5

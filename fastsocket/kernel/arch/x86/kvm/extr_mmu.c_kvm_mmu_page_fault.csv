@@ -1,0 +1,14 @@
+BUG,FUNC_0
+KVM_EXIT_INTERNAL_ERROR,VAR_0
+KVM_INTERNAL_ERROR_EMULATION,VAR_1
+mmu_topup_memory_caches,FUNC_1
+stub1,FUNC_2
+x86_emulate_instruction,FUNC_3
+kvm_mmu_page_fault,FUNC_4
+vcpu,VAR_2
+cr2,VAR_3
+error_code,VAR_4
+insn,VAR_5
+insn_len,VAR_6
+r,VAR_7
+er,VAR_8

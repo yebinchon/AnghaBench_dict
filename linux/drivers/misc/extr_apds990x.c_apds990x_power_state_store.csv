@@ -1,0 +1,17 @@
+apds990x_force_a_refresh,FUNC_0
+apds990x_force_p_refresh,FUNC_1
+dev_get_drvdata,FUNC_2
+kstrtoul,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put,FUNC_7
+pm_runtime_suspended,FUNC_8
+apds990x_power_state_store,FUNC_9
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+len,VAR_3
+chip,VAR_4
+value,VAR_5
+ret,VAR_6

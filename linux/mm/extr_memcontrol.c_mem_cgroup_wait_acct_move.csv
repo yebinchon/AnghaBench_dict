@@ -1,0 +1,11 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+current,VAR_1
+finish_wait,FUNC_1
+mc,VAR_2
+mem_cgroup_under_move,FUNC_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+wait,VAR_3
+mem_cgroup_wait_acct_move,FUNC_5
+memcg,VAR_4

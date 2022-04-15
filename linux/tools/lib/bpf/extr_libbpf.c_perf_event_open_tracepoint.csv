@@ -1,0 +1,17 @@
+PERF_FLAG_FD_CLOEXEC,VAR_0
+PERF_TYPE_TRACEPOINT,VAR_1
+STRERR_BUFSIZE,VAR_2
+__NR_perf_event_open,VAR_3
+determine_tracepoint_id,FUNC_0
+errno,VAR_4
+libbpf_strerror_r,FUNC_1
+pr_warning,FUNC_2
+syscall,FUNC_3
+perf_event_open_tracepoint,FUNC_4
+tp_category,VAR_5
+tp_name,VAR_6
+attr,VAR_7
+errmsg,VAR_8
+tp_id,VAR_9
+pfd,VAR_10
+err,VAR_11

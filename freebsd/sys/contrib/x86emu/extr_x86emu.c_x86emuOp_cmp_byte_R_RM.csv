@@ -1,0 +1,8 @@
+cmp_byte,FUNC_0
+decode_and_fetch_byte,FUNC_1
+decode_rh_byte_register,FUNC_2
+fetch_decode_modrm,FUNC_3
+x86emuOp_cmp_byte_R_RM,FUNC_4
+emu,VAR_0
+destreg,VAR_1
+srcval,VAR_2

@@ -1,0 +1,17 @@
+PCH_BIT_BRPE_BRPE_SHIFT,VAR_0
+PCH_BIT_SJW_SHIFT,VAR_1
+PCH_BIT_TSEG1_SHIFT,VAR_2
+PCH_BIT_TSEG2_SHIFT,VAR_3
+PCH_CTRL_CCE,VAR_4
+PCH_MSK_BITT_BRP,VAR_5
+PCH_MSK_BRPE_BRPE,VAR_6
+iowrite32,FUNC_0
+netdev_priv,FUNC_1
+pch_can_bit_clear,FUNC_2
+pch_can_bit_set,FUNC_3
+pch_set_bittiming,FUNC_4
+ndev,VAR_7
+priv,VAR_8
+bt,VAR_9
+canbit,VAR_10
+bepe,VAR_11

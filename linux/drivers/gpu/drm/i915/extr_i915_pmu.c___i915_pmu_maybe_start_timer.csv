@@ -1,0 +1,8 @@
+HRTIMER_MODE_REL_PINNED,VAR_0
+PERIOD,VAR_1
+hrtimer_start_range_ns,FUNC_0
+ktime_get,FUNC_1
+ns_to_ktime,FUNC_2
+pmu_needs_timer,FUNC_3
+__i915_pmu_maybe_start_timer,FUNC_4
+pmu,VAR_2

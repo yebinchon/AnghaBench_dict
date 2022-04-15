@@ -1,0 +1,16 @@
+ZFS_PROP_REDACT_SNAPS,VAR_0
+ZPROP_VALUE,VAR_1
+nvlist_lookup_nvlist,FUNC_0
+nvlist_lookup_uint64_array,FUNC_1
+snprintf,FUNC_2
+strlcat,FUNC_3
+zfs_prop_to_name,FUNC_4
+get_rsnaps_string,FUNC_5
+zhp,VAR_2
+propbuf,VAR_3
+proplen,VAR_4
+value,VAR_5
+snaps,VAR_6
+nsnaps,VAR_7
+i,VAR_8
+buf,VAR_9

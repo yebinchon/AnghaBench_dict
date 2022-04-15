@@ -1,0 +1,17 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+amdgpu_cs_get_fence,FUNC_2
+amdgpu_gem_timeout,FUNC_3
+dma_fence_put,FUNC_4
+dma_fence_wait_timeout,FUNC_5
+memset,FUNC_6
+amdgpu_cs_wait_all_fences,FUNC_7
+adev,VAR_0
+filp,VAR_1
+wait,VAR_2
+fences,VAR_3
+fence_count,VAR_4
+i,VAR_5
+r,VAR_6
+fence,VAR_7
+timeout,VAR_8

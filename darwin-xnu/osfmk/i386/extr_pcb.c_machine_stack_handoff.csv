@@ -1,0 +1,14 @@
+OnProc,VAR_0
+act_machine_switch_pcb,FUNC_0
+assert,FUNC_1
+cpu_number,FUNC_2
+fpu_switch_context,FUNC_3
+kpc_off_cpu,FUNC_4
+machine_set_current_thread,FUNC_5
+ml_hv_cswitch,FUNC_6
+pmap_switch_context,FUNC_7
+thread_initialize_kernel_state,FUNC_8
+machine_stack_handoff,FUNC_9
+old,VAR_1
+new,VAR_2
+stack,VAR_3

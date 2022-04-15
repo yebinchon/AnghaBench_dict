@@ -1,0 +1,10 @@
+LM3601X_ENABLE_MASK,VAR_0
+LM3601X_ENABLE_REG,VAR_1
+LM3601X_MODE_STANDBY,VAR_2
+i2c_get_clientdata,FUNC_0
+led_classdev_flash_unregister,FUNC_1
+mutex_destroy,FUNC_2
+regmap_update_bits,FUNC_3
+lm3601x_remove,FUNC_4
+client,VAR_3
+led,VAR_4

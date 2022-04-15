@@ -1,0 +1,17 @@
+HID_DISCONNECTED,VAR_0
+HID_IN_POLLING,VAR_1
+HID_QUIRK_ALWAYS_POLL,VAR_2
+HID_STARTED,VAR_3
+WARN_ON,FUNC_0
+clear_bit,FUNC_1
+hid_cancel_delayed_stuff,FUNC_2
+hid_free_buffers,FUNC_3
+hid_to_usb_dev,FUNC_4
+set_bit,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+usb_free_urb,FUNC_8
+usb_kill_urb,FUNC_9
+usbhid_stop,FUNC_10
+hid,VAR_4
+usbhid,VAR_5

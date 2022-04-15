@@ -1,0 +1,14 @@
+LDNS_RR_TYPE_DNSKEY,VAR_0
+LDNS_RR_TYPE_DS,VAR_1
+LDNS_STATUS_ERR,VAR_2
+LDNS_STATUS_OK,VAR_3
+ldns_resolver_dnssec_anchors,FUNC_0
+ldns_resolver_set_dnssec_anchors,FUNC_1
+ldns_rr_clone,FUNC_2
+ldns_rr_get_type,FUNC_3
+ldns_rr_list_new,FUNC_4
+ldns_rr_list_push_rr,FUNC_5
+ldns_resolver_push_dnssec_anchor,FUNC_6
+r,VAR_4
+rr,VAR_5
+trust_anchors,VAR_6

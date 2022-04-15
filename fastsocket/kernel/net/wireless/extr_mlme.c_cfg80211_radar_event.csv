@@ -1,0 +1,16 @@
+IEEE80211_DFS_MIN_NOP_TIME_MS,VAR_0
+NL80211_DFS_UNAVAILABLE,VAR_1
+NL80211_RADAR_DETECTED,VAR_2
+cfg80211_set_dfs_state,FUNC_0
+cfg80211_wq,VAR_3
+msecs_to_jiffies,FUNC_1
+nl80211_radar_notify,FUNC_2
+queue_delayed_work,FUNC_3
+trace_cfg80211_radar_event,FUNC_4
+wiphy_to_dev,FUNC_5
+cfg80211_radar_event,FUNC_6
+wiphy,VAR_4
+chandef,VAR_5
+gfp,VAR_6
+rdev,VAR_7
+timeout,VAR_8

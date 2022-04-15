@@ -1,0 +1,16 @@
+ControlIsSeekRequest,FUNC_0
+VLC_EGENERIC,VAR_0
+VLC_SUCCESS,VAR_1
+input_priv,FUNC_1
+memmove,FUNC_2
+vlc_cond_timedwait,FUNC_3
+vlc_cond_wait,FUNC_4
+vlc_mutex_lock,FUNC_5
+vlc_mutex_unlock,FUNC_6
+ControlPop,FUNC_7
+p_input,VAR_2
+pi_type,VAR_3
+p_param,VAR_4
+i_deadline,VAR_5
+b_postpone_seek,VAR_6
+p_sys,VAR_7

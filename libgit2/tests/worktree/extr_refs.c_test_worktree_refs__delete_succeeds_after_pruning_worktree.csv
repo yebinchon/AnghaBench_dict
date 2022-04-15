@@ -1,0 +1,15 @@
+GIT_BRANCH_LOCAL,VAR_0
+GIT_WORKTREE_PRUNE_OPTIONS_INIT,VAR_1
+GIT_WORKTREE_PRUNE_VALID,VAR_2
+cl_git_pass,FUNC_0
+fixture,VAR_3
+git_branch_delete,FUNC_1
+git_branch_lookup,FUNC_2
+git_reference_free,FUNC_3
+git_worktree_free,FUNC_4
+git_worktree_lookup,FUNC_5
+git_worktree_prune,FUNC_6
+test_worktree_refs__delete_succeeds_after_pruning_worktree,FUNC_7
+opts,VAR_4
+branch,VAR_5
+worktree,VAR_6

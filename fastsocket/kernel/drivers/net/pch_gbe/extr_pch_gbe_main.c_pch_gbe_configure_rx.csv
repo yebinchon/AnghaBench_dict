@@ -1,0 +1,12 @@
+PCH_GBE_RX_DMA_EN,VAR_0
+ioread32,FUNC_0
+iowrite32,FUNC_1
+pch_gbe_disable_mac_rx,FUNC_2
+pch_gbe_mac_force_mac_fc,FUNC_3
+pr_debug,FUNC_4
+pch_gbe_configure_rx,FUNC_5
+adapter,VAR_1
+hw,VAR_2
+rdba,VAR_3
+rdlen,VAR_4
+rxdma,VAR_5

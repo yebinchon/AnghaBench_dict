@@ -1,0 +1,10 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_tree_entry_bypath,FUNC_2
+git_tree_entry_free,FUNC_3
+git_tree_entry_name,FUNC_4
+assert_tree_from_path,FUNC_5
+root,VAR_0
+path,VAR_1
+expected_entry_name,VAR_2
+entry,VAR_3

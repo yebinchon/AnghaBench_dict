@@ -1,0 +1,15 @@
+init_waitqueue_head,FUNC_0
+list_add_tail,FUNC_1
+list_is_singular,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+wake_up,FUNC_5
+xb_req_state_queued,VAR_0
+xb_waitq,VAR_1
+xb_write_list,VAR_2
+xb_write_mutex,VAR_3
+xs_request_enter,FUNC_6
+xs_send,FUNC_7
+req,VAR_4
+msg,VAR_5
+notify,VAR_6

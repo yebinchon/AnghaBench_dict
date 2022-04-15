@@ -1,0 +1,13 @@
+CONFIG_ACPI_APEI_GHES,VAR_0
+EINPROGRESS,VAR_1
+EOPNOTSUPP,VAR_2
+IS_ENABLED,FUNC_0
+might_sleep,FUNC_1
+schedule,FUNC_2
+sdei_event_disable,FUNC_3
+sdei_event_unregister,FUNC_4
+sdei_unregister_ghes,FUNC_5
+ghes,VAR_3
+i,VAR_4
+err,VAR_5
+event_num,VAR_6

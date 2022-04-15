@@ -1,0 +1,15 @@
+CB_GETCURSEL,VAR_0
+CB_GETITEMDATA,VAR_1
+LOWORD,FUNC_0
+SendMessageW,FUNC_1
+TRACE,FUNC_2
+TRUE,VAR_2
+cctrl_event_OnItemSelected,FUNC_3
+get_cctrl_from_dlgid,FUNC_4
+notifysink_on_cbn_selchange,FUNC_5
+This,VAR_3
+hwnd,VAR_4
+wparam,VAR_5
+ctrl,VAR_6
+index,VAR_7
+selid,VAR_8

@@ -1,0 +1,13 @@
+BPF_F_TUNINFO_IPV6,VAR_0
+ERROR,FUNC_0
+TC_ACT_OK,VAR_1
+TC_ACT_SHOT,VAR_2
+bpf_skb_get_tunnel_key,FUNC_1
+bpf_skb_get_tunnel_opt,FUNC_2
+bpf_trace_printk,FUNC_3
+_ip6geneve_get_tunnel,FUNC_4
+skb,VAR_3
+fmt,VAR_4
+key,VAR_5
+gopt,VAR_6
+ret,VAR_7

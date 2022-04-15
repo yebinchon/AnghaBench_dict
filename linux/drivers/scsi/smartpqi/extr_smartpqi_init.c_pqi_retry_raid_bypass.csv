@@ -1,0 +1,14 @@
+DID_RESET,VAR_0
+pqi_device_in_reset,FUNC_0
+pqi_free_io_request,FUNC_1
+pqi_raid_submit_scsi_cmd_with_io_request,FUNC_2
+pqi_reinit_io_request,FUNC_3
+pqi_scsi_done,FUNC_4
+set_host_byte,FUNC_5
+shost_to_hba,FUNC_6
+pqi_retry_raid_bypass,FUNC_7
+io_request,VAR_1
+scmd,VAR_2
+device,VAR_3
+ctrl_info,VAR_4
+queue_group,VAR_5

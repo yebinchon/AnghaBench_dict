@@ -1,0 +1,13 @@
+DMA_FROM_DEVICE,VAR_0
+IAVF_RX_DESC,FUNC_0
+cpu_to_le64,FUNC_1
+dma_sync_single_range_for_device,FUNC_2
+iavf_alloc_mapped_page,FUNC_3
+iavf_release_rx_desc,FUNC_4
+unlikely,FUNC_5
+iavf_alloc_rx_buffers,FUNC_6
+rx_ring,VAR_1
+cleaned_count,VAR_2
+ntu,VAR_3
+rx_desc,VAR_4
+bi,VAR_5

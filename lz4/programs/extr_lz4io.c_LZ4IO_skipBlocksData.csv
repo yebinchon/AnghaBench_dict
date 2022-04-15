@@ -1,0 +1,16 @@
+LZ4F_BLOCK_CHECKSUM_SIZE,VAR_0
+LZ4F_BLOCK_HEADER_SIZE,VAR_1
+LZ4F_CONTENT_CHECKSUM_SIZE,VAR_2
+LZ4IO_readLE32,FUNC_0
+SEEK_CUR,VAR_3
+UTIL_fseek,FUNC_1
+feof,FUNC_2
+fread,FUNC_3
+LZ4IO_skipBlocksData,FUNC_4
+finput,VAR_4
+blockChecksumFlag,VAR_5
+contentChecksumFlag,VAR_6
+blockInfo,VAR_7
+totalBlocksSize,VAR_8
+nextCBlockSize,VAR_9
+nextBlock,VAR_10

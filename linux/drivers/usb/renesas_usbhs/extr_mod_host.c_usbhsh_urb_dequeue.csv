@@ -1,0 +1,13 @@
+usbhs_pkt_pop,FUNC_0
+usbhsh_hcd_to_hpriv,FUNC_1
+usbhsh_hpriv_to_priv,FUNC_2
+usbhsh_queue_done,FUNC_3
+usbhsh_urb_to_ureq,FUNC_4
+usbhsh_urb_dequeue,FUNC_5
+hcd,VAR_0
+urb,VAR_1
+status,VAR_2
+hpriv,VAR_3
+ureq,VAR_4
+priv,VAR_5
+pkt,VAR_6

@@ -1,0 +1,17 @@
+HX509_EXTENSION_NOT_FOUND,VAR_0
+HX509_EXTRA_DATA_AFTER_STRUCTURE,VAR_1
+asn1_oid_id_pkix_pe_proxyCertInfo,VAR_2
+decode_ProxyCertInfo,FUNC_0
+find_extension,FUNC_1
+free_ProxyCertInfo,FUNC_2
+hx509_clear_error_string,FUNC_3
+memset,FUNC_4
+is_proxy_cert,FUNC_5
+context,VAR_3
+cert,VAR_4
+rinfo,VAR_5
+info,VAR_6
+e,VAR_7
+size,VAR_8
+ret,VAR_9
+i,VAR_10

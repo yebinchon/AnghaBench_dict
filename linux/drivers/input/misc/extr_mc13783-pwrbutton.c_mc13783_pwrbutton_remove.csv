@@ -1,0 +1,15 @@
+MC13783_BUTTON_ENABLE,VAR_0
+MC13783_IRQ_ONOFD1,VAR_1
+MC13783_IRQ_ONOFD2,VAR_2
+MC13783_IRQ_ONOFD3,VAR_3
+dev_get_platdata,FUNC_0
+input_unregister_device,FUNC_1
+kfree,FUNC_2
+mc13xxx_irq_free,FUNC_3
+mc13xxx_lock,FUNC_4
+mc13xxx_unlock,FUNC_5
+platform_get_drvdata,FUNC_6
+mc13783_pwrbutton_remove,FUNC_7
+pdev,VAR_4
+priv,VAR_5
+pdata,VAR_6

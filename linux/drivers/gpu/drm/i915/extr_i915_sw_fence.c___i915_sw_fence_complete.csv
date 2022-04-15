@@ -1,0 +1,14 @@
+DEBUG_FENCE_IDLE,VAR_0
+DEBUG_FENCE_NOTIFY,VAR_1
+FENCE_COMPLETE,VAR_2
+FENCE_FREE,VAR_3
+NOTIFY_DONE,VAR_4
+__i915_sw_fence_notify,FUNC_0
+__i915_sw_fence_wake_up_all,FUNC_1
+atomic_dec_and_test,FUNC_2
+debug_fence_assert,FUNC_3
+debug_fence_destroy,FUNC_4
+debug_fence_set_state,FUNC_5
+__i915_sw_fence_complete,FUNC_6
+fence,VAR_5
+continuation,VAR_6

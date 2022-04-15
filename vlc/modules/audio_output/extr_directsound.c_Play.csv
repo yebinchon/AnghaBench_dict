@@ -1,0 +1,15 @@
+DSBPLAY_LOOPING,VAR_0
+DSERR_BUFFERLOST,VAR_1
+DS_OK,VAR_2
+FillBuffer,FUNC_0
+IDirectSoundBuffer_Play,FUNC_1
+IDirectSoundBuffer_Restore,FUNC_2
+msg_Err,FUNC_3
+vlc_cond_signal,FUNC_4
+vlc_mutex_lock,FUNC_5
+vlc_mutex_unlock,FUNC_6
+Play,FUNC_7
+obj,VAR_3
+sys,VAR_4
+p_buffer,VAR_5
+dsresult,VAR_6

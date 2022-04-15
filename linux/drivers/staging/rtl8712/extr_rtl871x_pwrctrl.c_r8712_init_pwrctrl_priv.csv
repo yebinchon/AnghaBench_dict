@@ -1,0 +1,13 @@
+INIT_WORK,FUNC_0
+PS_MODE_ACTIVE,VAR_0
+PS_STATE_S4,VAR_1
+SetPSModeWorkItemCallback,VAR_2
+memset,FUNC_1
+mutex_init,FUNC_2
+r8712_write8,FUNC_3
+rpwm_check_handler,VAR_3
+rpwm_workitem_callback,VAR_4
+timer_setup,FUNC_4
+r8712_init_pwrctrl_priv,FUNC_5
+padapter,VAR_5
+pwrctrlpriv,VAR_6

@@ -1,0 +1,16 @@
+S2MPU02_BUCK1234_RAMP_MASK,VAR_0
+S2MPU02_BUCK1_RAMP_SHIFT,VAR_1
+S2MPU02_BUCK2_RAMP_SHIFT,VAR_2
+S2MPU02_BUCK3_RAMP_SHIFT,VAR_3
+S2MPU02_BUCK4_RAMP_SHIFT,VAR_4
+S2MPU02_REG_RAMP1,VAR_5
+get_ramp_delay,FUNC_0
+rdev_get_id,FUNC_1
+regmap_update_bits,FUNC_2
+s2mpu02_set_ramp_delay,FUNC_3
+rdev,VAR_6
+ramp_delay,VAR_7
+ramp_val,VAR_8
+ramp_shift,VAR_9
+ramp_reg,VAR_10
+rdev_id,VAR_11

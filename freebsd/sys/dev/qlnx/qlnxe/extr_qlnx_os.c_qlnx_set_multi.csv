@@ -1,0 +1,14 @@
+ETHER_HDR_LEN,VAR_0
+QLNX_LOCK,FUNC_0
+QLNX_MAX_NUM_MULTICAST_ADDRS,VAR_1
+QLNX_UNLOCK,FUNC_1
+if_foreach_llmaddr,FUNC_2
+qlnx_copy_maddr,VAR_2
+qlnx_hw_set_multi,FUNC_3
+qlnx_vf_device,FUNC_4
+qlnx_set_multi,FUNC_5
+ha,VAR_3
+add_multi,VAR_4
+mta,VAR_5
+ifp,VAR_6
+mcnt,VAR_7

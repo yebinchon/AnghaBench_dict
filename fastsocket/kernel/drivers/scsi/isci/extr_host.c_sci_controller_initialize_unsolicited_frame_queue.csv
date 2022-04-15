@@ -1,0 +1,14 @@
+ENABLE_BIT,VAR_0
+POINTER,VAR_1
+QUEUE_SIZE,VAR_2
+SCU_MAX_UNSOLICITED_FRAMES,VAR_3
+SCU_UFQC_GEN_VAL,FUNC_0
+SCU_UFQGP_GEN_BIT,FUNC_1
+SCU_UFQGP_GEN_VAL,FUNC_2
+SCU_UFQPP_GEN_VAL,FUNC_3
+writel,FUNC_4
+sci_controller_initialize_unsolicited_frame_queue,FUNC_5
+ihost,VAR_4
+frame_queue_control_value,VAR_5
+frame_queue_get_value,VAR_6
+frame_queue_put_value,VAR_7

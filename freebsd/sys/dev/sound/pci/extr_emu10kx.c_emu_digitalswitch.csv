@@ -1,0 +1,8 @@
+CTLFLAG_RW,VAR_0
+CTLTYPE_INT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+sysctl_emu_digitalswitch_control,VAR_3
+emu_digitalswitch,FUNC_2
+sc,VAR_4

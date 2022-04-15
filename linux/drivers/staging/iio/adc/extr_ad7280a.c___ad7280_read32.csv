@@ -1,0 +1,9 @@
+AD7280A_READ_TXVAL,VAR_0
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+spi_sync_transfer,FUNC_2
+__ad7280_read32,FUNC_3
+st,VAR_1
+val,VAR_2
+ret,VAR_3
+t,VAR_4

@@ -1,0 +1,14 @@
+ExAcquireResourceExclusiveLite,FUNC_0
+ExAcquireResourceSharedLite,FUNC_1
+ExReleaseResourceLite,FUNC_2
+IRP_MN_CANCEL_REMOVE_DEVICE,VAR_0
+NT_SUCCESS,FUNC_3
+STATUS_ACCESS_DENIED,VAR_1
+STATUS_SUCCESS,VAR_2
+WARN,FUNC_4
+has_open_children,FUNC_5
+send_disks_pnp_message,FUNC_6
+pnp_cancel_remove_device,FUNC_7
+DeviceObject,VAR_3
+Vcb,VAR_4
+Status,VAR_5

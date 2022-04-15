@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+__freehostent,FUNC_1
+__gethostbyname2,FUNC_2
+af_type,VAR_0
+clone_hostent,FUNC_3
+hostent_test_correctness,FUNC_4
+memset,FUNC_5
+printf,FUNC_6
+strdup,FUNC_7
+hostent_read_hostlist_func,FUNC_8
+he,VAR_1
+line,VAR_2
+result,VAR_3
+rv,VAR_4

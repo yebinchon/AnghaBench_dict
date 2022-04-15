@@ -1,0 +1,11 @@
+GET_SQ_DESC,FUNC_0
+NIC_SEND_LD_TYPE_E_LDD,VAR_0
+SND_QUEUE_DESC_SIZE,VAR_1
+SQ_DESC_TYPE_GATHER,VAR_2
+memset,FUNC_1
+nicvf_sq_add_gather_subdesc,FUNC_2
+sq,VAR_3
+qentry,VAR_4
+size,VAR_5
+data,VAR_6
+gather,VAR_7

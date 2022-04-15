@@ -1,0 +1,16 @@
+CFISCSI_TARGET_STATE_DYING,VAR_0
+CTL_LUN_ERROR,VAR_1
+CTL_LUN_OK,VAR_2
+cfiscsi_softc,VAR_3
+cfiscsi_target_find,FUNC_0
+cfiscsi_target_release,FUNC_1
+ctl_port_offline,FUNC_2
+dnvlist_get_string,FUNC_3
+snprintf,FUNC_4
+strtoul,FUNC_5
+cfiscsi_ioctl_port_remove,FUNC_6
+req,VAR_4
+ct,VAR_5
+target,VAR_6
+val,VAR_7
+tag,VAR_8

@@ -1,0 +1,8 @@
+HFI1_S_ANY_WAIT_IO,VAR_0
+IOWAIT_PENDING_IB,VAR_1
+_hfi1_schedule_send,FUNC_0
+hfi1_send_ok,FUNC_1
+iowait_set_flag,FUNC_2
+lockdep_assert_held,FUNC_3
+hfi1_schedule_send,FUNC_4
+qp,VAR_2

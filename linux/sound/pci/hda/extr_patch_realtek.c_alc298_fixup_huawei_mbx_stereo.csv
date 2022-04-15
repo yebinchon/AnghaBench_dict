@@ -1,0 +1,13 @@
+AC_VERB_SET_COEF_INDEX,VAR_0
+AC_VERB_SET_DIGI_CONVERT_3,VAR_1
+AC_VERB_SET_PROC_COEF,VAR_2
+HDA_FIXUP_ACT_INIT,VAR_3
+alc298_huawei_mbx_stereo_seq,FUNC_0
+alc_write_coef_idx,FUNC_1
+snd_hda_codec_write,FUNC_2
+alc298_fixup_huawei_mbx_stereo,FUNC_3
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+dac_init,VAR_7
+seq,VAR_8

@@ -1,0 +1,16 @@
+MLXSW_REG_HPKT_ACK_NOT_REQUIRED,VAR_0
+MLXSW_REG_HPKT_CTRL_PACKET_NO_BUFFER,VAR_1
+MLXSW_REG_HPKT_CTRL_PACKET_USE_BUFFER,VAR_2
+MLXSW_REG_ZERO,FUNC_0
+hpkt,VAR_3
+mlxsw_reg_hpkt_ack_set,FUNC_1
+mlxsw_reg_hpkt_action_set,FUNC_2
+mlxsw_reg_hpkt_ctrl_set,FUNC_3
+mlxsw_reg_hpkt_trap_group_set,FUNC_4
+mlxsw_reg_hpkt_trap_id_set,FUNC_5
+mlxsw_reg_hpkt_pack,FUNC_6
+payload,VAR_4
+action,VAR_5
+trap_id,VAR_6
+trap_group,VAR_7
+is_ctrl,VAR_8

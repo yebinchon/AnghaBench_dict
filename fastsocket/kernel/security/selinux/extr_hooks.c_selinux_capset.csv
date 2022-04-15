@@ -1,0 +1,10 @@
+PROCESS__SETCAP,VAR_0
+cap_capset,FUNC_0
+cred_has_perm,FUNC_1
+selinux_capset,FUNC_2
+new,VAR_1
+old,VAR_2
+effective,VAR_3
+inheritable,VAR_4
+permitted,VAR_5
+error,VAR_6

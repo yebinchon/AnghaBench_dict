@@ -1,0 +1,15 @@
+MLX5_CMD_OP_QUERY_SPECIAL_CONTEXTS,VAR_0
+MLX5_GET,FUNC_0
+MLX5_SET,FUNC_1
+MLX5_ST_SZ_DW,FUNC_2
+memset,FUNC_3
+mlx5_cmd_exec,FUNC_4
+opcode,VAR_1
+query_special_contexts_in,VAR_2
+query_special_contexts_out,VAR_3
+resd_lkey,VAR_4
+mlx5_core_query_special_contexts,FUNC_5
+dev,VAR_5
+in,VAR_6
+out,VAR_7
+err,VAR_8

@@ -1,0 +1,16 @@
+BooleanFlagOn,FUNC_0
+DPRINT,FUNC_1
+ExAcquireResourceExclusiveLite,FUNC_2
+ExReleaseResourceLite,FUNC_3
+IRPCONTEXT_CANWAIT,VAR_0
+NtfsCloseFile,FUNC_4
+NtfsGlobalData,VAR_1
+NtfsMarkIrpContextForQueue,FUNC_5
+STATUS_PENDING,VAR_2
+STATUS_SUCCESS,VAR_3
+NtfsClose,FUNC_6
+IrpContext,VAR_4
+DeviceExtension,VAR_5
+FileObject,VAR_6
+Status,VAR_7
+DeviceObject,VAR_8

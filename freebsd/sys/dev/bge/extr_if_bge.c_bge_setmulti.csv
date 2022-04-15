@@ -1,0 +1,13 @@
+BGE_LOCK_ASSERT,FUNC_0
+BGE_MAR0,VAR_0
+CSR_WRITE_4,FUNC_1
+IFF_ALLMULTI,VAR_1
+IFF_PROMISC,VAR_2
+bge_hash_maddr,VAR_3
+if_foreach_llmaddr,FUNC_2
+if_getflags,FUNC_3
+bge_setmulti,FUNC_4
+sc,VAR_4
+ifp,VAR_5
+hashes,VAR_6
+i,VAR_7

@@ -1,0 +1,7 @@
+CFG_SATA_ENET_SELECT_MASK,VAR_0
+SATA_ENET_CONFIG_REG,VAR_1
+readl,FUNC_0
+writel,FUNC_1
+xgene_ahci_mux_select,FUNC_2
+ctx,VAR_2
+val,VAR_3

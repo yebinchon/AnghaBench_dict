@@ -1,0 +1,16 @@
+IB_AH_GRH,VAR_0
+IB_LINK_LAYER_ETHERNET,VAR_1
+IB_LINK_LAYER_INFINIBAND,VAR_2
+MLX4_STAT_RATE_OFFSET,VAR_3
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+mlx4_ib_ah_grh_present,FUNC_4
+rdma_port_get_link_layer,FUNC_5
+to_mah,FUNC_6
+mlx4_ib_query_ah,FUNC_7
+ibah,VAR_4
+ah_attr,VAR_5
+ah,VAR_6
+ll,VAR_7

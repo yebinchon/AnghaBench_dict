@@ -1,0 +1,12 @@
+ADP1653_REG_FAULT,VAR_0
+ADP1653_REG_OUT_SEL,VAR_1
+V4L2_FLASH_LED_MODE_NONE,VAR_2
+adp1653_update_hw,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+v4l2_get_subdevdata,FUNC_3
+adp1653_get_fault,FUNC_4
+flash,VAR_3
+client,VAR_4
+fault,VAR_5
+rval,VAR_6

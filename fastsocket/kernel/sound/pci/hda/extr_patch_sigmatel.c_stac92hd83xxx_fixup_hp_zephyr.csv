@@ -1,0 +1,9 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+hp_zephyr_pin_configs,VAR_1
+snd_hda_add_verbs,FUNC_0
+snd_hda_apply_pincfgs,FUNC_1
+stac92hd83xxx_hp_zephyr_init,VAR_2
+stac92hd83xxx_fixup_hp_zephyr,FUNC_2
+codec,VAR_3
+fix,VAR_4
+action,VAR_5

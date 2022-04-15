@@ -1,0 +1,10 @@
+CMD,VAR_0
+TLV_TYPE_WAPI_IE,VAR_1
+cpu_to_le16,FUNC_0
+memcpy,FUNC_1
+mwifiex_dbg,FUNC_2
+mwifiex_cmd_append_wapi_ie,FUNC_3
+priv,VAR_2
+buffer,VAR_3
+retLen,VAR_4
+ie_header,VAR_5

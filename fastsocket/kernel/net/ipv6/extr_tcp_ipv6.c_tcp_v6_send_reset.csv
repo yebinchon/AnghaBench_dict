@@ -1,0 +1,13 @@
+ipv6_hdr,FUNC_0
+ipv6_unicast_destination,FUNC_1
+ntohl,FUNC_2
+tcp_hdr,FUNC_3
+tcp_v6_md5_do_lookup,FUNC_4
+tcp_v6_send_response,FUNC_5
+tcp_v6_send_reset,FUNC_6
+sk,VAR_0
+skb,VAR_1
+th,VAR_2
+seq,VAR_3
+ack_seq,VAR_4
+key,VAR_5

@@ -1,0 +1,10 @@
+amdtp_stream_pcm_running,FUNC_0
+init_hw_params,FUNC_1
+limit_to_current_params,FUNC_2
+snd_oxfw_stream_lock_release,FUNC_3
+snd_oxfw_stream_lock_try,FUNC_4
+snd_pcm_set_sync,FUNC_5
+pcm_open,FUNC_6
+substream,VAR_0
+oxfw,VAR_1
+err,VAR_2

@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+LDT_ENTRY_SIZE,VAR_1
+alloc_ldt_struct,FUNC_0
+finalize_ldt_struct,FUNC_1
+free_ldt_pgtables,FUNC_2
+free_ldt_struct,FUNC_3
+map_ldt_struct,FUNC_4
+memcpy,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+ldt_dup_context,FUNC_8
+old_mm,VAR_2
+mm,VAR_3
+new_ldt,VAR_4
+retval,VAR_5

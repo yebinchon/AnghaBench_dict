@@ -1,0 +1,14 @@
+AK4396_ADDR,VAR_0
+AK4396_CCLK,VAR_1
+AK4396_CDTI,VAR_2
+AK4396_CSN,VAR_3
+ak4396_send_word,FUNC_0
+set_gpio_bit,FUNC_1
+snd_ice1712_gpio_set_dir,FUNC_2
+snd_ice1712_gpio_set_mask,FUNC_3
+udelay,FUNC_4
+ak4396_write,FUNC_5
+ice,VAR_4
+reg,VAR_5
+data,VAR_6
+block,VAR_7

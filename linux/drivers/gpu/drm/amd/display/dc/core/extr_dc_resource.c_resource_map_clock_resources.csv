@@ -1,0 +1,15 @@
+DC_ERROR_UNEXPECTED,VAR_0
+DC_NO_CLOCK_SOURCE_RESOURCE,VAR_1
+DC_OK,VAR_2
+SIGNAL_TYPE_VIRTUAL,VAR_3
+dc_is_dp_signal,FUNC_0
+dc_resource_find_first_free_pll,FUNC_1
+resource_find_used_clk_src_for_sharing,FUNC_2
+resource_get_head_pipe_for_stream,FUNC_3
+resource_reference_clock_source,FUNC_4
+resource_map_clock_resources,FUNC_5
+dc,VAR_4
+context,VAR_5
+stream,VAR_6
+pool,VAR_7
+pipe_ctx,VAR_8

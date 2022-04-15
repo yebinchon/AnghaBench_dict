@@ -1,0 +1,17 @@
+PGM_ADDRESSING,VAR_0
+PGM_PRIVILEGED_OP,VAR_1
+PGM_SPECIFICATION,VAR_2
+PSW_MASK_PSTATE,VAR_3
+kvm_is_error_gpa,FUNC_0
+kvm_s390_get_base_disp_s,FUNC_1
+kvm_s390_inject_prog_cond,FUNC_2
+kvm_s390_inject_program_int,FUNC_3
+kvm_s390_set_prefix,FUNC_4
+read_guest,FUNC_5
+trace_kvm_s390_handle_prefix,FUNC_6
+handle_set_prefix,FUNC_7
+vcpu,VAR_4
+operand2,VAR_5
+address,VAR_6
+rc,VAR_7
+ar,VAR_8

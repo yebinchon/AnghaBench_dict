@@ -1,0 +1,14 @@
+EACCES,VAR_0
+EIO,VAR_1
+SECTOR_SIZE,VAR_2
+do_writesect,FUNC_0
+mark_sector_deleted,FUNC_1
+pr_debug,FUNC_2
+rfd_ftl_writesect,FUNC_3
+dev,VAR_3
+sector,VAR_4
+buf,VAR_5
+part,VAR_6
+old_addr,VAR_7
+i,VAR_8
+rc,VAR_9

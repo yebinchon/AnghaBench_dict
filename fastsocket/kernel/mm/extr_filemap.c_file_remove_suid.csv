@@ -1,0 +1,10 @@
+__remove_suid,FUNC_0
+security_inode_killpriv,FUNC_1
+security_inode_need_killpriv,FUNC_2
+should_remove_suid,FUNC_3
+file_remove_suid,FUNC_4
+file,VAR_0
+dentry,VAR_1
+killsuid,VAR_2
+killpriv,VAR_3
+error,VAR_4

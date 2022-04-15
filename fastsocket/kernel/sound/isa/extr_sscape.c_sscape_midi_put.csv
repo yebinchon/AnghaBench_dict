@@ -1,0 +1,17 @@
+CMD_SET_MIDI_VOL,VAR_0
+CMD_XXX_MIDI_VOL,VAR_1
+get_card_soundscape,FUNC_0
+host_write_ctrl_unsafe,FUNC_1
+set_host_mode_unsafe,FUNC_2
+set_midi_mode_unsafe,FUNC_3
+snd_kcontrol_chip,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+sscape_midi_put,FUNC_7
+kctl,VAR_2
+uctl,VAR_3
+chip,VAR_4
+card,VAR_5
+s,VAR_6
+flags,VAR_7
+change,VAR_8

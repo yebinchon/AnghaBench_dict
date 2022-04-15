@@ -1,0 +1,17 @@
+LH_BUCKET_PAGE,VAR_0
+LH_OVERFLOW_PAGE,VAR_1
+LH_PAGE_HAS_DEAD_TUPLES,VAR_2
+LH_PAGE_TYPE,VAR_3
+LH_UNUSED_PAGE,VAR_4
+PageGetSpecialPointer,FUNC_0
+mask_lp_flags,FUNC_1
+mask_page_content,FUNC_2
+mask_page_hint_bits,FUNC_3
+mask_page_lsn_and_checksum,FUNC_4
+mask_unused_space,FUNC_5
+hash_mask,FUNC_6
+pagedata,VAR_5
+blkno,VAR_6
+page,VAR_7
+opaque,VAR_8
+pagetype,VAR_9

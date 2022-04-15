@@ -1,0 +1,14 @@
+KTHREAD_SHOULD_STOP,VAR_0
+get_task_struct,FUNC_0
+kthread_unpark,FUNC_1
+put_task_struct,FUNC_2
+set_bit,FUNC_3
+to_kthread,FUNC_4
+trace_sched_kthread_stop,FUNC_5
+trace_sched_kthread_stop_ret,FUNC_6
+wait_for_completion,FUNC_7
+wake_up_process,FUNC_8
+kthread_stop,FUNC_9
+k,VAR_1
+kthread,VAR_2
+ret,VAR_3

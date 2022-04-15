@@ -1,0 +1,16 @@
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+NFE_RXTX_CTL,VAR_2
+NFE_RXTX_KICKTX,VAR_3
+NFE_WRITE,FUNC_0
+if_getsoftc,FUNC_1
+if_inc_counter,FUNC_2
+if_printf,FUNC_3
+if_sendq_empty,FUNC_4
+if_setdrvflagbits,FUNC_5
+nfe_init_locked,FUNC_6
+nfe_start_locked,FUNC_7
+nfe_txeof,FUNC_8
+nfe_watchdog,FUNC_9
+ifp,VAR_4
+sc,VAR_5

@@ -1,0 +1,12 @@
+atomic_notifier_chain_unregister,FUNC_0
+drm_fb_helper_crtc_free,FUNC_1
+kernel_fb_helper_list,VAR_0
+list_del,FUNC_2
+list_empty,FUNC_3
+panic_notifier_list,VAR_1
+paniced,VAR_2
+pr_info,FUNC_4
+sysrq_drm_fb_helper_restore_op,VAR_3
+unregister_sysrq_key,FUNC_5
+drm_fb_helper_fini,FUNC_6
+fb_helper,VAR_4

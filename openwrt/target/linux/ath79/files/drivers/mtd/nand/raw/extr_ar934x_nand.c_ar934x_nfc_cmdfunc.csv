@@ -1,0 +1,17 @@
+NAND_ECC_HW,VAR_0
+WARN_ON,FUNC_0
+ar934x_nfc_read_status,FUNC_1
+ar934x_nfc_send_cmd,FUNC_2
+ar934x_nfc_send_erase,FUNC_3
+ar934x_nfc_send_read,FUNC_4
+ar934x_nfc_send_readid,FUNC_5
+ar934x_nfc_send_write,FUNC_6
+dev_err,FUNC_7
+mtd_to_ar934x_nfc,FUNC_8
+ar934x_nfc_cmdfunc,FUNC_9
+mtd,VAR_1
+command,VAR_2
+column,VAR_3
+page_addr,VAR_4
+nfc,VAR_5
+nand,VAR_6

@@ -1,0 +1,16 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_PPBS_LEN,VAR_0
+MLXSW_SP_KVDL_ENTRY_TYPE_PBS,VAR_1
+mlxsw_reg_ppbs_pack,FUNC_1
+mlxsw_reg_write,FUNC_2
+mlxsw_sp_kvdl_alloc,FUNC_3
+mlxsw_sp_kvdl_free,FUNC_4
+ppbs,VAR_2
+mlxsw_sp_act_kvdl_fwd_entry_add,FUNC_5
+priv,VAR_3
+p_kvdl_index,VAR_4
+local_port,VAR_5
+mlxsw_sp,VAR_6
+ppbs_pl,VAR_7
+kvdl_index,VAR_8
+err,VAR_9

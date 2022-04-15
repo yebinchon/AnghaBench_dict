@@ -1,0 +1,14 @@
+AOUT_VOLUME_DEFAULT,VAR_0
+AudioUnitSetParameter,FUNC_0
+VLC_EGENERIC,VAR_1
+aout_VolumeReport,FUNC_1
+config_PutInt,FUNC_2
+kAudioUnitScope_Global,VAR_2
+kHALOutputParam_Volume,VAR_3
+lroundf,FUNC_3
+var_InheritBool,FUNC_4
+VolumeSet,FUNC_5
+p_aout,VAR_4
+volume,VAR_5
+p_sys,VAR_6
+ostatus,VAR_7

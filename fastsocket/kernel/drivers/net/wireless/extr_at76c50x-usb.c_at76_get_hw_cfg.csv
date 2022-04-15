@@ -1,0 +1,10 @@
+USB_CTRL_GET_TIMEOUT,VAR_0
+USB_DIR_IN,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+usb_control_msg,FUNC_0
+usb_rcvctrlpipe,FUNC_1
+at76_get_hw_cfg,FUNC_2
+udev,VAR_4
+buf,VAR_5
+buf_size,VAR_6

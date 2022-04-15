@@ -1,0 +1,14 @@
+HvCallEvent_ackLpEvent,FUNC_0
+HvCallEvent_getTargetLpInstanceId,FUNC_1
+HvLpEvent_Rc_BufferNotAvailable,VAR_0
+HvLpEvent_Type_VirtualLan,VAR_1
+VETH_STATE_GOTCAPS,VAR_2
+memcpy,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+veth_error,FUNC_5
+veth_kick_statemachine,FUNC_6
+veth_take_cap,FUNC_7
+cnx,VAR_3
+event,VAR_4
+flags,VAR_5

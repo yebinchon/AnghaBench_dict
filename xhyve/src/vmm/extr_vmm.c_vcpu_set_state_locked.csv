@@ -1,0 +1,14 @@
+EBUSY,VAR_0
+KASSERT,FUNC_0
+pthread_cond_broadcast,FUNC_1
+pthread_cond_timedwait_relative_np,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+vcpu_lock,FUNC_5
+vcpu_unlock,FUNC_6
+vcpu_set_state_locked,FUNC_7
+vcpu,VAR_1
+newstate,VAR_2
+from_idle,VAR_3
+error,VAR_4
+ts,VAR_5

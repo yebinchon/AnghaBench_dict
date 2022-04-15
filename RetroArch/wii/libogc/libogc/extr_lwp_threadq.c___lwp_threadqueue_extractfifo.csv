@@ -1,0 +1,12 @@
+_CPU_ISR_Disable,FUNC_0
+_CPU_ISR_Restore,FUNC_1
+__lwp_queue_extractI,FUNC_2
+__lwp_statewaitthreadqueue,FUNC_3
+__lwp_thread_unblock,FUNC_4
+__lwp_wd_deactivate,FUNC_5
+__lwp_wd_isactive,FUNC_6
+__lwp_wd_remove_ticks,FUNC_7
+__lwp_threadqueue_extractfifo,FUNC_8
+queue,VAR_0
+thethread,VAR_1
+level,VAR_2

@@ -1,0 +1,12 @@
+MPI2_IOCSTATUS_CONFIG_INVALID_PAGE,VAR_0
+MPI2_IOCSTATUS_MASK,VAR_1
+MPI2_RAID_VOLUME_PGAD_FORM_GET_NEXT_HANDLE,VAR_2
+le16_to_cpu,FUNC_0
+mpt2sas_config_get_raid_volume_pg1,FUNC_1
+_scsih_get_num_volumes,FUNC_2
+ioc,VAR_3
+vol_pg1,VAR_4
+mpi_reply,VAR_5
+handle,VAR_6
+vol_cnt,VAR_7
+ioc_status,VAR_8

@@ -1,0 +1,15 @@
+MSR_TURBO_RATIO_LIMIT,VAR_0
+MSR_TURBO_RATIO_LIMIT1,VAR_1
+base_cpu,VAR_2
+bclk,VAR_3
+fprintf,FUNC_0
+get_msr,FUNC_1
+has_turbo_ratio_group_limits,FUNC_2
+outf,VAR_4
+dump_turbo_ratio_limits,FUNC_3
+family,VAR_5
+model,VAR_6
+msr,VAR_7
+core_counts,VAR_8
+ratio,VAR_9
+group_size,VAR_10

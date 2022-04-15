@@ -1,0 +1,15 @@
+AC_USRSP_EN,VAR_0
+AC_VERB_SET_UNSOLICITED_ENABLE,VAR_1
+ENOMEM,VAR_2
+ERR_PTR,FUNC_0
+GFP_KERNEL,VAR_3
+kzalloc,FUNC_1
+snd_hda_codec_write_cache,FUNC_2
+snd_hda_jack_tbl_new,FUNC_3
+snd_hda_jack_detect_enable_callback,FUNC_4
+codec,VAR_4
+nid,VAR_5
+func,VAR_6
+jack,VAR_7
+callback,VAR_8
+err,VAR_9

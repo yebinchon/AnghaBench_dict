@@ -1,0 +1,16 @@
+CSR,VAR_0
+TXX9_DMA_CSR_ABCHC,VAR_1
+TXX9_DMA_CSR_NCHNC,VAR_2
+TXX9_DMA_CSR_NTRNFC,VAR_3
+chan2dev,FUNC_0
+channel_readl,FUNC_1
+dev_vdbg,FUNC_2
+enable_irq,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+txx9dmac_scan_descriptors,FUNC_6
+txx9dmac_chan_tasklet,FUNC_7
+data,VAR_4
+irq,VAR_5
+csr,VAR_6
+dc,VAR_7

@@ -1,0 +1,12 @@
+CEPH_DENTRY_LEASE_LIST,VAR_0
+CEPH_DENTRY_REFERENCED,VAR_1
+CEPH_DENTRY_SHRINK_LIST,VAR_2
+ceph_sb_to_client,FUNC_0
+dout,FUNC_1
+list_move_tail,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+__ceph_dentry_lease_touch,FUNC_5
+di,VAR_3
+dn,VAR_4
+mdsc,VAR_5

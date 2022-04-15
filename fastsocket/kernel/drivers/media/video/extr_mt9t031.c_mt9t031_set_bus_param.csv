@@ -1,0 +1,12 @@
+EINVAL,VAR_0
+MT9T031_BUS_PARAM,VAR_1
+MT9T031_PIXEL_CLOCK_CONTROL,VAR_2
+SOCAM_PCLK_SAMPLE_FALLING,VAR_3
+reg_clear,FUNC_0
+reg_set,FUNC_1
+to_i2c_client,FUNC_2
+to_soc_camera_control,FUNC_3
+mt9t031_set_bus_param,FUNC_4
+icd,VAR_4
+flags,VAR_5
+client,VAR_6

@@ -1,0 +1,9 @@
+BEx_chip,FUNC_0
+POST_STAGE_MASK,VAR_0
+SLIPORT_SEMAPHORE_OFFSET_BEx,VAR_1
+SLIPORT_SEMAPHORE_OFFSET_SH,VAR_2
+ioread32,FUNC_1
+pci_read_config_dword,FUNC_2
+be_POST_stage_get,FUNC_3
+adapter,VAR_3
+sem,VAR_4

@@ -1,0 +1,15 @@
+SD_EVENT_OFF,VAR_0
+SD_EVENT_ON,VAR_1
+assert,FUNC_0
+sd_event_source_set_enabled,FUNC_1
+sd_event_source_set_io_events,FUNC_2
+sd_event_source_set_time,FUNC_3
+varlink_get_events,FUNC_4
+varlink_get_timeout,FUNC_5
+prepare_callback,FUNC_6
+s,VAR_2
+userdata,VAR_3
+v,VAR_4
+r,VAR_5
+e,VAR_6
+until,VAR_7

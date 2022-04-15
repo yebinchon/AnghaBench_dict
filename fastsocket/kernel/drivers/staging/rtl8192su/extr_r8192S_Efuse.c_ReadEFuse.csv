@@ -1,0 +1,16 @@
+EFUSE_Read1Byte,FUNC_0
+ReadEFuseByte,FUNC_1
+printk,FUNC_2
+ReadEFuse,FUNC_3
+dev,VAR_0
+_offset,VAR_1
+_size_byte,VAR_2
+pbuf,VAR_3
+efuseTbl,VAR_4
+rtemp8,VAR_5
+eFuse_Addr,VAR_6
+offset,VAR_7
+wren,VAR_8
+i,VAR_9
+j,VAR_10
+eFuseWord,VAR_11

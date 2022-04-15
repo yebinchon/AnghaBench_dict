@@ -1,0 +1,17 @@
+TEST_CHECK,FUNC_0
+cf_aes,VAR_0
+cf_aes_init,FUNC_1
+cf_cbcmac_stream_init,FUNC_2
+cf_cbcmac_stream_pad_final,FUNC_3
+cf_cbcmac_stream_update,FUNC_4
+memcmp,FUNC_5
+cbcmac_vector,FUNC_6
+tag_expect,VAR_1
+ntag,VAR_2
+key,VAR_3
+nkey,VAR_4
+msg,VAR_5
+nmsg,VAR_6
+tag,VAR_7
+aes,VAR_8
+cm,VAR_9

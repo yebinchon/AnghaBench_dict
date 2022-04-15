@@ -1,0 +1,12 @@
+F2FS_SUPER_OFFSET,VAR_0
+REQ_FUA,VAR_1
+REQ_PREFLUSH,VAR_2
+REQ_SYNC,VAR_3
+__sync_dirty_buffer,FUNC_0
+lock_buffer,FUNC_1
+memcpy,FUNC_2
+set_buffer_dirty,FUNC_3
+unlock_buffer,FUNC_4
+__f2fs_commit_super,FUNC_5
+bh,VAR_4
+super,VAR_5

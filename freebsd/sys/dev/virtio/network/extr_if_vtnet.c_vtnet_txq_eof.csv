@@ -1,0 +1,13 @@
+M_MCAST,VAR_0
+VTNET_TXQ_LOCK_ASSERT,FUNC_0
+m_freem,FUNC_1
+uma_zfree,FUNC_2
+virtqueue_dequeue,FUNC_3
+virtqueue_empty,FUNC_4
+vtnet_tx_header_zone,VAR_1
+vtnet_txq_eof,FUNC_5
+txq,VAR_2
+vq,VAR_3
+txhdr,VAR_4
+m,VAR_5
+deq,VAR_6

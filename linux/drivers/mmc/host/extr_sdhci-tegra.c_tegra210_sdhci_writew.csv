@@ -1,0 +1,17 @@
+MMC_SEND_TUNING_BLOCK,VAR_0
+MMC_SEND_TUNING_BLOCK_HS200,VAR_1
+SDHCI_COMMAND,VAR_2
+SDHCI_GET_CMD,FUNC_0
+SDHCI_RESET_CMD,VAR_3
+SDHCI_RESET_DATA,VAR_4
+sdhci_reset,FUNC_1
+tegra_sdhci_configure_card_clk,FUNC_2
+udelay,FUNC_3
+writew,FUNC_4
+tegra210_sdhci_writew,FUNC_5
+host,VAR_5
+val,VAR_6
+reg,VAR_7
+is_tuning_cmd,VAR_8
+clk_enabled,VAR_9
+cmd,VAR_10

@@ -1,0 +1,13 @@
+APPLESPI_PACKET_SIZE,VAR_0
+APPLESPI_STATUS_SIZE,VAR_1
+SPI_RW_CHG_DELAY_US,VAR_2
+memset,FUNC_0
+spi_message_add_tail,FUNC_1
+spi_message_init,FUNC_2
+applespi_setup_write_txfrs,FUNC_3
+applespi,VAR_3
+msg,VAR_4
+wt_t,VAR_5
+dl_t,VAR_6
+wr_t,VAR_7
+st_t,VAR_8

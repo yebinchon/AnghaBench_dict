@@ -1,0 +1,16 @@
+WARN_ON_ONCE,FUNC_0
+bdev_write_inode,FUNC_1
+bdput,FUNC_2
+disk_put_part,FUNC_3
+kill_bdev,FUNC_4
+mutex_lock_nested,FUNC_5
+mutex_unlock,FUNC_6
+put_disk_and_module,FUNC_7
+stub1,FUNC_8
+sync_blockdev,FUNC_9
+__blkdev_put,FUNC_10
+bdev,VAR_0
+mode,VAR_1
+for_part,VAR_2
+disk,VAR_3
+victim,VAR_4

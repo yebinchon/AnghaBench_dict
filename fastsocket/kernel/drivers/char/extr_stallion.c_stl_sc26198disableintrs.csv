@@ -1,0 +1,11 @@
+BRDDISABLE,FUNC_0
+BRDENABLE,FUNC_1
+IMR,VAR_0
+brd_lock,VAR_1
+pr_debug,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stl_sc26198setreg,FUNC_5
+stl_sc26198disableintrs,FUNC_6
+portp,VAR_2
+flags,VAR_3

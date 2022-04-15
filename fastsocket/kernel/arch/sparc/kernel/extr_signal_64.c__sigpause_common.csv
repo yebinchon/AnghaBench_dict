@@ -1,0 +1,12 @@
+ERESTARTNOHAND,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+_BLOCKABLE,VAR_2
+current,VAR_3
+recalc_sigpending,FUNC_0
+schedule,FUNC_1
+set_restore_sigmask,FUNC_2
+siginitset,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+_sigpause_common,FUNC_6
+set,VAR_4

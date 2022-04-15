@@ -1,0 +1,14 @@
+DEVFS_CHAR,VAR_0
+DTRACEMNR_HELPER,VAR_1
+GID_WHEEL,VAR_2
+HELPER_MAJOR,VAR_3
+UID_ROOT,VAR_4
+cdevsw_add,FUNC_0
+devfs_make_node,FUNC_1
+gDTraceInited,VAR_5
+helper_cdevsw,VAR_6
+helper_majdevno,VAR_7
+makedev,FUNC_2
+panic,FUNC_3
+printf,FUNC_4
+helper_init,FUNC_5

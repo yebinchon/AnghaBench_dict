@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+STK8312_MODE_STANDBY,VAR_1
+STK8312_REG_STH,VAR_2
+STK8312_RNG_MASK,VAR_3
+STK8312_RNG_SHIFT,VAR_4
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+stk8312_set_mode,FUNC_3
+stk8312_set_range,FUNC_4
+data,VAR_5
+range,VAR_6
+ret,VAR_7
+masked_reg,VAR_8
+mode,VAR_9
+client,VAR_10

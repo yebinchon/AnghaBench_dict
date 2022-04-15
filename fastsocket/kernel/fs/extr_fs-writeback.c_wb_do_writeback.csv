@@ -1,0 +1,17 @@
+BDI_writeback_running,VAR_0
+WB_SYNC_ALL,VAR_1
+clear_bit,FUNC_0
+complete,FUNC_1
+get_next_work_item,FUNC_2
+kfree,FUNC_3
+set_bit,FUNC_4
+trace_mm_background_writeout,FUNC_5
+trace_writeback_exec,FUNC_6
+wb_check_old_data_flush,FUNC_7
+wb_writeback,FUNC_8
+wb_do_writeback,FUNC_9
+wb,VAR_2
+force_wait,VAR_3
+bdi,VAR_4
+work,VAR_5
+wrote,VAR_6

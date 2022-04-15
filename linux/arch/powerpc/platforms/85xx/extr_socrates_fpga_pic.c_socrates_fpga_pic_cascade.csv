@@ -1,0 +1,10 @@
+generic_handle_irq,FUNC_0
+irq_desc_get_chip,FUNC_1
+irq_desc_get_irq,FUNC_2
+socrates_fpga_pic_get_irq,FUNC_3
+stub1,FUNC_4
+socrates_fpga_pic_cascade,FUNC_5
+desc,VAR_0
+chip,VAR_1
+irq,VAR_2
+cascade_irq,VAR_3

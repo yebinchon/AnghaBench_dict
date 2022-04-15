@@ -1,0 +1,10 @@
+IVTV_F_I_DMA,VAR_0
+IVTV_F_I_UDMA_PENDING,VAR_1
+ivtv_udma_start,FUNC_0
+set_bit,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+test_bit,FUNC_4
+ivtv_udma_prepare,FUNC_5
+itv,VAR_2
+flags,VAR_3

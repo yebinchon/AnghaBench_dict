@@ -1,0 +1,15 @@
+CFHSI_SHUTDOWN,VAR_0
+cfhsi_abort_tx,FUNC_0
+del_timer_sync,FUNC_1
+destroy_workqueue,FUNC_2
+kfree,FUNC_3
+netdev_priv,FUNC_4
+set_bit,FUNC_5
+stub1,FUNC_6
+stub2,FUNC_7
+cfhsi_close,FUNC_8
+ndev,VAR_1
+cfhsi,VAR_2
+tx_buf,VAR_3
+rx_buf,VAR_4
+flip_buf,VAR_5

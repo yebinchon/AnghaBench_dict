@@ -1,0 +1,11 @@
+PFIL_HOOKED_OUT,FUNC_0
+PFIL_OUT,VAR_0
+V_inet6_pfil_head,VAR_1
+V_inet_pfil_head,VAR_2
+bridge_enqueue,FUNC_1
+bridge_pfil,FUNC_2
+m_freem,FUNC_3
+bridge_dummynet,FUNC_4
+m,VAR_3
+ifp,VAR_4
+sc,VAR_5

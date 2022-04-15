@@ -1,0 +1,9 @@
+CMD_802_11_SET_WEP,VAR_0
+CMD_ACT_REMOVE,VAR_1
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+memset,FUNC_2
+lbs_remove_wep_keys,FUNC_3
+priv,VAR_2
+cmd,VAR_3
+ret,VAR_4

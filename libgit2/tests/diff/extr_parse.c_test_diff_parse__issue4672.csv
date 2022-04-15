@@ -1,0 +1,16 @@
+cl_assert_equal_i,FUNC_0
+cl_git_assert_lineinfo,FUNC_1
+cl_git_pass,FUNC_2
+git_diff_free,FUNC_3
+git_diff_from_buffer,FUNC_4
+git_patch_free,FUNC_5
+git_patch_from_diff,FUNC_6
+git_patch_get_hunk,FUNC_7
+strlen,FUNC_8
+test_diff_parse__issue4672,FUNC_9
+text,VAR_0
+diff,VAR_1
+patch,VAR_2
+hunk,VAR_3
+n,VAR_4
+l,VAR_5

@@ -1,0 +1,16 @@
+ATTR_ATIME,VAR_0
+ATTR_CTIME,VAR_1
+ATTR_GID,VAR_2
+ATTR_MODE,VAR_3
+ATTR_MTIME,VAR_4
+ATTR_UID,VAR_5
+CAP_FSETID,VAR_6
+S_ISGID,VAR_7
+capable_wrt_inode_uidgid,FUNC_0
+in_group_p,FUNC_1
+timestamp_truncate,FUNC_2
+setattr_copy,FUNC_3
+inode,VAR_8
+attr,VAR_9
+ia_valid,VAR_10
+mode,VAR_11

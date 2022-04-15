@@ -1,0 +1,11 @@
+IDC_LIST_STAT,VAR_0
+IDC_TEXT_NITEMS,VAR_1
+LB_GETCOUNT,VAR_2
+SendDlgItemMessage,FUNC_0
+SetDlgItemText,FUNC_1
+_T,FUNC_2
+_stprintf,FUNC_3
+update_n_stats_items,FUNC_4
+hWnd,VAR_3
+buffer,VAR_4
+n,VAR_5

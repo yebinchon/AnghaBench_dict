@@ -1,0 +1,13 @@
+KOBJ_CHANGE,VAR_0
+TYPEC_PWR_MODE_PD,VAR_1
+device_find_child,FUNC_0
+kobject_uevent,FUNC_1
+partner_match,VAR_2
+put_device,FUNC_2
+sysfs_notify,FUNC_3
+to_typec_partner,FUNC_4
+typec_set_pwr_opmode,FUNC_5
+port,VAR_3
+opmode,VAR_4
+partner_dev,VAR_5
+partner,VAR_6

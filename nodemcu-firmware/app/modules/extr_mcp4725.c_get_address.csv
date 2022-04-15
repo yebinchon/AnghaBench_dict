@@ -1,0 +1,14 @@
+MCP4725_I2C_ADDR_A0_MASK,VAR_0
+MCP4725_I2C_ADDR_A1_MASK,VAR_1
+MCP4725_I2C_ADDR_A2_MASK,VAR_2
+luaL_argerror,FUNC_0
+lua_getfield,FUNC_1
+lua_isnil,FUNC_2
+lua_isnumber,FUNC_3
+lua_pop,FUNC_4
+lua_tonumber,FUNC_5
+get_address,FUNC_6
+L,VAR_3
+i2c_address,VAR_4
+addr_temp,VAR_5
+temp_var,VAR_6

@@ -1,0 +1,13 @@
+PROC_CMDLINE_RD_STRICT,VAR_0
+PROC_CMDLINE_STRIP_RD_PREFIX,VAR_1
+arg_dest,VAR_2
+assert_se,FUNC_0
+generate,FUNC_1
+log_warning_errno,FUNC_2
+parse,VAR_3
+proc_cmdline_parse,FUNC_3
+run,FUNC_4
+dest,VAR_4
+dest_early,VAR_5
+dest_late,VAR_6
+r,VAR_7

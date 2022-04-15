@@ -1,0 +1,16 @@
+MSR_SINGLESTEP,VAR_0
+extable_fixup,FUNC_0
+get_kprobe_ctlblk,FUNC_1
+kprobe_running,FUNC_2
+kprobes_inc_nmissed_count,FUNC_3
+preempt_enable_no_resched,FUNC_4
+reset_current_kprobe,FUNC_5
+restore_previous_kprobe,FUNC_6
+search_exception_tables,FUNC_7
+stub1,FUNC_8
+kprobe_fault_handler,FUNC_9
+regs,VAR_1
+trapnr,VAR_2
+cur,VAR_3
+kcb,VAR_4
+entry,VAR_5

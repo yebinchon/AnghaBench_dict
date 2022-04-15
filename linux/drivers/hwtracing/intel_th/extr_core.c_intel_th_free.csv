@@ -1,0 +1,12 @@
+TH_POSSIBLE_OUTPUTS,VAR_0
+__unregister_chrdev,FUNC_0
+ida_simple_remove,FUNC_1
+intel_th_device_remove,FUNC_2
+intel_th_ida,VAR_1
+intel_th_request_hub_module_flush,FUNC_3
+kfree,FUNC_4
+pm_runtime_forbid,FUNC_5
+pm_runtime_get_sync,FUNC_6
+intel_th_free,FUNC_7
+th,VAR_2
+i,VAR_3

@@ -1,0 +1,17 @@
+FLASH_INTENSITY,VAR_0
+FLASH_TIMEOUT,VAR_1
+INDICATOR_INTENSITY,VAR_2
+LED_MODE,VAR_3
+STROBE_SOURCE,VAR_4
+TORCH_INTENSITY,VAR_5
+V4L2_FLASH_LED_MODE_TORCH,VAR_6
+call_flash_op,FUNC_0
+external_strobe_set,VAR_7
+led_set_flash_brightness,FUNC_1
+led_set_flash_timeout,FUNC_2
+v4l2_flash_set_led_brightness,FUNC_3
+__sync_device_with_v4l2_controls,FUNC_4
+v4l2_flash,VAR_8
+fled_cdev,VAR_9
+ctrls,VAR_10
+ret,VAR_11

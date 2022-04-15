@@ -1,0 +1,17 @@
+INTCTL,VAR_0
+SD_CTL,VAR_1
+SD_CTL_3B,VAR_2
+SD_CTL_DMA_START,VAR_3
+SD_CTL_STRIPE_MASK,VAR_4
+SD_INT_MASK,VAR_5
+WALLCLK,VAR_6
+snd_hdac_chip_readl,FUNC_0
+snd_hdac_chip_updatel,FUNC_1
+snd_hdac_get_stream_stripe_ctl,FUNC_2
+snd_hdac_stream_updateb,FUNC_3
+trace_snd_hdac_stream_start,FUNC_4
+snd_hdac_stream_start,FUNC_5
+azx_dev,VAR_7
+fresh_start,VAR_8
+bus,VAR_9
+stripe_ctl,VAR_10

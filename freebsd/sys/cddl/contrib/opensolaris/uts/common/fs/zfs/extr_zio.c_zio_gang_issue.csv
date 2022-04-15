@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+BP_IS_GANG,FUNC_1
+ZIO_CHILD_GANG,VAR_0
+ZIO_CHILD_GANG_BIT,VAR_1
+ZIO_INTERLOCK_PIPELINE,VAR_2
+ZIO_WAIT_DONE,VAR_3
+zio_gang_tree_free,FUNC_2
+zio_gang_tree_issue,FUNC_3
+zio_wait_for_children,FUNC_4
+zio_gang_issue,FUNC_5
+zio,VAR_4
+bp,VAR_5

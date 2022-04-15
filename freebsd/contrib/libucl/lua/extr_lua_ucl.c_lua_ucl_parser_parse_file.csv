@@ -1,0 +1,11 @@
+luaL_checkstring,FUNC_0
+lua_pushboolean,FUNC_1
+lua_pushstring,FUNC_2
+lua_ucl_parser_get,FUNC_3
+ucl_parser_add_file,FUNC_4
+ucl_parser_get_error,FUNC_5
+lua_ucl_parser_parse_file,FUNC_6
+L,VAR_0
+parser,VAR_1
+file,VAR_2
+ret,VAR_3

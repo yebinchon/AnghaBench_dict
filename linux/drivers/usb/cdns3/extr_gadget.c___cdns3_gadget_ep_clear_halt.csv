@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+EP_CMD_CSTALL,VAR_1
+EP_CMD_EPRST,VAR_2
+EP_STALLED,VAR_3
+EP_STALL_PENDING,VAR_4
+cdns3_next_request,FUNC_0
+cdns3_rearm_transfer,FUNC_1
+cdns3_start_all_request,FUNC_2
+readl_poll_timeout_atomic,FUNC_3
+trace_cdns3_halt,FUNC_4
+writel,FUNC_5
+__cdns3_gadget_ep_clear_halt,FUNC_6
+priv_ep,VAR_5
+priv_dev,VAR_6
+request,VAR_7
+ret,VAR_8
+val,VAR_9

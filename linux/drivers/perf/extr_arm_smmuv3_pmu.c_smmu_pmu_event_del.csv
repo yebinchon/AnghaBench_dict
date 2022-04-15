@@ -1,0 +1,12 @@
+PERF_EF_UPDATE,VAR_0
+clear_bit,FUNC_0
+perf_event_update_userpage,FUNC_1
+smmu_pmu_event_stop,FUNC_2
+smmu_pmu_interrupt_disable,FUNC_3
+to_smmu_pmu,FUNC_4
+smmu_pmu_event_del,FUNC_5
+event,VAR_1
+flags,VAR_2
+hwc,VAR_3
+smmu_pmu,VAR_4
+idx,VAR_5

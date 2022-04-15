@@ -1,0 +1,14 @@
+BDI_RECLAIMABLE,VAR_0
+BDI_WRITEBACK,VAR_1
+NR_FILE_DIRTY,VAR_2
+NR_UNSTABLE_NFS,VAR_3
+NR_WRITEBACK,VAR_4
+NR_WRITEBACK_TEMP,VAR_5
+bdi_stat,FUNC_0
+global_page_state,FUNC_1
+min,FUNC_2
+clip_bdi_dirty_limit,FUNC_3
+bdi,VAR_6
+dirty,VAR_7
+pbdi_dirty,VAR_8
+avail_dirty,VAR_9

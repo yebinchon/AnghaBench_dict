@@ -1,0 +1,16 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+current,VAR_1
+finish_wait,FUNC_1
+pm_print_active_wakeup_sources,FUNC_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+signal_pending,FUNC_5
+split_counters,FUNC_6
+wait,VAR_2
+wakeup_count_wait_queue,VAR_3
+pm_get_wakeup_count,FUNC_7
+count,VAR_4
+block,VAR_5
+cnt,VAR_6
+inpr,VAR_7

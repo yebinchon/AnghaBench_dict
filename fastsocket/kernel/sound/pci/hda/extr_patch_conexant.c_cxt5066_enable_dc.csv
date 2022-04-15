@@ -1,0 +1,8 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+AC_VERB_SET_CONNECT_SEL,VAR_1
+AMP_OUT_UNMUTE,VAR_2
+cxt5066_olpc_select_mic,FUNC_0
+snd_hda_sequence_write,FUNC_1
+cxt5066_enable_dc,FUNC_2
+codec,VAR_3
+enable_dc_mode,VAR_4

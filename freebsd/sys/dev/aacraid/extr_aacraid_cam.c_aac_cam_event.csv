@@ -1,0 +1,12 @@
+CAM_REQUEUE_REQ,VAR_0
+M_AACRAIDCAM,VAR_1
+device_printf,FUNC_0
+free,FUNC_1
+xpt_done,FUNC_2
+xpt_release_simq,FUNC_3
+aac_cam_event,FUNC_4
+sc,VAR_2
+event,VAR_3
+arg,VAR_4
+ccb,VAR_5
+camsc,VAR_6

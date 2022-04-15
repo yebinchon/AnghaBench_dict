@@ -1,0 +1,12 @@
+DRM_MODE_DPMS_ON,VAR_0
+FB_BLANK_POWERDOWN,VAR_1
+FB_BLANK_UNBLANK,VAR_2
+backlight_update_status,FUNC_0
+gpiod_set_value_cansleep,FUNC_1
+to_panel_encoder,FUNC_2
+panel_encoder_dpms,FUNC_3
+encoder,VAR_3
+mode,VAR_4
+panel_encoder,VAR_5
+backlight,VAR_6
+gpio,VAR_7

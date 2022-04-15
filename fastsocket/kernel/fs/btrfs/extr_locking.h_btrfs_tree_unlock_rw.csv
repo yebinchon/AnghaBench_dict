@@ -1,0 +1,11 @@
+BTRFS_READ_LOCK,VAR_0
+BTRFS_READ_LOCK_BLOCKING,VAR_1
+BTRFS_WRITE_LOCK,VAR_2
+BTRFS_WRITE_LOCK_BLOCKING,VAR_3
+BUG,FUNC_0
+btrfs_tree_read_unlock,FUNC_1
+btrfs_tree_read_unlock_blocking,FUNC_2
+btrfs_tree_unlock,FUNC_3
+btrfs_tree_unlock_rw,FUNC_4
+eb,VAR_4
+rw,VAR_5

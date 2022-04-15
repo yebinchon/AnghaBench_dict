@@ -1,0 +1,17 @@
+EMFDRV_WriteRecord,FUNC_0
+EMR_BEGINPATH,VAR_0
+FALSE,VAR_1
+GET_NEXT_PHYSDEV,FUNC_1
+TRUE,VAR_2
+emfpath_driver,VAR_3
+get_emf_physdev,FUNC_2
+get_physdev_dc,FUNC_3
+pBeginPath,VAR_4
+push_dc_driver,FUNC_4
+stub1,FUNC_5
+EMFDRV_BeginPath,FUNC_6
+dev,VAR_5
+physDev,VAR_6
+next,VAR_7
+emr,VAR_8
+dc,VAR_9

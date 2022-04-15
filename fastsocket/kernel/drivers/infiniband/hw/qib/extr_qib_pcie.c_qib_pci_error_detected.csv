@@ -1,0 +1,13 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_NEED_RESET,VAR_1
+PCI_ERS_RESULT_RECOVERED,VAR_2
+QIB_PRESENT,VAR_3
+pci_disable_device,FUNC_0
+pci_get_drvdata,FUNC_1
+qib_devinfo,FUNC_2
+qib_disable_after_error,FUNC_3
+qib_pci_error_detected,FUNC_4
+pdev,VAR_4
+state,VAR_5
+dd,VAR_6
+ret,VAR_7

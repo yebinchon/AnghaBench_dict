@@ -1,0 +1,16 @@
+CLUSTER_FAIL_UNDO_TIME_MULT,VAR_0
+CLUSTER_NODE_FAIL,VAR_1
+CLUSTER_TODO_SAVE_CONFIG,VAR_2
+CLUSTER_TODO_UPDATE_STATE,VAR_3
+LL_NOTICE,VAR_4
+clusterDoBeforeSleep,FUNC_0
+mstime,FUNC_1
+nodeFailed,FUNC_2
+nodeIsMaster,FUNC_3
+nodeIsSlave,FUNC_4
+server,VAR_5
+serverAssert,FUNC_5
+serverLog,FUNC_6
+clearNodeFailureIfNeeded,FUNC_7
+node,VAR_6
+now,VAR_7

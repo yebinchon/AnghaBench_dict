@@ -1,0 +1,15 @@
+FILTER_HANDLED,VAR_0
+PCPU_GET,FUNC_0
+buf,VAR_1
+lock,VAR_2
+mtx_lock_spin,FUNC_1
+mtx_unlock_spin,FUNC_2
+sbuf_clear,FUNC_3
+sbuf_finish,FUNC_4
+stack_save,FUNC_5
+stack_sbuf_print_ddb,FUNC_6
+stack_zero,FUNC_7
+vcpu_id,VAR_3
+xc_printf,FUNC_8
+xendebug_filter,FUNC_9
+arg,VAR_4

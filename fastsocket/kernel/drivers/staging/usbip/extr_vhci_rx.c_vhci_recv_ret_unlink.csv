@@ -1,0 +1,17 @@
+dequeue_pending_unlink,FUNC_0
+kfree,FUNC_1
+pickup_urb_and_free_priv,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+the_controller,VAR_0
+usb_hcd_giveback_urb,FUNC_5
+usb_hcd_unlink_urb_from_ep,FUNC_6
+usbip_dbg_vhci_rx,FUNC_7
+usbip_dump_header,FUNC_8
+usbip_uinfo,FUNC_9
+vhci_to_hcd,FUNC_10
+vhci_recv_ret_unlink,FUNC_11
+vdev,VAR_1
+pdu,VAR_2
+unlink,VAR_3
+urb,VAR_4

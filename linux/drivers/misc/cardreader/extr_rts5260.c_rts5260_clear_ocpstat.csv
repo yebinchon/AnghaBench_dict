@@ -1,0 +1,12 @@
+DV3318_OCP_CLR,VAR_0
+DV3318_OCP_INT_CLR,VAR_1
+REG_DV3318_OCPCTL,VAR_2
+REG_OCPCTL,VAR_3
+SD_OCP_INT_CLR,VAR_4
+SD_OC_CLR,VAR_5
+rtsx_pci_write_register,FUNC_0
+udelay,FUNC_1
+rts5260_clear_ocpstat,FUNC_2
+pcr,VAR_6
+mask,VAR_7
+val,VAR_8

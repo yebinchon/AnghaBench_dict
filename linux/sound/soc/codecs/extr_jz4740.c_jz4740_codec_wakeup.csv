@@ -1,0 +1,8 @@
+JZ4740_CODEC_1_RESET,VAR_0
+JZ4740_CODEC_1_SUSPEND,VAR_1
+JZ4740_REG_CODEC_1,VAR_2
+regcache_sync,FUNC_0
+regmap_update_bits,FUNC_1
+udelay,FUNC_2
+jz4740_codec_wakeup,FUNC_3
+regmap,VAR_3

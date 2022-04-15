@@ -1,0 +1,12 @@
+RTWN_N_TRANSFER,VAR_0
+device_get_softc,FUNC_0
+mtx_destroy,FUNC_1
+rtwn_detach,FUNC_2
+rtwn_detach_private,FUNC_3
+rtwn_usb_free_rx_list,FUNC_4
+rtwn_usb_free_tx_list,FUNC_5
+usbd_transfer_unsetup,FUNC_6
+rtwn_usb_detach,FUNC_7
+self,VAR_1
+uc,VAR_2
+sc,VAR_3

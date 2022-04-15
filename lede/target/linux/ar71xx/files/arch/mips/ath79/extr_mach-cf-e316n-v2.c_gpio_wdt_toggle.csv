@@ -1,0 +1,9 @@
+CF_EXXXN_EXT_WDT_TIMEOUT_MS,VAR_0
+gpio_set_value,FUNC_0
+gpio_wdt_timer,VAR_1
+jiffies,VAR_2
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+gpio_wdt_toggle,FUNC_3
+gpio,VAR_3
+state,VAR_4

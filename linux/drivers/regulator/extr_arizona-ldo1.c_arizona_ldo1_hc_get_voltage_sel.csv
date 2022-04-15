@@ -1,0 +1,10 @@
+ARIZONA_LDO1_CONTROL_2,VAR_0
+ARIZONA_LDO1_HI_PWR,VAR_1
+rdev_get_regmap,FUNC_0
+regmap_read,FUNC_1
+regulator_get_voltage_sel_regmap,FUNC_2
+arizona_ldo1_hc_get_voltage_sel,FUNC_3
+rdev,VAR_2
+regmap,VAR_3
+val,VAR_4
+ret,VAR_5

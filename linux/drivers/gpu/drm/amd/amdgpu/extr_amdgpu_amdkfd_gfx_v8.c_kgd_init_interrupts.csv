@@ -1,0 +1,13 @@
+CP_INT_CNTL_RING0__OPCODE_ERROR_INT_ENABLE_MASK,VAR_0
+CP_INT_CNTL_RING0__TIME_STAMP_INT_ENABLE_MASK,VAR_1
+WREG32,FUNC_0
+get_amdgpu_device,FUNC_1
+lock_srbm,FUNC_2
+mmCPC_INT_CNTL,VAR_2
+unlock_srbm,FUNC_3
+kgd_init_interrupts,FUNC_4
+kgd,VAR_3
+pipe_id,VAR_4
+adev,VAR_5
+mec,VAR_6
+pipe,VAR_7

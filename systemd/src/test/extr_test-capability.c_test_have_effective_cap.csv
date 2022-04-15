@@ -1,0 +1,11 @@
+CAP_CHOWN,VAR_0
+CAP_KILL,VAR_1
+assert_se,FUNC_0
+drop_privileges,FUNC_1
+getgid,FUNC_2
+getuid,FUNC_3
+have_effective_cap,FUNC_4
+test_flags,VAR_2
+test_gid,VAR_3
+test_uid,VAR_4
+test_have_effective_cap,FUNC_5

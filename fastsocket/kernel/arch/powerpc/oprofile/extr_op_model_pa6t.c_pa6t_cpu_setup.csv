@@ -1,0 +1,12 @@
+SPRN_PA6T_MMCR0,VAR_0
+SPRN_PA6T_MMCR1,VAR_1
+mfspr,FUNC_0
+mmcr0_val,VAR_2
+mmcr1_val,VAR_3
+mtspr,FUNC_1
+pr_debug,FUNC_2
+smp_processor_id,FUNC_3
+pa6t_cpu_setup,FUNC_4
+ctr,VAR_4
+mmcr0,VAR_5
+mmcr1,VAR_6

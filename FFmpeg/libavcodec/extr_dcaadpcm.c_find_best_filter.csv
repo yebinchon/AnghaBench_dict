@@ -1,0 +1,17 @@
+DCA_ADPCM_COEFFS,VAR_0
+DCA_ADPCM_VQCODEBOOK_SZ,VAR_1
+apply_filter,FUNC_0
+calc_corr,FUNC_1
+ff_dca_adpcm_vb,VAR_2
+find_best_filter,FUNC_2
+s,VAR_3
+in,VAR_4
+len,VAR_5
+precalc_data,VAR_6
+i,VAR_7
+j,VAR_8
+k,VAR_9
+vq,VAR_10
+err,VAR_11
+min_err,VAR_12
+corr,VAR_13

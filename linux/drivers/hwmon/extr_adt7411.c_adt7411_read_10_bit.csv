@@ -1,0 +1,12 @@
+i2c_get_clientdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+adt7411_read_10_bit,FUNC_4
+client,VAR_0
+lsb_reg,VAR_1
+msb_reg,VAR_2
+lsb_shift,VAR_3
+data,VAR_4
+val,VAR_5
+tmp,VAR_6

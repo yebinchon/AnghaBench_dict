@@ -1,0 +1,9 @@
+H2O_HTTP2_FRAME_FLAG_ACK,VAR_0
+H2O_HTTP2_FRAME_TYPE_PING,VAR_1
+allocate_frame,FUNC_0
+memcpy,FUNC_1
+h2o_http2_encode_ping_frame,FUNC_2
+buf,VAR_2
+is_ack,VAR_3
+data,VAR_4
+dst,VAR_5

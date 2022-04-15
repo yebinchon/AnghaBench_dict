@@ -1,0 +1,16 @@
+MLOGBUF_MSGMAX,VAR_0
+MLOGBUF_SIZE,VAR_1
+mlogbuf,VAR_2
+mlogbuf_end,VAR_3
+mlogbuf_rlock,VAR_4
+mlogbuf_start,VAR_5
+mlogbuf_timestamp,VAR_6
+printk,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+ia64_mlogbuf_dump,FUNC_3
+temp_buf,VAR_7
+p,VAR_8
+index,VAR_9
+flags,VAR_10
+printed_len,VAR_11

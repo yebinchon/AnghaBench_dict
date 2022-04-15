@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+NVME_TCP_SEND_CMD_PDU,VAR_1
+NVME_TCP_SEND_DATA,VAR_2
+NVME_TCP_SEND_DDGST,VAR_3
+NVME_TCP_SEND_H2C_PDU,VAR_4
+nvme_tcp_fetch_request,FUNC_0
+nvme_tcp_has_inline_data,FUNC_1
+nvme_tcp_try_send_cmd_pdu,FUNC_2
+nvme_tcp_try_send_data,FUNC_3
+nvme_tcp_try_send_data_pdu,FUNC_4
+nvme_tcp_try_send_ddgst,FUNC_5
+nvme_tcp_try_send,FUNC_6
+queue,VAR_5
+req,VAR_6
+ret,VAR_7

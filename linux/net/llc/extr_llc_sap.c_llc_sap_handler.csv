@@ -1,0 +1,13 @@
+is_multicast_ether_addr,FUNC_0
+kfree_skb,FUNC_1
+llc_lookup_dgram,FUNC_2
+llc_pdu_decode_da,FUNC_3
+llc_pdu_decode_dsap,FUNC_4
+llc_sap_mcast,FUNC_5
+llc_sap_rcv,FUNC_6
+sock_put,FUNC_7
+llc_sap_handler,FUNC_8
+sap,VAR_0
+skb,VAR_1
+laddr,VAR_2
+sk,VAR_3

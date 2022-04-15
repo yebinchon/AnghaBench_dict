@@ -1,0 +1,9 @@
+AC_VERB_SET_GPIO_DATA,VAR_0
+AC_VERB_SET_GPIO_DIRECTION,VAR_1
+AC_VERB_SET_GPIO_MASK,VAR_2
+snd_hda_codec_write,FUNC_0
+sbz_gpio_shutdown_commands,FUNC_1
+codec,VAR_3
+dir,VAR_4
+mask,VAR_5
+data,VAR_6

@@ -1,0 +1,16 @@
+IFF_ALLMULTI,VAR_0
+IFF_PROMISC,VAR_1
+MVPP2_PRS_L2_MULTI_CAST,VAR_2
+MVPP2_PRS_L2_UNI_CAST,VAR_3
+MVPP2_PRS_MAC_MC_FILT_MAX,VAR_4
+MVPP2_PRS_MAC_UC_FILT_MAX,VAR_5
+mvpp2_prs_mac_da_accept_list,FUNC_0
+mvpp2_prs_mac_del_all,FUNC_1
+mvpp2_prs_mac_promisc_set,FUNC_2
+mvpp2_set_rx_promisc,FUNC_3
+netdev_mc_count,FUNC_4
+netdev_priv,FUNC_5
+netdev_uc_count,FUNC_6
+mvpp2_set_rx_mode,FUNC_7
+dev,VAR_6
+port,VAR_7

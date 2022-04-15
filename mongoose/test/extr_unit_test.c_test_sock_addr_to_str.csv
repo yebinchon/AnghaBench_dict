@@ -1,0 +1,14 @@
+AF_INET,VAR_0
+AF_INET6,VAR_1
+ASSERT_EQ,FUNC_0
+ASSERT_STREQ,FUNC_1
+MG_SOCK_STRINGIFY_IP,VAR_2
+MG_SOCK_STRINGIFY_PORT,VAR_3
+htons,FUNC_2
+inet_addr,FUNC_3
+inet_pton,FUNC_4
+memset,FUNC_5
+mg_sock_addr_to_str,FUNC_6
+test_sock_addr_to_str,FUNC_7
+buf,VAR_4
+a4,VAR_5

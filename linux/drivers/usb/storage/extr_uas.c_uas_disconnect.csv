@@ -1,0 +1,15 @@
+DID_NO_CONNECT,VAR_0
+cancel_work_sync,FUNC_0
+scsi_host_put,FUNC_1
+scsi_remove_host,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+uas_free_streams,FUNC_5
+uas_zap_pending,FUNC_6
+usb_get_intfdata,FUNC_7
+usb_kill_anchored_urbs,FUNC_8
+uas_disconnect,FUNC_9
+intf,VAR_1
+shost,VAR_2
+devinfo,VAR_3
+flags,VAR_4

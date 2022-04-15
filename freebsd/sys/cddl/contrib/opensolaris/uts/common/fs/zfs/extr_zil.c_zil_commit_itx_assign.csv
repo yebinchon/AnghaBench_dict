@@ -1,0 +1,14 @@
+B_TRUE,VAR_0
+TXG_WAIT,VAR_1
+TX_COMMIT,VAR_2
+VERIFY0,FUNC_0
+dmu_tx_assign,FUNC_1
+dmu_tx_commit,FUNC_2
+dmu_tx_create,FUNC_3
+zil_itx_assign,FUNC_4
+zil_itx_create,FUNC_5
+zil_commit_itx_assign,FUNC_6
+zilog,VAR_3
+zcw,VAR_4
+tx,VAR_5
+itx,VAR_6

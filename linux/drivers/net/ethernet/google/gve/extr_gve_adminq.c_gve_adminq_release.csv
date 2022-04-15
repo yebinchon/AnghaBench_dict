@@ -1,0 +1,12 @@
+GVE_ADMINQ_SLEEP_LEN,VAR_0
+GVE_MAX_ADMINQ_RELEASE_CHECK,VAR_1
+WARN,FUNC_0
+gve_clear_admin_queue_ok,FUNC_1
+gve_clear_device_resources_ok,FUNC_2
+gve_clear_device_rings_ok,FUNC_3
+ioread32be,FUNC_4
+iowrite32be,FUNC_5
+msleep,FUNC_6
+gve_adminq_release,FUNC_7
+priv,VAR_2
+i,VAR_3

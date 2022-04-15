@@ -1,0 +1,11 @@
+H2O_TOKEN_CACHE_CONTROL,VAR_0
+H2O_TOKEN_EXPIRES,VAR_1
+assert,FUNC_0
+h2o_set_header,FUNC_1
+h2o_set_header_token,FUNC_2
+h2o_setup_next_ostream,FUNC_3
+on_setup_ostream,FUNC_4
+_self,VAR_2
+req,VAR_3
+slot,VAR_4
+self,VAR_5

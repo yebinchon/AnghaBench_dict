@@ -1,0 +1,17 @@
+mtd_ooblayout_set_eccbytes,FUNC_0
+nand_to_mtd,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+nand_write_page_swecc,FUNC_4
+chip,VAR_0
+buf,VAR_1
+oob_required,VAR_2
+page,VAR_3
+mtd,VAR_4
+i,VAR_5
+eccsize,VAR_6
+ret,VAR_7
+eccbytes,VAR_8
+eccsteps,VAR_9
+ecc_calc,VAR_10
+p,VAR_11

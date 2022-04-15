@@ -1,0 +1,14 @@
+ACLCHECK_OK,VAR_0
+ACL_CREATE,VAR_1
+AccessTempTableNamespace,FUNC_0
+GetUserId,FUNC_1
+OBJECT_SCHEMA,VAR_2
+aclcheck_error,FUNC_2
+get_namespace_oid,FUNC_3
+myTempNamespace,VAR_3
+pg_namespace_aclcheck,FUNC_4
+strcmp,FUNC_5
+LookupCreationNamespace,FUNC_6
+nspname,VAR_4
+namespaceId,VAR_5
+aclresult,VAR_6

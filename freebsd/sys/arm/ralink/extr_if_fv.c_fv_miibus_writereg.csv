@@ -1,0 +1,14 @@
+MII_PREAMBLE,VAR_0
+MII_WRCMD,VAR_1
+device_get_softc,FUNC_0
+fv_miibus_turnaround,FUNC_1
+fv_miibus_writebits,FUNC_2
+miibus_mtx,VAR_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+fv_miibus_writereg,FUNC_5
+dev,VAR_3
+phy,VAR_4
+reg,VAR_5
+data,VAR_6
+sc,VAR_7

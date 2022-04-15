@@ -1,0 +1,17 @@
+SMBSDEBUG,FUNC_0
+SMB_FLAGS2_ERR_STATUS,VAR_0
+SMB_FLAGS2_SECURITY_SIGNATURE,VAR_1
+md_get_uint16le,FUNC_1
+md_get_uint32,FUNC_2
+md_get_uint32le,FUNC_3
+md_get_uint8,FUNC_4
+smb_iod_waitrq,FUNC_5
+smb_maperror,FUNC_6
+smb_rq_verify,FUNC_7
+smb_rq_reply,FUNC_8
+rqp,VAR_2
+mdp,VAR_3
+tdw,VAR_4
+tb,VAR_5
+error,VAR_6
+rperror,VAR_7

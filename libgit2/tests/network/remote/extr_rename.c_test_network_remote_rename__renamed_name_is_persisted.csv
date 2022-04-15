@@ -1,0 +1,15 @@
+_remote_name,VAR_0
+_repo,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_remote_free,FUNC_3
+git_remote_lookup,FUNC_4
+git_remote_rename,FUNC_5
+git_repository_free,FUNC_6
+git_repository_open,FUNC_7
+git_strarray_free,FUNC_8
+test_network_remote_rename__renamed_name_is_persisted,FUNC_9
+renamed,VAR_2
+another_repo,VAR_3
+problems,VAR_4

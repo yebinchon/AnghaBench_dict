@@ -1,0 +1,13 @@
+MSP_IRQ_TIMEOUT,VAR_0
+MSP_TWI_CMD_REG_OFFSET,VAR_1
+MSP_TWI_XFER_TIMEOUT,VAR_2
+complete,FUNC_0
+dev_dbg,FUNC_1
+pmcmsptwi_adapter,VAR_3
+pmcmsptwi_poll_complete,FUNC_2
+pmcmsptwi_writel,FUNC_3
+wait_for_completion_timeout,FUNC_4
+pmcmsptwi_do_xfer,FUNC_5
+reg,VAR_4
+data,VAR_5
+timeleft,VAR_6

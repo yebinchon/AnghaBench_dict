@@ -1,0 +1,16 @@
+MOS7720_MCR,VAR_0
+TIOCM_DTR,VAR_1
+TIOCM_LOOP,VAR_2
+TIOCM_RTS,VAR_3
+UART_MCR_DTR,VAR_4
+UART_MCR_LOOP,VAR_5
+UART_MCR_RTS,VAR_6
+usb_get_serial_port_data,FUNC_0
+write_mos_reg,FUNC_1
+mos7720_tiocmset,FUNC_2
+tty,VAR_7
+set,VAR_8
+clear,VAR_9
+port,VAR_10
+mos7720_port,VAR_11
+mcr,VAR_12

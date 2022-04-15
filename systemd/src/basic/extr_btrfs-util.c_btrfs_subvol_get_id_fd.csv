@@ -1,0 +1,12 @@
+BTRFS_FIRST_FREE_OBJECTID,VAR_0
+BTRFS_IOC_INO_LOOKUP,VAR_1
+ENOTTY,VAR_2
+assert,FUNC_0
+btrfs_is_filesystem,FUNC_1
+errno,VAR_3
+ioctl,FUNC_2
+btrfs_subvol_get_id_fd,FUNC_3
+fd,VAR_4
+ret,VAR_5
+args,VAR_6
+r,VAR_7

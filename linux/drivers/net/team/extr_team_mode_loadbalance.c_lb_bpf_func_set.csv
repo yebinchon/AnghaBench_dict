@@ -1,0 +1,17 @@
+__fprog_create,FUNC_0
+__fprog_destroy,FUNC_1
+bpf_prog_create,FUNC_2
+bpf_prog_destroy,FUNC_3
+get_lb_priv,FUNC_4
+lockdep_is_held,FUNC_5
+rcu_assign_pointer,FUNC_6
+rcu_dereference_protected,FUNC_7
+synchronize_rcu,FUNC_8
+lb_bpf_func_set,FUNC_9
+team,VAR_0
+ctx,VAR_1
+lb_priv,VAR_2
+fp,VAR_3
+orig_fp,VAR_4
+fprog,VAR_5
+err,VAR_6

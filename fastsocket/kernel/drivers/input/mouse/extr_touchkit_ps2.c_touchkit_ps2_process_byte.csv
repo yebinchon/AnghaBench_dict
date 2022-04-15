@@ -1,0 +1,15 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+PSMOUSE_FULL_PACKET,VAR_3
+PSMOUSE_GOOD_DATA,VAR_4
+TOUCHKIT_GET_TOUCHED,FUNC_0
+TOUCHKIT_GET_X,FUNC_1
+TOUCHKIT_GET_Y,FUNC_2
+input_report_abs,FUNC_3
+input_report_key,FUNC_4
+input_sync,FUNC_5
+touchkit_ps2_process_byte,FUNC_6
+psmouse,VAR_5
+packet,VAR_6
+dev,VAR_7

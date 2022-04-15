@@ -1,0 +1,11 @@
+L2CAP_INFO_FEAT_MASK_REQ_SENT,VAR_0
+L2CAP_INFO_REQ,VAR_1
+L2CAP_INFO_TIMEOUT,VAR_2
+L2CAP_IT_FEAT_MASK,VAR_3
+cpu_to_le16,FUNC_0
+l2cap_get_ident,FUNC_1
+l2cap_send_cmd,FUNC_2
+schedule_delayed_work,FUNC_3
+l2cap_request_info,FUNC_4
+conn,VAR_4
+req,VAR_5

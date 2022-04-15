@@ -1,0 +1,15 @@
+DDMA_FLAGS_IE,VAR_0
+DDMA_FLAGS_NOIE,VAR_1
+DSCR_CMD0_IE,VAR_2
+DSCR_CMD0_V,VAR_3
+DSCR_GET_NXTPTR,FUNC_0
+dma_cache_wback_inv,FUNC_1
+phys_to_virt,FUNC_2
+wmb,FUNC_3
+au1xxx_dbdma_put_source,FUNC_4
+chanid,VAR_4
+buf,VAR_5
+nbytes,VAR_6
+flags,VAR_7
+ctp,VAR_8
+dp,VAR_9

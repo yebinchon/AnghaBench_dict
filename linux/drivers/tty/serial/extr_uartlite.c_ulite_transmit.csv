@@ -1,0 +1,13 @@
+UART_XMIT_SIZE,VAR_0
+ULITE_STATUS_TXFULL,VAR_1
+ULITE_TX,VAR_2
+WAKEUP_CHARS,VAR_3
+uart_circ_chars_pending,FUNC_0
+uart_circ_empty,FUNC_1
+uart_out32,FUNC_2
+uart_tx_stopped,FUNC_3
+uart_write_wakeup,FUNC_4
+ulite_transmit,FUNC_5
+port,VAR_4
+stat,VAR_5
+xmit,VAR_6

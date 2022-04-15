@@ -1,0 +1,15 @@
+hci_le_adv_report_evt,FUNC_0
+hci_le_conn_complete_evt,FUNC_1
+hci_le_conn_update_complete_evt,FUNC_2
+hci_le_direct_adv_report_evt,FUNC_3
+hci_le_enh_conn_complete_evt,FUNC_4
+hci_le_ext_adv_report_evt,FUNC_5
+hci_le_ext_adv_term_evt,FUNC_6
+hci_le_ltk_request_evt,FUNC_7
+hci_le_remote_conn_param_req_evt,FUNC_8
+hci_le_remote_feat_complete_evt,FUNC_9
+skb_pull,FUNC_10
+hci_le_meta_evt,FUNC_11
+hdev,VAR_0
+skb,VAR_1
+le_ev,VAR_2

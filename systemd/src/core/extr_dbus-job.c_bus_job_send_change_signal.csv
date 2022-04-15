@@ -1,0 +1,11 @@
+LIST_REMOVE,FUNC_0
+assert,FUNC_1
+bus_foreach_bus,FUNC_2
+bus_unit_send_pending_change_signal,FUNC_3
+dbus_queue,VAR_0
+log_debug_errno,FUNC_4
+send_changed_signal,VAR_1
+send_new_signal,VAR_2
+bus_job_send_change_signal,FUNC_5
+j,VAR_3
+r,VAR_4

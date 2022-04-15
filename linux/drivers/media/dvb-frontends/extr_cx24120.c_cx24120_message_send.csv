@@ -1,0 +1,15 @@
+CX24120_REG_CMD_ARGS,VAR_0
+CX24120_REG_CMD_END,VAR_1
+CX24120_REG_CMD_START,VAR_2
+EREMOTEIO,VAR_3
+cx24120_check_cmd,FUNC_0
+cx24120_readreg,FUNC_1
+cx24120_writereg,FUNC_2
+cx24120_writeregs,FUNC_3
+dev_dbg,FUNC_4
+err,FUNC_5
+msleep,FUNC_6
+cx24120_message_send,FUNC_7
+state,VAR_4
+cmd,VAR_5
+ficus,VAR_6

@@ -1,0 +1,13 @@
+clk_disable_unprepare,FUNC_0
+dev_dbg,FUNC_1
+gsc_unregister_m2m_device,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+v4l2_device_unregister,FUNC_7
+vb2_dma_contig_clear_max_seg_size,FUNC_8
+gsc_remove,FUNC_9
+pdev,VAR_0
+gsc,VAR_1
+i,VAR_2

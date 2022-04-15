@@ -1,0 +1,13 @@
+ADX_WDT_TIMEOUT,VAR_0
+WDT_STATE_START,VAR_1
+adx_wdt_start_locked,FUNC_0
+adx_wdt_stop_locked,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+adx_wdt_set_timeout,FUNC_5
+wdt,VAR_2
+seconds,VAR_3
+timeout,VAR_4
+flags,VAR_5
+state,VAR_6

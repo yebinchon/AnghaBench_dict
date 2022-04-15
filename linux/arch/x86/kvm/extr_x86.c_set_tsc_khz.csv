@@ -1,0 +1,12 @@
+kvm_default_tsc_scaling_ratio,VAR_0
+kvm_has_tsc_control,VAR_1
+kvm_max_tsc_scaling_ratio,VAR_2
+kvm_tsc_scaling_ratio_frac_bits,VAR_3
+mul_u64_u32_div,FUNC_0
+pr_warn_ratelimited,FUNC_1
+tsc_khz,VAR_4
+set_tsc_khz,FUNC_2
+vcpu,VAR_5
+user_tsc_khz,VAR_6
+scale,VAR_7
+ratio,VAR_8

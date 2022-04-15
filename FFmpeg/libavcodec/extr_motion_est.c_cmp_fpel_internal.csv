@@ -1,0 +1,16 @@
+FLAG_CHROMA,VAR_0
+FLAG_DIRECT,VAR_1
+FLAG_QPEL,VAR_2
+cmp_direct_inline,FUNC_0
+cmp_inline,FUNC_1
+cmp_fpel_internal,FUNC_2
+s,VAR_3
+x,VAR_4
+y,VAR_5
+size,VAR_6
+h,VAR_7
+ref_index,VAR_8
+src_index,VAR_9
+cmp_func,VAR_10
+chroma_cmp_func,VAR_11
+flags,VAR_12

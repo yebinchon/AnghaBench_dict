@@ -1,0 +1,13 @@
+mutex_trylock,FUNC_0
+refcount_inc,FUNC_1
+snd_pcm_group_lock,FUNC_2
+snd_pcm_group_unref,FUNC_3
+snd_pcm_stream_linked,FUNC_4
+snd_pcm_stream_lock,FUNC_5
+snd_pcm_stream_unlock,FUNC_6
+spin_trylock,FUNC_7
+snd_pcm_stream_group_ref,FUNC_8
+substream,VAR_0
+nonatomic,VAR_1
+group,VAR_2
+trylock,VAR_3

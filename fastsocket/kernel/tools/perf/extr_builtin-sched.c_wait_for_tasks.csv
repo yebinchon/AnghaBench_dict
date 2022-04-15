@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+get_cpu_usage_nsec_parent,FUNC_1
+get_nsecs,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+sem_init,FUNC_5
+sem_wait,FUNC_6
+wait_for_tasks,FUNC_7
+sched,VAR_0
+cpu_usage_0,VAR_1
+cpu_usage_1,VAR_2
+task,VAR_3
+i,VAR_4
+ret,VAR_5

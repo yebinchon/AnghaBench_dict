@@ -1,0 +1,12 @@
+CRYPTO_DOWN_REF,FUNC_0
+CRYPTO_THREAD_lock_free,FUNC_1
+EVP_PKEY_free,FUNC_2
+OPENSSL_free,FUNC_3
+REF_ASSERT_ISNT,FUNC_4
+REF_PRINT_COUNT,FUNC_5
+X509_STORE_free,FUNC_6
+custom_exts_free,FUNC_7
+ssl_cert_clear_certs,FUNC_8
+ssl_cert_free,FUNC_9
+c,VAR_0
+i,VAR_1

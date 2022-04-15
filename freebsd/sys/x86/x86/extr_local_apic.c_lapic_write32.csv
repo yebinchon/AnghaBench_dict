@@ -1,0 +1,10 @@
+LAPIC_MEM_MUL,VAR_0
+MSR_APIC_000,VAR_1
+lapic_map,VAR_2
+lfence,FUNC_0
+mfence,FUNC_1
+wrmsr,FUNC_2
+x2apic_mode,VAR_3
+lapic_write32,FUNC_3
+reg,VAR_4
+val,VAR_5

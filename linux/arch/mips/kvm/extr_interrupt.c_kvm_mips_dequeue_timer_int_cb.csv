@@ -1,0 +1,7 @@
+C_IRQ5,VAR_0
+C_TI,VAR_1
+MIPS_EXC_INT_TIMER,VAR_2
+kvm_clear_c0_guest_cause,FUNC_0
+kvm_mips_dequeue_irq,FUNC_1
+kvm_mips_dequeue_timer_int_cb,FUNC_2
+vcpu,VAR_3

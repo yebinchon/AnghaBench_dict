@@ -1,0 +1,15 @@
+IOREGSEL,VAR_0
+IOWIN,VAR_1
+VIOAPIC_BASE,VAR_2
+VIOAPIC_LOCK,FUNC_0
+VIOAPIC_UNLOCK,FUNC_1
+vioapic_read,FUNC_2
+vioapic_write,FUNC_3
+vioapic_mmio_rw,FUNC_4
+vioapic,VAR_3
+vcpuid,VAR_4
+gpa,VAR_5
+data,VAR_6
+size,VAR_7
+doread,VAR_8
+offset,VAR_9

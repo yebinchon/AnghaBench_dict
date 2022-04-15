@@ -1,0 +1,14 @@
+proxy_connect_server,VAR_0
+proxy_disconnect_client,VAR_1
+proxy_init,VAR_2
+proxy_read_auth,VAR_3
+proxy_read_auth_result,VAR_4
+proxy_read_handshake,VAR_5
+proxy_read_local_infile_data,VAR_6
+proxy_read_local_infile_result,VAR_7
+proxy_read_query,VAR_8
+proxy_read_query_result,VAR_9
+proxy_send_local_infile_result,VAR_10
+proxy_send_query_result,VAR_11
+network_mysqld_proxy_connection_init,FUNC_0
+con,VAR_12

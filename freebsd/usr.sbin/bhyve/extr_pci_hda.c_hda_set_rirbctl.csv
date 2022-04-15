@@ -1,0 +1,12 @@
+HDAC_RIRBCTL_RIRBDMAEN,VAR_0
+assert,FUNC_0
+hda_get_reg_by_offset,FUNC_1
+hda_rirb_start,FUNC_2
+memset,FUNC_3
+hda_set_rirbctl,FUNC_4
+sc,VAR_1
+offset,VAR_2
+old,VAR_3
+value,VAR_4
+err,VAR_5
+rirb,VAR_6

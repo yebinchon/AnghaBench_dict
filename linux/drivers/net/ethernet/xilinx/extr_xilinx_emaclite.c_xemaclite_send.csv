@@ -1,0 +1,15 @@
+NETDEV_TX_OK,VAR_0
+dev_consume_skb_any,FUNC_0
+netdev_priv,FUNC_1
+netif_stop_queue,FUNC_2
+skb_tx_timestamp,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+xemaclite_send_data,FUNC_6
+xemaclite_send,FUNC_7
+orig_skb,VAR_1
+dev,VAR_2
+lp,VAR_3
+new_skb,VAR_4
+len,VAR_5
+flags,VAR_6

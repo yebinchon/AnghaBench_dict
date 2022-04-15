@@ -1,0 +1,16 @@
+BT_DBG,FUNC_0
+HCI_ISCAN,VAR_0
+HCI_OP_WRITE_SCAN_ENABLE,VAR_1
+HCI_PSCAN,VAR_2
+SCAN_INQUIRY,VAR_3
+SCAN_PAGE,VAR_4
+clear_bit,FUNC_1
+hci_req_complete,FUNC_2
+hci_sent_cmd_data,FUNC_3
+set_bit,FUNC_4
+hci_cc_write_scan_enable,FUNC_5
+hdev,VAR_5
+skb,VAR_6
+status,VAR_7
+sent,VAR_8
+param,VAR_9

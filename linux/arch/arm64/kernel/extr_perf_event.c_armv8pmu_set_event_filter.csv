@@ -1,0 +1,9 @@
+ARMV8_PMU_EXCLUDE_EL0,VAR_0
+ARMV8_PMU_EXCLUDE_EL1,VAR_1
+ARMV8_PMU_INCLUDE_EL2,VAR_2
+EPERM,VAR_3
+is_kernel_in_hyp_mode,FUNC_0
+armv8pmu_set_event_filter,FUNC_1
+event,VAR_4
+attr,VAR_5
+config_base,VAR_6

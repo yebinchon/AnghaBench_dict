@@ -1,0 +1,9 @@
+NILFS_MDT,FUNC_0
+down_write,FUNC_1
+nilfs_release_frozen_buffers,FUNC_2
+truncate_inode_pages,FUNC_3
+up_write,FUNC_4
+nilfs_mdt_clear_shadow_map,FUNC_5
+inode,VAR_0
+mi,VAR_1
+shadow,VAR_2

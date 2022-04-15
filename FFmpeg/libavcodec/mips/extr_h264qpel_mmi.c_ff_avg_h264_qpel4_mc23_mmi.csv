@@ -1,0 +1,9 @@
+ff_avg_pixels4_l2_8_mmi,FUNC_0
+put_h264_qpel4_h_lowpass_mmi,FUNC_1
+put_h264_qpel4_hv_lowpass_mmi,FUNC_2
+ff_avg_h264_qpel4_mc23_mmi,FUNC_3
+dst,VAR_0
+src,VAR_1
+stride,VAR_2
+halfH,VAR_3
+halfHV,VAR_4

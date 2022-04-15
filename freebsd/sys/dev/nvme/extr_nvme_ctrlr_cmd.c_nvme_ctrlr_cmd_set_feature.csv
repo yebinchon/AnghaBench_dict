@@ -1,0 +1,14 @@
+NVME_OPC_SET_FEATURES,VAR_0
+htole32,FUNC_0
+nvme_allocate_request_null,FUNC_1
+nvme_ctrlr_submit_admin_request,FUNC_2
+nvme_ctrlr_cmd_set_feature,FUNC_3
+ctrlr,VAR_1
+feature,VAR_2
+cdw11,VAR_3
+payload,VAR_4
+payload_size,VAR_5
+cb_fn,VAR_6
+cb_arg,VAR_7
+req,VAR_8
+cmd,VAR_9

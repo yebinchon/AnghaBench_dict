@@ -1,0 +1,9 @@
+SPRN_PURR,VAR_0
+be64_to_cpu,FUNC_0
+cpu_to_be64,FUNC_1
+get_lppaca,FUNC_2
+mfspr,FUNC_3
+ppc64_runlatch_on,FUNC_4
+idle_loop_epilog,FUNC_5
+in_purr,VAR_1
+wait_cycles,VAR_2

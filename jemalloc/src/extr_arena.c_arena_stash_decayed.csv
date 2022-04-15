@@ -1,0 +1,17 @@
+LG_PAGE,VAR_0
+WITNESS_RANK_CORE,VAR_1
+extent_list_append,FUNC_0
+extent_size_get,FUNC_1
+extents_evict,FUNC_2
+tsdn_witness_tsdp_get,FUNC_3
+witness_assert_depth_to_rank,FUNC_4
+arena_stash_decayed,FUNC_5
+tsdn,VAR_2
+arena,VAR_3
+r_extent_hooks,VAR_4
+eset,VAR_5
+npages_limit,VAR_6
+npages_decay_max,VAR_7
+decay_extents,VAR_8
+nstashed,VAR_9
+extent,VAR_10

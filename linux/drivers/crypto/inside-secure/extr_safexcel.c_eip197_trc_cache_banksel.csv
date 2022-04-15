@@ -1,0 +1,11 @@
+EIP197_CS_BANKSEL_MASK,VAR_0
+EIP197_CS_BANKSEL_OFS,VAR_1
+EIP197_CS_RAM_CTRL,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+eip197_trc_cache_banksel,FUNC_2
+priv,VAR_3
+addrmid,VAR_4
+actbank,VAR_5
+val,VAR_6
+curbank,VAR_7

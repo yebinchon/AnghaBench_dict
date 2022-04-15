@@ -1,0 +1,15 @@
+EEPROM_EWDS_OPCODE,VAR_0
+EEPROM_EWEN_OPCODE,VAR_1
+EEPROM_ICW1_SIGNATURE_CLEAR,VAR_2
+EEPROM_WRITE_OPCODE,VAR_3
+cpu_to_le16,FUNC_0
+ixgb_cleanup_eeprom,FUNC_1
+ixgb_setup_eeprom,FUNC_2
+ixgb_shift_out_bits,FUNC_3
+ixgb_standby_eeprom,FUNC_4
+ixgb_wait_eeprom_command,FUNC_5
+ixgb_write_eeprom,FUNC_6
+hw,VAR_4
+offset,VAR_5
+data,VAR_6
+ee_map,VAR_7

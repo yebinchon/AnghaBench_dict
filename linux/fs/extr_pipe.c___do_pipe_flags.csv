@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+O_CLOEXEC,VAR_1
+O_DIRECT,VAR_2
+O_NONBLOCK,VAR_3
+audit_fd_pair,FUNC_0
+create_pipe_files,FUNC_1
+fput,FUNC_2
+get_unused_fd_flags,FUNC_3
+put_unused_fd,FUNC_4
+__do_pipe_flags,FUNC_5
+fd,VAR_4
+files,VAR_5
+flags,VAR_6
+error,VAR_7
+fdw,VAR_8
+fdr,VAR_9

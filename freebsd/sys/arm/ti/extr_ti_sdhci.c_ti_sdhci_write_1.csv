@@ -1,0 +1,17 @@
+MMCHS_CON,VAR_0
+MMCHS_CON_DW8,VAR_1
+RD4,FUNC_0
+SDHCI_CTRL_8BITBUS,VAR_2
+SDHCI_HOST_CONTROL,VAR_3
+WR4,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+ti_mmchs_read_4,FUNC_4
+ti_mmchs_write_4,FUNC_5
+ti_sdhci_write_1,FUNC_6
+dev,VAR_4
+slot,VAR_5
+off,VAR_6
+val,VAR_7
+sc,VAR_8
+val32,VAR_9

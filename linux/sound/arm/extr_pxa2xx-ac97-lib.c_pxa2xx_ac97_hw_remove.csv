@@ -1,0 +1,13 @@
+GCR,VAR_0
+GCR_ACLINK_OFF,VAR_1
+IRQ_AC97,VAR_2
+ac97_clk,VAR_3
+ac97conf_clk,VAR_4
+clk_disable_unprepare,FUNC_0
+clk_put,FUNC_1
+cpu_is_pxa27x,FUNC_2
+free_irq,FUNC_3
+gpio_free,FUNC_4
+reset_gpio,VAR_5
+pxa2xx_ac97_hw_remove,FUNC_5
+dev,VAR_6

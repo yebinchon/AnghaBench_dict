@@ -1,0 +1,14 @@
+TUNER_AUD_ANA_STD,VAR_0
+TUNER_AUD_MODE,VAR_1
+get_audio_std,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pd_audio_modes,VAR_2
+send_set_req,FUNC_3
+pd_vidioc_s_tuner,FUNC_4
+pd,VAR_3
+index,VAR_4
+ret,VAR_5
+cmd_status,VAR_6
+param,VAR_7
+audiomode,VAR_8

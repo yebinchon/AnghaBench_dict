@@ -1,0 +1,10 @@
+BM_IO_IN_PROGRESS,VAR_0
+BufferDescriptorGetIOLock,FUNC_0
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_SHARED,VAR_1
+LockBufHdr,FUNC_3
+UnlockBufHdr,FUNC_4
+WaitIO,FUNC_5
+buf,VAR_2
+buf_state,VAR_3

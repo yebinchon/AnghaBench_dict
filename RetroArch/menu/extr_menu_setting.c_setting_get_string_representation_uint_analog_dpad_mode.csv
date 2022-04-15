@@ -1,0 +1,11 @@
+ANALOG_DPAD_LAST,VAR_0
+MENU_ENUM_LABEL_VALUE_LEFT_ANALOG,VAR_1
+MENU_ENUM_LABEL_VALUE_NONE,VAR_2
+MENU_ENUM_LABEL_VALUE_RIGHT_ANALOG,VAR_3
+msg_hash_to_str,FUNC_0
+strlcpy,FUNC_1
+setting_get_string_representation_uint_analog_dpad_mode,FUNC_2
+setting,VAR_4
+s,VAR_5
+len,VAR_6
+modes,VAR_7

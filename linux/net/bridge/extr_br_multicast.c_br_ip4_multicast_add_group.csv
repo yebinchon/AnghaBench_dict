@@ -1,0 +1,12 @@
+ETH_P_IP,VAR_0
+br_multicast_add_group,FUNC_0
+htons,FUNC_1
+ipv4_is_local_multicast,FUNC_2
+memset,FUNC_3
+br_ip4_multicast_add_group,FUNC_4
+br,VAR_1
+port,VAR_2
+group,VAR_3
+vid,VAR_4
+src,VAR_5
+br_group,VAR_6

@@ -1,0 +1,14 @@
+bio_sectors,FUNC_0
+blk_account_io_start,FUNC_1
+blk_rq_get_max_sectors,FUNC_2
+blk_rq_nr_discard_segments,FUNC_3
+blk_rq_pos,FUNC_4
+blk_rq_sectors,FUNC_5
+queue_max_discard_segments,FUNC_6
+req_set_nomerge,FUNC_7
+rq_qos_merge,FUNC_8
+bio_attempt_discard_merge,FUNC_9
+q,VAR_0
+req,VAR_1
+bio,VAR_2
+segments,VAR_3

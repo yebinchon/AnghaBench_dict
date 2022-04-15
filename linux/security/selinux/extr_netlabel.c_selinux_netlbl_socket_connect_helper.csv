@@ -1,0 +1,13 @@
+AF_UNSPEC,VAR_0
+ENOMEM,VAR_1
+NLBL_CONNLABELED,VAR_2
+NLBL_REQSKB,VAR_3
+netlbl_conn_setattr,FUNC_0
+netlbl_sock_delattr,FUNC_1
+selinux_netlbl_sock_genattr,FUNC_2
+selinux_netlbl_socket_connect_helper,FUNC_3
+sk,VAR_4
+addr,VAR_5
+rc,VAR_6
+sksec,VAR_7
+secattr,VAR_8

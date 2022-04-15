@@ -1,0 +1,16 @@
+ALL_STD_EXCEPT,VAR_0
+FE_ALL_EXCEPT,VAR_1
+FE_DIVBYZERO,VAR_2
+FE_INEXACT,VAR_3
+FE_INVALID,VAR_4
+FE_OVERFLOW,VAR_5
+FE_UNDERFLOW,VAR_6
+NEXCEPTS,VAR_7
+assert,FUNC_0
+feclearexcept,FUNC_1
+feraiseexcept,FUNC_2
+fetestexcept,FUNC_3
+std_except_sets,VAR_8
+test_feraiseexcept,FUNC_4
+excepts,VAR_9
+i,VAR_10

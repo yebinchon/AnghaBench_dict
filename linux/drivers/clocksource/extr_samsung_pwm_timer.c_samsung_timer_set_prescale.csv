@@ -1,0 +1,15 @@
+REG_TCFG0,VAR_0
+TCFG0_PRESCALER1_SHIFT,VAR_1
+TCFG0_PRESCALER_MASK,VAR_2
+pwm,VAR_3
+readl,FUNC_0
+samsung_pwm_lock,VAR_4
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel,FUNC_3
+samsung_timer_set_prescale,FUNC_4
+channel,VAR_5
+prescale,VAR_6
+flags,VAR_7
+shift,VAR_8
+reg,VAR_9

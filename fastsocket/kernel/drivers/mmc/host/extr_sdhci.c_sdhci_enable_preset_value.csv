@@ -1,0 +1,14 @@
+SDHCI_CTRL_PRESET_VAL_ENABLE,VAR_0
+SDHCI_HOST_CONTROL2,VAR_1
+SDHCI_SPEC_300,VAR_2
+mmc_priv,FUNC_0
+sdhci_readw,FUNC_1
+sdhci_writew,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+sdhci_enable_preset_value,FUNC_5
+mmc,VAR_3
+enable,VAR_4
+host,VAR_5
+ctrl,VAR_6
+flags,VAR_7

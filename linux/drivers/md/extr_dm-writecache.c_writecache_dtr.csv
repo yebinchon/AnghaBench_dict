@@ -1,0 +1,14 @@
+WC_MODE_PMEM,FUNC_0
+bioset_exit,FUNC_1
+destroy_workqueue,FUNC_2
+dm_io_client_destroy,FUNC_3
+dm_kcopyd_client_destroy,FUNC_4
+dm_put_device,FUNC_5
+kfree,FUNC_6
+kthread_stop,FUNC_7
+mempool_exit,FUNC_8
+persistent_memory_release,FUNC_9
+vfree,FUNC_10
+writecache_dtr,FUNC_11
+ti,VAR_0
+wc,VAR_1

@@ -1,0 +1,17 @@
+O_RDONLY,VAR_0
+SSH_ERR_KEY_BAD_PERMISSIONS,VAR_1
+SSH_ERR_SYSTEM_ERROR,VAR_2
+close,FUNC_0
+open,FUNC_1
+sshkey_load_private_type_fd,FUNC_2
+sshkey_perm_ok,FUNC_3
+sshkey_set_filename,FUNC_4
+sshkey_load_private_type,FUNC_5
+type,VAR_3
+filename,VAR_4
+passphrase,VAR_5
+keyp,VAR_6
+commentp,VAR_7
+perm_ok,VAR_8
+fd,VAR_9
+r,VAR_10

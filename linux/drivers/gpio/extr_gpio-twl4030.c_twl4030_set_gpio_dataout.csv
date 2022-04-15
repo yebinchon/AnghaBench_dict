@@ -1,0 +1,10 @@
+BIT,FUNC_0
+REG_CLEARGPIODATAOUT1,VAR_0
+REG_SETGPIODATAOUT1,VAR_1
+gpio_twl4030_write,FUNC_1
+twl4030_set_gpio_dataout,FUNC_2
+gpio,VAR_2
+enable,VAR_3
+d_bnk,VAR_4
+d_msk,VAR_5
+base,VAR_6

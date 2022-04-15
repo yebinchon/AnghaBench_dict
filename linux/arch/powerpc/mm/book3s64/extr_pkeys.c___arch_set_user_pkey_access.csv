@@ -1,0 +1,17 @@
+AMR_RD_BIT,VAR_0
+AMR_WR_BIT,VAR_1
+EINVAL,VAR_2
+IAMR_EX_BIT,VAR_3
+PKEY_DISABLE_ACCESS,VAR_4
+PKEY_DISABLE_EXECUTE,VAR_5
+PKEY_DISABLE_WRITE,VAR_6
+init_amr,FUNC_0
+init_iamr,FUNC_1
+is_pkey_enabled,FUNC_2
+pkey_execute_disable_supported,VAR_7
+__arch_set_user_pkey_access,FUNC_3
+tsk,VAR_8
+pkey,VAR_9
+init_val,VAR_10
+new_amr_bits,VAR_11
+new_iamr_bits,VAR_12

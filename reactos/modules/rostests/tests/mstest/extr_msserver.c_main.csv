@@ -1,0 +1,14 @@
+CloseHandle,FUNC_0
+CreateMailslot,FUNC_1
+FALSE,VAR_0
+MAILSLOT_WAIT_FOREVER,VAR_1
+ReadFile,FUNC_2
+printf,FUNC_3
+main,FUNC_4
+argc,VAR_2
+argv,VAR_3
+hMailslot,VAR_4
+chBuf,VAR_5
+fResult,VAR_6
+cbRead,VAR_7
+lpszMailslotName,VAR_8

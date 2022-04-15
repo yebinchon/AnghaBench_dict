@@ -1,0 +1,12 @@
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+sc1200_get_pci_clock,FUNC_2
+sc1200_pio_timings,VAR_0
+to_pci_dev,FUNC_3
+sc1200_tunepio,FUNC_4
+drive,VAR_1
+pio,VAR_2
+hwif,VAR_3
+pdev,VAR_4
+basereg,VAR_5
+format,VAR_6

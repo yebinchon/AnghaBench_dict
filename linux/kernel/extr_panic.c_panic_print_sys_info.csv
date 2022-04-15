@@ -1,0 +1,16 @@
+CONSOLE_REPLAY_ALL,VAR_0
+DUMP_ALL,VAR_1
+PANIC_PRINT_ALL_PRINTK_MSG,VAR_2
+PANIC_PRINT_FTRACE_INFO,VAR_3
+PANIC_PRINT_LOCK_INFO,VAR_4
+PANIC_PRINT_MEM_INFO,VAR_5
+PANIC_PRINT_TASK_INFO,VAR_6
+PANIC_PRINT_TIMER_INFO,VAR_7
+console_flush_on_panic,FUNC_0
+debug_show_all_locks,FUNC_1
+ftrace_dump,FUNC_2
+panic_print,VAR_8
+show_mem,FUNC_3
+show_state,FUNC_4
+sysrq_timer_list_show,FUNC_5
+panic_print_sys_info,FUNC_6

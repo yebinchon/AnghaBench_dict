@@ -1,0 +1,13 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_QPSC_LEN,VAR_0
+MLXSW_SP1_PTP_SHAPER_PARAMS_LEN,VAR_1
+mlxsw_reg_qpsc_pack,FUNC_1
+mlxsw_reg_write,FUNC_2
+mlxsw_sp1_ptp_shaper_params,VAR_2
+qpsc,VAR_3
+mlxsw_sp1_ptp_shaper_params_set,FUNC_3
+mlxsw_sp,VAR_4
+params,VAR_5
+qpsc_pl,VAR_6
+i,VAR_7
+err,VAR_8

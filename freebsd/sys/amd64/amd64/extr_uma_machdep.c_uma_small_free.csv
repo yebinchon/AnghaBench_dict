@@ -1,0 +1,11 @@
+DMAP_TO_PHYS,FUNC_0
+PHYS_TO_VM_PAGE,FUNC_1
+dump_drop_page,FUNC_2
+vm_page_free,FUNC_3
+vm_page_unwire_noq,FUNC_4
+uma_small_free,FUNC_5
+mem,VAR_0
+size,VAR_1
+flags,VAR_2
+m,VAR_3
+pa,VAR_4

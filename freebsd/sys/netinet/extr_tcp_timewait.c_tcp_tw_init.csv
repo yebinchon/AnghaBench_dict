@@ -1,0 +1,12 @@
+TAILQ_INIT,FUNC_0
+TUNABLE_INT_FETCH,FUNC_1
+TW_LOCK_INIT,FUNC_2
+UMA_ALIGN_PTR,VAR_0
+V_tcptw_zone,VAR_1
+V_tw_lock,VAR_2
+V_twq_2msl,VAR_3
+maxtcptw,VAR_4
+tcptw_auto_size,FUNC_3
+uma_zcreate,FUNC_4
+uma_zone_set_max,FUNC_5
+tcp_tw_init,FUNC_6

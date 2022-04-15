@@ -1,0 +1,15 @@
+ESP_ERROR_CHECK,FUNC_0
+TEST_ASSERT_EQUAL_HEX8,FUNC_1
+TEST_ASSERT_EQUAL_HEX8_ARRAY,FUNC_2
+TEST_ASSERT_NOT_NULL,FUNC_3
+esp_flash_read,FUNC_4
+free,FUNC_5
+malloc,FUNC_6
+printf,FUNC_7
+read_and_check,FUNC_8
+chip,VAR_0
+part,VAR_1
+source,VAR_2
+length,VAR_3
+buf,VAR_4
+ends,VAR_5

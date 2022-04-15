@@ -1,0 +1,17 @@
+BT_DBG,FUNC_0
+HCI_CONN_MODE_CHANGE_PEND,VAR_0
+HCI_CONN_SCO_SETUP_PEND,VAR_1
+HCI_OP_SNIFF_MODE,VAR_2
+__le16_to_cpu,FUNC_1
+clear_bit,FUNC_2
+hci_conn_hash_lookup_handle,FUNC_3
+hci_dev_lock,FUNC_4
+hci_dev_unlock,FUNC_5
+hci_sco_setup,FUNC_6
+hci_sent_cmd_data,FUNC_7
+test_and_clear_bit,FUNC_8
+hci_cs_sniff_mode,FUNC_9
+hdev,VAR_3
+status,VAR_4
+cp,VAR_5
+conn,VAR_6

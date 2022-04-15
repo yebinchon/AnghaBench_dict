@@ -1,0 +1,10 @@
+CTLFLAG_RW,VAR_0
+CTLTYPE_INT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+rssadapt_sysctl_interval,VAR_3
+rssadapt_sysctlattach,FUNC_2
+vap,VAR_4
+ctx,VAR_5
+tree,VAR_6

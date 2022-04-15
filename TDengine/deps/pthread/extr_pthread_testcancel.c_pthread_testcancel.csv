@@ -1,0 +1,13 @@
+PTHREAD_CANCEL_DISABLE,VAR_0
+PTW32_EPS_CANCEL,VAR_1
+PThreadStateCancelPending,VAR_2
+PThreadStateCanceling,VAR_3
+ResetEvent,FUNC_0
+pthread_self,FUNC_1
+ptw32_mcs_lock_acquire,FUNC_2
+ptw32_mcs_lock_release,FUNC_3
+ptw32_throw,FUNC_4
+pthread_testcancel,FUNC_5
+stateLock,VAR_4
+self,VAR_5
+sp,VAR_6

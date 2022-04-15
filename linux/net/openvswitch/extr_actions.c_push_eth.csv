@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+ETH_HLEN,VAR_1
+MAC_PROTO_ETHERNET,VAR_2
+eth_hdr,FUNC_0
+ether_addr_copy,FUNC_1
+invalidate_flow_key,FUNC_2
+skb_cow_head,FUNC_3
+skb_postpush_rcsum,FUNC_4
+skb_push,FUNC_5
+skb_reset_mac_header,FUNC_6
+skb_reset_mac_len,FUNC_7
+push_eth,FUNC_8
+skb,VAR_3
+key,VAR_4
+ethh,VAR_5
+hdr,VAR_6

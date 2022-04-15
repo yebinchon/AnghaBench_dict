@@ -1,0 +1,11 @@
+ETH_P_TEB,VAR_0
+GENEVE_VER,VAR_1
+TUNNEL_CRIT_OPT,VAR_2
+TUNNEL_GENEVE_OPT,VAR_3
+TUNNEL_OAM,VAR_4
+htons,FUNC_0
+ip_tunnel_info_opts_get,FUNC_1
+tunnel_id_to_vni,FUNC_2
+geneve_build_header,FUNC_3
+geneveh,VAR_5
+info,VAR_6

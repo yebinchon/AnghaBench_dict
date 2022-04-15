@@ -1,0 +1,16 @@
+FIXUP_RELATIVE,VAR_0
+dtoverlay_apply_fixups,FUNC_0
+dtoverlay_apply_fixups_node,FUNC_1
+dtoverlay_error,FUNC_2
+dtoverlay_phandle_relocate,FUNC_3
+fdt_getprop,FUNC_4
+fdt_next_node,FUNC_5
+fdt_path_offset,FUNC_6
+phandle_debug,FUNC_7
+dtoverlay_resolve_phandles,FUNC_8
+base_dtb,VAR_1
+overlay_dtb,VAR_2
+local_fixups_off,VAR_3
+node_off,VAR_4
+err,VAR_5
+fixups_stringlist,VAR_6

@@ -1,0 +1,14 @@
+BFI_CMD_COPY_SZ,VAR_0
+BFI_MC_MSGQ,VAR_1
+BFI_MSGQ_H2I_CMDQ_COPY_RSP,VAR_2
+bfa_msgq_cmdq_copy_next,FUNC_0
+bfa_nw_ioc_mbox_queue,FUNC_1
+bfi_h2i_set,FUNC_2
+htons,FUNC_3
+memcpy,FUNC_4
+memset,FUNC_5
+bfa_msgq_cmdq_copy_rsp,FUNC_6
+cmdq,VAR_3
+rsp,VAR_4
+copied,VAR_5
+addr,VAR_6

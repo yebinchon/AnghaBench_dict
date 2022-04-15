@@ -1,0 +1,11 @@
+GEN11_GUC_SG_INTR_ENABLE,VAR_0
+GEN11_GUC_SG_INTR_MASK,VAR_1
+gen11_reset_guc_interrupts,FUNC_0
+guc_to_gt,FUNC_1
+intel_synchronize_irq,FUNC_2
+intel_uncore_write,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+gen11_disable_guc_interrupts,FUNC_6
+guc,VAR_2
+gt,VAR_3

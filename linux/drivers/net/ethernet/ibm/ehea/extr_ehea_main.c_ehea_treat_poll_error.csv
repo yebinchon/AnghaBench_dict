@@ -1,0 +1,17 @@
+EHEA_CQE_STAT_ERR_CRC,VAR_0
+EHEA_CQE_STAT_ERR_IP,VAR_1
+EHEA_CQE_STAT_ERR_TCP,VAR_2
+EHEA_CQE_STAT_FAT_ERR_MASK,VAR_3
+dev_kfree_skb,FUNC_0
+ehea_dump,FUNC_1
+ehea_schedule_port_reset,FUNC_2
+get_skb_by_index,FUNC_3
+netif_msg_rx_err,FUNC_4
+pr_err,FUNC_5
+ehea_treat_poll_error,FUNC_6
+pr,VAR_4
+rq,VAR_5
+cqe,VAR_6
+processed_rq2,VAR_7
+processed_rq3,VAR_8
+skb,VAR_9

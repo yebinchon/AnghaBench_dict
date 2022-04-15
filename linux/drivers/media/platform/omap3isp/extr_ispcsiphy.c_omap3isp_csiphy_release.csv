@@ -1,0 +1,14 @@
+ISPCSI2_PHY_CFG_PWR_CMD_OFF,VAR_0
+ISP_REVISION_15_0,VAR_1
+csiphy_power_autoswitch_enable,FUNC_0
+csiphy_routing_cfg,FUNC_1
+csiphy_set_power,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+regulator_disable,FUNC_5
+to_isp_pipeline,FUNC_6
+v4l2_subdev_to_bus_cfg,FUNC_7
+omap3isp_csiphy_release,FUNC_8
+phy,VAR_2
+pipe,VAR_3
+buscfg,VAR_4

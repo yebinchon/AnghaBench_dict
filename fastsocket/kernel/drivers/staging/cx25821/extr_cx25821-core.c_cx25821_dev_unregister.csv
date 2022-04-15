@@ -1,0 +1,16 @@
+AUDIO_UPSTREAM_SRAM_CHANNEL_B,VAR_0
+VID_CHANNEL_NUM,VAR_1
+VID_UPSTREAM_SRAM_CHANNEL_I,VAR_2
+atomic_dec_and_test,FUNC_0
+cx25821_free_mem_upstream_audio,FUNC_1
+cx25821_free_mem_upstream_ch1,FUNC_2
+cx25821_free_mem_upstream_ch2,FUNC_3
+cx25821_i2c_unregister,FUNC_4
+cx25821_iounmap,FUNC_5
+cx25821_video_unregister,FUNC_6
+cx25821_videoioctl_unregister,FUNC_7
+pci_resource_len,FUNC_8
+release_mem_region,FUNC_9
+cx25821_dev_unregister,FUNC_10
+dev,VAR_3
+i,VAR_4

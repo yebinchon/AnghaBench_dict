@@ -1,0 +1,17 @@
+CHAN_INPUT_OPEN,VAR_0
+CHAN_INPUT_WAIT_DRAIN,VAR_1
+CHAN_OUTPUT_OPEN,VAR_2
+CHAN_OUTPUT_WAIT_DRAIN,VAR_3
+CHAN_RBUF,VAR_4
+FD_SET,FUNC_0
+chan_ibuf_empty,FUNC_1
+chan_obuf_empty,FUNC_2
+chan_rcvd_oclose,FUNC_3
+sshbuf_check_reserve,FUNC_4
+sshbuf_len,FUNC_5
+sshbuf_reset,FUNC_6
+channel_pre_mux_client,FUNC_7
+ssh,VAR_5
+c,VAR_6
+readset,VAR_7
+writeset,VAR_8

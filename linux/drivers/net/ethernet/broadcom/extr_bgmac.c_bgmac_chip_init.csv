@@ -1,0 +1,15 @@
+BGMAC_CMDCFG_ML,VAR_0
+BGMAC_CMDCFG_RPI,VAR_1
+BGMAC_INT_RECV_LAZY,VAR_2
+BGMAC_INT_STATUS,VAR_3
+BGMAC_IRL_FC_SHIFT,VAR_4
+BGMAC_RXMAX_LENGTH,VAR_5
+ETHER_MAX_LEN,VAR_6
+bgmac_chip_intrs_on,FUNC_0
+bgmac_cmdcfg_maskset,FUNC_1
+bgmac_enable,FUNC_2
+bgmac_set_rx_mode,FUNC_3
+bgmac_write,FUNC_4
+bgmac_write_mac_address,FUNC_5
+bgmac_chip_init,FUNC_6
+bgmac,VAR_7

@@ -1,0 +1,14 @@
+IMXMCI_INT_MASK_DEFAULT,VAR_0
+IMXMCI_PEND_CPU_DATA_m,VAR_1
+IMXMCI_PEND_DMA_DATA_m,VAR_2
+IMXMCI_PEND_DMA_END_m,VAR_3
+IMXMCI_PEND_WAIT_RESP_m,VAR_4
+MMC_REG_INT_MASK,VAR_5
+mmc_request_done,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writew,FUNC_3
+imxmci_finish_request,FUNC_4
+host,VAR_6
+req,VAR_7
+flags,VAR_8

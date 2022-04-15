@@ -1,0 +1,16 @@
+HARDRESET_EN,VAR_0
+IRQ_HANDLED,VAR_1
+KEY_POWER,VAR_2
+MAX8925_ON_OFF_STATUS,VAR_3
+MAX8925_SYSENSEL,VAR_4
+SW_INPUT,VAR_5
+dev_dbg,FUNC_0
+input_report_key,FUNC_1
+input_sync,FUNC_2
+max8925_reg_read,FUNC_3
+max8925_set_bits,FUNC_4
+max8925_onkey_handler,FUNC_5
+irq,VAR_6
+data,VAR_7
+info,VAR_8
+state,VAR_9

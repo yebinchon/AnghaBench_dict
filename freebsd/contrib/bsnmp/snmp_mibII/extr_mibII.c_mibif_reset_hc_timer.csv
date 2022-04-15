@@ -1,0 +1,13 @@
+IF_Mbps,FUNC_0
+LOG_ERR,VAR_0
+hc_update_timer,VAR_1
+mibif_force_hc_update_interval,VAR_2
+mibif_hc_update_interval,VAR_3
+mibif_maxspeed,VAR_4
+module,VAR_5
+syslog,FUNC_1
+timer_start_repeat,FUNC_2
+timer_stop,FUNC_3
+update_hc_counters,FUNC_4
+mibif_reset_hc_timer,FUNC_5
+ticks,VAR_6

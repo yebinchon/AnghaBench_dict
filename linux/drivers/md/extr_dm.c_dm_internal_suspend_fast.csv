@@ -1,0 +1,11 @@
+DMF_BLOCK_IO_FOR_SUSPEND,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+dm_suspended_internally_md,FUNC_0
+dm_suspended_md,FUNC_1
+dm_wait_for_completion,FUNC_2
+flush_workqueue,FUNC_3
+mutex_lock,FUNC_4
+set_bit,FUNC_5
+synchronize_srcu,FUNC_6
+dm_internal_suspend_fast,FUNC_7
+md,VAR_2

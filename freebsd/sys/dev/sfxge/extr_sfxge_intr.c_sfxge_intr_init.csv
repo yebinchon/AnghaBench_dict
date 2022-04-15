@@ -1,0 +1,16 @@
+EFX_INTR_SIZE,VAR_0
+ENOMEM,VAR_1
+KASSERT,FUNC_0
+SFXGE_INTR_INITIALIZED,VAR_2
+SFXGE_INTR_UNINITIALIZED,VAR_3
+device_printf,FUNC_1
+sfxge_dma_alloc,FUNC_2
+sfxge_intr_setup_fixed,FUNC_3
+sfxge_intr_setup_msi,FUNC_4
+sfxge_intr_setup_msix,FUNC_5
+sfxge_intr_init,FUNC_6
+sc,VAR_4
+dev,VAR_5
+intr,VAR_6
+esmp,VAR_7
+rc,VAR_8

@@ -1,0 +1,9 @@
+BIT_2,VAR_0
+Q8_MBOX_INT_ENABLE,VAR_1
+Q8_MBOX_INT_MASK_MSIX,VAR_2
+READ_REG32,FUNC_0
+WRITE_REG32,FUNC_1
+qla_get_nic_partition,FUNC_2
+supports_9kb,VAR_3
+qla_confirm_9kb_enable,FUNC_3
+ha,VAR_4

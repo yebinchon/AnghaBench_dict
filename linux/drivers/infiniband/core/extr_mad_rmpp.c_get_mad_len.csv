@@ -1,0 +1,13 @@
+IB_MGMT_RMPP_DATA,VAR_0
+OPA_MGMT_BASE_VERSION,VAR_1
+OPA_MGMT_RMPP_DATA,VAR_2
+be32_to_cpu,FUNC_0
+ib_get_mad_data_offset,FUNC_1
+rdma_cap_opa_mad,FUNC_2
+get_mad_len,FUNC_3
+rmpp_recv,VAR_3
+rmpp_mad,VAR_4
+hdr_size,VAR_5
+data_size,VAR_6
+pad,VAR_7
+opa,VAR_8

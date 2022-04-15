@@ -1,0 +1,11 @@
+ARCMSR_MESSAGE_INT_CLEAR_PATTERN,VAR_0
+ARCMSR_SIGNATURE_GET_CONFIG,VAR_1
+CHIP_REG_READ32,FUNC_0
+HBB_RWBUFFER,VAR_2
+WRITE_CHIP_REG32,FUNC_1
+arcmsr_dr_handle,FUNC_2
+msgcode_rwbuffer,VAR_3
+arcmsr_hbb_message_isr,FUNC_3
+acb,VAR_4
+outbound_message,VAR_5
+phbbmu,VAR_6

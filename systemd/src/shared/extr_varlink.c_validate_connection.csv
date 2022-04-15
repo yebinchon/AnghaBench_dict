@@ -1,0 +1,16 @@
+FLAGS_SET,FUNC_0
+PTR_TO_UINT,FUNC_1
+UID_TO_PTR,FUNC_2
+VARLINK_SERVER_ACCOUNT_UID,VAR_0
+VARLINK_SERVER_MYSELF_ONLY,VAR_1
+VARLINK_SERVER_ROOT_ONLY,VAR_2
+assert,FUNC_3
+getuid,FUNC_4
+hashmap_get,FUNC_5
+uid_is_valid,FUNC_6
+varlink_server_log,FUNC_7
+validate_connection,FUNC_8
+server,VAR_3
+ucred,VAR_4
+allowed,VAR_5
+c,VAR_6

@@ -1,0 +1,12 @@
+ASIC_EEP_ADDR_CMD,VAR_0
+ASIC_EEP_DATA,VAR_1
+CMD_NOP,VAR_2
+CMD_READ_DATA,FUNC_0
+EP_PAGE_DWORDS,VAR_3
+read_csr,FUNC_1
+write_csr,FUNC_2
+read_page,FUNC_3
+dd,VAR_4
+offset,VAR_5
+result,VAR_6
+i,VAR_7

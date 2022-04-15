@@ -1,0 +1,11 @@
+DSU_PMU_COUNTER_MASK,FUNC_0
+dsu_pmu_read_counter,FUNC_1
+local64_add,FUNC_2
+local64_cmpxchg,FUNC_3
+local64_read,FUNC_4
+dsu_pmu_event_update,FUNC_5
+event,VAR_0
+hwc,VAR_1
+delta,VAR_2
+prev_count,VAR_3
+new_count,VAR_4

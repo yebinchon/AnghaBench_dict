@@ -1,0 +1,16 @@
+AMDGPU_GEM_CREATE_CPU_GTT_USWC,VAR_0
+AMDGPU_GEM_CREATE_SHADOW,VAR_1
+AMDGPU_GEM_DOMAIN_GTT,VAR_2
+amdgpu_bo_do_create,FUNC_0
+amdgpu_bo_ref,FUNC_1
+list_add_tail,FUNC_2
+memset,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+ttm_bo_type_kernel,VAR_3
+amdgpu_bo_create_shadow,FUNC_6
+adev,VAR_4
+size,VAR_5
+bo,VAR_6
+bp,VAR_7
+r,VAR_8

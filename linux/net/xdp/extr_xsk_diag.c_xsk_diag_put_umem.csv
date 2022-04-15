@@ -1,0 +1,13 @@
+XDP_DIAG_UMEM,VAR_0
+XDP_DIAG_UMEM_COMPLETION_RING,VAR_1
+XDP_DIAG_UMEM_FILL_RING,VAR_2
+XDP_DU_F_ZEROCOPY,VAR_3
+nla_put,FUNC_0
+refcount_read,FUNC_1
+xsk_diag_put_ring,FUNC_2
+xsk_diag_put_umem,FUNC_3
+xs,VAR_4
+nlskb,VAR_5
+umem,VAR_6
+du,VAR_7
+err,VAR_8

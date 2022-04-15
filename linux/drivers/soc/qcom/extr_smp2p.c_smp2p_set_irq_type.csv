@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+IRQ_TYPE_EDGE_BOTH,VAR_1
+IRQ_TYPE_EDGE_FALLING,VAR_2
+IRQ_TYPE_EDGE_RISING,VAR_3
+clear_bit,FUNC_0
+irq_data_get_irq_chip_data,FUNC_1
+irqd_to_hwirq,FUNC_2
+set_bit,FUNC_3
+smp2p_set_irq_type,FUNC_4
+irqd,VAR_4
+type,VAR_5
+entry,VAR_6
+irq,VAR_7

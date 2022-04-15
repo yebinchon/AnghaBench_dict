@@ -1,0 +1,16 @@
+DRM_MODE_CONNECTOR_VIRTUAL,VAR_0
+DRM_MODE_OBJECT_CONNECTOR,VAR_1
+INIT_LIST_HEAD,FUNC_0
+connector_status_unknown,VAR_2
+drm_connector_enum_list,VAR_3
+drm_mode_object_get,FUNC_1
+drm_modeset_lock_all,FUNC_2
+drm_modeset_unlock_all,FUNC_3
+drm_object_attach_property,FUNC_4
+list_add_tail,FUNC_5
+drm_connector_init,FUNC_6
+dev,VAR_4
+connector,VAR_5
+funcs,VAR_6
+connector_type,VAR_7
+ret,VAR_8

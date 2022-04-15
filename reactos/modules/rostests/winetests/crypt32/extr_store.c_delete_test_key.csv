@@ -1,0 +1,17 @@
+ARRAY_SIZE,FUNC_0
+HKEY_CURRENT_USER,VAR_0
+KEY_READ,VAR_1
+RegCloseKey,FUNC_1
+RegDeleteKeyW,FUNC_2
+RegEnumKeyExW,FUNC_3
+RegOpenKeyExW,FUNC_4
+RegQueryInfoKeyW,FUNC_5
+delete_test_key,FUNC_6
+root_key,VAR_2
+test_key,VAR_3
+SysCertW,VAR_4
+WineTestW,VAR_5
+subkey_name,VAR_6
+num_subkeys,VAR_7
+subkey_name_len,VAR_8
+idx,VAR_9

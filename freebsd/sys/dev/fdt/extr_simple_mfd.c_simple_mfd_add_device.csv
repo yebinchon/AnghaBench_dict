@@ -1,0 +1,17 @@
+M_DEVBUF,VAR_0
+device_add_child_ordered,FUNC_0
+device_printf,FUNC_1
+device_set_ivars,FUNC_2
+free,FUNC_3
+ofw_bus_gen_destroy_devinfo,FUNC_4
+resource_list_free,FUNC_5
+simple_mfd_setup_dinfo,FUNC_6
+simple_mfd_add_device,FUNC_7
+dev,VAR_1
+node,VAR_2
+order,VAR_3
+name,VAR_4
+unit,VAR_5
+di,VAR_6
+ndi,VAR_7
+cdev,VAR_8

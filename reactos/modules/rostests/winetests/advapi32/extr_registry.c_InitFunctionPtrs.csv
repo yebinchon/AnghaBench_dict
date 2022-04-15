@@ -1,0 +1,17 @@
+ADVAPI32_GET_PROC,FUNC_0
+GetModuleHandleA,FUNC_1
+GetProcAddress,FUNC_2
+RegCopyTreeA,VAR_0
+RegDeleteKeyExA,VAR_1
+RegDeleteKeyValueA,VAR_2
+RegDeleteTreeA,VAR_3
+RegGetValueA,VAR_4
+RegSetKeyValueW,VAR_5
+pIsWow64Process,VAR_6
+pNtDeleteKey,VAR_7
+pRtlFormatCurrentUserKeyPath,VAR_8
+pRtlFreeUnicodeString,VAR_9
+InitFunctionPtrs,FUNC_3
+hntdll,VAR_10
+hkernel32,VAR_11
+hadvapi32,VAR_12

@@ -1,0 +1,13 @@
+blk_end_request_all,FUNC_0
+blk_fetch_request,FUNC_1
+blk_queue_plugged,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+to_sas_internal,FUNC_5
+sas_smp_request,FUNC_6
+q,VAR_0
+shost,VAR_1
+rphy,VAR_2
+req,VAR_3
+ret,VAR_4
+handler,VAR_5

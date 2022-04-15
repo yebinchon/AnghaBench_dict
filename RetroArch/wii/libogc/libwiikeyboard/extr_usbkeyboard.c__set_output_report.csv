@@ -1,0 +1,12 @@
+USB_REPTYPE_OUTPUT,VAR_0
+USB_REQTYPE_INTERFACE_SET,VAR_1
+USB_REQ_SETREPORT,VAR_2
+USB_WriteCtrlMsg,FUNC_0
+_kbd,VAR_3
+hId,VAR_4
+iosAlloc,FUNC_1
+iosFree,FUNC_2
+memcpy,FUNC_3
+_set_output_report,FUNC_4
+buffer,VAR_5
+ret,VAR_6

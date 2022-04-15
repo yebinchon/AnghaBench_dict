@@ -1,0 +1,17 @@
+URTW_ASSERT_LOCKED,FUNC_0
+USB_ERR_CANCELLED,VAR_0
+USB_GET_STATE,FUNC_1
+counter_u64_add,FUNC_2
+memcpy,FUNC_3
+urtw_txstatus_eof,FUNC_4
+usbd_transfer_submit,FUNC_5
+usbd_xfer_get_frame_buffer,FUNC_6
+usbd_xfer_set_frame_len,FUNC_7
+usbd_xfer_set_stall,FUNC_8
+usbd_xfer_softc,FUNC_9
+urtw_bulk_tx_status_callback,FUNC_10
+xfer,VAR_1
+error,VAR_2
+sc,VAR_3
+ic,VAR_4
+dma_buf,VAR_5

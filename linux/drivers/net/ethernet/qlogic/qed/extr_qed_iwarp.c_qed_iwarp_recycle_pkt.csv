@@ -1,0 +1,12 @@
+DP_VERBOSE,FUNC_0
+QED_LL2_TX_DEST_DROP,VAR_0
+QED_MSG_RDMA,VAR_1
+memset,FUNC_1
+qed_ll2_prepare_tx_packet,FUNC_2
+qed_iwarp_recycle_pkt,FUNC_3
+p_hwfn,VAR_2
+fpdu,VAR_3
+buf,VAR_4
+tx_pkt,VAR_5
+ll2_handle,VAR_6
+rc,VAR_7

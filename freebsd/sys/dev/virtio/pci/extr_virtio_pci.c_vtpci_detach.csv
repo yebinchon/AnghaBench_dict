@@ -1,0 +1,12 @@
+PCIR_BAR,FUNC_0
+SYS_RES_IOPORT,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_1
+device_delete_child,FUNC_2
+device_get_softc,FUNC_3
+vtpci_reset,FUNC_4
+vtpci_detach,FUNC_5
+dev,VAR_2
+sc,VAR_3
+child,VAR_4
+error,VAR_5

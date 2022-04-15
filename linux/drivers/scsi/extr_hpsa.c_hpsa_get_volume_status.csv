@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+HPSA_VPD_HEADER_SZ,VAR_1
+HPSA_VPD_LV_STATUS,VAR_2
+HPSA_VPD_LV_STATUS_UNSUPPORTED,VAR_3
+VPD_PAGE,VAR_4
+hpsa_scsi_do_inquiry,FUNC_0
+hpsa_vpd_page_supported,FUNC_1
+kfree,FUNC_2
+kzalloc,FUNC_3
+hpsa_get_volume_status,FUNC_4
+h,VAR_5
+scsi3addr,VAR_6
+rc,VAR_7
+status,VAR_8
+size,VAR_9
+buf,VAR_10

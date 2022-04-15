@@ -1,0 +1,10 @@
+MG_MQTT_CMD_PUBREL,VAR_0
+htons,FUNC_0
+mg_send,FUNC_1
+mg_send_mqtt_header,FUNC_2
+mg_send_mqtt_short_command,FUNC_3
+nc,VAR_1
+cmd,VAR_2
+message_id,VAR_3
+netbytes,VAR_4
+flags,VAR_5

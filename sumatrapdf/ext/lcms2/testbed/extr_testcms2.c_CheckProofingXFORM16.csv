@@ -1,0 +1,14 @@
+Check16linearXFORM,FUNC_0
+Create_AboveRGB,FUNC_1
+DbgThread,FUNC_2
+INTENT_RELATIVE_COLORIMETRIC,VAR_0
+TYPE_RGB_16,VAR_1
+cmsCloseProfile,FUNC_3
+cmsCreateProofingTransform,FUNC_4
+cmsDeleteTransform,FUNC_5
+cmsFLAGS_NOCACHE,VAR_2
+cmsFLAGS_SOFTPROOFING,VAR_3
+CheckProofingXFORM16,FUNC_6
+hAbove,VAR_4
+xform,VAR_5
+rc,VAR_6

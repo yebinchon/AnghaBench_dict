@@ -1,0 +1,17 @@
+BIT,FUNC_0
+DIV_ROUND_UP_ULL,FUNC_1
+PLL_MODE,FUNC_2
+PLL_USER_CTL,FUNC_3
+PLL_VOTE_FSM_ENA,VAR_0
+regmap_read,FUNC_4
+regmap_update_bits,FUNC_5
+to_clk_alpha_pll_postdiv,FUNC_6
+clk_alpha_pll_postdiv_fabia_set_rate,FUNC_7
+hw,VAR_1
+rate,VAR_2
+parent_rate,VAR_3
+pll,VAR_4
+i,VAR_5
+val,VAR_6
+div,VAR_7
+ret,VAR_8

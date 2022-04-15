@@ -1,0 +1,15 @@
+DB_MASK_LOCK,FUNC_0
+DB_MASK_UNLOCK,FUNC_1
+NTB_XEON,VAR_0
+callout_drain,FUNC_2
+db_iowrite,FUNC_3
+device_get_softc,FUNC_4
+intel_ntb_teardown_interrupts,FUNC_5
+intel_ntb_teardown_xeon,FUNC_6
+intel_ntb_unmap_pci_bar,FUNC_7
+mtx_destroy,FUNC_8
+ntb_unregister_device,FUNC_9
+pci_disable_busmaster,FUNC_10
+intel_ntb_detach,FUNC_11
+device,VAR_1
+ntb,VAR_2

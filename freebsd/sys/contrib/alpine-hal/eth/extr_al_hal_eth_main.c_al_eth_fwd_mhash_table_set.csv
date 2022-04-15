@@ -1,0 +1,11 @@
+AL_ETH_FWD_MAC_HASH_NUM,VAR_0
+AL_FIELD_MASK,FUNC_0
+AL_REG_FIELD_SET,FUNC_1
+al_assert,FUNC_2
+al_reg_write32,FUNC_3
+al_eth_fwd_mhash_table_set,FUNC_4
+adapter,VAR_1
+idx,VAR_2
+udma_mask,VAR_3
+qid,VAR_4
+val,VAR_5

@@ -1,0 +1,16 @@
+AHC_EDGE_INTERRUPT,VAR_0
+ENOMEM,VAR_1
+INTR_MPSAFE,VAR_2
+INTR_TYPE_CAM,VAR_3
+RF_ACTIVE,VAR_4
+RF_SHAREABLE,VAR_5
+SYS_RES_IRQ,VAR_6
+ahc_platform_intr,VAR_7
+bus_alloc_resource_any,FUNC_0
+bus_setup_intr,FUNC_1
+device_printf,FUNC_2
+ahc_map_int,FUNC_3
+ahc,VAR_8
+error,VAR_9
+zero,VAR_10
+shareable,VAR_11

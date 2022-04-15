@@ -1,0 +1,13 @@
+DELAY,FUNC_0
+IFF_DRV_RUNNING,VAR_0
+MXGEFW_CMD_ETHERNET_DOWN,VAR_1
+device_printf,FUNC_1
+mxge_free_mbufs,FUNC_2
+mxge_send_cmd,FUNC_3
+wmb,FUNC_4
+mxge_close,FUNC_5
+sc,VAR_2
+down,VAR_3
+cmd,VAR_4
+err,VAR_5
+old_down_cnt,VAR_6

@@ -1,0 +1,17 @@
+TPM_READY_TMO,VAR_0
+TPM_READ_TMO,VAR_1
+TPM_STS,VAR_2
+TPM_STS_BITS,VAR_3
+TPM_STS_CMD_READY,VAR_4
+TPM_STS_DATA_AVAIL,VAR_5
+TPM_STS_VALID,VAR_6
+UIO_READ,VAR_7
+bus_space_write_1,FUNC_0
+printf,FUNC_1
+tpm_request_locality,FUNC_2
+tpm_status,FUNC_3
+tpm_waitfor,FUNC_4
+tpm_tis12_start,FUNC_5
+sc,VAR_8
+flag,VAR_9
+rv,VAR_10

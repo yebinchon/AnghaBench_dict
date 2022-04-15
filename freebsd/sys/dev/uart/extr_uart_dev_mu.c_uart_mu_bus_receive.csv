@@ -1,0 +1,16 @@
+AUX_MU_IO_REG,VAR_0
+AUX_MU_LSR_REG,VAR_1
+LSR_RXREADY,VAR_2
+UART_STAT_OVERRUN,VAR_3
+__uart_getreg,FUNC_0
+uart_lock,FUNC_1
+uart_rx_full,FUNC_2
+uart_rx_put,FUNC_3
+uart_unlock,FUNC_4
+uart_mu_bus_receive,FUNC_5
+sc,VAR_4
+psc,VAR_5
+bas,VAR_6
+lsr,VAR_7
+xc,VAR_8
+rx,VAR_9

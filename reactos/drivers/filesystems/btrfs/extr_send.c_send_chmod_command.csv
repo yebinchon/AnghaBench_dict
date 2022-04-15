@@ -1,0 +1,12 @@
+BTRFS_SEND_CMD_CHMOD,VAR_0
+BTRFS_SEND_TLV_MODE,VAR_1
+BTRFS_SEND_TLV_PATH,VAR_2
+send_add_tlv,FUNC_0
+send_command,FUNC_1
+send_command_finish,FUNC_2
+strlen,FUNC_3
+send_chmod_command,FUNC_4
+context,VAR_3
+path,VAR_4
+mode,VAR_5
+pos,VAR_6

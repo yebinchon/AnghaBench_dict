@@ -1,0 +1,11 @@
+IGB_FLAG_VLAN_PROMISC,VAR_0
+clear_bit,FUNC_0
+igb_vfta_set,FUNC_1
+netdev_priv,FUNC_2
+igb_vlan_rx_kill_vid,FUNC_3
+netdev,VAR_1
+proto,VAR_2
+vid,VAR_3
+adapter,VAR_4
+pf_id,VAR_5
+hw,VAR_6

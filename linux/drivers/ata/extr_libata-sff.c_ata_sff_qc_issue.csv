@@ -1,0 +1,16 @@
+AC_ERR_SYSTEM,VAR_0
+ATA_DFLAG_CDB_INTR,VAR_1
+ATA_FLAG_PIO_POLLING,VAR_2
+ATA_TFLAG_POLLING,VAR_3
+ATA_TFLAG_WRITE,VAR_4
+HSM_ST,VAR_5
+HSM_ST_FIRST,VAR_6
+HSM_ST_LAST,VAR_7
+ata_dev_select,FUNC_0
+ata_qc_set_polling,FUNC_1
+ata_sff_queue_pio_task,FUNC_2
+ata_tf_to_host,FUNC_3
+ata_sff_qc_issue,FUNC_4
+qc,VAR_8
+ap,VAR_9
+link,VAR_10

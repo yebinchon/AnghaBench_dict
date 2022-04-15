@@ -1,0 +1,11 @@
+input_unregister_device,FUNC_0
+interface_to_usbdev,FUNC_1
+kfree,FUNC_2
+usb_buffer_free,FUNC_3
+usb_free_urb,FUNC_4
+usb_get_intfdata,FUNC_5
+usb_kill_urb,FUNC_6
+usb_set_intfdata,FUNC_7
+kbtab_disconnect,FUNC_8
+intf,VAR_0
+kbtab,VAR_1

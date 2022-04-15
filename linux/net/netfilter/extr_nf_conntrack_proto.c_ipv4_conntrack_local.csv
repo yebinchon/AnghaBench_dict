@@ -1,0 +1,13 @@
+NF_ACCEPT,VAR_0
+ip_hdr,FUNC_0
+ip_is_fragment,FUNC_1
+nf_conntrack_in,FUNC_2
+nf_ct_get,FUNC_3
+nf_ct_is_template,FUNC_4
+nf_ct_put,FUNC_5
+ipv4_conntrack_local,FUNC_6
+priv,VAR_1
+skb,VAR_2
+state,VAR_3
+ctinfo,VAR_4
+tmpl,VAR_5

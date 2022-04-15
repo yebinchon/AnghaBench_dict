@@ -1,0 +1,13 @@
+ISO_VOLUME_DESCRIPTOR_PVD,VAR_0
+ISO_VOLUME_DESCRIPTOR_STANDARD_ID,VAR_1
+ISO_VOLUME_DESCRIPTOR_TERMINATOR,VAR_2
+cd9660_setup_boot_volume_descriptor,FUNC_0
+ecalloc,FUNC_1
+emalloc,FUNC_2
+memcpy,FUNC_3
+printf,FUNC_4
+cd9660_setup_volume_descriptors,FUNC_5
+diskStructure,VAR_3
+sector,VAR_4
+temp,VAR_5
+t,VAR_6

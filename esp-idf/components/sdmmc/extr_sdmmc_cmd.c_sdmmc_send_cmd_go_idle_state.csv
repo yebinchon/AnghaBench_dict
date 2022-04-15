@@ -1,0 +1,14 @@
+ESP_OK,VAR_0
+MMC_GO_IDLE_STATE,VAR_1
+SCF_CMD_BC,VAR_2
+SCF_RSP_R0,VAR_3
+SCF_RSP_R1,VAR_4
+SDMMC_GO_IDLE_DELAY_MS,VAR_5
+host_is_spi,FUNC_0
+portTICK_PERIOD_MS,VAR_6
+sdmmc_send_cmd,FUNC_1
+vTaskDelay,FUNC_2
+sdmmc_send_cmd_go_idle_state,FUNC_3
+card,VAR_7
+cmd,VAR_8
+err,VAR_9

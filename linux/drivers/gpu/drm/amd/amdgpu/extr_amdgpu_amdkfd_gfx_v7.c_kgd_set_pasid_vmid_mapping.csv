@@ -1,0 +1,14 @@
+ATC_VMID0_PASID_MAPPING__VALID_MASK,VAR_0
+RREG32,FUNC_0
+WREG32,FUNC_1
+cpu_relax,FUNC_2
+get_amdgpu_device,FUNC_3
+mmATC_VMID0_PASID_MAPPING,VAR_1
+mmATC_VMID_PASID_MAPPING_UPDATE_STATUS,VAR_2
+mmIH_VMID_0_LUT,VAR_3
+kgd_set_pasid_vmid_mapping,FUNC_4
+kgd,VAR_4
+pasid,VAR_5
+vmid,VAR_6
+adev,VAR_7
+pasid_mapping,VAR_8

@@ -1,0 +1,17 @@
+IS_AUTOMOUNT,FUNC_0
+IS_NOATIME,FUNC_1
+KSTAT_QUERY_FLAGS,VAR_0
+STATX_ALL,VAR_1
+STATX_ATIME,VAR_2
+STATX_ATTR_AUTOMOUNT,VAR_3
+STATX_BASIC_STATS,VAR_4
+d_backing_inode,FUNC_2
+generic_fillattr,FUNC_3
+memset,FUNC_4
+stub1,FUNC_5
+vfs_getattr_nosec,FUNC_6
+path,VAR_5
+stat,VAR_6
+request_mask,VAR_7
+query_flags,VAR_8
+inode,VAR_9

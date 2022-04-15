@@ -1,0 +1,10 @@
+ACPI_DO_NOT_WAIT,VAR_0
+AE_BAD_PARAMETER,VAR_1
+AE_OK,VAR_2
+AE_TIME,VAR_3
+DPRINT1,FUNC_0
+ExAcquireFastMutex,FUNC_1
+ExTryToAcquireFastMutex,FUNC_2
+AcpiOsAcquireMutex,FUNC_3
+Handle,VAR_4
+Timeout,VAR_5

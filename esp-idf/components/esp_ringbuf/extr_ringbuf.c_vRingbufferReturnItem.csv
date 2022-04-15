@@ -1,0 +1,10 @@
+configASSERT,FUNC_0
+portENTER_CRITICAL,FUNC_1
+portEXIT_CRITICAL,FUNC_2
+rbGET_TX_SEM_HANDLE,FUNC_3
+stub1,FUNC_4
+xSemaphoreGive,FUNC_5
+vRingbufferReturnItem,FUNC_6
+xRingbuffer,VAR_0
+pvItem,VAR_1
+pxRingbuffer,VAR_2

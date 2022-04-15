@@ -1,0 +1,9 @@
+dr_rule_destroy_rule,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+refcount_dec,FUNC_3
+mlx5dr_rule_destroy,FUNC_4
+rule,VAR_0
+matcher,VAR_1
+tbl,VAR_2
+ret,VAR_3

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+KERN_SUCCESS,VAR_1
+MACH_PORT_NULL,VAR_2
+WORK_INTERVAL_FLAG_JOINABLE,VAR_3
+WORK_INTERVAL_OPERATION_DESTROY,VAR_4
+__work_interval_ctl,FUNC_0
+errno,VAR_5
+free,FUNC_1
+mach_port_deallocate,FUNC_2
+mach_task_self,FUNC_3
+work_interval_destroy,FUNC_4
+interval_handle,VAR_6
+wi_port,VAR_7
+kr,VAR_8
+work_interval_id,VAR_9
+ret,VAR_10
+saved_errno,VAR_11

@@ -1,0 +1,12 @@
+BUG,FUNC_0
+BUG_ON,FUNC_1
+WARN_ON,FUNC_2
+__ceph_msg_data_cursor_init,FUNC_3
+ceph_msg_data_bio_advance,FUNC_4
+ceph_msg_data_bvecs_advance,FUNC_5
+ceph_msg_data_pagelist_advance,FUNC_6
+ceph_msg_data_pages_advance,FUNC_7
+ceph_msg_data_advance,FUNC_8
+cursor,VAR_0
+bytes,VAR_1
+new_piece,VAR_2

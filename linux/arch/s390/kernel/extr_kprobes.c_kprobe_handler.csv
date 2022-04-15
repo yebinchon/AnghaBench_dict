@@ -1,0 +1,17 @@
+KPROBE_HIT_ACTIVE,VAR_0
+KPROBE_HIT_SS,VAR_1
+KPROBE_REENTER,VAR_2
+enable_singlestep,FUNC_0
+get_kprobe,FUNC_1
+get_kprobe_ctlblk,FUNC_2
+kprobe_reenter_check,FUNC_3
+kprobe_running,FUNC_4
+pop_kprobe,FUNC_5
+preempt_disable,FUNC_6
+preempt_enable_no_resched,FUNC_7
+push_kprobe,FUNC_8
+stub1,FUNC_9
+kprobe_handler,FUNC_10
+regs,VAR_3
+kcb,VAR_4
+p,VAR_5

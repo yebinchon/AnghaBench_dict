@@ -1,0 +1,13 @@
+MSR_PR,VAR_0
+SID_MAP_MASK,VAR_1
+VSID_PR,VAR_2
+kvmppc_get_msr,FUNC_0
+kvmppc_sid_hash,FUNC_1
+to_book3s,FUNC_2
+trace_kvm_book3s_slb_fail,FUNC_3
+trace_kvm_book3s_slb_found,FUNC_4
+find_sid_vsid,FUNC_5
+vcpu,VAR_3
+gvsid,VAR_4
+map,VAR_5
+sid_map_mask,VAR_6

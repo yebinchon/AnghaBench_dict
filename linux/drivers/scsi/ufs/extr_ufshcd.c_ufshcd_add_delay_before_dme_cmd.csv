@@ -1,0 +1,11 @@
+MIN_DELAY_BEFORE_DME_CMDS_US,VAR_0
+UFSHCD_QUIRK_DELAY_BEFORE_DME_CMDS,VAR_1
+ktime_get,FUNC_0
+ktime_sub,FUNC_1
+ktime_to_us,FUNC_2
+unlikely,FUNC_3
+usleep_range,FUNC_4
+ufshcd_add_delay_before_dme_cmd,FUNC_5
+hba,VAR_2
+min_sleep_time_us,VAR_3
+delta,VAR_4

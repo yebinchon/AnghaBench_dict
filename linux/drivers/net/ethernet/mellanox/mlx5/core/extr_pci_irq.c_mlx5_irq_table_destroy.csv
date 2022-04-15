@@ -1,0 +1,11 @@
+clear_comp_irqs_affinity_hints,FUNC_0
+free_irq,FUNC_1
+irq_clear_rmap,FUNC_2
+kfree,FUNC_3
+mlx5_irq_get,FUNC_4
+pci_free_irq_vectors,FUNC_5
+pci_irq_vector,FUNC_6
+mlx5_irq_table_destroy,FUNC_7
+dev,VAR_0
+table,VAR_1
+i,VAR_2

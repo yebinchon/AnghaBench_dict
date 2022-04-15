@@ -1,0 +1,16 @@
+CVMX_RTC_DS1337_ADDR,VAR_0
+bin2bcd,FUNC_0
+cvmx_dprintf,FUNC_1
+cvmx_twsi_read8,FUNC_2
+cvmx_twsi_write8,FUNC_3
+localtime_r,FUNC_4
+validate_tm_struct,FUNC_5
+cvmx_rtc_ds1337_write,FUNC_6
+time,VAR_1
+i,VAR_2
+rc,VAR_3
+retry,VAR_4
+tms,VAR_5
+reg,VAR_6
+sec,VAR_7
+time_from_epoch,VAR_8

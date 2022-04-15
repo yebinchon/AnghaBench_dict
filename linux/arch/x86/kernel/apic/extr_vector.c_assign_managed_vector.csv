@@ -1,0 +1,17 @@
+apic_chip_data,FUNC_0
+apic_update_irq_cfg,FUNC_1
+apic_update_vector,FUNC_2
+cpumask_and,FUNC_3
+cpumask_test_cpu,FUNC_4
+irq_data_get_affinity_mask,FUNC_5
+irq_matrix_alloc_managed,FUNC_6
+trace_vector_alloc_managed,FUNC_7
+vector_matrix,VAR_0
+vector_searchmask,VAR_1
+assign_managed_vector,FUNC_8
+irqd,VAR_2
+dest,VAR_3
+affmsk,VAR_4
+apicd,VAR_5
+vector,VAR_6
+cpu,VAR_7

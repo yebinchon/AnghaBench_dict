@@ -1,0 +1,14 @@
+CAM_PRIORITY_NORMAL,VAR_0
+CAM_REQ_CMP,VAR_1
+MA_OWNED,VAR_2
+XPT_GDEV_TYPE,VAR_3
+cam_periph_assert,FUNC_0
+xpt_action,FUNC_1
+xpt_alloc_ccb_nowait,FUNC_2
+xpt_free_ccb,FUNC_3
+xpt_setup_ccb,FUNC_4
+chscsiversion,FUNC_5
+periph,VAR_4
+inq_data,VAR_5
+cgd,VAR_6
+dev_scsi_version,VAR_7

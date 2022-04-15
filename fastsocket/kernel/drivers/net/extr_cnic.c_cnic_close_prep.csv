@@ -1,0 +1,10 @@
+SK_F_CONNECT_START,VAR_0
+SK_F_OFFLD_COMPLETE,VAR_1
+SK_F_OFFLD_SCHED,VAR_2
+clear_bit,FUNC_0
+msleep,FUNC_1
+smp_mb__after_clear_bit,FUNC_2
+test_and_clear_bit,FUNC_3
+test_and_set_bit,FUNC_4
+cnic_close_prep,FUNC_5
+csk,VAR_3

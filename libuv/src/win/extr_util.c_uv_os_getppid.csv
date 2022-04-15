@@ -1,0 +1,11 @@
+CloseHandle,FUNC_0
+CreateToolhelp32Snapshot,FUNC_1
+GetCurrentProcessId,FUNC_2
+Process32First,FUNC_3
+Process32Next,FUNC_4
+TH32CS_SNAPPROCESS,VAR_0
+uv_os_getppid,FUNC_5
+parent_pid,VAR_1
+handle,VAR_2
+pe,VAR_3
+current_pid,VAR_4

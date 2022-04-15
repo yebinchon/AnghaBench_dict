@@ -1,0 +1,13 @@
+SA_MAX_RNG_DATA_RETRIES,VAR_0
+SA_RNG_DATA_RETRY_DELAY,VAR_1
+TRNG_STATUS_REG_READY,VAR_2
+dev_get_drvdata,FUNC_0
+readl,FUNC_1
+udelay,FUNC_2
+ks_sa_rng_data_present,FUNC_3
+rng,VAR_3
+wait,VAR_4
+dev,VAR_5
+ks_sa_rng,VAR_6
+ready,VAR_7
+j,VAR_8

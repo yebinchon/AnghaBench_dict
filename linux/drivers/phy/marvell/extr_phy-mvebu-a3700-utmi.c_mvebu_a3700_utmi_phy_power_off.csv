@@ -1,0 +1,13 @@
+PHY_PU_OTG,VAR_0
+RB_USB2PHY_PU,VAR_1
+RB_USB2PHY_SUSPM,FUNC_0
+USB2_PHY_CTRL,FUNC_1
+USB2_PHY_OTG_CTRL,VAR_2
+phy_get_drvdata,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+mvebu_a3700_utmi_phy_power_off,FUNC_5
+phy,VAR_3
+utmi,VAR_4
+usb32,VAR_5
+reg,VAR_6

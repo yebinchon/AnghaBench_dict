@@ -1,0 +1,15 @@
+BMIPS_WARM_RESTART_VEC,VAR_0
+BUG_ON,FUNC_0
+CKSEG0,VAR_1
+RESET_FROM_KSEG0,VAR_2
+__sync,FUNC_1
+bmips_nmi_handler_setup,VAR_3
+bmips_set_reset_vec,FUNC_2
+bmips_smp_int_vec,VAR_4
+board_nmi_handler_setup,VAR_5
+current_cpu_type,FUNC_3
+ebase,VAR_6
+set_uncached_handler,FUNC_4
+write_c0_ebase,FUNC_5
+bmips_ebase_setup,FUNC_6
+new_ebase,VAR_7

@@ -1,0 +1,10 @@
+PS2MULT_KBD_PORT,VAR_0
+PS2MULT_SESSION_END,VAR_1
+PS2MULT_SESSION_START,VAR_2
+ps2mult_select_port,FUNC_0
+serio_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ps2mult_reset,FUNC_4
+psm,VAR_3
+flags,VAR_4

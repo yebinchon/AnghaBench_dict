@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+ENXIO,VAR_2
+SIBA_LOCK,FUNC_0
+SIBA_UNLOCK,FUNC_1
+bhnd_generic_release_ext_rsrc,FUNC_2
+device_get_ivars,FUNC_3
+device_get_parent,FUNC_4
+device_get_softc,FUNC_5
+panic,FUNC_6
+siba_release_ext_rsrc,FUNC_7
+dev,VAR_3
+child,VAR_4
+rsrc,VAR_5
+sc,VAR_6
+dinfo,VAR_7

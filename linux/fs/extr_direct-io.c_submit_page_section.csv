@@ -1,0 +1,15 @@
+REQ_OP_WRITE,VAR_0
+dio_bio_submit,FUNC_0
+dio_send_cur_page,FUNC_1
+get_page,FUNC_2
+put_page,FUNC_3
+task_io_account_write,FUNC_4
+submit_page_section,FUNC_5
+dio,VAR_1
+sdio,VAR_2
+page,VAR_3
+offset,VAR_4
+len,VAR_5
+blocknr,VAR_6
+map_bh,VAR_7
+ret,VAR_8

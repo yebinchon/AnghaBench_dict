@@ -1,0 +1,15 @@
+EMSGSIZE,VAR_0
+NBD_DEVICE_CONNECTED,VAR_1
+NBD_DEVICE_INDEX,VAR_2
+NBD_DEVICE_ITEM,VAR_3
+nla_nest_end,FUNC_0
+nla_nest_start_noflag,FUNC_1
+nla_put_u32,FUNC_2
+nla_put_u8,FUNC_3
+refcount_read,FUNC_4
+populate_nbd_status,FUNC_5
+nbd,VAR_4
+reply,VAR_5
+dev_opt,VAR_6
+connected,VAR_7
+ret,VAR_8

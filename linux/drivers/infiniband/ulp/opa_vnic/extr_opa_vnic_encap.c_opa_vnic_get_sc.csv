@@ -1,0 +1,11 @@
+OPA_VNIC_VLAN_PCP,FUNC_0
+__vlan_get_tag,FUNC_1
+is_multicast_ether_addr,FUNC_2
+skb_mac_header,FUNC_3
+opa_vnic_get_sc,FUNC_4
+info,VAR_0
+skb,VAR_1
+mac_hdr,VAR_2
+vlan_tci,VAR_3
+sc,VAR_4
+pcp,VAR_5

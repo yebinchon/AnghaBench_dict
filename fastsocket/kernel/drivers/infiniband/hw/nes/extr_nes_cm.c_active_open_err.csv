@@ -1,0 +1,13 @@
+NES_CM_EVENT_ABORTED,VAR_0
+NES_CM_STATE_CLOSED,VAR_1
+NES_DBG_CM,VAR_2
+add_ref_cm_node,FUNC_0
+cleanup_retrans_entry,FUNC_1
+create_event,FUNC_2
+dev_kfree_skb_any,FUNC_3
+nes_debug,FUNC_4
+send_reset,FUNC_5
+active_open_err,FUNC_6
+cm_node,VAR_3
+skb,VAR_4
+reset,VAR_5

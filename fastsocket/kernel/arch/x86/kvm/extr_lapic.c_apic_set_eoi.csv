@@ -1,0 +1,17 @@
+APIC_SPIV,VAR_0
+APIC_SPIV_DIRECTED_EOI,VAR_1
+APIC_TMR,VAR_2
+IOAPIC_EDGE_TRIG,VAR_3
+IOAPIC_LEVEL_TRIG,VAR_4
+apic_clear_isr,FUNC_0
+apic_find_highest_isr,FUNC_1
+apic_get_reg,FUNC_2
+apic_test_vector,FUNC_3
+apic_update_ppr,FUNC_4
+kvm_ioapic_handles_vector,FUNC_5
+kvm_ioapic_update_eoi,FUNC_6
+trace_kvm_eoi,FUNC_7
+apic_set_eoi,FUNC_8
+apic,VAR_5
+vector,VAR_6
+trigger_mode,VAR_7

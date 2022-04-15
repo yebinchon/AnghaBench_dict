@@ -1,0 +1,14 @@
+KD_E_OK,VAR_0
+KD_PACKET_TYPE_RESET,VAR_1
+KD_PACKET_TYPE_STATE_CHANGE64,VAR_2
+eprintf,FUNC_0
+free,FUNC_1
+iob_write,FUNC_2
+kd_send_ctrl_packet,FUNC_3
+r_list_free,FUNC_4
+windbg_wait_packet,FUNC_5
+windbg_sync,FUNC_6
+ctx,VAR_3
+ret,VAR_4
+s,VAR_5
+stc64,VAR_6

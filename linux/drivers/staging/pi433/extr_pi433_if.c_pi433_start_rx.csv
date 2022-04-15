@@ -1,0 +1,16 @@
+DIO0,VAR_0
+DIO1,VAR_1
+DIO_FIFO_LEVEL,VAR_2
+DIO_RSSI_DIO0,VAR_3
+FIFO_SIZE,VAR_4
+FIFO_THRESHOLD,VAR_5
+IRQ_TYPE_EDGE_RISING,VAR_6
+irq_set_irq_type,FUNC_0
+receive,VAR_7
+rf69_set_dio_mapping,FUNC_1
+rf69_set_fifo_threshold,FUNC_2
+rf69_set_mode,FUNC_3
+rf69_set_rx_cfg,FUNC_4
+pi433_start_rx,FUNC_5
+dev,VAR_8
+retval,VAR_9

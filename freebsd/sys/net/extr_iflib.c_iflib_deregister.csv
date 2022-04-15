@@ -1,0 +1,9 @@
+CTX_LOCK_DESTROY,FUNC_0
+STATE_LOCK_DESTROY,FUNC_1
+if_free,FUNC_2
+iflib_unregister_vlan_handlers,FUNC_3
+ifmedia_removeall,FUNC_4
+kobj_delete,FUNC_5
+iflib_deregister,FUNC_6
+ctx,VAR_0
+ifp,VAR_1

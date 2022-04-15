@@ -1,0 +1,16 @@
+PRINTDLG_SetUpPaperComboBoxW,FUNC_0
+PRINTDLG_SetUpPrinterListComboW,FUNC_1
+cmb1,VAR_0
+cmb2,VAR_1
+cmb3,VAR_2
+pagesetup_get_devmode,FUNC_2
+pagesetup_get_devname,FUNC_3
+pagesetup_get_portname,FUNC_4
+pagesetup_release_a_devname,FUNC_5
+pagesetup_release_devmode,FUNC_6
+pagesetup_init_combos,FUNC_7
+hDlg,VAR_3
+data,VAR_4
+dm,VAR_5
+devname,VAR_6
+portname,VAR_7

@@ -1,0 +1,16 @@
+BG_EvaluateTrajectoryDelta,FUNC_0
+DotProduct,FUNC_1
+EF_BOUNCE_HALF,VAR_0
+G_SetOrigin,FUNC_2
+VectorAdd,FUNC_3
+VectorCopy,FUNC_4
+VectorLength,FUNC_5
+VectorMA,FUNC_6
+VectorScale,FUNC_7
+level,VAR_1
+G_BounceMissile,FUNC_8
+ent,VAR_2
+trace,VAR_3
+velocity,VAR_4
+dot,VAR_5
+hitTime,VAR_6

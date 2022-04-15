@@ -1,0 +1,15 @@
+TSDB_CODE_DISCONNECTED,VAR_0
+TSDB_SQL_SELECT,VAR_1
+assert,FUNC_0
+globalCode,VAR_2
+taos_fetch_row_impl,FUNC_1
+tscGetMeterMetaInfo,FUNC_2
+tscProcessSql,FUNC_3
+tscProjectionQueryOnMetric,FUNC_4
+taos_fetch_row,FUNC_5
+res,VAR_3
+pSql,VAR_4
+pCmd,VAR_5
+pRes,VAR_6
+rows,VAR_7
+pMeterMetaInfo,VAR_8

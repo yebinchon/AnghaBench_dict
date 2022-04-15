@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+LPC24XX_I2STAT,VAR_1
+M_I2C_IDLE,VAR_2
+i2c_get_adapdata,FUNC_0
+i2c_lpc2k_clear_arb,FUNC_1
+lpc2k_process_msg,FUNC_2
+readl,FUNC_3
+i2c_lpc2k_xfer,FUNC_4
+adap,VAR_3
+msgs,VAR_4
+msg_num,VAR_5
+i2c,VAR_6
+ret,VAR_7
+i,VAR_8
+stat,VAR_9

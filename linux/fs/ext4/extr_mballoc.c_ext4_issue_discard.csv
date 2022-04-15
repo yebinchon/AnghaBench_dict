@@ -1,0 +1,14 @@
+EXT4_C2B,FUNC_0
+EXT4_SB,FUNC_1
+GFP_NOFS,VAR_0
+__blkdev_issue_discard,FUNC_2
+ext4_group_first_block_no,FUNC_3
+sb_issue_discard,FUNC_4
+trace_ext4_discard_blocks,FUNC_5
+ext4_issue_discard,FUNC_6
+sb,VAR_1
+block_group,VAR_2
+cluster,VAR_3
+count,VAR_4
+biop,VAR_5
+discard_block,VAR_6

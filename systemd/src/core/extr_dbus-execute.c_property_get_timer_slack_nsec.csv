@@ -1,0 +1,15 @@
+NSEC_INFINITY,VAR_0
+PR_GET_TIMERSLACK,VAR_1
+assert,FUNC_0
+prctl,FUNC_1
+sd_bus_message_append,FUNC_2
+property_get_timer_slack_nsec,FUNC_3
+bus,VAR_2
+path,VAR_3
+interface,VAR_4
+property,VAR_5
+reply,VAR_6
+userdata,VAR_7
+error,VAR_8
+c,VAR_9
+u,VAR_10

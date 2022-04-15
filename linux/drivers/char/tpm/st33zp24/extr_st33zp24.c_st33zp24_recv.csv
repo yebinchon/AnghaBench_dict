@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EIO,VAR_1
+ETIME,VAR_2
+TPM_HEADER_SIZE,VAR_3
+be32_to_cpu,FUNC_0
+dev_err,FUNC_1
+recv_data,FUNC_2
+release_locality,FUNC_3
+st33zp24_cancel,FUNC_4
+st33zp24_recv,FUNC_5
+chip,VAR_4
+buf,VAR_5
+count,VAR_6
+size,VAR_7
+expected,VAR_8

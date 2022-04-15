@@ -1,0 +1,10 @@
+ETHTOOL_LINK_MODE_FIBRE_BIT,VAR_0
+MII_MARVELL_COPPER_PAGE,VAR_1
+MII_MARVELL_FIBER_PAGE,VAR_2
+PHY_INTERFACE_MODE_SGMII,VAR_3
+linkmode_test_bit,FUNC_0
+marvell_read_status_page,FUNC_1
+marvell_set_page,FUNC_2
+marvell_read_status,FUNC_3
+phydev,VAR_4
+err,VAR_5

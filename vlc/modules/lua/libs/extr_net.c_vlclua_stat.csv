@@ -1,0 +1,17 @@
+S_ISBLK,FUNC_0
+S_ISCHR,FUNC_1
+S_ISDIR,FUNC_2
+S_ISFIFO,FUNC_3
+S_ISLNK,FUNC_4
+S_ISREG,FUNC_5
+S_ISSOCK,FUNC_6
+luaL_checkstring,FUNC_7
+lua_newtable,FUNC_8
+lua_pushinteger,FUNC_9
+lua_pushliteral,FUNC_10
+lua_setfield,FUNC_11
+vlc_stat,FUNC_12
+vlclua_stat,FUNC_13
+L,VAR_0
+psz_path,VAR_1
+s,VAR_2

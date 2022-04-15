@@ -1,0 +1,16 @@
+VM_REG_GUEST_CS,VAR_0
+VM_REG_GUEST_RIP,VAR_1
+XHYVE_PAGE_SHIFT,VAR_2
+assert,FUNC_0
+xh_vm_get_desc,FUNC_1
+xh_vm_set_desc,FUNC_2
+xh_vm_set_register,FUNC_3
+spinup_ap_realmode,FUNC_4
+newcpu,VAR_3
+rip,VAR_4
+vector,VAR_5
+error,VAR_6
+cs,VAR_7
+desc_base,VAR_8
+desc_limit,VAR_9
+desc_access,VAR_10

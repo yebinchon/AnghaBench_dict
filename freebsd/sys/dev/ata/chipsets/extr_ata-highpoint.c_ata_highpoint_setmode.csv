@@ -1,0 +1,16 @@
+ATA_UDMA5,VAR_0
+ata_highpoint_check_80pin,FUNC_0
+ata_mode2idx,FUNC_1
+device_get_parent,FUNC_2
+device_get_softc,FUNC_3
+min,FUNC_4
+pci_write_config,FUNC_5
+ata_highpoint_setmode,FUNC_6
+dev,VAR_1
+target,VAR_2
+mode,VAR_3
+parent,VAR_4
+ctlr,VAR_5
+ch,VAR_6
+devno,VAR_7
+timings33,VAR_8

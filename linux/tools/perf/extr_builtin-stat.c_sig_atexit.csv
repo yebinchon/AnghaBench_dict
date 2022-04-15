@@ -1,0 +1,16 @@
+SIGCHLD,VAR_0
+SIGTERM,VAR_1
+SIG_BLOCK,VAR_2
+SIG_DFL,VAR_3
+SIG_SETMASK,VAR_4
+child_pid,VAR_5
+getpid,FUNC_0
+kill,FUNC_1
+sigaddset,FUNC_2
+sigemptyset,FUNC_3
+signal,FUNC_4
+signr,VAR_6
+sigprocmask,FUNC_5
+sig_atexit,FUNC_6
+set,VAR_7
+oset,VAR_8

@@ -1,0 +1,13 @@
+IE_IRQ0,VAR_0
+SNI_A20R_IRQ_BASE,VAR_1
+a20r_ack_hwint,FUNC_0
+clear_c0_status,FUNC_1
+do_IRQ,FUNC_2
+ffs,FUNC_3
+likely,FUNC_4
+read_c0_cause,FUNC_5
+set_c0_status,FUNC_6
+a20r_hwint,FUNC_7
+cause,VAR_2
+status,VAR_3
+irq,VAR_4

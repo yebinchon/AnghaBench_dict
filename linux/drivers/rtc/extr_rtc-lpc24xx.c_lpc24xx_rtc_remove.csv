@@ -1,0 +1,11 @@
+LPC178X_CCALEN,VAR_0
+LPC24XX_ALARM_DISABLE,VAR_1
+LPC24XX_AMR,VAR_2
+LPC24XX_CCR,VAR_3
+LPC24XX_CIIR,VAR_4
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+rtc_writel,FUNC_2
+lpc24xx_rtc_remove,FUNC_3
+pdev,VAR_5
+rtc,VAR_6

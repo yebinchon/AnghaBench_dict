@@ -1,0 +1,15 @@
+clock_get_boottime_microtime,FUNC_0
+clock_get_calendar_microtime,FUNC_1
+clock_lock,VAR_0
+gIOLastSleepTime,VAR_1
+gIOLastWakeTime,VAR_2
+is_clock_configured,VAR_3
+kdp_clock_is_locked,FUNC_2
+paniclog_append_noflush,FUNC_3
+simple_lock_try,FUNC_4
+simple_unlock,FUNC_5
+panic_display_times,FUNC_6
+secs,VAR_4
+boot_secs,VAR_5
+usecs,VAR_6
+boot_usecs,VAR_7

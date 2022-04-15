@@ -1,0 +1,9 @@
+KVM_SET_SREGS,VAR_0
+TEST_ASSERT,FUNC_0
+ioctl,FUNC_1
+vcpu_find,FUNC_2
+_vcpu_sregs_set,FUNC_3
+vm,VAR_1
+vcpuid,VAR_2
+sregs,VAR_3
+vcpu,VAR_4

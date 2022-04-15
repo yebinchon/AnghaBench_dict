@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+PL_FLAG_SI,VAR_1
+PT_LWPINFO,VAR_2
+bsd_to_linux_signal,FUNC_0
+copyout,FUNC_1
+kern_ptrace,FUNC_2
+linux_msg,FUNC_3
+siginfo_to_lsiginfo,FUNC_4
+linux_ptrace_getsiginfo,FUNC_5
+td,VAR_3
+pid,VAR_4
+data,VAR_5
+lwpinfo,VAR_6
+l_siginfo,VAR_7
+error,VAR_8
+sig,VAR_9

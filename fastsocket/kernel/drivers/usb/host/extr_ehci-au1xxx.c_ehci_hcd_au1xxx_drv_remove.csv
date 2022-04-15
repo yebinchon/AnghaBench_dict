@@ -1,0 +1,10 @@
+au1xxx_stop_ehc,FUNC_0
+iounmap,FUNC_1
+platform_get_drvdata,FUNC_2
+platform_set_drvdata,FUNC_3
+release_mem_region,FUNC_4
+usb_put_hcd,FUNC_5
+usb_remove_hcd,FUNC_6
+ehci_hcd_au1xxx_drv_remove,FUNC_7
+pdev,VAR_0
+hcd,VAR_1

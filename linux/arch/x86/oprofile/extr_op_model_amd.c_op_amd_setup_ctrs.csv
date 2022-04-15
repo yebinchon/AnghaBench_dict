@@ -1,0 +1,17 @@
+ARCH_PERFMON_EVENTSEL_ENABLE,VAR_0
+OP_MAX_COUNTER,VAR_1
+counter_config,VAR_2
+num_counters,VAR_3
+op_x86_get_ctrl,FUNC_0
+op_x86_phys_to_virt,FUNC_1
+op_x86_virt_to_phys,FUNC_2
+op_x86_warn_in_use,FUNC_3
+rdmsrl,FUNC_4
+reset_value,VAR_4
+wrmsrl,FUNC_5
+op_amd_setup_ctrs,FUNC_6
+model,VAR_5
+msrs,VAR_6
+val,VAR_7
+i,VAR_8
+virt,VAR_9

@@ -1,0 +1,14 @@
+M_NOWAIT,VAR_0
+PVM,VAR_1
+UMA_ZFLAG_CACHE,VAR_2
+UMA_ZFLAG_RECLAIMING,VAR_3
+ZONE_LOCK,FUNC_0
+ZONE_UNLOCK,FUNC_1
+bucket_cache_reclaim,FUNC_2
+keg_drain,FUNC_3
+msleep,FUNC_4
+wakeup,FUNC_5
+zone_reclaim,FUNC_6
+zone,VAR_4
+waitok,VAR_5
+drain,VAR_6

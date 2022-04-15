@@ -1,0 +1,15 @@
+EPOLLOUT,VAR_0
+EPOLLWRBAND,VAR_1
+EPOLLWRNORM,VAR_2
+POLL_OUT,VAR_3
+SOCK_WAKE_SPACE,VAR_4
+rcu_dereference,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+sk_wake_async,FUNC_3
+skwq_has_sleeper,FUNC_4
+unix_writable,FUNC_5
+wake_up_interruptible_sync_poll,FUNC_6
+unix_write_space,FUNC_7
+sk,VAR_5
+wq,VAR_6

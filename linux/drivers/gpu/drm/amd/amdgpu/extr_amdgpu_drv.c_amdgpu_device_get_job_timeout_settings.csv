@@ -1,0 +1,14 @@
+AMDGPU_MAX_TIMEOUT_PARAM_LENTH,VAR_0
+MAX_SCHEDULE_TIMEOUT,VAR_1
+amdgpu_lockup_timeout,VAR_2
+kstrtol,FUNC_0
+msecs_to_jiffies,FUNC_1
+strnlen,FUNC_2
+strsep,FUNC_3
+amdgpu_device_get_job_timeout_settings,FUNC_4
+adev,VAR_3
+input,VAR_4
+timeout_setting,VAR_5
+index,VAR_6
+timeout,VAR_7
+ret,VAR_8

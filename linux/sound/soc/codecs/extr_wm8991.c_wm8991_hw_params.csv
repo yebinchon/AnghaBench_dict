@@ -1,0 +1,14 @@
+WM8991_AIF_WL_20BITS,VAR_0
+WM8991_AIF_WL_24BITS,VAR_1
+WM8991_AIF_WL_32BITS,VAR_2
+WM8991_AIF_WL_MASK,VAR_3
+WM8991_AUDIO_INTERFACE_1,VAR_4
+params_width,FUNC_0
+snd_soc_component_read32,FUNC_1
+snd_soc_component_write,FUNC_2
+wm8991_hw_params,FUNC_3
+substream,VAR_5
+params,VAR_6
+dai,VAR_7
+component,VAR_8
+audio1,VAR_9

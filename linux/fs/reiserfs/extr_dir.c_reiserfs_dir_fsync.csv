@@ -1,0 +1,13 @@
+file_write_and_wait_range,FUNC_0
+inode_lock,FUNC_1
+inode_unlock,FUNC_2
+reiserfs_commit_for_inode,FUNC_3
+reiserfs_write_lock,FUNC_4
+reiserfs_write_unlock,FUNC_5
+reiserfs_dir_fsync,FUNC_6
+filp,VAR_0
+start,VAR_1
+end,VAR_2
+datasync,VAR_3
+inode,VAR_4
+err,VAR_5

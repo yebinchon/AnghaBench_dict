@@ -1,0 +1,10 @@
+QLCNIC_H2C_OPCODE_SET_MAC_RECEIVE_MODE,VAR_0
+QLCNIC_HOST_REQUEST,VAR_1
+cpu_to_le64,FUNC_0
+memset,FUNC_1
+qlcnic_send_cmd_descs,FUNC_2
+qlcnic_82xx_nic_set_promisc,FUNC_3
+adapter,VAR_2
+mode,VAR_3
+req,VAR_4
+word,VAR_5

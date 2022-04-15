@@ -1,0 +1,14 @@
+OPENSSL_hexstr2buf,FUNC_0
+RAND_get_rand_method,FUNC_1
+RAND_set_rand_method,FUNC_2
+TEST_ptr,FUNC_3
+TEST_true,FUNC_4
+fake_rand,VAR_0
+fake_rand_bytes,VAR_1
+fake_rand_bytes_offset,VAR_2
+fake_rand_size,VAR_3
+get_faked_bytes,VAR_4
+saved_rand,VAR_5
+strlen,FUNC_5
+start_fake_rand,FUNC_6
+hex_bytes,VAR_6

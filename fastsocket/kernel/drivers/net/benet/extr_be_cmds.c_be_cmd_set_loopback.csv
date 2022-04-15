@@ -1,0 +1,17 @@
+CMD_SUBSYSTEM_LOWLEVEL,VAR_0
+EBUSY,VAR_1
+OPCODE_LOWLEVEL_SET_LOOPBACK_MODE,VAR_2
+be_mcc_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+embedded_payload,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+wrb_from_mccq,FUNC_5
+be_cmd_set_loopback,FUNC_6
+adapter,VAR_3
+port_num,VAR_4
+loopback_type,VAR_5
+enable,VAR_6
+wrb,VAR_7
+req,VAR_8
+status,VAR_9

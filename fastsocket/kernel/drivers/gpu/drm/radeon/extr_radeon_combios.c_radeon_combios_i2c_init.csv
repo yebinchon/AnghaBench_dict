@@ -1,0 +1,17 @@
+CHIP_R200,VAR_0
+CHIP_R300,VAR_1
+CHIP_R350,VAR_2
+CHIP_RS300,VAR_3
+CHIP_RS400,VAR_4
+CHIP_RS480,VAR_5
+DDC_CRT2,VAR_6
+DDC_DVI,VAR_7
+DDC_MONID,VAR_8
+DDC_VGA,VAR_9
+combios_setup_i2c_bus,FUNC_0
+radeon_combios_get_i2c_info_from_table,FUNC_1
+radeon_i2c_create,FUNC_2
+radeon_combios_i2c_init,FUNC_3
+rdev,VAR_10
+dev,VAR_11
+i2c,VAR_12

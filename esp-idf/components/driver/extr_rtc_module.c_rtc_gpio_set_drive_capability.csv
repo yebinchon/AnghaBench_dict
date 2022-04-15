@@ -1,0 +1,15 @@
+ESP_ERR_INVALID_ARG,VAR_0
+ESP_OK,VAR_1
+GPIO_DRIVE_CAP_MAX,VAR_2
+GPIO_IS_VALID_OUTPUT_GPIO,FUNC_0
+RTC_MODULE_CHECK,FUNC_1
+SET_PERI_REG_BITS,FUNC_2
+portENTER_CRITICAL,FUNC_3
+portEXIT_CRITICAL,FUNC_4
+rtc_gpio_desc,VAR_3
+rtc_gpio_is_valid_gpio,FUNC_5
+rtc_gpio_reg,VAR_4
+rtc_spinlock,VAR_5
+rtc_gpio_set_drive_capability,FUNC_6
+gpio_num,VAR_6
+strength,VAR_7

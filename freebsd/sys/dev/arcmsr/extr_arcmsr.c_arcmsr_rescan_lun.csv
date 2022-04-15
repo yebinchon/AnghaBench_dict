@@ -1,0 +1,17 @@
+CAM_FLAG_NONE,VAR_0
+CAM_REQ_CMP,VAR_1
+XPT_SCAN_LUN,VAR_2
+arcmsr_rescanLun_cb,VAR_3
+bzero,FUNC_0
+cam_sim_path,FUNC_1
+xpt_action,FUNC_2
+xpt_alloc_ccb_nowait,FUNC_3
+xpt_create_path,FUNC_4
+xpt_free_ccb,FUNC_5
+xpt_setup_ccb,FUNC_6
+arcmsr_rescan_lun,FUNC_7
+acb,VAR_4
+target,VAR_5
+lun,VAR_6
+path,VAR_7
+ccb,VAR_8

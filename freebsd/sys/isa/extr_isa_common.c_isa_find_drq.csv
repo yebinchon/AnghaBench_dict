@@ -1,0 +1,17 @@
+ISA_NDRQ,VAR_0
+SYS_RES_DRQ,VAR_1
+bus_alloc_resource_any,FUNC_0
+bus_delete_resource,FUNC_1
+bus_release_resource,FUNC_2
+bus_set_resource,FUNC_3
+find_first_bit,FUNC_4
+find_next_bit,FUNC_5
+isa_find_drq,FUNC_6
+child,VAR_2
+config,VAR_3
+result,VAR_4
+success,VAR_5
+i,VAR_6
+res,VAR_7
+mask,VAR_8
+drq,VAR_9

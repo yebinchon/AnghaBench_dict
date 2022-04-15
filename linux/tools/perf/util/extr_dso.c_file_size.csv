@@ -1,0 +1,16 @@
+DSO_DATA_STATUS_ERROR,VAR_0
+STRERR_BUFSIZE,VAR_1
+dso__data_open_lock,VAR_2
+errno,VAR_3
+fstat,FUNC_0
+pr_err,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+str_error_r,FUNC_4
+try_to_open_dso,FUNC_5
+file_size,FUNC_6
+dso,VAR_4
+machine,VAR_5
+ret,VAR_6
+st,VAR_7
+sbuf,VAR_8

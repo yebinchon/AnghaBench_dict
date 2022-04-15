@@ -1,0 +1,16 @@
+CF_OWNERDISPLAY,VAR_0
+GetClipboardFormatNameA,FUNC_0
+GetClipboardFormatNameW,FUNC_1
+GetPredefinedClipboardFormatName,FUNC_2
+LoadStringA,FUNC_3
+LoadStringW,FUNC_4
+STRING_CF_UNKNOWN,VAR_1
+SendClipboardOwnerMessage,FUNC_5
+WM_ASKCBFORMATNAME,VAR_2
+ZeroMemory,FUNC_6
+RetrieveClipboardFormatName,FUNC_7
+hInstance,VAR_3
+uFormat,VAR_4
+Unicode,VAR_5
+lpszFormat,VAR_6
+cch,VAR_7

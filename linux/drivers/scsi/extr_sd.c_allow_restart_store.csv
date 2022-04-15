@@ -1,0 +1,16 @@
+CAP_SYS_ADMIN,VAR_0
+EACCES,VAR_1
+EINVAL,VAR_2
+TYPE_DISK,VAR_3
+TYPE_ZBC,VAR_4
+capable,FUNC_0
+kstrtobool,FUNC_1
+to_scsi_disk,FUNC_2
+allow_restart_store,FUNC_3
+dev,VAR_5
+attr,VAR_6
+buf,VAR_7
+count,VAR_8
+v,VAR_9
+sdkp,VAR_10
+sdp,VAR_11

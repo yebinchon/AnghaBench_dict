@@ -1,0 +1,13 @@
+CORPSE_CRASHINFO_HAS_REF,VAR_0
+CORPSE_CRASHINFO_USER_FAULT,VAR_1
+KERN_SUCCESS,VAR_2
+assert,FUNC_0
+atomic_compare_exchange_strong_explicit,FUNC_1
+atomic_load_explicit,FUNC_2
+inflight_corpses,VAR_3
+memory_order_relaxed,VAR_4
+panic,FUNC_3
+task_crashinfo_release_ref,FUNC_4
+kcd_u_flags,VAR_5
+oldgate,VAR_6
+newgate,VAR_7

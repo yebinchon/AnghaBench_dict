@@ -1,0 +1,16 @@
+RPC_TASK_MSG_PIN_WAIT,VAR_0
+RPC_TASK_NEED_RECV,VAR_1
+RPC_TASK_NEED_XMIT,VAR_2
+clear_bit,FUNC_0
+set_bit,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+test_bit,FUNC_4
+xprt_is_pinned_rqst,FUNC_5
+xprt_request_dequeue_receive_locked,FUNC_6
+xprt_request_dequeue_transmit_locked,FUNC_7
+xprt_wait_on_pinned_rqst,FUNC_8
+xprt_request_dequeue_xprt,FUNC_9
+task,VAR_3
+req,VAR_4
+xprt,VAR_5

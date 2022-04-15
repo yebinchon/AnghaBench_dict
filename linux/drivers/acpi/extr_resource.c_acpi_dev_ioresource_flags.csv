@@ -1,0 +1,14 @@
+ACPI_DECODE_16,VAR_0
+ACPI_SPARSE_TRANSLATION,VAR_1
+IORESOURCE_DISABLED,VAR_2
+IORESOURCE_IO,VAR_3
+IORESOURCE_IO_16BIT_ADDR,VAR_4
+IORESOURCE_IO_SPARSE,VAR_5
+IORESOURCE_UNSET,VAR_6
+acpi_dev_resource_len_valid,FUNC_0
+acpi_iospace_resource_valid,FUNC_1
+acpi_dev_ioresource_flags,FUNC_2
+res,VAR_7
+len,VAR_8
+io_decode,VAR_9
+translation_type,VAR_10

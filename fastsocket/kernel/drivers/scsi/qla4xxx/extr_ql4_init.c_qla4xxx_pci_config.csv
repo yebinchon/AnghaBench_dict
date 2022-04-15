@@ -1,0 +1,14 @@
+KERN_INFO,VAR_0
+PCI_COMMAND,VAR_1
+PCI_COMMAND_INTX_DISABLE,VAR_2
+PCI_COMMAND_PARITY,VAR_3
+PCI_COMMAND_SERR,VAR_4
+pci_read_config_word,FUNC_0
+pci_set_master,FUNC_1
+pci_set_mwi,FUNC_2
+pci_write_config_word,FUNC_3
+ql4_printk,FUNC_4
+qla4xxx_pci_config,FUNC_5
+ha,VAR_5
+w,VAR_6
+status,VAR_7

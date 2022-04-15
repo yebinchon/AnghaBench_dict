@@ -1,0 +1,14 @@
+DHCP6_FQDN_FLAG_S,VAR_0
+DNS_WIRE_FORMAT_HOSTNAME_MAX,VAR_1
+EINVAL,VAR_2
+SD_DHCP6_OPTION_FQDN,VAR_3
+assert_return,FUNC_0
+dhcp6_option_append,FUNC_1
+dns_name_is_single_label,FUNC_2
+dns_name_to_wire_format,FUNC_3
+dhcp6_option_append_fqdn,FUNC_4
+buf,VAR_4
+buflen,VAR_5
+fqdn,VAR_6
+buffer,VAR_7
+r,VAR_8

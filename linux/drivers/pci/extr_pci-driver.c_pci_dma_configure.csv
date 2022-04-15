@@ -1,0 +1,15 @@
+CONFIG_OF,VAR_0
+IS_ENABLED,FUNC_0
+acpi_dma_configure,FUNC_1
+acpi_get_dma_attr,FUNC_2
+has_acpi_companion,FUNC_3
+of_dma_configure,FUNC_4
+pci_get_host_bridge_device,FUNC_5
+pci_put_host_bridge_device,FUNC_6
+to_acpi_device_node,FUNC_7
+to_pci_dev,FUNC_8
+pci_dma_configure,FUNC_9
+dev,VAR_1
+bridge,VAR_2
+ret,VAR_3
+adev,VAR_4

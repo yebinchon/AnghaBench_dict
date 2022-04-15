@@ -1,0 +1,10 @@
+SIGPIPE,VAR_0
+SIGTERM,VAR_1
+SIGUSR1,VAR_2
+SIG_DFL,VAR_3
+fcgi_signal_handler,VAR_4
+sigaction,FUNC_0
+sigemptyset,FUNC_1
+fcgi_setup_signals,FUNC_2
+new_sa,VAR_5
+old_sa,VAR_6

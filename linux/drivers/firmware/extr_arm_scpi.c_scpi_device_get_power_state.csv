@@ -1,0 +1,8 @@
+CMD_GET_DEVICE_PWR_STATE,VAR_0
+cpu_to_le16,FUNC_0
+scpi_send_message,FUNC_1
+scpi_device_get_power_state,FUNC_2
+dev_id,VAR_1
+ret,VAR_2
+pstate,VAR_3
+id,VAR_4

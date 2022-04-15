@@ -1,0 +1,16 @@
+ERR_PTR,FUNC_0
+IS_ERR,FUNC_1
+PageUptodate,FUNC_2
+__read_cache_page,FUNC_3
+lock_page,FUNC_4
+mark_page_accessed,FUNC_5
+page_cache_release,FUNC_6
+unlock_page,FUNC_7
+do_read_cache_page,FUNC_8
+mapping,VAR_0
+index,VAR_1
+filler,VAR_2
+data,VAR_3
+gfp,VAR_4
+page,VAR_5
+err,VAR_6

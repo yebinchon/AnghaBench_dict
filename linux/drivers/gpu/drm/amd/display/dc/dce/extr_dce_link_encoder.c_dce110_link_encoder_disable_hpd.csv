@@ -1,0 +1,12 @@
+DC_HPD_CONTROL,VAR_0
+DC_HPD_EN,VAR_1
+HPD_REG,FUNC_0
+TO_DCE110_LINK_ENC,FUNC_1
+dm_read_reg,FUNC_2
+set_reg_field_value,FUNC_3
+dce110_link_encoder_disable_hpd,FUNC_4
+enc,VAR_2
+enc110,VAR_3
+ctx,VAR_4
+addr,VAR_5
+value,VAR_6

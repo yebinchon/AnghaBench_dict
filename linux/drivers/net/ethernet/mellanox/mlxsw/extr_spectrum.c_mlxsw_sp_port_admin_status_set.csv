@@ -1,0 +1,12 @@
+MLXSW_PORT_ADMIN_STATUS_DOWN,VAR_0
+MLXSW_PORT_ADMIN_STATUS_UP,VAR_1
+MLXSW_REG,FUNC_0
+MLXSW_REG_PAOS_LEN,VAR_2
+mlxsw_reg_paos_pack,FUNC_1
+mlxsw_reg_write,FUNC_2
+paos,VAR_3
+mlxsw_sp_port_admin_status_set,FUNC_3
+mlxsw_sp_port,VAR_4
+is_up,VAR_5
+mlxsw_sp,VAR_6
+paos_pl,VAR_7

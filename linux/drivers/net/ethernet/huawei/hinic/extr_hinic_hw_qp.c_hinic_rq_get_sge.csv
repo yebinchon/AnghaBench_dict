@@ -1,0 +1,10 @@
+HINIC_RQ_CQE_SGE_GET,FUNC_0
+LEN,VAR_0
+be32_to_cpu,FUNC_1
+hinic_rq_get_sge,FUNC_2
+rq,VAR_1
+rq_wqe,VAR_2
+cons_idx,VAR_3
+sge,VAR_4
+cqe,VAR_5
+len,VAR_6

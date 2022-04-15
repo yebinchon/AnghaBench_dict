@@ -1,0 +1,16 @@
+DMA_PTE_READ,VAR_0
+DMA_PTE_WRITE,VAR_1
+ENOMEM,VAR_2
+VTD_PAGE_SHIFT,VAR_3
+__domain_mapping,FUNC_0
+dma_pte_clear_range,FUNC_1
+dma_to_mm_pfn,FUNC_2
+pr_debug,FUNC_3
+pr_err,FUNC_4
+reserve_iova,FUNC_5
+iommu_domain_identity_map,FUNC_6
+domain,VAR_4
+start,VAR_5
+end,VAR_6
+first_vpfn,VAR_7
+last_vpfn,VAR_8

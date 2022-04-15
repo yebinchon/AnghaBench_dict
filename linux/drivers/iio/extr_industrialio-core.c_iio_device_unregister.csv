@@ -1,0 +1,10 @@
+cdev_device_del,FUNC_0
+iio_buffer_free_sysfs_and_mask,FUNC_1
+iio_buffer_wakeup_poll,FUNC_2
+iio_device_unregister_debugfs,FUNC_3
+iio_device_wakeup_eventset,FUNC_4
+iio_disable_all_buffers,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+iio_device_unregister,FUNC_8
+indio_dev,VAR_0

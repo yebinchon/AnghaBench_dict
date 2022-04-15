@@ -1,0 +1,12 @@
+MAX14577_MUIC_REG_STATUS2,VAR_0
+STATUS2_CHGTYP_MASK,VAR_1
+STATUS2_CHGTYP_SHIFT,VAR_2
+max14577_read_reg,FUNC_0
+maxim_get_charger_type,FUNC_1
+max14577_get_online,FUNC_2
+chg,VAR_3
+val,VAR_4
+rmap,VAR_5
+reg_data,VAR_6
+ret,VAR_7
+chg_type,VAR_8

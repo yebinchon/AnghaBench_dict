@@ -1,0 +1,13 @@
+CPU_VR4122,VAR_0
+CPU_VR4131,VAR_1
+CPU_VR4133,VAR_2
+MSCUINTREG,VAR_3
+SCU_IRQ,VAR_4
+current_cpu_type,FUNC_0
+icu2_write,FUNC_1
+irq_to_desc,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+vr41xx_disable_scuint,FUNC_5
+desc,VAR_5
+flags,VAR_6

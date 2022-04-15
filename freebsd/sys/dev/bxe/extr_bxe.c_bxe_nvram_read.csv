@@ -1,0 +1,17 @@
+BLOGE,FUNC_0
+MCPR_NVM_COMMAND_FIRST,VAR_0
+MCPR_NVM_COMMAND_LAST,VAR_1
+bxe_acquire_nvram_lock,FUNC_1
+bxe_disable_nvram_access,FUNC_2
+bxe_enable_nvram_access,FUNC_3
+bxe_nvram_read_dword,FUNC_4
+bxe_release_nvram_lock,FUNC_5
+memcpy,FUNC_6
+bxe_nvram_read,FUNC_7
+sc,VAR_2
+offset,VAR_3
+ret_buf,VAR_4
+buf_size,VAR_5
+cmd_flags,VAR_6
+val,VAR_7
+rc,VAR_8

@@ -1,0 +1,9 @@
+LNPGA_PDOWN_WAIT,VAR_0
+MDIO_MMD_PMAPMD,VAR_1
+PMA_PMD_LNPGA_POWERDOWN_LBN,VAR_2
+PMA_PMD_XCONTROL_REG,VAR_3
+efx_mdio_write,FUNC_0
+schedule_timeout_uninterruptible,FUNC_1
+sfx7101_phy_fini,FUNC_2
+efx,VAR_4
+reg,VAR_5

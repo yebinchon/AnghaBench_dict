@@ -1,0 +1,12 @@
+SIRFSOC_SPI_CS_IO_OUT,VAR_0
+SIRFSOC_USP_CS_HIGH_VALUE,VAR_1
+SPI_CS_HIGH,VAR_2
+gpio_direction_output,FUNC_0
+readl,FUNC_1
+spi_master_get_devdata,FUNC_2
+writel,FUNC_3
+spi_sirfsoc_chipselect,FUNC_4
+spi,VAR_3
+value,VAR_4
+sspi,VAR_5
+regval,VAR_6

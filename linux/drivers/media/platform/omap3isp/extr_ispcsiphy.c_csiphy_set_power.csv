@@ -1,0 +1,13 @@
+EBUSY,VAR_0
+ISPCSI2_PHY_CFG,VAR_1
+ISPCSI2_PHY_CFG_PWR_CMD_MASK,VAR_2
+ISPCSI2_PHY_CFG_PWR_STATUS_MASK,VAR_3
+dev_err,FUNC_0
+isp_reg_clr_set,FUNC_1
+isp_reg_readl,FUNC_2
+udelay,FUNC_3
+csiphy_set_power,FUNC_4
+phy,VAR_4
+power,VAR_5
+reg,VAR_6
+retry_count,VAR_7

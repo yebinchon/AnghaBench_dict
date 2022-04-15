@@ -1,0 +1,12 @@
+SOCFPGA_FPGMGR_CTL_CDRATIO_MASK,VAR_0
+SOCFPGA_FPGMGR_CTL_CFGWDTH_MASK,VAR_1
+SOCFPGA_FPGMGR_CTL_NCE,VAR_2
+SOCFPGA_FPGMGR_CTL_OFST,VAR_3
+cfgmgr_modes,VAR_4
+socfpga_fpga_cfg_mode_get,FUNC_0
+socfpga_fpga_readl,FUNC_1
+socfpga_fpga_writel,FUNC_2
+socfpga_fpga_cfg_mode_set,FUNC_3
+priv,VAR_5
+ctrl_reg,VAR_6
+mode,VAR_7

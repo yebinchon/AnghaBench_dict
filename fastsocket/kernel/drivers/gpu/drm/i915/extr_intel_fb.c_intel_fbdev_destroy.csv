@@ -1,0 +1,13 @@
+drm_fb_helper_fini,FUNC_0
+drm_framebuffer_cleanup,FUNC_1
+drm_framebuffer_unregister_private,FUNC_2
+drm_gem_object_unreference_unlocked,FUNC_3
+fb_dealloc_cmap,FUNC_4
+framebuffer_release,FUNC_5
+iounmap,FUNC_6
+unregister_framebuffer,FUNC_7
+intel_fbdev_destroy,FUNC_8
+dev,VAR_0
+ifbdev,VAR_1
+info,VAR_2
+ifb,VAR_3

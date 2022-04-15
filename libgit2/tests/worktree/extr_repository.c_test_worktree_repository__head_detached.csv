@@ -1,0 +1,13 @@
+cl_assert,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+fixture,VAR_0
+git_reference_free,FUNC_3
+git_reference_lookup,FUNC_4
+git_repository_head_detached,FUNC_5
+git_repository_head_detached_for_worktree,FUNC_6
+git_repository_head_for_worktree,FUNC_7
+git_repository_set_head_detached,FUNC_8
+test_worktree_repository__head_detached,FUNC_9
+ref,VAR_1
+head,VAR_2

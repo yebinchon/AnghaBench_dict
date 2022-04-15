@@ -1,0 +1,14 @@
+ATA_DFLAG_TRUSTED,VAR_0
+ATA_LOG_IDENTIFY_DEVICE,VAR_1
+ATA_LOG_SECURITY,VAR_2
+ata_dev_dbg,FUNC_0
+ata_dev_warn,FUNC_1
+ata_id_has_trusted,FUNC_2
+ata_identify_page_supported,FUNC_3
+ata_read_log_page,FUNC_4
+get_unaligned_le64,FUNC_5
+ata_dev_config_trusted,FUNC_6
+dev,VAR_3
+ap,VAR_4
+trusted_cap,VAR_5
+err,VAR_6

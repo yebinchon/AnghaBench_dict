@@ -1,0 +1,17 @@
+COMMON_SETUP2,VAR_0
+INV_Y,VAR_1
+i2c_get_clientdata,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+kstrtouint,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+to_i2c_client,FUNC_5
+inv_y_store,FUNC_6
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+count,VAR_5
+client,VAR_6
+ts,VAR_7
+val,VAR_8
+error,VAR_9

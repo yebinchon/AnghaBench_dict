@@ -1,0 +1,14 @@
+ESB_LOCK_REG,VAR_0
+ESB_RELOAD_REG,VAR_1
+ESB_WDT_ENABLE,VAR_2
+ESB_WDT_RELOAD,VAR_3
+esb_lock,VAR_4
+esb_pci,VAR_5
+esb_unlock_registers,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_write_config_byte,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+writew,FUNC_5
+esb_timer_stop,FUNC_6
+val,VAR_6

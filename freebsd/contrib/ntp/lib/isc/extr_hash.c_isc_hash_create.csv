@@ -1,0 +1,17 @@
+INSIST,FUNC_0
+ISC_R_SUCCESS,VAR_0
+LOCK,FUNC_1
+REQUIRE,FUNC_2
+RUNTIME_CHECK,FUNC_3
+UNLOCK,FUNC_4
+createlock,VAR_1
+hash,VAR_2
+initialize_lock,VAR_3
+isc_hash_ctxcreate,FUNC_5
+isc_once_do,FUNC_6
+once,VAR_4
+isc_hash_create,FUNC_7
+mctx,VAR_5
+entropy,VAR_6
+limit,VAR_7
+result,VAR_8

@@ -1,0 +1,12 @@
+SD_EVENT_ON,VAR_0
+assert,FUNC_0
+log_error_errno,FUNC_1
+log_warning_errno,FUNC_2
+sd_event_source_set_enabled,FUNC_3
+sd_event_source_set_time,FUNC_4
+dispatch_watchdog,FUNC_5
+es,VAR_1
+usec,VAR_2
+userdata,VAR_3
+s,VAR_4
+r,VAR_5

@@ -1,0 +1,10 @@
+TEGRA_APBDMA_BURST_COMPLETE_TIME,VAR_0
+TEGRA_APBDMA_CHAN_CSRE,VAR_1
+TEGRA_APBDMA_CHAN_CSRE_PAUSE,VAR_2
+tdc_write,FUNC_0
+tegra_dma_global_pause,FUNC_1
+udelay,FUNC_2
+tegra_dma_pause,FUNC_3
+tdc,VAR_3
+wait_for_burst_complete,VAR_4
+tdma,VAR_5

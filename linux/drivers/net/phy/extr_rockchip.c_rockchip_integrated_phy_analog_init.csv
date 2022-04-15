@@ -1,0 +1,10 @@
+SMI_ADDR_TSTCNTL,VAR_0
+SMI_ADDR_TSTWRITE,VAR_1
+TSTCNTL_WR,VAR_2
+WR_ADDR_A7CFG,VAR_3
+phy_write,FUNC_0
+rockchip_close_tstmode,FUNC_1
+rockchip_init_tstmode,FUNC_2
+rockchip_integrated_phy_analog_init,FUNC_3
+phydev,VAR_4
+ret,VAR_5

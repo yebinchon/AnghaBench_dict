@@ -1,0 +1,15 @@
+GDTH_SCRATCH,VAR_0
+MAXOFFSETS,VAR_1
+PCI_DMA_BIDIRECTIONAL,VAR_2
+TRACE2,FUNC_0
+free_dma,FUNC_1
+free_irq,FUNC_2
+gdth_flush,FUNC_3
+pci_free_consistent,FUNC_4
+pci_unmap_single,FUNC_5
+scsi_free_host_dev,FUNC_6
+scsi_host_put,FUNC_7
+scsi_remove_host,FUNC_8
+gdth_remove_one,FUNC_9
+ha,VAR_3
+shp,VAR_4

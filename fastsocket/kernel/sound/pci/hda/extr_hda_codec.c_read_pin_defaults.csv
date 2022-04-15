@@ -1,0 +1,15 @@
+AC_VERB_GET_CONFIG_DEFAULT,VAR_0
+AC_VERB_GET_PIN_WIDGET_CONTROL,VAR_1
+AC_WID_PIN,VAR_2
+ENOMEM,VAR_3
+get_wcaps,FUNC_0
+get_wcaps_type,FUNC_1
+snd_array_new,FUNC_2
+snd_hda_codec_read,FUNC_3
+read_pin_defaults,FUNC_4
+codec,VAR_4
+i,VAR_5
+nid,VAR_6
+pin,VAR_7
+wcaps,VAR_8
+wid_type,VAR_9

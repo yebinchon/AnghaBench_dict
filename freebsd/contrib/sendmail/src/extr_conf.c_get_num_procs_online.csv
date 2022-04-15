@@ -1,0 +1,8 @@
+CTL_HW,VAR_0
+HW_NCPU,VAR_1
+_SC_NPROCESSORS_ONLN,VAR_2
+pstat_getdynamic,FUNC_0
+sysconf,FUNC_1
+sysctl,FUNC_2
+get_num_procs_online,FUNC_3
+nproc,VAR_3

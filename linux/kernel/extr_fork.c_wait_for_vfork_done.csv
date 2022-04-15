@@ -1,0 +1,12 @@
+cgroup_enter_frozen,FUNC_0
+cgroup_leave_frozen,FUNC_1
+freezer_count,FUNC_2
+freezer_do_not_count,FUNC_3
+put_task_struct,FUNC_4
+task_lock,FUNC_5
+task_unlock,FUNC_6
+wait_for_completion_killable,FUNC_7
+wait_for_vfork_done,FUNC_8
+child,VAR_0
+vfork,VAR_1
+killed,VAR_2

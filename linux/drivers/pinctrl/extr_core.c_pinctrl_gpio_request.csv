@@ -1,0 +1,12 @@
+gpio_to_pin,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pinctrl_get_device_gpio_range,FUNC_3
+pinctrl_ready_for_gpio_range,FUNC_4
+pinmux_request_gpio,FUNC_5
+pinctrl_gpio_request,FUNC_6
+gpio,VAR_0
+pctldev,VAR_1
+range,VAR_2
+ret,VAR_3
+pin,VAR_4

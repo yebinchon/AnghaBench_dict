@@ -1,0 +1,13 @@
+IORESOURCE_IO,VAR_0
+IORESOURCE_MEM,VAR_1
+IORESOURCE_PREFETCH,VAR_2
+PCI_BRIDGE_CONTROL,VAR_3
+dev_info,FUNC_0
+pci_setup_bridge_io,FUNC_1
+pci_setup_bridge_mmio,FUNC_2
+pci_setup_bridge_mmio_pref,FUNC_3
+pci_write_config_word,FUNC_4
+__pci_setup_bridge,FUNC_5
+bus,VAR_4
+type,VAR_5
+bridge,VAR_6

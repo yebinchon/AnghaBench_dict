@@ -1,0 +1,14 @@
+CERT_TRUST_HAS_NOT_SUPPORTED_NAME_CONSTRAINT,VAR_0
+CERT_TRUST_HAS_VALID_NAME_CONSTRAINTS,VAR_1
+CRYPT_CheckNameConstraints,FUNC_0
+CRYPT_CombineTrustStatus,FUNC_1
+CRYPT_GetNameConstraints,FUNC_2
+CRYPT_IsCertificateSelfSigned,FUNC_3
+CRYPT_IsValidNameConstraint,FUNC_4
+LocalFree,FUNC_5
+CRYPT_CheckChainNameConstraints,FUNC_6
+chain,VAR_2
+i,VAR_3
+j,VAR_4
+nameConstraints,VAR_5
+errorStatus,VAR_6

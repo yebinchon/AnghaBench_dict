@@ -1,0 +1,10 @@
+ARMV8_PMU_PMCR_E,VAR_0
+PMCNTENSET_EL0,VAR_1
+PMCR_EL0,VAR_2
+PMINTENSET_EL1,VAR_3
+PMOVSSET_EL0,VAR_4
+__vcpu_sys_reg,FUNC_0
+kvm_pmu_valid_counter_mask,FUNC_1
+kvm_pmu_overflow_status,FUNC_2
+vcpu,VAR_5
+reg,VAR_6

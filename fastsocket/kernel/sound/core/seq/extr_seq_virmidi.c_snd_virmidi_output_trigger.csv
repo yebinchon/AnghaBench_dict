@@ -1,0 +1,17 @@
+SNDRV_SEQ_EVENT_NONE,VAR_0
+SNDRV_VIRMIDI_SEQ_DISPATCH,VAR_1
+SNDRV_VIRMIDI_SUBSCRIBE,VAR_2
+in_atomic,FUNC_0
+snd_midi_event_encode,FUNC_1
+snd_midi_event_reset_encode,FUNC_2
+snd_rawmidi_transmit_ack,FUNC_3
+snd_rawmidi_transmit_peek,FUNC_4
+snd_seq_kernel_client_dispatch,FUNC_5
+snd_virmidi_output_trigger,FUNC_6
+substream,VAR_3
+up,VAR_4
+vmidi,VAR_5
+count,VAR_6
+res,VAR_7
+buf,VAR_8
+pbuf,VAR_9

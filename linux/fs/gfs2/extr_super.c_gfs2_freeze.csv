@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+SDF_FS_FROZEN,VAR_2
+SDF_WITHDRAWN,VAR_3
+SFS_UNFROZEN,VAR_4
+atomic_read,FUNC_0
+fs_err,FUNC_1
+gfs2_lock_fs_check_clean,FUNC_2
+msleep,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+set_bit,FUNC_6
+test_bit,FUNC_7
+gfs2_freeze,FUNC_8
+sb,VAR_5
+sdp,VAR_6
+error,VAR_7

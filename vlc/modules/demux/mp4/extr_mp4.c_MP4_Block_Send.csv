@@ -1,0 +1,13 @@
+DemuxASFPacket,FUNC_0
+MP4_Block_Convert,FUNC_1
+aout_ChannelReorder,FUNC_2
+block_Release,FUNC_3
+es_out_Send,FUNC_4
+vlc_stream_Delete,FUNC_5
+vlc_stream_MemoryNew,FUNC_6
+MP4_Block_Send,FUNC_7
+p_demux,VAR_0
+p_track,VAR_1
+p_block,VAR_2
+p_sys,VAR_3
+p_stream,VAR_4

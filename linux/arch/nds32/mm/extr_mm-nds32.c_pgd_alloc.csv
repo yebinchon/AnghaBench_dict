@@ -1,0 +1,15 @@
+FIRST_KERNEL_PGD_NR,VAR_0
+GFP_KERNEL,VAR_1
+NR_PAGETABLE,VAR_2
+PTRS_PER_PGD,VAR_3
+__get_free_pages,FUNC_0
+cpu_dcache_wb_range,FUNC_1
+inc_zone_page_state,FUNC_2
+memcpy,FUNC_3
+pgd_offset_k,FUNC_4
+virt_to_page,FUNC_5
+pgd_alloc,FUNC_6
+mm,VAR_4
+new_pgd,VAR_5
+init_pgd,VAR_6
+i,VAR_7

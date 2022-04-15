@@ -1,0 +1,13 @@
+RBU_PK_EXTERNAL,VAR_0
+RBU_PK_NONE,VAR_1
+assert,FUNC_0
+prepareFreeAndCollectError,FUNC_1
+rbuObjIterGetBindlist,FUNC_2
+sqlite3_mprintf,FUNC_3
+rbuObjIterPrepareTmpInsert,FUNC_4
+p,VAR_2
+pIter,VAR_3
+zCollist,VAR_4
+zRbuRowid,VAR_5
+bRbuRowid,VAR_6
+zBind,VAR_7

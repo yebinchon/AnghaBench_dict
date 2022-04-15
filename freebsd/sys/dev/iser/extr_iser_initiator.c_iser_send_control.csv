@@ -1,0 +1,16 @@
+DMA_TO_DEVICE,VAR_0
+ISCSI_TX_CONTROL,VAR_1
+ISER_ERR,FUNC_0
+ib_dma_sync_single_for_cpu,FUNC_1
+ib_dma_sync_single_for_device,FUNC_2
+iser_create_send_desc,FUNC_3
+iser_post_recvl,FUNC_4
+iser_post_send,FUNC_5
+iser_send_control,FUNC_6
+iser_conn,VAR_2
+iser_pdu,VAR_3
+mdesc,VAR_4
+device,VAR_5
+datalen,VAR_6
+err,VAR_7
+tx_dsg,VAR_8

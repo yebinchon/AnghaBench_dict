@@ -1,0 +1,13 @@
+POLL_TIMEOUT,VAR_0
+S6_I2C_INTRMASK,VAR_1
+add_timer,FUNC_0
+complete,FUNC_1
+i2c_wr16,FUNC_2
+jiffies,VAR_2
+s6i2c_handle_interrupt,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+s6i2c_timeout,FUNC_6
+data,VAR_3
+iface,VAR_4
+flags,VAR_5

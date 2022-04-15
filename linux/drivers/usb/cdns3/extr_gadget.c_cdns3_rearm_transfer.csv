@@ -1,0 +1,12 @@
+EP_CMD_DRDY,VAR_0
+__cdns3_gadget_wakeup,FUNC_0
+cdns3_wa1_restore_cycle_bit,FUNC_1
+readl,FUNC_2
+trace_cdns3_doorbell_epx,FUNC_3
+trace_cdns3_ring,FUNC_4
+wmb,FUNC_5
+writel,FUNC_6
+cdns3_rearm_transfer,FUNC_7
+priv_ep,VAR_1
+rearm,VAR_2
+priv_dev,VAR_3

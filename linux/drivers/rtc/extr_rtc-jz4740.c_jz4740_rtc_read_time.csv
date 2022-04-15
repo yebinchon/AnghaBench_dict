@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+EIO,VAR_1
+JZ_REG_RTC_SCRATCHPAD,VAR_2
+JZ_REG_RTC_SEC,VAR_3
+dev_get_drvdata,FUNC_0
+jz4740_rtc_reg_read,FUNC_1
+rtc_time64_to_tm,FUNC_2
+jz4740_rtc_read_time,FUNC_3
+dev,VAR_4
+time,VAR_5
+rtc,VAR_6
+secs,VAR_7
+secs2,VAR_8
+timeout,VAR_9

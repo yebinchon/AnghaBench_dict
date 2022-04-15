@@ -1,0 +1,15 @@
+ENABLE_BIT,VAR_0
+POINTER,VAR_1
+QUEUE_SIZE,VAR_2
+SCU_UFQC_GEN_VAL,FUNC_0
+SCU_UFQC_WRITE,FUNC_1
+SCU_UFQGP_GEN_BIT,FUNC_2
+SCU_UFQGP_GEN_VAL,FUNC_3
+SCU_UFQGP_WRITE,FUNC_4
+SCU_UFQPP_GEN_VAL,FUNC_5
+SCU_UFQPP_WRITE,FUNC_6
+scic_sds_controller_initialize_unsolicited_frame_queue,FUNC_7
+this_controller,VAR_3
+frame_queue_control_value,VAR_4
+frame_queue_get_value,VAR_5
+frame_queue_put_value,VAR_6

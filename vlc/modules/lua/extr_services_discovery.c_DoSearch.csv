@@ -1,0 +1,15 @@
+VLC_EGENERIC,VAR_0
+VLC_SUCCESS,VAR_1
+lua_getglobal,FUNC_0
+lua_gettop,FUNC_1
+lua_isfunction,FUNC_2
+lua_pcall,FUNC_3
+lua_pop,FUNC_4
+lua_pushstring,FUNC_5
+lua_tostring,FUNC_6
+msg_Err,FUNC_7
+DoSearch,FUNC_8
+p_sd,VAR_2
+psz_query,VAR_3
+p_sys,VAR_4
+L,VAR_5

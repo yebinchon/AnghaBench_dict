@@ -1,0 +1,16 @@
+FIX_KMAP_BEGIN,VAR_0
+KM_TYPE_NR,VAR_1
+PAGE_KERNEL,VAR_2
+__fix_to_virt,FUNC_0
+debug_kmap_atomic,FUNC_1
+flush_tlb_one,FUNC_2
+kmap_pte,VAR_3
+pagefault_disable,FUNC_3
+pfn_pte,FUNC_4
+set_pte,FUNC_5
+smp_processor_id,FUNC_6
+kmap_atomic_pfn,FUNC_7
+pfn,VAR_4
+type,VAR_5
+idx,VAR_6
+vaddr,VAR_7

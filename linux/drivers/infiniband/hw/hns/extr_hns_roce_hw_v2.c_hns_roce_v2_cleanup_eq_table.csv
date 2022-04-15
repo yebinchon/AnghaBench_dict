@@ -1,0 +1,13 @@
+EQ_DISABLE,VAR_0
+__hns_roce_free_irq,FUNC_0
+destroy_workqueue,FUNC_1
+flush_workqueue,FUNC_2
+hns_roce_v2_destroy_eqc,FUNC_3
+hns_roce_v2_free_eq,FUNC_4
+hns_roce_v2_int_mask_enable,FUNC_5
+kfree,FUNC_6
+hns_roce_v2_cleanup_eq_table,FUNC_7
+hr_dev,VAR_1
+eq_table,VAR_2
+eq_num,VAR_3
+i,VAR_4

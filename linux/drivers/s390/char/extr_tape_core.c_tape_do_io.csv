@@ -1,0 +1,10 @@
+__tape_start_request,FUNC_0
+__tape_wake_up,VAR_0
+get_ccwdev_lock,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+wait_event,FUNC_4
+tape_do_io,FUNC_5
+device,VAR_1
+request,VAR_2
+rc,VAR_3

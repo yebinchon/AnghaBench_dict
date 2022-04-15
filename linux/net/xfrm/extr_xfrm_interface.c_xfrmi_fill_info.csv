@@ -1,0 +1,10 @@
+EMSGSIZE,VAR_0
+IFLA_XFRM_IF_ID,VAR_1
+IFLA_XFRM_LINK,VAR_2
+netdev_priv,FUNC_0
+nla_put_u32,FUNC_1
+xfrmi_fill_info,FUNC_2
+skb,VAR_3
+dev,VAR_4
+xi,VAR_5
+parm,VAR_6

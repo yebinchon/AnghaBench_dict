@@ -1,0 +1,12 @@
+ALCOR_PCIE_LINK_CTRL_OFFSET,VAR_0
+dev_dbg,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_byte,FUNC_2
+alcor_pci_aspm_ctrl,FUNC_3
+priv,VAR_1
+aspm_enable,VAR_2
+pci,VAR_3
+aspm_ctrl,VAR_4
+i,VAR_5
+where,VAR_6
+val32,VAR_7

@@ -1,0 +1,12 @@
+AT91_WDT_WDDBGHLT,VAR_0
+AT91_WDT_WDDIS,VAR_1
+AT91_WDT_WDFIEN,VAR_2
+AT91_WDT_WDIDLEHLT,VAR_3
+AT91_WDT_WDRSTEN,VAR_4
+of_property_read_bool,FUNC_0
+of_property_read_string,FUNC_1
+strcmp,FUNC_2
+of_sama5d4_wdt_init,FUNC_3
+np,VAR_5
+wdt,VAR_6
+tmp,VAR_7

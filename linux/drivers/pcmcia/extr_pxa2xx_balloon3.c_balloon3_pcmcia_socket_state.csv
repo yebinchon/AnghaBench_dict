@@ -1,0 +1,13 @@
+BALLOON3_BP_NSTSCHG_IRQ,VAR_0
+BALLOON3_CF_STATUS_REG,VAR_1
+BALLOON3_CF_nIRQ,VAR_2
+BALLOON3_CF_nSTSCHG_BVD1,VAR_3
+__raw_readw,FUNC_0
+balloon3_pcmcia_status,VAR_4
+disable_irq,FUNC_1
+enable_irq,FUNC_2
+balloon3_pcmcia_socket_state,FUNC_3
+skt,VAR_5
+state,VAR_6
+status,VAR_7
+flip,VAR_8

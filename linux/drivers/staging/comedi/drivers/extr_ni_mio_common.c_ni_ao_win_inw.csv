@@ -1,0 +1,12 @@
+NI611X_AO_WINDOW_ADDR_REG,VAR_0
+NI611X_AO_WINDOW_DATA_REG,VAR_1
+ni_readw,FUNC_0
+ni_writew,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ni_ao_win_inw,FUNC_4
+dev,VAR_2
+addr,VAR_3
+devpriv,VAR_4
+flags,VAR_5
+data,VAR_6

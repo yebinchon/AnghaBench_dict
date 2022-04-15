@@ -1,0 +1,13 @@
+DECREASE_PENDING_REQ_COUNT,FUNC_0
+GET_REQ_SOCK_ERROR,FUNC_1
+REQ_SUCCESS,FUNC_2
+UNREGISTER_HANDLE_REQ,FUNC_3
+UV_UDP,VAR_0
+assert,FUNC_4
+stub1,FUNC_5
+uv_translate_sys_error,FUNC_6
+uv_process_udp_send_req,FUNC_7
+loop,VAR_1
+handle,VAR_2
+req,VAR_3
+err,VAR_4

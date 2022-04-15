@@ -1,0 +1,10 @@
+WDT_CTRL_BOOT_SECONDARY,VAR_0
+WDT_RATE_1MHZ,VAR_1
+aspeed_wdt_enable,FUNC_0
+mdelay,FUNC_1
+to_aspeed_wdt,FUNC_2
+aspeed_wdt_restart,FUNC_3
+wdd,VAR_2
+action,VAR_3
+data,VAR_4
+wdt,VAR_5

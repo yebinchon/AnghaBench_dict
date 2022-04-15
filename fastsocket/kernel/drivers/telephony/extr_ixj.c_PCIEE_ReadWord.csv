@@ -1,0 +1,13 @@
+PCIEE_ReadBit,FUNC_0
+PCIEE_WriteBit,FUNC_1
+inb,FUNC_2
+mdelay,FUNC_3
+outb,FUNC_4
+PCIEE_ReadWord,FUNC_5
+wAddress,VAR_0
+wLoc,VAR_1
+pwResult,VAR_2
+lastLCC,VAR_3
+wEEPROMAddress,VAR_4
+i,VAR_5
+byResult,VAR_6

@@ -1,0 +1,8 @@
+ATF_REQUIRE_MSG,FUNC_0
+PF_UNIX,VAR_0
+SOCK_STREAM,VAR_1
+errno,VAR_2
+socketpair,FUNC_1
+strerror,FUNC_2
+domainsocketpair,FUNC_3
+fdp,VAR_3

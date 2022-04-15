@@ -1,0 +1,9 @@
+PCIE_GLB_STS_PHY_LINK_UP,VAR_0
+PCIE_GLB_STS_RDLH_LINK_UP,VAR_1
+PCIE_GLOBAL_STATUS_REG,VAR_2
+dev_dbg,FUNC_0
+dw_pcie_readl_dbi,FUNC_1
+armada8k_pcie_link_up,FUNC_2
+pci,VAR_3
+reg,VAR_4
+mask,VAR_5

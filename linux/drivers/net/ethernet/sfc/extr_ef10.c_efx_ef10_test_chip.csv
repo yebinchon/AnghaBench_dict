@@ -1,0 +1,15 @@
+EPERM,VAR_0
+MC_CMD_ENABLE_OFFLINE_BIST,VAR_1
+MC_CMD_MC_MEM_BIST,VAR_2
+MC_CMD_REG_BIST,VAR_3
+RESET_TYPE_WORLD,VAR_4
+efx_ef10_run_bist,FUNC_0
+efx_mcdi_reset,FUNC_1
+efx_mcdi_rpc,FUNC_2
+efx_reset_down,FUNC_3
+efx_reset_up,FUNC_4
+efx_ef10_test_chip,FUNC_5
+efx,VAR_5
+tests,VAR_6
+rc,VAR_7
+rc2,VAR_8

@@ -1,0 +1,13 @@
+CMD_NOTIFYGUEST_TYPE,VAR_0
+CMD_SCSITASKMGMT_TYPE,VAR_1
+CMD_SCSI_TYPE,VAR_2
+IOCHAN_FROM_IOPART,VAR_3
+complete_scsi_command,FUNC_0
+complete_taskmgmt_command,FUNC_1
+del_scsipending_ent,FUNC_2
+dev_err_once,FUNC_3
+visorchannel_signalremove,FUNC_4
+drain_queue,FUNC_5
+cmdrsp,VAR_4
+devdata,VAR_5
+scsicmd,VAR_6

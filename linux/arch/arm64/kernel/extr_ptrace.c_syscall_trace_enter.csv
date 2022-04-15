@@ -1,0 +1,12 @@
+PTRACE_SYSCALL_ENTER,VAR_0
+TIF_SYSCALL_EMU,VAR_1
+TIF_SYSCALL_TRACE,VAR_2
+TIF_SYSCALL_TRACEPOINT,VAR_3
+audit_syscall_entry,FUNC_0
+in_syscall,FUNC_1
+secure_computing,FUNC_2
+test_thread_flag,FUNC_3
+trace_sys_enter,FUNC_4
+tracehook_report_syscall,FUNC_5
+syscall_trace_enter,FUNC_6
+regs,VAR_4

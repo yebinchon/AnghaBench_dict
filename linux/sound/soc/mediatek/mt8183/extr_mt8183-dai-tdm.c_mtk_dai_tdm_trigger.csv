@@ -1,0 +1,14 @@
+AFE_HDMI_OUT_CON0,VAR_0
+AFE_HDMI_OUT_ON_MASK_SFT,VAR_1
+AFE_HDMI_OUT_ON_SFT,VAR_2
+AFE_TDM_CON1,VAR_3
+EINVAL,VAR_4
+TDM_EN_MASK_SFT,VAR_5
+TDM_EN_SFT,VAR_6
+regmap_update_bits,FUNC_0
+snd_soc_dai_get_drvdata,FUNC_1
+mtk_dai_tdm_trigger,FUNC_2
+substream,VAR_7
+cmd,VAR_8
+dai,VAR_9
+afe,VAR_10

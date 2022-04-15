@@ -1,0 +1,17 @@
+EVFILT_VNODE,VAR_0
+EV_ADD,VAR_1
+EV_ONESHOT,VAR_2
+EV_SET,FUNC_0
+NOTE_DELETE,VAR_3
+err,FUNC_1
+kevent,FUNC_2
+kevent_cmp,FUNC_3
+kevent_get,FUNC_4
+kqfd,VAR_4
+success,FUNC_5
+test_begin,FUNC_6
+unlink,FUNC_7
+vnode_fd,VAR_5
+test_kevent_vnode_note_delete,FUNC_8
+test_id,VAR_6
+kev,VAR_7

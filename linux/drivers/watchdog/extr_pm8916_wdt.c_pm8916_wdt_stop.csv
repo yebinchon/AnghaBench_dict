@@ -1,0 +1,7 @@
+PON_PMIC_WD_RESET_S2_CTL2,VAR_0
+S2_RESET_EN_BIT,VAR_1
+regmap_update_bits,FUNC_0
+watchdog_get_drvdata,FUNC_1
+pm8916_wdt_stop,FUNC_2
+wdev,VAR_2
+wdt,VAR_3

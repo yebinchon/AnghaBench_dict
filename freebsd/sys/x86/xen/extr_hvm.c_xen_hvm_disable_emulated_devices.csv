@@ -1,0 +1,13 @@
+XEN_MAGIC_IOPORT,VAR_0
+XMI_MAGIC,VAR_1
+XMI_UNPLUG_IDE_DISKS,VAR_2
+XMI_UNPLUG_NICS,VAR_3
+bootverbose,VAR_4
+inw,FUNC_0
+outw,FUNC_1
+printf,FUNC_2
+xen_disable_pv_disks,VAR_5
+xen_disable_pv_nics,VAR_6
+xen_pv_domain,FUNC_3
+xen_hvm_disable_emulated_devices,FUNC_4
+disable_devs,VAR_7

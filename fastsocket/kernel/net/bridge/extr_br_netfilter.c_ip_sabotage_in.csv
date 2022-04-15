@@ -1,0 +1,9 @@
+BRNF_NF_BRIDGE_PREROUTING,VAR_0
+NF_ACCEPT,VAR_1
+NF_STOP,VAR_2
+ip_sabotage_in,FUNC_0
+hook,VAR_3
+skb,VAR_4
+in,VAR_5
+out,VAR_6
+okfn,VAR_7

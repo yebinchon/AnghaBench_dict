@@ -1,0 +1,12 @@
+GIT_RESET_MIXED,VAR_0
+GIT_STATUS_CURRENT,VAR_1
+GIT_STATUS_WT_NEW,VAR_2
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_reset,FUNC_2
+git_revparse_single,FUNC_3
+git_status_file,FUNC_4
+repo,VAR_3
+target,VAR_4
+test_reset_mixed__resetting_refreshes_the_index_to_the_commit_tree,FUNC_5
+status,VAR_5

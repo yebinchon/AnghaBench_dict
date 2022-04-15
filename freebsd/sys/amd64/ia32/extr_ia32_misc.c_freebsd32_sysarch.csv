@@ -1,0 +1,13 @@
+I386_GET_LDT,VAR_0
+I386_SET_LDT,VAR_1
+UIO_SYSSPACE,VAR_2
+copyin,FUNC_0
+sysarch,FUNC_1
+sysarch_ldt,FUNC_2
+freebsd32_sysarch,FUNC_3
+td,VAR_3
+uap,VAR_4
+uap1,VAR_5
+uapl,VAR_6
+uapl32,VAR_7
+error,VAR_8

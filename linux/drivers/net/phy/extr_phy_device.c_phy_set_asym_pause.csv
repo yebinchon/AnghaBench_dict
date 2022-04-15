@@ -1,0 +1,14 @@
+ETHTOOL_LINK_MODE_Asym_Pause_BIT,VAR_0
+ETHTOOL_LINK_MODE_Pause_BIT,VAR_1
+__ETHTOOL_DECLARE_LINK_MODE_MASK,FUNC_0
+linkmode_change_bit,FUNC_1
+linkmode_clear_bit,FUNC_2
+linkmode_copy,FUNC_3
+linkmode_equal,FUNC_4
+linkmode_set_bit,FUNC_5
+oldadv,VAR_2
+phy_start_aneg,FUNC_6
+phy_set_asym_pause,FUNC_7
+phydev,VAR_3
+rx,VAR_4
+tx,VAR_5

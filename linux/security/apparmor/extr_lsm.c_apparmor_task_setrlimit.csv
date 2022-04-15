@@ -1,0 +1,10 @@
+__begin_current_label_crit_section,FUNC_0
+__end_current_label_crit_section,FUNC_1
+aa_task_setrlimit,FUNC_2
+unconfined,FUNC_3
+apparmor_task_setrlimit,FUNC_4
+task,VAR_0
+resource,VAR_1
+new_rlim,VAR_2
+label,VAR_3
+error,VAR_4

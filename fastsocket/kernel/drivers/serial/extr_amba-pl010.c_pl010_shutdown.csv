@@ -1,0 +1,11 @@
+UART010_CR,VAR_0
+UART010_LCRH,VAR_1
+UART01x_LCRH_BRK,VAR_2
+UART01x_LCRH_FEN,VAR_3
+clk_disable,FUNC_0
+free_irq,FUNC_1
+readb,FUNC_2
+writel,FUNC_3
+pl010_shutdown,FUNC_4
+port,VAR_4
+uap,VAR_5

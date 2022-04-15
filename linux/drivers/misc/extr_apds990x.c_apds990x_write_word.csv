@@ -1,0 +1,10 @@
+APDS990x_CMD,VAR_0
+APDS990x_CMD_TYPE_INC,VAR_1
+APDS990x_CMD_TYPE_MASK,VAR_2
+i2c_smbus_write_word_data,FUNC_0
+apds990x_write_word,FUNC_1
+chip,VAR_3
+reg,VAR_4
+data,VAR_5
+client,VAR_6
+ret,VAR_7

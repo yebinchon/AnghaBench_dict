@@ -1,0 +1,13 @@
+BFQ_CL_IDLE_TIMEOUT,VAR_0
+BFQ_IOPRIO_CLASSES,VAR_1
+RB_EMPTY_ROOT,FUNC_0
+__bfq_lookup_next_entity,FUNC_1
+jiffies,VAR_2
+time_is_before_jiffies,FUNC_2
+bfq_lookup_next_entity,FUNC_3
+sd,VAR_3
+expiration,VAR_4
+st,VAR_5
+idle_class_st,VAR_6
+entity,VAR_7
+class_idx,VAR_8

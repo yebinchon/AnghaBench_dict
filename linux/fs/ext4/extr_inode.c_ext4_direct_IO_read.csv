@@ -1,0 +1,13 @@
+__blockdev_direct_IO,FUNC_0
+ext4_dio_get_block,VAR_0
+filemap_write_and_wait_range,FUNC_1
+inode_lock_shared,FUNC_2
+inode_unlock_shared,FUNC_3
+iov_iter_count,FUNC_4
+ext4_direct_IO_read,FUNC_5
+iocb,VAR_1
+iter,VAR_2
+mapping,VAR_3
+inode,VAR_4
+count,VAR_5
+ret,VAR_6

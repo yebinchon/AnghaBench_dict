@@ -1,0 +1,17 @@
+NGX_HTTP_LUA_MAX_ARGS,VAR_0
+luaL_checkint,FUNC_0
+luaL_checklstring,FUNC_1
+luaL_error,FUNC_2
+lua_createtable,FUNC_3
+lua_gettop,FUNC_4
+lua_newuserdata,FUNC_5
+lua_pop,FUNC_6
+ngx_http_lua_parse_args,FUNC_7
+ngx_memcpy,FUNC_8
+ngx_http_lua_ngx_decode_args,FUNC_9
+L,VAR_1
+buf,VAR_2
+tmp,VAR_3
+len,VAR_4
+n,VAR_5
+max,VAR_6

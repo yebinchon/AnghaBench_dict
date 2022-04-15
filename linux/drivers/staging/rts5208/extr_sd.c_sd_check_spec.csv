@@ -1,0 +1,17 @@
+APP_CMD,VAR_0
+SD_RSP_TYPE_R1,VAR_1
+SD_TM_NORMAL_READ,VAR_2
+SEND_SCR,VAR_3
+STATUS_FAIL,VAR_4
+STATUS_SUCCESS,VAR_5
+memcpy,FUNC_0
+rtsx_clear_sd_error,FUNC_1
+sd_read_data,FUNC_2
+sd_send_cmd_get_rsp,FUNC_3
+sd_check_spec,FUNC_4
+chip,VAR_6
+bus_width,VAR_7
+sd_card,VAR_8
+retval,VAR_9
+cmd,VAR_10
+buf,VAR_11

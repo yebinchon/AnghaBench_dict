@@ -1,0 +1,11 @@
+NAND_BBT_NO_OOB,VAR_0
+NAND_BBT_USE_FLASH,VAR_1
+NAND_SKIP_BBTSCAN,VAR_2
+dev_dbg,FUNC_0
+gpmi_init_last,FUNC_1
+nand_get_controller_data,FUNC_2
+of_property_read_bool,FUNC_3
+gpmi_nand_attach_chip,FUNC_4
+chip,VAR_3
+this,VAR_4
+ret,VAR_5

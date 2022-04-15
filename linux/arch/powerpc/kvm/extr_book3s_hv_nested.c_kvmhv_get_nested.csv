@@ -1,0 +1,12 @@
+KVM_MAX_NESTED_GUESTS,VAR_0
+PRTS_MASK,VAR_1
+kvmhv_alloc_nested,FUNC_0
+kvmhv_release_nested,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+kvmhv_get_nested,FUNC_4
+kvm,VAR_2
+l1_lpid,VAR_3
+create,VAR_4
+gp,VAR_5
+newgp,VAR_6

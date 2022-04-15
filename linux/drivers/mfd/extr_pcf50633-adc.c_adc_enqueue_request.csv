@@ -1,0 +1,13 @@
+EBUSY,VAR_0
+PCF50633_MAX_ADC_FIFO_DEPTH,VAR_1
+__to_adc,FUNC_0
+dev_err,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+trigger_next_adc_job_if_any,FUNC_4
+adc_enqueue_request,FUNC_5
+pcf,VAR_2
+req,VAR_3
+adc,VAR_4
+head,VAR_5
+tail,VAR_6

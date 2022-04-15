@@ -1,0 +1,15 @@
+HP_SDC_ACT_DATAIN,VAR_0
+HP_SDC_ACT_DATAREG,VAR_1
+HP_SDC_ACT_POSTCMD,VAR_2
+HP_SDC_ACT_SEMAPHORE,VAR_3
+HP_SDC_CMD_DO_RTCR,VAR_4
+down_interruptible,FUNC_0
+hp_sdc_enqueue_transaction,FUNC_1
+init_MUTEX_LOCKED,FUNC_2
+memset,FUNC_3
+hp_sdc_rtc_do_read_bbrtc,FUNC_4
+rtctm,VAR_5
+tsem,VAR_6
+t,VAR_7
+tseq,VAR_8
+i,VAR_9

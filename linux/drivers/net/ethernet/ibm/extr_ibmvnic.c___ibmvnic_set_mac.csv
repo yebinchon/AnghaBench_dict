@@ -1,0 +1,17 @@
+CHANGE_MAC_ADDR,VAR_0
+EADDRNOTAVAIL,VAR_1
+EIO,VAR_2
+IBMVNIC_CRQ_CMD,VAR_3
+ether_addr_copy,FUNC_0
+ibmvnic_send_crq,FUNC_1
+init_completion,FUNC_2
+is_valid_ether_addr,FUNC_3
+memset,FUNC_4
+netdev_priv,FUNC_5
+wait_for_completion,FUNC_6
+__ibmvnic_set_mac,FUNC_7
+netdev,VAR_4
+dev_addr,VAR_5
+adapter,VAR_6
+crq,VAR_7
+rc,VAR_8

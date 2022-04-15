@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+UV_EBUSY,VAR_0
+mutex,VAR_1
+rwlock,VAR_2
+synchronize,FUNC_1
+synchronize_nowait,FUNC_2
+uv_mutex_lock,FUNC_3
+uv_mutex_unlock,FUNC_4
+uv_rwlock_rdunlock,FUNC_5
+uv_rwlock_tryrdlock,FUNC_6
+uv_rwlock_trywrlock,FUNC_7
+uv_rwlock_wrunlock,FUNC_8
+thread_rwlock_trylock_peer,FUNC_9
+unused,VAR_3

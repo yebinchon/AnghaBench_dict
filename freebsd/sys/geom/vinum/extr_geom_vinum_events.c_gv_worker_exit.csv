@@ -1,0 +1,13 @@
+GV_EVENT_THREAD_EXIT,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+PDROP,VAR_3
+TAILQ_INSERT_TAIL,FUNC_0
+events,VAR_4
+g_malloc,FUNC_1
+msleep,FUNC_2
+mtx_lock,FUNC_3
+wakeup,FUNC_4
+gv_worker_exit,FUNC_5
+sc,VAR_5
+ev,VAR_6

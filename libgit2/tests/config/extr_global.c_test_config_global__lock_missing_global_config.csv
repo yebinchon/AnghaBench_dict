@@ -1,0 +1,15 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_config_entry_free,FUNC_2
+git_config_free,FUNC_3
+git_config_get_entry,FUNC_4
+git_config_lock,FUNC_5
+git_config_open_default,FUNC_6
+git_config_set_string,FUNC_7
+git_transaction_commit,FUNC_8
+git_transaction_free,FUNC_9
+p_unlink,FUNC_10
+test_config_global__lock_missing_global_config,FUNC_11
+cfg,VAR_0
+entry,VAR_1
+transaction,VAR_2

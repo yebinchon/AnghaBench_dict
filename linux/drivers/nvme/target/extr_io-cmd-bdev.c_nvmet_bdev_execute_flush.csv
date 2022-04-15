@@ -1,0 +1,10 @@
+ARRAY_SIZE,FUNC_0
+REQ_OP_WRITE,VAR_0
+REQ_PREFLUSH,VAR_1
+bio_init,FUNC_1
+bio_set_dev,FUNC_2
+nvmet_bio_done,VAR_2
+submit_bio,FUNC_3
+nvmet_bdev_execute_flush,FUNC_4
+req,VAR_3
+bio,VAR_4

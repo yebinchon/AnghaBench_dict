@@ -1,0 +1,9 @@
+CIU_IRQ_EN1_BEGIN,VAR_0
+CVMX_CIU_INTX_EN1,FUNC_0
+cvmx_get_core_num,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+ciu_en1_intr_mask,FUNC_4
+arg,VAR_1
+mask,VAR_2
+irq,VAR_3

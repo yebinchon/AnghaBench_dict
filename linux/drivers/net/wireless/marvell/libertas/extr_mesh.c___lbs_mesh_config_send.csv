@@ -1,0 +1,14 @@
+CMD_MESH_CONFIG,VAR_0
+CMD_MESH_CONFIG_OLD,VAR_1
+MESH_IFACE_BIT_OFFSET,VAR_2
+MESH_IFACE_ID,VAR_3
+TLV_TYPE_MESH_ID,VAR_4
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+__lbs_mesh_config_send,FUNC_2
+priv,VAR_5
+cmd,VAR_6
+action,VAR_7
+type,VAR_8
+ret,VAR_9
+command,VAR_10

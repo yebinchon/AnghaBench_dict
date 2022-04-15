@@ -1,0 +1,12 @@
+PMAP_LOCK,FUNC_0
+PMAP_UNLOCK,FUNC_1
+TTE_GET_PA,FUNC_2
+TTE_GET_PAGE_MASK,FUNC_3
+kernel_pmap,VAR_0
+pmap_kextract,FUNC_4
+tsb_tte_lookup,FUNC_5
+pmap_extract,FUNC_6
+pm,VAR_1
+va,VAR_2
+tp,VAR_3
+pa,VAR_4

@@ -1,0 +1,10 @@
+DEVICE_DEBUGF,FUNC_0
+I2CCR_MEN,VAR_0
+I2C_CONTROL_REG,VAR_1
+IIC_NOERR,VAR_2
+device_get_softc,FUNC_1
+i2c_write_reg,FUNC_2
+wait_for_busbusy,FUNC_3
+i2c_stop,FUNC_4
+dev,VAR_3
+sc,VAR_4

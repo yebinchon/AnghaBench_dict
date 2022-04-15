@@ -1,0 +1,16 @@
+Assert,FUNC_0
+EVENT_TRIGGER_DROP_TABLE_CONSTRAINT,VAR_0
+chunk_get_by_name,FUNC_1
+foreach_chunk,FUNC_2
+process_drop_constraint_on_chunk,VAR_1
+ts_catalog_database_info_become_owner,FUNC_3
+ts_catalog_database_info_get,FUNC_4
+ts_catalog_restore_user,FUNC_5
+ts_chunk_constraint_delete_by_constraint_name,FUNC_6
+ts_hypertable_get_by_name,FUNC_7
+process_drop_table_constraint,FUNC_8
+obj,VAR_2
+constraint,VAR_3
+ht,VAR_4
+sec_ctx,VAR_5
+chunk,VAR_6

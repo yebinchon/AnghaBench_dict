@@ -1,0 +1,10 @@
+GIT_CONFIG_LEVEL_LOCAL,VAR_0
+GIT_ENOTFOUND,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_config_free,FUNC_2
+git_config_new,FUNC_3
+git_config_open_level,FUNC_4
+test_config_configlevel__fetching_a_level_from_an_empty_compound_config_returns_ENOTFOUND,FUNC_5
+cfg,VAR_2
+local_cfg,VAR_3

@@ -1,0 +1,13 @@
+CMD_POWER_MODE,VAR_0
+IIC_WAIT,VAR_1
+cyapa_read_bytes,FUNC_0
+cyapa_write_bytes,FUNC_1
+device_get_parent,FUNC_2
+iicbus_release_bus,FUNC_3
+iicbus_request_bus,FUNC_4
+cyapa_set_power_mode,FUNC_5
+sc,VAR_2
+mode,VAR_3
+data,VAR_4
+bus,VAR_5
+error,VAR_6

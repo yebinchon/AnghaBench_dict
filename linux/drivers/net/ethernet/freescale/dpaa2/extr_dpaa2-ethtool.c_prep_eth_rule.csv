@@ -1,0 +1,17 @@
+DPAA2_ETH_DIST_ETHDST,VAR_0
+DPAA2_ETH_DIST_ETHSRC,VAR_1
+DPAA2_ETH_DIST_ETHTYPE,VAR_2
+NET_PROT_ETH,VAR_3
+NH_FLD_ETH_DA,VAR_4
+NH_FLD_ETH_SA,VAR_5
+NH_FLD_ETH_TYPE,VAR_6
+dpaa2_eth_cls_fld_off,FUNC_0
+ether_addr_copy,FUNC_1
+is_zero_ether_addr,FUNC_2
+prep_eth_rule,FUNC_3
+eth_value,VAR_7
+eth_mask,VAR_8
+key,VAR_9
+mask,VAR_10
+fields,VAR_11
+off,VAR_12

@@ -1,0 +1,17 @@
+S_ISDIR,FUNC_0
+S_ISREG,FUNC_1
+luaL_checkstring,FUNC_2
+lua_newtable,FUNC_3
+lua_pushboolean,FUNC_4
+lua_pushinteger,FUNC_5
+lua_pushnil,FUNC_6
+lua_pushstring,FUNC_7
+lua_setfield,FUNC_8
+stat,FUNC_9
+script_file_info,FUNC_10
+L,VAR_0
+path,VAR_1
+statbuf,VAR_2
+stat_names,VAR_3
+stat_values,VAR_4
+i,VAR_5

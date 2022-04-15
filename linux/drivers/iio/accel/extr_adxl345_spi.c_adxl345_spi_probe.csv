@@ -1,0 +1,13 @@
+ADXL345_MAX_SPI_FREQ_HZ,VAR_0
+EINVAL,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+adxl345_core_probe,FUNC_2
+adxl345_spi_regmap_config,VAR_2
+dev_err,FUNC_3
+devm_regmap_init_spi,FUNC_4
+spi_get_device_id,FUNC_5
+adxl345_spi_probe,FUNC_6
+spi,VAR_3
+id,VAR_4
+regmap,VAR_5

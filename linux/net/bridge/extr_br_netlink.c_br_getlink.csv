@@ -1,0 +1,13 @@
+RTEXT_FILTER_BRVLAN,VAR_0
+RTEXT_FILTER_BRVLAN_COMPRESSED,VAR_1
+RTM_NEWLINK,VAR_2
+br_fill_ifinfo,FUNC_0
+br_port_get_rtnl,FUNC_1
+br_getlink,FUNC_2
+skb,VAR_3
+pid,VAR_4
+seq,VAR_5
+dev,VAR_6
+filter_mask,VAR_7
+nlflags,VAR_8
+port,VAR_9

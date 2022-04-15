@@ -1,0 +1,15 @@
+ACTIVE_EXPIRE_CYCLE_SLOW,VAR_0
+CRON_DBS_PER_CALL,VAR_1
+activeDefragCycle,FUNC_0
+activeExpireCycle,FUNC_1
+expireSlaveKeys,FUNC_2
+hasActiveChildProcess,FUNC_3
+incrementallyRehash,FUNC_4
+server,VAR_2
+tryResizeHashTables,FUNC_5
+databasesCron,FUNC_6
+resize_db,VAR_3
+rehash_db,VAR_4
+dbs_per_call,VAR_5
+j,VAR_6
+work_done,VAR_7

@@ -1,0 +1,12 @@
+INIT_COMMAND_NO_RESPONSE,FUNC_0
+TYPHOON_CMD_HELLO_RESP,VAR_0
+TYPHOON_REG_CMD_READY,VAR_1
+iowrite32,FUNC_1
+spin_trylock,FUNC_2
+spin_unlock,FUNC_3
+typhoon_inc_cmd_index,FUNC_4
+wmb,FUNC_5
+typhoon_hello,FUNC_6
+tp,VAR_2
+ring,VAR_3
+cmd,VAR_4

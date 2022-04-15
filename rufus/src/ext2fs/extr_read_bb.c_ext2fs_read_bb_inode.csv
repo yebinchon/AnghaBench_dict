@@ -1,0 +1,17 @@
+BLOCK_FLAG_READ_ONLY,VAR_0
+EXT2_BAD_INO,VAR_1
+EXT2_CHECK_MAGIC,FUNC_0
+EXT2_ET_MAGIC_EXT2FS_FILSYS,VAR_2
+EXT4_HUGE_FILE_FL,VAR_3
+ext2fs_badblocks_list_create,FUNC_1
+ext2fs_block_iterate2,FUNC_2
+ext2fs_has_feature_huge_file,FUNC_3
+ext2fs_read_inode,FUNC_4
+mark_bad_block,VAR_4
+ext2fs_read_bb_inode,FUNC_5
+fs,VAR_5
+bb_list,VAR_6
+retval,VAR_7
+rb,VAR_8
+inode,VAR_9
+numblocks,VAR_10

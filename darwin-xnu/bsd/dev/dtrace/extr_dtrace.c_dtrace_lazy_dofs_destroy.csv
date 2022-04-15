@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+DOF_IOCTL_DATA_T_SIZE,FUNC_1
+dtrace_dof_mode_lock,VAR_0
+dtrace_sprlock,FUNC_2
+dtrace_sprunlock,FUNC_3
+kmem_free,FUNC_4
+lck_rw_lock_shared,FUNC_5
+lck_rw_unlock_shared,FUNC_6
+dtrace_lazy_dofs_destroy,FUNC_7
+p,VAR_1
+lazy_dofs,VAR_2

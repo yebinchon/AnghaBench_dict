@@ -1,0 +1,15 @@
+DT_CALLOUT_ARMED,VAR_0
+DT_DRAIN_IN_PROGRESS,VAR_1
+KASSERT,FUNC_0
+TQ_LOCK,FUNC_1
+TQ_UNLOCK,FUNC_2
+callout_reset_sbt,FUNC_3
+taskqueue_enqueue_locked,FUNC_4
+taskqueue_timeout_func,VAR_2
+taskqueue_enqueue_timeout_sbt,FUNC_5
+queue,VAR_3
+timeout_task,VAR_4
+sbt,VAR_5
+pr,VAR_6
+flags,VAR_7
+res,VAR_8

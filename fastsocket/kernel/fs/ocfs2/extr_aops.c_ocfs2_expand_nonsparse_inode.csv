@@ -1,0 +1,14 @@
+OCFS2_SB,FUNC_0
+i_size_read,FUNC_1
+mlog_errno,FUNC_2
+ocfs2_clusters_for_bytes,FUNC_3
+ocfs2_extend_no_holes,FUNC_4
+ocfs2_sparse_alloc,FUNC_5
+ocfs2_expand_nonsparse_inode,FUNC_6
+inode,VAR_0
+pos,VAR_1
+len,VAR_2
+wc,VAR_3
+ret,VAR_4
+osb,VAR_5
+newsize,VAR_6

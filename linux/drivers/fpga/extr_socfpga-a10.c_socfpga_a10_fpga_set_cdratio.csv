@@ -1,0 +1,17 @@
+A10_FPGAMGR_IMGCFG_CTL_02_CDRATIO_MASK,VAR_0
+A10_FPGAMGR_IMGCFG_CTL_02_CDRATIO_SHIFT,VAR_1
+A10_FPGAMGR_IMGCFG_CTL_02_OFST,VAR_2
+EINVAL,VAR_3
+regmap_update_bits,FUNC_0
+socfpga_a10_fpga_compressed,FUNC_1
+socfpga_a10_fpga_encrypted,FUNC_2
+socfpga_a10_fpga_get_cd_ratio,FUNC_3
+socfpga_a10_fpga_set_cdratio,FUNC_4
+mgr,VAR_4
+cfg_width,VAR_5
+buf,VAR_6
+count,VAR_7
+priv,VAR_8
+cd_ratio,VAR_9
+encrypt,VAR_10
+compress,VAR_11

@@ -1,0 +1,12 @@
+TRB_LEN,FUNC_0
+cdns3_ep0_complete_setup,FUNC_1
+cdns3_gadget_giveback,FUNC_2
+cdns3_next_request,FUNC_3
+le32_to_cpu,FUNC_4
+list_empty,FUNC_5
+to_cdns3_request,FUNC_6
+trace_cdns3_complete_trb,FUNC_7
+cdns3_transfer_completed,FUNC_8
+priv_dev,VAR_0
+priv_ep,VAR_1
+request,VAR_2

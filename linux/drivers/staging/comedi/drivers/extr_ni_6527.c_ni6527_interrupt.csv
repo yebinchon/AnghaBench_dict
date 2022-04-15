@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+NI6527_CLR_IRQS,VAR_2
+NI6527_CLR_REG,VAR_3
+NI6527_STATUS_EDGE,VAR_4
+NI6527_STATUS_IRQ,VAR_5
+NI6527_STATUS_REG,VAR_6
+comedi_buf_write_samples,FUNC_0
+comedi_handle_events,FUNC_1
+readb,FUNC_2
+writeb,FUNC_3
+ni6527_interrupt,FUNC_4
+irq,VAR_7
+d,VAR_8
+dev,VAR_9
+s,VAR_10
+status,VAR_11

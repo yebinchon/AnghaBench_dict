@@ -1,0 +1,15 @@
+get_timer_map,FUNC_0
+has_gic_active_state,VAR_0
+kvm_timer_unblocking,FUNC_1
+kvm_timer_vcpu_load_gic,FUNC_2
+kvm_timer_vcpu_load_nogic,FUNC_3
+set_cntvoff,FUNC_4
+static_branch_likely,FUNC_5
+timer_emulate,FUNC_6
+timer_restore_state,FUNC_7
+unlikely,FUNC_8
+vcpu_timer,FUNC_9
+kvm_timer_vcpu_load,FUNC_10
+vcpu,VAR_1
+timer,VAR_2
+map,VAR_3

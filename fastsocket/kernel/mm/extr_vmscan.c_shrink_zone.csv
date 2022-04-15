@@ -1,0 +1,15 @@
+global_reclaim,FUNC_0
+mem_cgroup_iter,FUNC_1
+mem_cgroup_iter_break,FUNC_2
+should_continue_reclaim,FUNC_3
+shrink_mem_cgroup_zone,FUNC_4
+shrink_zone,FUNC_5
+priority,VAR_0
+zone,VAR_1
+sc,VAR_2
+nr_reclaimed,VAR_3
+nr_scanned,VAR_4
+root,VAR_5
+reclaim,VAR_6
+memcg,VAR_7
+mz,VAR_8

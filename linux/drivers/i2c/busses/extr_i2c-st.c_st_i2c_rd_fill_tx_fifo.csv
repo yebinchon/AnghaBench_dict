@@ -1,0 +1,14 @@
+SSC_STA,VAR_0
+SSC_STA_TX_FIFO_FULL,VAR_1
+SSC_TXFIFO_SIZE,VAR_2
+SSC_TX_FSTAT,VAR_3
+SSC_TX_FSTAT_STATUS,VAR_4
+readl_relaxed,FUNC_0
+st_i2c_write_tx_fifo,FUNC_1
+st_i2c_rd_fill_tx_fifo,FUNC_2
+i2c_dev,VAR_5
+max,VAR_6
+c,VAR_7
+tx_fstat,VAR_8
+sta,VAR_9
+i,VAR_10

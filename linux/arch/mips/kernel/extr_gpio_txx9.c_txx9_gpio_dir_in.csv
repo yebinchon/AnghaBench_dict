@@ -1,0 +1,11 @@
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+mmiowb,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+txx9_gpio_lock,VAR_0
+txx9_pioptr,VAR_1
+txx9_gpio_dir_in,FUNC_5
+chip,VAR_2
+offset,VAR_3
+flags,VAR_4

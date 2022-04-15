@@ -1,0 +1,15 @@
+TIMER_PCR,VAR_0
+TIMER_PCR_INTR_CLR,VAR_1
+TIMER_PTV,VAR_2
+clockevents_config_and_register,FUNC_0
+cpumask_of,FUNC_1
+enable_irq,FUNC_2
+irq_force_affinity,FUNC_3
+per_cpu_ptr,FUNC_4
+tegra_to,VAR_3
+timer_of_base,FUNC_5
+timer_of_rate,FUNC_6
+writel_relaxed,FUNC_7
+tegra_timer_setup,FUNC_8
+cpu,VAR_4
+to,VAR_5

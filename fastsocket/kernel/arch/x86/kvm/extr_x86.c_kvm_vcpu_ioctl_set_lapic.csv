@@ -1,0 +1,8 @@
+kvm_apic_post_state_restore,FUNC_0
+memcpy,FUNC_1
+update_cr8_intercept,FUNC_2
+vcpu_load,FUNC_3
+vcpu_put,FUNC_4
+kvm_vcpu_ioctl_set_lapic,FUNC_5
+vcpu,VAR_0
+s,VAR_1

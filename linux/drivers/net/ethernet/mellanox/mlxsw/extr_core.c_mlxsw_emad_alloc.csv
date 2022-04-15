@@ -1,0 +1,12 @@
+MLXSW_EMAD_END_TLV_LEN,VAR_0
+MLXSW_EMAD_ETH_HDR_LEN,VAR_1
+MLXSW_EMAD_MAX_FRAME_LEN,VAR_2
+MLXSW_EMAD_OP_TLV_LEN,VAR_3
+memset,FUNC_0
+netdev_alloc_skb,FUNC_1
+skb_reserve,FUNC_2
+mlxsw_emad_alloc,FUNC_3
+mlxsw_core,VAR_4
+reg_len,VAR_5
+skb,VAR_6
+emad_len,VAR_7

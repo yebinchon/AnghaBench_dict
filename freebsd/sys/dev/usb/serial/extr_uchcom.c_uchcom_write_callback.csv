@@ -1,0 +1,16 @@
+DPRINTF,FUNC_0
+USB_ERR_CANCELLED,VAR_0
+USB_GET_STATE,FUNC_1
+ucom_get_data,FUNC_2
+usbd_transfer_submit,FUNC_3
+usbd_xfer_get_frame,FUNC_4
+usbd_xfer_max_len,FUNC_5
+usbd_xfer_set_frame_len,FUNC_6
+usbd_xfer_set_stall,FUNC_7
+usbd_xfer_softc,FUNC_8
+uchcom_write_callback,FUNC_9
+xfer,VAR_1
+error,VAR_2
+sc,VAR_3
+pc,VAR_4
+actlen,VAR_5

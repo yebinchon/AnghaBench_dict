@@ -1,0 +1,14 @@
+arg_enabled,VAR_0
+arg_root_enabled,VAR_1
+arg_root_rw,VAR_2
+assert,FUNC_0
+log_warning_errno,FUNC_1
+parse_boolean,FUNC_2
+proc_cmdline_key_streq,FUNC_3
+proc_cmdline_value_missing,FUNC_4
+streq,FUNC_5
+parse_proc_cmdline_item,FUNC_6
+key,VAR_3
+value,VAR_4
+data,VAR_5
+r,VAR_6

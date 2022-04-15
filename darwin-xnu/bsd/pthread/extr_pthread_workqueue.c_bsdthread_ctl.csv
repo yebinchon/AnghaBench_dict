@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+ENOTSUP,VAR_1
+ENSURE_UNUSED,FUNC_0
+bsdthread_add_explicit_override,FUNC_1
+bsdthread_get_max_parallelism,FUNC_2
+bsdthread_remove_explicit_override,FUNC_3
+bsdthread_set_self,FUNC_4
+current_thread,FUNC_5
+workq_thread_add_dispatch_override,FUNC_6
+workq_thread_reset_dispatch_override,FUNC_7
+bsdthread_ctl,FUNC_8
+p,VAR_2
+uap,VAR_3
+retval,VAR_4

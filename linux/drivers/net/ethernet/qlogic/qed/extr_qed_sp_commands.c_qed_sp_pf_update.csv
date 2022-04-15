@@ -1,0 +1,14 @@
+COMMON_RAMROD_PF_UPDATE,VAR_0
+EINVAL,VAR_1
+PROTOCOLID_COMMON,VAR_2
+QED_SPQ_MODE_CB,VAR_3
+memset,FUNC_0
+qed_dcbx_set_pf_update_params,FUNC_1
+qed_sp_init_request,FUNC_2
+qed_spq_get_cid,FUNC_3
+qed_spq_post,FUNC_4
+qed_sp_pf_update,FUNC_5
+p_hwfn,VAR_4
+p_ent,VAR_5
+init_data,VAR_6
+rc,VAR_7

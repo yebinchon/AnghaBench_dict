@@ -1,0 +1,13 @@
+IB_CQ_REPORT_MISSED_EVENTS,VAR_0
+IB_CQ_SOLICITED_MASK,VAR_1
+SMC_WR_MAX_POLL_CQE,VAR_2
+ib_poll_cq,FUNC_0
+ib_req_notify_cq,FUNC_1
+memset,FUNC_2
+smc_wr_rx_process_cqes,FUNC_3
+smc_wr_rx_tasklet_fn,FUNC_4
+data,VAR_3
+dev,VAR_4
+wc,VAR_5
+polled,VAR_6
+rc,VAR_7

@@ -1,0 +1,17 @@
+asd_chip_hardrst,FUNC_0
+asd_destroy_ha_caches,FUNC_1
+asd_disable_ints,FUNC_2
+asd_free_queues,FUNC_3
+asd_remove_dev_attrs,FUNC_4
+asd_turn_off_leds,FUNC_5
+asd_unmap_ha,FUNC_6
+asd_unregister_sas_ha,FUNC_7
+free_irq,FUNC_8
+kfree,FUNC_9
+pci_disable_device,FUNC_10
+pci_disable_msi,FUNC_11
+pci_get_drvdata,FUNC_12
+use_msi,VAR_0
+asd_pci_remove,FUNC_13
+dev,VAR_1
+asd_ha,VAR_2

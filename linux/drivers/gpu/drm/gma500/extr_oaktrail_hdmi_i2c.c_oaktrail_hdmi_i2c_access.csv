@@ -1,0 +1,17 @@
+HDMI_ICRH,VAR_0
+HDMI_WRITE,FUNC_0
+I2C_M_RD,VAR_1
+hdmi_i2c_irq_disable,FUNC_1
+hdmi_i2c_irq_enable,FUNC_2
+i2c_get_adapdata,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+xfer_read,FUNC_6
+xfer_write,FUNC_7
+oaktrail_hdmi_i2c_access,FUNC_8
+adap,VAR_2
+pmsg,VAR_3
+num,VAR_4
+hdmi_dev,VAR_5
+i2c_dev,VAR_6
+i,VAR_7

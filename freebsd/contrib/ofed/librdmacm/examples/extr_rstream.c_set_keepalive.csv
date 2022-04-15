@@ -1,0 +1,13 @@
+IPPROTO_TCP,VAR_0
+SOL_SOCKET,VAR_1
+SO_KEEPALIVE,VAR_2
+TCP_KEEPIDLE,VAR_3
+keepalive,VAR_4
+perror,FUNC_0
+printf,FUNC_1
+rs_getsockopt,FUNC_2
+rs_setsockopt,FUNC_3
+set_keepalive,FUNC_4
+fd,VAR_5
+optval,VAR_6
+optlen,VAR_7

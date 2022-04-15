@@ -1,0 +1,11 @@
+GT641XX_IRQ_BASE,VAR_0
+GT_INTRCAUSE_OFS,VAR_1
+GT_INTRMASK_OFS,VAR_2
+GT_READ,FUNC_0
+atomic_inc,FUNC_1
+do_IRQ,FUNC_2
+irq_err_count,VAR_3
+gt641xx_irq_dispatch,FUNC_3
+cause,VAR_4
+mask,VAR_5
+i,VAR_6

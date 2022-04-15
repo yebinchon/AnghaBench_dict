@@ -1,0 +1,10 @@
+RT2870_READ_REGION_1,VAR_0
+USETW,FUNC_0
+UT_READ_VENDOR_DEVICE,VAR_1
+run_do_request,FUNC_1
+run_read_region_1,FUNC_2
+sc,VAR_2
+reg,VAR_3
+buf,VAR_4
+len,VAR_5
+req,VAR_6

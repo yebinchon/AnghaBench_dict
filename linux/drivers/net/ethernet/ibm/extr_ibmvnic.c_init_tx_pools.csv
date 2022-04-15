@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+IBMVNIC_TSO_BUFS,VAR_1
+IBMVNIC_TSO_BUF_SZ,VAR_2
+VLAN_HLEN,VAR_3
+be32_to_cpu,FUNC_0
+init_one_tx_pool,FUNC_1
+kcalloc,FUNC_2
+netdev_priv,FUNC_3
+release_tx_pools,FUNC_4
+init_tx_pools,FUNC_5
+netdev,VAR_4
+adapter,VAR_5
+tx_subcrqs,VAR_6
+i,VAR_7
+rc,VAR_8

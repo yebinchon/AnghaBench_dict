@@ -1,0 +1,17 @@
+CAM_REQUEUE_REQ,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_STATUS_MASK,VAR_2
+M_SIIS,VAR_3
+SIIS_MAX_SLOTS,VAR_4
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+free,FUNC_2
+xpt_done,FUNC_3
+xpt_free_ccb,FUNC_4
+siis_process_read_log,FUNC_5
+dev,VAR_5
+ccb,VAR_6
+ch,VAR_7
+data,VAR_8
+res,VAR_9
+i,VAR_10

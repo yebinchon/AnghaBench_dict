@@ -1,0 +1,16 @@
+azx_release_device,FUNC_0
+get_azx_dev,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+snd_hda_codec_pcm_put,FUNC_4
+snd_hda_power_down,FUNC_5
+snd_pcm_substream_chip,FUNC_6
+stub1,FUNC_7
+to_hda_pcm_stream,FUNC_8
+trace_azx_pcm_close,FUNC_9
+azx_pcm_close,FUNC_10
+substream,VAR_0
+apcm,VAR_1
+hinfo,VAR_2
+chip,VAR_3
+azx_dev,VAR_4

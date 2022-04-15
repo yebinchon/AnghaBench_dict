@@ -1,0 +1,17 @@
+EIO,VAR_0
+PCFCLOCK_CMD_TIME,VAR_1
+PCFCLOCK_CORRECT_FORMAT,FUNC_0
+PCFCLOCK_CORRECT_SYNC,FUNC_1
+PPB_COMPATIBLE,VAR_2
+device_get_parent,FUNC_2
+pcfclock_read_data,FUNC_3
+pcfclock_write_cmd,FUNC_4
+ppb_set_mode,FUNC_5
+pcfclock_read_dev,FUNC_6
+dev,VAR_3
+buf,VAR_4
+maxretries,VAR_5
+sc,VAR_6
+pcfclockdev,VAR_7
+ppbus,VAR_8
+error,VAR_9

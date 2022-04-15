@@ -1,0 +1,15 @@
+B_FALSE,VAR_0
+ZPOOL_CONFIG_ALLOCATION_BIAS,VAR_1
+ZPOOL_CONFIG_CHILDREN,VAR_2
+ZPOOL_CONFIG_IS_LOG,VAR_3
+nvlist_exists,FUNC_0
+nvlist_lookup_nvlist_array,FUNC_1
+nvlist_lookup_uint64,FUNC_2
+verify,FUNC_3
+num_normal_vdevs,FUNC_4
+nvroot,VAR_4
+top,VAR_5
+t,VAR_6
+toplevels,VAR_7
+normal,VAR_8
+log,VAR_9

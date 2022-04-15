@@ -1,0 +1,13 @@
+SMIAPP_MODE_SELECT_SOFTWARE_STANDBY,VAR_0
+SMIAPP_REG_U8_MODE_SELECT,VAR_1
+dev_err,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+post_streamoff,VAR_2
+smiapp_call_quirk,FUNC_3
+smiapp_write,FUNC_4
+v4l2_get_subdevdata,FUNC_5
+smiapp_stop_streaming,FUNC_6
+sensor,VAR_3
+client,VAR_4
+rval,VAR_5

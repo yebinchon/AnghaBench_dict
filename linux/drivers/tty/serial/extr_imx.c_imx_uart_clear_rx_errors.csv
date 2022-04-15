@@ -1,0 +1,17 @@
+TTY_BREAK,VAR_0
+USR1,VAR_1
+USR1_FRAMERR,VAR_2
+USR1_PARITYERR,VAR_3
+USR2,VAR_4
+USR2_BRCD,VAR_5
+USR2_ORE,VAR_6
+imx_uart_readl,FUNC_0
+imx_uart_writel,FUNC_1
+tty_flip_buffer_push,FUNC_2
+tty_insert_flip_char,FUNC_3
+uart_handle_break,FUNC_4
+imx_uart_clear_rx_errors,FUNC_5
+sport,VAR_7
+port,VAR_8
+usr1,VAR_9
+usr2,VAR_10

@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+FASTTRAP_PROCS_INDEX,FUNC_1
+KM_SLEEP,VAR_0
+atomic_add_64,FUNC_2
+fasttrap_lck_attr,VAR_1
+fasttrap_lck_grp,VAR_2
+fasttrap_procs,VAR_3
+kmem_free,FUNC_3
+kmem_zalloc,FUNC_4
+lck_mtx_init,FUNC_5
+lck_mtx_lock,FUNC_6
+lck_mtx_unlock,FUNC_7
+fasttrap_proc_lookup,FUNC_8
+pid,VAR_4
+bucket,VAR_5
+fprc,VAR_6
+new_fprc,VAR_7

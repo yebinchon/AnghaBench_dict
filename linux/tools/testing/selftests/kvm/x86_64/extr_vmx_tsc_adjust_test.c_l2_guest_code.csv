@@ -1,0 +1,8 @@
+MSR_IA32_TSC,VAR_0
+TSC_ADJUST_VALUE,VAR_1
+TSC_OFFSET_VALUE,VAR_2
+check_ia32_tsc_adjust,FUNC_0
+rdtsc,FUNC_1
+wrmsr,FUNC_2
+l2_guest_code,FUNC_3
+l1_tsc,VAR_3

@@ -1,0 +1,14 @@
+EP_MODE_SET,VAR_0
+GBULK_BIT_EN,VAR_1
+Vbi,VAR_2
+cx231xx_capture_start,FUNC_0
+cx231xx_mode_register,FUNC_1
+cx231xx_send_gpio_cmd,FUNC_2
+dev_dbg,FUNC_3
+verve_read_byte,FUNC_4
+verve_write_byte,FUNC_5
+initGPIO,FUNC_6
+dev,VAR_3
+_gpio_direction,VAR_4
+value,VAR_5
+val,VAR_6

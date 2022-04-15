@@ -1,0 +1,14 @@
+DISC_IFNAME,VAR_0
+DISC_IFUNIT,VAR_1
+PF_INET,VAR_2
+SIOCIFDESTROY,VAR_3
+SOCK_RAW,VAR_4
+bzero,FUNC_0
+close,FUNC_1
+ioctl,FUNC_2
+snprintf,FUNC_3
+socket,FUNC_4
+warn,FUNC_5
+disc_done,FUNC_6
+ifr,VAR_5
+s,VAR_6

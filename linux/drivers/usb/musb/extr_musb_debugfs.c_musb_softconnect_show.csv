@@ -1,0 +1,13 @@
+MUSB_DEVCTL,VAR_0
+MUSB_DEVCTL_SESSION,VAR_1
+musb_readb,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+seq_printf,FUNC_4
+musb_softconnect_show,FUNC_5
+s,VAR_2
+unused,VAR_3
+musb,VAR_4
+reg,VAR_5
+connect,VAR_6

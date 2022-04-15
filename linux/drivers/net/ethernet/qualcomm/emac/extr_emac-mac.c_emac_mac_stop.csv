@@ -1,0 +1,11 @@
+EMAC_MAC_CTRL,VAR_0
+EMAC_RXQ_CTRL_0,VAR_1
+EMAC_TXQ_CTRL_0,VAR_2
+RXEN,VAR_3
+RXQ_EN,VAR_4
+TXEN,VAR_5
+TXQ_EN,VAR_6
+emac_reg_update32,FUNC_0
+usleep_range,FUNC_1
+emac_mac_stop,FUNC_2
+adpt,VAR_7

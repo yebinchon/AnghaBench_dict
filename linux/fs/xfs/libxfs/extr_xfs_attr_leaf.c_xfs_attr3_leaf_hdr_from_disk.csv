@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+XFS_ATTR3_LEAF_MAGIC,VAR_0
+XFS_ATTR_LEAF_MAGIC,VAR_1
+XFS_ATTR_LEAF_MAPSIZE,VAR_2
+be16_to_cpu,FUNC_1
+be32_to_cpu,FUNC_2
+cpu_to_be16,FUNC_3
+xfs_attr3_leaf_firstused_from_disk,FUNC_4
+xfs_attr3_leaf_hdr_from_disk,FUNC_5
+geo,VAR_3
+to,VAR_4
+from,VAR_5
+i,VAR_6
+hdr3,VAR_7

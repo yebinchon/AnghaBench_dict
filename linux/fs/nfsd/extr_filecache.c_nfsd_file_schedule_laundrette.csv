@@ -1,0 +1,17 @@
+NFSD_FILE_LAUNDRETTE_NOFLUSH,VAR_0
+NFSD_FILE_LRU_LIMIT,VAR_1
+NFSD_FILE_LRU_THRESHOLD,VAR_2
+NFSD_FILE_SHUTDOWN,VAR_3
+NFSD_LAUNDRETTE_DELAY,VAR_4
+atomic_long_read,FUNC_0
+flush_delayed_work,FUNC_1
+mod_delayed_work,FUNC_2
+nfsd_file_lru_flags,VAR_5
+nfsd_filecache_count,VAR_6
+nfsd_filecache_laundrette,VAR_7
+schedule_delayed_work,FUNC_3
+system_wq,VAR_8
+test_bit,FUNC_4
+nfsd_file_schedule_laundrette,FUNC_5
+ctl,VAR_9
+count,VAR_10

@@ -1,0 +1,10 @@
+SND_US16X08_URB_METER_REQUEST,VAR_0
+SND_US16X08_URB_METER_REQUESTTYPE,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+snd_usb_ctl_msg,FUNC_2
+usb_rcvctrlpipe,FUNC_3
+snd_us16x08_recv_urb,FUNC_4
+chip,VAR_2
+buf,VAR_3
+size,VAR_4

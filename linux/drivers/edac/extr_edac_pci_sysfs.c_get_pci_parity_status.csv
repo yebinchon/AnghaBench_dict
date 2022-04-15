@@ -1,0 +1,14 @@
+PCI_SEC_STATUS,VAR_0
+PCI_STATUS,VAR_1
+PCI_STATUS_DETECTED_PARITY,VAR_2
+PCI_STATUS_PARITY,VAR_3
+PCI_STATUS_SIG_SYSTEM_ERROR,VAR_4
+pci_read_config_dword,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+get_pci_parity_status,FUNC_3
+dev,VAR_5
+secondary,VAR_6
+where,VAR_7
+status,VAR_8
+sanity,VAR_9

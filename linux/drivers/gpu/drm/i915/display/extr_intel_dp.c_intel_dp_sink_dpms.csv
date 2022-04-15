@@ -1,0 +1,17 @@
+DP_DPCD_REV,VAR_0
+DP_SET_POWER,VAR_1
+DP_SET_POWER_D0,VAR_2
+DP_SET_POWER_D3,VAR_3
+DRM_DEBUG_KMS,FUNC_0
+DRM_MODE_DPMS_ON,VAR_4
+downstream_hpd_needs_d0,FUNC_1
+dp_to_lspcon,FUNC_2
+drm_dp_dpcd_writeb,FUNC_3
+lspcon_wait_pcon_mode,FUNC_4
+msleep,FUNC_5
+intel_dp_sink_dpms,FUNC_6
+intel_dp,VAR_5
+mode,VAR_6
+ret,VAR_7
+i,VAR_8
+lspcon,VAR_9

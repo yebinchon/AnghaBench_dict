@@ -1,0 +1,17 @@
+CMD_SUBSYSTEM_COMMON,VAR_0
+EBUSY,VAR_1
+OPCODE_COMMON_GET_BEACON_STATE,VAR_2
+be_mcc_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+embedded_payload,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+wrb_from_mccq,FUNC_5
+be_cmd_get_beacon_state,FUNC_6
+adapter,VAR_3
+port_num,VAR_4
+state,VAR_5
+wrb,VAR_6
+req,VAR_7
+status,VAR_8
+resp,VAR_9

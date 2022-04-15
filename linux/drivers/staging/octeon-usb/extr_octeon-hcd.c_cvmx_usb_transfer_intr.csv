@@ -1,0 +1,11 @@
+CVMX_USB_STAGE_NON_CONTROL,VAR_0
+CVMX_USB_STAGE_NON_CONTROL_SPLIT_COMPLETE,VAR_1
+CVMX_USB_STATUS_OK,VAR_2
+cvmx_usb_complete,FUNC_0
+cvmx_usb_pipe_needs_split,FUNC_1
+cvmx_usb_transfer_intr,FUNC_2
+usb,VAR_3
+pipe,VAR_4
+transaction,VAR_5
+buffer_space_left,VAR_6
+bytes_in_last_packet,VAR_7

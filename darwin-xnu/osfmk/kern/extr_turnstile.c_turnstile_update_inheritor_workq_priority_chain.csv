@@ -1,0 +1,13 @@
+MAXPRI_THROTTLE,VAR_0
+__improbable,FUNC_0
+splx,FUNC_1
+waitq_unlock,FUNC_2
+workq_deallocate_safe,FUNC_3
+workq_is_current_thread_updating_turnstile,FUNC_4
+workq_reference,FUNC_5
+workq_schedule_creator_turnstile_redrive,FUNC_6
+turnstile_update_inheritor_workq_priority_chain,FUNC_7
+turnstile,VAR_1
+s,VAR_2
+wq,VAR_3
+workq_lock_held,VAR_4

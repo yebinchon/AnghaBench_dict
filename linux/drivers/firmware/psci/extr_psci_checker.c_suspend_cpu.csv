@@ -1,0 +1,14 @@
+CPUIDLE_FLAG_TIMER_STOP,VAR_0
+arch_cpu_idle_enter,FUNC_0
+arch_cpu_idle_exit,FUNC_1
+cpu_do_idle,FUNC_2
+stub1,FUNC_3
+tick_broadcast_enter,FUNC_4
+tick_broadcast_exit,FUNC_5
+suspend_cpu,FUNC_6
+dev,VAR_1
+drv,VAR_2
+index,VAR_3
+state,VAR_4
+broadcast,VAR_5
+ret,VAR_6

@@ -1,0 +1,8 @@
+PCH_GBE_ALL_RST,VAR_0
+PCH_GBE_MODE_GMII_ETHER,VAR_1
+iowrite32,FUNC_0
+pch_gbe_mac_mar_set,FUNC_1
+pch_gbe_mac_read_mac_addr,FUNC_2
+pch_gbe_wait_clr_bit,FUNC_3
+pch_gbe_mac_reset_hw,FUNC_4
+hw,VAR_2

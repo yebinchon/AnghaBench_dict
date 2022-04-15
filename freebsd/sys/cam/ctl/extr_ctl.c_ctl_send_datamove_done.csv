@@ -1,0 +1,16 @@
+CTL_FLAG_FAILOVER,VAR_0
+CTL_FLAG_IO_ACTIVE,VAR_1
+CTL_HA_CHAN_CTL,VAR_2
+CTL_MSG_DATAMOVE_DONE,VAR_3
+M_WAITOK,VAR_4
+bintime_add,FUNC_0
+bintime_sub,FUNC_1
+ctl_failover_io,FUNC_2
+ctl_ha_msg_send,FUNC_3
+getbinuptime,FUNC_4
+memcpy,FUNC_5
+memset,FUNC_6
+ctl_send_datamove_done,FUNC_7
+io,VAR_5
+have_lock,VAR_6
+msg,VAR_7

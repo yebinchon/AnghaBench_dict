@@ -1,0 +1,16 @@
+clear_unsol_on_unused_pins,FUNC_0
+hda_call_check_power_status,FUNC_1
+init_analog_input,FUNC_2
+init_digital,FUNC_3
+init_extra_out,FUNC_4
+init_input_src,FUNC_5
+init_multi_io,FUNC_6
+init_multi_out,FUNC_7
+snd_hda_apply_verbs,FUNC_8
+snd_hda_codec_flush_cache,FUNC_9
+snd_hda_sync_vmaster_hook,FUNC_10
+stub1,FUNC_11
+update_automute_all,FUNC_12
+snd_hda_gen_init,FUNC_13
+codec,VAR_0
+spec,VAR_1

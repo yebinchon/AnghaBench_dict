@@ -1,0 +1,12 @@
+ARM_SMMU_FEAT_COHERENT_WALK,VAR_0
+ARM_SMMU_GR0_TLBIVMID,VAR_1
+arm_smmu_gr0_write,FUNC_0
+wmb,FUNC_1
+arm_smmu_tlb_inv_vmid_nosync,FUNC_2
+iova,VAR_2
+size,VAR_3
+granule,VAR_4
+leaf,VAR_5
+cookie,VAR_6
+smmu_domain,VAR_7
+smmu,VAR_8

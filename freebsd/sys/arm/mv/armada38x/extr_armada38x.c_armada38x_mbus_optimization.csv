@@ -1,0 +1,11 @@
+BUS_SPACE_BARRIER_WRITE,VAR_0
+MV_MBUS_CTRL_BASE,VAR_1
+MV_MBUS_CTRL_REGS_LEN,VAR_2
+bus_space_barrier,FUNC_0
+bus_space_map,FUNC_1
+bus_space_unmap,FUNC_2
+bus_space_write_4,FUNC_3
+fdtbus_bs_tag,VAR_3
+armada38x_mbus_optimization,FUNC_4
+vaddr_iowind,VAR_4
+rv,VAR_5

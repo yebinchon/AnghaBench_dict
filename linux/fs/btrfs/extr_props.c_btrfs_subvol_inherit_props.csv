@@ -1,0 +1,16 @@
+BTRFS_FIRST_FREE_OBJECTID,VAR_0
+BTRFS_INODE_ITEM_KEY,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+btrfs_iget,FUNC_2
+inherit_props,FUNC_3
+iput,FUNC_4
+btrfs_subvol_inherit_props,FUNC_5
+trans,VAR_2
+root,VAR_3
+parent_root,VAR_4
+sb,VAR_5
+key,VAR_6
+parent_inode,VAR_7
+child_inode,VAR_8
+ret,VAR_9

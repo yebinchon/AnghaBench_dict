@@ -1,0 +1,16 @@
+NFSD_MAY_WRITE,VAR_0
+nfsd_file_acquire,FUNC_0
+nfsd_file_put,FUNC_1
+nfsd_vfs_write,FUNC_2
+trace_nfsd_write_done,FUNC_3
+trace_nfsd_write_start,FUNC_4
+nfsd_write,FUNC_5
+rqstp,VAR_1
+fhp,VAR_2
+offset,VAR_3
+vec,VAR_4
+vlen,VAR_5
+cnt,VAR_6
+stable,VAR_7
+nf,VAR_8
+err,VAR_9

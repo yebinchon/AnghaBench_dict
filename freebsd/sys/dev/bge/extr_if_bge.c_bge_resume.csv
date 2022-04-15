@@ -1,0 +1,13 @@
+BGE_LOCK,FUNC_0
+BGE_UNLOCK,FUNC_1
+IFF_DRV_RUNNING,VAR_0
+IFF_UP,VAR_1
+bge_init_locked,FUNC_2
+bge_start_locked,FUNC_3
+device_get_softc,FUNC_4
+if_getdrvflags,FUNC_5
+if_getflags,FUNC_6
+bge_resume,FUNC_7
+dev,VAR_2
+sc,VAR_3
+ifp,VAR_4

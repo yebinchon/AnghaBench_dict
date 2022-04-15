@@ -1,0 +1,11 @@
+bpf_get_current_cgroup_id,FUNC_0
+bpf_get_current_pid_tgid,FUNC_1
+bpf_map_lookup_elem,FUNC_2
+cg_ids,VAR_0
+pidmap,VAR_1
+trace,FUNC_3
+ctx,VAR_2
+pid,VAR_3
+key,VAR_4
+expected_pid,VAR_5
+val,VAR_6

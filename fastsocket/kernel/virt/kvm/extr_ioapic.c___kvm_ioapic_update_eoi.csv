@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+IOAPIC_LEVEL_TRIG,VAR_0
+IOAPIC_NUM_PINS,VAR_1
+KVM_IRQCHIP_IOAPIC,VAR_2
+ioapic_service,FUNC_1
+kvm_notify_acked_irq,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+__kvm_ioapic_update_eoi,FUNC_5
+ioapic,VAR_3
+vector,VAR_4
+trigger_mode,VAR_5
+i,VAR_6
+ent,VAR_7

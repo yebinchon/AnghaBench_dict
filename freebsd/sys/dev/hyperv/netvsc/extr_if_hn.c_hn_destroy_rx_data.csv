@@ -1,0 +1,11 @@
+HN_FLAG_RXBUF_REF,VAR_0
+HN_RX_FLAG_BR_REF,VAR_1
+M_DEVBUF,VAR_2
+device_printf,FUNC_0
+free,FUNC_1
+hyperv_dmamem_free,FUNC_2
+tcp_lro_free,FUNC_3
+hn_destroy_rx_data,FUNC_4
+sc,VAR_3
+i,VAR_4
+rxr,VAR_5

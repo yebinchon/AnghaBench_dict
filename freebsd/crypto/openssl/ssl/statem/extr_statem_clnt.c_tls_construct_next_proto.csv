@@ -1,0 +1,13 @@
+ERR_R_INTERNAL_ERROR,VAR_0
+SSL_AD_INTERNAL_ERROR,VAR_1
+SSL_F_TLS_CONSTRUCT_NEXT_PROTO,VAR_2
+SSLfatal,FUNC_0
+WPACKET_sub_allocate_bytes_u8,FUNC_1
+WPACKET_sub_memcpy_u8,FUNC_2
+memset,FUNC_3
+tls_construct_next_proto,FUNC_4
+s,VAR_3
+pkt,VAR_4
+len,VAR_5
+padding_len,VAR_6
+padding,VAR_7

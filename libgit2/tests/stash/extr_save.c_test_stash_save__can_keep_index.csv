@@ -1,0 +1,12 @@
+GIT_STASH_KEEP_INDEX,VAR_0
+GIT_STATUS_CURRENT,VAR_1
+GIT_STATUS_IGNORED,VAR_2
+GIT_STATUS_INDEX_MODIFIED,VAR_3
+GIT_STATUS_WT_NEW,VAR_4
+assert_status,FUNC_0
+cl_git_pass,FUNC_1
+git_stash_save,FUNC_2
+repo,VAR_5
+signature,VAR_6
+stash_tip_oid,VAR_7
+test_stash_save__can_keep_index,FUNC_3

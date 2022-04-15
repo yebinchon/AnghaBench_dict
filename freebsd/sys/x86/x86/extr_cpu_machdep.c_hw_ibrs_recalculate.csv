@@ -1,0 +1,12 @@
+CPUID_STDEXT3_IBPB,VAR_0
+IA32_ARCH_CAP_IBRS_ALL,VAR_1
+IA32_SPEC_CTRL_IBRS,VAR_2
+MSR_IA32_SPEC_CTRL,VAR_3
+cpu_ia32_arch_caps,VAR_4
+cpu_stdext_feature3,VAR_5
+hw_ibrs_active,VAR_6
+hw_ibrs_disable,VAR_7
+rdmsr,FUNC_0
+wrmsr,FUNC_1
+hw_ibrs_recalculate,FUNC_2
+v,VAR_8

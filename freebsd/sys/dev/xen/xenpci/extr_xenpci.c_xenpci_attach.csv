@@ -1,0 +1,9 @@
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+xenpci_allocate_resources,FUNC_2
+xenpci_deallocate_resources,FUNC_3
+xenpci_irq_init,FUNC_4
+xenpci_attach,FUNC_5
+dev,VAR_0
+scp,VAR_1
+error,VAR_2

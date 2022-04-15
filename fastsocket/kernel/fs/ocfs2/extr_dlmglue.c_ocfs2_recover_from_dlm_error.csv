@@ -1,0 +1,13 @@
+OCFS2_AST_INVALID,VAR_0
+OCFS2_LOCK_BUSY,VAR_1
+OCFS2_UNLOCK_INVALID,VAR_2
+lockres_clear_flags,FUNC_0
+mlog_entry_void,FUNC_1
+mlog_exit_void,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+wake_up,FUNC_5
+ocfs2_recover_from_dlm_error,FUNC_6
+lockres,VAR_3
+convert,VAR_4
+flags,VAR_5

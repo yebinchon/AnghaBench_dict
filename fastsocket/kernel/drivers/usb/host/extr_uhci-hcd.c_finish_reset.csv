@@ -1,0 +1,10 @@
+HCD_FLAG_POLL_RH,VAR_0
+UHCI_IS_STOPPED,VAR_1
+UHCI_RH_RESET,VAR_2
+USBPORTSC1,VAR_3
+clear_bit,FUNC_0
+outw,FUNC_1
+uhci_to_hcd,FUNC_2
+finish_reset,FUNC_3
+uhci,VAR_4
+port,VAR_5

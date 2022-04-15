@@ -1,0 +1,11 @@
+AE5_HEADPHONE_GAIN_ENUM,VAR_0
+HDA_CODEC_MUTE_MONO,FUNC_0
+HDA_OUTPUT,VAR_1
+ae5_headphone_gain_get,VAR_2
+ae5_headphone_gain_info,VAR_3
+ae5_headphone_gain_put,VAR_4
+snd_ctl_new1,FUNC_1
+snd_hda_ctl_add,FUNC_2
+ae5_add_headphone_gain_enum,FUNC_3
+codec,VAR_5
+knew,VAR_6

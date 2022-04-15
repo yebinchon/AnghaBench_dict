@@ -1,0 +1,11 @@
+CONFLICTING_THEIRS_FILE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+GIT_CHECKOUT_USE_THEIRS,VAR_2
+cl_git_pass,FUNC_0
+create_conflicting_index,FUNC_1
+ensure_workdir_contents,FUNC_2
+g_index,VAR_3
+g_repo,VAR_4
+git_checkout_index,FUNC_3
+test_checkout_conflict__theirs,FUNC_4
+opts,VAR_5

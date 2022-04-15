@@ -1,0 +1,15 @@
+AS3722_RTC_ALARM_SECOND_REG,VAR_0
+AS3722_RTC_START_YEAR,VAR_1
+EINVAL,VAR_2
+as3722_block_write,FUNC_0
+as3722_rtc_alarm_irq_enable,FUNC_1
+as3722_time_to_reg,FUNC_2
+dev_err,FUNC_3
+dev_get_drvdata,FUNC_4
+as3722_rtc_set_alarm,FUNC_5
+dev,VAR_3
+alrm,VAR_4
+as3722_rtc,VAR_5
+as3722,VAR_6
+as_time_array,VAR_7
+ret,VAR_8

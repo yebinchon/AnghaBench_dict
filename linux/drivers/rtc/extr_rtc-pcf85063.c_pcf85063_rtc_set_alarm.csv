@@ -1,0 +1,15 @@
+PCF85063_AEN,VAR_0
+PCF85063_CTRL2_AF,VAR_1
+PCF85063_CTRL2_AIE,VAR_2
+PCF85063_REG_ALM_S,VAR_3
+PCF85063_REG_CTRL2,VAR_4
+bin2bcd,FUNC_0
+dev_get_drvdata,FUNC_1
+regmap_bulk_write,FUNC_2
+regmap_update_bits,FUNC_3
+pcf85063_rtc_set_alarm,FUNC_4
+dev,VAR_5
+alrm,VAR_6
+pcf85063,VAR_7
+buf,VAR_8
+ret,VAR_9

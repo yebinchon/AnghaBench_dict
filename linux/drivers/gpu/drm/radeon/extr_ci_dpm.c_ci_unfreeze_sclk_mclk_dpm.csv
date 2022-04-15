@@ -1,0 +1,13 @@
+DPMTABLE_OD_UPDATE_MCLK,VAR_0
+DPMTABLE_OD_UPDATE_SCLK,VAR_1
+DPMTABLE_UPDATE_SCLK,VAR_2
+EINVAL,VAR_3
+PPSMC_MSG_MCLKDPM_UnfreezeLevel,VAR_4
+PPSMC_MSG_SCLKDPM_UnfreezeLevel,VAR_5
+PPSMC_Result_OK,VAR_6
+ci_get_pi,FUNC_0
+ci_send_msg_to_smc,FUNC_1
+ci_unfreeze_sclk_mclk_dpm,FUNC_2
+rdev,VAR_7
+pi,VAR_8
+smc_result,VAR_9

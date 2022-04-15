@@ -1,0 +1,9 @@
+OMAP_RTC_KICK0_REG,VAR_0
+OMAP_RTC_KICK1_REG,VAR_1
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+omap_hwmod_write,FUNC_2
+omap_rtc_wait_not_busy,FUNC_3
+omap_hwmod_rtc_lock,FUNC_4
+oh,VAR_2
+flags,VAR_3

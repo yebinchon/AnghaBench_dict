@@ -1,0 +1,15 @@
+EXIT_RECOVERY,FUNC_0
+IN_RECOVERY,FUNC_1
+RACK_HAS_FIN,VAR_0
+RACK_TLP,VAR_1
+RACK_WAS_SACKPASS,VAR_2
+counter_u64_add,FUNC_2
+rack_badfr,VAR_3
+rack_badfr_bytes,VAR_4
+rack_reorder_seen,VAR_5
+rack_earlier_retran,FUNC_3
+tp,VAR_6
+rsm,VAR_7
+t,VAR_8
+cts,VAR_9
+rack,VAR_10

@@ -1,0 +1,14 @@
+CVMX_USB_DIRECTION_IN,VAR_0
+CVMX_USB_DIRECTION_OUT,VAR_1
+DPRINTFN,FUNC_0
+UE_ADDR,VAR_2
+UE_DIR_IN,VAR_3
+USB_SPEED_HIGH,VAR_4
+cvmx_usb_open_pipe,FUNC_1
+cvmx_usb_set_toggle,FUNC_2
+octusb_convert_ep_type,FUNC_3
+octusb_convert_speed,FUNC_4
+octusb_host_alloc_endpoint,FUNC_5
+td,VAR_5
+sc,VAR_6
+ep_handle,VAR_7

@@ -1,0 +1,15 @@
+NV_MCP_SATA_CFG_20,VAR_0
+NV_MCP_SATA_CFG_20_PORT0_EN,VAR_1
+NV_MCP_SATA_CFG_20_PORT0_PWB_EN,VAR_2
+NV_MCP_SATA_CFG_20_PORT1_EN,VAR_3
+NV_MCP_SATA_CFG_20_PORT1_PWB_EN,VAR_4
+VPRINTK,FUNC_0
+nv_adma_setup_port,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+to_pci_dev,FUNC_4
+nv_adma_host_init,FUNC_5
+host,VAR_5
+pdev,VAR_6
+i,VAR_7
+tmp32,VAR_8

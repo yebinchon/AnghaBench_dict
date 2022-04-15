@@ -1,0 +1,11 @@
+EVP_PKEY_CTX_free,FUNC_0
+EVP_PKEY_CTX_new_id,FUNC_1
+EVP_PKEY_CTX_set_rsa_keygen_bits,FUNC_2
+EVP_PKEY_RSA,VAR_0
+EVP_PKEY_keygen,FUNC_3
+EVP_PKEY_keygen_init,FUNC_4
+TEST_int_gt,FUNC_5
+TEST_ptr,FUNC_6
+gen_rsa,FUNC_7
+ctx,VAR_1
+pkey,VAR_2

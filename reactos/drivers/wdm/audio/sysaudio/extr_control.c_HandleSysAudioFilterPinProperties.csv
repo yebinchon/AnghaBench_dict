@@ -1,0 +1,16 @@
+GetListEntry,FUNC_0
+IOCTL_KS_PROPERTY,VAR_0
+IoGetCurrentIrpStackLocation,FUNC_1
+KernelMode,VAR_1
+KsSynchronousIoControlDevice,FUNC_2
+STATUS_BUFFER_TOO_SMALL,VAR_2
+STATUS_INVALID_PARAMETER,VAR_3
+SetIrpIoStatus,FUNC_3
+HandleSysAudioFilterPinProperties,FUNC_4
+Irp,VAR_4
+Property,VAR_5
+DeviceExtension,VAR_6
+IoStack,VAR_7
+Status,VAR_8
+Entry,VAR_9
+BytesReturned,VAR_10

@@ -1,0 +1,16 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+atomic_thread_fence_rel,FUNC_0
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+m_freem,FUNC_3
+mlx5_cqwq_pop,FUNC_4
+mlx5_cqwq_update_db_record,FUNC_5
+mlx5e_get_cqe,FUNC_6
+mlx5e_poll_tx_cq,FUNC_7
+sq,VAR_1
+budget,VAR_2
+sqcc,VAR_3
+cqe,VAR_4
+mb,VAR_5
+x,VAR_6
+ci,VAR_7

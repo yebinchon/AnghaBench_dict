@@ -1,0 +1,15 @@
+LPC_LPT_LSB_OFF,VAR_0
+LPC_LPT_MSB_OFF,VAR_1
+LPC_LPT_START_OFF,VAR_2
+dev_get_drvdata,FUNC_0
+rtc_tm_to_time64,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel_relaxed,FUNC_4
+st_rtc_set_time,FUNC_5
+dev,VAR_3
+tm,VAR_4
+rtc,VAR_5
+lpt,VAR_6
+secs,VAR_7
+flags,VAR_8

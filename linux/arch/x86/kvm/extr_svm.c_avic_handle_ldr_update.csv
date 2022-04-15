@@ -1,0 +1,12 @@
+APIC_LDR,VAR_0
+avic_invalidate_logical_id_entry,FUNC_0
+avic_ldr_write,FUNC_1
+kvm_lapic_get_reg,FUNC_2
+kvm_xapic_id,FUNC_3
+to_svm,FUNC_4
+avic_handle_ldr_update,FUNC_5
+vcpu,VAR_1
+ret,VAR_2
+svm,VAR_3
+ldr,VAR_4
+id,VAR_5

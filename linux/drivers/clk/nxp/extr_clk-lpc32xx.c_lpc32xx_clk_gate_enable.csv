@@ -1,0 +1,10 @@
+BIT,FUNC_0
+CLK_GATE_SET_TO_DISABLE,VAR_0
+clk_regmap,VAR_1
+regmap_update_bits,FUNC_1
+to_lpc32xx_gate,FUNC_2
+lpc32xx_clk_gate_enable,FUNC_3
+hw,VAR_2
+clk,VAR_3
+mask,VAR_4
+val,VAR_5

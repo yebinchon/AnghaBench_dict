@@ -1,0 +1,14 @@
+CDXA_PS,VAR_0
+PS_STREAM_ID_END_STREAM,VAR_1
+PS_STREAM_ID_PACK_HEADER,VAR_2
+memcmp,FUNC_0
+vlc_stream_Peek,FUNC_1
+vlc_stream_Read,FUNC_2
+ps_pkt_resynch,FUNC_3
+s,VAR_3
+format,VAR_4
+b_pack,VAR_5
+p_peek,VAR_6
+i_peek,VAR_7
+i_skip,VAR_8
+cdxasynccode,VAR_9

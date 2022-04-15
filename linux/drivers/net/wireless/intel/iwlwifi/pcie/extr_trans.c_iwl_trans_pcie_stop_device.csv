@@ -1,0 +1,11 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+STATUS_RFKILL_OPMODE,VAR_0
+_iwl_trans_pcie_stop_device,FUNC_1
+iwl_trans_pcie_handle_stop_rfkill,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+test_bit,FUNC_5
+iwl_trans_pcie_stop_device,FUNC_6
+trans,VAR_1
+trans_pcie,VAR_2
+was_in_rfkill,VAR_3

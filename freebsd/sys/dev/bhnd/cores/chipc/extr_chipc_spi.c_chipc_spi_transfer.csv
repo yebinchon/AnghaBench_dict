@@ -1,0 +1,17 @@
+BHND_DEBUG_DEV,FUNC_0
+CHIPC_SPI_FLASHADDR,VAR_0
+CHIPC_SPI_FLASHCTL,VAR_1
+EIO,VAR_2
+KASSERT,FUNC_1
+SPI_BARRIER_WRITE,FUNC_2
+SPI_WRITE,FUNC_3
+chipc_spi_txrx,FUNC_4
+device_get_softc,FUNC_5
+chipc_spi_transfer,FUNC_6
+dev,VAR_3
+child,VAR_4
+cmd,VAR_5
+sc,VAR_6
+buf_in,VAR_7
+buf_out,VAR_8
+i,VAR_9

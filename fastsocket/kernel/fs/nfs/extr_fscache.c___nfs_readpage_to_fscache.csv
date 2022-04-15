@@ -1,0 +1,15 @@
+FSCACHE,VAR_0
+GFP_KERNEL,VAR_1
+NFSIOS_FSCACHE_PAGES_UNCACHED,VAR_2
+NFSIOS_FSCACHE_PAGES_WRITTEN_FAIL,VAR_3
+NFSIOS_FSCACHE_PAGES_WRITTEN_OK,VAR_4
+NFS_I,FUNC_0
+dfprintk,FUNC_1
+fscache_uncache_page,FUNC_2
+fscache_write_page,FUNC_3
+nfs_add_fscache_stats,FUNC_4
+__nfs_readpage_to_fscache,FUNC_5
+inode,VAR_5
+page,VAR_6
+sync,VAR_7
+ret,VAR_8

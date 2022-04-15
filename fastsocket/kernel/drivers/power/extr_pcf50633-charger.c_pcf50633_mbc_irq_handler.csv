@@ -1,0 +1,17 @@
+PCF50633_IRQ_ADPINS,VAR_0
+PCF50633_IRQ_ADPREM,VAR_1
+PCF50633_IRQ_BATFULL,VAR_2
+PCF50633_IRQ_USBINS,VAR_3
+PCF50633_IRQ_USBLIMOFF,VAR_4
+PCF50633_IRQ_USBLIMON,VAR_5
+PCF50633_IRQ_USBREM,VAR_6
+cancel_delayed_work_sync,FUNC_0
+pcf50633_mbc_usb_curlim_set,FUNC_1
+power_supply_changed,FUNC_2
+schedule_delayed_work,FUNC_3
+stub1,FUNC_4
+pcf50633_mbc_irq_handler,FUNC_5
+irq,VAR_7
+data,VAR_8
+mbc,VAR_9
+chg_restart_interval,VAR_10

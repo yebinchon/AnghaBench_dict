@@ -1,0 +1,14 @@
+RT3883_PCI_REG_CFGADDR,VAR_0
+RT3883_PCI_REG_CFGDATA,VAR_1
+rt3883_pci_get_cfgaddr,FUNC_0
+rt3883_pci_r32,FUNC_1
+rt3883_pci_w32,FUNC_2
+rt3883_pci_read_cfg32,FUNC_3
+rpc,VAR_2
+bus,VAR_3
+slot,VAR_4
+func,VAR_5
+reg,VAR_6
+flags,VAR_7
+address,VAR_8
+ret,VAR_9

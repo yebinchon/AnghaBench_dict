@@ -1,0 +1,12 @@
+SATI_FAILURE_CHECK_RESPONSE_DATA,VAR_0
+SATI_SEQUENCE_READ_10,VAR_1
+sati_cb_get_cdb_address,FUNC_0
+sati_device_state_stopped,FUNC_1
+sati_get_cdb_byte,FUNC_2
+sati_read_32_bit_lba_translate_command,FUNC_3
+sati_read_10_translate_command,FUNC_4
+sequence,VAR_2
+scsi_io,VAR_3
+ata_io,VAR_4
+cdb,VAR_5
+sector_count,VAR_6

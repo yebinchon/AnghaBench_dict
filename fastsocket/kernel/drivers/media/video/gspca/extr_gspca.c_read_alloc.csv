@@ -1,0 +1,15 @@
+D_STREAM,VAR_0
+GSPCA_MEMORY_READ,VAR_1
+PDEBUG,FUNC_0
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_2
+memset,FUNC_1
+vidioc_qbuf,FUNC_2
+vidioc_reqbufs,FUNC_3
+vidioc_streamon,FUNC_4
+read_alloc,FUNC_5
+gspca_dev,VAR_3
+file,VAR_4
+v4l2_buf,VAR_5
+i,VAR_6
+ret,VAR_7
+rb,VAR_8

@@ -1,0 +1,16 @@
+BIT,FUNC_0
+DIV_ROUND_UP,FUNC_1
+GPC_CNTR,VAR_0
+GPC_PGC_CTRL_OFFS,VAR_1
+GPC_PGC_PDNSCR_OFFS,VAR_2
+regmap_read,FUNC_2
+regmap_update_bits,FUNC_3
+regulator_disable,FUNC_4
+to_imx_pm_domain,FUNC_5
+udelay,FUNC_6
+imx6_pm_domain_power_off,FUNC_7
+genpd,VAR_3
+pd,VAR_4
+iso,VAR_5
+iso2sw,VAR_6
+val,VAR_7

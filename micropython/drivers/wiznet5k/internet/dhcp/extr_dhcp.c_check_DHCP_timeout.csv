@@ -1,0 +1,14 @@
+DHCP_FAILED,VAR_0
+DHCP_RUNNING,VAR_1
+DHCP_WAIT_TIME,VAR_2
+MAX_DHCP_RETRY,VAR_3
+STATE_DHCP_INIT,VAR_4
+dhcp_retry_count,VAR_5
+dhcp_state,VAR_6
+dhcp_tick_1s,VAR_7
+dhcp_tick_next,VAR_8
+reset_DHCP_timeout,FUNC_0
+send_DHCP_DISCOVER,FUNC_1
+send_DHCP_REQUEST,FUNC_2
+check_DHCP_timeout,FUNC_3
+ret,VAR_9

@@ -1,0 +1,12 @@
+BGWH_POSTMASTER_DIED,VAR_0
+ERRCODE_ADMIN_SHUTDOWN,VAR_1
+FATAL,VAR_2
+WaitForBackgroundWorkerShutdown,FUNC_0
+ereport,FUNC_1
+errcode,FUNC_2
+errmsg,FUNC_3
+pfree,FUNC_4
+WaitForParallelWorkersToExit,FUNC_5
+pcxt,VAR_3
+i,VAR_4
+status,VAR_5

@@ -1,0 +1,11 @@
+MV_GPIO_LOCK,FUNC_0
+MV_GPIO_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+mv_gpio_out_en,FUNC_3
+mv_gpio_value_set,FUNC_4
+mv_gpio_out,FUNC_5
+dev,VAR_0
+pin,VAR_1
+val,VAR_2
+enable,VAR_3
+sc,VAR_4

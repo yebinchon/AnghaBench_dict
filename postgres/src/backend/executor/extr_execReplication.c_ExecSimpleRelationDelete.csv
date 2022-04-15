@@ -1,0 +1,13 @@
+CMD_DELETE,VAR_0
+CheckCmdReplicaIdentity,FUNC_0
+ExecARDeleteTriggers,FUNC_1
+ExecBRDeleteTriggers,FUNC_2
+simple_table_tuple_delete,FUNC_3
+ExecSimpleRelationDelete,FUNC_4
+estate,VAR_1
+epqstate,VAR_2
+searchslot,VAR_3
+skip_tuple,VAR_4
+resultRelInfo,VAR_5
+rel,VAR_6
+tid,VAR_7

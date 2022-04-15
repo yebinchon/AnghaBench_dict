@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+QUERY_ATTR_IDN_DYN_CAP_NEEDED,VAR_1
+UPIU_QUERY_OPCODE_READ_ATTR,VAR_2
+shost_priv,FUNC_0
+sprintf,FUNC_1
+to_scsi_device,FUNC_2
+ufshcd_query_attr,FUNC_3
+ufshcd_scsi_to_upiu_lun,FUNC_4
+dyn_cap_needed_attribute_show,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+value,VAR_6
+sdev,VAR_7
+hba,VAR_8
+lun,VAR_9

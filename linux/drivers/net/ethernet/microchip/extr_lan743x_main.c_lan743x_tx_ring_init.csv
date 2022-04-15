@@ -1,0 +1,16 @@
+ALIGN,FUNC_0
+EINVAL,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+LAN743X_TX_RING_SIZE,VAR_3
+PAGE_SIZE,VAR_4
+TX_CFG_B_TX_RING_LEN_MASK_,VAR_5
+kcalloc,FUNC_1
+lan743x_tx_ring_cleanup,FUNC_2
+pci_zalloc_consistent,FUNC_3
+lan743x_tx_ring_init,FUNC_4
+tx,VAR_6
+ring_allocation_size,VAR_7
+cpu_ptr,VAR_8
+dma_ptr,VAR_9
+ret,VAR_10

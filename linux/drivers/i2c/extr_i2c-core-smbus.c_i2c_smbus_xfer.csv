@@ -1,0 +1,13 @@
+I2C_LOCK_SEGMENT,VAR_0
+__i2c_lock_bus_helper,FUNC_0
+__i2c_smbus_xfer,FUNC_1
+i2c_unlock_bus,FUNC_2
+i2c_smbus_xfer,FUNC_3
+adapter,VAR_1
+addr,VAR_2
+flags,VAR_3
+read_write,VAR_4
+command,VAR_5
+protocol,VAR_6
+data,VAR_7
+res,VAR_8

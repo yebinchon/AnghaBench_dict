@@ -1,0 +1,10 @@
+LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_generic_detach,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+tegra_rtc_detach,FUNC_5
+dev,VAR_2
+sc,VAR_3

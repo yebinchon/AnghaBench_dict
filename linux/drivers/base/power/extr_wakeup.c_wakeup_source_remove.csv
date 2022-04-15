@@ -1,0 +1,11 @@
+WARN_ON,FUNC_0
+del_timer_sync,FUNC_1
+events_lock,VAR_0
+list_del_rcu,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+synchronize_srcu,FUNC_5
+wakeup_srcu,VAR_1
+wakeup_source_remove,FUNC_6
+ws,VAR_2
+flags,VAR_3

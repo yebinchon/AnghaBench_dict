@@ -1,0 +1,12 @@
+GET_MAX_PACKET,FUNC_0
+USB_SPEED_SUPER,VAR_0
+le16_to_cpu,FUNC_1
+usb_endpoint_xfer_bulk,FUNC_2
+usb_endpoint_xfer_control,FUNC_3
+xhci_warn,FUNC_4
+xhci_get_max_esit_payload,FUNC_5
+xhci,VAR_1
+udev,VAR_2
+ep,VAR_3
+max_burst,VAR_4
+max_packet,VAR_5

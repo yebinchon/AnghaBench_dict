@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+NULLFILEOFF,VAR_0
+XFS_DIFLAG2_REFLINK,VAR_1
+XFS_ILOG_CORE,VAR_2
+trace_xfs_reflink_unset_inode_flag,FUNC_1
+xfs_inode_clear_cowblocks_tag,FUNC_2
+xfs_is_reflink_inode,FUNC_3
+xfs_reflink_cancel_cow_blocks,FUNC_4
+xfs_reflink_inode_has_shared_extents,FUNC_5
+xfs_trans_log_inode,FUNC_6
+xfs_reflink_clear_inode_flag,FUNC_7
+ip,VAR_3
+tpp,VAR_4
+needs_flag,VAR_5
+error,VAR_6

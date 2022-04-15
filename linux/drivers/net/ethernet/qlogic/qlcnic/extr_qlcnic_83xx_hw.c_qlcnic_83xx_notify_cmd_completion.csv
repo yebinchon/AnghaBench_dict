@@ -1,0 +1,9 @@
+QLC_83XX_MBX_CMD_NO_WAIT,VAR_0
+QLC_83XX_MBX_RESPONSE_ARRIVED,VAR_1
+atomic_set,FUNC_0
+complete,FUNC_1
+kfree,FUNC_2
+qlcnic_free_mbx_args,FUNC_3
+qlcnic_83xx_notify_cmd_completion,FUNC_4
+adapter,VAR_2
+cmd,VAR_3

@@ -1,0 +1,16 @@
+RX_DATA_RESET,VAR_0
+RX_PKT_RESET,VAR_1
+TX_DATA_RESET,VAR_2
+TX_PKT_RESET,VAR_3
+XCV_BATCH_CRD_RET,VAR_4
+XCV_CTL,VAR_5
+XCV_RESET,VAR_6
+pr_err,FUNC_0
+readq_relaxed,FUNC_1
+writeq_relaxed,FUNC_2
+xcv,VAR_7
+xcv_setup_link,FUNC_3
+link_up,VAR_8
+link_speed,VAR_9
+cfg,VAR_10
+speed,VAR_11

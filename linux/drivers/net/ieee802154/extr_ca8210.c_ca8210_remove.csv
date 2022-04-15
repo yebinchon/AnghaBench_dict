@@ -1,0 +1,16 @@
+CONFIG_IEEE802154_CA8210_DEBUGFS,VAR_0
+IS_ENABLED,FUNC_0
+ca8210_config_extern_clk,FUNC_1
+ca8210_dev_com_clear,FUNC_2
+ca8210_test_interface_clear,FUNC_3
+ca8210_unregister_ext_clock,FUNC_4
+dev_info,FUNC_5
+free_irq,FUNC_6
+ieee802154_free_hw,FUNC_7
+ieee802154_unregister_hw,FUNC_8
+kfree,FUNC_9
+spi_get_drvdata,FUNC_10
+ca8210_remove,FUNC_11
+spi_device,VAR_1
+priv,VAR_2
+pdata,VAR_3

@@ -1,0 +1,9 @@
+clk_disable_unprepare,FUNC_0
+clk_put,FUNC_1
+platform_get_drvdata,FUNC_2
+watchdog_get_drvdata,FUNC_3
+watchdog_unregister_device,FUNC_4
+orion_wdt_remove,FUNC_5
+pdev,VAR_0
+wdt_dev,VAR_1
+dev,VAR_2

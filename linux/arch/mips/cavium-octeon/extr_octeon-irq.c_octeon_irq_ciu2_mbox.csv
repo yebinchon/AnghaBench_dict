@@ -1,0 +1,16 @@
+CVMX_CIU2_ACK_PPX_IP3,FUNC_0
+CVMX_CIU2_INTR_CIU_READY,VAR_0
+CVMX_CIU2_SUM_PPX_IP3,FUNC_1
+OCTEON_CN68XX,VAR_1
+OCTEON_IRQ_MBOX0,VAR_2
+OCTEON_IS_MODEL,FUNC_2
+cvmx_get_core_num,FUNC_3
+cvmx_read_csr,FUNC_4
+do_IRQ,FUNC_5
+fls64,FUNC_6
+spurious_interrupt,FUNC_7
+unlikely,FUNC_8
+octeon_irq_ciu2_mbox,FUNC_9
+line,VAR_3
+core_id,VAR_4
+sum,VAR_5

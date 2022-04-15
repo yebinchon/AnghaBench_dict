@@ -1,0 +1,15 @@
+BTRFS_READ_LOCK_BLOCKING,VAR_0
+BTRFS_WRITE_LOCK_BLOCKING,VAR_1
+BUG_ON,FUNC_0
+WARN_ON,FUNC_1
+atomic_dec_and_test,FUNC_2
+atomic_inc,FUNC_3
+atomic_read,FUNC_4
+current,VAR_2
+read_lock,FUNC_5
+read_unlock,FUNC_6
+wake_up,FUNC_7
+write_lock,FUNC_8
+btrfs_clear_lock_blocking_rw,FUNC_9
+eb,VAR_3
+rw,VAR_4

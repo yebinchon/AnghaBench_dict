@@ -1,0 +1,15 @@
+ATA_ID_MAJOR_VER,VAR_0
+ATA_ID_PROD,VAR_1
+ATA_ID_PROD_LEN,VAR_2
+ATA_ID_SERNO,VAR_3
+ATA_ID_SERNO_LEN,VAR_4
+ata_do_dev_read_id,FUNC_0
+ata_id_c_string,FUNC_1
+memset,FUNC_2
+strstr,FUNC_3
+it821x_read_id,FUNC_4
+adev,VAR_5
+tf,VAR_6
+id,VAR_7
+err_mask,VAR_8
+model_num,VAR_9

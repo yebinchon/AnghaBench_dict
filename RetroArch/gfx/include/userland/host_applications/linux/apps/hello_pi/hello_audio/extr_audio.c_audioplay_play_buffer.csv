@@ -1,0 +1,14 @@
+ILC_GET_HANDLE,FUNC_0
+OMX_EmptyThisBuffer,FUNC_1
+OMX_ErrorNone,VAR_0
+assert,FUNC_2
+sem_post,FUNC_3
+sem_wait,FUNC_4
+audioplay_play_buffer,FUNC_5
+st,VAR_1
+buffer,VAR_2
+length,VAR_3
+hdr,VAR_4
+prev,VAR_5
+ret,VAR_6
+error,VAR_7

@@ -1,0 +1,11 @@
+BM_PXP_CTRL_CLKGATE,VAR_0
+BM_PXP_CTRL_SFTRST,VAR_1
+HW_PXP_CTRL,VAR_2
+HW_PXP_CTRL_CLR,VAR_3
+HW_PXP_CTRL_SET,VAR_4
+readl_poll_timeout,FUNC_0
+writel,FUNC_1
+pxp_soft_reset,FUNC_2
+dev,VAR_5
+ret,VAR_6
+val,VAR_7

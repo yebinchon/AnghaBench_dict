@@ -1,0 +1,12 @@
+DMAR_PGF_WAITOK,VAR_0
+KASSERT,FUNC_0
+M_NOWAIT,VAR_1
+M_WAITOK,VAR_2
+M_ZERO,VAR_3
+atomic_add_int,FUNC_1
+dmar_map_entry_zone,VAR_4
+uma_zalloc,FUNC_2
+dmar_gas_alloc_entry,FUNC_3
+domain,VAR_5
+flags,VAR_6
+res,VAR_7

@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+MAC802154_HWSIM_CMD_GET_RADIO,VAR_1
+append_radio_msg,FUNC_0
+genl_dump_check_consistent,FUNC_1
+genlmsg_cancel,FUNC_2
+genlmsg_end,FUNC_3
+genlmsg_put,FUNC_4
+hwsim_genl_family,VAR_2
+hwsim_get_radio,FUNC_5
+skb,VAR_3
+phy,VAR_4
+portid,VAR_5
+seq,VAR_6
+cb,VAR_7
+flags,VAR_8
+hdr,VAR_9
+res,VAR_10

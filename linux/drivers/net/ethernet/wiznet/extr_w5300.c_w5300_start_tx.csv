@@ -1,0 +1,13 @@
+NETDEV_TX_OK,VAR_0
+S0_CR_SEND,VAR_1
+dev_kfree_skb,FUNC_0
+netdev_priv,FUNC_1
+netif_dbg,FUNC_2
+netif_stop_queue,FUNC_3
+tx_queued,VAR_2
+w5300_command,FUNC_4
+w5300_write_frame,FUNC_5
+w5300_start_tx,FUNC_6
+skb,VAR_3
+ndev,VAR_4
+priv,VAR_5

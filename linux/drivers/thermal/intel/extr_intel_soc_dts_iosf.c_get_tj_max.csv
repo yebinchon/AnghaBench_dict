@@ -1,0 +1,9 @@
+EINVAL,VAR_0
+MSR_IA32_TEMPERATURE_TARGET,VAR_1
+rdmsr_safe,FUNC_0
+get_tj_max,FUNC_1
+tj_max,VAR_2
+eax,VAR_3
+edx,VAR_4
+val,VAR_5
+err,VAR_6

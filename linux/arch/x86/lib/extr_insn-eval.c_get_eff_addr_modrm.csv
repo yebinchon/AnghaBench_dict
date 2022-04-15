@@ -1,0 +1,15 @@
+EDOM,VAR_0
+EINVAL,VAR_1
+REG_TYPE_RM,VAR_2
+X86_MODRM_MOD,FUNC_0
+get_reg_offset,FUNC_1
+insn_get_modrm,FUNC_2
+regs_get_register,FUNC_3
+user_64bit_mode,FUNC_4
+get_eff_addr_modrm,FUNC_5
+insn,VAR_3
+regs,VAR_4
+regoff,VAR_5
+eff_addr,VAR_6
+tmp,VAR_7
+addr32,VAR_8

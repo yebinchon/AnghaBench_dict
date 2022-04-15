@@ -1,0 +1,12 @@
+EMSGSIZE,VAR_0
+SEG6_LOCAL_BPF,VAR_1
+SEG6_LOCAL_BPF_PROG,VAR_2
+SEG6_LOCAL_BPF_PROG_NAME,VAR_3
+nla_nest_end,FUNC_0
+nla_nest_start_noflag,FUNC_1
+nla_put_string,FUNC_2
+nla_put_u32,FUNC_3
+put_nla_bpf,FUNC_4
+skb,VAR_4
+slwt,VAR_5
+nest,VAR_6

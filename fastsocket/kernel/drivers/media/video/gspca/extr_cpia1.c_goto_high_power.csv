@@ -1,0 +1,17 @@
+CPIA_COMMAND_GetCameraStatus,VAR_0
+CPIA_COMMAND_GotoHiPower,VAR_1
+D_CONF,VAR_2
+D_ERR,VAR_3
+EINTR,VAR_4
+EIO,VAR_5
+HI_POWER_STATE,VAR_6
+PDEBUG,FUNC_0
+current,VAR_7
+do_command,FUNC_1
+msleep_interruptible,FUNC_2
+printstatus,FUNC_3
+signal_pending,FUNC_4
+goto_high_power,FUNC_5
+gspca_dev,VAR_8
+sd,VAR_9
+ret,VAR_10

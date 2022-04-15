@@ -1,0 +1,14 @@
+ICF_GOT_DATACK_SNACK,VAR_0
+ISCSI_REASON_BOOKMARK_INVALID,VAR_1
+ISCSI_REASON_PROTOCOL_ERROR,VAR_2
+iscsit_get_holder_for_r2tsn,FUNC_0
+iscsit_reject_cmd,FUNC_1
+iscsit_send_recovery_r2t_for_snack,FUNC_2
+pr_err,FUNC_3
+iscsit_handle_r2t_snack,FUNC_4
+cmd,VAR_3
+buf,VAR_4
+begrun,VAR_5
+runlength,VAR_6
+last_r2tsn,VAR_7
+r2t,VAR_8

@@ -1,0 +1,12 @@
+CLEAR_FLAG,FUNC_0
+F_CF,VAR_0
+F_OF,VAR_1
+SET_FLAG,FUNC_1
+decode_and_fetch_word,FUNC_2
+decode_rh_word_register,FUNC_3
+fetch_decode_modrm,FUNC_4
+x86emuOp2_16_imul_R_RM,FUNC_5
+emu,VAR_2
+destreg,VAR_3
+srcval,VAR_4
+res,VAR_5

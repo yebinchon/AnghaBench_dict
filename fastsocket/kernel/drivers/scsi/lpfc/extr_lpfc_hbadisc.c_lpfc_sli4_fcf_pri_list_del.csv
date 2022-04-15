@@ -1,0 +1,11 @@
+KERN_INFO,VAR_0
+LOG_FIP,VAR_1
+LPFC_FCF_ON_PRI_LIST,VAR_2
+list_del_init,FUNC_0
+lpfc_printf_log,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+lpfc_sli4_fcf_pri_list_del,FUNC_4
+phba,VAR_3
+fcf_index,VAR_4
+new_fcf_pri,VAR_5

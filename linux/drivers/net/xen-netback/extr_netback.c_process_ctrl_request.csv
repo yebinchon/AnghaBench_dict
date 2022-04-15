@@ -1,0 +1,16 @@
+XEN_NETBK_MAX_HASH_MAPPING_SIZE,VAR_0
+XEN_NETIF_CTRL_STATUS_NOT_SUPPORTED,VAR_1
+XEN_NETIF_CTRL_STATUS_SUCCESS,VAR_2
+make_ctrl_response,FUNC_0
+push_ctrl_response,FUNC_1
+xenvif_get_hash_flags,FUNC_2
+xenvif_set_hash_alg,FUNC_3
+xenvif_set_hash_flags,FUNC_4
+xenvif_set_hash_key,FUNC_5
+xenvif_set_hash_mapping,FUNC_6
+xenvif_set_hash_mapping_size,FUNC_7
+process_ctrl_request,FUNC_8
+vif,VAR_3
+req,VAR_4
+status,VAR_5
+data,VAR_6

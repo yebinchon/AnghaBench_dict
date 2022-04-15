@@ -1,0 +1,17 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+QUICC_PRAM_REV_NUM,VAR_2
+RF_ACTIVE,VAR_3
+SYS_RES_IOPORT,VAR_4
+SYS_RES_MEMORY,VAR_5
+bus_alloc_resource_any,FUNC_0
+bus_release_resource,FUNC_1
+device_get_desc,FUNC_2
+device_get_softc,FUNC_3
+device_set_desc,FUNC_4
+quicc_read2,FUNC_5
+quicc_bfe_probe,FUNC_6
+dev,VAR_6
+clock,VAR_7
+sc,VAR_8
+rev,VAR_9

@@ -1,0 +1,13 @@
+arch_spin_lock,FUNC_0
+arch_spin_unlock,FUNC_1
+barrier,FUNC_2
+get_tb,FUNC_3
+hard_irq_disable,FUNC_4
+local_irq_restore,FUNC_5
+local_irq_save,FUNC_6
+rtas_call,FUNC_7
+rtas_token,FUNC_8
+timebase,VAR_0
+timebase_lock,VAR_1
+rtas_give_timebase,FUNC_9
+flags,VAR_2

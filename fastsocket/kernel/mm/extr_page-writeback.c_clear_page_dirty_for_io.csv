@@ -1,0 +1,14 @@
+BDI_RECLAIMABLE,VAR_0
+BUG_ON,FUNC_0
+NR_FILE_DIRTY,VAR_1
+PageLocked,FUNC_1
+TestClearPageDirty,FUNC_2
+dec_bdi_stat,FUNC_3
+dec_zone_page_state,FUNC_4
+mapping_cap_account_dirty,FUNC_5
+page_mapping,FUNC_6
+page_mkclean,FUNC_7
+set_page_dirty,FUNC_8
+clear_page_dirty_for_io,FUNC_9
+page,VAR_2
+mapping,VAR_3

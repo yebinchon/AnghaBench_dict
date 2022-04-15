@@ -1,0 +1,8 @@
+RX_DMA_EN,VAR_0
+SPIS_DMA_CFG_REG,VAR_1
+TX_DMA_EN,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+mtk_spi_slave_disable_dma,FUNC_2
+mdata,VAR_3
+reg_val,VAR_4

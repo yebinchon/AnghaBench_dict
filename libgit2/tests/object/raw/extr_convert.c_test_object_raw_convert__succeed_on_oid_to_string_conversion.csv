@@ -1,0 +1,13 @@
+GIT_OID_HEXSZ,VAR_0
+cl_assert,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+git_oid_fromstr,FUNC_3
+git_oid_tostr,FUNC_4
+strncmp,FUNC_5
+test_object_raw_convert__succeed_on_oid_to_string_conversion,FUNC_6
+exp,VAR_1
+in,VAR_2
+out,VAR_3
+str,VAR_4
+i,VAR_5

@@ -1,0 +1,15 @@
+NF_ACCEPT,VAR_0
+NF_HOOK_THRESH,FUNC_0
+NF_IP6_PRI_CONNTRACK_DEFRAG,VAR_1
+NF_STOLEN,VAR_2
+PF_INET6,VAR_3
+nf_ct6_defrag_user,FUNC_1
+nf_ct_frag6_consume_orig,FUNC_2
+nf_ct_frag6_gather,FUNC_3
+ipv6_defrag,FUNC_4
+hooknum,VAR_4
+skb,VAR_5
+in,VAR_6
+out,VAR_7
+okfn,VAR_8
+reasm,VAR_9

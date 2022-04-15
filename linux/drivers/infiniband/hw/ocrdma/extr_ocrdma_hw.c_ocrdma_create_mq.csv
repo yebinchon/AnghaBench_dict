@@ -1,0 +1,15 @@
+OCRDMA_MQ_CQ_LEN,VAR_0
+OCRDMA_MQ_LEN,VAR_1
+QTYPE_CQ,VAR_2
+init_waitqueue_head,FUNC_0
+memset,FUNC_1
+mutex_init,FUNC_2
+ocrdma_alloc_q,FUNC_3
+ocrdma_free_q,FUNC_4
+ocrdma_mbx_create_mq,FUNC_5
+ocrdma_mbx_delete_q,FUNC_6
+ocrdma_mbx_mq_cq_create,FUNC_7
+ocrdma_ring_cq_db,FUNC_8
+ocrdma_create_mq,FUNC_9
+dev,VAR_3
+status,VAR_4

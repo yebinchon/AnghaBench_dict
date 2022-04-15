@@ -1,0 +1,17 @@
+I40E_PRTTSYN_INC_H,VAR_0
+I40E_PRTTSYN_INC_L,VAR_1
+I40E_PTP_10GB_INCVAL_MULT,VAR_2
+I40E_PTP_1GB_INCVAL_MULT,VAR_3
+I40E_PTP_40GB_INCVAL,VAR_4
+WRITE_ONCE,FUNC_0
+dev_warn,FUNC_1
+i40e_aq_get_link_info,FUNC_2
+smp_mb,FUNC_3
+wr32,FUNC_4
+i40e_ptp_set_increment,FUNC_5
+pf,VAR_5
+hw_link_info,VAR_6
+hw,VAR_7
+incval,VAR_8
+mult,VAR_9
+warn_once,VAR_10

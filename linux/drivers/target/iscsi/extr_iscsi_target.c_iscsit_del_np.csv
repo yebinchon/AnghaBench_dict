@@ -1,0 +1,16 @@
+ISCSI_NP_THREAD_SHUTDOWN,VAR_0
+SIGINT,VAR_1
+iscsit_put_transport,FUNC_0
+kfree,FUNC_1
+kthread_stop,FUNC_2
+list_del,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+np_lock,VAR_2
+pr_debug,FUNC_6
+send_sig,FUNC_7
+spin_lock_bh,FUNC_8
+spin_unlock_bh,FUNC_9
+stub1,FUNC_10
+iscsit_del_np,FUNC_11
+np,VAR_3

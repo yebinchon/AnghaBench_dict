@@ -1,0 +1,17 @@
+EVP_des_ede3_cbc,FUNC_0
+Lock,FUNC_1
+NewBio,FUNC_2
+PEM_write_bio_PUBKEY,FUNC_3
+PEM_write_bio_PrivateKey,FUNC_4
+PKeyPasswordCallbackFunction,VAR_0
+StrLen,FUNC_5
+Unlock,FUNC_6
+i2d_PUBKEY_bio,FUNC_7
+i2d_PrivateKey_bio,FUNC_8
+openssl_lock,VAR_1
+KToBio,FUNC_9
+k,VAR_2
+text,VAR_3
+password,VAR_4
+bio,VAR_5
+cb,VAR_6

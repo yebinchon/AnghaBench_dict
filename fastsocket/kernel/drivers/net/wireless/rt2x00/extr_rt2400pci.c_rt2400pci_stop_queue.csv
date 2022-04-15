@@ -1,0 +1,16 @@
+CSR14,VAR_0
+CSR14_BEACON_GEN,VAR_1
+CSR14_TBCN,VAR_2
+CSR14_TSF_COUNT,VAR_3
+RXCSR0,VAR_4
+RXCSR0_DISABLE_RX,VAR_5
+TXCSR0,VAR_6
+TXCSR0_ABORT,VAR_7
+rt2x00_set_field32,FUNC_0
+rt2x00mmio_register_read,FUNC_1
+rt2x00mmio_register_write,FUNC_2
+tasklet_kill,FUNC_3
+rt2400pci_stop_queue,FUNC_4
+queue,VAR_8
+rt2x00dev,VAR_9
+reg,VAR_10

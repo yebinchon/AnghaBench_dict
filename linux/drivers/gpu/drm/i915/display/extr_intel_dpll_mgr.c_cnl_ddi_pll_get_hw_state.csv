@@ -1,0 +1,17 @@
+CNL_DPLL_CFGCR0,FUNC_0
+CNL_DPLL_CFGCR1,FUNC_1
+CNL_DPLL_ENABLE,FUNC_2
+DPLL_CFGCR0_HDMI_MODE,VAR_0
+I915_READ,FUNC_3
+PLL_ENABLE,VAR_1
+POWER_DOMAIN_DISPLAY_CORE,VAR_2
+intel_display_power_get_if_enabled,FUNC_4
+intel_display_power_put,FUNC_5
+cnl_ddi_pll_get_hw_state,FUNC_6
+dev_priv,VAR_3
+pll,VAR_4
+hw_state,VAR_5
+id,VAR_6
+wakeref,VAR_7
+val,VAR_8
+ret,VAR_9

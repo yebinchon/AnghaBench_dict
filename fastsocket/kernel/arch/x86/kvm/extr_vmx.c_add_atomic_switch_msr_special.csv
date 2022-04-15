@@ -1,0 +1,11 @@
+VM_ENTRY_CONTROLS,VAR_0
+VM_EXIT_CONTROLS,VAR_1
+vmcs_set_bits,FUNC_0
+vmcs_write64,FUNC_1
+add_atomic_switch_msr_special,FUNC_2
+entry,VAR_2
+exit,VAR_3
+guest_val_vmcs,VAR_4
+host_val_vmcs,VAR_5
+guest_val,VAR_6
+host_val,VAR_7

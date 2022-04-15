@@ -1,0 +1,13 @@
+WDT_STS,VAR_0
+WDT_STS_COUNT_MASK,VAR_1
+WDT_STS_COUNT_SHIFT,VAR_2
+WDT_STS_EXP_MASK,VAR_3
+WDT_STS_EXP_SHIFT,VAR_4
+readl,FUNC_0
+watchdog_get_drvdata,FUNC_1
+tegra_wdt_get_timeleft,FUNC_2
+wdd,VAR_5
+wdt,VAR_6
+val,VAR_7
+count,VAR_8
+exp,VAR_9

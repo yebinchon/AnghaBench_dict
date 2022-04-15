@@ -1,0 +1,15 @@
+AGP_FLUSH_TLB,FUNC_0
+AGP_SET_APERTURE,FUNC_1
+ENOMEM,VAR_0
+UNIN_AGP_BASE_ADDR,VAR_1
+agp_alloc_gatt,FUNC_2
+agp_generic_attach,FUNC_3
+agp_generic_detach,FUNC_4
+agp_set_aperture_resource,FUNC_5
+device_get_softc,FUNC_6
+pci_get_devid,FUNC_7
+pci_write_config,FUNC_8
+agp_apple_attach,FUNC_9
+dev,VAR_2
+sc,VAR_3
+error,VAR_4

@@ -1,0 +1,9 @@
+lua_createtable,FUNC_0
+lua_pushcfunction,FUNC_1
+lua_setfield,FUNC_2
+ngx_http_lua_ngx_timer_at,VAR_0
+ngx_http_lua_ngx_timer_every,VAR_1
+ngx_http_lua_ngx_timer_pending_count,VAR_2
+ngx_http_lua_ngx_timer_running_count,VAR_3
+ngx_http_lua_inject_timer_api,FUNC_3
+L,VAR_4

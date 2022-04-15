@@ -1,0 +1,11 @@
+HWRM_VNIC_RSS_CFG,VAR_0
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+htole16,FUNC_1
+htole32,FUNC_2
+htole64,FUNC_3
+hwrm_send_message,FUNC_4
+bnxt_hwrm_rss_cfg,FUNC_5
+softc,VAR_1
+vnic,VAR_2
+hash_type,VAR_3
+req,VAR_4

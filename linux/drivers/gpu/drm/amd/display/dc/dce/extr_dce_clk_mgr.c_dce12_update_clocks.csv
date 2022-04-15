@@ -1,0 +1,17 @@
+DM_PP_CLOCK_TYPE_DISPLAYPHYCLK,VAR_0
+DM_PP_CLOCK_TYPE_DISPLAY_CLK,VAR_1
+TO_DCE_CLK_MGR,FUNC_0
+clk_mgr_adjust_dp_ref_freq_for_ss,FUNC_1
+dce112_set_clock,FUNC_2
+dce11_pplib_apply_display_requirements,FUNC_3
+dm_pp_apply_clock_for_voltage_request,FUNC_4
+get_max_pixel_clock_for_all_paths,FUNC_5
+should_set_clock,FUNC_6
+dce12_update_clocks,FUNC_7
+clk_mgr,VAR_2
+context,VAR_3
+safe_to_lower,VAR_4
+clk_mgr_dce,VAR_5
+clock_voltage_req,VAR_6
+max_pix_clk,VAR_7
+patched_disp_clk,VAR_8

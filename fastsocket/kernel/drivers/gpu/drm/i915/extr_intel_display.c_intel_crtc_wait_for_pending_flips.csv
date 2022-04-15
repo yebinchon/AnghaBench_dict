@@ -1,0 +1,11 @@
+WARN_ON,FUNC_0
+intel_crtc_has_pending_flip,FUNC_1
+intel_finish_fb,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+wait_event,FUNC_5
+waitqueue_active,FUNC_6
+intel_crtc_wait_for_pending_flips,FUNC_7
+crtc,VAR_0
+dev,VAR_1
+dev_priv,VAR_2

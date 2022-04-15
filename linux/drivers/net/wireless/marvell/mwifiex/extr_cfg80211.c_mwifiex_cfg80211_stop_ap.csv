@@ -1,0 +1,17 @@
+ERROR,VAR_0
+HOST_CMD_APCMD_SYS_RESET,VAR_1
+HostCmd_ACT_GEN_SET,VAR_2
+HostCmd_CMD_UAP_BSS_STOP,VAR_3
+memset,FUNC_0
+mwifiex_abort_cac,FUNC_1
+mwifiex_dbg,FUNC_2
+mwifiex_del_mgmt_ies,FUNC_3
+mwifiex_netdev_get_priv,FUNC_4
+mwifiex_send_cmd,FUNC_5
+mwifiex_stop_net_dev_queue,FUNC_6
+netif_carrier_off,FUNC_7
+netif_carrier_ok,FUNC_8
+mwifiex_cfg80211_stop_ap,FUNC_9
+wiphy,VAR_4
+dev,VAR_5
+priv,VAR_6

@@ -1,0 +1,10 @@
+drm_crtc_send_vblank_event,FUNC_0
+drm_crtc_vblank_put,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wake_up,FUNC_4
+rcar_du_crtc_finish_page_flip,FUNC_5
+rcrtc,VAR_0
+event,VAR_1
+dev,VAR_2
+flags,VAR_3

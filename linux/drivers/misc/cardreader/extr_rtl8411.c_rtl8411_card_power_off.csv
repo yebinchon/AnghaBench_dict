@@ -1,0 +1,11 @@
+BPP_LDO_POWB,VAR_0
+BPP_LDO_SUSPEND,VAR_1
+BPP_POWER_MASK,VAR_2
+BPP_POWER_OFF,VAR_3
+CARD_PWR_CTL,VAR_4
+LDO_CTL,VAR_5
+rtsx_pci_write_register,FUNC_0
+rtl8411_card_power_off,FUNC_1
+pcr,VAR_6
+card,VAR_7
+err,VAR_8

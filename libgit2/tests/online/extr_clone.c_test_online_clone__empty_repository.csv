@@ -1,0 +1,17 @@
+GIT_HEAD_FILE,VAR_0
+GIT_REFERENCE_SYMBOLIC,VAR_1
+LIVE_EMPTYREPO_URL,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+g_options,VAR_3
+g_repo,VAR_4
+git_clone,FUNC_3
+git_reference_free,FUNC_4
+git_reference_lookup,FUNC_5
+git_reference_symbolic_target,FUNC_6
+git_reference_type,FUNC_7
+git_repository_head_unborn,FUNC_8
+git_repository_is_empty,FUNC_9
+test_online_clone__empty_repository,FUNC_10
+head,VAR_5

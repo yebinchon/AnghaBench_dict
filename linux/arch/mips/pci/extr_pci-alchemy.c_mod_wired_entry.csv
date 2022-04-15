@@ -1,0 +1,17 @@
+MIPS_ENTRYHI_ASID,VAR_0
+read_c0_entryhi,FUNC_0
+read_c0_pagemask,FUNC_1
+tlb_write_indexed,FUNC_2
+write_c0_entryhi,FUNC_3
+write_c0_entrylo0,FUNC_4
+write_c0_entrylo1,FUNC_5
+write_c0_index,FUNC_6
+write_c0_pagemask,FUNC_7
+mod_wired_entry,FUNC_8
+entry,VAR_1
+entrylo0,VAR_2
+entrylo1,VAR_3
+entryhi,VAR_4
+pagemask,VAR_5
+old_pagemask,VAR_6
+old_ctx,VAR_7

@@ -1,0 +1,9 @@
+build_cr3,FUNC_0
+build_cr3_noflush,FUNC_1
+invalidate_user_asid,FUNC_2
+write_cr3,FUNC_3
+load_new_mm_cr3,FUNC_4
+pgdir,VAR_0
+new_asid,VAR_1
+need_flush,VAR_2
+new_mm_cr3,VAR_3

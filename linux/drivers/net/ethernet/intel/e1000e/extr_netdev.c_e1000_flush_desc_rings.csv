@@ -1,0 +1,16 @@
+E1000_FEXTNVM11_DISABLE_MULR_FIX,VAR_0
+FEXTNVM11,VAR_1
+FLUSH_DESC_REQUIRED,VAR_2
+PCICFG_DESC_RING_STATUS,VAR_3
+TDLEN,FUNC_0
+e1000_flush_rx_ring,FUNC_1
+e1000_flush_tx_ring,FUNC_2
+er32,FUNC_3
+ew32,FUNC_4
+pci_read_config_word,FUNC_5
+e1000_flush_desc_rings,FUNC_6
+adapter,VAR_4
+hang_state,VAR_5
+fext_nvm11,VAR_6
+tdlen,VAR_7
+hw,VAR_8

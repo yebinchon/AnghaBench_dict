@@ -1,0 +1,15 @@
+NETIF_F_GSO_SOFTWARE,VAR_0
+NETIF_F_HW_CSUM,VAR_1
+NETIF_F_IPV6_CSUM,VAR_2
+NETIF_F_IP_CSUM,VAR_3
+NETIF_F_LLTX,VAR_4
+NETIF_F_RXCSUM,VAR_5
+NETIF_F_SOFT_FEATURES,VAR_6
+netdev_intersect_features,FUNC_0
+vlan_dev_priv,FUNC_1
+vlan_dev_fix_features,FUNC_2
+dev,VAR_7
+features,VAR_8
+real_dev,VAR_9
+old_features,VAR_10
+lower_features,VAR_11

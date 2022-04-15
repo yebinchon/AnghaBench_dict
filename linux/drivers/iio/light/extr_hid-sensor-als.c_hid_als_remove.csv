@@ -1,0 +1,13 @@
+HID_USAGE_SENSOR_ALS,VAR_0
+hid_sensor_remove_trigger,FUNC_0
+iio_device_unregister,FUNC_1
+iio_priv,FUNC_2
+iio_triggered_buffer_cleanup,FUNC_3
+kfree,FUNC_4
+platform_get_drvdata,FUNC_5
+sensor_hub_remove_callback,FUNC_6
+hid_als_remove,FUNC_7
+pdev,VAR_1
+hsdev,VAR_2
+indio_dev,VAR_3
+als_state,VAR_4

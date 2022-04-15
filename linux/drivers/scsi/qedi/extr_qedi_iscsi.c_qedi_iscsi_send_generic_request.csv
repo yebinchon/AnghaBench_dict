@@ -1,0 +1,16 @@
+ISCSI_OPCODE_MASK,VAR_0
+KERN_ALERT,VAR_1
+iscsi_conn_printk,FUNC_0
+qedi_iscsi_abort_work,FUNC_1
+qedi_iscsi_prep_generic_pdu_bd,FUNC_2
+qedi_send_iscsi_login,FUNC_3
+qedi_send_iscsi_logout,FUNC_4
+qedi_send_iscsi_nopout,FUNC_5
+qedi_send_iscsi_text,FUNC_6
+qedi_iscsi_send_generic_request,FUNC_7
+task,VAR_2
+cmd,VAR_3
+qedi_conn,VAR_4
+buf,VAR_5
+data_len,VAR_6
+rc,VAR_7

@@ -1,0 +1,12 @@
+FP,VAR_0
+FXSAVE32,VAR_1
+FXSAVE64,VAR_2
+XSAVE32,VAR_3
+XSAVE64,VAR_4
+mp_disable_preemption,FUNC_0
+mp_enable_preemption,FUNC_1
+thread_xstate,FUNC_2
+fpu_switch_addrmode,FUNC_3
+thread,VAR_5
+is_64bit,VAR_6
+ifps,VAR_7

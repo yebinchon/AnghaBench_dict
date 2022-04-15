@@ -1,0 +1,14 @@
+get_buffer,FUNC_0
+luaL_checkinteger,FUNC_1
+luaL_checkstring,FUNC_2
+lua_pushboolean,FUNC_3
+lua_touserdata,FUNC_4
+lua_upvalueindex,FUNC_5
+skynet_socket_udp_sendbuffer,FUNC_6
+ludp_send,FUNC_7
+L,VAR_0
+ctx,VAR_1
+id,VAR_2
+address,VAR_3
+buf,VAR_4
+err,VAR_5

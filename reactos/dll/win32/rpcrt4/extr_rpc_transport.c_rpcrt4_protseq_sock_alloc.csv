@@ -1,0 +1,12 @@
+CreateEventW,FUNC_0
+FALSE,VAR_0
+GetProcessHeap,FUNC_1
+HEAP_ZERO_MEMORY,VAR_1
+HeapAlloc,FUNC_2
+MAKEWORD,FUNC_3
+TRUE,VAR_2
+WSAStartup,FUNC_4
+rpcrt4_protseq_sock_alloc,FUNC_5
+ps,VAR_3
+wsa_inited,VAR_4
+wsadata,VAR_5

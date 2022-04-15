@@ -1,0 +1,14 @@
+BRNF_PKT_TYPE,VAR_0
+ETH_P_ARP,VAR_1
+IS_VLAN_ARP,FUNC_0
+NF_BR_FORWARD,VAR_2
+NF_HOOK_THRESH,FUNC_1
+PACKET_OTHERHOST,VAR_3
+PF_BRIDGE,VAR_4
+br_forward_finish,VAR_5
+htons,FUNC_2
+nf_bridge_push_encap_header,FUNC_3
+br_nf_forward_finish,FUNC_4
+skb,VAR_6
+nf_bridge,VAR_7
+in,VAR_8

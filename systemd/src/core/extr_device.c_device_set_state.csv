@@ -1,0 +1,13 @@
+DEVICE_DEAD,VAR_0
+UNIT,FUNC_0
+assert,FUNC_1
+bus_unit_send_pending_change_signal,FUNC_2
+device_state_to_string,FUNC_3
+device_unset_sysfs,FUNC_4
+log_unit_debug,FUNC_5
+state_translation_table,VAR_1
+unit_notify,FUNC_6
+device_set_state,FUNC_7
+d,VAR_2
+state,VAR_3
+old_state,VAR_4

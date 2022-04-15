@@ -1,0 +1,14 @@
+ARRAY_SIZE,FUNC_0
+E4_USTORM_ISCSI_TASK_AG_CTX_R2T2RECV,VAR_0
+SET_FIELD,FUNC_1
+cpu_to_le16,FUNC_2
+cpu_to_le32,FUNC_3
+memset,FUNC_4
+init_default_iscsi_task,FUNC_5
+task_params,VAR_1
+pdu_header,VAR_2
+task_type,VAR_3
+context,VAR_4
+val,VAR_5
+index,VAR_6
+val_byte,VAR_7

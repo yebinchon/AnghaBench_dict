@@ -1,0 +1,17 @@
+A2MP_STATUS_INVALID_CTRL_ID,VAR_0
+HCI_OP_READ_LOCAL_AMP_ASSOC,VAR_1
+READ_LOC_AMP_ASSOC_FINAL,VAR_2
+a2mp_send_getampassoc_rsp,FUNC_0
+cpu_to_le16,FUNC_1
+hci_req_add,FUNC_2
+hci_req_init,FUNC_3
+hci_req_run_skb,FUNC_4
+read_local_amp_assoc_complete,VAR_3
+set_bit,FUNC_5
+amp_read_loc_assoc_final_data,FUNC_6
+hdev,VAR_4
+hcon,VAR_5
+cp,VAR_6
+mgr,VAR_7
+req,VAR_8
+err,VAR_9

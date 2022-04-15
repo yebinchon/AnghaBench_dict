@@ -1,0 +1,17 @@
+AD_SD_MODE_IDLE,VAR_0
+EIO,VAR_1
+HZ,VAR_2
+ad_sigma_delta_set_channel,FUNC_0
+ad_sigma_delta_set_mode,FUNC_1
+disable_irq_nosync,FUNC_2
+enable_irq,FUNC_3
+reinit_completion,FUNC_4
+spi_bus_lock,FUNC_5
+spi_bus_unlock,FUNC_6
+wait_for_completion_timeout,FUNC_7
+ad_sd_calibrate,FUNC_8
+sigma_delta,VAR_3
+mode,VAR_4
+channel,VAR_5
+ret,VAR_6
+timeout,VAR_7

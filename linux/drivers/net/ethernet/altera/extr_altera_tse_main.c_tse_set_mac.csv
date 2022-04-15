@@ -1,0 +1,10 @@
+MAC_CMDCFG_RX_ENA,VAR_0
+MAC_CMDCFG_TX_ENA,VAR_1
+command_config,VAR_2
+csrrd32,FUNC_0
+csrwr32,FUNC_1
+tse_csroffs,FUNC_2
+tse_set_mac,FUNC_3
+priv,VAR_3
+enable,VAR_4
+value,VAR_5

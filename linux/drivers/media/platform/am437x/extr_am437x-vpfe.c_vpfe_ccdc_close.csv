@@ -1,0 +1,16 @@
+VPFE_DMA_CNTL,VAR_0
+VPFE_DMA_CNTL_OVERFLOW,VAR_1
+VPFE_PCR,VAR_2
+pm_runtime_put_sync,FUNC_0
+usleep_range,FUNC_1
+vpfe_ccdc_restore_defaults,FUNC_2
+vpfe_config_enable,FUNC_3
+vpfe_pcr_enable,FUNC_4
+vpfe_reg_read,FUNC_5
+vpfe_reg_write,FUNC_6
+vpfe_ccdc_close,FUNC_7
+ccdc,VAR_3
+dev,VAR_4
+dma_cntl,VAR_5
+i,VAR_6
+pcr,VAR_7

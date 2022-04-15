@@ -1,0 +1,14 @@
+IB_QPS_SQD,VAR_0
+IB_WC_SUCCESS,VAR_1
+OP,FUNC_0
+SEND_LAST,VAR_2
+ib_qib_wc_opcode,VAR_3
+qib_cmp24,FUNC_1
+rvt_get_swqe_ptr,FUNC_2
+rvt_qp_complete_swqe,FUNC_3
+this_cpu_inc,FUNC_4
+update_last_psn,FUNC_5
+do_rc_completion,FUNC_6
+qp,VAR_4
+wqe,VAR_5
+ibp,VAR_6

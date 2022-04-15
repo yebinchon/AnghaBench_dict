@@ -1,0 +1,16 @@
+CAN_CTRLMODE_3_SAMPLES,VAR_0
+PUCAN_CMD_TIMING_SLOW,VAR_1
+PUCAN_TSLOW_BRP,FUNC_0
+PUCAN_TSLOW_SJW_T,FUNC_1
+PUCAN_TSLOW_TSEG1,FUNC_2
+PUCAN_TSLOW_TSEG2,FUNC_3
+cpu_to_le16,FUNC_4
+le16_to_cpu,FUNC_5
+netdev_dbg,FUNC_6
+pucan_add_cmd,FUNC_7
+pucan_init_cmd,FUNC_8
+pucan_write_cmd,FUNC_9
+pucan_set_timing_slow,FUNC_10
+priv,VAR_2
+pbt,VAR_3
+cmd,VAR_4

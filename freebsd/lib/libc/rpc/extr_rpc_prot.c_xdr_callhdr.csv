@@ -1,0 +1,13 @@
+CALL,VAR_0
+FALSE,VAR_1
+RPC_MSG_VERSION,VAR_2
+XDR_ENCODE,VAR_3
+assert,FUNC_0
+xdr_enum,FUNC_1
+xdr_rpcprog,FUNC_2
+xdr_rpcvers,FUNC_3
+xdr_u_int32_t,FUNC_4
+xdr_callhdr,FUNC_5
+xdrs,VAR_4
+cmsg,VAR_5
+prm_direction,VAR_6

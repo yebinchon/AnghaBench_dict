@@ -1,0 +1,13 @@
+hci_conn_params_del,FUNC_0
+hci_get_irk,FUNC_1
+hci_pend_le_action_lookup,FUNC_2
+hci_update_background_scan,FUNC_3
+list_add,FUNC_4
+list_del_init,FUNC_5
+hci_connect_le_scan_cleanup,FUNC_6
+conn,VAR_0
+params,VAR_1
+hdev,VAR_2
+irk,VAR_3
+bdaddr,VAR_4
+bdaddr_type,VAR_5

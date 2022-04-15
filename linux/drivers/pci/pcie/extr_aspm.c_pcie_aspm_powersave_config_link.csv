@@ -1,0 +1,16 @@
+POLICY_POWERSAVE,VAR_0
+POLICY_POWER_SUPERSAVE,VAR_1
+aspm_disabled,VAR_2
+aspm_lock,VAR_3
+aspm_policy,VAR_4
+down_read,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pci_bus_sem,VAR_5
+pcie_config_aspm_path,FUNC_3
+pcie_set_clkpm,FUNC_4
+policy_to_clkpm_state,FUNC_5
+up_read,FUNC_6
+pcie_aspm_powersave_config_link,FUNC_7
+pdev,VAR_6
+link,VAR_7

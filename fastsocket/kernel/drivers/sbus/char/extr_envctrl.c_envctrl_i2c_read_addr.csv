@@ -1,0 +1,12 @@
+OBD_SEND_START,VAR_0
+OBD_SEND_STOP,VAR_1
+PCF8584_CSR,VAR_2
+PCF8584_DATA,VAR_3
+STATUS_LRB,VAR_4
+envctrl_i2c_test_bb,FUNC_0
+envtrl_i2c_test_pin,FUNC_1
+i2c,VAR_5
+readb,FUNC_2
+writeb,FUNC_3
+envctrl_i2c_read_addr,FUNC_4
+addr,VAR_6

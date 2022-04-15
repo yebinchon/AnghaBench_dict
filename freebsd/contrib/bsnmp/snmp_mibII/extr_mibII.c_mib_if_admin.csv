@@ -1,0 +1,13 @@
+IFF_UP,VAR_0
+LOG_ERR,VAR_1
+SIOCGIFFLAGS,VAR_2
+SIOCSIFFLAGS,VAR_3
+ioctl,FUNC_0
+mib_fetch_ifmib,FUNC_1
+mib_netsock,VAR_4
+strlcpy,FUNC_2
+syslog,FUNC_3
+mib_if_admin,FUNC_4
+ifp,VAR_5
+up,VAR_6
+ifr,VAR_7

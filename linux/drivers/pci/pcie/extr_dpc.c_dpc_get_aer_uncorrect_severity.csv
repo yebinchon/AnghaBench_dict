@@ -1,0 +1,13 @@
+AER_FATAL,VAR_0
+AER_NONFATAL,VAR_1
+PCI_ERR_UNCOR_MASK,VAR_2
+PCI_ERR_UNCOR_SEVER,VAR_3
+PCI_ERR_UNCOR_STATUS,VAR_4
+pci_read_config_dword,FUNC_0
+dpc_get_aer_uncorrect_severity,FUNC_1
+dev,VAR_5
+info,VAR_6
+pos,VAR_7
+status,VAR_8
+mask,VAR_9
+sev,VAR_10

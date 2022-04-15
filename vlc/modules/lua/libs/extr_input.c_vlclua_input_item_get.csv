@@ -1,0 +1,14 @@
+input_item_Hold,FUNC_0
+luaL_newmetatable,FUNC_1
+luaL_register,FUNC_2
+lua_newtable,FUNC_3
+lua_newuserdata,FUNC_4
+lua_pushcfunction,FUNC_5
+lua_setfield,FUNC_6
+lua_setmetatable,FUNC_7
+vlclua_input_item_delete,VAR_0
+vlclua_input_item_reg,VAR_1
+vlclua_input_item_get,FUNC_8
+L,VAR_2
+p_item,VAR_3
+pp,VAR_4

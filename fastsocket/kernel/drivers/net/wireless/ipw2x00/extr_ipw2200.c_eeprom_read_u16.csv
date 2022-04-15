@@ -1,0 +1,15 @@
+EEPROM_BIT_CS,VAR_0
+EEPROM_BIT_DO,VAR_1
+EEPROM_BIT_SK,VAR_2
+EEPROM_CMD_READ,VAR_3
+FW_MEM_REG_EEPROM_ACCESS,VAR_4
+eeprom_disable_cs,FUNC_0
+eeprom_op,FUNC_1
+eeprom_write_reg,FUNC_2
+ipw_read_reg32,FUNC_3
+eeprom_read_u16,FUNC_4
+priv,VAR_5
+addr,VAR_6
+i,VAR_7
+r,VAR_8
+data,VAR_9

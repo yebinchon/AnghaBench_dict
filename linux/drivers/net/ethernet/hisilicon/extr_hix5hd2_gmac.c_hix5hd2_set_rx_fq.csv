@@ -1,0 +1,7 @@
+BITS_RX_FQ_START_ADDR_EN,VAR_0
+RX_FQ_REG_EN,VAR_1
+RX_FQ_START_ADDR,VAR_2
+writel_relaxed,FUNC_0
+hix5hd2_set_rx_fq,FUNC_1
+priv,VAR_3
+phy_addr,VAR_4

@@ -1,0 +1,14 @@
+LPFC_ERATT_POLL_INTERVAL,VAR_0
+do_div,FUNC_0
+jiffies,VAR_1
+lpfc_sli_check_eratt,FUNC_1
+lpfc_worker_wake_up,FUNC_2
+mod_timer,FUNC_3
+msecs_to_jiffies,FUNC_4
+lpfc_poll_eratt,FUNC_5
+ptr,VAR_2
+phba,VAR_3
+eratt,VAR_4
+rem,VAR_5
+sli_intr,VAR_6
+cnt,VAR_7

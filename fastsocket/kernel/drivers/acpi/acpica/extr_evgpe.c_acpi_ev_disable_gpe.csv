@@ -1,0 +1,14 @@
+ACPI_CLEAR_BIT,FUNC_0
+ACPI_FAILURE,FUNC_1
+ACPI_FUNCTION_TRACE,FUNC_2
+ACPI_GPE_DISABLE,VAR_0
+ACPI_GPE_RUN_ENABLED,VAR_1
+ACPI_GPE_TYPE_MASK,VAR_2
+ACPI_GPE_WAKE_ENABLED,VAR_3
+acpi_ev_update_gpe_enable_masks,FUNC_3
+acpi_hw_low_disable_gpe,FUNC_4
+ev_disable_gpe,VAR_4
+return_ACPI_STATUS,FUNC_5
+acpi_ev_disable_gpe,FUNC_6
+gpe_event_info,VAR_5
+status,VAR_6

@@ -1,0 +1,8 @@
+OMAP1610_DMA_LCD_CCR,VAR_0
+OMAP_DMA_CCR_EN,VAR_1
+OMAP_LCDC_CONTROL,VAR_2
+OMAP_LCDC_CTRL_LCD_EN,VAR_3
+cpu_is_omap15xx,FUNC_0
+cpu_is_omap16xx,FUNC_1
+omap_readw,FUNC_2
+omap_lcd_dma_running,FUNC_3

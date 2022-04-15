@@ -1,0 +1,13 @@
+ETIME,VAR_0
+TPM_TIMEOUT_US_HI,VAR_1
+TPM_TIMEOUT_US_LOW,VAR_2
+jiffies,VAR_3
+time_before,FUNC_0
+tpm_tis_i2c_status,FUNC_1
+usleep_range,FUNC_2
+wait_for_stat,FUNC_3
+chip,VAR_4
+mask,VAR_5
+timeout,VAR_6
+status,VAR_7
+stop,VAR_8

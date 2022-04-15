@@ -1,0 +1,17 @@
+ARCHIVE_OK,VAR_0
+archive_read_new,FUNC_0
+archive_read_open_filename,FUNC_1
+archive_read_support_filter_all,FUNC_2
+archive_read_support_format_all,FUNC_3
+assert,FUNC_4
+assertEqualIntA,FUNC_5
+extract_reference_file,FUNC_6
+free,FUNC_7
+read_open_memory,FUNC_8
+slurpfile,FUNC_9
+verify_extract_length_at_end,FUNC_10
+test_extract_length_at_end,FUNC_11
+refname,VAR_1
+p,VAR_2
+s,VAR_3
+a,VAR_4

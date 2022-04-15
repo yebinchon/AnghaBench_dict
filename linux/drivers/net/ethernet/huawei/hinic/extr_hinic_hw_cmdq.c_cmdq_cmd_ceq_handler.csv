@@ -1,0 +1,17 @@
+CMDQ_WQE_COMPLETED,FUNC_0
+CMDQ_WQE_ERRCODE_GET,FUNC_1
+EBUSY,VAR_0
+VAL,VAR_1
+WQE_LCMD_SIZE,VAR_2
+be32_to_cpu,FUNC_2
+clear_wqe_complete_bit,FUNC_3
+cmdq_sync_cmd_handler,FUNC_4
+hinic_put_wqe,FUNC_5
+cmdq_cmd_ceq_handler,FUNC_6
+cmdq,VAR_3
+ci,VAR_4
+cmdq_wqe,VAR_5
+wqe_lcmd,VAR_6
+status,VAR_7
+ctrl,VAR_8
+errcode,VAR_9

@@ -1,0 +1,11 @@
+destroy_cq_kernel,FUNC_0
+destroy_cq_user,FUNC_1
+kfree,FUNC_2
+mlx5_core_destroy_cq,FUNC_3
+to_mcq,FUNC_4
+to_mdev,FUNC_5
+mlx5_ib_destroy_cq,FUNC_6
+cq,VAR_0
+dev,VAR_1
+mcq,VAR_2
+context,VAR_3

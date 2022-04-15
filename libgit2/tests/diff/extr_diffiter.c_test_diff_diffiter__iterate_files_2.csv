@@ -1,0 +1,15 @@
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_diff_free,FUNC_4
+git_diff_get_delta,FUNC_5
+git_diff_index_to_workdir,FUNC_6
+git_diff_num_deltas,FUNC_7
+test_diff_diffiter__iterate_files_2,FUNC_8
+repo,VAR_0
+diff,VAR_1
+d,VAR_2
+num_d,VAR_3
+count,VAR_4
+delta,VAR_5

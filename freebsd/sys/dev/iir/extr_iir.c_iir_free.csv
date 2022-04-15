@@ -1,0 +1,14 @@
+GDT_DPRINTF,FUNC_0
+GDT_D_INIT,VAR_0
+GDT_MAXCMDS,VAR_1
+M_GDTBUF,VAR_2
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_destroy,FUNC_2
+bus_dmamap_unload,FUNC_3
+bus_dmamem_free,FUNC_4
+callout_drain,FUNC_5
+free,FUNC_6
+gdt_destroy_dev,FUNC_7
+iir_free,FUNC_8
+gdt,VAR_3
+i,VAR_4

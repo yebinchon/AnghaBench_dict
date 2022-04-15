@@ -1,0 +1,16 @@
+LDNS_MAX_DOMAINLEN,VAR_0
+LDNS_WIREPARSE_ERR_BUFFER_TOO_SMALL,VAR_1
+LDNS_WIREPARSE_ERR_DOMAINNAME_OVERFLOW,VAR_2
+LDNS_WIREPARSE_ERR_OK,VAR_3
+RET_ERR,FUNC_0
+memmove,FUNC_1
+sldns_str2wire_dname_buf_rel,FUNC_2
+sldns_str2wire_dname_buf_origin,FUNC_3
+str,VAR_4
+buf,VAR_5
+len,VAR_6
+origin,VAR_7
+origin_len,VAR_8
+dlen,VAR_9
+rel,VAR_10
+s,VAR_11

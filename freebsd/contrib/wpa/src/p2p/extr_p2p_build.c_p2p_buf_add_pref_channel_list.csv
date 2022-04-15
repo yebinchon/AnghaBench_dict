@@ -1,0 +1,16 @@
+MSG_DEBUG,VAR_0
+OUI_QCA,VAR_1
+QCA_VENDOR_ELEM_P2P_PREF_CHAN_LIST,VAR_2
+WLAN_EID_VENDOR_SPECIFIC,VAR_3
+p2p_freq_to_channel,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_put_be24,FUNC_2
+wpabuf_put_u8,FUNC_3
+p2p_buf_add_pref_channel_list,FUNC_4
+buf,VAR_4
+preferred_freq_list,VAR_5
+size,VAR_6
+i,VAR_7
+count,VAR_8
+op_class,VAR_9
+op_channel,VAR_10

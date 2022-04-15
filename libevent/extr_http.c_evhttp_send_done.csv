@@ -1,0 +1,17 @@
+EVHTTP_REQ_OWN_CONNECTION,VAR_0
+EVUTIL_ASSERT,FUNC_0
+REQ_VERSION_BEFORE,FUNC_1
+TAILQ_FIRST,FUNC_2
+TAILQ_REMOVE,FUNC_3
+evhttp_associate_new_request_with_connection,FUNC_4
+evhttp_connection_free,FUNC_5
+evhttp_is_connection_keepalive,FUNC_6
+evhttp_is_request_connection_close,FUNC_7
+evhttp_request_free,FUNC_8
+next,VAR_1
+stub1,FUNC_9
+evhttp_send_done,FUNC_10
+evcon,VAR_2
+arg,VAR_3
+need_close,VAR_4
+req,VAR_5

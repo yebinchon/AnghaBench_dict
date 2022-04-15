@@ -1,0 +1,10 @@
+FALSE,VAR_0
+MNTOPT_NOSETUID,VAR_1
+MNTOPT_SETUID,VAR_2
+VFS_NOSETUID,VAR_3
+vfs_clearmntopt,FUNC_0
+vfs_setmntopt,FUNC_1
+setuid_changed_cb,FUNC_2
+arg,VAR_4
+newval,VAR_5
+zfsvfs,VAR_6

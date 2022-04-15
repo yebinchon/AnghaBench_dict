@@ -1,0 +1,16 @@
+AC_VERB_GET_GPIO_DATA,VAR_0
+AC_VERB_GET_GPIO_DIRECTION,VAR_1
+AC_VERB_GET_GPIO_MASK,VAR_2
+AC_VERB_SET_GPIO_DATA,VAR_3
+AC_VERB_SET_GPIO_DIRECTION,VAR_4
+AC_VERB_SET_GPIO_MASK,VAR_5
+msleep,FUNC_0
+snd_hda_codec_read,FUNC_1
+snd_hda_codec_write,FUNC_2
+alc882_gpio_mute,FUNC_3
+codec,VAR_6
+pin,VAR_7
+muted,VAR_8
+gpiostate,VAR_9
+gpiomask,VAR_10
+gpiodir,VAR_11

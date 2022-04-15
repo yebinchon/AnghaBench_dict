@@ -1,0 +1,16 @@
+PCAP_ERRBUF_SIZE,VAR_0
+PCAP_ERROR_NO_SUCH_DEVICE,VAR_1
+bpf_open_and_bind,FUNC_0
+close,FUNC_1
+errno,VAR_2
+free,FUNC_2
+malloc,FUNC_3
+pcap_fmt_errmsg_for_errno,FUNC_4
+strcat,FUNC_5
+strcpy,FUNC_6
+strlen,FUNC_7
+strncmp,FUNC_8
+check_bpf_bindable,FUNC_9
+name,VAR_3
+fd,VAR_4
+errbuf,VAR_5

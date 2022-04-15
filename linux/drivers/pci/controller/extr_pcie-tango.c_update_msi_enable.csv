@@ -1,0 +1,14 @@
+BIT,FUNC_0
+SMP8759_ENABLE,VAR_0
+readl_relaxed,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel_relaxed,FUNC_4
+update_msi_enable,FUNC_5
+d,VAR_1
+unmask,VAR_2
+flags,VAR_3
+pcie,VAR_4
+offset,VAR_5
+bit,VAR_6
+val,VAR_7

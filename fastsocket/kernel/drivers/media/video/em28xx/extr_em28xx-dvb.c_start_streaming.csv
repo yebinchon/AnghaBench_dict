@@ -1,0 +1,13 @@
+EM28XX_DIGITAL_MODE,VAR_0
+EM28XX_DVB_MAX_PACKETS,VAR_1
+EM28XX_DVB_NUM_BUFS,VAR_2
+dvb_isoc_copy,VAR_3
+em28xx_init_isoc,FUNC_0
+em28xx_isoc_dvb_max_packetsize,FUNC_1
+em28xx_set_mode,FUNC_2
+usb_set_interface,FUNC_3
+start_streaming,FUNC_4
+dvb,VAR_4
+rc,VAR_5
+dev,VAR_6
+max_dvb_packet_size,VAR_7

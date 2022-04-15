@@ -1,0 +1,15 @@
+SDHCI_ARASAN_QUIRK_FORCE_CDTEST,VAR_0
+SDHCI_CTRL_CDTEST_EN,VAR_1
+SDHCI_CTRL_CDTEST_INS,VAR_2
+SDHCI_HOST_CONTROL,VAR_3
+sdhci_pltfm_priv,FUNC_0
+sdhci_priv,FUNC_1
+sdhci_readb,FUNC_2
+sdhci_reset,FUNC_3
+sdhci_writeb,FUNC_4
+sdhci_arasan_reset,FUNC_5
+host,VAR_4
+mask,VAR_5
+ctrl,VAR_6
+pltfm_host,VAR_7
+sdhci_arasan,VAR_8

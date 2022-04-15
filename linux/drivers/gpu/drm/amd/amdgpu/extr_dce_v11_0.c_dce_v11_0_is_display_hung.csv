@@ -1,0 +1,15 @@
+CRTC_CONTROL,VAR_0
+CRTC_MASTER_EN,VAR_1
+REG_GET_FIELD,FUNC_0
+RREG32,FUNC_1
+crtc_offsets,VAR_2
+mmCRTC_CONTROL,VAR_3
+mmCRTC_STATUS_HV_COUNT,VAR_4
+udelay,FUNC_2
+dce_v11_0_is_display_hung,FUNC_3
+adev,VAR_5
+crtc_hung,VAR_6
+crtc_status,VAR_7
+i,VAR_8
+j,VAR_9
+tmp,VAR_10

@@ -1,0 +1,16 @@
+ATA_SMART,VAR_0
+ATA_SMART_SUB_CMD_READ_LOG,VAR_1
+SATI_DATA_DIRECTION_IN,VAR_2
+SAT_PROTOCOL_PIO_DATA_IN,VAR_3
+sati_cb_get_h2d_register_fis_address,FUNC_0
+sati_set_ata_command,FUNC_1
+sati_set_ata_features,FUNC_2
+sati_set_ata_lba_high,FUNC_3
+sati_set_ata_lba_low,FUNC_4
+sati_set_ata_lba_mid,FUNC_5
+sati_ata_smart_read_log_construct,FUNC_6
+ata_io,VAR_4
+sequence,VAR_5
+log_address,VAR_6
+transfer_length,VAR_7
+register_fis,VAR_8

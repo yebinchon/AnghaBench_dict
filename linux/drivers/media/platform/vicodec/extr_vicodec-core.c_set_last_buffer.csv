@@ -1,0 +1,12 @@
+V4L2_BUF_FLAG_LAST,VAR_0
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_1
+VB2_BUF_STATE_DONE,VAR_2
+get_q_data,FUNC_0
+v4l2_m2m_buf_copy_metadata,FUNC_1
+v4l2_m2m_buf_done,FUNC_2
+vb2_set_plane_payload,FUNC_3
+set_last_buffer,FUNC_4
+dst_buf,VAR_3
+src_buf,VAR_4
+ctx,VAR_5
+q_dst,VAR_6

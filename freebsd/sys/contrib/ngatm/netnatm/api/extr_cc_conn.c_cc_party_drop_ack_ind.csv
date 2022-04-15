@@ -1,0 +1,16 @@
+CONN_SIG_DROP_PARTY_ACK_IND,VAR_0
+PARTY_WAIT_DESTROY,VAR_1
+USER_SIG_ADD_PARTY_REJ,VAR_2
+USER_SIG_DROP_PARTY_IND,VAR_3
+USER_SIG_DROP_PARTY_OK,VAR_4
+cc_conn_sigtab,VAR_5
+cc_party_find,FUNC_0
+cc_party_log,FUNC_1
+cc_party_set_state,FUNC_2
+cc_user_sig,FUNC_3
+memset,FUNC_4
+ptab,VAR_6
+cc_party_drop_ack_ind,FUNC_5
+conn,VAR_7
+drop,VAR_8
+party,VAR_9

@@ -1,0 +1,9 @@
+REG_HDMI_8996_PHY_CFG,VAR_0
+hdmi_phy_write,FUNC_0
+hw_clk_to_pll,FUNC_1
+pll_get_phy,FUNC_2
+usleep_range,FUNC_3
+hdmi_8996_pll_unprepare,FUNC_4
+hw,VAR_1
+pll,VAR_2
+phy,VAR_3

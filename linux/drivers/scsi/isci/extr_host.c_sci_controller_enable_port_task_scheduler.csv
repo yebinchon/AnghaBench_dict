@@ -1,0 +1,8 @@
+ETM_ENABLE,VAR_0
+PTSG_ENABLE,VAR_1
+SCU_PTSGCR_GEN_BIT,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+sci_controller_enable_port_task_scheduler,FUNC_3
+ihost,VAR_2
+port_task_scheduler_value,VAR_3

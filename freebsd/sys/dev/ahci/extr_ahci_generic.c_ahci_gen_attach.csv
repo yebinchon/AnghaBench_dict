@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+ahci_attach,FUNC_0
+ahci_gen_ctlr_reset,FUNC_1
+bus_alloc_resource_any,FUNC_2
+bus_release_resource,FUNC_3
+device_get_softc,FUNC_4
+ahci_gen_attach,FUNC_5
+dev,VAR_3
+ctlr,VAR_4
+error,VAR_5

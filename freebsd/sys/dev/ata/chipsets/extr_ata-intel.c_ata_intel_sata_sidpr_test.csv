@@ -1,0 +1,15 @@
+ATA_NO_SLAVE,VAR_0
+ATA_SCONTROL,VAR_1
+ATA_SC_IPM_DIS_PARTIAL,VAR_2
+ATA_SC_IPM_DIS_SLUMBER,VAR_3
+ATA_SC_IPM_MASK,VAR_4
+ata_intel_sata_sidpr_read,FUNC_0
+ata_intel_sata_sidpr_write,FUNC_1
+bootverbose,VAR_5
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+ata_intel_sata_sidpr_test,FUNC_4
+dev,VAR_6
+ch,VAR_7
+port,VAR_8
+val,VAR_9

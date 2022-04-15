@@ -1,0 +1,15 @@
+DPU_ATRACE_BEGIN,FUNC_0
+DPU_ATRACE_END,FUNC_1
+DPU_CRTC_FRAME_DONE_TIMEOUT_MS,VAR_0
+DPU_DEBUG,FUNC_2
+DRM_ERROR,FUNC_3
+ETIMEDOUT,VAR_1
+atomic_read,FUNC_4
+msecs_to_jiffies,FUNC_5
+to_dpu_crtc,FUNC_6
+wait_for_completion_timeout,FUNC_7
+_dpu_crtc_wait_for_frame_done,FUNC_8
+crtc,VAR_2
+dpu_crtc,VAR_3
+ret,VAR_4
+rc,VAR_5

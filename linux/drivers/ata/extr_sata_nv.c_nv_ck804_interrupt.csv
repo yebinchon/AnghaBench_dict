@@ -1,0 +1,12 @@
+NV_INT_STATUS_CK804,VAR_0
+NV_MMIO_BAR,VAR_1
+nv_do_interrupt,FUNC_0
+readb,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+nv_ck804_interrupt,FUNC_4
+irq,VAR_2
+dev_instance,VAR_3
+host,VAR_4
+irq_stat,VAR_5
+ret,VAR_6

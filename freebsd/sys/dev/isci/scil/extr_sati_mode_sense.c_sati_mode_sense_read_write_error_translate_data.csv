@@ -1,0 +1,13 @@
+SCSI_MODE_PAGE_READ_WRITE_ERROR,VAR_0
+SCSI_MODE_SENSE_PC_SHIFT,VAR_1
+sati_cb_get_cdb_address,FUNC_0
+sati_get_cdb_byte,FUNC_1
+sati_mode_sense_copy_initial_data,FUNC_2
+sati_mode_sense_read_write_error_translate_data,FUNC_3
+sequence,VAR_2
+scsi_io,VAR_3
+identify,VAR_4
+offset,VAR_5
+cdb,VAR_6
+page_control,VAR_7
+page_length,VAR_8

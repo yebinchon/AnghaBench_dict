@@ -1,0 +1,10 @@
+I2C_RFIFO_RESET,VAR_0
+I2C_WFIFO_RESET,VAR_1
+REG_RDCONF,VAR_2
+REG_WRCONF,VAR_3
+zx2967_i2c_readl,FUNC_0
+zx2967_i2c_writel,FUNC_1
+zx2967_i2c_flush_fifos,FUNC_2
+i2c,VAR_4
+offset,VAR_5
+val,VAR_6

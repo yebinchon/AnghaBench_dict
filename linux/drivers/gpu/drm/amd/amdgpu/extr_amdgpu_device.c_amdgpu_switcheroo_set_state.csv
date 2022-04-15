@@ -1,0 +1,16 @@
+DRM_SWITCH_POWER_CHANGING,VAR_0
+DRM_SWITCH_POWER_OFF,VAR_1
+DRM_SWITCH_POWER_ON,VAR_2
+VGA_SWITCHEROO_OFF,VAR_3
+VGA_SWITCHEROO_ON,VAR_4
+amdgpu_device_is_px,FUNC_0
+amdgpu_device_resume,FUNC_1
+amdgpu_device_suspend,FUNC_2
+drm_kms_helper_poll_disable,FUNC_3
+drm_kms_helper_poll_enable,FUNC_4
+pci_get_drvdata,FUNC_5
+pr_info,FUNC_6
+amdgpu_switcheroo_set_state,FUNC_7
+pdev,VAR_5
+state,VAR_6
+dev,VAR_7

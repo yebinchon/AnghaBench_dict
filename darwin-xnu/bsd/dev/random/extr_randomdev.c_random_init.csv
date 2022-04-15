@@ -1,0 +1,13 @@
+DEVFS_CHAR,VAR_0
+GID_WHEEL,VAR_1
+RANDOM_MAJOR,VAR_2
+RANDOM_MINOR,VAR_3
+UID_ROOT,VAR_4
+URANDOM_MINOR,VAR_5
+cdevsw_add,FUNC_0
+devfs_make_node,FUNC_1
+makedev,FUNC_2
+panic,FUNC_3
+random_cdevsw,VAR_6
+random_init,FUNC_4
+ret,VAR_7

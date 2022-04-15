@@ -1,0 +1,12 @@
+ACPI_SBS_BATTERY,VAR_0
+ACPI_SBS_MANAGER,VAR_1
+SMBUS_READ_WORD,VAR_2
+SMBUS_WRITE_WORD,VAR_3
+acpi_smbus_read,FUNC_0
+acpi_smbus_write,FUNC_1
+acpi_battery_set_alarm,FUNC_2
+battery,VAR_4
+sbs,VAR_5
+value,VAR_6
+sel,VAR_7
+ret,VAR_8

@@ -1,0 +1,15 @@
+__ov5695_start_stream,FUNC_0
+__ov5695_stop_stream,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+to_ov5695,FUNC_7
+v4l2_err,FUNC_8
+ov5695_s_stream,FUNC_9
+sd,VAR_0
+on,VAR_1
+ov5695,VAR_2
+client,VAR_3
+ret,VAR_4

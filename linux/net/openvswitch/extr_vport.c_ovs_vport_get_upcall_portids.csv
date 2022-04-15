@@ -1,0 +1,9 @@
+OVS_DP_F_VPORT_PIDS,VAR_0
+OVS_VPORT_ATTR_UPCALL_PID,VAR_1
+nla_put,FUNC_0
+nla_put_u32,FUNC_1
+rcu_dereference_ovsl,FUNC_2
+ovs_vport_get_upcall_portids,FUNC_3
+vport,VAR_2
+skb,VAR_3
+ids,VAR_4

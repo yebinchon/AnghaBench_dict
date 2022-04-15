@@ -1,0 +1,17 @@
+AN_LOCK,FUNC_0
+AN_UNLOCK,FUNC_1
+IFF_DRV_RUNNING,VAR_0
+an_release_resources,FUNC_2
+an_stop,FUNC_3
+bus_teardown_intr,FUNC_4
+callout_drain,FUNC_5
+device_get_softc,FUNC_6
+device_printf,FUNC_7
+ether_ifdetach,FUNC_8
+if_free,FUNC_9
+ifmedia_removeall,FUNC_10
+mtx_destroy,FUNC_11
+an_detach,FUNC_12
+dev,VAR_1
+sc,VAR_2
+ifp,VAR_3

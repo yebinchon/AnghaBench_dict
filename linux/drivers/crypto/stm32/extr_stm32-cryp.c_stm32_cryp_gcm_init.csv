@@ -1,0 +1,15 @@
+CRYP_CR,VAR_0
+CR_CRYPEN,VAR_1
+CR_PH_INIT,VAR_2
+GCM_CTR_INIT,VAR_3
+cpu_to_be32,FUNC_0
+dev_err,FUNC_1
+memcpy,FUNC_2
+stm32_cryp_hw_write_iv,FUNC_3
+stm32_cryp_wait_enable,FUNC_4
+stm32_cryp_write,FUNC_5
+stm32_cryp_gcm_init,FUNC_6
+cryp,VAR_4
+cfg,VAR_5
+ret,VAR_6
+iv,VAR_7

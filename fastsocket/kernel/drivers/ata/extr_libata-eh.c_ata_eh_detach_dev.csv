@@ -1,0 +1,15 @@
+ATA_DFLAG_DETACH,VAR_0
+ATA_DFLAG_DETACHED,VAR_1
+ATA_EH_PERDEV_MASK,VAR_2
+ATA_PFLAG_SCSI_HOTPLUG,VAR_3
+ata_dev_disable,FUNC_0
+ata_eh_clear_action,FUNC_1
+ata_scsi_offline_dev,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ata_eh_detach_dev,FUNC_5
+dev,VAR_4
+link,VAR_5
+ap,VAR_6
+ehc,VAR_7
+flags,VAR_8

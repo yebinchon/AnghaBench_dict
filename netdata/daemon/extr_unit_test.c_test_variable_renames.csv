@@ -1,0 +1,17 @@
+RRDSET_TYPE_LINE,VAR_0
+RRD_ALGORITHM_INCREMENTAL,VAR_1
+buffer_create,FUNC_0
+buffer_free,FUNC_1
+buffer_tostring,FUNC_2
+fprintf,FUNC_3
+health_api_v1_chart_variables2json,FUNC_4
+rrddim_add,FUNC_5
+rrddim_set_name,FUNC_6
+rrdset_create_localhost,FUNC_7
+rrdset_set_name,FUNC_8
+stderr,VAR_2
+test_variable_renames,FUNC_9
+st,VAR_3
+rd1,VAR_4
+rd2,VAR_5
+buf,VAR_6

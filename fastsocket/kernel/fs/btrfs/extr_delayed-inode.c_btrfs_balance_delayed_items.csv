@@ -1,0 +1,11 @@
+BTRFS_DELAYED_BACKGROUND,VAR_0
+BTRFS_DELAYED_WRITEBACK,VAR_1
+HZ,VAR_2
+atomic_read,FUNC_0
+btrfs_get_delayed_root,FUNC_1
+btrfs_wq_run_delayed_node,FUNC_2
+wait_event_interruptible_timeout,FUNC_3
+btrfs_balance_delayed_items,FUNC_4
+root,VAR_3
+delayed_root,VAR_4
+ret,VAR_5

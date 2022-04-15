@@ -1,0 +1,17 @@
+ALL_WORKERS,VAR_0
+DISABLE_DDL_PROPAGATION,VAR_1
+DeparseCreateEnumStmt,FUNC_0
+ENABLE_DDL_PROPAGATION,VAR_2
+EnsureCoordinator,FUNC_1
+EnsureSequentialModeForTypeDDL,FUNC_2
+NIL,VAR_3
+NodeDDLTaskList,FUNC_3
+QualifyTreeNode,FUNC_4
+ShouldPropagateTypeCreate,FUNC_5
+WrapCreateOrReplace,FUNC_6
+list_make3,FUNC_7
+PlanCreateEnumStmt,FUNC_8
+stmt,VAR_4
+queryString,VAR_5
+createEnumStmtSql,VAR_6
+commands,VAR_7

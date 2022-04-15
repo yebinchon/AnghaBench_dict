@@ -1,0 +1,13 @@
+async_chainiv_schedule_work,FUNC_0
+crypto_ablkcipher_ctx,FUNC_1
+crypto_ablkcipher_encrypt,FUNC_2
+crypto_ablkcipher_ivsize,FUNC_3
+memcpy,FUNC_4
+skcipher_givcrypt_reqctx,FUNC_5
+skcipher_givcrypt_reqtfm,FUNC_6
+async_chainiv_givencrypt_tail,FUNC_7
+req,VAR_0
+geniv,VAR_1
+ctx,VAR_2
+subreq,VAR_3
+ivsize,VAR_4

@@ -1,0 +1,12 @@
+IOMMU_PTE_MODE,FUNC_0
+IOMMU_PTE_PAGE,FUNC_1
+IOMMU_PTE_PRESENT,FUNC_2
+cmpxchg64,FUNC_3
+free_sub_pt,FUNC_4
+pr_warn,FUNC_5
+free_clear_pte,FUNC_6
+pte,VAR_0
+pteval,VAR_1
+freelist,VAR_2
+pt,VAR_3
+mode,VAR_4

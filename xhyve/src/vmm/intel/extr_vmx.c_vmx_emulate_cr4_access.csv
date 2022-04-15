@@ -1,0 +1,13 @@
+HANDLED,VAR_0
+UNHANDLED,VAR_1
+VMCS_CR4_SHADOW,VAR_2
+VMCS_GUEST_CR4,VAR_3
+cr4_ones_mask,VAR_4
+cr4_zeros_mask,VAR_5
+vmcs_write,FUNC_0
+vmx_get_guest_reg,FUNC_1
+vmx_emulate_cr4_access,FUNC_2
+vcpu,VAR_6
+exitqual,VAR_7
+crval,VAR_8
+regval,VAR_9

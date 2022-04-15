@@ -1,0 +1,15 @@
+ACERHDF_FAN_AUTO,VAR_0
+ACERHDF_FAN_OFF,VAR_1
+EINVAL,VAR_2
+acerhdf_change_fanstate,FUNC_0
+acerhdf_get_fanstate,FUNC_1
+acerhdf_get_temp,FUNC_2
+acerhdf_revert_to_bios_mode,FUNC_3
+kernelmode,VAR_3
+pr_err,FUNC_4
+acerhdf_set_cur_state,FUNC_5
+cdev,VAR_4
+state,VAR_5
+cur_temp,VAR_6
+cur_state,VAR_7
+err,VAR_8

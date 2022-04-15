@@ -1,0 +1,9 @@
+__dasd_cancel_req,FUNC_0
+get_ccwdev_lock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+dasd_cancel_req,FUNC_4
+cqr,VAR_0
+device,VAR_1
+flags,VAR_2
+rc,VAR_3

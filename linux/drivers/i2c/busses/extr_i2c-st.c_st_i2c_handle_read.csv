@@ -1,0 +1,17 @@
+SSC_I2C,VAR_0
+SSC_I2C_ACKG,VAR_1
+SSC_I2C_TXENB,VAR_2
+SSC_IEN,VAR_3
+SSC_IEN_ARBLEN,VAR_4
+SSC_IEN_NACKEN,VAR_5
+SSC_RBUF,VAR_6
+readl_relaxed,FUNC_0
+st_i2c_clr_bits,FUNC_1
+st_i2c_rd_fill_tx_fifo,FUNC_2
+st_i2c_read_rx_fifo,FUNC_3
+st_i2c_terminate_xfer,FUNC_4
+writel_relaxed,FUNC_5
+st_i2c_handle_read,FUNC_6
+i2c_dev,VAR_7
+c,VAR_8
+ien,VAR_9

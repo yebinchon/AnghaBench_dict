@@ -1,0 +1,16 @@
+arch_phys_wc_del,FUNC_0
+fb_dealloc_cmap,FUNC_1
+fb_destroy_modedb,FUNC_2
+framebuffer_release,FUNC_3
+iounmap,FUNC_4
+kfree,FUNC_5
+platform_get_drvdata,FUNC_6
+release_mem_region,FUNC_7
+release_region,FUNC_8
+sysfs_remove_group,FUNC_9
+unregister_framebuffer,FUNC_10
+uvesafb_dev_attgrp,VAR_0
+uvesafb_remove,FUNC_11
+dev,VAR_1
+info,VAR_2
+par,VAR_3

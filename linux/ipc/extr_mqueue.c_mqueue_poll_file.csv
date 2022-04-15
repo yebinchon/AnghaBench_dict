@@ -1,0 +1,14 @@
+EPOLLIN,VAR_0
+EPOLLOUT,VAR_1
+EPOLLRDNORM,VAR_2
+EPOLLWRNORM,VAR_3
+MQUEUE_I,FUNC_0
+file_inode,FUNC_1
+poll_wait,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+mqueue_poll_file,FUNC_5
+filp,VAR_4
+poll_tab,VAR_5
+info,VAR_6
+retval,VAR_7

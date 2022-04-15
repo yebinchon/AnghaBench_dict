@@ -1,0 +1,16 @@
+ASCV_MCODE_CHKSUM_W,VAR_0
+ASCV_MCODE_SIZE_W,VAR_1
+ASC_CODE_SEC_BEG,VAR_2
+ASC_DBG,FUNC_0
+AscMemSumLramWord,FUNC_1
+AscMemWordCopyPtrToLram,FUNC_2
+AscMemWordSetLram,FUNC_3
+AscWriteLramWord,FUNC_4
+AscLoadMicroCode,FUNC_5
+iop_base,VAR_3
+s_addr,VAR_4
+mcode_buf,VAR_5
+mcode_size,VAR_6
+chksum,VAR_7
+mcode_word_size,VAR_8
+mcode_chksum,VAR_9

@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+GRND_NONBLOCK,VAR_1
+GRND_VALIDFLAGS,VAR_2
+IOSIZE_MAX,VAR_3
+UIO_READ,VAR_4
+UIO_USERSPACE,VAR_5
+read_random_uio,FUNC_0
+kern_getrandom,FUNC_1
+td,VAR_6
+user_buf,VAR_7
+buflen,VAR_8
+flags,VAR_9
+auio,VAR_10
+aiov,VAR_11
+error,VAR_12

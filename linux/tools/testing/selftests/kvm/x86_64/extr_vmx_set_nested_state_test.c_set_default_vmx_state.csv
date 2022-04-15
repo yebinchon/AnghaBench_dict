@@ -1,0 +1,10 @@
+KVM_STATE_NESTED_EVMCS,VAR_0
+KVM_STATE_NESTED_GUEST_MODE,VAR_1
+KVM_STATE_NESTED_RUN_PENDING,VAR_2
+VMCS12_REVISION,VAR_3
+have_evmcs,VAR_4
+memset,FUNC_0
+set_revision_id_for_vmcs12,FUNC_1
+set_default_vmx_state,FUNC_2
+state,VAR_5
+size,VAR_6

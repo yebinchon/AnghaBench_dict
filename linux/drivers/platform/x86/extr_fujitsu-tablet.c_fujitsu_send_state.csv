@@ -1,0 +1,13 @@
+FORCE_TABLET_MODE_IF_UNDOCK,VAR_0
+INVERT_DOCK_STATE_BIT,VAR_1
+INVERT_TABLET_MODE_BIT,VAR_2
+SW_DOCK,VAR_3
+SW_TABLET_MODE,VAR_4
+fujitsu,VAR_5
+fujitsu_read_register,FUNC_0
+input_report_switch,FUNC_1
+input_sync,FUNC_2
+fujitsu_send_state,FUNC_3
+state,VAR_6
+dock,VAR_7
+tablet_mode,VAR_8

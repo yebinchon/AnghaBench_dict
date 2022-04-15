@@ -1,0 +1,16 @@
+CONTROL,VAR_0
+ES_1373_SPDIF_EN,VAR_1
+ES_1373_SPDIF_THRU,VAR_2
+ES_REG,FUNC_0
+STATUS,VAR_3
+outl,FUNC_1
+snd_kcontrol_chip,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+snd_es1371_spdif_put,FUNC_5
+kcontrol,VAR_4
+ucontrol,VAR_5
+ensoniq,VAR_6
+nval1,VAR_7
+nval2,VAR_8
+change,VAR_9

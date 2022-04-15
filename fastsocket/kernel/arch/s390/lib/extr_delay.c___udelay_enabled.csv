@@ -1,0 +1,17 @@
+PSW_MASK_EXT,VAR_0
+PSW_MASK_IO,VAR_1
+PSW_MASK_WAIT,VAR_2
+S390_lowcore,VAR_3
+__load_psw_mask,FUNC_0
+get_clock,FUNC_1
+local_irq_disable,FUNC_2
+local_tick_disable,FUNC_3
+local_tick_enable,FUNC_4
+psw_kernel_bits,VAR_4
+set_clock_comparator,FUNC_5
+trace_hardirqs_on,FUNC_6
+__udelay_enabled,FUNC_7
+usecs,VAR_5
+mask,VAR_6
+clock_saved,VAR_7
+end,VAR_8

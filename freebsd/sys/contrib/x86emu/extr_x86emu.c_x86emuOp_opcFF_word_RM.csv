@@ -1,0 +1,14 @@
+SYSMODE_PREFIX_DATA,VAR_0
+decode_rl_address,FUNC_0
+decode_rl_word_register,FUNC_1
+fetch_data_word,FUNC_2
+fetch_decode_modrm,FUNC_3
+push_word,FUNC_4
+x86emuOp16_opcFF_word_RM,FUNC_5
+x86emuOp32_opcFF_word_RM,FUNC_6
+x86emu_halt_sys,FUNC_7
+x86emuOp_opcFF_word_RM,FUNC_8
+emu,VAR_1
+destoffset,VAR_2
+destval,VAR_3
+destval2,VAR_4

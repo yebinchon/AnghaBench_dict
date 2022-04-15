@@ -1,0 +1,12 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+PCI_DEVICE_ID_THUNDER_NIC_PF,VAR_2
+PCI_VENDOR_ID_CAVIUM,VAR_3
+VNIC_PF_DEVSTR,VAR_4
+device_set_desc,FUNC_0
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+nicpf_probe,FUNC_3
+dev,VAR_5
+vendor_id,VAR_6
+device_id,VAR_7

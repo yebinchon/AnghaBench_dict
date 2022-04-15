@@ -1,0 +1,15 @@
+EIO,VAR_0
+NVME_CQ_IRQ_ENABLED,VAR_1
+NVME_QUEUE_PHYS_CONTIG,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le64,FUNC_1
+memset,FUNC_2
+nvme_admin_create_cq,VAR_3
+nvme_submit_admin_cmd,FUNC_3
+adapter_alloc_cq,FUNC_4
+dev,VAR_4
+qid,VAR_5
+nvmeq,VAR_6
+status,VAR_7
+c,VAR_8
+flags,VAR_9

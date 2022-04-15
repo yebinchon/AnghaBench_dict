@@ -1,0 +1,11 @@
+dev_memalloc_noio,VAR_0
+device_for_each_child,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+pm_runtime_set_memalloc_noio,FUNC_5
+dev,VAR_1
+enable,VAR_2
+dev_hotplug_mutex,VAR_3
+enabled,VAR_4

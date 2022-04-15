@@ -1,0 +1,11 @@
+MSR_BITMAP_MODE_X2APIC,VAR_0
+MSR_BITMAP_MODE_X2APIC_APICV,VAR_1
+to_vmx,FUNC_0
+vmx_msr_bitmap_mode,FUNC_1
+vmx_update_msr_bitmap_x2apic,FUNC_2
+vmx_update_msr_bitmap,FUNC_3
+vcpu,VAR_2
+vmx,VAR_3
+msr_bitmap,VAR_4
+mode,VAR_5
+changed,VAR_6

@@ -1,0 +1,13 @@
+SPRN_TCR,VAR_0
+TCR_WIE,VAR_1
+TCR_WRC,FUNC_0
+WDTP,FUNC_1
+WDTP_MASK,VAR_2
+WRC_CHIP,VAR_3
+__booke_wdt_ping,FUNC_2
+booke_wdt_period,VAR_4
+mfspr,FUNC_3
+mtspr,FUNC_4
+__booke_wdt_enable,FUNC_5
+data,VAR_5
+val,VAR_6

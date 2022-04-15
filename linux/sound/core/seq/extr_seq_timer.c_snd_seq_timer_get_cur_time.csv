@@ -1,0 +1,10 @@
+ktime_get_ts64,FUNC_0
+snd_seq_sanity_real_time,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+timespec64_sub,FUNC_4
+snd_seq_timer_get_cur_time,FUNC_5
+tmr,VAR_0
+cur_time,VAR_1
+flags,VAR_2
+tm,VAR_3

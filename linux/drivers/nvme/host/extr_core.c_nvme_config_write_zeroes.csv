@@ -1,0 +1,10 @@
+NVME_CTRL_ONCS_WRITE_ZEROES,VAR_0
+NVME_QUIRK_DISABLE_WRITE_ZEROES,VAR_1
+UINT_MAX,VAR_2
+USHRT_MAX,VAR_3
+blk_queue_max_write_zeroes_sectors,FUNC_0
+nvme_config_write_zeroes,FUNC_1
+disk,VAR_4
+ns,VAR_5
+max_sectors,VAR_6
+bs,VAR_7

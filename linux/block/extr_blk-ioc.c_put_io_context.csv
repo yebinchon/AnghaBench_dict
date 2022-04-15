@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+atomic_long_dec_and_test,FUNC_1
+atomic_long_read,FUNC_2
+hlist_empty,FUNC_3
+iocontext_cachep,VAR_0
+kmem_cache_free,FUNC_4
+queue_work,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+system_power_efficient_wq,VAR_1
+put_io_context,FUNC_8
+ioc,VAR_2
+flags,VAR_3
+free_ioc,VAR_4

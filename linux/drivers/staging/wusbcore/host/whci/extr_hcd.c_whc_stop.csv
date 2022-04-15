@@ -1,0 +1,16 @@
+WUSBCMD_RUN,VAR_0
+WUSBINTR,VAR_1
+WUSBSTS,VAR_2
+WUSBSTS_HCHALTED,VAR_3
+le_writel,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+usb_hcd_to_wusbhc,FUNC_3
+whc_write_wusbcmd,FUNC_4
+whci_wait_for,FUNC_5
+wusb_cluster_id_put,FUNC_6
+wusbhc_to_whc,FUNC_7
+whc_stop,FUNC_8
+usb_hcd,VAR_4
+wusbhc,VAR_5
+whc,VAR_6

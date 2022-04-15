@@ -1,0 +1,13 @@
+ADD_STA,VAR_0
+CMD_ASYNC,VAR_1
+IWL_ERR,FUNC_0
+STA_FLG_PS,VAR_2
+STA_MODE_MODIFY,VAR_3
+cpu_to_le32,FUNC_1
+iwl_mvm_send_cmd_pdu,FUNC_2
+iwl_mvm_sta_modify_ps_wake,FUNC_3
+mvm,VAR_4
+sta,VAR_5
+mvmsta,VAR_6
+cmd,VAR_7
+ret,VAR_8

@@ -1,0 +1,15 @@
+H2O_SEND_STATE_FINAL,VAR_0
+H2O_SEND_STATE_IN_PROGRESS,VAR_1
+assert,FUNC_0
+h2o_doublebuffer_prepare,FUNC_1
+h2o_mruby_sender_do_send,FUNC_2
+h2o_sendvec_init_raw,FUNC_3
+h2o_mruby_sender_do_send_buffer,FUNC_4
+generator,VAR_2
+db,VAR_3
+input,VAR_4
+is_final,VAR_5
+buf,VAR_6
+bufcnt,VAR_7
+send_state,VAR_8
+vec,VAR_9

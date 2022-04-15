@@ -1,0 +1,7 @@
+process_intra_lower_16x16_msa,FUNC_0
+process_intra_upper_16x16_msa,FUNC_1
+hevc_intra_pred_plane_32x32_msa,FUNC_2
+src_top,VAR_0
+src_left,VAR_1
+dst,VAR_2
+stride,VAR_3

@@ -1,0 +1,11 @@
+NBD_FLAG_READ_ONLY,VAR_0
+NBD_FLAG_SEND_FLUSH,VAR_1
+NBD_FLAG_SEND_FUA,VAR_2
+NBD_FLAG_SEND_TRIM,VAR_3
+QUEUE_FLAG_DISCARD,VAR_4
+blk_queue_flag_set,FUNC_0
+blk_queue_write_cache,FUNC_1
+set_disk_ro,FUNC_2
+nbd_parse_flags,FUNC_3
+nbd,VAR_5
+config,VAR_6

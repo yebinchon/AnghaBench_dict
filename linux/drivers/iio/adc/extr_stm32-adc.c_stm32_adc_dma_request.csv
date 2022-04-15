@@ -1,0 +1,16 @@
+DMA_SLAVE_BUSWIDTH_2_BYTES,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+STM32_DMA_BUFFER_SIZE,VAR_3
+dma_alloc_coherent,FUNC_0
+dma_free_coherent,FUNC_1
+dma_release_channel,FUNC_2
+dma_request_slave_channel,FUNC_3
+dmaengine_slave_config,FUNC_4
+iio_priv,FUNC_5
+memset,FUNC_6
+stm32_adc_dma_request,FUNC_7
+indio_dev,VAR_4
+adc,VAR_5
+config,VAR_6
+ret,VAR_7

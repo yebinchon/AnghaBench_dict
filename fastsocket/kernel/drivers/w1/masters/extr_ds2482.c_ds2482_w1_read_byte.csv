@@ -1,0 +1,14 @@
+DS2482_CMD_1WIRE_READ_BYTE,VAR_0
+DS2482_PTR_CODE_DATA,VAR_1
+ds2482_select_register,FUNC_0
+ds2482_send_cmd,FUNC_1
+ds2482_set_channel,FUNC_2
+ds2482_wait_1wire_idle,FUNC_3
+i2c_smbus_read_byte,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+ds2482_w1_read_byte,FUNC_7
+data,VAR_2
+pchan,VAR_3
+pdev,VAR_4
+result,VAR_5

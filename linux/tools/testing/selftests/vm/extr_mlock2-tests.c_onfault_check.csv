@@ -1,0 +1,13 @@
+PFN_MASK,VAR_0
+PRESENT_BIT,VAR_1
+UNEVICTABLE_BIT,VAR_2
+get_kpageflags,FUNC_0
+get_pageflags,FUNC_1
+getpagesize,FUNC_2
+is_vma_lock_on_fault,FUNC_3
+printf,FUNC_4
+onfault_check,FUNC_5
+map,VAR_3
+page_size,VAR_4
+page1_flags,VAR_5
+page2_flags,VAR_6

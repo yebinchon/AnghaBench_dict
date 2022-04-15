@@ -1,0 +1,13 @@
+ctl_has_mute,FUNC_0
+get_amp_channels,FUNC_1
+snd_hda_enable_beep_device,FUNC_2
+snd_hda_mixer_amp_switch_put,FUNC_3
+snd_kcontrol_chip,FUNC_4
+snd_hda_mixer_amp_switch_put_beep,FUNC_5
+kcontrol,VAR_0
+ucontrol,VAR_1
+codec,VAR_2
+beep,VAR_3
+chs,VAR_4
+enable,VAR_5
+valp,VAR_6

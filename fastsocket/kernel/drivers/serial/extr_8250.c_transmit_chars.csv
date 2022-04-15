@@ -1,0 +1,16 @@
+DEBUG_INTR,FUNC_0
+UART_TX,VAR_0
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+__stop_tx,FUNC_1
+serial8250_stop_tx,FUNC_2
+serial_out,FUNC_3
+serial_outp,FUNC_4
+uart_circ_chars_pending,FUNC_5
+uart_circ_empty,FUNC_6
+uart_tx_stopped,FUNC_7
+uart_write_wakeup,FUNC_8
+transmit_chars,FUNC_9
+up,VAR_3
+xmit,VAR_4
+count,VAR_5

@@ -1,0 +1,10 @@
+SW_I2C_ADDR,VAR_0
+SW_I2C_EN,VAR_1
+SW_SCL_OUT,VAR_2
+SW_SDA_OUT,VAR_3
+mxl111sf_write_reg,FUNC_0
+mxl_fail,FUNC_1
+mxl_i2c,FUNC_2
+mxl111sf_i2c_nack,FUNC_3
+state,VAR_4
+ret,VAR_5

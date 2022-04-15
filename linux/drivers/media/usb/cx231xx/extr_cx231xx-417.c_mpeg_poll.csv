@@ -1,0 +1,16 @@
+EPOLLIN,VAR_0
+EPOLLPRI,VAR_1
+EPOLLRDNORM,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+poll_requested_events,FUNC_2
+poll_wait,FUNC_3
+v4l2_event_pending,FUNC_4
+videobuf_poll_stream,FUNC_5
+mpeg_poll,FUNC_6
+file,VAR_3
+wait,VAR_4
+req_events,VAR_5
+fh,VAR_6
+dev,VAR_7
+res,VAR_8

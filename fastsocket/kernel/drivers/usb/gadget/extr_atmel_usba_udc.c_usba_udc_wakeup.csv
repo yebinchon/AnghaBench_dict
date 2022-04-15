@@ -1,0 +1,15 @@
+CTRL,VAR_0
+EINVAL,VAR_1
+USBA_REMOTE_WAKE_UP,VAR_2
+USB_DEVICE_REMOTE_WAKEUP,VAR_3
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+to_usba_udc,FUNC_2
+usba_readl,FUNC_3
+usba_writel,FUNC_4
+usba_udc_wakeup,FUNC_5
+gadget,VAR_4
+udc,VAR_5
+flags,VAR_6
+ctrl,VAR_7
+ret,VAR_8

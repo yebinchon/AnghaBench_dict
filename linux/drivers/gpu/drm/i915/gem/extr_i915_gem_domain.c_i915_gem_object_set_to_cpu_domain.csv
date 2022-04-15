@@ -1,0 +1,15 @@
+GEM_BUG_ON,FUNC_0
+I915_CLFLUSH_SYNC,VAR_0
+I915_GEM_DOMAIN_CPU,VAR_1
+I915_WAIT_ALL,VAR_2
+I915_WAIT_INTERRUPTIBLE,VAR_3
+MAX_SCHEDULE_TIMEOUT,VAR_4
+__start_cpu_write,FUNC_1
+assert_object_held,FUNC_2
+i915_gem_clflush_object,FUNC_3
+i915_gem_object_flush_write_domain,FUNC_4
+i915_gem_object_wait,FUNC_5
+i915_gem_object_set_to_cpu_domain,FUNC_6
+obj,VAR_5
+write,VAR_6
+ret,VAR_7

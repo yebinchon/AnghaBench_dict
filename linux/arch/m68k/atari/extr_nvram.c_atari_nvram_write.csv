@@ -1,0 +1,14 @@
+EIO,VAR_0
+NVRAM_BYTES,VAR_1
+__nvram_check_checksum,FUNC_0
+__nvram_set_checksum,FUNC_1
+__nvram_write_byte,FUNC_2
+rtc_lock,VAR_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+atari_nvram_write,FUNC_5
+buf,VAR_3
+count,VAR_4
+ppos,VAR_5
+p,VAR_6
+i,VAR_7

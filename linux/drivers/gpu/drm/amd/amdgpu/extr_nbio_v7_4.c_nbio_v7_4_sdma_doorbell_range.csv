@@ -1,0 +1,17 @@
+BIF_SDMA0_DOORBELL_RANGE,VAR_0
+NBIO,VAR_1
+OFFSET,VAR_2
+REG_SET_FIELD,FUNC_0
+RREG32,FUNC_1
+SIZE,VAR_3
+SOC15_REG_OFFSET,FUNC_2
+WREG32,FUNC_3
+mmBIF_SDMA0_DOORBELL_RANGE,VAR_4
+nbio_v7_4_sdma_doorbell_range,FUNC_4
+adev,VAR_5
+instance,VAR_6
+use_doorbell,VAR_7
+doorbell_index,VAR_8
+doorbell_size,VAR_9
+reg,VAR_10
+doorbell_range,VAR_11

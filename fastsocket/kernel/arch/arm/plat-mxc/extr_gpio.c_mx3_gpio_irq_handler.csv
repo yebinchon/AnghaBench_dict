@@ -1,0 +1,10 @@
+GPIO_IMR,VAR_0
+GPIO_ISR,VAR_1
+__raw_readl,FUNC_0
+get_irq_data,FUNC_1
+mxc_gpio_irq_handler,FUNC_2
+mx3_gpio_irq_handler,FUNC_3
+irq,VAR_2
+desc,VAR_3
+irq_stat,VAR_4
+port,VAR_5

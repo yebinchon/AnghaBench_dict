@@ -1,0 +1,15 @@
+list_splice_tail_init,FUNC_0
+pl330_release_channel,FUNC_1
+pl330_unprep_slave_fifo,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_mark_last_busy,FUNC_4
+pm_runtime_put_autosuspend,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+tasklet_kill,FUNC_8
+to_pchan,FUNC_9
+pl330_free_chan_resources,FUNC_10
+chan,VAR_0
+pch,VAR_1
+pl330,VAR_2
+flags,VAR_3

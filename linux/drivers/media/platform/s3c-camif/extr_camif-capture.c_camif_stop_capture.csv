@@ -1,0 +1,17 @@
+CAMIF_STOP_TIMEOUT,VAR_0
+ST_VP_ABORTING,VAR_1
+ST_VP_LASTIRQ,VAR_2
+ST_VP_OFF,VAR_3
+camif_hw_disable_capture,FUNC_0
+camif_hw_enable_scaler,FUNC_1
+camif_reinitialize,FUNC_2
+msecs_to_jiffies,FUNC_3
+s3c_vp_active,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+wait_event_timeout,FUNC_7
+camif_stop_capture,FUNC_8
+vp,VAR_4
+camif,VAR_5
+flags,VAR_6
+ret,VAR_7

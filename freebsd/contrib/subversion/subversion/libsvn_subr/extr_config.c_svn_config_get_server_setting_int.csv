@@ -1,0 +1,15 @@
+SVN_ERR_BAD_CONFIG_VALUE,VAR_0
+SVN_NO_ERROR,VAR_1
+_,FUNC_0
+apr_strtoi64,FUNC_1
+svn_config_get_server_setting,FUNC_2
+svn_error_createf,FUNC_3
+svn_config_get_server_setting_int,FUNC_4
+cfg,VAR_2
+server_group,VAR_3
+option_name,VAR_4
+default_value,VAR_5
+result_value,VAR_6
+pool,VAR_7
+tmp_value,VAR_8
+end_pos,VAR_9

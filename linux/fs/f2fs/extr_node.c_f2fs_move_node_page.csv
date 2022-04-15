@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+FG_GC,VAR_1
+FS_GC_NODE_IO,VAR_2
+NODE,VAR_3
+PageWriteback,FUNC_0
+WB_SYNC_ALL,VAR_4
+__write_node_page,FUNC_1
+clear_page_dirty_for_io,FUNC_2
+f2fs_put_page,FUNC_3
+f2fs_wait_on_page_writeback,FUNC_4
+set_page_dirty,FUNC_5
+unlock_page,FUNC_6
+f2fs_move_node_page,FUNC_7
+node_page,VAR_5
+gc_type,VAR_6
+err,VAR_7
+wbc,VAR_8

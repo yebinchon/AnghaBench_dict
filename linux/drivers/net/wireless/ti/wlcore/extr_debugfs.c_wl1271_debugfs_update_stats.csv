@@ -1,0 +1,16 @@
+WL1271_DEBUGFS_STATS_LIFETIME,VAR_0
+WLCORE_STATE_ON,VAR_1
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_mark_last_busy,FUNC_4
+pm_runtime_put_autosuspend,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+time_after,FUNC_7
+unlikely,FUNC_8
+wl1271_acx_statistics,FUNC_9
+wl1271_debugfs_update_stats,FUNC_10
+wl,VAR_3
+ret,VAR_4

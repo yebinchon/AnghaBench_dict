@@ -1,0 +1,11 @@
+RSTOUTn_MASK_ARMV7,VAR_0
+RSTOUTn_MASK_WD,VAR_1
+WD_CPU0_MASK,VAR_2
+WD_GLOBAL_MASK,VAR_3
+WD_RSTOUTn_MASK,VAR_4
+read_cpu_misc,FUNC_0
+read_cpu_mp_clocks,FUNC_1
+write_cpu_misc,FUNC_2
+write_cpu_mp_clocks,FUNC_3
+mv_wdt_disable_armada_38x_xp_helper,FUNC_4
+val,VAR_5

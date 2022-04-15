@@ -1,0 +1,15 @@
+GFP_ATOMIC,VAR_0
+GFP_KERNEL,VAR_1
+INIT_DELAYED_WORK,FUNC_0
+INIT_RADIX_TREE,FUNC_1
+atomic_set,FUNC_2
+kzalloc,FUNC_3
+mutex_init,FUNC_4
+spin_lock_init,FUNC_5
+xfs_cowblocks_worker,VAR_2
+xfs_eofblocks_worker,VAR_3
+xfs_kset,VAR_4
+xfs_reclaim_worker,VAR_5
+xfs_mount_alloc,FUNC_6
+sb,VAR_6
+mp,VAR_7

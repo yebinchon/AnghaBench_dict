@@ -1,0 +1,12 @@
+Assert,FUNC_0
+CacheMemoryContext,VAR_0
+EOXactTupleDescArray,VAR_1
+EOXactTupleDescArrayLen,VAR_2
+MemoryContextSwitchTo,FUNC_1
+NextEOXactTupleDescNum,VAR_3
+palloc,FUNC_2
+repalloc,FUNC_3
+RememberToFreeTupleDescAtEOX,FUNC_4
+td,VAR_4
+oldcxt,VAR_5
+newlen,VAR_6

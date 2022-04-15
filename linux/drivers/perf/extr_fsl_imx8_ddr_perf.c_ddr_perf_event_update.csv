@@ -1,0 +1,13 @@
+ddr_perf_read_counter,FUNC_0
+local64_add,FUNC_1
+local64_cmpxchg,FUNC_2
+local64_read,FUNC_3
+to_ddr_pmu,FUNC_4
+ddr_perf_event_update,FUNC_5
+event,VAR_0
+pmu,VAR_1
+hwc,VAR_2
+delta,VAR_3
+prev_raw_count,VAR_4
+new_raw_count,VAR_5
+counter,VAR_6

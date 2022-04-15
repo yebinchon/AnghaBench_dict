@@ -1,0 +1,11 @@
+SCI_SAS_COMMAND_FRAME,VAR_0
+SCU_TASK_TYPE_IOREAD,VAR_1
+SCU_TASK_TYPE_IOWRITE,VAR_2
+scic_sds_request_build_sgl,FUNC_0
+scic_sds_request_get_task_context,FUNC_1
+scu_ssp_reqeust_construct_task_context,FUNC_2
+scu_ssp_io_request_construct_task_context,FUNC_3
+this_request,VAR_3
+data_direction,VAR_4
+transfer_length_bytes,VAR_5
+task_context,VAR_6

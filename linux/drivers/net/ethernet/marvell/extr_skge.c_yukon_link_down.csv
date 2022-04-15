@@ -1,0 +1,17 @@
+FLOW_STAT_REM_SEND,VAR_0
+GM_GPCR_RX_ENA,VAR_1
+GM_GPCR_TX_ENA,VAR_2
+GM_GP_CTRL,VAR_3
+PHY_MARV_AUNE_ADV,VAR_4
+PHY_M_AN_ASP,VAR_5
+gm_phy_read,FUNC_0
+gm_phy_write,FUNC_1
+gma_read16,FUNC_2
+gma_write16,FUNC_3
+skge_link_down,FUNC_4
+yukon_init,FUNC_5
+yukon_link_down,FUNC_6
+skge,VAR_6
+hw,VAR_7
+port,VAR_8
+ctrl,VAR_9

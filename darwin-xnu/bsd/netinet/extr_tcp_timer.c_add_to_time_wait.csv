@@ -1,0 +1,16 @@
+INPCB_TIMER_LAZY,VAR_0
+SO_NOWAKEFROMSLEEP,VAR_1
+add_to_time_wait_locked,FUNC_0
+inpcb_gc_sched,FUNC_1
+lck_rw_done,FUNC_2
+lck_rw_lock_exclusive,FUNC_3
+lck_rw_try_lock_exclusive,FUNC_4
+nstat_pcb_detach,FUNC_5
+socket_lock,FUNC_6
+socket_post_kev_msg_closed,FUNC_7
+socket_unlock,FUNC_8
+tcbinfo,VAR_2
+add_to_time_wait,FUNC_9
+tp,VAR_3
+delay,VAR_4
+pcbinfo,VAR_5

@@ -1,0 +1,17 @@
+AccessShareLock,VAR_0
+Anum_continuous_aggs_invalidation_threshold_pkey_hypertable_id,VAR_1
+BTEqualStrategyNumber,VAR_2
+CONTINUOUS_AGGS_INVALIDATION_THRESHOLD,VAR_3
+CONTINUOUS_AGGS_INVALIDATION_THRESHOLD_PKEY,VAR_4
+CONTINUOUS_AGGS_INVALIDATION_THRESHOLD_TABLE_NAME,VAR_5
+ERROR,VAR_6
+F_INT4EQ,VAR_7
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+elog,FUNC_2
+invalidation_threshold_tuple_found,VAR_8
+ts_catalog_scan_one,FUNC_3
+invalidation_threshold_get,FUNC_4
+hypertable_id,VAR_9
+threshold,VAR_10
+scankey,VAR_11

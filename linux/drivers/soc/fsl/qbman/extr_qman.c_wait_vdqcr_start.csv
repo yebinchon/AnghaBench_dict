@@ -1,0 +1,11 @@
+QMAN_VOLATILE_FLAG_WAIT_INT,VAR_0
+affine_queue,VAR_1
+set_vdqcr,FUNC_0
+wait_event,FUNC_1
+wait_event_interruptible,FUNC_2
+wait_vdqcr_start,FUNC_3
+p,VAR_2
+fq,VAR_3
+vdqcr,VAR_4
+flags,VAR_5
+ret,VAR_6

@@ -1,0 +1,15 @@
+do_zone_add,FUNC_0
+find_arg2,FUNC_1
+local_zone_enter_defaults,FUNC_2
+local_zones_create,FUNC_3
+lock_rw_unlock,FUNC_4
+memset,FUNC_5
+ssl_printf,FUNC_6
+views_find_view,FUNC_7
+do_view_zone_add,FUNC_8
+ssl,VAR_0
+worker,VAR_1
+arg,VAR_2
+arg2,VAR_3
+v,VAR_4
+lz_cfg,VAR_5

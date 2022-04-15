@@ -1,0 +1,17 @@
+CAST_USER_ADDR_T,FUNC_0
+IS_64BIT_PROCESS,FUNC_1
+KEVENT_FLAG_LEGACY32,VAR_0
+KEVENT_FLAG_LEGACY64,VAR_1
+bzero,FUNC_2
+copyin,FUNC_3
+kevent_copyin,FUNC_4
+addrp,VAR_2
+kevp,VAR_3
+p,VAR_4
+flags,VAR_5
+advance,VAR_6
+error,VAR_7
+kev64,VAR_8
+kev32,VAR_9
+kev64,VAR_10
+kevqos,VAR_11

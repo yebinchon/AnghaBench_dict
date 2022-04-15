@@ -1,0 +1,12 @@
+BPFD_LOCK_ASSERT,FUNC_0
+MAC_CHECK_PROBE2,FUNC_1
+MAC_IFNET_LOCK,FUNC_2
+MAC_IFNET_UNLOCK,FUNC_3
+MAC_POLICY_CHECK_NOSLEEP,FUNC_4
+bpfdesc_check_receive,VAR_0
+mac_policy_count,VAR_1
+mac_bpfdesc_check_receive,FUNC_5
+d,VAR_2
+ifp,VAR_3
+error,VAR_4
+locked,VAR_5

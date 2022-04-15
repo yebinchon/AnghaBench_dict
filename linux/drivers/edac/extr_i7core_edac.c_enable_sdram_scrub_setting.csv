@@ -1,0 +1,10 @@
+MC_CFG_CONTROL,VAR_0
+MC_CFG_UNLOCK,VAR_1
+get_sdram_scrub_rate,VAR_2
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+set_sdram_scrub_rate,VAR_3
+enable_sdram_scrub_setting,FUNC_2
+mci,VAR_4
+pvt,VAR_5
+pci_lock,VAR_6

@@ -1,0 +1,14 @@
+CPU_VR4122,VAR_0
+CPU_VR4131,VAR_1
+CPU_VR4133,VAR_2
+CSI_IRQ,VAR_3
+MCSIINTREG,VAR_4
+current_cpu_type,FUNC_0
+icu2_clear,FUNC_1
+irq_desc,VAR_5
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+vr41xx_disable_csiint,FUNC_4
+mask,VAR_6
+desc,VAR_7
+flags,VAR_8

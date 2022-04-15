@@ -1,0 +1,12 @@
+APR_SUCCESS,VAR_0
+FALSE,VAR_1
+SVN_LOCK_IS_BUSY,FUNC_0
+SVN_NO_ERROR,VAR_2
+_,FUNC_1
+apr_thread_rwlock_trywrlock,FUNC_2
+apr_thread_rwlock_wrlock,FUNC_3
+svn_error_wrap_apr,FUNC_4
+svn_mutex__lock,FUNC_5
+write_lock_cache,FUNC_6
+cache,VAR_3
+success,VAR_4

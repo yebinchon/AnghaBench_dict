@@ -1,0 +1,15 @@
+SSH2_MSG_KEXDH_INIT,VAR_0
+SSH_ERR_ALLOC_FAIL,VAR_1
+SSH_ERR_INVALID_ARGUMENT,VAR_2
+debug,FUNC_0
+dh_gen_key,FUNC_1
+dh_new_group1,FUNC_2
+dh_new_group14,FUNC_3
+dh_new_group16,FUNC_4
+dh_new_group18,FUNC_5
+input_kex_dh_init,VAR_3
+ssh_dispatch_set,FUNC_6
+kexdh_server,FUNC_7
+ssh,VAR_4
+kex,VAR_5
+r,VAR_6

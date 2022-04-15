@@ -1,0 +1,9 @@
+PLL_CFG0,VAR_0
+PLL_LOCK_MASK,VAR_1
+PLL_SCCG_LOCK_TIMEOUT,VAR_2
+SSCG_PLL_BYPASS2_MASK,VAR_3
+readl_poll_timeout,FUNC_0
+readl_relaxed,FUNC_1
+clk_sccg_pll_wait_lock,FUNC_2
+pll,VAR_4
+val,VAR_5

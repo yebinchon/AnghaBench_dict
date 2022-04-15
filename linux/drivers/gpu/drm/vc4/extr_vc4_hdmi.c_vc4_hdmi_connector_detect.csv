@@ -1,0 +1,14 @@
+HDMI_READ,FUNC_0
+VC4_HDMI_HOTPLUG,VAR_0
+VC4_HDMI_HOTPLUG_CONNECTED,VAR_1
+cec_phys_addr_invalidate,FUNC_1
+connector_status_connected,VAR_2
+connector_status_disconnected,VAR_3
+drm_probe_ddc,FUNC_2
+gpio_get_value_cansleep,FUNC_3
+to_vc4_dev,FUNC_4
+vc4_hdmi_connector_detect,FUNC_5
+connector,VAR_4
+force,VAR_5
+dev,VAR_6
+vc4,VAR_7

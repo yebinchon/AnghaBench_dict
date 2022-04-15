@@ -1,0 +1,10 @@
+__irq_do_set_handler,FUNC_0
+irq_get_desc_buslock,FUNC_1
+irq_put_desc_busunlock,FUNC_2
+__irq_set_handler,FUNC_3
+irq,VAR_0
+handle,VAR_1
+is_chained,VAR_2
+name,VAR_3
+flags,VAR_4
+desc,VAR_5

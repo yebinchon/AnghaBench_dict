@@ -1,0 +1,8 @@
+__tcp_queue_to_input_locked,FUNC_0
+mtx_unlock,FUNC_1
+tcp_input_lock,FUNC_2
+__tcp_queue_to_input,FUNC_3
+inp,VAR_0
+line,VAR_1
+hpts,VAR_2
+ret,VAR_3

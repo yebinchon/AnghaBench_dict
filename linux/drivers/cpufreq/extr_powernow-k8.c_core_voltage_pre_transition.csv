@@ -1,0 +1,17 @@
+LO_FID_TABLE_TOP,VAR_0
+MSR_FIDVID_STATUS,VAR_1
+decrease_vid_code_by_step,FUNC_0
+pr_debug,FUNC_1
+pr_err,FUNC_2
+query_current_values_with_pending_wait,FUNC_3
+rdmsr,FUNC_4
+smp_processor_id,FUNC_5
+core_voltage_pre_transition,FUNC_6
+data,VAR_2
+reqvid,VAR_3
+reqfid,VAR_4
+rvosteps,VAR_5
+savefid,VAR_6
+maxvid,VAR_7
+lo,VAR_8
+rvomult,VAR_9

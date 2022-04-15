@@ -1,0 +1,12 @@
+del_timer_sync,FUNC_0
+free_netdev,FUNC_1
+netdev_priv,FUNC_2
+pci_disable_device,FUNC_3
+pci_get_drvdata,FUNC_4
+ql_cancel_all_work_sync,FUNC_5
+ql_release_all,FUNC_6
+unregister_netdev,FUNC_7
+qlge_remove,FUNC_8
+pdev,VAR_0
+ndev,VAR_1
+qdev,VAR_2

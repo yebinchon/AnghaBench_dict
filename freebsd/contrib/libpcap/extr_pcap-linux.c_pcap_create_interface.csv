@@ -1,0 +1,15 @@
+PCAP_ERRBUF_SIZE,VAR_0
+PCAP_TSTAMP_PRECISION_MICRO,VAR_1
+PCAP_TSTAMP_PRECISION_NANO,VAR_2
+errno,VAR_3
+iface_ethtool_get_ts_info,FUNC_0
+malloc,FUNC_1
+pcap_activate_linux,VAR_4
+pcap_can_set_rfmon_linux,VAR_5
+pcap_close,FUNC_2
+pcap_create_common,FUNC_3
+pcap_fmt_errmsg_for_errno,FUNC_4
+pcap_create_interface,FUNC_5
+device,VAR_6
+ebuf,VAR_7
+handle,VAR_8

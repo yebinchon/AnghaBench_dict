@@ -1,0 +1,14 @@
+VOUT_SPU_CHANNEL_OSD,VAR_0
+luaL_checkstring,FUNC_0
+luaL_error,FUNC_1
+luaL_optinteger,FUNC_2
+vlc_osd_icon_from_string,FUNC_3
+vlclua_get_vout_internal,FUNC_4
+vout_OSDIcon,FUNC_5
+vout_Release,FUNC_6
+vlclua_osd_icon,FUNC_7
+L,VAR_1
+psz_icon,VAR_2
+i_icon,VAR_3
+i_chan,VAR_4
+p_vout,VAR_5

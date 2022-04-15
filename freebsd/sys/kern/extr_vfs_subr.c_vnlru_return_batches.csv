@@ -1,0 +1,17 @@
+MBF_MNTLSTLOCK,VAR_0
+MBF_NOWAIT,VAR_1
+TAILQ_FIRST,FUNC_0
+TAILQ_NEXT,FUNC_1
+mnt_list,VAR_2
+mountlist,VAR_3
+mountlist_mtx,VAR_4
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+vfs_busy,FUNC_4
+vfs_unbusy,FUNC_5
+vnlru_return_batch,FUNC_6
+vnlru_return_batches,FUNC_7
+mnt_op,VAR_5
+mp,VAR_6
+nmp,VAR_7
+need_unbusy,VAR_8

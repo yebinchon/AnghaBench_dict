@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+EBUSY,VAR_1
+EINPROGRESS,VAR_2
+EINVAL,VAR_3
+RPM_REQ_NONE,VAR_4
+RPM_REQ_RESUME,VAR_5
+RPM_REQ_SUSPEND,VAR_6
+RPM_SUSPENDED,VAR_7
+RPM_SUSPENDING,VAR_8
+atomic_read,FUNC_0
+pm_children_suspended,FUNC_1
+pm_runtime_deactivate_timer,FUNC_2
+pm_wq,VAR_9
+queue_work,FUNC_3
+__pm_request_suspend,FUNC_4
+dev,VAR_10
+retval,VAR_11

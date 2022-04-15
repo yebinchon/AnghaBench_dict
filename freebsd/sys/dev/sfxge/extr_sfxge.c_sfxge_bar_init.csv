@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_1
+SFXGE_BAR_LOCK_INIT,FUNC_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_2
+device_get_nameunit,FUNC_3
+device_printf,FUNC_4
+rman_get_bushandle,FUNC_5
+rman_get_bustag,FUNC_6
+sfxge_bar_init,FUNC_7
+sc,VAR_3
+esbp,VAR_4

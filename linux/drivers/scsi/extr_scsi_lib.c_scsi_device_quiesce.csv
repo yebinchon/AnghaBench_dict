@@ -1,0 +1,15 @@
+SDEV_QUIESCE,VAR_0
+WARN_ON_ONCE,FUNC_0
+blk_clear_pm_only,FUNC_1
+blk_mq_freeze_queue,FUNC_2
+blk_mq_unfreeze_queue,FUNC_3
+blk_set_pm_only,FUNC_4
+current,VAR_1
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+scsi_device_set_state,FUNC_7
+synchronize_rcu,FUNC_8
+scsi_device_quiesce,FUNC_9
+sdev,VAR_2
+q,VAR_3
+err,VAR_4

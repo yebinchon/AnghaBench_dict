@@ -1,0 +1,13 @@
+BUFFER_TRACE,FUNC_0
+__getblk,FUNC_1
+jbd2_journal_add_journal_head,FUNC_2
+jbd2_journal_next_log_block,FUNC_3
+lock_buffer,FUNC_4
+memset,FUNC_5
+set_buffer_uptodate,FUNC_6
+unlock_buffer,FUNC_7
+jbd2_journal_get_descriptor_buffer,FUNC_8
+journal,VAR_0
+bh,VAR_1
+blocknr,VAR_2
+err,VAR_3

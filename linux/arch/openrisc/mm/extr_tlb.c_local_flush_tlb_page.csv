@@ -1,0 +1,9 @@
+flush_dtlb_page_eir,FUNC_0
+flush_dtlb_page_no_eir,FUNC_1
+flush_itlb_page_eir,FUNC_2
+flush_itlb_page_no_eir,FUNC_3
+have_dtlbeir,VAR_0
+have_itlbeir,VAR_1
+local_flush_tlb_page,FUNC_4
+vma,VAR_2
+addr,VAR_3

@@ -1,0 +1,13 @@
+PT_DTRACE,VAR_0
+PT_PTRACED,VAR_1
+TIF_SIGPENDING,VAR_2
+TIF_SYSCALL_TRACE,VAR_3
+audit_syscall_exit,FUNC_0
+current,VAR_4
+send_sigtrap,FUNC_1
+set_thread_flag,FUNC_2
+test_thread_flag,FUNC_3
+tracehook_report_syscall_exit,FUNC_4
+syscall_trace_leave,FUNC_5
+regs,VAR_5
+ptraced,VAR_6

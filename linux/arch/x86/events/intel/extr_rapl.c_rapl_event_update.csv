@@ -1,0 +1,15 @@
+RAPL_CNTR_WIDTH,VAR_0
+cpu_relax,FUNC_0
+local64_add,FUNC_1
+local64_cmpxchg,FUNC_2
+local64_read,FUNC_3
+rapl_scale,FUNC_4
+rdmsrl,FUNC_5
+rapl_event_update,FUNC_6
+event,VAR_1
+hwc,VAR_2
+prev_raw_count,VAR_3
+new_raw_count,VAR_4
+delta,VAR_5
+sdelta,VAR_6
+shift,VAR_7

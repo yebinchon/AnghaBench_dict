@@ -1,0 +1,14 @@
+IGNORE_DEV,VAR_0
+do_free_by_irq_and_dev,FUNC_0
+garbage_collect_irq_entries,FUNC_1
+get_irq_entry_by_fd,FUNC_2
+ignore_sigio_fd,FUNC_3
+irq_lock,VAR_1
+os_del_epoll_fd,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+deactivate_fd,FUNC_7
+fd,VAR_2
+irqnum,VAR_3
+to_free,VAR_4
+flags,VAR_5

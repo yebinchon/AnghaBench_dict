@@ -1,0 +1,15 @@
+kvm_inject_dabt,FUNC_0
+kvm_vcpu_dabt_get_as,FUNC_1
+kvm_vcpu_dabt_get_rd,FUNC_2
+kvm_vcpu_dabt_iss1tw,FUNC_3
+kvm_vcpu_dabt_issext,FUNC_4
+kvm_vcpu_dabt_iswrite,FUNC_5
+kvm_vcpu_get_hfar,FUNC_6
+unlikely,FUNC_7
+decode_hsr,FUNC_8
+vcpu,VAR_0
+is_write,VAR_1
+len,VAR_2
+rt,VAR_3
+access_size,VAR_4
+sign_extend,VAR_5

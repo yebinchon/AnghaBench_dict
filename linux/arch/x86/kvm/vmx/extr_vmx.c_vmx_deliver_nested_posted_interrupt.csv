@@ -1,0 +1,10 @@
+KVM_REQ_EVENT,VAR_0
+is_guest_mode,FUNC_0
+kvm_make_request,FUNC_1
+kvm_vcpu_kick,FUNC_2
+kvm_vcpu_trigger_posted_interrupt,FUNC_3
+to_vmx,FUNC_4
+vmx_deliver_nested_posted_interrupt,FUNC_5
+vcpu,VAR_1
+vector,VAR_2
+vmx,VAR_3

@@ -1,0 +1,14 @@
+NETMAP_REQ_VALE_POLLING_ENABLE,VAR_0
+NIOCCTRL,VAR_1
+ioctl,FUNC_0
+memset,FUNC_1
+nmreq_hdr_init,FUNC_2
+perror,FUNC_3
+printf,FUNC_4
+snprintf,FUNC_5
+vale_polling_enable,FUNC_6
+ctx,VAR_2
+req,VAR_3
+hdr,VAR_4
+vpname,VAR_5
+ret,VAR_6

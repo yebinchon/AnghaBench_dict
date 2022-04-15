@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+alloc_gid_table,FUNC_0
+cleanup_gid_table_port,FUNC_1
+gid_table_reserve_default,FUNC_2
+kcalloc,FUNC_3
+kfree,FUNC_4
+pr_warn,FUNC_5
+rdma_start_port,FUNC_6
+release_gid_table,FUNC_7
+_gid_table_setup_one,FUNC_8
+ib_dev,VAR_2
+port,VAR_3
+table,VAR_4
+err,VAR_5
+rdma_port,VAR_6

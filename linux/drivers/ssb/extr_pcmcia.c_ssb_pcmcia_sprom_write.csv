@@ -1,0 +1,13 @@
+SSB_PCMCIA_SPROMCTL_WRITE,VAR_0
+SSB_PCMCIA_SPROM_ADDRHI,VAR_1
+SSB_PCMCIA_SPROM_ADDRLO,VAR_2
+SSB_PCMCIA_SPROM_DATAHI,VAR_3
+SSB_PCMCIA_SPROM_DATALO,VAR_4
+msleep,FUNC_0
+ssb_pcmcia_cfg_write,FUNC_1
+ssb_pcmcia_sprom_command,FUNC_2
+ssb_pcmcia_sprom_write,FUNC_3
+bus,VAR_5
+offset,VAR_6
+value,VAR_7
+err,VAR_8

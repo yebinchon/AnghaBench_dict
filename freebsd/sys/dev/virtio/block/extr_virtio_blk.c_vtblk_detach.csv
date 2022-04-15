@@ -1,0 +1,13 @@
+VTBLK_FLAG_DETACH,VAR_0
+VTBLK_LOCK,FUNC_0
+VTBLK_LOCK_DESTROY,FUNC_1
+VTBLK_UNLOCK,FUNC_2
+device_get_softc,FUNC_3
+device_is_attached,FUNC_4
+disk_destroy,FUNC_5
+sglist_free,FUNC_6
+vtblk_drain,FUNC_7
+vtblk_stop,FUNC_8
+vtblk_detach,FUNC_9
+dev,VAR_1
+sc,VAR_2

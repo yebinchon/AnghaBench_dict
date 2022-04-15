@@ -1,0 +1,17 @@
+ACPI_ALLOCATE,FUNC_0
+ACPI_FAILURE,FUNC_1
+ACPI_MEMCPY,FUNC_2
+ACPI_NO_UNIT_LIMIT,VAR_0
+ACPI_REFCLASS_TABLE,VAR_1
+AE_NO_MEMORY,VAR_2
+AE_OK,VAR_3
+AOPOBJ_STATIC_POINTER,VAR_4
+acpi_os_create_mutex,FUNC_3
+acpi_os_create_semaphore,FUNC_4
+acpi_ut_add_reference,FUNC_5
+acpi_ut_copy_simple_object,FUNC_6
+source_desc,VAR_5
+dest_desc,VAR_6
+reference_count,VAR_7
+next_object,VAR_8
+status,VAR_9

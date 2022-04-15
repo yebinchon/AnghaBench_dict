@@ -1,0 +1,17 @@
+KM_SLEEP,VAR_0
+SPA_OLD_MAXBLOCKSIZE,VAR_1
+VERIFY0,FUNC_0
+avl_add,FUNC_1
+bpobj_alloc_empty,FUNC_2
+bpobj_open,FUNC_3
+dsl_deadlist_load_tree,FUNC_4
+kmem_alloc,FUNC_5
+mutex_enter,FUNC_6
+mutex_exit,FUNC_7
+zap_add_int_key,FUNC_8
+dsl_deadlist_add_key,FUNC_9
+dl,VAR_2
+mintxg,VAR_3
+tx,VAR_4
+obj,VAR_5
+dle,VAR_6

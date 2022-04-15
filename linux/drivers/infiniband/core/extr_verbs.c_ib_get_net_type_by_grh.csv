@@ -1,0 +1,12 @@
+IPPROTO_UDP,VAR_0
+RDMA_NETWORK_IB,VAR_1
+RDMA_NETWORK_IPV4,VAR_2
+RDMA_NETWORK_IPV6,VAR_3
+RDMA_NETWORK_ROCE_V1,VAR_4
+ib_get_rdma_header_version,FUNC_0
+rdma_protocol_ib,FUNC_1
+ib_get_net_type_by_grh,FUNC_2
+device,VAR_5
+port_num,VAR_6
+grh,VAR_7
+grh_version,VAR_8

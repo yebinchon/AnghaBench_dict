@@ -1,0 +1,11 @@
+RT5682_DIG_GATE_CTRL,VAR_0
+RT5682_PWR_ANLG_1,VAR_1
+RT5682_PWR_BG,VAR_2
+RT5682_PWR_DIG_1,VAR_3
+RT5682_PWR_LDO,VAR_4
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+rt5682_set_bias_level,FUNC_2
+component,VAR_5
+level,VAR_6
+rt5682,VAR_7

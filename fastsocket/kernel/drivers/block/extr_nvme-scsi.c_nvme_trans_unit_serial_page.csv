@@ -1,0 +1,16 @@
+INQ_SERIAL_NUMBER_LENGTH,VAR_0
+INQ_UNIT_SERIAL_NUMBER_PAGE,VAR_1
+SNTI_TRANSLATION_SUCCESS,VAR_2
+STANDARD_INQUIRY_LENGTH,VAR_3
+memset,FUNC_0
+min,FUNC_1
+nvme_trans_copy_to_user,FUNC_2
+strncpy,FUNC_3
+nvme_trans_unit_serial_page,FUNC_4
+ns,VAR_4
+hdr,VAR_5
+inq_response,VAR_6
+alloc_len,VAR_7
+dev,VAR_8
+res,VAR_9
+xfer_len,VAR_10

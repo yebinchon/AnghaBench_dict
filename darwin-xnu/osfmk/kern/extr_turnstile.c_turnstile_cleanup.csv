@@ -1,0 +1,17 @@
+THREAD_NULL,VAR_0
+TURNSTILE_INHERITOR_NEEDS_PRI_UPDATE,VAR_1
+TURNSTILE_INHERITOR_NULL,VAR_2
+TURNSTILE_INHERITOR_THREAD,VAR_3
+TURNSTILE_INHERITOR_TURNSTILE,VAR_4
+TURNSTILE_INHERITOR_WORKQ,VAR_5
+TURNSTILE_UPDATE_FLAGS_NONE,VAR_6
+current_thread,FUNC_0
+panic,FUNC_1
+thread_deallocate_safe,FUNC_2
+turnstile_deallocate_safe,FUNC_3
+turnstile_update_inheritor_priority_chain,FUNC_4
+workq_deallocate_safe,FUNC_5
+turnstile_cleanup,FUNC_6
+thread,VAR_7
+old_inheritor,VAR_8
+inheritor_flags,VAR_9

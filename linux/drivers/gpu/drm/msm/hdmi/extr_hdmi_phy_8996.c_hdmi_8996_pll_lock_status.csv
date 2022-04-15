@@ -1,0 +1,13 @@
+BIT,FUNC_0
+DBG,FUNC_1
+HDMI_PLL_POLL_MAX_READS,VAR_0
+HDMI_PLL_POLL_TIMEOUT_US,VAR_1
+REG_HDMI_PHY_QSERDES_COM_C_READY_STATUS,VAR_2
+hdmi_pll_read,FUNC_2
+udelay,FUNC_3
+hdmi_8996_pll_lock_status,FUNC_4
+pll,VAR_3
+status,VAR_4
+nb_tries,VAR_5
+timeout,VAR_6
+pll_locked,VAR_7

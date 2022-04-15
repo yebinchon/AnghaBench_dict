@@ -1,0 +1,15 @@
+EnterCriticalSection,FUNC_0
+LeaveCriticalSection,FUNC_1
+WAIT_OBJECT_0,VAR_0
+WaitForSingleObject,FUNC_2
+current_event,VAR_1
+event_cs,VAR_2
+event_handle,VAR_3
+ok,FUNC_3
+strcmp,FUNC_4
+strcpy,FUNC_5
+trace,FUNC_6
+expect_event,FUNC_7
+event_name,VAR_4
+evt,VAR_5
+res,VAR_6

@@ -1,0 +1,12 @@
+DMAR_PMEN_REG,VAR_0
+DMA_PMEN_EPM,VAR_1
+DMA_PMEN_PRS,VAR_2
+IOMMU_WAIT_OP,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+iommu_disable_protect_mem_regions,FUNC_5
+iommu,VAR_3
+pmen,VAR_4
+flags,VAR_5

@@ -1,0 +1,15 @@
+__ccwgroup_remove_cdev_refs,FUNC_0
+__ccwgroup_remove_symlinks,FUNC_1
+ccw_device_set_offline,FUNC_2
+dev_get_drvdata,FUNC_3
+device_is_registered,FUNC_4
+device_unregister,FUNC_5
+get_device,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+put_device,FUNC_9
+spin_lock_irq,FUNC_10
+spin_unlock_irq,FUNC_11
+ccwgroup_remove_ccwdev,FUNC_12
+cdev,VAR_0
+gdev,VAR_1

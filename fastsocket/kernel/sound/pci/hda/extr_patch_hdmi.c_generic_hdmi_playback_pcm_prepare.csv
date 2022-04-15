@@ -1,0 +1,17 @@
+check_non_pcm_per_cvt,FUNC_0
+get_pin,FUNC_1
+hdmi_set_channel_count,FUNC_2
+hdmi_setup_audio_infoframe,FUNC_3
+hdmi_setup_stream,FUNC_4
+hinfo_to_pin_index,FUNC_5
+generic_hdmi_playback_pcm_prepare,FUNC_6
+hinfo,VAR_0
+codec,VAR_1
+stream_tag,VAR_2
+format,VAR_3
+substream,VAR_4
+cvt_nid,VAR_5
+spec,VAR_6
+pin_idx,VAR_7
+pin_nid,VAR_8
+non_pcm,VAR_9

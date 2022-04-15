@@ -1,0 +1,13 @@
+ESHUTDOWN,VAR_0
+USB_SPEED_UNKNOWN,VAR_1
+fotg210_disable_fifo_int,FUNC_0
+fotg210_set_cxdone,FUNC_1
+list_del_init,FUNC_2
+list_empty,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+usb_gadget_giveback_request,FUNC_6
+fotg210_done,FUNC_7
+ep,VAR_2
+req,VAR_3
+status,VAR_4

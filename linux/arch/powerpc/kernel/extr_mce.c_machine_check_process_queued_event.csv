@@ -1,0 +1,14 @@
+LOCKDEP_NOW_UNRELIABLE,VAR_0
+MCE_ERROR_TYPE_UE,VAR_1
+TAINT_MACHINE_CHECK,VAR_2
+__this_cpu_dec,FUNC_0
+__this_cpu_read,FUNC_1
+add_taint,FUNC_2
+machine_check_print_event_info,FUNC_3
+mce_event_queue,VAR_3
+mce_queue_count,VAR_4
+this_cpu_ptr,FUNC_4
+machine_check_process_queued_event,FUNC_5
+work,VAR_5
+index,VAR_6
+evt,VAR_7

@@ -1,0 +1,16 @@
+EXT2_DRIVER_IGNORED_INCOMPAT,VAR_0
+EXT2_DRIVER_SUPPORTED_INCOMPAT,VAR_1
+EXT2_MAGIC,VAR_2
+GRUB_ERR_BAD_FS,VAR_3
+GRUB_ERR_OUT_OF_RANGE,VAR_4
+grub_disk_read,FUNC_0
+grub_errno,VAR_5
+grub_error,FUNC_1
+grub_ext2_read_inode,FUNC_2
+grub_free,FUNC_3
+grub_le_to_cpu16,FUNC_4
+grub_le_to_cpu32,FUNC_5
+grub_malloc,FUNC_6
+grub_ext2_mount,FUNC_7
+disk,VAR_6
+data,VAR_7

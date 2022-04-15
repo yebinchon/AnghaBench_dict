@@ -1,0 +1,16 @@
+PCIR_BAR,FUNC_0
+bootverbose,VAR_0
+mv_pcib_read_config,FUNC_1
+mv_pcib_write_config,FUNC_2
+pcib_alloc,FUNC_3
+printf,FUNC_4
+mv_pcib_init_bar,FUNC_5
+sc,VAR_1
+bus,VAR_2
+slot,VAR_3
+func,VAR_4
+barno,VAR_5
+addr,VAR_6
+bar,VAR_7
+reg,VAR_8
+width,VAR_9

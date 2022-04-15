@@ -1,0 +1,17 @@
+SSHKEY_CERT_MAX_PRINCIPALS,VAR_0
+SSH_ERR_ALLOC_FAIL,VAR_1
+SSH_ERR_INTERNAL_ERROR,VAR_2
+SSH_ERR_INVALID_ARGUMENT,VAR_3
+calloc,FUNC_0
+cert_free,FUNC_1
+cert_new,FUNC_2
+sshbuf_putb,FUNC_3
+sshkey_from_private,FUNC_4
+strdup,FUNC_5
+sshkey_cert_copy,FUNC_6
+from_key,VAR_4
+to_key,VAR_5
+i,VAR_6
+from,VAR_7
+to,VAR_8
+ret,VAR_9

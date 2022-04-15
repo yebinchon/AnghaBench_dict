@@ -1,0 +1,15 @@
+IS_QLA28XX,FUNC_0
+MBX_UPDATE_FLASH_ACTIVE,VAR_0
+clear_bit,FUNC_1
+qla24xx_write_flash_data,FUNC_2
+qla28xx_write_flash_data,FUNC_3
+scsi_block_requests,FUNC_4
+scsi_unblock_requests,FUNC_5
+set_bit,FUNC_6
+qla24xx_write_optrom_data,FUNC_7
+vha,VAR_1
+buf,VAR_2
+offset,VAR_3
+length,VAR_4
+rval,VAR_5
+ha,VAR_6

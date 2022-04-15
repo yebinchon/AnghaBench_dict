@@ -1,0 +1,12 @@
+AddIntcHandler,FUNC_0
+EnableIntc,FUNC_1
+INTC_TIM0,VAR_0
+INTC_TIM1,VAR_1
+T0_COUNT,VAR_2
+T0_MODE,VAR_3
+T1_MODE,VAR_4
+t0_interrupt_handler,VAR_5
+t0_interrupt_id,VAR_6
+t1_interrupt_handler,VAR_7
+t1_interrupt_id,VAR_8
+timer_initialize,FUNC_2

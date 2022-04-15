@@ -1,0 +1,14 @@
+IOC4_SHADOW_CTS,VAR_0
+IOC4_SHADOW_DCD,VAR_1
+IOC4_SHADOW_DR,VAR_2
+TIOCM_CAR,VAR_3
+TIOCM_CTS,VAR_4
+TIOCM_DSR,VAR_5
+get_ioc4_port,FUNC_0
+port_is_active,FUNC_1
+readl,FUNC_2
+ic4_get_mctrl,FUNC_3
+the_port,VAR_6
+port,VAR_7
+shadow,VAR_8
+ret,VAR_9

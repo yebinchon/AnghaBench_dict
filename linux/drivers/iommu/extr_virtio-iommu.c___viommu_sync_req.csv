@@ -1,0 +1,17 @@
+VIOMMU_REQUEST_VQ,VAR_0
+VIRTIO_IOMMU_S_IOERR,VAR_1
+assert_spin_locked,FUNC_0
+kfree,FUNC_1
+list_del,FUNC_2
+list_empty,FUNC_3
+memcpy,FUNC_4
+viommu_set_req_status,FUNC_5
+virtqueue_get_buf,FUNC_6
+virtqueue_kick,FUNC_7
+__viommu_sync_req,FUNC_8
+viommu,VAR_2
+ret,VAR_3
+len,VAR_4
+write_len,VAR_5
+req,VAR_6
+vq,VAR_7

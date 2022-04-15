@@ -1,0 +1,15 @@
+BTRFS_IOC_SUBVOL_GETFLAGS,VAR_0
+BTRFS_IOC_SUBVOL_SETFLAGS,VAR_1
+BTRFS_SUBVOL_RDONLY,VAR_2
+EINVAL,VAR_3
+S_ISDIR,FUNC_0
+assert,FUNC_1
+errno,VAR_4
+fstat,FUNC_2
+ioctl,FUNC_3
+btrfs_subvol_set_read_only_fd,FUNC_4
+fd,VAR_5
+b,VAR_6
+flags,VAR_7
+nflags,VAR_8
+st,VAR_9

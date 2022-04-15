@@ -1,0 +1,16 @@
+CRYPTO_TFM_REQ_MAY_BACKLOG,VAR_0
+EIP197_AEAD_REQ_SIZE,VAR_1
+EIP197_REQUEST_ON_STACK,FUNC_0
+__crypto_aead_cast,FUNC_1
+aead,VAR_2
+aead_request_ctx,FUNC_2
+aead_request_set_callback,FUNC_3
+aead_request_set_tfm,FUNC_4
+memset,FUNC_5
+req,VAR_3
+safexcel_cipher_exit_inv,FUNC_6
+safexcel_inv_complete,VAR_4
+safexcel_aead_exit_inv,FUNC_7
+tfm,VAR_5
+sreq,VAR_6
+result,VAR_7

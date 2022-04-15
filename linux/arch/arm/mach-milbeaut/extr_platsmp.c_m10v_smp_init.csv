@@ -1,0 +1,15 @@
+KERNEL_UNBOOT_FLAG,VAR_0
+M10V_MAX_CPU,VAR_1
+MPIDR_AFFINITY_LEVEL,FUNC_0
+m10v_smp_base,VAR_2
+of_find_compatible_node,FUNC_1
+of_iomap,FUNC_2
+pr_info,FUNC_3
+read_cpuid_mpidr,FUNC_4
+writel,FUNC_5
+m10v_smp_init,FUNC_6
+max_cpus,VAR_3
+mpidr,VAR_4
+cpu,VAR_5
+cluster,VAR_6
+np,VAR_7

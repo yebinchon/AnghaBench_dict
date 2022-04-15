@@ -1,0 +1,16 @@
+KVM_PMC_FIXED,VAR_0
+KVM_PMC_GP,VAR_1
+MSR_IA32_PERFCTR0,VAR_2
+MSR_P6_EVNTSEL0,VAR_3
+get_fixed_pmc,FUNC_0
+get_gp_pmc,FUNC_1
+pmc_read_counter,FUNC_2
+vcpu_to_pmu,FUNC_3
+intel_pmu_get_msr,FUNC_4
+vcpu,VAR_4
+msr,VAR_5
+data,VAR_6
+pmu,VAR_7
+pmc,VAR_8
+val,VAR_9
+val,VAR_10

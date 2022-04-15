@@ -1,0 +1,11 @@
+F_SETFL,VAR_0
+O_NONBLOCK,VAR_1
+fcntl,FUNC_0
+ibv_create_comp_channel,FUNC_1
+ibv_create_cq,FUNC_2
+ibv_destroy_comp_channel,FUNC_3
+ibv_destroy_cq,FUNC_4
+ibv_req_notify_cq,FUNC_5
+rs_create_cq,FUNC_6
+rs,VAR_2
+cm_id,VAR_3

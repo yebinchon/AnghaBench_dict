@@ -1,0 +1,14 @@
+FALSE,VAR_0
+c_compressor_swap_trigger,VAR_1
+c_list_lock,VAR_2
+c_minor_count,VAR_3
+c_segment_count,VAR_4
+compaction_swapper_awakened,VAR_5
+compaction_swapper_running,VAR_6
+fastwake_warmup,VAR_7
+lck_mtx_lock_spin_always,FUNC_0
+lck_mtx_unlock_always,FUNC_1
+thread_wakeup,FUNC_2
+vm_compressor_needs_to_major_compact,FUNC_3
+vm_wake_compactor_swapper_calls,VAR_8
+vm_wake_compactor_swapper,FUNC_4

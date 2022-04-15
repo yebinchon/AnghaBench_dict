@@ -1,0 +1,10 @@
+PDC_WDT_CONFIG,VAR_0
+PDC_WDT_CONFIG_ENABLE,VAR_1
+__pdc_wdt_set_timeout,FUNC_0
+readl,FUNC_1
+watchdog_get_drvdata,FUNC_2
+writel,FUNC_3
+pdc_wdt_start,FUNC_4
+wdt_dev,VAR_2
+val,VAR_3
+wdt,VAR_4

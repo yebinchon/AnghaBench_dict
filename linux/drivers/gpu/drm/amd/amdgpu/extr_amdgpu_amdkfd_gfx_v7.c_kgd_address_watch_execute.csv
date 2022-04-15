@@ -1,0 +1,15 @@
+ADDRESS_WATCH_REG_ADDR_HI,VAR_0
+ADDRESS_WATCH_REG_ADDR_LO,VAR_1
+ADDRESS_WATCH_REG_CNTL,VAR_2
+ADDRESS_WATCH_REG_MAX,VAR_3
+WREG32,FUNC_0
+get_amdgpu_device,FUNC_1
+watchRegs,VAR_4
+kgd_address_watch_execute,FUNC_2
+kgd,VAR_5
+watch_point_id,VAR_6
+cntl_val,VAR_7
+addr_hi,VAR_8
+addr_lo,VAR_9
+adev,VAR_10
+cntl,VAR_11

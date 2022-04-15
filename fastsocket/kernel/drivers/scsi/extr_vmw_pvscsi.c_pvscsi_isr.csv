@@ -1,0 +1,16 @@
+IRQ_RETVAL,FUNC_0
+PVSCSI_INTR_ALL_SUPPORTED,VAR_0
+pvscsi_msg_pending,FUNC_1
+pvscsi_process_completion_ring,FUNC_2
+pvscsi_read_intr_status,FUNC_3
+pvscsi_write_intr_status,FUNC_4
+queue_work,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+pvscsi_isr,FUNC_8
+irq,VAR_1
+devp,VAR_2
+adapter,VAR_3
+handled,VAR_4
+val,VAR_5
+flags,VAR_6

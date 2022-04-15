@@ -1,0 +1,17 @@
+PCI_EXP_SLTCTL,VAR_0
+PCI_EXP_SLTCTL_DLLSCE,VAR_1
+PCI_EXP_SLTCTL_HPIE,VAR_2
+PCI_EXP_SLTCTL_PDCE,VAR_3
+destroy_workqueue,FUNC_0
+free_irq,FUNC_1
+pci_disable_device,FUNC_2
+pci_disable_msi,FUNC_3
+pci_disable_msix,FUNC_4
+pcie_capability_read_word,FUNC_5
+pcie_capability_write_word,FUNC_6
+pnv_php_disable_irq,FUNC_7
+php_slot,VAR_4
+disable_device,VAR_5
+pdev,VAR_6
+irq,VAR_7
+ctrl,VAR_8

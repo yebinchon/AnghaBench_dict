@@ -1,0 +1,16 @@
+M_HASHTYPE_GET,FUNC_0
+M_HASHTYPE_NONE,VAR_0
+VTNET_TXQ_TRYLOCK,FUNC_1
+VTNET_TXQ_UNLOCK,FUNC_2
+curcpu,VAR_1
+drbr_enqueue,FUNC_3
+taskqueue_enqueue,FUNC_4
+vtnet_txq_mq_start_locked,FUNC_5
+vtnet_txq_mq_start,FUNC_6
+ifp,VAR_2
+m,VAR_3
+sc,VAR_4
+txq,VAR_5
+i,VAR_6
+npairs,VAR_7
+error,VAR_8

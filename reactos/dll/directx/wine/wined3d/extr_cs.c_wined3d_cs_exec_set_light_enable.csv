@@ -1,0 +1,13 @@
+ERR,FUNC_0
+STATE_ACTIVELIGHT,FUNC_1
+STATE_LIGHT_TYPE,VAR_0
+device_invalidate_state,FUNC_2
+wined3d_state_enable_light,FUNC_3
+wined3d_state_get_light,FUNC_4
+wined3d_cs_exec_set_light_enable,FUNC_5
+cs,VAR_1
+data,VAR_2
+op,VAR_3
+device,VAR_4
+light_info,VAR_5
+prev_idx,VAR_6

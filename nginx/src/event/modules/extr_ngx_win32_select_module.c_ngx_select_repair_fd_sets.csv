@@ -1,0 +1,16 @@
+FD_CLR,FUNC_0
+NGX_LOG_ALERT,VAR_0
+SOL_SOCKET,VAR_1
+SO_TYPE,VAR_2
+getsockopt,FUNC_1
+master_read_fd_set,VAR_3
+master_write_fd_set,VAR_4
+ngx_log_error,FUNC_2
+ngx_socket_errno,VAR_5
+ngx_select_repair_fd_sets,FUNC_3
+cycle,VAR_6
+n,VAR_7
+i,VAR_8
+len,VAR_9
+err,VAR_10
+s,VAR_11

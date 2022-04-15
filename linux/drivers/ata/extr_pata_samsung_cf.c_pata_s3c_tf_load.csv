@@ -1,0 +1,10 @@
+ATA_TFLAG_DEVICE,VAR_0
+ATA_TFLAG_ISADDR,VAR_1
+ATA_TFLAG_LBA48,VAR_2
+ata_outb,FUNC_0
+ata_wait_idle,FUNC_1
+pata_s3c_tf_load,FUNC_2
+ap,VAR_3
+tf,VAR_4
+ioaddr,VAR_5
+is_addr,VAR_6

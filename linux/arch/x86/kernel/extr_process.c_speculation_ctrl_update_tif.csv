@@ -1,0 +1,11 @@
+TIF_SPEC_FORCE_UPDATE,VAR_0
+TIF_SPEC_IB,VAR_1
+TIF_SSBD,VAR_2
+clear_tsk_thread_flag,FUNC_0
+set_tsk_thread_flag,FUNC_1
+task_spec_ib_disable,FUNC_2
+task_spec_ssb_disable,FUNC_3
+task_thread_info,FUNC_4
+test_and_clear_tsk_thread_flag,FUNC_5
+speculation_ctrl_update_tif,FUNC_6
+tsk,VAR_3

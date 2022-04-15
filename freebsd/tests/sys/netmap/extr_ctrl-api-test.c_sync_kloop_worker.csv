@@ -1,0 +1,17 @@
+NETMAP_REQ_SYNC_KLOOP_START,VAR_0
+NIOCCTRL,VAR_1
+THRET_FAILURE,VAR_2
+THRET_SUCCESS,VAR_3
+ioctl,FUNC_0
+memset,FUNC_1
+nmreq_hdr_init,FUNC_2
+perror,FUNC_3
+printf,FUNC_4
+pthread_exit,FUNC_5
+sem_post,FUNC_6
+sync_kloop_worker,FUNC_7
+opaque,VAR_4
+ctx,VAR_5
+req,VAR_6
+hdr,VAR_7
+ret,VAR_8

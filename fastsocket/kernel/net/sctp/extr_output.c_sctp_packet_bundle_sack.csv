@@ -1,0 +1,15 @@
+SCTP_EVENT_TIMEOUT_SACK,VAR_0
+SCTP_XMIT_OK,VAR_1
+del_timer,FUNC_0
+sctp_association_put,FUNC_1
+sctp_chunk_is_data,FUNC_2
+sctp_make_sack,FUNC_3
+sctp_packet_append_chunk,FUNC_4
+timer_pending,FUNC_5
+sctp_packet_bundle_sack,FUNC_6
+pkt,VAR_2
+chunk,VAR_3
+retval,VAR_4
+asoc,VAR_5
+timer,VAR_6
+sack,VAR_7

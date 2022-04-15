@@ -1,0 +1,9 @@
+PCI_EXT_CAP_ID_SRIOV,VAR_0
+PCI_SRIOV_TOTAL_VF,VAR_1
+pci_find_ext_capability,FUNC_0
+pci_read_config_word,FUNC_1
+lpfc_sli_sriov_nr_virtfn_get,FUNC_2
+phba,VAR_2
+pdev,VAR_3
+nr_virtfn,VAR_4
+pos,VAR_5

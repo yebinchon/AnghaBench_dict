@@ -1,0 +1,15 @@
+TestSetPageDirty,FUNC_0
+__set_page_dirty,FUNC_1
+page_buffers,FUNC_2
+page_has_buffers,FUNC_3
+page_mapping,FUNC_4
+set_buffer_dirty,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+unlikely,FUNC_8
+__set_page_dirty_buffers,FUNC_9
+page,VAR_0
+newly_dirty,VAR_1
+mapping,VAR_2
+head,VAR_3
+bh,VAR_4

@@ -1,0 +1,13 @@
+TIMER_IRQ,VAR_0
+TT_MODE_BASIC,VAR_1
+do_IRQ,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+time_travel_mode,VAR_2
+time_travel_set_time,FUNC_3
+time_travel_timer_expiry,VAR_3
+timer_handler,FUNC_4
+sig,VAR_4
+unused_si,VAR_5
+regs,VAR_6
+flags,VAR_7

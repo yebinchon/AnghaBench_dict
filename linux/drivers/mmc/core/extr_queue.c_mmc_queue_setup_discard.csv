@@ -1,0 +1,10 @@
+QUEUE_FLAG_DISCARD,VAR_0
+QUEUE_FLAG_SECERASE,VAR_1
+blk_queue_flag_set,FUNC_0
+blk_queue_max_discard_sectors,FUNC_1
+mmc_calc_max_discard,FUNC_2
+mmc_can_secure_erase_trim,FUNC_3
+mmc_queue_setup_discard,FUNC_4
+q,VAR_2
+card,VAR_3
+max_discard,VAR_4

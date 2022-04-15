@@ -1,0 +1,15 @@
+AddinShmemInitLock,VAR_0
+CHUNK_APPEND_LWLOCK_TRANCHE_NAME,VAR_1
+GetNamedLWLockTranche,FUNC_0
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_EXCLUSIVE,VAR_2
+RENDEZVOUS_CHUNK_APPEND_LWLOCK,VAR_3
+ShmemInitStruct,FUNC_3
+TS_LWLOCKS_SHMEM_NAME,VAR_4
+find_rendezvous_variable,FUNC_4
+memset,FUNC_5
+ts_lwlocks,VAR_5
+ts_lwlocks_shmem_startup,FUNC_6
+found,VAR_6
+lock_pointer,VAR_7

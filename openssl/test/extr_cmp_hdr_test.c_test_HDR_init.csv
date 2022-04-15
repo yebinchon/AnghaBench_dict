@@ -1,0 +1,15 @@
+CMP_HDR_TEST_FIXTURE,VAR_0
+CMP_TEST_REFVALUE_LENGTH,VAR_1
+EXECUTE_TEST,FUNC_0
+OSSL_CMP_CTX_set1_referenceValue,FUNC_1
+RAND_bytes,FUNC_2
+SETUP_TEST_FIXTURE,FUNC_3
+TEST_int_eq,FUNC_4
+TEST_true,FUNC_5
+execute_HDR_init_test,VAR_2
+fixture,VAR_3
+result,VAR_4
+set_up,VAR_5
+tear_down,FUNC_6
+test_HDR_init,FUNC_7
+ref,VAR_6

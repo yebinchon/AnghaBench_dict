@@ -1,0 +1,14 @@
+IFF_UP,VAR_0
+br,VAR_1
+br_debug,FUNC_0
+br_is_root_bridge,FUNC_1
+br_transmit_tcn,FUNC_2
+from_timer,FUNC_3
+jiffies,VAR_2
+mod_timer,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+tcn_timer,VAR_3
+br_tcn_timer_expired,FUNC_7
+t,VAR_4
+br,VAR_5

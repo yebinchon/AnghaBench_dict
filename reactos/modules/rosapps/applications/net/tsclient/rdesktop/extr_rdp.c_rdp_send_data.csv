@@ -1,0 +1,14 @@
+RDP_PDU_DATA,VAR_0
+SEC_ENCRYPT,VAR_1
+out_uint16,FUNC_0
+out_uint16_le,FUNC_1
+out_uint32_le,FUNC_2
+out_uint8,FUNC_3
+rdp_hdr,VAR_2
+s_pop_layer,FUNC_4
+sec_send,FUNC_5
+rdp_send_data,FUNC_6
+This,VAR_3
+s,VAR_4
+data_pdu_type,VAR_5
+length,VAR_6

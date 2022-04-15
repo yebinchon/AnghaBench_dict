@@ -1,0 +1,10 @@
+ACPI_SYSTEM_NOTIFY,VAR_0
+ACPI_TYPE_DEVICE,VAR_1
+AcpiRemoveNotifyHandler,FUNC_0
+AcpiWalkNamespace,FUNC_1
+acpi_get_handle,FUNC_2
+acpi_pci_bus_notify_handler,VAR_2
+acpi_pci_remove_notify_handler,VAR_3
+pci_detach,FUNC_3
+acpi_pci_detach,FUNC_4
+dev,VAR_4

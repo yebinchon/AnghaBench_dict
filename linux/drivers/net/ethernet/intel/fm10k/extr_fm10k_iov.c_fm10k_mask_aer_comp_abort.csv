@@ -1,0 +1,10 @@
+PCI_ERR_UNCOR_MASK,VAR_0
+PCI_ERR_UNC_COMP_ABORT,VAR_1
+PCI_EXT_CAP_ID_ERR,VAR_2
+pci_find_ext_capability,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+fm10k_mask_aer_comp_abort,FUNC_3
+pdev,VAR_3
+err_mask,VAR_4
+pos,VAR_5

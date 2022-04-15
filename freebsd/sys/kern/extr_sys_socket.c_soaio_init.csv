@@ -1,0 +1,17 @@
+AIOD_LIFETIME_DEFAULT,VAR_0
+INT_MAX,VAR_1
+MTX_DEF,VAR_2
+STAILQ_INIT,FUNC_0
+TASK_INIT,FUNC_1
+mtx_init,FUNC_2
+new_unrhdr,FUNC_3
+soaio_jobs,VAR_3
+soaio_jobs_lock,VAR_4
+soaio_kproc_create,VAR_5
+soaio_kproc_task,VAR_6
+soaio_kproc_unr,VAR_7
+soaio_lifetime,VAR_8
+soaio_target_procs,VAR_9
+taskqueue_enqueue,FUNC_4
+taskqueue_thread,VAR_10
+soaio_init,FUNC_5

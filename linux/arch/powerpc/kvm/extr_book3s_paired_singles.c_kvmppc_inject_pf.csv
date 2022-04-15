@@ -1,0 +1,13 @@
+BOOK3S_INTERRUPT_DATA_STORAGE,VAR_0
+kvmppc_book3s_queue_irqprio,FUNC_0
+kvmppc_get_msr,FUNC_1
+kvmppc_set_dar,FUNC_2
+kvmppc_set_dsisr,FUNC_3
+kvmppc_set_field,FUNC_4
+kvmppc_set_msr,FUNC_5
+kvmppc_inject_pf,FUNC_6
+vcpu,VAR_1
+eaddr,VAR_2
+is_store,VAR_3
+dsisr,VAR_4
+msr,VAR_5

@@ -1,0 +1,15 @@
+Assert,FUNC_0
+GetLastError,FUNC_1
+LOG,VAR_0
+MEM_RESERVE,VAR_1
+PAGE_NOACCESS,VAR_2
+PAGE_READWRITE,VAR_3
+PROTECTIVE_REGION_SIZE,VAR_4
+ShmemProtectiveRegion,VAR_5
+UsedShmemSegAddr,VAR_6
+UsedShmemSegSize,VAR_7
+VirtualAllocEx,FUNC_2
+elog,FUNC_3
+pgwin32_ReserveSharedMemoryRegion,FUNC_4
+hChild,VAR_8
+address,VAR_9

@@ -1,0 +1,9 @@
+PARSE_IP,VAR_0
+PARSE_IPV6,VAR_1
+PARSE_MPLS,VAR_2
+PARSE_VLAN,VAR_3
+bpf_tail_call,FUNC_0
+jmp_table,VAR_4
+parse_eth_proto,FUNC_1
+skb,VAR_5
+proto,VAR_6

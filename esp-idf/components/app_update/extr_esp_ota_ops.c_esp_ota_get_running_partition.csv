@@ -1,0 +1,15 @@
+ESP_PARTITION_SUBTYPE_ANY,VAR_0
+ESP_PARTITION_TYPE_APP,VAR_1
+SPI_FLASH_CACHE2PHYS_FAIL,VAR_2
+abort,FUNC_0
+assert,FUNC_1
+esp_partition_find,FUNC_2
+esp_partition_get,FUNC_3
+esp_partition_iterator_release,FUNC_4
+esp_partition_next,FUNC_5
+spi_flash_cache2phys,FUNC_6
+esp_ota_get_running_partition,FUNC_7
+curr_partition,VAR_3
+phys_offs,VAR_4
+it,VAR_5
+p,VAR_6

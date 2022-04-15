@@ -1,0 +1,15 @@
+D_PROBE,VAR_0
+PDEBUG,FUNC_0
+destroy_urbs,FUNC_1
+gspca_input_destroy_urb,FUNC_2
+input_unregister_device,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+usb_get_intfdata,FUNC_6
+usb_set_intfdata,FUNC_7
+video_device_node_name,FUNC_8
+video_unregister_device,FUNC_9
+wake_up_interruptible,FUNC_10
+gspca_disconnect,FUNC_11
+intf,VAR_1
+gspca_dev,VAR_2

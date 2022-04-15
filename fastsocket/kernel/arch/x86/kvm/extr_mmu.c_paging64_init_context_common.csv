@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+INVALID_PAGE,VAR_0
+is_pae,FUNC_1
+paging64_gva_to_gpa,VAR_1
+paging64_invlpg,VAR_2
+paging64_page_fault,VAR_3
+paging64_prefetch_page,VAR_4
+paging64_sync_page,VAR_5
+paging_free,VAR_6
+paging_new_cr3,VAR_7
+paging64_init_context_common,FUNC_2
+vcpu,VAR_8
+level,VAR_9
+context,VAR_10

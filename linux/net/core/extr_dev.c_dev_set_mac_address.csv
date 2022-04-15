@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+EOPNOTSUPP,VAR_2
+NETDEV_CHANGEADDR,VAR_3
+NET_ADDR_SET,VAR_4
+add_device_randomness,FUNC_0
+call_netdevice_notifiers,FUNC_1
+dev_pre_changeaddr_notify,FUNC_2
+netif_device_present,FUNC_3
+stub1,FUNC_4
+dev_set_mac_address,FUNC_5
+dev,VAR_5
+sa,VAR_6
+extack,VAR_7
+ops,VAR_8
+err,VAR_9

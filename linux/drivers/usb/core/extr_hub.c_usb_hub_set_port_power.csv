@@ -1,0 +1,11 @@
+USB_PORT_FEAT_POWER,VAR_0
+clear_bit,FUNC_0
+set_bit,FUNC_1
+set_port_feature,FUNC_2
+usb_clear_port_feature,FUNC_3
+usb_hub_set_port_power,FUNC_4
+hdev,VAR_1
+hub,VAR_2
+port1,VAR_3
+set,VAR_4
+ret,VAR_5

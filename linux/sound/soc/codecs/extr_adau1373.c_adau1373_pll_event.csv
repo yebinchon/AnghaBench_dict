@@ -1,0 +1,15 @@
+ADAU1373_PLL_CTRL6,FUNC_0
+ADAU1373_PLL_CTRL6_PLL_EN,VAR_0
+SND_SOC_DAPM_EVENT_ON,FUNC_1
+mdelay,FUNC_2
+regmap_update_bits,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+snd_soc_dapm_to_component,FUNC_5
+adau1373_pll_event,FUNC_6
+w,VAR_1
+kcontrol,VAR_2
+event,VAR_3
+component,VAR_4
+adau1373,VAR_5
+pll_id,VAR_6
+val,VAR_7

@@ -1,0 +1,15 @@
+ARMCP_PACKET_CURRENT_GET,VAR_0
+ARMCP_PKT_CTL_OPCODE_SHIFT,VAR_1
+SENSORS_PKT_TIMEOUT,VAR_2
+__cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+dev_err,FUNC_2
+memset,FUNC_3
+stub1,FUNC_4
+hl_get_current,FUNC_5
+hdev,VAR_3
+sensor_index,VAR_4
+attr,VAR_5
+pkt,VAR_6
+result,VAR_7
+rc,VAR_8

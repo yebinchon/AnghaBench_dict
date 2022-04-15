@@ -1,0 +1,17 @@
+ETR_EVENT_PORT0_CHANGE,VAR_0
+ETR_EVENT_PORT1_CHANGE,VAR_1
+ETR_EVENT_PORT_ALERT,VAR_2
+ETR_EVENT_SWITCH_LOCAL,VAR_3
+ETR_EVENT_SYNC_CHECK,VAR_4
+ETR_EVENT_UPDATE,VAR_5
+clear_bit,FUNC_0
+etr_events,VAR_6
+etr_port0_online,VAR_7
+etr_port0_uptodate,VAR_8
+etr_port1_online,VAR_9
+etr_port1_uptodate,VAR_10
+etr_tolec,VAR_11
+get_clock,FUNC_1
+test_and_clear_bit,FUNC_2
+etr_handle_events,FUNC_3
+eacr,VAR_12

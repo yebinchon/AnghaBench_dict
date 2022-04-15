@@ -1,0 +1,16 @@
+CSIO_HW_NEQ,VAR_0
+CSIO_HW_NFLQ,VAR_1
+CSIO_HW_NINTXQ,VAR_2
+CSIO_HW_NIQ,VAR_3
+CSIO_MAX_SCSI_QSETS,VAR_4
+CSIO_MIN_MEMPOOL_SZ,VAR_5
+CSIO_SCSI_RSP_LEN,VAR_6
+ENOMEM,VAR_7
+csio_hw_to_wrm,FUNC_0
+dma_pool_create,FUNC_1
+mempool_create_kmalloc_pool,FUNC_2
+mempool_destroy,FUNC_3
+csio_resource_alloc,FUNC_4
+hw,VAR_8
+wrm,VAR_9
+rv,VAR_10

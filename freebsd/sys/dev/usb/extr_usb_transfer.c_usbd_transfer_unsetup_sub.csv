@@ -1,0 +1,17 @@
+MA_OWNED,VAR_0
+M_USB,VAR_1
+USB_BUS_LOCK_ASSERT,FUNC_0
+USB_BUS_UNLOCK,FUNC_1
+USB_MS_TO_TICKS,FUNC_2
+cv_destroy,FUNC_3
+free,FUNC_4
+usb_dma_tag_unsetup,FUNC_5
+usb_pause_mtx,FUNC_6
+usb_pc_dmamap_destroy,FUNC_7
+usb_pc_free_mem,FUNC_8
+usb_proc_mwait,FUNC_9
+usbd_get_dma_delay,FUNC_10
+usbd_transfer_unsetup_sub,FUNC_11
+info,VAR_2
+needs_delay,VAR_3
+temp,VAR_4

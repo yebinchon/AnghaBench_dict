@@ -1,0 +1,16 @@
+DEBUGCTLMSR_FREEZE_LBRS_ON_PMI,VAR_0
+DEBUGCTLMSR_LBR,VAR_1
+LBR_CALL_STACK,VAR_2
+MSR_IA32_DEBUGCTLMSR,VAR_3
+MSR_LBR_SELECT,VAR_4
+cpu_hw_events,VAR_5
+rdmsrl,FUNC_0
+this_cpu_ptr,FUNC_1
+wrmsrl,FUNC_2
+x86_pmu,VAR_6
+__intel_pmu_lbr_enable,FUNC_3
+pmi,VAR_7
+cpuc,VAR_8
+debugctl,VAR_9
+lbr_select,VAR_10
+orig_debugctl,VAR_11

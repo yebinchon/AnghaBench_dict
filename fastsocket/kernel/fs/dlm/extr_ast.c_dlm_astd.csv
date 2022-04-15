@@ -1,0 +1,15 @@
+TASK_INTERRUPTIBLE,VAR_0
+TASK_RUNNING,VAR_1
+WAKE_ASTS,VAR_2
+astd_running,VAR_3
+astd_wakeflags,VAR_4
+kthread_should_stop,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+process_asts,FUNC_3
+schedule,FUNC_4
+set_current_state,FUNC_5
+test_and_clear_bit,FUNC_6
+test_bit,FUNC_7
+dlm_astd,FUNC_8
+data,VAR_5

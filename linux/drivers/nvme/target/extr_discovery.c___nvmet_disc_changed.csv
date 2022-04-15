@@ -1,0 +1,9 @@
+NVME_AEN_BIT_DISC_CHANGE,VAR_0
+NVME_AER_NOTICE_DISC_CHANGED,VAR_1
+NVME_AER_TYPE_NOTICE,VAR_2
+NVME_LOG_DISC,VAR_3
+nvmet_add_async_event,FUNC_0
+nvmet_aen_bit_disabled,FUNC_1
+__nvmet_disc_changed,FUNC_2
+port,VAR_4
+ctrl,VAR_5

@@ -1,0 +1,12 @@
+CLOCK_REALTIME,VAR_0
+add_ms_to_ts,FUNC_0
+clock_gettime,FUNC_1
+gettimeofday,FUNC_2
+pthread_cond_timedwait,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+os_event_timedwait,FUNC_6
+event,VAR_1
+milliseconds,VAR_2
+code,VAR_3
+ts,VAR_4

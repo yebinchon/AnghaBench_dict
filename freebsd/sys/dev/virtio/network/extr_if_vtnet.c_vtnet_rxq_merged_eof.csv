@@ -1,0 +1,15 @@
+M_PKTHDR,VAR_0
+m_freem,FUNC_0
+virtqueue_dequeue,FUNC_1
+vtnet_rxq_discard_buf,FUNC_2
+vtnet_rxq_discard_merged_bufs,FUNC_3
+vtnet_rxq_new_buf,FUNC_4
+vtnet_rxq_merged_eof,FUNC_5
+rxq,VAR_1
+m_head,VAR_2
+nbufs,VAR_3
+sc,VAR_4
+vq,VAR_5
+m,VAR_6
+m_tail,VAR_7
+len,VAR_8

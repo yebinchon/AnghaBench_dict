@@ -1,0 +1,13 @@
+BRIDGE_TP6810,VAR_0
+CX0342_AUTO_ADC_CALIB,VAR_1
+SENSOR_CX0342,VAR_2
+TP6800_R3F_FRAME_RATE,VAR_3
+get_fr_idx,FUNC_0
+i2c_w,FUNC_1
+reg_r,FUNC_2
+reg_w,FUNC_3
+setframerate,FUNC_4
+gspca_dev,VAR_4
+val,VAR_5
+sd,VAR_6
+fr_idx,VAR_7

@@ -1,0 +1,7 @@
+SDHCI_CARD_PRESENT_TICKS,VAR_0
+SDHCI_GET_CARD_PRESENT,FUNC_0
+callout_reset,FUNC_1
+sdhci_handle_card_present,FUNC_2
+sdhci_card_poll,FUNC_3
+arg,VAR_1
+slot,VAR_2

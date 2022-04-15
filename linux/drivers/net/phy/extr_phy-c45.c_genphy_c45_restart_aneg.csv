@@ -1,0 +1,7 @@
+MDIO_AN_CTRL1_ENABLE,VAR_0
+MDIO_AN_CTRL1_RESTART,VAR_1
+MDIO_CTRL1,VAR_2
+MDIO_MMD_AN,VAR_3
+phy_set_bits_mmd,FUNC_0
+genphy_c45_restart_aneg,FUNC_1
+phydev,VAR_4

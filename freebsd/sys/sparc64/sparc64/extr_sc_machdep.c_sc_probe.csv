@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+SC_DRIVER_NAME,VAR_1
+SC_MD_FLAGS,VAR_2
+SC_MD_MAX,VAR_3
+device_get_flags,FUNC_0
+device_get_unit,FUNC_1
+device_set_desc,FUNC_2
+ofw_bus_get_name,FUNC_3
+sc_probe_unit,FUNC_4
+strcmp,FUNC_5
+sc_probe,FUNC_6
+dev,VAR_4
+unit,VAR_5

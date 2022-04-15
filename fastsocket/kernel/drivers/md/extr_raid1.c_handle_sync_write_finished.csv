@@ -1,0 +1,16 @@
+BIO_UPTODATE,VAR_0
+R1BIO_MadeGood,VAR_1
+R1BIO_WriteError,VAR_2
+md_done_sync,FUNC_0
+md_error,FUNC_1
+put_buf,FUNC_2
+rdev_clear_badblocks,FUNC_3
+rdev_set_badblocks,FUNC_4
+test_bit,FUNC_5
+handle_sync_write_finished,FUNC_6
+conf,VAR_3
+r1_bio,VAR_4
+m,VAR_5
+s,VAR_6
+rdev,VAR_7
+bio,VAR_8

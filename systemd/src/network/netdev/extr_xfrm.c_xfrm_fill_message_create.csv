@@ -1,0 +1,13 @@
+IFLA_XFRM_IF_ID,VAR_0
+IFLA_XFRM_LINK,VAR_1
+LOOPBACK_IFINDEX,VAR_2
+XFRM,FUNC_0
+assert,FUNC_1
+log_netdev_error_errno,FUNC_2
+sd_netlink_message_append_u32,FUNC_3
+xfrm_fill_message_create,FUNC_4
+netdev,VAR_3
+link,VAR_4
+message,VAR_5
+x,VAR_6
+r,VAR_7

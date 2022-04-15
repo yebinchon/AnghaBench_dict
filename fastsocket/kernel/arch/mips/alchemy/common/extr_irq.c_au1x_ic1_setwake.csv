@@ -1,0 +1,16 @@
+AU1000_GPIO_0,VAR_0
+AU1000_GPIO_7,VAR_1
+AU1000_INTC1_INT_BASE,VAR_2
+EINVAL,VAR_3
+SYS_WAKEMSK,VAR_4
+au_readl,FUNC_0
+au_sync,FUNC_1
+au_writel,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+au1x_ic1_setwake,FUNC_5
+irq,VAR_5
+on,VAR_6
+bit,VAR_7
+wakemsk,VAR_8
+flags,VAR_9

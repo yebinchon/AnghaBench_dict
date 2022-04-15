@@ -1,0 +1,16 @@
+CALIBRATION_REG,VAR_0
+SELECT_8800_BIT,VAR_1
+cal_enable_bits,FUNC_0
+comedi_error,FUNC_1
+devpriv,VAR_2
+outw,FUNC_2
+udelay,FUNC_3
+write_calibration_bitstream,FUNC_4
+caldac_8800_write,FUNC_5
+dev,VAR_3
+address,VAR_4
+value,VAR_5
+num_caldac_channels,VAR_6
+bitstream_length,VAR_7
+bitstream,VAR_8
+caldac_8800_udelay,VAR_9

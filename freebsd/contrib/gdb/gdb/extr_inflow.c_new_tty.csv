@@ -1,0 +1,16 @@
+O_NOCTTY,VAR_0
+O_RDWR,VAR_1
+SIGTTOU,VAR_2
+SIG_IGN,FUNC_0
+TIOCNOTTY,VAR_3
+_exit,FUNC_1
+close,FUNC_2
+dup,FUNC_3
+errno,VAR_4
+inferior_thisrun_terminal,VAR_5
+ioctl,FUNC_4
+open,FUNC_5
+print_sys_errmsg,FUNC_6
+signal,FUNC_7
+new_tty,FUNC_8
+tty,VAR_6

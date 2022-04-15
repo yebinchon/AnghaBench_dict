@@ -1,0 +1,10 @@
+LAN743X_CSR_READ_OP,VAR_0
+PMT_CTL,VAR_1
+PMT_CTL_ETH_PHY_RST_,VAR_2
+PMT_CTL_READY_,VAR_3
+lan743x_csr_read,FUNC_0
+lan743x_csr_write,FUNC_1
+readx_poll_timeout,FUNC_2
+lan743x_phy_reset,FUNC_3
+adapter,VAR_4
+data,VAR_5

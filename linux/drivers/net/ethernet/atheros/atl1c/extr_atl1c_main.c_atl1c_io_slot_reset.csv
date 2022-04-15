@@ -1,0 +1,16 @@
+PCI_D3cold,VAR_0
+PCI_D3hot,VAR_1
+PCI_ERS_RESULT_DISCONNECT,VAR_2
+PCI_ERS_RESULT_RECOVERED,VAR_3
+atl1c_reset_mac,FUNC_0
+dev_err,FUNC_1
+netdev_priv,FUNC_2
+netif_msg_hw,FUNC_3
+pci_enable_device,FUNC_4
+pci_enable_wake,FUNC_5
+pci_get_drvdata,FUNC_6
+pci_set_master,FUNC_7
+atl1c_io_slot_reset,FUNC_8
+pdev,VAR_4
+netdev,VAR_5
+adapter,VAR_6

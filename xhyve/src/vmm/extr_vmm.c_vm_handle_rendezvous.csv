@@ -1,0 +1,17 @@
+CPU_AND,FUNC_0
+CPU_CMP,FUNC_1
+CPU_ISSET,FUNC_2
+CPU_SET,FUNC_3
+KASSERT,FUNC_4
+RENDEZVOUS_CTR0,FUNC_5
+VCPU_CTR0,FUNC_6
+VM_MAXCPU,VAR_0
+pthread_cond_broadcast,FUNC_7
+pthread_cond_wait,FUNC_8
+pthread_mutex_lock,FUNC_9
+pthread_mutex_unlock,FUNC_10
+stub1,FUNC_11
+vm_set_rendezvous_func,FUNC_12
+vm_handle_rendezvous,FUNC_13
+vm,VAR_1
+vcpuid,VAR_2

@@ -1,0 +1,12 @@
+FROM_CHERRY_PICK,VAR_0
+FROM_COMMIT,VAR_1
+FROM_MERGE,VAR_2
+file_exists,FUNC_0
+git_path_cherry_pick_head,FUNC_1
+git_path_merge_head,FUNC_2
+git_path_seq_dir,FUNC_3
+sequencer_in_use,VAR_3
+the_repository,VAR_4
+whence,VAR_5
+determine_whence,FUNC_4
+s,VAR_6

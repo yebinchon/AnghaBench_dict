@@ -1,0 +1,16 @@
+IFF_DRV_RUNNING,VAR_0
+RT_DEBUG_PERIODIC,VAR_1
+RT_DPRINTF,FUNC_0
+RT_SOFTC_LOCK,FUNC_1
+RT_SOFTC_UNLOCK,FUNC_2
+callout_reset,FUNC_3
+hz,VAR_2
+rt_periodic,VAR_3
+rt_update_raw_counters,FUNC_4
+rt_update_stats,FUNC_5
+rt_watchdog,FUNC_6
+rt_periodic_task,FUNC_7
+context,VAR_4
+pending,VAR_5
+sc,VAR_6
+ifp,VAR_7

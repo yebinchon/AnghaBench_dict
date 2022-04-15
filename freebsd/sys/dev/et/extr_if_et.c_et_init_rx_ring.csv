@@ -1,0 +1,17 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+ET_RXSTAT_RING_SIZE,VAR_2
+ET_RX_NDESC,VAR_3
+ET_RX_NRING,VAR_4
+bus_dmamap_sync,FUNC_0
+bzero,FUNC_1
+if_printf,FUNC_2
+stub1,FUNC_3
+et_init_rx_ring,FUNC_4
+sc,VAR_5
+rxsd,VAR_6
+rxst_ring,VAR_7
+rbd,VAR_8
+i,VAR_9
+error,VAR_10
+n,VAR_11

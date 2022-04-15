@@ -1,0 +1,16 @@
+EMSGSIZE,VAR_0
+NL80211_ATTR_IFINDEX,VAR_1
+NL80211_ATTR_WIPHY,VAR_2
+genlmsg_cancel,FUNC_0
+genlmsg_end,FUNC_1
+nl80211hdr_put,FUNC_2
+nla_put_u32,FUNC_3
+nl80211_send_sched_scan_msg,FUNC_4
+msg,VAR_3
+rdev,VAR_4
+netdev,VAR_5
+portid,VAR_6
+seq,VAR_7
+flags,VAR_8
+cmd,VAR_9
+hdr,VAR_10

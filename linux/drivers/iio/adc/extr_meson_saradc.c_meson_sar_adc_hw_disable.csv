@@ -1,0 +1,13 @@
+MESON_SAR_ADC_REG3,VAR_0
+MESON_SAR_ADC_REG3_ADC_EN,VAR_1
+clk_disable_unprepare,FUNC_0
+iio_priv,FUNC_1
+meson_sar_adc_lock,FUNC_2
+meson_sar_adc_set_bandgap,FUNC_3
+meson_sar_adc_unlock,FUNC_4
+regmap_update_bits,FUNC_5
+regulator_disable,FUNC_6
+meson_sar_adc_hw_disable,FUNC_7
+indio_dev,VAR_2
+priv,VAR_3
+ret,VAR_4

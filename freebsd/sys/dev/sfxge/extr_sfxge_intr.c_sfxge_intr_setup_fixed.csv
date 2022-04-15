@@ -1,0 +1,16 @@
+EFX_INTR_LINE,VAR_0
+ENOMEM,VAR_1
+M_SFXGE,VAR_2
+M_WAITOK,VAR_3
+RF_ACTIVE,VAR_4
+RF_SHAREABLE,VAR_5
+SYS_RES_IRQ,VAR_6
+bus_alloc_resource_any,FUNC_0
+malloc,FUNC_1
+sfxge_intr_setup_fixed,FUNC_2
+sc,VAR_7
+table,VAR_8
+intr,VAR_9
+res,VAR_10
+dev,VAR_11
+rid,VAR_12

@@ -1,0 +1,16 @@
+ADC5_CONV_TIMEOUT,VAR_0
+adc5_configure,FUNC_0
+adc5_poll_wait_eoc,FUNC_1
+adc5_read_voltage_data,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pr_debug,FUNC_5
+pr_err,FUNC_6
+wait_for_completion_timeout,FUNC_7
+adc5_do_conversion,FUNC_8
+adc,VAR_1
+prop,VAR_2
+chan,VAR_3
+data_volt,VAR_4
+data_cur,VAR_5
+ret,VAR_6

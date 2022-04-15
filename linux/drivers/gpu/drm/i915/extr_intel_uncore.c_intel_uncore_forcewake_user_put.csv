@@ -1,0 +1,11 @@
+FORCEWAKE_ALL,VAR_0
+check_for_unclaimed_mmio,FUNC_0
+dev_info,FUNC_1
+intel_uncore_forcewake_put__locked,FUNC_2
+mmio_debug_resume,FUNC_3
+spin_lock,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock,FUNC_6
+spin_unlock_irq,FUNC_7
+intel_uncore_forcewake_user_put,FUNC_8
+uncore,VAR_1

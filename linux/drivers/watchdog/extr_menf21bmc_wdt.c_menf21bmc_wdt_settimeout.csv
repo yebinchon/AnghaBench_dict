@@ -1,0 +1,8 @@
+BMC_CMD_WD_TIME,VAR_0
+i2c_smbus_write_word_data,FUNC_0
+watchdog_get_drvdata,FUNC_1
+menf21bmc_wdt_settimeout,FUNC_2
+wdt,VAR_1
+timeout,VAR_2
+ret,VAR_3
+drv_data,VAR_4

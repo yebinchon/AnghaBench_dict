@@ -1,0 +1,17 @@
+SCSI_MODE_PAGE_CONTROL,VAR_0
+SCSI_MODE_SELECT_MODE_PAGE_D_SENSE,VAR_1
+SCSI_MODE_SENSE_PC_SHIFT,VAR_2
+sati_cb_get_cdb_address,FUNC_0
+sati_get_cdb_byte,FUNC_1
+sati_get_data_byte,FUNC_2
+sati_mode_sense_copy_initial_data,FUNC_3
+sati_set_data_byte,FUNC_4
+sati_mode_sense_control_translate_data,FUNC_5
+sequence,VAR_3
+scsi_io,VAR_4
+identify,VAR_5
+offset,VAR_6
+cdb,VAR_7
+page_control,VAR_8
+page_length,VAR_9
+value,VAR_10

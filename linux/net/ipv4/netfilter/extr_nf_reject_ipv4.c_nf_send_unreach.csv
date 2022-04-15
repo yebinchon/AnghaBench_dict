@@ -1,0 +1,15 @@
+ICMP_DEST_UNREACH,VAR_0
+IP_OFFSET,VAR_1
+htons,FUNC_0
+icmp_send,FUNC_1
+ip_hdr,FUNC_2
+ip_hdrlen,FUNC_3
+nf_ip_checksum,FUNC_4
+nf_reject_verify_csum,FUNC_5
+skb_csum_unnecessary,FUNC_6
+nf_send_unreach,FUNC_7
+skb_in,VAR_2
+code,VAR_3
+hook,VAR_4
+iph,VAR_5
+proto,VAR_6

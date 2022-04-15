@@ -1,0 +1,13 @@
+EIO,VAR_0
+USB_CTRL_GET_TIMEOUT,VAR_1
+USB_DIR_IN,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_TYPE_VENDOR,VAR_4
+usb_control_msg,FUNC_0
+usb_rcvctrlpipe,FUNC_1
+at76_get_mib,FUNC_2
+udev,VAR_5
+mib,VAR_6
+buf,VAR_7
+buf_size,VAR_8
+ret,VAR_9

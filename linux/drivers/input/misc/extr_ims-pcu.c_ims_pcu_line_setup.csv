@@ -1,0 +1,14 @@
+USB_CDC_REQ_SET_CONTROL_LINE_STATE,VAR_0
+USB_CDC_REQ_SET_LINE_CODING,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_CLASS,VAR_3
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+memset,FUNC_2
+usb_control_msg,FUNC_3
+usb_sndctrlpipe,FUNC_4
+ims_pcu_line_setup,FUNC_5
+pcu,VAR_4
+interface,VAR_5
+line,VAR_6
+error,VAR_7

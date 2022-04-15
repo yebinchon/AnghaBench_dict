@@ -1,0 +1,17 @@
+DPM_TABLE_475,VAR_0
+RADEON_CG_BLOCK_VCE,VAR_1
+RREG32_SMC,FUNC_0
+VceBootLevel,FUNC_1
+VceBootLevel_MASK,VAR_2
+WREG32_SMC,FUNC_2
+ci_enable_vce_dpm,FUNC_3
+ci_get_pi,FUNC_4
+ci_get_vce_boot_level,FUNC_5
+cik_update_cg,FUNC_6
+ci_update_vce_dpm,FUNC_7
+rdev,VAR_3
+radeon_new_state,VAR_4
+radeon_current_state,VAR_5
+pi,VAR_6
+ret,VAR_7
+tmp,VAR_8

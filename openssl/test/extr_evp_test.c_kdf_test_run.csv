@@ -1,0 +1,11 @@
+EVP_KDF_CTX_set_params,FUNC_0
+EVP_KDF_derive,FUNC_1
+OPENSSL_free,FUNC_2
+OPENSSL_malloc,FUNC_3
+TEST_ptr,FUNC_4
+memory_err_compare,FUNC_5
+kdf_test_run,FUNC_6
+t,VAR_0
+expected,VAR_1
+got,VAR_2
+got_len,VAR_3

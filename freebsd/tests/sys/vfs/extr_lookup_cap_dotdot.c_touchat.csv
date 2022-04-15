@@ -1,0 +1,10 @@
+ATF_REQUIRE,FUNC_0
+O_CREAT,VAR_0
+O_TRUNC,VAR_1
+O_WRONLY,VAR_2
+close,FUNC_1
+openat,FUNC_2
+touchat,FUNC_3
+_dirfd,VAR_3
+name,VAR_4
+fd,VAR_5

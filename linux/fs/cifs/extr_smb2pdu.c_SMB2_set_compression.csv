@@ -1,0 +1,15 @@
+CIFSMaxBufSize,VAR_0
+COMPRESSION_FORMAT_DEFAULT,VAR_1
+FSCTL_SET_COMPRESSION,VAR_2
+FYI,VAR_3
+SMB2_ioctl,FUNC_0
+cifs_dbg,FUNC_1
+cpu_to_le16,FUNC_2
+SMB2_set_compression,FUNC_3
+xid,VAR_4
+tcon,VAR_5
+persistent_fid,VAR_6
+volatile_fid,VAR_7
+rc,VAR_8
+fsctl_input,VAR_9
+ret_data,VAR_10

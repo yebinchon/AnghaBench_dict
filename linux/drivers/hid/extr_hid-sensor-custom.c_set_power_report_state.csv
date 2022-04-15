@@ -1,0 +1,15 @@
+HID_USAGE_SENSOR_PROP_POWER_STATE_D0_FULL_POWER_ENUM,VAR_0
+HID_USAGE_SENSOR_PROP_POWER_STATE_D4_POWER_OFF_ENUM,VAR_1
+HID_USAGE_SENSOR_PROP_REPORTING_STATE_ALL_EVENTS_ENUM,VAR_2
+HID_USAGE_SENSOR_PROP_REPORTING_STATE_NO_EVENTS_ENUM,VAR_3
+hid_err,FUNC_0
+hid_sensor_get_usage_index,FUNC_1
+sensor_hub_set_feature,FUNC_2
+set_power_report_state,FUNC_3
+sensor_inst,VAR_4
+state,VAR_5
+power_val,VAR_6
+report_val,VAR_7
+power_state_usage_id,VAR_8
+report_state_usage_id,VAR_9
+ret,VAR_10

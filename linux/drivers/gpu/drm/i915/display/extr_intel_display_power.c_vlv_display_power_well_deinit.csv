@@ -1,0 +1,8 @@
+intel_hpd_poll_init,FUNC_0
+intel_power_sequencer_reset,FUNC_1
+intel_synchronize_irq,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+valleyview_disable_display_irqs,FUNC_5
+vlv_display_power_well_deinit,FUNC_6
+dev_priv,VAR_0

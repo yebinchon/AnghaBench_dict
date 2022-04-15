@@ -1,0 +1,14 @@
+DW_SPI_ISR,VAR_0
+IRQ_HANDLED,VAR_1
+IRQ_NONE,VAR_2
+SPI_INT_TXEI,VAR_3
+dw_readl,FUNC_0
+spi_controller_get_devdata,FUNC_1
+spi_mask_intr,FUNC_2
+stub1,FUNC_3
+dw_spi_irq,FUNC_4
+irq,VAR_4
+dev_id,VAR_5
+master,VAR_6
+dws,VAR_7
+irq_status,VAR_8

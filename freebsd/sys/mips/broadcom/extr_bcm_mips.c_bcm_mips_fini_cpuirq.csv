@@ -1,0 +1,12 @@
+BCM_MIPS_LOCK,FUNC_0
+BCM_MIPS_UNLOCK,FUNC_1
+EBUSY,VAR_0
+KASSERT,FUNC_2
+SYS_RES_IRQ,VAR_1
+bus_delete_resource,FUNC_3
+bus_release_resource,FUNC_4
+bus_teardown_intr,FUNC_5
+bcm_mips_fini_cpuirq,FUNC_6
+sc,VAR_2
+cpuirq,VAR_3
+error,VAR_4

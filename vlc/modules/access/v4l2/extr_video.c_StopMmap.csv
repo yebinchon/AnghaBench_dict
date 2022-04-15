@@ -1,0 +1,11 @@
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_0
+VIDIOC_STREAMOFF,VAR_1
+free,FUNC_0
+v4l2_ioctl,FUNC_1
+v4l2_munmap,FUNC_2
+StopMmap,FUNC_3
+fd,VAR_2
+bufv,VAR_3
+bufc,VAR_4
+type,VAR_5
+i,VAR_6

@@ -1,0 +1,9 @@
+LPFC_MBX_WAKE,VAR_0
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+wake_up_interruptible,FUNC_2
+lpfc_sli_wake_mbox_wait,FUNC_3
+phba,VAR_1
+pmboxq,VAR_2
+pdone_q,VAR_3
+drvr_flag,VAR_4

@@ -1,0 +1,14 @@
+CAN_STATE_BUS_OFF,VAR_0
+NETDEV_TX_BUSY,VAR_1
+NETDEV_TX_OK,VAR_2
+can_dropped_invalid_skb,FUNC_0
+m_can_clean,FUNC_1
+m_can_tx_handler,FUNC_2
+netdev_err,FUNC_3
+netdev_priv,FUNC_4
+netif_stop_queue,FUNC_5
+queue_work,FUNC_6
+m_can_start_xmit,FUNC_7
+skb,VAR_3
+dev,VAR_4
+cdev,VAR_5

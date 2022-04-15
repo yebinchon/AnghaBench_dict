@@ -1,0 +1,6 @@
+SEC_IPC_INPUT_DOORBELL_REG,VAR_0
+TXE_INTR_IN_READY_BIT,VAR_1
+clear_bit,FUNC_0
+mei_txe_sec_reg_write,FUNC_1
+mei_txe_input_doorbell_set,FUNC_2
+hw,VAR_2

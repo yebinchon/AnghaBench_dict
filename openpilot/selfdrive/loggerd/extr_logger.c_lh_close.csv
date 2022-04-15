@@ -1,0 +1,11 @@
+BZ2_bzWriteClose,FUNC_0
+assert,FUNC_1
+fclose,FUNC_2
+pthread_mutex_destroy,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+unlink,FUNC_6
+lh_close,FUNC_7
+h,VAR_0
+bzerror,VAR_1
+bzerror,VAR_2

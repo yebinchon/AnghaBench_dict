@@ -1,0 +1,13 @@
+CXL_REAL_MODE,VAR_0
+CXL_TRANSLATED_MODE,VAR_1
+EINVAL,VAR_2
+SPRN_LPID,VAR_3
+cxl_calculate_sr,FUNC_0
+get_task_mm,FUNC_1
+mfspr,FUNC_2
+mmput,FUNC_3
+cxllib_get_PE_attributes,FUNC_4
+task,VAR_4
+translation_mode,VAR_5
+attr,VAR_6
+mm,VAR_7

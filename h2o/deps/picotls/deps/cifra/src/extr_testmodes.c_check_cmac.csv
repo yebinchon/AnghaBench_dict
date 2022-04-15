@@ -1,0 +1,16 @@
+TEST_CHECK,FUNC_0
+cf_aes,VAR_0
+cf_aes_init,FUNC_1
+cf_cmac_init,FUNC_2
+cf_cmac_sign,FUNC_3
+memcmp,FUNC_4
+check_cmac,FUNC_5
+key,VAR_1
+nkey,VAR_2
+msg,VAR_3
+nmsg,VAR_4
+wanttag,VAR_5
+ntag,VAR_6
+gottag,VAR_7
+aes,VAR_8
+cmac,VAR_9

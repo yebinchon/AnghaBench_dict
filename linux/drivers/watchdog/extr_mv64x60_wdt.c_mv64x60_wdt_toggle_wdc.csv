@@ -1,0 +1,15 @@
+MV64x60_WDC_ENABLED_SHIFT,VAR_0
+MV64x60_WDT_WDC_OFFSET,VAR_1
+mv64x60_wdt_count,VAR_2
+mv64x60_wdt_regs,VAR_3
+mv64x60_wdt_spinlock,VAR_4
+readl,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+writel,FUNC_3
+mv64x60_wdt_toggle_wdc,FUNC_4
+enabled_predicate,VAR_5
+field_shift,VAR_6
+data,VAR_7
+enabled,VAR_8
+ret,VAR_9

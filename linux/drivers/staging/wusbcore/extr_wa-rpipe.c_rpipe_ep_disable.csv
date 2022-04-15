@@ -1,0 +1,16 @@
+USB_CTRL_SET_TIMEOUT,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_RPIPE,VAR_2
+USB_REQ_RPIPE_ABORT,VAR_3
+USB_TYPE_CLASS,VAR_4
+le16_to_cpu,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rpipe_put,FUNC_3
+usb_control_msg,FUNC_4
+usb_sndctrlpipe,FUNC_5
+rpipe_ep_disable,FUNC_6
+wa,VAR_5
+ep,VAR_6
+rpipe,VAR_7
+index,VAR_8

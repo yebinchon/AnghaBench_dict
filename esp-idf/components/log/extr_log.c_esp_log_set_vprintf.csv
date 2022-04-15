@@ -1,0 +1,9 @@
+portMAX_DELAY,VAR_0
+s_log_mutex,VAR_1
+s_log_print_func,VAR_2
+xSemaphoreCreateMutex,FUNC_0
+xSemaphoreGive,FUNC_1
+xSemaphoreTake,FUNC_2
+esp_log_set_vprintf,FUNC_3
+func,VAR_3
+orig_func,VAR_4

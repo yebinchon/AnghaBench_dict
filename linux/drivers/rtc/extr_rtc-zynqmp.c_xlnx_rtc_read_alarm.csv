@@ -1,0 +1,10 @@
+RTC_ALRM,VAR_0
+RTC_INT_ALRM,VAR_1
+RTC_INT_MASK,VAR_2
+dev_get_drvdata,FUNC_0
+readl,FUNC_1
+rtc_time64_to_tm,FUNC_2
+xlnx_rtc_read_alarm,FUNC_3
+dev,VAR_3
+alrm,VAR_4
+xrtcdev,VAR_5

@@ -1,0 +1,13 @@
+__skb_unlink,FUNC_0
+j1939_skb_to_cb,FUNC_1
+kfree_skb,FUNC_2
+skb_peek,FUNC_3
+skb_queue_len,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+j1939_session_skb_drop_old,FUNC_7
+session,VAR_0
+do_skb,VAR_1
+do_skcb,VAR_2
+offset_start,VAR_3
+flags,VAR_4

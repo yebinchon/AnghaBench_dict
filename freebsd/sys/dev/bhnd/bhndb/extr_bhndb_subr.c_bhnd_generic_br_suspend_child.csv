@@ -1,0 +1,12 @@
+BUS_GET_RESOURCE_LIST,FUNC_0
+BUS_SUSPEND_CHILD,FUNC_1
+EBUSY,VAR_0
+bhnd_generic_suspend_child,FUNC_2
+bhndb_do_suspend_resources,FUNC_3
+device_get_parent,FUNC_4
+device_is_suspended,FUNC_5
+bhnd_generic_br_suspend_child,FUNC_6
+dev,VAR_1
+child,VAR_2
+rl,VAR_3
+error,VAR_4

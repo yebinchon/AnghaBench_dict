@@ -1,0 +1,13 @@
+MEM_DETECT_BIN_SEARCH,VAR_0
+MEM_DETECT_DIAG260,VAR_1
+MEM_DETECT_SCLP_READ_INFO,VAR_2
+MEM_DETECT_SCLP_STOR_INFO,VAR_3
+add_mem_detect_block,FUNC_0
+diag260,FUNC_1
+get_mem_detect_end,FUNC_2
+max_physmem_end,VAR_4
+mem_detect,VAR_5
+sclp_early_get_memsize,FUNC_3
+sclp_early_read_storage_info,FUNC_4
+search_mem_end,FUNC_5
+detect_memory,FUNC_6

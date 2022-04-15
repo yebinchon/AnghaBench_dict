@@ -1,0 +1,13 @@
+BANK_SELECT,VAR_0
+CFG_MII_SELECT,VAR_1
+EOPNOTSUPP,VAR_2
+SMC_SELECT_BANK,FUNC_0
+inw,FUNC_1
+mii_nway_restart,FUNC_2
+netdev_priv,FUNC_3
+smc_nway_reset,FUNC_4
+dev,VAR_3
+smc,VAR_4
+ioaddr,VAR_5
+saved_bank,VAR_6
+res,VAR_7

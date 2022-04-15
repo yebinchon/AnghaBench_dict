@@ -1,0 +1,17 @@
+BoolGetDatum,FUNC_0
+Int32GetDatum,FUNC_1
+Int64GetDatum,FUNC_2
+SetupTuplestore,FUNC_3
+TimestampTzGetDatum,FUNC_4
+memset,FUNC_5
+tuplestore_donestoring,FUNC_6
+tuplestore_putvalues,FUNC_7
+ReturnWaitGraph,FUNC_8
+waitGraph,VAR_0
+fcinfo,VAR_1
+curEdgeNum,VAR_2
+tupleDesc,VAR_3
+tupleStore,VAR_4
+values,VAR_5
+nulls,VAR_6
+curEdge,VAR_7

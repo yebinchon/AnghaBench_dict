@@ -1,0 +1,16 @@
+dprintk,FUNC_0
+locks_in_grace,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+nlm_granted,VAR_0
+nlm_lck_denied,VAR_1
+nlm_lck_denied_grace_period,VAR_2
+nlmsvc_lookup_block,FUNC_4
+nlmsvc_release_block,FUNC_5
+nlmsvc_unlink_block,FUNC_6
+vfs_cancel_lock,FUNC_7
+nlmsvc_cancel_blocked,FUNC_8
+file,VAR_3
+lock,VAR_4
+block,VAR_5
+status,VAR_6

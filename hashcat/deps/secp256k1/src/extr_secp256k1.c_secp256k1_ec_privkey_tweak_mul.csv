@@ -1,0 +1,15 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+memset,FUNC_2
+secp256k1_eckey_privkey_tweak_mul,FUNC_3
+secp256k1_scalar_clear,FUNC_4
+secp256k1_scalar_get_b32,FUNC_5
+secp256k1_scalar_set_b32,FUNC_6
+secp256k1_ec_privkey_tweak_mul,FUNC_7
+ctx,VAR_0
+seckey,VAR_1
+tweak,VAR_2
+factor,VAR_3
+sec,VAR_4
+ret,VAR_5
+overflow,VAR_6

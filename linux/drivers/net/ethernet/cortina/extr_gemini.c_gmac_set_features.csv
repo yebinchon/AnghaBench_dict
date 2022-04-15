@@ -1,0 +1,15 @@
+CONFIG0_RX_CHKSUM,VAR_0
+GMAC_CONFIG0,VAR_1
+NETIF_F_RXCSUM,VAR_2
+netdev_priv,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+gmac_set_features,FUNC_5
+netdev,VAR_3
+features,VAR_4
+port,VAR_5
+enable,VAR_6
+flags,VAR_7
+reg,VAR_8

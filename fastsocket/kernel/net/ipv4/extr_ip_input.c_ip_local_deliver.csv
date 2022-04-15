@@ -1,0 +1,12 @@
+IP_DEFRAG_LOCAL_DELIVER,VAR_0
+IP_MF,VAR_1
+IP_OFFSET,VAR_2
+NF_HOOK,FUNC_0
+NF_INET_LOCAL_IN,VAR_3
+PF_INET,VAR_4
+htons,FUNC_1
+ip_defrag,FUNC_2
+ip_hdr,FUNC_3
+ip_local_deliver_finish,VAR_5
+ip_local_deliver,FUNC_4
+skb,VAR_6

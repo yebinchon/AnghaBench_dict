@@ -1,0 +1,17 @@
+CAN_EFF_FLAG,VAR_0
+CAN_RTR_FLAG,VAR_1
+PCAN_USBPRO_TXMSG0,VAR_2
+PCAN_USBPRO_TXMSG4,VAR_3
+PCAN_USBPRO_TXMSG8,VAR_4
+pcan_msg_add_rec,FUNC_0
+pcan_msg_init_empty,FUNC_1
+pcan_usb_pro_encode_msg,FUNC_2
+dev,VAR_5
+skb,VAR_6
+obuf,VAR_7
+size,VAR_8
+cf,VAR_9
+data_type,VAR_10
+len,VAR_11
+flags,VAR_12
+usb_msg,VAR_13

@@ -1,0 +1,13 @@
+EVENT_ENTRY_SIZE,VAR_0
+MMIO_EVT_HEAD_OFFSET,VAR_1
+MMIO_EVT_TAIL_OFFSET,VAR_2
+iommu_print_event,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+iommu_poll_events,FUNC_5
+iommu,VAR_3
+head,VAR_4
+tail,VAR_5
+flags,VAR_6

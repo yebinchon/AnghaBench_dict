@@ -1,0 +1,14 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+STATUS_RFKILL_HW,VAR_0
+STATUS_RFKILL_OPMODE,VAR_1
+clear_bit,FUNC_1
+iwl_is_rfkill_set,FUNC_2
+iwl_trans_pcie_rf_kill,FUNC_3
+set_bit,FUNC_4
+test_bit,FUNC_5
+iwl_pcie_check_hw_rf_kill,FUNC_6
+trans,VAR_2
+trans_pcie,VAR_3
+hw_rfkill,VAR_4
+prev,VAR_5
+report,VAR_6

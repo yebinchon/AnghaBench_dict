@@ -1,0 +1,16 @@
+FLAG_VF_MULTICAST_PROMISC,VAR_0
+IAVF_FLAG_AQ_ADD_MAC_FILTER,VAR_1
+IAVF_FLAG_AQ_CONFIGURE_PROMISC,VAR_2
+IOCTL_DEBUGOUT,FUNC_0
+MAX_MULTICAST_ADDR,VAR_3
+__predict_false,FUNC_1
+iavf_init_multi,FUNC_2
+iavf_mc_filter_apply,VAR_4
+iavf_send_vc_msg,FUNC_3
+if_foreach_llmaddr,FUNC_4
+if_llmaddr_count,FUNC_5
+iflib_get_ifp,FUNC_6
+iflib_get_softc,FUNC_7
+iavf_if_multi_set,FUNC_8
+ctx,VAR_5
+sc,VAR_6

@@ -1,0 +1,15 @@
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_0
+svn_client_conflict_get_local_abspath,FUNC_1
+svn_error_compose_create,FUNC_2
+svn_wc__acquire_write_lock_for_resolve,FUNC_3
+svn_wc__conflict_tree_update_local_add,FUNC_4
+svn_wc__release_write_lock,FUNC_5
+resolve_update_incoming_added_dir_merge,FUNC_6
+option,VAR_1
+conflict,VAR_2
+ctx,VAR_3
+scratch_pool,VAR_4
+local_abspath,VAR_5
+lock_abspath,VAR_6
+err,VAR_7

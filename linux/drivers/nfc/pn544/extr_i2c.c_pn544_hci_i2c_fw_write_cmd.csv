@@ -1,0 +1,17 @@
+EIO,VAR_0
+PN544_FW_CMD_WRITE,VAR_1
+PN544_FW_I2C_MAX_PAYLOAD,VAR_2
+PN544_FW_I2C_WRITE_DATA_MAX_LEN,VAR_3
+i2c_master_send,FUNC_0
+memcpy,FUNC_1
+put_unaligned_be16,FUNC_2
+pn544_hci_i2c_fw_write_cmd,FUNC_3
+client,VAR_4
+dest_addr,VAR_5
+data,VAR_6
+datalen,VAR_7
+frame,VAR_8
+framep,VAR_9
+params_len,VAR_10
+framelen,VAR_11
+r,VAR_12

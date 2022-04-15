@@ -1,0 +1,12 @@
+TPM_DATA_FIFO,FUNC_0
+TPM_STS_DATA_AVAIL,VAR_0
+TPM_STS_VALID,VAR_1
+get_burstcount,FUNC_1
+ioread8,FUNC_2
+wait_for_tpm_stat,FUNC_3
+recv_data,FUNC_4
+chip,VAR_2
+buf,VAR_3
+count,VAR_4
+size,VAR_5
+burstcnt,VAR_6

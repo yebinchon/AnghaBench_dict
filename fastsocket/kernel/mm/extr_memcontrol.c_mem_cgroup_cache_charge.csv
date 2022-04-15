@@ -1,0 +1,17 @@
+MEM_CGROUP_CHARGE_TYPE_CACHE,VAR_0
+MEM_CGROUP_CHARGE_TYPE_SHMEM,VAR_1
+PageCompound,FUNC_0
+PageSwapCache,FUNC_1
+__mem_cgroup_commit_charge_swapin,FUNC_2
+init_mm,VAR_2
+mem_cgroup_charge_common,FUNC_3
+mem_cgroup_disabled,FUNC_4
+mem_cgroup_try_charge_swapin,FUNC_5
+page_is_file_cache,FUNC_6
+unlikely,FUNC_7
+mem_cgroup_cache_charge,FUNC_8
+page,VAR_3
+mm,VAR_4
+gfp_mask,VAR_5
+mem,VAR_6
+ret,VAR_7

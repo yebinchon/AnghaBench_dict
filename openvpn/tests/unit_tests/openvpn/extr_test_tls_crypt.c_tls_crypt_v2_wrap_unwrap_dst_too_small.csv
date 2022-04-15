@@ -1,0 +1,17 @@
+BLEN,FUNC_0
+TLS_CRYPT_V2_MAX_METADATA_LEN,VAR_0
+alloc_buf_gc,FUNC_1
+assert_false,FUNC_2
+assert_true,FUNC_3
+buf_write_alloc,FUNC_4
+memcmp,FUNC_5
+rand_bytes,FUNC_6
+tls_crypt_v2_unwrap_client_key,FUNC_7
+tls_crypt_v2_wrap_client_key,FUNC_8
+tls_crypt_v2_wrap_unwrap_dst_too_small,FUNC_9
+state,VAR_1
+ctx,VAR_2
+metadata,VAR_3
+unwrapped_client_key2,VAR_4
+unwrapped_metadata,VAR_5
+zero,VAR_6

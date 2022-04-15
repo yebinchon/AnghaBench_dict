@@ -1,0 +1,16 @@
+CAN_LED_EVENT_RX,VAR_0
+M_CAN_RXF0S,VAR_1
+RXFS_FFL_MASK,VAR_2
+RXFS_RFL,VAR_3
+can_led_event,FUNC_0
+m_can_read,FUNC_1
+m_can_read_fifo,FUNC_2
+netdev_dbg,FUNC_3
+netdev_priv,FUNC_4
+netdev_warn,FUNC_5
+m_can_do_rx_poll,FUNC_6
+dev,VAR_4
+quota,VAR_5
+cdev,VAR_6
+pkts,VAR_7
+rxfs,VAR_8

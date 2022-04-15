@@ -1,0 +1,17 @@
+DIR__SEARCH,VAR_0
+FILE__READ,VAR_1
+FILE__WRITE,VAR_2
+SECCLASS_DIR,VAR_3
+SECCLASS_FILE,VAR_4
+SECINITSID_SYSCTL,VAR_5
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_sysctl_get_sid,FUNC_2
+selinux_sysctl,FUNC_3
+table,VAR_6
+op,VAR_7
+error,VAR_8
+av,VAR_9
+tsid,VAR_10
+sid,VAR_11
+rc,VAR_12

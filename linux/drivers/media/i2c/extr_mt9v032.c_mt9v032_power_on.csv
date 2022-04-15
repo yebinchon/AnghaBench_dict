@@ -1,0 +1,13 @@
+MT9V032_CHIP_CONTROL,VAR_0
+MT9V032_CHIP_CONTROL_MASTER_MODE,VAR_1
+MT9V032_RESET,VAR_2
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+clk_set_rate,FUNC_2
+gpiod_set_value_cansleep,FUNC_3
+regmap_write,FUNC_4
+udelay,FUNC_5
+mt9v032_power_on,FUNC_6
+mt9v032,VAR_3
+map,VAR_4
+ret,VAR_5

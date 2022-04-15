@@ -1,0 +1,15 @@
+CARTRIDGE_piggyback,VAR_0
+Log_print,FUNC_0
+MEMORY_Cart809fDisable,FUNC_1
+MEMORY_CartA0bfDisable,FUNC_2
+active_cart,VAR_1
+set_bank_809F,FUNC_3
+set_bank_80BF,FUNC_4
+set_bank_A0AF,FUNC_5
+set_bank_A0BF,FUNC_6
+set_bank_MEGA_4096,FUNC_7
+set_bank_SDX_128,FUNC_8
+set_bank_SIC,FUNC_9
+set_bank_XEGS_8F_64,FUNC_10
+SwitchBank,FUNC_11
+old_state,VAR_2

@@ -1,0 +1,16 @@
+FREQ,VAR_0
+MCFINT_PIT1,VAR_1
+MCFINT_VECBASE,VAR_2
+NSEC_PER_SEC,VAR_3
+cf_pit_clockevent,VAR_4
+clockevent_delta2ns,FUNC_0
+clockevents_register_device,FUNC_1
+clocksource_hz2mult,FUNC_2
+clocksource_register,FUNC_3
+cpumask_of,FUNC_4
+div_sc,FUNC_5
+pit_clk,VAR_5
+pit_irq,VAR_6
+setup_irq,FUNC_6
+smp_processor_id,FUNC_7
+hw_timer_init,FUNC_8

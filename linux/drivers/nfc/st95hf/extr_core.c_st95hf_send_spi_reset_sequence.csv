@@ -1,0 +1,11 @@
+ASYNC,VAR_0
+ST95HF_COMMAND_RESET,VAR_1
+ST95HF_RESET_CMD_LEN,VAR_2
+dev_err,FUNC_0
+st95hf_send_st95enable_negativepulse,FUNC_1
+st95hf_spi_send,FUNC_2
+usleep_range,FUNC_3
+st95hf_send_spi_reset_sequence,FUNC_4
+st95context,VAR_3
+result,VAR_4
+reset_cmd,VAR_5

@@ -1,0 +1,10 @@
+BIT,FUNC_0
+IS_M_RX_THLD_SHIFT,VAR_0
+IS_M_START_BUSY_SHIFT,VAR_1
+IS_M_TX_UNDERRUN_SHIFT,VAR_2
+bcm_iproc_i2c_read,FUNC_1
+bcm_iproc_i2c_send,FUNC_2
+complete,FUNC_3
+bcm_iproc_i2c_process_m_event,FUNC_4
+iproc_i2c,VAR_3
+status,VAR_4

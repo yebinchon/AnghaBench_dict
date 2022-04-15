@@ -1,0 +1,11 @@
+clk_disable_unprepare,FUNC_0
+clk_notifier_unregister,FUNC_1
+dev_pm_opp_remove_all_dynamic,FUNC_2
+devfreq_remove_device,FUNC_3
+devfreq_remove_governor,FUNC_4
+platform_get_drvdata,FUNC_5
+reset_control_reset,FUNC_6
+tegra_devfreq_governor,VAR_0
+tegra_devfreq_remove,FUNC_7
+pdev,VAR_1
+tegra,VAR_2

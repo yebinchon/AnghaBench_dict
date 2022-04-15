@@ -1,0 +1,14 @@
+CARD_OE,VAR_0
+FPGA_PULL_CTL,VAR_1
+STATUS_FAIL,VAR_2
+STATUS_SUCCESS,VAR_3
+XD_CARD,VAR_4
+XD_OUTPUT_EN,VAR_5
+card_power_off,FUNC_0
+disable_card_clock,FUNC_1
+rtsx_write_register,FUNC_2
+wait_timeout,FUNC_3
+xd_pull_ctl_disable,FUNC_4
+xd_power_off_card3v3,FUNC_5
+chip,VAR_6
+retval,VAR_7

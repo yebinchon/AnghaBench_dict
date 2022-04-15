@@ -1,0 +1,17 @@
+RPMH_ACTIVE_ONLY_STATE,VAR_0
+RPMH_SLEEP_STATE,VAR_1
+RPMH_WAKE_ONLY_STATE,VAR_2
+max,FUNC_0
+rpmhpd_send_corner,FUNC_1
+to_active_sleep,FUNC_2
+rpmhpd_aggregate_corner,FUNC_3
+pd,VAR_3
+corner,VAR_4
+ret,VAR_5
+peer,VAR_6
+active_corner,VAR_7
+sleep_corner,VAR_8
+this_active_corner,VAR_9
+this_sleep_corner,VAR_10
+peer_active_corner,VAR_11
+peer_sleep_corner,VAR_12

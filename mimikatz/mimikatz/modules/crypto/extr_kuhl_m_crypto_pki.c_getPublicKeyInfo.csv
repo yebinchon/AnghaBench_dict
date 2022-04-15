@@ -1,0 +1,12 @@
+CryptExportPublicKeyInfo,FUNC_0
+LPTR,VAR_0
+LocalAlloc,FUNC_1
+LocalFree,FUNC_2
+PKCS_7_ASN_ENCODING,VAR_1
+PRINT_ERROR_AUTO,FUNC_3
+X509_ASN_ENCODING,VAR_2
+getPublicKeyInfo,FUNC_4
+hProv,VAR_3
+dwKeySpec,VAR_4
+info,VAR_5
+cbInfo,VAR_6

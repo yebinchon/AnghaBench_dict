@@ -1,0 +1,16 @@
+INTR_EN,VAR_0
+QL_MSIX_ENABLED,VAR_1
+STS,VAR_2
+atomic_dec_and_test,FUNC_0
+likely,FUNC_1
+ql_read32,FUNC_2
+ql_write32,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+test_bit,FUNC_6
+ql_enable_completion_interrupt,FUNC_7
+qdev,VAR_3
+intr,VAR_4
+var,VAR_5
+hw_flags,VAR_6
+ctx,VAR_7

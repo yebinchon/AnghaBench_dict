@@ -1,0 +1,9 @@
+SDHCI_ADMA_ADDRESS,VAR_0
+SDHCI_ADMA_ADDRESS_HI,VAR_1
+SDHCI_USE_64_BIT_DMA,VAR_2
+lower_32_bits,FUNC_0
+sdhci_writel,FUNC_1
+upper_32_bits,FUNC_2
+sdhci_set_adma_addr,FUNC_3
+host,VAR_3
+addr,VAR_4

@@ -1,0 +1,17 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+ATA_CBL_SATA,VAR_2
+ENOENT,VAR_3
+ata_sff_prereset,FUNC_0
+pci_read_config_dword,FUNC_1
+to_pci_dev,FUNC_2
+jmicron_pre_reset,FUNC_3
+link,VAR_4
+deadline,VAR_5
+ap,VAR_6
+pdev,VAR_7
+control,VAR_8
+control5,VAR_9
+port_mask,VAR_10
+port,VAR_11
+port_map,VAR_12

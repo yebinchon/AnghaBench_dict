@@ -1,0 +1,15 @@
+VDEV_UBERBLOCK_COUNT,FUNC_0
+VDEV_UBERBLOCK_OFFSET,FUNC_1
+ZDB_MAX_UB_HEADER_SIZE,VAR_0
+dump_uberblock,FUNC_2
+snprintf,FUNC_3
+uberblock_verify,FUNC_4
+dump_label_uberblocks,FUNC_5
+lbl,VAR_1
+ashift,VAR_2
+vd,VAR_3
+vdp,VAR_4
+header,VAR_5
+i,VAR_6
+uoff,VAR_7
+ub,VAR_8

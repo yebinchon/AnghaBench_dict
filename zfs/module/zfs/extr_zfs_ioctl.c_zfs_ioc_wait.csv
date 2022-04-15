@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ZPOOL_WAIT_ACTIVITY,VAR_1
+ZPOOL_WAIT_TAG,VAR_2
+ZPOOL_WAIT_WAITED,VAR_3
+fnvlist_add_boolean_value,FUNC_0
+nvlist_lookup_int32,FUNC_1
+nvlist_lookup_uint64,FUNC_2
+spa_wait,FUNC_3
+spa_wait_tag,FUNC_4
+zfs_ioc_wait,FUNC_5
+name,VAR_4
+innvl,VAR_5
+outnvl,VAR_6
+activity,VAR_7
+tag,VAR_8
+waited,VAR_9
+error,VAR_10

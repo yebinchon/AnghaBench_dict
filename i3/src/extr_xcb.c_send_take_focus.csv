@@ -1,0 +1,14 @@
+A_WM_PROTOCOLS,VAR_0
+A_WM_TAKE_FOCUS,VAR_1
+DLOG,FUNC_0
+XCB_CLIENT_MESSAGE,VAR_2
+XCB_EVENT_MASK_NO_EVENT,VAR_3
+conn,VAR_4
+free,FUNC_1
+scalloc,FUNC_2
+xcb_send_event,FUNC_3
+send_take_focus,FUNC_4
+window,VAR_5
+timestamp,VAR_6
+event,VAR_7
+ev,VAR_8

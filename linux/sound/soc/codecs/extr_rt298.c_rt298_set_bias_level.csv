@@ -1,0 +1,10 @@
+AC_PWRST_D0,VAR_0
+AC_PWRST_D3,VAR_1
+RT298_SET_AUDIO_POWER,VAR_2
+mdelay,FUNC_0
+snd_soc_component_get_bias_level,FUNC_1
+snd_soc_component_update_bits,FUNC_2
+snd_soc_component_write,FUNC_3
+rt298_set_bias_level,FUNC_4
+component,VAR_3
+level,VAR_4

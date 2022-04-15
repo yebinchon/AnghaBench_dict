@@ -1,0 +1,13 @@
+ATF_REQUIRE,FUNC_0
+EXIT_SUCCESS,VAR_0
+atf_utils_fork,FUNC_1
+atf_utils_wait,FUNC_2
+exit,FUNC_3
+fprintf,FUNC_4
+stderr,VAR_1
+stdout,VAR_2
+fork_and_wait,FUNC_5
+exitstatus,VAR_3
+expout,VAR_4
+experr,VAR_5
+pid,VAR_6

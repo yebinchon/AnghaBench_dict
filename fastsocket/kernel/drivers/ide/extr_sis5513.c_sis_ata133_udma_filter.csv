@@ -1,0 +1,10 @@
+ATA_UDMA5,VAR_0
+ATA_UDMA6,VAR_1
+pci_read_config_dword,FUNC_0
+sis_ata133_get_base,FUNC_1
+to_pci_dev,FUNC_2
+sis_ata133_udma_filter,FUNC_3
+drive,VAR_2
+dev,VAR_3
+regdw,VAR_4
+drive_pci,VAR_5

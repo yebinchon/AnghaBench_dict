@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+UPROBE_SS_ARM_INSN,VAR_1
+UPROBE_SWBP_ARM_INSN,VAR_2
+__mem_to_opcode_arm,FUNC_0
+__opcode_to_mem_arm,FUNC_1
+arm_probes_decode_insn,FUNC_2
+uprobes_probes_actions,VAR_3
+arch_uprobe_analyze_insn,FUNC_3
+auprobe,VAR_4
+mm,VAR_5
+addr,VAR_6
+insn,VAR_7
+bpinsn,VAR_8
+ret,VAR_9

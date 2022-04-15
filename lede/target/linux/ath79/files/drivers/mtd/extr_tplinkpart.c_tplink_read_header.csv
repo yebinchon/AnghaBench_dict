@@ -1,0 +1,14 @@
+TPLINK_HEADER_V1,VAR_0
+TPLINK_HEADER_V2,VAR_1
+be32_to_cpu,FUNC_0
+mtd_read,FUNC_1
+vfree,FUNC_2
+vmalloc,FUNC_3
+tplink_read_header,FUNC_4
+mtd,VAR_2
+offset,VAR_3
+header,VAR_4
+header_len,VAR_5
+retlen,VAR_6
+ret,VAR_7
+t,VAR_8

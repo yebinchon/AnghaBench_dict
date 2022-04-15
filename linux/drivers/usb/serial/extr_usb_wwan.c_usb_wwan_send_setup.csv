@@ -1,0 +1,13 @@
+USB_CTRL_SET_TIMEOUT,VAR_0
+usb_autopm_get_interface,FUNC_0
+usb_autopm_put_interface,FUNC_1
+usb_control_msg,FUNC_2
+usb_get_serial_port_data,FUNC_3
+usb_sndctrlpipe,FUNC_4
+usb_wwan_send_setup,FUNC_5
+port,VAR_1
+serial,VAR_2
+portdata,VAR_3
+val,VAR_4
+ifnum,VAR_5
+res,VAR_6

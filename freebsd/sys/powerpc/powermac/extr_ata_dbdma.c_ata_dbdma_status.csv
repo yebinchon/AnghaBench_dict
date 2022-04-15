@@ -1,0 +1,12 @@
+ATA_ALTSTAT,VAR_0
+ATA_DMA_ACTIVE,VAR_1
+ATA_IDX_INB,FUNC_0
+ATA_S_BUSY,VAR_2
+DBDMA_STATUS_ACTIVE,VAR_3
+DELAY,FUNC_1
+dbdma_get_chan_status,FUNC_2
+device_get_softc,FUNC_3
+ata_dbdma_status,FUNC_4
+dev,VAR_4
+sc,VAR_5
+ch,VAR_6

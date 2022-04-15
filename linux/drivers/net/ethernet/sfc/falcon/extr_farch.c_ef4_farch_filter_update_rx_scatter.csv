@@ -1,0 +1,16 @@
+EF4_FARCH_FILTER_TABLE_RX_DEF,VAR_0
+EF4_FARCH_FILTER_TABLE_RX_IP,VAR_1
+EF4_FILTER_FLAG_RX_SCATTER,VAR_2
+ef4_farch_filter_build,FUNC_0
+ef4_farch_filter_push_rx_config,FUNC_1
+ef4_writeo,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+test_bit,FUNC_5
+ef4_farch_filter_update_rx_scatter,FUNC_6
+efx,VAR_3
+state,VAR_4
+table_id,VAR_5
+table,VAR_6
+filter,VAR_7
+filter_idx,VAR_8

@@ -1,0 +1,15 @@
+APR_OS_DEFAULT,VAR_0
+SVN_ERR,FUNC_0
+get_and_increment_txn_key_body,VAR_1
+svn_fs_fs__id_txn_unparse,FUNC_1
+svn_fs_fs__path_txn_dir,FUNC_2
+svn_fs_fs__with_txn_current_lock,FUNC_3
+svn_io_dir_make,FUNC_4
+create_txn_dir,FUNC_5
+id_p,VAR_2
+txn_id,VAR_3
+fs,VAR_4
+rev,VAR_5
+pool,VAR_6
+cb,VAR_7
+txn_dir,VAR_8

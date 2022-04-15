@@ -1,0 +1,12 @@
+M_NOWAIT,VAR_0
+PACKET_COOKIE_SIFTR,VAR_1
+PACKET_TAG_SIFTR,VAR_2
+PFIL_IN,VAR_3
+m_tag_alloc,FUNC_0
+m_tag_locate,FUNC_1
+m_tag_prepend,FUNC_2
+siftr_chkreinject,FUNC_3
+m,VAR_4
+dir,VAR_5
+ss,VAR_6
+tag,VAR_7

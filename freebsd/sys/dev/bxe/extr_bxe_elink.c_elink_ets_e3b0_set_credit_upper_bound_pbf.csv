@@ -1,0 +1,15 @@
+ELINK_DCBX_E3B0_MAX_NUM_COS_PORT0,VAR_0
+ELINK_DCBX_E3B0_MAX_NUM_COS_PORT1,VAR_1
+PBF_REG_COS0_UPPER_BOUND_P0,VAR_2
+PBF_REG_COS0_UPPER_BOUND_P1,VAR_3
+REG_WR,FUNC_0
+elink_ets_get_credit_upper_bound,FUNC_1
+elink_ets_e3b0_set_credit_upper_bound_pbf,FUNC_2
+params,VAR_4
+min_w_val,VAR_5
+sc,VAR_6
+credit_upper_bound,VAR_7
+port,VAR_8
+base_upper_bound,VAR_9
+max_cos,VAR_10
+i,VAR_11

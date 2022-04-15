@@ -1,0 +1,14 @@
+MTK_HSDMA_INT_ENABLE,VAR_0
+dma_async_device_unregister,FUNC_0
+list_del,FUNC_1
+mtk_dma_write,FUNC_2
+mtk_hsdma_hw_deinit,FUNC_3
+of_dma_controller_free,FUNC_4
+platform_get_drvdata,FUNC_5
+synchronize_irq,FUNC_6
+tasklet_kill,FUNC_7
+mtk_hsdma_remove,FUNC_8
+pdev,VAR_1
+hsdma,VAR_2
+vc,VAR_3
+i,VAR_4

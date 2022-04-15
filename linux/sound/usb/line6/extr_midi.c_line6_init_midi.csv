@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+LINE6_CAP_CONTROL_MIDI,VAR_2
+MIDI_BUFFER_SIZE,VAR_3
+init_waitqueue_head,FUNC_0
+kzalloc,FUNC_1
+line6_midibuf_init,FUNC_2
+snd_line6_midi_free,VAR_4
+snd_line6_new_midi,FUNC_3
+spin_lock_init,FUNC_4
+line6_init_midi,FUNC_5
+line6,VAR_5
+err,VAR_6
+rmidi,VAR_7
+line6midi,VAR_8

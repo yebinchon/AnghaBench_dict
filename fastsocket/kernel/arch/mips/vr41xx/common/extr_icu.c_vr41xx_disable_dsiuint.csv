@@ -1,0 +1,10 @@
+DSIU_IRQ,VAR_0
+MDSIUINTREG,VAR_1
+icu1_clear,FUNC_0
+irq_desc,VAR_2
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+vr41xx_disable_dsiuint,FUNC_3
+mask,VAR_3
+desc,VAR_4
+flags,VAR_5

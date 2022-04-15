@@ -1,0 +1,14 @@
+FTDI_SIO_RESET_REQUEST,VAR_0
+FTDI_SIO_RESET_REQUEST_TYPE,VAR_1
+FTDI_SIO_RESET_SIO,VAR_2
+WDR_TIMEOUT,VAR_3
+ftdi_set_termios,FUNC_0
+usb_control_msg,FUNC_1
+usb_get_serial_port_data,FUNC_2
+usb_serial_generic_open,FUNC_3
+usb_sndctrlpipe,FUNC_4
+ftdi_open,FUNC_5
+tty,VAR_4
+port,VAR_5
+dev,VAR_6
+priv,VAR_7

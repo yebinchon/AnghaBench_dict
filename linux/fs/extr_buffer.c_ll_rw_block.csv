@@ -1,0 +1,16 @@
+WRITE,VAR_0
+buffer_uptodate,FUNC_0
+end_buffer_read_sync,VAR_1
+end_buffer_write_sync,VAR_2
+get_bh,FUNC_1
+submit_bh,FUNC_2
+test_clear_buffer_dirty,FUNC_3
+trylock_buffer,FUNC_4
+unlock_buffer,FUNC_5
+ll_rw_block,FUNC_6
+op,VAR_3
+op_flags,VAR_4
+nr,VAR_5
+bhs,VAR_6
+i,VAR_7
+bh,VAR_8

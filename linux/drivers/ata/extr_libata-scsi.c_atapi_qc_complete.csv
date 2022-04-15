@@ -1,0 +1,16 @@
+AC_ERR_DEV,VAR_0
+ALLOW_MEDIUM_REMOVAL,VAR_1
+ATA_QCFLAG_SENSE_VALID,VAR_2
+INQUIRY,VAR_3
+SAM_STAT_CHECK_CONDITION,VAR_4
+SAM_STAT_GOOD,VAR_5
+VPRINTK,FUNC_0
+ata_gen_passthru_sense,FUNC_1
+ata_qc_done,FUNC_2
+atapi_fixup_inquiry,FUNC_3
+atapi_request_sense,FUNC_4
+unlikely,FUNC_5
+atapi_qc_complete,FUNC_6
+qc,VAR_6
+cmd,VAR_7
+err_mask,VAR_8

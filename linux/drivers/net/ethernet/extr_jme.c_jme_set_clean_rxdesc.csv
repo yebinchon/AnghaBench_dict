@@ -1,0 +1,13 @@
+NETIF_F_HIGHDMA,VAR_0
+RXFLAG_64BIT,VAR_1
+RXFLAG_INT,VAR_2
+RXFLAG_OWN,VAR_3
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+wmb,FUNC_2
+jme_set_clean_rxdesc,FUNC_3
+jme,VAR_4
+i,VAR_5
+rxring,VAR_6
+rxdesc,VAR_7
+rxbi,VAR_8

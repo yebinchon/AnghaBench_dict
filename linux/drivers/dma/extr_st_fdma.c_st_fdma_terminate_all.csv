@@ -1,0 +1,17 @@
+FDMA_CMD_PAUSE,FUNC_0
+FDMA_CMD_SET_OFST,VAR_0
+LIST_HEAD,FUNC_1
+dev_dbg,FUNC_2
+fdma_write,FUNC_3
+head,VAR_1
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_st_fdma_chan,FUNC_6
+vchan_dma_desc_free_list,FUNC_7
+vchan_get_all_descriptors,FUNC_8
+st_fdma_terminate_all,FUNC_9
+chan,VAR_2
+flags,VAR_3
+fchan,VAR_4
+ch_id,VAR_5
+cmd,VAR_6

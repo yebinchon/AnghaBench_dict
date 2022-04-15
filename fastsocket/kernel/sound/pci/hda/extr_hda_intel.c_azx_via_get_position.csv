@@ -1,0 +1,16 @@
+SD_LPIB,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+VIA_IN_STREAM0_FIFO_SIZE_OFFSET,VAR_2
+azx_sd_readl,FUNC_0
+le32_to_cpu,FUNC_1
+readw,FUNC_2
+azx_via_get_position,FUNC_3
+chip,VAR_3
+azx_dev,VAR_4
+link_pos,VAR_5
+mini_pos,VAR_6
+bound_pos,VAR_7
+mod_link_pos,VAR_8
+mod_dma_pos,VAR_9
+mod_mini_pos,VAR_10
+fifo_size,VAR_11

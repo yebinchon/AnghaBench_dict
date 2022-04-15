@@ -1,0 +1,16 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+MLX_CMD_DATAIN,VAR_2
+MLX_CMD_DATAOUT,VAR_3
+MLX_NSEG,VAR_4
+bus_dmamap_sync,FUNC_0
+debug_called,FUNC_1
+panic,FUNC_2
+mlx_setup_dmamap,FUNC_3
+mc,VAR_5
+segs,VAR_6
+nsegments,VAR_7
+error,VAR_8
+sc,VAR_9
+sg,VAR_10
+i,VAR_11

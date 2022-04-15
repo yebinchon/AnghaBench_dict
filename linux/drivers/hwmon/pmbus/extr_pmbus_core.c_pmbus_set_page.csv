@@ -1,0 +1,11 @@
+EIO,VAR_0
+PMBUS_PAGE,VAR_1
+PMBUS_PAGE_VIRTUAL,VAR_2
+i2c_get_clientdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+pmbus_set_page,FUNC_3
+client,VAR_3
+page,VAR_4
+data,VAR_5
+rv,VAR_6

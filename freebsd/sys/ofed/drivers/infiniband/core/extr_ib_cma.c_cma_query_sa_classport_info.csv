@@ -1,0 +1,17 @@
+CMA_QUERY_CLASSPORT_INFO_TIMEOUT,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+cma_query_sa_classport_info_cb,VAR_3
+ib_sa_classport_info_rec_query,FUNC_0
+init_completion,FUNC_1
+kfree,FUNC_2
+kmalloc,FUNC_3
+pr_err,FUNC_4
+sa_client,VAR_4
+wait_for_completion,FUNC_5
+cma_query_sa_classport_info,FUNC_6
+device,VAR_5
+port_num,VAR_6
+class_port_info,VAR_7
+cb_ctx,VAR_8
+ret,VAR_9

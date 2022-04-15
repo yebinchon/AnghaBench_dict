@@ -1,0 +1,16 @@
+MSGPACK_CONTAINER_BIT,VAR_0
+UCL_ARRAY,VAR_1
+UCL_OBJECT,VAR_2
+UCL_PARSER_ZEROCOPY,VAR_3
+assert,FUNC_0
+ucl_array_append,FUNC_1
+ucl_copy_key_trash,FUNC_2
+ucl_create_err,FUNC_3
+ucl_parser_process_object_element,FUNC_4
+ucl_msgpack_insert_object,FUNC_5
+parser,VAR_4
+key,VAR_5
+keylen,VAR_6
+obj,VAR_7
+level,VAR_8
+container,VAR_9

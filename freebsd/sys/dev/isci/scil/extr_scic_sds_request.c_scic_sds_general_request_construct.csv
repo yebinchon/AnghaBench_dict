@@ -1,0 +1,17 @@
+FALSE,VAR_0
+SCIC_NO_PROTOCOL,VAR_1
+SCI_CONTROLLER_INVALID_IO_TAG,VAR_2
+SCI_SUCCESS,VAR_3
+SCU_INVALID_FRAME_INDEX,VAR_4
+TRUE,VAR_5
+sci_base_object_get_logger,FUNC_0
+sci_base_request_construct,FUNC_1
+scic_sds_controller_get_task_context_buffer,FUNC_2
+scic_sds_remote_device_get_sequence,FUNC_3
+scic_sds_request_state_table,VAR_6
+scic_sds_general_request_construct,FUNC_4
+the_controller,VAR_7
+the_target,VAR_8
+io_tag,VAR_9
+user_io_request_object,VAR_10
+this_request,VAR_11

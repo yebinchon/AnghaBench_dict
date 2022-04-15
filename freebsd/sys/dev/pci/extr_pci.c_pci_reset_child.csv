@@ -1,0 +1,17 @@
+BUS_RESET_POST,FUNC_0
+BUS_RESET_PREPARE,FUNC_1
+BUS_RESUME_CHILD,FUNC_2
+BUS_SUSPEND_CHILD,FUNC_3
+DEVF_RESET_DETACH,VAR_0
+DS_ATTACHED,VAR_1
+device_detach,FUNC_4
+device_get_parent,FUNC_5
+device_get_state,FUNC_6
+device_probe_and_attach,FUNC_7
+pci_power_reset,FUNC_8
+pcie_flr,FUNC_9
+pci_reset_child,FUNC_10
+dev,VAR_2
+child,VAR_3
+flags,VAR_4
+error,VAR_5

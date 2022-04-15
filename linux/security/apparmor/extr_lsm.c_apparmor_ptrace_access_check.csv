@@ -1,0 +1,14 @@
+AA_PTRACE_READ,VAR_0
+AA_PTRACE_TRACE,VAR_1
+PTRACE_MODE_READ,VAR_2
+__begin_current_label_crit_section,FUNC_0
+__end_current_label_crit_section,FUNC_1
+aa_get_task_label,FUNC_2
+aa_may_ptrace,FUNC_3
+aa_put_label,FUNC_4
+apparmor_ptrace_access_check,FUNC_5
+child,VAR_3
+mode,VAR_4
+tracer,VAR_5
+tracee,VAR_6
+error,VAR_7

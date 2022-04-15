@@ -1,0 +1,16 @@
+CNIC_ULP_ISCSI,VAR_0
+ISCSI_KEVENT_IF_DOWN,VAR_1
+ULP_F_CALL_PENDING,VAR_2
+ULP_F_START,VAR_3
+clear_bit,FUNC_0
+cnic_lock,VAR_4
+cnic_send_nlmsg,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+set_bit,FUNC_4
+stub1,FUNC_5
+test_and_clear_bit,FUNC_6
+cnic_ulp_stop_one,FUNC_7
+cp,VAR_5
+if_type,VAR_6
+ulp_ops,VAR_7

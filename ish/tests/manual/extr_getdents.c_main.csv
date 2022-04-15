@@ -1,0 +1,11 @@
+O_DIRECTORY,VAR_0
+O_RDONLY,VAR_1
+STDOUT_FILENO,VAR_2
+SYS_getdents64,VAR_3
+open,FUNC_0
+syscall,FUNC_1
+write,FUNC_2
+main,FUNC_3
+fd,VAR_4
+buf,VAR_5
+count,VAR_6

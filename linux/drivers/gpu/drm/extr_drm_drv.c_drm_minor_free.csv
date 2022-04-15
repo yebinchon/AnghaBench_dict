@@ -1,0 +1,14 @@
+drm_minor_get_slot,FUNC_0
+drm_minor_lock,VAR_0
+drm_minors_idr,VAR_1
+idr_remove,FUNC_1
+kfree,FUNC_2
+put_device,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+drm_minor_free,FUNC_6
+dev,VAR_2
+type,VAR_3
+slot,VAR_4
+minor,VAR_5
+flags,VAR_6

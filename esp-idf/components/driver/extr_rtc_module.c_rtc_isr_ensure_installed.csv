@@ -1,0 +1,14 @@
+ESP_OK,VAR_0
+ETS_RTC_CORE_INTR_SOURCE,VAR_1
+REG_WRITE,FUNC_0
+RTC_CNTL_INT_CLR_REG,VAR_2
+RTC_CNTL_INT_ENA_REG,VAR_3
+UINT32_MAX,VAR_4
+esp_intr_alloc,FUNC_1
+portENTER_CRITICAL,FUNC_2
+portEXIT_CRITICAL,FUNC_3
+rtc_isr,VAR_5
+s_rtc_isr_handle,VAR_6
+s_rtc_isr_handler_list_lock,VAR_7
+rtc_isr_ensure_installed,FUNC_4
+err,VAR_8

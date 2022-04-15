@@ -1,0 +1,14 @@
+PCA963X_LED_GRP_PWM,VAR_0
+PCA963X_MODE2,VAR_1
+PCA963X_MODE2_DMBLNK,VAR_2
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pca963x_blink,FUNC_4
+pca963x,VAR_3
+ledout_addr,VAR_4
+ledout,VAR_5
+mode2,VAR_6
+shift,VAR_7
+mask,VAR_8

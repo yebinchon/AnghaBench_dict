@@ -1,0 +1,13 @@
+M_STATFS,VAR_0
+M_WAITOK,VAR_1
+bsd_to_linux_statfs,FUNC_0
+copyout,FUNC_1
+free,FUNC_2
+kern_fstatfs,FUNC_3
+malloc,FUNC_4
+linux_fstatfs,FUNC_5
+td,VAR_2
+args,VAR_3
+linux_statfs,VAR_4
+bsd_statfs,VAR_5
+error,VAR_6

@@ -1,0 +1,14 @@
+PPC970_SET_MMCR0_PMCSEL,FUNC_0
+PPC970_SET_MMCR1_PMCSEL,FUNC_1
+SPR_970MMCR0,VAR_0
+SPR_970MMCR1,VAR_1
+mfspr,FUNC_2
+mtspr,FUNC_3
+powerpc_pcpu,VAR_2
+ppc970_set_pmc,FUNC_4
+cpu,VAR_3
+ri,VAR_4
+config,VAR_5
+pm,VAR_6
+phw,VAR_7
+pmc_mmcr,VAR_8

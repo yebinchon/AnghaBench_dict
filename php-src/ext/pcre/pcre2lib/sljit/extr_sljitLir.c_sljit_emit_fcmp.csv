@@ -1,0 +1,15 @@
+CHECK_ERROR_PTR,FUNC_0
+CHECK_PTR,FUNC_1
+SLJIT_CMP_F64,VAR_0
+SLJIT_I32_OP,VAR_1
+VARIABLE_FLAG_SHIFT,VAR_2
+check_sljit_emit_fcmp,FUNC_2
+sljit_emit_fop1,FUNC_3
+sljit_emit_jump,FUNC_4
+sljit_emit_fcmp,FUNC_5
+compiler,VAR_3
+type,VAR_4
+src1,VAR_5
+src1w,VAR_6
+src2,VAR_7
+src2w,VAR_8

@@ -1,0 +1,16 @@
+AFS_CALL_REPLYING,VAR_0
+EBADMSG,VAR_1
+ENOTCONN,VAR_2
+INIT_WORK,FUNC_0
+SRXAFSCB_InitCallBackState,VAR_3
+_enter,FUNC_1
+afs_find_server,FUNC_2
+ip_hdr,FUNC_3
+memcpy,FUNC_4
+schedule_work,FUNC_5
+afs_deliver_cb_init_call_back_state,FUNC_6
+call,VAR_4
+skb,VAR_5
+last,VAR_6
+server,VAR_7
+addr,VAR_8

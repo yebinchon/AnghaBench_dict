@@ -1,0 +1,17 @@
+ERR_R_BUF_LIB,VAR_0
+ERR_R_INTERNAL_ERROR,VAR_1
+SSL_AD_INTERNAL_ERROR,VAR_2
+SSL_EXT_TLS1_3_CERTIFICATE,VAR_3
+SSL_F_SSL_ADD_CERT_TO_WPACKET,VAR_4
+SSL_IS_TLS13,FUNC_0
+SSLfatal,FUNC_1
+WPACKET_sub_allocate_bytes_u24,FUNC_2
+i2d_X509,FUNC_3
+tls_construct_extensions,FUNC_4
+ssl_add_cert_to_wpacket,FUNC_5
+s,VAR_5
+pkt,VAR_6
+x,VAR_7
+chain,VAR_8
+len,VAR_9
+outbytes,VAR_10

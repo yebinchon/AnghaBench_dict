@@ -1,0 +1,15 @@
+FIELD_GET,FUNC_0
+LMACTYPE_STR_LEN,VAR_0
+RESP_LINKSTAT_FDUPLEX,VAR_1
+RESP_LINKSTAT_SPEED,VAR_2
+RESP_LINKSTAT_UP,VAR_3
+cgx_get_lmac_type,FUNC_1
+cgx_lmactype_string,VAR_4
+cgx_speed_mbps,VAR_5
+strncpy,FUNC_2
+link_status_user_format,FUNC_3
+lstat,VAR_6
+linfo,VAR_7
+cgx,VAR_8
+lmac_id,VAR_9
+lmac_string,VAR_10

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+MLXSW_REG,FUNC_0
+MLXSW_REG_QPCR_IR_UNITS_M,VAR_1
+MLXSW_REG_QPCR_LEN,VAR_2
+MLXSW_SP_DISCARD_POLICER_ID,VAR_3
+mlxsw_reg_qpcr_pack,FUNC_1
+mlxsw_reg_write,FUNC_2
+qpcr,VAR_4
+mlxsw_sp_trap_group_policer_init,FUNC_3
+mlxsw_sp,VAR_5
+group,VAR_6
+ir_units,VAR_7
+qpcr_pl,VAR_8
+policer_id,VAR_9
+burst_size,VAR_10
+is_bytes,VAR_11
+rate,VAR_12

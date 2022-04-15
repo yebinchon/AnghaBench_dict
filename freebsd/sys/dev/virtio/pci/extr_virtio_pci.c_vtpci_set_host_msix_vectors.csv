@@ -1,0 +1,12 @@
+VIRTIO_MSI_CONFIG_VECTOR,VAR_0
+VIRTIO_MSI_QUEUE_VECTOR,VAR_1
+VTPCI_FLAG_SHARED_MSIX,VAR_2
+vtpci_register_msix_vector,FUNC_0
+vtpci_select_virtqueue,FUNC_1
+vtpci_set_host_msix_vectors,FUNC_2
+sc,VAR_3
+intr,VAR_4
+tintr,VAR_5
+idx,VAR_6
+offset,VAR_7
+error,VAR_8

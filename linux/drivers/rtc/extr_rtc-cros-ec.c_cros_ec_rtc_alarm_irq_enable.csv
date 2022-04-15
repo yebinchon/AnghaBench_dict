@@ -1,0 +1,17 @@
+EC_CMD_RTC_GET_ALARM,VAR_0
+EC_CMD_RTC_GET_VALUE,VAR_1
+EC_CMD_RTC_SET_ALARM,VAR_2
+EC_RTC_ALARM_CLEAR,VAR_3
+cros_ec_rtc_get,FUNC_0
+cros_ec_rtc_set,FUNC_1
+dev_err,FUNC_2
+dev_get_drvdata,FUNC_3
+cros_ec_rtc_alarm_irq_enable,FUNC_4
+dev,VAR_4
+enabled,VAR_5
+cros_ec_rtc,VAR_6
+cros_ec,VAR_7
+ret,VAR_8
+current_time,VAR_9
+alarm_offset,VAR_10
+alarm_value,VAR_11

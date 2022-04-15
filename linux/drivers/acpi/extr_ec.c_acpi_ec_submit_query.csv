@@ -1,0 +1,10 @@
+ACPI_EC_COMMAND_QUERY,VAR_0
+EC_FLAGS_QUERY_PENDING,VAR_1
+acpi_ec_cmd_string,FUNC_0
+acpi_ec_event_enabled,FUNC_1
+acpi_ec_mask_gpe,FUNC_2
+ec_dbg_evt,FUNC_3
+schedule_work,FUNC_4
+test_and_set_bit,FUNC_5
+acpi_ec_submit_query,FUNC_6
+ec,VAR_2

@@ -1,0 +1,7 @@
+GUEST_ASSERT,FUNC_0
+GUEST_SYNC,FUNC_1
+MSR_IA32_TSC_ADJUST,VAR_0
+rdmsr,FUNC_2
+check_ia32_tsc_adjust,FUNC_3
+max,VAR_1
+adjust,VAR_2

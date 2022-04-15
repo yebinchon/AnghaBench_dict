@@ -1,0 +1,12 @@
+SWITCHDEV_FDB_ADD_TO_DEVICE,VAR_0
+SWITCHDEV_FDB_DEL_TO_DEVICE,VAR_1
+call_switchdev_notifiers,FUNC_0
+br_switchdev_fdb_call_notifiers,FUNC_1
+adding,VAR_2
+mac,VAR_3
+vid,VAR_4
+dev,VAR_5
+added_by_user,VAR_6
+offloaded,VAR_7
+info,VAR_8
+notifier_type,VAR_9

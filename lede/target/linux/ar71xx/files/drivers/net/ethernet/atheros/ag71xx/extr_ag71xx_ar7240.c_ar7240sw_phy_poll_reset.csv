@@ -1,0 +1,13 @@
+AR7240_NUM_PHYS,VAR_0
+BMCR_RESET,VAR_1
+ETIMEDOUT,VAR_2
+MII_BMCR,VAR_3
+ar7240sw_phy_read,FUNC_0
+msleep,FUNC_1
+usleep_range,FUNC_2
+ar7240sw_phy_poll_reset,FUNC_3
+bus,VAR_4
+sleep_msecs,VAR_5
+ret,VAR_6
+elapsed,VAR_7
+i,VAR_8

@@ -1,0 +1,6 @@
+KVM_REQ_DISABLE_IBS,VAR_0
+KVM_REQ_ENABLE_IBS,VAR_1
+kvm_check_request,FUNC_0
+kvm_s390_sync_request,FUNC_1
+__disable_ibs_on_vcpu,FUNC_2
+vcpu,VAR_2

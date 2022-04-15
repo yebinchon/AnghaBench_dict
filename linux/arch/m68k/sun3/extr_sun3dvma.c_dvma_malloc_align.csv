@@ -1,0 +1,17 @@
+DVMA_PAGE_MASK,VAR_0
+DVMA_PAGE_SIZE,VAR_1
+GFP_ATOMIC,VAR_2
+__get_free_pages,FUNC_0
+dvma_btov,FUNC_1
+dvma_map_align,FUNC_2
+dvma_map_cpu,FUNC_3
+dvma_unmap,FUNC_4
+free_pages,FUNC_5
+get_order,FUNC_6
+pr_debug,FUNC_7
+dvma_malloc_align,FUNC_8
+len,VAR_3
+align,VAR_4
+kaddr,VAR_5
+baddr,VAR_6
+vaddr,VAR_7

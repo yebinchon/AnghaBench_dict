@@ -1,0 +1,13 @@
+CAN_LED_EVENT_STOP,VAR_0
+CAN_STATE_STOPPED,VAR_1
+can_led_event,FUNC_0
+close_candev,FUNC_1
+netdev_priv,FUNC_2
+netdev_warn,FUNC_3
+netif_stop_queue,FUNC_4
+unlink_all_urbs,FUNC_5
+usb_8dev_cmd_close,FUNC_6
+usb_8dev_close,FUNC_7
+netdev,VAR_2
+priv,VAR_3
+err,VAR_4

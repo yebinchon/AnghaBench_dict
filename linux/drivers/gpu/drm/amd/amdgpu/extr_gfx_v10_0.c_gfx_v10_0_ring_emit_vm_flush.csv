@@ -1,0 +1,9 @@
+AMDGPU_RING_TYPE_GFX,VAR_0
+PACKET3,FUNC_0
+PACKET3_PFP_SYNC_ME,VAR_1
+amdgpu_gmc_emit_flush_gpu_tlb,FUNC_1
+amdgpu_ring_write,FUNC_2
+gfx_v10_0_ring_emit_vm_flush,FUNC_3
+ring,VAR_2
+vmid,VAR_3
+pd_addr,VAR_4

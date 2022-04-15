@@ -1,0 +1,12 @@
+EREMOTEIO,VAR_0
+XREG_BUSY,VAR_1
+msleep,FUNC_0
+xc5000_readreg,FUNC_1
+xc_send_i2c_data,FUNC_2
+xc_write_reg,FUNC_3
+priv,VAR_2
+reg_addr,VAR_3
+i2c_data,VAR_4
+buf,VAR_5
+watch_dog_timer,VAR_6
+result,VAR_7

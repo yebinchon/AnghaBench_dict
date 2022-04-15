@@ -1,0 +1,17 @@
+DATABASEOID,VAR_0
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_SHARED,VAR_1
+ObjectIdGetDatum,FUNC_2
+SearchSysCacheExists1,FUNC_3
+ShmemVariableCache,VAR_2
+TransactionIdFollowsOrEquals,FUNC_4
+TransactionIdIsNormal,FUNC_5
+TransactionIdIsValid,FUNC_6
+XidFromFullTransactionId,FUNC_7
+XidGenLock,VAR_3
+ForceTransactionIdLimitUpdate,FUNC_8
+nextXid,VAR_4
+xidVacLimit,VAR_5
+oldestXid,VAR_6
+oldestXidDB,VAR_7

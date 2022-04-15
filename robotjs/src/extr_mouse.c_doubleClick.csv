@@ -1,0 +1,15 @@
+CFRelease,FUNC_0
+CGEventCreateMouseEvent,FUNC_1
+CGEventPost,FUNC_2
+CGEventSetIntegerValueField,FUNC_3
+CGEventSetType,FUNC_4
+CGPointFromMMPoint,FUNC_5
+MMMouseToCGEventType,FUNC_6
+clickMouse,FUNC_7
+getMousePos,FUNC_8
+kCGHIDEventTap,VAR_0
+kCGMouseButtonLeft,VAR_1
+kCGMouseEventClickState,VAR_2
+microsleep,FUNC_9
+doubleClick,FUNC_10
+button,VAR_3

@@ -1,0 +1,13 @@
+IRQ_IPI_SMP_FUNCTION,VAR_0
+IRQ_IPI_SMP_RESCHEDULE,VAR_1
+SMP_CALL_FUNCTION,VAR_2
+SMP_RESCHEDULE_YOURSELF,VAR_3
+cpu_logical_map,FUNC_0
+nlm_get_node,FUNC_1
+nlm_hwtid_to_node,FUNC_2
+nlm_pic_send_ipi,FUNC_3
+nlm_send_ipi_single,FUNC_4
+logical_cpu,VAR_4
+action,VAR_5
+hwtid,VAR_6
+picbase,VAR_7

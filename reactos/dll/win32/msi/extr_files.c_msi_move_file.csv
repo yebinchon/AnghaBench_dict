@@ -1,0 +1,17 @@
+CopyFileW,FUNC_0
+FALSE,VAR_0
+FILE_ATTRIBUTE_DIRECTORY,VAR_1
+GetFileAttributesW,FUNC_1
+GetLastError,FUNC_2
+MOVEFILE_REPLACE_EXISTING,VAR_2
+MoveFileExW,FUNC_3
+TRACE,FUNC_4
+TRUE,VAR_3
+WARN,FUNC_5
+debugstr_w,FUNC_6
+msidbMoveFileOptionsMove,VAR_4
+msi_move_file,FUNC_7
+source,VAR_5
+dest,VAR_6
+options,VAR_7
+ret,VAR_8

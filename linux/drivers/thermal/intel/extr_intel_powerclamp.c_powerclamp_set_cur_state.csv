@@ -1,0 +1,11 @@
+MAX_TARGET_RATIO,VAR_0
+clamp,FUNC_0
+end_power_clamp,FUNC_1
+pr_info,FUNC_2
+set_target_ratio,VAR_1
+smp_mb,FUNC_3
+start_power_clamp,FUNC_4
+powerclamp_set_cur_state,FUNC_5
+cdev,VAR_2
+new_target_ratio,VAR_3
+ret,VAR_4

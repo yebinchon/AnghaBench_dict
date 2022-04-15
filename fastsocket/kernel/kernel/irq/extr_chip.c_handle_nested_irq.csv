@@ -1,0 +1,16 @@
+IRQ_DISABLED,VAR_0
+IRQ_INPROGRESS,VAR_1
+irq_to_desc,FUNC_0
+kstat_incr_irqs_this_cpu,FUNC_1
+might_sleep,FUNC_2
+noirqdebug,VAR_2
+note_interrupt,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+stub1,FUNC_6
+unlikely,FUNC_7
+handle_nested_irq,FUNC_8
+irq,VAR_3
+desc,VAR_4
+action,VAR_5
+action_ret,VAR_6

@@ -1,0 +1,17 @@
+DS133x_R_STATUS,VAR_0
+DS1340_R_STATUS,VAR_1
+DS137x_R_STATUS,VAR_2
+DS1388_R_SECOND,VAR_3
+DS1388_R_STATUS,VAR_4
+DS13xx_R_SECOND,VAR_5
+ENXIO,VAR_6
+TYPE_NONE,VAR_7
+config_intrhook_oneshot,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+ds13rtc_get_chiptype,FUNC_4
+ds13rtc_start,VAR_8
+ds13rtc_attach,FUNC_5
+dev,VAR_9
+sc,VAR_10

@@ -1,0 +1,8 @@
+INTERCEPT_SMI,VAR_0
+SVM_EXIT_SMI,VAR_1
+gif_set,FUNC_0
+is_guest_mode,FUNC_1
+to_svm,FUNC_2
+svm_smi_allowed,FUNC_3
+vcpu,VAR_2
+svm,VAR_3

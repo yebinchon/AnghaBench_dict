@@ -1,0 +1,14 @@
+SPRD_RTC_POWER_STS_CLEAR,VAR_0
+SPRD_RTC_POWER_STS_VALID,VAR_1
+SPRD_RTC_PWR_CTRL,VAR_2
+SPRD_RTC_TIME,VAR_3
+dev_get_drvdata,FUNC_0
+regmap_write,FUNC_1
+rtc_tm_to_time64,FUNC_2
+sprd_rtc_set_secs,FUNC_3
+sprd_rtc_set_time,FUNC_4
+dev,VAR_4
+tm,VAR_5
+rtc,VAR_6
+secs,VAR_7
+ret,VAR_8

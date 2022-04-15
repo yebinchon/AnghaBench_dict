@@ -1,0 +1,12 @@
+SD_EMMC_DESC_BUF_LEN,VAR_0
+SD_EMMC_IRQ_EN,VAR_1
+clk_disable_unprepare,FUNC_0
+dev_get_drvdata,FUNC_1
+dma_free_coherent,FUNC_2
+free_irq,FUNC_3
+mmc_free_host,FUNC_4
+mmc_remove_host,FUNC_5
+writel,FUNC_6
+meson_mmc_remove,FUNC_7
+pdev,VAR_2
+host,VAR_3

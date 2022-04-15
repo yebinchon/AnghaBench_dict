@@ -1,0 +1,13 @@
+TRANS_ABORT,VAR_0
+TRANS_QUEUED,VAR_1
+TRANS_RUNNING,VAR_2
+dprintk,FUNC_0
+list_del,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+stub1,FUNC_4
+wait_event,FUNC_5
+v4l2_m2m_cancel_job,FUNC_6
+m2m_ctx,VAR_3
+m2m_dev,VAR_4
+flags,VAR_5

@@ -1,0 +1,8 @@
+UFSHCD_UIC_PWR_MASK,VAR_0
+UIC_COMMAND_COMPL,VAR_1
+complete,FUNC_0
+ufshcd_get_dme_attr_val,FUNC_1
+ufshcd_get_uic_cmd_result,FUNC_2
+ufshcd_uic_cmd_compl,FUNC_3
+hba,VAR_2
+intr_status,VAR_3

@@ -1,0 +1,12 @@
+IVTV_MBOX_DRIVER_BUSY,VAR_0
+IVTV_MBOX_FIRMWARE_DONE,VAR_1
+IVTV_MBOX_FREE,VAR_2
+readl,FUNC_0
+test_and_set_bit,FUNC_1
+write_sync,FUNC_2
+try_mailbox,FUNC_3
+itv,VAR_3
+mbdata,VAR_4
+mb,VAR_5
+flags,VAR_6
+is_free,VAR_7

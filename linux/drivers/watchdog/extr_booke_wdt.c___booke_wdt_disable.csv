@@ -1,0 +1,9 @@
+SPRN_TCR,VAR_0
+TCR_WIE,VAR_1
+WDTP_MASK,VAR_2
+__booke_wdt_ping,FUNC_0
+mfspr,FUNC_1
+mtspr,FUNC_2
+__booke_wdt_disable,FUNC_3
+data,VAR_3
+val,VAR_4

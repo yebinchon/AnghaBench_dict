@@ -1,0 +1,13 @@
+WDOG_COUNTER_RESTART_KICK_VALUE,VAR_0
+WDOG_COUNTER_RESTART_REG_OFFSET,VAR_1
+WDOG_TIMEOUT_RANGE_REG_OFFSET,VAR_2
+dw_wdt_arm_system_reset,FUNC_0
+dw_wdt_is_enabled,FUNC_1
+mdelay,FUNC_2
+to_dw_wdt,FUNC_3
+writel,FUNC_4
+dw_wdt_restart,FUNC_5
+wdd,VAR_3
+action,VAR_4
+data,VAR_5
+dw_wdt,VAR_6

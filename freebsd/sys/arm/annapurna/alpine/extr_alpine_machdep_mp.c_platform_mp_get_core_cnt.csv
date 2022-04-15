@@ -1,0 +1,9 @@
+CPUV7_L2CTLR_NPROC,FUNC_0
+alpine_validate_cpu,VAR_0
+cp15_l2ctlr_get,FUNC_1
+ofw_cpu_early_foreach,FUNC_2
+printf,FUNC_3
+platform_mp_get_core_cnt,FUNC_4
+ncores,VAR_1
+nchilds,VAR_2
+reg,VAR_3

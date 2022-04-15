@@ -1,0 +1,10 @@
+IMX6_PCIE_FLAG_IMX6_PHY,VAR_0
+PHY_RX_OVRD_IN_LO,VAR_1
+PHY_RX_OVRD_IN_LO_RX_DATA_EN,VAR_2
+PHY_RX_OVRD_IN_LO_RX_PLL_EN,VAR_3
+pcie_phy_read,FUNC_0
+pcie_phy_write,FUNC_1
+usleep_range,FUNC_2
+imx6_pcie_reset_phy,FUNC_3
+imx6_pcie,VAR_4
+tmp,VAR_5

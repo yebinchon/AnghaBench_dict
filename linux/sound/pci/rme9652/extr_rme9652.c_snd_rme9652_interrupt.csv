@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+RME9652_IRQ,VAR_2
+RME9652_irq_clear,VAR_3
+RME9652_status_register,VAR_4
+SNDRV_PCM_STREAM_CAPTURE,VAR_5
+SNDRV_PCM_STREAM_PLAYBACK,VAR_6
+rme9652_read,FUNC_0
+rme9652_write,FUNC_1
+snd_pcm_period_elapsed,FUNC_2
+snd_rme9652_interrupt,FUNC_3
+irq,VAR_7
+dev_id,VAR_8
+rme9652,VAR_9

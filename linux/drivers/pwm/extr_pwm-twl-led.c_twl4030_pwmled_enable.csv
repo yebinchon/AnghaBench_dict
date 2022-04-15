@@ -1,0 +1,16 @@
+TWL4030_LEDEN_REG,VAR_0
+TWL4030_LED_PINS,VAR_1
+TWL4030_LED_TOGGLE,FUNC_0
+TWL4030_MODULE_LED,VAR_2
+dev_err,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_twl,FUNC_4
+twl_i2c_read_u8,FUNC_5
+twl_i2c_write_u8,FUNC_6
+twl4030_pwmled_enable,FUNC_7
+chip,VAR_3
+pwm,VAR_4
+twl,VAR_5
+ret,VAR_6
+val,VAR_7

@@ -1,0 +1,10 @@
+EXTCON_USB_HOST,VAR_0
+INTEL_USB_ID_GND,VAR_1
+INTEL_USB_RID_A,VAR_2
+extcon_set_state_sync,FUNC_0
+mrfld_extcon_get_id,FUNC_1
+mrfld_extcon_role_detect,FUNC_2
+data,VAR_3
+id,VAR_4
+usb_host,VAR_5
+ret,VAR_6

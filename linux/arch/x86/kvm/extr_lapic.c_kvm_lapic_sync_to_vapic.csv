@@ -1,0 +1,15 @@
+APIC_TASKPRI,VAR_0
+KVM_APIC_CHECK_VAPIC,VAR_1
+apic_find_highest_irr,FUNC_0
+apic_find_highest_isr,FUNC_1
+apic_sync_pv_eoi_to_guest,FUNC_2
+kvm_lapic_get_reg,FUNC_3
+kvm_write_guest_cached,FUNC_4
+test_bit,FUNC_5
+kvm_lapic_sync_to_vapic,FUNC_6
+vcpu,VAR_2
+data,VAR_3
+tpr,VAR_4
+max_irr,VAR_5
+max_isr,VAR_6
+apic,VAR_7

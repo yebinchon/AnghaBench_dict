@@ -1,0 +1,12 @@
+ext4_write_inline_data_end,FUNC_0
+i_size_write,FUNC_1
+mark_inode_dirty,FUNC_2
+put_page,FUNC_3
+unlock_page,FUNC_4
+ext4_da_write_inline_data_end,FUNC_5
+inode,VAR_0
+pos,VAR_1
+len,VAR_2
+copied,VAR_3
+page,VAR_4
+ret,VAR_5

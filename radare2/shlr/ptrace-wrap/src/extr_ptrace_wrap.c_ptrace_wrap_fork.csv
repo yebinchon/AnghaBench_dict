@@ -1,0 +1,12 @@
+PTRACE_WRAP_REQUEST_TYPE_FORK,VAR_0
+errno,VAR_1
+fork,FUNC_0
+pthread_self,FUNC_1
+sem_post,FUNC_2
+sem_wait,FUNC_3
+ptrace_wrap_fork,FUNC_4
+inst,VAR_2
+child_callback,VAR_3
+child_callback_user,VAR_4
+r,VAR_5
+_errno,VAR_6

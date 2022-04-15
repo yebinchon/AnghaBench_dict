@@ -1,0 +1,13 @@
+LPTR,VAR_0
+LocalAlloc,FUNC_0
+LocalFree,FUNC_1
+NT_SUCCESS,FUNC_2
+NtQuerySystemInformation,FUNC_3
+STATUS_INFO_LENGTH_MISMATCH,VAR_1
+kull_m_process_NtQuerySystemInformation,FUNC_4
+informationClass,VAR_2
+buffer,VAR_3
+informationLength,VAR_4
+status,VAR_5
+sizeOfBuffer,VAR_6
+returnedLen,VAR_7

@@ -1,0 +1,14 @@
+DRIVE_CMDS_RESERVED_FOR_FW,VAR_0
+DRIVE_QUEUE_DEPTH,VAR_1
+GET_BMIC_DRIVE_NUMBER,FUNC_0
+hpsa_bmic_id_physical_device,FUNC_1
+le16_to_cpu,FUNC_2
+memset,FUNC_3
+hpsa_get_ioaccel_drive_info,FUNC_4
+h,VAR_2
+dev,VAR_3
+rlep,VAR_4
+rle_index,VAR_5
+id_phys,VAR_6
+rc,VAR_7
+rle,VAR_8

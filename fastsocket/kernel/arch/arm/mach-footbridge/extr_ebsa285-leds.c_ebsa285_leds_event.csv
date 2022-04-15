@@ -1,0 +1,14 @@
+LED_STATE_CLAIMED,VAR_0
+LED_STATE_ENABLED,VAR_1
+XBUS_LEDS,VAR_2
+XBUS_LED_AMBER,VAR_3
+XBUS_LED_GREEN,VAR_4
+XBUS_LED_RED,VAR_5
+hw_led_state,VAR_6
+led_state,VAR_7
+leds_lock,VAR_8
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+ebsa285_leds_event,FUNC_2
+evt,VAR_9
+flags,VAR_10

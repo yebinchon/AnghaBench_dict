@@ -1,0 +1,15 @@
+FEC_MII_SPEED,VAR_0
+MII_REG_PHYIR1,VAR_1
+MII_REG_PHYIR2,VAR_2
+fec_disable_phy_intr,FUNC_0
+mii_discover_phy3,FUNC_1
+mii_queue_unlocked,FUNC_2
+mk_mii_read,FUNC_3
+netdev_priv,FUNC_4
+printk,FUNC_5
+writel,FUNC_6
+mii_discover_phy,FUNC_7
+mii_reg,VAR_3
+dev,VAR_4
+fep,VAR_5
+phytype,VAR_6

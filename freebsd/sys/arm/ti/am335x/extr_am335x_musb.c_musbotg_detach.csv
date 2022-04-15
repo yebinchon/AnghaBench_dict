@@ -1,0 +1,13 @@
+SYS_RES_IRQ,VAR_0
+am335x_musbotg_mem_spec,VAR_1
+bus_release_resource,FUNC_0
+bus_release_resources,FUNC_1
+bus_teardown_intr,FUNC_2
+device_delete_children,FUNC_3
+device_get_softc,FUNC_4
+musbotg_uninit,FUNC_5
+usb_bus_mem_free_all,FUNC_6
+musbotg_detach,FUNC_7
+dev,VAR_2
+sc,VAR_3
+err,VAR_4

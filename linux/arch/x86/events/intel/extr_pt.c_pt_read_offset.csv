@@ -1,0 +1,9 @@
+MSR_IA32_RTIT_OUTPUT_BASE,VAR_0
+MSR_IA32_RTIT_OUTPUT_MASK,VAR_1
+phys_to_virt,FUNC_0
+rdmsrl,FUNC_1
+pt_read_offset,FUNC_2
+buf,VAR_2
+offset,VAR_3
+base_topa,VAR_4
+tp,VAR_5

@@ -1,0 +1,15 @@
+DMA_32BIT_PFN,VAR_0
+ENOMEM,VAR_1
+INIT_LIST_HEAD,FUNC_0
+PAGE_SIZE,VAR_2
+alloc_pgtable_page,FUNC_1
+domain_flush_cache,FUNC_2
+domain_reserve_special_ranges,FUNC_3
+guestwidth_to_adjustwidth,FUNC_4
+init_iova_domain,FUNC_5
+spin_lock_init,FUNC_6
+width_to_agaw,FUNC_7
+md_domain_init,FUNC_8
+domain,VAR_3
+guest_width,VAR_4
+adjust_width,VAR_5

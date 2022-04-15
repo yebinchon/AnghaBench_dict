@@ -1,0 +1,11 @@
+BD70528_MASK_WAKE_EN,VAR_0
+BD70528_REG_WAKE_EN,VAR_1
+BD70528_WAKE_STATE_BIT,VAR_2
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+bd70528_set_wake,FUNC_2
+bd70528,VAR_3
+enable,VAR_4
+old_state,VAR_5
+ret,VAR_6
+ctrl_reg,VAR_7

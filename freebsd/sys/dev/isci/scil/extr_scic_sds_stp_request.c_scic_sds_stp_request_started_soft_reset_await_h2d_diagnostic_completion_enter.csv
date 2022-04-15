@@ -1,0 +1,13 @@
+SCIC_SDS_STP_REQUEST_STARTED_SOFT_RESET_AWAIT_H2D_DIAGNOSTIC_COMPLETION_SUBSTATE,VAR_0
+SCI_SUCCESS,VAR_1
+SET_STATE_HANDLER,FUNC_0
+scic_sds_controller_get_task_context_buffer,FUNC_1
+scic_sds_stp_request_started_soft_reset_substate_handler_table,VAR_2
+scic_stp_io_request_get_h2d_reg_address,FUNC_2
+stub1,FUNC_3
+scic_sds_stp_request_started_soft_reset_await_h2d_diagnostic_completion_enter,FUNC_4
+object,VAR_3
+status,VAR_4
+this_request,VAR_5
+h2d_fis,VAR_6
+task_context,VAR_7

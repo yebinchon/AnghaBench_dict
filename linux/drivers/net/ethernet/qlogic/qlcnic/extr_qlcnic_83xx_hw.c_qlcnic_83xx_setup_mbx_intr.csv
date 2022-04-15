@@ -1,0 +1,15 @@
+IRQF_SHARED,VAR_0
+QLCNIC_MSIX_ENABLED,VAR_1
+QLCNIC_MSI_ENABLED,VAR_2
+dev_err,FUNC_0
+qlcnic_83xx_clear_legacy_intr_mask,FUNC_1
+qlcnic_83xx_enable_mbx_interrupt,FUNC_2
+qlcnic_83xx_handle_aen,VAR_3
+qlcnic_83xx_intr,VAR_4
+request_irq,FUNC_3
+qlcnic_83xx_setup_mbx_intr,FUNC_4
+adapter,VAR_5
+handler,VAR_6
+val,VAR_7
+err,VAR_8
+flags,VAR_9

@@ -1,0 +1,17 @@
+IS_ERR_OR_NULL,FUNC_0
+WARN_ON,FUNC_1
+debugfs_remove_recursive,FUNC_2
+device_link_remove,FUNC_3
+kfree,FUNC_4
+kfree_const,FUNC_5
+list_del,FUNC_6
+lockdep_assert_held_once,FUNC_7
+module_put,FUNC_8
+put_device,FUNC_9
+regulator_list_mutex,VAR_0
+regulator_lock,FUNC_10
+regulator_unlock,FUNC_11
+sysfs_remove_link,FUNC_12
+_regulator_put,FUNC_13
+regulator,VAR_1
+rdev,VAR_2

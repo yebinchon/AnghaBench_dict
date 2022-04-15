@@ -1,0 +1,17 @@
+TWS_RESET,VAR_0
+TWS_RESET_COMPLETE,VAR_1
+TWS_RESET_START,VAR_2
+device_printf,FUNC_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+tws_assert_soft_reset,FUNC_3
+tws_get_state,FUNC_4
+tws_reinit,FUNC_5
+tws_reset_cb,FUNC_6
+tws_send_event,FUNC_7
+tws_turn_off_interrupts,FUNC_8
+xpt_freeze_simq,FUNC_9
+xpt_release_simq,FUNC_10
+tws_reset,FUNC_11
+arg,VAR_3
+sc,VAR_4

@@ -1,0 +1,15 @@
+AC97_GPIO_TXFS,VAR_0
+MX35_PAD_STXFS4__AUDMUX_AUD4_TXFS,VAR_1
+MX35_PAD_STXFS4__GPIO2_31,VAR_2
+gpio_direction_output,FUNC_0
+gpio_free,FUNC_1
+gpio_request,FUNC_2
+gpio_set_value,FUNC_3
+mxc_iomux_v3_setup_pad,FUNC_4
+printk,FUNC_5
+udelay,FUNC_6
+pcm043_ac97_warm_reset,FUNC_7
+ac97,VAR_3
+txfs_gpio,VAR_4
+txfs,VAR_5
+ret,VAR_6

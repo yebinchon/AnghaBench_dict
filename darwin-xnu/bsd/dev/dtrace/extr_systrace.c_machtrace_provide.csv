@@ -1,0 +1,16 @@
+DTRACE_IDNONE,VAR_0
+MACHTRACE_ARTIFICIAL_FRAMES,VAR_1
+NSYSCALL,VAR_2
+SYSTRACE_ENTRY,FUNC_0
+SYSTRACE_RETURN,FUNC_1
+dtrace_probe_create,FUNC_2
+dtrace_probe_lookup,FUNC_3
+mach_syscall_name_table,VAR_3
+mach_trap_table,VAR_4
+machtrace_id,VAR_5
+machtrace_init,FUNC_4
+machtrace_sysent,VAR_6
+machtrace_provide,FUNC_5
+arg,VAR_7
+desc,VAR_8
+i,VAR_9

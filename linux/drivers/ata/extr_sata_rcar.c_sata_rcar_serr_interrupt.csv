@@ -1,0 +1,17 @@
+DPRINTK,FUNC_0
+SCRSERR_REG,VAR_0
+SERR_COMM_WAKE,VAR_1
+SERR_DEV_XCHG,VAR_2
+SERR_PHYRDY_CHG,VAR_3
+ata_ehi_clear_desc,FUNC_1
+ata_ehi_hotplugged,FUNC_2
+ata_ehi_push_desc,FUNC_3
+ata_port_abort,FUNC_4
+ata_port_freeze,FUNC_5
+ioread32,FUNC_6
+sata_rcar_serr_interrupt,FUNC_7
+ap,VAR_4
+priv,VAR_5
+ehi,VAR_6
+freeze,VAR_7
+serror,VAR_8

@@ -1,0 +1,15 @@
+CTA_STATUS,VAR_0
+EBUSY,VAR_1
+IPS_ASSURED,VAR_2
+IPS_CONFIRMED,VAR_3
+IPS_DYING,VAR_4
+IPS_EXPECTED,VAR_5
+IPS_SEEN_REPLY,VAR_6
+__ctnetlink_change_status,FUNC_0
+nla_get_be32,FUNC_1
+ntohl,FUNC_2
+ctnetlink_change_status,FUNC_3
+ct,VAR_7
+cda,VAR_8
+d,VAR_9
+status,VAR_10

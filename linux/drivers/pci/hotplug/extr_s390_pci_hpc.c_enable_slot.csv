@@ -1,0 +1,15 @@
+EIO,VAR_0
+ZPCI_DEVFN,VAR_1
+ZPCI_FN_STATE_STANDBY,VAR_2
+pci_bus_add_devices,FUNC_0
+pci_lock_rescan_remove,FUNC_1
+pci_scan_slot,FUNC_2
+pci_unlock_rescan_remove,FUNC_3
+slot_configure,FUNC_4
+slot_deconfigure,FUNC_5
+to_slot,FUNC_6
+zpci_enable_device,FUNC_7
+enable_slot,FUNC_8
+hotplug_slot,VAR_3
+slot,VAR_4
+rc,VAR_5

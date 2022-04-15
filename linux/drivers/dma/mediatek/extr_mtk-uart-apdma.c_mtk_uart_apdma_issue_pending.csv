@@ -1,0 +1,15 @@
+DMA_DEV_TO_MEM,VAR_0
+DMA_MEM_TO_DEV,VAR_1
+mtk_uart_apdma_start_rx,FUNC_0
+mtk_uart_apdma_start_tx,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_mtk_uart_apdma_chan,FUNC_4
+to_mtk_uart_apdma_desc,FUNC_5
+vchan_issue_pending,FUNC_6
+vchan_next_desc,FUNC_7
+mtk_uart_apdma_issue_pending,FUNC_8
+chan,VAR_2
+c,VAR_3
+vd,VAR_4
+flags,VAR_5

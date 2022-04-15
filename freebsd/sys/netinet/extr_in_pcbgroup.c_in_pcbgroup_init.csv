@@ -1,0 +1,17 @@
+INP_GROUP_LOCK_INIT,FUNC_0
+IPI_HASHFIELDS_NONE,VAR_0
+M_PCB,VAR_1
+M_WAITOK,VAR_2
+M_ZERO,VAR_3
+hashinit,FUNC_1
+malloc,FUNC_2
+mp_ncpus,VAR_4
+rss_getcpu,FUNC_3
+rss_getnumbuckets,FUNC_4
+in_pcbgroup_init,FUNC_5
+pcbinfo,VAR_5
+hashfields,VAR_6
+hash_nelements,VAR_7
+pcbgroup,VAR_8
+numpcbgroups,VAR_9
+pgn,VAR_10

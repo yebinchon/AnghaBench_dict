@@ -1,0 +1,17 @@
+CLAW_DBF_TEXT,FUNC_0
+CLAW_DBF_TEXT_,FUNC_1
+NETDEV_TX_BUSY,VAR_0
+NETDEV_TX_OK,VAR_1
+WRITE,VAR_2
+claw_hw_tx,FUNC_2
+get_ccwdev_lock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+trace,VAR_3
+claw_tx,FUNC_6
+skb,VAR_4
+dev,VAR_5
+rc,VAR_6
+privptr,VAR_7
+saveflags,VAR_8
+p_ch,VAR_9

@@ -1,0 +1,15 @@
+EOPNOTSUPP,VAR_0
+__blkdev_issue_discard,FUNC_0
+bio_put,FUNC_1
+blk_finish_plug,FUNC_2
+blk_start_plug,FUNC_3
+submit_bio_wait,FUNC_4
+blkdev_issue_discard,FUNC_5
+bdev,VAR_1
+sector,VAR_2
+nr_sects,VAR_3
+gfp_mask,VAR_4
+flags,VAR_5
+bio,VAR_6
+plug,VAR_7
+ret,VAR_8

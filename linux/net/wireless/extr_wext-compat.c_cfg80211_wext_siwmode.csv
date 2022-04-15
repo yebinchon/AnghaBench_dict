@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+NL80211_IFTYPE_ADHOC,VAR_1
+NL80211_IFTYPE_MONITOR,VAR_2
+NL80211_IFTYPE_STATION,VAR_3
+NL80211_IFTYPE_WDS,VAR_4
+cfg80211_change_iface,FUNC_0
+memset,FUNC_1
+wiphy_to_rdev,FUNC_2
+cfg80211_wext_siwmode,FUNC_3
+dev,VAR_5
+info,VAR_6
+mode,VAR_7
+extra,VAR_8
+wdev,VAR_9
+rdev,VAR_10
+vifparams,VAR_11
+type,VAR_12

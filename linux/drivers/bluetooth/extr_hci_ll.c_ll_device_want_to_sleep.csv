@@ -1,0 +1,13 @@
+BT_DBG,FUNC_0
+BT_ERR,FUNC_1
+HCILL_ASLEEP,VAR_0
+HCILL_AWAKE,VAR_1
+HCILL_GO_TO_SLEEP_ACK,VAR_2
+hci_uart_tx_wakeup,FUNC_2
+send_hcill_cmd,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ll_device_want_to_sleep,FUNC_6
+hu,VAR_3
+flags,VAR_4
+ll,VAR_5

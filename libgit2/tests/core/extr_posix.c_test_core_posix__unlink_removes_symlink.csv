@@ -1,0 +1,13 @@
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_must_pass,FUNC_3
+clar__skip,FUNC_4
+clar_sandbox_path,FUNC_5
+git_futils_mkdir,FUNC_6
+git_path_exists,FUNC_7
+git_path_supports_symlinks,FUNC_8
+p_rmdir,FUNC_9
+p_symlink,FUNC_10
+p_unlink,FUNC_11
+test_core_posix__unlink_removes_symlink,FUNC_12

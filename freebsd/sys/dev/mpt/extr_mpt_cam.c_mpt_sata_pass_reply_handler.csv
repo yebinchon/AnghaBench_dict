@@ -1,0 +1,15 @@
+REQ_STATE_DONE,VAR_0
+REQ_STATE_NEED_WAKEUP,VAR_1
+REQ_STATE_QUEUED,VAR_2
+REQ_STATE_TIMEDOUT,VAR_3
+TAILQ_REMOVE,FUNC_0
+TRUE,VAR_4
+le16toh,FUNC_1
+links,VAR_5
+mpt_free_request,FUNC_2
+wakeup,FUNC_3
+mpt_sata_pass_reply_handler,FUNC_4
+mpt,VAR_6
+req,VAR_7
+reply_desc,VAR_8
+reply_frame,VAR_9

@@ -1,0 +1,17 @@
+IS_ERR,FUNC_0
+OCXL_NUM_MINORS,VAR_0
+PTR_ERR,FUNC_1
+THIS_MODULE,VAR_1
+alloc_chrdev_region,FUNC_2
+class_create,FUNC_3
+idr_init,FUNC_4
+minors_idr,VAR_2
+minors_idr_lock,VAR_3
+mutex_init,FUNC_5
+ocxl_class,VAR_4
+ocxl_dev,VAR_5
+ocxl_devnode,VAR_6
+pr_err,FUNC_6
+unregister_chrdev_region,FUNC_7
+ocxl_file_init,FUNC_8
+rc,VAR_7

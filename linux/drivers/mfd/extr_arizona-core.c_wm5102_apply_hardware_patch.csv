@@ -1,0 +1,16 @@
+ARIZONA_WRITE_SEQUENCER_CTRL_0,VAR_0
+ARIZONA_WRITE_SEQUENCER_CTRL_1,VAR_1
+ARIZONA_WSEQ_ABORT,VAR_2
+ARIZONA_WSEQ_BUSY,VAR_3
+ARIZONA_WSEQ_ENA,VAR_4
+ARIZONA_WSEQ_START,VAR_5
+arizona_disable_freerun_sysclk,FUNC_0
+arizona_enable_freerun_sysclk,FUNC_1
+arizona_poll_reg,FUNC_2
+dev_err,FUNC_3
+regmap_write,FUNC_4
+wm5102_apply_hardware_patch,FUNC_5
+arizona,VAR_6
+state,VAR_7
+err,VAR_8
+ret,VAR_9

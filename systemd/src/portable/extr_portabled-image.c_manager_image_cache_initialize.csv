@@ -1,0 +1,12 @@
+SD_EVENT_ONESHOT,VAR_0
+SD_EVENT_PRIORITY_IDLE,VAR_1
+assert,FUNC_0
+hashmap_ensure_allocated,FUNC_1
+image_cache_flush,VAR_2
+image_hash_ops,VAR_3
+sd_event_add_defer,FUNC_2
+sd_event_source_set_enabled,FUNC_3
+sd_event_source_set_priority,FUNC_4
+manager_image_cache_initialize,FUNC_5
+m,VAR_4
+r,VAR_5

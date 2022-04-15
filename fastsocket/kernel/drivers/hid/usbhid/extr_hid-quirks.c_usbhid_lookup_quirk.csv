@@ -1,0 +1,14 @@
+HID_QUIRK_NO_INIT_REPORTS,VAR_0
+USB_DEVICE_ID_NCR_FIRST,VAR_1
+USB_DEVICE_ID_NCR_LAST,VAR_2
+USB_VENDOR_ID_NCR,VAR_3
+down_read,FUNC_0
+dquirks_rwsem,VAR_4
+up_read,FUNC_1
+usbhid_exists_dquirk,FUNC_2
+usbhid_exists_squirk,FUNC_3
+usbhid_lookup_quirk,FUNC_4
+idVendor,VAR_5
+idProduct,VAR_6
+quirks,VAR_7
+bl_entry,VAR_8

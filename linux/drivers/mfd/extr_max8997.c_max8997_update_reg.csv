@@ -1,0 +1,14 @@
+i2c_get_clientdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+max8997_update_reg,FUNC_5
+i2c,VAR_0
+reg,VAR_1
+val,VAR_2
+mask,VAR_3
+max8997,VAR_4
+ret,VAR_5
+old_val,VAR_6
+new_val,VAR_7

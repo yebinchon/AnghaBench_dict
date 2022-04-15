@@ -1,0 +1,17 @@
+INIT_LIST_HEAD,FUNC_0
+LINK_TOGGLE,VAR_0
+TRBS_PER_SEGMENT,VAR_1
+TYPE_EVENT,VAR_2
+cpu_to_le32,FUNC_1
+kfree,FUNC_2
+kzalloc,FUNC_3
+xhci_alloc_segments_for_ring,FUNC_4
+xhci_initialize_ring_info,FUNC_5
+xhci_ring_alloc,FUNC_6
+xhci,VAR_3
+num_segs,VAR_4
+cycle_state,VAR_5
+type,VAR_6
+flags,VAR_7
+ring,VAR_8
+ret,VAR_9

@@ -1,0 +1,14 @@
+JOURNAL_LIST_ENTRY,FUNC_0
+SB_JOURNAL,FUNC_1
+atomic_read,FUNC_2
+flush_commit_list,FUNC_3
+journal_list_still_alive,FUNC_4
+flush_older_commits,FUNC_5
+s,VAR_0
+jl,VAR_1
+journal,VAR_2
+other_jl,VAR_3
+first_jl,VAR_4
+entry,VAR_5
+trans_id,VAR_6
+other_trans_id,VAR_7

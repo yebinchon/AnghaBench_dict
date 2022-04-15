@@ -1,0 +1,13 @@
+CMD_RESET,VAR_0
+HC_STATE_HALT,VAR_1
+HC_USBCMD,VAR_2
+handshake,FUNC_0
+isp1760_readl,FUNC_1
+isp1760_writel,FUNC_2
+jiffies,VAR_3
+priv_to_hcd,FUNC_3
+ehci_reset,FUNC_4
+priv,VAR_4
+retval,VAR_5
+hcd,VAR_6
+command,VAR_7

@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+MIN,FUNC_1
+dmu_buf_fill_done,FUNC_2
+dmu_buf_will_dirty,FUNC_3
+dmu_buf_will_fill,FUNC_4
+memcpy,FUNC_5
+dmu_write_impl,FUNC_6
+dbp,VAR_0
+numbufs,VAR_1
+offset,VAR_2
+size,VAR_3
+buf,VAR_4
+tx,VAR_5
+i,VAR_6
+tocpy,VAR_7
+bufoff,VAR_8
+db,VAR_9

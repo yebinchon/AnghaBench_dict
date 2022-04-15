@@ -1,0 +1,14 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+STE_RX_LIST_CNT,VAR_2
+STE_RX_LIST_SZ,VAR_3
+bus_dmamap_sync,FUNC_0
+bzero,FUNC_1
+htole32,FUNC_2
+ste_newbuf,FUNC_3
+ste_init_rx_list,FUNC_4
+sc,VAR_4
+cd,VAR_5
+ld,VAR_6
+error,VAR_7
+i,VAR_8

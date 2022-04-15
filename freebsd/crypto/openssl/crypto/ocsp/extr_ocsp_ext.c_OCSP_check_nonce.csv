@@ -1,0 +1,14 @@
+ASN1_OCTET_STRING_cmp,FUNC_0
+NID_id_pkix_OCSP_Nonce,VAR_0
+OCSP_BASICRESP_get_ext,FUNC_1
+OCSP_BASICRESP_get_ext_by_NID,FUNC_2
+OCSP_REQUEST_get_ext,FUNC_3
+OCSP_REQUEST_get_ext_by_NID,FUNC_4
+X509_EXTENSION_get_data,FUNC_5
+OCSP_check_nonce,FUNC_6
+req,VAR_1
+bs,VAR_2
+req_idx,VAR_3
+resp_idx,VAR_4
+req_ext,VAR_5
+resp_ext,VAR_6

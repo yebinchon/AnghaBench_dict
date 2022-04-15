@@ -1,0 +1,15 @@
+MAC_EN_CLOCK_ENABLE,VAR_0
+MAC_EN_RESET0,VAR_1
+MAC_EN_RESET1,VAR_2
+MAC_EN_RESET2,VAR_3
+mdelay,FUNC_0
+netdev_priv,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wmb,FUNC_4
+writel,FUNC_5
+au1000_enable_mac,FUNC_6
+dev,VAR_4
+force_reset,VAR_5
+flags,VAR_6
+aup,VAR_7

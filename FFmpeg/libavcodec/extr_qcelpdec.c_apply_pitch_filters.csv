@@ -1,0 +1,16 @@
+FFMIN,FUNC_0
+I_F_Q,VAR_0
+RATE_HALF,VAR_1
+SILENCE,VAR_2
+apply_gain_ctrl,FUNC_1
+av_assert2,FUNC_2
+do_pitchfilter,FUNC_3
+memcpy,FUNC_4
+memset,FUNC_5
+apply_pitch_filters,FUNC_6
+q,VAR_3
+cdn_vector,VAR_4
+i,VAR_5
+v_synthesis_filtered,VAR_6
+v_pre_filtered,VAR_7
+max_pitch_gain,VAR_8

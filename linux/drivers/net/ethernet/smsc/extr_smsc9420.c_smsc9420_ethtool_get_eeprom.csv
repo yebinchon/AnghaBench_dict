@@ -1,0 +1,16 @@
+SMSC9420_EEPROM_MAGIC,VAR_0
+SMSC9420_EEPROM_SIZE,VAR_1
+memcpy,FUNC_0
+min,FUNC_1
+netdev_priv,FUNC_2
+smsc9420_eeprom_enable_access,FUNC_3
+smsc9420_eeprom_read_location,FUNC_4
+smsc9420_ethtool_get_eeprom,FUNC_5
+dev,VAR_2
+eeprom,VAR_3
+data,VAR_4
+pd,VAR_5
+eeprom_data,VAR_6
+len,VAR_7
+i,VAR_8
+ret,VAR_9

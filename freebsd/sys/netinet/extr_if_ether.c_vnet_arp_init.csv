@@ -1,0 +1,11 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+IS_DEFAULT_VNET,FUNC_1
+arp_iflladdr,VAR_1
+arp_nh,VAR_2
+curvnet,VAR_3
+iflladdr_event,VAR_4
+iflladdr_tag,VAR_5
+netisr_register,FUNC_2
+netisr_register_vnet,FUNC_3
+vnet_arp_init,FUNC_4

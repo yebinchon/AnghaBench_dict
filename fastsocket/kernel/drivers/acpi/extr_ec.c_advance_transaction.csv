@@ -1,0 +1,11 @@
+ACPI_EC_FLAG_IBF,VAR_0
+ACPI_EC_FLAG_OBF,VAR_1
+acpi_ec_read_data,FUNC_0
+acpi_ec_write_data,FUNC_1
+in_interrupt,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+advance_transaction,FUNC_5
+ec,VAR_2
+status,VAR_3
+flags,VAR_4

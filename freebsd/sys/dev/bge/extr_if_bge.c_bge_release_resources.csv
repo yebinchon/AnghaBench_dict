@@ -1,0 +1,14 @@
+BGE_LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bge_dma_free,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+if_free,FUNC_4
+mtx_initialized,FUNC_5
+pci_release_msi,FUNC_6
+rman_get_rid,FUNC_7
+taskqueue_free,FUNC_8
+bge_release_resources,FUNC_9
+sc,VAR_2
+dev,VAR_3

@@ -1,0 +1,11 @@
+AZX_GCTL_RESET,VAR_0
+GCTL,VAR_1
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_0
+snd_hdac_chip_readb,FUNC_1
+snd_hdac_chip_updateb,FUNC_2
+time_before,FUNC_3
+usleep_range,FUNC_4
+snd_hdac_bus_exit_link_reset,FUNC_5
+bus,VAR_3
+timeout,VAR_4

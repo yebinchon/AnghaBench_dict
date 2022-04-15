@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+NULLAGNUMBER,VAR_0
+XFS_AGF_DADDR,FUNC_1
+XFS_AGF_REF,VAR_1
+XFS_AG_DADDR,FUNC_2
+XFS_FSS_TO_BB,FUNC_3
+trace_xfs_read_agf,FUNC_4
+xfs_agf_buf_ops,VAR_2
+xfs_buf_set_ref,FUNC_5
+xfs_trans_read_buf,FUNC_6
+xfs_read_agf,FUNC_7
+mp,VAR_3
+tp,VAR_4
+agno,VAR_5
+flags,VAR_6
+bpp,VAR_7
+error,VAR_8

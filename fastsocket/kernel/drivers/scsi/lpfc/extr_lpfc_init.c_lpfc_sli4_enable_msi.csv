@@ -1,0 +1,14 @@
+IRQF_SHARED,VAR_0
+KERN_INFO,VAR_1
+KERN_WARNING,VAR_2
+LOG_INIT,VAR_3
+LPFC_DRIVER_NAME,VAR_4
+lpfc_printf_log,FUNC_0
+lpfc_sli4_intr_handler,VAR_5
+pci_disable_msi,FUNC_1
+pci_enable_msi,FUNC_2
+request_irq,FUNC_3
+lpfc_sli4_enable_msi,FUNC_4
+phba,VAR_6
+rc,VAR_7
+index,VAR_8

@@ -1,0 +1,16 @@
+dev_get_drvdata,FUNC_0
+host1x_channel_put,FUNC_1
+host1x_syncpt_free,FUNC_2
+host1x_to_drm_client,FUNC_3
+iommu_detach_group,FUNC_4
+iommu_group_get,FUNC_5
+tegra_drm_unregister_client,FUNC_6
+to_vic,FUNC_7
+vic_exit,FUNC_8
+client,VAR_0
+drm,VAR_1
+group,VAR_2
+dev,VAR_3
+tegra,VAR_4
+vic,VAR_5
+err,VAR_6

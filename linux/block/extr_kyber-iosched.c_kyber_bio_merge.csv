@@ -1,0 +1,15 @@
+blk_mq_bio_list_merge,FUNC_0
+blk_mq_get_ctx,FUNC_1
+kyber_sched_domain,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+kyber_bio_merge,FUNC_5
+hctx,VAR_0
+bio,VAR_1
+nr_segs,VAR_2
+khd,VAR_3
+ctx,VAR_4
+kcq,VAR_5
+sched_domain,VAR_6
+rq_list,VAR_7
+merged,VAR_8

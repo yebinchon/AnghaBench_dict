@@ -1,0 +1,14 @@
+ARRAY_SIZE,FUNC_0
+S3C24XX_EINFLT0,VAR_0
+S3C24XX_EINTMASK,VAR_1
+S3C24XX_EXTINT0,VAR_2
+__raw_readl,FUNC_1
+irq_save,VAR_3
+s3c_pm_do_save,FUNC_2
+save_eintflt,VAR_4
+save_eintmask,VAR_5
+save_extint,VAR_6
+s3c24xx_irq_suspend,FUNC_3
+dev,VAR_7
+state,VAR_8
+i,VAR_9

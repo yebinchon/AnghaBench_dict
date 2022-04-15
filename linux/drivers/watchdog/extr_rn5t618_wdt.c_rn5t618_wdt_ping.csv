@@ -1,0 +1,12 @@
+RN5T618_PWRIRQ,VAR_0
+RN5T618_PWRIRQ_IR_WDOG,VAR_1
+RN5T618_WATCHDOG,VAR_2
+regmap_read,FUNC_0
+regmap_update_bits,FUNC_1
+regmap_write,FUNC_2
+watchdog_get_drvdata,FUNC_3
+rn5t618_wdt_ping,FUNC_4
+wdt_dev,VAR_3
+wdt,VAR_4
+val,VAR_5
+ret,VAR_6

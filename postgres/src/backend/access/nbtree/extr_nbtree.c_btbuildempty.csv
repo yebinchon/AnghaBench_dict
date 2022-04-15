@@ -1,0 +1,13 @@
+BLCKSZ,VAR_0
+BTREE_METAPAGE,VAR_1
+INIT_FORKNUM,VAR_2
+P_NONE,VAR_3
+PageSetChecksumInplace,FUNC_0
+_bt_initmetapage,FUNC_1
+log_newpage,FUNC_2
+palloc,FUNC_3
+smgrimmedsync,FUNC_4
+smgrwrite,FUNC_5
+btbuildempty,FUNC_6
+index,VAR_4
+metapage,VAR_5

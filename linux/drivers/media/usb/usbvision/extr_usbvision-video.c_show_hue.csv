@@ -1,0 +1,13 @@
+V4L2_CID_HUE,VAR_0
+sprintf,FUNC_0
+to_video_device,FUNC_1
+v4l2_ctrl_find,FUNC_2
+v4l2_ctrl_g_ctrl,FUNC_3
+video_get_drvdata,FUNC_4
+show_hue,FUNC_5
+cd,VAR_1
+attr,VAR_2
+buf,VAR_3
+vdev,VAR_4
+usbvision,VAR_5
+val,VAR_6

@@ -1,0 +1,15 @@
+PG_dcache_cpu_mask,VAR_0
+PG_dcache_cpu_shift,VAR_1
+PG_dcache_dirty,VAR_2
+clear_dcache_dirty_cpu,FUNC_0
+flush_dcache_page_impl,FUNC_1
+get_cpu,FUNC_2
+pfn_to_page,FUNC_3
+put_cpu,FUNC_4
+smp_flush_dcache_page_impl,FUNC_5
+flush_dcache,FUNC_6
+pfn,VAR_3
+page,VAR_4
+pg_flags,VAR_5
+cpu,VAR_6
+this_cpu,VAR_7

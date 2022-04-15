@@ -1,0 +1,11 @@
+NpyIter_GetIterIndexRange,FUNC_0
+PyErr_SetString,FUNC_1
+PyExc_ValueError,VAR_0
+PyInt_FromLong,FUNC_2
+PyTuple_New,FUNC_3
+PyTuple_SET_ITEM,FUNC_4
+npyiter_iterrange_get,FUNC_5
+self,VAR_1
+istart,VAR_2
+iend,VAR_3
+ret,VAR_4

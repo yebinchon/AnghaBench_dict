@@ -1,0 +1,17 @@
+DPG_PIPE_STUTTER_CONTROL,VAR_0
+REG_UPDATE_2,FUNC_0
+STUTTER_ENABLE,VAR_1
+STUTTER_IGNORE_FBC,VAR_2
+TO_DCE_MEM_INPUT,FUNC_1
+program_nbp_watermark,FUNC_2
+program_stutter_watermark,FUNC_3
+program_urgency_watermark,FUNC_4
+dce_mi_program_display_marks,FUNC_5
+mi,VAR_3
+nbp,VAR_4
+stutter_exit,VAR_5
+stutter_enter,VAR_6
+urgent,VAR_7
+total_dest_line_time_ns,VAR_8
+dce_mi,VAR_9
+stutter_en,VAR_10

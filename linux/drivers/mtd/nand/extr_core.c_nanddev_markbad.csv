@@ -1,0 +1,16 @@
+NAND_BBT_BLOCK_WORN,VAR_0
+nanddev_bbt_is_initialized,FUNC_0
+nanddev_bbt_pos_to_entry,FUNC_1
+nanddev_bbt_set_block_status,FUNC_2
+nanddev_bbt_update,FUNC_3
+nanddev_isbad,FUNC_4
+nanddev_pos_to_offs,FUNC_5
+nanddev_to_mtd,FUNC_6
+pr_warn,FUNC_7
+stub1,FUNC_8
+nanddev_markbad,FUNC_9
+nand,VAR_1
+pos,VAR_2
+mtd,VAR_3
+entry,VAR_4
+ret,VAR_5

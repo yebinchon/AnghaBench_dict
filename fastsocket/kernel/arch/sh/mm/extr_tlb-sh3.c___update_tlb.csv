@@ -1,0 +1,17 @@
+MMU_PTEH,VAR_0
+MMU_PTEL,VAR_1
+MMU_VPN_MASK,VAR_2
+_PAGE_FLAGS_HARDWARE_MASK,VAR_3
+ctrl_outl,FUNC_0
+current,VAR_4
+get_asid,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+pte_val,FUNC_4
+__update_tlb,FUNC_5
+vma,VAR_5
+address,VAR_6
+pte,VAR_7
+flags,VAR_8
+pteval,VAR_9
+vpn,VAR_10

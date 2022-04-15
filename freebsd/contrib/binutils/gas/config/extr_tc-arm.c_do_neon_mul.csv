@@ -1,0 +1,17 @@
+FAIL,VAR_0
+NEON_CHECK_ARCH,VAR_1
+NEON_CHECK_CC,VAR_2
+NT_poly,VAR_3
+N_F32,VAR_4
+N_I16,VAR_5
+N_I32,VAR_6
+N_I8,VAR_7
+N_P8,VAR_8
+SUCCESS,VAR_9
+do_neon_mac_maybe_scalar,FUNC_0
+do_vfp_nsyn_mul,VAR_10
+inst,VAR_11
+neon_dyadic_misc,FUNC_1
+try_vfp_nsyn,FUNC_2
+vfp_or_neon_is_neon,FUNC_3
+do_neon_mul,FUNC_4

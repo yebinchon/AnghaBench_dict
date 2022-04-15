@@ -1,0 +1,16 @@
+FWCON_NOTIFY_ATTACH,VAR_0
+FWPS_ATTACHED,VAR_1
+be32_to_cpu,FUNC_0
+be32_to_u64,FUNC_1
+dev_name,FUNC_2
+dma_fifo_change_tx_limit,FUNC_3
+fwtty_info,FUNC_4
+min,FUNC_5
+peer_set_state,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+stub1,FUNC_9
+fwserial_virt_plug_complete,FUNC_10
+peer,VAR_2
+params,VAR_3
+port,VAR_4

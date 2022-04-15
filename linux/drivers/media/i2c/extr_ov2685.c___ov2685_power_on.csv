@@ -1,0 +1,15 @@
+OV2685_NUM_SUPPLIES,VAR_0
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_err,FUNC_2
+gpiod_set_value_cansleep,FUNC_3
+ov2685_cal_delay,FUNC_4
+ov2685_write_array,FUNC_5
+regulator_bulk_disable,FUNC_6
+regulator_bulk_enable,FUNC_7
+usleep_range,FUNC_8
+__ov2685_power_on,FUNC_9
+ov2685,VAR_1
+ret,VAR_2
+delay_us,VAR_3
+dev,VAR_4

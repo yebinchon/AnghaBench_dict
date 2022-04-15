@@ -1,0 +1,16 @@
+CMD_802_11_DEEP_SLEEP,VAR_0
+HZ,VAR_1
+LBS_CONNECTED,VAR_2
+auto_deepsleep_timer,VAR_3
+cpu_to_le16,FUNC_0
+from_timer,FUNC_1
+jiffies,VAR_4
+lbs_cmd_async,FUNC_2
+lbs_deb_main,FUNC_3
+memset,FUNC_4
+mod_timer,FUNC_5
+priv,VAR_5
+auto_deepsleep_timer_fn,FUNC_6
+t,VAR_6
+priv,VAR_7
+cmd,VAR_8

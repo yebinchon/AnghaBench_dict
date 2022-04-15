@@ -1,0 +1,10 @@
+ADAU1977_POWER_PWUP,VAR_0
+ADAU1977_REG_POWER,VAR_1
+gpiod_set_value_cansleep,FUNC_0
+regcache_cache_only,FUNC_1
+regcache_mark_dirty,FUNC_2
+regmap_update_bits,FUNC_3
+regulator_disable,FUNC_4
+adau1977_power_disable,FUNC_5
+adau1977,VAR_2
+ret,VAR_3

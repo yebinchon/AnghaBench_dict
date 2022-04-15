@@ -1,0 +1,15 @@
+ADAPTER_STATE_GOING_DOWN,VAR_0
+ADAPTER_STATE_UP,VAR_1
+HZ,VAR_2
+bnx2i_chip_cleanup,FUNC_0
+bnx2i_drop_session,VAR_3
+clear_bit,FUNC_1
+iscsi_host_for_each_session,FUNC_2
+list_empty,FUNC_3
+test_and_set_bit,FUNC_4
+wait_event_interruptible_timeout,FUNC_5
+bnx2i_stop,FUNC_6
+handle,VAR_4
+hba,VAR_5
+conns_active,VAR_6
+wait_delay,VAR_7

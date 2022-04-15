@@ -1,0 +1,8 @@
+ENTER,VAR_0
+IPR_RC_JOB_RETURN,VAR_1
+IPR_WAIT_FOR_BIST_TIMEOUT,VAR_2
+LEAVE,VAR_3
+ipr_reset_bist_done,VAR_4
+ipr_reset_start_timer,FUNC_0
+ipr_reset_slot_reset_done,FUNC_1
+ipr_cmd,VAR_5

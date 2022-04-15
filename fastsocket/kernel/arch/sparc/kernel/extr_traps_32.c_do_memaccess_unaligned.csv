@@ -1,0 +1,16 @@
+BUS_ADRALN,VAR_0
+PSR_PS,VAR_1
+SIGBUS,VAR_2
+UREG_RETPC,VAR_3
+current,VAR_4
+die_if_kernel,FUNC_0
+instruction_dump,FUNC_1
+printk,FUNC_2
+send_sig_info,FUNC_3
+show_regs,FUNC_4
+do_memaccess_unaligned,FUNC_5
+regs,VAR_5
+pc,VAR_6
+npc,VAR_7
+psr,VAR_8
+info,VAR_9

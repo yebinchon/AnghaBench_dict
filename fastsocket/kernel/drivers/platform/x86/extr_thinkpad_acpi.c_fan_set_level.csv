@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+EIO,VAR_1
+ENXIO,VAR_2
+EPERM,VAR_3
+TPACPI_DBG_FAN,VAR_4
+TP_EC_FAN_AUTO,VAR_5
+TP_EC_FAN_FULLSPEED,VAR_6
+acpi_ec_write,FUNC_0
+acpi_evalf,FUNC_1
+fan_control_access_mode,VAR_7
+fan_control_allowed,VAR_8
+fan_status_offset,VAR_9
+sfan_handle,VAR_10
+tp_features,VAR_11
+vdbg_printk,FUNC_2
+fan_set_level,FUNC_3
+level,VAR_12

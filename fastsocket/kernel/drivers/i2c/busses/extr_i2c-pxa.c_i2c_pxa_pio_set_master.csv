@@ -1,0 +1,15 @@
+DEF_TIMEOUT,VAR_0
+I2C_RETRY,VAR_1
+ICR_SCLE,VAR_2
+ISR_IBB,VAR_3
+ISR_UB,VAR_4
+_ICR,FUNC_0
+_ISR,FUNC_1
+dev_err,FUNC_2
+readl,FUNC_3
+show_state,FUNC_4
+udelay,FUNC_5
+writel,FUNC_6
+i2c_pxa_pio_set_master,FUNC_7
+i2c,VAR_5
+timeout,VAR_6

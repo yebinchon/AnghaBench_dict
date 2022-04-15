@@ -1,0 +1,14 @@
+MAC_CHECK_PROBE2,FUNC_0
+MAC_IFNET_LOCK,FUNC_1
+MAC_IFNET_UNLOCK,FUNC_2
+MAC_POLICY_CHECK_NOSLEEP,FUNC_3
+M_ASSERTPKTHDR,FUNC_4
+ifnet_check_transmit,VAR_0
+mac_mbuf_to_label,FUNC_5
+mac_policy_count,VAR_1
+mac_ifnet_check_transmit,FUNC_6
+ifp,VAR_2
+m,VAR_3
+label,VAR_4
+error,VAR_5
+locked,VAR_6

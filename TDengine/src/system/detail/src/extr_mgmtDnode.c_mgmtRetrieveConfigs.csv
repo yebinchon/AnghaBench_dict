@@ -1,0 +1,16 @@
+TSDB_CFG_OPTION_LEN,VAR_0
+TSDB_CFG_VALUE_LEN,VAR_1
+mgmtCheckConfigShow,FUNC_0
+snprintf,FUNC_1
+tsGlobalConfig,VAR_2
+tsGlobalConfigNum,VAR_3
+mgmtRetrieveConfigs,FUNC_2
+pShow,VAR_4
+data,VAR_5
+rows,VAR_6
+pConn,VAR_7
+numOfRows,VAR_8
+i,VAR_9
+cfg,VAR_10
+pWrite,VAR_11
+cols,VAR_12

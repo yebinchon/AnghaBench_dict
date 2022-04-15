@@ -1,0 +1,10 @@
+IRQ_IXP4XX_QM1,VAR_0
+IRQ_IXP4XX_QM2,VAR_1
+IXP4XX_QMGR_BASE_PHYS,VAR_2
+IXP4XX_QMGR_REGION_SIZE,VAR_3
+free_irq,FUNC_0
+iounmap,FUNC_1
+qmgr_regs,VAR_4
+release_mem_region,FUNC_2
+synchronize_irq,FUNC_3
+qmgr_remove,FUNC_4

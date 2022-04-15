@@ -1,0 +1,15 @@
+PageCgroupAcctLRU,FUNC_0
+PageLRU,FUNC_1
+add_page_to_lru_list,FUNC_2
+del_page_from_lru_list,FUNC_3
+lookup_page_cgroup,FUNC_4
+page_lru,FUNC_5
+page_zone,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+mem_cgroup_lru_add_after_commit_swapcache,FUNC_9
+page,VAR_0
+lru,VAR_1
+flags,VAR_2
+zone,VAR_3
+pc,VAR_4

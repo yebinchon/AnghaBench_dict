@@ -1,0 +1,12 @@
+AF_INET,VAR_0
+build_udp_v4_csum,FUNC_0
+build_udp_v6_csum,FUNC_1
+cfg_src_port,VAR_1
+htons,FUNC_2
+build_udp_header,FUNC_3
+header,VAR_2
+payload_len,VAR_3
+dport,VAR_4
+family,VAR_5
+udph,VAR_6
+len,VAR_7

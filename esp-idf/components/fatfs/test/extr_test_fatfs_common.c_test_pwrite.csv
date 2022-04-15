@@ -1,0 +1,17 @@
+O_WRONLY,VAR_0
+SEEK_CUR,VAR_1
+SEEK_END,VAR_2
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_ASSERT_NOT_EQUAL,FUNC_1
+close,FUNC_2
+lseek,FUNC_3
+open,FUNC_4
+pwrite,FUNC_5
+strlen,FUNC_6
+test_pwrite,FUNC_7
+filename,VAR_3
+offset,VAR_4
+msg,VAR_5
+fd,VAR_6
+current_pos,VAR_7
+r,VAR_8

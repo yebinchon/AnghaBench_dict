@@ -1,0 +1,10 @@
+UART_IIR,VAR_0
+UART_IIR_BUSY,VAR_1
+UART_LCR,VAR_2
+readb,FUNC_0
+serial8250_handle_irq,FUNC_1
+writeb,FUNC_2
+msp_serial_handle_irq,FUNC_3
+p,VAR_3
+d,VAR_4
+iir,VAR_5

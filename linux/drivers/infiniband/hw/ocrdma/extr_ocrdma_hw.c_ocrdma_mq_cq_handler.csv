@@ -1,0 +1,14 @@
+OCRDMA_MCQE_AE_MASK,VAR_0
+OCRDMA_MCQE_CMPL_MASK,VAR_1
+memset,FUNC_0
+ocrdma_get_mcqe,FUNC_1
+ocrdma_le32_to_cpu,FUNC_2
+ocrdma_mcq_inc_tail,FUNC_3
+ocrdma_process_acqe,FUNC_4
+ocrdma_process_mcqe,FUNC_5
+ocrdma_ring_cq_db,FUNC_6
+ocrdma_mq_cq_handler,FUNC_7
+dev,VAR_2
+cq_id,VAR_3
+cqe_popped,VAR_4
+cqe,VAR_5

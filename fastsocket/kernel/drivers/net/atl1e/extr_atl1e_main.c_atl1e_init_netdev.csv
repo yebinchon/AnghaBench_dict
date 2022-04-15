@@ -1,0 +1,14 @@
+AT_TX_WATCHDOG,VAR_0
+NETIF_F_HW_CSUM,VAR_1
+NETIF_F_HW_VLAN_RX,VAR_2
+NETIF_F_HW_VLAN_TX,VAR_3
+NETIF_F_LLTX,VAR_4
+NETIF_F_SG,VAR_5
+NETIF_F_TSO,VAR_6
+SET_NETDEV_DEV,FUNC_0
+atl1e_netdev_ops,VAR_7
+atl1e_set_ethtool_ops,FUNC_1
+pci_set_drvdata,FUNC_2
+atl1e_init_netdev,FUNC_3
+netdev,VAR_8
+pdev,VAR_9

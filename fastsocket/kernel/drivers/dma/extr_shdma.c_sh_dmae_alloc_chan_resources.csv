@@ -1,0 +1,15 @@
+DMA_CTRL_ACK,VAR_0
+GFP_KERNEL,VAR_1
+INIT_LIST_HEAD,FUNC_0
+NR_DESCS_PER_CHANNEL,VAR_2
+dma_async_tx_descriptor_init,FUNC_1
+kzalloc,FUNC_2
+sh_dmae_put_desc,FUNC_3
+sh_dmae_tx_submit,VAR_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+to_sh_chan,FUNC_6
+sh_dmae_alloc_chan_resources,FUNC_7
+chan,VAR_4
+sh_chan,VAR_5
+desc,VAR_6

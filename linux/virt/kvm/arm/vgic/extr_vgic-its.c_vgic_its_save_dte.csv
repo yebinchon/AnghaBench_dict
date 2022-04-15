@@ -1,0 +1,15 @@
+KVM_ITS_DTE_ITTADDR_SHIFT,VAR_0
+KVM_ITS_DTE_NEXT_SHIFT,VAR_1
+KVM_ITS_DTE_VALID_SHIFT,VAR_2
+compute_next_devid_offset,FUNC_0
+cpu_to_le64,FUNC_1
+kvm_write_guest_lock,FUNC_2
+vgic_its_save_dte,FUNC_3
+its,VAR_3
+dev,VAR_4
+ptr,VAR_5
+dte_esz,VAR_6
+kvm,VAR_7
+val,VAR_8
+itt_addr_field,VAR_9
+next_offset,VAR_10

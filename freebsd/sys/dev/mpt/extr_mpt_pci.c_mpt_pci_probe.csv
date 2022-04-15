@@ -1,0 +1,11 @@
+BUS_PROBE_DEFAULT,VAR_0
+BUS_PROBE_LOW_PRIORITY,VAR_1
+ENXIO,VAR_2
+MPI_MANUFACTPAGE_VENDORID_LSILOGIC,VAR_3
+device_set_desc,FUNC_0
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+mpt_pci_probe,FUNC_3
+dev,VAR_4
+desc,VAR_5
+rval,VAR_6

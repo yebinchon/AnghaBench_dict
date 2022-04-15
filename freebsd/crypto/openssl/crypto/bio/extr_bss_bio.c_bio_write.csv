@@ -1,0 +1,16 @@
+BIO_F_BIO_WRITE,VAR_0
+BIO_R_BROKEN_PIPE,VAR_1
+BIO_clear_retry_flags,FUNC_0
+BIO_set_retry_write,FUNC_1
+BIOerr,FUNC_2
+assert,FUNC_3
+memcpy,FUNC_4
+bio_write,FUNC_5
+bio,VAR_2
+buf,VAR_3
+num_,VAR_4
+num,VAR_5
+rest,VAR_6
+b,VAR_7
+write_offset,VAR_8
+chunk,VAR_9

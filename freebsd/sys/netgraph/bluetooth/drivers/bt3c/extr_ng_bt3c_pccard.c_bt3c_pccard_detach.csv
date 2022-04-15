@@ -1,0 +1,14 @@
+IF_DRAIN,FUNC_0
+NG_FREE_M,FUNC_1
+NG_NODE_SET_PRIVATE,FUNC_2
+SYS_RES_IOPORT,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_release_resource,FUNC_3
+bus_teardown_intr,FUNC_4
+device_get_softc,FUNC_5
+mtx_destroy,FUNC_6
+ng_rmnode_self,FUNC_7
+swi_remove,FUNC_8
+bt3c_pccard_detach,FUNC_9
+dev,VAR_2
+sc,VAR_3

@@ -1,0 +1,17 @@
+kvm_to_vgic_iodev,FUNC_0
+memset,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+stub3,FUNC_4
+stub4,FUNC_5
+vgic_data_host_to_mmio_bus,FUNC_6
+vgic_get_mmio_region,FUNC_7
+dispatch_mmio_read,FUNC_8
+vcpu,VAR_0
+dev,VAR_1
+addr,VAR_2
+len,VAR_3
+val,VAR_4
+iodev,VAR_5
+region,VAR_6
+data,VAR_7

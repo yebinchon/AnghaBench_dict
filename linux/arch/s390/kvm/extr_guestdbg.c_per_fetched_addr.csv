@@ -1,0 +1,15 @@
+ICPT_PROGI,VAR_0
+__rewind_psw,FUNC_0
+kvm_s390_get_ilen,FUNC_1
+kvm_s390_logical_to_effective,FUNC_2
+read_guest_instr,FUNC_3
+per_fetched_addr,FUNC_4
+vcpu,VAR_1
+addr,VAR_2
+exec_ilen,VAR_3
+opcode,VAR_4
+rc,VAR_5
+rl,VAR_6
+base,VAR_7
+disp,VAR_8
+index,VAR_9

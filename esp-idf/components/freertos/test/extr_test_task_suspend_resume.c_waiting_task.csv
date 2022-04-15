@@ -1,0 +1,12 @@
+duration_wait_task_ms,VAR_0
+esp_timer_get_time,FUNC_0
+portTICK_PERIOD_MS,VAR_1
+printf,FUNC_1
+vTaskDelay,FUNC_2
+vTaskDelete,FUNC_3
+waiting_ms,VAR_2
+xPortGetCoreID,FUNC_4
+waiting_task,FUNC_5
+pvParameters,VAR_3
+cpu_id,VAR_4
+start_time,VAR_5

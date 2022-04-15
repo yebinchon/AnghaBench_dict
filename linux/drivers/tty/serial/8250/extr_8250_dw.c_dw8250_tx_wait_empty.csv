@@ -1,0 +1,9 @@
+UART_LSR,VAR_0
+UART_LSR_TEMT,VAR_1
+readb,FUNC_0
+udelay,FUNC_1
+dw8250_tx_wait_empty,FUNC_2
+p,VAR_2
+tries,VAR_3
+delay_threshold,VAR_4
+lsr,VAR_5

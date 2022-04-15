@@ -1,0 +1,14 @@
+PAGE_SIZE,VAR_0
+flush_dtlb_page_eir,FUNC_0
+flush_dtlb_page_no_eir,FUNC_1
+flush_itlb_page_eir,FUNC_2
+flush_itlb_page_no_eir,FUNC_3
+have_dtlbeir,VAR_1
+have_itlbeir,VAR_2
+local_flush_tlb_range,FUNC_4
+vma,VAR_3
+start,VAR_4
+end,VAR_5
+addr,VAR_6
+dtlbeir,VAR_7
+itlbeir,VAR_8

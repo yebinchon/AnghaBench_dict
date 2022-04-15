@@ -1,0 +1,16 @@
+BUS_DMA_ALLOCNOW,VAR_0
+BUS_DMA_NOWAIT,VAR_1
+BUS_SPACE_MAXADDR,VAR_2
+BUS_SPACE_MAXSIZE_32BIT,VAR_3
+ENOMEM,VAR_4
+MLY_MAX_COMMANDS,VAR_5
+MLY_MAX_SGENTRIES,VAR_6
+bus_dma_tag_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+debug_called,FUNC_3
+mly_printf,FUNC_4
+mly_sg_map_helper,VAR_7
+mly_sg_map,FUNC_5
+sc,VAR_8
+segsize,VAR_9

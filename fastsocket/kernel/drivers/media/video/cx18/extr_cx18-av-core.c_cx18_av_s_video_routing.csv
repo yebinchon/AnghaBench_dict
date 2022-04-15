@@ -1,0 +1,10 @@
+set_input,FUNC_0
+to_cx18_av_state,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+cx18_av_s_video_routing,FUNC_3
+sd,VAR_0
+input,VAR_1
+output,VAR_2
+config,VAR_3
+state,VAR_4
+cx,VAR_5

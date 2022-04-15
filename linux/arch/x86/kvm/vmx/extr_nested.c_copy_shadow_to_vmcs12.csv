@@ -1,0 +1,17 @@
+WARN_ON,FUNC_0
+__vmcs_readl,FUNC_1
+get_vmcs12,FUNC_2
+max_shadow_read_write_fields,VAR_0
+preempt_disable,FUNC_3
+preempt_enable,FUNC_4
+shadow_read_write_fields,VAR_1
+vmcs12_write_any,FUNC_5
+vmcs_clear,FUNC_6
+vmcs_load,FUNC_7
+copy_shadow_to_vmcs12,FUNC_8
+vmx,VAR_2
+shadow_vmcs,VAR_3
+vmcs12,VAR_4
+field,VAR_5
+val,VAR_6
+i,VAR_7

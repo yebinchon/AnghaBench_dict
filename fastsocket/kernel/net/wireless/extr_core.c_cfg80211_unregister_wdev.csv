@@ -1,0 +1,11 @@
+ASSERT_RTNL,FUNC_0
+WARN_ON,FUNC_1
+WARN_ON_ONCE,FUNC_2
+cfg80211_stop_p2p_device,FUNC_3
+list_del_rcu,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+wiphy_to_dev,FUNC_7
+cfg80211_unregister_wdev,FUNC_8
+wdev,VAR_0
+rdev,VAR_1

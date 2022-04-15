@@ -1,0 +1,16 @@
+IPMI_GET_DEVICE_ID_CMD,VAR_0
+IPMI_NETFN_APP_REQUEST,VAR_1
+SSIF_IPMI_MULTI_PART_REQUEST_END,VAR_2
+SSIF_IPMI_MULTI_PART_REQUEST_MIDDLE,VAR_3
+dev_err,FUNC_0
+i2c_smbus_write_block_data,FUNC_1
+memset,FUNC_2
+read_response,FUNC_3
+start_multipart_test,FUNC_4
+test_multipart_messages,FUNC_5
+client,VAR_4
+ssif_info,VAR_5
+resp,VAR_6
+msg,VAR_7
+ret,VAR_8
+do_middle,VAR_9

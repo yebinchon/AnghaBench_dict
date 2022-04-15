@@ -1,0 +1,15 @@
+DP_TP_CTL,FUNC_0
+DP_TP_CTL_FEC_ENABLE,VAR_0
+DP_TP_STATUS,FUNC_1
+DP_TP_STATUS_FEC_ENABLE_LIVE,VAR_1
+DRM_ERROR,FUNC_2
+I915_READ,FUNC_3
+I915_WRITE,FUNC_4
+intel_de_wait_for_set,FUNC_5
+to_i915,FUNC_6
+intel_ddi_enable_fec,FUNC_7
+encoder,VAR_2
+crtc_state,VAR_3
+dev_priv,VAR_4
+port,VAR_5
+val,VAR_6

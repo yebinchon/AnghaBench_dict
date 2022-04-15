@@ -1,0 +1,13 @@
+DPU_DEBUG_PLANE,FUNC_0
+DPU_ERROR,FUNC_1
+DPU_ERROR_PLANE,FUNC_2
+GFP_KERNEL,VAR_0
+__drm_atomic_helper_plane_duplicate_state,FUNC_3
+kmemdup,FUNC_4
+to_dpu_plane,FUNC_5
+to_dpu_plane_state,FUNC_6
+dpu_plane_duplicate_state,FUNC_7
+plane,VAR_1
+pdpu,VAR_2
+pstate,VAR_3
+old_state,VAR_4

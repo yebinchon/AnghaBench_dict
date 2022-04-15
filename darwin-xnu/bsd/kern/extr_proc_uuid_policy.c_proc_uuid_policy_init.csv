@@ -1,0 +1,16 @@
+M_PROC_UUID_POLICY,VAR_0
+PROC_UUID_POLICY_HASH_SIZE,VAR_1
+hashinit,FUNC_0
+lck_attr_alloc_init,FUNC_1
+lck_grp_alloc_init,FUNC_2
+lck_grp_attr_alloc_init,FUNC_3
+lck_mtx_init,FUNC_4
+proc_uuid_policy_count,VAR_2
+proc_uuid_policy_hash_mask,VAR_3
+proc_uuid_policy_hashtbl,VAR_4
+proc_uuid_policy_subsys_lck_attr,VAR_5
+proc_uuid_policy_subsys_lck_grp,VAR_6
+proc_uuid_policy_subsys_lck_grp_attr,VAR_7
+proc_uuid_policy_subsys_mutex,VAR_8
+proc_uuid_policy_table_gencount,VAR_9
+proc_uuid_policy_init,FUNC_5

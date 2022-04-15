@@ -1,0 +1,12 @@
+EINVAL,VAR_0
+EJUSTRETURN,VAR_1
+SIG_SETMASK,VAR_2
+UC_COPY_SIZE,VAR_3
+copyin,FUNC_0
+ia32_set_mcontext,FUNC_1
+kern_sigprocmask,FUNC_2
+freebsd32_setcontext,FUNC_3
+td,VAR_4
+uap,VAR_5
+uc,VAR_6
+ret,VAR_7

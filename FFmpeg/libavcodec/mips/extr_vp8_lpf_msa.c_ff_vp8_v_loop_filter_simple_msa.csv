@@ -1,0 +1,15 @@
+LD_UB4,FUNC_0
+ST_UB2,FUNC_1
+VP8_SIMPLE_FILT,FUNC_2
+VP8_SIMPLE_MASK,FUNC_3
+__msa_fill_b,FUNC_4
+ff_vp8_v_loop_filter_simple_msa,FUNC_5
+src,VAR_0
+pitch,VAR_1
+b_limit_ptr,VAR_2
+p1,VAR_3
+p0,VAR_4
+q1,VAR_5
+q0,VAR_6
+mask,VAR_7
+b_limit,VAR_8

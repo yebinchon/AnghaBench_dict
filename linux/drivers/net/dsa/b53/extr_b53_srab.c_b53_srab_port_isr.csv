@@ -1,0 +1,10 @@
+B53_SRAB_INTR,VAR_0
+BIT,FUNC_0
+IRQ_WAKE_THREAD,VAR_1
+writel,FUNC_1
+b53_srab_port_isr,FUNC_2
+irq,VAR_2
+dev_id,VAR_3
+port,VAR_4
+dev,VAR_5
+priv,VAR_6

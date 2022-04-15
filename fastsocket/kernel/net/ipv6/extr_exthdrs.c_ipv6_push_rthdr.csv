@@ -1,0 +1,12 @@
+NEXTHDR_ROUTING,VAR_0
+ipv6_addr_copy,FUNC_0
+memcpy,FUNC_1
+skb_push,FUNC_2
+ipv6_push_rthdr,FUNC_3
+skb,VAR_1
+proto,VAR_2
+opt,VAR_3
+addr_p,VAR_4
+phdr,VAR_5
+ihdr,VAR_6
+hops,VAR_7

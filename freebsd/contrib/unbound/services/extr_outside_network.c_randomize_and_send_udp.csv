@@ -1,0 +1,15 @@
+addr_is_ip6,FUNC_0
+comm_point_send_udp_msg,FUNC_1
+comm_timer_set,FUNC_2
+comm_udp,VAR_0
+dt_msg_send_outside_query,FUNC_3
+log_assert,FUNC_4
+portcomm_loweruse,FUNC_5
+select_id,FUNC_6
+select_ifport,FUNC_7
+randomize_and_send_udp,FUNC_8
+pend,VAR_1
+packet,VAR_2
+timeout,VAR_3
+tv,VAR_4
+outnet,VAR_5

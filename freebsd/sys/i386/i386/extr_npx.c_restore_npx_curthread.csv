@@ -1,0 +1,17 @@
+PCB_NPXINITDONE,VAR_0
+PCB_NPXUSERINITDONE,VAR_1
+PCB_USER_FPU,FUNC_0
+PCPU_SET,FUNC_1
+__INITIAL_NPXCW__,VAR_2
+bcopy,FUNC_2
+cpu_fxsr,VAR_3
+cpu_max_ext_state_size,VAR_4
+fldcw,FUNC_3
+fpcurthread,VAR_5
+fpu_clean_state,FUNC_4
+fpurstor,FUNC_5
+npx_initialstate,VAR_6
+stop_emulating,FUNC_6
+restore_npx_curthread,FUNC_7
+td,VAR_7
+pcb,VAR_8

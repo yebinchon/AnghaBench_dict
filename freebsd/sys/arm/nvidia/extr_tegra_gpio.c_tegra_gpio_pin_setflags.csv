@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+GPIO_CNF,VAR_1
+GPIO_LOCK,FUNC_0
+GPIO_MSK_CNF,VAR_2
+GPIO_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+gpio_read,FUNC_3
+gpio_write_masked,FUNC_4
+tegra_gpio_pin_configure,FUNC_5
+tegra_gpio_pin_setflags,FUNC_6
+dev,VAR_3
+pin,VAR_4
+flags,VAR_5
+sc,VAR_6
+cnf,VAR_7

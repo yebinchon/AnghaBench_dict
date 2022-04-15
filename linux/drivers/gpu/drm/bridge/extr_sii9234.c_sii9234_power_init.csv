@@ -1,0 +1,9 @@
+HDMI_RX_TMDS_CH_EN_REG,VAR_0
+HDMI_RX_TMDS_CLK_EN_REG,VAR_1
+TPI_DPD_REG,VAR_2
+hdmi_writeb,FUNC_0
+mhl_tx_writeb,FUNC_1
+sii9234_clear_error,FUNC_2
+tpi_writeb,FUNC_3
+sii9234_power_init,FUNC_4
+ctx,VAR_3

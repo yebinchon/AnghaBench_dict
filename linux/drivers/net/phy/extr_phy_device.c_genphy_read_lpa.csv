@@ -1,0 +1,17 @@
+AUTONEG_ENABLE,VAR_0
+CTL1000_ENABLE_MASTER,VAR_1
+ENOLINK,VAR_2
+LPA_1000MSFAIL,VAR_3
+MII_CTRL1000,VAR_4
+MII_LPA,VAR_5
+MII_STAT1000,VAR_6
+linkmode_zero,FUNC_0
+mii_lpa_mod_linkmode_lpa_t,FUNC_1
+mii_stat1000_mod_linkmode_lpa_t,FUNC_2
+phy_read,FUNC_3
+phydev_err,FUNC_4
+genphy_read_lpa,FUNC_5
+phydev,VAR_7
+lpa,VAR_8
+lpagb,VAR_9
+adv,VAR_10

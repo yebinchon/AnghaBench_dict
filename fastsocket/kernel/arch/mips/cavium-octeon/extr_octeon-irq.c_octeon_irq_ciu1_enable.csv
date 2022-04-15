@@ -1,0 +1,14 @@
+CVMX_CIU_INTX_EN1,FUNC_0
+OCTEON_IRQ_WDOG0,VAR_0
+cvmx_get_core_num,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+octeon_irq_ciu1_rwlock,VAR_1
+read_lock_irqsave,FUNC_4
+read_unlock_irqrestore,FUNC_5
+octeon_irq_ciu1_enable,FUNC_6
+irq,VAR_2
+coreid,VAR_3
+flags,VAR_4
+en1,VAR_5
+bit,VAR_6

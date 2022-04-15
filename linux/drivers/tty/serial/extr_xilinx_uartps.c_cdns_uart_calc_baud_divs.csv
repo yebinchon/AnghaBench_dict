@@ -1,0 +1,16 @@
+CDNS_UART_BDIV_MAX,VAR_0
+CDNS_UART_BDIV_MIN,VAR_1
+CDNS_UART_CD_MAX,VAR_2
+DIV_ROUND_CLOSEST,FUNC_0
+cdns_uart_calc_baud_divs,FUNC_1
+clk,VAR_3
+baud,VAR_4
+rbdiv,VAR_5
+rcd,VAR_6
+div8,VAR_7
+cd,VAR_8
+bdiv,VAR_9
+calc_baud,VAR_10
+bestbaud,VAR_11
+bauderror,VAR_12
+besterror,VAR_13

@@ -1,0 +1,17 @@
+EFUSE_CLK_CTRL,VAR_0
+EFUSE_TEST,VAR_1
+SYS_FUNC_EN,VAR_2
+efuse_OneByteRead,FUNC_0
+efuse_one_byte_rw,FUNC_1
+mdelay,FUNC_2
+read_nic_byte,FUNC_3
+write_nic_byte,FUNC_4
+efuse_access,FUNC_5
+dev,VAR_3
+bRead,VAR_4
+start_addr,VAR_5
+cnts,VAR_6
+data,VAR_7
+efuse_clk_ori,VAR_8
+efuse_clk_new,VAR_9
+i,VAR_10

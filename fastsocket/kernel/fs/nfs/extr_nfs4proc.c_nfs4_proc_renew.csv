@@ -1,0 +1,11 @@
+NFSPROC4_CLNT_RENEW,VAR_0
+do_renew_lease,FUNC_0
+jiffies,VAR_1
+nfs4_procedures,VAR_2
+rpc_call_sync,FUNC_1
+nfs4_proc_renew,FUNC_2
+clp,VAR_3
+cred,VAR_4
+msg,VAR_5
+now,VAR_6
+status,VAR_7

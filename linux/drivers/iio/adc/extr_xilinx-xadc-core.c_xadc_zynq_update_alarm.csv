@@ -1,0 +1,12 @@
+XADC_ZYNQ_INT_ALARM_MASK,VAR_0
+XADC_ZYNQ_REG_INTSTS,VAR_1
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+xadc_read_reg,FUNC_2
+xadc_write_reg,FUNC_3
+xadc_zynq_update_intmsk,FUNC_4
+xadc_zynq_update_alarm,FUNC_5
+xadc,VAR_2
+alarm,VAR_3
+flags,VAR_4
+status,VAR_5

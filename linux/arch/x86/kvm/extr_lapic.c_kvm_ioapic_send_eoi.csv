@@ -1,0 +1,13 @@
+APIC_TMR,VAR_0
+IOAPIC_EDGE_TRIG,VAR_1
+IOAPIC_LEVEL_TRIG,VAR_2
+KVM_REQ_IOAPIC_EOI_EXIT,VAR_3
+apic_test_vector,FUNC_0
+irqchip_split,FUNC_1
+kvm_ioapic_handles_vector,FUNC_2
+kvm_ioapic_update_eoi,FUNC_3
+kvm_make_request,FUNC_4
+kvm_ioapic_send_eoi,FUNC_5
+apic,VAR_4
+vector,VAR_5
+trigger_mode,VAR_6

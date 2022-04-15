@@ -1,0 +1,9 @@
+__lpfc_dequeue_nport_iocbs,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+lpfc_sli3_dequeue_nport_iocbs,FUNC_3
+phba,VAR_0
+ndlp,VAR_1
+dequeue_list,VAR_2
+psli,VAR_3
+i,VAR_4

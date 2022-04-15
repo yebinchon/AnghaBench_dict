@@ -1,0 +1,12 @@
+SDHCFG,VAR_0
+SDHCFG_BLOCK_IRPT_EN,VAR_1
+SDHCFG_DATA_IRPT_EN,VAR_2
+SDHSTS,VAR_3
+bcm2835_transfer_complete,FUNC_0
+dev_dbg,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+bcm2835_finish_data,FUNC_4
+host,VAR_4
+dev,VAR_5
+data,VAR_6

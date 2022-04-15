@@ -1,0 +1,10 @@
+PCIB_HOTPLUG,VAR_0
+bus_generic_detach,FUNC_0
+device_delete_children,FUNC_1
+device_get_softc,FUNC_2
+pcib_detach_hotplug,FUNC_3
+pcib_free_secbus,FUNC_4
+pcib_free_windows,FUNC_5
+pcib_detach,FUNC_6
+dev,VAR_1
+error,VAR_2

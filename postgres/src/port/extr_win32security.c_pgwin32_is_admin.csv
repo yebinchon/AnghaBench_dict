@@ -1,0 +1,17 @@
+AllocateAndInitializeSid,FUNC_0
+CheckTokenMembership,FUNC_1
+DOMAIN_ALIAS_RID_ADMINS,VAR_0
+DOMAIN_ALIAS_RID_POWER_USERS,VAR_1
+FreeSid,FUNC_2
+GetLastError,FUNC_3
+SECURITY_BUILTIN_DOMAIN_RID,VAR_2
+SECURITY_NT_AUTHORITY,VAR_3
+_,FUNC_4
+exit,FUNC_5
+log_error,FUNC_6
+pgwin32_is_admin,FUNC_7
+AdministratorsSid,VAR_4
+PowerUsersSid,VAR_5
+NtAuthority,VAR_6
+IsAdministrators,VAR_7
+IsPowerUsers,VAR_8

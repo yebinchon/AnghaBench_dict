@@ -1,0 +1,10 @@
+NVMET_ASYNC_EVENTS,VAR_0
+NVME_SC_ASYNC_LIMIT,VAR_1
+NVME_SC_DNR,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+nvmet_req_complete,FUNC_2
+schedule_work,FUNC_3
+nvmet_execute_async_event,FUNC_4
+req,VAR_3
+ctrl,VAR_4

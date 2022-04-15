@@ -1,0 +1,9 @@
+NV_MCP_SATA_CFG_20,VAR_0
+NV_MCP_SATA_CFG_20_SATA_SPACE_EN,VAR_1
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+to_pci_dev,FUNC_2
+nv_ck804_host_stop,FUNC_3
+host,VAR_2
+pdev,VAR_3
+regval,VAR_4

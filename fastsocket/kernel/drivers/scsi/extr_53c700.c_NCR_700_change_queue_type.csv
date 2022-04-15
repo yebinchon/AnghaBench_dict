@@ -1,0 +1,14 @@
+NCR_700_START_TAG_NEGOTIATION,VAR_0
+NCR_700_set_tag_neg_state,FUNC_0
+scsi_activate_tcq,FUNC_1
+scsi_deactivate_tcq,FUNC_2
+scsi_get_tag_type,FUNC_3
+scsi_set_tag_type,FUNC_4
+scsi_target_quiesce,FUNC_5
+scsi_target_resume,FUNC_6
+sdev_id,FUNC_7
+NCR_700_change_queue_type,FUNC_8
+SDp,VAR_1
+tag_type,VAR_2
+change_tag,VAR_3
+hostdata,VAR_4

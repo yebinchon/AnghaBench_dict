@@ -1,0 +1,13 @@
+ACPI_NOTIFY_EJECT_REQUEST,VAR_0
+EINVAL,VAR_1
+acpi_scan_lock_acquire,FUNC_0
+acpi_scan_lock_release,FUNC_1
+begin_undock,FUNC_2
+handle_eject_request,FUNC_3
+write_undock,FUNC_4
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+count,VAR_5
+ret,VAR_6
+dock_station,VAR_7

@@ -1,0 +1,10 @@
+HostCmd_CMD_STA_CONFIGURE,VAR_0
+S_DS_GEN,VAR_1
+TLV_TYPE_CHANNELBANDLIST,VAR_2
+cpu_to_le16,FUNC_0
+memset,FUNC_1
+mwifiex_cmd_get_chan_info,FUNC_2
+cmd,VAR_3
+cmd_action,VAR_4
+sta_cfg_cmd,VAR_5
+tlv_band_channel,VAR_6

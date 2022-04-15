@@ -1,0 +1,17 @@
+GL_EXTCALL,FUNC_0
+GL_FALSE,VAR_0
+checkGLcall,FUNC_1
+glTexStorage2D,FUNC_2
+glTexStorage2DMultisample,FUNC_3
+glTexStorage3D,FUNC_4
+glTexStorage3DMultisample,FUNC_5
+wined3d_texture_get_gl_sample_count,FUNC_6
+wined3d_texture_get_level_pow2_height,FUNC_7
+wined3d_texture_get_level_pow2_width,FUNC_8
+wined3d_texture_allocate_gl_immutable_storage,FUNC_9
+texture,VAR_1
+gl_internal_format,VAR_2
+gl_info,VAR_3
+samples,VAR_4
+height,VAR_5
+width,VAR_6

@@ -1,0 +1,14 @@
+__udelay_disabled,FUNC_0
+__udelay_enabled,FUNC_1
+_local_bh_enable,FUNC_2
+in_irq,FUNC_3
+in_softirq,FUNC_4
+local_bh_disable,FUNC_5
+local_irq_restore,FUNC_6
+local_irq_save,FUNC_7
+preempt_disable,FUNC_8
+preempt_enable,FUNC_9
+raw_irqs_disabled_flags,FUNC_10
+__udelay,FUNC_11
+usecs,VAR_0
+flags,VAR_1

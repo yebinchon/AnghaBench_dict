@@ -1,0 +1,14 @@
+BANDLIM_RST_OPENPORT,VAR_0
+SEQ_GT,FUNC_0
+TCPS_SYN_RECEIVED,VAR_1
+TF_ACKNOW,VAR_2
+TH_ACK,VAR_3
+ctf_do_dropwithreset,FUNC_1
+m_freem,FUNC_2
+ctf_do_dropafterack,FUNC_3
+m,VAR_4
+tp,VAR_5
+th,VAR_6
+thflags,VAR_7
+tlen,VAR_8
+ret_val,VAR_9

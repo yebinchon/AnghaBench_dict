@@ -1,0 +1,12 @@
+intel_display_power_get_if_enabled,FUNC_0
+intel_display_power_put,FUNC_1
+intel_lvds_port_enabled,FUNC_2
+to_i915,FUNC_3
+to_lvds_encoder,FUNC_4
+intel_lvds_get_hw_state,FUNC_5
+encoder,VAR_0
+pipe,VAR_1
+dev_priv,VAR_2
+lvds_encoder,VAR_3
+wakeref,VAR_4
+ret,VAR_5

@@ -1,0 +1,16 @@
+SS_ILLEGAL_REQUEST,VAR_0
+SS_SUCCESS,VAR_1
+USB_STOR_TRANSPORT_FAILED,VAR_2
+USB_STOR_TRANSPORT_GOOD,VAR_3
+do_scsi_inquiry,FUNC_0
+do_scsi_request_sense,FUNC_1
+ms_scsi_mode_sense,FUNC_2
+ms_scsi_read,FUNC_3
+ms_scsi_read_capacity,FUNC_4
+ms_scsi_test_unit_ready,FUNC_5
+ms_scsi_write,FUNC_6
+ms_scsi_irp,FUNC_7
+us,VAR_4
+srb,VAR_5
+result,VAR_6
+info,VAR_7

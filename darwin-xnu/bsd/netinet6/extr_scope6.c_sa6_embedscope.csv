@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+IN6_IS_ADDR_MC_INTFACELOCAL,FUNC_0
+IN6_IS_SCOPE_LINKLOCAL,FUNC_1
+htons,FUNC_2
+if_index,VAR_1
+ifindex2ifnet,VAR_2
+ifnet_head_done,FUNC_3
+ifnet_head_lock_shared,FUNC_4
+scope6_addr2default,FUNC_5
+sa6_embedscope,FUNC_6
+sin6,VAR_3
+defaultok,VAR_4
+ifp,VAR_5
+zoneid,VAR_6

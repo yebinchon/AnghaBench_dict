@@ -1,0 +1,14 @@
+EMU8000_SMALW_WRITE,FUNC_0
+EMU8000_SMLD_WRITE,FUNC_1
+LOOP_BLANK_SIZE,VAR_0
+calc_rate_offset,FUNC_2
+emu8k_open_dram_for_pcm,FUNC_3
+setup_voice,FUNC_4
+snd_emu8000_write_wait,FUNC_5
+snd_emux_terminate_all,FUNC_6
+emu8k_pcm_prepare,FUNC_7
+subs,VAR_1
+rec,VAR_2
+err,VAR_3
+i,VAR_4
+ch,VAR_5

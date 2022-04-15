@@ -1,0 +1,13 @@
+MP_ADD_PTS,FUNC_0
+SEEK_FACTOR,VAR_0
+assert,FUNC_1
+pthread_cond_signal,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+queue_seek,FUNC_5
+demux_seek,FUNC_6
+demuxer,VAR_1
+seek_pts,VAR_2
+flags,VAR_3
+in,VAR_4
+res,VAR_5

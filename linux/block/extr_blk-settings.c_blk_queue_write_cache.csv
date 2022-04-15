@@ -1,0 +1,10 @@
+QUEUE_FLAG_FUA,VAR_0
+QUEUE_FLAG_WC,VAR_1
+blk_queue_flag_clear,FUNC_0
+blk_queue_flag_set,FUNC_1
+test_bit,FUNC_2
+wbt_set_write_cache,FUNC_3
+blk_queue_write_cache,FUNC_4
+q,VAR_2
+wc,VAR_3
+fua,VAR_4

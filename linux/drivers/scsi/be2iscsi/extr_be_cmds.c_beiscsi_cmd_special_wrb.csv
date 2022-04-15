@@ -1,0 +1,17 @@
+BEISCSI_LOG_INIT,VAR_0
+KERN_INFO,VAR_1
+be_dws_cpu_to_le,FUNC_0
+be_mbox_notify,FUNC_1
+beiscsi_log,FUNC_2
+memset,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pci_get_drvdata,FUNC_6
+wrb_from_mbox,FUNC_7
+beiscsi_cmd_special_wrb,FUNC_8
+ctrl,VAR_2
+load,VAR_3
+wrb,VAR_4
+phba,VAR_5
+endian_check,VAR_6
+status,VAR_7

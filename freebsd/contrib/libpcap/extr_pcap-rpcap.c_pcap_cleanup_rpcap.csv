@@ -1,0 +1,16 @@
+RPCAP_MSG_CLOSE,VAR_0
+RPCAP_MSG_ENDCAP_REQ,VAR_1
+activeHosts,VAR_2
+free,FUNC_0
+rpcap_createhdr,FUNC_1
+rpcap_discard,FUNC_2
+rpcap_process_msg_header,FUNC_3
+sock_cleanup,FUNC_4
+sock_close,FUNC_5
+sock_send,FUNC_6
+pcap_cleanup_rpcap,FUNC_7
+fp,VAR_3
+pr,VAR_4
+header,VAR_5
+temp,VAR_6
+active,VAR_7

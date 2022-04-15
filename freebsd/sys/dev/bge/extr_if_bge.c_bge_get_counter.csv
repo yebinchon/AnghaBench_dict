@@ -1,0 +1,8 @@
+BGE_IS_5705_PLUS,FUNC_0
+if_get_counter_default,FUNC_1
+if_getsoftc,FUNC_2
+bge_get_counter,FUNC_3
+ifp,VAR_0
+cnt,VAR_1
+sc,VAR_2
+stats,VAR_3

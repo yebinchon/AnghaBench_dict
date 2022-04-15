@@ -1,0 +1,13 @@
+IS_ERR,FUNC_0
+XTFPGA_I2S_CONFIG,VAR_0
+XTFPGA_I2S_INT_MASK,VAR_1
+XTFPGA_I2S_INT_STATUS,VAR_2
+XTFPGA_I2S_INT_VALID,VAR_3
+dev_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_status_suspended,FUNC_3
+regmap_write,FUNC_4
+xtfpga_i2s_runtime_suspend,FUNC_5
+xtfpga_i2s_remove,FUNC_6
+pdev,VAR_4
+i2s,VAR_5

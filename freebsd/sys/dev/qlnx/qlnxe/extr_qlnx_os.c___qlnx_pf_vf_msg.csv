@@ -1,0 +1,11 @@
+ECORE_SUCCESS,VAR_0
+QLNX_SRIOV_TASK_FLAGS_VF_PF_MSG,VAR_1
+QL_DPRINT2,FUNC_0
+atomic_testandset_32,FUNC_1
+qlnx_find_hwfn_index,FUNC_2
+taskqueue_enqueue,FUNC_3
+__qlnx_pf_vf_msg,FUNC_4
+p_hwfn,VAR_2
+rel_vf_id,VAR_3
+ha,VAR_4
+i,VAR_5

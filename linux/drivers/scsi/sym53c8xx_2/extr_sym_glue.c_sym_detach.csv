@@ -1,0 +1,16 @@
+INB,FUNC_0
+OUTB,FUNC_1
+SRST,VAR_0
+del_timer_sync,FUNC_2
+nc_istat,VAR_1
+nc_mbox1,VAR_2
+printk,FUNC_3
+scsi_host_put,FUNC_4
+sym_free_resources,FUNC_5
+sym_get_hcb,FUNC_6
+sym_name,FUNC_7
+udelay,FUNC_8
+sym_detach,FUNC_9
+shost,VAR_3
+pdev,VAR_4
+np,VAR_5

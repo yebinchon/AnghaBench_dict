@@ -1,0 +1,15 @@
+NET_RX_DROP,VAR_0
+RIONET_MAILBOX,VAR_1
+RIONET_RX_RING_SIZE,VAR_2
+RIO_MAX_MSG_SIZE,VAR_3
+eth_type_trans,FUNC_0
+netdev_priv,FUNC_1
+netif_rx,FUNC_2
+rio_get_inb_message,FUNC_3
+skb_put,FUNC_4
+rionet_rx_clean,FUNC_5
+ndev,VAR_4
+i,VAR_5
+error,VAR_6
+rnet,VAR_7
+data,VAR_8

@@ -1,0 +1,14 @@
+FCOMMENT,VAR_0
+FEXTRA,VAR_1
+FHCRC,VAR_2
+FNAME,VAR_3
+TINF_CHKSUM_CRC,VAR_4
+TINF_DATA_ERROR,VAR_5
+TINF_OK,VAR_6
+tinf_get_uint16,FUNC_0
+tinf_skip_bytes,FUNC_1
+uzlib_get_byte,FUNC_2
+uzlib_gzip_parse_header,FUNC_3
+d,VAR_7
+flg,VAR_8
+xlen,VAR_9

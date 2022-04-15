@@ -1,0 +1,10 @@
+ACPI_DEVICE_NOTIFY,VAR_0
+AcpiRemoveNotifyHandler,FUNC_0
+EVENTHANDLER_DEREGISTER,FUNC_1
+acpi_panasonic_notify,VAR_1
+device_get_softc,FUNC_2
+power_profile_change,VAR_2
+sysctl_ctx_free,FUNC_3
+acpi_panasonic_detach,FUNC_4
+dev,VAR_3
+sc,VAR_4

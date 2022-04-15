@@ -1,0 +1,12 @@
+BMCR_ANENABLE,VAR_0
+BMCR_ISOLATE,VAR_1
+BMCR_RESET,VAR_2
+MII_BMCR,VAR_3
+PHY_INTERFACE_MODE_SGMII,VAR_4
+gpcs_phy_read,FUNC_0
+gpcs_phy_write,FUNC_1
+udelay,FUNC_2
+emac_mii_reset_gpcs,FUNC_3
+phy,VAR_5
+val,VAR_6
+limit,VAR_7

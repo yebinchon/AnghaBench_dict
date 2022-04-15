@@ -1,0 +1,14 @@
+SCSI_LOG_ERROR_RECOVERY,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+TASK_RUNNING,VAR_1
+__set_current_state,FUNC_1
+kthread_should_stop,FUNC_2
+printk,FUNC_3
+schedule,FUNC_4
+scsi_restart_operations,FUNC_5
+scsi_unjam_host,FUNC_6
+set_current_state,FUNC_7
+stub1,FUNC_8
+scsi_error_handler,FUNC_9
+data,VAR_2
+shost,VAR_3

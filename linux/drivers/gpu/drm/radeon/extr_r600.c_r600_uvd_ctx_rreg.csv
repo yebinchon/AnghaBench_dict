@@ -1,0 +1,11 @@
+R600_UVD_CTX_DATA,VAR_0
+R600_UVD_CTX_INDEX,VAR_1
+RREG32,FUNC_0
+WREG32,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+r600_uvd_ctx_rreg,FUNC_4
+rdev,VAR_2
+reg,VAR_3
+flags,VAR_4
+r,VAR_5

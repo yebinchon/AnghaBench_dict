@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+RES_ISP,VAR_1
+RES_JPEG,VAR_2
+V4L2_SUBDEV_FORMAT_TRY,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+s5c73m3_try_format,FUNC_2
+sensor_sd_to_s5c73m3,FUNC_3
+v4l2_subdev_get_try_format,FUNC_4
+s5c73m3_set_fmt,FUNC_5
+sd,VAR_4
+cfg,VAR_5
+fmt,VAR_6
+frame_size,VAR_7
+state,VAR_8
+mf,VAR_9
+ret,VAR_10

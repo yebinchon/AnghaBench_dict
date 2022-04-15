@@ -1,0 +1,16 @@
+SVN_ERR_RA_DAV_PROPPATCH_FAILED,VAR_0
+SVN_ERR_RA_DAV_REQUEST_FAILED,VAR_1
+create_proppatch_body,VAR_2
+setup_proppatch_headers,VAR_3
+svn_error_trace,FUNC_0
+svn_ra_serf__context_run_one,FUNC_1
+svn_ra_serf__create_handler,FUNC_2
+svn_ra_serf__handle_multistatus_only,VAR_4
+svn_ra_serf__unexpected_status,FUNC_3
+proppatch_resource,FUNC_4
+session,VAR_5
+proppatch,VAR_6
+pool,VAR_7
+handler,VAR_8
+err,VAR_9
+e,VAR_10

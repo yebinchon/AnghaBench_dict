@@ -1,0 +1,12 @@
+IRQF_SHARED,VAR_0
+OCTEON_FEATURE_PCIE,VAR_1
+OCTEON_IRQ_PCI_MSI0,VAR_2
+OCTEON_IRQ_PCI_MSI1,VAR_3
+OCTEON_IRQ_PCI_MSI2,VAR_4
+OCTEON_IRQ_PCI_MSI3,VAR_5
+octeon_has_feature,FUNC_0
+octeon_is_pci_host,FUNC_1
+octeon_msi_interrupt,VAR_6
+panic,FUNC_2
+request_irq,FUNC_3
+octeon_msi_initialize,FUNC_4

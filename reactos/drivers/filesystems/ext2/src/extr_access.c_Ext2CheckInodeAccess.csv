@@ -1,0 +1,16 @@
+Ext2FileCanExecute,VAR_0
+Ext2FileCanRead,VAR_1
+Ext2FileCanWrite,VAR_2
+Ext2IsGroupReadOnly,FUNC_0
+Ext2IsGroupWritable,FUNC_1
+Ext2IsOtherReadOnly,FUNC_2
+Ext2IsOtherWritable,FUNC_3
+IsFlagOn,FUNC_4
+VCB_USER_EIDS,VAR_3
+Ext2CheckInodeAccess,FUNC_5
+Vcb,VAR_4
+in,VAR_5
+attempt,VAR_6
+granted,VAR_7
+uid,VAR_8
+gid,VAR_9

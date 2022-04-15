@@ -1,0 +1,17 @@
+DEBOUNCE_TIME,VAR_0
+IRQ_HANDLED,VAR_1
+SNVS_LPSR_REG,VAR_2
+SNVS_LPSR_SPO,VAR_3
+jiffies,VAR_4
+mod_timer,FUNC_0
+msecs_to_jiffies,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_wakeup_event,FUNC_3
+regmap_read,FUNC_4
+regmap_write,FUNC_5
+imx_snvs_pwrkey_interrupt,FUNC_6
+irq,VAR_5
+dev_id,VAR_6
+pdev,VAR_7
+pdata,VAR_8
+lp_status,VAR_9

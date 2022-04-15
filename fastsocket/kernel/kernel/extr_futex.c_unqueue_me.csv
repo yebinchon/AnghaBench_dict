@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+WARN_ON,FUNC_1
+barrier,FUNC_2
+drop_futex_key_refs,FUNC_3
+plist_del,FUNC_4
+plist_node_empty,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+unlikely,FUNC_8
+unqueue_me,FUNC_9
+q,VAR_0
+lock_ptr,VAR_1
+ret,VAR_2

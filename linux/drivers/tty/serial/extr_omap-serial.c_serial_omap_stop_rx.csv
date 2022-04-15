@@ -1,0 +1,12 @@
+UART_IER,VAR_0
+UART_IER_RDI,VAR_1
+UART_IER_RLSI,VAR_2
+UART_LSR_DR,VAR_3
+pm_runtime_get_sync,FUNC_0
+pm_runtime_mark_last_busy,FUNC_1
+pm_runtime_put_autosuspend,FUNC_2
+serial_out,FUNC_3
+to_uart_omap_port,FUNC_4
+serial_omap_stop_rx,FUNC_5
+port,VAR_4
+up,VAR_5

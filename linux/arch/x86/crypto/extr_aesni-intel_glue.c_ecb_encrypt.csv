@@ -1,0 +1,17 @@
+AES_BLOCK_MASK,VAR_0
+AES_BLOCK_SIZE,VAR_1
+aes_ctx,FUNC_0
+aesni_ecb_enc,FUNC_1
+crypto_skcipher_ctx,FUNC_2
+crypto_skcipher_reqtfm,FUNC_3
+kernel_fpu_begin,FUNC_4
+kernel_fpu_end,FUNC_5
+skcipher_walk_done,FUNC_6
+skcipher_walk_virt,FUNC_7
+ecb_encrypt,FUNC_8
+req,VAR_2
+tfm,VAR_3
+ctx,VAR_4
+walk,VAR_5
+nbytes,VAR_6
+err,VAR_7

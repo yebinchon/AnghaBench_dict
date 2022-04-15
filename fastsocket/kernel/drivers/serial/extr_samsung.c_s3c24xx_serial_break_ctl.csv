@@ -1,0 +1,11 @@
+S3C2410_UCON,VAR_0
+S3C2410_UCON_SBREAK,VAR_1
+rd_regl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+wr_regl,FUNC_3
+s3c24xx_serial_break_ctl,FUNC_4
+port,VAR_2
+break_state,VAR_3
+flags,VAR_4
+ucon,VAR_5

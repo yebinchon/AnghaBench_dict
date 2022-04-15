@@ -1,0 +1,8 @@
+VPP_COLOR_MNG_ENABLE,VAR_0
+VPP_MISC,VAR_1
+VPP_VD1_POSTBLEND,VAR_2
+VPP_VD1_PREBLEND,VAR_3
+_REG,FUNC_0
+writel_bits_relaxed,FUNC_1
+meson_crtc_enable_vd1,FUNC_2
+priv,VAR_4

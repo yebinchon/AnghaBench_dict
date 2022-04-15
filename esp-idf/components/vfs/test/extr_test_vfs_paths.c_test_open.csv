@@ -1,0 +1,16 @@
+O_CREAT,VAR_0
+O_RDWR,VAR_1
+O_TRUNC,VAR_2
+UNITY_TEST_ASSERT,FUNC_0
+UNITY_TEST_ASSERT_EQUAL_INT,FUNC_1
+__getreent,FUNC_2
+esp_vfs_close,FUNC_3
+esp_vfs_open,FUNC_4
+test_open,FUNC_5
+instance,VAR_3
+path,VAR_4
+should_be_called,VAR_5
+should_be_opened,VAR_6
+line,VAR_7
+flags,VAR_8
+fd,VAR_9

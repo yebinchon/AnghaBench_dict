@@ -1,0 +1,16 @@
+CHECK,FUNC_0
+SECP256K1_SCALAR_CONST,FUNC_1
+ge_equals_ge,FUNC_2
+random_group_element_test,FUNC_3
+secp256k1_ecmult_const,FUNC_4
+secp256k1_ge_is_infinity,FUNC_5
+secp256k1_ge_set_gej,FUNC_6
+secp256k1_gej_neg,FUNC_7
+secp256k1_scalar_negate,FUNC_8
+ecmult_const_mult_zero_one,FUNC_9
+zero,VAR_0
+one,VAR_1
+negone,VAR_2
+res1,VAR_3
+res2,VAR_4
+point,VAR_5

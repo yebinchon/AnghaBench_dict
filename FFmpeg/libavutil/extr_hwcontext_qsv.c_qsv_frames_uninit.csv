@@ -1,0 +1,9 @@
+MFXClose,FUNC_0
+MFXVideoVPP_Close,FUNC_1
+av_buffer_unref,FUNC_2
+av_freep,FUNC_3
+pthread_cond_destroy,FUNC_4
+pthread_mutex_destroy,FUNC_5
+qsv_frames_uninit,FUNC_6
+ctx,VAR_0
+s,VAR_1

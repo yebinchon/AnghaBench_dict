@@ -1,0 +1,13 @@
+lru_add_drain,FUNC_0
+tlb_finish_mmu,FUNC_1
+unmap_vmas,FUNC_2
+update_hiwater_rss,FUNC_3
+zap_page_range,FUNC_4
+vma,VAR_0
+address,VAR_1
+size,VAR_2
+details,VAR_3
+mm,VAR_4
+tlb,VAR_5
+end,VAR_6
+nr_accounted,VAR_7

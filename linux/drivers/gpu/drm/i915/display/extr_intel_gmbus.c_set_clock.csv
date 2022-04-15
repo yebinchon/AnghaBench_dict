@@ -1,0 +1,14 @@
+GPIO_CLOCK_DIR_IN,VAR_0
+GPIO_CLOCK_DIR_MASK,VAR_1
+GPIO_CLOCK_DIR_OUT,VAR_2
+GPIO_CLOCK_VAL_MASK,VAR_3
+get_reserved,FUNC_0
+intel_uncore_posting_read,FUNC_1
+intel_uncore_write_notrace,FUNC_2
+set_clock,FUNC_3
+data,VAR_4
+state_high,VAR_5
+bus,VAR_6
+uncore,VAR_7
+reserved,VAR_8
+clock_bits,VAR_9

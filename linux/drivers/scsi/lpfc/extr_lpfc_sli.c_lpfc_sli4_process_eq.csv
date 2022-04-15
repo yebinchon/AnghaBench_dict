@@ -1,0 +1,14 @@
+LPFC_QUEUE_NOARM,VAR_0
+LPFC_QUEUE_REARM,VAR_1
+__lpfc_sli4_consume_eqe,FUNC_0
+cmpxchg,FUNC_1
+lpfc_sli4_eq_get,FUNC_2
+lpfc_sli4_hba_handle_eqe,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+lpfc_sli4_process_eq,FUNC_6
+phba,VAR_2
+eq,VAR_3
+eqe,VAR_4
+count,VAR_5
+consumed,VAR_6

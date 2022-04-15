@@ -1,0 +1,16 @@
+CVMX_RTC_DS1337_ADDR,VAR_0
+bin2bcd,FUNC_0
+clock_ts_to_ct,FUNC_1
+cvmx_dprintf,FUNC_2
+cvmx_twsi_read8,FUNC_3
+cvmx_twsi_write8,FUNC_4
+validate_ct_struct,FUNC_5
+cvmx_rtc_ds1337_write,FUNC_6
+time,VAR_1
+ct,VAR_2
+ts,VAR_3
+i,VAR_4
+rc,VAR_5
+retry,VAR_6
+reg,VAR_7
+sec,VAR_8

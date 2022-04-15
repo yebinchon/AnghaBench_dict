@@ -1,0 +1,14 @@
+Assert,FUNC_0
+CONNECTION_OK,VAR_0
+FinishConnectionIO,FUNC_1
+MAX_PUT_COPY_DATA_BUFFER_SIZE,VAR_1
+PQisnonblocking,FUNC_2
+PQputCopyData,FUNC_3
+PQstatus,FUNC_4
+PutRemoteCopyData,FUNC_5
+connection,VAR_2
+buffer,VAR_3
+nbytes,VAR_4
+pgConn,VAR_5
+copyState,VAR_6
+allowInterrupts,VAR_7

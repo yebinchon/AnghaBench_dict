@@ -1,0 +1,16 @@
+G_RAID_DEBUG1,FUNC_0
+G_RAID_SUBDISK_S_ACTIVE,VAR_0
+G_RAID_SUBDISK_S_FAILED,VAR_1
+G_RAID_SUBDISK_S_NONE,VAR_2
+g_raid_change_subdisk_state,FUNC_1
+g_raid_subdisk_state2str,FUNC_2
+g_raid_tr_update_state_concat,FUNC_3
+g_raid_write_metadata,FUNC_4
+g_raid_tr_event_concat,FUNC_5
+tr,VAR_3
+sd,VAR_4
+event,VAR_5
+trs,VAR_6
+sc,VAR_7
+vol,VAR_8
+state,VAR_9

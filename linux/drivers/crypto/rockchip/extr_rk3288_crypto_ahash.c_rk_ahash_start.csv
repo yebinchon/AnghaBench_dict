@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+RK_CRYPTO_HASH_MD5,VAR_1
+RK_CRYPTO_HASH_SHA1,VAR_2
+RK_CRYPTO_HASH_SHA256,VAR_3
+ahash_request_cast,FUNC_0
+ahash_request_ctx,FUNC_1
+crypto_ahash_digestsize,FUNC_2
+crypto_ahash_reqtfm,FUNC_3
+rk_ahash_reg_init,FUNC_4
+rk_ahash_set_data_start,FUNC_5
+sg_nents,FUNC_6
+rk_ahash_start,FUNC_7
+dev,VAR_4
+req,VAR_5
+tfm,VAR_6
+rctx,VAR_7

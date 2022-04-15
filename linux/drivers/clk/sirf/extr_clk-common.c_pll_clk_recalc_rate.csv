@@ -1,0 +1,17 @@
+BIT,FUNC_0
+MHZ,VAR_0
+SIRFSOC_CLKC_PLL1_CFG0,VAR_1
+SIRFSOC_CLKC_PLL1_CFG2,VAR_2
+WARN_ON,FUNC_1
+clkc_readl,FUNC_2
+to_pllclk,FUNC_3
+pll_clk_recalc_rate,FUNC_4
+hw,VAR_3
+parent_rate,VAR_4
+fin,VAR_5
+clk,VAR_6
+regcfg2,VAR_7
+cfg0,VAR_8
+nf,VAR_9
+nr,VAR_10
+od,VAR_11

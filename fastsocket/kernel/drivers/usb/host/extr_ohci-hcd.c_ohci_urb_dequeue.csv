@@ -1,0 +1,17 @@
+ED_OPER,VAR_0
+HC_IS_RUNNING,FUNC_0
+finish_urb,FUNC_1
+hcd_to_ohci,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+start_ed_unlink,FUNC_5
+urb_print,FUNC_6
+usb_hcd_check_unlink_urb,FUNC_7
+ohci_urb_dequeue,FUNC_8
+hcd,VAR_1
+urb,VAR_2
+status,VAR_3
+ohci,VAR_4
+flags,VAR_5
+rc,VAR_6
+urb_priv,VAR_7

@@ -1,0 +1,15 @@
+CCAR,VAR_0
+DATAREG,VAR_1
+LSBONLY,VAR_2
+SERIAL_XMIT_SIZE,VAR_3
+TCmd_SelectTicrTxFifostatus,VAR_4
+TDR,VAR_5
+TICR,VAR_6
+inw,FUNC_0
+outw,FUNC_1
+usc_InReg,FUNC_2
+usc_TCmd,FUNC_3
+usc_load_txfifo,FUNC_4
+info,VAR_7
+Fifocount,VAR_8
+TwoBytes,VAR_9

@@ -1,0 +1,14 @@
+ASSERT_RTNL,FUNC_0
+IEEE80211_HW_WANT_MONITOR_VIF,VAR_0
+drv_remove_interface,FUNC_1
+ieee80211_vif_release_channel,FUNC_2
+kfree,FUNC_3
+lockdep_is_held,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+rcu_assign_pointer,FUNC_7
+rcu_dereference_protected,FUNC_8
+synchronize_net,FUNC_9
+ieee80211_del_virtual_monitor,FUNC_10
+local,VAR_1
+sdata,VAR_2

@@ -1,0 +1,15 @@
+EQ_ARMED,VAR_0
+EQ_CONS_IDX_REG_ADDR,FUNC_0
+HINIC_EQ_CI_CLEAR,FUNC_1
+HINIC_EQ_CI_SET,FUNC_2
+IDX,VAR_1
+INT_ARMED,VAR_2
+WRAPPED,VAR_3
+XOR_CHKSUM,VAR_4
+eq_cons_idx_checksum_set,FUNC_3
+hinic_hwif_read_reg,FUNC_4
+hinic_hwif_write_reg,FUNC_5
+eq_update_ci,FUNC_6
+eq,VAR_5
+val,VAR_6
+addr,VAR_7

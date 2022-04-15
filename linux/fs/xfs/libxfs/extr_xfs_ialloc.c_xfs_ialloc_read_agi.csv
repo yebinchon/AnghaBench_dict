@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+XFS_BUF_TO_AGI,FUNC_1
+XFS_FORCED_SHUTDOWN,FUNC_2
+be32_to_cpu,FUNC_3
+trace_xfs_ialloc_read_agi,FUNC_4
+xfs_perag_get,FUNC_5
+xfs_perag_put,FUNC_6
+xfs_read_agi,FUNC_7
+xfs_ialloc_read_agi,FUNC_8
+mp,VAR_0
+tp,VAR_1
+agno,VAR_2
+bpp,VAR_3
+agi,VAR_4
+pag,VAR_5
+error,VAR_6

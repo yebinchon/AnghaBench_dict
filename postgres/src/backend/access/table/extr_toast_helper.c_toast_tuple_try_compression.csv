@@ -1,0 +1,14 @@
+DatumGetPointer,FUNC_0
+TOASTCOL_INCOMPRESSIBLE,VAR_0
+TOASTCOL_NEEDS_FREE,VAR_1
+TOAST_NEEDS_CHANGE,VAR_2
+TOAST_NEEDS_FREE,VAR_3
+VARSIZE,FUNC_1
+pfree,FUNC_2
+toast_compress_datum,FUNC_3
+toast_tuple_try_compression,FUNC_4
+ttc,VAR_4
+attribute,VAR_5
+value,VAR_6
+new_value,VAR_7
+attr,VAR_8

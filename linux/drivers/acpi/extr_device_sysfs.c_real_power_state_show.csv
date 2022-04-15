@@ -1,0 +1,11 @@
+acpi_device_get_power,FUNC_0
+acpi_power_state_string,FUNC_1
+sprintf,FUNC_2
+to_acpi_device,FUNC_3
+real_power_state_show,FUNC_4
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+adev,VAR_3
+state,VAR_4
+ret,VAR_5

@@ -1,0 +1,15 @@
+CVMX_AGL_GMX_RXX_ADR_CAM_EN,FUNC_0
+CVMX_AGL_GMX_RXX_ADR_CTL,FUNC_1
+CVMX_IFF_ALLMULTI,VAR_0
+CVMX_IFF_PROMISC,VAR_1
+__cvmx_mgmt_port_num_ports,FUNC_2
+cvmx_mgmt_port_state_ptr,VAR_2
+cvmx_read_csr,FUNC_3
+cvmx_spinlock_lock,FUNC_4
+cvmx_spinlock_unlock,FUNC_5
+cvmx_write_csr,FUNC_6
+cvmx_mgmt_port_set_multicast_list,FUNC_7
+port,VAR_3
+flags,VAR_4
+state,VAR_5
+agl_gmx_rxx_adr_ctl,VAR_6

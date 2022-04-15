@@ -1,0 +1,15 @@
+KS8695_CLOCK_RATE,VAR_0
+KS8695_T0TC,VAR_1
+KS8695_TMCON,VAR_2
+KS8695_TMR_VA,VAR_3
+T0TC_WATCHDOG,VAR_4
+TMCON_T0EN,VAR_5
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+ks8695_lock,VAR_6
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+wdt_time,VAR_7
+ks8695_wdt_start,FUNC_4
+tmcon,VAR_8
+tval,VAR_9

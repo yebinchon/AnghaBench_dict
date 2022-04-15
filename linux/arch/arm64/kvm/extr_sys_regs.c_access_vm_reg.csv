@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+kvm_toggle_cache,FUNC_1
+lower_32_bits,FUNC_2
+upper_32_bits,FUNC_3
+vcpu_has_cache_enabled,FUNC_4
+vcpu_read_sys_reg,FUNC_5
+vcpu_write_sys_reg,FUNC_6
+access_vm_reg,FUNC_7
+vcpu,VAR_0
+p,VAR_1
+r,VAR_2
+was_enabled,VAR_3
+val,VAR_4
+reg,VAR_5

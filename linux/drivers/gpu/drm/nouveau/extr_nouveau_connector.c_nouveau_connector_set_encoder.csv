@@ -1,0 +1,17 @@
+DCB_CONNECTOR_DVI_I,VAR_0
+DCB_OUTPUT_LVDS,VAR_1
+DCB_OUTPUT_TMDS,VAR_2
+DRM_MODE_SUBCONNECTOR_DVIA,VAR_3
+DRM_MODE_SUBCONNECTOR_DVID,VAR_4
+NV_DEVICE_INFO_V0_CELSIUS,VAR_5
+NV_DEVICE_INFO_V0_KELVIN,VAR_6
+NV_DEVICE_INFO_V0_TESLA,VAR_7
+drm_object_property_set_value,FUNC_0
+nouveau_connector,FUNC_1
+nouveau_drm,FUNC_2
+nouveau_connector_set_encoder,FUNC_3
+connector,VAR_8
+nv_encoder,VAR_9
+nv_connector,VAR_10
+drm,VAR_11
+dev,VAR_12

@@ -1,0 +1,16 @@
+APIC_TMR,VAR_0
+ack_APIC_irq,FUNC_0
+apic_read,FUNC_1
+atomic_inc,FUNC_2
+eoi_ioapic_pin,FUNC_3
+ioapic_irqd_mask,FUNC_4
+ioapic_irqd_unmask,FUNC_5
+irq_complete_move,FUNC_6
+irq_mis_count,VAR_1
+irqd_cfg,FUNC_7
+ioapic_ack_level,FUNC_8
+irq_data,VAR_2
+cfg,VAR_3
+v,VAR_4
+masked,VAR_5
+i,VAR_6

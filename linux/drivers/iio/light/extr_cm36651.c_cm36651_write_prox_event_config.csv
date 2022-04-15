@@ -1,0 +1,16 @@
+CM36651_CMD_PROX_EV_DIS,VAR_0
+CM36651_CMD_PROX_EV_EN,VAR_1
+EINVAL,VAR_2
+cm36651_set_operation_mode,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+cm36651_write_prox_event_config,FUNC_4
+indio_dev,VAR_3
+chan,VAR_4
+type,VAR_5
+dir,VAR_6
+state,VAR_7
+cm36651,VAR_8
+cmd,VAR_9
+ret,VAR_10

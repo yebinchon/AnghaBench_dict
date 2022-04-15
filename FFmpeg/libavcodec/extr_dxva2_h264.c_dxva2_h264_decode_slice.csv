@@ -1,0 +1,17 @@
+AV_PICTURE_TYPE_I,VAR_0
+AV_PICTURE_TYPE_SI,VAR_1
+DXVA_CONTEXT,FUNC_0
+MAX_SLICES,VAR_2
+fill_slice_long,FUNC_1
+fill_slice_short,FUNC_2
+is_slice_short,FUNC_3
+dxva2_h264_decode_slice,FUNC_4
+avctx,VAR_3
+buffer,VAR_4
+size,VAR_5
+h,VAR_6
+sl,VAR_7
+ctx,VAR_8
+current_picture,VAR_9
+ctx_pic,VAR_10
+position,VAR_11

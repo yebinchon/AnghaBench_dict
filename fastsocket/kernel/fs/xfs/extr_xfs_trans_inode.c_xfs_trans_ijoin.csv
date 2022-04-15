@@ -1,0 +1,10 @@
+ASSERT,FUNC_0
+XFS_ILOCK_EXCL,VAR_0
+xfs_inode_item_init,FUNC_1
+xfs_isilocked,FUNC_2
+xfs_trans_add_item,FUNC_3
+xfs_trans_inode_broot_debug,FUNC_4
+xfs_trans_ijoin,FUNC_5
+tp,VAR_1
+ip,VAR_2
+iip,VAR_3

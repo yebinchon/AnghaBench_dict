@@ -1,0 +1,13 @@
+THREAD_TIME_CONSTRAINT_POLICY,VAR_0
+THREAD_TIME_CONSTRAINT_POLICY_COUNT,VAR_1
+T_ASSERT_MACH_SUCCESS,FUNC_0
+T_ASSERT_NOTNULL,FUNC_1
+T_QUIET,VAR_2
+nanos_to_abs,FUNC_2
+pthread_mach_thread_np,FUNC_3
+thread_policy_set,FUNC_4
+set_realtime,FUNC_5
+thread,VAR_3
+kr,VAR_4
+pol,VAR_5
+target_thread,VAR_6

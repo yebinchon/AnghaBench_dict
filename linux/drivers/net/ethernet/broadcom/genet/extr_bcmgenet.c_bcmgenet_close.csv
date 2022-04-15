@@ -1,0 +1,13 @@
+GENET_POWER_PASSIVE,VAR_0
+bcmgenet_netif_stop,FUNC_0
+bcmgenet_power_down,FUNC_1
+clk_disable_unprepare,FUNC_2
+free_irq,FUNC_3
+ifdown,VAR_1
+netdev_priv,FUNC_4
+netif_dbg,FUNC_5
+phy_disconnect,FUNC_6
+bcmgenet_close,FUNC_7
+dev,VAR_2
+priv,VAR_3
+ret,VAR_4

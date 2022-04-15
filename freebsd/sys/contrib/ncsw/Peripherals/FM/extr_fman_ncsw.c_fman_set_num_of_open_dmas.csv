@@ -1,0 +1,15 @@
+BMI_CFG2_DMAS_MASK,VAR_0
+BMI_CFG2_DMAS_SHIFT,VAR_1
+BMI_EXTRA_NUM_OF_DMAS_SHIFT,VAR_2
+BMI_NUM_OF_DMAS_MASK,VAR_3
+BMI_NUM_OF_DMAS_SHIFT,VAR_4
+BMI_NUM_OF_EXTRA_DMAS_MASK,VAR_5
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+fman_set_num_of_open_dmas,FUNC_2
+bmi_rg,VAR_6
+port_id,VAR_7
+num_open_dmas,VAR_8
+num_extra_open_dmas,VAR_9
+total_num_dmas,VAR_10
+tmp,VAR_11

@@ -1,0 +1,12 @@
+mmc_blk_card_busy,FUNC_0
+mmc_blk_mq_rw_recovery,FUNC_1
+mmc_blk_rq_error,FUNC_2
+mmc_blk_rw_reset_success,FUNC_3
+mmc_blk_urgent_bkops,FUNC_4
+mmc_retune_release,FUNC_5
+req_to_mmc_queue_req,FUNC_6
+mmc_blk_mq_poll_completion,FUNC_7
+mq,VAR_0
+req,VAR_1
+mqrq,VAR_2
+host,VAR_3

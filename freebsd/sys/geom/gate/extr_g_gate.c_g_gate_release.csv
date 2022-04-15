@@ -1,0 +1,9 @@
+G_GATE_FLAG_DESTROY,VAR_0
+KASSERT,FUNC_0
+g_gate_units_lock,VAR_1
+g_topology_assert_not,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+wakeup,FUNC_4
+g_gate_release,FUNC_5
+sc,VAR_2

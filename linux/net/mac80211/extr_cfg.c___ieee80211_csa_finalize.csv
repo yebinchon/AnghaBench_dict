@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+IEEE80211_QUEUE_STOP_REASON_CSA,VAR_1
+cfg80211_ch_switch_notify,FUNC_0
+cfg80211_chandef_identical,FUNC_1
+drv_post_channel_switch,FUNC_2
+ieee80211_bss_info_change_notify,FUNC_3
+ieee80211_set_after_csa_beacon,FUNC_4
+ieee80211_vif_use_reserved_context,FUNC_5
+ieee80211_wake_vif_queues,FUNC_6
+lockdep_assert_held,FUNC_7
+sdata_assert_lock,FUNC_8
+__ieee80211_csa_finalize,FUNC_9
+sdata,VAR_2
+local,VAR_3
+changed,VAR_4
+err,VAR_5

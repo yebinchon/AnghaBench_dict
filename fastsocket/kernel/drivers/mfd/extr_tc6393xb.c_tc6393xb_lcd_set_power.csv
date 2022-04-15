@@ -1,0 +1,15 @@
+SCR_FER,VAR_0
+SCR_FER_SLCDEN,VAR_1
+ioread8,FUNC_0
+iowrite8,FUNC_1
+platform_get_drvdata,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_platform_device,FUNC_5
+tc6393xb_lcd_set_power,FUNC_6
+fb,VAR_2
+on,VAR_3
+dev,VAR_4
+tc6393xb,VAR_5
+fer,VAR_6
+flags,VAR_7

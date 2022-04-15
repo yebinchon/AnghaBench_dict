@@ -1,0 +1,17 @@
+MMALOMX_ACTION_CHECK_ALLOCATED,VAR_0
+MMALOMX_ACTION_ENABLE,VAR_1
+MMALOMX_ACTION_NOTIFY_ENABLE,VAR_2
+MMALOMX_LOCK_PORT,FUNC_0
+MMALOMX_UNLOCK_PORT,FUNC_1
+MMAL_TRUE,VAR_3
+OMX_CommandPortEnable,VAR_4
+OMX_ErrorNone,VAR_5
+OMX_EventCmdComplete,VAR_6
+OMX_StateLoaded,VAR_7
+OMX_StateWaitForResources,VAR_8
+mmalomx_callback_event_handler,FUNC_2
+mmalomx_commands_actions_check,FUNC_3
+mmalomx_command_port_enable,FUNC_4
+hComponent,VAR_9
+nPortIndex,VAR_10
+component,VAR_11

@@ -1,0 +1,17 @@
+AF_LOCAL,VAR_0
+ENOMEM,VAR_1
+OTHER,VAR_2
+SIOCSIFDESCR,VAR_3
+free,FUNC_0
+ifconfig_ioctlwrap,FUNC_1
+ifconfig_unset_description,FUNC_2
+memset,FUNC_3
+strdup,FUNC_4
+strlcpy,FUNC_5
+strlen,FUNC_6
+ifconfig_set_description,FUNC_7
+h,VAR_4
+name,VAR_5
+newdescription,VAR_6
+ifr,VAR_7
+desclen,VAR_8

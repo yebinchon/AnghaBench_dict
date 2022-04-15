@@ -1,0 +1,15 @@
+AXI_DMAC_BUS_TYPE_FIFO,VAR_0
+DMA_DEV_TO_DEV,VAR_1
+DMA_DEV_TO_MEM,VAR_2
+DMA_MEM_TO_DEV,VAR_3
+DMA_MEM_TO_MEM,VAR_4
+EINVAL,VAR_5
+axi_dmac_dest_is_mem,FUNC_0
+axi_dmac_src_is_mem,FUNC_1
+max,FUNC_2
+of_property_read_u32,FUNC_3
+axi_dmac_parse_chan_dt,FUNC_4
+of_chan,VAR_6
+chan,VAR_7
+val,VAR_8
+ret,VAR_9

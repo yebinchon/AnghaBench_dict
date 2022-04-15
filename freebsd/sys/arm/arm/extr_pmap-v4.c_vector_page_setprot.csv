@@ -1,0 +1,14 @@
+L1_S_PROT_MASK,VAR_0
+L2_S_PROT,FUNC_0
+PTE_KERNEL,VAR_1
+PTE_SYNC,FUNC_1
+cpu_cpwait,FUNC_2
+cpu_tlb_flushD_SE,FUNC_3
+kernel_pmap,VAR_2
+l2pte_index,FUNC_4
+pmap_get_l2_bucket,FUNC_5
+vector_page,VAR_3
+vector_page_setprot,FUNC_6
+prot,VAR_4
+l2b,VAR_5
+ptep,VAR_6

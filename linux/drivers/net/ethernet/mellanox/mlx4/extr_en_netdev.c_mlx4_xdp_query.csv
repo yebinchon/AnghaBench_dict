@@ -1,0 +1,12 @@
+TX_XDP,VAR_0
+lockdep_is_held,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+netdev_priv,FUNC_3
+rcu_dereference_protected,FUNC_4
+mlx4_xdp_query,FUNC_5
+dev,VAR_1
+priv,VAR_2
+mdev,VAR_3
+xdp_prog,VAR_4
+prog_id,VAR_5

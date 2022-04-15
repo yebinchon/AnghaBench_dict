@@ -1,0 +1,15 @@
+CVMX_SYNCW,VAR_0
+CVMX_USBCX_GRXSTSPH,FUNC_0
+CVMX_USBNX_DMA0_INB_CHN0,FUNC_1
+USB_FIFO_ADDRESS,FUNC_2
+cvmx_phys_to_ptr,FUNC_3
+cvmx_read64_uint64,FUNC_4
+cvmx_usb_read_csr32,FUNC_5
+cvmx_write64_uint64,FUNC_6
+cvmx_usb_poll_rx_fifo,FUNC_7
+usb,VAR_1
+rx_status,VAR_2
+channel,VAR_3
+bytes,VAR_4
+address,VAR_5
+ptr,VAR_6

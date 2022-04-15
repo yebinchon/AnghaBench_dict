@@ -1,0 +1,16 @@
+PCF8591_CONTROL_AOEF,VAR_0
+i2c_get_clientdata,FUNC_0
+i2c_smbus_write_byte,FUNC_1
+kstrtoul,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+to_i2c_client,FUNC_5
+out0_enable_store,FUNC_6
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+client,VAR_5
+data,VAR_6
+val,VAR_7
+err,VAR_8

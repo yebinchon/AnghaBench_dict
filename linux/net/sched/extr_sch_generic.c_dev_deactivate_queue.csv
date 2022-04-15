@@ -1,0 +1,17 @@
+TCQ_F_BUILTIN,VAR_0
+TCQ_F_NOLOCK,VAR_1
+__QDISC_STATE_DEACTIVATED,VAR_2
+qdisc_lock,FUNC_0
+qdisc_reset,FUNC_1
+rcu_assign_pointer,FUNC_2
+rtnl_dereference,FUNC_3
+set_bit,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+dev_deactivate_queue,FUNC_7
+dev,VAR_3
+dev_queue,VAR_4
+_qdisc_default,VAR_5
+qdisc_default,VAR_6
+qdisc,VAR_7
+nolock,VAR_8

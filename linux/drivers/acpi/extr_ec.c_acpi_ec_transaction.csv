@@ -1,0 +1,15 @@
+ACPI_EC_UDELAY_GLK,VAR_0
+ACPI_FAILURE,FUNC_0
+EINVAL,VAR_1
+ENODEV,VAR_2
+acpi_acquire_global_lock,FUNC_1
+acpi_ec_transaction_unlocked,FUNC_2
+acpi_release_global_lock,FUNC_3
+memset,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+acpi_ec_transaction,FUNC_7
+ec,VAR_3
+t,VAR_4
+status,VAR_5
+glk,VAR_6

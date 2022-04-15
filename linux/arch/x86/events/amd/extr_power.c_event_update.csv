@@ -1,0 +1,16 @@
+MSR_F15H_CU_PWR_ACCUMULATOR,VAR_0
+MSR_F15H_PTSC,VAR_1
+cpu_pwr_sample_ratio,VAR_2
+do_div,FUNC_0
+local64_add,FUNC_1
+max_cu_acc_power,VAR_3
+rdmsrl,FUNC_2
+event_update,FUNC_3
+event,VAR_4
+hwc,VAR_5
+prev_pwr_acc,VAR_6
+new_pwr_acc,VAR_7
+prev_ptsc,VAR_8
+new_ptsc,VAR_9
+delta,VAR_10
+tdelta,VAR_11

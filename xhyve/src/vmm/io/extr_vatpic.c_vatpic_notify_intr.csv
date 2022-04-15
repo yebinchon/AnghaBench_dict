@@ -1,0 +1,11 @@
+APIC_LVT_LINT0,VAR_0
+VATPIC_CTR3,FUNC_0
+VATPIC_CTR4,FUNC_1
+lapic_set_local_intr,FUNC_2
+vatpic_get_highest_irrpin,FUNC_3
+vatpic_set_pinstate,FUNC_4
+vioapic_pulse_irq,FUNC_5
+vatpic_notify_intr,FUNC_6
+vatpic,VAR_1
+atpic,VAR_2
+pin,VAR_3

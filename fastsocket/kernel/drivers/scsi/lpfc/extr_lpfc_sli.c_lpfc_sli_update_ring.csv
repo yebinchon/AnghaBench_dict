@@ -1,0 +1,9 @@
+CA_R0ATT,VAR_0
+LPFC_SLI3_CRP_ENABLED,VAR_1
+readl,FUNC_0
+wmb,FUNC_1
+writel,FUNC_2
+lpfc_sli_update_ring,FUNC_3
+phba,VAR_2
+pring,VAR_3
+ringno,VAR_4

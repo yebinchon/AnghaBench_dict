@@ -1,0 +1,14 @@
+CTLFLAG_RWTUN,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_QUAD,FUNC_1
+SYSCTL_ADD_U32,FUNC_2
+SYSCTL_CHILDREN,FUNC_3
+device_get_sysctl_ctx,FUNC_4
+device_get_sysctl_tree,FUNC_5
+ena_sysctl_add_wd,FUNC_6
+adapter,VAR_2
+dev,VAR_3
+ctx,VAR_4
+tree,VAR_5
+child,VAR_6

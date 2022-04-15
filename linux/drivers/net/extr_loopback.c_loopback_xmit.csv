@@ -1,0 +1,16 @@
+NETDEV_TX_OK,VAR_0
+NET_RX_SUCCESS,VAR_1
+eth_type_trans,FUNC_0
+likely,FUNC_1
+netif_rx,FUNC_2
+skb_dst_force,FUNC_3
+skb_orphan,FUNC_4
+skb_tx_timestamp,FUNC_5
+this_cpu_ptr,FUNC_6
+u64_stats_update_begin,FUNC_7
+u64_stats_update_end,FUNC_8
+loopback_xmit,FUNC_9
+skb,VAR_2
+dev,VAR_3
+lb_stats,VAR_4
+len,VAR_5

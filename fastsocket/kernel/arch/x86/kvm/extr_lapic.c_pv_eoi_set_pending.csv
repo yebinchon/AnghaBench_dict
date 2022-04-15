@@ -1,0 +1,8 @@
+KVM_APIC_PV_EOI_PENDING,VAR_0
+KVM_PV_EOI_ENABLED,VAR_1
+__set_bit,FUNC_0
+apic_debug,FUNC_1
+pv_eoi_put_user_atomic,FUNC_2
+vcpi,VAR_2
+pv_eoi_set_pending,FUNC_3
+vcpu,VAR_3

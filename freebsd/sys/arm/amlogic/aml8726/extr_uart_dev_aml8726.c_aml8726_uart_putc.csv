@@ -1,0 +1,10 @@
+AML_UART_STATUS_REG,VAR_0
+AML_UART_STATUS_TX_FIFO_FULL,VAR_1
+AML_UART_WFIFO_REG,VAR_2
+cpu_spinwait,FUNC_0
+uart_barrier,FUNC_1
+uart_getreg,FUNC_2
+uart_setreg,FUNC_3
+aml8726_uart_putc,FUNC_4
+bas,VAR_3
+c,VAR_4

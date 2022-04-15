@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+FIX_KMAP_BEGIN,VAR_0
+KM_TYPE_NR,VAR_1
+PAGE_MASK,VAR_2
+PAGE_OFFSET,VAR_3
+__fix_to_virt,FUNC_1
+arch_flush_lazy_mmu_mode,FUNC_2
+high_memory,VAR_4
+kmap_pte,VAR_5
+kpte_clear_flush,FUNC_3
+pagefault_enable,FUNC_4
+smp_processor_id,FUNC_5
+kunmap_atomic,FUNC_6
+kvaddr,VAR_6
+type,VAR_7
+vaddr,VAR_8
+idx,VAR_9

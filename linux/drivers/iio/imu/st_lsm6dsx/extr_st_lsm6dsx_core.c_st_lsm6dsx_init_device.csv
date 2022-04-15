@@ -1,0 +1,15 @@
+FIELD_PREP,FUNC_0
+ST_LSM6DSX_REG_BDU_ADDR,VAR_0
+ST_LSM6DSX_REG_BDU_MASK,VAR_1
+ST_LSM6DSX_REG_BOOT_MASK,VAR_2
+ST_LSM6DSX_REG_FIFO_FTH_IRQ_MASK,VAR_3
+ST_LSM6DSX_REG_RESET_MASK,VAR_4
+msleep,FUNC_1
+regmap_update_bits,FUNC_2
+st_lsm6dsx_get_drdy_reg,FUNC_3
+st_lsm6dsx_init_hw_timer,FUNC_4
+st_lsm6dsx_init_shub,FUNC_5
+st_lsm6dsx_init_device,FUNC_6
+hw,VAR_5
+drdy_int_reg,VAR_6
+err,VAR_7

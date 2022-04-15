@@ -1,0 +1,11 @@
+IRQ_S3CUART_RX0,VAR_0
+S3C2410_INTSUBMSK,VAR_1
+S3C2410_SUBSRCPND,VAR_2
+__raw_readl,FUNC_0
+generic_handle_irq,FUNC_1
+irqdbf2,FUNC_2
+s3c_irq_demux_uart,FUNC_3
+start,VAR_3
+subsrc,VAR_4
+submsk,VAR_5
+offset,VAR_6

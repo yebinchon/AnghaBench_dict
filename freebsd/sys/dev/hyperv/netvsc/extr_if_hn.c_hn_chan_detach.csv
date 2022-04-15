@@ -1,0 +1,16 @@
+EISCONN,VAR_0
+HN_RX_FLAG_ATTACHED,VAR_1
+HN_RX_FLAG_BR_REF,VAR_2
+HN_TX_FLAG_ATTACHED,VAR_3
+KASSERT,FUNC_0
+if_printf,FUNC_1
+vmbus_chan_close_direct,FUNC_2
+vmbus_chan_id,FUNC_3
+vmbus_chan_subidx,FUNC_4
+hn_chan_detach,FUNC_5
+sc,VAR_4
+chan,VAR_5
+rxr,VAR_6
+idx,VAR_7
+error,VAR_8
+txr,VAR_9

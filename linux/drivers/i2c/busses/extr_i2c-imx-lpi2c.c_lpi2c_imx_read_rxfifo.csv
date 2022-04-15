@@ -1,0 +1,17 @@
+CHUNK_DATA,VAR_0
+LPI2C_MRDR,VAR_1
+LPI2C_MTDR,VAR_2
+MIER_RDIE,VAR_3
+MRDR_RXEMPTY,VAR_4
+RECV_DATA,VAR_5
+complete,FUNC_0
+lpi2c_imx_intctrl,FUNC_1
+lpi2c_imx_set_rx_watermark,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+lpi2c_imx_read_rxfifo,FUNC_5
+lpi2c_imx,VAR_6
+blocklen,VAR_7
+remaining,VAR_8
+temp,VAR_9
+data,VAR_10

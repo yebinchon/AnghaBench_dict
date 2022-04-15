@@ -1,0 +1,12 @@
+CMD_T_DEV_ACTIVE,VAR_0
+INIT_LIST_HEAD,FUNC_0
+init_completion,FUNC_1
+spin_lock_init,FUNC_2
+transport_init_se_cmd,FUNC_3
+cmd,VAR_1
+tfo,VAR_2
+se_sess,VAR_3
+data_length,VAR_4
+data_direction,VAR_5
+task_attr,VAR_6
+sense_buffer,VAR_7

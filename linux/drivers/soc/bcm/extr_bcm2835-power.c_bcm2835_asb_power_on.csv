@@ -1,0 +1,16 @@
+PM_READ,FUNC_0
+PM_WRITE,FUNC_1
+bcm2835_asb_disable,FUNC_2
+bcm2835_asb_enable,FUNC_3
+clk_disable_unprepare,FUNC_4
+clk_prepare_enable,FUNC_5
+dev_err,FUNC_6
+udelay,FUNC_7
+bcm2835_asb_power_on,FUNC_8
+pd,VAR_0
+pm_reg,VAR_1
+asb_m_reg,VAR_2
+asb_s_reg,VAR_3
+reset_flags,VAR_4
+power,VAR_5
+ret,VAR_6

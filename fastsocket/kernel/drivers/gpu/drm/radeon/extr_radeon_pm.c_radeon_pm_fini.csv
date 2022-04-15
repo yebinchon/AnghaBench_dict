@@ -1,0 +1,17 @@
+DYNPM_ACTION_DEFAULT,VAR_0
+DYNPM_STATE_DISABLED,VAR_1
+PM_METHOD_DYNPM,VAR_2
+PM_METHOD_PROFILE,VAR_3
+PM_PROFILE_DEFAULT,VAR_4
+cancel_delayed_work_sync,FUNC_0
+dev_attr_power_method,VAR_5
+dev_attr_power_profile,VAR_6
+device_remove_file,FUNC_1
+kfree,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+radeon_hwmon_fini,FUNC_5
+radeon_pm_set_clocks,FUNC_6
+radeon_pm_update_profile,FUNC_7
+radeon_pm_fini,FUNC_8
+rdev,VAR_7

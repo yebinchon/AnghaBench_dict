@@ -1,0 +1,17 @@
+BUS_READ_IVAR,FUNC_0
+ENXIO,VAR_0
+QUICC_DEVTYPE_SCC,VAR_1
+QUICC_IVAR_BRGCLK,VAR_2
+QUICC_IVAR_DEVTYPE,VAR_3
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+device_set_desc,FUNC_3
+scc_bfe_probe,FUNC_4
+scc_quicc_class,VAR_4
+scc_quicc_probe,FUNC_5
+dev,VAR_5
+parent,VAR_6
+sc,VAR_7
+devtype,VAR_8
+rclk,VAR_9
+error,VAR_10

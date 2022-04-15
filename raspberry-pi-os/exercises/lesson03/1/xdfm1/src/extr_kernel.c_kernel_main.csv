@@ -1,0 +1,10 @@
+armtimer_init,FUNC_0
+enable_interrupt_controller,FUNC_1
+enable_irq,FUNC_2
+init_printf,FUNC_3
+irq_vector_init,FUNC_4
+putc,VAR_0
+uart_init,FUNC_5
+uart_recv,FUNC_6
+uart_send,FUNC_7
+kernel_main,FUNC_8

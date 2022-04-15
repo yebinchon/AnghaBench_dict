@@ -1,0 +1,15 @@
+AC_DEFCFG_PORT_CONN,VAR_0
+AC_DEFCFG_PORT_CONN_SHIFT,VAR_1
+AC_JACK_PORT_NONE,VAR_2
+CS421X_DMIC_PIN_NID,VAR_3
+CS421X_IDX_DEV_CFG,VAR_4
+cs_vendor_coef_get,FUNC_0
+cs_vendor_coef_set,FUNC_1
+is_active_pin,FUNC_2
+snd_hda_codec_get_pincfg,FUNC_3
+snd_hda_codec_set_pincfg,FUNC_4
+cs4210_pinmux_init,FUNC_5
+codec,VAR_5
+spec,VAR_6
+def_conf,VAR_7
+coef,VAR_8

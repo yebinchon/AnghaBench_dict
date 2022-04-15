@@ -1,0 +1,17 @@
+CRYPTO_THREAD_unlock,FUNC_0
+CRYPTO_THREAD_write_lock,FUNC_1
+ERR_R_MALLOC_FAILURE,VAR_0
+ERR_add_error_data,FUNC_2
+OSSL_STORE_F_OSSL_STORE_UNREGISTER_LOADER_INT,VAR_1
+OSSL_STORE_R_UNREGISTERED_SCHEME,VAR_2
+OSSL_STOREerr,FUNC_3
+RUN_ONCE,FUNC_4
+do_registry_init,VAR_3
+lh_OSSL_STORE_LOADER_delete,FUNC_5
+loader_register,VAR_4
+registry_init,VAR_5
+registry_lock,VAR_6
+ossl_store_unregister_loader_int,FUNC_6
+scheme,VAR_7
+template,VAR_8
+loader,VAR_9

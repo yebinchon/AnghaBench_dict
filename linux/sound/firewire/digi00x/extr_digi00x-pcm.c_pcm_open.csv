@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+SND_DG00X_CLOCK_INTERNAL,VAR_1
+amdtp_stream_pcm_running,FUNC_0
+pcm_init_hw_params,FUNC_1
+snd_dg00x_stream_check_external_clock,FUNC_2
+snd_dg00x_stream_get_clock,FUNC_3
+snd_dg00x_stream_get_external_rate,FUNC_4
+snd_dg00x_stream_lock_release,FUNC_5
+snd_dg00x_stream_lock_try,FUNC_6
+snd_pcm_set_sync,FUNC_7
+pcm_open,FUNC_8
+substream,VAR_2
+dg00x,VAR_3
+clock,VAR_4
+detect,VAR_5
+rate,VAR_6
+err,VAR_7

@@ -1,0 +1,11 @@
+PATA_IMX_ATA_CONTROL,VAR_0
+PATA_IMX_ATA_CTRL_IORDY_EN,VAR_1
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+ata_pio_need_iordy,FUNC_2
+pata_imx_set_timing,FUNC_3
+pata_imx_set_piomode,FUNC_4
+ap,VAR_2
+adev,VAR_3
+priv,VAR_4
+val,VAR_5

@@ -1,0 +1,14 @@
+GB_INTERFACE_QUIRK_LEGACY_MODE_SWITCH,VAR_0
+GB_SVC_INTF_MAILBOX_GREYBUS,VAR_1
+complete,FUNC_0
+dev_info,FUNC_1
+dev_warn,FUNC_2
+gb_interface_deactivate,FUNC_3
+gb_interface_disable,FUNC_4
+gb_interface_legacy_mode_switch,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+gb_interface_mailbox_event,FUNC_8
+intf,VAR_2
+result,VAR_3
+mailbox,VAR_4

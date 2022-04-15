@@ -1,0 +1,17 @@
+FCF_INIT_DISC,VAR_0
+FC_UNLOADING,VAR_1
+KERN_ERR,VAR_2
+LOG_DISCOVERY,VAR_3
+LOG_MBOX,VAR_4
+LPFC_FCOE_FCF_GET_FIRST,VAR_5
+LPFC_LINK_UP,VAR_6
+lpfc_printf_log,FUNC_0
+lpfc_sli4_clear_fcf_rr_bmask,FUNC_1
+lpfc_sli4_fcf_scan_read_fcf_rec,FUNC_2
+lpfc_sli4_unregister_fcf,FUNC_3
+lpfc_unregister_fcf_prep,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+lpfc_unregister_fcf_rescan,FUNC_7
+phba,VAR_7
+rc,VAR_8

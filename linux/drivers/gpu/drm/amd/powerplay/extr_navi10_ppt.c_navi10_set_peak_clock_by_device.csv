@@ -1,0 +1,15 @@
+NAVI10_PEAK_SCLK_XL,VAR_0
+NAVI10_PEAK_SCLK_XT,VAR_1
+NAVI10_PEAK_SCLK_XTX,VAR_2
+SMU_SCLK,VAR_3
+SMU_UCLK,VAR_4
+smu_get_dpm_freq_by_index,FUNC_0
+smu_get_dpm_level_count,FUNC_1
+smu_set_soft_freq_range,FUNC_2
+navi10_set_peak_clock_by_device,FUNC_3
+smu,VAR_5
+adev,VAR_6
+ret,VAR_7
+sclk_freq,VAR_8
+uclk_freq,VAR_9
+uclk_level,VAR_10

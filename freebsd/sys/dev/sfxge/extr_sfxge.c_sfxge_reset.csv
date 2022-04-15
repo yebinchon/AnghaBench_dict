@@ -1,0 +1,15 @@
+DELAY,FUNC_0
+SFXGE_ADAPTER_LOCK,FUNC_1
+SFXGE_ADAPTER_UNLOCK,FUNC_2
+SFXGE_STARTED,VAR_0
+device_printf,FUNC_3
+efx_nic_reset,FUNC_4
+sfxge_restart_attempts,VAR_1
+sfxge_start,FUNC_5
+sfxge_stop,FUNC_6
+sfxge_reset,FUNC_7
+arg,VAR_2
+npending,VAR_3
+sc,VAR_4
+rc,VAR_5
+attempt,VAR_6

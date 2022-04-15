@@ -1,0 +1,15 @@
+ASUS_FAN_CTRL_MANUAL,VAR_0
+ASUS_WMI_DEVID_CPU_FAN_CTRL,VAR_1
+ENXIO,VAR_2
+asus_agfn_fan_speed_read,FUNC_0
+asus_wmi_get_devstate,FUNC_1
+dev_get_drvdata,FUNC_2
+pr_warn,FUNC_3
+sprintf,FUNC_4
+fan1_input_show,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+asus,VAR_6
+value,VAR_7
+ret,VAR_8

@@ -1,0 +1,16 @@
+GIT_ENOTFOUND,VAR_0
+GIT_STASH_DEFAULT,VAR_1
+GIT_STASH_INCLUDE_UNTRACKED,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_repo_commit_from_index,FUNC_2
+git_index_add_bypath,FUNC_3
+git_index_free,FUNC_4
+git_repository_index,FUNC_5
+git_stash_save,FUNC_6
+p_unlink,FUNC_7
+repo,VAR_3
+signature,VAR_4
+test_stash_save__cannot_stash_when_there_are_no_local_change,FUNC_8
+index,VAR_5
+stash_tip_oid,VAR_6

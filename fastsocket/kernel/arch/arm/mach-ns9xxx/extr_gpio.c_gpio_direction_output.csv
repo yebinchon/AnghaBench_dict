@@ -1,0 +1,15 @@
+BUG,FUNC_0
+EINVAL,VAR_0
+__ns9360_gpio_configure,FUNC_1
+gpio_lock,VAR_1
+gpio_set_value,FUNC_2
+likely,FUNC_3
+ns9xxx_valid_gpio,FUNC_4
+processor_is_ns9360,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+gpio_direction_output,FUNC_8
+gpio,VAR_2
+value,VAR_3
+ret,VAR_4
+flags,VAR_5

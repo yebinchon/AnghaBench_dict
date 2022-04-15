@@ -1,0 +1,16 @@
+LPTE_AVPN_MASK,VAR_0
+be64toh,FUNC_0
+htobe64,FUNC_1
+moea64_eviction_lock,VAR_1
+moea64_pte_from_pvo,FUNC_2
+moea64_pte_replace_inval_native,FUNC_3
+moea64_pteg_table,VAR_2
+rw_rlock,FUNC_4
+rw_runlock,FUNC_5
+moea64_pte_replace_native,FUNC_6
+mmu,VAR_3
+pvo,VAR_4
+flags,VAR_5
+pt,VAR_6
+properpt,VAR_7
+ptelo,VAR_8

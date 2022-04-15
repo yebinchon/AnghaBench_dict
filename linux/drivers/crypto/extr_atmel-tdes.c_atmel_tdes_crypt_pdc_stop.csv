@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+EINVAL,VAR_2
+TDES_FLAGS_FAST,VAR_3
+TDES_PTCR,VAR_4
+TDES_PTCR_RXTDIS,VAR_5
+TDES_PTCR_TXTDIS,VAR_6
+atmel_tdes_sg_copy,FUNC_0
+atmel_tdes_write,FUNC_1
+dma_sync_single_for_device,FUNC_2
+dma_unmap_sg,FUNC_3
+pr_err,FUNC_4
+atmel_tdes_crypt_pdc_stop,FUNC_5
+dd,VAR_7
+err,VAR_8
+count,VAR_9

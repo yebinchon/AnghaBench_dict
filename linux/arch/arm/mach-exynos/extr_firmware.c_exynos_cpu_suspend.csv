@@ -1,0 +1,10 @@
+EXYNOS_BOOT_FLAG,VAR_0
+SMC_CMD_SLEEP,VAR_1
+exynos_smc,FUNC_0
+flush_cache_all,FUNC_1
+outer_flush_all,FUNC_2
+pr_info,FUNC_3
+sysram_ns_base_addr,VAR_2
+writel,FUNC_4
+exynos_cpu_suspend,FUNC_5
+arg,VAR_3

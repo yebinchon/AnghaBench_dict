@@ -1,0 +1,17 @@
+ADC_CHNL_START_ADDR,VAR_0
+ADC_LOOP_MAX,VAR_1
+INTEL_MSIC_ADC1CNTL3,VAR_2
+MSIC_ADCTHERM_MASK,VAR_3
+channel_index,VAR_4
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+find_free_channel,FUNC_2
+intel_msic_reg_read,FUNC_3
+intel_msic_reg_write,FUNC_4
+reset_stopbit,FUNC_5
+set_up_therm_channel,FUNC_6
+mid_initialize_adc,FUNC_7
+dev,VAR_5
+data,VAR_6
+base_addr,VAR_7
+ret,VAR_8

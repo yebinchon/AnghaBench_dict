@@ -1,0 +1,16 @@
+VE_JPEG_HEADER_SIZE,VAR_0
+aspeed_video_off,FUNC_0
+clk_unprepare,FUNC_1
+dev_get_drvdata,FUNC_2
+dma_free_coherent,FUNC_3
+of_reserved_mem_device_release,FUNC_4
+to_aspeed_video,FUNC_5
+v4l2_ctrl_handler_free,FUNC_6
+v4l2_device_unregister,FUNC_7
+vb2_queue_release,FUNC_8
+video_unregister_device,FUNC_9
+aspeed_video_remove,FUNC_10
+pdev,VAR_1
+dev,VAR_2
+v4l2_dev,VAR_3
+video,VAR_4

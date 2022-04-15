@@ -1,0 +1,17 @@
+EIO,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+LPFC_MBOX_TMO,VAR_3
+LPFC_SLI_REV4,VAR_4
+MBX_SUCCESS,VAR_5
+MBX_TIMEOUT,VAR_6
+lpfc_sli4_free_rpi,FUNC_0
+lpfc_sli_issue_mbox_wait,FUNC_1
+lpfc_unreg_login,FUNC_2
+mempool_alloc,FUNC_3
+mempool_free,FUNC_4
+lpfcdiag_loop_self_unreg,FUNC_5
+phba,VAR_7
+rpi,VAR_8
+mbox,VAR_9
+status,VAR_10

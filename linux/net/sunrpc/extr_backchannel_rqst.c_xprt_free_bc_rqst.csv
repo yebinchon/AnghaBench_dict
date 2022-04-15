@@ -1,0 +1,15 @@
+RPC_BC_PA_IN_USE,VAR_0
+atomic_inc,FUNC_0
+clear_bit,FUNC_1
+dprintk,FUNC_2
+list_add_tail,FUNC_3
+smp_mb__after_atomic,FUNC_4
+smp_mb__before_atomic,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+xprt_free_allocation,FUNC_8
+xprt_need_to_requeue,FUNC_9
+xprt_put,FUNC_10
+xprt_free_bc_rqst,FUNC_11
+req,VAR_1
+xprt,VAR_2

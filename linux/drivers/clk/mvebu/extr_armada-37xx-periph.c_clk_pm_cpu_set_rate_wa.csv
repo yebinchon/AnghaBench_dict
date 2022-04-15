@@ -1,0 +1,10 @@
+ARMADA_37XX_DVFS_LOAD_1,VAR_0
+ARMADA_37XX_NB_CPU_LOAD,VAR_1
+ARMADA_37XX_NB_CPU_LOAD_MASK,VAR_2
+msleep,FUNC_0
+regmap_read,FUNC_1
+regmap_update_bits,FUNC_2
+clk_pm_cpu_set_rate_wa,FUNC_3
+rate,VAR_3
+base,VAR_4
+cur_level,VAR_5

@@ -1,0 +1,9 @@
+PA6T_MMCR0_FCM0,VAR_0
+SPRN_PA6T_MMCR0,VAR_1
+mfspr,FUNC_0
+mtspr,FUNC_1
+oprofile_running,VAR_2
+pr_debug,FUNC_2
+smp_processor_id,FUNC_3
+pa6t_stop,FUNC_4
+mmcr0,VAR_3

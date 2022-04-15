@@ -1,0 +1,13 @@
+CMOS_READ,FUNC_0
+CMOS_WRITE,FUNC_1
+RTC_AIE,VAR_0
+RTC_CONTROL,VAR_1
+cmos_checkintr,FUNC_2
+cmos_use_acpi_alarm,FUNC_3
+hpet_mask_rtc_irq_bit,FUNC_4
+stub1,FUNC_5
+use_hpet_alarm,FUNC_6
+cmos_irq_disable,FUNC_7
+cmos,VAR_2
+mask,VAR_3
+rtc_control,VAR_4

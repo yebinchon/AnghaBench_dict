@@ -1,0 +1,17 @@
+IS_NOQUOTA,FUNC_0
+MAXQUOTAS,VAR_0
+QUOTA_OK,VAR_1
+down_read,FUNC_1
+dq_data_lock,VAR_2
+dquot_claim_reserved_space,FUNC_2
+inode_claim_rsv_space,FUNC_3
+mark_dquot_dirty,FUNC_4
+sb_dqopt,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+up_read,FUNC_8
+dquot_claim_space,FUNC_9
+inode,VAR_3
+number,VAR_4
+cnt,VAR_5
+ret,VAR_6

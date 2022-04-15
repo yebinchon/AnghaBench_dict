@@ -1,0 +1,15 @@
+LSM_MISUSE_BKPT,VAR_0
+LSM_OK,VAR_1
+assertRwclientLockValue,FUNC_0
+assert_db_state,FUNC_1
+lsmDbDatabaseRelease,FUNC_2
+lsmFree,FUNC_3
+lsmFreeSnapshot,FUNC_4
+lsmFsClose,FUNC_5
+lsmLogClose,FUNC_6
+lsmMCursorFreeCache,FUNC_7
+stub1,FUNC_8
+stub2,FUNC_9
+lsm_close,FUNC_10
+pDb,VAR_2
+rc,VAR_3

@@ -1,0 +1,12 @@
+__flush_tlb_mm,FUNC_0
+clear_bit,FUNC_1
+cxn_bitmap,VAR_0
+cxn_owners_lock,VAR_1
+cxn_pinned,VAR_2
+list_del_init,FUNC_2
+list_empty,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+destroy_context,FUNC_6
+mm,VAR_3
+ctx,VAR_4

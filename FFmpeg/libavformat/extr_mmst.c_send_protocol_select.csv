@@ -1,0 +1,14 @@
+CS_PKT_PROTOCOL_SELECT,VAR_0
+LOCAL_ADDRESS,VAR_1
+LOCAL_PORT,VAR_2
+bytestream_put_le32,FUNC_0
+insert_command_prefixes,FUNC_1
+mms_put_utf16,FUNC_2
+send_command_packet,FUNC_3
+snprintf,FUNC_4
+start_command_packet,FUNC_5
+send_protocol_select,FUNC_6
+mmst,VAR_3
+ret,VAR_4
+data_string,VAR_5
+mms,VAR_6

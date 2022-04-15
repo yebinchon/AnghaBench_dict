@@ -1,0 +1,15 @@
+bpf_tcp_ingress,FUNC_0
+sk_msg_free,FUNC_1
+sk_msg_to_ingress,FUNC_2
+sk_psock_get,FUNC_3
+sk_psock_put,FUNC_4
+tcp_bpf_push_locked,FUNC_5
+unlikely,FUNC_6
+tcp_bpf_sendmsg_redir,FUNC_7
+sk,VAR_0
+msg,VAR_1
+bytes,VAR_2
+flags,VAR_3
+ingress,VAR_4
+psock,VAR_5
+ret,VAR_6

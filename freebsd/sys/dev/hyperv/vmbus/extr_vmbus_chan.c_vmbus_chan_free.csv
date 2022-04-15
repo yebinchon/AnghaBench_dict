@@ -1,0 +1,15 @@
+KASSERT,FUNC_0
+M_DEVBUF,VAR_0
+TAILQ_EMPTY,FUNC_1
+VMBUS_CHAN_ST_ONLIST,VAR_1
+VMBUS_CHAN_ST_ONPRIL,VAR_2
+VMBUS_CHAN_ST_ONSUBL,VAR_3
+VMBUS_CHAN_ST_OPENED,VAR_4
+free,FUNC_2
+hyperv_dmamem_free,FUNC_3
+mtx_destroy,FUNC_4
+sx_destroy,FUNC_5
+vmbus_rxbr_deinit,FUNC_6
+vmbus_txbr_deinit,FUNC_7
+vmbus_chan_free,FUNC_8
+chan,VAR_5

@@ -1,0 +1,17 @@
+PAGE_CACHE_SIZE,VAR_0
+SetPageUptodate,FUNC_0
+fuse_send_write,FUNC_1
+fuse_wait_on_page_writeback,FUNC_2
+page_cache_release,FUNC_3
+unlock_page,FUNC_4
+fuse_send_write_pages,FUNC_5
+req,VAR_1
+file,VAR_2
+inode,VAR_3
+pos,VAR_4
+count,VAR_5
+res,VAR_6
+offset,VAR_7
+i,VAR_8
+io,VAR_9
+page,VAR_10

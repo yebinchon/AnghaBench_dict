@@ -1,0 +1,14 @@
+ALT_L3_REMAP_MPUZERO_MSK,VAR_0
+ALT_L3_REMAP_OFST,VAR_1
+l3_remap_lock,VAR_2
+l3_remap_shadow,VAR_3
+regmap_write,FUNC_0
+reset_control_assert,FUNC_1
+reset_control_deassert,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+_alt_hps2fpga_enable_set,FUNC_5
+priv,VAR_4
+enable,VAR_5
+flags,VAR_6
+ret,VAR_7

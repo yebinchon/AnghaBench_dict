@@ -1,0 +1,12 @@
+REG_RXDMA_AGG_PG_TH,VAR_0
+REG_TRXDMA_CTRL,VAR_1
+RXDMA_USB_AGG_ENABLE,VAR_2
+TRXDMA_CTRL_RXDMA_AGG_EN,VAR_3
+rtl8xxxu_read32,FUNC_0
+rtl8xxxu_read8,FUNC_1
+rtl8xxxu_write32,FUNC_2
+rtl8xxxu_write8,FUNC_3
+rtl8723bu_init_aggregation,FUNC_4
+priv,VAR_4
+agg_rx,VAR_5
+agg_ctrl,VAR_6

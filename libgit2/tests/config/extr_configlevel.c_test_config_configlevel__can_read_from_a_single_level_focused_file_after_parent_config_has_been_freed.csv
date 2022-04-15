@@ -1,0 +1,15 @@
+GIT_CONFIG_LEVEL_GLOBAL,VAR_0
+GIT_CONFIG_LEVEL_LOCAL,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_dispose,FUNC_3
+git_config_add_file_ondisk,FUNC_4
+git_config_free,FUNC_5
+git_config_get_string_buf,FUNC_6
+git_config_new,FUNC_7
+git_config_open_level,FUNC_8
+test_config_configlevel__can_read_from_a_single_level_focused_file_after_parent_config_has_been_freed,FUNC_9
+cfg,VAR_2
+single_level_cfg,VAR_3
+buf,VAR_4

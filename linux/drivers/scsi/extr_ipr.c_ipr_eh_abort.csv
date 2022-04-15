@@ -1,0 +1,13 @@
+ENTER,VAR_0
+LEAVE,VAR_1
+SUCCESS,VAR_2
+ipr_cancel_op,FUNC_0
+ipr_match_lun,VAR_3
+ipr_wait_for_ops,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ipr_eh_abort,FUNC_4
+scsi_cmd,VAR_4
+flags,VAR_5
+rc,VAR_6
+ioa_cfg,VAR_7

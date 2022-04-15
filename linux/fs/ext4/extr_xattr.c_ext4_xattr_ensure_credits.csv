@@ -1,0 +1,15 @@
+ext4_handle_dirty_metadata,FUNC_0
+ext4_handle_valid,FUNC_1
+ext4_journal_extend,FUNC_2
+ext4_journal_get_write_access,FUNC_3
+ext4_journal_restart,FUNC_4
+ext4_warning,FUNC_5
+ext4_xattr_block_csum_set,FUNC_6
+ext4_xattr_ensure_credits,FUNC_7
+handle,VAR_0
+inode,VAR_1
+credits,VAR_2
+bh,VAR_3
+dirty,VAR_4
+block_csum,VAR_5
+error,VAR_6

@@ -1,0 +1,14 @@
+ESP_INTR_FLAG_LOWMED,VAR_0
+GET_TIMER_INFO,FUNC_0
+TIMER_SCALE,VAR_1
+test_timer_group_isr,VAR_2
+timer_enable_intr,FUNC_1
+timer_isr_register,FUNC_2
+timer_pause,FUNC_3
+timer_set_alarm_value,FUNC_4
+timer_set_counter_value,FUNC_5
+timer_start,FUNC_6
+tg_timer_init,FUNC_7
+timer_group,VAR_3
+timer_idx,VAR_4
+alarm_time,VAR_5

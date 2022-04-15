@@ -1,0 +1,11 @@
+BHND_CHIPC_GET_CAPS,FUNC_0
+BHND_SERVICE_CHIPC,VAR_0
+BHND_SERVICE_GPIO,VAR_1
+BHND_SERVICE_PMU,VAR_2
+ENXIO,VAR_3
+bhnd_retain_provider,FUNC_1
+bwn_release_bus_providers,FUNC_2
+device_printf,FUNC_3
+bwn_retain_bus_providers,FUNC_4
+sc,VAR_4
+ccaps,VAR_5

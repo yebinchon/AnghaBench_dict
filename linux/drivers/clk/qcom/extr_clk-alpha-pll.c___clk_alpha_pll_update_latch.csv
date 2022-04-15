@@ -1,0 +1,13 @@
+PLL_MODE,FUNC_0
+PLL_UPDATE,VAR_0
+PLL_UPDATE_BYPASS,VAR_1
+regmap_read,FUNC_1
+regmap_update_bits,FUNC_2
+udelay,FUNC_3
+wait_for_pll_update,FUNC_4
+wait_for_pll_update_ack_clear,FUNC_5
+wait_for_pll_update_ack_set,FUNC_6
+__clk_alpha_pll_update_latch,FUNC_7
+pll,VAR_2
+ret,VAR_3
+mode,VAR_4

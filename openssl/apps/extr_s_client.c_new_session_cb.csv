@@ -1,0 +1,14 @@
+BIO_free,FUNC_0
+BIO_new_file,FUNC_1
+BIO_printf,FUNC_2
+PEM_write_bio_SSL_SESSION,FUNC_3
+SSL_SESSION_print,FUNC_4
+SSL_version,FUNC_5
+TLS1_3_VERSION,VAR_0
+bio_c_out,VAR_1
+bio_err,VAR_2
+sess_out,VAR_3
+new_session_cb,FUNC_6
+s,VAR_4
+sess,VAR_5
+stmp,VAR_6

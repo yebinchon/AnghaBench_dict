@@ -1,0 +1,13 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_NEED_RESET,VAR_1
+do_vxge_close,FUNC_0
+netif_device_detach,FUNC_1
+netif_running,FUNC_2
+pci_channel_io_perm_failure,VAR_2
+pci_disable_device,FUNC_3
+pci_get_drvdata,FUNC_4
+vxge_io_error_detected,FUNC_5
+pdev,VAR_3
+state,VAR_4
+hldev,VAR_5
+netdev,VAR_6

@@ -1,0 +1,14 @@
+ACPI_INTR_PIC,VAR_0
+CTLFLAG_RW,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+acpi_SetIntrModel,FUNC_2
+acpi_apm_init,FUNC_3
+acpi_install_wakeup_handler,FUNC_4
+acpi_reset_video,VAR_3
+device_get_softc,FUNC_5
+intr_model,VAR_4
+acpi_machdep_init,FUNC_6
+dev,VAR_5
+sc,VAR_6

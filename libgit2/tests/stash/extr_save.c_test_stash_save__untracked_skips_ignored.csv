@@ -1,0 +1,13 @@
+GIT_STASH_INCLUDE_UNTRACKED,VAR_0
+cl_assert,FUNC_0
+cl_git_append2file,FUNC_1
+cl_git_mkfile,FUNC_2
+cl_git_pass,FUNC_3
+cl_must_pass,FUNC_4
+git_path_exists,FUNC_5
+git_stash_save,FUNC_6
+p_mkdir,FUNC_7
+repo,VAR_1
+signature,VAR_2
+stash_tip_oid,VAR_3
+test_stash_save__untracked_skips_ignored,FUNC_8

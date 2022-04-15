@@ -1,0 +1,10 @@
+CVMX_IRQ_UART0,VAR_0
+CVMX_MIO_UARTX_IER,FUNC_0
+cvmx_interrupt_register,FUNC_1
+cvmx_interrupt_unmask_irq,FUNC_2
+cvmx_read_csr,FUNC_3
+cvmx_write_csr,FUNC_4
+cvmx_uart_enable_intr,FUNC_5
+uart,VAR_1
+handler,VAR_2
+ier,VAR_3

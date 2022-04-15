@@ -1,0 +1,17 @@
+NETSEC_XDP_CONSUMED,VAR_0
+NETSEC_XDP_PASS,VAR_1
+NETSEC_XDP_REDIR,VAR_2
+NETSEC_XDP_TX,VAR_3
+bpf_prog_run_xdp,FUNC_0
+bpf_warn_invalid_xdp_action,FUNC_1
+netsec_xdp_xmit_back,FUNC_2
+trace_xdp_exception,FUNC_3
+xdp_do_redirect,FUNC_4
+xdp_return_buff,FUNC_5
+netsec_run_xdp,FUNC_6
+priv,VAR_4
+prog,VAR_5
+xdp,VAR_6
+ret,VAR_7
+err,VAR_8
+act,VAR_9

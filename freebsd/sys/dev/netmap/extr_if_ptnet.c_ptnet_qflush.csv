@@ -1,0 +1,12 @@
+PTNET_Q_LOCK,FUNC_0
+PTNET_Q_UNLOCK,FUNC_1
+buf_ring_dequeue_sc,FUNC_2
+if_getsoftc,FUNC_3
+if_qflush,FUNC_4
+m_freem,FUNC_5
+ptnet_qflush,FUNC_6
+ifp,VAR_0
+sc,VAR_1
+i,VAR_2
+pq,VAR_3
+m,VAR_4

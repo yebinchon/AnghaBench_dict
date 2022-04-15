@@ -1,0 +1,16 @@
+GIT_STATUS_OPTIONS_INIT,VAR_0
+GIT_STATUS_OPT_DISABLE_PATHSPEC_MATCH,VAR_1
+GIT_STATUS_OPT_INCLUDE_UNTRACKED,VAR_2
+cb_status__expected_path,VAR_3
+cl_git_mkfile,FUNC_0
+cl_git_pass,FUNC_1
+cl_set_cleanup,FUNC_2
+cleanup_new_repo,VAR_4
+git_repository_free,FUNC_3
+git_repository_init,FUNC_4
+git_status_foreach_ext,FUNC_5
+test_status_worktree_init__disable_pathspec_match,FUNC_6
+repo,VAR_5
+opts,VAR_6
+file_with_bracket,VAR_7
+imaginary_file_with_bracket,VAR_8

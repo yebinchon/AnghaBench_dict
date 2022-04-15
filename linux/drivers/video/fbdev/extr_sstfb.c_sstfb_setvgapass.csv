@@ -1,0 +1,16 @@
+DIS_VGA_PASSTHROUGH,VAR_0
+FBIINIT0,VAR_1
+PCI_EN_INIT_WR,VAR_2
+PCI_INIT_ENABLE,VAR_3
+fb_info,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+sst_read,FUNC_3
+sst_write,FUNC_4
+sstfb_setvgapass,FUNC_5
+info,VAR_4
+enable,VAR_5
+par,VAR_6
+sst_dev,VAR_7
+fbiinit0,VAR_8
+tmp,VAR_9

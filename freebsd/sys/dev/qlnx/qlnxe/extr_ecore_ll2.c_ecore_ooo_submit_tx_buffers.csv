@@ -1,0 +1,17 @@
+CORE_TX_BD_DATA_FORCE_VLAN_MODE,VAR_0
+CORE_TX_BD_DATA_L4_PROTOCOL,VAR_1
+ECORE_SUCCESS,VAR_2
+OSAL_MEM_ZERO,FUNC_0
+SET_FIELD,FUNC_1
+ecore_ll2_prepare_tx_packet,FUNC_2
+ecore_ooo_get_ready_buffer,FUNC_3
+ecore_ooo_put_ready_buffer,FUNC_4
+ecore_ooo_submit_tx_buffers,FUNC_5
+p_hwfn,VAR_3
+p_ll2_conn,VAR_4
+tx_pkt,VAR_5
+p_buffer,VAR_6
+first_frag,VAR_7
+l4_hdr_offset_w,VAR_8
+bd_flags,VAR_9
+rc,VAR_10

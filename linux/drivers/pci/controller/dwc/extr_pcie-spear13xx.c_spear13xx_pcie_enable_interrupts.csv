@@ -1,0 +1,11 @@
+CONFIG_PCI_MSI,VAR_0
+IS_ENABLED,FUNC_0
+MSI_CTRL_INT,VAR_1
+dw_pcie_msi_init,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+spear13xx_pcie_enable_interrupts,FUNC_4
+spear13xx_pcie,VAR_2
+pci,VAR_3
+pp,VAR_4
+app_reg,VAR_5

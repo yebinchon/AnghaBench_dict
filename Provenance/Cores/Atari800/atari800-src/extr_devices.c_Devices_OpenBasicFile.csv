@@ -1,0 +1,15 @@
+BINLOAD_bin_file,VAR_0
+CPU_ClrN,VAR_1
+CPU_regY,VAR_2
+CPU_rts_handler,VAR_3
+Devices_CloseBasicFile,VAR_4
+Devices_ReadBasicFile,VAR_5
+Devices_RestoreEHOPEN,VAR_6
+ESC_AddEscRts,FUNC_0
+ESC_EHCLOS,VAR_7
+ESC_EHREAD,VAR_8
+SEEK_SET,VAR_9
+ehclos_addr,VAR_10
+ehread_addr,VAR_11
+fseek,FUNC_1
+Devices_OpenBasicFile,FUNC_2

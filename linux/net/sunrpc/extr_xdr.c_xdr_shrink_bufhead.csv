@@ -1,0 +1,15 @@
+WARN_ON_ONCE,FUNC_0
+_copy_from_pages,FUNC_1
+_copy_to_pages,FUNC_2
+_shift_data_right_pages,FUNC_3
+memcpy,FUNC_4
+memmove,FUNC_5
+xdr_shrink_bufhead,FUNC_6
+buf,VAR_0
+len,VAR_1
+head,VAR_2
+tail,VAR_3
+copy,VAR_4
+offs,VAR_5
+pglen,VAR_6
+result,VAR_7

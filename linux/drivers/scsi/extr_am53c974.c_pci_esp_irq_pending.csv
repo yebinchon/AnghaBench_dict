@@ -1,0 +1,11 @@
+ESP_DMA_STATUS,VAR_0
+ESP_DMA_STAT_ABORT,VAR_1
+ESP_DMA_STAT_DONE,VAR_2
+ESP_DMA_STAT_ERROR,VAR_3
+ESP_DMA_STAT_SCSIINT,VAR_4
+esp_dma_log,FUNC_0
+pci_esp_get_priv,FUNC_1
+pci_esp_read8,FUNC_2
+pci_esp_irq_pending,FUNC_3
+esp,VAR_5
+pep,VAR_6

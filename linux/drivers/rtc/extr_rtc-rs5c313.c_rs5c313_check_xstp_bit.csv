@@ -1,0 +1,15 @@
+RS5C313_CEDISABLE,VAR_0
+RS5C313_CEENABLE,VAR_1
+RS5C313_CNTREG_ADJ_BSY,VAR_2
+RS5C313_CNTREG_WTEN_XSTP,VAR_3
+RS5C313_MISCOP,VAR_4
+memset,FUNC_0
+ndelay,FUNC_1
+pr_err,FUNC_2
+rs5c313_read_cntreg,FUNC_3
+rs5c313_rtc_set_time,FUNC_4
+rs5c313_write_cntreg,FUNC_5
+rs5c313_write_intintvreg,FUNC_6
+rs5c313_check_xstp_bit,FUNC_7
+tm,VAR_5
+cnt,VAR_6

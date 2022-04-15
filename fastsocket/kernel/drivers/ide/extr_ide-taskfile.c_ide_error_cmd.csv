@@ -1,0 +1,10 @@
+ATA_PROT_PIO,VAR_0
+IDE_TFLAG_FS,VAR_1
+IDE_TFLAG_MULTI_PIO,VAR_2
+IDE_TFLAG_WRITE,VAR_3
+SECTOR_SIZE,VAR_4
+ide_complete_rq,FUNC_0
+ide_error_cmd,FUNC_1
+drive,VAR_5
+cmd,VAR_6
+nr_bytes,VAR_7

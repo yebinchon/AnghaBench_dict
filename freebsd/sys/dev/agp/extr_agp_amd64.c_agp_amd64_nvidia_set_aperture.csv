@@ -1,0 +1,12 @@
+AGP_AMD64_NVIDIA_1_APLIMIT1,VAR_0
+AGP_AMD64_NVIDIA_1_APLIMIT2,VAR_1
+AGP_AMD64_NVIDIA_1_APSIZE,VAR_2
+EINVAL,VAR_3
+device_get_softc,FUNC_0
+pci_cfgregread,FUNC_1
+pci_cfgregwrite,FUNC_2
+agp_amd64_nvidia_set_aperture,FUNC_3
+dev,VAR_4
+aperture,VAR_5
+sc,VAR_6
+apsize,VAR_7

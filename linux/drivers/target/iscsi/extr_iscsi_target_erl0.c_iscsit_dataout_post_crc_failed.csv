@@ -1,0 +1,11 @@
+DATAOUT_CANNOT_RECOVER,VAR_0
+be32_to_cpu,FUNC_0
+iscsit_recover_dataout_sequence,FUNC_1
+ntoh24,FUNC_2
+iscsit_dataout_post_crc_failed,FUNC_3
+cmd,VAR_1
+buf,VAR_2
+conn,VAR_3
+pdu,VAR_4
+hdr,VAR_5
+payload_length,VAR_6

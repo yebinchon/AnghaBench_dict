@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+SLIPORT_CONTROL_OFFSET,VAR_1
+SLIPORT_STATUS_ERR_MASK,VAR_2
+SLIPORT_STATUS_OFFSET,VAR_3
+SLIPORT_STATUS_RN_MASK,VAR_4
+SLI_PORT_CONTROL_IP_MASK,VAR_5
+ioread32,FUNC_0
+iowrite32,FUNC_1
+lancer_provisioning_error,FUNC_2
+lancer_wait_ready,FUNC_3
+lancer_test_and_set_rdy_state,FUNC_4
+adapter,VAR_6
+status,VAR_7
+sliport_status,VAR_8
+err,VAR_9
+reset_needed,VAR_10
+resource_error,VAR_11

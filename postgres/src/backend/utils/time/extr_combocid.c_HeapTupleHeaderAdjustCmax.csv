@@ -1,0 +1,10 @@
+GetComboCommandId,FUNC_0
+HeapTupleHeaderGetCmin,FUNC_1
+HeapTupleHeaderGetRawXmin,FUNC_2
+HeapTupleHeaderXminCommitted,FUNC_3
+TransactionIdIsCurrentTransactionId,FUNC_4
+HeapTupleHeaderAdjustCmax,FUNC_5
+tup,VAR_0
+cmax,VAR_1
+iscombo,VAR_2
+cmin,VAR_3

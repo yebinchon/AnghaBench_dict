@@ -1,0 +1,17 @@
+CRLF_NUM_TEST_OBJECTS,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_sz,FUNC_1
+cl_git_pass,FUNC_2
+g_crlf_oids,VAR_1
+g_crlf_raw,VAR_2
+g_crlf_raw_len,VAR_3
+g_repo,VAR_4
+git_blob_free,FUNC_3
+git_blob_lookup,FUNC_4
+git_blob_rawcontent,FUNC_5
+git_blob_rawsize,FUNC_6
+memcmp,FUNC_7
+test_object_blob_filter__unfiltered,FUNC_8
+i,VAR_5
+blob,VAR_6
+raw_len,VAR_7

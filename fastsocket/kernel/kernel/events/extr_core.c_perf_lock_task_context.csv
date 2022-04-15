@@ -1,0 +1,11 @@
+atomic_inc_not_zero,FUNC_0
+rcu_dereference,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+perf_lock_task_context,FUNC_6
+task,VAR_0
+ctxn,VAR_1
+flags,VAR_2
+ctx,VAR_3

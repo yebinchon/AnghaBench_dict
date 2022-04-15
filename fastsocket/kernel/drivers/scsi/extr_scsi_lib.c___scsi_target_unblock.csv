@@ -1,0 +1,9 @@
+device_for_each_child,FUNC_0
+device_unblock,VAR_0
+scsi_is_target_device,FUNC_1
+starget_for_each_device,FUNC_2
+target_unblock,VAR_1
+to_scsi_target,FUNC_3
+__scsi_target_unblock,FUNC_4
+dev,VAR_2
+new_state,VAR_3

@@ -1,0 +1,16 @@
+MAX_VM_BIND_GROUP_COUNT,VAR_0
+THREAD_CONTINUE_NULL,VAR_1
+TH_OPT_SCHED_VM_GROUP,VAR_2
+assert,FUNC_0
+current_thread,FUNC_1
+master_processor,VAR_3
+sched_vm_group_list_lock,VAR_4
+sched_vm_group_thread_count,VAR_5
+sched_vm_group_thread_list,VAR_6
+simple_lock,FUNC_2
+simple_unlock,FUNC_3
+thread_bind,FUNC_4
+thread_block,FUNC_5
+thread_reference_internal,FUNC_6
+thread_vm_bind_group_add,FUNC_7
+self,VAR_7

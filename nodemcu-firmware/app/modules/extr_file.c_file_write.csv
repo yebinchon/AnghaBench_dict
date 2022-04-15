@@ -1,0 +1,13 @@
+GET_FILE_OBJ,VAR_0
+argpos,VAR_1
+fd,VAR_2
+luaL_checklstring,FUNC_0
+luaL_error,FUNC_1
+lua_pushboolean,FUNC_2
+lua_pushnil,FUNC_3
+vfs_write,FUNC_4
+file_write,FUNC_5
+L,VAR_3
+l,VAR_4
+rl,VAR_5
+s,VAR_6

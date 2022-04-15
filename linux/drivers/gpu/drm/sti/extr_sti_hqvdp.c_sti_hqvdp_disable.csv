@@ -1,0 +1,17 @@
+DRM_DEBUG_DRIVER,FUNC_0
+DRM_ERROR,FUNC_1
+HQVDP_MBX_INFO_XP70,VAR_0
+HQVDP_MBX_NEXT_CMD,VAR_1
+INFO_XP70_FW_READY,VAR_2
+POLL_DELAY_MS,VAR_3
+POLL_MAX_ATTEMPT,VAR_4
+STI_PLANE_DISABLED,VAR_5
+clk_disable_unprepare,FUNC_2
+msleep,FUNC_3
+readl,FUNC_4
+sti_plane_to_str,FUNC_5
+sti_vtg_unregister_client,FUNC_6
+writel,FUNC_7
+sti_hqvdp_disable,FUNC_8
+hqvdp,VAR_6
+i,VAR_7

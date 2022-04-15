@@ -1,0 +1,14 @@
+SD_EMMC_PRE_REQ_DONE,VAR_0
+SD_EMMC_START,VAR_1
+meson_mmc_desc_chain_mode,FUNC_0
+meson_mmc_get_transfer_mode,FUNC_1
+meson_mmc_post_req,FUNC_2
+meson_mmc_pre_req,FUNC_3
+meson_mmc_start_cmd,FUNC_4
+mmc_priv,FUNC_5
+writel,FUNC_6
+meson_mmc_request,FUNC_7
+mmc,VAR_2
+mrq,VAR_3
+host,VAR_4
+needs_pre_post_req,VAR_5

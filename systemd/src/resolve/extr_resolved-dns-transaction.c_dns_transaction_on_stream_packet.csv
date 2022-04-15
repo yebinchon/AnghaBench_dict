@@ -1,0 +1,13 @@
+DNS_TRANSACTION_INVALID_REPLY,VAR_0
+DNS_TRANSACTION_PENDING,VAR_1
+assert,FUNC_0
+dns_packet_validate_reply,FUNC_1
+dns_scope_check_conflicts,FUNC_2
+dns_transaction_close_connection,FUNC_3
+dns_transaction_complete,FUNC_4
+dns_transaction_gc,FUNC_5
+dns_transaction_process_reply,FUNC_6
+log_debug,FUNC_7
+dns_transaction_on_stream_packet,FUNC_8
+t,VAR_2
+p,VAR_3

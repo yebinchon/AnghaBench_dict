@@ -1,0 +1,15 @@
+ASSERT_EXIT_CRIT_RETURN,FUNC_0
+ESP_ERROR_CHECK,FUNC_1
+ESP_ERR_INVALID_STATE,VAR_0
+ESP_ERR_NOT_FOUND,VAR_1
+ESP_OK,VAR_2
+TIMERG0,VAR_3
+esp_intr_free,FUNC_2
+free,FUNC_3
+portENTER_CRITICAL,FUNC_4
+portEXIT_CRITICAL,FUNC_5
+timer_ll_wdt_set_enable,FUNC_6
+timer_ll_wdt_set_protect,FUNC_7
+twdt_config,VAR_4
+twdt_spinlock,VAR_5
+esp_task_wdt_deinit,FUNC_8

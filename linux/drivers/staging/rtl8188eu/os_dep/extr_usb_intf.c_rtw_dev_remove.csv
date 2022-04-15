@@ -1,0 +1,16 @@
+IPS_NONE,VAR_0
+LeaveAllPowerSaveMode,FUNC_0
+PS_MODE_ACTIVE,VAR_1
+RT_TRACE,FUNC_1
+_drv_err_,VAR_2
+_module_hci_intfs_c_,VAR_3
+pr_debug,FUNC_2
+rtw_pm_set_ips,FUNC_3
+rtw_pm_set_lps,FUNC_4
+rtw_usb_if1_deinit,FUNC_5
+usb_dvobj_deinit,FUNC_6
+usb_get_intfdata,FUNC_7
+rtw_dev_remove,FUNC_8
+pusb_intf,VAR_4
+dvobj,VAR_5
+padapter,VAR_6

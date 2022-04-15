@@ -1,0 +1,13 @@
+HDMI_I2CM_ADDRESS,VAR_0
+HDMI_I2CM_DATAO,VAR_1
+HDMI_I2CM_OPERATION,VAR_2
+HDMI_I2CM_OPERATION_WRITE,VAR_3
+dw_hdmi_i2c_wait,FUNC_0
+hdmi_writeb,FUNC_1
+reinit_completion,FUNC_2
+dw_hdmi_i2c_write,FUNC_3
+hdmi,VAR_4
+buf,VAR_5
+length,VAR_6
+i2c,VAR_7
+ret,VAR_8

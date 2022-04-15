@@ -1,0 +1,11 @@
+COMBPHY_MODE_PCIE,VAR_0
+COMBPHY_MODE_SATA,VAR_1
+COMBPHY_MODE_USB3,VAR_2
+EINVAL,VAR_3
+is_mode_fixed,FUNC_0
+regmap_update_bits,FUNC_1
+histb_combphy_set_mode,FUNC_2
+priv,VAR_4
+mode,VAR_5
+syscon,VAR_6
+hw_sel,VAR_7

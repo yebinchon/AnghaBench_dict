@@ -1,0 +1,17 @@
+FE_REG_FE_DMA_VID_BASE,VAR_0
+NETIF_F_HW_VLAN_CTAG_TX,VAR_1
+fe_r32,FUNC_0
+fe_reg_table,VAR_2
+fe_w32,FUNC_1
+netdev_priv,FUNC_2
+netdev_update_features,FUNC_3
+netdev_warn,FUNC_4
+set_bit,FUNC_5
+test_bit,FUNC_6
+fe_vlan_rx_add_vid,FUNC_7
+dev,VAR_3
+proto,VAR_4
+vid,VAR_5
+priv,VAR_6
+idx,VAR_7
+vlan_cfg,VAR_8

@@ -1,0 +1,14 @@
+IPMI_WATCH_MASK_CHECK_MESSAGES,VAR_0
+SSIF_WATCH_MSG_TIMEOUT,VAR_1
+SSIF_WATCH_WATCHDOG_TIMEOUT,VAR_2
+ipmi_ssif_lock_cond,FUNC_0
+ipmi_ssif_unlock_cond,FUNC_1
+jiffies,VAR_3
+mod_timer,FUNC_2
+ssif_set_need_watch,FUNC_3
+send_info,VAR_4
+watch_mask,VAR_5
+ssif_info,VAR_6
+oflags,VAR_7
+flags,VAR_8
+timeout,VAR_9

@@ -1,0 +1,16 @@
+X86BIOS_PHYSTOOFF,FUNC_0
+X86BIOS_PHYSTOSEG,FUNC_1
+bcopy,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+vesa_lock,VAR_0
+vesa_state,VAR_1
+vesa_state_buf,VAR_2
+vesa_state_buf_offs,VAR_3
+vesa_state_buf_size,VAR_4
+x86bios_init_regs,FUNC_5
+x86bios_intr,FUNC_6
+vesa_bios_save_restore,FUNC_7
+code,VAR_5
+p,VAR_6
+regs,VAR_7

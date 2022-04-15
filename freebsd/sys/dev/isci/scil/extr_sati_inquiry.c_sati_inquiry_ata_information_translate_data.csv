@@ -1,0 +1,14 @@
+ATA_IDENTIFY_DEVICE_GET_OFFSET,FUNC_0
+FALSE,VAR_0
+SATI_SEQUENCE_INCOMPLETE,VAR_1
+SATI_SEQUENCE_STATE_INCOMPLETE,VAR_2
+SCSI_INQUIRY_ATA_INFORMATION_PAGE,VAR_3
+TRUE,VAR_4
+model_number,VAR_5
+sati_ata_identify_device_copy_data,FUNC_1
+sati_inquiry_construct_product_revision,FUNC_2
+sati_set_data_byte,FUNC_3
+sati_inquiry_ata_information_translate_data,FUNC_4
+sequence,VAR_6
+ata_input_data,VAR_7
+scsi_io,VAR_8

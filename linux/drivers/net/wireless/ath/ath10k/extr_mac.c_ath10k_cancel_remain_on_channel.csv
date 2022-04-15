@@ -1,0 +1,10 @@
+ath10k_scan_abort,FUNC_0
+cancel_delayed_work_sync,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+ath10k_cancel_remain_on_channel,FUNC_6
+hw,VAR_0
+vif,VAR_1
+ar,VAR_2

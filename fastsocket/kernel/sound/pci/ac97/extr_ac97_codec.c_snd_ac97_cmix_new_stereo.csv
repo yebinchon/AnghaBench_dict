@@ -1,0 +1,17 @@
+check_volume_resolution,FUNC_0
+snd_ac97_cmute_new_stereo,FUNC_1
+snd_ac97_cvol_new,FUNC_2
+snd_ac97_try_bit,FUNC_3
+snd_ac97_valid_reg,FUNC_4
+sprintf,FUNC_5
+snd_ac97_cmix_new_stereo,FUNC_6
+card,VAR_0
+pfx,VAR_1
+reg,VAR_2
+check_stereo,VAR_3
+check_amix,VAR_4
+ac97,VAR_5
+err,VAR_6
+name,VAR_7
+lo_max,VAR_8
+hi_max,VAR_9

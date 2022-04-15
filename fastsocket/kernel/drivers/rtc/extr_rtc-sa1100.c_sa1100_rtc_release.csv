@@ -1,0 +1,14 @@
+IRQ_OST1,VAR_0
+IRQ_RTC1Hz,VAR_1
+IRQ_RTCAlrm,VAR_2
+OIER,VAR_3
+OIER_E1,VAR_4
+OSSR,VAR_5
+OSSR_M1,VAR_6
+RTSR,VAR_7
+free_irq,FUNC_0
+sa1100_rtc_lock,VAR_8
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+sa1100_rtc_release,FUNC_3
+dev,VAR_9

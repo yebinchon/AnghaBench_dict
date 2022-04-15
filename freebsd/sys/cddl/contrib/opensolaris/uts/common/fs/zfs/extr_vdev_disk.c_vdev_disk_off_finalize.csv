@@ -1,0 +1,15 @@
+B_TRUE,VAR_0
+LDI_EV_OFFLINE,VAR_1
+LDI_EV_SUCCESS,VAR_2
+SPA_ASYNC_PROBE,VAR_3
+ldi_ev_get_type,FUNC_0
+spa_async_request,FUNC_1
+strcmp,FUNC_2
+vdev_disk_free,FUNC_3
+vdev_disk_off_finalize,FUNC_4
+lh,VAR_4
+ecookie,VAR_5
+ldi_result,VAR_6
+arg,VAR_7
+ev_data,VAR_8
+vd,VAR_9

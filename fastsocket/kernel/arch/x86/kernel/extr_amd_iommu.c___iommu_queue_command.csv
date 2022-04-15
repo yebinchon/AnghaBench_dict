@@ -1,0 +1,14 @@
+CMD_BUFFER_UNINITIALIZED,VAR_0
+ENOMEM,VAR_1
+MMIO_CMD_HEAD_OFFSET,VAR_2
+MMIO_CMD_TAIL_OFFSET,VAR_3
+WARN_ON,FUNC_0
+memcpy_toio,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+__iommu_queue_command,FUNC_4
+iommu,VAR_4
+cmd,VAR_5
+tail,VAR_6
+head,VAR_7
+target,VAR_8

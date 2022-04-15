@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+IMX2_WDT_MAX_TIME,VAR_1
+IMX2_WDT_WICR,VAR_2
+IMX2_WDT_WICR_WICT,VAR_3
+IMX2_WDT_WICR_WIE,VAR_4
+regmap_update_bits,FUNC_0
+watchdog_get_drvdata,FUNC_1
+imx2_wdt_set_pretimeout,FUNC_2
+wdog,VAR_5
+new_pretimeout,VAR_6
+wdev,VAR_7

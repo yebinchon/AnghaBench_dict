@@ -1,0 +1,16 @@
+BUS_SPACE_MAXADDR,VAR_0
+BUS_SPACE_MAXADDR_32BIT,VAR_1
+CS461x_BUFFSIZE,VAR_2
+Giant,VAR_3
+RF_ACTIVE,VAR_4
+RF_SHAREABLE,VAR_5
+SYS_RES_IRQ,VAR_6
+SYS_RES_MEMORY,VAR_7
+bus_alloc_resource_any,FUNC_0
+bus_dma_tag_create,FUNC_1
+bus_get_dma_tag,FUNC_2
+busdma_lock_mutex,VAR_8
+csa_allocres,FUNC_3
+csa,VAR_9
+dev,VAR_10
+resp,VAR_11

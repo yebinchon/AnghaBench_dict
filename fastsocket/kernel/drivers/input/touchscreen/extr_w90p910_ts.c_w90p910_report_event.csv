@@ -1,0 +1,11 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+__raw_readl,FUNC_0
+input_report_abs,FUNC_1
+input_report_key,FUNC_2
+input_sync,FUNC_3
+w90p910_report_event,FUNC_4
+w90p910_ts,VAR_3
+down,VAR_4
+dev,VAR_5

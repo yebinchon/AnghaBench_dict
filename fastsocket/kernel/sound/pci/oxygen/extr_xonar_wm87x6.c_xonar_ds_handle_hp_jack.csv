@@ -1,0 +1,17 @@
+GPIO_DS_HP_DETECT,VAR_0
+GPIO_DS_OUTPUT_FRONTLR,VAR_1
+OXYGEN_GPIO_DATA,VAR_2
+SND_JACK_HEADPHONE,VAR_3
+WM8766_DAC_CTRL,VAR_4
+WM8766_MUTEALL,VAR_5
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+oxygen_read16,FUNC_2
+oxygen_write16_masked,FUNC_3
+snd_jack_report,FUNC_4
+wm8766_write_cached,FUNC_5
+xonar_ds_handle_hp_jack,FUNC_6
+chip,VAR_6
+data,VAR_7
+hp_plugged,VAR_8
+reg,VAR_9

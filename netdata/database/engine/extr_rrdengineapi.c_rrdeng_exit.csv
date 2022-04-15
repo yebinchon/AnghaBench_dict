@@ -1,0 +1,14 @@
+RRDENG_FD_BUDGET_PER_INSTANCE,VAR_0
+RRDENG_SHUTDOWN,VAR_1
+assert,FUNC_0
+default_global_ctx,VAR_2
+finalize_rrd_files,FUNC_1
+free_page_cache,FUNC_2
+freez,FUNC_3
+rrd_stat_atomic_add,FUNC_4
+rrdeng_enq_cmd,FUNC_5
+rrdeng_reserved_file_descriptors,VAR_3
+uv_thread_join,FUNC_6
+rrdeng_exit,FUNC_7
+ctx,VAR_4
+cmd,VAR_5

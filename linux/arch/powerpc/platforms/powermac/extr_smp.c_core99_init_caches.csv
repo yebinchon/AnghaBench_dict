@@ -1,0 +1,12 @@
+CPU_FTR_L2CR,VAR_0
+CPU_FTR_L3CR,VAR_1
+_get_L2CR,FUNC_0
+_get_L3CR,FUNC_1
+_set_L2CR,FUNC_2
+_set_L3CR,FUNC_3
+core99_l2_cache,VAR_2
+core99_l3_cache,VAR_3
+cpu_has_feature,FUNC_4
+printk,FUNC_5
+core99_init_caches,FUNC_6
+cpu,VAR_4

@@ -1,0 +1,12 @@
+XICS_IRQ_SPURIOUS,VAR_0
+icp_native_get_xirr,FUNC_0
+icp_native_set_xirr,FUNC_1
+irq_find_mapping,FUNC_2
+likely,FUNC_3
+xics_host,VAR_1
+xics_mask_unknown_vec,FUNC_4
+xics_push_cppr,FUNC_5
+icp_native_get_irq,FUNC_6
+xirr,VAR_2
+vec,VAR_3
+irq,VAR_4

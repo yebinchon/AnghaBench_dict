@@ -1,0 +1,13 @@
+BRCMF_PCIE_BAR0_WINDOW,VAR_0
+brcmf_chip_get_core,FUNC_0
+brcmf_err,FUNC_1
+dev_get_drvdata,FUNC_2
+pci_read_config_dword,FUNC_3
+pci_write_config_dword,FUNC_4
+brcmf_pcie_select_core,FUNC_5
+devinfo,VAR_1
+coreid,VAR_2
+pdev,VAR_3
+bus,VAR_4
+core,VAR_5
+bar0_win,VAR_6

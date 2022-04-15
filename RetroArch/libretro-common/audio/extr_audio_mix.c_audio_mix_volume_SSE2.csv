@@ -1,0 +1,16 @@
+_mm_add_ps,FUNC_0
+_mm_loadu_ps,FUNC_1
+_mm_mul_ps,FUNC_2
+_mm_set1_ps,FUNC_3
+_mm_storeu_ps,FUNC_4
+audio_mix_volume_C,FUNC_5
+audio_mix_volume_SSE2,FUNC_6
+out,VAR_0
+in,VAR_1
+vol,VAR_2
+samples,VAR_3
+i,VAR_4
+volume,VAR_5
+j,VAR_6
+input,VAR_7
+additive,VAR_8

@@ -1,0 +1,16 @@
+DID_BAD_TARGET,VAR_0
+__ata_scsi_queuecmd,FUNC_0
+ata_scsi_dump_cdb,FUNC_1
+ata_scsi_find_dev,FUNC_2
+ata_shost_to_port,FUNC_3
+likely,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ata_scsi_queuecmd,FUNC_7
+cmd,VAR_1
+done,VAR_2
+ap,VAR_3
+dev,VAR_4
+scsidev,VAR_5
+shost,VAR_6
+rc,VAR_7

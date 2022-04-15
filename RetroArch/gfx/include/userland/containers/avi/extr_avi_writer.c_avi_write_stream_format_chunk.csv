@@ -1,0 +1,15 @@
+AVI_END_CHUNK,FUNC_0
+STREAM_STATUS,FUNC_1
+VC_CONTAINER_ES_TYPE_AUDIO,VAR_0
+VC_CONTAINER_ES_TYPE_VIDEO,VAR_1
+VC_CONTAINER_SUCCESS,VAR_2
+VC_FOURCC,FUNC_2
+WRITE_FOURCC,FUNC_3
+WRITE_U32,FUNC_4
+vc_container_write_bitmapinfoheader,FUNC_5
+vc_container_write_waveformatex,FUNC_6
+avi_write_stream_format_chunk,FUNC_7
+p_ctx,VAR_3
+track,VAR_4
+chunk_size,VAR_5
+status,VAR_6

@@ -1,0 +1,10 @@
+lis3l02dq_spi_read_reg_8,FUNC_0
+sprintf,FUNC_1
+to_iio_dev_attr,FUNC_2
+lis3l02dq_read_unsigned,FUNC_3
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+ret,VAR_3
+val,VAR_4
+this_attr,VAR_5

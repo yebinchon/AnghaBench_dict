@@ -1,0 +1,14 @@
+BUS_RELEASE_RESOURCE,FUNC_0
+PCI_RES_BUS,VAR_0
+SYS_RES_IOPORT,VAR_1
+SYS_RES_MEMORY,VAR_2
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+pci_domain_release_bus,FUNC_3
+rman_release_resource,FUNC_4
+mv_pcib_release_resource,FUNC_5
+dev,VAR_3
+child,VAR_4
+type,VAR_5
+rid,VAR_6
+res,VAR_7

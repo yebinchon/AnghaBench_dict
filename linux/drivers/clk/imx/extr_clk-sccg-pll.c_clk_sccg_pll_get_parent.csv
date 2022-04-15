@@ -1,0 +1,10 @@
+PLL_CFG0,VAR_0
+SSCG_PLL_BYPASS1_MASK,VAR_1
+SSCG_PLL_BYPASS2_MASK,VAR_2
+readl,FUNC_0
+to_clk_sccg_pll,FUNC_1
+clk_sccg_pll_get_parent,FUNC_2
+hw,VAR_3
+pll,VAR_4
+val,VAR_5
+ret,VAR_6

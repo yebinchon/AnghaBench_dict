@@ -1,0 +1,16 @@
+CPU_CLR,FUNC_0
+CPU_CMP,FUNC_1
+CPU_EMPTY,FUNC_2
+CPU_NAND,FUNC_3
+PCPU_GET,FUNC_4
+all_cpus,VAR_0
+cpuid,VAR_1
+critical_enter,FUNC_5
+critical_exit,FUNC_6
+printf,FUNC_7
+shutdown_cpus,VAR_2
+stop_cpus,FUNC_8
+stopped_cpus,VAR_3
+cpu_mp_shutdown,FUNC_9
+cpus,VAR_4
+i,VAR_5

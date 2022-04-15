@@ -1,0 +1,11 @@
+IOP_REQUEST_FLAG_OUTPUT_CONTEXT,VAR_0
+IOP_REQUEST_TYPE_GET_CONFIG,VAR_1
+IOP_RESULT_PENDING,VAR_2
+cpu_to_le32,FUNC_0
+dprintk,FUNC_1
+iop_send_sync_request_mv,FUNC_2
+memcpy,FUNC_3
+iop_get_config_mv,FUNC_4
+hba,VAR_3
+config,VAR_4
+req,VAR_5

@@ -1,0 +1,12 @@
+GUEST_IA32_EFER,VAR_0
+MSR_EFER,VAR_1
+VM_ENTRY_LOAD_IA32_EFER,VAR_2
+cpu_has_load_ia32_efer,FUNC_0
+find_msr_entry,FUNC_1
+host_efer,VAR_3
+vm_entry_controls_get,FUNC_2
+vmcs_read64,FUNC_3
+nested_vmx_get_vmcs01_guest_efer,FUNC_4
+vmx,VAR_4
+efer_msr,VAR_5
+i,VAR_6

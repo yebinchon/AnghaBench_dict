@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+QED_CHAIN_CNT_TYPE_U16,VAR_2
+QED_CHAIN_MODE_SINGLE,VAR_3
+QED_CHAIN_USE_TO_PRODUCE,VAR_4
+dma_alloc_coherent,FUNC_0
+kfree,FUNC_1
+kzalloc,FUNC_2
+qed_chain_alloc,FUNC_3
+qed_chain_free,FUNC_4
+qed_chain_get_capacity,FUNC_5
+qed_spq_alloc,FUNC_6
+p_hwfn,VAR_5
+p_virt,VAR_6
+p_spq,VAR_7
+p_phys,VAR_8
+capacity,VAR_9

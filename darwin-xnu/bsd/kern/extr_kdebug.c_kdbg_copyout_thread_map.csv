@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENODATA,VAR_1
+KDBG_MAPINIT,VAR_2
+assert,FUNC_0
+copyout,FUNC_1
+kd_ctrl_page,VAR_3
+kd_mapcount,VAR_4
+kd_mapptr,VAR_5
+kdbg_clear_thread_map,FUNC_2
+ktrace_assert_lock_held,FUNC_3
+kdbg_copyout_thread_map,FUNC_4
+buffer,VAR_6
+buffer_size,VAR_7
+map_initialized,VAR_8
+map_size,VAR_9
+ret,VAR_10

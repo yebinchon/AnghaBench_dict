@@ -1,0 +1,11 @@
+REG_DSI_10nm_PHY_CMN_PLL_CNTRL,VAR_0
+dsi_pll_disable_global_clk,FUNC_0
+dsi_pll_disable_sub,FUNC_1
+hw_clk_to_pll,FUNC_2
+pll_write,FUNC_3
+to_pll_10nm,FUNC_4
+wmb,FUNC_5
+dsi_pll_10nm_vco_unprepare,FUNC_6
+hw,VAR_1
+pll,VAR_2
+pll_10nm,VAR_3

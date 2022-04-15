@@ -1,0 +1,10 @@
+RADEON_CP_CSQ_CNTL,VAR_0
+RADEON_CP_CSQ_MODE,VAR_1
+RADEON_RING_TYPE_GFX_INDEX,VAR_2
+R_000770_SCRATCH_UMSK,VAR_3
+WREG32,FUNC_0
+pr_warn,FUNC_1
+r100_gui_wait_for_idle,FUNC_2
+radeon_ttm_set_active_vram_size,FUNC_3
+r100_cp_disable,FUNC_4
+rdev,VAR_4

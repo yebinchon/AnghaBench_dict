@@ -1,0 +1,15 @@
+I2C_CR,VAR_0
+I2C_CR_PE,VAR_1
+amba_get_drvdata,FUNC_0
+clear_all_interrupts,FUNC_1
+clk_disable_unprepare,FUNC_2
+disable_all_interrupts,FUNC_3
+flush_i2c_fifo,FUNC_4
+i2c_clr_bit,FUNC_5
+i2c_del_adapter,FUNC_6
+release_mem_region,FUNC_7
+resource_size,FUNC_8
+nmk_i2c_remove,FUNC_9
+adev,VAR_2
+res,VAR_3
+dev,VAR_4

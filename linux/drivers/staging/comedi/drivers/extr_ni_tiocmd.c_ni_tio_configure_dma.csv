@@ -1,0 +1,16 @@
+GI_DMA_ENABLE,VAR_0
+GI_DMA_INT_ENA,VAR_1
+GI_DMA_WRITE,VAR_2
+GI_READ_ACKS_IRQ,VAR_3
+GI_WRITE_ACKS_IRQ,VAR_4
+NITIO_DMA_CFG_REG,FUNC_0
+NITIO_INPUT_SEL_REG,FUNC_1
+ni_tio_set_bits,FUNC_2
+ni_tio_configure_dma,FUNC_3
+counter,VAR_5
+enable,VAR_6
+read,VAR_7
+counter_dev,VAR_8
+cidx,VAR_9
+mask,VAR_10
+bits,VAR_11

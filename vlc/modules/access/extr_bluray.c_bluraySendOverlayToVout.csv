@@ -1,0 +1,16 @@
+BLURAY_ES_OUT_CONTROL_CREATE_OVERLAY,VAR_0
+Outdated,VAR_1
+VLC_SUCCESS,VAR_2
+assert,FUNC_0
+bluraySubpictureCreate,FUNC_1
+es_out_Control,FUNC_2
+msg_Err,FUNC_3
+subpicture_Delete,FUNC_4
+unref_subpicture_updater,FUNC_5
+bluraySendOverlayToVout,FUNC_6
+p_demux,VAR_3
+plane,VAR_4
+p_ov,VAR_5
+p_sys,VAR_6
+p_pic,VAR_7
+ret,VAR_8

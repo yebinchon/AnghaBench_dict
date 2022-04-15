@@ -1,0 +1,15 @@
+SPI_RECEIVE_BUFFER_REG,VAR_0
+SPI_RECEIVE_CONTROL_REG,VAR_1
+SPI_TRANSMIT_BUFFER_REG,VAR_2
+SPI_TRANSMIT_CONTROL_REG,VAR_3
+cns3xxx_spi_bus_idle,FUNC_0
+cns3xxx_spi_rx_buffer_full,FUNC_1
+cns3xxx_spi_tx_buffer_empty,FUNC_2
+cns3xxx_spi_tx_rx,FUNC_3
+hw,VAR_4
+tx_channel,VAR_5
+tx_eof,VAR_6
+tx_data,VAR_7
+rx_data,VAR_8
+rx_channel,VAR_9
+rx_eof,VAR_10

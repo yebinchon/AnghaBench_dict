@@ -1,0 +1,13 @@
+P2P_GROUP_CAPAB_IP_ADDR_ALLOCATION,VAR_0
+P2P_IE_VENDOR_TYPE,VAR_1
+os_memset,FUNC_0
+p2p_get_group_capab,FUNC_1
+wpa_bss_get_fils_cache_id,FUNC_2
+wpa_bss_get_vendor_ie_multi,FUNC_3
+wpa_key_mgmt_fils,FUNC_4
+wpa_sm_set_config,FUNC_5
+wpabuf_free,FUNC_6
+wpa_supplicant_rsn_supp_set_config,FUNC_7
+wpa_s,VAR_2
+ssid,VAR_3
+conf,VAR_4

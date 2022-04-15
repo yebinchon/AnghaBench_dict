@@ -1,0 +1,15 @@
+IRQD_IRQ_INPROGRESS,VAR_0
+IRQS_PENDING,VAR_1
+IRQS_REPLAY,VAR_2
+IRQS_WAITING,VAR_3
+__handle_irq_event_percpu,FUNC_0
+irq_may_run,FUNC_1
+irqd_clear,FUNC_2
+irqd_irq_disabled,FUNC_3
+irqd_set,FUNC_4
+raw_spin_lock,FUNC_5
+raw_spin_unlock,FUNC_6
+unlikely,FUNC_7
+handle_untracked_irq,FUNC_8
+desc,VAR_4
+flags,VAR_5

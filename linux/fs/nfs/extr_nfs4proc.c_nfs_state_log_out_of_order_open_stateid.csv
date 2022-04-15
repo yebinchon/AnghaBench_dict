@@ -1,0 +1,9 @@
+NFS_STATE_CHANGE_WAIT,VAR_0
+be32_to_cpu,FUNC_0
+nfs_state_log_update_open_stateid,FUNC_1
+set_bit,FUNC_2
+nfs_state_log_out_of_order_open_stateid,FUNC_3
+state,VAR_1
+stateid,VAR_2
+state_seqid,VAR_3
+stateid_seqid,VAR_4

@@ -1,0 +1,16 @@
+DE4X5_RRBA,VAR_0
+DE4X5_TRBA,VAR_1
+NUM_RX_DESC,VAR_2
+R_OWN,VAR_3
+START_DE4X5,VAR_4
+STOP_DE4X5,VAR_5
+barrier,FUNC_0
+cpu_to_le32,FUNC_1
+netdev_priv,FUNC_2
+outl,FUNC_3
+de4x5_rst_desc_ring,FUNC_4
+dev,VAR_6
+lp,VAR_7
+iobase,VAR_8
+i,VAR_9
+omr,VAR_10

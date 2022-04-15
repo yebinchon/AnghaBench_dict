@@ -1,0 +1,10 @@
+RF_ACTIVE,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_alloc_resource_any,FUNC_0
+bus_release_resource,FUNC_1
+device_printf,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+rman_get_virtual,FUNC_5
+hptiop_alloc_pci_res_mv,FUNC_6
+hba,VAR_2

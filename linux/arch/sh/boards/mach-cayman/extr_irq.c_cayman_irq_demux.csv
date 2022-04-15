@@ -1,0 +1,14 @@
+EPLD_MASK_BASE,VAR_0
+EPLD_STATUS_BASE,VAR_1
+PCI2_IRQ,VAR_2
+SMSC_IRQ,VAR_3
+START_EXT_IRQS,VAR_4
+__raw_readl,FUNC_0
+intc_evt_to_irq,VAR_5
+cayman_irq_demux,FUNC_1
+evt,VAR_6
+irq,VAR_7
+status,VAR_8
+i,VAR_9
+status,VAR_10
+i,VAR_11

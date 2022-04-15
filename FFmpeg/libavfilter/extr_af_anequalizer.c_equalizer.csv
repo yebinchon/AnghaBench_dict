@@ -1,0 +1,14 @@
+FILTER_ORDER,VAR_0
+butterworth_bp_filter,FUNC_0
+butterworth_compute_bw_gain_db,FUNC_1
+chebyshev1_bp_filter,FUNC_2
+chebyshev1_compute_bw_gain_db,FUNC_3
+chebyshev2_bp_filter,FUNC_4
+chebyshev2_compute_bw_gain_db,FUNC_5
+hz_2_rad,FUNC_6
+equalizer,FUNC_7
+f,VAR_1
+sample_rate,VAR_2
+w0,VAR_3
+wb,VAR_4
+bw_gain,VAR_5

@@ -1,0 +1,15 @@
+TPM2_CAP_TPM_PROPERTIES,VAR_0
+TPM2_CC_GET_CAPABILITY,VAR_1
+TPM2_ST_NO_SESSIONS,VAR_2
+TPM_CHIP_FLAG_TPM2,VAR_3
+TPM_PT_TOTAL_COMMANDS,VAR_4
+be16_to_cpu,FUNC_0
+tpm_buf_append_u32,FUNC_1
+tpm_buf_destroy,FUNC_2
+tpm_buf_init,FUNC_3
+tpm_transmit_cmd,FUNC_4
+tpm2_probe,FUNC_5
+chip,VAR_5
+out,VAR_6
+buf,VAR_7
+rc,VAR_8

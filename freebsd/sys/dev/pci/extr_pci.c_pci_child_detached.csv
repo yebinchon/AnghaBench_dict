@@ -1,0 +1,14 @@
+PCI_RES_BUS,VAR_0
+SYS_RES_IOPORT,VAR_1
+SYS_RES_IRQ,VAR_2
+SYS_RES_MEMORY,VAR_3
+device_get_ivars,FUNC_0
+pci_cfg_save,FUNC_1
+pci_printf,FUNC_2
+pci_release_msi,FUNC_3
+resource_list_release_active,FUNC_4
+pci_child_detached,FUNC_5
+dev,VAR_4
+child,VAR_5
+dinfo,VAR_6
+rl,VAR_7

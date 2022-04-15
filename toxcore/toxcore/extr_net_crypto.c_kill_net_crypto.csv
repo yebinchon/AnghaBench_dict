@@ -1,0 +1,14 @@
+NET_PACKET_COOKIE_REQUEST,VAR_0
+NET_PACKET_COOKIE_RESPONSE,VAR_1
+NET_PACKET_CRYPTO_DATA,VAR_2
+NET_PACKET_CRYPTO_HS,VAR_3
+bs_list_free,FUNC_0
+crypto_kill,FUNC_1
+free,FUNC_2
+kill_tcp_connections,FUNC_3
+networking_registerhandler,FUNC_4
+pthread_mutex_destroy,FUNC_5
+sodium_memzero,FUNC_6
+kill_net_crypto,FUNC_7
+c,VAR_4
+i,VAR_5

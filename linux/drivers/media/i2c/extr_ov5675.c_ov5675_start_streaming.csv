@@ -1,0 +1,15 @@
+OV5675_MODE_STREAMING,VAR_0
+OV5675_REG_MODE_SELECT,VAR_1
+OV5675_REG_VALUE_08BIT,VAR_2
+__v4l2_ctrl_handler_setup,FUNC_0
+dev_err,FUNC_1
+link_freq_configs,VAR_3
+ov5675_write_reg,FUNC_2
+ov5675_write_reg_list,FUNC_3
+v4l2_get_subdevdata,FUNC_4
+ov5675_start_streaming,FUNC_5
+ov5675,VAR_4
+client,VAR_5
+reg_list,VAR_6
+link_freq_index,VAR_7
+ret,VAR_8

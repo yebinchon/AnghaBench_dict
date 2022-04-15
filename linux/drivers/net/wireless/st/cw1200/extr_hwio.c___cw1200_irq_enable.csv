@@ -1,0 +1,15 @@
+HIF_8601_SILICON,VAR_0
+ST90TDS_CONFIG_REG_ID,VAR_1
+ST90TDS_CONF_IRQ_RDY_ENABLE,VAR_2
+ST90TDS_CONT_IRQ_RDY_ENABLE,VAR_3
+__cw1200_reg_read_16,FUNC_0
+__cw1200_reg_read_32,FUNC_1
+__cw1200_reg_write_16,FUNC_2
+__cw1200_reg_write_32,FUNC_3
+pr_err,FUNC_4
+__cw1200_irq_enable,FUNC_5
+priv,VAR_4
+enable,VAR_5
+val32,VAR_6
+val16,VAR_7
+ret,VAR_8

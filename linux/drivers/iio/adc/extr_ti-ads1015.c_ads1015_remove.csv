@@ -1,0 +1,12 @@
+ADS1015_SINGLESHOT,VAR_0
+ads1015_set_conv_mode,FUNC_0
+i2c_get_clientdata,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_put_noidle,FUNC_5
+pm_runtime_set_suspended,FUNC_6
+ads1015_remove,FUNC_7
+client,VAR_1
+indio_dev,VAR_2
+data,VAR_3

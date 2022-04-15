@@ -1,0 +1,15 @@
+VMENTER_L1D_FLUSH_AUTO,VAR_0
+X86_BUG_L1TF,VAR_1
+boot_cpu_has,FUNC_0
+l1tf_vmx_mitigation,VAR_2
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+vmentry_l1d_flush_param,VAR_3
+vmentry_l1d_flush_parse,FUNC_3
+vmx_l1d_flush_mutex,VAR_4
+vmx_setup_l1d_flush,FUNC_4
+vmentry_l1d_flush_set,FUNC_5
+s,VAR_5
+kp,VAR_6
+l1tf,VAR_7
+ret,VAR_8

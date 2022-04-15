@@ -1,0 +1,13 @@
+crypto_pcbc_encrypt_inplace,FUNC_0
+crypto_pcbc_encrypt_segment,FUNC_1
+crypto_skcipher_reqtfm,FUNC_2
+skcipher_cipher_simple,FUNC_3
+skcipher_walk_done,FUNC_4
+skcipher_walk_virt,FUNC_5
+crypto_pcbc_encrypt,FUNC_6
+req,VAR_0
+tfm,VAR_1
+cipher,VAR_2
+walk,VAR_3
+nbytes,VAR_4
+err,VAR_5

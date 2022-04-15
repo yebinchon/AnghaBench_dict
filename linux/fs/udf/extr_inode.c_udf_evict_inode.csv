@@ -1,0 +1,17 @@
+ICBTAG_FLAG_AD_IN_ICB,VAR_0
+IS_SYNC,FUNC_0
+UDF_I,FUNC_1
+clear_inode,FUNC_2
+invalidate_inode_buffers,FUNC_3
+is_bad_inode,FUNC_4
+kfree,FUNC_5
+truncate_inode_pages_final,FUNC_6
+udf_clear_extent_cache,FUNC_7
+udf_free_inode,FUNC_8
+udf_setsize,FUNC_9
+udf_update_inode,FUNC_10
+udf_warn,FUNC_11
+udf_evict_inode,FUNC_12
+inode,VAR_1
+iinfo,VAR_2
+want_delete,VAR_3

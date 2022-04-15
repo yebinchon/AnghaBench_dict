@@ -1,0 +1,15 @@
+IXGBE_PFMAILBOX,FUNC_0
+IXGBE_PFMAILBOX_STS,VAR_0
+IXGBE_PFMBMEM,FUNC_1
+IXGBE_WRITE_REG,FUNC_2
+IXGBE_WRITE_REG_ARRAY,FUNC_3
+ixgbe_check_for_ack_pf,FUNC_4
+ixgbe_check_for_msg_pf,FUNC_5
+ixgbe_obtain_mbx_lock_pf,FUNC_6
+ixgbe_write_mbx_pf,FUNC_7
+hw,VAR_1
+msg,VAR_2
+size,VAR_3
+vf_number,VAR_4
+ret_val,VAR_5
+i,VAR_6

@@ -1,0 +1,13 @@
+EC_MOTION_SENSE_NO_VALUE,VAR_0
+EINVAL,VAR_1
+IIO_VAL_INT,VAR_2
+MOTIONSENSE_CMD_EC_RATE,VAR_3
+MOTIONSENSE_CMD_SENSOR_ODR,VAR_4
+cros_ec_motion_send_host_cmd,FUNC_0
+cros_ec_sensors_core_read,FUNC_1
+st,VAR_5
+chan,VAR_6
+val,VAR_7
+val2,VAR_8
+mask,VAR_9
+ret,VAR_10

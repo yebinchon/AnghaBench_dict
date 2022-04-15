@@ -1,0 +1,16 @@
+BTRFS_ADD_DELAYED_EXTENT,VAR_0
+BTRFS_ADD_DELAYED_REF,VAR_1
+INIT_LIST_HEAD,FUNC_0
+RB_CLEAR_NODE,FUNC_1
+atomic64_read,FUNC_2
+is_fstree,FUNC_3
+refcount_set,FUNC_4
+init_delayed_ref_common,FUNC_5
+fs_info,VAR_2
+ref,VAR_3
+bytenr,VAR_4
+num_bytes,VAR_5
+ref_root,VAR_6
+action,VAR_7
+ref_type,VAR_8
+seq,VAR_9

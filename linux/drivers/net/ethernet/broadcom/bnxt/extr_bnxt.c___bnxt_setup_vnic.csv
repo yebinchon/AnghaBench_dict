@@ -1,0 +1,13 @@
+BNXT_CHIP_TYPE_NITRO_A0,FUNC_0
+BNXT_FLAG_AGG_RINGS,VAR_0
+BNXT_VNIC_RFS_NEW_RSS_FLAG,VAR_1
+bnxt_hwrm_vnic_cfg,FUNC_1
+bnxt_hwrm_vnic_ctx_alloc,FUNC_2
+bnxt_hwrm_vnic_set_hds,FUNC_3
+bnxt_hwrm_vnic_set_rss,FUNC_4
+netdev_err,FUNC_5
+__bnxt_setup_vnic,FUNC_6
+bp,VAR_2
+vnic_id,VAR_3
+vnic,VAR_4
+rc,VAR_5

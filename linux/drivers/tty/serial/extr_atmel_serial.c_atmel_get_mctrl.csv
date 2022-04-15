@@ -1,0 +1,17 @@
+ATMEL_US_CSR,VAR_0
+ATMEL_US_CTS,VAR_1
+ATMEL_US_DCD,VAR_2
+ATMEL_US_DSR,VAR_3
+ATMEL_US_RI,VAR_4
+TIOCM_CD,VAR_5
+TIOCM_CTS,VAR_6
+TIOCM_DSR,VAR_7
+TIOCM_RI,VAR_8
+atmel_uart_readl,FUNC_0
+mctrl_gpio_get,FUNC_1
+to_atmel_uart_port,FUNC_2
+atmel_get_mctrl,FUNC_3
+port,VAR_9
+atmel_port,VAR_10
+ret,VAR_11
+status,VAR_12

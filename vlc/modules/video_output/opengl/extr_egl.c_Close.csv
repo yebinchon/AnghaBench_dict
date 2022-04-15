@@ -1,0 +1,14 @@
+AWindowHandler_releaseANativeWindow,FUNC_0
+AWindow_Video,VAR_0
+EGL_NO_CONTEXT,VAR_1
+EGL_NO_DISPLAY,VAR_2
+EGL_NO_SURFACE,VAR_3
+XCloseDisplay,FUNC_1
+eglDestroyContext,FUNC_2
+eglDestroySurface,FUNC_3
+eglTerminate,FUNC_4
+free,FUNC_5
+wl_egl_window_destroy,FUNC_6
+Close,FUNC_7
+gl,VAR_4
+sys,VAR_5

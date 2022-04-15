@@ -1,0 +1,13 @@
+BCM963XX_DEFAULT_PSI_SIZE,VAR_0
+BCM963XX_NVRAM_OFFSET,VAR_1
+BCM963XX_NVRAM_V5_SIZE,VAR_2
+bcm963xx_nvram_checksum,FUNC_0
+mtd_read,FUNC_1
+pr_warn,FUNC_2
+bcm63xx_read_nvram,FUNC_3
+master,VAR_3
+nvram,VAR_4
+actual_crc,VAR_5
+expected_crc,VAR_6
+retlen,VAR_7
+ret,VAR_8

@@ -1,0 +1,15 @@
+DMA_BIT_MASK,FUNC_0
+SNDRV_PCM_STREAM_CAPTURE,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+dma_coerce_mask_and_coherent,FUNC_1
+pxa2xx_ac97_pcm,VAR_2
+pxa2xx_ac97_pcm_ops,VAR_3
+pxa2xx_pcm_free_dma_buffers,VAR_4
+pxa2xx_pcm_preallocate_dma_buffer,FUNC_2
+snd_pcm_new,FUNC_3
+snd_pcm_set_ops,FUNC_4
+pxa2xx_ac97_pcm_new,FUNC_5
+card,VAR_5
+pcm,VAR_6
+stream,VAR_7
+ret,VAR_8

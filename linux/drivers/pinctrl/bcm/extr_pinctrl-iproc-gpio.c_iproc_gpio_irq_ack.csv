@@ -1,0 +1,15 @@
+BIT,FUNC_0
+IPROC_GPIO_INT_CLR_OFFSET,VAR_0
+IPROC_GPIO_REG,FUNC_1
+IPROC_GPIO_SHIFT,FUNC_2
+gpiochip_get_data,FUNC_3
+irq_data_get_irq_chip_data,FUNC_4
+writel,FUNC_5
+iproc_gpio_irq_ack,FUNC_6
+d,VAR_1
+gc,VAR_2
+chip,VAR_3
+gpio,VAR_4
+offset,VAR_5
+shift,VAR_6
+val,VAR_7

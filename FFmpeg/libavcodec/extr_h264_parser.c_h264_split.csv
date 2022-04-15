@@ -1,0 +1,16 @@
+H264_NAL_AUD,VAR_0
+H264_NAL_PPS,VAR_1
+H264_NAL_SEI,VAR_2
+H264_NAL_SPS,VAR_3
+H264_NAL_SPS_EXT,VAR_4
+avpriv_find_start_code,FUNC_0
+h264_split,FUNC_1
+avctx,VAR_5
+buf,VAR_6
+buf_size,VAR_7
+state,VAR_8
+has_sps,VAR_9
+has_pps,VAR_10
+ptr,VAR_11
+end,VAR_12
+nalu_type,VAR_13

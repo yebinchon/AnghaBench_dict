@@ -1,0 +1,17 @@
+CIR_CONTROL,VAR_0
+CIR_CR_BASE_ADDR_HI,VAR_1
+CIR_CR_BASE_ADDR_LO,VAR_2
+CIR_CR_IRQ_SEL,VAR_3
+CIR_RX_DATA,VAR_4
+CIR_STATUS,VAR_5
+CIR_TX_CONTROL,VAR_6
+CIR_TX_DATA,VAR_7
+FINTEK_DRIVER_NAME,VAR_8
+fintek_cir_reg_read,FUNC_0
+fintek_config_mode_disable,FUNC_1
+fintek_config_mode_enable,FUNC_2
+fintek_cr_read,FUNC_3
+fintek_select_logical_dev,FUNC_4
+pr_info,FUNC_5
+cir_dump_regs,FUNC_6
+fintek,VAR_9

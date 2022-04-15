@@ -1,0 +1,16 @@
+AZX_MLCTL_CPA,VAR_0
+AZX_MLCTL_CPA_SHIFT,VAR_1
+AZX_MLCTL_SPA,VAR_2
+AZX_MLCTL_SPA_SHIFT,VAR_3
+AZX_ML_BASE,VAR_4
+AZX_REG_ML_LCTL,VAR_5
+azx_bus,FUNC_0
+readl,FUNC_1
+udelay,FUNC_2
+writel,FUNC_3
+intel_ml_lctl_set_power,FUNC_4
+chip,VAR_6
+state,VAR_7
+bus,VAR_8
+val,VAR_9
+timeout,VAR_10

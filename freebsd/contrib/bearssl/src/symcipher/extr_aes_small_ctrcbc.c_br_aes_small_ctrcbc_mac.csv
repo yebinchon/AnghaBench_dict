@@ -1,0 +1,8 @@
+br_aes_small_encrypt,FUNC_0
+xorbuf,FUNC_1
+br_aes_small_ctrcbc_mac,FUNC_2
+ctx,VAR_0
+cbcmac,VAR_1
+data,VAR_2
+len,VAR_3
+buf,VAR_4

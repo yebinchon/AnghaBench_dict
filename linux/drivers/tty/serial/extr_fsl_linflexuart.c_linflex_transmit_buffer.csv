@@ -1,0 +1,17 @@
+BDRL,VAR_0
+LINFLEXD_UARTSR_DTFTFF,VAR_1
+UARTSR,VAR_2
+UART_XMIT_SIZE,VAR_3
+WAKEUP_CHARS,VAR_4
+linflex_stop_tx,FUNC_0
+readl,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_write_wakeup,FUNC_4
+writeb,FUNC_5
+writel,FUNC_6
+linflex_transmit_buffer,FUNC_7
+sport,VAR_5
+xmit,VAR_6
+c,VAR_7
+status,VAR_8

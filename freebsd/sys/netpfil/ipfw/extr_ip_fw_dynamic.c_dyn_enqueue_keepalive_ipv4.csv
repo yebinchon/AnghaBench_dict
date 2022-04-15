@@ -1,0 +1,12 @@
+ACK_FWD,VAR_0
+ACK_REV,VAR_1
+LOG_DEBUG,VAR_2
+dyn_make_keepalive_ipv4,FUNC_0
+dyn_mgethdr,FUNC_1
+log,FUNC_2
+m_freem,FUNC_3
+mbufq_enqueue,FUNC_4
+dyn_enqueue_keepalive_ipv4,FUNC_5
+q,VAR_3
+s,VAR_4
+m,VAR_5

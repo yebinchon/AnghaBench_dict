@@ -1,0 +1,11 @@
+G_IO_ERR,VAR_0
+G_IO_HUP,VAR_1
+G_IO_IN,VAR_2
+event_funcs,VAR_3
+g_source_add_poll,FUNC_0
+g_source_new,FUNC_1
+sd_event_get_fd,FUNC_2
+sd_event_ref,FUNC_3
+g_sd_event_create_source,FUNC_4
+event,VAR_4
+source,VAR_5

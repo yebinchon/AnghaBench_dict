@@ -1,0 +1,17 @@
+BUFFER_TRACE,FUNC_0
+brelse,FUNC_1
+cpu_to_le32,FUNC_2
+current_time,FUNC_3
+ext4_handle_dirty_dirblock,FUNC_4
+ext4_has_feature_filetype,FUNC_5
+ext4_journal_get_write_access,FUNC_6
+ext4_mark_inode_dirty,FUNC_7
+ext4_std_error,FUNC_8
+inode_inc_iversion,FUNC_9
+unlikely,FUNC_10
+ext4_setent,FUNC_11
+handle,VAR_0
+ent,VAR_1
+ino,VAR_2
+file_type,VAR_3
+retval,VAR_4

@@ -1,0 +1,13 @@
+FUSB_REG_STATUS1A,VAR_0
+FUSB_REG_STATUS1A_TOGSS_MASK,VAR_1
+FUSB_REG_STATUS1A_TOGSS_POS,VAR_2
+fusb302_handle_togdone_snk,FUNC_0
+fusb302_handle_togdone_src,FUNC_1
+fusb302_i2c_read,FUNC_2
+fusb302_log,FUNC_3
+fusb302_set_toggling,FUNC_4
+fusb302_handle_togdone,FUNC_5
+chip,VAR_3
+ret,VAR_4
+status1a,VAR_5
+togdone_result,VAR_6

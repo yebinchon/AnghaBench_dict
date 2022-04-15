@@ -1,0 +1,12 @@
+ATA_COUNT,VAR_0
+ATA_CYL_LSB,VAR_1
+ATA_CYL_MSB,VAR_2
+ATA_DRIVE,VAR_3
+ATA_IDX_INW,FUNC_0
+ATA_R_48BIT,VAR_4
+ATA_SECTOR,VAR_5
+device_get_softc,FUNC_1
+ata_serverworks_tf_read,FUNC_2
+request,VAR_6
+ch,VAR_7
+temp,VAR_8

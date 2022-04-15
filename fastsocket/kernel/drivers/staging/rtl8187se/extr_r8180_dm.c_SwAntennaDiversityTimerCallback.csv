@@ -1,0 +1,12 @@
+ANTENNA_DIVERSITY_TIMER_PERIOD,VAR_0
+MSECS,FUNC_0
+SwAntennaDiversity,FUNC_1
+add_timer,FUNC_2
+eRfOff,VAR_1
+eRfSleep,VAR_2
+ieee80211_priv,FUNC_3
+jiffies,VAR_3
+SwAntennaDiversityTimerCallback,FUNC_4
+dev,VAR_4
+priv,VAR_5
+rtState,VAR_6

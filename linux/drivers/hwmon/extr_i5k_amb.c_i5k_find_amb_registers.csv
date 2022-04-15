@@ -1,0 +1,16 @@
+AMB_CONFIG_SIZE,VAR_0
+ENODEV,VAR_1
+I5K_REG_AMB_BASE_ADDR,VAR_2
+I5K_REG_AMB_LEN_ADDR,VAR_3
+MAX_AMBS,VAR_4
+PCI_VENDOR_ID_INTEL,VAR_5
+dev_err,FUNC_0
+pci_dev_put,FUNC_1
+pci_get_device,FUNC_2
+pci_read_config_dword,FUNC_3
+i5k_find_amb_registers,FUNC_4
+data,VAR_6
+devid,VAR_7
+pcidev,VAR_8
+val32,VAR_9
+res,VAR_10

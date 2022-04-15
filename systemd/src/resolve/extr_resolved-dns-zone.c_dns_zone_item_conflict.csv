@@ -1,0 +1,16 @@
+DNS_ZONE_ITEM_ESTABLISHED,VAR_0
+DNS_ZONE_ITEM_PROBING,VAR_1
+DNS_ZONE_ITEM_VERIFYING,VAR_2
+DNS_ZONE_ITEM_WITHDRAWN,VAR_3
+IN_SET,FUNC_0
+assert,FUNC_1
+dns_resource_key_name,FUNC_2
+dns_resource_record_to_string,FUNC_3
+dns_zone_item_probe_stop,FUNC_4
+dnssd_signal_conflict,FUNC_5
+log_info,FUNC_6
+manager_is_own_hostname,FUNC_7
+manager_next_hostname,FUNC_8
+strna,FUNC_9
+dns_zone_item_conflict,FUNC_10
+i,VAR_4

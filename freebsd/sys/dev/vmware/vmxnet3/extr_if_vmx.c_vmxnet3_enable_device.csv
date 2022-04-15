@@ -1,0 +1,10 @@
+VMXNET3_BAR0_RXH1,FUNC_0
+VMXNET3_BAR0_RXH2,FUNC_1
+VMXNET3_CMD_ENABLE,VAR_0
+device_printf,FUNC_2
+vmxnet3_read_cmd,FUNC_3
+vmxnet3_write_bar0,FUNC_4
+vmxnet3_enable_device,FUNC_5
+sc,VAR_1
+scctx,VAR_2
+q,VAR_3

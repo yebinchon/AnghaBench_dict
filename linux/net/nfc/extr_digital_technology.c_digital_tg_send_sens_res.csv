@@ -1,0 +1,15 @@
+DIGITAL_SENS_RES_NFC_DEP,VAR_0
+ENOMEM,VAR_1
+NFC_DIGITAL_CONFIG_FRAMING,VAR_2
+NFC_DIGITAL_FRAMING_NFCA_STANDARD,VAR_3
+digital_skb_alloc,FUNC_0
+digital_tg_configure_hw,FUNC_1
+digital_tg_recv_sdd_req,VAR_4
+digital_tg_send_cmd,FUNC_2
+kfree_skb,FUNC_3
+skb_put,FUNC_4
+digital_tg_send_sens_res,FUNC_5
+ddev,VAR_5
+skb,VAR_6
+sens_res,VAR_7
+rc,VAR_8

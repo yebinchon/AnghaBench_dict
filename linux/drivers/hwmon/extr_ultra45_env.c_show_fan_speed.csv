@@ -1,0 +1,16 @@
+FAN_DATA_VALID,FUNC_0
+FAN_PERIOD_TO_RPM,FUNC_1
+IREG_FAN0,VAR_0
+dev_get_drvdata,FUNC_2
+env_read,FUNC_3
+sprintf,FUNC_4
+to_sensor_dev_attr,FUNC_5
+show_fan_speed,FUNC_6
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+fan_nr,VAR_4
+p,VAR_5
+rpm,VAR_6
+period,VAR_7
+val,VAR_8

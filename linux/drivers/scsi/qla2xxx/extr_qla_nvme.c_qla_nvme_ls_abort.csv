@@ -1,0 +1,12 @@
+INIT_WORK,FUNC_0
+kref_get_unless_zero,FUNC_1
+qla_nvme_abort_work,VAR_0
+schedule_work,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+qla_nvme_ls_abort,FUNC_5
+lport,VAR_1
+rport,VAR_2
+fd,VAR_3
+priv,VAR_4
+flags,VAR_5

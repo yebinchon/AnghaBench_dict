@@ -1,0 +1,16 @@
+COPYIN,FUNC_0
+EXC_ARM_UNDEFINED,VAR_0
+EXC_BAD_INSTRUCTION,VAR_1
+PSR64_IS_KERNEL,FUNC_1
+exception_triage,FUNC_2
+get_saved_state_cpsr,FUNC_3
+get_saved_state_pc,FUNC_4
+is_saved_state64,FUNC_5
+panic,FUNC_6
+handle_user_trapped_instruction32,FUNC_7
+state,VAR_2
+esr,VAR_3
+exception,VAR_4
+codes,VAR_5
+numcodes,VAR_6
+instr,VAR_7

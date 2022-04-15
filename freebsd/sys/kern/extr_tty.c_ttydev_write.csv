@@ -1,0 +1,17 @@
+IO_NDELAY,VAR_0
+SIGTTOU,VAR_1
+TF_BUSY_OUT,VAR_2
+TOSTOP,VAR_3
+curthread,VAR_4
+cv_signal,FUNC_0
+tty_unlock,FUNC_1
+tty_wait,FUNC_2
+tty_wait_background,FUNC_3
+ttydev_enter,FUNC_4
+ttydisc_write,FUNC_5
+ttydev_write,FUNC_6
+dev,VAR_5
+uio,VAR_6
+ioflag,VAR_7
+tp,VAR_8
+error,VAR_9

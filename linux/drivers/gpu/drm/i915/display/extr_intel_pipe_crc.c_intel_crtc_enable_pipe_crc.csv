@@ -1,0 +1,11 @@
+I915_WRITE,FUNC_0
+PIPE_CRC_CTL,FUNC_1
+POSTING_READ,FUNC_2
+get_new_crc_ctl_reg,FUNC_3
+to_i915,FUNC_4
+intel_crtc_enable_pipe_crc,FUNC_5
+intel_crtc,VAR_0
+crtc,VAR_1
+dev_priv,VAR_2
+pipe_crc,VAR_3
+val,VAR_4

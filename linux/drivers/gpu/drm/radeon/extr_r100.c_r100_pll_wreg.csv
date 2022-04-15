@@ -1,0 +1,14 @@
+RADEON_CLOCK_CNTL_DATA,VAR_0
+RADEON_CLOCK_CNTL_INDEX,VAR_1
+RADEON_PLL_WR_EN,VAR_2
+WREG32,FUNC_0
+WREG8,FUNC_1
+r100_pll_errata_after_data,FUNC_2
+r100_pll_errata_after_index,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+r100_pll_wreg,FUNC_6
+rdev,VAR_3
+reg,VAR_4
+v,VAR_5
+flags,VAR_6

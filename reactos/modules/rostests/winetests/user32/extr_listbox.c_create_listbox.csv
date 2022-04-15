@@ -1,0 +1,15 @@
+CreateWindowA,FUNC_0
+LBS_SORT,VAR_0
+LBS_STANDARD,VAR_1
+LB_ADDSTRING,VAR_2
+REDRAW,VAR_3
+SW_SHOW,VAR_4
+SendMessageA,FUNC_1
+ShowWindow,FUNC_2
+assert,FUNC_3
+strings,VAR_5
+create_listbox,FUNC_4
+add_style,VAR_6
+parent,VAR_7
+handle,VAR_8
+ctl_id,VAR_9

@@ -1,0 +1,15 @@
+RBCTL,VAR_0
+RB_FLUSH,VAR_1
+SD_RSP_TYPE_R1b,VAR_2
+SD_STS_ERR,VAR_3
+STATUS_SUCCESS,VAR_4
+STOP_TRANSMISSION,VAR_5
+rtsx_write_register,FUNC_0
+sd_send_cmd_get_rsp,FUNC_1
+sd_set_err_code,FUNC_2
+sd_switch_clock,FUNC_3
+sd_wait_state_data_ready,FUNC_4
+sd_stop_seq_mode,FUNC_5
+chip,VAR_6
+sd_card,VAR_7
+retval,VAR_8

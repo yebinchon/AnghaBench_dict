@@ -1,0 +1,13 @@
+DMX3191D_REGION_LEN,VAR_0
+NCR5380_exit,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+release_region,FUNC_3
+scsi_host_put,FUNC_4
+scsi_remove_host,FUNC_5
+shost_priv,FUNC_6
+dmx3191d_remove_one,FUNC_7
+pdev,VAR_1
+shost,VAR_2
+hostdata,VAR_3
+io,VAR_4

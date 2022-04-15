@@ -1,0 +1,17 @@
+M_DEVBUF,VAR_0
+SYS_RES_IOPORT,VAR_1
+SYS_RES_IRQ,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+cmi_power,FUNC_3
+cmi_uninit,FUNC_4
+free,FUNC_5
+mpu401_uninit,FUNC_6
+pcm_getdevinfo,FUNC_7
+pcm_unregister,FUNC_8
+snd_mtxfree,FUNC_9
+cmi_detach,FUNC_10
+dev,VAR_3
+sc,VAR_4
+r,VAR_5

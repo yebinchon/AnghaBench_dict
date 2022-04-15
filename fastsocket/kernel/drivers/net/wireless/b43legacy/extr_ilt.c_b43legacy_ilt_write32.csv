@@ -1,0 +1,9 @@
+B43legacy_PHY_ILT_G_CTRL,VAR_0
+B43legacy_PHY_ILT_G_DATA1,VAR_1
+B43legacy_PHY_ILT_G_DATA2,VAR_2
+b43legacy_phy_write,FUNC_0
+mmiowb,FUNC_1
+b43legacy_ilt_write32,FUNC_2
+dev,VAR_3
+offset,VAR_4
+val,VAR_5

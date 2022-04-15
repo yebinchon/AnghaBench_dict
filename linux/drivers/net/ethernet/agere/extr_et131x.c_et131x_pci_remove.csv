@@ -1,0 +1,17 @@
+et131x_adapter_memory_free,FUNC_0
+free_netdev,FUNC_1
+iounmap,FUNC_2
+mdiobus_free,FUNC_3
+mdiobus_unregister,FUNC_4
+netdev_priv,FUNC_5
+netif_napi_del,FUNC_6
+pci_dev_put,FUNC_7
+pci_disable_device,FUNC_8
+pci_get_drvdata,FUNC_9
+pci_release_regions,FUNC_10
+phy_disconnect,FUNC_11
+unregister_netdev,FUNC_12
+et131x_pci_remove,FUNC_13
+pdev,VAR_0
+netdev,VAR_1
+adapter,VAR_2

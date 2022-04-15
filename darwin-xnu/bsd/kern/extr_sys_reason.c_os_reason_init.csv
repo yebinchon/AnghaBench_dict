@@ -1,0 +1,15 @@
+OS_REASON_MAX_COUNT,VAR_0
+OS_REASON_RESERVE_COUNT,VAR_1
+assert,FUNC_0
+lck_attr_alloc_init,FUNC_1
+lck_grp_alloc_init,FUNC_2
+lck_grp_attr_alloc_init,FUNC_3
+os_reason_lock_attr,VAR_2
+os_reason_lock_grp,VAR_3
+os_reason_lock_grp_attr,VAR_4
+os_reason_zone,VAR_5
+panic,FUNC_4
+zfill,FUNC_5
+zinit,FUNC_6
+os_reason_init,FUNC_7
+reasons_allocated,VAR_6

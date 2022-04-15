@@ -1,0 +1,16 @@
+RST_N,VAR_0
+SDMMC_CTRL_DMA_RESET,VAR_1
+SDMMC_CTRL_FIFO_RESET,VAR_2
+SDMMC_RST_HWACTIVE,VAR_3
+TRANS_MODE_IDMAC,VAR_4
+dw_mci_ctrl_reset,FUNC_0
+dw_mci_idmac_reset,FUNC_1
+mci_readl,FUNC_2
+mci_writel,FUNC_3
+mmc_priv,FUNC_4
+usleep_range,FUNC_5
+dw_mci_hw_reset,FUNC_6
+mmc,VAR_5
+slot,VAR_6
+host,VAR_7
+reset,VAR_8

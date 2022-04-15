@@ -1,0 +1,11 @@
+nilfs_mdt_mark_buffer_dirty,FUNC_0
+nilfs_mdt_mark_dirty,FUNC_1
+nilfs_sufile_get_segment_usage,FUNC_2
+nilfs_sufile_put_segment_usage,FUNC_3
+unlikely,FUNC_4
+nilfs_touch_segusage,FUNC_5
+sufile,VAR_0
+segnum,VAR_1
+bh_su,VAR_2
+raw_su,VAR_3
+err,VAR_4

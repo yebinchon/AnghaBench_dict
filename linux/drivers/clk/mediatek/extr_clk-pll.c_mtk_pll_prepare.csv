@@ -1,0 +1,13 @@
+CON0_ISO_EN,VAR_0
+CON0_PWR_ON,VAR_1
+HAVE_RST_BAR,VAR_2
+REG_CON0,VAR_3
+__mtk_pll_tuner_enable,FUNC_0
+readl,FUNC_1
+to_mtk_clk_pll,FUNC_2
+udelay,FUNC_3
+writel,FUNC_4
+mtk_pll_prepare,FUNC_5
+hw,VAR_4
+pll,VAR_5
+r,VAR_6

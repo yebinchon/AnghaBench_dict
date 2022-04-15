@@ -1,0 +1,16 @@
+EP_STATE_ULP_UPDATE_START,VAR_0
+HZ,VAR_1
+add_timer,FUNC_0
+bnx2i_ep_ofld_timer,VAR_2
+bnx2i_update_iscsi_conn,FUNC_1
+current,VAR_3
+del_timer_sync,FUNC_2
+flush_signals,FUNC_3
+iscsi_conn_start,FUNC_4
+jiffies,VAR_4
+signal_pending,FUNC_5
+wait_event_interruptible,FUNC_6
+bnx2i_conn_start,FUNC_7
+cls_conn,VAR_5
+conn,VAR_6
+bnx2i_conn,VAR_7

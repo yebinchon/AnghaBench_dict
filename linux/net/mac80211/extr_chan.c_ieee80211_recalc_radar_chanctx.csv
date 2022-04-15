@@ -1,0 +1,10 @@
+IEEE80211_CHANCTX_CHANGE_RADAR,VAR_0
+IEEE80211_CONF_CHANGE_CHANNEL,VAR_1
+drv_change_chanctx,FUNC_0
+ieee80211_chanctx_radar_required,FUNC_1
+ieee80211_hw_config,FUNC_2
+lockdep_assert_held,FUNC_3
+ieee80211_recalc_radar_chanctx,FUNC_4
+local,VAR_2
+chanctx,VAR_3
+radar_enabled,VAR_4

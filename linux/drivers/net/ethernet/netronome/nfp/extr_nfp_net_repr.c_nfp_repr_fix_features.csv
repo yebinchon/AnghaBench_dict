@@ -1,0 +1,15 @@
+NETIF_F_HW_CSUM,VAR_0
+NETIF_F_HW_TC,VAR_1
+NETIF_F_IPV6_CSUM,VAR_2
+NETIF_F_IP_CSUM,VAR_3
+NETIF_F_LLTX,VAR_4
+NETIF_F_SOFT_FEATURES,VAR_5
+netdev_intersect_features,FUNC_0
+netdev_priv,FUNC_1
+nfp_repr_fix_features,FUNC_2
+netdev,VAR_6
+features,VAR_7
+repr,VAR_8
+old_features,VAR_9
+lower_features,VAR_10
+lower_dev,VAR_11

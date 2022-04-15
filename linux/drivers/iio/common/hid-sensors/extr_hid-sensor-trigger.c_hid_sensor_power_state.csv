@@ -1,0 +1,14 @@
+_hid_sensor_power_state,FUNC_0
+atomic_add_unless,FUNC_1
+atomic_dec,FUNC_2
+atomic_inc,FUNC_3
+atomic_set,FUNC_4
+pm_runtime_enable,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_mark_last_busy,FUNC_7
+pm_runtime_put_autosuspend,FUNC_8
+pm_runtime_put_noidle,FUNC_9
+pm_runtime_use_autosuspend,FUNC_10
+hid_sensor_power_state,FUNC_11
+st,VAR_0
+state,VAR_1

@@ -1,0 +1,14 @@
+SND_EFW_CLOCK_SOURCE_INTERNAL,VAR_0
+amdtp_stream_pcm_running,FUNC_0
+pcm_init_hw_params,FUNC_1
+snd_efw_command_get_clock_source,FUNC_2
+snd_efw_command_get_sampling_rate,FUNC_3
+snd_efw_stream_lock_release,FUNC_4
+snd_efw_stream_lock_try,FUNC_5
+snd_pcm_set_sync,FUNC_6
+pcm_open,FUNC_7
+substream,VAR_1
+efw,VAR_2
+sampling_rate,VAR_3
+clock_source,VAR_4
+err,VAR_5

@@ -1,0 +1,12 @@
+SDP2430_LCD_PANEL_BACKLIGHT_GPIO,VAR_0
+SDP2430_LCD_PANEL_ENABLE_GPIO,VAR_1
+SDP3430_LCD_PANEL_BACKLIGHT_GPIO,VAR_2
+SDP3430_LCD_PANEL_ENABLE_GPIO,VAR_3
+backlight_gpio,VAR_4
+enable_gpio,VAR_5
+gpio_direction_output,FUNC_0
+gpio_request,FUNC_1
+machine_is_omap_3430sdp,FUNC_2
+sdp2430_panel_init,FUNC_3
+panel,VAR_6
+fbdev,VAR_7

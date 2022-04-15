@@ -1,0 +1,14 @@
+AcpiGbl_HistoryBuffer,VAR_0
+AcpiGbl_LoHistory,VAR_1
+AcpiGbl_NextCmdNum,VAR_2
+AcpiGbl_NextHistoryIndex,VAR_3
+AcpiGbl_NumHistory,VAR_4
+AcpiOsAllocate,FUNC_0
+AcpiOsFree,FUNC_1
+HISTORY_SIZE,VAR_5
+strcpy,FUNC_2
+strlen,FUNC_3
+AcpiDbAddToHistory,FUNC_4
+CommandLine,VAR_6
+CmdLen,VAR_7
+BufferLen,VAR_8

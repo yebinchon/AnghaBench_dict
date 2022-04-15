@@ -1,0 +1,12 @@
+DRM_MODE_OBJECT_CRTC,VAR_0
+drm_mode_object_get,FUNC_0
+drm_modeset_lock_all,FUNC_1
+drm_modeset_unlock_all,FUNC_2
+list_add_tail,FUNC_3
+mutex_init,FUNC_4
+mutex_lock_nest_lock,FUNC_5
+drm_crtc_init,FUNC_6
+dev,VAR_1
+crtc,VAR_2
+funcs,VAR_3
+ret,VAR_4

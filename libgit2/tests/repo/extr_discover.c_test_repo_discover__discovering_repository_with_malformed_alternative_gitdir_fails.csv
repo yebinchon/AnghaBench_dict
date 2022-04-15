@@ -1,0 +1,11 @@
+ALTERNATE_MALFORMED_FOLDER1,VAR_0
+ALTERNATE_MALFORMED_FOLDER2,VAR_1
+ALTERNATE_MALFORMED_FOLDER3,VAR_2
+ALTERNATE_NOT_FOUND_FOLDER,VAR_3
+GIT_ENOTFOUND,VAR_4
+ceiling_dirs,VAR_5
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+discovered,VAR_6
+git_repository_discover,FUNC_2
+test_repo_discover__discovering_repository_with_malformed_alternative_gitdir_fails,FUNC_3

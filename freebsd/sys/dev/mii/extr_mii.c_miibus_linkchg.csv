@@ -1,0 +1,14 @@
+IFM_ACTIVE,VAR_0
+IFM_AVALID,VAR_1
+LINK_STATE_DOWN,VAR_2
+LINK_STATE_UNKNOWN,VAR_3
+LINK_STATE_UP,VAR_4
+MIIBUS_LINKCHG,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+if_link_state_change,FUNC_3
+miibus_linkchg,FUNC_4
+dev,VAR_5
+mii,VAR_6
+parent,VAR_7
+link_state,VAR_8

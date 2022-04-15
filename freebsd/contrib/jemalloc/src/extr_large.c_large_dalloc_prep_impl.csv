@@ -1,0 +1,14 @@
+arena_extent_dalloc_large_prep,FUNC_0
+arena_is_auto,FUNC_1
+extent_addr_get,FUNC_2
+extent_list_remove,FUNC_3
+extent_usize_get,FUNC_4
+large_dalloc_maybe_junk,FUNC_5
+malloc_mutex_assert_owner,FUNC_6
+malloc_mutex_lock,FUNC_7
+malloc_mutex_unlock,FUNC_8
+large_dalloc_prep_impl,FUNC_9
+tsdn,VAR_0
+arena,VAR_1
+extent,VAR_2
+junked_locked,VAR_3

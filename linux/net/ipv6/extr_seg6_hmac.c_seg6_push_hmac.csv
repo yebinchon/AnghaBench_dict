@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOENT,VAR_1
+SEG6_HMAC_FIELD_LEN,VAR_2
+be32_to_cpu,FUNC_0
+memset,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+seg6_get_tlv_hmac,FUNC_4
+seg6_hmac_compute,FUNC_5
+seg6_hmac_info_lookup,FUNC_6
+seg6_push_hmac,FUNC_7
+net,VAR_3
+saddr,VAR_4
+srh,VAR_5
+hinfo,VAR_6
+tlv,VAR_7
+err,VAR_8

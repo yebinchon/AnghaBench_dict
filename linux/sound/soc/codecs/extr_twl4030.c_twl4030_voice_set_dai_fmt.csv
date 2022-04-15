@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+SND_SOC_DAIFMT_INV_MASK,VAR_1
+SND_SOC_DAIFMT_MASTER_MASK,VAR_2
+TWL4030_REG_VOICE_IF,VAR_3
+TWL4030_VIF_FORMAT,VAR_4
+TWL4030_VIF_SLAVE_EN,VAR_5
+snd_soc_component_get_drvdata,FUNC_0
+twl4030_codec_enable,FUNC_1
+twl4030_read,FUNC_2
+twl4030_write,FUNC_3
+twl4030_voice_set_dai_fmt,FUNC_4
+codec_dai,VAR_6
+fmt,VAR_7
+component,VAR_8
+twl4030,VAR_9
+old_format,VAR_10
+format,VAR_11

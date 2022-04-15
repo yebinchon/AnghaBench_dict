@@ -1,0 +1,17 @@
+KVM_EXIT_IO,VAR_0
+KVM_EXIT_IO_IN,VAR_1
+KVM_EXIT_IO_OUT,VAR_2
+KVM_PIO_PAGE_OFFSET,VAR_3
+PAGE_SIZE,VAR_4
+VCPU_REGS_RAX,VAR_5
+complete_pio,FUNC_0
+kernel_pio,FUNC_1
+kvm_register_read,FUNC_2
+memcpy,FUNC_3
+trace_kvm_pio,FUNC_4
+kvm_emulate_pio,FUNC_5
+vcpu,VAR_6
+in,VAR_7
+size,VAR_8
+port,VAR_9
+val,VAR_10

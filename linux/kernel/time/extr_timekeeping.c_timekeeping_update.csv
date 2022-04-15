@@ -1,0 +1,17 @@
+TK_CLEAR_NTP,VAR_0
+TK_CLOCK_WAS_SET,VAR_1
+TK_MIRROR,VAR_2
+memcpy,FUNC_0
+ntp_clear,FUNC_1
+shadow_timekeeper,VAR_3
+tk_core,VAR_4
+tk_fast_mono,VAR_5
+tk_fast_raw,VAR_6
+tk_update_ktime_data,FUNC_2
+tk_update_leap_state,FUNC_3
+update_fast_timekeeper,FUNC_4
+update_pvclock_gtod,FUNC_5
+update_vsyscall,FUNC_6
+timekeeping_update,FUNC_7
+tk,VAR_7
+action,VAR_8

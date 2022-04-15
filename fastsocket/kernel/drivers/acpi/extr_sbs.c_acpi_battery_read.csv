@@ -1,0 +1,12 @@
+ACPI_SBS_MANAGER,VAR_0
+SMBUS_READ_WORD,VAR_1
+SMBUS_WRITE_WORD,VAR_2
+acpi_battery_get_info,FUNC_0
+acpi_battery_get_state,FUNC_1
+acpi_smbus_read,FUNC_2
+acpi_smbus_write,FUNC_3
+acpi_battery_read,FUNC_4
+battery,VAR_3
+result,VAR_4
+saved_present,VAR_5
+state,VAR_6

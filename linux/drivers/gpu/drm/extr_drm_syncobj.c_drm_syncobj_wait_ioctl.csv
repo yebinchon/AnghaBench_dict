@@ -1,0 +1,17 @@
+DRIVER_SYNCOBJ,VAR_0
+DRM_SYNCOBJ_WAIT_FLAGS_WAIT_ALL,VAR_1
+DRM_SYNCOBJ_WAIT_FLAGS_WAIT_FOR_SUBMIT,VAR_2
+EINVAL,VAR_3
+EOPNOTSUPP,VAR_4
+drm_core_check_feature,FUNC_0
+drm_syncobj_array_find,FUNC_1
+drm_syncobj_array_free,FUNC_2
+drm_syncobj_array_wait,FUNC_3
+u64_to_user_ptr,FUNC_4
+drm_syncobj_wait_ioctl,FUNC_5
+dev,VAR_5
+data,VAR_6
+file_private,VAR_7
+args,VAR_8
+syncobjs,VAR_9
+ret,VAR_10

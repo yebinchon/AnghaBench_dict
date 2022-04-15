@@ -1,0 +1,16 @@
+FXP_FLAG_CU_RESUME_BUG,VAR_0
+FXP_REV_82557,VAR_1
+IFF_DRV_RUNNING,VAR_2
+IFM_10_T,VAR_3
+IFM_ACTIVE,VAR_4
+IFM_AVALID,VAR_5
+IFM_SUBTYPE,FUNC_0
+device_get_softc,FUNC_1
+fxp_init_body,FUNC_2
+if_getdrvflags,FUNC_3
+if_setdrvflagbits,FUNC_4
+fxp_miibus_statchg,FUNC_5
+dev,VAR_6
+sc,VAR_7
+mii,VAR_8
+ifp,VAR_9

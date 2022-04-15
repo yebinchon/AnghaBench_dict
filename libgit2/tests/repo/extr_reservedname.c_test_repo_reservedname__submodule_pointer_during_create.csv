@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_SUBMODULE_UPDATE_OPTIONS_INIT,VAR_1
+cl_git_pass,FUNC_0
+cl_repo_set_string,FUNC_1
+clar_sandbox_path,FUNC_2
+git_buf_dispose,FUNC_3
+git_buf_joinpath,FUNC_4
+git_submodule_free,FUNC_5
+git_submodule_lookup,FUNC_6
+git_submodule_update,FUNC_7
+setup_fixture_super,FUNC_8
+test_repo_reservedname__submodule_pointer_during_create,FUNC_9
+repo,VAR_2
+sm,VAR_3
+update_options,VAR_4
+url,VAR_5

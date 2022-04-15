@@ -1,0 +1,9 @@
+__f2fs_issue_discard_zone,FUNC_0
+__queue_discard_cmd,FUNC_1
+bdev_is_zoned,FUNC_2
+f2fs_sb_has_blkzoned,FUNC_3
+__issue_discard_async,FUNC_4
+sbi,VAR_0
+bdev,VAR_1
+blkstart,VAR_2
+blklen,VAR_3

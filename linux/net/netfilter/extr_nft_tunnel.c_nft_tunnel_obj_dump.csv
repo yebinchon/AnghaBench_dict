@@ -1,0 +1,17 @@
+NFTA_TUNNEL_KEY_ID,VAR_0
+NFTA_TUNNEL_KEY_TOS,VAR_1
+NFTA_TUNNEL_KEY_TTL,VAR_2
+nft_obj_data,FUNC_0
+nft_tunnel_flags_dump,FUNC_1
+nft_tunnel_ip_dump,FUNC_2
+nft_tunnel_opts_dump,FUNC_3
+nft_tunnel_ports_dump,FUNC_4
+nla_put_be32,FUNC_5
+nla_put_u8,FUNC_6
+tunnel_id_to_key32,FUNC_7
+nft_tunnel_obj_dump,FUNC_8
+skb,VAR_3
+obj,VAR_4
+reset,VAR_5
+priv,VAR_6
+info,VAR_7

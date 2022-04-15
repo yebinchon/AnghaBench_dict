@@ -1,0 +1,12 @@
+EIO,VAR_0
+FTMAC100_MACCR_SW_RST,VAR_1
+FTMAC100_OFFSET_MACCR,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+netdev_err,FUNC_2
+udelay,FUNC_3
+ftmac100_reset,FUNC_4
+priv,VAR_3
+netdev,VAR_4
+i,VAR_5
+maccr,VAR_6

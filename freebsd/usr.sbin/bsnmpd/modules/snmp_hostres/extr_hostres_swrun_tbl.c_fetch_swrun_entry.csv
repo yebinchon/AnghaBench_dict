@@ -1,0 +1,15 @@
+HRDBG,FUNC_0
+KERN_PROC_PID,VAR_0
+NO_PID,VAR_1
+SRS_INVALID,VAR_2
+assert,FUNC_1
+hr_kd,VAR_3
+kinfo_proc_to_swrun_entry,FUNC_2
+kld_file_stat_to_swrun,FUNC_3
+kldstat,FUNC_4
+kvm_getprocs,FUNC_5
+fetch_swrun_entry,FUNC_6
+entry,VAR_4
+plist,VAR_5
+nproc,VAR_6
+stat,VAR_7

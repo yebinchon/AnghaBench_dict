@@ -1,0 +1,17 @@
+DOORBELL_FROM_CARD_CABLE_0,VAR_0
+DOORBELL_FROM_CARD_RX,VAR_1
+DOORBELL_FROM_CARD_TX_0,VAR_2
+IRQ_RETVAL,FUNC_0
+PLX_DOORBELL_FROM_CARD,VAR_3
+readl,FUNC_1
+wanxl_cable_intr,FUNC_2
+wanxl_rx_intr,FUNC_3
+wanxl_tx_intr,FUNC_4
+writel,FUNC_5
+wanxl_intr,FUNC_6
+irq,VAR_4
+dev_id,VAR_5
+card,VAR_6
+i,VAR_7
+stat,VAR_8
+handled,VAR_9

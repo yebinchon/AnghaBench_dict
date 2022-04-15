@@ -1,0 +1,16 @@
+ADDRESS,VAR_0
+CONTROL,VAR_1
+CTL_DIS,VAR_2
+CTL_ENB,VAR_3
+DBG,FUNC_0
+DBG_QUEUE,VAR_4
+USBA_SHORT_PACKET,VAR_5
+USBA_TX_COMPLETE,VAR_6
+USBA_TX_PK_RDY,VAR_7
+ep_is_control,FUNC_1
+next_fifo_transaction,FUNC_2
+usba_dma_writel,FUNC_3
+usba_ep_writel,FUNC_4
+submit_request,FUNC_5
+ep,VAR_8
+req,VAR_9

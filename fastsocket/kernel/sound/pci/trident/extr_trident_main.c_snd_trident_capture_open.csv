@@ -1,0 +1,14 @@
+EAGAIN,VAR_0
+SNDRV_PCM_HW_PARAM_BUFFER_SIZE,VAR_1
+SNDRV_TRIDENT_VOICE_TYPE_PCM,VAR_2
+snd_pcm_hw_constraint_minmax,FUNC_0
+snd_pcm_set_sync,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+snd_trident_alloc_voice,FUNC_3
+snd_trident_capture,VAR_3
+snd_trident_pcm_free_substream,VAR_4
+snd_trident_capture_open,FUNC_4
+substream,VAR_5
+trident,VAR_6
+voice,VAR_7
+runtime,VAR_8

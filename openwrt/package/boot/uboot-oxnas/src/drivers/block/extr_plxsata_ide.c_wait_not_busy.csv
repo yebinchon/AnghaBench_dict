@@ -1,0 +1,10 @@
+ATA_STATUS_BSY_BIT,VAR_0
+SATA_COMMAND_BIT,VAR_1
+SATA_ORB2_OFF,VAR_2
+sata_regs_base,VAR_3
+udelay,FUNC_0
+wait_not_busy,FUNC_1
+device,VAR_4
+timeout_secs,VAR_5
+busy,VAR_6
+loops,VAR_7

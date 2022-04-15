@@ -1,0 +1,16 @@
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_sz,FUNC_2
+cl_git_pass,FUNC_3
+entrycount,VAR_0
+g_reflog,VAR_1
+git_oid_cmp,FUNC_4
+git_oid_cpy,FUNC_5
+git_reflog_drop,FUNC_6
+git_reflog_entry_byindex,FUNC_7
+git_reflog_entrycount,FUNC_8
+test_refs_reflog_drop__can_drop_an_entry_and_rewrite_the_log_history,FUNC_9
+before_current,VAR_2
+after_current,VAR_3
+before_current_old_oid,VAR_4
+before_current_cur_oid,VAR_5

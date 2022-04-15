@@ -1,0 +1,13 @@
+FC_CT_RFF_ID,VAR_0
+IOSTAT_SUCCESS,VAR_1
+SLI_CT_RESPONSE_FS_ACC,VAR_2
+be16_to_cpu,FUNC_0
+lpfc_cmpl_ct,FUNC_1
+lpfc_cmpl_ct_cmd_rff_id,FUNC_2
+phba,VAR_3
+cmdiocb,VAR_4
+rspiocb,VAR_5
+irsp,VAR_6
+vport,VAR_7
+outp,VAR_8
+CTrsp,VAR_9

@@ -1,0 +1,15 @@
+RWTCSRA,VAR_0
+RWTCSRA_TME,VAR_1
+RWTCSRA_WRFLG,VAR_2
+RWTCSRB,VAR_3
+cpu_relax,FUNC_0
+pm_runtime_get_sync,FUNC_1
+readb_relaxed,FUNC_2
+rwdt_init_timeout,FUNC_3
+rwdt_wait_cycles,FUNC_4
+rwdt_write,FUNC_5
+watchdog_get_drvdata,FUNC_6
+rwdt_start,FUNC_7
+wdev,VAR_4
+priv,VAR_5
+val,VAR_6

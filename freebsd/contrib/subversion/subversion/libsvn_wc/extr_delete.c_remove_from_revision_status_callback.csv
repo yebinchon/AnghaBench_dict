@@ -1,0 +1,13 @@
+SVN_ERR_WC_LEFT_LOCAL_MOD,VAR_0
+SVN_NO_ERROR,VAR_1
+_,FUNC_0
+svn_dirent_local_style,FUNC_1
+svn_error_createf,FUNC_2
+svn_node_file,VAR_2
+svn_wc_status_conflicted,VAR_3
+svn_wc_status_modified,VAR_4
+remove_from_revision_status_callback,FUNC_3
+baton,VAR_5
+local_abspath,VAR_6
+status,VAR_7
+scratch_pool,VAR_8

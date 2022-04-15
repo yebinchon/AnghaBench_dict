@@ -1,0 +1,11 @@
+aat1290_set_flash_safety_timer,FUNC_0
+fled_cdev_to_led,FUNC_1
+gpiod_direction_output,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+aat1290_led_flash_strobe_set,FUNC_5
+fled_cdev,VAR_0
+state,VAR_1
+led,VAR_2
+led_cdev,VAR_3
+timeout,VAR_4

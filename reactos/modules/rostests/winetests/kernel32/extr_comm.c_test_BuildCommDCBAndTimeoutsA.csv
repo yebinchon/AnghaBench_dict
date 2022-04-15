@@ -1,0 +1,15 @@
+BuildCommDCBAndTimeoutsA,FUNC_0
+SetLastError,FUNC_1
+check_dcb,FUNC_2
+check_result,FUNC_3
+check_timeouts,FUNC_4
+memset,FUNC_5
+test_BuildCommDCBAndTimeoutsA,FUNC_6
+string,VAR_0
+ptest,VAR_1
+initial_value,VAR_2
+pexpected_dcb,VAR_3
+pexpected_timeouts,VAR_4
+result,VAR_5
+dcb,VAR_6
+timeouts,VAR_7

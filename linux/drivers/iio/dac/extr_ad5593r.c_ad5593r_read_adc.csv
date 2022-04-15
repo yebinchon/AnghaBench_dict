@@ -1,0 +1,13 @@
+AD5592R_REG_ADC_SEQ,VAR_0
+AD5593R_MODE_ADC_READBACK,VAR_1
+AD5593R_MODE_CONF,VAR_2
+BIT,FUNC_0
+i2c_smbus_read_word_swapped,FUNC_1
+i2c_smbus_write_word_swapped,FUNC_2
+to_i2c_client,FUNC_3
+ad5593r_read_adc,FUNC_4
+st,VAR_3
+chan,VAR_4
+value,VAR_5
+i2c,VAR_6
+val,VAR_7

@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+IEEE80211_CHANCTX_REPLACES_OTHER,VAR_1
+IEEE80211_CHANCTX_REPLACE_NONE,VAR_2
+IEEE80211_CHANCTX_WILL_BE_REPLACED,VAR_3
+WARN_ON,FUNC_0
+ieee80211_chanctx_refcount,FUNC_1
+ieee80211_free_chanctx,FUNC_2
+kfree_rcu,FUNC_3
+list_del,FUNC_4
+list_del_rcu,FUNC_5
+lockdep_assert_held,FUNC_6
+rcu_head,VAR_4
+ieee80211_vif_unreserve_chanctx,FUNC_7
+sdata,VAR_5
+ctx,VAR_6

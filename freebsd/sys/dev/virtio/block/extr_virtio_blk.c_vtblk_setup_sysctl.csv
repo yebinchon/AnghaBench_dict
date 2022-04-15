@@ -1,0 +1,14 @@
+CTLFLAG_RW,VAR_0
+CTLTYPE_INT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+vtblk_write_cache_sysctl,VAR_3
+vtblk_setup_sysctl,FUNC_4
+sc,VAR_4
+dev,VAR_5
+ctx,VAR_6
+tree,VAR_7
+child,VAR_8

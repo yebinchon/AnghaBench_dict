@@ -1,0 +1,14 @@
+CDF_MRW,VAR_0
+CGC_DATA_READ,VAR_1
+GPCMD_GET_CONFIGURATION,VAR_2
+be16_to_cpu,FUNC_0
+cdrom_mrw_probe_pc,FUNC_1
+init_cdrom_command,FUNC_2
+stub1,FUNC_3
+cdrom_is_mrw,FUNC_4
+cdi,VAR_3
+write,VAR_4
+cgc,VAR_5
+mfd,VAR_6
+buffer,VAR_7
+ret,VAR_8

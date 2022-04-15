@@ -1,0 +1,9 @@
+ipath_eeprom_internal_write,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+ipath_eeprom_write,FUNC_3
+dd,VAR_0
+eeprom_offset,VAR_1
+buff,VAR_2
+len,VAR_3
+ret,VAR_4

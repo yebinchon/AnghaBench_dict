@@ -1,0 +1,9 @@
+BASIC_INTERRUPT,VAR_0
+EXTENDED_INT_MASK,VAR_1
+HCFG,VAR_2
+INTE,VAR_3
+outl,FUNC_0
+snd_ca0106_ptr_write,FUNC_1
+udelay,FUNC_2
+ca0106_stop_chip,FUNC_3
+chip,VAR_4

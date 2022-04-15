@@ -1,0 +1,14 @@
+DMZ_META_ERROR,VAR_0
+DMZ_META_READING,VAR_1
+DMZ_META_WRITING,VAR_2
+REQ_OP_WRITE,VAR_3
+bio_op,FUNC_0
+bio_put,FUNC_1
+clear_bit_unlock,FUNC_2
+set_bit,FUNC_3
+smp_mb__after_atomic,FUNC_4
+wake_up_bit,FUNC_5
+dmz_mblock_bio_end_io,FUNC_6
+bio,VAR_4
+mblk,VAR_5
+flag,VAR_6

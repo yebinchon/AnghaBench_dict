@@ -1,0 +1,16 @@
+ERROR_SUCCESS,VAR_0
+PDH_CSTATUS_NO_COUNTER,VAR_1
+PDH_INVALID_ARGUMENT,VAR_2
+PDH_INVALID_HANDLE,VAR_3
+PDH_INVALID_PATH,VAR_4
+PdhAddCounterA,FUNC_0
+PdhCloseQuery,FUNC_1
+PdhCollectQueryData,FUNC_2
+PdhOpenQueryA,FUNC_3
+PdhRemoveCounter,FUNC_4
+broken,FUNC_5
+ok,FUNC_6
+test_PdhAddCounterA,FUNC_7
+ret,VAR_5
+query,VAR_6
+counter,VAR_7

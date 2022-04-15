@@ -1,0 +1,16 @@
+BeginCopyFrom,FUNC_0
+EXEC_FLAG_EXPLAIN_ONLY,VAR_0
+NIL,VAR_1
+RelationGetRelid,FUNC_1
+fileGetOptions,FUNC_2
+list_concat,FUNC_3
+palloc,FUNC_4
+fileBeginForeignScan,FUNC_5
+node,VAR_2
+eflags,VAR_3
+plan,VAR_4
+filename,VAR_5
+is_program,VAR_6
+options,VAR_7
+cstate,VAR_8
+festate,VAR_9

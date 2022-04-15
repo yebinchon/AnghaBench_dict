@@ -1,0 +1,17 @@
+BIT,FUNC_0
+NANDFCR_OFFSET,VAR_0
+NAND_4BIT_ECC1_OFFSET,VAR_1
+NAND_ECC_READ,VAR_2
+davinci_nand_lock,VAR_3
+davinci_nand_readl,FUNC_1
+davinci_nand_writel,FUNC_2
+nand_to_mtd,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_davinci_nand,FUNC_6
+nand_davinci_hwctl_4bit,FUNC_7
+chip,VAR_4
+mode,VAR_5
+info,VAR_6
+flags,VAR_7
+val,VAR_8

@@ -1,0 +1,17 @@
+WDOG_STOP_ON_UNREGISTER,VAR_0
+cdev_del,FUNC_0
+hrtimer_cancel,FUNC_1
+kref_put,FUNC_2
+kthread_cancel_work_sync,FUNC_3
+misc_deregister,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+old_wd_data,VAR_1
+test_bit,FUNC_7
+watchdog_active,FUNC_8
+watchdog_core_data_release,VAR_2
+watchdog_miscdev,VAR_3
+watchdog_stop,FUNC_9
+watchdog_cdev_unregister,FUNC_10
+wdd,VAR_4
+wd_data,VAR_5

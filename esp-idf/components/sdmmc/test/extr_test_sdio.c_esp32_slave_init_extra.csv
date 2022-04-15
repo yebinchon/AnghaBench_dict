@@ -1,0 +1,12 @@
+SLC0TX_LINK,VAR_0
+SLCCONF1,VAR_1
+SLC_SLC0_RX_STITCH_EN,VAR_2
+SLC_SLC0_TXLINK_START,VAR_3
+SLC_SLC0_TX_STITCH_EN,VAR_4
+TEST_ESP_OK,FUNC_0
+printf,FUNC_1
+slave_slc_reg_read,FUNC_2
+slave_slc_reg_write,FUNC_3
+esp32_slave_init_extra,FUNC_4
+card,VAR_5
+reg_val,VAR_6

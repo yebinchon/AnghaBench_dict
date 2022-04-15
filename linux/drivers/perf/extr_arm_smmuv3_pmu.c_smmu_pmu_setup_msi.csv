@@ -1,0 +1,16 @@
+SMMU_PMCG_CFGR,VAR_0
+SMMU_PMCG_CFGR_MSI,VAR_1
+SMMU_PMCG_IRQ_CFG0,VAR_2
+dev_warn,FUNC_0
+devm_add_action,FUNC_1
+first_msi_entry,FUNC_2
+platform_msi_domain_alloc_irqs,FUNC_3
+readl,FUNC_4
+smmu_pmu_free_msis,VAR_3
+smmu_pmu_write_msi_msg,VAR_4
+writeq_relaxed,FUNC_5
+smmu_pmu_setup_msi,FUNC_6
+pmu,VAR_5
+desc,VAR_6
+dev,VAR_7
+ret,VAR_8

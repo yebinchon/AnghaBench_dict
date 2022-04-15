@@ -1,0 +1,15 @@
+S626_I2C_BUSY,VAR_0
+S626_I2C_ERR,VAR_1
+S626_MC2_UPLD_IIC,VAR_2
+S626_P_I2CCTRL,VAR_3
+S626_P_MC2,VAR_4
+comedi_timeout,FUNC_0
+readl,FUNC_1
+s626_i2c_handshake_eoc,VAR_5
+s626_mc_enable,FUNC_2
+writel,FUNC_3
+s626_i2c_handshake,FUNC_4
+dev,VAR_6
+val,VAR_7
+ctrl,VAR_8
+ret,VAR_9

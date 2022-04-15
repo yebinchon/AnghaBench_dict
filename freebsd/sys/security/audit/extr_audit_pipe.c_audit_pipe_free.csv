@@ -1,0 +1,17 @@
+AUDIT_PIPE_LIST_WLOCK_ASSERT,FUNC_0
+AUDIT_PIPE_LOCK_ASSERT,FUNC_1
+AUDIT_PIPE_LOCK_DESTROY,FUNC_2
+AUDIT_PIPE_SX_LOCK_DESTROY,FUNC_3
+M_AUDIT_PIPE,VAR_0
+TAILQ_REMOVE,FUNC_4
+ap_list,VAR_1
+audit_pipe_count,VAR_2
+audit_pipe_flush,FUNC_5
+audit_pipe_list,VAR_3
+audit_pipe_preselect_flush_locked,FUNC_6
+cv_destroy,FUNC_7
+free,FUNC_8
+knlist_destroy,FUNC_9
+seldrain,FUNC_10
+audit_pipe_free,FUNC_11
+ap,VAR_4

@@ -1,0 +1,17 @@
+PF_PACKET,VAR_0
+RTM_BASE,VAR_1
+RTM_NR_MSGTYPES,VAR_2
+RTNL_FAMILY_MAX,VAR_3
+memset,FUNC_0
+rcu_dereference_rtnl,FUNC_1
+rtnl_msg_handlers,VAR_4
+rtnl_dump_all,FUNC_2
+skb,VAR_5
+cb,VAR_6
+idx,VAR_7
+s_idx,VAR_8
+type,VAR_9
+ret,VAR_10
+tab,VAR_11
+link,VAR_12
+dumpit,VAR_13

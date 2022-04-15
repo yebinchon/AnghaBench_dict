@@ -1,0 +1,10 @@
+FLAG_MSI_ENABLED,VAR_0
+PCI_COMMAND,VAR_1
+PCI_COMMAND_SERR,VAR_2
+e1000_test_msi_interrupt,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+e1000_test_msi,FUNC_3
+adapter,VAR_3
+err,VAR_4
+pci_cmd,VAR_5

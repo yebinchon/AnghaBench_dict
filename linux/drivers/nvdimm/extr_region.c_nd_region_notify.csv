@@ -1,0 +1,12 @@
+NVDIMM_REVALIDATE_POISON,VAR_0
+child_notify,VAR_1
+device_for_each_child,FUNC_0
+is_memory,FUNC_1
+nvdimm_badblocks_populate,FUNC_2
+sysfs_notify_dirent,FUNC_3
+to_nd_region,FUNC_4
+nd_region_notify,FUNC_5
+dev,VAR_2
+event,VAR_3
+nd_region,VAR_4
+res,VAR_5

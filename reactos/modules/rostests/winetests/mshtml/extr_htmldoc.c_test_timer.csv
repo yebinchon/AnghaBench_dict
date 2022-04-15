@@ -1,0 +1,17 @@
+CHECK_CALLED,FUNC_0
+DispatchMessageA,FUNC_1
+EXPECT_SETTITLE,VAR_0
+EXPECT_UPDATEUI,VAR_1
+Exec_SETTITLE,VAR_2
+Exec_UPDATECOMMANDS,VAR_3
+GetMessageA,FUNC_2
+SET_EXPECT,FUNC_3
+TranslateMessage,FUNC_4
+UpdateUI,VAR_4
+called_Exec_SETTITLE,VAR_5
+called_UpdateUI,VAR_6
+doc_hwnd,VAR_7
+test_timer,FUNC_5
+flags,VAR_8
+b,VAR_9
+msg,VAR_10

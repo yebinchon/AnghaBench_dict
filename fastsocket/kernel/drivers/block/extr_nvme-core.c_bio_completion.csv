@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+EIO,VAR_2
+bio_data_dir,FUNC_0
+bio_endio,FUNC_1
+dma_unmap_sg,FUNC_2
+le16_to_cpup,FUNC_3
+nvme_end_io_acct,FUNC_4
+nvme_free_iod,FUNC_5
+bio_completion,FUNC_6
+dev,VAR_3
+ctx,VAR_4
+cqe,VAR_5
+iod,VAR_6
+bio,VAR_7
+status,VAR_8

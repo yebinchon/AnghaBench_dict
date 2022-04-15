@@ -1,0 +1,13 @@
+GetBackendDataForProc,FUNC_0
+IsInDistributedTransaction,FUNC_1
+MaxBackends,VAR_0
+NIL,VAR_1
+ProcGlobal,VAR_2
+lappend,FUNC_2
+palloc0,FUNC_3
+ActiveDistributedTransactionNumbers,FUNC_4
+activeTransactionNumberList,VAR_3
+curBackend,VAR_4
+currentProc,VAR_5
+currentBackendData,VAR_6
+transactionNumber,VAR_7

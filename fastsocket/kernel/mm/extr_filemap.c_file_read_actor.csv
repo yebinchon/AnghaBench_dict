@@ -1,0 +1,17 @@
+EFAULT,VAR_0
+KM_USER0,VAR_1
+__copy_to_user,FUNC_0
+__copy_to_user_inatomic,FUNC_1
+fault_in_pages_writeable,FUNC_2
+kmap,FUNC_3
+kmap_atomic,FUNC_4
+kunmap,FUNC_5
+kunmap_atomic,FUNC_6
+file_read_actor,FUNC_7
+desc,VAR_2
+page,VAR_3
+offset,VAR_4
+size,VAR_5
+kaddr,VAR_6
+left,VAR_7
+count,VAR_8

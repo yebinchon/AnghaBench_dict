@@ -1,0 +1,15 @@
+BNX2_FLAG_MSIX_CAP,VAR_0
+EINVAL,VAR_1
+RX_MAX_RINGS,VAR_2
+TX_MAX_RINGS,VAR_3
+bnx2_change_ring_size,FUNC_0
+disable_msi,VAR_4
+netdev_priv,FUNC_1
+netif_running,FUNC_2
+bnx2_set_channels,FUNC_3
+dev,VAR_5
+channels,VAR_6
+bp,VAR_7
+max_rx_rings,VAR_8
+max_tx_rings,VAR_9
+rc,VAR_10

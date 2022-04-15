@@ -1,0 +1,17 @@
+HAS_LLC,FUNC_0
+I915_CACHE_LLC,VAR_0
+I915_CACHE_NONE,VAR_1
+I915_GEM_DOMAIN_CPU,VAR_2
+I915_GEM_DOMAIN_GTT,VAR_3
+drm_gem_private_object_init,FUNC_1
+i915_gem_object_alloc,FUNC_2
+i915_gem_object_free,FUNC_3
+i915_gem_object_init,FUNC_4
+i915_gem_object_pin_pages,FUNC_5
+i915_gem_object_set_cache_coherency,FUNC_6
+i915_gem_object_stolen_ops,VAR_4
+_i915_gem_object_create_stolen,FUNC_7
+dev_priv,VAR_5
+stolen,VAR_6
+obj,VAR_7
+cache_level,VAR_8

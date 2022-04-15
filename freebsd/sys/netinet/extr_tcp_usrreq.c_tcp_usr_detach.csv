@@ -1,0 +1,13 @@
+INP_INFO_WLOCKED,FUNC_0
+INP_WLOCK,FUNC_1
+KASSERT,FUNC_2
+NET_EPOCH_ENTER,FUNC_3
+NET_EPOCH_EXIT,FUNC_4
+V_tcbinfo,VAR_0
+sotoinpcb,FUNC_5
+tcp_detach,FUNC_6
+tcp_usr_detach,FUNC_7
+so,VAR_1
+inp,VAR_2
+rlock,VAR_3
+et,VAR_4

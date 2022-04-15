@@ -1,0 +1,16 @@
+a,VAR_0
+b,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+diff,VAR_2
+diff_file_cb,VAR_3
+expect,VAR_4
+g_repo,VAR_5
+git_diff_foreach,FUNC_3
+git_diff_tree_to_tree,FUNC_4
+opts,VAR_6
+resolve_commit_oid_to_tree,FUNC_5
+process_tree_to_tree_diffing,FUNC_6
+old_commit,VAR_7
+new_commit,VAR_8

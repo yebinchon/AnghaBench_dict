@@ -1,0 +1,15 @@
+GIT_ENOTFOUND,VAR_0
+GIT_EUNBORNBRANCH,VAR_1
+GIT_HEAD_FILE,VAR_2
+GIT_REFERENCE_DIRECT,VAR_3
+assert,FUNC_0
+git_reference_free,FUNC_1
+git_reference_lookup,FUNC_2
+git_reference_lookup_resolved,FUNC_3
+git_reference_symbolic_target,FUNC_4
+git_reference_type,FUNC_5
+git_repository_head,FUNC_6
+head_out,VAR_4
+repo,VAR_5
+head,VAR_6
+error,VAR_7

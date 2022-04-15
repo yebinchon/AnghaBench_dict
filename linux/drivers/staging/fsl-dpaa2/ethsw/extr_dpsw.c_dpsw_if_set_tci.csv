@@ -1,0 +1,17 @@
+DEI,VAR_0
+DPSW_CMDID_IF_SET_TCI,VAR_1
+PCP,VAR_2
+VLAN_ID,VAR_3
+cpu_to_le16,FUNC_0
+dpsw_set_field,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpsw_if_set_tci,FUNC_4
+mc_io,VAR_4
+cmd_flags,VAR_5
+token,VAR_6
+if_id,VAR_7
+cfg,VAR_8
+cmd,VAR_9
+cmd_params,VAR_10
+tmp_conf,VAR_11

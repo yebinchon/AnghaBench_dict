@@ -1,0 +1,12 @@
+E4_USTORM_ISCSI_TASK_AG_CTX_DIF_ERROR_CF_EN,VAR_0
+ISCSI_REG1_NUM_SGES,VAR_1
+SET_FIELD,FUNC_0
+cpu_to_le32,FUNC_1
+init_ustorm_task_contexts,FUNC_2
+ustorm_st_cxt,VAR_2
+ustorm_ag_cxt,VAR_3
+remaining_recv_len,VAR_4
+expected_data_transfer_len,VAR_5
+num_sges,VAR_6
+tx_dif_conn_err_en,VAR_7
+val,VAR_8

@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+EIO,VAR_0
+SECTOR_SHIFT,VAR_1
+SECTOR_SIZE,VAR_2
+memset,FUNC_1
+pr_debug,FUNC_2
+read_physical_sector,FUNC_3
+ssfdcr_readsect,FUNC_4
+dev,VAR_3
+logic_sect_no,VAR_4
+buf,VAR_5
+ssfdc,VAR_6
+sectors_per_block,VAR_7
+offset,VAR_8
+block_address,VAR_9
+sect_no,VAR_10

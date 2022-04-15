@@ -1,0 +1,10 @@
+BNX2FC_FLAG_ENABLED,VAR_0
+BNX2FC_FLAG_OFFLOADED,VAR_1
+BNX2FC_FLAG_OFLD_REQ_CMPL,VAR_2
+BNX2FC_TGT_DBG,FUNC_0
+clear_bit,FUNC_1
+set_bit,FUNC_2
+wake_up_interruptible,FUNC_3
+bnx2fc_ofld_timer,FUNC_4
+data,VAR_3
+tgt,VAR_4

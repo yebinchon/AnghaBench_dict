@@ -1,0 +1,13 @@
+SM_COUNTMODE,VAR_0
+SM_DATAIO,VAR_1
+SM_REGINDEX,VAR_2
+SM_RESETCONTROL,VAR_3
+SM_WATCHENABLE,VAR_4
+SM_WATCHTIMER,VAR_5
+inb,FUNC_0
+outb,FUNC_1
+supermicro_new_lock_watchdog,FUNC_2
+supermicro_new_unlock_watchdog,FUNC_3
+supermicro_new_pre_start,FUNC_4
+heartbeat,VAR_6
+val,VAR_7

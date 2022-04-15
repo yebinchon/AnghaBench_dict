@@ -1,0 +1,12 @@
+OC_COMMAND_STOP,VAR_0
+OC_I2C_CMD_REG,VAR_1
+OC_STATUS_BUSY,VAR_2
+device_get_softc,FUNC_0
+iicoc_dev_write,FUNC_1
+iicoc_wait_on_status,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+iicoc_stop,FUNC_5
+dev,VAR_3
+error,VAR_4
+sc,VAR_5

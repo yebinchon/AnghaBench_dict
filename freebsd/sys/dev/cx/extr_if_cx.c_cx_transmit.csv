@@ -1,0 +1,16 @@
+CX_WRITE,VAR_0
+IFCOUNTER_OPACKETS,VAR_1
+IFF_DRV_OACTIVE,VAR_2
+MY_SOFT_INTR,VAR_3
+M_ASYNC,VAR_4
+TS_BUSY,VAR_5
+TS_FLUSH,VAR_6
+cx_fast_ih,VAR_7
+cx_start,FUNC_0
+if_inc_counter,FUNC_1
+swi_sched,FUNC_2
+cx_transmit,FUNC_3
+c,VAR_8
+attachment,VAR_9
+len,VAR_10
+d,VAR_11

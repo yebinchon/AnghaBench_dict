@@ -1,0 +1,14 @@
+STMT_INTERNAL_ROLLBACK_TRANSACTION,VAR_0
+SVN_ERR_SQLITE_BUSY,VAR_1
+SVN_ERR_SQLITE_ROLLBACK_FAILED,VAR_2
+get_internal_statement,FUNC_0
+reset_all_statements,FUNC_1
+svn_error_compose_create,FUNC_2
+svn_error_create,FUNC_3
+svn_error_trace,FUNC_4
+svn_sqlite__step_done,FUNC_5
+rollback_transaction,FUNC_6
+db,VAR_3
+error_to_wrap,VAR_4
+stmt,VAR_5
+err,VAR_6

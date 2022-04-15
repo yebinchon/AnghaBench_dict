@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+SEGV_ACCERR,VAR_1
+SEGV_MAPERR,VAR_2
+SIGSEGV,VAR_3
+VM_MAXUSER_ADDRESS,VAR_4
+copyin,FUNC_0
+cpu_icache_sync_range,FUNC_1
+ksiginfo_init_trap,FUNC_2
+max,FUNC_3
+sync_icache,FUNC_4
+trapsignal,FUNC_5
+arm32_sync_icache,FUNC_6
+td,VAR_5
+args,VAR_6
+ua,VAR_7
+error,VAR_8
+ksi,VAR_9

@@ -1,0 +1,16 @@
+DEVLINK_ESWITCH_MODE_LEGACY,VAR_0
+DEVLINK_ESWITCH_MODE_SWITCHDEV,VAR_1
+EINVAL,VAR_2
+devlink_priv,FUNC_0
+esw_mode_from_devlink,FUNC_1
+esw_offloads_start,FUNC_2
+esw_offloads_stop,FUNC_3
+mlx5_devlink_eswitch_check,FUNC_4
+mlx5_devlink_eswitch_mode_set,FUNC_5
+devlink,VAR_3
+mode,VAR_4
+extack,VAR_5
+dev,VAR_6
+cur_mlx5_mode,VAR_7
+mlx5_mode,VAR_8
+err,VAR_9

@@ -1,0 +1,15 @@
+ADTS_HEADER_SIZE,VAR_0
+ADTS_MAX_FRAME_BYTES,VAR_1
+AVERROR_INVALIDDATA,VAR_2
+AV_LOG_ERROR,VAR_3
+av_log,FUNC_0
+flush_put_bits,FUNC_1
+init_put_bits,FUNC_2
+put_bits,FUNC_3
+adts_write_frame_header,FUNC_4
+ctx,VAR_4
+buf,VAR_5
+size,VAR_6
+pce_size,VAR_7
+pb,VAR_8
+full_frame_size,VAR_9

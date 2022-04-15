@@ -1,0 +1,15 @@
+BLK_NEEDS_REDO,VAR_0
+BufferGetPage,FUNC_0
+BufferIsValid,FUNC_1
+GIN_INCOMPLETE_SPLIT,VAR_1
+GinPageGetOpaque,FUNC_2
+MarkBufferDirty,FUNC_3
+PageSetLSN,FUNC_4
+UnlockReleaseBuffer,FUNC_5
+XLogReadBufferForRedo,FUNC_6
+ginRedoClearIncompleteSplit,FUNC_7
+record,VAR_2
+block_id,VAR_3
+lsn,VAR_4
+buffer,VAR_5
+page,VAR_6

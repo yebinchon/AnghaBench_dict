@@ -1,0 +1,17 @@
+EINPROGRESS,VAR_0
+crypto_free_skcipher,FUNC_0
+crypto_skcipher_ctx,FUNC_1
+crypto_skcipher_reqtfm,FUNC_2
+local_bh_disable,FUNC_3
+local_bh_enable,FUNC_4
+refcount_dec_and_test,FUNC_5
+refcount_read,FUNC_6
+skcipher_request_ctx,FUNC_7
+stub1,FUNC_8
+cryptd_skcipher_complete,FUNC_9
+req,VAR_1
+err,VAR_2
+tfm,VAR_3
+ctx,VAR_4
+rctx,VAR_5
+refcnt,VAR_6

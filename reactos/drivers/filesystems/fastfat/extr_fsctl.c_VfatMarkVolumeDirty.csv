@@ -1,0 +1,11 @@
+BooleanFlagOn,FUNC_0
+DPRINT,FUNC_1
+STATUS_SUCCESS,VAR_0
+SetDirtyStatus,FUNC_2
+TRUE,VAR_1
+VCB_CLEAR_DIRTY,VAR_2
+VCB_IS_DIRTY,VAR_3
+VfatMarkVolumeDirty,FUNC_3
+IrpContext,VAR_4
+DeviceExt,VAR_5
+Status,VAR_6

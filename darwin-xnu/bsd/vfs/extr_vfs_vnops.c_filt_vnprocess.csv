@@ -1,0 +1,16 @@
+EV_CLEAR,VAR_0
+NOTE_REVOKE,VAR_1
+VNODE_NODEAD,VAR_2
+VNODE_WITHID,VAR_3
+filt_vnode_common,FUNC_0
+vnode_getiocount,FUNC_1
+vnode_lock,FUNC_2
+vnode_put_locked,FUNC_3
+vnode_unlock,FUNC_4
+filt_vnprocess,FUNC_5
+kn,VAR_4
+data,VAR_5
+kev,VAR_6
+vp,VAR_7
+activate,VAR_8
+hint,VAR_9

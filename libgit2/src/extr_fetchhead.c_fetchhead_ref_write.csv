@@ -1,0 +1,17 @@
+GIT_HEAD_FILE,VAR_0
+GIT_OID_HEXSZ,VAR_1
+GIT_REFS_HEADS_DIR,VAR_2
+GIT_REFS_TAGS_DIR,VAR_3
+assert,FUNC_0
+git__prefixcmp,FUNC_1
+git__strcmp,FUNC_2
+git_filebuf_printf,FUNC_3
+git_oid_fmt,FUNC_4
+strlen,FUNC_5
+fetchhead_ref_write,FUNC_6
+file,VAR_4
+fetchhead_ref,VAR_5
+oid,VAR_6
+type,VAR_7
+name,VAR_8
+head,VAR_9

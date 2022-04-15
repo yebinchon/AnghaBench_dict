@@ -1,0 +1,14 @@
+PIN_TO_PORT,FUNC_0
+U300_GPIO_PORTX_SPACING,VAR_0
+U300_GPIO_PXICR,VAR_1
+U300_GPIO_PXIEN,VAR_2
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+readl,FUNC_3
+virtbase,VAR_3
+writel,FUNC_4
+enable_irq_on_gpio_pin,FUNC_5
+gpio,VAR_4
+edge,VAR_5
+val,VAR_6
+flags,VAR_7

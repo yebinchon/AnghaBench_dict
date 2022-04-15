@@ -1,0 +1,16 @@
+ASID_MASK,VAR_0
+KSEG1,VAR_1
+TLBSIZE,VAR_2
+barrier,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+pectx_set,FUNC_3
+pevn_get,FUNC_4
+pevn_set,FUNC_5
+tlb_write_indexed,FUNC_6
+tlblock_get,FUNC_7
+tlbpt_set,FUNC_8
+local_flush_tlb_all,FUNC_9
+flags,VAR_3
+old_ASID,VAR_4
+entry,VAR_5

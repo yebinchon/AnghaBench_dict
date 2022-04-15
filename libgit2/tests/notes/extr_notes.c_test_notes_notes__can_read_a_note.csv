@@ -1,0 +1,12 @@
+_repo,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+create_note,FUNC_2
+git_note_free,FUNC_3
+git_note_message,FUNC_4
+git_note_read,FUNC_5
+git_oid_fromstr,FUNC_6
+test_notes_notes__can_read_a_note,FUNC_7
+note_oid,VAR_1
+target_oid,VAR_2
+note,VAR_3

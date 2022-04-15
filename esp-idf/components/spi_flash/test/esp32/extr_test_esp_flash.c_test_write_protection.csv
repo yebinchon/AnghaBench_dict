@@ -1,0 +1,12 @@
+ESP_OK,VAR_0
+TEST_ASSERT,FUNC_0
+TEST_ESP_OK,FUNC_1
+esp_flash_get_chip_write_protect,FUNC_2
+esp_flash_set_chip_write_protect,FUNC_3
+test_write_protection,FUNC_4
+chip,VAR_1
+wp,VAR_2
+ret,VAR_3
+i,VAR_4
+wp_write,VAR_5
+wp_read,VAR_6

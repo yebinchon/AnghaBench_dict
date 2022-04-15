@@ -1,0 +1,9 @@
+get_scr_cfg_addr,FUNC_0
+pci_read_config_dword,FUNC_1
+to_pci_dev,FUNC_2
+uli_scr_cfg_read,FUNC_3
+link,VAR_0
+sc_reg,VAR_1
+pdev,VAR_2
+cfg_addr,VAR_3
+val,VAR_4

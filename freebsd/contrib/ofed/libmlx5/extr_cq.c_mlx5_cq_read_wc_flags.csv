@@ -1,0 +1,17 @@
+IBV_WC_GRH,VAR_0
+IBV_WC_IP_CSUM_OK_SHIFT,VAR_1
+IBV_WC_WITH_IMM,VAR_2
+IBV_WC_WITH_INV,VAR_3
+MLX5_CQE_L3_HDR_TYPE_IPV4,VAR_4
+MLX5_CQE_L3_OK,VAR_5
+MLX5_CQE_L4_OK,VAR_6
+MLX5_CQ_FLAGS_RX_CSUM_VALID,VAR_7
+be32toh,FUNC_0
+get_cqe_l3_hdr_type,FUNC_1
+ibv_cq_ex_to_cq,FUNC_2
+mlx5dv_get_cqe_opcode,FUNC_3
+to_mcq,FUNC_4
+mlx5_cq_read_wc_flags,FUNC_5
+ibcq,VAR_8
+cq,VAR_9
+wc_flags,VAR_10

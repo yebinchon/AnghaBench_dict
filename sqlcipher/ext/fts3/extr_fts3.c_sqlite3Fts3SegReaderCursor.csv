@@ -1,0 +1,16 @@
+FTS3_SEGCURSOR_ALL,VAR_0
+FTS3_SEGCURSOR_PENDING,VAR_1
+FTS3_SEGDIR_MAXLEVEL,VAR_2
+assert,FUNC_0
+fts3SegReaderCursor,FUNC_1
+memset,FUNC_2
+sqlite3Fts3SegReaderCursor,FUNC_3
+p,VAR_3
+iLangid,VAR_4
+iIndex,VAR_5
+iLevel,VAR_6
+zTerm,VAR_7
+nTerm,VAR_8
+isPrefix,VAR_9
+isScan,VAR_10
+pCsr,VAR_11

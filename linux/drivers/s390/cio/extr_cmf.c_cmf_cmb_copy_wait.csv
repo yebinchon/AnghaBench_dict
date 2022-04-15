@@ -1,0 +1,15 @@
+CMF_PENDING,VAR_0
+DEV_STATE_CMFUPDATE,VAR_1
+DEV_STATE_ONLINE,VAR_2
+EBUSY,VAR_3
+ENODEV,VAR_4
+ERESTARTSYS,VAR_5
+cmf_copy_block,FUNC_0
+init_waitqueue_head,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+wait_event_interruptible,FUNC_4
+cmf_cmb_copy_wait,FUNC_5
+cdev,VAR_6
+copy_block,VAR_7
+ret,VAR_8

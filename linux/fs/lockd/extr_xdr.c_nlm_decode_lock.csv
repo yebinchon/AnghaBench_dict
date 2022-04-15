@@ -1,0 +1,17 @@
+FL_POSIX,VAR_0
+F_RDLCK,VAR_1
+NLM_MAXSTRLEN,VAR_2
+OFFSET_MAX,VAR_3
+locks_init_lock,FUNC_0
+nlm_decode_fh,FUNC_1
+nlm_decode_oh,FUNC_2
+ntohl,FUNC_3
+s32_to_loff_t,FUNC_4
+xdr_decode_string_inplace,FUNC_5
+nlm_decode_lock,FUNC_6
+p,VAR_4
+lock,VAR_5
+fl,VAR_6
+start,VAR_7
+len,VAR_8
+end,VAR_9

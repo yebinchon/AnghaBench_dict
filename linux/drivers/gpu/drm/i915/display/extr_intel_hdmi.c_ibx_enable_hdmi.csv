@@ -1,0 +1,16 @@
+HDMI_AUDIO_ENABLE,VAR_0
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+POSTING_READ,FUNC_2
+SDVO_ENABLE,VAR_1
+enc_to_intel_hdmi,FUNC_3
+intel_enable_hdmi_audio,FUNC_4
+to_i915,FUNC_5
+ibx_enable_hdmi,FUNC_6
+encoder,VAR_2
+pipe_config,VAR_3
+conn_state,VAR_4
+dev,VAR_5
+dev_priv,VAR_6
+intel_hdmi,VAR_7
+temp,VAR_8

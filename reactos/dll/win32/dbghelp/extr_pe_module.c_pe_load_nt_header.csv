@@ -1,0 +1,8 @@
+IMAGE_DOS_SIGNATURE,VAR_0
+IMAGE_NT_SIGNATURE,VAR_1
+ReadProcessMemory,FUNC_0
+pe_load_nt_header,FUNC_1
+hProc,VAR_2
+base,VAR_3
+nth,VAR_4
+dos,VAR_5

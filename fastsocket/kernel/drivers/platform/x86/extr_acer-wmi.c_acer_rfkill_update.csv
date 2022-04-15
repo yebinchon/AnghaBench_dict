@@ -1,0 +1,16 @@
+ACER_CAP_BLUETOOTH,VAR_0
+ACER_CAP_WIRELESS,VAR_1
+ACPI_SUCCESS,FUNC_0
+HZ,VAR_2
+acer_rfkill_work,VAR_3
+bluetooth_rfkill,VAR_4
+get_u32,FUNC_1
+has_cap,FUNC_2
+rfkill_set_sw_state,FUNC_3
+round_jiffies_relative,FUNC_4
+schedule_delayed_work,FUNC_5
+wireless_rfkill,VAR_5
+acer_rfkill_update,FUNC_6
+ignored,VAR_6
+state,VAR_7
+status,VAR_8

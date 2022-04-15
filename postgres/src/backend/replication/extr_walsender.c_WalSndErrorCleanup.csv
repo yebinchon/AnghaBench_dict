@@ -1,0 +1,15 @@
+ConditionVariableCancelSleep,FUNC_0
+LWLockReleaseAll,FUNC_1
+MyReplicationSlot,VAR_0
+ReplicationSlotCleanup,FUNC_2
+ReplicationSlotRelease,FUNC_3
+WALSNDSTATE_STARTUP,VAR_1
+WalSndSetState,FUNC_4
+close,FUNC_5
+got_SIGUSR2,VAR_2
+got_STOPPING,VAR_3
+pgstat_report_wait_end,FUNC_6
+proc_exit,FUNC_7
+replication_active,VAR_4
+sendSeg,VAR_5
+WalSndErrorCleanup,FUNC_8

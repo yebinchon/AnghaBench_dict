@@ -1,0 +1,15 @@
+ClearConsoleBuffer,FUNC_0
+FALSE,VAR_0
+FitConsoleWindow,FUNC_1
+SetConsoleCursorPosition,FUNC_2
+SetConsoleScreenBufferSize,FUNC_3
+SetConsoleTextAttribute,FUNC_4
+SetConsoleWindowInfo,FUNC_5
+TRUE,VAR_1
+WriteConsoleOutput,FUNC_6
+g_hConOut,VAR_2
+RestoreConsoleBuffer,FUNC_7
+cb,VAR_3
+RestoreScreen,VAR_4
+BufferCoord,VAR_5
+WriteRegion,VAR_6

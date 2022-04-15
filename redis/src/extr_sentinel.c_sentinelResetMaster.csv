@@ -1,0 +1,16 @@
+LL_WARNING,VAR_0
+SENTINEL_FAILOVER_STATE_NONE,VAR_1
+SENTINEL_GENERATE_EVENT,VAR_2
+SENTINEL_RESET_NO_SENTINELS,VAR_3
+SRI_MASTER,VAR_4
+dictCreate,FUNC_0
+dictRelease,FUNC_1
+instanceLinkCloseConnection,FUNC_2
+instancesDictType,VAR_5
+mstime,FUNC_3
+sdsfree,FUNC_4
+sentinelEvent,FUNC_5
+serverAssert,FUNC_6
+sentinelResetMaster,FUNC_7
+ri,VAR_6
+flags,VAR_7

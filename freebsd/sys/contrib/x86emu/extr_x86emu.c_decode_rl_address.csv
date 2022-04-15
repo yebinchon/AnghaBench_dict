@@ -1,0 +1,12 @@
+SYSMODE_PREFIX_ADDR,VAR_0
+SYSMODE_SEG_DS_SS,VAR_1
+decode_sib_address,FUNC_0
+fetch_byte_imm,FUNC_1
+fetch_long_imm,FUNC_2
+fetch_word_imm,FUNC_3
+x86emu_halt_sys,FUNC_4
+decode_rl_address,FUNC_5
+emu,VAR_2
+offset,VAR_3
+sib,VAR_4
+offset,VAR_5

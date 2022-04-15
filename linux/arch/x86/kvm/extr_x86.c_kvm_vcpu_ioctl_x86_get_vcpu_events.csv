@@ -1,0 +1,16 @@
+HF_SMM_INSIDE_NMI_MASK,VAR_0
+KVM_VCPUEVENT_VALID_NMI_PENDING,VAR_1
+KVM_VCPUEVENT_VALID_PAYLOAD,VAR_2
+KVM_VCPUEVENT_VALID_SHADOW,VAR_3
+KVM_VCPUEVENT_VALID_SMM,VAR_4
+is_smm,FUNC_0
+kvm_exception_is_soft,FUNC_1
+kvm_lapic_latched_init,FUNC_2
+kvm_x86_ops,VAR_5
+memset,FUNC_3
+process_nmi,FUNC_4
+stub1,FUNC_5
+stub2,FUNC_6
+kvm_vcpu_ioctl_x86_get_vcpu_events,FUNC_7
+vcpu,VAR_6
+events,VAR_7

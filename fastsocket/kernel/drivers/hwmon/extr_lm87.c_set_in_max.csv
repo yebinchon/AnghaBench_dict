@@ -1,0 +1,16 @@
+IN_TO_REG,FUNC_0
+LM87_REG_AIN_MAX,FUNC_1
+LM87_REG_IN_MAX,FUNC_2
+i2c_get_clientdata,FUNC_3
+lm87_write_value,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+simple_strtol,FUNC_7
+to_i2c_client,FUNC_8
+set_in_max,FUNC_9
+dev,VAR_0
+buf,VAR_1
+nr,VAR_2
+client,VAR_3
+data,VAR_4
+val,VAR_5

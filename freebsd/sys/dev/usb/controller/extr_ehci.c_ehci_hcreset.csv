@@ -1,0 +1,13 @@
+EHCI_STS_HCH,VAR_0
+EHCI_USBCMD,VAR_1
+EHCI_USBSTS,VAR_2
+EOREAD4,FUNC_0
+EOWRITE4,FUNC_1
+device_printf,FUNC_2
+ehci_reset,FUNC_3
+hz,VAR_3
+usb_pause_mtx,FUNC_4
+ehci_hcreset,FUNC_5
+sc,VAR_4
+hcr,VAR_5
+i,VAR_6

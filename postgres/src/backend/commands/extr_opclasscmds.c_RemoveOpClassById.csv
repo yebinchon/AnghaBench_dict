@@ -1,0 +1,16 @@
+CLAOID,VAR_0
+CatalogTupleDelete,FUNC_0
+ERROR,VAR_1
+HeapTupleIsValid,FUNC_1
+ObjectIdGetDatum,FUNC_2
+OperatorClassRelationId,VAR_2
+ReleaseSysCache,FUNC_3
+RowExclusiveLock,VAR_3
+SearchSysCache1,FUNC_4
+elog,FUNC_5
+table_close,FUNC_6
+table_open,FUNC_7
+RemoveOpClassById,FUNC_8
+opclassOid,VAR_4
+rel,VAR_5
+tup,VAR_6

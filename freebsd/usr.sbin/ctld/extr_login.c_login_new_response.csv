@@ -1,0 +1,12 @@
+BHSLR_STAGE_SECURITY_NEGOTIATION,VAR_0
+ISCSI_BHS_OPCODE_LOGIN_RESPONSE,VAR_1
+htonl,FUNC_0
+login_set_csg,FUNC_1
+memcpy,FUNC_2
+pdu_new_response,FUNC_3
+login_new_response,FUNC_4
+request,VAR_2
+response,VAR_3
+conn,VAR_4
+bhslr,VAR_5
+bhslr2,VAR_6

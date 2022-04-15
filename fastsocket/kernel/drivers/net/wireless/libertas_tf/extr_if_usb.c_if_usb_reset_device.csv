@@ -1,0 +1,15 @@
+CMD_802_11_RESET,VAR_0
+CMD_ACT_HALT,VAR_1
+CMD_TYPE_REQUEST,VAR_2
+LBTF_DEB_USB,VAR_3
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+lbtf_deb_enter,FUNC_2
+lbtf_deb_leave_args,FUNC_3
+msleep,FUNC_4
+usb_reset_device,FUNC_5
+usb_tx_block,FUNC_6
+if_usb_reset_device,FUNC_7
+cardp,VAR_4
+cmd,VAR_5
+ret,VAR_6

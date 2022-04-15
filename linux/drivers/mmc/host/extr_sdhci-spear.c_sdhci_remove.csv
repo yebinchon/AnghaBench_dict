@@ -1,0 +1,13 @@
+SDHCI_INT_STATUS,VAR_0
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+readl,FUNC_2
+sdhci_free_host,FUNC_3
+sdhci_priv,FUNC_4
+sdhci_remove_host,FUNC_5
+sdhci_remove,FUNC_6
+pdev,VAR_1
+host,VAR_2
+sdhci,VAR_3
+dead,VAR_4
+scratch,VAR_5

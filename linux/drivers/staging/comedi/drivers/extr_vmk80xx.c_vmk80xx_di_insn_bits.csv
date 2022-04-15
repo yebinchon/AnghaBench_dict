@@ -1,0 +1,17 @@
+VMK8055_DI_REG,VAR_0
+VMK8055_MODEL,VAR_1
+VMK8061_CMD_RD_DI,VAR_2
+VMK8061_DI_REG,VAR_3
+VMK8061_MODEL,VAR_4
+down,FUNC_0
+up,FUNC_1
+vmk80xx_read_packet,FUNC_2
+vmk80xx_di_insn_bits,FUNC_3
+dev,VAR_5
+s,VAR_6
+insn,VAR_7
+data,VAR_8
+devpriv,VAR_9
+rx_buf,VAR_10
+reg,VAR_11
+retval,VAR_12

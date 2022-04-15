@@ -1,0 +1,16 @@
+ETH_P_8021AD,VAR_0
+ETH_P_8021Q,VAR_1
+ETH_P_IP,VAR_2
+ETH_P_IPV6,VAR_3
+htons,FUNC_0
+parse_ipv4,FUNC_1
+parse_ipv6,FUNC_2
+handle_ingress,FUNC_3
+skb,VAR_4
+data,VAR_5
+eth,VAR_6
+data_end,VAR_7
+h_proto,VAR_8
+nh_off,VAR_9
+vhdr,VAR_10
+vhdr,VAR_11

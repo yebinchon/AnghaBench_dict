@@ -1,0 +1,14 @@
+CLK_MGR_FREE_MASK,VAR_0
+CLK_MGR_FREE_SHIFT,VAR_1
+SOCFPGA_MPU_FREE_CLK,VAR_2
+SOCFPGA_NOC_FREE_CLK,VAR_3
+SOCFPGA_SDMMC_FREE_CLK,VAR_4
+clk_hw_get_name,FUNC_0
+readl,FUNC_1
+streq,FUNC_2
+to_socfpga_periph_clk,FUNC_3
+clk_periclk_get_parent,FUNC_4
+hwclk,VAR_5
+socfpgaclk,VAR_6
+clk_src,VAR_7
+name,VAR_8

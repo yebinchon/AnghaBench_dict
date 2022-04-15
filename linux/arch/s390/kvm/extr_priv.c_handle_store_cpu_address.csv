@@ -1,0 +1,15 @@
+PGM_PRIVILEGED_OP,VAR_0
+PGM_SPECIFICATION,VAR_1
+PSW_MASK_PSTATE,VAR_2
+VCPU_EVENT,FUNC_0
+kvm_s390_get_base_disp_s,FUNC_1
+kvm_s390_inject_prog_cond,FUNC_2
+kvm_s390_inject_program_int,FUNC_3
+trace_kvm_s390_handle_stap,FUNC_4
+write_guest,FUNC_5
+handle_store_cpu_address,FUNC_6
+vcpu,VAR_3
+vcpu_id,VAR_4
+ga,VAR_5
+rc,VAR_6
+ar,VAR_7

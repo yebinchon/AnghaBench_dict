@@ -1,0 +1,12 @@
+PKEY_DISABLE_ACCESS,VAR_0
+__pkru_allows_read,FUNC_0
+arch_set_user_pkey_access,FUNC_1
+current,VAR_1
+mm_pkey_alloc,FUNC_2
+mm_set_pkey_free,FUNC_3
+read_pkru,FUNC_4
+__execute_only_pkey,FUNC_5
+mm,VAR_2
+need_to_set_mm_pkey,VAR_3
+execute_only_pkey,VAR_4
+ret,VAR_5

@@ -1,0 +1,17 @@
+ATOM_GET_VOLTAGE_EVV_VOLTAGE,VAR_0
+COMMAND,VAR_1
+GetIndexIntoMasterTable,FUNC_0
+GetVoltageInfo,VAR_2
+amdgpu_atom_execute_table,FUNC_1
+cpu_to_le16,FUNC_2
+cpu_to_le32,FUNC_3
+le32_to_cpu,FUNC_4
+atomctrl_get_voltage_evv_on_sclk_ai,FUNC_5
+hwmgr,VAR_3
+voltage_type,VAR_4
+sclk,VAR_5
+virtual_voltage_Id,VAR_6
+voltage,VAR_7
+adev,VAR_8
+result,VAR_9
+get_voltage_info_param_space,VAR_10

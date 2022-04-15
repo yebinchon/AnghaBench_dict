@@ -1,0 +1,10 @@
+CONGUI_UPDATE_TIMER,VAR_0
+DefWindowProcW,FUNC_0
+GWLP_USERDATA,VAR_1
+GetSystemMenu,FUNC_1
+KillTimer,FUNC_2
+SetWindowLongPtrW,FUNC_3
+TRUE,VAR_2
+WM_NCDESTROY,VAR_3
+GuiConsoleHandleNcDestroy,FUNC_4
+hWnd,VAR_4

@@ -1,0 +1,13 @@
+IFLIB_INTR_MSIX,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_0
+iflib_get_dev,FUNC_1
+iflib_get_softc,FUNC_2
+iflib_irq_free,FUNC_3
+rman_get_rid,FUNC_4
+ixv_free_pci_resources,FUNC_5
+ctx,VAR_2
+adapter,VAR_3
+que,VAR_4
+dev,VAR_5
+i,VAR_6

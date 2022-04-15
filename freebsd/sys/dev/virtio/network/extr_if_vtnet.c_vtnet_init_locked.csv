@@ -1,0 +1,14 @@
+IFF_DRV_RUNNING,VAR_0
+VTNET_CORE_LOCK_ASSERT,FUNC_0
+callout_reset,FUNC_1
+hz,VAR_1
+virtio_reinit_complete,FUNC_2
+vtnet_reinit,FUNC_3
+vtnet_stop,FUNC_4
+vtnet_tick,VAR_2
+vtnet_update_link_status,FUNC_5
+vtnet_virtio_reinit,FUNC_6
+vtnet_init_locked,FUNC_7
+sc,VAR_3
+dev,VAR_4
+ifp,VAR_5

@@ -1,0 +1,17 @@
+FALSE,VAR_0
+PsGetCurrentProcessWin32Process,FUNC_0
+PsGetProcessId,FUNC_1
+STUB,VAR_1
+TRACE,FUNC_2
+TRUE,VAR_2
+W32PF_APIHOOKLOADED,VAR_3
+WH_APIHOOK,VAR_4
+co_IntClientLoadLibrary,FUNC_3
+strUahInitFunc,VAR_5
+strUahModule,VAR_6
+IntLoadHookModule,FUNC_4
+iHookID,VAR_7
+hHook,VAR_8
+Unload,VAR_9
+ppi,VAR_10
+bResult,VAR_11

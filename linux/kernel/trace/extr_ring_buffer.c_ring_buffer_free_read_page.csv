@@ -1,0 +1,15 @@
+arch_spin_lock,FUNC_0
+arch_spin_unlock,FUNC_1
+free_page,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+page_ref_count,FUNC_5
+virt_to_page,FUNC_6
+ring_buffer_free_read_page,FUNC_7
+buffer,VAR_0
+cpu,VAR_1
+data,VAR_2
+cpu_buffer,VAR_3
+bpage,VAR_4
+page,VAR_5
+flags,VAR_6

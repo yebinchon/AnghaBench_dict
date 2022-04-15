@@ -1,0 +1,10 @@
+MACH_PORT_NULL,VAR_0
+MACH_VOUCHER_ATTR_ATM_CREATE,VAR_1
+MACH_VOUCHER_ATTR_KEY_ATM,VAR_2
+T_ASSERT_MACH_SUCCESS,FUNC_0
+host_create_mach_voucher,FUNC_1
+mach_host_self,FUNC_2
+get_atm_voucher,FUNC_3
+r,VAR_3
+port,VAR_4
+kr,VAR_5

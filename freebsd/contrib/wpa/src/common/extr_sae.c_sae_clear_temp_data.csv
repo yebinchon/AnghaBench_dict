@@ -1,0 +1,9 @@
+bin_clear_free,FUNC_0
+crypto_bignum_deinit,FUNC_1
+crypto_ec_deinit,FUNC_2
+crypto_ec_point_deinit,FUNC_3
+os_free,FUNC_4
+wpabuf_free,FUNC_5
+sae_clear_temp_data,FUNC_6
+sae,VAR_0
+tmp,VAR_1

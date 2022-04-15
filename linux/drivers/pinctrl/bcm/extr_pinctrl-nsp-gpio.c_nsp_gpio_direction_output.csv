@@ -1,0 +1,14 @@
+NSP_GPIO_DATA_OUT,VAR_0
+NSP_GPIO_OUT_EN,VAR_1
+REG,VAR_2
+dev_dbg,FUNC_0
+gpiochip_get_data,FUNC_1
+nsp_set_bit,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+nsp_gpio_direction_output,FUNC_5
+gc,VAR_3
+gpio,VAR_4
+val,VAR_5
+chip,VAR_6
+flags,VAR_7

@@ -1,0 +1,15 @@
+DELAY,FUNC_0
+GICR_WAKER,VAR_0
+GICR_WAKER_CA,VAR_1
+GICR_WAKER_PS,VAR_2
+PCPU_GET,FUNC_1
+bootverbose,VAR_3
+cpuid,VAR_4
+device_printf,FUNC_2
+gic_r_read,FUNC_3
+gic_r_write,FUNC_4
+panic,FUNC_5
+gic_v3_redist_wake,FUNC_6
+sc,VAR_5
+waker,VAR_6
+us_left,VAR_7

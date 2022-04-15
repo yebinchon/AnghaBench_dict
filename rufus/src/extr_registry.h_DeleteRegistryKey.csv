@@ -1,0 +1,17 @@
+ERROR_ACCESS_DENIED,VAR_0
+ERROR_FILE_NOT_FOUND,VAR_1
+ERROR_SUCCESS,VAR_2
+FALSE,VAR_3
+KEY_CREATE_SUB_KEY,VAR_4
+KEY_READ,VAR_5
+RegCloseKey,FUNC_0
+RegDeleteKeyA,FUNC_1
+RegOpenKeyExA,FUNC_2
+SetLastError,FUNC_3
+WindowsErrorString,FUNC_4
+uprintf,FUNC_5
+DeleteRegistryKey,FUNC_6
+key_root,VAR_6
+key_name,VAR_7
+hSoftware,VAR_8
+s,VAR_9

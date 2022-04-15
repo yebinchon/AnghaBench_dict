@@ -1,0 +1,17 @@
+SCSI_LOG_MLQUEUE,FUNC_0
+blk_requeue_request,FUNC_1
+kblockd_schedule_work,FUNC_2
+printk,FUNC_3
+scsi_device_unbusy,FUNC_4
+scsi_target,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+__scsi_queue_insert,FUNC_8
+cmd,VAR_0
+reason,VAR_1
+unbusy,VAR_2
+host,VAR_3
+device,VAR_4
+starget,VAR_5
+q,VAR_6
+flags,VAR_7

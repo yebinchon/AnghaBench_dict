@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINTR,VAR_1
+ERESTART,VAR_2
+ERESTARTSYS,VAR_3
+MPASS,FUNC_0
+PCATCH,VAR_4
+__ttm_read_trylock,FUNC_1
+msleep,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+ttm_read_trylock,FUNC_5
+lock,VAR_5
+interruptible,VAR_6
+wmsg,VAR_7
+flags,VAR_8
+ret,VAR_9
+locked,VAR_10

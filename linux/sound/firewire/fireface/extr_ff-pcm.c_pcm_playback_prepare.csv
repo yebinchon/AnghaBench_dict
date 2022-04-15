@@ -1,0 +1,9 @@
+amdtp_stream_pcm_prepare,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_ff_stream_start_duplex,FUNC_3
+pcm_playback_prepare,FUNC_4
+substream,VAR_0
+ff,VAR_1
+runtime,VAR_2
+err,VAR_3

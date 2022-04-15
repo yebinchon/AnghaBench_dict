@@ -1,0 +1,15 @@
+UIP_ERR_OK,VAR_0
+UIP_TF_NODELAY,VAR_1
+__tcpip_poll,FUNC_0
+tcpip_getsocket,FUNC_1
+uip_tcp_sndbuf,FUNC_2
+uip_tcp_write,FUNC_3
+uip_tcpoutput,FUNC_4
+tcpip_write,FUNC_5
+s,VAR_2
+buffer,VAR_3
+len,VAR_4
+err,VAR_5
+snd_buf,VAR_6
+copy,VAR_7
+sock,VAR_8

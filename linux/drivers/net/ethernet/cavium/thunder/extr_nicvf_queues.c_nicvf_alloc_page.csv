@@ -1,0 +1,16 @@
+XDP_PAGE_REFCNT_REFILL,VAR_0
+__GFP_COMP,VAR_1
+__GFP_NOWARN,VAR_2
+alloc_pages,FUNC_0
+page_ref_add,FUNC_1
+page_ref_count,FUNC_2
+prefetch,FUNC_3
+this_cpu_inc,FUNC_4
+nicvf_alloc_page,FUNC_5
+nic,VAR_3
+rbdr,VAR_4
+gfp,VAR_5
+ref_count,VAR_6
+page,VAR_7
+pgcache,VAR_8
+next,VAR_9

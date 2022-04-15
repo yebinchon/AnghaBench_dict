@@ -1,0 +1,12 @@
+TCMU_ATTR_DEV_CFG,VAR_0
+TCMU_CMD_RECONFIG_DEVICE,VAR_1
+nla_put_string,FUNC_0
+nlmsg_free,FUNC_1
+tcmu_netlink_event_init,FUNC_2
+tcmu_netlink_event_send,FUNC_3
+tcmu_send_dev_config_event,FUNC_4
+udev,VAR_2
+reconfig_data,VAR_3
+skb,VAR_4
+msg_header,VAR_5
+ret,VAR_6

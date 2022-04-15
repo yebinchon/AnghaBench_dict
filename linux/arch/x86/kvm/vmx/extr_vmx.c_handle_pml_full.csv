@@ -1,0 +1,13 @@
+EXIT_QUALIFICATION,VAR_0
+GUEST_INTERRUPTIBILITY_INFO,VAR_1
+GUEST_INTR_STATE_NMI,VAR_2
+INTR_INFO_UNBLOCK_NMI,VAR_3
+VECTORING_INFO_VALID_MASK,VAR_4
+enable_vnmi,VAR_5
+to_vmx,FUNC_0
+trace_kvm_pml_full,FUNC_1
+vmcs_readl,FUNC_2
+vmcs_set_bits,FUNC_3
+handle_pml_full,FUNC_4
+vcpu,VAR_6
+exit_qualification,VAR_7

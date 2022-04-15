@@ -1,0 +1,17 @@
+IWL_ERR,FUNC_0
+IWL_MAX_DTS_TRIPS,VAR_0
+PHY_OPS_GROUP,VAR_1
+S16_MIN,VAR_2
+TEMP_REPORTING_THRESHOLDS_CMD,VAR_3
+WIDE_ID,FUNC_1
+compare_temps,VAR_4
+cpu_to_le16,FUNC_2
+cpu_to_le32,FUNC_3
+iwl_mvm_send_cmd_pdu,FUNC_4
+le16_to_cpu,FUNC_5
+lockdep_assert_held,FUNC_6
+sort,FUNC_7
+iwl_mvm_send_temp_report_ths_cmd,FUNC_8
+mvm,VAR_5
+cmd,VAR_6
+ret,VAR_7

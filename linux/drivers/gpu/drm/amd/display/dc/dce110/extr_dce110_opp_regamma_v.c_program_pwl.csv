@@ -1,0 +1,13 @@
+GAMMA_CORR_LUT_WRITE_EN_MASK,VAR_0
+dm_write_reg,FUNC_0
+mmGAMMA_CORR_LUT_DATA,VAR_1
+mmGAMMA_CORR_LUT_INDEX,VAR_2
+mmGAMMA_CORR_LUT_WRITE_EN_MASK,VAR_3
+set_reg_field_value,FUNC_1
+program_pwl,FUNC_2
+xfm_dce,VAR_4
+params,VAR_5
+value,VAR_6
+addr,VAR_7
+i,VAR_8
+rgb,VAR_9

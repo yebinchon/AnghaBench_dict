@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+IB_QPT_UD,VAR_1
+MLX4_TUN_SET_WRID_QPN,FUNC_0
+MLX4_TUN_WRID_RECV,VAR_2
+ib_dma_sync_single_for_device,FUNC_1
+ib_post_recv,FUNC_2
+mlx4_ib_post_pv_qp_buf,FUNC_3
+ctx,VAR_3
+tun_qp,VAR_4
+index,VAR_5
+sg_list,VAR_6
+recv_wr,VAR_7
+bad_recv_wr,VAR_8
+size,VAR_9

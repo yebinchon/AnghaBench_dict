@@ -1,0 +1,12 @@
+APDS9300_CMD,VAR_0
+APDS9300_INTERRUPT,VAR_1
+APDS9300_INTR_ENABLE,VAR_2
+APDS9300_THRESH_INTR,VAR_3
+EBUSY,VAR_4
+dev_err,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+apds9300_set_intr_state,FUNC_2
+data,VAR_5
+state,VAR_6
+ret,VAR_7
+cmd,VAR_8

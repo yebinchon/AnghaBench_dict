@@ -1,0 +1,15 @@
+EMSGSIZE,VAR_0
+ETH_ALEN,VAR_1
+ROCKER_TLV_OF_DPA_DST_MAC,VAR_2
+ROCKER_TLV_OF_DPA_GROUP_ID_LOWER,VAR_3
+ROCKER_TLV_OF_DPA_SRC_MAC,VAR_4
+ROCKER_TLV_OF_DPA_TTL_CHECK,VAR_5
+ROCKER_TLV_OF_DPA_VLAN_ID,VAR_6
+is_zero_ether_addr,FUNC_0
+rocker_tlv_put,FUNC_1
+rocker_tlv_put_be16,FUNC_2
+rocker_tlv_put_u32,FUNC_3
+rocker_tlv_put_u8,FUNC_4
+ofdpa_cmd_group_tbl_add_l3_unicast,FUNC_5
+desc_info,VAR_7
+entry,VAR_8

@@ -1,0 +1,13 @@
+__rdmsr_safe_on_cpu,VAR_0
+init_completion,FUNC_0
+memset,FUNC_1
+smp_call_function_single_async,FUNC_2
+wait_for_completion,FUNC_3
+rdmsr_safe_on_cpu,FUNC_4
+cpu,VAR_1
+msr_no,VAR_2
+l,VAR_3
+h,VAR_4
+rv,VAR_5
+csd,VAR_6
+err,VAR_7

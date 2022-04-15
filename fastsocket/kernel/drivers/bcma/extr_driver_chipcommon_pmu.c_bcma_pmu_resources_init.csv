@@ -1,0 +1,10 @@
+BCMA_CC_PMU_MAXRES_MSK,VAR_0
+BCMA_CC_PMU_MINRES_MSK,VAR_1
+bcma_cc_write32,FUNC_0
+bcma_debug,FUNC_1
+mdelay,FUNC_2
+bcma_pmu_resources_init,FUNC_3
+cc,VAR_2
+bus,VAR_3
+min_msk,VAR_4
+max_msk,VAR_5

@@ -1,0 +1,17 @@
+PCI_DN,FUNC_0
+iommu_init_table,FUNC_1
+iommu_pseries_alloc_group,FUNC_2
+iommu_register_group,FUNC_3
+iommu_table_lpar_multi_ops,VAR_0
+iommu_table_setparms_lpar,FUNC_4
+of_get_property,FUNC_5
+pci_bus_to_OF_node,FUNC_6
+pci_domain_nr,FUNC_7
+pr_debug,FUNC_8
+pci_dma_bus_setup_pSeriesLP,FUNC_9
+bus,VAR_1
+tbl,VAR_2
+dn,VAR_3
+pdn,VAR_4
+ppci,VAR_5
+dma_window,VAR_6

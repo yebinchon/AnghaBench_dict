@@ -1,0 +1,11 @@
+SCIC_SDS_REMOTE_NODE_CONTEXT_AWAIT_SUSPENSION_STATE,VAR_0
+SCI_SOFTWARE_SUSPENSION,VAR_1
+SCI_SUCCESS,VAR_2
+SCU_CONTEXT_COMMAND_POST_RNC_SUSPEND_TX,VAR_3
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_remote_device_post_request,FUNC_1
+scic_sds_remote_node_context_ready_state_suspend_handler,FUNC_2
+this_rnc,VAR_4
+suspend_type,VAR_5
+the_callback,VAR_6
+callback_parameter,VAR_7

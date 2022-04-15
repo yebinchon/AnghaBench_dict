@@ -1,0 +1,14 @@
+DIB8000_POWER_INTERFACE_ONLY,VAR_0
+DIBX000_ADC_OFF,VAR_1
+DIBX000_SLOW_ADC_OFF,VAR_2
+MAX_NUMBER_OF_FRONTENDS,VAR_3
+OUTMODE_HIGH_Z,VAR_4
+dib8000_set_adc_state,FUNC_0
+dib8000_set_output_mode,FUNC_1
+dib8000_set_power_mode,FUNC_2
+stub1,FUNC_3
+dib8000_sleep,FUNC_4
+fe,VAR_5
+state,VAR_6
+index_frontend,VAR_7
+ret,VAR_8

@@ -1,0 +1,12 @@
+disable_timer,FUNC_0
+ib_dealloc_device,FUNC_1
+ib_unregister_device,FUNC_2
+ipath_dev_err,FUNC_3
+ipath_free_all_qps,FUNC_4
+ipath_mcast_tree_empty,FUNC_5
+kfree,FUNC_6
+list_empty,FUNC_7
+ipath_unregister_ib_device,FUNC_8
+dev,VAR_0
+ibdev,VAR_1
+qps_inuse,VAR_2

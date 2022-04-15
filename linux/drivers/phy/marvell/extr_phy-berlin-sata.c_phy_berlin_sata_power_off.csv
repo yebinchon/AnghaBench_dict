@@ -1,0 +1,16 @@
+CONTROL_REGISTER,VAR_0
+HOST_VSA_ADDR,VAR_1
+HOST_VSA_DATA,VAR_2
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_get_drvdata,FUNC_2
+phy_get_drvdata,FUNC_3
+readl,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+writel,FUNC_7
+phy_berlin_sata_power_off,FUNC_8
+phy,VAR_3
+desc,VAR_4
+priv,VAR_5
+regval,VAR_6

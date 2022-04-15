@@ -1,0 +1,11 @@
+EC_MKBP_EVENT_SWITCH,VAR_0
+EC_MKBP_INFO_CURRENT,VAR_1
+EV_SW,VAR_2
+cros_ec_keyb_info,FUNC_0
+cros_ec_keyb_report_bs,FUNC_1
+get_unaligned_le32,FUNC_2
+cros_ec_keyb_query_switches,FUNC_3
+ckdev,VAR_3
+ec_dev,VAR_4
+event_data,VAR_5
+ret,VAR_6

@@ -1,0 +1,11 @@
+DMA_COMPL_DEST_UNMAP_SINGLE,VAR_0
+DMA_COMPL_SRC_UNMAP_SINGLE,VAR_1
+pci_unmap_page,FUNC_0
+pci_unmap_single,FUNC_1
+ioat_unmap,FUNC_2
+pdev,VAR_2
+addr,VAR_3
+len,VAR_4
+direction,VAR_5
+flags,VAR_6
+dst,VAR_7

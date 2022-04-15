@@ -1,0 +1,16 @@
+EXT4_I,FUNC_0
+EXT4_SB,FUNC_1
+IS_ERR,FUNC_2
+PTR_ERR,FUNC_3
+__ext4_xattr_set_credits,FUNC_4
+brelse,FUNC_5
+down_read,FUNC_6
+ext4_xattr_get_block,FUNC_7
+up_read,FUNC_8
+ext4_xattr_set_credits,FUNC_9
+inode,VAR_0
+value_len,VAR_1
+is_create,VAR_2
+credits,VAR_3
+bh,VAR_4
+err,VAR_5

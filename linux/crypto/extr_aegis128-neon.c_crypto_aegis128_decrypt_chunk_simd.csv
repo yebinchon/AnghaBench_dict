@@ -1,0 +1,8 @@
+crypto_aegis128_decrypt_chunk_neon,FUNC_0
+kernel_neon_begin,FUNC_1
+kernel_neon_end,FUNC_2
+crypto_aegis128_decrypt_chunk_simd,FUNC_3
+state,VAR_0
+dst,VAR_1
+src,VAR_2
+size,VAR_3

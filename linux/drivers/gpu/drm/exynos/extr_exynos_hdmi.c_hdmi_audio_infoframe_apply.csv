@@ -1,0 +1,13 @@
+AUDIO,VAR_0
+HDMI_AUI_CON,VAR_1
+HDMI_AUI_CON_EVERY_VSYNC,VAR_2
+HDMI_AUI_HEADER0,VAR_3
+HDMI_INFOFRAME_SIZE,FUNC_0
+hdmi_audio_infoframe_pack,FUNC_1
+hdmi_reg_write_buf,FUNC_2
+hdmi_reg_writeb,FUNC_3
+hdmi_audio_infoframe_apply,FUNC_4
+hdata,VAR_4
+infoframe,VAR_5
+buf,VAR_6
+len,VAR_7

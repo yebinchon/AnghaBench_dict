@@ -1,0 +1,15 @@
+USB_CTRL_SET_TIMEOUT,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_DEVICE,VAR_2
+USB_REQ_SET_ENCRYPTION,VAR_3
+USB_TYPE_STANDARD,VAR_4
+dev_err,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+wusb_et_name,FUNC_3
+wusb_dev_set_encryption,FUNC_4
+usb_dev,VAR_5
+value,VAR_6
+result,VAR_7
+dev,VAR_8
+wusb_dev,VAR_9

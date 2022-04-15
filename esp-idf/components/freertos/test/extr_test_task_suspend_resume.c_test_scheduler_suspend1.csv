@@ -1,0 +1,15 @@
+TEST_ASSERT_INT_WITHIN,FUNC_0
+control_task,VAR_0
+delta_ms,VAR_1
+duration_ctrl_task_ms,VAR_2
+duration_wait_task_ms,VAR_3
+portTICK_PERIOD_MS,VAR_4
+printf,FUNC_1
+suspend_both_cpus,VAR_5
+vTaskDelay,FUNC_2
+waiting_ms,VAR_6
+waiting_task,VAR_7
+xTaskCreatePinnedToCore,FUNC_3
+test_scheduler_suspend1,FUNC_4
+cpu,VAR_8
+other_cpu,VAR_9

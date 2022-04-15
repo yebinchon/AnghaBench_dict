@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+EINVAL,VAR_1
+ENOMEM,VAR_2
+PTHREAD_MUTEX_NORMAL,VAR_3
+PTHREAD_MUTEX_RECURSIVE,VAR_4
+free,FUNC_0
+malloc,FUNC_1
+mutexattr_check,FUNC_2
+xSemaphoreCreateMutex,FUNC_3
+xSemaphoreCreateRecursiveMutex,FUNC_4
+pthread_mutex_init,FUNC_5
+mutex,VAR_5
+attr,VAR_6
+type,VAR_7
+res,VAR_8
+mux,VAR_9

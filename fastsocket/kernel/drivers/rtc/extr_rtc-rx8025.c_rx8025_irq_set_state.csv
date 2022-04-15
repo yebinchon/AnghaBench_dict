@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+RX8025_BIT_CTRL1_CT,VAR_1
+RX8025_BIT_CTRL1_CT_1HZ,VAR_2
+RX8025_REG_CTRL1,VAR_3
+i2c_get_clientdata,FUNC_0
+rx8025_write_reg,FUNC_1
+to_i2c_client,FUNC_2
+rx8025_irq_set_state,FUNC_3
+dev,VAR_4
+enabled,VAR_5
+client,VAR_6
+rx8025,VAR_7
+ctrl1,VAR_8
+err,VAR_9

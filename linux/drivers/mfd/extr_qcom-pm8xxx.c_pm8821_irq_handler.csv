@@ -1,0 +1,17 @@
+BIT,FUNC_0
+GENMASK,FUNC_1
+PM8821_SSBI_REG_ADDR_IRQ_MASTER0,VAR_0
+PM8821_SSBI_REG_ADDR_IRQ_MASTER1,VAR_1
+chained_irq_enter,FUNC_2
+chained_irq_exit,FUNC_3
+irq_desc_get_chip,FUNC_4
+irq_desc_get_handler_data,FUNC_5
+pm8821_irq_master_handler,FUNC_6
+pr_err,FUNC_7
+regmap_read,FUNC_8
+pm8821_irq_handler,FUNC_9
+desc,VAR_2
+chip,VAR_3
+irq_chip,VAR_4
+master,VAR_5
+ret,VAR_6

@@ -1,0 +1,14 @@
+IXGBE_EEPROM_MAX_RETRY_SPI,VAR_0
+IXGBE_EEPROM_OPCODE_BITS,VAR_1
+IXGBE_EEPROM_RDSR_OPCODE_SPI,VAR_2
+IXGBE_EEPROM_STATUS_RDY_SPI,VAR_3
+IXGBE_ERR_EEPROM,VAR_4
+hw_dbg,FUNC_0
+ixgbe_shift_in_eeprom_bits,FUNC_1
+ixgbe_shift_out_eeprom_bits,FUNC_2
+ixgbe_standby_eeprom,FUNC_3
+udelay,FUNC_4
+ixgbe_ready_eeprom,FUNC_5
+hw,VAR_5
+i,VAR_6
+spi_stat_reg,VAR_7

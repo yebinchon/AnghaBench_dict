@@ -1,0 +1,16 @@
+CAM_LUN_WILDCARD,VAR_0
+CAM_TARGET_WILDCARD,VAR_1
+TRUE,VAR_2
+cam_sim_path,FUNC_0
+config_intrhook_disestablish,FUNC_1
+isci_controller_start,FUNC_2
+xpt_alloc_ccb_nowait,FUNC_3
+xpt_create_path,FUNC_4
+xpt_release_simq,FUNC_5
+xpt_rescan,FUNC_6
+isci_controller_domain_discovery_complete,FUNC_7
+isci_controller,VAR_3
+isci_domain,VAR_4
+driver,VAR_5
+next_index,VAR_6
+ccb,VAR_7

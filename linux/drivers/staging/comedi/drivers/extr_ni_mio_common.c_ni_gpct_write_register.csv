@@ -1,0 +1,15 @@
+NISTC_INTA_ENA_G0_GATE,VAR_0
+NISTC_INTA_ENA_G0_TC,VAR_1
+NISTC_INTB_ENA_G1_GATE,VAR_2
+NISTC_INTB_ENA_G1_TC,VAR_3
+ni_gpct_to_stc_register,FUNC_0
+ni_set_bitfield,FUNC_1
+ni_stc_writel,FUNC_2
+ni_stc_writew,FUNC_3
+ni_writew,FUNC_4
+ni_gpct_write_register,FUNC_5
+counter,VAR_4
+bits,VAR_5
+reg,VAR_6
+dev,VAR_7
+stc_register,VAR_8

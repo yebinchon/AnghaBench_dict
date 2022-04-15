@@ -1,0 +1,14 @@
+nvmet_rdma_device_removal,FUNC_0
+nvmet_rdma_queue_connect,FUNC_1
+nvmet_rdma_queue_connect_fail,FUNC_2
+nvmet_rdma_queue_disconnect,FUNC_3
+nvmet_rdma_queue_established,FUNC_4
+pr_debug,FUNC_5
+pr_err,FUNC_6
+rdma_event_msg,FUNC_7
+rdma_reject_msg,FUNC_8
+nvmet_rdma_cm_handler,FUNC_9
+cm_id,VAR_0
+event,VAR_1
+queue,VAR_2
+ret,VAR_3

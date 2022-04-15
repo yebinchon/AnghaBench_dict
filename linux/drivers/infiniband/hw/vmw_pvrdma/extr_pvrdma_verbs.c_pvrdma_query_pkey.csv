@@ -1,0 +1,15 @@
+PVRDMA_CMD_QUERY_PKEY,VAR_0
+PVRDMA_CMD_QUERY_PKEY_RESP,VAR_1
+dev_warn,FUNC_0
+memset,FUNC_1
+pvrdma_cmd_post,FUNC_2
+to_vdev,FUNC_3
+pvrdma_query_pkey,FUNC_4
+ibdev,VAR_2
+port,VAR_3
+index,VAR_4
+pkey,VAR_5
+err,VAR_6
+req,VAR_7
+rsp,VAR_8
+cmd,VAR_9

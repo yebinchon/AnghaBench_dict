@@ -1,0 +1,13 @@
+IRQCHIP_STATE_PENDING,VAR_0
+irq_set_irqchip_state,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+vgic_its_resolve_lpi,FUNC_2
+vgic_queue_irq_unlock,FUNC_3
+vgic_its_trigger_msi,FUNC_4
+kvm,VAR_1
+its,VAR_2
+devid,VAR_3
+eventid,VAR_4
+irq,VAR_5
+flags,VAR_6
+err,VAR_7

@@ -1,0 +1,17 @@
+RX_DESC_SIZE,VAR_0
+TX_DESC_SIZE,VAR_1
+del_timer_sync,FUNC_0
+free_irq,FUNC_1
+napi_disable,FUNC_2
+netdev_priv,FUNC_3
+netif_stop_queue,FUNC_4
+pci_free_consistent,FUNC_5
+r6040_down,FUNC_6
+r6040_free_rxbufs,FUNC_7
+r6040_free_txbufs,FUNC_8
+spin_lock_irq,FUNC_9
+spin_unlock_irq,FUNC_10
+r6040_close,FUNC_11
+dev,VAR_2
+lp,VAR_3
+pdev,VAR_4

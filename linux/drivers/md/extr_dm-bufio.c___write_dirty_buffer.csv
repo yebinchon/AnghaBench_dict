@@ -1,0 +1,13 @@
+B_DIRTY,VAR_0
+B_WRITING,VAR_1
+REQ_OP_WRITE,VAR_2
+TASK_UNINTERRUPTIBLE,VAR_3
+clear_bit,FUNC_0
+list_add_tail,FUNC_1
+submit_io,FUNC_2
+test_bit,FUNC_3
+wait_on_bit_lock_io,FUNC_4
+write_endio,VAR_4
+__write_dirty_buffer,FUNC_5
+b,VAR_5
+write_list,VAR_6

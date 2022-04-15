@@ -1,0 +1,12 @@
+SPI_FLASH_SEC_SIZE,VAR_0
+TEST_ASSERT_NOT_EQUAL,FUNC_0
+bootloader_mmap,FUNC_1
+bootloader_munmap,FUNC_2
+memcpy,FUNC_3
+get_ota_data,FUNC_4
+otadata_partition,VAR_1
+ota_data_0,VAR_2
+ota_data_1,VAR_3
+offset,VAR_4
+size,VAR_5
+ota_select_map,VAR_6

@@ -1,0 +1,14 @@
+IFF_DRV_OACTIVE,VAR_0
+IFF_DRV_RUNNING,VAR_1
+NICVF_TX_LOCK,FUNC_0
+NICVF_TX_UNLOCK,FUNC_1
+if_getdrvflags,FUNC_2
+nicvf_xmit_locked,FUNC_3
+taskqueue_enqueue,FUNC_4
+nicvf_snd_task,FUNC_5
+arg,VAR_2
+pending,VAR_3
+sq,VAR_4
+nic,VAR_5
+ifp,VAR_6
+err,VAR_7

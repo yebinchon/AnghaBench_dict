@@ -1,0 +1,11 @@
+SPECIAL_REMOUNT_FS_SERVICE,VAR_0
+UNIT,FUNC_0
+UNIT_AFTER,VAR_1
+UNIT_BINDS_TO,VAR_2
+UNIT_DEPENDENCY_FILE,VAR_3
+assert,FUNC_1
+is_device_path,FUNC_2
+unit_add_dependency_by_name,FUNC_3
+unit_add_node_dependency,FUNC_4
+swap_add_device_dependencies,FUNC_5
+s,VAR_4

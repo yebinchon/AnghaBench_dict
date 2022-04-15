@@ -1,0 +1,10 @@
+CUE_CMD_READREG,VAR_0
+USETW,FUNC_0
+UT_READ_VENDOR_DEVICE,VAR_1
+le16toh,FUNC_1
+uether_do_request,FUNC_2
+cue_csr_read_2,FUNC_3
+sc,VAR_2
+reg,VAR_3
+req,VAR_4
+val,VAR_5

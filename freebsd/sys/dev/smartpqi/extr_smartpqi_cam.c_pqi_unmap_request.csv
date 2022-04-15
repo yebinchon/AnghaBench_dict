@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+DBG_IO,FUNC_0
+PQI_CMD_MAPPED,VAR_2
+SOP_DATA_DIR_FROM_DEVICE,VAR_3
+SOP_DATA_DIR_TO_DEVICE,VAR_4
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+os_mem_free,FUNC_3
+pqisrc_put_tag,FUNC_4
+pqi_unmap_request,FUNC_5
+arg,VAR_5
+softs,VAR_6
+rcb,VAR_7

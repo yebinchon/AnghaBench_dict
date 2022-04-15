@@ -1,0 +1,10 @@
+USB_ENDPOINT_IN,VAR_0
+USB_REQ_GET_DESCRIPTOR,VAR_1
+memset,FUNC_0
+usb_control_msg,FUNC_1
+usb_get_descriptor,FUNC_2
+udev,VAR_2
+type,VAR_3
+desc_index,VAR_4
+buf,VAR_5
+size,VAR_6

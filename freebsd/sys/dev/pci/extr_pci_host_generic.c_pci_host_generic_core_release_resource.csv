@@ -1,0 +1,16 @@
+KASSERT,FUNC_0
+PCI_RES_BUS,VAR_0
+bus_generic_release_resource,FUNC_1
+device_get_softc,FUNC_2
+generic_pcie_rman,FUNC_3
+pci_domain_release_bus,FUNC_4
+rman_is_region_manager,FUNC_5
+rman_release_resource,FUNC_6
+pci_host_generic_core_release_resource,FUNC_7
+dev,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+res,VAR_5
+sc,VAR_6
+rm,VAR_7

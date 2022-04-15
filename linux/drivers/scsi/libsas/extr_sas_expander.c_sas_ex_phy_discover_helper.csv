@@ -1,0 +1,14 @@
+DISCOVER_REQ_SIZE,VAR_0
+DISCOVER_RESP_SIZE,VAR_1
+SAS_ADDR_SIZE,VAR_2
+memcmp,FUNC_0
+pr_notice,FUNC_1
+sas_set_ex_phy,FUNC_2
+smp_execute_task,FUNC_3
+sas_ex_phy_discover_helper,FUNC_4
+dev,VAR_3
+disc_req,VAR_4
+disc_resp,VAR_5
+single,VAR_6
+dr,VAR_7
+res,VAR_8

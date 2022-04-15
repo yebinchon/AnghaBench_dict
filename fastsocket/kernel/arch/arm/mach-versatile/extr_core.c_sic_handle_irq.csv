@@ -1,0 +1,11 @@
+IRQ_SIC_START,VAR_0
+SIC_IRQ_STATUS,VAR_1
+VA_SIC_BASE,VAR_2
+do_bad_IRQ,FUNC_0
+ffs,FUNC_1
+generic_handle_irq,FUNC_2
+readl,FUNC_3
+sic_handle_irq,FUNC_4
+irq,VAR_3
+desc,VAR_4
+status,VAR_5

@@ -1,0 +1,17 @@
+SDT_TID,VAR_0
+SECTION_LENGTH,VAR_1
+mpegts_write_section1,FUNC_0
+put16,FUNC_1
+putbuf,FUNC_2
+mpegts_write_sdt,FUNC_3
+s,VAR_2
+ts,VAR_3
+service,VAR_4
+data,VAR_5
+q,VAR_6
+desc_list_len_ptr,VAR_7
+desc_len_ptr,VAR_8
+i,VAR_9
+running_status,VAR_10
+free_ca_mode,VAR_11
+val,VAR_12

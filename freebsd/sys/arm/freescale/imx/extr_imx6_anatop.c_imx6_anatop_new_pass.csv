@@ -1,0 +1,13 @@
+BUS_PASS_CPU,VAR_0
+BUS_PASS_ORDER_MIDDLE,VAR_1
+bootverbose,VAR_2
+bus_current_pass,VAR_3
+bus_generic_new_pass,FUNC_0
+cpufreq_initialize,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+initialize_tempmon,FUNC_4
+imx6_anatop_new_pass,FUNC_5
+dev,VAR_4
+sc,VAR_5
+cpu_init_pass,VAR_6

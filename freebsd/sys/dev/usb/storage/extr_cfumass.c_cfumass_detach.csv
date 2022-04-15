@@ -1,0 +1,17 @@
+CFUMASS_DEBUG,FUNC_0
+CFUMASS_LOCK,FUNC_1
+CFUMASS_T_MAX,VAR_0
+CFUMASS_UNLOCK,FUNC_2
+CFUMASS_WARN,FUNC_3
+cfumass_port,VAR_1
+cfumass_refcount,VAR_2
+cfumass_terminate,FUNC_4
+ctl_remove_initiator,FUNC_5
+device_get_softc,FUNC_6
+mtx_destroy,FUNC_7
+refcount_release,FUNC_8
+usbd_transfer_unsetup,FUNC_9
+cfumass_detach,FUNC_10
+dev,VAR_3
+sc,VAR_4
+error,VAR_5

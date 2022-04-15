@@ -1,0 +1,16 @@
+EIO,VAR_0
+JRCFG_IMSK,VAR_1
+JRCR_RESET,VAR_2
+JRINT_ERR_HALT_COMPLETE,VAR_3
+JRINT_ERR_HALT_INPROGRESS,VAR_4
+JRINT_ERR_HALT_MASK,VAR_5
+clrsetbits_32,FUNC_0
+cpu_relax,FUNC_1
+dev_err,FUNC_2
+dev_get_drvdata,FUNC_3
+rd_reg32,FUNC_4
+wr_reg32,FUNC_5
+caam_reset_hw_jr,FUNC_6
+dev,VAR_6
+jrp,VAR_7
+timeout,VAR_8

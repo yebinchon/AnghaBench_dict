@@ -1,0 +1,16 @@
+TCP_FO_SYSCTL,VAR_0
+TCP_SYNCOOKIE_SYSCTL,VAR_1
+atexit,FUNC_0
+cleanup,FUNC_1
+create_maps,FUNC_2
+disable_syncookie,FUNC_3
+enable_fastopen,FUNC_4
+prepare_bpf_obj,FUNC_5
+read_int_sysctl,FUNC_6
+restore_sysctls,VAR_2
+saved_tcp_fo,VAR_3
+saved_tcp_syncookie,VAR_4
+test_all,FUNC_7
+main,FUNC_8
+argc,VAR_5
+argv,VAR_6

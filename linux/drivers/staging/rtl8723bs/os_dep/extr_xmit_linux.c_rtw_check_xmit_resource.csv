@@ -1,0 +1,10 @@
+WMM_XMIT_THRESHOLD,VAR_0
+netdev_get_tx_queue,FUNC_0
+netif_stop_subqueue,FUNC_1
+netif_tx_queue_stopped,FUNC_2
+skb_get_queue_mapping,FUNC_3
+rtw_check_xmit_resource,FUNC_4
+padapter,VAR_1
+pkt,VAR_2
+pxmitpriv,VAR_3
+queue,VAR_4

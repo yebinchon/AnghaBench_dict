@@ -1,0 +1,14 @@
+CAN_STATE_STOPPED,VAR_0
+UCAN_COMMAND_RESET,VAR_1
+UCAN_COMMAND_STOP,VAR_2
+close_candev,FUNC_0
+netdev_err,FUNC_1
+netdev_priv,FUNC_2
+netif_stop_queue,FUNC_3
+ucan_ctrl_command_out,FUNC_4
+ucan_release_context_array,FUNC_5
+usb_kill_anchored_urbs,FUNC_6
+ucan_close,FUNC_7
+netdev,VAR_3
+ret,VAR_4
+up,VAR_5

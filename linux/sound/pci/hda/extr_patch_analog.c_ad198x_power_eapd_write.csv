@@ -1,0 +1,8 @@
+AC_PINCAP_EAPD,VAR_0
+AC_VERB_SET_EAPD_BTLENABLE,VAR_1
+snd_hda_codec_write,FUNC_0
+snd_hda_query_pin_caps,FUNC_1
+ad198x_power_eapd_write,FUNC_2
+codec,VAR_2
+front,VAR_3
+hp,VAR_4

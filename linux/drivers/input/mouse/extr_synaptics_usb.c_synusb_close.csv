@@ -1,0 +1,10 @@
+input_get_drvdata,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+usb_autopm_get_interface,FUNC_3
+usb_autopm_put_interface,FUNC_4
+usb_kill_urb,FUNC_5
+synusb_close,FUNC_6
+dev,VAR_0
+synusb,VAR_1
+autopm_error,VAR_2

@@ -1,0 +1,17 @@
+SNDRV_PCM_FORMAT_S24_LE,VAR_0
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_1
+SNDRV_PCM_HW_PARAM_RATE,VAR_2
+SND_SOC_DAIFMT_CBS_CFS,VAR_3
+SND_SOC_DAIFMT_DSP_B,VAR_4
+SND_SOC_DAIFMT_IB_NF,VAR_5
+dev_err,FUNC_0
+hw_param_interval,FUNC_1
+params_set_format,FUNC_2
+snd_soc_dai_set_fmt,FUNC_3
+snd_soc_dai_set_tdm_slot,FUNC_4
+cht_codec_fixup,FUNC_5
+rtd,VAR_6
+params,VAR_7
+rate,VAR_8
+channels,VAR_9
+ret,VAR_10

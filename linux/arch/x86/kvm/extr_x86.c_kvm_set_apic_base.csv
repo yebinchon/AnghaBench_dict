@@ -1,0 +1,17 @@
+LAPIC_MODE_DISABLED,VAR_0
+LAPIC_MODE_INVALID,VAR_1
+LAPIC_MODE_X2APIC,VAR_2
+LAPIC_MODE_XAPIC,VAR_3
+X2APIC_ENABLE,VAR_4
+X86_FEATURE_X2APIC,VAR_5
+cpuid_maxphyaddr,FUNC_0
+guest_cpuid_has,FUNC_1
+kvm_apic_mode,FUNC_2
+kvm_get_apic_mode,FUNC_3
+kvm_lapic_set_base,FUNC_4
+kvm_set_apic_base,FUNC_5
+vcpu,VAR_6
+msr_info,VAR_7
+old_mode,VAR_8
+new_mode,VAR_9
+reserved_bits,VAR_10

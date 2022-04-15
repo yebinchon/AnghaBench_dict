@@ -1,0 +1,10 @@
+NET_TX_SOFTIRQ,VAR_0
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+raise_softirq_irqoff,FUNC_2
+softnet_data,VAR_1
+this_cpu_ptr,FUNC_3
+__netif_reschedule,FUNC_4
+q,VAR_2
+sd,VAR_3
+flags,VAR_4

@@ -1,0 +1,15 @@
+DP_COM_CONF_CSC_DEF_BG,VAR_0
+DP_COM_CONF_CSC_DEF_BOTH,VAR_1
+DP_COM_CONF_CSC_DEF_FG,VAR_2
+IPUV3_COLORSPACE_UNKNOWN,VAR_3
+ipu_dp_csc_init,FUNC_0
+ipu_srm_dp_update,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_flow,FUNC_4
+ipu_dp_setup_channel,FUNC_5
+dp,VAR_4
+in,VAR_5
+out,VAR_6
+flow,VAR_7
+priv,VAR_8

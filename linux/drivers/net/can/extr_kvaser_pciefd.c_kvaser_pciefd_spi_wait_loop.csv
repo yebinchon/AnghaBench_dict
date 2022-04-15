@@ -1,0 +1,7 @@
+KVASER_PCIEFD_SPI_STATUS_REG,VAR_0
+readl_poll_timeout,FUNC_0
+kvaser_pciefd_spi_wait_loop,FUNC_1
+pcie,VAR_1
+msk,VAR_2
+res,VAR_3
+ret,VAR_4

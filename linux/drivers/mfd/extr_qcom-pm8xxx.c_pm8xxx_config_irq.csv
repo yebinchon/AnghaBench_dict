@@ -1,0 +1,12 @@
+PM_IRQF_WRITE,VAR_0
+SSBI_REG_ADDR_IRQ_BLK_SEL,VAR_1
+SSBI_REG_ADDR_IRQ_CONFIG,VAR_2
+pr_err,FUNC_0
+regmap_write,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+pm8xxx_config_irq,FUNC_4
+chip,VAR_3
+bp,VAR_4
+cp,VAR_5
+rc,VAR_6

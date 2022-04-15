@@ -1,0 +1,14 @@
+_stop,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+spin_lock,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+to_pchan,FUNC_8
+pl330_pause,FUNC_9
+chan,VAR_0
+pch,VAR_1
+pl330,VAR_2
+flags,VAR_3

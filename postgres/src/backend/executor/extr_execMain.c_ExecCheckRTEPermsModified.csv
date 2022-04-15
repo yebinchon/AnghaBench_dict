@@ -1,0 +1,17 @@
+ACLCHECK_OK,VAR_0
+ACLMASK_ANY,VAR_1
+ERROR,VAR_2
+FirstLowInvalidHeapAttributeNumber,VAR_3
+InvalidAttrNumber,VAR_4
+bms_is_empty,FUNC_0
+bms_next_member,FUNC_1
+elog,FUNC_2
+pg_attribute_aclcheck,FUNC_3
+pg_attribute_aclcheck_all,FUNC_4
+ExecCheckRTEPermsModified,FUNC_5
+relOid,VAR_5
+userid,VAR_6
+modifiedCols,VAR_7
+requiredPerms,VAR_8
+col,VAR_9
+attno,VAR_10

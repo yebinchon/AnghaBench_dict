@@ -1,0 +1,13 @@
+ASSERT_RTNL,FUNC_0
+__bnxt_close_nic,FUNC_1
+bnxt_clear_int_mode,FUNC_2
+bnxt_hwrm_func_qcaps,FUNC_3
+bnxt_init_int_mode,FUNC_4
+bnxt_open_nic,FUNC_5
+bnxt_ulp_irq_restart,FUNC_6
+bnxt_ulp_irq_stop,FUNC_7
+dev_close,FUNC_8
+netif_running,FUNC_9
+bnxt_restore_pf_fw_resources,FUNC_10
+bp,VAR_0
+rc,VAR_1

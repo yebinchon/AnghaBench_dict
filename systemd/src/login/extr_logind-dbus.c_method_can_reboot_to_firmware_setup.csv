@@ -1,0 +1,16 @@
+CAP_SYS_ADMIN,VAR_0
+ENXIO,VAR_1
+EOPNOTSUPP,VAR_2
+UID_INVALID,VAR_3
+assert,FUNC_0
+efi_reboot_to_firmware_supported,FUNC_1
+getenv_bool,FUNC_2
+log_warning_errno,FUNC_3
+return_test_polkit,FUNC_4
+sd_bus_reply_method_return,FUNC_5
+method_can_reboot_to_firmware_setup,FUNC_6
+message,VAR_4
+userdata,VAR_5
+error,VAR_6
+m,VAR_7
+r,VAR_8

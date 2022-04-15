@@ -1,0 +1,11 @@
+PCI_VPD_ADDR,VAR_0
+PCI_VPD_ADDR_F,VAR_1
+PCI_VPD_DATA,VAR_2
+pci_read_config_word,FUNC_0
+pci_write_config_dword,FUNC_1
+pci_write_config_word,FUNC_2
+skge_vpd_write,FUNC_3
+pdev,VAR_3
+cap,VAR_4
+offset,VAR_5
+val,VAR_6

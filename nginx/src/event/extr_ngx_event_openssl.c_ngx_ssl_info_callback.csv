@@ -1,0 +1,17 @@
+BIO_set_write_buffer_size,FUNC_0
+NGX_LOG_DEBUG_EVENT,VAR_0
+NGX_SSL_BUFSIZE,VAR_1
+SSL_CB_ACCEPT_LOOP,VAR_2
+SSL_CB_HANDSHAKE_START,VAR_3
+SSL_get_rbio,FUNC_1
+SSL_get_wbio,FUNC_2
+SSL_is_server,FUNC_3
+ngx_log_debug0,FUNC_4
+ngx_ssl_get_connection,FUNC_5
+ngx_ssl_info_callback,FUNC_6
+ssl_conn,VAR_4
+where,VAR_5
+ret,VAR_6
+rbio,VAR_7
+wbio,VAR_8
+c,VAR_9

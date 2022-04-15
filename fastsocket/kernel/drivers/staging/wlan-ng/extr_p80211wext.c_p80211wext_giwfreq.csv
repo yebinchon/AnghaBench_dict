@@ -1,0 +1,17 @@
+DIDmib_dot11phy_dot11PhyDSSSTable_dot11CurrentChannel,VAR_0
+DIDmsg_dot11req_mibget,VAR_1
+EFAULT,VAR_2
+NUM_CHANNELS,VAR_3
+memcpy,FUNC_0
+p80211_channel_to_mhz,FUNC_1
+p80211req_dorequest,FUNC_2
+p80211wext_giwfreq,FUNC_3
+dev,VAR_4
+info,VAR_5
+freq,VAR_6
+extra,VAR_7
+wlandev,VAR_8
+mibitem,VAR_9
+msg,VAR_10
+result,VAR_11
+err,VAR_12

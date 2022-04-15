@@ -1,0 +1,13 @@
+CTRL_BLOCK,VAR_0
+CTRL_ENABLE,VAR_1
+REG_MMU_CTRL,VAR_2
+__sysmmu_enable_clocks,FUNC_0
+__sysmmu_init_config,FUNC_1
+__sysmmu_set_ptbase,FUNC_2
+clk_disable,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+writel,FUNC_6
+__sysmmu_enable,FUNC_7
+data,VAR_3
+flags,VAR_4

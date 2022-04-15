@@ -1,0 +1,16 @@
+M_DEVBUF,VAR_0
+M_NOWAIT,VAR_1
+M_ZERO,VAR_2
+SUPERIO_DEV_NONE,VAR_3
+device_add_child_ordered,FUNC_0
+device_delete_child,FUNC_1
+device_set_ivars,FUNC_2
+malloc,FUNC_3
+resource_list_init,FUNC_4
+superio_add_child,FUNC_5
+dev,VAR_4
+order,VAR_5
+name,VAR_6
+unit,VAR_7
+dinfo,VAR_8
+child,VAR_9

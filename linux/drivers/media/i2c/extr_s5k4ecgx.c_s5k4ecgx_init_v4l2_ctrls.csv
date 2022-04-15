@@ -1,0 +1,14 @@
+SHARPNESS_DIV,VAR_0
+V4L2_CID_BRIGHTNESS,VAR_1
+V4L2_CID_CONTRAST,VAR_2
+V4L2_CID_SATURATION,VAR_3
+V4L2_CID_SHARPNESS,VAR_4
+s5k4ecgx_ctrl_ops,VAR_5
+v4l2_ctrl_handler_free,FUNC_0
+v4l2_ctrl_handler_init,FUNC_1
+v4l2_ctrl_new_std,FUNC_2
+s5k4ecgx_init_v4l2_ctrls,FUNC_3
+priv,VAR_6
+ops,VAR_7
+hdl,VAR_8
+ret,VAR_9

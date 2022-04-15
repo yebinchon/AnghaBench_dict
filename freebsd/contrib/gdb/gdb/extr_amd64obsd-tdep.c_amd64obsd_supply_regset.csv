@@ -1,0 +1,11 @@
+I387_SIZEOF_FXSAVE,VAR_0
+amd64_supply_fxsave,FUNC_0
+gdb_assert,FUNC_1
+i386_supply_gregset,FUNC_2
+amd64obsd_supply_regset,FUNC_3
+regset,VAR_1
+regcache,VAR_2
+regnum,VAR_3
+regs,VAR_4
+len,VAR_5
+tdep,VAR_6

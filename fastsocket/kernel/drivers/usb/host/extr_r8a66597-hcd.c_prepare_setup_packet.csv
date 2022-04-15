@@ -1,0 +1,16 @@
+DCPCTR,VAR_0
+DCPMAXP,VAR_1
+INTSTS1,VAR_2
+SACK,VAR_3
+SIGN,VAR_4
+SUREQ,VAR_5
+USBREQ,VAR_6
+le16_to_cpu,FUNC_0
+make_devsel,FUNC_1
+r8a66597_write,FUNC_2
+prepare_setup_packet,FUNC_3
+r8a66597,VAR_7
+td,VAR_8
+i,VAR_9
+p,VAR_10
+setup_addr,VAR_11

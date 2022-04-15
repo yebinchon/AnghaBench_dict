@@ -1,0 +1,10 @@
+SIGNAL_STOP_STOPPED,VAR_0
+TASK_STOPPED,VAR_1
+__TASK_TRACED,VAR_2
+lockdep_assert_held,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+wake_up_state,FUNC_3
+utrace_wakeup,FUNC_4
+target,VAR_3
+utrace,VAR_4

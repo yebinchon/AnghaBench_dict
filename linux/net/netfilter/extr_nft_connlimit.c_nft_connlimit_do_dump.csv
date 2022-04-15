@@ -1,0 +1,8 @@
+NFTA_CONNLIMIT_COUNT,VAR_0
+NFTA_CONNLIMIT_FLAGS,VAR_1
+NFT_CONNLIMIT_F_INV,VAR_2
+htonl,FUNC_0
+nla_put_be32,FUNC_1
+nft_connlimit_do_dump,FUNC_2
+skb,VAR_3
+priv,VAR_4

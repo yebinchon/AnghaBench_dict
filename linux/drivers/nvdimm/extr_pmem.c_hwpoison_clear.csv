@@ -1,0 +1,13 @@
+PHYS_PFN,FUNC_0
+clear_mce_nospec,FUNC_1
+is_vmalloc_addr,FUNC_2
+pfn_to_page,FUNC_3
+test_and_clear_pmem_poison,FUNC_4
+hwpoison_clear,FUNC_5
+pmem,VAR_0
+phys,VAR_1
+len,VAR_2
+pfn_start,VAR_3
+pfn_end,VAR_4
+pfn,VAR_5
+page,VAR_6

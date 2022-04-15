@@ -1,0 +1,16 @@
+QDIO_FLAG_CLEANUP_USING_CLEAR,VAR_0
+QDIO_MAX_BUFFERS_PER_Q,VAR_1
+ZFCP_STATUS_ADAPTER_QDIOUP,VAR_2
+atomic_andnot,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+qdio_shutdown,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+wake_up,FUNC_6
+zfcp_qdio_zero_sbals,FUNC_7
+zfcp_qdio_close,FUNC_8
+qdio,VAR_3
+adapter,VAR_4
+idx,VAR_5
+count,VAR_6

@@ -1,0 +1,13 @@
+bus_set_iommu,FUNC_0
+clk_disable_unprepare,FUNC_1
+component_master_del,FUNC_2
+devm_free_irq,FUNC_3
+iommu_device_sysfs_remove,FUNC_4
+iommu_device_unregister,FUNC_5
+iommu_present,FUNC_6
+mtk_iommu_com_ops,VAR_0
+platform_bus_type,VAR_1
+platform_get_drvdata,FUNC_7
+mtk_iommu_remove,FUNC_8
+pdev,VAR_2
+data,VAR_3

@@ -1,0 +1,15 @@
+CAN_STATE_BUS_OFF,VAR_0
+can_bus_off,FUNC_0
+can_change_state,FUNC_1
+kvaser_pciefd_start_controller_flush,FUNC_2
+netif_stop_queue,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+kvaser_pciefd_change_state,FUNC_6
+can,VAR_1
+cf,VAR_2
+new_state,VAR_3
+tx_state,VAR_4
+rx_state,VAR_5
+ndev,VAR_6
+irq_flags,VAR_7

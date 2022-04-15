@@ -1,0 +1,16 @@
+RETURN_ERROR_IF,FUNC_0
+ZSTD_compress2,FUNC_1
+ZSTD_compressBound,FUNC_2
+ZSTD_defaultCMem,VAR_0
+ZSTD_free,FUNC_3
+ZSTD_malloc,FUNC_4
+memory_allocation,VAR_1
+ZSTD_getSequences,FUNC_5
+zc,VAR_2
+outSeqs,VAR_3
+outSeqsSize,VAR_4
+src,VAR_5
+srcSize,VAR_6
+dstCapacity,VAR_7
+dst,VAR_8
+seqCollector,VAR_9

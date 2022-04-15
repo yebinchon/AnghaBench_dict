@@ -1,0 +1,15 @@
+BSRBITS,VAR_0
+BSR_BULK_IN_FULL,VAR_1
+CMX_LOCK,FUNC_0
+CMX_UNLOCK,FUNC_1
+DEBUG_printf,FUNC_2
+POLL_TICKS,VAR_2
+PZERO,VAR_3
+callout_reset,FUNC_3
+cmx_read_BSR,FUNC_4
+cmx_test,FUNC_5
+selwakeuppri,FUNC_6
+cmx_tick,FUNC_7
+xsc,VAR_4
+sc,VAR_5
+bsr,VAR_6

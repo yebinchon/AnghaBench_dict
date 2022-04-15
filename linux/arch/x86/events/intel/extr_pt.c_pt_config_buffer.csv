@@ -1,0 +1,9 @@
+MSR_IA32_RTIT_OUTPUT_BASE,VAR_0
+MSR_IA32_RTIT_OUTPUT_MASK,VAR_1
+virt_to_phys,FUNC_0
+wrmsrl,FUNC_1
+pt_config_buffer,FUNC_2
+buf,VAR_2
+topa_idx,VAR_3
+output_off,VAR_4
+reg,VAR_5

@@ -1,0 +1,17 @@
+MAX_PACKET_INTS,VAR_0
+SKIP_ALL_BYTES,VAR_1
+assert,FUNC_0
+dump_next_rpc_packet_limit,FUNC_1
+fprintf,FUNC_2
+process_data_ack_packet,FUNC_3
+process_handshake_packet,FUNC_4
+process_server_error_packet,FUNC_5
+read_in,FUNC_6
+recv_packet,VAR_2
+stderr,VAR_3
+unknown_packets_received,VAR_4
+verbosity,VAR_5
+rpcs_execute,FUNC_7
+c,VAR_6
+op,VAR_7
+len,VAR_8

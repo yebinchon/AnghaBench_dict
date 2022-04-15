@@ -1,0 +1,10 @@
+HF_NMI_MASK,VAR_0
+SVM_INTERRUPT_SHADOW_MASK,VAR_1
+gif_set,FUNC_0
+nested_svm_nmi,FUNC_1
+to_svm,FUNC_2
+svm_nmi_allowed,FUNC_3
+vcpu,VAR_2
+svm,VAR_3
+vmcb,VAR_4
+ret,VAR_5

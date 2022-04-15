@@ -1,0 +1,14 @@
+WARN_ONCE,FUNC_0
+list_empty,FUNC_1
+mtk_cqdma_is_vchan_active,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_cqdma_vchan,FUNC_5
+vchan_synchronize,FUNC_6
+wait_for_completion,FUNC_7
+mtk_cqdma_free_active_desc,FUNC_8
+c,VAR_0
+cvc,VAR_1
+sync_needed,VAR_2
+pc_flags,VAR_3
+vc_flags,VAR_4

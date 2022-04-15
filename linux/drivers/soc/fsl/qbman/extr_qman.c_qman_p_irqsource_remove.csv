@@ -1,0 +1,12 @@
+QM_PIRQ_VISIBLE,VAR_0
+QM_REG_IER,VAR_1
+QM_REG_ISR,VAR_2
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+qm_in,FUNC_2
+qm_out,FUNC_3
+qman_p_irqsource_remove,FUNC_4
+p,VAR_3
+bits,VAR_4
+irqflags,VAR_5
+ier,VAR_6

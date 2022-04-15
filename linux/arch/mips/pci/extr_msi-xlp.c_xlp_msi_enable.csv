@@ -1,0 +1,13 @@
+PCIE_9XX_MSI_EN,VAR_0
+PCIE_MSI_EN,VAR_1
+cpu_is_xlp9xx,FUNC_0
+irq_data_get_irq_chip_data,FUNC_1
+nlm_irq_msivec,FUNC_2
+nlm_write_reg,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+xlp_msi_enable,FUNC_6
+d,VAR_2
+md,VAR_3
+flags,VAR_4
+vec,VAR_5

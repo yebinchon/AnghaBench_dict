@@ -1,0 +1,10 @@
+JZ_REG_RTC_SCRATCHPAD,VAR_0
+JZ_REG_RTC_SEC,VAR_1
+dev_get_drvdata,FUNC_0
+jz4740_rtc_reg_write,FUNC_1
+rtc_tm_to_time64,FUNC_2
+jz4740_rtc_set_time,FUNC_3
+dev,VAR_2
+time,VAR_3
+rtc,VAR_4
+ret,VAR_5

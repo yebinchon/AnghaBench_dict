@@ -1,0 +1,12 @@
+ACPI_PROCESSOR_MAX_POWER,VAR_0
+ACPI_STATE_C2,VAR_1
+ENODEV,VAR_2
+acpi_processor_get_power_info_cst,FUNC_0
+acpi_processor_get_power_info_default,FUNC_1
+acpi_processor_get_power_info_fadt,FUNC_2
+acpi_processor_power_verify,FUNC_3
+memset,FUNC_4
+acpi_processor_get_power_info,FUNC_5
+pr,VAR_3
+i,VAR_4
+result,VAR_5

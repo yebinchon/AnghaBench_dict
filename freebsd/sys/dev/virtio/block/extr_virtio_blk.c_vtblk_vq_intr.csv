@@ -1,0 +1,16 @@
+TAILQ_INIT,FUNC_0
+VTBLK_FLAG_DETACH,VAR_0
+VTBLK_FLAG_SUSPEND,VAR_1
+VTBLK_LOCK,FUNC_1
+VTBLK_UNLOCK,FUNC_2
+virtqueue_disable_intr,FUNC_3
+virtqueue_enable_intr,FUNC_4
+vtblk_done_completed,FUNC_5
+vtblk_queue_completed,FUNC_6
+vtblk_startio,FUNC_7
+wakeup,FUNC_8
+vtblk_vq_intr,FUNC_9
+xsc,VAR_2
+sc,VAR_3
+vq,VAR_4
+queue,VAR_5

@@ -1,0 +1,9 @@
+IRQ_MODE_MSIX,VAR_0
+PCI_IRQ_AFFINITY,VAR_1
+PCI_IRQ_MSIX,VAR_2
+PQI_MIN_MSIX_VECTORS,VAR_3
+dev_err,FUNC_0
+pci_alloc_irq_vectors,FUNC_1
+pqi_enable_msix_interrupts,FUNC_2
+ctrl_info,VAR_4
+num_vectors_enabled,VAR_5

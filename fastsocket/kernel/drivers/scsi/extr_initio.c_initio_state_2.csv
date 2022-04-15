@@ -1,0 +1,15 @@
+TSC_FLUSH_FIFO,VAR_0
+TSC_SET_ACK,VAR_1
+TSS_CMD_PH_CMP,VAR_2
+TUL_SConfig,VAR_3
+TUL_SCtrl0,VAR_4
+TUL_SSignal,VAR_5
+inb,FUNC_0
+initio_append_busy_scb,FUNC_1
+initio_unlink_pend_scb,FUNC_2
+outb,FUNC_3
+printk,FUNC_4
+initio_state_2,FUNC_5
+host,VAR_6
+scb,VAR_7
+active_tc,VAR_8

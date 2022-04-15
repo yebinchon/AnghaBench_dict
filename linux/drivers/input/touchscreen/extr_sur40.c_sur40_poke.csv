@@ -1,0 +1,13 @@
+SUR40_POKE,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_DEVICE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+msleep,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+sur40_poke,FUNC_3
+dev,VAR_4
+offset,VAR_5
+value,VAR_6
+result,VAR_7
+index,VAR_8

@@ -1,0 +1,13 @@
+bus_generic_activate_resource,FUNC_0
+chipc_get_rman,FUNC_1
+chipc_try_activate_resource,FUNC_2
+device_get_softc,FUNC_3
+rman_is_region_manager,FUNC_4
+chipc_activate_resource,FUNC_5
+dev,VAR_0
+child,VAR_1
+type,VAR_2
+rid,VAR_3
+r,VAR_4
+sc,VAR_5
+rm,VAR_6

@@ -1,0 +1,13 @@
+HCLGEVF_RESET_REQUESTED,VAR_0
+HNAE3_VF_FUNC_RESET,VAR_1
+dev_info,FUNC_0
+hclgevf_get_reset_level,FUNC_1
+hclgevf_reset_task_schedule,FUNC_2
+jiffies,VAR_2
+pci_get_drvdata,FUNC_3
+set_bit,FUNC_4
+hclgevf_reset_event,FUNC_5
+pdev,VAR_3
+handle,VAR_4
+ae_dev,VAR_5
+hdev,VAR_6

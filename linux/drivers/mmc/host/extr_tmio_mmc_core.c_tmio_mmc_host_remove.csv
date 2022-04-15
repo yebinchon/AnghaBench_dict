@@ -1,0 +1,17 @@
+CTL_TRANSACTION_CTL,VAR_0
+TMIO_MMC_SDIO_IRQ,VAR_1
+cancel_delayed_work_sync,FUNC_0
+cancel_work_sync,FUNC_1
+dev_pm_qos_hide_latency_limit,FUNC_2
+mmc_remove_host,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_dont_use_autosuspend,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put_noidle,FUNC_7
+pm_runtime_put_sync,FUNC_8
+sd_ctrl_write16,FUNC_9
+tmio_mmc_release_dma,FUNC_10
+tmio_mmc_host_remove,FUNC_11
+host,VAR_2
+pdev,VAR_3
+mmc,VAR_4

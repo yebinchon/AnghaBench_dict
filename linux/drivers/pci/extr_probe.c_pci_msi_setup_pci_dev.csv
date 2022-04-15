@@ -1,0 +1,8 @@
+PCI_CAP_ID_MSI,VAR_0
+PCI_CAP_ID_MSIX,VAR_1
+PCI_MSIX_FLAGS_ENABLE,VAR_2
+pci_find_capability,FUNC_0
+pci_msi_set_enable,FUNC_1
+pci_msix_clear_and_set_ctrl,FUNC_2
+pci_msi_setup_pci_dev,FUNC_3
+dev,VAR_3

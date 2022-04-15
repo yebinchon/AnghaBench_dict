@@ -1,0 +1,12 @@
+__usbhsg_queue_pop,FUNC_0
+usbhs_lock,FUNC_1
+usbhs_unlock,FUNC_2
+usbhsg_pipe_to_uep,FUNC_3
+usbhsg_pkt_to_ureq,FUNC_4
+usbhsg_queue_done,FUNC_5
+priv,VAR_0
+pkt,VAR_1
+pipe,VAR_2
+uep,VAR_3
+ureq,VAR_4
+flags,VAR_5

@@ -1,0 +1,16 @@
+HRTIMER_MODE_ABS_PINNED,VAR_0
+__hrtimer_start_range_ns,FUNC_0
+hrtimer_active,FUNC_1
+hrtimer_cb_get_time,FUNC_2
+hrtimer_forward,FUNC_3
+hrtimer_get_expires,FUNC_4
+hrtimer_get_softexpires,FUNC_5
+ktime_sub,FUNC_6
+ktime_to_ns,FUNC_7
+start_bandwidth_timer,FUNC_8
+period_timer,VAR_1
+period,VAR_2
+delta,VAR_3
+soft,VAR_4
+hard,VAR_5
+now,VAR_6

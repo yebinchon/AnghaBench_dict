@@ -1,0 +1,17 @@
+DMX_TYPE_SEC,VAR_0
+EBUSY,VAR_1
+ERESTARTSYS,VAR_2
+dmx_section_feed_allocate_filter,VAR_3
+dmx_section_feed_release_filter,VAR_4
+dmx_section_feed_set,VAR_5
+dmx_section_feed_start_filtering,VAR_6
+dmx_section_feed_stop_filtering,VAR_7
+dvb_dmx_feed_alloc,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+dvbdmx_allocate_section_feed,FUNC_3
+demux,VAR_8
+feed,VAR_9
+callback,VAR_10
+dvbdmx,VAR_11
+dvbdmxfeed,VAR_12

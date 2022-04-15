@@ -1,0 +1,15 @@
+IEEE80211_SKB_RXCB,FUNC_0
+RX_FLAG_FAILED_FCS_CRC,VAR_0
+RX_FLAG_FAILED_PLCP_CRC,VAR_1
+RX_FLAG_NO_PSDU,VAR_2
+RX_FLAG_ONLY_MONITOR,VAR_3
+ieee80211_is_back_req,FUNC_1
+ieee80211_is_ctl,FUNC_2
+ieee80211_is_pspoll,FUNC_3
+unlikely,FUNC_4
+should_drop_frame,FUNC_5
+skb,VAR_4
+present_fcs_len,VAR_5
+rtap_space,VAR_6
+status,VAR_7
+hdr,VAR_8

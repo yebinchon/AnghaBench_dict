@@ -1,0 +1,14 @@
+IOC_INPUT_TEST,FUNC_0
+ZFS_IOC_HOLD,VAR_0
+fnvlist_add_int32,FUNC_1
+fnvlist_add_nvlist,FUNC_2
+fnvlist_add_string,FUNC_3
+fnvlist_alloc,FUNC_4
+nvlist_free,FUNC_5
+zfs_fd,VAR_1
+test_hold,FUNC_6
+pool,VAR_2
+snapshot,VAR_3
+required,VAR_4
+optional,VAR_5
+holds,VAR_6

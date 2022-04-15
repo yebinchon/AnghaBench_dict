@@ -1,0 +1,17 @@
+TCON_CH1_SCLK1_HALF_BIT,VAR_0
+TCON_CH1_SCLK2_DIV_MASK,VAR_1
+hw_to_tclk,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+tcon_ch1_calc_divider,FUNC_4
+writel,FUNC_5
+tcon_ch1_set_rate,FUNC_6
+hw,VAR_2
+rate,VAR_3
+parent_rate,VAR_4
+tclk,VAR_5
+flags,VAR_6
+half,VAR_7
+div_m,VAR_8
+reg,VAR_9

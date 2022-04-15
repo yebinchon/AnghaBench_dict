@@ -1,0 +1,16 @@
+ISCSI_REASON_PROTOCOL_ERROR,VAR_0
+__iscsit_check_dataout_hdr,FUNC_0
+iscsit_add_reject,FUNC_1
+iscsit_find_cmd_from_itt_or_dump,FUNC_2
+ntoh24,FUNC_3
+pr_err_ratelimited,FUNC_4
+pr_warn_ratelimited,FUNC_5
+iscsit_check_dataout_hdr,FUNC_6
+conn,VAR_1
+buf,VAR_2
+out_cmd,VAR_3
+hdr,VAR_4
+cmd,VAR_5
+payload_length,VAR_6
+rc,VAR_7
+success,VAR_8

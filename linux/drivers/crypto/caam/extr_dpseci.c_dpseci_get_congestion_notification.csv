@@ -1,0 +1,17 @@
+CGN_DEST_TYPE,VAR_0
+CGN_UNITS,VAR_1
+DPSECI_CMDID_GET_CONGESTION_NOTIFICATION,VAR_2
+dpseci_get_field,FUNC_0
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+le64_to_cpu,FUNC_3
+mc_encode_cmd_header,FUNC_4
+mc_send_command,FUNC_5
+dpseci_get_congestion_notification,FUNC_6
+mc_io,VAR_3
+cmd_flags,VAR_4
+token,VAR_5
+cfg,VAR_6
+cmd,VAR_7
+rsp_params,VAR_8
+err,VAR_9

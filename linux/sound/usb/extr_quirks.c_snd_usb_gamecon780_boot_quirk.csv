@@ -1,0 +1,10 @@
+UAC_FU_VOLUME,VAR_0
+UAC_SET_CUR,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_TYPE_CLASS,VAR_4
+snd_usb_ctl_msg,FUNC_0
+usb_sndctrlpipe,FUNC_1
+snd_usb_gamecon780_boot_quirk,FUNC_2
+dev,VAR_5
+buf,VAR_6

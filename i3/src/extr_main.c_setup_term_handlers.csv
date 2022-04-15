@@ -1,0 +1,14 @@
+SIGALRM,VAR_0
+SIGHUP,VAR_1
+SIGINT,VAR_2
+SIGTERM,VAR_3
+SIGUSR1,VAR_4
+ev_signal_init,FUNC_0
+ev_signal_start,FUNC_1
+ev_unref,FUNC_2
+handle_term_signal,VAR_5
+main_loop,VAR_6
+setup_term_handlers,FUNC_3
+signal_watchers,VAR_7
+num_watchers,VAR_8
+i,VAR_9

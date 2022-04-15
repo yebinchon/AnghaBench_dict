@@ -1,0 +1,13 @@
+WLCORE_QUIRK_REGDOMAIN_CONF,VAR_0
+WLCORE_STATE_ON,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_mark_last_busy,FUNC_3
+pm_runtime_put_autosuspend,FUNC_4
+unlikely,FUNC_5
+wl12xx_queue_recovery_work,FUNC_6
+wlcore_cmd_regdomain_config_locked,FUNC_7
+wlcore_regdomain_config,FUNC_8
+wl,VAR_2
+ret,VAR_3

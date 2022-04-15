@@ -1,0 +1,10 @@
+ARCMSR_HBEMU_OUTBOUND_DOORBELL_ISR,VAR_0
+ARCMSR_HBEMU_OUTBOUND_POSTQUEUE_ISR,VAR_1
+CHIP_REG_READ32,FUNC_0
+HBE_MessageUnit,VAR_2
+arcmsr_hbe_doorbell_isr,FUNC_1
+arcmsr_hbe_postqueue_isr,FUNC_2
+host_int_status,VAR_3
+arcmsr_handle_hbe_isr,FUNC_3
+acb,VAR_4
+host_interrupt_status,VAR_5

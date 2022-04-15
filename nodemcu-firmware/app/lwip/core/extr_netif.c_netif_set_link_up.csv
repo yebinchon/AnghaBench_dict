@@ -1,0 +1,11 @@
+NETIF_FLAG_ETHARP,VAR_0
+NETIF_FLAG_IGMP,VAR_1
+NETIF_FLAG_LINK_UP,VAR_2
+NETIF_FLAG_UP,VAR_3
+NETIF_LINK_CALLBACK,FUNC_0
+autoip_network_changed,FUNC_1
+dhcp_network_changed,FUNC_2
+etharp_gratuitous,FUNC_3
+igmp_report_groups,FUNC_4
+netif_set_link_up,FUNC_5
+netif,VAR_4

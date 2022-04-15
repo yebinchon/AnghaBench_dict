@@ -1,0 +1,12 @@
+OV5640_REG_SYS_ROOT_DIVIDER,VAR_0
+OV5640_SCLK2X_ROOT_DIV,VAR_1
+OV5640_SCLK_ROOT_DIV,VAR_2
+ilog2,FUNC_0
+ov5640_load_regs,FUNC_1
+ov5640_mod_reg,FUNC_2
+ov5640_mode_init_data,VAR_3
+ov5640_set_framefmt,FUNC_3
+ov5640_set_mode,FUNC_4
+ov5640_restore_mode,FUNC_5
+sensor,VAR_4
+ret,VAR_5

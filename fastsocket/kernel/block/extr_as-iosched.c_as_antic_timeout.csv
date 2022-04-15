@@ -1,0 +1,16 @@
+ANTIC_FINISHED,VAR_0
+ANTIC_WAIT_NEXT,VAR_1
+ANTIC_WAIT_REQ,VAR_2
+AS_TASK_RUNNING,VAR_3
+kblockd_schedule_work,FUNC_0
+spin_lock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+test_bit,FUNC_5
+as_antic_timeout,FUNC_6
+data,VAR_4
+q,VAR_5
+ad,VAR_6
+flags,VAR_7
+aic,VAR_8

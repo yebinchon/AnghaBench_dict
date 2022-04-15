@@ -1,0 +1,14 @@
+FNIC_TRACE,FUNC_0
+atomic64_inc,FUNC_1
+is_ack_index_in_range,FUNC_2
+jiffies,VAR_0
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+fnic_fcpio_ack_handler,FUNC_5
+fnic,VAR_1
+cq_index,VAR_2
+desc,VAR_3
+wq,VAR_4
+request_out,VAR_5
+flags,VAR_6
+ox_id_tag,VAR_7

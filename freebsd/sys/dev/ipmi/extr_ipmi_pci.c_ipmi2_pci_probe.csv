@@ -1,0 +1,9 @@
+BUS_PROBE_GENERIC,VAR_0
+ENXIO,VAR_1
+PCIC_SERIALBUS,VAR_2
+PCIS_SERIALBUS_IPMI,VAR_3
+device_set_desc,FUNC_0
+pci_get_class,FUNC_1
+pci_get_subclass,FUNC_2
+ipmi2_pci_probe,FUNC_3
+dev,VAR_4

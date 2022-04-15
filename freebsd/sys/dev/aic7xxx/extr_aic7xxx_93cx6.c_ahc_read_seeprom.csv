@@ -1,0 +1,16 @@
+CLOCK_PULSE,FUNC_0
+SEEPROM_DATA_INB,FUNC_1
+SEEPROM_OUTB,FUNC_2
+printf,FUNC_3
+reset_seeprom,FUNC_4
+seeprom_read,VAR_0
+send_seeprom_cmd,FUNC_5
+ahc_read_seeprom,FUNC_6
+sd,VAR_1
+buf,VAR_2
+start_addr,VAR_3
+count,VAR_4
+i,VAR_5
+k,VAR_6
+v,VAR_7
+temp,VAR_8

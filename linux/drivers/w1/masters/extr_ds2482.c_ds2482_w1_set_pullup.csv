@@ -1,0 +1,12 @@
+DS2482_CMD_WRITE_CONFIG,VAR_0
+DS2482_REG_CFG_APU,VAR_1
+DS2482_REG_CFG_SPU,VAR_2
+ds2482_calculate_config,FUNC_0
+ds2482_send_cmd_data,FUNC_1
+ds2482_wait_1wire_idle,FUNC_2
+ds2482_w1_set_pullup,FUNC_3
+data,VAR_3
+delay,VAR_4
+pchan,VAR_5
+pdev,VAR_6
+retval,VAR_7

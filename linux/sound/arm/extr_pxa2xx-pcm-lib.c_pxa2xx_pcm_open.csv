@@ -1,0 +1,15 @@
+SNDRV_PCM_HW_PARAM_BUFFER_BYTES,VAR_0
+SNDRV_PCM_HW_PARAM_PERIODS,VAR_1
+SNDRV_PCM_HW_PARAM_PERIOD_BYTES,VAR_2
+dma_request_slave_channel,FUNC_0
+pxa2xx_pcm_hardware,VAR_3
+snd_dmaengine_pcm_open,FUNC_1
+snd_pcm_hw_constraint_integer,FUNC_2
+snd_pcm_hw_constraint_step,FUNC_3
+snd_soc_dai_get_dma_data,FUNC_4
+pxa2xx_pcm_open,FUNC_5
+substream,VAR_4
+rtd,VAR_5
+runtime,VAR_6
+dma_params,VAR_7
+ret,VAR_8

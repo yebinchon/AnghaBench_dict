@@ -1,0 +1,12 @@
+ETH_ALEN,VAR_0
+NFP_NET_CFG_MACADDR,VAR_1
+eth_hw_addr_random,FUNC_0
+ether_addr_copy,FUNC_1
+is_valid_ether_addr,FUNC_2
+nn_readl,FUNC_3
+nn_readw,FUNC_4
+put_unaligned_be16,FUNC_5
+put_unaligned_be32,FUNC_6
+nfp_netvf_get_mac_addr,FUNC_7
+nn,VAR_2
+mac_addr,VAR_3

@@ -1,0 +1,17 @@
+MLX4_QP_OPTPAR_ALT_ADDR_PATH,VAR_0
+MLX4_QP_OPTPAR_PRIMARY_ADDR_PATH,VAR_1
+MLX4_QP_ST_RC,VAR_2
+MLX4_QP_ST_UC,VAR_3
+MLX4_QP_ST_UD,VAR_4
+MLX4_QP_ST_XRC,VAR_5
+be32_to_cpu,FUNC_0
+mlx4_get_base_gid_ix,FUNC_1
+mlx4_is_eth,FUNC_2
+update_gid,FUNC_3
+dev,VAR_6
+inbox,VAR_7
+slave,VAR_8
+qp_ctx,VAR_9
+optpar,VAR_10
+ts,VAR_11
+port,VAR_12

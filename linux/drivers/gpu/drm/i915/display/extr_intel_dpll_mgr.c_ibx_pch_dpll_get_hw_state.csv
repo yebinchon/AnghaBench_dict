@@ -1,0 +1,15 @@
+DPLL_VCO_ENABLE,VAR_0
+I915_READ,FUNC_0
+PCH_DPLL,FUNC_1
+PCH_FP0,FUNC_2
+PCH_FP1,FUNC_3
+POWER_DOMAIN_DISPLAY_CORE,VAR_1
+intel_display_power_get_if_enabled,FUNC_4
+intel_display_power_put,FUNC_5
+ibx_pch_dpll_get_hw_state,FUNC_6
+dev_priv,VAR_2
+pll,VAR_3
+hw_state,VAR_4
+id,VAR_5
+wakeref,VAR_6
+val,VAR_7

@@ -1,0 +1,15 @@
+CAP_SYS_ADMIN,VAR_0
+bpf_get_current_cgroup_id_proto,VAR_1
+bpf_get_current_uid_gid_proto,VAR_2
+bpf_get_local_storage_proto,VAR_3
+bpf_get_trace_printk_proto,FUNC_0
+bpf_map_delete_elem_proto,VAR_4
+bpf_map_lookup_elem_proto,VAR_5
+bpf_map_peek_elem_proto,VAR_6
+bpf_map_pop_elem_proto,VAR_7
+bpf_map_push_elem_proto,VAR_8
+bpf_map_update_elem_proto,VAR_9
+capable,FUNC_1
+cgroup_base_func_proto,FUNC_2
+func_id,VAR_10
+prog,VAR_11

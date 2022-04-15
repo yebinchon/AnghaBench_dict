@@ -1,0 +1,13 @@
+TGT_KEVENT_CMD_DONE,VAR_0
+dprintk,FUNC_0
+eprintk,FUNC_1
+memset,FUNC_2
+scsi_tgt_cmd_to_host,FUNC_3
+tgt_uspace_send_event,FUNC_4
+scsi_tgt_uspace_send_status,FUNC_5
+cmd,VAR_1
+itn_id,VAR_2
+tag,VAR_3
+shost,VAR_4
+ev,VAR_5
+err,VAR_6

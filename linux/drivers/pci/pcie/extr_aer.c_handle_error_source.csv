@@ -1,0 +1,15 @@
+AER_CORRECTABLE,VAR_0
+AER_FATAL,VAR_1
+AER_NONFATAL,VAR_2
+PCIE_PORT_SERVICE_AER,VAR_3
+PCI_ERR_COR_STATUS,VAR_4
+pci_aer_clear_device_status,FUNC_0
+pci_channel_io_frozen,VAR_5
+pci_channel_io_normal,VAR_6
+pci_dev_put,FUNC_1
+pci_write_config_dword,FUNC_2
+pcie_do_recovery,FUNC_3
+handle_error_source,FUNC_4
+dev,VAR_7
+info,VAR_8
+pos,VAR_9

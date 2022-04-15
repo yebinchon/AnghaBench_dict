@@ -1,0 +1,16 @@
+FALSE,VAR_0
+POKEYSND_BIT16,VAR_1
+POKEYSND_num_pokeys,VAR_2
+POKEYSND_playback_freq,VAR_3
+POKEYSND_snd_flags,VAR_4
+SndSave_CloseSoundFile,FUNC_0
+TRUE,VAR_5
+byteswritten,VAR_6
+fclose,FUNC_1
+fopen,FUNC_2
+fputc,FUNC_3
+fwrite,FUNC_4
+sndoutput,VAR_7
+write32,FUNC_5
+SndSave_OpenSoundFile,FUNC_6
+szFileName,VAR_8

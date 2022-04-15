@@ -1,0 +1,12 @@
+CDF_HWDM,VAR_0
+CGC_DATA_READ,VAR_1
+GPCMD_GET_CONFIGURATION,VAR_2
+be16_to_cpu,FUNC_0
+init_cdrom_command,FUNC_1
+stub1,FUNC_2
+cdrom_has_defect_mgt,FUNC_3
+cdi,VAR_3
+cgc,VAR_4
+buffer,VAR_5
+feature_code,VAR_6
+ret,VAR_7

@@ -1,0 +1,15 @@
+EVF_READ,VAR_0
+MCR_LOOPBACK,VAR_1
+assert,FUNC_0
+pthread_mutex_lock,FUNC_1
+pthread_mutex_unlock,FUNC_2
+rxfifo_available,FUNC_3
+rxfifo_putchar,FUNC_4
+ttyread,FUNC_5
+uart_toggle_intr,FUNC_6
+uart_drain,FUNC_7
+fd,VAR_2
+ev,VAR_3
+arg,VAR_4
+sc,VAR_5
+ch,VAR_6

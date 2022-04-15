@@ -1,0 +1,17 @@
+E1000_RCTL_CFIEN,VAR_0
+E1000_RCTL_VFE,VAR_1
+IFF_PROMISC,VAR_2
+RCTL,VAR_3
+__E1000_DOWN,VAR_4
+__e1000_vlan_mode,FUNC_0
+e1000_irq_disable,FUNC_1
+e1000_irq_enable,FUNC_2
+e1000_update_mng_vlan,FUNC_3
+er32,FUNC_4
+ew32,FUNC_5
+test_bit,FUNC_6
+e1000_vlan_filter_on_off,FUNC_7
+adapter,VAR_5
+filter_on,VAR_6
+hw,VAR_7
+rctl,VAR_8

@@ -1,0 +1,15 @@
+DPNI_CMDID_GET_LINK_STATE,VAR_0
+LINK_STATE,VAR_1
+dpni_get_field,FUNC_0
+le32_to_cpu,FUNC_1
+le64_to_cpu,FUNC_2
+mc_encode_cmd_header,FUNC_3
+mc_send_command,FUNC_4
+dpni_get_link_state,FUNC_5
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+state,VAR_5
+cmd,VAR_6
+rsp_params,VAR_7
+err,VAR_8

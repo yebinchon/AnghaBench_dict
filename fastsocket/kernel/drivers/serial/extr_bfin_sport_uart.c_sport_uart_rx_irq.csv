@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+RXNE,VAR_1
+SPORT_GET_STAT,FUNC_0
+TTY_NORMAL,VAR_2
+rx_one_byte,FUNC_1
+tty_flip_buffer_push,FUNC_2
+tty_insert_flip_char,FUNC_3
+uart_handle_sysrq_char,FUNC_4
+sport_uart_rx_irq,FUNC_5
+irq,VAR_3
+dev_id,VAR_4
+up,VAR_5
+tty,VAR_6
+ch,VAR_7

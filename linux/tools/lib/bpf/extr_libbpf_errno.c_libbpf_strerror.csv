@@ -1,0 +1,12 @@
+ERRNO_OFFSET,FUNC_0
+__LIBBPF_ERRNO__END,VAR_0
+__LIBBPF_ERRNO__START,VAR_1
+libbpf_strerror_table,VAR_2
+snprintf,FUNC_1
+strerror_r,FUNC_2
+libbpf_strerror,FUNC_3
+err,VAR_3
+buf,VAR_4
+size,VAR_5
+ret,VAR_6
+msg,VAR_7

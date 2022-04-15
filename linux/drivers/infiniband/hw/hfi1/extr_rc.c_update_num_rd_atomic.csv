@@ -1,0 +1,15 @@
+IB_WR_ATOMIC_CMP_AND_SWP,VAR_0
+IB_WR_ATOMIC_FETCH_AND_ADD,VAR_1
+IB_WR_RDMA_READ,VAR_2
+IB_WR_TID_RDMA_READ,VAR_3
+cmp_psn,FUNC_0
+trace_hfi1_tid_req_update_num_rd_atomic,FUNC_1
+wqe_to_tid_req,FUNC_2
+update_num_rd_atomic,FUNC_3
+qp,VAR_4
+psn,VAR_5
+wqe,VAR_6
+opcode,VAR_7
+req,VAR_8
+priv,VAR_9
+cur_seg,VAR_10

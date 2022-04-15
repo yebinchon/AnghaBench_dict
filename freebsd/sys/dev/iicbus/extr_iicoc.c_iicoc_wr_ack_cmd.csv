@@ -1,0 +1,10 @@
+IIC_ENOACK,VAR_0
+OC_I2C_STATUS_REG,VAR_1
+OC_STATUS_NACK,VAR_2
+device_printf,FUNC_0
+iicoc_dev_read,FUNC_1
+iicoc_wr_cmd,FUNC_2
+iicoc_wr_ack_cmd,FUNC_3
+dev,VAR_3
+data,VAR_4
+cmd,VAR_5

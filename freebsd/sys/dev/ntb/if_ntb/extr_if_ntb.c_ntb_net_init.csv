@@ -1,0 +1,13 @@
+IFF_DRV_OACTIVE,VAR_0
+IFF_DRV_RUNNING,VAR_1
+LINK_STATE_DOWN,VAR_2
+LINK_STATE_UP,VAR_3
+if_link_state_change,FUNC_0
+if_setbaudrate,FUNC_1
+if_setdrvflagbits,FUNC_2
+ntb_transport_link_query,FUNC_3
+ntb_transport_link_speed,FUNC_4
+ntb_net_init,FUNC_5
+arg,VAR_4
+sc,VAR_5
+ifp,VAR_6

@@ -1,0 +1,15 @@
+IFEF_VLAN,VAR_0
+ifnet_eflags,FUNC_0
+parent_list_lookup,FUNC_1
+vlan_lock,FUNC_2
+vlan_parent_flags_change_in_progress,FUNC_3
+vlan_parent_flags_set_link_event_required,FUNC_4
+vlan_parent_release,FUNC_5
+vlan_parent_retain,FUNC_6
+vlan_parent_signal,FUNC_7
+vlan_parent_wait,FUNC_8
+vlan_unlock,FUNC_9
+vlan_parent_link_event,FUNC_10
+p,VAR_1
+event_code,VAR_2
+vlp,VAR_3

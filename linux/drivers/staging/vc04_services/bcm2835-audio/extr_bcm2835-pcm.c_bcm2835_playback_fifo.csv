@@ -1,0 +1,14 @@
+SNDRV_PCM_STATE_SETUP,VAR_0
+SNDRV_PCM_STATE_XRUN,VAR_1
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+ktime_get,FUNC_2
+snd_pcm_period_elapsed,FUNC_3
+snd_pcm_stop,FUNC_4
+snd_pcm_stream_lock,FUNC_5
+snd_pcm_stream_unlock,FUNC_6
+bcm2835_playback_fifo,FUNC_7
+alsa_stream,VAR_2
+bytes,VAR_3
+substream,VAR_4
+pos,VAR_5

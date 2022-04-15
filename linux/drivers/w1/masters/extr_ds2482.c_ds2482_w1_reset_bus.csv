@@ -1,0 +1,17 @@
+DS2482_CMD_1WIRE_RESET,VAR_0
+DS2482_CMD_WRITE_CONFIG,VAR_1
+DS2482_REG_STS_PPD,VAR_2
+DS2482_REG_STS_RST,VAR_3
+ds2482_calculate_config,FUNC_0
+ds2482_send_cmd,FUNC_1
+ds2482_send_cmd_data,FUNC_2
+ds2482_set_channel,FUNC_3
+ds2482_wait_1wire_idle,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+ds2482_w1_reset_bus,FUNC_7
+data,VAR_4
+pchan,VAR_5
+pdev,VAR_6
+err,VAR_7
+retval,VAR_8

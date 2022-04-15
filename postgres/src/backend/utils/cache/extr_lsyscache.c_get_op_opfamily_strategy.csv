@@ -1,0 +1,14 @@
+AMOPOPID,VAR_0
+AMOP_SEARCH,VAR_1
+CharGetDatum,FUNC_0
+GETSTRUCT,FUNC_1
+HeapTupleIsValid,FUNC_2
+ObjectIdGetDatum,FUNC_3
+ReleaseSysCache,FUNC_4
+SearchSysCache3,FUNC_5
+get_op_opfamily_strategy,FUNC_6
+opno,VAR_2
+opfamily,VAR_3
+tp,VAR_4
+amop_tup,VAR_5
+result,VAR_6

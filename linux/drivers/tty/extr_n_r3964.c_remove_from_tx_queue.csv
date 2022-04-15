@@ -1,0 +1,14 @@
+R3964_MSG_ACK,VAR_0
+TRACE_M,FUNC_0
+TRACE_Q,FUNC_1
+add_msg,FUNC_2
+kfree,FUNC_3
+printk,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+wake_up_interruptible,FUNC_7
+remove_from_tx_queue,FUNC_8
+pInfo,VAR_1
+error_code,VAR_2
+pHeader,VAR_3
+flags,VAR_4

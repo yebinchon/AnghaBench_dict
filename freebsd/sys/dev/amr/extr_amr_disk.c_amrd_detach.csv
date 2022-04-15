@@ -1,0 +1,11 @@
+DISKFLAG_OPEN,VAR_0
+EBUSY,VAR_1
+amr_disks_registered,VAR_2
+amrddisk_cdevsw,VAR_3
+cdevsw_remove,FUNC_0
+debug_called,FUNC_1
+device_get_softc,FUNC_2
+disk_destroy,FUNC_3
+amrd_detach,FUNC_4
+dev,VAR_4
+sc,VAR_5

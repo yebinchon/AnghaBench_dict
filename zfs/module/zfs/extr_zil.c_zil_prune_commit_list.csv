@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+IMPLY,FUNC_1
+LWB_STATE_FLUSH_DONE,VAR_0
+MUTEX_HELD,FUNC_2
+TX_COMMIT,VAR_1
+list_head,FUNC_3
+list_remove,FUNC_4
+mutex_enter,FUNC_5
+mutex_exit,FUNC_6
+zil_commit_waiter_link_lwb,FUNC_7
+zil_commit_waiter_skip,FUNC_8
+zil_itx_destroy,FUNC_9
+zil_prune_commit_list,FUNC_10
+zilog,VAR_2
+itx,VAR_3
+lrc,VAR_4
+last_lwb,VAR_5

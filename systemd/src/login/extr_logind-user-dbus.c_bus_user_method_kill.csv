@@ -1,0 +1,16 @@
+CAP_KILL,VAR_0
+SD_BUS_ERROR_INVALID_ARGS,VAR_1
+SIGNAL_VALID,FUNC_0
+assert,FUNC_1
+bus_verify_polkit_async,FUNC_2
+sd_bus_error_setf,FUNC_3
+sd_bus_message_read,FUNC_4
+sd_bus_reply_method_return,FUNC_5
+user_kill,FUNC_6
+bus_user_method_kill,FUNC_7
+message,VAR_2
+userdata,VAR_3
+error,VAR_4
+u,VAR_5
+signo,VAR_6
+r,VAR_7

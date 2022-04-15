@@ -1,0 +1,17 @@
+MZ_END_OF_STREAM,VAR_0
+MZ_OK,VAR_1
+MZ_PARAM_ERROR,VAR_2
+MZ_WRITE_ERROR,VAR_3
+mz_zip_entry_is_open,FUNC_0
+mz_zip_reader_entry_close,FUNC_1
+mz_zip_reader_entry_open,FUNC_2
+mz_zip_reader_entry_read,FUNC_3
+mz_zip_reader_is_open,FUNC_4
+mz_zip_reader_entry_save_process,FUNC_5
+handle,VAR_4
+stream,VAR_5
+write_cb,VAR_6
+reader,VAR_7
+err,VAR_8
+read,VAR_9
+written,VAR_10

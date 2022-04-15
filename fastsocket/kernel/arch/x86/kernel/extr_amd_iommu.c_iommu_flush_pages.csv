@@ -1,0 +1,12 @@
+CMD_INV_IOMMU_ALL_PAGES_ADDRESS,VAR_0
+PAGE_MASK,VAR_1
+PAGE_SIZE,VAR_2
+iommu_num_pages,FUNC_0
+iommu_queue_inv_iommu_pages,FUNC_1
+iommu_flush_pages,FUNC_2
+iommu,VAR_3
+domid,VAR_4
+address,VAR_5
+size,VAR_6
+s,VAR_7
+pages,VAR_8

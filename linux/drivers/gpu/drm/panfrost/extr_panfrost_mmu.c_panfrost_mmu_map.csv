@@ -1,0 +1,16 @@
+IOMMU_NOEXEC,VAR_0
+IOMMU_READ,VAR_1
+IOMMU_WRITE,VAR_2
+IS_ERR,FUNC_0
+PAGE_SHIFT,VAR_3
+PTR_ERR,FUNC_1
+WARN_ON,FUNC_2
+drm_gem_shmem_get_pages_sgt,FUNC_3
+mmu_map_sg,FUNC_4
+to_panfrost_device,FUNC_5
+panfrost_mmu_map,FUNC_6
+bo,VAR_4
+obj,VAR_5
+pfdev,VAR_6
+sgt,VAR_7
+prot,VAR_8

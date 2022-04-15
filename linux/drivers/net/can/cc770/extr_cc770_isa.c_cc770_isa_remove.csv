@@ -1,0 +1,17 @@
+CC770_IOSIZE,VAR_0
+CC770_IOSIZE_INDIRECT,VAR_1
+cc770_isa_port_read_reg_indirect,VAR_2
+free_cc770dev,FUNC_0
+iounmap,FUNC_1
+mem,VAR_3
+netdev_priv,FUNC_2
+platform_get_drvdata,FUNC_3
+port,VAR_4
+release_mem_region,FUNC_4
+release_region,FUNC_5
+unregister_cc770dev,FUNC_6
+cc770_isa_remove,FUNC_7
+pdev,VAR_5
+dev,VAR_6
+priv,VAR_7
+idx,VAR_8

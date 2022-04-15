@@ -1,0 +1,17 @@
+TD_CREATE,VAR_0
+TD_DEATH,VAR_1
+TD_OK,VAR_2
+set_breakpoint_at,FUNC_0
+td_event_addset,FUNC_1
+td_event_emptyset,FUNC_2
+td_ta_event_addr,FUNC_3
+td_ta_set_event,FUNC_4
+thread_agent,VAR_3
+thread_db_create_event,VAR_4
+thread_db_death_event,VAR_5
+thread_db_err_str,FUNC_5
+warning,FUNC_6
+thread_db_enable_reporting,FUNC_7
+events,VAR_6
+notify,VAR_7
+err,VAR_8

@@ -1,0 +1,13 @@
+MSCSTS_PLE,VAR_0
+MSC_PLE_WAITLOOP_DEPTH,VAR_1
+REG_MSU_MSC0STS,VAR_2
+__raw_readl,FUNC_0
+cpu_relax,FUNC_1
+dev_dbg,FUNC_2
+dev_get_drvdata,FUNC_3
+msc_dev,FUNC_4
+intel_th_msc_wait_empty,FUNC_5
+thdev,VAR_3
+msc,VAR_4
+count,VAR_5
+reg,VAR_6

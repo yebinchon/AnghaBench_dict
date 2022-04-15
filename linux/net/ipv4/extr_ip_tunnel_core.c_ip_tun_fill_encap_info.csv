@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+LWTUNNEL_IP_DST,VAR_1
+LWTUNNEL_IP_FLAGS,VAR_2
+LWTUNNEL_IP_ID,VAR_3
+LWTUNNEL_IP_PAD,VAR_4
+LWTUNNEL_IP_SRC,VAR_5
+LWTUNNEL_IP_TOS,VAR_6
+LWTUNNEL_IP_TTL,VAR_7
+lwt_tun_info,FUNC_0
+nla_put_be16,FUNC_1
+nla_put_be64,FUNC_2
+nla_put_in_addr,FUNC_3
+nla_put_u8,FUNC_4
+ip_tun_fill_encap_info,FUNC_5
+skb,VAR_8
+lwtstate,VAR_9
+tun_info,VAR_10

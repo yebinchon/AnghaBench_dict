@@ -1,0 +1,15 @@
+GIT_BUF_INIT,VAR_0
+GIT_ENOTFOUND,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_fail_with,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_clear,FUNC_3
+git_buf_dispose,FUNC_4
+git_commit__free,FUNC_5
+git_commit_header_field,FUNC_6
+parse_commit,FUNC_7
+passing_commit_cases,VAR_2
+test_commit_parse__arbitrary_field,FUNC_8
+commit,VAR_3
+buf,VAR_4
+gpgsig,VAR_5

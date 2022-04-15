@@ -1,0 +1,11 @@
+CNIC_LCL_FL_L2_WAIT,VAR_0
+CNIC_LCL_FL_RINGS_INITED,VAR_1
+clear_bit,FUNC_0
+cnic_l2_completion,FUNC_1
+test_bit,FUNC_2
+uio_event_notify,FUNC_3
+cnic_chk_pkt_rings,FUNC_4
+cp,VAR_2
+rx_cons,VAR_3
+tx_cons,VAR_4
+comp,VAR_5

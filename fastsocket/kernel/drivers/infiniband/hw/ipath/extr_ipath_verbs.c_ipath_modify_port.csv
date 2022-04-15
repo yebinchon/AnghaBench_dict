@@ -1,0 +1,11 @@
+IB_PORT_RESET_QKEY_CNTR,VAR_0
+IB_PORT_SHUTDOWN,VAR_1
+IPATH_IB_LINKDOWN,VAR_2
+ipath_set_linkstate,FUNC_0
+to_idev,FUNC_1
+ipath_modify_port,FUNC_2
+ibdev,VAR_3
+port,VAR_4
+port_modify_mask,VAR_5
+props,VAR_6
+dev,VAR_7

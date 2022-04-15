@@ -1,0 +1,13 @@
+SNDRV_PCM_STATE_OPEN,VAR_0
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+params_buffer_bytes,FUNC_2
+params_rate,FUNC_3
+snd_motu_stream_reserve_duplex,FUNC_4
+snd_pcm_lib_alloc_vmalloc_buffer,FUNC_5
+pcm_hw_params,FUNC_6
+substream,VAR_1
+hw_params,VAR_2
+motu,VAR_3
+err,VAR_4
+rate,VAR_5

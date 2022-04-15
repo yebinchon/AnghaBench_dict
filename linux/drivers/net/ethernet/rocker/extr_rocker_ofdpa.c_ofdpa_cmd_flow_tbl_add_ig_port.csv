@@ -1,0 +1,9 @@
+EMSGSIZE,VAR_0
+ROCKER_TLV_OF_DPA_GOTO_TABLE_ID,VAR_1
+ROCKER_TLV_OF_DPA_IN_PPORT,VAR_2
+ROCKER_TLV_OF_DPA_IN_PPORT_MASK,VAR_3
+rocker_tlv_put_u16,FUNC_0
+rocker_tlv_put_u32,FUNC_1
+ofdpa_cmd_flow_tbl_add_ig_port,FUNC_2
+desc_info,VAR_4
+entry,VAR_5

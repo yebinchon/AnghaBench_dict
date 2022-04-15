@@ -1,0 +1,11 @@
+MIPS_CPU_IRQ_BASE,VAR_0
+MSC01E_INT_BASE,VAR_1
+MSC01E_INT_CPUCTR,VAR_2
+cp0_compare_irq,VAR_3
+cpu_has_veic,VAR_4
+gic_get_c0_compare_int,FUNC_0
+mips_cpu_timer_irq,VAR_5
+mips_gic_present,FUNC_1
+mips_timer_dispatch,VAR_6
+set_vi_handler,FUNC_2
+get_c0_compare_int,FUNC_3

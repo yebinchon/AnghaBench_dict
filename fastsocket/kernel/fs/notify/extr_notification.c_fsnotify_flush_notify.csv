@@ -1,0 +1,13 @@
+fsnotify_notify_queue_is_empty,FUNC_0
+fsnotify_put_event,FUNC_1
+fsnotify_remove_notify_event,FUNC_2
+fsnotify_remove_priv_from_event,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+stub1,FUNC_8
+fsnotify_flush_notify,FUNC_9
+group,VAR_0
+event,VAR_1
+priv,VAR_2

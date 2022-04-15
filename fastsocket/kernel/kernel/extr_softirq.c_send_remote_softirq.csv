@@ -1,0 +1,10 @@
+__send_remote_softirq,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+smp_processor_id,FUNC_3
+send_remote_softirq,FUNC_4
+cp,VAR_0
+cpu,VAR_1
+softirq,VAR_2
+flags,VAR_3
+this_cpu,VAR_4

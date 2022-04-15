@@ -1,0 +1,17 @@
+MYRS_INTELLIGENT_WRITECACHE_ENABLED,VAR_0
+MYRS_LOGICALDEVICE_RO,VAR_1
+MYRS_READCACHE_DISABLED,VAR_2
+MYRS_WRITECACHE_ENABLED,VAR_3
+memset,FUNC_0
+put_unaligned_be16,FUNC_1
+put_unaligned_be32,FUNC_2
+scsi_sg_copy_from_buffer,FUNC_3
+myrs_mode_sense,FUNC_4
+cs,VAR_4
+scmd,VAR_5
+ldev_info,VAR_6
+modes,VAR_7
+mode_pg,VAR_8
+dbd,VAR_9
+mode_len,VAR_10
+block_desc,VAR_11

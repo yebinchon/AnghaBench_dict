@@ -1,0 +1,13 @@
+BAST_IRQ_ISA,VAR_0
+BAST_VA_PC104_IRQREQ,VAR_1
+__raw_readb,FUNC_0
+bast_pc104_irqs,VAR_2
+generic_handle_irq,FUNC_1
+irq_desc,VAR_3
+stub1,FUNC_2
+unlikely,FUNC_3
+bast_irq_pc104_demux,FUNC_4
+desc,VAR_4
+stat,VAR_5
+irqno,VAR_6
+i,VAR_7

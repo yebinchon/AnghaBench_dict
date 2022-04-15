@@ -1,0 +1,10 @@
+R92S_REQ_REGS,VAR_0
+USETW,FUNC_0
+UT_READ_VENDOR_DEVICE,VAR_1
+rsu_do_request,FUNC_1
+rsu_read_region_1,FUNC_2
+sc,VAR_2
+addr,VAR_3
+buf,VAR_4
+len,VAR_5
+req,VAR_6

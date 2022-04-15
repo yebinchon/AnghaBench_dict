@@ -1,0 +1,9 @@
+AC_VERB_GET_GPIO_DATA,VAR_0
+AC_VERB_SET_GPIO_DATA,VAR_1
+R3DI_MIC_SELECT_BIT,VAR_2
+snd_hda_codec_read,FUNC_0
+snd_hda_codec_write,FUNC_1
+r3di_gpio_mic_set,FUNC_2
+codec,VAR_3
+cur_mic,VAR_4
+cur_gpio,VAR_5

@@ -1,0 +1,10 @@
+HWRM_COREDUMP_TIMEOUT,VAR_0
+HWRM_DBG_COREDUMP_INITIATE,VAR_1
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+cpu_to_le16,FUNC_1
+hwrm_send_message,FUNC_2
+bnxt_hwrm_dbg_coredump_initiate,FUNC_3
+bp,VAR_2
+component_id,VAR_3
+segment_id,VAR_4
+req,VAR_5

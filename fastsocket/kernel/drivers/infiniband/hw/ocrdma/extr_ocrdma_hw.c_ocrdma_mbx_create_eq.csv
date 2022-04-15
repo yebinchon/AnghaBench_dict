@@ -1,0 +1,17 @@
+OCRDMA_CMD_CREATE_EQ,VAR_0
+OCRDMA_CREATE_EQ_CNT_SHIFT,VAR_1
+OCRDMA_CREATE_EQ_VALID,VAR_2
+OCRDMA_GEN2_FAMILY,VAR_3
+OCRDMA_SUBSYS_COMMON,VAR_4
+PAGE_SIZE_4K,VAR_5
+be_roce_mcc_cmd,FUNC_0
+memset,FUNC_1
+ocrdma_assign_eq_vect_gen2,FUNC_2
+ocrdma_build_q_pages,FUNC_3
+ocrdma_init_mch,FUNC_4
+ocrdma_mbx_create_eq,FUNC_5
+dev,VAR_6
+eq,VAR_7
+status,VAR_8
+cmd,VAR_9
+rsp,VAR_10

@@ -1,0 +1,17 @@
+HMC5843_DATA_OUT_MSB_REGS,VAR_0
+IRQ_HANDLED,VAR_1
+hmc5843_wait_measurement,FUNC_0
+iio_get_time_ns,FUNC_1
+iio_priv,FUNC_2
+iio_push_to_buffers_with_timestamp,FUNC_3
+iio_trigger_notify_done,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+regmap_bulk_read,FUNC_7
+hmc5843_trigger_handler,FUNC_8
+irq,VAR_2
+p,VAR_3
+pf,VAR_4
+indio_dev,VAR_5
+data,VAR_6
+ret,VAR_7

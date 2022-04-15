@@ -1,0 +1,10 @@
+arm64_kernel_unmapped_at_el0,FUNC_0
+is_compat_thread,FUNC_1
+task_thread_info,FUNC_2
+task_user_tls,FUNC_3
+tls_preserve_current_state,FUNC_4
+tpidr_el0,VAR_0
+tpidrro_el0,VAR_1
+write_sysreg,FUNC_5
+tls_thread_switch,FUNC_6
+next,VAR_2

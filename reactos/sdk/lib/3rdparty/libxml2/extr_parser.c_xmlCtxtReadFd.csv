@@ -1,0 +1,16 @@
+XML_CHAR_ENCODING_NONE,VAR_0
+inputPush,FUNC_0
+xmlCtxtReset,FUNC_1
+xmlDoRead,FUNC_2
+xmlFreeParserInputBuffer,FUNC_3
+xmlInitParser,FUNC_4
+xmlNewIOInputStream,FUNC_5
+xmlParserInputBufferCreateFd,FUNC_6
+xmlCtxtReadFd,FUNC_7
+ctxt,VAR_1
+fd,VAR_2
+URL,VAR_3
+encoding,VAR_4
+options,VAR_5
+input,VAR_6
+stream,VAR_7

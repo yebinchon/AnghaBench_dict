@@ -1,0 +1,15 @@
+DecodeHeap2Op,FUNC_0
+DecodeHeapOp,FUNC_1
+DecodeLogicalMsgOp,FUNC_2
+DecodeStandbyOp,FUNC_3
+DecodeXLogOp,FUNC_4
+DecodeXactOp,FUNC_5
+ERROR,VAR_0
+ReorderBufferProcessXid,FUNC_6
+XLogRecGetRmid,FUNC_7
+XLogRecGetXid,FUNC_8
+elog,FUNC_9
+LogicalDecodingProcessRecord,FUNC_10
+ctx,VAR_1
+record,VAR_2
+buf,VAR_3

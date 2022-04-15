@@ -1,0 +1,15 @@
+CloseServiceHandle,FUNC_0
+DELETE,VAR_0
+DeleteService,FUNC_1
+OpenSCManager,FUNC_2
+OpenServiceA,FUNC_3
+SC_MANAGER_ALL_ACCESS,VAR_1
+VLC_EGENERIC,VAR_2
+VLC_SUCCESS,VAR_3
+msg_Dbg,FUNC_4
+msg_Err,FUNC_5
+NTServiceUninstall,FUNC_6
+p_intf,VAR_4
+p_sys,VAR_5
+handle,VAR_6
+service,VAR_7

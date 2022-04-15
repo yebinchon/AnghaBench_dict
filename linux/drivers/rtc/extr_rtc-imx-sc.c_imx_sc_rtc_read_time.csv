@@ -1,0 +1,13 @@
+IMX_SC_RPC_SVC_TIMER,VAR_0
+IMX_SC_RPC_VERSION,VAR_1
+IMX_SC_TIMER_FUNC_GET_RTC_SEC1970,VAR_2
+dev_err,FUNC_0
+imx_scu_call_rpc,FUNC_1
+rtc_ipc_handle,VAR_3
+rtc_time64_to_tm,FUNC_2
+imx_sc_rtc_read_time,FUNC_3
+dev,VAR_4
+tm,VAR_5
+msg,VAR_6
+hdr,VAR_7
+ret,VAR_8

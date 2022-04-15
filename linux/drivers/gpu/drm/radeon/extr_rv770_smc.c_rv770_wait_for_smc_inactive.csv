@@ -1,0 +1,10 @@
+PPSMC_Result_OK,VAR_0
+RREG32,FUNC_0
+SMC_IO,VAR_1
+SMC_STOP_MODE,VAR_2
+rv770_is_smc_running,FUNC_1
+udelay,FUNC_2
+rv770_wait_for_smc_inactive,FUNC_3
+rdev,VAR_3
+i,VAR_4
+result,VAR_5

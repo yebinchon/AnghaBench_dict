@@ -1,0 +1,15 @@
+HV_X86_RAX,VAR_0
+HV_X86_RBX,VAR_1
+HV_X86_RCX,VAR_2
+HV_X86_RDX,VAR_3
+reg_read,FUNC_0
+reg_write,FUNC_1
+x86_emulate_cpuid,FUNC_2
+vmx_handle_cpuid,FUNC_3
+vm,VAR_4
+vcpuid,VAR_5
+eax,VAR_6
+ebx,VAR_7
+ecx,VAR_8
+edx,VAR_9
+error,VAR_10

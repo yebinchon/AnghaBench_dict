@@ -1,0 +1,8 @@
+PPSMC_MSG_SCLKDPM_GetEnabledMask,VAR_0
+RREG32_SMC,FUNC_0
+SMC_SYSCON_MSG_ARG_0,VAR_1
+kv_notify_message_to_smu,FUNC_1
+kv_dpm_get_enable_mask,FUNC_2
+rdev,VAR_2
+enable_mask,VAR_3
+ret,VAR_4

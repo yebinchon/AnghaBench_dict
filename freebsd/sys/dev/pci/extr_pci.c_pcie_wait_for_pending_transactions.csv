@@ -1,0 +1,13 @@
+C_HARDCLOCK,VAR_0
+PCIEM_STA_TRANSACTION_PND,VAR_1
+PCIER_DEVICE_STA,VAR_2
+SBT_1MS,VAR_3
+device_get_ivars,FUNC_0
+pause_sbt,FUNC_1
+pci_read_config,FUNC_2
+pcie_wait_for_pending_transactions,FUNC_3
+dev,VAR_4
+max_delay,VAR_5
+dinfo,VAR_6
+sta,VAR_7
+cap,VAR_8

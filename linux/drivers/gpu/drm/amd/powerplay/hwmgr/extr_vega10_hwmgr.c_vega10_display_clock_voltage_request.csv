@@ -1,0 +1,15 @@
+DSPCLK_DCEFCLK,VAR_0
+DSPCLK_DISPCLK,VAR_1
+DSPCLK_PHYCLK,VAR_2
+DSPCLK_PIXCLK,VAR_3
+PPSMC_MSG_RequestDisplayClockByFreq,VAR_4
+pr_info,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+vega10_display_clock_voltage_request,FUNC_2
+hwmgr,VAR_5
+clock_req,VAR_6
+result,VAR_7
+clk_type,VAR_8
+clk_freq,VAR_9
+clk_select,VAR_10
+clk_request,VAR_11

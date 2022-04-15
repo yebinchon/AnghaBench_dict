@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+IOMMU_HAS_LARGE_POOL,VAR_0
+IOMMU_NO_SPAN_BOUND,VAR_1
+IOMMU_NR_POOLS,VAR_2
+setup_iommu_pool_hash,FUNC_1
+spin_lock_init,FUNC_2
+iommu_tbl_pool_init,FUNC_3
+iommu,VAR_3
+num_entries,VAR_4
+table_shift,VAR_5
+lazy_flush,VAR_6
+large_pool,VAR_7
+npools,VAR_8
+skip_span_boundary_check,VAR_9
+start,VAR_10
+i,VAR_11
+p,VAR_12

@@ -1,0 +1,16 @@
+EL_32X,VAR_0
+EL_ANOMALY,VAR_1
+M68K_BANK_MASK,VAR_2
+Pico,VAR_3
+PicoCpuFM68k,VAR_4
+SRR_MAPPED,VAR_5
+SRam,VAR_6
+bank_map_handler,FUNC_0
+cpu68k_map_set,FUNC_1
+elprintf,FUNC_2
+m68k_read16_map,VAR_7
+m68k_read8_map,VAR_8
+bank_switch,FUNC_3
+b,VAR_9
+rs,VAR_10
+bank,VAR_11

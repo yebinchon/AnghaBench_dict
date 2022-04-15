@@ -1,0 +1,14 @@
+DAV_HEADER_IF,VAR_0
+DAV_HEADER_LOCK,VAR_1
+DAV_HEADER_TIMEOUT,VAR_2
+STRBUF_INIT,VAR_3
+curl_slist_append,FUNC_0
+http_copy_default_headers,FUNC_1
+strbuf_addf,FUNC_2
+strbuf_release,FUNC_3
+strbuf_reset,FUNC_4
+get_dav_token_headers,FUNC_5
+lock,VAR_4
+options,VAR_5
+buf,VAR_6
+dav_headers,VAR_7

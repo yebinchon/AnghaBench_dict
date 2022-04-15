@@ -1,0 +1,13 @@
+WD_BTIMEOUT,VAR_0
+WD_NUMDEVS,VAR_1
+WD_STAT_BSTOP,VAR_2
+add_timer,FUNC_0
+cpwd_resetbrokentimer,FUNC_1
+cpwd_timer,VAR_3
+del_timer,FUNC_2
+timer_pending,FUNC_3
+cpwd_brokentimer,FUNC_4
+data,VAR_4
+p,VAR_5
+id,VAR_6
+tripped,VAR_7

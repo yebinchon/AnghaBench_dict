@@ -1,0 +1,16 @@
+INET_ECN_CE,VAR_0
+MLXSW_REG,FUNC_0
+MLXSW_REG_TNDEM_LEN,VAR_1
+MLXSW_TRAP_ID_DECAP_ECN0,VAR_2
+__INET_ECN_decapsulate,FUNC_1
+mlxsw_reg_tndem_pack,FUNC_2
+mlxsw_reg_write,FUNC_3
+tndem,VAR_3
+__mlxsw_sp_nve_ecn_decap_init,FUNC_4
+mlxsw_sp,VAR_4
+inner_ecn,VAR_5
+outer_ecn,VAR_6
+tndem_pl,VAR_7
+trap_en,VAR_8
+set_ce,VAR_9
+new_inner_ecn,VAR_10

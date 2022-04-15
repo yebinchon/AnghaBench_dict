@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+ULITE_STATUS,VAR_2
+readb,FUNC_0
+tty_flip_buffer_push,FUNC_1
+ulite_receive,FUNC_2
+ulite_transmit,FUNC_3
+ulite_isr,FUNC_4
+irq,VAR_3
+dev_id,VAR_4
+port,VAR_5
+busy,VAR_6
+n,VAR_7
+stat,VAR_8

@@ -1,0 +1,15 @@
+BNX2_DRV_MSG_CODE_RESET,VAR_0
+BNX2_LOOPBACK_FAILED,VAR_1
+BNX2_MAC_LOOPBACK,VAR_2
+BNX2_MAC_LOOPBACK_FAILED,VAR_3
+BNX2_PHY_LOOPBACK,VAR_4
+BNX2_PHY_LOOPBACK_FAILED,VAR_5
+bnx2_init_phy,FUNC_0
+bnx2_reset_nic,FUNC_1
+bnx2_run_loopback,FUNC_2
+netif_running,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+bnx2_test_loopback,FUNC_6
+bp,VAR_6
+rc,VAR_7

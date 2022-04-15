@@ -1,0 +1,11 @@
+read_lock,FUNC_0
+read_unlock,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+tid_gt,FUNC_4
+jbd2_journal_get_log_tail,FUNC_5
+journal,VAR_0
+tid,VAR_1
+block,VAR_2
+transaction,VAR_3
+ret,VAR_4

@@ -1,0 +1,9 @@
+PT_PTRACED,VAR_0
+PT_TRACESYSGOOD,VAR_1
+SIGTRAP,VAR_2
+TIF_SYSCALL_TRACE,VAR_3
+current,VAR_4
+ptrace_notify,FUNC_0
+send_sig,FUNC_1
+test_thread_flag,FUNC_2
+do_syscall_trace,FUNC_3

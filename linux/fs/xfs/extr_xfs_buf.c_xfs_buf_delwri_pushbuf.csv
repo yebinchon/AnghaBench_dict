@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+LIST_HEAD,FUNC_1
+_RET_IP_,VAR_0
+_XBF_DELWRI_Q,VAR_1
+list_move,FUNC_2
+submit_list,VAR_2
+trace_xfs_buf_delwri_pushbuf,FUNC_3
+xfs_buf_delwri_submit_buffers,FUNC_4
+xfs_buf_iowait,FUNC_5
+xfs_buf_lock,FUNC_6
+xfs_buf_unlock,FUNC_7
+xfs_buf_delwri_pushbuf,FUNC_8
+bp,VAR_3
+buffer_list,VAR_4
+error,VAR_5

@@ -1,0 +1,13 @@
+Anum_chunk_idx_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CHUNK_ID_INDEX,VAR_2
+CurrentMemoryContext,VAR_3
+F_INT4EQ,VAR_4
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+chunk_scan_find,FUNC_2
+ts_chunk_get_by_id,FUNC_3
+id,VAR_5
+num_constraints,VAR_6
+fail_if_not_found,VAR_7
+scankey,VAR_8

@@ -1,0 +1,12 @@
+HWRM_SELFTEST_EXEC,VAR_0
+_hwrm_send_message,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+bnxt_run_fw_tests,FUNC_4
+bp,VAR_1
+test_mask,VAR_2
+test_results,VAR_3
+resp,VAR_4
+req,VAR_5
+rc,VAR_6

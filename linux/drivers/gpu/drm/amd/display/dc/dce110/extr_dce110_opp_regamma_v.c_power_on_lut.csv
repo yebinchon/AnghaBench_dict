@@ -1,0 +1,16 @@
+COL_MAN_GAMMA_CORR_MEM_PWR_DIS,VAR_0
+COL_MAN_INPUT_GAMMA_MEM_PWR_DIS,VAR_1
+DCFEV_MEM_PWR_CTRL,VAR_2
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+get_reg_field_value,FUNC_2
+mmDCFEV_MEM_PWR_CTRL,VAR_3
+set_reg_field_value,FUNC_3
+udelay,FUNC_4
+power_on_lut,FUNC_5
+xfm,VAR_4
+power_on,VAR_5
+inputgamma,VAR_6
+regamma,VAR_7
+value,VAR_8
+i,VAR_9

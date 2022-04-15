@@ -1,0 +1,12 @@
+EPROTO,VAR_0
+NVMET_TCP_RECV_DATA,VAR_1
+NVME_SC_DNR,VAR_2
+NVME_SC_INVALID_FIELD,VAR_3
+le32_to_cpu,FUNC_0
+nvmet_req_complete,FUNC_1
+nvmet_tcp_map_pdu_iovec,FUNC_2
+pr_err,FUNC_3
+nvmet_tcp_handle_h2c_data_pdu,FUNC_4
+queue,VAR_4
+data,VAR_5
+cmd,VAR_6

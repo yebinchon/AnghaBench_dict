@@ -1,0 +1,10 @@
+GIT_ENOTFOUND,VAR_0
+GIT_OBJECT_ANY,VAR_1
+_fake,VAR_2
+_nonexisting_oid,VAR_3
+_repo,VAR_4
+cl_assert_equal_i,FUNC_0
+cl_git_fail_with,FUNC_1
+git_object_lookup_prefix,FUNC_2
+test_odb_backend_nonrefreshing__readprefix_is_invoked_once_on_failure,FUNC_3
+obj,VAR_5

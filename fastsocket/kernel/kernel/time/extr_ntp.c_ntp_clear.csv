@@ -1,0 +1,15 @@
+NTP_PHASE_LIMIT,VAR_0
+STA_UNSYNC,VAR_1
+ntp_lock,VAR_2
+ntp_update_frequency,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+tick_length,VAR_3
+tick_length_base,VAR_4
+time_adjust,VAR_5
+time_esterror,VAR_6
+time_maxerror,VAR_7
+time_offset,VAR_8
+time_status,VAR_9
+ntp_clear,FUNC_3
+flags,VAR_10

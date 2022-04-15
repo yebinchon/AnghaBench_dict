@@ -1,0 +1,12 @@
+IP_VS_CONN_F_HASHED,VAR_0
+ct_write_lock_bh,FUNC_0
+ct_write_unlock_bh,FUNC_1
+hlist_del_rcu,FUNC_2
+ip_vs_conn_hashkey_conn,FUNC_3
+refcount_dec,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ip_vs_conn_unhash,FUNC_7
+cp,VAR_1
+hash,VAR_2
+ret,VAR_3

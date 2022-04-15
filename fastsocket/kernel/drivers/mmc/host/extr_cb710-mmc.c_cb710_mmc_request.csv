@@ -1,0 +1,15 @@
+CB710_MMC_IE_TEST_MASK,VAR_0
+ENOMEDIUM,VAR_1
+WARN_ON,FUNC_0
+cb710_mmc_command,FUNC_1
+cb710_mmc_enable_irq,FUNC_2
+cb710_mmc_is_card_inserted,FUNC_3
+cb710_mmc_to_slot,FUNC_4
+mdelay,FUNC_5
+mmc_priv,FUNC_6
+tasklet_schedule,FUNC_7
+cb710_mmc_request,FUNC_8
+mmc,VAR_2
+mrq,VAR_3
+slot,VAR_4
+reader,VAR_5

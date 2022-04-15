@@ -1,0 +1,9 @@
+blk_mq_freeze_queue,FUNC_0
+blk_mq_quiesce_queue,FUNC_1
+blk_mq_unfreeze_queue,FUNC_2
+blk_mq_unquiesce_queue,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+vdc_queue_drain,FUNC_6
+port,VAR_0
+q,VAR_1

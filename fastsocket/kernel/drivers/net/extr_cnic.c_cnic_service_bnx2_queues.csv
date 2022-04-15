@@ -1,0 +1,11 @@
+CNIC_WR16,FUNC_0
+barrier,FUNC_1
+cnic_chk_pkt_rings,FUNC_2
+cnic_get_kcqes,FUNC_3
+rmb,FUNC_4
+service_kcqes,FUNC_5
+cnic_service_bnx2_queues,FUNC_6
+dev,VAR_0
+cp,VAR_1
+status_idx,VAR_2
+kcqe_cnt,VAR_3

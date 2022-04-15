@@ -1,0 +1,11 @@
+WAL_SYNC_FLAGS,FUNC_0
+assert,FUNC_1
+sqlite3OsSync,FUNC_2
+sqlite3OsWrite,FUNC_3
+walWriteToLog,FUNC_4
+p,VAR_0
+pContent,VAR_1
+iAmt,VAR_2
+iOffset,VAR_3
+rc,VAR_4
+iFirstAmt,VAR_5

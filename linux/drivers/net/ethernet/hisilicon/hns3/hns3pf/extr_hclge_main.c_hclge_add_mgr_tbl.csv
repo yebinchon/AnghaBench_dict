@@ -1,0 +1,15 @@
+HCLGE_OPC_MAC_ETHTYPE_ADD,VAR_0
+dev_err,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hclge_get_mac_ethertype_cmd_status,FUNC_3
+le16_to_cpu,FUNC_4
+le32_to_cpu,FUNC_5
+memcpy,FUNC_6
+hclge_add_mgr_tbl,FUNC_7
+hdev,VAR_1
+req,VAR_2
+desc,VAR_3
+resp_code,VAR_4
+retval,VAR_5
+ret,VAR_6

@@ -1,0 +1,15 @@
+NL80211_ATTR_IFINDEX,VAR_0
+NL80211_ATTR_WIPHY,VAR_1
+NL80211_CMD_GET_INTERFACE,VAR_2
+NLA_PUT_U32,FUNC_0
+nla_get_u32,FUNC_1
+nlmsg_free,FUNC_2
+unl_find_attr,FUNC_3
+unl_genl_msg,FUNC_4
+unl_genl_request_single,FUNC_5
+unl_nl80211_wdev_to_phy,FUNC_6
+unl,VAR_3
+wdev,VAR_4
+msg,VAR_5
+attr,VAR_6
+ret,VAR_7

@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+GFP_NOFS,VAR_0
+SB_JOURNAL,FUNC_1
+current,VAR_1
+journal_begin,FUNC_2
+kfree,FUNC_3
+kmalloc,FUNC_4
+reiserfs_transaction_running,FUNC_5
+reiserfs_persistent_transaction,FUNC_6
+s,VAR_2
+nblocks,VAR_3
+ret,VAR_4
+th,VAR_5

@@ -1,0 +1,9 @@
+get_fan_speed_index,FUNC_0
+gpiod_direction_output,FUNC_1
+gpiod_get_value_cansleep,FUNC_2
+fan_ctrl_init,FUNC_3
+fan_data,VAR_0
+num_gpios,VAR_1
+gpios,VAR_2
+i,VAR_3
+err,VAR_4

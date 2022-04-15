@@ -1,0 +1,17 @@
+AES_BLOCK_SIZE,VAR_0
+EINVAL,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+SHA256_DIGEST_SIZE,VAR_2
+WARN_ON,FUNC_2
+crypto_alloc_cipher,FUNC_3
+crypto_cipher_setkey,FUNC_4
+derive_essiv_salt,FUNC_5
+memzero_explicit,FUNC_6
+init_essiv_generator,FUNC_7
+ci,VAR_3
+raw_key,VAR_4
+keysize,VAR_5
+err,VAR_6
+essiv_tfm,VAR_7
+salt,VAR_8

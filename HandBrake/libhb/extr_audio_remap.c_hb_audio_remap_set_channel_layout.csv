@@ -1,0 +1,10 @@
+AV_CH_LAYOUT_STEREO,VAR_0
+AV_CH_LAYOUT_STEREO_DOWNMIX,VAR_1
+HB_AUDIO_REMAP_MAX_CHANNELS,VAR_2
+av_get_channel_layout_nb_channels,FUNC_0
+hb_audio_remap_build_table,FUNC_1
+hb_log,FUNC_2
+hb_audio_remap_set_channel_layout,FUNC_3
+remap,VAR_3
+channel_layout,VAR_4
+ii,VAR_5

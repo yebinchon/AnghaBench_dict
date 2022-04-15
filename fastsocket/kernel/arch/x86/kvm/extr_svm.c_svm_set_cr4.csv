@@ -1,0 +1,14 @@
+VMCB_CR,VAR_0
+X86_CR4_MCE,VAR_1
+X86_CR4_PAE,VAR_2
+X86_CR4_PGE,VAR_3
+mark_dirty,FUNC_0
+npt_enabled,VAR_4
+read_cr4,FUNC_1
+svm_flush_tlb,FUNC_2
+to_svm,FUNC_3
+svm_set_cr4,FUNC_4
+vcpu,VAR_5
+cr4,VAR_6
+host_cr4_mce,VAR_7
+old_cr4,VAR_8

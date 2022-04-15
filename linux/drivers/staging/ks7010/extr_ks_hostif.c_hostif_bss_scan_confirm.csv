@@ -1,0 +1,12 @@
+SIOCGIWSCAN,VAR_0
+SME_AP_SCAN,VAR_1
+SME_BSS_SCAN_CONFIRM,VAR_2
+get_dword,FUNC_0
+hostif_sme_enqueue,FUNC_1
+netdev_dbg,FUNC_2
+wireless_send_event,FUNC_3
+hostif_bss_scan_confirm,FUNC_4
+priv,VAR_3
+result_code,VAR_4
+dev,VAR_5
+wrqu,VAR_6

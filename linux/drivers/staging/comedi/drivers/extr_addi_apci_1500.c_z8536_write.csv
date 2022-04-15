@@ -1,0 +1,9 @@
+APCI1500_Z8536_CTRL_REG,VAR_0
+outb,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+z8536_write,FUNC_3
+dev,VAR_1
+val,VAR_2
+reg,VAR_3
+flags,VAR_4

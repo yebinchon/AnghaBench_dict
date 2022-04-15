@@ -1,0 +1,16 @@
+SNDRV_PCM_STATE_DRAINING,VAR_0
+SNDRV_PCM_STATE_OPEN,VAR_1
+SNDRV_PCM_STATE_RUNNING,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+SNDRV_PCM_TSTAMP_ENABLE,VAR_4
+snd_pcm_capture_avail,FUNC_0
+snd_pcm_gettime,FUNC_1
+snd_pcm_playback_avail,FUNC_2
+snd_pcm_running,FUNC_3
+snd_pcm_stream_lock_irq,FUNC_4
+snd_pcm_stream_unlock_irq,FUNC_5
+snd_pcm_update_hw_ptr,FUNC_6
+snd_pcm_status,FUNC_7
+substream,VAR_5
+status,VAR_6
+runtime,VAR_7

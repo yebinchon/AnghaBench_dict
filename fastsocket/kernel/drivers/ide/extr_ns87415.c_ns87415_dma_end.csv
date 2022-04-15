@@ -1,0 +1,10 @@
+ATA_DMA_CMD,VAR_0
+inb,FUNC_0
+ns87415_prepare_drive,FUNC_1
+outb,FUNC_2
+stub1,FUNC_3
+ns87415_dma_end,FUNC_4
+drive,VAR_1
+hwif,VAR_2
+dma_stat,VAR_3
+dma_cmd,VAR_4

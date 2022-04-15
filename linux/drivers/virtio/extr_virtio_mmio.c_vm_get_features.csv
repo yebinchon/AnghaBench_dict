@@ -1,0 +1,9 @@
+VIRTIO_MMIO_DEVICE_FEATURES,VAR_0
+VIRTIO_MMIO_DEVICE_FEATURES_SEL,VAR_1
+readl,FUNC_0
+to_virtio_mmio_device,FUNC_1
+writel,FUNC_2
+vm_get_features,FUNC_3
+vdev,VAR_2
+vm_dev,VAR_3
+features,VAR_4

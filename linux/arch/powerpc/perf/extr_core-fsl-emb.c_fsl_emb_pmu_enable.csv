@@ -1,0 +1,14 @@
+PMGC0_FCECE,VAR_0
+PMGC0_PMIE,VAR_1
+PMRN_PMGC0,VAR_2
+cpu_hw_events,VAR_3
+isync,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+mtpmr,FUNC_3
+ppc_set_pmu_inuse,FUNC_4
+this_cpu_ptr,FUNC_5
+fsl_emb_pmu_enable,FUNC_6
+pmu,VAR_4
+cpuhw,VAR_5
+flags,VAR_6

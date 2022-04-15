@@ -1,0 +1,7 @@
+CVMX_RTC_DS1374_ADDR,VAR_0
+RTC_WD_ALM_CNT_BYTE0_ADDR,VAR_1
+cvmx_twsi_write8,FUNC_0
+cvmx_rtc_ds1374_alarm_counter_set,FUNC_1
+interval,VAR_2
+i,VAR_3
+rc,VAR_4

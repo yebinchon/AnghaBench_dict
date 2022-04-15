@@ -1,0 +1,16 @@
+BMC150_ACCEL_INT_MODE_LATCH_INT,VAR_0
+BMC150_ACCEL_INT_MODE_LATCH_RESET,VAR_1
+BMC150_ACCEL_REG_INT_RST_LATCH,VAR_2
+BMC150_ACCEL_TRIGGER_DATA_READY,VAR_3
+dev_err,FUNC_0
+iio_trigger_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+regmap_get_device,FUNC_4
+regmap_write,FUNC_5
+bmc150_accel_trig_try_reen,FUNC_6
+trig,VAR_4
+t,VAR_5
+data,VAR_6
+dev,VAR_7
+ret,VAR_8

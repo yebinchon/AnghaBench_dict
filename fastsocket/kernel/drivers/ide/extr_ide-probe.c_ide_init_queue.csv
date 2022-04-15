@@ -1,0 +1,15 @@
+PCI_DMA_BUS_IS_PHYS,VAR_0
+PRD_ENTRIES,VAR_1
+blk_init_queue_node,FUNC_0
+blk_queue_max_hw_sectors,FUNC_1
+blk_queue_max_segments,FUNC_2
+blk_queue_segment_boundary,FUNC_3
+do_ide_request,VAR_2
+hwif_to_node,FUNC_4
+ide_toggle_bounce,FUNC_5
+ide_init_queue,FUNC_6
+drive,VAR_3
+q,VAR_4
+hwif,VAR_5
+max_sectors,VAR_6
+max_sg_entries,VAR_7

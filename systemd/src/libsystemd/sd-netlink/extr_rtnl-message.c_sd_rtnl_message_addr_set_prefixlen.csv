@@ -1,0 +1,11 @@
+AF_INET,VAR_0
+AF_INET6,VAR_1
+EINVAL,VAR_2
+ERANGE,VAR_3
+NLMSG_DATA,FUNC_0
+assert_return,FUNC_1
+rtnl_message_type_is_addr,FUNC_2
+sd_rtnl_message_addr_set_prefixlen,FUNC_3
+m,VAR_4
+prefixlen,VAR_5
+ifa,VAR_6

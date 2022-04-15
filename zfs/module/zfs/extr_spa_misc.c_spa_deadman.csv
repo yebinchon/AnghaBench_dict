@@ -1,0 +1,16 @@
+FTAG,VAR_0
+MSEC_TO_TICK,FUNC_0
+NANOSEC,VAR_1
+TQ_SLEEP,VAR_2
+ddi_get_lbolt,FUNC_1
+gethrtime,FUNC_2
+spa_suspended,FUNC_3
+system_delay_taskq,VAR_3
+taskq_dispatch_delay,FUNC_4
+vdev_deadman,FUNC_5
+zfs_dbgmsg,FUNC_6
+zfs_deadman_checktime_ms,VAR_4
+zfs_deadman_enabled,VAR_5
+spa_deadman,FUNC_7
+arg,VAR_6
+spa,VAR_7

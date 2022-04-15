@@ -1,0 +1,12 @@
+ONYX_MUTE_LEFT,VAR_0
+ONYX_MUTE_RIGHT,VAR_1
+ONYX_REG_DAC_CONTROL,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+onyx_read_register,FUNC_2
+snd_kcontrol_chip,FUNC_3
+onyx_snd_mute_get,FUNC_4
+kcontrol,VAR_3
+ucontrol,VAR_4
+onyx,VAR_5
+c,VAR_6

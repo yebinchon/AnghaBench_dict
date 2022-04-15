@@ -1,0 +1,17 @@
+CAP_SYS_ADMIN,VAR_0
+EACCES,VAR_1
+EINVAL,VAR_2
+XATTR_TRUSTED_PREFIX,VAR_3
+capable,FUNC_0
+kmem_asprintf,FUNC_1
+kmem_strfree,FUNC_2
+strcmp,FUNC_3
+zpl_xattr_set,FUNC_4
+__zpl_xattr_trusted_set,FUNC_5
+ip,VAR_4
+name,VAR_5
+value,VAR_6
+size,VAR_7
+flags,VAR_8
+xattr_name,VAR_9
+error,VAR_10

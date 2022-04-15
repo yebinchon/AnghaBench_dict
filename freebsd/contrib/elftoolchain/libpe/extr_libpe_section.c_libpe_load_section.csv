@@ -1,0 +1,17 @@
+EIO,VAR_0
+LIBPE_F_LOAD_SECTION,VAR_1
+LIBPE_F_SPECIAL_FILE,VAR_2
+SEEK_SET,VAR_3
+assert,FUNC_0
+errno,VAR_4
+le32dec,FUNC_1
+libpe_alloc_buffer,FUNC_2
+lseek,FUNC_3
+read,FUNC_4
+libpe_load_section,FUNC_5
+pe,VAR_5
+ps,VAR_6
+sh,VAR_7
+sb,VAR_8
+sz,VAR_9
+tmp,VAR_10

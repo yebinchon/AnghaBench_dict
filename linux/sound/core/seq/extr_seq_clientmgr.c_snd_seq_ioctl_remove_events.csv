@@ -1,0 +1,9 @@
+SNDRV_SEQ_REMOVE_INPUT,VAR_0
+SNDRV_SEQ_REMOVE_OUTPUT,VAR_1
+USER_CLIENT,VAR_2
+snd_seq_fifo_clear,FUNC_0
+snd_seq_queue_remove_cells,FUNC_1
+snd_seq_ioctl_remove_events,FUNC_2
+client,VAR_3
+arg,VAR_4
+info,VAR_5

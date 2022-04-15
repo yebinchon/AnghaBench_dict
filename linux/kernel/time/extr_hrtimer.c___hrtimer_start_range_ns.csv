@@ -1,0 +1,16 @@
+HRTIMER_MODE_PINNED,VAR_0
+HRTIMER_MODE_REL,VAR_1
+enqueue_hrtimer,FUNC_0
+hrtimer_set_expires_range_ns,FUNC_1
+hrtimer_update_lowres,FUNC_2
+ktime_add_safe,FUNC_3
+remove_hrtimer,FUNC_4
+stub1,FUNC_5
+switch_hrtimer_base,FUNC_6
+__hrtimer_start_range_ns,FUNC_7
+timer,VAR_2
+tim,VAR_3
+delta_ns,VAR_4
+mode,VAR_5
+base,VAR_6
+new_base,VAR_7

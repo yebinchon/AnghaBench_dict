@@ -1,0 +1,17 @@
+I2C_ADDR_MUIC,VAR_0
+IRQF_ONESHOT,VAR_1
+IRQF_SHARED,VAR_2
+IRQF_TRIGGER_LOW,VAR_3
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+dev_err,FUNC_2
+devm_regmap_init_i2c,FUNC_3
+i2c_new_dummy_device,FUNC_4
+i2c_set_clientdata,FUNC_5
+i2c_unregister_device,FUNC_6
+max77843_muic_irq_chip,VAR_4
+max77843_muic_regmap_config,VAR_5
+regmap_add_irq_chip,FUNC_7
+max77843_init_muic_regmap,FUNC_8
+max77843,VAR_6
+ret,VAR_7

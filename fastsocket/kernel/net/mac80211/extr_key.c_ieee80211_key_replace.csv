@@ -1,0 +1,17 @@
+WARN_ON,FUNC_0
+__ieee80211_set_default_key,FUNC_1
+__ieee80211_set_default_mgmt_key,FUNC_2
+key_mtx_dereference,FUNC_3
+list_add_tail,FUNC_4
+list_del,FUNC_5
+rcu_assign_pointer,FUNC_6
+ieee80211_key_replace,FUNC_7
+sdata,VAR_0
+sta,VAR_1
+pairwise,VAR_2
+old,VAR_3
+new,VAR_4
+idx,VAR_5
+defunikey,VAR_6
+defmultikey,VAR_7
+defmgmtkey,VAR_8

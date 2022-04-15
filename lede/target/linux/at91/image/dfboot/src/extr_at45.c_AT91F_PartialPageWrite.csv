@@ -1,0 +1,16 @@
+AT91C_DATAFLASH_TIMEOUT,VAR_0
+AT91F_DataFlashWaitReady,FUNC_0
+AT91F_DataFlashWriteBuffer,FUNC_1
+AT91F_MainMemoryToBufferTransfer,FUNC_2
+AT91F_PageErase,FUNC_3
+AT91F_WriteBufferToMain,FUNC_4
+DB_BUF1_PAGE_ERASE_PGM,VAR_1
+DB_BUF1_WRITE,VAR_2
+DB_PAGE_2_BUF1_TRF,VAR_3
+AT91F_PartialPageWrite,FUNC_5
+pDataFlash,VAR_4
+src,VAR_5
+dest,VAR_6
+size,VAR_7
+page,VAR_8
+AdrInPage,VAR_9

@@ -1,0 +1,14 @@
+__bio_clone,FUNC_0
+bio_alloc_bioset,FUNC_1
+bio_clone,FUNC_2
+bio_integrity,FUNC_3
+bio_integrity_clone,FUNC_4
+bio_put,FUNC_5
+mddev_bio_destructor,VAR_0
+bio_clone_mddev,FUNC_6
+bio,VAR_1
+gfp_mask,VAR_2
+mddev,VAR_3
+b,VAR_4
+mddevp,VAR_5
+ret,VAR_6

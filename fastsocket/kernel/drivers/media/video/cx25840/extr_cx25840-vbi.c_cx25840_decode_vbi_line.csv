@@ -1,0 +1,16 @@
+V4L2_SLICED_CAPTION_525,VAR_0
+V4L2_SLICED_TELETEXT_B,VAR_1
+V4L2_SLICED_VPS,VAR_2
+V4L2_SLICED_WSS_625,VAR_3
+decode_vps,FUNC_0
+odd_parity,FUNC_1
+to_state,FUNC_2
+cx25840_decode_vbi_line,FUNC_3
+sd,VAR_4
+vbi,VAR_5
+state,VAR_6
+p,VAR_7
+id1,VAR_8
+id2,VAR_9
+l,VAR_10
+err,VAR_11

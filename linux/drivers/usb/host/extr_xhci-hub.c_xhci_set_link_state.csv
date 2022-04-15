@@ -1,0 +1,12 @@
+PORT_LINK_STROBE,VAR_0
+PORT_PLS_MASK,VAR_1
+readl,FUNC_0
+writel,FUNC_1
+xhci_dbg,FUNC_2
+xhci_port_state_to_neutral,FUNC_3
+xhci_set_link_state,FUNC_4
+xhci,VAR_2
+port,VAR_3
+link_state,VAR_4
+temp,VAR_5
+portsc,VAR_6

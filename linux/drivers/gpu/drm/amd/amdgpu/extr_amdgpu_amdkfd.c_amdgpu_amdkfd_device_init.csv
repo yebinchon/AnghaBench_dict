@@ -1,0 +1,16 @@
+AMDGPU_GMC_HOLE_START,VAR_0
+AMDGPU_GPU_PAGE_SHIFT,VAR_1
+CHIP_VEGA10,VAR_2
+KGD_MAX_QUEUES,VAR_3
+amdgpu_doorbell_get_kfd_info,FUNC_0
+amdgpu_gfx_mec_queue_to_bit,FUNC_1
+bitmap_complement,FUNC_2
+clear_bit,FUNC_3
+compute_vmid_bitmap,VAR_4
+kgd2kfd_device_init,FUNC_4
+min,FUNC_5
+amdgpu_amdkfd_device_init,FUNC_6
+adev,VAR_5
+i,VAR_6
+last_valid_bit,VAR_7
+gpu_resources,VAR_8

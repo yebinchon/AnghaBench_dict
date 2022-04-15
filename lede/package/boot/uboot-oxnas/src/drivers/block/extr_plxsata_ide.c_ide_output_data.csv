@@ -1,0 +1,12 @@
+device_select,FUNC_0
+disk_present,VAR_0
+dma_start_write,FUNC_1
+printf,FUNC_2
+udelay,FUNC_3
+wait_dma_not_busy,FUNC_4
+wait_no_error,FUNC_5
+wait_not_busy,FUNC_6
+ide_output_data,FUNC_7
+device,VAR_1
+sect_buf,VAR_2
+words,VAR_3

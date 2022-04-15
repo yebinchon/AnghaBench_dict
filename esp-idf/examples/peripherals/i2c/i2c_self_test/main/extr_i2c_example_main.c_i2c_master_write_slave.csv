@@ -1,0 +1,17 @@
+ACK_CHECK_EN,VAR_0
+ESP_SLAVE_ADDR,VAR_1
+WRITE_BIT,VAR_2
+i2c_cmd_link_create,FUNC_0
+i2c_cmd_link_delete,FUNC_1
+i2c_master_cmd_begin,FUNC_2
+i2c_master_start,FUNC_3
+i2c_master_stop,FUNC_4
+i2c_master_write,FUNC_5
+i2c_master_write_byte,FUNC_6
+portTICK_RATE_MS,VAR_3
+i2c_master_write_slave,FUNC_7
+i2c_num,VAR_4
+data_wr,VAR_5
+size,VAR_6
+cmd,VAR_7
+ret,VAR_8

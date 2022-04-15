@@ -1,0 +1,13 @@
+KERN_SUCCESS,VAR_0
+MACH_SEND_INVALID_DEST,VAR_1
+copyin,FUNC_0
+copyout,FUNC_1
+current_task,FUNC_2
+mach_vm_allocate_external,FUNC_3
+port_name_to_task,FUNC_4
+task_deallocate,FUNC_5
+_kernelrpc_mach_vm_allocate_trap,FUNC_6
+args,VAR_2
+addr,VAR_3
+task,VAR_4
+rv,VAR_5

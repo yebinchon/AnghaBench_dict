@@ -1,0 +1,16 @@
+FALSE,VAR_0
+LINK_STATE_DOWN,VAR_1
+LINK_STATE_UP,VAR_2
+NTWK_LOGICAL_LINK_DOWN,VAR_3
+NTWK_LOGICAL_LINK_UP,VAR_4
+TRUE,VAR_5
+if_link_state_change,FUNC_0
+oce_arm_eq,FUNC_1
+oce_first_mcc_cmd,FUNC_2
+oce_get_link_status,FUNC_3
+oce_hw_intr_enable,FUNC_4
+oce_start_mq,FUNC_5
+oce_hw_start,FUNC_6
+sc,VAR_6
+link,VAR_7
+rc,VAR_8

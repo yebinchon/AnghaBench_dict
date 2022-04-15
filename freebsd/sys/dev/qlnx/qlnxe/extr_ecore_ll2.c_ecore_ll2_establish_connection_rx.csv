@@ -1,0 +1,14 @@
+CORE_RX_ACTION_ON_ERROR_NO_BUFF,VAR_0
+CORE_RX_ACTION_ON_ERROR_PACKET_TOO_BIG,VAR_1
+DIRECT_REG_WR,FUNC_0
+ECORE_LL2_RX_REGISTERED,FUNC_1
+ECORE_SUCCESS,VAR_2
+SET_FIELD,FUNC_2
+ecore_ll2_get_error_choice,FUNC_3
+ecore_sp_ll2_rx_queue_start,FUNC_4
+ecore_ll2_establish_connection_rx,FUNC_5
+p_hwfn,VAR_3
+p_ll2_conn,VAR_4
+error_input,VAR_5
+error_mode,VAR_6
+action_on_error,VAR_7

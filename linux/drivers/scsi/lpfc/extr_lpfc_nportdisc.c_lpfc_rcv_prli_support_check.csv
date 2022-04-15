@@ -1,0 +1,16 @@
+ELS_CMD_NVMEPRLI,VAR_0
+ELS_CMD_PRLI,VAR_1
+KERN_WARNING,VAR_2
+LOG_NVME_DISC,VAR_3
+LSEXP_REQ_UNSUPPORTED,VAR_4
+LSRJT_CMD_UNSUPPORTED,VAR_5
+lpfc_els_rsp_reject,FUNC_0
+lpfc_printf_vlog,FUNC_1
+memset,FUNC_2
+lpfc_rcv_prli_support_check,FUNC_3
+vport,VAR_6
+ndlp,VAR_7
+cmdiocb,VAR_8
+stat,VAR_9
+payload,VAR_10
+cmd,VAR_11

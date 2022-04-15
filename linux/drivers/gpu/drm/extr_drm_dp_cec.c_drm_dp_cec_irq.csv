@@ -1,0 +1,11 @@
+DP_CEC_IRQ,VAR_0
+DP_DEVICE_SERVICE_IRQ_VECTOR_ESI1,VAR_1
+drm_dp_cec_handle_irq,FUNC_0
+drm_dp_dpcd_readb,FUNC_1
+drm_dp_dpcd_writeb,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+drm_dp_cec_irq,FUNC_5
+aux,VAR_2
+cec_irq,VAR_3
+ret,VAR_4

@@ -1,0 +1,11 @@
+DMA_COMPLETE,VAR_0
+TDCR,VAR_1
+TDCR_ABR,VAR_2
+TDCR_CHANEN,VAR_3
+readl,FUNC_0
+to_mmp_tdma_chan,FUNC_1
+writel,FUNC_2
+mmp_tdma_disable_chan,FUNC_3
+chan,VAR_4
+tdmac,VAR_5
+tdcr,VAR_6

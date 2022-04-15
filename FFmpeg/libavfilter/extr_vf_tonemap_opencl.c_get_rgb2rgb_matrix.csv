@@ -1,0 +1,11 @@
+ff_fill_rgb2xyz_table,FUNC_0
+ff_matrix_invert_3x3,FUNC_1
+ff_matrix_mul_3x3,FUNC_2
+primaries_table,VAR_0
+whitepoint_table,VAR_1
+get_rgb2rgb_matrix,FUNC_3
+in,VAR_2
+out,VAR_3
+rgb2rgb,VAR_4
+rgb2xyz,VAR_5
+xyz2rgb,VAR_6

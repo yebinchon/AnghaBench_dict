@@ -1,0 +1,9 @@
+GIT_EUNBORNBRANCH,VAR_0
+NON_EXISTING_HEAD,VAR_1
+cl_assert_equal_i,FUNC_0
+git_repository_head_tree,FUNC_1
+git_repository_head_unborn,FUNC_2
+make_head_unborn,FUNC_3
+repo,VAR_2
+tree,VAR_3
+test_repo_headtree__when_head_is_unborn_returns_EUNBORNBRANCH,FUNC_4

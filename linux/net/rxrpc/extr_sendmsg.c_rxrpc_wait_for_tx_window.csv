@@ -1,0 +1,17 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+_enter,FUNC_1
+_leave,FUNC_2
+add_wait_queue,FUNC_3
+current,VAR_1
+myself,VAR_2
+remove_wait_queue,FUNC_4
+rxrpc_wait_for_tx_window_intr,FUNC_5
+rxrpc_wait_for_tx_window_nonintr,FUNC_6
+set_current_state,FUNC_7
+rxrpc_wait_for_tx_window,FUNC_8
+rx,VAR_3
+call,VAR_4
+timeo,VAR_5
+waitall,VAR_6
+ret,VAR_7

@@ -1,0 +1,12 @@
+EIO,VAR_0
+MPU401_MODE_BIT_INPUT,VAR_1
+MPU401_MODE_BIT_OUTPUT,VAR_2
+MPU401_RESET,VAR_3
+clear_bit,FUNC_0
+snd_mpu401_uart_cmd,FUNC_1
+stub1,FUNC_2
+test_bit,FUNC_3
+snd_mpu401_uart_input_close,FUNC_4
+substream,VAR_4
+mpu,VAR_5
+err,VAR_6

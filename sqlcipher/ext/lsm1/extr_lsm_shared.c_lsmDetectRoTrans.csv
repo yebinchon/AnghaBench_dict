@@ -1,0 +1,10 @@
+LSM_BUSY,VAR_0
+LSM_LOCK_EXCL,VAR_1
+LSM_LOCK_ROTRANS,VAR_2
+LSM_OK,VAR_3
+assert,FUNC_0
+lsmShmTestLock,FUNC_1
+lsmDetectRoTrans,FUNC_2
+db,VAR_4
+pbExist,VAR_5
+rc,VAR_6

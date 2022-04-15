@@ -1,0 +1,12 @@
+ZFCP_STATUS_ADAPTER_ERP_PENDING,VAR_0
+atomic_clear_mask,FUNC_0
+list_empty,FUNC_1
+read_lock,FUNC_2
+read_lock_irqsave,FUNC_3
+read_unlock,FUNC_4
+read_unlock_irqrestore,FUNC_5
+wake_up,FUNC_6
+zfcp_data,VAR_1
+zfcp_erp_wakeup,FUNC_7
+adapter,VAR_2
+flags,VAR_3

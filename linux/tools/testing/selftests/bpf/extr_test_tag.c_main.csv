@@ -1,0 +1,13 @@
+BPF_F_NO_PREALLOC,VAR_0
+BPF_MAP_TYPE_HASH,VAR_1
+assert,FUNC_0
+bpf_create_map,FUNC_1
+bpf_gen_imm_prog,VAR_2
+bpf_gen_map_prog,VAR_3
+close,FUNC_2
+do_test,FUNC_3
+printf,FUNC_4
+main,FUNC_5
+tests,VAR_4
+i,VAR_5
+fd_map,VAR_6

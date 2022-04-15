@@ -1,0 +1,8 @@
+AC_VERB_SET_COEF_INDEX,VAR_0
+AC_VERB_SET_PROC_COEF,VAR_1
+snd_hda_codec_write,FUNC_0
+alc_write_coefex_idx,FUNC_1
+codec,VAR_2
+nid,VAR_3
+coef_idx,VAR_4
+coef_val,VAR_5

@@ -1,0 +1,9 @@
+GPIO_ASSERT_UNLOCKED,FUNC_0
+GPIO_LOCK_DESTROY,FUNC_1
+SYS_RES_IOPORT,VAR_0
+bus_release_resource,FUNC_2
+device_get_softc,FUNC_3
+gpiobus_detach_bus,FUNC_4
+nct_detach,FUNC_5
+dev,VAR_1
+sc,VAR_2

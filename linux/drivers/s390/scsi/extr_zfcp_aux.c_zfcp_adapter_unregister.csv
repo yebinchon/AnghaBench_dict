@@ -1,0 +1,14 @@
+cancel_delayed_work_sync,FUNC_0
+cancel_work_sync,FUNC_1
+sysfs_remove_group,FUNC_2
+zfcp_ccw_adapter_put,FUNC_3
+zfcp_dbf_adapter_unregister,FUNC_4
+zfcp_destroy_adapter_work_queue,FUNC_5
+zfcp_erp_thread_kill,FUNC_6
+zfcp_fc_wka_ports_force_offline,FUNC_7
+zfcp_qdio_destroy,FUNC_8
+zfcp_scsi_adapter_unregister,FUNC_9
+zfcp_sysfs_adapter_attrs,VAR_0
+zfcp_adapter_unregister,FUNC_10
+adapter,VAR_1
+cdev,VAR_2

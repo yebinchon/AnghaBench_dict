@@ -1,0 +1,13 @@
+FILE_TYPE_DISK,VAR_0
+GetFileType,FUNC_0
+MP_ERR,FUNC_1
+SEEK_SET,VAR_1
+_fileno,FUNC_2
+_get_osfhandle,FUNC_3
+fclose,FUNC_4
+fseek,FUNC_5
+write_wave_header,FUNC_6
+uninit,FUNC_7
+ao,VAR_2
+priv,VAR_3
+broken_seek,VAR_4

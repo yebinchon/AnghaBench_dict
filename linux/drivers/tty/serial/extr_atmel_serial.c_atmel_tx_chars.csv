@@ -1,0 +1,16 @@
+ATMEL_US_CSR,VAR_0
+ATMEL_US_IER,VAR_1
+UART_XMIT_SIZE,VAR_2
+WAKEUP_CHARS,VAR_3
+atmel_uart_readl,FUNC_0
+atmel_uart_write_char,FUNC_1
+atmel_uart_writel,FUNC_2
+to_atmel_uart_port,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_circ_empty,FUNC_5
+uart_tx_stopped,FUNC_6
+uart_write_wakeup,FUNC_7
+atmel_tx_chars,FUNC_8
+port,VAR_4
+xmit,VAR_5
+atmel_port,VAR_6

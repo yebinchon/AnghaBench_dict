@@ -1,0 +1,12 @@
+CMD_SYNC,VAR_0
+FW_CTXT_ACTION_REMOVE,VAR_1
+IWL_ERR,FUNC_0
+PHY_CONTEXT_CMD,VAR_2
+iwl_mvm_phy_ctxt_cmd_hdr,FUNC_1
+iwl_mvm_send_cmd_pdu,FUNC_2
+lockdep_assert_held,FUNC_3
+iwl_mvm_phy_ctxt_remove,FUNC_4
+mvm,VAR_3
+ctxt,VAR_4
+cmd,VAR_5
+ret,VAR_6

@@ -1,0 +1,17 @@
+GET_PPS_STATUS_SEND,VAR_0
+PD_EXT_HDR_CHUNKED,VAR_1
+PD_EXT_MAX_CHUNK_DATA,VAR_2
+PD_MSG_CTRL_NOT_SUPP,VAR_3
+USB_PD_EXT_SDB_EVENT_FLAGS,VAR_4
+USB_PD_EXT_SDB_PPS_EVENTS,VAR_5
+pd_ext_header_data_size_le,FUNC_0
+pd_header_type_le,FUNC_1
+ready_state,FUNC_2
+tcpm_log,FUNC_3
+tcpm_queue_message,FUNC_4
+tcpm_set_state,FUNC_5
+tcpm_pd_ext_msg_request,FUNC_6
+port,VAR_6
+msg,VAR_7
+type,VAR_8
+data_size,VAR_9

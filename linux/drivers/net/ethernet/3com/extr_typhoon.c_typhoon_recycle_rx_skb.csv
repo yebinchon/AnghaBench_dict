@@ -1,0 +1,13 @@
+RXFREE_ENTRIES,VAR_0
+cpu_to_le32,FUNC_0
+dev_kfree_skb_any,FUNC_1
+le32_to_cpu,FUNC_2
+typhoon_inc_rxfree_index,FUNC_3
+wmb,FUNC_4
+typhoon_recycle_rx_skb,FUNC_5
+tp,VAR_1
+idx,VAR_2
+indexes,VAR_3
+rxb,VAR_4
+ring,VAR_5
+r,VAR_6

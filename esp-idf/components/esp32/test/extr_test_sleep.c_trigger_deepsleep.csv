@@ -1,0 +1,11 @@
+esp_clk_slowclk_cal_get,FUNC_0
+esp_clk_slowclk_cal_set,FUNC_1
+esp_deep_sleep_start,FUNC_2
+esp_set_time_from_rtc,FUNC_3
+esp_sleep_enable_timer_wakeup,FUNC_4
+gettimeofday,FUNC_5
+portTICK_RATE_MS,VAR_0
+printf,FUNC_6
+start,VAR_1
+vTaskDelay,FUNC_7
+trigger_deepsleep,FUNC_8

@@ -1,0 +1,15 @@
+VENDOR_ELEM_PROBE_RESP_P2P_GO,VAR_0
+p2p_buf_add_device_info,FUNC_0
+p2p_buf_add_group_info,FUNC_1
+p2p_group_add_common_ies,FUNC_2
+p2p_group_add_noa,FUNC_3
+p2p_group_encaps_probe_resp,FUNC_4
+wpabuf_alloc,FUNC_5
+wpabuf_concat,FUNC_6
+wpabuf_dup,FUNC_7
+wpabuf_free,FUNC_8
+p2p_group_build_probe_resp_ie,FUNC_9
+group,VAR_1
+p2p_subelems,VAR_2
+ie,VAR_3
+extra,VAR_4

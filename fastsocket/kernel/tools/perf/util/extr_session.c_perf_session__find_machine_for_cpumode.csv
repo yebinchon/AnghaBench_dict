@@ -1,0 +1,12 @@
+PERF_RECORD_MISC_CPUMODE_MASK,VAR_0
+PERF_RECORD_MISC_GUEST_KERNEL,VAR_1
+PERF_RECORD_MISC_GUEST_USER,VAR_2
+PERF_RECORD_MMAP,VAR_3
+perf_guest,VAR_4
+perf_session__find_host_machine,FUNC_0
+perf_session__findnew_machine,FUNC_1
+perf_session__find_machine_for_cpumode,FUNC_2
+session,VAR_5
+event,VAR_6
+cpumode,VAR_7
+pid,VAR_8

@@ -1,0 +1,13 @@
+APIC_PROCPRI,VAR_0
+APIC_TASKPRI,VAR_1
+apic_find_highest_isr,FUNC_0
+kvm_lapic_get_reg,FUNC_1
+kvm_lapic_set_reg,FUNC_2
+__apic_update_ppr,FUNC_3
+apic,VAR_2
+new_ppr,VAR_3
+tpr,VAR_4
+isrv,VAR_5
+ppr,VAR_6
+old_ppr,VAR_7
+isr,VAR_8

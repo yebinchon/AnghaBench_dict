@@ -1,0 +1,17 @@
+DRM_ERROR,FUNC_0
+EDEADLK,VAR_0
+__intel_display_resume,FUNC_1
+drm_atomic_state_put,FUNC_2
+drm_modeset_acquire_fini,FUNC_3
+drm_modeset_acquire_init,FUNC_4
+drm_modeset_backoff,FUNC_5
+drm_modeset_drop_locks,FUNC_6
+drm_modeset_lock_all_ctx,FUNC_7
+intel_enable_ipc,FUNC_8
+to_i915,FUNC_9
+intel_display_resume,FUNC_10
+dev,VAR_1
+dev_priv,VAR_2
+state,VAR_3
+ctx,VAR_4
+ret,VAR_5

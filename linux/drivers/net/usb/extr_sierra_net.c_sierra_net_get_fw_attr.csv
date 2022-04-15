@@ -1,0 +1,11 @@
+EIO,VAR_0
+SWI_USB_REQUEST_GET_FW_ATTR,VAR_1
+USB_DIR_IN,VAR_2
+USB_TYPE_VENDOR,VAR_3
+le16_to_cpu,FUNC_0
+usbnet_read_cmd,FUNC_1
+sierra_net_get_fw_attr,FUNC_2
+dev,VAR_4
+datap,VAR_5
+result,VAR_6
+attrdata,VAR_7

@@ -1,0 +1,16 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_pererp_ctcam_le_set,FUNC_1
+mlxsw_reg_pererp_erpt_bank_pointer_set,FUNC_2
+mlxsw_reg_pererp_erpt_pointer_set,FUNC_3
+mlxsw_reg_pererp_erpt_pointer_valid_set,FUNC_4
+mlxsw_reg_pererp_master_rp_id_set,FUNC_5
+mlxsw_reg_pererp_region_id_set,FUNC_6
+pererp,VAR_0
+mlxsw_reg_pererp_pack,FUNC_7
+payload,VAR_1
+region_id,VAR_2
+ctcam_le,VAR_3
+erpt_pointer_valid,VAR_4
+erpt_bank_pointer,VAR_5
+erpt_pointer,VAR_6
+master_rp_id,VAR_7

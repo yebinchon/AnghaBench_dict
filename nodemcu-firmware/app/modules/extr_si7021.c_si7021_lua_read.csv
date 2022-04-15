@@ -1,0 +1,15 @@
+SI7021_CMD_MEASURE_RH_HOLD,VAR_0
+SI7021_CMD_READ_PREV_TEMP,VAR_1
+luaL_error,FUNC_0
+lua_pushinteger,FUNC_1
+lua_pushnumber,FUNC_2
+read_reg,FUNC_3
+si7021_crc8,FUNC_4
+si7021_lua_read,FUNC_5
+L,VAR_2
+buf_h,VAR_3
+hum,VAR_4
+humdec,VAR_5
+buf_t,VAR_6
+temp,VAR_7
+tempdec,VAR_8

@@ -1,0 +1,14 @@
+QID_RX,VAR_0
+RXD_W0_OWNER_NIC,VAR_1
+RXD_W5_BUFFER_PHYSICAL_ADDRESS,VAR_2
+TXD_W0_OWNER_NIC,VAR_3
+TXD_W0_VALID,VAR_4
+get_skb_frame_desc,FUNC_0
+rt2x00_desc_read,FUNC_1
+rt2x00_desc_write,FUNC_2
+rt2x00_set_field32,FUNC_3
+rt61pci_clear_entry,FUNC_4
+entry,VAR_5
+entry_priv,VAR_6
+skbdesc,VAR_7
+word,VAR_8

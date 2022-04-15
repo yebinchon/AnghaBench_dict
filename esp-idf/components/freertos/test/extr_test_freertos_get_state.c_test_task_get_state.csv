@@ -1,0 +1,15 @@
+TEST_ASSERT,FUNC_0
+blocked_task_handle,VAR_0
+done_sem,VAR_1
+eBlocked,VAR_2
+eReady,VAR_3
+eRunning,VAR_4
+eSuspended,VAR_5
+eTaskGetState,FUNC_1
+suspended_task_handle,VAR_6
+vTaskDelete,FUNC_2
+xSemaphoreGive,FUNC_3
+xTaskGetCurrentTaskHandle,FUNC_4
+xTaskGetIdleTaskHandle,FUNC_5
+test_task_get_state,FUNC_6
+arg,VAR_7

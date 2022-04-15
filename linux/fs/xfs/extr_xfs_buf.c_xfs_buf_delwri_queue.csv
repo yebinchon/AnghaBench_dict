@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+XBF_READ,VAR_0
+_RET_IP_,VAR_1
+_XBF_DELWRI_Q,VAR_2
+atomic_inc,FUNC_1
+list_add_tail,FUNC_2
+list_empty,FUNC_3
+trace_xfs_buf_delwri_queue,FUNC_4
+trace_xfs_buf_delwri_queued,FUNC_5
+xfs_buf_islocked,FUNC_6
+xfs_buf_delwri_queue,FUNC_7
+bp,VAR_3
+list,VAR_4

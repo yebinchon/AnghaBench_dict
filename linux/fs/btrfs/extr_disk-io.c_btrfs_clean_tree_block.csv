@@ -1,0 +1,10 @@
+EXTENT_BUFFER_DIRTY,VAR_0
+btrfs_assert_tree_locked,FUNC_0
+btrfs_header_generation,FUNC_1
+btrfs_set_lock_blocking_write,FUNC_2
+clear_extent_buffer_dirty,FUNC_3
+percpu_counter_add_batch,FUNC_4
+test_and_clear_bit,FUNC_5
+btrfs_clean_tree_block,FUNC_6
+buf,VAR_1
+fs_info,VAR_2

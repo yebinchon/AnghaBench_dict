@@ -1,0 +1,14 @@
+SNDRV_PCM_STREAM_CAPTURE,VAR_0
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+lx_hardware_close,FUNC_2
+lx_hardware_stop,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+snd_pcm_lib_free_pages,FUNC_6
+snd_pcm_substream_chip,FUNC_7
+lx_pcm_hw_free,FUNC_8
+substream,VAR_1
+chip,VAR_2
+err,VAR_3
+is_capture,VAR_4

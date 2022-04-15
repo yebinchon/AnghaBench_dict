@@ -1,0 +1,16 @@
+EPROBE_DEFER,VAR_0
+__driver_attach_async_helper,VAR_1
+async_schedule_dev,FUNC_0
+dev_dbg,FUNC_1
+device_driver_attach,FUNC_2
+device_lock,FUNC_3
+device_unlock,FUNC_4
+driver_allows_async_probing,FUNC_5
+driver_deferred_probe_add,FUNC_6
+driver_match_device,FUNC_7
+get_device,FUNC_8
+__driver_attach,FUNC_9
+dev,VAR_2
+data,VAR_3
+drv,VAR_4
+ret,VAR_5

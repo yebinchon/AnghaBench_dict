@@ -1,0 +1,13 @@
+BRCMF_POSTBOOT_ID,VAR_0
+DL_GETVER,VAR_1
+DL_RESETCFG,VAR_2
+USB,VAR_3
+brcmf_dbg,FUNC_0
+brcmf_usb_dl_cmd,FUNC_1
+cpu_to_le32,FUNC_2
+le32_to_cpu,FUNC_3
+brcmf_usb_dlneeded,FUNC_4
+devinfo,VAR_4
+id,VAR_5
+chipid,VAR_6
+chiprev,VAR_7

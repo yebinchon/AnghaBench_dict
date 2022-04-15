@@ -1,0 +1,11 @@
+DPMNG_CMDID_GET_VERSION,VAR_0
+le32_to_cpu,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+mc_get_version,FUNC_3
+mc_io,VAR_1
+cmd_flags,VAR_2
+mc_ver_info,VAR_3
+cmd,VAR_4
+rsp_params,VAR_5
+err,VAR_6

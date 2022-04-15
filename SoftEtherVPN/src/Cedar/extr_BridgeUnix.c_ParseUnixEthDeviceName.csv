@@ -1,0 +1,15 @@
+IsEmptyStr,FUNC_0
+S_ISDIR,FUNC_1
+StrCpy,FUNC_2
+StrLen,FUNC_3
+stat,FUNC_4
+ParseUnixEthDeviceName,FUNC_5
+dst_devname,VAR_0
+dst_devname_size,VAR_1
+src_name,VAR_2
+len,VAR_3
+i,VAR_4
+s,VAR_5
+err,VAR_6
+device_path,VAR_7
+device_pathlen,VAR_8

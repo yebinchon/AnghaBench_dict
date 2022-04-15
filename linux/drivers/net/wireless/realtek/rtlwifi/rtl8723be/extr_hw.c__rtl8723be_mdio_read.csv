@@ -1,0 +1,13 @@
+BIT,FUNC_0
+REG_MDIO_CTL,VAR_0
+REG_MDIO_RDATA,VAR_1
+rtl_read_byte,FUNC_1
+rtl_read_word,FUNC_2
+rtl_write_byte,FUNC_3
+udelay,FUNC_4
+_rtl8723be_mdio_read,FUNC_5
+rtlpriv,VAR_2
+addr,VAR_3
+ret,VAR_4
+tmp,VAR_5
+count,VAR_6

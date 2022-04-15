@@ -1,0 +1,13 @@
+FMAN_RTC_TMR_CTRL_PP1L,VAR_0
+FMAN_RTC_TMR_CTRL_PP2L,VAR_1
+FMAN_RTC_TMR_TEVENT_ETS1,VAR_2
+FMAN_RTC_TMR_TEVENT_ETS2,VAR_3
+fman_rtc_enable_interupt,FUNC_0
+fman_rtc_get_timer_ctrl,FUNC_1
+fman_rtc_set_timer_ctrl,FUNC_2
+fman_rtc_set_ext_trigger,FUNC_3
+regs,VAR_4
+id,VAR_5
+enable,VAR_6
+use_pulse_as_input,VAR_7
+tmpReg,VAR_8

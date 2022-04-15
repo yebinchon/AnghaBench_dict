@@ -1,0 +1,11 @@
+msleep,FUNC_0
+pci_cfg_access_lock,FUNC_1
+pci_cfg_access_unlock,FUNC_2
+pci_restore_state,FUNC_3
+pci_save_state,FUNC_4
+pci_set_pcie_reset_state,FUNC_5
+pcie_deassert_reset,VAR_0
+pcie_warm_reset,VAR_1
+genwqe_pci_fundamental_reset,FUNC_6
+pci_dev,VAR_2
+rc,VAR_3

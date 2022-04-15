@@ -1,0 +1,10 @@
+APIC_EIO_ACK,VAR_0
+APIC_EOI,VAR_1
+apic_write,FUNC_0
+cobalt_lock,VAR_2
+disable_cobalt_irq,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ack_cobalt_irq,FUNC_4
+irq,VAR_3
+flags,VAR_4

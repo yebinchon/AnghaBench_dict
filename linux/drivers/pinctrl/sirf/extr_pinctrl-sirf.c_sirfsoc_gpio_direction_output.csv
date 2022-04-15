@@ -1,0 +1,16 @@
+SIRFSOC_GPIO_CTRL,FUNC_0
+gpiochip_get_data,FUNC_1
+sirfsoc_gpio_set_output,FUNC_2
+sirfsoc_gpio_to_bank,FUNC_3
+sirfsoc_gpio_to_bankoff,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+sirfsoc_gpio_direction_output,FUNC_7
+chip,VAR_0
+gpio,VAR_1
+value,VAR_2
+sgpio,VAR_3
+bank,VAR_4
+idx,VAR_5
+offset,VAR_6
+flags,VAR_7

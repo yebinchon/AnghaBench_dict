@@ -1,0 +1,11 @@
+KERN_INFO,VAR_0
+PCI_PM_CTRL,VAR_1
+PCI_PM_CTRL_PME_ENABLE,VAR_2
+PCI_PM_CTRL_PME_STATUS,VAR_3
+dev_printk,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+pci_pme_active,FUNC_3
+dev,VAR_4
+enable,VAR_5
+pmcsr,VAR_6

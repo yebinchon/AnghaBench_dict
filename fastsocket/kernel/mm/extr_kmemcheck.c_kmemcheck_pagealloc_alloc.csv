@@ -1,0 +1,11 @@
+__GFP_HIGHMEM,VAR_0
+__GFP_NOTRACK,VAR_1
+__GFP_ZERO,VAR_2
+kmemcheck_alloc_shadow,FUNC_0
+kmemcheck_mark_initialized_pages,FUNC_1
+kmemcheck_mark_uninitialized_pages,FUNC_2
+kmemcheck_pagealloc_alloc,FUNC_3
+page,VAR_3
+order,VAR_4
+gfpflags,VAR_5
+pages,VAR_6

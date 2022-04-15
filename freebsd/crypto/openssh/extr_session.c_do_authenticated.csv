@@ -1,0 +1,16 @@
+FORWARD_LOCAL,VAR_0
+FORWARD_REMOTE,VAR_1
+auth_debug_send,FUNC_0
+auth_log_authopts,FUNC_1
+auth_opts,VAR_2
+channel_disable_admin,FUNC_2
+channel_permit_all,FUNC_3
+do_authenticated2,FUNC_4
+do_cleanup,FUNC_5
+options,VAR_3
+prepare_auth_info_file,FUNC_6
+set_fwdpermit_from_authopts,FUNC_7
+setproctitle,FUNC_8
+do_authenticated,FUNC_9
+ssh,VAR_4
+authctxt,VAR_5

@@ -1,0 +1,9 @@
+bpf_xdp_adjust_head,FUNC_0
+memcpy,FUNC_1
+decap_v6,FUNC_2
+xdp,VAR_0
+data,VAR_1
+data_end,VAR_2
+inner_v4,VAR_3
+new_eth,VAR_4
+old_eth,VAR_5

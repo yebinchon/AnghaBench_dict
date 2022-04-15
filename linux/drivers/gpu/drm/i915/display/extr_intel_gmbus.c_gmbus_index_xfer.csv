@@ -1,0 +1,15 @@
+GMBUS5,VAR_0
+GMBUS_2BYTE_INDEX_EN,VAR_1
+GMBUS_CYCLE_INDEX,VAR_2
+GMBUS_SLAVE_INDEX_SHIFT,VAR_3
+I2C_M_RD,VAR_4
+I915_WRITE_FW,FUNC_0
+gmbus_xfer_read,FUNC_1
+gmbus_xfer_write,FUNC_2
+gmbus_index_xfer,FUNC_3
+dev_priv,VAR_5
+msgs,VAR_6
+gmbus0_reg,VAR_7
+gmbus1_index,VAR_8
+gmbus5,VAR_9
+ret,VAR_10

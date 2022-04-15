@@ -1,0 +1,16 @@
+CONFLICTS_ONE_ANCESTOR_OID,VAR_0
+GIT_INDEX_ENTRY_STAGE_SET,FUNC_0
+cl_assert,FUNC_1
+cl_assert_equal_oid,FUNC_2
+cl_git_pass,FUNC_3
+git_index_conflict_add,FUNC_4
+git_index_conflict_get,FUNC_5
+git_index_entrycount,FUNC_6
+git_oid_fromstr,FUNC_7
+memset,FUNC_8
+repo_index,VAR_1
+test_index_conflicts__partial,FUNC_9
+ancestor_entry,VAR_2
+our_entry,VAR_3
+their_entry,VAR_4
+conflict_entry,VAR_5

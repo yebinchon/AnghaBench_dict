@@ -1,0 +1,11 @@
+FLAG_RADIO_DOWN,VAR_0
+JOB_DIE,VAR_1
+disable_MAC,FUNC_0
+disable_interrupts,FUNC_1
+free_irq,FUNC_2
+kthread_stop,FUNC_3
+netif_stop_queue,FUNC_4
+set_bit,FUNC_5
+airo_close,FUNC_6
+dev,VAR_2
+ai,VAR_3

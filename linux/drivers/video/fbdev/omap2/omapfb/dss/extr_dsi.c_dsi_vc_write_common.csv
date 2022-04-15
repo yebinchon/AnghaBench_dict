@@ -1,0 +1,16 @@
+DSI_VC_CTRL,FUNC_0
+DSSERR,FUNC_1
+EIO,VAR_0
+REG_GET,FUNC_2
+dsi_get_dsidev_from_dssdev,FUNC_3
+dsi_vc_flush_receive_data,FUNC_4
+dsi_vc_send_bta_sync,FUNC_5
+dsi_vc_write_nosync_common,FUNC_6
+dsi_vc_write_common,FUNC_7
+dssdev,VAR_1
+channel,VAR_2
+data,VAR_3
+len,VAR_4
+type,VAR_5
+dsidev,VAR_6
+r,VAR_7

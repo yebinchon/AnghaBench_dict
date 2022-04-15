@@ -1,0 +1,17 @@
+Assert,FUNC_0
+BufferGetPage,FUNC_1
+GinPageIsData,FUNC_2
+IndexTupleSize,FUNC_3
+MAXALIGN,FUNC_4
+PageGetFreeSpace,FUNC_5
+PageGetItem,FUNC_6
+PageGetItemId,FUNC_7
+entryIsEnoughSpace,FUNC_8
+btree,VAR_0
+buf,VAR_1
+off,VAR_2
+insertData,VAR_3
+releasedsz,VAR_4
+addedsz,VAR_5
+page,VAR_6
+itup,VAR_7

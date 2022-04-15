@@ -1,0 +1,16 @@
+ExAllocatePoolWithTag,FUNC_0
+ExFreePoolWithTag,FUNC_1
+IoEnumerateRegisteredFiltersList,FUNC_2
+NT_SUCCESS,FUNC_3
+NonPagedPool,VAR_0
+ObDereferenceObject,FUNC_4
+POOL_TAG,VAR_1
+STATUS_BUFFER_TOO_SMALL,VAR_2
+kprintf,FUNC_5
+kkll_m_filters_list,FUNC_6
+outBuffer,VAR_3
+status,VAR_4
+ActualNumberDriverObjects,VAR_5
+sizeOfDriverObjects,VAR_6
+DriverObjectList,VAR_7
+i,VAR_8

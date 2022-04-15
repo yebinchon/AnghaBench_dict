@@ -1,0 +1,16 @@
+ABX8XX_CFG_KEY_OSC,VAR_0
+ABX8XX_OSC_ACAL_1024,VAR_1
+ABX8XX_OSC_ACAL_512,VAR_2
+ABX8XX_REG_CFG_KEY,VAR_3
+ABX8XX_REG_OSC,VAR_4
+EINVAL,VAR_5
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+to_i2c_client,FUNC_3
+abx80x_rtc_set_autocalibration,FUNC_4
+dev,VAR_6
+autocalibration,VAR_7
+client,VAR_8
+retval,VAR_9
+flags,VAR_10

@@ -1,0 +1,16 @@
+camss_disable_clocks,FUNC_0
+camss_enable_clocks,FUNC_1
+camss_pm_domain_off,FUNC_2
+camss_pm_domain_on,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put_sync,FUNC_7
+vfe_check_clock_rates,FUNC_8
+vfe_init_outputs,FUNC_9
+vfe_reset,FUNC_10
+vfe_reset_output_maps,FUNC_11
+vfe_set_clock_rates,FUNC_12
+vfe_get,FUNC_13
+vfe,VAR_0
+ret,VAR_1

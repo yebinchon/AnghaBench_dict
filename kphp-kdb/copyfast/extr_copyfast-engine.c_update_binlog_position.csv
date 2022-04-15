@@ -1,0 +1,15 @@
+BINLOG_BUFFER_FD,VAR_0
+BINLOG_POSITION,VAR_1
+LOG_BINLOG_UPDATED,VAR_2
+MAX_BINLOG_SIZE,VAR_3
+STATS,VAR_4
+assert,FUNC_0
+fstat,FUNC_1
+get_double_time_since_epoch,FUNC_2
+log_event,FUNC_3
+send_friends_binlog_position,FUNC_4
+update_binlog_buffer,FUNC_5
+update_crc64,FUNC_6
+update_binlog_position,FUNC_7
+t,VAR_5
+old_binlog_position,VAR_6

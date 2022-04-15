@@ -1,0 +1,14 @@
+OpenSSL_add_all_algorithms,FUNC_0
+SSL_CTX_new,FUNC_1
+SSL_CTX_set_mode,FUNC_2
+SSL_CTX_set_session_cache_mode,FUNC_3
+SSL_CTX_set_verify,FUNC_4
+SSL_CTX_set_verify_depth,FUNC_5
+SSL_MODE_AUTO_RETRY,VAR_0
+SSL_SESS_CACHE_CLIENT,VAR_1
+SSL_VERIFY_NONE,VAR_2
+SSL_library_init,FUNC_6
+SSL_load_error_strings,FUNC_7
+SSLv23_client_method,FUNC_8
+ssl_init,FUNC_9
+ctx,VAR_3

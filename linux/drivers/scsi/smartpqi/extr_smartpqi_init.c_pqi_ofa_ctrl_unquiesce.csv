@@ -1,0 +1,11 @@
+PQI_MODE,VAR_0
+PQI_SOFT_RESET_ABORT,VAR_1
+pqi_clear_soft_reset_status,FUNC_0
+pqi_ctrl_unblock_requests,FUNC_1
+pqi_ofa_free_host_buffer,FUNC_2
+pqi_save_ctrl_mode,FUNC_3
+pqi_scan_scsi_devices,FUNC_4
+pqi_schedule_update_time_worker,FUNC_5
+pqi_start_heartbeat_timer,FUNC_6
+pqi_ofa_ctrl_unquiesce,FUNC_7
+ctrl_info,VAR_2

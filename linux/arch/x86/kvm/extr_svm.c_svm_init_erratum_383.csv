@@ -1,0 +1,13 @@
+MSR_AMD64_DC_CFG,VAR_0
+X86_BUG_AMD_TLB_MMATCH,VAR_1
+erratum_383_found,VAR_2
+lower_32_bits,FUNC_0
+native_read_msr_safe,FUNC_1
+native_write_msr_safe,FUNC_2
+static_cpu_has_bug,FUNC_3
+upper_32_bits,FUNC_4
+svm_init_erratum_383,FUNC_5
+low,VAR_3
+high,VAR_4
+err,VAR_5
+val,VAR_6

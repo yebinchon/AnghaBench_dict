@@ -1,0 +1,14 @@
+DCCP_OPEN,VAR_0
+DCCP_PARTOPEN,VAR_1
+TFRC_OPT_LOSS_EVENT_RATE,VAR_2
+TFRC_OPT_RECEIVE_RATE,VAR_3
+ccid3_hc_rx_sk,FUNC_0
+dccp_insert_option,FUNC_1
+dccp_packet_without_ack,FUNC_2
+htonl,FUNC_3
+ccid3_hc_rx_insert_options,FUNC_4
+sk,VAR_4
+skb,VAR_5
+hcrx,VAR_6
+x_recv,VAR_7
+pinv,VAR_8

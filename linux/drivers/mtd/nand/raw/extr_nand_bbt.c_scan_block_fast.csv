@@ -1,0 +1,15 @@
+MTD_OPS_PLACE_OOB,VAR_0
+check_short_pattern,FUNC_0
+mtd_is_bitflip_or_eccerr,FUNC_1
+mtd_read_oob,FUNC_2
+nand_bbm_get_next_page,FUNC_3
+nand_to_mtd,FUNC_4
+scan_block_fast,FUNC_5
+this,VAR_1
+bd,VAR_2
+offs,VAR_3
+buf,VAR_4
+mtd,VAR_5
+ops,VAR_6
+ret,VAR_7
+page_offset,VAR_8

@@ -1,0 +1,15 @@
+A3,VAR_0
+GET_MC_CLEAR_RET,VAR_1
+MDTD_FPUSED,VAR_2
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+V0,VAR_3
+V1,VAR_4
+bcopy,FUNC_2
+curthread,VAR_5
+sigonstack,FUNC_3
+get_mcontext,FUNC_4
+td,VAR_6
+mcp,VAR_7
+flags,VAR_8
+tp,VAR_9

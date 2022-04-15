@@ -1,0 +1,14 @@
+CFG_EEPROM_GET_CAL_DATA,VAR_0
+CFG_EEPROM_READ_CAL_DATA,VAR_1
+VIDIOC_MSM_EEPROM_CFG,VAR_2
+assert,FUNC_0
+ioctl,FUNC_1
+malloc,FUNC_2
+memset,FUNC_3
+get_eeprom,FUNC_4
+eeprom_fd,VAR_3
+out_len,VAR_4
+err,VAR_5
+cfg,VAR_6
+num_bytes,VAR_7
+buffer,VAR_8

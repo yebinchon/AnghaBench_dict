@@ -1,0 +1,14 @@
+CMD_TIMEOUT,VAR_0
+cxacru_timeout_kill,VAR_1
+del_timer_sync,FUNC_0
+destroy_timer_on_stack,FUNC_1
+jiffies,VAR_2
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+timer_setup_on_stack,FUNC_4
+wait_for_completion,FUNC_5
+cxacru_start_wait_urb,FUNC_6
+urb,VAR_3
+done,VAR_4
+actual_length,VAR_5
+timer,VAR_6

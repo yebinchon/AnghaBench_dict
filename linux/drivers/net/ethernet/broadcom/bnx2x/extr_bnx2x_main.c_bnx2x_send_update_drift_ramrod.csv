@@ -1,0 +1,16 @@
+BNX2X_F_CMD_SET_TIMESYNC,VAR_0
+RAMROD_COMP_WAIT,VAR_1
+RAMROD_RETRY,VAR_2
+TS_ADD_VALUE,VAR_3
+TS_DRIFT_ADJUST_SET,VAR_4
+TS_OFFSET_KEEP,VAR_5
+TS_SUB_VALUE,VAR_6
+__set_bit,FUNC_0
+bnx2x_func_state_change,FUNC_1
+bnx2x_send_update_drift_ramrod,FUNC_2
+bp,VAR_7
+drift_dir,VAR_8
+best_val,VAR_9
+best_period,VAR_10
+func_params,VAR_11
+set_timesync_params,VAR_12

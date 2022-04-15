@@ -1,0 +1,16 @@
+FIRE_IOMMU_CONTROL,VAR_0
+FIRE_IOMMU_FLUSH,VAR_1
+FIRE_IOMMU_FLUSHINV,VAR_2
+FIRE_IOMMU_TSBBASE,VAR_3
+__pa,FUNC_0
+iommu_table_init,FUNC_1
+upa_readq,FUNC_2
+upa_writeq,FUNC_3
+pci_fire_pbm_iommu_init,FUNC_4
+pbm,VAR_4
+iommu,VAR_5
+vdma,VAR_6
+dma_mask,VAR_7
+control,VAR_8
+tsbsize,VAR_9
+err,VAR_10

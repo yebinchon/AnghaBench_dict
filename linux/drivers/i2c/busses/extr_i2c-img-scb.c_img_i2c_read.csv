@@ -1,0 +1,12 @@
+INT_SLAVE_EVENT,VAR_0
+MODE_AUTOMATIC,VAR_1
+SCB_INT_MASK_REG,VAR_2
+SCB_READ_ADDR_REG,VAR_3
+SCB_READ_COUNT_REG,VAR_4
+img_i2c_switch_mode,FUNC_0
+img_i2c_writel,FUNC_1
+jiffies,VAR_5
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+img_i2c_read,FUNC_4
+i2c,VAR_6

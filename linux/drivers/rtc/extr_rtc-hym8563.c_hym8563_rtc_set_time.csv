@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+HYM8563_CTL1,VAR_1
+HYM8563_CTL1_STOP,VAR_2
+HYM8563_SEC,VAR_3
+bin2bcd,FUNC_0
+i2c_get_clientdata,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+i2c_smbus_write_i2c_block_data,FUNC_3
+to_i2c_client,FUNC_4
+hym8563_rtc_set_time,FUNC_5
+dev,VAR_4
+tm,VAR_5
+client,VAR_6
+hym8563,VAR_7
+buf,VAR_8
+ret,VAR_9

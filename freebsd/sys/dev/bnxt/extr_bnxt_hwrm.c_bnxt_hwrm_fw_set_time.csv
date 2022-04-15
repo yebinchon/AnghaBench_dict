@@ -1,0 +1,15 @@
+HWRM_FW_SET_TIME,VAR_0
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+htole16,FUNC_1
+hwrm_send_message,FUNC_2
+bnxt_hwrm_fw_set_time,FUNC_3
+softc,VAR_1
+year,VAR_2
+month,VAR_3
+day,VAR_4
+hour,VAR_5
+minute,VAR_6
+second,VAR_7
+millisecond,VAR_8
+zone,VAR_9
+req,VAR_10

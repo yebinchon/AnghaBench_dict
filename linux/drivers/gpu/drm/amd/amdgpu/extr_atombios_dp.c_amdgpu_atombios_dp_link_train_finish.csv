@@ -1,0 +1,8 @@
+ATOM_ENCODER_CMD_DP_LINK_TRAINING_COMPLETE,VAR_0
+DP_TRAINING_PATTERN_DISABLE,VAR_1
+DP_TRAINING_PATTERN_SET,VAR_2
+amdgpu_atombios_encoder_setup_dig_encoder,FUNC_0
+drm_dp_dpcd_writeb,FUNC_1
+udelay,FUNC_2
+amdgpu_atombios_dp_link_train_finish,FUNC_3
+dp_info,VAR_3

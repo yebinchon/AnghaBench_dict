@@ -1,0 +1,13 @@
+FLASH_BANK_SIZE,VAR_0
+TRX_ALIGN,VAR_1
+TRX_MAGIC,VAR_2
+flash_base,VAR_3
+flash_max,VAR_4
+flash_ofs,VAR_5
+halt,FUNC_0
+printf,FUNC_1
+read_le32,FUNC_2
+decompress_init,FUNC_3
+hdr,VAR_6
+kofs,VAR_7
+klen,VAR_8

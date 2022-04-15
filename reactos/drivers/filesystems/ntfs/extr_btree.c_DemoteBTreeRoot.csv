@@ -1,0 +1,17 @@
+CreateDummyKey,FUNC_0
+DPRINT,FUNC_1
+DPRINT1,FUNC_2
+DumpBTree,FUNC_3
+ExAllocatePoolWithTag,FUNC_4
+ExFreePoolWithTag,FUNC_5
+NonPagedPool,VAR_0
+RtlZeroMemory,FUNC_6
+STATUS_INSUFFICIENT_RESOURCES,VAR_1
+STATUS_SUCCESS,VAR_2
+TAG_NTFS,VAR_3
+TRUE,VAR_4
+DemoteBTreeRoot,FUNC_7
+Tree,VAR_5
+NewSubNode,VAR_6
+NewIndexRoot,VAR_7
+DummyKey,VAR_8

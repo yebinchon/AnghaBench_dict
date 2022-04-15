@@ -1,0 +1,12 @@
+mix_getdevinfo,FUNC_0
+mixer_get_lock,FUNC_1
+mtx_lock,FUNC_2
+mtx_owned,FUNC_3
+mtx_unlock,FUNC_4
+uaudio_mixer_setrecsrc,FUNC_5
+ua_mixer_setrecsrc,FUNC_6
+m,VAR_0
+src,VAR_1
+mtx,VAR_2
+retval,VAR_3
+do_unlock,VAR_4

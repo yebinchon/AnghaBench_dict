@@ -1,0 +1,17 @@
+MTX_DEF,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+VI_LOCK,FUNC_0
+VI_UNLOCK,FUNC_1
+destroy_vpollinfo_free,FUNC_2
+knlist_init,FUNC_3
+mtx_init,FUNC_4
+uma_zalloc,FUNC_5
+vfs_knl_assert_locked,VAR_3
+vfs_knl_assert_unlocked,VAR_4
+vfs_knllock,VAR_5
+vfs_knlunlock,VAR_6
+vnodepoll_zone,VAR_7
+v_addpollinfo,FUNC_6
+vp,VAR_8
+vi,VAR_9

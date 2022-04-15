@@ -1,0 +1,16 @@
+BDEVNAME_SIZE,VAR_0
+FMODE_EXCL,VAR_1
+FMODE_READ,VAR_2
+FMODE_WRITE,VAR_3
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+__bdevname,FUNC_2
+blkdev_get_by_dev,FUNC_3
+pr_warn,FUNC_4
+lock_rdev,FUNC_5
+rdev,VAR_4
+dev,VAR_5
+shared,VAR_6
+err,VAR_7
+bdev,VAR_8
+b,VAR_9

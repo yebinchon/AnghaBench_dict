@@ -1,0 +1,16 @@
+DMA_BIDIRECTIONAL,VAR_0
+MPSC_TXRE_SIZE,VAR_1
+SDMA_DESC_CMDSTAT_EI,VAR_2
+SDMA_DESC_CMDSTAT_F,VAR_3
+SDMA_DESC_CMDSTAT_L,VAR_4
+SDMA_DESC_CMDSTAT_O,VAR_5
+cpu_to_be16,FUNC_0
+cpu_to_be32,FUNC_1
+dma_cache_sync,FUNC_2
+flush_dcache_range,FUNC_3
+wmb,FUNC_4
+mpsc_setup_tx_desc,FUNC_5
+pi,VAR_6
+count,VAR_7
+intr,VAR_8
+txre,VAR_9

@@ -1,0 +1,16 @@
+S_IRUSR,VAR_0
+S_IWUSR,VAR_1
+debugfs_create_file,FUNC_0
+hid_warn,FUNC_1
+mutex_init,FUNC_2
+picolcd_debug_eeprom_fops,VAR_2
+picolcd_debug_flash_fops,VAR_3
+picolcd_debug_reset_fops,VAR_4
+picolcd_init_devfs,FUNC_3
+data,VAR_5
+eeprom_r,VAR_6
+eeprom_w,VAR_7
+flash_r,VAR_8
+flash_w,VAR_9
+reset,VAR_10
+hdev,VAR_11

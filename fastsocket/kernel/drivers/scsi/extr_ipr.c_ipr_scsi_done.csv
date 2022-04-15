@@ -1,0 +1,16 @@
+IPR_IOASC_SENSE_KEY,FUNC_0
+be32_to_cpu,FUNC_1
+ipr_erp_start,FUNC_2
+likely,FUNC_3
+list_add_tail,FUNC_4
+scsi_dma_unmap,FUNC_5
+scsi_set_resid,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+stub1,FUNC_9
+ipr_scsi_done,FUNC_10
+ipr_cmd,VAR_0
+ioa_cfg,VAR_1
+scsi_cmd,VAR_2
+ioasc,VAR_3
+hrrq_flags,VAR_4

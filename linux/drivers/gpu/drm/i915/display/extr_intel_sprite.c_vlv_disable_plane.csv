@@ -1,0 +1,13 @@
+I915_WRITE_FW,FUNC_0
+SPCNTR,FUNC_1
+SPSURF,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_i915,FUNC_5
+vlv_disable_plane,FUNC_6
+plane,VAR_0
+crtc_state,VAR_1
+dev_priv,VAR_2
+pipe,VAR_3
+plane_id,VAR_4
+irqflags,VAR_5

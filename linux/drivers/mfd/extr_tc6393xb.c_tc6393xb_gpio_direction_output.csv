@@ -1,0 +1,15 @@
+SCR_GPO_DOECR,FUNC_0
+TC_GPIO_BIT,FUNC_1
+__tc6393xb_gpio_set,FUNC_2
+gpiochip_get_data,FUNC_3
+raw_spin_lock_irqsave,FUNC_4
+raw_spin_unlock_irqrestore,FUNC_5
+tmio_ioread8,FUNC_6
+tmio_iowrite8,FUNC_7
+tc6393xb_gpio_direction_output,FUNC_8
+chip,VAR_0
+offset,VAR_1
+value,VAR_2
+tc6393xb,VAR_3
+flags,VAR_4
+doecr,VAR_5

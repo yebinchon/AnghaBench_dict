@@ -1,0 +1,16 @@
+ArraySize,FUNC_0
+LSMTEST6_TESTDB,VAR_0
+LSM_OK,VAR_1
+assert,FUNC_1
+lsmWriteStr,FUNC_2
+lsm_close,FUNC_3
+lsm_new,FUNC_4
+lsm_open,FUNC_5
+tdb_lsm_env,FUNC_6
+testDeleteLsmdb,FUNC_7
+testSaveDb,FUNC_8
+setup_populate_db,FUNC_9
+azStr,VAR_2
+rc,VAR_3
+ii,VAR_4
+pDb,VAR_5

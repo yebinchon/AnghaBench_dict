@@ -1,0 +1,11 @@
+EVENTHANDLER_REGISTER,FUNC_0
+SHUTDOWN_PRI_LAST,VAR_0
+device_get_softc,FUNC_1
+shutdown_final,VAR_1
+xctrl_on_watch_event,VAR_2
+xen_pv_domain,FUNC_2
+xen_pv_shutdown_final,VAR_3
+xs_register_watch,FUNC_3
+xctrl_attach,FUNC_4
+dev,VAR_4
+xctrl,VAR_5

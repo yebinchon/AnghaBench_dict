@@ -1,0 +1,17 @@
+ABS_PRESSURE,VAR_0
+ALPS_DUALPOINT,VAR_1
+REL_X,VAR_2
+REL_Y,VAR_3
+input_report_abs,FUNC_0
+input_report_rel,FUNC_1
+input_sync,FUNC_2
+psmouse_report_standard_buttons,FUNC_3
+psmouse_warn,FUNC_4
+alps_process_trackstick_packet_v7,FUNC_5
+psmouse,VAR_4
+priv,VAR_5
+packet,VAR_6
+dev2,VAR_7
+x,VAR_8
+y,VAR_9
+z,VAR_10

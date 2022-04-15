@@ -1,0 +1,14 @@
+ADP5520_CMPR_IEN,VAR_0
+ADP5520_INTERRUPT_ENABLE,VAR_1
+ADP5520_KP_IEN,VAR_2
+ADP5520_KR_IEN,VAR_3
+ADP5520_OVP_IEN,VAR_4
+ENODEV,VAR_5
+adp5520_set_bits,FUNC_0
+blocking_notifier_chain_register,FUNC_1
+dev_get_drvdata,FUNC_2
+adp5520_register_notifier,FUNC_3
+dev,VAR_6
+nb,VAR_7
+events,VAR_8
+chip,VAR_9

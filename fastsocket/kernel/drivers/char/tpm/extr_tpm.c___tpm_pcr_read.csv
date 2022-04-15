@@ -1,0 +1,12 @@
+READ_PCR_RESULT_SIZE,VAR_0
+TPM_DIGEST_SIZE,VAR_1
+cpu_to_be32,FUNC_0
+memcpy,FUNC_1
+pcrread_header,VAR_2
+transmit_cmd,FUNC_2
+__tpm_pcr_read,FUNC_3
+chip,VAR_3
+pcr_idx,VAR_4
+res_buf,VAR_5
+rc,VAR_6
+cmd,VAR_7

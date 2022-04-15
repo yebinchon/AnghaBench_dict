@@ -1,0 +1,16 @@
+find_client,FUNC_0
+mp_client_broadcast_event,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+send_event,FUNC_4
+talloc_free,FUNC_5
+mp_client_send_event,FUNC_6
+mpctx,VAR_0
+client_name,VAR_1
+reply_userdata,VAR_2
+event,VAR_3
+data,VAR_4
+clients,VAR_5
+r,VAR_6
+event_data,VAR_7
+ctx,VAR_8

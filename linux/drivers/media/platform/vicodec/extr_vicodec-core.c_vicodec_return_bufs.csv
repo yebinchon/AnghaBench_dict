@@ -1,0 +1,13 @@
+V4L2_TYPE_IS_OUTPUT,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+v4l2_ctrl_request_complete,FUNC_3
+v4l2_m2m_buf_done,FUNC_4
+v4l2_m2m_dst_buf_remove,FUNC_5
+v4l2_m2m_src_buf_remove,FUNC_6
+vb2_get_drv_priv,FUNC_7
+vicodec_return_bufs,FUNC_8
+q,VAR_0
+state,VAR_1
+ctx,VAR_2
+vbuf,VAR_3

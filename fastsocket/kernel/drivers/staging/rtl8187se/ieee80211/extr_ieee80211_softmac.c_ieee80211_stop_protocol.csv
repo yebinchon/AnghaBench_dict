@@ -1,0 +1,11 @@
+IEEE80211_LINKED,VAR_0
+IW_MODE_INFRA,VAR_1
+SendDisassociation,FUNC_0
+WLAN_REASON_DISASSOC_STA_HAS_LEFT,VAR_2
+cancel_delayed_work,FUNC_1
+del_timer_sync,FUNC_2
+ieee80211_disassociate,FUNC_3
+ieee80211_stop_scan,FUNC_4
+ieee80211_stop_send_beacons,FUNC_5
+ieee80211_stop_protocol,FUNC_6
+ieee,VAR_3

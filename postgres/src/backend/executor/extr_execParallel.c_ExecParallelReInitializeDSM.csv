@@ -1,0 +1,13 @@
+ExecAppendReInitializeDSM,FUNC_0
+ExecBitmapHeapReInitializeDSM,FUNC_1
+ExecCustomScanReInitializeDSM,FUNC_2
+ExecForeignScanReInitializeDSM,FUNC_3
+ExecHashJoinReInitializeDSM,FUNC_4
+ExecIndexOnlyScanReInitializeDSM,FUNC_5
+ExecIndexScanReInitializeDSM,FUNC_6
+ExecSeqScanReInitializeDSM,FUNC_7
+nodeTag,FUNC_8
+planstate_tree_walker,FUNC_9
+ExecParallelReInitializeDSM,FUNC_10
+planstate,VAR_0
+pcxt,VAR_1

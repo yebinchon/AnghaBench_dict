@@ -1,0 +1,14 @@
+BUS_DMA_NOWAIT,VAR_0
+EINPROGRESS,VAR_1
+ENOMEM,VAR_2
+STAILQ_INSERT_TAIL,FUNC_0
+bounce_lock,VAR_3
+bounce_map_waitinglist,VAR_4
+links,VAR_5
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+reserve_bounce_pages,FUNC_3
+_bus_dmamap_reserve_pages,FUNC_4
+dmat,VAR_6
+map,VAR_7
+flags,VAR_8

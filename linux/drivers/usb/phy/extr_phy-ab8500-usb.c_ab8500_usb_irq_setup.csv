@@ -1,0 +1,16 @@
+AB8500_USB_FLAG_USE_ID_WAKEUP_IRQ,VAR_0
+AB8500_USB_FLAG_USE_LINK_STATUS_IRQ,VAR_1
+AB8500_USB_FLAG_USE_VBUS_DET_IRQ,VAR_2
+IRQF_NO_SUSPEND,VAR_3
+IRQF_ONESHOT,VAR_4
+IRQF_SHARED,VAR_5
+ab8500_usb_disconnect_irq,VAR_6
+ab8500_usb_link_status_irq,VAR_7
+dev_err,FUNC_0
+devm_request_threaded_irq,FUNC_1
+platform_get_irq_byname,FUNC_2
+ab8500_usb_irq_setup,FUNC_3
+pdev,VAR_8
+ab,VAR_9
+err,VAR_10
+irq,VAR_11

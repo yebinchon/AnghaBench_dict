@@ -1,0 +1,11 @@
+CUDNN_DATA_FLOAT,VAR_0
+CUDNN_TENSOR_NCHW,VAR_1
+cuda_free,FUNC_0
+cuda_make_array,FUNC_1
+cudnnSetTensor4dDescriptor,FUNC_2
+get_workspace_size,FUNC_3
+realloc,FUNC_4
+resize_deconvolutional_layer,FUNC_5
+l,VAR_2
+h,VAR_3
+w,VAR_4

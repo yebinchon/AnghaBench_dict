@@ -1,0 +1,14 @@
+is_long_mode,FUNC_0
+is_pae,FUNC_1
+is_paging,FUNC_2
+kvm_calc_shadow_mmu_root_page_role,FUNC_3
+mmu_base_role_mask,VAR_0
+nonpaging_init_context,FUNC_4
+paging32E_init_context,FUNC_5
+paging32_init_context,FUNC_6
+paging64_init_context,FUNC_7
+reset_shadow_zero_bits_mask,FUNC_8
+kvm_init_shadow_mmu,FUNC_9
+vcpu,VAR_1
+context,VAR_2
+new_role,VAR_3

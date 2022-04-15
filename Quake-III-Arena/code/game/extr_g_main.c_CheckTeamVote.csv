@@ -1,0 +1,16 @@
+CS_TEAMVOTE_TIME,VAR_0
+EXEC_APPEND,VAR_1
+Q_strncmp,FUNC_0
+SetLeader,FUNC_1
+TEAM_BLUE,VAR_2
+TEAM_RED,VAR_3
+VOTE_TIME,VAR_4
+atoi,FUNC_2
+level,VAR_5
+trap_SendConsoleCommand,FUNC_3
+trap_SendServerCommand,FUNC_4
+trap_SetConfigstring,FUNC_5
+va,FUNC_6
+CheckTeamVote,FUNC_7
+team,VAR_6
+cs_offset,VAR_7

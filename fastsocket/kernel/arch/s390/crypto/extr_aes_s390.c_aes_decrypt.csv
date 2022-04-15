@@ -1,0 +1,14 @@
+AES_BLOCK_SIZE,VAR_0
+KM_AES_128_DECRYPT,VAR_1
+KM_AES_192_DECRYPT,VAR_2
+KM_AES_256_DECRYPT,VAR_3
+crypt_s390_km,FUNC_0
+crypto_cipher_decrypt_one,FUNC_1
+crypto_tfm_ctx,FUNC_2
+need_fallback,FUNC_3
+unlikely,FUNC_4
+aes_decrypt,FUNC_5
+tfm,VAR_4
+out,VAR_5
+in,VAR_6
+sctx,VAR_7

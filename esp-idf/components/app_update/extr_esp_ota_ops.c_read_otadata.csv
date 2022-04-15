@@ -1,0 +1,17 @@
+ESP_LOGE,FUNC_0
+ESP_OK,VAR_0
+ESP_PARTITION_SUBTYPE_DATA_OTA,VAR_1
+ESP_PARTITION_TYPE_DATA,VAR_2
+SPI_FLASH_MMAP_DATA,VAR_3
+SPI_FLASH_SEC_SIZE,VAR_4
+TAG,VAR_5
+esp_partition_find_first,FUNC_1
+esp_partition_mmap,FUNC_2
+memcpy,FUNC_3
+spi_flash_munmap,FUNC_4
+read_otadata,FUNC_5
+two_otadata,VAR_6
+otadata_partition,VAR_7
+ota_data_map,VAR_8
+result,VAR_9
+err,VAR_10

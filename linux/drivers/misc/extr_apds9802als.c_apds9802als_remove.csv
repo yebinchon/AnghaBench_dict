@@ -1,0 +1,12 @@
+als_set_power_state,FUNC_0
+i2c_get_clientdata,FUNC_1
+kfree,FUNC_2
+m_als_gr,VAR_0
+pm_runtime_disable,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put_noidle,FUNC_5
+pm_runtime_set_suspended,FUNC_6
+sysfs_remove_group,FUNC_7
+apds9802als_remove,FUNC_8
+client,VAR_1
+data,VAR_2

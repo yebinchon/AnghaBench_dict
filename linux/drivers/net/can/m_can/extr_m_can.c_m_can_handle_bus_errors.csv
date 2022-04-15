@@ -1,0 +1,14 @@
+CAN_CTRLMODE_BERR_REPORTING,VAR_0
+IR_RF0L,VAR_1
+LEC_UNUSED,VAR_2
+is_lec_err,FUNC_0
+m_can_handle_lec_err,FUNC_1
+m_can_handle_lost_msg,FUNC_2
+m_can_handle_other_err,FUNC_3
+netdev_priv,FUNC_4
+m_can_handle_bus_errors,FUNC_5
+dev,VAR_3
+irqstatus,VAR_4
+psr,VAR_5
+cdev,VAR_6
+work_done,VAR_7

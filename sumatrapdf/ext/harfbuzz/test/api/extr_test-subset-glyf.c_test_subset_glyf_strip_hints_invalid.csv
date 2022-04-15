@@ -1,0 +1,17 @@
+g_assert,FUNC_0
+hb_face_destroy,FUNC_1
+hb_face_get_empty,FUNC_2
+hb_set_add,FUNC_3
+hb_set_create,FUNC_4
+hb_set_destroy,FUNC_5
+hb_subset_input_set_drop_hints,FUNC_6
+hb_subset_test_create_input,FUNC_7
+hb_subset_test_create_subset,FUNC_8
+hb_subset_test_open_font,FUNC_9
+test_subset_glyf_strip_hints_invalid,FUNC_10
+face,VAR_0
+codepoints,VAR_1
+text,VAR_2
+i,VAR_3
+input,VAR_4
+face_subset,VAR_5

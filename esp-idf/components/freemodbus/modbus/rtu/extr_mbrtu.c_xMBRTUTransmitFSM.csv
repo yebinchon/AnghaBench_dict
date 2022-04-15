@@ -1,0 +1,14 @@
+EV_FRAME_SENT,VAR_0
+FALSE,VAR_1
+STATE_RX_IDLE,VAR_2
+TRUE,VAR_3
+assert,FUNC_0
+eRcvState,VAR_4
+eSndState,VAR_5
+pucSndBufferCur,VAR_6
+usSndBufferCount,VAR_7
+vMBPortTimersEnable,FUNC_1
+xMBPortEventPost,FUNC_2
+xMBPortSerialPutByte,FUNC_3
+xMBRTUTransmitFSM,FUNC_4
+xNeedPoll,VAR_8

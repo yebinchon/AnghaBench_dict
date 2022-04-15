@@ -1,0 +1,16 @@
+INIT_LIST_HEAD,FUNC_0
+M_TTM_TRANSF_OBJ,VAR_0
+M_WAITOK,VAR_1
+atomic_set,FUNC_1
+malloc,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+refcount_init,FUNC_5
+stub1,FUNC_6
+ttm_transfered_destroy,VAR_2
+ttm_buffer_object_transfer,FUNC_7
+bo,VAR_3
+new_obj,VAR_4
+fbo,VAR_5
+bdev,VAR_6
+driver,VAR_7

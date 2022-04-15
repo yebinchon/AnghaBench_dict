@@ -1,0 +1,15 @@
+BIO_free,FUNC_0
+BIO_new,FUNC_1
+BIO_s_mem,FUNC_2
+CONF_modules_load,FUNC_3
+NCONF_free,FUNC_4
+app_load_config_bio,FUNC_5
+write_config_fips_section,FUNC_6
+write_config_header,FUNC_7
+generate_config_and_load,FUNC_8
+prov_name,VAR_0
+section,VAR_1
+module_mac,VAR_2
+module_mac_len,VAR_3
+mem_bio,VAR_4
+conf,VAR_5

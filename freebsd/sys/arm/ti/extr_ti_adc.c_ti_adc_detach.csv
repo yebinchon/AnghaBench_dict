@@ -1,0 +1,15 @@
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+TI_ADC_LOCK,FUNC_0
+TI_ADC_LOCK_DESTROY,FUNC_1
+TI_ADC_UNLOCK,FUNC_2
+bus_generic_detach,FUNC_3
+bus_release_resource,FUNC_4
+bus_teardown_intr,FUNC_5
+device_get_softc,FUNC_6
+evdev_free,FUNC_7
+ti_adc_reset,FUNC_8
+ti_adc_setup,FUNC_9
+ti_adc_detach,FUNC_10
+dev,VAR_2
+sc,VAR_3

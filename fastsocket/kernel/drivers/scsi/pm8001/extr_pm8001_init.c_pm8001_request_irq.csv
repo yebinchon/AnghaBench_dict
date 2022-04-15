@@ -1,0 +1,14 @@
+DRV_NAME,VAR_0
+IRQF_SHARED,VAR_1
+PCI_CAP_ID_MSIX,VAR_2
+PM8001_INIT_DBG,FUNC_0
+SHOST_TO_SAS_HA,FUNC_1
+pci_find_capability,FUNC_2
+pm8001_interrupt_handler_intx,VAR_3
+pm8001_printk,FUNC_3
+pm8001_setup_msix,FUNC_4
+request_irq,FUNC_5
+pm8001_request_irq,FUNC_6
+pm8001_ha,VAR_4
+pdev,VAR_5
+rc,VAR_6

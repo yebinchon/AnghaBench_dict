@@ -1,0 +1,13 @@
+AVERROR_EXTERNAL,VAR_0
+AV_LOG_ERROR,VAR_1
+PA_OPERATION_RUNNING,VAR_2
+av_log,FUNC_0
+pa_context_get_sink_info_by_name,FUNC_1
+pa_operation_get_state,FUNC_2
+pa_operation_unref,FUNC_3
+pa_threaded_mainloop_wait,FUNC_4
+pulse_audio_sink_device_cb,VAR_3
+pulse_update_sink_info,FUNC_5
+h,VAR_4
+s,VAR_5
+op,VAR_6

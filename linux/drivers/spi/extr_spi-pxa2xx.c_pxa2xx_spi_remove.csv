@@ -1,0 +1,14 @@
+SSCR0,VAR_0
+clk_disable_unprepare,FUNC_0
+free_irq,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put_noidle,FUNC_5
+pxa2xx_spi_dma_release,FUNC_6
+pxa2xx_spi_write,FUNC_7
+pxa_ssp_free,FUNC_8
+pxa2xx_spi_remove,FUNC_9
+pdev,VAR_1
+drv_data,VAR_2
+ssp,VAR_3

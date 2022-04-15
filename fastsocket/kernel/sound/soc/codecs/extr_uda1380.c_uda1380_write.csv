@@ -1,0 +1,15 @@
+EIO,VAR_0
+UDA1380_MVOL,VAR_1
+clear_bit,FUNC_0
+i2c_master_recv,FUNC_1
+i2c_master_send,FUNC_2
+pr_debug,FUNC_3
+stub1,FUNC_4
+uda1380_cache_dirty,VAR_2
+uda1380_write_reg_cache,FUNC_5
+uda1380_write,FUNC_6
+codec,VAR_3
+reg,VAR_4
+value,VAR_5
+data,VAR_6
+val,VAR_7

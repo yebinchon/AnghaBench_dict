@@ -1,0 +1,12 @@
+CS_PKT_INITIAL,VAR_0
+bytestream_put_le32,FUNC_0
+insert_command_prefixes,FUNC_1
+mms_put_utf16,FUNC_2
+send_command_packet,FUNC_3
+snprintf,FUNC_4
+start_command_packet,FUNC_5
+send_startup_packet,FUNC_6
+mmst,VAR_1
+data_string,VAR_2
+ret,VAR_3
+mms,VAR_4

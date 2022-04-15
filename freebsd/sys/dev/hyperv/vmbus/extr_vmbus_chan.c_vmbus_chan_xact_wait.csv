@@ -1,0 +1,12 @@
+DELAY,FUNC_0
+pause,FUNC_1
+vmbus_chan_is_revoked,FUNC_2
+vmbus_chan_rx_empty,FUNC_3
+vmbus_xact_busywait,FUNC_4
+vmbus_xact_wait,FUNC_5
+vmbus_chan_xact_wait,FUNC_6
+chan,VAR_0
+xact,VAR_1
+resp_len,VAR_2
+can_sleep,VAR_3
+ret,VAR_4

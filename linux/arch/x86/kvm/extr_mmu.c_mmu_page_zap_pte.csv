@@ -1,0 +1,15 @@
+PT64_BASE_ADDR_MASK,VAR_0
+drop_parent_pte,FUNC_0
+drop_spte,FUNC_1
+is_large_pte,FUNC_2
+is_last_spte,FUNC_3
+is_mmio_spte,FUNC_4
+is_shadow_present_pte,FUNC_5
+mmu_spte_clear_no_track,FUNC_6
+page_header,FUNC_7
+mmu_page_zap_pte,FUNC_8
+kvm,VAR_1
+sp,VAR_2
+spte,VAR_3
+pte,VAR_4
+child,VAR_5

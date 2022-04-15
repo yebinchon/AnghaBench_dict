@@ -1,0 +1,11 @@
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+phy_reset_after_clk_enable,FUNC_5
+fec_enet_clk_enable,FUNC_6
+ndev,VAR_0
+enable,VAR_1
+fep,VAR_2
+ret,VAR_3

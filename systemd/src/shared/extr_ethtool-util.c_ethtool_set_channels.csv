@@ -1,0 +1,16 @@
+ETHTOOL_GCHANNELS,VAR_0
+ETHTOOL_SCHANNELS,VAR_1
+IFNAMSIZ,VAR_2
+SIOCETHTOOL,VAR_3
+errno,VAR_4
+ethtool_connect_or_warn,FUNC_0
+ioctl,FUNC_1
+strscpy,FUNC_2
+ethtool_set_channels,FUNC_3
+fd,VAR_5
+ifname,VAR_6
+channels,VAR_7
+ecmd,VAR_8
+ifr,VAR_9
+need_update,VAR_10
+r,VAR_11

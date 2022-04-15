@@ -1,0 +1,14 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+FreeSpaceMapVacuum,FUNC_1
+MAIN_FORKNUM,VAR_0
+RBM_NORMAL,VAR_1
+ReadBufferExtended,FUNC_2
+RelationGetNumberOfBlocks,FUNC_3
+ReleaseBuffer,FUNC_4
+brin_page_cleanup,FUNC_5
+brin_vacuum_scan,FUNC_6
+idxrel,VAR_2
+strategy,VAR_3
+nblocks,VAR_4
+blkno,VAR_5
+buf,VAR_6

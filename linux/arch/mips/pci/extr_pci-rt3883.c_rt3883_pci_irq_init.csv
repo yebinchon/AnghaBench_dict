@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+RT3883_PCI_IRQ_COUNT,VAR_2
+RT3883_PCI_REG_PCIENA,VAR_3
+dev_err,FUNC_0
+irq_domain_add_linear,FUNC_1
+irq_of_parse_and_map,FUNC_2
+irq_set_chained_handler_and_data,FUNC_3
+rt3883_pci_irq_domain_ops,VAR_4
+rt3883_pci_irq_handler,VAR_5
+rt3883_pci_w32,FUNC_4
+rt3883_pci_irq_init,FUNC_5
+dev,VAR_6
+rpc,VAR_7
+irq,VAR_8

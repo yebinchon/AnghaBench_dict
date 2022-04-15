@@ -1,0 +1,15 @@
+DLOG,FUNC_0
+XCB_ATOM_WINDOW,VAR_0
+XCB_ATOM_WM_TRANSIENT_FOR,VAR_1
+con_by_window_id,FUNC_1
+window_update_transient_for,FUNC_2
+xcb_get_property_reply,FUNC_3
+xcb_get_property_unchecked,FUNC_4
+handle_transient_for,FUNC_5
+data,VAR_2
+conn,VAR_3
+state,VAR_4
+window,VAR_5
+name,VAR_6
+prop,VAR_7
+con,VAR_8

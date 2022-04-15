@@ -1,0 +1,8 @@
+SEGMENT_RPL_MASK,VAR_0
+VCPU_SREG_CS,VAR_1
+VCPU_SREG_SS,VAR_2
+vmx_get_segment,FUNC_0
+cs_ss_rpl_check,FUNC_1
+vcpu,VAR_3
+cs,VAR_4
+ss,VAR_5

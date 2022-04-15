@@ -1,0 +1,11 @@
+XADC_AXI_INT_ALARM_MASK,VAR_0
+XADC_AXI_REG_IPIER,VAR_1
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+xadc_read_reg,FUNC_2
+xadc_write_reg,FUNC_3
+xadc_axi_update_alarm,FUNC_4
+xadc,VAR_2
+alarm,VAR_3
+val,VAR_4
+flags,VAR_5

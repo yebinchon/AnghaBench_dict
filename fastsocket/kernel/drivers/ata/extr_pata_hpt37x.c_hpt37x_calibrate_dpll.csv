@@ -1,0 +1,9 @@
+pci_read_config_byte,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+udelay,FUNC_3
+hpt37x_calibrate_dpll,FUNC_4
+dev,VAR_0
+reg5b,VAR_1
+reg5c,VAR_2
+tries,VAR_3

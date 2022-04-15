@@ -1,0 +1,14 @@
+TCPCB_RETRANS,VAR_0
+TCPCB_SACKED_RETRANS,VAR_1
+TCP_SKB_CB,FUNC_0
+__tcp_retransmit_skb,FUNC_1
+net_dbg_ratelimited,FUNC_2
+tcp_sk,FUNC_3
+tcp_skb_pcount,FUNC_4
+tcp_skb_timestamp,FUNC_5
+tcp_retransmit_skb,FUNC_6
+sk,VAR_2
+skb,VAR_3
+segs,VAR_4
+tp,VAR_5
+err,VAR_6

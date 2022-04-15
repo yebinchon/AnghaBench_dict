@@ -1,0 +1,15 @@
+L4_BUSY,VAR_0
+L4_PORT,VAR_1
+L4_SELECT_ANALOG,VAR_2
+L4_SELECT_DIGITAL,VAR_3
+inb,FUNC_0
+l4_wait_ready,FUNC_1
+outb,FUNC_2
+l4_cooked_read,FUNC_3
+gameport,VAR_4
+axes,VAR_5
+buttons,VAR_6
+l4,VAR_7
+status,VAR_8
+i,VAR_9
+result,VAR_10

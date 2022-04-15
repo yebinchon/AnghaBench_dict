@@ -1,0 +1,12 @@
+ADDR_SR_SHFT,VAR_0
+PMAP_LOCK,FUNC_0
+PMAP_UNLOCK,FUNC_1
+allocate_user_vsid,FUNC_2
+slb_insert_user,FUNC_3
+user_va_to_slb_entry,FUNC_4
+handle_user_slb_spill,FUNC_5
+pm,VAR_1
+addr,VAR_2
+user_entry,VAR_3
+esid,VAR_4
+i,VAR_5

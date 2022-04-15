@@ -1,0 +1,17 @@
+EVP_aes_128_cbc,FUNC_0
+EVP_aes_256_cbc,FUNC_1
+EVP_sha1,FUNC_2
+EVP_sha256,FUNC_3
+H2O_STRLIT,FUNC_4
+find_ticket_for_encryption,FUNC_5
+load_tickets_file,FUNC_6
+memcmp,FUNC_7
+ok,FUNC_8
+pthread_rwlock_rdlock,FUNC_9
+pthread_rwlock_unlock,FUNC_10
+session_ticket_get_cipher_key,FUNC_11
+session_ticket_get_hmac_key,FUNC_12
+session_tickets,VAR_0
+test_load_tickets_file,FUNC_13
+ret,VAR_1
+ticket,VAR_2

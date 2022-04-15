@@ -1,0 +1,15 @@
+DRM_MODE_ATOMIC_ALLOW_MODESET,VAR_0
+MP_ERR,FUNC_0
+MP_WARN,FUNC_1
+drmModeAtomicAlloc,FUNC_2
+drmModeAtomicCommit,FUNC_3
+drmModeAtomicFree,FUNC_4
+drm_atomic_save_old_state,FUNC_5
+drm_mode_ensure_blob,FUNC_6
+drm_object_set_property,FUNC_7
+crtc_setup_atomic,FUNC_8
+ctx,VAR_1
+p,VAR_2
+atomic_ctx,VAR_3
+request,VAR_4
+ret,VAR_5

@@ -1,0 +1,12 @@
+TEST_URL,VAR_0
+_config,VAR_1
+_repo,VAR_2
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_config_set_string,FUNC_2
+git_remote_free,FUNC_3
+git_remote_lookup,FUNC_4
+git_remote_name,FUNC_5
+git_remote_url,FUNC_6
+test_remote_create__manual,FUNC_7
+remote,VAR_3

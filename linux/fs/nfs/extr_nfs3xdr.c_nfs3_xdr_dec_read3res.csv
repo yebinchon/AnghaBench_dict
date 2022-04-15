@@ -1,0 +1,16 @@
+NFS3_OK,VAR_0
+decode_nfsstat3,FUNC_0
+decode_post_op_attr,FUNC_1
+decode_read3resok,FUNC_2
+nfs3_stat_to_errno,FUNC_3
+rpc_rqst_userns,FUNC_4
+unlikely,FUNC_5
+xdr_stream_pos,FUNC_6
+nfs3_xdr_dec_read3res,FUNC_7
+req,VAR_1
+xdr,VAR_2
+data,VAR_3
+result,VAR_4
+pos,VAR_5
+status,VAR_6
+error,VAR_7

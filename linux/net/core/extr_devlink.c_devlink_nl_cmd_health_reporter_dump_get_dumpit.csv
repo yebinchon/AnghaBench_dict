@@ -1,0 +1,17 @@
+DEVLINK_CMD_HEALTH_REPORTER_DUMP_GET,VAR_0
+EAGAIN,VAR_1
+EINVAL,VAR_2
+EOPNOTSUPP,VAR_3
+NL_SET_ERR_MSG_MOD,FUNC_0
+devlink_fmsg_dumpit,FUNC_1
+devlink_health_do_dump,FUNC_2
+devlink_health_reporter_get_from_cb,FUNC_3
+devlink_health_reporter_put,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+devlink_nl_cmd_health_reporter_dump_get_dumpit,FUNC_7
+skb,VAR_4
+cb,VAR_5
+reporter,VAR_6
+start,VAR_7
+err,VAR_8

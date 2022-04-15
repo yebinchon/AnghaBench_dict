@@ -1,0 +1,13 @@
+FREE,FUNC_0
+IFMA_REMREF,FUNC_1
+M_BOND,VAR_0
+OSDecrementAtomic,FUNC_2
+bond_cloner,VAR_1
+g_bond,VAR_2
+if_clone_softc_deallocate,FUNC_3
+if_delmulti_anon,FUNC_4
+panic,FUNC_5
+printf,FUNC_6
+ifbond_release,FUNC_7
+ifb,VAR_3
+old_retain_count,VAR_4

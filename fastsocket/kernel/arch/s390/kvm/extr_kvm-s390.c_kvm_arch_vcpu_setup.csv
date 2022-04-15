@@ -1,0 +1,14 @@
+CLOCK_REALTIME,VAR_0
+CPUSTAT_ZARCH,VAR_1
+HRTIMER_MODE_ABS,VAR_2
+KVM_REQ_MMU_RELOAD,VAR_3
+atomic_set,FUNC_0
+facilities,VAR_4
+get_cpu_id,FUNC_1
+hrtimer_init,FUNC_2
+kvm_s390_idle_wakeup,VAR_5
+kvm_s390_tasklet,VAR_6
+set_bit,FUNC_3
+tasklet_init,FUNC_4
+kvm_arch_vcpu_setup,FUNC_5
+vcpu,VAR_7

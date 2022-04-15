@@ -1,0 +1,11 @@
+amd_deinit_side_info,FUNC_0
+amd_ntb_deinit_isr,FUNC_1
+amd_ntb_unmap_pci_bars,FUNC_2
+callout_drain,FUNC_3
+device_get_softc,FUNC_4
+mtx_destroy,FUNC_5
+ntb_unregister_device,FUNC_6
+pci_disable_busmaster,FUNC_7
+amd_ntb_detach,FUNC_8
+device,VAR_0
+ntb,VAR_1

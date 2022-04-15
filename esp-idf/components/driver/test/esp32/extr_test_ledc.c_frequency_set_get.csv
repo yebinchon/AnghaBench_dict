@@ -1,0 +1,13 @@
+TEST_ASSERT_EQUAL_INT32,FUNC_0
+TEST_ASSERT_INT16_WITHIN,FUNC_1
+TEST_ESP_OK,FUNC_2
+ledc_get_freq,FUNC_3
+ledc_set_freq,FUNC_4
+wave_count,FUNC_5
+frequency_set_get,FUNC_6
+speed_mode,VAR_0
+timer,VAR_1
+freq_hz,VAR_2
+real_freq,VAR_3
+error,VAR_4
+count,VAR_5

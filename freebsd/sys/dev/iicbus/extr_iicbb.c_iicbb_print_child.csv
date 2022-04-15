@@ -1,0 +1,13 @@
+IICBB_RESET,FUNC_0
+IIC_ENOADDR,VAR_0
+IIC_FASTEST,VAR_1
+bus_print_child_header,FUNC_1
+device_get_nameunit,FUNC_2
+device_get_parent,FUNC_3
+printf,FUNC_4
+iicbb_print_child,FUNC_5
+bus,VAR_2
+dev,VAR_3
+error,VAR_4
+retval,VAR_5
+oldaddr,VAR_6

@@ -1,0 +1,16 @@
+PTP_CLOCK_NS,VAR_0
+PTP_CLOCK_SEC,VAR_1
+PTP_CLOCK_SUBNS,VAR_2
+PTP_CMD_CTL,VAR_3
+PTP_CMD_CTL_PTP_CLOCK_READ_,VAR_4
+lan743x_csr_read,FUNC_0
+lan743x_csr_write,FUNC_1
+lan743x_ptp_wait_till_cmd_done,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+lan743x_ptp_clock_get,FUNC_5
+adapter,VAR_5
+seconds,VAR_6
+nano_seconds,VAR_7
+sub_nano_seconds,VAR_8
+ptp,VAR_9

@@ -1,0 +1,15 @@
+I915_GEM_DOMAIN_RENDER,VAR_0
+I915_GEM_DOMAIN_SAMPLER,VAR_1
+MI_FLUSH,VAR_2
+MI_NOOP,VAR_3
+MI_NO_WRITE_FLUSH,VAR_4
+MI_READ_FLUSH,VAR_5
+intel_ring_advance,FUNC_0
+intel_ring_begin,FUNC_1
+intel_ring_emit,FUNC_2
+gen2_render_ring_flush,FUNC_3
+ring,VAR_6
+invalidate_domains,VAR_7
+flush_domains,VAR_8
+cmd,VAR_9
+ret,VAR_10

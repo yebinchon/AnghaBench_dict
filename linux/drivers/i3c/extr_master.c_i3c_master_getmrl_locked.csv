@@ -1,0 +1,17 @@
+EIO,VAR_0
+ENOMEM,VAR_1
+I3C_BCR_IBI_PAYLOAD,VAR_2
+I3C_CCC_GETMRL,VAR_3
+be16_to_cpu,FUNC_0
+i3c_ccc_cmd_dest_cleanup,FUNC_1
+i3c_ccc_cmd_dest_init,FUNC_2
+i3c_ccc_cmd_init,FUNC_3
+i3c_master_send_ccc_cmd_locked,FUNC_4
+i3c_master_getmrl_locked,FUNC_5
+master,VAR_4
+info,VAR_5
+dest,VAR_6
+expected_len,VAR_7
+mrl,VAR_8
+cmd,VAR_9
+ret,VAR_10

@@ -1,0 +1,11 @@
+PageLRU,FUNC_0
+VM_BUG_ON,FUNC_1
+__ClearPageLRU,FUNC_2
+del_page_from_lru,FUNC_3
+page_zone,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+__page_cache_release,FUNC_7
+page,VAR_0
+flags,VAR_1
+zone,VAR_2

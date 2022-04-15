@@ -1,0 +1,12 @@
+M_STATFS,VAR_0
+M_WAITOK,VAR_1
+UIO_USERSPACE,VAR_2
+copyout,FUNC_0
+free,FUNC_1
+kern_statfs,FUNC_2
+malloc,FUNC_3
+sys_statfs,FUNC_4
+td,VAR_3
+uap,VAR_4
+sfp,VAR_5
+error,VAR_6

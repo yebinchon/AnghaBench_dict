@@ -1,0 +1,15 @@
+ALARM0_STATUS,VAR_0
+MAX8998_ALARM0_CONF,VAR_1
+MAX8998_ALARM0_SEC,VAR_2
+MAX8998_RTC_STATUS,VAR_3
+dev_get_drvdata,FUNC_0
+max8998_bulk_read,FUNC_1
+max8998_data_to_tm,FUNC_2
+max8998_read_reg,FUNC_3
+max8998_rtc_read_alarm,FUNC_4
+dev,VAR_4
+alrm,VAR_5
+info,VAR_6
+data,VAR_7
+val,VAR_8
+ret,VAR_9

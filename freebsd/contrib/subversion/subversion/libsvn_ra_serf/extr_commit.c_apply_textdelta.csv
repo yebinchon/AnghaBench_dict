@@ -1,0 +1,17 @@
+SVN_NO_ERROR,VAR_0
+SVN_RA_SERF__REQUEST_BODY_IN_MEM_SIZE,VAR_1
+apr_pstrdup,FUNC_0
+negotiate_put_encoding,FUNC_1
+svn_ra_serf__request_body_create,FUNC_2
+svn_ra_serf__request_body_get_stream,FUNC_3
+svn_stream_disown,FUNC_4
+svn_txdelta_to_svndiff3,FUNC_5
+apply_textdelta,FUNC_6
+file_baton,VAR_2
+base_checksum,VAR_3
+pool,VAR_4
+handler,VAR_5
+handler_baton,VAR_6
+ctx,VAR_7
+svndiff_version,VAR_8
+compression_level,VAR_9

@@ -1,0 +1,16 @@
+EPERM,VAR_0
+FM_MODE_TX,VAR_1
+RDS_DATA_ENB,VAR_2
+REG_WR,VAR_3
+fm_tx_set_rds_mode,FUNC_0
+fmc_send_cmd,FUNC_1
+set_rds_data_mode,FUNC_2
+set_rds_len,FUNC_3
+set_rds_text,FUNC_4
+strlen,FUNC_5
+fm_tx_set_radio_text,FUNC_6
+fmdev,VAR_4
+rds_text,VAR_5
+rds_type,VAR_6
+payload,VAR_7
+ret,VAR_8

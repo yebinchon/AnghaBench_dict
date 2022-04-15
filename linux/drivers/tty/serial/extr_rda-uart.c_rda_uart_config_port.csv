@@ -1,0 +1,12 @@
+PORT_RDA,VAR_0
+RDA_UART_IRQ_MASK,VAR_1
+RDA_UART_STATUS,VAR_2
+UART_CONFIG_TYPE,VAR_3
+rda_uart_request_port,FUNC_0
+rda_uart_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+rda_uart_config_port,FUNC_4
+port,VAR_4
+flags,VAR_5
+irq_flags,VAR_6

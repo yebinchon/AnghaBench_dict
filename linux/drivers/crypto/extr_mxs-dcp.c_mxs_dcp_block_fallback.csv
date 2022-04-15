@@ -1,0 +1,16 @@
+SYNC_SKCIPHER_REQUEST_ON_STACK,FUNC_0
+crypto_ablkcipher_ctx,FUNC_1
+crypto_ablkcipher_reqtfm,FUNC_2
+crypto_skcipher_decrypt,FUNC_3
+crypto_skcipher_encrypt,FUNC_4
+skcipher_request_set_callback,FUNC_5
+skcipher_request_set_crypt,FUNC_6
+skcipher_request_set_sync_tfm,FUNC_7
+skcipher_request_zero,FUNC_8
+subreq,VAR_0
+mxs_dcp_block_fallback,FUNC_9
+req,VAR_1
+enc,VAR_2
+tfm,VAR_3
+ctx,VAR_4
+ret,VAR_5

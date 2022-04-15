@@ -1,0 +1,12 @@
+IB_PORT_ACTIVE,VAR_0
+QIB_IB_LINKDOWN,VAR_1
+cr_iblinkerrrecov,VAR_2
+qib_6120_iblink_state,FUNC_0
+qib_set_linkstate,FUNC_1
+read_6120_creg32,FUNC_2
+chk_6120_linkrecovery,FUNC_3
+dd,VAR_3
+ibcs,VAR_4
+ret,VAR_5
+ibstate,VAR_6
+linkrecov,VAR_7

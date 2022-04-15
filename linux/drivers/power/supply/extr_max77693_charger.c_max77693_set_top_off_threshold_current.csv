@@ -1,0 +1,9 @@
+CHG_CNFG_03_TOITH_MASK,VAR_0
+CHG_CNFG_03_TOITH_SHIFT,VAR_1
+EINVAL,VAR_2
+MAX77693_CHG_REG_CHG_CNFG_03,VAR_3
+regmap_update_bits,FUNC_0
+max77693_set_top_off_threshold_current,FUNC_1
+chg,VAR_4
+uamp,VAR_5
+data,VAR_6

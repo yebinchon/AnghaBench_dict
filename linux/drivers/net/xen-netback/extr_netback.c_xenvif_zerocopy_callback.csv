@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+MAX_PENDING_REQS,VAR_0
+likely,FUNC_1
+pending_index,FUNC_2
+smp_wmb,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ubuf_to_queue,FUNC_6
+xenvif_skb_zerocopy_complete,FUNC_7
+xenvif_zerocopy_callback,FUNC_8
+ubuf,VAR_1
+zerocopy_success,VAR_2
+flags,VAR_3
+index,VAR_4
+queue,VAR_5
+pending_idx,VAR_6

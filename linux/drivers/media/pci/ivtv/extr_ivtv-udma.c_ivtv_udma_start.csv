@@ -1,0 +1,13 @@
+IVTV_DEBUG_DMA,FUNC_0
+IVTV_F_I_DMA,VAR_0
+IVTV_F_I_UDMA,VAR_1
+IVTV_F_I_UDMA_PENDING,VAR_2
+IVTV_REG_DECDMAADDR,VAR_3
+IVTV_REG_DMAXFER,VAR_4
+clear_bit,FUNC_1
+read_reg,FUNC_2
+set_bit,FUNC_3
+write_reg,FUNC_4
+write_reg_sync,FUNC_5
+ivtv_udma_start,FUNC_6
+itv,VAR_5

@@ -1,0 +1,11 @@
+CHIP_IS_E1,FUNC_0
+DMAE_READY,FUNC_1
+GUNZIP_BUF,FUNC_2
+GUNZIP_PHYS,FUNC_3
+ecore_init_ind_wr,FUNC_4
+ecore_init_str_wr,FUNC_5
+ecore_write_dmae_phys_len,FUNC_6
+ecore_write_big_buf_wb,FUNC_7
+sc,VAR_0
+addr,VAR_1
+len,VAR_2

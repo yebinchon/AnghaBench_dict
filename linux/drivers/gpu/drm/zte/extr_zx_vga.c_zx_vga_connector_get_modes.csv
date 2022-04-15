@@ -1,0 +1,14 @@
+VGA_AUTO_DETECT_SEL,VAR_0
+VGA_DETECT_SEL_HAS_DEVICE,VAR_1
+VGA_DETECT_SEL_NO_DEVICE,VAR_2
+drm_add_edid_modes,FUNC_0
+drm_connector_update_edid_property,FUNC_1
+drm_get_edid,FUNC_2
+kfree,FUNC_3
+to_zx_vga,FUNC_4
+zx_writel,FUNC_5
+zx_vga_connector_get_modes,FUNC_6
+connector,VAR_3
+vga,VAR_4
+edid,VAR_5
+ret,VAR_6

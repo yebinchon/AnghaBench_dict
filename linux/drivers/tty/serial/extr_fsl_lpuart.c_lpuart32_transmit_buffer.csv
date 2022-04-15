@@ -1,0 +1,17 @@
+UARTDATA,VAR_0
+UARTWATER,VAR_1
+UARTWATER_COUNT_MASK,VAR_2
+UARTWATER_TXCNT_OFF,VAR_3
+UART_XMIT_SIZE,VAR_4
+WAKEUP_CHARS,VAR_5
+lpuart32_read,FUNC_0
+lpuart32_stop_tx,FUNC_1
+lpuart32_write,FUNC_2
+lpuart_stopped_or_empty,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_circ_empty,FUNC_5
+uart_write_wakeup,FUNC_6
+lpuart32_transmit_buffer,FUNC_7
+sport,VAR_6
+xmit,VAR_7
+txcnt,VAR_8

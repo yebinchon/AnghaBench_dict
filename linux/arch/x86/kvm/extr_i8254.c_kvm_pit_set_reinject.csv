@@ -1,0 +1,12 @@
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+kvm_pit_reset_reinject,FUNC_2
+kvm_register_irq_ack_notifier,FUNC_3
+kvm_register_irq_mask_notifier,FUNC_4
+kvm_unregister_irq_ack_notifier,FUNC_5
+kvm_unregister_irq_mask_notifier,FUNC_6
+kvm_pit_set_reinject,FUNC_7
+pit,VAR_0
+reinject,VAR_1
+ps,VAR_2
+kvm,VAR_3

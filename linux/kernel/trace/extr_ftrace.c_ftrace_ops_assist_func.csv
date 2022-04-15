@@ -1,0 +1,15 @@
+FTRACE_OPS_FL_RCU,VAR_0
+TRACE_LIST_MAX,VAR_1
+TRACE_LIST_START,VAR_2
+preempt_disable_notrace,FUNC_0
+preempt_enable_notrace,FUNC_1
+rcu_is_watching,FUNC_2
+stub1,FUNC_3
+trace_clear_recursion,FUNC_4
+trace_test_and_set_recursion,FUNC_5
+ftrace_ops_assist_func,FUNC_6
+ip,VAR_3
+parent_ip,VAR_4
+op,VAR_5
+regs,VAR_6
+bit,VAR_7

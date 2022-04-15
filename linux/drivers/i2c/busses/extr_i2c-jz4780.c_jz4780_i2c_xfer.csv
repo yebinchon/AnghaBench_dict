@@ -1,0 +1,17 @@
+EIO,VAR_0
+I2C_M_RD,VAR_1
+JZ4780_I2C_TAR,VAR_2
+dev_err,FUNC_0
+jz4780_i2c_cleanup,FUNC_1
+jz4780_i2c_prepare,FUNC_2
+jz4780_i2c_readw,FUNC_3
+jz4780_i2c_set_target,FUNC_4
+jz4780_i2c_xfer_read,FUNC_5
+jz4780_i2c_xfer_write,FUNC_6
+jz4780_i2c_xfer,FUNC_7
+adap,VAR_3
+msg,VAR_4
+count,VAR_5
+i,VAR_6
+ret,VAR_7
+i2c,VAR_8

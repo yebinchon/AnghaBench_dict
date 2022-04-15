@@ -1,0 +1,15 @@
+ASCV_HOST_FLAG_B,VAR_0
+ASCV_RISC_FLAG_B,VAR_1
+ASC_HOST_FLAG_ACK_INT,VAR_2
+ASC_RISC_FLAG_GEN_INT,VAR_3
+AscGetChipStatus,FUNC_0
+AscReadLramByte,FUNC_1
+AscSetChipStatus,FUNC_2
+AscWriteLramByte,FUNC_3
+CIW_INT_ACK,VAR_4
+CSW_INT_PENDING,VAR_5
+AscAckInterrupt,FUNC_4
+iop_base,VAR_6
+host_flag,VAR_7
+risc_flag,VAR_8
+loop,VAR_9

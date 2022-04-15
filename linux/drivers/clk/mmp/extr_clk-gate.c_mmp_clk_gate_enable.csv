@@ -1,0 +1,14 @@
+MMP_CLK_GATE_NEED_DELAY,VAR_0
+clk_hw_get_rate,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_clk_mmp_gate,FUNC_4
+udelay,FUNC_5
+writel,FUNC_6
+mmp_clk_gate_enable,FUNC_7
+hw,VAR_1
+gate,VAR_2
+flags,VAR_3
+rate,VAR_4
+tmp,VAR_5

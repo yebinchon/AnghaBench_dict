@@ -1,0 +1,16 @@
+EDITMODE,VAR_0
+FALSE,VAR_1
+NSSTATE_ALL,VAR_2
+OLECMDF_ENABLED,VAR_3
+OLECMDF_LATCHED,VAR_4
+OLECMDF_SUPPORTED,VAR_5
+READYSTATE_INTERACTIVE,VAR_6
+create_nscommand_params,FUNC_0
+get_ns_command_state,FUNC_1
+nsICommandParams_GetBooleanValue,FUNC_2
+nsICommandParams_Release,FUNC_3
+query_ns_edit_status,FUNC_4
+This,VAR_7
+nscmd,VAR_8
+nsparam,VAR_9
+b,VAR_10

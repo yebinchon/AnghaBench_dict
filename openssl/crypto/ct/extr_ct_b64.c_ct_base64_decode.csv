@@ -1,0 +1,15 @@
+CT_F_CT_BASE64_DECODE,VAR_0
+CT_R_BASE64_DECODE_ERROR,VAR_1
+CTerr,FUNC_0
+ERR_R_MALLOC_FAILURE,VAR_2
+EVP_DecodeBlock,FUNC_1
+OPENSSL_free,FUNC_2
+OPENSSL_malloc,FUNC_3
+strlen,FUNC_4
+ct_base64_decode,FUNC_5
+in,VAR_3
+out,VAR_4
+inlen,VAR_5
+outlen,VAR_6
+i,VAR_7
+outbuf,VAR_8

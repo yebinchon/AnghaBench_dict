@@ -1,0 +1,15 @@
+SEND_IDLE,VAR_0
+SEND_READY,VAR_1
+WAIT4READY,VAR_2
+WARN_ON_ONCE,FUNC_0
+atomic_dec_and_test,FUNC_1
+atomic_read,FUNC_2
+dev_dbg,FUNC_3
+hsi_client_drvdata,FUNC_4
+hsi_stop_tx,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+ssip_set_txstate,FUNC_8
+ssip_slave_stop_tx,FUNC_9
+master,VAR_3
+ssi,VAR_4

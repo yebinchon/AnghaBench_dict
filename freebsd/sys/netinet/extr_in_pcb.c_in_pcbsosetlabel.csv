@@ -1,0 +1,9 @@
+INP_WLOCK,FUNC_0
+INP_WUNLOCK,FUNC_1
+KASSERT,FUNC_2
+SOCK_LOCK,FUNC_3
+SOCK_UNLOCK,FUNC_4
+mac_inpcb_sosetlabel,FUNC_5
+sotoinpcb,FUNC_6
+in_pcbsosetlabel,FUNC_7
+so,VAR_0

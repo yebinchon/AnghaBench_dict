@@ -1,0 +1,16 @@
+COMMIT_NOW,VAR_0
+SB_BUFFER_WITH_SB,FUNC_0
+SB_JOURNAL,FUNC_1
+WAIT,VAR_1
+atomic_read,FUNC_2
+do_journal_end,FUNC_3
+journal_join,FUNC_4
+journal_mark_dirty,FUNC_5
+ktime_get_seconds,FUNC_6
+list_empty,FUNC_7
+reiserfs_prepare_for_journal,FUNC_8
+reiserfs_flush_old_commits,FUNC_9
+sb,VAR_2
+now,VAR_3
+th,VAR_4
+journal,VAR_5

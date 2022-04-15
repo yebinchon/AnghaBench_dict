@@ -1,0 +1,13 @@
+SVNSYNC_PROP_LOCK,VAR_0
+SVN_ERR,FUNC_0
+get_lock,FUNC_1
+svn_error_compose_create,FUNC_2
+svn_ra__release_operational_lock,FUNC_3
+with_locked,FUNC_4
+session,VAR_1
+func,VAR_2
+baton,VAR_3
+steal_lock,VAR_4
+pool,VAR_5
+lock_string,VAR_6
+err,VAR_7

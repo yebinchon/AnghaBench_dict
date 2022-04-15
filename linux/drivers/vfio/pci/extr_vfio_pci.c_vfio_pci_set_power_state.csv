@@ -1,0 +1,14 @@
+PCI_D0,VAR_0
+PCI_D3hot,VAR_1
+pci_load_and_free_saved_state,FUNC_0
+pci_restore_state,FUNC_1
+pci_save_state,FUNC_2
+pci_set_power_state,FUNC_3
+pci_store_saved_state,FUNC_4
+vfio_pci_set_power_state,FUNC_5
+vdev,VAR_2
+state,VAR_3
+pdev,VAR_4
+needs_restore,VAR_5
+needs_save,VAR_6
+ret,VAR_7

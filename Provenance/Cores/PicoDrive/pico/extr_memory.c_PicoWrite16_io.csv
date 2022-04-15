@@ -1,0 +1,15 @@
+EL_SRAMIO,VAR_0
+POPT_EN_32X,VAR_1
+Pico,VAR_2
+PicoOpt,VAR_3
+PicoWrite16_32x,FUNC_0
+SRR_MAPPED,VAR_4
+SRR_READONLY,VAR_5
+ctl_write_z80busreq,FUNC_1
+ctl_write_z80reset,FUNC_2
+elprintf,FUNC_3
+io_ports_write,FUNC_4
+m68k_unmapped_write16,FUNC_5
+PicoWrite16_io,FUNC_6
+a,VAR_6
+d,VAR_7

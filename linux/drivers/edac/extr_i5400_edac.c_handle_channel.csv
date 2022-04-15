@@ -1,0 +1,15 @@
+MTR_DIMMS_PRESENT,FUNC_0
+MTR_DIMM_COLS_ADDR_BITS,FUNC_1
+MTR_DIMM_RANK,FUNC_2
+MTR_DIMM_ROWS_ADDR_BITS,FUNC_3
+MTR_DRAM_BANKS_ADDR_BITS,FUNC_4
+determine_amb_present_reg,FUNC_5
+determine_mtr,FUNC_6
+handle_channel,FUNC_7
+pvt,VAR_0
+dimm,VAR_1
+channel,VAR_2
+dinfo,VAR_3
+mtr,VAR_4
+amb_present_reg,VAR_5
+addrBits,VAR_6

@@ -1,0 +1,11 @@
+REGULATOR_MODE_FAST,VAR_0
+REGULATOR_MODE_NORMAL,VAR_1
+REGULATOR_MODE_STANDBY,VAR_2
+da9055_reg_read,FUNC_0
+rdev_get_drvdata,FUNC_1
+da9055_buck_get_mode,FUNC_2
+rdev,VAR_3
+regulator,VAR_4
+info,VAR_5
+ret,VAR_6
+mode,VAR_7

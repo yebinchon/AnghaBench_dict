@@ -1,0 +1,17 @@
+READ_PUBEK_RESULT_SIZE,VAR_0
+be32_to_cpu,FUNC_0
+dev_get_drvdata,FUNC_1
+sprintf,FUNC_2
+tpm_readpubek_header,VAR_1
+transmit_cmd,FUNC_3
+tpm_show_pubek,FUNC_4
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+data,VAR_5
+tpm_cmd,VAR_6
+err,VAR_7
+i,VAR_8
+rc,VAR_9
+str,VAR_10
+chip,VAR_11

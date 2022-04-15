@@ -1,0 +1,11 @@
+PROCBASED_TSC_OFFSET,VAR_0
+VCPU_CTR0,FUNC_0
+VMCS_PRI_PROC_BASED_CTLS,VAR_1
+VMCS_TSC_OFFSET,VAR_2
+vmcs_write,FUNC_1
+vmwrite,FUNC_2
+vmx_set_tsc_offset,FUNC_3
+vmx,VAR_3
+vcpu,VAR_4
+offset,VAR_5
+error,VAR_6

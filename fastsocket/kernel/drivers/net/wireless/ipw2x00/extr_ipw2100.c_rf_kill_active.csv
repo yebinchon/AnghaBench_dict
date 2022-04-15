@@ -1,0 +1,14 @@
+HW_FEATURE_RFKILL,VAR_0
+IPW_BIT_GPIO_RF_KILL,VAR_1
+IPW_REG_GPIO,VAR_2
+MAX_RF_KILL_CHECKS,VAR_3
+RF_KILL_CHECK_DELAY,VAR_4
+STATUS_RF_KILL_HW,VAR_5
+read_register,FUNC_0
+udelay,FUNC_1
+wiphy_rfkill_set_hw_state,FUNC_2
+rf_kill_active,FUNC_3
+priv,VAR_6
+value,VAR_7
+reg,VAR_8
+i,VAR_9

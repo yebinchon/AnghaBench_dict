@@ -1,0 +1,11 @@
+HID_IN_POLLING,VAR_0
+HID_OPENED,VAR_1
+HID_QUIRK_ALWAYS_POLL,VAR_2
+clear_bit,FUNC_0
+hid_cancel_delayed_stuff,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+usb_kill_urb,FUNC_4
+usbhid_close,FUNC_5
+hid,VAR_3
+usbhid,VAR_4

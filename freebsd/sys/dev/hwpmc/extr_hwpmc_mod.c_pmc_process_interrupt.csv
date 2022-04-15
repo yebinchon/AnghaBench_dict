@@ -1,0 +1,12 @@
+PMC_F_USERCALLCHAIN,VAR_0
+PMC_UR,VAR_1
+P_KPROC,VAR_2
+TRAPF_USERMODE,FUNC_0
+atomic_add_int,FUNC_1
+curthread,VAR_3
+pmc_add_sample,FUNC_2
+pmc_process_interrupt,FUNC_3
+ring,VAR_4
+pm,VAR_5
+tf,VAR_6
+td,VAR_7

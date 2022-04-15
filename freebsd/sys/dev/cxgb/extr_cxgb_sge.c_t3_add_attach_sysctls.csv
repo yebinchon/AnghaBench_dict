@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_STRING,FUNC_1
+SYSCTL_ADD_UINT,FUNC_2
+SYSCTL_ADD_UQUAD,FUNC_3
+SYSCTL_CHILDREN,FUNC_4
+cxgb_debug,VAR_3
+device_get_sysctl_ctx,FUNC_5
+device_get_sysctl_tree,FUNC_6
+txq_fills,VAR_4
+t3_add_attach_sysctls,FUNC_7
+sc,VAR_5
+ctx,VAR_6
+children,VAR_7

@@ -1,0 +1,15 @@
+SIGCONT,VAR_0
+SIGHUP,VAR_1
+SIGINT,VAR_2
+SIGTERM,VAR_3
+SIGUSR1,VAR_4
+SIG_SETMASK,VAR_5
+mark_exit_flag,VAR_6
+mark_hup_flag,VAR_7
+mark_usr1_flag,VAR_8
+pthread_sigmask,FUNC_0
+saved_sigset,VAR_9
+sigaction,FUNC_1
+sigemptyset,FUNC_2
+setup_signals,FUNC_3
+act,VAR_10

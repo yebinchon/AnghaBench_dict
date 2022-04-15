@@ -1,0 +1,17 @@
+AMD_PG_STATE_GATE,VAR_0
+AMD_PG_SUPPORT_CP,VAR_1
+AMD_PG_SUPPORT_RLC_SMU_HS,VAR_2
+amdgpu_gfx_off_ctrl,FUNC_0
+cancel_delayed_work_sync,FUNC_1
+gfx_v9_0_enable_cp_power_gating,FUNC_2
+gfx_v9_0_enable_sck_slow_down_on_power_down,FUNC_3
+gfx_v9_0_enable_sck_slow_down_on_power_up,FUNC_4
+gfx_v9_0_update_gfx_cg_power_gating,FUNC_5
+gfx_v9_0_update_gfx_mg_power_gating,FUNC_6
+is_support_sw_smu,FUNC_7
+smu_set_gfx_cgpg,FUNC_8
+gfx_v9_0_set_powergating_state,FUNC_9
+handle,VAR_3
+state,VAR_4
+adev,VAR_5
+enable,VAR_6

@@ -1,0 +1,15 @@
+PNX8XXX_ICLR,VAR_0
+PNX8XXX_IEN,VAR_1
+PNX8XXX_UART_INT_ALLRX,VAR_2
+PNX8XXX_UART_INT_ALLTX,VAR_3
+pnx8xxx_enable_ms,FUNC_0
+pnx8xxx_int,VAR_4
+request_irq,FUNC_1
+serial_in,FUNC_2
+serial_out,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+pnx8xxx_startup,FUNC_6
+port,VAR_5
+sport,VAR_6
+retval,VAR_7

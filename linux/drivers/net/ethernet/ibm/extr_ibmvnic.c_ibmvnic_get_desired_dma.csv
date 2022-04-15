@@ -1,0 +1,14 @@
+IBMVNIC_IO_ENTITLEMENT_DEFAULT,VAR_0
+IOMMU_PAGE_ALIGN,FUNC_0
+PAGE_SIZE,VAR_1
+be32_to_cpu,FUNC_1
+dev_get_drvdata,FUNC_2
+get_iommu_table_base,FUNC_3
+netdev_priv,FUNC_4
+ibmvnic_get_desired_dma,FUNC_5
+vdev,VAR_2
+netdev,VAR_3
+adapter,VAR_4
+tbl,VAR_5
+ret,VAR_6
+i,VAR_7

@@ -1,0 +1,17 @@
+A_MC5_DB_DBGI_REQ_DATA0,VAR_0
+A_MC5_DB_SERVER_INDEX,VAR_1
+MC5_MODE_144_BIT,VAR_2
+dbgi_wr_data3,FUNC_0
+mc5_write,FUNC_1
+t3_read_reg,FUNC_2
+t3_write_reg,FUNC_3
+init_mask_data_array,FUNC_4
+mc5,VAR_3
+mask_array_base,VAR_4
+data_array_base,VAR_5
+write_cmd,VAR_6
+addr_shift,VAR_7
+i,VAR_8
+adap,VAR_9
+size72,VAR_10
+server_base,VAR_11

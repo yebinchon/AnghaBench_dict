@@ -1,0 +1,16 @@
+APR_INET6,VAR_0
+IN6_IS_ADDR_V4MAPPED,FUNC_0
+NUM_BUF_SIZE,VAR_1
+TRUE,VAR_2
+apr_sockaddr_ip_getbuf,FUNC_1
+conv_10,FUNC_2
+memcpy,FUNC_3
+strlen,FUNC_4
+conv_apr_sockaddr,FUNC_5
+sa,VAR_3
+buf_end,VAR_4
+len,VAR_5
+p,VAR_6
+is_negative,VAR_7
+sub_len,VAR_8
+ipaddr_str,VAR_9

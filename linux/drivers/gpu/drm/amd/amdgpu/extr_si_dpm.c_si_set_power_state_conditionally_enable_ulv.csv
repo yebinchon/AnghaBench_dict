@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+PPSMC_MSG_EnableULV,VAR_1
+PPSMC_Result_OK,VAR_2
+amdgpu_si_send_msg_to_smc,FUNC_0
+si_get_pi,FUNC_1
+si_is_state_ulv_compatible,FUNC_2
+si_set_power_state_conditionally_enable_ulv,FUNC_3
+adev,VAR_3
+amdgpu_new_state,VAR_4
+si_pi,VAR_5
+ulv,VAR_6

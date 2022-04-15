@@ -1,0 +1,17 @@
+BUG,FUNC_0
+HYPERVISOR_set_trap_table,FUNC_1
+__get_cpu_var,FUNC_2
+cvt_gate_to_trap,FUNC_3
+idt_desc,VAR_0
+native_write_idt_entry,FUNC_4
+preempt_disable,FUNC_5
+preempt_enable,FUNC_6
+xen_mc_flush,FUNC_7
+xen_write_idt_entry,FUNC_8
+dt,VAR_1
+entrynum,VAR_2
+g,VAR_3
+p,VAR_4
+start,VAR_5
+end,VAR_6
+info,VAR_7

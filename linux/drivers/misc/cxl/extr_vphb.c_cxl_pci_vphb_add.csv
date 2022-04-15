@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+ENXIO,VAR_1
+cxl_pci_controller_ops,VAR_2
+cxl_pcie_pci_ops,VAR_3
+pci_bus_add_devices,FUNC_0
+pci_set_host_bridge_release,FUNC_1
+pcibios_alloc_controller,FUNC_2
+pcibios_claim_one_bus,FUNC_3
+pcibios_free_controller_deferred,VAR_4
+pcibios_scan_phb,FUNC_4
+to_pci_host_bridge,FUNC_5
+cxl_pci_vphb_add,FUNC_6
+afu,VAR_5
+phb,VAR_6
+vphb_dn,VAR_7
+parent,VAR_8

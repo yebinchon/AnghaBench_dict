@@ -1,0 +1,8 @@
+FLOW_BLOCK_BINDER_TYPE_CLSACT_EGRESS,VAR_0
+FLOW_BLOCK_BINDER_TYPE_CLSACT_INGRESS,VAR_1
+netif_keep_dst,FUNC_0
+qdisc_dev,FUNC_1
+tcf_block_owner_netif_keep_dst,FUNC_2
+block,VAR_2
+q,VAR_3
+binder_type,VAR_4

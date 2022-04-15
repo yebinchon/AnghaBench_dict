@@ -1,0 +1,17 @@
+BGX_CMRX_CFG,VAR_0
+BGX_MODE_10G_KR,VAR_1
+BGX_MODE_40G_KR,VAR_2
+BGX_MODE_XFI,VAR_3
+BGX_MODE_XLAUI,VAR_4
+LMAC_PHY_DISCONNECT,FUNC_0
+bgx_flush_dmac_addrs,FUNC_1
+bgx_reg_read,FUNC_2
+bgx_reg_write,FUNC_3
+callout_drain,FUNC_4
+device_printf,FUNC_5
+mtx_destroy,FUNC_6
+bgx_lmac_disable,FUNC_7
+bgx,VAR_5
+lmacid,VAR_6
+lmac,VAR_7
+cmrx_cfg,VAR_8

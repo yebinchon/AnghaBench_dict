@@ -1,0 +1,17 @@
+ISCSI_OPCODE_MASK,VAR_0
+ISCSI_OP_LOGOUT,VAR_1
+ISCSI_OP_TEXT,VAR_2
+ISCSI_REASON_PROTOCOL_ERROR,VAR_3
+PDUCBF_RX_HCRC_ERR,VAR_4
+TARG_CONN_STATE_IN_LOGOUT,VAR_5
+atomic_long_inc,FUNC_0
+cxgbit_rx_pdu_cb,FUNC_1
+cxgbit_target_rx_opcode,FUNC_2
+iscsit_add_reject,FUNC_3
+pr_err,FUNC_4
+cxgbit_rx_opcode,FUNC_5
+csk,VAR_6
+pdu_cb,VAR_7
+conn,VAR_8
+hdr,VAR_9
+opcode,VAR_10

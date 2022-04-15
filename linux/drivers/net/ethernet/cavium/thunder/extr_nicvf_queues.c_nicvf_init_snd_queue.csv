@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+MAX_SND_QUEUES_PER_QS,VAR_2
+NICVF_SQ_BASE_ALIGN_BYTES,VAR_3
+SND_QUEUE_DESC_SIZE,VAR_4
+SND_QUEUE_THRESH,VAR_5
+TSO_HEADER_SIZE,VAR_6
+atomic_set,FUNC_0
+dma_alloc_coherent,FUNC_1
+kcalloc,FUNC_2
+nicvf_alloc_q_desc_mem,FUNC_3
+nicvf_init_snd_queue,FUNC_4
+nic,VAR_7
+sq,VAR_8
+q_len,VAR_9
+qidx,VAR_10
+err,VAR_11

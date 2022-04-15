@@ -1,0 +1,12 @@
+ENERGY_PERF_BIAS_NORMAL,VAR_0
+ENERGY_PERF_BIAS_PERFORMANCE,VAR_1
+EPB_MASK,VAR_2
+MSR_IA32_ENERGY_PERF_BIAS,VAR_3
+pr_warn_once,FUNC_0
+rdmsrl,FUNC_1
+saved_epb,VAR_4
+this_cpu_read,FUNC_2
+wrmsrl,FUNC_3
+intel_epb_restore,FUNC_4
+val,VAR_5
+epb,VAR_6

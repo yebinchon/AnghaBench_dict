@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_WAKE_THREAD,VAR_1
+RCV_PKT_LIMIT,VAR_2
+aspm_ctx_disable,FUNC_0
+check_packet_present,FUNC_1
+clear_recv_intr,FUNC_2
+force_recv_intr,FUNC_3
+stub1,FUNC_4
+this_cpu_inc,FUNC_5
+trace_hfi1_receive_interrupt,FUNC_6
+receive_context_interrupt,FUNC_7
+irq,VAR_3
+data,VAR_4
+rcd,VAR_5
+dd,VAR_6
+disposition,VAR_7
+present,VAR_8

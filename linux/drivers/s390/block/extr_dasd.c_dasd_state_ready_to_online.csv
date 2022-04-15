@@ -1,0 +1,16 @@
+DASD_FEATURE_USERAW,VAR_0
+DASD_STATE_ONLINE,VAR_1
+DISK_PITER_INCL_PART0,VAR_2
+KOBJ_CHANGE,VAR_3
+dasd_schedule_block_bh,FUNC_0
+disk_part_iter_exit,FUNC_1
+disk_part_iter_init,FUNC_2
+disk_part_iter_next,FUNC_3
+disk_to_dev,FUNC_4
+kobject_uevent,FUNC_5
+part_to_dev,FUNC_6
+dasd_state_ready_to_online,FUNC_7
+device,VAR_4
+disk,VAR_5
+piter,VAR_6
+part,VAR_7

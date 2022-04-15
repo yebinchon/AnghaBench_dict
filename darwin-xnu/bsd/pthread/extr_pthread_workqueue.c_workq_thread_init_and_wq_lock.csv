@@ -1,0 +1,17 @@
+MACH_PORT_NULL,VAR_0
+THREAD_QOS_LEGACY,VAR_1
+THREAD_TAG_PTHREAD,VAR_2
+THREAD_TAG_WORKQUEUE,VAR_3
+UT_WORKQ_NEW,VAR_4
+WORKQ_POLICY_INIT,FUNC_0
+get_bsdtask_info,FUNC_1
+get_bsdthread_info,FUNC_2
+proc_get_wqptr_fast,FUNC_3
+thread_reset_workq_qos,FUNC_4
+thread_set_tag,FUNC_5
+workq_lock_spin,FUNC_6
+workq_parked_wait_event,FUNC_7
+workq_thread_init_and_wq_lock,FUNC_8
+task,VAR_5
+th,VAR_6
+uth,VAR_7

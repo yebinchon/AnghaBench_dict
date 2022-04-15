@@ -1,0 +1,13 @@
+DMA_MR,VAR_0
+DMA_MR_SWR_LEN,VAR_1
+DMA_MR_SWR_POS,VAR_2
+EBUSY,VAR_3
+XLGMAC_GET_REG_BITS,FUNC_0
+XLGMAC_SET_REG_BITS,FUNC_1
+readl,FUNC_2
+usleep_range,FUNC_3
+writel,FUNC_4
+xlgmac_hw_exit,FUNC_5
+pdata,VAR_4
+count,VAR_5
+regval,VAR_6

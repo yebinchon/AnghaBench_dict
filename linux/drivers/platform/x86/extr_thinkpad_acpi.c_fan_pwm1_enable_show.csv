@@ -1,0 +1,12 @@
+PAGE_SIZE,VAR_0
+TP_EC_FAN_AUTO,VAR_1
+TP_EC_FAN_FULLSPEED,VAR_2
+fan_get_status_safe,FUNC_0
+snprintf,FUNC_1
+fan_pwm1_enable_show,FUNC_2
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+res,VAR_6
+mode,VAR_7
+status,VAR_8

@@ -1,0 +1,16 @@
+COMPLETION_FINALIZE,VAR_0
+EINVAL,VAR_1
+XFER_NONE,VAR_2
+XFER_READ,VAR_3
+XFER_WRITE,VAR_4
+clear_imask,FUNC_0
+dbg,FUNC_1
+dbg_err,VAR_5
+do_pio_read,FUNC_2
+do_pio_write,FUNC_3
+finalize_request,FUNC_4
+s3cmci_disable_irq,FUNC_5
+s3cmci_enable_irq,FUNC_6
+pio_tasklet,FUNC_7
+data,VAR_6
+host,VAR_7

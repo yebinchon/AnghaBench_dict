@@ -1,0 +1,12 @@
+FB_BLANK_UNBLANK,VAR_0
+PWM_CUPD,VAR_1
+bl_get_data,FUNC_0
+gpio_set_value,FUNC_1
+pwm_channel_disable,FUNC_2
+pwm_channel_enable,FUNC_3
+pwm_channel_writel,FUNC_4
+atmel_pwm_bl_set_intensity,FUNC_5
+bd,VAR_2
+pwmbl,VAR_3
+intensity,VAR_4
+pwm_duty,VAR_5

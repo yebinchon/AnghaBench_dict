@@ -1,0 +1,10 @@
+AC_VERB_SET_PIN_WIDGET_CONTROL,VAR_0
+PIN_VREF80,VAR_1
+msleep,FUNC_0
+snd_hda_codec_write,FUNC_1
+snd_hda_gen_hp_automute,FUNC_2
+alc269_x101_hp_automute_hook,FUNC_3
+codec,VAR_2
+jack,VAR_3
+spec,VAR_4
+vref,VAR_5

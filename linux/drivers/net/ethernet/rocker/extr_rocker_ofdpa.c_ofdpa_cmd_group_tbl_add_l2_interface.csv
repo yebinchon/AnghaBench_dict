@@ -1,0 +1,9 @@
+EMSGSIZE,VAR_0
+ROCKER_GROUP_PORT_GET,FUNC_0
+ROCKER_TLV_OF_DPA_OUT_PPORT,VAR_1
+ROCKER_TLV_OF_DPA_POP_VLAN,VAR_2
+rocker_tlv_put_u32,FUNC_1
+rocker_tlv_put_u8,FUNC_2
+ofdpa_cmd_group_tbl_add_l2_interface,FUNC_3
+desc_info,VAR_3
+entry,VAR_4

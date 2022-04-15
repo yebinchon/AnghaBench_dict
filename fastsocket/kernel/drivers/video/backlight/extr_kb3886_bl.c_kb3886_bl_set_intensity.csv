@@ -1,0 +1,11 @@
+KB3886_ADC_DAC_PWM,VAR_0
+KB3886_IO,VAR_1
+KB3886_PARENT,VAR_2
+KB3886_PWM0_WRITE,VAR_3
+bl_mutex,VAR_4
+msleep,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+outb,FUNC_3
+kb3886_bl_set_intensity,FUNC_4
+intensity,VAR_5

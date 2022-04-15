@@ -1,0 +1,15 @@
+FORTUNA_LOCKED,VAR_0
+KASSERT,FUNC_0
+RANDOM_KEYSIZE,VAR_1
+RANDOM_RESEED_ASSERT_LOCK_NOT_OWNED,FUNC_1
+RANDOM_RESEED_LOCK,FUNC_2
+explicit_bzero,FUNC_3
+fortuna_concurrent_read,VAR_2
+fortuna_state,VAR_3
+random_fortuna_genbytes,FUNC_4
+random_fortuna_read_concurrent,FUNC_5
+uint128_is_zero,FUNC_6
+random_fortuna_read,FUNC_7
+buf,VAR_4
+bytecount,VAR_5
+newkey,VAR_6

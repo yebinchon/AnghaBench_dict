@@ -1,0 +1,17 @@
+DDC_ADDR,VAR_0
+DDC_SEGMENT_ADDR,VAR_1
+DRM_DEBUG_KMS,FUNC_0
+EDID_LENGTH,VAR_2
+IIC_M_RD,VAR_3
+iicbus_transfer,FUNC_1
+drm_do_probe_ddc_edid,FUNC_2
+adapter,VAR_4
+buf,VAR_5
+block,VAR_6
+len,VAR_7
+start,VAR_8
+segment,VAR_9
+xfers,VAR_10
+ret,VAR_11
+retries,VAR_12
+msgs,VAR_13

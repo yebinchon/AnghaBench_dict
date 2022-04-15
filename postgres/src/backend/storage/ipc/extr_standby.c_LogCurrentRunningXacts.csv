@@ -1,0 +1,16 @@
+DEBUG2,VAR_0
+MinSizeOfXactRunningXacts,VAR_1
+RM_STANDBY_ID,VAR_2
+XLOG_MARK_UNIMPORTANT,VAR_3
+XLOG_RUNNING_XACTS,VAR_4
+XLogBeginInsert,FUNC_0
+XLogInsert,FUNC_1
+XLogRegisterData,FUNC_2
+XLogSetAsyncXactLSN,FUNC_3
+XLogSetRecordFlags,FUNC_4
+elog,FUNC_5
+trace_recovery,FUNC_6
+LogCurrentRunningXacts,FUNC_7
+CurrRunningXacts,VAR_5
+xlrec,VAR_6
+recptr,VAR_7

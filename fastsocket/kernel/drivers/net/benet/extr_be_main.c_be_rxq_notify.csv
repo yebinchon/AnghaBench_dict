@@ -1,0 +1,10 @@
+DB_RQ_NUM_POSTED_SHIFT,VAR_0
+DB_RQ_OFFSET,VAR_1
+DB_RQ_RING_ID_MASK,VAR_2
+iowrite32,FUNC_0
+wmb,FUNC_1
+be_rxq_notify,FUNC_2
+adapter,VAR_3
+qid,VAR_4
+posted,VAR_5
+val,VAR_6

@@ -1,0 +1,15 @@
+br_asn1_encode_length,FUNC_0
+br_encode_rsa_raw_der,FUNC_1
+len_of_len,FUNC_2
+memcpy,FUNC_3
+br_encode_rsa_pkcs8_der,FUNC_4
+dest,VAR_0
+sk,VAR_1
+pk,VAR_2
+d,VAR_3
+dlen,VAR_4
+PK8_HEAD,VAR_5
+len_raw,VAR_6
+len_seq,VAR_7
+buf,VAR_8
+lenlen,VAR_9

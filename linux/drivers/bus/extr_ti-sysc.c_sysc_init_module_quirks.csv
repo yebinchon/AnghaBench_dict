@@ -1,0 +1,11 @@
+SYSC_MODULE_QUIRK_HDQ1W,VAR_0
+SYSC_MODULE_QUIRK_I2C,VAR_1
+SYSC_MODULE_QUIRK_SGX,VAR_2
+SYSC_MODULE_QUIRK_WDT,VAR_3
+sysc_clk_disable_quirk_i2c,VAR_4
+sysc_clk_enable_quirk_hdq1w,VAR_5
+sysc_clk_enable_quirk_i2c,VAR_6
+sysc_module_enable_quirk_sgx,VAR_7
+sysc_reset_done_quirk_wdt,VAR_8
+sysc_init_module_quirks,FUNC_0
+ddata,VAR_9

@@ -1,0 +1,10 @@
+DEBUG_PRINTF,FUNC_0
+PVSCSI_CMD_RESET_DEVICE,VAR_0
+device_printf,FUNC_1
+memset,FUNC_2
+pvscsi_process_cmp_ring,FUNC_3
+pvscsi_write_cmd,FUNC_4
+pvscsi_device_reset,FUNC_5
+sc,VAR_1
+target,VAR_2
+cmd,VAR_3

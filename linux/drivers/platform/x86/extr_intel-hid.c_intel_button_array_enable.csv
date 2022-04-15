@@ -1,0 +1,14 @@
+ACPI_FAILURE,FUNC_0
+ACPI_HANDLE,FUNC_1
+INTEL_HID_DSM_BTNE_FN,VAR_0
+acpi_evaluate_integer,FUNC_2
+dev_get_drvdata,FUNC_3
+dev_warn,FUNC_4
+intel_hid_execute_method,FUNC_5
+intel_button_array_enable,FUNC_6
+device,VAR_1
+enable,VAR_2
+priv,VAR_3
+handle,VAR_4
+button_cap,VAR_5
+status,VAR_6

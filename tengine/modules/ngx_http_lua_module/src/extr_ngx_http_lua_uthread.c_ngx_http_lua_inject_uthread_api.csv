@@ -1,0 +1,9 @@
+lua_createtable,FUNC_0
+lua_pushcfunction,FUNC_1
+lua_setfield,FUNC_2
+ngx_http_lua_uthread_kill,VAR_0
+ngx_http_lua_uthread_spawn,VAR_1
+ngx_http_lua_uthread_wait,VAR_2
+ngx_http_lua_inject_uthread_api,FUNC_3
+log,VAR_3
+L,VAR_4

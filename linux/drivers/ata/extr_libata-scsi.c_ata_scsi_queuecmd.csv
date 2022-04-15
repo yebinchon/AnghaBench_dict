@@ -1,0 +1,17 @@
+DID_BAD_TARGET,VAR_0
+__ata_scsi_queuecmd,FUNC_0
+ata_scsi_dump_cdb,FUNC_1
+ata_scsi_find_dev,FUNC_2
+ata_shost_to_port,FUNC_3
+likely,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+stub1,FUNC_7
+ata_scsi_queuecmd,FUNC_8
+shost,VAR_1
+cmd,VAR_2
+ap,VAR_3
+dev,VAR_4
+scsidev,VAR_5
+rc,VAR_6
+irq_flags,VAR_7

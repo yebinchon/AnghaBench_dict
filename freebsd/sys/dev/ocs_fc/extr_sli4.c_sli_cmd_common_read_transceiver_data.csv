@@ -1,0 +1,15 @@
+SLI4_OPC_COMMON_READ_TRANSCEIVER_DATA,VAR_0
+SLI4_PORT_TYPE_FC,VAR_1
+SLI4_SUBSYSTEM_COMMON,VAR_2
+max,FUNC_0
+ocs_memset,FUNC_1
+sli_cmd_sli_config,FUNC_2
+sli_cmd_common_read_transceiver_data,FUNC_3
+sli4,VAR_3
+buf,VAR_4
+size,VAR_5
+page_num,VAR_6
+dma,VAR_7
+req,VAR_8
+sli_config_off,VAR_9
+payload_size,VAR_10

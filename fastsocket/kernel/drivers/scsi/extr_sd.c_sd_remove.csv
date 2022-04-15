@@ -1,0 +1,17 @@
+async_synchronize_full_domain,FUNC_0
+blk_queue_prep_rq,FUNC_1
+blk_queue_unprep_rq,FUNC_2
+del_gendisk,FUNC_3
+dev_get_drvdata,FUNC_4
+dev_set_drvdata,FUNC_5
+device_del,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+put_device,FUNC_9
+scsi_prep_fn,VAR_0
+scsi_sd_probe_domain,VAR_1
+sd_ref_mutex,VAR_2
+sd_shutdown,FUNC_10
+sd_remove,FUNC_11
+dev,VAR_3
+sdkp,VAR_4

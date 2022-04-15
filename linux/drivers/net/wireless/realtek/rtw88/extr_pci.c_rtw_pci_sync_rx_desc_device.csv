@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+RTK_PCI_RX_BUF_SIZE,VAR_1
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+dma_sync_single_for_device,FUNC_2
+memset,FUNC_3
+rtw_pci_sync_rx_desc_device,FUNC_4
+rtwdev,VAR_2
+dma,VAR_3
+rx_ring,VAR_4
+idx,VAR_5
+desc_sz,VAR_6
+dev,VAR_7
+buf_desc,VAR_8
+buf_sz,VAR_9

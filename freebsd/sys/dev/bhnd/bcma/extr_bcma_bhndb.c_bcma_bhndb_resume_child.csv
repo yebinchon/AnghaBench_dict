@@ -1,0 +1,14 @@
+BHNDB_RESUME_RESOURCE,FUNC_0
+BHNDB_SUSPEND_RESOURCE,FUNC_1
+BUS_SUSPEND_CHILD,FUNC_2
+EBUSY,VAR_0
+SYS_RES_MEMORY,VAR_1
+bhnd_generic_br_resume_child,FUNC_3
+device_get_ivars,FUNC_4
+device_get_parent,FUNC_5
+device_is_suspended,FUNC_6
+bcma_bhndb_resume_child,FUNC_7
+dev,VAR_2
+child,VAR_3
+dinfo,VAR_4
+error,VAR_5

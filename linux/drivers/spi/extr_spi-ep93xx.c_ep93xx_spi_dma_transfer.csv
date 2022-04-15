@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+dev_err,FUNC_2
+dma_async_issue_pending,FUNC_3
+dmaengine_submit,FUNC_4
+ep93xx_spi_dma_callback,VAR_2
+ep93xx_spi_dma_finish,FUNC_5
+ep93xx_spi_dma_prepare,FUNC_6
+spi_master_get_devdata,FUNC_7
+ep93xx_spi_dma_transfer,FUNC_8
+master,VAR_3
+espi,VAR_4
+rxd,VAR_5
+txd,VAR_6

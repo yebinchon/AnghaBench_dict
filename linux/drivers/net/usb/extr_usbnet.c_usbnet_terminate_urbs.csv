@@ -1,0 +1,15 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+add_wait_queue,FUNC_1
+current,VAR_2
+ifdown,VAR_3
+netif_dbg,FUNC_2
+remove_wait_queue,FUNC_3
+set_current_state,FUNC_4
+unlink_urbs,FUNC_5
+wait,VAR_4
+wait_skb_queue_empty,FUNC_6
+usbnet_terminate_urbs,FUNC_7
+dev,VAR_5
+temp,VAR_6

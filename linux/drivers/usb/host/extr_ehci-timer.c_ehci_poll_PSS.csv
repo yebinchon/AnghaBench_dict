@@ -1,0 +1,13 @@
+CMD_PSE,VAR_0
+EHCI_HRTIMER_DISABLE_PERIODIC,VAR_1
+EHCI_HRTIMER_POLL_PSS,VAR_2
+EHCI_RH_RUNNING,VAR_3
+STS_PSS,VAR_4
+ehci_dbg,FUNC_0
+ehci_enable_event,FUNC_1
+ehci_readl,FUNC_2
+ehci_set_command_bit,FUNC_3
+ehci_poll_PSS,FUNC_4
+ehci,VAR_5
+actual,VAR_6
+want,VAR_7

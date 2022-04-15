@@ -1,0 +1,11 @@
+FPGA_NAND_CMD_WRITE,VAR_0
+FPGA_NAND_DATA_SHIFT,VAR_1
+FPGA_NAND_ENABLE,VAR_2
+out_be32,FUNC_0
+socrates_nand_write_buf,FUNC_1
+mtd,VAR_3
+buf,VAR_4
+len,VAR_5
+i,VAR_6
+this,VAR_7
+host,VAR_8

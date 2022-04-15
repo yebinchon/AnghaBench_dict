@@ -1,0 +1,8 @@
+APPLESMC_READ_CMD,VAR_0
+KEY_COUNT_KEY,VAR_1
+be32_to_cpu,FUNC_0
+read_smc,FUNC_1
+read_register_count,FUNC_2
+count,VAR_2
+be,VAR_3
+ret,VAR_4

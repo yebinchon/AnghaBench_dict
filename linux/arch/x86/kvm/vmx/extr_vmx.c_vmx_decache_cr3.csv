@@ -1,0 +1,9 @@
+GUEST_CR3,VAR_0
+VCPU_EXREG_CR3,VAR_1
+__set_bit,FUNC_0
+enable_ept,VAR_2
+enable_unrestricted_guest,VAR_3
+is_paging,FUNC_1
+vmcs_readl,FUNC_2
+vmx_decache_cr3,FUNC_3
+vcpu,VAR_4

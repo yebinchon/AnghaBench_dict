@@ -1,0 +1,16 @@
+ML26124_BLT_ALL_ON,VAR_0
+ML26124_BLT_PREAMP_ON,VAR_1
+ML26124_MICBEN_ON,VAR_2
+ML26124_PW_REF_PW_MNG,VAR_3
+ML26124_PW_SPAMP_PW_MNG,VAR_4
+ML26124_R26_MASK,VAR_5
+ML26124_VMID,VAR_6
+msleep,FUNC_0
+regcache_sync,FUNC_1
+snd_soc_component_get_bias_level,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+snd_soc_component_update_bits,FUNC_4
+ml26124_set_bias_level,FUNC_5
+component,VAR_7
+level,VAR_8
+priv,VAR_9

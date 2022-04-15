@@ -1,0 +1,17 @@
+BMCR_PDOWN,VAR_0
+CHIPMODE_REVFM,FUNC_0
+CSR_READ_4,FUNC_1
+CSR_WRITE_4,FUNC_2
+JME_PCI_PE1,VAR_1
+JME_PHYPOWDN,VAR_2
+MII_BMCR,VAR_3
+PE1_GIGA_PDOWN_DIS,VAR_4
+PE1_GIGA_PDOWN_MASK,VAR_5
+jme_miibus_readreg,FUNC_3
+jme_miibus_writereg,FUNC_4
+pci_read_config,FUNC_5
+pci_write_config,FUNC_6
+jme_phy_up,FUNC_7
+sc,VAR_6
+reg,VAR_7
+bmcr,VAR_8

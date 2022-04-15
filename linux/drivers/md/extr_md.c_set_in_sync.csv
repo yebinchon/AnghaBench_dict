@@ -1,0 +1,12 @@
+MD_SB_CHANGE_CLEAN,VAR_0
+lockdep_assert_held,FUNC_0
+percpu_ref_is_zero,FUNC_1
+percpu_ref_switch_to_atomic_sync,FUNC_2
+percpu_ref_switch_to_percpu,FUNC_3
+set_bit,FUNC_4
+smp_mb,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+sysfs_notify_dirent_safe,FUNC_8
+set_in_sync,FUNC_9
+mddev,VAR_1

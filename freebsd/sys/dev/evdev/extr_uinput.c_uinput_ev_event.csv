@@ -1,0 +1,14 @@
+EV_LED,VAR_0
+UINPUT_LOCK,FUNC_0
+UINPUT_RUNNING,VAR_1
+UINPUT_UNLOCK,FUNC_1
+evdev_get_softc,FUNC_2
+evdev_push_event,FUNC_3
+uinput_enqueue_event,FUNC_4
+uinput_notify,FUNC_5
+uinput_ev_event,FUNC_6
+evdev,VAR_2
+type,VAR_3
+code,VAR_4
+value,VAR_5
+state,VAR_6

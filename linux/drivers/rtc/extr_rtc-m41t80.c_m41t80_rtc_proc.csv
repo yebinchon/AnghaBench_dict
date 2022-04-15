@@ -1,0 +1,13 @@
+M41T80_FEATURE_BL,VAR_0
+M41T80_FLAGS_BATT_LOW,VAR_1
+M41T80_REG_FLAGS,VAR_2
+i2c_get_clientdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+seq_printf,FUNC_2
+to_i2c_client,FUNC_3
+m41t80_rtc_proc,FUNC_4
+dev,VAR_3
+seq,VAR_4
+client,VAR_5
+clientdata,VAR_6
+reg,VAR_7

@@ -1,0 +1,12 @@
+GICR_CTLR_ENABLE_LPIS,VAR_0
+vgic_enable_lpis,FUNC_0
+vgic_flush_pending_lpis,FUNC_1
+vgic_has_its,FUNC_2
+vgic_its_invalidate_cache,FUNC_3
+vgic_mmio_write_v3r_ctlr,FUNC_4
+vcpu,VAR_1
+addr,VAR_2
+len,VAR_3
+val,VAR_4
+vgic_cpu,VAR_5
+was_enabled,VAR_6

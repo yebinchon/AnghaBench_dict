@@ -1,0 +1,8 @@
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_must_pass,FUNC_2
+git_path_is_empty_dir,FUNC_3
+p_mkdir,FUNC_4
+p_rmdir,FUNC_5
+p_unlink,FUNC_6
+test_core_dirent__empty_dir,FUNC_7

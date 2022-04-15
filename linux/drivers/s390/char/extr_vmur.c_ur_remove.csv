@@ -1,0 +1,15 @@
+TRACE,FUNC_0
+dev_get_drvdata,FUNC_1
+dev_set_drvdata,FUNC_2
+get_ccwdev_lock,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+ur_remove_attributes,FUNC_8
+ur_set_offline_force,FUNC_9
+urdev_put,FUNC_10
+vmur_mutex,VAR_0
+ur_remove,FUNC_11
+cdev,VAR_1
+flags,VAR_2

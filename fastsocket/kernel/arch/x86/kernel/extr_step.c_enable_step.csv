@@ -1,0 +1,13 @@
+DEBUGCTLMSR_BTF,VAR_0
+TIF_BLOCKSTEP,VAR_1
+clear_tsk_thread_flag,FUNC_0
+enable_single_step,FUNC_1
+get_debugctlmsr,FUNC_2
+set_tsk_thread_flag,FUNC_3
+test_tsk_thread_flag,FUNC_4
+update_debugctlmsr,FUNC_5
+enable_step,FUNC_6
+child,VAR_2
+block,VAR_3
+debugctl,VAR_4
+debugctl,VAR_5

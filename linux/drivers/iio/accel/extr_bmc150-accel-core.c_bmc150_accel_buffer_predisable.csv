@@ -1,0 +1,13 @@
+BMC150_ACCEL_FIFO_LENGTH,VAR_0
+BMC150_ACCEL_INT_WATERMARK,VAR_1
+INDIO_BUFFER_TRIGGERED,VAR_2
+__bmc150_accel_fifo_flush,FUNC_0
+bmc150_accel_fifo_set_mode,FUNC_1
+bmc150_accel_set_interrupt,FUNC_2
+iio_priv,FUNC_3
+iio_triggered_buffer_predisable,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+bmc150_accel_buffer_predisable,FUNC_7
+indio_dev,VAR_3
+data,VAR_4

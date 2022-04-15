@@ -1,0 +1,10 @@
+decode_rl_address,FUNC_0
+decode_rl_byte_register,FUNC_1
+fetch_decode_modrm,FUNC_2
+store_data_byte,FUNC_3
+common_set_byte,FUNC_4
+emu,VAR_0
+cond,VAR_1
+destoffset,VAR_2
+destreg,VAR_3
+destval,VAR_4

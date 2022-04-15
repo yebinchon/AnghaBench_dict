@@ -1,0 +1,17 @@
+EREMOTEIO,VAR_0
+ETIMEDOUT,VAR_1
+VL_REG_RESULT_RANGE_STATUS,VAR_2
+VL_REG_RESULT_RANGE_STATUS_COMPLETE,VAR_3
+VL_REG_SYSRANGE_START,VAR_4
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_read_i2c_block_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+usleep_range,FUNC_3
+vl53l0x_read_proximity,FUNC_4
+data,VAR_5
+chan,VAR_6
+val,VAR_7
+client,VAR_8
+tries,VAR_9
+buffer,VAR_10
+ret,VAR_11

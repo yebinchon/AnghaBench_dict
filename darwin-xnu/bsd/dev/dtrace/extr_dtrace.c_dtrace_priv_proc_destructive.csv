@@ -1,0 +1,17 @@
+CPU,VAR_0
+CPU_DTRACE_UPRIV,VAR_1
+DTRACE_CRA_PROC_DESTRUCTIVE_ALLUSER,VAR_2
+DTRACE_CRA_PROC_DESTRUCTIVE_ALLZONE,VAR_3
+DTRACE_CRA_PROC_DESTRUCTIVE_CREDCHG,VAR_4
+ISSET,FUNC_0
+P_LNOATTACH,VAR_5
+cpu_core,VAR_6
+current_proc,FUNC_1
+dtrace_can_attach_to_proc,FUNC_2
+dtrace_is_restricted,FUNC_3
+dtrace_priv_proc_common_nocd,FUNC_4
+dtrace_priv_proc_common_user,FUNC_5
+dtrace_priv_proc_common_zone,FUNC_6
+dtrace_priv_proc_destructive,FUNC_7
+state,VAR_7
+action,VAR_8

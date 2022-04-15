@@ -1,0 +1,17 @@
+ML_HEARTBEAT,VAR_0
+O2HB_MAX_WRITE_TIMEOUT_MS,VAR_1
+O2HB_NEGO_TIMEOUT_MS,VAR_2
+atomic_read,FUNC_0
+cancel_delayed_work,FUNC_1
+clear_bit,FUNC_2
+memset,FUNC_3
+mlog,FUNC_4
+msecs_to_jiffies,FUNC_5
+o2hb_failed_region_bitmap,VAR_3
+o2hb_global_heartbeat_active,FUNC_6
+o2hb_live_lock,VAR_4
+schedule_delayed_work,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+o2hb_arm_timeout,FUNC_10
+reg,VAR_5

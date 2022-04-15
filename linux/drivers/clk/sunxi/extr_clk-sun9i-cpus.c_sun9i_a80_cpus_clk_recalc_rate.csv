@@ -1,0 +1,12 @@
+SUN9I_CPUS_DIV_GET,FUNC_0
+SUN9I_CPUS_MUX_GET_PARENT,FUNC_1
+SUN9I_CPUS_MUX_PARENT_PLL4,VAR_0
+SUN9I_CPUS_PLL4_DIV_GET,FUNC_2
+readl,FUNC_3
+to_sun9i_a80_cpus_clk,FUNC_4
+sun9i_a80_cpus_clk_recalc_rate,FUNC_5
+hw,VAR_1
+parent_rate,VAR_2
+cpus,VAR_3
+rate,VAR_4
+reg,VAR_5

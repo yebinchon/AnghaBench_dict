@@ -1,0 +1,15 @@
+arm_pmu_event_max_period,FUNC_0
+local64_read,FUNC_1
+local64_set,FUNC_2
+perf_event_update_userpage,FUNC_3
+stub1,FUNC_4
+to_arm_pmu,FUNC_5
+unlikely,FUNC_6
+armpmu_event_set_period,FUNC_7
+event,VAR_0
+armpmu,VAR_1
+hwc,VAR_2
+left,VAR_3
+period,VAR_4
+max_period,VAR_5
+ret,VAR_6

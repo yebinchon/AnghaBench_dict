@@ -1,0 +1,6 @@
+TEGRA30_I2S_CTRL,VAR_0
+TEGRA30_I2S_CTRL_XFER_EN_RX,VAR_1
+regmap_update_bits,FUNC_0
+tegra30_ahub_enable_rx_fifo,FUNC_1
+tegra30_i2s_start_capture,FUNC_2
+i2s,VAR_2

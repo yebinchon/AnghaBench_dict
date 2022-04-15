@@ -1,0 +1,16 @@
+SDCLK_DELAY_MASK,VAR_0
+SDCLK_DELAY_SHIFT,VAR_1
+SDCLK_SEL,VAR_2
+SDHCI_RESET_ALL,VAR_3
+SD_CLOCK_BURST_SIZE_SETUP,VAR_4
+mmc_dev,FUNC_0
+readw,FUNC_1
+sdhci_reset,FUNC_2
+to_platform_device,FUNC_3
+writew,FUNC_4
+pxav3_reset,FUNC_5
+host,VAR_5
+mask,VAR_6
+pdev,VAR_7
+pdata,VAR_8
+tmp,VAR_9

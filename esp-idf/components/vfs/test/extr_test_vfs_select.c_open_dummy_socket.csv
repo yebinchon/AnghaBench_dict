@@ -1,0 +1,12 @@
+AF_INET,VAR_0
+SOCK_DGRAM,VAR_1
+TEST_ASSERT,FUNC_0
+TEST_ASSERT_EQUAL,FUNC_1
+TEST_ASSERT_NOT_NULL,FUNC_2
+getaddrinfo,FUNC_3
+socket,FUNC_4
+open_dummy_socket,FUNC_5
+hints,VAR_2
+res,VAR_3
+err,VAR_4
+dummy_socket_fd,VAR_5

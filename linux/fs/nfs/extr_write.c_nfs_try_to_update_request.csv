@@ -1,0 +1,15 @@
+ERR_PTR,FUNC_0
+IS_ERR_OR_NULL,FUNC_1
+nfs_lock_and_join_requests,FUNC_2
+nfs_mark_request_dirty,FUNC_3
+nfs_unlock_and_release_request,FUNC_4
+nfs_wb_page,FUNC_5
+nfs_try_to_update_request,FUNC_6
+inode,VAR_0
+page,VAR_1
+offset,VAR_2
+bytes,VAR_3
+req,VAR_4
+rqend,VAR_5
+end,VAR_6
+error,VAR_7

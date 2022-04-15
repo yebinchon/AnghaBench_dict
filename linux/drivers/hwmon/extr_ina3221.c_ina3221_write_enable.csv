@@ -1,0 +1,17 @@
+INA3221_CONFIG,VAR_0
+INA3221_CONFIG_CHx_EN,FUNC_0
+dev_err,FUNC_1
+dev_get_drvdata,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_sync,FUNC_4
+regmap_write,FUNC_5
+ina3221_write_enable,FUNC_6
+dev,VAR_1
+channel,VAR_2
+enable,VAR_3
+ina,VAR_4
+config,VAR_5
+mask,VAR_6
+config_old,VAR_7
+tmp,VAR_8
+ret,VAR_9

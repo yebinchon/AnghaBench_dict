@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+NBD_ATTR_INDEX,VAR_1
+NBD_CMD_CONNECT,VAR_2
+genlmsg_end,FUNC_0
+genlmsg_new,FUNC_1
+genlmsg_put_reply,FUNC_2
+genlmsg_reply,FUNC_3
+nbd_genl_family,VAR_3
+nla_put_u32,FUNC_4
+nla_total_size,FUNC_5
+nlmsg_free,FUNC_6
+nbd_connect_reply,FUNC_7
+info,VAR_4
+index,VAR_5
+skb,VAR_6
+msg_head,VAR_7
+ret,VAR_8

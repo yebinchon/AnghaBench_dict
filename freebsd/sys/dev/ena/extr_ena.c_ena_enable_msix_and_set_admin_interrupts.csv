@@ -1,0 +1,13 @@
+device_printf,FUNC_0
+ena_com_admin_aenq_enable,FUNC_1
+ena_com_set_admin_polling_mode,FUNC_2
+ena_disable_msix,FUNC_3
+ena_enable_msix,FUNC_4
+ena_request_mgmnt_irq,FUNC_5
+ena_setup_mgmnt_intr,FUNC_6
+unlikely,FUNC_7
+ena_enable_msix_and_set_admin_interrupts,FUNC_8
+adapter,VAR_0
+io_vectors,VAR_1
+ena_dev,VAR_2
+rc,VAR_3

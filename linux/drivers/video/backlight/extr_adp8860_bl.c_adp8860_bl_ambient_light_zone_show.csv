@@ -1,0 +1,15 @@
+ADP8860_CFGR,VAR_0
+CFGR_BLV_MASK,VAR_1
+CFGR_BLV_SHIFT,VAR_2
+adp8860_read,FUNC_0
+dev_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sprintf,FUNC_4
+adp8860_bl_ambient_light_zone_show,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+data,VAR_6
+error,VAR_7
+reg_val,VAR_8

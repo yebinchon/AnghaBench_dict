@@ -1,0 +1,15 @@
+HB_PLL_DIVF_MASK,VAR_0
+HB_PLL_DIVF_SHIFT,VAR_1
+HB_PLL_DIVQ_MASK,VAR_2
+HB_PLL_DIVQ_SHIFT,VAR_3
+HB_PLL_EXT_BYPASS,VAR_4
+readl,FUNC_0
+to_hb_clk,FUNC_1
+clk_pll_recalc_rate,FUNC_2
+hwclk,VAR_5
+parent_rate,VAR_6
+hbclk,VAR_7
+divf,VAR_8
+divq,VAR_9
+vco_freq,VAR_10
+reg,VAR_11

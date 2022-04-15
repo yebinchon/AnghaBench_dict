@@ -1,0 +1,17 @@
+GCM_AES_IV_SIZE,VAR_0
+aead_request_ctx,FUNC_0
+cpu_to_le32,FUNC_1
+crypto4xx_aead_fallback,FUNC_2
+crypto4xx_aead_need_fallback,FUNC_3
+crypto4xx_build_pd,FUNC_4
+crypto4xx_memcpy_to_le32,FUNC_5
+crypto_aead_authsize,FUNC_6
+crypto_aead_reqtfm,FUNC_7
+crypto_tfm_ctx,FUNC_8
+crypto4xx_crypt_aes_gcm,FUNC_9
+req,VAR_1
+decrypt,VAR_2
+ctx,VAR_3
+rctx,VAR_4
+iv,VAR_5
+len,VAR_6

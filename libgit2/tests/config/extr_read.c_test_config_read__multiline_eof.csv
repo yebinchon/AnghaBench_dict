@@ -1,0 +1,12 @@
+buf,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_set_cleanup,FUNC_3
+clean_test_config,VAR_1
+git_buf_cstr,FUNC_4
+git_config_free,FUNC_5
+git_config_get_string_buf,FUNC_6
+git_config_open_ondisk,FUNC_7
+test_config_read__multiline_eof,FUNC_8
+cfg,VAR_2

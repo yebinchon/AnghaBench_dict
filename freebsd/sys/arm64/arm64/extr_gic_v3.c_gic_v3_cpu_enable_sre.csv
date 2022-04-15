@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+ICC_SRE_EL1_SRE,VAR_1
+PCPU_GET,FUNC_0
+READ_SPECIALREG,FUNC_1
+WRITE_SPECIALREG,FUNC_2
+bootverbose,VAR_2
+device_printf,FUNC_3
+icc_sre_el1,VAR_3
+isb,FUNC_4
+gic_v3_cpu_enable_sre,FUNC_5
+sc,VAR_4
+sre,VAR_5
+cpuid,VAR_6

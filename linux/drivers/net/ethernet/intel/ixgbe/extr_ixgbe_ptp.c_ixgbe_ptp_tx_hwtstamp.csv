@@ -1,0 +1,14 @@
+IXGBE_READ_REG,FUNC_0
+IXGBE_TXSTMPH,VAR_0
+IXGBE_TXSTMPL,VAR_1
+__IXGBE_PTP_TX_IN_PROGRESS,VAR_2
+clear_bit_unlock,FUNC_1
+dev_kfree_skb_any,FUNC_2
+ixgbe_ptp_convert_to_hwtstamp,FUNC_3
+skb_tstamp_tx,FUNC_4
+ixgbe_ptp_tx_hwtstamp,FUNC_5
+adapter,VAR_3
+skb,VAR_4
+hw,VAR_5
+shhwtstamps,VAR_6
+regval,VAR_7

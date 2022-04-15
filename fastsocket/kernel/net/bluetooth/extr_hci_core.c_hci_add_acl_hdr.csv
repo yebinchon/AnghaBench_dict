@@ -1,0 +1,12 @@
+HCI_ACL_HDR_SIZE,VAR_0
+cpu_to_le16,FUNC_0
+hci_handle_pack,FUNC_1
+skb_push,FUNC_2
+skb_reset_transport_header,FUNC_3
+skb_transport_header,FUNC_4
+hci_add_acl_hdr,FUNC_5
+skb,VAR_1
+handle,VAR_2
+flags,VAR_3
+hdr,VAR_4
+len,VAR_5

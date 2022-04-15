@@ -1,0 +1,16 @@
+IPL_NONE,VAR_0
+KTHREAD_MPSAFE,VAR_1
+KTHREAD_MUSTJOIN,VAR_2
+MUTEX_DEFAULT,VAR_3
+NTHREADS,VAR_4
+PRI_NONE,VAR_5
+kthread_create,FUNC_0
+kthread_join,FUNC_1
+mutex_init,FUNC_2
+mymtx,VAR_6
+panic,FUNC_3
+tinythread,VAR_7
+rumptest_tsleep,FUNC_4
+notbigl,VAR_8
+rv,VAR_9
+i,VAR_10

@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+IFLA_IPOIB_MODE,VAR_1
+IFLA_IPOIB_UMCAST,VAR_2
+IPOIB_MODE_CONNECTED,VAR_3
+IPOIB_MODE_DATAGRAM,VAR_4
+ipoib_set_mode,FUNC_0
+ipoib_set_umcast,FUNC_1
+nla_get_u16,FUNC_2
+ipoib_changelink,FUNC_3
+dev,VAR_5
+tb,VAR_6
+data,VAR_7
+mode,VAR_8
+umcast,VAR_9
+ret,VAR_10

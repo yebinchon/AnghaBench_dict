@@ -1,0 +1,10 @@
+DRM_MODESET_LOCK_ALL_BEGIN,FUNC_0
+DRM_MODESET_LOCK_ALL_END,FUNC_1
+drm_atomic_helper_commit_duplicated_state,FUNC_2
+drm_atomic_state_put,FUNC_3
+drm_mode_config_reset,FUNC_4
+drm_atomic_helper_resume,FUNC_5
+dev,VAR_0
+state,VAR_1
+ctx,VAR_2
+err,VAR_3

@@ -1,0 +1,16 @@
+EGL_NO_CONTEXT,VAR_0
+EGL_NO_IMAGE_KHR,VAR_1
+GLCHK,FUNC_0
+GL_TEXTURE_EXTERNAL_OES,VAR_2
+VCOS_FUNCTION,VAR_3
+eglCreateImageKHR,FUNC_1
+eglDestroyImageKHR,FUNC_2
+glBindTexture,FUNC_3
+glEGLImageTargetTexture2DOES,FUNC_4
+vcos_log_trace,FUNC_5
+raspitexutil_do_update_texture,FUNC_6
+display,VAR_4
+target,VAR_5
+mm_buf,VAR_6
+texture,VAR_7
+egl_image,VAR_8

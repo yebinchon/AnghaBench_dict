@@ -1,0 +1,8 @@
+AL_FALSE,VAR_0
+AL_PCI_MSIX_MSGCTRL_EN,VAR_1
+AL_TRUE,VAR_2
+al_reg_read32,FUNC_0
+al_pcie_msix_enabled,FUNC_1
+pcie_pf,VAR_3
+regs,VAR_4
+msix_reg0,VAR_5

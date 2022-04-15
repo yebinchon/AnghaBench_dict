@@ -1,0 +1,15 @@
+DPIO_CHANNEL_MODE_MASK,VAR_0
+DPIO_CMDID_GET_ATTR,VAR_1
+le16_to_cpu,FUNC_0
+le32_to_cpu,FUNC_1
+le64_to_cpu,FUNC_2
+mc_encode_cmd_header,FUNC_3
+mc_send_command,FUNC_4
+dpio_get_attributes,FUNC_5
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+attr,VAR_5
+cmd,VAR_6
+dpio_rsp,VAR_7
+err,VAR_8

@@ -1,0 +1,13 @@
+TIOCM_DTR,VAR_0
+TIOCM_RTS,VAR_1
+mct_u232_set_modem_ctrl,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+usb_get_serial_port_data,FUNC_5
+mct_u232_dtr_rts,FUNC_6
+port,VAR_2
+on,VAR_3
+control_state,VAR_4
+priv,VAR_5

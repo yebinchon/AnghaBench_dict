@@ -1,0 +1,12 @@
+S3C_SDHCI_CONTROL2,VAR_0
+S3C_SDHCI_CTRL2_SELBASECLK_MASK,VAR_1
+S3C_SDHCI_CTRL2_SELBASECLK_SHIFT,VAR_2
+dev_dbg,FUNC_0
+get_curclk,FUNC_1
+readl,FUNC_2
+to_s3c,FUNC_3
+writel,FUNC_4
+sdhci_s3c_check_sclk,FUNC_5
+host,VAR_3
+ourhost,VAR_4
+tmp,VAR_5

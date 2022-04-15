@@ -1,0 +1,17 @@
+ehci_dbg,FUNC_0
+hcd_to_ehci,FUNC_1
+intr_deschedule,FUNC_2
+qh_completions,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+unlink_async,FUNC_6
+usb_hcd_check_unlink_urb,FUNC_7
+usb_pipetype,FUNC_8
+ehci_urb_dequeue,FUNC_9
+hcd,VAR_0
+urb,VAR_1
+status,VAR_2
+ehci,VAR_3
+qh,VAR_4
+flags,VAR_5
+rc,VAR_6

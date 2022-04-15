@@ -1,0 +1,17 @@
+FAIL_IF,FUNC_0
+core_busy_loop,FUNC_1
+count_pmc,FUNC_2
+dump_ebb_state,FUNC_3
+ebb_enable_pmc_counting,FUNC_4
+ebb_freeze_pmcs,FUNC_5
+ebb_global_disable,FUNC_6
+ebb_global_enable,FUNC_7
+ebb_state,VAR_0
+notify_parent,FUNC_8
+sample_period,VAR_1
+setup_ebb_handler,FUNC_9
+standard_ebb_callee,VAR_2
+wait_for_parent,FUNC_10
+victim_child,FUNC_11
+read_pipe,VAR_3
+write_pipe,VAR_4

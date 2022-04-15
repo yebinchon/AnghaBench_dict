@@ -1,0 +1,14 @@
+DestroyWindow,FUNC_0
+ERR,FUNC_1
+GL_EXTCALL,FUNC_2
+GetLastError,FUNC_3
+TRACE,FUNC_4
+glDeleteBuffers,FUNC_5
+glDeleteProgram,FUNC_6
+wglDeleteContext,FUNC_7
+wglMakeCurrent,FUNC_8
+wined3d_release_dc,FUNC_9
+wined3d_caps_gl_ctx_destroy,FUNC_10
+ctx,VAR_0
+gl_info,VAR_1
+err,VAR_2

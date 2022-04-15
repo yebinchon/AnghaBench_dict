@@ -1,0 +1,10 @@
+PSP_O_RDONLY,VAR_0
+PSP_SEEK_SET,VAR_1
+lprintf,FUNC_0
+mp3_fname,VAR_2
+mp3_handle,VAR_3
+mp3_src_pos,VAR_4
+sceIoClose,FUNC_1
+sceIoLseek32,FUNC_2
+sceIoOpen,FUNC_3
+mp3_reopen_file,FUNC_4

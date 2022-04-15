@@ -1,0 +1,15 @@
+LIO_CN23XX_INTR_RESEND,VAR_0
+LIO_CN23XX_PF,FUNC_0
+__compiler_membar,FUNC_1
+atomic_load_acq_int,FUNC_2
+lio_read_csr64,FUNC_3
+lio_write_csr32,FUNC_4
+lio_write_csr64,FUNC_5
+mtx_lock,FUNC_6
+mtx_unlock,FUNC_7
+lio_enable_irq,FUNC_8
+droq,VAR_1
+iq,VAR_2
+oct,VAR_3
+instr_cnt,VAR_4
+pkts_pend,VAR_5

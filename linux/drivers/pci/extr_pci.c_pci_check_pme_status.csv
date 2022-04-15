@@ -1,0 +1,10 @@
+PCI_PM_CTRL,VAR_0
+PCI_PM_CTRL_PME_ENABLE,VAR_1
+PCI_PM_CTRL_PME_STATUS,VAR_2
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+pci_check_pme_status,FUNC_2
+dev,VAR_3
+pmcsr_pos,VAR_4
+pmcsr,VAR_5
+ret,VAR_6

@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+ENOSPC,VAR_2
+GFP_KERNEL,VAR_3
+GFP_NOWAIT,VAR_4
+MINORBITS,VAR_5
+MINOR_ALLOCED,VAR_6
+_minor_idr,VAR_7
+_minor_lock,VAR_8
+idr_alloc,FUNC_0
+idr_preload,FUNC_1
+idr_preload_end,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+specific_minor,FUNC_5
+minor,VAR_9
+r,VAR_10

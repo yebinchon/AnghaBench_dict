@@ -1,0 +1,13 @@
+PipelineEntry_get_task,FUNC_0
+PipelineEntry_is_task,FUNC_1
+PyObject_CallFunctionObjArgs,FUNC_2
+PyObject_GetAttrString,FUNC_3
+Py_DECREF,FUNC_4
+Py_XDECREF,FUNC_5
+Pipeline_cancel,FUNC_6
+self,VAR_0
+result,VAR_1
+queue_entry,VAR_2
+task,VAR_3
+cancel,VAR_4
+tmp,VAR_5

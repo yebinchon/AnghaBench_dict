@@ -1,0 +1,11 @@
+DS2482_CMD_1WIRE_WRITE_BYTE,VAR_0
+ds2482_send_cmd_data,FUNC_0
+ds2482_set_channel,FUNC_1
+ds2482_wait_1wire_idle,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+ds2482_w1_write_byte,FUNC_5
+data,VAR_1
+byte,VAR_2
+pchan,VAR_3
+pdev,VAR_4

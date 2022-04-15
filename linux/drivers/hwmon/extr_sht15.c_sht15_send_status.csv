@@ -1,0 +1,11 @@
+SHT15_TSU,VAR_0
+SHT15_WRITE_STATUS,VAR_1
+gpiod_direction_output,FUNC_0
+ndelay,FUNC_1
+sht15_send_byte,FUNC_2
+sht15_send_cmd,FUNC_3
+sht15_wait_for_response,FUNC_4
+sht15_send_status,FUNC_5
+data,VAR_2
+status,VAR_3
+err,VAR_4

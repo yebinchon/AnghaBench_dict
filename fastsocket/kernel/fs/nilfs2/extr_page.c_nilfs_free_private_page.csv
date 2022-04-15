@@ -1,0 +1,9 @@
+BUG_ON,FUNC_0
+NILFS_PAGE_BUG,FUNC_1
+PageLocked,FUNC_2
+__free_page,FUNC_3
+page_has_buffers,FUNC_4
+try_to_free_buffers,FUNC_5
+unlock_page,FUNC_6
+nilfs_free_private_page,FUNC_7
+page,VAR_0

@@ -1,0 +1,16 @@
+PTLS_ALERT_DECRYPT_ERROR,VAR_0
+PTLS_ERROR_NO_MEMORY,VAR_1
+X25519_KEY_SIZE,VAR_2
+malloc,FUNC_0
+ptls_clear_memory,FUNC_1
+ptls_iovec_init,FUNC_2
+x25519_create_keypair,FUNC_3
+x25519_derive_secret,FUNC_4
+x25519_key_exchange,FUNC_5
+algo,VAR_3
+pubkey,VAR_4
+secret,VAR_5
+peerkey,VAR_6
+priv,VAR_7
+pub,VAR_8
+ret,VAR_9

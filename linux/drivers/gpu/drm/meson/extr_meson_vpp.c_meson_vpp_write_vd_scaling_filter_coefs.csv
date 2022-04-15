@@ -1,0 +1,10 @@
+VPP_SCALE_COEF,VAR_0
+VPP_SCALE_COEF_IDX,VAR_1
+VPP_SCALE_HORIZONTAL_COEF,VAR_2
+_REG,FUNC_0
+writel_relaxed,FUNC_1
+meson_vpp_write_vd_scaling_filter_coefs,FUNC_2
+priv,VAR_3
+coefs,VAR_4
+is_horizontal,VAR_5
+i,VAR_6

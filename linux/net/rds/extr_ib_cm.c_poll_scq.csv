@@ -1,0 +1,14 @@
+RDS_IB_ACK_WR_ID,VAR_0
+RDS_IB_WC_MAX,VAR_1
+be32_to_cpu,FUNC_0
+ib_poll_cq,FUNC_1
+rds_ib_mr_cqe_handler,FUNC_2
+rds_ib_send_cqe_handler,FUNC_3
+rdsdebug,FUNC_4
+poll_scq,FUNC_5
+ic,VAR_2
+cq,VAR_3
+wcs,VAR_4
+nr,VAR_5
+i,VAR_6
+wc,VAR_7

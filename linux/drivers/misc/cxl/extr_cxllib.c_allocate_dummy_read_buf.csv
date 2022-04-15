@@ -1,0 +1,12 @@
+CXL_DUMMY_READ_ALIGN,VAR_0
+CXL_DUMMY_READ_SIZE,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+WARN,FUNC_0
+dummy_read_addr,VAR_4
+kzalloc,FUNC_1
+virt_to_phys,FUNC_2
+allocate_dummy_read_buf,FUNC_3
+buf,VAR_5
+vaddr,VAR_6
+buf_size,VAR_7

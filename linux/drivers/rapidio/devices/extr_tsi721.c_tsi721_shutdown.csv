@@ -1,0 +1,10 @@
+EXIT,VAR_0
+pci_clear_master,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+tsi721_disable_ints,FUNC_3
+tsi721_dma_stop_all,FUNC_4
+tsi_debug,FUNC_5
+tsi721_shutdown,FUNC_6
+pdev,VAR_1
+priv,VAR_2

@@ -1,0 +1,10 @@
+KVM_PPC_PVINFO_FLAGS_EV_IDLE,VAR_0
+KVM_SC_MAGIC_R0,VAR_1
+cpu_to_be32,FUNC_0
+kvm_vm_ioctl_get_pvinfo,FUNC_1
+pvinfo,VAR_2
+inst_nop,VAR_3
+inst_lis,VAR_4
+inst_ori,VAR_5
+inst_sc,VAR_6
+inst_imm_mask,VAR_7

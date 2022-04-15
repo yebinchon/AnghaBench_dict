@@ -1,0 +1,10 @@
+M_IPFW,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+V_ipfw_cntr_zone,VAR_3
+malloc,FUNC_0
+uma_zalloc_pcpu,FUNC_1
+ipfw_alloc_rule,FUNC_2
+chain,VAR_4
+rulesize,VAR_5
+rule,VAR_6

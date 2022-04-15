@@ -1,0 +1,16 @@
+PCIE_PERF_REQ_GEN2,VAR_0
+PCIE_PERF_REQ_GEN3,VAR_1
+PP_PCIEGenInvalid,VAR_2
+amdgpu_acpi_pcie_performance_request,FUNC_0
+cast_const_phw_smu7_power_state,FUNC_1
+smu7_get_current_pcie_speed,FUNC_2
+smu7_get_maximum_link_speed,FUNC_3
+smu7_request_link_speed_change_before_state_change,FUNC_4
+hwmgr,VAR_3
+input,VAR_4
+states,VAR_5
+data,VAR_6
+smu7_nps,VAR_7
+polaris10_cps,VAR_8
+target_link_speed,VAR_9
+current_link_speed,VAR_10

@@ -1,0 +1,17 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+QUEUE_FLAG_POLL,VAR_0
+REQ_HIPRI,VAR_1
+WARN_ON_ONCE,FUNC_1
+blk_execute_rq_nowait,FUNC_2
+blk_poll,FUNC_3
+completion_done,FUNC_4
+cond_resched,FUNC_5
+nvme_end_sync_rq,VAR_2
+request_to_qc_t,FUNC_6
+test_bit,FUNC_7
+wait,VAR_3
+nvme_execute_rq_polled,FUNC_8
+q,VAR_4
+bd_disk,VAR_5
+rq,VAR_6
+at_head,VAR_7

@@ -1,0 +1,13 @@
+AL_ETH_IS_10G_MAC,FUNC_0
+AL_ETH_IS_1G_MAC,FUNC_1
+AL_ETH_IS_25G_MAC,FUNC_2
+AL_ETH_MAX_FRAME_LEN,VAR_0
+AL_ETH_REV_ID_2,VAR_1
+ETH_MAC_GEN_V3_MAC_40G_FRM_LENGTH_ADDR,VAR_2
+al_assert,FUNC_3
+al_eth_40g_mac_reg_write,FUNC_4
+al_reg_write32,FUNC_5
+al_eth_rx_pkt_limit_config,FUNC_6
+adapter,VAR_3
+min_rx_len,VAR_4
+max_rx_len,VAR_5

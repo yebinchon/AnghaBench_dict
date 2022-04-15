@@ -1,0 +1,16 @@
+ISCSI_LOGOUT_CID_NOT_FOUND,VAR_0
+ISCSI_LOGOUT_REASON_CLOSE_CONNECTION,VAR_1
+TARG_CONN_STATE_IN_LOGOUT,VAR_2
+atomic_set,FUNC_0
+iscsit_add_cmd_to_response_queue,FUNC_1
+iscsit_dec_conn_usage_count,FUNC_2
+iscsit_get_conn_from_cid,FUNC_3
+iscsit_inc_conn_usage_count,FUNC_4
+pr_debug,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+iscsit_logout_closeconnection,FUNC_8
+cmd,VAR_3
+conn,VAR_4
+l_conn,VAR_5
+sess,VAR_6

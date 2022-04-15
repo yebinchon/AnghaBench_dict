@@ -1,0 +1,13 @@
+AC_VERB_SET_GPIO_DATA,VAR_0
+AC_VERB_SET_GPIO_DIRECTION,VAR_1
+AC_VERB_SET_GPIO_MASK,VAR_2
+cs_coef_init_verbs,VAR_3
+cs_errata_init_verbs,VAR_4
+init_digital_coef,FUNC_0
+init_input_coef,FUNC_1
+snd_hda_codec_write,FUNC_2
+snd_hda_gen_init,FUNC_3
+snd_hda_sequence_write,FUNC_4
+cs_init,FUNC_5
+codec,VAR_5
+spec,VAR_6

@@ -1,0 +1,17 @@
+IIO_VAL_INT,VAR_0
+NAU7802_MIN_CONVERSIONS,VAR_1
+NAU7802_PUCTRL_CR_BIT,VAR_2
+NAU7802_REG_PUCTRL,VAR_3
+NAU7802_SAMP_FREQ_320,VAR_4
+i2c_smbus_read_byte_data,FUNC_0
+iio_priv,FUNC_1
+mdelay,FUNC_2
+msleep,FUNC_3
+nau7802_read_conversion,FUNC_4
+nau7802_sync,FUNC_5
+nau7802_read_poll,FUNC_6
+indio_dev,VAR_5
+chan,VAR_6
+val,VAR_7
+st,VAR_8
+ret,VAR_9

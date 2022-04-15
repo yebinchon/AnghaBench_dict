@@ -1,0 +1,13 @@
+LOCK,VAR_0
+UNLOCK,VAR_1
+WDTCONTROL,VAR_2
+WDTLOCK,VAR_3
+clk_disable_unprepare,FUNC_0
+readl_relaxed,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+watchdog_get_drvdata,FUNC_4
+writel_relaxed,FUNC_5
+wdt_disable,FUNC_6
+wdd,VAR_4
+wdt,VAR_5

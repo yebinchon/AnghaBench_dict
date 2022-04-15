@@ -1,0 +1,12 @@
+CMD_ASYNC,VAR_0
+CSR_LED_BSM_CTRL_MSK,VAR_1
+CSR_LED_REG,VAR_2
+REPLY_LEDS_CMD,VAR_3
+iwl_dvm_send_cmd,FUNC_0
+iwl_read32,FUNC_1
+iwl_write32,FUNC_2
+iwl_send_led_cmd,FUNC_3
+priv,VAR_4
+led_cmd,VAR_5
+cmd,VAR_6
+reg,VAR_7

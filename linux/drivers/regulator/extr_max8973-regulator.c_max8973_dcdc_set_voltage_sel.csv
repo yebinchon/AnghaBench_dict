@@ -1,0 +1,15 @@
+MAX8973_VOUT_MASK,VAR_0
+dev_err,FUNC_0
+find_voltage_set_register,FUNC_1
+gpio_is_valid,FUNC_2
+gpio_set_value_cansleep,FUNC_3
+rdev_get_drvdata,FUNC_4
+regmap_update_bits,FUNC_5
+max8973_dcdc_set_voltage_sel,FUNC_6
+rdev,VAR_1
+vsel,VAR_2
+max,VAR_3
+ret,VAR_4
+found,VAR_5
+vout_reg,VAR_6
+gpio_val,VAR_7

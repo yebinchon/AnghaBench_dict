@@ -1,0 +1,15 @@
+INT_CAUSE,VAR_0
+INT_MASK,VAR_1
+INT_W_CLEAR,VAR_2
+del_timer_sync,FUNC_0
+eth_port_reset,FUNC_1
+free_irq,FUNC_2
+napi_disable,FUNC_3
+netdev_priv,FUNC_4
+netif_carrier_off,FUNC_5
+rxq_deinit,FUNC_6
+txq_deinit,FUNC_7
+wrl,FUNC_8
+pxa168_eth_stop,FUNC_9
+dev,VAR_3
+pep,VAR_4

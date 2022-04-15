@@ -1,0 +1,16 @@
+DRM_WARN,FUNC_0
+SUN4I_TCON0_CTL_REG,VAR_0
+SUN4I_TCON0_CTL_TCON_ENABLE,VAR_1
+SUN4I_TCON1_CTL_REG,VAR_2
+SUN4I_TCON1_CTL_TCON_ENABLE,VAR_3
+WARN_ON,FUNC_1
+clk_disable_unprepare,FUNC_2
+clk_prepare_enable,FUNC_3
+clk_rate_exclusive_get,FUNC_4
+clk_rate_exclusive_put,FUNC_5
+regmap_update_bits,FUNC_6
+sun4i_tcon_channel_set_status,FUNC_7
+tcon,VAR_4
+channel,VAR_5
+enabled,VAR_6
+clk,VAR_7

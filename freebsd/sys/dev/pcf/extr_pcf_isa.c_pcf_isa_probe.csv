@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+PCF_NAME,VAR_1
+SYS_RES_IOPORT,VAR_2
+bus_get_resource,FUNC_0
+device_set_desc,FUNC_1
+isa_get_logicalid,FUNC_2
+resource_int_value,FUNC_3
+pcf_isa_probe,FUNC_4
+dev,VAR_3
+start,VAR_4
+count,VAR_5
+rid,VAR_6
+port,VAR_7
+error,VAR_8

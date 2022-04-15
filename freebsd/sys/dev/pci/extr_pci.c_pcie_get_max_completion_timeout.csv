@@ -1,0 +1,11 @@
+PCIEM_CAP2_COMP_TIMO_RANGES,VAR_0
+PCIEM_CTL2_COMP_TIMO_VAL,VAR_1
+PCIEM_FLAGS_VERSION,VAR_2
+PCIER_DEVICE_CAP2,VAR_3
+PCIER_DEVICE_CTL2,VAR_4
+device_get_ivars,FUNC_0
+pci_read_config,FUNC_1
+pcie_get_max_completion_timeout,FUNC_2
+dev,VAR_5
+dinfo,VAR_6
+cap,VAR_7

@@ -1,0 +1,11 @@
+DIE_TRAP_TL1,VAR_0
+NOTIFY_STOP,VAR_1
+SIGTRAP,VAR_2
+die_if_kernel,FUNC_0
+dump_tl1_traplog,FUNC_1
+notify_die,FUNC_2
+sprintf,FUNC_3
+bad_trap_tl1,FUNC_4
+regs,VAR_3
+lvl,VAR_4
+buffer,VAR_5

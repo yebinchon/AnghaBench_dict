@@ -1,0 +1,17 @@
+ABS_PRESSURE,VAR_0
+BTN_TOOL_PEN,VAR_1
+BTN_TOUCH,VAR_2
+EV_MSC,VAR_3
+MSC_SCAN,VAR_4
+drvdata,VAR_5
+from_timer,FUNC_0
+input_event,FUNC_1
+input_report_abs,FUNC_2
+input_report_key,FUNC_3
+input_sync,FUNC_4
+inrange_timer,VAR_6
+test_bit,FUNC_5
+uclogic_inrange_timeout,FUNC_6
+t,VAR_7
+drvdata,VAR_8
+input,VAR_9

@@ -1,0 +1,8 @@
+VLC_PLAYER_MEDIA_STOPPED_PAUSE,VAR_0
+on_media_stopped_action_changed,VAR_1
+var_SetBool,FUNC_0
+vlc_player_SendEvent,FUNC_1
+vlc_player_assert_locked,FUNC_2
+vlc_player_SetMediaStoppedAction,FUNC_3
+player,VAR_2
+action,VAR_3

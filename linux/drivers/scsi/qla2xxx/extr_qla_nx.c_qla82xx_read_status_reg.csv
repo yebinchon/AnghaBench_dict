@@ -1,0 +1,14 @@
+M25P_INSTR_RDSR,VAR_0
+QLA82XX_ROMUSB_ROM_INSTR_OPCODE,VAR_1
+QLA82XX_ROMUSB_ROM_RDATA,VAR_2
+pci_get_drvdata,FUNC_0
+ql_log,FUNC_1
+ql_log_warn,VAR_3
+qla82xx_rd_32,FUNC_2
+qla82xx_wait_rom_busy,FUNC_3
+qla82xx_wait_rom_done,FUNC_4
+qla82xx_wr_32,FUNC_5
+qla82xx_read_status_reg,FUNC_6
+ha,VAR_4
+val,VAR_5
+vha,VAR_6

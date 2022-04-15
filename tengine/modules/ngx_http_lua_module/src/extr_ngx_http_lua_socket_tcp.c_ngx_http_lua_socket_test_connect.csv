@@ -1,0 +1,17 @@
+NGX_OK,VAR_0
+NGX_USE_KQUEUE_EVENT,VAR_1
+SOL_SOCKET,VAR_2
+SO_ERROR,VAR_3
+dd,FUNC_0
+getsockopt,FUNC_1
+ngx_connection_error,FUNC_2
+ngx_errno,VAR_4
+ngx_event_flags,VAR_5
+ngx_http_get_module_loc_conf,FUNC_3
+ngx_http_lua_module,VAR_6
+ngx_http_lua_socket_test_connect,FUNC_4
+r,VAR_7
+c,VAR_8
+err,VAR_9
+len,VAR_10
+llcf,VAR_11

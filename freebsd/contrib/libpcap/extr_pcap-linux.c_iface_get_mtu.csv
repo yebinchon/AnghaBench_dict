@@ -1,0 +1,13 @@
+BIGGER_THAN_ALL_MTUS,VAR_0
+PCAP_ERRBUF_SIZE,VAR_1
+SIOCGIFMTU,VAR_2
+errno,VAR_3
+ioctl,FUNC_0
+memset,FUNC_1
+pcap_fmt_errmsg_for_errno,FUNC_2
+strlcpy,FUNC_3
+iface_get_mtu,FUNC_4
+fd,VAR_4
+device,VAR_5
+ebuf,VAR_6
+ifr,VAR_7

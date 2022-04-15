@@ -1,0 +1,12 @@
+EINVAL,VAR_0
+KVM_MAX_MCE_BANKS,VAR_1
+KVM_MCE_CAP_SUPPORTED,VAR_2
+MCG_CTL_P,VAR_3
+vcpu_load,FUNC_0
+vcpu_put,FUNC_1
+kvm_vcpu_ioctl_x86_setup_mce,FUNC_2
+vcpu,VAR_4
+mcg_cap,VAR_5
+r,VAR_6
+bank_num,VAR_7
+bank,VAR_8

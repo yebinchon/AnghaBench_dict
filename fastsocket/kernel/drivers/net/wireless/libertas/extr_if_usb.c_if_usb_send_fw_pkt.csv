@@ -1,0 +1,11 @@
+FW_HAS_DATA_TO_RECV,VAR_0
+FW_HAS_LAST_BLOCK,VAR_1
+cpu_to_le32,FUNC_0
+lbs_deb_usb2,FUNC_1
+le32_to_cpu,FUNC_2
+memcpy,FUNC_3
+usb_tx_block,FUNC_4
+if_usb_send_fw_pkt,FUNC_5
+cardp,VAR_2
+fwdata,VAR_3
+firmware,VAR_4

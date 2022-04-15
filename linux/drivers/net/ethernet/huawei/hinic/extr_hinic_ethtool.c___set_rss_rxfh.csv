@@ -1,0 +1,16 @@
+EFAULT,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+HINIC_RSS_INDIR_SIZE,VAR_3
+HINIC_RSS_KEY_SIZE,VAR_4
+hinic_rss_set_indir_tbl,FUNC_0
+hinic_rss_set_template_tbl,FUNC_1
+kzalloc,FUNC_2
+memcpy,FUNC_3
+netdev_priv,FUNC_4
+__set_rss_rxfh,FUNC_5
+netdev,VAR_5
+indir,VAR_6
+key,VAR_7
+nic_dev,VAR_8
+err,VAR_9

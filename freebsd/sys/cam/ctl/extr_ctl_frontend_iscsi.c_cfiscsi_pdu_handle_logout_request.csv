@@ -1,0 +1,17 @@
+BHSLR_RESPONSE_CLOSED_SUCCESSFULLY,VAR_0
+BHSLR_RESPONSE_RECOVERY_NOT_SUPPORTED,VAR_1
+CFISCSI_SESSION_DEBUG,FUNC_0
+CFISCSI_SESSION_WARN,FUNC_1
+ISCSI_BHS_OPCODE_LOGOUT_RESPONSE,VAR_2
+M_NOWAIT,VAR_3
+PDU_SESSION,FUNC_2
+cfiscsi_pdu_new_response,FUNC_3
+cfiscsi_pdu_queue,FUNC_4
+cfiscsi_session_terminate,FUNC_5
+icl_pdu_free,FUNC_6
+cfiscsi_pdu_handle_logout_request,FUNC_7
+request,VAR_4
+bhslr,VAR_5
+bhslr2,VAR_6
+response,VAR_7
+cs,VAR_8

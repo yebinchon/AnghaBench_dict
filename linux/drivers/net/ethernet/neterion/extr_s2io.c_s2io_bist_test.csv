@@ -1,0 +1,12 @@
+PCI_BIST,VAR_0
+PCI_BIST_CODE_MASK,VAR_1
+PCI_BIST_START,VAR_2
+msleep,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_write_config_word,FUNC_2
+s2io_bist_test,FUNC_3
+sp,VAR_3
+data,VAR_4
+bist,VAR_5
+cnt,VAR_6
+ret,VAR_7

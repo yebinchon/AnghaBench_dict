@@ -1,0 +1,12 @@
+ACPI_EC_COMMAND_QUERY,VAR_0
+ACPI_EC_EVT_TIMING_QUERY,VAR_1
+ACPI_EC_EVT_TIMING_STATUS,VAR_2
+EC_FLAGS_QUERY_PENDING,VAR_3
+ec_event_clearing,VAR_4
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+test_bit,FUNC_2
+acpi_ec_guard_event,FUNC_3
+ec,VAR_5
+guarded,VAR_6
+flags,VAR_7

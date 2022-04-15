@@ -1,0 +1,12 @@
+GIT_OPT_ENABLE_STRICT_HASH_VERIFICATION,VAR_0
+_obj,VAR_1
+_odb,VAR_2
+_oid,VAR_3
+assert_object_contains,FUNC_0
+cl_git_pass,FUNC_1
+git_libgit2_opts,FUNC_2
+git_odb_read,FUNC_3
+git_oid_fromstr,FUNC_4
+setup_backend,FUNC_5
+test_odb_backend_simple__read_with_hash_mismatch_succeeds_without_verification,FUNC_6
+objs,VAR_4

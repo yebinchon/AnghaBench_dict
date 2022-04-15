@@ -1,0 +1,17 @@
+HPTE_R_N,VAR_0
+HPTE_R_PP,VAR_1
+get_kernel_vsid,FUNC_0
+hpt_va,FUNC_1
+htab_address,VAR_2
+native_hpte_find,FUNC_2
+panic,FUNC_3
+tlbie,FUNC_4
+native_hpte_updateboltedpp,FUNC_5
+newpp,VAR_3
+ea,VAR_4
+psize,VAR_5
+ssize,VAR_6
+vsid,VAR_7
+va,VAR_8
+slot,VAR_9
+hptep,VAR_10

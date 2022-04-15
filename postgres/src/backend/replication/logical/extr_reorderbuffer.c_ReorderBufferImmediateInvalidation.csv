@@ -1,0 +1,11 @@
+AbortCurrentTransaction,FUNC_0
+BeginInternalSubTransaction,FUNC_1
+IsTransactionOrTransactionBlock,FUNC_2
+LocalExecuteInvalidationMessage,FUNC_3
+RollbackAndReleaseCurrentSubTransaction,FUNC_4
+ReorderBufferImmediateInvalidation,FUNC_5
+rb,VAR_0
+ninvalidations,VAR_1
+invalidations,VAR_2
+use_subtxn,VAR_3
+i,VAR_4

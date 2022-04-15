@@ -1,0 +1,16 @@
+EIO,VAR_0
+M41T80_ALMON_AFE,VAR_1
+M41T80_FLAGS_AF,VAR_2
+M41T80_REG_ALARM_MON,VAR_3
+M41T80_REG_FLAGS,VAR_4
+bcd2bin,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_read_i2c_block_data,FUNC_2
+to_i2c_client,FUNC_3
+m41t80_read_alarm,FUNC_4
+dev,VAR_5
+alrm,VAR_6
+client,VAR_7
+alarmvals,VAR_8
+flags,VAR_9
+ret,VAR_10

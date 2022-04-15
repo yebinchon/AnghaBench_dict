@@ -1,0 +1,11 @@
+PTP_CMD_CTL,VAR_0
+PTP_CMD_CTL_PTP_ENABLE_,VAR_1
+drv,VAR_2
+lan743x_csr_write,FUNC_0
+lan743x_ptp_is_enabled,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netif_warn,FUNC_4
+lan743x_ptp_enable,FUNC_5
+adapter,VAR_3
+ptp,VAR_4

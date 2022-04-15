@@ -1,0 +1,12 @@
+ASMC_INTPORT_READ,FUNC_0
+FILTER_HANDLED,VAR_0
+asmc_sms_printintr,FUNC_1
+device_get_softc,FUNC_2
+mtx_lock_spin,FUNC_3
+mtx_unlock_spin,FUNC_4
+taskqueue_enqueue,FUNC_5
+asmc_sms_intrfast,FUNC_6
+arg,VAR_1
+type,VAR_2
+dev,VAR_3
+sc,VAR_4

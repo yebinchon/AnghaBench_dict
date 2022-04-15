@@ -1,0 +1,15 @@
+blk_cleanup_queue,FUNC_0
+blk_stop_queue,FUNC_1
+blkif_io_lock,VAR_0
+del_gendisk,FUNC_2
+flush_scheduled_work,FUNC_3
+gnttab_cancel_free_callback,FUNC_4
+put_disk,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+xlbd_release_minors,FUNC_8
+xlvbd_release_gendisk,FUNC_9
+info,VAR_1
+minor,VAR_2
+nr_minors,VAR_3
+flags,VAR_4

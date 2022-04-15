@@ -1,0 +1,15 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+RX_CLAIM_REQ_ALLOC,VAR_0
+RX_POST_REQ_ALLOC,VAR_1
+atomic_inc,FUNC_1
+iwl_pcie_rx_move_to_allocator,FUNC_2
+list_add_tail,FUNC_3
+queue_work,FUNC_4
+unlikely,FUNC_5
+iwl_pcie_rx_reuse_rbd,FUNC_6
+trans,VAR_2
+rxb,VAR_3
+rxq,VAR_4
+emergency,VAR_5
+trans_pcie,VAR_6
+rba,VAR_7

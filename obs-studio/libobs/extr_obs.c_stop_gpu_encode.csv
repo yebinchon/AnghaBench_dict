@@ -1,0 +1,15 @@
+da_erase_item,FUNC_0
+free_gpu_encoding,FUNC_1
+obs,VAR_0
+obs_enter_graphics,FUNC_2
+obs_leave_graphics,FUNC_3
+os_atomic_dec_long,FUNC_4
+os_event_wait,FUNC_5
+pthread_mutex_lock,FUNC_6
+pthread_mutex_unlock,FUNC_7
+stop_gpu_encoding_thread,FUNC_8
+video_output_dec_texture_encoders,FUNC_9
+stop_gpu_encode,FUNC_10
+encoder,VAR_1
+video,VAR_2
+call_free,VAR_3

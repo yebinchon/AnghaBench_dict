@@ -1,0 +1,15 @@
+AC97C_CSR_TXRDY,VAR_0
+COSR,VAR_1
+COTHR,VAR_2
+ac97c_readl,FUNC_0
+ac97c_writel,FUNC_1
+dev_dbg,FUNC_2
+get_chip,FUNC_3
+udelay,FUNC_4
+atmel_ac97c_write,FUNC_5
+ac97,VAR_3
+reg,VAR_4
+val,VAR_5
+chip,VAR_6
+word,VAR_7
+timeout,VAR_8

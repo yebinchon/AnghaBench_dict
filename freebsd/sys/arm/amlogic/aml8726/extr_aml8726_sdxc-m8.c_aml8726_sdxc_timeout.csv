@@ -1,0 +1,10 @@
+AML_SDXC_STATUS_BUSY,VAR_0
+AML_SDXC_STATUS_REG,VAR_1
+CSR_READ_4,FUNC_0
+MMC_ERR_TIMEOUT,VAR_2
+aml8726_sdxc_finish_command,FUNC_1
+aml8726_sdxc_soft_reset,FUNC_2
+cpu_spinwait,FUNC_3
+aml8726_sdxc_timeout,FUNC_4
+arg,VAR_3
+sc,VAR_4

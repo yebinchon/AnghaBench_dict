@@ -1,0 +1,17 @@
+PCI_VENDOR_ID_HP,VAR_0
+PCI_VENDOR_ID_INTEL,VAR_1
+PCI_VENDOR_ID_VIA,VAR_2
+check_and_reset_hc,FUNC_0
+device_set_wakeup_capable,FUNC_1
+hcd_to_uhci,FUNC_2
+to_pci_dev,FUNC_3
+uhci_count_ports,FUNC_4
+uhci_dev,FUNC_5
+uhci_pci_check_and_reset_hc,VAR_3
+uhci_pci_configure_hc,VAR_4
+uhci_pci_global_suspend_mode_is_broken,VAR_5
+uhci_pci_reset_hc,VAR_6
+uhci_pci_resume_detect_interrupts_are_broken,VAR_7
+uhci_pci_init,FUNC_6
+hcd,VAR_8
+uhci,VAR_9

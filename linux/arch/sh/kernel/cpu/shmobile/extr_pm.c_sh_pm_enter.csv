@@ -1,0 +1,9 @@
+ENXIO,VAR_0
+SUSP_MODE_STANDBY_SF,VAR_1
+clear_bl_bit,FUNC_0
+local_irq_disable,FUNC_1
+set_bl_bit,FUNC_2
+sh_mobile_call_standby,FUNC_3
+sh_mobile_sleep_supported,VAR_2
+sh_pm_enter,FUNC_4
+state,VAR_3

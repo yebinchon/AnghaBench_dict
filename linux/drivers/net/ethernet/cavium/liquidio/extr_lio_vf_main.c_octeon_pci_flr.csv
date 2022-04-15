@@ -1,0 +1,10 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_INTX_DISABLE,VAR_1
+pci_cfg_access_lock,FUNC_0
+pci_cfg_access_unlock,FUNC_1
+pci_restore_state,FUNC_2
+pci_save_state,FUNC_3
+pci_write_config_word,FUNC_4
+pcie_flr,FUNC_5
+octeon_pci_flr,FUNC_6
+oct,VAR_2

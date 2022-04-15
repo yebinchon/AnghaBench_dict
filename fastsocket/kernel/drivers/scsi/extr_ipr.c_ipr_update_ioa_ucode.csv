@@ -1,0 +1,13 @@
+DMA_TO_DEVICE,VAR_0
+EIO,VAR_1
+IPR_SHUTDOWN_NORMAL,VAR_2
+dev_err,FUNC_0
+ipr_initiate_ioa_reset,FUNC_1
+pci_map_sg,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+wait_event,FUNC_5
+ipr_update_ioa_ucode,FUNC_6
+ioa_cfg,VAR_3
+sglist,VAR_4
+lock_flags,VAR_5

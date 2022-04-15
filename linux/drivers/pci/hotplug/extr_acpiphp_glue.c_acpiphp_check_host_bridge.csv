@@ -1,0 +1,11 @@
+acpi_lock_hp_context,FUNC_0
+acpi_unlock_hp_context,FUNC_1
+acpiphp_check_bridge,FUNC_2
+get_bridge,FUNC_3
+pci_lock_rescan_remove,FUNC_4
+pci_unlock_rescan_remove,FUNC_5
+put_bridge,FUNC_6
+to_acpiphp_root_context,FUNC_7
+acpiphp_check_host_bridge,FUNC_8
+adev,VAR_0
+bridge,VAR_1

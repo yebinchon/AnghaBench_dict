@@ -1,0 +1,13 @@
+DecoderWaitUnblock,FUNC_0
+VLC_TICK_INVALID,VAR_0
+msg_Warn,FUNC_1
+subpicture_Delete,FUNC_2
+vlc_cond_signal,FUNC_3
+vlc_mutex_lock,FUNC_4
+vlc_mutex_unlock,FUNC_5
+vout_PutSubpicture,FUNC_6
+ModuleThread_PlaySpu,FUNC_7
+p_owner,VAR_1
+p_subpic,VAR_2
+p_dec,VAR_3
+p_vout,VAR_4

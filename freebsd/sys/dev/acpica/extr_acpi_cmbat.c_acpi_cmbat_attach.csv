@@ -1,0 +1,16 @@
+ACPI_ALL_NOTIFY,VAR_0
+AcpiInstallNotifyHandler,FUNC_0
+AcpiOsExecute,FUNC_1
+OSL_NOTIFY_HANDLER,VAR_1
+acpi_battery_register,FUNC_2
+acpi_cmbat_init_battery,VAR_2
+acpi_cmbat_notify_handler,VAR_3
+acpi_get_handle,FUNC_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+timespecclear,FUNC_6
+acpi_cmbat_attach,FUNC_7
+dev,VAR_4
+error,VAR_5
+handle,VAR_6
+sc,VAR_7

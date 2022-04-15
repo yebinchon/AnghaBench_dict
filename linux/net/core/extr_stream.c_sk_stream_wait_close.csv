@@ -1,0 +1,13 @@
+DEFINE_WAIT_FUNC,FUNC_0
+add_wait_queue,FUNC_1
+current,VAR_0
+remove_wait_queue,FUNC_2
+signal_pending,FUNC_3
+sk_sleep,FUNC_4
+sk_stream_closing,FUNC_5
+sk_wait_event,FUNC_6
+wait,VAR_1
+woken_wake_function,VAR_2
+sk_stream_wait_close,FUNC_7
+sk,VAR_3
+timeout,VAR_4

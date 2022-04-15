@@ -1,0 +1,8 @@
+AST_KEVENT_RETURN_TO_KERNEL,VAR_0
+KQR_R2K_NOTIF_ARMED,VAR_1
+act_set_astkevent,FUNC_0
+assert,FUNC_1
+kq_req_held,FUNC_2
+kqworkloop_request_fire_r2k_notification,FUNC_3
+kqwl,VAR_2
+kqr,VAR_3

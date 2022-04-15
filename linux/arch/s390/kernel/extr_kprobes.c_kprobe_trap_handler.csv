@@ -1,0 +1,15 @@
+disable_singlestep,FUNC_0
+extable_fixup,FUNC_1
+get_kprobe_ctlblk,FUNC_2
+kprobe_running,FUNC_3
+kprobes_inc_nmissed_count,FUNC_4
+pop_kprobe,FUNC_5
+preempt_enable_no_resched,FUNC_6
+s390_search_extables,FUNC_7
+stub1,FUNC_8
+kprobe_trap_handler,FUNC_9
+regs,VAR_0
+trapnr,VAR_1
+kcb,VAR_2
+p,VAR_3
+entry,VAR_4

@@ -1,0 +1,15 @@
+DBG_FUNC,FUNC_0
+EVENTHANDLER_DEREGISTER,FUNC_1
+deregister_sim,FUNC_2
+destroy_char_dev,FUNC_3
+device_get_softc,FUNC_4
+os_start_heartbeat_timer,VAR_0
+os_wellness_periodic,VAR_1
+pci_release_msi,FUNC_5
+pqisrc_uninit,FUNC_6
+shutdown_final,VAR_2
+smartpqi_shutdown,FUNC_7
+untimeout,FUNC_8
+smartpqi_detach,FUNC_9
+dev,VAR_3
+softs,VAR_4

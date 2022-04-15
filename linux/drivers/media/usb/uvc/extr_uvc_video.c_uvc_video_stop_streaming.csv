@@ -1,0 +1,12 @@
+USB_ENDPOINT_DIR_MASK,VAR_0
+USB_ENDPOINT_NUMBER_MASK,VAR_1
+usb_clear_halt,FUNC_0
+usb_set_interface,FUNC_1
+usb_sndbulkpipe,FUNC_2
+uvc_video_clock_cleanup,FUNC_3
+uvc_video_stop_transfer,FUNC_4
+uvc_video_stop_streaming,FUNC_5
+stream,VAR_2
+epnum,VAR_3
+dir,VAR_4
+pipe,VAR_5

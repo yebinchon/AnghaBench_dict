@@ -1,0 +1,13 @@
+HFI1_RCVCTRL_CTXT_ENB,VAR_0
+HFI1_RCVCTRL_TAILUPD_DIS,VAR_1
+HFI1_RCVCTRL_TAILUPD_ENB,VAR_2
+RCV_CTRL_RCV_PORT_ENABLE_SMASK,VAR_3
+add_rcvctrl,FUNC_0
+hfi1_rcd_get_by_index,FUNC_1
+hfi1_rcd_put,FUNC_2
+hfi1_rcvctrl,FUNC_3
+rxe_kernel_unfreeze,FUNC_4
+dd,VAR_4
+rcvmask,VAR_5
+i,VAR_6
+rcd,VAR_7

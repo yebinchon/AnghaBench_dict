@@ -1,0 +1,16 @@
+CS35L33_CLK_CTL,VAR_0
+CS35L33_INT_STATUS_2,VAR_1
+CS35L33_MCLKDIS,VAR_2
+CS35L33_PDN_ALL,VAR_3
+CS35L33_PDN_DONE,VAR_4
+CS35L33_PWRCTL1,VAR_5
+EINVAL,VAR_6
+regmap_read,FUNC_0
+regmap_update_bits,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+usleep_range,FUNC_3
+cs35l33_set_bias_level,FUNC_4
+component,VAR_7
+level,VAR_8
+val,VAR_9
+priv,VAR_10

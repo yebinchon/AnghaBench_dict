@@ -1,0 +1,13 @@
+elants_i2c_calibrate,FUNC_0
+i2c_get_clientdata,FUNC_1
+mutex_lock_interruptible,FUNC_2
+mutex_unlock,FUNC_3
+to_i2c_client,FUNC_4
+calibrate_store,FUNC_5
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+count,VAR_3
+client,VAR_4
+ts,VAR_5
+error,VAR_6

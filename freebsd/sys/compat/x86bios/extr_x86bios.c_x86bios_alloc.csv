@@ -1,0 +1,15 @@
+M_DEVBUF,VAR_0
+X86BIOS_PAGE_SIZE,VAR_1
+X86BIOS_RAM_BASE,VAR_2
+contigmalloc,FUNC_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+vtophys,FUNC_3
+x86bios_lock,VAR_3
+x86bios_rom_phys,VAR_4
+x86bios_set_pages,FUNC_4
+x86bios_alloc,FUNC_5
+offset,VAR_5
+size,VAR_6
+flags,VAR_7
+vaddr,VAR_8

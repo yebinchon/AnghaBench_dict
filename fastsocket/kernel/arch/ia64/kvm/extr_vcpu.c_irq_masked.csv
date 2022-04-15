@@ -1,0 +1,14 @@
+ExtINT_VECTOR,VAR_0
+IRQ_MASKED_BY_INSVC,VAR_1
+IRQ_MASKED_BY_VTPR,VAR_2
+IRQ_NO_MASKED,VAR_3
+NMI_VECTOR,VAR_4
+VCPU,FUNC_0
+is_higher_class,FUNC_1
+is_higher_irq,FUNC_2
+tpr,VAR_5
+irq_masked,FUNC_3
+vcpu,VAR_6
+h_pending,VAR_7
+h_inservice,VAR_8
+vtpr,VAR_9

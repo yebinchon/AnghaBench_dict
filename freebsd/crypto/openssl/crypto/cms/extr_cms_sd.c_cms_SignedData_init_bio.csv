@@ -1,0 +1,14 @@
+BIO_free_all,FUNC_0
+BIO_push,FUNC_1
+cms_DigestAlgorithm_init_bio,FUNC_2
+cms_get0_signed,FUNC_3
+cms_sd_set_version,FUNC_4
+sk_X509_ALGOR_num,FUNC_5
+sk_X509_ALGOR_value,FUNC_6
+cms_SignedData_init_bio,FUNC_7
+cms,VAR_0
+i,VAR_1
+sd,VAR_2
+chain,VAR_3
+digestAlgorithm,VAR_4
+mdbio,VAR_5

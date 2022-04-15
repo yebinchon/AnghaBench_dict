@@ -1,0 +1,11 @@
+SCTP_CMD_TIMER_STOP,VAR_0
+SCTP_EVENT_TIMEOUT_T5_SHUTDOWN_GUARD,VAR_1
+SCTP_TO,FUNC_0
+sctp_add_cmd_sf,FUNC_1
+sctp_sf_do_9_1_prm_abort,FUNC_2
+sctp_sf_shutdown_pending_prm_abort,FUNC_3
+ep,VAR_2
+asoc,VAR_3
+type,VAR_4
+arg,VAR_5
+commands,VAR_6

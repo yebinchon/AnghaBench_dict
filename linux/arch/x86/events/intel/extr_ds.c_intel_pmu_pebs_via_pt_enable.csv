@@ -1,0 +1,13 @@
+MSR_RELOAD_PMC0,VAR_0
+PEBS_OUTPUT_PT,VAR_1
+PEBS_PMI_AFTER_EACH_RECORD,VAR_2
+PERF_X86_EVENT_LARGE_PEBS,VAR_3
+cpu_hw_events,VAR_4
+is_pebs_pt,FUNC_0
+this_cpu_ptr,FUNC_1
+wrmsrl,FUNC_2
+intel_pmu_pebs_via_pt_enable,FUNC_3
+event,VAR_5
+cpuc,VAR_6
+hwc,VAR_7
+ds,VAR_8

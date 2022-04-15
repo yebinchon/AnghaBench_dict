@@ -1,0 +1,12 @@
+ETH_RAMROD_TX_QUEUE_STOP,VAR_0
+PROTOCOLID_ETH,VAR_1
+QED_SPQ_MODE_EBLOCK,VAR_2
+memset,FUNC_0
+qed_sp_init_request,FUNC_1
+qed_spq_post,FUNC_2
+qed_eth_pf_tx_queue_stop,FUNC_3
+p_hwfn,VAR_3
+p_cid,VAR_4
+p_ent,VAR_5
+init_data,VAR_6
+rc,VAR_7

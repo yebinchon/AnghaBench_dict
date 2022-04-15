@@ -1,0 +1,12 @@
+AfterTriggerEndQuery,FUNC_0
+Assert,FUNC_1
+EXEC_FLAG_EXPLAIN_ONLY,VAR_0
+EXEC_FLAG_SKIP_TRIGGERS,VAR_1
+ExecPostprocessPlan,FUNC_2
+InstrStartNode,FUNC_3
+InstrStopNode,FUNC_4
+MemoryContextSwitchTo,FUNC_5
+standard_ExecutorFinish,FUNC_6
+queryDesc,VAR_2
+estate,VAR_3
+oldcontext,VAR_4

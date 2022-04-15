@@ -1,0 +1,14 @@
+DSI_CTRL_CMD_MODE_EN,VAR_0
+DSI_CTRL_ENABLE,VAR_1
+DSI_CTRL_VID_MODE_EN,VAR_2
+DSI_IRQ_MASK_CMD_MDP_DONE,VAR_3
+DSI_IRQ_MASK_VIDEO_DONE,VAR_4
+REG_DSI_CTRL,VAR_5
+dsi_intr_ctrl,FUNC_0
+dsi_read,FUNC_1
+dsi_write,FUNC_2
+dsi_op_mode_config,FUNC_3
+msm_host,VAR_6
+video_mode,VAR_7
+enable,VAR_8
+dsi_ctrl,VAR_9

@@ -1,0 +1,14 @@
+CARL9170_IDLE,VAR_0
+CARL9170_STOPPED,VAR_1
+INIT_COMPLETION,FUNC_0
+carl9170_set_state_when,FUNC_1
+carl9170_usb_flush,FUNC_2
+carl9170_usb_handle_tx_err,FUNC_3
+complete_all,FUNC_4
+dev_err,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+usb_poison_anchored_urbs,FUNC_8
+carl9170_usb_stop,FUNC_9
+ar,VAR_2
+ret,VAR_3

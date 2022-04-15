@@ -1,0 +1,13 @@
+VLC_THUMBNAIL_POSITION,VAR_0
+assert,FUNC_0
+callback,VAR_1
+done,VAR_2
+event_wait,FUNC_1
+libvlc_MediaPlayerPositionChanged,VAR_3
+libvlc_event_attach,FUNC_2
+libvlc_event_detach,FUNC_3
+libvlc_media_player_event_manager,FUNC_4
+libvlc_media_player_set_position,FUNC_5
+set_position,FUNC_6
+mp,VAR_4
+em,VAR_5

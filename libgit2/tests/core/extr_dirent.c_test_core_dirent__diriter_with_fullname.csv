@@ -1,0 +1,16 @@
+GIT_ITEROVER,VAR_0
+GIT_PATH_DIRITER_INIT,VAR_1
+check_counts,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+cl_set_cleanup,FUNC_3
+dirent_cleanup__cb,VAR_2
+git_path_diriter_free,FUNC_4
+git_path_diriter_init,FUNC_5
+git_path_diriter_next,FUNC_6
+handle_next,FUNC_7
+setup,FUNC_8
+sub,VAR_3
+test_core_dirent__diriter_with_fullname,FUNC_9
+diriter,VAR_4
+error,VAR_5

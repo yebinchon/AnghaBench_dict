@@ -1,0 +1,10 @@
+BIT,FUNC_0
+mc_readl,FUNC_1
+mc_writel,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+tegra20_mc_hotreset_deassert,FUNC_5
+mc,VAR_0
+rst,VAR_1
+flags,VAR_2
+value,VAR_3

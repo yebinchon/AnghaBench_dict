@@ -1,0 +1,15 @@
+CHANWIDTH_160MHZ,VAR_0
+CHANWIDTH_80MHZ,VAR_1
+CHANWIDTH_80P80MHZ,VAR_2
+CHANWIDTH_USE_HT,VAR_3
+MSG_WARNING,VAR_4
+NUM_HOSTAPD_MODES,VAR_5
+ieee80211_freq_to_channel_ext,FUNC_0
+wpa_printf,FUNC_1
+ieee80211_chaninfo_to_channel,FUNC_2
+freq,VAR_6
+chanwidth,VAR_7
+sec_channel,VAR_8
+op_class,VAR_9
+channel,VAR_10
+vht,VAR_11

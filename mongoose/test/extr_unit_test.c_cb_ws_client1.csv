@@ -1,0 +1,15 @@
+MG_EV_CLOSE,VAR_0
+MG_EV_WEBSOCKET_CONTROL_FRAME,VAR_1
+MG_EV_WEBSOCKET_FRAME,VAR_2
+MG_EV_WEBSOCKET_HANDSHAKE_DONE,VAR_3
+free,FUNC_0
+mbuf_append,FUNC_1
+mg_asprintf,FUNC_2
+s_ws_client1_connected,VAR_4
+cb_ws_client1,FUNC_3
+nc,VAR_5
+ev,VAR_6
+ev_data,VAR_7
+wm,VAR_8
+tmp,VAR_9
+tmplen,VAR_10

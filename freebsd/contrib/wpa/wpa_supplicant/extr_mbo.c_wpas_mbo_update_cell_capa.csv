@@ -1,0 +1,13 @@
+MBO_ATTR_ID_CELL_DATA_CAPA,VAR_0
+MSG_DEBUG,VAR_1
+OUI_WFA,VAR_2
+WLAN_EID_VENDOR_SPECIFIC,VAR_3
+WPA_PUT_BE24,FUNC_0
+wpa_printf,FUNC_1
+wpa_supplicant_set_default_scan_ies,FUNC_2
+wpas_mbo_send_wnm_notification,FUNC_3
+wpas_update_mbo_connect_params,FUNC_4
+wpas_mbo_update_cell_capa,FUNC_5
+wpa_s,VAR_4
+mbo_cell_capa,VAR_5
+cell_capa,VAR_6

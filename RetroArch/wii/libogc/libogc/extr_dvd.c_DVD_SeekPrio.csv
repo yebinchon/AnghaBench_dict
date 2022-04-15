@@ -1,0 +1,13 @@
+DVD_SeekAbsAsyncPrio,FUNC_0
+LWP_ThreadSleep,FUNC_1
+_CPU_ISR_Disable,FUNC_2
+_CPU_ISR_Restore,FUNC_3
+__dvd_seeksynccb,VAR_0
+__dvd_wait_queue,VAR_1
+DVD_SeekPrio,FUNC_4
+block,VAR_2
+offset,VAR_3
+prio,VAR_4
+level,VAR_5
+state,VAR_6
+ret,VAR_7

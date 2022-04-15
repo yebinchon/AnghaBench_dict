@@ -1,0 +1,15 @@
+FLASH_STATUS_BIT_MASK_DQ5,VAR_0
+FLASH_STATUS_BIT_MASK_DQ6,VAR_1
+FLASH_STATUS_ERASE_DELAY_COUNT,VAR_2
+FLASH_STATUS_WRITE_DELAY_COUNT,VAR_3
+asd_read_reg_byte,FUNC_0
+udelay,FUNC_1
+asd_chk_write_status,FUNC_2
+asd_ha,VAR_4
+sector_addr,VAR_5
+erase_flag,VAR_6
+reg,VAR_7
+loop_cnt,VAR_8
+nv_data1,VAR_9
+nv_data2,VAR_10
+toggle_bit1,VAR_11

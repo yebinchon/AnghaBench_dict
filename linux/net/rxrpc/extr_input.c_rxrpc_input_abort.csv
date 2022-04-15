@@ -1,0 +1,17 @@
+ECONNABORTED,VAR_0
+RXRPC_CALL_REMOTELY_ABORTED,VAR_1
+RX_CALL_DEAD,VAR_2
+_enter,FUNC_0
+_proto,FUNC_1
+ntohl,FUNC_2
+rxrpc_notify_socket,FUNC_3
+rxrpc_set_call_completion,FUNC_4
+rxrpc_skb,FUNC_5
+skb_copy_bits,FUNC_6
+trace_rxrpc_rx_abort,FUNC_7
+rxrpc_input_abort,FUNC_8
+call,VAR_3
+skb,VAR_4
+sp,VAR_5
+wtmp,VAR_6
+abort_code,VAR_7

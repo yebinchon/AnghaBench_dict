@@ -1,0 +1,15 @@
+JERRY_INIT_EMPTY,VAR_0
+TEST_ASSERT,FUNC_0
+jerry_cleanup,FUNC_1
+jerry_exec_snapshot,FUNC_2
+jerry_get_number_value,FUNC_3
+jerry_init,FUNC_4
+jerry_release_value,FUNC_5
+jerry_value_is_error,FUNC_6
+jerry_value_is_number,FUNC_7
+arguments_test_exec_snapshot,FUNC_8
+snapshot_p,VAR_1
+snapshot_size,VAR_2
+exec_snapshot_flags,VAR_3
+res,VAR_4
+raw_value,VAR_5

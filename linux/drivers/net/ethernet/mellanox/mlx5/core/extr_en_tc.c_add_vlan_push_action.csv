@@ -1,0 +1,16 @@
+FLOW_ACTION_VLAN_PUSH,VAR_0
+dev_get_by_index_rcu,FUNC_0
+dev_get_iflink,FUNC_1
+dev_net,FUNC_2
+is_vlan_dev,FUNC_3
+parse_tc_vlan_action,FUNC_4
+vlan_dev_vlan_id,FUNC_5
+vlan_dev_vlan_proto,FUNC_6
+add_vlan_push_action,FUNC_7
+priv,VAR_1
+attr,VAR_2
+out_dev,VAR_3
+action,VAR_4
+vlan_dev,VAR_5
+vlan_act,VAR_6
+err,VAR_7

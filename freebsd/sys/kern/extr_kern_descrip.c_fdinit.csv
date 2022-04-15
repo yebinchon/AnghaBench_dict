@@ -1,0 +1,17 @@
+CMASK,VAR_0
+FILEDESC_LOCK_INIT,FUNC_0
+FILEDESC_SLOCK,FUNC_1
+FILEDESC_SUNLOCK,FUNC_2
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+NDFILE,VAR_3
+fdgrowtable,FUNC_3
+filedesc0_zone,VAR_4
+refcount_init,FUNC_4
+uma_zalloc,FUNC_5
+vrefact,FUNC_6
+fdinit,FUNC_7
+fdp,VAR_5
+prepfiles,VAR_6
+newfdp0,VAR_7
+newfdp,VAR_8

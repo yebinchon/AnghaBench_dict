@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+EIO,VAR_1
+FYI,VAR_2
+SMBFLG2_SECURITY_SIGNATURE,VAR_3
+SMB_COM_LOGOFF_ANDX,VAR_4
+SendReceiveNoRsp,FUNC_0
+cifs_dbg,FUNC_1
+cifs_small_buf_release,FUNC_2
+get_next_mid,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+small_smb_init,FUNC_6
+CIFSSMBLogoff,FUNC_7
+xid,VAR_5
+ses,VAR_6
+pSMB,VAR_7
+rc,VAR_8

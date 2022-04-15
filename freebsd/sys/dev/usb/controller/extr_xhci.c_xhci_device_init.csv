@@ -1,0 +1,16 @@
+DPRINTF,FUNC_0
+USB_ERR_BAD_ADDRESS,VAR_0
+XHCI_BUS2SC,FUNC_1
+XHCI_CMD_LOCK,FUNC_2
+XHCI_CMD_UNLOCK,FUNC_3
+XHCI_ST_DISABLED,VAR_1
+XHCI_ST_ENABLED,VAR_2
+memset,FUNC_4
+xhci_alloc_device_ext,FUNC_5
+xhci_cmd_enable_slot,FUNC_6
+xhci_set_address,FUNC_7
+xhci_device_init,FUNC_8
+udev,VAR_3
+sc,VAR_4
+err,VAR_5
+temp,VAR_6

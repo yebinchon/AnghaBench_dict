@@ -1,0 +1,12 @@
+LIO_IQ_SEND_FAILED,VAR_0
+LIO_IQ_SEND_OK,VAR_1
+LIO_IQ_SEND_STOP,VAR_2
+__lio_copy_cmd_into_iq,FUNC_0
+atomic_add_int,FUNC_1
+atomic_load_acq_int,FUNC_2
+lio_incr_index,FUNC_3
+wmb,FUNC_4
+__lio_post_command2,FUNC_5
+iq,VAR_3
+cmd,VAR_4
+st,VAR_5

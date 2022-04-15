@@ -1,0 +1,15 @@
+SVN_ERR,FUNC_0
+SVN_ERR_FS_NOT_REVISION_ROOT,VAR_0
+SVN_FS_BASE__MIN_MERGEINFO_FORMAT,VAR_1
+get_mergeinfos_for_paths,FUNC_1
+svn_error_create,FUNC_2
+svn_fs_base__test_required_feature_format,FUNC_3
+base_get_mergeinfo,FUNC_4
+root,VAR_2
+paths,VAR_3
+inherit,VAR_4
+include_descendants,VAR_5
+adjust_inherited_mergeinfo,VAR_6
+receiver,VAR_7
+baton,VAR_8
+scratch_pool,VAR_9

@@ -1,0 +1,15 @@
+IEEE80211_QOS_CTL_TID_MASK,VAR_0
+get_unaligned_le16,FUNC_0
+get_unaligned_le32,FUNC_1
+ieee80211_get_DA,FUNC_2
+ieee80211_get_SA,FUNC_3
+ieee80211_get_qos_ctl,FUNC_4
+ieee80211_is_data_qos,FUNC_5
+michael_block,FUNC_6
+michael_mic_hdr,FUNC_7
+mctx,VAR_1
+key,VAR_2
+hdr,VAR_3
+da,VAR_4
+sa,VAR_5
+tid,VAR_6

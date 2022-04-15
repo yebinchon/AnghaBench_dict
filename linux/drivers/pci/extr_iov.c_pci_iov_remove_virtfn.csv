@@ -1,0 +1,15 @@
+VIRTFN_ID_LEN,VAR_0
+pci_dev_put,FUNC_0
+pci_domain_nr,FUNC_1
+pci_get_domain_bus_and_slot,FUNC_2
+pci_iov_virtfn_bus,FUNC_3
+pci_iov_virtfn_devfn,FUNC_4
+pci_stop_and_remove_bus_device,FUNC_5
+sprintf,FUNC_6
+sysfs_remove_link,FUNC_7
+virtfn_remove_bus,FUNC_8
+pci_iov_remove_virtfn,FUNC_9
+dev,VAR_1
+id,VAR_2
+buf,VAR_3
+virtfn,VAR_4

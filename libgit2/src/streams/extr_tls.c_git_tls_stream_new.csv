@@ -1,0 +1,16 @@
+GIT_ENOTFOUND,VAR_0
+GIT_ERROR_SSL,VAR_1
+GIT_STREAM_TLS,VAR_2
+assert,FUNC_0
+git_error_set,FUNC_1
+git_mbedtls_stream_new,FUNC_2
+git_openssl_stream_new,FUNC_3
+git_stransport_stream_new,FUNC_4
+git_stream_registry_lookup,FUNC_5
+git_tls_stream_new,FUNC_6
+out,VAR_3
+host,VAR_4
+port,VAR_5
+init,VAR_6
+custom,VAR_7
+error,VAR_8

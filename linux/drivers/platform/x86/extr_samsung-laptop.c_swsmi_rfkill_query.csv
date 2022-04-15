@@ -1,0 +1,13 @@
+RFKILL_TYPE_BLUETOOTH,VAR_0
+RFKILL_TYPE_WLAN,VAR_1
+WL_STATUS_BT,VAR_2
+WL_STATUS_WLAN,VAR_3
+rfkill_set_sw_state,FUNC_0
+swsmi_wireless_status,FUNC_1
+swsmi_rfkill_query,FUNC_2
+rfkill,VAR_4
+priv,VAR_5
+srfkill,VAR_6
+samsung,VAR_7
+data,VAR_8
+ret,VAR_9

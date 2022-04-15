@@ -1,0 +1,14 @@
+FRAMEBUFFER_REQ,VAR_0
+MMIO_REQ,VAR_1
+MMIO_SIZE,VAR_2
+agp_free_memory,FUNC_0
+arch_phys_wc_del,FUNC_1
+framebuffer_release,FUNC_2
+i810_delete_i2c_busses,FUNC_3
+iounmap,FUNC_4
+kfree,FUNC_5
+release_mem_region,FUNC_6
+i810fb_release_resource,FUNC_7
+info,VAR_3
+par,VAR_4
+gtt,VAR_5

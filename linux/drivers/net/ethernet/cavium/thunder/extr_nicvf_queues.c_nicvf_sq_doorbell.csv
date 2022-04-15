@@ -1,0 +1,12 @@
+NIC_QSET_SQ_0_7_DOOR,VAR_0
+netdev_get_tx_queue,FUNC_0
+netdev_tx_sent_queue,FUNC_1
+nicvf_queue_reg_write,FUNC_2
+skb_get_queue_mapping,FUNC_3
+smp_wmb,FUNC_4
+nicvf_sq_doorbell,FUNC_5
+nic,VAR_1
+skb,VAR_2
+sq_num,VAR_3
+desc_cnt,VAR_4
+txq,VAR_5

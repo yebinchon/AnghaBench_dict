@@ -1,0 +1,13 @@
+IT_QUERY_STATUS,VAR_0
+command__mes_query_status__fence_only_after_write_ack,VAR_1
+interrupt_sel__mes_query_status__completion_status,VAR_2
+lower_32_bits,FUNC_0
+memset,FUNC_1
+pm_build_pm4_header,FUNC_2
+upper_32_bits,FUNC_3
+pm_query_status_v9,FUNC_4
+pm,VAR_3
+buffer,VAR_4
+fence_address,VAR_5
+fence_value,VAR_6
+packet,VAR_7

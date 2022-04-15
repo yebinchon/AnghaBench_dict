@@ -1,0 +1,16 @@
+B43_LPPHY_TXPCTL_OFF,VAR_0
+b43_mac_enable,FUNC_0
+b43_mac_suspend,FUNC_1
+lpphy_btcoex_override,FUNC_2
+lpphy_papd_cal_txpwr,FUNC_3
+lpphy_pr41573_workaround,FUNC_4
+lpphy_read_tx_pctl_mode_from_hardware,FUNC_5
+lpphy_restore_dig_flt_state,FUNC_6
+lpphy_rx_iq_cal,FUNC_7
+lpphy_save_dig_flt_state,FUNC_8
+lpphy_set_tx_power_control,FUNC_9
+lpphy_calibration,FUNC_10
+dev,VAR_1
+lpphy,VAR_2
+saved_pctl_mode,VAR_3
+full_cal,VAR_4

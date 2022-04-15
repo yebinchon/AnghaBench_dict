@@ -1,0 +1,12 @@
+ATA_EH_PMP_LINK_TRIES,VAR_0
+ATA_LFLAG_DISABLED,VAR_1
+KERN_WARNING,VAR_2
+ata_dev_disable,FUNC_0
+ata_link_printk,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+sata_pmp_handle_link_fail,FUNC_4
+link,VAR_3
+link_tries,VAR_4
+ap,VAR_5
+flags,VAR_6

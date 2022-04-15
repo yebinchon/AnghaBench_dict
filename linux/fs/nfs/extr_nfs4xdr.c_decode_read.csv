@@ -1,0 +1,17 @@
+EIO,VAR_0
+OP_READ,VAR_1
+be32_to_cpup,FUNC_0
+decode_op_hdr,FUNC_1
+dprintk,FUNC_2
+unlikely,FUNC_3
+xdr_inline_decode,FUNC_4
+xdr_read_pages,FUNC_5
+decode_read,FUNC_6
+xdr,VAR_2
+req,VAR_3
+res,VAR_4
+p,VAR_5
+count,VAR_6
+eof,VAR_7
+recvd,VAR_8
+status,VAR_9

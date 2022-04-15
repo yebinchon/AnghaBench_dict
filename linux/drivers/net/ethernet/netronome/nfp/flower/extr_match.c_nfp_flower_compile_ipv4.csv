@@ -1,0 +1,12 @@
+FLOW_DISSECTOR_KEY_IPV4_ADDRS,VAR_0
+flow_cls_offload_flow_rule,FUNC_0
+flow_rule_match_ipv4_addrs,FUNC_1
+flow_rule_match_key,FUNC_2
+memset,FUNC_3
+nfp_flower_compile_ip_ext,FUNC_4
+nfp_flower_compile_ipv4,FUNC_5
+ext,VAR_1
+msk,VAR_2
+flow,VAR_3
+rule,VAR_4
+match,VAR_5

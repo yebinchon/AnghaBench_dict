@@ -1,0 +1,13 @@
+DSA_HLEN,VAR_0
+ETH_ALEN,VAR_1
+ETH_P_8021Q,VAR_2
+dsa_slave_to_port,FUNC_0
+htons,FUNC_1
+memmove,FUNC_2
+skb_cow_head,FUNC_3
+skb_push,FUNC_4
+dsa_xmit,FUNC_5
+skb,VAR_3
+dev,VAR_4
+dp,VAR_5
+dsa_header,VAR_6

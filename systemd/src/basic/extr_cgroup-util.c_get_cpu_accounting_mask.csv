@@ -1,0 +1,9 @@
+CGROUP_MASK_CPU,VAR_0
+CGROUP_MASK_CPUACCT,VAR_1
+assert_se,FUNC_0
+cg_all_unified,FUNC_1
+str_verscmp,FUNC_2
+uname,FUNC_3
+get_cpu_accounting_mask,FUNC_4
+needed_mask,VAR_2
+u,VAR_3

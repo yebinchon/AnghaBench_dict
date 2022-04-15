@@ -1,0 +1,13 @@
+ISCSI_SESSION_LOCK_ASSERT,FUNC_0
+PDU_SESSION,FUNC_1
+STAILQ_EMPTY,FUNC_2
+STAILQ_INSERT_TAIL,FUNC_3
+icl_pdu_queue,FUNC_4
+ip_next,VAR_0
+iscsi_pdu_prepare,FUNC_5
+iscsi_session_send_postponed,FUNC_6
+xpt_freeze_simq,FUNC_7
+iscsi_pdu_queue_locked,FUNC_8
+request,VAR_1
+is,VAR_2
+postpone,VAR_3

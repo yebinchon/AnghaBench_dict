@@ -1,0 +1,16 @@
+arch_send_wakeup_ipi_mask,FUNC_0
+cpu_logical_map,FUNC_1
+cpumask_of,FUNC_2
+mvebu_cortex_a9_secondary_startup,VAR_0
+mvebu_cpu_reset_deassert,FUNC_3
+mvebu_pmsu_set_cpu_boot_addr,FUNC_4
+mvebu_system_controller_set_cpu_boot_addr,FUNC_5
+of_machine_is_compatible,FUNC_6
+pr_err,FUNC_7
+pr_info,FUNC_8
+smp_wmb,FUNC_9
+mvebu_cortex_a9_boot_secondary,FUNC_10
+cpu,VAR_1
+idle,VAR_2
+ret,VAR_3
+hw_cpu,VAR_4

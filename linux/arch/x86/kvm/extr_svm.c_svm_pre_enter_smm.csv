@@ -1,0 +1,13 @@
+VCPU_REGS_RAX,VAR_0
+VCPU_REGS_RIP,VAR_1
+VCPU_REGS_RSP,VAR_2
+is_guest_mode,FUNC_0
+nested_svm_vmexit,FUNC_1
+put_smstate,FUNC_2
+to_svm,FUNC_3
+u64,VAR_3
+svm_pre_enter_smm,FUNC_4
+vcpu,VAR_4
+smstate,VAR_5
+svm,VAR_6
+ret,VAR_7

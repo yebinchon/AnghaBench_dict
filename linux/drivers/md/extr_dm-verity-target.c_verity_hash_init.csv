@@ -1,0 +1,17 @@
+CRYPTO_TFM_REQ_MAY_BACKLOG,VAR_0
+CRYPTO_TFM_REQ_MAY_SLEEP,VAR_1
+DMERR,FUNC_0
+ahash_request_set_callback,FUNC_1
+ahash_request_set_tfm,FUNC_2
+crypto_ahash_init,FUNC_3
+crypto_init_wait,FUNC_4
+crypto_req_done,VAR_2
+crypto_wait_req,FUNC_5
+likely,FUNC_6
+unlikely,FUNC_7
+verity_hash_update,FUNC_8
+verity_hash_init,FUNC_9
+v,VAR_3
+req,VAR_4
+wait,VAR_5
+r,VAR_6

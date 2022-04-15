@@ -1,0 +1,17 @@
+DID_ABORT,VAR_0
+DID_ERROR,VAR_1
+RTSX_STAT_ABORT,VAR_2
+SAM_STAT_CHECK_CONDITION,VAR_3
+SAM_STAT_GOOD,VAR_4
+SCSI_LUN,FUNC_0
+TRANSPORT_ERROR,VAR_5
+TRANSPORT_FAILED,VAR_6
+dev_dbg,FUNC_1
+memcpy,FUNC_2
+rtsx_chk_stat,FUNC_3
+rtsx_dev,FUNC_4
+rtsx_scsi_handler,FUNC_5
+rtsx_invoke_transport,FUNC_6
+srb,VAR_7
+chip,VAR_8
+result,VAR_9

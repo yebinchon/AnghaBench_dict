@@ -1,0 +1,15 @@
+SCTP_PARTIAL_DELIVERY_ABORTED,VAR_0
+SCTP_PARTIAL_DELIVERY_EVENT,VAR_1
+__skb_queue_tail,FUNC_0
+sctp_event2skb,FUNC_1
+sctp_sk,FUNC_2
+sctp_ulpevent_make_pdapi,FUNC_3
+sctp_ulpevent_type_enabled,FUNC_4
+sctp_ulpq_clear_pd,FUNC_5
+stub1,FUNC_6
+sctp_ulpq_abort_pd,FUNC_7
+ulpq,VAR_2
+gfp,VAR_3
+ev,VAR_4
+sp,VAR_5
+sk,VAR_6

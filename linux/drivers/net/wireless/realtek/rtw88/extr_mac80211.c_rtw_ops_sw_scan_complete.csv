@@ -1,0 +1,16 @@
+COEX_SCAN_FINISH,VAR_0
+PORT_SET_MAC_ADDR,VAR_1
+RTW_FLAG_DIG_DISABLE,VAR_2
+RTW_FLAG_SCANNING,VAR_3
+ether_addr_copy,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rtw_coex_scan_notify,FUNC_3
+rtw_flag_clear,FUNC_4
+rtw_vif_port_config,FUNC_5
+rtw_ops_sw_scan_complete,FUNC_6
+hw,VAR_4
+vif,VAR_5
+rtwdev,VAR_6
+rtwvif,VAR_7
+config,VAR_8

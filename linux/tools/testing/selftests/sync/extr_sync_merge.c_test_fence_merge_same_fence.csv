@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+FENCE_STATUS_SIGNALED,VAR_0
+sw_sync_fence_create,FUNC_1
+sw_sync_fence_destroy,FUNC_2
+sw_sync_fence_is_valid,FUNC_3
+sw_sync_timeline_create,FUNC_4
+sw_sync_timeline_destroy,FUNC_5
+sw_sync_timeline_inc,FUNC_6
+sw_sync_timeline_is_valid,FUNC_7
+sync_fence_count_with_status,FUNC_8
+sync_merge,FUNC_9
+test_fence_merge_same_fence,FUNC_10
+fence,VAR_1
+valid,VAR_2
+merged,VAR_3
+timeline,VAR_4

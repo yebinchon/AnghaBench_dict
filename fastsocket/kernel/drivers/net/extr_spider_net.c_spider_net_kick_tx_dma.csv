@@ -1,0 +1,14 @@
+SPIDER_NET_DESCR_CARDOWNED,VAR_0
+SPIDER_NET_DMA_TX_VALUE,VAR_1
+SPIDER_NET_GDTDCHA,VAR_2
+SPIDER_NET_GDTDMACCNTR,VAR_3
+SPIDER_NET_TX_DMA_EN,VAR_4
+SPIDER_NET_TX_TIMER,VAR_5
+jiffies,VAR_6
+mod_timer,FUNC_0
+spider_net_get_descr_status,FUNC_1
+spider_net_read_reg,FUNC_2
+spider_net_write_reg,FUNC_3
+spider_net_kick_tx_dma,FUNC_4
+card,VAR_7
+descr,VAR_8

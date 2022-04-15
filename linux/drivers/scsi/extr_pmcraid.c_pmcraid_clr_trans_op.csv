@@ -1,0 +1,10 @@
+INTRS_TRANSITION_TO_OPERATIONAL,VAR_0
+del_timer,FUNC_0
+ioread32,FUNC_1
+iowrite32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stub1,FUNC_5
+pmcraid_clr_trans_op,FUNC_6
+pinstance,VAR_1
+lock_flags,VAR_2

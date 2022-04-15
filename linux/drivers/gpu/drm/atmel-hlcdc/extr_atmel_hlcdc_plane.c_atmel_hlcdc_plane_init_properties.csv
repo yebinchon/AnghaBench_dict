@@ -1,0 +1,14 @@
+ATMEL_HLCDC_CURSOR_LAYER,VAR_0
+ATMEL_HLCDC_OVERLAY_LAYER,VAR_1
+DRM_MODE_ROTATE_0,VAR_2
+DRM_MODE_ROTATE_180,VAR_3
+DRM_MODE_ROTATE_270,VAR_4
+DRM_MODE_ROTATE_90,VAR_5
+atmel_hlcdc_layer_write_cfg,FUNC_0
+drm_plane_create_alpha_property,FUNC_1
+drm_plane_create_rotation_property,FUNC_2
+atmel_hlcdc_plane_init_properties,FUNC_3
+plane,VAR_6
+desc,VAR_7
+ret,VAR_8
+ret,VAR_9

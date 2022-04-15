@@ -1,0 +1,17 @@
+SHA1_BLOCK_SIZE,VAR_0
+crypto_sha1_finup,FUNC_0
+crypto_simd_usable,FUNC_1
+kernel_neon_begin,FUNC_2
+kernel_neon_end,FUNC_3
+sha1_base_do_finalize,FUNC_4
+sha1_base_do_update,FUNC_5
+sha1_base_finish,FUNC_6
+sha1_ce_transform,VAR_1
+shash_desc_ctx,FUNC_7
+sha1_ce_finup,FUNC_8
+desc,VAR_2
+data,VAR_3
+len,VAR_4
+out,VAR_5
+sctx,VAR_6
+finalize,VAR_7

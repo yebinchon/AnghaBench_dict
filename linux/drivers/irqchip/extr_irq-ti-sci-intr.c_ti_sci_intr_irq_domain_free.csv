@@ -1,0 +1,16 @@
+HWIRQ_TO_DEVID,FUNC_0
+HWIRQ_TO_IRQID,FUNC_1
+irq_domain_free_irqs_parent,FUNC_2
+irq_domain_get_irq_data,FUNC_3
+irq_domain_reset_irq_data,FUNC_4
+stub1,FUNC_5
+ti_sci_release_resource,FUNC_6
+ti_sci_intr_irq_domain_free,FUNC_7
+domain,VAR_0
+virq,VAR_1
+nr_irqs,VAR_2
+intr,VAR_3
+data,VAR_4
+parent_data,VAR_5
+dev_id,VAR_6
+irq_index,VAR_7

@@ -1,0 +1,13 @@
+NVME_DIR_ENDIR,VAR_0
+NVME_DIR_IDENTIFY,VAR_1
+NVME_DIR_SND_ID_OP_ENABLE,VAR_2
+NVME_DIR_STREAMS,VAR_3
+NVME_NSID_ALL,VAR_4
+cpu_to_le32,FUNC_0
+memset,FUNC_1
+nvme_admin_directive_send,VAR_5
+nvme_submit_sync_cmd,FUNC_2
+nvme_toggle_streams,FUNC_3
+ctrl,VAR_6
+enable,VAR_7
+c,VAR_8

@@ -1,0 +1,13 @@
+IEEE802_1X_TYPE_EAP_PACKET,VAR_0
+MSG_DEBUG,VAR_1
+MSG_WARNING,VAR_2
+eap_get_eapRespData,FUNC_0
+eap_proxy_get_eapRespData,FUNC_1
+stub1,FUNC_2
+wpa_printf,FUNC_3
+wpabuf_free,FUNC_4
+wpabuf_head,FUNC_5
+wpabuf_len,FUNC_6
+eapol_sm_txSuppRsp,FUNC_7
+sm,VAR_3
+resp,VAR_4

@@ -1,0 +1,14 @@
+ETIMEDOUT,VAR_0
+STK1160_I2C_TIMEOUT,VAR_1
+STK1160_SICTL,VAR_2
+USEC_PER_MSEC,VAR_3
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_0
+stk1160_read_reg,FUNC_1
+time_is_after_jiffies,FUNC_2
+usleep_range,FUNC_3
+stk1160_i2c_busy_wait,FUNC_4
+dev,VAR_5
+wait_bit_mask,VAR_6
+end,VAR_7
+flag,VAR_8

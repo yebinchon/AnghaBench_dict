@@ -1,0 +1,15 @@
+DFLG_NO_CABLE,VAR_0
+LOCAL_LOOP_UPDATE,VAR_1
+LOOP_DEAD,VAR_2
+LOOP_RESYNC_ACTIVE,VAR_3
+LOOP_RESYNC_NEEDED,VAR_4
+LOOP_UP,VAR_5
+REGISTER_FC4_NEEDED,VAR_6
+atomic_set,FUNC_0
+clear_bit,FUNC_1
+qla2x00_loop_resync,FUNC_2
+set_bit,FUNC_3
+test_and_set_bit,FUNC_4
+qla2x00_perform_loop_resync,FUNC_5
+ha,VAR_7
+rval,VAR_8

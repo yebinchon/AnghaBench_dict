@@ -1,0 +1,17 @@
+GetProcessHeap,FUNC_0
+HeapAlloc,FUNC_1
+HeapFree,FUNC_2
+HeapReAlloc,FUNC_3
+STATUS_INFO_LENGTH_MISMATCH,VAR_0
+STATUS_SUCCESS,VAR_1
+SystemModuleInformation,VAR_2
+ok,FUNC_4
+pNtQuerySystemInformation,FUNC_5
+test_query_module,FUNC_6
+status,VAR_3
+ReturnLength,VAR_4
+ModuleCount,VAR_5
+i,VAR_6
+SystemInformationLength,VAR_7
+smi,VAR_8
+sm,VAR_9

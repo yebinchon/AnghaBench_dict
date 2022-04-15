@@ -1,0 +1,15 @@
+ASN1_OID_ID_PKCS1_RSAENCRYPTION,VAR_0
+ENOMEM,VAR_1
+free,FUNC_0
+hx509_set_error_string,FUNC_1
+i2d_RSAPublicKey,FUNC_2
+malloc,FUNC_3
+memset,FUNC_4
+set_digest_alg,FUNC_5
+rsa_private_key2SPKI,FUNC_6
+context,VAR_2
+private_key,VAR_3
+spki,VAR_4
+len,VAR_5
+ret,VAR_6
+pp,VAR_7

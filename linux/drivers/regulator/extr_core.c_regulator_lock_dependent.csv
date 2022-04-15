@@ -1,0 +1,16 @@
+EDEADLK,VAR_0
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+regulator_list_mutex,VAR_1
+regulator_lock_recursive,FUNC_2
+regulator_unlock,FUNC_3
+regulator_ww_class,VAR_2
+ww_acquire_done,FUNC_4
+ww_acquire_init,FUNC_5
+ww_mutex_lock_slow,FUNC_6
+regulator_lock_dependent,FUNC_7
+rdev,VAR_3
+ww_ctx,VAR_4
+new_contended_rdev,VAR_5
+old_contended_rdev,VAR_6
+err,VAR_7

@@ -1,0 +1,12 @@
+BME680_MODE_FORCED,VAR_0
+BME680_MODE_MASK,VAR_1
+BME680_MODE_SLEEP,VAR_2
+BME680_REG_CTRL_MEAS,VAR_3
+dev_err,FUNC_0
+regmap_get_device,FUNC_1
+regmap_write_bits,FUNC_2
+bme680_set_mode,FUNC_3
+data,VAR_4
+mode,VAR_5
+dev,VAR_6
+ret,VAR_7

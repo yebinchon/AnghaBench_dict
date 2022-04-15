@@ -1,0 +1,12 @@
+DPNI_BUF_LAYOUT_OPT_DATA_HEAD_ROOM,VAR_0
+DPNI_QUEUE_RX,VAR_1
+XDP_PACKET_HEADROOM,VAR_2
+dpaa2_eth_rx_head_room,FUNC_0
+dpni_get_buffer_layout,FUNC_1
+dpni_set_buffer_layout,FUNC_2
+netdev_err,FUNC_3
+update_rx_buffer_headroom,FUNC_4
+priv,VAR_3
+has_xdp,VAR_4
+buf_layout,VAR_5
+err,VAR_6

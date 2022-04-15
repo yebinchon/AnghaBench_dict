@@ -1,0 +1,11 @@
+bridge_to_dsi,FUNC_0
+clk_disable_unprepare,FUNC_1
+dw_mipi_dsi_disable,FUNC_2
+dw_mipi_dsi_set_mode,FUNC_3
+pm_runtime_put,FUNC_4
+stub1,FUNC_5
+stub2,FUNC_6
+dw_mipi_dsi_bridge_post_disable,FUNC_7
+bridge,VAR_0
+dsi,VAR_1
+phy_ops,VAR_2

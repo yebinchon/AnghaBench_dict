@@ -1,0 +1,11 @@
+CLEAR_EAP_ID,VAR_0
+CLEAR_PSEUDONYM,VAR_1
+CLEAR_REAUTH_ID,VAR_2
+MSG_DEBUG,VAR_3
+eap_set_anon_id,FUNC_0
+os_free,FUNC_1
+wpa_printf,FUNC_2
+eap_aka_clear_identities,FUNC_3
+sm,VAR_4
+data,VAR_5
+id,VAR_6

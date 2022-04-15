@@ -1,0 +1,14 @@
+EFUSE_CTRL,VAR_0
+EFUSE_DATA,VAR_1
+STATUS_SUCCESS,VAR_2
+STATUS_TIMEDOUT,VAR_3
+rtsx_read_register,FUNC_0
+rtsx_write_register,FUNC_1
+udelay,FUNC_2
+rtsx_read_efuse,FUNC_3
+chip,VAR_4
+addr,VAR_5
+val,VAR_6
+retval,VAR_7
+i,VAR_8
+data,VAR_9

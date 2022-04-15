@@ -1,0 +1,13 @@
+XFRM_POL_CAND_ANY,VAR_0
+XFRM_POL_CAND_BOTH,VAR_1
+XFRM_POL_CAND_DADDR,VAR_2
+XFRM_POL_CAND_SADDR,VAR_3
+memset,FUNC_0
+xfrm_policy_lookup_inexact_addr,FUNC_1
+xfrm_policy_find_inexact_candidates,FUNC_2
+cand,VAR_4
+b,VAR_5
+saddr,VAR_6
+daddr,VAR_7
+n,VAR_8
+family,VAR_9

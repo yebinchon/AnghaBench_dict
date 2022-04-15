@@ -1,0 +1,10 @@
+MVEBU_MPPS_PER_REG,VAR_0
+MVEBU_MPP_BITS,VAR_1
+MVEBU_MPP_MASK,VAR_2
+readl,FUNC_0
+mvebu_mmio_mpp_ctrl_get,FUNC_1
+data,VAR_3
+pid,VAR_4
+config,VAR_5
+off,VAR_6
+shift,VAR_7

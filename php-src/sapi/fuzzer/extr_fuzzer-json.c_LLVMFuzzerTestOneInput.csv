@@ -1,0 +1,16 @@
+FAILURE,VAR_0
+SUCCESS,VAR_1
+exit,FUNC_0
+fprintf,FUNC_1
+free,FUNC_2
+fuzzer_request_startup,FUNC_3
+malloc,FUNC_4
+memcpy,FUNC_5
+php_json_parser_init,FUNC_6
+php_json_yyparse,FUNC_7
+php_request_shutdown,FUNC_8
+stderr,VAR_2
+zval_ptr_dtor,FUNC_9
+LLVMFuzzerTestOneInput,FUNC_10
+Data,VAR_3
+Size,VAR_4

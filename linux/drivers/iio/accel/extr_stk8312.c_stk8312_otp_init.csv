@@ -1,0 +1,17 @@
+BIT,FUNC_0
+EINVAL,VAR_0
+ETIMEDOUT,VAR_1
+STK8312_REG_AFECTRL,VAR_2
+STK8312_REG_OTPADDR,VAR_3
+STK8312_REG_OTPCTRL,VAR_4
+STK8312_REG_OTPDATA,VAR_5
+dev_err,FUNC_1
+i2c_smbus_read_byte_data,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+msleep,FUNC_4
+usleep_range,FUNC_5
+stk8312_otp_init,FUNC_6
+data,VAR_6
+ret,VAR_7
+count,VAR_8
+client,VAR_9

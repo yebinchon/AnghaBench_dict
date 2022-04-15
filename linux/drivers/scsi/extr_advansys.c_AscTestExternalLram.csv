@@ -1,0 +1,13 @@
+ASC_QNO_TO_QADDR,FUNC_0
+AscGetChipLramData,FUNC_1
+AscReadLramWord,FUNC_2
+AscSetChipLramAddr,FUNC_3
+AscSetChipLramData,FUNC_4
+AscWriteLramWord,FUNC_5
+mdelay,FUNC_6
+AscTestExternalLram,FUNC_7
+asc_dvc,VAR_0
+iop_base,VAR_1
+q_addr,VAR_2
+saved_word,VAR_3
+sta,VAR_4

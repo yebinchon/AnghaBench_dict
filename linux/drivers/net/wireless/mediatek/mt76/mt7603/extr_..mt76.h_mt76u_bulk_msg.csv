@@ -1,0 +1,15 @@
+MT_EP_IN_CMD_RESP,VAR_0
+MT_EP_OUT_INBAND_CMD,VAR_1
+to_usb_device,FUNC_0
+usb_bulk_msg,FUNC_1
+usb_rcvbulkpipe,FUNC_2
+usb_sndbulkpipe,FUNC_3
+mt76u_bulk_msg,FUNC_4
+dev,VAR_2
+data,VAR_3
+len,VAR_4
+actual_len,VAR_5
+timeout,VAR_6
+udev,VAR_7
+usb,VAR_8
+pipe,VAR_9

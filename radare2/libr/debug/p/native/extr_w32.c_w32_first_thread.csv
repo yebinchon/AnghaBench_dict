@@ -1,0 +1,15 @@
+CloseHandle,FUNC_0
+CreateToolhelp32Snapshot,FUNC_1
+INVALID_HANDLE_VALUE,VAR_0
+TH32CS_SNAPTHREAD,VAR_1
+THREAD_ALL_ACCESS,VAR_2
+Thread32First,FUNC_2
+Thread32Next,FUNC_3
+eprintf,FUNC_4
+r_sys_perror,FUNC_5
+w32_OpenThread,FUNC_6
+w32_first_thread,FUNC_7
+pid,VAR_3
+th,VAR_4
+thid,VAR_5
+te32,VAR_6

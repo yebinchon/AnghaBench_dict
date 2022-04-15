@@ -1,0 +1,15 @@
+AC_PWRST_D3,VAR_0
+AC_VERB_GET_POWER_STATE,VAR_1
+AC_VERB_SET_POWER_STATE,VAR_2
+is_active_nid_for_any,FUNC_0
+msleep,FUNC_1
+snd_hda_check_power_state,FUNC_2
+snd_hda_codec_read,FUNC_3
+snd_hda_codec_write,FUNC_4
+path_power_down_sync,FUNC_5
+codec,VAR_3
+path,VAR_4
+spec,VAR_5
+changed,VAR_6
+i,VAR_7
+nid,VAR_8

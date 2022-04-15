@@ -1,0 +1,13 @@
+SNDRV_PCM_HW_PARAM_RATE,VAR_0
+SUN4I_CODEC_DAC_FIFOC,VAR_1
+SUN4I_CODEC_DAC_FIFOC_DRQ_CLR_CNT,VAR_2
+clk_prepare_enable,FUNC_0
+regmap_update_bits,FUNC_1
+snd_pcm_hw_constraint_list,FUNC_2
+snd_soc_card_get_drvdata,FUNC_3
+sun4i_codec_constraints,VAR_3
+sun4i_codec_startup,FUNC_4
+substream,VAR_4
+dai,VAR_5
+rtd,VAR_6
+scodec,VAR_7

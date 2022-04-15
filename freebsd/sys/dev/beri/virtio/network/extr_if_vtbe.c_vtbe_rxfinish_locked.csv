@@ -1,0 +1,14 @@
+PIO_SET,FUNC_0
+Q_INTR,VAR_0
+VIRTIO_MMIO_INTERRUPT_STATUS,VAR_1
+VIRTIO_MMIO_INT_VRING,VAR_2
+WRITE4,FUNC_1
+be16toh,FUNC_2
+htobe32,FUNC_3
+vq_has_descs,FUNC_4
+vq_ring_ready,FUNC_5
+vtbe_proc_rx,FUNC_6
+vtbe_rxfinish_locked,FUNC_7
+sc,VAR_3
+vq,VAR_4
+reg,VAR_5

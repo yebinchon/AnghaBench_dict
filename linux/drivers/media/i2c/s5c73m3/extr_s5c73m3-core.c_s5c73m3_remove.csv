@@ -1,0 +1,12 @@
+i2c_get_clientdata,FUNC_0
+media_entity_cleanup,FUNC_1
+oif_sd_to_s5c73m3,FUNC_2
+s5c73m3_unregister_spi_driver,FUNC_3
+v4l2_async_unregister_subdev,FUNC_4
+v4l2_ctrl_handler_free,FUNC_5
+v4l2_device_unregister_subdev,FUNC_6
+s5c73m3_remove,FUNC_7
+client,VAR_0
+oif_sd,VAR_1
+state,VAR_2
+sensor_sd,VAR_3

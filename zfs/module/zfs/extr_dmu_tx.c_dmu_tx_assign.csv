@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+ASSERT0,FUNC_1
+B_TRUE,VAR_0
+ERESTART,VAR_1
+IMPLY,FUNC_2
+TXG_NOTHROTTLE,VAR_2
+TXG_WAIT,VAR_3
+dmu_tx_try_assign,FUNC_3
+dmu_tx_unassign,FUNC_4
+dmu_tx_wait,FUNC_5
+dsl_pool_config_held,FUNC_6
+dsl_pool_sync_context,FUNC_7
+txg_rele_to_quiesce,FUNC_8
+dmu_tx_assign,FUNC_9
+tx,VAR_4
+txg_how,VAR_5
+err,VAR_6

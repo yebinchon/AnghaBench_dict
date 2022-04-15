@@ -1,0 +1,17 @@
+AG71XX_REG_MAC_MFL,VAR_0
+NET_IP_ALIGN,VAR_1
+NET_SKB_PAD,VAR_2
+SKB_DATA_ALIGN,FUNC_0
+ag71xx_hw_enable,FUNC_1
+ag71xx_hw_set_macaddr,FUNC_2
+ag71xx_max_frame_len,FUNC_3
+ag71xx_phy_start,FUNC_4
+ag71xx_rings_cleanup,FUNC_5
+ag71xx_wr,FUNC_6
+netdev_priv,FUNC_7
+netif_carrier_off,FUNC_8
+ag71xx_open,FUNC_9
+dev,VAR_3
+ag,VAR_4
+max_frame_len,VAR_5
+ret,VAR_6

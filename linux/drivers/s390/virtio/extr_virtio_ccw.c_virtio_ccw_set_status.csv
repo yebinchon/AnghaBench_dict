@@ -1,0 +1,13 @@
+CCW_CMD_WRITE_STATUS,VAR_0
+VIRTIO_CCW_DOING_WRITE_STATUS,VAR_1
+ccw_device_dma_free,FUNC_0
+ccw_device_dma_zalloc,FUNC_1
+ccw_io_helper,FUNC_2
+to_vc_device,FUNC_3
+virtio_ccw_set_status,FUNC_4
+vdev,VAR_2
+status,VAR_3
+vcdev,VAR_4
+old_status,VAR_5
+ccw,VAR_6
+ret,VAR_7

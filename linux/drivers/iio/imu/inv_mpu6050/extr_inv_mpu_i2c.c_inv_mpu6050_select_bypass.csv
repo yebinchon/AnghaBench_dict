@@ -1,0 +1,13 @@
+INV_MPU6050_BIT_BYPASS_EN,VAR_0
+i2c_mux_priv,FUNC_0
+iio_priv,FUNC_1
+inv_mpu6050_set_power_itg,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+regmap_write,FUNC_5
+inv_mpu6050_select_bypass,FUNC_6
+muxc,VAR_1
+chan_id,VAR_2
+indio_dev,VAR_3
+st,VAR_4
+ret,VAR_5

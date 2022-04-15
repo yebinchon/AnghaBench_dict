@@ -1,0 +1,16 @@
+NCI_DATA_EXCHANGE,VAR_0
+NCI_DATA_EXCHANGE_TO,VAR_1
+clear_bit,FUNC_0
+del_timer_sync,FUNC_1
+kfree_skb,FUNC_2
+nci_get_conn_info_by_conn_id,FUNC_3
+pr_debug,FUNC_4
+pr_err,FUNC_5
+nci_data_exchange_complete,FUNC_6
+ndev,VAR_2
+skb,VAR_3
+conn_id,VAR_4
+err,VAR_5
+conn_info,VAR_6
+cb,VAR_7
+cb_context,VAR_8

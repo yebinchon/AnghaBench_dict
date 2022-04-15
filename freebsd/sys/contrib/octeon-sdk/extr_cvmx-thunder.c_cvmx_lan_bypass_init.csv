@@ -1,0 +1,8 @@
+BYPASS_EN,VAR_0
+WDT_BP_CLR,VAR_1
+cvmx_gpio_clear,FUNC_0
+cvmx_gpio_set,FUNC_1
+cvmx_rtc_ds1374_alarm_set,FUNC_2
+cvmx_wait,FUNC_3
+cvmx_lan_bypass_init,FUNC_4
+CLR_PULSE,VAR_2

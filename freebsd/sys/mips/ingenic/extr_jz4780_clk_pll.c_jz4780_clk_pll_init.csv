@@ -1,0 +1,11 @@
+CLK_LOCK,FUNC_0
+CLK_RD_4,FUNC_1
+CLK_UNLOCK,FUNC_2
+CLK_WR_4,FUNC_3
+clknode_get_softc,FUNC_4
+clknode_init_parent_idx,FUNC_5
+jz4780_clk_pll_init,FUNC_6
+clk,VAR_0
+dev,VAR_1
+sc,VAR_2
+reg,VAR_3

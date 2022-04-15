@@ -1,0 +1,17 @@
+TRACE_KMEM_FREE,VAR_0
+event_kmem_free,VAR_1
+filter_check_discard,FUNC_0
+kmemtrace_array,VAR_2
+ring_buffer_event_data,FUNC_1
+ring_buffer_lock_reserve,FUNC_2
+ring_buffer_unlock_commit,FUNC_3
+trace_wake_up,FUNC_4
+tracing_generic_entry_update,FUNC_5
+kmemtrace_free,FUNC_6
+type_id,VAR_3
+call_site,VAR_4
+ptr,VAR_5
+call,VAR_6
+tr,VAR_7
+entry,VAR_8
+event,VAR_9

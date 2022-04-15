@@ -1,0 +1,12 @@
+IWL_MAC80211_GET_MVM,FUNC_0
+WARN_ON_ONCE,FUNC_1
+iwl_mvm_bss_info_changed_ap,FUNC_2
+iwl_mvm_bss_info_changed_station,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+iwl_mvm_bss_info_changed,FUNC_6
+hw,VAR_0
+vif,VAR_1
+bss_conf,VAR_2
+changes,VAR_3
+mvm,VAR_4

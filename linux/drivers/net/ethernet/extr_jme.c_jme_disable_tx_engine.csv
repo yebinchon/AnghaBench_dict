@@ -1,0 +1,15 @@
+JME_TXCS,VAR_0
+JME_TX_DISABLE_TIMEOUT,VAR_1
+TXCS_ENABLE,VAR_2
+TXCS_SELECT_QUEUE0,VAR_3
+jme_mac_txclk_off,FUNC_0
+jread32,FUNC_1
+jwrite32,FUNC_2
+mdelay,FUNC_3
+pr_err,FUNC_4
+rmb,FUNC_5
+wmb,FUNC_6
+jme_disable_tx_engine,FUNC_7
+jme,VAR_4
+i,VAR_5
+val,VAR_6

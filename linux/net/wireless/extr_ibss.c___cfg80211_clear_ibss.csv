@@ -1,0 +1,15 @@
+ASSERT_WDEV_LOCK,FUNC_0
+cfg80211_put_bss,FUNC_1
+cfg80211_sched_dfs_chan_update,FUNC_2
+cfg80211_unhold_bss,FUNC_3
+kzfree,FUNC_4
+memset,FUNC_5
+rdev_del_key,FUNC_6
+rdev_set_qos_map,FUNC_7
+wiphy_to_rdev,FUNC_8
+__cfg80211_clear_ibss,FUNC_9
+dev,VAR_0
+nowext,VAR_1
+wdev,VAR_2
+rdev,VAR_3
+i,VAR_4

@@ -1,0 +1,16 @@
+IEEE80211_SKB_CB,FUNC_0
+iwl_mvm_set_tx_cmd,FUNC_1
+iwl_mvm_set_tx_cmd_crypto,FUNC_2
+iwl_mvm_set_tx_cmd_rate,FUNC_3
+iwl_trans_alloc_tx_cmd,FUNC_4
+memset,FUNC_5
+unlikely,FUNC_6
+iwl_mvm_set_tx_params,FUNC_7
+mvm,VAR_0
+skb,VAR_1
+sta,VAR_2
+sta_id,VAR_3
+hdr,VAR_4
+info,VAR_5
+dev_cmd,VAR_6
+tx_cmd,VAR_7

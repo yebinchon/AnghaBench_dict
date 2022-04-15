@@ -1,0 +1,12 @@
+PREEMPT_LOCK_OFFSET,VAR_0
+cpu_relax,FUNC_0
+lockdep_assert_held,FUNC_1
+preempt_schedule_common,FUNC_2
+should_resched,FUNC_3
+spin_lock,FUNC_4
+spin_needbreak,FUNC_5
+spin_unlock,FUNC_6
+__cond_resched_lock,FUNC_7
+lock,VAR_1
+resched,VAR_2
+ret,VAR_3

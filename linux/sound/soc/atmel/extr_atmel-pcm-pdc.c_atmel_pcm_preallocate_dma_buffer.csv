@@ -1,0 +1,12 @@
+ATMEL_SSC_DMABUF_SIZE,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+SNDRV_DMA_TYPE_DEV,VAR_3
+dma_alloc_coherent,FUNC_0
+pr_debug,FUNC_1
+atmel_pcm_preallocate_dma_buffer,FUNC_2
+pcm,VAR_4
+stream,VAR_5
+substream,VAR_6
+buf,VAR_7
+size,VAR_8

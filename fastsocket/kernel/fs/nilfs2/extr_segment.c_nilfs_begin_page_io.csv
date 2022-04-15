@@ -1,0 +1,12 @@
+PageWriteback,FUNC_0
+clear_page_dirty_for_io,FUNC_1
+lock_page,FUNC_2
+nilfs_copy_replace_page_buffers,FUNC_3
+nilfs_test_page_to_be_frozen,FUNC_4
+set_page_writeback,FUNC_5
+unlikely,FUNC_6
+unlock_page,FUNC_7
+nilfs_begin_page_io,FUNC_8
+page,VAR_0
+out,VAR_1
+err,VAR_2

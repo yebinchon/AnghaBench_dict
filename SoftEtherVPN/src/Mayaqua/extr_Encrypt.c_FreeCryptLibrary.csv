@@ -1,0 +1,12 @@
+CONF_modules_unload,FUNC_0
+DeleteLock,FUNC_1
+ENGINE_cleanup,FUNC_2
+ERR_free_strings,FUNC_3
+EVP_cleanup,FUNC_4
+FIPS_mode_set,FUNC_5
+FreeOpenSSLThreadState,FUNC_6
+OpenSSL_FreeLock,FUNC_7
+SSL_COMP_free_compression_methods,FUNC_8
+openssl_inited,VAR_0
+openssl_lock,VAR_1
+FreeCryptLibrary,FUNC_9

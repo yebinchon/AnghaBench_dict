@@ -1,0 +1,12 @@
+DAR_IRQ_STS1,VAR_0
+IRQ_HANDLED,VAR_1
+IRQ_NONE,VAR_2
+MCR20A_READ_REG,FUNC_0
+disable_irq_nosync,FUNC_1
+enable_irq,FUNC_2
+spi_async,FUNC_3
+mcr20a_irq_isr,FUNC_4
+irq,VAR_3
+data,VAR_4
+lp,VAR_5
+ret,VAR_6

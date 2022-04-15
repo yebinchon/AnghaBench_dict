@@ -1,0 +1,17 @@
+HOSTAPD_MODE_IEEE80211A,VAR_0
+HOSTAPD_MODE_IEEE80211G,VAR_1
+VHT_CAP_BEAMFORMEE_STS_OFFSET,VAR_2
+WLAN_EID_VHT_CAP,VAR_3
+host_to_le32,FUNC_0
+le_to_host32,FUNC_1
+os_memcpy,FUNC_2
+os_memset,FUNC_3
+hostapd_eid_vht_capabilities,FUNC_4
+hapd,VAR_4
+eid,VAR_5
+nsts,VAR_6
+cap,VAR_7
+mode,VAR_8
+pos,VAR_9
+i,VAR_10
+hapd_nsts,VAR_11

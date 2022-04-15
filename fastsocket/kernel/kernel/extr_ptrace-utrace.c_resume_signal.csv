@@ -1,0 +1,15 @@
+SI_USER,VAR_0
+UTRACE_SIGNAL_DELIVER,VAR_1
+UTRACE_SIGNAL_IGN,VAR_2
+current,VAR_3
+send_sig_info,FUNC_0
+sigismember,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+task_pid_vnr,FUNC_4
+task_uid,FUNC_5
+resume_signal,FUNC_6
+ctx,VAR_4
+return_ka,VAR_5
+info,VAR_6
+signr,VAR_7

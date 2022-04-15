@@ -1,0 +1,11 @@
+AF_INTERRUPTS_ON,VAR_0
+AF_INTx_ENABLED,VAR_1
+ISRX_82XX_RISC_INT,VAR_2
+qla4_82xx_wr_32,FUNC_0
+readl,FUNC_1
+stub1,FUNC_2
+test_bit,FUNC_3
+qla4_82xx_process_mbox_intr,FUNC_4
+ha,VAR_3
+out_count,VAR_4
+intr_status,VAR_5

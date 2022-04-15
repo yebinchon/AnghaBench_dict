@@ -1,0 +1,11 @@
+TRACE_EVENT_FL_KPROBE,VAR_0
+kprobe_event_define_fields,VAR_1
+kprobe_funcs,VAR_2
+kprobe_register,VAR_3
+kretprobe_event_define_fields,VAR_4
+kretprobe_funcs,VAR_5
+trace_kprobe_is_return,FUNC_0
+trace_probe_event_call,FUNC_1
+init_trace_event_call,FUNC_2
+tk,VAR_6
+call,VAR_7

@@ -1,0 +1,12 @@
+G760A_REG_FAN_STA_RPM_LOW,VAR_0
+g760a_update_client,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rpm_from_cnt,FUNC_3
+sprintf,FUNC_4
+show_fan,FUNC_5
+dev,VAR_1
+da,VAR_2
+buf,VAR_3
+data,VAR_4
+rpm,VAR_5

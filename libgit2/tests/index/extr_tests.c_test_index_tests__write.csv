@@ -1,0 +1,11 @@
+TEST_INDEXBIG_PATH,VAR_0
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+copy_file,FUNC_2
+files_are_equal,FUNC_3
+git_index_free,FUNC_4
+git_index_open,FUNC_5
+git_index_write,FUNC_6
+p_unlink,FUNC_7
+test_index_tests__write,FUNC_8
+index,VAR_1

@@ -1,0 +1,14 @@
+VM_COMPLETED,VAR_0
+VM_STOP,VAR_1
+Wb35Reg_EP0VM,FUNC_0
+atomic_dec,FUNC_1
+kfree,FUNC_2
+printk,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+usb_free_urb,FUNC_6
+Wb35Reg_EP0VM_complete,FUNC_7
+urb,VAR_2
+pHwData,VAR_3
+reg,VAR_4
+reg_queue,VAR_5

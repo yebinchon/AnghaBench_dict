@@ -1,0 +1,10 @@
+DWC2_L3,VAR_0
+ESHUTDOWN,VAR_1
+USB_STATE_NOTATTACHED,VAR_2
+call_gadget,FUNC_0
+disconnect,VAR_3
+kill_all_requests,FUNC_1
+usb_gadget_set_state,FUNC_2
+dwc2_hsotg_disconnect,FUNC_3
+hsotg,VAR_4
+ep,VAR_5

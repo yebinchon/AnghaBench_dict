@@ -1,0 +1,12 @@
+MDB_RTR_TYPE_DISABLED,VAR_0
+MDB_RTR_TYPE_PERM,VAR_1
+MDB_RTR_TYPE_TEMP_QUERY,VAR_2
+br_mc_router_state_change,FUNC_0
+br_multicast_add_router,FUNC_1
+jiffies,VAR_3
+mod_timer,FUNC_2
+timer_pending,FUNC_3
+br_multicast_mark_router,FUNC_4
+br,VAR_4
+port,VAR_5
+now,VAR_6

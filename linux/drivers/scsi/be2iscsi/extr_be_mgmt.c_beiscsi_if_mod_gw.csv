@@ -1,0 +1,16 @@
+BEISCSI_IP_TYPE_V6,VAR_0
+CMD_SUBSYSTEM_ISCSI,VAR_1
+IP_V4_LEN,VAR_2
+IP_V6_LEN,VAR_3
+OPCODE_COMMON_ISCSI_NTWK_MODIFY_DEFAULT_GATEWAY,VAR_4
+beiscsi_exec_nemb_cmd,FUNC_0
+beiscsi_prep_nemb_cmd,FUNC_1
+memcpy,FUNC_2
+beiscsi_if_mod_gw,FUNC_3
+phba,VAR_5
+action,VAR_6
+ip_type,VAR_7
+gw,VAR_8
+req,VAR_9
+nonemb_cmd,VAR_10
+rt_val,VAR_11

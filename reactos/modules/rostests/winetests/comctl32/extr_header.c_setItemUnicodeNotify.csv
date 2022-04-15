@@ -1,0 +1,17 @@
+HDI_TEXT,VAR_0
+HDM_SETITEMA,VAR_1
+HDN_ITEMCHANGEDW,VAR_2
+HDN_ITEMCHANGINGW,VAR_3
+SendMessageA,FUNC_0
+TRUE,VAR_4
+expect_notify,FUNC_1
+notifies_received,FUNC_2
+ok,FUNC_3
+setItemUnicodeNotify,FUNC_4
+hdex,VAR_5
+idx,VAR_6
+text,VAR_7
+wText,VAR_8
+ret,VAR_9
+hdexItem,VAR_10
+hdexNotify,VAR_11

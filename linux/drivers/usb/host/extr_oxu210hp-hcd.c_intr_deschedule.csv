@@ -1,0 +1,12 @@
+EHCI_LIST_END,VAR_0
+QH_CMASK,VAR_1
+QH_STATE_IDLE,VAR_2
+cpu_to_le32,FUNC_0
+list_empty,FUNC_1
+qh_unlink_periodic,FUNC_2
+udelay,FUNC_3
+wmb,FUNC_4
+intr_deschedule,FUNC_5
+oxu,VAR_3
+qh,VAR_4
+wait,VAR_5

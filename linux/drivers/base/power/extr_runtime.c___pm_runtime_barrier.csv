@@ -1,0 +1,15 @@
+DEFINE_WAIT,FUNC_0
+RPM_REQ_NONE,VAR_0
+RPM_RESUMING,VAR_1
+RPM_SUSPENDING,VAR_2
+TASK_UNINTERRUPTIBLE,VAR_3
+cancel_work_sync,FUNC_1
+finish_wait,FUNC_2
+pm_runtime_deactivate_timer,FUNC_3
+prepare_to_wait,FUNC_4
+schedule,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+wait,VAR_4
+__pm_runtime_barrier,FUNC_8
+dev,VAR_5

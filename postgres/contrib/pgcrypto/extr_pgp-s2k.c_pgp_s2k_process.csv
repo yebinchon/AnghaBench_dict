@@ -1,0 +1,15 @@
+PXE_PGP_BAD_S2K_MODE,VAR_0
+PXE_PGP_UNSUPPORTED_CIPHER,VAR_1
+calc_s2k_iter_salted,FUNC_0
+calc_s2k_salted,FUNC_1
+calc_s2k_simple,FUNC_2
+pgp_get_cipher_key_size,FUNC_3
+pgp_load_digest,FUNC_4
+px_md_free,FUNC_5
+pgp_s2k_process,FUNC_6
+s2k,VAR_2
+cipher,VAR_3
+key,VAR_4
+key_len,VAR_5
+res,VAR_6
+md,VAR_7

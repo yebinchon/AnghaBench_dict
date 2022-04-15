@@ -1,0 +1,12 @@
+PR_GET_SECUREBITS,VAR_0
+PR_SET_SECUREBITS,VAR_1
+SECURE_KEEP_CAPS,VAR_2
+assert,FUNC_0
+errno,VAR_3
+prctl,FUNC_1
+setresuid,FUNC_2
+uid_is_valid,FUNC_3
+enforce_user,FUNC_4
+context,VAR_4
+uid,VAR_5
+sb,VAR_6

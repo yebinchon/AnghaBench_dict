@@ -1,0 +1,10 @@
+IPPROTO_UDP,VAR_0
+add_csum_hword,FUNC_0
+build_ip_csum,FUNC_1
+htons,FUNC_2
+build_udp_v4_csum,FUNC_3
+iph,VAR_1
+udph,VAR_2
+num_words,VAR_3
+pseudo_sum,VAR_4
+num_u16,VAR_5

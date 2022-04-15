@@ -1,0 +1,14 @@
+CS53L30_MCLKCTL,VAR_0
+CS53L30_MCLK_DIV_MASK,VAR_1
+cs53l30_get_mclkx_coeff,FUNC_0
+cs53l30_mclkx_coeffs,VAR_2
+regmap_update_bits,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+cs53l30_set_sysclk,FUNC_3
+dai,VAR_3
+clk_id,VAR_4
+freq,VAR_5
+dir,VAR_6
+priv,VAR_7
+mclkx_coeff,VAR_8
+mclk_rate,VAR_9

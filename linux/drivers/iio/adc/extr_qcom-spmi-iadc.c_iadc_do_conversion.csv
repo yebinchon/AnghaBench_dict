@@ -1,0 +1,17 @@
+BIT,FUNC_0
+ETIMEDOUT,VAR_0
+IADC_CONV_TIME_MIN_US,VAR_1
+IADC_DEF_AVG_SAMPLES,VAR_2
+dev_err,FUNC_1
+iadc_configure,FUNC_2
+iadc_poll_wait_eoc,FUNC_3
+iadc_read_result,FUNC_4
+iadc_set_state,FUNC_5
+usecs_to_jiffies,FUNC_6
+wait_for_completion_timeout,FUNC_7
+iadc_do_conversion,FUNC_8
+iadc,VAR_3
+chan,VAR_4
+data,VAR_5
+wait,VAR_6
+ret,VAR_7

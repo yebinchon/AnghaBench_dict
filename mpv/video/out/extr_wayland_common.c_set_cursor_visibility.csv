@@ -1,0 +1,15 @@
+VO_FALSE,VAR_0
+VO_NOTAVAIL,VAR_1
+VO_TRUE,VAR_2
+spawn_cursor,FUNC_0
+wl_cursor_image_get_buffer,FUNC_1
+wl_pointer_set_cursor,FUNC_2
+wl_surface_attach,FUNC_3
+wl_surface_commit,FUNC_4
+wl_surface_damage,FUNC_5
+wl_surface_set_buffer_scale,FUNC_6
+set_cursor_visibility,FUNC_7
+wl,VAR_3
+on,VAR_4
+img,VAR_5
+buffer,VAR_6

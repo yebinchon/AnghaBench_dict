@@ -1,0 +1,17 @@
+NT_PPC_VMX,VAR_0
+NT_PPC_VSX,VAR_1
+PCB_VEC,VAR_2
+PCB_VSX,VAR_3
+elf32_populate_note,FUNC_0
+nitems,FUNC_1
+save_fpu_nodrop,FUNC_2
+save_vec_nodrop,FUNC_3
+elf32_dump_thread,FUNC_4
+td,VAR_4
+dst,VAR_5
+off,VAR_6
+len,VAR_7
+pcb,VAR_8
+vshr,VAR_9
+vsr_dw1,VAR_10
+vsr_idx,VAR_11

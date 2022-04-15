@@ -1,0 +1,15 @@
+ENODEV,VAR_0
+WIMAX_GNL_STGET_IFIDX,VAR_1
+d_fnend,FUNC_0
+d_fnstart,FUNC_1
+dev_put,FUNC_2
+nla_get_u32,FUNC_3
+pr_err,FUNC_4
+wimax_dev_get_by_genl_info,FUNC_5
+wimax_state_get,FUNC_6
+wimax_gnl_doit_state_get,FUNC_7
+skb,VAR_2
+info,VAR_3
+result,VAR_4
+ifindex,VAR_5
+wimax_dev,VAR_6

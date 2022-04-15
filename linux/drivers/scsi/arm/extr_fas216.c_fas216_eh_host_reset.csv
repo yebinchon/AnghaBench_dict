@@ -1,0 +1,14 @@
+CMD_NOP,VAR_0
+CMD_RESETCHIP,VAR_1
+LOG_ERROR,VAR_2
+SUCCESS,VAR_3
+fas216_checkmagic,FUNC_0
+fas216_cmd,FUNC_1
+fas216_init_chip,FUNC_2
+fas216_log,FUNC_3
+msleep,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+fas216_eh_host_reset,FUNC_7
+SCpnt,VAR_4
+info,VAR_5

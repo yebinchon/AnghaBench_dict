@@ -1,0 +1,15 @@
+KERN_DEBUG,VAR_0
+PCI_DMA_FROMDEVICE,VAR_1
+TS_DMA_BYTES,VAR_2
+TS_DMA_PACKETS,VAR_3
+dev_printk,FUNC_0
+dvb_dmx_swfilter_packets,FUNC_1
+memset,FUNC_2
+pci_dma_sync_single_for_cpu,FUNC_3
+pci_dma_sync_single_for_device,FUNC_4
+pluto_reset_ts,FUNC_5
+pluto_set_dma_addr,FUNC_6
+pluto_dma_end,FUNC_7
+pluto,VAR_4
+nbpackets,VAR_5
+i,VAR_6

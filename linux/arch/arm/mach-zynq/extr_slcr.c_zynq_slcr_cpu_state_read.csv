@@ -1,0 +1,6 @@
+SLCR_REBOOT_STATUS_OFFSET,VAR_0
+readl,FUNC_0
+zynq_slcr_base,VAR_1
+zynq_slcr_cpu_state_read,FUNC_1
+cpu,VAR_2
+state,VAR_3

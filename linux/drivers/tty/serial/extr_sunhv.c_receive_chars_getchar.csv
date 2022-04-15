@@ -1,0 +1,16 @@
+CON_BREAK,VAR_0
+CON_HUP,VAR_1
+HV_EWOULDBLOCK,VAR_2
+TTY_NORMAL,VAR_3
+hung_up,VAR_4
+sun4v_con_getchar,FUNC_0
+tty_insert_flip_char,FUNC_1
+uart_handle_break,FUNC_2
+uart_handle_dcd_change,FUNC_3
+uart_handle_sysrq_char,FUNC_4
+receive_chars_getchar,FUNC_5
+port,VAR_5
+saw_console_brk,VAR_6
+limit,VAR_7
+status,VAR_8
+c,VAR_9

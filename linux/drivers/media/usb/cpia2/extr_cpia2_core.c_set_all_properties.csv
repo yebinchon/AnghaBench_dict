@@ -1,0 +1,10 @@
+CPIA2_CMD_SET_VC_MP_GPIO_DATA,VAR_0
+CPIA2_CMD_SET_VC_MP_GPIO_DIRECTION,VAR_1
+TRANSFER_WRITE,VAR_2
+cpia2_do_command,FUNC_0
+cpia2_usb_change_streaming_alternate,FUNC_1
+set_lowlight_boost,FUNC_2
+v4l2_ctrl_handler_setup,FUNC_3
+wake_system,FUNC_4
+set_all_properties,FUNC_5
+cam,VAR_3

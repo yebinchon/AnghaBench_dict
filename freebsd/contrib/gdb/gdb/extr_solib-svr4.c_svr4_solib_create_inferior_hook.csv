@@ -1,0 +1,15 @@
+NO_STOP_QUIETLY,VAR_0
+STOP_QUIETLY,VAR_1
+TARGET_SIGNAL_0,VAR_2
+TARGET_SIGNAL_TRAP,VAR_3
+clear_proceed_status,FUNC_0
+enable_break,FUNC_1
+pid_to_ptid,FUNC_2
+stop_signal,VAR_4
+stop_soon,VAR_5
+svr4_have_link_map_offsets,FUNC_3
+svr4_relocate_main_executable,FUNC_4
+target_resume,FUNC_5
+wait_for_inferior,FUNC_6
+warning,FUNC_7
+svr4_solib_create_inferior_hook,FUNC_8

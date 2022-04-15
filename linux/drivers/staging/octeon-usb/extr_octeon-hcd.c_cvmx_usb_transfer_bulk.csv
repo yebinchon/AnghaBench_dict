@@ -1,0 +1,15 @@
+CVMX_USB_DIRECTION_OUT,VAR_0
+CVMX_USB_PIPE_FLAGS_NEED_PING,VAR_1
+CVMX_USB_SPEED_HIGH,VAR_2
+CVMX_USB_STAGE_NON_CONTROL,VAR_3
+CVMX_USB_STAGE_NON_CONTROL_SPLIT_COMPLETE,VAR_4
+CVMX_USB_STATUS_OK,VAR_5
+cvmx_usb_complete,FUNC_0
+cvmx_usb_pipe_needs_split,FUNC_1
+cvmx_usb_transfer_bulk,FUNC_2
+usb,VAR_6
+pipe,VAR_7
+transaction,VAR_8
+usbc_hcint,VAR_9
+buffer_space_left,VAR_10
+bytes_in_last_packet,VAR_11

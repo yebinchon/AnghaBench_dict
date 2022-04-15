@@ -1,0 +1,11 @@
+BHND_IOCTL_CLK_FORCE,VAR_0
+BWN_IOCTL_PHYRESET,VAR_1
+BWN_IOCTL_SUPPORT_G,VAR_2
+DELAY,FUNC_0
+bhnd_write_ioctl,FUNC_1
+bwn_phy_reset,FUNC_2
+mac,VAR_3
+sc,VAR_4
+iost,VAR_5
+mask,VAR_6
+error,VAR_7

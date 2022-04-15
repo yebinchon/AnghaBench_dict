@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+CGROUP_FREEZING,VAR_0
+CGROUP_FROZEN,VAR_1
+CGROUP_THAWED,VAR_2
+cgroup_iter_end,FUNC_1
+cgroup_iter_next,FUNC_2
+cgroup_iter_start,FUNC_3
+is_task_frozen_enough,FUNC_4
+update_if_frozen,FUNC_5
+cgroup,VAR_3
+freezer,VAR_4
+it,VAR_5
+task,VAR_6
+nfrozen,VAR_7
+ntotal,VAR_8
+old_state,VAR_9

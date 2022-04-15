@@ -1,0 +1,12 @@
+CLSCTX_INPROC_SERVER,VAR_0
+CLSID_TaskbarList,VAR_1
+CoCreateInstance,FUNC_0
+IID_ITaskbarList3,VAR_2
+ITaskbarList3_HrInit,FUNC_1
+RARCH_ERR,FUNC_2
+SUCCEEDED,FUNC_3
+calloc,FUNC_4
+g_taskbarList,VAR_3
+win32_display_server_init,FUNC_5
+hr,VAR_4
+dispserv,VAR_5

@@ -1,0 +1,13 @@
+INIT_LIST_HEAD,FUNC_0
+MTHCA_CATAS_POLL_INTERVAL,VAR_0
+add_timer,FUNC_1
+ioremap,FUNC_2
+jiffies,VAR_1
+mthca_warn,FUNC_3
+pci_resource_len,FUNC_4
+pci_resource_start,FUNC_5
+poll_catas,VAR_2
+timer_setup,FUNC_6
+mthca_start_catas_poll,FUNC_7
+dev,VAR_3
+addr,VAR_4

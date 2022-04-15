@@ -1,0 +1,15 @@
+TSDB_MSG_TYPE_HEARTBEAT_RSP,VAR_0
+memcpy,FUNC_0
+mgmtSaveQueryStreamList,FUNC_1
+pSdbPublicIpList,VAR_1
+taosBuildRspMsgWithSize,FUNC_2
+taosSendMsgToPeer,FUNC_3
+mgmtProcessHeartBeatMsg,FUNC_4
+cont,VAR_2
+contLen,VAR_3
+pConn,VAR_4
+pStart,VAR_5
+pMsg,VAR_6
+msgLen,VAR_7
+pRsp,VAR_8
+pHBRsp,VAR_9

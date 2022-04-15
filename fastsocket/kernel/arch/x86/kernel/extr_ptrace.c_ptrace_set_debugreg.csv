@@ -1,0 +1,13 @@
+DR7_MASK,VAR_0
+DR_CONTROL_RESERVED,VAR_1
+EIO,VAR_2
+TIF_DEBUG,VAR_3
+clear_tsk_thread_flag,FUNC_0
+debugreg_addr_limit,FUNC_1
+set_tsk_thread_flag,FUNC_2
+unlikely,FUNC_3
+ptrace_set_debugreg,FUNC_4
+child,VAR_4
+n,VAR_5
+data,VAR_6
+i,VAR_7

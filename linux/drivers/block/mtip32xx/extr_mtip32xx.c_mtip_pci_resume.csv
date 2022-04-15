@@ -1,0 +1,15 @@
+EFAULT,VAR_0
+MTIP_DDF_RESUME_BIT,VAR_1
+PCI_D0,VAR_2
+clear_bit,FUNC_0
+dev_err,FUNC_1
+mtip_block_resume,FUNC_2
+pci_get_drvdata,FUNC_3
+pci_restore_state,FUNC_4
+pci_set_master,FUNC_5
+pci_set_power_state,FUNC_6
+pcim_enable_device,FUNC_7
+mtip_pci_resume,FUNC_8
+pdev,VAR_3
+rv,VAR_4
+dd,VAR_5

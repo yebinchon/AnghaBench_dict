@@ -1,0 +1,13 @@
+FILEDESC_XLOCK,FUNC_0
+FILEDESC_XUNLOCK,FUNC_1
+KASSERT,FUNC_2
+MPASS,FUNC_3
+closef,FUNC_4
+fdfree,FUNC_5
+is_unsafe,FUNC_6
+knote_fdclose,FUNC_7
+fdsetugidsafety,FUNC_8
+td,VAR_0
+fdp,VAR_1
+fp,VAR_2
+i,VAR_3

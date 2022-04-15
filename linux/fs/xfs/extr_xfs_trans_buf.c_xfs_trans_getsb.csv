@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+_xfs_trans_bjoin,FUNC_1
+atomic_read,FUNC_2
+trace_xfs_trans_getsb,FUNC_3
+trace_xfs_trans_getsb_recur,FUNC_4
+xfs_getsb,FUNC_5
+xfs_trans_getsb,FUNC_6
+tp,VAR_0
+mp,VAR_1
+bp,VAR_2
+bip,VAR_3

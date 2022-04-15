@@ -1,0 +1,14 @@
+VERIFY,FUNC_0
+ifnet_softc,FUNC_1
+ipsec_demux,FUNC_2
+ipsec_proto_input,FUNC_3
+kern_channel_notify,FUNC_4
+lck_mtx_lock,FUNC_5
+lck_mtx_unlock,FUNC_6
+lck_rw_lock_shared,FUNC_7
+lck_rw_unlock_shared,FUNC_8
+ipsec_inject_inbound_packet,FUNC_9
+interface,VAR_0
+packet,VAR_1
+error,VAR_2
+protocol,VAR_3

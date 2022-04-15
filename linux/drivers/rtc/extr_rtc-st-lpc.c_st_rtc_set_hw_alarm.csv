@@ -1,0 +1,12 @@
+LPC_LPA_LSB_OFF,VAR_0
+LPC_LPA_MSB_OFF,VAR_1
+LPC_LPA_START_OFF,VAR_2
+LPC_WDT_OFF,VAR_3
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+writel_relaxed,FUNC_2
+st_rtc_set_hw_alarm,FUNC_3
+rtc,VAR_4
+msb,VAR_5
+lsb,VAR_6
+flags,VAR_7

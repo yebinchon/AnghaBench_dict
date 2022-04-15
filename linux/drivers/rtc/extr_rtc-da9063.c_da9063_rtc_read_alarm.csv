@@ -1,0 +1,15 @@
+RTC_DATA_LEN,VAR_0
+RTC_SEC,VAR_1
+RTC_YEAR,VAR_2
+da9063_data_to_tm,FUNC_0
+dev_get_drvdata,FUNC_1
+regmap_bulk_read,FUNC_2
+regmap_read,FUNC_3
+da9063_rtc_read_alarm,FUNC_4
+dev,VAR_3
+alrm,VAR_4
+rtc,VAR_5
+config,VAR_6
+data,VAR_7
+ret,VAR_8
+val,VAR_9

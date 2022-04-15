@@ -1,0 +1,16 @@
+CMOS_CHECKSUM,VAR_0
+CMOS_YEAR,VAR_1
+pcf8583_read_mem,FUNC_0
+pcf8583_set_datetime,FUNC_1
+pcf8583_write_mem,FUNC_2
+to_i2c_client,FUNC_3
+pcf8583_rtc_set_time,FUNC_4
+dev,VAR_2
+tm,VAR_3
+client,VAR_4
+year,VAR_5
+chk,VAR_6
+cmos_year,VAR_7
+cmos_check,VAR_8
+proper_year,VAR_9
+ret,VAR_10

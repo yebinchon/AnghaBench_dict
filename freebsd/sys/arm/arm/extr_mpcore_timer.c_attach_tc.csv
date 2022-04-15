@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+ENXIO,VAR_1
+GBL_TIMER_CTRL,VAR_2
+GBL_TIMER_CTRL_TIMER_ENABLE,VAR_3
+RF_ACTIVE,VAR_4
+SYS_RES_MEMORY,VAR_5
+arm_tmr_tc,VAR_6
+arm_tmr_timecount,VAR_7
+bus_alloc_resource_any,FUNC_0
+device_printf,FUNC_1
+tc_init,FUNC_2
+tmr_gbl_write_4,FUNC_3
+attach_tc,FUNC_4
+sc,VAR_8
+rid,VAR_9

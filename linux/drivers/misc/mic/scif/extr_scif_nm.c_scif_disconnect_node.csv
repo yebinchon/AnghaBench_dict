@@ -1,0 +1,17 @@
+SCIF_MGMT_NODE,VAR_0
+SCIF_NODE_ALIVE_TIMEOUT,VAR_1
+_scifdev_alive,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+scif_dev,VAR_2
+scif_info,VAR_3
+scif_send_exit,FUNC_3
+scif_send_rmnode_msg,FUNC_4
+wait_event_timeout,FUNC_5
+scif_disconnect_node,FUNC_6
+node_id,VAR_4
+mgmt_initiated,VAR_5
+ret,VAR_6
+msg_cnt,VAR_7
+i,VAR_8
+scifdev,VAR_9

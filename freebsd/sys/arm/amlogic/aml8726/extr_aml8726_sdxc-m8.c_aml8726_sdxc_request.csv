@@ -1,0 +1,13 @@
+AML_SDXC_LOCK,FUNC_0
+AML_SDXC_UNLOCK,FUNC_1
+EBUSY,VAR_0
+MMC_ERR_NONE,VAR_1
+aml8726_sdxc_start_command,FUNC_2
+device_get_softc,FUNC_3
+stub1,FUNC_4
+aml8726_sdxc_request,FUNC_5
+bus,VAR_2
+child,VAR_3
+req,VAR_4
+sc,VAR_5
+mmc_error,VAR_6

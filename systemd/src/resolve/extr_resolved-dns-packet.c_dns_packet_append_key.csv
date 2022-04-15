@@ -1,0 +1,15 @@
+DNS_ANSWER_CACHE_FLUSH,VAR_0
+MDNS_RR_CACHE_FLUSH,VAR_1
+assert,FUNC_0
+dns_packet_append_name,FUNC_1
+dns_packet_append_uint16,FUNC_2
+dns_packet_truncate,FUNC_3
+dns_resource_key_name,FUNC_4
+dns_packet_append_key,FUNC_5
+p,VAR_2
+k,VAR_3
+flags,VAR_4
+start,VAR_5
+saved_size,VAR_6
+class,VAR_7
+r,VAR_8

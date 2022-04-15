@@ -1,0 +1,15 @@
+OCTEON_CN23XX_PF_VID,VAR_0
+OCTEON_CN66XX,VAR_1
+OCTEON_CN68XX,VAR_2
+readl,FUNC_0
+readq,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+lio_pci_readq,FUNC_5
+oct,VAR_3
+addr,VAR_4
+val64,VAR_5
+flags,VAR_6
+val32,VAR_7
+addrhi,VAR_8

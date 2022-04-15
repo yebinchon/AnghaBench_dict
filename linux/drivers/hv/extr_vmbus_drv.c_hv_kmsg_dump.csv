@@ -1,0 +1,12 @@
+KMSG_DUMP_PANIC,VAR_0
+PAGE_SIZE,VAR_1
+hv_panic_page,VAR_2
+hyperv_report_panic_msg,FUNC_0
+kmsg_dump_get_buffer,FUNC_1
+sysctl_record_panic_msg,VAR_3
+virt_to_phys,FUNC_2
+hv_kmsg_dump,FUNC_3
+dumper,VAR_4
+reason,VAR_5
+bytes_written,VAR_6
+panic_pa,VAR_7

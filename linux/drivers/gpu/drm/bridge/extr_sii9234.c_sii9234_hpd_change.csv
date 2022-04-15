@@ -1,0 +1,9 @@
+CBUS_MSC_REQ_ABORT_REASON_REG,VAR_0
+SET_HPD_DOWNSTREAM,VAR_1
+ST_FAILURE,VAR_2
+cbus_readb,FUNC_0
+sii9234_clear_error,FUNC_1
+sii9234_tmds_control,FUNC_2
+sii9234_hpd_change,FUNC_3
+ctx,VAR_3
+value,VAR_4

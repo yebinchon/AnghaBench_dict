@@ -1,0 +1,14 @@
+FADT_OFFSET,VAR_0
+HPET_OFFSET,VAR_1
+MADT_OFFSET,VAR_2
+MCFG_OFFSET,VAR_3
+RSDT_OFFSET,VAR_4
+XHYVE_ACPI_BASE,VAR_5
+acpitbl_checksum,FUNC_0
+acpitbl_write32,FUNC_1
+acpitbl_write8,FUNC_2
+memcpy,FUNC_3
+tb,VAR_6
+acpitbl_build_rsdt,FUNC_4
+rsdt,VAR_7
+rsdt_tmpl,VAR_8

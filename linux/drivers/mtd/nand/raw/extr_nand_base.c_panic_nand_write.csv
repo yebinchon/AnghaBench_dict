@@ -1,0 +1,16 @@
+MTD_OPS_PLACE_OOB,VAR_0
+memset,FUNC_0
+mtd_to_nand,FUNC_1
+nand_do_write_ops,FUNC_2
+nand_select_target,FUNC_3
+panic_nand_wait,FUNC_4
+panic_nand_write,FUNC_5
+mtd,VAR_1
+to,VAR_2
+len,VAR_3
+retlen,VAR_4
+buf,VAR_5
+chip,VAR_6
+chipnr,VAR_7
+ops,VAR_8
+ret,VAR_9

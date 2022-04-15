@@ -1,0 +1,11 @@
+ieee80211_free_hw,FUNC_0
+interface_to_usbdev,FUNC_1
+rt2x00lib_remove_dev,FUNC_2
+rt2x00usb_free_reg,FUNC_3
+usb_get_intfdata,FUNC_4
+usb_put_dev,FUNC_5
+usb_set_intfdata,FUNC_6
+rt2x00usb_disconnect,FUNC_7
+usb_intf,VAR_0
+hw,VAR_1
+rt2x00dev,VAR_2

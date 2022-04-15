@@ -1,0 +1,15 @@
+CHIP_CAYMAN,VAR_0
+gem_to_radeon_bo,FUNC_0
+radeon_bo_reserve,FUNC_1
+radeon_bo_unreserve,FUNC_2
+radeon_vm_bo_add,FUNC_3
+radeon_vm_bo_find,FUNC_4
+radeon_gem_object_open,FUNC_5
+obj,VAR_1
+file_priv,VAR_2
+rbo,VAR_3
+rdev,VAR_4
+fpriv,VAR_5
+vm,VAR_6
+bo_va,VAR_7
+r,VAR_8

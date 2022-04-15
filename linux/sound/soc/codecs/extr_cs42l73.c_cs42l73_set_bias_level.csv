@@ -1,0 +1,14 @@
+CS42L73_DMMCC,VAR_0
+CS42L73_MCLKDIS,VAR_1
+CS42L73_PDN,VAR_2
+CS42L73_PWRCTL1,VAR_3
+mdelay,FUNC_0
+regcache_cache_only,FUNC_1
+regcache_sync,FUNC_2
+snd_soc_component_get_bias_level,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+snd_soc_component_update_bits,FUNC_5
+cs42l73_set_bias_level,FUNC_6
+component,VAR_4
+level,VAR_5
+cs42l73,VAR_6

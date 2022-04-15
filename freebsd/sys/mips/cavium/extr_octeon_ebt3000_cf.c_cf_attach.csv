@@ -1,0 +1,14 @@
+CVMX_BOARD_TYPE_SIM,VAR_0
+ENXIO,VAR_1
+M_WAITOK,VAR_2
+bioq_init,FUNC_0
+cf_attach_geom,VAR_3
+cf_cmd_identify,FUNC_1
+cvmx_sysinfo_get,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+g_post_event,FUNC_5
+cf_attach,FUNC_6
+dev,VAR_4
+cf_priv,VAR_5
+error,VAR_6

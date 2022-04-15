@@ -1,0 +1,10 @@
+SLIPORT_READY_TIMEOUT,VAR_0
+SLIPORT_STATUS_OFFSET,VAR_1
+SLIPORT_STATUS_RDY_MASK,VAR_2
+ioread32,FUNC_0
+msleep,FUNC_1
+lancer_wait_ready,FUNC_2
+adapter,VAR_3
+sliport_status,VAR_4
+status,VAR_5
+i,VAR_6

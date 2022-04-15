@@ -1,0 +1,12 @@
+IEEE80211_SMPS_AUTOMATIC,VAR_0
+IEEE80211_SMPS_DYNAMIC,VAR_1
+IEEE80211_SMPS_OFF,VAR_2
+NL80211_CHAN_WIDTH_20_NOHT,VAR_3
+ieee80211_send_smps_action,FUNC_0
+lockdep_assert_held,FUNC_1
+__ieee80211_request_smps,FUNC_2
+sdata,VAR_4
+smps_mode,VAR_5
+ap,VAR_6
+old_req,VAR_7
+err,VAR_8

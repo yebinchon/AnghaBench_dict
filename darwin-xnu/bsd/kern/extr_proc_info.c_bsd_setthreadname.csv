@@ -1,0 +1,15 @@
+MAXTHREADNAMESIZE,VAR_0
+OSCompareAndSwapPtr,FUNC_0
+TRACE_STRING_THREADNAME,VAR_1
+TRACE_STRING_THREADNAME_PREV,VAR_2
+assert,FUNC_1
+bzero,FUNC_2
+kalloc,FUNC_3
+kernel_debug_string_simple,FUNC_4
+kfree,FUNC_5
+strncpy,FUNC_6
+bsd_setthreadname,FUNC_7
+uth,VAR_3
+name,VAR_4
+ut,VAR_5
+name_buf,VAR_6

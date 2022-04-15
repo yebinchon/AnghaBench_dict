@@ -1,0 +1,9 @@
+AFS_VNODE_LOCK_WAITING_FOR_CB,VAR_0
+_enter,FUNC_0
+afs_flock_callback_break,VAR_1
+afs_next_locker,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+trace_afs_flock_ev,FUNC_4
+afs_lock_may_be_available,FUNC_5
+vnode,VAR_2

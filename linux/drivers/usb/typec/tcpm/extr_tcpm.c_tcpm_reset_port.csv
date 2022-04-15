@@ -1,0 +1,17 @@
+POWER_SUPPLY_USB_TYPE_C,VAR_0
+TYPEC_ORIENTATION_NONE,VAR_1
+TYPEC_POLARITY_CC1,VAR_2
+TYPEC_STATE_SAFE,VAR_3
+USB_ROLE_NONE,VAR_4
+power_supply_changed,FUNC_0
+stub1,FUNC_1
+tcpm_init_vbus,FUNC_2
+tcpm_init_vconn,FUNC_3
+tcpm_mux_set,FUNC_4
+tcpm_set_attached_state,FUNC_5
+tcpm_set_current_limit,FUNC_6
+tcpm_set_polarity,FUNC_7
+tcpm_typec_disconnect,FUNC_8
+tcpm_unregister_altmodes,FUNC_9
+tcpm_reset_port,FUNC_10
+port,VAR_5

@@ -1,0 +1,11 @@
+ARM_SET_TP,VAR_0
+ARM_TP_ADDRESS,VAR_1
+RTLD_STATIC_TLS_EXTRA,VAR_2
+TLS_TCB_SIZE,VAR_3
+allocate_tls,FUNC_0
+sysarch,FUNC_1
+tls_last_offset,VAR_4
+tls_last_size,VAR_5
+tls_static_space,VAR_6
+allocate_initial_tls,FUNC_2
+objs,VAR_7

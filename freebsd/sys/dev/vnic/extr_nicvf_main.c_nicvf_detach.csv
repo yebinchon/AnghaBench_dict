@@ -1,0 +1,15 @@
+NICVF_CORE_LOCK,FUNC_0
+NICVF_CORE_LOCK_DESTROY,FUNC_1
+NICVF_CORE_UNLOCK,FUNC_2
+SYS_RES_MEMORY,VAR_0
+bus_release_resource,FUNC_3
+device_get_softc,FUNC_4
+if_free,FUNC_5
+ifmedia_removeall,FUNC_6
+mtx_destroy,FUNC_7
+nicvf_release_all_interrupts,FUNC_8
+nicvf_stop_locked,FUNC_9
+rman_get_rid,FUNC_10
+nicvf_detach,FUNC_11
+dev,VAR_1
+nic,VAR_2

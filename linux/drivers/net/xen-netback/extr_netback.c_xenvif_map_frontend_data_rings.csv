@@ -1,0 +1,14 @@
+BACK_RING_INIT,FUNC_0
+ENOMEM,VAR_0
+XEN_PAGE_SIZE,VAR_1
+xenbus_map_ring_valloc,FUNC_1
+xenvif_to_xenbus_device,FUNC_2
+xenvif_unmap_frontend_data_rings,FUNC_3
+xenvif_map_frontend_data_rings,FUNC_4
+queue,VAR_2
+tx_ring_ref,VAR_3
+rx_ring_ref,VAR_4
+addr,VAR_5
+txs,VAR_6
+rxs,VAR_7
+err,VAR_8

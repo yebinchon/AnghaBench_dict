@@ -1,0 +1,17 @@
+GIT_SORT_TIME,VAR_0
+_walk,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+commit_count,VAR_2
+commit_head,VAR_3
+commit_sorting_time,VAR_4
+git_oid_fromstr,FUNC_2
+git_revwalk_next,FUNC_3
+git_revwalk_push,FUNC_4
+git_revwalk_reset,FUNC_5
+git_revwalk_sorting,FUNC_6
+revwalk_basic_setup_walk,FUNC_7
+test_walk_only,FUNC_8
+test_revwalk_basic__sorted_after_reset,FUNC_9
+i,VAR_5
+oid,VAR_6

@@ -1,0 +1,16 @@
+__glue_cbc_decrypt_128bit,FUNC_0
+blkcipher_walk_done,FUNC_1
+blkcipher_walk_init,FUNC_2
+blkcipher_walk_virt,FUNC_3
+glue_fpu_begin,FUNC_4
+glue_fpu_end,FUNC_5
+glue_cbc_decrypt_128bit,FUNC_6
+gctx,VAR_0
+desc,VAR_1
+dst,VAR_2
+src,VAR_3
+nbytes,VAR_4
+bsize,VAR_5
+fpu_enabled,VAR_6
+walk,VAR_7
+err,VAR_8

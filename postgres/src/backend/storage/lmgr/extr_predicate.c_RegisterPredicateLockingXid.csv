@@ -1,0 +1,17 @@
+Assert,FUNC_0
+HASH_ENTER,VAR_0
+InvalidSerializableXact,VAR_1
+InvalidTransactionId,VAR_2
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_EXCLUSIVE,VAR_3
+MySerializableXact,VAR_4
+SerializableXactHashLock,VAR_5
+SerializableXidHash,VAR_6
+TransactionIdIsValid,FUNC_3
+hash_search,FUNC_4
+RegisterPredicateLockingXid,FUNC_5
+xid,VAR_7
+sxidtag,VAR_8
+sxid,VAR_9
+found,VAR_10

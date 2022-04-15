@@ -1,0 +1,9 @@
+GDT_CLASS,FUNC_0
+GDT_DPRINTF,FUNC_1
+GDT_D_INTR,VAR_0
+GDT_EDOOR_EN,VAR_1
+GDT_MPR_EDOOR,VAR_2
+bus_read_1,FUNC_2
+bus_write_1,FUNC_3
+gdt_pci_enable_intr,FUNC_4
+gdt,VAR_3

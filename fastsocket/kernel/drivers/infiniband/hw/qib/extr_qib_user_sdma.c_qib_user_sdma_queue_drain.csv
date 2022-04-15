@@ -1,0 +1,17 @@
+INIT_LIST_HEAD,FUNC_0
+QIB_USER_SDMA_DRAIN_TIMEOUT,VAR_0
+list_empty,FUNC_1
+list_splice_init,FUNC_2
+msleep,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+qib_dev_err,FUNC_6
+qib_user_sdma_free_pkt_list,FUNC_7
+qib_user_sdma_hwqueue_clean,FUNC_8
+qib_user_sdma_queue_clean,FUNC_9
+qib_user_sdma_queue_drain,FUNC_10
+ppd,VAR_1
+pq,VAR_2
+dd,VAR_3
+i,VAR_4
+free_list,VAR_5

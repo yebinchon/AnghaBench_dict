@@ -1,0 +1,17 @@
+ADM1029_REG_FAN,VAR_0
+ADM1029_REG_FAN_DIV,VAR_1
+ADM1029_REG_TEMP,VAR_2
+ARRAY_SIZE,FUNC_0
+HZ,VAR_3
+dev_dbg,FUNC_1
+dev_get_drvdata,FUNC_2
+i2c_smbus_read_byte_data,FUNC_3
+jiffies,VAR_4
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+time_after,FUNC_6
+adm1029_update_device,FUNC_7
+dev,VAR_5
+data,VAR_6
+client,VAR_7
+nr,VAR_8

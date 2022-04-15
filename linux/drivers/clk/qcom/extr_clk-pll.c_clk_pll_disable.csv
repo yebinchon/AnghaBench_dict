@@ -1,0 +1,12 @@
+PLL_BYPASSNL,VAR_0
+PLL_OUTCTRL,VAR_1
+PLL_RESET_N,VAR_2
+PLL_VOTE_FSM_ENA,VAR_3
+regmap_read,FUNC_0
+regmap_update_bits,FUNC_1
+to_clk_pll,FUNC_2
+clk_pll_disable,FUNC_3
+hw,VAR_4
+pll,VAR_5
+mask,VAR_6
+val,VAR_7

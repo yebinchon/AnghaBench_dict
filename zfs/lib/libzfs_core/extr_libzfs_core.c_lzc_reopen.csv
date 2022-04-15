@@ -1,0 +1,10 @@
+ZFS_IOC_POOL_REOPEN,VAR_0
+fnvlist_add_boolean_value,FUNC_0
+fnvlist_alloc,FUNC_1
+lzc_ioctl,FUNC_2
+nvlist_free,FUNC_3
+lzc_reopen,FUNC_4
+pool_name,VAR_1
+scrub_restart,VAR_2
+args,VAR_3
+error,VAR_4

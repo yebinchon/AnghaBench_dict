@@ -1,0 +1,14 @@
+NES_DBG_IW_TX,VAR_0
+NES_IWARP_SQ_WQE_FRAG0_LOW_IDX,VAR_1
+NES_IWARP_SQ_WQE_LENGTH0_IDX,VAR_2
+NES_IWARP_SQ_WQE_STAG0_IDX,VAR_3
+NES_IWARP_SQ_WQE_TOTAL_PAYLOAD_IDX,VAR_4
+nes_debug,FUNC_0
+set_wqe_32bit_value,FUNC_1
+set_wqe_64bit_value,FUNC_2
+fill_wqe_sg_send,FUNC_3
+wqe,VAR_5
+ib_wr,VAR_6
+uselkey,VAR_7
+sge_index,VAR_8
+total_payload_length,VAR_9

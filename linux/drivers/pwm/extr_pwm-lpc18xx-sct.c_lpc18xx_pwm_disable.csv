@@ -1,0 +1,11 @@
+LPC18XX_PWM_EVCTRL,FUNC_0
+LPC18XX_PWM_OUTPUTCL,FUNC_1
+LPC18XX_PWM_OUTPUTSET,FUNC_2
+lpc18xx_pwm_writel,FUNC_3
+pwm_get_chip_data,FUNC_4
+to_lpc18xx_pwm_chip,FUNC_5
+lpc18xx_pwm_disable,FUNC_6
+chip,VAR_0
+pwm,VAR_1
+lpc18xx_pwm,VAR_2
+lpc18xx_data,VAR_3

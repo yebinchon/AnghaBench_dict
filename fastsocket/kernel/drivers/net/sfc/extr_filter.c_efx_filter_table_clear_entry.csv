@@ -1,0 +1,12 @@
+EFX_FILTER_TABLE_RX_DEF,VAR_0
+__clear_bit,FUNC_0
+efx_filter_push_rx_config,FUNC_1
+efx_filter_reset_rx_def,FUNC_2
+efx_writeo,FUNC_3
+memset,FUNC_4
+test_bit,FUNC_5
+efx_filter_table_clear_entry,FUNC_6
+efx,VAR_1
+table,VAR_2
+filter_idx,VAR_3
+filter,VAR_4

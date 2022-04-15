@@ -1,0 +1,14 @@
+IBV_INIT_CMD,FUNC_0
+MODIFY_SRQ,VAR_0
+alloca,FUNC_1
+errno,VAR_1
+memcpy,FUNC_2
+write,FUNC_3
+ibv_cmd_modify_srq_v3,FUNC_4
+srq,VAR_2
+srq_attr,VAR_3
+srq_attr_mask,VAR_4
+new_cmd,VAR_5
+new_cmd_size,VAR_6
+cmd,VAR_7
+cmd_size,VAR_8

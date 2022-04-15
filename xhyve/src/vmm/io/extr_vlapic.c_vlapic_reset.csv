@@ -1,0 +1,14 @@
+APIC_SVR_VECTOR,VAR_0
+BS_INIT,VAR_1
+BS_RUNNING,VAR_2
+MAXLVTSHIFT,VAR_3
+VLAPIC_MAXLVT_INDEX,VAR_4
+VLAPIC_VERSION,VAR_5
+bzero,FUNC_0
+vlapic_dcr_write_handler,FUNC_1
+vlapic_get_id,FUNC_2
+vlapic_mask_lvts,FUNC_3
+vlapic_reset_tmr,FUNC_4
+vlapic_reset,FUNC_5
+vlapic,VAR_6
+lapic,VAR_7

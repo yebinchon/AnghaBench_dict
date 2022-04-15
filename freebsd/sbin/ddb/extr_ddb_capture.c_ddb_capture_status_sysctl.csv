@@ -1,0 +1,12 @@
+EX_OSERR,VAR_0
+SYSCTL_DDB_CAPTURE_BUFOFF,VAR_1
+SYSCTL_DDB_CAPTURE_BUFSIZE,VAR_2
+SYSCTL_DDB_CAPTURE_INPROGRESS,VAR_3
+err,FUNC_0
+printf,FUNC_1
+sysctlbyname,FUNC_2
+ddb_capture_status_sysctl,FUNC_3
+db_capture_bufoff,VAR_4
+db_capture_bufsize,VAR_5
+db_capture_inprogress,VAR_6
+len,VAR_7

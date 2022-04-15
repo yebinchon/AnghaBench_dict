@@ -1,0 +1,13 @@
+PAM_CHANGE_EXPIRED_AUTHTOK,VAR_0
+PAM_CONV,VAR_1
+PAM_SUCCESS,VAR_2
+debug,FUNC_0
+fatal,FUNC_1
+pam_chauthtok,FUNC_2
+pam_set_item,FUNC_3
+pam_strerror,FUNC_4
+sshpam_err,VAR_3
+sshpam_handle,VAR_4
+tty_conv,VAR_5
+use_privsep,VAR_6
+do_pam_chauthtok,FUNC_5

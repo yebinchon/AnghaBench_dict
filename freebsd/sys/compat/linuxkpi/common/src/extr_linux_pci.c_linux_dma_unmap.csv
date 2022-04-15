@@ -1,0 +1,15 @@
+DMA_PRIV_LOCK,FUNC_0
+DMA_PRIV_UNLOCK,FUNC_1
+LINUX_DMA_PCTRIE_LOOKUP,FUNC_2
+LINUX_DMA_PCTRIE_REMOVE,FUNC_3
+bus_dmamap_destroy,FUNC_4
+bus_dmamap_unload,FUNC_5
+linux_dma_obj_zone,VAR_0
+pctrie_is_empty,FUNC_6
+uma_zfree,FUNC_7
+linux_dma_unmap,FUNC_8
+dev,VAR_1
+dma_addr,VAR_2
+len,VAR_3
+priv,VAR_4
+obj,VAR_5

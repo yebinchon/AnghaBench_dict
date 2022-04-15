@@ -1,0 +1,13 @@
+BLK_STS_IOERR,VAR_0
+BLK_STS_MEDIUM,VAR_1
+BLK_STS_NEXUS,VAR_2
+BLK_STS_NOSPC,VAR_3
+BLK_STS_OK,VAR_4
+BLK_STS_TARGET,VAR_5
+BLK_STS_TRANSPORT,VAR_6
+host_byte,FUNC_0
+scsi_status_is_good,FUNC_1
+set_host_byte,FUNC_2
+scsi_result_to_blk_status,FUNC_3
+cmd,VAR_7
+result,VAR_8

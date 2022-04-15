@@ -1,0 +1,13 @@
+CPUFREQ_HIGHEST_FREQ,VAR_0
+CPUFREQ_LOWEST_FREQ,VAR_1
+CPUFREQ_MAX_SYSFS_PATH,VAR_2
+O_WRONLY,VAR_3
+close,FUNC_0
+errno,VAR_4
+open,FUNC_1
+printf,FUNC_2
+strlen,FUNC_3
+write,FUNC_4
+cpu_stat_inject_cpu_frequency_event,FUNC_5
+len,VAR_5
+fd,VAR_6

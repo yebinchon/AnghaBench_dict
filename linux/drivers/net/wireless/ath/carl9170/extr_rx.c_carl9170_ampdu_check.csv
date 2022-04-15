@@ -1,0 +1,16 @@
+AR9170_RX_STATUS_MPDU,VAR_0
+AR9170_RX_STATUS_MPDU_SINGLE,VAR_1
+RX_FLAG_AMPDU_DETAILS,VAR_2
+RX_FLAG_AMPDU_LAST_KNOWN,VAR_3
+ieee80211_is_ack,FUNC_0
+ieee80211_is_action,FUNC_1
+ieee80211_is_back,FUNC_2
+ieee80211_is_back_req,FUNC_3
+ieee80211_is_data_present,FUNC_4
+ieee80211_is_data_qos,FUNC_5
+carl9170_ampdu_check,FUNC_6
+ar,VAR_4
+buf,VAR_5
+ms,VAR_6
+rx_status,VAR_7
+fc,VAR_8

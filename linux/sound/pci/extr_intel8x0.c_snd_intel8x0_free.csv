@@ -1,0 +1,17 @@
+DEVICE_NFORCE,VAR_0
+ICH_REG_OFF_CR,VAR_1
+ICH_RESETREGS,VAR_2
+free_irq,FUNC_0
+iputbyte,FUNC_1
+kfree,FUNC_2
+pci_disable_device,FUNC_3
+pci_iounmap,FUNC_4
+pci_read_config_dword,FUNC_5
+pci_release_regions,FUNC_6
+pci_write_config_dword,FUNC_7
+snd_dma_free_pages,FUNC_8
+spdif_aclink,VAR_3
+snd_intel8x0_free,FUNC_9
+chip,VAR_4
+i,VAR_5
+val,VAR_6

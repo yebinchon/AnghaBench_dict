@@ -1,0 +1,15 @@
+CVMX_PEXP_NPEI_DATA_OUT_CNT,VAR_0
+CVMX_PEXP_SLI_DATA_OUT_CNT,VAR_1
+OCTEON_FEATURE_NPEI,VAR_2
+cvmx_read_csr,FUNC_0
+octeon_has_feature,FUNC_1
+cvmx_pcie_wait_for_pending,FUNC_2
+pcie_port,VAR_3
+npei_data_out_cnt,VAR_4
+a,VAR_5
+b,VAR_6
+c,VAR_7
+sli_data_out_cnt,VAR_8
+a,VAR_9
+b,VAR_10
+c,VAR_11

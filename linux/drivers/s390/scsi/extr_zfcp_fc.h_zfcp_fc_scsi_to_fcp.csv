@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+FCP_CFL_RDDATA,VAR_2
+FCP_CFL_WRDATA,VAR_3
+FCP_PTA_SIMPLE,VAR_4
+SCSI_PROT_DIF_TYPE1,VAR_5
+cpu_to_be32,FUNC_0
+int_to_scsilun,FUNC_1
+memcpy,FUNC_2
+scsi_bufflen,FUNC_3
+scsi_get_prot_type,FUNC_4
+zfcp_fc_scsi_to_fcp,FUNC_5
+fcp,VAR_6
+scsi,VAR_7
+datalen,VAR_8

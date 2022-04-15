@@ -1,0 +1,17 @@
+VMXNET3_CMD_GET_LINK,VAR_0
+VMXNET3_READ_BAR1_REG,FUNC_0
+VMXNET3_REG_CMD,VAR_1
+VMXNET3_WRITE_BAR1_REG,FUNC_1
+netdev_info,FUNC_2
+netif_carrier_off,FUNC_3
+netif_carrier_on,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+vmxnet3_tq_start,FUNC_7
+vmxnet3_tq_stop,FUNC_8
+vmxnet3_check_link,FUNC_9
+adapter,VAR_2
+affectTxQueue,VAR_3
+ret,VAR_4
+i,VAR_5
+flags,VAR_6

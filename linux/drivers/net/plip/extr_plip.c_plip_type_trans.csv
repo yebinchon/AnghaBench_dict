@@ -1,0 +1,17 @@
+ETH_P_802_2,VAR_0
+ETH_P_802_3,VAR_1
+ETH_P_802_3_MIN,VAR_2
+PACKET_BROADCAST,VAR_3
+PACKET_MULTICAST,VAR_4
+eth_hdr,FUNC_0
+ether_addr_equal_64bits,FUNC_1
+htons,FUNC_2
+is_multicast_ether_addr,FUNC_3
+ntohs,FUNC_4
+skb_pull,FUNC_5
+skb_reset_mac_header,FUNC_6
+plip_type_trans,FUNC_7
+skb,VAR_5
+dev,VAR_6
+eth,VAR_7
+rawp,VAR_8

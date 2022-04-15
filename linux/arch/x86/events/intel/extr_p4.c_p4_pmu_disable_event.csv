@@ -1,0 +1,8 @@
+P4_CCCR_ENABLE,VAR_0
+P4_CCCR_OVF,VAR_1
+P4_CCCR_RESERVED,VAR_2
+p4_config_unpack_cccr,FUNC_0
+wrmsrl_safe,FUNC_1
+p4_pmu_disable_event,FUNC_2
+event,VAR_3
+hwc,VAR_4

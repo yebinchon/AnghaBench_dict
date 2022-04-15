@@ -1,0 +1,16 @@
+MLXSW_REG_SFD_REC_TYPE_UNICAST_TUNNEL,VAR_0
+mlxsw_reg_sfd_rec_pack,FUNC_0
+mlxsw_reg_sfd_rec_policy_set,FUNC_1
+mlxsw_reg_sfd_uc_tunnel_fid_set,FUNC_2
+mlxsw_reg_sfd_uc_tunnel_protocol_set,FUNC_3
+mlxsw_reg_sfd_uc_tunnel_uip_lsb_set,FUNC_4
+mlxsw_reg_sfd_uc_tunnel_uip_msb_set,FUNC_5
+mlxsw_reg_sfd_uc_tunnel_pack,FUNC_6
+payload,VAR_1
+rec_index,VAR_2
+policy,VAR_3
+mac,VAR_4
+fid,VAR_5
+action,VAR_6
+uip,VAR_7
+proto,VAR_8

@@ -1,0 +1,9 @@
+MNTOPT_RO,VAR_0
+MNTOPT_RW,VAR_1
+VFS_RDONLY,VAR_2
+vfs_clearmntopt,FUNC_0
+vfs_setmntopt,FUNC_1
+readonly_changed_cb,FUNC_2
+arg,VAR_3
+newval,VAR_4
+zfsvfs,VAR_5

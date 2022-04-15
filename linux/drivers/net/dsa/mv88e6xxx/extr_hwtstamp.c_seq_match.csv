@@ -1,0 +1,10 @@
+OFF_PTP_SEQUENCE_ID,VAR_0
+SKB_PTP_TYPE,FUNC_0
+ntohs,FUNC_1
+parse_ptp_header,FUNC_2
+seq_match,FUNC_3
+skb,VAR_1
+ts_seqid,VAR_2
+type,VAR_3
+hdr,VAR_4
+seqid,VAR_5

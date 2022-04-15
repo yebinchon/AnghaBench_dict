@@ -1,0 +1,13 @@
+ARCMSR_MU_OUTBOUND_DOORBELL_INT,VAR_0
+ARCMSR_MU_OUTBOUND_MESSAGE0_INT,VAR_1
+ARCMSR_MU_OUTBOUND_POSTQUEUE_INT,VAR_2
+CHIP_REG_READ32,FUNC_0
+CHIP_REG_WRITE32,FUNC_1
+HBA_MessageUnit,VAR_3
+arcmsr_hba_doorbell_isr,FUNC_2
+arcmsr_hba_message_isr,FUNC_3
+arcmsr_hba_postqueue_isr,FUNC_4
+outbound_intstatus,VAR_4
+arcmsr_handle_hba_isr,FUNC_5
+acb,VAR_5
+outbound_intStatus,VAR_6

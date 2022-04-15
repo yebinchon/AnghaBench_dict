@@ -1,0 +1,9 @@
+VIRTIO_CONSOLE_F_MULTIPORT,VAR_0
+VIRTIO_CONSOLE_F_SIZE,VAR_1
+VTCON_FLAG_MULTIPORT,VAR_2
+VTCON_FLAG_SIZE,VAR_3
+virtio_with_feature,FUNC_0
+vtcon_negotiate_features,FUNC_1
+vtcon_setup_features,FUNC_2
+sc,VAR_4
+dev,VAR_5

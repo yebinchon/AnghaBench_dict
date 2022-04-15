@@ -1,0 +1,15 @@
+XFER_MW_DMA_0,VAR_0
+XFER_UDMA_0,VAR_1
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+to_pci_dev,FUNC_2
+sis_133_set_dmamode,FUNC_3
+ap,VAR_2
+adev,VAR_3
+pdev,VAR_4
+speed,VAR_5
+port,VAR_6
+t1,VAR_7
+reg54,VAR_8
+timing_u100,VAR_9
+timing_u133,VAR_10

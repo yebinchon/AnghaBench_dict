@@ -1,0 +1,14 @@
+DUPLEX_UNKNOWN,VAR_0
+PORT_FIBRE,VAR_1
+PORT_TP,VAR_2
+SPEED_UNKNOWN,VAR_3
+SUPPORTED_TP,VAR_4
+ethtool_convert_legacy_u32_to_link_mode,FUNC_0
+ethtool_convert_link_mode_to_legacy_u32,FUNC_1
+netdev_priv,FUNC_2
+netif_carrier_ok,FUNC_3
+get_link_ksettings,FUNC_4
+dev,VAR_5
+cmd,VAR_6
+p,VAR_7
+supported,VAR_8

@@ -1,0 +1,10 @@
+clk_disable,FUNC_0
+del_timer_sync,FUNC_1
+dma_free_coherent,FUNC_2
+free_irq,FUNC_3
+netdev_priv,FUNC_4
+netif_stop_queue,FUNC_5
+w90p910_ether_close,FUNC_6
+dev,VAR_0
+ether,VAR_1
+pdev,VAR_2

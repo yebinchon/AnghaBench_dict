@@ -1,0 +1,17 @@
+DEFINE_WB_COMPLETION,FUNC_0
+LONG_MAX,VAR_0
+WARN_ON,FUNC_1
+WB_REASON_SYNC,VAR_1
+WB_SYNC_ALL,VAR_2
+bdi_down_write_wb_switch_rwsem,FUNC_2
+bdi_split_work_to_wbs,FUNC_3
+bdi_up_write_wb_switch_rwsem,FUNC_4
+done,VAR_3
+noop_backing_dev_info,VAR_4
+rwsem_is_locked,FUNC_5
+wait_sb_inodes,FUNC_6
+wb_wait_for_completion,FUNC_7
+sync_inodes_sb,FUNC_8
+sb,VAR_5
+bdi,VAR_6
+work,VAR_7

@@ -1,0 +1,16 @@
+GET_PUD,FUNC_0
+LUA_NOREF,VAR_0
+LUA_REGISTRYINDEX,VAR_1
+PCM_RATE_16K,VAR_2
+PCM_RATE_1K,VAR_3
+PCM_RATE_8K,VAR_4
+cfg,VAR_5
+luaL_argcheck,FUNC_1
+luaL_optinteger,FUNC_2
+luaL_ref,FUNC_3
+lua_pushvalue,FUNC_4
+pcm_start_play_task,VAR_6
+pud,VAR_7
+task_post_low,FUNC_5
+pcm_drv_play,FUNC_6
+L,VAR_8

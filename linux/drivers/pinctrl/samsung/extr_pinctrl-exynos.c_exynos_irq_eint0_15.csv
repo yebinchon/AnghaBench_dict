@@ -1,0 +1,12 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+irq_linear_revmap,FUNC_5
+exynos_irq_eint0_15,FUNC_6
+desc,VAR_0
+eintd,VAR_1
+bank,VAR_2
+chip,VAR_3
+eint_irq,VAR_4

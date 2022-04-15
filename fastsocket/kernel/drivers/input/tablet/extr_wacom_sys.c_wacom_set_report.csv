@@ -1,0 +1,17 @@
+EPIPE,VAR_0
+ETIMEDOUT,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_REQ_SET_REPORT,VAR_3
+USB_TYPE_CLASS,VAR_4
+interface_to_usbdev,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+wacom_set_report,FUNC_3
+intf,VAR_5
+type,VAR_6
+id,VAR_7
+buf,VAR_8
+size,VAR_9
+retries,VAR_10
+dev,VAR_11
+retval,VAR_12

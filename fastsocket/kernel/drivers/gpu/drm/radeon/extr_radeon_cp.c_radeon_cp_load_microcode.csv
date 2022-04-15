@@ -1,0 +1,11 @@
+RADEON_CP_ME_RAM_ADDR,VAR_0
+RADEON_CP_ME_RAM_DATAH,VAR_1
+RADEON_CP_ME_RAM_DATAL,VAR_2
+RADEON_WRITE,FUNC_0
+be32_to_cpup,FUNC_1
+radeon_do_wait_for_idle,FUNC_2
+radeon_cp_load_microcode,FUNC_3
+dev_priv,VAR_3
+fw_data,VAR_4
+i,VAR_5
+size,VAR_6

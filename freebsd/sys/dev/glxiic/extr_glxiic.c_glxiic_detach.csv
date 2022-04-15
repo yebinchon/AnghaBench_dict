@@ -1,0 +1,16 @@
+GLXIIC_LOCK_DESTROY,FUNC_0
+SYS_RES_IOPORT,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_generic_detach,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+callout_drain,FUNC_4
+device_delete_child,FUNC_5
+device_get_softc,FUNC_6
+glxiic_gpio_disable,FUNC_7
+glxiic_smb_disable,FUNC_8
+glxiic_smb_map_interrupt,FUNC_9
+glxiic_detach,FUNC_10
+dev,VAR_2
+sc,VAR_3
+error,VAR_4

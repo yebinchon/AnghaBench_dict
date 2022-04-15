@@ -1,0 +1,15 @@
+CloseServiceHandle,FUNC_0
+FALSE,VAR_0
+OpenSCManagerW,FUNC_1
+OpenServiceW,FUNC_2
+QueryServiceStatusEx,FUNC_3
+SC_MANAGER_ENUMERATE_SERVICE,VAR_1
+SC_STATUS_PROCESS_INFO,VAR_2
+SERVICE_QUERY_STATUS,VAR_3
+TRUE,VAR_4
+UpdateServiceStatus,FUNC_4
+pService,VAR_5
+hScm,VAR_6
+bRet,VAR_7
+hService,VAR_8
+size,VAR_9

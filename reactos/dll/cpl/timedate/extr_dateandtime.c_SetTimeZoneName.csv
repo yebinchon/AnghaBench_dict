@@ -1,0 +1,17 @@
+GetTimeZoneInformation,FUNC_0
+IDC_TIMEZONE,VAR_0
+IDS_TIMEZONEINVALID,VAR_1
+IDS_TIMEZONETEXT,VAR_2
+LoadStringW,FUNC_1
+SendDlgItemMessageW,FUNC_2
+WM_SETTEXT,VAR_3
+hApplet,VAR_4
+wcscpy,FUNC_3
+wsprintfW,FUNC_4
+SetTimeZoneName,FUNC_5
+hwnd,VAR_5
+TimeZoneInfo,VAR_6
+TimeZoneString,VAR_7
+TimeZoneText,VAR_8
+TimeZoneName,VAR_9
+TimeZoneId,VAR_10

@@ -1,0 +1,10 @@
+ATLAS7_WDT_CNT_CTRL,VAR_0
+ATLAS7_WDT_CNT_EN,VAR_1
+ATLAS7_WDT_EN,VAR_2
+atlas7_wdt_ping,FUNC_0
+readl,FUNC_1
+watchdog_get_drvdata,FUNC_2
+writel,FUNC_3
+atlas7_wdt_enable,FUNC_4
+wdd,VAR_3
+wdt,VAR_4

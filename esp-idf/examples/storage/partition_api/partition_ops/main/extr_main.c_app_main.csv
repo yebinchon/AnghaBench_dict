@@ -1,0 +1,17 @@
+ESP_ERROR_CHECK,FUNC_0
+ESP_LOGI,FUNC_1
+ESP_PARTITION_SUBTYPE_ANY,VAR_0
+ESP_PARTITION_TYPE_DATA,VAR_1
+SPI_FLASH_SEC_SIZE,VAR_2
+TAG,VAR_3
+assert,FUNC_2
+esp_partition_erase_range,FUNC_3
+esp_partition_find_first,FUNC_4
+esp_partition_read,FUNC_5
+esp_partition_write,FUNC_6
+memcmp,FUNC_7
+memset,FUNC_8
+app_main,FUNC_9
+partition,VAR_4
+store_data,VAR_5
+read_data,VAR_6

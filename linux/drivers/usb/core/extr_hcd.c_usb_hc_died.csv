@@ -1,0 +1,17 @@
+HCD_FLAG_DEAD,VAR_0
+HCD_FLAG_POLL_RH,VAR_1
+HCD_FLAG_RH_RUNNING,VAR_2
+USB_STATE_NOTATTACHED,VAR_3
+clear_bit,FUNC_0
+dev_err,FUNC_1
+hcd_root_hub_lock,VAR_4
+schedule_work,FUNC_2
+set_bit,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+usb_hcd_is_primary_hcd,FUNC_6
+usb_kick_hub_wq,FUNC_7
+usb_set_device_state,FUNC_8
+usb_hc_died,FUNC_9
+hcd,VAR_5
+flags,VAR_6

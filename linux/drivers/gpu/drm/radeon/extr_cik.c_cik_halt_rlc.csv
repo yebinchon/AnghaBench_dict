@@ -1,0 +1,13 @@
+RLC_CNTL,VAR_0
+RLC_ENABLE,VAR_1
+RLC_GPM_BUSY,VAR_2
+RLC_GPM_STAT,VAR_3
+RREG32,FUNC_0
+WREG32,FUNC_1
+cik_wait_for_rlc_serdes,FUNC_2
+udelay,FUNC_3
+cik_halt_rlc,FUNC_4
+rdev,VAR_4
+data,VAR_5
+orig,VAR_6
+i,VAR_7

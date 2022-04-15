@@ -1,0 +1,17 @@
+AV_TIMECODE_FLAG_24HOURSMAX,VAR_0
+AV_TIMECODE_FLAG_ALLOWNEGATIVE,VAR_1
+AV_TIMECODE_FLAG_DROPFRAME,VAR_2
+AV_TIMECODE_STR_SIZE,VAR_3
+av_timecode_adjust_ntsc_framenum2,FUNC_0
+snprintf,FUNC_1
+av_timecode_make_string,FUNC_2
+tc,VAR_4
+buf,VAR_5
+framenum,VAR_6
+fps,VAR_7
+drop,VAR_8
+hh,VAR_9
+mm,VAR_10
+ss,VAR_11
+ff,VAR_12
+neg,VAR_13

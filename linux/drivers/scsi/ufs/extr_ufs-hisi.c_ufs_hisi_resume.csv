@@ -1,0 +1,11 @@
+BIT_SYSCTRL_REF_CLOCK_EN,VAR_0
+PHY_CLK_CTRL,VAR_1
+UFS_DEVICE_RESET_CTRL,VAR_2
+udelay,FUNC_0
+ufs_sys_ctrl_set_bits,FUNC_1
+ufs_sys_ctrl_writel,FUNC_2
+ufshcd_get_variant,FUNC_3
+ufs_hisi_resume,FUNC_4
+hba,VAR_3
+pm_op,VAR_4
+host,VAR_5

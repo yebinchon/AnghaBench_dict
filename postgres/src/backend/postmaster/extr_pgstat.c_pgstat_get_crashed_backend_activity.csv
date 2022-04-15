@@ -1,0 +1,15 @@
+BackendActivityBuffer,VAR_0
+BackendActivityBufferSize,VAR_1
+BackendStatusArray,VAR_2
+MaxBackends,VAR_3
+Min,FUNC_0
+ascii_safe_strlcpy,FUNC_1
+pgstat_track_activity_query_size,VAR_4
+pgstat_get_crashed_backend_activity,FUNC_2
+pid,VAR_5
+buffer,VAR_6
+buflen,VAR_7
+beentry,VAR_8
+i,VAR_9
+activity,VAR_10
+activity_last,VAR_11

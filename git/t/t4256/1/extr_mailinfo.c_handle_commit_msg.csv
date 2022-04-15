@@ -1,0 +1,15 @@
+assert,FUNC_0
+check_inbody_header,FUNC_1
+convert_to_utf8,FUNC_2
+flush_inbody_header_accum,FUNC_3
+header,VAR_0
+is_scissors_line,FUNC_4
+patchbreak,FUNC_5
+strbuf_addbuf,FUNC_6
+strbuf_addf,FUNC_7
+strbuf_release,FUNC_8
+strbuf_setlen,FUNC_9
+handle_commit_msg,FUNC_10
+mi,VAR_1
+line,VAR_2
+i,VAR_3

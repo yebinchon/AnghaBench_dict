@@ -1,0 +1,15 @@
+IPIQ,VAR_0
+LINUX_SMP_IPI,VAR_1
+SMP_RESCHEDULE_YOURSELF,VAR_2
+__raw_local_irq_restore,FUNC_0
+__smtc_ipi_dq,FUNC_1
+ipi_decode,FUNC_2
+local_irq_save,FUNC_3
+smp_processor_id,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+deferred_smtc_ipi,FUNC_7
+cpu,VAR_3
+q,VAR_4
+pipi,VAR_5
+flags,VAR_6

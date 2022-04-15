@@ -1,0 +1,15 @@
+DMX_STATE_READY,VAR_0
+DMX_TYPE_SEC,VAR_1
+EBUSY,VAR_2
+ERESTARTSYS,VAR_3
+dvb_dmx_filter_alloc,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+dmx_section_feed_allocate_filter,FUNC_5
+feed,VAR_4
+filter,VAR_5
+dvbdmxfeed,VAR_6
+dvbdemux,VAR_7
+dvbdmxfilter,VAR_8

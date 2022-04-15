@@ -1,0 +1,8 @@
+AC_VERB_SET_GPIO_DIRECTION,VAR_0
+AC_VERB_SET_GPIO_MASK,VAR_1
+alc_write_gpio_data,FUNC_0
+msleep,FUNC_1
+snd_hda_codec_write,FUNC_2
+alc_write_gpio,FUNC_3
+codec,VAR_2
+spec,VAR_3

@@ -1,0 +1,13 @@
+AHD_QIN_WRAP,FUNC_0
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+NEXT_QUEUED_SCB_ADDR,VAR_2
+SCB_GET_TAG,FUNC_1
+ahd_outl,FUNC_2
+ahd_sync_scb,FUNC_3
+aic_le32toh,FUNC_4
+ahd_qinfifo_requeue,FUNC_5
+ahd,VAR_3
+prev_scb,VAR_4
+scb,VAR_5
+busaddr,VAR_6

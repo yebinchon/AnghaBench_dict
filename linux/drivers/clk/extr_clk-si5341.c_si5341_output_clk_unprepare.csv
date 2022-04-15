@@ -1,0 +1,8 @@
+SI5341_OUT_CFG_OE,VAR_0
+SI5341_OUT_CFG_PDN,VAR_1
+SI5341_OUT_CONFIG,FUNC_0
+regmap_update_bits,FUNC_1
+to_clk_si5341_output,FUNC_2
+si5341_output_clk_unprepare,FUNC_3
+hw,VAR_2
+output,VAR_3

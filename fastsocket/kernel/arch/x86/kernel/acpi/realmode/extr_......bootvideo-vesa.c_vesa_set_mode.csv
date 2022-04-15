@@ -1,0 +1,16 @@
+VIDEO_FIRST_VESA,VAR_0
+do_restore,VAR_1
+force_x,VAR_2
+force_y,VAR_3
+graphic_mode,VAR_4
+initregs,FUNC_0
+intcall,FUNC_1
+memset,FUNC_2
+vesa_store_mode_params_graphics,FUNC_3
+vminfo,VAR_5
+vesa_set_mode,FUNC_4
+mode,VAR_6
+ireg,VAR_7
+oreg,VAR_8
+is_graphic,VAR_9
+vesa_mode,VAR_10

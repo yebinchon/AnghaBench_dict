@@ -1,0 +1,13 @@
+CRTC_INT_CNTL,VAR_0
+CRTC_INT_EN_MASK,VAR_1
+CRTC_OFF_PITCH,VAR_2
+CRTC_VBLANK_INT_EN,VAR_3
+aty_ld_le32,FUNC_0
+aty_st_le32,FUNC_1
+free_irq,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+test_and_clear_bit,FUNC_5
+aty_disable_irq,FUNC_6
+par,VAR_4
+int_cntl,VAR_5

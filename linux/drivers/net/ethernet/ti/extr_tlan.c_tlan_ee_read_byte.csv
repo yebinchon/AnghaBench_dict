@@ -1,0 +1,16 @@
+TLAN_EEPROM_ACK,VAR_0
+TLAN_EEPROM_STOP,VAR_1
+netdev_priv,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+tlan_ee_receive_byte,FUNC_3
+tlan_ee_send_byte,FUNC_4
+tlan_ee_send_start,FUNC_5
+tlan_ee_read_byte,FUNC_6
+dev,VAR_2
+ee_addr,VAR_3
+data,VAR_4
+err,VAR_5
+priv,VAR_6
+flags,VAR_7
+ret,VAR_8

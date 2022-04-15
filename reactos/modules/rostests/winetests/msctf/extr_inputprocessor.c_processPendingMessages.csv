@@ -1,0 +1,14 @@
+DispatchMessageW,FUNC_0
+FALSE,VAR_0
+GetTickCount,FUNC_1
+MsgWaitForMultipleObjects,FUNC_2
+PM_REMOVE,VAR_1
+PeekMessageW,FUNC_3
+QS_ALLINPUT,VAR_2
+TranslateMessage,FUNC_4
+WAIT_TIMEOUT,VAR_3
+processPendingMessages,FUNC_5
+msg,VAR_4
+diff,VAR_5
+min_timeout,VAR_6
+time,VAR_7

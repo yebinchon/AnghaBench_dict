@@ -1,0 +1,10 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_OPAQUE,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_STATIC_CHILDREN,FUNC_1
+_hw_fdt,VAR_3
+fdtp,VAR_4
+sysctl_handle_dtb,VAR_5
+sysctl_register_fdt_oid,FUNC_2
+arg,VAR_6

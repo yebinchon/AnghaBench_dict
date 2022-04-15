@@ -1,0 +1,12 @@
+ISCI_NUM_PCI_BARS,VAR_0
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_1
+isci_log_message,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+isci_allocate_pci_memory,FUNC_5
+isci,VAR_3
+i,VAR_4
+pci_bar,VAR_5

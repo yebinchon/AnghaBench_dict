@@ -1,0 +1,17 @@
+ENA_ALERT,VAR_0
+ENA_FLAG_CLEAR_ATOMIC,FUNC_0
+ENA_FLAG_RSS_ACTIVE,VAR_1
+ENA_FLAG_SET_ATOMIC,FUNC_1
+devclass_find,FUNC_2
+devclass_get_maxunit,FUNC_3
+devclass_get_softc,FUNC_4
+device_printf,FUNC_5
+ena_rss_init_default,FUNC_6
+ena_trace,FUNC_7
+unlikely,FUNC_8
+ena_rss_init_default_deferred,FUNC_9
+arg,VAR_2
+adapter,VAR_3
+dc,VAR_4
+max,VAR_5
+rc,VAR_6

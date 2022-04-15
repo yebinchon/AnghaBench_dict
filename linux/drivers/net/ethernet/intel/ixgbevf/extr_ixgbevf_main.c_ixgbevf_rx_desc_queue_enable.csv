@@ -1,0 +1,14 @@
+IXGBEVF_MAX_RX_DESC_POLL,VAR_0
+IXGBE_READ_REG,FUNC_0
+IXGBE_REMOVED,FUNC_1
+IXGBE_RXDCTL_ENABLE,VAR_1
+IXGBE_VFRXDCTL,FUNC_2
+pr_err,FUNC_3
+usleep_range,FUNC_4
+ixgbevf_rx_desc_queue_enable,FUNC_5
+adapter,VAR_2
+ring,VAR_3
+hw,VAR_4
+wait_loop,VAR_5
+rxdctl,VAR_6
+reg_idx,VAR_7

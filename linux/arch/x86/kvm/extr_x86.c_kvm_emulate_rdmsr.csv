@@ -1,0 +1,12 @@
+kvm_get_msr,FUNC_0
+kvm_inject_gp,FUNC_1
+kvm_rax_write,FUNC_2
+kvm_rcx_read,FUNC_3
+kvm_rdx_write,FUNC_4
+kvm_skip_emulated_instruction,FUNC_5
+trace_kvm_msr_read,FUNC_6
+trace_kvm_msr_read_ex,FUNC_7
+kvm_emulate_rdmsr,FUNC_8
+vcpu,VAR_0
+ecx,VAR_1
+data,VAR_2

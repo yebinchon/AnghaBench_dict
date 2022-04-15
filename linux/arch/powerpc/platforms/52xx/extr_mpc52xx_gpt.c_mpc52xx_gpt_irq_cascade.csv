@@ -1,0 +1,10 @@
+MPC52xx_GPT_STATUS_IRQMASK,VAR_0
+generic_handle_irq,FUNC_0
+in_be32,FUNC_1
+irq_desc_get_handler_data,FUNC_2
+irq_linear_revmap,FUNC_3
+mpc52xx_gpt_irq_cascade,FUNC_4
+desc,VAR_1
+gpt,VAR_2
+sub_virq,VAR_3
+status,VAR_4

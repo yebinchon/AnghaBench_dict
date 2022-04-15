@@ -1,0 +1,10 @@
+IRQ_MSI_ENABLE,VAR_0
+PCIE_IRQ_EN_LEVEL,VAR_1
+dw_pcie_msi_init,FUNC_0
+exynos_pcie_readl,FUNC_1
+exynos_pcie_writel,FUNC_2
+exynos_pcie_msi_init,FUNC_3
+ep,VAR_2
+pci,VAR_3
+pp,VAR_4
+val,VAR_5

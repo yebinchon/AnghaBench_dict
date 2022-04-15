@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+PTE_OS_OK,VAR_2
+SEM_VALUE_MAX,VAR_3
+errno,VAR_4
+free,FUNC_0
+pte_osSemaphoreDelete,FUNC_1
+pte_osThreadSleep,FUNC_2
+pthread_mutex_destroy,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+sem_destroy,FUNC_6
+sem,VAR_5
+result,VAR_6
+s,VAR_7
+osResult,VAR_8

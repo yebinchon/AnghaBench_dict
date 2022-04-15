@@ -1,0 +1,15 @@
+FanCapture,VAR_0
+FanLastIrq,VAR_1
+LocalTime,VAR_2
+SET,VAR_3
+TIM3,VAR_4
+TIM_ClearITPendingBit,FUNC_0
+TIM_GetCapture1,FUNC_1
+TIM_GetITStatus,FUNC_2
+TIM_IT_CC1,VAR_5
+captureCounter,VAR_6
+captures,VAR_7
+TIM3_IRQHandler,FUNC_3
+CaptureNumber,VAR_8
+inval1,VAR_9
+inval2,VAR_10

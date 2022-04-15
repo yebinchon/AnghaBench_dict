@@ -1,0 +1,15 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+dev_dbg,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+irq_desc_get_irq,FUNC_5
+ks_pcie_handle_legacy_irq,FUNC_6
+ks_pcie_legacy_irq_handler,FUNC_7
+desc,VAR_0
+irq,VAR_1
+ks_pcie,VAR_2
+pci,VAR_3
+dev,VAR_4
+irq_offset,VAR_5
+chip,VAR_6

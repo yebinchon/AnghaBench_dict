@@ -1,0 +1,17 @@
+FIELD_PREP,FUNC_0
+MIO_EMM_CFG,FUNC_1
+MIO_EMM_RCA,FUNC_2
+MIO_EMM_STS_MASK,FUNC_3
+MIO_EMM_SWITCH_CLK_HI,VAR_0
+MIO_EMM_SWITCH_CLK_LO,VAR_1
+MIO_EMM_SWITCH_POWER_CLASS,VAR_2
+cvm_mmc_set_clock,FUNC_4
+do_switch,FUNC_5
+set_bus_id,FUNC_6
+set_wdog,FUNC_7
+udelay,FUNC_8
+writeq,FUNC_9
+cvm_mmc_init_lowlevel,FUNC_10
+slot,VAR_3
+host,VAR_4
+emm_switch,VAR_5

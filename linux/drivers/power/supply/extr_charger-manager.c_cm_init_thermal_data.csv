@@ -1,0 +1,14 @@
+CM_DEFAULT_CHARGE_TEMP_MAX,VAR_0
+CM_DEFAULT_RECHARGE_TEMP_DIFF,VAR_1
+IS_ERR,FUNC_0
+POWER_SUPPLY_PROP_TEMP,VAR_2
+POWER_SUPPLY_PROP_TEMP_AMBIENT,VAR_3
+PTR_ERR,FUNC_1
+power_supply_get_property,FUNC_2
+thermal_zone_get_zone_by_name,FUNC_3
+cm_init_thermal_data,FUNC_4
+cm,VAR_4
+fuel_gauge,VAR_5
+desc,VAR_6
+val,VAR_7
+ret,VAR_8

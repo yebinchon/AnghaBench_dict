@@ -1,0 +1,13 @@
+CAUSEF_BD,VAR_0
+EMULATE_FAIL,VAR_1
+kvm_get_badinstr,FUNC_0
+kvm_mips_emul_hypcall,FUNC_1
+update_pc,FUNC_2
+kvm_trap_vz_handle_hc,FUNC_3
+cause,VAR_2
+opc,VAR_3
+vcpu,VAR_4
+er,VAR_5
+inst,VAR_6
+curr_pc,VAR_7
+err,VAR_8

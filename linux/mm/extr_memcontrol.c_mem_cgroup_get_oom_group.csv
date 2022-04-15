@@ -1,0 +1,13 @@
+cgroup_subsys_on_dfl,FUNC_0
+css_get,FUNC_1
+mem_cgroup_from_task,FUNC_2
+memory_cgrp_subsys,VAR_0
+parent_mem_cgroup,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+root_mem_cgroup,VAR_1
+mem_cgroup_get_oom_group,FUNC_6
+victim,VAR_2
+oom_domain,VAR_3
+oom_group,VAR_4
+memcg,VAR_5

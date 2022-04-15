@@ -1,0 +1,14 @@
+KVM_EXIT_MMIO,VAR_0
+TEST_ASSERT,FUNC_0
+addr_gva2hva,FUNC_1
+memcpy,FUNC_2
+ucall_exit_mmio_addr,VAR_1
+vcpu_run_complete_io,FUNC_3
+vcpu_state,FUNC_4
+get_ucall,FUNC_5
+vm,VAR_2
+vcpu_id,VAR_3
+uc,VAR_4
+run,VAR_5
+ucall,VAR_6
+gva,VAR_7

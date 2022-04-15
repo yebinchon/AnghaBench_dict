@@ -1,0 +1,17 @@
+CM_GAMMA_RAMP,VAR_0
+COLORMGMTCAPS,VAR_1
+GAMMA_RAMP_SIZE,VAR_2
+GetDC,FUNC_0
+GetDeviceCaps,FUNC_1
+GetDeviceGammaRamp,FUNC_2
+ReleaseDC,FUNC_3
+_,FUNC_4
+fputs,FUNC_5
+malloc,FUNC_6
+perror,FUNC_7
+stderr,VAR_3
+w32gdi_start,FUNC_8
+state,VAR_4
+r,VAR_5
+hDC,VAR_6
+cmcap,VAR_7

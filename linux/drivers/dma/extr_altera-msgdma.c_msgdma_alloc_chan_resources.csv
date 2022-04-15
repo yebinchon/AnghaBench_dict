@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+GFP_NOWAIT,VAR_1
+INIT_LIST_HEAD,FUNC_0
+MSGDMA_DESC_NUM,VAR_2
+dma_async_tx_descriptor_init,FUNC_1
+kcalloc,FUNC_2
+list_add_tail,FUNC_3
+msgdma_tx_submit,VAR_3
+to_mdev,FUNC_4
+msgdma_alloc_chan_resources,FUNC_5
+dchan,VAR_4
+mdev,VAR_5
+desc,VAR_6
+i,VAR_7

@@ -1,0 +1,12 @@
+alloc_migrate_huge_page,FUNC_0
+dequeue_huge_page_nodemask,FUNC_1
+htlb_alloc_mask,FUNC_2
+hugetlb_lock,VAR_0
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+alloc_huge_page_nodemask,FUNC_5
+h,VAR_1
+preferred_nid,VAR_2
+nmask,VAR_3
+gfp_mask,VAR_4
+page,VAR_5

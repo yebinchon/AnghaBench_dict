@@ -1,0 +1,13 @@
+HF_IRET_MASK,VAR_0
+HF_NMI_MASK,VAR_1
+INTERCEPT_STGI,VAR_2
+X86_EFLAGS_RF,VAR_3
+X86_EFLAGS_TF,VAR_4
+gif_set,FUNC_0
+set_intercept,FUNC_1
+svm_get_rflags,FUNC_2
+to_svm,FUNC_3
+vgif_enabled,FUNC_4
+enable_nmi_window,FUNC_5
+vcpu,VAR_5
+svm,VAR_6

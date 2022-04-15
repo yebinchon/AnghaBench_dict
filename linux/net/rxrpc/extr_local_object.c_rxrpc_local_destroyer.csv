@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+SHUT_RDWR,VAR_0
+_enter,FUNC_1
+kernel_sock_shutdown,FUNC_2
+list_del_init,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+rxrpc_clean_up_local_conns,FUNC_6
+rxrpc_purge_queue,FUNC_7
+rxrpc_service_connection_reaper,FUNC_8
+sock_release,FUNC_9
+rxrpc_local_destroyer,FUNC_10
+local,VAR_1
+socket,VAR_2
+rxnet,VAR_3

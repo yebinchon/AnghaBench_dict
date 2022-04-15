@@ -1,0 +1,9 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+iwl_pcie_tx_stop_fh,FUNC_1
+iwl_pcie_txq_unmap,FUNC_2
+iwl_scd_deactivate_fifos,FUNC_3
+memset,FUNC_4
+iwl_pcie_tx_stop,FUNC_5
+trans,VAR_0
+trans_pcie,VAR_1
+txq_id,VAR_2

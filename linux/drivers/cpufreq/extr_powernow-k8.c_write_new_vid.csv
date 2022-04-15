@@ -1,0 +1,16 @@
+INVALID_FID_MASK,VAR_0
+INVALID_VID_MASK,VAR_1
+MSR_C_LO_INIT_FID_VID,VAR_2
+MSR_C_LO_VID_SHIFT,VAR_3
+MSR_FIDVID_CTL,VAR_4
+STOP_GRANT_5NS,VAR_5
+pr_debug,FUNC_0
+pr_err,FUNC_1
+query_current_values_with_pending_wait,FUNC_2
+wrmsr,FUNC_3
+write_new_vid,FUNC_4
+data,VAR_6
+vid,VAR_7
+lo,VAR_8
+savefid,VAR_9
+i,VAR_10

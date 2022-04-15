@@ -1,0 +1,14 @@
+ge25519_p1p1_to_p3,FUNC_0
+ge25519_p3_to_cached,FUNC_1
+ge25519_sub,FUNC_2
+ristretto255_frombytes,FUNC_3
+ristretto255_p3_tobytes,FUNC_4
+crypto_core_ristretto255_sub,FUNC_5
+r,VAR_0
+p,VAR_1
+q,VAR_2
+p_p3,VAR_3
+q_p3,VAR_4
+r_p3,VAR_5
+r_p1p1,VAR_6
+q_cached,VAR_7

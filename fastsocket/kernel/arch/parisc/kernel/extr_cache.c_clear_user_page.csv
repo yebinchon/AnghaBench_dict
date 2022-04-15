@@ -1,0 +1,10 @@
+clear_user_page_asm,FUNC_0
+pdtlb_kernel,FUNC_1
+purge_kernel_dcache_page,FUNC_2
+purge_tlb_end,FUNC_3
+purge_tlb_start,FUNC_4
+clear_user_page,FUNC_5
+page,VAR_0
+vaddr,VAR_1
+pg,VAR_2
+flags,VAR_3

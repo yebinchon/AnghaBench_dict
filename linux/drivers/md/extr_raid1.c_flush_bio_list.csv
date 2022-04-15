@@ -1,0 +1,17 @@
+Faulty,VAR_0
+REQ_OP_DISCARD,VAR_1
+bio_endio,FUNC_0
+bio_io_error,FUNC_1
+bio_op,FUNC_2
+bio_set_dev,FUNC_3
+blk_queue_discard,FUNC_4
+generic_make_request,FUNC_5
+md_bitmap_unplug,FUNC_6
+test_bit,FUNC_7
+unlikely,FUNC_8
+wake_up,FUNC_9
+flush_bio_list,FUNC_10
+conf,VAR_2
+bio,VAR_3
+next,VAR_4
+rdev,VAR_5

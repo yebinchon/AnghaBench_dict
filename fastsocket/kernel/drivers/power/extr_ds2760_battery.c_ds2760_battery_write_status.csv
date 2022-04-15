@@ -1,0 +1,9 @@
+DS2760_EEPROM_BLOCK1,VAR_0
+DS2760_STATUS_REG,VAR_1
+DS2760_STATUS_WRITE_REG,VAR_2
+w1_ds2760_recall_eeprom,FUNC_0
+w1_ds2760_store_eeprom,FUNC_1
+w1_ds2760_write,FUNC_2
+ds2760_battery_write_status,FUNC_3
+di,VAR_3
+status,VAR_4

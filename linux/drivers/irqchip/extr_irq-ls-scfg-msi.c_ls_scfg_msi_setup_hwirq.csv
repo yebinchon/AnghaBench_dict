@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+MSI_LS1043V1_1_IRQS_PER_MSIR,VAR_1
+bitmap_clear,FUNC_0
+get_cpu_mask,FUNC_1
+irq_set_affinity,FUNC_2
+irq_set_chained_handler_and_data,FUNC_3
+ls_scfg_msi_irq_handler,VAR_2
+msi_affinity_flag,VAR_3
+platform_get_irq,FUNC_4
+ls_scfg_msi_setup_hwirq,FUNC_5
+msi_data,VAR_4
+index,VAR_5
+msir,VAR_6
+virq,VAR_7
+i,VAR_8
+hwirq,VAR_9

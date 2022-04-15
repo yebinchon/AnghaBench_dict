@@ -1,0 +1,14 @@
+PCI_EXP_TYPE_PCI_BRIDGE,VAR_0
+down_read,FUNC_0
+pci_bus_sem,VAR_1
+pci_dev_get,FUNC_1
+pci_dev_put,FUNC_2
+pci_is_pcie,FUNC_3
+pci_pcie_type,FUNC_4
+pcie_pme_walk_bus,FUNC_5
+up_read,FUNC_6
+pcie_pme_from_pci_bridge,FUNC_7
+bus,VAR_2
+devfn,VAR_3
+dev,VAR_4
+found,VAR_5

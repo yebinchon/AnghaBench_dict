@@ -1,0 +1,13 @@
+VXGE_HW_OK,VAR_0
+VXGE_HW_PRC_RXD_DOORBELL_NEW_QW_CNT,FUNC_0
+readl,FUNC_1
+stub1,FUNC_2
+vxge_hw_ring_rxd_next_completed,FUNC_3
+writeq,FUNC_4
+vxge_hw_vpath_poll_rx,FUNC_5
+ring,VAR_1
+t_code,VAR_2
+status,VAR_3
+first_rxdh,VAR_4
+val64,VAR_5
+new_count,VAR_6

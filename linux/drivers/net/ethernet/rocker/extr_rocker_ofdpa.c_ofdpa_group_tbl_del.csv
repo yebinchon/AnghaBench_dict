@@ -1,0 +1,17 @@
+ROCKER_TLV_CMD_TYPE_OF_DPA_GROUP_DEL,VAR_0
+hash_del,FUNC_0
+ofdpa_cmd_group_tbl_del,VAR_1
+ofdpa_flags_nowait,FUNC_1
+ofdpa_group_tbl_entry_free,FUNC_2
+ofdpa_group_tbl_find,FUNC_3
+rocker_cmd_exec,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ofdpa_group_tbl_del,FUNC_7
+ofdpa_port,VAR_2
+flags,VAR_3
+match,VAR_4
+ofdpa,VAR_5
+found,VAR_6
+lock_flags,VAR_7
+err,VAR_8

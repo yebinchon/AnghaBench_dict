@@ -1,0 +1,15 @@
+MLX5_CMD_OP_DEALLOC_MODIFY_HEADER_CONTEXT,VAR_0
+MLX5_SET,FUNC_0
+MLX5_ST_SZ_DW,FUNC_1
+dealloc_modify_header_context_in,VAR_1
+dealloc_modify_header_context_out,VAR_2
+memset,FUNC_2
+mlx5_cmd_exec,FUNC_3
+modify_header_id,VAR_3
+opcode,VAR_4
+mlx5_cmd_modify_header_dealloc,FUNC_4
+ns,VAR_5
+modify_hdr,VAR_6
+in,VAR_7
+out,VAR_8
+dev,VAR_9

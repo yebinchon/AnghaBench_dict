@@ -1,0 +1,14 @@
+BE_CLEAR_ALL,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_RECOVERED,VAR_2
+be_clear_error,FUNC_0
+be_fw_wait_ready,FUNC_1
+dev_info,FUNC_2
+pci_enable_device,FUNC_3
+pci_get_drvdata,FUNC_4
+pci_restore_state,FUNC_5
+pci_set_master,FUNC_6
+be_eeh_reset,FUNC_7
+pdev,VAR_3
+adapter,VAR_4
+status,VAR_5

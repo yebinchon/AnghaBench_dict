@@ -1,0 +1,16 @@
+BIT,FUNC_0
+MEDIA_PAD_FL_MUST_CONNECT,VAR_0
+MEDIA_PAD_FL_SINK,VAR_1
+V4L2_SUBDEV_FL_HAS_DEVNODE,VAR_2
+V4L2_SUBDEV_FL_HAS_EVENTS,VAR_3
+V4L2_SUBDEV_NAME_SIZE,VAR_4
+media_entity_pads_init,FUNC_1
+snprintf,FUNC_2
+v4l2_set_subdevdata,FUNC_3
+v4l2_subdev_init,FUNC_4
+isp_stat_init_entities,FUNC_5
+stat,VAR_5
+name,VAR_6
+sd_ops,VAR_7
+subdev,VAR_8
+me,VAR_9

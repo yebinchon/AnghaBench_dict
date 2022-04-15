@@ -1,0 +1,16 @@
+ISP_LOCK,FUNC_0
+ISP_UNLOCK,FUNC_1
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+isp_detach,FUNC_5
+isp_sbus_mbxdmafree,FUNC_6
+isp_shutdown,FUNC_7
+mtx_destroy,FUNC_8
+isp_sbus_detach,FUNC_9
+dev,VAR_2
+sbs,VAR_3
+isp,VAR_4
+status,VAR_5

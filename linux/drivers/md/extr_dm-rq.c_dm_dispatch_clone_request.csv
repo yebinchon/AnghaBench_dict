@@ -1,0 +1,12 @@
+BLK_STS_DEV_RESOURCE,VAR_0
+BLK_STS_OK,VAR_1
+BLK_STS_RESOURCE,VAR_2
+RQF_IO_STAT,VAR_3
+blk_insert_cloned_request,FUNC_0
+blk_queue_io_stat,FUNC_1
+dm_complete_request,FUNC_2
+ktime_get_ns,FUNC_3
+dm_dispatch_clone_request,FUNC_4
+clone,VAR_4
+rq,VAR_5
+r,VAR_6

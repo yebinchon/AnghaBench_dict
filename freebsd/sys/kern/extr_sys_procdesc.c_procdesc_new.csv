@@ -1,0 +1,13 @@
+M_WAITOK,VAR_0
+M_ZERO,VAR_1
+PDF_DAEMON,VAR_2
+PD_DAEMON,VAR_3
+PROCDESC_LOCK_INIT,FUNC_0
+knlist_init_mtx,FUNC_1
+procdesc_zone,VAR_4
+refcount_init,FUNC_2
+uma_zalloc,FUNC_3
+procdesc_new,FUNC_4
+p,VAR_5
+flags,VAR_6
+pd,VAR_7

@@ -1,0 +1,13 @@
+dummy_hcd_to_hcd,FUNC_0
+gadget_dev_to_dummy,FUNC_1
+gadget_to_dummy_hcd,FUNC_2
+set_link_state,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+usb_hcd_poll_rh_status,FUNC_6
+dummy_pullup,FUNC_7
+_gadget,VAR_0
+value,VAR_1
+dum_hcd,VAR_2
+dum,VAR_3
+flags,VAR_4

@@ -1,0 +1,11 @@
+WARN_ON_ONCE,FUNC_0
+get_cpu,FUNC_1
+put_cpu,FUNC_2
+sync_vmcs02_to_vmcs12_rare,FUNC_3
+to_vmx,FUNC_4
+vmx_vcpu_load,FUNC_5
+copy_vmcs02_to_vmcs12_rare,FUNC_6
+vcpu,VAR_0
+vmcs12,VAR_1
+vmx,VAR_2
+cpu,VAR_3

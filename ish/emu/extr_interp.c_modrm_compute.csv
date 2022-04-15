@@ -1,0 +1,14 @@
+REGISTER,FUNC_0
+modrm_decode32,FUNC_1
+modrm_mem_si,VAR_0
+modrm_reg,VAR_1
+reg_none,VAR_2
+regptr_from_reg,FUNC_2
+modrm_compute,FUNC_3
+cpu,VAR_3
+tlb,VAR_4
+addr_out,VAR_5
+modrm,VAR_6
+modrm_regptr,VAR_7
+modrm_base,VAR_8
+index_reg,VAR_9

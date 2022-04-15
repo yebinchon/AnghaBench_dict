@@ -1,0 +1,15 @@
+MEM_RELEASE,VAR_0
+MEM_RESERVE,VAR_1
+NT_SUCCESS,FUNC_0
+NtAllocateVirtualMemory,FUNC_1
+NtCurrentProcess,FUNC_2
+NtFreeVirtualMemory,FUNC_3
+PAGE_NOACCESS,VAR_2
+ok,FUNC_4
+CheckSize,FUNC_5
+Base,VAR_3
+InSize,VAR_4
+ExpectedSize,VAR_5
+Status,VAR_6
+BaseAddress,VAR_7
+Size,VAR_8

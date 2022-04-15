@@ -1,0 +1,13 @@
+FALSE,VAR_0
+MB_SER_PDU_SIZE_MAX,VAR_1
+STATE_TX_IDLE,VAR_2
+assert,FUNC_0
+eRcvState,VAR_3
+eSndState,VAR_4
+ucRTUBuf,VAR_5
+usRcvBufferPos,VAR_6
+vMBPortTimersEnable,FUNC_1
+xMBPortSerialGetByte,FUNC_2
+xMBRTUReceiveFSM,FUNC_3
+xTaskNeedSwitch,VAR_7
+ucByte,VAR_8

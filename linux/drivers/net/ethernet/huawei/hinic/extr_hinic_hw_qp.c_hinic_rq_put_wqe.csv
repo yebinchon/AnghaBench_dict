@@ -1,0 +1,12 @@
+HINIC_RQ_CQE_STATUS_CLEAR,FUNC_0
+RXDONE,VAR_0
+be32_to_cpu,FUNC_1
+cpu_to_be32,FUNC_2
+hinic_put_wqe,FUNC_3
+wmb,FUNC_4
+hinic_rq_put_wqe,FUNC_5
+rq,VAR_1
+cons_idx,VAR_2
+wqe_size,VAR_3
+cqe,VAR_4
+status,VAR_5

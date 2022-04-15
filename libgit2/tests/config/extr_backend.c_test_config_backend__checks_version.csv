@@ -1,0 +1,14 @@
+GIT_CONFIG_BACKEND_INIT,VAR_0
+GIT_ERROR_INVALID,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_config_add_backend,FUNC_3
+git_config_free,FUNC_4
+git_config_new,FUNC_5
+git_error_clear,FUNC_6
+git_error_last,FUNC_7
+test_config_backend__checks_version,FUNC_8
+cfg,VAR_2
+backend,VAR_3
+err,VAR_4

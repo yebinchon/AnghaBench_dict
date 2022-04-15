@@ -1,0 +1,9 @@
+DMA_TO_DEVICE,VAR_0
+NVME_FC_MAX_LS_BUFFER_SIZE,VAR_1
+fc_dma_sync_single_for_cpu,FUNC_0
+nvmet_fc_free_ls_iod,FUNC_1
+nvmet_fc_tgtport_put,FUNC_2
+nvmet_fc_xmt_ls_rsp_done,FUNC_3
+lsreq,VAR_2
+iod,VAR_3
+tgtport,VAR_4

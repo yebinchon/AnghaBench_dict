@@ -1,0 +1,9 @@
+arch_spin_lock,FUNC_0
+arch_spin_unlock,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+rb_iter_reset,FUNC_4
+ring_buffer_read_start,FUNC_5
+iter,VAR_0
+cpu_buffer,VAR_1
+flags,VAR_2

@@ -1,0 +1,13 @@
+MSG_DEBUG,VAR_0
+TEAP_TLV_MANDATORY,VAR_1
+TEAP_TLV_NAK,VAR_2
+host_to_be16,FUNC_0
+host_to_be32,FUNC_1
+wpa_printf,FUNC_2
+wpabuf_alloc,FUNC_3
+wpabuf_put,FUNC_4
+eap_teap_tlv_nak,FUNC_5
+vendor_id,VAR_3
+tlv_type,VAR_4
+buf,VAR_5
+nak,VAR_6

@@ -1,0 +1,13 @@
+SEEK_SET,VAR_0
+SIG_LOCAL_FILE_HEADER,VAR_1
+ZIP_LOCAL_ENTRY_FIXED_SIZE,VAR_2
+ar_read,FUNC_0
+ar_seek,FUNC_1
+memmove,FUNC_2
+uint32le,FUNC_3
+zip_find_next_local_file_entry,FUNC_4
+stream,VAR_3
+offset,VAR_4
+data,VAR_5
+count,VAR_6
+i,VAR_7

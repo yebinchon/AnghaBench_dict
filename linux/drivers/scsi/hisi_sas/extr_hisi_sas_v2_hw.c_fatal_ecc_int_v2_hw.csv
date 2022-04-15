@@ -1,0 +1,13 @@
+IRQ_HANDLED,VAR_0
+SAS_ECC_INTR,VAR_1
+SAS_ECC_INTR_MSK,VAR_2
+hisi_sas_read32,FUNC_0
+hisi_sas_write32,FUNC_1
+multi_bit_ecc_error_process_v2_hw,FUNC_2
+one_bit_ecc_error_process_v2_hw,FUNC_3
+fatal_ecc_int_v2_hw,FUNC_4
+irq_no,VAR_3
+p,VAR_4
+hisi_hba,VAR_5
+irq_value,VAR_6
+irq_msk,VAR_7

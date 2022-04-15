@@ -1,0 +1,12 @@
+RTC_STATUS,VAR_0
+SIRFSOC_RTC_AL0E,VAR_1
+dev_get_drvdata,FUNC_0
+sirfsoc_rtc_readl,FUNC_1
+sirfsoc_rtc_writel,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+sirfsoc_rtc_alarm_irq_enable,FUNC_5
+dev,VAR_2
+enabled,VAR_3
+rtc_status_reg,VAR_4
+rtcdrv,VAR_5

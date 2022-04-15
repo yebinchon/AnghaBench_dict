@@ -1,0 +1,13 @@
+CTLFLAG_MPSAFE,VAR_0
+CTLFLAG_RD,VAR_1
+CTLTYPE_STRING,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+amd_ntb_hw_info_handler,VAR_4
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+amd_ntb_sysctl_init,FUNC_4
+ntb,VAR_5
+globals,VAR_6
+ctx,VAR_7

@@ -1,0 +1,11 @@
+ESP_ERROR_CHECK,FUNC_0
+ESP_EVENT_ANY_ID,VAR_0
+IP_EVENT,VAR_1
+IP_EVENT_STA_GOT_IP,VAR_2
+WIFI_EVENT,VAR_3
+WIFI_MODE_STA,VAR_4
+esp_event_handler_register,FUNC_1
+esp_wifi_set_mode,FUNC_2
+esp_wifi_start,FUNC_3
+event_handler,VAR_5
+wifi_init_sta,FUNC_4

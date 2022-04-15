@@ -1,0 +1,12 @@
+ADT7X10_STATUS,VAR_0
+ADT7X10_STAT_T_CRIT,VAR_1
+ADT7X10_STAT_T_HIGH,VAR_2
+ADT7X10_STAT_T_LOW,VAR_3
+IRQ_HANDLED,VAR_4
+adt7x10_read_byte,FUNC_0
+sysfs_notify,FUNC_1
+adt7x10_irq_handler,FUNC_2
+irq,VAR_5
+private,VAR_6
+dev,VAR_7
+status,VAR_8

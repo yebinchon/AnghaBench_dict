@@ -1,0 +1,10 @@
+UART_INTR,FUNC_0
+UART_IRQ_SUM,VAR_0
+UART_RX_IRQ,VAR_1
+UART_TX_IRQ,VAR_2
+devm_free_irq,FUNC_1
+to_mvuart,FUNC_2
+writel,FUNC_3
+mvebu_uart_shutdown,FUNC_4
+port,VAR_3
+mvuart,VAR_4

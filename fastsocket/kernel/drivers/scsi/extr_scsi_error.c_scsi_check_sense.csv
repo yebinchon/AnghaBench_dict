@@ -1,0 +1,16 @@
+ADD_TO_MLQUEUE,VAR_0
+FAILED,VAR_1
+KERN_WARNING,VAR_2
+NEEDS_RETRY,VAR_3
+SCSI_RETURN_NOT_HANDLED,VAR_4
+SUCCESS,VAR_5
+TARGET_ERROR,VAR_6
+scmd_printk,FUNC_0
+scsi_command_normalize_sense,FUNC_1
+scsi_sense_is_deferred,FUNC_2
+stub1,FUNC_3
+scsi_check_sense,FUNC_4
+scmd,VAR_7
+sdev,VAR_8
+sshdr,VAR_9
+rc,VAR_10

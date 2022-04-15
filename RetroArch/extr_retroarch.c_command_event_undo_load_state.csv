@@ -1,0 +1,13 @@
+MSG_FAILED_TO_UNDO_LOAD_STATE,VAR_0
+MSG_NO_STATE_HAS_BEEN_LOADED_YET,VAR_1
+MSG_UNDID_LOAD_STATE,VAR_2
+RARCH_NETPLAY_CTL_LOAD_SAVESTATE,VAR_3
+content_undo_load_buf_is_empty,FUNC_0
+content_undo_load_state,FUNC_1
+msg_hash_to_str,FUNC_2
+netplay_driver_ctl,FUNC_3
+snprintf,FUNC_4
+strlcpy,FUNC_5
+command_event_undo_load_state,FUNC_6
+s,VAR_4
+len,VAR_5

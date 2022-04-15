@@ -1,0 +1,9 @@
+RADEON_BUS_CNTL,VAR_0
+RREG32,FUNC_0
+R_000030_BUS_CNTL,VAR_1
+WREG32,FUNC_1
+mdelay,FUNC_2
+pci_clear_master,FUNC_3
+r100_bm_disable,FUNC_4
+rdev,VAR_2
+tmp,VAR_3

@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+ENOENT,VAR_2
+SNDRV_CTL_ELEM_ACCESS_USER,VAR_3
+down_write,FUNC_0
+snd_ctl_find_id,FUNC_1
+snd_ctl_remove,FUNC_2
+up_write,FUNC_3
+snd_ctl_remove_user_ctl,FUNC_4
+file,VAR_4
+id,VAR_5
+card,VAR_6
+kctl,VAR_7
+idx,VAR_8
+ret,VAR_9

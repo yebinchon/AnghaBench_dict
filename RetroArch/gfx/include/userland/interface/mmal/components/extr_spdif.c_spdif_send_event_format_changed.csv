@@ -1,0 +1,15 @@
+LOG_ERROR,FUNC_0
+MMAL_ENCODING_PCM_SIGNED,VAR_0
+MMAL_EVENT_FORMAT_CHANGED,VAR_1
+MMAL_SUCCESS,VAR_2
+mmal_event_format_changed_get,FUNC_1
+mmal_format_copy,FUNC_2
+mmal_port_event_get,FUNC_3
+mmal_port_event_send,FUNC_4
+spdif_send_event_format_changed,FUNC_5
+component,VAR_3
+port,VAR_4
+format,VAR_5
+module,VAR_6
+buffer,VAR_7
+event,VAR_8

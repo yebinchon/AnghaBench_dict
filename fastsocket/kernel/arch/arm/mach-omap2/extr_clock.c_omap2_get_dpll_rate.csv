@@ -1,0 +1,16 @@
+OMAP2XXX_EN_DPLL_FRBYPASS,VAR_0
+OMAP2XXX_EN_DPLL_LPBYPASS,VAR_1
+OMAP3XXX_EN_DPLL_FRBYPASS,VAR_2
+OMAP3XXX_EN_DPLL_LPBYPASS,VAR_3
+__ffs,FUNC_0
+__raw_readl,FUNC_1
+cpu_is_omap24xx,FUNC_2
+cpu_is_omap34xx,FUNC_3
+do_div,FUNC_4
+omap2_get_dpll_rate,FUNC_5
+clk,VAR_4
+dpll_clk,VAR_5
+dpll_mult,VAR_6
+dpll_div,VAR_7
+v,VAR_8
+dd,VAR_9

@@ -1,0 +1,10 @@
+IEEE80211_SKB_RXCB,FUNC_0
+dev_kfree_skb,FUNC_1
+ieee80211_rx_irqsafe,FUNC_2
+rsi_fill_rx_status,FUNC_3
+rsi_indicate_pkt_to_os,FUNC_4
+common,VAR_0
+skb,VAR_1
+adapter,VAR_2
+hw,VAR_3
+rx_status,VAR_4

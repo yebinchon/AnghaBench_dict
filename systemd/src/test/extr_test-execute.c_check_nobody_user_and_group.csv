@@ -1,0 +1,14 @@
+GID_NOBODY,VAR_0
+NOBODY_GROUP_NAME,VAR_1
+NOBODY_USER_NAME,VAR_2
+UID_NOBODY,VAR_3
+getgrgid,FUNC_0
+getgrnam,FUNC_1
+getpwnam,FUNC_2
+getpwuid,FUNC_3
+streq,FUNC_4
+synthesize_nobody,FUNC_5
+check_nobody_user_and_group,FUNC_6
+cache,VAR_4
+p,VAR_5
+g,VAR_6

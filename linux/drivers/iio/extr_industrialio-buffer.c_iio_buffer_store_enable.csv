@@ -1,0 +1,15 @@
+__iio_update_buffers,FUNC_0
+dev_to_iio_dev,FUNC_1
+iio_buffer_is_active,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+strtobool,FUNC_5
+iio_buffer_store_enable,FUNC_6
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+len,VAR_3
+ret,VAR_4
+requested_state,VAR_5
+indio_dev,VAR_6
+inlist,VAR_7

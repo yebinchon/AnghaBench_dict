@@ -1,0 +1,14 @@
+HWRM_CFA_L2_FILTER_FREE,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+_hwrm_send_message,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+bnxt_hwrm_clear_vnic_filter,FUNC_4
+bp,VAR_2
+i,VAR_3
+j,VAR_4
+num_of_vnics,VAR_5
+rc,VAR_6
+vnic,VAR_7
+req,VAR_8

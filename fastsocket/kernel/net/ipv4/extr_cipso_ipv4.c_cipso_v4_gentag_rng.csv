@@ -1,0 +1,14 @@
+CIPSO_V4_TAG_RANGE,VAR_0
+EPERM,VAR_1
+NETLBL_SECATTR_MLS_CAT,VAR_2
+NETLBL_SECATTR_MLS_LVL,VAR_3
+cipso_v4_map_cat_rng_hton,FUNC_0
+cipso_v4_map_lvl_hton,FUNC_1
+cipso_v4_gentag_rng,FUNC_2
+doi_def,VAR_4
+secattr,VAR_5
+buffer,VAR_6
+buffer_len,VAR_7
+ret_val,VAR_8
+tag_len,VAR_9
+level,VAR_10

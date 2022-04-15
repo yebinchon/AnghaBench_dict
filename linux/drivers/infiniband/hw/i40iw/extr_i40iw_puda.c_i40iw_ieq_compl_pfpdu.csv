@@ -1,0 +1,15 @@
+i40iw_ieq_copy_to_txbuf,FUNC_0
+i40iw_ieq_setup_tx_buf,FUNC_1
+i40iw_puda_get_listbuf,FUNC_2
+i40iw_puda_ret_bufpool,FUNC_3
+list_add,FUNC_4
+i40iw_ieq_compl_pfpdu,FUNC_5
+ieq,VAR_0
+rxlist,VAR_1
+pbufl,VAR_2
+txbuf,VAR_3
+fpdu_len,VAR_4
+buf,VAR_5
+nextseqnum,VAR_6
+txoffset,VAR_7
+bufoffset,VAR_8

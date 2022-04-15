@@ -1,0 +1,5 @@
+RTC_8K_ALARM2,VAR_0
+RTC_8K_IMR,VAR_1
+writel,FUNC_0
+armada8k_unmask_interrupt,FUNC_1
+rtc,VAR_2

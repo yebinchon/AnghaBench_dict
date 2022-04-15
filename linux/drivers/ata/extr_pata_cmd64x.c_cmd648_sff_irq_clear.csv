@@ -1,0 +1,13 @@
+MRDMODE_INTR_CH0,VAR_0
+MRDMODE_INTR_CH1,VAR_1
+ata_bmdma_irq_clear,FUNC_0
+inb,FUNC_1
+outb,FUNC_2
+pci_resource_start,FUNC_3
+to_pci_dev,FUNC_4
+cmd648_sff_irq_clear,FUNC_5
+ap,VAR_2
+pdev,VAR_3
+base,VAR_4
+irq_mask,VAR_5
+mrdmode,VAR_6

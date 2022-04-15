@@ -1,0 +1,11 @@
+EAGAIN,VAR_0
+EINTR,VAR_1
+SYS_getrandom,VAR_2
+assert,FUNC_0
+errno,VAR_3
+getrandom,FUNC_1
+syscall,FUNC_2
+_randombytes_linux_getrandom,FUNC_3
+buf,VAR_4
+size,VAR_5
+readnb,VAR_6

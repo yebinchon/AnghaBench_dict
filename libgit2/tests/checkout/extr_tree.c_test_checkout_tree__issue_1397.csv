@@ -1,0 +1,15 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+check_file_contents,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+cl_repo_set_bool,FUNC_3
+g_repo,VAR_2
+git_checkout_tree,FUNC_4
+git_object_free,FUNC_5
+git_revparse_single,FUNC_6
+test_checkout_tree__cleanup,FUNC_7
+test_checkout_tree__issue_1397,FUNC_8
+opts,VAR_3
+partial_oid,VAR_4
+tree,VAR_5

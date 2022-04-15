@@ -1,0 +1,16 @@
+AdjustTokenPrivileges,FUNC_0
+CloseHandle,FUNC_1
+FALSE,VAR_0
+GetCurrentProcess,FUNC_2
+GetLastError,FUNC_3
+LookupPrivilegeValue,FUNC_4
+OpenProcessToken,FUNC_5
+SE_DEBUG_NAME,VAR_1
+SE_PRIVILEGE_ENABLED,VAR_2
+TOKEN_ADJUST_PRIVILEGES,VAR_3
+eprintf,FUNC_6
+w32dbg_SeDebugPrivilege,FUNC_7
+ret,VAR_4
+tokenPriv,VAR_5
+hToken,VAR_6
+luidDebug,VAR_7

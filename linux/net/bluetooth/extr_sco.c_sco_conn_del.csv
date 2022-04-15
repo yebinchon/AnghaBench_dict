@@ -1,0 +1,16 @@
+BT_DBG,FUNC_0
+bh_lock_sock,FUNC_1
+bh_unlock_sock,FUNC_2
+kfree,FUNC_3
+sco_chan_del,FUNC_4
+sco_conn_lock,FUNC_5
+sco_conn_unlock,FUNC_6
+sco_sock_clear_timer,FUNC_7
+sco_sock_kill,FUNC_8
+sock_hold,FUNC_9
+sock_put,FUNC_10
+sco_conn_del,FUNC_11
+hcon,VAR_0
+err,VAR_1
+conn,VAR_2
+sk,VAR_3

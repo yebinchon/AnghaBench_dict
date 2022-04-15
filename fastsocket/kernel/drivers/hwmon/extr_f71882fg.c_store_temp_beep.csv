@@ -1,0 +1,16 @@
+F71882FG_REG_TEMP_BEEP,VAR_0
+dev_get_drvdata,FUNC_0
+f71882fg_read8,FUNC_1
+f71882fg_write8,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtoul,FUNC_5
+to_sensor_dev_attr_2,FUNC_6
+store_temp_beep,FUNC_7
+dev,VAR_1
+devattr,VAR_2
+buf,VAR_3
+count,VAR_4
+data,VAR_5
+nr,VAR_6
+val,VAR_7

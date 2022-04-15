@@ -1,0 +1,12 @@
+NAND_CMD_ERASE1,VAR_0
+NAND_CMD_PARAM,VAR_1
+NAND_CMD_READID,VAR_2
+NAND_CMD_RESET,VAR_3
+clear_bam_transaction,FUNC_0
+clear_read_regs,FUNC_1
+get_qcom_nand_controller,FUNC_2
+pre_command,FUNC_3
+host,VAR_4
+command,VAR_5
+chip,VAR_6
+nandc,VAR_7

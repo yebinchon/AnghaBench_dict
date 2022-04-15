@@ -1,0 +1,14 @@
+RX_IRQ,FUNC_0
+SYSCON,FUNC_1
+SYSCON_UARTEN,VAR_0
+TX_IRQ,FUNC_2
+UBRLCR,FUNC_3
+UBRLCR_BREAK,VAR_1
+UBRLCR_FIFOEN,VAR_2
+clps_readl,FUNC_4
+clps_writel,FUNC_5
+free_irq,FUNC_6
+clps711xuart_shutdown,FUNC_7
+port,VAR_3
+ubrlcr,VAR_4
+syscon,VAR_5

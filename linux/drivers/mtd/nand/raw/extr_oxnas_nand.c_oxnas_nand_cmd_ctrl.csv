@@ -1,0 +1,11 @@
+NAND_ALE,VAR_0
+NAND_CLE,VAR_1
+OXNAS_NAND_CMD_ALE,VAR_2
+OXNAS_NAND_CMD_CLE,VAR_3
+nand_get_controller_data,FUNC_0
+writeb,FUNC_1
+oxnas_nand_cmd_ctrl,FUNC_2
+chip,VAR_4
+cmd,VAR_5
+ctrl,VAR_6
+oxnas,VAR_7

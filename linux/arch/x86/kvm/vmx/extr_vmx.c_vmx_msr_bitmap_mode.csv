@@ -1,0 +1,11 @@
+MSR_BITMAP_MODE_X2APIC,VAR_0
+MSR_BITMAP_MODE_X2APIC_APICV,VAR_1
+SECONDARY_EXEC_VIRTUALIZE_X2APIC_MODE,VAR_2
+cpu_has_secondary_exec_ctrls,FUNC_0
+enable_apicv,VAR_3
+kvm_vcpu_apicv_active,FUNC_1
+secondary_exec_controls_get,FUNC_2
+to_vmx,FUNC_3
+vmx_msr_bitmap_mode,FUNC_4
+vcpu,VAR_4
+mode,VAR_5

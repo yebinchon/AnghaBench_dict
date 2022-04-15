@@ -1,0 +1,17 @@
+DRM_ERROR,FUNC_0
+analogix_dp_prepare_panel,FUNC_1
+drm_add_edid_modes,FUNC_2
+drm_connector_update_edid_property,FUNC_3
+drm_get_edid,FUNC_4
+drm_panel_get_modes,FUNC_5
+kfree,FUNC_6
+pm_runtime_get_sync,FUNC_7
+pm_runtime_put,FUNC_8
+stub1,FUNC_9
+to_dp,FUNC_10
+analogix_dp_get_modes,FUNC_11
+connector,VAR_0
+dp,VAR_1
+edid,VAR_2
+ret,VAR_3
+num_modes,VAR_4

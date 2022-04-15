@@ -1,0 +1,13 @@
+NFTA_BYTEORDER_DREG,VAR_0
+NFTA_BYTEORDER_LEN,VAR_1
+NFTA_BYTEORDER_OP,VAR_2
+NFTA_BYTEORDER_SIZE,VAR_3
+NFTA_BYTEORDER_SREG,VAR_4
+htonl,FUNC_0
+nft_dump_register,FUNC_1
+nft_expr_priv,FUNC_2
+nla_put_be32,FUNC_3
+nft_byteorder_dump,FUNC_4
+skb,VAR_5
+expr,VAR_6
+priv,VAR_7

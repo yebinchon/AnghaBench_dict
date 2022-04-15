@@ -1,0 +1,14 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+exynos_irq_demux_eint,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+readl,FUNC_5
+exynos_irq_demux_eint16_31,FUNC_6
+desc,VAR_0
+chip,VAR_1
+eintd,VAR_2
+pend,VAR_3
+mask,VAR_4
+i,VAR_5
+b,VAR_6

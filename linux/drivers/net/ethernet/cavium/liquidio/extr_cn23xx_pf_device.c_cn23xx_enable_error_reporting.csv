@@ -1,0 +1,13 @@
+CN23XX_CONFIG_PCIE_CORRECT_ERR_STATUS,VAR_0
+CN23XX_CONFIG_PCIE_DEVCTL,VAR_1
+CN23XX_CONFIG_PCIE_DEVCTL_MASK,VAR_2
+CN23XX_CONFIG_PCIE_UNCORRECT_ERR_MASK,VAR_3
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+cn23xx_enable_error_reporting,FUNC_4
+oct,VAR_4
+regval,VAR_5
+uncorrectable_err_mask,VAR_6
+corrtable_err_status,VAR_7

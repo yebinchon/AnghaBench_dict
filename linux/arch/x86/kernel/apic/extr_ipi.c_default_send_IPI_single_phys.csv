@@ -1,0 +1,10 @@
+APIC_DEST_PHYSICAL,VAR_0
+__default_send_IPI_dest_field,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+per_cpu,FUNC_3
+x86_cpu_to_apicid,VAR_1
+default_send_IPI_single_phys,FUNC_4
+cpu,VAR_2
+vector,VAR_3
+flags,VAR_4

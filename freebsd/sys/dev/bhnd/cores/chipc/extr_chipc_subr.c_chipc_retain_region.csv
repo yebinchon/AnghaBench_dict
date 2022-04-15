@@ -1,0 +1,17 @@
+CHIPC_LOCK,FUNC_0
+CHIPC_UNLOCK,FUNC_1
+EINVAL,VAR_0
+ENXIO,VAR_1
+KASSERT,FUNC_2
+RF_ACTIVE,VAR_2
+RF_ALLOCATED,VAR_3
+RF_SHAREABLE,VAR_4
+SYS_RES_MEMORY,VAR_5
+bhnd_activate_resource,FUNC_3
+bhnd_alloc_resource,FUNC_4
+chipc_release_region,FUNC_5
+chipc_retain_region,FUNC_6
+sc,VAR_6
+cr,VAR_7
+flags,VAR_8
+error,VAR_9

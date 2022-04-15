@@ -1,0 +1,15 @@
+NETIF_F_ALL_CSUM,VAR_0
+NETIF_F_SG,VAR_1
+TCP_CHECK_TIMER,FUNC_0
+do_tcp_sendpages,FUNC_1
+lock_sock,FUNC_2
+release_sock,FUNC_3
+sock_no_sendpage,FUNC_4
+tcp_sendpage,FUNC_5
+sock,VAR_2
+page,VAR_3
+offset,VAR_4
+size,VAR_5
+flags,VAR_6
+res,VAR_7
+sk,VAR_8

@@ -1,0 +1,12 @@
+CLOCK_MONOTONIC,VAR_0
+MAX_CLIENT_UNFLUSHED_BYTES,VAR_1
+MAX_FLUSH_INTERVAL,VAR_2
+assert,FUNC_0
+fsync,FUNC_1
+get_utime,FUNC_2
+tot_unflushed_bytes,VAR_3
+vkprintf,FUNC_3
+check_flush_client,FUNC_4
+C,VAR_4
+p_now,VAR_5
+R,VAR_6

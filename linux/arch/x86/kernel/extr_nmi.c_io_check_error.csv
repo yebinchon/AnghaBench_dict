@@ -1,0 +1,17 @@
+NMI_IO_CHECK,VAR_0
+NMI_REASON_CLEAR_IOCHK,VAR_1
+NMI_REASON_CLEAR_MASK,VAR_2
+NMI_REASON_PORT,VAR_3
+nmi_handle,FUNC_0
+nmi_panic,FUNC_1
+outb,FUNC_2
+panic_on_io_nmi,VAR_4
+pr_emerg,FUNC_3
+show_regs,FUNC_4
+smp_processor_id,FUNC_5
+touch_nmi_watchdog,FUNC_6
+udelay,FUNC_7
+io_check_error,FUNC_8
+reason,VAR_5
+regs,VAR_6
+i,VAR_7

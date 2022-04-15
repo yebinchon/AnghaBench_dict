@@ -1,0 +1,17 @@
+SNDRV_PCM_INFO_DRAIN_TRIGGER,VAR_0
+SNDRV_PCM_STATE_DRAINING,VAR_1
+SNDRV_PCM_STATE_SETUP,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+SNDRV_PCM_TRIGGER_DRAIN,VAR_4
+snd_pcm_capture_avail,FUNC_0
+snd_pcm_do_start,FUNC_1
+snd_pcm_do_stop,FUNC_2
+snd_pcm_playback_empty,FUNC_3
+snd_pcm_post_start,FUNC_4
+snd_pcm_post_stop,FUNC_5
+stub1,FUNC_6
+snd_pcm_do_drain_init,FUNC_7
+substream,VAR_5
+state,VAR_6
+runtime,VAR_7
+new_state,VAR_8

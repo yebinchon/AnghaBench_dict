@@ -1,0 +1,14 @@
+DS1682_EEPROM_SIZE,VAR_0
+DS1682_REG_EEPROM,VAR_1
+EIO,VAR_2
+ENOSPC,VAR_3
+dev_dbg,FUNC_0
+i2c_smbus_write_i2c_block_data,FUNC_1
+kobj_to_i2c_client,FUNC_2
+ds1682_eeprom_write,FUNC_3
+kobj,VAR_4
+attr,VAR_5
+buf,VAR_6
+off,VAR_7
+count,VAR_8
+client,VAR_9

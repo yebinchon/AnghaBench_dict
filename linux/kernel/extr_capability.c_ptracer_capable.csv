@@ -1,0 +1,11 @@
+CAP_OPT_NOAUDIT,VAR_0
+CAP_SYS_PTRACE,VAR_1
+rcu_dereference,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+security_capable,FUNC_3
+ptracer_capable,FUNC_4
+tsk,VAR_2
+ns,VAR_3
+ret,VAR_4
+cred,VAR_5

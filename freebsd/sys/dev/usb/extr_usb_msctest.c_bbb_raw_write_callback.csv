@@ -1,0 +1,16 @@
+DPRINTF,FUNC_0
+USB_GET_STATE,FUNC_1
+bbb_done,FUNC_2
+usbd_transfer_submit,FUNC_3
+usbd_xfer_max_len,FUNC_4
+usbd_xfer_set_frame_data,FUNC_5
+usbd_xfer_set_timeout,FUNC_6
+usbd_xfer_softc,FUNC_7
+usbd_xfer_status,FUNC_8
+bbb_raw_write_callback,FUNC_9
+xfer,VAR_0
+error,VAR_1
+sc,VAR_2
+max_bulk,VAR_3
+actlen,VAR_4
+sumlen,VAR_5

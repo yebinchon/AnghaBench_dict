@@ -1,0 +1,16 @@
+BCM2835_MBOX_CLOCK_ID_ARM,VAR_0
+CPUFREQ_VAL_UNKNOWN,VAR_1
+EINVAL,VAR_2
+HZ2MHZ,FUNC_0
+TRANSITION_LATENCY,VAR_3
+VC_LOCK,FUNC_1
+VC_UNLOCK,FUNC_2
+bcm2835_cpufreq_get_clock_rate,FUNC_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+memset,FUNC_6
+bcm2835_cpufreq_get,FUNC_7
+dev,VAR_4
+cf,VAR_5
+sc,VAR_6
+arm_freq,VAR_7

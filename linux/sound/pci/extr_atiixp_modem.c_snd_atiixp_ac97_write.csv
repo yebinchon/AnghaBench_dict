@@ -1,0 +1,11 @@
+AC97_GPIO_STATUS,VAR_0
+ATI_REG_MODEM_OUT_GPIO_DATA_SHIFT,VAR_1
+ATI_REG_MODEM_OUT_GPIO_EN,VAR_2
+MODEM_OUT_GPIO,VAR_3
+atiixp_write,FUNC_0
+snd_atiixp_codec_write,FUNC_1
+snd_atiixp_ac97_write,FUNC_2
+ac97,VAR_4
+reg,VAR_5
+val,VAR_6
+chip,VAR_7

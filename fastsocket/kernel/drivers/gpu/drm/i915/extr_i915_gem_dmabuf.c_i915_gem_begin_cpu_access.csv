@@ -1,0 +1,14 @@
+DMA_BIDIRECTIONAL,VAR_0
+DMA_TO_DEVICE,VAR_1
+i915_gem_object_set_to_cpu_domain,FUNC_0
+i915_mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+i915_gem_begin_cpu_access,FUNC_3
+dma_buf,VAR_2
+start,VAR_3
+length,VAR_4
+direction,VAR_5
+obj,VAR_6
+dev,VAR_7
+ret,VAR_8
+write,VAR_9

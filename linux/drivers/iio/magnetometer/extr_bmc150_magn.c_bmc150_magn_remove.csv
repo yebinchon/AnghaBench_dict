@@ -1,0 +1,17 @@
+BMC150_MAGN_POWER_MODE_SUSPEND,VAR_0
+bmc150_magn_set_power_mode,FUNC_0
+dev_get_drvdata,FUNC_1
+free_irq,FUNC_2
+iio_device_unregister,FUNC_3
+iio_priv,FUNC_4
+iio_trigger_unregister,FUNC_5
+iio_triggered_buffer_cleanup,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+pm_runtime_disable,FUNC_9
+pm_runtime_put_noidle,FUNC_10
+pm_runtime_set_suspended,FUNC_11
+bmc150_magn_remove,FUNC_12
+dev,VAR_1
+indio_dev,VAR_2
+data,VAR_3

@@ -1,0 +1,16 @@
+BIT_ULL,FUNC_0
+NL80211_STA_INFO_SIGNAL,VAR_0
+NL80211_STA_INFO_TX_BITRATE,VAR_1
+RNDIS_OID_802_11_RSSI,VAR_2
+RNDIS_OID_GEN_LINK_SPEED,VAR_3
+le32_to_cpu,FUNC_1
+level_to_qual,FUNC_2
+memset,FUNC_3
+rndis_query_oid,FUNC_4
+rndis_fill_station_info,FUNC_5
+usbdev,VAR_4
+sinfo,VAR_5
+linkspeed,VAR_6
+rssi,VAR_7
+ret,VAR_8
+len,VAR_9

@@ -1,0 +1,15 @@
+MyLatch,VAR_0
+PQconsumeInput,FUNC_0
+PQgetResult,FUNC_1
+PQisBusy,FUNC_2
+PQsocket,FUNC_3
+ProcessWalRcvInterrupts,FUNC_4
+ResetLatch,FUNC_5
+WAIT_EVENT_LIBPQWALRECEIVER_RECEIVE,VAR_1
+WL_EXIT_ON_PM_DEATH,VAR_2
+WL_LATCH_SET,VAR_3
+WL_SOCKET_READABLE,VAR_4
+WaitLatchOrSocket,FUNC_6
+libpqrcv_PQgetResult,FUNC_7
+streamConn,VAR_5
+rc,VAR_6

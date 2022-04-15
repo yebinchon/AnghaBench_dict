@@ -1,0 +1,14 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+ET_TMR_NUM,VAR_2
+TC_TMR_NUM,VAR_3
+compat_data,VAR_4
+device_set_desc_copy,FUNC_0
+ofw_bus_search_compatible,FUNC_1
+ofw_bus_status_okay,FUNC_2
+snprintf,FUNC_3
+ti_hwmods_get_unit,FUNC_4
+am335x_dmtimer_probe,FUNC_5
+dev,VAR_5
+strbuf,VAR_6
+tmr_num,VAR_7

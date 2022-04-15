@@ -1,0 +1,15 @@
+IRQF_TIMER,VAR_0
+PCC_INT_ENAB,VAR_1
+PCC_IRQ_TIMER1,VAR_2
+PCC_LEVEL_TIMER1,VAR_3
+PCC_TIMER_CLOCK_FREQ,VAR_4
+PCC_TIMER_INT_CLR,VAR_5
+PCC_TIMER_PRELOAD,VAR_6
+clocksource_register_hz,FUNC_0
+m147_pcc,VAR_7
+mvme147_clk,VAR_8
+mvme147_timer_int,VAR_9
+pr_err,FUNC_1
+request_irq,FUNC_2
+mvme147_sched_init,FUNC_3
+timer_routine,VAR_10

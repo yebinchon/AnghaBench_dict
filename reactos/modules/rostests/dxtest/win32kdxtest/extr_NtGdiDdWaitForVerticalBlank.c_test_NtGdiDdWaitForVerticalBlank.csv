@@ -1,0 +1,15 @@
+DDHAL_DRIVER_HANDLED,VAR_0
+DDHAL_DRIVER_NOTHANDLED,VAR_1
+DDWAITVB_I_TESTVB,VAR_2
+DD_OK,VAR_3
+FALSE,VAR_4
+OsThunkDdWaitForVerticalBlank,FUNC_0
+RtlZeroMemory,FUNC_1
+show_status,FUNC_2
+testing_eq,FUNC_3
+testing_noteq,FUNC_4
+test_NtGdiDdWaitForVerticalBlank,FUNC_5
+hDirectDrawLocal,VAR_5
+fails,VAR_6
+retValue,VAR_7
+pDdWaitForVerticalBlankData,VAR_8

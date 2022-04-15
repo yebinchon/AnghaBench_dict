@@ -1,0 +1,16 @@
+EP93XX_GPIO_LINE_MAX_IRQ,VAR_0
+__raw_readb,FUNC_0
+__raw_writeb,FUNC_1
+ep93xx_gpio_int_mask,FUNC_2
+ep93xx_gpio_update_int_params,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+to_ep93xx_gpio_chip,FUNC_6
+ep93xx_gpio_direction_output,FUNC_7
+chip,VAR_1
+offset,VAR_2
+val,VAR_3
+ep93xx_chip,VAR_4
+flags,VAR_5
+line,VAR_6
+v,VAR_7

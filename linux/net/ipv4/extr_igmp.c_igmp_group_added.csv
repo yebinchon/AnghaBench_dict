@@ -1,0 +1,15 @@
+IGMP_ALL_HOSTS,VAR_0
+IGMP_INITIAL_REPORT_DELAY,VAR_1
+IGMP_V1_SEEN,FUNC_0
+IGMP_V2_SEEN,FUNC_1
+MCAST_EXCLUDE,VAR_2
+dev_net,FUNC_2
+igmp_ifc_event,FUNC_3
+igmp_start_timer,FUNC_4
+ip_mc_filter_add,FUNC_5
+ipv4_is_local_multicast,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+igmp_group_added,FUNC_9
+im,VAR_3
+in_dev,VAR_4

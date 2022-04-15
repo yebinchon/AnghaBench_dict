@@ -1,0 +1,14 @@
+REDIS_ERR,VAR_0
+REDIS_ERR_OOM,VAR_1
+REDIS_OK,VAR_2
+__redisAppendCommand,FUNC_0
+__redisSetError,FUNC_1
+redisFormatSdsCommandArgv,FUNC_2
+sdsfree,FUNC_3
+redisAppendCommandArgv,FUNC_4
+c,VAR_3
+argc,VAR_4
+argv,VAR_5
+argvlen,VAR_6
+cmd,VAR_7
+len,VAR_8

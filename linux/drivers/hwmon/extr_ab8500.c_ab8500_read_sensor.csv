@@ -1,0 +1,13 @@
+BAT_CTRL,VAR_0
+BTEMP_BALL,VAR_1
+ab8500_btemp_get_batctrl_temp,FUNC_0
+ab8500_btemp_get_temp,FUNC_1
+ab8500_gpadc_convert,FUNC_2
+ab8500_voltage_to_temp,FUNC_3
+ab8500_read_sensor,FUNC_4
+data,VAR_2
+sensor,VAR_3
+temp,VAR_4
+voltage,VAR_5
+ret,VAR_6
+ab8500_data,VAR_7

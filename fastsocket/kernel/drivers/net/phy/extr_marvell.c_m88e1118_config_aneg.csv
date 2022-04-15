@@ -1,0 +1,9 @@
+BMCR_RESET,VAR_0
+MII_BMCR,VAR_1
+MII_M1011_PHY_SCR,VAR_2
+MII_M1011_PHY_SCR_AUTO_CROSS,VAR_3
+genphy_config_aneg,FUNC_0
+phy_write,FUNC_1
+m88e1118_config_aneg,FUNC_2
+phydev,VAR_4
+err,VAR_5

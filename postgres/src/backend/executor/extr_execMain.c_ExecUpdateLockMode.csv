@@ -1,0 +1,11 @@
+GetAllUpdatedColumns,FUNC_0
+INDEX_ATTR_BITMAP_KEY,VAR_0
+LockTupleExclusive,VAR_1
+LockTupleNoKeyExclusive,VAR_2
+RelationGetIndexAttrBitmap,FUNC_1
+bms_overlap,FUNC_2
+ExecUpdateLockMode,FUNC_3
+estate,VAR_3
+relinfo,VAR_4
+keyCols,VAR_5
+updatedCols,VAR_6

@@ -1,0 +1,16 @@
+MLX5E_STATE_OPENED,VAR_0
+clear_bit,FUNC_0
+mlx5_fs_remove_rx_underlay_qpn,FUNC_1
+mlx5e_close_channels,FUNC_2
+mlx5e_deactivate_priv_channels,FUNC_3
+mlx5i_epriv,FUNC_4
+mlx5i_uninit_underlay_qp,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+netif_carrier_off,FUNC_8
+test_bit,FUNC_9
+mlx5i_close,FUNC_10
+netdev,VAR_1
+epriv,VAR_2
+ipriv,VAR_3
+mdev,VAR_4

@@ -1,0 +1,15 @@
+CARD_STOP,VAR_0
+CLK_30,VAR_1
+REG_SD_CFG1,VAR_2
+SD_CARD,VAR_3
+SD_CLR_ERR,VAR_4
+SD_STOP,VAR_5
+STATUS_FAIL,VAR_6
+STATUS_SUCCESS,VAR_7
+rtsx_write_register,FUNC_0
+sd_set_init_para,FUNC_1
+select_card,FUNC_2
+sd_prepare_reset,FUNC_3
+chip,VAR_8
+sd_card,VAR_9
+retval,VAR_10

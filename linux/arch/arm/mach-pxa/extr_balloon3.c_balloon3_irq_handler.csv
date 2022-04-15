@@ -1,0 +1,15 @@
+BALLOON3_INT_CONTROL_REG,VAR_0
+BALLOON3_IRQ,FUNC_0
+__ffs,FUNC_1
+__raw_readl,FUNC_2
+balloon3_irq_enabled,VAR_1
+generic_handle_irq,FUNC_3
+irq_desc_get_chip,FUNC_4
+irq_desc_get_irq_data,FUNC_5
+stub1,FUNC_6
+balloon3_irq_handler,FUNC_7
+desc,VAR_2
+pending,VAR_3
+d,VAR_4
+chip,VAR_5
+irq,VAR_6

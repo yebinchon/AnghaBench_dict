@@ -1,0 +1,12 @@
+MSI_MASK,VAR_0
+PCIE_IMSI_ADDR,VAR_1
+PCIE_INT_MASK,VAR_2
+PCIE_MSI_VECTOR,VAR_3
+lower_32_bits,FUNC_0
+readl,FUNC_1
+virt_to_phys,FUNC_2
+writel,FUNC_3
+mtk_pcie_enable_msi,FUNC_4
+port,VAR_4
+val,VAR_5
+msg_addr,VAR_6

@@ -1,0 +1,15 @@
+CGROUP_FROZEN,VAR_0
+CGROUP_THAWED,VAR_1
+EINVAL,VAR_2
+ENODEV,VAR_3
+cgroup_lock_live_group,FUNC_0
+cgroup_unlock,FUNC_1
+freezer_change_state,FUNC_2
+freezer_state_strs,VAR_4
+strcmp,FUNC_3
+freezer_write,FUNC_4
+cgroup,VAR_5
+cft,VAR_6
+buffer,VAR_7
+retval,VAR_8
+goal_state,VAR_9

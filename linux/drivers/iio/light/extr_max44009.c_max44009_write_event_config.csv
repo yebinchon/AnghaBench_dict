@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+IIO_EV_TYPE_THRESH,VAR_1
+IIO_LIGHT,VAR_2
+MAX44009_REG_INT_EN,VAR_3
+MAX44009_REG_THR_TIMER,VAR_4
+i2c_smbus_write_byte_data,FUNC_0
+iio_priv,FUNC_1
+max44009_write_event_config,FUNC_2
+indio_dev,VAR_5
+chan,VAR_6
+type,VAR_7
+dir,VAR_8
+state,VAR_9
+data,VAR_10
+ret,VAR_11

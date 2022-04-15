@@ -1,0 +1,10 @@
+CSR_SCSI_COMPLETION_INTR,VAR_0
+CSR_SCSI_PROCESSOR_INTR,VAR_1
+qla4xxx_isr_decode_mailbox,FUNC_0
+qla4xxx_process_response_queue,FUNC_1
+readl,FUNC_2
+set_rmask,FUNC_3
+writel,FUNC_4
+qla4xxx_interrupt_service_routine,FUNC_5
+ha,VAR_2
+intr_status,VAR_3

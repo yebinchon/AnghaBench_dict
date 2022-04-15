@@ -1,0 +1,11 @@
+ELF_HWCAP2,VAR_0
+HWCAP2_RING3MWAIT,VAR_1
+MSR_MISC_FEATURES_ENABLES_RING3MWAIT_BIT,VAR_2
+X86_FEATURE_RING3MWAIT,VAR_3
+boot_cpu_data,VAR_4
+msr_misc_features_shadow,VAR_5
+ring3mwait_disabled,VAR_6
+set_cpu_cap,FUNC_0
+this_cpu_or,FUNC_1
+probe_xeon_phi_r3mwait,FUNC_2
+c,VAR_7

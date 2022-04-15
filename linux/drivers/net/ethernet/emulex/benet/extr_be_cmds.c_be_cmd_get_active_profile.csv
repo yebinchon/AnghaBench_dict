@@ -1,0 +1,17 @@
+CMD_SUBSYSTEM_COMMON,VAR_0
+EBUSY,VAR_1
+OPCODE_COMMON_GET_ACTIVE_PROFILE,VAR_2
+be_mbox_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+embedded_payload,FUNC_2
+le16_to_cpu,FUNC_3
+mutex_lock_interruptible,FUNC_4
+mutex_unlock,FUNC_5
+wrb_from_mbox,FUNC_6
+be_cmd_get_active_profile,FUNC_7
+adapter,VAR_3
+profile_id,VAR_4
+req,VAR_5
+wrb,VAR_6
+status,VAR_7
+resp,VAR_8

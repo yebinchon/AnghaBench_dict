@@ -1,0 +1,9 @@
+HKEY_CURRENT_USER,VAR_0
+KEY_READ,VAR_1
+KEY_WRITE,VAR_2
+REG_OPTION_NON_VOLATILE,VAR_3
+RegCreateKeyExW,FUNC_0
+wszCredentialManagerKey,VAR_4
+open_cred_mgr_key,FUNC_1
+hkey,VAR_5
+open_for_write,VAR_6

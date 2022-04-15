@@ -1,0 +1,14 @@
+S5P_JPEG_ENCODE,VAR_0
+V4L2_PIX_FMT_YUV420,VAR_1
+exynos4_jpeg_set_frame_buf_address,FUNC_0
+v4l2_m2m_next_dst_buf,FUNC_1
+v4l2_m2m_next_src_buf,FUNC_2
+vb2_dma_contig_plane_dma_addr,FUNC_3
+exynos4_jpeg_set_img_addr,FUNC_4
+ctx,VAR_2
+jpeg,VAR_3
+fmt,VAR_4
+vb,VAR_5
+jpeg_addr,VAR_6
+pix_size,VAR_7
+padding_bytes,VAR_8

@@ -1,0 +1,16 @@
+TT_FORK,VAR_0
+TT_NEED_BASE,VAR_1
+TT_NEED_DNS,VAR_2
+TT_NEED_SOCKETPAIR,VAR_3
+TT_NO_LOGS,VAR_4
+evdns_shutdown,FUNC_0
+event_base_assert_ok_,FUNC_1
+event_base_free,FUNC_2
+event_set_log_callback,FUNC_3
+evutil_closesocket,FUNC_4
+free,FUNC_5
+libevent_global_shutdown,FUNC_6
+basic_test_cleanup,FUNC_7
+testcase,VAR_5
+ptr,VAR_6
+data,VAR_7

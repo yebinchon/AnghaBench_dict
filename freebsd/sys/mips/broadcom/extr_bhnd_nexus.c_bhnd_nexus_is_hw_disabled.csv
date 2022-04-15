@@ -1,0 +1,11 @@
+BHND_CHIPID_BCM4706,VAR_0
+BHND_COREID_4706_GMAC,VAR_1
+BHND_PKGID_BCM4706L,VAR_2
+bcm_get_platform,FUNC_0
+bhnd_get_core_unit,FUNC_1
+bhnd_get_device,FUNC_2
+bhnd_nexus_is_hw_disabled,FUNC_3
+dev,VAR_3
+child,VAR_4
+bp,VAR_5
+cid,VAR_6

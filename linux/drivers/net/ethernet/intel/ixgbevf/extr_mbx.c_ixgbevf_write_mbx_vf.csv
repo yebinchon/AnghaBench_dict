@@ -1,0 +1,14 @@
+IXGBE_VFMAILBOX,VAR_0
+IXGBE_VFMAILBOX_REQ,VAR_1
+IXGBE_VFMBMEM,VAR_2
+IXGBE_WRITE_REG,FUNC_0
+IXGBE_WRITE_REG_ARRAY,FUNC_1
+ixgbevf_check_for_ack_vf,FUNC_2
+ixgbevf_check_for_msg_vf,FUNC_3
+ixgbevf_obtain_mbx_lock_vf,FUNC_4
+ixgbevf_write_mbx_vf,FUNC_5
+hw,VAR_3
+msg,VAR_4
+size,VAR_5
+ret_val,VAR_6
+i,VAR_7

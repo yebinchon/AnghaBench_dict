@@ -1,0 +1,13 @@
+RCU_SclkDpmTdpLimit01,VAR_0
+RCU_SclkDpmTdpLimit23,VAR_1
+RCU_SclkDpmTdpLimit47,VAR_2
+RREG32_RCU,FUNC_0
+WREG32_RCU,FUNC_1
+sumo_set_tdp_limit,FUNC_2
+rdev,VAR_3
+index,VAR_4
+tdp_limit,VAR_5
+regoffset,VAR_6
+shift,VAR_7
+mask,VAR_8
+sclk_dpm_tdp_limit,VAR_9

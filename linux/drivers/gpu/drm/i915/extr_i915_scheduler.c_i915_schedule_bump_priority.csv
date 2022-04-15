@@ -1,0 +1,11 @@
+GEM_BUG_ON,FUNC_0
+I915_PRIORITY_MASK,VAR_0
+READ_ONCE,FUNC_1
+__bump_priority,FUNC_2
+schedule_lock,VAR_1
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+i915_schedule_bump_priority,FUNC_5
+rq,VAR_2
+bump,VAR_3
+flags,VAR_4

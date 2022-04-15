@@ -1,0 +1,12 @@
+GIT_EINVALIDSPEC,VAR_0
+GIT_HEAD_FILE,VAR_1
+GIT_REFERENCE_SYMBOLIC,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_3
+git_reference_free,FUNC_2
+git_reference_lookup,FUNC_3
+git_reference_symbolic_create,FUNC_4
+git_reference_type,FUNC_5
+test_refs_update__updating_the_target_of_a_symref_with_an_invalid_name_returns_EINVALIDSPEC,FUNC_6
+head,VAR_4

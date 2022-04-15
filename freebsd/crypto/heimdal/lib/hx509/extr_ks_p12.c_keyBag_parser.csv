@@ -1,0 +1,15 @@
+_hx509_collector_private_key_add,FUNC_0
+asn1_oid_id_pkcs_9_at_localKeyId,VAR_0
+decode_PKCS8PrivateKeyInfo,FUNC_1
+find_attribute,FUNC_2
+free_PKCS8PrivateKeyInfo,FUNC_3
+keyBag_parser,FUNC_4
+context,VAR_1
+c,VAR_2
+data,VAR_3
+length,VAR_4
+attrs,VAR_5
+attr,VAR_6
+ki,VAR_7
+os,VAR_8
+ret,VAR_9

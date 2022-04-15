@@ -1,0 +1,14 @@
+CAP_CHOWN,VAR_0
+CAP_INHERITABLE,VAR_1
+CAP_SET,VAR_2
+UINT64_C,FUNC_0
+assert,FUNC_1
+assert_se,FUNC_2
+cap_free,FUNC_3
+cap_get_flag,FUNC_4
+cap_get_proc,FUNC_5
+capability_update_inherited_set,FUNC_6
+test_update_inherited_set,FUNC_7
+caps,VAR_3
+set,VAR_4
+fv,VAR_5

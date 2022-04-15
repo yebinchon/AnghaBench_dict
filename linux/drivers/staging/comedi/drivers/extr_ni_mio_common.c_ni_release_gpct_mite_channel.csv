@@ -1,0 +1,13 @@
+NI_E_DMA_G0_G1_SEL_MASK,FUNC_0
+NI_E_DMA_G0_G1_SEL_REG,VAR_0
+mite_release_channel,FUNC_1
+ni_set_bitfield,FUNC_2
+ni_tio_set_mite_channel,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ni_release_gpct_mite_channel,FUNC_6
+dev,VAR_1
+gpct_index,VAR_2
+devpriv,VAR_3
+flags,VAR_4
+mite_chan,VAR_5

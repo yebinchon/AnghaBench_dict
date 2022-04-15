@@ -1,0 +1,14 @@
+DRM_PLANE_HELPER_NO_SCALING,VAR_0
+EINVAL,VAR_1
+FRAC_16_16,FUNC_0
+drm_atomic_get_existing_crtc_state,FUNC_1
+drm_atomic_helper_check_plane_state,FUNC_2
+to_vop_win,FUNC_3
+vop_plane_atomic_async_check,FUNC_4
+plane,VAR_2
+state,VAR_3
+vop_win,VAR_4
+win,VAR_5
+min_scale,VAR_6
+max_scale,VAR_7
+crtc_state,VAR_8

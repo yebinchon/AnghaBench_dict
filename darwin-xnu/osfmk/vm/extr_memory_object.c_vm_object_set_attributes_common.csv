@@ -1,0 +1,16 @@
+KERN_INVALID_ARGUMENT,VAR_0
+KERN_SUCCESS,VAR_1
+TRUE,VAR_2
+VM_OBJECT_EVENT_PAGER_READY,VAR_3
+VM_OBJECT_NULL,VAR_4
+XPR,FUNC_0
+XPR_MEMORY_OBJECT,VAR_5
+assert,FUNC_1
+vm_object_lock,FUNC_2
+vm_object_unlock,FUNC_3
+vm_object_wakeup,FUNC_4
+vm_object_set_attributes_common,FUNC_5
+object,VAR_6
+may_cache,VAR_7
+copy_strategy,VAR_8
+object_became_ready,VAR_9

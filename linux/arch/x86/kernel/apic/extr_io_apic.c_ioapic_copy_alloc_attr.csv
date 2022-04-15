@@ -1,0 +1,15 @@
+IOAPIC_LEVEL,VAR_0
+IOAPIC_POL_LOW,VAR_1
+NUMA_NO_NODE,VAR_2
+X86_IRQ_ALLOC_TYPE_IOAPIC,VAR_3
+acpi_get_override_irq,FUNC_0
+copy_irq_alloc_info,FUNC_1
+mpc_ioapic_id,FUNC_2
+ioapic_copy_alloc_attr,FUNC_3
+dst,VAR_4
+src,VAR_5
+gsi,VAR_6
+ioapic_idx,VAR_7
+pin,VAR_8
+trigger,VAR_9
+polarity,VAR_10

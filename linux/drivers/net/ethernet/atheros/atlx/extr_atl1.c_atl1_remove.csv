@@ -1,0 +1,17 @@
+ETH_ALEN,VAR_0
+REG_PHY_ENABLE,VAR_1
+atl1_set_mac_addr,FUNC_0
+ether_addr_equal_unaligned,FUNC_1
+free_netdev,FUNC_2
+iowrite16,FUNC_3
+memcpy,FUNC_4
+netdev_priv,FUNC_5
+pci_disable_device,FUNC_6
+pci_get_drvdata,FUNC_7
+pci_iounmap,FUNC_8
+pci_release_regions,FUNC_9
+unregister_netdev,FUNC_10
+atl1_remove,FUNC_11
+pdev,VAR_2
+netdev,VAR_3
+adapter,VAR_4

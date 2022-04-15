@@ -1,0 +1,14 @@
+DEV_STATE_VERIFY,VAR_0
+DEV_STATE_W4SENSE,VAR_1
+ENODEV,VAR_2
+SCSW_STCTL_STATUS_PEND,VAR_3
+ccw_device_verify_done,FUNC_0
+ccw_device_verify_start,FUNC_1
+cio_update_schib,FUNC_2
+scsw_actl,FUNC_3
+scsw_stctl,FUNC_4
+to_subchannel,FUNC_5
+ccw_device_online_verify,FUNC_6
+cdev,VAR_4
+dev_event,VAR_5
+sch,VAR_6

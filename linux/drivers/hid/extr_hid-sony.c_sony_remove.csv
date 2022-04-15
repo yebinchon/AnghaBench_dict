@@ -1,0 +1,14 @@
+DUALSHOCK4_CONTROLLER_BT,VAR_0
+dev_attr_bt_poll_interval,VAR_1
+dev_attr_firmware_version,VAR_2
+dev_attr_hardware_version,VAR_3
+device_remove_file,FUNC_0
+hid_get_drvdata,FUNC_1
+hid_hw_close,FUNC_2
+hid_hw_stop,FUNC_3
+sony_cancel_work_sync,FUNC_4
+sony_release_device_id,FUNC_5
+sony_remove_dev_list,FUNC_6
+sony_remove,FUNC_7
+hdev,VAR_4
+sc,VAR_5

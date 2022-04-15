@@ -1,0 +1,17 @@
+BLAKE2S_BLOCKBYTES,VAR_0
+BLAKE2S_KEYBYTES,VAR_1
+BLAKE2S_OUTBYTES,VAR_2
+blake2s_init_param,FUNC_0
+blake2s_update,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+secure_zero_memory,FUNC_4
+store16,FUNC_5
+store32,FUNC_6
+blake2s_init_key,FUNC_7
+S,VAR_3
+outlen,VAR_4
+key,VAR_5
+keylen,VAR_6
+P,VAR_7
+block,VAR_8

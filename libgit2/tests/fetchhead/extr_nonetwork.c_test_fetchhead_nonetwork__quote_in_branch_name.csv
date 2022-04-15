@@ -1,0 +1,10 @@
+FETCH_HEAD_QUOTE_DATA,VAR_0
+cl_git_pass,FUNC_0
+cl_git_rewritefile,FUNC_1
+cl_set_cleanup,FUNC_2
+cleanup_repository,VAR_1
+g_repo,VAR_2
+git_repository_fetchhead_foreach,FUNC_3
+git_repository_init,FUNC_4
+read_noop,VAR_3
+test_fetchhead_nonetwork__quote_in_branch_name,FUNC_5

@@ -1,0 +1,11 @@
+INIT_CMD,FUNC_0
+RESET,VAR_0
+WRITE,VAR_1
+cpu_to_be32,FUNC_1
+memset,FUNC_2
+t4_wr_mbox,FUNC_3
+t4_fw_reset,FUNC_4
+adap,VAR_2
+mbox,VAR_3
+reset,VAR_4
+c,VAR_5

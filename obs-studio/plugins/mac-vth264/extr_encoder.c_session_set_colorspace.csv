@@ -1,0 +1,14 @@
+SESSION_CHECK,FUNC_0
+kCVImageBufferColorPrimaries_ITU_R_709_2,VAR_0
+kCVImageBufferTransferFunction_ITU_R_709_2,VAR_1
+kVTCompressionPropertyKey_ColorPrimaries,VAR_2
+kVTCompressionPropertyKey_TransferFunction,VAR_3
+kVTCompressionPropertyKey_YCbCrMatrix,VAR_4
+noErr,VAR_5
+obs_to_vt_colorspace,FUNC_1
+session_set_prop,FUNC_2
+session_set_colorspace,FUNC_3
+session,VAR_6
+cs,VAR_7
+matrix,VAR_8
+code,VAR_9

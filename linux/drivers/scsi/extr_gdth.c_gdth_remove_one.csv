@@ -1,0 +1,13 @@
+DMA_BIDIRECTIONAL,VAR_0
+GDTH_SCRATCH,VAR_1
+TRACE2,FUNC_0
+dma_free_coherent,FUNC_1
+dma_unmap_single,FUNC_2
+free_irq,FUNC_3
+gdth_flush,FUNC_4
+scsi_free_host_dev,FUNC_5
+scsi_host_put,FUNC_6
+scsi_remove_host,FUNC_7
+gdth_remove_one,FUNC_8
+ha,VAR_2
+shp,VAR_3

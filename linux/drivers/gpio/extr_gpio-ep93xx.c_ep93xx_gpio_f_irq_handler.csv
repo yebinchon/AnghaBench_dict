@@ -1,0 +1,12 @@
+EP93XX_GPIO_F_IRQ_BASE,VAR_0
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_irq,FUNC_4
+ep93xx_gpio_f_irq_handler,FUNC_5
+desc,VAR_1
+irqchip,VAR_2
+irq,VAR_3
+port_f_idx,VAR_4
+gpio_irq,VAR_5

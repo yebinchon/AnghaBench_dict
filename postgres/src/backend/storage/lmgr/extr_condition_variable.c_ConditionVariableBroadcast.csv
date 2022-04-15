@@ -1,0 +1,17 @@
+Assert,FUNC_0
+ConditionVariableCancelSleep,FUNC_1
+MyProc,VAR_0
+SetLatch,FUNC_2
+SpinLockAcquire,FUNC_3
+SpinLockRelease,FUNC_4
+cvWaitLink,VAR_1
+cv_sleep_target,VAR_2
+proclist_contains,FUNC_5
+proclist_is_empty,FUNC_6
+proclist_pop_head_node,FUNC_7
+proclist_push_tail,FUNC_8
+ConditionVariableBroadcast,FUNC_9
+cv,VAR_3
+pgprocno,VAR_4
+proc,VAR_5
+have_sentinel,VAR_6

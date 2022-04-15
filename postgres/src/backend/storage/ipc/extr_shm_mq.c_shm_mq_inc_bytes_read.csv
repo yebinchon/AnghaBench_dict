@@ -1,0 +1,9 @@
+Assert,FUNC_0
+SetLatch,FUNC_1
+pg_atomic_read_u64,FUNC_2
+pg_atomic_write_u64,FUNC_3
+pg_read_barrier,FUNC_4
+shm_mq_inc_bytes_read,FUNC_5
+mq,VAR_0
+n,VAR_1
+sender,VAR_2

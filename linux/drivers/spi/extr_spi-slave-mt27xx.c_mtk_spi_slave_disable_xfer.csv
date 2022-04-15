@@ -1,0 +1,8 @@
+SPIS_CFG_REG,VAR_0
+SPIS_RX_EN,VAR_1
+SPIS_TX_EN,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+mtk_spi_slave_disable_xfer,FUNC_2
+mdata,VAR_3
+reg_val,VAR_4

@@ -1,0 +1,17 @@
+IDA_QCB_MAX,VAR_0
+M_DEVBUF,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_unload,FUNC_2
+bus_dmamem_free,FUNC_3
+bus_release_resource,FUNC_4
+bus_teardown_intr,FUNC_5
+callout_drain,FUNC_6
+callout_stop,FUNC_7
+free,FUNC_8
+mtx_destroy,FUNC_9
+mtx_lock,FUNC_10
+mtx_unlock,FUNC_11
+ida_free,FUNC_12
+ida,VAR_2
+i,VAR_3

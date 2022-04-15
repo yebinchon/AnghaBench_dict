@@ -1,0 +1,17 @@
+ERRCODE_OBJECT_NOT_IN_PREREQUISITE_STATE,VAR_0
+ERROR,VAR_1
+ExecFetchSlotHeapTuple,FUNC_0
+SHM_MQ_DETACHED,VAR_2
+SHM_MQ_SUCCESS,VAR_3
+ereport,FUNC_1
+errcode,FUNC_2
+errmsg,FUNC_3
+heap_freetuple,FUNC_4
+shm_mq_send,FUNC_5
+tqueueReceiveSlot,FUNC_6
+slot,VAR_4
+self,VAR_5
+tqueue,VAR_6
+tuple,VAR_7
+result,VAR_8
+should_free,VAR_9

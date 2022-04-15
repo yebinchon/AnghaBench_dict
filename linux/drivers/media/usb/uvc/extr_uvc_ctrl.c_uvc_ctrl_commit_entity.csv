@@ -1,0 +1,15 @@
+UVC_CTRL_DATA_BACKUP,VAR_0
+UVC_CTRL_DATA_CURRENT,VAR_1
+UVC_CTRL_FLAG_AUTO_UPDATE,VAR_2
+UVC_CTRL_FLAG_GET_CUR,VAR_3
+UVC_SET_CUR,VAR_4
+memcpy,FUNC_0
+uvc_ctrl_data,FUNC_1
+uvc_query_ctrl,FUNC_2
+uvc_ctrl_commit_entity,FUNC_3
+dev,VAR_5
+entity,VAR_6
+rollback,VAR_7
+ctrl,VAR_8
+i,VAR_9
+ret,VAR_10

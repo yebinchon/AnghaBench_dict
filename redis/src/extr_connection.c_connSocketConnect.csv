@@ -1,0 +1,16 @@
+AE_WRITABLE,VAR_0
+CONN_STATE_CONNECTING,VAR_1
+CONN_STATE_ERROR,VAR_2
+C_ERR,VAR_3
+C_OK,VAR_4
+aeCreateFileEvent,FUNC_0
+anetTcpNonBlockBestEffortBindConnect,FUNC_1
+errno,VAR_5
+server,VAR_6
+connSocketConnect,FUNC_2
+conn,VAR_7
+addr,VAR_8
+port,VAR_9
+src_addr,VAR_10
+connect_handler,VAR_11
+fd,VAR_12

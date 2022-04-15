@@ -1,0 +1,16 @@
+SCTP_ERROR_NO_ERROR,VAR_0
+SCTP_PARAM_ERR_CAUSE,VAR_1
+SCTP_PARAM_SUCCESS_REPORT,VAR_2
+htons,FUNC_0
+ntohs,FUNC_1
+sctp_addto_chunk,FUNC_2
+sctp_add_asconf_response,FUNC_3
+chunk,VAR_3
+crr_id,VAR_4
+err_code,VAR_5
+asconf_param,VAR_6
+ack_param,VAR_7
+err_param,VAR_8
+asconf_param_len,VAR_9
+err_param_len,VAR_10
+response_type,VAR_11

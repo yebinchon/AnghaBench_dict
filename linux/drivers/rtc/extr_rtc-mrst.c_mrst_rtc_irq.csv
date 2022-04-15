@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+RTC_INTR_FLAGS,VAR_2
+RTC_IRQF,VAR_3
+RTC_IRQMASK,VAR_4
+is_intr,FUNC_0
+rtc_lock,VAR_5
+rtc_update_irq,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+vrtc_cmos_read,FUNC_4
+mrst_rtc_irq,FUNC_5
+irq,VAR_6
+p,VAR_7
+irqstat,VAR_8

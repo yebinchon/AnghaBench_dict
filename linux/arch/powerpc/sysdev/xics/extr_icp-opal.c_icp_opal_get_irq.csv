@@ -1,0 +1,13 @@
+XICS_IRQ_SPURIOUS,VAR_0
+force_external_irq_replay,FUNC_0
+icp_opal_get_xirr,FUNC_1
+irq_find_mapping,FUNC_2
+likely,FUNC_3
+opal_int_eoi,FUNC_4
+xics_host,VAR_1
+xics_mask_unknown_vec,FUNC_5
+xics_push_cppr,FUNC_6
+icp_opal_get_irq,FUNC_7
+xirr,VAR_2
+vec,VAR_3
+irq,VAR_4

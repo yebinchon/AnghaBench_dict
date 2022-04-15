@@ -1,0 +1,12 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_PORT_PHY_CFG,VAR_1
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+bnxt_hwrm_set_eee,FUNC_1
+bnxt_hwrm_set_link_common,FUNC_2
+bnxt_hwrm_set_pause_common,FUNC_3
+hwrm_send_message,FUNC_4
+bnxt_hwrm_set_link_setting,FUNC_5
+bp,VAR_2
+set_pause,VAR_3
+set_eee,VAR_4
+req,VAR_5

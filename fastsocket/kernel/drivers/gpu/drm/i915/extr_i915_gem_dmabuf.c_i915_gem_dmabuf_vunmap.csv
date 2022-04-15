@@ -1,0 +1,10 @@
+i915_gem_object_unpin_pages,FUNC_0
+i915_mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+vunmap,FUNC_3
+i915_gem_dmabuf_vunmap,FUNC_4
+dma_buf,VAR_0
+vaddr,VAR_1
+obj,VAR_2
+dev,VAR_3
+ret,VAR_4

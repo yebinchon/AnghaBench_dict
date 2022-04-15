@@ -1,0 +1,13 @@
+MSG_DEBUG,VAR_0
+NL80211_CMD_STOP_SCHED_SCAN,VAR_1
+android_pno_stop,FUNC_0
+nl80211_drv_msg,FUNC_1
+send_and_recv_msgs,FUNC_2
+strerror,FUNC_3
+wpa_printf,FUNC_4
+wpa_driver_nl80211_stop_sched_scan,FUNC_5
+priv,VAR_2
+bss,VAR_3
+drv,VAR_4
+ret,VAR_5
+msg,VAR_6

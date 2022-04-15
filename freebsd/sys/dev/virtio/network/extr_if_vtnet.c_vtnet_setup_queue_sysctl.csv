@@ -1,0 +1,12 @@
+SYSCTL_CHILDREN,FUNC_0
+device_get_sysctl_ctx,FUNC_1
+device_get_sysctl_tree,FUNC_2
+vtnet_setup_rxq_sysctl,FUNC_3
+vtnet_setup_txq_sysctl,FUNC_4
+vtnet_setup_queue_sysctl,FUNC_5
+sc,VAR_0
+dev,VAR_1
+ctx,VAR_2
+tree,VAR_3
+child,VAR_4
+i,VAR_5

@@ -1,0 +1,13 @@
+LOG,FUNC_0
+pixie_usleep,FUNC_1
+rawsock_send_packet,FUNC_2
+rte_ring_sc_dequeue,FUNC_3
+rte_ring_sp_enqueue,FUNC_4
+flush_packets,FUNC_5
+adapter,VAR_0
+packet_buffers,VAR_1
+transmit_queue,VAR_2
+packets_sent,VAR_3
+batchsize,VAR_4
+err,VAR_5
+p,VAR_6

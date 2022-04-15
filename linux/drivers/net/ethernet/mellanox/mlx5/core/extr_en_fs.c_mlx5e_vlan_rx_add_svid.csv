@@ -1,0 +1,10 @@
+MLX5E_VLAN_RULE_TYPE_MATCH_STAG_VID,VAR_0
+clear_bit,FUNC_0
+mlx5e_add_vlan_rule,FUNC_1
+netdev_update_features,FUNC_2
+set_bit,FUNC_3
+mlx5e_vlan_rx_add_svid,FUNC_4
+priv,VAR_1
+vid,VAR_2
+netdev,VAR_3
+err,VAR_4

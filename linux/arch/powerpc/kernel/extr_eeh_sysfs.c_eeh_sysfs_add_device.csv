@@ -1,0 +1,13 @@
+EEH_DEV_SYSFS,VAR_0
+dev_attr_eeh_mode,VAR_1
+dev_attr_eeh_pe_config_addr,VAR_2
+dev_attr_eeh_pe_state,VAR_3
+device_create_file,FUNC_0
+eeh_enabled,FUNC_1
+eeh_notify_resume_add,FUNC_2
+pci_dev_to_eeh_dev,FUNC_3
+pr_warn,FUNC_4
+eeh_sysfs_add_device,FUNC_5
+pdev,VAR_4
+edev,VAR_5
+rc,VAR_6

@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+TRACE_FLAGS_MAX_SIZE,VAR_1
+ZEROED_TRACE_FLAGS,VAR_2
+clear_ftrace_function_probes,FUNC_0
+event_trace_del_tracer,FUNC_1
+free_cpumask_var,FUNC_2
+free_trace_buffers,FUNC_3
+ftrace_clear_pids,FUNC_4
+ftrace_destroy_function_files,FUNC_5
+kfree,FUNC_6
+list_del,FUNC_7
+set_tracer_flag,FUNC_8
+tracefs_remove_recursive,FUNC_9
+tracing_set_nop,FUNC_10
+__remove_instance,FUNC_11
+tr,VAR_3
+i,VAR_4

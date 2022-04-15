@@ -1,0 +1,17 @@
+BCMA_DMP_IOCTRL,VAR_0
+BCMA_DMP_IOCTRL_MASK,VAR_1
+DELAY,FUNC_0
+EINVAL,VAR_2
+ENODEV,VAR_3
+bhnd_bus_read_4,FUNC_1
+bhnd_bus_write_4,FUNC_2
+device_get_ivars,FUNC_3
+device_get_parent,FUNC_4
+bcma_write_ioctl,FUNC_5
+dev,VAR_4
+child,VAR_5
+value,VAR_6
+mask,VAR_7
+dinfo,VAR_8
+r,VAR_9
+ioctl,VAR_10

@@ -1,0 +1,16 @@
+ADIN1300_GE_RMII_CFG_REG,VAR_0
+ADIN1300_GE_RMII_EN,VAR_1
+ADIN1300_GE_RMII_FIFO_DEPTH_MSK,VAR_2
+ADIN1300_GE_RMII_FIFO_DEPTH_SEL,FUNC_0
+ADIN1300_RMII_8_BITS,VAR_3
+MDIO_MMD_VEND1,VAR_4
+PHY_INTERFACE_MODE_RMII,VAR_5
+adin_get_reg_value,FUNC_1
+adin_rmii_fifo_depths,VAR_6
+phy_clear_bits_mmd,FUNC_2
+phy_read_mmd,FUNC_3
+phy_write_mmd,FUNC_4
+adin_config_rmii_mode,FUNC_5
+phydev,VAR_7
+val,VAR_8
+reg,VAR_9

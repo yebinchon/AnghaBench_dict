@@ -1,0 +1,16 @@
+DIBX000_I2C_INTERFACE_TUNER,VAR_0
+EIO,VAR_1
+dibx000_i2c_gate_ctrl,FUNC_0
+dibx000_i2c_select_interface,FUNC_1
+i2c_get_adapdata,FUNC_2
+i2c_transfer,FUNC_3
+memcpy,FUNC_4
+memset,FUNC_5
+dibx000_i2c_gated_tuner_xfer,FUNC_6
+i2c_adap,VAR_2
+msg,VAR_3
+num,VAR_4
+mst,VAR_5
+m,VAR_6
+tx_open,VAR_7
+tx_close,VAR_8

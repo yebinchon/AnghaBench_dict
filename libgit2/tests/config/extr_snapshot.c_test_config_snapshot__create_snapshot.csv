@@ -1,0 +1,12 @@
+cfg,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_config_free,FUNC_3
+git_config_get_int32,FUNC_4
+git_config_open_ondisk,FUNC_5
+git_config_snapshot,FUNC_6
+p_unlink,FUNC_7
+snapshot,VAR_1
+test_config_snapshot__create_snapshot,FUNC_8
+i,VAR_2

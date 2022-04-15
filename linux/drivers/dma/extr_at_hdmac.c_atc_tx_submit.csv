@@ -1,0 +1,16 @@
+atc_dostart,FUNC_0
+chan2dev,FUNC_1
+dev_vdbg,FUNC_2
+dma_cookie_assign,FUNC_3
+list_add_tail,FUNC_4
+list_empty,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+to_at_dma_chan,FUNC_8
+txd_to_at_desc,FUNC_9
+atc_tx_submit,FUNC_10
+tx,VAR_0
+desc,VAR_1
+atchan,VAR_2
+cookie,VAR_3
+flags,VAR_4

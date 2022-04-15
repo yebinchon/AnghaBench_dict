@@ -1,0 +1,10 @@
+XFS_BTREE_LBLOCK_CRC_OFF,VAR_0
+XFS_BUF_TO_BLOCK,FUNC_0
+be64_to_cpu,FUNC_1
+xfs_buf_verify_cksum,FUNC_2
+xfs_log_check_lsn,FUNC_3
+xfs_sb_version_hascrc,FUNC_4
+xfs_btree_lblock_verify_crc,FUNC_5
+bp,VAR_1
+block,VAR_2
+mp,VAR_3

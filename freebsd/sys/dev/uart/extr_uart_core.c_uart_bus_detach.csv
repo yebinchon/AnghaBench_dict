@@ -1,0 +1,15 @@
+M_UART,VAR_0
+SYS_RES_IRQ,VAR_1
+UART_DETACH,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_driver,FUNC_3
+device_get_softc,FUNC_4
+device_set_softc,FUNC_5
+free,FUNC_6
+mtx_destroy,FUNC_7
+stub1,FUNC_8
+uart_tty_detach,FUNC_9
+uart_bus_detach,FUNC_10
+dev,VAR_2
+sc,VAR_3

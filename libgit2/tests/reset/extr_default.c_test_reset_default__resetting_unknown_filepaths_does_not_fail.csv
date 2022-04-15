@@ -1,0 +1,10 @@
+_pathspecs,VAR_0
+_repo,VAR_1
+_target,VAR_2
+assert_content_in_index,FUNC_0
+cl_git_pass,FUNC_1
+git_reset_default,FUNC_2
+git_revparse_single,FUNC_3
+initialize,FUNC_4
+test_reset_default__resetting_unknown_filepaths_does_not_fail,FUNC_5
+paths,VAR_3

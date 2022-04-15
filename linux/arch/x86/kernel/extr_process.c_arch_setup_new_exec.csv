@@ -1,0 +1,12 @@
+TIF_NOCPUID,VAR_0
+TIF_SSBD,VAR_1
+clear_thread_flag,FUNC_0
+current,VAR_2
+enable_cpuid,FUNC_1
+speculation_ctrl_update,FUNC_2
+task_clear_spec_ssb_disable,FUNC_3
+task_clear_spec_ssb_noexec,FUNC_4
+task_spec_ssb_noexec,FUNC_5
+task_thread_info,FUNC_6
+test_thread_flag,FUNC_7
+arch_setup_new_exec,FUNC_8

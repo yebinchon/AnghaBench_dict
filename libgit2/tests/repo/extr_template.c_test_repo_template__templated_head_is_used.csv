@@ -1,0 +1,14 @@
+GIT_BUF_INIT,VAR_0
+GIT_REPOSITORY_INIT_EXTERNAL_TEMPLATE,VAR_1
+GIT_REPOSITORY_INIT_MKPATH,VAR_2
+GIT_REPOSITORY_INIT_OPTIONS_INIT,VAR_3
+cl_assert_equal_s,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_dispose,FUNC_3
+git_futils_readbuffer,FUNC_4
+setup_repo,FUNC_5
+setup_templates,FUNC_6
+test_repo_template__templated_head_is_used,FUNC_7
+opts,VAR_4
+head,VAR_5

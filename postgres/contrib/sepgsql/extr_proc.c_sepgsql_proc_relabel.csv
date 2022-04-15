@@ -1,0 +1,14 @@
+ProcedureRelationId,VAR_0
+SEPG_CLASS_DB_PROCEDURE,VAR_1
+SEPG_DB_PROCEDURE__RELABELFROM,VAR_2
+SEPG_DB_PROCEDURE__RELABELTO,VAR_3
+SEPG_DB_PROCEDURE__SETATTR,VAR_4
+getObjectIdentity,FUNC_0
+pfree,FUNC_1
+sepgsql_avc_check_perms,FUNC_2
+sepgsql_avc_check_perms_label,FUNC_3
+sepgsql_proc_relabel,FUNC_4
+functionId,VAR_5
+seclabel,VAR_6
+object,VAR_7
+audit_name,VAR_8

@@ -1,0 +1,15 @@
+RX_BUF_LEN,VAR_0
+TX_BUF_TOT_LEN,VAR_1
+_sc92031_disable_tx_rx,FUNC_0
+_sc92031_tx_clear,FUNC_1
+free_irq,FUNC_2
+netdev_priv,FUNC_3
+netif_tx_disable,FUNC_4
+pci_free_consistent,FUNC_5
+sc92031_disable_interrupts,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+sc92031_stop,FUNC_9
+dev,VAR_2
+priv,VAR_3
+pdev,VAR_4

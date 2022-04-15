@@ -1,0 +1,17 @@
+ESP_LOGE,FUNC_0
+TAG,VAR_0
+UF_HOST,VAR_1
+do_http2_connect,FUNC_1
+esp_tls_conn_http_new,FUNC_2
+http_parser_parse_url,FUNC_3
+http_parser_url_init,FUNC_4
+memset,FUNC_5
+sh2lib_free,FUNC_6
+strlen,FUNC_7
+strndup,FUNC_8
+sh2lib_connect,FUNC_9
+hd,VAR_2
+uri,VAR_3
+proto,VAR_4
+tls_cfg,VAR_5
+u,VAR_6

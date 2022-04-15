@@ -1,0 +1,14 @@
+NILFS_MDT,FUNC_0
+bh_offset,FUNC_1
+find_lock_page,FUNC_2
+nilfs_page_get_nth_block,FUNC_3
+page_has_buffers,FUNC_4
+put_page,FUNC_5
+unlock_page,FUNC_6
+nilfs_mdt_get_frozen_buffer,FUNC_7
+inode,VAR_0
+bh,VAR_1
+shadow,VAR_2
+bh_frozen,VAR_3
+page,VAR_4
+n,VAR_5

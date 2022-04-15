@@ -1,0 +1,12 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+__add_wait_queue,FUNC_1
+__remove_wait_queue,FUNC_2
+__set_current_state,FUNC_3
+current,VAR_1
+io_schedule,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+wait,VAR_2
+sleep_on_endio_wait,FUNC_7
+ic,VAR_3

@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+NETDEV_TX_OK,VAR_0
+NETIF_F_TSO6,VAR_1
+dev_kfree_skb_any,FUNC_1
+myri10ge_xmit,FUNC_2
+netdev_priv,FUNC_3
+skb_get_queue_mapping,FUNC_4
+skb_gso_segment,FUNC_5
+myri10ge_sw_tso,FUNC_6
+skb,VAR_2
+dev,VAR_3
+segs,VAR_4
+curr,VAR_5
+mgp,VAR_6
+ss,VAR_7
+status,VAR_8

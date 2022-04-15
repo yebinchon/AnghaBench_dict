@@ -1,0 +1,15 @@
+Assert,FUNC_0
+GetCurrentTransactionNestLevel,FUNC_1
+MemoryContextSwitchTo,FUNC_2
+NIL,VAR_0
+TopTransactionContext,VAR_1
+lappend,FUNC_3
+on_commit_stop_workers,VAR_2
+palloc,FUNC_4
+logicalrep_worker_stop_at_commit,FUNC_5
+subid,VAR_3
+relid,VAR_4
+nestDepth,VAR_5
+wid,VAR_6
+oldctx,VAR_7
+newdata,VAR_8

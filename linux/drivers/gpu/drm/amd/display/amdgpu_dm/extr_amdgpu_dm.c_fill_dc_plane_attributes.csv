@@ -1,0 +1,17 @@
+amdgpu_dm_update_plane_color_mgmt,FUNC_0
+fill_dc_plane_info_and_addr,FUNC_1
+fill_dc_scaling_info,FUNC_2
+get_fb_info,FUNC_3
+to_amdgpu_framebuffer,FUNC_4
+to_dm_crtc_state,FUNC_5
+fill_dc_plane_attributes,FUNC_6
+adev,VAR_0
+dc_plane_state,VAR_1
+plane_state,VAR_2
+crtc_state,VAR_3
+dm_crtc_state,VAR_4
+amdgpu_fb,VAR_5
+scaling_info,VAR_6
+plane_info,VAR_7
+tiling_flags,VAR_8
+ret,VAR_9

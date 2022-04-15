@@ -1,0 +1,11 @@
+PCI_CLASS_STORAGE_IDE,VAR_0
+PCI_CLASS_STORAGE_RAID,VAR_1
+PCI_CLASS_STORAGE_SATA,VAR_2
+ahci_print_info,FUNC_0
+pci_read_config_word,FUNC_1
+to_pci_dev,FUNC_2
+acard_ahci_pci_print_info,FUNC_3
+host,VAR_3
+pdev,VAR_4
+cc,VAR_5
+scc_s,VAR_6

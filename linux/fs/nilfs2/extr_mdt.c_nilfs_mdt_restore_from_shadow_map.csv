@@ -1,0 +1,13 @@
+NILFS_I,FUNC_0
+NILFS_MDT,FUNC_1
+down_write,FUNC_2
+nilfs_bmap_restore,FUNC_3
+nilfs_clear_dirty_pages,FUNC_4
+nilfs_copy_back_pages,FUNC_5
+nilfs_palloc_clear_cache,FUNC_6
+up_write,FUNC_7
+nilfs_mdt_restore_from_shadow_map,FUNC_8
+inode,VAR_0
+mi,VAR_1
+ii,VAR_2
+shadow,VAR_3

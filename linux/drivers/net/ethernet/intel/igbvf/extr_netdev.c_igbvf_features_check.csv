@@ -1,0 +1,17 @@
+IGBVF_MAX_MAC_HDR_LEN,VAR_0
+IGBVF_MAX_NETWORK_HDR_LEN,VAR_1
+NETIF_F_HW_CSUM,VAR_2
+NETIF_F_HW_VLAN_CTAG_TX,VAR_3
+NETIF_F_SCTP_CRC,VAR_4
+NETIF_F_TSO,VAR_5
+NETIF_F_TSO6,VAR_6
+NETIF_F_TSO_MANGLEID,VAR_7
+skb_checksum_start,FUNC_0
+skb_network_header,FUNC_1
+unlikely,FUNC_2
+igbvf_features_check,FUNC_3
+skb,VAR_8
+dev,VAR_9
+features,VAR_10
+network_hdr_len,VAR_11
+mac_hdr_len,VAR_12

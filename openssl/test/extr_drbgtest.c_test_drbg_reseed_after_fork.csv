@@ -1,0 +1,14 @@
+TEST_int_eq,FUNC_0
+TEST_int_ge,FUNC_1
+TEST_true,FUNC_2
+exit,FUNC_3
+fork,FUNC_4
+test_drbg_reseed,FUNC_5
+unhook_drbg,FUNC_6
+waitpid,FUNC_7
+test_drbg_reseed_after_fork,FUNC_8
+master,VAR_0
+public,VAR_1
+private,VAR_2
+pid,VAR_3
+status,VAR_4

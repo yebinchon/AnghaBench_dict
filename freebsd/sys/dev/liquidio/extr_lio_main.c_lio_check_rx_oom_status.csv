@@ -1,0 +1,14 @@
+__compiler_membar,FUNC_0
+lio_droq_refill,FUNC_1
+lio_read_csr32,FUNC_2
+lio_write_csr32,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+wmb,FUNC_6
+lio_check_rx_oom_status,FUNC_7
+lio,VAR_0
+droq,VAR_1
+oct,VAR_2
+desc_refilled,VAR_3
+q,VAR_4
+q_no,VAR_5

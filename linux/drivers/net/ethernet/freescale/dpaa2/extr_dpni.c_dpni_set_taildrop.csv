@@ -1,0 +1,17 @@
+DPNI_CMDID_SET_TAILDROP,VAR_0
+ENABLE,VAR_1
+cpu_to_le32,FUNC_0
+dpni_set_field,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpni_set_taildrop,FUNC_4
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+cg_point,VAR_5
+qtype,VAR_6
+tc,VAR_7
+index,VAR_8
+taildrop,VAR_9
+cmd,VAR_10
+cmd_params,VAR_11

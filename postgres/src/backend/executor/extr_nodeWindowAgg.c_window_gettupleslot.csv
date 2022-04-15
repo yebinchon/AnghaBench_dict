@@ -1,0 +1,16 @@
+Assert,FUNC_0
+CHECK_FOR_INTERRUPTS,FUNC_1
+ERROR,VAR_0
+MemoryContextSwitchTo,FUNC_2
+elog,FUNC_3
+spool_tuples,FUNC_4
+tuplestore_advance,FUNC_5
+tuplestore_gettupleslot,FUNC_6
+tuplestore_select_read_pointer,FUNC_7
+tuplestore_skiptuples,FUNC_8
+window_gettupleslot,FUNC_9
+winobj,VAR_1
+pos,VAR_2
+slot,VAR_3
+winstate,VAR_4
+oldcontext,VAR_5

@@ -1,0 +1,10 @@
+FHCI_PORT_FULL,VAR_0
+FHCI_PORT_LOW,VAR_1
+USB_MODE_EN,VAR_2
+clrbits8,FUNC_0
+fhci_device_disconnected_interrupt,FUNC_1
+fhci_port_disable,FUNC_2
+fhci_usb_disable_interrupt,FUNC_3
+fhci_usb_disable,FUNC_4
+fhci,VAR_3
+usb,VAR_4

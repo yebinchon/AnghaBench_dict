@@ -1,0 +1,13 @@
+TEGRA_POWERGATE_SAX,VAR_0
+clk_enable,FUNC_0
+clk_stop,FUNC_1
+device_printf,FUNC_2
+hwreset_assert,FUNC_3
+hwreset_deassert,FUNC_4
+phy_enable,FUNC_5
+regulator_enable,FUNC_6
+tegra_powergate_power_off,FUNC_7
+tegra_powergate_sequence_power_up,FUNC_8
+enable_fdt_resources,FUNC_9
+sc,VAR_1
+rv,VAR_2

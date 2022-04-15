@@ -1,0 +1,15 @@
+FWPS_GONE,VAR_0
+cancel_delayed_work_sync,FUNC_0
+cancel_work_sync,FUNC_1
+del_timer,FUNC_2
+fwserial_release_port,FUNC_3
+fwtty_info,FUNC_4
+kfree,FUNC_5
+list_del_rcu,FUNC_6
+peer_set_state,FUNC_7
+spin_lock_bh,FUNC_8
+spin_unlock_bh,FUNC_9
+synchronize_rcu,FUNC_10
+fwserial_remove_peer,FUNC_11
+peer,VAR_1
+port,VAR_2

@@ -1,0 +1,15 @@
+CMD_CLICK,VAR_0
+CMD_CLOSE,VAR_1
+PushCommandUnique,FUNC_0
+VLC_SUCCESS,VAR_2
+assert,FUNC_1
+msg_Dbg,FUNC_2
+vlclua_extension_dialog_callback,FUNC_3
+p_this,VAR_3
+psz_var,VAR_4
+oldval,VAR_5
+newval,VAR_6
+p_data,VAR_7
+command,VAR_8
+p_ext,VAR_9
+p_widget,VAR_10

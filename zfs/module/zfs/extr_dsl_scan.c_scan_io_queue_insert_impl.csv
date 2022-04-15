@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+MUTEX_HELD,FUNC_1
+SIO_GET_ASIZE,FUNC_2
+SIO_GET_MUSED,FUNC_3
+SIO_GET_OFFSET,FUNC_4
+atomic_add_64,FUNC_5
+avl_find,FUNC_6
+avl_insert,FUNC_7
+range_tree_add,FUNC_8
+sio_free,FUNC_9
+scan_io_queue_insert_impl,FUNC_10
+queue,VAR_0
+sio,VAR_1
+idx,VAR_2
+asize,VAR_3
+scn,VAR_4

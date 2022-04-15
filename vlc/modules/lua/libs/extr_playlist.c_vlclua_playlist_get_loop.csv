@@ -1,0 +1,11 @@
+VLC_PLAYLIST_PLAYBACK_REPEAT_ALL,VAR_0
+lua_pushboolean,FUNC_0
+vlc_playlist_GetPlaybackRepeat,FUNC_1
+vlc_playlist_Lock,FUNC_2
+vlc_playlist_Unlock,FUNC_3
+vlclua_get_playlist_internal,FUNC_4
+vlclua_playlist_get_loop,FUNC_5
+L,VAR_1
+playlist,VAR_2
+repeat,VAR_3
+result,VAR_4

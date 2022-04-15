@@ -1,0 +1,15 @@
+DeferErrorIfUnsupportedClause,FUNC_0
+FindNodeCheck,FUNC_1
+IsFunctionRTE,VAR_0
+IsOuterJoinExpr,VAR_1
+JoinTreeContainsSubquery,FUNC_2
+NIL,VAR_2
+QualifierList,FUNC_3
+SafeToPushdownWindowFunction,FUNC_4
+WhereOrHavingClauseContainsSubquery,FUNC_5
+ShouldUseSubqueryPushDown,FUNC_6
+originalQuery,VAR_3
+rewrittenQuery,VAR_4
+plannerRestrictionContext,VAR_5
+qualifierList,VAR_6
+errorMessage,VAR_7

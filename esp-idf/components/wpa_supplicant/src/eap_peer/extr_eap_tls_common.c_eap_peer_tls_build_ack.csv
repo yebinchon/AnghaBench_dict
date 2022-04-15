@@ -1,0 +1,10 @@
+EAP_CODE_RESPONSE,VAR_0
+MSG_DEBUG,VAR_1
+eap_tls_msg_alloc,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_put_u8,FUNC_2
+eap_peer_tls_build_ack,FUNC_3
+id,VAR_2
+eap_type,VAR_3
+peap_version,VAR_4
+resp,VAR_5

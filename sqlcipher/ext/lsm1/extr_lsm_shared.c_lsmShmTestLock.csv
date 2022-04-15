@@ -1,0 +1,17 @@
+LSM_BUSY,VAR_0
+LSM_LOCK_EXCL,VAR_1
+LSM_OK,VAR_2
+assert,FUNC_0
+lsmEnvTestLock,FUNC_1
+lsmMutexEnter,FUNC_2
+lsmMutexLeave,FUNC_3
+lsmShmTestLock,FUNC_4
+db,VAR_3
+iLock,VAR_4
+nLock,VAR_5
+eOp,VAR_6
+rc,VAR_7
+pIter,VAR_8
+p,VAR_9
+i,VAR_10
+mask,VAR_11

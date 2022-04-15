@@ -1,0 +1,9 @@
+ASSERT_RTNL,FUNC_0
+NETDEV_CHANGEADDR,VAR_0
+__hw_addr_add,FUNC_1
+call_netdevice_notifiers,FUNC_2
+dev_addr_add,FUNC_3
+dev,VAR_1
+addr,VAR_2
+addr_type,VAR_3
+err,VAR_4

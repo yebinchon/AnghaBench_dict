@@ -1,0 +1,15 @@
+PGS_SuspendWake,VAR_0
+PGS_Suspending,VAR_1
+PSP_POWER_CB_POWER_SWITCH,VAR_2
+PSP_POWER_CB_RESUME_COMPLETE,VAR_3
+PSP_POWER_CB_STANDBY,VAR_4
+PSP_POWER_CB_SUSPENDING,VAR_5
+engineState,VAR_6
+engineStateSuspend,VAR_7
+lprintf,FUNC_0
+psp_unhandled_suspend,VAR_8
+sceKernelDelayThread,FUNC_1
+power_callback,FUNC_2
+unknown,VAR_9
+pwrflags,VAR_10
+common,VAR_11

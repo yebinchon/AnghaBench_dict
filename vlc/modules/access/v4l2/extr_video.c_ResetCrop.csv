@@ -1,0 +1,13 @@
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_0
+VIDIOC_CROPCAP,VAR_1
+VIDIOC_S_CROP,VAR_2
+errno,VAR_3
+msg_Dbg,FUNC_0
+msg_Warn,FUNC_1
+v4l2_ioctl,FUNC_2
+vlc_strerror_c,FUNC_3
+ResetCrop,FUNC_4
+obj,VAR_4
+fd,VAR_5
+cropcap,VAR_6
+crop,VAR_7

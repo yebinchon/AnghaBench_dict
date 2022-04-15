@@ -1,0 +1,15 @@
+GET_DBGHELP_IMPORT,FUNC_0
+LoadLibraryW,FUNC_1
+enumerate_loaded_modules64,VAR_0
+minidump_write_dump,VAR_1
+stack_walk64,VAR_2
+sym_cleanup,VAR_3
+sym_from_addr,VAR_4
+sym_function_table_access64,VAR_5
+sym_get_module_base64,VAR_6
+sym_get_module_info64,VAR_7
+sym_initialize,VAR_8
+sym_refresh_module_list,VAR_9
+sym_set_options,VAR_10
+get_dbghelp_imports,FUNC_2
+data,VAR_11

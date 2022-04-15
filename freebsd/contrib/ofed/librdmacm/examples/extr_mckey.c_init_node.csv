@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+IBV_QPT_UD,VAR_1
+create_message,FUNC_0
+ibv_alloc_pd,FUNC_1
+ibv_create_cq,FUNC_2
+memset,FUNC_3
+message_count,VAR_2
+perror,FUNC_4
+printf,FUNC_5
+rdma_create_qp,FUNC_6
+init_node,FUNC_7
+node,VAR_3
+init_qp_attr,VAR_4
+cqe,VAR_5
+ret,VAR_6

@@ -1,0 +1,10 @@
+I40E_FLAG_MSIX_ENABLED,VAR_0
+I40E_PFINT_ICR0_ENA,VAR_1
+__I40E_MISC_IRQ_REQUESTED,VAR_2
+clear_bit,FUNC_0
+free_irq,FUNC_1
+i40e_flush,FUNC_2
+synchronize_irq,FUNC_3
+wr32,FUNC_4
+i40e_free_misc_vector,FUNC_5
+pf,VAR_3

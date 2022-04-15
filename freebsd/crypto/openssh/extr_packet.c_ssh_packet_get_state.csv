@@ -1,0 +1,12 @@
+MODE_IN,VAR_0
+MODE_OUT,VAR_1
+kex_to_blob,FUNC_0
+newkeys_to_blob,FUNC_1
+sshbuf_put_stringb,FUNC_2
+sshbuf_put_u32,FUNC_3
+sshbuf_put_u64,FUNC_4
+ssh_packet_get_state,FUNC_5
+ssh,VAR_2
+m,VAR_3
+state,VAR_4
+r,VAR_5

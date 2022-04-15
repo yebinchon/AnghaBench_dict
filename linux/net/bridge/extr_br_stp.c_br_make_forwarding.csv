@@ -1,0 +1,16 @@
+BR_KERNEL_STP,VAR_0
+BR_NO_STP,VAR_1
+BR_STATE_BLOCKING,VAR_2
+BR_STATE_FORWARDING,VAR_3
+BR_STATE_LEARNING,VAR_4
+BR_STATE_LISTENING,VAR_5
+RTM_NEWLINK,VAR_6
+br_ifinfo_notify,FUNC_0
+br_set_state,FUNC_1
+br_topology_change_detection,FUNC_2
+del_timer,FUNC_3
+jiffies,VAR_7
+mod_timer,FUNC_4
+br_make_forwarding,FUNC_5
+p,VAR_8
+br,VAR_9

@@ -1,0 +1,11 @@
+S3C64XX_PWRCFG_CFG_WFI_MASK,VAR_0
+S3C64XX_PWRCFG_CFG_WFI_SLEEP,VAR_1
+S3C64XX_PWR_CFG,VAR_2
+S3C64XX_WAKEUP_STAT,VAR_3
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+pr_info,FUNC_2
+s3c_pm_debug_smdkled,FUNC_3
+s3c64xx_cpu_suspend,FUNC_4
+arg,VAR_4
+tmp,VAR_5

@@ -1,0 +1,15 @@
+IG4_I2C_ENABLE,VAR_0
+IG4_REG_CLR_INTR,VAR_1
+IG4_REG_ENABLE_STATUS,VAR_2
+IG4_REG_I2C_EN,VAR_3
+IIC_ETIMEOUT,VAR_4
+ig4iic_set_intr_mask,FUNC_0
+pause,FUNC_1
+reg_read,FUNC_2
+reg_write,FUNC_3
+set_controller,FUNC_4
+sc,VAR_5
+ctl,VAR_6
+retry,VAR_7
+error,VAR_8
+v,VAR_9

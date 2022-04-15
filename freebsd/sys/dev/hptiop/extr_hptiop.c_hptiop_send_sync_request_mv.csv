@@ -1,0 +1,14 @@
+BUS_SPACE_RD4_MV0,FUNC_0
+DELAY,FUNC_1
+IOP_REQUEST_FLAG_OUTPUT_CONTEXT,VAR_0
+IOP_REQUEST_FLAG_SYNC_REQUEST,VAR_1
+MVIOP_MU_QUEUE_ADDR_HOST_BIT,VAR_2
+hptiop_intr_mv,FUNC_2
+hptiop_mv_inbound_write,FUNC_3
+outbound_intmask,VAR_3
+hptiop_send_sync_request_mv,FUNC_4
+hba,VAR_4
+req,VAR_5
+millisec,VAR_6
+i,VAR_7
+phy_addr,VAR_8

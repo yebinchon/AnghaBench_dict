@@ -1,0 +1,13 @@
+IDT_PF,VAR_0
+KASSERT,FUNC_0
+VCPU_CTR2,FUNC_1
+VM_REG_GUEST_CR2,VAR_1
+vm_inject_fault,FUNC_2
+vm_set_register,FUNC_3
+vm_inject_pf,FUNC_4
+vmarg,VAR_2
+vcpuid,VAR_3
+error_code,VAR_4
+cr2,VAR_5
+vm,VAR_6
+error,VAR_7

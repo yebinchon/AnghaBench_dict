@@ -1,0 +1,17 @@
+CVMX_BOARD_TYPE_EBH3100,VAR_0
+CVMX_BOARD_TYPE_SIM,VAR_1
+CVMX_LLM_NUM_PORTS,VAR_2
+MIN,FUNC_0
+cn31xx_dfa_memory_init,FUNC_1
+cvmx_board_type_to_string,FUNC_2
+cvmx_dprintf,FUNC_3
+cvmx_llm_get_default_descriptor,FUNC_4
+cvmx_sysinfo_get,FUNC_5
+memset,FUNC_6
+rld_csr_config_generate,FUNC_7
+write_rld_cfg,FUNC_8
+cvmx_llm_initialize_desc,FUNC_9
+llm_desc_ptr,VAR_3
+sys_ptr,VAR_4
+default_llm_desc,VAR_5
+ebt3000_rld_cfg,VAR_6

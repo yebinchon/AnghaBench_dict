@@ -1,0 +1,17 @@
+CXD2880_TNRDMD_CFG_TSPIN_CURRENT,VAR_0
+CXD2880_TNRDMD_TSOUT_IF_SPI,VAR_1
+CXD2880_TNRDMD_XTAL_SHARE_NONE,VAR_2
+EINVAL,VAR_3
+cxd2880_integ_init,FUNC_0
+cxd2880_tnrdmd_create,FUNC_1
+cxd2880_tnrdmd_set_cfg,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pr_debug,FUNC_5
+pr_err,FUNC_6
+pr_info,FUNC_7
+cxd2880_init,FUNC_8
+fe,VAR_4
+ret,VAR_5
+priv,VAR_6
+create_param,VAR_7

@@ -1,0 +1,11 @@
+GetDurationMilliSecs,FUNC_0
+PTW32_FTIME,FUNC_1
+assert,FUNC_2
+currSysTimeStart,VAR_0
+currSysTimeStop,VAR_1
+lock,VAR_2
+pthread_spin_lock,FUNC_3
+pthread_spin_unlock,FUNC_4
+washere,VAR_3
+func,FUNC_5
+arg,VAR_4

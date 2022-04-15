@@ -1,0 +1,16 @@
+ADM1026_REG_DAC,VAR_0
+DAC_TO_REG,FUNC_0
+adm1026_write_value,FUNC_1
+i2c_get_clientdata,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtol,FUNC_5
+to_i2c_client,FUNC_6
+set_analog_out_reg,FUNC_7
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+client,VAR_5
+data,VAR_6
+val,VAR_7

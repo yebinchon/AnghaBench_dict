@@ -1,0 +1,14 @@
+CRB_WIN_LOCK_TIMEOUT,VAR_0
+PCIE_SEM7_LOCK,VAR_1
+QLA82XX_CRB_WIN_LOCK_ID,VAR_2
+QLA82XX_PCIE_REG,FUNC_0
+cpu_relax,FUNC_1
+in_interrupt,FUNC_2
+qla4_82xx_rd_32,FUNC_3
+qla4_82xx_wr_32,FUNC_4
+schedule,FUNC_5
+qla4_82xx_crb_win_lock,FUNC_6
+ha,VAR_3
+i,VAR_4
+done,VAR_5
+timeout,VAR_6

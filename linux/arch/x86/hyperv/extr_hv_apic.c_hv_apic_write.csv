@@ -1,0 +1,7 @@
+HV_X64_MSR_EOI,VAR_0
+HV_X64_MSR_TPR,VAR_1
+native_apic_mem_write,FUNC_0
+wrmsr,FUNC_1
+hv_apic_write,FUNC_2
+reg,VAR_2
+val,VAR_3

@@ -1,0 +1,11 @@
+ExecClearTuple,FUNC_0
+ExecStoreMinimalTuple,FUNC_1
+heap_copy_minimal_tuple,FUNC_2
+tuplestore_gettuple,FUNC_3
+tuplestore_gettupleslot,FUNC_4
+state,VAR_0
+forward,VAR_1
+copy,VAR_2
+slot,VAR_3
+tuple,VAR_4
+should_free,VAR_5

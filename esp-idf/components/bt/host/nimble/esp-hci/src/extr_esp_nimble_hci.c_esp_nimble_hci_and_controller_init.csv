@@ -1,0 +1,11 @@
+BT_CONTROLLER_INIT_CONFIG_DEFAULT,FUNC_0
+ESP_BT_MODE_BLE,VAR_0
+ESP_BT_MODE_CLASSIC_BT,VAR_1
+ESP_OK,VAR_2
+esp_bt_controller_enable,FUNC_1
+esp_bt_controller_init,FUNC_2
+esp_bt_controller_mem_release,FUNC_3
+esp_nimble_hci_init,FUNC_4
+esp_nimble_hci_and_controller_init,FUNC_5
+ret,VAR_3
+bt_cfg,VAR_4

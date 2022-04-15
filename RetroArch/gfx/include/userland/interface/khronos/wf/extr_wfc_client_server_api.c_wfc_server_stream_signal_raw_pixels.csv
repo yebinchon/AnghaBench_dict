@@ -1,0 +1,16 @@
+VCOS_FUNCTION,VAR_0
+VCOS_SUCCESS,VAR_1
+WFC_IPC_MSG_SS_SIGNAL_RAW_PIXELS,VAR_2
+vcos_assert,FUNC_0
+vcos_log_trace,FUNC_1
+wfc_client_ipc_send,FUNC_2
+wfc_server_stream_signal_raw_pixels,FUNC_3
+stream,VAR_3
+handle,VAR_4
+format,VAR_5
+width,VAR_6
+height,VAR_7
+pitch,VAR_8
+vpitch,VAR_9
+msg,VAR_10
+status,VAR_11

@@ -1,0 +1,16 @@
+KERN_FAILURE,VAR_0
+KERN_SUCCESS,VAR_1
+R_DEBUG_REASON_BREAKPOINT,VAR_2
+R_DEBUG_REASON_ILLEGAL,VAR_3
+R_DEBUG_REASON_SEGFAULT,VAR_4
+R_DEBUG_REASON_UNKNOWN,VAR_5
+eprintf,FUNC_0
+mach_port_deallocate,FUNC_1
+mach_task_self,FUNC_2
+task_suspend,FUNC_3
+handle_exception_message,FUNC_4
+dbg,VAR_6
+msg,VAR_7
+ret_code,VAR_8
+ret,VAR_9
+kr,VAR_10

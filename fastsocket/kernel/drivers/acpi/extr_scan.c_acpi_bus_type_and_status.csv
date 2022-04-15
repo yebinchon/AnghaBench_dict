@@ -1,0 +1,15 @@
+ACPI_BUS_TYPE_DEVICE,VAR_0
+ACPI_BUS_TYPE_POWER,VAR_1
+ACPI_BUS_TYPE_PROCESSOR,VAR_2
+ACPI_BUS_TYPE_THERMAL,VAR_3
+ACPI_FAILURE,FUNC_0
+ACPI_STA_DEFAULT,VAR_4
+ENODEV,VAR_5
+acpi_bus_get_status_handle,FUNC_1
+acpi_get_type,FUNC_2
+acpi_bus_type_and_status,FUNC_3
+handle,VAR_6
+type,VAR_7
+sta,VAR_8
+status,VAR_9
+acpi_type,VAR_10

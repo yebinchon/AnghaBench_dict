@@ -1,0 +1,12 @@
+Assert,FUNC_0
+ERROR,VAR_0
+SubTransGetParent,FUNC_1
+TransactionIdFollowsOrEquals,FUNC_2
+TransactionIdIsValid,FUNC_3
+TransactionIdPrecedes,FUNC_4
+TransactionXmin,VAR_1
+elog,FUNC_5
+SubTransGetTopmostTransaction,FUNC_6
+xid,VAR_2
+parentXid,VAR_3
+previousXid,VAR_4

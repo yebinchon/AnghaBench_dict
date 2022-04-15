@@ -1,0 +1,16 @@
+PCI_IOV_RESOURCES,VAR_0
+PCI_IOV_RESOURCE_END,VAR_1
+PCI_SRIOV_CTRL,VAR_2
+PCI_SRIOV_CTRL_VFE,VAR_3
+PCI_SRIOV_NUM_VF,VAR_4
+PCI_SRIOV_SYS_PGSIZE,VAR_5
+msleep,FUNC_0
+pci_read_config_word,FUNC_1
+pci_update_resource,FUNC_2
+pci_write_config_dword,FUNC_3
+pci_write_config_word,FUNC_4
+sriov_restore_state,FUNC_5
+dev,VAR_6
+i,VAR_7
+ctrl,VAR_8
+iov,VAR_9

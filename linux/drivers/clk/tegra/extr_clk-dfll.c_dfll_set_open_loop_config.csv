@@ -1,0 +1,11 @@
+DFLL_FREQ_REQ,VAR_0
+DFLL_FREQ_REQ_FORCE_ENABLE,VAR_1
+DFLL_FREQ_REQ_SCALE_MASK,VAR_2
+DFLL_TUNE_LOW,VAR_3
+dfll_readl,FUNC_0
+dfll_tune_low,FUNC_1
+dfll_wmb,FUNC_2
+dfll_writel,FUNC_3
+dfll_set_open_loop_config,FUNC_4
+td,VAR_4
+val,VAR_5

@@ -1,0 +1,14 @@
+FAULT_FLAG_MKWRITE,VAR_0
+FAULT_FLAG_WRITE,VAR_1
+VM_FAULT_SIGBUS,VAR_2
+get_page,FUNC_0
+perf_mmap_to_page,FUNC_1
+rcu_dereference,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+perf_mmap_fault,FUNC_5
+vma,VAR_3
+vmf,VAR_4
+event,VAR_5
+rb,VAR_6
+ret,VAR_7

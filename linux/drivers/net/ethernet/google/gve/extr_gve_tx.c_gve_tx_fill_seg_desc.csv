@@ -1,0 +1,13 @@
+GVE_TXD_SEG,VAR_0
+GVE_TXSF_IPV6,VAR_1
+cpu_to_be16,FUNC_0
+cpu_to_be64,FUNC_1
+skb_is_gso_v6,FUNC_2
+skb_network_offset,FUNC_3
+skb_shinfo,FUNC_4
+gve_tx_fill_seg_desc,FUNC_5
+seg_desc,VAR_2
+skb,VAR_3
+is_gso,VAR_4
+len,VAR_5
+addr,VAR_6

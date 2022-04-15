@@ -1,0 +1,14 @@
+ClearPageLRU,FUNC_0
+EBUSY,VAR_0
+PageLRU,FUNC_1
+del_page_from_lru_list,FUNC_2
+get_page_unless_zero,FUNC_3
+page_lru,FUNC_4
+page_zone,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+isolate_lru_page,FUNC_8
+page,VAR_1
+ret,VAR_2
+zone,VAR_3
+lru,VAR_4

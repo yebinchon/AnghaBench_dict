@@ -1,0 +1,6 @@
+MPC52xx_GPT_STATUS_IRQMASK,VAR_0
+get_irq_chip_data,FUNC_0
+out_be32,FUNC_1
+mpc52xx_gpt_irq_ack,FUNC_2
+virq,VAR_1
+gpt,VAR_2

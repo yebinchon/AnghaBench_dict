@@ -1,0 +1,14 @@
+BHND_PORT_DEVICE,VAR_0
+ENXIO,VAR_1
+KASSERT,FUNC_0
+bhndb_host_resource_for_regwin,FUNC_1
+bhndb_regwin_find_core,FUNC_2
+device_printf,FUNC_3
+bhndb_pci_get_core_regs,FUNC_4
+sc,VAR_2
+offset,VAR_3
+size,VAR_4
+res,VAR_5
+res_offset,VAR_6
+win,VAR_7
+r,VAR_8

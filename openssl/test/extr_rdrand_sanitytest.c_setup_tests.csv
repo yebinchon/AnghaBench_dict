@@ -1,0 +1,8 @@
+ADD_TEST,FUNC_0
+OPENSSL_cpuid_setup,FUNC_1
+OPENSSL_ia32cap_P,VAR_0
+sanity_check_rdrand_bytes,VAR_1
+sanity_check_rdseed_bytes,VAR_2
+setup_tests,FUNC_2
+have_rdseed,VAR_3
+have_rdrand,VAR_4

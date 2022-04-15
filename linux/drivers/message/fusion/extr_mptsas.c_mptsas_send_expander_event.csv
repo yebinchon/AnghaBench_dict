@@ -1,0 +1,17 @@
+MPI_EVENT_SAS_EXP_RC_ADDED,VAR_0
+MPI_EVENT_SAS_EXP_RC_NOT_RESPONDING,VAR_1
+le16_to_cpu,FUNC_0
+le64_to_cpu,FUNC_1
+memcpy,FUNC_2
+mptsas_expander_delete,FUNC_3
+mptsas_expander_event_add,FUNC_4
+mptsas_expander_refresh,FUNC_5
+mptsas_find_portinfo_by_sas_address,FUNC_6
+mptsas_free_fw_event,FUNC_7
+mptsas_send_expander_event,FUNC_8
+fw_event,VAR_2
+ioc,VAR_3
+expander_data,VAR_4
+port_info,VAR_5
+sas_address,VAR_6
+i,VAR_7

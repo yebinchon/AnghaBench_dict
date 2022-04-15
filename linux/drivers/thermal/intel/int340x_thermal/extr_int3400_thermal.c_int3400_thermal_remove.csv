@@ -1,0 +1,12 @@
+ACPI_DEVICE_NOTIFY,VAR_0
+acpi_remove_notify_handler,FUNC_0
+acpi_thermal_rel_misc_device_remove,FUNC_1
+int3400_notify,VAR_1
+kfree,FUNC_2
+platform_get_drvdata,FUNC_3
+sysfs_remove_group,FUNC_4
+thermal_zone_device_unregister,FUNC_5
+uuid_attribute_group,VAR_2
+int3400_thermal_remove,FUNC_6
+pdev,VAR_3
+priv,VAR_4

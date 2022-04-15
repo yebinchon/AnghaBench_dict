@@ -1,0 +1,17 @@
+ETIMEDOUT,VAR_0
+STATE_IDLE,VAR_1
+TIMEOUT_MS,VAR_2
+dc_i2c_set_irq,FUNC_0
+dc_i2c_start_msg,FUNC_1
+msecs_to_jiffies,FUNC_2
+reinit_completion,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+wait_for_completion_timeout,FUNC_6
+dc_i2c_xfer_msg,FUNC_7
+i2c,VAR_3
+msg,VAR_4
+first,VAR_5
+last,VAR_6
+timeout,VAR_7
+flags,VAR_8

@@ -1,0 +1,16 @@
+I2C_PCF_ENI,VAR_0
+I2C_PCF_ESO,VAR_1
+I2C_PCF_LRB,VAR_2
+I2C_PCF_START,VAR_3
+I2C_PCF_STOP,VAR_4
+readb,FUNC_0
+wait_for_pin,FUNC_1
+writeb,FUNC_2
+bbc_i2c_readb,FUNC_3
+client,VAR_5
+byte,VAR_6
+off,VAR_7
+bp,VAR_8
+address,VAR_9
+status,VAR_10
+ret,VAR_11

@@ -1,0 +1,12 @@
+ESRCH,VAR_0
+RUN_LVL,VAR_1
+assert,FUNC_0
+init_entry,FUNC_1
+strncpy,FUNC_2
+utmp_get_runlevel,FUNC_3
+write_entry_both,FUNC_4
+utmp_put_runlevel,FUNC_5
+runlevel,VAR_2
+previous,VAR_3
+store,VAR_4
+r,VAR_5

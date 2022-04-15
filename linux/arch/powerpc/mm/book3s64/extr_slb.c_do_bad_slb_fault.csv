@@ -1,0 +1,13 @@
+BUG,FUNC_0
+EFAULT,VAR_0
+EINVAL,VAR_1
+SEGV_BNDERR,VAR_2
+SIGSEGV,VAR_3
+_exception,FUNC_1
+bad_page_fault,FUNC_2
+unrecoverable_exception,FUNC_3
+user_mode,FUNC_4
+do_bad_slb_fault,FUNC_5
+regs,VAR_4
+ea,VAR_5
+err,VAR_6

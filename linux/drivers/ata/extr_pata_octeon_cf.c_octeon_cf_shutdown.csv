@@ -1,0 +1,14 @@
+ATA_SRST,VAR_0
+DMA_CFG,VAR_1
+DMA_INT,VAR_2
+DMA_INT_EN,VAR_3
+__raw_writeb,FUNC_0
+cvmx_write_csr,FUNC_1
+dev_get_platdata,FUNC_2
+mdelay,FUNC_3
+udelay,FUNC_4
+octeon_cf_shutdown,FUNC_5
+dev,VAR_4
+dma_cfg,VAR_5
+dma_int,VAR_6
+cf_port,VAR_7

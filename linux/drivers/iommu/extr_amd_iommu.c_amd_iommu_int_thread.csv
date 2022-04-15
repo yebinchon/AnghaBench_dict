@@ -1,0 +1,17 @@
+AMD_IOMMU_INT_MASK,VAR_0
+IRQ_HANDLED,VAR_1
+MMIO_STATUS_EVT_INT_MASK,VAR_2
+MMIO_STATUS_GALOG_INT_MASK,VAR_3
+MMIO_STATUS_OFFSET,VAR_4
+MMIO_STATUS_PPR_INT_MASK,VAR_5
+iommu_poll_events,FUNC_0
+iommu_poll_ga_log,FUNC_1
+iommu_poll_ppr_log,FUNC_2
+pr_devel,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+amd_iommu_int_thread,FUNC_6
+irq,VAR_6
+data,VAR_7
+iommu,VAR_8
+status,VAR_9

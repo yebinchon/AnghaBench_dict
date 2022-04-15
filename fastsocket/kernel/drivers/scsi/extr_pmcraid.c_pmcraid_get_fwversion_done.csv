@@ -1,0 +1,12 @@
+IOA_STATE_IN_RESET_ALERT,VAR_0
+le32_to_cpu,FUNC_0
+pmcraid_err,FUNC_1
+pmcraid_querycfg,FUNC_2
+pmcraid_reset_alert,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+pmcraid_get_fwversion_done,FUNC_6
+cmd,VAR_1
+pinstance,VAR_2
+ioasc,VAR_3
+lock_flags,VAR_4

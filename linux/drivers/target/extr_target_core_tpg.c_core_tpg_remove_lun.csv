@@ -1,0 +1,17 @@
+HBA_FLAGS_INTERNAL_USE,VAR_0
+core_clear_lun_from_tpg,FUNC_0
+hlist_del_rcu,FUNC_1
+list_del,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+percpu_ref_exit,FUNC_5
+rcu_assign_pointer,FUNC_6
+rcu_dereference_raw,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+target_detach_tg_pt_gp,FUNC_10
+transport_clear_lun_ref,FUNC_11
+core_tpg_remove_lun,FUNC_12
+tpg,VAR_1
+lun,VAR_2
+dev,VAR_3

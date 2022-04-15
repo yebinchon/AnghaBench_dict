@@ -1,0 +1,17 @@
+CheckBuffer,FUNC_0
+PyLong_AsLong,FUNC_1
+PyLong_Check,FUNC_2
+PySlice_Check,FUNC_3
+PySlice_GetIndicesEx,FUNC_4
+RAISE_INVALID_INDEX_TYPE,FUNC_5
+RBAsItem,FUNC_6
+RBAsSlice,FUNC_7
+BufferAsSubscript,FUNC_8
+self,VAR_0
+idx,VAR_1
+val,VAR_2
+n,VAR_3
+start,VAR_4
+stop,VAR_5
+step,VAR_6
+slicelen,VAR_7

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+FBCLOCK_UPTIME,VAR_1
+FFCLOCK_LEAPSEC,VAR_2
+FFCLOCK_LERP,VAR_3
+FFCLOCK_UPTIME,VAR_4
+bintime_add,FUNC_0
+bintime_addx,FUNC_1
+bintime_sub,FUNC_2
+ffclock_boottime,VAR_5
+ffclock_convert_delta,FUNC_3
+getboottimebin,FUNC_4
+sysclock_snap2bintime,FUNC_5
+cs,VAR_6
+bt,VAR_7
+whichclock,VAR_8
+flags,VAR_9
+boottimebin,VAR_10

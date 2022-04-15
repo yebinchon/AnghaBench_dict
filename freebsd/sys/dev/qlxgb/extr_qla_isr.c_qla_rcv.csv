@@ -1,0 +1,16 @@
+QL_ENABLE_INTERRUPTS,FUNC_0
+QL_RUNNING,FUNC_1
+qla_le32_to_host,FUNC_2
+qla_rcv_isr,FUNC_3
+rcv_pkt_thres_d,VAR_0
+taskqueue_enqueue,FUNC_4
+qla_rcv,FUNC_5
+context,VAR_1
+pending,VAR_2
+ivec,VAR_3
+ha,VAR_4
+dev,VAR_5
+hw,VAR_6
+sds_idx,VAR_7
+ret,VAR_8
+ifp,VAR_9

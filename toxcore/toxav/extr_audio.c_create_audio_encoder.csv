@@ -1,0 +1,17 @@
+LOGGER_ERROR,FUNC_0
+OPUS_APPLICATION_VOIP,VAR_0
+OPUS_OK,VAR_1
+OPUS_SET_BITRATE,FUNC_1
+OPUS_SET_COMPLEXITY,FUNC_2
+OPUS_SET_INBAND_FEC,FUNC_3
+OPUS_SET_PACKET_LOSS_PERC,FUNC_4
+opus_encoder_create,FUNC_5
+opus_encoder_ctl,FUNC_6
+opus_encoder_destroy,FUNC_7
+opus_strerror,FUNC_8
+create_audio_encoder,FUNC_9
+bit_rate,VAR_2
+sampling_rate,VAR_3
+channel_count,VAR_4
+status,VAR_5
+rc,VAR_6

@@ -1,0 +1,16 @@
+CMD_SUBSYSTEM_COMMON,VAR_0
+EBUSY,VAR_1
+OPCODE_COMMON_DELETE_OBJECT,VAR_2
+be_mcc_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+embedded_payload,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+strlcpy,FUNC_5
+wrb_from_mccq,FUNC_6
+lancer_cmd_delete_object,FUNC_7
+adapter,VAR_3
+obj_name,VAR_4
+req,VAR_5
+wrb,VAR_6
+status,VAR_7

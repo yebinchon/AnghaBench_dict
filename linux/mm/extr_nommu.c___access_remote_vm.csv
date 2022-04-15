@@ -1,0 +1,17 @@
+FOLL_WRITE,VAR_0
+VM_MAYREAD,VAR_1
+VM_MAYWRITE,VAR_2
+copy_from_user_page,FUNC_0
+copy_to_user_page,FUNC_1
+down_read_killable,FUNC_2
+find_vma,FUNC_3
+up_read,FUNC_4
+__access_remote_vm,FUNC_5
+tsk,VAR_3
+mm,VAR_4
+addr,VAR_5
+buf,VAR_6
+len,VAR_7
+gup_flags,VAR_8
+vma,VAR_9
+write,VAR_10

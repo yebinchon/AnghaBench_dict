@@ -1,0 +1,16 @@
+ARPHRD_ETHER,VAR_0
+CHECKSUM_NONE,VAR_1
+ETH_P_80211_RAW,VAR_2
+PACKET_OTHERHOST,VAR_3
+WLAN_DEVICE_OPEN,VAR_4
+dev_kfree_skb,FUNC_0
+htons,FUNC_1
+netif_rx_ni,FUNC_2
+p80211_convert_to_ether,FUNC_3
+skb_dequeue,FUNC_4
+skb_reset_mac_header,FUNC_5
+p80211netdev_rx_bh,FUNC_6
+arg,VAR_5
+wlandev,VAR_6
+skb,VAR_7
+dev,VAR_8

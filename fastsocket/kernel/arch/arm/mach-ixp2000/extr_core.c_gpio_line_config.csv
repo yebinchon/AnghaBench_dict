@@ -1,0 +1,16 @@
+GPIO_IN,VAR_0
+GPIO_IRQ_falling_edge,VAR_1
+GPIO_IRQ_level_high,VAR_2
+GPIO_IRQ_level_low,VAR_3
+GPIO_IRQ_rising_edge,VAR_4
+GPIO_OUT,VAR_5
+IXP2000_GPIO_PDCR,VAR_6
+IXP2000_GPIO_PDSR,VAR_7
+ixp2000_reg_wrb,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+update_gpio_int_csrs,FUNC_3
+gpio_line_config,FUNC_4
+line,VAR_8
+direction,VAR_9
+flags,VAR_10

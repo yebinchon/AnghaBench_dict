@@ -1,0 +1,16 @@
+EnterCriticalSection,FUNC_0
+GetProcessHeap,FUNC_1
+HEAP_ZERO_MEMORY,VAR_0
+HeapAlloc,FUNC_2
+LeaveCriticalSection,FUNC_3
+RPC_S_OK,VAR_1
+RPC_S_OUT_OF_MEMORY,VAR_2
+RtlAcquireResourceExclusive,FUNC_4
+RtlInitializeResource,FUNC_5
+TRUE,VAR_3
+list_add_tail,FUNC_6
+RpcServerAssoc_AllocateContextHandle,FUNC_7
+assoc,VAR_4
+CtxGuard,VAR_5
+SContext,VAR_6
+context_handle,VAR_7

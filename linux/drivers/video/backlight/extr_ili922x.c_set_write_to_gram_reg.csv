@@ -1,0 +1,15 @@
+CMD_BUFSIZE,VAR_0
+REG_WRITE_DATA_TO_GRAM,VAR_1
+START_BYTE,FUNC_0
+START_RS_INDEX,VAR_2
+START_RW_WRITE,VAR_3
+ili922x_id,VAR_4
+memset,FUNC_1
+spi_message_add_tail,FUNC_2
+spi_message_init,FUNC_3
+spi_sync,FUNC_4
+set_write_to_gram_reg,FUNC_5
+spi,VAR_5
+msg,VAR_6
+xfer,VAR_7
+tbuf,VAR_8

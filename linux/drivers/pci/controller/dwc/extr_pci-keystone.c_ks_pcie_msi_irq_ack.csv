@@ -1,0 +1,16 @@
+BIT,FUNC_0
+IRQ_EOI,VAR_0
+MSI_IRQ_OFFSET,VAR_1
+MSI_IRQ_STATUS,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+ks_pcie_app_writel,FUNC_3
+to_dw_pcie_from_pp,FUNC_4
+to_keystone_pcie,FUNC_5
+ks_pcie_msi_irq_ack,FUNC_6
+data,VAR_2
+pp,VAR_3
+ks_pcie,VAR_4
+irq,VAR_5
+pci,VAR_6
+reg_offset,VAR_7
+bit_pos,VAR_8

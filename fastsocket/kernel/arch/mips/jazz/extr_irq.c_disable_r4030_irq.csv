@@ -1,0 +1,11 @@
+JAZZ_IO_IRQ_ENABLE,VAR_0
+JAZZ_IRQ_START,VAR_1
+r4030_lock,VAR_2
+r4030_read_reg16,FUNC_0
+r4030_write_reg16,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+disable_r4030_irq,FUNC_4
+irq,VAR_3
+mask,VAR_4
+flags,VAR_5

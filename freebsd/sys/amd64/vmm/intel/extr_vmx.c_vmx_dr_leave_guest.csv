@@ -1,0 +1,17 @@
+MSR_DEBUGCTLMSR,VAR_0
+load_dr0,FUNC_0
+load_dr1,FUNC_1
+load_dr2,FUNC_2
+load_dr3,FUNC_3
+load_dr6,FUNC_4
+load_dr7,FUNC_5
+rdr0,FUNC_6
+rdr1,FUNC_7
+rdr2,FUNC_8
+rdr3,FUNC_9
+rdr6,FUNC_10
+read_rflags,FUNC_11
+write_rflags,FUNC_12
+wrmsr,FUNC_13
+vmx_dr_leave_guest,FUNC_14
+vmxctx,VAR_1

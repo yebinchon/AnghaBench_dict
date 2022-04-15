@@ -1,0 +1,15 @@
+BA0_CLKCR1,VAR_0
+BA0_SERBAD,VAR_1
+BA0_SERBCM,VAR_2
+BA0_SERBWP,VAR_3
+CLKCR1_SWCE,VAR_4
+SERBCM_WRC,VAR_5
+cs46xx_wait_for_fifo,FUNC_0
+dev_dbg,FUNC_1
+snd_cs46xx_peekBA0,FUNC_2
+snd_cs46xx_pokeBA0,FUNC_3
+snd_cs46xx_clear_serial_FIFOs,FUNC_4
+chip,VAR_6
+idx,VAR_7
+powerdown,VAR_8
+tmp,VAR_9

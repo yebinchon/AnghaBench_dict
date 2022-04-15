@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+ICE1712_IREG_CAP_CTRL,VAR_1
+SNDRV_PCM_TRIGGER_START,VAR_2
+SNDRV_PCM_TRIGGER_STOP,VAR_3
+snd_ice1712_read,FUNC_0
+snd_ice1712_write,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+snd_ice1712_capture_trigger,FUNC_5
+substream,VAR_4
+cmd,VAR_5
+ice,VAR_6
+result,VAR_7
+tmp,VAR_8

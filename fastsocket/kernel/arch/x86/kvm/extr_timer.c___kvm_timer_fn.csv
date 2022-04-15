@@ -1,0 +1,13 @@
+KVM_REQ_PENDING_TIMER,VAR_0
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+hrtimer_add_expires_ns,FUNC_2
+set_bit,FUNC_3
+stub1,FUNC_4
+waitqueue_active,FUNC_5
+wake_up_interruptible,FUNC_6
+__kvm_timer_fn,FUNC_7
+vcpu,VAR_1
+ktimer,VAR_2
+restart_timer,VAR_3
+q,VAR_4

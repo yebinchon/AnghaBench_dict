@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+MLX4_QP_OPTPAR_ALT_ADDR_PATH,VAR_1
+MLX4_QP_OPTPAR_PRIMARY_ADDR_PATH,VAR_2
+MLX4_QP_OPTPAR_SCHED_QUEUE,VAR_3
+be32_to_cpu,FUNC_0
+mlx4_is_eth,FUNC_1
+mlx4_slave_convert_port,FUNC_2
+adjust_qp_sched_queue,FUNC_3
+dev,VAR_4
+slave,VAR_5
+qpc,VAR_6
+inbox,VAR_7
+optpar,VAR_8
+pri_sched_queue,VAR_9
+port,VAR_10

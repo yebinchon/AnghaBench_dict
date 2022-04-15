@@ -1,0 +1,13 @@
+EPT_POINTER,VAR_0
+GUEST_CR3,VAR_1
+construct_eptp,FUNC_0
+enable_ept,VAR_2
+is_paging,FUNC_1
+vmcs_write64,FUNC_2
+vmcs_writel,FUNC_3
+vmx_flush_tlb,FUNC_4
+vmx_set_cr3,FUNC_5
+vcpu,VAR_3
+cr3,VAR_4
+guest_cr3,VAR_5
+eptp,VAR_6

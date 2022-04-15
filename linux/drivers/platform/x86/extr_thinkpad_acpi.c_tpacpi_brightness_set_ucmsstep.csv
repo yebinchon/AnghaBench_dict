@@ -1,0 +1,11 @@
+EIO,VAR_0
+TP_CMOS_BRIGHTNESS_DOWN,VAR_1
+TP_CMOS_BRIGHTNESS_UP,VAR_2
+issue_thinkpad_cmos_command,FUNC_0
+tpacpi_brightness_nvram_get,FUNC_1
+tpacpi_brightness_set_ucmsstep,FUNC_2
+value,VAR_3
+cmos_cmd,VAR_4
+inc,VAR_5
+current_value,VAR_6
+i,VAR_7

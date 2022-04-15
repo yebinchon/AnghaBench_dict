@@ -1,0 +1,10 @@
+KVM_EXIT_SHUTDOWN,VAR_0
+TEST_ASSERT,FUNC_0
+VCPU_ID,VAR_1
+exit_reason_str,FUNC_1
+set_msr_platform_info_enabled,FUNC_2
+vcpu_run,FUNC_3
+vcpu_state,FUNC_4
+test_msr_platform_info_disabled,FUNC_5
+vm,VAR_2
+run,VAR_3

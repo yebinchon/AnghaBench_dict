@@ -1,0 +1,17 @@
+BLK_MAX_CDB,VAR_0
+EFAULT,VAR_1
+ENOMEM,VAR_2
+EOPNOTSUPP,VAR_3
+EPERM,VAR_4
+GFP_KERNEL,VAR_5
+blk_verify_command,FUNC_0
+copy_from_user,FUNC_1
+kzalloc,FUNC_2
+pr_warn_once,FUNC_3
+scsi_req,FUNC_4
+uptr64,FUNC_5
+bsg_scsi_fill_hdr,FUNC_6
+rq,VAR_6
+hdr,VAR_7
+mode,VAR_8
+sreq,VAR_9

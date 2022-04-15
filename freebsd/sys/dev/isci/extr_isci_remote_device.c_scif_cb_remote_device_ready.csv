@@ -1,0 +1,15 @@
+CAM_LUN_WILDCARD,VAR_0
+cam_sim_path,FUNC_0
+isci_remote_device_release_device_queue,FUNC_1
+sci_object_get_association,FUNC_2
+xpt_alloc_ccb_nowait,FUNC_3
+xpt_create_path,FUNC_4
+xpt_rescan,FUNC_5
+scif_cb_remote_device_ready,FUNC_6
+controller,VAR_1
+domain,VAR_2
+remote_device,VAR_3
+isci_remote_device,VAR_4
+isci_controller,VAR_5
+device_index,VAR_6
+ccb,VAR_7

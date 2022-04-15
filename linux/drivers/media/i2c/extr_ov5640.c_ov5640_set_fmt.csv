@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+V4L2_SUBDEV_FORMAT_TRY,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+ov5640_try_fmt_internal,FUNC_2
+to_ov5640_dev,FUNC_3
+v4l2_subdev_get_try_format,FUNC_4
+ov5640_set_fmt,FUNC_5
+sd,VAR_3
+cfg,VAR_4
+format,VAR_5
+sensor,VAR_6
+new_mode,VAR_7
+mbus_fmt,VAR_8
+fmt,VAR_9
+ret,VAR_10

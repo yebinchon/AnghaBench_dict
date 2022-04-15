@@ -1,0 +1,12 @@
+WL12XX_FWLOG_OUTPUT_DBG_PINS,VAR_0
+WLCORE_QUIRK_FWLOG_NOT_IMPLEMENTED,VAR_1
+msleep,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put_noidle,FUNC_2
+wl1271_info,FUNC_3
+wl12xx_cmd_stop_fwlog,FUNC_4
+wlcore_event_fw_logger,FUNC_5
+wl12xx_read_fwlog_panic,FUNC_6
+wl,VAR_2
+end_of_log,VAR_3
+error,VAR_4

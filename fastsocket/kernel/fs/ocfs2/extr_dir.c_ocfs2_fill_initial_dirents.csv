@@ -1,0 +1,14 @@
+OCFS2_DIR_REC_LEN,FUNC_0
+OCFS2_I,FUNC_1
+S_IFDIR,VAR_0
+cpu_to_le16,FUNC_2
+cpu_to_le64,FUNC_3
+le16_to_cpu,FUNC_4
+ocfs2_set_de_type,FUNC_5
+strcpy,FUNC_6
+ocfs2_fill_initial_dirents,FUNC_7
+inode,VAR_1
+parent,VAR_2
+start,VAR_3
+size,VAR_4
+de,VAR_5

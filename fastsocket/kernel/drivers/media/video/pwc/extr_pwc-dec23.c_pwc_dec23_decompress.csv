@@ -1,0 +1,16 @@
+DecompressBand23,FUNC_0
+DecompressBandBayer,FUNC_1
+PWCX_FLAG_BAYER,VAR_0
+memset,FUNC_2
+pwc_dec23_decompress,FUNC_3
+pwc,VAR_1
+src,VAR_2
+dst,VAR_3
+flags,VAR_4
+bandlines_left,VAR_5
+stride,VAR_6
+bytes_per_block,VAR_7
+pout_planar_y,VAR_8
+pout_planar_u,VAR_9
+pout_planar_v,VAR_10
+plane_size,VAR_11

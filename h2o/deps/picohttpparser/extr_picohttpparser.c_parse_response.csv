@@ -1,0 +1,15 @@
+PARSE_INT_3,FUNC_0
+get_token_to_eol,FUNC_1
+parse_headers,FUNC_2
+parse_http_version,FUNC_3
+parse_response,FUNC_4
+buf,VAR_0
+buf_end,VAR_1
+minor_version,VAR_2
+status,VAR_3
+msg,VAR_4
+msg_len,VAR_5
+headers,VAR_6
+num_headers,VAR_7
+max_headers,VAR_8
+ret,VAR_9

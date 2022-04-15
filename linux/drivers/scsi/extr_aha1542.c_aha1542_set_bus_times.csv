@@ -1,0 +1,17 @@
+CMD_BUSOFF_TIME,VAR_0
+CMD_BUSON_TIME,VAR_1
+CMD_DMASPEED,VAR_2
+KERN_ERR,VAR_3
+aha1542_intr_reset,FUNC_0
+aha1542_out,FUNC_1
+clamp,FUNC_2
+dma_speed_hw,FUNC_3
+shost_printk,FUNC_4
+aha1542_set_bus_times,FUNC_5
+sh,VAR_4
+bus_on,VAR_5
+bus_off,VAR_6
+dma_speed,VAR_7
+oncmd,VAR_8
+offcmd,VAR_9
+dmacmd,VAR_10

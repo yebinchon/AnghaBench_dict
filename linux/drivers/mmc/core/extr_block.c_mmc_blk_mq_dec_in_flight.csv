@@ -1,0 +1,10 @@
+mmc_issue_type,FUNC_0
+mmc_put_card,FUNC_1
+mmc_tot_in_flight,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+mmc_blk_mq_dec_in_flight,FUNC_5
+mq,VAR_0
+req,VAR_1
+flags,VAR_2
+put_card,VAR_3

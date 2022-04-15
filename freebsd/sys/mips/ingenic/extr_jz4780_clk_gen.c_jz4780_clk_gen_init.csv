@@ -1,0 +1,14 @@
+CLK_LOCK,FUNC_0
+CLK_MASK_MUX,VAR_0
+CLK_RD_4,FUNC_1
+CLK_UNLOCK,FUNC_2
+clknode_get_softc,FUNC_3
+clknode_init_parent_idx,FUNC_4
+reg_to_mux,FUNC_5
+jz4780_clk_gen_init,FUNC_6
+clk,VAR_1
+dev,VAR_2
+sc,VAR_3
+reg,VAR_4
+msk,VAR_5
+parent_idx,VAR_6

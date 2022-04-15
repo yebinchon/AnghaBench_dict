@@ -1,0 +1,7 @@
+FF800_ISOC_COMM_STOP,VAR_0
+TCODE_WRITE_QUADLET_REQUEST,VAR_1
+cpu_to_le32,FUNC_0
+snd_fw_transaction,FUNC_1
+ff800_finish_session,FUNC_2
+ff,VAR_2
+reg,VAR_3

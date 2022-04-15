@@ -1,0 +1,12 @@
+IOP_REQUEST_FLAG_SYNC_REQUEST,VAR_0
+MVIOP_MU_QUEUE_ADDR_HOST_BIT,VAR_1
+cpu_to_le32,FUNC_0
+iop_intr_mv,FUNC_1
+msleep,FUNC_2
+mv_inbound_write,FUNC_3
+iop_send_sync_request_mv,FUNC_4
+hba,VAR_2
+size_bits,VAR_3
+millisec,VAR_4
+reqhdr,VAR_5
+i,VAR_6

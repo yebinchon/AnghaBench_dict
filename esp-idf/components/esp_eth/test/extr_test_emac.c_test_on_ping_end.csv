@@ -1,0 +1,14 @@
+ESP_PING_PROF_DURATION,VAR_0
+ESP_PING_PROF_REPLY,VAR_1
+ESP_PING_PROF_REQUEST,VAR_2
+ETH_PING_END_BIT,VAR_3
+esp_ping_get_profile,FUNC_0
+printf,FUNC_1
+xEventGroupSetBits,FUNC_2
+test_on_ping_end,FUNC_3
+hdl,VAR_4
+args,VAR_5
+eth_event_group,VAR_6
+transmitted,VAR_7
+received,VAR_8
+total_time_ms,VAR_9

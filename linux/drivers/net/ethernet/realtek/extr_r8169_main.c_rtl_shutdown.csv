@@ -1,0 +1,16 @@
+PCI_D3hot,VAR_0
+SYSTEM_POWER_OFF,VAR_1
+netdev_priv,FUNC_0
+pci_get_drvdata,FUNC_1
+pci_set_power_state,FUNC_2
+pci_wake_from_d3,FUNC_3
+rtl8169_hw_reset,FUNC_4
+rtl8169_net_suspend,FUNC_5
+rtl_rar_set,FUNC_6
+rtl_wol_shutdown_quirk,FUNC_7
+rtl_wol_suspend_quirk,FUNC_8
+system_state,VAR_2
+rtl_shutdown,FUNC_9
+pdev,VAR_3
+dev,VAR_4
+tp,VAR_5

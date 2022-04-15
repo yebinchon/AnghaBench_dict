@@ -1,0 +1,13 @@
+TSL2563_CMD,VAR_0
+TSL2563_REG_INT,VAR_1
+i2c_smbus_read_byte_data,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+tsl2563_read_interrupt_config,FUNC_4
+indio_dev,VAR_2
+chan,VAR_3
+type,VAR_4
+dir,VAR_5
+chip,VAR_6
+ret,VAR_7

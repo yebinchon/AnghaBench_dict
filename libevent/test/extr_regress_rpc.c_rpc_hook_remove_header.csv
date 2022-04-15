@@ -1,0 +1,16 @@
+EVRPC_CONTINUE,VAR_0
+assert,FUNC_0
+evhttp_add_header,FUNC_1
+evhttp_find_header,FUNC_2
+evhttp_remove_header,FUNC_3
+evrpc_hook_find_meta,FUNC_4
+evrpc_hook_get_connection,FUNC_5
+strcmp,FUNC_6
+rpc_hook_remove_header,FUNC_7
+ctx,VAR_1
+req,VAR_2
+evbuf,VAR_3
+arg,VAR_4
+header,VAR_5
+data,VAR_6
+data_len,VAR_7

@@ -1,0 +1,12 @@
+DM_IO_KMEM,VAR_0
+REQ_OP_WRITE,VAR_1
+REQ_PREFLUSH,VAR_2
+dm_io,FUNC_0
+unlikely,FUNC_1
+writecache_error,FUNC_2
+writecache_disk_flush,FUNC_3
+wc,VAR_3
+dev,VAR_4
+r,VAR_5
+region,VAR_6
+req,VAR_7

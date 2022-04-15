@@ -1,0 +1,16 @@
+ATH_TX_LOCK,FUNC_0
+ATH_TX_UNLOCK,FUNC_1
+TAILQ_EMPTY,FUNC_2
+TAILQ_FIRST,FUNC_3
+TAILQ_INIT,FUNC_4
+TAILQ_REMOVE,FUNC_5
+ath_tx_default_comp,FUNC_6
+ath_tx_tid_drain,FUNC_7
+ath_tx_tid_unsched,FUNC_8
+bf_list,VAR_0
+ath_tx_txq_drain,FUNC_9
+sc,VAR_1
+txq,VAR_2
+tid,VAR_3
+bf_cq,VAR_4
+bf,VAR_5

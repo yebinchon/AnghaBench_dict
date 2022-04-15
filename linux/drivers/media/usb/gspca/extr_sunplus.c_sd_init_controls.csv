@@ -1,0 +1,11 @@
+V4L2_CID_AUTOGAIN,VAR_0
+V4L2_CID_BRIGHTNESS,VAR_1
+V4L2_CID_CONTRAST,VAR_2
+V4L2_CID_SATURATION,VAR_3
+pr_err,FUNC_0
+sd_ctrl_ops,VAR_4
+v4l2_ctrl_handler_init,FUNC_1
+v4l2_ctrl_new_std,FUNC_2
+sd_init_controls,FUNC_3
+gspca_dev,VAR_5
+hdl,VAR_6

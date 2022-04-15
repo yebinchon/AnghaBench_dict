@@ -1,0 +1,10 @@
+dma_direct_free,FUNC_0
+dma_iommu_alloc_bypass,FUNC_1
+get_iommu_table_base,FUNC_2
+iommu_free_coherent,FUNC_3
+dma_iommu_free_coherent,FUNC_4
+dev,VAR_0
+size,VAR_1
+vaddr,VAR_2
+dma_handle,VAR_3
+attrs,VAR_4

@@ -1,0 +1,17 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_FMTBIT_S16_BE,VAR_1
+SNDRV_PCM_FMTBIT_S16_LE,VAR_2
+SNDRV_PCM_INFO_JOINT_DUPLEX,VAR_3
+SNDRV_PCM_STREAM_CAPTURE,VAR_4
+SNDRV_PCM_STREAM_PLAYBACK,VAR_5
+snd_pcm_lib_preallocate_pages_for_all,FUNC_0
+snd_pcm_new,FUNC_1
+snd_pcm_set_ops,FUNC_2
+snd_pmac_capture_ops,VAR_6
+snd_pmac_playback_ops,VAR_7
+strcpy,FUNC_3
+snd_pmac_pcm_new,FUNC_4
+chip,VAR_8
+pcm,VAR_9
+err,VAR_10
+num_captures,VAR_11

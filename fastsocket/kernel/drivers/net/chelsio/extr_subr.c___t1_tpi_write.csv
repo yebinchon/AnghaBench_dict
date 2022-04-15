@@ -1,0 +1,14 @@
+A_TPI_ADDR,VAR_0
+A_TPI_CSR,VAR_1
+A_TPI_WR_DATA,VAR_2
+CH_ALERT,FUNC_0
+F_TPIRDY,VAR_3
+F_TPIWR,VAR_4
+TPI_ATTEMPTS,VAR_5
+t1_wait_op_done,FUNC_1
+writel,FUNC_2
+__t1_tpi_write,FUNC_3
+adapter,VAR_6
+addr,VAR_7
+value,VAR_8
+tpi_busy,VAR_9

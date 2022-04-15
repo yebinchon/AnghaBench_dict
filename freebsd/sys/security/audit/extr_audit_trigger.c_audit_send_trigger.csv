@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+M_AUDITTRIGGER,VAR_1
+M_WAITOK,VAR_2
+TAILQ_INSERT_TAIL,FUNC_0
+audit_isopen,VAR_3
+audit_trigger_mtx,VAR_4
+free,FUNC_1
+list,VAR_5
+malloc,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+trigger_list,VAR_6
+wakeup,FUNC_5
+audit_send_trigger,FUNC_6
+trigger,VAR_7
+ti,VAR_8

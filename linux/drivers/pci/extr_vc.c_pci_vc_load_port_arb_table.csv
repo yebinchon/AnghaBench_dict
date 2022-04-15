@@ -1,0 +1,16 @@
+PCI_CAP_VC_PER_VC_SIZEOF,VAR_0
+PCI_VC_RES_CTRL,VAR_1
+PCI_VC_RES_CTRL_LOAD_TABLE,VAR_2
+PCI_VC_RES_STATUS,VAR_3
+PCI_VC_RES_STATUS_TABLE,VAR_4
+pci_err,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_wait_for_pending,FUNC_2
+pci_write_config_dword,FUNC_3
+pci_vc_load_port_arb_table,FUNC_4
+dev,VAR_5
+pos,VAR_6
+res,VAR_7
+ctrl_pos,VAR_8
+status_pos,VAR_9
+ctrl,VAR_10

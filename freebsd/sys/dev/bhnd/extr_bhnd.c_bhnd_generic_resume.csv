@@ -1,0 +1,14 @@
+BHND_DEVICE_ORDER_ATTACH,VAR_0
+BUS_RESUME_CHILD,FUNC_0
+EBUSY,VAR_1
+bhnd_bus_free_children,FUNC_1
+bhnd_bus_get_children,FUNC_2
+device_get_parent,FUNC_3
+device_is_attached,FUNC_4
+bhnd_generic_resume,FUNC_5
+dev,VAR_2
+devs,VAR_3
+ndevs,VAR_4
+error,VAR_5
+i,VAR_6
+child,VAR_7

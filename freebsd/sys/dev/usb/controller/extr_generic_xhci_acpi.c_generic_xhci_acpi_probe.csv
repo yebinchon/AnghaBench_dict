@@ -1,0 +1,10 @@
+ACPI_MATCHHID_NOMATCH,VAR_0
+BUS_PROBE_DEFAULT,VAR_1
+ENXIO,VAR_2
+XHCI_HC_DEVSTR,VAR_3
+acpi_MatchHid,FUNC_0
+acpi_get_handle,FUNC_1
+device_set_desc,FUNC_2
+generic_xhci_acpi_probe,FUNC_3
+dev,VAR_4
+h,VAR_5

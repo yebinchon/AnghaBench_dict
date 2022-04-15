@@ -1,0 +1,12 @@
+AC97_SIGMATEL_BIAS1,VAR_0
+AC97_SIGMATEL_BIAS2,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+snd_ac97_update_bits,FUNC_2
+snd_ac97_write,FUNC_3
+snd_kcontrol_chip,FUNC_4
+snd_ac97_stac9708_put_bias,FUNC_5
+kcontrol,VAR_2
+ucontrol,VAR_3
+ac97,VAR_4
+err,VAR_5

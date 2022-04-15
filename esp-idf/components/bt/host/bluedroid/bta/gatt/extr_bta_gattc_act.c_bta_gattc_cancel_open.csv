@@ -1,0 +1,11 @@
+BTA_GATTC_CANCEL_OPEN_EVT,VAR_0
+BTA_GATTC_INT_CANCEL_OPEN_OK_EVT,VAR_1
+BTA_GATT_ERROR,VAR_2
+GATT_CancelConnect,FUNC_0
+TRUE,VAR_3
+bta_gattc_sm_execute,FUNC_1
+stub1,FUNC_2
+bta_gattc_cancel_open,FUNC_3
+p_clcb,VAR_4
+p_data,VAR_5
+cb_data,VAR_6

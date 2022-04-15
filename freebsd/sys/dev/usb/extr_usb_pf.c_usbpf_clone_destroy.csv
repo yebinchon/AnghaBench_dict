@@ -1,0 +1,11 @@
+USB_BUS_LOCK,FUNC_0
+USB_BUS_UNLOCK,FUNC_1
+bpfdetach,FUNC_2
+if_detach,FUNC_3
+if_free,FUNC_4
+ifc_free_unit,FUNC_5
+usbpf_clone_destroy,FUNC_6
+ifc,VAR_0
+ifp,VAR_1
+ubus,VAR_2
+unit,VAR_3

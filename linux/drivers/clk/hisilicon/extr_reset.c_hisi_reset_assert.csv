@@ -1,0 +1,17 @@
+BIT,FUNC_0
+HISI_RESET_BIT_MASK,VAR_0
+HISI_RESET_OFFSET_MASK,VAR_1
+HISI_RESET_OFFSET_SHIFT,VAR_2
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_hisi_reset_controller,FUNC_4
+writel,FUNC_5
+hisi_reset_assert,FUNC_6
+rcdev,VAR_3
+id,VAR_4
+rstc,VAR_5
+flags,VAR_6
+offset,VAR_7
+reg,VAR_8
+bit,VAR_9

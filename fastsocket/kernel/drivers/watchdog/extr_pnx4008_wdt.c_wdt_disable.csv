@@ -1,0 +1,9 @@
+WDTIM_CTRL,FUNC_0
+__raw_writel,FUNC_1
+clk_set_rate,FUNC_2
+io_lock,VAR_0
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wdt_base,VAR_1
+wdt_clk,VAR_2
+wdt_disable,FUNC_5

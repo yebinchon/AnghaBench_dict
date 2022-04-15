@@ -1,0 +1,14 @@
+HEIMDAL_MUTEX_lock,FUNC_0
+HEIMDAL_MUTEX_unlock,FUNC_1
+HEIMDAL_getspecific,FUNC_2
+HEIMDAL_key_create,FUNC_3
+HEIMDAL_setspecific,FUNC_4
+context_key,VAR_0
+context_mutex,VAR_1
+created_key,VAR_2
+destroy_context,VAR_3
+krb5_free_context,FUNC_5
+krb5_init_context,FUNC_6
+_gsskrb5_init,FUNC_7
+context,VAR_4
+ret,VAR_5

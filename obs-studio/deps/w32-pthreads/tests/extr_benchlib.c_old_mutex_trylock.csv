@@ -1,0 +1,14 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+PTW32_OBJECT_AUTO_INIT,VAR_2
+TRUE,VAR_3
+WAIT_OBJECT_0,VAR_4
+WAIT_TIMEOUT,VAR_5
+WaitForSingleObject,FUNC_0
+ptw32_try_enter_critical_section,FUNC_1
+stub1,FUNC_2
+old_mutex_trylock,FUNC_3
+mutex,VAR_6
+result,VAR_7
+mx,VAR_8
+status,VAR_9

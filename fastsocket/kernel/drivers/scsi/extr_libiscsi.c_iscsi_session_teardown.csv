@@ -1,0 +1,10 @@
+iscsi_destroy_session,FUNC_0
+iscsi_host_dec_session_cnt,FUNC_1
+iscsi_pool_free,FUNC_2
+kfree,FUNC_3
+module_put,FUNC_4
+iscsi_session_teardown,FUNC_5
+cls_session,VAR_0
+session,VAR_1
+owner,VAR_2
+shost,VAR_3

@@ -1,0 +1,17 @@
+ARRAY_EQ_OP,VAR_0
+F_HASH_ARRAY,VAR_1
+GETSTRUCT,FUNC_0
+HeapTupleIsValid,FUNC_1
+OPEROID,VAR_2
+ObjectIdGetDatum,FUNC_2
+ReleaseSysCache,FUNC_3
+SearchSysCache1,FUNC_4
+TYPECACHE_HASH_PROC,VAR_3
+lookup_type_cache,FUNC_5
+op_hashjoinable,FUNC_6
+opno,VAR_4
+inputtype,VAR_5
+result,VAR_6
+tp,VAR_7
+typentry,VAR_8
+optup,VAR_9

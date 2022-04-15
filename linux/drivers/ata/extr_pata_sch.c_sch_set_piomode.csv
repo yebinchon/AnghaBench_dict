@@ -1,0 +1,16 @@
+ATA_DEV_ATA,VAR_0
+D0TIM,VAR_1
+D1TIM,VAR_2
+PM,VAR_3
+PPE,VAR_4
+XFER_PIO_0,VAR_5
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+to_pci_dev,FUNC_2
+sch_set_piomode,FUNC_3
+ap,VAR_6
+adev,VAR_7
+pio,VAR_8
+dev,VAR_9
+port,VAR_10
+data,VAR_11

@@ -1,0 +1,11 @@
+IGC_ETQF,FUNC_0
+IGC_ETQF_FILTER_ENABLE,VAR_0
+IGC_ETQF_QUEUE_ENABLE,VAR_1
+IGC_ETQF_QUEUE_MASK,VAR_2
+rd32,FUNC_1
+wr32,FUNC_2
+igc_clear_etype_filter_regs,FUNC_3
+adapter,VAR_3
+reg_index,VAR_4
+hw,VAR_5
+etqf,VAR_6

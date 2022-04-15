@@ -1,0 +1,12 @@
+MSR_IA32_EBL_CR_POWERON,VAR_0
+SPEEDSTEP_CPU_PIII_C_EARLY,VAR_1
+pr_debug,FUNC_0
+rdmsr,FUNC_1
+pentium3_get_frequency,FUNC_2
+processor,VAR_2
+msr_decode_mult,VAR_3
+msr_decode_fsb,VAR_4
+msr_lo,VAR_5
+msr_tmp,VAR_6
+i,VAR_7
+j,VAR_8

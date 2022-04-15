@@ -1,0 +1,16 @@
+PAGE_SIZE,VAR_0
+SDF_CMD_WRITE,VAR_1
+bytes_per_kibi,VAR_2
+comedi_get_write_subdevice,FUNC_0
+dev_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+snprintf,FUNC_4
+show_max_write_buffer_kb,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+retval,VAR_6
+info,VAR_7
+max_buffer_size_kb,VAR_8
+write_subdevice,VAR_9

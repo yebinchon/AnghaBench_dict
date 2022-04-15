@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+IG4_ATOM,VAR_1
+RF_ACTIVE,VAR_2
+RF_SHAREABLE,VAR_3
+SYS_RES_IRQ,VAR_4
+SYS_RES_MEMORY,VAR_5
+bus_alloc_resource_any,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+ig4iic_acpi_detach,FUNC_3
+ig4iic_attach,FUNC_4
+ig4iic_acpi_attach,FUNC_5
+dev,VAR_6
+sc,VAR_7
+error,VAR_8

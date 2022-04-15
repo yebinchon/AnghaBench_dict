@@ -1,0 +1,10 @@
+WM8962_BEEP_ENA,VAR_0
+WM8962_BEEP_GENERATOR_1,VAR_1
+cancel_work_sync,FUNC_0
+dev_attr_beep,VAR_2
+device_remove_file,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+snd_soc_component_update_bits,FUNC_3
+wm8962_free_beep,FUNC_4
+component,VAR_3
+wm8962,VAR_4

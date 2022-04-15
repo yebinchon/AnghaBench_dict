@@ -1,0 +1,11 @@
+DESC_NUM,VAR_0
+NETDEV_TX_BUSY,VAR_1
+NETSEC_RING_TX,VAR_2
+netif_stop_queue,FUNC_0
+netif_wake_queue,FUNC_1
+netsec_desc_used,FUNC_2
+smp_rmb,FUNC_3
+netsec_check_stop_tx,FUNC_4
+priv,VAR_3
+used,VAR_4
+dring,VAR_5

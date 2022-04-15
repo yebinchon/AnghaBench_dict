@@ -1,0 +1,14 @@
+FC_OFFLINE_MODE,VAR_0
+FC_UNLOADING,VAR_1
+LPFC_HBA_ERROR,VAR_2
+LPFC_HB_MBOX_INTERVAL,VAR_3
+jiffies,VAR_4
+mempool_free,FUNC_0
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+lpfc_hb_mbox_cmpl,FUNC_5
+phba,VAR_5
+pmboxq,VAR_6
+drvr_flag,VAR_7

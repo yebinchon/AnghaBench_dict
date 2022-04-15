@@ -1,0 +1,16 @@
+PG_dcache_clean,VAR_0
+ZERO_PAGE,FUNC_0
+__flush_dcache_aliases,FUNC_1
+__flush_dcache_page,FUNC_2
+__flush_icache_all,FUNC_3
+cache_is_vipt_nonaliasing,FUNC_4
+cache_is_vivt,FUNC_5
+cache_ops_need_broadcast,FUNC_6
+clear_bit,FUNC_7
+page_mapcount,FUNC_8
+page_mapping_file,FUNC_9
+set_bit,FUNC_10
+test_bit,FUNC_11
+flush_dcache_page,FUNC_12
+page,VAR_1
+mapping,VAR_2

@@ -1,0 +1,12 @@
+BUS_ERROR_NO_SUCH_UNIT,VAR_0
+EINVAL,VAR_1
+EIO,VAR_2
+ENOENT,VAR_3
+assert_se,FUNC_0
+sd_bus_error_add_map,FUNC_1
+sd_bus_error_set,FUNC_2
+test_errors3,VAR_4
+test_errors4,VAR_5
+test_errors_bad1,VAR_6
+test_errors_bad2,VAR_7
+test_errno_mapping_custom,FUNC_3

@@ -1,0 +1,16 @@
+FALSE,VAR_0
+KBDC_DISABLE_KBD_PORT,VAR_1
+KBDC_SET_COMMAND_BYTE,VAR_2
+KBD_DISABLE_KBD_PORT,VAR_3
+LOG_DEBUG,VAR_4
+TRUE,VAR_5
+get_controller_command_byte,FUNC_0
+kbdcp,FUNC_1
+log,FUNC_2
+verbose,VAR_6
+write_controller_command,FUNC_3
+write_controller_data,FUNC_4
+set_controller_command_byte,FUNC_5
+p,VAR_7
+mask,VAR_8
+command,VAR_9

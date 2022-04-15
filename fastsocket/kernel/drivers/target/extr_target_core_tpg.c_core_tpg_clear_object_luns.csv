@@ -1,0 +1,9 @@
+TRANSPORT_LUN_STATUS_ACTIVE,VAR_0
+TRANSPORT_MAX_LUNS_PER_TPG,VAR_1
+core_dev_del_lun,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+core_tpg_clear_object_luns,FUNC_3
+tpg,VAR_2
+i,VAR_3
+lun,VAR_4

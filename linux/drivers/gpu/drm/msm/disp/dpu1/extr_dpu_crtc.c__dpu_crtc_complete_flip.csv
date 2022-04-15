@@ -1,0 +1,12 @@
+DRMID,FUNC_0
+DRM_DEBUG_VBL,FUNC_1
+drm_crtc_send_vblank_event,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_dpu_crtc,FUNC_5
+trace_dpu_crtc_complete_flip,FUNC_6
+_dpu_crtc_complete_flip,FUNC_7
+crtc,VAR_0
+dpu_crtc,VAR_1
+dev,VAR_2
+flags,VAR_3

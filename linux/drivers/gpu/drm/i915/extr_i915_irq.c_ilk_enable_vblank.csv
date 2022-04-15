@@ -1,0 +1,16 @@
+DE_PIPE_VBLANK,FUNC_0
+DE_PIPE_VBLANK_IVB,FUNC_1
+HAS_PSR,FUNC_2
+INTEL_GEN,FUNC_3
+drm_crtc_vblank_restore,FUNC_4
+ilk_enable_display_irq,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+to_i915,FUNC_8
+to_intel_crtc,FUNC_9
+ilk_enable_vblank,FUNC_10
+crtc,VAR_0
+dev_priv,VAR_1
+pipe,VAR_2
+irqflags,VAR_3
+bit,VAR_4

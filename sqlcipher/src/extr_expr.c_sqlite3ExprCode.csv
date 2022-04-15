@@ -1,0 +1,11 @@
+OP_Copy,VAR_0
+OP_SCopy,VAR_1
+TK_REGISTER,VAR_2
+assert,FUNC_0
+sqlite3ExprCodeTarget,FUNC_1
+sqlite3VdbeAddOp2,FUNC_2
+sqlite3ExprCode,FUNC_3
+pParse,VAR_3
+pExpr,VAR_4
+target,VAR_5
+inReg,VAR_6

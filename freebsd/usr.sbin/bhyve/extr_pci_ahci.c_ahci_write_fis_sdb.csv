@@ -1,0 +1,12 @@
+ATA_S_ERROR,VAR_0
+FIS_TYPE_SETDEVBITS,VAR_1
+ahci_write_fis,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+ahci_write_fis_sdb,FUNC_3
+p,VAR_2
+slot,VAR_3
+cfis,VAR_4
+tfd,VAR_5
+fis,VAR_6
+error,VAR_7

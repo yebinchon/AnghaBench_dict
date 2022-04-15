@@ -1,0 +1,16 @@
+del_timer_sync,FUNC_0
+free_irq,FUNC_1
+gem_clean_rings,FUNC_2
+gem_disable_ints,FUNC_3
+gem_netif_stop,FUNC_4
+gem_put_cell,FUNC_5
+gem_reset,FUNC_6
+gem_stop_dma,FUNC_7
+gem_stop_phy,FUNC_8
+msleep,FUNC_9
+netdev_priv,FUNC_10
+pci_disable_device,FUNC_11
+gem_do_stop,FUNC_12
+dev,VAR_0
+wol,VAR_1
+gp,VAR_2

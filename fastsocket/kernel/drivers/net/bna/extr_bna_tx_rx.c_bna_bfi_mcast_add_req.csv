@@ -1,0 +1,12 @@
+BFI_ENET_H2I_MAC_MCAST_ADD_REQ,VAR_0
+BFI_MC_ENET,VAR_1
+bfa_msgq_cmd_post,FUNC_0
+bfa_msgq_cmd_set,FUNC_1
+bfi_msgq_mhdr_set,FUNC_2
+bfi_msgq_num_cmd_entries,FUNC_3
+htons,FUNC_4
+memcpy,FUNC_5
+bna_bfi_mcast_add_req,FUNC_6
+rxf,VAR_2
+mac,VAR_3
+req,VAR_4

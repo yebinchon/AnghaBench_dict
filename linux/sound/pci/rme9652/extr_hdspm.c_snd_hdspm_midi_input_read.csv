@@ -1,0 +1,14 @@
+HDSPM_controlRegister,VAR_0
+hdspm_write,FUNC_0
+snd_hdspm_midi_input_available,FUNC_1
+snd_hdspm_midi_output_write,FUNC_2
+snd_hdspm_midi_read_byte,FUNC_3
+snd_rawmidi_receive,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+snd_hdspm_midi_input_read,FUNC_7
+hmidi,VAR_1
+buf,VAR_2
+flags,VAR_3
+n_pending,VAR_4
+i,VAR_5

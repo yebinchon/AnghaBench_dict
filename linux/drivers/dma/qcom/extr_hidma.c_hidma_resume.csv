@@ -1,0 +1,12 @@
+dev_err,FUNC_0
+hidma_ll_enable,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_mark_last_busy,FUNC_3
+pm_runtime_put_autosuspend,FUNC_4
+to_hidma_chan,FUNC_5
+to_hidma_dev,FUNC_6
+hidma_resume,FUNC_7
+chan,VAR_0
+mchan,VAR_1
+dmadev,VAR_2
+rc,VAR_3

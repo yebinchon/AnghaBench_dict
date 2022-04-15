@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+EIOCBQUEUED,VAR_0
+__generic_file_aio_write,FUNC_1
+generic_write_sync,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+sb_end_write,FUNC_5
+sb_start_write,FUNC_6
+generic_file_aio_write,FUNC_7
+iocb,VAR_1
+iov,VAR_2
+nr_segs,VAR_3
+pos,VAR_4
+file,VAR_5
+inode,VAR_6
+ret,VAR_7
+err,VAR_8

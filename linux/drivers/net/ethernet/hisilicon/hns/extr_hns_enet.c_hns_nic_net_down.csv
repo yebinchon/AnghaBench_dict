@@ -1,0 +1,16 @@
+NIC_STATE_DOWN,VAR_0
+del_timer_sync,FUNC_0
+hns_nic_ring_close,FUNC_1
+hns_nic_tx_clr_all_bufs,FUNC_2
+netdev_priv,FUNC_3
+netif_carrier_off,FUNC_4
+netif_tx_disable,FUNC_5
+netif_tx_stop_all_queues,FUNC_6
+phy_stop,FUNC_7
+stub1,FUNC_8
+test_and_set_bit,FUNC_9
+hns_nic_net_down,FUNC_10
+ndev,VAR_1
+i,VAR_2
+ops,VAR_3
+priv,VAR_4

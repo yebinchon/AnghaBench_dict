@@ -1,0 +1,15 @@
+CAS_PHY_SERDES,VAR_0
+CAS_RESET_ALL,VAR_1
+CAS_RESET_MTU,VAR_2
+atomic_inc,FUNC_0
+atomic_set,FUNC_1
+flush_work,FUNC_2
+netdev_priv,FUNC_3
+netif_device_present,FUNC_4
+netif_running,FUNC_5
+pr_err,FUNC_6
+schedule_work,FUNC_7
+cas_change_mtu,FUNC_8
+dev,VAR_3
+new_mtu,VAR_4
+cp,VAR_5

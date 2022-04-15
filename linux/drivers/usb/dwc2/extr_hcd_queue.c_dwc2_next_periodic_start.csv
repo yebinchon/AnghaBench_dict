@@ -1,0 +1,16 @@
+DWC2_HS_SCHEDULE_UFRAMES,VAR_0
+DWC2_LS_SCHEDULE_FRAMES,VAR_1
+USB_SPEED_HIGH,VAR_2
+dwc2_frame_num_dec,FUNC_0
+dwc2_frame_num_gt,FUNC_1
+dwc2_frame_num_inc,FUNC_2
+gcd,FUNC_3
+dwc2_next_periodic_start,FUNC_4
+hsotg,VAR_3
+qh,VAR_4
+frame_number,VAR_5
+missed,VAR_6
+interval,VAR_7
+prev_frame_number,VAR_8
+ideal_start,VAR_9
+periods_in_map,VAR_10

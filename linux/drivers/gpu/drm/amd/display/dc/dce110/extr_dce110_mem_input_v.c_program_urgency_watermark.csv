@@ -1,0 +1,16 @@
+DPGV0_PIPE_URGENCY_CONTROL,VAR_0
+DPGV0_WATERMARK_MASK_CONTROL,VAR_1
+URGENCY_HIGH_WATERMARK,VAR_2
+URGENCY_LOW_WATERMARK,VAR_3
+URGENCY_WATERMARK_MASK,VAR_4
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+set_reg_field_value,FUNC_2
+program_urgency_watermark,FUNC_3
+ctx,VAR_5
+urgency_addr,VAR_6
+wm_addr,VAR_7
+marks_low,VAR_8
+total_dest_line_time_ns,VAR_9
+urgency_cntl,VAR_10
+wm_mask_cntl,VAR_11

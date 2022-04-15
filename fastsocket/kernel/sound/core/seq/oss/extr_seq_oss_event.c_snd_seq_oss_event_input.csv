@@ -1,0 +1,13 @@
+SEQ_SYNCTIMER,VAR_0
+SNDRV_SEQ_EVENT_ECHO,VAR_1
+snd_seq_oss_midi_input,FUNC_0
+snd_seq_oss_readq_put_event,FUNC_1
+snd_seq_oss_writeq_wakeup,FUNC_2
+snd_seq_oss_event_input,FUNC_3
+ev,VAR_2
+direct,VAR_3
+private_data,VAR_4
+atomic,VAR_5
+hop,VAR_6
+dp,VAR_7
+rec,VAR_8

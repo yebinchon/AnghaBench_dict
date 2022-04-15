@@ -1,0 +1,17 @@
+SCOM_CMD_REG,VAR_0
+SCOM_DATA0_REG,VAR_1
+SCOM_DATA1_REG,VAR_2
+SCOM_STATUS_REG,VAR_3
+SCOM_WRITE_CMD,VAR_4
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+fsi_device_read,FUNC_2
+fsi_device_write,FUNC_3
+__put_scom,FUNC_4
+scom_dev,VAR_5
+value,VAR_6
+addr,VAR_7
+status,VAR_8
+data,VAR_9
+raw_status,VAR_10
+rc,VAR_11

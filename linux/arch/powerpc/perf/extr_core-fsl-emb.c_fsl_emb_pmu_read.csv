@@ -1,0 +1,12 @@
+PERF_HES_STOPPED,VAR_0
+barrier,FUNC_0
+local64_add,FUNC_1
+local64_cmpxchg,FUNC_2
+local64_read,FUNC_3
+local64_sub,FUNC_4
+read_pmc,FUNC_5
+fsl_emb_pmu_read,FUNC_6
+event,VAR_1
+val,VAR_2
+delta,VAR_3
+prev,VAR_4

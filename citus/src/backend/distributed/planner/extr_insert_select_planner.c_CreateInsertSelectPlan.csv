@@ -1,0 +1,12 @@
+CreateCoordinatorInsertSelectPlan,FUNC_0
+CreateDistributedInsertSelectPlan,FUNC_1
+DEBUG1,VAR_0
+ERROR,VAR_1
+ErrorIfOnConflictNotSupported,FUNC_2
+RaiseDeferredError,FUNC_3
+CreateInsertSelectPlan,FUNC_4
+planId,VAR_2
+originalQuery,VAR_3
+plannerRestrictionContext,VAR_4
+distributedPlan,VAR_5
+deferredError,VAR_6

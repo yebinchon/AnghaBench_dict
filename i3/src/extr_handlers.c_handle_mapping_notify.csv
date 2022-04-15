@@ -1,0 +1,14 @@
+DLOG,FUNC_0
+XCB_MAPPING_KEYBOARD,VAR_0
+XCB_MAPPING_MODIFIER,VAR_1
+XCB_NUM_LOCK,VAR_2
+aio_get_mod_mask_for,FUNC_1
+conn,VAR_3
+grab_all_keys,FUNC_2
+keysyms,VAR_4
+translate_keysyms,FUNC_3
+ungrab_all_keys,FUNC_4
+xcb_numlock_mask,VAR_5
+xcb_refresh_keyboard_mapping,FUNC_5
+handle_mapping_notify,FUNC_6
+event,VAR_6

@@ -1,0 +1,16 @@
+AD1816A_CAPTURE_IRQ_PENDING,VAR_0
+AD1816A_INTERRUPT_STATUS,VAR_1
+AD1816A_PLAYBACK_IRQ_PENDING,VAR_2
+AD1816A_TIMER_IRQ_PENDING,VAR_3
+IRQ_HANDLED,VAR_4
+snd_ad1816a_in,FUNC_0
+snd_ad1816a_out,FUNC_1
+snd_pcm_period_elapsed,FUNC_2
+snd_timer_interrupt,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+snd_ad1816a_interrupt,FUNC_6
+irq,VAR_5
+dev_id,VAR_6
+chip,VAR_7
+status,VAR_8

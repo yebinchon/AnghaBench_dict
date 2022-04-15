@@ -1,0 +1,15 @@
+EDAC_PCI,VAR_0
+KERN_INFO,VAR_1
+OP_OFFLINE,VAR_2
+del_edac_pci_from_global_list,FUNC_0
+edac_dbg,FUNC_1
+edac_dev_name,FUNC_2
+edac_pci_ctls_mutex,VAR_3
+edac_printk,FUNC_3
+edac_stop_work,FUNC_4
+find_edac_pci_by_dev,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+edac_pci_del_device,FUNC_8
+dev,VAR_4
+pci,VAR_5

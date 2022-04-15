@@ -1,0 +1,13 @@
+KVM_MEMSLOT_GEN_UPDATE_IN_PROGRESS,VAR_0
+MMIO_SPTE_GEN_MASK,VAR_1
+get_mmio_spte_generation,FUNC_0
+kvm_vcpu_memslots,FUNC_1
+likely,FUNC_2
+trace_check_mmio_spte,FUNC_3
+unlikely,FUNC_4
+check_mmio_spte,FUNC_5
+vcpu,VAR_2
+spte,VAR_3
+kvm_gen,VAR_4
+spte_gen,VAR_5
+gen,VAR_6

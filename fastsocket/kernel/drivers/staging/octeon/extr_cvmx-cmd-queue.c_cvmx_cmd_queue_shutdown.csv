@@ -1,0 +1,13 @@
+CVMX_CMD_QUEUE_FULL,VAR_0
+CVMX_CMD_QUEUE_INVALID_PARAM,VAR_1
+CVMX_CMD_QUEUE_SUCCESS,VAR_2
+__cvmx_cmd_queue_get_state,FUNC_0
+__cvmx_cmd_queue_lock,FUNC_1
+__cvmx_cmd_queue_unlock,FUNC_2
+cvmx_cmd_queue_length,FUNC_3
+cvmx_dprintf,FUNC_4
+cvmx_fpa_free,FUNC_5
+cvmx_phys_to_ptr,FUNC_6
+cvmx_cmd_queue_shutdown,FUNC_7
+queue_id,VAR_3
+qptr,VAR_4

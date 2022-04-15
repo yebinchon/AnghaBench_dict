@@ -1,0 +1,17 @@
+CAM_REQUEUE_REQ,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_STATUS_MASK,VAR_2
+M_AHCI,VAR_3
+TRUE,VAR_4
+XPT_ATA_IO,VAR_5
+ahci_done,FUNC_0
+device_printf,FUNC_1
+free,FUNC_2
+xpt_free_ccb,FUNC_3
+xpt_release_simq,FUNC_4
+ahci_process_read_log,FUNC_5
+ch,VAR_6
+ccb,VAR_7
+data,VAR_8
+res,VAR_9
+i,VAR_10

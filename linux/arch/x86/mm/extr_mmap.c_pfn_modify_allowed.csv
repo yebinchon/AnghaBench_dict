@@ -1,0 +1,11 @@
+CAP_SYS_ADMIN,VAR_0
+X86_BUG_L1TF,VAR_1
+__pte_needs_invert,FUNC_0
+boot_cpu_has_bug,FUNC_1
+capable,FUNC_2
+l1tf_pfn_limit,FUNC_3
+pfn_valid,FUNC_4
+pgprot_val,FUNC_5
+pfn_modify_allowed,FUNC_6
+pfn,VAR_2
+prot,VAR_3

@@ -1,0 +1,12 @@
+BGX_XCAST_MCAST_FILTER,VAR_0
+NIC_MBOX_MSG_ADD_MCAST,VAR_1
+NIC_MBOX_MSG_RESET_XCAST,VAR_2
+NIC_MBOX_MSG_SET_XCAST,VAR_3
+kfree,FUNC_0
+nicvf_send_msg_to_pf,FUNC_1
+__nicvf_set_rx_mode_task,FUNC_2
+mode,VAR_4
+mc_addrs,VAR_5
+nic,VAR_6
+mbx,VAR_7
+idx,VAR_8

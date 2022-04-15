@@ -1,0 +1,15 @@
+IRQ_EXIT_OFFSET,VAR_0
+account_system_vtime,FUNC_0
+current,VAR_1
+idle_cpu,FUNC_1
+in_interrupt,FUNC_2
+invoke_softirq,FUNC_3
+local_softirq_pending,FUNC_4
+need_resched,FUNC_5
+preempt_enable_no_resched,FUNC_6
+rcu_irq_exit,FUNC_7
+smp_processor_id,FUNC_8
+sub_preempt_count,FUNC_9
+tick_nohz_stop_sched_tick,FUNC_10
+trace_hardirq_exit,FUNC_11
+irq_exit,FUNC_12

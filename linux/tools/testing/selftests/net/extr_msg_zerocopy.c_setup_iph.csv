@@ -1,0 +1,11 @@
+IPPROTO_EGP,VAR_0
+cfg_dst_addr,VAR_1
+cfg_src_addr,VAR_2
+get_ip_csum,FUNC_0
+htons,FUNC_1
+memset,FUNC_2
+setup_iph,FUNC_3
+iph,VAR_3
+payload_len,VAR_4
+daddr,VAR_5
+saddr,VAR_6

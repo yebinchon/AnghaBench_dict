@@ -1,0 +1,16 @@
+RTC_NR_TIME,VAR_0
+RX6110_BIT_CTRL_STOP,VAR_1
+RX6110_BIT_FLAG_VLF,VAR_2
+RX6110_REG_CTRL,VAR_3
+RX6110_REG_FLAG,VAR_4
+RX6110_REG_SEC,VAR_5
+dev_get_drvdata,FUNC_0
+regmap_bulk_write,FUNC_1
+regmap_update_bits,FUNC_2
+rx6110_rtc_tm_to_data,FUNC_3
+rx6110_set_time,FUNC_4
+dev,VAR_6
+tm,VAR_7
+rx6110,VAR_8
+data,VAR_9
+ret,VAR_10

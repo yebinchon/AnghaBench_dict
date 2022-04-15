@@ -1,0 +1,12 @@
+irq_data_get_irq_chip_data,FUNC_0
+irq_find_mapping,FUNC_1
+irq_get_irq_data,FUNC_2
+readl_relaxed,FUNC_3
+writel_relaxed,FUNC_4
+s3c_irq_unmask,FUNC_5
+data,VAR_0
+irq_data,VAR_1
+intc,VAR_2
+parent_intc,VAR_3
+mask,VAR_4
+irqno,VAR_5

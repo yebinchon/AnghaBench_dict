@@ -1,0 +1,17 @@
+SCTP_ENABLE_CHANGE_ASSOC_REQ,VAR_0
+SCTP_STREAM_RESET_RESULT_DENIED,VAR_1
+SCTP_STREAM_RESET_RESULT_ERR_BAD_SEQNO,VAR_2
+SCTP_STREAM_RESET_RESULT_ERR_IN_PROGRESS,VAR_3
+SCTP_STREAM_RESET_RESULT_PERFORMED,VAR_4
+ntohl,FUNC_0
+ntohs,FUNC_1
+sctp_add_stream_reset_result,FUNC_2
+sctp_send_str_reset_req,FUNC_3
+sctp_handle_str_reset_add_out_strm,FUNC_4
+stcb,VAR_5
+chk,VAR_6
+str_add,VAR_7
+num_stream,VAR_8
+seq,VAR_9
+asoc,VAR_10
+mychk,VAR_11

@@ -1,0 +1,16 @@
+AC_JACK_HP_OUT,VAR_0
+AC_PINCTL_VREF_80,VAR_1
+ARRAY_SIZE,FUNC_0
+HDA_FIXUP_ACT_INIT,VAR_2
+get_defcfg_device,FUNC_1
+snd_hda_codec_get_pin_target,FUNC_2
+snd_hda_codec_get_pincfg,FUNC_3
+snd_hda_set_pin_ctl,FUNC_4
+alc889_fixup_mbp_vref,FUNC_5
+codec,VAR_3
+fix,VAR_4
+action,VAR_5
+spec,VAR_6
+nids,VAR_7
+i,VAR_8
+val,VAR_9

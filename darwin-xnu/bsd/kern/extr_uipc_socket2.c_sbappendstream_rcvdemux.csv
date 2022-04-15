@@ -1,0 +1,15 @@
+M_PKTHDR,VAR_0
+PKTF_MPTCP_DFIN,VAR_1
+SOF_ENABLE_MSGS,VAR_2
+SOF_MP_SUBFLOW,VAR_3
+m_freem,FUNC_0
+m_pktlen,FUNC_1
+sbappendmptcpstream_rcv,FUNC_2
+sbappendmsgstream_rcv,FUNC_3
+sbappendstream,FUNC_4
+sbappendstream_rcvdemux,FUNC_5
+so,VAR_4
+m,VAR_5
+seqnum,VAR_6
+unordered,VAR_7
+ret,VAR_8

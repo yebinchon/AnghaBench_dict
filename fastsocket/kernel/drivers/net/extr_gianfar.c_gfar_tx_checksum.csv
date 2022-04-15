@@ -1,0 +1,13 @@
+GMAC_FCB_LEN,VAR_0
+IPPROTO_UDP,VAR_1
+TXFCB_DEFAULT,VAR_2
+TXFCB_UDP,VAR_3
+ip_hdr,FUNC_0
+skb_network_header_len,FUNC_1
+skb_network_offset,FUNC_2
+tcp_hdr,FUNC_3
+udp_hdr,FUNC_4
+gfar_tx_checksum,FUNC_5
+skb,VAR_4
+fcb,VAR_5
+flags,VAR_6

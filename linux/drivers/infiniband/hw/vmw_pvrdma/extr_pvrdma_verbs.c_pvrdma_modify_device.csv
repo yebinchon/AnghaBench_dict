@@ -1,0 +1,16 @@
+EOPNOTSUPP,VAR_0
+IB_DEVICE_MODIFY_NODE_DESC,VAR_1
+IB_DEVICE_MODIFY_SYS_IMAGE_GUID,VAR_2
+cpu_to_be64,FUNC_0
+dev_warn,FUNC_1
+memcpy,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+to_vdev,FUNC_7
+pvrdma_modify_device,FUNC_8
+ibdev,VAR_3
+mask,VAR_4
+props,VAR_5
+flags,VAR_6

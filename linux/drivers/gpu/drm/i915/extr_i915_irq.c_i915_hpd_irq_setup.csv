@@ -1,0 +1,12 @@
+CRT_HOTPLUG_ACTIVATION_PERIOD_64,VAR_0
+CRT_HOTPLUG_VOLTAGE_COMPARE_50,VAR_1
+CRT_HOTPLUG_VOLTAGE_COMPARE_MASK,VAR_2
+HOTPLUG_INT_EN_MASK,VAR_3
+IS_G4X,FUNC_0
+hpd_mask_i915,VAR_4
+i915_hotplug_interrupt_update_locked,FUNC_1
+intel_hpd_enabled_irqs,FUNC_2
+lockdep_assert_held,FUNC_3
+i915_hpd_irq_setup,FUNC_4
+dev_priv,VAR_5
+hotplug_en,VAR_6

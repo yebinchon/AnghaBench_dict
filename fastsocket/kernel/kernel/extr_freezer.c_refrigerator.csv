@@ -1,0 +1,17 @@
+PF_FREEZING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__set_current_state,FUNC_0
+current,VAR_2
+freezing,FUNC_1
+frozen,FUNC_2
+frozen_process,FUNC_3
+pr_debug,FUNC_4
+recalc_sigpending,FUNC_5
+schedule,FUNC_6
+set_current_state,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+task_lock,FUNC_10
+task_unlock,FUNC_11
+refrigerator,FUNC_12
+save,VAR_3

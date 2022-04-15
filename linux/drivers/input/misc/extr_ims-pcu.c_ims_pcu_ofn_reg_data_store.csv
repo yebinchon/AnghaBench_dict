@@ -1,0 +1,15 @@
+ims_pcu_write_ofn_config,FUNC_0
+kstrtou8,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_usb_interface,FUNC_4
+usb_get_intfdata,FUNC_5
+ims_pcu_ofn_reg_data_store,FUNC_6
+dev,VAR_0
+dattr,VAR_1
+buf,VAR_2
+count,VAR_3
+intf,VAR_4
+pcu,VAR_5
+error,VAR_6
+value,VAR_7

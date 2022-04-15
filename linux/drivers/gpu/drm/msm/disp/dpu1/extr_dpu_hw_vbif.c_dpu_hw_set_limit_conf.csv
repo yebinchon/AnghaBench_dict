@@ -1,0 +1,13 @@
+DPU_REG_READ,FUNC_0
+DPU_REG_WRITE,FUNC_1
+VBIF_IN_RD_LIM_CONF0,VAR_0
+VBIF_IN_WR_LIM_CONF0,VAR_1
+dpu_hw_set_limit_conf,FUNC_2
+vbif,VAR_2
+xin_id,VAR_3
+rd,VAR_4
+limit,VAR_5
+c,VAR_6
+reg_val,VAR_7
+reg_off,VAR_8
+bit_off,VAR_9

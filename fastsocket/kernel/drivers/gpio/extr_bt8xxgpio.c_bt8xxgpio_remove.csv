@@ -1,0 +1,16 @@
+BT848_GPIO_OUT_EN,VAR_0
+BT848_INT_MASK,VAR_1
+BT848_INT_STAT,VAR_2
+bgwrite,FUNC_0
+gpiochip_remove,FUNC_1
+iounmap,FUNC_2
+kfree,FUNC_3
+pci_disable_device,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_resource_len,FUNC_6
+pci_resource_start,FUNC_7
+pci_set_drvdata,FUNC_8
+release_mem_region,FUNC_9
+bt8xxgpio_remove,FUNC_10
+pdev,VAR_3
+bg,VAR_4

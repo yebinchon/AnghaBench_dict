@@ -1,0 +1,11 @@
+PBC_INTMASK_SET_REG,VAR_0
+PBC_INTSTATUS_REG,VAR_1
+domain,VAR_2
+generic_handle_irq,FUNC_0
+imx_readw,FUNC_1
+irq_find_mapping,FUNC_2
+mx31ads_expio_irq_handler,FUNC_3
+desc,VAR_3
+imr_val,VAR_4
+int_valid,VAR_5
+expio_irq,VAR_6

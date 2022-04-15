@@ -1,0 +1,9 @@
+OMX_CommandPortDisable,VAR_0
+OMX_ErrorNone,VAR_1
+OMX_SendCommand,FUNC_0
+ilclient_wait_for_command_complete,FUNC_1
+vc_assert,FUNC_2
+ilclient_disable_port,FUNC_3
+comp,VAR_2
+portIndex,VAR_3
+error,VAR_4

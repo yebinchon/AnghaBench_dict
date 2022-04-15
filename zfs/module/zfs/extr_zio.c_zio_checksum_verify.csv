@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+ECKSUM,VAR_0
+ZIO_CHECKSUM_LABEL,VAR_1
+ZIO_CHECKSUM_OFF,VAR_2
+ZIO_FLAG_SPECULATIVE,VAR_3
+mutex_enter,FUNC_1
+mutex_exit,FUNC_2
+zfs_ereport_start_checksum,FUNC_3
+zio_checksum_error,FUNC_4
+zio_checksum_verify,FUNC_5
+zio,VAR_4
+info,VAR_5
+bp,VAR_6
+error,VAR_7

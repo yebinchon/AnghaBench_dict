@@ -1,0 +1,11 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+TWS_DIR_IN,VAR_2
+TWS_DIR_OUT,VAR_3
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+tws_unmap_request,FUNC_4
+sc,VAR_4
+req,VAR_5

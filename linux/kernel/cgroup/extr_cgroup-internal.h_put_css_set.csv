@@ -1,0 +1,8 @@
+css_set_lock,VAR_0
+put_css_set_locked,FUNC_0
+refcount_dec_not_one,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+put_css_set,FUNC_4
+cset,VAR_1
+flags,VAR_2

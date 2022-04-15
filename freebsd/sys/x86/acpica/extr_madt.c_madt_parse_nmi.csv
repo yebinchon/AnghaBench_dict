@@ -1,0 +1,13 @@
+ACPI_MADT_POLARITY_CONFORMS,VAR_0
+ACPI_MADT_TRIGGER_CONFORMS,VAR_1
+interrupt_polarity,FUNC_0
+interrupt_trigger,FUNC_1
+ioapic_set_nmi,FUNC_2
+ioapic_set_polarity,FUNC_3
+ioapic_set_triggermode,FUNC_4
+madt_find_interrupt,FUNC_5
+printf,FUNC_6
+madt_parse_nmi,FUNC_7
+nmi,VAR_2
+ioapic,VAR_3
+pin,VAR_4

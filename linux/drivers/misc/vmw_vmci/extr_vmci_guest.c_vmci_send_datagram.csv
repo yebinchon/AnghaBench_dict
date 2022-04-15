@@ -1,0 +1,15 @@
+VMCI_DATA_OUT_ADDR,VAR_0
+VMCI_DG_SIZE,FUNC_0
+VMCI_ERROR_INVALID_ARGS,VAR_1
+VMCI_ERROR_UNAVAILABLE,VAR_2
+VMCI_RESULT_LOW_ADDR,VAR_3
+ioread32,FUNC_1
+iowrite8_rep,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+vmci_dev_g,VAR_4
+vmci_dev_spinlock,VAR_5
+vmci_send_datagram,FUNC_5
+dg,VAR_6
+flags,VAR_7
+result,VAR_8

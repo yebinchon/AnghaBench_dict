@@ -1,0 +1,17 @@
+BMP_PALETTE_4,VAR_0
+bmp_read_palette,FUNC_0
+bmp_read_rle,FUNC_1
+gdGetByte,FUNC_2
+gdImageSetPixel,FUNC_3
+gdSeek,FUNC_4
+gdTell,FUNC_5
+bmp_read_8bit,FUNC_6
+im,VAR_1
+infile,VAR_2
+info,VAR_3
+header,VAR_4
+ypos,VAR_5
+xpos,VAR_6
+row,VAR_7
+index,VAR_8
+padding,VAR_9

@@ -1,0 +1,13 @@
+CRB_CTRL_STS_ERROR,VAR_0
+EIO,VAR_1
+TPM_HEADER_SIZE,VAR_2
+be32_to_cpup,FUNC_0
+dev_get_drvdata,FUNC_1
+ioread32,FUNC_2
+memcpy_fromio,FUNC_3
+crb_recv,FUNC_4
+chip,VAR_3
+buf,VAR_4
+count,VAR_5
+priv,VAR_6
+expected,VAR_7

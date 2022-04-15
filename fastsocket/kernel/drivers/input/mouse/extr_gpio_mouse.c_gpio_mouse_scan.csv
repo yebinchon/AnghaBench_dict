@@ -1,0 +1,15 @@
+BTN_LEFT,VAR_0
+BTN_MIDDLE,VAR_1
+BTN_RIGHT,VAR_2
+REL_X,VAR_3
+REL_Y,VAR_4
+gpio_get_value,FUNC_0
+input_report_key,FUNC_1
+input_report_rel,FUNC_2
+input_sync,FUNC_3
+gpio_mouse_scan,FUNC_4
+dev,VAR_5
+gpio,VAR_6
+input,VAR_7
+x,VAR_8
+y,VAR_9

@@ -1,0 +1,14 @@
+F71882FG_REG_IN1_HIGH,VAR_0
+SENSORS_LIMIT,FUNC_0
+dev_get_drvdata,FUNC_1
+f71882fg_write8,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtol,FUNC_5
+store_in_max,FUNC_6
+dev,VAR_1
+devattr,VAR_2
+buf,VAR_3
+count,VAR_4
+data,VAR_5
+val,VAR_6

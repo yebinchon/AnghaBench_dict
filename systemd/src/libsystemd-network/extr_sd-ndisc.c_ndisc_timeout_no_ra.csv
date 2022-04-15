@@ -1,0 +1,10 @@
+SD_NDISC_EVENT_TIMEOUT,VAR_0
+assert,FUNC_0
+event_source_disable,FUNC_1
+log_ndisc,FUNC_2
+ndisc_callback,FUNC_3
+ndisc_timeout_no_ra,FUNC_4
+s,VAR_1
+usec,VAR_2
+userdata,VAR_3
+nd,VAR_4

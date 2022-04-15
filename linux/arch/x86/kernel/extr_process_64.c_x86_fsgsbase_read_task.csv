@@ -1,0 +1,14 @@
+GDT_ENTRIES,VAR_0
+GDT_ENTRY_TLS_MAX,VAR_1
+GDT_ENTRY_TLS_MIN,VAR_2
+SEGMENT_TI_MASK,VAR_3
+get_desc_base,FUNC_0
+likely,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+unlikely,FUNC_4
+x86_fsgsbase_read_task,FUNC_5
+task,VAR_4
+selector,VAR_5
+idx,VAR_6
+base,VAR_7

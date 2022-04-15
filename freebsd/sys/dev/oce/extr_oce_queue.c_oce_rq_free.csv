@@ -1,0 +1,13 @@
+LOCK_DESTROY,FUNC_0
+M_DEVBUF,VAR_0
+OCE_RQ_PACKET_ARRAY_SIZE,VAR_1
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_destroy,FUNC_2
+bus_dmamap_unload,FUNC_3
+free,FUNC_4
+m_free,FUNC_5
+oce_destroy_ring_buffer,FUNC_6
+oce_rq_free,FUNC_7
+rq,VAR_2
+sc,VAR_3
+i,VAR_4

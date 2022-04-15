@@ -1,0 +1,13 @@
+clk_disable_unprepare,FUNC_0
+hcd_to_ehci,FUNC_1
+otg_set_host,FUNC_2
+platform_get_drvdata,FUNC_3
+reset_control_assert,FUNC_4
+udelay,FUNC_5
+usb_phy_shutdown,FUNC_6
+usb_put_hcd,FUNC_7
+usb_remove_hcd,FUNC_8
+tegra_ehci_remove,FUNC_9
+pdev,VAR_0
+hcd,VAR_1
+tegra,VAR_2

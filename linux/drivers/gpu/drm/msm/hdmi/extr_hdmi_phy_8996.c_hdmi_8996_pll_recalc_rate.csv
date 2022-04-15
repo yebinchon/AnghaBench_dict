@@ -1,0 +1,16 @@
+REG_HDMI_PHY_QSERDES_COM_LOCK_CMP1_MODE0,VAR_0
+REG_HDMI_PHY_QSERDES_COM_LOCK_CMP2_MODE0,VAR_1
+REG_HDMI_PHY_QSERDES_COM_LOCK_CMP3_MODE0,VAR_2
+do_div,FUNC_0
+hdmi_pll_read,FUNC_1
+hw_clk_to_pll,FUNC_2
+pll_cmp_to_fdata,FUNC_3
+hdmi_8996_pll_recalc_rate,FUNC_4
+hw,VAR_3
+parent_rate,VAR_4
+pll,VAR_5
+fdata,VAR_6
+cmp1,VAR_7
+cmp2,VAR_8
+cmp3,VAR_9
+pll_cmp,VAR_10

@@ -1,0 +1,8 @@
+HDEX_MIDI_IN_STOP,VAR_0
+MSNDMIDI_MODE_BIT_INPUT,VAR_1
+clear_bit,FUNC_0
+snd_msnd_disable_irq,FUNC_1
+snd_msnd_send_dsp_cmd,FUNC_2
+snd_msndmidi_input_close,FUNC_3
+substream,VAR_2
+mpu,VAR_3

@@ -1,0 +1,13 @@
+ATTR_SIZE,VAR_0
+NFS4_OPEN_CLAIM_DELEG_CUR_FH,VAR_1
+NFSD_MAY_OWNER_OVERRIDE,VAR_2
+do_open_permission,FUNC_0
+memset,FUNC_1
+nfsd4_set_open_owner_reply_cache,FUNC_2
+do_open_fhandle,FUNC_3
+rqstp,VAR_3
+cstate,VAR_4
+open,VAR_5
+current_fh,VAR_6
+status,VAR_7
+accmode,VAR_8

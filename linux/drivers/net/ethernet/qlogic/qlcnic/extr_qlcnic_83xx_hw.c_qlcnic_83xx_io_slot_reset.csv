@@ -1,0 +1,17 @@
+PCI_D0,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_RECOVERED,VAR_2
+__QLCNIC_AER,VAR_3
+__QLCNIC_RESETTING,VAR_4
+clear_bit,FUNC_0
+pci_channel_io_normal,VAR_5
+pci_enable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_restore_state,FUNC_3
+pci_set_master,FUNC_4
+pci_set_power_state,FUNC_5
+qlcnic_83xx_aer_reset,FUNC_6
+qlcnic_83xx_io_slot_reset,FUNC_7
+pdev,VAR_6
+adapter,VAR_7
+err,VAR_8

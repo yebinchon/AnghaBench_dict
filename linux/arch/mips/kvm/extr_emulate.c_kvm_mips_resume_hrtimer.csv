@@ -1,0 +1,15 @@
+HRTIMER_MODE_ABS,VAR_0
+NSEC_PER_SEC,VAR_1
+div_u64,FUNC_0
+hrtimer_cancel,FUNC_1
+hrtimer_start,FUNC_2
+ktime_add_ns,FUNC_3
+kvm_read_c0_guest_compare,FUNC_4
+kvm_mips_resume_hrtimer,FUNC_5
+vcpu,VAR_2
+now,VAR_3
+count,VAR_4
+cop0,VAR_5
+compare,VAR_6
+delta,VAR_7
+expire,VAR_8

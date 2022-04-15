@@ -1,0 +1,10 @@
+RTL8366S_LED_0_1_FORCE_REG,VAR_0
+RTL8366S_LED_2_3_FORCE_REG,VAR_1
+printf,FUNC_0
+rtl8366_writeRegister,FUNC_1
+rtl8366s_setLedForceValue,FUNC_2
+group0,VAR_2
+group1,VAR_3
+group2,VAR_4
+group3,VAR_5
+regData,VAR_6

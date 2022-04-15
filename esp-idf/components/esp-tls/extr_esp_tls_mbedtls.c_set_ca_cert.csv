@@ -1,0 +1,17 @@
+ERR_TYPE_MBEDTLS,VAR_0
+ESP_ERR_MBEDTLS_X509_CRT_PARSE_FAILED,VAR_1
+ESP_INT_EVENT_TRACKER_CAPTURE,FUNC_0
+ESP_LOGE,FUNC_1
+ESP_OK,VAR_2
+MBEDTLS_SSL_VERIFY_REQUIRED,VAR_3
+TAG,VAR_4
+assert,FUNC_2
+mbedtls_ssl_conf_authmode,FUNC_3
+mbedtls_ssl_conf_ca_chain,FUNC_4
+mbedtls_x509_crt_init,FUNC_5
+mbedtls_x509_crt_parse,FUNC_6
+set_ca_cert,FUNC_7
+tls,VAR_5
+cacert,VAR_6
+cacert_len,VAR_7
+ret,VAR_8

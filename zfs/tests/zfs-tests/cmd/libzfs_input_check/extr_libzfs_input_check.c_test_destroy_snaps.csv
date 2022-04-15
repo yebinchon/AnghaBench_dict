@@ -1,0 +1,11 @@
+IOC_INPUT_TEST,FUNC_0
+ZFS_IOC_DESTROY_SNAPS,VAR_0
+fnvlist_add_boolean,FUNC_1
+fnvlist_add_nvlist,FUNC_2
+fnvlist_alloc,FUNC_3
+nvlist_free,FUNC_4
+test_destroy_snaps,FUNC_5
+pool,VAR_1
+snapshot,VAR_2
+required,VAR_3
+snaps,VAR_4

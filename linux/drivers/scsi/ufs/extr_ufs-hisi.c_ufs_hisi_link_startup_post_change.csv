@@ -1,0 +1,11 @@
+CLOCK_GATE_BYPASS,VAR_0
+MASK_UFS_CLK_GATE_BYPASS,VAR_1
+MASK_UFS_SYSCRTL_BYPASS,VAR_2
+UFS_SYSCTRL,VAR_3
+UIC_ARG_MIB,FUNC_0
+ufs_sys_ctrl_clr_bits,FUNC_1
+ufshcd_dme_set,FUNC_2
+ufshcd_get_variant,FUNC_3
+ufs_hisi_link_startup_post_change,FUNC_4
+hba,VAR_4
+host,VAR_5

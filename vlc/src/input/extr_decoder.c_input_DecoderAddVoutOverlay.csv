@@ -1,0 +1,16 @@
+VIDEO_ES,VAR_0
+VLC_EGENERIC,VAR_1
+VLC_SUCCESS,VAR_2
+assert,FUNC_0
+dec_get_owner,FUNC_1
+vlc_mutex_lock,FUNC_2
+vlc_mutex_unlock,FUNC_3
+vlc_tick_now,FUNC_4
+vout_PutSubpicture,FUNC_5
+vout_RegisterSubpictureChannel,FUNC_6
+input_DecoderAddVoutOverlay,FUNC_7
+dec,VAR_3
+sub,VAR_4
+channel,VAR_5
+owner,VAR_6
+channel_id,VAR_7

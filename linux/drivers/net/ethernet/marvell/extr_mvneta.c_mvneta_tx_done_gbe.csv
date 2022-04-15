@@ -1,0 +1,12 @@
+__netif_tx_lock,FUNC_0
+__netif_tx_unlock,FUNC_1
+mvneta_tx_done_policy,FUNC_2
+mvneta_txq_done,FUNC_3
+netdev_get_tx_queue,FUNC_4
+smp_processor_id,FUNC_5
+mvneta_tx_done_gbe,FUNC_6
+pp,VAR_0
+cause_tx_done,VAR_1
+txq,VAR_2
+nq,VAR_3
+cpu,VAR_4

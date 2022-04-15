@@ -1,0 +1,12 @@
+MTK_GPIO_LOCK_DESTROY,FUNC_0
+OF_xref_from_node,FUNC_1
+bus_release_resources,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+intr_pic_deregister,FUNC_5
+mtk_gpio_spec,VAR_0
+ofw_bus_get_node,FUNC_6
+mtk_gpio_detach,FUNC_7
+dev,VAR_1
+sc,VAR_2
+node,VAR_3

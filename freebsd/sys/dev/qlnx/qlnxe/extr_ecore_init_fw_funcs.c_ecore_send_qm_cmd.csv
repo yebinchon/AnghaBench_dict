@@ -1,0 +1,12 @@
+QM_REG_SDMCMDADDR,VAR_0
+QM_REG_SDMCMDDATALSB,VAR_1
+QM_REG_SDMCMDDATAMSB,VAR_2
+QM_REG_SDMCMDGO,VAR_3
+ecore_poll_on_qm_cmd_ready,FUNC_0
+ecore_wr,FUNC_1
+ecore_send_qm_cmd,FUNC_2
+p_hwfn,VAR_4
+p_ptt,VAR_5
+cmd_addr,VAR_6
+cmd_data_lsb,VAR_7
+cmd_data_msb,VAR_8

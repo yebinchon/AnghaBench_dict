@@ -1,0 +1,11 @@
+AER_CORRECTABLE,VAR_0
+PCI_ERR_COR_STATUS,VAR_1
+PCI_EXT_CAP_ID_ERR,VAR_2
+do_recovery,FUNC_0
+pci_find_ext_capability,FUNC_1
+pci_write_config_dword,FUNC_2
+handle_error_source,FUNC_3
+aerdev,VAR_3
+dev,VAR_4
+info,VAR_5
+pos,VAR_6

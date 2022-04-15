@@ -1,0 +1,10 @@
+SI1133_IRQ_CHANNEL_ENABLE,VAR_0
+SI1133_REG_IRQ_ENABLE,VAR_1
+SI1133_REG_MEAS_RATE,VAR_2
+regmap_write,FUNC_0
+si1133_cmd_reset_sw,FUNC_1
+si1133_init_lux_channels,FUNC_2
+si1133_param_set,FUNC_3
+si1133_initialize,FUNC_4
+data,VAR_3
+err,VAR_4

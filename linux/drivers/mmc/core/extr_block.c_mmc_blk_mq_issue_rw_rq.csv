@@ -1,0 +1,17 @@
+mmc_blk_mq_post_req,FUNC_0
+mmc_blk_mq_req_done,VAR_0
+mmc_blk_rw_rq_prep,FUNC_1
+mmc_blk_rw_wait,FUNC_2
+mmc_host_done_complete,FUNC_3
+mmc_post_req,FUNC_4
+mmc_pre_req,FUNC_5
+mmc_retune_release,FUNC_6
+mmc_start_request,FUNC_7
+req_to_mmc_queue_req,FUNC_8
+mmc_blk_mq_issue_rw_rq,FUNC_9
+mq,VAR_1
+req,VAR_2
+mqrq,VAR_3
+host,VAR_4
+prev_req,VAR_5
+err,VAR_6

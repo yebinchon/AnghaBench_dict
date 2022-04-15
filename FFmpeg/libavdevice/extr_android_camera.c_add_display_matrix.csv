@@ -1,0 +1,14 @@
+ACAMERA_LENS_FACING_FRONT,VAR_0
+AVERROR,FUNC_0
+AV_PKT_DATA_DISPLAYMATRIX,VAR_1
+ENOMEM,VAR_2
+av_display_matrix_flip,FUNC_1
+av_display_rotation_set,FUNC_2
+av_stream_new_side_data,FUNC_3
+memcpy,FUNC_4
+add_display_matrix,FUNC_5
+avctx,VAR_3
+st,VAR_4
+ctx,VAR_5
+side_data,VAR_6
+display_matrix,VAR_7

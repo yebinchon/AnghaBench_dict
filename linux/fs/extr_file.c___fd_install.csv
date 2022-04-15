@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+files_fdtable,FUNC_1
+rcu_assign_pointer,FUNC_2
+rcu_dereference_sched,FUNC_3
+rcu_read_lock_sched,FUNC_4
+rcu_read_unlock_sched,FUNC_5
+smp_rmb,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+unlikely,FUNC_9
+__fd_install,FUNC_10
+files,VAR_0
+fd,VAR_1
+file,VAR_2
+fdt,VAR_3

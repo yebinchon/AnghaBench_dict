@@ -1,0 +1,9 @@
+PI_PDQ_K_REG_PORT_STATUS,VAR_0
+PI_PSTATUS_M_HALT_ID,VAR_1
+PI_PSTATUS_V_HALT_ID,VAR_2
+dfx_port_read_long,FUNC_0
+printk,FUNC_1
+dfx_int_pr_halt_id,FUNC_2
+bp,VAR_3
+port_status,VAR_4
+halt_id,VAR_5

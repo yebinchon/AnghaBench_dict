@@ -1,0 +1,11 @@
+MALIDP550_DC_CONFIG_REQ,VAR_0
+MALIDP550_DC_CONTROL,VAR_1
+MALIDP_REG_STATUS,VAR_2
+WARN,FUNC_0
+malidp_hw_read,FUNC_1
+malidp_hw_setbits,FUNC_2
+usleep_range,FUNC_3
+malidp550_enter_config_mode,FUNC_4
+hwdev,VAR_3
+status,VAR_4
+count,VAR_5

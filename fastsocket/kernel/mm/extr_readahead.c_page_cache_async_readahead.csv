@@ -1,0 +1,13 @@
+ClearPageReadahead,FUNC_0
+PageUptodate,FUNC_1
+PageWriteback,FUNC_2
+bdi_read_congested,FUNC_3
+blk_run_backing_dev,FUNC_4
+ondemand_readahead,FUNC_5
+page_cache_async_readahead,FUNC_6
+mapping,VAR_0
+ra,VAR_1
+filp,VAR_2
+page,VAR_3
+offset,VAR_4
+req_size,VAR_5

@@ -1,0 +1,14 @@
+LSM_META_PAGE_SIZE,VAR_0
+LSM_OK,VAR_1
+assert,FUNC_0
+fsGrowMapping,FUNC_1
+lsmFsMetaPageGet,FUNC_2
+lsmFsMetaPageRelease,FUNC_3
+lsmGetU64,FUNC_4
+lsmFsReadSyncedId,FUNC_5
+db,VAR_2
+iMeta,VAR_3
+piVal,VAR_4
+pFS,VAR_5
+rc,VAR_6
+pMeta,VAR_7

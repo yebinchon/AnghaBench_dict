@@ -1,0 +1,14 @@
+DID_NO_CONNECT,VAR_0
+MU_STATE_NOCONNECT,VAR_1
+pci_disable_device,FUNC_0
+pci_get_drvdata,FUNC_1
+return_abnormal_state,FUNC_2
+scsi_block_requests,FUNC_3
+scsi_host_put,FUNC_4
+scsi_remove_host,FUNC_5
+stex_hba_free,FUNC_6
+stex_notifier,VAR_2
+unregister_reboot_notifier,FUNC_7
+stex_remove,FUNC_8
+pdev,VAR_3
+hba,VAR_4

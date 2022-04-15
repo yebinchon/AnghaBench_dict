@@ -1,0 +1,16 @@
+WORKQ_SCHEDULE_DELAYED_THREAD_CREATION_RESTART,VAR_0
+WQ_DELAYED_CALL_PENDED,VAR_1
+WQ_EXITING,VAR_2
+WQ_IMMEDIATE_CALL_PENDED,VAR_3
+WQ_PROC_SUSPENDED,VAR_4
+disable_preemption,FUNC_0
+enable_preemption,FUNC_1
+os_atomic_and_orig,FUNC_2
+proc_get_wqptr,FUNC_3
+relaxed,VAR_5
+workq_schedule_delayed_thread_creation,FUNC_4
+workq_schedule_immediate_thread_creation,FUNC_5
+workq_proc_resumed,FUNC_6
+p,VAR_6
+wq,VAR_7
+wq_flags,VAR_8

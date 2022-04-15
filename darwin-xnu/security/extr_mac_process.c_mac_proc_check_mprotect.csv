@@ -1,0 +1,13 @@
+MAC_CHECK,FUNC_0
+kauth_cred_proc_ref,FUNC_1
+kauth_cred_unref,FUNC_2
+mac_proc_check_enforce,FUNC_3
+mac_vm_enforce,VAR_0
+proc_check_mprotect,VAR_1
+mac_proc_check_mprotect,FUNC_4
+proc,VAR_2
+addr,VAR_3
+size,VAR_4
+prot,VAR_5
+cred,VAR_6
+error,VAR_7

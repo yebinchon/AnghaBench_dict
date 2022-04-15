@@ -1,0 +1,12 @@
+DMA_BUFFER_SIZE,VAR_0
+PLX_DMA0_PCI_ADDRESS_REG,VAR_1
+load_ao_dma_buffer,FUNC_0
+priv,FUNC_1
+readl,FUNC_2
+load_ao_dma,FUNC_3
+dev,VAR_2
+cmd,VAR_3
+num_bytes,VAR_4
+next_transfer_addr,VAR_5
+pci_addr_reg,VAR_6
+buffer_index,VAR_7

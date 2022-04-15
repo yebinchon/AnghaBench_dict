@@ -1,0 +1,12 @@
+BIT,FUNC_0
+CPU160MHZ,VAR_0
+CPU80MHZ,VAR_1
+REG_CLR_BIT,FUNC_1
+REG_SET_BIT,FUNC_2
+ets_get_cpu_frequency,FUNC_3
+ets_update_cpu_frequency,FUNC_4
+luaL_checkinteger,FUNC_5
+lua_pushinteger,FUNC_6
+node_setcpufreq,FUNC_7
+L,VAR_2
+new_freq,VAR_3

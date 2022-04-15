@@ -1,0 +1,16 @@
+PACKET3,FUNC_0
+PACKET3_MEM_SEMAPHORE,VAR_0
+PACKET3_PFP_SYNC_ME,VAR_1
+PACKET3_SEM_SEL_SIGNAL,VAR_2
+PACKET3_SEM_SEL_WAIT,VAR_3
+RADEON_RING_TYPE_GFX_INDEX,VAR_4
+lower_32_bits,FUNC_1
+radeon_ring_write,FUNC_2
+upper_32_bits,FUNC_3
+cik_semaphore_ring_emit,FUNC_4
+rdev,VAR_5
+ring,VAR_6
+semaphore,VAR_7
+emit_wait,VAR_8
+addr,VAR_9
+sel,VAR_10

@@ -1,0 +1,15 @@
+EP0_INAK,VAR_0
+EP0_INAK_EN,VAR_1
+EP0_PACKETSIZE,VAR_2
+EP0_in_PIO,FUNC_0
+EP0_send_NULL,FUNC_1
+_nbu2ss_readl,FUNC_2
+_nbu2ss_writel,FUNC_3
+ep0_in_overbytes,FUNC_4
+_nbu2ss_ep0_in_transfer,FUNC_5
+udc,VAR_3
+req,VAR_4
+p_buffer,VAR_5
+data,VAR_6
+i_remain_size,VAR_7
+result,VAR_8

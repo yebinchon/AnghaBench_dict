@@ -1,0 +1,16 @@
+AV_CH_LAYOUT_STEREO,VAR_0
+AV_CH_LAYOUT_STEREO_DOWNMIX,VAR_1
+av_get_channel_layout_nb_channels,FUNC_0
+memset,FUNC_1
+hb_audio_remap_build_table,FUNC_2
+channel_map_out,VAR_2
+channel_map_in,VAR_3
+channel_layout,VAR_4
+remap_table,VAR_5
+ii,VAR_6
+jj,VAR_7
+nchannels,VAR_8
+out_chan_idx,VAR_9
+remap_idx,VAR_10
+channels_in,VAR_11
+channels_out,VAR_12

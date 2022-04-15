@@ -1,0 +1,9 @@
+LSM_LOCK_EXCL,VAR_0
+LSM_LOCK_WORKER,VAR_1
+LSM_MAX_RHS_SEGMENTS,VAR_2
+assert,FUNC_0
+lsmShmAssertLock,FUNC_1
+lsmDatabaseFull,FUNC_2
+pDb,VAR_3
+p,VAR_4
+nRhs,VAR_5

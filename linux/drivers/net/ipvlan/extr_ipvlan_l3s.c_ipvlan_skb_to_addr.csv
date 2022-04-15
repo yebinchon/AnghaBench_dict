@@ -1,0 +1,12 @@
+IPVLAN_MODE_L3S,VAR_0
+ipvlan_addr_lookup,FUNC_0
+ipvlan_get_L3_hdr,FUNC_1
+ipvlan_port_get_rcu,FUNC_2
+netif_is_ipvlan_port,FUNC_3
+ipvlan_skb_to_addr,FUNC_4
+skb,VAR_1
+dev,VAR_2
+addr,VAR_3
+port,VAR_4
+addr_type,VAR_5
+lyr3h,VAR_6

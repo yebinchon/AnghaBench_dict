@@ -1,0 +1,8 @@
+OVS_FLOW_ATTR_KEY,VAR_0
+OVS_FLOW_ATTR_UFID,VAR_1
+nla_put,FUNC_0
+ovs_identifier_is_ufid,FUNC_1
+ovs_nla_put_key,FUNC_2
+ovs_nla_put_identifier,FUNC_3
+flow,VAR_2
+skb,VAR_3

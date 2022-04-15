@@ -1,0 +1,15 @@
+ERESTARTSYS,VAR_0
+SNDRV_RAWMIDI_STREAM_INPUT,VAR_1
+put_pid,FUNC_0
+snd_rawmidi_drain_output,FUNC_1
+snd_rawmidi_input_trigger,FUNC_2
+snd_rawmidi_kernel_write,FUNC_3
+snd_rawmidi_output_trigger,FUNC_4
+snd_rawmidi_runtime_free,FUNC_5
+stub1,FUNC_6
+stub2,FUNC_7
+close_substream,FUNC_8
+rmidi,VAR_2
+substream,VAR_3
+cleanup,VAR_4
+buf,VAR_5

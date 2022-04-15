@@ -1,0 +1,16 @@
+ISL29003_REG_LSB_SENSOR,VAR_0
+ISL29003_REG_MSB_SENSOR,VAR_1
+gain_range,VAR_2
+i2c_get_clientdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+isl29003_get_range,FUNC_2
+isl29003_get_resolution,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+isl29003_get_adc_value,FUNC_6
+client,VAR_3
+data,VAR_4
+lsb,VAR_5
+msb,VAR_6
+range,VAR_7
+bitdepth,VAR_8

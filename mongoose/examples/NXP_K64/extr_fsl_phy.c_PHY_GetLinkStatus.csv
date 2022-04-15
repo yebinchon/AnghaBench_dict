@@ -1,0 +1,11 @@
+PHY_BASICSTATUS_REG,VAR_0
+PHY_BSTATUS_LINKSTATUS_MASK,VAR_1
+PHY_Read,FUNC_0
+assert,FUNC_1
+kStatus_Success,VAR_2
+PHY_GetLinkStatus,FUNC_2
+base,VAR_3
+phyAddr,VAR_4
+status,VAR_5
+result,VAR_6
+data,VAR_7

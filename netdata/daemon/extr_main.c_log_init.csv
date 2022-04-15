@@ -1,0 +1,17 @@
+CONFIG_SECTION_GLOBAL,VAR_0
+FILENAME_MAX,VAR_1
+config_get,FUNC_0
+config_get_number,FUNC_1
+error_log_errors_per_period,VAR_2
+error_log_errors_per_period_backup,VAR_3
+error_log_throttle_period,VAR_4
+facility_log,VAR_5
+netdata_configured_log_dir,VAR_6
+setenv,FUNC_2
+snprintfz,FUNC_3
+stdaccess_filename,VAR_7
+stderr_filename,VAR_8
+stdout_filename,VAR_9
+log_init,FUNC_4
+filename,VAR_10
+deffacility,VAR_11

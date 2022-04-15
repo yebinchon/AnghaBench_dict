@@ -1,0 +1,15 @@
+CLOCK_MONOTONIC,VAR_0
+NR_LOOPS,VAR_1
+clock_gettime,FUNC_0
+do_null_syscall,FUNC_1
+get_proc_frequency,FUNC_2
+mftb,FUNC_3
+printf,FUNC_4
+timebase_multiplier,VAR_2
+main,FUNC_5
+tb_start,VAR_3
+tb_now,VAR_4
+tv_start,VAR_5
+tv_now,VAR_6
+elapsed_ns,VAR_7
+elapsed_tb,VAR_8

@@ -1,0 +1,8 @@
+mv88e6xxx_reg_lock,FUNC_0
+mv88e6xxx_reg_unlock,FUNC_1
+ptp_to_chip,FUNC_2
+timecounter_adjtime,FUNC_3
+mv88e6xxx_ptp_adjtime,FUNC_4
+ptp,VAR_0
+delta,VAR_1
+chip,VAR_2

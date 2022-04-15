@@ -1,0 +1,17 @@
+RESERVED_ITT,VAR_0
+__iscsi_complete_pdu,FUNC_0
+bnx2i_get_rq_buf,FUNC_1
+bnx2i_put_rq_buf,FUNC_2
+bnx2i_unsol_pdu_adjust_rq,FUNC_3
+cpu_to_be32,FUNC_4
+hton24,FUNC_5
+memset,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+bnx2i_process_reject_mesg,FUNC_9
+session,VAR_1
+bnx2i_conn,VAR_2
+cqe,VAR_3
+conn,VAR_4
+reject,VAR_5
+hdr,VAR_6

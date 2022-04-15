@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+atf_dynstr_append_fmt,FUNC_1
+atf_dynstr_fini,FUNC_2
+atf_dynstr_fini_disown,FUNC_3
+atf_dynstr_init,FUNC_4
+atf_dynstr_length,FUNC_5
+atf_is_error,FUNC_6
+read,FUNC_7
+atf_utils_readline,FUNC_8
+fd,VAR_0
+ch,VAR_1
+cnt,VAR_2
+temp,VAR_3
+error,VAR_4

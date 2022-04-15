@@ -1,0 +1,12 @@
+BIO_free,FUNC_0
+CRL_from_strings,FUNC_1
+OPENSSL_free,FUNC_2
+PEM_read_bio_X509_CRL,FUNC_3
+X509_CRL_free,FUNC_4
+glue2bio,FUNC_5
+kBasicCRL,VAR_0
+kRevokedCRL,VAR_1
+test_reuse_crl,FUNC_6
+reused_crl,VAR_2
+p,VAR_3
+b,VAR_4

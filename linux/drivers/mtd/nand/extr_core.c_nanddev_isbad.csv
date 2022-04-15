@@ -1,0 +1,15 @@
+NAND_BBT_BLOCK_FACTORY_BAD,VAR_0
+NAND_BBT_BLOCK_GOOD,VAR_1
+NAND_BBT_BLOCK_STATUS_UNKNOWN,VAR_2
+NAND_BBT_BLOCK_WORN,VAR_3
+nanddev_bbt_get_block_status,FUNC_0
+nanddev_bbt_is_initialized,FUNC_1
+nanddev_bbt_pos_to_entry,FUNC_2
+nanddev_bbt_set_block_status,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+nanddev_isbad,FUNC_6
+nand,VAR_4
+pos,VAR_5
+entry,VAR_6
+status,VAR_7

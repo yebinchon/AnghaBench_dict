@@ -1,0 +1,15 @@
+SCIF_LOG_OBJECT_DOMAIN,VAR_0
+SCIF_LOG_WARNING,FUNC_0
+SCI_FAILURE_INVALID_STATE,VAR_1
+SCI_SAS_HARD_RESET,VAR_2
+sci_base_object_get_logger,FUNC_1
+sci_base_state_machine_get_state,FUNC_2
+scif_sas_domain_cancel_smp_activities,FUNC_3
+scif_sas_domain_ready_start_task_handler,FUNC_4
+scif_sas_task_request_get_function,FUNC_5
+scif_sas_domain_discovering_start_task_handler,FUNC_6
+domain,VAR_3
+remote_device,VAR_4
+task_request,VAR_5
+fw_device,VAR_6
+fw_task,VAR_7

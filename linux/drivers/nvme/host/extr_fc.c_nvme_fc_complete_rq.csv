@@ -1,0 +1,10 @@
+FCPOP_STATE_IDLE,VAR_0
+atomic_set,FUNC_0
+blk_mq_rq_to_pdu,FUNC_1
+nvme_complete_rq,FUNC_2
+nvme_fc_ctrl_put,FUNC_3
+nvme_fc_unmap_data,FUNC_4
+nvme_fc_complete_rq,FUNC_5
+rq,VAR_1
+op,VAR_2
+ctrl,VAR_3

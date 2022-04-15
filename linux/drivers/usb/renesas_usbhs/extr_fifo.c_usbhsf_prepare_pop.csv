@@ -1,0 +1,17 @@
+usbhs_pipe_data_sequence,FUNC_0
+usbhs_pipe_enable,FUNC_1
+usbhs_pipe_is_busy,FUNC_2
+usbhs_pipe_is_dcp,FUNC_3
+usbhs_pipe_is_running,FUNC_4
+usbhs_pipe_running,FUNC_5
+usbhs_pipe_set_trans_count_if_bulk,FUNC_6
+usbhs_pipe_to_priv,FUNC_7
+usbhsf_fifo_clear,FUNC_8
+usbhsf_get_cfifo,FUNC_9
+usbhsf_rx_irq_ctrl,FUNC_10
+usbhsf_prepare_pop,FUNC_11
+pkt,VAR_0
+is_done,VAR_1
+pipe,VAR_2
+priv,VAR_3
+fifo,VAR_4

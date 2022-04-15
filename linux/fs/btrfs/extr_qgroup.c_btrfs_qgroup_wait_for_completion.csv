@@ -1,0 +1,11 @@
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+wait_for_completion,FUNC_4
+wait_for_completion_interruptible,FUNC_5
+btrfs_qgroup_wait_for_completion,FUNC_6
+fs_info,VAR_0
+interruptible,VAR_1
+running,VAR_2
+ret,VAR_3

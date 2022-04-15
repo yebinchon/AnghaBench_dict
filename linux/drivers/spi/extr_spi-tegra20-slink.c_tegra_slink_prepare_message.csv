@@ -1,0 +1,16 @@
+SLINK_CK_SDA,VAR_0
+SLINK_CS_SW,VAR_1
+SLINK_CS_VALUE,VAR_2
+SLINK_IDLE_SCLK_DRIVE_HIGH,VAR_3
+SLINK_IDLE_SCLK_DRIVE_LOW,VAR_4
+SLINK_MODES,VAR_5
+SLINK_SS_EN_CS,FUNC_0
+SPI_CPHA,VAR_6
+SPI_CPOL,VAR_7
+spi_master_get_devdata,FUNC_1
+tegra_slink_clear_status,FUNC_2
+tegra_slink_prepare_message,FUNC_3
+master,VAR_8
+msg,VAR_9
+tspi,VAR_10
+spi,VAR_11

@@ -1,0 +1,15 @@
+WM831X_CS1_DRIVE,VAR_0
+WM831X_CS1_ENA,VAR_1
+WM831X_CS1_ISEL_MASK,VAR_2
+WM831X_DC4_ENA,VAR_3
+WM831X_DCDC_ENABLE,VAR_4
+bl_get_data,FUNC_0
+wm831x_set_bits,FUNC_1
+wm831x_backlight_set,FUNC_2
+bl,VAR_5
+brightness,VAR_6
+data,VAR_7
+wm831x,VAR_8
+power_up,VAR_9
+power_down,VAR_10
+ret,VAR_11

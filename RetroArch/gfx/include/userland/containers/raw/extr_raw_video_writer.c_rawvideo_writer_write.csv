@@ -1,0 +1,14 @@
+STREAM_STATUS,FUNC_0
+VC_CONTAINER_PACKET_FLAG_FRAME_START,VAR_0
+VC_CONTAINER_SUCCESS,VAR_1
+WRITE_BYTES,FUNC_1
+_WRITE_U8,FUNC_2
+rawvideo_write_header,FUNC_3
+snprintf,FUNC_4
+rawvideo_writer_write,FUNC_5
+ctx,VAR_2
+packet,VAR_3
+module,VAR_4
+status,VAR_5
+size,VAR_6
+line,VAR_7

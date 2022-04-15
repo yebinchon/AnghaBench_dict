@@ -1,0 +1,15 @@
+REORDER_BUFFER_CHANGE_INTERNAL_TUPLECID,VAR_0
+ReorderBufferGetChange,FUNC_0
+ReorderBufferTXNByXid,FUNC_1
+dlist_push_tail,FUNC_2
+ReorderBufferAddNewTupleCids,FUNC_3
+rb,VAR_1
+xid,VAR_2
+lsn,VAR_3
+node,VAR_4
+tid,VAR_5
+cmin,VAR_6
+cmax,VAR_7
+combocid,VAR_8
+change,VAR_9
+txn,VAR_10

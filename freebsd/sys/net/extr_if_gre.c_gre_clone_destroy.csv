@@ -1,0 +1,13 @@
+GRE_WAIT,FUNC_0
+M_GRE,VAR_0
+bpfdetach,FUNC_1
+free,FUNC_2
+gre_delete_tunnel,FUNC_3
+gre_ioctl_sx,VAR_1
+if_detach,FUNC_4
+if_free,FUNC_5
+sx_xlock,FUNC_6
+sx_xunlock,FUNC_7
+gre_clone_destroy,FUNC_8
+ifp,VAR_2
+sc,VAR_3

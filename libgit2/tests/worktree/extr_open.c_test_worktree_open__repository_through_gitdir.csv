@@ -1,0 +1,12 @@
+COMMON_REPO,VAR_0
+GIT_BUF_INIT,VAR_1
+WORKTREE_REPO,VAR_2
+assert_worktree_valid,FUNC_0
+cl_git_pass,FUNC_1
+git_buf_dispose,FUNC_2
+git_buf_joinpath,FUNC_3
+git_repository_free,FUNC_4
+git_repository_open,FUNC_5
+test_worktree_open__repository_through_gitdir,FUNC_6
+gitdir_path,VAR_3
+wt,VAR_4

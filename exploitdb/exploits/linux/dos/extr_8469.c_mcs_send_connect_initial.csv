@@ -1,0 +1,15 @@
+BER_TAG_BOOLEAN,VAR_0
+BER_TAG_OCTET_STRING,VAR_1
+MCS_CONNECT_INITIAL,VAR_2
+ber_out_header,FUNC_0
+iso_init,FUNC_1
+iso_send,FUNC_2
+mcs_out_domain_params,FUNC_3
+out_uint8,FUNC_4
+out_uint8p,FUNC_5
+s_mark_end,FUNC_6
+mcs_send_connect_initial,FUNC_7
+mcs_data,VAR_3
+datalen,VAR_4
+length,VAR_5
+s,VAR_6

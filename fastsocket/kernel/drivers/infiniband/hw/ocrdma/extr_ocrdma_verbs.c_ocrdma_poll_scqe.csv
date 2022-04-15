@@ -1,0 +1,14 @@
+OCRDMA_CQE_STATUS_MASK,VAR_0
+OCRDMA_CQE_STATUS_SHIFT,VAR_1
+OCRDMA_CQE_SUCCESS,VAR_2
+le32_to_cpu,FUNC_0
+ocrdma_poll_err_scqe,FUNC_1
+ocrdma_poll_success_scqe,FUNC_2
+ocrdma_poll_scqe,FUNC_3
+qp,VAR_3
+cqe,VAR_4
+ibwc,VAR_5
+polled,VAR_6
+stop,VAR_7
+status,VAR_8
+expand,VAR_9

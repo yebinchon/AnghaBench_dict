@@ -1,0 +1,16 @@
+GIT_DIFF_INCLUDE_IGNORED,VAR_0
+GIT_DIFF_INCLUDE_UNMODIFIED,VAR_1
+GIT_DIFF_INCLUDE_UNTRACKED,VAR_2
+GIT_DIFF_OPTIONS_INIT,VAR_3
+check_diff_patches,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_rewritefile,FUNC_3
+g_repo,VAR_4
+git_diff_free,FUNC_4
+git_diff_index_to_workdir,FUNC_5
+setup_fixture_submodules,FUNC_6
+test_diff_submodules__dirty_submodule,FUNC_7
+opts,VAR_5
+diff,VAR_6
+expected,VAR_7

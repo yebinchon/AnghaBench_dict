@@ -1,0 +1,12 @@
+EOF,VAR_0
+SVN_ERR_IO_WRITE_ERROR,VAR_1
+SVN_NO_ERROR,VAR_2
+_,FUNC_0
+apr_get_os_error,FUNC_1
+errno,VAR_3
+fputs,FUNC_2
+svn_error_create,FUNC_3
+svn_error_wrap_apr,FUNC_4
+svn_cl__error_checked_fputs,FUNC_5
+string,VAR_4
+stream,VAR_5

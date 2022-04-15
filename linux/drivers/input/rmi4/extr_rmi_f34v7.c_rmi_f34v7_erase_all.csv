@@ -1,0 +1,13 @@
+F34_ERASE_WAIT_MS,VAR_0
+dev_info,FUNC_0
+init_completion,FUNC_1
+rmi_f34v7_erase_config,FUNC_2
+rmi_f34v7_erase_guest_code,FUNC_3
+rmi_f34v7_wait_for_idle,FUNC_4
+rmi_f34v7_write_command,FUNC_5
+v7_CMD_ERASE_UI_FIRMWARE,VAR_1
+v7_DP_CONFIG_AREA,VAR_2
+v7_UI_CONFIG_AREA,VAR_3
+rmi_f34v7_erase_all,FUNC_6
+f34,VAR_4
+ret,VAR_5

@@ -1,0 +1,13 @@
+MANUFACTURER_ID,VAR_0
+SPIBUS_TRANSFER,FUNC_0
+be16dec,FUNC_1
+be32dec,FUNC_2
+device_get_parent,FUNC_3
+memset,FUNC_4
+at45d_get_mfg_info,FUNC_5
+dev,VAR_1
+resp,VAR_2
+rxBuf,VAR_3
+txBuf,VAR_4
+cmd,VAR_5
+err,VAR_6

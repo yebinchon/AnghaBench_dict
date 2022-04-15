@@ -1,0 +1,15 @@
+NFTA_CT_EXPECT_DPORT,VAR_0
+NFTA_CT_EXPECT_L3PROTO,VAR_1
+NFTA_CT_EXPECT_L4PROTO,VAR_2
+NFTA_CT_EXPECT_SIZE,VAR_3
+NFTA_CT_EXPECT_TIMEOUT,VAR_4
+htons,FUNC_0
+nft_obj_data,FUNC_1
+nla_put_be16,FUNC_2
+nla_put_u32,FUNC_3
+nla_put_u8,FUNC_4
+nft_ct_expect_obj_dump,FUNC_5
+skb,VAR_5
+obj,VAR_6
+reset,VAR_7
+priv,VAR_8

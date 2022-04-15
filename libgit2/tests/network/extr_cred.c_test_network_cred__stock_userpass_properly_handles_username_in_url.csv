@@ -1,0 +1,9 @@
+GIT_CREDTYPE_USERPASS_PLAINTEXT,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_cred_free,FUNC_2
+git_cred_get_username,FUNC_3
+git_cred_userpass,FUNC_4
+test_network_cred__stock_userpass_properly_handles_username_in_url,FUNC_5
+cred,VAR_1
+payload,VAR_2

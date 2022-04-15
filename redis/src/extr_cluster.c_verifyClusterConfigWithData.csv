@@ -1,0 +1,16 @@
+CLUSTER_MODULE_FLAG_NO_REDIRECTION,VAR_0
+CLUSTER_SLOTS,VAR_1
+C_ERR,VAR_2
+C_OK,VAR_3
+LL_WARNING,VAR_4
+clusterAddSlot,FUNC_0
+clusterSaveConfigOrDie,FUNC_1
+countKeysInSlot,FUNC_2
+dictSize,FUNC_3
+myself,VAR_5
+nodeIsSlave,FUNC_4
+server,VAR_6
+serverLog,FUNC_5
+verifyClusterConfigWithData,FUNC_6
+j,VAR_7
+update_config,VAR_8

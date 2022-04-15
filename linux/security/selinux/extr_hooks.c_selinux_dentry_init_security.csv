@@ -1,0 +1,15 @@
+current_cred,FUNC_0
+d_inode,FUNC_1
+inode_mode_to_security_class,FUNC_2
+security_sid_to_context,FUNC_3
+selinux_cred,FUNC_4
+selinux_determine_inode_label,FUNC_5
+selinux_state,VAR_0
+selinux_dentry_init_security,FUNC_6
+dentry,VAR_1
+mode,VAR_2
+name,VAR_3
+ctx,VAR_4
+ctxlen,VAR_5
+newsid,VAR_6
+rc,VAR_7

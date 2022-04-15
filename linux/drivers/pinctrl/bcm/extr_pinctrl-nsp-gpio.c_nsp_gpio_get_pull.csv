@@ -1,0 +1,12 @@
+IO_CTRL,VAR_0
+NSP_PULL_DOWN_EN,VAR_1
+NSP_PULL_UP_EN,VAR_2
+nsp_get_bit,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+nsp_gpio_get_pull,FUNC_3
+chip,VAR_3
+gpio,VAR_4
+pull_up,VAR_5
+pull_down,VAR_6
+flags,VAR_7

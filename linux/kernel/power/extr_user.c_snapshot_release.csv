@@ -1,0 +1,17 @@
+O_RDONLY,VAR_0
+PM_POST_HIBERNATION,VAR_1
+PM_POST_RESTORE,VAR_2
+atomic_inc,FUNC_0
+free_all_swap_pages,FUNC_1
+free_basic_memory_bitmaps,FUNC_2
+lock_system_sleep,FUNC_3
+pm_notifier_call_chain,FUNC_4
+pm_restore_gfp_mask,FUNC_5
+snapshot_device_available,VAR_3
+swsusp_free,FUNC_6
+thaw_processes,FUNC_7
+unlock_system_sleep,FUNC_8
+snapshot_release,FUNC_9
+inode,VAR_4
+filp,VAR_5
+data,VAR_6

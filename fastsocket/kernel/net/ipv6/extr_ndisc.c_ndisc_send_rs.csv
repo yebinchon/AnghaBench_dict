@@ -1,0 +1,13 @@
+IFA_F_OPTIMISTIC,VAR_0
+NDISC_ROUTER_SOLICITATION,VAR_1
+ND_OPT_SOURCE_LL_ADDR,VAR_2
+__ndisc_send,FUNC_0
+dev_net,FUNC_1
+in6_ifa_put,FUNC_2
+ipv6_get_ifaddr,FUNC_3
+ndisc_send_rs,FUNC_4
+dev,VAR_3
+saddr,VAR_4
+daddr,VAR_5
+icmp6h,VAR_6
+send_sllao,VAR_7

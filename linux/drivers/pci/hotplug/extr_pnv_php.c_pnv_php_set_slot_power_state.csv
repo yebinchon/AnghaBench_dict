@@ -1,0 +1,17 @@
+ENOMSG,VAR_0
+OPAL_PCI_SLOT_OFFLINE,VAR_1
+OPAL_PCI_SLOT_POWER_OFF,VAR_2
+OPAL_PCI_SLOT_POWER_ON,VAR_3
+OPAL_SUCCESS,VAR_4
+be64_to_cpu,FUNC_0
+pci_warn,FUNC_1
+pnv_pci_set_power_state,FUNC_2
+pnv_php_add_devtree,FUNC_3
+pnv_php_rmv_devtree,FUNC_4
+to_pnv_php_slot,FUNC_5
+pnv_php_set_slot_power_state,FUNC_6
+slot,VAR_5
+state,VAR_6
+php_slot,VAR_7
+msg,VAR_8
+ret,VAR_9

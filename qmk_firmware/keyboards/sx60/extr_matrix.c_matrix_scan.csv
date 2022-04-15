@@ -1,0 +1,16 @@
+DEBOUNCE,VAR_0
+MATRIX_ROWS,VAR_1
+debouncing,VAR_2
+debouncing_time,VAR_3
+init_mcp23018,FUNC_0
+matrix,VAR_4
+matrix_debouncing,VAR_5
+matrix_scan_quantum,FUNC_1
+mcp23018_reset_loop,VAR_6
+mcp23018_status,VAR_7
+print,FUNC_2
+read_cols_on_row,FUNC_3
+timer_elapsed,FUNC_4
+timer_read,FUNC_5
+matrix_scan,FUNC_6
+current_row,VAR_8

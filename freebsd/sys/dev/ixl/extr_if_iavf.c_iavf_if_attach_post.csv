@@ -1,0 +1,17 @@
+IAVF_INIT_READY,VAR_0
+INIT_DBG_DEV,FUNC_0
+atomic_store_rel_32,FUNC_1
+bzero,FUNC_2
+iavf_add_device_sysctls,FUNC_3
+iavf_enable_adminq_irq,FUNC_4
+iavf_setup_interface,FUNC_5
+iflib_get_dev,FUNC_6
+iflib_get_ifp,FUNC_7
+iflib_get_softc,FUNC_8
+iavf_if_attach_post,FUNC_9
+ctx,VAR_1
+dev,VAR_2
+sc,VAR_3
+hw,VAR_4
+vsi,VAR_5
+error,VAR_6

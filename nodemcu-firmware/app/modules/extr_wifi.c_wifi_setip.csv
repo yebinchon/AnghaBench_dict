@@ -1,0 +1,16 @@
+SOFTAP_IF,VAR_0
+STATION_IF,VAR_1
+luaL_error,FUNC_0
+lua_istable,FUNC_1
+lua_pushboolean,FUNC_2
+parse_key,FUNC_3
+wifi_get_ip_info,FUNC_4
+wifi_set_ip_info,FUNC_5
+wifi_softap_dhcps_start,FUNC_6
+wifi_softap_dhcps_stop,FUNC_7
+wifi_station_dhcpc_stop,FUNC_8
+wifi_setip,FUNC_9
+L,VAR_2
+mode,VAR_3
+pTempIp,VAR_4
+ip,VAR_5

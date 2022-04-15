@@ -1,0 +1,15 @@
+INPUT_CONTROL_SET_STATE,VAR_0
+OSD_PAUSE_ICON,VAR_1
+OSD_PLAY_ICON,VAR_2
+PAUSE_S,VAR_3
+PLAYING_S,VAR_4
+VLC_SUCCESS,VAR_5
+input_ControlPushHelper,FUNC_0
+vlc_player_get_input_locked,FUNC_1
+vlc_player_osd_Icon,FUNC_2
+vlc_player_SetPause,FUNC_3
+player,VAR_6
+pause,VAR_7
+input,VAR_8
+val,VAR_9
+ret,VAR_10

@@ -1,0 +1,15 @@
+COMBIOS_I2C_INFO_TABLE,VAR_0
+DDC_MONID,VAR_1
+RBIOS8,FUNC_0
+combios_get_table_offset,FUNC_1
+combios_setup_i2c_bus,FUNC_2
+radeon_combios_get_i2c_info_from_table,FUNC_3
+rdev,VAR_2
+dev,VAR_3
+i2c,VAR_4
+offset,VAR_5
+id,VAR_6
+blocks,VAR_7
+clk,VAR_8
+data,VAR_9
+i,VAR_10

@@ -1,0 +1,10 @@
+VIDINTCON0,VAR_0
+VIDINTCON0_INT_ENABLE,VAR_1
+VIDINTCON0_INT_FRAME,VAR_2
+readl,FUNC_0
+test_and_clear_bit,FUNC_1
+writel,FUNC_2
+decon_disable_vblank,FUNC_3
+crtc,VAR_3
+ctx,VAR_4
+val,VAR_5

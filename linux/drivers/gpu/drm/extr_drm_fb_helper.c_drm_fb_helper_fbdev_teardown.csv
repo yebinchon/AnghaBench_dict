@@ -1,0 +1,9 @@
+drm_fb_helper_fini,FUNC_0
+drm_fb_helper_unregister_fbi,FUNC_1
+drm_framebuffer_remove,FUNC_2
+fb_deferred_io_cleanup,FUNC_3
+kfree,FUNC_4
+drm_fb_helper_fbdev_teardown,FUNC_5
+dev,VAR_0
+fb_helper,VAR_1
+fbops,VAR_2

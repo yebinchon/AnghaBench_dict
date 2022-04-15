@@ -1,0 +1,17 @@
+SSL_CTX_get_verify_mode,FUNC_0
+SSL_VERIFY_PEER,VAR_0
+SSL_get0_param,FUNC_1
+SSL_set1_host,FUNC_2
+X509_CHECK_FLAG_NO_PARTIAL_WILDCARDS,VAR_1
+X509_VERIFY_PARAM_set1_host,FUNC_3
+X509_VERIFY_PARAM_set_hostflags,FUNC_4
+comm_point_tcp_win_bio_cb,FUNC_5
+comm_ssl_shake_write,VAR_2
+log_err,FUNC_6
+outgoing_ssl_fd,FUNC_7
+strlen,FUNC_8
+setup_comm_ssl,FUNC_9
+cp,VAR_3
+outnet,VAR_4
+fd,VAR_5
+host,VAR_6

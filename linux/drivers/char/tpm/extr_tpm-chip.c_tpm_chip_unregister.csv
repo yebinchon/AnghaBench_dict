@@ -1,0 +1,10 @@
+CONFIG_HW_RANDOM_TPM,VAR_0
+IS_ENABLED,FUNC_0
+TPM_CHIP_FLAG_TPM2,VAR_1
+cdev_device_del,FUNC_1
+hwrng_unregister,FUNC_2
+tpm_bios_log_teardown,FUNC_3
+tpm_del_char_device,FUNC_4
+tpm_del_legacy_sysfs,FUNC_5
+tpm_chip_unregister,FUNC_6
+chip,VAR_2

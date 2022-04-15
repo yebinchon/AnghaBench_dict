@@ -1,0 +1,14 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_INT,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+acpi_rapidstart_oids,VAR_3
+device_get_softc,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+sysctl_acpi_rapidstart_gen_handler,VAR_4
+acpi_rapidstart_attach,FUNC_5
+dev,VAR_5
+sc,VAR_6
+i,VAR_7

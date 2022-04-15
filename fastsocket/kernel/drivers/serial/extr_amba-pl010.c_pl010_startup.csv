@@ -1,0 +1,17 @@
+UART010_CR,VAR_0
+UART010_CR_RIE,VAR_1
+UART010_CR_RTIE,VAR_2
+UART01x_CR_UARTEN,VAR_3
+UART01x_FR,VAR_4
+UART01x_FR_MODEM_ANY,VAR_5
+clk_disable,FUNC_0
+clk_enable,FUNC_1
+clk_get_rate,FUNC_2
+pl010_int,VAR_6
+readb,FUNC_3
+request_irq,FUNC_4
+writel,FUNC_5
+pl010_startup,FUNC_6
+port,VAR_7
+uap,VAR_8
+retval,VAR_9

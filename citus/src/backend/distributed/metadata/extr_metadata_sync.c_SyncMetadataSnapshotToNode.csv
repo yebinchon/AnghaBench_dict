@@ -1,0 +1,17 @@
+CitusExtensionOwnerName,FUNC_0
+LocalGroupIdUpdateCommand,FUNC_1
+MetadataCreateCommands,FUNC_2
+MetadataDropCommands,FUNC_3
+SendCommandListToWorkerInSingleTransaction,FUNC_4
+SendOptionalCommandListToWorkerInTransaction,FUNC_5
+list_concat,FUNC_6
+list_make1,FUNC_7
+SyncMetadataSnapshotToNode,FUNC_8
+workerNode,VAR_0
+raiseOnError,VAR_1
+extensionOwner,VAR_2
+localGroupIdUpdateCommand,VAR_3
+dropMetadataCommandList,VAR_4
+createMetadataCommandList,VAR_5
+recreateMetadataSnapshotCommandList,VAR_6
+success,VAR_7

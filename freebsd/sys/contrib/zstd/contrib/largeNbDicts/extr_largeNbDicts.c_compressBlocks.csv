@@ -1,0 +1,17 @@
+CONTROL,FUNC_0
+ZSTD_compressCCtx,FUNC_1
+ZSTD_compress_usingCDict,FUNC_2
+ZSTD_createCCtx,FUNC_3
+ZSTD_isError,FUNC_4
+assert,FUNC_5
+compressBlocks,FUNC_6
+cSizes,VAR_0
+dstBlockBuffers,VAR_1
+srcBlockBuffers,VAR_2
+cdict,VAR_3
+cLevel,VAR_4
+nbBlocks,VAR_5
+cctx,VAR_6
+totalCSize,VAR_7
+blockNb,VAR_8
+cBlockSize,VAR_9

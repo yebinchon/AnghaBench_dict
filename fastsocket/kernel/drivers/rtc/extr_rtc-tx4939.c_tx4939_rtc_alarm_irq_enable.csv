@@ -1,0 +1,10 @@
+TX4939_RTCCTL_ALME,VAR_0
+TX4939_RTCCTL_COMMAND_NOP,VAR_1
+get_tx4939rtc_plat_data,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+tx4939_rtc_cmd,FUNC_3
+tx4939_rtc_alarm_irq_enable,FUNC_4
+dev,VAR_2
+enabled,VAR_3
+pdata,VAR_4

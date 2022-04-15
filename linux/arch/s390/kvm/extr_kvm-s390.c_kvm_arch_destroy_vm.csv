@@ -1,0 +1,13 @@
+KVM_EVENT,FUNC_0
+debug_unregister,FUNC_1
+free_page,FUNC_2
+gmap_remove,FUNC_3
+kvm_free_vcpus,FUNC_4
+kvm_is_ucontrol,FUNC_5
+kvm_s390_clear_float_irqs,FUNC_6
+kvm_s390_destroy_adapters,FUNC_7
+kvm_s390_gisa_destroy,FUNC_8
+kvm_s390_vsie_destroy,FUNC_9
+sca_dispose,FUNC_10
+kvm_arch_destroy_vm,FUNC_11
+kvm,VAR_0

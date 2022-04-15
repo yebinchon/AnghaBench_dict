@@ -1,0 +1,13 @@
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+gpio_lock,VAR_0
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_msp71xx_gpio_chip,FUNC_4
+msp71xx_gpio_set,FUNC_5
+chip,VAR_1
+offset,VAR_2
+value,VAR_3
+msp_chip,VAR_4
+flags,VAR_5
+data,VAR_6

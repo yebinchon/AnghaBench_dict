@@ -1,0 +1,12 @@
+CS_ETMV3_EXC_SVC,VAR_0
+CS_ETMV4_EXC_CALL,VAR_1
+__perf_cs_etmv3_magic,VAR_2
+__perf_cs_etmv4_magic,VAR_3
+cs_etm__is_svc_instr,FUNC_0
+cs_etm__is_syscall,FUNC_1
+etmq,VAR_4
+tidq,VAR_5
+magic,VAR_6
+trace_chan_id,VAR_7
+packet,VAR_8
+prev_packet,VAR_9

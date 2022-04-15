@@ -1,0 +1,15 @@
+MAC_PORT_TX_TS_VAL_HI,VAR_0
+MAC_PORT_TX_TS_VAL_LO,VAR_1
+T5_PORT_REG,FUNC_0
+dev_kfree_skb_any,FUNC_1
+ns_to_ktime,FUNC_2
+skb_hwtstamps,FUNC_3
+skb_tstamp_tx,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+t4_read_reg,FUNC_7
+cxgb4_ptp_read_hwstamp,FUNC_8
+adapter,VAR_2
+pi,VAR_3
+skb_ts,VAR_4
+tx_ts,VAR_5

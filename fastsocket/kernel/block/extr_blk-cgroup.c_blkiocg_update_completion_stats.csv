@@ -1,0 +1,16 @@
+BLKIO_STAT_SERVICE_TIME,VAR_0
+BLKIO_STAT_WAIT_TIME,VAR_1
+blkio_add_stat,FUNC_0
+sched_clock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+time_after64,FUNC_4
+blkiocg_update_completion_stats,FUNC_5
+blkg,VAR_2
+start_time,VAR_3
+io_start_time,VAR_4
+direction,VAR_5
+sync,VAR_6
+stats,VAR_7
+flags,VAR_8
+now,VAR_9

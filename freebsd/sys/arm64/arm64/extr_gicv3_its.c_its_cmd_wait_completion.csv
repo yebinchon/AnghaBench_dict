@@ -1,0 +1,15 @@
+DELAY,FUNC_0
+GITS_CREADR,VAR_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+gic_its_read_8,FUNC_3
+its_cmd_cwriter_offset,FUNC_4
+its_cmd_wait_completion,FUNC_5
+dev,VAR_1
+cmd_first,VAR_2
+cmd_last,VAR_3
+sc,VAR_4
+first,VAR_5
+last,VAR_6
+read,VAR_7
+us_left,VAR_8

@@ -1,0 +1,12 @@
+LOCK,FUNC_0
+RTC_SECONDS,VAR_0
+TIMESPEC_TO_TIMEVAL,FUNC_1
+UNLOCK,FUNC_2
+WR4,FUNC_3
+device_get_softc,FUNC_4
+tegra_rtc_wait,FUNC_5
+tegra_rtc_settime,FUNC_6
+dev,VAR_1
+ts,VAR_2
+sc,VAR_3
+tv,VAR_4

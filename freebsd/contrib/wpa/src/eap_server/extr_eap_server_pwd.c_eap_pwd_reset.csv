@@ -1,0 +1,10 @@
+bin_clear_free,FUNC_0
+crypto_bignum_deinit,FUNC_1
+crypto_ec_deinit,FUNC_2
+crypto_ec_point_deinit,FUNC_3
+os_free,FUNC_4
+wpabuf_free,FUNC_5
+eap_pwd_reset,FUNC_6
+sm,VAR_0
+priv,VAR_1
+data,VAR_2

@@ -1,0 +1,15 @@
+CMD_IAAD,VAR_0
+CMD_RUN,VAR_1
+STS_HALT,VAR_2
+ehci_handshake,FUNC_0
+ehci_is_TDI,FUNC_1
+ehci_readl,FUNC_2
+ehci_to_hcd,FUNC_3
+ehci_writel,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+synchronize_irq,FUNC_7
+tdi_in_host_mode,FUNC_8
+ehci_halt,FUNC_9
+ehci,VAR_3
+temp,VAR_4

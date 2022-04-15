@@ -1,0 +1,17 @@
+EXT4_HT_MISC,VAR_0
+EXT4_I,FUNC_0
+IS_ERR,FUNC_1
+PTR_ERR,FUNC_2
+WARN_ON,FUNC_3
+ext4_journal_start,FUNC_4
+ext4_journal_stop,FUNC_5
+ext4_mark_inode_dirty,FUNC_6
+ext4_update_i_disksize,FUNC_7
+i_size_read,FUNC_8
+inode_is_locked,FUNC_9
+ext4_update_disksize_before_punch,FUNC_10
+inode,VAR_1
+offset,VAR_2
+len,VAR_3
+handle,VAR_4
+size,VAR_5

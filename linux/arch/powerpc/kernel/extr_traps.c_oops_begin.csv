@@ -1,0 +1,17 @@
+arch_spin_lock,FUNC_0
+arch_spin_trylock,FUNC_1
+bust_spinlocks,FUNC_2
+console_verbose,FUNC_3
+die_lock,VAR_0
+die_nest_count,VAR_1
+die_owner,VAR_2
+machine_is,FUNC_4
+oops_enter,FUNC_5
+pmac_backlight_unblank,FUNC_6
+powermac,VAR_3
+raw_local_irq_save,FUNC_7
+smp_processor_id,FUNC_8
+oops_begin,FUNC_9
+regs,VAR_4
+cpu,VAR_5
+flags,VAR_6

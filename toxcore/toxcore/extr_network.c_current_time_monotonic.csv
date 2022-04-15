@@ -1,0 +1,15 @@
+CLOCK_MONOTONIC,VAR_0
+CLOCK_MONOTONIC_RAW,VAR_1
+GetTickCount,FUNC_0
+SYSTEM_CLOCK,VAR_2
+add_monotime,VAR_3
+clock_get_time,FUNC_1
+clock_gettime,FUNC_2
+host_get_clock_service,FUNC_3
+last_monotime,VAR_4
+mach_host_self,FUNC_4
+mach_port_deallocate,FUNC_5
+mach_task_self,FUNC_6
+current_time_monotonic,FUNC_7
+time,VAR_5
+monotime,VAR_6

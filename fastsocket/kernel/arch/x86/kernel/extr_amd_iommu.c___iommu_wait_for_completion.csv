@@ -1,0 +1,16 @@
+EXIT_LOOP_COUNT,VAR_0
+INC_STATS_COUNTER,FUNC_0
+MMIO_STATUS_COM_WAIT_INT_MASK,VAR_1
+MMIO_STATUS_OFFSET,VAR_2
+compl_wait,VAR_3
+readl,FUNC_1
+reset_iommu_command_buffer,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+unlikely,FUNC_5
+writel,FUNC_6
+__iommu_wait_for_completion,FUNC_7
+iommu,VAR_4
+ready,VAR_5
+status,VAR_6
+i,VAR_7

@@ -1,0 +1,14 @@
+amdtp_stream_pcm_running,FUNC_0
+init_hw_info,FUNC_1
+snd_dice_stream_lock_release,FUNC_2
+snd_dice_stream_lock_try,FUNC_3
+snd_dice_transaction_get_clock_source,FUNC_4
+snd_dice_transaction_get_rate,FUNC_5
+snd_pcm_set_sync,FUNC_6
+pcm_open,FUNC_7
+substream,VAR_0
+dice,VAR_1
+source,VAR_2
+internal,VAR_3
+err,VAR_4
+rate,VAR_5

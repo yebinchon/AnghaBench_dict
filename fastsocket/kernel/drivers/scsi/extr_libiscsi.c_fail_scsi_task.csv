@@ -1,0 +1,17 @@
+DID_TRANSPORT_DISRUPTED,VAR_0
+ISCSI_TASK_ABRT_SESS_RECOV,VAR_1
+ISCSI_TASK_ABRT_TMF,VAR_2
+ISCSI_TASK_COMPLETED,VAR_3
+ISCSI_TASK_PENDING,VAR_4
+iscsi_complete_task,FUNC_0
+scsi_bidi_cmnd,FUNC_1
+scsi_bufflen,FUNC_2
+scsi_in,FUNC_3
+scsi_out,FUNC_4
+scsi_set_resid,FUNC_5
+fail_scsi_task,FUNC_6
+task,VAR_5
+err,VAR_6
+conn,VAR_7
+sc,VAR_8
+state,VAR_9

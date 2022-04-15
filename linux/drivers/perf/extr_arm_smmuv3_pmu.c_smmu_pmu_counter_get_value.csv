@@ -1,0 +1,8 @@
+BIT,FUNC_0
+SMMU_PMCG_EVCNTR,FUNC_1
+readl,FUNC_2
+readq,FUNC_3
+smmu_pmu_counter_get_value,FUNC_4
+smmu_pmu,VAR_0
+idx,VAR_1
+value,VAR_2

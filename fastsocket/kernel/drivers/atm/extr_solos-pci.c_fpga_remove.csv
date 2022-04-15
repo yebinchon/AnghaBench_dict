@@ -1,0 +1,16 @@
+FPGA_MODE,VAR_0
+IRQ_EN_ADDR,VAR_1
+atm_remove,FUNC_0
+free_irq,FUNC_1
+ioread32,FUNC_2
+iowrite32,FUNC_3
+kfree,FUNC_4
+pci_disable_device,FUNC_5
+pci_get_drvdata,FUNC_6
+pci_iounmap,FUNC_7
+pci_release_regions,FUNC_8
+pci_set_drvdata,FUNC_9
+tasklet_kill,FUNC_10
+fpga_remove,FUNC_11
+dev,VAR_2
+card,VAR_3

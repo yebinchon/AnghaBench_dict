@@ -1,0 +1,16 @@
+MC_ARB_BURST_TIME,VAR_0
+MC_ARB_DRAM_TIMING,VAR_1
+MC_ARB_DRAM_TIMING2,VAR_2
+RREG32,FUNC_0
+STATE0_MASK,VAR_3
+ci_register_patching_mc_arb,FUNC_1
+cpu_to_be32,FUNC_2
+radeon_atom_set_engine_dram_timings,FUNC_3
+ci_populate_memory_timing_parameters,FUNC_4
+rdev,VAR_4
+sclk,VAR_5
+mclk,VAR_6
+arb_regs,VAR_7
+dram_timing,VAR_8
+dram_timing2,VAR_9
+burst_time,VAR_10

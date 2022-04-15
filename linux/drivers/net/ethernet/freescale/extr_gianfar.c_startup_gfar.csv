@@ -1,0 +1,16 @@
+GFAR_DOWN,VAR_0
+clear_bit,FUNC_0
+enable_napi,FUNC_1
+gfar_alloc_skb_resources,FUNC_2
+gfar_init_tx_rx_base,FUNC_3
+gfar_mac_reset,FUNC_4
+gfar_start,FUNC_5
+netdev_priv,FUNC_6
+netif_tx_wake_all_queues,FUNC_7
+phy_start,FUNC_8
+smp_mb__after_atomic,FUNC_9
+smp_mb__before_atomic,FUNC_10
+startup_gfar,FUNC_11
+ndev,VAR_1
+priv,VAR_2
+err,VAR_3

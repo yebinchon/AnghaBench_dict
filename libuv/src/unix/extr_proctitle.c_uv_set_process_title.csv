@@ -1,0 +1,11 @@
+init_process_title_mutex_once,VAR_0
+process_title,VAR_1
+process_title_mutex,VAR_2
+process_title_mutex_once,VAR_3
+strncpy,FUNC_0
+uv__set_process_title,FUNC_1
+uv_mutex_lock,FUNC_2
+uv_mutex_unlock,FUNC_3
+uv_once,FUNC_4
+uv_set_process_title,FUNC_5
+title,VAR_4

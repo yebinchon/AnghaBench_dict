@@ -1,0 +1,14 @@
+SNDRV_PCM_STREAM_PLAYBACK,VAR_0
+azx_stream,FUNC_0
+le32_to_cpu,FUNC_1
+snd_hdac_stream_get_pos_lpib,FUNC_2
+azx_via_get_position,FUNC_3
+chip,VAR_1
+azx_dev,VAR_2
+link_pos,VAR_3
+mini_pos,VAR_4
+bound_pos,VAR_5
+mod_link_pos,VAR_6
+mod_dma_pos,VAR_7
+mod_mini_pos,VAR_8
+fifo_size,VAR_9

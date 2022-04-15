@@ -1,0 +1,9 @@
+VMCB_INTR,VAR_0
+V_INTR_PRIO_MASK,VAR_1
+V_INTR_PRIO_SHIFT,VAR_2
+V_IRQ_MASK,VAR_3
+mark_dirty,FUNC_0
+svm_inject_irq,FUNC_1
+svm,VAR_4
+irq,VAR_5
+control,VAR_6

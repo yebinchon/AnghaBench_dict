@@ -1,0 +1,13 @@
+DEVICE_STATE_RESET,VAR_0
+DEVICE_STATE_STARTED,VAR_1
+clear_bit,FUNC_0
+rt2x00lib_enable_radio,FUNC_1
+rt2x00lib_initialize,FUNC_2
+rt2x00lib_load_firmware,FUNC_3
+rt2x00lib_stop,FUNC_4
+set_bit,FUNC_5
+stub1,FUNC_6
+test_bit,FUNC_7
+rt2x00lib_start,FUNC_8
+rt2x00dev,VAR_2
+retval,VAR_3

@@ -1,0 +1,12 @@
+EVP_PKEY_CTX_free,FUNC_0
+EVP_PKEY_CTX_new,FUNC_1
+EVP_PKEY_derive_init,FUNC_2
+EVP_PKEY_free,FUNC_3
+EVP_PKEY_keygen,FUNC_4
+EVP_PKEY_keygen_init,FUNC_5
+cms_kari_create_ephemeral_key,FUNC_6
+kari,VAR_0
+pk,VAR_1
+pctx,VAR_2
+ekey,VAR_3
+rv,VAR_4

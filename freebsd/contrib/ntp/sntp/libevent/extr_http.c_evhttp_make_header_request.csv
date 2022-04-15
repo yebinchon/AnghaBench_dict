@@ -1,0 +1,17 @@
+EVHTTP_REQ_POST,VAR_0
+EVHTTP_REQ_PUT,VAR_1
+EV_SIZE_ARG,FUNC_0
+EV_SIZE_FMT,VAR_2
+bufferevent_get_output,FUNC_1
+evbuffer_add_printf,FUNC_2
+evbuffer_get_length,FUNC_3
+evhttp_add_header,FUNC_4
+evhttp_find_header,FUNC_5
+evhttp_method,FUNC_6
+evhttp_remove_header,FUNC_7
+evutil_snprintf,FUNC_8
+evhttp_make_header_request,FUNC_9
+evcon,VAR_3
+req,VAR_4
+method,VAR_5
+size,VAR_6

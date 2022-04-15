@@ -1,0 +1,17 @@
+CPUPOWER_CAP_INV_TSC,VAR_0
+MAX_FREQ_SYSFS,VAR_1
+MAX_FREQ_TSC_REF,VAR_2
+MSR_AMD_HWCR,VAR_3
+X86_VENDOR_AMD,VAR_4
+X86_VENDOR_HYGON,VAR_5
+X86_VENDOR_INTEL,VAR_6
+cpufreq_get_hardware_limits,FUNC_0
+cpupower_cpu_info,VAR_7
+dprint,FUNC_1
+max_freq_mode,VAR_8
+max_frequency,VAR_9
+read_msr,FUNC_2
+init_maxfreq_mode,FUNC_3
+ret,VAR_10
+hwcr,VAR_11
+min,VAR_12

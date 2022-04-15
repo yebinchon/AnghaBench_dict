@@ -1,0 +1,14 @@
+IRQF_TRIGGER_FALLING,VAR_0
+IRQF_TRIGGER_RISING,VAR_1
+SDHC1_CD,VAR_2
+SDHC1_WP,VAR_3
+gpio_direction_input,FUNC_0
+gpio_free,FUNC_1
+gpio_request,FUNC_2
+gpio_to_irq,FUNC_3
+request_irq,FUNC_4
+moboard_sdhc1_init,FUNC_5
+dev,VAR_4
+detect_irq,VAR_5
+data,VAR_6
+ret,VAR_7

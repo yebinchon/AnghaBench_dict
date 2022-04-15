@@ -1,0 +1,16 @@
+BKPT_OPCODE,VAR_0
+EXCEPT_TYPE_IXF,VAR_1
+SIGTRAP,VAR_2
+TRAP_BRKPT,VAR_3
+__ffs,FUNC_0
+ack_exception,FUNC_1
+do_trap,FUNC_2
+get_iexcept,FUNC_3
+iexcept_table,VAR_4
+pr_err,FUNC_4
+set_iexcept,FUNC_5
+process_iexcept,FUNC_6
+regs,VAR_5
+iexcept_report,VAR_6
+iexcept_num,VAR_7
+bkpt_exception,VAR_8

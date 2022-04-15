@@ -1,0 +1,16 @@
+BUS_ADD_CHILD,FUNC_0
+ISA_ORDER_SPECULATIVE,VAR_0
+SYS_RES_IOPORT,VAR_1
+bootverbose,VAR_2
+bus_set_resource,FUNC_1
+device_delete_child,FUNC_2
+device_find_child,FUNC_3
+device_printf,FUNC_4
+ports_table,VAR_3
+printf,FUNC_5
+superio_detect,FUNC_6
+superio_identify,FUNC_7
+driver,VAR_4
+parent,VAR_5
+child,VAR_6
+i,VAR_7

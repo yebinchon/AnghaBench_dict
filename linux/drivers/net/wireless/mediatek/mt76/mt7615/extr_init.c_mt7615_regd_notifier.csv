@@ -1,0 +1,15 @@
+IEEE80211_CHAN_RADAR,VAR_0
+MT_HW_RDD0,VAR_1
+MT_RX_SEL0,VAR_2
+NL80211_DFS_UNSET,VAR_3
+RDD_CAC_END,VAR_4
+mt7615_dfs_start_radar_detector,FUNC_0
+mt7615_dfs_stop_radar_detector,FUNC_1
+mt7615_mcu_rdd_cmd,FUNC_2
+wiphy_to_ieee80211_hw,FUNC_3
+mt7615_regd_notifier,FUNC_4
+wiphy,VAR_5
+request,VAR_6
+hw,VAR_7
+dev,VAR_8
+chandef,VAR_9

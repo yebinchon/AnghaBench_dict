@@ -1,0 +1,13 @@
+LLC_CMSG_PKTINFO,VAR_0
+LLC_OPT_PKTINFO,VAR_1
+SOL_LLC,VAR_2
+llc_pdu_decode_da,FUNC_0
+llc_pdu_decode_dsap,FUNC_1
+llc_sk,FUNC_2
+memset,FUNC_3
+put_cmsg,FUNC_4
+llc_cmsg_rcv,FUNC_5
+msg,VAR_3
+skb,VAR_4
+llc,VAR_5
+info,VAR_6

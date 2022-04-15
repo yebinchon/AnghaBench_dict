@@ -1,0 +1,9 @@
+CP_MEC_CNTL__MEC_ME1_HALT_MASK,VAR_0
+CP_MEC_CNTL__MEC_ME2_HALT_MASK,VAR_1
+WREG32,FUNC_0
+mmCP_MEC_CNTL,VAR_2
+udelay,FUNC_1
+gfx_v8_0_cp_compute_enable,FUNC_2
+adev,VAR_3
+enable,VAR_4
+i,VAR_5

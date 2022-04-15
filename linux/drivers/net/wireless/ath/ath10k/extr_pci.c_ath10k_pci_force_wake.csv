@@ -1,0 +1,13 @@
+PCIE_LOCAL_BASE_ADDRESS,VAR_0
+PCIE_SOC_WAKE_ADDRESS,VAR_1
+PCIE_SOC_WAKE_V_MASK,VAR_2
+ath10k_pci_priv,FUNC_0
+ath10k_pci_wake_wait,FUNC_1
+iowrite32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ath10k_pci_force_wake,FUNC_5
+ar,VAR_3
+ar_pci,VAR_4
+flags,VAR_5
+ret,VAR_6

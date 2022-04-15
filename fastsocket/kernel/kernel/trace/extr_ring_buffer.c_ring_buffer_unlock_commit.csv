@@ -1,0 +1,13 @@
+ftrace_preempt_enable,FUNC_0
+per_cpu,FUNC_1
+preempt_count,FUNC_2
+preempt_enable_no_resched_notrace,FUNC_3
+raw_smp_processor_id,FUNC_4
+rb_commit,FUNC_5
+rb_need_resched,VAR_0
+trace_recursive_unlock,FUNC_6
+ring_buffer_unlock_commit,FUNC_7
+buffer,VAR_1
+event,VAR_2
+cpu_buffer,VAR_3
+cpu,VAR_4

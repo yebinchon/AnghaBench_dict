@@ -1,0 +1,12 @@
+GIT_EBAREREPO,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+git_index_add_bypath,FUNC_3
+git_index_free,FUNC_4
+git_repository_free,FUNC_5
+git_repository_index,FUNC_6
+git_repository_open,FUNC_7
+test_index_tests__add_bypath_to_a_bare_repository_returns_EBAREPO,FUNC_8
+bare_repo,VAR_1
+index,VAR_2

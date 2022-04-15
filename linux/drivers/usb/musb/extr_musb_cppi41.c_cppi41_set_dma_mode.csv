@@ -1,0 +1,12 @@
+USB_CTRL_RX_MODE,VAR_0
+USB_CTRL_TX_MODE,VAR_1
+musb_writel,FUNC_0
+update_ep_mode,FUNC_1
+cppi41_set_dma_mode,FUNC_2
+cppi41_channel,VAR_2
+mode,VAR_3
+controller,VAR_4
+musb,VAR_5
+port,VAR_6
+new_mode,VAR_7
+old_mode,VAR_8

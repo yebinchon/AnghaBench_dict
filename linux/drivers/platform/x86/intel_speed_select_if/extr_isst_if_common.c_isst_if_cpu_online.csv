@@ -1,0 +1,9 @@
+MSR_CPU_BUS_NUMBER,VAR_0
+MSR_THREAD_ID_INFO,VAR_1
+isst_cpu_info,VAR_2
+isst_restore_msr_local,FUNC_0
+rdmsrl_safe,FUNC_1
+isst_if_cpu_online,FUNC_2
+cpu,VAR_3
+data,VAR_4
+ret,VAR_5

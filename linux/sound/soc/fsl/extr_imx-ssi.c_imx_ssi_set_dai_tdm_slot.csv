@@ -1,0 +1,17 @@
+SSI_SRCCR,VAR_0
+SSI_SRMSK,VAR_1
+SSI_STCCR,VAR_2
+SSI_STCCR_DC,FUNC_0
+SSI_STCCR_DC_MASK,VAR_3
+SSI_STMSK,VAR_4
+readl,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+writel,FUNC_3
+imx_ssi_set_dai_tdm_slot,FUNC_4
+cpu_dai,VAR_5
+tx_mask,VAR_6
+rx_mask,VAR_7
+slots,VAR_8
+slot_width,VAR_9
+ssi,VAR_10
+sccr,VAR_11

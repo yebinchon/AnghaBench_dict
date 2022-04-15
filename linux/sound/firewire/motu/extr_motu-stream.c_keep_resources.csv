@@ -1,0 +1,16 @@
+SND_MOTU_SPEC_RX_MIDI_2ND_Q,VAR_0
+SND_MOTU_SPEC_RX_MIDI_3RD_Q,VAR_1
+SND_MOTU_SPEC_TX_MIDI_2ND_Q,VAR_2
+SND_MOTU_SPEC_TX_MIDI_3RD_Q,VAR_3
+amdtp_motu_set_parameters,FUNC_0
+amdtp_stream_get_max_payload,FUNC_1
+fw_iso_resources_allocate,FUNC_2
+fw_parent_device,FUNC_3
+keep_resources,FUNC_4
+motu,VAR_4
+rate,VAR_5
+stream,VAR_6
+resources,VAR_7
+packet_format,VAR_8
+midi_ports,VAR_9
+err,VAR_10

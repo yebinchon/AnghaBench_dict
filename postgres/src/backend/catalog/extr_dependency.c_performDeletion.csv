@@ -1,0 +1,17 @@
+AcquireDeletionLock,FUNC_0
+DEPFLAG_ORIGINAL,VAR_0
+DependRelationId,VAR_1
+RowExclusiveLock,VAR_2
+deleteObjectsInList,FUNC_1
+findDependentObjects,FUNC_2
+free_object_addresses,FUNC_3
+new_object_addresses,FUNC_4
+reportDependentObjects,FUNC_5
+table_close,FUNC_6
+table_open,FUNC_7
+performDeletion,FUNC_8
+object,VAR_3
+behavior,VAR_4
+flags,VAR_5
+depRel,VAR_6
+targetObjects,VAR_7

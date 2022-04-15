@@ -1,0 +1,14 @@
+H2O_HTTP3_ERROR_QPACK_DECOMPRESSION_FAILED,VAR_0
+HEADER_ENTRY_SIZE_OFFSET,VAR_1
+SIZE_MAX,VAR_2
+decode_value,FUNC_0
+decoder_insert,FUNC_1
+h2o_mem_release_shared,FUNC_2
+h2o_qpack_err_header_exceeds_table_size,VAR_3
+decode_value_and_insert,FUNC_3
+qpack,VAR_4
+header,VAR_5
+is_huff,VAR_6
+qstr,VAR_7
+qstrlen,VAR_8
+err_desc,VAR_9

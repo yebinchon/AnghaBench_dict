@@ -1,0 +1,8 @@
+ARM_SMMU_GR0_TLBIVMID,VAR_0
+arm_smmu_gr0_write,FUNC_0
+arm_smmu_tlb_sync_global,FUNC_1
+wmb,FUNC_2
+arm_smmu_tlb_inv_context_s2,FUNC_3
+cookie,VAR_1
+smmu_domain,VAR_2
+smmu,VAR_3

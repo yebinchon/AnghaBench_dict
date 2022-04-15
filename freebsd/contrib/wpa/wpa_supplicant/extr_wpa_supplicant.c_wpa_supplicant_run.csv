@@ -1,0 +1,12 @@
+eloop_register_signal_reconfig,FUNC_0
+eloop_register_signal_terminate,FUNC_1
+eloop_run,FUNC_2
+eloop_sock_requeue,FUNC_3
+wpa_supplicant_ctrl_iface_wait,FUNC_4
+wpa_supplicant_daemon,FUNC_5
+wpa_supplicant_match_existing,FUNC_6
+wpa_supplicant_reconfig,VAR_0
+wpa_supplicant_terminate,VAR_1
+wpa_supplicant_run,FUNC_7
+global,VAR_2
+wpa_s,VAR_3

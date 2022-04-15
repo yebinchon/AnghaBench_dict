@@ -1,0 +1,11 @@
+hdac_hdmi_get_pcm_from_cvt,FUNC_0
+memset,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+snd_soc_dai_get_drvdata,FUNC_4
+hdac_hdmi_pcm_close,FUNC_5
+substream,VAR_0
+dai,VAR_1
+hdmi,VAR_2
+dai_map,VAR_3
+pcm,VAR_4

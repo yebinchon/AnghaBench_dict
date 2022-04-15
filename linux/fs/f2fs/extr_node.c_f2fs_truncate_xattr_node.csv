@@ -1,0 +1,16 @@
+F2FS_I,FUNC_0
+F2FS_I_SB,FUNC_1
+IS_ERR,FUNC_2
+PTR_ERR,FUNC_3
+f2fs_get_node_page,FUNC_4
+f2fs_i_xnid_write,FUNC_5
+f2fs_put_page,FUNC_6
+set_new_dnode,FUNC_7
+truncate_node,FUNC_8
+f2fs_truncate_xattr_node,FUNC_9
+inode,VAR_0
+sbi,VAR_1
+nid,VAR_2
+dn,VAR_3
+npage,VAR_4
+err,VAR_5

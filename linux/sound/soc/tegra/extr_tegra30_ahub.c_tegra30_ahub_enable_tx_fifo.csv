@@ -1,0 +1,14 @@
+TEGRA30_AHUB_CHANNEL_CTRL,VAR_0
+TEGRA30_AHUB_CHANNEL_CTRL_STRIDE,VAR_1
+TEGRA30_AHUB_CHANNEL_CTRL_TX_EN,VAR_2
+TEGRA30_AHUB_TXCIF_APBIF_TX0,VAR_3
+ahub,VAR_4
+pm_runtime_get_sync,FUNC_0
+pm_runtime_put,FUNC_1
+tegra30_apbif_read,FUNC_2
+tegra30_apbif_write,FUNC_3
+tegra30_ahub_enable_tx_fifo,FUNC_4
+txcif,VAR_5
+channel,VAR_6
+reg,VAR_7
+val,VAR_8

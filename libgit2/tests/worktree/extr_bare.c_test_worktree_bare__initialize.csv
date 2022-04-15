@@ -1,0 +1,7 @@
+COMMON_REPO,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_sandbox_init,FUNC_1
+g_repo,VAR_1
+git_repository_is_bare,FUNC_2
+git_repository_is_worktree,FUNC_3
+test_worktree_bare__initialize,FUNC_4

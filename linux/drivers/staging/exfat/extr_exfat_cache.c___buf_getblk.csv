@@ -1,0 +1,14 @@
+EXFAT_SB,FUNC_0
+FFS_SUCCESS,VAR_0
+buf_cache_find,FUNC_1
+buf_cache_get,FUNC_2
+buf_cache_insert_hash,FUNC_3
+buf_cache_remove_hash,FUNC_4
+move_to_lru,FUNC_5
+move_to_mru,FUNC_6
+sector_read,FUNC_7
+__buf_getblk,FUNC_8
+sb,VAR_1
+sec,VAR_2
+bp,VAR_3
+p_fs,VAR_4

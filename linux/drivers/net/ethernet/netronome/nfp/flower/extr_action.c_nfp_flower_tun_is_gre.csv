@@ -1,0 +1,9 @@
+FLOW_ACTION_MIRRED,VAR_0
+FLOW_ACTION_REDIRECT,VAR_1
+netif_is_gretap,FUNC_0
+nfp_flower_tun_is_gre,FUNC_1
+flow,VAR_2
+start_idx,VAR_3
+act,VAR_4
+num_act,VAR_5
+act_idx,VAR_6

@@ -1,0 +1,13 @@
+CHIP_ID_128X_PG20,VAR_0
+RX_MEM_BLOCK_MASK,VAR_1
+WL1271_SLV_REG_DATA,VAR_2
+le32_to_cpu,FUNC_0
+wlcore_write,FUNC_1
+wl127x_prepare_read,FUNC_2
+wl,VAR_3
+rx_desc,VAR_4
+len,VAR_5
+ret,VAR_6
+wl_mem_map,VAR_7
+priv,VAR_8
+mem_block,VAR_9

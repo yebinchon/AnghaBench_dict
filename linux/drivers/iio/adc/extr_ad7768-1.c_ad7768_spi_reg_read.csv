@@ -1,0 +1,9 @@
+AD7768_RD_FLAG_MSK,FUNC_0
+be32_to_cpu,FUNC_1
+spi_write_then_read,FUNC_2
+ad7768_spi_reg_read,FUNC_3
+st,VAR_0
+addr,VAR_1
+len,VAR_2
+shift,VAR_3
+ret,VAR_4

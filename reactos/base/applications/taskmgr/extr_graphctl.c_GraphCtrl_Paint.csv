@@ -1,0 +1,15 @@
+BitBlt,FUNC_0
+CreateCompatibleBitmap,FUNC_1
+CreateCompatibleDC,FUNC_2
+DeleteDC,FUNC_3
+DeleteObject,FUNC_4
+SRCCOPY,VAR_0
+SRCPAINT,VAR_1
+SelectObject,FUNC_5
+GraphCtrl_Paint,FUNC_6
+this,VAR_2
+hWnd,VAR_3
+dc,VAR_4
+memDC,VAR_5
+memBitmap,VAR_6
+oldBitmap,VAR_7

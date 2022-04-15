@@ -1,0 +1,16 @@
+EHCI_SCFLG_DONEINIT,VAR_0
+EHCI_USBINTR,VAR_1
+bus_release_resources,FUNC_0
+bus_space_write_4,FUNC_1
+bus_teardown_intr,FUNC_2
+device_delete_child,FUNC_3
+device_delete_children,FUNC_4
+device_get_softc,FUNC_5
+device_printf,FUNC_6
+ehci_detach,FUNC_7
+exynos_ehci_spec,VAR_2
+exynos_ehci_detach,FUNC_8
+dev,VAR_3
+esc,VAR_4
+sc,VAR_5
+err,VAR_6

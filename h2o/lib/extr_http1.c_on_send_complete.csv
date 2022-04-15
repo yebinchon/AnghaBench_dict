@@ -1,0 +1,13 @@
+H2O_STRLIT,FUNC_0
+OSTREAM_STATE_DONE,VAR_0
+assert,FUNC_1
+cleanup_connection,FUNC_2
+h2o_build_server_timing_trailer,FUNC_3
+h2o_gettimeofday,FUNC_4
+h2o_socket_write,FUNC_5
+on_send_complete_post_trailers,VAR_1
+on_send_complete,FUNC_6
+sock,VAR_2
+err,VAR_3
+conn,VAR_4
+trailer,VAR_5

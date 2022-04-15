@@ -1,0 +1,16 @@
+BVME_IRQ_ABORT,VAR_0
+BVME_IRQ_RTC,VAR_1
+BVME_RTC_BASE,VAR_2
+IRQF_TIMER,VAR_3
+RTC_TIMER_CLOCK_FREQ,VAR_4
+RTC_TIMER_COUNT,VAR_5
+bvme6000_abort_int,VAR_6
+bvme6000_clk,VAR_7
+bvme6000_timer_int,VAR_8
+clocksource_register_hz,FUNC_0
+panic,FUNC_1
+request_irq,FUNC_2
+bvme6000_sched_init,FUNC_3
+timer_routine,VAR_9
+rtc,VAR_10
+msr,VAR_11

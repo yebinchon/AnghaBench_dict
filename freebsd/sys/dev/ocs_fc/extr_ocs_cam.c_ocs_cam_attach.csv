@@ -1,0 +1,17 @@
+MTX_DEF,VAR_0
+OCS_SCSI_MAX_IOS,VAR_1
+cam_simq_alloc,FUNC_0
+cam_simq_free,FUNC_1
+device_printf,FUNC_2
+mtx_destroy,FUNC_3
+mtx_init,FUNC_4
+mtx_initialized,FUNC_5
+ocs_attach_port,FUNC_6
+ocs_detach_port,FUNC_7
+ocs_log_err,FUNC_8
+ocs_scsi_get_property,FUNC_9
+ocs_cam_attach,FUNC_10
+ocs,VAR_2
+devq,VAR_3
+i,VAR_4
+max_io,VAR_5

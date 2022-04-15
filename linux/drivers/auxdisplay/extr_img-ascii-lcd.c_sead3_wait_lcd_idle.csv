@@ -1,0 +1,9 @@
+SEAD3_REG_CPLD_DATA,VAR_0
+SEAD3_REG_CPLD_DATA_BUSY,VAR_1
+SEAD3_REG_LCD_CTRL,VAR_2
+regmap_read,FUNC_0
+sead3_wait_sm_idle,FUNC_1
+sead3_wait_lcd_idle,FUNC_2
+ctx,VAR_3
+cpld_data,VAR_4
+err,VAR_5

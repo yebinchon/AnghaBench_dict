@@ -1,0 +1,10 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_pmtu_admin_mtu_set,FUNC_1
+mlxsw_reg_pmtu_local_port_set,FUNC_2
+mlxsw_reg_pmtu_max_mtu_set,FUNC_3
+mlxsw_reg_pmtu_oper_mtu_set,FUNC_4
+pmtu,VAR_0
+mlxsw_reg_pmtu_pack,FUNC_5
+payload,VAR_1
+local_port,VAR_2
+new_mtu,VAR_3

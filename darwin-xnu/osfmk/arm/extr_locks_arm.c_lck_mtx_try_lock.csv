@@ -1,0 +1,13 @@
+FALSE,VAR_0
+LCK_MTX_THREAD_TO_STATE,FUNC_0
+LOCKSTAT_RECORD,FUNC_1
+LS_LCK_MTX_TRY_LOCK_ACQUIRE,VAR_1
+TRUE,VAR_2
+atomic_compare_exchange,FUNC_2
+current_thread,FUNC_3
+lck_mtx_try_lock_contended,FUNC_4
+lck_mtx_verify,FUNC_5
+memory_order_acquire_smp,VAR_3
+lck_mtx_try_lock,FUNC_6
+lock,VAR_4
+thread,VAR_5

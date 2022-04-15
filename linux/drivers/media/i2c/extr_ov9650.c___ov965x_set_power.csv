@@ -1,0 +1,10 @@
+GPIO_PWDN,VAR_0
+GPIO_RST,VAR_1
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+gpiod_set_value_cansleep,FUNC_2
+msleep,FUNC_3
+__ov965x_set_power,FUNC_4
+ov965x,VAR_2
+on,VAR_3
+ret,VAR_4

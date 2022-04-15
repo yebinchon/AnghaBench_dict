@@ -1,0 +1,14 @@
+enable_pml,VAR_0
+free_loaded_vmcs,FUNC_0
+free_vpid,FUNC_1
+kfree,FUNC_2
+kmem_cache_free,FUNC_3
+kvm_vcpu_cache,VAR_1
+kvm_vcpu_uninit,FUNC_4
+nested_vmx_free_vcpu,FUNC_5
+to_vmx,FUNC_6
+vmx_destroy_pml_buffer,FUNC_7
+x86_fpu_cache,VAR_2
+vmx_free_vcpu,FUNC_8
+vcpu,VAR_3
+vmx,VAR_4

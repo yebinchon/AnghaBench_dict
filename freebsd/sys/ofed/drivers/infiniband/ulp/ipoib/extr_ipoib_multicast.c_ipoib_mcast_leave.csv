@@ -1,0 +1,12 @@
+IPOIB_MCAST_FLAG_ATTACHED,VAR_0
+IPOIB_MCAST_FLAG_BUSY,VAR_1
+be16_to_cpu,FUNC_0
+ib_detach_mcast,FUNC_1
+ib_sa_free_multicast,FUNC_2
+ipoib_dbg_mcast,FUNC_3
+ipoib_warn,FUNC_4
+test_and_clear_bit,FUNC_5
+ipoib_mcast_leave,FUNC_6
+priv,VAR_2
+mcast,VAR_3
+ret,VAR_4

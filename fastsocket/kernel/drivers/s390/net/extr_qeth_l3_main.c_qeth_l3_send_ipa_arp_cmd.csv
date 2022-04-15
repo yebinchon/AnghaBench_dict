@@ -1,0 +1,14 @@
+IPA_PDU_HEADER,VAR_0
+IPA_PDU_HEADER_SIZE,VAR_1
+QETH_DBF_TEXT,FUNC_0
+QETH_IPA_CMD_DEST_ADDR,FUNC_1
+QETH_MPC_TOKEN_LENGTH,VAR_2
+TRACE,VAR_3
+memcpy,FUNC_2
+qeth_send_control_data,FUNC_3
+qeth_l3_send_ipa_arp_cmd,FUNC_4
+card,VAR_4
+iob,VAR_5
+len,VAR_6
+reply_cb,VAR_7
+reply_param,VAR_8

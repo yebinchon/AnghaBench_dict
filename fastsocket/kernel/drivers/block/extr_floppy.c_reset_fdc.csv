@@ -1,0 +1,15 @@
+FDCS,VAR_0
+FDC_82072A,VAR_1
+FD_DOR,VAR_2
+FD_RESET_DELAY,VAR_3
+FD_STATUS,VAR_4
+claim_dma_lock,FUNC_0
+do_floppy,VAR_5
+fd_disable_dma,FUNC_1
+fd_outb,FUNC_2
+release_dma_lock,FUNC_3
+reset_fdc_info,FUNC_4
+reset_interrupt,VAR_6
+udelay,FUNC_5
+reset_fdc,FUNC_6
+flags,VAR_7

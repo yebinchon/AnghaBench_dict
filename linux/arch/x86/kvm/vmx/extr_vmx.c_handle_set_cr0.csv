@@ -1,0 +1,13 @@
+CR0_READ_SHADOW,VAR_0
+get_vmcs12,FUNC_0
+is_guest_mode,FUNC_1
+kvm_set_cr0,FUNC_2
+nested_guest_cr0_valid,FUNC_3
+nested_host_cr0_valid,FUNC_4
+to_vmx,FUNC_5
+vmcs_writel,FUNC_6
+handle_set_cr0,FUNC_7
+vcpu,VAR_1
+val,VAR_2
+vmcs12,VAR_3
+orig_val,VAR_4

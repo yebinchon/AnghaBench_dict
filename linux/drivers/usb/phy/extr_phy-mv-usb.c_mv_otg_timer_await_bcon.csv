@@ -1,0 +1,11 @@
+A_WAIT_BCON_TIMER,VAR_0
+dev_info,FUNC_0
+from_timer,FUNC_1
+mv_otg_run_state_machine,FUNC_2
+mvotg,VAR_1
+otg_ctrl,VAR_2
+spin_trylock,FUNC_3
+spin_unlock,FUNC_4
+mv_otg_timer_await_bcon,FUNC_5
+t,VAR_3
+mvotg,VAR_4

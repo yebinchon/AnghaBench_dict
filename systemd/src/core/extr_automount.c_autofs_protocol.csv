@@ -1,0 +1,13 @@
+AUTOFS_DEV_IOCTL_PROTOSUBVER,VAR_0
+AUTOFS_DEV_IOCTL_PROTOVER,VAR_1
+assert,FUNC_0
+errno,VAR_2
+init_autofs_dev_ioctl,FUNC_1
+ioctl,FUNC_2
+log_debug,FUNC_3
+autofs_protocol,FUNC_4
+dev_autofs_fd,VAR_3
+ioctl_fd,VAR_4
+major,VAR_5
+minor,VAR_6
+param,VAR_7

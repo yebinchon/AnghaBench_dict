@@ -1,0 +1,17 @@
+DS3232_REG_ALARM1,VAR_0
+DS3232_REG_CR,VAR_1
+DS3232_REG_CR_A1IE,VAR_2
+DS3232_REG_SR,VAR_3
+DS3232_REG_SR_A1F,VAR_4
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+regmap_bulk_read,FUNC_2
+regmap_read,FUNC_3
+ds3232_read_alarm,FUNC_4
+dev,VAR_5
+alarm,VAR_6
+ds3232,VAR_7
+control,VAR_8
+stat,VAR_9
+ret,VAR_10
+buf,VAR_11

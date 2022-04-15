@@ -1,0 +1,17 @@
+DEVLINK_ATTR_DPIPE_FIELD,VAR_0
+DEVLINK_ATTR_DPIPE_FIELD_BITWIDTH,VAR_1
+DEVLINK_ATTR_DPIPE_FIELD_ID,VAR_2
+DEVLINK_ATTR_DPIPE_FIELD_MAPPING_TYPE,VAR_3
+DEVLINK_ATTR_DPIPE_FIELD_NAME,VAR_4
+EMSGSIZE,VAR_5
+nla_nest_cancel,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start_noflag,FUNC_2
+nla_put_string,FUNC_3
+nla_put_u32,FUNC_4
+devlink_dpipe_fields_put,FUNC_5
+skb,VAR_6
+header,VAR_7
+field,VAR_8
+field_attr,VAR_9
+i,VAR_10

@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+RW_LOCK_HELD,FUNC_1
+RW_WRITER,VAR_0
+dmu_zfetch_stream_remove,FUNC_2
+list_destroy,FUNC_3
+list_head,FUNC_4
+rw_destroy,FUNC_5
+rw_enter,FUNC_6
+rw_exit,FUNC_7
+dmu_zfetch_fini,FUNC_8
+zf,VAR_1
+zs,VAR_2

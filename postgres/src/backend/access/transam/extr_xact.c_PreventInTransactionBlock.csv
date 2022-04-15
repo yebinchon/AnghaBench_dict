@@ -1,0 +1,15 @@
+CurrentTransactionState,VAR_0
+ERRCODE_ACTIVE_SQL_TRANSACTION,VAR_1
+ERROR,VAR_2
+FATAL,VAR_3
+IsSubTransaction,FUNC_0
+IsTransactionBlock,FUNC_1
+TBLOCK_DEFAULT,VAR_4
+TBLOCK_STARTED,VAR_5
+elog,FUNC_2
+ereport,FUNC_3
+errcode,FUNC_4
+errmsg,FUNC_5
+PreventInTransactionBlock,FUNC_6
+isTopLevel,VAR_6
+stmtType,VAR_7

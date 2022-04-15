@@ -1,0 +1,11 @@
+BUG,FUNC_0
+HYPERVISOR_set_trap_table,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+xen_convert_trap_info,FUNC_4
+xen_mc_flush,FUNC_5
+xen_load_idt,FUNC_6
+desc,VAR_0
+lock,VAR_1
+traps,VAR_2
+idt_desc,VAR_3

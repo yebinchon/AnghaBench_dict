@@ -1,0 +1,9 @@
+add_round_key,FUNC_0
+br_aes_ct64_bitslice_invSbox,FUNC_1
+inv_mix_columns,FUNC_2
+inv_shift_rows,FUNC_3
+br_aes_ct64_bitslice_decrypt,FUNC_4
+num_rounds,VAR_0
+skey,VAR_1
+q,VAR_2
+u,VAR_3

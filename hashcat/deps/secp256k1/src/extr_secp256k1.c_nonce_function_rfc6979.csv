@@ -1,0 +1,16 @@
+buffer_append,FUNC_0
+memset,FUNC_1
+secp256k1_rfc6979_hmac_sha256_finalize,FUNC_2
+secp256k1_rfc6979_hmac_sha256_generate,FUNC_3
+secp256k1_rfc6979_hmac_sha256_initialize,FUNC_4
+nonce_function_rfc6979,FUNC_5
+nonce32,VAR_0
+msg32,VAR_1
+key32,VAR_2
+algo16,VAR_3
+data,VAR_4
+counter,VAR_5
+keydata,VAR_6
+offset,VAR_7
+rng,VAR_8
+i,VAR_9

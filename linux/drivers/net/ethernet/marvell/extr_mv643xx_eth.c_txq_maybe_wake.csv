@@ -1,0 +1,11 @@
+__netif_tx_lock,FUNC_0
+__netif_tx_unlock,FUNC_1
+netdev_get_tx_queue,FUNC_2
+netif_tx_queue_stopped,FUNC_3
+netif_tx_wake_queue,FUNC_4
+smp_processor_id,FUNC_5
+txq_to_mp,FUNC_6
+txq_maybe_wake,FUNC_7
+txq,VAR_0
+mp,VAR_1
+nq,VAR_2

@@ -1,0 +1,10 @@
+AC_VERB_GET_COEF_INDEX,VAR_0
+AC_VERB_SET_COEF_INDEX,VAR_1
+EINVAL,VAR_2
+snd_hdac_exec_verb,FUNC_0
+hda_reg_read_coef,FUNC_1
+codec,VAR_3
+reg,VAR_4
+val,VAR_5
+verb,VAR_6
+err,VAR_7

@@ -1,0 +1,13 @@
+ENOMEM,VAR_0
+HDA_FIXUP_ACT_BUILD,VAR_1
+alc_beep_mixer,VAR_2
+snd_ctl_new1,FUNC_0
+snd_hda_add_new_ctls,FUNC_1
+snd_hda_apply_fixup,FUNC_2
+snd_hda_ctl_add,FUNC_3
+snd_hda_gen_build_controls,FUNC_4
+alc_build_controls,FUNC_5
+codec,VAR_3
+spec,VAR_4
+i,VAR_5
+err,VAR_6

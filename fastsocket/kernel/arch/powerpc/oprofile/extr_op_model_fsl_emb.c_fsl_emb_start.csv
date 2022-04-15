@@ -1,0 +1,17 @@
+MSR_PMM,VAR_0
+PMRN_PMGC0,VAR_1
+ctr_write,FUNC_0
+mfmsr,FUNC_1
+mfpmr,FUNC_2
+mtmsr,FUNC_3
+num_counters,VAR_2
+oprofile_running,VAR_3
+pmc_start_ctr,FUNC_4
+pmc_start_ctrs,FUNC_5
+pr_debug,FUNC_6
+reset_value,VAR_4
+set_pmc_marked,FUNC_7
+smp_processor_id,FUNC_8
+fsl_emb_start,FUNC_9
+ctr,VAR_5
+i,VAR_6

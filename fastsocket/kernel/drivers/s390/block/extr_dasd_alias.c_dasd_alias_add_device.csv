@@ -1,0 +1,15 @@
+UPDATE_PENDING,VAR_0
+_add_device_to_lcu,FUNC_0
+_schedule_lcu_update,FUNC_1
+get_ccwdev_lock,FUNC_2
+list_move,FUNC_3
+spin_lock,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+dasd_alias_add_device,FUNC_8
+device,VAR_1
+private,VAR_2
+lcu,VAR_3
+flags,VAR_4
+rc,VAR_5

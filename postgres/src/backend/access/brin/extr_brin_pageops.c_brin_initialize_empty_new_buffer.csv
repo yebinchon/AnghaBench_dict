@@ -1,0 +1,16 @@
+BRIN_PAGETYPE_REGULAR,VAR_0
+BRIN_elog,FUNC_0
+BufferGetBlockNumber,FUNC_1
+BufferGetPage,FUNC_2
+DEBUG2,VAR_1
+END_CRIT_SECTION,FUNC_3
+MarkBufferDirty,FUNC_4
+RecordPageWithFreeSpace,FUNC_5
+START_CRIT_SECTION,FUNC_6
+br_page_get_freespace,FUNC_7
+brin_page_init,FUNC_8
+log_newpage_buffer,FUNC_9
+brin_initialize_empty_new_buffer,FUNC_10
+idxrel,VAR_2
+buffer,VAR_3
+page,VAR_4

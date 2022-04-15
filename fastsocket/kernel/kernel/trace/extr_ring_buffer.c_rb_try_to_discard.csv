@@ -1,0 +1,16 @@
+PAGE_MASK,VAR_0
+RB_WRITE_MASK,VAR_1
+local_cmpxchg,FUNC_0
+local_read,FUNC_1
+rb_event_index,FUNC_2
+rb_event_length,FUNC_3
+rb_page_write,FUNC_4
+rb_try_to_discard,FUNC_5
+cpu_buffer,VAR_2
+event,VAR_3
+new_index,VAR_4
+old_index,VAR_5
+bpage,VAR_6
+index,VAR_7
+addr,VAR_8
+write_mask,VAR_9

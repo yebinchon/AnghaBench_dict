@@ -1,0 +1,12 @@
+BASE_STD,VAR_0
+CONFIG_NO_HZ_COMMON,VAR_1
+IS_ENABLED,FUNC_0
+TIMER_SOFTIRQ,VAR_2
+hrtimer_run_queues,FUNC_1
+jiffies,VAR_3
+raise_softirq,FUNC_2
+this_cpu_ptr,FUNC_3
+time_before,FUNC_4
+timer_bases,VAR_4
+run_local_timers,FUNC_5
+base,VAR_5

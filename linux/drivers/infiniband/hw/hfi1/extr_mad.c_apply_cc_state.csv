@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+IB_CC_CCS_PC_SL_BASED,VAR_1
+OPA_MAX_SLS,VAR_2
+get_cc_state_protected,FUNC_0
+kfree,FUNC_1
+kfree_rcu,FUNC_2
+kzalloc,FUNC_3
+memcpy,FUNC_4
+rcu,VAR_3
+rcu_assign_pointer,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+apply_cc_state,FUNC_8
+ppd,VAR_4
+old_cc_state,VAR_5
+new_cc_state,VAR_6

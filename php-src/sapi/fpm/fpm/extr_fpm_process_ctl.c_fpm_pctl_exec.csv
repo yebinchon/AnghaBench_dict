@@ -1,0 +1,14 @@
+FPM_CLEANUP_PARENT_EXEC,VAR_0
+FPM_EXIT_SOFTWARE,VAR_1
+ZLOG_DEBUG,VAR_2
+ZLOG_NOTICE,VAR_3
+ZLOG_SYSERROR,VAR_4
+ZLOG_WARNING,VAR_5
+execvp,FUNC_0
+exit,FUNC_1
+fpm_cleanups_run,FUNC_2
+fpm_signals_block,FUNC_3
+optional_arg,FUNC_4
+saved_argv,VAR_6
+zlog,FUNC_5
+fpm_pctl_exec,FUNC_6

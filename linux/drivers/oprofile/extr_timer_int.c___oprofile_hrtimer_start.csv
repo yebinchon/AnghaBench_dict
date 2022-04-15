@@ -1,0 +1,14 @@
+CLOCK_MONOTONIC,VAR_0
+HRTIMER_MODE_REL,VAR_1
+HRTIMER_MODE_REL_PINNED,VAR_2
+TICK_NSEC,VAR_3
+ctr_running,VAR_4
+hrtimer_init,FUNC_0
+hrtimer_start,FUNC_1
+ns_to_ktime,FUNC_2
+oprofile_hrtimer,VAR_5
+oprofile_hrtimer_notify,VAR_6
+this_cpu_ptr,FUNC_3
+__oprofile_hrtimer_start,FUNC_4
+unused,VAR_7
+hrtimer,VAR_8

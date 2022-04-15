@@ -1,0 +1,14 @@
+KVM_PIO_IN,VAR_0
+emul_to_vcpu,FUNC_0
+emulator_pio_in_out,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+trace_kvm_pio,FUNC_4
+emulator_pio_in_emulated,FUNC_5
+ctxt,VAR_1
+size,VAR_2
+port,VAR_3
+val,VAR_4
+count,VAR_5
+vcpu,VAR_6
+ret,VAR_7

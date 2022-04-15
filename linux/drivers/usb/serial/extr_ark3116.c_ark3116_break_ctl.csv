@@ -1,0 +1,11 @@
+UART_LCR,VAR_0
+UART_LCR_SBC,VAR_1
+ark3116_write_reg,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+usb_get_serial_port_data,FUNC_3
+ark3116_break_ctl,FUNC_4
+tty,VAR_2
+break_state,VAR_3
+port,VAR_4
+priv,VAR_5

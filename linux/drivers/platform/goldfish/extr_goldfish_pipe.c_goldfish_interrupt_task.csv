@@ -1,0 +1,14 @@
+BIT_CLOSED_ON_HOST,VAR_0
+BIT_WAKE_ON_READ,VAR_1
+BIT_WAKE_ON_WRITE,VAR_2
+PIPE_WAKE_CLOSED,VAR_3
+PIPE_WAKE_READ,VAR_4
+PIPE_WAKE_WRITE,VAR_5
+clear_bit,FUNC_0
+signalled_pipes_pop_front,FUNC_1
+wake_up_interruptible,FUNC_2
+goldfish_interrupt_task,FUNC_3
+dev_addr,VAR_6
+dev,VAR_7
+pipe,VAR_8
+wakes,VAR_9

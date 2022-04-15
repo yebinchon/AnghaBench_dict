@@ -1,0 +1,17 @@
+AdjustTokenPrivileges,FUNC_0
+CloseHandle,FUNC_1
+ERROR_SUCCESS,VAR_0
+FALSE,VAR_1
+GetCurrentProcess,FUNC_2
+GetLastError,FUNC_3
+LookupPrivilegeValue,FUNC_4
+OpenProcessToken,FUNC_5
+SE_LOAD_DRIVER_NAME,VAR_2
+SE_PRIVILEGE_ENABLED,VAR_3
+TOKEN_ADJUST_PRIVILEGES,VAR_4
+TRUE,VAR_5
+SetPrivilege,FUNC_6
+bSet,VAR_6
+tp,VAR_7
+hToken,VAR_8
+luid,VAR_9

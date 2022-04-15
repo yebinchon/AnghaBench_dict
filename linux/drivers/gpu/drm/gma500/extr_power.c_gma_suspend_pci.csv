@@ -1,0 +1,14 @@
+PCI_D3hot,VAR_0
+PSB_PCIx_MSI_ADDR_LOC,VAR_1
+PSB_PCIx_MSI_DATA_LOC,VAR_2
+pci_disable_device,FUNC_0
+pci_get_drvdata,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_save_state,FUNC_3
+pci_set_power_state,FUNC_4
+gma_suspend_pci,FUNC_5
+pdev,VAR_3
+dev,VAR_4
+dev_priv,VAR_5
+bsm,VAR_6
+vbt,VAR_7

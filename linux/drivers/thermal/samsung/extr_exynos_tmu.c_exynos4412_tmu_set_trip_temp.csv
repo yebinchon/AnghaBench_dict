@@ -1,0 +1,12 @@
+EXYNOS_THD_TEMP_RISE,VAR_0
+EXYNOS_TMU_REG_CONTROL,VAR_1
+EXYNOS_TMU_THERM_TRIP_EN_SHIFT,VAR_2
+readl,FUNC_0
+temp_to_code,FUNC_1
+writel,FUNC_2
+exynos4412_tmu_set_trip_temp,FUNC_3
+data,VAR_3
+trip,VAR_4
+temp,VAR_5
+th,VAR_6
+con,VAR_7

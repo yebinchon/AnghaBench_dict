@@ -1,0 +1,9 @@
+GIT_BRANCH_ALL,VAR_0
+GIT_BRANCH_LOCAL,VAR_1
+GIT_BRANCH_REMOTE,VAR_2
+GIT_ENOTFOUND,VAR_3
+branch,VAR_4
+cl_assert_equal_i,FUNC_0
+git_branch_lookup,FUNC_1
+repo,VAR_5
+test_refs_branches_lookup__trying_to_retrieve_an_unknown_branch_returns_ENOTFOUND,FUNC_2

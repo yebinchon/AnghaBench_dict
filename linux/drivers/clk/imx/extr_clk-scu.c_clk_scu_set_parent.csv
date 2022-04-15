@@ -1,0 +1,13 @@
+IMX_SC_PM_FUNC_SET_CLOCK_PARENT,VAR_0
+IMX_SC_RPC_SVC_PM,VAR_1
+IMX_SC_RPC_VERSION,VAR_2
+ccm_ipc_handle,VAR_3
+cpu_to_le16,FUNC_0
+imx_scu_call_rpc,FUNC_1
+to_clk_scu,FUNC_2
+clk_scu_set_parent,FUNC_3
+hw,VAR_4
+index,VAR_5
+clk,VAR_6
+msg,VAR_7
+hdr,VAR_8

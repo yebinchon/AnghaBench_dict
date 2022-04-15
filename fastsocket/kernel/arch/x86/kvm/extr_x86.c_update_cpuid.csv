@@ -1,0 +1,12 @@
+X86_CR4_OSXSAVE,VAR_0
+X86_FEATURE_OSXSAVE,VAR_1
+X86_FEATURE_TSC_DEADLINE_TIMER,VAR_2
+bit,FUNC_0
+cpu_has_xsave,VAR_3
+kvm_find_cpuid_entry,FUNC_1
+kvm_pmu_cpuid_update,FUNC_2
+kvm_read_cr4_bits,FUNC_3
+update_cpuid,FUNC_4
+vcpu,VAR_4
+best,VAR_5
+apic,VAR_6

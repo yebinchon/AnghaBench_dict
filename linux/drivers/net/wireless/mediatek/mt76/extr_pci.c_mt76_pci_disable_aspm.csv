@@ -1,0 +1,16 @@
+CONFIG_PCIEASPM,VAR_0
+IS_ENABLED,FUNC_0
+PCI_EXP_LNKCTL,VAR_1
+PCI_EXP_LNKCTL_ASPMC,VAR_2
+PCI_EXP_LNKCTL_ASPM_L0S,VAR_3
+PCI_EXP_LNKCTL_ASPM_L1,VAR_4
+dev_info,FUNC_1
+pci_disable_link_state,FUNC_2
+pcie_capability_clear_word,FUNC_3
+pcie_capability_read_word,FUNC_4
+mt76_pci_disable_aspm,FUNC_5
+pdev,VAR_5
+parent,VAR_6
+aspm_conf,VAR_7
+parent_aspm_conf,VAR_8
+err,VAR_9

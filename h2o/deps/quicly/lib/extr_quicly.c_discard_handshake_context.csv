@@ -1,0 +1,13 @@
+QUICLY_EPOCH_HANDSHAKE,VAR_0
+QUICLY_TRANSPORT_ERROR_PROTOCOL_VIOLATION,VAR_1
+assert,FUNC_0
+destroy_handshake_flow,FUNC_1
+free_handshake_space,FUNC_2
+ptls_aead_free,FUNC_3
+ptls_cipher_free,FUNC_4
+quicly_is_client,FUNC_5
+discard_handshake_context,FUNC_6
+conn,VAR_2
+packet,VAR_3
+sent,VAR_4
+event,VAR_5

@@ -1,0 +1,11 @@
+PRIBIO,VAR_0
+TWE_CMD_BUSY,VAR_1
+TWE_CMD_COMPLETE,VAR_2
+TWE_CMD_SLEEPER,VAR_3
+TWE_IO_ASSERT_LOCKED,FUNC_0
+debug_called,FUNC_1
+mtx_sleep,FUNC_2
+twe_enqueue_ready,FUNC_3
+twe_startio,FUNC_4
+twe_wait_request,FUNC_5
+tr,VAR_4

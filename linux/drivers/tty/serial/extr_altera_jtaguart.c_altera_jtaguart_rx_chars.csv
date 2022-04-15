@@ -1,0 +1,16 @@
+ALTERA_JTAGUART_DATA_DATA_MSK,VAR_0
+ALTERA_JTAGUART_DATA_REG,VAR_1
+ALTERA_JTAGUART_DATA_RVALID_MSK,VAR_2
+TTY_NORMAL,VAR_3
+readl,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+tty_flip_buffer_push,FUNC_3
+uart_handle_sysrq_char,FUNC_4
+uart_insert_char,FUNC_5
+altera_jtaguart_rx_chars,FUNC_6
+pp,VAR_4
+port,VAR_5
+ch,VAR_6
+flag,VAR_7
+status,VAR_8

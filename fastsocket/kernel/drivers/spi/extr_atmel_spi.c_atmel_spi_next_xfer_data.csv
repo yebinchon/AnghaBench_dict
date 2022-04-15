@@ -1,0 +1,13 @@
+BUFFER_SIZE,VAR_0
+DMA_TO_DEVICE,VAR_1
+dma_sync_single_for_device,FUNC_0
+memset,FUNC_1
+spi_master_get_devdata,FUNC_2
+atmel_spi_next_xfer_data,FUNC_3
+master,VAR_2
+xfer,VAR_3
+tx_dma,VAR_4
+rx_dma,VAR_5
+plen,VAR_6
+as,VAR_7
+len,VAR_8

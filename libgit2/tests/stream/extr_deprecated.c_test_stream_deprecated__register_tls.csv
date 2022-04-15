@@ -1,0 +1,14 @@
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_p,FUNC_2
+cl_git_fail_with,FUNC_3
+cl_git_pass,FUNC_4
+ctor_called,VAR_0
+git_stream_free,FUNC_5
+git_stream_register_tls,FUNC_6
+git_tls_stream_new,FUNC_7
+test_stream,VAR_1
+test_stream_init,VAR_2
+test_stream_deprecated__register_tls,FUNC_8
+stream,VAR_3
+error,VAR_4

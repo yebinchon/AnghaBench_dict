@@ -1,0 +1,17 @@
+BLK_STS_IOERR,VAR_0
+BLK_STS_OK,VAR_1
+arch_invalidate_pmem,FUNC_0
+badblocks_clear,FUNC_1
+dev_dbg,FUNC_2
+hwpoison_clear,FUNC_3
+nvdimm_clear_poison,FUNC_4
+sysfs_notify_dirent,FUNC_5
+to_dev,FUNC_6
+pmem_clear_poison,FUNC_7
+pmem,VAR_2
+offset,VAR_3
+len,VAR_4
+dev,VAR_5
+sector,VAR_6
+cleared,VAR_7
+rc,VAR_8

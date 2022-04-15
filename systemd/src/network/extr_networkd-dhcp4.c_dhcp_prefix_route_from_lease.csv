@@ -1,0 +1,14 @@
+AF_INET,VAR_0
+RTPROT_DHCP,VAR_1
+RT_SCOPE_LINK,VAR_2
+in4_addr_netmask_to_prefixlen,FUNC_0
+route_new,FUNC_1
+sd_dhcp_lease_get_netmask,FUNC_2
+dhcp_prefix_route_from_lease,FUNC_3
+lease,VAR_3
+table,VAR_4
+address,VAR_5
+ret_route,VAR_6
+route,VAR_7
+netmask,VAR_8
+r,VAR_9

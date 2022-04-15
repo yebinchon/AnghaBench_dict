@@ -1,0 +1,15 @@
+ACPI_VIDEO_DISPLAY_LCD,VAR_0
+DEVICE_ACPI_HANDLE,FUNC_0
+EDID_LENGTH,VAR_1
+GFP_KERNEL,VAR_2
+acpi_bus_get_device,FUNC_1
+acpi_video_get_edid,FUNC_2
+kmemdup,FUNC_3
+nouveau_acpi_edid,FUNC_4
+dev,VAR_3
+connector,VAR_4
+acpidev,VAR_5
+handle,VAR_6
+type,VAR_7
+ret,VAR_8
+edid,VAR_9

@@ -1,0 +1,14 @@
+DCCP_RESET_CODE_CLOSED,VAR_0
+DCCP_ROLE_CLIENT,VAR_1
+POLL_HUP,VAR_2
+SOCK_WAKE_WAITD,VAR_3
+dccp_done,FUNC_0
+dccp_fin,FUNC_1
+dccp_send_reset,FUNC_2
+dccp_set_state,FUNC_3
+dccp_sk,FUNC_4
+sk_wake_async,FUNC_5
+dccp_rcv_close,FUNC_6
+sk,VAR_4
+skb,VAR_5
+queued,VAR_6

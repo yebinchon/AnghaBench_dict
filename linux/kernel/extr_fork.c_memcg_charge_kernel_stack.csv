@@ -1,0 +1,9 @@
+GFP_KERNEL,VAR_0
+MEMCG_KERNEL_STACK_KB,VAR_1
+PAGE_SIZE,VAR_2
+THREAD_SIZE,VAR_3
+memcg_kmem_charge,FUNC_0
+mod_memcg_page_state,FUNC_1
+task_stack_vm_area,FUNC_2
+memcg_charge_kernel_stack,FUNC_3
+tsk,VAR_4

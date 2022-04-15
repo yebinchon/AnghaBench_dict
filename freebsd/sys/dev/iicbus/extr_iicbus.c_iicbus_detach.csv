@@ -1,0 +1,9 @@
+IICBUS_SOFTC,FUNC_0
+IIC_FASTEST,VAR_0
+bus_generic_detach,FUNC_1
+device_delete_children,FUNC_2
+iicbus_reset,FUNC_3
+mtx_destroy,FUNC_4
+iicbus_detach,FUNC_5
+dev,VAR_1
+sc,VAR_2

@@ -1,0 +1,15 @@
+CPUCFG_P_REG0,VAR_0
+KASSERT,FUNC_0
+aw_mc_mp_start_cpu,FUNC_1
+bus_space_write_4,FUNC_2
+dcache_wbinv_poc_all,FUNC_3
+fdtbus_bs_tag,VAR_1
+mp_ncpus,VAR_2
+mpentry,VAR_3
+pmap_kextract,FUNC_4
+aw_mc_mp_start_ap,FUNC_5
+cpuscfg,VAR_4
+cpuxcfg,VAR_5
+prcm,VAR_6
+cluster,VAR_7
+cpu,VAR_8

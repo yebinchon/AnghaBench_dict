@@ -1,0 +1,14 @@
+AHD_64BIT_ADDRESSING,VAR_0
+AHD_DMA_LAST_SEG,VAR_1
+AHD_SG_HIGH_ADDR_MASK,VAR_2
+AHD_SG_LEN_MASK,VAR_3
+aic_le32toh,FUNC_0
+aic_le64toh,FUNC_1
+printf,FUNC_2
+ahd_dump_sglist,FUNC_3
+scb,VAR_4
+i,VAR_5
+sg_list,VAR_6
+addr,VAR_7
+sg_list,VAR_8
+len,VAR_9

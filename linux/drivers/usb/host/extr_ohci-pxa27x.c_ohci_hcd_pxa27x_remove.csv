@@ -1,0 +1,11 @@
+platform_get_drvdata,FUNC_0
+pxa27x_ohci_set_vbus_power,FUNC_1
+pxa27x_stop_hc,FUNC_2
+to_pxa27x_ohci,FUNC_3
+usb_put_hcd,FUNC_4
+usb_remove_hcd,FUNC_5
+ohci_hcd_pxa27x_remove,FUNC_6
+pdev,VAR_0
+hcd,VAR_1
+pxa_ohci,VAR_2
+i,VAR_3

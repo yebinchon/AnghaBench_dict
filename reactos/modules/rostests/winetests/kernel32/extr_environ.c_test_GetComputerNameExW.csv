@@ -1,0 +1,17 @@
+ComputerNameDnsDomain,VAR_0
+ComputerNameDnsFullyQualified,VAR_1
+ComputerNameDnsHostname,VAR_2
+ComputerNameNetBIOS,VAR_3
+ERROR_MORE_DATA,VAR_4
+GetLastError,FUNC_0
+GetProcessHeap,FUNC_1
+HeapAlloc,FUNC_2
+HeapFree,FUNC_3
+ok,FUNC_4
+pGetComputerNameExW,FUNC_5
+win_skip,FUNC_6
+test_GetComputerNameExW,FUNC_7
+size,VAR_5
+ret,VAR_6
+nameW,VAR_7
+error,VAR_8

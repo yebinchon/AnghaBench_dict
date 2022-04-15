@@ -1,0 +1,16 @@
+PCIM_MSIXCTRL_MSIX_ENABLE,VAR_0
+PCIR_MSIX_CTRL,VAR_1
+device_get_ivars,FUNC_0
+pci_ht_map_msi,FUNC_1
+pci_msix_rewrite_table,VAR_2
+pci_resume_msix,FUNC_2
+pci_write_config,FUNC_3
+pci_write_msix_entry,FUNC_4
+pci_enable_msix_method,FUNC_5
+dev,VAR_3
+child,VAR_4
+index,VAR_5
+address,VAR_6
+data,VAR_7
+dinfo,VAR_8
+msix,VAR_9

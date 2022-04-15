@@ -1,0 +1,13 @@
+ClearPageError,FUNC_0
+NR_WRITEBACK,VAR_0
+SetPageError,FUNC_1
+TestClearPageWriteback,FUNC_2
+__set_page_dirty_nobuffers,FUNC_3
+buffer_nilfs_allocated,FUNC_4
+dec_zone_page_state,FUNC_5
+end_page_writeback,FUNC_6
+nilfs_page_buffers_clean,FUNC_7
+page_buffers,FUNC_8
+__nilfs_end_page_io,FUNC_9
+page,VAR_1
+err,VAR_2

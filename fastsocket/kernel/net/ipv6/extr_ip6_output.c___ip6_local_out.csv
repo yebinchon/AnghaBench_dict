@@ -1,0 +1,11 @@
+IPV6_MAXPLEN,VAR_0
+NF_INET_LOCAL_OUT,VAR_1
+PF_INET6,VAR_2
+dst_output,VAR_3
+htons,FUNC_0
+ipv6_hdr,FUNC_1
+nf_hook,FUNC_2
+skb_dst,FUNC_3
+__ip6_local_out,FUNC_4
+skb,VAR_4
+len,VAR_5

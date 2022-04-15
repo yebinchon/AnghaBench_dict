@@ -1,0 +1,14 @@
+BCMA_CC_FLASHADDR,VAR_0
+HZ,VAR_1
+OPCODE_AT_PAGE_ERASE,VAR_2
+OPCODE_ST_SE,VAR_3
+OPCODE_ST_SSE,VAR_4
+OPCODE_ST_WREN,VAR_5
+bcm47xxsflash_cmd,FUNC_0
+bcm47xxsflash_poll,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+bcm47xxsflash_erase,FUNC_4
+mtd,VAR_6
+erase,VAR_7
+b47s,VAR_8

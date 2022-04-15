@@ -1,0 +1,16 @@
+PGALLOC_GFP,VAR_0
+PREALLOCATED_PMDS,VAR_1
+__get_free_page,FUNC_0
+free_page,FUNC_1
+free_pmds,FUNC_2
+paravirt_pgd_alloc,FUNC_3
+pgd_ctor,FUNC_4
+pgd_lock,VAR_2
+pgd_prepopulate_pmd,FUNC_5
+preallocate_pmds,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+pgd_alloc,FUNC_9
+mm,VAR_3
+pgd,VAR_4
+pmds,VAR_5

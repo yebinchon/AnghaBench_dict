@@ -1,0 +1,15 @@
+device_can_wakeup,FUNC_0
+device_pm_not_required,FUNC_1
+pm_attr_group,VAR_0
+pm_qos_latency_tolerance_attr_group,VAR_1
+pm_runtime_attr_group,VAR_2
+pm_runtime_callbacks_present,FUNC_2
+pm_wakeup_attr_group,VAR_3
+pm_wakeup_source_sysfs_add,FUNC_3
+sysfs_create_group,FUNC_4
+sysfs_merge_group,FUNC_5
+sysfs_remove_group,FUNC_6
+sysfs_unmerge_group,FUNC_7
+dpm_sysfs_add,FUNC_8
+dev,VAR_4
+rc,VAR_5

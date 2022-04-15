@@ -1,0 +1,8 @@
+NFC_ECC_EN,VAR_0
+NFC_REG_ECC_CTL,VAR_1
+readl,FUNC_0
+to_sunxi_nfc,FUNC_1
+writel,FUNC_2
+sunxi_nfc_hw_ecc_disable,FUNC_3
+nand,VAR_2
+nfc,VAR_3

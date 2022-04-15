@@ -1,0 +1,16 @@
+COOKIE_HMAC_LEN,VAR_0
+COOKIE_MD_OUTLEN,VAR_1
+MBEDTLS_ERR_SSL_BUFFER_TOO_SMALL,VAR_2
+MBEDTLS_ERR_SSL_INTERNAL_ERROR,VAR_3
+mbedtls_md_hmac_finish,FUNC_0
+mbedtls_md_hmac_reset,FUNC_1
+mbedtls_md_hmac_update,FUNC_2
+memcpy,FUNC_3
+ssl_cookie_hmac,FUNC_4
+hmac_ctx,VAR_4
+time,VAR_5
+p,VAR_6
+end,VAR_7
+cli_id,VAR_8
+cli_id_len,VAR_9
+hmac_out,VAR_10

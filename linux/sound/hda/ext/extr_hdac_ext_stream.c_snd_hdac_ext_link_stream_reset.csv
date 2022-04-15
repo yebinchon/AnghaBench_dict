@@ -1,0 +1,11 @@
+AZX_PPLCCTL_STRST,VAR_0
+AZX_REG_PPLCCTL,VAR_1
+readl,FUNC_0
+snd_hdac_ext_link_stream_clear,FUNC_1
+snd_hdac_updatel,FUNC_2
+udelay,FUNC_3
+writel,FUNC_4
+snd_hdac_ext_link_stream_reset,FUNC_5
+stream,VAR_2
+val,VAR_3
+timeout,VAR_4

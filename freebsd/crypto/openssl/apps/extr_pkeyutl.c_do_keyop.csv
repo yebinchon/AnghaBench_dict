@@ -1,0 +1,13 @@
+EVP_PKEY_decrypt,FUNC_0
+EVP_PKEY_derive,FUNC_1
+EVP_PKEY_encrypt,FUNC_2
+EVP_PKEY_sign,FUNC_3
+EVP_PKEY_verify_recover,FUNC_4
+do_keyop,FUNC_5
+ctx,VAR_0
+pkey_op,VAR_1
+out,VAR_2
+poutlen,VAR_3
+in,VAR_4
+inlen,VAR_5
+rv,VAR_6

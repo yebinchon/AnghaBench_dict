@@ -1,0 +1,12 @@
+CONFIG_PM,VAR_0
+GNSS_SERIAL_ACTIVE,VAR_1
+GNSS_SERIAL_OFF,VAR_2
+IS_ENABLED,FUNC_0
+gnss_register_device,FUNC_1
+gnss_serial_set_power,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_enable,FUNC_4
+gnss_serial_register,FUNC_5
+gserial,VAR_3
+serdev,VAR_4
+ret,VAR_5

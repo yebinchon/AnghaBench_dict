@@ -1,0 +1,13 @@
+PT64_BASE_ADDR_MASK,VAR_0
+PT64_ENT_PER_PAGE,VAR_1
+is_last_spte,FUNC_0
+is_shadow_present_pte,FUNC_1
+page_header,FUNC_2
+__mmu_spte_walk,FUNC_3
+vcpu,VAR_2
+sp,VAR_3
+fn,VAR_4
+level,VAR_5
+i,VAR_6
+ent,VAR_7
+child,VAR_8

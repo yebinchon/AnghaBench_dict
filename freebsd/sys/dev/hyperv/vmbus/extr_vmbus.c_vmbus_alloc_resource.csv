@@ -1,0 +1,16 @@
+BUS_ALLOC_RESOURCE,FUNC_0
+SYS_RES_MEMORY,VAR_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+pcib_host_res_alloc,FUNC_3
+vmbus_alloc_resource,FUNC_4
+dev,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+start,VAR_5
+end,VAR_6
+count,VAR_7
+flags,VAR_8
+parent,VAR_9
+res,VAR_10

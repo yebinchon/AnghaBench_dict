@@ -1,0 +1,16 @@
+MCR_DTR,VAR_0
+MCR_RTS,VAR_1
+REG_IER,VAR_2
+REG_MCR,VAR_3
+oct16550_clrint,FUNC_0
+oct16550_param,FUNC_1
+uart_barrier,FUNC_2
+uart_getreg,FUNC_3
+uart_setreg,FUNC_4
+oct16550_init,FUNC_5
+bas,VAR_4
+baudrate,VAR_5
+databits,VAR_6
+stopbits,VAR_7
+parity,VAR_8
+ier,VAR_9

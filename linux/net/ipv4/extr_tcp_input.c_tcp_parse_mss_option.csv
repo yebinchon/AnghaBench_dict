@@ -1,0 +1,12 @@
+TCPOLEN_MSS,VAR_0
+TCPOPT_MSS,VAR_1
+get_unaligned_be16,FUNC_0
+tcp_parse_mss_option,FUNC_1
+th,VAR_2
+user_mss,VAR_3
+ptr,VAR_4
+length,VAR_5
+mss,VAR_6
+opcode,VAR_7
+opsize,VAR_8
+in_mss,VAR_9

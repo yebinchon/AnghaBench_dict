@@ -1,0 +1,11 @@
+EBUSY,VAR_0
+I2C_BUSY,VAR_1
+hix5hd2_i2c_clr_pend_irq,FUNC_0
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_1
+time_before,FUNC_2
+usleep_range,FUNC_3
+hix5hd2_i2c_wait_bus_idle,FUNC_4
+priv,VAR_3
+stop_time,VAR_4
+int_status,VAR_5

@@ -1,0 +1,15 @@
+realtek_smi_read_byte0,FUNC_0
+realtek_smi_read_byte1,FUNC_1
+realtek_smi_start,FUNC_2
+realtek_smi_stop,FUNC_3
+realtek_smi_write_byte,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+realtek_smi_read_reg,FUNC_7
+smi,VAR_0
+addr,VAR_1
+data,VAR_2
+flags,VAR_3
+lo,VAR_4
+hi,VAR_5
+ret,VAR_6

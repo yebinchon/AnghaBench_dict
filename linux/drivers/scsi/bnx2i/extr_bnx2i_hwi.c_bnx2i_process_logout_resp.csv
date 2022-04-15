@@ -1,0 +1,16 @@
+EP_STATE_LOGOUT_RESP_RCVD,VAR_0
+ISCSI_LOGOUT_RESPONSE_INDEX,VAR_1
+__iscsi_complete_pdu,FUNC_0
+cpu_to_be32,FUNC_1
+iscsi_itt_to_task,FUNC_2
+memset,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+bnx2i_process_logout_resp,FUNC_6
+session,VAR_2
+bnx2i_conn,VAR_3
+cqe,VAR_4
+conn,VAR_5
+task,VAR_6
+logout,VAR_7
+resp_hdr,VAR_8

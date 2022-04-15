@@ -1,0 +1,12 @@
+MT9T031_PIXEL_CLOCK_CONTROL,VAR_0
+V4L2_MBUS_PCLK_SAMPLE_FALLING,VAR_1
+reg_clear,FUNC_0
+reg_set,FUNC_1
+soc_camera_apply_board_flags,FUNC_2
+soc_camera_i2c_to_desc,FUNC_3
+v4l2_get_subdevdata,FUNC_4
+mt9t031_s_mbus_config,FUNC_5
+sd,VAR_2
+cfg,VAR_3
+client,VAR_4
+ssdd,VAR_5

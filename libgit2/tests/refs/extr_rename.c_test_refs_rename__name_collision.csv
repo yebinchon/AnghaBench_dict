@@ -1,0 +1,12 @@
+cl_assert_equal_s,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_0
+git_reference_free,FUNC_3
+git_reference_lookup,FUNC_4
+git_reference_rename,FUNC_5
+packed_head_name,VAR_1
+packed_test_head_name,VAR_2
+test_refs_rename__name_collision,FUNC_6
+looked_up_ref,VAR_3
+renamed_ref,VAR_4

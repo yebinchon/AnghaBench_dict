@@ -1,0 +1,14 @@
+PCI_D3hot,VAR_0
+XHCI_DEFAULT_PM_RUNTIME_ALLOW,VAR_1
+XHCI_SPURIOUS_WAKEUP,VAR_2
+XHCI_STATE_REMOVING,VAR_3
+hcd_to_xhci,FUNC_0
+pci_get_drvdata,FUNC_1
+pci_set_power_state,FUNC_2
+pm_runtime_forbid,FUNC_3
+usb_hcd_pci_remove,FUNC_4
+usb_put_hcd,FUNC_5
+usb_remove_hcd,FUNC_6
+xhci_pci_remove,FUNC_7
+dev,VAR_4
+xhci,VAR_5

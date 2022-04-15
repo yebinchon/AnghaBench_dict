@@ -1,0 +1,9 @@
+qla2x00_poll_flash,FUNC_0
+qla2x00_write_flash_byte,FUNC_1
+udelay,FUNC_2
+qla2x00_erase_flash_sector,FUNC_3
+ha,VAR_0
+addr,VAR_1
+sec_mask,VAR_2
+man_id,VAR_3
+flash_id,VAR_4

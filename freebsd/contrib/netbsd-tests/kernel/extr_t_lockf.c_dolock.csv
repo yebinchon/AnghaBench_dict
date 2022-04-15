@@ -1,0 +1,12 @@
+ATF_REQUIRE_MSG,FUNC_0
+SEEK_SET,VAR_0
+errno,VAR_1
+lockf,FUNC_1
+lseek,FUNC_2
+dolock,FUNC_3
+fd,VAR_2
+op,VAR_3
+lk_off,VAR_4
+lk_size,VAR_5
+result,VAR_6
+ret,VAR_7

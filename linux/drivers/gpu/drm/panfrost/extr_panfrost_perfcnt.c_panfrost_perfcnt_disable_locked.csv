@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+GPU_PERFCNT_CFG,VAR_1
+GPU_PERFCNT_CFG_MODE,FUNC_0
+GPU_PERFCNT_CFG_MODE_OFF,VAR_2
+GPU_PRFCNT_JM_EN,VAR_3
+GPU_PRFCNT_MMU_L2_EN,VAR_4
+GPU_PRFCNT_SHADER_EN,VAR_5
+GPU_PRFCNT_TILER_EN,VAR_6
+drm_gem_object_put_unlocked,FUNC_1
+drm_gem_shmem_vunmap,FUNC_2
+gpu_write,FUNC_3
+pm_runtime_mark_last_busy,FUNC_4
+pm_runtime_put_autosuspend,FUNC_5
+panfrost_perfcnt_disable_locked,FUNC_6
+pfdev,VAR_7
+user,VAR_8
+perfcnt,VAR_9

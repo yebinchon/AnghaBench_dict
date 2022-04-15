@@ -1,0 +1,12 @@
+TEST_FAIL,FUNC_0
+ets_delay_us,FUNC_1
+portTICK_PERIOD_MS,VAR_0
+ref_clock_get,FUNC_2
+vTaskDelay,FUNC_3
+vTaskDelete,FUNC_4
+xSemaphoreGive,FUNC_5
+test_delay_task,FUNC_6
+p,VAR_1
+arg,VAR_2
+start,VAR_3
+stop,VAR_4

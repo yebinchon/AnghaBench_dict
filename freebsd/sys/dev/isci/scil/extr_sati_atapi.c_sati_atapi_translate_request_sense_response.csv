@@ -1,0 +1,12 @@
+SATI_SEQUENCE_STATE_FINAL,VAR_0
+SCSI_RESPONSE_DATA_PRES_SENSE_DATA,VAR_1
+SCSI_STATUS_CHECK_CONDITION,VAR_2
+TRUE,VAR_3
+sati_cb_get_response_iu_address,FUNC_0
+sati_scsi_common_response_iu_construct,FUNC_1
+sati_scsi_get_sense_data_length,FUNC_2
+sati_atapi_translate_request_sense_response,FUNC_3
+sequence,VAR_4
+scsi_io,VAR_5
+atapi_io,VAR_6
+rsp_iu,VAR_7

@@ -1,0 +1,13 @@
+UART_BUFSIZE,VAR_0
+i_get,VAR_1
+i_put,VAR_2
+k_sem_give,FUNC_0
+k_yield,FUNC_1
+mp_interrupt_char,VAR_3
+mp_keyboard_interrupt,FUNC_2
+printk,FUNC_3
+uart_ringbuf,VAR_4
+uart_sem,VAR_5
+console_irq_input_hook,FUNC_4
+ch,VAR_6
+i_next,VAR_7

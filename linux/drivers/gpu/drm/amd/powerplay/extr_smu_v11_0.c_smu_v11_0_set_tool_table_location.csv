@@ -1,0 +1,10 @@
+SMU_MSG_SetToolsDramAddrHigh,VAR_0
+SMU_MSG_SetToolsDramAddrLow,VAR_1
+SMU_TABLE_PMSTATUSLOG,VAR_2
+lower_32_bits,FUNC_0
+smu_send_smc_msg_with_param,FUNC_1
+upper_32_bits,FUNC_2
+smu_v11_0_set_tool_table_location,FUNC_3
+smu,VAR_3
+ret,VAR_4
+tool_table,VAR_5

@@ -1,0 +1,14 @@
+APIC_IRR,VAR_0
+READ_ONCE,FUNC_0
+__fls,FUNC_1
+xchg,FUNC_2
+__kvm_apic_update_irr,FUNC_3
+pir,VAR_1
+regs,VAR_2
+max_irr,VAR_3
+i,VAR_4
+vec,VAR_5
+pir_val,VAR_6
+irr_val,VAR_7
+prev_irr_val,VAR_8
+max_updated_irr,VAR_9

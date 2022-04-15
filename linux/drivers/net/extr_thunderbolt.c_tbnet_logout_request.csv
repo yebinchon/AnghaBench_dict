@@ -1,0 +1,12 @@
+TBIP_LOGOUT,VAR_0
+TBNET_LOGOUT_TIMEOUT,VAR_1
+TB_CFG_PKG_XDOMAIN_RESP,VAR_2
+atomic_inc_return,FUNC_0
+memset,FUNC_1
+tb_xdomain_request,FUNC_2
+tbnet_fill_header,FUNC_3
+tbnet_logout_request,FUNC_4
+net,VAR_3
+request,VAR_4
+reply,VAR_5
+xd,VAR_6

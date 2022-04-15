@@ -1,0 +1,16 @@
+EBADMSG,VAR_0
+FLAG_EXT_CTRL,VAR_1
+L2CAP_ENH_HDR_SIZE,VAR_2
+L2CAP_EXT_HDR_SIZE,VAR_3
+L2CAP_FCS_CRC16,VAR_4
+L2CAP_FCS_SIZE,VAR_5
+crc16,FUNC_0
+get_unaligned_le16,FUNC_1
+skb_trim,FUNC_2
+test_bit,FUNC_3
+l2cap_check_fcs,FUNC_4
+chan,VAR_6
+skb,VAR_7
+our_fcs,VAR_8
+rcv_fcs,VAR_9
+hdr_size,VAR_10

@@ -1,0 +1,11 @@
+luaL_newmetatable,FUNC_0
+lua_newuserdata,FUNC_1
+lua_pushcfunction,FUNC_2
+lua_pushliteral,FUNC_3
+lua_setfield,FUNC_4
+lua_setmetatable,FUNC_5
+vlclua_push_vlc_object,FUNC_6
+L,VAR_0
+p_obj,VAR_1
+release,VAR_2
+udata,VAR_3

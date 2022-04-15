@@ -1,0 +1,15 @@
+_batadv_tt_update_changes,FUNC_0
+atomic_set,FUNC_1
+batadv_orig_hash_find,FUNC_2
+batadv_orig_node_put,FUNC_3
+batadv_tt_global_del_orig,FUNC_4
+kfree,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+batadv_tt_fill_gtable,FUNC_8
+bat_priv,VAR_0
+tt_change,VAR_1
+ttvn,VAR_2
+resp_src,VAR_3
+num_entries,VAR_4
+orig_node,VAR_5

@@ -1,0 +1,15 @@
+PCI_REGMAX,VAR_0
+SCHIZO_MODE_SCZ,VAR_1
+STX_CONF_OFF,FUNC_0
+STX_CS_DEVICE,VAR_2
+STX_CS_FUNC,VAR_3
+device_get_softc,FUNC_1
+ofw_pci_read_config_common,FUNC_2
+schizo_read_config,FUNC_3
+dev,VAR_4
+bus,VAR_5
+slot,VAR_6
+func,VAR_7
+reg,VAR_8
+width,VAR_9
+sc,VAR_10

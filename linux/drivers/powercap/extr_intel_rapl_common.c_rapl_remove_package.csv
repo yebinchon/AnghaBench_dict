@@ -1,0 +1,16 @@
+PL1_CLAMP,VAR_0
+PL1_ENABLE,VAR_1
+PL2_CLAMP,VAR_2
+PL2_ENABLE,VAR_3
+RAPL_DOMAIN_PACKAGE,VAR_4
+find_nr_power_limit,FUNC_0
+kfree,FUNC_1
+list_del,FUNC_2
+package_power_limit_irq_restore,FUNC_3
+powercap_unregister_zone,FUNC_4
+pr_debug,FUNC_5
+rapl_write_data_raw,FUNC_6
+rapl_remove_package,FUNC_7
+rp,VAR_5
+rd,VAR_6
+rd_package,VAR_7

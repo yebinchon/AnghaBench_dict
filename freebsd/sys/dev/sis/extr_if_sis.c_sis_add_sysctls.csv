@@ -1,0 +1,12 @@
+CTLFLAG_RWTUN,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+device_get_unit,FUNC_4
+sis_add_sysctls,FUNC_5
+sc,VAR_2
+ctx,VAR_3
+children,VAR_4
+unit,VAR_5

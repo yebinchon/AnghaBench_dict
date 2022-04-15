@@ -1,0 +1,13 @@
+MA_OWNED,VAR_0
+SBT_1MS,VAR_1
+SIIS_MAX_SLOTS,VAR_2
+SIIS_SLOT_RUNNING,VAR_3
+callout_reset_sbt,FUNC_0
+device_get_softc,FUNC_1
+mtx_assert,FUNC_2
+siis_timeout,VAR_4
+siis_rearm_timeout,FUNC_3
+dev,VAR_5
+ch,VAR_6
+i,VAR_7
+slot,VAR_8

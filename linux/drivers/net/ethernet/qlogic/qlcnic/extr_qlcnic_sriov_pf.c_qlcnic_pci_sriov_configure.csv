@@ -1,0 +1,12 @@
+EBUSY,VAR_0
+__QLCNIC_RESETTING,VAR_1
+clear_bit,FUNC_0
+pci_get_drvdata,FUNC_1
+qlcnic_pci_sriov_disable,FUNC_2
+qlcnic_pci_sriov_enable,FUNC_3
+test_and_set_bit,FUNC_4
+qlcnic_pci_sriov_configure,FUNC_5
+dev,VAR_2
+num_vfs,VAR_3
+adapter,VAR_4
+err,VAR_5

@@ -1,0 +1,11 @@
+HandleStartupProcInterrupts,FUNC_0
+SIGTERM,VAR_0
+SpinLockAcquire,FUNC_1
+SpinLockRelease,FUNC_2
+WalRcv,VAR_1
+WalRcvRunning,FUNC_3
+kill,FUNC_4
+pg_usleep,FUNC_5
+ShutdownWalRcv,FUNC_6
+walrcv,VAR_2
+walrcvpid,VAR_3

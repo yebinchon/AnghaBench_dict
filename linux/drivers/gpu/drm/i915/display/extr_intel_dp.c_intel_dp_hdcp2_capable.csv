@@ -1,0 +1,11 @@
+DP_HDCP_2_2_REG_RX_CAPS_OFFSET,VAR_0
+EIO,VAR_1
+HDCP_2_2_DP_HDCP_CAPABLE,FUNC_0
+HDCP_2_2_RXCAPS_LEN,VAR_2
+HDCP_2_2_RX_CAPS_VERSION_VAL,VAR_3
+drm_dp_dpcd_read,FUNC_1
+intel_dp_hdcp2_capable,FUNC_2
+intel_dig_port,VAR_4
+capable,VAR_5
+rx_caps,VAR_6
+ret,VAR_7

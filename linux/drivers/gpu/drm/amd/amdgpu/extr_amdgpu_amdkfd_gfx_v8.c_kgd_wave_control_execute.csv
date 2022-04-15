@@ -1,0 +1,17 @@
+GRBM_GFX_INDEX,VAR_0
+INSTANCE_BROADCAST_WRITES,VAR_1
+REG_SET_FIELD,FUNC_0
+SE_BROADCAST_WRITES,VAR_2
+SH_BROADCAST_WRITES,VAR_3
+WREG32,FUNC_1
+get_amdgpu_device,FUNC_2
+mmGRBM_GFX_INDEX,VAR_4
+mmSQ_CMD,VAR_5
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+kgd_wave_control_execute,FUNC_5
+kgd,VAR_6
+gfx_index_val,VAR_7
+sq_cmd,VAR_8
+adev,VAR_9
+data,VAR_10

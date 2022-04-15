@@ -1,0 +1,15 @@
+DCU_DCU_MODE,VAR_0
+DCU_MODE_DCU_MODE,FUNC_0
+DCU_MODE_DCU_MODE_MASK,VAR_1
+DCU_MODE_NORMAL,VAR_2
+DCU_UPDATE_MODE,VAR_3
+DCU_UPDATE_MODE_READREG,VAR_4
+clk_prepare_enable,FUNC_1
+drm_crtc_vblank_on,FUNC_2
+regmap_update_bits,FUNC_3
+regmap_write,FUNC_4
+fsl_dcu_drm_crtc_atomic_enable,FUNC_5
+crtc,VAR_5
+old_state,VAR_6
+dev,VAR_7
+fsl_dev,VAR_8

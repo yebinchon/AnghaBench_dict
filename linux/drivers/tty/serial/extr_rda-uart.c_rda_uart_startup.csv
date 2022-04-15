@@ -1,0 +1,17 @@
+IRQF_NO_SUSPEND,VAR_0
+RDA_UART_CTRL,VAR_1
+RDA_UART_ENABLE,VAR_2
+RDA_UART_IRQ_MASK,VAR_3
+RDA_UART_RX_DATA_AVAILABLE,VAR_4
+RDA_UART_RX_TIMEOUT,VAR_5
+rda_interrupt,VAR_6
+rda_uart_read,FUNC_0
+rda_uart_write,FUNC_1
+request_irq,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+rda_uart_startup,FUNC_5
+port,VAR_7
+flags,VAR_8
+ret,VAR_9
+val,VAR_10

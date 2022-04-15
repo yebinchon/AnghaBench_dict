@@ -1,0 +1,15 @@
+Gi_DMA_Enable_Bit,VAR_0
+Gi_DMA_Int_Bit,VAR_1
+Gi_DMA_Write_Bit,VAR_2
+Gi_Read_Acknowledges_Irq,VAR_3
+Gi_Write_Acknowledges_Irq,VAR_4
+NITIO_Gi_DMA_Config_Reg,FUNC_0
+NITIO_Gi_Input_Select_Reg,FUNC_1
+ni_tio_set_bits,FUNC_2
+ni_tio_configure_dma,FUNC_3
+counter,VAR_5
+enable,VAR_6
+read_not_write,VAR_7
+counter_dev,VAR_8
+input_select_bits,VAR_9
+gi_dma_config_bits,VAR_10

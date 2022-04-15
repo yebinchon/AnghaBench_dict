@@ -1,0 +1,16 @@
+DEV_CMD_TYPE_NOP,VAR_0
+DEV_CMD_TYPE_QUERY,VAR_1
+DMA_NONE,VAR_2
+EINVAL,VAR_3
+UFSHCI_VERSION_10,VAR_4
+UFSHCI_VERSION_11,VAR_5
+UTP_CMD_TYPE_DEV_MANAGE,VAR_6
+UTP_CMD_TYPE_UFS_STORAGE,VAR_7
+ufshcd_prepare_req_desc_hdr,FUNC_0
+ufshcd_prepare_utp_nop_upiu,FUNC_1
+ufshcd_prepare_utp_query_req_upiu,FUNC_2
+ufshcd_comp_devman_upiu,FUNC_3
+hba,VAR_8
+lrbp,VAR_9
+upiu_flags,VAR_10
+ret,VAR_11

@@ -1,0 +1,13 @@
+av_frame_alloc,FUNC_0
+av_frame_free,FUNC_1
+av_hwframe_get_buffer,FUNC_2
+mp_image_copy_attributes,FUNC_3
+mp_image_from_av_frame,FUNC_4
+mp_image_hw_upload,FUNC_5
+mp_image_set_size,FUNC_6
+talloc_free,FUNC_7
+mp_av_pool_image_hw_upload,FUNC_8
+hw_frames_ctx,VAR_0
+src,VAR_1
+av_frame,VAR_2
+dst,VAR_3

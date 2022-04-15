@@ -1,0 +1,13 @@
+spcp8x5_set_ctrl_line,FUNC_0
+spcp8x5_set_termios,FUNC_1
+usb_clear_halt,FUNC_2
+usb_control_msg,FUNC_3
+usb_get_serial_port_data,FUNC_4
+usb_serial_generic_open,FUNC_5
+usb_sndctrlpipe,FUNC_6
+spcp8x5_open,FUNC_7
+tty,VAR_0
+port,VAR_1
+serial,VAR_2
+priv,VAR_3
+ret,VAR_4

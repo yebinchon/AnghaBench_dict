@@ -1,0 +1,14 @@
+ERROR_SUCCESS,VAR_0
+KEY_READ,VAR_1
+KEY_WRITE,VAR_2
+REG_SZ,VAR_3
+RegCloseKey,FUNC_0
+RegCreateKeyExW,FUNC_1
+RegSetValueExW,FUNC_2
+lstrlenW,FUNC_3
+register_key_defvalueW,FUNC_4
+base,VAR_4
+name,VAR_5
+value,VAR_6
+res,VAR_7
+key,VAR_8

@@ -1,0 +1,14 @@
+DMA_DIRECTION,VAR_0
+DMA_DONE_INTERRUPT_ENABLE,VAR_1
+END_OF_CHAIN,VAR_2
+VALID_BIT,VAR_3
+cpu_to_le32,FUNC_0
+likely,FUNC_1
+use_dma_chaining,VAR_4
+wmb,FUNC_2
+fill_dma_desc,FUNC_3
+ep,VAR_5
+req,VAR_6
+valid,VAR_7
+td,VAR_8
+dmacount,VAR_9

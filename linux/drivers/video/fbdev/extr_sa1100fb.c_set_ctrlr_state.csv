@@ -1,0 +1,12 @@
+C_STARTUP,VAR_0
+__sa1100fb_backlight_power,FUNC_0
+__sa1100fb_lcd_power,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sa1100fb_disable_controller,FUNC_4
+sa1100fb_enable_controller,FUNC_5
+sa1100fb_setup_gpio,FUNC_6
+set_ctrlr_state,FUNC_7
+fbi,VAR_1
+state,VAR_2
+old_state,VAR_3

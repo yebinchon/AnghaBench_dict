@@ -1,0 +1,16 @@
+ICHD_PCMOUT,VAR_0
+SNDRV_PCM_FMTBIT_S32_LE,VAR_1
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_2
+hw_constraints_channels4,VAR_3
+hw_constraints_channels6,VAR_4
+hw_constraints_channels8,VAR_5
+snd_ac97_pcm_double_rate_rules,FUNC_0
+snd_intel8x0_pcm_open,FUNC_1
+snd_pcm_hw_constraint_list,FUNC_2
+snd_pcm_hw_constraint_msbits,FUNC_3
+snd_pcm_substream_chip,FUNC_4
+snd_intel8x0_playback_open,FUNC_5
+substream,VAR_6
+chip,VAR_7
+runtime,VAR_8
+err,VAR_9

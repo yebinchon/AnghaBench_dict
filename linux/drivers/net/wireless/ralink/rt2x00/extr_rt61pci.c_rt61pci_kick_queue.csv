@@ -1,0 +1,12 @@
+TX_CNTL_CSR,VAR_0
+TX_CNTL_CSR_KICK_TX_AC0,VAR_1
+TX_CNTL_CSR_KICK_TX_AC1,VAR_2
+TX_CNTL_CSR_KICK_TX_AC2,VAR_3
+TX_CNTL_CSR_KICK_TX_AC3,VAR_4
+rt2x00_set_field32,FUNC_0
+rt2x00mmio_register_read,FUNC_1
+rt2x00mmio_register_write,FUNC_2
+rt61pci_kick_queue,FUNC_3
+queue,VAR_5
+rt2x00dev,VAR_6
+reg,VAR_7

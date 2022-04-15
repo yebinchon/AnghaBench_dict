@@ -1,0 +1,13 @@
+ESP_OK,VAR_0
+TEST_ASSERT_EQUAL,FUNC_0
+esp_event_post_to,FUNC_1
+portMAX_DELAY,VAR_1
+vTaskDelay,FUNC_2
+vTaskDelete,FUNC_3
+xSemaphoreGive,FUNC_4
+xSemaphoreTake,FUNC_5
+test_event_post_task,FUNC_6
+args,VAR_2
+arg,VAR_3
+data,VAR_4
+i,VAR_5

@@ -1,0 +1,14 @@
+BOOKE_IRQPRIO_PERFORMANCE_MONITOR,VAR_0
+BOOKE_IRQPRIO_SPE_FP_DATA,VAR_1
+BOOKE_IRQPRIO_SPE_FP_ROUND,VAR_2
+BOOKE_IRQPRIO_SPE_UNAVAIL,VAR_3
+EMULATE_DONE,VAR_4
+kvmppc_booke_emulate_mtspr,FUNC_0
+kvmppc_e500_emul_mt_mmucsr0,FUNC_1
+to_e500,FUNC_2
+kvmppc_core_emulate_mtspr,FUNC_3
+vcpu,VAR_5
+sprn,VAR_6
+rs,VAR_7
+vcpu_e500,VAR_8
+emulated,VAR_9

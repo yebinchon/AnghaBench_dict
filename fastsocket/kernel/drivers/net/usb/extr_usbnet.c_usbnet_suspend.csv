@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EVENT_DEV_ASLEEP,VAR_1
+PM_EVENT_AUTO,VAR_2
+__usbnet_status_stop_force,FUNC_0
+netif_device_attach,FUNC_1
+netif_device_detach,FUNC_2
+set_bit,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+usb_get_intfdata,FUNC_6
+usbnet_terminate_urbs,FUNC_7
+usbnet_suspend,FUNC_8
+intf,VAR_3
+message,VAR_4
+dev,VAR_5

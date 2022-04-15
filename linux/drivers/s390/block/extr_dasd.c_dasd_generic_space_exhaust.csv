@@ -1,0 +1,13 @@
+DASD_CQR_CLEAR_PENDING,VAR_0
+DASD_CQR_IN_IO,VAR_1
+DASD_CQR_QUEUED,VAR_2
+DASD_EER_NOSPC,VAR_3
+DASD_STATE_BASIC,VAR_4
+DASD_STOPPED_NOSPC,VAR_5
+dasd_device_clear_timer,FUNC_0
+dasd_device_set_stop_bits,FUNC_1
+dasd_eer_write,FUNC_2
+dasd_schedule_device_bh,FUNC_3
+dasd_generic_space_exhaust,FUNC_4
+device,VAR_6
+cqr,VAR_7

@@ -1,0 +1,15 @@
+AppendShardIdToName,FUNC_0
+REINDEXOPT_VERBOSE,VAR_0
+appendStringInfo,FUNC_1
+appendStringInfoString,FUNC_2
+copyObject,FUNC_3
+quote_identifier,FUNC_4
+quote_qualified_identifier,FUNC_5
+deparse_shard_reindex_statement,FUNC_6
+origStmt,VAR_1
+distrelid,VAR_2
+shardid,VAR_3
+buffer,VAR_4
+reindexStmt,VAR_5
+relationName,VAR_6
+concurrentlyString,VAR_7

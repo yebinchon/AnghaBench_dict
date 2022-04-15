@@ -1,0 +1,15 @@
+AccessShareLock,VAR_0
+DistNodeRelationId,FUNC_0
+GetNodeTuple,FUNC_1
+NoLock,VAR_1
+RelationGetDescr,FUNC_2
+TupleToWorkerNode,FUNC_3
+heap_close,FUNC_4
+heap_open,FUNC_5
+FindWorkerNodeAnyCluster,FUNC_6
+nodeName,VAR_2
+nodePort,VAR_3
+workerNode,VAR_4
+pgDistNode,VAR_5
+tupleDescriptor,VAR_6
+heapTuple,VAR_7

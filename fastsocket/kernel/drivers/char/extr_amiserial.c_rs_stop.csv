@@ -1,0 +1,11 @@
+IF_TBE,VAR_0
+UART_IER_THRI,VAR_1
+custom,VAR_2
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+mb,FUNC_2
+serial_paranoia_check,FUNC_3
+rs_stop,FUNC_4
+tty,VAR_3
+info,VAR_4
+flags,VAR_5

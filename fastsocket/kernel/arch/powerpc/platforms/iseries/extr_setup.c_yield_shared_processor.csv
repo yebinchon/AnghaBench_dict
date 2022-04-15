@@ -1,0 +1,14 @@
+HvCall_MaskIPI,VAR_0
+HvCall_MaskLpEvent,VAR_1
+HvCall_MaskLpProd,VAR_2
+HvCall_MaskTimeout,VAR_3
+HvCall_YieldTimed,VAR_4
+HvCall_setEnabledInterrupts,FUNC_0
+HvCall_yieldProcessor,FUNC_1
+get_lppaca,FUNC_2
+get_tb,FUNC_3
+ppc64_runlatch_on,FUNC_4
+process_iSeries_events,FUNC_5
+tb_ticks_per_jiffy,VAR_5
+yield_shared_processor,FUNC_6
+tb,VAR_6

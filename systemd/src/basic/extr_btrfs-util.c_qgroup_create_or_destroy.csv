@@ -1,0 +1,16 @@
+BTRFS_IOC_QGROUP_CREATE,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+ENOPROTOOPT,VAR_3
+ENOTTY,VAR_4
+btrfs_is_filesystem,FUNC_0
+btrfs_quota_scan_wait,FUNC_1
+errno,VAR_5
+ioctl,FUNC_2
+qgroup_create_or_destroy,FUNC_3
+fd,VAR_6
+b,VAR_7
+qgroupid,VAR_8
+args,VAR_9
+c,VAR_10
+r,VAR_11

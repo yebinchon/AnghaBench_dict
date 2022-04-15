@@ -1,0 +1,10 @@
+NAU7802_REG_ADC_B0,VAR_0
+NAU7802_REG_ADC_B1,VAR_1
+NAU7802_REG_ADC_B2,VAR_2
+i2c_smbus_read_byte_data,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+sign_extend32,FUNC_3
+nau7802_read_conversion,FUNC_4
+st,VAR_3
+data,VAR_4

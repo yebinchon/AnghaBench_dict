@@ -1,0 +1,14 @@
+AC_VERB_SET_GPIO_UNSOLICITED_RSP_MASK,VAR_0
+HDA_FIXUP_ACT_PRE_PROBE,VAR_1
+STAC_VREF_EVENT,VAR_2
+snd_hda_codec_set_pincfg,FUNC_0
+snd_hda_codec_write_cache,FUNC_1
+snd_hda_jack_detect_enable_callback,FUNC_2
+snd_hda_jack_tbl_get,FUNC_3
+stac_vref_event,VAR_3
+stac92hd71bxx_fixup_hp_m4,FUNC_4
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+spec,VAR_7
+jack,VAR_8

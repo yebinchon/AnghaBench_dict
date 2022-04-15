@@ -1,0 +1,9 @@
+OCFS2_LOCK_BLOCKED,VAR_0
+OCFS2_LOCK_PENDING,VAR_1
+assert_spin_locked,FUNC_0
+lockres_clear_flags,FUNC_1
+ocfs2_wake_downconvert_thread,FUNC_2
+__lockres_clear_pending,FUNC_3
+lockres,VAR_2
+generation,VAR_3
+osb,VAR_4

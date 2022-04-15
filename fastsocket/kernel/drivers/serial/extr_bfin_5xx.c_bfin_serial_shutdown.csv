@@ -1,0 +1,17 @@
+CH_UART2_RX,VAR_0
+CH_UART2_TX,VAR_1
+CH_UART3_RX,VAR_2
+CH_UART3_TX,VAR_3
+EDSSI,VAR_4
+PAGE_SIZE,VAR_5
+UART_GET_IER,FUNC_0
+del_timer,FUNC_1
+disable_dma,FUNC_2
+dma_free_coherent,FUNC_3
+free_dma,FUNC_4
+free_irq,FUNC_5
+gpio_free,FUNC_6
+gpio_to_irq,FUNC_7
+bfin_serial_shutdown,FUNC_8
+port,VAR_6
+uart,VAR_7

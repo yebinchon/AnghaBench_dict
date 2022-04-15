@@ -1,0 +1,10 @@
+MVNETA_RXQ_CONFIG_REG,FUNC_0
+MVNETA_RXQ_PKT_OFFSET_ALL_MASK,VAR_0
+MVNETA_RXQ_PKT_OFFSET_MASK,FUNC_1
+mvreg_read,FUNC_2
+mvreg_write,FUNC_3
+mvneta_rxq_offset_set,FUNC_4
+pp,VAR_1
+rxq,VAR_2
+offset,VAR_3
+val,VAR_4

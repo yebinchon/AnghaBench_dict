@@ -1,0 +1,7 @@
+SEEK_SET,VAR_0
+TSDB_FILE_HEADER_LEN,VAR_1
+lseek,FUNC_0
+read,FUNC_1
+vnodeGetHeadFileHeaderInfo,FUNC_2
+fd,VAR_2
+pHeadInfo,VAR_3

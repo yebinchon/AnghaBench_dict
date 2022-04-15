@@ -1,0 +1,16 @@
+CPU_FTR_LOCKLESS_TLBIE,VAR_0
+CPU_FTR_TLBIEL,VAR_1
+__tlbie,FUNC_0
+__tlbiel,FUNC_1
+cpu_has_feature,FUNC_2
+mmu_psize_defs,VAR_2
+native_tlbie_lock,VAR_3
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+tlbie,FUNC_5
+va,VAR_4
+psize,VAR_5
+ssize,VAR_6
+local,VAR_7
+use_local,VAR_8
+lock_tlbie,VAR_9

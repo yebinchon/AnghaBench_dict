@@ -1,0 +1,14 @@
+DETACH_GROUP,VAR_0
+PERF_ATTACH_CONTEXT,VAR_1
+PERF_ATTACH_GROUP,VAR_2
+WARN_ON_ONCE,FUNC_0
+__perf_remove_from_context,VAR_3
+event_function_call,FUNC_1
+lockdep_assert_held,FUNC_2
+perf_group_detach,FUNC_3
+raw_spin_lock_irq,FUNC_4
+raw_spin_unlock_irq,FUNC_5
+perf_remove_from_context,FUNC_6
+event,VAR_4
+flags,VAR_5
+ctx,VAR_6

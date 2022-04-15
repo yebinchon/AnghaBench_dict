@@ -1,0 +1,12 @@
+BUSY_SPINS,VAR_0
+MA_OWNED,VAR_1
+cpu_spinwait,FUNC_0
+msleep,FUNC_1
+mtx_assert,FUNC_2
+smp_cpus,VAR_2
+umtxq_getchain,FUNC_3
+umtxq_lock,FUNC_4
+umtxq_unlock,FUNC_5
+umtxq_busy,FUNC_6
+key,VAR_3
+uc,VAR_4

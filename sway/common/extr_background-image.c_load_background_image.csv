@@ -1,0 +1,12 @@
+CAIRO_STATUS_SUCCESS,VAR_0
+SWAY_ERROR,VAR_1
+cairo_image_surface_create_from_png,FUNC_0
+cairo_status_to_string,FUNC_1
+cairo_surface_status,FUNC_2
+g_object_unref,FUNC_3
+gdk_cairo_image_surface_create_from_pixbuf,FUNC_4
+gdk_pixbuf_new_from_file,FUNC_5
+sway_log,FUNC_6
+load_background_image,FUNC_7
+path,VAR_2
+image,VAR_3

@@ -1,0 +1,12 @@
+XEN_MC_NONURGENT,VAR_0
+XEN_MC_URGENT,VAR_1
+mc_queue_handle,FUNC_0
+mcelog_lock,VAR_2
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pr_err,FUNC_3
+wake_up_interruptible,FUNC_4
+xen_mce_chrdev_wait,VAR_3
+xen_mce_work_fn,FUNC_5
+work,VAR_4
+err,VAR_5

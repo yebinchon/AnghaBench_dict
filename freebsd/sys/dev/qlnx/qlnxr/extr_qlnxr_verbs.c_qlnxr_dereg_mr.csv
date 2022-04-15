@@ -1,0 +1,14 @@
+QLNXR_MR_DMA,VAR_0
+QLNXR_MR_FRMR,VAR_1
+QL_DPRINT12,FUNC_0
+get_qlnxr_dev,FUNC_1
+get_qlnxr_mr,FUNC_2
+ib_umem_release,FUNC_3
+kfree,FUNC_4
+qlnxr_free_pbl,FUNC_5
+qlnxr_dereg_mr,FUNC_6
+ib_mr,VAR_2
+mr,VAR_3
+dev,VAR_4
+rc,VAR_5
+ha,VAR_6

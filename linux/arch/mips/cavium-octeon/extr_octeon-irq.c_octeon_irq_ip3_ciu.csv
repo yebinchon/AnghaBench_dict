@@ -1,0 +1,13 @@
+CVMX_CIU_INT_SUM1,VAR_0
+__this_cpu_read,FUNC_0
+cvmx_read_csr,FUNC_1
+do_IRQ,FUNC_2
+fls64,FUNC_3
+likely,FUNC_4
+octeon_irq_ciu1_en_mirror,VAR_1
+octeon_irq_ciu_to_irq,VAR_2
+spurious_interrupt,FUNC_5
+octeon_irq_ip3_ciu,FUNC_6
+ciu_sum,VAR_3
+bit,VAR_4
+irq,VAR_5

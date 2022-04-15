@@ -1,0 +1,13 @@
+AUTONEG_ENABLE,VAR_0
+DPSW_LINK_OPT_AUTONEG,VAR_1
+DPSW_LINK_OPT_HALF_DUPLEX,VAR_2
+DUPLEX_FULL,VAR_3
+dpsw_if_get_link_state,FUNC_0
+netdev_err,FUNC_1
+netdev_priv,FUNC_2
+ethsw_get_link_ksettings,FUNC_3
+netdev,VAR_4
+link_ksettings,VAR_5
+port_priv,VAR_6
+state,VAR_7
+err,VAR_8

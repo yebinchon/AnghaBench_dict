@@ -1,0 +1,17 @@
+EIO,VAR_0
+MFGPT_CMP1,VAR_1
+MFGPT_MAX_TIMERS,VAR_2
+MSR_MFGPT_IRQ,VAR_3
+MSR_MFGPT_NR,VAR_4
+rdmsr,FUNC_0
+wrmsr,FUNC_1
+geode_mfgpt_toggle_event,FUNC_2
+timer,VAR_5
+cmp,VAR_6
+event,VAR_7
+enable,VAR_8
+msr,VAR_9
+mask,VAR_10
+value,VAR_11
+dummy,VAR_12
+shift,VAR_13

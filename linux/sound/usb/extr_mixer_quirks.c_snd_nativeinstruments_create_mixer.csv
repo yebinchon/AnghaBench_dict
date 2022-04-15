@@ -1,0 +1,16 @@
+SNDRV_CTL_ELEM_ACCESS_READWRITE,VAR_0
+SNDRV_CTL_ELEM_IFACE_MIXER,VAR_1
+add_single_ctl_with_resume,FUNC_0
+snd_ctl_boolean_mono_info,VAR_2
+snd_nativeinstruments_control_get,VAR_3
+snd_nativeinstruments_control_put,VAR_4
+snd_ni_control_init_val,FUNC_1
+snd_ni_update_cur_val,VAR_5
+snd_nativeinstruments_create_mixer,FUNC_2
+mixer,VAR_6
+kc,VAR_7
+count,VAR_8
+i,VAR_9
+err,VAR_10
+template,VAR_11
+list,VAR_12

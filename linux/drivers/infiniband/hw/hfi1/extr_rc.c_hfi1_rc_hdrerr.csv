@@ -1,0 +1,16 @@
+IB_NAK_PSN_ERROR,VAR_0
+IB_OPCODE_RC_RDMA_READ_RESPONSE_FIRST,VAR_1
+delta_psn,FUNC_0
+hfi1_ruc_check_hdr,FUNC_1
+ib_bth_get_opcode,FUNC_2
+ib_bth_get_psn,FUNC_3
+rc_defered_ack,FUNC_4
+rcd_to_iport,FUNC_5
+hfi1_rc_hdrerr,FUNC_6
+rcd,VAR_2
+packet,VAR_3
+qp,VAR_4
+ibp,VAR_5
+diff,VAR_6
+opcode,VAR_7
+psn,VAR_8

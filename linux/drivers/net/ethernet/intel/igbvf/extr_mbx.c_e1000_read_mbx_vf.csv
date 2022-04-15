@@ -1,0 +1,13 @@
+E1000_V2PMAILBOX_ACK,VAR_0
+V2PMAILBOX,FUNC_0
+VMBMEM,FUNC_1
+array_er32,FUNC_2
+e1000_obtain_mbx_lock_vf,FUNC_3
+ew32,FUNC_4
+lockdep_assert_held,FUNC_5
+e1000_read_mbx_vf,FUNC_6
+hw,VAR_1
+msg,VAR_2
+size,VAR_3
+err,VAR_4
+i,VAR_5

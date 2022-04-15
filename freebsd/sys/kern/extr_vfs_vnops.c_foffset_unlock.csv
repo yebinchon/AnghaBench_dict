@@ -1,0 +1,17 @@
+FOFFSET_LOCKED,VAR_0
+FOFFSET_LOCK_WAITING,VAR_1
+FOF_NEXTOFF,VAR_2
+FOF_NOLOCK,VAR_3
+FOF_NOUPDATE,VAR_4
+FOF_OFFSET,VAR_5
+KASSERT,FUNC_0
+mtx_lock,FUNC_1
+mtx_pool_find,FUNC_2
+mtx_unlock,FUNC_3
+mtxpool_sleep,VAR_6
+wakeup,FUNC_4
+foffset_unlock,FUNC_5
+fp,VAR_7
+val,VAR_8
+flags,VAR_9
+mtxp,VAR_10

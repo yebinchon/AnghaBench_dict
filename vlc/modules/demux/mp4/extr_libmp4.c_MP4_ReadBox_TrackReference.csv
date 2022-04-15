@@ -1,0 +1,13 @@
+MP4_Box_data_trak_reference_t,VAR_0
+MP4_FreeBox_TrackReference,VAR_1
+MP4_GET4BYTES,FUNC_0
+MP4_READBOX_ENTER,FUNC_1
+MP4_READBOX_EXIT,FUNC_2
+i_read,VAR_2
+msg_Dbg,FUNC_3
+vlc_alloc,FUNC_4
+MP4_ReadBox_TrackReference,FUNC_5
+p_stream,VAR_3
+p_box,VAR_4
+count,VAR_5
+i,VAR_6

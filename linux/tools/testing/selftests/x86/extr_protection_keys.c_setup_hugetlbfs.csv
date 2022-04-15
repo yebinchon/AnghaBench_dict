@@ -1,0 +1,17 @@
+GET_NR_HUGE_PAGES,VAR_0
+O_RDONLY,VAR_1
+__stringify,FUNC_0
+atoi,FUNC_1
+cat_into_file,FUNC_2
+close,FUNC_3
+fprintf,FUNC_4
+geteuid,FUNC_5
+hugetlb_setup_ok,VAR_2
+open,FUNC_6
+perror,FUNC_7
+read,FUNC_8
+stderr,VAR_3
+setup_hugetlbfs,FUNC_9
+err,VAR_4
+fd,VAR_5
+buf,VAR_6

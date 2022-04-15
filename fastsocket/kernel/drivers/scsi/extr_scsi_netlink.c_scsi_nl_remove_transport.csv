@@ -1,0 +1,14 @@
+HANDLER_DELETING,VAR_0
+HZ,VAR_1
+SCSI_NL_MAX_TRANSPORTS,VAR_2
+STATE_EHANDLER_BSY,VAR_3
+msleep,FUNC_0
+schedule_timeout_uninterruptible,FUNC_1
+scsi_nl_lock,VAR_4
+scsi_nl_state,VAR_5
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+transports,VAR_6
+scsi_nl_remove_transport,FUNC_4
+tport,VAR_7
+flags,VAR_8

@@ -1,0 +1,15 @@
+DatumGetHeapTupleHeader,FUNC_0
+HeapTupleHeaderGetDatumLength,FUNC_1
+HeapTupleHeaderGetTypMod,FUNC_2
+HeapTupleHeaderGetTypeId,FUNC_3
+ReleaseTupleDesc,FUNC_4
+lookup_rowtype_tupdesc,FUNC_5
+plperl_hash_from_tuple,FUNC_6
+plperl_hash_from_datum,FUNC_7
+attr,VAR_0
+td,VAR_1
+tupType,VAR_2
+tupTypmod,VAR_3
+tupdesc,VAR_4
+tmptup,VAR_5
+sv,VAR_6

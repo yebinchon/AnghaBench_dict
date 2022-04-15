@@ -1,0 +1,15 @@
+CONFIG_PCI_MSI,VAR_0
+IS_ENABLED,FUNC_0
+dw_pcie_msi_init,FUNC_1
+dw_pcie_setup_rc,FUNC_2
+imx6_pcie_assert_core_reset,FUNC_3
+imx6_pcie_deassert_core_reset,FUNC_4
+imx6_pcie_establish_link,FUNC_5
+imx6_pcie_init_phy,FUNC_6
+imx6_setup_phy_mpll,FUNC_7
+to_dw_pcie_from_pp,FUNC_8
+to_imx6_pcie,FUNC_9
+imx6_pcie_host_init,FUNC_10
+pp,VAR_1
+pci,VAR_2
+imx6_pcie,VAR_3

@@ -1,0 +1,11 @@
+do_sysctl,FUNC_0
+nvlist_add_string,FUNC_1
+nvlist_create,FUNC_2
+cap_sysctlbyname,FUNC_3
+chan,VAR_0
+name,VAR_1
+oldp,VAR_2
+oldlenp,VAR_3
+newp,VAR_4
+newlen,VAR_5
+req,VAR_6

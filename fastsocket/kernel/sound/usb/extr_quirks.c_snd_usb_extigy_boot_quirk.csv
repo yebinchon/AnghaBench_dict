@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+EXTIGY_FIRMWARE_SIZE_NEW,VAR_1
+EXTIGY_FIRMWARE_SIZE_OLD,VAR_2
+USB_DT_DEVICE,VAR_3
+get_cfg_desc,FUNC_0
+le16_to_cpu,FUNC_1
+snd_printdd,FUNC_2
+snd_usb_ctl_msg,FUNC_3
+usb_get_descriptor,FUNC_4
+usb_reset_configuration,FUNC_5
+usb_sndctrlpipe,FUNC_6
+snd_usb_extigy_boot_quirk,FUNC_7
+dev,VAR_4
+intf,VAR_5
+config,VAR_6
+err,VAR_7

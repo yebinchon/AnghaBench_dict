@@ -1,0 +1,15 @@
+SNDRV_SEQ_EVENT_NOTEOFF,VAR_0
+is_nonblock_mode,FUNC_0
+memset,FUNC_1
+snd_seq_kernel_client_enqueue,FUNC_2
+snd_seq_oss_dispatch,FUNC_3
+snd_seq_oss_fill_addr,FUNC_4
+snd_seq_oss_process_event,FUNC_5
+snd_seq_oss_process_timer_event,FUNC_6
+snd_seq_oss_timer_cur_tick,FUNC_7
+insert_queue,FUNC_8
+dp,VAR_1
+rec,VAR_2
+opt,VAR_3
+rc,VAR_4
+event,VAR_5

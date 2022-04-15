@@ -1,0 +1,7 @@
+HWRM_FUNC_RESET,VAR_0
+HWRM_RESET_TIMEOUT,VAR_1
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+hwrm_send_message,FUNC_1
+bnxt_hwrm_func_reset,FUNC_2
+bp,VAR_2
+req,VAR_3

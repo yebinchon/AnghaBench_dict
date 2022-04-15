@@ -1,0 +1,13 @@
+IB_EVENT_PORT_ACTIVE,VAR_0
+IB_EVENT_PORT_ERR,VAR_1
+NES_EVENT_DELAY,VAR_2
+add_timer,FUNC_0
+ib_dispatch_event,FUNC_1
+jiffies,VAR_3
+mod_timer,FUNC_2
+nes_handle_delayed_event,VAR_4
+nes_port_ibevent,FUNC_3
+nesvnic,VAR_5
+nesibdev,VAR_6
+nesdev,VAR_7
+event,VAR_8

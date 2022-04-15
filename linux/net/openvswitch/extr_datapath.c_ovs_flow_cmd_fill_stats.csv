@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+OVS_FLOW_ATTR_PAD,VAR_1
+OVS_FLOW_ATTR_STATS,VAR_2
+OVS_FLOW_ATTR_TCP_FLAGS,VAR_3
+OVS_FLOW_ATTR_USED,VAR_4
+nla_put_64bit,FUNC_0
+nla_put_u64_64bit,FUNC_1
+nla_put_u8,FUNC_2
+ntohs,FUNC_3
+ovs_flow_stats_get,FUNC_4
+ovs_flow_used_time,FUNC_5
+ovs_flow_cmd_fill_stats,FUNC_6
+flow,VAR_5
+skb,VAR_6
+stats,VAR_7
+tcp_flags,VAR_8
+used,VAR_9

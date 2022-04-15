@@ -1,0 +1,17 @@
+SEM_FAILCRITICALERRORS,VAR_0
+SEM_NOGPFAULTERRORBOX,VAR_1
+SEM_NOOPENFILEERRORBOX,VAR_2
+SetErrorMode,FUNC_0
+_CrtSetReportHook,FUNC_1
+_set_invalid_parameter_handler,FUNC_2
+uv__crt_dbg_report_handler,VAR_3
+uv__crt_invalid_parameter_handler,VAR_4
+uv__init_detect_system_wakeup,FUNC_3
+uv__loops_init,FUNC_4
+uv__util_init,FUNC_5
+uv_console_init,FUNC_6
+uv_fs_init,FUNC_7
+uv_signals_init,FUNC_8
+uv_winapi_init,FUNC_9
+uv_winsock_init,FUNC_10
+uv_init,FUNC_11

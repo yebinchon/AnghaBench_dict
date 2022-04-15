@@ -1,0 +1,14 @@
+ASB100_REG_BANK,VAR_0
+i2c_get_clientdata,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+i2c_smbus_write_word_data,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+swab16,FUNC_5
+asb100_write_value,FUNC_6
+client,VAR_1
+reg,VAR_2
+value,VAR_3
+data,VAR_4
+cl,VAR_5
+bank,VAR_6

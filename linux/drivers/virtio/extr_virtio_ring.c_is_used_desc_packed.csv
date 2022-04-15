@@ -1,0 +1,10 @@
+VRING_PACKED_DESC_F_AVAIL,VAR_0
+VRING_PACKED_DESC_F_USED,VAR_1
+le16_to_cpu,FUNC_0
+is_used_desc_packed,FUNC_1
+vq,VAR_2
+idx,VAR_3
+used_wrap_counter,VAR_4
+avail,VAR_5
+used,VAR_6
+flags,VAR_7

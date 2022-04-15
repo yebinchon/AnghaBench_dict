@@ -1,0 +1,15 @@
+SQLITE_BIGENDIAN,VAR_0
+WAL_FRAME_HDRSIZE,VAR_1
+assert,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+sqlite3Put4byte,FUNC_3
+walChecksumBytes,FUNC_4
+walEncodeFrame,FUNC_5
+pWal,VAR_2
+iPage,VAR_3
+nTruncate,VAR_4
+aData,VAR_5
+aFrame,VAR_6
+nativeCksum,VAR_7
+aCksum,VAR_8

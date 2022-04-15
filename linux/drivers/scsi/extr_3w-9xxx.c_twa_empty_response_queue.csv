@@ -1,0 +1,11 @@
+TW_MAX_RESPONSE_DRAIN,VAR_0
+TW_RESPONSE_QUEUE_REG_ADDR,FUNC_0
+TW_STATUS_REG_ADDR,FUNC_1
+TW_STATUS_RESPONSE_QUEUE_EMPTY,VAR_1
+readl,FUNC_2
+twa_empty_response_queue,FUNC_3
+tw_dev,VAR_2
+status_reg_value,VAR_3
+response_que_value,VAR_4
+count,VAR_5
+retval,VAR_6

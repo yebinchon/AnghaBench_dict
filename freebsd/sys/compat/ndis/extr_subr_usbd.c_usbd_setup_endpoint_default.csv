@@ -1,0 +1,14 @@
+IRP_NDIS_DEV,FUNC_0
+USBD_CTRL_READ_PIPE,VAR_0
+USBD_CTRL_WRITE_PIPE,VAR_1
+USB_ERR_NORMAL_COMPLETION,VAR_2
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+usbd_default_epconfig,VAR_3
+usbd_setup_endpoint_one,FUNC_3
+usbd_setup_endpoint_default,FUNC_4
+ip,VAR_4
+ifidx,VAR_5
+dev,VAR_6
+sc,VAR_7
+status,VAR_8

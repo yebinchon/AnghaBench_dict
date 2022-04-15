@@ -1,0 +1,17 @@
+AlterSchemaOwner_internal,FUNC_0
+ERROR,VAR_0
+HeapTupleIsValid,FUNC_1
+NAMESPACEOID,VAR_1
+NamespaceRelationId,VAR_2
+ObjectIdGetDatum,FUNC_2
+ReleaseSysCache,FUNC_3
+RowExclusiveLock,VAR_3
+SearchSysCache1,FUNC_4
+elog,FUNC_5
+table_close,FUNC_6
+table_open,FUNC_7
+AlterSchemaOwner_oid,FUNC_8
+oid,VAR_4
+newOwnerId,VAR_5
+tup,VAR_6
+rel,VAR_7

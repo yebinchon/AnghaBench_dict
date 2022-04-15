@@ -1,0 +1,9 @@
+bus_generic_detach,FUNC_0
+device_delete_child,FUNC_1
+device_get_softc,FUNC_2
+release_resource,FUNC_3
+sbc_lock,FUNC_4
+sbc_lockdestroy,FUNC_5
+sbc_detach,FUNC_6
+dev,VAR_0
+scp,VAR_1

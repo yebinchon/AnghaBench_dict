@@ -1,0 +1,13 @@
+CMD_ASYNC,VAR_0
+STA_CONTROL_MODIFY_MSK,VAR_1
+STA_FLG_PWR_SAVE_MSK,VAR_2
+STA_MODIFY_SLEEP_TX_COUNT_MSK,VAR_3
+cpu_to_le16,FUNC_0
+il_send_add_sta,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+il4965_sta_modify_sleep_tx_count,FUNC_4
+il,VAR_4
+sta_id,VAR_5
+cnt,VAR_6
+flags,VAR_7

@@ -1,0 +1,13 @@
+ME_WAIT,FUNC_0
+M_IFME,VAR_0
+bpfdetach,FUNC_1
+free,FUNC_2
+if_detach,FUNC_3
+if_free,FUNC_4
+me_delete_tunnel,FUNC_5
+me_ioctl_sx,VAR_1
+sx_xlock,FUNC_6
+sx_xunlock,FUNC_7
+me_clone_destroy,FUNC_8
+ifp,VAR_2
+sc,VAR_3

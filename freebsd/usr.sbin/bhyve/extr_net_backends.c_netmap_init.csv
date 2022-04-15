@@ -1,0 +1,17 @@
+EVF_READ,VAR_0
+NETMAP_NO_TX_POLL,VAR_1
+NETMAP_RXRING,FUNC_0
+NETMAP_TXRING,FUNC_1
+WPRINTF,FUNC_2
+errno,VAR_2
+free,FUNC_3
+mevent_add_disabled,FUNC_4
+nm_open,FUNC_5
+strerror,FUNC_6
+strlcpy,FUNC_7
+netmap_init,FUNC_8
+be,VAR_3
+devname,VAR_4
+cb,VAR_5
+param,VAR_6
+priv,VAR_7

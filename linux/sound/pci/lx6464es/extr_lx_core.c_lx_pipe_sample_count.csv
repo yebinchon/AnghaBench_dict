@@ -1,0 +1,15 @@
+CMD_0A_GET_PIPE_SPL_COUNT,VAR_0
+MASK_SPL_COUNT_HI,VAR_1
+PIPE_INFO_TO_CMD,FUNC_0
+dev_err,FUNC_1
+lx_message_init,FUNC_2
+lx_message_send_atomic,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+lx_pipe_sample_count,FUNC_6
+chip,VAR_2
+pipe,VAR_3
+is_capture,VAR_4
+rsample_count,VAR_5
+err,VAR_6
+pipe_cmd,VAR_7

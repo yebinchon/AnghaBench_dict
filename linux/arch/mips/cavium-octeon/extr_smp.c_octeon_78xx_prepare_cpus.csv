@@ -1,0 +1,10 @@
+IRQF_NO_THREAD,VAR_0
+IRQF_PERCPU,VAR_1
+OCTEON_IRQ_MBOX0,VAR_2
+octeon_78xx_call_function_interrupt,VAR_3
+octeon_78xx_icache_flush_interrupt,VAR_4
+octeon_78xx_reched_interrupt,VAR_5
+panic,FUNC_0
+request_irq,FUNC_1
+octeon_78xx_prepare_cpus,FUNC_2
+max_cpus,VAR_6

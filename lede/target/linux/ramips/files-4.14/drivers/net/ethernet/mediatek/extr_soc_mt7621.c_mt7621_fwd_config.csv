@@ -1,0 +1,11 @@
+MT7620A_GDMA1_FWD_CFG,VAR_0
+NETIF_F_HW_VLAN_CTAG_RX,VAR_1
+NETIF_F_RXCSUM,VAR_2
+fe_r32,FUNC_0
+fe_w32,FUNC_1
+mt7621_rxcsum_config,FUNC_2
+mt7621_rxvlan_config,FUNC_3
+priv_netdev,FUNC_4
+mt7621_fwd_config,FUNC_5
+priv,VAR_3
+dev,VAR_4

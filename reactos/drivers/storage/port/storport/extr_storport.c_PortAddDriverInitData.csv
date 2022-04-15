@@ -1,0 +1,12 @@
+DPRINT1,FUNC_0
+ExAllocatePoolWithTag,FUNC_1
+InsertHeadList,FUNC_2
+NonPagedPool,VAR_0
+RtlCopyMemory,FUNC_3
+STATUS_NO_MEMORY,VAR_1
+STATUS_SUCCESS,VAR_2
+TAG_INIT_DATA,VAR_3
+PortAddDriverInitData,FUNC_4
+DriverExtension,VAR_4
+HwInitializationData,VAR_5
+InitData,VAR_6

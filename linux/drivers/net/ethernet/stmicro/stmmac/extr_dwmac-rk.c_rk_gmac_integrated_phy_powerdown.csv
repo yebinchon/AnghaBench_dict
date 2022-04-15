@@ -1,0 +1,6 @@
+RK_GRF_MACPHY_CON0,VAR_0
+RK_MACPHY_DISABLE,VAR_1
+regmap_write,FUNC_0
+reset_control_assert,FUNC_1
+rk_gmac_integrated_phy_powerdown,FUNC_2
+priv,VAR_2

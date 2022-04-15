@@ -1,0 +1,15 @@
+BNA_CB_MCAST_LIST_FULL,VAR_0
+BNA_CB_SUCCESS,VAR_1
+RXF_E_CONFIG,VAR_2
+bfa_fsm_send_event,FUNC_0
+bna_cam_mod_mac_get,FUNC_1
+bna_mac_find,FUNC_2
+bna_mcam_mod_free_q,FUNC_3
+ether_addr_copy,FUNC_4
+list_add_tail,FUNC_5
+bna_rx_mcast_add,FUNC_6
+rx,VAR_3
+addr,VAR_4
+cbfn,VAR_5
+rxf,VAR_6
+mac,VAR_7

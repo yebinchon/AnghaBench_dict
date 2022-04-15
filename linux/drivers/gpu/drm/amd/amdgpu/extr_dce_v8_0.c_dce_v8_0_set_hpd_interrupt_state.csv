@@ -1,0 +1,12 @@
+DC_HPD1_INT_CONTROL__DC_HPD1_INT_EN_MASK,VAR_0
+DRM_DEBUG,FUNC_0
+RREG32,FUNC_1
+WREG32,FUNC_2
+hpd_offsets,VAR_1
+mmDC_HPD1_INT_CONTROL,VAR_2
+dce_v8_0_set_hpd_interrupt_state,FUNC_3
+adev,VAR_3
+src,VAR_4
+type,VAR_5
+state,VAR_6
+dc_hpd_int_cntl,VAR_7

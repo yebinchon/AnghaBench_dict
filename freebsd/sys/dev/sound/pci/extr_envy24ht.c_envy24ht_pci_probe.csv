@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+PCID_ENVY24HT,VAR_1
+PCIV_ENVY24,VAR_2
+cfg_table,VAR_3
+device_set_desc,FUNC_0
+pci_get_device,FUNC_1
+pci_get_subdevice,FUNC_2
+pci_get_subvendor,FUNC_3
+pci_get_vendor,FUNC_4
+printf,FUNC_5
+envy24ht_pci_probe,FUNC_6
+dev,VAR_4
+sv,VAR_5
+sd,VAR_6
+i,VAR_7

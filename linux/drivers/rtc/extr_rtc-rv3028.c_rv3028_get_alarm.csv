@@ -1,0 +1,17 @@
+RV3028_ALARM_MIN,VAR_0
+RV3028_CTRL2,VAR_1
+RV3028_CTRL2_AIE,VAR_2
+RV3028_STATUS,VAR_3
+RV3028_STATUS_AF,VAR_4
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+regmap_bulk_read,FUNC_2
+regmap_read,FUNC_3
+rv3028_get_alarm,FUNC_4
+dev,VAR_5
+alrm,VAR_6
+rv3028,VAR_7
+alarmvals,VAR_8
+status,VAR_9
+ctrl,VAR_10
+ret,VAR_11

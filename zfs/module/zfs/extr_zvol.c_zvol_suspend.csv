@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+MUTEX_HELD,FUNC_1
+RW_WRITER,VAR_0
+RW_WRITE_HELD,FUNC_2
+atomic_inc,FUNC_3
+mutex_exit,FUNC_4
+zvol_find_by_name,FUNC_5
+zvol_shutdown_zv,FUNC_6
+zvol_suspend,FUNC_7
+name,VAR_1
+zv,VAR_2

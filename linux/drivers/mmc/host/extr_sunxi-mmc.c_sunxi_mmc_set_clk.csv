@@ -1,0 +1,11 @@
+MMC_TIMING_MMC_DDR52,VAR_0
+MMC_TIMING_UHS_DDR50,VAR_1
+REG_GCTRL,VAR_2
+SDXC_DDR_MODE,VAR_3
+mmc_readl,FUNC_0
+mmc_writel,FUNC_1
+sunxi_mmc_clk_set_rate,FUNC_2
+sunxi_mmc_set_clk,FUNC_3
+host,VAR_4
+ios,VAR_5
+rval,VAR_6

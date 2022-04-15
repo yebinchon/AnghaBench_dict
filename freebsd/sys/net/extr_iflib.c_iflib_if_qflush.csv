@@ -1,0 +1,14 @@
+IFC_QFLUSH,VAR_0
+NTXQSETS,FUNC_0
+STATE_LOCK,FUNC_1
+STATE_UNLOCK,FUNC_2
+if_getsoftc,FUNC_3
+if_qflush,FUNC_4
+iflib_txq_check_drain,FUNC_5
+ifmp_ring_is_idle,FUNC_6
+ifmp_ring_is_stalled,FUNC_7
+iflib_if_qflush,FUNC_8
+ifp,VAR_1
+ctx,VAR_2
+txq,VAR_3
+i,VAR_4

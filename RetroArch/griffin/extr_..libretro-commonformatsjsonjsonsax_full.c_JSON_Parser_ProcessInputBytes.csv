@@ -1,0 +1,17 @@
+DECODER_CODEPOINT,FUNC_0
+DECODER_RESULT_CODE,FUNC_1
+DECODER_SEQUENCE_LENGTH,FUNC_2
+Decoder_ProcessByte,FUNC_3
+JSON_Failure,VAR_0
+JSON_Parser_HandleInvalidEncodingSequence,FUNC_4
+JSON_Parser_ProcessCodepoint,FUNC_5
+JSON_Parser_ProcessUnknownByte,FUNC_6
+JSON_Success,VAR_1
+JSON_UnknownEncoding,VAR_2
+JSON_Parser_ProcessInputBytes,FUNC_7
+parser,VAR_3
+pBytes,VAR_4
+length,VAR_5
+i,VAR_6
+output,VAR_7
+result,VAR_8

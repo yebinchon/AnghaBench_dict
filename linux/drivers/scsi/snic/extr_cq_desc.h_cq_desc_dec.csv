@@ -1,0 +1,15 @@
+CQ_DESC_COLOR_MASK,VAR_0
+CQ_DESC_COLOR_SHIFT,VAR_1
+CQ_DESC_COMP_NDX_MASK,VAR_2
+CQ_DESC_Q_NUM_MASK,VAR_3
+CQ_DESC_TYPE_MASK,VAR_4
+le16_to_cpu,FUNC_0
+rmb,FUNC_1
+cq_desc_dec,FUNC_2
+desc_arg,VAR_5
+type,VAR_6
+color,VAR_7
+q_number,VAR_8
+completed_index,VAR_9
+desc,VAR_10
+type_color,VAR_11

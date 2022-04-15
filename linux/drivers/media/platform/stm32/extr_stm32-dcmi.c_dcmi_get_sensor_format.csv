@@ -1,0 +1,10 @@
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_0
+get_fmt,VAR_1
+pad,VAR_2
+v4l2_fill_pix_format,FUNC_0
+v4l2_subdev_call,FUNC_1
+dcmi_get_sensor_format,FUNC_2
+dcmi,VAR_3
+pix,VAR_4
+fmt,VAR_5
+ret,VAR_6

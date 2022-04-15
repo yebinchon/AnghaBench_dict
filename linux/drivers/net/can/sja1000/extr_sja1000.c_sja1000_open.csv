@@ -1,0 +1,16 @@
+CAN_LED_EVENT_OPEN,VAR_0
+EAGAIN,VAR_1
+SJA1000_CUSTOM_IRQ_HANDLER,VAR_2
+can_led_event,FUNC_0
+close_candev,FUNC_1
+netdev_priv,FUNC_2
+netif_start_queue,FUNC_3
+open_candev,FUNC_4
+request_irq,FUNC_5
+set_reset_mode,FUNC_6
+sja1000_interrupt,VAR_3
+sja1000_start,FUNC_7
+sja1000_open,FUNC_8
+dev,VAR_4
+priv,VAR_5
+err,VAR_6

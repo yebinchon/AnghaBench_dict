@@ -1,0 +1,16 @@
+EEPROM_CTRL,VAR_0
+HP100_EEPROM_LOAD,VAR_1
+HP100_EE_LOAD,VAR_2
+OPTION_MSW,VAR_3
+TRACE,VAR_4
+hp100_andw,FUNC_0
+hp100_inb,FUNC_1
+hp100_orw,FUNC_2
+hp100_outw,FUNC_3
+hp100_page,FUNC_4
+printk,FUNC_5
+hp100_load_eeprom,FUNC_6
+dev,VAR_5
+probe_ioaddr,VAR_6
+i,VAR_7
+ioaddr,VAR_8

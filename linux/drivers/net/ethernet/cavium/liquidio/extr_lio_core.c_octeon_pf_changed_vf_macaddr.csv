@@ -1,0 +1,14 @@
+GET_LIO,FUNC_0
+NETDEV_CHANGEADDR,VAR_0
+call_netdevice_notifiers,FUNC_1
+dev_info,FUNC_2
+ether_addr_copy,FUNC_3
+ether_addr_equal,FUNC_4
+rtnl_lock,FUNC_5
+rtnl_unlock,FUNC_6
+octeon_pf_changed_vf_macaddr,FUNC_7
+oct,VAR_1
+mac,VAR_2
+macaddr_changed,VAR_3
+netdev,VAR_4
+lio,VAR_5

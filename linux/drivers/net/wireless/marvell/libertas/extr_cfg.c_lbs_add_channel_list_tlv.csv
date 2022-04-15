@@ -1,0 +1,14 @@
+CMD_SCAN_RADIO_TYPE_BG,VAR_0
+LBS_DWELL_ACTIVE,VAR_1
+LBS_DWELL_PASSIVE,VAR_2
+TLV_TYPE_CHANLIST,VAR_3
+cpu_to_le16,FUNC_0
+memset,FUNC_1
+lbs_add_channel_list_tlv,FUNC_2
+priv,VAR_4
+tlv,VAR_5
+last_channel,VAR_6
+active_scan,VAR_7
+chanscanparamsize,VAR_8
+header,VAR_9
+param,VAR_10

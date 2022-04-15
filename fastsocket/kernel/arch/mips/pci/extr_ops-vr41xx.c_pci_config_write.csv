@@ -1,0 +1,15 @@
+PCIBIOS_DEVICE_NOT_FOUND,VAR_0
+PCIBIOS_FUNC_NOT_SUPPORTED,VAR_1
+PCIBIOS_SUCCESSFUL,VAR_2
+PCICONFDREG,VAR_3
+readl,FUNC_0
+set_pci_configuration_address,FUNC_1
+writel,FUNC_2
+pci_config_write,FUNC_3
+bus,VAR_4
+devfn,VAR_5
+where,VAR_6
+size,VAR_7
+val,VAR_8
+data,VAR_9
+shift,VAR_10

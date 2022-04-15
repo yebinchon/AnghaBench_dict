@@ -1,0 +1,11 @@
+lua_call,FUNC_0
+lua_getfield,FUNC_1
+lua_getglobal,FUNC_2
+lua_isfunction,FUNC_3
+lua_isstring,FUNC_4
+lua_istable,FUNC_5
+lua_pop,FUNC_6
+lua_pushinteger,FUNC_7
+lua_pushvalue,FUNC_8
+ngx_http_lua_traceback,FUNC_9
+L,VAR_0

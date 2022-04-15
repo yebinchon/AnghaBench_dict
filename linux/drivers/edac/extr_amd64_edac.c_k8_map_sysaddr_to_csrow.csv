@@ -1,0 +1,16 @@
+BIT,FUNC_0
+ERR_CHANNEL,VAR_0
+ERR_CSROW,VAR_1
+ERR_NODE,VAR_2
+NBCFG_CHIPKILL,VAR_3
+amd64_mc_err,FUNC_1
+amd64_mc_warn,FUNC_2
+error_address_to_page_and_offset,FUNC_3
+find_mc_by_sys_addr,FUNC_4
+get_channel_from_ecc_syndrome,FUNC_5
+sys_addr_to_csrow,FUNC_6
+k8_map_sysaddr_to_csrow,FUNC_7
+mci,VAR_4
+sys_addr,VAR_5
+err,VAR_6
+pvt,VAR_7

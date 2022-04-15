@@ -1,0 +1,15 @@
+M_IP6OPT,VAR_0
+M_WAITOK,VAR_1
+free,FUNC_0
+ip6_clearpktopts,FUNC_1
+ip6_setpktopts,FUNC_2
+malloc,FUNC_3
+printf,FUNC_4
+ip6_pcbopts,FUNC_5
+pktopt,VAR_2
+m,VAR_3
+so,VAR_4
+sopt,VAR_5
+opt,VAR_6
+error,VAR_7
+td,VAR_8

@@ -1,0 +1,14 @@
+XenbusStateClosing,VAR_0
+bdget_disk,FUNC_0
+bdput,FUNC_1
+kfree,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+xenbus_frontend_closed,FUNC_5
+xlvbd_release_gendisk,FUNC_6
+blkif_release,FUNC_7
+disk,VAR_1
+mode,VAR_2
+info,VAR_3
+bdev,VAR_4
+xbdev,VAR_5

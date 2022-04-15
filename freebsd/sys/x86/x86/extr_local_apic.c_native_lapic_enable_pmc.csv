@@ -1,0 +1,14 @@
+APIC_LVT_PMC,VAR_0
+APIC_VER_MAXLVT,VAR_1
+LAPIC_VERSION,VAR_2
+MAXLVTSHIFT,VAR_3
+MPASS,FUNC_0
+lapic_map,VAR_4
+lapic_read32,FUNC_1
+lapic_update_pmc,FUNC_2
+lvts,VAR_5
+mp_ncpus,VAR_6
+smp_rendezvous,FUNC_3
+smp_started,VAR_7
+x2apic_mode,VAR_8
+native_lapic_enable_pmc,FUNC_4

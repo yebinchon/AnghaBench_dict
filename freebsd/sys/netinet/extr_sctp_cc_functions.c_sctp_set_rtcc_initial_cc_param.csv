@@ -1,0 +1,14 @@
+SCTP_BASE_SYSCTL,FUNC_0
+SDT_PROBE5,FUNC_1
+cwnd,VAR_0
+rttvar,VAR_1
+sctp,VAR_2
+sctp_rttvar_eqret,VAR_3
+sctp_set_initial_cc_param,FUNC_2
+sctp_steady_step,VAR_4
+sctp_use_dccc_ecn,VAR_5
+sctp_set_rtcc_initial_cc_param,FUNC_3
+stcb,VAR_6
+net,VAR_7
+vtag,VAR_8
+probepoint,VAR_9

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+LPC18XX_EEPROM_PAGE_SIZE,VAR_1
+LPC18XX_EEPROM_PWRDWN,VAR_2
+LPC18XX_EEPROM_PWRDWN_NO,VAR_3
+LPC18XX_EEPROM_PWRDWN_YES,VAR_4
+lpc18xx_eeprom_busywait_until_prog,FUNC_0
+lpc18xx_eeprom_writel,FUNC_1
+usleep_range,FUNC_2
+writel,FUNC_3
+lpc18xx_eeprom_gather_write,FUNC_4
+context,VAR_5
+reg,VAR_6
+val,VAR_7
+bytes,VAR_8
+eeprom,VAR_9
+offset,VAR_10
+ret,VAR_11

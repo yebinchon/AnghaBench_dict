@@ -1,0 +1,14 @@
+IB_CQ_NEXT_COMP,VAR_0
+IB_CQ_REPORT_MISSED_EVENTS,VAR_1
+SMC_WR_MAX_POLL_CQE,VAR_2
+ib_poll_cq,FUNC_0
+ib_req_notify_cq,FUNC_1
+memset,FUNC_2
+smc_wr_tx_process_cqe,FUNC_3
+smc_wr_tx_tasklet_fn,FUNC_4
+data,VAR_3
+dev,VAR_4
+wc,VAR_5
+i,VAR_6
+rc,VAR_7
+polled,VAR_8

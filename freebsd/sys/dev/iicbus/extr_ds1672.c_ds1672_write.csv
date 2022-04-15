@@ -1,0 +1,13 @@
+DS1672_ADDR,VAR_0
+ENOMEM,VAR_1
+IIC_M_WR,VAR_2
+MAX_IIC_DATA_SIZE,VAR_3
+iicbus_transfer,FUNC_0
+memcpy,FUNC_1
+ds1672_write,FUNC_2
+dev,VAR_4
+addr,VAR_5
+data,VAR_6
+size,VAR_7
+buffer,VAR_8
+msgs,VAR_9

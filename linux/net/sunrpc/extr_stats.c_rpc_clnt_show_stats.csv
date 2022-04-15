@@ -1,0 +1,13 @@
+RPC_IOSTATS_VERS,VAR_0
+_add_rpc_iostats,FUNC_0
+_print_rpc_iostats,FUNC_1
+do_print_stats,VAR_1
+rpc_clnt_iterate_for_each_xprt,FUNC_2
+seq_printf,FUNC_3
+rpc_clnt_show_stats,FUNC_4
+seq,VAR_2
+clnt,VAR_3
+op,VAR_4
+maxproc,VAR_5
+stats,VAR_6
+next,VAR_7

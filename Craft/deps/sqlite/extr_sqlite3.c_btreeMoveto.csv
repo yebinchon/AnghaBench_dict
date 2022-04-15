@@ -1,0 +1,16 @@
+SQLITE_NOMEM,VAR_0
+assert,FUNC_0
+sqlite3BtreeMovetoUnpacked,FUNC_1
+sqlite3DbFree,FUNC_2
+sqlite3VdbeAllocUnpackedRecord,FUNC_3
+sqlite3VdbeRecordUnpack,FUNC_4
+btreeMoveto,FUNC_5
+pCur,VAR_1
+pKey,VAR_2
+nKey,VAR_3
+bias,VAR_4
+pRes,VAR_5
+rc,VAR_6
+pIdxKey,VAR_7
+aSpace,VAR_8
+pFree,VAR_9

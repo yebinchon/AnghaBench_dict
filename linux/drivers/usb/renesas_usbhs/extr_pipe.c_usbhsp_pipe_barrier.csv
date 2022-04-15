@@ -1,0 +1,15 @@
+CFIFOSEL,VAR_0
+CSSTS,VAR_1
+EBUSY,VAR_2
+PID_MASK,VAR_3
+udelay,FUNC_0
+usbhs_mod_is_host,FUNC_1
+usbhs_pipe_disable,FUNC_2
+usbhs_pipe_to_priv,FUNC_3
+usbhs_write,FUNC_4
+usbhsp_pipectrl_get,FUNC_5
+usbhsp_pipe_barrier,FUNC_6
+pipe,VAR_4
+priv,VAR_5
+timeout,VAR_6
+mask,VAR_7

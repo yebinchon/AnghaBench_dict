@@ -1,0 +1,11 @@
+cl_assert_equal_b,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_set_cleanup,FUNC_3
+clean_test_config,VAR_0
+git_config_free,FUNC_4
+git_config_get_bool,FUNC_5
+git_config_open_ondisk,FUNC_6
+test_config_read__lone_variable_with_trailing_whitespace,FUNC_7
+cfg,VAR_1
+b,VAR_2

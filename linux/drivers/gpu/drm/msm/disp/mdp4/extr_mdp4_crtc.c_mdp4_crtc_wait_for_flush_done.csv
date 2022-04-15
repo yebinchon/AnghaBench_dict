@@ -1,0 +1,16 @@
+REG_MDP4_OVERLAY_FLUSH,VAR_0
+dev_warn,FUNC_0
+drm_crtc_index,FUNC_1
+drm_crtc_vblank_get,FUNC_2
+drm_crtc_vblank_put,FUNC_3
+get_kms,FUNC_4
+mdp4_read,FUNC_5
+msecs_to_jiffies,FUNC_6
+to_mdp4_crtc,FUNC_7
+wait_event_timeout,FUNC_8
+mdp4_crtc_wait_for_flush_done,FUNC_9
+crtc,VAR_1
+dev,VAR_2
+mdp4_crtc,VAR_3
+mdp4_kms,VAR_4
+ret,VAR_5

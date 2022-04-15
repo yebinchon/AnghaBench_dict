@@ -1,0 +1,13 @@
+AEGIS128_STATE_BLOCKS,VAR_0
+cpu_to_le64,FUNC_0
+crypto_aegis128_update_a,FUNC_1
+crypto_aegis_block_xor,FUNC_2
+crypto_aegis128_final,FUNC_3
+state,VAR_1
+tag_xor,VAR_2
+assoclen,VAR_3
+cryptlen,VAR_4
+assocbits,VAR_5
+cryptbits,VAR_6
+tmp,VAR_7
+i,VAR_8

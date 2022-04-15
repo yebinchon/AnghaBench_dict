@@ -1,0 +1,17 @@
+USB_ASSERT,FUNC_0
+USB_BUS_LOCK,FUNC_1
+USB_BUS_UNLOCK,FUNC_2
+USB_XFER_LOCK,FUNC_3
+USB_XFER_UNLOCK,FUNC_4
+WARN_GIANTOK,VAR_0
+WARN_SLEEPOK,VAR_1
+WITNESS_WARN,FUNC_5
+usb_callout_drain,FUNC_6
+usbd_transfer_drain,FUNC_7
+usbd_transfer_unsetup_sub,FUNC_8
+usbd_transfer_unsetup,FUNC_9
+pxfer,VAR_2
+n_setup,VAR_3
+xfer,VAR_4
+info,VAR_5
+needs_delay,VAR_6

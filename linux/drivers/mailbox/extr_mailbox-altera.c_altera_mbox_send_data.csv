@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+MAILBOX_CMD_REG,VAR_2
+MAILBOX_PTR_REG,VAR_3
+MBOX_CMD,VAR_4
+MBOX_PTR,VAR_5
+altera_mbox_full,FUNC_0
+altera_mbox_tx_intmask,FUNC_1
+dev_warn,FUNC_2
+mbox_chan_to_altera_mbox,FUNC_3
+writel_relaxed,FUNC_4
+altera_mbox_send_data,FUNC_5
+chan,VAR_6
+data,VAR_7
+mbox,VAR_8
+udata,VAR_9

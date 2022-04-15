@@ -1,0 +1,12 @@
+entity_read_send_error_400,FUNC_0
+entity_read_send_error_413,FUNC_1
+h2o_buffer_consume,FUNC_2
+handle_one_body_fragment,FUNC_3
+phr_decode_chunked,FUNC_4
+handle_chunked_entity_read,FUNC_5
+conn,VAR_0
+reader,VAR_1
+bufsz,VAR_2
+consume,VAR_3
+ret,VAR_4
+complete,VAR_5

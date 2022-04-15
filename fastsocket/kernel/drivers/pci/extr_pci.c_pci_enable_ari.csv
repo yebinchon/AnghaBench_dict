@@ -1,0 +1,14 @@
+PCI_EXP_DEVCAP2,VAR_0
+PCI_EXP_DEVCAP2_ARI,VAR_1
+PCI_EXP_DEVCTL2,VAR_2
+PCI_EXP_DEVCTL2_ARI,VAR_3
+PCI_EXT_CAP_ID_ARI,VAR_4
+pci_find_ext_capability,FUNC_0
+pci_is_pcie,FUNC_1
+pcie_ari_disabled,VAR_5
+pcie_capability_read_dword,FUNC_2
+pcie_capability_set_word,FUNC_3
+pci_enable_ari,FUNC_4
+dev,VAR_6
+cap,VAR_7
+bridge,VAR_8

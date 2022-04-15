@@ -1,0 +1,13 @@
+PyObject_CallObject,FUNC_0
+Py_BuildValue,FUNC_1
+Py_XDECREF,FUNC_2
+lock_callback,FUNC_3
+obs_remove_tick_callback,FUNC_4
+py_error,FUNC_5
+unlock_callback,FUNC_6
+obs_python_tick_callback,FUNC_7
+priv,VAR_0
+seconds,VAR_1
+cb,VAR_2
+args,VAR_3
+py_ret,VAR_4

@@ -1,0 +1,17 @@
+GEN_CMD_CODE,FUNC_0
+NumRates,VAR_0
+_FAIL,VAR_1
+_SUCCESS,VAR_2
+_SetDataRate,VAR_3
+init_h2fwcmd_w_parm_no_rsp,FUNC_1
+kfree,FUNC_2
+memcpy,FUNC_3
+rtw_enqueue_cmd,FUNC_4
+rtw_zmalloc,FUNC_5
+rtw_setdatarate_cmd,FUNC_6
+padapter,VAR_4
+rateset,VAR_5
+ph2c,VAR_6
+pbsetdataratepara,VAR_7
+pcmdpriv,VAR_8
+res,VAR_9

@@ -1,0 +1,11 @@
+SSL_CTX_sess_set_get_cb,FUNC_0
+SSL_CTX_sess_set_new_cb,FUNC_1
+SSL_CTX_sess_set_remove_cb,FUNC_2
+SSL_CTX_set_session_cache_mode,FUNC_3
+SSL_SESS_CACHE_NO_INTERNAL,VAR_0
+SSL_SESS_CACHE_SERVER,VAR_1
+add_session,VAR_2
+del_session,VAR_3
+get_session,VAR_4
+init_session_cache_ctx,FUNC_4
+sctx,VAR_5

@@ -1,0 +1,16 @@
+B_VMIO,VAR_0
+KASSERT,FUNC_0
+NOOFFSET,VAR_1
+PAGE_MASK,VAR_2
+PAGE_SIZE,VAR_3
+vfs_busy_pages_acquire,FUNC_1
+vfs_busy_pages_release,FUNC_2
+vfs_page_set_validclean,FUNC_3
+vfs_setdirty_range,FUNC_4
+vfs_clean_pages_dirty_buf,FUNC_5
+bp,VAR_4
+foff,VAR_5
+noff,VAR_6
+eoff,VAR_7
+m,VAR_8
+i,VAR_9

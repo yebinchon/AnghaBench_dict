@@ -1,0 +1,10 @@
+SCTP_RTXR_T3_RTX,VAR_0
+del_timer,FUNC_0
+jiffies,VAR_1
+mod_timer,FUNC_1
+sctp_retransmit,FUNC_2
+sctp_transport_hold,FUNC_3
+sctp_transport_put,FUNC_4
+timer_pending,FUNC_5
+sctp_transport_immediate_rtx,FUNC_6
+t,VAR_2

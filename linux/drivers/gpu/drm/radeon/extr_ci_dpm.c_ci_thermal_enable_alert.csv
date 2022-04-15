@@ -1,0 +1,16 @@
+CG_THERMAL_INT,VAR_0
+DRM_DEBUG_KMS,FUNC_0
+EINVAL,VAR_1
+PPSMC_MSG_Thermal_Cntl_Disable,VAR_2
+PPSMC_MSG_Thermal_Cntl_Enable,VAR_3
+PPSMC_Result_OK,VAR_4
+RREG32_SMC,FUNC_1
+THERM_INT_MASK_HIGH,VAR_5
+THERM_INT_MASK_LOW,VAR_6
+WREG32_SMC,FUNC_2
+ci_send_msg_to_smc,FUNC_3
+ci_thermal_enable_alert,FUNC_4
+rdev,VAR_7
+enable,VAR_8
+thermal_int,VAR_9
+result,VAR_10

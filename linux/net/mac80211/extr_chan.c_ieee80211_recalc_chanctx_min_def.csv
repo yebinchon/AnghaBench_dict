@@ -1,0 +1,13 @@
+IEEE80211_CHANCTX_CHANGE_MIN_WIDTH,VAR_0
+NL80211_CHAN_WIDTH_10,VAR_1
+NL80211_CHAN_WIDTH_5,VAR_2
+cfg80211_chandef_identical,FUNC_0
+drv_change_chanctx,FUNC_1
+ieee80211_chandef_downgrade,FUNC_2
+ieee80211_get_chanctx_max_required_bw,FUNC_3
+lockdep_assert_held,FUNC_4
+ieee80211_recalc_chanctx_min_def,FUNC_5
+local,VAR_3
+ctx,VAR_4
+max_bw,VAR_5
+min_def,VAR_6

@@ -1,0 +1,17 @@
+CFRelease,FUNC_0
+CGEventCreateScrollWheelEvent,FUNC_1
+CGEventPost,FUNC_2
+CurrentTime,VAR_0
+INPUT_MOUSE,VAR_1
+MOUSEEVENTF_HWHEEL,VAR_2
+MOUSEEVENTF_WHEEL,VAR_3
+SendInput,FUNC_3
+XGetMainDisplay,FUNC_4
+XSync,FUNC_5
+XTestFakeButtonEvent,FUNC_6
+abs,FUNC_7
+kCGHIDEventTap,VAR_4
+kCGScrollEventUnitPixel,VAR_5
+scrollMouse,FUNC_8
+x,VAR_6
+y,VAR_7

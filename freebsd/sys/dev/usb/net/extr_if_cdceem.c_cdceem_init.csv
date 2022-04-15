@@ -1,0 +1,14 @@
+CDCEEM_BULK_TX,VAR_0
+CDCEEM_SC_FLAGS_ECHO_PENDING,VAR_1
+IFF_DRV_RUNNING,VAR_2
+USB_MODE_HOST,VAR_3
+cdceem_send_echoes,VAR_4
+cdceem_start,FUNC_0
+uether_getifp,FUNC_1
+uether_getsc,FUNC_2
+usbd_get_mode,FUNC_3
+usbd_xfer_set_stall,FUNC_4
+cdceem_init,FUNC_5
+ue,VAR_5
+sc,VAR_6
+ifp,VAR_7

@@ -1,0 +1,12 @@
+AQ_CFG_INTERRUPT_MODERATION_ON,VAR_0
+AQ_CFG_INTERRUPT_MODERATION_USEC_MAX,VAR_1
+EINVAL,VAR_2
+EOPNOTSUPP,VAR_3
+aq_nic_get_cfg,FUNC_0
+aq_nic_update_interrupt_moderation_settings,FUNC_1
+netdev_priv,FUNC_2
+aq_ethtool_set_coalesce,FUNC_3
+ndev,VAR_4
+coal,VAR_5
+aq_nic,VAR_6
+cfg,VAR_7

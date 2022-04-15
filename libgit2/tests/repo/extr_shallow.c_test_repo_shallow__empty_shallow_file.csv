@@ -1,0 +1,6 @@
+cl_assert_equal_i,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_sandbox_init,FUNC_2
+g_repo,VAR_0
+git_repository_is_shallow,FUNC_3
+test_repo_shallow__empty_shallow_file,FUNC_4

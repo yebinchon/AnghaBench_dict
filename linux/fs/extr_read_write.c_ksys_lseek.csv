@@ -1,0 +1,14 @@
+EBADF,VAR_0
+EINVAL,VAR_1
+EOVERFLOW,VAR_2
+SEEK_MAX,VAR_3
+fdget_pos,FUNC_0
+fdput_pos,FUNC_1
+vfs_llseek,FUNC_2
+ksys_lseek,FUNC_3
+fd,VAR_4
+offset,VAR_5
+whence,VAR_6
+retval,VAR_7
+f,VAR_8
+res,VAR_9

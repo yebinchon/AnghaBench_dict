@@ -1,0 +1,17 @@
+EOPNOTSUPP,VAR_0
+KVM_X86_QUIRK_LAPIC_MMIO_HOLE,VAR_1
+apic_mmio_in_range,FUNC_0
+apic_x2apic_mode,FUNC_1
+kvm_apic_hw_enabled,FUNC_2
+kvm_check_has_quirk,FUNC_3
+kvm_lapic_reg_write,FUNC_4
+to_lapic,FUNC_5
+apic_mmio_write,FUNC_6
+vcpu,VAR_2
+this,VAR_3
+address,VAR_4
+len,VAR_5
+data,VAR_6
+apic,VAR_7
+offset,VAR_8
+val,VAR_9

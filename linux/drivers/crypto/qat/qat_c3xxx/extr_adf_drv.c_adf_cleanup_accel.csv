@@ -1,0 +1,12 @@
+ADF_PCI_MAX_BARS,VAR_0
+adf_cfg_dev_remove,FUNC_0
+adf_clean_hw_data_c3xxx,FUNC_1
+adf_devmgr_rm_dev,FUNC_2
+debugfs_remove,FUNC_3
+kfree,FUNC_4
+pci_iounmap,FUNC_5
+adf_cleanup_accel,FUNC_6
+accel_dev,VAR_1
+accel_pci_dev,VAR_2
+i,VAR_3
+bar,VAR_4

@@ -1,0 +1,10 @@
+arm_smmu_atc_inv_master,FUNC_0
+arm_smmu_atc_inv_to_cmd,FUNC_1
+atomic_dec,FUNC_2
+pci_disable_ats,FUNC_3
+to_pci_dev,FUNC_4
+wmb,FUNC_5
+arm_smmu_disable_ats,FUNC_6
+master,VAR_0
+cmd,VAR_1
+smmu_domain,VAR_2

@@ -1,0 +1,10 @@
+CPU_BASED_VIRTUAL_NMI_PENDING,VAR_0
+GUEST_INTERRUPTIBILITY_INFO,VAR_1
+GUEST_INTR_STATE_STI,VAR_2
+enable_irq_window,FUNC_0
+enable_vnmi,VAR_3
+exec_controls_setbit,FUNC_1
+to_vmx,FUNC_2
+vmcs_read32,FUNC_3
+enable_nmi_window,FUNC_4
+vcpu,VAR_4

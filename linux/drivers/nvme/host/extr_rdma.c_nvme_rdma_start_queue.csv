@@ -1,0 +1,15 @@
+NVME_RDMA_Q_ALLOCATED,VAR_0
+NVME_RDMA_Q_LIVE,VAR_1
+__nvme_rdma_stop_queue,FUNC_0
+dev_info,FUNC_1
+nvme_rdma_poll_queue,FUNC_2
+nvmf_connect_admin_queue,FUNC_3
+nvmf_connect_io_queue,FUNC_4
+set_bit,FUNC_5
+test_bit,FUNC_6
+nvme_rdma_start_queue,FUNC_7
+ctrl,VAR_2
+idx,VAR_3
+queue,VAR_4
+poll,VAR_5
+ret,VAR_6

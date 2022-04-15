@@ -1,0 +1,16 @@
+RV8803_ALARM_MIN,VAR_0
+RV8803_CTRL_AIE,VAR_1
+RV8803_FLAG,VAR_2
+RV8803_FLAG_AF,VAR_3
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+rv8803_read_reg,FUNC_2
+rv8803_read_regs,FUNC_3
+rv8803_get_alarm,FUNC_4
+dev,VAR_4
+alrm,VAR_5
+rv8803,VAR_6
+client,VAR_7
+alarmvals,VAR_8
+flags,VAR_9
+ret,VAR_10

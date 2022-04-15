@@ -1,0 +1,13 @@
+alloc_surplus_huge_page,FUNC_0
+htlb_alloc_mask,FUNC_1
+huge_node,FUNC_2
+mpol_cond_put,FUNC_3
+alloc_buddy_huge_page_with_mpol,FUNC_4
+h,VAR_0
+vma,VAR_1
+addr,VAR_2
+page,VAR_3
+mpol,VAR_4
+gfp_mask,VAR_5
+nid,VAR_6
+nodemask,VAR_7

@@ -1,0 +1,12 @@
+destroy_srq_kernel,FUNC_0
+ib_umem_release,FUNC_1
+kfree,FUNC_2
+mlx5_core_destroy_srq,FUNC_3
+mlx5_ib_db_unmap_user,FUNC_4
+to_mdev,FUNC_5
+to_msrq,FUNC_6
+to_mucontext,FUNC_7
+mlx5_ib_destroy_srq,FUNC_8
+srq,VAR_0
+dev,VAR_1
+msrq,VAR_2

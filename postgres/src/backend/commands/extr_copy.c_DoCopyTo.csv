@@ -1,0 +1,15 @@
+CopyTo,FUNC_0
+DestRemote,VAR_0
+PG_CATCH,FUNC_1
+PG_END_TRY,FUNC_2
+PG_RE_THROW,FUNC_3
+PG_TRY,FUNC_4
+SendCopyBegin,FUNC_5
+SendCopyEnd,FUNC_6
+pq_endcopyout,FUNC_7
+whereToSendOutput,VAR_1
+DoCopyTo,FUNC_8
+cstate,VAR_2
+pipe,VAR_3
+fe_copy,VAR_4
+processed,VAR_5

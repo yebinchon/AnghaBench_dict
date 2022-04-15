@@ -1,0 +1,16 @@
+GENLMSG_DEFAULT_SIZE,VAR_0
+GFP_KERNEL,VAR_1
+HWSIM_CMD_NEW_RADIO,VAR_2
+append_radio_msg,FUNC_0
+genlmsg_end,FUNC_1
+genlmsg_new,FUNC_2
+genlmsg_put,FUNC_3
+hwsim_genl_family,VAR_3
+hwsim_mcast_config_msg,FUNC_4
+nlmsg_free,FUNC_5
+hwsim_mcast_new_radio,FUNC_6
+id,VAR_4
+info,VAR_5
+param,VAR_6
+mcast_skb,VAR_7
+data,VAR_8

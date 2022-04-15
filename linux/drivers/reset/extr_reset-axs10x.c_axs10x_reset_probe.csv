@@ -1,0 +1,17 @@
+AXS10X_MAX_RESETS,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+IORESOURCE_MEM,VAR_3
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+THIS_MODULE,VAR_4
+axs10x_reset_ops,VAR_5
+devm_ioremap_resource,FUNC_2
+devm_kzalloc,FUNC_3
+devm_reset_controller_register,FUNC_4
+platform_get_resource,FUNC_5
+spin_lock_init,FUNC_6
+axs10x_reset_probe,FUNC_7
+pdev,VAR_6
+rst,VAR_7
+mem,VAR_8

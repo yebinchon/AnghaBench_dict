@@ -1,0 +1,16 @@
+KMX61_ACC,VAR_0
+KMX61_MAG,VAR_1
+iio_trigger_get_drvdata,FUNC_0
+kmx61_get_data,FUNC_1
+kmx61_set_power_state,FUNC_2
+kmx61_setup_any_motion_interrupt,FUNC_3
+kmx61_setup_new_data_interrupt,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+kmx61_data_rdy_trigger_set_state,FUNC_7
+trig,VAR_2
+state,VAR_3
+ret,VAR_4
+device,VAR_5
+indio_dev,VAR_6
+data,VAR_7

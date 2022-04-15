@@ -1,0 +1,15 @@
+HZ,VAR_0
+IPOIB_PKEY_ASSIGNED,VAR_1
+IPOIB_PKEY_STOP,VAR_2
+clear_bit,FUNC_0
+ipoib_pkey_dev_check_presence,FUNC_1
+ipoib_workqueue,VAR_3
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+pkey_mutex,VAR_4
+queue_delayed_work,FUNC_5
+test_bit,FUNC_6
+ipoib_pkey_dev_delay_open,FUNC_7
+dev,VAR_5
+priv,VAR_6

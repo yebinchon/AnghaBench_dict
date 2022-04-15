@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_INT,VAR_2
+MAX_RX_RINGS,VAR_3
+MAX_TX_RINGS,VAR_4
+OID_AUTO,VAR_5
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_ADD_UINT,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+qls_syctl_link_status,VAR_6
+qls_syctl_mpi_dump,VAR_7
+qls_hw_add_sysctls,FUNC_5
+ha,VAR_8
+dev,VAR_9

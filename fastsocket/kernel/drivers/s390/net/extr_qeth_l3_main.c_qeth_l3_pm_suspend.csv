@@ -1,0 +1,13 @@
+CARD_STATE_UP,VAR_0
+CCWGROUP_OFFLINE,VAR_1
+QETH_DIAGS_TRAP_DISARM,VAR_2
+__qeth_l3_set_offline,FUNC_0
+dev_get_drvdata,FUNC_1
+netif_device_detach,FUNC_2
+qeth_hw_trap,FUNC_3
+qeth_set_allowed_threads,FUNC_4
+qeth_threads_running,FUNC_5
+wait_event,FUNC_6
+qeth_l3_pm_suspend,FUNC_7
+gdev,VAR_3
+card,VAR_4

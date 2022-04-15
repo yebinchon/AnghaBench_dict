@@ -1,0 +1,10 @@
+disable_irq_wake,FUNC_0
+get_service_data,FUNC_1
+pcie_clear_root_pme_status,FUNC_2
+pcie_pme_interrupt_enable,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+pcie_pme_resume,FUNC_6
+srv,VAR_0
+data,VAR_1
+port,VAR_2

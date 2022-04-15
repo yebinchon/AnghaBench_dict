@@ -1,0 +1,16 @@
+CPUCLOCK_PERTHREAD,FUNC_0
+arm_timer,FUNC_1
+bump_cpu_timer,FUNC_2
+clear_dead_task,FUNC_3
+cpu_clock_sample,FUNC_4
+cpu_timer_sample_group,FUNC_5
+put_task_struct,FUNC_6
+read_lock,FUNC_7
+read_unlock,FUNC_8
+tasklist_lock,VAR_0
+thread_group_empty,FUNC_9
+unlikely,FUNC_10
+posix_cpu_timer_schedule,FUNC_11
+timer,VAR_1
+p,VAR_2
+now,VAR_3

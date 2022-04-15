@@ -1,0 +1,14 @@
+Anum_chunk_constraint_chunk_id,VAR_0
+Anum_chunk_constraint_constraint_name,VAR_1
+Anum_chunk_constraint_dimension_slice_id,VAR_2
+Anum_chunk_constraint_hypertable_constraint_name,VAR_3
+AttrNumberGetAttrOffset,FUNC_0
+Int32GetDatum,FUNC_1
+NameGetDatum,FUNC_2
+Natts_chunk_constraint,VAR_4
+is_dimension_constraint,FUNC_3
+memset,FUNC_4
+chunk_constraint_fill_tuple_values,FUNC_5
+cc,VAR_5
+values,VAR_6
+nulls,VAR_7

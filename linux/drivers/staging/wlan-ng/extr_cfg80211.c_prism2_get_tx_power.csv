@@ -1,0 +1,15 @@
+DIDMIB_DOT11PHY_TXPOWERTABLE_CURRENTTXPOWERLEVEL,VAR_0
+DIDMSG_DOT11REQ_MIBGET,VAR_1
+EFAULT,VAR_2
+p80211req_dorequest,FUNC_0
+wiphy_priv,FUNC_1
+prism2_get_tx_power,FUNC_2
+wiphy,VAR_3
+wdev,VAR_4
+dbm,VAR_5
+priv,VAR_6
+wlandev,VAR_7
+msg,VAR_8
+mibitem,VAR_9
+result,VAR_10
+err,VAR_11

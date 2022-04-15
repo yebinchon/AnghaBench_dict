@@ -1,0 +1,15 @@
+CloseHandle,FUNC_0
+GetCurrentProcess,FUNC_1
+GetProcessHeap,FUNC_2
+GetTokenInformation,FUNC_3
+HeapAlloc,FUNC_4
+HeapFree,FUNC_5
+OpenProcessToken,FUNC_6
+TOKEN_QUERY,VAR_0
+TokenUser,VAR_1
+pConvertSidToStringSidA,FUNC_7
+get_user_sid,FUNC_8
+token,VAR_2
+size,VAR_3
+user,VAR_4
+usersid,VAR_5

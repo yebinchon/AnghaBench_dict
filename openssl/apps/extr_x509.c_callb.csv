@@ -1,0 +1,14 @@
+BIO_printf,FUNC_0
+X509_STORE_CTX_get_current_cert,FUNC_1
+X509_STORE_CTX_get_error,FUNC_2
+X509_STORE_CTX_get_error_depth,FUNC_3
+X509_V_ERR_DEPTH_ZERO_SELF_SIGNED_CERT,VAR_0
+X509_get_subject_name,FUNC_4
+X509_verify_cert_error_string,FUNC_5
+bio_err,VAR_1
+print_name,FUNC_6
+callb,FUNC_7
+ok,VAR_2
+ctx,VAR_3
+err,VAR_4
+err_cert,VAR_5

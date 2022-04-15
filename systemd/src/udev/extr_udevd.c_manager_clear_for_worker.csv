@@ -1,0 +1,12 @@
+EVENT_UNDEF,VAR_0
+READ_END,VAR_1
+assert,FUNC_0
+event_queue_cleanup,FUNC_1
+hashmap_free,FUNC_2
+safe_close,FUNC_3
+sd_device_monitor_unref,FUNC_4
+sd_event_source_unref,FUNC_5
+sd_event_unref,FUNC_6
+udev_ctrl_unref,FUNC_7
+manager_clear_for_worker,FUNC_8
+manager,VAR_2

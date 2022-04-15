@@ -1,0 +1,15 @@
+DMU_READ_PREFETCH,VAR_0
+FALSE,VAR_1
+FTAG,VAR_2
+VERIFY0,FUNC_0
+dmu_buf_hold_array_by_dnode,FUNC_1
+dmu_buf_rele_array,FUNC_2
+dmu_write_impl,FUNC_3
+dmu_write_by_dnode,FUNC_4
+dn,VAR_3
+offset,VAR_4
+size,VAR_5
+buf,VAR_6
+tx,VAR_7
+dbp,VAR_8
+numbufs,VAR_9

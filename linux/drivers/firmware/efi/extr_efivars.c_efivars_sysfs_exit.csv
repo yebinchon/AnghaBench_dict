@@ -1,0 +1,12 @@
+__efivar_entry_iter,FUNC_0
+efivar_sysfs_destroy,VAR_0
+efivar_sysfs_list,VAR_1
+efivars_del_var,VAR_2
+efivars_kset,VAR_3
+efivars_new_var,VAR_4
+kfree,FUNC_1
+kset_unregister,FUNC_2
+pr_err,FUNC_3
+sysfs_remove_bin_file,FUNC_4
+efivars_sysfs_exit,FUNC_5
+err,VAR_5

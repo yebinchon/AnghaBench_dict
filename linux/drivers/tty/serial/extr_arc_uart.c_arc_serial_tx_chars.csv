@@ -1,0 +1,16 @@
+TXEMPTY,VAR_0
+UART_GET_STATUS,FUNC_0
+UART_SET_DATA,FUNC_1
+UART_TX_IRQ_ENABLE,FUNC_2
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+cpu_relax,FUNC_3
+uart_circ_chars_pending,FUNC_4
+uart_circ_empty,FUNC_5
+uart_write_wakeup,FUNC_6
+unlikely,FUNC_7
+arc_serial_tx_chars,FUNC_8
+port,VAR_3
+xmit,VAR_4
+sent,VAR_5
+ch,VAR_6

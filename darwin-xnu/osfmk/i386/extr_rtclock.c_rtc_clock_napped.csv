@@ -1,0 +1,14 @@
+_pal_rtc_nanotime_store,FUNC_0
+_rtc_tsc_to_nanoseconds,FUNC_1
+assert,FUNC_2
+ml_get_interrupts_enabled,FUNC_3
+pal_rtc_nanotime_info,VAR_0
+rdtsc64,FUNC_4
+rtc_nanotime_set_commpage,FUNC_5
+rtc_clock_napped,FUNC_6
+base,VAR_1
+tsc_base,VAR_2
+rntp,VAR_3
+oldnsecs,VAR_4
+newnsecs,VAR_5
+tsc,VAR_6

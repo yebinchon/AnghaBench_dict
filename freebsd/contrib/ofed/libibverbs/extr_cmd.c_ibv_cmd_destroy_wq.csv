@@ -1,0 +1,14 @@
+DESTROY_WQ,VAR_0
+EINVAL,VAR_1
+IBV_INIT_CMD_RESP_EX,FUNC_0
+errno,VAR_2
+memset,FUNC_1
+pthread_cond_wait,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+write,FUNC_5
+ibv_cmd_destroy_wq,FUNC_6
+wq,VAR_3
+cmd,VAR_4
+resp,VAR_5
+ret,VAR_6

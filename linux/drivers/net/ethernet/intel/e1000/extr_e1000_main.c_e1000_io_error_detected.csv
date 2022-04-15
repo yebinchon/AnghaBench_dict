@@ -1,0 +1,16 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_NEED_RESET,VAR_1
+__E1000_DISABLED,VAR_2
+e1000_down,FUNC_0
+netdev_priv,FUNC_1
+netif_device_detach,FUNC_2
+netif_running,FUNC_3
+pci_channel_io_perm_failure,VAR_3
+pci_disable_device,FUNC_4
+pci_get_drvdata,FUNC_5
+test_and_set_bit,FUNC_6
+e1000_io_error_detected,FUNC_7
+pdev,VAR_4
+state,VAR_5
+netdev,VAR_6
+adapter,VAR_7

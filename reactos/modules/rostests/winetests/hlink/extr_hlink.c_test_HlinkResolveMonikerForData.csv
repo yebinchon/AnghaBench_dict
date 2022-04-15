@@ -1,0 +1,16 @@
+BindStatusCallback,VAR_0
+BindToStorage,VAR_1
+CHECK_CALLED,FUNC_0
+CreateBindCtx,FUNC_1
+GetDisplayName,VAR_2
+HlinkResolveMonikerForData,FUNC_2
+IBindCtx_Release,FUNC_3
+IsSystemMoniker,VAR_3
+Moniker,VAR_4
+SET_EXPECT,FUNC_4
+S_OK,VAR_5
+_bctx,VAR_6
+ok,FUNC_5
+test_HlinkResolveMonikerForData,FUNC_6
+bctx,VAR_7
+hres,VAR_8

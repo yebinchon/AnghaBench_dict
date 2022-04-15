@@ -1,0 +1,15 @@
+NFSIOS_EXTENDWRITE,VAR_0
+PAGE_CACHE_SHIFT,VAR_1
+i_size_read,FUNC_0
+i_size_write,FUNC_1
+nfs_inc_stats,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+nfs_grow_file,FUNC_5
+page,VAR_2
+offset,VAR_3
+count,VAR_4
+inode,VAR_5
+end,VAR_6
+i_size,VAR_7
+end_index,VAR_8

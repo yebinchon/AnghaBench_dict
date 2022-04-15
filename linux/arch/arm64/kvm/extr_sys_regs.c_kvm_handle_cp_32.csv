@@ -1,0 +1,15 @@
+emulate_cp,FUNC_0
+kvm_vcpu_get_hsr,FUNC_1
+kvm_vcpu_sys_get_rt,FUNC_2
+unhandled_cp_access,FUNC_3
+vcpu_get_reg,FUNC_4
+vcpu_set_reg,FUNC_5
+kvm_handle_cp_32,FUNC_6
+vcpu,VAR_0
+global,VAR_1
+nr_global,VAR_2
+target_specific,VAR_3
+nr_specific,VAR_4
+params,VAR_5
+hsr,VAR_6
+Rt,VAR_7

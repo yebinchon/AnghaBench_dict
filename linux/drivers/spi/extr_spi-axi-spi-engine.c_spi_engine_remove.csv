@@ -1,0 +1,17 @@
+SPI_ENGINE_REG_INT_ENABLE,VAR_0
+SPI_ENGINE_REG_INT_PENDING,VAR_1
+SPI_ENGINE_REG_RESET,VAR_2
+clk_disable_unprepare,FUNC_0
+free_irq,FUNC_1
+platform_get_drvdata,FUNC_2
+platform_get_irq,FUNC_3
+spi_master_get,FUNC_4
+spi_master_get_devdata,FUNC_5
+spi_master_put,FUNC_6
+spi_unregister_master,FUNC_7
+writel_relaxed,FUNC_8
+spi_engine_remove,FUNC_9
+pdev,VAR_3
+master,VAR_4
+spi_engine,VAR_5
+irq,VAR_6

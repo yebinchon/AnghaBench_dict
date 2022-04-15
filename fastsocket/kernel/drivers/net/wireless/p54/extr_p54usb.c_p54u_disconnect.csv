@@ -1,0 +1,11 @@
+interface_to_usbdev,FUNC_0
+p54_free_common,FUNC_1
+p54_unregister_common,FUNC_2
+release_firmware,FUNC_3
+usb_get_intfdata,FUNC_4
+usb_put_dev,FUNC_5
+wait_for_completion,FUNC_6
+p54u_disconnect,FUNC_7
+intf,VAR_0
+dev,VAR_1
+priv,VAR_2

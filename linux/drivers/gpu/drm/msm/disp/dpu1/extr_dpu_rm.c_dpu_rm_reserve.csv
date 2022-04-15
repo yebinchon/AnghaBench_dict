@@ -1,0 +1,17 @@
+DPU_DEBUG,FUNC_0
+DPU_ERROR,FUNC_1
+DRM_DEBUG_KMS,FUNC_2
+_dpu_rm_make_reservation,FUNC_3
+_dpu_rm_populate_requirements,FUNC_4
+_dpu_rm_release_reservation,FUNC_5
+drm_atomic_crtc_needs_modeset,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+dpu_rm_reserve,FUNC_9
+rm,VAR_0
+enc,VAR_1
+crtc_state,VAR_2
+topology,VAR_3
+test_only,VAR_4
+reqs,VAR_5
+ret,VAR_6

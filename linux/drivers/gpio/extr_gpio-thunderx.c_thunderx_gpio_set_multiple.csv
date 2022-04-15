@@ -1,0 +1,13 @@
+GPIO_2ND_BANK,VAR_0
+GPIO_TX_CLR,VAR_1
+GPIO_TX_SET,VAR_2
+gpiochip_get_data,FUNC_0
+writeq,FUNC_1
+thunderx_gpio_set_multiple,FUNC_2
+chip,VAR_3
+mask,VAR_4
+bits,VAR_5
+bank,VAR_6
+set_bits,VAR_7
+clear_bits,VAR_8
+txgpio,VAR_9

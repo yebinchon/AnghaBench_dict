@@ -1,0 +1,12 @@
+INT_24XX_DSS_IRQ,VAR_0
+OMAPFB_UPDATE_DISABLED,VAR_1
+cleanup_fbmem,FUNC_0
+dispc,VAR_2
+free_irq,FUNC_1
+free_palette_ram,FUNC_2
+iounmap,FUNC_3
+omap_dispc_enable_plane,FUNC_4
+omap_dispc_set_update_mode,FUNC_5
+put_dss_clocks,FUNC_6
+omap_dispc_cleanup,FUNC_7
+i,VAR_3

@@ -1,0 +1,11 @@
+JZ4725B_CODEC_REG_AICR,VAR_0
+JZ4725B_CODEC_REG_CCR1,VAR_1
+REG_AICR_CONFIG1_OFFSET,VAR_2
+REG_CCR1_CONFIG4_OFFSET,VAR_3
+clk_prepare_enable,FUNC_0
+regmap_write,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+jz4725b_codec_dev_probe,FUNC_3
+component,VAR_4
+icdc,VAR_5
+map,VAR_6

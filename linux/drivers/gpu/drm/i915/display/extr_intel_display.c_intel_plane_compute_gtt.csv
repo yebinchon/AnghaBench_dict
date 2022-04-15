@@ -1,0 +1,15 @@
+DRM_MODE_ROTATE_270,VAR_0
+drm_rect_rotate,FUNC_0
+drm_rotation_90_or_270,FUNC_1
+intel_fb_pitch,FUNC_2
+intel_fill_fb_ggtt_view,FUNC_3
+intel_plane_check_stride,FUNC_4
+intel_plane_needs_remap,FUNC_5
+intel_plane_remap_gtt,FUNC_6
+to_intel_framebuffer,FUNC_7
+intel_plane_compute_gtt,FUNC_8
+plane_state,VAR_1
+fb,VAR_2
+rotation,VAR_3
+i,VAR_4
+num_planes,VAR_5

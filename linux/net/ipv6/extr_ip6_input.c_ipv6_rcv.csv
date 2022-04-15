@@ -1,0 +1,13 @@
+NET_RX_DROP,VAR_0
+NFPROTO_IPV6,VAR_1
+NF_HOOK,FUNC_0
+NF_INET_PRE_ROUTING,VAR_2
+dev_net,FUNC_1
+ip6_rcv_core,FUNC_2
+ip6_rcv_finish,VAR_3
+ipv6_rcv,FUNC_3
+skb,VAR_4
+dev,VAR_5
+pt,VAR_6
+orig_dev,VAR_7
+net,VAR_8

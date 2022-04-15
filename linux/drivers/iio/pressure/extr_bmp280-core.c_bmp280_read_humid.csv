@@ -1,0 +1,17 @@
+BMP280_HUMIDITY_SKIPPED,VAR_0
+BMP280_REG_HUMIDITY_MSB,VAR_1
+EIO,VAR_2
+IIO_VAL_INT,VAR_3
+be16_to_cpu,FUNC_0
+bmp280_compensate_humidity,FUNC_1
+bmp280_read_temp,FUNC_2
+dev_err,FUNC_3
+regmap_bulk_read,FUNC_4
+bmp280_read_humid,FUNC_5
+data,VAR_4
+val,VAR_5
+val2,VAR_6
+ret,VAR_7
+tmp,VAR_8
+adc_humidity,VAR_9
+comp_humidity,VAR_10

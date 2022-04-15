@@ -1,0 +1,7 @@
+X86_CLEAR_PKRU,VAR_0
+memset,FUNC_0
+sysarch,FUNC_1
+x86_pkru_unprotect_range,FUNC_2
+addr,VAR_1
+len,VAR_2
+a64pkru,VAR_3

@@ -1,0 +1,12 @@
+KMEMCHECK_READ,VAR_0
+KMEMCHECK_WRITE,VAR_1
+X86_VM_MASK,VAR_2
+__KERNEL_CS,VAR_3
+kmemcheck_access,FUNC_0
+kmemcheck_pte_lookup,FUNC_1
+kmemcheck_show,FUNC_2
+kmemcheck_fault,FUNC_3
+regs,VAR_4
+address,VAR_5
+error_code,VAR_6
+pte,VAR_7

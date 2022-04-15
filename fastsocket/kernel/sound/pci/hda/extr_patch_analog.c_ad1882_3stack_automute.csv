@@ -1,0 +1,7 @@
+AC_VERB_SET_PIN_WIDGET_CONTROL,VAR_0
+PIN_OUT,VAR_1
+snd_hda_codec_write,FUNC_0
+snd_hda_jack_detect,FUNC_1
+ad1882_3stack_automute,FUNC_2
+codec,VAR_2
+mute,VAR_3

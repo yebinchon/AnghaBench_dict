@@ -1,0 +1,14 @@
+CAP_SYS_ADMIN,VAR_0
+DASD_STATE_BASIC,VAR_1
+EACCES,VAR_2
+ENODEV,VAR_3
+capable,FUNC_0
+dasd_device_from_gendisk,FUNC_1
+dasd_put_device,FUNC_2
+dasd_set_target_state,FUNC_3
+i_size_write,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+dasd_ioctl_disable,FUNC_7
+bdev,VAR_4
+base,VAR_5

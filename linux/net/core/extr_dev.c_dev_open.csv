@@ -1,0 +1,12 @@
+GFP_KERNEL,VAR_0
+IFF_RUNNING,VAR_1
+IFF_UP,VAR_2
+NETDEV_UP,VAR_3
+RTM_NEWLINK,VAR_4
+__dev_open,FUNC_0
+call_netdevice_notifiers,FUNC_1
+rtmsg_ifinfo,FUNC_2
+dev_open,FUNC_3
+dev,VAR_5
+extack,VAR_6
+ret,VAR_7

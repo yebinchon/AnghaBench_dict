@@ -1,0 +1,13 @@
+BotSameTeam,FUNC_0
+CS_PLAYERS,VAR_0
+MAX_CLIENTS,VAR_1
+MAX_INFO_STRING,VAR_2
+strlen,FUNC_1
+trap_Cvar_VariableIntegerValue,FUNC_2
+trap_GetConfigstring,FUNC_3
+NumPlayersOnSameTeam,FUNC_4
+bs,VAR_3
+i,VAR_4
+num,VAR_5
+buf,VAR_6
+maxclients,VAR_7

@@ -1,0 +1,15 @@
+CTRL_INTA_EN,VAR_0
+DT_MONTH_ALM1,VAR_1
+DT_SECOND_ALM1,VAR_2
+INT_A1IE,VAR_3
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+regmap_bulk_read,FUNC_2
+regmap_read,FUNC_3
+pcf85363_rtc_read_alarm,FUNC_4
+dev,VAR_4
+alrm,VAR_5
+pcf85363,VAR_6
+buf,VAR_7
+val,VAR_8
+ret,VAR_9

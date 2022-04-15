@@ -1,0 +1,16 @@
+VB2_BUF_STATE_DONE,VAR_0
+dprintk,FUNC_0
+pr_err,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+v4l2_m2m_buf_done,FUNC_4
+v4l2_m2m_dst_buf_remove,FUNC_5
+v4l2_m2m_get_curr_priv,FUNC_6
+v4l2_m2m_job_finish,FUNC_7
+v4l2_m2m_src_buf_remove,FUNC_8
+pxp_job_finish,FUNC_9
+dev,VAR_1
+curr_ctx,VAR_2
+src_vb,VAR_3
+dst_vb,VAR_4
+flags,VAR_5

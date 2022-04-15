@@ -1,0 +1,13 @@
+BIT,FUNC_0
+OCELOT_GPIO_OUT_CLR,VAR_0
+OCELOT_GPIO_OUT_SET,VAR_1
+REG,FUNC_1
+gpiochip_get_data,FUNC_2
+pinctrl_gpio_direction_output,FUNC_3
+regmap_write,FUNC_4
+ocelot_gpio_direction_output,FUNC_5
+chip,VAR_2
+offset,VAR_3
+value,VAR_4
+info,VAR_5
+pin,VAR_6

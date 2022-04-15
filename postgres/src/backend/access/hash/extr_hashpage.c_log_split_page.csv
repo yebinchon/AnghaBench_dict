@@ -1,0 +1,14 @@
+BufferGetPage,FUNC_0
+PageSetLSN,FUNC_1
+REGBUF_FORCE_IMAGE,VAR_0
+REGBUF_STANDARD,VAR_1
+RM_HASH_ID,VAR_2
+RelationNeedsWAL,FUNC_2
+XLOG_HASH_SPLIT_PAGE,VAR_3
+XLogBeginInsert,FUNC_3
+XLogInsert,FUNC_4
+XLogRegisterBuffer,FUNC_5
+log_split_page,FUNC_6
+rel,VAR_4
+buf,VAR_5
+recptr,VAR_6

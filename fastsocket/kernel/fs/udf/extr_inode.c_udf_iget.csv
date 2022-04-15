@@ -1,0 +1,17 @@
+I_NEW,VAR_0
+UDF_I,FUNC_0
+UDF_SB,FUNC_1
+__udf_read_inode,FUNC_2
+iget_locked,FUNC_3
+iput,FUNC_4
+is_bad_inode,FUNC_5
+make_bad_inode,FUNC_6
+memcpy,FUNC_7
+udf_debug,FUNC_8
+udf_get_lb_pblock,FUNC_9
+unlock_new_inode,FUNC_10
+udf_iget,FUNC_11
+sb,VAR_1
+ino,VAR_2
+block,VAR_3
+inode,VAR_4

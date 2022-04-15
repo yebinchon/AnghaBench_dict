@@ -1,0 +1,10 @@
+VNIC_RQ_RETURN_RATE,VAR_0
+iowrite32,FUNC_0
+wmb,FUNC_1
+vnic_rq_post,FUNC_2
+rq,VAR_1
+os_buf,VAR_2
+os_buf_index,VAR_3
+dma_addr,VAR_4
+len,VAR_5
+buf,VAR_6

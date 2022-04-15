@@ -1,0 +1,15 @@
+ETIMEDOUT,VAR_0
+NPCM_PSPI_TIMEOUT_MS,VAR_1
+msecs_to_jiffies,FUNC_0
+npcm_pspi_disable,FUNC_1
+npcm_pspi_enable,FUNC_2
+npcm_pspi_setup_transfer,FUNC_3
+reinit_completion,FUNC_4
+spi_master_get_devdata,FUNC_5
+wait_for_completion_timeout,FUNC_6
+npcm_pspi_transfer_one,FUNC_7
+master,VAR_2
+spi,VAR_3
+t,VAR_4
+priv,VAR_5
+status,VAR_6

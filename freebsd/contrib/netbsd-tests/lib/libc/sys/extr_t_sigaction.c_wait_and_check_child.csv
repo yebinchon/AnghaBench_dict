@@ -1,0 +1,10 @@
+ATF_CHECK_EQ,FUNC_0
+EXIT_SUCCESS,VAR_0
+WEXITSTATUS,FUNC_1
+WIFEXITED,FUNC_2
+atf_tc_fail,FUNC_3
+waitpid,FUNC_4
+wait_and_check_child,FUNC_5
+pid,VAR_1
+fail_message,VAR_2
+status,VAR_3

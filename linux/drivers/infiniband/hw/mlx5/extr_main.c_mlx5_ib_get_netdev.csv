@@ -1,0 +1,13 @@
+dev_hold,FUNC_0
+mlx5_ib_get_native_port_mdev,FUNC_1
+mlx5_ib_put_native_port_mdev,FUNC_2
+mlx5_lag_get_roce_netdev,FUNC_3
+read_lock,FUNC_4
+read_unlock,FUNC_5
+to_mdev,FUNC_6
+mlx5_ib_get_netdev,FUNC_7
+device,VAR_0
+port_num,VAR_1
+ibdev,VAR_2
+ndev,VAR_3
+mdev,VAR_4

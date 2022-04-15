@@ -1,0 +1,16 @@
+PROC_VMSPACE_LOCK,FUNC_0
+PROC_VMSPACE_UNLOCK,FUNC_1
+atomic_add_int,FUNC_2
+atomic_fcmpset_int,FUNC_3
+pmap_activate,FUNC_4
+pmap_remove_pages,FUNC_5
+racct_enable,VAR_0
+vmspace0,VAR_1
+vmspace_container_reset,FUNC_6
+vmspace_dofree,FUNC_7
+vmspace_pmap,FUNC_8
+vmspace_exit,FUNC_9
+td,VAR_2
+refcnt,VAR_3
+vm,VAR_4
+p,VAR_5

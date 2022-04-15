@@ -1,0 +1,16 @@
+GFS2_I,FUNC_0
+I_DIRTY,VAR_0
+I_DIRTY_PAGES,VAR_1
+I_DIRTY_SYNC,VAR_2
+filemap_write_and_wait,FUNC_1
+gfs2_ail_flush,FUNC_2
+gfs2_is_jdata,FUNC_3
+sync_inode_metadata,FUNC_4
+gfs2_fsync,FUNC_5
+file,VAR_3
+dentry,VAR_4
+datasync,VAR_5
+inode,VAR_6
+sync_state,VAR_7
+ip,VAR_8
+ret,VAR_9

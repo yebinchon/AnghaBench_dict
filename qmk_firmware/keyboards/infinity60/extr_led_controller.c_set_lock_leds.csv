@@ -1,0 +1,14 @@
+IS31_FUNCTIONREG,VAR_0
+IS31_REG_SHUTDOWN,VAR_1
+IS31_REG_SHUTDOWN_OFF,VAR_2
+IS31_REG_SHUTDOWN_ON,VAR_3
+chThdSleepMilliseconds,FUNC_0
+is31_read_register,FUNC_1
+is31_write_register,FUNC_2
+set_led_bit,FUNC_3
+set_lock_leds,FUNC_4
+led_addr,VAR_4
+led_action,VAR_5
+page,VAR_6
+temp,VAR_7
+led_control_word,VAR_8

@@ -1,0 +1,15 @@
+CP_CRC_RECOVERY_FLAG,VAR_0
+F2FS_CKPT,FUNC_0
+F2FS_NODE,FUNC_1
+F2FS_P_SB,FUNC_2
+__is_set_ckpt_flags,FUNC_3
+cpu_to_le32,FUNC_4
+cpu_to_le64,FUNC_5
+cur_cp_crc,FUNC_6
+cur_cp_version,FUNC_7
+fill_node_footer_blkaddr,FUNC_8
+page,VAR_1
+blkaddr,VAR_2
+ckpt,VAR_3
+rn,VAR_4
+cp_ver,VAR_5

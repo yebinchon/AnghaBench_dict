@@ -1,0 +1,11 @@
+IO_UNIT_IO_START,VAR_0
+REQ_FUA,VAR_1
+REQ_PREFLUSH,VAR_2
+__r5l_set_io_unit_state,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+submit_bio,FUNC_3
+r5l_do_submit_io,FUNC_4
+log,VAR_3
+io,VAR_4
+flags,VAR_5

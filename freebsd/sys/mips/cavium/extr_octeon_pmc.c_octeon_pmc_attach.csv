@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+INTR_TYPE_MISC,VAR_1
+OCTEON_PMC_IRQ,VAR_2
+RF_ACTIVE,VAR_3
+SYS_RES_IRQ,VAR_4
+bus_alloc_resource,FUNC_0
+bus_setup_intr,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+octeon_pmc_intr,VAR_5
+octeon_pmc_attach,FUNC_4
+dev,VAR_6
+sc,VAR_7
+error,VAR_8
+rid,VAR_9

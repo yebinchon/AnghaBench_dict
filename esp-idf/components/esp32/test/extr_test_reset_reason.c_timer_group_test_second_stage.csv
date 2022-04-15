@@ -1,0 +1,8 @@
+SW_CPU_RESET,VAR_0
+TEST_ASSERT_EQUAL,FUNC_0
+TIMERG0,VAR_1
+printf,FUNC_1
+rtc_get_reset_reason,FUNC_2
+timer_group_test_init,FUNC_3
+timer_group_test_second_stage,FUNC_4
+rst_res,VAR_2

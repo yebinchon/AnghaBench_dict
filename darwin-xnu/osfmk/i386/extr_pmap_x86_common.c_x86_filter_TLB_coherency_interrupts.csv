@@ -1,0 +1,10 @@
+CPU_CR3_MARK_ACTIVE,FUNC_0
+CPU_CR3_MARK_INACTIVE,FUNC_1
+assert,FUNC_2
+current_cpu_datap,FUNC_3
+get_preemption_level,FUNC_4
+mfence,FUNC_5
+ml_get_interrupts_enabled,FUNC_6
+process_pmap_updates,FUNC_7
+x86_filter_TLB_coherency_interrupts,FUNC_8
+dofilter,VAR_0

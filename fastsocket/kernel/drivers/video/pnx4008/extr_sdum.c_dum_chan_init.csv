@@ -1,0 +1,14 @@
+BYTES_PER_CMDSTRING,VAR_0
+CMDSTRING_BASEADDR,VAR_1
+DUM_COM_BASE,VAR_2
+MAX_DUM_CHANNELS,VAR_3
+NR_OF_CMDSTRINGS,VAR_4
+clear_channel,FUNC_0
+ioremap_nocache,FUNC_1
+iounmap,FUNC_2
+iowrite32,FUNC_3
+dum_chan_init,FUNC_4
+i,VAR_5
+ch,VAR_6
+cmdptrs,VAR_7
+cmdstrings,VAR_8

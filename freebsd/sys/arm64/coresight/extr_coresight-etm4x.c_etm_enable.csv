@@ -1,0 +1,15 @@
+TRCPRGCTLR,VAR_0
+TRCPRGCTLR_EN,VAR_1
+TRCSTATR,VAR_2
+TRCSTATR_IDLE,VAR_3
+bus_read_4,FUNC_0
+bus_write_4,FUNC_1
+device_get_softc,FUNC_2
+etm_prepare,FUNC_3
+panic,FUNC_4
+etm_enable,FUNC_5
+dev,VAR_4
+endp,VAR_5
+event,VAR_6
+sc,VAR_7
+reg,VAR_8

@@ -1,0 +1,14 @@
+CloseMetaFile,FUNC_0
+CreateMetaFileA,FUNC_1
+DeleteMetaFile,FUNC_2
+GetDC,FUNC_3
+GetDeviceCaps,FUNC_4
+RASTERCAPS,VAR_0
+RC_PALETTE,VAR_1
+ReleaseDC,FUNC_5
+check_system_palette_entries,FUNC_6
+skip,FUNC_7
+test_system_palette_entries,FUNC_8
+hdc,VAR_2
+metafile_dc,VAR_3
+metafile,VAR_4

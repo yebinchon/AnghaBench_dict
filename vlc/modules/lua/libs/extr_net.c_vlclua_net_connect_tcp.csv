@@ -1,0 +1,12 @@
+luaL_checkinteger,FUNC_0
+luaL_checkstring,FUNC_1
+lua_pushinteger,FUNC_2
+net_ConnectTCP,FUNC_3
+vlclua_fd_map_safe,FUNC_4
+vlclua_get_this,FUNC_5
+vlclua_net_connect_tcp,FUNC_6
+L,VAR_0
+p_this,VAR_1
+psz_host,VAR_2
+i_port,VAR_3
+i_fd,VAR_4

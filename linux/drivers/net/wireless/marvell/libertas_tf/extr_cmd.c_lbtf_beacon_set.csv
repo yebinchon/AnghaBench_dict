@@ -1,0 +1,13 @@
+CMD_802_11_BEACON_SET,VAR_0
+LBTF_DEB_CMD,VAR_1
+MRVL_MAX_BCN_SIZE,VAR_2
+cpu_to_le16,FUNC_0
+lbtf_cmd_async,FUNC_1
+lbtf_deb_enter,FUNC_2
+lbtf_deb_leave_args,FUNC_3
+memcpy,FUNC_4
+lbtf_beacon_set,FUNC_5
+priv,VAR_3
+beacon,VAR_4
+cmd,VAR_5
+size,VAR_6

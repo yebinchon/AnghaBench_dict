@@ -1,0 +1,9 @@
+FIMC_IO_LCDFIFO,VAR_0
+FIMC_REG_CISCCTRL,VAR_1
+FIMC_REG_CISCCTRL_LCDPATHEN_FIFO,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+fimc_hw_set_output_path,FUNC_2
+ctx,VAR_3
+dev,VAR_4
+cfg,VAR_5

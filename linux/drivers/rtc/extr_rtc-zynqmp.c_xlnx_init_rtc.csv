@@ -1,0 +1,9 @@
+RTC_BATT_EN,VAR_0
+RTC_CALIB_MASK,VAR_1
+RTC_CALIB_WR,VAR_2
+RTC_CTRL,VAR_3
+readl,FUNC_0
+writel,FUNC_1
+xlnx_init_rtc,FUNC_2
+xrtcdev,VAR_4
+rtc_ctrl,VAR_5

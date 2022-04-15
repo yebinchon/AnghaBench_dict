@@ -1,0 +1,12 @@
+CEC_CAP_MONITOR_ALL,VAR_0
+DP_CEC_SNOOPING_ENABLE,VAR_1
+DP_CEC_TUNNELING_CONTROL,VAR_2
+cec_get_drvdata,FUNC_0
+drm_dp_dpcd_readb,FUNC_1
+drm_dp_dpcd_writeb,FUNC_2
+drm_dp_cec_adap_monitor_all_enable,FUNC_3
+adap,VAR_3
+enable,VAR_4
+aux,VAR_5
+err,VAR_6
+val,VAR_7

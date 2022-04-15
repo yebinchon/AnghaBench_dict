@@ -1,0 +1,17 @@
+CT_LOG_ENTRY_TYPE_X509,VAR_0
+EXECUTE_CT_TEST,FUNC_0
+SCT_VERSION_V1,VAR_1
+SCT_new_from_base64,FUNC_1
+SETUP_CT_TEST_FIXTURE,FUNC_2
+TEST_ptr,FUNC_3
+ct_dir,VAR_2
+fixture,VAR_3
+result,VAR_4
+sk_SCT_new_null,FUNC_4
+sk_SCT_push,FUNC_5
+test_encode_tls_sct,FUNC_6
+log_id,VAR_5
+timestamp,VAR_6
+extensions,VAR_7
+signature,VAR_8
+sct,VAR_9

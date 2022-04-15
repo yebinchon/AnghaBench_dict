@@ -1,0 +1,11 @@
+Q8_FW_IMAGE_ADDR,VAR_0
+READ_REG32,FUNC_0
+ql83xx_firmware,VAR_1
+ql83xx_firmware_len,VAR_2
+qla_load_offchip_mem,FUNC_1
+qla_load_fwimage,FUNC_2
+ha,VAR_3
+addr,VAR_4
+data32,VAR_5
+len32,VAR_6
+ret,VAR_7

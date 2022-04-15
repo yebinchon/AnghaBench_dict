@@ -1,0 +1,9 @@
+SPU_PRIVCNT_LOAD_REQUEST_ENABLE_MASK,VAR_0
+SPU_RUNCNTL_ISOLATE,VAR_1
+out_be32,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+spu_hw_privcntl_write,FUNC_3
+spu_hw_runcntl_write,FUNC_4
+ctx,VAR_2
+val,VAR_3

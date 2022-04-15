@@ -1,0 +1,10 @@
+USB_CTRL_GET_TIMEOUT,VAR_0
+USB_DIR_IN,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_REQ_GET_STATUS,VAR_3
+USB_TYPE_CLASS,VAR_4
+usb_control_msg,FUNC_0
+usb_rcvctrlpipe,FUNC_1
+__wa_get_status,FUNC_2
+wa,VAR_5
+result,VAR_6

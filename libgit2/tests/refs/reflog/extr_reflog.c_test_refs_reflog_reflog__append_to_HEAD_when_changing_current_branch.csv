@@ -1,0 +1,15 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+git_oid_fromstr,FUNC_2
+git_reference_create,FUNC_3
+git_reference_free,FUNC_4
+git_reflog_entrycount,FUNC_5
+git_reflog_free,FUNC_6
+git_reflog_read,FUNC_7
+test_refs_reflog_reflog__append_to_HEAD_when_changing_current_branch,FUNC_8
+nlogs,VAR_1
+nlogs_after,VAR_2
+ref,VAR_3
+log,VAR_4
+id,VAR_5

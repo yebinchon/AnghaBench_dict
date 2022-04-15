@@ -1,0 +1,15 @@
+ib_umem_release,FUNC_0
+kfree,FUNC_1
+kvfree,FUNC_2
+mlx4_buf_free,FUNC_3
+mlx4_db_free,FUNC_4
+mlx4_ib_db_unmap_user,FUNC_5
+mlx4_mtt_cleanup,FUNC_6
+mlx4_srq_free,FUNC_7
+to_mdev,FUNC_8
+to_msrq,FUNC_9
+to_mucontext,FUNC_10
+mlx4_ib_destroy_srq,FUNC_11
+srq,VAR_0
+dev,VAR_1
+msrq,VAR_2

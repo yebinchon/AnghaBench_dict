@@ -1,0 +1,11 @@
+FALSE,VAR_0
+MNTOPT_ATIME,VAR_1
+MNTOPT_NOATIME,VAR_2
+MNT_NOATIME,VAR_3
+TRUE,VAR_4
+vfs_clearmntopt,FUNC_0
+vfs_setmntopt,FUNC_1
+atime_changed_cb,FUNC_2
+arg,VAR_5
+newval,VAR_6
+zfsvfs,VAR_7

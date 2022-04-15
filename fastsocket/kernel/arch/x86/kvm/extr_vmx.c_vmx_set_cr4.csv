@@ -1,0 +1,12 @@
+CR4_READ_SHADOW,VAR_0
+GUEST_CR4,VAR_1
+KVM_PMODE_VM_CR4_ALWAYS_ON,VAR_2
+KVM_RMODE_VM_CR4_ALWAYS_ON,VAR_3
+enable_ept,VAR_4
+ept_update_paging_mode_cr4,FUNC_0
+to_vmx,FUNC_1
+vmcs_writel,FUNC_2
+vmx_set_cr4,FUNC_3
+vcpu,VAR_5
+cr4,VAR_6
+hw_cr4,VAR_7

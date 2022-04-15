@@ -1,0 +1,16 @@
+L2CAP_MC_UNCONFIRMED,VAR_0
+L2CAP_MOVE_ROLE_INITIATOR,VAR_1
+L2CAP_MOVE_ROLE_RESPONDER,VAR_2
+L2CAP_MR_COLLISION,VAR_3
+__clear_chan_timer,FUNC_0
+l2cap_chan_unlock,FUNC_1
+l2cap_get_chan_by_ident,FUNC_2
+l2cap_move_done,FUNC_3
+l2cap_send_move_chan_cfm,FUNC_4
+l2cap_send_move_chan_cfm_icid,FUNC_5
+l2cap_move_fail,FUNC_6
+conn,VAR_4
+ident,VAR_5
+icid,VAR_6
+result,VAR_7
+chan,VAR_8

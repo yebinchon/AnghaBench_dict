@@ -1,0 +1,7 @@
+SM_FLASH_CMD_READ_STATUS,VAR_0
+SM_FLASH_STATUS_DONE,VAR_1
+inb,FUNC_0
+outb,FUNC_1
+wait_operation_complete_sm,FUNC_2
+bank,VAR_2
+i,VAR_3

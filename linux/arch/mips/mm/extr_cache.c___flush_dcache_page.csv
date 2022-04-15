@@ -1,0 +1,12 @@
+PageHighMem,FUNC_0
+SetPageDcacheDirty,FUNC_1
+__kunmap_atomic,FUNC_2
+flush_data_cache_page,FUNC_3
+kmap_atomic,FUNC_4
+mapping_mapped,FUNC_5
+page_address,FUNC_6
+page_mapping_file,FUNC_7
+__flush_dcache_page,FUNC_8
+page,VAR_0
+mapping,VAR_1
+addr,VAR_2

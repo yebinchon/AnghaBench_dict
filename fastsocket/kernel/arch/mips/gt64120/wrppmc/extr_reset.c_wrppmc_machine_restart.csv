@@ -1,0 +1,11 @@
+CONF_CM_CMASK,VAR_0
+CONF_CM_UNCACHED,VAR_1
+ST0_BEV,VAR_2
+ST0_ERL,VAR_3
+change_c0_config,FUNC_0
+flush_cache_all,FUNC_1
+local_irq_disable,FUNC_2
+set_c0_status,FUNC_3
+write_c0_wired,FUNC_4
+wrppmc_machine_restart,FUNC_5
+command,VAR_4

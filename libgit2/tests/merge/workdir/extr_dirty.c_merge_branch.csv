@@ -1,0 +1,16 @@
+GIT_CHECKOUT_OPTIONS_INIT,VAR_0
+GIT_CHECKOUT_SAFE,VAR_1
+GIT_MERGE_OPTIONS_INIT,VAR_2
+MERGE_BRANCH_OID,VAR_3
+cl_git_pass,FUNC_0
+git_annotated_commit_free,FUNC_1
+git_annotated_commit_lookup,FUNC_2
+git_merge,FUNC_3
+git_oid_fromstr,FUNC_4
+repo,VAR_4
+merge_branch,FUNC_5
+their_oids,VAR_5
+their_head,VAR_6
+merge_opts,VAR_7
+checkout_opts,VAR_8
+error,VAR_9

@@ -1,0 +1,17 @@
+PRCMU_DPI_CLOCK_SETTING,VAR_0
+PRCMU_DSI_CLOCK_SETTING,VAR_1
+PRCMU_DSI_LP_CLOCK_SETTING,VAR_2
+PRCM_HDMICLK_MGT,VAR_3
+PRCM_LCDCLK_MGT,VAR_4
+PRCM_SEM,VAR_5
+PRCM_SEM_PRCM_SEM,VAR_6
+PRCM_TVCLK_MGT,VAR_7
+clk_mgt_lock,VAR_8
+cpu_relax,FUNC_0
+prcmu_base,VAR_9
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+db8500_prcmu_set_display_clocks,FUNC_5
+flags,VAR_10

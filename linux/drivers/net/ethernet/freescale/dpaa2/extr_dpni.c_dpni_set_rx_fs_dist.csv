@@ -1,0 +1,14 @@
+DPNI_CMDID_SET_RX_FS_DIST,VAR_0
+RX_FS_DIST_ENABLE,VAR_1
+cpu_to_le16,FUNC_0
+cpu_to_le64,FUNC_1
+dpni_set_field,FUNC_2
+mc_encode_cmd_header,FUNC_3
+mc_send_command,FUNC_4
+dpni_set_rx_fs_dist,FUNC_5
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+cfg,VAR_5
+cmd_params,VAR_6
+cmd,VAR_7

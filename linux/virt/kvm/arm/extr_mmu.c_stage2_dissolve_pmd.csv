@@ -1,0 +1,9 @@
+kvm_tlb_flush_vmid_ipa,FUNC_0
+pmd_clear,FUNC_1
+pmd_thp_or_huge,FUNC_2
+put_page,FUNC_3
+virt_to_page,FUNC_4
+stage2_dissolve_pmd,FUNC_5
+kvm,VAR_0
+addr,VAR_1
+pmd,VAR_2

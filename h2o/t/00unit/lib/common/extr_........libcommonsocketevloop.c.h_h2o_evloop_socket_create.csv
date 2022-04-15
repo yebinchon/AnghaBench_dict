@@ -1,0 +1,8 @@
+F_SETFL,VAR_0
+O_NONBLOCK,VAR_1
+create_socket_set_nodelay,FUNC_0
+fcntl,FUNC_1
+h2o_evloop_socket_create,FUNC_2
+loop,VAR_2
+fd,VAR_3
+flags,VAR_4

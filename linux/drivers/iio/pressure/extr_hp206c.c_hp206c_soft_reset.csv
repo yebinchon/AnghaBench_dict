@@ -1,0 +1,12 @@
+HP206C_CMD_SOFT_RST,VAR_0
+dev_err,FUNC_0
+hp206c_set_compensation,FUNC_1
+hp206c_wait_dev_rdy,FUNC_2
+i2c_smbus_write_byte,FUNC_3
+iio_priv,FUNC_4
+usleep_range,FUNC_5
+hp206c_soft_reset,FUNC_6
+indio_dev,VAR_1
+ret,VAR_2
+data,VAR_3
+client,VAR_4

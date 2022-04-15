@@ -1,0 +1,11 @@
+DEINITIALIZE_FW,VAR_0
+FIRMWARE_INITIALIZED_FLAG,VAR_1
+RCFW_CMD_PREP,FUNC_0
+bnxt_qplib_rcfw_send_message,FUNC_1
+clear_bit,FUNC_2
+bnxt_qplib_deinit_rcfw,FUNC_3
+rcfw,VAR_2
+req,VAR_3
+resp,VAR_4
+cmd_flags,VAR_5
+rc,VAR_6

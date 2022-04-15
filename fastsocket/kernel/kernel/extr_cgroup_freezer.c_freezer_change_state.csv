@@ -1,0 +1,12 @@
+BUG,FUNC_0
+cgroup_freezer,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+try_to_freeze_cgroup,FUNC_4
+unfreeze_cgroup,FUNC_5
+update_if_frozen,FUNC_6
+freezer_change_state,FUNC_7
+cgroup,VAR_0
+goal_state,VAR_1
+freezer,VAR_2
+retval,VAR_3

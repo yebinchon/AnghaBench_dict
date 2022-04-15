@@ -1,0 +1,13 @@
+ARM_SMMU_CB_TLBSTATUS,VAR_0
+ARM_SMMU_CB_TLBSYNC,VAR_1
+dev_err,FUNC_0
+iommu_writel,FUNC_1
+readl_poll_timeout,FUNC_2
+to_ctx,FUNC_3
+qcom_iommu_tlb_sync,FUNC_4
+cookie,VAR_2
+fwspec,VAR_3
+i,VAR_4
+ctx,VAR_5
+val,VAR_6
+ret,VAR_7

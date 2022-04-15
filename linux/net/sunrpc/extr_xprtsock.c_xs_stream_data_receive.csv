@@ -1,0 +1,14 @@
+ESHUTDOWN,VAR_0
+MSG_DONTWAIT,VAR_1
+SHUT_RDWR,VAR_2
+cond_resched,FUNC_0
+kernel_sock_shutdown,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+trace_xs_stream_read_data,FUNC_4
+xs_poll_check_readable,FUNC_5
+xs_read_stream,FUNC_6
+xs_stream_data_receive,FUNC_7
+transport,VAR_3
+read,VAR_4
+ret,VAR_5

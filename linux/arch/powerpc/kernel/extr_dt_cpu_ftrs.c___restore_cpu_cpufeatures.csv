@@ -1,0 +1,13 @@
+PCR_MASK,VAR_0
+SPRN_FSCR,VAR_1
+SPRN_HFSCR,VAR_2
+SPRN_LPCR,VAR_3
+SPRN_LPID,VAR_4
+SPRN_PCR,VAR_5
+hv_mode,VAR_6
+init_pmu_registers,FUNC_0
+mfspr,FUNC_1
+mtspr,FUNC_2
+system_registers,VAR_7
+__restore_cpu_cpufeatures,FUNC_3
+lpcr,VAR_8

@@ -1,0 +1,17 @@
+MZ_OK,VAR_0
+MZ_PARAM_ERROR,VAR_1
+MZ_ZIP_EXTENSION_HASH,VAR_2
+mz_stream_mem_create,FUNC_0
+mz_stream_mem_delete,FUNC_1
+mz_stream_mem_set_buffer,FUNC_2
+mz_stream_read_uint16,FUNC_3
+mz_zip_extrafield_find,FUNC_4
+mz_zip_reader_entry_get_first_hash,FUNC_5
+handle,VAR_3
+algorithm,VAR_4
+digest_size,VAR_5
+reader,VAR_6
+file_extra_stream,VAR_7
+err,VAR_8
+cur_algorithm,VAR_9
+cur_digest_size,VAR_10

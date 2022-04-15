@@ -1,0 +1,16 @@
+atomic_set,FUNC_0
+kernel_active_single_step,FUNC_1
+kernel_disable_single_step,FUNC_2
+kernel_enable_single_step,FUNC_3
+kgdb_arch_update_addr,FUNC_4
+kgdb_cpu_doing_single_step,VAR_0
+kgdb_single_step,VAR_1
+raw_smp_processor_id,FUNC_5
+kgdb_arch_handle_exception,FUNC_6
+exception_vector,VAR_2
+signo,VAR_3
+err_code,VAR_4
+remcom_in_buffer,VAR_5
+remcom_out_buffer,VAR_6
+linux_regs,VAR_7
+err,VAR_8

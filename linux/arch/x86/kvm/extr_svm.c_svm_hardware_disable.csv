@@ -1,0 +1,8 @@
+MSR_AMD64_TSC_RATIO,VAR_0
+TSC_RATIO_DEFAULT,VAR_1
+X86_FEATURE_TSCRATEMSR,VAR_2
+amd_pmu_disable_virt,FUNC_0
+cpu_svm_disable,FUNC_1
+static_cpu_has,FUNC_2
+wrmsrl,FUNC_3
+svm_hardware_disable,FUNC_4

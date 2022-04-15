@@ -1,0 +1,17 @@
+SNDRV_PCM_HW_PARAM_PERIODS,VAR_0
+SNDRV_PCM_HW_PARAM_PERIOD_BYTES,VAR_1
+had_pcm_hardware,VAR_2
+pm_runtime_get_sync,FUNC_0
+pm_runtime_mark_last_busy,FUNC_1
+pm_runtime_put_autosuspend,FUNC_2
+snd_pcm_hw_constraint_integer,FUNC_3
+snd_pcm_hw_constraint_msbits,FUNC_4
+snd_pcm_hw_constraint_step,FUNC_5
+snd_pcm_substream_chip,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+had_pcm_open,FUNC_9
+substream,VAR_3
+intelhaddata,VAR_4
+runtime,VAR_5
+retval,VAR_6

@@ -1,0 +1,10 @@
+NFTA_QUEUE_FLAGS,VAR_0
+NFTA_QUEUE_NUM,VAR_1
+NFTA_QUEUE_TOTAL,VAR_2
+htons,FUNC_0
+nft_expr_priv,FUNC_1
+nla_put_be16,FUNC_2
+nft_queue_dump,FUNC_3
+skb,VAR_3
+expr,VAR_4
+priv,VAR_5

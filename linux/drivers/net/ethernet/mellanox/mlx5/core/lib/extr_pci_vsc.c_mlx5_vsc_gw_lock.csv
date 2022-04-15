@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+VSC_COUNTER_OFFSET,VAR_1
+VSC_MAX_RETRIES,VAR_2
+VSC_SEMAPHORE_OFFSET,VAR_3
+pci_cfg_access_lock,FUNC_0
+pci_cfg_access_unlock,FUNC_1
+usleep_range,FUNC_2
+vsc_read,FUNC_3
+vsc_write,FUNC_4
+mlx5_vsc_gw_lock,FUNC_5
+dev,VAR_4
+counter,VAR_5
+retries,VAR_6
+lock_val,VAR_7
+ret,VAR_8

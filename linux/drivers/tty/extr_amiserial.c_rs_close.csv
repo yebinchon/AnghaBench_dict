@@ -1,0 +1,17 @@
+IF_RBF,VAR_0
+UART_LSR_DR,VAR_1
+custom,VAR_2
+mb,FUNC_0
+rs_flush_buffer,FUNC_1
+rs_wait_until_sent,FUNC_2
+serial_paranoia_check,FUNC_3
+shutdown,FUNC_4
+tty_ldisc_flush,FUNC_5
+tty_port_close_end,FUNC_6
+tty_port_close_start,FUNC_7
+tty_port_initialized,FUNC_8
+rs_close,FUNC_9
+tty,VAR_3
+filp,VAR_4
+state,VAR_5
+port,VAR_6

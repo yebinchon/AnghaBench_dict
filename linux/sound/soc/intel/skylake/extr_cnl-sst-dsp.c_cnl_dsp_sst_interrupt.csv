@@ -1,0 +1,14 @@
+CNL_ADSPIS_IPC,VAR_0
+CNL_ADSP_REG_ADSPIS,VAR_1
+IRQ_NONE,VAR_2
+IRQ_WAKE_THREAD,VAR_3
+cnl_ipc_int_disable,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+sst_dsp_shim_read_unlocked,FUNC_3
+cnl_dsp_sst_interrupt,FUNC_4
+irq,VAR_4
+dev_id,VAR_5
+ctx,VAR_6
+val,VAR_7
+ret,VAR_8

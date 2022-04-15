@@ -1,0 +1,12 @@
+AC_LOST_DEVICE,VAR_0
+CAM_DEV_NOT_THERE,VAR_1
+SBP_DEV_DEAD,VAR_2
+SBP_DEV_RESET,VAR_3
+SBP_LOCK_ASSERT,FUNC_0
+TRUE,VAR_4
+sbp_abort_all_ocbs,FUNC_1
+xpt_async,FUNC_2
+xpt_free_path,FUNC_3
+xpt_release_devq,FUNC_4
+sbp_cam_detach_sdev,FUNC_5
+sdev,VAR_5

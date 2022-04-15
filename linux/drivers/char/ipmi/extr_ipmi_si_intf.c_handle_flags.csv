@@ -1,0 +1,15 @@
+EVENT_MSG_BUFFER_FULL,VAR_0
+OEM_DATA_AVAIL,VAR_1
+RECEIVE_MSG_AVAIL,VAR_2
+SI_NORMAL,VAR_3
+WDT_PRE_TIMEOUT_INT,VAR_4
+alloc_msg_handle_irq,FUNC_0
+ipmi_smi_watchdog_pretimeout,FUNC_1
+smi_inc_stat,FUNC_2
+start_clear_flags,FUNC_3
+start_getting_events,FUNC_4
+start_getting_msg_queue,FUNC_5
+stub1,FUNC_6
+watchdog_pretimeouts,VAR_5
+handle_flags,FUNC_7
+smi_info,VAR_6

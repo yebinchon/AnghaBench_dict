@@ -1,0 +1,17 @@
+EMAC_CTL_REG,VAR_0
+EMAC_CTL_RESET,VAR_1
+EMAC_CTL_RX_EN,VAR_2
+EMAC_CTL_TX_EN,VAR_3
+EMAC_INT_CTL_REG,VAR_4
+emac_update_duplex,FUNC_0
+emac_update_speed,FUNC_1
+netdev_priv,FUNC_2
+readl,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+writel,FUNC_6
+emac_init_device,FUNC_7
+dev,VAR_5
+db,VAR_6
+flags,VAR_7
+reg_val,VAR_8

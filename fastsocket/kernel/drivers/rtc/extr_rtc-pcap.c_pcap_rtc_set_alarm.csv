@@ -1,0 +1,16 @@
+PCAP_REG_RTC_DAYA,VAR_0
+PCAP_REG_RTC_TODA,VAR_1
+SEC_PER_DAY,VAR_2
+ezx_pcap_write,FUNC_0
+platform_get_drvdata,FUNC_1
+rtc_tm_to_time,FUNC_2
+to_platform_device,FUNC_3
+pcap_rtc_set_alarm,FUNC_4
+dev,VAR_3
+alrm,VAR_4
+pdev,VAR_5
+pcap_rtc,VAR_6
+tm,VAR_7
+secs,VAR_8
+tod,VAR_9
+days,VAR_10

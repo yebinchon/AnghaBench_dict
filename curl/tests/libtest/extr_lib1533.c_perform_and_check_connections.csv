@@ -1,0 +1,15 @@
+CURLE_OK,VAR_0
+CURLINFO_NUM_CONNECTS,VAR_1
+TEST_ERR_FAILURE,VAR_2
+TEST_ERR_MAJOR_BAD,VAR_3
+TEST_ERR_SUCCESS,VAR_4
+curl_easy_getinfo,FUNC_0
+curl_easy_perform,FUNC_1
+fprintf,FUNC_2
+stderr,VAR_5
+perform_and_check_connections,FUNC_3
+curl,VAR_6
+description,VAR_7
+expected_connections,VAR_8
+res,VAR_9
+connections,VAR_10

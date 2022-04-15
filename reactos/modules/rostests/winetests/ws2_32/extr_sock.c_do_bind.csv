@@ -1,0 +1,15 @@
+BIND_SLEEP,VAR_0
+BIND_TRIES,VAR_1
+Sleep,FUNC_0
+WSAEADDRINUSE,VAR_2
+WSAGetLastError,FUNC_1
+bind,FUNC_2
+ok,FUNC_3
+trace,FUNC_4
+do_bind,FUNC_5
+s,VAR_3
+addr,VAR_4
+addrlen,VAR_5
+err,VAR_6
+wsaerr,VAR_7
+n_try,VAR_8

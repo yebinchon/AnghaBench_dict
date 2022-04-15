@@ -1,0 +1,16 @@
+IB_CQ_NEXT_COMP,VAR_0
+IB_CQ_SOLICITED,VAR_1
+get_ocrdma_cq,FUNC_0
+get_ocrdma_dev,FUNC_1
+ocrdma_ring_cq_db,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ocrdma_arm_cq,FUNC_5
+ibcq,VAR_2
+cq_flags,VAR_3
+cq,VAR_4
+dev,VAR_5
+cq_id,VAR_6
+flags,VAR_7
+arm_needed,VAR_8
+sol_needed,VAR_9

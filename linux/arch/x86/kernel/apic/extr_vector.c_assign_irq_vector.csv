@@ -1,0 +1,12 @@
+assign_vector_locked,FUNC_0
+cpu_online_mask,VAR_0
+cpumask_and,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+vector_lock,VAR_1
+vector_searchmask,VAR_2
+assign_irq_vector,FUNC_4
+irqd,VAR_3
+dest,VAR_4
+flags,VAR_5
+ret,VAR_6

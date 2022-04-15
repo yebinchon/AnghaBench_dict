@@ -1,0 +1,17 @@
+_sc92031_disable_tx_rx,FUNC_0
+_sc92031_tx_clear,FUNC_1
+netdev_priv,FUNC_2
+netif_device_detach,FUNC_3
+netif_running,FUNC_4
+pci_choose_state,FUNC_5
+pci_get_drvdata,FUNC_6
+pci_save_state,FUNC_7
+pci_set_power_state,FUNC_8
+sc92031_disable_interrupts,FUNC_9
+spin_lock_bh,FUNC_10
+spin_unlock_bh,FUNC_11
+sc92031_suspend,FUNC_12
+pdev,VAR_0
+state,VAR_1
+dev,VAR_2
+priv,VAR_3

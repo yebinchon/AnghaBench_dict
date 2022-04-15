@@ -1,0 +1,16 @@
+EHCA_BMASK_SET,FUNC_0
+H_MODIFY_PORT,VAR_0
+H_MP_INIT_TYPE,VAR_1
+H_MP_RESET_QKEY_CTR,VAR_2
+H_MP_SHUTDOWN,VAR_3
+IB_PORT_INIT_TYPE,VAR_4
+IB_PORT_RESET_QKEY_CNTR,VAR_5
+IB_PORT_SHUTDOWN,VAR_6
+ehca_plpar_hcall_norets,FUNC_1
+hipz_h_modify_port,FUNC_2
+adapter_handle,VAR_7
+port_id,VAR_8
+port_cap,VAR_9
+init_type,VAR_10
+modify_mask,VAR_11
+port_attributes,VAR_12

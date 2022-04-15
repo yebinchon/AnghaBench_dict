@@ -1,0 +1,9 @@
+GIT_ENOTFOUND,VAR_0
+branch,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_branch_upstream,FUNC_2
+git_reference_lookup,FUNC_3
+repo,VAR_2
+upstream,VAR_3
+test_refs_branches_upstream__trying_to_retrieve_a_remote_tracking_reference_from_a_plain_local_branch_returns_GIT_ENOTFOUND,FUNC_4

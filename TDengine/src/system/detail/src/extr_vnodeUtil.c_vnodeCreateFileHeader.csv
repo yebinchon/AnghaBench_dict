@@ -1,0 +1,12 @@
+SEEK_SET,VAR_0
+TSDB_FILE_HEADER_LEN,VAR_1
+fseek,FUNC_0
+fwrite,FUNC_1
+memset,FUNC_2
+sprintf,FUNC_3
+version,VAR_2
+vnodeFileVersion,VAR_3
+vnodeCreateFileHeader,FUNC_4
+fp,VAR_4
+temp,VAR_5
+lineLen,VAR_6

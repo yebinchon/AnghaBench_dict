@@ -1,0 +1,17 @@
+GIT_ENOTFOUND,VAR_0
+_index,VAR_1
+_pathspecs,VAR_2
+_repo,VAR_3
+_target,VAR_4
+assert_content_in_index,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+git_index_conflict_get,FUNC_3
+git_reset_default,FUNC_4
+git_revparse_single,FUNC_5
+initialize,FUNC_6
+test_reset_default__resetting_filepaths_clears_previous_conflicts,FUNC_7
+conflict_entry,VAR_5
+after,VAR_6
+paths,VAR_7
+after_shas,VAR_8

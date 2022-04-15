@@ -1,0 +1,8 @@
+armada_3700_pm_dvfs_get_cpu_parent,FUNC_0
+armada_3700_pm_dvfs_is_enabled,FUNC_1
+readl,FUNC_2
+to_clk_pm_cpu,FUNC_3
+clk_pm_cpu_get_parent,FUNC_4
+hw,VAR_0
+pm_cpu,VAR_1
+val,VAR_2

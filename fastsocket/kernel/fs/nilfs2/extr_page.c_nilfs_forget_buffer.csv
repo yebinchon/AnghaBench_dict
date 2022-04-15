@@ -1,0 +1,14 @@
+ClearPageMappedToDisk,FUNC_0
+ClearPageUptodate,FUNC_1
+__nilfs_clear_page_dirty,FUNC_2
+brelse,FUNC_3
+clear_buffer_dirty,FUNC_4
+clear_buffer_mapped,FUNC_5
+clear_buffer_nilfs_volatile,FUNC_6
+clear_buffer_uptodate,FUNC_7
+lock_buffer,FUNC_8
+nilfs_page_buffers_clean,FUNC_9
+unlock_buffer,FUNC_10
+nilfs_forget_buffer,FUNC_11
+bh,VAR_0
+page,VAR_1

@@ -1,0 +1,17 @@
+MADERA_DSP_CLK_SEL_MASK,VAR_0
+MADERA_DSP_CLK_SEL_SHIFT,VAR_1
+MADERA_DSP_CONFIG_1_OFFS,VAR_2
+MADERA_DSP_CONFIG_2_OFFS,VAR_3
+MADERA_DSP_RATE_MASK,VAR_4
+MADERA_DSP_RATE_SHIFT,VAR_5
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+regmap_update_bits,FUNC_2
+regmap_write,FUNC_3
+madera_write_adsp_clk_setting,FUNC_4
+priv,VAR_6
+dsp,VAR_7
+freq,VAR_8
+val,VAR_9
+mask,VAR_10
+ret,VAR_11

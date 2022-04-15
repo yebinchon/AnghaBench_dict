@@ -1,0 +1,17 @@
+PAGE_MASK,VAR_0
+VM_FAULT_BADACCESS,VAR_1
+VM_FAULT_BADMAP,VAR_2
+VM_GROWSDOWN,VAR_3
+access_error,FUNC_0
+expand_stack,FUNC_1
+find_vma,FUNC_2
+handle_mm_fault,FUNC_3
+unlikely,FUNC_4
+__do_pf,FUNC_5
+mm,VAR_4
+addr,VAR_5
+fsr,VAR_6
+flags,VAR_7
+tsk,VAR_8
+vma,VAR_9
+fault,VAR_10

@@ -1,0 +1,16 @@
+IXGBE_FLAG_NEED_LINK_CONFIG,VAR_0
+IXGBE_FLAG_NEED_LINK_UPDATE,VAR_1
+IXGBE_LINK_SPEED_10GB_FULL,VAR_2
+IXGBE_LINK_SPEED_1GB_FULL,VAR_3
+__IXGBE_IN_SFP_INIT,VAR_4
+clear_bit,FUNC_0
+jiffies,VAR_5
+stub1,FUNC_1
+stub2,FUNC_2
+test_and_set_bit,FUNC_3
+ixgbe_sfp_link_config_subtask,FUNC_4
+adapter,VAR_6
+hw,VAR_7
+cap_speed,VAR_8
+speed,VAR_9
+autoneg,VAR_10

@@ -1,0 +1,12 @@
+PCPU_GET,FUNC_0
+PCPU_SET,FUNC_1
+critical_enter,FUNC_2
+critical_exit,FUNC_3
+curpcb,VAR_0
+curthread,VAR_1
+fpcurthread,VAR_2
+fpusave,FUNC_4
+start_emulating,FUNC_5
+stop_emulating,FUNC_6
+fpuexit,FUNC_7
+td,VAR_3

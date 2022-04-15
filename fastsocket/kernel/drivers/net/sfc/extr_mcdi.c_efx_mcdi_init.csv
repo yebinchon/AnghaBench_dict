@@ -1,0 +1,12 @@
+EFX_REV_SIENA_A0,VAR_0
+MCDI_MODE_POLL,VAR_1
+MCDI_STATE_QUIESCENT,VAR_2
+atomic_set,FUNC_0
+efx_mcdi,FUNC_1
+efx_mcdi_poll_reboot,FUNC_2
+efx_nic_rev,FUNC_3
+init_waitqueue_head,FUNC_4
+spin_lock_init,FUNC_5
+efx_mcdi_init,FUNC_6
+efx,VAR_3
+mcdi,VAR_4

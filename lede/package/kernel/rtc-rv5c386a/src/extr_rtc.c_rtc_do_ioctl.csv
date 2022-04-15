@@ -1,0 +1,14 @@
+CAP_SYS_TIME,VAR_0
+EACCES,VAR_1
+EFAULT,VAR_2
+ENOTTY,VAR_3
+capable,FUNC_0
+copy_from_user,FUNC_1
+copy_to_user,FUNC_2
+get_rtc_time,FUNC_3
+memset,FUNC_4
+set_rtc_time,FUNC_5
+rtc_do_ioctl,FUNC_6
+cmd,VAR_4
+arg,VAR_5
+rtc_tm,VAR_6

@@ -1,0 +1,16 @@
+BTRFS_IOC_QGROUP_ASSIGN,VAR_0
+EBUSY,VAR_1
+ENOTTY,VAR_2
+btrfs_is_filesystem,FUNC_0
+btrfs_quota_scan_start,FUNC_1
+btrfs_quota_scan_wait,FUNC_2
+errno,VAR_3
+ioctl,FUNC_3
+qgroup_assign_or_unassign,FUNC_4
+fd,VAR_4
+b,VAR_5
+child,VAR_6
+parent,VAR_7
+args,VAR_8
+c,VAR_9
+r,VAR_10

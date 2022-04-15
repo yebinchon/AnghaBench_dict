@@ -1,0 +1,13 @@
+S390_lowcore,VAR_0
+ec_call_function,VAR_1
+ec_call_function_single,VAR_2
+ec_schedule,VAR_3
+ec_stop_cpu,VAR_4
+generic_smp_call_function_interrupt,FUNC_0
+generic_smp_call_function_single_interrupt,FUNC_1
+scheduler_ipi,FUNC_2
+smp_stop_cpu,FUNC_3
+test_bit,FUNC_4
+xchg,FUNC_5
+smp_handle_ext_call,FUNC_6
+bits,VAR_5

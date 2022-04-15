@@ -1,0 +1,14 @@
+PAGE_MASK,VAR_0
+PAGE_SIZE,VAR_1
+PG_FRAME,VAR_2
+invlpg,FUNC_0
+pmap_kenter,FUNC_1
+pmap_kenter_temporary,FUNC_2
+round_page,FUNC_3
+table_map,FUNC_4
+pa,VAR_3
+offset,VAR_4
+length,VAR_5
+va,VAR_6
+off,VAR_7
+data,VAR_8

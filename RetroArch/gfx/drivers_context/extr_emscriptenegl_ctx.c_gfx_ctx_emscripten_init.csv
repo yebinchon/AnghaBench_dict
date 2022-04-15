@@ -1,0 +1,17 @@
+EGL_DEFAULT_DISPLAY,VAR_0
+RARCH_LOG,FUNC_0
+calloc,FUNC_1
+egl_create_context,FUNC_2
+egl_create_surface,FUNC_3
+egl_get_video_size,FUNC_4
+egl_init_context,FUNC_5
+egl_report_error,FUNC_6
+emscripten_get_canvas_element_size,FUNC_7
+emscripten_initial_height,VAR_1
+emscripten_initial_width,VAR_2
+g_egl_inited,VAR_3
+gfx_ctx_emscripten_destroy,FUNC_8
+gfx_ctx_emscripten_init,FUNC_9
+video_info,VAR_4
+video_driver,VAR_5
+emscripten,VAR_6

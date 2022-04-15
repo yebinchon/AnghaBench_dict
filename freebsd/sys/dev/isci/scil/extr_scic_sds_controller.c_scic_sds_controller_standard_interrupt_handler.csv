@@ -1,0 +1,12 @@
+FALSE,VAR_0
+SCIC_LOG_OBJECT_CONTROLLER,VAR_1
+SCIC_LOG_TRACE,FUNC_0
+SMU_ISR_QUEUE_ERROR,VAR_2
+SMU_ISR_QUEUE_SUSPEND,VAR_3
+TRUE,VAR_4
+sci_base_object_get_logger,FUNC_1
+scic_sds_controller_completion_queue_has_entries,FUNC_2
+scic_sds_controller_standard_interrupt_handler,FUNC_3
+this_controller,VAR_5
+interrupt_status,VAR_6
+is_completion_needed,VAR_7

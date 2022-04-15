@@ -1,0 +1,17 @@
+ALIGN,FUNC_0
+CONFIG_SPI_SLAVE,VAR_0
+GFP_KERNEL,VAR_1
+IS_ENABLED,FUNC_1
+device_initialize,FUNC_2
+dma_get_cache_alignment,FUNC_3
+kzalloc,FUNC_4
+pm_suspend_ignore_children,FUNC_5
+spi_controller_set_devdata,FUNC_6
+spi_master_class,VAR_2
+spi_slave_class,VAR_3
+__spi_alloc_controller,FUNC_7
+dev,VAR_4
+size,VAR_5
+slave,VAR_6
+ctlr,VAR_7
+ctlr_size,VAR_8

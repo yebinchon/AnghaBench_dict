@@ -1,0 +1,8 @@
+GXBB_WDT_CTRL_EN,VAR_0
+GXBB_WDT_CTRL_REG,VAR_1
+readl,FUNC_0
+watchdog_get_drvdata,FUNC_1
+writel,FUNC_2
+meson_gxbb_wdt_start,FUNC_3
+wdt_dev,VAR_2
+data,VAR_3

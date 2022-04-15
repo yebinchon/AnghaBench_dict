@@ -1,0 +1,8 @@
+__ip_vs_dst_cache_reset,FUNC_0
+__ip_vs_svc_put,FUNC_1
+free_percpu,FUNC_2
+ip_vs_dest_put_and_free,FUNC_3
+rcu_dereference_protected,FUNC_4
+ip_vs_dest_free,FUNC_5
+dest,VAR_0
+svc,VAR_1

@@ -1,0 +1,11 @@
+DBCR0_RST_SYSTEM,VAR_0
+SPRN_DBCR0,VAR_1
+mfspr,FUNC_0
+mtspr,FUNC_1
+of_get_cpu_node,FUNC_2
+of_get_property,FUNC_3
+ppc4xx_reset_system,FUNC_4
+cmd,VAR_2
+np,VAR_3
+reset_type,VAR_4
+prop,VAR_5

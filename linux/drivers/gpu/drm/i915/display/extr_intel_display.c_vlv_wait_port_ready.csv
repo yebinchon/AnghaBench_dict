@@ -1,0 +1,16 @@
+BUG,FUNC_0
+DPIO_PHY_STATUS,VAR_0
+DPLL,FUNC_1
+DPLL_PORTB_READY_MASK,VAR_1
+DPLL_PORTC_READY_MASK,VAR_2
+DPLL_PORTD_READY_MASK,VAR_3
+I915_READ,FUNC_2
+WARN,FUNC_3
+intel_de_wait_for_register,FUNC_4
+port_name,FUNC_5
+vlv_wait_port_ready,FUNC_6
+dev_priv,VAR_4
+dport,VAR_5
+expected_mask,VAR_6
+port_mask,VAR_7
+dpll_reg,VAR_8

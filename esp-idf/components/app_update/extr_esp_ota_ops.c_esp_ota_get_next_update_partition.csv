@@ -1,0 +1,13 @@
+ESP_PARTITION_SUBTYPE_APP_OTA_0,VAR_0
+ESP_PARTITION_SUBTYPE_APP_OTA_MAX,VAR_1
+ESP_PARTITION_TYPE_APP,VAR_2
+assert,FUNC_0
+esp_ota_get_running_partition,FUNC_1
+esp_partition_find_first,FUNC_2
+esp_partition_verify,FUNC_3
+esp_ota_get_next_update_partition,FUNC_4
+start_from,VAR_3
+default_ota,VAR_4
+next_is_result,VAR_5
+t,VAR_6
+p,VAR_7

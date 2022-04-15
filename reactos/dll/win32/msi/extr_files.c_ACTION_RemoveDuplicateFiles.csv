@@ -1,0 +1,10 @@
+ERROR_SUCCESS,VAR_0
+ITERATE_RemoveDuplicateFiles,VAR_1
+MSI_DatabaseOpenViewW,FUNC_0
+MSI_IterateRecords,FUNC_1
+msiobj_release,FUNC_2
+ACTION_RemoveDuplicateFiles,FUNC_3
+package,VAR_2
+query,VAR_3
+view,VAR_4
+rc,VAR_5

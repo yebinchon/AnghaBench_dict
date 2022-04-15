@@ -1,0 +1,8 @@
+GPIO_PCMCIA_RESET,VAR_0
+GPIO_PCMCIA_SKTSEL,VAR_1
+SS_RESET,VAR_2
+gpio_set_value,FUNC_0
+udelay,FUNC_1
+cmx255_pcmcia_configure_socket,FUNC_2
+skt,VAR_3
+state,VAR_4

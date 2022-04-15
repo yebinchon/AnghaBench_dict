@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+NETXEN_ADAPTER_UP_MAGIC,VAR_1
+__NX_RESETTING,VAR_2
+__netxen_nic_down,FUNC_0
+__netxen_nic_up,FUNC_1
+clear_bit,FUNC_2
+netif_device_attach,FUNC_3
+netif_device_detach,FUNC_4
+netif_running,FUNC_5
+netxen_nic_attach,FUNC_6
+netxen_nic_detach,FUNC_7
+test_and_set_bit,FUNC_8
+netxen_nic_reset_context,FUNC_9
+adapter,VAR_3
+err,VAR_4
+netdev,VAR_5

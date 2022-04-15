@@ -1,0 +1,15 @@
+DEFAULT_TOS_VALUE,VAR_0
+ETH_P_IPV6,VAR_1
+htons,FUNC_0
+ip6_flow_hdr,FUNC_1
+ipv6_hdr,FUNC_2
+skb_put,FUNC_3
+skb_reset_network_header,FUNC_4
+nf_reject_ip6hdr_put,FUNC_5
+nskb,VAR_2
+oldskb,VAR_3
+protocol,VAR_4
+hoplimit,VAR_5
+ip6h,VAR_6
+oip6h,VAR_7
+tclass,VAR_8

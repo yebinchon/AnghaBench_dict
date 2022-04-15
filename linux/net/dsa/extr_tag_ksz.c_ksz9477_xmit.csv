@@ -1,0 +1,16 @@
+BIT,FUNC_0
+KSZ9477_INGRESS_TAG_LEN,VAR_0
+KSZ9477_TAIL_TAG_OVERRIDE,VAR_1
+cpu_to_be16,FUNC_1
+dsa_slave_to_port,FUNC_2
+is_link_local_ether_addr,FUNC_3
+ksz_common_xmit,FUNC_4
+skb_mac_header,FUNC_5
+skb_put,FUNC_6
+ksz9477_xmit,FUNC_7
+skb,VAR_2
+dev,VAR_3
+dp,VAR_4
+nskb,VAR_5
+tag,VAR_6
+addr,VAR_7

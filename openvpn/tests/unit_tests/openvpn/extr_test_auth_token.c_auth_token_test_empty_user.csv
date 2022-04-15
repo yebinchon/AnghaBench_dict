@@ -1,0 +1,13 @@
+AUTH_TOKEN_EXPIRED,VAR_0
+AUTH_TOKEN_HMAC_OK,VAR_1
+AUTH_TOKEN_VALID_EMPTYUSER,VAR_2
+CLEAR,FUNC_0
+assert_int_equal,FUNC_1
+generate_auth_token,FUNC_2
+now,VAR_3
+strcpy,FUNC_3
+verify_auth_token,FUNC_4
+zerohmac,FUNC_5
+auth_token_test_empty_user,FUNC_6
+state,VAR_4
+ctx,VAR_5

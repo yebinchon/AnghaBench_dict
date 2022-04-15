@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+NIC_CFG_RSS_HASH_TYPE_UDP_IPV4,VAR_1
+NIC_CFG_RSS_HASH_TYPE_UDP_IPV6,VAR_2
+RXH_IP_DST,VAR_3
+RXH_IP_SRC,VAR_4
+RXH_L4_B_0_1,VAR_5
+RXH_L4_B_2_3,VAR_6
+spin_lock_bh,FUNC_0
+spin_unlock_bh,FUNC_1
+vnic_dev_capable_rss_hash_type,FUNC_2
+enic_get_rx_flow_hash,FUNC_3
+enic,VAR_7
+cmd,VAR_8
+rss_hash_type,VAR_9

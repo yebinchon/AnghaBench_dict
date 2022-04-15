@@ -1,0 +1,17 @@
+QID_RX,VAR_0
+RXD_W0_SDP0,VAR_1
+RXD_W1_DMA_DONE,VAR_2
+RX_CRX_IDX,VAR_3
+TXD_W1_DMA_DONE,VAR_4
+get_skb_frame_desc,FUNC_0
+hrtimer_cancel,FUNC_1
+rt2x00_desc_read,FUNC_2
+rt2x00_desc_write,FUNC_3
+rt2x00_set_field32,FUNC_4
+rt2x00mmio_register_write,FUNC_5
+rt2800mmio_clear_entry,FUNC_6
+entry,VAR_5
+entry_priv,VAR_6
+skbdesc,VAR_7
+rt2x00dev,VAR_8
+word,VAR_9

@@ -1,0 +1,12 @@
+DPLL_CFGCR0_HDMI_MODE,VAR_0
+DPLL_CFGCR0_LINK_RATE_MASK,VAR_1
+WARN,FUNC_0
+cnl_calc_wrpll_link,FUNC_1
+ddi_dotclock_get,FUNC_2
+to_i915,FUNC_3
+cnl_ddi_clock_get,FUNC_4
+encoder,VAR_2
+pipe_config,VAR_3
+dev_priv,VAR_4
+pll_state,VAR_5
+link_clock,VAR_6

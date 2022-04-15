@@ -1,0 +1,12 @@
+KVM_PMC_FIXED,VAR_0
+KVM_PMC_GP,VAR_1
+X86_PMC_IDX_FIXED,VAR_2
+X86_PMC_MAX_FIXED,VAR_3
+X86_PMC_MAX_GENERIC,VAR_4
+kvm_find_cpuid_entry,FUNC_0
+min,FUNC_1
+kvm_pmu_cpuid_update,FUNC_2
+vcpu,VAR_5
+pmu,VAR_6
+entry,VAR_7
+bitmap_len,VAR_8

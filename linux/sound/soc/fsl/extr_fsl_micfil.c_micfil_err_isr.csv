@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+MICFIL_STAT_BSY_FIL_MASK,VAR_1
+MICFIL_STAT_FIR_RDY_MASK,VAR_2
+MICFIL_STAT_LOWFREQF_MASK,VAR_3
+REG_MICFIL_STAT,VAR_4
+dev_dbg,FUNC_0
+regmap_read,FUNC_1
+regmap_write_bits,FUNC_2
+micfil_err_isr,FUNC_3
+irq,VAR_5
+devid,VAR_6
+micfil,VAR_7
+pdev,VAR_8
+stat_reg,VAR_9

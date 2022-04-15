@@ -1,0 +1,15 @@
+DRM_DEBUG_DRIVER,FUNC_0
+VPU_HDMI_FMT_CTRL,VAR_0
+_REG,FUNC_1
+drm_match_cea_mode,FUNC_2
+dw_hdmi_set_vclk,FUNC_3
+encoder_to_meson_dw_hdmi,FUNC_4
+meson_venc_hdmi_mode_set,FUNC_5
+writel_relaxed,FUNC_6
+meson_venc_hdmi_encoder_mode_set,FUNC_7
+encoder,VAR_1
+mode,VAR_2
+adjusted_mode,VAR_3
+dw_hdmi,VAR_4
+priv,VAR_5
+vic,VAR_6

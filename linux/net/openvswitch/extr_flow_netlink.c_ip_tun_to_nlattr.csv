@@ -1,0 +1,14 @@
+EMSGSIZE,VAR_0
+OVS_KEY_ATTR_TUNNEL,VAR_1
+__ip_tun_to_nlattr,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start_noflag,FUNC_2
+ip_tun_to_nlattr,FUNC_3
+skb,VAR_2
+output,VAR_3
+tun_opts,VAR_4
+swkey_tun_opts_len,VAR_5
+tun_proto,VAR_6
+mode,VAR_7
+nla,VAR_8
+err,VAR_9

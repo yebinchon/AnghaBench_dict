@@ -1,0 +1,7 @@
+VMCB_CTRL1_INTCPT,VAR_0
+VMCB_INTCPT_IRET,VAR_1
+svm_get_intercept,FUNC_0
+nmi_blocked,FUNC_1
+sc,VAR_2
+vcpu,VAR_3
+blocked,VAR_4

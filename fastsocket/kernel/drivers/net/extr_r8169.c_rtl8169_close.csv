@@ -1,0 +1,17 @@
+R8169_RX_RING_BYTES,VAR_0
+R8169_TX_RING_BYTES,VAR_1
+RTL_FLAG_TASK_ENABLED,VAR_2
+clear_bit,FUNC_0
+dma_free_coherent,FUNC_1
+free_irq,FUNC_2
+netdev_priv,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put_sync,FUNC_5
+rtl8169_down,FUNC_6
+rtl8169_update_counters,FUNC_7
+rtl_lock_work,FUNC_8
+rtl_unlock_work,FUNC_9
+rtl8169_close,FUNC_10
+dev,VAR_3
+tp,VAR_4
+pdev,VAR_5

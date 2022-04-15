@@ -1,0 +1,16 @@
+FSP_CMD_TIMEOUT,VAR_0
+FSP_CMD_TIMEOUT2,VAR_1
+PSMOUSE_CMD_GETINFO,VAR_2
+__ps2_command,FUNC_0
+ps2_begin_command,FUNC_1
+ps2_end_command,FUNC_2
+ps2_sendbyte,FUNC_3
+psmouse_activate,FUNC_4
+psmouse_dbg,FUNC_5
+psmouse_deactivate,FUNC_6
+fsp_page_reg_read,FUNC_7
+psmouse,VAR_3
+reg_val,VAR_4
+ps2dev,VAR_5
+param,VAR_6
+rc,VAR_7

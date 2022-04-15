@@ -1,0 +1,17 @@
+I40E_NOT_SUPPORTED,VAR_0
+I40E_RESOURCE_READ,VAR_1
+I40E_RESOURCE_WRITE,VAR_2
+I40E_SR_NVM_CONTROL_WORD,VAR_3
+dev_info,FUNC_0
+i40e_acquire_nvm,FUNC_1
+i40e_aq_read_nvm,FUNC_2
+i40e_aq_str,FUNC_3
+i40e_aq_update_nvm,FUNC_4
+i40e_release_nvm,FUNC_5
+i40e_stat_str,FUNC_6
+msleep,FUNC_7
+i40e_commit_partition_bw_setting,FUNC_8
+pf,VAR_4
+last_aq_status,VAR_5
+ret,VAR_6
+nvm_word,VAR_7

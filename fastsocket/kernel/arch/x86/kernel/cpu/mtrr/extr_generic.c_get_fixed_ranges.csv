@@ -1,0 +1,9 @@
+MSR_MTRRfix16K_80000,VAR_0
+MSR_MTRRfix4K_C0000,VAR_1
+MSR_MTRRfix64K_00000,VAR_2
+k8_check_syscfg_dram_mod_en,FUNC_0
+rdmsr,FUNC_1
+get_fixed_ranges,FUNC_2
+frs,VAR_3
+p,VAR_4
+i,VAR_5

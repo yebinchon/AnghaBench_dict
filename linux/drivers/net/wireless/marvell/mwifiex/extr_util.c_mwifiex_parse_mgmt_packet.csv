@@ -1,0 +1,16 @@
+IEEE80211_FCTL_STYPE,VAR_0
+INFO,VAR_1
+WLAN_PUB_ACTION_TDLS_DISCOVER_RES,VAR_2
+le16_to_cpu,FUNC_0
+mwifiex_auto_tdls_update_peer_signal,FUNC_1
+mwifiex_dbg,FUNC_2
+mwifiex_parse_mgmt_packet,FUNC_3
+priv,VAR_3
+payload,VAR_4
+len,VAR_5
+rx_pd,VAR_6
+stype,VAR_7
+category,VAR_8
+action_code,VAR_9
+addr2,VAR_10
+ieee_hdr,VAR_11

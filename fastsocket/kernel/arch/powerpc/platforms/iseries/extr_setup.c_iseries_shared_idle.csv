@@ -1,0 +1,15 @@
+HMT_medium,FUNC_0
+hvlpevent_is_pending,FUNC_1
+local_irq_disable,FUNC_2
+local_irq_enable,FUNC_3
+need_resched,FUNC_4
+ppc64_runlatch_off,FUNC_5
+ppc64_runlatch_on,FUNC_6
+preempt_disable,FUNC_7
+preempt_enable_no_resched,FUNC_8
+process_iSeries_events,FUNC_9
+schedule,FUNC_10
+tick_nohz_restart_sched_tick,FUNC_11
+tick_nohz_stop_sched_tick,FUNC_12
+yield_shared_processor,FUNC_13
+iseries_shared_idle,FUNC_14

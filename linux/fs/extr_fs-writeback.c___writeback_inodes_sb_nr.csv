@@ -1,0 +1,16 @@
+DEFINE_WB_COMPLETION,FUNC_0
+WARN_ON,FUNC_1
+WB_SYNC_NONE,VAR_0
+bdi_has_dirty_io,FUNC_2
+bdi_split_work_to_wbs,FUNC_3
+done,VAR_1
+noop_backing_dev_info,VAR_2
+rwsem_is_locked,FUNC_4
+wb_wait_for_completion,FUNC_5
+__writeback_inodes_sb_nr,FUNC_6
+sb,VAR_3
+nr,VAR_4
+reason,VAR_5
+skip_if_busy,VAR_6
+bdi,VAR_7
+work,VAR_8

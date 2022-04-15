@@ -1,0 +1,17 @@
+CreateHalftonePalette,FUNC_0
+DEFAULT_PALETTE,VAR_0
+DeleteObject,FUNC_1
+GetDC,FUNC_2
+GetPaletteEntries,FUNC_3
+GetStockObject,FUNC_4
+ReleaseDC,FUNC_5
+broken,FUNC_6
+ok,FUNC_7
+test_halftone_palette,FUNC_8
+hdc,VAR_1
+pal,VAR_2
+entries,VAR_3
+defpal,VAR_4
+i,VAR_5
+count,VAR_6
+idx,VAR_7

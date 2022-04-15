@@ -1,0 +1,13 @@
+CTX_LOCK,FUNC_0
+CTX_UNLOCK,FUNC_1
+IFCAP_VLAN_HWFILTER,VAR_0
+IFDI_VLAN_REGISTER,FUNC_2
+if_getcapenable,FUNC_3
+if_getsoftc,FUNC_4
+iflib_if_init_locked,FUNC_5
+iflib_in_detach,FUNC_6
+iflib_vlan_register,FUNC_7
+arg,VAR_1
+ifp,VAR_2
+vtag,VAR_3
+ctx,VAR_4

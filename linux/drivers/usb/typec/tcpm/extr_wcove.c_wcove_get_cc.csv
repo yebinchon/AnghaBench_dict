@@ -1,0 +1,13 @@
+USBC_CC1_STATUS,VAR_0
+USBC_CC2_STATUS,VAR_1
+regmap_read,FUNC_0
+tcpc_to_wcove,FUNC_1
+wcove_to_typec_cc,FUNC_2
+wcove_get_cc,FUNC_3
+tcpc,VAR_2
+cc1,VAR_3
+cc2,VAR_4
+wcove,VAR_5
+cc1_status,VAR_6
+cc2_status,VAR_7
+ret,VAR_8

@@ -1,0 +1,17 @@
+CEPH_MDS_SESSION_CLOSING,VAR_0
+CEPH_MDS_SESSION_REJECTED,VAR_1
+__ceph_lookup_mds_session,FUNC_0
+__close_session,FUNC_1
+__unregister_session,FUNC_2
+__wake_requests,FUNC_3
+ceph_put_mds_session,FUNC_4
+cleanup_session_requests,FUNC_5
+dout,FUNC_6
+kick_requests,FUNC_7
+mutex_lock,FUNC_8
+mutex_unlock,FUNC_9
+remove_session_caps,FUNC_10
+ceph_mdsc_force_umount,FUNC_11
+mdsc,VAR_2
+session,VAR_3
+mds,VAR_4

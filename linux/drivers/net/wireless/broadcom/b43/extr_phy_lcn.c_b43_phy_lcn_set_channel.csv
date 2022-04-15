@@ -1,0 +1,14 @@
+b43_phy_lcn_afe_set_unset,FUNC_0
+b43_phy_lcn_load_tx_iir_cck_filter,FUNC_1
+b43_phy_lcn_load_tx_iir_ofdm_filter,FUNC_2
+b43_phy_lcn_set_channel_tweaks,FUNC_3
+b43_phy_maskset,FUNC_4
+b43_phy_set,FUNC_5
+b43_phy_write,FUNC_6
+b43_radio_2064_channel_setup,FUNC_7
+mdelay,FUNC_8
+b43_phy_lcn_set_channel,FUNC_9
+dev,VAR_0
+channel,VAR_1
+channel_type,VAR_2
+sfo_cfg,VAR_3

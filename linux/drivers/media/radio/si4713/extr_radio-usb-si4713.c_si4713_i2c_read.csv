@@ -1,0 +1,17 @@
+BUFFER_LENGTH,VAR_0
+SI4713_CTS,VAR_1
+USB_RESP_TIMEOUT,VAR_2
+USB_TIMEOUT,VAR_3
+jiffies,VAR_4
+memcpy,FUNC_0
+msleep,FUNC_1
+time_is_before_jiffies,FUNC_2
+usb_control_msg,FUNC_3
+usb_rcvctrlpipe,FUNC_4
+usecs_to_jiffies,FUNC_5
+si4713_i2c_read,FUNC_6
+radio,VAR_5
+data,VAR_6
+len,VAR_7
+until_jiffies,VAR_8
+retval,VAR_9

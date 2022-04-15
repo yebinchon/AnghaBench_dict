@@ -1,0 +1,15 @@
+RD_RDY,VAR_0
+SSYNC,FUNC_0
+WB_FULL,VAR_1
+bfin_read_NFC_IRQSTAT,FUNC_1
+bfin_read_NFC_READ,FUNC_2
+bfin_read_NFC_STAT,FUNC_3
+bfin_write_NFC_DATA_RD,FUNC_4
+bfin_write_NFC_IRQSTAT,FUNC_5
+cpu_relax,FUNC_6
+bf5xx_nand_read_buf,FUNC_7
+mtd,VAR_2
+buf,VAR_3
+len,VAR_4
+i,VAR_5
+val,VAR_6

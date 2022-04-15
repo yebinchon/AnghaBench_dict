@@ -1,0 +1,14 @@
+CLOCK_REALTIME,VAR_0
+_timespec_is_larger,FUNC_0
+_timespec_is_zero,FUNC_1
+_timespec_set_zero,FUNC_2
+clock_gettime,FUNC_3
+pthread_cond_timedwait,FUNC_4
+pthread_cond_wait,FUNC_5
+pthread_mutex_lock,FUNC_6
+pthread_mutex_unlock,FUNC_7
+stub1,FUNC_8
+_timer_thread,FUNC_9
+arg,VAR_1
+timer,VAR_2
+now,VAR_3

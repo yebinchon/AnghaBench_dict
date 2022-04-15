@@ -1,0 +1,12 @@
+PAGER_WRITER_LOCKED,VAR_0
+PGHDR_MMAP,VAR_1
+PGHDR_WRITEABLE,VAR_2
+SQLITE_OK,VAR_3
+assert,FUNC_0
+assert_pager_state,FUNC_1
+pagerWriteLargeSector,FUNC_2
+pager_write,FUNC_3
+subjournalPageIfRequired,FUNC_4
+sqlite3PagerWrite,FUNC_5
+pPg,VAR_4
+pPager,VAR_5

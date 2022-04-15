@@ -1,0 +1,14 @@
+CFG_NO_LED,VAR_0
+IPW_DEBUG_LED,FUNC_0
+IPW_EVENT_REG,VAR_1
+LD_TIME_ACT_ON,VAR_2
+STATUS_LED_ACT_ON,VAR_3
+STATUS_RF_KILL_MASK,VAR_4
+cancel_delayed_work,FUNC_1
+ipw_read_reg32,FUNC_2
+ipw_register_toggle,FUNC_3
+ipw_write_reg32,FUNC_4
+schedule_delayed_work,FUNC_5
+__ipw_led_activity_on,FUNC_6
+priv,VAR_5
+led,VAR_6

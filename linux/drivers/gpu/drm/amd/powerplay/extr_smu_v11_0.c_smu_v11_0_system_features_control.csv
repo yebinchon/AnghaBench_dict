@@ -1,0 +1,11 @@
+SMU_MSG_DisableAllSmuFeatures,VAR_0
+SMU_MSG_EnableAllSmuFeatures,VAR_1
+bitmap_copy,FUNC_0
+smu_feature_get_enabled_mask,FUNC_1
+smu_send_smc_msg,FUNC_2
+smu_v11_0_system_features_control,FUNC_3
+smu,VAR_2
+en,VAR_3
+feature,VAR_4
+feature_mask,VAR_5
+ret,VAR_6

@@ -1,0 +1,12 @@
+IRQD_WAKEUP_ARMED,VAR_0
+IRQS_SUSPENDED,VAR_1
+IRQ_GET_DESC_CHECK_GLOBAL,VAR_2
+__enable_irq,FUNC_0
+irq_get_desc_buslock,FUNC_1
+irq_put_desc_busunlock,FUNC_2
+irqd_is_wakeup_set,FUNC_3
+irqd_set,FUNC_4
+rearm_wake_irq,FUNC_5
+irq,VAR_3
+flags,VAR_4
+desc,VAR_5

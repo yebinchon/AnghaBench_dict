@@ -1,0 +1,16 @@
+IOAPIC_EDGE_TRIG,VAR_0
+IOAPIC_LEVEL_TRIG,VAR_1
+IOAPIC_NUM_PINS,VAR_2
+KVM_IRQCHIP_IOAPIC,VAR_3
+ioapic_service,FUNC_0
+kvm_fire_mask_notifiers,FUNC_1
+kvm_make_scan_ioapic_request,FUNC_2
+ioapic_write_indirect,FUNC_3
+ioapic,VAR_4
+val,VAR_5
+index,VAR_6
+mask_before,VAR_7
+mask_after,VAR_8
+old_remote_irr,VAR_9
+old_delivery_status,VAR_10
+e,VAR_11

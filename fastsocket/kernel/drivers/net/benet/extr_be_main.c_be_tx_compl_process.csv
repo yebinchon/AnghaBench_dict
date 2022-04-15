@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+kfree_skb,FUNC_1
+queue_tail_inc,FUNC_2
+queue_tail_node,FUNC_3
+skb_headlen,FUNC_4
+unmap_tx_frag,FUNC_5
+be_tx_compl_process,FUNC_6
+adapter,VAR_0
+txo,VAR_1
+last_index,VAR_2
+txq,VAR_3
+wrb,VAR_4
+sent_skbs,VAR_5
+sent_skb,VAR_6
+cur_index,VAR_7
+num_wrbs,VAR_8
+unmap_skb_hdr,VAR_9

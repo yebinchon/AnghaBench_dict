@@ -1,0 +1,15 @@
+ExecAppendInitializeDSM,FUNC_0
+ExecBitmapHeapInitializeDSM,FUNC_1
+ExecCustomScanInitializeDSM,FUNC_2
+ExecForeignScanInitializeDSM,FUNC_3
+ExecHashInitializeDSM,FUNC_4
+ExecHashJoinInitializeDSM,FUNC_5
+ExecIndexOnlyScanInitializeDSM,FUNC_6
+ExecIndexScanInitializeDSM,FUNC_7
+ExecSeqScanInitializeDSM,FUNC_8
+ExecSortInitializeDSM,FUNC_9
+nodeTag,FUNC_10
+planstate_tree_walker,FUNC_11
+ExecParallelInitializeDSM,FUNC_12
+planstate,VAR_0
+d,VAR_1

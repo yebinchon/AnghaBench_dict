@@ -1,0 +1,14 @@
+ETH_P_8021AD,VAR_0
+ETH_P_8021Q,VAR_1
+MLX5E_VLAN_RULE_TYPE_MATCH_CTAG_VID,VAR_2
+MLX5E_VLAN_RULE_TYPE_MATCH_STAG_VID,VAR_3
+be16_to_cpu,FUNC_0
+clear_bit,FUNC_1
+mlx5e_del_vlan_rule,FUNC_2
+netdev_priv,FUNC_3
+netdev_update_features,FUNC_4
+mlx5e_vlan_rx_kill_vid,FUNC_5
+dev,VAR_4
+proto,VAR_5
+vid,VAR_6
+priv,VAR_7

@@ -1,0 +1,10 @@
+BNX2X_GLOBAL_RESET_BIT,VAR_0
+BNX2X_RECOVERY_GLOB_REG,VAR_1
+HW_LOCK_RESOURCE_RECOVERY_REG,VAR_2
+REG_RD,FUNC_0
+REG_WR,FUNC_1
+bnx2x_acquire_hw_lock,FUNC_2
+bnx2x_release_hw_lock,FUNC_3
+bnx2x_clear_reset_global,FUNC_4
+bp,VAR_3
+val,VAR_4

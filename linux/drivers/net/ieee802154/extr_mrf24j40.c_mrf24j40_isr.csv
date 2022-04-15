@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+MRF24J40_READSHORT,FUNC_0
+REG_INTSTAT,VAR_2
+disable_irq_nosync,FUNC_1
+enable_irq,FUNC_2
+spi_async,FUNC_3
+mrf24j40_isr,FUNC_4
+irq,VAR_3
+data,VAR_4
+devrec,VAR_5
+ret,VAR_6

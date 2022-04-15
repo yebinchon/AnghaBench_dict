@@ -1,0 +1,10 @@
+EFA_AQ_STATE_POLLING_BIT,VAR_0
+EFA_REGS_ADMIN_INTR_MASK,VAR_1
+EFA_REGS_INTR_MASK_OFF,VAR_2
+clear_bit,FUNC_0
+set_bit,FUNC_1
+writel,FUNC_2
+efa_com_set_admin_polling_mode,FUNC_3
+edev,VAR_3
+polling,VAR_4
+mask_value,VAR_5

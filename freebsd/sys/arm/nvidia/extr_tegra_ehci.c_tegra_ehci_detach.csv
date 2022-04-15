@@ -1,0 +1,16 @@
+EHCI_SCFLG_DONEINIT,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+clk_release,FUNC_2
+device_delete_child,FUNC_3
+device_delete_children,FUNC_4
+device_get_softc,FUNC_5
+ehci_detach,FUNC_6
+ehci_iterate_hw_softc,VAR_3
+usb_bus_mem_free_all,FUNC_7
+tegra_ehci_detach,FUNC_8
+dev,VAR_4
+sc,VAR_5
+esc,VAR_6

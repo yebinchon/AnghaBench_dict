@@ -1,0 +1,16 @@
+NVMET_RDMA_REQ_INVALIDATE_RKEY,VAR_0
+NVME_SC_INTERNAL,VAR_1
+get_unaligned_le24,FUNC_0
+get_unaligned_le32,FUNC_1
+le64_to_cpu,FUNC_2
+nvmet_data_dir,FUNC_3
+nvmet_req_alloc_sgl,FUNC_4
+rdma_rw_ctx_init,FUNC_5
+nvmet_rdma_map_sgl_keyed,FUNC_6
+rsp,VAR_2
+sgl,VAR_3
+invalidate,VAR_4
+cm_id,VAR_5
+addr,VAR_6
+key,VAR_7
+ret,VAR_8

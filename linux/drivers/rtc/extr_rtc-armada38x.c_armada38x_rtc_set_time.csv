@@ -1,0 +1,13 @@
+RTC_TIME,VAR_0
+armada38x_rtc_reset,FUNC_0
+dev_get_drvdata,FUNC_1
+rtc_delayed_write,FUNC_2
+rtc_tm_to_time64,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+armada38x_rtc_set_time,FUNC_6
+dev,VAR_1
+tm,VAR_2
+rtc,VAR_3
+time,VAR_4
+flags,VAR_5

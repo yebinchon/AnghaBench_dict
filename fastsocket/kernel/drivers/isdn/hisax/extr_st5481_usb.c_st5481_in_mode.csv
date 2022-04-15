@@ -1,0 +1,14 @@
+HDLC_56KBIT,VAR_0
+HDLC_BITREVERSE,VAR_1
+L1_MODE_HDLC_56K,VAR_2
+L1_MODE_NULL,VAR_3
+L1_MODE_TRANS,VAR_4
+isdnhdlc_rcv_init,FUNC_0
+st5481_start_rcv,FUNC_1
+st5481_usb_device_ctrl_msg,FUNC_2
+st5481_usb_pipe_reset,FUNC_3
+usb_unlink_urb,FUNC_4
+st5481_in_mode,FUNC_5
+in,VAR_5
+mode,VAR_6
+features,VAR_7

@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_UINT,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+snprintf,FUNC_5
+ath_sysctl_stats_attach_intr,FUNC_6
+sc,VAR_2
+parent,VAR_3
+ctx,VAR_4
+tree,VAR_5
+child,VAR_6
+i,VAR_7
+sn,VAR_8

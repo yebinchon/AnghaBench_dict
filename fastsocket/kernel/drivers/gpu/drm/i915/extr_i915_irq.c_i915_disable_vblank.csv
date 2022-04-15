@@ -1,0 +1,14 @@
+I915_WRITE,FUNC_0
+INSTPM,VAR_0
+INSTPM_AGPBUSY_DIS,VAR_1
+PIPE_START_VBLANK_INTERRUPT_ENABLE,VAR_2
+PIPE_VBLANK_INTERRUPT_ENABLE,VAR_3
+_MASKED_BIT_ENABLE,FUNC_1
+i915_disable_pipestat,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+i915_disable_vblank,FUNC_5
+dev,VAR_4
+pipe,VAR_5
+dev_priv,VAR_6
+irqflags,VAR_7

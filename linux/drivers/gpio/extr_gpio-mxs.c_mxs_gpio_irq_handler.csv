@@ -1,0 +1,14 @@
+PINCTRL_IRQEN,FUNC_0
+PINCTRL_IRQSTAT,FUNC_1
+fls,FUNC_2
+generic_handle_irq,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+irq_find_mapping,FUNC_5
+mxs_flip_edge,FUNC_6
+readl,FUNC_7
+stub1,FUNC_8
+mxs_gpio_irq_handler,FUNC_9
+desc,VAR_0
+irq_stat,VAR_1
+port,VAR_2
+irqoffset,VAR_3

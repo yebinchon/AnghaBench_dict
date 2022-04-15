@@ -1,0 +1,17 @@
+FCPIO_ITMF,VAR_0
+LUN_ADDRESS,VAR_1
+hton24,FUNC_0
+memcpy,FUNC_1
+vnic_wq_copy_next_desc,FUNC_2
+vnic_wq_copy_post,FUNC_3
+fnic_queue_wq_copy_desc_itmf,FUNC_4
+wq,VAR_2
+req_id,VAR_3
+lunmap_id,VAR_4
+tm_req,VAR_5
+tm_id,VAR_6
+lun,VAR_7
+d_id,VAR_8
+r_a_tov,VAR_9
+e_d_tov,VAR_10
+desc,VAR_11

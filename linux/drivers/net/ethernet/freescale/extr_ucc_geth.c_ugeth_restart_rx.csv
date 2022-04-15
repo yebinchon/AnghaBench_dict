@@ -1,0 +1,8 @@
+QE_CR_PROTOCOL_ETHERNET,VAR_0
+QE_RESTART_RX,VAR_1
+qe_issue_cmd,FUNC_0
+ucc_fast_get_qe_cr_subblock,FUNC_1
+ugeth_restart_rx,FUNC_2
+ugeth,VAR_2
+uccf,VAR_3
+cecr_subblock,VAR_4

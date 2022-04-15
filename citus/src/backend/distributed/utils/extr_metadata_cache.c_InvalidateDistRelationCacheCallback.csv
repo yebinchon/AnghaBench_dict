@@ -1,0 +1,14 @@
+DistTableCacheHash,VAR_0
+HASH_FIND,VAR_1
+InvalidOid,VAR_2
+InvalidateDistObjectCache,FUNC_0
+InvalidateDistTableCache,FUNC_1
+InvalidateMetadataSystemCache,FUNC_2
+MetadataCache,VAR_3
+hash_search,FUNC_3
+InvalidateDistRelationCacheCallback,FUNC_4
+argument,VAR_4
+relationId,VAR_5
+hashKey,VAR_6
+foundInCache,VAR_7
+cacheEntry,VAR_8

@@ -1,0 +1,17 @@
+A2MP_CREATEPHYSLINK_RSP,VAR_0
+A2MP_STATUS_SUCCESS,VAR_1
+A2MP_STATUS_UNABLE_START_LINK_CREATION,VAR_2
+AMP_LINK,VAR_3
+BT_CONNECT,VAR_4
+BT_DBG,FUNC_0
+WRITE_REMOTE_AMP_ASSOC,VAR_5
+a2mp_send,FUNC_1
+amp_mgr_lookup_by_state,FUNC_2
+amp_mgr_put,FUNC_3
+hci_conn_hash_lookup_state,FUNC_4
+a2mp_send_create_phy_link_rsp,FUNC_5
+hdev,VAR_6
+status,VAR_7
+mgr,VAR_8
+rsp,VAR_9
+hs_hcon,VAR_10

@@ -1,0 +1,11 @@
+CONNECTION_BAD,VAR_0
+PGASYNC_IDLE,VAR_1
+PQTRANS_IDLE,VAR_2
+pqClearAsyncResult,FUNC_0
+pqDropConnection,FUNC_1
+pqDropServerData,FUNC_2
+release_conn_addrinfo,FUNC_3
+resetPQExpBuffer,FUNC_4
+sendTerminateConn,FUNC_5
+closePGconn,FUNC_6
+conn,VAR_3

@@ -1,0 +1,13 @@
+BLK_STS_IOERR,VAR_0
+BLK_STS_OK,VAR_1
+NBD_CMD_REQUEUED,VAR_2
+blk_mq_rq_to_pdu,FUNC_0
+clear_bit,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+nbd_handle_cmd,FUNC_4
+nbd_queue_rq,FUNC_5
+hctx,VAR_3
+bd,VAR_4
+cmd,VAR_5
+ret,VAR_6

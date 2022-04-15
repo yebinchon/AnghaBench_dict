@@ -1,0 +1,16 @@
+EAFNOSUPPORT,VAR_0
+EINVAL,VAR_1
+EPROTONOSUPPORT,VAR_2
+LINUX_SOCK_MAX,VAR_3
+LINUX_SOCK_TYPE_MASK,VAR_4
+PF_LOCAL,VAR_5
+PF_UNIX,VAR_6
+PTRIN,FUNC_0
+linux_set_socket_flags,FUNC_1
+linux_to_bsd_domain,FUNC_2
+sys_socketpair,FUNC_3
+linux_socketpair,FUNC_4
+td,VAR_7
+args,VAR_8
+bsd_args,VAR_9
+error,VAR_10

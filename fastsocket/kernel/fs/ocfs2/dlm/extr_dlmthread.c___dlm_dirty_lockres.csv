@@ -1,0 +1,11 @@
+DLM_LOCK_RES_BLOCK_DIRTY,VAR_0
+DLM_LOCK_RES_DIRTY,VAR_1
+DLM_LOCK_RES_MIGRATING,VAR_2
+assert_spin_locked,FUNC_0
+dlm_lockres_get,FUNC_1
+list_add_tail,FUNC_2
+list_empty,FUNC_3
+mlog_entry,FUNC_4
+__dlm_dirty_lockres,FUNC_5
+dlm,VAR_3
+res,VAR_4

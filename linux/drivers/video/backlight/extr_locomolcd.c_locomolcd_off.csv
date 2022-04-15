@@ -1,0 +1,11 @@
+LOCOMO_GPIO_LCD_MOD,VAR_0
+LOCOMO_GPIO_LCD_VEE_ON,VAR_1
+LOCOMO_GPIO_LCD_VSHA_ON,VAR_2
+LOCOMO_GPIO_LCD_VSHD_ON,VAR_3
+LOCOMO_TC,VAR_4
+locomo_gpio_write,FUNC_0
+locomo_writel,FUNC_1
+locomolcd_dev,VAR_5
+mdelay,FUNC_2
+locomolcd_off,FUNC_3
+comadj,VAR_6

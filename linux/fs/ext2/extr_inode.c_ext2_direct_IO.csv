@@ -1,0 +1,15 @@
+WRITE,VAR_0
+blockdev_direct_IO,FUNC_0
+ext2_get_block,VAR_1
+ext2_write_failed,FUNC_1
+iov_iter_count,FUNC_2
+iov_iter_rw,FUNC_3
+ext2_direct_IO,FUNC_4
+iocb,VAR_2
+iter,VAR_3
+file,VAR_4
+mapping,VAR_5
+inode,VAR_6
+count,VAR_7
+offset,VAR_8
+ret,VAR_9

@@ -1,0 +1,12 @@
+WL1271_FLAG_VIF_CHANGE_IN_PROGRESS,VAR_0
+clear_bit,FUNC_0
+set_bit,FUNC_1
+wl1271_op_add_interface,FUNC_2
+wl1271_op_remove_interface,FUNC_3
+wl12xx_op_change_interface,FUNC_4
+hw,VAR_1
+vif,VAR_2
+new_type,VAR_3
+p2p,VAR_4
+wl,VAR_5
+ret,VAR_6

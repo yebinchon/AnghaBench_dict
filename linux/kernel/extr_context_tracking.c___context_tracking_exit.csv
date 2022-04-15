@@ -1,0 +1,13 @@
+CONTEXT_KERNEL,VAR_0
+CONTEXT_USER,VAR_1
+__this_cpu_read,FUNC_0
+__this_cpu_write,FUNC_1
+context_tracking,VAR_2
+context_tracking_recursion_enter,FUNC_2
+context_tracking_recursion_exit,FUNC_3
+current,VAR_3
+rcu_user_exit,FUNC_4
+trace_user_exit,FUNC_5
+vtime_user_exit,FUNC_6
+__context_tracking_exit,FUNC_7
+state,VAR_4

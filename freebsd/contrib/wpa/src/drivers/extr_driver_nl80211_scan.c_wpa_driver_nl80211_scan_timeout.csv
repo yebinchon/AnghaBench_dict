@@ -1,0 +1,12 @@
+EVENT_SCAN_RESULTS,VAR_0
+MSG_DEBUG,VAR_1
+NL80211_IFTYPE_UNSPECIFIED,VAR_2
+nl80211_abort_scan,FUNC_0
+nl80211_abort_vendor_scan,FUNC_1
+wpa_driver_nl80211_set_mode,FUNC_2
+wpa_printf,FUNC_3
+wpa_supplicant_event,FUNC_4
+wpa_driver_nl80211_scan_timeout,FUNC_5
+eloop_ctx,VAR_3
+timeout_ctx,VAR_4
+drv,VAR_5

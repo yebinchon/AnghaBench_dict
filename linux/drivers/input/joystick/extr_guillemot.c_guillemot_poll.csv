@@ -1,0 +1,15 @@
+ABS_HAT0X,VAR_0
+ABS_HAT0Y,VAR_1
+GUILLEMOT_MAX_LENGTH,VAR_2
+gameport_get_drvdata,FUNC_0
+guillemot_hat_to_axis,VAR_3
+guillemot_read_packet,FUNC_1
+input_report_abs,FUNC_2
+input_report_key,FUNC_3
+input_sync,FUNC_4
+guillemot_poll,FUNC_5
+gameport,VAR_4
+guillemot,VAR_5
+dev,VAR_6
+data,VAR_7
+i,VAR_8

@@ -1,0 +1,10 @@
+RTD119X_TCWCR,VAR_0
+RTD119X_TCWCR_WDEN_DISABLED,VAR_1
+RTD119X_TCWCR_WDEN_MASK,VAR_2
+readl_relaxed,FUNC_0
+watchdog_get_drvdata,FUNC_1
+writel,FUNC_2
+rtd119x_wdt_stop,FUNC_3
+wdev,VAR_3
+data,VAR_4
+val,VAR_5

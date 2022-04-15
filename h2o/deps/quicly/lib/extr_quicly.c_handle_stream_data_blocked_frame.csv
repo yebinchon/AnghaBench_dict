@@ -1,0 +1,17 @@
+QUICLY_PROBE,FUNC_0
+QUICLY_TRANSPORT_ERROR_FRAME_ENCODING,VAR_0
+STREAM_DATA_BLOCKED_RECEIVE,VAR_1
+probe_now,FUNC_1
+quicly_decode_stream_data_blocked_frame,FUNC_2
+quicly_get_stream,FUNC_3
+quicly_is_client,FUNC_4
+quicly_maxsender_request_transmit,FUNC_5
+quicly_stream_has_receive_side,FUNC_6
+sched_stream_control,FUNC_7
+should_send_max_stream_data,FUNC_8
+handle_stream_data_blocked_frame,FUNC_9
+conn,VAR_2
+state,VAR_3
+frame,VAR_4
+stream,VAR_5
+ret,VAR_6

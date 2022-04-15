@@ -1,0 +1,17 @@
+ISL29018_CMD1_OPMODE_IR_ONCE,VAR_0
+ISL29018_CMD1_OPMODE_PROX_ONCE,VAR_1
+ISL29018_CMD2_SCHEME_MASK,VAR_2
+ISL29018_CMD2_SCHEME_SHIFT,VAR_3
+ISL29018_REG_ADD_COMMAND2,VAR_4
+dev_err,FUNC_0
+isl29018_read_sensor_input,FUNC_1
+regmap_get_device,FUNC_2
+regmap_update_bits,FUNC_3
+isl29018_read_proximity_ir,FUNC_4
+chip,VAR_5
+scheme,VAR_6
+near_ir,VAR_7
+status,VAR_8
+prox_data,VAR_9
+ir_data,VAR_10
+dev,VAR_11

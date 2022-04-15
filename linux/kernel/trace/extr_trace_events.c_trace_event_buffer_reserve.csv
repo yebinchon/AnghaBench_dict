@@ -1,0 +1,13 @@
+CONFIG_PREEMPTION,VAR_0
+EVENT_FILE_FL_PID_FILTER,VAR_1
+IS_ENABLED,FUNC_0
+local_save_flags,FUNC_1
+preempt_count,FUNC_2
+ring_buffer_event_data,FUNC_3
+trace_event_buffer_lock_reserve,FUNC_4
+trace_event_ignore_this_pid,FUNC_5
+trace_event_buffer_reserve,FUNC_6
+fbuffer,VAR_2
+trace_file,VAR_3
+len,VAR_4
+event_call,VAR_5

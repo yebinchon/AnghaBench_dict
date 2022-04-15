@@ -1,0 +1,9 @@
+PCI_COMMAND,VAR_0
+SLIC_REG_RESET,VAR_1
+SLIC_RESET_MAGIC,VAR_2
+mdelay,FUNC_0
+pci_read_config_word,FUNC_1
+slic_write,FUNC_2
+slic_card_reset,FUNC_3
+sdev,VAR_3
+cmd,VAR_4

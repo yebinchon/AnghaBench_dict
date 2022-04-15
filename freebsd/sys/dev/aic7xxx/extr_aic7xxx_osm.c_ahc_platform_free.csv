@@ -1,0 +1,15 @@
+AC_LOST_DEVICE,VAR_0
+EVENTHANDLER_DEREGISTER,FUNC_0
+M_DEVBUF,VAR_1
+TRUE,VAR_2
+bus_release_resource,FUNC_1
+cam_sim_free,FUNC_2
+cam_sim_path,FUNC_3
+free,FUNC_4
+shutdown_final,VAR_3
+xpt_async,FUNC_5
+xpt_bus_deregister,FUNC_6
+xpt_free_path,FUNC_7
+ahc_platform_free,FUNC_8
+ahc,VAR_4
+pdata,VAR_5

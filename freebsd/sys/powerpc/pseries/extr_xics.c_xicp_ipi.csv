@@ -1,0 +1,15 @@
+H_IPI,VAR_0
+OPAL_INT_SET_MFRR,VAR_1
+PSL_HV,VAR_2
+XICP_PRIORITY,VAR_3
+bus_write_1,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+mfmsr,FUNC_3
+opal_call,FUNC_4
+pcpu_find,FUNC_5
+phyp_hcall,FUNC_6
+xicp_mem_for_cpu,FUNC_7
+xicp_ipi,FUNC_8
+dev,VAR_4
+cpu,VAR_5

@@ -1,0 +1,16 @@
+CM_OPEN_SPDIF_PLAYBACK,VAR_0
+SNDRV_PCM_FMTBIT_S32_LE,VAR_1
+SNDRV_PCM_HW_PARAM_BUFFER_SIZE,VAR_2
+SNDRV_PCM_RATE_88200,VAR_3
+SNDRV_PCM_RATE_96000,VAR_4
+open_device_check,FUNC_0
+snd_cmipci_playback_iec958_subframe,VAR_5
+snd_cmipci_playback_spdif,VAR_6
+snd_pcm_hw_constraint_minmax,FUNC_1
+snd_pcm_hw_constraint_msbits,FUNC_2
+snd_pcm_substream_chip,FUNC_3
+snd_cmipci_playback_spdif_open,FUNC_4
+substream,VAR_7
+cm,VAR_8
+runtime,VAR_9
+err,VAR_10

@@ -1,0 +1,9 @@
+ARC_REG_TLBCOMMAND,VAR_0
+ARC_REG_TLBINDEX,VAR_1
+ARC_REG_TLBPD0,VAR_2
+TLBProbe,VAR_3
+read_aux_reg,FUNC_0
+write_aux_reg,FUNC_1
+tlb_entry_lkup,FUNC_2
+vaddr_n_asid,VAR_4
+idx,VAR_5

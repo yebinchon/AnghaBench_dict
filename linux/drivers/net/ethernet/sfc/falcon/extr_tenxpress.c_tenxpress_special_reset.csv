@@ -1,0 +1,15 @@
+MDIO_MMD_PMAPMD,VAR_0
+PMA_PMD_EXT_SSR_LBN,VAR_1
+PMA_PMD_XCONTROL_REG,VAR_2
+TENXPRESS_REQUIRED_DEVS,VAR_3
+ef4_mdio_read,FUNC_0
+ef4_mdio_wait_reset_mmds,FUNC_1
+ef4_mdio_write,FUNC_2
+falcon_start_nic_stats,FUNC_3
+falcon_stop_nic_stats,FUNC_4
+mdelay,FUNC_5
+tenxpress_init,FUNC_6
+tenxpress_special_reset,FUNC_7
+efx,VAR_4
+rc,VAR_5
+reg,VAR_6

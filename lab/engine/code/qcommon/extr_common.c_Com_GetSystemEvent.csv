@@ -1,0 +1,17 @@
+Com_QueueEvent,FUNC_0
+MASK_QUEUED_EVENTS,VAR_0
+SE_CONSOLE,VAR_1
+Sys_ConsoleInput,FUNC_1
+Sys_Milliseconds,FUNC_2
+Z_Malloc,FUNC_3
+eventHead,VAR_2
+eventQueue,VAR_3
+eventTail,VAR_4
+memset,FUNC_4
+strcpy,FUNC_5
+strlen,FUNC_6
+Com_GetSystemEvent,FUNC_7
+ev,VAR_5
+s,VAR_6
+b,VAR_7
+len,VAR_8

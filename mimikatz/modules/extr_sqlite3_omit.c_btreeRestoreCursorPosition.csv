@@ -1,0 +1,14 @@
+CURSOR_FAULT,VAR_0
+CURSOR_INVALID,VAR_1
+CURSOR_REQUIRESEEK,VAR_2
+CURSOR_SKIPNEXT,VAR_3
+CURSOR_VALID,VAR_4
+SQLITE_OK,VAR_5
+assert,FUNC_0
+btreeMoveto,FUNC_1
+cursorOwnsBtShared,FUNC_2
+sqlite3_free,FUNC_3
+btreeRestoreCursorPosition,FUNC_4
+pCur,VAR_6
+rc,VAR_7
+skipNext,VAR_8

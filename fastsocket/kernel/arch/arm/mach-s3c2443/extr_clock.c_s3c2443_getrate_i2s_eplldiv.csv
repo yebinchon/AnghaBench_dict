@@ -1,0 +1,9 @@
+S3C2443_CLKDIV1,VAR_0
+S3C2443_CLKDIV1_I2SDIV_MASK,VAR_1
+S3C2443_CLKDIV1_I2SDIV_SHIFT,VAR_2
+__raw_readl,FUNC_0
+clk_get_rate,FUNC_1
+s3c2443_getrate_i2s_eplldiv,FUNC_2
+clk,VAR_3
+parent_rate,VAR_4
+div,VAR_5

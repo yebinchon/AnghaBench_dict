@@ -1,0 +1,17 @@
+AbortCurrentTransaction,FUNC_0
+CurrentMemoryContext,VAR_0
+ERRCODE_INVALID_TRANSACTION_TERMINATION,VAR_1
+ERROR,VAR_2
+HoldPinnedPortals,FUNC_1
+IsSubTransaction,FUNC_2
+MemoryContextSwitchTo,FUNC_3
+RestoreTransactionCharacteristics,FUNC_4
+SaveTransactionCharacteristics,FUNC_5
+StartTransactionCommand,FUNC_6
+_SPI_current,VAR_3
+ereport,FUNC_7
+errcode,FUNC_8
+errmsg,FUNC_9
+_SPI_rollback,FUNC_10
+chain,VAR_4
+oldcontext,VAR_5

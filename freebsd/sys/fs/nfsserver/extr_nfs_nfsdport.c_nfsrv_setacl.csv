@@ -1,0 +1,15 @@
+ACL_MAX_ENTRIES,VAR_0
+ACL_TYPE_NFS4,VAR_1
+ENOENT,VAR_2
+NFSERR_ATTRNOTSUPP,VAR_3
+NFSEXITCODE,FUNC_0
+VOP_SETACL,FUNC_1
+nfs_supportsnfsv4acls,FUNC_2
+nfsrv_dssetacl,FUNC_3
+nfsrv_useacl,VAR_4
+nfsrv_setacl,FUNC_4
+vp,VAR_5
+aclp,VAR_6
+cred,VAR_7
+p,VAR_8
+error,VAR_9

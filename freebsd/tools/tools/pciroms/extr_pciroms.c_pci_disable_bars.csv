@@ -1,0 +1,10 @@
+PCIOCWRITE,VAR_0
+PCI_CFG_CMD,VAR_1
+PCI_CFG_ROM_BAR,VAR_2
+ioctl,FUNC_0
+perror,FUNC_1
+pci_disable_bars,FUNC_2
+pci_fd,VAR_3
+dev,VAR_4
+oldcmd,VAR_5
+io,VAR_6

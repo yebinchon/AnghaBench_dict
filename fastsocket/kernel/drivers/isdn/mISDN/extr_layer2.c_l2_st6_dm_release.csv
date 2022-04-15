@@ -1,0 +1,14 @@
+DL_RELEASE_CNF,VAR_0
+MDL_STATUS_DOWN_IND,VAR_1
+ST_L2_4,VAR_2
+get_PollFlagFree,FUNC_0
+l2_tei,FUNC_1
+lapb_dl_release_l2l3,FUNC_2
+mISDN_FsmChangeState,FUNC_3
+stop_t200,FUNC_4
+l2_st6_dm_release,FUNC_5
+fi,VAR_3
+event,VAR_4
+arg,VAR_5
+l2,VAR_6
+skb,VAR_7

@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+RTAS_DATA_BUF_SIZE,VAR_1
+RTAS_IO_EVENTS,VAR_2
+RTAS_VECTOR_EXTERNAL_INTERRUPT,VAR_3
+__pa,FUNC_0
+atomic_notifier_call_chain,FUNC_1
+ioei_check_exception_token,VAR_4
+ioei_find_event,FUNC_2
+ioei_rtas_buf,VAR_5
+pseries_ioei_notifier_list,VAR_6
+rtas_call,FUNC_3
+virq_to_hw,FUNC_4
+ioei_interrupt,FUNC_5
+irq,VAR_7
+dev_id,VAR_8
+event,VAR_9
+rtas_rc,VAR_10

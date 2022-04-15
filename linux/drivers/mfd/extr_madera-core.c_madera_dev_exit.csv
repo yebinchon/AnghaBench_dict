@@ -1,0 +1,9 @@
+disable_irq,FUNC_0
+madera_enable_hard_reset,FUNC_1
+mfd_remove_devices,FUNC_2
+pm_runtime_disable,FUNC_3
+regulator_bulk_disable,FUNC_4
+regulator_disable,FUNC_5
+regulator_put,FUNC_6
+madera_dev_exit,FUNC_7
+madera,VAR_0

@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+DENTIST_DISPCLK_CNTL,VAR_0
+DENTIST_DIVIDER_RANGE_SCALE_FACTOR,VAR_1
+DENTIST_DPREFCLK_WDIVIDER,VAR_2
+DPREFCLK_CNTL,VAR_3
+DPREFCLK_SRC_SEL,VAR_4
+REG_GET,FUNC_1
+TO_DCE_CLK_MGR,FUNC_2
+clk_mgr_adjust_dp_ref_freq_for_ss,FUNC_3
+dentist_get_divider_from_did,FUNC_4
+dce_get_dp_ref_freq_khz,FUNC_5
+clk_mgr,VAR_5
+clk_mgr_dce,VAR_6
+dprefclk_wdivider,VAR_7
+dprefclk_src_sel,VAR_8
+dp_ref_clk_khz,VAR_9
+target_div,VAR_10

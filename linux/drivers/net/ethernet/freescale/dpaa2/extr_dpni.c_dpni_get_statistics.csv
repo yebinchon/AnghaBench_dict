@@ -1,0 +1,16 @@
+DPNI_CMDID_GET_STATISTICS,VAR_0
+DPNI_STATISTICS_CNT,VAR_1
+le64_to_cpu,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpni_get_statistics,FUNC_3
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+page,VAR_5
+stat,VAR_6
+cmd,VAR_7
+cmd_params,VAR_8
+rsp_params,VAR_9
+i,VAR_10
+err,VAR_11

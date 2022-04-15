@@ -1,0 +1,12 @@
+B44_FLAG_EXTERNAL_PHY,VAR_0
+BMCR_RESET,VAR_1
+ENODEV,VAR_2
+MII_BMCR,VAR_3
+b44_readphy,FUNC_0
+b44_writephy,FUNC_1
+netdev_err,FUNC_2
+udelay,FUNC_3
+b44_phy_reset,FUNC_4
+bp,VAR_4
+val,VAR_5
+err,VAR_6

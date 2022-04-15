@@ -1,0 +1,17 @@
+PSW_MASK_EXT,VAR_0
+PSW_MASK_IO,VAR_1
+SIGP_CC_STATUS_STORED,VAR_2
+SIGP_STATUS_INCORRECT_STATE,VAR_3
+__inject_sigp_emergency,FUNC_0
+is_vcpu_idle,FUNC_1
+is_vcpu_stopped,FUNC_2
+__sigp_conditional_emergency,FUNC_3
+vcpu,VAR_4
+dst_vcpu,VAR_5
+asn,VAR_6
+reg,VAR_7
+psw_int_mask,VAR_8
+p_asn,VAR_9
+s_asn,VAR_10
+psw,VAR_11
+idle,VAR_12

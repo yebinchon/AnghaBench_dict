@@ -1,0 +1,14 @@
+CALL_i32,VAR_0
+GROUP_0F,VAR_1
+JMP_i32,VAR_2
+JUMP_LABEL,VAR_3
+PATCH_MW,VAR_4
+SLJIT_FAST_CALL,VAR_5
+SLJIT_JUMP,VAR_6
+get_jump_code,FUNC_0
+sljit_unaligned_store_sw,FUNC_1
+generate_far_jump_code,FUNC_2
+jump,VAR_7
+code_ptr,VAR_8
+type,VAR_9
+executable_offset,VAR_10

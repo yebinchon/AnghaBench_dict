@@ -1,0 +1,14 @@
+RME32_BUFFER_SIZE,VAR_0
+RME32_IO_CONTROL_REGISTER,VAR_1
+RME32_IO_RESET_POS,VAR_2
+RME32_WCR_MUTE,VAR_3
+RME32_WCR_SEL,VAR_4
+memset,FUNC_0
+snd_pcm_lib_buffer_bytes,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+writel,FUNC_5
+snd_rme32_playback_prepare,FUNC_6
+substream,VAR_5
+rme32,VAR_6

@@ -1,0 +1,15 @@
+ACPI_MAX_SYS_NOTIFY,VAR_0
+NOTIFY_BRN_MAX,VAR_1
+NOTIFY_BRN_MIN,VAR_2
+acpi_bus_generate_netlink_event,FUNC_0
+acpi_driver_data,FUNC_1
+dev_name,FUNC_2
+eeepc_backlight_notify,FUNC_3
+eeepc_input_notify,FUNC_4
+eeepc_acpi_notify,FUNC_5
+device,VAR_3
+event,VAR_4
+eeepc,VAR_5
+old_brightness,VAR_6
+new_brightness,VAR_7
+count,VAR_8

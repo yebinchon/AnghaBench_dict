@@ -1,0 +1,9 @@
+__skb_dequeue,FUNC_0
+netdev_get_tx_queue,FUNC_1
+netif_tx_wake_queue,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+xenvif_rx_dequeue,FUNC_5
+queue,VAR_0
+skb,VAR_1
+txq,VAR_2

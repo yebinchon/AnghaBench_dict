@@ -1,0 +1,10 @@
+PVSCSI_REG_OFFSET_COMMAND,VAR_0
+PVSCSI_REG_OFFSET_COMMAND_DATA,VAR_1
+pvscsi_reg_write,FUNC_0
+pvscsi_write_cmd_desc,FUNC_1
+adapter,VAR_2
+cmd,VAR_3
+desc,VAR_4
+len,VAR_5
+ptr,VAR_6
+i,VAR_7

@@ -1,0 +1,16 @@
+SMB2_LOCKFLAG_FAIL_IMMEDIATELY,VAR_0
+SMB2_LOCKFLAG_UNLOCK,VAR_1
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+smb2_lockv,FUNC_2
+SMB2_lock,FUNC_3
+xid,VAR_2
+tcon,VAR_3
+persist_fid,VAR_4
+volatile_fid,VAR_5
+pid,VAR_6
+length,VAR_7
+offset,VAR_8
+lock_flags,VAR_9
+wait,VAR_10
+lock,VAR_11

@@ -1,0 +1,17 @@
+get_idle_thread,FUNC_0
+is_idle_sample,FUNC_1
+machine__findnew_thread,FUNC_2
+perf_evsel__intval,FUNC_3
+pr_debug,FUNC_4
+pr_err,FUNC_5
+save_idle_callchain,FUNC_6
+save_task_callchain,FUNC_7
+thread__priv,FUNC_8
+timehist_get_thread,FUNC_9
+sched,VAR_0
+sample,VAR_1
+machine,VAR_2
+evsel,VAR_3
+thread,VAR_4
+idle,VAR_5
+itr,VAR_6

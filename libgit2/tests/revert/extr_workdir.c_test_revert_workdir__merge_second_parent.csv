@@ -1,0 +1,17 @@
+GIT_RESET_HARD,VAR_0
+GIT_REVERT_OPTIONS_INIT,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_commit_free,FUNC_2
+git_commit_lookup,FUNC_3
+git_oid_fromstr,FUNC_4
+git_reset,FUNC_5
+git_revert,FUNC_6
+merge_test_index,FUNC_7
+repo,VAR_2
+repo_index,VAR_3
+test_revert_workdir__merge_second_parent,FUNC_8
+head,VAR_4
+head_oid,VAR_5
+opts,VAR_6
+merge_index_entries,VAR_7

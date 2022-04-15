@@ -1,0 +1,13 @@
+OVS_KEY_ATTR_ETHERTYPE,VAR_0
+OVS_KEY_ATTR_VLAN,VAR_1
+SW_FLOW_KEY_PUT,FUNC_0
+eth,VAR_2
+likely,FUNC_1
+nla_get_be16,FUNC_2
+encode_vlan_from_nlattrs,FUNC_3
+match,VAR_3
+a,VAR_4
+is_mask,VAR_5
+inner,VAR_6
+tci,VAR_7
+tpid,VAR_8

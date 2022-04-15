@@ -1,0 +1,13 @@
+CONFIG_SOFT_WATCHDOG_PRETIMEOUT,VAR_0
+HRTIMER_MODE_REL,VAR_1
+IS_ENABLED,FUNC_0
+THIS_MODULE,VAR_2
+__module_get,FUNC_1
+hrtimer_active,FUNC_2
+hrtimer_cancel,FUNC_3
+hrtimer_start,FUNC_4
+ktime_set,FUNC_5
+softdog_preticktock,VAR_3
+softdog_ticktock,VAR_4
+softdog_ping,FUNC_6
+w,VAR_5

@@ -1,0 +1,14 @@
+ELS_FLOGI,VAR_0
+FC_CPC_SEQ,VAR_1
+FC_CPC_VALID,VAR_2
+FC_SP_FT_CIRO,VAR_3
+htonl,FUNC_0
+htons,FUNC_1
+memset,FUNC_2
+put_unaligned_be64,FUNC_3
+fc_lport_flogi_fill,FUNC_4
+lport,VAR_4
+flogi,VAR_5
+op,VAR_6
+sp,VAR_7
+cp,VAR_8

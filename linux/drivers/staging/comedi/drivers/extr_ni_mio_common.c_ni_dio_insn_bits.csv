@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+NISTC_DIO_IN_REG,VAR_1
+NISTC_DIO_OUT_PARALLEL,FUNC_0
+NISTC_DIO_OUT_PARALLEL_MASK,VAR_2
+NISTC_DIO_OUT_REG,VAR_3
+NISTC_DIO_SDIN,VAR_4
+NISTC_DIO_SDOUT,VAR_5
+comedi_dio_update_state,FUNC_1
+ni_stc_readw,FUNC_2
+ni_stc_writew,FUNC_3
+ni_dio_insn_bits,FUNC_4
+dev,VAR_6
+s,VAR_7
+insn,VAR_8
+data,VAR_9
+devpriv,VAR_10

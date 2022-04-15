@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+FMODE_WRITE,VAR_1
+NVRAM_EXCL,VAR_2
+NVRAM_WRITE,VAR_3
+O_EXCL,VAR_4
+lock_kernel,FUNC_0
+nvram_open_cnt,VAR_5
+nvram_open_mode,VAR_6
+nvram_state_lock,VAR_7
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+unlock_kernel,FUNC_3
+nvram_open,FUNC_4
+inode,VAR_8
+file,VAR_9

@@ -1,0 +1,9 @@
+NVME_STATUS_GET_SC,FUNC_0
+NVME_STATUS_GET_SCT,FUNC_1
+get_status_string,FUNC_2
+nvme_printf,FUNC_3
+nvme_qpair_print_completion,FUNC_4
+qpair,VAR_0
+cpl,VAR_1
+sct,VAR_2
+sc,VAR_3

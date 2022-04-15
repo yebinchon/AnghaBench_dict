@@ -1,0 +1,13 @@
+OPEN_READ,VAR_0
+add_timer,FUNC_0
+input_avail,FUNC_1
+jiffies,VAR_1
+lock,VAR_2
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+uart6850_input_loop,FUNC_4
+uart6850_opened,VAR_3
+uart6850_timer,VAR_4
+poll_uart6850,FUNC_5
+dummy,VAR_5
+flags,VAR_6

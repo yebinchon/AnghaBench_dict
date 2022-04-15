@@ -1,0 +1,14 @@
+SCSI_RESPONSE_DATA_PRES_SENSE_DATA,VAR_0
+SSP_RESPONSE_IU_MAX_DATA,VAR_1
+sati_cb_get_response_iu_address,FUNC_0
+sati_cb_get_sense_data_address,FUNC_1
+sati_cb_get_sense_data_length,FUNC_2
+sati_cb_set_scsi_status,FUNC_3
+sati_scsi_common_response_iu_construct,FUNC_4
+sati_scsi_get_sense_data_length,FUNC_5
+sati_scsi_get_sense_data_buffer,FUNC_6
+sequence,VAR_2
+scsi_io,VAR_3
+scsi_status,VAR_4
+sense_data,VAR_5
+sense_len,VAR_6

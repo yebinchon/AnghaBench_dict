@@ -1,0 +1,12 @@
+IB_UVERBS_QPF_GRH_REQUIRED,VAR_0
+OPA_TO_IB_UCAST_LID,FUNC_0
+ib_lid_cpu16,FUNC_1
+make_port_cap_flags,FUNC_2
+rdma_cap_opa_ah,FUNC_3
+rdma_is_grh_required,FUNC_4
+rdma_port_get_link_layer,FUNC_5
+copy_port_attr_to_resp,FUNC_6
+attr,VAR_1
+resp,VAR_2
+ib_dev,VAR_3
+port_num,VAR_4

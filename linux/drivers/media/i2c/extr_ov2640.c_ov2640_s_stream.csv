@@ -1,0 +1,12 @@
+__v4l2_ctrl_handler_setup,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+ov2640_set_params,FUNC_3
+to_ov2640,FUNC_4
+v4l2_get_subdevdata,FUNC_5
+ov2640_s_stream,FUNC_6
+sd,VAR_0
+on,VAR_1
+client,VAR_2
+priv,VAR_3
+ret,VAR_4

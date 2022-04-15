@@ -1,0 +1,17 @@
+IEEE80211_MSG_MESH,VAR_0
+IEEE80211_NOTE_MAC,FUNC_0
+IEEE80211_TX_UNLOCK_ASSERT,FUNC_1
+KASSERT,FUNC_2
+ieee80211_mesh_rt_find,FUNC_3
+ieee80211_mesh_rt_update,FUNC_4
+mesh_forward,FUNC_5
+ticks_to_msecs,FUNC_6
+mesh_recv_indiv_data_to_fwrd,FUNC_7
+vap,VAR_1
+m,VAR_2
+wh,VAR_3
+mc,VAR_4
+qwh,VAR_5
+ms,VAR_6
+rt_meshda,VAR_7
+rt_meshsa,VAR_8

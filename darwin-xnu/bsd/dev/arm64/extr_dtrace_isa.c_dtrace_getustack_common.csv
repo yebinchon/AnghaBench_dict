@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+RETURN_OFFSET,VAR_0
+RETURN_OFFSET64,VAR_1
+current_proc,FUNC_1
+dtrace_fuword32,FUNC_2
+dtrace_fuword64,FUNC_3
+proc_is64bit_data,FUNC_4
+dtrace_getustack_common,FUNC_5
+pcstack,VAR_2
+pcstack_limit,VAR_3
+pc,VAR_4
+sp,VAR_5
+ret,VAR_6
+is64bit,VAR_7

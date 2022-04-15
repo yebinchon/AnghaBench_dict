@@ -1,0 +1,15 @@
+CARD_BOOT_TIMEOUT,VAR_0
+EBUSY,VAR_1
+HZ,VAR_2
+K1212_DB_StartDSPDownload,VAR_3
+K1212_DEBUG_PRINTK,FUNC_0
+K1212_STATE_DSP_IN_PROCESS,VAR_4
+UpperWordSwap,FUNC_1
+snd_korg1212_OnDSPDownloadComplete,FUNC_2
+snd_korg1212_Send1212Command,FUNC_3
+snd_korg1212_setCardState,FUNC_4
+stateName,VAR_5
+wait_event_timeout,FUNC_5
+snd_korg1212_downloadDSPCode,FUNC_6
+korg1212,VAR_6
+rc,VAR_7

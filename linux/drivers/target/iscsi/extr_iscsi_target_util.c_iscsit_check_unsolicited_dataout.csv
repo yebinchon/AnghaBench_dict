@@ -1,0 +1,13 @@
+ISCSI_FLAG_CMD_FINAL,VAR_0
+TCM_INCORRECT_AMOUNT_OF_DATA,VAR_1
+TCM_UNEXPECTED_UNSOLICITED_DATA,VAR_2
+ntoh24,FUNC_0
+pr_err,FUNC_1
+transport_send_check_condition_and_sense,FUNC_2
+iscsit_check_unsolicited_dataout,FUNC_3
+cmd,VAR_3
+buf,VAR_4
+conn,VAR_5
+se_cmd,VAR_6
+hdr,VAR_7
+payload_length,VAR_8

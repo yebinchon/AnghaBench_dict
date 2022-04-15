@@ -1,0 +1,8 @@
+CreateTestPalette,FUNC_0
+FALSE,VAR_0
+GdiPalGetEntries,VAR_1
+NtGdiDoPalette,FUNC_1
+TRUE,VAR_2
+ok_long,FUNC_2
+Test_NtGdiDoPalette_GdiPalGetEntries,FUNC_3
+hPal,VAR_3

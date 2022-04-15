@@ -1,0 +1,15 @@
+IOAPIC_EDGE_TRIG,VAR_0
+RTC_GSI,VAR_1
+ioapic_service,FUNC_0
+rtc_irq_check_coalesced,FUNC_1
+trace_kvm_ioapic_set_irq,FUNC_2
+ioapic_set_irq,FUNC_3
+ioapic,VAR_2
+irq,VAR_3
+irq_level,VAR_4
+line_status,VAR_5
+entry,VAR_6
+mask,VAR_7
+old_irr,VAR_8
+edge,VAR_9
+ret,VAR_10

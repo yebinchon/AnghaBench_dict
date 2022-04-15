@@ -1,0 +1,15 @@
+ENGINE_load_private_key,FUNC_0
+LDNS_STATUS_ENGINE_KEY_NOT_LOADED,VAR_0
+LDNS_STATUS_ERR,VAR_1
+LDNS_STATUS_MEM_ERR,VAR_2
+LDNS_STATUS_OK,VAR_3
+UI_OpenSSL,FUNC_1
+ldns_key_free,FUNC_2
+ldns_key_new,FUNC_3
+ldns_key_set_algorithm,FUNC_4
+ldns_key_new_frm_engine,FUNC_5
+key,VAR_4
+e,VAR_5
+key_id,VAR_6
+alg,VAR_7
+k,VAR_8

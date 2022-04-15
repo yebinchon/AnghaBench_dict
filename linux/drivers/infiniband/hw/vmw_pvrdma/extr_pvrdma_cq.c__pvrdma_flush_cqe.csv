@@ -1,0 +1,15 @@
+get_cqe,FUNC_0
+pvrdma_idx,FUNC_1
+pvrdma_idx_ring_has_data,FUNC_2
+pvrdma_idx_ring_inc,FUNC_3
+unlikely,FUNC_4
+_pvrdma_flush_cqe,FUNC_5
+qp,VAR_0
+cq,VAR_1
+head,VAR_2
+has_data,VAR_3
+items,VAR_4
+curr,VAR_5
+tail,VAR_6
+cqe,VAR_7
+curr_cqe,VAR_8

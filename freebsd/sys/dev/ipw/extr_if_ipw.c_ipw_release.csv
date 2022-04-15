@@ -1,0 +1,15 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+IPW_NDATA,VAR_1
+IPW_NRBD,VAR_2
+IPW_NTBD,VAR_3
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+bus_dmamem_free,FUNC_4
+ipw_release_sbd,FUNC_5
+m_freem,FUNC_6
+ipw_release,FUNC_7
+sc,VAR_4
+sbuf,VAR_5
+i,VAR_6

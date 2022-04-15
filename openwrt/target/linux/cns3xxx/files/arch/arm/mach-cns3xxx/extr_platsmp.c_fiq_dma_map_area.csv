@@ -1,0 +1,17 @@
+CNS3XXX_MAP_AREA,VAR_0
+FIQ_GENERATE,VAR_1
+barrier,FUNC_0
+cpu_online,FUNC_1
+fiq_data,VAR_2
+raw_local_irq_restore,FUNC_2
+raw_local_irq_save,FUNC_3
+smp_mb,FUNC_4
+this_cpu_ptr,FUNC_5
+v6_dma_map_area,FUNC_6
+writel_relaxed,FUNC_7
+fiq_dma_map_area,FUNC_8
+addr,VAR_3
+size,VAR_4
+dir,VAR_5
+flags,VAR_6
+req,VAR_7

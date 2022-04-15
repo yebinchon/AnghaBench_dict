@@ -1,0 +1,12 @@
+HNS3_NIC_STATE_RESETTING,VAR_0
+clear_bit,FUNC_0
+hns3_nic_net_open,FUNC_1
+netdev_err,FUNC_2
+netdev_priv,FUNC_3
+netif_running,FUNC_4
+set_bit,FUNC_5
+hns3_reset_notify_up_enet,FUNC_6
+handle,VAR_1
+kinfo,VAR_2
+priv,VAR_3
+ret,VAR_4

@@ -1,0 +1,15 @@
+ALTERA_SDCARD_LOCK,FUNC_0
+ALTERA_SDCARD_LOCK_ASSERT,FUNC_1
+ALTERA_SDCARD_SECTORSIZE,VAR_0
+ALTERA_SDCARD_UNLOCK,FUNC_2
+DISK_VERSION,VAR_1
+altera_sdcard_disk_dump,VAR_2
+altera_sdcard_disk_ioctl,VAR_3
+altera_sdcard_disk_strategy,VAR_4
+device_printf,FUNC_3
+disk_alloc,FUNC_4
+disk_create,FUNC_5
+altera_sdcard_disk_insert,FUNC_6
+sc,VAR_5
+disk,VAR_6
+size,VAR_7

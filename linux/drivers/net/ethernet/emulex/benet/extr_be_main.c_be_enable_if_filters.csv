@@ -1,0 +1,14 @@
+BE_IF_FILT_FLAGS_BASIC,VAR_0
+ON,VAR_1
+__be_set_rx_mode,FUNC_0
+be_cmd_rx_filter,FUNC_1
+be_dev_mac_add,FUNC_2
+be_dev_mac_del,FUNC_3
+be_vid_config,FUNC_4
+ether_addr_copy,FUNC_5
+ether_addr_equal,FUNC_6
+is_zero_ether_addr,FUNC_7
+be_enable_if_filters,FUNC_8
+adapter,VAR_2
+status,VAR_3
+old_pmac_id,VAR_4

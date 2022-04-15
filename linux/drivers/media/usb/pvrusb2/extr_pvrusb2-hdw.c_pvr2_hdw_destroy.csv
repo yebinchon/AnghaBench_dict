@@ -1,0 +1,16 @@
+PVR2_TRACE_INIT,VAR_0
+PVR_NUM,VAR_1
+del_timer_sync,FUNC_0
+flush_work,FUNC_1
+kfree,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pvr2_hdw_remove_usb_stuff,FUNC_5
+pvr2_i2c_core_done,FUNC_6
+pvr2_stream_destroy,FUNC_7
+pvr2_trace,FUNC_8
+pvr2_unit_mtx,VAR_2
+unit_pointers,VAR_3
+v4l2_device_unregister,FUNC_9
+pvr2_hdw_destroy,FUNC_10
+hdw,VAR_4

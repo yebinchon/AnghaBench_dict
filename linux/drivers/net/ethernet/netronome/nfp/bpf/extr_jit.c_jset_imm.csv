@@ -1,0 +1,17 @@
+ALU_OP_AND,VAR_0
+ALU_OP_OR,VAR_1
+BR_BNE,VAR_2
+emit_alu,FUNC_0
+emit_br,FUNC_1
+imm_b,FUNC_2
+is_mbpf_jmp64,FUNC_3
+reg_a,FUNC_4
+reg_none,FUNC_5
+ur_load_imm_any,FUNC_6
+jset_imm,FUNC_7
+nfp_prog,VAR_3
+meta,VAR_4
+insn,VAR_5
+imm,VAR_6
+dst_gpr,VAR_7
+tmp_reg,VAR_8

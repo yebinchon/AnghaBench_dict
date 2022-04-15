@@ -1,0 +1,15 @@
+EVP_PKEY_up_ref,FUNC_0
+EVP_sha256,FUNC_1
+ctx,VAR_0
+do_sign,FUNC_2
+ok,FUNC_3
+ptls_buffer_dispose,FUNC_4
+ptls_buffer_init,FUNC_5
+ptls_iovec_init,FUNC_6
+strlen,FUNC_7
+verify_sign,FUNC_8
+test_rsa_sign,FUNC_9
+sc,VAR_1
+message,VAR_2
+sigbuf,VAR_3
+sigbuf_small,VAR_4

@@ -1,0 +1,13 @@
+ETHTOOL_LINK_MODE_Autoneg_BIT,VAR_0
+MC_CMD_PHY_CAP_AN_LBN,VAR_1
+efx_get_mcdi_phy_flags,FUNC_0
+efx_mcdi_set_link,FUNC_1
+ethtool_fec_caps_to_mcdi,FUNC_2
+ethtool_linkset_to_mcdi_cap,FUNC_3
+test_bit,FUNC_4
+efx_mcdi_phy_set_fecparam,FUNC_5
+efx,VAR_2
+fec,VAR_3
+phy_cfg,VAR_4
+caps,VAR_5
+rc,VAR_6

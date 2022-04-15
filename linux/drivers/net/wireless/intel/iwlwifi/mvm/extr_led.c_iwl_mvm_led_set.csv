@@ -1,0 +1,10 @@
+CSR_LED_REG,VAR_0
+CSR_LED_REG_TURN_OFF,VAR_1
+CSR_LED_REG_TURN_ON,VAR_2
+IWL_UCODE_TLV_CAPA_LED_CMD_SUPPORT,VAR_3
+fw_has_capa,FUNC_0
+iwl_mvm_send_led_fw_cmd,FUNC_1
+iwl_write32,FUNC_2
+iwl_mvm_led_set,FUNC_3
+mvm,VAR_4
+on,VAR_5

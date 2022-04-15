@@ -1,0 +1,12 @@
+__zd_usb_disable_rx,FUNC_0
+__zd_usb_enable_rx,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+zd_usb_reset_rx_idle_timer,FUNC_6
+zd_usb_reset_rx,FUNC_7
+usb,VAR_0
+do_reset,VAR_1
+rx,VAR_2
+flags,VAR_3

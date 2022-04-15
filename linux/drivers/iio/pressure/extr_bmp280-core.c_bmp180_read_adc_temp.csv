@@ -1,0 +1,10 @@
+BMP180_MEAS_TEMP,VAR_0
+BMP180_REG_OUT_MSB,VAR_1
+be16_to_cpu,FUNC_0
+bmp180_measure,FUNC_1
+regmap_bulk_read,FUNC_2
+bmp180_read_adc_temp,FUNC_3
+data,VAR_2
+val,VAR_3
+ret,VAR_4
+tmp,VAR_5

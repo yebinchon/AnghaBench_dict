@@ -1,0 +1,16 @@
+ACPI_FAILURE,FUNC_0
+ACPI_TYPE_INTEGER,VAR_0
+AE_OK,VAR_1
+EFAULT,VAR_2
+MEMORY_ARG_CUR_BANDWIDTH,VAR_3
+MEMORY_GET_BANDWIDTH,VAR_4
+acpi_evaluate_integer,FUNC_1
+memory_get_cur_bandwidth,FUNC_2
+cdev,VAR_5
+value,VAR_6
+device,VAR_7
+handle,VAR_8
+result,VAR_9
+arg_list,VAR_10
+arg,VAR_11
+status,VAR_12

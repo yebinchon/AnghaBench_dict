@@ -1,0 +1,7 @@
+MCG_EXT_CTL_LMCE_EN,VAR_0
+MSR_IA32_MCG_EXT_CTL,VAR_1
+lmce_supported,FUNC_0
+rdmsrl,FUNC_1
+wrmsrl,FUNC_2
+intel_init_lmce,FUNC_3
+val,VAR_2

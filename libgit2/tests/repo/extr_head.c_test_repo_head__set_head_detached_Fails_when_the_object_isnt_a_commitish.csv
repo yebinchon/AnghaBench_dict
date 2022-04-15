@@ -1,0 +1,9 @@
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+git_object_free,FUNC_2
+git_object_id,FUNC_3
+git_repository_set_head_detached,FUNC_4
+git_revparse_single,FUNC_5
+repo,VAR_0
+test_repo_head__set_head_detached_Fails_when_the_object_isnt_a_commitish,FUNC_6
+blob,VAR_1

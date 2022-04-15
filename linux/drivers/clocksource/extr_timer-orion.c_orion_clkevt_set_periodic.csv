@@ -1,0 +1,11 @@
+TIMER1_EN,VAR_0
+TIMER1_RELOAD,VAR_1
+TIMER1_RELOAD_EN,VAR_2
+TIMER1_VAL,VAR_3
+TIMER_CTRL,VAR_4
+atomic_io_modify,FUNC_0
+ticks_per_jiffy,VAR_5
+timer_base,VAR_6
+writel,FUNC_1
+orion_clkevt_set_periodic,FUNC_2
+dev,VAR_7

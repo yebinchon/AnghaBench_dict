@@ -1,0 +1,16 @@
+DAC960_QueueCommand,FUNC_0
+DAC960_V1_ClearCommand,FUNC_1
+DAC960_V1_Read,VAR_0
+DAC960_V1_ReadWithScatterGather,VAR_1
+DAC960_V1_Write,VAR_2
+DAC960_V1_WriteWithScatterGather,VAR_3
+PCI_DMA_FROMDEVICE,VAR_4
+sg_dma_address,FUNC_2
+sg_dma_len,FUNC_3
+DAC960_V1_QueueReadWriteCommand,FUNC_4
+Command,VAR_5
+Controller,VAR_6
+CommandMailbox,VAR_7
+ScatterGatherList,VAR_8
+ScatterList,VAR_9
+i,VAR_10

@@ -1,0 +1,9 @@
+EXT4_JOURNAL,FUNC_0
+PageChecked,FUNC_1
+jbd2_journal_try_to_free_buffers,FUNC_2
+trace_ext4_releasepage,FUNC_3
+try_to_free_buffers,FUNC_4
+ext4_releasepage,FUNC_5
+page,VAR_0
+wait,VAR_1
+journal,VAR_2

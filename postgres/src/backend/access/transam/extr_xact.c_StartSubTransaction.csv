@@ -1,0 +1,15 @@
+AfterTriggerBeginSubXact,FUNC_0
+AtSubStart_Memory,FUNC_1
+AtSubStart_ResourceOwner,FUNC_2
+CallSubXactCallbacks,FUNC_3
+CurrentTransactionState,VAR_0
+SUBXACT_EVENT_START_SUB,VAR_1
+ShowTransactionState,FUNC_4
+TRANS_DEFAULT,VAR_2
+TRANS_INPROGRESS,VAR_3
+TRANS_START,VAR_4
+TransStateAsString,FUNC_5
+WARNING,VAR_5
+elog,FUNC_6
+StartSubTransaction,FUNC_7
+s,VAR_6

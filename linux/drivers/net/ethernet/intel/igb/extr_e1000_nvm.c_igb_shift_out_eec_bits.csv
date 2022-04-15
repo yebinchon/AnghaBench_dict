@@ -1,0 +1,17 @@
+E1000_EECD,VAR_0
+E1000_EECD_DI,VAR_1
+E1000_EECD_DO,VAR_2
+e1000_nvm_eeprom_spi,VAR_3
+igb_lower_eec_clk,FUNC_0
+igb_raise_eec_clk,FUNC_1
+rd32,FUNC_2
+udelay,FUNC_3
+wr32,FUNC_4
+wrfl,FUNC_5
+igb_shift_out_eec_bits,FUNC_6
+hw,VAR_4
+data,VAR_5
+count,VAR_6
+nvm,VAR_7
+eecd,VAR_8
+mask,VAR_9

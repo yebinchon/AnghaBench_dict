@@ -1,0 +1,15 @@
+PHY_MDM6600_ENABLED_DELAY_MS,VAR_0
+PHY_MDM6600_RESET,VAR_1
+cancel_delayed_work_sync,FUNC_0
+gpiod_set_value_cansleep,FUNC_1
+msecs_to_jiffies,FUNC_2
+phy_mdm6600_device_power_off,FUNC_3
+platform_get_drvdata,FUNC_4
+pm_runtime_disable,FUNC_5
+pm_runtime_dont_use_autosuspend,FUNC_6
+pm_runtime_put_sync,FUNC_7
+wait_for_completion_timeout,FUNC_8
+phy_mdm6600_remove,FUNC_9
+pdev,VAR_2
+ddata,VAR_3
+reset_gpio,VAR_4

@@ -1,0 +1,16 @@
+GET_FSR,FUNC_0
+SET_FSR,FUNC_1
+__disable_clocks,FUNC_2
+__enable_clocks,FUNC_3
+msm_iommu_lock,VAR_0
+pr_err,FUNC_4
+print_ctx_regs,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+msm_iommu_fault_handler,FUNC_8
+irq,VAR_1
+dev_id,VAR_2
+iommu,VAR_3
+fsr,VAR_4
+i,VAR_5
+ret,VAR_6

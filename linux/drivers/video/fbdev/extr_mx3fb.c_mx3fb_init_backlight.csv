@@ -1,0 +1,14 @@
+BACKLIGHT_RAW,VAR_0
+FB_BLANK_UNBLANK,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+backlight_device_register,FUNC_2
+dev_err,FUNC_3
+memset,FUNC_4
+mx3fb_bl_get_brightness,FUNC_5
+mx3fb_lcdc_bl_ops,VAR_2
+sdc_set_brightness,FUNC_6
+mx3fb_init_backlight,FUNC_7
+fbd,VAR_3
+props,VAR_4
+bl,VAR_5

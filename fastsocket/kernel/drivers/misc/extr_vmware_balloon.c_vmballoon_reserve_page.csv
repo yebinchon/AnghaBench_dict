@@ -1,0 +1,17 @@
+EIO,VAR_0
+ENOMEM,VAR_1
+STATS_INC,FUNC_0
+VMW_BALLOON_MAX_REFUSED,VAR_2
+VMW_PAGE_ALLOC_CANSLEEP,VAR_3
+VMW_PAGE_ALLOC_NOSLEEP,VAR_4
+__free_page,FUNC_1
+alloc_page,FUNC_2
+list_add,FUNC_3
+page_to_pfn,FUNC_4
+vmballoon_send_lock_page,FUNC_5
+vmballoon_reserve_page,FUNC_6
+b,VAR_5
+can_sleep,VAR_6
+page,VAR_7
+flags,VAR_8
+locked,VAR_9

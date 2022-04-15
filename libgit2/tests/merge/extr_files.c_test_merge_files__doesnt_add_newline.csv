@@ -1,0 +1,17 @@
+GIT_MERGE_FILE_IGNORE_WHITESPACE_CHANGE,VAR_0
+GIT_MERGE_FILE_INPUT_INIT,VAR_1
+GIT_MERGE_FILE_OPTIONS_INIT,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_assert_equal_strn,FUNC_2
+cl_git_pass,FUNC_3
+git_merge_file,FUNC_4
+git_merge_file_result_free,FUNC_5
+strlen,FUNC_6
+test_merge_files__doesnt_add_newline,FUNC_7
+ancestor,VAR_3
+ours,VAR_4
+theirs,VAR_5
+opts,VAR_6
+result,VAR_7
+expected,VAR_8

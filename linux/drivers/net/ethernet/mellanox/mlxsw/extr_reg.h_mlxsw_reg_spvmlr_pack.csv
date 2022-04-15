@@ -1,0 +1,16 @@
+MLXSW_REG_SPVMLR_REC_MAX_COUNT,VAR_0
+MLXSW_REG_ZERO,FUNC_0
+WARN_ON,FUNC_1
+mlxsw_reg_spvmlr_local_port_set,FUNC_2
+mlxsw_reg_spvmlr_num_rec_set,FUNC_3
+mlxsw_reg_spvmlr_rec_learn_enable_set,FUNC_4
+mlxsw_reg_spvmlr_rec_vid_set,FUNC_5
+spvmlr,VAR_1
+mlxsw_reg_spvmlr_pack,FUNC_6
+payload,VAR_2
+local_port,VAR_3
+vid_begin,VAR_4
+vid_end,VAR_5
+learn_enable,VAR_6
+num_rec,VAR_7
+i,VAR_8

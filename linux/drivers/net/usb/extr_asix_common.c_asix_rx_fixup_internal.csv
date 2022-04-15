@@ -1,0 +1,17 @@
+ETH_HLEN,VAR_0
+VLAN_HLEN,VAR_1
+get_unaligned_le16,FUNC_0
+get_unaligned_le32,FUNC_1
+netdev_alloc_skb_ip_align,FUNC_2
+netdev_dbg,FUNC_3
+netdev_err,FUNC_4
+reset_asix_rx_fixup_info,FUNC_5
+skb_put_data,FUNC_6
+usbnet_skb_return,FUNC_7
+asix_rx_fixup_internal,FUNC_8
+dev,VAR_2
+skb,VAR_3
+rx,VAR_4
+offset,VAR_5
+size,VAR_6
+copy_length,VAR_7

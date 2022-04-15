@@ -1,0 +1,14 @@
+BUS_NOTIFY_UNBIND_DRIVER,VAR_0
+BUS_NOTIFY_UNBOUND_DRIVER,VAR_1
+blocking_notifier_call_chain,FUNC_0
+devres_release_all,FUNC_1
+driver_sysfs_remove,FUNC_2
+klist_remove,FUNC_3
+pm_runtime_barrier,FUNC_4
+pm_runtime_get_noresume,FUNC_5
+pm_runtime_put_sync,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+__device_release_driver,FUNC_9
+dev,VAR_2
+drv,VAR_3

@@ -1,0 +1,14 @@
+BTRFS_I,FUNC_0
+LOG_INODE_ALL,VAR_0
+btrfs_log_inode_parent,FUNC_1
+d_inode,FUNC_2
+dget_parent,FUNC_3
+dput,FUNC_4
+btrfs_log_dentry_safe,FUNC_5
+trans,VAR_1
+dentry,VAR_2
+start,VAR_3
+end,VAR_4
+ctx,VAR_5
+parent,VAR_6
+ret,VAR_7

@@ -1,0 +1,16 @@
+EXIT_FAILURE,VAR_0
+FORK_DEATHSIG,VAR_1
+FORK_LOG,VAR_2
+FORK_RESET_SIGNALS,VAR_3
+FORK_RLIMIT_NOFILE_SAFE,VAR_4
+WAIT_LOG_ABNORMAL,VAR_5
+_exit,FUNC_0
+errno,VAR_6
+execv,FUNC_1
+log_error_errno,FUNC_2
+safe_fork,FUNC_3
+wait_for_terminate_and_check,FUNC_4
+fork_wait,FUNC_5
+cmdline,VAR_7
+pid,VAR_8
+r,VAR_9

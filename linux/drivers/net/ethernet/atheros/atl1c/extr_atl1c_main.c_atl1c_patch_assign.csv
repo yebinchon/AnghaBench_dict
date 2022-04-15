@@ -1,0 +1,14 @@
+ATL1C_LINK_PATCH,VAR_0
+L2CB_V21,VAR_1
+PCI_DEVICE_ID_ATHEROS_L2C_B2,VAR_2
+REG_PCIE_DEV_MISC_CTRL,VAR_3
+REG_PCIE_IND_ACC_ADDR,VAR_4
+REG_PCIE_IND_ACC_DATA,VAR_5
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+plats,VAR_6
+atl1c_patch_assign,FUNC_2
+hw,VAR_7
+pdev,VAR_8
+misc_ctrl,VAR_9
+i,VAR_10

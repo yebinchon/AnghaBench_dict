@@ -1,0 +1,13 @@
+WARN_ON_ONCE,FUNC_0
+ieee80211_wake_queue,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+test_and_clear_bit,FUNC_4
+wlcore_tx_get_mac80211_queue,FUNC_5
+wlcore_wake_queue,FUNC_6
+wl,VAR_0
+wlvif,VAR_1
+queue,VAR_2
+reason,VAR_3
+flags,VAR_4
+hwq,VAR_5

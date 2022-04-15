@@ -1,0 +1,16 @@
+BACK_RING_INIT,FUNC_0
+IRQF_ONESHOT,VAR_0
+PAGE_SIZE,VAR_1
+bind_interdomain_evtchn_to_irq,FUNC_1
+request_threaded_irq,FUNC_2
+scsiback_irq_fn,VAR_2
+unbind_from_irqhandler,FUNC_3
+xenbus_map_ring_valloc,FUNC_4
+xenbus_unmap_ring_vfree,FUNC_5
+scsiback_init_sring,FUNC_6
+info,VAR_3
+ring_ref,VAR_4
+evtchn,VAR_5
+area,VAR_6
+sring,VAR_7
+err,VAR_8

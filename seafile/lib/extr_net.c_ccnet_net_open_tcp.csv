@@ -1,0 +1,12 @@
+AF_INET,VAR_0
+EINPROGRESS,VAR_1
+WSAEWOULDBLOCK,VAR_2
+connect,FUNC_0
+createSocket,FUNC_1
+evutil_closesocket,FUNC_2
+sockerrno,VAR_3
+ccnet_net_open_tcp,FUNC_3
+sa,VAR_4
+nonblock,VAR_5
+s,VAR_6
+sa_len,VAR_7

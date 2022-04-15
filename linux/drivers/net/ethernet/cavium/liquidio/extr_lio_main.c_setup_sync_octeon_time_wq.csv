@@ -1,0 +1,13 @@
+GET_LIO,FUNC_0
+INIT_DELAYED_WORK,FUNC_1
+LIO_SYNC_OCTEON_TIME_INTERVAL_MS,VAR_0
+WQ_MEM_RECLAIM,VAR_1
+alloc_workqueue,FUNC_2
+dev_err,FUNC_3
+lio_sync_octeon_time,VAR_2
+msecs_to_jiffies,FUNC_4
+queue_delayed_work,FUNC_5
+setup_sync_octeon_time_wq,FUNC_6
+netdev,VAR_3
+lio,VAR_4
+oct,VAR_5

@@ -1,0 +1,14 @@
+ATA_INTR_FLAGS,VAR_0
+ENXIO,VAR_1
+RF_ACTIVE,VAR_2
+RF_SHAREABLE,VAR_3
+SYS_RES_IRQ,VAR_4
+bus_alloc_resource_any,FUNC_0
+bus_release_resource,FUNC_1
+bus_setup_intr,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+mvs_intr,VAR_5
+mvs_setup_interrupt,FUNC_5
+dev,VAR_6
+ctlr,VAR_7

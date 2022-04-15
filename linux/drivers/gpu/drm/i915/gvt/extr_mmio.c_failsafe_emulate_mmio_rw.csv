@@ -1,0 +1,17 @@
+intel_vgpu_default_mmio_read,FUNC_0
+intel_vgpu_default_mmio_write,FUNC_1
+intel_vgpu_gpa_to_mmio_offset,FUNC_2
+memcpy,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+reg_is_gtt,FUNC_6
+reg_is_mmio,FUNC_7
+failsafe_emulate_mmio_rw,FUNC_8
+vgpu,VAR_0
+pa,VAR_1
+p_data,VAR_2
+bytes,VAR_3
+read,VAR_4
+gvt,VAR_5
+pt,VAR_6
+offset,VAR_7

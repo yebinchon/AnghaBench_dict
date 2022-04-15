@@ -1,0 +1,14 @@
+mlx5_ib_get_native_port_mdev,FUNC_0
+mlx5_ib_put_native_port_mdev,FUNC_1
+mlx5_query_hca_vport_pkey,FUNC_2
+to_mdev,FUNC_3
+mlx5_query_hca_nic_pkey,FUNC_4
+ibdev,VAR_0
+port,VAR_1
+index,VAR_2
+pkey,VAR_3
+dev,VAR_4
+mdev,VAR_5
+put_mdev,VAR_6
+mdev_port_num,VAR_7
+err,VAR_8

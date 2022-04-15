@@ -1,0 +1,10 @@
+AC_PWRST_D0,VAR_0
+AC_PWRST_D3,VAR_1
+AC_VERB_GET_CONNECT_SEL,VAR_2
+set_pin_power_state,FUNC_0
+snd_hda_codec_read,FUNC_1
+update_power_state,FUNC_2
+set_widgets_power_state_vt1702,FUNC_3
+codec,VAR_3
+imux_is_smixer,VAR_4
+parm,VAR_5

@@ -1,0 +1,14 @@
+AIPTEK_PACKET_LENGTH,VAR_0
+aiptek_attribute_group,VAR_1
+input_unregister_device,FUNC_0
+interface_to_usbdev,FUNC_1
+kfree,FUNC_2
+sysfs_remove_group,FUNC_3
+usb_free_coherent,FUNC_4
+usb_free_urb,FUNC_5
+usb_get_intfdata,FUNC_6
+usb_kill_urb,FUNC_7
+usb_set_intfdata,FUNC_8
+aiptek_disconnect,FUNC_9
+intf,VAR_2
+aiptek,VAR_3

@@ -1,0 +1,15 @@
+EDB_PD1_LCD_DC_DC_EN,VAR_0
+EDB_PD2_LCDEN,VAR_1
+EDB_PD3_LCDBL,VAR_2
+PDDR,VAR_3
+SYSCON1,VAR_4
+SYSCON1_LCDEN,VAR_5
+clps_readb,FUNC_0
+clps_readl,FUNC_1
+clps_writeb,FUNC_2
+clps_writel,FUNC_3
+machine_is_edb7211,FUNC_4
+udelay,FUNC_5
+clps7111fb_blank,FUNC_6
+blank,VAR_6
+info,VAR_7

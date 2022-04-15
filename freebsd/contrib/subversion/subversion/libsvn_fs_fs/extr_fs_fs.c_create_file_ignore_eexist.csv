@@ -1,0 +1,10 @@
+APR_STATUS_IS_EEXIST,FUNC_0
+SVN_NO_ERROR,VAR_0
+svn_error_clear,FUNC_1
+svn_error_trace,FUNC_2
+svn_io_file_create,FUNC_3
+create_file_ignore_eexist,FUNC_4
+file,VAR_1
+contents,VAR_2
+pool,VAR_3
+err,VAR_4

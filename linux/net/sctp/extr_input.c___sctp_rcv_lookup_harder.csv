@@ -1,0 +1,14 @@
+SCTP_CID_INIT,VAR_0
+SCTP_CID_INIT_ACK,VAR_1
+SCTP_PAD4,FUNC_0
+__sctp_rcv_init_lookup,FUNC_1
+__sctp_rcv_walk_lookup,FUNC_2
+ntohs,FUNC_3
+skb_is_gso,FUNC_4
+skb_is_gso_sctp,FUNC_5
+__sctp_rcv_lookup_harder,FUNC_6
+net,VAR_2
+skb,VAR_3
+laddr,VAR_4
+transportp,VAR_5
+ch,VAR_6

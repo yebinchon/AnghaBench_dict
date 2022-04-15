@@ -1,0 +1,12 @@
+PARPORT_CTRL_BIDIR_ENA,VAR_0
+PARPORT_CTRL_IRQ_ENA,VAR_1
+PARPORT_CTRL_REG,VAR_2
+comedi_dio_update_state,FUNC_0
+inb,FUNC_1
+outb,FUNC_2
+parport_ctrl_reg_insn_bits,FUNC_3
+dev,VAR_3
+s,VAR_4
+insn,VAR_5
+data,VAR_6
+ctrl,VAR_7

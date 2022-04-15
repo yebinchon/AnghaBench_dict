@@ -1,0 +1,12 @@
+FI_AUTO_RECOVER,VAR_0
+FI_DIRTY_INODE,VAR_1
+f2fs_mark_inode_dirty_sync,FUNC_0
+i_size_read,FUNC_1
+i_size_write,FUNC_2
+is_inode_flag_set,FUNC_3
+set_inode_flag,FUNC_4
+f2fs_i_size_write,FUNC_5
+inode,VAR_2
+i_size,VAR_3
+clean,VAR_4
+recover,VAR_5

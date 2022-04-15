@@ -1,0 +1,15 @@
+_repo,VAR_0
+ahead,VAR_1
+behind,VAR_2
+cl_assert_equal_sz,FUNC_0
+cl_git_pass,FUNC_1
+commit,VAR_3
+git_commit_free,FUNC_2
+git_commit_id,FUNC_3
+git_commit_nth_gen_ancestor,FUNC_4
+git_graph_ahead_behind,FUNC_5
+git_oid_fromstr,FUNC_6
+test_graph_ahead_behind__returns_correct_result,FUNC_7
+oid,VAR_4
+oid2,VAR_5
+other,VAR_6

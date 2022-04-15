@@ -1,0 +1,17 @@
+MSG_PROCESS_CONTINUE_READING,VAR_0
+MSG_PROCESS_ERROR,VAR_1
+OPENSSL_free,FUNC_0
+PACKET_as_length_prefixed_2,FUNC_1
+PACKET_remaining,FUNC_2
+SSL_AD_DECODE_ERROR,VAR_2
+SSL_EXT_TLS1_3_ENCRYPTED_EXTENSIONS,VAR_3
+SSL_F_TLS_PROCESS_ENCRYPTED_EXTENSIONS,VAR_4
+SSL_R_LENGTH_MISMATCH,VAR_5
+SSLfatal,FUNC_3
+tls_collect_extensions,FUNC_4
+tls_parse_all_extensions,FUNC_5
+tls_process_encrypted_extensions,FUNC_6
+s,VAR_6
+pkt,VAR_7
+extensions,VAR_8
+rawexts,VAR_9

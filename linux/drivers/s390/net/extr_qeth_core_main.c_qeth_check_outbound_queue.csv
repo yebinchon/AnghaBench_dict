@@ -1,0 +1,17 @@
+QETH_LOW_WATERMARK_PACK,VAR_0
+QETH_OUT_Q_LOCKED_FLUSH,VAR_1
+QETH_OUT_Q_UNLOCKED,VAR_2
+QETH_TXQ_STAT_ADD,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+atomic_xchg,FUNC_3
+barrier,FUNC_4
+bufs_pack,VAR_3
+qeth_flush_buffers,FUNC_5
+qeth_prep_flush_pack_buffer,FUNC_6
+qeth_switch_to_nonpacking_if_needed,FUNC_7
+qeth_check_outbound_queue,FUNC_8
+queue,VAR_4
+index,VAR_5
+flush_cnt,VAR_6
+q_was_packing,VAR_7

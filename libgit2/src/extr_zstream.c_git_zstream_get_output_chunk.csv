@@ -1,0 +1,14 @@
+GIT_ZSTREAM_INFLATE,VAR_0
+UINT_MAX,VAR_1
+Z_FINISH,VAR_2
+Z_NO_FLUSH,VAR_3
+deflate,FUNC_0
+inflate,FUNC_1
+zstream_seterr,FUNC_2
+git_zstream_get_output_chunk,FUNC_3
+out,VAR_4
+out_len,VAR_5
+zstream,VAR_6
+in_queued,VAR_7
+in_used,VAR_8
+out_queued,VAR_9

@@ -1,0 +1,15 @@
+IRQ_DISABLED,VAR_0
+IRQ_INPROGRESS,VAR_1
+cpm2_intctl,VAR_2
+irq_desc,VAR_3
+irq_to_siubit,VAR_4
+irq_to_siureg,VAR_5
+mb,FUNC_0
+out_be32,FUNC_1
+ppc_cached_irq_mask,VAR_6
+virq_to_hw,FUNC_2
+cpm2_end_irq,FUNC_3
+virq,VAR_7
+bit,VAR_8
+word,VAR_9
+irq_nr,VAR_10

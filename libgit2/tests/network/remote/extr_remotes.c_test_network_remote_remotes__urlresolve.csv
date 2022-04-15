@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+GIT_DIRECTION_FETCH,VAR_1
+GIT_DIRECTION_PUSH,VAR_2
+GIT_REMOTE_CALLBACKS_INIT,VAR_3
+_remote,VAR_4
+cl_assert,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_dispose,FUNC_3
+git_remote__urlfordirection,FUNC_4
+git_remote_name,FUNC_5
+git_remote_pushurl,FUNC_6
+git_remote_url,FUNC_7
+urlresolve_callback,VAR_5
+test_network_remote_remotes__urlresolve,FUNC_8
+url,VAR_6
+callbacks,VAR_7

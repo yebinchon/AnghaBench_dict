@@ -1,0 +1,12 @@
+PCF8563_R_CLKOUT,VAR_0
+PCF85xx_B_CS1_STOP,VAR_1
+PCF85xx_B_SECOND_OS,VAR_2
+PCF85xx_R_CS1,VAR_3
+WAITFLAGS,VAR_4
+device_printf,FUNC_0
+nxprtc_readfrom,FUNC_1
+write_reg,FUNC_2
+pcf8563_start,FUNC_3
+sc,VAR_5
+csr,VAR_6
+err,VAR_7

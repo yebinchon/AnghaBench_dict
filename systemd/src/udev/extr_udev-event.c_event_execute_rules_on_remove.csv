@@ -1,0 +1,15 @@
+device_delete_db,FUNC_0
+device_read_db_internal,FUNC_1
+device_tag_index,FUNC_2
+log_device_debug_errno,FUNC_3
+sd_device_get_devnum,FUNC_4
+udev_node_remove,FUNC_5
+udev_rules_apply_to_event,FUNC_6
+udev_watch_end,FUNC_7
+event_execute_rules_on_remove,FUNC_8
+event,VAR_0
+timeout_usec,VAR_1
+properties_list,VAR_2
+rules,VAR_3
+dev,VAR_4
+r,VAR_5

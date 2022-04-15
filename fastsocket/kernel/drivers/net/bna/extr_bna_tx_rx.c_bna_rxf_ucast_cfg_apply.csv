@@ -1,0 +1,15 @@
+BFI_ENET_H2I_MAC_UCAST_ADD_REQ,VAR_0
+BFI_ENET_H2I_MAC_UCAST_DEL_REQ,VAR_1
+BFI_ENET_H2I_MAC_UCAST_SET_REQ,VAR_2
+ETH_ALEN,VAR_3
+bfa_q_deq,FUNC_0
+bfa_q_qe_init,FUNC_1
+bna_bfi_ucast_req,FUNC_2
+bna_ucam_mod_mac_put,FUNC_3
+list_add_tail,FUNC_4
+list_empty,FUNC_5
+memcpy,FUNC_6
+bna_rxf_ucast_cfg_apply,FUNC_7
+rxf,VAR_4
+mac,VAR_5
+qe,VAR_6

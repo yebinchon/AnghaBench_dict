@@ -1,0 +1,13 @@
+BNXT_PF,FUNC_0
+CTLFLAG_RD,VAR_0
+ENOMEM,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_NODE,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+sysctl_ctx_free,FUNC_5
+sysctl_ctx_init,FUNC_6
+bnxt_init_sysctl_ctx,FUNC_7
+softc,VAR_3
+ctx,VAR_4

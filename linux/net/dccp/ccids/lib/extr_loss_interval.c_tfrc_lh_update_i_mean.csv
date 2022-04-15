@@ -1,0 +1,13 @@
+DCCP_SKB_CB,FUNC_0
+SUB16,FUNC_1
+dccp_delta_seqno,FUNC_2
+dccp_hdr,FUNC_3
+tfrc_lh_calc_i_mean,FUNC_4
+tfrc_lh_length,FUNC_5
+tfrc_lh_peek,FUNC_6
+tfrc_lh_update_i_mean,FUNC_7
+lh,VAR_0
+skb,VAR_1
+cur,VAR_2
+old_i_mean,VAR_3
+len,VAR_4

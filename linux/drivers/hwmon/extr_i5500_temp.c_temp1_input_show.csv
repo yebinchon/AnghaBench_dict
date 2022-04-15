@@ -1,0 +1,14 @@
+REG_TSFSC,VAR_0
+REG_TSTHRHI,VAR_1
+pci_read_config_byte,FUNC_0
+pci_read_config_word,FUNC_1
+sprintf,FUNC_2
+to_pci_dev,FUNC_3
+temp1_input_show,FUNC_4
+dev,VAR_2
+devattr,VAR_3
+buf,VAR_4
+pdev,VAR_5
+temp,VAR_6
+tsthrhi,VAR_7
+tsfsc,VAR_8

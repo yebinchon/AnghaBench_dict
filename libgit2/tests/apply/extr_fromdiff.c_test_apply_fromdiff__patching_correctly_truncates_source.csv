@@ -1,0 +1,15 @@
+GIT_BUF_INIT,VAR_0
+GIT_EAPPLYFAIL,VAR_1
+cl_git_fail_with,FUNC_0
+cl_git_pass,FUNC_1
+git__free,FUNC_2
+git_apply__patch,FUNC_3
+git_buf_dispose,FUNC_4
+git_patch_free,FUNC_5
+git_patch_from_buffers,FUNC_6
+test_apply_fromdiff__patching_correctly_truncates_source,FUNC_7
+original,VAR_2
+patched,VAR_3
+patch,VAR_4
+mode,VAR_5
+path,VAR_6

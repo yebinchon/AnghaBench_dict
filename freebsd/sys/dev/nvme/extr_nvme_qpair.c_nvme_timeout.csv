@@ -1,0 +1,15 @@
+NVME_CSTS_REG_CFS_MASK,VAR_0
+NVME_CSTS_REG_CFS_SHIFT,VAR_1
+nvme_abort_complete,VAR_2
+nvme_ctrlr_cmd_abort,FUNC_0
+nvme_ctrlr_reset,FUNC_1
+nvme_mmio_read_4,FUNC_2
+nvme_printf,FUNC_3
+nvme_qpair_process_completions,FUNC_4
+nvme_timeout,FUNC_5
+arg,VAR_3
+tr,VAR_4
+qpair,VAR_5
+ctrlr,VAR_6
+csts,VAR_7
+cfs,VAR_8

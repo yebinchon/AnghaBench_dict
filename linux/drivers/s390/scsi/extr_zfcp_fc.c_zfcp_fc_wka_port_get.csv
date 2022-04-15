@@ -1,0 +1,13 @@
+EIO,VAR_0
+ERESTARTSYS,VAR_1
+ZFCP_FC_WKA_PORT_CLOSING,VAR_2
+ZFCP_FC_WKA_PORT_OFFLINE,VAR_3
+ZFCP_FC_WKA_PORT_ONLINE,VAR_4
+ZFCP_FC_WKA_PORT_OPENING,VAR_5
+atomic_inc,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+wait_event,FUNC_3
+zfcp_fsf_open_wka_port,FUNC_4
+zfcp_fc_wka_port_get,FUNC_5
+wka_port,VAR_6

@@ -1,0 +1,14 @@
+AUTOFS_ASSERT_XLOCKED,FUNC_0
+KASSERT,FUNC_1
+M_AUTOFS,VAR_0
+RB_EMPTY,FUNC_2
+RB_REMOVE,FUNC_3
+autofs_node_tree,VAR_1
+autofs_node_zone,VAR_2
+callout_drain,FUNC_4
+free,FUNC_5
+sx_destroy,FUNC_6
+uma_zfree,FUNC_7
+autofs_node_delete,FUNC_8
+anp,VAR_3
+parent,VAR_4

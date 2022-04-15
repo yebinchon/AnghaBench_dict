@@ -1,0 +1,17 @@
+GetLastError,FUNC_0
+HttpOpenRequestA,FUNC_1
+HttpSendRequestA,FUNC_2
+INTERNET_FLAG_NO_CACHE_WRITE,VAR_0
+INTERNET_OPEN_TYPE_DIRECT,VAR_1
+INTERNET_SERVICE_HTTP,VAR_2
+InternetCloseHandle,FUNC_3
+InternetConnectA,FUNC_4
+InternetOpenA,FUNC_5
+ok,FUNC_6
+test_status_code,FUNC_7
+test_cache_control_verb,FUNC_8
+port,VAR_3
+session,VAR_4
+connect,VAR_5
+request,VAR_6
+ret,VAR_7

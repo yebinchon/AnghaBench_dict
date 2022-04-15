@@ -1,0 +1,16 @@
+M_USB_DL,VAR_0
+UDL_LOCK,FUNC_0
+UDL_N_TRANSFER,VAR_1
+UDL_UNLOCK,FUNC_1
+callout_drain,FUNC_2
+callout_stop,FUNC_3
+cv_destroy,FUNC_4
+device_delete_children,FUNC_5
+device_get_softc,FUNC_6
+free,FUNC_7
+mtx_destroy,FUNC_8
+udl_buffer_free,FUNC_9
+usbd_transfer_unsetup,FUNC_10
+udl_detach,FUNC_11
+dev,VAR_2
+sc,VAR_3

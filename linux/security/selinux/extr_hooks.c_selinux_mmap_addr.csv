@@ -1,0 +1,10 @@
+CONFIG_LSM_MMAP_MIN_ADDR,VAR_0
+MEMPROTECT__MMAP_ZERO,VAR_1
+SECCLASS_MEMPROTECT,VAR_2
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_state,VAR_3
+selinux_mmap_addr,FUNC_2
+addr,VAR_4
+rc,VAR_5
+sid,VAR_6

@@ -1,0 +1,12 @@
+MCG_CTL_P,VAR_0
+MSR_IA32_MC0_CTL,VAR_1
+MSR_IA32_MCx_CTL,FUNC_0
+get_msr_mce,FUNC_1
+vcpu,VAR_2
+msr,VAR_3
+pdata,VAR_4
+host,VAR_5
+data,VAR_6
+mcg_cap,VAR_7
+bank_num,VAR_8
+offset,VAR_9

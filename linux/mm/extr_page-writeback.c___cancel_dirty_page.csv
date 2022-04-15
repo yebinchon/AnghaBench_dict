@@ -1,0 +1,15 @@
+ClearPageDirty,FUNC_0
+TestClearPageDirty,FUNC_1
+account_page_cleaned,FUNC_2
+lock_page_memcg,FUNC_3
+mapping_cap_account_dirty,FUNC_4
+page_mapping,FUNC_5
+unlock_page_memcg,FUNC_6
+unlocked_inode_to_wb_begin,FUNC_7
+unlocked_inode_to_wb_end,FUNC_8
+__cancel_dirty_page,FUNC_9
+page,VAR_0
+mapping,VAR_1
+inode,VAR_2
+wb,VAR_3
+cookie,VAR_4

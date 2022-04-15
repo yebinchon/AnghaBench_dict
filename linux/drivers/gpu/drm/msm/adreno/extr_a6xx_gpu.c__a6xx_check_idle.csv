@@ -1,0 +1,12 @@
+A6XX_RBBM_INT_0_MASK_RBBM_HANG_DETECT,VAR_0
+A6XX_RBBM_STATUS_CP_AHB_BUSY_CX_MASTER,VAR_1
+REG_A6XX_RBBM_INT_0_STATUS,VAR_2
+REG_A6XX_RBBM_STATUS,VAR_3
+a6xx_gmu_isidle,FUNC_0
+gpu_read,FUNC_1
+to_a6xx_gpu,FUNC_2
+to_adreno_gpu,FUNC_3
+_a6xx_check_idle,FUNC_4
+gpu,VAR_4
+adreno_gpu,VAR_5
+a6xx_gpu,VAR_6

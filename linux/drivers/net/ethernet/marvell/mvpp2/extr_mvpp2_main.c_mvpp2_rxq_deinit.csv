@@ -1,0 +1,16 @@
+MVPP2_DESC_ALIGNED_SIZE,VAR_0
+MVPP2_RXQ_DESC_ADDR_REG,VAR_1
+MVPP2_RXQ_DESC_SIZE_REG,VAR_2
+MVPP2_RXQ_NUM_REG,VAR_3
+MVPP2_RXQ_STATUS_REG,FUNC_0
+dma_free_coherent,FUNC_1
+get_cpu,FUNC_2
+mvpp2_cpu_to_thread,FUNC_3
+mvpp2_rxq_drop_pkts,FUNC_4
+mvpp2_thread_write,FUNC_5
+mvpp2_write,FUNC_6
+put_cpu,FUNC_7
+mvpp2_rxq_deinit,FUNC_8
+port,VAR_4
+rxq,VAR_5
+thread,VAR_6

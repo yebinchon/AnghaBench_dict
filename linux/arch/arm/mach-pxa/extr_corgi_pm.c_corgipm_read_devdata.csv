@@ -1,0 +1,9 @@
+CORGI_GPIO_AC_IN,VAR_0
+MAX1111_ACIN_VOLT,VAR_1
+MAX1111_BATT_TEMP,VAR_2
+MAX1111_BATT_VOLT,VAR_3
+gpio_get_value,FUNC_0
+sharpsl_pm,VAR_4
+sharpsl_pm_pxa_read_max1111,FUNC_1
+corgipm_read_devdata,FUNC_2
+type,VAR_5

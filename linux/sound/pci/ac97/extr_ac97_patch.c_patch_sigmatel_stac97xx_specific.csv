@@ -1,0 +1,12 @@
+AC97_SIGMATEL_ANALOG,VAR_0
+AC97_SIGMATEL_DAC2INVERT,VAR_1
+patch_build_controls,FUNC_0
+snd_ac97_read,FUNC_1
+snd_ac97_sigmatel_4speaker,VAR_2
+snd_ac97_sigmatel_controls,VAR_3
+snd_ac97_sigmatel_phaseinvert,VAR_4
+snd_ac97_try_bit,FUNC_2
+snd_ac97_write_cache,FUNC_3
+patch_sigmatel_stac97xx_specific,FUNC_4
+ac97,VAR_5
+err,VAR_6

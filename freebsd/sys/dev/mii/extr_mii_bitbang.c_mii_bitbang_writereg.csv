@@ -1,0 +1,13 @@
+MDIRPHY,VAR_0
+MII_COMMAND_ACK,VAR_1
+MII_COMMAND_START,VAR_2
+MII_COMMAND_WRITE,VAR_3
+MWRITE,FUNC_0
+mii_bitbang_sendbits,FUNC_1
+mii_bitbang_sync,FUNC_2
+mii_bitbang_writereg,FUNC_3
+dev,VAR_4
+ops,VAR_5
+phy,VAR_6
+reg,VAR_7
+val,VAR_8

@@ -1,0 +1,14 @@
+MLX4_EN_FLAG_MC_PROMISC,VAR_0
+MLX4_EN_FLAG_PROMISC,VAR_1
+MLX4_FS_ALL_DEFAULT,VAR_2
+MLX4_MCAST_DISABLE,VAR_3
+en_err,FUNC_0
+mlx4_SET_MCAST_FLTR,FUNC_1
+mlx4_SET_PORT_qpn_calc,FUNC_2
+mlx4_flow_steer_promisc_add,FUNC_3
+mlx4_multicast_promisc_add,FUNC_4
+mlx4_unicast_promisc_add,FUNC_5
+mlx4_en_set_promisc_mode,FUNC_6
+priv,VAR_4
+mdev,VAR_5
+err,VAR_6

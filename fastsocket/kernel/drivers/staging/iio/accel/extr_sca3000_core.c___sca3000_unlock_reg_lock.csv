@@ -1,0 +1,9 @@
+SCA3000_REG_ADDR_UNLOCK,VAR_0
+SCA3000_WRITE_REG,FUNC_0
+spi_message_add_tail,FUNC_1
+spi_message_init,FUNC_2
+spi_sync,FUNC_3
+__sca3000_unlock_reg_lock,FUNC_4
+st,VAR_1
+msg,VAR_2
+xfer,VAR_3

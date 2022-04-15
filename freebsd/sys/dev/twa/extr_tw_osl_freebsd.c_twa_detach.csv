@@ -1,0 +1,12 @@
+EBUSY,VAR_0
+TW_CL_MESSAGE_SOURCE_FREEBSD_DRIVER,VAR_1
+TW_CL_SEVERITY_ERROR_STRING,VAR_2
+device_get_softc,FUNC_0
+tw_osli_dbg_dprintf,FUNC_1
+tw_osli_free_resources,FUNC_2
+tw_osli_printf,FUNC_3
+twa_shutdown,FUNC_4
+twa_detach,FUNC_5
+dev,VAR_3
+sc,VAR_4
+error,VAR_5

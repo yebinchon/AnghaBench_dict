@@ -1,0 +1,17 @@
+AccessExclusiveLock,VAR_0
+Assert,FUNC_0
+ERROR,VAR_1
+LOCKTAG_RELATION,VAR_2
+LockMethods,VAR_3
+StandbyAcquireAccessExclusiveLock,FUNC_1
+elog,FUNC_2
+lengthof,FUNC_3
+lock_twophase_standby_recover,FUNC_4
+xid,VAR_4
+info,VAR_5
+recdata,VAR_6
+len,VAR_7
+rec,VAR_8
+locktag,VAR_9
+lockmode,VAR_10
+lockmethodid,VAR_11

@@ -1,0 +1,10 @@
+__wait_lapic_expire,FUNC_0
+adjust_lapic_timer_advance,FUNC_1
+kvm_read_l1_tsc,FUNC_2
+lapic_timer_advance_dynamic,VAR_0
+rdtsc,FUNC_3
+__kvm_wait_lapic_expire,FUNC_4
+vcpu,VAR_1
+apic,VAR_2
+guest_tsc,VAR_3
+tsc_deadline,VAR_4

@@ -1,0 +1,15 @@
+BATADV_ATTR_ALGO_NAME,VAR_0
+BATADV_CMD_GET_ROUTING_ALGOS,VAR_1
+EMSGSIZE,VAR_2
+NLM_F_MULTI,VAR_3
+batadv_netlink_family,VAR_4
+genlmsg_cancel,FUNC_0
+genlmsg_end,FUNC_1
+genlmsg_put,FUNC_2
+nla_put_string,FUNC_3
+batadv_algo_dump_entry,FUNC_4
+msg,VAR_5
+portid,VAR_6
+seq,VAR_7
+bat_algo_ops,VAR_8
+hdr,VAR_9

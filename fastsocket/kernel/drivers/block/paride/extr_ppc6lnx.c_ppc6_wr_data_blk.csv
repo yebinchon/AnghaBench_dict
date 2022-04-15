@@ -1,0 +1,16 @@
+CMD_PREFIX_RESET,VAR_0
+CMD_PREFIX_SET,VAR_1
+PREFIX_FASTWR,VAR_2
+data_stb,VAR_3
+outb,FUNC_0
+outl,FUNC_1
+outw,FUNC_2
+port_stb,VAR_4
+ppc6_send_cmd,FUNC_3
+ppc6_wait_for_fifo,FUNC_4
+ppc6_wr_data_blk,FUNC_5
+ppc,VAR_5
+data,VAR_6
+count,VAR_7
+this,VAR_8
+last,VAR_9

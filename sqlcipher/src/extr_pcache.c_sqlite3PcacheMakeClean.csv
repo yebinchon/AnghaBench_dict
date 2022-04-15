@@ -1,0 +1,12 @@
+PCACHE_DIRTYLIST_REMOVE,VAR_0
+PGHDR_CLEAN,VAR_1
+PGHDR_DIRTY,VAR_2
+PGHDR_NEED_SYNC,VAR_3
+PGHDR_WRITEABLE,VAR_4
+assert,FUNC_0
+pcacheManageDirtyList,FUNC_1
+pcacheTrace,FUNC_2
+pcacheUnpin,FUNC_3
+sqlite3PcachePageSanity,FUNC_4
+sqlite3PcacheMakeClean,FUNC_5
+p,VAR_5

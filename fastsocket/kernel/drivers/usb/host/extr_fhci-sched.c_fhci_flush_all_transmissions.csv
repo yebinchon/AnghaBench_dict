@@ -1,0 +1,15 @@
+FRAME_END_TRANSMISSION,VAR_0
+USB_MODE_EN,VAR_1
+USB_TD_TX_ER_TIMEOUT,VAR_2
+clrbits8,FUNC_0
+fhci_flush_bds,FUNC_1
+fhci_peek_td_from_frame,FUNC_2
+fhci_transaction_confirm,FUNC_3
+in_8,FUNC_4
+out_8,FUNC_5
+out_be16,FUNC_6
+fhci_flush_all_transmissions,FUNC_7
+usb,VAR_3
+mode,VAR_4
+td,VAR_5
+pkt,VAR_6

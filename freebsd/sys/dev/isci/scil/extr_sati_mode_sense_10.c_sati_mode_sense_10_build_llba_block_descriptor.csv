@@ -1,0 +1,11 @@
+SCSI_MODE_SENSE_LLBA_BLOCK_DESCRIPTOR_LENGTH,VAR_0
+sati_ata_identify_device_get_sector_info,FUNC_0
+sati_set_data_byte,FUNC_1
+sati_mode_sense_10_build_llba_block_descriptor,FUNC_2
+sequence,VAR_1
+scsi_io,VAR_2
+identify,VAR_3
+offset,VAR_4
+lba_low,VAR_5
+lba_high,VAR_6
+sector_size,VAR_7

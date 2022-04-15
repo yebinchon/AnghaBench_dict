@@ -1,0 +1,17 @@
+cancel_work_sync,FUNC_0
+destroy_workqueue,FUNC_1
+flush_workqueue,FUNC_2
+rtl_priv,FUNC_3
+rtl_usbdev,FUNC_4
+rtl_usbpriv,FUNC_5
+skb_queue_purge,FUNC_6
+tasklet_kill,FUNC_7
+usb_free_coherent,FUNC_8
+usb_free_urb,FUNC_9
+usb_get_from_anchor,FUNC_10
+usb_kill_anchored_urbs,FUNC_11
+_rtl_usb_cleanup_rx,FUNC_12
+hw,VAR_0
+rtlpriv,VAR_1
+rtlusb,VAR_2
+urb,VAR_3

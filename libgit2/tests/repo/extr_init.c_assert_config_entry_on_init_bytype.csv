@@ -1,0 +1,17 @@
+_repo,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_set_cleanup,FUNC_2
+cleanup_repository,VAR_1
+git_config_free,FUNC_3
+git_config_get_bool,FUNC_4
+git_repository_config,FUNC_5
+git_repository_init,FUNC_6
+assert_config_entry_on_init_bytype,FUNC_7
+config_key,VAR_2
+expected_value,VAR_3
+is_bare,VAR_4
+config,VAR_5
+error,VAR_6
+current_value,VAR_7
+repo_path,VAR_8

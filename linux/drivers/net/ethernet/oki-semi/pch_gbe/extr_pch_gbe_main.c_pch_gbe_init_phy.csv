@@ -1,0 +1,15 @@
+BMCR_ISOLATE,VAR_0
+EAGAIN,VAR_1
+MII_BMCR,VAR_2
+MII_BMSR,VAR_3
+PCH_GBE_PHY_REGS_LEN,VAR_4
+mii_check_gmii_support,FUNC_0
+netdev_dbg,FUNC_1
+pch_gbe_mdio_read,FUNC_2
+pch_gbe_mdio_write,FUNC_3
+pch_gbe_init_phy,FUNC_4
+adapter,VAR_5
+netdev,VAR_6
+addr,VAR_7
+bmcr,VAR_8
+stat,VAR_9

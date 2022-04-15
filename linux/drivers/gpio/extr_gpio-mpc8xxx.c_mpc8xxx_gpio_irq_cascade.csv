@@ -1,0 +1,16 @@
+GPIO_IER,VAR_0
+GPIO_IMR,VAR_1
+ffs,FUNC_0
+generic_handle_irq,FUNC_1
+irq_desc_get_chip,FUNC_2
+irq_desc_get_handler_data,FUNC_3
+irq_linear_revmap,FUNC_4
+stub1,FUNC_5
+stub2,FUNC_6
+stub3,FUNC_7
+mpc8xxx_gpio_irq_cascade,FUNC_8
+desc,VAR_2
+mpc8xxx_gc,VAR_3
+chip,VAR_4
+gc,VAR_5
+mask,VAR_6

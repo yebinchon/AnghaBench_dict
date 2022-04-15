@@ -1,0 +1,15 @@
+BLKFLSBUF,VAR_0
+EBUSY,VAR_1
+ENOTTY,VAR_2
+brd_free_pages,FUNC_0
+invalidate_bh_lrus,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+truncate_inode_pages,FUNC_4
+brd_ioctl,FUNC_5
+bdev,VAR_3
+mode,VAR_4
+cmd,VAR_5
+arg,VAR_6
+error,VAR_7
+brd,VAR_8

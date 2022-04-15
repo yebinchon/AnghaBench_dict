@@ -1,0 +1,17 @@
+S_IALLUGO,VAR_0
+S_IFMT,VAR_1
+TOMOYO_TYPE_CREATE,VAR_2
+TOMOYO_TYPE_MKBLOCK,VAR_3
+TOMOYO_TYPE_MKCHAR,VAR_4
+TOMOYO_TYPE_MKFIFO,VAR_5
+TOMOYO_TYPE_MKSOCK,VAR_6
+tomoyo_mkdev_perm,FUNC_0
+tomoyo_path_number_perm,FUNC_1
+tomoyo_path_mknod,FUNC_2
+parent,VAR_7
+dentry,VAR_8
+mode,VAR_9
+dev,VAR_10
+path,VAR_11
+type,VAR_12
+perm,VAR_13

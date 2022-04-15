@@ -1,0 +1,17 @@
+RT274_MCLK_CTRL,VAR_0
+RT274_PLL2_CTRL,VAR_1
+RT274_PLL2_SRC_BCLK,VAR_2
+RT274_PLL2_SRC_MASK,VAR_3
+RT274_PLL2_SRC_MCLK,VAR_4
+dev_warn,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+snd_soc_component_update_bits,FUNC_2
+snd_soc_component_write,FUNC_3
+rt274_set_dai_pll,FUNC_4
+dai,VAR_5
+pll_id,VAR_6
+source,VAR_7
+freq_in,VAR_8
+freq_out,VAR_9
+component,VAR_10
+rt274,VAR_11

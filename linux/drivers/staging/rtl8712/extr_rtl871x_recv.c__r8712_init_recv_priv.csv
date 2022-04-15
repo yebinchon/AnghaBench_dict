@@ -1,0 +1,17 @@
+GFP_ATOMIC,VAR_0
+INIT_LIST_HEAD,FUNC_0
+NR_RECVFRAME,VAR_1
+RXFRAME_ALIGN_SZ,VAR_2
+_init_queue,FUNC_1
+kmemleak_not_leak,FUNC_2
+kzalloc,FUNC_3
+list_add_tail,FUNC_4
+memset,FUNC_5
+r8712_init_recv_priv,FUNC_6
+r8712_os_recv_resource_alloc,FUNC_7
+spin_lock_init,FUNC_8
+_r8712_init_recv_priv,FUNC_9
+precvpriv,VAR_3
+padapter,VAR_4
+i,VAR_5
+precvframe,VAR_6

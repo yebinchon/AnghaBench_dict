@@ -1,0 +1,17 @@
+CCP2_LCx_CHANS_NUM,VAR_0
+ISPCCP2_CTRL,VAR_1
+ISPCCP2_CTRL_IF_EN,VAR_2
+ISPCCP2_CTRL_MODE,VAR_3
+ISPCCP2_LCx_CTRL,FUNC_0
+ISPCCP2_LCx_CTRL_CHAN_EN,VAR_4
+OMAP3_ISP_IOMEM_CCP2,VAR_5
+isp_reg_clr_set,FUNC_1
+regulator_disable,FUNC_2
+regulator_enable,FUNC_3
+to_isp_device,FUNC_4
+ccp2_if_enable,FUNC_5
+ccp2,VAR_6
+enable,VAR_7
+isp,VAR_8
+ret,VAR_9
+i,VAR_10

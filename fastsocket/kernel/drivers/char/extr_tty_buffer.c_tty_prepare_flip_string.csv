@@ -1,0 +1,13 @@
+TTY_NORMAL,VAR_0
+__tty_buffer_request_room,FUNC_0
+likely,FUNC_1
+memset,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+tty_prepare_flip_string,FUNC_5
+tty,VAR_1
+chars,VAR_2
+size,VAR_3
+space,VAR_4
+flags,VAR_5
+tb,VAR_6

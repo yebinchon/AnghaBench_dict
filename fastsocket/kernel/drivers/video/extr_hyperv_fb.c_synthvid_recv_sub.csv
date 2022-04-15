@@ -1,0 +1,16 @@
+HVFB_UPDATE_DELAY,VAR_0
+MAX_VMBUS_PKT_SIZE,VAR_1
+SYNTHVID_FEATURE_CHANGE,VAR_2
+SYNTHVID_VERSION_RESPONSE,VAR_3
+SYNTHVID_VRAM_LOCATION_ACK,VAR_4
+complete,FUNC_0
+hv_get_drvdata,FUNC_1
+memcpy,FUNC_2
+schedule_delayed_work,FUNC_3
+synthvid_send_ptr,FUNC_4
+synthvid_send_situ,FUNC_5
+synthvid_recv_sub,FUNC_6
+hdev,VAR_5
+info,VAR_6
+par,VAR_7
+msg,VAR_8

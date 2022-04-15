@@ -1,0 +1,17 @@
+ADXRS450_DNC1,VAR_0
+ADXRS450_QUAD1,VAR_1
+ADXRS450_TEMP1,VAR_2
+EINVAL,VAR_3
+IIO_VAL_INT,VAR_4
+IIO_VAL_INT_PLUS_NANO,VAR_5
+adxrs450_spi_read_reg_16,FUNC_0
+adxrs450_spi_sensor_data,FUNC_1
+sign_extend32,FUNC_2
+adxrs450_read_raw,FUNC_3
+indio_dev,VAR_6
+chan,VAR_7
+val,VAR_8
+val2,VAR_9
+mask,VAR_10
+ret,VAR_11
+t,VAR_12

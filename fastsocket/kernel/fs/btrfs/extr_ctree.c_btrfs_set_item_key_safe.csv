@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+btrfs_cpu_key_to_disk,FUNC_1
+btrfs_header_nritems,FUNC_2
+btrfs_item_key,FUNC_3
+btrfs_mark_buffer_dirty,FUNC_4
+btrfs_set_item_key,FUNC_5
+comp_keys,FUNC_6
+fixup_low_keys,FUNC_7
+btrfs_set_item_key_safe,FUNC_8
+trans,VAR_0
+root,VAR_1
+path,VAR_2
+new_key,VAR_3
+disk_key,VAR_4
+eb,VAR_5
+slot,VAR_6

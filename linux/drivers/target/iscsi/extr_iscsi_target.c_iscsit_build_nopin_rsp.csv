@@ -1,0 +1,13 @@
+ISCSI_FLAG_CMD_FINAL,VAR_0
+ISCSI_OP_NOOP_IN,VAR_1
+atomic_read,FUNC_0
+cpu_to_be32,FUNC_1
+hton24,FUNC_2
+iscsit_increment_maxcmdsn,FUNC_3
+pr_debug,FUNC_4
+put_unaligned_le64,FUNC_5
+iscsit_build_nopin_rsp,FUNC_6
+cmd,VAR_2
+conn,VAR_3
+hdr,VAR_4
+nopout_response,VAR_5

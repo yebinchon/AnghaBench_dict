@@ -1,0 +1,11 @@
+auth_packed_rrset_copy_region,FUNC_0
+log_assert,FUNC_1
+msg_grow_array,FUNC_2
+msg_rrset_duplicate,FUNC_3
+msg_ttl,FUNC_4
+msg_add_rrset_an,FUNC_5
+z,VAR_0
+region,VAR_1
+msg,VAR_2
+node,VAR_3
+rrset,VAR_4

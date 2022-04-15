@@ -1,0 +1,15 @@
+AX_CMD_READ_MII_REG,VAR_0
+asix_read_cmd,FUNC_0
+asix_set_hw_mii,FUNC_1
+asix_set_sw_mii,FUNC_2
+devdbg,FUNC_3
+le16_to_cpu,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+netdev_priv,FUNC_7
+asix_mdio_read,FUNC_8
+netdev,VAR_1
+phy_id,VAR_2
+loc,VAR_3
+dev,VAR_4
+res,VAR_5

@@ -1,0 +1,16 @@
+CPU_CLR,FUNC_0
+CPU_CLR_ATOMIC,FUNC_1
+CPU_SET,FUNC_2
+CPU_SET_ATOMIC,FUNC_3
+CPU_VENDOR_INTEL,VAR_0
+PCPU_GET,FUNC_4
+cpu_vendor_id,VAR_1
+curpmap,VAR_2
+mfence,FUNC_5
+pmap_activate_sw_mode,FUNC_6
+vmspace_pmap,FUNC_7
+pmap_activate_sw,FUNC_8
+td,VAR_3
+oldpmap,VAR_4
+pmap,VAR_5
+cpuid,VAR_6

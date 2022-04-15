@@ -1,0 +1,17 @@
+FilterRelease,FUNC_0
+SubFilterDelProxyCallbacks,VAR_0
+SubSourceClean,VAR_1
+SubSourceDelProxyCallbacks,VAR_2
+filter_chain_Delete,FUNC_1
+filter_chain_ForEach,FUNC_2
+free,FUNC_3
+spu_channel_Clean,FUNC_4
+video_format_Clean,FUNC_5
+vlc_cond_destroy,FUNC_6
+vlc_mutex_destroy,FUNC_7
+vlc_vector_clear,FUNC_8
+vlc_vector_destroy,FUNC_9
+spu_Cleanup,FUNC_10
+spu,VAR_3
+sys,VAR_4
+i,VAR_5

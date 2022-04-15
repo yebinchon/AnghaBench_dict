@@ -1,0 +1,12 @@
+M48T35_RTC_READ,VAR_0
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+readb,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+writeb,FUNC_5
+m48t35_read_time,FUNC_6
+dev,VAR_1
+tm,VAR_2
+priv,VAR_3
+control,VAR_4

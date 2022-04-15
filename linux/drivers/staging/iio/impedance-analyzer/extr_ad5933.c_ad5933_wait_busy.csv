@@ -1,0 +1,12 @@
+AD5933_MAX_RETRIES,VAR_0
+AD5933_REG_STATUS,VAR_1
+EAGAIN,VAR_2
+ad5933_i2c_read,FUNC_0
+cpu_relax,FUNC_1
+mdelay,FUNC_2
+ad5933_wait_busy,FUNC_3
+st,VAR_3
+event,VAR_4
+val,VAR_5
+timeout,VAR_6
+ret,VAR_7

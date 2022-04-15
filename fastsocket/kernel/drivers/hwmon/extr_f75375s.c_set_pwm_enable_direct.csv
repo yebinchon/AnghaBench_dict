@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+F75375_REG_FAN_PWM_DUTY,FUNC_0
+F75375_REG_FAN_TIMER,VAR_1
+FAN_CTRL_MODE,FUNC_1
+f75375_read8,FUNC_2
+f75375_write8,FUNC_3
+i2c_get_clientdata,FUNC_4
+set_pwm_enable_direct,FUNC_5
+client,VAR_2
+nr,VAR_3
+val,VAR_4
+data,VAR_5
+fanmode,VAR_6

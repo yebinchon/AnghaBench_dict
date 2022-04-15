@@ -1,0 +1,14 @@
+I915_WRITE_FW,FUNC_0
+IS_IVYBRIDGE,FUNC_1
+SPRCTL,FUNC_2
+SPRSCALE,FUNC_3
+SPRSURF,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+to_i915,FUNC_7
+ivb_disable_plane,FUNC_8
+plane,VAR_0
+crtc_state,VAR_1
+dev_priv,VAR_2
+pipe,VAR_3
+irqflags,VAR_4

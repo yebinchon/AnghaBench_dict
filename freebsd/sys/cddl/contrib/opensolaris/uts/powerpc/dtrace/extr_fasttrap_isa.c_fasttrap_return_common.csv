@@ -1,0 +1,15 @@
+FASTTRAP_TPOINTS_INDEX,FUNC_0
+dtrace_probe,FUNC_1
+fasttrap_tp_lock,VAR_0
+fasttrap_tpoints,VAR_1
+rm_rlock,FUNC_2
+rm_runlock,FUNC_3
+fasttrap_return_common,FUNC_4
+rp,VAR_2
+pc,VAR_3
+pid,VAR_4
+new_pc,VAR_5
+tracker,VAR_6
+tp,VAR_7
+bucket,VAR_8
+id,VAR_9

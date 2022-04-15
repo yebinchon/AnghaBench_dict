@@ -1,0 +1,16 @@
+AV_NOPTS_VALUE,VAR_0
+av_frame_alloc,FUNC_0
+av_frame_free,FUNC_1
+av_init_packet,FUNC_2
+av_rescale_q,FUNC_3
+av_samples_get_buffer_size,FUNC_4
+avcodec_encode_audio2,FUNC_5
+avcodec_fill_audio_frame,FUNC_6
+planarize_audio,FUNC_7
+encode_audio,FUNC_8
+handle,VAR_1
+pkt,VAR_2
+dry,VAR_3
+frame,VAR_4
+samples_size,VAR_5
+got_packet,VAR_6

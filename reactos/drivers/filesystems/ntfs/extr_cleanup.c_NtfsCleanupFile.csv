@@ -1,0 +1,13 @@
+CcUninitializeCacheMap,FUNC_0
+DPRINT,FUNC_1
+ExAcquireResourceExclusiveLite,FUNC_2
+ExReleaseResourceLite,FUNC_3
+FCB_IS_VOLUME,VAR_0
+FO_CLEANUP_COMPLETE,VAR_1
+STATUS_PENDING,VAR_2
+STATUS_SUCCESS,VAR_3
+NtfsCleanupFile,FUNC_4
+DeviceExt,VAR_4
+FileObject,VAR_5
+CanWait,VAR_6
+Fcb,VAR_7

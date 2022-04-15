@@ -1,0 +1,11 @@
+PCI_EXT_CAP_ID_LTR,VAR_0
+PCI_LTR_MAX_NOSNOOP_LAT,VAR_1
+PCI_LTR_MAX_SNOOP_LAT,VAR_2
+pci_find_ext_capability,FUNC_0
+pci_find_saved_ext_cap,FUNC_1
+pci_write_config_word,FUNC_2
+pci_restore_ltr_state,FUNC_3
+dev,VAR_3
+save_state,VAR_4
+ltr,VAR_5
+cap,VAR_6

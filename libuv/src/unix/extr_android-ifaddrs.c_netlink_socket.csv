@@ -1,0 +1,14 @@
+AF_NETLINK,VAR_0
+NETLINK_ROUTE,VAR_1
+PF_NETLINK,VAR_2
+SOCK_RAW,VAR_3
+bind,FUNC_0
+close,FUNC_1
+getsockname,FUNC_2
+memset,FUNC_3
+socket,FUNC_4
+netlink_socket,FUNC_5
+p_pid,VAR_4
+l_addr,VAR_5
+l_len,VAR_6
+l_socket,VAR_7

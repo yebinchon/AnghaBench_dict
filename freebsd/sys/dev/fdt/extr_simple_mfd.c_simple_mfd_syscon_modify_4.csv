@@ -1,0 +1,12 @@
+SYSCON_LOCK,FUNC_0
+SYSCON_UNLOCK,FUNC_1
+bus_read_4,FUNC_2
+bus_write_4,FUNC_3
+device_get_softc,FUNC_4
+simple_mfd_syscon_modify_4,FUNC_5
+syscon,VAR_0
+offset,VAR_1
+clear_bits,VAR_2
+set_bits,VAR_3
+sc,VAR_4
+val,VAR_5

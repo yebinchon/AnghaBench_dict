@@ -1,0 +1,10 @@
+PT_WRITABLE_MASK,VAR_0
+SPTE_MMU_WRITEABLE,VAR_1
+is_writable_pte,FUNC_0
+mmu_spte_update,FUNC_1
+rmap_printk,FUNC_2
+spte_can_locklessly_be_made_writable,FUNC_3
+spte_write_protect,FUNC_4
+sptep,VAR_2
+pt_protect,VAR_3
+spte,VAR_4

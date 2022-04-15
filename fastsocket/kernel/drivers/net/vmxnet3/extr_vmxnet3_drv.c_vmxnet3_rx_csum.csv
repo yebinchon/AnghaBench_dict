@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+CHECKSUM_PARTIAL,VAR_0
+CHECKSUM_UNNECESSARY,VAR_1
+VMXNET3_RCD_CSUM_OK,VAR_2
+htons,FUNC_1
+le32_to_cpu,FUNC_2
+skb_checksum_none_assert,FUNC_3
+vmxnet3_rx_csum,FUNC_4
+adapter,VAR_3
+skb,VAR_4
+gdesc,VAR_5

@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+JZ4780_CLK_UHC,VAR_1
+clkdom_unlock,FUNC_0
+clkdom_xlock,FUNC_1
+clknode_find_by_id,FUNC_2
+clknode_set_freq,FUNC_3
+clknode_set_parent_by_name,FUNC_4
+device_printf,FUNC_5
+jz4780_clock_fixup,FUNC_6
+sc,VAR_2
+clk_uhc,VAR_3
+ret,VAR_4

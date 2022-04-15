@@ -1,0 +1,17 @@
+MSG_DEBUG,VAR_0
+WPS_CONTINUE,VAR_1
+WPS_DONE,VAR_2
+eloop_cancel_timeout,FUNC_0
+eloop_register_timeout,FUNC_1
+wpa_printf,FUNC_2
+wps_deinit,FUNC_3
+wps_er_sta_send_msg,FUNC_4
+wps_er_sta_timeout,VAR_3
+wps_get_msg,FUNC_5
+wps_process_msg,FUNC_6
+wps_er_sta_process,FUNC_7
+sta,VAR_4
+msg,VAR_5
+op_code,VAR_6
+res,VAR_7
+next,VAR_8

@@ -1,0 +1,14 @@
+SECP256K1_GEJ_CONST,FUNC_0
+SECP256K1_SCALAR_CONST,FUNC_1
+ge_equals_gej,FUNC_2
+secp256k1_ecmult_const,FUNC_3
+secp256k1_ge_const_g,VAR_0
+secp256k1_ge_set_gej,FUNC_4
+secp256k1_gej_set_ge,FUNC_5
+ecmult_const_chain_multiply,FUNC_6
+scalar,VAR_1
+expected_point,VAR_2
+point,VAR_3
+res,VAR_4
+i,VAR_5
+tmp,VAR_6

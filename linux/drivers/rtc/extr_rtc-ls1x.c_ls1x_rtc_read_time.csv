@@ -1,0 +1,17 @@
+LS1X_YEAR_MASK,VAR_0
+SYS_TOYREAD0,VAR_1
+SYS_TOYREAD1,VAR_2
+ls1x_get_day,FUNC_0
+ls1x_get_hour,FUNC_1
+ls1x_get_min,FUNC_2
+ls1x_get_month,FUNC_3
+ls1x_get_sec,FUNC_4
+memset,FUNC_5
+mktime64,FUNC_6
+readl,FUNC_7
+rtc_time64_to_tm,FUNC_8
+ls1x_rtc_read_time,FUNC_9
+dev,VAR_3
+rtm,VAR_4
+v,VAR_5
+t,VAR_6

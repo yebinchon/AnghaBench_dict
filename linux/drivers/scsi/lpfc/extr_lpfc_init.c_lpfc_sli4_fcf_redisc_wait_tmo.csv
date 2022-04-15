@@ -1,0 +1,14 @@
+FCF_REDISC_EVT,VAR_0
+FCF_REDISC_PEND,VAR_1
+KERN_INFO,VAR_2
+LOG_FIP,VAR_3
+fcf,VAR_4
+from_timer,FUNC_0
+lpfc_printf_log,FUNC_1
+lpfc_worker_wake_up,FUNC_2
+phba,VAR_5
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+lpfc_sli4_fcf_redisc_wait_tmo,FUNC_5
+t,VAR_6
+phba,VAR_7

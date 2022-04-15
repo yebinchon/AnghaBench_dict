@@ -1,0 +1,15 @@
+NETIF_F_RXCSUM,VAR_0
+RXCHK_BRCM_TAG_EN,VAR_1
+RXCHK_CONTROL,VAR_2
+RXCHK_EN,VAR_3
+RXCHK_L2_HDR_DIS,VAR_4
+RXCHK_SKIP_FCS,VAR_5
+netdev_priv,FUNC_0
+netdev_uses_dsa,FUNC_1
+rxchk_readl,FUNC_2
+rxchk_writel,FUNC_3
+bcm_sysport_set_rx_csum,FUNC_4
+dev,VAR_6
+wanted,VAR_7
+priv,VAR_8
+reg,VAR_9

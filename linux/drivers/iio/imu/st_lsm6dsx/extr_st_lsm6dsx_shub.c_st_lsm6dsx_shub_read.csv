@@ -1,0 +1,17 @@
+ST_LS6DSX_READ_OP_MASK,VAR_0
+ST_LSM6DSX_SLV_ADDR,FUNC_0
+memset,FUNC_1
+st_lsm6dsx_shub_master_enable,FUNC_2
+st_lsm6dsx_shub_read_reg,FUNC_3
+st_lsm6dsx_shub_wait_complete,FUNC_4
+st_lsm6dsx_shub_write_reg,FUNC_5
+st_lsm6dsx_shub_read,FUNC_6
+sensor,VAR_1
+addr,VAR_2
+data,VAR_3
+len,VAR_4
+hub_settings,VAR_5
+hw,VAR_6
+config,VAR_7
+slv_addr,VAR_8
+err,VAR_9

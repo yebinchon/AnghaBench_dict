@@ -1,0 +1,14 @@
+NL80211_CMD_UNEXPECTED_4ADDR_FRAME,VAR_0
+NL80211_IFTYPE_AP,VAR_1
+NL80211_IFTYPE_AP_VLAN,VAR_2
+NL80211_IFTYPE_P2P_GO,VAR_3
+WARN_ON,FUNC_0
+__nl80211_unexpected_frame,FUNC_1
+trace_cfg80211_return_bool,FUNC_2
+trace_cfg80211_rx_unexpected_4addr_frame,FUNC_3
+cfg80211_rx_unexpected_4addr_frame,FUNC_4
+dev,VAR_4
+addr,VAR_5
+gfp,VAR_6
+wdev,VAR_7
+ret,VAR_8

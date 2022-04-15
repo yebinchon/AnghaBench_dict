@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+RX_CREDITS_V,FUNC_0
+RX_DACK_CHANGE_F,VAR_1
+RX_DACK_MODE_V,FUNC_1
+__skb_queue_tail,FUNC_2
+alloc_skb,FUNC_3
+cxgb_mk_rx_data_ack,FUNC_4
+cxgbit_send_rx_credits,FUNC_5
+roundup,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+cxgbit_rx_data_ack,FUNC_9
+csk,VAR_2
+skb,VAR_3
+len,VAR_4
+credit_dack,VAR_5
+skb,VAR_6

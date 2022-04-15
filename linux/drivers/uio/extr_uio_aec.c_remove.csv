@@ -1,0 +1,16 @@
+INT_DISABLE,VAR_0
+INT_ENABLE_ADDR,VAR_1
+INT_MASK_ADDR,VAR_2
+MAILBOX,VAR_3
+ioread8,FUNC_0
+iounmap,FUNC_1
+iowrite32,FUNC_2
+iowrite8,FUNC_3
+kfree,FUNC_4
+pci_disable_device,FUNC_5
+pci_get_drvdata,FUNC_6
+pci_release_regions,FUNC_7
+uio_unregister_device,FUNC_8
+remove,FUNC_9
+pdev,VAR_4
+info,VAR_5

@@ -1,0 +1,15 @@
+IRQ_CONTROL,VAR_0
+IRQ_CONTROL_ALL_IRQ_MASK,VAR_1
+KERN_INFO,VAR_2
+NSP32_DEBUG_BUSRESET,VAR_3
+SUCCESS,VAR_4
+nsp32_dbg,FUNC_0
+nsp32_do_bus_reset,FUNC_1
+nsp32_msg,FUNC_2
+nsp32_write2,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+nsp32_eh_bus_reset,FUNC_6
+SCpnt,VAR_5
+data,VAR_6
+base,VAR_7

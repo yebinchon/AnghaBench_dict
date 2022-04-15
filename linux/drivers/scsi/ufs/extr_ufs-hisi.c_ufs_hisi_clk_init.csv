@@ -1,0 +1,14 @@
+BIT_SYSCTRL_REF_CLOCK_EN,VAR_0
+BIT_UFS_REFCLK_ISO_EN,VAR_1
+BIT_UFS_REFCLK_SRC_SEl,VAR_2
+PHY_CLK_CTRL,VAR_3
+PHY_ISO_EN,VAR_4
+UFS_SYSCTRL,VAR_5
+mdelay,FUNC_0
+ufs_sys_ctrl_clr_bits,FUNC_1
+ufs_sys_ctrl_readl,FUNC_2
+ufs_sys_ctrl_set_bits,FUNC_3
+ufshcd_get_variant,FUNC_4
+ufs_hisi_clk_init,FUNC_5
+hba,VAR_6
+host,VAR_7

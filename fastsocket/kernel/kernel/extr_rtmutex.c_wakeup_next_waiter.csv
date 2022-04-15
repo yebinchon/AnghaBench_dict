@@ -1,0 +1,17 @@
+RT_MUTEX_OWNER_PENDING,VAR_0
+WARN_ON,FUNC_0
+current,VAR_1
+plist_add,FUNC_1
+plist_del,FUNC_2
+rt_mutex_has_waiters,FUNC_3
+rt_mutex_set_owner,FUNC_4
+rt_mutex_top_waiter,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+wake_up_process,FUNC_8
+wakeup_next_waiter,FUNC_9
+lock,VAR_2
+waiter,VAR_3
+pendowner,VAR_4
+flags,VAR_5
+next,VAR_6

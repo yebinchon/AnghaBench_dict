@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+dmu_tx_pool,FUNC_1
+dsl_dataset_get_remap_deadlist_object,FUNC_2
+dsl_dataset_set_remap_deadlist_object,FUNC_3
+dsl_dataset_unset_remap_deadlist_object,FUNC_4
+dsl_deadlist_close,FUNC_5
+dsl_deadlist_open,FUNC_6
+dsl_pool_sync_context,FUNC_7
+dsl_dataset_swap_remap_deadlists,FUNC_8
+clone,VAR_0
+origin,VAR_1
+tx,VAR_2
+clone_remap_dl_obj,VAR_3
+origin_remap_dl_obj,VAR_4
+dp,VAR_5

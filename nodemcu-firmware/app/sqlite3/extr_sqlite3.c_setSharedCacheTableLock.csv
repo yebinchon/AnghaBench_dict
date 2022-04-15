@@ -1,0 +1,16 @@
+READ_LOCK,VAR_0
+SQLITE_NOMEM_BKPT,VAR_1
+SQLITE_OK,VAR_2
+SQLITE_ReadUncommitted,VAR_3
+WRITE_LOCK,VAR_4
+assert,FUNC_0
+querySharedCacheTableLock,FUNC_1
+sqlite3BtreeHoldsMutex,FUNC_2
+sqlite3MallocZero,FUNC_3
+setSharedCacheTableLock,FUNC_4
+p,VAR_5
+iTable,VAR_6
+eLock,VAR_7
+pBt,VAR_8
+pLock,VAR_9
+pIter,VAR_10

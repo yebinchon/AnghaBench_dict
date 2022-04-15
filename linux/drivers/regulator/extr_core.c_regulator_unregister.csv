@@ -1,0 +1,15 @@
+WARN_ON,FUNC_0
+debugfs_remove_recursive,FUNC_1
+device_unregister,FUNC_2
+flush_work,FUNC_3
+list_del,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+regulator_disable,FUNC_7
+regulator_ena_gpio_free,FUNC_8
+regulator_list_mutex,VAR_0
+regulator_put,FUNC_9
+regulator_remove_coupling,FUNC_10
+unset_regulator_supplies,FUNC_11
+regulator_unregister,FUNC_12
+rdev,VAR_1

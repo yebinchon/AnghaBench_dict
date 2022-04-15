@@ -1,0 +1,16 @@
+MTX_DEF,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+PWAIT,VAR_3
+TAILQ_INIT,FUNC_0
+atomic_set,FUNC_1
+kmalloc,FUNC_2
+linux_default_wq_cpus,VAR_4
+mtx_init,FUNC_3
+taskqueue_create,FUNC_4
+taskqueue_start_threads,FUNC_5
+taskqueue_thread_enqueue,VAR_5
+linux_create_workqueue_common,FUNC_6
+name,VAR_6
+cpus,VAR_7
+wq,VAR_8

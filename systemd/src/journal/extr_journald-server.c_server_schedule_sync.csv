@@ -1,0 +1,17 @@
+CLOCK_MONOTONIC,VAR_0
+LOG_CRIT,VAR_1
+SD_EVENT_ONESHOT,VAR_2
+SD_EVENT_PRIORITY_IMPORTANT,VAR_3
+assert,FUNC_0
+sd_event_add_time,FUNC_1
+sd_event_now,FUNC_2
+sd_event_source_set_enabled,FUNC_3
+sd_event_source_set_priority,FUNC_4
+sd_event_source_set_time,FUNC_5
+server_dispatch_sync,VAR_4
+server_sync,FUNC_6
+server_schedule_sync,FUNC_7
+s,VAR_5
+priority,VAR_6
+r,VAR_7
+when,VAR_8

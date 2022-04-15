@@ -1,0 +1,11 @@
+X509_FILETYPE_DEFAULT,VAR_0
+X509_LOOKUP_add_dir,FUNC_0
+X509_LOOKUP_file,FUNC_1
+X509_LOOKUP_hash_dir,FUNC_2
+X509_LOOKUP_load_file,FUNC_3
+X509_STORE_add_lookup,FUNC_4
+X509_STORE_free,FUNC_5
+X509_STORE_new,FUNC_6
+ptls_openssl_create_default_certificate_store,FUNC_7
+store,VAR_1
+lookup,VAR_2

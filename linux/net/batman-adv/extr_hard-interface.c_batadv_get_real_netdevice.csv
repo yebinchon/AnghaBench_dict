@@ -1,0 +1,15 @@
+ASSERT_RTNL,FUNC_0
+batadv_getlink_net,FUNC_1
+batadv_hardif_get_by_netdev,FUNC_2
+batadv_hardif_put,FUNC_3
+dev_get_by_index,FUNC_4
+dev_get_iflink,FUNC_5
+dev_hold,FUNC_6
+dev_net,FUNC_7
+batadv_get_real_netdevice,FUNC_8
+netdev,VAR_0
+hard_iface,VAR_1
+real_netdev,VAR_2
+real_net,VAR_3
+net,VAR_4
+ifindex,VAR_5

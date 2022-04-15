@@ -1,0 +1,12 @@
+TIMER_REG_CTL,VAR_0
+TIMER_REG_CVAL,VAR_1
+kvm_arm_timer_write,FUNC_0
+kvm_phys_timer_read,FUNC_1
+update_vtimer_cntvoff,FUNC_2
+vcpu_ptimer,FUNC_3
+vcpu_vtimer,FUNC_4
+kvm_arm_timer_set_reg,FUNC_5
+vcpu,VAR_2
+regid,VAR_3
+value,VAR_4
+timer,VAR_5

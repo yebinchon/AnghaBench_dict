@@ -1,0 +1,16 @@
+MSR_DEBUGCTLMSR,VAR_0
+load_dr0,FUNC_0
+load_dr1,FUNC_1
+load_dr2,FUNC_2
+load_dr3,FUNC_3
+load_dr7,FUNC_4
+rdmsr,FUNC_5
+rdr0,FUNC_6
+rdr1,FUNC_7
+rdr2,FUNC_8
+rdr3,FUNC_9
+rdr6,FUNC_10
+rdr7,FUNC_11
+wrmsr,FUNC_12
+svm_dr_enter_guest,FUNC_13
+gctx,VAR_1

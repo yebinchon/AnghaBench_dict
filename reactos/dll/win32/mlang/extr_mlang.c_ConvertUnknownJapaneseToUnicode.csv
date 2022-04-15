@@ -1,0 +1,17 @@
+CP_ACP,VAR_0
+ConvertJIS2SJIS,FUNC_0
+DetectJapaneseCode,FUNC_1
+GetProcessHeap,FUNC_2
+HeapAlloc,FUNC_3
+HeapFree,FUNC_4
+MultiByteToWideChar,FUNC_5
+TRACE,FUNC_6
+debugstr_an,FUNC_7
+ConvertUnknownJapaneseToUnicode,FUNC_8
+input,VAR_1
+count,VAR_2
+output,VAR_3
+out_count,VAR_4
+sjis_string,VAR_5
+rc,VAR_6
+code,VAR_7

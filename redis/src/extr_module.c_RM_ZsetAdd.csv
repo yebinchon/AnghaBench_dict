@@ -1,0 +1,15 @@
+OBJ_ZSET,VAR_0
+REDISMODULE_ERR,VAR_1
+REDISMODULE_KEYTYPE_ZSET,VAR_2
+REDISMODULE_OK,VAR_3
+REDISMODULE_WRITE,VAR_4
+RM_ZsetAddFlagsFromCoreFlags,FUNC_0
+RM_ZsetAddFlagsToCoreFlags,FUNC_1
+moduleCreateEmptyKey,FUNC_2
+zsetAdd,FUNC_3
+RM_ZsetAdd,FUNC_4
+key,VAR_5
+score,VAR_6
+ele,VAR_7
+flagsptr,VAR_8
+flags,VAR_9

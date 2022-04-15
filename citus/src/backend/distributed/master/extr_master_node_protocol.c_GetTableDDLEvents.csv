@@ -1,0 +1,14 @@
+CreatePolicyCommands,FUNC_0
+GetTableCreationCommands,FUNC_1
+GetTableIndexAndConstraintCommands,FUNC_2
+GetTableReplicaIdentityCommand,FUNC_3
+NIL,VAR_0
+list_concat,FUNC_4
+GetTableDDLEvents,FUNC_5
+relationId,VAR_1
+includeSequenceDefaults,VAR_2
+tableDDLEventList,VAR_3
+tableCreationCommandList,VAR_4
+indexAndConstraintCommandList,VAR_5
+replicaIdentityEvents,VAR_6
+policyCommands,VAR_7

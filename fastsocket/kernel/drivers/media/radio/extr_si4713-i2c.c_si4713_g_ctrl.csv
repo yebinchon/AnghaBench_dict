@@ -1,0 +1,12 @@
+ENODEV,VAR_0
+SI4713_TX_LINE_INPUT_MUTE,VAR_1
+get_mute,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+si4713_read_property,FUNC_3
+to_si4713_device,FUNC_4
+si4713_g_ctrl,FUNC_5
+sd,VAR_2
+ctrl,VAR_3
+sdev,VAR_4
+rval,VAR_5

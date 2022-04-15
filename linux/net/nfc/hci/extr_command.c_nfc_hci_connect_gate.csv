@@ -1,0 +1,16 @@
+EADDRINUSE,VAR_0
+NFC_HCI_ADMIN_PIPE,VAR_1
+NFC_HCI_DO_NOT_CREATE_PIPE,VAR_2
+NFC_HCI_INVALID_PIPE,VAR_3
+NFC_HCI_LINK_MGMT_PIPE,VAR_4
+nfc_hci_create_pipe,FUNC_0
+nfc_hci_delete_pipe,FUNC_1
+nfc_hci_open_pipe,FUNC_2
+pr_debug,FUNC_3
+nfc_hci_connect_gate,FUNC_4
+hdev,VAR_5
+dest_host,VAR_6
+dest_gate,VAR_7
+pipe,VAR_8
+pipe_created,VAR_9
+r,VAR_10

@@ -1,0 +1,12 @@
+Assert,FUNC_0
+pgStatXactCommit,VAR_0
+pgStatXactRollback,VAR_1
+pgStatXactStack,VAR_2
+pgstat_clear_snapshot,FUNC_1
+pgstat_truncate_restore_counters,FUNC_2
+AtEOXact_PgStat,FUNC_3
+isCommit,VAR_3
+parallel,VAR_4
+xact_state,VAR_5
+trans,VAR_6
+tabstat,VAR_7

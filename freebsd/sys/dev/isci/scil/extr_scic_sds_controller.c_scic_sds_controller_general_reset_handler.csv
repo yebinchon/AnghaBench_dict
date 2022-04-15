@@ -1,0 +1,11 @@
+SCIC_LOG_OBJECT_CONTROLLER,VAR_0
+SCIC_LOG_TRACE,FUNC_0
+SCI_BASE_CONTROLLER_STATE_RESETTING,VAR_1
+SCI_SUCCESS,VAR_2
+sci_base_object_get_logger,FUNC_1
+sci_base_state_machine_change_state,FUNC_2
+scic_sds_controller_get_base_state_machine,FUNC_3
+scic_sds_controller_release_resource,FUNC_4
+scic_sds_controller_general_reset_handler,FUNC_5
+controller,VAR_3
+this_controller,VAR_4

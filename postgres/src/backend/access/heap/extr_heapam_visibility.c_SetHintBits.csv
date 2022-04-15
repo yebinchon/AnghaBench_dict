@@ -1,0 +1,12 @@
+BufferGetLSNAtomic,FUNC_0
+BufferIsPermanent,FUNC_1
+MarkBufferDirtyHint,FUNC_2
+TransactionIdGetCommitLSN,FUNC_3
+TransactionIdIsValid,FUNC_4
+XLogNeedsFlush,FUNC_5
+SetHintBits,FUNC_6
+tuple,VAR_0
+buffer,VAR_1
+infomask,VAR_2
+xid,VAR_3
+commitLSN,VAR_4

@@ -1,0 +1,10 @@
+HIST_FILTER__DSO,VAR_0
+HIST_FILTER__SYMBOL,VAR_1
+HIST_FILTER__THREAD,VAR_2
+check_thread_entry,VAR_3
+hist_entry__check_and_remove_filter,FUNC_0
+hists__apply_filters,FUNC_1
+perf_hpp__is_dso_entry,VAR_4
+perf_hpp__is_sym_entry,VAR_5
+hist_entry__apply_hierarchy_filters,FUNC_2
+he,VAR_6

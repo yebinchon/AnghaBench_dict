@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+EOPNOTSUPP,VAR_1
+ETIMEDOUT,VAR_2
+PD_PPS_CTRL_TIMEOUT,VAR_3
+SNK_NEGOTIATE_CAPABILITIES,VAR_4
+SNK_NEGOTIATE_PPS_CAPABILITIES,VAR_5
+SNK_READY,VAR_6
+msecs_to_jiffies,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+reinit_completion,FUNC_3
+tcpm_set_state,FUNC_4
+wait_for_completion_timeout,FUNC_5
+tcpm_pps_activate,FUNC_6
+port,VAR_7
+activate,VAR_8
+ret,VAR_9

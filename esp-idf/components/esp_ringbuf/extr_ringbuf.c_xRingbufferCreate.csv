@@ -1,0 +1,16 @@
+RINGBUF_TYPE_BYTEBUF,VAR_0
+RINGBUF_TYPE_MAX,VAR_1
+calloc,FUNC_0
+configASSERT,FUNC_1
+free,FUNC_2
+malloc,FUNC_3
+prvInitializeNewRingbuffer,FUNC_4
+rbALIGN_SIZE,FUNC_5
+vSemaphoreDelete,FUNC_6
+xSemaphoreCreateBinary,FUNC_7
+xSemaphoreCreateBinaryStatic,FUNC_8
+xRingbufferCreate,FUNC_9
+xBufferSize,VAR_2
+xBufferType,VAR_3
+pxNewRingbuffer,VAR_4
+pucRingbufferStorage,VAR_5

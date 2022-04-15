@@ -1,0 +1,14 @@
+BUS_PROBE_GENERIC,VAR_0
+CPUID_STEPPING,VAR_1
+CPUID_TO_FAMILY,FUNC_0
+CPUID_TO_MODEL,FUNC_1
+ENXIO,VAR_2
+amdtemp_match,FUNC_2
+cpu_id,VAR_3
+device_get_parent,FUNC_3
+device_set_desc,FUNC_4
+resource_disabled,FUNC_5
+amdtemp_probe,FUNC_6
+dev,VAR_4
+family,VAR_5
+model,VAR_6

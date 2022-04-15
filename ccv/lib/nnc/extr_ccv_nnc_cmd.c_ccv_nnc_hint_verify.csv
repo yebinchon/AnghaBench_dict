@@ -1,0 +1,15 @@
+CCV_NNC_MAX_DIM,VAR_0
+CCV_TENSOR_FORMAT_CHWN,VAR_1
+CCV_TENSOR_FORMAT_NCHW,VAR_2
+CCV_TENSOR_FORMAT_NHWC,VAR_3
+assert,FUNC_0
+ccv_nnc_tensor_nd,FUNC_1
+ccv_nnc_hint_verify,FUNC_2
+hint,VAR_4
+cmd,VAR_5
+a,VAR_6
+b,VAR_7
+i,VAR_8
+nd,VAR_9
+hw,VAR_10
+expected,VAR_11

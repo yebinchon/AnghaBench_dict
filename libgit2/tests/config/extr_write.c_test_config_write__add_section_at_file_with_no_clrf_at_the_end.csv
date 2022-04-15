@@ -1,0 +1,9 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_config_free,FUNC_2
+git_config_get_int32,FUNC_3
+git_config_open_ondisk,FUNC_4
+git_config_set_int32,FUNC_5
+test_config_write__add_section_at_file_with_no_clrf_at_the_end,FUNC_6
+cfg,VAR_0
+i,VAR_1

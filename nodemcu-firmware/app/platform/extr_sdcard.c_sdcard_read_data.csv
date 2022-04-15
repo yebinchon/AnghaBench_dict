@@ -1,0 +1,17 @@
+DATA_START_BLOCK,VAR_0
+FALSE,VAR_1
+SD_CARD_ERROR_READ,VAR_2
+TRUE,VAR_3
+m_error,VAR_4
+m_spi_no,VAR_5
+m_status,VAR_6
+platform_spi_blkread,FUNC_0
+platform_spi_send_recv,FUNC_1
+platform_spi_transaction,FUNC_2
+sdcard_chipselect_high,FUNC_3
+set_timeout,FUNC_4
+timed_out,FUNC_5
+sdcard_read_data,FUNC_6
+dst,VAR_7
+count,VAR_8
+to,VAR_9

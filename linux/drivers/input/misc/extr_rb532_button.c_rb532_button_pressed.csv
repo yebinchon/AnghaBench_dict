@@ -1,0 +1,8 @@
+GPIO_BTN_S1,VAR_0
+LO_FOFF,VAR_1
+gpio_direction_input,FUNC_0
+gpio_get_value,FUNC_1
+rb532_gpio_set_func,FUNC_2
+set_latch_u5,FUNC_3
+rb532_button_pressed,FUNC_4
+val,VAR_2

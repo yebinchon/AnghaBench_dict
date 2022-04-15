@@ -1,0 +1,11 @@
+ST0_CU2,VAR_0
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+octeon_cop2_restore,FUNC_2
+preempt_enable,FUNC_3
+read_c0_status,FUNC_4
+write_c0_status,FUNC_5
+octeon_crypto_disable,FUNC_6
+state,VAR_1
+crypto_flags,VAR_2
+flags,VAR_3

@@ -1,0 +1,17 @@
+SCSI_LUN,FUNC_0
+SD_CARD,VAR_0
+SENSE_TYPE_MEDIA_NOT_PRESENT,VAR_1
+SENSE_TYPE_MEDIA_UNRECOVER_READ_ERR,VAR_2
+TRANSPORT_FAILED,VAR_3
+TRANSPORT_GOOD,VAR_4
+check_card_ready,FUNC_1
+get_lun_card,FUNC_2
+rtsx_stor_set_xfer_buf,FUNC_3
+scsi_bufflen,FUNC_4
+scsi_set_resid,FUNC_5
+set_sense_type,FUNC_6
+get_sd_csd,FUNC_7
+srb,VAR_5
+chip,VAR_6
+sd_card,VAR_7
+lun,VAR_8

@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+RPC_PRIORITY_HIGH,VAR_1
+RPC_PRIORITY_LOW,VAR_2
+RPC_PRIORITY_NORMAL,VAR_3
+XPRT_LOCKED,VAR_4
+__xprt_get_cong,FUNC_0
+dprintk,FUNC_1
+rpc_sleep_on_priority,FUNC_2
+test_and_set_bit,FUNC_3
+xprt_clear_locked,FUNC_4
+xprt_reserve_xprt_cong,FUNC_5
+xprt,VAR_5
+task,VAR_6
+req,VAR_7
+priority,VAR_8

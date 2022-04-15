@@ -1,0 +1,13 @@
+ConditionalLockBufferForCleanup,FUNC_0
+ERROR,VAR_0
+InvalidBuffer,VAR_1
+P_NEW,VAR_2
+ReadBuffer,FUNC_1
+ReleaseBuffer,FUNC_2
+_hash_checkpage,FUNC_3
+elog,FUNC_4
+_hash_getbuf_with_condlock_cleanup,FUNC_5
+rel,VAR_3
+blkno,VAR_4
+flags,VAR_5
+buf,VAR_6

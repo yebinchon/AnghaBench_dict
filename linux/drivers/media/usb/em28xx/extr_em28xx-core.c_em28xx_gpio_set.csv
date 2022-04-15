@@ -1,0 +1,11 @@
+EM28XX_ANALOG_MODE,VAR_0
+EM28XX_R12_VINENABLE,VAR_1
+EM28XX_SUSPEND,VAR_2
+em28xx_write_reg,FUNC_0
+em28xx_write_reg_bits,FUNC_1
+msleep,FUNC_2
+usleep_range,FUNC_3
+em28xx_gpio_set,FUNC_4
+dev,VAR_3
+gpio,VAR_4
+rc,VAR_5

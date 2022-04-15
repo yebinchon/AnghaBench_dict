@@ -1,0 +1,13 @@
+CloseHandle,FUNC_0
+CreateFileMappingA,FUNC_1
+EMF_Create_HENHMETAFILE,FUNC_2
+FILE_MAP_READ,VAR_0
+MapViewOfFile,FUNC_3
+PAGE_READONLY,VAR_1
+TRUE,VAR_2
+UnmapViewOfFile,FUNC_4
+EMF_GetEnhMetaFile,FUNC_5
+hFile,VAR_3
+emh,VAR_4
+hMapping,VAR_5
+hemf,VAR_6

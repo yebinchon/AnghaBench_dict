@@ -1,0 +1,15 @@
+RADEON_HTOT_CNTL_VGA_EN,VAR_0
+RADEON_PIX2CLK_SRC_SEL_MASK,VAR_1
+RADEON_PIX2CLK_SRC_SEL_P2PLLCLK,VAR_2
+RADEON_PIXCLK_TV_SRC_SEL,VAR_3
+get_post_div,FUNC_0
+radeon_legacy_tv_get_std_mode,FUNC_1
+to_radeon_encoder,FUNC_2
+radeon_legacy_tv_adjust_pll1,FUNC_3
+encoder,VAR_4
+htotal_cntl,VAR_5
+ppll_ref_div,VAR_6
+ppll_div_3,VAR_7
+pixclks_cntl,VAR_8
+radeon_encoder,VAR_9
+const_ptr,VAR_10

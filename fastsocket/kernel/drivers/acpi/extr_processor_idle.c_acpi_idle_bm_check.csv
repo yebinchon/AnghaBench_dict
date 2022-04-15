@@ -1,0 +1,8 @@
+ACPI_BITREG_BUS_MASTER_STATUS,VAR_0
+acpi_read_bit_register,FUNC_0
+acpi_write_bit_register,FUNC_1
+bm_check_disable,VAR_1
+errata,VAR_2
+inb_p,FUNC_2
+acpi_idle_bm_check,FUNC_3
+bm_status,VAR_3

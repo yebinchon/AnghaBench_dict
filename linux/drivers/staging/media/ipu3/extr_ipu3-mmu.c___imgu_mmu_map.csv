@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+ENODEV,VAR_1
+ENOMEM,VAR_2
+IPU3_ADDR2PTE,FUNC_0
+address_to_pte_idx,FUNC_1
+imgu_mmu_get_l2pt,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+__imgu_mmu_map,FUNC_5
+mmu,VAR_3
+iova,VAR_4
+paddr,VAR_5
+l1pt_idx,VAR_6
+l2pt_idx,VAR_7
+flags,VAR_8
+l2pt,VAR_9

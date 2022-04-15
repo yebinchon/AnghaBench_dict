@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+EVM_XATTR_HMAC,VAR_1
+GFP_NOFS,VAR_2
+XATTR_EVM_SUFFIX,VAR_3
+evm_init_hmac,FUNC_0
+evm_key_loaded,FUNC_1
+evm_protected_xattr,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+evm_inode_init_security,FUNC_5
+inode,VAR_4
+lsm_xattr,VAR_5
+evm_xattr,VAR_6
+xattr_data,VAR_7
+rc,VAR_8

@@ -1,0 +1,13 @@
+AHC_BUSRESET_DELAY,VAR_0
+ENSCSIRST,VAR_1
+SCSIRSTO,VAR_2
+SCSISEQ,VAR_3
+SIMODE1,VAR_4
+ahc_clear_intstat,FUNC_0
+ahc_delay,FUNC_1
+ahc_flush_device_writes,FUNC_2
+ahc_inb,FUNC_3
+ahc_outb,FUNC_4
+ahc_reset_current_bus,FUNC_5
+ahc,VAR_5
+scsiseq,VAR_6

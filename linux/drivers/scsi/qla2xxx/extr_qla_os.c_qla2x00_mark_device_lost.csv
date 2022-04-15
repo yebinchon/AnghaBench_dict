@@ -1,0 +1,14 @@
+FCS_DEVICE_DEAD,VAR_0
+FCS_DEVICE_LOST,VAR_1
+FCS_ONLINE,VAR_2
+IS_QLAFX00,FUNC_0
+RELOGIN_NEEDED,VAR_3
+atomic_read,FUNC_1
+qla2x00_schedule_rport_del,FUNC_2
+qla2x00_set_fcport_state,FUNC_3
+set_bit,FUNC_4
+qla2x00_mark_device_lost,FUNC_5
+vha,VAR_4
+fcport,VAR_5
+do_login,VAR_6
+defer,VAR_7

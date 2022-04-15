@@ -1,0 +1,15 @@
+APIC_ACCESS_PAGE_PRIVATE_MEMSLOT,VAR_0
+APIC_DEFAULT_PHYS_BASE,VAR_1
+EFAULT,VAR_2
+PAGE_SHIFT,VAR_3
+PAGE_SIZE,VAR_4
+__x86_set_memory_region,FUNC_0
+gfn_to_page,FUNC_1
+is_error_page,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+put_page,FUNC_5
+alloc_apic_access_page,FUNC_6
+kvm,VAR_5
+page,VAR_6
+r,VAR_7

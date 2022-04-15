@@ -1,0 +1,17 @@
+assert,FUNC_0
+extent_activate_locked,FUNC_1
+extent_can_coalesce,FUNC_2
+extent_deactivate_locked,FUNC_3
+extent_merge_impl,FUNC_4
+malloc_mutex_lock,FUNC_5
+malloc_mutex_unlock,FUNC_6
+extent_coalesce,FUNC_7
+tsdn,VAR_0
+arena,VAR_1
+r_extent_hooks,VAR_2
+extents,VAR_3
+inner,VAR_4
+outer,VAR_5
+forward,VAR_6
+growing_retained,VAR_7
+err,VAR_8

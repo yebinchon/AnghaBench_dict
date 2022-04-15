@@ -1,0 +1,11 @@
+CMD_RING_STATE_RUNNING,VAR_0
+CMD_RING_STATE_STOPPED,VAR_1
+COMP_CMD_ABORT,VAR_2
+COMP_CMD_STOP,VAR_3
+xhci_cancel_cmd_in_cd_list,FUNC_0
+xhci_ring_cmd_db,FUNC_1
+xhci_search_cmd_trb_in_cd_list,FUNC_2
+handle_stopped_cmd_ring,FUNC_3
+xhci,VAR_4
+cmd_trb_comp_code,VAR_5
+cur_trb_is_good,VAR_6

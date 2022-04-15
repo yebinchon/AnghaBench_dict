@@ -1,0 +1,13 @@
+AC_PAR_AMP_IN_CAP,VAR_0
+AC_PAR_AMP_OUT_CAP,VAR_1
+AC_WCAP_AMP_OVRD,VAR_2
+HDA_OUTPUT,VAR_3
+get_wcaps,FUNC_0
+snd_hda_override_wcaps,FUNC_1
+snd_hdac_override_parm,FUNC_2
+snd_hda_override_amp_caps,FUNC_3
+codec,VAR_4
+nid,VAR_5
+dir,VAR_6
+caps,VAR_7
+parm,VAR_8

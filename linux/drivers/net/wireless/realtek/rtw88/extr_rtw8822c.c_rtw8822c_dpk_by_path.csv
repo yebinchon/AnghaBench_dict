@@ -1,0 +1,17 @@
+BIT,FUNC_0
+BIT_SUBPAGE,VAR_0
+REG_DPD_CTL1_S0,VAR_1
+REG_NCTL0,VAR_2
+RFREG_MASK,VAR_3
+RF_MODE_TRXAGC,VAR_4
+RTW_DPK_DO_DPK,VAR_5
+rtw8822c_dpk_get_coef,FUNC_1
+rtw8822c_dpk_one_shot,FUNC_2
+rtw_read32_mask,FUNC_3
+rtw_write32_mask,FUNC_4
+rtw_write_rf,FUNC_5
+rtw8822c_dpk_by_path,FUNC_6
+rtwdev,VAR_6
+tx_agc,VAR_7
+path,VAR_8
+result,VAR_9

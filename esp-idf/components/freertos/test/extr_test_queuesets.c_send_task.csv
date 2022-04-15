@@ -1,0 +1,14 @@
+QUEUE_LEN,VAR_0
+portMAX_DELAY,VAR_1
+sync_flags,VAR_2
+sync_sem,VAR_3
+vTaskDelete,FUNC_0
+xPortGetCoreID,FUNC_1
+xQueueSendToBack,FUNC_2
+xSemaphoreGive,FUNC_3
+xSemaphoreTake,FUNC_4
+send_task,FUNC_5
+arg,VAR_4
+queue,VAR_5
+i,VAR_6
+item,VAR_7

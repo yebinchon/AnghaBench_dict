@@ -1,0 +1,11 @@
+BTRFS_I,FUNC_0
+ClearPagePrivate,FUNC_1
+page_cache_release,FUNC_2
+set_page_private,FUNC_3
+try_release_extent_mapping,FUNC_4
+__btrfs_releasepage,FUNC_5
+page,VAR_0
+gfp_flags,VAR_1
+tree,VAR_2
+map,VAR_3
+ret,VAR_4

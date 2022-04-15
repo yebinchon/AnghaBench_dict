@@ -1,0 +1,10 @@
+NHMEX_W_PMON_GLOBAL_FIXED_EN,VAR_0
+rdmsrl,FUNC_0
+uncore_msr_box_ctl,FUNC_1
+uncore_msr_fixed_ctl,FUNC_2
+uncore_num_counters,FUNC_3
+wrmsrl,FUNC_4
+nhmex_uncore_msr_disable_box,FUNC_5
+box,VAR_1
+msr,VAR_2
+config,VAR_3

@@ -1,0 +1,14 @@
+F2FS_RAW_SUPER,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+le32_to_cpu,FUNC_3
+le64_to_cpu,FUNC_4
+update_sb_metadata,FUNC_5
+sbi,VAR_0
+secs,VAR_1
+raw_sb,VAR_2
+section_count,VAR_3
+segment_count,VAR_4
+segment_count_main,VAR_5
+block_count,VAR_6
+segs,VAR_7

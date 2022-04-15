@@ -1,0 +1,16 @@
+DASD_FLAG_SUSPENDED,VAR_0
+DASD_STOPPED_PM,VAR_1
+DASD_UNRESUMED_PM,VAR_2
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+clear_bit,FUNC_2
+dasd_device_from_cdev,FUNC_3
+dasd_device_remove_stop_bits,FUNC_4
+dasd_put_device,FUNC_5
+dasd_schedule_block_bh,FUNC_6
+dasd_schedule_device_bh,FUNC_7
+stub1,FUNC_8
+dasd_generic_restore_device,FUNC_9
+cdev,VAR_3
+device,VAR_4
+rc,VAR_5

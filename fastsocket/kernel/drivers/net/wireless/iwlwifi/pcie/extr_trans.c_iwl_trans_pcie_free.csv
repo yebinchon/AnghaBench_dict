@@ -1,0 +1,15 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+free_irq,FUNC_1
+iounmap,FUNC_2
+iwl_pcie_free_ict,FUNC_3
+iwl_pcie_rx_free,FUNC_4
+iwl_pcie_tx_free,FUNC_5
+kfree,FUNC_6
+kmem_cache_destroy,FUNC_7
+pci_disable_device,FUNC_8
+pci_disable_msi,FUNC_9
+pci_release_regions,FUNC_10
+synchronize_irq,FUNC_11
+iwl_trans_pcie_free,FUNC_12
+trans,VAR_0
+trans_pcie,VAR_1

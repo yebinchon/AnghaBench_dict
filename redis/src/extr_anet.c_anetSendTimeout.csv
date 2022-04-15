@@ -1,0 +1,13 @@
+ANET_ERR,VAR_0
+ANET_OK,VAR_1
+SOL_SOCKET,VAR_2
+SO_SNDTIMEO,VAR_3
+anetSetError,FUNC_0
+errno,VAR_4
+setsockopt,FUNC_1
+strerror,FUNC_2
+anetSendTimeout,FUNC_3
+err,VAR_5
+fd,VAR_6
+ms,VAR_7
+tv,VAR_8

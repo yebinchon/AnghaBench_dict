@@ -1,0 +1,17 @@
+DOORBELL,FUNC_0
+DP_NOTICE,FUNC_1
+DP_VERBOSE,FUNC_2
+EINVAL,VAR_0
+QED_MSG_SPQ,VAR_1
+cpu_to_le16,FUNC_3
+qed_chain_get_prod_idx,FUNC_4
+qed_chain_produce,FUNC_5
+wmb,FUNC_6
+qed_spq_hw_post,FUNC_7
+p_hwfn,VAR_2
+p_spq,VAR_3
+p_ent,VAR_4
+p_chain,VAR_5
+p_db_data,VAR_6
+echo,VAR_7
+elem,VAR_8

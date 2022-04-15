@@ -1,0 +1,8 @@
+QSPI_CR,VAR_0
+clk_disable_unprepare,FUNC_0
+mutex_destroy,FUNC_1
+spi_master_put,FUNC_2
+stm32_qspi_dma_free,FUNC_3
+writel_relaxed,FUNC_4
+stm32_qspi_release,FUNC_5
+qspi,VAR_1

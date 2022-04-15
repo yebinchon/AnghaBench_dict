@@ -1,0 +1,16 @@
+ENIC_RSS_BYTES_PER_KEY,VAR_0
+ENIC_RSS_LEN,VAR_1
+ENOMEM,VAR_2
+enic_set_rss_key,FUNC_0
+pci_free_consistent,FUNC_1
+pci_zalloc_consistent,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+__enic_set_rsskey,FUNC_5
+enic,VAR_3
+rss_key_buf_va,VAR_4
+rss_key_buf_pa,VAR_5
+i,VAR_6
+kidx,VAR_7
+bidx,VAR_8
+err,VAR_9

@@ -1,0 +1,9 @@
+ATF_REQUIRE_EQ_MSG,FUNC_0
+REG_PC,VAR_0
+proc_bkptdel,FUNC_1
+proc_regset,FUNC_2
+remove_bkpt,FUNC_3
+phdl,VAR_1
+addr,VAR_2
+val,VAR_3
+error,VAR_4

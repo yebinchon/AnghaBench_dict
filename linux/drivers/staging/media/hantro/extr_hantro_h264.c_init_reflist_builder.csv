@@ -1,0 +1,17 @@
+ARRAY_SIZE,FUNC_0
+V4L2_H264_DPB_ENTRY_FLAG_ACTIVE,VAR_0
+get_poc,FUNC_1
+hantro_get_dst_buf,FUNC_2
+memset,FUNC_3
+to_vb2_v4l2_buffer,FUNC_4
+vb2_find_timestamp,FUNC_5
+vb2_get_buffer,FUNC_6
+init_reflist_builder,FUNC_7
+ctx,VAR_1
+b,VAR_2
+dec_param,VAR_3
+buf,VAR_4
+dpb,VAR_5
+cap_q,VAR_6
+i,VAR_7
+buf_idx,VAR_8

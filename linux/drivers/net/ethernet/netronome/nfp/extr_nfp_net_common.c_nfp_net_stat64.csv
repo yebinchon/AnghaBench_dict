@@ -1,0 +1,17 @@
+NFP_NET_CFG_STATS_RX_DISCARDS,VAR_0
+NFP_NET_CFG_STATS_RX_ERRORS,VAR_1
+NFP_NET_CFG_STATS_RX_MC_FRAMES,VAR_2
+NFP_NET_CFG_STATS_TX_DISCARDS,VAR_3
+NFP_NET_CFG_STATS_TX_ERRORS,VAR_4
+netdev_priv,FUNC_0
+nn_readq,FUNC_1
+u64_stats_fetch_begin,FUNC_2
+u64_stats_fetch_retry,FUNC_3
+nfp_net_stat64,FUNC_4
+netdev,VAR_5
+stats,VAR_6
+nn,VAR_7
+r,VAR_8
+r_vec,VAR_9
+data,VAR_10
+start,VAR_11

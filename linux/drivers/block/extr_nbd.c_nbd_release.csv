@@ -1,0 +1,11 @@
+NBD_RT_DISCONNECT_ON_CLOSE,VAR_0
+bdget_disk,FUNC_0
+nbd_config_put,FUNC_1
+nbd_disconnect_and_put,FUNC_2
+nbd_put,FUNC_3
+test_bit,FUNC_4
+nbd_release,FUNC_5
+disk,VAR_1
+mode,VAR_2
+nbd,VAR_3
+bdev,VAR_4

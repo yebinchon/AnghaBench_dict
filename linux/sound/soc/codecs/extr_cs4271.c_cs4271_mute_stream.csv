@@ -1,0 +1,16 @@
+CS4271_VOLA,VAR_0
+CS4271_VOLA_MUTE,VAR_1
+CS4271_VOLB,VAR_2
+CS4271_VOLB_MUTE,VAR_3
+SNDRV_PCM_STREAM_PLAYBACK,VAR_4
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+cs4271_mute_stream,FUNC_2
+dai,VAR_5
+mute,VAR_6
+stream,VAR_7
+component,VAR_8
+cs4271,VAR_9
+ret,VAR_10
+val_a,VAR_11
+val_b,VAR_12

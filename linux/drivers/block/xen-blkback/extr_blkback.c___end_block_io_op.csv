@@ -1,0 +1,14 @@
+BLKIF_OP_FLUSH_DISKCACHE,VAR_0
+BLKIF_OP_WRITE_BARRIER,VAR_1
+BLKIF_RSP_EOPNOTSUPP,VAR_2
+BLKIF_RSP_ERROR,VAR_3
+BLK_STS_NOTSUPP,VAR_4
+XBT_NIL,VAR_5
+atomic_dec_and_test,FUNC_0
+pr_debug,FUNC_1
+xen_blkbk_barrier,FUNC_2
+xen_blkbk_flush_diskcache,FUNC_3
+xen_blkbk_unmap_and_respond,FUNC_4
+__end_block_io_op,FUNC_5
+pending_req,VAR_6
+error,VAR_7

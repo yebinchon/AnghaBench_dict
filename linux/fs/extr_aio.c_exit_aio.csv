@@ -1,0 +1,16 @@
+RCU_INIT_POINTER,FUNC_0
+atomic_set,FUNC_1
+atomic_sub_and_test,FUNC_2
+init_completion,FUNC_3
+kfree,FUNC_4
+kill_ioctx,FUNC_5
+rcu_dereference_protected,FUNC_6
+rcu_dereference_raw,FUNC_7
+wait_for_completion,FUNC_8
+exit_aio,FUNC_9
+mm,VAR_0
+table,VAR_1
+wait,VAR_2
+i,VAR_3
+skipped,VAR_4
+ctx,VAR_5

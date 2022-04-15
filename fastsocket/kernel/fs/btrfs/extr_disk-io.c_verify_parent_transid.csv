@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+GFP_NOFS,VAR_1
+btrfs_header_generation,FUNC_0
+clear_extent_buffer_uptodate,FUNC_1
+extent_buffer_uptodate,FUNC_2
+lock_extent_bits,FUNC_3
+printk_ratelimited,FUNC_4
+unlock_extent_cached,FUNC_5
+verify_parent_transid,FUNC_6
+io_tree,VAR_2
+eb,VAR_3
+parent_transid,VAR_4
+atomic,VAR_5
+cached_state,VAR_6
+ret,VAR_7

@@ -1,0 +1,14 @@
+ap_poll_timer,VAR_0
+ap_poll_timer_lock,VAR_1
+ap_suspend_flag,VAR_2
+hrtimer_expires_remaining,FUNC_0
+hrtimer_forward_now,FUNC_1
+hrtimer_is_queued,FUNC_2
+hrtimer_restart,FUNC_3
+ktime_set,FUNC_4
+ktime_to_ns,FUNC_5
+poll_timeout,VAR_3
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+__ap_schedule_poll_timer,FUNC_8
+hr_time,VAR_4

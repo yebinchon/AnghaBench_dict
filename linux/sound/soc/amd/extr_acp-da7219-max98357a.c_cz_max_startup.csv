@@ -1,0 +1,14 @@
+DUAL_CHANNEL,VAR_0
+I2S_BT_INSTANCE,VAR_1
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_2
+SNDRV_PCM_HW_PARAM_RATE,VAR_3
+constraints_channels,VAR_4
+constraints_rates,VAR_5
+snd_pcm_hw_constraint_list,FUNC_0
+snd_soc_card_get_drvdata,FUNC_1
+cz_max_startup,FUNC_2
+substream,VAR_6
+runtime,VAR_7
+rtd,VAR_8
+card,VAR_9
+machine,VAR_10

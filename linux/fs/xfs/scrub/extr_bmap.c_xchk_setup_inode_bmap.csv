@@ -1,0 +1,15 @@
+S_ISREG,FUNC_0
+VFS_I,FUNC_1
+XFS_ILOCK_EXCL,VAR_0
+XFS_IOLOCK_EXCL,VAR_1
+XFS_MMAPLOCK_EXCL,VAR_2
+XFS_SCRUB_TYPE_BMBTD,VAR_3
+filemap_write_and_wait,FUNC_2
+inode_dio_wait,FUNC_3
+xchk_get_inode,FUNC_4
+xchk_trans_alloc,FUNC_5
+xfs_ilock,FUNC_6
+xchk_setup_inode_bmap,FUNC_7
+sc,VAR_4
+ip,VAR_5
+error,VAR_6

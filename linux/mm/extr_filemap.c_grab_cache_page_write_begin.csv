@@ -1,0 +1,14 @@
+AOP_FLAG_NOFS,VAR_0
+FGP_CREAT,VAR_1
+FGP_LOCK,VAR_2
+FGP_NOFS,VAR_3
+FGP_WRITE,VAR_4
+mapping_gfp_mask,FUNC_0
+pagecache_get_page,FUNC_1
+wait_for_stable_page,FUNC_2
+grab_cache_page_write_begin,FUNC_3
+mapping,VAR_5
+index,VAR_6
+flags,VAR_7
+page,VAR_8
+fgp_flags,VAR_9

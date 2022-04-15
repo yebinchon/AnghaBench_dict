@@ -1,0 +1,14 @@
+DLN2_MAX_URBS,VAR_0
+DLN2_RX_BUF_SIZE,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+dln2_rx,VAR_4
+kmalloc,FUNC_0
+usb_alloc_urb,FUNC_1
+usb_fill_bulk_urb,FUNC_2
+usb_rcvbulkpipe,FUNC_3
+dln2_setup_rx_urbs,FUNC_4
+dln2,VAR_5
+hostif,VAR_6
+i,VAR_7
+rx_max_size,VAR_8

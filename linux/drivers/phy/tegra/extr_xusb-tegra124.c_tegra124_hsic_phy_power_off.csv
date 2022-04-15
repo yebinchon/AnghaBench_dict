@@ -1,0 +1,17 @@
+XUSB_PADCTL_HSIC_PADX_CTL1,FUNC_0
+XUSB_PADCTL_HSIC_PAD_CTL1_PD_RX,VAR_0
+XUSB_PADCTL_HSIC_PAD_CTL1_PD_TRX,VAR_1
+XUSB_PADCTL_HSIC_PAD_CTL1_PD_TX,VAR_2
+XUSB_PADCTL_HSIC_PAD_CTL1_PD_ZI,VAR_3
+padctl_readl,FUNC_1
+padctl_writel,FUNC_2
+phy_get_drvdata,FUNC_3
+regulator_disable,FUNC_4
+to_hsic_pad,FUNC_5
+tegra124_hsic_phy_power_off,FUNC_6
+phy,VAR_4
+lane,VAR_5
+pad,VAR_6
+padctl,VAR_7
+index,VAR_8
+value,VAR_9

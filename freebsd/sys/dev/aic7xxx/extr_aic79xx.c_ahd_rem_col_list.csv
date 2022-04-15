@@ -1,0 +1,17 @@
+AHD_GET_SCB_COL_IDX,FUNC_0
+LIST_FIRST,FUNC_1
+LIST_NEXT,FUNC_2
+LIST_REMOVE,FUNC_3
+SCB_ON_COL_LIST,VAR_0
+TAILQ_INSERT_AFTER,FUNC_4
+TAILQ_REMOVE,FUNC_5
+collision_links,VAR_1
+links,VAR_2
+ahd_rem_col_list,FUNC_6
+ahd,VAR_3
+scb,VAR_4
+free_list,VAR_5
+free_tailq,VAR_6
+first_scb,VAR_7
+col_idx,VAR_8
+next_scb,VAR_9

@@ -1,0 +1,14 @@
+PCI_CAP_ID_EA,VAR_0
+PCI_EA_FIRST_ENT,VAR_1
+PCI_EA_NUM_ENT,VAR_2
+PCI_EA_NUM_ENT_MASK,VAR_3
+PCI_HEADER_TYPE_BRIDGE,VAR_4
+pci_bus_read_config_byte,FUNC_0
+pci_ea_read,FUNC_1
+pci_find_capability,FUNC_2
+pci_ea_init,FUNC_3
+dev,VAR_5
+ea,VAR_6
+num_ent,VAR_7
+offset,VAR_8
+i,VAR_9

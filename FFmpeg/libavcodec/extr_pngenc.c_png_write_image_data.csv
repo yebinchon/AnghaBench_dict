@@ -1,0 +1,16 @@
+AV_CODEC_ID_PNG,VAR_0
+AV_CRC_32_IEEE_LE,VAR_1
+MKBETAG,FUNC_0
+MKTAG,FUNC_1
+av_crc,FUNC_2
+av_crc_get_table,FUNC_3
+bytestream_put_be32,FUNC_4
+memcpy,FUNC_5
+png_write_chunk,FUNC_6
+png_write_image_data,FUNC_7
+avctx,VAR_2
+buf,VAR_3
+length,VAR_4
+s,VAR_5
+crc_table,VAR_6
+crc,VAR_7

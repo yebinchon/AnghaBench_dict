@@ -1,0 +1,13 @@
+cleanup_old_pidfile,FUNC_0
+fclose,FUNC_1
+fopen,FUNC_2
+fprintf,FUNC_3
+free,FUNC_4
+getpid,FUNC_5
+pidfile_path,VAR_0
+pidfile_pid,VAR_1
+register_atexit_handler,FUNC_6
+strdup,FUNC_7
+create_pidfile,FUNC_8
+path,VAR_2
+f,VAR_3

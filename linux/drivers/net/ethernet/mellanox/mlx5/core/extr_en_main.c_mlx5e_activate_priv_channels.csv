@@ -1,0 +1,17 @@
+mlx5e_activate_channels,FUNC_0
+mlx5e_add_sqs_fwd_rules,FUNC_1
+mlx5e_build_tx2sq_maps,FUNC_2
+mlx5e_is_vport_rep,FUNC_3
+mlx5e_netdev_set_tcs,FUNC_4
+mlx5e_redirect_rqts_to_channels,FUNC_5
+mlx5e_wait_channels_min_rx_wqes,FUNC_6
+mlx5e_xdp_tx_enable,FUNC_7
+mlx5e_xsk_redirect_rqts_to_channels,FUNC_8
+netif_set_real_num_rx_queues,FUNC_9
+netif_set_real_num_tx_queues,FUNC_10
+netif_tx_start_all_queues,FUNC_11
+mlx5e_activate_priv_channels,FUNC_12
+priv,VAR_0
+num_txqs,VAR_1
+num_rxqs,VAR_2
+netdev,VAR_3

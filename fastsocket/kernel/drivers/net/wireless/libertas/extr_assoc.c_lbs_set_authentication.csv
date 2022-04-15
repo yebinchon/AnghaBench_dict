@@ -1,0 +1,16 @@
+CMD_802_11_AUTHENTICATE,VAR_0
+ETH_ALEN,VAR_1
+LBS_DEB_JOIN,VAR_2
+cpu_to_le16,FUNC_0
+iw_auth_to_ieee_auth,FUNC_1
+lbs_cmd_with_response,FUNC_2
+lbs_deb_enter,FUNC_3
+lbs_deb_join,FUNC_4
+lbs_deb_leave_args,FUNC_5
+memcpy,FUNC_6
+lbs_set_authentication,FUNC_7
+priv,VAR_3
+bssid,VAR_4
+auth,VAR_5
+cmd,VAR_6
+ret,VAR_7

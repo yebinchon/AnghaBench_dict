@@ -1,0 +1,13 @@
+SSB_BUSTYPE_SSB,VAR_0
+SSB_CHIPCO_PLLCTL_ADDR,VAR_1
+SSB_CHIPCO_PLLCTL_DATA,VAR_2
+bcm47xx_nvram_getenv,FUNC_0
+chipco_write32,FUNC_1
+dev_err,FUNC_2
+simple_strtoul,FUNC_3
+ssb_pmu0_pllinit_r0,FUNC_4
+ssb_pmu1_pllinit_r0,FUNC_5
+ssb_pmu_pll_init,FUNC_6
+cc,VAR_3
+bus,VAR_4
+crystalfreq,VAR_5

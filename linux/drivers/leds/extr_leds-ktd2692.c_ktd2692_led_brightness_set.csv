@@ -1,0 +1,17 @@
+KTD2692_LOW,VAR_0
+KTD2692_MODE_DISABLE,VAR_1
+KTD2692_MODE_MOVIE,VAR_2
+KTD2692_REG_MODE_BASE,VAR_3
+KTD2692_REG_MOVIE_CURRENT_BASE,VAR_4
+LED_OFF,VAR_5
+fled_cdev_to_led,FUNC_0
+gpiod_direction_output,FUNC_1
+ktd2692_expresswire_write,FUNC_2
+lcdev_to_flcdev,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+ktd2692_led_brightness_set,FUNC_6
+led_cdev,VAR_6
+brightness,VAR_7
+fled_cdev,VAR_8
+led,VAR_9

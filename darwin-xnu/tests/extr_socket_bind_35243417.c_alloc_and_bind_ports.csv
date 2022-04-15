@@ -1,0 +1,17 @@
+T_ASSERT_TRUE,FUNC_0
+T_QUIET,VAR_0
+T_WITH_ERRNO,VAR_1
+close,FUNC_1
+sockv6_bind,FUNC_2
+sockv6_open,FUNC_3
+sockv6_set_v6only,FUNC_4
+alloc_and_bind_ports,FUNC_5
+port_start,VAR_2
+port_end,VAR_3
+bind_attempts,VAR_4
+bound_count,VAR_5
+success,VAR_6
+i,VAR_7
+s6,VAR_8
+s6_other,VAR_9
+ret,VAR_10

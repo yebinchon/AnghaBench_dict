@@ -1,0 +1,17 @@
+TVP5150_LINE_MODE_INI,VAR_0
+V4L2_STD_625_50,VAR_1
+V4L2_STD_ALL,VAR_2
+to_tvp5150,FUNC_0
+tvp5150_write,FUNC_1
+v4l2_err,FUNC_2
+tvp5150_set_vbi,FUNC_3
+sd,VAR_3
+regs,VAR_4
+type,VAR_5
+flags,VAR_6
+line,VAR_7
+fields,VAR_8
+decoder,VAR_9
+std,VAR_10
+reg,VAR_11
+pos,VAR_12

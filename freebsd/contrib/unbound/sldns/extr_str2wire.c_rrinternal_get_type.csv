@@ -1,0 +1,13 @@
+LDNS_WIREPARSE_ERR_OK,VAR_0
+LDNS_WIREPARSE_ERR_SYNTAX_TYPE,VAR_1
+RET_ERR,FUNC_0
+sldns_bget_token,FUNC_1
+sldns_buffer_position,FUNC_2
+sldns_get_rr_type_by_name,FUNC_3
+strcmp,FUNC_4
+rrinternal_get_type,FUNC_5
+strbuf,VAR_2
+token,VAR_3
+token_len,VAR_4
+not_there,VAR_5
+tp,VAR_6

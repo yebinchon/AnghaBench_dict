@@ -1,0 +1,14 @@
+PPSMC_MSG_UVDPowerOFF,VAR_0
+PPSMC_MSG_UVDPowerON,VAR_1
+RADEON_CG_BLOCK_UVD,VAR_2
+cik_update_cg,FUNC_0
+kv_get_pi,FUNC_1
+kv_notify_message_to_smu,FUNC_2
+kv_update_uvd_dpm,FUNC_3
+uvd_v1_0_start,FUNC_4
+uvd_v1_0_stop,FUNC_5
+uvd_v4_2_resume,FUNC_6
+kv_dpm_powergate_uvd,FUNC_7
+rdev,VAR_3
+gate,VAR_4
+pi,VAR_5

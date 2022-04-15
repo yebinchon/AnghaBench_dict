@@ -1,0 +1,15 @@
+EXTCONN_STRONG,VAR_0
+EnterCriticalSection,FUNC_0
+IExternalConnection_ReleaseConnection,FUNC_1
+LeaveCriticalSection,FUNC_2
+TRACE,FUNC_3
+min,FUNC_4
+stub_manager_int_release,FUNC_5
+wine_dbgstr_longlong,FUNC_6
+stub_manager_ext_release,FUNC_7
+m,VAR_1
+refs,VAR_2
+tableweak,VAR_3
+last_unlock_releases,VAR_4
+last_extern_ref,VAR_5
+rc,VAR_6

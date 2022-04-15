@@ -1,0 +1,10 @@
+S3C2410_UPLLCON,VAR_0
+S3C2412_PLLCON_OFF,VAR_1
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+udelay,FUNC_2
+s3c2412_upll_enable,FUNC_3
+clk,VAR_2
+enable,VAR_3
+upllcon,VAR_4
+orig,VAR_5

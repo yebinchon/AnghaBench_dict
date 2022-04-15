@@ -1,0 +1,9 @@
+CONFIG_UART_CONSOLE_ON_DEV_NAME,VAR_0
+console_putchar,FUNC_0
+device_get_binding,FUNC_1
+k_sleep,FUNC_2
+uart_poll_out,FUNC_3
+mp_hal_stdout_tx_strn,FUNC_4
+str,VAR_1
+len,VAR_2
+uart_console_dev,VAR_3

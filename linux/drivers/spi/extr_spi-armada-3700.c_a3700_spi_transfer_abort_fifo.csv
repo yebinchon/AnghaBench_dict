@@ -1,0 +1,12 @@
+A3700_SPI_IF_CFG_REG,VAR_0
+A3700_SPI_TIMEOUT,VAR_1
+A3700_SPI_XFER_START,VAR_2
+A3700_SPI_XFER_STOP,VAR_3
+a3700_spi_fifo_flush,FUNC_0
+spireg_read,FUNC_1
+spireg_write,FUNC_2
+udelay,FUNC_3
+a3700_spi_transfer_abort_fifo,FUNC_4
+a3700_spi,VAR_4
+timeout,VAR_5
+val,VAR_6

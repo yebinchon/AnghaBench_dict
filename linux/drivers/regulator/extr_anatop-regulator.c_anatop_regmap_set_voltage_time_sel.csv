@@ -1,0 +1,11 @@
+LDO_RAMP_UP_FREQ_IN_MHZ,VAR_0
+LDO_RAMP_UP_UNIT_IN_CYCLES,VAR_1
+rdev_get_drvdata,FUNC_0
+regmap_read,FUNC_1
+anatop_regmap_set_voltage_time_sel,FUNC_2
+reg,VAR_2
+old_sel,VAR_3
+new_sel,VAR_4
+anatop_reg,VAR_5
+val,VAR_6
+ret,VAR_7

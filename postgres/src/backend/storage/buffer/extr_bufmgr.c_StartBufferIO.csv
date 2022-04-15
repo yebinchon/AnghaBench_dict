@@ -1,0 +1,17 @@
+Assert,FUNC_0
+BM_DIRTY,VAR_0
+BM_IO_IN_PROGRESS,VAR_1
+BM_VALID,VAR_2
+BufferDescriptorGetIOLock,FUNC_1
+InProgressBuf,VAR_3
+IsForInput,VAR_4
+LWLockAcquire,FUNC_2
+LWLockRelease,FUNC_3
+LW_EXCLUSIVE,VAR_5
+LockBufHdr,FUNC_4
+UnlockBufHdr,FUNC_5
+WaitIO,FUNC_6
+StartBufferIO,FUNC_7
+buf,VAR_6
+forInput,VAR_7
+buf_state,VAR_8

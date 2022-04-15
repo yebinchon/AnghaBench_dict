@@ -1,0 +1,14 @@
+QLNX_SRIOV_TASK_FLAGS_BULLETIN_UPDATE,VAR_0
+QLNX_SRIOV_TASK_FLAGS_VF_FLR_UPDATE,VAR_1
+QLNX_SRIOV_TASK_FLAGS_VF_PF_MSG,VAR_2
+atomic_testandclear_32,FUNC_0
+qlnx_find_hwfn_index,FUNC_1
+qlnx_handle_bulletin_update,FUNC_2
+qlnx_handle_vf_flr_update,FUNC_3
+qlnx_handle_vf_msg,FUNC_4
+qlnx_pf_taskqueue,FUNC_5
+context,VAR_3
+pending,VAR_4
+p_hwfn,VAR_5
+ha,VAR_6
+i,VAR_7

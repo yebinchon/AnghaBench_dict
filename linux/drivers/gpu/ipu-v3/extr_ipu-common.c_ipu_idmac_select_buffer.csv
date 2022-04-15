@@ -1,0 +1,12 @@
+IPU_CHA_BUF0_RDY,FUNC_0
+IPU_CHA_BUF1_RDY,FUNC_1
+idma_mask,FUNC_2
+ipu_cm_write,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ipu_idmac_select_buffer,FUNC_6
+channel,VAR_0
+buf_num,VAR_1
+ipu,VAR_2
+chno,VAR_3
+flags,VAR_4

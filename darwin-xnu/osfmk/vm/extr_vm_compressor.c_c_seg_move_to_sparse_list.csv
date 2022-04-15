@@ -1,0 +1,14 @@
+C_ON_SWAPPEDOUTSPARSE_Q,VAR_0
+C_SEG_BUSY,FUNC_0
+C_SEG_WAKEUP_DONE,FUNC_1
+FALSE,VAR_1
+TRUE,VAR_2
+c_list_lock,VAR_3
+c_seg_moved_to_sparse_list,VAR_4
+c_seg_switch_state,FUNC_2
+lck_mtx_lock_spin_always,FUNC_3
+lck_mtx_try_lock_spin_always,FUNC_4
+lck_mtx_unlock_always,FUNC_5
+c_seg_move_to_sparse_list,FUNC_6
+c_seg,VAR_5
+clear_busy,VAR_6

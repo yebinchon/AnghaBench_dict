@@ -1,0 +1,15 @@
+SLAVE_EXIT,VAR_0
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+cpu_relax,FUNC_2
+num_online_cpus,FUNC_3
+pr_alert,FUNC_4
+uv_nmi_cpus_in_nmi,VAR_1
+uv_nmi_slave_continue,VAR_2
+uv_nmi_sync_exit,FUNC_5
+uv_nmi_action_health,FUNC_6
+cpu,VAR_3
+regs,VAR_4
+master,VAR_5
+in,VAR_6
+out,VAR_7

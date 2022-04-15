@@ -1,0 +1,10 @@
+BHND_IOCTL_CLK_FORCE,VAR_0
+bhnd_write_ioctl,FUNC_0
+device_printf,FUNC_1
+bwn_phy_force_clock,FUNC_2
+mac,VAR_1
+force,VAR_2
+sc,VAR_3
+val,VAR_4
+mask,VAR_5
+error,VAR_6

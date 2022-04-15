@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+IB_AH_GRH,VAR_1
+IB_LID_PERMISSIVE,VAR_2
+IB_MULTICAST_LID_BASE,VAR_3
+be16_to_cpu,FUNC_0
+rdma_ah_get_ah_flags,FUNC_1
+rdma_ah_get_dlid,FUNC_2
+rdma_ah_get_sl,FUNC_3
+qib_check_ah,FUNC_4
+ibdev,VAR_4
+ah_attr,VAR_5

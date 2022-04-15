@@ -1,0 +1,12 @@
+EXCLUSIVE_LOCK,VAR_0
+NO_LOCK,VAR_1
+RESERVED_LOCK,VAR_2
+SHARED_LOCK,VAR_3
+SQLITE_BUSY,VAR_4
+assert,FUNC_0
+pagerLockDb,FUNC_1
+stub1,FUNC_2
+pager_wait_on_lock,FUNC_3
+pPager,VAR_5
+locktype,VAR_6
+rc,VAR_7

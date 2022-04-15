@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+RTC_AF,VAR_2
+RTC_IRQF,VAR_3
+SUN6I_ALRM_IRQ_STA,VAR_4
+SUN6I_ALRM_IRQ_STA_CNT_IRQ_PEND,VAR_5
+readl,FUNC_0
+rtc_update_irq,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+writel,FUNC_4
+sun6i_rtc_alarmirq,FUNC_5
+irq,VAR_6
+id,VAR_7
+chip,VAR_8
+ret,VAR_9
+val,VAR_10

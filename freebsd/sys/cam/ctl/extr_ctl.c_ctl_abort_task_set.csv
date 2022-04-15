@@ -1,0 +1,15 @@
+CTL_FLAG_FROM_OTHER_SC,VAR_0
+CTL_SOFTC,FUNC_0
+CTL_TASK_ABORT_TASK_SET,VAR_1
+CTL_TASK_FUNCTION_COMPLETE,VAR_2
+CTL_TASK_LUN_DOES_NOT_EXIST,VAR_3
+UINT32_MAX,VAR_4
+ctl_abort_tasks_lun,FUNC_1
+ctl_max_luns,VAR_5
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+ctl_abort_task_set,FUNC_4
+io,VAR_6
+softc,VAR_7
+lun,VAR_8
+targ_lun,VAR_9

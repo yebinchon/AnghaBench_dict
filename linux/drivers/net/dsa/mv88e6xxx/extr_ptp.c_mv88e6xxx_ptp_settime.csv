@@ -1,0 +1,10 @@
+mv88e6xxx_reg_lock,FUNC_0
+mv88e6xxx_reg_unlock,FUNC_1
+ptp_to_chip,FUNC_2
+timecounter_init,FUNC_3
+timespec64_to_ns,FUNC_4
+mv88e6xxx_ptp_settime,FUNC_5
+ptp,VAR_0
+ts,VAR_1
+chip,VAR_2
+ns,VAR_3

@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+HYPERVISOR_vcpu_op,FUNC_0
+PVCLOCK_TSC_STABLE_BIT,VAR_1
+VCLOCK_PVCLOCK,VAR_2
+VCPUOP_register_vcpu_time_memory_area,VAR_3
+free_page,FUNC_1
+get_zeroed_page,FUNC_2
+pr_notice,FUNC_3
+pvclock_set_pvti_cpu0_va,FUNC_4
+xen_clock,VAR_4
+xen_clocksource,VAR_5
+xen_setup_vsyscall_time_info,FUNC_5
+t,VAR_6
+ti,VAR_7
+ret,VAR_8

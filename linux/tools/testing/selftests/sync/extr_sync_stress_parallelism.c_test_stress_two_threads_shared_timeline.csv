@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+pthread_create,FUNC_1
+pthread_join,FUNC_2
+sw_sync_timeline_create,FUNC_3
+sw_sync_timeline_destroy,FUNC_4
+sw_sync_timeline_is_valid,FUNC_5
+test_data_two_threads,VAR_0
+test_stress_two_threads_shared_timeline_thread,VAR_1
+test_stress_two_threads_shared_timeline,FUNC_6
+a,VAR_2
+b,VAR_3
+valid,VAR_4
+timeline,VAR_5

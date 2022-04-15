@@ -1,0 +1,15 @@
+Assert,FUNC_0
+CurrentMemoryContext,VAR_0
+JOB_FAILURE,VAR_1
+WARNING,VAR_2
+assert_that_worker_has_stopped,FUNC_1
+elog,FUNC_2
+mark_job_as_ended,FUNC_3
+pfree,FUNC_4
+ts_bgw_job_get_share_lock,FUNC_5
+ts_bgw_job_stat_end_was_marked,FUNC_6
+ts_bgw_job_stat_find,FUNC_7
+ts_bgw_worker_release,FUNC_8
+worker_state_cleanup,FUNC_9
+sjob,VAR_3
+job_stat,VAR_4

@@ -1,0 +1,11 @@
+UATH_CMD_FLAG_MAGIC,VAR_0
+WDCMSG_TARGET_GET_CAPABILITY,VAR_1
+be32toh,FUNC_0
+device_printf,FUNC_1
+htobe32,FUNC_2
+uath_cmd_read,FUNC_3
+uath_get_capability,FUNC_4
+sc,VAR_2
+cap,VAR_3
+val,VAR_4
+error,VAR_5

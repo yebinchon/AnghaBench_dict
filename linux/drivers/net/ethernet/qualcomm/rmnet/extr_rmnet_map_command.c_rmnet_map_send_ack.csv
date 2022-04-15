@@ -1,0 +1,14 @@
+ETH_P_MAP,VAR_0
+RMNET_FLAGS_INGRESS_MAP_CKSUMV4,VAR_1
+RMNET_MAP_GET_CMD_START,FUNC_0
+htons,FUNC_1
+netif_tx_lock,FUNC_2
+netif_tx_unlock,FUNC_3
+skb_trim,FUNC_4
+stub1,FUNC_5
+rmnet_map_send_ack,FUNC_6
+skb,VAR_2
+type,VAR_3
+port,VAR_4
+cmd,VAR_5
+dev,VAR_6

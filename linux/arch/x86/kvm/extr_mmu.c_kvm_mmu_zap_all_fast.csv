@@ -1,0 +1,8 @@
+kvm_reload_remote_mmus,FUNC_0
+kvm_zap_obsolete_pages,FUNC_1
+lockdep_assert_held,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+trace_kvm_mmu_zap_all_fast,FUNC_5
+kvm_mmu_zap_all_fast,FUNC_6
+kvm,VAR_0

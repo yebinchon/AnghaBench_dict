@@ -1,0 +1,12 @@
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_delete_children,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+xhci_uninit,FUNC_5
+mtk_xhci_fdt_detach,FUNC_6
+self,VAR_2
+sc,VAR_3
+err,VAR_4

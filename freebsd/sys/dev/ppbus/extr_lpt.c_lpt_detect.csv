@@ -1,0 +1,17 @@
+PPB_DONTWAIT,VAR_0
+device_get_parent,FUNC_0
+device_printf,FUNC_1
+lpt_port_test,FUNC_2
+lpt_release_ppbus,FUNC_3
+lpt_request_ppbus,FUNC_4
+ppb_lock,FUNC_5
+ppb_unlock,FUNC_6
+ppb_wctr,FUNC_7
+ppb_wdtr,FUNC_8
+lpt_detect,FUNC_9
+dev,VAR_1
+ppbus,VAR_2
+testbyte,VAR_3
+i,VAR_4
+error,VAR_5
+status,VAR_6

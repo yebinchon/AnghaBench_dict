@@ -1,0 +1,17 @@
+CSR_WRITE_4,FUNC_0
+NGE_FLAG_TBI,VAR_0
+NGE_TBI_ANAR,VAR_1
+NGE_TBI_ANER,VAR_2
+NGE_TBI_ANLPAR,VAR_3
+NGE_TBI_BMCR,VAR_4
+NGE_TBI_ESR,VAR_5
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+mii_bitbang_writereg,FUNC_3
+nge_mii_bitbang_ops,VAR_6
+nge_miibus_writereg,FUNC_4
+dev,VAR_7
+phy,VAR_8
+reg,VAR_9
+data,VAR_10
+sc,VAR_11

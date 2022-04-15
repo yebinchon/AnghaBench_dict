@@ -1,0 +1,14 @@
+SPI4000_DO_READ,VAR_0
+SPI4000_GET_READ_STATUS,VAR_1
+SPI4000_READ_ADDRESS_HIGH,VAR_2
+SPI4000_READ_DATA0,VAR_3
+SPI4000_TWSI_ID,FUNC_0
+cvmx_dprintf,FUNC_1
+cvmx_twsi_read8,FUNC_2
+cvmx_twsix_read_ia,FUNC_3
+cvmx_twsix_write_ia,FUNC_4
+__cvmx_spi4000_read,FUNC_5
+interface,VAR_4
+address,VAR_5
+status,VAR_6
+data,VAR_7

@@ -1,0 +1,15 @@
+FALSE,VAR_0
+THREAD_CALL_ALLOC,VAR_1
+THREAD_CALL_ONCE,VAR_2
+current_thread,FUNC_0
+disable_ints_and_lock,FUNC_1
+enable_ints_and_unlock,FUNC_2
+ml_get_interrupts_enabled,FUNC_3
+panic,FUNC_4
+thread_call_cancel_locked,FUNC_5
+thread_call_wait_locked,FUNC_6
+thread_call_wait_once_locked,FUNC_7
+thread_call_cancel_wait,FUNC_8
+call,VAR_3
+s,VAR_4
+canceled,VAR_5

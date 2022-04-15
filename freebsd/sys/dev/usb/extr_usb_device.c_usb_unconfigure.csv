@@ -1,0 +1,17 @@
+USB_CFG_FREE,VAR_0
+USB_IFACE_INDEX_ANY,VAR_1
+USB_MODE_DEVICE,VAR_2
+USB_UNCONFIG_INDEX,VAR_3
+USB_UNCONFIG_NO,VAR_4
+usb_cdev_free,FUNC_0
+usb_config_parse,FUNC_1
+usb_detach_device,FUNC_2
+usb_fifo_free_wrap,FUNC_3
+usb_linux_free_device_p,FUNC_4
+usbd_enum_lock,FUNC_5
+usbd_enum_unlock,FUNC_6
+usbd_free_config_desc,FUNC_7
+usb_unconfigure,FUNC_8
+udev,VAR_5
+flag,VAR_6
+do_unlock,VAR_7

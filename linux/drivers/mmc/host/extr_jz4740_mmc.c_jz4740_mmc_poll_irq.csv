@@ -1,0 +1,11 @@
+HZ,VAR_0
+jiffies,VAR_1
+jz4740_mmc_read_irq_reg,FUNC_0
+jz4740_mmc_set_irq_enabled,FUNC_1
+mod_timer,FUNC_2
+set_bit,FUNC_3
+jz4740_mmc_poll_irq,FUNC_4
+host,VAR_2
+irq,VAR_3
+timeout,VAR_4
+status,VAR_5

@@ -1,0 +1,12 @@
+atomic_read,FUNC_0
+is_pte_rw_upgrade,FUNC_1
+pte_val,FUNC_2
+radix__flush_hugetlb_page,FUNC_3
+set_huge_pte_at,FUNC_4
+radix__huge_ptep_modify_prot_commit,FUNC_5
+vma,VAR_0
+addr,VAR_1
+ptep,VAR_2
+old_pte,VAR_3
+pte,VAR_4
+mm,VAR_5

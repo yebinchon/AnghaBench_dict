@@ -1,0 +1,16 @@
+ALPHA_ZERO_REGNUM,VAR_0
+PC_REGNUM,VAR_1
+SIZEOF_STRUCT_FPREG,VAR_2
+SIZEOF_TRAPFRAME,VAR_3
+alphabsd_supply_fpreg,FUNC_0
+supply_register,FUNC_1
+warning,FUNC_2
+fetch_core_registers,FUNC_3
+core_reg_sect,VAR_4
+core_reg_size,VAR_5
+which,VAR_6
+ignore,VAR_7
+regs,VAR_8
+fpregs,VAR_9
+regno,VAR_10
+regmap,VAR_11

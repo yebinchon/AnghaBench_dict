@@ -1,0 +1,14 @@
+PT32E_ROOT_LEVEL,VAR_0
+PT32_ROOT_LEVEL,VAR_1
+paging32_gva_to_gpa,VAR_2
+paging32_invlpg,VAR_3
+paging32_page_fault,VAR_4
+paging32_sync_page,VAR_5
+paging32_update_pte,VAR_6
+reset_rsvds_bits_mask,FUNC_0
+update_last_nonleaf_level,FUNC_1
+update_permission_bitmask,FUNC_2
+update_pkru_bitmask,FUNC_3
+paging32_init_context,FUNC_4
+vcpu,VAR_7
+context,VAR_8

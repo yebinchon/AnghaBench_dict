@@ -1,0 +1,16 @@
+MPI2_IOCSTATUS_CONFIG_INVALID_PAGE,VAR_0
+MPI2_IOCSTATUS_MASK,VAR_1
+MPI2_RAID_VOLUME_PGAD_FORM_GET_NEXT_HANDLE,VAR_2
+_scsih_raid_device_find_by_handle,FUNC_0
+le16_to_cpu,FUNC_1
+mpt2sas_config_get_raid_volume_pg1,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+_scsih_disable_ddio,FUNC_5
+ioc,VAR_3
+vol_pg1,VAR_4
+mpi_reply,VAR_5
+raid_device,VAR_6
+handle,VAR_7
+ioc_status,VAR_8
+flags,VAR_9

@@ -1,0 +1,15 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_ULONG,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+vtscsi_add_sysctl,FUNC_5
+sc,VAR_3
+dev,VAR_4
+stats,VAR_5
+ctx,VAR_6
+tree,VAR_7
+child,VAR_8

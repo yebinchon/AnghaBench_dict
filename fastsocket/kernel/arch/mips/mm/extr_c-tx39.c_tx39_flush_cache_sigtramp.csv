@@ -1,0 +1,15 @@
+TX39_CONF_ICE,VAR_0
+TX39_STOP_STREAMING,FUNC_0
+current_cpu_data,VAR_1
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+protected_flush_icache_line,FUNC_3
+protected_writeback_dcache_line,FUNC_4
+read_c0_conf,FUNC_5
+write_c0_conf,FUNC_6
+tx39_flush_cache_sigtramp,FUNC_7
+addr,VAR_2
+ic_lsize,VAR_3
+dc_lsize,VAR_4
+config,VAR_5
+flags,VAR_6

@@ -1,0 +1,10 @@
+PACKET__RELABELTO,VAR_0
+SECCLASS_PACKET,VAR_1
+avc_has_perm,FUNC_0
+current_cred,FUNC_1
+selinux_cred,FUNC_2
+selinux_state,VAR_2
+selinux_secmark_relabel_packet,FUNC_3
+sid,VAR_3
+__tsec,VAR_4
+tsid,VAR_5

@@ -1,0 +1,17 @@
+DEBUGF,FUNC_0
+DEVICE_DEBUGF,FUNC_1
+I2C_DATA_REG,VAR_0
+I2C_STATUS_REG,VAR_1
+IIC_NOERR,VAR_2
+device_get_softc,FUNC_2
+i2c_error_handler,FUNC_3
+i2c_write_reg,FUNC_4
+wait_for_xfer,FUNC_5
+i2c_write,FUNC_6
+dev,VAR_3
+buf,VAR_4
+len,VAR_5
+sent,VAR_6
+timeout,VAR_7
+sc,VAR_8
+error,VAR_9

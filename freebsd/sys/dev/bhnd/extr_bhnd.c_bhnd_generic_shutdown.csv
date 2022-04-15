@@ -1,0 +1,13 @@
+BHND_DEVICE_ORDER_DETACH,VAR_0
+EBUSY,VAR_1
+bhnd_bus_free_children,FUNC_0
+bhnd_bus_get_children,FUNC_1
+device_is_attached,FUNC_2
+device_shutdown,FUNC_3
+bhnd_generic_shutdown,FUNC_4
+dev,VAR_2
+devs,VAR_3
+ndevs,VAR_4
+error,VAR_5
+i,VAR_6
+child,VAR_7

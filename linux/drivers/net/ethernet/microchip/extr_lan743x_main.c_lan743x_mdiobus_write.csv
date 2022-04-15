@@ -1,0 +1,15 @@
+MAC_MII_ACC,VAR_0
+MAC_MII_DATA,VAR_1
+MAC_MII_WRITE,VAR_2
+lan743x_csr_write,FUNC_0
+lan743x_mac_mii_access,FUNC_1
+lan743x_mac_mii_wait_till_not_busy,FUNC_2
+lan743x_mdiobus_write,FUNC_3
+bus,VAR_3
+phy_id,VAR_4
+index,VAR_5
+regval,VAR_6
+adapter,VAR_7
+val,VAR_8
+mii_access,VAR_9
+ret,VAR_10

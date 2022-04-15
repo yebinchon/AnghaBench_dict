@@ -1,0 +1,8 @@
+__xen_evtchn_do_upcall,FUNC_0
+exit_idle,FUNC_1
+irq_enter,FUNC_2
+irq_exit,FUNC_3
+set_irq_regs,FUNC_4
+xen_evtchn_do_upcall,FUNC_5
+regs,VAR_0
+old_regs,VAR_1

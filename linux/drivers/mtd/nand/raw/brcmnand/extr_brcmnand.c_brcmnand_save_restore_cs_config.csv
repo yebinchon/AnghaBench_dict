@@ -1,0 +1,17 @@
+BRCMNAND_CS_ACC_CONTROL,VAR_0
+BRCMNAND_CS_CFG,VAR_1
+BRCMNAND_CS_CFG_EXT,VAR_2
+BRCMNAND_CS_TIMING1,VAR_3
+BRCMNAND_CS_TIMING2,VAR_4
+brcmnand_cs_offset,FUNC_0
+nand_readreg,FUNC_1
+nand_writereg,FUNC_2
+brcmnand_save_restore_cs_config,FUNC_3
+host,VAR_5
+restore,VAR_6
+ctrl,VAR_7
+cfg_offs,VAR_8
+cfg_ext_offs,VAR_9
+acc_control_offs,VAR_10
+t1_offs,VAR_11
+t2_offs,VAR_12

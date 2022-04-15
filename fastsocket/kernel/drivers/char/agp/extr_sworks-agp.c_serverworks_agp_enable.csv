@@ -1,0 +1,11 @@
+PCI_AGP_COMMAND,VAR_0
+PCI_AGP_STATUS,VAR_1
+agp_collect_device_status,FUNC_0
+agp_device_command,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+serverworks_private,VAR_2
+serverworks_agp_enable,FUNC_4
+bridge,VAR_3
+mode,VAR_4
+command,VAR_5

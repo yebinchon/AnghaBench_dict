@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+PCMCIA_UEVENT_RESUME,VAR_1
+PCMCIA_UEVENT_SUSPEND,VAR_2
+pcmcia_parse_uevents,FUNC_0
+strncmp,FUNC_1
+to_socket,FUNC_2
+pccard_store_card_pm_state,FUNC_3
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+count,VAR_6
+s,VAR_7
+ret,VAR_8

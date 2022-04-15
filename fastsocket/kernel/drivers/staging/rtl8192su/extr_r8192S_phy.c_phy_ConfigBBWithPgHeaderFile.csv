@@ -1,0 +1,15 @@
+BaseBand_Config_PHY_REG,VAR_0
+COMP_SEND,VAR_1
+PHY_REG_Array_PGLength,VAR_2
+RT_STATUS_SUCCESS,VAR_3
+RT_TRACE,FUNC_0
+Rtl819XPHY_REG_Array_PG,VAR_4
+mdelay,FUNC_1
+rtl8192_setBBreg,FUNC_2
+udelay,FUNC_3
+phy_ConfigBBWithPgHeaderFile,FUNC_4
+dev,VAR_5
+ConfigType,VAR_6
+i,VAR_7
+Rtl819XPHY_REGArray_Table_PG,VAR_8
+PHY_REGArrayPGLen,VAR_9

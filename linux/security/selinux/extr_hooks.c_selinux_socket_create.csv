@@ -1,0 +1,16 @@
+SOCKET__CREATE,VAR_0
+avc_has_perm,FUNC_0
+current_cred,FUNC_1
+selinux_cred,FUNC_2
+selinux_state,VAR_1
+socket_sockcreate_sid,FUNC_3
+socket_type_to_security_class,FUNC_4
+selinux_socket_create,FUNC_5
+family,VAR_2
+type,VAR_3
+protocol,VAR_4
+kern,VAR_5
+tsec,VAR_6
+newsid,VAR_7
+secclass,VAR_8
+rc,VAR_9

@@ -1,0 +1,11 @@
+BH1750_POWER_DOWN,VAR_0
+i2c_get_clientdata,FUNC_0
+i2c_smbus_write_byte,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+bh1750_remove,FUNC_6
+client,VAR_1
+indio_dev,VAR_2
+data,VAR_3

@@ -1,0 +1,15 @@
+ARMCP_PACKET_LED_SET,VAR_0
+ARMCP_PKT_CTL_OPCODE_SHIFT,VAR_1
+HL_DEVICE_TIMEOUT_USEC,VAR_2
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+dev_err,FUNC_2
+hl_device_disabled_or_in_reset,FUNC_3
+memset,FUNC_4
+stub1,FUNC_5
+hl_debugfs_led_set,FUNC_6
+hdev,VAR_3
+led,VAR_4
+state,VAR_5
+pkt,VAR_6
+rc,VAR_7

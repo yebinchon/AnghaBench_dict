@@ -1,0 +1,15 @@
+AllocateAndInitializeSid,FUNC_0
+CheckTokenMembership,FUNC_1
+FreeSid,FUNC_2
+GetLastError,FUNC_3
+SECURITY_LOCAL_SYSTEM_RID,VAR_0
+SECURITY_NT_AUTHORITY,VAR_1
+SECURITY_SERVICE_RID,VAR_2
+fprintf,FUNC_4
+stderr,VAR_3
+pgwin32_is_service,FUNC_5
+_is_service,VAR_4
+IsMember,VAR_5
+ServiceSid,VAR_6
+LocalSystemSid,VAR_7
+NtAuthority,VAR_8

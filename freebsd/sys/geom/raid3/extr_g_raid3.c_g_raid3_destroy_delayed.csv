@@ -1,0 +1,16 @@
+EV_CANCEL,VAR_0
+G_RAID3_DEBUG,FUNC_0
+G_RAID3_DESTROY_SOFT,VAR_1
+G_RAID3_DEVICE_FLAG_DESTROY,VAR_2
+G_RAID3_DEVICE_FLAG_DESTROYING,VAR_3
+KASSERT,FUNC_1
+g_raid3_destroy,FUNC_2
+g_topology_lock,FUNC_3
+g_topology_unlock,FUNC_4
+sx_xlock,FUNC_5
+sx_xunlock,FUNC_6
+g_raid3_destroy_delayed,FUNC_7
+arg,VAR_4
+flag,VAR_5
+sc,VAR_6
+error,VAR_7

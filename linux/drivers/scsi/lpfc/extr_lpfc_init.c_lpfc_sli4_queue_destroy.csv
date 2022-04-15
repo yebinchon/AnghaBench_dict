@@ -1,0 +1,11 @@
+INIT_LIST_HEAD,FUNC_0
+LPFC_QUEUE_FREE_INIT,VAR_0
+LPFC_QUEUE_FREE_WAIT,VAR_1
+__lpfc_sli4_release_queue,FUNC_1
+lpfc_sli4_release_hdwq,FUNC_2
+lpfc_sli4_release_queues,FUNC_3
+msleep,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+lpfc_sli4_queue_destroy,FUNC_7
+phba,VAR_2

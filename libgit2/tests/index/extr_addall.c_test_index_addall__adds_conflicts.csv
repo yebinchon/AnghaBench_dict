@@ -1,0 +1,17 @@
+check_status,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+g_repo,VAR_0
+git_annotated_commit_free,FUNC_3
+git_annotated_commit_from_ref,FUNC_4
+git_index_add_all,FUNC_5
+git_index_free,FUNC_6
+git_index_write,FUNC_7
+git_merge,FUNC_8
+git_reference_free,FUNC_9
+git_reference_lookup,FUNC_10
+git_repository_index,FUNC_11
+test_index_addall__adds_conflicts,FUNC_12
+index,VAR_1
+ref,VAR_2
+annotated,VAR_3

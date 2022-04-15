@@ -1,0 +1,14 @@
+CB_DELETESTRING,VAR_0
+CB_GETCURSEL,VAR_1
+CB_INSERTSTRING,VAR_2
+CB_SETCURSEL,VAR_3
+IsCDRomDrive,FUNC_0
+IsRemovableDrive,FUNC_1
+SendMessage,FUNC_2
+U_VolInfo,FUNC_3
+hwndDriveList,VAR_4
+rgiDrive,VAR_5
+RefreshToolbarDrive,FUNC_4
+iDriveInd,VAR_6
+iSel,VAR_7
+drive,VAR_8

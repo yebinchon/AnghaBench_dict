@@ -1,0 +1,12 @@
+_COMM_PAGE32_BASE_ADDRESS,VAR_0
+_COMM_PAGE32_START_ADDRESS,VAR_1
+_COMM_PAGE_ACTIVE_CPUS,VAR_2
+commPagePtr32,VAR_3
+commPagePtr64,VAR_4
+commpage_active_cpus_lock,VAR_5
+processor_avail_count,VAR_6
+simple_lock,FUNC_0
+simple_unlock,FUNC_1
+commpage_update_active_cpus,FUNC_2
+cp,VAR_7
+ip,VAR_8

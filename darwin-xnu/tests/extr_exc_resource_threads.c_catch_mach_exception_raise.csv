@@ -1,0 +1,17 @@
+EXC_CORPSE_NOTIFY,VAR_0
+KERN_SUCCESS,VAR_1
+SIGKILL,VAR_2
+T_ASSERT_EQ,FUNC_0
+T_ASSERT_POSIX_ZERO,FUNC_1
+dispatch_semaphore_signal,FUNC_2
+kill,FUNC_3
+pid_for_task,FUNC_4
+sync_sema,VAR_3
+catch_mach_exception_raise,FUNC_5
+exception_port,VAR_4
+thread,VAR_5
+task,VAR_6
+exception,VAR_7
+code,VAR_8
+code_count,VAR_9
+pid,VAR_10

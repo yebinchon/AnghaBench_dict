@@ -1,0 +1,16 @@
+MLX5_DROP_NEW_HEALTH_WORK,VAR_0
+MLX5_DROP_NEW_RECOVERY_WORK,VAR_1
+MLX5_DROP_NEW_WATCHDOG_WORK,VAR_2
+MLX5_HEALTH_POLL_INTERVAL,VAR_3
+MLX5_SENSOR_NO_ERR,VAR_4
+clear_bit,FUNC_0
+init_timer,FUNC_1
+jiffies,VAR_5
+mlx5_trigger_health_watchdog,FUNC_2
+mod_timer,FUNC_3
+poll_health,VAR_6
+round_jiffies,FUNC_4
+setup_timer,FUNC_5
+mlx5_start_health_poll,FUNC_6
+dev,VAR_7
+health,VAR_8

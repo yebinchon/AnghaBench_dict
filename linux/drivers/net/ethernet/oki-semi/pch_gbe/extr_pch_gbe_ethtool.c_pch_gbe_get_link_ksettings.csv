@@ -1,0 +1,16 @@
+ADVERTISED_1000baseT_Half,VAR_0
+ADVERTISED_TP,VAR_1
+SPEED_UNKNOWN,VAR_2
+SUPPORTED_1000baseT_Half,VAR_3
+SUPPORTED_TP,VAR_4
+ethtool_convert_legacy_u32_to_link_mode,FUNC_0
+ethtool_convert_link_mode_to_legacy_u32,FUNC_1
+mii_ethtool_get_link_ksettings,FUNC_2
+netdev_priv,FUNC_3
+netif_carrier_ok,FUNC_4
+pch_gbe_get_link_ksettings,FUNC_5
+netdev,VAR_5
+ecmd,VAR_6
+adapter,VAR_7
+supported,VAR_8
+advertising,VAR_9

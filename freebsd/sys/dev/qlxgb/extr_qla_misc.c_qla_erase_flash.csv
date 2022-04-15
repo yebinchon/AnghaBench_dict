@@ -1,0 +1,14 @@
+Q8_FLASH_SECTOR_SIZE,VAR_0
+Q8_SEM2_UNLOCK,VAR_1
+qla_erase_flash_sector,FUNC_0
+qla_flash_protect,FUNC_1
+qla_flash_unprotect,FUNC_2
+qla_p3p_sem_lock2,FUNC_3
+qla_sem_unlock,FUNC_4
+qla_wait_for_flash_unprotect,FUNC_5
+qla_erase_flash,FUNC_6
+ha,VAR_2
+off,VAR_3
+size,VAR_4
+rval,VAR_5
+start,VAR_6

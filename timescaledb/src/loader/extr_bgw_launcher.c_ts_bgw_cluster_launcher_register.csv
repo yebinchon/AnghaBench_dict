@@ -1,0 +1,11 @@
+BGWORKER_BACKEND_DATABASE_CONNECTION,VAR_0
+BGWORKER_SHMEM_ACCESS,VAR_1
+BGW_LAUNCHER_RESTART_TIME_S,VAR_2
+BGW_MAXLEN,VAR_3
+BgWorkerStart_RecoveryFinished,VAR_4
+EXTENSION_NAME,VAR_5
+RegisterBackgroundWorker,FUNC_0
+memset,FUNC_1
+snprintf,FUNC_2
+ts_bgw_cluster_launcher_register,FUNC_3
+worker,VAR_6

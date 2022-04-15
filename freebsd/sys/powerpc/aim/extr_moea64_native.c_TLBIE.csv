@@ -1,0 +1,16 @@
+ADDR_PIDX_SHFT,VAR_0
+atomic_cmpset_int,FUNC_0
+intr_disable,FUNC_1
+intr_restore,FUNC_2
+isync,FUNC_3
+moea64_crop_tlbie,VAR_1
+moea64_need_lock,VAR_2
+TLBIE,FUNC_4
+vpn,VAR_3
+vpn_hi,VAR_4
+vpn_lo,VAR_5
+msr,VAR_6
+scratch,VAR_7
+intr,VAR_8
+tlbie_lock,VAR_9
+need_lock,VAR_10

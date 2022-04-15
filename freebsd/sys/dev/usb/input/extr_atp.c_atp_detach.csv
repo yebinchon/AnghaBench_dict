@@ -1,0 +1,15 @@
+ATP_ENABLED,VAR_0
+ATP_N_TRANSFER,VAR_1
+HID_MODE,VAR_2
+atp_disable,FUNC_0
+atp_set_device_mode,FUNC_1
+callout_drain,FUNC_2
+device_get_softc,FUNC_3
+mtx_destroy,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+usb_fifo_detach,FUNC_7
+usbd_transfer_unsetup,FUNC_8
+atp_detach,FUNC_9
+dev,VAR_3
+sc,VAR_4

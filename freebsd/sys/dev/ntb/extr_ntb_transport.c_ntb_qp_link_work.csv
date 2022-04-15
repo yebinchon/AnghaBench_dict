@@ -1,0 +1,17 @@
+NTBT_QP_LINKS,VAR_0
+NTB_LINK_DOWN_TIMEOUT,VAR_1
+NTB_LINK_UP,VAR_2
+callout_reset,FUNC_0
+hz,VAR_3
+ntb_db_clear_mask,FUNC_1
+ntb_peer_spad_write,FUNC_2
+ntb_printf,FUNC_3
+ntb_spad_read,FUNC_4
+stub1,FUNC_5
+ntb_qp_link_work,FUNC_6
+arg,VAR_4
+qp,VAR_5
+dev,VAR_6
+nt,VAR_7
+i,VAR_8
+val,VAR_9

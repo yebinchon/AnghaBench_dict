@@ -1,0 +1,15 @@
+ADV7511_INT0_EDID_READY,VAR_0
+ADV7511_INT0_HPD,VAR_1
+ADV7511_INT1_DDC_ERROR,VAR_2
+ADV7511_REG_INT,FUNC_0
+adv7511_cec_irq_process,FUNC_1
+regmap_read,FUNC_2
+regmap_write,FUNC_3
+schedule_work,FUNC_4
+wake_up_all,FUNC_5
+adv7511_irq_process,FUNC_6
+adv7511,VAR_3
+process_hpd,VAR_4
+irq0,VAR_5
+irq1,VAR_6
+ret,VAR_7

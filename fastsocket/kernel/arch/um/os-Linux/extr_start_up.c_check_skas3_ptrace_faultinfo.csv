@@ -1,0 +1,14 @@
+EIO,VAR_0
+PTRACE_FAULTINFO,VAR_1
+disable_ptrace_faultinfo,VAR_2
+errno,VAR_3
+non_fatal,FUNC_0
+perror,FUNC_1
+ptrace,FUNC_2
+ptrace_faultinfo,VAR_4
+start_ptraced_child,FUNC_3
+stop_ptraced_child,FUNC_4
+check_skas3_ptrace_faultinfo,FUNC_5
+fi,VAR_5
+pid,VAR_6
+n,VAR_7

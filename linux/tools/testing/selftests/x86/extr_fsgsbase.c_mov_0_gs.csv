@@ -1,0 +1,15 @@
+ARCH_GET_GS,VAR_0
+ARCH_SET_GS,VAR_1
+GS,VAR_2
+SYS_arch_prctl,VAR_3
+err,FUNC_0
+nerrs,VAR_4
+printf,FUNC_1
+read_base,FUNC_2
+syscall,FUNC_3
+usleep,FUNC_4
+mov_0_gs,FUNC_5
+initial_base,VAR_5
+schedule,VAR_6
+base,VAR_7
+arch_base,VAR_8

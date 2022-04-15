@@ -1,0 +1,14 @@
+cl_assert_equal_oid,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_fail,FUNC_2
+cl_git_pass,FUNC_3
+g_repo,VAR_0
+git_oid_cpy,FUNC_4
+git_reference_free,FUNC_5
+git_reference_lookup,FUNC_6
+git_reference_rename,FUNC_7
+git_reference_target,FUNC_8
+test_refs_rename__force_loose,FUNC_9
+looked_up_ref,VAR_1
+renamed_ref,VAR_2
+oid,VAR_3

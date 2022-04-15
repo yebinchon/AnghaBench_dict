@@ -1,0 +1,13 @@
+AC97_LINE1_LEVEL,VAR_0
+AC97_LINE1_RATE,VAR_1
+get_ichdev,FUNC_0
+snd_ac97_write,FUNC_1
+snd_intel8x0_setup_periods,FUNC_2
+snd_pcm_lib_buffer_bytes,FUNC_3
+snd_pcm_lib_period_bytes,FUNC_4
+snd_pcm_substream_chip,FUNC_5
+snd_intel8x0m_pcm_prepare,FUNC_6
+substream,VAR_2
+chip,VAR_3
+runtime,VAR_4
+ichdev,VAR_5

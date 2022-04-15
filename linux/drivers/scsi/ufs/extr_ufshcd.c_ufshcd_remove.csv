@@ -1,0 +1,12 @@
+device_remove_file,FUNC_0
+scsi_remove_host,FUNC_1
+ufs_bsg_remove,FUNC_2
+ufs_sysfs_remove_nodes,FUNC_3
+ufshcd_disable_intr,FUNC_4
+ufshcd_exit_clk_gating,FUNC_5
+ufshcd_exit_clk_scaling,FUNC_6
+ufshcd_hba_exit,FUNC_7
+ufshcd_hba_stop,FUNC_8
+ufshcd_is_clkscaling_supported,FUNC_9
+ufshcd_remove,FUNC_10
+hba,VAR_0

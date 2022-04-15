@@ -1,0 +1,11 @@
+PCIEM_CTL_NOSNOOP_ENABLE,VAR_0
+PCIEM_CTL_RELAXED_ORD_ENABLE,VAR_1
+PCIER_DEVICE_CTL,VAR_2
+device_get_nameunit,FUNC_0
+device_printf,FUNC_1
+pci_find_pcie_root_port,FUNC_2
+pcie_adjust_config,FUNC_3
+t5_attribute_workaround,FUNC_4
+dev,VAR_3
+root_port,VAR_4
+v,VAR_5

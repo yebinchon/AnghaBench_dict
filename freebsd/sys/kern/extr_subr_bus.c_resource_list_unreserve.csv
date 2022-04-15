@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+RLE_ALLOCATED,VAR_2
+RLE_RESERVED,VAR_3
+device_get_parent,FUNC_0
+panic,FUNC_1
+resource_list_find,FUNC_2
+resource_list_release,FUNC_3
+resource_list_unreserve,FUNC_4
+rl,VAR_4
+bus,VAR_5
+child,VAR_6
+type,VAR_7
+rid,VAR_8
+rle,VAR_9
+passthrough,VAR_10

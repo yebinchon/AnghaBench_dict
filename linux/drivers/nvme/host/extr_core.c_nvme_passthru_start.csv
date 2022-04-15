@@ -1,0 +1,16 @@
+NVME_CMD_EFFECTS_CSE_MASK,VAR_0
+NVME_CMD_EFFECTS_CSUPP,VAR_1
+NVME_CMD_EFFECTS_LBCC,VAR_2
+dev_warn,FUNC_0
+le32_to_cpu,FUNC_1
+mutex_lock,FUNC_2
+nvme_known_admin_effects,FUNC_3
+nvme_mpath_start_freeze,FUNC_4
+nvme_mpath_wait_freeze,FUNC_5
+nvme_start_freeze,FUNC_6
+nvme_wait_freeze,FUNC_7
+nvme_passthru_start,FUNC_8
+ctrl,VAR_3
+ns,VAR_4
+opcode,VAR_5
+effects,VAR_6

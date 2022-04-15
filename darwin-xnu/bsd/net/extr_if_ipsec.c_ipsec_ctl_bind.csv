@@ -1,0 +1,17 @@
+IPSEC_IF_DEFAULT_RING_SIZE,VAR_0
+IPSEC_IF_DEFAULT_RX_FSW_RING_SIZE,VAR_1
+IPSEC_IF_DEFAULT_SLOT_SIZE,VAR_2
+IPSEC_IF_DEFAULT_TX_FSW_RING_SIZE,VAR_3
+MBUF_SC_OAM,VAR_4
+ipsec_lck_attr,VAR_5
+ipsec_lck_grp,VAR_6
+ipsec_pcb_zone,VAR_7
+lck_mtx_init,FUNC_0
+lck_rw_init,FUNC_1
+memset,FUNC_2
+zalloc,FUNC_3
+ipsec_ctl_bind,FUNC_4
+kctlref,VAR_8
+sac,VAR_9
+unitinfo,VAR_10
+pcb,VAR_11

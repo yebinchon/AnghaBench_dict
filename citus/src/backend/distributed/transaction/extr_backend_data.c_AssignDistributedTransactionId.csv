@@ -1,0 +1,15 @@
+GetCurrentTimestamp,FUNC_0
+GetLocalGroupId,FUNC_1
+GetUserId,FUNC_2
+MyBackendData,VAR_0
+MyDatabaseId,VAR_1
+SpinLockAcquire,FUNC_3
+SpinLockRelease,FUNC_4
+backendManagementShmemData,VAR_2
+pg_atomic_fetch_add_u64,FUNC_5
+AssignDistributedTransactionId,FUNC_6
+transactionNumberSequence,VAR_3
+nextTransactionNumber,VAR_4
+localGroupId,VAR_5
+currentTimestamp,VAR_6
+userId,VAR_7

@@ -1,0 +1,11 @@
+MACH_PORT_NULL,VAR_0
+MACH_PORT_RIGHT_RECEIVE,VAR_1
+_mig_get_reply_port,FUNC_0
+_mig_set_reply_port,FUNC_1
+_task_reply_port,VAR_2
+mach_port_deallocate,FUNC_2
+mach_port_mod_refs,FUNC_3
+mach_task_self,FUNC_4
+mig_dealloc_reply_port,FUNC_5
+migport,VAR_3
+port,VAR_4

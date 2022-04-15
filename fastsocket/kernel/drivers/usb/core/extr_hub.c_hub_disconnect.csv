@@ -1,0 +1,17 @@
+HUB_DISCONNECT,VAR_0
+USB_SPEED_HIGH,VAR_1
+highspeed_hubs,VAR_2
+hub_event_lock,VAR_3
+hub_quiesce,FUNC_0
+hub_release,VAR_4
+kfree,FUNC_1
+kref_put,FUNC_2
+list_del_init,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+usb_free_urb,FUNC_6
+usb_get_intfdata,FUNC_7
+usb_set_intfdata,FUNC_8
+hub_disconnect,FUNC_9
+intf,VAR_5
+hub,VAR_6

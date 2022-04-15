@@ -1,0 +1,17 @@
+ILC_GET_HANDLE,FUNC_0
+OMX_CommandStateSet,VAR_0
+OMX_Deinit,FUNC_1
+OMX_ErrorNone,VAR_1
+OMX_SendCommand,FUNC_2
+OMX_StateIdle,VAR_2
+OMX_StateLoaded,VAR_3
+assert,FUNC_3
+free,FUNC_4
+ilclient_change_component_state,FUNC_5
+ilclient_cleanup_components,FUNC_6
+ilclient_destroy,FUNC_7
+ilclient_disable_port_buffers,FUNC_8
+sem_destroy,FUNC_9
+audioplay_delete,FUNC_10
+st,VAR_4
+error,VAR_5

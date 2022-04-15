@@ -1,0 +1,8 @@
+RTC_CNTL_TOUCH_DONE_INT_ENA_S,VAR_0
+TOUCH_PAD_INTR_MASK_ALL,VAR_1
+assert,FUNC_0
+rtc_isr_register,FUNC_1
+touch_pad_isr_register,FUNC_2
+fn,VAR_2
+arg,VAR_3
+intr_mask,VAR_4

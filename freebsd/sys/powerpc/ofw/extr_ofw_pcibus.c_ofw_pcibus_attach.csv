@@ -1,0 +1,12 @@
+bus_generic_attach,FUNC_0
+ofw_devices_only,VAR_0
+ofw_pcibus_enum_bus,FUNC_1
+ofw_pcibus_enum_devtree,FUNC_2
+pci_attach_common,FUNC_3
+pcib_get_bus,FUNC_4
+pcib_get_domain,FUNC_5
+ofw_pcibus_attach,FUNC_6
+dev,VAR_1
+busno,VAR_2
+domain,VAR_3
+error,VAR_4

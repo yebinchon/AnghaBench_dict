@@ -1,0 +1,13 @@
+clear_bit,FUNC_0
+kfree,FUNC_1
+qla2x00_free_req_que,FUNC_2
+qla2x00_free_rsp_que,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+test_bit,FUNC_6
+qla2x00_free_queues,FUNC_7
+ha,VAR_0
+req,VAR_1
+rsp,VAR_2
+cnt,VAR_3
+flags,VAR_4

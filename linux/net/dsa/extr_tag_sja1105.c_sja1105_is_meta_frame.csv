@@ -1,0 +1,11 @@
+ETH_P_SJA1105_META,VAR_0
+SJA1105_META_DMAC,VAR_1
+SJA1105_META_SMAC,VAR_2
+eth_hdr,FUNC_0
+ether_addr_to_u64,FUNC_1
+ntohs,FUNC_2
+sja1105_is_meta_frame,FUNC_3
+skb,VAR_3
+hdr,VAR_4
+smac,VAR_5
+dmac,VAR_6

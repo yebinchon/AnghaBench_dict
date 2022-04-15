@@ -1,0 +1,14 @@
+NAND_ALE,VAR_0
+NAND_CLE,VAR_1
+NAND_CMD_NONE,VAR_2
+NAND_CTRL_CHANGE,VAR_3
+NAND_NCE,VAR_4
+gpio_set_value_cansleep,FUNC_0
+mtd_to_rbinfo,FUNC_1
+rb91x_nand_write,FUNC_2
+rb91x_nand_cmd_ctrl,FUNC_3
+mtd,VAR_5
+cmd,VAR_6
+ctrl,VAR_7
+rbni,VAR_8
+t,VAR_9

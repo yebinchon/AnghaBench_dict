@@ -1,0 +1,8 @@
+ATOM_S2_CURRENT_BL_LEVEL_MASK,VAR_0
+ATOM_S2_CURRENT_BL_LEVEL_SHIFT,VAR_1
+RREG32,FUNC_0
+mmBIOS_SCRATCH_2,VAR_2
+amdgpu_atombios_encoder_get_backlight_level_from_reg,FUNC_1
+adev,VAR_3
+backlight_level,VAR_4
+bios_2_scratch,VAR_5

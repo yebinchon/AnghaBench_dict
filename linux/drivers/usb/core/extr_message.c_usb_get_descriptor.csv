@@ -1,0 +1,16 @@
+ENODATA,VAR_0
+ETIMEDOUT,VAR_1
+USB_CTRL_GET_TIMEOUT,VAR_2
+USB_DIR_IN,VAR_3
+USB_REQ_GET_DESCRIPTOR,VAR_4
+memset,FUNC_0
+usb_control_msg,FUNC_1
+usb_rcvctrlpipe,FUNC_2
+usb_get_descriptor,FUNC_3
+dev,VAR_5
+type,VAR_6
+index,VAR_7
+buf,VAR_8
+size,VAR_9
+i,VAR_10
+result,VAR_11

@@ -1,0 +1,11 @@
+CYC_MOVEM_L,VAR_0
+EA_AY_IX_32,FUNC_0
+OPER_I_16,FUNC_1
+REG_DA,VAR_1
+USE_CYCLES,FUNC_2
+m68ki_read_32,FUNC_3
+m68k_op_movem_32_er_ix,FUNC_4
+i,VAR_2
+register_list,VAR_3
+ea,VAR_4
+count,VAR_5

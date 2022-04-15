@@ -1,0 +1,12 @@
+XFER_MW_DMA_0,VAR_0
+XFER_UDMA_0,VAR_1
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+to_pci_dev,FUNC_2
+tosh_set_dmamode,FUNC_3
+ap,VAR_2
+adev,VAR_3
+pdev,VAR_4
+conf,VAR_5
+udma,VAR_6
+mwdma,VAR_7

@@ -1,0 +1,13 @@
+SIG_BLOCK,VAR_0
+SIG_SETMASK,VAR_1
+WAFLAG,VAR_2
+atomic_cmpset_acq_int,FUNC_0
+atomic_fetchadd_int,FUNC_1
+fullsigmask,VAR_3
+oldsigmask,VAR_4
+sigprocmask,FUNC_2
+wnested,VAR_5
+def_wlock_acquire,FUNC_3
+lock,VAR_6
+l,VAR_7
+tmp_oldsigmask,VAR_8

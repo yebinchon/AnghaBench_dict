@@ -1,0 +1,11 @@
+CQ_OK,VAR_0
+CQ_POLL_ERR,VAR_1
+MLX5_CQE_REQ_ERR,VAR_2
+MLX5_CQE_RESP_ERR,VAR_3
+be16_to_cpu,FUNC_0
+get_cqe_opcode,FUNC_1
+dr_parse_cqe,FUNC_2
+dr_cq,VAR_4
+cqe64,VAR_5
+idx,VAR_6
+opcode,VAR_7

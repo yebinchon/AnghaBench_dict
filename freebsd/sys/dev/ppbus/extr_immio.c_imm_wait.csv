@@ -1,0 +1,13 @@
+DECLARE_WAIT_MICROSEQUENCE,VAR_0
+WAIT_RET,VAR_1
+WAIT_TMO,VAR_2
+device_get_parent,FUNC_0
+ppb_MS_init_msq,FUNC_1
+ppb_MS_microseq,FUNC_2
+wait_microseq,VAR_3
+imm_wait,FUNC_3
+vpo,VAR_4
+tmo,VAR_5
+ppbus,VAR_6
+ret,VAR_7
+err,VAR_8

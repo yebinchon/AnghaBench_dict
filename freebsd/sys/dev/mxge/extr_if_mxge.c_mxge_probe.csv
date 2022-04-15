@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+MXGE_PCI_DEVICE_Z8E,VAR_1
+MXGE_PCI_DEVICE_Z8E_9,VAR_2
+MXGE_PCI_VENDOR_MYRICOM,VAR_3
+device_printf,FUNC_0
+device_set_desc,FUNC_1
+pci_get_device,FUNC_2
+pci_get_revid,FUNC_3
+pci_get_vendor,FUNC_4
+mxge_probe,FUNC_5
+dev,VAR_4
+rev,VAR_5

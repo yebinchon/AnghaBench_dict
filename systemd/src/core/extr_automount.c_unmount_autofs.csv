@@ -1,0 +1,15 @@
+EHOSTDOWN,VAR_0
+IN_SET,FUNC_0
+MANAGER_REEXECUTE,VAR_1
+MANAGER_RELOAD,VAR_2
+MNT_DETACH,VAR_3
+UNIT,FUNC_1
+assert,FUNC_2
+automount_send_ready,FUNC_3
+log_error_errno,FUNC_4
+repeat_unmount,FUNC_5
+safe_close,FUNC_6
+sd_event_source_unref,FUNC_7
+unmount_autofs,FUNC_8
+a,VAR_4
+r,VAR_5

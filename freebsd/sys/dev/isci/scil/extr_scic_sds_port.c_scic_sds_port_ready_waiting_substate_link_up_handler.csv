@@ -1,0 +1,7 @@
+SCIC_SDS_PORT_READY_SUBSTATE_OPERATIONAL,VAR_0
+TRUE,VAR_1
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_port_activate_phy,FUNC_1
+scic_sds_port_ready_waiting_substate_link_up_handler,FUNC_2
+this_port,VAR_2
+the_phy,VAR_3

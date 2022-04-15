@@ -1,0 +1,14 @@
+S390_lowcore,VAR_0
+SCLP_REQ_DONE,VAR_1
+panic,FUNC_0
+sclp_init_req,VAR_2
+sclp_init_sccb,VAR_3
+sclp_lock,VAR_4
+sclp_running_state,VAR_5
+sclp_running_state_idle,VAR_6
+sclp_running_state_running,VAR_7
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+sclp_check_handler,FUNC_3
+code,VAR_8
+finished_sccb,VAR_9

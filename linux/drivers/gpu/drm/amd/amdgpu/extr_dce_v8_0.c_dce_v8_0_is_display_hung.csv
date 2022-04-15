@@ -1,0 +1,13 @@
+CRTC_CONTROL__CRTC_MASTER_EN_MASK,VAR_0
+RREG32,FUNC_0
+crtc_offsets,VAR_1
+mmCRTC_CONTROL,VAR_2
+mmCRTC_STATUS_HV_COUNT,VAR_3
+udelay,FUNC_1
+dce_v8_0_is_display_hung,FUNC_2
+adev,VAR_4
+crtc_hung,VAR_5
+crtc_status,VAR_6
+i,VAR_7
+j,VAR_8
+tmp,VAR_9

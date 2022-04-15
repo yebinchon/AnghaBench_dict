@@ -1,0 +1,15 @@
+BATADV_DBG_TT,VAR_0
+BATADV_TT_CLIENT_NEW,VAR_1
+BATADV_TT_OGM_APPEND_MAX,VAR_2
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+atomic_set,FUNC_2
+batadv_atomic_dec_not_zero,FUNC_3
+batadv_dbg,FUNC_4
+batadv_tt_local_purge_pending_clients,FUNC_5
+batadv_tt_local_set_flags,FUNC_6
+batadv_tt_local_update_crc,FUNC_7
+batadv_tt_tvlv_container_update,FUNC_8
+lockdep_assert_held,FUNC_9
+batadv_tt_local_commit_changes_nolock,FUNC_10
+bat_priv,VAR_3

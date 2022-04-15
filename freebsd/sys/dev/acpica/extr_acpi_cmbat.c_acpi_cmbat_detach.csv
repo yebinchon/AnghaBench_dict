@@ -1,0 +1,12 @@
+ACPI_ALL_NOTIFY,VAR_0
+ACPI_SERIAL_BEGIN,FUNC_0
+ACPI_SERIAL_END,FUNC_1
+AcpiRemoveNotifyHandler,FUNC_2
+acpi_battery_remove,FUNC_3
+acpi_cmbat_notify_handler,VAR_1
+acpi_get_handle,FUNC_4
+cmbat,VAR_2
+device_set_softc,FUNC_5
+acpi_cmbat_detach,FUNC_6
+dev,VAR_3
+handle,VAR_4

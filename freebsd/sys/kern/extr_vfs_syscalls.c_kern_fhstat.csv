@@ -1,0 +1,17 @@
+ESTALE,VAR_0
+LK_EXCLUSIVE,VAR_1
+NOCRED,VAR_2
+PRIV_VFS_FHSTAT,VAR_3
+VFS_FHTOVP,FUNC_0
+priv_check,FUNC_1
+vfs_busyfs,FUNC_2
+vfs_unbusy,FUNC_3
+vn_stat,FUNC_4
+vput,FUNC_5
+kern_fhstat,FUNC_6
+td,VAR_4
+fh,VAR_5
+sb,VAR_6
+mp,VAR_7
+vp,VAR_8
+error,VAR_9

@@ -1,0 +1,11 @@
+NETDEV_TX_OK,VAR_0
+ixgbe_xmit_frame_ring,FUNC_0
+netdev_priv,FUNC_1
+skb_pad,FUNC_2
+skb_set_tail_pointer,FUNC_3
+unlikely,FUNC_4
+ixgbe_xmit_frame,FUNC_5
+skb,VAR_1
+netdev,VAR_2
+adapter,VAR_3
+tx_ring,VAR_4

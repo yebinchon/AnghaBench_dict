@@ -1,0 +1,14 @@
+Assert,FUNC_0
+MyReplicationSlot,VAR_0
+RS_PERSISTENT,VAR_1
+RS_TEMPORARY,VAR_2
+ReplicationSlotCreate,FUNC_1
+ReplicationSlotMarkDirty,FUNC_2
+ReplicationSlotReserveWal,FUNC_3
+ReplicationSlotSave,FUNC_4
+XLogRecPtrIsInvalid,FUNC_5
+create_physical_replication_slot,FUNC_6
+name,VAR_3
+immediately_reserve,VAR_4
+temporary,VAR_5
+restart_lsn,VAR_6

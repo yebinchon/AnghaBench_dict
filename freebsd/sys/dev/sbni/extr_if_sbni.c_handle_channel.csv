@@ -1,0 +1,16 @@
+CHANGE_LEVEL_START_TICKS,VAR_0
+CSR0,VAR_1
+EN_INT,VAR_2
+FL_PREV_OK,VAR_3
+RC_RDY,VAR_4
+TR_RDY,VAR_5
+TR_REQ,VAR_6
+if_printf,FUNC_0
+recv_frame,FUNC_1
+sbni_inb,FUNC_2
+sbni_outb,FUNC_3
+send_frame,FUNC_4
+handle_channel,FUNC_5
+sc,VAR_7
+req_ans,VAR_8
+csr0,VAR_9

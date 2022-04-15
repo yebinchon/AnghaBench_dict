@@ -1,0 +1,14 @@
+SIRFSOC_GPIO_CTL_DATAOUT_MASK,VAR_0
+SIRFSOC_GPIO_CTL_INTR_EN_MASK,VAR_1
+SIRFSOC_GPIO_CTL_OUT_EN_MASK,VAR_2
+readl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel,FUNC_3
+sirfsoc_gpio_set_output,FUNC_4
+sgpio,VAR_3
+bank,VAR_4
+offset,VAR_5
+value,VAR_6
+out_ctrl,VAR_7
+flags,VAR_8

@@ -1,0 +1,11 @@
+buf,VAR_0
+cfg,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_clear,FUNC_3
+git_buf_cstr,FUNC_4
+git_config_get_string_buf,FUNC_5
+git_config_open_ondisk,FUNC_6
+p_unlink,FUNC_7
+test_config_include__ordering,FUNC_8

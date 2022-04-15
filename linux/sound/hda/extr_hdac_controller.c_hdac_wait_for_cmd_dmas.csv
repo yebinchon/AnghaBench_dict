@@ -1,0 +1,12 @@
+AZX_CORBCTL_RUN,VAR_0
+AZX_RBCTL_DMA_EN,VAR_1
+CORBCTL,VAR_2
+RIRBCTL,VAR_3
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_0
+snd_hdac_chip_readb,FUNC_1
+time_before,FUNC_2
+udelay,FUNC_3
+hdac_wait_for_cmd_dmas,FUNC_4
+bus,VAR_5
+timeout,VAR_6

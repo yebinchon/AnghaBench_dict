@@ -1,0 +1,11 @@
+PAGE_DATA_LEN,VAR_0
+SFP_VENDOR_NAME_LEN,VAR_1
+SFP_VENDOR_NAME_OFFSET,VAR_2
+SFP_VENDOR_PN_OFFSET,VAR_3
+TR_PAGE_A0,VAR_4
+be_cmd_read_port_transceiver_data,FUNC_0
+strlcpy,FUNC_1
+be_cmd_query_sfp_info,FUNC_2
+adapter,VAR_5
+page_data,VAR_6
+status,VAR_7

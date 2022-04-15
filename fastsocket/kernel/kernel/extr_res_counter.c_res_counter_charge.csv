@@ -1,0 +1,14 @@
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+res_counter_charge_locked,FUNC_2
+res_counter_uncharge_locked,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+res_counter_charge,FUNC_6
+counter,VAR_0
+val,VAR_1
+limit_fail_at,VAR_2
+ret,VAR_3
+flags,VAR_4
+c,VAR_5
+u,VAR_6

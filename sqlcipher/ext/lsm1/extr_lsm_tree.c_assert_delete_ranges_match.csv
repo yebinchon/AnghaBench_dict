@@ -1,0 +1,17 @@
+LSM_END_DELETE,VAR_0
+LSM_OK,VAR_1
+LSM_START_DELETE,VAR_2
+assert,FUNC_0
+csrGetKey,FUNC_1
+lsmTreeCursorEnd,FUNC_2
+lsmTreeCursorNext,FUNC_3
+lsmTreeCursorValid,FUNC_4
+tblobFree,FUNC_5
+treeCursorInit,FUNC_6
+assert_delete_ranges_match,FUNC_7
+db,VAR_3
+prev,VAR_4
+blob,VAR_5
+csr,VAR_6
+rc,VAR_7
+pKey,VAR_8

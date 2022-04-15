@@ -1,0 +1,16 @@
+CCDC_BUFTYPE_FLD_INTERLEAVED,VAR_0
+CCDC_BUFTYPE_FLD_SEPARATED,VAR_1
+CCDC_FRMFMT_INTERLACED,VAR_2
+CCDC_FRMFMT_PROGRESSIVE,VAR_3
+EINVAL,VAR_4
+print_fourcc,FUNC_0
+vpfe_ccdc_set_buftype,FUNC_1
+vpfe_ccdc_set_frame_format,FUNC_2
+vpfe_ccdc_set_image_window,FUNC_3
+vpfe_ccdc_set_pixel_format,FUNC_4
+vpfe_dbg,FUNC_5
+vpfe_err,FUNC_6
+vpfe_config_ccdc_image_format,FUNC_7
+vpfe,VAR_5
+frm_fmt,VAR_6
+ret,VAR_7

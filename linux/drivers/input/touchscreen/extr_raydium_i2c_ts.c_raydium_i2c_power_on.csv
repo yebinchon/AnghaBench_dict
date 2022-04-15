@@ -1,0 +1,11 @@
+RM_POWERON_DELAY_USEC,VAR_0
+RM_RESET_DELAY_MSEC,VAR_1
+dev_err,FUNC_0
+gpiod_set_value_cansleep,FUNC_1
+msleep,FUNC_2
+regulator_disable,FUNC_3
+regulator_enable,FUNC_4
+udelay,FUNC_5
+raydium_i2c_power_on,FUNC_6
+ts,VAR_2
+error,VAR_3

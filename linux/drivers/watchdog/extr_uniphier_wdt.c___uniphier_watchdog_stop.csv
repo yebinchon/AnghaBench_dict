@@ -1,0 +1,5 @@
+WDTCTRL,VAR_0
+WDTCTRL_ENABLE,VAR_1
+regmap_write_bits,FUNC_0
+__uniphier_watchdog_stop,FUNC_1
+regmap,VAR_2

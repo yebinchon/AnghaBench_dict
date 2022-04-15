@@ -1,0 +1,14 @@
+B43_PIO_TXCTL,VAR_0
+B43_PIO_TXCTL_EOF,VAR_1
+B43_PIO_TXCTL_FREADY,VAR_2
+b43_piotx_read16,FUNC_0
+b43_piotx_write16,FUNC_1
+tx_write_2byte_queue,FUNC_2
+pio_tx_frame_2byte_queue,FUNC_3
+pack,VAR_3
+hdr,VAR_4
+hdrlen,VAR_5
+q,VAR_6
+frame,VAR_7
+frame_len,VAR_8
+ctl,VAR_9

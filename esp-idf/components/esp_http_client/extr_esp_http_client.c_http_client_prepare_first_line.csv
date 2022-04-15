@@ -1,0 +1,14 @@
+DEFAULT_HTTP_PROTOCOL,VAR_0
+ESP_LOGE,FUNC_0
+HTTP_METHOD_MAPPING,VAR_1
+HTTP_METHOD_POST,VAR_2
+TAG,VAR_3
+esp_http_client_set_header,FUNC_1
+esp_http_client_set_method,FUNC_2
+http_header_set_format,FUNC_3
+snprintf,FUNC_4
+http_client_prepare_first_line,FUNC_5
+client,VAR_4
+write_len,VAR_5
+method,VAR_6
+first_line_len,VAR_7

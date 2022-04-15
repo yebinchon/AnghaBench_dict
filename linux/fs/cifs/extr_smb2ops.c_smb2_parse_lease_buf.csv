@@ -1,0 +1,8 @@
+SMB2_LEASE_FLAG_BREAK_IN_PROGRESS,VAR_0
+SMB2_OPLOCK_LEVEL_NOCHANGE,VAR_1
+le32_to_cpu,FUNC_0
+smb2_parse_lease_buf,FUNC_1
+buf,VAR_2
+epoch,VAR_3
+lease_key,VAR_4
+lc,VAR_5

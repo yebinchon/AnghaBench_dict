@@ -1,0 +1,12 @@
+CA91CX42_VCSR_CTL_EN,VAR_0
+VCSR_CTL,VAR_1
+VCSR_TO,VAR_2
+VME_CRCSR_BUF_SIZE,VAR_3
+ioread32,FUNC_0
+iowrite32,FUNC_1
+pci_free_consistent,FUNC_2
+ca91cx42_crcsr_exit,FUNC_3
+ca91cx42_bridge,VAR_4
+pdev,VAR_5
+tmp,VAR_6
+bridge,VAR_7

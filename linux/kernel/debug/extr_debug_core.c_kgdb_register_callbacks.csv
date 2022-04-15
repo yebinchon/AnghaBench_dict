@@ -1,0 +1,15 @@
+dbg_is_early,VAR_0
+dbg_module_load_nb,VAR_1
+dbg_reboot_notifier,VAR_2
+kgdb_arch_init,FUNC_0
+kgdb_arch_late,FUNC_1
+kgdb_con_registered,VAR_3
+kgdb_io_module_registered,VAR_4
+kgdb_use_con,VAR_5
+kgdbcons,VAR_6
+register_console,FUNC_2
+register_module_notifier,FUNC_3
+register_reboot_notifier,FUNC_4
+register_sysrq_key,FUNC_5
+sysrq_dbg_op,VAR_7
+kgdb_register_callbacks,FUNC_6

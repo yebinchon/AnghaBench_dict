@@ -1,0 +1,17 @@
+OSD_PLAY_ICON,VAR_0
+VLC_EGENERIC,VAR_1
+VLC_ENOMEM,VAR_2
+VLC_SUCCESS,VAR_3
+VLC_VAR_BOOL,VAR_4
+assert,FUNC_0
+var_Create,FUNC_1
+var_SetBool,FUNC_2
+vlc_player_CancelWaitError,FUNC_3
+vlc_player_assert_locked,FUNC_4
+vlc_player_destructor_IsEmpty,FUNC_5
+vlc_player_input_New,FUNC_6
+vlc_player_input_Start,FUNC_7
+vlc_player_osd_Icon,FUNC_8
+vlc_player_Start,FUNC_9
+player,VAR_5
+ret,VAR_6

@@ -1,0 +1,12 @@
+DisplayVoutTitle,FUNC_0
+INPUT_CONTROL_SET_INITIAL_VIEWPOINT,VAR_0
+input_ControlPush,FUNC_1
+input_resource_PutVoutLocked,FUNC_2
+vlc_mutex_lock,FUNC_3
+vlc_mutex_unlock,FUNC_4
+vout_Request,FUNC_5
+input_resource_StartVout,FUNC_6
+p_resource,VAR_1
+vctx,VAR_2
+cfg,VAR_3
+param,VAR_4

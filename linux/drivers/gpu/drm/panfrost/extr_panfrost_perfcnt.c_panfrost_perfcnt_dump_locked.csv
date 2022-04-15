@@ -1,0 +1,17 @@
+ETIMEDOUT,VAR_0
+GPU_CMD,VAR_1
+GPU_CMD_PERFCNT_SAMPLE,VAR_2
+GPU_INT_CLEAR,VAR_3
+GPU_IRQ_CLEAN_CACHES_COMPLETED,VAR_4
+GPU_IRQ_PERFCNT_SAMPLE_COMPLETED,VAR_5
+GPU_PERFCNT_BASE_HI,VAR_6
+GPU_PERFCNT_BASE_LO,VAR_7
+PAGE_SHIFT,VAR_8
+gpu_write,FUNC_0
+msecs_to_jiffies,FUNC_1
+reinit_completion,FUNC_2
+wait_for_completion_interruptible_timeout,FUNC_3
+panfrost_perfcnt_dump_locked,FUNC_4
+pfdev,VAR_9
+gpuva,VAR_10
+ret,VAR_11

@@ -1,0 +1,16 @@
+IOMUX_TO_GPIO,FUNC_0
+IRQF_TRIGGER_FALLING,VAR_0
+MX31_PIN_ATA_DMACK,VAR_1
+MX31_PIN_ATA_RESET_B,VAR_2
+gpio_direction_input,FUNC_1
+gpio_free,FUNC_2
+gpio_request,FUNC_3
+gpio_to_irq,FUNC_4
+request_irq,FUNC_5
+armadillo5x0_sdhc1_init,FUNC_6
+dev,VAR_3
+detect_irq,VAR_4
+data,VAR_5
+ret,VAR_6
+gpio_det,VAR_7
+gpio_wp,VAR_8

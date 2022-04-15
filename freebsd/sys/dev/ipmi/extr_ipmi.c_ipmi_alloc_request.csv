@@ -1,0 +1,13 @@
+M_IPMI,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+ipmi_init_request,FUNC_0
+malloc,FUNC_1
+ipmi_alloc_request,FUNC_2
+dev,VAR_3
+msgid,VAR_4
+addr,VAR_5
+command,VAR_6
+requestlen,VAR_7
+replylen,VAR_8
+req,VAR_9

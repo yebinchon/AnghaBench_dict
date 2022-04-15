@@ -1,0 +1,16 @@
+Anum_pg_class_reloptions,VAR_0
+ERROR,VAR_1
+HeapTupleIsValid,FUNC_0
+ObjectIdGetDatum,FUNC_1
+RELOID,VAR_2
+ReleaseSysCache,FUNC_2
+SearchSysCache1,FUNC_3
+SysCacheGetAttr,FUNC_4
+elog,FUNC_5
+untransformRelOptions,FUNC_6
+get_reloptions,FUNC_7
+relid,VAR_3
+tuple,VAR_4
+datum,VAR_5
+isnull,VAR_6
+options,VAR_7

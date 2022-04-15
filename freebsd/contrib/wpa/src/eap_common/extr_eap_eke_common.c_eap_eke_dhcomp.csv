@@ -1,0 +1,17 @@
+AES_BLOCK_SIZE,VAR_0
+EAP_EKE_ENCR_AES128_CBC,VAR_1
+EAP_EKE_MAX_DH_LEN,VAR_2
+MSG_DEBUG,VAR_3
+aes_128_cbc_encrypt,FUNC_0
+eap_eke_dh_len,FUNC_1
+os_memcpy,FUNC_2
+random_get_bytes,FUNC_3
+wpa_hexdump,FUNC_4
+eap_eke_dhcomp,FUNC_5
+sess,VAR_4
+key,VAR_5
+dhpub,VAR_6
+ret_dhcomp,VAR_7
+pub,VAR_8
+dh_len,VAR_9
+iv,VAR_10

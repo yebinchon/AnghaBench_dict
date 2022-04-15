@@ -1,0 +1,7 @@
+BNX2X_FILTER_RX_MODE_PENDING,VAR_0
+clear_bit,FUNC_0
+smp_mb__after_clear_bit,FUNC_1
+smp_mb__before_clear_bit,FUNC_2
+bnx2x_vf_handle_filters_eqe,FUNC_3
+bp,VAR_1
+vf,VAR_2

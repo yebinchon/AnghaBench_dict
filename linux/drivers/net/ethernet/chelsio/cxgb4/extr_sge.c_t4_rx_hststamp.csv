@@ -1,0 +1,13 @@
+CPL_RX_MPS_PKT,VAR_0
+RX_NON_PTP_PKT,VAR_1
+RX_PTP_PKT_ERR,VAR_2
+is_t4,FUNC_0
+kfree_skb,FUNC_1
+t4_systim_to_hwstamp,FUNC_2
+unlikely,FUNC_3
+t4_rx_hststamp,FUNC_4
+adapter,VAR_3
+rsp,VAR_4
+rxq,VAR_5
+skb,VAR_6
+ret,VAR_7

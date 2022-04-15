@@ -1,0 +1,12 @@
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+TWL4030_OPTION_1,VAR_1
+TWL4030_REG_CODEC_MODE,VAR_2
+snd_pcm_hw_constraint_single,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+twl4030_constraints,FUNC_2
+twl4030_read,FUNC_3
+twl4030_startup,FUNC_4
+substream,VAR_3
+dai,VAR_4
+component,VAR_5
+twl4030,VAR_6

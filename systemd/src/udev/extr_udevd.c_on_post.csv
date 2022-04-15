@@ -1,0 +1,17 @@
+CGROUP_IGNORE_SELF,VAR_0
+CLOCK_MONOTONIC,VAR_1
+LIST_IS_EMPTY,FUNC_0
+SIGKILL,VAR_2
+SYSTEMD_CGROUP_CONTROLLER,VAR_3
+USEC_PER_SEC,VAR_4
+assert,FUNC_1
+cg_kill,FUNC_2
+event_reset_time,FUNC_3
+hashmap_isempty,FUNC_4
+now,FUNC_5
+on_kill_workers_event,VAR_5
+sd_event_exit,FUNC_6
+on_post,FUNC_7
+s,VAR_6
+userdata,VAR_7
+manager,VAR_8

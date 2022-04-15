@@ -1,0 +1,12 @@
+BRDDISABLE,FUNC_0
+BRDENABLE,FUNC_1
+CAR,VAR_0
+SRER,VAR_1
+brd_lock,VAR_2
+pr_debug,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stl_cd1400setreg,FUNC_5
+stl_cd1400disableintrs,FUNC_6
+portp,VAR_3
+flags,VAR_4

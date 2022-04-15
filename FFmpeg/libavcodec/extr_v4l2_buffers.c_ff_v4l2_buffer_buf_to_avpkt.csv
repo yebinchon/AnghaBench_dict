@@ -1,0 +1,15 @@
+AV_LOG_ERROR,VAR_0
+AV_PKT_FLAG_CORRUPT,VAR_1
+AV_PKT_FLAG_KEY,VAR_2
+V4L2_BUF_FLAG_ERROR,VAR_3
+V4L2_BUF_FLAG_KEYFRAME,VAR_4
+V4L2_TYPE_IS_MULTIPLANAR,FUNC_0
+av_log,FUNC_1
+av_packet_unref,FUNC_2
+logger,FUNC_3
+v4l2_buf_to_bufref,FUNC_4
+v4l2_get_pts,FUNC_5
+ff_v4l2_buffer_buf_to_avpkt,FUNC_6
+pkt,VAR_5
+avbuf,VAR_6
+ret,VAR_7

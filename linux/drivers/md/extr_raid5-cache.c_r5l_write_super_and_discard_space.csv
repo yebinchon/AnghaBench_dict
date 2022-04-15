@@ -1,0 +1,17 @@
+BIT,FUNC_0
+GFP_NOIO,VAR_0
+MD_SB_CHANGE_DEVS,VAR_1
+MD_SB_CHANGE_PENDING,VAR_2
+bdev_get_queue,FUNC_1
+blk_queue_discard,FUNC_2
+blkdev_issue_discard,FUNC_3
+md_update_sb,FUNC_4
+mddev_trylock,FUNC_5
+mddev_unlock,FUNC_6
+r5l_write_super,FUNC_7
+set_mask_bits,FUNC_8
+r5l_write_super_and_discard_space,FUNC_9
+log,VAR_3
+end,VAR_4
+bdev,VAR_5
+mddev,VAR_6

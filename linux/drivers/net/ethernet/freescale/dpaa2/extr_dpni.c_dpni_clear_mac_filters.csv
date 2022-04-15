@@ -1,0 +1,14 @@
+DPNI_CMDID_CLR_MAC_FILTERS,VAR_0
+MULTICAST_FILTERS,VAR_1
+UNICAST_FILTERS,VAR_2
+dpni_set_field,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpni_clear_mac_filters,FUNC_3
+mc_io,VAR_3
+cmd_flags,VAR_4
+token,VAR_5
+unicast,VAR_6
+multicast,VAR_7
+cmd,VAR_8
+cmd_params,VAR_9

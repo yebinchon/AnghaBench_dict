@@ -1,0 +1,11 @@
+ETH_HLEN,VAR_0
+ETH_P_IPV6,VAR_1
+NEXTHDR_TCP,VAR_2
+NEXTHDR_UDP,VAR_3
+htons,FUNC_0
+be_ipv6_exthdr_check,FUNC_1
+skb,VAR_4
+eh,VAR_5
+offset,VAR_6
+ip6h,VAR_7
+ehdr,VAR_8

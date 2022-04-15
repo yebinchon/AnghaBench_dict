@@ -1,0 +1,16 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+IFCOUNTER_OERRORS,VAR_2
+VGE_LOCK_ASSERT,FUNC_0
+VGE_RX_DESC_CNT,VAR_3
+VGE_TX_DESC_CNT,VAR_4
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+if_inc_counter,FUNC_3
+m_freem,FUNC_4
+vge_freebufs,FUNC_5
+sc,VAR_5
+txd,VAR_6
+rxd,VAR_7
+ifp,VAR_8
+i,VAR_9

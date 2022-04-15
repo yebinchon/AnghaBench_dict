@@ -1,0 +1,10 @@
+PCI_DEV_FLAGS_NO_RELAXED_ORDERING,VAR_0
+PCI_EXP_DEVCTL,VAR_1
+PCI_EXP_DEVCTL_RELAX_EN,VAR_2
+pci_find_pcie_root_port,FUNC_0
+pci_info,FUNC_1
+pcie_capability_clear_word,FUNC_2
+pcie_relaxed_ordering_enabled,FUNC_3
+pci_configure_relaxed_ordering,FUNC_4
+dev,VAR_3
+root,VAR_4

@@ -1,0 +1,15 @@
+CTX_HWBITS,FUNC_0
+SECONDARY_CONTEXT,VAR_0
+__flush_tlb_mm,FUNC_1
+atomic_read,FUNC_2
+cpumask_copy,FUNC_3
+cpumask_of,FUNC_4
+get_cpu,FUNC_5
+mm_cpumask,FUNC_6
+put_cpu,FUNC_7
+smp_cross_call_masked,FUNC_8
+xcall_flush_tlb_mm,VAR_1
+smp_flush_tlb_mm,FUNC_9
+mm,VAR_2
+ctx,VAR_3
+cpu,VAR_4

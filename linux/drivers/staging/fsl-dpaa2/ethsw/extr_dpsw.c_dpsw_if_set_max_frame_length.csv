@@ -1,0 +1,12 @@
+DPSW_CMDID_IF_SET_MAX_FRAME_LENGTH,VAR_0
+cpu_to_le16,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpsw_if_set_max_frame_length,FUNC_3
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+if_id,VAR_4
+frame_length,VAR_5
+cmd,VAR_6
+cmd_params,VAR_7

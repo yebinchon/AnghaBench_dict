@@ -1,0 +1,16 @@
+CCMP_HDR_LEN,VAR_0
+CCMP_PN_LEN,VAR_1
+CCMP_TK_LEN,VAR_2
+memcpy,FUNC_0
+memmove,FUNC_1
+skb_headroom,FUNC_2
+skb_push,FUNC_3
+lib80211_ccmp_hdr,FUNC_4
+skb,VAR_3
+hdr_len,VAR_4
+aeskey,VAR_5
+keylen,VAR_6
+priv,VAR_7
+key,VAR_8
+i,VAR_9
+pos,VAR_10

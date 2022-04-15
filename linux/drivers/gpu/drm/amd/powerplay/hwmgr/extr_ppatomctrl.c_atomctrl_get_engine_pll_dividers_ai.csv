@@ -1,0 +1,14 @@
+COMMAND,VAR_0
+COMPUTE_GPUCLK_INPUT_FLAG_SCLK,VAR_1
+ComputeMemoryEnginePLL,VAR_2
+GetIndexIntoMasterTable,FUNC_0
+amdgpu_atom_execute_table,FUNC_1
+cpu_to_le32,FUNC_2
+le16_to_cpu,FUNC_3
+atomctrl_get_engine_pll_dividers_ai,FUNC_4
+hwmgr,VAR_3
+clock_value,VAR_4
+dividers,VAR_5
+adev,VAR_6
+pll_patameters,VAR_7
+result,VAR_8

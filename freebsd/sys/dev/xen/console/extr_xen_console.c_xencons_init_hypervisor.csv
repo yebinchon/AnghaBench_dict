@@ -1,0 +1,12 @@
+INTR_MPSAFE,VAR_0
+INTR_TYPE_TTY,VAR_1
+VIRQ_CONSOLE,VAR_2
+device_printf,FUNC_0
+tty_softc,FUNC_1
+xen_intr_bind_virq,FUNC_2
+xencons_init_hypervisor,FUNC_3
+dev,VAR_3
+tp,VAR_4
+intr_handler,VAR_5
+cons,VAR_6
+err,VAR_7

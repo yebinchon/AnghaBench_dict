@@ -1,0 +1,13 @@
+SCIR_CPU_ACTIVITY,VAR_0
+SCIR_CPU_HB_INTERVAL,VAR_1
+SCIR_CPU_HEARTBEAT,VAR_2
+TIMER_PINNED,VAR_3
+add_timer_on,FUNC_0
+jiffies,VAR_4
+timer_setup,FUNC_1
+uv_cpu_scir_info,FUNC_2
+uv_heartbeat,VAR_5
+uv_set_cpu_scir_bits,FUNC_3
+uv_heartbeat_enable,FUNC_4
+cpu,VAR_6
+timer,VAR_7

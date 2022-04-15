@@ -1,0 +1,14 @@
+ACTION_COPY_RAW,VAR_0
+ACTION_LOAD_APP,VAR_1
+SWRST,VAR_2
+copy_raw,FUNC_0
+eboot_command_clear,FUNC_1
+eboot_command_read,FUNC_2
+ets_putc,FUNC_3
+ets_wdt_disable,FUNC_4
+ets_wdt_enable,FUNC_5
+load_app_from_flash_raw,FUNC_6
+print_version,FUNC_7
+main,FUNC_8
+res,VAR_3
+cmd,VAR_4

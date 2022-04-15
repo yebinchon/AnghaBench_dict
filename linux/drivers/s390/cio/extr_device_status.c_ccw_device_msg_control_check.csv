@@ -1,0 +1,16 @@
+CIO_HEX_EVENT,FUNC_0
+CIO_MSG_EVENT,FUNC_1
+CIO_TRACE_EVENT,FUNC_2
+SCHN_STAT_CHN_CTRL_CHK,VAR_0
+SCHN_STAT_CHN_DATA_CHK,VAR_1
+SCHN_STAT_INTF_CTRL_CHK,VAR_2
+scsw_cstat,FUNC_3
+scsw_dstat,FUNC_4
+scsw_is_valid_cstat,FUNC_5
+sprintf,FUNC_6
+to_subchannel,FUNC_7
+ccw_device_msg_control_check,FUNC_8
+cdev,VAR_3
+irb,VAR_4
+sch,VAR_5
+dbf_text,VAR_6

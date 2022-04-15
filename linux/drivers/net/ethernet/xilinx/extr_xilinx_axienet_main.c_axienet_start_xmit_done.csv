@@ -1,0 +1,16 @@
+DMA_TO_DEVICE,VAR_0
+XAXIDMA_BD_CTRL_LENGTH_MASK,VAR_1
+XAXIDMA_BD_STS_ACTUAL_LEN_MASK,VAR_2
+XAXIDMA_BD_STS_COMPLETE_MASK,VAR_3
+dev_consume_skb_irq,FUNC_0
+dma_unmap_single,FUNC_1
+netdev_priv,FUNC_2
+netif_wake_queue,FUNC_3
+smp_mb,FUNC_4
+axienet_start_xmit_done,FUNC_5
+ndev,VAR_4
+size,VAR_5
+packets,VAR_6
+lp,VAR_7
+cur_p,VAR_8
+status,VAR_9

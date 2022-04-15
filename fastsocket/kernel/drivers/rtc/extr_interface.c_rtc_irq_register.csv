@@ -1,0 +1,11 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+RTC_DEV_BUSY,VAR_2
+clear_bit_unlock,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+test_and_set_bit_lock,FUNC_3
+rtc_irq_register,FUNC_4
+rtc,VAR_3
+task,VAR_4
+retval,VAR_5

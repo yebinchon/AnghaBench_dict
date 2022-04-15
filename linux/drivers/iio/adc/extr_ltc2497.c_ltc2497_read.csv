@@ -1,0 +1,16 @@
+ERESTARTSYS,VAR_0
+LTC2497_CONVERSION_TIME_MS,VAR_1
+LTC2497_ENABLE,VAR_2
+be32_to_cpu,FUNC_0
+dev_err,FUNC_1
+i2c_master_recv,FUNC_2
+i2c_smbus_write_byte,FUNC_3
+ktime_get,FUNC_4
+ltc2497_wait_conv,FUNC_5
+msleep_interruptible,FUNC_6
+ltc2497_read,FUNC_7
+st,VAR_3
+address,VAR_4
+val,VAR_5
+client,VAR_6
+ret,VAR_7

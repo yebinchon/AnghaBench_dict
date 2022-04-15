@@ -1,0 +1,17 @@
+D_WEB_CLIENT,VAR_0
+IPPROTO_TCP,VAR_1
+SOL_SOCKET,VAR_2
+SO_KEEPALIVE,VAR_3
+TCP_NODELAY,VAR_4
+debug,FUNC_0
+freez,FUNC_1
+setsockopt,FUNC_2
+unlikely,FUNC_3
+web_client_cache_verify,FUNC_4
+web_client_check_tcp,FUNC_5
+web_client_enable_wait_receive,FUNC_6
+web_client_update_acl_matches,FUNC_7
+web_server_log_connection,FUNC_8
+web_client_initialize_connection,FUNC_9
+w,VAR_5
+flag,VAR_6

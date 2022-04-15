@@ -1,0 +1,17 @@
+amdgpu_amdkfd_remove_eviction_fence,FUNC_0
+amdgpu_bo_reserve,FUNC_1
+amdgpu_bo_unref,FUNC_2
+amdgpu_bo_unreserve,FUNC_3
+amdgpu_sync_free,FUNC_4
+kfree,FUNC_5
+mutex_destroy,FUNC_6
+pr_err,FUNC_7
+remove_kgd_mem_from_kfd_bo_list,FUNC_8
+unlikely,FUNC_9
+amdgpu_amdkfd_remove_gws_from_process,FUNC_10
+info,VAR_0
+mem,VAR_1
+ret,VAR_2
+process_info,VAR_3
+kgd_mem,VAR_4
+gws_bo,VAR_5

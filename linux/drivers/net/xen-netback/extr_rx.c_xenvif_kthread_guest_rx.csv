@@ -1,0 +1,17 @@
+cond_resched,FUNC_0
+kthread_should_stop,FUNC_1
+skb_queue_empty,FUNC_2
+unlikely,FUNC_3
+xenvif_carrier_off,FUNC_4
+xenvif_queue_carrier_off,FUNC_5
+xenvif_queue_carrier_on,FUNC_6
+xenvif_rx_action,FUNC_7
+xenvif_rx_queue_drop_expired,FUNC_8
+xenvif_rx_queue_purge,FUNC_9
+xenvif_rx_queue_ready,FUNC_10
+xenvif_rx_queue_stalled,FUNC_11
+xenvif_wait_for_rx_work,FUNC_12
+xenvif_kthread_guest_rx,FUNC_13
+data,VAR_0
+queue,VAR_1
+vif,VAR_2

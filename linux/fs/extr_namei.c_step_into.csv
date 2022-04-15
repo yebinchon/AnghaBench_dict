@@ -1,0 +1,17 @@
+ECHILD,VAR_0
+LOOKUP_FOLLOW,VAR_1
+LOOKUP_RCU,VAR_2
+WALK_FOLLOW,VAR_3
+WALK_MORE,VAR_4
+d_is_symlink,FUNC_0
+likely,FUNC_1
+path_to_nameidata,FUNC_2
+pick_link,FUNC_3
+put_link,FUNC_4
+read_seqcount_retry,FUNC_5
+step_into,FUNC_6
+nd,VAR_5
+path,VAR_6
+flags,VAR_7
+inode,VAR_8
+seq,VAR_9

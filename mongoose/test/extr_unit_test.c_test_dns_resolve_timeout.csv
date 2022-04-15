@@ -1,0 +1,13 @@
+ASSERT_EQ,FUNC_0
+MG_DNS_A_RECORD,VAR_0
+c_int_eq,VAR_1
+dns_resolve_timeout_cb,VAR_2
+memset,FUNC_1
+mg_mgr_free,FUNC_2
+mg_mgr_init,FUNC_3
+mg_resolve_async_opt,FUNC_4
+poll_until,FUNC_5
+test_dns_resolve_timeout,FUNC_6
+mgr,VAR_3
+opts,VAR_4
+data,VAR_5

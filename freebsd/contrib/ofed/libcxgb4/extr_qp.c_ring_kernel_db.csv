@@ -1,0 +1,13 @@
+IBV_QP_RQ_PSN,VAR_0
+IBV_QP_SQ_PSN,VAR_1
+assert,FUNC_0
+ibv_cmd_modify_qp,FUNC_1
+udma_to_device_barrier,FUNC_2
+ring_kernel_db,FUNC_3
+qhp,VAR_2
+qid,VAR_3
+idx,VAR_4
+cmd,VAR_5
+attr,VAR_6
+mask,VAR_7
+ret,VAR_8

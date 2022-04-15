@@ -1,0 +1,14 @@
+DMA1_SMSK,VAR_0
+DMA2_SMSK,VAR_1
+dma_auto_mode,VAR_2
+dma_busy,VAR_3
+dma_inuse,VAR_4
+isa_dma_lock,VAR_5
+isa_dmastatus_locked,FUNC_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+outb,FUNC_3
+printf,FUNC_4
+isa_dmastop,FUNC_5
+chan,VAR_6
+status,VAR_7

@@ -1,0 +1,15 @@
+NOTIFY_DONE,VAR_0
+RAC_ENABLED,VAR_1
+RAC_SUSPENDED,VAR_2
+SYS_RESTART,VAR_3
+b15_rac_disable_and_flush,FUNC_0
+b15_rac_flags,VAR_4
+clear_bit,FUNC_1
+rac_lock,VAR_5
+set_bit,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+b15_rac_reboot_notifier,FUNC_5
+nb,VAR_6
+action,VAR_7
+data,VAR_8

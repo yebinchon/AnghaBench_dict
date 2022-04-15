@@ -1,0 +1,13 @@
+SPI4000_DO_WRITE,VAR_0
+SPI4000_GET_WRITE_STATUS,VAR_1
+SPI4000_TWSI_ID,FUNC_0
+SPI4000_WRITE_ADDRESS_HIGH,VAR_2
+SPI4000_WRITE_DATA0,VAR_3
+cvmx_dprintf,FUNC_1
+cvmx_twsi_read8,FUNC_2
+cvmx_twsix_write_ia,FUNC_3
+__cvmx_spi4000_write,FUNC_4
+interface,VAR_4
+address,VAR_5
+data,VAR_6
+status,VAR_7

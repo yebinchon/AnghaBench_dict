@@ -1,0 +1,14 @@
+NIC_GET_BGX_FROM_VF_LMAC_MAP,FUNC_0
+NIC_GET_LMAC_FROM_VF_LMAC_MAP,FUNC_1
+NIC_MBOX_MSG_READY,VAR_0
+NIC_TNS_BYPASS_MODE,VAR_1
+bgx_get_lmac_mac,FUNC_2
+ether_addr_copy,FUNC_3
+nic_send_msg_to_vf,FUNC_4
+nic_mbx_send_ready,FUNC_5
+nic,VAR_2
+vf,VAR_3
+mbx,VAR_4
+bgx_idx,VAR_5
+lmac,VAR_6
+mac,VAR_7

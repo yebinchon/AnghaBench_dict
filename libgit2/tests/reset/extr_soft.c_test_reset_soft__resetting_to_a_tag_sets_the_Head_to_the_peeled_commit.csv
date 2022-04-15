@@ -1,0 +1,13 @@
+GIT_RESET_SOFT,VAR_0
+KNOWN_COMMIT_IN_BARE_REPO,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_oid_streq,FUNC_2
+git_reference_name_to_id,FUNC_3
+git_repository_head_detached,FUNC_4
+git_reset,FUNC_5
+git_revparse_single,FUNC_6
+repo,VAR_2
+target,VAR_3
+test_reset_soft__resetting_to_a_tag_sets_the_Head_to_the_peeled_commit,FUNC_7
+oid,VAR_4

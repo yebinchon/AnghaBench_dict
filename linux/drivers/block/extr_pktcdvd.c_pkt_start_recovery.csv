@@ -1,0 +1,14 @@
+CD_FRAMESIZE,VAR_0
+REQ_OP_WRITE,VAR_1
+bdget,FUNC_0
+bdput,FUNC_1
+bio_reset,FUNC_2
+bio_set_dev,FUNC_3
+bio_set_op_attrs,FUNC_4
+drop_super,FUNC_5
+get_super,FUNC_6
+kdev_t_to_nr,FUNC_7
+pkt_end_io_packet_write,VAR_2
+stub1,FUNC_8
+pkt_start_recovery,FUNC_9
+pkt,VAR_3

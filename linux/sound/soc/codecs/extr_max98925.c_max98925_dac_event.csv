@@ -1,0 +1,13 @@
+M98925_ADC_IMON_EN_MASK,VAR_0
+M98925_ADC_VMON_EN_MASK,VAR_1
+M98925_BST_EN_MASK,VAR_2
+MAX98925_BLOCK_ENABLE,VAR_3
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+snd_soc_kcontrol_component,FUNC_2
+max98925_dac_event,FUNC_3
+w,VAR_4
+kcontrol,VAR_5
+event,VAR_6
+component,VAR_7
+max98925,VAR_8

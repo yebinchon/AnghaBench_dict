@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+V4L2_INPUT_TYPE_CAMERA,VAR_1
+V4L2_IN_CAP_DV_TIMINGS,VAR_2
+g_input_status,VAR_3
+snprintf,FUNC_0
+v4l2_subdev_call,FUNC_1
+video,VAR_4
+video_drvdata,FUNC_2
+cobalt_enum_input,FUNC_3
+file,VAR_5
+priv_fh,VAR_6
+inp,VAR_7
+s,VAR_8

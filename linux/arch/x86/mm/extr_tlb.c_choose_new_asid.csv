@@ -1,0 +1,14 @@
+TLB_NR_DYN_ASIDS,VAR_0
+X86_FEATURE_PCID,VAR_1
+clear_asid_other,FUNC_0
+cpu_tlbstate,VAR_2
+static_cpu_has,FUNC_1
+this_cpu_add_return,FUNC_2
+this_cpu_read,FUNC_3
+this_cpu_write,FUNC_4
+choose_new_asid,FUNC_5
+next,VAR_3
+next_tlb_gen,VAR_4
+new_asid,VAR_5
+need_flush,VAR_6
+asid,VAR_7

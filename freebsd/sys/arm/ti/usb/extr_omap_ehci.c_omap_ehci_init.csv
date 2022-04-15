@@ -1,0 +1,14 @@
+EHCI_HCD_OMAP_MODE_PHY,VAR_0
+OMAP_HS_USB_PORTS,VAR_1
+OMAP_USBHOST_USBCMD,VAR_2
+device_get_parent,FUNC_0
+device_printf,FUNC_1
+omap_ehci_read_4,FUNC_2
+omap_ehci_soft_phy_reset,FUNC_3
+omap_ehci_write_4,FUNC_4
+omap_usb_port_mode,FUNC_5
+omap_ehci_init,FUNC_6
+isc,VAR_3
+reg,VAR_4
+i,VAR_5
+uhh_dev,VAR_6

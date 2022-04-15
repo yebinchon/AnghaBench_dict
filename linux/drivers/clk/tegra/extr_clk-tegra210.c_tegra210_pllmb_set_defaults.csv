@@ -1,0 +1,16 @@
+PLLMB_MISC1_DEFAULT_VALUE,VAR_0
+PLLMB_MISC1_IDDQ,VAR_1
+PLLMB_MISC1_LOCK_ENABLE,VAR_2
+PLLMB_MISC1_LOCK_OVERRIDE,VAR_3
+PLLMB_MISC1_WRITE_MASK,VAR_4
+PLL_ENABLE,VAR_5
+_pll_misc_chk_default,FUNC_0
+clk_base,VAR_6
+pr_warn,FUNC_1
+readl_relaxed,FUNC_2
+udelay,FUNC_3
+writel_relaxed,FUNC_4
+tegra210_pllmb_set_defaults,FUNC_5
+pllmb,VAR_7
+mask,VAR_8
+val,VAR_9

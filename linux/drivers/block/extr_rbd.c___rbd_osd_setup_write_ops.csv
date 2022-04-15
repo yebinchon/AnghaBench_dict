@@ -1,0 +1,14 @@
+CEPH_OSD_OP_WRITE,VAR_0
+CEPH_OSD_OP_WRITEFULL,VAR_1
+RBD_OBJ_FLAG_MAY_EXIST,VAR_2
+osd_req_op_alloc_hint_init,FUNC_0
+osd_req_op_extent_init,FUNC_1
+rbd_obj_is_entire,FUNC_2
+rbd_osd_setup_data,FUNC_3
+use_object_map,FUNC_4
+__rbd_osd_setup_write_ops,FUNC_5
+osd_req,VAR_3
+which,VAR_4
+obj_req,VAR_5
+rbd_dev,VAR_6
+opcode,VAR_7

@@ -1,0 +1,17 @@
+ATA_DFLAG_NCQ_PRIO_ENABLE,VAR_0
+ENODEV,VAR_1
+ata_scsi_find_dev,FUNC_0
+ata_shost_to_port,FUNC_1
+snprintf,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+to_scsi_device,FUNC_5
+ata_ncq_prio_enable_show,FUNC_6
+device,VAR_2
+attr,VAR_3
+buf,VAR_4
+sdev,VAR_5
+ap,VAR_6
+dev,VAR_7
+ncq_prio_enable,VAR_8
+rc,VAR_9

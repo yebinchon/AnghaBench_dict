@@ -1,0 +1,11 @@
+NVME_CTRL_ONCS_TIMESTAMP,VAR_0
+NVME_FEAT_TIMESTAMP,VAR_1
+cpu_to_le64,FUNC_0
+dev_warn_once,FUNC_1
+ktime_get_real,FUNC_2
+ktime_to_ms,FUNC_3
+nvme_set_features,FUNC_4
+nvme_configure_timestamp,FUNC_5
+ctrl,VAR_2
+ts,VAR_3
+ret,VAR_4

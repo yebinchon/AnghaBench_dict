@@ -1,0 +1,16 @@
+TGT_KEVENT_CMD_REQ,VAR_0
+dprintk,FUNC_0
+eprintk,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+scsi_bufflen,FUNC_4
+scsi_tgt_cmd_to_host,FUNC_5
+tgt_uspace_send_event,FUNC_6
+scsi_tgt_uspace_send_cmd,FUNC_7
+cmd,VAR_1
+itn_id,VAR_2
+lun,VAR_3
+tag,VAR_4
+shost,VAR_5
+ev,VAR_6
+err,VAR_7

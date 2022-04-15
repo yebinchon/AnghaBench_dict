@@ -1,0 +1,14 @@
+IBMASM_EVENT_MAX_SIZE,VAR_0
+IBMASM_NUM_EVENTS,VAR_1
+memcpy_fromio,FUNC_0
+min,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wake_up_event_readers,FUNC_4
+ibmasm_receive_event,FUNC_5
+sp,VAR_2
+data,VAR_3
+data_size,VAR_4
+buffer,VAR_5
+event,VAR_6
+flags,VAR_7

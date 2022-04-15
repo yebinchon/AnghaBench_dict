@@ -1,0 +1,10 @@
+PCI_CLASS_REVISION,VAR_0
+PCI_HEADER_TYPE,VAR_1
+PCI_SUBSYSTEM_ID,VAR_2
+PCI_SUBSYSTEM_VENDOR_ID,VAR_3
+pci_read_config_byte,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+pci_read_vf_config_common,FUNC_3
+virtfn,VAR_4
+physfn,VAR_5

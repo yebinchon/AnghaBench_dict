@@ -1,0 +1,12 @@
+AdpcmImaWavExpandNibble,FUNC_0
+CLAMP,FUNC_1
+GetByte,FUNC_2
+GetWord,FUNC_3
+DecodeAdpcmDk4,FUNC_4
+p_dec,VAR_0
+p_sample,VAR_1
+p_buffer,VAR_2
+p_sys,VAR_3
+channel,VAR_4
+i_nibbles,VAR_5
+b_stereo,VAR_6

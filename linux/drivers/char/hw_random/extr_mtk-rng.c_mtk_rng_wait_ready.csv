@@ -1,0 +1,12 @@
+RNG_CTRL,VAR_0
+RNG_READY,VAR_1
+TIMEOUT_POLL,VAR_2
+USEC_POLL,VAR_3
+readl,FUNC_0
+readl_poll_timeout_atomic,FUNC_1
+to_mtk_rng,FUNC_2
+mtk_rng_wait_ready,FUNC_3
+rng,VAR_4
+wait,VAR_5
+priv,VAR_6
+ready,VAR_7

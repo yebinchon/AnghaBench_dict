@@ -1,0 +1,9 @@
+IRQ_BASE_MB93493,VAR_0
+IRQ_ROUTING,VAR_1
+__addr_MB93493_IQSR,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+frv_mb93493_mask,FUNC_3
+irq,VAR_2
+iqsr,VAR_3
+piqsr,VAR_4

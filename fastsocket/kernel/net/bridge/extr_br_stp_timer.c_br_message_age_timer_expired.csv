@@ -1,0 +1,15 @@
+BR_STATE_DISABLED,VAR_0
+br_become_designated_port,FUNC_0
+br_become_root_bridge,FUNC_1
+br_configuration_update,FUNC_2
+br_is_root_bridge,FUNC_3
+br_port_state_selection,FUNC_4
+pr_info,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+br_message_age_timer_expired,FUNC_8
+arg,VAR_1
+p,VAR_2
+br,VAR_3
+id,VAR_4
+was_root,VAR_5

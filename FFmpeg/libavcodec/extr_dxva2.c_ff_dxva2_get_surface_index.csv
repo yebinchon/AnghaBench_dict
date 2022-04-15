@@ -1,0 +1,13 @@
+AV_PIX_FMT_D3D11,VAR_0
+AV_PIX_FMT_D3D11VA_VLD,VAR_1
+AV_PIX_FMT_DXVA2_VLD,VAR_2
+DXVA_CONTEXT_COUNT,FUNC_0
+ID3D11VideoDecoderOutputView_GetDesc,FUNC_1
+assert,FUNC_2
+get_surface,FUNC_3
+ff_dxva2_get_surface_index,FUNC_4
+avctx,VAR_3
+ctx,VAR_4
+frame,VAR_5
+surface,VAR_6
+i,VAR_7

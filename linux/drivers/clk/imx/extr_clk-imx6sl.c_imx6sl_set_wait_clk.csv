@@ -1,0 +1,14 @@
+ARM_WAIT_DIV_396M,VAR_0
+BM_CDHIPR_ARM_PODF_BUSY,VAR_1
+CACRR,VAR_2
+CDHIPR,VAR_3
+__raw_readl,FUNC_0
+ccm_base,VAR_4
+imx6sl_enable_pll_arm,FUNC_1
+imx6sl_get_arm_divider_for_wait,FUNC_2
+readl_relaxed,FUNC_3
+writel_relaxed,FUNC_4
+imx6sl_set_wait_clk,FUNC_5
+enter,VAR_5
+saved_arm_div,VAR_6
+arm_div_for_wait,VAR_7

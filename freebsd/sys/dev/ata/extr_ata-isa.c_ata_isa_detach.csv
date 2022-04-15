@@ -1,0 +1,12 @@
+ATA_CONTROL,VAR_0
+ATA_CTLADDR_RID,VAR_1
+ATA_IDX_ADDR,VAR_2
+ATA_IOADDR_RID,VAR_3
+SYS_RES_IOPORT,VAR_4
+ata_detach,FUNC_0
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+ata_isa_detach,FUNC_3
+dev,VAR_5
+ch,VAR_6
+error,VAR_7

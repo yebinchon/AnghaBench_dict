@@ -1,0 +1,11 @@
+SEP_DRIVER_FLOW_DMA_TABLES_AREA_OFFSET_IN_BYTES,VAR_0
+SEP_DRIVER_FLOW_DMA_TABLES_AREA_SIZE_IN_BYTES,VAR_1
+SEP_DRIVER_MAX_FLOW_NUM_ENTRIES_IN_TABLE,VAR_2
+sep_find_free_flow_dma_table_space,FUNC_0
+sep,VAR_3
+table_address_ptr,VAR_4
+error,VAR_5
+start_table_ptr,VAR_6
+flow_dma_area_start_addr,VAR_7
+flow_dma_area_end_addr,VAR_8
+table_size_in_words,VAR_9

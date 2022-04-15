@@ -1,0 +1,13 @@
+EMSGSIZE,VAR_0
+NET_DM_ATTR_PAD,VAR_1
+NET_DM_ATTR_STATS,VAR_2
+NET_DM_ATTR_STATS_DROPPED,VAR_3
+net_dm_stats_read,FUNC_0
+nla_nest_cancel,FUNC_1
+nla_nest_end,FUNC_2
+nla_nest_start,FUNC_3
+nla_put_u64_64bit,FUNC_4
+net_dm_stats_put,FUNC_5
+msg,VAR_4
+stats,VAR_5
+attr,VAR_6

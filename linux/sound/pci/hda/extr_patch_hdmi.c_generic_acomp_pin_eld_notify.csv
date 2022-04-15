@@ -1,0 +1,15 @@
+AC_WID_PIN,VAR_0
+SNDRV_CTL_POWER_D0,VAR_1
+check_presence_and_report,FUNC_0
+get_wcaps,FUNC_1
+get_wcaps_type,FUNC_2
+snd_hdac_is_in_pm,FUNC_3
+snd_power_get_state,FUNC_4
+stub1,FUNC_5
+generic_acomp_pin_eld_notify,FUNC_6
+audio_ptr,VAR_2
+port,VAR_3
+dev_id,VAR_4
+codec,VAR_5
+spec,VAR_6
+pin_nid,VAR_7

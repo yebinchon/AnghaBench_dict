@@ -1,0 +1,17 @@
+BREAKPOINT_INSTRUCTION,VAR_0
+MAX_INSN_SIZE,VAR_1
+insn_get_length,FUNC_0
+insn_masking_exception,FUNC_1
+insn_offset_displacement,FUNC_2
+insn_rip_relative,FUNC_3
+kernel_insn_init,FUNC_4
+pr_err,FUNC_5
+probe_kernel_read,FUNC_6
+recover_probed_instruction,FUNC_7
+__copy_instruction,FUNC_8
+dest,VAR_2
+src,VAR_3
+real,VAR_4
+insn,VAR_5
+buf,VAR_6
+recovered_insn,VAR_7

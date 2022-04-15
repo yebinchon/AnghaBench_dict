@@ -1,0 +1,14 @@
+BUS_SPACE_RD4_ITL,FUNC_0
+BUS_SPACE_WRT4_ITL,FUNC_1
+IOPMU_OUTBOUND_INT_MSG0,VAR_0
+IOPMU_OUTBOUND_INT_POSTQUEUE,VAR_1
+KdPrint,FUNC_2
+hptiop_drain_outbound_queue_itl,FUNC_3
+hptiop_os_message_callback,FUNC_4
+outbound_intstatus,VAR_2
+outbound_msgaddr0,VAR_3
+hptiop_intr_itl,FUNC_5
+hba,VAR_4
+status,VAR_5
+ret,VAR_6
+msg,VAR_7

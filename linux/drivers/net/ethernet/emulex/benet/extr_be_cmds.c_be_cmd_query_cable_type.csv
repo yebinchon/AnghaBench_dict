@@ -1,0 +1,9 @@
+PAGE_DATA_LEN,VAR_0
+QSFP_PLUS_CABLE_TYPE_OFFSET,VAR_1
+SFP_PLUS_CABLE_TYPE_OFFSET,VAR_2
+TR_PAGE_A0,VAR_3
+be_cmd_read_port_transceiver_data,FUNC_0
+be_cmd_query_cable_type,FUNC_1
+adapter,VAR_4
+page_data,VAR_5
+status,VAR_6

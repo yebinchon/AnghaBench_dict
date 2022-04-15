@@ -1,0 +1,10 @@
+INT_MASK_CSR,VAR_0
+rt2x00_set_field32,FUNC_0
+rt2x00mmio_register_read,FUNC_1
+rt2x00mmio_register_write,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+rt2800pci_enable_interrupt,FUNC_5
+rt2x00dev,VAR_1
+irq_field,VAR_2
+reg,VAR_3

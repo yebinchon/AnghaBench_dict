@@ -1,0 +1,14 @@
+DS1682_REG_EEPROM,VAR_0
+EIO,VAR_1
+dev_dbg,FUNC_0
+i2c_smbus_read_i2c_block_data,FUNC_1
+kobj_to_i2c_client,FUNC_2
+ds1682_eeprom_read,FUNC_3
+filp,VAR_2
+kobj,VAR_3
+attr,VAR_4
+buf,VAR_5
+off,VAR_6
+count,VAR_7
+client,VAR_8
+rc,VAR_9

@@ -1,0 +1,13 @@
+COMMIT_BROKEN,VAR_0
+COMMIT_RUNNING_BACKGROUND,VAR_1
+COMMIT_RUNNING_REQUIRED,VAR_2
+EROFS,VAR_3
+do_commit,FUNC_0
+down_write,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+up_write,FUNC_4
+wait_for_commit,FUNC_5
+ubifs_run_commit,FUNC_6
+c,VAR_4
+err,VAR_5

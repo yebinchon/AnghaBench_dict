@@ -1,0 +1,11 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_NVM_ERASE_DIR_ENTRY,VAR_1
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+cpu_to_le16,FUNC_1
+hwrm_send_message,FUNC_2
+netdev_priv,FUNC_3
+bnxt_erase_nvram_directory,FUNC_4
+dev,VAR_2
+index,VAR_3
+bp,VAR_4
+req,VAR_5

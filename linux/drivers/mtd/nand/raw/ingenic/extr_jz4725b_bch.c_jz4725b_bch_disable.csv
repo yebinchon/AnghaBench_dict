@@ -1,0 +1,7 @@
+BCH_BHCR_BCHE,VAR_0
+BCH_BHINT,VAR_1
+jz4725b_bch_config_clear,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+jz4725b_bch_disable,FUNC_3
+bch,VAR_2

@@ -1,0 +1,13 @@
+GSEL_APIC,VAR_0
+IDT_DTRACE_RET,VAR_1
+IDT_SYSCALL,VAR_2
+KASSERT,FUNC_0
+SDT_APIC,VAR_3
+SEL_KPL,VAR_4
+ioint_handlers,VAR_5
+ioint_pti_handlers,VAR_6
+pti,VAR_7
+setidt,FUNC_1
+native_apic_enable_vector,FUNC_2
+apic_id,VAR_8
+vector,VAR_9

@@ -1,0 +1,17 @@
+BH1770_TIMEOUT,VAR_0
+EIO,VAR_1
+bh1770_lux_read_result,FUNC_0
+dev_get_drvdata,FUNC_1
+msecs_to_jiffies,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pm_runtime_suspended,FUNC_5
+sprintf,FUNC_6
+wait_event_interruptible_timeout,FUNC_7
+bh1770_lux_result_show,FUNC_8
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+chip,VAR_5
+ret,VAR_6
+timeout,VAR_7

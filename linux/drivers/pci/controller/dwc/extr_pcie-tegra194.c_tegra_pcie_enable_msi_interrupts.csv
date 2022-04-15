@@ -1,0 +1,13 @@
+APPL_INTR_EN_L0_0,VAR_0
+APPL_INTR_EN_L0_0_MSI_RCV_INT_EN,VAR_1
+APPL_INTR_EN_L0_0_SYS_MSI_INTR_EN,VAR_2
+appl_readl,FUNC_0
+appl_writel,FUNC_1
+dw_pcie_msi_init,FUNC_2
+to_dw_pcie_from_pp,FUNC_3
+to_tegra_pcie,FUNC_4
+tegra_pcie_enable_msi_interrupts,FUNC_5
+pp,VAR_3
+pci,VAR_4
+pcie,VAR_5
+val,VAR_6

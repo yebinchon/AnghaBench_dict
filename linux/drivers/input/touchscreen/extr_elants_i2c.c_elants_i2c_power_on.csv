@@ -1,0 +1,12 @@
+ELAN_POWERON_DELAY_USEC,VAR_0
+ELAN_RESET_DELAY_MSEC,VAR_1
+IS_ERR_OR_NULL,FUNC_0
+dev_err,FUNC_1
+gpiod_set_value_cansleep,FUNC_2
+msleep,FUNC_3
+regulator_disable,FUNC_4
+regulator_enable,FUNC_5
+udelay,FUNC_6
+elants_i2c_power_on,FUNC_7
+ts,VAR_2
+error,VAR_3

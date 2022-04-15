@@ -1,0 +1,16 @@
+ECMULT_TABLE_SIZE,FUNC_0
+SECP256K1_ECMULT_CONTEXT_PREALLOCATED_SIZE,VAR_0
+VERIFY_CHECK,FUNC_1
+WINDOW_G,VAR_1
+manual_alloc,FUNC_2
+secp256k1_ecmult_odd_multiples_table_storage_var,FUNC_3
+secp256k1_ge_const_g,VAR_2
+secp256k1_gej_double_var,FUNC_4
+secp256k1_gej_set_ge,FUNC_5
+secp256k1_ecmult_context_build,FUNC_6
+ctx,VAR_3
+prealloc,VAR_4
+gj,VAR_5
+base,VAR_6
+prealloc_size,VAR_7
+size,VAR_8

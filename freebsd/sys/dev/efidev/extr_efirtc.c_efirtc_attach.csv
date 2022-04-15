@@ -1,0 +1,16 @@
+CLOCKF_SETTIME_NO_ADJ,VAR_0
+bzero,FUNC_0
+clock_register_flags,FUNC_1
+clock_schedule,FUNC_2
+device_printf,FUNC_3
+efi_get_time_capabilities,FUNC_4
+efirtc_resadj,VAR_1
+efirtc_zeroes_subseconds,VAR_2
+ns_per_s,VAR_3
+ns_per_us,VAR_4
+us_per_s,VAR_5
+efirtc_attach,FUNC_5
+dev,VAR_6
+tmcap,VAR_7
+res,VAR_8
+error,VAR_9

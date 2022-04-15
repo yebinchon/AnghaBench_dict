@@ -1,0 +1,17 @@
+ButtonPressMask,VAR_0
+ButtonReleaseMask,VAR_1
+CurrentTime,VAR_2
+False,VAR_3
+GrabModeAsync,VAR_4
+None,VAR_5
+PointerMotionMask,VAR_6
+RARCH_DISPLAY_X11,VAR_7
+RARCH_WARN,FUNC_0
+XGrabPointer,FUNC_1
+XUngrabPointer,FUNC_2
+video_driver_display_get,FUNC_3
+video_driver_display_type_get,FUNC_4
+video_driver_window_get,FUNC_5
+udev_input_grab_mouse,FUNC_6
+data,VAR_8
+state,VAR_9

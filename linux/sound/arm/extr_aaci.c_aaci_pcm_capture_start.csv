@@ -1,0 +1,12 @@
+AACI_IE,VAR_0
+AACI_RXCR,VAR_1
+CR_EN,VAR_2
+IE_ORIE,VAR_3
+IE_RXIE,VAR_4
+SR_RXB,VAR_5
+aaci_chan_wait_ready,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+aaci_pcm_capture_start,FUNC_3
+aacirun,VAR_6
+ie,VAR_7

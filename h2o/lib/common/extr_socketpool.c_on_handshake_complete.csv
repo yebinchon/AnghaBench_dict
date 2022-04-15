@@ -1,0 +1,10 @@
+SSL_CTX_get_verify_mode,FUNC_0
+SSL_VERIFY_PEER,VAR_0
+assert,FUNC_1
+call_connect_cb,FUNC_2
+h2o_socket_close,FUNC_3
+h2o_socket_error_ssl_cert_name_mismatch,VAR_1
+on_handshake_complete,FUNC_4
+sock,VAR_2
+err,VAR_3
+req,VAR_4

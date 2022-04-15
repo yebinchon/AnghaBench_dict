@@ -1,0 +1,15 @@
+CVMX_MIO_UARTX_RBR,FUNC_0
+OCTEON_IRQ_UART0,VAR_0
+OCTEON_IRQ_UART1,VAR_1
+RMAN_ARRAY,VAR_2
+bus_generic_attach,FUNC_1
+bus_generic_probe,FUNC_2
+device_add_child,FUNC_3
+device_get_softc,FUNC_4
+mips_bus_space_generic,VAR_3
+panic,FUNC_5
+rman_init,FUNC_6
+rman_manage_region,FUNC_7
+obio_attach,FUNC_8
+dev,VAR_4
+sc,VAR_5

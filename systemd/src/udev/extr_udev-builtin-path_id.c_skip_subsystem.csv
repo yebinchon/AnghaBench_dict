@@ -1,0 +1,9 @@
+assert,FUNC_0
+sd_device_get_parent,FUNC_1
+sd_device_get_subsystem,FUNC_2
+streq,FUNC_3
+skip_subsystem,FUNC_4
+dev,VAR_0
+subsys,VAR_1
+parent,VAR_2
+subsystem,VAR_3

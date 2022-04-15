@@ -1,0 +1,14 @@
+IPOIB_NEIGH_TBL_FLUSH,VAR_0
+IPOIB_STOP_NEIGH_GC,VAR_1
+cancel_delayed_work,FUNC_0
+init_completion,FUNC_1
+ipoib_dbg,FUNC_2
+ipoib_flush_neighs,FUNC_3
+netdev_priv,FUNC_4
+set_bit,FUNC_5
+test_and_set_bit,FUNC_6
+wait_for_completion,FUNC_7
+ipoib_neigh_hash_uninit,FUNC_8
+dev,VAR_2
+priv,VAR_3
+stopped,VAR_4

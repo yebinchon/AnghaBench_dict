@@ -1,0 +1,10 @@
+DEV_STATE_NOT_OPER,VAR_0
+DEV_STATE_ONLINE,VAR_1
+EINVAL,VAR_2
+ENODEV,VAR_3
+SCSW_ACTL_SUSPENDED,VAR_4
+cio_resume,FUNC_0
+to_subchannel,FUNC_1
+ccw_device_resume,FUNC_2
+cdev,VAR_5
+sch,VAR_6

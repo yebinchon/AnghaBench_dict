@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+SNDRV_PCM_HW_PARAM_FIRST_INTERVAL,VAR_1
+SNDRV_PCM_HW_PARAM_LAST_INTERVAL,VAR_2
+constrs_interval,FUNC_0
+hw_param_interval,FUNC_1
+snd_interval_empty,FUNC_2
+snd_interval_refine,FUNC_3
+trace_hw_interval_param,FUNC_4
+trace_hw_interval_param_enabled,FUNC_5
+constrain_interval_params,FUNC_6
+substream,VAR_3
+params,VAR_4
+constrs,VAR_5
+i,VAR_6
+k,VAR_7
+old_interval,VAR_8
+changed,VAR_9

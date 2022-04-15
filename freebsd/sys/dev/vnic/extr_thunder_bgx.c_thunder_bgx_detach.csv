@@ -1,0 +1,14 @@
+M_BGX,VAR_0
+SYS_RES_MEMORY,VAR_1
+bgx_lmac_disable,FUNC_0
+bgx_vnic,VAR_2
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+free,FUNC_3
+pci_disable_busmaster,FUNC_4
+rman_get_rid,FUNC_5
+thunder_bgx_detach,FUNC_6
+dev,VAR_3
+lmac,VAR_4
+bgx,VAR_5
+lmacid,VAR_6

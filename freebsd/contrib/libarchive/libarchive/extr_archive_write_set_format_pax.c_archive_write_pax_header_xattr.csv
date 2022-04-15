@@ -1,0 +1,17 @@
+WRITE_LIBARCHIVE_XATTR,VAR_0
+WRITE_SCHILY_XATTR,VAR_1
+add_pax_attr,FUNC_0
+add_pax_attr_binary,FUNC_1
+archive_strcat,FUNC_2
+archive_strcpy,FUNC_3
+archive_string_free,FUNC_4
+archive_string_init,FUNC_5
+base64_encode,FUNC_6
+free,FUNC_7
+archive_write_pax_header_xattr,FUNC_8
+pax,VAR_2
+encoded_name,VAR_3
+value,VAR_4
+value_len,VAR_5
+s,VAR_6
+encoded_value,VAR_7

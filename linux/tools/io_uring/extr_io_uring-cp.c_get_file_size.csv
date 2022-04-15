@@ -1,0 +1,10 @@
+BLKGETSIZE64,VAR_0
+S_ISBLK,FUNC_0
+S_ISREG,FUNC_1
+fstat,FUNC_2
+ioctl,FUNC_3
+get_file_size,FUNC_4
+fd,VAR_1
+size,VAR_2
+st,VAR_3
+bytes,VAR_4

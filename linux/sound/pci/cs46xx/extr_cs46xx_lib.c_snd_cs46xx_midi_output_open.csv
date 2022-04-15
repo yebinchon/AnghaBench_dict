@@ -1,0 +1,12 @@
+BA0_MIDCR,VAR_0
+CS46XX_MODE_INPUT,VAR_1
+CS46XX_MODE_OUTPUT,VAR_2
+MIDCR_TXE,VAR_3
+snd_cs46xx_midi_reset,FUNC_0
+snd_cs46xx_pokeBA0,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+stub1,FUNC_4
+snd_cs46xx_midi_output_open,FUNC_5
+substream,VAR_4
+chip,VAR_5

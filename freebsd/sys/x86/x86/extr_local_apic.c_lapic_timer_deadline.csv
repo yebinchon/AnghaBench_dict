@@ -1,0 +1,13 @@
+APIC_LVTT_TM,VAR_0
+APIC_LVTT_TM_TSCDLT,VAR_1
+APIC_LVT_M,VAR_2
+LAPIC_LVT_TIMER,VAR_3
+MSR_TSC_DEADLINE,VAR_4
+lapic_write32_nofence,FUNC_0
+mfence,FUNC_1
+rdtsc,FUNC_2
+wrmsr,FUNC_3
+x2apic_mode,VAR_5
+lapic_timer_deadline,FUNC_4
+la,VAR_6
+value,VAR_7

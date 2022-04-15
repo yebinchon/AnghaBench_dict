@@ -1,0 +1,13 @@
+NFC_V3_CONFIG1,VAR_0
+NFC_V3_LAUNCH,VAR_1
+mtd_to_nand,FUNC_0
+nand_get_controller_data,FUNC_1
+readl,FUNC_2
+wait_op_done,FUNC_3
+writel,FUNC_4
+send_page_v3,FUNC_5
+mtd,VAR_2
+ops,VAR_3
+nand_chip,VAR_4
+host,VAR_5
+tmp,VAR_6

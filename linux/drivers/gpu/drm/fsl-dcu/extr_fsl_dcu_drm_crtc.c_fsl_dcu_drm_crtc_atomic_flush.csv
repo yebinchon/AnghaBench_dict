@@ -1,0 +1,14 @@
+DCU_UPDATE_MODE,VAR_0
+DCU_UPDATE_MODE_READREG,VAR_1
+drm_crtc_arm_vblank_event,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_vblank_get,FUNC_2
+regmap_write,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+fsl_dcu_drm_crtc_atomic_flush,FUNC_6
+crtc,VAR_2
+old_crtc_state,VAR_3
+dev,VAR_4
+fsl_dev,VAR_5
+event,VAR_6

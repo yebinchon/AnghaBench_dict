@@ -1,0 +1,17 @@
+BIT,FUNC_0
+ETH_ALEN,VAR_0
+QCA_HDR_LEN,VAR_1
+QCA_HDR_VERSION,VAR_2
+QCA_HDR_XMIT_FROM_CPU,VAR_3
+QCA_HDR_XMIT_VERSION_S,VAR_4
+dsa_slave_to_port,FUNC_1
+htons,FUNC_2
+memmove,FUNC_3
+skb_cow_head,FUNC_4
+skb_push,FUNC_5
+qca_tag_xmit,FUNC_6
+skb,VAR_5
+dev,VAR_6
+dp,VAR_7
+phdr,VAR_8
+hdr,VAR_9

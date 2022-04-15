@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+RQF_SOFTBARRIER,VAR_0
+blk_mq_kick_requeue_list,FUNC_1
+list_add,FUNC_2
+list_add_tail,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+blk_mq_add_to_requeue_list,FUNC_6
+rq,VAR_1
+at_head,VAR_2
+kick_requeue_list,VAR_3
+q,VAR_4
+flags,VAR_5

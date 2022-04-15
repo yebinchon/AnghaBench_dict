@@ -1,0 +1,13 @@
+FCNVME_RJT_EXP_NONE,VAR_0
+FCNVME_RJT_RC_INVAL,VAR_1
+NVME_FC_MAX_LS_BUFFER_SIZE,VAR_2
+nvmet_fc_format_rjt,FUNC_0
+nvmet_fc_ls_create_association,FUNC_1
+nvmet_fc_ls_create_connection,FUNC_2
+nvmet_fc_ls_disconnect,FUNC_3
+nvmet_fc_xmt_ls_rsp,FUNC_4
+nvmet_fc_xmt_ls_rsp_done,VAR_3
+nvmet_fc_handle_ls_rqst,FUNC_5
+tgtport,VAR_4
+iod,VAR_5
+w0,VAR_6

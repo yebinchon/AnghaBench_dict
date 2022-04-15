@@ -1,0 +1,12 @@
+ETHER_MAX_LEN,VAR_0
+IFCOUNTER_IERRORS,VAR_1
+append_frame_to_pkt,FUNC_0
+if_inc_counter,FUNC_1
+skip_tail,FUNC_2
+upload_data,FUNC_3
+sc,VAR_2
+framelen,VAR_3
+frameno,VAR_4
+is_first,VAR_5
+crc,VAR_6
+frame_ok,VAR_7

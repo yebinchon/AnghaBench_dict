@@ -1,0 +1,14 @@
+HCLGE_OPC_RESET_TQP_QUEUE,VAR_0
+HCLGE_RING_ID_MASK,VAR_1
+HCLGE_TQP_RESET_B,VAR_2
+cpu_to_le16,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hnae3_get_bit,FUNC_4
+hclge_get_reset_status,FUNC_5
+hdev,VAR_3
+queue_id,VAR_4
+req,VAR_5
+desc,VAR_6
+ret,VAR_7

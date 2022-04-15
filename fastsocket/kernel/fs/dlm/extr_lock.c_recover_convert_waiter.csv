@@ -1,0 +1,13 @@
+DLM_IFL_RESEND,VAR_0
+DLM_LOCK_IV,VAR_1
+DLM_MSG_CONVERT_REPLY,VAR_2
+EINPROGRESS,VAR_3
+RSB_RECOVER_CONVERT,VAR_4
+_receive_convert_reply,FUNC_0
+hold_lkb,FUNC_1
+middle_conversion,FUNC_2
+rsb_set_flag,FUNC_3
+unhold_lkb,FUNC_4
+recover_convert_waiter,FUNC_5
+ls,VAR_5
+lkb,VAR_6

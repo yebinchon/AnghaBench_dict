@@ -1,0 +1,14 @@
+INTERCEPT_MSR_PROT,VAR_0
+MSR_INVALID,VAR_1
+NESTED_EXIT_DONE,VAR_2
+NESTED_EXIT_HOST,VAR_3
+VCPU_REGS_RCX,VAR_4
+kvm_vcpu_read_guest,FUNC_0
+svm_msrpm_offset,FUNC_1
+nested_svm_exit_handled_msr,FUNC_2
+svm,VAR_5
+offset,VAR_6
+msr,VAR_7
+value,VAR_8
+write,VAR_9
+mask,VAR_10

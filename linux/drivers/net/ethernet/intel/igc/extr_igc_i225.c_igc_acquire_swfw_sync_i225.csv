@@ -1,0 +1,17 @@
+IGC_ERR_SWFW_SYNC,VAR_0
+IGC_SW_FW_SYNC,VAR_1
+hw_dbg,FUNC_0
+igc_get_hw_semaphore_i225,FUNC_1
+igc_put_hw_semaphore,FUNC_2
+mdelay,FUNC_3
+rd32,FUNC_4
+wr32,FUNC_5
+igc_acquire_swfw_sync_i225,FUNC_6
+hw,VAR_2
+mask,VAR_3
+i,VAR_4
+timeout,VAR_5
+fwmask,VAR_6
+swmask,VAR_7
+ret_val,VAR_8
+swfw_sync,VAR_9

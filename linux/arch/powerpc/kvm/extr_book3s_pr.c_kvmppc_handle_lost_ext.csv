@@ -1,0 +1,14 @@
+MSR_FP,VAR_0
+MSR_VEC,VAR_1
+current,VAR_2
+disable_kernel_altivec,FUNC_0
+disable_kernel_fp,FUNC_1
+enable_kernel_altivec,FUNC_2
+enable_kernel_fp,FUNC_3
+load_fp_state,FUNC_4
+load_vr_state,FUNC_5
+preempt_disable,FUNC_6
+preempt_enable,FUNC_7
+kvmppc_handle_lost_ext,FUNC_8
+vcpu,VAR_3
+lost_ext,VAR_4

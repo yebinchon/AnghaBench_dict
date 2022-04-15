@@ -1,0 +1,8 @@
+U300_SYSCON_SBCDR,VAR_0
+U300_SYSCON_SBCER_UART_CLK_EN,VAR_1
+syscon_vbase,VAR_2
+to_syscon,FUNC_0
+writew,FUNC_1
+syscon_clk_disable,FUNC_2
+hw,VAR_3
+sclk,VAR_4

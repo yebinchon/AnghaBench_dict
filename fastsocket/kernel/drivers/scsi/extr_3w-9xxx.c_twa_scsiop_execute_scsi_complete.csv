@@ -1,0 +1,12 @@
+DMA_BIDIRECTIONAL,VAR_0
+DMA_FROM_DEVICE,VAR_1
+TW_MIN_SGL_LENGTH,VAR_2
+TW_SECTOR_SIZE,VAR_3
+scsi_bufflen,FUNC_0
+scsi_sg_copy_from_buffer,FUNC_1
+scsi_sg_count,FUNC_2
+twa_scsiop_execute_scsi_complete,FUNC_3
+tw_dev,VAR_4
+request_id,VAR_5
+cmd,VAR_6
+buf,VAR_7

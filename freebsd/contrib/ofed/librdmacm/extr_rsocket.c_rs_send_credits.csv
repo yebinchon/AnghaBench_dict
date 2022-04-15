@@ -1,0 +1,17 @@
+IBV_SEND_INLINE,VAR_0
+RS_OPT_MSG_SEND,VAR_1
+RS_OPT_SWAP_SGL,VAR_2
+RS_OP_SGL,VAR_3
+bswap_32,FUNC_0
+bswap_64,FUNC_1
+memcpy,FUNC_2
+rs_get_ctrl_buf,FUNC_3
+rs_msg_set,FUNC_4
+rs_post_msg,FUNC_5
+rs_post_write_msg,FUNC_6
+rs_send_credits,FUNC_7
+rs,VAR_4
+ibsge,VAR_5
+sge,VAR_6
+sge_buf,VAR_7
+flags,VAR_8

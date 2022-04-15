@@ -1,0 +1,10 @@
+AEL100X_TX_DISABLE,VAR_0
+BMCR_PDOWN,VAR_1
+MDIO_DEV_PMA_PMD,VAR_2
+MII_BMCR,VAR_3
+mdio_write,FUNC_0
+t3_mdio_change_bits,FUNC_1
+ael1002_power_down,FUNC_2
+phy,VAR_4
+enable,VAR_5
+err,VAR_6

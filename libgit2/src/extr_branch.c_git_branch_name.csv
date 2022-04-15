@@ -1,0 +1,12 @@
+GIT_ERROR_INVALID,VAR_0
+GIT_REFS_HEADS_DIR,VAR_1
+GIT_REFS_REMOTES_DIR,VAR_2
+assert,FUNC_0
+git_error_set,FUNC_1
+git_reference_is_branch,FUNC_2
+git_reference_is_remote,FUNC_3
+strlen,FUNC_4
+git_branch_name,FUNC_5
+out,VAR_3
+ref,VAR_4
+branch_name,VAR_5

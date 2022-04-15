@@ -1,0 +1,17 @@
+PCIM_BIOS_ENABLE,VAR_0
+PCIR_IS_BIOS,FUNC_0
+PCI_ENABLE_IO,FUNC_1
+bus_generic_activate_resource,FUNC_2
+device_get_ivars,FUNC_3
+device_get_parent,FUNC_4
+pci_find_bar,FUNC_5
+pci_write_bar,FUNC_6
+rman_get_start,FUNC_7
+pci_activate_resource,FUNC_8
+dev,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+r,VAR_5
+dinfo,VAR_6
+error,VAR_7

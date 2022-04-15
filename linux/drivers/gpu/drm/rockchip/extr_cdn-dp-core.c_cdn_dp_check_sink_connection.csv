@@ -1,0 +1,14 @@
+CDN_DPCD_TIMEOUT_MS,VAR_0
+DRM_DEV_ERROR,FUNC_0
+EXTCON_DISP_DP,VAR_1
+cdn_dp_get_sink_count,FUNC_1
+extcon_get_state,FUNC_2
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_3
+time_before,FUNC_4
+usleep_range,FUNC_5
+cdn_dp_check_sink_connection,FUNC_6
+dp,VAR_3
+timeout,VAR_4
+port,VAR_5
+sink_count,VAR_6

@@ -1,0 +1,15 @@
+USB_DIR_OUT,VAR_0
+USB_RECIP_INTERFACE,VAR_1
+USB_TYPE_CLASS,VAR_2
+WUSB_REQ_SET_CLUSTER_ID,VAR_3
+dev_err,FUNC_0
+dev_info,FUNC_1
+usb_control_msg,FUNC_2
+usb_sndctrlpipe,FUNC_3
+__hwahc_set_cluster_id,FUNC_4
+hwahc,VAR_4
+cluster_id,VAR_5
+result,VAR_6
+wusbhc,VAR_7
+wa,VAR_8
+dev,VAR_9

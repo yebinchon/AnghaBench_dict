@@ -1,0 +1,17 @@
+CMD_DISABLESEL,VAR_0
+CMD_ENABLESEL,VAR_1
+LOG_CONNECT,VAR_2
+LOG_MESSAGES,VAR_3
+fas216_allocate_tag,FUNC_0
+fas216_checkmagic,FUNC_1
+fas216_cmd,FUNC_2
+fas216_do_bus_device_reset,FUNC_3
+fas216_log,FUNC_4
+fas216_log_command,FUNC_5
+fas216_start_command,FUNC_6
+queue_add_cmd_tail,FUNC_7
+queue_remove_exclude,FUNC_8
+fas216_kick,FUNC_9
+info,VAR_4
+SCpnt,VAR_5
+where_from,VAR_6

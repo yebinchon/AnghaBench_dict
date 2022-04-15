@@ -1,0 +1,17 @@
+MSG_ERROR,VAR_0
+SIGPOLL,VAR_1
+add_timeout,VAR_2
+add_watch,VAR_3
+dbus_connection_set_timeout_functions,FUNC_0
+dbus_connection_set_wakeup_main_function,FUNC_1
+dbus_connection_set_watch_functions,FUNC_2
+eloop_register_signal,FUNC_3
+process_wakeup_main,VAR_4
+remove_timeout,VAR_5
+remove_watch,VAR_6
+timeout_toggled,VAR_7
+wakeup_main,VAR_8
+watch_toggled,VAR_9
+wpa_printf,FUNC_4
+integrate_with_eloop,FUNC_5
+priv,VAR_10

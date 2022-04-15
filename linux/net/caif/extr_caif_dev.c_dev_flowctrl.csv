@@ -1,0 +1,12 @@
+_CAIF_CTRLCMD_PHYIF_FLOW_OFF_IND,VAR_0
+_CAIF_CTRLCMD_PHYIF_FLOW_ON_IND,VAR_1
+caif_get,FUNC_0
+caifd_hold,FUNC_1
+caifd_put,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+stub1,FUNC_5
+dev_flowctrl,FUNC_6
+dev,VAR_2
+on,VAR_3
+caifd,VAR_4

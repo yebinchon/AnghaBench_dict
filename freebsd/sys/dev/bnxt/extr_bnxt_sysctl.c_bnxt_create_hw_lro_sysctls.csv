@@ -1,0 +1,14 @@
+CTLFLAG_RWTUN,VAR_0
+CTLTYPE_INT,VAR_1
+ENOMEM,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+bnxt_hw_lro_enable_disable,VAR_4
+bnxt_hw_lro_set_max_agg_segs,VAR_5
+bnxt_hw_lro_set_max_aggs,VAR_6
+bnxt_hw_lro_set_min_agg_len,VAR_7
+bnxt_hw_lro_set_mode,VAR_8
+bnxt_create_hw_lro_sysctls,FUNC_2
+softc,VAR_9
+oid,VAR_10

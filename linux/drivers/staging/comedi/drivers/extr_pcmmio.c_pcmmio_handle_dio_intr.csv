@@ -1,0 +1,17 @@
+COMEDI_CB_EOA,VAR_0
+CR_CHAN,FUNC_0
+TRIG_COUNT,VAR_1
+comedi_buf_write_samples,FUNC_1
+comedi_handle_events,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+pcmmio_handle_dio_intr,FUNC_5
+dev,VAR_2
+s,VAR_3
+triggered,VAR_4
+devpriv,VAR_5
+cmd,VAR_6
+val,VAR_7
+flags,VAR_8
+i,VAR_9
+chan,VAR_10

@@ -1,0 +1,13 @@
+GMU_OOB_GPU_SET,VAR_0
+REG_A6XX_RBBM_PERFCTR_CP_0_HI,VAR_1
+REG_A6XX_RBBM_PERFCTR_CP_0_LO,VAR_2
+a6xx_gmu_clear_oob,FUNC_0
+a6xx_gmu_set_oob,FUNC_1
+gpu_read64,FUNC_2
+to_a6xx_gpu,FUNC_3
+to_adreno_gpu,FUNC_4
+a6xx_get_timestamp,FUNC_5
+gpu,VAR_3
+value,VAR_4
+adreno_gpu,VAR_5
+a6xx_gpu,VAR_6

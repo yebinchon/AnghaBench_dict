@@ -1,0 +1,13 @@
+EVLOCK_LOCK,FUNC_0
+EVLOCK_UNLOCK,FUNC_1
+EVTHREAD_COND_WAIT_TIMED,FUNC_2
+GetTickCount,FUNC_3
+count,VAR_0
+count_cond,VAR_1
+count_lock,VAR_2
+count_wait_for,FUNC_4
+i,VAR_3
+ms,VAR_4
+tv,VAR_5
+elapsed,VAR_6
+rv,VAR_7

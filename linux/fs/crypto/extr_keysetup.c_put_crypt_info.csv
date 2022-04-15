@@ -1,0 +1,16 @@
+crypto_free_cipher,FUNC_0
+crypto_free_skcipher,FUNC_1
+fscrypt_info_cachep,VAR_0
+fscrypt_is_direct_key_policy,FUNC_2
+fscrypt_put_direct_key,FUNC_3
+key_invalidate,FUNC_4
+key_put,FUNC_5
+kmem_cache_free,FUNC_6
+list_del,FUNC_7
+refcount_dec_and_test,FUNC_8
+spin_lock,FUNC_9
+spin_unlock,FUNC_10
+put_crypt_info,FUNC_11
+ci,VAR_1
+key,VAR_2
+mk,VAR_3

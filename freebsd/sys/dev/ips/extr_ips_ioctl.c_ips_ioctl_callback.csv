@@ -1,0 +1,15 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+IPS_IOCTL_READ,VAR_2
+IPS_IOCTL_WRITE,VAR_3
+bus_dmamap_sync,FUNC_0
+ips_set_error,FUNC_1
+stub1,FUNC_2
+ips_ioctl_callback,FUNC_3
+cmdptr,VAR_4
+segments,VAR_5
+segnum,VAR_6
+error,VAR_7
+command,VAR_8
+ioctl_cmd,VAR_9
+command_buffer,VAR_10

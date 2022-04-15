@@ -1,0 +1,17 @@
+TCPF_DELACK_TIMER_DEFERRED,VAR_0
+TCPF_MTU_REDUCED_DEFERRED,VAR_1
+TCPF_TSQ_DEFERRED,VAR_2
+TCPF_WRITE_TIMER_DEFERRED,VAR_3
+TCP_DEFERRED_ALL,VAR_4
+__sock_put,FUNC_0
+cmpxchg,FUNC_1
+inet_csk,FUNC_2
+sock_release_ownership,FUNC_3
+stub1,FUNC_4
+tcp_delack_timer_handler,FUNC_5
+tcp_tsq_write,FUNC_6
+tcp_write_timer_handler,FUNC_7
+tcp_release_cb,FUNC_8
+sk,VAR_5
+flags,VAR_6
+nflags,VAR_7

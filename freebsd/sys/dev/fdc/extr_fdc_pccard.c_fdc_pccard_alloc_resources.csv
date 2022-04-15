@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+FDC_MAXREG,VAR_1
+RF_ACTIVE,VAR_2
+RF_SHAREABLE,VAR_3
+SYS_RES_IOPORT,VAR_4
+SYS_RES_IRQ,VAR_5
+bus_alloc_resource_any,FUNC_0
+device_printf,FUNC_1
+rman_get_bushandle,FUNC_2
+rman_get_bustag,FUNC_3
+fdc_pccard_alloc_resources,FUNC_4
+dev,VAR_6
+fdc,VAR_7
+res,VAR_8
+rid,VAR_9
+i,VAR_10

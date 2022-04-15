@@ -1,0 +1,10 @@
+LATCH,VAR_0
+PIT_CH0,VAR_1
+PIT_MODE,VAR_2
+i8253_lock,VAR_3
+outb_pit,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+init_pit_timer,FUNC_3
+mode,VAR_4
+evt,VAR_5

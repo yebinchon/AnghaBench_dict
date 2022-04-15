@@ -1,0 +1,16 @@
+HCLGE_BUF_SIZE_UNIT_SHIFT,VAR_0
+HCLGE_BUF_SIZE_UPDATE_EN_MSK,VAR_1
+HCLGE_MAX_TC_NUM,VAR_2
+HCLGE_OPC_TX_BUFF_ALLOC,VAR_3
+cpu_to_le16,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hclge_cmd_alloc_tx_buff,FUNC_4
+hdev,VAR_4
+buf_alloc,VAR_5
+req,VAR_6
+desc,VAR_7
+ret,VAR_8
+i,VAR_9
+buf_size,VAR_10

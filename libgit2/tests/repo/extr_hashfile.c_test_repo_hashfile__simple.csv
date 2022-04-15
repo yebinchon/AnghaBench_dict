@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+GIT_OBJECT_ANY,VAR_1
+GIT_OBJECT_BLOB,VAR_2
+GIT_OBJECT_OFS_DELTA,VAR_3
+_repo,VAR_4
+cl_assert_equal_oid,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_dispose,FUNC_3
+git_buf_joinpath,FUNC_4
+git_odb_hashfile,FUNC_5
+git_repository_hashfile,FUNC_6
+git_repository_workdir,FUNC_7
+test_repo_hashfile__simple,FUNC_8
+a,VAR_5
+b,VAR_6
+full,VAR_7

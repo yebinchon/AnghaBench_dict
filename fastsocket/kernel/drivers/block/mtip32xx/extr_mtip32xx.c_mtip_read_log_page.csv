@@ -1,0 +1,14 @@
+ATA_CMD_READ_LOG_EXT,VAR_0
+ATA_DEVICE_OBS,VAR_1
+ATA_SECT_SIZE,VAR_2
+GFP_ATOMIC,VAR_3
+MTIP_INTERNAL_COMMAND_TIMEOUT_MS,VAR_4
+memset,FUNC_0
+mtip_exec_internal_command,FUNC_1
+mtip_read_log_page,FUNC_2
+port,VAR_5
+page,VAR_6
+buffer,VAR_7
+buffer_dma,VAR_8
+sectors,VAR_9
+fis,VAR_10

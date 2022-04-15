@@ -1,0 +1,17 @@
+RX8010_CTRL,VAR_0
+RX8010_CTRL_AIE,VAR_1
+RX8010_CTRL_UIE,VAR_2
+RX8010_FLAG,VAR_3
+RX8010_FLAG_AF,VAR_4
+dev_get_drvdata,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+to_i2c_client,FUNC_3
+rx8010_alarm_irq_enable,FUNC_4
+dev,VAR_5
+enabled,VAR_6
+client,VAR_7
+rx8010,VAR_8
+flagreg,VAR_9
+ctrl,VAR_10
+err,VAR_11

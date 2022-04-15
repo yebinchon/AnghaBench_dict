@@ -1,0 +1,15 @@
+EACCES,VAR_0
+EIO,VAR_1
+ENOMEM,VAR_2
+FC_OFFLINE_MODE,VAR_3
+LPFC_EVT_OFFLINE,VAR_4
+LPFC_EVT_ONLINE,VAR_5
+init_completion,FUNC_0
+lpfc_do_offline,FUNC_1
+lpfc_workq_post_event,FUNC_2
+wait_for_completion,FUNC_3
+lpfc_selective_reset,FUNC_4
+phba,VAR_6
+online_compl,VAR_7
+status,VAR_8
+rc,VAR_9

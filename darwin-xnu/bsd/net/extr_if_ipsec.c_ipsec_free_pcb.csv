@@ -1,0 +1,15 @@
+TAILQ_REMOVE,FUNC_0
+ipsec_chain,VAR_0
+ipsec_head,VAR_1
+ipsec_lck_grp,VAR_2
+ipsec_lock,VAR_3
+ipsec_pcb_zone,VAR_4
+lck_mtx_destroy,FUNC_1
+lck_mtx_lock,FUNC_2
+lck_mtx_unlock,FUNC_3
+lck_rw_destroy,FUNC_4
+mbuf_freem_list,FUNC_5
+zfree,FUNC_6
+ipsec_free_pcb,FUNC_7
+pcb,VAR_5
+in_list,VAR_6

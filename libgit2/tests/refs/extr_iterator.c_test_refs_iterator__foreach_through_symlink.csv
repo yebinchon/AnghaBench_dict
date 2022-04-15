@@ -1,0 +1,14 @@
+assert_all_refnames_match,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_skip,FUNC_3
+git_reference_foreach,FUNC_4
+git_vector_init,FUNC_5
+p_mkdir,FUNC_6
+p_symlink,FUNC_7
+refcmp_cb,VAR_0
+refnames_with_symlink,VAR_1
+refs_foreach_cb,VAR_2
+repo,VAR_3
+test_refs_iterator__foreach_through_symlink,FUNC_8
+output,VAR_4

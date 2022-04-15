@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+IOC4_SSCR_DMA_EN,VAR_0
+IOC4_SSCR_RX_RING_DCD,VAR_1
+N_DATA_READY,VAR_2
+N_DCTS,VAR_3
+N_DDCD,VAR_4
+N_OUTPUT_LOWAT,VAR_5
+disable_intrs,FUNC_1
+enable_intrs,FUNC_2
+writel,FUNC_3
+set_notification,FUNC_4
+port,VAR_6
+mask,VAR_7
+set_on,VAR_8
+hooks,VAR_9
+intrbits,VAR_10
+sscrbits,VAR_11

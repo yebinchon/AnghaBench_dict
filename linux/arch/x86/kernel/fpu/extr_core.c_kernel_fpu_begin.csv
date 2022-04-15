@@ -1,0 +1,14 @@
+PF_KTHREAD,VAR_0
+TIF_NEED_FPU_LOAD,VAR_1
+WARN_ON_FPU,FUNC_0
+__cpu_invalidate_fpregs_state,FUNC_1
+copy_fpregs_to_fpstate,FUNC_2
+current,VAR_2
+in_kernel_fpu,VAR_3
+irq_fpu_usable,FUNC_3
+preempt_disable,FUNC_4
+set_thread_flag,FUNC_5
+test_thread_flag,FUNC_6
+this_cpu_read,FUNC_7
+this_cpu_write,FUNC_8
+kernel_fpu_begin,FUNC_9

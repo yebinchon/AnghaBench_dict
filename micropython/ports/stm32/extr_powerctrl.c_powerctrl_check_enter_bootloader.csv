@@ -1,0 +1,9 @@
+BL_STATE,VAR_0
+RCC,VAR_1
+RCC_SR_RMVF,VAR_2
+RCC_SR_SFTRSTF,VAR_3
+__HAL_SYSCFG_REMAPMEMORY_SYSTEMFLASH,FUNC_0
+branch_to_bootloader,FUNC_1
+powerctrl_check_enter_bootloader,FUNC_2
+bl_addr,VAR_4
+r0,VAR_5

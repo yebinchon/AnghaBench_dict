@@ -1,0 +1,9 @@
+ADD_CNT,FUNC_0
+END_TIMER,FUNC_1
+RPC_BUFFER_MAGIC,VAR_0
+START_TIMER,FUNC_2
+assert,FUNC_3
+outbuf,VAR_1
+store,VAR_2
+do_rpc_store_set_pos,FUNC_4
+p,VAR_3

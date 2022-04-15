@@ -1,0 +1,15 @@
+IPFW_UH_WLOCK,FUNC_0
+IPFW_UH_WUNLOCK,FUNC_1
+IPFW_WLOCK,FUNC_2
+IPFW_WUNLOCK,FUNC_3
+M_IPFW,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+free,FUNC_4
+malloc,FUNC_5
+swap_skipto_cache,FUNC_6
+update_skipto_cache,FUNC_7
+ipfw_init_skipto_cache,FUNC_8
+chain,VAR_3
+idxmap,VAR_4
+idxmap_back,VAR_5

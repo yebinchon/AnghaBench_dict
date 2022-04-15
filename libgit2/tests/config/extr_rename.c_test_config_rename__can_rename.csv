@@ -1,0 +1,10 @@
+cl_assert_equal_s,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+g_config,VAR_0
+g_repo,VAR_1
+git_config_entry_free,FUNC_3
+git_config_get_entry,FUNC_4
+git_config_rename_section,FUNC_5
+test_config_rename__can_rename,FUNC_6
+ce,VAR_2

@@ -1,0 +1,10 @@
+GIT_OPT_ENABLE_FSYNC_GITDIR,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+count_fsyncs,FUNC_2
+expected_fsyncs_compress,VAR_1
+expected_fsyncs_create,VAR_2
+git_libgit2_opts,FUNC_3
+test_refs_create__fsyncs_when_global_opt_set,FUNC_4
+create_count,VAR_3
+compress_count,VAR_4

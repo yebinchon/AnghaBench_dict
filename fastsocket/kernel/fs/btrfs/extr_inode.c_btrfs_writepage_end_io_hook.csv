@@ -1,0 +1,17 @@
+BTRFS_I,FUNC_0
+ClearPagePrivate2,FUNC_1
+btrfs_dec_test_ordered_pending,FUNC_2
+btrfs_is_free_space_inode,FUNC_3
+btrfs_queue_worker,FUNC_4
+finish_ordered_fn,VAR_0
+trace_btrfs_writepage_end_io_hook,FUNC_5
+btrfs_writepage_end_io_hook,FUNC_6
+page,VAR_1
+start,VAR_2
+end,VAR_3
+state,VAR_4
+uptodate,VAR_5
+inode,VAR_6
+root,VAR_7
+ordered_extent,VAR_8
+workers,VAR_9

@@ -1,0 +1,12 @@
+HINIC_API_CMD_PI_CLEAR,FUNC_0
+HINIC_API_CMD_PI_SET,FUNC_1
+HINIC_CSR_API_CMD_CHAIN_PI_ADDR,FUNC_2
+IDX,VAR_0
+hinic_hwif_read_reg,FUNC_3
+hinic_hwif_write_reg,FUNC_4
+set_prod_idx,FUNC_5
+chain,VAR_1
+chain_type,VAR_2
+hwif,VAR_3
+addr,VAR_4
+prod_idx,VAR_5

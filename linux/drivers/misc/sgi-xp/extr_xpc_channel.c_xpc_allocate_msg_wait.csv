@@ -1,0 +1,15 @@
+DBUG_ON,FUNC_0
+DEFINE_WAIT,FUNC_1
+TASK_INTERRUPTIBLE,VAR_0
+XPC_C_DISCONNECTING,VAR_1
+atomic_dec,FUNC_2
+atomic_inc,FUNC_3
+finish_wait,FUNC_4
+prepare_to_wait,FUNC_5
+schedule_timeout,FUNC_6
+wait,VAR_2
+xpInterrupted,VAR_3
+xpTimeout,VAR_4
+xpc_allocate_msg_wait,FUNC_7
+ch,VAR_5
+ret,VAR_6

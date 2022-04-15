@@ -1,0 +1,17 @@
+IP6_RT_PRIO_USER,VAR_0
+RT6_TABLE_DFLT,VAR_1
+RTF_ADDRCONF,VAR_2
+RTF_DEFAULT,VAR_3
+RTF_EXPIRES,VAR_4
+RTF_GATEWAY,VAR_5
+RTF_PREF,FUNC_0
+RTF_UP,VAR_6
+dev_net,FUNC_1
+ip6_route_add,FUNC_2
+ipv6_addr_copy,FUNC_3
+rt6_get_dflt_router,FUNC_4
+rt6_add_dflt_router,FUNC_5
+gwaddr,VAR_7
+dev,VAR_8
+pref,VAR_9
+cfg,VAR_10

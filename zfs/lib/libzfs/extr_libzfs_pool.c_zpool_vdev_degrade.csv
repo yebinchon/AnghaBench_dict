@@ -1,0 +1,16 @@
+TEXT_DOMAIN,VAR_0
+VDEV_STATE_DEGRADED,VAR_1
+ZFS_IOC_VDEV_SET_STATE,VAR_2
+dgettext,FUNC_0
+errno,VAR_3
+snprintf,FUNC_1
+strlcpy,FUNC_2
+zfs_ioctl,FUNC_3
+zpool_standard_error,FUNC_4
+zpool_vdev_degrade,FUNC_5
+zhp,VAR_4
+guid,VAR_5
+aux,VAR_6
+zc,VAR_7
+msg,VAR_8
+hdl,VAR_9

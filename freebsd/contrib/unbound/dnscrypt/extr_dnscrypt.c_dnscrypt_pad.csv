@@ -1,0 +1,15 @@
+DNSCRYPT_BLOCK_SIZE,VAR_0
+DNSCRYPT_MIN_PAD_LEN,VAR_1
+assert,FUNC_0
+crypto_box_HALF_NONCEBYTES,VAR_2
+crypto_stream,FUNC_1
+memset,FUNC_2
+dnscrypt_pad,FUNC_3
+buf,VAR_3
+len,VAR_4
+max_len,VAR_5
+nonce,VAR_6
+secretkey,VAR_7
+buf_padding_area,VAR_8
+padded_len,VAR_9
+rnd,VAR_10

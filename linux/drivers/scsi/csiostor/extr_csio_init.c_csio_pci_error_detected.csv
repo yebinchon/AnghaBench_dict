@@ -1,0 +1,17 @@
+CSIO_HWE_PCIERR_DETECTED,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_NEED_RESET,VAR_2
+csio_intr_disable,FUNC_0
+csio_lnodes_block_request,FUNC_1
+csio_lnodes_exit,FUNC_2
+csio_lnodes_unblock_request,FUNC_3
+csio_post_event,FUNC_4
+pci_channel_io_perm_failure,VAR_3
+pci_disable_device,FUNC_5
+pci_get_drvdata,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+csio_pci_error_detected,FUNC_9
+pdev,VAR_4
+state,VAR_5
+hw,VAR_6

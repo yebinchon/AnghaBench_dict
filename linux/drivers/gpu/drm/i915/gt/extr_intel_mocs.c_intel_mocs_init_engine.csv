@@ -1,0 +1,16 @@
+FORCEWAKE_ALL,VAR_0
+HAS_GLOBAL_MOCS_REGISTERS,FUNC_0
+I915_MOCS_PTE,VAR_1
+assert_forcewakes_active,FUNC_1
+get_entry_control,FUNC_2
+get_mocs_settings,FUNC_3
+intel_uncore_write_fw,FUNC_4
+mocs_register,FUNC_5
+intel_mocs_init_engine,FUNC_6
+engine,VAR_2
+gt,VAR_3
+uncore,VAR_4
+table,VAR_5
+index,VAR_6
+unused_value,VAR_7
+value,VAR_8

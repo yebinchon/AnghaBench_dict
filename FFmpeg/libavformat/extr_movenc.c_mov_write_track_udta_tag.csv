@@ -1,0 +1,17 @@
+MODE_MOV,VAR_0
+MODE_MP4,VAR_1
+av_free,FUNC_0
+avio_close_dyn_buf,FUNC_1
+avio_open_dyn_buf,FUNC_2
+avio_wb32,FUNC_3
+avio_write,FUNC_4
+ffio_wfourcc,FUNC_5
+mov_write_track_metadata,FUNC_6
+mov_write_track_udta_tag,FUNC_7
+pb,VAR_2
+mov,VAR_3
+st,VAR_4
+pb_buf,VAR_5
+ret,VAR_6
+size,VAR_7
+buf,VAR_8

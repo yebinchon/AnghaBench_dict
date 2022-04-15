@@ -1,0 +1,15 @@
+PHASE28_SPI_CLK,VAR_0
+PHASE28_SPI_MOSI,VAR_1
+PHASE28_WM_CS,VAR_2
+PHASE28_WM_RW,VAR_3
+snd_ice1712_gpio_read,FUNC_0
+snd_ice1712_gpio_set_mask,FUNC_1
+snd_ice1712_gpio_write,FUNC_2
+udelay,FUNC_3
+phase28_spi_write,FUNC_4
+ice,VAR_4
+cs,VAR_5
+data,VAR_6
+bits,VAR_7
+tmp,VAR_8
+i,VAR_9

@@ -1,0 +1,17 @@
+BPF_ADJ_ROOM_MAC,VAR_0
+BPF_F_ADJ_ROOM_FIXED_GSO,VAR_1
+ETH_HLEN,VAR_2
+TC_ACT_OK,VAR_3
+TC_ACT_SHOT,VAR_4
+bpf_ntohs,FUNC_0
+bpf_skb_adjust_room,FUNC_1
+bpf_skb_load_bytes,FUNC_2
+decap_internal,FUNC_3
+skb,VAR_5
+off,VAR_6
+len,VAR_7
+proto,VAR_8
+buf,VAR_9
+greh,VAR_10
+udph,VAR_11
+olen,VAR_12

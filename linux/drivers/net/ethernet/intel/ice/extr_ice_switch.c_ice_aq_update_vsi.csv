@@ -1,0 +1,15 @@
+ICE_AQ_FLAG_RD,VAR_0
+ICE_AQ_VSI_IS_VALID,VAR_1
+cpu_to_le16,FUNC_0
+ice_aq_send_cmd,FUNC_1
+ice_aqc_opc_update_vsi,VAR_2
+ice_fill_dflt_direct_cmd_desc,FUNC_2
+le16_to_cpu,FUNC_3
+ice_aq_update_vsi,FUNC_4
+hw,VAR_3
+vsi_ctx,VAR_4
+cd,VAR_5
+resp,VAR_6
+cmd,VAR_7
+desc,VAR_8
+status,VAR_9

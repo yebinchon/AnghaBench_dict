@@ -1,0 +1,15 @@
+BUS_ERROR_DISK_FULL,VAR_0
+FORMAT_BYTES_MAX,VAR_1
+RELOAD_DISK_SPACE_MIN,VAR_2
+errno,VAR_3
+format_bytes,FUNC_0
+sd_bus_error_set_errnof,FUNC_1
+sd_bus_error_setf,FUNC_2
+statvfs,FUNC_3
+verify_run_space,FUNC_4
+message,VAR_4
+error,VAR_5
+svfs,VAR_6
+available,VAR_7
+fb_available,VAR_8
+fb_need,VAR_9

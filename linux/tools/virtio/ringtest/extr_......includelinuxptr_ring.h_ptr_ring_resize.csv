@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+__ptr_ring_init_queue_alloc,FUNC_0
+__ptr_ring_swap_queue,FUNC_1
+kvfree,FUNC_2
+spin_lock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ptr_ring_resize,FUNC_7
+r,VAR_1
+size,VAR_2
+gfp,VAR_3
+destroy,VAR_4
+flags,VAR_5
+queue,VAR_6
+old,VAR_7

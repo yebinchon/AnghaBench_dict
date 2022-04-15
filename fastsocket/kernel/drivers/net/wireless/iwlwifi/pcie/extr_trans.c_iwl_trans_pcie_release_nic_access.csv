@@ -1,0 +1,12 @@
+CSR_GP_CNTRL,VAR_0
+CSR_GP_CNTRL_REG_FLAG_MAC_ACCESS_REQ,VAR_1
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+__acquire,FUNC_1
+__iwl_trans_pcie_clear_bit,FUNC_2
+lockdep_assert_held,FUNC_3
+mmiowb,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+iwl_trans_pcie_release_nic_access,FUNC_6
+trans,VAR_2
+flags,VAR_3
+pcie_trans,VAR_4

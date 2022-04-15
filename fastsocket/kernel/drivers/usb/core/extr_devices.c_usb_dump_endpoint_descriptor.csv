@@ -1,0 +1,16 @@
+USB_SPEED_HIGH,VAR_0
+format_endpt,VAR_1
+le16_to_cpu,FUNC_0
+sprintf,FUNC_1
+usb_endpoint_dir_in,FUNC_2
+usb_endpoint_type,FUNC_3
+usb_dump_endpoint_descriptor,FUNC_4
+speed,VAR_2
+start,VAR_3
+end,VAR_4
+desc,VAR_5
+dir,VAR_6
+unit,VAR_7
+type,VAR_8
+interval,VAR_9
+bandwidth,VAR_10

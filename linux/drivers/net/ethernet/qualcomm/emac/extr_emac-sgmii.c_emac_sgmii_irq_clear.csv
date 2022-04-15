@@ -1,0 +1,15 @@
+EIO,VAR_0
+EMAC_SGMII_PHY_INTERRUPT_CLEAR,VAR_1
+EMAC_SGMII_PHY_INTERRUPT_STATUS,VAR_2
+EMAC_SGMII_PHY_IRQ_CMD,VAR_3
+IRQ_GLOBAL_CLEAR,VAR_4
+SGMII_PHY_IRQ_CLR_WAIT_TIME,VAR_5
+net_err_ratelimited,FUNC_0
+readl_poll_timeout_atomic,FUNC_1
+wmb,FUNC_2
+writel_relaxed,FUNC_3
+emac_sgmii_irq_clear,FUNC_4
+adpt,VAR_6
+irq_bits,VAR_7
+phy,VAR_8
+status,VAR_9

@@ -1,0 +1,13 @@
+NETIF_F_IPV6_CSUM,VAR_0
+NETIF_F_IP_CSUM,VAR_1
+NETIF_F_RXCSUM,VAR_2
+netdev_priv,FUNC_0
+set_rx_csum,FUNC_1
+set_tx_csum,FUNC_2
+dpaa2_eth_set_features,FUNC_3
+net_dev,VAR_3
+features,VAR_4
+priv,VAR_5
+changed,VAR_6
+enable,VAR_7
+err,VAR_8

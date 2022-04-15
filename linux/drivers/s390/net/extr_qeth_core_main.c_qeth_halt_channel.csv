@@ -1,0 +1,15 @@
+CH_STATE_HALTED,VAR_0
+ERESTARTSYS,VAR_1
+ETIME,VAR_2
+QETH_CARD_TEXT,FUNC_0
+QETH_HALT_CHANNEL_PARM,VAR_3
+QETH_TIMEOUT,VAR_4
+ccw_device_halt,FUNC_1
+get_ccwdev_lock,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+wait_event_interruptible_timeout,FUNC_5
+qeth_halt_channel,FUNC_6
+card,VAR_5
+channel,VAR_6
+rc,VAR_7

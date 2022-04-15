@@ -1,0 +1,15 @@
+ETH1394_HDR_LF_IF,VAR_0
+ETH1394_HDR_LF_LF,VAR_1
+hdr_type_len,VAR_2
+htons,FUNC_0
+min,FUNC_1
+skb_pull,FUNC_2
+skb_push,FUNC_3
+ether1394_encapsulate,FUNC_4
+skb,VAR_3
+max_payload,VAR_4
+hdr,VAR_5
+bufhdr,VAR_6
+ftype,VAR_7
+hdrsz,VAR_8
+adj_max_payload,VAR_9

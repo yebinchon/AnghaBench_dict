@@ -1,0 +1,13 @@
+CStringGetDatum,FUNC_0
+DatumGetInetP,FUNC_1
+DirectFunctionCall1,FUNC_2
+PQgetisnull,FUNC_3
+PQgetvalue,FUNC_4
+inet_in,VAR_0
+ParseInetField,FUNC_5
+result,VAR_1
+rowIndex,VAR_2
+colIndex,VAR_3
+resultString,VAR_4
+resultStringDatum,VAR_5
+inetDatum,VAR_6

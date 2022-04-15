@@ -1,0 +1,15 @@
+AT91_RTT_ALMIEN,VAR_0
+AT91_RTT_RTTINCIEN,VAR_1
+MR,VAR_2
+at91_rtc_cache_events,FUNC_0
+at91_rtc_flush_events,FUNC_1
+pm_system_wakeup,FUNC_2
+rtt_readl,FUNC_3
+rtt_writel,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+at91_rtc_interrupt,FUNC_7
+irq,VAR_3
+_rtc,VAR_4
+rtc,VAR_5
+ret,VAR_6

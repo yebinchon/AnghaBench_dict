@@ -1,0 +1,17 @@
+CHANNEL_TLV_BULLETIN_UPDATE_MAC,VAR_0
+CHANNEL_TLV_LIST_END,VAR_1
+DP_VERBOSE,FUNC_0
+EINVAL,VAR_2
+QED_MSG_IOV,VAR_3
+ether_addr_copy,FUNC_1
+qed_add_tlv,FUNC_2
+qed_send_msg2pf,FUNC_3
+qed_vf_pf_prep,FUNC_4
+qed_vf_pf_req_end,FUNC_5
+qed_vf_pf_bulletin_update_mac,FUNC_6
+p_hwfn,VAR_4
+p_mac,VAR_5
+p_iov,VAR_6
+p_req,VAR_7
+p_resp,VAR_8
+rc,VAR_9

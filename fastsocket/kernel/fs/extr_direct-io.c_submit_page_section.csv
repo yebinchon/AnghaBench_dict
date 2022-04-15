@@ -1,0 +1,14 @@
+WRITE,VAR_0
+dio_send_cur_page,FUNC_0
+page_cache_get,FUNC_1
+page_cache_release,FUNC_2
+task_io_account_write,FUNC_3
+submit_page_section,FUNC_4
+dio,VAR_1
+sdio,VAR_2
+page,VAR_3
+offset,VAR_4
+len,VAR_5
+blocknr,VAR_6
+map_bh,VAR_7
+ret,VAR_8

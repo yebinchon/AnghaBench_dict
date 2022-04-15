@@ -1,0 +1,16 @@
+AMD_PRI_DEV_ERRATUM_ENABLE_RESET,VAR_0
+AMD_PRI_DEV_ERRATUM_LIMIT_REQ_ONE,VAR_1
+PAGE_SHIFT,VAR_2
+pci_disable_pasid,FUNC_0
+pci_disable_pri,FUNC_1
+pci_enable_ats,FUNC_2
+pci_enable_pasid,FUNC_3
+pci_enable_pri,FUNC_4
+pci_reset_pri,FUNC_5
+pdev_pri_erratum,FUNC_6
+pri_reset_while_enabled,FUNC_7
+pdev_iommuv2_enable,FUNC_8
+pdev,VAR_3
+reset_enable,VAR_4
+reqs,VAR_5
+ret,VAR_6

@@ -1,0 +1,13 @@
+MTKSWITCH_MAX_PHYS,VAR_0
+M_DEVBUF,VAR_1
+bus_generic_detach,FUNC_0
+callout_drain,FUNC_1
+device_delete_child,FUNC_2
+device_get_softc,FUNC_3
+free,FUNC_4
+if_free,FUNC_5
+mtx_destroy,FUNC_6
+mtkswitch_detach,FUNC_7
+dev,VAR_2
+sc,VAR_3
+phy,VAR_4

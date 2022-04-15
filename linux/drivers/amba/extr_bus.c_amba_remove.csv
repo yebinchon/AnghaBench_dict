@@ -1,0 +1,14 @@
+amba_put_disable_pclk,FUNC_0
+dev_pm_domain_detach,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_noidle,FUNC_4
+pm_runtime_set_suspended,FUNC_5
+stub1,FUNC_6
+to_amba_device,FUNC_7
+to_amba_driver,FUNC_8
+amba_remove,FUNC_9
+dev,VAR_0
+pcdev,VAR_1
+drv,VAR_2
+ret,VAR_3

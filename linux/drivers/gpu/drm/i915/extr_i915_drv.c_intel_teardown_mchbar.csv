@@ -1,0 +1,15 @@
+DEVEN,VAR_0
+DEVEN_MCHBAR_EN,VAR_1
+INTEL_GEN,FUNC_0
+IS_I915G,FUNC_1
+IS_I915GM,FUNC_2
+MCHBAR_I915,VAR_2
+MCHBAR_I965,VAR_3
+pci_read_config_dword,FUNC_3
+pci_write_config_dword,FUNC_4
+release_resource,FUNC_5
+intel_teardown_mchbar,FUNC_6
+dev_priv,VAR_4
+mchbar_reg,VAR_5
+deven_val,VAR_6
+mchbar_val,VAR_7

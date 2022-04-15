@@ -1,0 +1,17 @@
+LCK_MTX_ILOCKED_MSK,VAR_0
+LCK_MTX_MLOCKED_MSK,VAR_1
+LCK_MTX_SPIN_MSK,VAR_2
+LCK_MTX_TAG_INDIRECT,VAR_3
+LCK_MTX_WAITERS_MSK,VAR_4
+__improbable,FUNC_0
+assert,FUNC_1
+assertf,FUNC_2
+current_thread,FUNC_3
+get_indirect_mutex,FUNC_4
+get_preemption_level,FUNC_5
+lck_mtx_convert_spin_acquire_tail,FUNC_6
+lck_mtx_convert_spin_finish_inline,FUNC_7
+ordered_load_mtx_state,FUNC_8
+lck_mtx_convert_spin,FUNC_9
+lock,VAR_5
+state,VAR_6

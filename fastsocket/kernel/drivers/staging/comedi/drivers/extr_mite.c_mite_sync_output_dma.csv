@@ -1,0 +1,17 @@
+COMEDI_CB_BLOCK,VAR_0
+COMEDI_CB_OVERFLOW,VAR_1
+TRIG_COUNT,VAR_2
+cfc_bytes_per_scan,FUNC_0
+comedi_buf_read_alloc,FUNC_1
+comedi_buf_read_free,FUNC_2
+mite_bytes_read_from_memory_lb,FUNC_3
+mite_bytes_read_from_memory_ub,FUNC_4
+printk,FUNC_5
+mite_sync_output_dma,FUNC_6
+mite_chan,VAR_3
+async,VAR_4
+count,VAR_5
+nbytes_ub,VAR_6
+nbytes_lb,VAR_7
+old_alloc_count,VAR_8
+stop_count,VAR_9

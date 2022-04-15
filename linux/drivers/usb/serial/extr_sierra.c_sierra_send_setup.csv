@@ -1,0 +1,15 @@
+USB_CTRL_SET_TIMEOUT,VAR_0
+sierra_interface_num,FUNC_0
+usb_autopm_get_interface,FUNC_1
+usb_autopm_put_interface,FUNC_2
+usb_control_msg,FUNC_3
+usb_get_serial_port_data,FUNC_4
+usb_sndctrlpipe,FUNC_5
+sierra_send_setup,FUNC_6
+port,VAR_1
+serial,VAR_2
+portdata,VAR_3
+interface,VAR_4
+val,VAR_5
+do_send,VAR_6
+retval,VAR_7

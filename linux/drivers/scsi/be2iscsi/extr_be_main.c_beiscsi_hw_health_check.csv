@@ -1,0 +1,17 @@
+BEISCSI_HBA_UER_SUPP,VAR_0
+BEISCSI_UE_DETECT_INTERVAL,VAR_1
+KERN_ERR,VAR_2
+__beiscsi_log,FUNC_0
+beiscsi_detect_ue,FUNC_1
+beiscsi_hw_tpe_check,VAR_3
+from_timer,FUNC_2
+hw_check,VAR_4
+jiffies,VAR_5
+mod_timer,FUNC_3
+msecs_to_jiffies,FUNC_4
+phba,VAR_6
+queue_work,FUNC_5
+test_bit,FUNC_6
+beiscsi_hw_health_check,FUNC_7
+t,VAR_7
+phba,VAR_8

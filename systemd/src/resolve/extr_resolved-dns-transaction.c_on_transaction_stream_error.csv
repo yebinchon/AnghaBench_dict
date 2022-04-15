@@ -1,0 +1,11 @@
+DNS_PROTOCOL_LLMNR,VAR_0
+DNS_TRANSACTION_ERRNO,VAR_1
+DNS_TRANSACTION_NOT_FOUND,VAR_2
+ERRNO_IS_DISCONNECT,FUNC_0
+assert,FUNC_1
+dns_transaction_close_connection,FUNC_2
+dns_transaction_complete,FUNC_3
+dns_transaction_retry,FUNC_4
+on_transaction_stream_error,FUNC_5
+t,VAR_3
+error,VAR_4

@@ -1,0 +1,16 @@
+EP_ID_FOR_TRB,FUNC_0
+SLOT_ID_FOR_TRB,FUNC_1
+SUSPEND_PORT_FOR_TRB,FUNC_2
+TRB_STOP_RING,VAR_0
+TRB_TYPE,FUNC_3
+queue_command,FUNC_4
+xhci_queue_stop_endpoint,FUNC_5
+xhci,VAR_1
+cmd,VAR_2
+slot_id,VAR_3
+ep_index,VAR_4
+suspend,VAR_5
+trb_slot_id,VAR_6
+trb_ep_index,VAR_7
+type,VAR_8
+trb_suspend,VAR_9

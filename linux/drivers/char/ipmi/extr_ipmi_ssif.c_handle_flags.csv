@@ -1,0 +1,14 @@
+EVENT_MSG_BUFFER_FULL,VAR_0
+RECEIVE_MSG_AVAIL,VAR_1
+SSIF_NORMAL,VAR_2
+WDT_PRE_TIMEOUT_INT,VAR_3
+ipmi_smi_watchdog_pretimeout,FUNC_0
+ipmi_ssif_unlock_cond,FUNC_1
+ssif_inc_stat,FUNC_2
+start_clear_flags,FUNC_3
+start_event_fetch,FUNC_4
+start_recv_msg_fetch,FUNC_5
+watchdog_pretimeouts,VAR_4
+handle_flags,FUNC_6
+ssif_info,VAR_5
+flags,VAR_6

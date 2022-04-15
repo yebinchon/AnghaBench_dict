@@ -1,0 +1,15 @@
+IB_MR_REREG_ACCESS,VAR_0
+IB_MR_REREG_PD,VAR_1
+MLX5_IB_SEND_UMR_FAIL_IF_FREE,VAR_2
+MLX5_IB_SEND_UMR_UPDATE_PD_ACCESS,VAR_3
+MLX5_IB_WR_UMR,VAR_4
+mlx5_ib_post_send_wait,FUNC_0
+to_mdev,FUNC_1
+rereg_umr,FUNC_2
+pd,VAR_5
+mr,VAR_6
+access_flags,VAR_7
+flags,VAR_8
+dev,VAR_9
+umrwr,VAR_10
+err,VAR_11

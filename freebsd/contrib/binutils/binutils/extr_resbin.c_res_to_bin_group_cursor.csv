@@ -1,0 +1,14 @@
+BIN_GROUP_CURSOR_ITEM_SIZE,VAR_0
+BIN_GROUP_CURSOR_SIZE,VAR_1
+set_windres_bfd_content,FUNC_0
+windres_put_16,FUNC_1
+windres_put_32,FUNC_2
+res_to_bin_group_cursor,FUNC_3
+wrbfd,VAR_2
+off,VAR_3
+group_cursors,VAR_4
+c,VAR_5
+gc,VAR_6
+bgc,VAR_7
+bgci,VAR_8
+start,VAR_9

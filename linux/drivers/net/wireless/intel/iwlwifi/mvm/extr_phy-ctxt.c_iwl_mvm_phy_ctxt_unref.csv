@@ -1,0 +1,15 @@
+NL80211_BAND_2GHZ,VAR_0
+NL80211_CHAN_NO_HT,VAR_1
+NUM_NL80211_BANDS,VAR_2
+WARN_ON,FUNC_0
+WARN_ON_ONCE,FUNC_1
+cfg80211_chandef_create,FUNC_2
+iwl_mvm_phy_ctxt_changed,FUNC_3
+lockdep_assert_held,FUNC_4
+iwl_mvm_phy_ctxt_unref,FUNC_5
+mvm,VAR_3
+ctxt,VAR_4
+chan,VAR_5
+chandef,VAR_6
+sband,VAR_7
+band,VAR_8

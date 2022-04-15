@@ -1,0 +1,17 @@
+del_timer_sync,FUNC_0
+dev_attr_battery_percentage,VAR_0
+dev_attr_battery_voltage,VAR_1
+device_remove_file,FUNC_1
+free_irq,FUNC_2
+gpio_free,FUNC_3
+gpio_to_irq,FUNC_4
+led_trigger_unregister_simple,FUNC_5
+sharpsl_ac_isr,VAR_2
+sharpsl_charge_led_trigger,VAR_3
+sharpsl_chrg_full_isr,VAR_4
+sharpsl_fatal_isr,VAR_5
+sharpsl_pm,VAR_6
+stub1,FUNC_6
+suspend_set_ops,FUNC_7
+sharpsl_pm_remove,FUNC_8
+pdev,VAR_7

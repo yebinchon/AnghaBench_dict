@@ -1,0 +1,14 @@
+VM_FAULT_SIGBUS,VAR_0
+VM_MAYWRITE,VAR_1
+VM_WRITE,VAR_2
+ZERO_PAGE,FUNC_0
+__GFP_ZERO,VAR_3
+alloc_pages,FUNC_1
+get_page,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+rdma_umap_fault,FUNC_5
+vmf,VAR_4
+ufile,VAR_5
+priv,VAR_6
+ret,VAR_7

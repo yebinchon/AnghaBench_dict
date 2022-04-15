@@ -1,0 +1,17 @@
+DAS1800_CONTROL_C,VAR_0
+DAS1800_FIFO,VAR_1
+DAS1800_STATUS,VAR_2
+FNE,VAR_3
+TRIG_COUNT,VAR_4
+UB,VAR_5
+cfc_write_to_buffer,FUNC_0
+devpriv,VAR_6
+inb,FUNC_1
+inw,FUNC_2
+munge_bipolar_sample,FUNC_3
+das1800_handle_fifo_not_empty,FUNC_4
+dev,VAR_7
+s,VAR_8
+dpnt,VAR_9
+unipolar,VAR_10
+cmd,VAR_11

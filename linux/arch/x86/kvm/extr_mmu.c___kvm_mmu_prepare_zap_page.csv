@@ -1,0 +1,17 @@
+is_obsolete_sp,FUNC_0
+kvm_mmu_page_unlink_children,FUNC_1
+kvm_mmu_unlink_parents,FUNC_2
+kvm_mod_used_mmu_pages,FUNC_3
+kvm_reload_remote_mmus,FUNC_4
+kvm_unlink_unsync_page,FUNC_5
+list_move,FUNC_6
+mmu_zap_unsync_children,FUNC_7
+trace_kvm_mmu_prepare_zap_page,FUNC_8
+unaccount_huge_nx_page,FUNC_9
+unaccount_shadowed,FUNC_10
+__kvm_mmu_prepare_zap_page,FUNC_11
+kvm,VAR_0
+sp,VAR_1
+invalid_list,VAR_2
+nr_zapped,VAR_3
+list_unstable,VAR_4

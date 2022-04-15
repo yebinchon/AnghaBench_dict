@@ -1,0 +1,17 @@
+ConvertSidToStringSidA,FUNC_0
+ERROR_NONE_MAPPED,VAR_0
+GetLastError,FUNC_1
+LocalFree,FUNC_2
+LookupAccountSidA,FUNC_3
+MAX_PATH,VAR_1
+ok,FUNC_4
+trace,FUNC_5
+test_sid_str,FUNC_6
+sid,VAR_2
+str_sid,VAR_3
+ret,VAR_4
+account,VAR_5
+domain,VAR_6
+use,VAR_7
+acc_size,VAR_8
+dom_size,VAR_9

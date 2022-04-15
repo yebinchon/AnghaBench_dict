@@ -1,0 +1,16 @@
+AC_VERB_SET_CVT_CHAN_COUNT,VAR_0
+AC_VERB_SET_HDMI_CHAN_SLOT,VAR_1
+get_cvt,FUNC_0
+simple_playback_pcm_prepare,FUNC_1
+snd_hda_codec_write,FUNC_2
+atihdmi_playback_pcm_prepare,FUNC_3
+hinfo,VAR_2
+codec,VAR_3
+stream_tag,VAR_4
+format,VAR_5
+substream,VAR_6
+spec,VAR_7
+per_cvt,VAR_8
+chans,VAR_9
+i,VAR_10
+err,VAR_11

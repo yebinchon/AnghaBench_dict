@@ -1,0 +1,14 @@
+DA7218_EVENT,VAR_0
+DA7218_HPLDET_JACK_EVENT_MASK,VAR_1
+DA7218_LVL_DET_EVENT_MASK,VAR_2
+IRQ_HANDLED,VAR_3
+IRQ_NONE,VAR_4
+da7218_hpldet_irq,FUNC_0
+da7218_micldet_irq,FUNC_1
+snd_soc_component_read32,FUNC_2
+snd_soc_component_write,FUNC_3
+da7218_irq_thread,FUNC_4
+irq,VAR_5
+data,VAR_6
+component,VAR_7
+status,VAR_8

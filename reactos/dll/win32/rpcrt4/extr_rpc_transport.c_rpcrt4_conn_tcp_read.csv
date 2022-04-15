@@ -1,0 +1,14 @@
+TRACE,FUNC_0
+WARN,FUNC_1
+WSAEINTR,VAR_0
+WSAEWOULDBLOCK,VAR_1
+WSAGetLastError,FUNC_2
+recv,FUNC_3
+rpcrt4_sock_wait_for_recv,FUNC_4
+rpcrt4_conn_tcp_read,FUNC_5
+Connection,VAR_2
+buffer,VAR_3
+count,VAR_4
+tcpc,VAR_5
+bytes_read,VAR_6
+r,VAR_7

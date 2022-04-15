@@ -1,0 +1,12 @@
+RF_ACTIVE,VAR_0
+RF_SHAREABLE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_0
+device_get_softc,FUNC_1
+freeze_timebase,VAR_3
+mpc85xx_rcpm_freeze_timebase,VAR_4
+rcpm_dev,VAR_5
+mpc85xx_rcpm_attach,FUNC_2
+dev,VAR_6
+sc,VAR_7
+rid,VAR_8

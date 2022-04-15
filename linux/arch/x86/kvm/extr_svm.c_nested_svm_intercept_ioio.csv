@@ -1,0 +1,15 @@
+INTERCEPT_IOIO_PROT,VAR_0
+NESTED_EXIT_DONE,VAR_1
+NESTED_EXIT_HOST,VAR_2
+SVM_IOIO_SIZE_MASK,VAR_3
+SVM_IOIO_SIZE_SHIFT,VAR_4
+kvm_vcpu_read_guest,FUNC_0
+nested_svm_intercept_ioio,FUNC_1
+svm,VAR_5
+port,VAR_6
+size,VAR_7
+iopm_len,VAR_8
+val,VAR_9
+mask,VAR_10
+start_bit,VAR_11
+gpa,VAR_12

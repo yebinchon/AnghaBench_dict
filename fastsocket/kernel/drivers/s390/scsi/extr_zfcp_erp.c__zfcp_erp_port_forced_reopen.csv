@@ -1,0 +1,11 @@
+ZFCP_ERP_ACTION_REOPEN_PORT_FORCED,VAR_0
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_1
+atomic_read,FUNC_0
+zfcp_erp_action_enqueue,FUNC_1
+zfcp_erp_port_block,FUNC_2
+zfcp_scsi_schedule_rport_block,FUNC_3
+_zfcp_erp_port_forced_reopen,FUNC_4
+port,VAR_2
+clear,VAR_3
+id,VAR_4
+ref,VAR_5

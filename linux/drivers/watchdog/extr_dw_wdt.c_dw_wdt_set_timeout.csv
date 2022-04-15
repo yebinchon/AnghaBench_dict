@@ -1,0 +1,12 @@
+DW_WDT_MAX_TOP,VAR_0
+WDOG_TIMEOUT_RANGE_REG_OFFSET,VAR_1
+WDOG_TIMEOUT_RANGE_TOPINIT_SHIFT,VAR_2
+dw_wdt_top_in_seconds,FUNC_0
+to_dw_wdt,FUNC_1
+writel,FUNC_2
+dw_wdt_set_timeout,FUNC_3
+wdd,VAR_3
+top_s,VAR_4
+dw_wdt,VAR_5
+i,VAR_6
+top_val,VAR_7

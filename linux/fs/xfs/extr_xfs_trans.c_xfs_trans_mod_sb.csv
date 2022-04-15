@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+SHUTDOWN_CORRUPT_INCORE,VAR_0
+XFS_TRANS_DIRTY,VAR_1
+XFS_TRANS_SB_DIRTY,VAR_2
+xfs_force_shutdown,FUNC_1
+xfs_sb_version_haslazysbcount,FUNC_2
+xfs_trans_mod_sb,FUNC_3
+tp,VAR_3
+field,VAR_4
+delta,VAR_5
+flags,VAR_6
+mp,VAR_7

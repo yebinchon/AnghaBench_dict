@@ -1,0 +1,10 @@
+HDLCD_REG_COMMAND,VAR_0
+clk_prepare_enable,FUNC_0
+crtc_to_hdlcd_priv,FUNC_1
+drm_crtc_vblank_on,FUNC_2
+hdlcd_crtc_mode_set_nofb,FUNC_3
+hdlcd_write,FUNC_4
+hdlcd_crtc_atomic_enable,FUNC_5
+crtc,VAR_1
+old_state,VAR_2
+hdlcd,VAR_3

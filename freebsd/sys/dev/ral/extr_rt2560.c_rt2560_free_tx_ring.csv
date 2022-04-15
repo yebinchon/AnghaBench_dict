@@ -1,0 +1,15 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+M_DEVBUF,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+bus_dmamem_free,FUNC_4
+free,FUNC_5
+ieee80211_free_node,FUNC_6
+m_freem,FUNC_7
+rt2560_free_tx_ring,FUNC_8
+sc,VAR_2
+ring,VAR_3
+data,VAR_4
+i,VAR_5

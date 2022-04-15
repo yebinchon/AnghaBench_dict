@@ -1,0 +1,13 @@
+BSS_CHANGED_IDLE,VAR_0
+NL80211_IFTYPE_MONITOR,VAR_1
+NL80211_IFTYPE_P2P_DEVICE,VAR_2
+drv_assign_vif_chanctx,FUNC_0
+ieee80211_bss_info_change_notify,FUNC_1
+ieee80211_recalc_txpower,FUNC_2
+lockdep_assert_held,FUNC_3
+rcu_assign_pointer,FUNC_4
+ieee80211_assign_vif_chanctx,FUNC_5
+sdata,VAR_3
+ctx,VAR_4
+local,VAR_5
+ret,VAR_6

@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+MUTEX_HELD,FUNC_1
+RW_LOCK_HELD,FUNC_2
+ZVOL_HT_HEAD,FUNC_3
+get_disk_ro,FUNC_4
+hlist_add_head,FUNC_5
+hlist_del,FUNC_6
+set_disk_ro,FUNC_7
+strlcpy,FUNC_8
+zvol_name_hash,FUNC_9
+zvol_state_lock,VAR_0
+zvol_rename_minor,FUNC_10
+zv,VAR_1
+newname,VAR_2
+readonly,VAR_3

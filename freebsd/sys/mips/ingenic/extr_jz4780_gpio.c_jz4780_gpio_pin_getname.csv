@@ -1,0 +1,10 @@
+EINVAL,VAR_0
+GPIOMAXNAME,VAR_1
+JZ4780_GPIO_PINS,VAR_2
+device_get_softc,FUNC_0
+strncpy,FUNC_1
+jz4780_gpio_pin_getname,FUNC_2
+dev,VAR_3
+pin,VAR_4
+name,VAR_5
+sc,VAR_6

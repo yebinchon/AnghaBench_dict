@@ -1,0 +1,11 @@
+__bond_opt_set_notify,FUNC_0
+bond_opt_initstr,FUNC_1
+restart_syscall,FUNC_2
+rtnl_trylock,FUNC_3
+rtnl_unlock,FUNC_4
+bond_opt_tryset_rtnl,FUNC_5
+bond,VAR_0
+option,VAR_1
+buf,VAR_2
+optval,VAR_3
+ret,VAR_4

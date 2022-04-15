@@ -1,0 +1,17 @@
+DBG_INTR_TYPE_PMI,VAR_0
+DBG_INTR_TYPE_TIMER,VAR_1
+DBG_INTR_TYPE_UNKNOWN,VAR_2
+TRUE,VAR_3
+getCpuDatap,FUNC_0
+get_preemption_level,FUNC_1
+ml_get_timer_pending,FUNC_2
+mt_fiq,FUNC_3
+mt_pmi_pending,FUNC_4
+panic,FUNC_5
+rtclock_intr,FUNC_6
+sleh_interrupt_handler_epilogue,FUNC_7
+sleh_interrupt_handler_prologue,FUNC_8
+sleh_fiq,FUNC_9
+state,VAR_4
+type,VAR_5
+cdp,VAR_6

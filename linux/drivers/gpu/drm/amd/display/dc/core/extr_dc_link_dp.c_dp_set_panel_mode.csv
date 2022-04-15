@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+DC_LOG_DETECTION_DP_CAPS,FUNC_1
+DDC_RESULT_SUCESSFULL,VAR_0
+DDC_RESULT_UNKNOWN,VAR_1
+DP_EDP_CONFIGURATION_SET,VAR_2
+DP_PANEL_MODE_DEFAULT,VAR_3
+core_link_read_dpcd,FUNC_2
+core_link_write_dpcd,FUNC_3
+memset,FUNC_4
+dp_set_panel_mode,FUNC_5
+link,VAR_4
+panel_mode,VAR_5
+edp_config_set,VAR_6
+panel_mode_edp,VAR_7
+result,VAR_8

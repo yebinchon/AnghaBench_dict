@@ -1,0 +1,11 @@
+BRCMF_H2D_TXFLOWRING_ITEMSIZE,VAR_0
+BRCMF_H2D_TXFLOWRING_MAX_ITEM,VAR_1
+MSGBUF,VAR_2
+brcmf_dbg,FUNC_0
+brcmf_flowring_delete,FUNC_1
+dma_free_coherent,FUNC_2
+brcmf_msgbuf_remove_flowring,FUNC_3
+msgbuf,VAR_3
+flowid,VAR_4
+dma_sz,VAR_5
+dma_buf,VAR_6

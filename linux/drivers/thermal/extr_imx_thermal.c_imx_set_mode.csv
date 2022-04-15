@@ -1,0 +1,16 @@
+IMX_PASSIVE_DELAY,VAR_0
+IMX_POLLING_DELAY,VAR_1
+REG_CLR,VAR_2
+REG_SET,VAR_3
+THERMAL_DEVICE_ENABLED,VAR_4
+THERMAL_EVENT_UNSPECIFIED,VAR_5
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+regmap_write,FUNC_2
+thermal_zone_device_update,FUNC_3
+imx_set_mode,FUNC_4
+tz,VAR_6
+mode,VAR_7
+data,VAR_8
+map,VAR_9
+soc_data,VAR_10

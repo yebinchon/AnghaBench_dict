@@ -1,0 +1,14 @@
+ACPI_ADR_SPACE_EC,VAR_0
+ACPI_COMPANION,FUNC_0
+ACPI_DEVICE_NOTIFY,VAR_1
+MKDEV,FUNC_1
+acpi_remove_address_space_handler,FUNC_2
+acpi_remove_notify_handler,FUNC_3
+acpi_wmi_ec_space_handler,VAR_2
+acpi_wmi_notify_handler,VAR_3
+device_destroy,FUNC_4
+wmi_bus_class,VAR_4
+wmi_free_devices,FUNC_5
+acpi_wmi_remove,FUNC_6
+device,VAR_5
+acpi_device,VAR_6

@@ -1,0 +1,14 @@
+ZIP64_DIR_TRAILER_LOCATOR_SIZE,VAR_0
+ZIP64_DIR_TRAILER_RECORD_SIZE,VAR_1
+ZIP64_DIR_TRAILER_SIZE,VAR_2
+copy_le16,FUNC_0
+copy_le32,FUNC_1
+copy_le64,FUNC_2
+max_creator_version,VAR_3
+write_or_die,FUNC_3
+zip_dir,VAR_4
+zip_dir_entries,VAR_5
+zip_offset,VAR_6
+write_zip64_trailer,FUNC_4
+trailer64,VAR_7
+locator64,VAR_8

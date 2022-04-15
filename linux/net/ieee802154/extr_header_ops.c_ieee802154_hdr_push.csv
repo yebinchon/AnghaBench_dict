@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+IEEE802154_ADDR_NONE,VAR_1
+IEEE802154_MAX_HEADER_LEN,VAR_2
+ieee802154_hdr_push_addr,FUNC_0
+ieee802154_hdr_push_sechdr,FUNC_1
+memcpy,FUNC_2
+skb_push,FUNC_3
+ieee802154_hdr_push,FUNC_4
+skb,VAR_3
+hdr,VAR_4
+buf,VAR_5
+pos,VAR_6
+rc,VAR_7
+fc,VAR_8

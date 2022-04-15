@@ -1,0 +1,15 @@
+REDIS_OK,VAR_0
+REDIS_REPLY_ERROR,VAR_1
+REDIS_REPLY_INTEGER,VAR_2
+context,VAR_3
+exit,FUNC_0
+fprintf,FUNC_1
+freeReplyObject,FUNC_2
+redisAppendCommand,FUNC_3
+redisGetReply,FUNC_4
+stderr,VAR_4
+getKeyFreqs,FUNC_5
+keys,VAR_5
+freqs,VAR_6
+reply,VAR_7
+i,VAR_8

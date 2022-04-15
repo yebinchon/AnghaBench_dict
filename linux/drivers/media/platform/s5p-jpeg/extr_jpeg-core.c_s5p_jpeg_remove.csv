@@ -1,0 +1,12 @@
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_status_suspended,FUNC_3
+v4l2_device_unregister,FUNC_4
+v4l2_m2m_release,FUNC_5
+vb2_dma_contig_clear_max_seg_size,FUNC_6
+video_unregister_device,FUNC_7
+s5p_jpeg_remove,FUNC_8
+pdev,VAR_0
+jpeg,VAR_1
+i,VAR_2

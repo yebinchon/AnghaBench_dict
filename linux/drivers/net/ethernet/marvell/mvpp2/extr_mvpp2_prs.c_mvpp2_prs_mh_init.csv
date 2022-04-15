@@ -1,0 +1,16 @@
+MVPP2_MH_SIZE,VAR_0
+MVPP2_PE_MH_DEFAULT,VAR_1
+MVPP2_PRS_LU_MAC,VAR_2
+MVPP2_PRS_LU_MH,VAR_3
+MVPP2_PRS_PORT_MASK,VAR_4
+MVPP2_PRS_SRAM_OP_SEL_SHIFT_ADD,VAR_5
+memset,FUNC_0
+mvpp2_prs_hw_write,FUNC_1
+mvpp2_prs_shadow_set,FUNC_2
+mvpp2_prs_sram_next_lu_set,FUNC_3
+mvpp2_prs_sram_shift_set,FUNC_4
+mvpp2_prs_tcam_lu_set,FUNC_5
+mvpp2_prs_tcam_port_map_set,FUNC_6
+mvpp2_prs_mh_init,FUNC_7
+priv,VAR_6
+pe,VAR_7

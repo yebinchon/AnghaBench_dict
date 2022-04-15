@@ -1,0 +1,17 @@
+ARCHE_PLATFORM_STATE_ACTIVE,VAR_0
+ARCHE_PLATFORM_STATE_FW_FLASHING,VAR_1
+IS_ERR,FUNC_0
+apb_bootret_deassert,FUNC_1
+assert_reset,FUNC_2
+deassert_reset,FUNC_3
+dev_err,FUNC_4
+devm_gpiod_put,FUNC_5
+gpiod_set_value,FUNC_6
+platform_get_drvdata,FUNC_7
+regulator_enable,FUNC_8
+usleep_range,FUNC_9
+coldboot_seq,FUNC_10
+pdev,VAR_2
+dev,VAR_3
+apb,VAR_4
+ret,VAR_5

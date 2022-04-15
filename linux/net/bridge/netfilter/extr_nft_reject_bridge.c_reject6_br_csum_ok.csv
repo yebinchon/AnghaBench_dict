@@ -1,0 +1,15 @@
+htons,FUNC_0
+ipv6_hdr,FUNC_1
+ipv6_skip_exthdr,FUNC_2
+nf_ip6_checksum,FUNC_3
+nf_reject_verify_csum,FUNC_4
+ntohs,FUNC_5
+pskb_trim_rcsum,FUNC_6
+skb_csum_unnecessary,FUNC_7
+reject6_br_csum_ok,FUNC_8
+skb,VAR_0
+hook,VAR_1
+ip6h,VAR_2
+thoff,VAR_3
+fo,VAR_4
+proto,VAR_5

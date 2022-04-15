@@ -1,0 +1,14 @@
+QUEUE_FLAG_DEAD,VAR_0
+QUEUE_FLAG_NOMERGES,VAR_1
+blk_drain_queue,FUNC_0
+blk_put_queue,FUNC_1
+blk_sync_queue,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+queue_flag_set,FUNC_5
+queue_flag_set_unlocked,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+blk_cleanup_queue,FUNC_9
+q,VAR_2
+lock,VAR_3

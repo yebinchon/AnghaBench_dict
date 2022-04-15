@@ -1,0 +1,8 @@
+kvm_mmu_invlpg,FUNC_0
+kvm_rax_read,FUNC_1
+kvm_rcx_read,FUNC_2
+kvm_skip_emulated_instruction,FUNC_3
+trace_kvm_invlpga,FUNC_4
+invlpga_interception,FUNC_5
+svm,VAR_0
+vcpu,VAR_1

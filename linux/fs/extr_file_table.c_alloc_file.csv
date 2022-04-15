@@ -1,0 +1,16 @@
+FMODE_CAN_READ,VAR_0
+FMODE_CAN_WRITE,VAR_1
+FMODE_OPENED,VAR_2
+FMODE_READ,VAR_3
+FMODE_WRITE,VAR_4
+IS_ERR,FUNC_0
+alloc_empty_file,FUNC_1
+current_cred,FUNC_2
+filemap_sample_wb_err,FUNC_3
+i_readcount_inc,FUNC_4
+likely,FUNC_5
+alloc_file,FUNC_6
+path,VAR_5
+flags,VAR_6
+fop,VAR_7
+file,VAR_8

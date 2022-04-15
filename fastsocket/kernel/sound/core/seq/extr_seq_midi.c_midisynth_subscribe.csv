@@ -1,0 +1,17 @@
+SNDRV_RAWMIDI_LFLG_INPUT,VAR_0
+input_buffer_size,VAR_1
+memset,FUNC_0
+snd_midi_event_reset_encode,FUNC_1
+snd_midi_input_event,VAR_2
+snd_printd,FUNC_2
+snd_rawmidi_input_params,FUNC_3
+snd_rawmidi_kernel_open,FUNC_4
+snd_rawmidi_kernel_read,FUNC_5
+snd_rawmidi_kernel_release,FUNC_6
+midisynth_subscribe,FUNC_7
+private_data,VAR_3
+info,VAR_4
+err,VAR_5
+msynth,VAR_6
+runtime,VAR_7
+params,VAR_8

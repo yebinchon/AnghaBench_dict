@@ -1,0 +1,11 @@
+hpts_sane_input_insert,FUNC_0
+intotcpcb,FUNC_1
+mtx_unlock,FUNC_2
+tcp_input_lock,FUNC_3
+tcp_wakeinput,FUNC_4
+__tcp_set_inp_to_drop,FUNC_5
+inp,VAR_0
+reason,VAR_1
+line,VAR_2
+hpts,VAR_3
+tp,VAR_4

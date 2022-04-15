@@ -1,0 +1,15 @@
+RSA_NO_PADDING,VAR_0
+RSA_PKCS1_OAEP_PADDING,VAR_1
+RSA_padding_add_PKCS1_OAEP_mgf1,FUNC_0
+RSA_public_encrypt,FUNC_1
+RSA_size,FUNC_2
+setup_tbuf,FUNC_3
+pkey_rsa_encrypt,FUNC_4
+ctx,VAR_2
+out,VAR_3
+outlen,VAR_4
+in,VAR_5
+inlen,VAR_6
+ret,VAR_7
+rctx,VAR_8
+klen,VAR_9

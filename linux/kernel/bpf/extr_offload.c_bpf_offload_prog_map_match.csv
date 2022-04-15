@@ -1,0 +1,12 @@
+__bpf_offload_dev_match,FUNC_0
+bpf_devs_lock,VAR_0
+bpf_map_is_dev_bound,FUNC_1
+bpf_map_offload_neutral,FUNC_2
+down_read,FUNC_3
+map_to_offmap,FUNC_4
+up_read,FUNC_5
+bpf_offload_prog_map_match,FUNC_6
+prog,VAR_1
+map,VAR_2
+offmap,VAR_3
+ret,VAR_4

@@ -1,0 +1,12 @@
+SSH2_MSG_EXT_INFO,VAR_0
+SSH_ERR_ALLOC_FAIL,VAR_1
+free,FUNC_0
+sshkey_alg_list,FUNC_1
+sshpkt_put_cstring,FUNC_2
+sshpkt_put_u32,FUNC_3
+sshpkt_send,FUNC_4
+sshpkt_start,FUNC_5
+kex_send_ext_info,FUNC_6
+ssh,VAR_2
+r,VAR_3
+algs,VAR_4

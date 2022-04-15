@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+V4L2_TUNER_ANALOG_TV,VAR_1
+V4L2_TUNER_CAP_NORM,VAR_2
+call_all,FUNC_0
+check_dev,FUNC_1
+g_tuner,VAR_3
+strscpy,FUNC_2
+tuner,VAR_4
+cx231xx_g_tuner,FUNC_3
+file,VAR_5
+priv,VAR_6
+t,VAR_7
+fh,VAR_8
+dev,VAR_9
+rc,VAR_10

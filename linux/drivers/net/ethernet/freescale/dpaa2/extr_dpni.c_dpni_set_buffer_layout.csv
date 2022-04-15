@@ -1,0 +1,16 @@
+DPNI_CMDID_SET_BUFFER_LAYOUT,VAR_0
+PASS_FS,VAR_1
+PASS_PR,VAR_2
+PASS_TS,VAR_3
+cpu_to_le16,FUNC_0
+dpni_set_field,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpni_set_buffer_layout,FUNC_4
+mc_io,VAR_4
+cmd_flags,VAR_5
+token,VAR_6
+qtype,VAR_7
+layout,VAR_8
+cmd,VAR_9
+cmd_params,VAR_10

@@ -1,0 +1,8 @@
+cl_git_pass,FUNC_0
+g_repo,VAR_0
+g_tx,VAR_1
+git_transaction_free,FUNC_1
+git_transaction_lock_ref,FUNC_2
+git_transaction_new,FUNC_3
+test_refs_transactions__free_unlocks_unmodified_ref,FUNC_4
+second_tx,VAR_2

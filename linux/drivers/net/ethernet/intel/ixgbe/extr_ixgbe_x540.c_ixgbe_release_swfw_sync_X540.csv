@@ -1,0 +1,14 @@
+IXGBE_GSSR_I2C_MASK,VAR_0
+IXGBE_GSSR_NVM_PHY_MASK,VAR_1
+IXGBE_GSSR_SW_MNG_SM,VAR_2
+IXGBE_READ_REG,FUNC_0
+IXGBE_SWFW_SYNC,FUNC_1
+IXGBE_WRITE_REG,FUNC_2
+ixgbe_get_swfw_sync_semaphore,FUNC_3
+ixgbe_release_swfw_sync_semaphore,FUNC_4
+usleep_range,FUNC_5
+ixgbe_release_swfw_sync_X540,FUNC_6
+hw,VAR_3
+mask,VAR_4
+swmask,VAR_5
+swfw_sync,VAR_6

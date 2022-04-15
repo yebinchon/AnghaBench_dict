@@ -1,0 +1,14 @@
+FIELD_PREP,FUNC_0
+MT_TXD_INFO_D_PORT,VAR_0
+MT_TXD_INFO_LEN,VAR_1
+MT_TXD_INFO_TYPE,VAR_2
+put_unaligned_le32,FUNC_1
+round_up,FUNC_2
+skb_push,FUNC_3
+skb_put_padto,FUNC_4
+mt7601u_dma_skb_wrap,FUNC_5
+skb,VAR_3
+d_port,VAR_4
+type,VAR_5
+flags,VAR_6
+info,VAR_7

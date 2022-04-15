@@ -1,0 +1,12 @@
+EnterCriticalSection,FUNC_0
+FreeLibrary,FUNC_1
+GetProcessHeap,FUNC_2
+HeapFree,FUNC_3
+InterlockedDecrement,FUNC_4
+LeaveCriticalSection,FUNC_5
+TRACE,FUNC_6
+csOpenDllList,VAR_0
+list_remove,FUNC_7
+COMPOBJ_DllList_ReleaseRef,FUNC_8
+entry,VAR_1
+free_entry,VAR_2

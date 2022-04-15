@@ -1,0 +1,9 @@
+EBUSY,VAR_0
+MPC52xx_GPT_IS_WDT,VAR_1
+MPC52xx_GPT_MODE_COUNTER_ENABLE,VAR_2
+clrbits32,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+mpc52xx_gpt_stop_timer,FUNC_3
+gpt,VAR_3
+flags,VAR_4

@@ -1,0 +1,10 @@
+drm_helper_force_disable_all,FUNC_0
+drm_kms_helper_poll_fini,FUNC_1
+drm_mode_config_cleanup,FUNC_2
+kfree,FUNC_3
+radeon_afmt_fini,FUNC_4
+radeon_fbdev_fini,FUNC_5
+radeon_hpd_fini,FUNC_6
+radeon_i2c_fini,FUNC_7
+radeon_modeset_fini,FUNC_8
+rdev,VAR_0

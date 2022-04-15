@@ -1,0 +1,17 @@
+H2O_HTTP3_ERROR_FRAME_UNEXPECTED,VAR_0
+H2O_HTTP3_ERROR_INCOMPLETE,VAR_1
+H2O_HTTP3_FRAME_TYPE_DATA,VAR_2
+H2O_HTTP3_FRAME_TYPE_SETTINGS,VAR_3
+H2O_HTTP3_STREAM_TYPE_CONTROL,VAR_4
+h2o_http3_has_received_settings,FUNC_0
+h2o_http3_read_frame,FUNC_1
+quicly_is_client,FUNC_2
+stub1,FUNC_3
+control_stream_handle_input,FUNC_4
+conn,VAR_5
+stream,VAR_6
+src,VAR_7
+src_end,VAR_8
+err_desc,VAR_9
+frame,VAR_10
+ret,VAR_11

@@ -1,0 +1,17 @@
+ATPIC_MASTER,VAR_0
+ATPIC_SLAVE,VAR_1
+BUS_ADD_CHILD,FUNC_0
+IO_ICU1,VAR_2
+IO_ICU2,VAR_3
+ISA_ORDER_SENSITIVE,VAR_4
+SYS_RES_IOPORT,VAR_5
+SYS_RES_IRQ,VAR_6
+atpic_ids,VAR_7
+bus_set_resource,FUNC_1
+device_set_driver,FUNC_2
+isa_set_logicalid,FUNC_3
+isa_set_vendorid,FUNC_4
+atpic_isa_identify,FUNC_5
+drv,VAR_8
+parent,VAR_9
+child,VAR_10

@@ -1,0 +1,12 @@
+MEGASAS_ADPRESET_INPROG_SIGN,VAR_0
+MEGASAS_ADPRESET_SM_INFAULT,VAR_1
+PCI_DEVICE_ID_DELL_PERC5,VAR_2
+PCI_DEVICE_ID_LSI_SAS1064R,VAR_3
+PCI_DEVICE_ID_LSI_VERDE_ZCR,VAR_4
+atomic_set,FUNC_0
+cpu_to_le32,FUNC_1
+megasas_internal_reset_defer_cmds,FUNC_2
+process_fw_state_change_wq,FUNC_3
+stub1,FUNC_4
+megasas_do_ocr,FUNC_5
+instance,VAR_5

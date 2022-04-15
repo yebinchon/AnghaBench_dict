@@ -1,0 +1,11 @@
+ATA_DMA_INTR,VAR_0
+ATA_DMA_STATUS,VAR_1
+inb,FUNC_0
+pci_read_config_word,FUNC_1
+to_pci_dev,FUNC_2
+hpt374_dma_test_irq,FUNC_3
+drive,VAR_2
+hwif,VAR_3
+dev,VAR_4
+bfifo,VAR_5
+dma_stat,VAR_6

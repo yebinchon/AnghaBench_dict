@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+I915_EXEC_FENCE_WAIT,VAR_1
+dma_fence_put,FUNC_0
+drm_syncobj_fence_get,FUNC_1
+i915_request_await_dma_fence,FUNC_2
+ptr_unpack_bits,FUNC_3
+await_fence_array,FUNC_4
+eb,VAR_2
+fences,VAR_3
+nfences,VAR_4
+n,VAR_5
+err,VAR_6
+syncobj,VAR_7
+fence,VAR_8
+flags,VAR_9

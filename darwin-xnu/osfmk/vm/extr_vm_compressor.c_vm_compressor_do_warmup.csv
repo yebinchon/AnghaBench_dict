@@ -1,0 +1,12 @@
+TRUE,VAR_0
+c_compressor_swap_trigger,VAR_1
+c_list_lock,VAR_2
+compaction_swapper_awakened,VAR_3
+compaction_swapper_running,VAR_4
+fastwake_warmup,VAR_5
+first_c_segment_to_warm_generation_id,VAR_6
+last_c_segment_to_warm_generation_id,VAR_7
+lck_mtx_lock_spin_always,FUNC_0
+lck_mtx_unlock_always,FUNC_1
+thread_wakeup,FUNC_2
+vm_compressor_do_warmup,FUNC_3

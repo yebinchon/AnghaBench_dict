@@ -1,0 +1,14 @@
+ERROR_SUCCESS,VAR_0
+MsiCloseHandle,FUNC_0
+MsiGetSummaryInformationA,FUNC_1
+MsiSummaryInfoPersist,FUNC_2
+MsiSummaryInfoSetPropertyA,FUNC_3
+PID_REVNUMBER,VAR_1
+VT_I4,VAR_2
+VT_LPSTR,VAR_3
+ok,FUNC_4
+set_summary_info,FUNC_5
+hdb,VAR_4
+prodcode,VAR_5
+res,VAR_6
+suminfo,VAR_7

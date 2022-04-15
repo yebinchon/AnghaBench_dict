@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+IPPROTO_IPV6,VAR_1
+advance_nextseg,FUNC_0
+dst_input,FUNC_1
+get_and_validate_srh,FUNC_2
+htons,FUNC_3
+ipv6_hdr,FUNC_4
+kfree_skb,FUNC_5
+seg6_do_srh_encap,FUNC_6
+seg6_lookup_nexthop,FUNC_7
+skb_reset_inner_headers,FUNC_8
+skb_set_transport_header,FUNC_9
+input_action_end_b6_encap,FUNC_10
+skb,VAR_2
+slwt,VAR_3
+srh,VAR_4
+err,VAR_5

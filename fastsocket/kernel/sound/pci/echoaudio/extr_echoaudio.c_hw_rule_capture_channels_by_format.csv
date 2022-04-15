@@ -1,0 +1,14 @@
+SNDRV_PCM_FMTBIT_S32_BE,VAR_0
+SNDRV_PCM_FMTBIT_U8,VAR_1
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_2
+SNDRV_PCM_HW_PARAM_FORMAT,VAR_3
+hw_param_interval,FUNC_0
+hw_param_mask,FUNC_1
+snd_interval_any,FUNC_2
+snd_interval_refine,FUNC_3
+hw_rule_capture_channels_by_format,FUNC_4
+params,VAR_4
+rule,VAR_5
+c,VAR_6
+f,VAR_7
+ch,VAR_8

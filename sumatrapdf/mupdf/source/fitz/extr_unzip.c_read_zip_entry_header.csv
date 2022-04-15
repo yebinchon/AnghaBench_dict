@@ -1,0 +1,17 @@
+FZ_ERROR_GENERIC,VAR_0
+ZIP_ENCRYPTED_FLAG,VAR_1
+ZIP_LOCAL_FILE_SIG,VAR_2
+fz_read_uint16_le,FUNC_0
+fz_read_uint32_le,FUNC_1
+fz_seek,FUNC_2
+fz_throw,FUNC_3
+read_zip_entry_header,FUNC_4
+ctx,VAR_3
+zip,VAR_4
+ent,VAR_5
+file,VAR_6
+sig,VAR_7
+general,VAR_8
+method,VAR_9
+namelength,VAR_10
+extralength,VAR_11

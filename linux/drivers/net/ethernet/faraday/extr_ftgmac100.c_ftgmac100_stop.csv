@@ -1,0 +1,15 @@
+FTGMAC100_OFFSET_IER,VAR_0
+free_irq,FUNC_0
+ftgmac100_free_buffers,FUNC_1
+ftgmac100_free_rings,FUNC_2
+ftgmac100_stop_hw,FUNC_3
+iowrite32,FUNC_4
+napi_disable,FUNC_5
+ncsi_stop_dev,FUNC_6
+netdev_priv,FUNC_7
+netif_napi_del,FUNC_8
+netif_stop_queue,FUNC_9
+phy_stop,FUNC_10
+ftgmac100_stop,FUNC_11
+netdev,VAR_1
+priv,VAR_2

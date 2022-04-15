@@ -1,0 +1,14 @@
+AR9170_USB_REG_EP4_BYTE_COUNT_HIGH,VAR_0
+AR9170_USB_REG_EP4_BYTE_COUNT_LOW,VAR_1
+AR9170_USB_REG_EP4_DATA,VAR_2
+dma_mem,VAR_3
+get,FUNC_0
+get_int_buf,FUNC_1
+getb,FUNC_2
+handle_cmd,FUNC_3
+usb_reset_out,FUNC_4
+usb_trigger_in,FUNC_5
+usb_reg_out,FUNC_6
+regaddr,VAR_4
+usbfifolen,VAR_5
+i,VAR_6

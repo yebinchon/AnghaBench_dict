@@ -1,0 +1,15 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_ptar_action_set_type_set,FUNC_1
+mlxsw_reg_ptar_key_type_set,FUNC_2
+mlxsw_reg_ptar_op_set,FUNC_3
+mlxsw_reg_ptar_region_id_set,FUNC_4
+mlxsw_reg_ptar_region_size_set,FUNC_5
+mlxsw_reg_ptar_tcam_region_info_memcpy_to,FUNC_6
+ptar,VAR_0
+mlxsw_reg_ptar_pack,FUNC_7
+payload,VAR_1
+op,VAR_2
+key_type,VAR_3
+region_size,VAR_4
+region_id,VAR_5
+tcam_region_info,VAR_6

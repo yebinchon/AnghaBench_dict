@@ -1,0 +1,15 @@
+ETH_P_HSR,VAR_0
+ETH_P_PRP,VAR_1
+HSR_PT_SLAVE_A,VAR_2
+htons,FUNC_0
+set_hsr_tag_LSDU_size,FUNC_1
+set_hsr_tag_path,FUNC_2
+skb_mac_header,FUNC_3
+hsr_fill_tag,FUNC_4
+skb,VAR_3
+frame,VAR_4
+port,VAR_5
+proto_version,VAR_6
+hsr_ethhdr,VAR_7
+lane_id,VAR_8
+lsdu_size,VAR_9

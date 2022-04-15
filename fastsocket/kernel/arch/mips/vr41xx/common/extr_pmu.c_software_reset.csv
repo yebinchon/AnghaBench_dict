@@ -1,0 +1,15 @@
+CONF_CM_CMASK,VAR_0
+CONF_CM_UNCACHED,VAR_1
+PMUCNT2REG,VAR_2
+SOFTRST,VAR_3
+ST0_BEV,VAR_4
+ST0_ERL,VAR_5
+change_c0_config,FUNC_0
+current_cpu_type,FUNC_1
+flush_cache_all,FUNC_2
+pmu_read,FUNC_3
+pmu_write,FUNC_4
+set_c0_status,FUNC_5
+write_c0_wired,FUNC_6
+software_reset,FUNC_7
+pmucnt2,VAR_6

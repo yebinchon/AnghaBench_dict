@@ -1,0 +1,14 @@
+SSP_LIMIT_RESET_CNT,VAR_0
+SSP_LIMIT_TIMEOUT_CNT,VAR_1
+SSP_WDT_TIME,VAR_2
+data,VAR_3
+from_timer,FUNC_0
+jiffies,VAR_4
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+queue_work,FUNC_3
+system_power_efficient_wq,VAR_5
+wdt_timer,VAR_6
+ssp_wdt_timer_func,FUNC_4
+t,VAR_7
+data,VAR_8

@@ -1,0 +1,14 @@
+WORKER_DISC_TMO,VAR_0
+fc_disctmo,VAR_1
+from_timer,FUNC_0
+lpfc_worker_wake_up,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+unlikely,FUNC_4
+vport,VAR_2
+lpfc_disc_timeout,FUNC_5
+t,VAR_3
+vport,VAR_4
+phba,VAR_5
+tmo_posted,VAR_6
+flags,VAR_7

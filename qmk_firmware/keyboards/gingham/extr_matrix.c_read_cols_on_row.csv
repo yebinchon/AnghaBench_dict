@@ -1,0 +1,15 @@
+MATRIX_COLS,VAR_0
+PORT_EXPANDER_ADDRESS,VAR_1
+ROW_SHIFTER,VAR_2
+col_pins,VAR_3
+i2c_readReg,FUNC_0
+readPin,FUNC_1
+select_row,FUNC_2
+unselect_row,FUNC_3
+wait_us,FUNC_4
+read_cols_on_row,FUNC_5
+current_matrix,VAR_4
+current_row,VAR_5
+last_row_value,VAR_6
+col_index,VAR_7
+pin_state,VAR_8

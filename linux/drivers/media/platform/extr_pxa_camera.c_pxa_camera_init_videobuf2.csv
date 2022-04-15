@@ -1,0 +1,15 @@
+V4L2_BUF_FLAG_TIMESTAMP_MONOTONIC,VAR_0
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_1
+VB2_DMABUF,VAR_2
+VB2_MMAP,VAR_3
+VB2_USERPTR,VAR_4
+dev_dbg,FUNC_0
+memset,FUNC_1
+pcdev_to_dev,FUNC_2
+pxac_vb2_ops,VAR_5
+vb2_dma_sg_memops,VAR_6
+vb2_queue_init,FUNC_3
+pxa_camera_init_videobuf2,FUNC_4
+pcdev,VAR_7
+ret,VAR_8
+vq,VAR_9

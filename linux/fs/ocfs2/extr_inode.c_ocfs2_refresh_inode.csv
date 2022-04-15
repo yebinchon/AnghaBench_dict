@@ -1,0 +1,17 @@
+OCFS2_I,FUNC_0
+S_ISLNK,FUNC_1
+i_gid_write,FUNC_2
+i_size_write,FUNC_3
+i_uid_write,FUNC_4
+le16_to_cpu,FUNC_5
+le32_to_cpu,FUNC_6
+le64_to_cpu,FUNC_7
+ocfs2_inode_sector_count,FUNC_8
+ocfs2_read_links_count,FUNC_9
+ocfs2_set_inode_flags,FUNC_10
+set_nlink,FUNC_11
+spin_lock,FUNC_12
+spin_unlock,FUNC_13
+ocfs2_refresh_inode,FUNC_14
+inode,VAR_0
+fe,VAR_1

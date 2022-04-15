@@ -1,0 +1,11 @@
+clk_put,FUNC_0
+iounmap,FUNC_1
+pxa27x_stop_hc,FUNC_2
+release_mem_region,FUNC_3
+to_pxa27x_ohci,FUNC_4
+usb_put_hcd,FUNC_5
+usb_remove_hcd,FUNC_6
+usb_hcd_pxa27x_remove,FUNC_7
+hcd,VAR_0
+pdev,VAR_1
+ohci,VAR_2

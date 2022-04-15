@@ -1,0 +1,14 @@
+DRM_BUS_FLAG_DATA_LSB_TO_MSB,VAR_0
+DRM_BUS_FLAG_DATA_MSB_TO_LSB,VAR_1
+DRM_MODE_TYPE_DRIVER,VAR_2
+DRM_MODE_TYPE_PREFERRED,VAR_3
+drm_display_info_set_bus_formats,FUNC_0
+drm_display_mode_from_videomode,FUNC_1
+drm_mode_create,FUNC_2
+drm_mode_probed_add,FUNC_3
+to_panel_lvds,FUNC_4
+panel_lvds_get_modes,FUNC_5
+panel,VAR_4
+lvds,VAR_5
+connector,VAR_6
+mode,VAR_7

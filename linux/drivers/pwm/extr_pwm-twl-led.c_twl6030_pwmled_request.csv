@@ -1,0 +1,16 @@
+TWL6030_LED_PWM_CTRL2,VAR_0
+TWL6030_MODULE_ID1,VAR_1
+TWL6040_LED_MODE_MASK,VAR_2
+TWL6040_LED_MODE_OFF,VAR_3
+dev_err,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+to_twl,FUNC_3
+twl_i2c_read_u8,FUNC_4
+twl_i2c_write_u8,FUNC_5
+twl6030_pwmled_request,FUNC_6
+chip,VAR_4
+pwm,VAR_5
+twl,VAR_6
+ret,VAR_7
+val,VAR_8

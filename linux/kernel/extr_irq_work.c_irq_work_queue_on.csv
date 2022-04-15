@@ -1,0 +1,16 @@
+WARN_ON_ONCE,FUNC_0
+__irq_work_queue_local,FUNC_1
+arch_send_call_function_single_ipi,FUNC_2
+cpu_is_offline,FUNC_3
+in_nmi,FUNC_4
+irq_work_claim,FUNC_5
+irq_work_queue,FUNC_6
+llist_add,FUNC_7
+per_cpu,FUNC_8
+preempt_disable,FUNC_9
+preempt_enable,FUNC_10
+raised_list,VAR_0
+smp_processor_id,FUNC_11
+irq_work_queue_on,FUNC_12
+work,VAR_1
+cpu,VAR_2

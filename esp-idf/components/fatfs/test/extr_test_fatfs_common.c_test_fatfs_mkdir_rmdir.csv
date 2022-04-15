@@ -1,0 +1,17 @@
+S_IFDIR,VAR_0
+S_IFREG,VAR_1
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_ASSERT_FALSE,FUNC_1
+TEST_ASSERT_TRUE,FUNC_2
+mkdir,FUNC_3
+rmdir,FUNC_4
+snprintf,FUNC_5
+stat,FUNC_6
+test_fatfs_create_file_with_text,FUNC_7
+unlink,FUNC_8
+test_fatfs_mkdir_rmdir,FUNC_9
+filename_prefix,VAR_2
+name_dir1,VAR_3
+name_dir2,VAR_4
+name_dir2_file,VAR_5
+st,VAR_6

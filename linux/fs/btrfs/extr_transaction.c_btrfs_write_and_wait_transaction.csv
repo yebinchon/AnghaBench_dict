@@ -1,0 +1,13 @@
+EXTENT_DIRTY,VAR_0
+blk_finish_plug,FUNC_0
+blk_start_plug,FUNC_1
+btrfs_wait_extents,FUNC_2
+btrfs_write_marked_extents,FUNC_3
+extent_io_tree_release,FUNC_4
+btrfs_write_and_wait_transaction,FUNC_5
+trans,VAR_1
+ret,VAR_2
+ret2,VAR_3
+dirty_pages,VAR_4
+fs_info,VAR_5
+plug,VAR_6

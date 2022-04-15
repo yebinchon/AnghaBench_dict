@@ -1,0 +1,14 @@
+EGL_NO_CONTEXT,VAR_0
+EGL_NO_SURFACE,VAR_1
+GX_TRACE,FUNC_0
+display,VAR_2
+eglBindAPI,FUNC_1
+eglMakeCurrent,FUNC_2
+lock,VAR_3
+vcos_assert,FUNC_3
+vcos_mutex_unlock,FUNC_4
+vcos_thread_current,FUNC_5
+vcos_thread_get_name,FUNC_6
+gx_priv_restore,FUNC_7
+state,VAR_4
+egl_result,VAR_5

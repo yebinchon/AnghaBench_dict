@@ -1,0 +1,12 @@
+SECWDOG_CTRL_REG,VAR_0
+secure_register_read,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel_relaxed,FUNC_3
+bcm_kona_wdt_ctrl_reg_modify,FUNC_4
+wdt,VAR_1
+mask,VAR_2
+newval,VAR_3
+val,VAR_4
+flags,VAR_5
+ret,VAR_6

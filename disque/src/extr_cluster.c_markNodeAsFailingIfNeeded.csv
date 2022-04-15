@@ -1,0 +1,17 @@
+CLUSTER_NODE_FAIL,VAR_0
+CLUSTER_NODE_PFAIL,VAR_1
+CLUSTER_TODO_SAVE_CONFIG,VAR_2
+CLUSTER_TODO_UPDATE_STATE,VAR_3
+LL_VERBOSE,VAR_4
+clusterDoBeforeSleep,FUNC_0
+clusterNodeFailureReportsCount,FUNC_1
+clusterSendFail,FUNC_2
+mstime,FUNC_3
+nodeFailed,FUNC_4
+nodeTimedOut,FUNC_5
+server,VAR_5
+serverLog,FUNC_6
+markNodeAsFailingIfNeeded,FUNC_7
+node,VAR_6
+failures,VAR_7
+needed_quorum,VAR_8

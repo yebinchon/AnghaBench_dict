@@ -1,0 +1,15 @@
+DEVICE_SD,VAR_0
+WBSD_CONF_DEVICE,VAR_1
+WBSD_CONF_DRQ,VAR_2
+WBSD_CONF_IRQ,VAR_3
+WBSD_CONF_PORT_HI,VAR_4
+WBSD_CONF_PORT_LO,VAR_5
+wbsd_lock_config,FUNC_0
+wbsd_read_config,FUNC_1
+wbsd_unlock_config,FUNC_2
+wbsd_write_config,FUNC_3
+wbsd_chip_validate,FUNC_4
+host,VAR_6
+base,VAR_7
+irq,VAR_8
+dma,VAR_9

@@ -1,0 +1,13 @@
+mg_get_http_basic_auth,FUNC_0
+mg_get_http_header,FUNC_1
+mg_vcmp,FUNC_2
+strcmp,FUNC_3
+test_auth_server_handler,FUNC_4
+nc,VAR_0
+ev,VAR_1
+ev_data,VAR_2
+hm,VAR_3
+hdr,VAR_4
+user,VAR_5
+pass,VAR_6
+res,VAR_7

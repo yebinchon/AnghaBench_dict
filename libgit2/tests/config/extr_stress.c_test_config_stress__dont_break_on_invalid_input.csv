@@ -1,0 +1,10 @@
+TEST_CONFIG,VAR_0
+buf,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_config_free,FUNC_2
+git_config_get_string_buf,FUNC_3
+git_config_open_ondisk,FUNC_4
+git_path_exists,FUNC_5
+test_config_stress__dont_break_on_invalid_input,FUNC_6
+config,VAR_2

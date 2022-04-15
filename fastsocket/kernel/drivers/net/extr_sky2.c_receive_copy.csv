@@ -1,0 +1,14 @@
+CHECKSUM_NONE,VAR_0
+PCI_DMA_FROMDEVICE,VAR_1
+likely,FUNC_0
+netdev_alloc_skb,FUNC_1
+pci_dma_sync_single_for_cpu,FUNC_2
+pci_dma_sync_single_for_device,FUNC_3
+skb_copy_from_linear_data,FUNC_4
+skb_put,FUNC_5
+skb_reserve,FUNC_6
+receive_copy,FUNC_7
+sky2,VAR_2
+re,VAR_3
+length,VAR_4
+skb,VAR_5

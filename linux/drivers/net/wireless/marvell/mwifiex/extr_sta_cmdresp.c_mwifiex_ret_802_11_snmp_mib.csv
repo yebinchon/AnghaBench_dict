@@ -1,0 +1,13 @@
+HostCmd_ACT_GEN_GET,VAR_0
+INFO,VAR_1
+get_unaligned_le16,FUNC_0
+le16_to_cpu,FUNC_1
+mwifiex_dbg,FUNC_2
+mwifiex_ret_802_11_snmp_mib,FUNC_3
+priv,VAR_2
+resp,VAR_3
+data_buf,VAR_4
+smib,VAR_5
+oid,VAR_6
+query_type,VAR_7
+ul_temp,VAR_8

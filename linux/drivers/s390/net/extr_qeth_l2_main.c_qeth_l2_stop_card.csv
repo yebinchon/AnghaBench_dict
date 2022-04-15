@@ -1,0 +1,15 @@
+CARD_STATE_DOWN,VAR_0
+CARD_STATE_HARDSETUP,VAR_1
+CARD_STATE_SOFTSETUP,VAR_2
+QETH_CARD_TEXT,FUNC_0
+QETH_LAYER2_MAC_REGISTERED,VAR_3
+cancel_work_sync,FUNC_1
+flush_workqueue,FUNC_2
+qeth_clear_ipacmd_list,FUNC_3
+qeth_clear_working_pool_list,FUNC_4
+qeth_drain_output_queues,FUNC_5
+qeth_l2_drain_rx_mode_cache,FUNC_6
+qeth_qdio_clear_card,FUNC_7
+qeth_set_allowed_threads,FUNC_8
+qeth_l2_stop_card,FUNC_9
+card,VAR_4

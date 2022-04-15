@@ -1,0 +1,17 @@
+BJ_Locked,VAR_0
+BJ_None,VAR_1
+BJ_SyncData,VAR_2
+JBUFFER_TRACE,FUNC_0
+__brelse,FUNC_1
+__journal_remove_checkpoint,FUNC_2
+__journal_unfile_buffer,FUNC_3
+bh2jh,FUNC_4
+buffer_dirty,FUNC_5
+buffer_locked,FUNC_6
+journal_remove_journal_head,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+__journal_try_to_free_buffer,FUNC_10
+journal,VAR_3
+bh,VAR_4
+jh,VAR_5

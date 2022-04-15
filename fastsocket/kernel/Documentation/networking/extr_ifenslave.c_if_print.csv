@@ -1,0 +1,16 @@
+IFF_UP,VAR_0
+SIOCGIFCONF,VAR_1
+fprintf,FUNC_0
+if_getconfig,FUNC_1
+ioctl,FUNC_2
+mif_flags,VAR_2
+opt_a,VAR_3
+perror,FUNC_3
+skfd,VAR_4
+stderr,VAR_5
+if_print,FUNC_4
+ifname,VAR_6
+buff,VAR_7
+ifc,VAR_8
+ifr,VAR_9
+i,VAR_10

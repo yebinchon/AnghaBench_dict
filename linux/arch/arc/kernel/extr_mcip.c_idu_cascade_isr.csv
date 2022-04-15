@@ -1,0 +1,15 @@
+FIRST_EXT_IRQ,VAR_0
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+irq_desc_get_irq_data,FUNC_5
+irq_find_mapping,FUNC_6
+irqd_to_hwirq,FUNC_7
+idu_cascade_isr,FUNC_8
+desc,VAR_1
+idu_domain,VAR_2
+core_chip,VAR_3
+core_hwirq,VAR_4
+idu_hwirq,VAR_5

@@ -1,0 +1,16 @@
+BIT,FUNC_0
+RALINK_CLKCFG1,VAR_0
+RALINK_GPIOMODE,VAR_1
+RALINK_PCIE0_CLK_EN,VAR_2
+RALINK_PCIEPHY_P0_CTL_OFFSET,VAR_3
+dev_err,FUNC_1
+mdelay,FUNC_2
+pci_config_read,FUNC_3
+pci_config_write,FUNC_4
+pcie_m32,FUNC_5
+reset_control_deassert,FUNC_6
+rstpcie0,VAR_4
+rt_sysc_m32,FUNC_7
+mt7628_pci_hw_init,FUNC_8
+pdev,VAR_5
+val,VAR_6

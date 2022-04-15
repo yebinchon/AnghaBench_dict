@@ -1,0 +1,14 @@
+ETH_P_IPV6,VAR_0
+MLX5_ETH_WQE_SWP_INNER_L3_IPV6,VAR_1
+MLX5_ETH_WQE_SWP_INNER_L4_UDP,VAR_2
+MLX5_ETH_WQE_SWP_OUTER_L3_IPV6,VAR_3
+MLX5_ETH_WQE_SWP_OUTER_L4_UDP,VAR_4
+htons,FUNC_0
+skb_inner_network_offset,FUNC_1
+skb_inner_transport_offset,FUNC_2
+skb_network_offset,FUNC_3
+skb_transport_offset,FUNC_4
+mlx5e_set_eseg_swp,FUNC_5
+skb,VAR_5
+eseg,VAR_6
+swp_spec,VAR_7

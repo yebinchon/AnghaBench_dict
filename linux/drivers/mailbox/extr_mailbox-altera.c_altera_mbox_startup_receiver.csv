@@ -1,0 +1,16 @@
+DRIVER_NAME,VAR_0
+MBOX_POLLING_MS,VAR_1
+altera_mbox_poll_rx,VAR_2
+altera_mbox_rx_interrupt,VAR_3
+altera_mbox_rx_intmask,FUNC_0
+jiffies,VAR_4
+mbox_chan_to_altera_mbox,FUNC_1
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+request_irq,FUNC_4
+timer_setup,FUNC_5
+unlikely,FUNC_6
+altera_mbox_startup_receiver,FUNC_7
+chan,VAR_5
+ret,VAR_6
+mbox,VAR_7

@@ -1,0 +1,13 @@
+get_iface_desc,FUNC_0
+snd_usb_create_quirk,FUNC_1
+usb_driver_claim_interface,FUNC_2
+usb_ifnum_to_if,FUNC_3
+usb_interface_claimed,FUNC_4
+create_composite_quirk,FUNC_5
+chip,VAR_0
+iface,VAR_1
+driver,VAR_2
+quirk_comp,VAR_3
+probed_ifnum,VAR_4
+quirk,VAR_5
+err,VAR_6

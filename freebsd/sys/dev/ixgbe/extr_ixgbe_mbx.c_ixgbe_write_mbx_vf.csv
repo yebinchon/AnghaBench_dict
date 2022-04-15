@@ -1,0 +1,17 @@
+DEBUGFUNC,FUNC_0
+IXGBE_VFMAILBOX,VAR_0
+IXGBE_VFMAILBOX_REQ,VAR_1
+IXGBE_VFMBMEM,VAR_2
+IXGBE_WRITE_REG,FUNC_1
+IXGBE_WRITE_REG_ARRAY,FUNC_2
+UNREFERENCED_1PARAMETER,FUNC_3
+ixgbe_check_for_ack_vf,FUNC_4
+ixgbe_check_for_msg_vf,FUNC_5
+ixgbe_obtain_mbx_lock_vf,FUNC_6
+ixgbe_write_mbx_vf,FUNC_7
+hw,VAR_3
+msg,VAR_4
+size,VAR_5
+mbx_id,VAR_6
+ret_val,VAR_7
+i,VAR_8

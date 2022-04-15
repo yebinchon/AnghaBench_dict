@@ -1,0 +1,16 @@
+BLK_DEFAULT_SG_TIMEOUT,VAR_0
+EIO,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+REQ_OP_SCSI_OUT,VAR_2
+blk_execute_rq,FUNC_2
+blk_get_request,FUNC_3
+blk_put_request,FUNC_4
+scsi_req,FUNC_5
+__blk_send_generic,FUNC_6
+q,VAR_3
+bd_disk,VAR_4
+cmd,VAR_5
+data,VAR_6
+rq,VAR_7
+err,VAR_8

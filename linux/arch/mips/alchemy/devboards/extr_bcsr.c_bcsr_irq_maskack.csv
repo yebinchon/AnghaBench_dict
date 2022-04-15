@@ -1,0 +1,9 @@
+BCSR_REG_INTSTAT,VAR_0
+BCSR_REG_MASKCLR,VAR_1
+__raw_writew,FUNC_0
+bcsr_csc_base,VAR_2
+bcsr_virt,VAR_3
+wmb,FUNC_1
+bcsr_irq_maskack,FUNC_2
+d,VAR_4
+v,VAR_5

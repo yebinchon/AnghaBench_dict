@@ -1,0 +1,12 @@
+CoordinatedRemoteTransactionsSavepointBegin,FUNC_0
+CoordinatedRemoteTransactionsSavepointRelease,FUNC_1
+CoordinatedRemoteTransactionsSavepointRollback,FUNC_2
+InCoordinatedTransaction,FUNC_3
+PopSubXact,FUNC_4
+PushSubXact,FUNC_5
+UnsetCitusNoticeLevel,FUNC_6
+CoordinatedSubTransactionCallback,FUNC_7
+event,VAR_0
+subId,VAR_1
+parentSubid,VAR_2
+arg,VAR_3

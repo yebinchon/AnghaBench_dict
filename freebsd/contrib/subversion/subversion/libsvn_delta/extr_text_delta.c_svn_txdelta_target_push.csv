@@ -1,0 +1,15 @@
+FALSE,VAR_0
+SVN_DELTA_WINDOW_SIZE,VAR_1
+apr_palloc,FUNC_0
+svn_stream_create,FUNC_1
+svn_stream_set_close,FUNC_2
+svn_stream_set_write,FUNC_3
+tpush_close_handler,VAR_2
+tpush_write_handler,VAR_3
+svn_txdelta_target_push,FUNC_4
+handler,VAR_4
+handler_baton,VAR_5
+source,VAR_6
+pool,VAR_7
+tb,VAR_8
+stream,VAR_9

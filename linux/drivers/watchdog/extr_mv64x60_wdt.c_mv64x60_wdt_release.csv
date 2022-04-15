@@ -1,0 +1,10 @@
+MV64x60_WDOG_FLAG_OPENED,VAR_0
+clear_bit,FUNC_0
+expect_close,VAR_1
+mv64x60_wdt_handler_disable,FUNC_1
+mv64x60_wdt_service,FUNC_2
+pr_crit,FUNC_3
+wdt_flags,VAR_2
+mv64x60_wdt_release,FUNC_4
+inode,VAR_3
+file,VAR_4

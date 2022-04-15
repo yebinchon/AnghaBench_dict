@@ -1,0 +1,14 @@
+VIRTIO_GPU_FLAG_FENCE,VAR_0
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+dma_fence_get,FUNC_2
+list_add_tail,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+trace_dma_fence_emit,FUNC_6
+virtio_gpu_fence_emit,FUNC_7
+vgdev,VAR_1
+cmd_hdr,VAR_2
+fence,VAR_3
+drv,VAR_4
+irq_flags,VAR_5

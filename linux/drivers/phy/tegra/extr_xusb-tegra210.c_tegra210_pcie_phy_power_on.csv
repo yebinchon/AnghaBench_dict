@@ -1,0 +1,14 @@
+XUSB_PADCTL_USB3_PAD_MUX,VAR_0
+XUSB_PADCTL_USB3_PAD_MUX_PCIE_IDDQ_DISABLE,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+padctl_readl,FUNC_3
+padctl_writel,FUNC_4
+phy_get_drvdata,FUNC_5
+tegra210_pex_uphy_enable,FUNC_6
+tegra210_pcie_phy_power_on,FUNC_7
+phy,VAR_1
+lane,VAR_2
+padctl,VAR_3
+value,VAR_4
+err,VAR_5

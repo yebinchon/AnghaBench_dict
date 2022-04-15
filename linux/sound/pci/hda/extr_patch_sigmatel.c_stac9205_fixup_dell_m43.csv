@@ -1,0 +1,14 @@
+AC_VERB_SET_GPIO_UNSOLICITED_RSP_MASK,VAR_0
+HDA_FIXUP_ACT_PRE_PROBE,VAR_1
+IS_ERR,FUNC_0
+dell_9205_m43_pin_configs,VAR_2
+snd_hda_apply_pincfgs,FUNC_1
+snd_hda_codec_write_cache,FUNC_2
+snd_hda_jack_detect_enable_callback,FUNC_3
+stac_vref_event,VAR_3
+stac9205_fixup_dell_m43,FUNC_4
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+spec,VAR_7
+jack,VAR_8

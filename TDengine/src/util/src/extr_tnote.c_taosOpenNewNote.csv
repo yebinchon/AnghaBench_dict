@@ -1,0 +1,17 @@
+PTHREAD_CREATE_DETACHED,VAR_0
+pthread_attr_destroy,FUNC_0
+pthread_attr_init,FUNC_1
+pthread_attr_setdetachstate,FUNC_2
+pthread_create,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+taosNoteFd,VAR_1
+taosNoteLines,VAR_2
+taosNoteMaxLines,VAR_3
+taosNoteMutex,VAR_4
+taosNoteOpenInProgress,VAR_5
+taosNotePrint,FUNC_6
+taosThreadToOpenNewNote,VAR_6
+taosOpenNewNote,FUNC_7
+pattern,VAR_7
+attr,VAR_8

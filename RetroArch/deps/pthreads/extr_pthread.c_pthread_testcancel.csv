@@ -1,0 +1,11 @@
+PTE_EPS_CANCEL,VAR_0
+PTHREAD_CANCEL_DISABLE,VAR_1
+PThreadStateCancelPending,VAR_2
+PThreadStateCanceling,VAR_3
+pte_throw,FUNC_0
+pthread_mutex_lock,FUNC_1
+pthread_mutex_unlock,FUNC_2
+pthread_self,FUNC_3
+pthread_testcancel,FUNC_4
+self,VAR_4
+sp,VAR_5

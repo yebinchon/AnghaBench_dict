@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+B_FALSE,VAR_0
+B_TRUE,VAR_1
+MUTEX_HELD,FUNC_1
+RW_READER,VAR_2
+SCL_CONFIG,VAR_3
+SCL_STATE,VAR_4
+VDEV_INITIALIZE_ACTIVE,VAR_5
+mutex_enter,FUNC_2
+mutex_exit,FUNC_3
+spa_config_held,FUNC_4
+spa_vdev_initializing_impl,FUNC_5
+vd,VAR_6
+spa,VAR_7
+initializing,VAR_8
+i,VAR_9

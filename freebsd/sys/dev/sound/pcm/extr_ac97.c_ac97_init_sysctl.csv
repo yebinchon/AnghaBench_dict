@@ -1,0 +1,17 @@
+AC97_REG_POWER,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_INT,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+ac97_rdcd,FUNC_2
+ac97_wrcd,FUNC_3
+device_get_sysctl_ctx,FUNC_4
+device_get_sysctl_tree,FUNC_5
+snd_mtxlock,FUNC_6
+snd_mtxunlock,FUNC_7
+sysctl_hw_snd_ac97_eapd,VAR_4
+ac97_init_sysctl,FUNC_8
+codec,VAR_5
+orig,VAR_6
+val,VAR_7

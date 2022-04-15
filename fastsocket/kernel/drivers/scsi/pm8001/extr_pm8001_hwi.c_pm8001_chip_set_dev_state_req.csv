@@ -1,0 +1,15 @@
+OPC_INB_SET_DEVICE_STATE,VAR_0
+cpu_to_le32,FUNC_0
+memset,FUNC_1
+pm8001_mpi_build_cmd,FUNC_2
+pm8001_tag_alloc,FUNC_3
+pm8001_chip_set_dev_state_req,FUNC_4
+pm8001_ha,VAR_1
+pm8001_dev,VAR_2
+state,VAR_3
+payload,VAR_4
+circularQ,VAR_5
+ccb,VAR_6
+rc,VAR_7
+tag,VAR_8
+opc,VAR_9

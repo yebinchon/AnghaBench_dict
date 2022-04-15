@@ -1,0 +1,14 @@
+cec_unregister_adapter,FUNC_0
+clk_disable_unprepare,FUNC_1
+dev_get_drvdata,FUNC_2
+pm_runtime_disable,FUNC_3
+put_device,FUNC_4
+vc4_hdmi_connector_destroy,FUNC_5
+vc4_hdmi_encoder_destroy,FUNC_6
+vc4_hdmi_unbind,FUNC_7
+dev,VAR_0
+master,VAR_1
+data,VAR_2
+drm,VAR_3
+vc4,VAR_4
+hdmi,VAR_5

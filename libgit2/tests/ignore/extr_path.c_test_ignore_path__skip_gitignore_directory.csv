@@ -1,0 +1,8 @@
+assert_is_ignored,FUNC_0
+cl_assert,FUNC_1
+cl_git_mkfile,FUNC_2
+cl_git_rewritefile,FUNC_3
+git_path_exists,FUNC_4
+p_mkdir,FUNC_5
+p_unlink,FUNC_6
+test_ignore_path__skip_gitignore_directory,FUNC_7

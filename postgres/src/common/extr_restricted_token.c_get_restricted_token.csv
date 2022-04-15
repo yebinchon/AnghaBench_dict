@@ -1,0 +1,16 @@
+CloseHandle,FUNC_0
+CreateRestrictedProcess,FUNC_1
+GetCommandLine,FUNC_2
+GetExitCodeProcess,FUNC_3
+GetLastError,FUNC_4
+INFINITE,VAR_0
+WaitForSingleObject,FUNC_5
+ZeroMemory,FUNC_6
+exit,FUNC_7
+getenv,FUNC_8
+pg_log_error,FUNC_9
+pg_strdup,FUNC_10
+putenv,FUNC_11
+restrict_env,VAR_1
+strcmp,FUNC_12
+get_restricted_token,FUNC_13

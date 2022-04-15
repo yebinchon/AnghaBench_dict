@@ -1,0 +1,15 @@
+MP_ADD_PTS,FUNC_0
+MP_VERBOSE,FUNC_1
+execute_trackswitch,FUNC_2
+initiate_refresh_seek,FUNC_3
+pthread_cond_signal,FUNC_4
+pthread_mutex_lock,FUNC_5
+pthread_mutex_unlock,FUNC_6
+update_stream_selection_state,FUNC_7
+demuxer_select_track,FUNC_8
+demuxer,VAR_0
+stream,VAR_1
+ref_pts,VAR_2
+selected,VAR_3
+in,VAR_4
+ds,VAR_5

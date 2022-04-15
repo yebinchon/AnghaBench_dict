@@ -1,0 +1,9 @@
+ESP_RST_DEEPSLEEP,VAR_0
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_ASSERT_EQUAL_HEX32,FUNC_1
+TEST_ASSERT_NULL,FUNC_2
+esp_get_deep_sleep_wake_stub,FUNC_3
+esp_reset_reason,FUNC_4
+s_wake_stub_var,VAR_1
+wake_stub,VAR_2
+check_wake_stub,FUNC_5

@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+WARN,FUNC_0
+__i2c_add_numbered_adapter,FUNC_1
+__i2c_first_dynamic_bus_num,VAR_1
+core_lock,VAR_2
+i2c_adapter_idr,VAR_3
+i2c_register_adapter,FUNC_2
+idr_alloc,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+of_alias_get_id,FUNC_6
+i2c_add_adapter,FUNC_7
+adapter,VAR_4
+dev,VAR_5
+id,VAR_6

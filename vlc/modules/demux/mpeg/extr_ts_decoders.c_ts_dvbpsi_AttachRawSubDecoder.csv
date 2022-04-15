@@ -1,0 +1,17 @@
+DVBPSI_DECODER,FUNC_0
+dvbpsi_AttachDemuxSubDecoder,FUNC_1
+dvbpsi_NewDemuxSubDecoder,FUNC_2
+dvbpsi_decoder_delete,FUNC_3
+dvbpsi_decoder_new,FUNC_4
+dvbpsi_demuxGetSubDec,FUNC_5
+ts_dvbpsi_DetachRawSubDecoder,VAR_0
+ts_dvbpsi_RawSubDecoderGatherSections,VAR_1
+ts_dvbpsi_AttachRawSubDecoder,FUNC_6
+p_dvbpsi,VAR_2
+i_table_id,VAR_3
+i_extension,VAR_4
+pf_callback,VAR_5
+p_cb_data,VAR_6
+p_demux,VAR_7
+p_decoder,VAR_8
+p_subdec,VAR_9

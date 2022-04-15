@@ -1,0 +1,11 @@
+BMCR_RESET,VAR_0
+EBUSY,VAR_1
+MII_BMCR,VAR_2
+tg3_readphy,FUNC_0
+tg3_writephy,FUNC_1
+udelay,FUNC_2
+tg3_bmcr_reset,FUNC_3
+tp,VAR_3
+phy_control,VAR_4
+limit,VAR_5
+err,VAR_6

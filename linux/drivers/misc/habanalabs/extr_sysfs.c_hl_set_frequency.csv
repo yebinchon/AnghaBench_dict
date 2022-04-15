@@ -1,0 +1,14 @@
+ARMCP_PACKET_FREQUENCY_SET,VAR_0
+ARMCP_PKT_CTL_OPCODE_SHIFT,VAR_1
+SET_CLK_PKT_TIMEOUT,VAR_2
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+dev_err,FUNC_2
+memset,FUNC_3
+stub1,FUNC_4
+hl_set_frequency,FUNC_5
+hdev,VAR_3
+pll_index,VAR_4
+freq,VAR_5
+pkt,VAR_6
+rc,VAR_7

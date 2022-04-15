@@ -1,0 +1,10 @@
+clk_disable_unprepare,FUNC_0
+media_entity_cleanup,FUNC_1
+mutex_destroy,FUNC_2
+to_ov2640,FUNC_3
+v4l2_async_unregister_subdev,FUNC_4
+v4l2_ctrl_handler_free,FUNC_5
+v4l2_device_unregister_subdev,FUNC_6
+ov2640_remove,FUNC_7
+client,VAR_0
+priv,VAR_1

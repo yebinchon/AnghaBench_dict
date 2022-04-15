@@ -1,0 +1,17 @@
+CROSS_COLOR_TRANSFORM,VAR_0
+EncodeImageNoHuffman,FUNC_0
+TRANSFORM_PRESENT,VAR_1
+VP8LColorSpaceTransform,FUNC_1
+VP8LPutBits,FUNC_2
+VP8LSubSampleSize,FUNC_3
+assert,FUNC_4
+ApplyCrossColorFilter,FUNC_5
+enc,VAR_2
+width,VAR_3
+height,VAR_4
+quality,VAR_5
+low_effort,VAR_6
+bw,VAR_7
+ccolor_transform_bits,VAR_8
+transform_width,VAR_9
+transform_height,VAR_10

@@ -1,0 +1,15 @@
+ACTION_TASK_STOP,VAR_0
+ESP_OK,VAR_1
+_mdns_server,VAR_2
+_mdns_service_semaphore,VAR_3
+_mdns_service_task_handle,VAR_4
+_mdns_stop_timer,FUNC_0
+pdPASS,VAR_5
+portTICK_PERIOD_MS,VAR_6
+vSemaphoreDelete,FUNC_1
+vTaskDelay,FUNC_2
+vTaskDelete,FUNC_3
+xQueueSend,FUNC_4
+_mdns_service_task_stop,FUNC_5
+action,VAR_7
+a,VAR_8

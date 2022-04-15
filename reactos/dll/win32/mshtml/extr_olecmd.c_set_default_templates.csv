@@ -1,0 +1,17 @@
+FALSE,VAR_0
+IDS_PRINT_FOOTER_TEMPLATE,VAR_1
+IDS_PRINT_HEADER_TEMPLATE,VAR_2
+LoadStringW,FUNC_0
+TRUE,VAR_3
+get_shdoclc,FUNC_1
+nsIPrintSettings_SetFooterStrCenter,FUNC_2
+nsIPrintSettings_SetFooterStrLeft,FUNC_3
+nsIPrintSettings_SetFooterStrRight,FUNC_4
+nsIPrintSettings_SetHeaderStrCenter,FUNC_5
+nsIPrintSettings_SetHeaderStrLeft,FUNC_6
+nsIPrintSettings_SetHeaderStrRight,FUNC_7
+set_print_template,FUNC_8
+set_default_templates,FUNC_9
+settings,VAR_4
+buf,VAR_5
+empty,VAR_6

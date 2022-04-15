@@ -1,0 +1,8 @@
+CVMX_USBCX_HPRT,FUNC_0
+USB_SET_FIELD32,FUNC_1
+cvmx_usb_read_csr32,FUNC_2
+cvmx_usbcx_hprt,VAR_0
+mdelay,FUNC_3
+prtrst,VAR_1
+cvmx_usb_reset_port,FUNC_4
+usb,VAR_2

@@ -1,0 +1,13 @@
+NETIF_F_RXCSUM,VAR_0
+RBUF_CHK_CTRL,VAR_1
+RBUF_RXCHK_EN,VAR_2
+RBUF_SKIP_FCS,VAR_3
+bcmgenet_rbuf_readl,FUNC_0
+bcmgenet_rbuf_writel,FUNC_1
+netdev_priv,FUNC_2
+bcmgenet_set_rx_csum,FUNC_3
+dev,VAR_4
+wanted,VAR_5
+priv,VAR_6
+rbuf_chk_ctrl,VAR_7
+rx_csum_en,VAR_8

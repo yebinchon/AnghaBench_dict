@@ -1,0 +1,17 @@
+IRP_NDIS_DEV,FUNC_0
+NDISUSB_LOCK,FUNC_1
+NDISUSB_UNLOCK,FUNC_2
+USBD_STATUS_INVALID_PIPE_HANDLE,VAR_0
+USBD_STATUS_SUCCESS,VAR_1
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+usbd_get_ndisep,FUNC_5
+usbd_geturb,FUNC_6
+usbd_transfer_start,FUNC_7
+usbd_transfer_stop,FUNC_8
+usbd_func_abort_pipe,FUNC_9
+ip,VAR_2
+dev,VAR_3
+sc,VAR_4
+ne,VAR_5
+urb,VAR_6

@@ -1,0 +1,16 @@
+INVPCID_CTX,VAR_0
+INVPCID_CTXGLOB,VAR_1
+PCPU_GET,FUNC_0
+PCPU_SET,FUNC_1
+PMAP_PCID_USER_PT,VAR_2
+cpuid,VAR_3
+invpcid,FUNC_2
+ipi_invltlb_counts,VAR_4
+kernel_pmap,VAR_5
+smp_tlb_done,VAR_6
+smp_tlb_generation,VAR_7
+smp_tlb_pmap,VAR_8
+xhits_gbl,VAR_9
+invltlb_invpcid_pti_handler,FUNC_3
+d,VAR_10
+generation,VAR_11

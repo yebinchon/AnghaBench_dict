@@ -1,0 +1,16 @@
+STROBE_SOURCE,VAR_0
+V4L2_FLASH_STROBE_SOURCE_SOFTWARE,VAR_1
+led_sysfs_enable,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+v4l2_ctrl_s_ctrl,FUNC_3
+v4l2_fh_is_singular,FUNC_4
+v4l2_subdev_to_v4l2_flash,FUNC_5
+v4l2_flash_close,FUNC_6
+sd,VAR_2
+fh,VAR_3
+v4l2_flash,VAR_4
+fled_cdev,VAR_5
+led_cdev,VAR_6
+led_cdev_ind,VAR_7
+ret,VAR_8

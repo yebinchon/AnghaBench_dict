@@ -1,0 +1,14 @@
+DPNI_CMDID_SET_ERRORS_BEHAVIOR,VAR_0
+ERROR_ACTION,VAR_1
+FRAME_ANN,VAR_2
+cpu_to_le32,FUNC_0
+dpni_set_field,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpni_set_errors_behavior,FUNC_4
+mc_io,VAR_3
+cmd_flags,VAR_4
+token,VAR_5
+cfg,VAR_6
+cmd,VAR_7
+cmd_params,VAR_8

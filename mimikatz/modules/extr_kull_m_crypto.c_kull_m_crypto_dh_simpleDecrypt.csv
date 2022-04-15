@@ -1,0 +1,17 @@
+CryptDecrypt,FUNC_0
+CryptDestroyKey,FUNC_1
+CryptDuplicateKey,FUNC_2
+FALSE,VAR_0
+LPTR,VAR_1
+LocalAlloc,FUNC_3
+LocalFree,FUNC_4
+RtlCopyMemory,FUNC_5
+TRUE,VAR_2
+kull_m_crypto_dh_simpleDecrypt,FUNC_6
+key,VAR_3
+data,VAR_4
+dataLen,VAR_5
+out,VAR_6
+outLen,VAR_7
+status,VAR_8
+hTmp,VAR_9

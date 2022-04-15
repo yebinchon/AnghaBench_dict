@@ -1,0 +1,14 @@
+GetMemory,FUNC_0
+Q_filelength,FUNC_1
+SEEK_SET,VAR_0
+SafeOpenRead,FUNC_2
+SafeRead,FUNC_3
+fclose,FUNC_4
+fseek,FUNC_5
+LoadFile,FUNC_6
+filename,VAR_1
+bufferptr,VAR_2
+offset,VAR_3
+length,VAR_4
+f,VAR_5
+buffer,VAR_6

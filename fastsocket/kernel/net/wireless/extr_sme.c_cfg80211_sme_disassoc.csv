@@ -1,0 +1,13 @@
+ASSERT_WDEV_LOCK,FUNC_0
+CFG80211_CONN_IDLE,VAR_0
+ETH_ALEN,VAR_1
+WLAN_REASON_DEAUTH_LEAVING,VAR_2
+__cfg80211_mlme_deauth,FUNC_1
+memcpy,FUNC_2
+wiphy_to_dev,FUNC_3
+cfg80211_sme_disassoc,FUNC_4
+dev,VAR_3
+bss,VAR_4
+wdev,VAR_5
+rdev,VAR_6
+bssid,VAR_7

@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+RX_BUF_SIZE,VAR_1
+RX_DESC_NUM,VAR_2
+dma_unmap_single,FUNC_0
+hip04_mac_disable,FUNC_1
+hip04_reset_ppe,FUNC_2
+hip04_tx_reclaim,FUNC_3
+napi_disable,FUNC_4
+netdev_priv,FUNC_5
+netif_stop_queue,FUNC_6
+phy_stop,FUNC_7
+hip04_mac_stop,FUNC_8
+ndev,VAR_3
+priv,VAR_4
+i,VAR_5

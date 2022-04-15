@@ -1,0 +1,17 @@
+ADVANCE_TOKEN,FUNC_0
+CHECK_EOF,FUNC_1
+EXPECT_CHAR,FUNC_2
+parse_headers,FUNC_3
+parse_http_version,FUNC_4
+parse_request,FUNC_5
+buf,VAR_0
+buf_end,VAR_1
+method,VAR_2
+method_len,VAR_3
+path,VAR_4
+path_len,VAR_5
+minor_version,VAR_6
+headers,VAR_7
+num_headers,VAR_8
+max_headers,VAR_9
+ret,VAR_10

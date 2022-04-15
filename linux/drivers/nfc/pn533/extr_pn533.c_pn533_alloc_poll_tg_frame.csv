@@ -1,0 +1,17 @@
+PN533_INIT_TARGET_DEP,VAR_0
+get_random_bytes,FUNC_0
+memcpy,FUNC_1
+pn533_alloc_skb,FUNC_2
+skb_put_data,FUNC_3
+skb_put_u8,FUNC_4
+skb_put_zero,FUNC_5
+pn533_alloc_poll_tg_frame,FUNC_6
+dev,VAR_1
+skb,VAR_2
+felica,VAR_3
+nfcid3,VAR_4
+gbytes,VAR_5
+gbytes_len,VAR_6
+felica_params,VAR_7
+mifare_params,VAR_8
+skb_len,VAR_9

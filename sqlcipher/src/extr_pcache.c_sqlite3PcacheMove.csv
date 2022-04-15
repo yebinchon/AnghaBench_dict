@@ -1,0 +1,13 @@
+PCACHE_DIRTYLIST_FRONT,VAR_0
+PGHDR_DIRTY,VAR_1
+PGHDR_NEED_SYNC,VAR_2
+assert,FUNC_0
+pcacheManageDirtyList,FUNC_1
+pcacheTrace,FUNC_2
+sqlite3GlobalConfig,VAR_3
+sqlite3PcachePageSanity,FUNC_3
+stub1,FUNC_4
+sqlite3PcacheMove,FUNC_5
+p,VAR_4
+newPgno,VAR_5
+pCache,VAR_6

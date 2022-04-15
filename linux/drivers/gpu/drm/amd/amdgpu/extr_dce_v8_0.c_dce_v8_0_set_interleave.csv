@@ -1,0 +1,11 @@
+DRM_MODE_FLAG_INTERLACE,VAR_0
+LB_DATA_FORMAT__INTERLEAVE_EN__SHIFT,VAR_1
+WREG32,FUNC_0
+mmLB_DATA_FORMAT,VAR_2
+to_amdgpu_crtc,FUNC_1
+dce_v8_0_set_interleave,FUNC_2
+crtc,VAR_3
+mode,VAR_4
+dev,VAR_5
+adev,VAR_6
+amdgpu_crtc,VAR_7

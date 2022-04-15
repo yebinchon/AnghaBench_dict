@@ -1,0 +1,13 @@
+MDIO_PHYACCESS_GO,VAR_0
+MDIO_PHYACCESS_WRITE,VAR_1
+cpsw_write_4,FUNC_0
+cpswp_miibus_ready,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+cpswp_miibus_writereg,FUNC_4
+dev,VAR_2
+phy,VAR_3
+reg,VAR_4
+value,VAR_5
+sc,VAR_6
+cmd,VAR_7

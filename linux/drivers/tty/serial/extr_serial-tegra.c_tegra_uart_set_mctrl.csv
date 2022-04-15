@@ -1,0 +1,12 @@
+TIOCM_DTR,VAR_0
+TIOCM_LOOP,VAR_1
+TIOCM_RTS,VAR_2
+set_dtr,FUNC_0
+set_loopbk,FUNC_1
+set_rts,FUNC_2
+to_tegra_uport,FUNC_3
+tegra_uart_set_mctrl,FUNC_4
+u,VAR_3
+mctrl,VAR_4
+tup,VAR_5
+enable,VAR_6

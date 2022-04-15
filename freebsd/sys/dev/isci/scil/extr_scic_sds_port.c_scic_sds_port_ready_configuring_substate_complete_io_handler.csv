@@ -1,0 +1,8 @@
+SCIC_SDS_PORT_READY_SUBSTATE_OPERATIONAL,VAR_0
+SCI_SUCCESS,VAR_1
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_port_decrement_request_count,FUNC_1
+scic_sds_port_ready_configuring_substate_complete_io_handler,FUNC_2
+port,VAR_2
+device,VAR_3
+io_request,VAR_4

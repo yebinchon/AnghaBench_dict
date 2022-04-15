@@ -1,0 +1,17 @@
+AC_PINCAP_HBR,VAR_0
+AC_PINCTL_EPT,VAR_1
+AC_PINCTL_EPT_HBR,VAR_2
+AC_PINCTL_EPT_NATIVE,VAR_3
+AC_VERB_GET_PIN_WIDGET_CONTROL,VAR_4
+AC_VERB_SET_PIN_WIDGET_CONTROL,VAR_5
+EINVAL,VAR_6
+codec_dbg,FUNC_0
+snd_hda_codec_read,FUNC_1
+snd_hda_codec_write,FUNC_2
+snd_hda_query_pin_caps,FUNC_3
+hdmi_pin_hbr_setup,FUNC_4
+codec,VAR_7
+pin_nid,VAR_8
+hbr,VAR_9
+pinctl,VAR_10
+new_pinctl,VAR_11

@@ -1,0 +1,17 @@
+CISLAND_MINIMUM_ENGINE_CLOCK,VAR_0
+PPSMC_DISPLAY_WATERMARK_LOW,VAR_1
+VOLTAGE_SCALE,VAR_2
+ci_calculate_sclk_params,FUNC_0
+ci_get_dependency_volt_by_clk,FUNC_1
+ci_get_pi,FUNC_2
+ci_get_sleep_divider_id_from_clock,FUNC_3
+ci_populate_phase_value_based_on_sclk,FUNC_4
+cpu_to_be16,FUNC_5
+cpu_to_be32,FUNC_6
+ci_populate_single_graphic_level,FUNC_7
+rdev,VAR_3
+engine_clock,VAR_4
+sclk_activity_level_t,VAR_5
+graphic_level,VAR_6
+pi,VAR_7
+ret,VAR_8

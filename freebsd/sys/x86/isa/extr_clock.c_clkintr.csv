@@ -1,0 +1,15 @@
+FILTER_HANDLED,VAR_0
+MODE_STOP,VAR_1
+clkintr_pending,VAR_2
+clock_lock,VAR_3
+i8254_lastcount,VAR_4
+i8254_max_count,VAR_5
+i8254_offset,VAR_6
+i8254_ticked,VAR_7
+i8254_timecounter,VAR_8
+mtx_lock_spin,FUNC_0
+mtx_unlock_spin,FUNC_1
+stub1,FUNC_2
+clkintr,FUNC_3
+arg,VAR_9
+sc,VAR_10

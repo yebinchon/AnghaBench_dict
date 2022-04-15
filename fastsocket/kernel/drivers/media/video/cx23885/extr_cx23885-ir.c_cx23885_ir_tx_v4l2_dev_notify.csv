@@ -1,0 +1,11 @@
+CX23885_IR_TX_FIFO_SERVICE_REQ,VAR_0
+V4L2_SUBDEV_IR_TX_FIFO_SERVICE_REQ,VAR_1
+cx23885_ir_tx_work_handler,FUNC_0
+schedule_work,FUNC_1
+set_bit,FUNC_2
+to_cx23885,FUNC_3
+cx23885_ir_tx_v4l2_dev_notify,FUNC_4
+sd,VAR_2
+events,VAR_3
+dev,VAR_4
+notifications,VAR_5

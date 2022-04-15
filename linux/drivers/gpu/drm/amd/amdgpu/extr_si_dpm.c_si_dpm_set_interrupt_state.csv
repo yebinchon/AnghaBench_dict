@@ -1,0 +1,11 @@
+CG_THERMAL_INT,VAR_0
+RREG32_SMC,FUNC_0
+THERM_INT_MASK_HIGH,VAR_1
+THERM_INT_MASK_LOW,VAR_2
+WREG32_SMC,FUNC_1
+si_dpm_set_interrupt_state,FUNC_2
+adev,VAR_3
+source,VAR_4
+type,VAR_5
+state,VAR_6
+cg_thermal_int,VAR_7

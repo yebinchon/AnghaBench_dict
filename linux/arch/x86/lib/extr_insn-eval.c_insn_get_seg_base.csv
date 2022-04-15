@@ -1,0 +1,16 @@
+INAT_SEG_REG_FS,VAR_0
+INAT_SEG_REG_GS,VAR_1
+MSR_FS_BASE,VAR_2
+MSR_KERNEL_GS_BASE,VAR_3
+get_desc,FUNC_0
+get_desc_base,FUNC_1
+get_segment_selector,FUNC_2
+rdmsrl,FUNC_3
+user_64bit_mode,FUNC_4
+v8086_mode,FUNC_5
+insn_get_seg_base,FUNC_6
+regs,VAR_4
+seg_reg_idx,VAR_5
+desc,VAR_6
+sel,VAR_7
+base,VAR_8

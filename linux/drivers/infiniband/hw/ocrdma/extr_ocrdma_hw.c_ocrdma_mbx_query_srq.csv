@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+OCRDMA_CMD_QUERY_SRQ,VAR_1
+OCRDMA_QUERY_SRQ_RSP_MAX_RQE_SHIFT,VAR_2
+OCRDMA_QUERY_SRQ_RSP_MAX_SGE_RECV_MASK,VAR_3
+OCRDMA_QUERY_SRQ_RSP_SRQ_LIMIT_SHIFT,VAR_4
+get_ocrdma_dev,FUNC_0
+kfree,FUNC_1
+ocrdma_init_emb_mqe,FUNC_2
+ocrdma_mbx_cmd,FUNC_3
+ocrdma_mbx_query_srq,FUNC_4
+srq,VAR_5
+srq_attr,VAR_6
+status,VAR_7
+cmd,VAR_8
+dev,VAR_9
+rsp,VAR_10

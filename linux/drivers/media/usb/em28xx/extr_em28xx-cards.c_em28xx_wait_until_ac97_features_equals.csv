@@ -1,0 +1,15 @@
+AC97_POWERDOWN,VAR_0
+AC97_RESET,VAR_1
+ETIMEDOUT,VAR_2
+dev_warn,FUNC_0
+em28xx_read_ac97,FUNC_1
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_2
+msleep,FUNC_3
+time_is_after_jiffies,FUNC_4
+em28xx_wait_until_ac97_features_equals,FUNC_5
+dev,VAR_4
+expected_feat,VAR_5
+timeout,VAR_6
+feat,VAR_7
+powerdown,VAR_8

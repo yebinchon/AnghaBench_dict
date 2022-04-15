@@ -1,0 +1,13 @@
+CM_ENDBDAC,VAR_0
+CM_OPEN_CH_MASK,VAR_1
+CM_REG_MISC_CTRL,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+snd_cmipci_ch_reset,FUNC_2
+snd_cmipci_set_bit,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+close_device_check,FUNC_6
+cm,VAR_3
+mode,VAR_4
+ch,VAR_5

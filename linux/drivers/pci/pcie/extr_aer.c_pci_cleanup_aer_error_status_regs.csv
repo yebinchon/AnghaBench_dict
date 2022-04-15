@@ -1,0 +1,16 @@
+EIO,VAR_0
+ENODEV,VAR_1
+PCI_ERR_COR_STATUS,VAR_2
+PCI_ERR_ROOT_STATUS,VAR_3
+PCI_ERR_UNCOR_STATUS,VAR_4
+PCI_EXP_TYPE_ROOT_PORT,VAR_5
+pci_is_pcie,FUNC_0
+pci_pcie_type,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+pcie_aer_get_firmware_first,FUNC_4
+pci_cleanup_aer_error_status_regs,FUNC_5
+dev,VAR_6
+pos,VAR_7
+status,VAR_8
+port_type,VAR_9

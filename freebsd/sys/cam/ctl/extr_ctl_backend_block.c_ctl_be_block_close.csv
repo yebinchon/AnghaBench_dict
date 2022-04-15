@@ -1,0 +1,12 @@
+CTL_LUN_FLAG_READONLY,VAR_0
+FREAD,VAR_1
+FWRITE,VAR_2
+NOCRED,VAR_3
+crfree,FUNC_0
+curthread,VAR_4
+panic,FUNC_1
+vn_close,FUNC_2
+ctl_be_block_close,FUNC_3
+be_lun,VAR_5
+cbe_lun,VAR_6
+flags,VAR_7

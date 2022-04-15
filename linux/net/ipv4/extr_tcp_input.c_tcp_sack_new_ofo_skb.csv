@@ -1,0 +1,15 @@
+TCP_FASTRETRANS_THRESH,VAR_0
+TCP_NUM_SACKS,VAR_1
+swap,FUNC_0
+tcp_sack_extend,FUNC_1
+tcp_sack_maybe_coalesce,FUNC_2
+tcp_send_ack,FUNC_3
+tcp_sk,FUNC_4
+tcp_sack_new_ofo_skb,FUNC_5
+sk,VAR_2
+seq,VAR_3
+end_seq,VAR_4
+tp,VAR_5
+sp,VAR_6
+cur_sacks,VAR_7
+this_sack,VAR_8

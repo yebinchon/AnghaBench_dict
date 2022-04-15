@@ -1,0 +1,17 @@
+httpd_RedirectNew,FUNC_0
+luaL_checkstring,FUNC_1
+luaL_checkudata,FUNC_2
+luaL_error,FUNC_3
+luaL_newmetatable,FUNC_4
+lua_newuserdata,FUNC_5
+lua_pushcfunction,FUNC_6
+lua_setfield,FUNC_7
+lua_setmetatable,FUNC_8
+vlclua_httpd_redirect_delete,VAR_0
+vlclua_httpd_redirect_new,FUNC_9
+L,VAR_1
+pp_host,VAR_2
+psz_url_dst,VAR_3
+psz_url_src,VAR_4
+p_redirect,VAR_5
+pp_redirect,VAR_6

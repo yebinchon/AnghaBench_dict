@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+EV_KEY,VAR_1
+GFP_KERNEL,VAR_2
+KEY_POWER,VAR_3
+devm_input_allocate_device,FUNC_0
+devm_kzalloc,FUNC_1
+devm_rave_sp_register_event_notifier,FUNC_2
+input_register_device,FUNC_3
+input_set_capability,FUNC_4
+rave_sp_power_button_event,VAR_4
+rave_sp_pwrbutton_probe,FUNC_5
+pdev,VAR_5
+dev,VAR_6
+pb,VAR_7
+idev,VAR_8
+error,VAR_9

@@ -1,0 +1,15 @@
+UIP_PBUF_IP,VAR_0
+UIP_PBUF_RAM,VAR_1
+UIP_PROTO_TCP,VAR_2
+UIP_TCPH_HDRLEN_SET,FUNC_0
+UIP_TCP_HLEN,VAR_3
+htonl,FUNC_1
+htons,FUNC_2
+uip_chksum_pseudo,FUNC_3
+uip_ipoutput,FUNC_4
+uip_pbuf_alloc,FUNC_5
+uip_pbuf_free,FUNC_6
+uip_tcp_keepalive,FUNC_7
+pcb,VAR_4
+p,VAR_5
+tcphdr,VAR_6

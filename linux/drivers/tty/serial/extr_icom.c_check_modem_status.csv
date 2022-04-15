@@ -1,0 +1,16 @@
+ICOM_CTS,VAR_0
+ICOM_DCD,VAR_1
+ICOM_DSR,VAR_2
+ICOM_RI,VAR_3
+readb,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+trace,FUNC_3
+uart_handle_cts_change,FUNC_4
+uart_handle_dcd_change,FUNC_5
+wake_up_interruptible,FUNC_6
+check_modem_status,FUNC_7
+icom_port,VAR_4
+old_status,VAR_5
+delta_status,VAR_6
+status,VAR_7

@@ -1,0 +1,17 @@
+FALSE,VAR_0
+SVN_CONFIG_ASK,VAR_1
+SVN_CONFIG_FALSE,VAR_2
+SVN_CONFIG_TRUE,VAR_3
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_4
+get_bool,FUNC_1
+svn_config_get,FUNC_2
+svn_cstring_casecmp,FUNC_3
+svn_config_get_yes_no_ask,FUNC_4
+cfg,VAR_5
+valuep,VAR_6
+section,VAR_7
+option,VAR_8
+default_value,VAR_9
+tmp_value,VAR_10
+bool_val,VAR_11

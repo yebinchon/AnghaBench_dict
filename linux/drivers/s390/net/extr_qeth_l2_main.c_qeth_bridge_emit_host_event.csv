@@ -1,0 +1,15 @@
+IPA_ADDR_CHANGE_CODE_MACADDR,VAR_0
+IPA_ADDR_CHANGE_CODE_REMOVAL,VAR_1
+IPA_ADDR_CHANGE_CODE_VLANID,VAR_2
+KOBJ_CHANGE,VAR_3
+kobject_uevent_env,FUNC_0
+snprintf,FUNC_1
+qeth_bridge_emit_host_event,FUNC_2
+card,VAR_4
+evtype,VAR_5
+code,VAR_6
+token,VAR_7
+addr_lnid,VAR_8
+str,VAR_9
+env,VAR_10
+i,VAR_11

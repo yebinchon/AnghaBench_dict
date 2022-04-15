@@ -1,0 +1,12 @@
+AMCC_OP_REG_INTCSR,VAR_0
+INTCSR_INBOX_INTR_STATUS,VAR_1
+comedi_pci_disable,FUNC_0
+devpriv,VAR_2
+free_irq,FUNC_1
+inl,FUNC_2
+outl,FUNC_3
+pci_dev_put,FUNC_4
+printk,FUNC_5
+subdev_8255_cleanup,FUNC_6
+cb_pcidas_detach,FUNC_7
+dev,VAR_3

@@ -1,0 +1,17 @@
+ISP_AA_COMMAND_START,VAR_0
+ISP_AA_COMMAND_STOP,VAR_1
+ISP_AA_TARGET_AE,VAR_2
+PARAM_ISP_AA,VAR_3
+V4L2_LOCK_EXPOSURE,VAR_4
+V4L2_LOCK_WHITE_BALANCE,VAR_5
+fimc_is_itf_s_param,FUNC_0
+fimc_is_set_param_bit,FUNC_1
+wmb,FUNC_2
+__ctrl_set_aewb_lock,FUNC_3
+is,VAR_6
+ctrl,VAR_7
+awb_lock,VAR_8
+ae_lock,VAR_9
+isp,VAR_10
+cmd,VAR_11
+ret,VAR_12

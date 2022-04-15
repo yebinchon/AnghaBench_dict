@@ -1,0 +1,15 @@
+ECRYPTFS_ENCRYPTED_VIEW_ENABLED,VAR_0
+ECRYPTFS_I_SIZE_INITIALIZED,VAR_1
+ECRYPTFS_METADATA_IN_XATTR,VAR_2
+ecryptfs_inode_to_lower,FUNC_0
+ecryptfs_inode_to_private,FUNC_1
+ecryptfs_superblock_to_private,FUNC_2
+get_unaligned_be64,FUNC_3
+i_size_read,FUNC_4
+i_size_write,FUNC_5
+ecryptfs_i_size_init,FUNC_6
+page_virt,VAR_3
+inode,VAR_4
+mount_crypt_stat,VAR_5
+crypt_stat,VAR_6
+file_size,VAR_7

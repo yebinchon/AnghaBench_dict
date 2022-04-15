@@ -1,0 +1,17 @@
+MMCR0_FC,VAR_0
+MSR_PMM,VAR_1
+SPRN_MMCR0,VAR_2
+classic_ctr_write,FUNC_0
+ctrl_write,FUNC_1
+dbg,FUNC_2
+mfmsr,FUNC_3
+mfspr,FUNC_4
+mtmsrd,FUNC_5
+mtspr,FUNC_6
+num_counters,VAR_3
+reset_value,VAR_4
+smp_processor_id,FUNC_7
+rs64_start,FUNC_8
+ctr,VAR_5
+i,VAR_6
+mmcr0,VAR_7

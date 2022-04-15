@@ -1,0 +1,9 @@
+UART_LCR,VAR_0
+dw8250_check_lcr,FUNC_0
+to_dw8250_data,FUNC_1
+writeb,FUNC_2
+dw8250_serial_out,FUNC_3
+p,VAR_1
+offset,VAR_2
+value,VAR_3
+d,VAR_4

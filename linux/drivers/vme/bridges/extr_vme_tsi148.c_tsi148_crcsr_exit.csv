@@ -1,0 +1,13 @@
+TSI148_LCSR_CRAT,VAR_0
+TSI148_LCSR_CRAT_EN,VAR_1
+TSI148_LCSR_CROL,VAR_2
+TSI148_LCSR_CROU,VAR_3
+VME_CRCSR_BUF_SIZE,VAR_4
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+pci_free_consistent,FUNC_2
+tsi148_crcsr_exit,FUNC_3
+tsi148_bridge,VAR_5
+pdev,VAR_6
+crat,VAR_7
+bridge,VAR_8

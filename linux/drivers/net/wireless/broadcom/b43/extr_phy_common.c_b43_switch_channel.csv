@@ -1,0 +1,17 @@
+B43_SHM_SHARED,VAR_0
+B43_SHM_SH_CHAN,VAR_1
+B43_SHM_SH_CHAN_40MHZ,VAR_2
+B43_SHM_SH_CHAN_5GHZ,VAR_3
+NL80211_BAND_5GHZ,VAR_4
+b43_current_band,FUNC_0
+b43_shm_read16,FUNC_1
+b43_shm_write16,FUNC_2
+msleep,FUNC_3
+stub1,FUNC_4
+b43_switch_channel,FUNC_5
+dev,VAR_5
+new_channel,VAR_6
+phy,VAR_7
+channelcookie,VAR_8
+savedcookie,VAR_9
+err,VAR_10

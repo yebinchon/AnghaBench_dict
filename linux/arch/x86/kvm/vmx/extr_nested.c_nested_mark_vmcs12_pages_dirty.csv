@@ -1,0 +1,10 @@
+CPU_BASED_TPR_SHADOW,VAR_0
+PAGE_SHIFT,VAR_1
+get_vmcs12,FUNC_0
+kvm_vcpu_mark_page_dirty,FUNC_1
+nested_cpu_has,FUNC_2
+nested_cpu_has_posted_intr,FUNC_3
+nested_mark_vmcs12_pages_dirty,FUNC_4
+vcpu,VAR_2
+vmcs12,VAR_3
+gfn,VAR_4

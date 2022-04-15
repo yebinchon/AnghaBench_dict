@@ -1,0 +1,12 @@
+MMU_NORMAL_PT_UPDATE,VAR_0
+PARAVIRT_LAZY_MMU,VAR_1
+paravirt_get_lazy_mode,FUNC_0
+pte_val_ma,FUNC_1
+virt_to_machine,FUNC_2
+xen_extend_mmu_update,FUNC_3
+xen_mc_batch,FUNC_4
+xen_mc_issue,FUNC_5
+xen_batched_set_pte,FUNC_6
+ptep,VAR_2
+pteval,VAR_3
+u,VAR_4

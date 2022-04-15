@@ -1,0 +1,13 @@
+blk_integrity_rq,FUNC_0
+blk_mq_rq_to_pdu,FUNC_1
+blk_rq_nr_phys_segments,FUNC_2
+dma_unmap_page,FUNC_3
+nvme_cleanup_cmd,FUNC_4
+nvme_complete_rq,FUNC_5
+nvme_unmap_data,FUNC_6
+rq_data_dir,FUNC_7
+rq_integrity_vec,FUNC_8
+nvme_pci_complete_rq,FUNC_9
+req,VAR_0
+iod,VAR_1
+dev,VAR_2

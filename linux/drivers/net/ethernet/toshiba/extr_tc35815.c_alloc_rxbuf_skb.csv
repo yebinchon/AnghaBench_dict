@@ -1,0 +1,12 @@
+PCI_DMA_FROMDEVICE,VAR_0
+RX_BUF_SIZE,VAR_1
+dev_kfree_skb_any,FUNC_0
+netdev_alloc_skb,FUNC_1
+pci_dma_mapping_error,FUNC_2
+pci_map_single,FUNC_3
+skb_reserve,FUNC_4
+alloc_rxbuf_skb,FUNC_5
+dev,VAR_2
+hwdev,VAR_3
+dma_handle,VAR_4
+skb,VAR_5

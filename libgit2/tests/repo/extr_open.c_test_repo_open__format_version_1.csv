@@ -1,0 +1,11 @@
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+git_config_free,FUNC_3
+git_config_set_int32,FUNC_4
+git_repository_config,FUNC_5
+git_repository_free,FUNC_6
+git_repository_open,FUNC_7
+test_repo_open__format_version_1,FUNC_8
+repo,VAR_0
+config,VAR_1

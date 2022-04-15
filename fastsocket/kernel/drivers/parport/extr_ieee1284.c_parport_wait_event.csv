@@ -1,0 +1,14 @@
+PARPORT_MAX,VAR_0
+add_timer,FUNC_0
+del_timer_sync,FUNC_1
+destroy_timer_on_stack,FUNC_2
+down_interruptible,FUNC_3
+init_timer_on_stack,FUNC_4
+jiffies,VAR_1
+port_from_cookie,VAR_2
+timeout_waiting_on_port,VAR_3
+parport_wait_event,FUNC_5
+port,VAR_4
+timeout,VAR_5
+ret,VAR_6
+timer,VAR_7

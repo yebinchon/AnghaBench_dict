@@ -1,0 +1,17 @@
+AVMEDIA_TYPE_AUDIO,VAR_0
+AVSTREAM_PARSE_FULL,VAR_1
+AV_CH_LAYOUT_MONO,VAR_2
+AV_CH_LAYOUT_STEREO,VAR_3
+AV_CODEC_ID_PCM_S16LE,VAR_4
+AV_CODEC_ID_PCM_U8,VAR_5
+avformat_new_stream,FUNC_0
+avpriv_set_pts_info,FUNC_1
+ff_codec_get_id,FUNC_2
+swf_audio_codec_tags,VAR_6
+create_new_audio_stream,FUNC_3
+s,VAR_7
+id,VAR_8
+info,VAR_9
+sample_rate_code,VAR_10
+sample_size_code,VAR_11
+ast,VAR_12

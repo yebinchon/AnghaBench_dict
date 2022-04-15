@@ -1,0 +1,14 @@
+DPU_DEBUG_CMDENC,FUNC_0
+DPU_ERROR,FUNC_1
+DRMID,FUNC_2
+DRM_DEBUG_KMS,FUNC_3
+DRM_ERROR,FUNC_4
+PINGPONG_0,VAR_0
+_dpu_encoder_phys_cmd_wait_for_idle,FUNC_5
+atomic_read,FUNC_6
+atomic_set,FUNC_7
+to_dpu_encoder_phys_cmd,FUNC_8
+dpu_encoder_phys_cmd_prepare_for_kickoff,FUNC_9
+phys_enc,VAR_1
+cmd_enc,VAR_2
+ret,VAR_3

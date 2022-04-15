@@ -1,0 +1,14 @@
+X86BIOS_PHYSTOOFF,FUNC_0
+X86BIOS_PHYSTOSEG,FUNC_1
+bcopy,FUNC_2
+x86bios_alloc,FUNC_3
+x86bios_free,FUNC_4
+x86bios_init_regs,FUNC_5
+x86bios_intr,FUNC_6
+vesa_bios_get_mode,FUNC_7
+mode,VAR_0
+vmode,VAR_1
+flags,VAR_2
+regs,VAR_3
+offs,VAR_4
+buf,VAR_5

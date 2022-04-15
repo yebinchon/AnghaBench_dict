@@ -1,0 +1,16 @@
+EVENT_DEAUTH,VAR_0
+MSG_DEBUG,VAR_1
+MSG_WARNING,VAR_2
+WPA_DRIVER_FLAGS_SME,VAR_3
+nl80211_mark_disconnected,FUNC_0
+nla_get_u16,FUNC_1
+os_memset,FUNC_2
+wpa_printf,FUNC_3
+wpa_supplicant_event,FUNC_4
+mlme_event_disconnect,FUNC_5
+drv,VAR_4
+reason,VAR_5
+addr,VAR_6
+by_ap,VAR_7
+data,VAR_8
+locally_generated,VAR_9

@@ -1,0 +1,13 @@
+BUS_ERROR_OOM,VAR_0
+EINVAL,VAR_1
+ENOMEM,VAR_2
+assert_return,FUNC_0
+bus_error_is_dirty,FUNC_1
+bus_error_name_to_errno,FUNC_2
+strdup,FUNC_3
+vasprintf,FUNC_4
+bus_error_setfv,FUNC_5
+e,VAR_3
+name,VAR_4
+format,VAR_5
+ap,VAR_6

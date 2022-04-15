@@ -1,0 +1,15 @@
+EXTRA_REG_NONE,VAR_0
+SNBEP_PCI_QPI_PORT0_FILTER,VAR_1
+SNBEP_PMON_CTL_EN,VAR_2
+pci_write_config_dword,FUNC_0
+uncore_extra_pci_dev,VAR_3
+snbep_qpi_enable_event,FUNC_1
+box,VAR_4
+event,VAR_5
+pdev,VAR_6
+hwc,VAR_7
+reg1,VAR_8
+reg2,VAR_9
+idx,VAR_10
+die,VAR_11
+filter_pdev,VAR_12

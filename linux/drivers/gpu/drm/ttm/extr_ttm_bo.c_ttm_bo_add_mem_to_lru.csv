@@ -1,0 +1,13 @@
+TTM_MEMTYPE_FLAG_FIXED,VAR_0
+TTM_PAGE_FLAG_SG,VAR_1
+TTM_PAGE_FLAG_SWAPPED,VAR_2
+TTM_PL_FLAG_NO_EVICT,VAR_3
+dma_resv_assert_held,FUNC_0
+kref_get,FUNC_1
+list_add_tail,FUNC_2
+list_empty,FUNC_3
+ttm_bo_add_mem_to_lru,FUNC_4
+bo,VAR_4
+mem,VAR_5
+bdev,VAR_6
+man,VAR_7

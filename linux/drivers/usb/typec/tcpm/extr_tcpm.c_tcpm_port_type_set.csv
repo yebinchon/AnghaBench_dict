@@ -1,0 +1,15 @@
+PORT_RESET,VAR_0
+TYPEC_DEVICE,VAR_1
+TYPEC_HOST,VAR_2
+TYPEC_PORT_SNK,VAR_3
+TYPEC_PORT_SRC,VAR_4
+TYPEC_SINK,VAR_5
+TYPEC_SOURCE,VAR_6
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+tcpm_set_state,FUNC_2
+typec_cap_to_tcpm,FUNC_3
+tcpm_port_type_set,FUNC_4
+cap,VAR_7
+type,VAR_8
+port,VAR_9

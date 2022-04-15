@@ -1,0 +1,14 @@
+AfterTriggerPendingOnRel,FUNC_0
+ERRCODE_OBJECT_IN_USE,VAR_0
+ERROR,VAR_1
+RELKIND_INDEX,VAR_2
+RELKIND_PARTITIONED_INDEX,VAR_3
+RelationGetRelationName,FUNC_1
+RelationGetRelid,FUNC_2
+ereport,FUNC_3
+errcode,FUNC_4
+errmsg,FUNC_5
+CheckTableNotInUse,FUNC_6
+rel,VAR_4
+stmt,VAR_5
+expected_refcnt,VAR_6

@@ -1,0 +1,17 @@
+PLy_get_sqlerrcode,FUNC_0
+PyArg_ParseTuple,FUNC_1
+PyObject_GetAttrString,FUNC_2
+Py_XDECREF,FUNC_3
+PLy_get_spi_error_data,FUNC_4
+exc,VAR_0
+sqlerrcode,VAR_1
+detail,VAR_2
+hint,VAR_3
+query,VAR_4
+position,VAR_5
+schema_name,VAR_6
+table_name,VAR_7
+column_name,VAR_8
+datatype_name,VAR_9
+constraint_name,VAR_10
+spidata,VAR_11

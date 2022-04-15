@@ -1,0 +1,12 @@
+SNDRV_GF1_GB_DRAM_IO_HIGH,VAR_0
+SNDRV_GF1_GW_DRAM_IO_LOW,VAR_1
+mb,FUNC_0
+outb,FUNC_1
+outw,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+snd_gf1_poke,FUNC_5
+gus,VAR_2
+addr,VAR_3
+data,VAR_4
+flags,VAR_5

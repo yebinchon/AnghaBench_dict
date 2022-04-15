@@ -1,0 +1,16 @@
+PR_TASK_PERF_EVENTS_DISABLE,VAR_0
+PR_TASK_PERF_EVENTS_ENABLE,VAR_1
+event_read,FUNC_0
+event_report,FUNC_1
+event_reset,FUNC_2
+prctl,FUNC_3
+printf,FUNC_4
+thirty_two_instruction_loop,FUNC_5
+do_count_loop,FUNC_6
+events,VAR_2
+instructions,VAR_3
+overhead,VAR_4
+report,VAR_5
+difference,VAR_6
+expected,VAR_7
+percentage,VAR_8

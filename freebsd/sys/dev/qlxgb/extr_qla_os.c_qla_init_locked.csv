@@ -1,0 +1,16 @@
+CSUM_TCP,VAR_0
+CSUM_TSO,VAR_1
+CSUM_UDP,VAR_2
+ETHER_ADDR_LEN,VAR_3
+IFF_DRV_OACTIVE,VAR_4
+IFF_DRV_RUNNING,VAR_5
+IF_LLADDR,FUNC_0
+bcopy,FUNC_1
+qla_alloc_rcv_bufs,FUNC_2
+qla_alloc_xmt_bufs,FUNC_3
+qla_config_lro,FUNC_4
+qla_init_hw_if,FUNC_5
+qla_stop,FUNC_6
+qla_init_locked,FUNC_7
+ha,VAR_6
+ifp,VAR_7

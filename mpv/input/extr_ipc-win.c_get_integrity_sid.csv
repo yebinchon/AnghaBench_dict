@@ -1,0 +1,16 @@
+CloseHandle,FUNC_0
+ConvertSidToStringSidA,FUNC_1
+ERROR_INSUFFICIENT_BUFFER,VAR_0
+GetCurrentProcess,FUNC_2
+GetLastError,FUNC_3
+GetTokenInformation,FUNC_4
+OpenProcessToken,FUNC_5
+TOKEN_QUERY,VAR_1
+TokenIntegrityLevel,VAR_2
+talloc_free,FUNC_6
+talloc_size,FUNC_7
+get_integrity_sid,FUNC_8
+ssid,VAR_3
+info,VAR_4
+t,VAR_5
+info_len,VAR_6

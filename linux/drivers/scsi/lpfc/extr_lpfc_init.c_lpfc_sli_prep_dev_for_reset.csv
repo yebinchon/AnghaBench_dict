@@ -1,0 +1,12 @@
+KERN_ERR,VAR_0
+LOG_INIT,VAR_1
+LPFC_MBX_WAIT,VAR_2
+lpfc_block_mgmt_io,FUNC_0
+lpfc_printf_log,FUNC_1
+lpfc_scsi_dev_block,FUNC_2
+lpfc_sli_disable_intr,FUNC_3
+lpfc_sli_flush_io_rings,FUNC_4
+lpfc_stop_hba_timers,FUNC_5
+pci_disable_device,FUNC_6
+lpfc_sli_prep_dev_for_reset,FUNC_7
+phba,VAR_3

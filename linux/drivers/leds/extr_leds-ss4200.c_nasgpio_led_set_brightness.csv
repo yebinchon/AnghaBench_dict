@@ -1,0 +1,11 @@
+GPO_BLINK,VAR_0
+GP_LVL,VAR_1
+LED_HALF,VAR_2
+__nasgpio_led_set_attr,FUNC_0
+nasgpio_gpio_lock,VAR_3
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+nasgpio_led_set_brightness,FUNC_3
+led_cdev,VAR_4
+brightness,VAR_5
+setting,VAR_6

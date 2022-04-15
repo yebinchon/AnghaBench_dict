@@ -1,0 +1,13 @@
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+crypto_rng_ctx,FUNC_2
+exynos_rng_set_seed,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+exynos_rng_seed,FUNC_6
+tfm,VAR_0
+seed,VAR_1
+slen,VAR_2
+ctx,VAR_3
+rng,VAR_4
+ret,VAR_5

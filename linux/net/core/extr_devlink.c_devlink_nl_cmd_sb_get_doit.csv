@@ -1,0 +1,15 @@
+DEVLINK_CMD_SB_NEW,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+NLMSG_DEFAULT_SIZE,VAR_3
+devlink_nl_sb_fill,FUNC_0
+genlmsg_reply,FUNC_1
+nlmsg_free,FUNC_2
+nlmsg_new,FUNC_3
+devlink_nl_cmd_sb_get_doit,FUNC_4
+skb,VAR_4
+info,VAR_5
+devlink,VAR_6
+devlink_sb,VAR_7
+msg,VAR_8
+err,VAR_9

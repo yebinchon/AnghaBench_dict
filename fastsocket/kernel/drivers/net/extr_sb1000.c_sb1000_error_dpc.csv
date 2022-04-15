@@ -1,0 +1,13 @@
+netdev_priv,FUNC_0
+sb1000_read_status,FUNC_1
+sb1000_send_command,FUNC_2
+sb1000_wait_for_ready,FUNC_3
+sb1000_wait_for_ready_clear,FUNC_4
+sb1000_error_dpc,FUNC_5
+dev,VAR_0
+Command0,VAR_1
+name,VAR_2
+st,VAR_3
+ioaddr,VAR_4
+lp,VAR_5
+ErrorDpcCounterInitialize,VAR_6

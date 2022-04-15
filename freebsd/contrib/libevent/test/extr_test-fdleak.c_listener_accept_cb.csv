@@ -1,0 +1,17 @@
+BEV_OPT_CLOSE_ON_FREE,VAR_0
+EV_READ,VAR_1
+EV_WRITE,VAR_2
+bufferevent_enable,FUNC_0
+bufferevent_setcb,FUNC_1
+bufferevent_socket_new,FUNC_2
+evconnlistener_get_base,FUNC_3
+server_event_cb,VAR_3
+server_read_cb,VAR_4
+listener_accept_cb,FUNC_4
+listener,VAR_5
+sock,VAR_6
+addr,VAR_7
+len,VAR_8
+ptr,VAR_9
+base,VAR_10
+bev,VAR_11

@@ -1,0 +1,15 @@
+FREQ,VAR_0
+MCF_IRQ_PIT1,VAR_1
+NSEC_PER_SEC,VAR_2
+cf_pit_clockevent,VAR_3
+clockevent_delta2ns,FUNC_0
+clockevents_register_device,FUNC_1
+clocksource_register_hz,FUNC_2
+cpumask_of,FUNC_3
+div_sc,FUNC_4
+pit_clk,VAR_4
+pit_irq,VAR_5
+setup_irq,FUNC_5
+smp_processor_id,FUNC_6
+hw_timer_init,FUNC_7
+handler,VAR_6

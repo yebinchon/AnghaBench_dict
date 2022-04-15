@@ -1,0 +1,15 @@
+CIR_IRCON,VAR_0
+CIR_IRCON_RXEN,VAR_1
+CIR_IRCON_RXINV,VAR_2
+CIR_IRCON_SAMPLE_PERIOD_SEL,VAR_3
+CIR_IRCON_TXEN,VAR_4
+CIR_IRSTS,VAR_5
+LOGICAL_DEV_CIR,VAR_6
+nvt_cir_reg_write,FUNC_0
+nvt_enable_logical_dev,FUNC_1
+nvt_set_cir_iren,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+nvt_enable_cir,FUNC_5
+nvt,VAR_7
+flags,VAR_8

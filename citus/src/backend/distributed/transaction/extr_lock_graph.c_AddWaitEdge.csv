@@ -1,0 +1,16 @@
+AddProcToVisit,FUNC_0
+AllocWaitEdge,FUNC_1
+GetBackendDataForProc,FUNC_2
+IsInDistributedTransaction,FUNC_3
+IsProcessWaitingForLock,FUNC_4
+IsProcessWaitingForSafeOperations,FUNC_5
+AddWaitEdge,FUNC_6
+waitGraph,VAR_0
+waitingProc,VAR_1
+blockingProc,VAR_2
+remaining,VAR_3
+curEdge,VAR_4
+waitingBackendData,VAR_5
+blockingBackendData,VAR_6
+waitingTransactionId,VAR_7
+blockingTransactionId,VAR_8

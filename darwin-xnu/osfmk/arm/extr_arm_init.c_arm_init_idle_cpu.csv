@@ -1,0 +1,17 @@
+DAIFSC_ASYNCF,VAR_0
+FALSE,VAR_1
+SCTLR_PREDIC,VAR_2
+TRUE,VAR_3
+__builtin_arm_wsr,FUNC_0
+arm_diag,VAR_4
+cpu_defeatures_set,FUNC_1
+cpu_idle_exit,FUNC_2
+cpus_defeatures,VAR_5
+fiq_context_init,FUNC_3
+flush_mmu_tlb,FUNC_4
+get_mmu_control,FUNC_5
+machine_set_current_thread,FUNC_6
+pmap_clear_user_ttb,FUNC_7
+set_mmu_control,FUNC_8
+arm_init_idle_cpu,FUNC_9
+cpu_data_ptr,VAR_6

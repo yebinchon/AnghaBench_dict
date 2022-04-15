@@ -1,0 +1,17 @@
+CONFIG_BOOTLOADER_DATA_FACTORY_RESET,VAR_0
+CONFIG_BOOTLOADER_HOLD_TIME_GPIO,VAR_1
+CONFIG_BOOTLOADER_NUM_PIN_APP_TEST,VAR_2
+CONFIG_BOOTLOADER_NUM_PIN_FACTORY_RESET,VAR_3
+DEEPSLEEP_RESET,VAR_4
+ESP_LOGE,FUNC_0
+ESP_LOGI,FUNC_1
+INVALID_INDEX,VAR_5
+TAG,VAR_6
+TEST_APP_INDEX,VAR_7
+bootloader_common_check_long_hold_gpio,FUNC_2
+bootloader_common_erase_part_type_data,FUNC_3
+bootloader_utility_get_selected_boot_partition,FUNC_4
+rtc_get_reset_reason,FUNC_5
+selected_boot_partition,FUNC_6
+bs,VAR_8
+boot_index,VAR_9

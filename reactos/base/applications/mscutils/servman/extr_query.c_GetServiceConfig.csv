@@ -1,0 +1,17 @@
+CloseServiceHandle,FUNC_0
+ERROR_INSUFFICIENT_BUFFER,VAR_0
+GetLastError,FUNC_1
+GetProcessHeap,FUNC_2
+HeapAlloc,FUNC_3
+HeapFree,FUNC_4
+OpenSCManagerW,FUNC_5
+OpenServiceW,FUNC_6
+QueryServiceConfigW,FUNC_7
+SC_MANAGER_CONNECT,VAR_1
+SERVICE_QUERY_CONFIG,VAR_2
+GetServiceConfig,FUNC_8
+lpServiceName,VAR_3
+lpServiceConfig,VAR_4
+hSCManager,VAR_5
+hService,VAR_6
+dwBytesNeeded,VAR_7

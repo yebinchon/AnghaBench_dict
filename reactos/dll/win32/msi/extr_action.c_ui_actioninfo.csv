@@ -1,0 +1,17 @@
+INSTALLMESSAGE_INFO,VAR_0
+MSIERR_INFO_ACTIONENDED,VAR_1
+MSIERR_INFO_ACTIONSTART,VAR_2
+MSI_CreateRecord,FUNC_0
+MSI_ProcessMessage,FUNC_1
+MSI_RecordSetInteger,FUNC_2
+MSI_RecordSetStringW,FUNC_3
+msi_free,FUNC_4
+msi_get_error_message,FUNC_5
+msiobj_release,FUNC_6
+ui_actioninfo,FUNC_7
+package,VAR_3
+action,VAR_4
+start,VAR_5
+rc,VAR_6
+row,VAR_7
+template,VAR_8

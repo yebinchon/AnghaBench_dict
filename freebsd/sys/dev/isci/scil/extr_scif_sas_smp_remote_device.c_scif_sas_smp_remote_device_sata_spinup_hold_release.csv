@@ -1,0 +1,15 @@
+SCIF_LOG_OBJECT_DOMAIN_DISCOVERY,VAR_0
+SCIF_LOG_OBJECT_REMOTE_DEVICE,VAR_1
+SCIF_LOG_TRACE,FUNC_0
+SMP_FUNCTION_DISCOVER,VAR_2
+sci_base_object_get_logger,FUNC_1
+scif_cb_start_internal_io_task_schedule,FUNC_2
+scif_sas_controller_start_high_priority_io,VAR_3
+scif_sas_domain_find_device_in_spinup_hold,FUNC_3
+scif_sas_smp_remote_device_finish_discover,FUNC_4
+scif_sas_smp_request_construct_discover,FUNC_5
+scif_sas_smp_remote_device_sata_spinup_hold_release,FUNC_6
+fw_device,VAR_4
+fw_domain,VAR_5
+fw_controller,VAR_6
+device_to_poll,VAR_7

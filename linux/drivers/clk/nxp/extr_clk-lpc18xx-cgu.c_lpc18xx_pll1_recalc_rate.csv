@@ -1,0 +1,17 @@
+LPC18XX_CGU_PLL1_CTRL,VAR_0
+LPC18XX_CGU_PLL1_STAT,VAR_1
+LPC18XX_PLL1_CTRL_DIRECT,VAR_2
+LPC18XX_PLL1_CTRL_FBSEL,VAR_3
+readl,FUNC_0
+to_lpc_pll,FUNC_1
+lpc18xx_pll1_recalc_rate,FUNC_2
+hw,VAR_4
+parent_rate,VAR_5
+pll,VAR_6
+msel,VAR_7
+nsel,VAR_8
+psel,VAR_9
+direct,VAR_10
+fbsel,VAR_11
+stat,VAR_12
+ctrl,VAR_13

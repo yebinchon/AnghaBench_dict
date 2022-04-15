@@ -1,0 +1,12 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+git_reference_free,FUNC_2
+git_reference_lookup,FUNC_3
+git_reference_peel,FUNC_4
+assert_peel_error,FUNC_5
+error,VAR_1
+ref_name,VAR_2
+requested_type,VAR_3
+ref,VAR_4
+peeled,VAR_5

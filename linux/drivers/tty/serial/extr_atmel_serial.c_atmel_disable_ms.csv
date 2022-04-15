@@ -1,0 +1,17 @@
+ATMEL_US_CTSIC,VAR_0
+ATMEL_US_DCDIC,VAR_1
+ATMEL_US_DSRIC,VAR_2
+ATMEL_US_IDR,VAR_3
+ATMEL_US_RIIC,VAR_4
+UART_GPIO_CTS,VAR_5
+UART_GPIO_DCD,VAR_6
+UART_GPIO_DSR,VAR_7
+UART_GPIO_RI,VAR_8
+atmel_uart_writel,FUNC_0
+mctrl_gpio_disable_ms,FUNC_1
+mctrl_gpio_to_gpiod,FUNC_2
+to_atmel_uart_port,FUNC_3
+atmel_disable_ms,FUNC_4
+port,VAR_9
+atmel_port,VAR_10
+idr,VAR_11

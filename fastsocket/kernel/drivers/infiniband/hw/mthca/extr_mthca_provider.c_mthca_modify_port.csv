@@ -1,0 +1,15 @@
+ERESTARTSYS,VAR_0
+IB_PORT_RESET_QKEY_CNTR,VAR_1
+mthca_SET_IB,FUNC_0
+mthca_query_port,FUNC_1
+mutex_lock_interruptible,FUNC_2
+mutex_unlock,FUNC_3
+to_mdev,FUNC_4
+mthca_modify_port,FUNC_5
+ibdev,VAR_2
+port,VAR_3
+port_modify_mask,VAR_4
+props,VAR_5
+set_ib,VAR_6
+attr,VAR_7
+err,VAR_8

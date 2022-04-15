@@ -1,0 +1,8 @@
+CPU_HW_PSTATE,VAR_0
+MSR_FIDVID_STATUS,VAR_1
+MSR_S_LO_CHANGE_PENDING,VAR_2
+cpu_family,VAR_3
+rdmsr,FUNC_0
+pending_bit_stuck,FUNC_1
+lo,VAR_4
+hi,VAR_5

@@ -1,0 +1,12 @@
+ISCSI_FLAG_CMD_FINAL,VAR_0
+ISCSI_OP_SCSI_TMFUNC_RSP,VAR_1
+atomic_read,FUNC_0
+cpu_to_be32,FUNC_1
+iscsit_convert_tcm_tmr_rsp,FUNC_2
+iscsit_increment_maxcmdsn,FUNC_3
+pr_debug,FUNC_4
+iscsit_build_task_mgt_rsp,FUNC_5
+cmd,VAR_2
+conn,VAR_3
+hdr,VAR_4
+se_tmr,VAR_5

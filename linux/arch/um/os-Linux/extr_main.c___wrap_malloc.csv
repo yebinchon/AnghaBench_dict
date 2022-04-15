@@ -1,0 +1,11 @@
+ENOMEM,VAR_0
+UM_GFP_KERNEL,VAR_1
+UM_KERN_PAGE_SIZE,VAR_2
+__real_malloc,FUNC_0
+errno,VAR_3
+kmalloc_ok,VAR_4
+uml_kmalloc,FUNC_1
+vmalloc,FUNC_2
+__wrap_malloc,FUNC_3
+size,VAR_5
+ret,VAR_6

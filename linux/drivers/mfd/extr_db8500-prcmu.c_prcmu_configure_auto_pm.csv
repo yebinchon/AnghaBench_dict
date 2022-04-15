@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+PRCMU_AUTO_PM_ON,VAR_0
+PRCM_REQ_MB2_AUTO_PM_IDLE,VAR_1
+PRCM_REQ_MB2_AUTO_PM_SLEEP,VAR_2
+mb2_transfer,VAR_3
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+tcdm_base,VAR_4
+writel,FUNC_3
+prcmu_configure_auto_pm,FUNC_4
+sleep,VAR_5
+idle,VAR_6
+sleep_cfg,VAR_7
+idle_cfg,VAR_8
+flags,VAR_9

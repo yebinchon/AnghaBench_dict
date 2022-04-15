@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+PM8607_STATUS_2,VAR_1
+PM860X_TEMP_TBAT,VAR_2
+PM860X_TEMP_TINT,VAR_3
+STATUS2_BAT,VAR_4
+ccnt_data,VAR_5
+clear_ccnt,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pm860x_reg_read,FUNC_3
+pm860x_batt_handler,FUNC_4
+irq,VAR_6
+data,VAR_7
+info,VAR_8
+ret,VAR_9

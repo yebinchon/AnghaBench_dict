@@ -1,0 +1,15 @@
+UBI_CRC32_INIT,VAR_0
+UBI_VTBL_RECORD_SIZE_CRC,VAR_1
+cpu_to_be32,FUNC_0
+crc32,FUNC_1
+empty_vtbl_record,VAR_2
+memcpy,FUNC_2
+self_vtbl_check,FUNC_3
+ubi_assert,FUNC_4
+ubi_update_layout_vol,FUNC_5
+ubi_change_vtbl_record,FUNC_6
+ubi,VAR_3
+idx,VAR_4
+vtbl_rec,VAR_5
+err,VAR_6
+crc,VAR_7

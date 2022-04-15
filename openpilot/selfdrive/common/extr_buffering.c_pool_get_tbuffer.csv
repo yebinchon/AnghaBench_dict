@@ -1,0 +1,11 @@
+POOL_MAX_TBUFS,VAR_0
+assert,FUNC_0
+pool_release,VAR_1
+pthread_mutex_lock,FUNC_1
+pthread_mutex_unlock,FUNC_2
+tbuffer_init2,FUNC_3
+tbuffer_stop,FUNC_4
+pool_get_tbuffer,FUNC_5
+s,VAR_2
+tbuf,VAR_3
+stopped,VAR_4

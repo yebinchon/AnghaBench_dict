@@ -1,0 +1,12 @@
+WARN_ON,FUNC_0
+atomic_add_unless,FUNC_1
+atomic_dec_and_test,FUNC_2
+local_irq_restore,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+kref_put_spinlock_irqsave,FUNC_6
+kref,VAR_0
+release,VAR_1
+kref,VAR_2
+lock,VAR_3
+flags,VAR_4

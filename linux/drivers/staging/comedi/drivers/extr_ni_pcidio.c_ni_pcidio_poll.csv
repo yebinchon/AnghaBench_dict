@@ -1,0 +1,12 @@
+comedi_buf_n_bytes_ready,FUNC_0
+mite_sync_dma,FUNC_1
+spin_lock,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ni_pcidio_poll,FUNC_6
+dev,VAR_0
+s,VAR_1
+devpriv,VAR_2
+irq_flags,VAR_3
+count,VAR_4

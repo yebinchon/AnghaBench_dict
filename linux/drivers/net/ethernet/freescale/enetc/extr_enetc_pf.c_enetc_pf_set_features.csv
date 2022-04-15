@@ -1,0 +1,13 @@
+NETIF_F_HW_VLAN_CTAG_RX,VAR_0
+NETIF_F_HW_VLAN_CTAG_TX,VAR_1
+NETIF_F_LOOPBACK,VAR_2
+enetc_enable_rxvlan,FUNC_0
+enetc_enable_txvlan,FUNC_1
+enetc_set_features,FUNC_2
+enetc_set_loopback,FUNC_3
+netdev_priv,FUNC_4
+enetc_pf_set_features,FUNC_5
+ndev,VAR_3
+features,VAR_4
+changed,VAR_5
+priv,VAR_6

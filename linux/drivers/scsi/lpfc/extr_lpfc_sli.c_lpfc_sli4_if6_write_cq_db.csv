@@ -1,0 +1,12 @@
+bf_set,FUNC_0
+lpfc_if6_cq_doorbell_arm,VAR_0
+lpfc_if6_cq_doorbell_cqid,VAR_1
+lpfc_if6_cq_doorbell_num_released,VAR_2
+unlikely,FUNC_1
+writel,FUNC_2
+lpfc_sli4_if6_write_cq_db,FUNC_3
+phba,VAR_3
+q,VAR_4
+count,VAR_5
+arm,VAR_6
+doorbell,VAR_7

@@ -1,0 +1,16 @@
+RTM_GETADDR,VAR_0
+RTM_GETLINK,VAR_1
+close,FUNC_0
+freeResultList,FUNC_1
+getResultList,FUNC_2
+interpretAddrs,FUNC_3
+interpretLinks,FUNC_4
+netlink_socket,FUNC_5
+getifaddrs,FUNC_6
+ifap,VAR_2
+l_socket,VAR_3
+l_result,VAR_4
+l_numLinks,VAR_5
+l_pid,VAR_6
+l_linkResults,VAR_7
+l_addrResults,VAR_8

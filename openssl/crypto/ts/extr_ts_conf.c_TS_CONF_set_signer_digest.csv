@@ -1,0 +1,13 @@
+ENV_SIGNER_DIGEST,VAR_0
+EVP_get_digestbyname,FUNC_0
+NCONF_get_string,FUNC_1
+TS_RESP_CTX_set_signer_digest,FUNC_2
+ts_CONF_invalid,FUNC_3
+ts_CONF_lookup_fail,FUNC_4
+TS_CONF_set_signer_digest,FUNC_5
+conf,VAR_1
+section,VAR_2
+md,VAR_3
+ctx,VAR_4
+ret,VAR_5
+sign_md,VAR_6

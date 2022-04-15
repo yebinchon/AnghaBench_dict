@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+RPC_BUFFER_MAXSIZE,VAR_1
+RPC_BUFFER_POOLSIZE,VAR_2
+RPC_TASK_POOLSIZE,VAR_3
+SLAB_HWCACHE_ALIGN,VAR_4
+delay_queue,VAR_5
+kmem_cache_create,FUNC_0
+mempool_create_slab_pool,FUNC_1
+rpc_buffer_mempool,VAR_6
+rpc_buffer_slabp,VAR_7
+rpc_destroy_mempool,FUNC_2
+rpc_init_wait_queue,FUNC_3
+rpc_task_mempool,VAR_8
+rpc_task_slabp,VAR_9
+rpciod_start,FUNC_4
+rpc_init_mempool,FUNC_5

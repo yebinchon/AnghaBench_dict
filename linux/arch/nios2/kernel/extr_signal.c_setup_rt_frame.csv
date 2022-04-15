@@ -1,0 +1,15 @@
+EFAULT,VAR_0
+SA_SIGINFO,VAR_1
+__put_user,FUNC_0
+__save_altstack,FUNC_1
+copy_siginfo_to_user,FUNC_2
+copy_to_user,FUNC_3
+force_sigsegv,FUNC_4
+get_sigframe,FUNC_5
+rt_setup_ucontext,FUNC_6
+setup_rt_frame,FUNC_7
+ksig,VAR_2
+set,VAR_3
+regs,VAR_4
+frame,VAR_5
+err,VAR_6

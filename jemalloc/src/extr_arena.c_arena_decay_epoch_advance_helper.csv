@@ -1,0 +1,15 @@
+arena_decay_backlog_update,FUNC_0
+arena_decay_deadline_init,FUNC_1
+arena_decay_deadline_reached,FUNC_2
+assert,FUNC_3
+nstime_add,FUNC_4
+nstime_copy,FUNC_5
+nstime_divide,FUNC_6
+nstime_imultiply,FUNC_7
+nstime_subtract,FUNC_8
+arena_decay_epoch_advance_helper,FUNC_9
+decay,VAR_0
+time,VAR_1
+current_npages,VAR_2
+delta,VAR_3
+nadvance_u64,VAR_4

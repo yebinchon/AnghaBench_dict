@@ -1,0 +1,14 @@
+DMA_CH_TDTR_LO,VAR_0
+XLGMAC_DMA_REG,FUNC_0
+XLGMAC_GET_DESC_DATA,FUNC_1
+jiffies,VAR_1
+lower_32_bits,FUNC_2
+mod_timer,FUNC_3
+usecs_to_jiffies,FUNC_4
+wmb,FUNC_5
+writel,FUNC_6
+xlgmac_tx_start_xmit,FUNC_7
+channel,VAR_2
+ring,VAR_3
+pdata,VAR_4
+desc_data,VAR_5

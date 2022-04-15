@@ -1,0 +1,14 @@
+CHECK,FUNC_0
+memcmp,FUNC_1
+secp256k1_rand_int,FUNC_2
+secp256k1_sha256_finalize,FUNC_3
+secp256k1_sha256_initialize,FUNC_4
+secp256k1_sha256_write,FUNC_5
+strlen,FUNC_6
+run_sha256_tests,FUNC_7
+inputs,VAR_0
+outputs,VAR_1
+i,VAR_2
+out,VAR_3
+hasher,VAR_4
+split,VAR_5

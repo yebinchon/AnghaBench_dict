@@ -1,0 +1,11 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_MTUTC_LEN,VAR_0
+MLXSW_REG_MTUTC_OPERATION_ADJUST_FREQ,VAR_1
+mlxsw_reg_mtutc_pack,FUNC_1
+mlxsw_reg_write,FUNC_2
+mtutc,VAR_2
+mlxsw_sp1_ptp_phc_adjfreq,FUNC_3
+clock,VAR_3
+freq_adj,VAR_4
+mlxsw_core,VAR_5
+mtutc_pl,VAR_6

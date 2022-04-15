@@ -1,0 +1,12 @@
+DLOAD_FLAG_VER_SHIFT,VAR_0
+DLOAD_HANDLER_VER,VAR_1
+DL_TYPE_CLM,VAR_2
+brcmf_fil_iovar_data_set,FUNC_0
+cpu_to_le16,FUNC_1
+cpu_to_le32,FUNC_2
+brcmf_c_download,FUNC_3
+ifp,VAR_3
+flag,VAR_4
+dload_buf,VAR_5
+len,VAR_6
+err,VAR_7

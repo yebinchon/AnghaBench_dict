@@ -1,0 +1,16 @@
+NFTA_LOOKUP_DREG,VAR_0
+NFTA_LOOKUP_FLAGS,VAR_1
+NFTA_LOOKUP_SET,VAR_2
+NFTA_LOOKUP_SREG,VAR_3
+NFT_LOOKUP_F_INV,VAR_4
+NFT_SET_MAP,VAR_5
+htonl,FUNC_0
+nft_dump_register,FUNC_1
+nft_expr_priv,FUNC_2
+nla_put_be32,FUNC_3
+nla_put_string,FUNC_4
+nft_lookup_dump,FUNC_5
+skb,VAR_6
+expr,VAR_7
+priv,VAR_8
+flags,VAR_9

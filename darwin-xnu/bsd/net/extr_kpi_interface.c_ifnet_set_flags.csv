@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+IFF_MULTICAST,VAR_1
+IFF_UP,VAR_2
+IGMP_IFINFO,FUNC_0
+MLD_IFINFO,FUNC_1
+if_updown,FUNC_2
+ifnet_lock_done,FUNC_3
+ifnet_lock_exclusive,FUNC_4
+igmp_initsilent,FUNC_5
+mld6_initsilent,FUNC_6
+ifnet_set_flags,FUNC_7
+interface,VAR_3
+new_flags,VAR_4
+mask,VAR_5
+old_flags,VAR_6

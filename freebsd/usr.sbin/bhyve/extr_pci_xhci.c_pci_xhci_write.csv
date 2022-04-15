@@ -1,0 +1,17 @@
+WPRINTF,FUNC_0
+XHCI_CAPLEN,VAR_0
+assert,FUNC_1
+pci_xhci_dbregs_write,FUNC_2
+pci_xhci_hostop_write,FUNC_3
+pci_xhci_rtsregs_write,FUNC_4
+pthread_mutex_lock,FUNC_5
+pthread_mutex_unlock,FUNC_6
+pci_xhci_write,FUNC_7
+ctx,VAR_1
+vcpu,VAR_2
+pi,VAR_3
+baridx,VAR_4
+offset,VAR_5
+size,VAR_6
+value,VAR_7
+sc,VAR_8

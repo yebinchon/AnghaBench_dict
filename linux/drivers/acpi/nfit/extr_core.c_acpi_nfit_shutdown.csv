@@ -1,0 +1,16 @@
+ARS_CANCEL,VAR_0
+acpi_desc_lock,VAR_1
+cancel_delayed_work_sync,FUNC_0
+flush_workqueue,FUNC_1
+list_del,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+nfit_device_lock,FUNC_5
+nfit_device_unlock,FUNC_6
+nfit_wq,VAR_2
+set_bit,FUNC_7
+to_nvdimm_bus_dev,FUNC_8
+acpi_nfit_shutdown,FUNC_9
+data,VAR_3
+acpi_desc,VAR_4
+bus_dev,VAR_5

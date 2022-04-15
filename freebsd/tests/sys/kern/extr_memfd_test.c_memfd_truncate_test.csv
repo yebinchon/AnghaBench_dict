@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+F_ADD_SEALS,VAR_0
+MFD_ALLOW_SEALING,VAR_1
+close,FUNC_1
+errno,VAR_2
+fcntl,FUNC_2
+ftruncate,FUNC_3
+memfd_create,FUNC_4
+memfd_truncate_test,FUNC_5
+initial_size,VAR_3
+dest_size,VAR_4
+seals,VAR_5
+err,VAR_6
+fd,VAR_7

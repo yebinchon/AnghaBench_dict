@@ -1,0 +1,14 @@
+SAT_PROTOCOL_FPDMA,VAR_0
+SCIF_LOG_OBJECT_IO_REQUEST,VAR_1
+SCIF_LOG_TRACE,FUNC_0
+SCIF_SAS_INVALID_NCQ_TAG,VAR_2
+SCI_FAILURE_NO_NCQ_TAG_AVAILABLE,VAR_3
+SCI_SUCCESS,VAR_4
+sci_base_object_get_logger,FUNC_1
+scic_stp_io_request_get_h2d_reg_address,FUNC_2
+scic_stp_io_request_set_ncq_tag,FUNC_3
+scif_sas_stp_remote_device_allocate_ncq_tag,FUNC_4
+scif_sas_stp_io_request_constructed_start_handler,FUNC_5
+io_request,VAR_5
+fw_io,VAR_6
+fis,VAR_7

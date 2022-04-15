@@ -1,0 +1,11 @@
+IPMI_GET_MSG_CMD,VAR_0
+IPMI_NETFN_APP_REQUEST,VAR_1
+SSIF_GETTING_MESSAGES,VAR_2
+SSIF_NORMAL,VAR_3
+check_start_send,FUNC_0
+ipmi_alloc_smi_msg,FUNC_1
+ipmi_ssif_unlock_cond,FUNC_2
+start_recv_msg_fetch,FUNC_3
+ssif_info,VAR_4
+flags,VAR_5
+msg,VAR_6

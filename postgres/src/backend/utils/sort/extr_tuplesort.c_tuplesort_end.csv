@@ -1,0 +1,17 @@
+ExecDropSingleTupleTableSlot,FUNC_0
+FreeExecutorState,FUNC_1
+GetPerTupleExprContext,FUNC_2
+LOG,VAR_0
+LogicalTapeSetBlocks,FUNC_3
+LogicalTapeSetClose,FUNC_4
+MemoryContextDelete,FUNC_5
+MemoryContextSwitchTo,FUNC_6
+SERIAL,FUNC_7
+TRACE_POSTGRESQL_SORT_DONE,FUNC_8
+elog,FUNC_9
+pg_rusage_show,FUNC_10
+trace_sort,VAR_1
+tuplesort_end,FUNC_11
+state,VAR_2
+oldcontext,VAR_3
+econtext,VAR_4

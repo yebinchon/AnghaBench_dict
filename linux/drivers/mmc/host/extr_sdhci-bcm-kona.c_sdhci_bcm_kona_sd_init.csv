@@ -1,0 +1,10 @@
+KONA_SDHOST_CORECTRL,VAR_0
+KONA_SDHOST_COREIMR,VAR_1
+KONA_SDHOST_EN,VAR_2
+KONA_SDHOST_IP,VAR_3
+sdhci_readl,FUNC_0
+sdhci_writel,FUNC_1
+usleep_range,FUNC_2
+sdhci_bcm_kona_sd_init,FUNC_3
+host,VAR_4
+val,VAR_5

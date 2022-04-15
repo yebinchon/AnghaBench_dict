@@ -1,0 +1,13 @@
+DTLS1_HM_HEADER_LENGTH,VAR_0
+SSL3_MT_CCS,VAR_1
+SSL3_MT_CHANGE_CIPHER_SPEC,VAR_2
+WPACKET_allocate_bytes,FUNC_0
+WPACKET_put_bytes_u8,FUNC_1
+WPACKET_start_sub_packet,FUNC_2
+dtls1_set_message_header,FUNC_3
+dtls1_set_message_header_int,FUNC_4
+dtls1_set_handshake_header,FUNC_5
+s,VAR_3
+pkt,VAR_4
+htype,VAR_5
+header,VAR_6

@@ -1,0 +1,15 @@
+PHY_PORT_OFFSET,VAR_0
+ROCEE_SMAC_H_0_REG,VAR_1
+ROCEE_SMAC_H_ROCEE_PORT_MTU_M,VAR_2
+ROCEE_SMAC_H_ROCEE_PORT_MTU_S,VAR_3
+cpu_to_le32,FUNC_0
+le32_to_cpu,FUNC_1
+roce_read,FUNC_2
+roce_set_field,FUNC_3
+roce_write,FUNC_4
+hns_roce_v1_set_mtu,FUNC_5
+hr_dev,VAR_4
+phy_port,VAR_5
+mtu,VAR_6
+tmp,VAR_7
+val,VAR_8

@@ -1,0 +1,13 @@
+QLCNIC_CMD_CONFIG_INTR_COAL,VAR_0
+QLCNIC_INTR_COAL_TYPE_TX,VAR_1
+QLCNIC_RCODE_SUCCESS,VAR_2
+netdev_err,FUNC_0
+qlcnic_alloc_mbx_args,FUNC_1
+qlcnic_free_mbx_args,FUNC_2
+qlcnic_issue_cmd,FUNC_3
+qlcnic_83xx_set_tx_intr_coal,FUNC_4
+adapter,VAR_3
+coal,VAR_4
+cmd,VAR_5
+temp,VAR_6
+err,VAR_7

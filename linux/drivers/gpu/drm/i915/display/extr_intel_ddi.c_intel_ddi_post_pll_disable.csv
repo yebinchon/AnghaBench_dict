@@ -1,0 +1,16 @@
+enc_to_dig_port,FUNC_0
+intel_crtc_has_dp_encoder,FUNC_1
+intel_ddi_main_link_aux_domain,FUNC_2
+intel_display_power_put_unchecked,FUNC_3
+intel_phy_is_tc,FUNC_4
+intel_port_to_phy,FUNC_5
+intel_tc_port_put_link,FUNC_6
+to_i915,FUNC_7
+intel_ddi_post_pll_disable,FUNC_8
+encoder,VAR_0
+crtc_state,VAR_1
+conn_state,VAR_2
+dev_priv,VAR_3
+dig_port,VAR_4
+phy,VAR_5
+is_tc_port,VAR_6

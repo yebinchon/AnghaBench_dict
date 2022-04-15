@@ -1,0 +1,13 @@
+USBD_CCEMPTY,VAR_0
+USBD_CDFULL,VAR_1
+USBD_CMDDATA,FUNC_0
+USBD_DEVINTCLR,FUNC_1
+USBD_DEVINTST,FUNC_2
+dev_dbg,FUNC_3
+readl,FUNC_4
+udc_protocol_cmd_w,FUNC_5
+writel,FUNC_6
+udc_protocol_cmd_r,FUNC_7
+udc,VAR_2
+cmd,VAR_3
+to,VAR_4

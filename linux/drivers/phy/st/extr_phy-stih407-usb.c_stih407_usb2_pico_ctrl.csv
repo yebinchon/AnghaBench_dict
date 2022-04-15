@@ -1,0 +1,6 @@
+STIH407_USB_PICOPHY_CTRL_PORT_CONF,VAR_0
+STIH407_USB_PICOPHY_CTRL_PORT_MASK,VAR_1
+regmap_update_bits,FUNC_0
+reset_control_deassert,FUNC_1
+stih407_usb2_pico_ctrl,FUNC_2
+phy_dev,VAR_2

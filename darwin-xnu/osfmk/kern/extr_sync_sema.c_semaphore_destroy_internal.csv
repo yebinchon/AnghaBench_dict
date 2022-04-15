@@ -1,0 +1,14 @@
+FALSE,VAR_0
+SEMAPHORE_EVENT,VAR_1
+TASK_NULL,VAR_2
+THREAD_RESTART,VAR_3
+WAITQ_ALL_PRIORITIES,VAR_4
+WAITQ_UNLOCK,VAR_5
+assert,FUNC_0
+remqueue,FUNC_1
+semaphore_unlock,FUNC_2
+waitq_wakeup64_all_locked,FUNC_3
+semaphore_destroy_internal,FUNC_4
+task,VAR_6
+semaphore,VAR_7
+old_count,VAR_8

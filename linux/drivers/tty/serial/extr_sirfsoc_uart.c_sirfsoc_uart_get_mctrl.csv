@@ -1,0 +1,12 @@
+SIRFUART_AFC_CTS_STATUS,VAR_0
+SIRF_REAL_UART,VAR_1
+TIOCM_CAR,VAR_2
+TIOCM_CTS,VAR_3
+TIOCM_DSR,VAR_4
+gpio_get_value,FUNC_0
+rd_regl,FUNC_1
+to_sirfport,FUNC_2
+sirfsoc_uart_get_mctrl,FUNC_3
+port,VAR_5
+sirfport,VAR_6
+ureg,VAR_7

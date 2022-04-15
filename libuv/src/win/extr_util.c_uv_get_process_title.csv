@@ -1,0 +1,17 @@
+EnterCriticalSection,FUNC_0
+GetLastError,FUNC_1
+LeaveCriticalSection,FUNC_2
+UV_EINVAL,VAR_0
+UV_ENOBUFS,VAR_1
+assert,FUNC_3
+memcpy,FUNC_4
+process_title,VAR_2
+process_title_lock,VAR_3
+strlen,FUNC_5
+uv__get_process_title,FUNC_6
+uv__once_init,FUNC_7
+uv_translate_sys_error,FUNC_8
+uv_get_process_title,FUNC_9
+buffer,VAR_4
+size,VAR_5
+len,VAR_6

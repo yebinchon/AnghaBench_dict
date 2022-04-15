@@ -1,0 +1,11 @@
+PT_WRITABLE_MASK,VAR_0
+WARN_ONCE,FUNC_0
+is_access_track_spte,FUNC_1
+shadow_acc_track_mask,VAR_1
+shadow_acc_track_saved_bits_mask,VAR_2
+shadow_acc_track_saved_bits_shift,VAR_3
+shadow_accessed_mask,VAR_4
+spte_ad_enabled,FUNC_2
+spte_can_locklessly_be_made_writable,FUNC_3
+mark_spte_for_access_track,FUNC_4
+spte,VAR_5

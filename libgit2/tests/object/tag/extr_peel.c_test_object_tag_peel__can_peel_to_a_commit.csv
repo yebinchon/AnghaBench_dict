@@ -1,0 +1,12 @@
+GIT_OBJECT_COMMIT,VAR_0
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_object_id,FUNC_2
+git_object_type,FUNC_3
+git_oid_streq,FUNC_4
+git_tag_peel,FUNC_5
+repo,VAR_1
+retrieve_tag_from_oid,FUNC_6
+tag,VAR_2
+target,VAR_3
+test_object_tag_peel__can_peel_to_a_commit,FUNC_7

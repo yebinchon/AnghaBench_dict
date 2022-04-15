@@ -1,0 +1,16 @@
+GIT_STATUS_OPTIONS_INIT,VAR_0
+GIT_STATUS_OPT_DISABLE_PATHSPEC_MATCH,VAR_1
+GIT_STATUS_OPT_EXCLUDE_SUBMODULES,VAR_2
+GIT_STATUS_OPT_INCLUDE_UNTRACKED,VAR_3
+GIT_STATUS_OPT_RECURSE_UNTRACKED_DIRS,VAR_4
+cb_status__count,VAR_5
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+cl_must_pass,FUNC_3
+git_status_foreach_ext,FUNC_4
+p_unlink,FUNC_5
+test_status_worktree__simple_delete,FUNC_6
+repo,VAR_6
+opts,VAR_7
+count,VAR_8

@@ -1,0 +1,12 @@
+CORKSCREW_TOTAL_SIZE,VAR_0
+EEPROM_Read,VAR_1
+Wn0EepromCmd,VAR_2
+Wn0EepromData,VAR_3
+inw,FUNC_0
+outw,FUNC_1
+release_region,FUNC_2
+request_region,FUNC_3
+udelay,FUNC_4
+check_device,FUNC_5
+ioaddr,VAR_4
+timer,VAR_5

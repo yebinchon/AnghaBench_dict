@@ -1,0 +1,12 @@
+EFA_ADMIN_ACQ_COMMON_DESC_PHASE_MASK,VAR_0
+READ_ONCE,FUNC_0
+atomic64_add,FUNC_1
+dma_rmb,FUNC_2
+efa_com_handle_single_admin_completion,FUNC_3
+efa_com_handle_admin_completion,FUNC_4
+aq,VAR_1
+cqe,VAR_2
+queue_size_mask,VAR_3
+comp_num,VAR_4
+phase,VAR_5
+ci,VAR_6

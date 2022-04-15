@@ -1,0 +1,10 @@
+FAIL_IF,FUNC_0
+SKIP_IF,FUNC_1
+SPRN_BESCR,VAR_0
+SPRN_EBBHR,VAR_1
+ebb_is_supported,FUNC_2
+mfspr,FUNC_3
+mtspr,FUNC_4
+reg_access,FUNC_5
+val,VAR_2
+expected,VAR_3

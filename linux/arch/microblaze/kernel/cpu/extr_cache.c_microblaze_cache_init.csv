@@ -1,0 +1,16 @@
+CPUVER_7_20_A,VAR_0
+CPUVER_7_20_D,VAR_1
+PVR2_USE_MSR_INSTR,VAR_2
+cpuinfo,VAR_3
+enable_dcache,FUNC_0
+enable_icache,FUNC_1
+invalidate_icache,FUNC_2
+mbc,VAR_4
+pr_info,FUNC_3
+wb_msr,VAR_5
+wb_nomsr,VAR_6
+wt_msr,VAR_7
+wt_msr_noirq,VAR_8
+wt_nomsr,VAR_9
+wt_nomsr_noirq,VAR_10
+microblaze_cache_init,FUNC_4

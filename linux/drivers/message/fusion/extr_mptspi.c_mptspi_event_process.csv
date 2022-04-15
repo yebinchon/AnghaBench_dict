@@ -1,0 +1,14 @@
+MPI_EVENT_INTEGRATED_RAID,VAR_0
+MPI_EVENT_RAID_RC_DOMAIN_VAL_NEEDED,VAR_1
+SPI,VAR_2
+le32_to_cpu,FUNC_0
+mpt_dv_raid,FUNC_1
+mptscsih_event_process,FUNC_2
+shost_priv,FUNC_3
+mptspi_event_process,FUNC_4
+ioc,VAR_3
+pEvReply,VAR_4
+event,VAR_5
+hd,VAR_6
+reason,VAR_7
+disk,VAR_8

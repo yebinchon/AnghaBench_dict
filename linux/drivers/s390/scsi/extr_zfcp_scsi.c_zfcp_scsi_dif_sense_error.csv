@@ -1,0 +1,10 @@
+DID_SOFT_ERROR,VAR_0
+DRIVER_SENSE,VAR_1
+ILLEGAL_REQUEST,VAR_2
+SAM_STAT_CHECK_CONDITION,VAR_3
+scsi_build_sense_buffer,FUNC_0
+set_driver_byte,FUNC_1
+set_host_byte,FUNC_2
+zfcp_scsi_dif_sense_error,FUNC_3
+scmd,VAR_4
+ascq,VAR_5

@@ -1,0 +1,16 @@
+ENVY24HT_MIX_MASK,VAR_0
+ENVY24HT_MIX_REC_MASK,VAR_1
+ENVY24HT_MT_VOLRATE,VAR_2
+SD_F_SOFTPCMVOL,VAR_3
+device_printf,FUNC_0
+envy24ht_wrmt,FUNC_1
+mix_getdevinfo,FUNC_2
+mix_setdevs,FUNC_3
+mix_setrecdevs,FUNC_4
+pcm_getflags,FUNC_5
+pcm_setflags,FUNC_6
+snd_mtxlock,FUNC_7
+snd_mtxunlock,FUNC_8
+envy24htmixer_init,FUNC_9
+m,VAR_4
+sc,VAR_5

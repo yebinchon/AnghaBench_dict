@@ -1,0 +1,15 @@
+RESOURCE_OVERLAY,VAR_0
+RESOURCE_VBI,VAR_1
+RESOURCE_VIDEO,VAR_2
+buffer_release,FUNC_0
+kfree,FUNC_1
+res_check,FUNC_2
+res_free,FUNC_3
+videobuf_mmap_free,FUNC_4
+videobuf_queue_cancel,FUNC_5
+videobuf_read_stop,FUNC_6
+videobuf_streamoff,FUNC_7
+video_release,FUNC_8
+file,VAR_3
+fh,VAR_4
+dev,VAR_5

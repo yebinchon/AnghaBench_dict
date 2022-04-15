@@ -1,0 +1,12 @@
+C_IRQ0,VAR_0
+C_IRQ1,VAR_1
+C_IRQ2,VAR_2
+MIPS_EXC_INT_IO,VAR_3
+MIPS_EXC_INT_IPI_1,VAR_4
+MIPS_EXC_INT_IPI_2,VAR_5
+kvm_clear_c0_guest_cause,FUNC_0
+kvm_mips_dequeue_irq,FUNC_1
+kvm_mips_dequeue_io_int_cb,FUNC_2
+vcpu,VAR_6
+irq,VAR_7
+intr,VAR_8

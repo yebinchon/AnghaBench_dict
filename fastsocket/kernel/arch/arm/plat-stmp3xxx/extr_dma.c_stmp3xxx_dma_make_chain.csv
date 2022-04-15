@@ -1,0 +1,12 @@
+STMP3XXX_DMA_BUS,FUNC_0
+STMP3XXX_DMA_CHANNEL,FUNC_1
+WARN_ON,FUNC_2
+stmp3xxx_dma_allocate_command,FUNC_3
+stmp3xxx_dma_free_command,FUNC_4
+stmp3xxx_dma_make_chain,FUNC_5
+ch,VAR_0
+chain,VAR_1
+descriptors,VAR_2
+items,VAR_3
+i,VAR_4
+err,VAR_5

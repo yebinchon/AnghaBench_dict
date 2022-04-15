@@ -1,0 +1,17 @@
+Assert,FUNC_0
+BufferGetPage,FUNC_1
+BufferGetTag,FUNC_2
+ERROR,VAR_0
+REGBUF_FORCE_IMAGE,VAR_1
+REGBUF_NO_IMAGE,VAR_2
+RelFileNodeEquals,FUNC_3
+begininsert_called,VAR_3
+elog,FUNC_4
+max_registered_block_id,VAR_4
+max_registered_buffers,VAR_5
+registered_buffers,VAR_6
+XLogRegisterBuffer,FUNC_5
+block_id,VAR_7
+buffer,VAR_8
+flags,VAR_9
+regbuf,VAR_10

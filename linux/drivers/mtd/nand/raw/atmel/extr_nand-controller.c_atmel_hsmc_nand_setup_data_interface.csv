@@ -1,0 +1,14 @@
+ATMEL_HSMC_TIMINGS_RBNSEL,FUNC_0
+ATMEL_NAND_NATIVE_RB,VAR_0
+NAND_DATA_IFACE_CHECK_ONLY,VAR_1
+atmel_hsmc_cs_conf_apply,FUNC_1
+atmel_smc_nand_prepare_smcconf,FUNC_2
+to_hsmc_nand_controller,FUNC_3
+atmel_hsmc_nand_setup_data_interface,FUNC_4
+nand,VAR_2
+csline,VAR_3
+conf,VAR_4
+nc,VAR_5
+smcconf,VAR_6
+cs,VAR_7
+ret,VAR_8

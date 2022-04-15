@@ -1,0 +1,12 @@
+br_aes_big_encrypt,FUNC_0
+br_enc32be,FUNC_1
+memcpy,FUNC_2
+xorbuf,FUNC_3
+br_aes_big_ctr_run,FUNC_4
+ctx,VAR_0
+iv,VAR_1
+cc,VAR_2
+data,VAR_3
+len,VAR_4
+buf,VAR_5
+tmp,VAR_6

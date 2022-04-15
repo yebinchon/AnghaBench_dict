@@ -1,0 +1,12 @@
+__intel_display_power_get_domain,FUNC_0
+__intel_display_power_is_enabled,FUNC_1
+intel_runtime_pm_get_if_in_use,FUNC_2
+intel_runtime_pm_put,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+intel_display_power_get_if_enabled,FUNC_6
+dev_priv,VAR_0
+domain,VAR_1
+power_domains,VAR_2
+wakeref,VAR_3
+is_enabled,VAR_4

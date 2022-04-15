@@ -1,0 +1,13 @@
+GICV2M_GRAVITON_ADDRESS_ONLY,VAR_0
+GICV2M_NEEDS_SPI_OFFSET,VAR_1
+gicv2m_get_msi_addr,FUNC_0
+iommu_dma_compose_msi_msg,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+irq_data_get_msi_desc,FUNC_3
+lower_32_bits,FUNC_4
+upper_32_bits,FUNC_5
+gicv2m_compose_msi_msg,FUNC_6
+data,VAR_2
+msg,VAR_3
+v2m,VAR_4
+addr,VAR_5

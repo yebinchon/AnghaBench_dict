@@ -1,0 +1,15 @@
+Del,FUNC_0
+RtspUnsetup,FUNC_1
+assert,FUNC_2
+block_Release,FUNC_3
+free,FUNC_4
+httpd_FileDelete,FUNC_5
+httpd_HostDelete,FUNC_6
+sout_AccessOutDelete,FUNC_7
+sout_MuxDelete,FUNC_8
+unlink,FUNC_9
+vlc_mutex_destroy,FUNC_10
+Close,FUNC_11
+p_this,VAR_0
+p_stream,VAR_1
+p_sys,VAR_2

@@ -1,0 +1,14 @@
+A_WM_CLIENT_LEADER,VAR_0
+XCB_ATOM_WINDOW,VAR_1
+con_by_window_id,FUNC_0
+window_update_leader,FUNC_1
+xcb_get_property_reply,FUNC_2
+xcb_get_property_unchecked,FUNC_3
+handle_clientleader_change,FUNC_4
+data,VAR_2
+conn,VAR_3
+state,VAR_4
+window,VAR_5
+name,VAR_6
+prop,VAR_7
+con,VAR_8

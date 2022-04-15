@@ -1,0 +1,17 @@
+HFI_BUFFERFLAG_EOS,VAR_0
+HFI_BUFFER_INPUT,VAR_1
+V4L2_DEC_CMD_STOP,VAR_2
+VENUS_DEC_STATE_DECODING,VAR_3
+VENUS_DEC_STATE_DRAIN,VAR_4
+hfi_session_process_buf,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+to_inst,FUNC_3
+v4l2_m2m_ioctl_try_decoder_cmd,FUNC_4
+vdec_decoder_cmd,FUNC_5
+file,VAR_5
+fh,VAR_6
+cmd,VAR_7
+inst,VAR_8
+fdata,VAR_9
+ret,VAR_10

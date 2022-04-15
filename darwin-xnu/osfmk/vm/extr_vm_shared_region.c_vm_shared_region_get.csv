@@ -1,0 +1,11 @@
+SHARED_REGION_TRACE_DEBUG,FUNC_0
+VM_KERNEL_ADDRPERM,FUNC_1
+assert,FUNC_2
+task_lock,FUNC_3
+task_unlock,FUNC_4
+vm_shared_region_lock,FUNC_5
+vm_shared_region_reference_locked,FUNC_6
+vm_shared_region_unlock,FUNC_7
+vm_shared_region_get,FUNC_8
+task,VAR_0
+shared_region,VAR_1

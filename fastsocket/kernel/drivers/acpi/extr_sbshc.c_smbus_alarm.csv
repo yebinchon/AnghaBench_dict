@@ -1,0 +1,15 @@
+ACPI_SMB_ALARM_ADDRESS,VAR_0
+ACPI_SMB_STATUS,VAR_1
+OSL_GPE_HANDLER,VAR_2
+acpi_os_execute,FUNC_0
+acpi_smbus_callback,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+smb_hc_read,FUNC_3
+smb_hc_write,FUNC_4
+wake_up,FUNC_5
+smbus_alarm,FUNC_6
+context,VAR_4
+hc,VAR_5
+status,VAR_6
+address,VAR_7

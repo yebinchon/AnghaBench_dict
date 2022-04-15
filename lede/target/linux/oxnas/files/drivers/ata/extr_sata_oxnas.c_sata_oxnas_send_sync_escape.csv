@@ -1,0 +1,10 @@
+CMD_SYNC_ESCAPE,VAR_0
+SATA_COMMAND,VAR_1
+SATA_OPCODE_MASK,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+sata_oxnas_link_read,FUNC_2
+sata_oxnas_send_sync_escape,FUNC_3
+ap,VAR_3
+pd,VAR_4
+reg,VAR_5

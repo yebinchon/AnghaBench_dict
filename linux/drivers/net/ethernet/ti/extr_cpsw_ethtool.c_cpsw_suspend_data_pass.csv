@@ -1,0 +1,10 @@
+cpdma_ctlr_stop,FUNC_0
+cpsw_intr_disable,FUNC_1
+ndev_to_cpsw,FUNC_2
+netif_running,FUNC_3
+netif_tx_stop_all_queues,FUNC_4
+smp_mb__after_atomic,FUNC_5
+cpsw_suspend_data_pass,FUNC_6
+ndev,VAR_0
+cpsw,VAR_1
+i,VAR_2

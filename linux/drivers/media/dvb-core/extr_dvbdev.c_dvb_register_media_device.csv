@@ -1,0 +1,17 @@
+DVB_MAJOR,VAR_0
+ENOMEM,VAR_1
+MEDIA_INTF_T_DVB_CA,VAR_2
+MEDIA_INTF_T_DVB_DEMUX,VAR_3
+MEDIA_INTF_T_DVB_DVR,VAR_4
+MEDIA_INTF_T_DVB_FE,VAR_5
+MEDIA_INTF_T_DVB_NET,VAR_6
+MEDIA_LNK_FL_ENABLED,VAR_7
+MEDIA_LNK_FL_IMMUTABLE,VAR_8
+dvb_create_media_entity,FUNC_0
+media_create_intf_link,FUNC_1
+media_devnode_create,FUNC_2
+dvb_register_media_device,FUNC_3
+dvbdev,VAR_9
+type,VAR_10
+minor,VAR_11
+demux_sink_pads,VAR_12

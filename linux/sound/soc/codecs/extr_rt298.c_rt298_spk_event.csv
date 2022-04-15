@@ -1,0 +1,10 @@
+RT298_SET_EAPD_HIGH,VAR_0
+RT298_SET_EAPD_LOW,VAR_1
+RT298_SPK_EAPD,VAR_2
+snd_soc_component_write,FUNC_0
+snd_soc_dapm_to_component,FUNC_1
+rt298_spk_event,FUNC_2
+w,VAR_3
+kcontrol,VAR_4
+event,VAR_5
+component,VAR_6

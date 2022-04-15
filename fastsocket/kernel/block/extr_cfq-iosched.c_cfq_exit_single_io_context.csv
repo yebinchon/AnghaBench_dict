@@ -1,0 +1,10 @@
+__cfq_exit_single_io_context,FUNC_0
+smp_read_barrier_depends,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+cfq_exit_single_io_context,FUNC_4
+ioc,VAR_0
+cic,VAR_1
+cfqd,VAR_2
+q,VAR_3
+flags,VAR_4

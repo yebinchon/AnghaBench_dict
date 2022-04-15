@@ -1,0 +1,13 @@
+HPSA_MAX_WAIT_INTERVAL_SECS,VAR_0
+HPSA_TUR_RETRY_LIMIT,VAR_1
+dev_warn,FUNC_0
+hpsa_send_test_unit_ready,FUNC_1
+msleep,FUNC_2
+hpsa_wait_for_test_unit_ready,FUNC_3
+h,VAR_2
+c,VAR_3
+lunaddr,VAR_4
+reply_queue,VAR_5
+rc,VAR_6
+count,VAR_7
+waittime,VAR_8

@@ -1,0 +1,10 @@
+RECV_IDLE,VAR_0
+SSIP_KATOUT,VAR_1
+SSIP_WDTOUT,VAR_2
+del_timer,FUNC_0
+jiffies,VAR_3
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+ssip_set_txstate,FUNC_3
+ssi,VAR_4
+state,VAR_5

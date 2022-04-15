@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+POWER_SUPPLY_HEALTH_DEAD,VAR_1
+POWER_SUPPLY_HEALTH_GOOD,VAR_2
+POWER_SUPPLY_HEALTH_OVERHEAT,VAR_3
+POWER_SUPPLY_HEALTH_OVERVOLTAGE,VAR_4
+POWER_SUPPLY_HEALTH_UNSPEC_FAILURE,VAR_5
+ab8500_charger_get_usb_current,FUNC_0
+ab8500_charger_get_vbus_voltage,FUNC_1
+ab8500_charger_usb_cv,FUNC_2
+psy_to_ux500_charger,FUNC_3
+to_ab8500_charger_usb_device_info,FUNC_4
+ab8500_charger_usb_get_property,FUNC_5
+psy,VAR_6
+psp,VAR_7
+val,VAR_8
+di,VAR_9
+ret,VAR_10

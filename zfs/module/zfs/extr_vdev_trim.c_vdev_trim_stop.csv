@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+B_TRUE,VAR_0
+MUTEX_HELD,FUNC_1
+RW_WRITER,VAR_1
+SCL_CONFIG,VAR_2
+SCL_STATE,VAR_3
+VDEV_TRIM_CANCELED,VAR_4
+list_insert_tail,FUNC_2
+spa_config_held,FUNC_3
+spa_namespace_lock,VAR_5
+vdev_is_concrete,FUNC_4
+vdev_trim_change_state,FUNC_5
+vdev_trim_stop_wait_impl,FUNC_6
+vdev_trim_stop,FUNC_7
+vd,VAR_6
+tgt_state,VAR_7
+vd_list,VAR_8

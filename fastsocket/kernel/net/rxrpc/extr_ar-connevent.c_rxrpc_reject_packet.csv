@@ -1,0 +1,9 @@
+BUG,FUNC_0
+CHECK_SLAB_OKAY,FUNC_1
+atomic_inc_not_zero,FUNC_2
+printk,FUNC_3
+rxrpc_queue_work,FUNC_4
+skb_queue_tail,FUNC_5
+rxrpc_reject_packet,FUNC_6
+local,VAR_0
+skb,VAR_1

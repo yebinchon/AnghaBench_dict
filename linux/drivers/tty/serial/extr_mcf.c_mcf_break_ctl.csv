@@ -1,0 +1,10 @@
+MCFUART_UCR,VAR_0
+MCFUART_UCR_CMDBREAKSTART,VAR_1
+MCFUART_UCR_CMDBREAKSTOP,VAR_2
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+writeb,FUNC_2
+mcf_break_ctl,FUNC_3
+port,VAR_3
+break_state,VAR_4
+flags,VAR_5

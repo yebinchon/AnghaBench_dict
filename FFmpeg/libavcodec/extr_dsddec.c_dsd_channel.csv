@@ -1,0 +1,17 @@
+AV_CODEC_ID_DSD_LSBF,VAR_0
+AV_CODEC_ID_DSD_LSBF_PLANAR,VAR_1
+AV_CODEC_ID_DSD_MSBF_PLANAR,VAR_2
+ff_dsd2pcm_translate,FUNC_0
+dsd_channel,FUNC_1
+avctx,VAR_3
+tdata,VAR_4
+j,VAR_5
+threadnr,VAR_6
+lsbf,VAR_7
+s,VAR_8
+td,VAR_9
+frame,VAR_10
+avpkt,VAR_11
+src_next,VAR_12
+src_stride,VAR_13
+dst,VAR_14

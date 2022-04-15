@@ -1,0 +1,14 @@
+EFER_LMA,VAR_0
+EFER_LME,VAR_1
+EFER_NX,VAR_2
+__kvm_valid_efer,FUNC_0
+efer_reserved_bits,VAR_3
+is_paging,FUNC_1
+kvm_mmu_reset_context,FUNC_2
+kvm_x86_ops,VAR_4
+stub1,FUNC_3
+set_efer,FUNC_4
+vcpu,VAR_5
+msr_info,VAR_6
+old_efer,VAR_7
+efer,VAR_8

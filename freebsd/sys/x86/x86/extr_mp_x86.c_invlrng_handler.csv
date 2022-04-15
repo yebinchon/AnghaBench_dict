@@ -1,0 +1,17 @@
+PAGE_SIZE,VAR_0
+PCPU_GET,FUNC_0
+PCPU_SET,FUNC_1
+cpuid,VAR_1
+invlpg,FUNC_2
+ipi_invlrng_counts,VAR_2
+kernel_pmap,VAR_3
+smp_tlb_addr1,VAR_4
+smp_tlb_addr2,VAR_5
+smp_tlb_done,VAR_6
+smp_tlb_generation,VAR_7
+smp_tlb_pmap,VAR_8
+xhits_rng,VAR_9
+invlrng_handler,FUNC_3
+addr,VAR_10
+addr2,VAR_11
+generation,VAR_12

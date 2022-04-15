@@ -1,0 +1,14 @@
+DEPEVT_PARAMETER_CMD,FUNC_0
+DWC3_DEPCMD_ENDTRANSFER,VAR_0
+DWC3_EP_ENABLED,VAR_1
+DWC3_EP_TRANSFER_STARTED,VAR_2
+dwc3_ep0_interrupt,FUNC_1
+dwc3_gadget_endpoint_transfer_in_progress,FUNC_2
+dwc3_gadget_endpoint_transfer_not_ready,FUNC_3
+dwc3_gadget_ep_cleanup_cancelled_requests,FUNC_4
+dwc3_endpoint_interrupt,FUNC_5
+dwc,VAR_3
+event,VAR_4
+dep,VAR_5
+epnum,VAR_6
+cmd,VAR_7

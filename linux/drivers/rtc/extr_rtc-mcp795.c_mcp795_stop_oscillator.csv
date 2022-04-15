@@ -1,0 +1,16 @@
+EIO,VAR_0
+MCP795_EXTOSC_BIT,VAR_1
+MCP795_OSCON_BIT,VAR_2
+MCP795_REG_CONTROL,VAR_3
+MCP795_REG_DAY,VAR_4
+MCP795_REG_SECONDS,VAR_5
+MCP795_ST_BIT,VAR_6
+mcp795_rtcc_read,FUNC_0
+mcp795_rtcc_set_bits,FUNC_1
+usleep_range,FUNC_2
+mcp795_stop_oscillator,FUNC_3
+dev,VAR_7
+extosc,VAR_8
+retries,VAR_9
+ret,VAR_10
+data,VAR_11

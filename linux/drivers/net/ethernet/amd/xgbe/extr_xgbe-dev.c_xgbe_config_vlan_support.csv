@@ -1,0 +1,13 @@
+CSVL,VAR_0
+MAC_VLANIR,VAR_1
+NETIF_F_HW_VLAN_CTAG_FILTER,VAR_2
+NETIF_F_HW_VLAN_CTAG_RX,VAR_3
+VLTI,VAR_4
+XGMAC_IOWRITE_BITS,FUNC_0
+xgbe_disable_rx_vlan_filtering,FUNC_1
+xgbe_disable_rx_vlan_stripping,FUNC_2
+xgbe_enable_rx_vlan_filtering,FUNC_3
+xgbe_enable_rx_vlan_stripping,FUNC_4
+xgbe_update_vlan_hash_table,FUNC_5
+xgbe_config_vlan_support,FUNC_6
+pdata,VAR_5

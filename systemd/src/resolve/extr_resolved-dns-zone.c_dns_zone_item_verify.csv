@@ -1,0 +1,11 @@
+DNS_ZONE_ITEM_ESTABLISHED,VAR_0
+DNS_ZONE_ITEM_VERIFYING,VAR_1
+assert,FUNC_0
+dns_resource_record_to_string,FUNC_1
+dns_zone_item_probe_start,FUNC_2
+log_debug,FUNC_3
+log_error_errno,FUNC_4
+strna,FUNC_5
+dns_zone_item_verify,FUNC_6
+i,VAR_2
+r,VAR_3

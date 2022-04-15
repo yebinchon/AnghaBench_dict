@@ -1,0 +1,10 @@
+HINIC_CSR_API_CMD_CHAIN_HEAD_HI_ADDR,FUNC_0
+HINIC_CSR_API_CMD_CHAIN_HEAD_LO_ADDR,FUNC_1
+hinic_hwif_write_reg,FUNC_2
+lower_32_bits,FUNC_3
+upper_32_bits,FUNC_4
+api_cmd_head_init,FUNC_5
+chain,VAR_0
+hwif,VAR_1
+addr,VAR_2
+val,VAR_3

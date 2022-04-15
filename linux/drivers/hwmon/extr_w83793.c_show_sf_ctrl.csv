@@ -1,0 +1,16 @@
+TEMP_CRUISE,VAR_0
+TEMP_FAN_MAP,VAR_1
+TEMP_FROM_REG,FUNC_0
+TEMP_PWM_ENABLE,VAR_2
+sprintf,FUNC_1
+to_sensor_dev_attr_2,FUNC_2
+w83793_update_device,FUNC_3
+show_sf_ctrl,FUNC_4
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+sensor_attr,VAR_6
+nr,VAR_7
+index,VAR_8
+data,VAR_9
+val,VAR_10

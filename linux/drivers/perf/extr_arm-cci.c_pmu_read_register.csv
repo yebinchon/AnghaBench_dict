@@ -1,0 +1,6 @@
+CCI_PMU_CNTR_BASE,FUNC_0
+readl_relaxed,FUNC_1
+pmu_read_register,FUNC_2
+cci_pmu,VAR_0
+idx,VAR_1
+offset,VAR_2

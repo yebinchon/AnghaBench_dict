@@ -1,0 +1,16 @@
+EALREADY,VAR_0
+EINVAL,VAR_1
+SCSI_NL_MAX_TRANSPORTS,VAR_2
+STATE_EHANDLER_BSY,VAR_3
+msleep,FUNC_0
+scsi_nl_lock,VAR_4
+scsi_nl_state,VAR_5
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+transports,VAR_6
+scsi_nl_add_transport,FUNC_3
+tport,VAR_7
+msg_handler,VAR_8
+event_handler,VAR_9
+flags,VAR_10
+err,VAR_11

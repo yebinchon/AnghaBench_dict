@@ -1,0 +1,14 @@
+LSM_LOCK_UNLOCK,VAR_0
+LSM_LOCK_WORKER,VAR_1
+LSM_OK,VAR_2
+assert,FUNC_0
+dbSetReadLock,FUNC_1
+lsmFreeSnapshot,FUNC_2
+lsmSaveWorker,FUNC_3
+lsmShmLock,FUNC_4
+lsmTreeLoadHeader,FUNC_5
+lsmFinishWork,FUNC_6
+pDb,VAR_3
+bFlush,VAR_4
+pRc,VAR_5
+rc,VAR_6

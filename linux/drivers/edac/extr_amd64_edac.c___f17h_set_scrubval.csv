@@ -1,0 +1,6 @@
+F17H_SCR_BASE_ADDR,VAR_0
+F17H_SCR_LIMIT_ADDR,VAR_1
+pci_write_bits32,FUNC_0
+__f17h_set_scrubval,FUNC_1
+pvt,VAR_2
+scrubval,VAR_3

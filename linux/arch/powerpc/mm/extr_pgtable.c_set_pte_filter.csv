@@ -1,0 +1,16 @@
+MMU_FTR_HPTE_TABLE,VAR_0
+PG_arch_1,VAR_1
+flush_dcache_icache_page,FUNC_0
+is_exec_fault,FUNC_1
+maybe_pte_to_page,FUNC_2
+mmu_has_feature,FUNC_3
+pte_exec,FUNC_4
+pte_exprotect,FUNC_5
+pte_looks_normal,FUNC_6
+set_bit,FUNC_7
+set_pte_filter_hash,FUNC_8
+test_bit,FUNC_9
+unlikely,FUNC_10
+set_pte_filter,FUNC_11
+pte,VAR_2
+pg,VAR_3

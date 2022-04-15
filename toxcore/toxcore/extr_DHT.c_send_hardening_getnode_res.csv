@@ -1,0 +1,17 @@
+CHECK_TYPE_GETNODE_RES,VAR_0
+CRYPTO_PACKET_HARDENING,VAR_1
+MAX_CRYPTO_REQUEST_SIZE,VAR_2
+create_request,FUNC_0
+crypto_box_PUBLICKEYBYTES,VAR_3
+ip_isset,FUNC_1
+memcpy,FUNC_2
+sendpacket,FUNC_3
+send_hardening_getnode_res,FUNC_4
+dht,VAR_4
+sendto,VAR_5
+queried_client_id,VAR_6
+nodes_data,VAR_7
+nodes_data_length,VAR_8
+packet,VAR_9
+data,VAR_10
+len,VAR_11

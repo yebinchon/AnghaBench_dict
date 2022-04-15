@@ -1,0 +1,17 @@
+REDIS_OK,VAR_0
+REDIS_REPLY_INTEGER,VAR_1
+TYPE_NONE,VAR_2
+context,VAR_3
+exit,FUNC_0
+fprintf,FUNC_1
+freeReplyObject,FUNC_2
+redisAppendCommand,FUNC_3
+redisGetReply,FUNC_4
+stderr,VAR_4
+getKeySizes,FUNC_5
+keys,VAR_5
+types,VAR_6
+sizes,VAR_7
+reply,VAR_8
+sizecmds,VAR_9
+i,VAR_10

@@ -1,0 +1,12 @@
+BUS_ERROR_NOT_IN_CONTROL,VAR_0
+assert,FUNC_0
+sd_bus_error_setf,FUNC_1
+sd_bus_message_get_sender,FUNC_2
+sd_bus_reply_method_return,FUNC_3
+session_drop_controller,FUNC_4
+session_is_controller,FUNC_5
+method_release_control,FUNC_6
+message,VAR_1
+userdata,VAR_2
+error,VAR_3
+s,VAR_4

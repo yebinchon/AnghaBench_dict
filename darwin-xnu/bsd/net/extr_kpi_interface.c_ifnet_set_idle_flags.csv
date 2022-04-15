@@ -1,0 +1,11 @@
+ifnet_lock_done,FUNC_0
+ifnet_lock_exclusive,FUNC_1
+ifnet_set_idle_flags_locked,FUNC_2
+lck_mtx_lock,FUNC_3
+lck_mtx_unlock,FUNC_4
+rnh_lock,VAR_0
+ifnet_set_idle_flags,FUNC_5
+ifp,VAR_1
+new_flags,VAR_2
+mask,VAR_3
+err,VAR_4

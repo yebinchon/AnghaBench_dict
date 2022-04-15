@@ -1,0 +1,14 @@
+CORR_CRC_1_SECTOR_OTA_DATA,VAR_0
+CORR_CRC_2_SECTOR_OTA_DATA,VAR_1
+ESP_PARTITION_SUBTYPE_DATA_OTA,VAR_2
+ESP_PARTITION_TYPE_DATA,VAR_3
+TEST_ASSERT_NOT_EQUAL,FUNC_0
+TEST_ESP_OK,FUNC_1
+esp_partition_erase_range,FUNC_2
+esp_partition_find_first,FUNC_3
+get_ota_data,FUNC_4
+write_ota_data,FUNC_5
+corrupt_ota_data,FUNC_6
+err,VAR_4
+ota_data,VAR_5
+otadata_partition,VAR_6

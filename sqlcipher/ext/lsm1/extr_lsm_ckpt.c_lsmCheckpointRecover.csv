@@ -1,0 +1,14 @@
+LSM_OK,VAR_0
+ckptLoadEmpty,FUNC_0
+ckptLoadId,FUNC_1
+ckptTryLoad,FUNC_2
+lsmFsMetaPageGet,FUNC_3
+lsmFsMetaPageRelease,FUNC_4
+lsmCheckpointRecover,FUNC_5
+pDb,VAR_1
+rc,VAR_2
+iId1,VAR_3
+iId2,VAR_4
+bLoaded,VAR_5
+cmp,VAR_6
+apPg,VAR_7

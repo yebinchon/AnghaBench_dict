@@ -1,0 +1,17 @@
+QXL_CMD_SURFACE,VAR_0
+QXL_SURFACE_CMD_DESTROY,VAR_1
+idr_replace,FUNC_0
+qxl_alloc_surface_release_reserved,FUNC_1
+qxl_push_command_ring_release,FUNC_2
+qxl_release_fence_buffer_objects,FUNC_3
+qxl_release_map,FUNC_4
+qxl_release_unmap,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+qxl_hw_surface_dealloc,FUNC_8
+qdev,VAR_2
+surf,VAR_3
+cmd,VAR_4
+release,VAR_5
+ret,VAR_6
+id,VAR_7

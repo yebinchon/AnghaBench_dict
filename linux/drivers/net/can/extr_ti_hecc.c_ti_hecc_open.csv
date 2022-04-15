@@ -1,0 +1,17 @@
+CAN_LED_EVENT_OPEN,VAR_0
+IRQF_SHARED,VAR_1
+can_led_event,FUNC_0
+can_rx_offload_enable,FUNC_1
+free_irq,FUNC_2
+netdev_err,FUNC_3
+netdev_priv,FUNC_4
+netif_start_queue,FUNC_5
+open_candev,FUNC_6
+request_irq,FUNC_7
+ti_hecc_interrupt,VAR_2
+ti_hecc_start,FUNC_8
+ti_hecc_transceiver_switch,FUNC_9
+ti_hecc_open,FUNC_10
+ndev,VAR_3
+priv,VAR_4
+err,VAR_5

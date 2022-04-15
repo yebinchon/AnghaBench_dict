@@ -1,0 +1,12 @@
+CPU_R4000MC,VAR_0
+CPU_R4000SC,VAR_1
+CPU_R4400MC,VAR_2
+CPU_R4400SC,VAR_3
+R4K_INDEX,VAR_4
+current_cpu_type,FUNC_0
+has_valid_asid,FUNC_1
+r4k_blast_dcache,FUNC_2
+r4k_blast_scache,FUNC_3
+local_r4k_flush_cache_mm,FUNC_4
+args,VAR_5
+mm,VAR_6

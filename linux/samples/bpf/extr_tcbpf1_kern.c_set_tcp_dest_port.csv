@@ -1,0 +1,10 @@
+TCP_CSUM_OFF,VAR_0
+TCP_DPORT_OFF,VAR_1
+bpf_l4_csum_replace,FUNC_0
+bpf_skb_store_bytes,FUNC_1
+htons,FUNC_2
+load_half,FUNC_3
+set_tcp_dest_port,FUNC_4
+skb,VAR_2
+new_port,VAR_3
+old_port,VAR_4

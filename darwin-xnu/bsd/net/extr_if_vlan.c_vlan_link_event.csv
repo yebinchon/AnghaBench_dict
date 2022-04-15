@@ -1,0 +1,16 @@
+IFM_ACTIVE,VAR_0
+IFM_AVALID,VAR_1
+KEV_DL_LINK_OFF,VAR_2
+KEV_DL_LINK_ON,VAR_3
+SIOCGIFMEDIA,VAR_4
+bzero,FUNC_0
+ifnet_ioctl,FUNC_1
+ifnet_name,FUNC_2
+ifnet_unit,FUNC_3
+interface_link_event,FUNC_4
+snprintf,FUNC_5
+vlan_link_event,FUNC_6
+ifp,VAR_5
+p,VAR_6
+ifmr,VAR_7
+event,VAR_8

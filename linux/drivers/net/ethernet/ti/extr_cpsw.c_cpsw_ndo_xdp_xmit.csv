@@ -1,0 +1,16 @@
+CPSW_MIN_PACKET_SIZE,VAR_0
+EINVAL,VAR_1
+XDP_XMIT_FLAGS_MASK,VAR_2
+cpsw_xdp_tx_frame,FUNC_0
+netdev_priv,FUNC_1
+unlikely,FUNC_2
+xdp_return_frame_rx_napi,FUNC_3
+cpsw_ndo_xdp_xmit,FUNC_4
+ndev,VAR_3
+n,VAR_4
+frames,VAR_5
+flags,VAR_6
+priv,VAR_7
+xdpf,VAR_8
+i,VAR_9
+drops,VAR_10

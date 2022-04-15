@@ -1,0 +1,15 @@
+CIPSO_V4_TAG_RBITMAP,VAR_0
+EPERM,VAR_1
+NETLBL_SECATTR_MLS_CAT,VAR_2
+NETLBL_SECATTR_MLS_LVL,VAR_3
+cipso_v4_map_cat_rbm_hton,FUNC_0
+cipso_v4_map_lvl_hton,FUNC_1
+cipso_v4_rbm_optfmt,VAR_4
+cipso_v4_gentag_rbm,FUNC_2
+doi_def,VAR_5
+secattr,VAR_6
+buffer,VAR_7
+buffer_len,VAR_8
+ret_val,VAR_9
+tag_len,VAR_10
+level,VAR_11

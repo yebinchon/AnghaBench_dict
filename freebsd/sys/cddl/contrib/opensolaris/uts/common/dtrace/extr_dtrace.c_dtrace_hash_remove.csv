@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+DTRACE_HASHEQ,FUNC_1
+DTRACE_HASHNEXT,FUNC_2
+DTRACE_HASHPREV,FUNC_3
+DTRACE_HASHSTR,FUNC_4
+kmem_free,FUNC_5
+dtrace_hash_remove,FUNC_6
+hash,VAR_0
+probe,VAR_1
+ndx,VAR_2
+bucket,VAR_3
+prevp,VAR_4
+nextp,VAR_5
+b,VAR_6

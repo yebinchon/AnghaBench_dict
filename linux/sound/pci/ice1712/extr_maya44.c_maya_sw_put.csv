@@ -1,0 +1,17 @@
+GET_SW_VAL_IDX,FUNC_0
+GET_SW_VAL_MASK,FUNC_1
+GET_SW_VAL_REG,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+snd_ctl_get_ioff,FUNC_5
+snd_kcontrol_chip,FUNC_6
+wm8776_write_bits,FUNC_7
+maya_sw_put,FUNC_8
+kcontrol,VAR_0
+ucontrol,VAR_1
+chip,VAR_2
+wm,VAR_3
+idx,VAR_4
+mask,VAR_5
+val,VAR_6
+changed,VAR_7

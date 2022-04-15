@@ -1,0 +1,16 @@
+HCI_CMND_NVMEM_READ,VAR_0
+HEADERS_SIZE_CMD,VAR_1
+NVMEM_READ_PARAMS_LEN,VAR_2
+SimpleLinkWaitData,FUNC_0
+SimpleLinkWaitEvent,FUNC_1
+UINT32_TO_STREAM,FUNC_2
+hci_command_send,FUNC_3
+tSLInformation,VAR_3
+nvmem_read,FUNC_4
+ulFileId,VAR_4
+ulLength,VAR_5
+ulOffset,VAR_6
+buff,VAR_7
+ucStatus,VAR_8
+ptr,VAR_9
+args,VAR_10

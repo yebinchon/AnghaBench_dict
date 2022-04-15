@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+LCK_MTX_ASSERT,FUNC_1
+LCK_MTX_ASSERT_OWNED,VAR_0
+dtrace_modctl_list,VAR_1
+kmem_free,FUNC_2
+mod_lock,VAR_2
+dtrace_modctl_remove,FUNC_3
+ctl,VAR_3
+prevp,VAR_4
+nextp,VAR_5
+curp,VAR_6

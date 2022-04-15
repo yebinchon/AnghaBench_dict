@@ -1,0 +1,12 @@
+IRQ_WAKEUP,VAR_0
+WARN,FUNC_0
+irq_to_desc,FUNC_1
+set_irq_wake_real,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+set_irq_wake,FUNC_5
+irq,VAR_1
+on,VAR_2
+desc,VAR_3
+flags,VAR_4
+ret,VAR_5

@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+EMLINK,VAR_0
+VFS_I,FUNC_1
+XFS_ERROR,FUNC_2
+XFS_ICHGTIME_CHG,VAR_1
+XFS_ILOG_CORE,VAR_2
+XFS_MAXLINK,VAR_3
+XFS_MAXLINK_1,VAR_4
+inc_nlink,FUNC_3
+xfs_bump_ino_vers2,FUNC_4
+xfs_trans_ichgtime,FUNC_5
+xfs_trans_log_inode,FUNC_6
+xfs_bumplink,FUNC_7
+tp,VAR_5
+ip,VAR_6

@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+EMSGSIZE,VAR_1
+ENOSPC,VAR_2
+MPASS,FUNC_0
+VTSCSI_EXECUTE_POLL,VAR_3
+virtqueue_enqueue,FUNC_1
+virtqueue_notify,FUNC_2
+vtscsi_poll_ctrl_req,FUNC_3
+vtscsi_execute_ctrl_req,FUNC_4
+sc,VAR_4
+req,VAR_5
+sg,VAR_6
+readable,VAR_7
+writable,VAR_8
+flag,VAR_9
+vq,VAR_10
+error,VAR_11

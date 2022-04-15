@@ -1,0 +1,12 @@
+AGP_SET_APERTURE,FUNC_0
+UNIN_AGP_GART_2XRESET,VAR_0
+UNIN_AGP_GART_CONTROL,VAR_1
+UNIN_AGP_GART_INVAL,VAR_2
+agp_free_cdev,FUNC_1
+agp_free_gatt,FUNC_2
+agp_free_res,FUNC_3
+device_get_softc,FUNC_4
+pci_write_config,FUNC_5
+agp_apple_detach,FUNC_6
+dev,VAR_3
+sc,VAR_4

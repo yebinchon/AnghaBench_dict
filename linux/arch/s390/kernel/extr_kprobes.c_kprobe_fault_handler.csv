@@ -1,0 +1,10 @@
+PSW_MASK_EXT,VAR_0
+PSW_MASK_IO,VAR_1
+PSW_MASK_PER,VAR_2
+kprobe_trap_handler,FUNC_0
+local_irq_disable,FUNC_1
+local_irq_restore,FUNC_2
+kprobe_fault_handler,FUNC_3
+regs,VAR_3
+trapnr,VAR_4
+ret,VAR_5

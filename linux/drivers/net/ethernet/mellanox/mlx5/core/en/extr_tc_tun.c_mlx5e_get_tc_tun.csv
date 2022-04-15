@@ -1,0 +1,9 @@
+geneve_tunnel,VAR_0
+gre_tunnel,VAR_1
+netif_is_geneve,FUNC_0
+netif_is_gretap,FUNC_1
+netif_is_ip6gretap,FUNC_2
+netif_is_vxlan,FUNC_3
+vxlan_tunnel,VAR_2
+mlx5e_get_tc_tun,FUNC_4
+tunnel_dev,VAR_3

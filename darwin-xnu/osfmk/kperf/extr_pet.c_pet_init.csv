@@ -1,0 +1,17 @@
+BUF_INFO,FUNC_0
+KERN_SUCCESS,VAR_0
+PERF_PET_THREAD,VAR_1
+TRUE,VAR_2
+assert,FUNC_1
+kernel_thread_start,FUNC_2
+kperf_lck_grp,VAR_3
+lck_mtx_alloc_init,FUNC_3
+lck_mtx_free,FUNC_4
+pet_initted,VAR_4
+pet_lock,VAR_5
+pet_thread_loop,VAR_6
+thread_deallocate,FUNC_5
+thread_set_thread_name,FUNC_6
+pet_init,FUNC_7
+t,VAR_7
+kr,VAR_8

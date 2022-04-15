@@ -1,0 +1,13 @@
+blk_cleanup_queue,FUNC_0
+blk_mq_free_tag_set,FUNC_1
+kfree,FUNC_2
+list_del,FUNC_3
+list_empty,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+nvme_loop_ctrl_mutex,VAR_0
+nvmf_free_options,FUNC_7
+to_loop_ctrl,FUNC_8
+nvme_loop_free_ctrl,FUNC_9
+nctrl,VAR_1
+ctrl,VAR_2

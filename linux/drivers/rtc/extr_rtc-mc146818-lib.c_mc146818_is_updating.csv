@@ -1,0 +1,9 @@
+CMOS_READ,FUNC_0
+RTC_FREQ_SELECT,VAR_0
+RTC_UIP,VAR_1
+rtc_lock,VAR_2
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+mc146818_is_updating,FUNC_3
+uip,VAR_3
+flags,VAR_4

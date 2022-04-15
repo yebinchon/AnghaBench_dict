@@ -1,0 +1,12 @@
+COFF_ADJUST_FILEHDR_OUT_POST,FUNC_0
+COFF_ADJUST_FILEHDR_OUT_PRE,FUNC_1
+H_PUT_16,FUNC_2
+H_PUT_32,FUNC_3
+PUT_FILEHDR_SYMPTR,FUNC_4
+bfd_coff_filhsz,FUNC_5
+coff_swap_filehdr_out,FUNC_6
+abfd,VAR_0
+in,VAR_1
+out,VAR_2
+filehdr_in,VAR_3
+filehdr_out,VAR_4

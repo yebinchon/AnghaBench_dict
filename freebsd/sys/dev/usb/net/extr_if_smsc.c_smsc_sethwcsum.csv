@@ -1,0 +1,17 @@
+EIO,VAR_0
+IFCAP_RXCSUM,VAR_1
+IFCAP_TXCSUM,VAR_2
+MA_OWNED,VAR_3
+SMSC_COE_CTRL,VAR_4
+SMSC_COE_CTRL_RX_EN,VAR_5
+SMSC_COE_CTRL_TX_EN,VAR_6
+SMSC_LOCK_ASSERT,FUNC_0
+smsc_read_reg,FUNC_1
+smsc_warn_printf,FUNC_2
+smsc_write_reg,FUNC_3
+uether_getifp,FUNC_4
+smsc_sethwcsum,FUNC_5
+sc,VAR_7
+ifp,VAR_8
+val,VAR_9
+err,VAR_10

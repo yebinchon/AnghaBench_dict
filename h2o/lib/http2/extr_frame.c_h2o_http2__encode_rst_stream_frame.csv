@@ -1,0 +1,8 @@
+H2O_HTTP2_FRAME_TYPE_RST_STREAM,VAR_0
+allocate_frame,FUNC_0
+h2o_http2_encode32u,FUNC_1
+h2o_http2__encode_rst_stream_frame,FUNC_2
+buf,VAR_1
+stream_id,VAR_2
+errnum,VAR_3
+dst,VAR_4

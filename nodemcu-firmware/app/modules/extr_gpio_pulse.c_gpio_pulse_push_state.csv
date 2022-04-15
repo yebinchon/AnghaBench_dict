@@ -1,0 +1,11 @@
+lua_pushinteger,FUNC_0
+lua_pushnil,FUNC_1
+system_get_time,FUNC_2
+gpio_pulse_push_state,FUNC_3
+L,VAR_0
+pulser,VAR_1
+now,VAR_2
+expected_end_time,VAR_3
+active_pos,VAR_4
+steps,VAR_5
+diff,VAR_6

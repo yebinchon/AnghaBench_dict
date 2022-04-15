@@ -1,0 +1,10 @@
+buf,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_buf_clear,FUNC_2
+git_buf_cstr,FUNC_3
+git_config_get_string_buf,FUNC_4
+assert_config_value,FUNC_5
+config,VAR_1
+key,VAR_2
+value,VAR_3

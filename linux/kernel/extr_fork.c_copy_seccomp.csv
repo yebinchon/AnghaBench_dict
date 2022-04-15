@@ -1,0 +1,10 @@
+SECCOMP_MODE_DISABLED,VAR_0
+TIF_SECCOMP,VAR_1
+assert_spin_locked,FUNC_0
+current,VAR_2
+get_seccomp_filter,FUNC_1
+set_tsk_thread_flag,FUNC_2
+task_no_new_privs,FUNC_3
+task_set_no_new_privs,FUNC_4
+copy_seccomp,FUNC_5
+p,VAR_3

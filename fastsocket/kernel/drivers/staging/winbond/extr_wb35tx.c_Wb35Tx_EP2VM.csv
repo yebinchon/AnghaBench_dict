@@ -1,0 +1,17 @@
+GFP_ATOMIC,VAR_0
+MAX_INTERRUPT_LENGTH,VAR_1
+VM_RUNNING,VAR_2
+VM_STOP,VAR_3
+Wb35Tx_EP2VM_complete,VAR_4
+atomic_dec,FUNC_0
+printk,FUNC_1
+usb_fill_int_urb,FUNC_2
+usb_rcvintpipe,FUNC_3
+usb_submit_urb,FUNC_4
+Wb35Tx_EP2VM,FUNC_5
+adapter,VAR_5
+pHwData,VAR_6
+pWb35Tx,VAR_7
+pUrb,VAR_8
+pltmp,VAR_9
+retv,VAR_10

@@ -1,0 +1,14 @@
+BLM_PWM_ENABLE,VAR_0
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+VLV_BLC_PWM_CTL2,FUNC_2
+intel_panel_actually_set_backlight,FUNC_3
+to_i915,FUNC_4
+to_intel_connector,FUNC_5
+to_intel_crtc,FUNC_6
+vlv_disable_backlight,FUNC_7
+old_conn_state,VAR_1
+connector,VAR_2
+dev_priv,VAR_3
+pipe,VAR_4
+tmp,VAR_5

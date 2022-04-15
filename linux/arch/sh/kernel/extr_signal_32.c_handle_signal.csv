@@ -1,0 +1,13 @@
+SA_SIGINFO,VAR_0
+TIF_SINGLESTEP,VAR_1
+setup_frame,FUNC_0
+setup_rt_frame,FUNC_1
+sigmask_to_save,FUNC_2
+signal_setup_done,FUNC_3
+test_thread_flag,FUNC_4
+handle_signal,FUNC_5
+ksig,VAR_2
+regs,VAR_3
+save_r0,VAR_4
+oldset,VAR_5
+ret,VAR_6

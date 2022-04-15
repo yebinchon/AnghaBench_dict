@@ -1,0 +1,15 @@
+ANALOG_CLOCK,VAR_0
+CTL_DA_SBR,VAR_1
+CTL_DA_SDR_MASK,VAR_2
+CTL_DA_SDR_SHIFT,VAR_3
+REG_GPIO_DMA_CTL,VAR_4
+SNDRV_PCM_FORMAT_S8,VAR_5
+snd_bt87x_writel,FUNC_0
+snd_pcm_substream_chip,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+snd_bt87x_prepare,FUNC_4
+substream,VAR_6
+chip,VAR_7
+runtime,VAR_8
+decimation,VAR_9

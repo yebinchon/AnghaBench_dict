@@ -1,0 +1,13 @@
+BINDERFS_I,FUNC_0
+S_ISCHR,FUNC_1
+binderfs_minors,VAR_0
+binderfs_minors_mutex,VAR_1
+clear_inode,FUNC_2
+ida_free,FUNC_3
+kfree,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+binderfs_evict_inode,FUNC_7
+inode,VAR_2
+device,VAR_3
+info,VAR_4

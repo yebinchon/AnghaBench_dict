@@ -1,0 +1,14 @@
+DMA_ENABLE,VAR_0
+DMA_LOOPBACK,VAR_1
+DMA_RX_PRIO_SHIFT,VAR_2
+DMA_RX_TIMEOUT_MASK,VAR_3
+DMA_RX_TIMEOUT_SHIFT,VAR_4
+DMA_TX_PRIO_SHIFT,VAR_5
+readl_relaxed,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+writel_relaxed,FUNC_3
+knav_dma_hw_init,FUNC_4
+dma,VAR_6
+v,VAR_7
+i,VAR_8

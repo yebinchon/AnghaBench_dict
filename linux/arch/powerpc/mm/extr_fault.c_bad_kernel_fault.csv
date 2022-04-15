@@ -1,0 +1,17 @@
+DSISR_KEYFAULT,VAR_0
+DSISR_NOEXEC_OR_G,VAR_1
+DSISR_PROTFAULT,VAR_2
+TASK_SIZE,VAR_3
+TRAP,FUNC_0
+bad_kuap_fault,FUNC_1
+current_uid,FUNC_2
+from_kuid,FUNC_3
+init_user_ns,VAR_4
+pr_crit_ratelimited,FUNC_4
+search_exception_tables,FUNC_5
+bad_kernel_fault,FUNC_6
+regs,VAR_5
+error_code,VAR_6
+address,VAR_7
+is_write,VAR_8
+is_exec,VAR_9

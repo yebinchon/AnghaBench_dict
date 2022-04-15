@@ -1,0 +1,16 @@
+BLK_MQ_F_SHOULD_MERGE,VAR_0
+FD_NODRIVE,VAR_1
+FLOPPY_MAX_SECTORS,VAR_2
+GFP_KERNEL,VAR_3
+IS_ERR,FUNC_0
+alloc_disk,FUNC_1
+amiflop_mq_ops,VAR_4
+blk_cleanup_queue,FUNC_2
+blk_mq_free_tag_set,FUNC_3
+blk_mq_init_sq_queue,FUNC_4
+kmalloc,FUNC_5
+put_disk,FUNC_6
+unit,VAR_5
+fd_alloc_disk,FUNC_7
+drive,VAR_6
+disk,VAR_7

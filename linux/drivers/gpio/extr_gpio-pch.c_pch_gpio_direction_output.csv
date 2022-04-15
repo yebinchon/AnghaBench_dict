@@ -1,0 +1,14 @@
+gpio_pins,VAR_0
+gpiochip_get_data,FUNC_0
+ioread32,FUNC_1
+iowrite32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+pch_gpio_direction_output,FUNC_5
+gpio,VAR_1
+nr,VAR_2
+val,VAR_3
+chip,VAR_4
+pm,VAR_5
+reg_val,VAR_6
+flags,VAR_7

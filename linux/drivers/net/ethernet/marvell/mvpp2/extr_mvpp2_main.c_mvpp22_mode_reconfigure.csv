@@ -1,0 +1,17 @@
+MVPP22_XLG_CTRL3_MACMODESELECT_10G,VAR_0
+MVPP22_XLG_CTRL3_MACMODESELECT_GMAC,VAR_1
+MVPP22_XLG_CTRL3_MACMODESELECT_MASK,VAR_2
+MVPP22_XLG_CTRL3_REG,VAR_3
+mvpp22_comphy_init,FUNC_0
+mvpp22_gop_init,FUNC_1
+mvpp22_pcs_reset_assert,FUNC_2
+mvpp22_pcs_reset_deassert,FUNC_3
+mvpp2_gmac_max_rx_size_set,FUNC_4
+mvpp2_is_xlg,FUNC_5
+mvpp2_mac_reset_assert,FUNC_6
+mvpp2_xlg_max_rx_size_set,FUNC_7
+readl,FUNC_8
+writel,FUNC_9
+mvpp22_mode_reconfigure,FUNC_10
+port,VAR_4
+ctrl3,VAR_5

@@ -1,0 +1,12 @@
+BH1750_CHANGE_INT_TIME_H_BIT,VAR_0
+BH1750_CHANGE_INT_TIME_L_BIT,VAR_1
+BH1750_POWER_DOWN,VAR_2
+EINVAL,VAR_3
+i2c_smbus_write_byte,FUNC_0
+bh1750_change_int_time,FUNC_1
+data,VAR_4
+usec,VAR_5
+ret,VAR_6
+val,VAR_7
+regval,VAR_8
+chip_info,VAR_9

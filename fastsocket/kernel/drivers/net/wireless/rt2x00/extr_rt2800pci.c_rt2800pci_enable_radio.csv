@@ -1,0 +1,17 @@
+EIO,VAR_0
+H2M_MAILBOX_CID,VAR_1
+H2M_MAILBOX_STATUS,VAR_2
+MCU_SLEEP,VAR_3
+MCU_WAKEUP,VAR_4
+TOKEN_RADIO_OFF,VAR_5
+TOKEN_WAKEUP,VAR_6
+rt2800_enable_radio,FUNC_0
+rt2800_mcu_request,FUNC_1
+rt2800_wait_wpdma_ready,FUNC_2
+rt2800pci_init_queues,FUNC_3
+rt2800pci_mcu_status,FUNC_4
+rt2x00mmio_register_write,FUNC_5
+unlikely,FUNC_6
+rt2800pci_enable_radio,FUNC_7
+rt2x00dev,VAR_7
+retval,VAR_8

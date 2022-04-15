@@ -1,0 +1,13 @@
+DB2K_CPLD_STATUS_INIT,VAR_0
+DB2K_REG_CPLD_STATUS,VAR_1
+DB2K_REG_CPLD_WDATA,VAR_2
+EIO,VAR_3
+db2k_wait_cpld_txready,FUNC_0
+readw,FUNC_1
+usleep_range,FUNC_2
+writew,FUNC_3
+db2k_write_cpld,FUNC_4
+dev,VAR_4
+data,VAR_5
+new_cpld,VAR_6
+result,VAR_7

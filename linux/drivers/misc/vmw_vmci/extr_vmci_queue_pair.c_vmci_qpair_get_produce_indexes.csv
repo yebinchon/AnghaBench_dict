@@ -1,0 +1,14 @@
+VMCI_ERROR_INVALID_ARGS,VAR_0
+VMCI_ERROR_INVALID_SIZE,VAR_1
+VMCI_SUCCESS,VAR_2
+qp_get_queue_headers,FUNC_0
+qp_lock,FUNC_1
+qp_unlock,FUNC_2
+vmci_q_header_get_pointers,FUNC_3
+vmci_qpair_get_produce_indexes,FUNC_4
+qpair,VAR_3
+producer_tail,VAR_4
+consumer_head,VAR_5
+produce_q_header,VAR_6
+consume_q_header,VAR_7
+result,VAR_8

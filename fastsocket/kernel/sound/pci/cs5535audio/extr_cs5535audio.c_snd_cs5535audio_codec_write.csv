@@ -1,0 +1,11 @@
+ACC_CODEC_CNTL,VAR_0
+ACC_CODEC_CNTL_WR_CMD,VAR_1
+CMD_MASK,VAR_2
+CMD_NEW,VAR_3
+cs_writel,FUNC_0
+wait_till_cmd_acked,FUNC_1
+snd_cs5535audio_codec_write,FUNC_2
+cs5535au,VAR_4
+reg,VAR_5
+val,VAR_6
+regdata,VAR_7

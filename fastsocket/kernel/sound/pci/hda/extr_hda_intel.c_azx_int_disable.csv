@@ -1,0 +1,14 @@
+ICH6_INT_CTRL_EN,VAR_0
+ICH6_INT_GLOBAL_EN,VAR_1
+INTCTL,VAR_2
+SD_CTL,VAR_3
+SD_INT_MASK,VAR_4
+azx_readl,FUNC_0
+azx_sd_readb,FUNC_1
+azx_sd_writeb,FUNC_2
+azx_writeb,FUNC_3
+azx_writel,FUNC_4
+azx_int_disable,FUNC_5
+chip,VAR_5
+i,VAR_6
+azx_dev,VAR_7

@@ -1,0 +1,10 @@
+EJUSTRETURN,VAR_0
+SIG_SETMASK,VAR_1
+copyin,FUNC_0
+kern_sigprocmask,FUNC_1
+set_mcontext,FUNC_2
+sys_sigreturn,FUNC_3
+td,VAR_2
+uap,VAR_3
+uc,VAR_4
+error,VAR_5

@@ -1,0 +1,14 @@
+AC97C_CMR_CENA,VAR_0
+CAMR,VAR_1
+EINVAL,VAR_2
+ac97c_readl,FUNC_0
+ac97c_writel,FUNC_1
+dw_dma_cyclic_start,FUNC_2
+dw_dma_cyclic_stop,FUNC_3
+snd_pcm_substream_chip,FUNC_4
+atmel_ac97c_capture_trigger,FUNC_5
+substream,VAR_3
+cmd,VAR_4
+chip,VAR_5
+camr,VAR_6
+retval,VAR_7

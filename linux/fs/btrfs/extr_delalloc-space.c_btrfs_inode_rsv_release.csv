@@ -1,0 +1,12 @@
+__btrfs_block_rsv_release,FUNC_0
+btrfs_ino,FUNC_1
+btrfs_qgroup_convert_reserved_meta,FUNC_2
+btrfs_qgroup_free_meta_prealloc,FUNC_3
+trace_btrfs_space_reservation,FUNC_4
+btrfs_inode_rsv_release,FUNC_5
+inode,VAR_0
+qgroup_free,VAR_1
+fs_info,VAR_2
+block_rsv,VAR_3
+released,VAR_4
+qgroup_to_release,VAR_5

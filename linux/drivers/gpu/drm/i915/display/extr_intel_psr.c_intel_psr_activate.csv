@@ -1,0 +1,14 @@
+EDP_PSR2_CTL,VAR_0
+EDP_PSR2_ENABLE,VAR_1
+EDP_PSR_CTL,VAR_2
+EDP_PSR_ENABLE,VAR_3
+I915_READ,FUNC_0
+INTEL_GEN,FUNC_1
+WARN_ON,FUNC_2
+dp_to_i915,FUNC_3
+hsw_activate_psr1,FUNC_4
+hsw_activate_psr2,FUNC_5
+lockdep_assert_held,FUNC_6
+intel_psr_activate,FUNC_7
+intel_dp,VAR_4
+dev_priv,VAR_5

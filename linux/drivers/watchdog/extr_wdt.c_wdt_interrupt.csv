@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+WDC_SR_FANGOOD,VAR_1
+WDC_SR_WCCR,VAR_2
+WDT_SR,VAR_3
+emergency_restart,FUNC_0
+inb_p,FUNC_1
+pr_crit,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+tachometer,VAR_4
+type,VAR_5
+wdt_decode_501,FUNC_5
+wdt_lock,VAR_6
+wdt_interrupt,FUNC_6
+irq,VAR_7
+dev_id,VAR_8
+status,VAR_9

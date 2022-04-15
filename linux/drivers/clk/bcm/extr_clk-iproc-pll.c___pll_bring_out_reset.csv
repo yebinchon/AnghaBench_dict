@@ -1,0 +1,14 @@
+BIT,FUNC_0
+IPROC_CLK_PLL_RESET_ACTIVE_LOW,VAR_0
+bit_mask,FUNC_1
+iproc_pll_write,FUNC_2
+readl,FUNC_3
+__pll_bring_out_reset,FUNC_4
+pll,VAR_1
+kp,VAR_2
+ka,VAR_3
+ki,VAR_4
+val,VAR_5
+ctrl,VAR_6
+reset,VAR_7
+dig_filter,VAR_8

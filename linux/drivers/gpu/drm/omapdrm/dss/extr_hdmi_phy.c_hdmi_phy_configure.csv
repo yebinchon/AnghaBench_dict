@@ -1,0 +1,13 @@
+HDMI_TXPHY_BIST_CONTROL,VAR_0
+HDMI_TXPHY_DIGITAL_CTRL,VAR_1
+HDMI_TXPHY_POWER_CTRL,VAR_2
+HDMI_TXPHY_TX_CTRL,VAR_3
+REG_FLD_MOD,FUNC_0
+hdmi_phy_configure_lanes,FUNC_1
+hdmi_read_reg,FUNC_2
+hdmi_write_reg,FUNC_3
+hdmi_phy_configure,FUNC_4
+phy,VAR_4
+hfbitclk,VAR_5
+lfbitclk,VAR_6
+freqout,VAR_7

@@ -1,0 +1,16 @@
+DELAY,FUNC_0
+I2C_IBCR,VAR_0
+IBCR_IBIE,VAR_1
+IBCR_MDIS,VAR_2
+IBCR_NOACK,VAR_3
+IIC_ETIMEOUT,VAR_4
+IIC_NOERR,VAR_5
+WRITE1,FUNC_1
+device_get_softc,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+vf_i2c_dbg,FUNC_5
+wait_for_nibb,FUNC_6
+i2c_stop,FUNC_7
+dev,VAR_6
+sc,VAR_7

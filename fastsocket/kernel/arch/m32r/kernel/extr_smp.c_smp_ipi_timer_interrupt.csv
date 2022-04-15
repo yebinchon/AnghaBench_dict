@@ -1,0 +1,7 @@
+irq_enter,FUNC_0
+irq_exit,FUNC_1
+set_irq_regs,FUNC_2
+smp_local_timer_interrupt,FUNC_3
+smp_ipi_timer_interrupt,FUNC_4
+regs,VAR_0
+old_regs,VAR_1

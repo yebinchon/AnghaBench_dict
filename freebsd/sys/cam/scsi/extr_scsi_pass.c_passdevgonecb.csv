@@ -1,0 +1,14 @@
+KASSERT,FUNC_0
+cam_periph_mtx,FUNC_1
+cam_periph_release_locked,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+passrejectios,FUNC_5
+taskqueue_enqueue,FUNC_6
+taskqueue_thread,VAR_0
+passdevgonecb,FUNC_7
+arg,VAR_1
+periph,VAR_2
+mtx,VAR_3
+softc,VAR_4
+i,VAR_5

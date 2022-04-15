@@ -1,0 +1,14 @@
+PATH_RUNNING,VAR_0
+PATH_WAITING,VAR_1
+UNIT,FUNC_0
+assert,FUNC_1
+bus_unit_send_pending_change_signal,FUNC_2
+log_unit_debug,FUNC_3
+path_state_to_string,FUNC_4
+path_unwatch,FUNC_5
+state_translation_table,VAR_2
+unit_notify,FUNC_6
+path_set_state,FUNC_7
+p,VAR_3
+state,VAR_4
+old_state,VAR_5

@@ -1,0 +1,13 @@
+ETIMEDOUT,VAR_0
+MLX90632_REG_STATUS,VAR_1
+MLX90632_STAT_CYCLE_POS,VAR_2
+MLX90632_STAT_DATA_RDY,VAR_3
+dev_err,FUNC_0
+regmap_read,FUNC_1
+regmap_update_bits,FUNC_2
+usleep_range,FUNC_3
+mlx90632_perform_measurement,FUNC_4
+data,VAR_4
+ret,VAR_5
+tries,VAR_6
+reg_status,VAR_7

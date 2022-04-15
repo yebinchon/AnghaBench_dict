@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+LPI2C_MSR,VAR_1
+MSR_NDF,VAR_2
+MSR_RDF,VAR_3
+MSR_TDF,VAR_4
+complete,FUNC_0
+lpi2c_imx_intctrl,FUNC_1
+lpi2c_imx_read_rxfifo,FUNC_2
+lpi2c_imx_write_txfifo,FUNC_3
+readl,FUNC_4
+lpi2c_imx_isr,FUNC_5
+irq,VAR_5
+dev_id,VAR_6
+lpi2c_imx,VAR_7
+temp,VAR_8

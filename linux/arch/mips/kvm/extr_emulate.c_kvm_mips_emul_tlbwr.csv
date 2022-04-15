@@ -1,0 +1,15 @@
+EMULATE_DONE,VAR_0
+KVM_MIPS_GUEST_TLB_SIZE,VAR_1
+kvm_debug,FUNC_0
+kvm_mips_invalidate_guest_tlb,FUNC_1
+kvm_read_c0_guest_entryhi,FUNC_2
+kvm_read_c0_guest_entrylo0,FUNC_3
+kvm_read_c0_guest_entrylo1,FUNC_4
+kvm_read_c0_guest_pagemask,FUNC_5
+prandom_u32_max,FUNC_6
+kvm_mips_emul_tlbwr,FUNC_7
+vcpu,VAR_2
+cop0,VAR_3
+tlb,VAR_4
+pc,VAR_5
+index,VAR_6

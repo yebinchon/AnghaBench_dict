@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+KVM_REG_ARM,VAR_1
+KVM_REG_ARM_COPROC_MASK,VAR_2
+KVM_REG_ARM_CORE,VAR_3
+KVM_REG_ARM_FW,VAR_4
+KVM_REG_SIZE_MASK,VAR_5
+get_core_reg,FUNC_0
+get_timer_reg,FUNC_1
+is_timer_reg,FUNC_2
+kvm_arm_coproc_get_reg,FUNC_3
+kvm_arm_get_fw_reg,FUNC_4
+kvm_arm_get_reg,FUNC_5
+vcpu,VAR_6
+reg,VAR_7

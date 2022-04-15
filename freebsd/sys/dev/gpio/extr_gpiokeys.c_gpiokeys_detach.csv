@@ -1,0 +1,16 @@
+GPIOKEYS_LOCK_DESTROY,FUNC_0
+KBD_DRIVER_NAME,VAR_0
+M_DEVBUF,VAR_1
+device_get_softc,FUNC_1
+device_get_unit,FUNC_2
+free,FUNC_3
+gpiokeys_detach_key,FUNC_4
+kbd_detach,FUNC_5
+kbd_find_keyboard,FUNC_6
+kbd_get_keyboard,FUNC_7
+kbd_unregister,FUNC_8
+gpiokeys_detach,FUNC_9
+dev,VAR_2
+sc,VAR_3
+kbd,VAR_4
+i,VAR_5

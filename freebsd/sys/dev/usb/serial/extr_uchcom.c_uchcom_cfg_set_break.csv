@@ -1,0 +1,12 @@
+UCHCOM_BRK_MASK,VAR_0
+UCHCOM_LCR1_TX,VAR_1
+UCHCOM_REG_BREAK1,VAR_2
+UCHCOM_REG_LCR1,VAR_3
+uchcom_read_reg,FUNC_0
+uchcom_write_reg,FUNC_1
+uchcom_cfg_set_break,FUNC_2
+ucom,VAR_4
+onoff,VAR_5
+sc,VAR_6
+brk1,VAR_7
+brk2,VAR_8

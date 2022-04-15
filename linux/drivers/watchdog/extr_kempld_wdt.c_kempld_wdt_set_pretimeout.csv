@@ -1,0 +1,15 @@
+ACTION_NMI,VAR_0
+ACTION_NONE,VAR_1
+EINVAL,VAR_2
+ENXIO,VAR_3
+STAGE_PRETIMEOUT,VAR_4
+kempld_wdt_set_stage_action,FUNC_0
+kempld_wdt_set_stage_timeout,FUNC_1
+watchdog_get_drvdata,FUNC_2
+kempld_wdt_set_pretimeout,FUNC_3
+wdd,VAR_5
+pretimeout,VAR_6
+wdt_data,VAR_7
+pretimeout_stage,VAR_8
+action,VAR_9
+ret,VAR_10

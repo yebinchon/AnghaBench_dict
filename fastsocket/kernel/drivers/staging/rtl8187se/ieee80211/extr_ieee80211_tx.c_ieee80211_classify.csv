@@ -1,0 +1,15 @@
+ETHERTYPE_IP,VAR_0
+ETH_P_PAE,VAR_1
+VLAN_PRI_MASK,VAR_2
+VLAN_PRI_SHIFT,VAR_3
+__constant_htons,FUNC_0
+ntohs,FUNC_1
+vlan_tx_tag_get,FUNC_2
+vlan_tx_tag_present,FUNC_3
+ieee80211_classify,FUNC_4
+skb,VAR_4
+network,VAR_5
+eh,VAR_6
+wme_UP,VAR_7
+ih,VAR_8
+tag,VAR_9

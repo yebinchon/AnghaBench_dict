@@ -1,0 +1,13 @@
+ETH_PLL_CTL0,VAR_0
+PLL_CTL0_EN,VAR_1
+PLL_CTL0_LOCK_DIG,VAR_2
+PLL_CTL0_RST,VAR_3
+PLL_LOCK_TIMEOUT,VAR_4
+g12a_ephy_pll_to_dev,FUNC_0
+readl,FUNC_1
+readl_poll_timeout,FUNC_2
+writel,FUNC_3
+g12a_ephy_pll_enable,FUNC_4
+hw,VAR_5
+pll,VAR_6
+val,VAR_7

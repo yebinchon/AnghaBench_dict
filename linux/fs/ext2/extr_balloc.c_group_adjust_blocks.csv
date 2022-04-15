@@ -1,0 +1,15 @@
+EXT2_SB,FUNC_0
+cpu_to_le16,FUNC_1
+le16_to_cpu,FUNC_2
+mark_buffer_dirty,FUNC_3
+sb_bgl_lock,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+group_adjust_blocks,FUNC_7
+sb,VAR_0
+group_no,VAR_1
+desc,VAR_2
+bh,VAR_3
+count,VAR_4
+sbi,VAR_5
+free_blocks,VAR_6

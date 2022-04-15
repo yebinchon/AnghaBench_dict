@@ -1,0 +1,13 @@
+AF_UNSPEC,VAR_0
+M_NOWAIT,VAR_1
+NETISR_ROUTE,VAR_2
+PACKET_TAG_RTSOCKFAM,VAR_3
+V_loif,VAR_4
+m_freem,FUNC_0
+m_tag_get,FUNC_1
+m_tag_prepend,FUNC_2
+netisr_queue,FUNC_3
+rt_dispatch,FUNC_4
+m,VAR_5
+saf,VAR_6
+tag,VAR_7

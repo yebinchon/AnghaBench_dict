@@ -1,0 +1,15 @@
+SD_MUTEX_LOCK,FUNC_0
+SD_MUTEX_UNLOCK,FUNC_1
+SIGMADELTA,VAR_0
+_on_apb_change,VAR_1
+_sd_sys_lock,VAR_2
+addApbChangeCallback,FUNC_2
+getApbFrequency,FUNC_3
+xSemaphoreCreateMutex,FUNC_4
+sigmaDeltaSetup,FUNC_5
+channel,VAR_3
+freq,VAR_4
+tHasStarted,VAR_5
+apb_freq,VAR_6
+prescale,VAR_7
+iarg,VAR_8

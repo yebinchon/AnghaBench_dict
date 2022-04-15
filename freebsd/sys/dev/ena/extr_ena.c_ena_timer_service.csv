@@ -1,0 +1,16 @@
+ENA_FLAG_ISSET,FUNC_0
+ENA_FLAG_TRIGGER_RESET,VAR_0
+SBT_1S,VAR_1
+callout_schedule_sbt,FUNC_1
+check_for_admin_com_state,FUNC_2
+check_for_empty_rx_ring,FUNC_3
+check_for_missing_completions,FUNC_4
+check_for_missing_keep_alive,FUNC_5
+device_printf,FUNC_6
+ena_update_host_info,FUNC_7
+taskqueue_enqueue,FUNC_8
+unlikely,FUNC_9
+ena_timer_service,FUNC_10
+data,VAR_2
+adapter,VAR_3
+host_info,VAR_4

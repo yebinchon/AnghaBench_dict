@@ -1,0 +1,9 @@
+IPSET_ATTR_IP,VAR_0
+IPSET_ATTR_PORT,VAR_1
+IPSET_ATTR_PROTO,VAR_2
+nla_put_ipaddr4,FUNC_0
+nla_put_net16,FUNC_1
+nla_put_u8,FUNC_2
+hash_ipport4_data_list,FUNC_3
+skb,VAR_3
+data,VAR_4

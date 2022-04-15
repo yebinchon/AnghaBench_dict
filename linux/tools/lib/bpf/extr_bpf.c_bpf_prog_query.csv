@@ -1,0 +1,13 @@
+BPF_PROG_QUERY,VAR_0
+memset,FUNC_0
+ptr_to_u64,FUNC_1
+sys_bpf,FUNC_2
+bpf_prog_query,FUNC_3
+target_fd,VAR_1
+type,VAR_2
+query_flags,VAR_3
+attach_flags,VAR_4
+prog_ids,VAR_5
+prog_cnt,VAR_6
+attr,VAR_7
+ret,VAR_8

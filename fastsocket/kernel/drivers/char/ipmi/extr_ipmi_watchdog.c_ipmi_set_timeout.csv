@@ -1,0 +1,17 @@
+IPMI_SET_TIMEOUT_FORCE_HB,VAR_0
+IPMI_SET_TIMEOUT_HB_IF_NECESSARY,VAR_1
+atomic_set,FUNC_0
+i_ipmi_set_timeout,FUNC_1
+ipmi_heartbeat,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+set_timeout_lock,VAR_2
+set_timeout_recv_msg,VAR_3
+set_timeout_smi_msg,VAR_4
+set_timeout_tofree,VAR_5
+set_timeout_wait,VAR_6
+wait_for_completion,FUNC_5
+ipmi_set_timeout,FUNC_6
+do_heartbeat,VAR_7
+send_heartbeat_now,VAR_8
+rv,VAR_9

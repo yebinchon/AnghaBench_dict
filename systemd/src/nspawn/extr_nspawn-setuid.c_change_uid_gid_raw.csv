@@ -1,0 +1,16 @@
+STDERR_FILENO,VAR_0
+STDIN_FILENO,VAR_1
+STDOUT_FILENO,VAR_2
+errno,VAR_3
+fchown,FUNC_0
+gid_is_valid,FUNC_1
+log_error_errno,FUNC_2
+setgroups,FUNC_3
+setresgid,FUNC_4
+setresuid,FUNC_5
+uid_is_valid,FUNC_6
+change_uid_gid_raw,FUNC_7
+uid,VAR_4
+gid,VAR_5
+supplementary_gids,VAR_6
+n_supplementary_gids,VAR_7

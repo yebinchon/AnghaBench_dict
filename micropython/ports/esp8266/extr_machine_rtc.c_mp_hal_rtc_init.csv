@@ -1,0 +1,17 @@
+MEM_CAL_ADDR,VAR_0
+MEM_DELTA_ADDR,VAR_1
+MEM_MAGIC,VAR_2
+MEM_USER_LEN_ADDR,VAR_3
+MEM_USER_MAGIC_ADDR,VAR_4
+pyb_rtc_alarm0_expiry,VAR_5
+pyb_rtc_alarm0_wake,VAR_6
+rtc_last_ticks,VAR_7
+system_get_rtc_time,FUNC_0
+system_rtc_clock_cali_proc,FUNC_1
+system_rtc_mem_read,FUNC_2
+system_rtc_mem_write,FUNC_3
+mp_hal_rtc_init,FUNC_4
+magic,VAR_8
+cal,VAR_9
+delta,VAR_10
+len,VAR_11

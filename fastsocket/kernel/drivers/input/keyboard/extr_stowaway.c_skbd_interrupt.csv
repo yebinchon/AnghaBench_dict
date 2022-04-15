@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+SKBD_KEY_MASK,VAR_1
+SKBD_RELEASE,VAR_2
+input_report_key,FUNC_0
+input_sync,FUNC_1
+serio_get_drvdata,FUNC_2
+skbd_interrupt,FUNC_3
+serio,VAR_3
+data,VAR_4
+flags,VAR_5
+skbd,VAR_6
+dev,VAR_7

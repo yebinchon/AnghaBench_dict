@@ -1,0 +1,12 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_INTX_DISABLE,VAR_1
+PCI_COMMAND_MASTER,VAR_2
+PCI_COMMAND_MEMORY,VAR_3
+dev_err,FUNC_0
+pci_enable_msi,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_config_word,FUNC_3
+cio2_pci_config_setup,FUNC_4
+dev,VAR_4
+pci_command,VAR_5
+r,VAR_6

@@ -1,0 +1,12 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_INTX_DISABLE,VAR_1
+PCI_D0,VAR_2
+eeh_dev_to_pci_dev,FUNC_0
+pci_save_state,FUNC_1
+pci_set_power_state,FUNC_2
+pci_write_config_word,FUNC_3
+eeh_disable_and_save_dev_state,FUNC_4
+edev,VAR_3
+userdata,VAR_4
+pdev,VAR_5
+dev,VAR_6

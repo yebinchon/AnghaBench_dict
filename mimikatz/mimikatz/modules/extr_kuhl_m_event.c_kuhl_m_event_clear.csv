@@ -1,0 +1,13 @@
+ClearEventLog,FUNC_0
+GetNumberOfEventLogRecords,FUNC_1
+OpenEventLog,FUNC_2
+PRINT_ERROR_AUTO,FUNC_3
+STATUS_SUCCESS,VAR_0
+kprintf,FUNC_4
+kull_m_string_args_byName,FUNC_5
+kuhl_m_event_clear,FUNC_6
+argc,VAR_1
+argv,VAR_2
+hEventLog,VAR_3
+szLog,VAR_4
+nbEvents,VAR_5

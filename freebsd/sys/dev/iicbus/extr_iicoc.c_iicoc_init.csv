@@ -1,0 +1,12 @@
+OC_CONTROL_EN,VAR_0
+OC_CONTROL_IEN,VAR_1
+OC_I2C_CTRL_REG,VAR_2
+OC_I2C_PRESCALE_HI_REG,VAR_3
+OC_I2C_PRESCALE_LO_REG,VAR_4
+device_get_softc,FUNC_0
+iicoc_dev_read,FUNC_1
+iicoc_dev_write,FUNC_2
+iicoc_init,FUNC_3
+dev,VAR_5
+sc,VAR_6
+value,VAR_7

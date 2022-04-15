@@ -1,0 +1,8 @@
+M_VLAN,VAR_0
+TRUNK_LOCK_DESTROY,FUNC_0
+VLAN_XLOCK_ASSERT,FUNC_1
+free,FUNC_2
+if_rele,FUNC_3
+vlan_freehash,FUNC_4
+trunk_destroy,FUNC_5
+trunk,VAR_1

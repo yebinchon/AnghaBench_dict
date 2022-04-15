@@ -1,0 +1,12 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+TSEC_RX_NUM_DESC,VAR_1
+TSEC_TX_NUM_DESC,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+m_freem,FUNC_4
+tsec_free_dma_desc,FUNC_5
+tsec_free_dma,FUNC_6
+sc,VAR_3
+i,VAR_4

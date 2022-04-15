@@ -1,0 +1,16 @@
+_record_cbs_data,VAR_0
+_remote,VAR_1
+_remote_default,VAR_2
+_remote_pass,VAR_3
+_remote_ssh_key,VAR_4
+_remote_ssh_passphrase,VAR_5
+_remote_ssh_pubkey,VAR_6
+_remote_url,VAR_7
+_remote_user,VAR_8
+_repo,VAR_9
+cl_fixture_cleanup,FUNC_0
+cl_git_sandbox_cleanup,FUNC_1
+git__free,FUNC_2
+git_remote_free,FUNC_3
+record_callbacks_data_clear,FUNC_4
+test_online_push__cleanup,FUNC_5

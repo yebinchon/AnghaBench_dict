@@ -1,0 +1,17 @@
+EBADF,VAR_0
+F_GETFL,VAR_1
+O_RDWR,VAR_2
+STDERR_FILENO,VAR_3
+_PATH_DEVNULL,VAR_4
+close,FUNC_0
+dup2,FUNC_1
+errno,VAR_5
+exit,FUNC_2
+fcntl,FUNC_3
+fprintf,FUNC_4
+open,FUNC_5
+stderr,VAR_6
+strerror,FUNC_6
+sanitise_stdfd,FUNC_7
+nullfd,VAR_7
+dupfd,VAR_8

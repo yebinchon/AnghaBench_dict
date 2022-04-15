@@ -1,0 +1,16 @@
+CONTROLLER_FATAL_ERROR,VAR_0
+DEVICE_FATAL_ERROR,VAR_1
+INT_FATAL_ERRORS,VAR_2
+SYSTEM_BUS_FATAL_ERROR,VAR_3
+UFSHCD_UIC_DL_NAC_RECEIVED_ERROR,VAR_4
+UFSHCD_UIC_DL_TCx_REPLAY_ERROR,VAR_5
+UIC_ERROR,VAR_6
+msleep,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+ufshcd_verify_dev_init,FUNC_3
+ufshcd_quirk_dl_nac_errors,FUNC_4
+hba,VAR_7
+flags,VAR_8
+err_handling,VAR_9
+err,VAR_10

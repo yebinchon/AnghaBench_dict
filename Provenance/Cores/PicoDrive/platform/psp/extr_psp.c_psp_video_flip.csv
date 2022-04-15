@@ -1,0 +1,11 @@
+PSP_DISPLAY_PIXEL_FORMAT_565,VAR_0
+PSP_DISPLAY_SETBUF_IMMEDIATE,VAR_1
+PSP_DISPLAY_SETBUF_NEXTFRAME,VAR_2
+VRAM_FB0,VAR_3
+VRAM_FB1,VAR_4
+current_screen,VAR_5
+psp_screen,VAR_6
+sceDisplaySetFrameBuf,FUNC_0
+sceDisplayWaitVblankStart,FUNC_1
+psp_video_flip,FUNC_2
+wait_vsync,VAR_7

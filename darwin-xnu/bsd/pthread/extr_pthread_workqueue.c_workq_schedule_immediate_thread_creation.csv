@@ -1,0 +1,13 @@
+TRACE_wq_start_add_timer,VAR_0
+WQ_IMMEDIATE_CALL_PENDED,VAR_1
+WQ_IMMEDIATE_CALL_SCHEDULED,VAR_2
+WQ_TRACE_WQ,FUNC_0
+_wq_flags,FUNC_1
+assert,FUNC_2
+panic,FUNC_3
+preemption_enabled,FUNC_4
+thread_call_enter1,FUNC_5
+workq_thread_call_prepost,FUNC_6
+workq_schedule_immediate_thread_creation,FUNC_7
+wq,VAR_3
+arg,VAR_4

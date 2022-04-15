@@ -1,0 +1,11 @@
+dev_get_drvdata,FUNC_0
+ds1685_rtc_get_ssn,FUNC_1
+ds1685_rtc_switch_to_bank0,FUNC_2
+ds1685_rtc_switch_to_bank1,FUNC_3
+sprintf,FUNC_4
+ds1685_rtc_sysfs_serial_show,FUNC_5
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+rtc,VAR_3
+ssn,VAR_4

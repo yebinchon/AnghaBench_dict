@@ -1,0 +1,14 @@
+EVP_PKEY_assign_RSA,FUNC_0
+EVP_PKEY_free,FUNC_1
+EVP_PKEY_new,FUNC_2
+EVP_sha256,FUNC_3
+LDNS_STATUS_CRYPTO_UNKNOWN_ALGO,VAR_0
+LDNS_STATUS_SSL_ERR,VAR_1
+ldns_key_buf2rsa_raw,FUNC_4
+ldns_verify_rrsig_evp_raw,FUNC_5
+ldns_verify_rrsig_rsasha256_raw,FUNC_6
+sig,VAR_2
+siglen,VAR_3
+rrset,VAR_4
+key,VAR_5
+keylen,VAR_6

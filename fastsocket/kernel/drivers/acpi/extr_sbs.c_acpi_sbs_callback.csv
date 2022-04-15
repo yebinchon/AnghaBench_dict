@@ -1,0 +1,17 @@
+ACPI_AC_CLASS,VAR_0
+ACPI_AC_DIR_NAME,VAR_1
+ACPI_BATTERY_CLASS,VAR_2
+ACPI_SBS_NOTIFY_STATUS,VAR_3
+KOBJ_CHANGE,VAR_4
+MAX_SBS_BAT,VAR_5
+acpi_ac_get_present,FUNC_0
+acpi_battery_read,FUNC_1
+acpi_bus_generate_proc_event4,FUNC_2
+kobject_uevent,FUNC_3
+acpi_sbs_callback,FUNC_4
+context,VAR_6
+id,VAR_7
+sbs,VAR_8
+bat,VAR_9
+saved_charger_state,VAR_10
+saved_battery_state,VAR_11

@@ -1,0 +1,15 @@
+AR9170_MAC_REG_BASIC_RATE,VAR_0
+AR9170_MAC_REG_MANDATORY_RATE,VAR_1
+IEEE80211_BAND_5GHZ,VAR_2
+carl9170_get_main_vif,FUNC_0
+carl9170_regwrite,FUNC_1
+carl9170_regwrite_begin,FUNC_2
+carl9170_regwrite_finish,FUNC_3
+carl9170_regwrite_result,FUNC_4
+rcu_read_lock,FUNC_5
+rcu_read_unlock,FUNC_6
+carl9170_set_mac_rates,FUNC_7
+ar,VAR_3
+vif,VAR_4
+basic,VAR_5
+mandatory,VAR_6

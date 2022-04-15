@@ -1,0 +1,16 @@
+EOF,VAR_0
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_ASSERT_EQUAL_STRING_LEN,FUNC_1
+TEST_ASSERT_NOT_EQUAL,FUNC_2
+TEST_ASSERT_NOT_NULL,FUNC_3
+bzero,FUNC_4
+fclose,FUNC_5
+fopen,FUNC_6
+fputs,FUNC_7
+fread,FUNC_8
+test_spiffs_create_file_with_text,FUNC_9
+test_spiffs_overwrite_append,FUNC_10
+filename,VAR_1
+f_a,VAR_2
+buf,VAR_3
+f_r,VAR_4

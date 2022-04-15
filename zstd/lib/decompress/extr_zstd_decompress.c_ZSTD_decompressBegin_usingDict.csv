@@ -1,0 +1,10 @@
+FORWARD_IF_ERROR,FUNC_0
+RETURN_ERROR_IF,FUNC_1
+ZSTD_decompressBegin,FUNC_2
+ZSTD_decompress_insertDictionary,FUNC_3
+ZSTD_isError,FUNC_4
+dictionary_corrupted,VAR_0
+ZSTD_decompressBegin_usingDict,FUNC_5
+dctx,VAR_1
+dict,VAR_2
+dictSize,VAR_3

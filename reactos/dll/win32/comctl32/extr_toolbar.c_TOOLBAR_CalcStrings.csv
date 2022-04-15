@@ -1,0 +1,16 @@
+GetDC,FUNC_0
+GetTextMetricsW,FUNC_1
+ReleaseDC,FUNC_2
+SelectObject,FUNC_3
+TOOLBAR_GetText,FUNC_4
+TOOLBAR_MeasureString,FUNC_5
+TRACE,FUNC_6
+TOOLBAR_CalcStrings,FUNC_7
+infoPtr,VAR_0
+lpSize,VAR_1
+btnPtr,VAR_2
+i,VAR_3
+sz,VAR_4
+hdc,VAR_5
+hOldFont,VAR_6
+tm,VAR_7

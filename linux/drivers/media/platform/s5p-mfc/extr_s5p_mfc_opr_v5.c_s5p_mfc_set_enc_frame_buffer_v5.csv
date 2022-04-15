@@ -1,0 +1,9 @@
+OFFSETB,FUNC_0
+S5P_FIMV_ENC_SI_CH0_CUR_C_ADR,VAR_0
+S5P_FIMV_ENC_SI_CH0_CUR_Y_ADR,VAR_1
+mfc_write,FUNC_1
+s5p_mfc_set_enc_frame_buffer_v5,FUNC_2
+ctx,VAR_2
+y_addr,VAR_3
+c_addr,VAR_4
+dev,VAR_5

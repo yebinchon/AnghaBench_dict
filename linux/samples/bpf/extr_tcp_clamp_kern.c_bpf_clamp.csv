@@ -1,0 +1,16 @@
+AF_INET6,VAR_0
+SOL_SOCKET,VAR_1
+SOL_TCP,VAR_2
+SO_RCVBUF,VAR_3
+SO_SNDBUF,VAR_4
+TCP_BPF_SNDCWND_CLAMP,VAR_5
+bpf_ntohl,FUNC_0
+bpf_printk,FUNC_1
+bpf_setsockopt,FUNC_2
+bpf_clamp,FUNC_3
+skops,VAR_6
+bufsize,VAR_7
+to_init,VAR_8
+clamp,VAR_9
+rv,VAR_10
+op,VAR_11

@@ -1,0 +1,14 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+MLY_CMD_CCB,VAR_2
+MLY_CMD_DATAIN,VAR_3
+MLY_CMD_DATAOUT,VAR_4
+MLY_CMD_MAPPED,VAR_5
+bus_dmamap_load,FUNC_0
+bus_dmamap_load_ccb,FUNC_1
+bus_dmamap_sync,FUNC_2
+debug_called,FUNC_3
+mly_map_command_sg,VAR_6
+mly_map_command,FUNC_4
+mc,VAR_7
+sc,VAR_8

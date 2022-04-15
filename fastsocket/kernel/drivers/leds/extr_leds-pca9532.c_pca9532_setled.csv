@@ -1,0 +1,12 @@
+LED_NUM,FUNC_0
+LED_REG,FUNC_1
+i2c_get_clientdata,FUNC_2
+i2c_smbus_read_byte_data,FUNC_3
+i2c_smbus_write_byte_data,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+pca9532_setled,FUNC_7
+led,VAR_0
+client,VAR_1
+data,VAR_2
+reg,VAR_3

@@ -1,0 +1,17 @@
+EEH_IO_ERROR_VALUE,FUNC_0
+PCIBIOS_DEVICE_NOT_FOUND,VAR_0
+PNV_PHB_FLAG_EEH,VAR_1
+eeh_dev_check_failure,FUNC_1
+pci_get_pdn_by_devfn,FUNC_2
+pnv_pci_cfg_check,FUNC_3
+pnv_pci_cfg_read,FUNC_4
+pnv_pci_config_check_eeh,FUNC_5
+pnv_pci_read_config,FUNC_6
+bus,VAR_2
+devfn,VAR_3
+where,VAR_4
+size,VAR_5
+val,VAR_6
+pdn,VAR_7
+phb,VAR_8
+ret,VAR_9

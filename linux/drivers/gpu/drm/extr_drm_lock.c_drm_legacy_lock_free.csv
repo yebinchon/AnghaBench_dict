@@ -1,0 +1,15 @@
+DRM_ERROR,FUNC_0
+_DRM_LOCKING_CONTEXT,FUNC_1
+_DRM_LOCK_IS_HELD,FUNC_2
+cmpxchg,FUNC_3
+drm_lock_transfer,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+wake_up_interruptible,FUNC_7
+drm_legacy_lock_free,FUNC_8
+lock_data,VAR_0
+context,VAR_1
+old,VAR_2
+new,VAR_3
+prev,VAR_4
+lock,VAR_5

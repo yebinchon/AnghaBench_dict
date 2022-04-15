@@ -1,0 +1,14 @@
+JSA1212_ALS_DELAY_MS,VAR_0
+JSA1212_ALS_DT1_REG,VAR_1
+JSA1212_CONF_ALS_DISABLE,VAR_2
+JSA1212_CONF_ALS_ENABLE,VAR_3
+dev_err,FUNC_0
+jsa1212_als_enable,FUNC_1
+le16_to_cpu,FUNC_2
+msleep,FUNC_3
+regmap_bulk_read,FUNC_4
+jsa1212_read_als_data,FUNC_5
+data,VAR_4
+val,VAR_5
+ret,VAR_6
+als_data,VAR_7

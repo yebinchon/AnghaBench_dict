@@ -1,0 +1,13 @@
+AC97_3D_CONTROL,VAR_0
+AC97_SINGLE_VALUE,FUNC_0
+AC97_YMF7X3_3D_MODE_SEL,VAR_1
+snd_ac97_cnew,FUNC_1
+snd_ac97_controls_3d,VAR_2
+snd_ac97_write_cache,FUNC_2
+snd_ac97_ymf7x3_controls_speaker,VAR_3
+snd_ctl_add,FUNC_3
+strcpy,FUNC_4
+patch_yamaha_ymf7x3_3d,FUNC_5
+ac97,VAR_4
+kctl,VAR_5
+err,VAR_6

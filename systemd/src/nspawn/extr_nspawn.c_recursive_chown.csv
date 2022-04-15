@@ -1,0 +1,16 @@
+EBADE,VAR_0
+EOPNOTSUPP,VAR_1
+USER_NAMESPACE_NO,VAR_2
+arg_uid_range,VAR_3
+arg_uid_shift,VAR_4
+arg_userns_chown,VAR_5
+arg_userns_mode,VAR_6
+assert,FUNC_0
+log_debug,FUNC_1
+log_error_errno,FUNC_2
+path_patch_uid,FUNC_3
+recursive_chown,FUNC_4
+directory,VAR_7
+shift,VAR_8
+range,VAR_9
+r,VAR_10

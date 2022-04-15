@@ -1,0 +1,16 @@
+add_timer,FUNC_0
+jiffies,VAR_0
+jr3_pci_poll_subdevice,FUNC_1
+msecs_to_jiffies,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+jr3_pci_poll_dev,FUNC_5
+data,VAR_1
+flags,VAR_2
+dev,VAR_3
+devpriv,VAR_4
+now,VAR_5
+delay,VAR_6
+i,VAR_7
+subdevpriv,VAR_8
+sub_delay,VAR_9

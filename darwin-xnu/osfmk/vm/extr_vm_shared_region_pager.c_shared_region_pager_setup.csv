@@ -1,0 +1,14 @@
+LCK_SLEEP_DEFAULT,VAR_0
+MEMORY_OBJECT_NULL,VAR_1
+SHARED_REGION_PAGER_NULL,VAR_2
+THREAD_UNINT,VAR_3
+lck_mtx_lock,FUNC_0
+lck_mtx_sleep,FUNC_1
+lck_mtx_unlock,FUNC_2
+shared_region_pager_create,FUNC_3
+shared_region_pager_lock,VAR_4
+shared_region_pager_setup,FUNC_4
+backing_object,VAR_5
+backing_offset,VAR_6
+slide_info,VAR_7
+pager,VAR_8

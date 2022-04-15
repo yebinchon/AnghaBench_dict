@@ -1,0 +1,17 @@
+MPI2_IOCSTATUS_MASK,VAR_0
+MPI2_IOCSTATUS_SUCCESS,VAR_1
+MPI2_SAS_DEVICE_PGAD_FORM_GET_NEXT_HANDLE,VAR_2
+_scsih_is_end_device,FUNC_0
+_scsih_mark_responding_sas_device,FUNC_1
+ioc_info,FUNC_2
+le16_to_cpu,FUNC_3
+le32_to_cpu,FUNC_4
+list_empty,FUNC_5
+mpt3sas_config_get_sas_device_pg0,FUNC_6
+_scsih_search_responding_sas_devices,FUNC_7
+ioc,VAR_3
+sas_device_pg0,VAR_4
+mpi_reply,VAR_5
+ioc_status,VAR_6
+handle,VAR_7
+device_info,VAR_8

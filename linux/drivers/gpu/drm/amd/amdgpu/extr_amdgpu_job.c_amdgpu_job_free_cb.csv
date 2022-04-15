@@ -1,0 +1,11 @@
+amdgpu_ring_priority_put,FUNC_0
+amdgpu_sync_free,FUNC_1
+dma_fence_put,FUNC_2
+drm_sched_job_cleanup,FUNC_3
+kfree,FUNC_4
+to_amdgpu_job,FUNC_5
+to_amdgpu_ring,FUNC_6
+amdgpu_job_free_cb,FUNC_7
+s_job,VAR_0
+ring,VAR_1
+job,VAR_2

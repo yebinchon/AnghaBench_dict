@@ -1,0 +1,15 @@
+CAM_RETRY_SELTO,VAR_0
+SF_RETRY_UA,VAR_1
+bzero,FUNC_0
+cam_periph_lock,FUNC_1
+cam_periph_mapmem,FUNC_2
+cam_periph_runccb,FUNC_3
+cam_periph_unlock,FUNC_4
+cam_periph_unmapmem,FUNC_5
+sgerror,VAR_2
+sgsendccb,FUNC_6
+periph,VAR_3
+ccb,VAR_4
+softc,VAR_5
+mapinfo,VAR_6
+error,VAR_7

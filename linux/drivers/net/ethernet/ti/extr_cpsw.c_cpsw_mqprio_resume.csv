@@ -1,0 +1,15 @@
+CPSW1_TX_PRI_MAP,VAR_0
+CPSW2_TX_PRI_MAP,VAR_1
+CPSW_FIFO_SHAPERS_NUM,VAR_2
+CPSW_VERSION_1,VAR_3
+netdev_get_prio_tc_map,FUNC_0
+slave_write,FUNC_1
+cpsw_mqprio_resume,FUNC_2
+slave,VAR_4
+priv,VAR_5
+cpsw,VAR_6
+tx_prio_map,VAR_7
+i,VAR_8
+tc,VAR_9
+fifo,VAR_10
+tx_prio_rg,VAR_11

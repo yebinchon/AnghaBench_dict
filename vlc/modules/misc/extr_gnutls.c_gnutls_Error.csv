@@ -1,0 +1,14 @@
+EAGAIN,VAR_0
+ECONNRESET,VAR_1
+EINTR,VAR_2
+WSAECONNRESET,VAR_3
+WSAEINTR,VAR_4
+WSAEWOULDBLOCK,VAR_5
+WSASetLastError,FUNC_0
+errno,VAR_6
+gnutls_error_is_fatal,FUNC_1
+gnutls_strerror,FUNC_2
+msg_Err,FUNC_3
+gnutls_Error,FUNC_4
+priv,VAR_7
+val,VAR_8

@@ -1,0 +1,14 @@
+INC_PERF_COUNTER,FUNC_0
+MLX4_EN_TX_POLL_TIMEOUT,VAR_0
+jiffies,VAR_1
+mlx4_en_process_tx_cq,FUNC_1
+mod_timer,FUNC_2
+netdev_priv,FUNC_3
+spin_trylock,FUNC_4
+spin_unlock,FUNC_5
+mlx4_en_poll_tx_cq,FUNC_6
+data,VAR_2
+cq,VAR_3
+priv,VAR_4
+ring,VAR_5
+inflight,VAR_6

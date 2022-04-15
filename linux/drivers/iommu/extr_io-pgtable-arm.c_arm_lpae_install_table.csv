@@ -1,0 +1,16 @@
+ARM_LPAE_PTE_NSTABLE,VAR_0
+ARM_LPAE_PTE_SW_SYNC,VAR_1
+ARM_LPAE_PTE_TYPE_TABLE,VAR_2
+IO_PGTABLE_QUIRK_ARM_NS,VAR_3
+WRITE_ONCE,FUNC_0
+__arm_lpae_sync_pte,FUNC_1
+__pa,FUNC_2
+cmpxchg64_relaxed,FUNC_3
+dma_wmb,FUNC_4
+arm_lpae_install_table,FUNC_5
+table,VAR_4
+ptep,VAR_5
+curr,VAR_6
+cfg,VAR_7
+old,VAR_8
+new,VAR_9

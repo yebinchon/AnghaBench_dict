@@ -1,0 +1,13 @@
+crq_queue_destroy,FUNC_0
+dev_get_drvdata,FUNC_1
+kfree,FUNC_2
+scsi_host_put,FUNC_3
+scsi_remove_host,FUNC_4
+scsi_tgt_free_queue,FUNC_5
+srp_remove_host,FUNC_6
+srp_target_free,FUNC_7
+ibmvstgt_remove,FUNC_8
+dev,VAR_0
+target,VAR_1
+shost,VAR_2
+vport,VAR_3

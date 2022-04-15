@@ -1,0 +1,14 @@
+H6WRITE,VAR_0
+HPI_HIF_ADDR,FUNC_0
+TIMEOUT,VAR_1
+hpi6000_check_PCI2040_error_flag,FUNC_1
+hpi_set_address,FUNC_2
+hpi_write_word,FUNC_3
+iowrite32,FUNC_4
+hpi6000_send_host_command,FUNC_5
+pao,VAR_2
+dsp_index,VAR_3
+host_cmd,VAR_4
+phw,VAR_5
+pdo,VAR_6
+timeout,VAR_7

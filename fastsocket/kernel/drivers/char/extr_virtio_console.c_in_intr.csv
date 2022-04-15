@@ -1,0 +1,14 @@
+discard_port_data,FUNC_0
+find_port_by_vq,FUNC_1
+get_inbuf,FUNC_2
+hvc_kick,FUNC_3
+hvc_poll,FUNC_4
+is_console_port,FUNC_5
+send_sigio_to_port,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+wake_up_interruptible,FUNC_9
+in_intr,FUNC_10
+vq,VAR_0
+port,VAR_1
+flags,VAR_2

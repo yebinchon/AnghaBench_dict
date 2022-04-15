@@ -1,0 +1,13 @@
+INDICATOR_NOOP,VAR_0
+PCI_EXP_SLTCTL_PWR_IND_OFF,VAR_1
+PCI_EXP_SLTSTA_DLLSC,VAR_2
+PCI_EXP_SLTSTA_PDC,VAR_3
+POWER_CTRL,FUNC_0
+atomic_and,FUNC_1
+msleep,FUNC_2
+pciehp_power_off_slot,FUNC_3
+pciehp_set_indicators,FUNC_4
+pciehp_unconfigure_device,FUNC_5
+remove_board,FUNC_6
+ctrl,VAR_4
+safe_removal,VAR_5

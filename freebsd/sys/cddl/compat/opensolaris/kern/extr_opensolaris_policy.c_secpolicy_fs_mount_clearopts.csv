@@ -1,0 +1,13 @@
+MNTOPT_NOSETUID,VAR_0
+MNTOPT_SETUID,VAR_1
+MNT_ILOCK,FUNC_0
+MNT_IUNLOCK,FUNC_1
+MNT_USER,VAR_2
+PRIV_VFS_MOUNT_NONUSER,VAR_3
+VFS_NOSETUID,VAR_4
+priv_check_cred,FUNC_2
+vfs_clearmntopt,FUNC_3
+vfs_setmntopt,FUNC_4
+secpolicy_fs_mount_clearopts,FUNC_5
+cr,VAR_5
+vfsp,VAR_6

@@ -1,0 +1,16 @@
+FLOW_BLOCK_BINDER_TYPE_CLSACT_EGRESS,VAR_0
+FLOW_BLOCK_BINDER_TYPE_CLSACT_INGRESS,VAR_1
+clsact_chain_head_change,VAR_2
+mini_qdisc_pair_init,FUNC_0
+net_inc_egress_queue,FUNC_1
+net_inc_ingress_queue,FUNC_2
+qdisc_dev,FUNC_3
+qdisc_priv,FUNC_4
+tcf_block_get_ext,FUNC_5
+clsact_init,FUNC_6
+sch,VAR_3
+opt,VAR_4
+extack,VAR_5
+q,VAR_6
+dev,VAR_7
+err,VAR_8

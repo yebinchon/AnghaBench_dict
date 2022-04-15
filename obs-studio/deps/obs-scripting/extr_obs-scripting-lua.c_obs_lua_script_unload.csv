@@ -1,0 +1,15 @@
+lua_close,FUNC_0
+lua_getglobal,FUNC_1
+lua_pcall,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+remove_lua_obs_callback,FUNC_5
+tick_mutex,VAR_0
+undef_lua_script_sources,FUNC_6
+obs_lua_script_unload,FUNC_7
+s,VAR_1
+data,VAR_2
+script,VAR_3
+next,VAR_4
+cb,VAR_5
+next,VAR_6

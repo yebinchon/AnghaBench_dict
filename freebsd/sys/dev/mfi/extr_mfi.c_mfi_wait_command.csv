@@ -1,0 +1,11 @@
+MA_OWNED,VAR_0
+MFI_CMD_COMPLETED,VAR_1
+MFI_STAT_OK,VAR_2
+PRIBIO,VAR_3
+mfi_enqueue_ready,FUNC_0
+mfi_startio,FUNC_1
+msleep,FUNC_2
+mtx_assert,FUNC_3
+mfi_wait_command,FUNC_4
+sc,VAR_4
+cm,VAR_5

@@ -1,0 +1,15 @@
+IEEE80211_F_CSAPENDING,VAR_0
+IEEE80211_INACT_WAIT,VAR_1
+IEEE80211_LOCK,FUNC_0
+IEEE80211_UNLOCK,FUNC_1
+callout_reset,FUNC_2
+hz,VAR_2
+ieee80211_ageq_age,FUNC_3
+ieee80211_erp_timeout,FUNC_4
+ieee80211_ht_timeout,FUNC_5
+ieee80211_scan_timeout,FUNC_6
+ieee80211_timeout_stations,FUNC_7
+ieee80211_vht_timeout,FUNC_8
+ieee80211_node_timeout,FUNC_9
+arg,VAR_3
+ic,VAR_4

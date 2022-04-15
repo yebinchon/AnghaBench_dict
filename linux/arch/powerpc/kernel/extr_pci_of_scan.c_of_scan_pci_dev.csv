@@ -1,0 +1,17 @@
+EEH_DEV_REMOVED,VAR_0
+PCI_DN,FUNC_0
+of_create_pci_dev,FUNC_1
+of_device_is_available,FUNC_2
+of_get_property,FUNC_3
+of_read_number,FUNC_4
+pci_dev_put,FUNC_5
+pci_get_slot,FUNC_6
+pdn_to_eeh_dev,FUNC_7
+pr_debug,FUNC_8
+of_scan_pci_dev,FUNC_9
+bus,VAR_1
+dn,VAR_2
+dev,VAR_3
+reg,VAR_4
+reglen,VAR_5
+devfn,VAR_6

@@ -1,0 +1,13 @@
+AC_WCAP_STEREO,VAR_0
+AC_WID_AUD_MIX,VAR_1
+HDA_INPUT,VAR_2
+get_wcaps,FUNC_0
+get_wcaps_type,FUNC_1
+snd_hda_get_connections,FUNC_2
+snd_hda_get_num_conns,FUNC_3
+is_stereo_amps,FUNC_4
+codec,VAR_3
+nid,VAR_4
+dir,VAR_5
+wcaps,VAR_6
+conn,VAR_7

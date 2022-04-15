@@ -1,0 +1,12 @@
+assert,FUNC_0
+pcache1Alloc,FUNC_1
+pcache1EnterMutex,FUNC_2
+pcache1Free,FUNC_3
+pcache1LeaveMutex,FUNC_4
+sqlite3Malloc,FUNC_5
+sqlite3_free,FUNC_6
+sqlite3_mutex_held,FUNC_7
+pcache1AllocPage,FUNC_8
+pCache,VAR_0
+p,VAR_1
+pPg,VAR_2

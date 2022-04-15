@@ -1,0 +1,10 @@
+TIMER1_EN,VAR_0
+TIMER1_RELOAD_EN,VAR_1
+TIMER1_VAL,VAR_2
+TIMER_CTRL,VAR_3
+atomic_io_modify,FUNC_0
+timer_base,VAR_4
+writel,FUNC_1
+orion_clkevt_next_event,FUNC_2
+delta,VAR_5
+dev,VAR_6

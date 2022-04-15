@@ -1,0 +1,17 @@
+CreateBindCtx,FUNC_0
+CreateURLMoniker,FUNC_1
+E_PENDING,VAR_0
+FAILED,FUNC_2
+IBindCtx_Release,FUNC_3
+IID_IStream,VAR_1
+IMoniker_BindToStorage,FUNC_4
+IMoniker_Release,FUNC_5
+RegisterBindStatusCallback,FUNC_6
+S_OK,VAR_2
+URLStartDownload,FUNC_7
+szURL,VAR_3
+ppStream,VAR_4
+pBSC,VAR_5
+hr,VAR_6
+pMoniker,VAR_7
+pbc,VAR_8

@@ -1,0 +1,10 @@
+EFUSE_BLK_MAX,VAR_0
+REG_READ,FUNC_0
+assert,FUNC_1
+range_read_addr_blocks,VAR_1
+virt_blocks,VAR_2
+esp_efuse_utility_read_reg,FUNC_2
+blk,VAR_3
+num_reg,VAR_4
+max_num_reg,VAR_5
+value,VAR_6

@@ -1,0 +1,14 @@
+B_FALSE,VAR_0
+DMU_OST_OTHER,VAR_1
+ZFS_PROP_SYNC,VAR_2
+ZFS_SYNC_ALWAYS,VAR_3
+dmu_objset_create,FUNC_0
+printf,FUNC_1
+ztest_dsl_prop_set_uint64,FUNC_2
+ztest_objset_create_cb,VAR_4
+ztest_opts,VAR_5
+ztest_random,FUNC_3
+ztest_dataset_create,FUNC_4
+dsname,VAR_6
+zilset,VAR_7
+err,VAR_8

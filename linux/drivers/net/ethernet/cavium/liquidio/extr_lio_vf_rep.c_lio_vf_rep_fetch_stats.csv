@@ -1,0 +1,16 @@
+LIO_VF_REP_REQ_STATS,VAR_0
+LIO_VF_REP_STATS_POLL_TIME_MS,VAR_1
+lio_vf_rep_send_soft_command,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+msecs_to_jiffies,FUNC_3
+octeon_swap_8B_data,FUNC_4
+schedule_delayed_work,FUNC_5
+lio_vf_rep_fetch_stats,FUNC_6
+work,VAR_2
+wk,VAR_3
+vf_rep,VAR_4
+stats,VAR_5
+rep_cfg,VAR_6
+oct,VAR_7
+ret,VAR_8

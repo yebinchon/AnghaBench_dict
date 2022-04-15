@@ -1,0 +1,11 @@
+IBV_XRCD_INIT_ATTR_FD,VAR_0
+IBV_XRCD_INIT_ATTR_OFLAGS,VAR_1
+O_CREAT,VAR_2
+ibv_open_xrcd,FUNC_0
+memset,FUNC_1
+mut,VAR_3
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+ucma_get_xrcd,FUNC_4
+cma_dev,VAR_4
+attr,VAR_5

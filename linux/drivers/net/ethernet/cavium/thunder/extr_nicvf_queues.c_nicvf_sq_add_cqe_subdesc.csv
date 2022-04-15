@@ -1,0 +1,14 @@
+GET_SQ_DESC,FUNC_0
+POST_CQE_DESC_COUNT,VAR_0
+SND_QUEUE_DESC_SIZE,VAR_1
+SQ_DESC_TYPE_HEADER,VAR_2
+SQ_DESC_TYPE_IMMEDIATE,VAR_3
+memset,FUNC_1
+nicvf_get_nxt_sqentry,FUNC_2
+nicvf_sq_add_cqe_subdesc,FUNC_3
+sq,VAR_4
+qentry,VAR_5
+tso_sqe,VAR_6
+skb,VAR_7
+imm,VAR_8
+hdr,VAR_9

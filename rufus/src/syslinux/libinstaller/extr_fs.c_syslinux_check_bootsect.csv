@@ -1,0 +1,13 @@
+SECTOR_SIZE,VAR_0
+check_fat_bootsect,FUNC_0
+check_ntfs_bootsect,FUNC_1
+get_16,FUNC_2
+get_8,FUNC_3
+ntfs_check_zero_fields,FUNC_4
+syslinux_check_bootsect,FUNC_5
+bs,VAR_1
+fs_type,VAR_2
+media_sig,VAR_3
+sectorsize,VAR_4
+sectbuf,VAR_5
+retval,VAR_6

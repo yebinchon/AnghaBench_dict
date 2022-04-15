@@ -1,0 +1,13 @@
+MALO_LOCK_DESTROY,FUNC_0
+callout_drain,FUNC_1
+ieee80211_ifdetach,FUNC_2
+malo_dma_cleanup,FUNC_3
+malo_hal_detach,FUNC_4
+malo_stop,FUNC_5
+malo_tx_cleanup,FUNC_6
+mbufq_drain,FUNC_7
+taskqueue_drain,FUNC_8
+taskqueue_free,FUNC_9
+malo_detach,FUNC_10
+sc,VAR_0
+ic,VAR_1

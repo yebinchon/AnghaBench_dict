@@ -1,0 +1,14 @@
+BTRFS_QGROUP_RELATION_KEY,VAR_0
+ENOMEM,VAR_1
+btrfs_alloc_path,FUNC_0
+btrfs_free_path,FUNC_1
+btrfs_insert_empty_item,FUNC_2
+btrfs_mark_buffer_dirty,FUNC_3
+add_qgroup_relation_item,FUNC_4
+trans,VAR_2
+src,VAR_3
+dst,VAR_4
+ret,VAR_5
+quota_root,VAR_6
+path,VAR_7
+key,VAR_8

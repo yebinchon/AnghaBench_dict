@@ -1,0 +1,13 @@
+RF_ACTIVE,VAR_0
+acpi_is_resource_managed,FUNC_0
+bus_deactivate_resource,FUNC_1
+bus_generic_rl_release_resource,FUNC_2
+rman_get_flags,FUNC_3
+rman_release_resource,FUNC_4
+acpi_release_resource,FUNC_5
+bus,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+r,VAR_5
+ret,VAR_6

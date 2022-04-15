@@ -1,0 +1,17 @@
+OXYGEN_DMA_MULTICH_COUNT,VAR_0
+OXYGEN_DMA_MULTICH_TCOUNT,VAR_1
+PCM_MULTICH,VAR_2
+channel_base_registers,VAR_3
+oxygen_substream_channel,FUNC_0
+oxygen_write16,FUNC_1
+oxygen_write32,FUNC_2
+params_buffer_bytes,FUNC_3
+params_period_bytes,FUNC_4
+snd_pcm_lib_malloc_pages,FUNC_5
+snd_pcm_substream_chip,FUNC_6
+oxygen_hw_params,FUNC_7
+substream,VAR_4
+hw_params,VAR_5
+chip,VAR_6
+channel,VAR_7
+err,VAR_8

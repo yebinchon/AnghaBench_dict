@@ -1,0 +1,14 @@
+AccessShareLock,VAR_0
+Anum_hypertable_pkey_idx_id,VAR_1
+BTEqualStrategyNumber,VAR_2
+CurrentMemoryContext,VAR_3
+F_INT4EQ,VAR_4
+HYPERTABLE_ID_INDEX,VAR_5
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+hypertable_scan_limit_internal,FUNC_2
+hypertable_tuple_found,VAR_6
+ts_hypertable_get_by_id,FUNC_3
+hypertable_id,VAR_7
+scankey,VAR_8
+ht,VAR_9

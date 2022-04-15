@@ -1,0 +1,17 @@
+CLKNODE_SET_FREQ,FUNC_0
+CLK_NODE_GLITCH_FREE,VAR_0
+CLK_SET_DRYRUN,VAR_1
+CLK_TOPO_XASSERT,FUNC_1
+EBUSY,VAR_2
+ENXIO,VAR_3
+clknode_get_freq,FUNC_2
+clknode_refresh_cache,FUNC_3
+printf,FUNC_4
+clknode_set_freq,FUNC_5
+clknode,VAR_4
+freq,VAR_5
+flags,VAR_6
+enablecnt,VAR_7
+rv,VAR_8
+done,VAR_9
+parent_freq,VAR_10

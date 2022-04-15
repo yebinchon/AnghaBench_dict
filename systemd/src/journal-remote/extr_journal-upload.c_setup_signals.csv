@@ -1,0 +1,11 @@
+SIGINT,VAR_0
+SIGTERM,VAR_1
+SIG_SETMASK,VAR_2
+assert,FUNC_0
+assert_se,FUNC_1
+dispatch_sigterm,VAR_3
+sd_event_add_signal,FUNC_2
+sigprocmask_many,FUNC_3
+setup_signals,FUNC_4
+u,VAR_4
+r,VAR_5

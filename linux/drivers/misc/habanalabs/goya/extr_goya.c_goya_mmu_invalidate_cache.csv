@@ -1,0 +1,16 @@
+GOYA_PLDM_MMU_TIMEOUT_USEC,VAR_0
+HW_CAP_MMU,VAR_1
+MMU_CONFIG_TIMEOUT_USEC,VAR_2
+WREG32,FUNC_0
+dev_notice_ratelimited,FUNC_1
+hl_poll_timeout,FUNC_2
+mmSTLB_INV_ALL_START,VAR_3
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+goya_mmu_invalidate_cache,FUNC_5
+hdev,VAR_4
+is_hard,VAR_5
+goya,VAR_6
+status,VAR_7
+timeout_usec,VAR_8
+rc,VAR_9

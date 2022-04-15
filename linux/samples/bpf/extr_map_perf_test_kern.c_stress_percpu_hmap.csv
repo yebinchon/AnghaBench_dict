@@ -1,0 +1,11 @@
+BPF_ANY,VAR_0
+bpf_get_current_pid_tgid,FUNC_0
+bpf_map_delete_elem,FUNC_1
+bpf_map_lookup_elem,FUNC_2
+bpf_map_update_elem,FUNC_3
+percpu_hash_map,VAR_1
+stress_percpu_hmap,FUNC_4
+ctx,VAR_2
+key,VAR_3
+init_val,VAR_4
+value,VAR_5

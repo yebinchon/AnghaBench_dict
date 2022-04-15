@@ -1,0 +1,15 @@
+DNS_MAX_SERVERS,VAR_0
+IP2STR,FUNC_0
+IPSTR,VAR_1
+dns_getserver,FUNC_1
+ip_addr_isany,FUNC_2
+luaL_error,FUNC_3
+luaL_optint,FUNC_4
+lua_pushnil,FUNC_5
+lua_pushstring,FUNC_6
+sprintf,FUNC_7
+net_getdnsserver,FUNC_8
+L,VAR_2
+numdns,VAR_3
+ipaddr,VAR_4
+temp,VAR_5

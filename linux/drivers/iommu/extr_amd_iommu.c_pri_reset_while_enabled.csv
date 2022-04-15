@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+PCI_EXT_CAP_ID_PRI,VAR_1
+PCI_PRI_CTRL,VAR_2
+PCI_PRI_CTRL_RESET,VAR_3
+pci_find_ext_capability,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+pri_reset_while_enabled,FUNC_3
+pdev,VAR_4
+control,VAR_5
+pos,VAR_6

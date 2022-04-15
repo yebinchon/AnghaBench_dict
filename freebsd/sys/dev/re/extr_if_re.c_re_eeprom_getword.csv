@@ -1,0 +1,14 @@
+CSR_READ_1,FUNC_0
+DELAY,FUNC_1
+EE_CLR,FUNC_2
+EE_SET,FUNC_3
+RL_EECMD,VAR_0
+RL_EE_CLK,VAR_1
+RL_EE_DATAOUT,VAR_2
+re_eeprom_putbyte,FUNC_4
+re_eeprom_getword,FUNC_5
+sc,VAR_3
+addr,VAR_4
+dest,VAR_5
+i,VAR_6
+word,VAR_7

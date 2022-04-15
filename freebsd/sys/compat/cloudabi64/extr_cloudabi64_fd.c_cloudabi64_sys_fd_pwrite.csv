@@ -1,0 +1,10 @@
+M_IOV,VAR_0
+TO_PTR,FUNC_0
+cloudabi64_copyinuio,FUNC_1
+free,FUNC_2
+kern_pwritev,FUNC_3
+cloudabi64_sys_fd_pwrite,FUNC_4
+td,VAR_1
+uap,VAR_2
+uio,VAR_3
+error,VAR_4

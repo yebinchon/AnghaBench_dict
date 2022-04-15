@@ -1,0 +1,16 @@
+BT_DBG,FUNC_0
+HCI_SCO_HDR_SIZE,VAR_0
+__le16_to_cpu,FUNC_1
+bt_dev_err,FUNC_2
+hci_conn_hash_lookup_handle,FUNC_3
+hci_dev_lock,FUNC_4
+hci_dev_unlock,FUNC_5
+kfree_skb,FUNC_6
+sco_recv_scodata,FUNC_7
+skb_pull,FUNC_8
+hci_scodata_packet,FUNC_9
+hdev,VAR_1
+skb,VAR_2
+hdr,VAR_3
+conn,VAR_4
+handle,VAR_5

@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+OPENVPN_AEAD_MIN_IV_LEN,VAR_0
+OPENVPN_MAX_IV_LENGTH,VAR_1
+cipher_ctx_get_cipher_kt,FUNC_1
+cipher_kt_iv_size,FUNC_2
+cipher_kt_mode_aead,FUNC_3
+memcpy,FUNC_4
+key_ctx_update_implicit_iv,FUNC_5
+ctx,VAR_2
+key,VAR_3
+key_len,VAR_4
+cipher_kt,VAR_5
+impl_iv_len,VAR_6

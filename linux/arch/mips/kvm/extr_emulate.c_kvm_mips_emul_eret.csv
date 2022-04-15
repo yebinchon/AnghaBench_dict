@@ -1,0 +1,14 @@
+EMULATE_DONE,VAR_0
+EMULATE_FAIL,VAR_1
+ST0_ERL,VAR_2
+ST0_EXL,VAR_3
+kvm_clear_c0_guest_status,FUNC_0
+kvm_debug,FUNC_1
+kvm_err,FUNC_2
+kvm_read_c0_guest_epc,FUNC_3
+kvm_read_c0_guest_errorepc,FUNC_4
+kvm_read_c0_guest_status,FUNC_5
+kvm_mips_emul_eret,FUNC_6
+vcpu,VAR_4
+cop0,VAR_5
+er,VAR_6

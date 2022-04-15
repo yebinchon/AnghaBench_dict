@@ -1,0 +1,16 @@
+CONFIG_PREEMPT_RT,VAR_0
+HRTIMER_MODE_HARD,VAR_1
+HRTIMER_MODE_SOFT,VAR_2
+IS_ENABLED,FUNC_0
+WARN_ON_ONCE,FUNC_1
+__hrtimer_start_range_ns,FUNC_2
+hrtimer_reprogram,FUNC_3
+lock_hrtimer_base,FUNC_4
+unlock_hrtimer_base,FUNC_5
+hrtimer_start_range_ns,FUNC_6
+timer,VAR_3
+tim,VAR_4
+delta_ns,VAR_5
+mode,VAR_6
+base,VAR_7
+flags,VAR_8

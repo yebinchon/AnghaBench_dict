@@ -1,0 +1,8 @@
+cond_wait,FUNC_0
+fps_counter_add_skipped_frame,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+video_buffer_swap_frames,FUNC_4
+video_buffer_offer_decoded_frame,FUNC_5
+vb,VAR_0
+previous_frame_skipped,VAR_1

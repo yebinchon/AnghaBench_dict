@@ -1,0 +1,9 @@
+E1000_ERR_MBX,VAR_0
+E1000_MBVFICR,VAR_1
+rd32,FUNC_0
+wr32,FUNC_1
+igb_check_for_bit_pf,FUNC_2
+hw,VAR_2
+mask,VAR_3
+mbvficr,VAR_4
+ret_val,VAR_5

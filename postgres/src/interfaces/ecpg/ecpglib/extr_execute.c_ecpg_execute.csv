@@ -1,0 +1,11 @@
+ECPGst_execute,VAR_0
+ECPGst_prepare,VAR_1
+PQexec,FUNC_0
+PQexecParams,FUNC_1
+PQexecPrepared,FUNC_2
+ecpg_check_PQresult,FUNC_3
+ecpg_free_params,FUNC_4
+ecpg_log,FUNC_5
+ecpg_register_prepared_stmt,FUNC_6
+ecpg_execute,FUNC_7
+stmt,VAR_2

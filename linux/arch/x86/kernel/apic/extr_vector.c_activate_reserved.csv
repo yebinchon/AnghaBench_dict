@@ -1,0 +1,11 @@
+apic_chip_data,FUNC_0
+assign_irq_vector_any_locked,FUNC_1
+cpumask_subset,FUNC_2
+irq_data_get_affinity_mask,FUNC_3
+irq_data_get_effective_affinity_mask,FUNC_4
+irqd_can_reserve,FUNC_5
+pr_warn,FUNC_6
+activate_reserved,FUNC_7
+irqd,VAR_0
+apicd,VAR_1
+ret,VAR_2

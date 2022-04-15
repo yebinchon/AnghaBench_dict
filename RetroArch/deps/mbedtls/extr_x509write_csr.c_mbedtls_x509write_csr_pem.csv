@@ -1,0 +1,13 @@
+PEM_BEGIN_CSR,VAR_0
+PEM_END_CSR,VAR_1
+mbedtls_pem_write_buffer,FUNC_0
+mbedtls_x509write_csr_der,FUNC_1
+mbedtls_x509write_csr_pem,FUNC_2
+ctx,VAR_2
+buf,VAR_3
+size,VAR_4
+f_rng,VAR_5
+p_rng,VAR_6
+ret,VAR_7
+output_buf,VAR_8
+olen,VAR_9

@@ -1,0 +1,16 @@
+DEFINE_WAIT_FUNC,FUNC_0
+EAGAIN,VAR_0
+ERESTARTSYS,VAR_1
+TCP_CLOSE,VAR_2
+add_wait_queue,FUNC_1
+current,VAR_3
+remove_wait_queue,FUNC_2
+signal_pending,FUNC_3
+sk_sleep,FUNC_4
+sk_wait_event,FUNC_5
+wait,VAR_4
+woken_wake_function,VAR_5
+llc_ui_wait_for_disc,FUNC_6
+sk,VAR_6
+timeout,VAR_7
+rc,VAR_8

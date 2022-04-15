@@ -1,0 +1,10 @@
+VFS_CAP_FLAGS_EFFECTIVE,VAR_0
+VFS_CAP_REVISION_MASK,VAR_1
+VFS_CAP_REVISION_SHIFT,VAR_2
+get_vfs_caps_from_disk,FUNC_0
+memset,FUNC_1
+audit_copy_fcaps,FUNC_2
+name,VAR_3
+dentry,VAR_4
+caps,VAR_5
+rc,VAR_6

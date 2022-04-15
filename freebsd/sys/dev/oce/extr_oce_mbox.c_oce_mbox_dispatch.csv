@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+OCE_WRITE_REG32,FUNC_0
+PD_MPU_MBOX_DB,VAR_2
+bzero,FUNC_1
+db,VAR_3
+oce_dma_sync,FUNC_2
+oce_mbox_wait,FUNC_3
+oce_mbox_dispatch,FUNC_4
+sc,VAR_4
+tmo_sec,VAR_5
+mbox_db,VAR_6
+pa,VAR_7
+rc,VAR_8

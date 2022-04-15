@@ -1,0 +1,17 @@
+PHY_POLL_LINK_OFF,VAR_0
+netdev_priv,FUNC_0
+netif_carrier_off,FUNC_1
+netif_set_real_num_rx_queues,FUNC_2
+netif_set_real_num_tx_queues,FUNC_3
+netif_tx_start_all_queues,FUNC_4
+phy_start,FUNC_5
+schedule_delayed_work,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+xgene_enet_napi_enable,FUNC_9
+xgene_enet_register_irq,FUNC_10
+xgene_enet_open,FUNC_11
+ndev,VAR_1
+pdata,VAR_2
+mac_ops,VAR_3
+ret,VAR_4

@@ -1,0 +1,17 @@
+PageCompound,FUNC_0
+PageDirty,FUNC_1
+bio_dirty_list,VAR_0
+bio_dirty_lock,VAR_1
+bio_dirty_work,VAR_2
+bio_put,FUNC_2
+page_cache_release,FUNC_3
+schedule_work,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+bio_check_pages_dirty,FUNC_7
+bio,VAR_3
+bvec,VAR_4
+nr_clean_pages,VAR_5
+i,VAR_6
+page,VAR_7
+flags,VAR_8

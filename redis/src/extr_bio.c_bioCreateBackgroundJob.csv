@@ -1,0 +1,16 @@
+bio_jobs,VAR_0
+bio_mutex,VAR_1
+bio_newjob_cond,VAR_2
+bio_pending,VAR_3
+listAddNodeTail,FUNC_0
+pthread_cond_signal,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+time,FUNC_4
+zmalloc,FUNC_5
+bioCreateBackgroundJob,FUNC_6
+type,VAR_4
+arg1,VAR_5
+arg2,VAR_6
+arg3,VAR_7
+job,VAR_8

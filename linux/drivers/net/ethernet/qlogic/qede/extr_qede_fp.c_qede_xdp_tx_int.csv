@@ -1,0 +1,13 @@
+DMA_BIDIRECTIONAL,VAR_0
+PAGE_SIZE,VAR_1
+__free_page,FUNC_0
+barrier,FUNC_1
+dma_unmap_page,FUNC_2
+le16_to_cpu,FUNC_3
+qed_chain_consume,FUNC_4
+qed_chain_get_cons_idx,FUNC_5
+qede_xdp_tx_int,FUNC_6
+edev,VAR_2
+txq,VAR_3
+hw_bd_cons,VAR_4
+idx,VAR_5

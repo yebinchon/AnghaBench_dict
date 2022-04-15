@@ -1,0 +1,13 @@
+EVFILT_SOCK_LEVEL_TRIGGER_MASK,VAR_0
+EV_CLEAR,VAR_1
+NOTE_RESUME,VAR_2
+NOTE_SUSPEND,VAR_3
+filt_sockev_common,FUNC_0
+socket_lock,FUNC_1
+socket_unlock,FUNC_2
+filt_sockprocess,FUNC_3
+kn,VAR_4
+data,VAR_5
+kev,VAR_6
+so,VAR_7
+ret,VAR_8

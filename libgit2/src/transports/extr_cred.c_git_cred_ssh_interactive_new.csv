@@ -1,0 +1,12 @@
+GIT_CREDTYPE_SSH_INTERACTIVE,VAR_0
+GIT_ERROR_CHECK_ALLOC,FUNC_0
+assert,FUNC_1
+git__calloc,FUNC_2
+git__strdup,FUNC_3
+ssh_interactive_free,VAR_1
+git_cred_ssh_interactive_new,FUNC_4
+out,VAR_2
+username,VAR_3
+prompt_callback,VAR_4
+payload,VAR_5
+c,VAR_6

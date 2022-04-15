@@ -1,0 +1,16 @@
+VTCON_PORT_FLAG_CONSOLE,VAR_0
+kdb_alt_break,FUNC_0
+ttydisc_rint,FUNC_1
+ttydisc_rint_done,FUNC_2
+virtqueue_dequeue,FUNC_3
+virtqueue_enable_intr,FUNC_4
+virtqueue_notify,FUNC_5
+vtcon_port_requeue_buf,FUNC_6
+vtcon_port_in,FUNC_7
+port,VAR_1
+vq,VAR_2
+tp,VAR_3
+buf,VAR_4
+len,VAR_5
+i,VAR_6
+deq,VAR_7

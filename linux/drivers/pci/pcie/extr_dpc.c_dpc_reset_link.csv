@@ -1,0 +1,12 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_RECOVERED,VAR_1
+PCI_EXP_DPC_STATUS,VAR_2
+PCI_EXP_DPC_STATUS_TRIGGER,VAR_3
+dpc_wait_rp_inactive,FUNC_0
+pci_write_config_word,FUNC_1
+pcie_wait_for_link,FUNC_2
+to_dpc_dev,FUNC_3
+dpc_reset_link,FUNC_4
+pdev,VAR_4
+dpc,VAR_5
+cap,VAR_6

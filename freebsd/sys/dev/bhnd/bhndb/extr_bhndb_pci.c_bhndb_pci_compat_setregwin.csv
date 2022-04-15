@@ -1,0 +1,14 @@
+BHNDB_PCI_BARCTRL_WRITE_RETRY,VAR_0
+BHNDB_REGWIN_T_DYN,VAR_1
+DELAY,FUNC_0
+ENODEV,VAR_2
+bhndb_pci_fast_setregwin,FUNC_1
+pci_read_config,FUNC_2
+bhndb_pci_compat_setregwin,FUNC_3
+dev,VAR_3
+pci_dev,VAR_4
+rw,VAR_5
+addr,VAR_6
+error,VAR_7
+reg,VAR_8
+i,VAR_9

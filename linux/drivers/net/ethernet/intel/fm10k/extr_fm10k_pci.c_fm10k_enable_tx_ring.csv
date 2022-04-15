@@ -1,0 +1,13 @@
+FM10K_TXDCTL,FUNC_0
+FM10K_TXDCTL_ENABLE,VAR_0
+drv,VAR_1
+fm10k_read_reg,FUNC_1
+netif_err,FUNC_2
+usleep_range,FUNC_3
+fm10k_enable_tx_ring,FUNC_4
+interface,VAR_2
+ring,VAR_3
+hw,VAR_4
+wait_loop,VAR_5
+txdctl,VAR_6
+reg_idx,VAR_7

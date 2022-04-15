@@ -1,0 +1,16 @@
+PM_QOS_CPU_DMA_LATENCY,VAR_0
+SNDRV_PCM_STREAM_CAPTURE,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+pm_qos_add_request,FUNC_0
+pm_qos_request_active,FUNC_1
+pm_qos_update_request,FUNC_2
+snd_soc_dai_get_drvdata,FUNC_3
+omap_mcbsp_dai_prepare,FUNC_4
+substream,VAR_3
+cpu_dai,VAR_4
+mcbsp,VAR_5
+pm_qos_req,VAR_6
+tx,VAR_7
+stream1,VAR_8
+stream2,VAR_9
+latency,VAR_10

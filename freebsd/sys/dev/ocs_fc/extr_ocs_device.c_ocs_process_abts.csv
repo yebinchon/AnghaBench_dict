@@ -1,0 +1,16 @@
+OCS_SCSI_TMF_ABORT_TASK,VAR_0
+node_printf,FUNC_0
+ocs_be16toh,FUNC_1
+ocs_bls_send_acc_hdr,FUNC_2
+ocs_io_find_tgt_io,FUNC_3
+ocs_ref_get_unless_zero,FUNC_4
+ocs_ref_put,FUNC_5
+ocs_scsi_recv_tmf,FUNC_6
+ocs_process_abts,FUNC_7
+io,VAR_1
+hdr,VAR_2
+node,VAR_3
+ocs,VAR_4
+ox_id,VAR_5
+rx_id,VAR_6
+abortio,VAR_7

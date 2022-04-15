@@ -1,0 +1,15 @@
+DBG,FUNC_0
+USB_CDC_NCM_NTB_MIN_IN_SIZE,VAR_0
+VDBG,FUNC_1
+func_to_ncm,FUNC_2
+get_unaligned_le32,FUNC_3
+le32_to_cpu,FUNC_4
+ntb_parameters,VAR_1
+usb_ep_set_halt,FUNC_5
+ncm_ep0out_complete,FUNC_6
+ep,VAR_2
+req,VAR_3
+in_size,VAR_4
+f,VAR_5
+ncm,VAR_6
+cdev,VAR_7

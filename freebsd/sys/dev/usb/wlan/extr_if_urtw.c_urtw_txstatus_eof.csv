@@ -1,0 +1,17 @@
+DPRINTF,FUNC_0
+URTW_DEBUG_TXSTATUS,VAR_0
+URTW_STATUS_TYPE_TXCLOSE,VAR_1
+URTW_TX_MAXRETRY,VAR_2
+counter_u64_add,FUNC_1
+le64toh,FUNC_2
+usbd_xfer_softc,FUNC_3
+usbd_xfer_status,FUNC_4
+urtw_txstatus_eof,FUNC_5
+xfer,VAR_3
+sc,VAR_4
+ic,VAR_5
+actlen,VAR_6
+type,VAR_7
+pktretry,VAR_8
+seq,VAR_9
+val,VAR_10

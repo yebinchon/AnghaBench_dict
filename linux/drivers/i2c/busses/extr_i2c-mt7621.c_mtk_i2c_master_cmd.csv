@@ -1,0 +1,9 @@
+REG_SM0CTL1_REG,VAR_0
+SM0CTL1_PGLEN,FUNC_0
+SM0CTL1_TRI,VAR_1
+iowrite32,FUNC_1
+mtk_i2c_wait_idle,FUNC_2
+mtk_i2c_master_cmd,FUNC_3
+i2c,VAR_2
+cmd,VAR_3
+page_len,VAR_4

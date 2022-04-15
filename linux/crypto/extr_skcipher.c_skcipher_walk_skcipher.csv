@@ -1,0 +1,14 @@
+CRYPTO_TFM_REQ_MAY_SLEEP,VAR_0
+SKCIPHER_WALK_SLEEP,VAR_1
+crypto_skcipher_alignmask,FUNC_0
+crypto_skcipher_blocksize,FUNC_1
+crypto_skcipher_ivsize,FUNC_2
+crypto_skcipher_reqtfm,FUNC_3
+crypto_skcipher_walksize,FUNC_4
+scatterwalk_start,FUNC_5
+skcipher_walk_first,FUNC_6
+unlikely,FUNC_7
+skcipher_walk_skcipher,FUNC_8
+walk,VAR_2
+req,VAR_3
+tfm,VAR_4

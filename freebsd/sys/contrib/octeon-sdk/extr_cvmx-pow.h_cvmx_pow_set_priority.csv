@@ -1,0 +1,17 @@
+CVMX_POW_PP_GRP_MSKX,FUNC_0
+CVMX_SSO_PPX_QOS_PRI,FUNC_1
+OCTEON_CN3XXX,VAR_0
+OCTEON_FEATURE_CN68XX_WQE,VAR_1
+OCTEON_IS_MODEL,FUNC_2
+cvmx_dprintf,FUNC_3
+cvmx_pop,FUNC_4
+cvmx_read_csr,FUNC_5
+cvmx_write_csr,FUNC_6
+octeon_has_feature,FUNC_7
+cvmx_pow_set_priority,FUNC_8
+core_num,VAR_2
+priority,VAR_3
+i,VAR_4
+prio_mask,VAR_5
+qos_pri,VAR_6
+grp_msk,VAR_7

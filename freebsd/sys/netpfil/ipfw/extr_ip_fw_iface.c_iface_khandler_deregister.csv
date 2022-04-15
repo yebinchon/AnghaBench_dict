@@ -1,0 +1,11 @@
+EVENTHANDLER_DEREGISTER,FUNC_0
+ifnet_arrival_event,VAR_0
+ifnet_departure_event,VAR_1
+ipfw_ifattach_event,VAR_2
+ipfw_ifdetach_event,VAR_3
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+num_vnets,VAR_4
+vnet_mtx,VAR_5
+iface_khandler_deregister,FUNC_3
+destroy,VAR_6

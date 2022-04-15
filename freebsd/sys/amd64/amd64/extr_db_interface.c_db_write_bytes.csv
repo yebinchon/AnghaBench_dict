@@ -1,0 +1,13 @@
+disable_wp,FUNC_0
+kdb_jmpbuf,FUNC_1
+restore_wp,FUNC_2
+setjmp,FUNC_3
+db_write_bytes,FUNC_4
+addr,VAR_0
+size,VAR_1
+data,VAR_2
+jb,VAR_3
+prev_jb,VAR_4
+dst,VAR_5
+old_wp,VAR_6
+ret,VAR_7

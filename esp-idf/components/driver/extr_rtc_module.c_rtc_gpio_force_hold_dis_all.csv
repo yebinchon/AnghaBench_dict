@@ -1,0 +1,9 @@
+GPIO_PIN_COUNT,VAR_0
+REG_CLR_BIT,FUNC_0
+RTCCNTL,VAR_1
+RTC_CNTL_HOLD_FORCE_REG,VAR_2
+portENTER_CRITICAL,FUNC_1
+portEXIT_CRITICAL,FUNC_2
+rtc_gpio_desc,VAR_3
+rtc_spinlock,VAR_4
+rtc_gpio_force_hold_dis_all,FUNC_3

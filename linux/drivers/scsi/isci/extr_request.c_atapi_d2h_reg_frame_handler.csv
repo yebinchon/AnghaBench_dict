@@ -1,0 +1,15 @@
+ATA_ERR,VAR_0
+DMA_NONE,VAR_1
+SCI_FAILURE_IO_RESPONSE_VALID,VAR_2
+SCI_REQ_COMPLETED,VAR_3
+SCI_SUCCESS,VAR_4
+SCU_TASK_DONE_CHECK_RESPONSE,VAR_5
+SCU_TASK_DONE_GOOD,VAR_6
+isci_request_access_task,FUNC_0
+process_unsolicited_fis,FUNC_1
+sci_change_state,FUNC_2
+atapi_d2h_reg_frame_handler,FUNC_3
+ireq,VAR_7
+frame_index,VAR_8
+task,VAR_9
+status,VAR_10

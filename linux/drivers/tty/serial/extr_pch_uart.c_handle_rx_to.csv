@@ -1,0 +1,11 @@
+PCH_UART_HAL_RX_ERR_INT,VAR_0
+PCH_UART_HAL_RX_INT,VAR_1
+PCH_UART_HANDLED_RX_INT,VAR_2
+pch_uart_hal_disable_interrupt,FUNC_0
+pch_uart_hal_read,FUNC_1
+push_rx,FUNC_2
+handle_rx_to,FUNC_3
+priv,VAR_3
+buf,VAR_4
+rx_size,VAR_5
+ret,VAR_6

@@ -1,0 +1,7 @@
+JZ_MMC_JZ4725B,VAR_0
+JZ_REG_MMC_IMASK,VAR_1
+writel,FUNC_0
+writew,FUNC_1
+jz4740_mmc_write_irq_mask,FUNC_2
+host,VAR_2
+val,VAR_3

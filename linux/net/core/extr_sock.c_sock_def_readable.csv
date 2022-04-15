@@ -1,0 +1,15 @@
+EPOLLIN,VAR_0
+EPOLLPRI,VAR_1
+EPOLLRDBAND,VAR_2
+EPOLLRDNORM,VAR_3
+POLL_IN,VAR_4
+SOCK_WAKE_WAITD,VAR_5
+rcu_dereference,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+sk_wake_async,FUNC_3
+skwq_has_sleeper,FUNC_4
+wake_up_interruptible_sync_poll,FUNC_5
+sock_def_readable,FUNC_6
+sk,VAR_6
+wq,VAR_7

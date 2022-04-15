@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+PR_SPEC_DISABLE,VAR_1
+PR_SPEC_ENABLE,VAR_2
+PR_SPEC_FORCE_DISABLE,VAR_3
+PR_SPEC_NOT_AFFECTED,VAR_4
+PR_SPEC_PRCTL,VAR_5
+arm64_get_ssbd_state,FUNC_0
+task_spec_ssb_disable,FUNC_1
+task_spec_ssb_force_disable,FUNC_2
+ssbd_prctl_get,FUNC_3
+task,VAR_6

@@ -1,0 +1,17 @@
+ATMEL_ECC_PUBKEY_SIZE,VAR_0
+COMMAND,VAR_1
+DATA_SLOT_2,VAR_2
+ECDH_COUNT,VAR_3
+ECDH_PREFIX_MODE,VAR_4
+ECDH_RSP_SIZE,VAR_5
+EINVAL,VAR_6
+MAX_EXEC_TIME_ECDH,VAR_7
+OPCODE_ECDH,VAR_8
+atmel_i2c_checksum,FUNC_0
+cpu_to_le16,FUNC_1
+sg_copy_to_buffer,FUNC_2
+sg_nents_for_len,FUNC_3
+atmel_i2c_init_ecdh_cmd,FUNC_4
+cmd,VAR_9
+pubkey,VAR_10
+copied,VAR_11

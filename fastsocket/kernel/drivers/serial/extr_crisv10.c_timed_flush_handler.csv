@@ -1,0 +1,11 @@
+CONFIG_ETRAX_SERIAL_RX_TIMEOUT_TICKS,VAR_0
+NR_PORTS,VAR_1
+check_flush_timeout,FUNC_0
+flush_timer,VAR_2
+jiffies,VAR_3
+mod_timer,FUNC_1
+rs_table,VAR_4
+timed_flush_handler,FUNC_2
+ptr,VAR_5
+info,VAR_6
+i,VAR_7

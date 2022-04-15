@@ -1,0 +1,13 @@
+IFNET_SUBFAMILY_WIFI,VAR_0
+IFT_CELLULAR,VAR_1
+SB_SNDBYTE_CNT,VAR_2
+SOF_MP_SUBFLOW,VAR_3
+inp_get_sndbytes_allunsent,FUNC_0
+inp_incr_sndbytes_total,FUNC_1
+inp_incr_sndbytes_unsent,FUNC_2
+inp_count_sndbytes,FUNC_3
+inp,VAR_4
+th_ack,VAR_5
+ifp,VAR_6
+so,VAR_7
+unsent,VAR_8

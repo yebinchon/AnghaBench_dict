@@ -1,0 +1,13 @@
+CLOCK_RATE_GET,VAR_0
+SCMI_PROTOCOL_CLOCK,VAR_1
+get_unaligned_le64,FUNC_0
+put_unaligned_le32,FUNC_1
+scmi_do_xfer,FUNC_2
+scmi_xfer_get_init,FUNC_3
+scmi_xfer_put,FUNC_4
+scmi_clock_rate_get,FUNC_5
+handle,VAR_2
+clk_id,VAR_3
+value,VAR_4
+ret,VAR_5
+t,VAR_6

@@ -1,0 +1,13 @@
+EFI_NOT_READY,VAR_0
+down_trylock,FUNC_0
+efi_call_virt,FUNC_1
+efi_runtime_lock,VAR_1
+set_variable,VAR_2
+up,FUNC_2
+virt_efi_set_variable_nonblocking,FUNC_3
+name,VAR_3
+vendor,VAR_4
+attr,VAR_5
+data_size,VAR_6
+data,VAR_7
+status,VAR_8

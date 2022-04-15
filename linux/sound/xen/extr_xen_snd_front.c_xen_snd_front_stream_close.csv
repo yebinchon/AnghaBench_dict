@@ -1,0 +1,10 @@
+XENSND_OP_CLOSE,VAR_0
+be_stream_do_io,FUNC_0
+be_stream_prepare_req,FUNC_1
+be_stream_wait_io,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+xen_snd_front_stream_close,FUNC_5
+evtchnl,VAR_1
+req,VAR_2
+ret,VAR_3

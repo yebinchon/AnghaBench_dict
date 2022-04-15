@@ -1,0 +1,10 @@
+FC_REG_BOARD_EVENT,VAR_0
+LPFC_EVENT_PORTINTERR,VAR_1
+LPFC_NL_VENDOR_ID,VAR_2
+fc_get_event_number,FUNC_0
+fc_host_post_vendor_event,FUNC_1
+lpfc_shost_from_vport,FUNC_2
+lpfc_board_errevt_to_mgmt,FUNC_3
+phba,VAR_3
+board_event,VAR_4
+shost,VAR_5

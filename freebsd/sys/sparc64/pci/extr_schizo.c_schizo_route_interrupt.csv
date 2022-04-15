@@ -1,0 +1,10 @@
+PCI_INTERRUPT_VALID,FUNC_0
+device_printf,FUNC_1
+ofw_pci_route_interrupt_common,FUNC_2
+pci_get_function,FUNC_3
+pci_get_slot,FUNC_4
+schizo_route_interrupt,FUNC_5
+bridge,VAR_0
+dev,VAR_1
+pin,VAR_2
+mintr,VAR_3

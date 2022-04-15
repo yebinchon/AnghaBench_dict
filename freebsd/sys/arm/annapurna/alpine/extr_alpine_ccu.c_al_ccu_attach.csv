@@ -1,0 +1,12 @@
+AL_CCU_SNOOP_CONTROL_IOFAB_0_OFFSET,VAR_0
+AL_CCU_SNOOP_CONTROL_IOFAB_1_OFFSET,VAR_1
+AL_CCU_SPECULATION_CONTROL_OFFSET,VAR_2
+al_ccu_spec,VAR_3
+bus_alloc_resources,FUNC_0
+bus_write_4,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+al_ccu_attach,FUNC_4
+dev,VAR_4
+sc,VAR_5
+err,VAR_6

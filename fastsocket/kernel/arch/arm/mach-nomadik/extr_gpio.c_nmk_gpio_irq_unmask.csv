@@ -1,0 +1,16 @@
+NMK_GPIO_FWIMSC,VAR_0
+NMK_GPIO_RWIMSC,VAR_1
+NOMADIK_IRQ_TO_GPIO,FUNC_0
+get_irq_chip_data,FUNC_1
+nmk_gpio_get_bitmask,FUNC_2
+readl,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+writel,FUNC_6
+nmk_gpio_irq_unmask,FUNC_7
+irq,VAR_2
+gpio,VAR_3
+nmk_chip,VAR_4
+flags,VAR_5
+bitmask,VAR_6
+reg,VAR_7

@@ -1,0 +1,17 @@
+GFP_ATOMIC,VAR_0
+USB_ID,FUNC_0
+USB_PID_AUDIO8DJ,VAR_1
+USB_VID_NATIVEINSTRUMENTS,VAR_2
+debug,FUNC_1
+le16_to_cpu,FUNC_2
+log,FUNC_3
+memcpy,FUNC_4
+snd_usb_caiaq_input_dispatch,FUNC_5
+snd_usb_caiaq_midi_handle_input,FUNC_6
+usb_submit_urb,FUNC_7
+wake_up,FUNC_8
+usb_ep1_command_reply_dispatch,FUNC_9
+urb,VAR_3
+ret,VAR_4
+dev,VAR_5
+buf,VAR_6

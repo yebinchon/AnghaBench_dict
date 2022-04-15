@@ -1,0 +1,9 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+alc269_fixup_hp_mute_led_micx,FUNC_0
+alc_cap_micmute_update,VAR_1
+snd_hda_gen_add_micmute_led,FUNC_1
+alc269_fixup_hp_line1_mic1_led,FUNC_2
+codec,VAR_2
+fix,VAR_3
+action,VAR_4
+spec,VAR_5

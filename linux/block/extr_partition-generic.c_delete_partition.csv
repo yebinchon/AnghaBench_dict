@@ -1,0 +1,13 @@
+blk_invalidate_devt,FUNC_0
+device_del,FUNC_1
+hd_struct_kill,FUNC_2
+kobject_put,FUNC_3
+part_devt,FUNC_4
+part_to_dev,FUNC_5
+rcu_assign_pointer,FUNC_6
+rcu_dereference_protected,FUNC_7
+delete_partition,FUNC_8
+disk,VAR_0
+partno,VAR_1
+ptbl,VAR_2
+part,VAR_3

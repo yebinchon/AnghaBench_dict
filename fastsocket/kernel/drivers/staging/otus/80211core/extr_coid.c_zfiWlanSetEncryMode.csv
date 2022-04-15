@@ -1,0 +1,11 @@
+ZM_AES,VAR_0
+ZM_MODE_AP,VAR_1
+ZM_TKIP,VAR_2
+wd,VAR_3
+zmw_declare_for_critical_section,FUNC_0
+zmw_enter_critical_section,FUNC_1
+zmw_get_wlan_dev,FUNC_2
+zmw_leave_critical_section,FUNC_3
+zfiWlanSetEncryMode,FUNC_4
+dev,VAR_4
+encryMode,VAR_5

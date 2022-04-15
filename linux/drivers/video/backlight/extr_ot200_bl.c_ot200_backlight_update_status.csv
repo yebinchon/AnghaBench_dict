@@ -1,0 +1,14 @@
+BL_CORE_FBBLANK,VAR_0
+MAX_COMP2,VAR_1
+MFGPT_REG_CMP1,VAR_2
+MFGPT_REG_COUNTER,VAR_3
+MFGPT_REG_SETUP,VAR_4
+MFGPT_SETUP_CNTEN,VAR_5
+bl_get_data,FUNC_0
+cs5535_mfgpt_write,FUNC_1
+dim_table,VAR_6
+pwm_timer,VAR_7
+ot200_backlight_update_status,FUNC_2
+bl,VAR_8
+data,VAR_9
+brightness,VAR_10

@@ -1,0 +1,13 @@
+BLOCK_SECTORS,VAR_0
+PAGE_SIZE,VAR_1
+REQ_OP_READ,VAR_2
+bio_add_page,FUNC_0
+bio_reset,FUNC_1
+bio_set_dev,FUNC_2
+bio_set_op_attrs,FUNC_3
+r5l_ring_add,FUNC_4
+submit_bio_wait,FUNC_5
+r5l_recovery_fetch_ra_pool,FUNC_6
+log,VAR_3
+ctx,VAR_4
+offset,VAR_5

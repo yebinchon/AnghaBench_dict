@@ -1,0 +1,17 @@
+NFSIOS_NORMALREADBYTES,VAR_0
+O_DIRECT,VAR_1
+dprintk,FUNC_0
+generic_file_aio_read,FUNC_1
+iov_length,FUNC_2
+nfs_add_stats,FUNC_3
+nfs_file_direct_read,FUNC_4
+nfs_revalidate_mapping,FUNC_5
+nfs_file_read,FUNC_6
+iocb,VAR_2
+iov,VAR_3
+nr_segs,VAR_4
+pos,VAR_5
+dentry,VAR_6
+inode,VAR_7
+result,VAR_8
+count,VAR_9

@@ -1,0 +1,7 @@
+IA32_SPEC_CTRL_SSBD,VAR_0
+MSR_IA32_SPEC_CTRL,VAR_1
+rdmsr,FUNC_0
+wrmsr,FUNC_1
+hw_ssb_set_one,FUNC_2
+enable,VAR_2
+v,VAR_3

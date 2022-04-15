@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+I2C_V6_SELECT,VAR_1
+MAX1586_V6_MAX_UV,VAR_2
+MAX1586_V6_MIN_UV,VAR_3
+dev_dbg,FUNC_0
+i2c_smbus_write_byte,FUNC_1
+max1586_v6_calc_voltage,FUNC_2
+rdev_get_drvdata,FUNC_3
+max1586_v6_set,FUNC_4
+rdev,VAR_4
+min_uV,VAR_5
+max_uV,VAR_6
+client,VAR_7
+selector,VAR_8
+v6_prog,VAR_9

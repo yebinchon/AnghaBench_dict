@@ -1,0 +1,16 @@
+CSR_READ_4,FUNC_0
+CSR_WRITE_4,FUNC_1
+MC_MASK,VAR_0
+MC_TxEnable,VAR_1
+STGE_MACCtrl,VAR_2
+STGE_MAXERR,VAR_3
+STGE_TxStatus,VAR_4
+TS_LateCollision,VAR_5
+TS_MaxCollisions,VAR_6
+TS_TxComplete,VAR_7
+TS_TxUnderrun,VAR_8
+device_printf,FUNC_2
+stge_tx_error,FUNC_3
+sc,VAR_9
+txstat,VAR_10
+error,VAR_11

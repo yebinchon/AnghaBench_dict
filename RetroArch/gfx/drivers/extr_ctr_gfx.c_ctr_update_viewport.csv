@@ -1,0 +1,17 @@
+ASPECT_RATIO_CUSTOM,VAR_0
+ctr_set_screen_coords,FUNC_0
+fabsf,FUNC_1
+roundf,FUNC_2
+video_driver_get_aspect_ratio,FUNC_3
+video_viewport_get_scaled_integer,FUNC_4
+ctr_update_viewport,FUNC_5
+ctr,VAR_1
+settings,VAR_2
+video_info,VAR_3
+x,VAR_4
+y,VAR_5
+width,VAR_6
+height,VAR_7
+desired_aspect,VAR_8
+delta,VAR_9
+device_aspect,VAR_10

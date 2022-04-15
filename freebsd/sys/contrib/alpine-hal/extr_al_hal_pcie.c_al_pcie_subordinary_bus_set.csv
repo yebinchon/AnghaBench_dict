@@ -1,0 +1,8 @@
+PCIE_AXI_MISC_OB_CTRL_CFG_CONTROL_SUBBUS_MASK,VAR_0
+PCIE_AXI_MISC_OB_CTRL_CFG_CONTROL_SUBBUS_SHIFT,VAR_1
+al_reg_write32_masked,FUNC_0
+al_pcie_subordinary_bus_set,FUNC_1
+pcie_port,VAR_2
+subbus,VAR_3
+regs,VAR_4
+subbus_val,VAR_5

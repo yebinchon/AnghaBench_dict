@@ -1,0 +1,14 @@
+AF_INET,VAR_0
+RPC_MAX_UDP_PKTS,VAR_1
+RPC_UDP_BUF_TIME,VAR_2
+htons,FUNC_0
+malloc,FUNC_1
+memset,FUNC_2
+taosInitMsgHdr,FUNC_3
+taosProcessUdpBufTimer,VAR_3
+taosTmrReset,FUNC_4
+taosCreateUdpBuf,FUNC_5
+pConn,VAR_4
+ip,VAR_5
+port,VAR_6
+pBuf,VAR_7

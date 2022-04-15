@@ -1,0 +1,13 @@
+ACTION_RESET,VAR_0
+STAGE_PRETIMEOUT,VAR_1
+STAGE_TIMEOUT,VAR_2
+kempld_wdt_set_stage_action,FUNC_0
+kempld_wdt_set_stage_timeout,FUNC_1
+watchdog_get_drvdata,FUNC_2
+kempld_wdt_set_timeout,FUNC_3
+wdd,VAR_3
+timeout,VAR_4
+wdt_data,VAR_5
+pretimeout_stage,VAR_6
+timeout_stage,VAR_7
+ret,VAR_8

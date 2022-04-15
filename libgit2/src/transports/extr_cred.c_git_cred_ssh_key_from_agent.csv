@@ -1,0 +1,10 @@
+GIT_CREDTYPE_SSH_KEY,VAR_0
+GIT_ERROR_CHECK_ALLOC,FUNC_0
+assert,FUNC_1
+git__calloc,FUNC_2
+git__strdup,FUNC_3
+ssh_key_free,VAR_1
+git_cred_ssh_key_from_agent,FUNC_4
+cred,VAR_2
+username,VAR_3
+c,VAR_4

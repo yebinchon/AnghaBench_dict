@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+MAC_MAX_FRAME_SIZE,VAR_2
+RX_DESC_NUM,VAR_3
+TX_DESC_NUM,VAR_4
+dev_kfree_skb_any,FUNC_0
+dma_unmap_single,FUNC_1
+le32_to_cpu,FUNC_2
+hix5hd2_free_dma_desc_rings,FUNC_3
+priv,VAR_5
+desc,VAR_6
+addr,VAR_7
+i,VAR_8
+skb,VAR_9
+skb,VAR_10

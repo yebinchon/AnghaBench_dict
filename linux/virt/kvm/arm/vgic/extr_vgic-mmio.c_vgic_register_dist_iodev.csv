@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+IODEV_DIST,VAR_0
+KVM_MMIO_BUS,VAR_1
+kvm_io_bus_register_dev,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+vgic_v2_init_dist_iodev,FUNC_4
+vgic_v3_init_dist_iodev,FUNC_5
+vgic_register_dist_iodev,FUNC_6
+kvm,VAR_2
+dist_base_address,VAR_3
+type,VAR_4
+io_device,VAR_5
+ret,VAR_6
+len,VAR_7

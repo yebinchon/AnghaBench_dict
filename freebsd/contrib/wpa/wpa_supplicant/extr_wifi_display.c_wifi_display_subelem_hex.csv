@@ -1,0 +1,14 @@
+WIFI_DISPLAY_SUBELEM_HEADER_LEN,VAR_0
+WPA_GET_BE16,FUNC_0
+os_zalloc,FUNC_1
+wpa_snprintf_hex,FUNC_2
+wpabuf_head_u8,FUNC_3
+wpabuf_len,FUNC_4
+wifi_display_subelem_hex,FUNC_5
+wfd_subelems,VAR_1
+id,VAR_2
+subelem,VAR_3
+buf,VAR_4
+buflen,VAR_5
+i,VAR_6
+elen,VAR_7

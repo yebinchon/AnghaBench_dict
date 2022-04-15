@@ -1,0 +1,12 @@
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+SNDRV_PCM_HW_PARAM_SAMPLE_BITS,VAR_1
+snd_pcm_hw_constraint_minmax,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+pcm3168a_startup,FUNC_2
+substream,VAR_2
+dai,VAR_3
+component,VAR_4
+pcm3168a,VAR_5
+sample_min,VAR_6
+channel_max,VAR_7
+channel_maxs,VAR_8

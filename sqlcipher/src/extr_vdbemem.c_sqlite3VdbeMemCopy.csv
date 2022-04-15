@@ -1,0 +1,17 @@
+MEMCELLSIZE,VAR_0
+MEM_Blob,VAR_1
+MEM_Dyn,VAR_2
+MEM_Ephem,VAR_3
+MEM_Static,VAR_4
+MEM_Str,VAR_5
+SQLITE_OK,VAR_6
+VdbeMemDynamic,FUNC_0
+assert,FUNC_1
+memcpy,FUNC_2
+sqlite3VdbeMemIsRowSet,FUNC_3
+sqlite3VdbeMemMakeWriteable,FUNC_4
+vdbeMemClearExternAndSetNull,FUNC_5
+sqlite3VdbeMemCopy,FUNC_6
+pTo,VAR_7
+pFrom,VAR_8
+rc,VAR_9

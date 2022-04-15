@@ -1,0 +1,12 @@
+EVP_PKEY_CTX_free,FUNC_0
+EVP_PKEY_CTX_new_id,FUNC_1
+EVP_PKEY_CTX_set_mac_key,FUNC_2
+EVP_PKEY_keygen,FUNC_3
+EVP_PKEY_keygen_init,FUNC_4
+EVP_PKEY_new_mac_key,FUNC_5
+type,VAR_0
+e,VAR_1
+key,VAR_2
+keylen,VAR_3
+mac_ctx,VAR_4
+mac_key,VAR_5

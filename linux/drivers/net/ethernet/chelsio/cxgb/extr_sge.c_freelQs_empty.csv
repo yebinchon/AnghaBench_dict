@@ -1,0 +1,14 @@
+A_SG_INTRTIMER,VAR_0
+A_SG_INT_ENABLE,VAR_1
+F_FL0_ENABLE,VAR_2
+F_FL1_ENABLE,VAR_3
+F_FL_EXHAUSTED,VAR_4
+doorbell_pio,FUNC_0
+readl,FUNC_1
+refill_free_list,FUNC_2
+writel,FUNC_3
+freelQs_empty,FUNC_4
+sge,VAR_5
+adapter,VAR_6
+irq_reg,VAR_7
+irqholdoff_reg,VAR_8

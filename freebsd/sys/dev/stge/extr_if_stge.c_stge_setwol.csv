@@ -1,0 +1,17 @@
+AC_TxReset,VAR_0
+CSR_READ_1,FUNC_0
+CSR_READ_4,FUNC_1
+CSR_WRITE_1,FUNC_2
+CSR_WRITE_4,FUNC_3
+IFCAP_WOL_MAGIC,VAR_1
+STGE_AsicCtrl,VAR_2
+STGE_LOCK_ASSERT,FUNC_4
+STGE_WakeEvent,VAR_3
+WE_LinkEventEnable,VAR_4
+WE_MagicPktEnable,VAR_5
+WE_WakeOnLanEnable,VAR_6
+WE_WakePktEnable,VAR_7
+stge_setwol,FUNC_5
+sc,VAR_8
+ifp,VAR_9
+v,VAR_10

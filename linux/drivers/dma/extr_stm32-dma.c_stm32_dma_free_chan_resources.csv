@@ -1,0 +1,15 @@
+chan2dev,FUNC_0
+dev_dbg,FUNC_1
+pm_runtime_put,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stm32_dma_get_dev,FUNC_5
+stm32_dma_stop,FUNC_6
+to_stm32_dma_chan,FUNC_7
+to_virt_chan,FUNC_8
+vchan_free_chan_resources,FUNC_9
+stm32_dma_free_chan_resources,FUNC_10
+c,VAR_0
+chan,VAR_1
+dmadev,VAR_2
+flags,VAR_3

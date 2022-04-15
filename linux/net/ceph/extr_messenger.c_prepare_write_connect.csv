@@ -1,0 +1,17 @@
+BUG,FUNC_0
+CEPH_ENTITY_TYPE_CLIENT,VAR_0
+CEPH_MDSC_PROTOCOL,VAR_1
+CEPH_MONC_PROTOCOL,VAR_2
+CEPH_OSDC_PROTOCOL,VAR_3
+__prepare_write_connect,FUNC_1
+cpu_to_le32,FUNC_2
+cpu_to_le64,FUNC_3
+dout,FUNC_4
+from_msgr,FUNC_5
+get_connect_authorizer,FUNC_6
+get_global_seq,FUNC_7
+prepare_write_connect,FUNC_8
+con,VAR_4
+global_seq,VAR_5
+proto,VAR_6
+ret,VAR_7

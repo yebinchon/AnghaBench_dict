@@ -1,0 +1,14 @@
+Assert,FUNC_0
+GrantLock,FUNC_1
+LOCKBIT_ON,FUNC_2
+LockCheckConflicts,FUNC_3
+ProcWakeup,FUNC_4
+STATUS_OK,VAR_0
+ProcLockWakeup,FUNC_5
+lockMethodTable,VAR_1
+lock,VAR_2
+waitQueue,VAR_3
+queue_size,VAR_4
+proc,VAR_5
+aheadRequests,VAR_6
+lockmode,VAR_7

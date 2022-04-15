@@ -1,0 +1,13 @@
+ip_hdrlen,FUNC_0
+nf_ct_get,FUNC_1
+nf_nat_mangle_udp_packet,FUNC_2
+mangle_packet,FUNC_3
+skb,VAR_0
+dptr,VAR_1
+datalen,VAR_2
+matchoff,VAR_3
+matchlen,VAR_4
+buffer,VAR_5
+buflen,VAR_6
+ctinfo,VAR_7
+ct,VAR_8

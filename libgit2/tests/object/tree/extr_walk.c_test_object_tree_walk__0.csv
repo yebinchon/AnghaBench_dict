@@ -1,0 +1,15 @@
+GIT_TREEWALK_POST,VAR_0
+GIT_TREEWALK_PRE,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_2
+git_oid_fromstr,FUNC_2
+git_tree_free,FUNC_3
+git_tree_lookup,FUNC_4
+git_tree_walk,FUNC_5
+tree_oid,VAR_3
+treewalk_count_cb,VAR_4
+test_object_tree_walk__0,FUNC_6
+id,VAR_5
+tree,VAR_6
+ct,VAR_7

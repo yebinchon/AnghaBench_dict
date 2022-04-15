@@ -1,0 +1,15 @@
+InsertUnicodeRecord,FUNC_0
+MAX_SIZE,VAR_0
+SYSLOG_NONE,VAR_1
+SYSLOG_SERVER_AND_HUB_ALL_LOG,VAR_2
+SYSLOG_SERVER_AND_HUB_SECURITY_LOG,VAR_3
+SiGetSysLogSaveStatus,FUNC_1
+SiWriteSysLog,FUNC_2
+UniFormat,FUNC_3
+WriteServerLog,FUNC_4
+WriteHubLog,FUNC_5
+h,VAR_4
+str,VAR_5
+buf,VAR_6
+syslog_status,VAR_7
+s,VAR_8

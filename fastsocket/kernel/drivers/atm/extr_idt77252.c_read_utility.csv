@@ -1,0 +1,15 @@
+SAR_CMD_READ_UTILITY,VAR_0
+SAR_REG_CMD,VAR_1
+SAR_REG_DR0,VAR_2
+printk,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+waitfor_idle,FUNC_4
+writel,FUNC_5
+read_utility,FUNC_6
+dev,VAR_3
+ubus_addr,VAR_4
+card,VAR_5
+flags,VAR_6
+value,VAR_7

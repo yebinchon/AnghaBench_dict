@@ -1,0 +1,14 @@
+CRYPTOHASH_Init,FUNC_0
+FAULT_SYSTICK,VAR_0
+MAP_IntEnable,FUNC_1
+MAP_IntMasterEnable,FUNC_2
+MAP_IntVTableBaseSet,FUNC_3
+PRCMCC3200MCUInit,FUNC_4
+PRCMClearSpecialBit,FUNC_5
+PRCM_FIRST_BOOT_BIT,VAR_1
+PRCM_SAFE_BOOT_BIT,VAR_2
+antenna_init0,FUNC_6
+g_pfnVectors,VAR_3
+mperror_bootloader_check_reset_cause,FUNC_7
+mperror_init0,FUNC_8
+bootmgr_board_init,FUNC_9

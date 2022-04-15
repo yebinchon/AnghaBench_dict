@@ -1,0 +1,17 @@
+VME_OBJECT,FUNC_0
+VME_OFFSET,FUNC_1
+VME_OFFSET_SET,FUNC_2
+VME_SUBMAP,FUNC_3
+VM_MAP_HDR_PAGE_MASK,FUNC_4
+VM_MAP_PAGE_ALIGNED,FUNC_5
+_vm_map_entry_create,FUNC_6
+_vm_map_store_entry_link,FUNC_7
+assert,FUNC_8
+vm_map_entry_copy_full,FUNC_9
+vm_map_reference,FUNC_10
+vm_object_reference,FUNC_11
+_vm_map_clip_end,FUNC_12
+map_header,VAR_0
+entry,VAR_1
+end,VAR_2
+new_entry,VAR_3

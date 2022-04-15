@@ -1,0 +1,16 @@
+I386_PAGE_SIZE,VAR_0
+MINIDUMP_MAGIC,VAR_1
+MINIDUMP_VERSION,VAR_2
+_kvm_err,FUNC_0
+_kvm_malloc,FUNC_1
+_kvm_pmap_init,FUNC_2
+_kvm_pt_init,FUNC_3
+i386_round_page,FUNC_4
+le32toh,FUNC_5
+pread,FUNC_6
+strncmp,FUNC_7
+_i386_minidump_initvtop,FUNC_8
+kd,VAR_3
+vmst,VAR_4
+off,VAR_5
+sparse_off,VAR_6

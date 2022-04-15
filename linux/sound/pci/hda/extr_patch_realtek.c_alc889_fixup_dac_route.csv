@@ -1,0 +1,10 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+HDA_FIXUP_ACT_PROBE,VAR_1
+snd_hda_override_conn_list,FUNC_0
+alc889_fixup_dac_route,FUNC_1
+codec,VAR_2
+fix,VAR_3
+action,VAR_4
+conn1,VAR_5
+conn2,VAR_6
+conn,VAR_7

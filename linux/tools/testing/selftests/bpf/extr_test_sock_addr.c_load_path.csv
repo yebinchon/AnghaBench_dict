@@ -1,0 +1,12 @@
+BPF_F_TEST_RND_HI32,VAR_0
+BPF_PROG_TYPE_CGROUP_SOCK_ADDR,VAR_1
+LOAD_REJECT,VAR_2
+bpf_prog_load_xattr,FUNC_0
+log_err,FUNC_1
+memset,FUNC_2
+load_path,FUNC_3
+test,VAR_3
+path,VAR_4
+attr,VAR_5
+obj,VAR_6
+prog_fd,VAR_7

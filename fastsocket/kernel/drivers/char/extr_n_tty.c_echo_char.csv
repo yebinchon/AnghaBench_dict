@@ -1,0 +1,9 @@
+ECHO_OP_START,VAR_0
+L_ECHOCTL,FUNC_0
+add_echo_byte,FUNC_1
+iscntrl,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+echo_char,FUNC_5
+c,VAR_1
+tty,VAR_2

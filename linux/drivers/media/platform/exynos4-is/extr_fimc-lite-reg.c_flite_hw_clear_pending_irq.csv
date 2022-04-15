@@ -1,0 +1,7 @@
+FLITE_REG_CISTATUS,VAR_0
+FLITE_REG_CISTATUS_IRQ_CAM,VAR_1
+readl,FUNC_0
+writel,FUNC_1
+flite_hw_clear_pending_irq,FUNC_2
+dev,VAR_2
+cfg,VAR_3

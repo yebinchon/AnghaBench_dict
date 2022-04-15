@@ -1,0 +1,17 @@
+fotg210_dbg,FUNC_0
+hcd_to_fotg210,FUNC_1
+qh_completions,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+start_unlink_async,FUNC_5
+start_unlink_intr,FUNC_6
+usb_hcd_check_unlink_urb,FUNC_7
+usb_pipetype,FUNC_8
+fotg210_urb_dequeue,FUNC_9
+hcd,VAR_0
+urb,VAR_1
+status,VAR_2
+fotg210,VAR_3
+qh,VAR_4
+flags,VAR_5
+rc,VAR_6

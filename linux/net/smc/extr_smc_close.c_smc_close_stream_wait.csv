@@ -1,0 +1,17 @@
+DEFINE_WAIT_FUNC,FUNC_0
+ECONNABORTED,VAR_0
+ECONNRESET,VAR_1
+add_wait_queue,FUNC_1
+current,VAR_2
+remove_wait_queue,FUNC_2
+signal_pending,FUNC_3
+sk_sleep,FUNC_4
+sk_wait_event,FUNC_5
+smc_tx_prepared_sends,FUNC_6
+wait,VAR_3
+woken_wake_function,VAR_4
+smc_close_stream_wait,FUNC_7
+smc,VAR_5
+timeout,VAR_6
+sk,VAR_7
+rc,VAR_8

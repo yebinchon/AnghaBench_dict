@@ -1,0 +1,13 @@
+AR5523_CMD_FLAG_MAGIC,VAR_0
+WDCMSG_TARGET_GET_CAPABILITY,VAR_1
+ar5523_cmd_read,FUNC_0
+ar5523_err,FUNC_1
+be32_to_cpu,FUNC_2
+cpu_to_be32,FUNC_3
+ar5523_get_capability,FUNC_4
+ar,VAR_2
+cap,VAR_3
+val,VAR_4
+error,VAR_5
+cap_be,VAR_6
+val_be,VAR_7

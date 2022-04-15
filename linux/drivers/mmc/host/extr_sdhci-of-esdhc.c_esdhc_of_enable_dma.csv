@@ -1,0 +1,13 @@
+DMA_BIT_MASK,FUNC_0
+ESDHC_DMA_SNOOP,VAR_0
+ESDHC_DMA_SYSCTL,VAR_1
+dma_set_mask_and_coherent,FUNC_1
+mmc_dev,FUNC_2
+of_device_is_compatible,FUNC_3
+of_dma_is_coherent,FUNC_4
+sdhci_readl,FUNC_5
+sdhci_writel,FUNC_6
+esdhc_of_enable_dma,FUNC_7
+host,VAR_2
+value,VAR_3
+dev,VAR_4

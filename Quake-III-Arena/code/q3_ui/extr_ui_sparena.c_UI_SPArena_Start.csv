@@ -1,0 +1,16 @@
+ARENAS_PER_TIER,VAR_0
+EXEC_APPEND,VAR_1
+Info_ValueForKey,FUNC_0
+Q_stricmp,FUNC_1
+UI_GetNumSPTiers,FUNC_2
+atoi,FUNC_3
+trap_Cmd_ExecuteText,FUNC_4
+trap_Cvar_SetValue,FUNC_5
+trap_Cvar_VariableValue,FUNC_6
+va,FUNC_7
+UI_SPArena_Start,FUNC_8
+arenaInfo,VAR_2
+map,VAR_3
+level,VAR_4
+n,VAR_5
+txt,VAR_6

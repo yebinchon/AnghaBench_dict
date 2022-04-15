@@ -1,0 +1,9 @@
+FAIL_IF,FUNC_0
+SKIP_IF,FUNC_1
+event_enable,FUNC_2
+event_init_named,FUNC_3
+event_open_with_cpu,FUNC_4
+require_paranoia_below,FUNC_5
+setup_cpu_event,FUNC_6
+event,VAR_0
+cpu,VAR_1

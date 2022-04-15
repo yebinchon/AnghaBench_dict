@@ -1,0 +1,11 @@
+NETDEV_TX_BUSY,VAR_0
+NETDEV_TX_OK,VAR_1
+netdev_priv,FUNC_0
+ntb_netdev_maybe_stop_tx,FUNC_1
+ntb_transport_tx_enqueue,FUNC_2
+tx_stop,VAR_2
+ntb_netdev_start_xmit,FUNC_3
+skb,VAR_3
+ndev,VAR_4
+dev,VAR_5
+rc,VAR_6

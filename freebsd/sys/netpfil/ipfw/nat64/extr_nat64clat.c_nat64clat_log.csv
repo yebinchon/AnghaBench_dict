@@ -1,0 +1,14 @@
+PFLOG_HDRLEN,VAR_0
+PFLOG_REAL_HDRLEN,VAR_1
+PF_IN,VAR_2
+PF_NAT,VAR_3
+htonl,FUNC_0
+ipfw_bpf_mtap2,FUNC_1
+memset,FUNC_2
+strlcpy,FUNC_3
+nat64clat_log,FUNC_4
+plog,VAR_4
+m,VAR_5
+family,VAR_6
+kidx,VAR_7
+pktid,VAR_8

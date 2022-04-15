@@ -1,0 +1,13 @@
+PCI_CLASS_BRIDGE_CARDBUS,VAR_0
+PCI_CLASS_BRIDGE_PCI,VAR_1
+of_get_property,FUNC_0
+of_read_number,FUNC_1
+pci_traverse_device_nodes,FUNC_2
+start,VAR_2
+fn,VAR_3
+data,VAR_4
+dn,VAR_5
+nextdn,VAR_6
+ret,VAR_7
+classp,VAR_8
+class,VAR_9

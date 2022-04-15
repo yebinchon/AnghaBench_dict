@@ -1,0 +1,16 @@
+X509_CHECK_FLAG_MULTI_LABEL_WILDCARDS,VAR_0
+equal_nocase,FUNC_0
+strncasecmp,FUNC_1
+wildcard_match,FUNC_2
+prefix,VAR_1
+prefix_len,VAR_2
+suffix,VAR_3
+suffix_len,VAR_4
+subject,VAR_5
+subject_len,VAR_6
+flags,VAR_7
+wildcard_start,VAR_8
+wildcard_end,VAR_9
+p,VAR_10
+allow_multi,VAR_11
+allow_idna,VAR_12

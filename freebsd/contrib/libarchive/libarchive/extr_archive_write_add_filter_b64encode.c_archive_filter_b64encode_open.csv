@@ -1,0 +1,15 @@
+ARCHIVE_FATAL,VAR_0
+ARCHIVE_OK,VAR_1
+ARCHIVE_WRITE_MAGIC,VAR_2
+ENOMEM,VAR_3
+__archive_write_open_filter,FUNC_0
+archive_set_error,FUNC_1
+archive_string_ensure,FUNC_2
+archive_string_sprintf,FUNC_3
+archive_write_get_bytes_per_block,FUNC_4
+archive_filter_b64encode_open,FUNC_5
+f,VAR_4
+state,VAR_5
+bs,VAR_6
+bpb,VAR_7
+ret,VAR_8

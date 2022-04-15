@@ -1,0 +1,15 @@
+aead_request_flags,FUNC_0
+crypto_ccm_check_iv,FUNC_1
+crypto_ccm_reqctx,FUNC_2
+memset,FUNC_3
+scatterwalk_ffwd,FUNC_4
+sg_chain,FUNC_5
+sg_init_table,FUNC_6
+sg_set_buf,FUNC_7
+crypto_ccm_init_crypt,FUNC_8
+req,VAR_0
+tag,VAR_1
+pctx,VAR_2
+sg,VAR_3
+iv,VAR_4
+err,VAR_5

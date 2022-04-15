@@ -1,0 +1,14 @@
+RADEON_IS_PCI,VAR_0
+RREG32,FUNC_0
+R_0007C0_CP_STAT,VAR_1
+R_000E40_RBBM_STATUS,VAR_2
+dev_warn,FUNC_1
+r100_clock_startup,FUNC_2
+r100_pci_gart_disable,FUNC_3
+r100_startup,FUNC_4
+radeon_asic_reset,FUNC_5
+radeon_combios_asic_init,FUNC_6
+radeon_surface_init,FUNC_7
+r100_resume,FUNC_8
+rdev,VAR_3
+r,VAR_4

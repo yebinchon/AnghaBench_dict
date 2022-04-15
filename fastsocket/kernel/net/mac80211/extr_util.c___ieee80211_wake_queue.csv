@@ -1,0 +1,15 @@
+WARN_ON,FUNC_0
+__clear_bit,FUNC_1
+hw_to_local,FUNC_2
+ieee80211_propagate_queue_wake,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+skb_queue_empty,FUNC_6
+tasklet_schedule,FUNC_7
+test_bit,FUNC_8
+trace_wake_queue,FUNC_9
+__ieee80211_wake_queue,FUNC_10
+hw,VAR_0
+queue,VAR_1
+reason,VAR_2
+local,VAR_3

@@ -1,0 +1,14 @@
+PERF_EVENT_STATE_ACTIVE,VAR_0
+PERF_EVENT_STATE_INACTIVE,VAR_1
+__perf_event_read,VAR_2
+perf_event_count,FUNC_0
+smp_call_function_single,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+update_cgrp_time_from_event,FUNC_4
+update_context_time,FUNC_5
+update_event_times,FUNC_6
+perf_event_read,FUNC_7
+event,VAR_3
+ctx,VAR_4
+flags,VAR_5

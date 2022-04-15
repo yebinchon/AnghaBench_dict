@@ -1,0 +1,11 @@
+BROPT_VLAN_BRIDGE_BINDING,VAR_0
+br_opt_toggle,FUNC_0
+br_vlan_has_upper_bind_vlan_dev,FUNC_1
+br_vlan_is_bind_vlan_dev,FUNC_2
+br_vlan_set_vlan_dev_state,FUNC_3
+netdev_priv,FUNC_4
+br_vlan_upper_change,FUNC_5
+dev,VAR_1
+upper_dev,VAR_2
+linking,VAR_3
+br,VAR_4

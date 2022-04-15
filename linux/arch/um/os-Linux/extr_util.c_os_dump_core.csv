@@ -1,0 +1,14 @@
+SIGCONT,VAR_0
+SIGSEGV,VAR_1
+SIGTERM,VAR_2
+SIG_DFL,VAR_3
+SIG_IGN,VAR_4
+WNOHANG,VAR_5
+__WALL,VAR_6
+kill,FUNC_0
+os_kill_ptraced_process,FUNC_1
+signal,FUNC_2
+uml_abort,FUNC_3
+waitpid,FUNC_4
+os_dump_core,FUNC_5
+pid,VAR_7

@@ -1,0 +1,11 @@
+kvm_hv_msr_partition_wide,FUNC_0
+kvm_hv_set_msr,FUNC_1
+kvm_hv_set_msr_pw,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+kvm_hv_set_msr_common,FUNC_5
+vcpu,VAR_0
+msr,VAR_1
+data,VAR_2
+host,VAR_3
+r,VAR_4

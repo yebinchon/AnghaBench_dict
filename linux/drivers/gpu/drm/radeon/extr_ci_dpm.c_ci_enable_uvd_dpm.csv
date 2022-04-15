@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+PPSMC_MSG_MCLKDPM_SetEnabledMask,VAR_1
+PPSMC_MSG_UVDDPM_Disable,VAR_2
+PPSMC_MSG_UVDDPM_Enable,VAR_3
+PPSMC_MSG_UVDDPM_SetEnabledMask,VAR_4
+PPSMC_Result_OK,VAR_5
+ci_get_pi,FUNC_0
+ci_send_msg_to_smc,FUNC_1
+ci_send_msg_to_smc_with_parameter,FUNC_2
+ci_enable_uvd_dpm,FUNC_3
+rdev,VAR_6
+enable,VAR_7
+pi,VAR_8
+max_limits,VAR_9
+i,VAR_10

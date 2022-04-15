@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+ONYX_REG_DAC_ATTEN_LEFT,VAR_1
+ONYX_REG_DAC_ATTEN_RIGHT,VAR_2
+VOLUME_RANGE_SHIFT,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+onyx_read_register,FUNC_2
+onyx_write_register,FUNC_3
+snd_kcontrol_chip,FUNC_4
+onyx_snd_vol_put,FUNC_5
+kcontrol,VAR_4
+ucontrol,VAR_5
+onyx,VAR_6
+l,VAR_7
+r,VAR_8

@@ -1,0 +1,16 @@
+AF_LOCAL,VAR_0
+AF_NETLINK,VAR_1
+EINVAL,VAR_2
+SD_LISTEN_FDS_START,VAR_3
+SOCK_RAW,VAR_4
+SOCK_SEQPACKET,VAR_5
+assert,FUNC_0
+sd_is_socket,FUNC_1
+sd_listen_fds,FUNC_2
+listen_fds,FUNC_3
+ret_ctrl,VAR_6
+ret_netlink,VAR_7
+ctrl_fd,VAR_8
+netlink_fd,VAR_9
+fd,VAR_10
+n,VAR_11

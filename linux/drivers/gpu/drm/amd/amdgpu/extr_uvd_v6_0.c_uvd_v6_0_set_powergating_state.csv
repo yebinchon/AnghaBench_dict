@@ -1,0 +1,11 @@
+AMD_PG_STATE_GATE,VAR_0
+UVD_POWER_STATUS__UVD_PG_EN_MASK,VAR_1
+WREG32,FUNC_0
+mmUVD_POWER_STATUS,VAR_2
+uvd_v6_0_start,FUNC_1
+uvd_v6_0_stop,FUNC_2
+uvd_v6_0_set_powergating_state,FUNC_3
+handle,VAR_3
+state,VAR_4
+adev,VAR_5
+ret,VAR_6

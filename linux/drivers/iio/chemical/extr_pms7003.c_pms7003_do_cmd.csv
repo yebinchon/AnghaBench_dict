@@ -1,0 +1,11 @@
+EIO,VAR_0
+ETIMEDOUT,VAR_1
+PMS7003_CMD_LENGTH,VAR_2
+PMS7003_TIMEOUT,VAR_3
+pms7003_cmd_tbl,VAR_4
+serdev_device_write,FUNC_0
+wait_for_completion_interruptible_timeout,FUNC_1
+pms7003_do_cmd,FUNC_2
+state,VAR_5
+cmd,VAR_6
+ret,VAR_7

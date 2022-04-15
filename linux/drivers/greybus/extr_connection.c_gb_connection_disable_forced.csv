@@ -1,0 +1,14 @@
+ESHUTDOWN,VAR_0
+GB_CONNECTION_STATE_DISABLED,VAR_1
+gb_connection_cancel_operations,FUNC_0
+gb_connection_hd_cport_clear,FUNC_1
+gb_connection_hd_cport_disable,FUNC_2
+gb_connection_hd_cport_flush,FUNC_3
+gb_connection_svc_connection_destroy,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+trace_gb_connection_disable,FUNC_9
+gb_connection_disable_forced,FUNC_10
+connection,VAR_2

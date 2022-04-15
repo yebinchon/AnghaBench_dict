@@ -1,0 +1,11 @@
+CLK_OPS_PARENT_ENABLE,VAR_0
+clk_core_enable_lock,FUNC_0
+clk_core_prepare_enable,FUNC_1
+clk_enable_lock,FUNC_2
+clk_enable_unlock,FUNC_3
+clk_reparent,FUNC_4
+__clk_set_parent_before,FUNC_5
+core,VAR_1
+parent,VAR_2
+flags,VAR_3
+old_parent,VAR_4

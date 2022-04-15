@@ -1,0 +1,16 @@
+DRF_SPC2_RESERVATIONS,VAR_0
+DRF_SPC2_RESERVATIONS_WITH_ISID,VAR_1
+GOOD,VAR_2
+TCM_RESERVATION_CONFLICT,VAR_3
+pr_debug,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+stub1,FUNC_3
+target_check_scsi2_reservation_conflict,FUNC_4
+target_complete_cmd,FUNC_5
+target_scsi2_reservation_release,FUNC_6
+cmd,VAR_4
+dev,VAR_5
+sess,VAR_6
+tpg,VAR_7
+rc,VAR_8

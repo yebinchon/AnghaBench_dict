@@ -1,0 +1,11 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+__iwl_trans_pcie_set_bits_mask,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+iwl_trans_pcie_set_bits_mask,FUNC_4
+trans,VAR_0
+reg,VAR_1
+mask,VAR_2
+value,VAR_3
+trans_pcie,VAR_4
+flags,VAR_5

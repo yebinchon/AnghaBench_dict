@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+GIT_RMDIR_EMPTY_HIERARCHY,VAR_1
+GIT_RMDIR_EMPTY_PARENTS,VAR_2
+GIT_RMDIR_REMOVE_FILES,VAR_3
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+empty_tmp_dir,VAR_4
+git_buf_cstr,FUNC_3
+git_buf_dispose,FUNC_4
+git_buf_joinpath,FUNC_5
+git_buf_rtruncate_at_char,FUNC_6
+git_futils_rmdir_r,FUNC_7
+git_path_exists,FUNC_8
+git_path_isfile,FUNC_9
+test_core_rmdir__can_remove_empty_parents,FUNC_10
+file,VAR_5

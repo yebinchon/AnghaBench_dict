@@ -1,0 +1,13 @@
+DELAY,FUNC_0
+KASSERT,FUNC_1
+VMBUS_XACT_CTXF_DESTROY,VAR_0
+mtx_lock,FUNC_2
+mtx_sleep,FUNC_3
+mtx_unlock,FUNC_4
+vmbus_xact_return,FUNC_5
+vmbus_xact_wait1,FUNC_6
+xact,VAR_1
+resp_len,VAR_2
+can_sleep,VAR_3
+ctx,VAR_4
+resp,VAR_5

@@ -1,0 +1,14 @@
+NETIF_F_ALL_CSUM,VAR_0
+NETIF_F_FCOE_CRC,VAR_1
+NETIF_F_GSO,VAR_2
+NETIF_F_GSO_MASK,VAR_3
+NETIF_F_HW_VLAN_TX,VAR_4
+NETIF_F_SG,VAR_5
+VLAN_FLAG_REORDER_HDR,VAR_6
+netdev_features_change,FUNC_0
+vlan_dev_info,FUNC_1
+vlan_transfer_features,FUNC_2
+dev,VAR_7
+vlandev,VAR_8
+old_features,VAR_9
+new_features,VAR_10

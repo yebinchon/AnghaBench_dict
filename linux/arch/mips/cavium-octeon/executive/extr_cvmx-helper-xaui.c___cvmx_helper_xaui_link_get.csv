@@ -1,0 +1,16 @@
+CVMX_GMXX_RXX_INT_EN,FUNC_0
+CVMX_GMXX_RX_XAUI_CTL,FUNC_1
+CVMX_GMXX_TX_INT_EN,FUNC_2
+CVMX_GMXX_TX_XAUI_CTL,FUNC_3
+CVMX_PCSXX_INT_EN_REG,FUNC_4
+CVMX_PCSXX_STATUS1_REG,FUNC_5
+cvmx_helper_get_interface_num,FUNC_6
+cvmx_read_csr,FUNC_7
+cvmx_write_csr,FUNC_8
+__cvmx_helper_xaui_link_get,FUNC_9
+ipd_port,VAR_0
+interface,VAR_1
+gmxx_tx_xaui_ctl,VAR_2
+gmxx_rx_xaui_ctl,VAR_3
+pcsxx_status1_reg,VAR_4
+result,VAR_5

@@ -1,0 +1,10 @@
+fsl_elbc_write_buf,FUNC_0
+nand_prog_page_begin_op,FUNC_1
+nand_prog_page_end_op,FUNC_2
+nand_to_mtd,FUNC_3
+fsl_elbc_write_page,FUNC_4
+chip,VAR_0
+buf,VAR_1
+oob_required,VAR_2
+page,VAR_3
+mtd,VAR_4

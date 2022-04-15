@@ -1,0 +1,13 @@
+CLOCK_MONOTONIC,VAR_0
+HRTIMER_MODE_ABS,VAR_1
+INIT_WORK,FUNC_0
+RPM_REQ_NONE,VAR_2
+RPM_SUSPENDED,VAR_3
+atomic_set,FUNC_1
+hrtimer_init,FUNC_2
+init_waitqueue_head,FUNC_3
+pm_runtime_work,VAR_4
+pm_suspend_ignore_children,FUNC_4
+pm_suspend_timer_fn,VAR_5
+pm_runtime_init,FUNC_5
+dev,VAR_6

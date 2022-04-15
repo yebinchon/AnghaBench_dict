@@ -1,0 +1,15 @@
+GIT_RMDIR_REMOVE_FILES,VAR_0
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_must_pass,FUNC_3
+cl_skip,FUNC_4
+clar_sandbox_path,FUNC_5
+git_futils_mkdir_r,FUNC_6
+git_futils_rmdir_r,FUNC_7
+git_path_exists,FUNC_8
+git_path_supports_symlinks,FUNC_9
+p_rmdir,FUNC_10
+p_symlink,FUNC_11
+p_unlink,FUNC_12
+test_core_futils__recursive_rmdir_keeps_symlink_targets,FUNC_13

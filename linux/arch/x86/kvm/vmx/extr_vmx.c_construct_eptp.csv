@@ -1,0 +1,13 @@
+PAGE_MASK,VAR_0
+VMX_EPTP_AD_ENABLE_BIT,VAR_1
+VMX_EPTP_MT_WB,VAR_2
+VMX_EPTP_PWL_4,VAR_3
+VMX_EPTP_PWL_5,VAR_4
+enable_ept_ad_bits,VAR_5
+get_ept_level,FUNC_0
+is_guest_mode,FUNC_1
+nested_ept_ad_enabled,FUNC_2
+construct_eptp,FUNC_3
+vcpu,VAR_6
+root_hpa,VAR_7
+eptp,VAR_8

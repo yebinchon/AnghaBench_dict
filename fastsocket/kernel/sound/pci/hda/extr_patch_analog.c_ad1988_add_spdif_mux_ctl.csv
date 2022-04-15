@@ -1,0 +1,17 @@
+AC_WID_AUD_MIX,VAR_0
+ENOMEM,VAR_1
+ad1988_auto_init,VAR_2
+ad1988_auto_smux_mixer,VAR_3
+get_wcaps,FUNC_0
+get_wcaps_type,FUNC_1
+snd_array_new,FUNC_2
+snd_hda_gen_add_kctl,FUNC_3
+snd_hda_get_num_conns,FUNC_4
+snd_hda_get_path_idx,FUNC_5
+ad1988_add_spdif_mux_ctl,FUNC_6
+codec,VAR_4
+spec,VAR_5
+i,VAR_6
+num_conns,VAR_7
+fake_paths,VAR_8
+path,VAR_9

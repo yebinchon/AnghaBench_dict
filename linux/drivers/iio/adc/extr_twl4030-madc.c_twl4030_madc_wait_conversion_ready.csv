@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+TWL4030_MADC_BUSY,VAR_1
+TWL4030_MADC_EOC_SW,VAR_2
+TWL4030_MODULE_MADC,VAR_3
+dev_err,FUNC_0
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_1
+time_after,FUNC_2
+twl_i2c_read_u8,FUNC_3
+usleep_range,FUNC_4
+twl4030_madc_wait_conversion_ready,FUNC_5
+madc,VAR_5
+timeout_ms,VAR_6
+status_reg,VAR_7
+timeout,VAR_8
+ret,VAR_9
+reg,VAR_10

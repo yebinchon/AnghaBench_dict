@@ -1,0 +1,14 @@
+BUS_DMASYNC_PREWRITE,VAR_0
+COMMAND_ERROR,FUNC_0
+IPS_FFDC_CMD,VAR_1
+PRINTF,FUNC_1
+bus_dmamap_sync,FUNC_2
+ips_ffdc_settime,FUNC_3
+ips_insert_free_cmd,FUNC_4
+ips_wakeup_callback,VAR_2
+sema_wait,FUNC_5
+stub1,FUNC_6
+ips_send_ffdc_reset_cmd,FUNC_7
+command,VAR_3
+sc,VAR_4
+command_struct,VAR_5

@@ -1,0 +1,8 @@
+VMXNET3_CMD_RESET_DEV,VAR_0
+VMXNET3_REG_CMD,VAR_1
+VMXNET3_WRITE_BAR1_REG,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+vmxnet3_reset_dev,FUNC_3
+adapter,VAR_2
+flags,VAR_3

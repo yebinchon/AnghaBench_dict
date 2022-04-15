@@ -1,0 +1,17 @@
+MMU_FTR_68_BIT_VA,VAR_0
+MMU_SEGSIZE_256M,VAR_1
+SID_SHIFT,VAR_2
+SID_SHIFT_1T,VAR_3
+VA_BITS,VAR_4
+VSID_MULINV_1T,VAR_5
+VSID_MULINV_256M,VAR_6
+mmu_has_feature,FUNC_0
+vsid_unscramble,FUNC_1
+vsid,VAR_7
+ssize,VAR_8
+protovsid,VAR_9
+va_bits,VAR_10
+modinv,VAR_11
+vsid_modulus,VAR_12
+max_mod_inv,VAR_13
+tmp_modinv,VAR_14

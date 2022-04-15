@@ -1,0 +1,11 @@
+APDS9300_CMD,VAR_0
+APDS9300_CONTROL,VAR_1
+APDS9300_POWER_ON,VAR_2
+ENODEV,VAR_3
+apds9300_set_intr_state,FUNC_0
+apds9300_set_power_state,FUNC_1
+dev_err,FUNC_2
+i2c_smbus_read_byte_data,FUNC_3
+apds9300_chip_init,FUNC_4
+data,VAR_4
+ret,VAR_5

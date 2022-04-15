@@ -1,0 +1,17 @@
+DEV_STATE_DISCONNECTED,VAR_0
+DEV_STATE_OFFLINE,VAR_1
+DEV_STATE_ONLINE,VAR_2
+LPM_ANYPATH,VAR_3
+ccw_device_recognition,FUNC_0
+cio_enable_subchannel,FUNC_1
+cio_is_console,FUNC_2
+css_complete_work,FUNC_3
+css_schedule_eval,FUNC_4
+dev_fsm_final_state,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+to_subchannel,FUNC_8
+wait_event,FUNC_9
+__ccw_device_pm_restore,FUNC_10
+cdev,VAR_4
+sch,VAR_5

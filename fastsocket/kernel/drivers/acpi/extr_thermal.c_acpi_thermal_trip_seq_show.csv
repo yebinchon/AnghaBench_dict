@@ -1,0 +1,15 @@
+ACPI_THERMAL_MAX_ACTIVE,VAR_0
+KELVIN_TO_CELSIUS,FUNC_0
+acpi_bus_get_device,FUNC_1
+acpi_device_bid,FUNC_2
+nocrt,VAR_1
+seq_printf,FUNC_3
+seq_puts,FUNC_4
+acpi_thermal_trip_seq_show,FUNC_5
+seq,VAR_2
+offset,VAR_3
+tz,VAR_4
+device,VAR_5
+status,VAR_6
+i,VAR_7
+j,VAR_8

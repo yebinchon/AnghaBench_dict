@@ -1,0 +1,17 @@
+FTL_AUDIO_DATA,VAR_0
+FTL_VIDEO_DATA,VAR_1
+OBS_ENCODER_AUDIO,VAR_2
+OBS_ENCODER_VIDEO,VAR_3
+avc_get_video_frame,FUNC_0
+bfree,FUNC_1
+ftl_ingest_send_media_dts,FUNC_2
+obs_encoder_packet_release,FUNC_3
+warn,FUNC_4
+send_packet,FUNC_5
+stream,VAR_4
+packet,VAR_5
+is_header,VAR_6
+bytes_sent,VAR_7
+ret,VAR_8
+i,VAR_9
+nalu,VAR_10

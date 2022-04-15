@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+RF_SHAREABLE,VAR_2
+SYS_RES_IRQ,VAR_3
+SYS_RES_MEMORY,VAR_4
+altera_jtag_uart_attach,FUNC_0
+bus_alloc_resource_any,FUNC_1
+bus_release_resource,FUNC_2
+device_get_softc,FUNC_3
+device_get_unit,FUNC_4
+device_printf,FUNC_5
+altera_jtag_uart_nexus_attach,FUNC_6
+dev,VAR_5
+sc,VAR_6
+error,VAR_7

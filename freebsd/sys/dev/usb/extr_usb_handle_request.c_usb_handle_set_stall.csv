@@ -1,0 +1,10 @@
+USB_XFER_LOCK,FUNC_0
+USB_XFER_UNLOCK,FUNC_1
+usbd_get_ep_by_addr,FUNC_2
+usbd_set_endpoint_stall,FUNC_3
+usb_handle_set_stall,FUNC_4
+xfer,VAR_0
+ep,VAR_1
+do_stall,VAR_2
+udev,VAR_3
+err,VAR_4

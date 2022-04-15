@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+atomic_read,FUNC_1
+hlist_del_init_rcu,FUNC_2
+hlist_unhashed,FUNC_3
+mmdrop,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+srcu,VAR_0
+srcu_read_lock,FUNC_7
+srcu_read_unlock,FUNC_8
+stub1,FUNC_9
+synchronize_srcu,FUNC_10
+mmu_notifier_unregister,FUNC_11
+mn,VAR_1
+mm,VAR_2
+id,VAR_3

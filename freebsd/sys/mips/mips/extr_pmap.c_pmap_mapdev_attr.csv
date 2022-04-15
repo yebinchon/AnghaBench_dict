@@ -1,0 +1,17 @@
+MIPS_DIRECT_MAPPABLE,FUNC_0
+MIPS_PHYS_TO_DIRECT_UNCACHED,FUNC_1
+PAGE_MASK,VAR_0
+PAGE_SIZE,VAR_1
+VM_MEMATTR_UNCACHEABLE,VAR_2
+kva_alloc,FUNC_2
+panic,FUNC_3
+pmap_kenter_attr,FUNC_4
+roundup,FUNC_5
+trunc_page,FUNC_6
+pmap_mapdev_attr,FUNC_7
+pa,VAR_3
+size,VAR_4
+ma,VAR_5
+va,VAR_6
+tmpva,VAR_7
+offset,VAR_8

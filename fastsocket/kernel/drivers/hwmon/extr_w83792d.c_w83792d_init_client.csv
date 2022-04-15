@@ -1,0 +1,12 @@
+W83792D_REG_CONFIG,VAR_0
+W83792D_REG_TEMP2_CONFIG,VAR_1
+W83792D_REG_TEMP3_CONFIG,VAR_2
+W83792D_REG_VID_IN_B,VAR_3
+init,VAR_4
+w83792d_read_value,FUNC_0
+w83792d_write_value,FUNC_1
+w83792d_init_client,FUNC_2
+client,VAR_5
+temp2_cfg,VAR_6
+temp3_cfg,VAR_7
+vid_in_b,VAR_8

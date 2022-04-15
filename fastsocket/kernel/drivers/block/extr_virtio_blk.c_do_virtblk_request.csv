@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+blk_peek_request,FUNC_1
+blk_start_request,FUNC_2
+blk_stop_queue,FUNC_3
+do_req,FUNC_4
+virtqueue_kick,FUNC_5
+do_virtblk_request,FUNC_6
+q,VAR_0
+vblk,VAR_1
+req,VAR_2
+issued,VAR_3

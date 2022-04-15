@@ -1,0 +1,12 @@
+EINTR,VAR_0
+ERESTART,VAR_1
+P_OSREL_SIGWAIT,VAR_2
+copyin,FUNC_0
+copyout,FUNC_1
+kern_sigtimedwait,FUNC_2
+sys_sigwait,FUNC_3
+td,VAR_3
+uap,VAR_4
+ksi,VAR_5
+set,VAR_6
+error,VAR_7

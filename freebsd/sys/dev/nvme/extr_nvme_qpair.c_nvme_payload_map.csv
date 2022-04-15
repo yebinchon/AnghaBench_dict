@@ -1,0 +1,13 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+bus_dmamap_sync,FUNC_0
+htole64,FUNC_1
+nvme_printf,FUNC_2
+nvme_qpair_submit_tracker,FUNC_3
+nvme_payload_map,FUNC_4
+arg,VAR_2
+seg,VAR_3
+nseg,VAR_4
+error,VAR_5
+tr,VAR_6
+cur_nseg,VAR_7

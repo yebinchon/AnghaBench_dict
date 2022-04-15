@@ -1,0 +1,17 @@
+ATOM_PP_PLATFORM_CAP_ASPM_L0s,VAR_0
+ATOM_PP_PLATFORM_CAP_ASPM_L1,VAR_1
+ATOM_PP_PLATFORM_CAP_TURNOFFPLL_ASPML1,VAR_2
+r7xx_read_clock_registers,FUNC_0
+radeon_aspm,VAR_3
+rv770_enable_acpi_pm,FUNC_1
+rv770_enable_l0s,FUNC_2
+rv770_enable_l1,FUNC_3
+rv770_enable_pll_sleep_in_l1,FUNC_4
+rv770_get_mclk_odt_threshold,FUNC_5
+rv770_get_memory_type,FUNC_6
+rv770_get_pcie_gen2_status,FUNC_7
+rv770_get_pi,FUNC_8
+rv770_read_voltage_smio_registers,FUNC_9
+rv770_dpm_setup_asic,FUNC_10
+rdev,VAR_4
+pi,VAR_5

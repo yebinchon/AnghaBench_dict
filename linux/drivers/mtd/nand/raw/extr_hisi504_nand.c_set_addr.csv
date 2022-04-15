@@ -1,0 +1,13 @@
+NAND_BUSWIDTH_16,VAR_0
+NAND_CMD_ERASE1,VAR_1
+NAND_ROW_ADDR_3,VAR_2
+mtd_to_nand,FUNC_0
+nand_get_controller_data,FUNC_1
+nand_opcode_8bits,FUNC_2
+set_addr,FUNC_3
+mtd,VAR_3
+column,VAR_4
+page_addr,VAR_5
+chip,VAR_6
+host,VAR_7
+command,VAR_8

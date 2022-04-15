@@ -1,0 +1,13 @@
+DS_BUSY,VAR_0
+M_WAITOK,VAR_1
+PZERO,VAR_2
+callout_drain,FUNC_0
+device_get_softc,FUNC_1
+device_get_state,FUNC_2
+fd_detach_geom,VAR_3
+g_waitfor_event,FUNC_3
+hz,VAR_4
+tsleep,FUNC_4
+fd_detach,FUNC_5
+dev,VAR_5
+fd,VAR_6

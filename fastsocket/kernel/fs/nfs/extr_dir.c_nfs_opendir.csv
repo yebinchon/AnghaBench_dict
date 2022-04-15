@@ -1,0 +1,17 @@
+FILE,VAR_0
+IS_ERR,FUNC_0
+NFSIOS_VFSOPEN,VAR_1
+NFS_SERVER,FUNC_1
+PTR_ERR,FUNC_2
+__nfs_revalidate_inode,FUNC_3
+alloc_nfs_open_dir_context,FUNC_4
+dfprintk,FUNC_5
+nfs_inc_stats,FUNC_6
+put_rpccred,FUNC_7
+rpc_lookup_cred,FUNC_8
+nfs_opendir,FUNC_9
+inode,VAR_2
+filp,VAR_3
+res,VAR_4
+ctx,VAR_5
+cred,VAR_6

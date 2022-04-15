@@ -1,0 +1,13 @@
+HKEY_LOCAL_MACHINE,VAR_0
+KEY_WRITE,VAR_1
+NO_ERROR,VAR_2
+REG_SZ,VAR_3
+RegCloseKey,FUNC_0
+RegOpenKeyExA,FUNC_1
+RegSetValueExA,FUNC_2
+strlen,FUNC_3
+WriteRegistryValue,FUNC_4
+ValueName,VAR_4
+Value,VAR_5
+ErrorCode,VAR_6
+ParametersKey,VAR_7

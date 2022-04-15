@@ -1,0 +1,14 @@
+CS_PLAYERS,VAR_0
+Info_ValueForKey,FUNC_0
+MAX_CLIENTS,VAR_1
+MAX_INFO_STRING,VAR_2
+TEAM_SPECTATOR,VAR_3
+atoi,FUNC_1
+strlen,FUNC_2
+trap_Cvar_VariableIntegerValue,FUNC_3
+trap_GetConfigstring,FUNC_4
+BotNumActivePlayers,FUNC_5
+i,VAR_4
+num,VAR_5
+buf,VAR_6
+maxclients,VAR_7

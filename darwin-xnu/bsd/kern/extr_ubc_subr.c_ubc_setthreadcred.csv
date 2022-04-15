@@ -1,0 +1,15 @@
+IS_VALID_CRED,FUNC_0
+UBCINFOEXISTS,FUNC_1
+UT_SETUID,VAR_0
+get_bsdthread_info,FUNC_2
+kauth_cred_proc_ref,FUNC_3
+kauth_cred_ref,FUNC_4
+vnode_lock,FUNC_5
+vnode_unlock,FUNC_6
+ubc_setthreadcred,FUNC_7
+vp,VAR_1
+p,VAR_2
+thread,VAR_3
+uip,VAR_4
+credp,VAR_5
+uthread,VAR_6

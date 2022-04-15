@@ -1,0 +1,16 @@
+CLOCK_MONOTONIC,VAR_0
+CLOCK_MONOTONIC_RAW,VAR_1
+clock_gettime,FUNC_0
+diff_timespec,FUNC_1
+nsec_to_ts,FUNC_2
+ts_to_nsec,FUNC_3
+get_monotonic_and_raw,FUNC_4
+mon,VAR_2
+raw,VAR_3
+start,VAR_4
+mid,VAR_5
+end,VAR_6
+diff,VAR_7
+tmp,VAR_8
+i,VAR_9
+newdiff,VAR_10

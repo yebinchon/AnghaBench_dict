@@ -1,0 +1,17 @@
+MAX_ASID,VAR_0
+MEMORY_OBJECT_COPY_NONE,VAR_1
+PAGE_SIZE,VAR_2
+TRUE,VAR_3
+VM_PROT_NONE,VAR_4
+_vm_object_allocate,FUNC_0
+assert,FUNC_1
+hard_maxproc,VAR_5
+kernel_map,VAR_6
+mem_size,VAR_7
+pmap_initialized,VAR_8
+pmap_object,VAR_9
+pmap_pgtrace_init,FUNC_2
+pmap_zone_init,FUNC_3
+pv_init,FUNC_4
+vm_protect,FUNC_5
+pmap_init,FUNC_6

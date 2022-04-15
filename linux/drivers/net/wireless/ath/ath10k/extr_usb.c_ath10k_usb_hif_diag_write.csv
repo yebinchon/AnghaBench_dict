@@ -1,0 +1,16 @@
+ATH10K_USB_CONTROL_REQ_DIAG_CMD,VAR_0
+ATH10K_USB_CTRL_DIAG_CC_WRITE,VAR_1
+EINVAL,VAR_2
+ath10k_usb_ctrl_msg_exchange,FUNC_0
+ath10k_usb_priv,FUNC_1
+cpu_to_le32,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+ath10k_usb_hif_diag_write,FUNC_5
+ar,VAR_3
+address,VAR_4
+data,VAR_5
+nbytes,VAR_6
+ar_usb,VAR_7
+cmd,VAR_8
+ret,VAR_9

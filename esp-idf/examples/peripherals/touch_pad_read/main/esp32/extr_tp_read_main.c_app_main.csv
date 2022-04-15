@@ -1,0 +1,11 @@
+TOUCHPAD_FILTER_TOUCH_PERIOD,VAR_0
+TOUCH_HVOLT_2V7,VAR_1
+TOUCH_HVOLT_ATTEN_1V,VAR_2
+TOUCH_LVOLT_0V5,VAR_3
+touch_pad_filter_start,FUNC_0
+touch_pad_init,FUNC_1
+touch_pad_set_voltage,FUNC_2
+tp_example_read_task,VAR_4
+tp_example_touch_pad_init,FUNC_3
+xTaskCreate,FUNC_4
+app_main,FUNC_5

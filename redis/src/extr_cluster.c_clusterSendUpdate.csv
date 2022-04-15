@@ -1,0 +1,12 @@
+CLUSTERMSG_TYPE_UPDATE,VAR_0
+CLUSTER_NAMELEN,VAR_1
+clusterBuildMessageHdr,FUNC_0
+clusterSendMessage,FUNC_1
+htonu64,FUNC_2
+memcpy,FUNC_3
+ntohl,FUNC_4
+clusterSendUpdate,FUNC_5
+link,VAR_2
+node,VAR_3
+buf,VAR_4
+hdr,VAR_5

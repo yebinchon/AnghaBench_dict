@@ -1,0 +1,12 @@
+hevc_sao_band_filter_16multiple_msa,FUNC_0
+hevc_sao_band_filter_4width_msa,FUNC_1
+hevc_sao_band_filter_8width_msa,FUNC_2
+ff_hevc_sao_band_filter_0_8_msa,FUNC_3
+dst,VAR_0
+src,VAR_1
+stride_dst,VAR_2
+stride_src,VAR_3
+sao_offset_val,VAR_4
+sao_left_class,VAR_5
+width,VAR_6
+height,VAR_7

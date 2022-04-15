@@ -1,0 +1,11 @@
+WINED3D_PIPELINE_COMPUTE,VAR_0
+WINED3D_SHADER_TYPE_COMPUTE,VAR_1
+dispatch_compute,FUNC_0
+release_shader_resources,FUNC_1
+release_unordered_access_resources,FUNC_2
+wined3d_resource_release,FUNC_3
+wined3d_cs_exec_dispatch,FUNC_4
+cs,VAR_2
+data,VAR_3
+op,VAR_4
+state,VAR_5

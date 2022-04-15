@@ -1,0 +1,15 @@
+RB_WARN_ON,FUNC_0
+local_read,FUNC_1
+preempt_enable_notrace,FUNC_2
+rb_decrement_entry,FUNC_3
+rb_end_commit,FUNC_4
+rb_event_discard,FUNC_5
+rb_try_to_discard,FUNC_6
+rb_update_write_stamp,FUNC_7
+smp_processor_id,FUNC_8
+trace_recursive_unlock,FUNC_9
+ring_buffer_discard_commit,FUNC_10
+buffer,VAR_0
+event,VAR_1
+cpu_buffer,VAR_2
+cpu,VAR_3

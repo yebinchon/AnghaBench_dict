@@ -1,0 +1,9 @@
+AC_PINCAP_EAPD,VAR_0
+AC_VERB_SET_EAPD_BTLENABLE,VAR_1
+snd_hda_codec_update_cache,FUNC_0
+snd_hda_query_pin_caps,FUNC_1
+set_pin_eapd,FUNC_2
+codec,VAR_2
+pin,VAR_3
+enable,VAR_4
+spec,VAR_5

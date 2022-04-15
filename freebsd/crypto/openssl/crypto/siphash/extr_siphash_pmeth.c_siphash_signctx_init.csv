@@ -1,0 +1,15 @@
+EVP_MD_CTX_FLAG_NO_INIT,VAR_0
+EVP_MD_CTX_set_flags,FUNC_0
+EVP_MD_CTX_set_update_fn,FUNC_1
+EVP_PKEY_CTX_get0_pkey,FUNC_2
+EVP_PKEY_CTX_get_data,FUNC_3
+EVP_PKEY_get0_siphash,FUNC_4
+SIPHASH_KEY_SIZE,VAR_1
+SipHash_Init,FUNC_5
+int_update,VAR_2
+siphash_signctx_init,FUNC_6
+ctx,VAR_3
+mctx,VAR_4
+pctx,VAR_5
+key,VAR_6
+len,VAR_7

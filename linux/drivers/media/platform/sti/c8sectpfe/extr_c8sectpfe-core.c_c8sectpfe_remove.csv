@@ -1,0 +1,17 @@
+DMA_CPU_RUN,VAR_0
+SYS_INPUT_CLKEN,VAR_1
+SYS_OTHER_CLKEN,VAR_2
+c8sectpfe_debugfs_exit,FUNC_0
+c8sectpfe_tuner_unregister_frontend,FUNC_1
+clk_disable_unprepare,FUNC_2
+dev_info,FUNC_3
+free_input_block,FUNC_4
+platform_get_drvdata,FUNC_5
+readl,FUNC_6
+wait_for_completion,FUNC_7
+writel,FUNC_8
+c8sectpfe_remove,FUNC_9
+pdev,VAR_3
+fei,VAR_4
+channel,VAR_5
+i,VAR_6

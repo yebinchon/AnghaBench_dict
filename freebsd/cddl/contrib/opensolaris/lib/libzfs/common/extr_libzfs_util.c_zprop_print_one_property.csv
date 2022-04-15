@@ -1,0 +1,17 @@
+GET_COL_NONE,VAR_0
+ZFS_GET_NCOLS,VAR_1
+assert,FUNC_0
+printf,FUNC_1
+snprintf,FUNC_2
+zprop_print_headers,FUNC_3
+zprop_print_one_property,FUNC_4
+name,VAR_2
+cbp,VAR_3
+propname,VAR_4
+value,VAR_5
+sourcetype,VAR_6
+source,VAR_7
+recvd_value,VAR_8
+i,VAR_9
+str,VAR_10
+buf,VAR_11

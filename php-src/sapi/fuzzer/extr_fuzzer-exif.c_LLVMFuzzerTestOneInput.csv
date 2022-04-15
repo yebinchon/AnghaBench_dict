@@ -1,0 +1,14 @@
+FAILURE,VAR_0
+exit,FUNC_0
+fprintf,FUNC_1
+fuzzer_call_php_func_zval,FUNC_2
+fuzzer_request_startup,FUNC_3
+php_request_shutdown,FUNC_4
+php_stream_fopen_tmpfile,FUNC_5
+php_stream_to_zval,FUNC_6
+php_stream_write,FUNC_7
+stderr,VAR_1
+zval_ptr_dtor,FUNC_8
+LLVMFuzzerTestOneInput,FUNC_9
+Data,VAR_2
+Size,VAR_3

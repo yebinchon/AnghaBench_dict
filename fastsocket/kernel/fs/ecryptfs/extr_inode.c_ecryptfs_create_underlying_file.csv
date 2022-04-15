@@ -1,0 +1,13 @@
+ecryptfs_dentry_to_lower,FUNC_0
+ecryptfs_dentry_to_lower_mnt,FUNC_1
+vfs_create,FUNC_2
+ecryptfs_create_underlying_file,FUNC_3
+lower_dir_inode,VAR_0
+dentry,VAR_1
+mode,VAR_2
+nd,VAR_3
+lower_dentry,VAR_4
+lower_mnt,VAR_5
+dentry_save,VAR_6
+vfsmount_save,VAR_7
+rc,VAR_8

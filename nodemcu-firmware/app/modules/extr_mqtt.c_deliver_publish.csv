@@ -1,0 +1,17 @@
+LUA_NOREF,VAR_0
+LUA_REGISTRYINDEX,VAR_1
+NODE_DBG,FUNC_0
+lua_call,FUNC_1
+lua_getstate,FUNC_2
+lua_pushlstring,FUNC_3
+lua_rawgeti,FUNC_4
+mqtt_get_publish_data,FUNC_5
+mqtt_get_publish_topic,FUNC_6
+deliver_publish,FUNC_7
+mud,VAR_2
+message,VAR_3
+length,VAR_4
+is_overflow,VAR_5
+event_data,VAR_6
+cb_ref,VAR_7
+L,VAR_8

@@ -1,0 +1,14 @@
+REQ_OP_DISCARD,VAR_0
+REQ_OP_SECURE_ERASE,VAR_1
+REQ_OP_WRITE_SAME,VAR_2
+REQ_OP_WRITE_ZEROES,VAR_3
+__send_discard,FUNC_0
+__send_secure_erase,FUNC_1
+__send_write_same,FUNC_2
+__send_write_zeroes,FUNC_3
+bio_op,FUNC_4
+__process_abnormal_io,FUNC_5
+ci,VAR_4
+ti,VAR_5
+result,VAR_6
+bio,VAR_7

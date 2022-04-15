@@ -1,0 +1,15 @@
+NAND_CMD_RESET,VAR_0
+NAND_OPERATION,FUNC_0
+NAND_OP_CMD,FUNC_1
+NAND_OP_WAIT_RDY,FUNC_2
+PSEC_TO_MSEC,FUNC_3
+PSEC_TO_NSEC,FUNC_4
+nand_exec_op,FUNC_5
+nand_get_sdr_timings,FUNC_6
+nand_has_exec_op,FUNC_7
+stub1,FUNC_8
+nand_reset_op,FUNC_9
+chip,VAR_1
+sdr,VAR_2
+instrs,VAR_3
+op,VAR_4

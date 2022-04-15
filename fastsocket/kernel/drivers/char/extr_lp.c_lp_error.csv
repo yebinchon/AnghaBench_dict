@@ -1,0 +1,17 @@
+DEFINE_WAIT,FUNC_0
+LP_ABORT,VAR_0
+LP_F,FUNC_1
+LP_TIMEOUT_POLLED,VAR_1
+PARPORT_IRQ_NONE,VAR_2
+TASK_INTERRUPTIBLE,VAR_3
+finish_wait,FUNC_2
+lp_claim_parport_or_block,FUNC_3
+lp_release_parport,FUNC_4
+lp_table,VAR_4
+parport_yield_blocking,FUNC_5
+prepare_to_wait,FUNC_6
+schedule_timeout,FUNC_7
+wait,VAR_5
+lp_error,FUNC_8
+minor,VAR_6
+polling,VAR_7

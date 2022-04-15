@@ -1,0 +1,12 @@
+bcd2000_free_usb_related_resources,FUNC_0
+clear_bit,FUNC_1
+devices_mutex,VAR_0
+devices_used,VAR_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+snd_card_disconnect,FUNC_4
+snd_card_free_when_closed,FUNC_5
+usb_get_intfdata,FUNC_6
+bcd2000_disconnect,FUNC_7
+interface,VAR_2
+bcd2k,VAR_3

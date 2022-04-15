@@ -1,0 +1,14 @@
+MVS_HARD_RESET,VAR_0
+MVS_SOFT_RESET,VAR_1
+PHYEV_RDY_CH,VAR_2
+PHY_RST,VAR_3
+PHY_RST_HARD,VAR_4
+mvs_read_phy_ctl,FUNC_0
+mvs_read_port_irq_stat,FUNC_1
+mvs_write_phy_ctl,FUNC_2
+mvs_write_port_irq_stat,FUNC_3
+mvs_64xx_phy_reset,FUNC_4
+mvi,VAR_5
+phy_id,VAR_6
+hard,VAR_7
+tmp,VAR_8

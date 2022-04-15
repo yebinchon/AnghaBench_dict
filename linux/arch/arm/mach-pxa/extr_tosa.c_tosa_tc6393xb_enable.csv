@@ -1,0 +1,11 @@
+TOSA_GPIO_TC6393XB_L3V_ON,VAR_0
+TOSA_GPIO_TC6393XB_REST_IN,VAR_1
+TOSA_GPIO_TC6393XB_SUSPEND,VAR_2
+gpio_direction_output,FUNC_0
+gpio_free,FUNC_1
+gpio_request,FUNC_2
+gpio_set_value,FUNC_3
+mdelay,FUNC_4
+tosa_tc6393xb_enable,FUNC_5
+dev,VAR_3
+rc,VAR_4

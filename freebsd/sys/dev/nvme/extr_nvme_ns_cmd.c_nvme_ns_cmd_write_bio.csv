@@ -1,0 +1,13 @@
+ENOMEM,VAR_0
+nvme_allocate_request_bio,FUNC_0
+nvme_ctrlr_submit_io_request,FUNC_1
+nvme_ns_get_sector_size,FUNC_2
+nvme_ns_write_cmd,FUNC_3
+nvme_ns_cmd_write_bio,FUNC_4
+ns,VAR_1
+bp,VAR_2
+cb_fn,VAR_3
+cb_arg,VAR_4
+req,VAR_5
+lba,VAR_6
+lba_count,VAR_7

@@ -1,0 +1,17 @@
+ClosePostmasterPorts,FUNC_0
+InitPostmasterChild,FUNC_1
+LOG,VAR_0
+PGARCH_RESTART_INTERVAL,VAR_1
+PGSharedMemoryDetach,FUNC_2
+PgArchiverMain,FUNC_3
+XLogArchivingActive,FUNC_4
+dsm_detach_all,FUNC_5
+ereport,FUNC_6
+errmsg,FUNC_7
+fork_process,FUNC_8
+last_pgarch_start_time,VAR_2
+pgarch_forkexec,FUNC_9
+time,FUNC_10
+pgarch_start,FUNC_11
+curtime,VAR_3
+pgArchPid,VAR_4

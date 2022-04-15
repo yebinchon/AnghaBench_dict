@@ -1,0 +1,9 @@
+PCS_INTR_STATUS_LINK_CHANGE,VAR_0
+REG_PCS_INTR_STATUS,VAR_1
+cas_pcs_link_check,FUNC_0
+readl,FUNC_1
+cas_pcs_interrupt,FUNC_2
+dev,VAR_2
+cp,VAR_3
+status,VAR_4
+stat,VAR_5

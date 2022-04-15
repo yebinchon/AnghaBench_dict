@@ -1,0 +1,12 @@
+GIT_RESET_HARD,VAR_0
+TEST_REPO_PATH,VAR_1
+cl_git_pass,FUNC_0
+cl_git_sandbox_init,FUNC_1
+git_commit_free,FUNC_2
+git_commit_lookup,FUNC_3
+git_oid_fromstr,FUNC_4
+git_reset,FUNC_5
+repo,VAR_2
+test_apply_callbacks__initialize,FUNC_6
+oid,VAR_3
+commit,VAR_4

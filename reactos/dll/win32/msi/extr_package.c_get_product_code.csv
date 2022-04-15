@@ -1,0 +1,14 @@
+ERROR_SUCCESS,VAR_0
+MSI_DatabaseOpenViewW,FUNC_0
+MSI_RecordGetString,FUNC_1
+MSI_ViewClose,FUNC_2
+MSI_ViewExecute,FUNC_3
+MSI_ViewFetch,FUNC_4
+msiobj_release,FUNC_5
+strdupW,FUNC_6
+get_product_code,FUNC_7
+db,VAR_1
+query,VAR_2
+view,VAR_3
+rec,VAR_4
+ret,VAR_5

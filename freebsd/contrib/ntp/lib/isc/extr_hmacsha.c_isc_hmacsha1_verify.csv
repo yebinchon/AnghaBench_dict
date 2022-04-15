@@ -1,0 +1,10 @@
+ISC_SHA1_DIGESTLENGTH,VAR_0
+ISC_TF,FUNC_0
+REQUIRE,FUNC_1
+isc_hmacsha1_sign,FUNC_2
+isc_tsmemcmp,FUNC_3
+isc_hmacsha1_verify,FUNC_4
+ctx,VAR_1
+digest,VAR_2
+len,VAR_3
+newdigest,VAR_4

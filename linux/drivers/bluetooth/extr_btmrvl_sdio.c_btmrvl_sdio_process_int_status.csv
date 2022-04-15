@@ -1,0 +1,14 @@
+BT_DBG,FUNC_0
+DN_LD_HOST_INT_STATUS,VAR_0
+UP_LD_HOST_INT_STATUS,VAR_1
+btmrvl_sdio_card_to_host,FUNC_1
+sdio_claim_host,FUNC_2
+sdio_ireg,VAR_2
+sdio_release_host,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+btmrvl_sdio_process_int_status,FUNC_6
+priv,VAR_3
+flags,VAR_4
+ireg,VAR_5
+card,VAR_6

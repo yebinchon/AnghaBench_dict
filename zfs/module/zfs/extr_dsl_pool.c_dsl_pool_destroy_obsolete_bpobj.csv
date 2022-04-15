@@ -1,0 +1,11 @@
+DMU_POOL_DIRECTORY_OBJECT,VAR_0
+DMU_POOL_OBSOLETE_BPOBJ,VAR_1
+SPA_FEATURE_OBSOLETE_COUNTS,VAR_2
+VERIFY0,FUNC_0
+bpobj_close,FUNC_1
+bpobj_free,FUNC_2
+spa_feature_decr,FUNC_3
+zap_remove,FUNC_4
+dsl_pool_destroy_obsolete_bpobj,FUNC_5
+dp,VAR_3
+tx,VAR_4

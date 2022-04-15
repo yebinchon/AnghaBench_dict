@@ -1,0 +1,10 @@
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_get_sync,FUNC_3
+spi_master_get_devdata,FUNC_4
+spi_unregister_master,FUNC_5
+orion_spi_remove,FUNC_6
+pdev,VAR_0
+master,VAR_1
+spi,VAR_2

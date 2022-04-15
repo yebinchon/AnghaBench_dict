@@ -1,0 +1,13 @@
+BD_ADDR_LEN,VAR_0
+BTA_DM_API_BLE_CONN_PARAM_EVT,VAR_1
+bta_sys_sendmsg,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+osi_malloc,FUNC_3
+BTA_DmSetBlePrefConnParams,FUNC_4
+bd_addr,VAR_2
+min_conn_int,VAR_3
+max_conn_int,VAR_4
+slave_latency,VAR_5
+supervision_tout,VAR_6
+p_msg,VAR_7

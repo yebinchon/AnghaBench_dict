@@ -1,0 +1,15 @@
+ARG_IN,VAR_0
+MAX_SIG_LEN,VAR_1
+dbus_message_get_signature,FUNC_0
+os_snprintf,FUNC_1
+os_snprintf_error,FUNC_2
+os_strncmp,FUNC_3
+is_signature_correct,FUNC_4
+message,VAR_2
+method_dsc,VAR_3
+registered_sig,VAR_4
+pos,VAR_5
+sig,VAR_6
+ret,VAR_7
+arg,VAR_8
+blen,VAR_9

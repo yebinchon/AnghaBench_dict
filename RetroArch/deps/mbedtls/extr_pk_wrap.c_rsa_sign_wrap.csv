@@ -1,0 +1,14 @@
+MBEDTLS_ERR_PK_BAD_INPUT_DATA,VAR_0
+MBEDTLS_MD_NONE,VAR_1
+MBEDTLS_RSA_PRIVATE,VAR_2
+UINT_MAX,VAR_3
+mbedtls_rsa_pkcs1_sign,FUNC_0
+rsa_sign_wrap,FUNC_1
+ctx,VAR_4
+md_alg,VAR_5
+hash,VAR_6
+hash_len,VAR_7
+sig,VAR_8
+sig_len,VAR_9
+f_rng,VAR_10
+p_rng,VAR_11

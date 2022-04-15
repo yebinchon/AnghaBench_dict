@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+V4L2_EVENT_CTRL_CH_RANGE,VAR_1
+check_range,FUNC_0
+cur_to_new,FUNC_1
+lockdep_assert_held,FUNC_2
+send_event,FUNC_3
+set_ctrl,FUNC_4
+validate_new,FUNC_5
+__v4l2_ctrl_modify_range,FUNC_6
+ctrl,VAR_2
+min,VAR_3
+max,VAR_4
+step,VAR_5
+def,VAR_6
+value_changed,VAR_7
+range_changed,VAR_8
+ret,VAR_9

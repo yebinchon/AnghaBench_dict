@@ -1,0 +1,14 @@
+ESP_ERROR_CHECK,FUNC_0
+ESP_ERR_NVS_NEW_VERSION_FOUND,VAR_0
+ESP_ERR_NVS_NO_FREE_PAGES,VAR_1
+WIFI_PS_NONE,VAR_2
+esp_event_loop_create_default,FUNC_1
+esp_netif_init,FUNC_2
+esp_wifi_set_ps,FUNC_3
+example_connect,FUNC_4
+nvs_flash_erase,FUNC_5
+nvs_flash_init,FUNC_6
+simple_ota_example_task,VAR_3
+xTaskCreate,FUNC_7
+app_main,FUNC_8
+err,VAR_4

@@ -1,0 +1,12 @@
+ANET_ERR,VAR_0
+ANET_OK,VAR_1
+SOL_SOCKET,VAR_2
+SO_KEEPALIVE,VAR_3
+anetSetError,FUNC_0
+errno,VAR_4
+setsockopt,FUNC_1
+strerror,FUNC_2
+anetTcpKeepAlive,FUNC_3
+err,VAR_5
+fd,VAR_6
+yes,VAR_7

@@ -1,0 +1,13 @@
+bp_patching,VAR_0
+do_sync_core,VAR_1
+lockdep_assert_held,FUNC_0
+on_each_cpu,FUNC_1
+smp_wmb,FUNC_2
+text_mutex,VAR_2
+text_poke,FUNC_3
+text_poke_bp_batch,FUNC_4
+tp,VAR_3
+nr_entries,VAR_4
+patched_all_but_first,VAR_5
+int3,VAR_6
+i,VAR_7

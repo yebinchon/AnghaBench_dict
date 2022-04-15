@@ -1,0 +1,14 @@
+cl_git_pass,FUNC_0
+cmp_objects,FUNC_1
+git_odb_free,FUNC_2
+git_odb_object_free,FUNC_3
+git_odb_open,FUNC_4
+git_odb_read,FUNC_5
+git_oid_fromstr,FUNC_6
+write_object_files,FUNC_7
+test_read_object,FUNC_8
+data,VAR_0
+id,VAR_1
+obj,VAR_2
+odb,VAR_3
+tmp,VAR_4

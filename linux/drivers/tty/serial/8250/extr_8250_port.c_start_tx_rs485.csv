@@ -1,0 +1,14 @@
+SER_RS485_RTS_ON_SEND,VAR_0
+SER_RS485_RX_DURING_TX,VAR_1
+UART_MCR_RTS,VAR_2
+__start_tx,FUNC_0
+serial8250_in_MCR,FUNC_1
+serial8250_out_MCR,FUNC_2
+serial8250_stop_rx,FUNC_3
+start_hrtimer_ms,FUNC_4
+up_to_u8250p,FUNC_5
+start_tx_rs485,FUNC_6
+port,VAR_3
+up,VAR_4
+em485,VAR_5
+mcr,VAR_6

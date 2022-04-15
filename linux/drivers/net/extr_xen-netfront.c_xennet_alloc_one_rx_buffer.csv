@@ -1,0 +1,15 @@
+GFP_ATOMIC,VAR_0
+NET_IP_ALIGN,VAR_1
+PAGE_SIZE,VAR_2
+RX_COPY_THRESHOLD,VAR_3
+__GFP_NOWARN,VAR_4
+__netdev_alloc_skb,FUNC_0
+alloc_page,FUNC_1
+kfree_skb,FUNC_2
+skb_add_rx_frag,FUNC_3
+skb_reserve,FUNC_4
+unlikely,FUNC_5
+xennet_alloc_one_rx_buffer,FUNC_6
+queue,VAR_5
+skb,VAR_6
+page,VAR_7

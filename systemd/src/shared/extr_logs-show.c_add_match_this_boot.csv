@@ -1,0 +1,14 @@
+assert,FUNC_0
+get_boot_id_for_machine,FUNC_1
+log_error_errno,FUNC_2
+sd_id128_get_boot,FUNC_3
+sd_id128_to_string,FUNC_4
+sd_journal_add_conjunction,FUNC_5
+sd_journal_add_match,FUNC_6
+strlen,FUNC_7
+add_match_this_boot,FUNC_8
+j,VAR_0
+machine,VAR_1
+match,VAR_2
+boot_id,VAR_3
+r,VAR_4

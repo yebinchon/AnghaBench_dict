@@ -1,0 +1,13 @@
+AUDIO2MODE,VAR_0
+DAC2,VAR_1
+EINVAL,VAR_2
+ESSSB_IREG_AUDIO2CONTROL1,VAR_3
+SLIO_REG,FUNC_0
+outb,FUNC_1
+snd_es1938_mixer_write,FUNC_2
+snd_pcm_substream_chip,FUNC_3
+udelay,FUNC_4
+snd_es1938_playback1_trigger,FUNC_5
+substream,VAR_4
+cmd,VAR_5
+chip,VAR_6

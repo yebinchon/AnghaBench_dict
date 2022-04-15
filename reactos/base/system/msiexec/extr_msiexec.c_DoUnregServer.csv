@@ -1,0 +1,16 @@
+CloseServiceHandle,FUNC_0
+DELETE,VAR_0
+DeleteService,FUNC_1
+ERROR_SERVICE_DOES_NOT_EXIST,VAR_1
+GetLastError,FUNC_2
+OpenSCManagerW,FUNC_3
+OpenServiceW,FUNC_4
+SC_MANAGER_CONNECT,VAR_2
+SERVICES_ACTIVE_DATABASEW,VAR_3
+fprintf,FUNC_5
+stderr,VAR_4
+DoUnregServer,FUNC_6
+msiserverW,VAR_5
+scm,VAR_6
+service,VAR_7
+ret,VAR_8

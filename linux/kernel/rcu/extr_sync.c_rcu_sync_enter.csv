@@ -1,0 +1,14 @@
+GP_ENTER,VAR_0
+GP_IDLE,VAR_1
+GP_PASSED,VAR_2
+READ_ONCE,FUNC_0
+WARN_ON_ONCE,FUNC_1
+WRITE_ONCE,FUNC_2
+rcu_sync_func,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+synchronize_rcu,FUNC_6
+wait_event,FUNC_7
+rcu_sync_enter,FUNC_8
+rsp,VAR_3
+gp_state,VAR_4

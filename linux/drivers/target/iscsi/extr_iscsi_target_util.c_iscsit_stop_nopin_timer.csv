@@ -1,0 +1,7 @@
+ISCSI_TF_RUNNING,VAR_0
+ISCSI_TF_STOP,VAR_1
+del_timer_sync,FUNC_0
+spin_lock_bh,FUNC_1
+spin_unlock_bh,FUNC_2
+iscsit_stop_nopin_timer,FUNC_3
+conn,VAR_2

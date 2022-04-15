@@ -1,0 +1,11 @@
+FIONBIO,VAR_0
+F_GETFL,VAR_1
+F_SETFL,VAR_2
+O_NONBLOCK,VAR_3
+SOL_SOCKET,VAR_4
+SO_NBIO,VAR_5
+fcntl,FUNC_0
+ioctlsocket,FUNC_1
+setsockopt,FUNC_2
+socket_nonblock,FUNC_3
+fd,VAR_6

@@ -1,0 +1,15 @@
+Assert,FUNC_0
+BlockStateAsString,FUNC_1
+CurrentTransactionState,VAR_0
+ERRCODE_INVALID_TRANSACTION_STATE,VAR_1
+ERRCODE_NO_ACTIVE_SQL_TRANSACTION,VAR_2
+ERROR,VAR_3
+FATAL,VAR_4
+WARNING,VAR_5
+elog,FUNC_2
+ereport,FUNC_3
+errcode,FUNC_4
+errmsg,FUNC_5
+UserAbortTransactionBlock,FUNC_6
+chain,VAR_6
+s,VAR_7

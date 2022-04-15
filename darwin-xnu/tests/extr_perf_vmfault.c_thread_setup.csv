@@ -1,0 +1,15 @@
+T_ASSERT_POSIX_SUCCESS,FUNC_0
+T_QUIET,VAR_0
+fault_pages,FUNC_1
+num_threads,VAR_1
+pthread_cond_signal,FUNC_2
+pthread_cond_wait,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+ready_thread_count,VAR_2
+ready_thread_count_lock,VAR_3
+start_cvar,VAR_4
+threads_ready_cvar,VAR_5
+thread_setup,FUNC_6
+arg,VAR_6
+my_index,VAR_7

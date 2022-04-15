@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+ENOMEM,VAR_0
+XFS_BTCUR_BPRV_INVALID_OWNER,VAR_1
+XFS_DATA_FORK,VAR_2
+XFS_DINODE_FMT_BTREE,VAR_3
+xfs_bmbt_init_cursor,FUNC_1
+xfs_btree_change_owner,FUNC_2
+xfs_btree_del_cursor,FUNC_3
+xfs_bmbt_change_owner,FUNC_4
+tp,VAR_4
+ip,VAR_5
+whichfork,VAR_6
+new_owner,VAR_7
+buffer_list,VAR_8
+cur,VAR_9
+error,VAR_10

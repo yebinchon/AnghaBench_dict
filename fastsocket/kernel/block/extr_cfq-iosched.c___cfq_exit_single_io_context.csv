@@ -1,0 +1,13 @@
+BLK_RW_ASYNC,VAR_0
+BLK_RW_SYNC,VAR_1
+cfq_exit_cfqq,FUNC_0
+list_del_init,FUNC_1
+rcu_assign_pointer,FUNC_2
+rcu_dereference,FUNC_3
+smp_wmb,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+__cfq_exit_single_io_context,FUNC_7
+cfqd,VAR_2
+cic,VAR_3
+ioc,VAR_4

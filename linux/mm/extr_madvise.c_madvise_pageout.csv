@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+can_do_pageout,FUNC_0
+can_madv_lru_vma,FUNC_1
+lru_add_drain,FUNC_2
+madvise_pageout_page_range,FUNC_3
+tlb_finish_mmu,FUNC_4
+tlb_gather_mmu,FUNC_5
+madvise_pageout,FUNC_6
+vma,VAR_1
+prev,VAR_2
+start_addr,VAR_3
+end_addr,VAR_4
+mm,VAR_5
+tlb,VAR_6

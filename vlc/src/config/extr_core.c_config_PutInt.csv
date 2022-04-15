@@ -1,0 +1,11 @@
+IsConfigIntegerType,FUNC_0
+assert,FUNC_1
+config_FindConfig,FUNC_2
+config_dirty,VAR_0
+config_lock,VAR_1
+vlc_rwlock_unlock,FUNC_3
+vlc_rwlock_wrlock,FUNC_4
+config_PutInt,FUNC_5
+psz_name,VAR_2
+i_value,VAR_3
+p_config,VAR_4

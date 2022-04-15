@@ -1,0 +1,13 @@
+LPFC_MBOX_OPCODE_SET_FEATURES,VAR_0
+LPFC_MBOX_SUBSYSTEM_COMMON,VAR_1
+LPFC_SLI4_MBX_EMBED,VAR_2
+bf_set,FUNC_0
+lpfc_mbx_set_feature_UER,VAR_3
+lpfc_mbx_set_feature_mds,VAR_4
+lpfc_mbx_set_feature_mds_deep_loopbk,VAR_5
+lpfc_sli4_config,FUNC_1
+lpfc_set_features,FUNC_2
+phba,VAR_6
+mbox,VAR_7
+feature,VAR_8
+len,VAR_9

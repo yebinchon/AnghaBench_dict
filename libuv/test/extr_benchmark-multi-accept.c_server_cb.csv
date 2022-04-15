@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+UV_RUN_DEFAULT,VAR_0
+get_listen_handle,FUNC_1
+sv_async_cb,VAR_1
+sv_connection_cb,VAR_2
+uv_async_init,FUNC_2
+uv_listen,FUNC_3
+uv_loop_close,FUNC_4
+uv_loop_init,FUNC_5
+uv_run,FUNC_6
+uv_sem_post,FUNC_7
+uv_sem_wait,FUNC_8
+uv_unref,FUNC_9
+server_cb,FUNC_10
+arg,VAR_3
+ctx,VAR_4
+loop,VAR_5

@@ -1,0 +1,11 @@
+HBA_RRQ_ACTIVE,VAR_0
+KERN_ERR,VAR_1
+LOG_INIT,VAR_2
+LPFC_SLI_REV4,VAR_3
+cancel_delayed_work_sync,FUNC_0
+del_timer_sync,FUNC_1
+lpfc_printf_log,FUNC_2
+lpfc_sli4_stop_fcf_redisc_wait_timer,FUNC_3
+lpfc_stop_vport_timers,FUNC_4
+lpfc_stop_hba_timers,FUNC_5
+phba,VAR_4

@@ -1,0 +1,15 @@
+AMR_IS_QUARTZ,FUNC_0
+PCIR_BAR,FUNC_1
+SYS_RES_IOPORT,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+amr_free,FUNC_2
+bus_dma_tag_destroy,FUNC_3
+bus_dmamap_unload,FUNC_4
+bus_dmamem_free,FUNC_5
+bus_release_resource,FUNC_6
+bus_teardown_intr,FUNC_7
+debug_called,FUNC_8
+amr_pci_free,FUNC_9
+sc,VAR_3
+p,VAR_4

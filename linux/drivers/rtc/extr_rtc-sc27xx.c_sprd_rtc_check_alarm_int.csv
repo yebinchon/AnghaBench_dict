@@ -1,0 +1,10 @@
+SPRD_RTC_ALARM_EN,VAR_0
+SPRD_RTC_INT_EN,VAR_1
+SPRD_RTC_POWEROFF_ALM_FLAG,VAR_2
+SPRD_RTC_SPG_VALUE,VAR_3
+regmap_read,FUNC_0
+regmap_update_bits,FUNC_1
+sprd_rtc_check_alarm_int,FUNC_2
+rtc,VAR_4
+val,VAR_5
+ret,VAR_6

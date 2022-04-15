@@ -1,0 +1,15 @@
+arm_pmu_event_max_period,FUNC_0
+local64_add,FUNC_1
+local64_cmpxchg,FUNC_2
+local64_read,FUNC_3
+local64_sub,FUNC_4
+stub1,FUNC_5
+to_arm_pmu,FUNC_6
+armpmu_event_update,FUNC_7
+event,VAR_0
+armpmu,VAR_1
+hwc,VAR_2
+delta,VAR_3
+prev_raw_count,VAR_4
+new_raw_count,VAR_5
+max_period,VAR_6

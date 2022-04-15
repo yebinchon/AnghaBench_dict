@@ -1,0 +1,12 @@
+IGB_RX_DESC,FUNC_0
+cpu_to_le64,FUNC_1
+igb_alloc_mapped_page,FUNC_2
+unlikely,FUNC_3
+wmb,FUNC_4
+writel,FUNC_5
+igb_alloc_rx_buffers,FUNC_6
+rx_ring,VAR_0
+cleaned_count,VAR_1
+rx_desc,VAR_2
+bi,VAR_3
+i,VAR_4

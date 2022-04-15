@@ -1,0 +1,13 @@
+OMAP_TIMER_CTRL_POSTED,VAR_0
+OMAP_TIMER_IF_CTRL_REG,VAR_1
+OMAP_TIMER_OCP_CFG_REG,VAR_2
+OMAP_TIMER_SRC_32_KHZ,VAR_3
+cpu_class_is_omap2,FUNC_0
+dm_timers,VAR_4
+omap_dm_timer_read_reg,FUNC_1
+omap_dm_timer_set_source,FUNC_2
+omap_dm_timer_wait_for_reset,FUNC_3
+omap_dm_timer_write_reg,FUNC_4
+omap_dm_timer_reset,FUNC_5
+timer,VAR_5
+l,VAR_6

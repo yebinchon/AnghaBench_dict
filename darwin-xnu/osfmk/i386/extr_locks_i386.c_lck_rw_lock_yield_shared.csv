@@ -1,0 +1,10 @@
+FALSE,VAR_0
+LCK_RW_ASSERT_SHARED,VAR_1
+TRUE,VAR_2
+lck_rw_assert,FUNC_0
+lck_rw_lock_shared,FUNC_1
+lck_rw_unlock_shared,FUNC_2
+mutex_pause,FUNC_3
+lck_rw_lock_yield_shared,FUNC_4
+lck,VAR_3
+force_yield,VAR_4

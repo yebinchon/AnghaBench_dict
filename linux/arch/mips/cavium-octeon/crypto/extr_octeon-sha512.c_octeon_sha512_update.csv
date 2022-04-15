@@ -1,0 +1,15 @@
+SHA512_BLOCK_SIZE,VAR_0
+__octeon_sha512_update,FUNC_0
+crypto_sha512_update,FUNC_1
+octeon_crypto_disable,FUNC_2
+octeon_crypto_enable,FUNC_3
+octeon_sha512_read_hash,FUNC_4
+octeon_sha512_store_hash,FUNC_5
+shash_desc_ctx,FUNC_6
+octeon_sha512_update,FUNC_7
+desc,VAR_1
+data,VAR_2
+len,VAR_3
+sctx,VAR_4
+state,VAR_5
+flags,VAR_6

@@ -1,0 +1,14 @@
+IORESOURCE_MEM,VAR_0
+MSP_TWI_INT_MSK_REG_OFFSET,VAR_1
+free_irq,FUNC_0
+i2c_del_adapter,FUNC_1
+iounmap,FUNC_2
+platform_get_resource,FUNC_3
+pmcmsptwi_adapter,VAR_2
+pmcmsptwi_data,VAR_3
+pmcmsptwi_writel,FUNC_4
+release_mem_region,FUNC_5
+resource_size,FUNC_6
+pmcmsptwi_remove,FUNC_7
+pldev,VAR_4
+res,VAR_5

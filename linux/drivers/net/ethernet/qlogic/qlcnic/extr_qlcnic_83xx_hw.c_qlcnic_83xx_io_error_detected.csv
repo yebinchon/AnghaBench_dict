@@ -1,0 +1,16 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_NEED_RESET,VAR_1
+PCI_ERS_RESULT_RECOVERED,VAR_2
+__QLCNIC_AER,VAR_3
+__QLCNIC_RESETTING,VAR_4
+pci_channel_io_normal,VAR_5
+pci_channel_io_perm_failure,VAR_6
+pci_disable_device,FUNC_0
+pci_get_drvdata,FUNC_1
+pci_save_state,FUNC_2
+qlcnic_83xx_aer_stop_poll_work,FUNC_3
+set_bit,FUNC_4
+qlcnic_83xx_io_error_detected,FUNC_5
+pdev,VAR_7
+state,VAR_8
+adapter,VAR_9

@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+atomic_dec_and_test,FUNC_1
+atomic_read,FUNC_2
+complete,FUNC_3
+free_req,FUNC_4
+make_response,FUNC_5
+put_free_pages,FUNC_6
+xen_blkif_put,FUNC_7
+xen_blkbk_unmap_and_respond_callback,FUNC_8
+result,VAR_0
+data,VAR_1
+pending_req,VAR_2
+ring,VAR_3
+blkif,VAR_4

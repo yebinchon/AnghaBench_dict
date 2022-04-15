@@ -1,0 +1,10 @@
+ISCSI_SW_TCP_DBG,FUNC_0
+iscsi_conn_queue_work,FUNC_1
+read_lock_bh,FUNC_2
+read_unlock_bh,FUNC_3
+iscsi_sw_tcp_write_space,FUNC_4
+sk,VAR_0
+conn,VAR_1
+tcp_conn,VAR_2
+tcp_sw_conn,VAR_3
+old_write_space,VAR_4

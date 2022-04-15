@@ -1,0 +1,12 @@
+ASR_DBR,VAR_0
+ASR_INT,VAR_1
+CMND_SBT,VAR_2
+CMND_XFERINFO,VAR_3
+SBIC_DATA,VAR_4
+SBIC_SSR,VAR_5
+acornscsi_sbic_issuecmd,FUNC_0
+acornscsi_sbic_wait,FUNC_1
+sbic_arm_read,FUNC_2
+acornscsi_readmessagebyte,FUNC_3
+host,VAR_6
+message,VAR_7

@@ -1,0 +1,14 @@
+MAX_SKB_FRAGS,VAR_0
+__netif_tx_trylock,FUNC_0
+__netif_tx_unlock,FUNC_1
+free_old_xmit_skbs,FUNC_2
+is_xdp_raw_buffer_queue,FUNC_3
+netdev_get_tx_queue,FUNC_4
+netif_tx_wake_queue,FUNC_5
+vq2rxq,FUNC_6
+virtnet_poll_cleantx,FUNC_7
+rq,VAR_1
+vi,VAR_2
+index,VAR_3
+sq,VAR_4
+txq,VAR_5

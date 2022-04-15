@@ -1,0 +1,13 @@
+GIT_OID_HEXSZ,VAR_0
+GIT_RESET_SOFT,VAR_1
+cl_git_pass,FUNC_0
+git_oid_fmt,FUNC_1
+git_oid_streq,FUNC_2
+git_reference_name_to_id,FUNC_3
+git_reset,FUNC_4
+git_revparse_single,FUNC_5
+repo,VAR_2
+target,VAR_3
+test_reset_soft__resetting_to_the_commit_pointed_at_by_the_Head_does_not_change_the_target_of_the_Head,FUNC_6
+oid,VAR_4
+raw_head_oid,VAR_5

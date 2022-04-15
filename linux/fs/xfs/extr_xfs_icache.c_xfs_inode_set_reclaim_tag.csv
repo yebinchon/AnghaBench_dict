@@ -1,0 +1,15 @@
+XFS_ICI_RECLAIM_TAG,VAR_0
+XFS_INO_TO_AGINO,FUNC_0
+XFS_INO_TO_AGNO,FUNC_1
+XFS_IRECLAIMABLE,VAR_1
+__xfs_iflags_set,FUNC_2
+radix_tree_tag_set,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+xfs_perag_get,FUNC_6
+xfs_perag_put,FUNC_7
+xfs_perag_set_reclaim_tag,FUNC_8
+xfs_inode_set_reclaim_tag,FUNC_9
+ip,VAR_2
+mp,VAR_3
+pag,VAR_4

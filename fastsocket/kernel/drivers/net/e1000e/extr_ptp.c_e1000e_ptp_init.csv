@@ -1,0 +1,17 @@
+E1000_SYSTIM_OVERFLOW_PERIOD,VAR_0
+E1000_TSYNCRXCTL_SYSCFI,VAR_1
+FLAG_HAS_HW_TIMESTAMP,VAR_2
+INIT_DELAYED_WORK,FUNC_0
+IS_ERR,FUNC_1
+TSYNCRXCTL,VAR_3
+e1000e_ptp_clock_info,VAR_4
+e1000e_systim_overflow_work,VAR_5
+e_err,FUNC_2
+e_info,FUNC_3
+er32,FUNC_4
+ptp_clock_register,FUNC_5
+schedule_delayed_work,FUNC_6
+snprintf,FUNC_7
+e1000e_ptp_init,FUNC_8
+adapter,VAR_6
+hw,VAR_7

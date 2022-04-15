@@ -1,0 +1,17 @@
+BINPRM_BUF_SIZE,VAR_0
+EACCES,VAR_1
+MNT_NOSUID,VAR_2
+PER_CLEAR_ON_SETID,VAR_3
+S_ISGID,VAR_4
+S_ISUID,VAR_5
+S_IXGRP,VAR_6
+current_egid,FUNC_0
+current_euid,FUNC_1
+kernel_read,FUNC_2
+memset,FUNC_3
+security_bprm_set_creds,FUNC_4
+prepare_binprm,FUNC_5
+bprm,VAR_7
+mode,VAR_8
+inode,VAR_9
+retval,VAR_10

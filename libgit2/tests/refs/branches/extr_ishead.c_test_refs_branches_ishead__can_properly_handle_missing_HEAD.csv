@@ -1,0 +1,8 @@
+branch,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+delete_head,FUNC_2
+git_branch_is_head,FUNC_3
+git_reference_lookup,FUNC_4
+repo,VAR_1
+test_refs_branches_ishead__can_properly_handle_missing_HEAD,FUNC_5

@@ -1,0 +1,13 @@
+C_ERR,VAR_0
+C_OK,VAR_1
+JOB_ID_LEN,VAR_2
+JOB_STATE_ACTIVE,VAR_3
+JOB_STATE_QUEUED,VAR_4
+LL_VERBOSE,VAR_5
+lookupQueue,FUNC_0
+serverAssert,FUNC_1
+serverLog,FUNC_2
+skiplistDelete,FUNC_3
+dequeueJob,FUNC_4
+job,VAR_6
+q,VAR_7

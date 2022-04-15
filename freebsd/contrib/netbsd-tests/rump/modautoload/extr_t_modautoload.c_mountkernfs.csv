@@ -1,0 +1,14 @@
+MOUNT_KERNFS,VAR_0
+atf_tc_fail_errno,FUNC_0
+atf_tc_skip,FUNC_1
+rump_init,FUNC_2
+rump_nativeabi_p,FUNC_3
+rump_sys_mkdir,FUNC_4
+rump_sys_mount,FUNC_5
+sysctlbyname,FUNC_6
+mountkernfs,FUNC_7
+old_autoload,VAR_1
+new_autoload,VAR_2
+old_len,VAR_3
+new_len,VAR_4
+error,VAR_5

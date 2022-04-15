@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_0
+bus_release_resource,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+gpiobus_attach_bus,FUNC_4
+rman_get_bushandle,FUNC_5
+rman_get_bustag,FUNC_6
+rt1310_gpio_sc,VAR_3
+rt1310_gpio_attach,FUNC_7
+dev,VAR_4
+sc,VAR_5
+rid,VAR_6

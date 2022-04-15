@@ -1,0 +1,17 @@
+CEPH_CLS_LOCK_EXCLUSIVE,VAR_0
+EOPNOTSUPP,VAR_1
+RBD_LOCK_NAME,VAR_2
+RBD_LOCK_TAG,VAR_3
+__rbd_lock,FUNC_0
+__rbd_release_lock,FUNC_1
+ceph_cls_set_cookie,FUNC_2
+format_lock_cookie,FUNC_3
+queue_delayed_work,FUNC_4
+rbd_quiesce_lock,FUNC_5
+rbd_warn,FUNC_6
+wake_lock_waiters,FUNC_7
+rbd_reacquire_lock,FUNC_8
+rbd_dev,VAR_4
+osdc,VAR_5
+cookie,VAR_6
+ret,VAR_7

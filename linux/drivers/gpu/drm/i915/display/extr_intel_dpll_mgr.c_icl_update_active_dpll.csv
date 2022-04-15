@@ -1,0 +1,16 @@
+ICL_PORT_DPLL_DEFAULT,VAR_0
+ICL_PORT_DPLL_MG_PHY,VAR_1
+INTEL_OUTPUT_DP_MST,VAR_2
+TC_PORT_DP_ALT,VAR_3
+TC_PORT_LEGACY,VAR_4
+enc_to_dig_port,FUNC_0
+enc_to_mst,FUNC_1
+icl_set_active_port_dpll,FUNC_2
+intel_atomic_get_new_crtc_state,FUNC_3
+icl_update_active_dpll,FUNC_4
+state,VAR_5
+crtc,VAR_6
+encoder,VAR_7
+crtc_state,VAR_8
+primary_port,VAR_9
+port_dpll_id,VAR_10

@@ -1,0 +1,14 @@
+drm_atomic_get_new_connector_state,FUNC_0
+drm_atomic_get_new_crtc_state,FUNC_1
+drm_atomic_get_old_connector_state,FUNC_2
+intel_digital_connector_atomic_check,FUNC_3
+memcmp,FUNC_4
+to_intel_sdvo_connector_state,FUNC_5
+intel_sdvo_atomic_check,FUNC_6
+conn,VAR_0
+state,VAR_1
+new_conn_state,VAR_2
+old_conn_state,VAR_3
+old_state,VAR_4
+new_state,VAR_5
+crtc_state,VAR_6

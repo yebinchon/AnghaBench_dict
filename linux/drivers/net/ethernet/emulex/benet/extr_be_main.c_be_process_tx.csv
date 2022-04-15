@@ -1,0 +1,17 @@
+__netif_subqueue_stopped,FUNC_0
+atomic_sub,FUNC_1
+be_can_txq_wake,FUNC_2
+be_cq_notify,FUNC_3
+be_tx_compl_get,FUNC_4
+be_tx_compl_process,FUNC_5
+netif_wake_subqueue,FUNC_6
+tx_stats,FUNC_7
+u64_stats_update_begin,FUNC_8
+u64_stats_update_end,FUNC_9
+be_process_tx,FUNC_10
+adapter,VAR_0
+txo,VAR_1
+idx,VAR_2
+num_wrbs,VAR_3
+work_done,VAR_4
+txcp,VAR_5

@@ -1,0 +1,14 @@
+IRQ_NONE,VAR_0
+MGR_INT_RX_MSG_RCVD,VAR_1
+MGR_INT_STAT,VAR_2
+MGR_INT_TX_MSG_SENT,VAR_3
+MGR_INT_TX_NACKED_2,VAR_4
+qcom_slim_handle_rx_irq,FUNC_0
+qcom_slim_handle_tx_irq,FUNC_1
+readl_relaxed,FUNC_2
+qcom_slim_interrupt,FUNC_3
+irq,VAR_5
+d,VAR_6
+ctrl,VAR_7
+stat,VAR_8
+ret,VAR_9

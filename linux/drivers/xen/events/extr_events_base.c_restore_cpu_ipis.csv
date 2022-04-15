@@ -1,0 +1,17 @@
+BUG,FUNC_0
+BUG_ON,FUNC_1
+EVTCHNOP_bind_ipi,VAR_0
+HYPERVISOR_event_channel_op,FUNC_2
+XEN_NR_IPIS,VAR_1
+bind_evtchn_to_cpu,FUNC_3
+ipi_from_irq,FUNC_4
+ipi_to_irq,VAR_2
+per_cpu,FUNC_5
+xen_irq_info_ipi_setup,FUNC_6
+xen_vcpu_nr,FUNC_7
+restore_cpu_ipis,FUNC_8
+cpu,VAR_3
+bind_ipi,VAR_4
+ipi,VAR_5
+irq,VAR_6
+evtchn,VAR_7

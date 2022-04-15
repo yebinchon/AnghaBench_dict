@@ -1,0 +1,9 @@
+MVNETA_RXQ_CONFIG_REG,FUNC_0
+MVNETA_RXQ_SHORT_POOL_ID_MASK,VAR_0
+MVNETA_RXQ_SHORT_POOL_ID_SHIFT,VAR_1
+mvreg_read,FUNC_1
+mvreg_write,FUNC_2
+mvneta_rxq_short_pool_set,FUNC_3
+pp,VAR_2
+rxq,VAR_3
+val,VAR_4

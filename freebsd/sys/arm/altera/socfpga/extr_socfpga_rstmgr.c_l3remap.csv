@@ -1,0 +1,16 @@
+L3REGS_REMAP,VAR_0
+OF_finddevice,FUNC_0
+OF_getencprop,FUNC_1
+REMAP_MPUZERO,VAR_1
+bus_space_map,FUNC_2
+bus_space_write_4,FUNC_3
+device_printf,FUNC_4
+fdtbus_bs_tag,VAR_2
+l3remap,FUNC_5
+sc,VAR_3
+remap,VAR_4
+enable,VAR_5
+paddr,VAR_6
+vaddr,VAR_7
+node,VAR_8
+reg,VAR_9

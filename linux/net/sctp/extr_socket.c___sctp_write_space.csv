@@ -1,0 +1,15 @@
+POLL_OUT,VAR_0
+SEND_SHUTDOWN,VAR_1
+SOCK_WAKE_SPACE,VAR_2
+rcu_dereference,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+sctp_writeable,FUNC_3
+sctp_wspace,FUNC_4
+sock_wake_async,FUNC_5
+waitqueue_active,FUNC_6
+wake_up_interruptible,FUNC_7
+__sctp_write_space,FUNC_8
+asoc,VAR_3
+sk,VAR_4
+wq,VAR_5

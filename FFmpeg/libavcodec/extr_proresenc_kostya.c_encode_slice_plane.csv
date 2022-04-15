@@ -1,0 +1,16 @@
+encode_acs,FUNC_0
+encode_dcs,FUNC_1
+flush_put_bits,FUNC_2
+put_bits_count,FUNC_3
+encode_slice_plane,FUNC_4
+ctx,VAR_0
+pb,VAR_1
+src,VAR_2
+linesize,VAR_3
+mbs_per_slice,VAR_4
+blocks,VAR_5
+blocks_per_mb,VAR_6
+plane_size_factor,VAR_7
+qmat,VAR_8
+blocks_per_slice,VAR_9
+saved_pos,VAR_10

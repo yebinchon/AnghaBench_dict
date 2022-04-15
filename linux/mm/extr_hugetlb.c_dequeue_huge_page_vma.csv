@@ -1,0 +1,17 @@
+SetPagePrivate,FUNC_0
+dequeue_huge_page_nodemask,FUNC_1
+htlb_alloc_mask,FUNC_2
+huge_node,FUNC_3
+mpol_cond_put,FUNC_4
+vma_has_reserves,FUNC_5
+dequeue_huge_page_vma,FUNC_6
+h,VAR_0
+vma,VAR_1
+address,VAR_2
+avoid_reserve,VAR_3
+chg,VAR_4
+page,VAR_5
+mpol,VAR_6
+gfp_mask,VAR_7
+nodemask,VAR_8
+nid,VAR_9

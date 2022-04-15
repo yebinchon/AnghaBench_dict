@@ -1,0 +1,11 @@
+LPC18XX_PWM_MATCH,FUNC_0
+LPC18XX_PWM_MATCHREL,FUNC_1
+NSEC_PER_SEC,VAR_0
+do_div,FUNC_2
+lpc18xx_pwm_writel,FUNC_3
+to_lpc18xx_pwm_chip,FUNC_4
+lpc18xx_pwm_config_period,FUNC_5
+chip,VAR_1
+period_ns,VAR_2
+lpc18xx_pwm,VAR_3
+val,VAR_4

@@ -1,0 +1,14 @@
+AFS_FS_I,FUNC_0
+ClearPagePrivate,FUNC_1
+PagePrivate,FUNC_2
+_enter,FUNC_3
+_leave,FUNC_4
+afs_put_writeback,FUNC_5
+fscache_maybe_release_page,FUNC_6
+page_private,FUNC_7
+set_page_private,FUNC_8
+afs_releasepage,FUNC_9
+page,VAR_0
+gfp_flags,VAR_1
+wb,VAR_2
+vnode,VAR_3

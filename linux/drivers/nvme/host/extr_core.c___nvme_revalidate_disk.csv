@@ -1,0 +1,12 @@
+NVME_NS_DPS_PI_MASK,VAR_0
+NVME_NS_FLBAS_LBA_MASK,VAR_1
+NVME_NS_FLBAS_META_EXT,VAR_2
+blk_queue_stack_limits,FUNC_0
+le16_to_cpu,FUNC_1
+nvme_set_chunk_size,FUNC_2
+nvme_update_disk_info,FUNC_3
+revalidate_disk,FUNC_4
+__nvme_revalidate_disk,FUNC_5
+disk,VAR_3
+id,VAR_4
+ns,VAR_5

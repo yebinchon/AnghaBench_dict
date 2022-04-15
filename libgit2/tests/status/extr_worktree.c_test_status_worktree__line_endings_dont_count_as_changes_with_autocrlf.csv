@@ -1,0 +1,10 @@
+GIT_STATUS_WT_MODIFIED,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_rewritefile,FUNC_2
+cl_git_sandbox_init,FUNC_3
+cl_repo_set_bool,FUNC_4
+git_status_file,FUNC_5
+test_status_worktree__line_endings_dont_count_as_changes_with_autocrlf,FUNC_6
+repo,VAR_1
+status,VAR_2

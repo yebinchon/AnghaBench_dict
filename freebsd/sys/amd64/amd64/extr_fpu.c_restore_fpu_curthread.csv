@@ -1,0 +1,17 @@
+PCB_FPUINITDONE,VAR_0
+PCB_USERFPUINITDONE,VAR_1
+PCB_USER_FPU,FUNC_0
+PCPU_SET,FUNC_1
+__INITIAL_FPUCW__,VAR_2
+bcopy,FUNC_2
+cpu_max_ext_state_size,VAR_3
+fldcw,FUNC_3
+fpcurthread,VAR_4
+fpu_clean_state,FUNC_4
+fpu_initialstate,VAR_5
+fpurestore,FUNC_5
+set_pcb_flags,FUNC_6
+stop_emulating,FUNC_7
+restore_fpu_curthread,FUNC_8
+td,VAR_6
+pcb,VAR_7

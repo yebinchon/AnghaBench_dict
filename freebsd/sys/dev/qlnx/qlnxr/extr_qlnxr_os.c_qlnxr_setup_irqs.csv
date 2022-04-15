@@ -1,0 +1,16 @@
+INTR_MPSAFE,VAR_0
+INTR_TYPE_NET,VAR_1
+QL_DPRINT11,FUNC_0
+QL_DPRINT12,FUNC_1
+RF_ACTIVE,VAR_2
+RF_SHAREABLE,VAR_3
+SYS_RES_IRQ,VAR_4
+bus_alloc_resource_any,FUNC_2
+bus_setup_intr,FUNC_3
+qlnxr_intr,VAR_5
+qlnxr_release_irqs,FUNC_4
+qlnxr_setup_irqs,FUNC_5
+dev,VAR_6
+start_irq_rid,VAR_7
+i,VAR_8
+ha,VAR_9

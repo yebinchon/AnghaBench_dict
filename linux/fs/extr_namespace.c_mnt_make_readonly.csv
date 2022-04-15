@@ -1,0 +1,11 @@
+EBUSY,VAR_0
+MNT_READONLY,VAR_1
+MNT_WRITE_HOLD,VAR_2
+lock_mount_hash,FUNC_0
+mnt_get_writers,FUNC_1
+smp_mb,FUNC_2
+smp_wmb,FUNC_3
+unlock_mount_hash,FUNC_4
+mnt_make_readonly,FUNC_5
+mnt,VAR_3
+ret,VAR_4

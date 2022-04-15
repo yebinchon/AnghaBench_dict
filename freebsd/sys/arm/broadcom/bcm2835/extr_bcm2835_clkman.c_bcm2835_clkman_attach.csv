@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_0
+bus_generic_attach,FUNC_1
+device_get_softc,FUNC_2
+device_get_unit,FUNC_3
+device_printf,FUNC_4
+rman_get_bushandle,FUNC_5
+rman_get_bustag,FUNC_6
+bcm2835_clkman_attach,FUNC_7
+dev,VAR_3
+sc,VAR_4
+rid,VAR_5

@@ -1,0 +1,15 @@
+IORESOURCE_MEM,VAR_0
+csio_hw_free,FUNC_0
+csio_hw_stop,FUNC_1
+csio_lnodes_block_request,FUNC_2
+csio_lnodes_exit,FUNC_3
+csio_lnodes_unblock_request,FUNC_4
+csio_pci_exit,FUNC_5
+pci_get_drvdata,FUNC_6
+pci_select_bars,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+csio_remove_one,FUNC_10
+pdev,VAR_1
+hw,VAR_2
+bars,VAR_3

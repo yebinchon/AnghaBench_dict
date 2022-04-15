@@ -1,0 +1,17 @@
+IEEE80211_TX_STAT_ACK,VAR_0
+REPORTS_TX_ACK_STATUS,VAR_1
+WARN_ON,FUNC_0
+dev_kfree_skb_any,FUNC_1
+ieee80211_hw_check,FUNC_2
+ieee80211_subif_start_xmit,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+tdls_dbg,FUNC_6
+ieee80211_tdls_td_tx_handle,FUNC_7
+local,VAR_2
+sdata,VAR_3
+skb,VAR_4
+flags,VAR_5
+teardown_skb,VAR_6
+orig_teardown_skb,VAR_7
+is_teardown,VAR_8

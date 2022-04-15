@@ -1,0 +1,14 @@
+EXFAT_I,FUNC_0
+WRITE,VAR_0
+blockdev_direct_IO,FUNC_1
+exfat_get_block,VAR_1
+exfat_write_failed,FUNC_2
+iov_iter_count,FUNC_3
+iov_iter_rw,FUNC_4
+exfat_direct_IO,FUNC_5
+iocb,VAR_2
+iter,VAR_3
+inode,VAR_4
+mapping,VAR_5
+ret,VAR_6
+rw,VAR_7

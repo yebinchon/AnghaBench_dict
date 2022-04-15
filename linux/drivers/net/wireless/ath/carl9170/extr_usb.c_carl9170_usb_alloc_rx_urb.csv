@@ -1,0 +1,13 @@
+AR9170_USB_EP_RX,VAR_0
+URB_FREE_BUFFER,VAR_1
+carl9170_usb_rx_complete,VAR_2
+kfree,FUNC_0
+kmalloc,FUNC_1
+usb_alloc_urb,FUNC_2
+usb_fill_bulk_urb,FUNC_3
+usb_rcvbulkpipe,FUNC_4
+carl9170_usb_alloc_rx_urb,FUNC_5
+ar,VAR_3
+gfp,VAR_4
+urb,VAR_5
+buf,VAR_6

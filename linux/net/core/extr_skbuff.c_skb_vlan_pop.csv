@@ -1,0 +1,12 @@
+__skb_vlan_pop,FUNC_0
+__vlan_hwaccel_clear_tag,FUNC_1
+__vlan_hwaccel_put_tag,FUNC_2
+eth_type_vlan,FUNC_3
+likely,FUNC_4
+skb_vlan_tag_present,FUNC_5
+unlikely,FUNC_6
+skb_vlan_pop,FUNC_7
+skb,VAR_0
+vlan_tci,VAR_1
+vlan_proto,VAR_2
+err,VAR_3

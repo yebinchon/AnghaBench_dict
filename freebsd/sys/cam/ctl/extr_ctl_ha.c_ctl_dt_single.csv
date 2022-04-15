@@ -1,0 +1,16 @@
+CTL_HA_CHAN_DATA,VAR_0
+CTL_HA_DT_CMD_READ,VAR_1
+CTL_HA_STATUS_WAIT,VAR_2
+M_WAITOK,VAR_3
+TAILQ_INSERT_TAIL,FUNC_0
+ctl_ha_msg_send,FUNC_1
+ctl_ha_msg_send2,FUNC_2
+ha_softc,VAR_4
+links,VAR_5
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+ctl_dt_single,FUNC_5
+req,VAR_6
+softc,VAR_7
+wire_dt,VAR_8
+status,VAR_9

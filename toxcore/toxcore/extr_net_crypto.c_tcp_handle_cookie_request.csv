@@ -1,0 +1,17 @@
+COOKIE_REQUEST_PLAIN_LENGTH,VAR_0
+COOKIE_RESPONSE_LENGTH,VAR_1
+create_cookie_response,FUNC_0
+crypto_box_BEFORENMBYTES,VAR_2
+crypto_box_PUBLICKEYBYTES,VAR_3
+handle_cookie_request,FUNC_1
+send_packet_tcp_connection,FUNC_2
+tcp_handle_cookie_request,FUNC_3
+c,VAR_4
+connections_number,VAR_5
+packet,VAR_6
+length,VAR_7
+request_plain,VAR_8
+shared_key,VAR_9
+dht_public_key,VAR_10
+data,VAR_11
+ret,VAR_12

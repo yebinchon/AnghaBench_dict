@@ -1,0 +1,11 @@
+__bpf_map_offload_destroy,FUNC_0
+bpf_devs_lock,VAR_0
+down_write,FUNC_1
+kfree,FUNC_2
+map_to_offmap,FUNC_3
+rtnl_lock,FUNC_4
+rtnl_unlock,FUNC_5
+up_write,FUNC_6
+bpf_map_offload_map_free,FUNC_7
+map,VAR_1
+offmap,VAR_2

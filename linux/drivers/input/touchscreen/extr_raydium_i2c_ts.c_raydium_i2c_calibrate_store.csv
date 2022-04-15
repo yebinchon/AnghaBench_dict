@@ -1,0 +1,16 @@
+RAYDIUM_WAIT_READY,VAR_0
+dev_err,FUNC_0
+i2c_get_clientdata,FUNC_1
+mutex_lock_interruptible,FUNC_2
+mutex_unlock,FUNC_3
+raydium_i2c_write_object,FUNC_4
+to_i2c_client,FUNC_5
+raydium_i2c_calibrate_store,FUNC_6
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+client,VAR_5
+ts,VAR_6
+cal_cmd,VAR_7
+error,VAR_8

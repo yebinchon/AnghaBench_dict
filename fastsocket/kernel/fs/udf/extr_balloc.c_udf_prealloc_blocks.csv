@@ -1,0 +1,14 @@
+UDF_PART_FLAG_FREED_BITMAP,VAR_0
+UDF_PART_FLAG_FREED_TABLE,VAR_1
+UDF_PART_FLAG_UNALLOC_BITMAP,VAR_2
+UDF_PART_FLAG_UNALLOC_TABLE,VAR_3
+UDF_SB,FUNC_0
+udf_bitmap_prealloc_blocks,FUNC_1
+udf_table_prealloc_blocks,FUNC_2
+udf_prealloc_blocks,FUNC_3
+sb,VAR_4
+inode,VAR_5
+partition,VAR_6
+first_block,VAR_7
+block_count,VAR_8
+map,VAR_9

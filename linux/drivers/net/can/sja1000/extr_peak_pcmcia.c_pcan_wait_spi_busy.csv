@@ -1,0 +1,12 @@
+EBUSY,VAR_0
+PCC_CSR,VAR_1
+PCC_CSR_SPI_BUSY,VAR_2
+PCC_SPI_MAX_BUSY_WAIT_MS,VAR_3
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_0
+pcan_read_reg,FUNC_1
+schedule,FUNC_2
+time_after,FUNC_3
+pcan_wait_spi_busy,FUNC_4
+card,VAR_5
+timeout,VAR_6

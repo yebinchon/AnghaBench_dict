@@ -1,0 +1,11 @@
+HI_Command,FUNC_0
+HI_RA_RAM_SRV_CMD_RESET,VAR_0
+HI_RA_RAM_SRV_RST_KEY_ACT,VAR_1
+HI_RA_RAM_SRV_RST_KEY__A,VAR_2
+Write16,FUNC_1
+msleep,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+HI_ResetCommand,FUNC_5
+state,VAR_3
+status,VAR_4

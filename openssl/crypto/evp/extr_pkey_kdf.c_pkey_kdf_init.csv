@@ -1,0 +1,12 @@
+EVP_KDF_CTX_new,FUNC_0
+EVP_KDF_fetch,FUNC_1
+EVP_KDF_free,FUNC_2
+OBJ_nid2sn,FUNC_3
+OPENSSL_free,FUNC_4
+OPENSSL_zalloc,FUNC_5
+pkey_kdf_init,FUNC_6
+ctx,VAR_0
+pkctx,VAR_1
+kctx,VAR_2
+kdf_name,VAR_3
+kdf,VAR_4

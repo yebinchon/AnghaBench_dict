@@ -1,0 +1,15 @@
+ICHDRLEN,VAR_0
+IC_BUFFERS_BUSY,VAR_1
+IC_BUFFER_WAITER,VAR_2
+M_DEVBUF,VAR_3
+M_WAITOK,VAR_4
+free,FUNC_0
+malloc,FUNC_1
+mtx_lock,FUNC_2
+mtx_sleep,FUNC_3
+mtx_unlock,FUNC_4
+ic_alloc_buffers,FUNC_5
+sc,VAR_5
+mtu,VAR_6
+obuf,VAR_7
+ifbuf,VAR_8

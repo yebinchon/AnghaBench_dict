@@ -1,0 +1,15 @@
+BGMAC_INT_STATUS,VAR_0
+BGMAC_IS_RX,VAR_1
+BGMAC_IS_TX0,VAR_2
+IRQ_HANDLED,VAR_3
+IRQ_NONE,VAR_4
+bgmac_chip_intrs_off,FUNC_0
+bgmac_read,FUNC_1
+dev_err,FUNC_2
+napi_schedule,FUNC_3
+netdev_priv,FUNC_4
+bgmac_interrupt,FUNC_5
+irq,VAR_5
+dev_id,VAR_6
+bgmac,VAR_7
+int_status,VAR_8

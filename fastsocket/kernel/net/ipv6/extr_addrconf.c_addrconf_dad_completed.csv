@@ -1,0 +1,16 @@
+AC_RS,VAR_0
+IFF_LOOPBACK,VAR_1
+IF_RS_SENT,VAR_2
+IPV6_ADDR_LINKLOCAL,VAR_3
+RTM_NEWADDR,VAR_4
+addrconf_mod_timer,FUNC_0
+in6addr_linklocal_allrouters,VAR_5
+ipv6_accept_ra,FUNC_1
+ipv6_addr_type,FUNC_2
+ipv6_ifa_notify,FUNC_3
+ndisc_send_rs,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+addrconf_dad_completed,FUNC_7
+ifp,VAR_6
+dev,VAR_7

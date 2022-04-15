@@ -1,0 +1,11 @@
+CPU_MODE,VAR_0
+CPU_MODE_HALT,VAR_1
+CPU_STATE,VAR_2
+RX_CPU_BASE,VAR_3
+tg3_pause_cpu,FUNC_0
+tw32,FUNC_1
+tw32_f,FUNC_2
+udelay,FUNC_3
+tg3_rxcpu_pause,FUNC_4
+tp,VAR_4
+rc,VAR_5

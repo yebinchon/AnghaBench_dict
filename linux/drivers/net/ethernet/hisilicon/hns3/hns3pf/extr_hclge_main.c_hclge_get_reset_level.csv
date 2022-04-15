@@ -1,0 +1,15 @@
+HNAE3_FLR_RESET,VAR_0
+HNAE3_FUNC_RESET,VAR_1
+HNAE3_GLOBAL_RESET,VAR_2
+HNAE3_IMP_RESET,VAR_3
+HNAE3_NONE_RESET,VAR_4
+HNAE3_UNKNOWN_RESET,VAR_5
+clear_bit,FUNC_0
+hclge_enable_vector,FUNC_1
+hclge_handle_hw_msix_error,FUNC_2
+test_bit,FUNC_3
+hclge_get_reset_level,FUNC_4
+ae_dev,VAR_6
+addr,VAR_7
+rst_level,VAR_8
+hdev,VAR_9

@@ -1,0 +1,12 @@
+IORESOURCE_ROM_SHADOW,VAR_0
+PCI_ROM_ADDRESS_ENABLE,VAR_1
+PCI_ROM_ADDRESS_MASK,VAR_2
+PCI_ROM_RESOURCE,VAR_3
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+pcibios_resource_to_bus,FUNC_2
+pci_enable_rom,FUNC_3
+pdev,VAR_4
+res,VAR_5
+region,VAR_6
+rom_addr,VAR_7

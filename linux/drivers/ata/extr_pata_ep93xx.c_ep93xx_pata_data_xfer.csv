@@ -1,0 +1,17 @@
+IDECTRL_ADDR_DATA,VAR_0
+READ,VAR_1
+cpu_to_le16,FUNC_0
+ep93xx_pata_read_data,FUNC_1
+ep93xx_pata_write_data,FUNC_2
+le16_to_cpu,FUNC_3
+unlikely,FUNC_4
+ep93xx_pata_data_xfer,FUNC_5
+qc,VAR_2
+buf,VAR_3
+buflen,VAR_4
+rw,VAR_5
+ap,VAR_6
+drv_data,VAR_7
+data,VAR_8
+words,VAR_9
+pad,VAR_10

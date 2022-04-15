@@ -1,0 +1,14 @@
+EAGAIN,VAR_0
+EIO,VAR_1
+H_BUSY,VAR_2
+H_PUT_TERM_CHAR,VAR_3
+H_SUCCESS,VAR_4
+MAX_VIO_PUT_CHARS,VAR_5
+cpu_to_be64,FUNC_0
+plpar_hcall_norets,FUNC_1
+hvc_put_chars,FUNC_2
+vtermno,VAR_6
+buf,VAR_7
+count,VAR_8
+lbuf,VAR_9
+ret,VAR_10

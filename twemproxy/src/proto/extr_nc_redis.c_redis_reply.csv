@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+MSG_REQ_REDIS_AUTH,VAR_0
+NC_ERROR,VAR_1
+NOT_REACHED,FUNC_1
+conn_authenticated,FUNC_2
+msg_append,FUNC_3
+redis_handle_auth_req,FUNC_4
+rsp_auth_required,VAR_2
+rsp_pong,VAR_3
+redis_reply,FUNC_5
+r,VAR_4
+c_conn,VAR_5
+response,VAR_6

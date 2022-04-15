@@ -1,0 +1,13 @@
+SINGLE_DEPTH_NESTING,VAR_0
+btrfs_get_block_group,FUNC_0
+btrfs_put_block_group,FUNC_1
+down_read_nested,FUNC_2
+down_read_trylock,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+up_read,FUNC_6
+btrfs_lock_cluster,FUNC_7
+block_group,VAR_1
+cluster,VAR_2
+delalloc,VAR_3
+used_bg,VAR_4

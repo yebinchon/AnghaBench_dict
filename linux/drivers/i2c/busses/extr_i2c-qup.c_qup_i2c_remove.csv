@@ -1,0 +1,10 @@
+disable_irq,FUNC_0
+dma_release_channel,FUNC_1
+i2c_del_adapter,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_set_suspended,FUNC_5
+qup_i2c_disable_clocks,FUNC_6
+qup_i2c_remove,FUNC_7
+pdev,VAR_0
+qup,VAR_1

@@ -1,0 +1,13 @@
+SDIO,VAR_0
+SDIO_CCCR_BRCM_SEPINT,VAR_1
+SDIO_CCCR_IENx,VAR_2
+brcmf_dbg,FUNC_0
+brcmf_sdiod_func0_wb,FUNC_1
+disable_irq_wake,FUNC_2
+free_irq,FUNC_3
+sdio_claim_host,FUNC_4
+sdio_release_host,FUNC_5
+sdio_release_irq,FUNC_6
+brcmf_sdiod_intr_unregister,FUNC_7
+sdiodev,VAR_3
+pdata,VAR_4

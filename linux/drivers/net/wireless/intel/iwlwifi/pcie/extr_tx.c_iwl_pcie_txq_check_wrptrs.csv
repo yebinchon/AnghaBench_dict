@@ -1,0 +1,10 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+iwl_pcie_txq_inc_wr_ptr,FUNC_1
+spin_lock_bh,FUNC_2
+spin_unlock_bh,FUNC_3
+test_bit,FUNC_4
+iwl_pcie_txq_check_wrptrs,FUNC_5
+trans,VAR_0
+trans_pcie,VAR_1
+i,VAR_2
+txq,VAR_3

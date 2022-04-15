@@ -1,0 +1,17 @@
+DEBUG_LOCKS_WARN_ON,FUNC_0
+MUTEX_FLAGS,VAR_0
+MUTEX_FLAG_HANDOFF,VAR_1
+MUTEX_FLAG_PICKUP,VAR_2
+__owner_flags,FUNC_1
+__owner_task,FUNC_2
+atomic_long_cmpxchg_acquire,FUNC_3
+atomic_long_read,FUNC_4
+current,VAR_3
+likely,FUNC_5
+__mutex_trylock_or_owner,FUNC_6
+lock,VAR_4
+owner,VAR_5
+curr,VAR_6
+old,VAR_7
+flags,VAR_8
+task,VAR_9

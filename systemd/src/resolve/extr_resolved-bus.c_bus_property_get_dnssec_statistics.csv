@@ -1,0 +1,15 @@
+DNSSEC_BOGUS,VAR_0
+DNSSEC_INDETERMINATE,VAR_1
+DNSSEC_INSECURE,VAR_2
+DNSSEC_SECURE,VAR_3
+assert,FUNC_0
+sd_bus_message_append,FUNC_1
+bus_property_get_dnssec_statistics,FUNC_2
+bus,VAR_4
+path,VAR_5
+interface,VAR_6
+property,VAR_7
+reply,VAR_8
+userdata,VAR_9
+error,VAR_10
+m,VAR_11

@@ -1,0 +1,17 @@
+I_DIRTY_SYNC,VAR_0
+I_DIRTY_TIME,VAR_1
+MSDOS_ROOT_INO,VAR_2
+SB_LAZYTIME,VAR_3
+S_ATIME,VAR_4
+S_CTIME,VAR_5
+S_MTIME,VAR_6
+S_VERSION,VAR_7
+__mark_inode_dirty,FUNC_0
+fat_truncate_time,FUNC_1
+inode_maybe_inc_iversion,FUNC_2
+fat_update_time,FUNC_3
+inode,VAR_8
+now,VAR_9
+flags,VAR_10
+iflags,VAR_11
+dirty,VAR_12

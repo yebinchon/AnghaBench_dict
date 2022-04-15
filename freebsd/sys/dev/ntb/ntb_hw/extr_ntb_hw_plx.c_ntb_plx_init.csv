@@ -1,0 +1,17 @@
+NTX_READ,FUNC_0
+NTX_WRITE,FUNC_1
+PCIM_CMD_BUSMASTEREN,VAR_0
+PCIM_CMD_MEMEN,VAR_1
+PCIR_BAR,FUNC_2
+PCIR_COMMAND,VAR_2
+PNTX_WRITE,FUNC_3
+device_get_softc,FUNC_4
+ntb_plx_mw_set_trans_internal,FUNC_5
+pci_enable_busmaster,FUNC_6
+ntb_plx_init,FUNC_7
+dev,VAR_3
+sc,VAR_4
+mw,VAR_5
+val64,VAR_6
+i,VAR_7
+val,VAR_8

@@ -1,0 +1,9 @@
+ISCSI_DBG_TRANS_SESSION,FUNC_0
+iscsi_dev_to_session,FUNC_1
+iscsi_session_to_shost,FUNC_2
+kfree,FUNC_3
+scsi_host_put,FUNC_4
+iscsi_session_release,FUNC_5
+dev,VAR_0
+session,VAR_1
+shost,VAR_2

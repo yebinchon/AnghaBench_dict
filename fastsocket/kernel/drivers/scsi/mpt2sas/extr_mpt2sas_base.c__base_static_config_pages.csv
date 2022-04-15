@@ -1,0 +1,17 @@
+MPI2_IOCFACTS_CAPABILITY_TASK_SET_FULL_HANDLING,VAR_0
+MPI2_IOUNITPAGE1_DISABLE_TASK_SET_FULL_HANDLING,VAR_1
+_base_display_ioc_capabilities,FUNC_0
+cpu_to_le32,FUNC_1
+le32_to_cpu,FUNC_2
+mpt2sas_config_get_bios_pg2,FUNC_3
+mpt2sas_config_get_bios_pg3,FUNC_4
+mpt2sas_config_get_ioc_pg8,FUNC_5
+mpt2sas_config_get_iounit_pg0,FUNC_6
+mpt2sas_config_get_iounit_pg1,FUNC_7
+mpt2sas_config_get_manufacturing_pg0,FUNC_8
+mpt2sas_config_get_manufacturing_pg10,FUNC_9
+mpt2sas_config_set_iounit_pg1,FUNC_10
+_base_static_config_pages,FUNC_11
+ioc,VAR_2
+mpi_reply,VAR_3
+iounit_pg1_flags,VAR_4

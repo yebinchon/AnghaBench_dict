@@ -1,0 +1,14 @@
+BPF_F_ALLOW_MULTI,VAR_0
+bpf_object__find_program_by_title,FUNC_0
+bpf_prog_attach,FUNC_1
+bpf_program__fd,FUNC_2
+libbpf_prog_type_by_name,FUNC_3
+log_err,FUNC_4
+prog_attach,FUNC_5
+obj,VAR_1
+cgroup_fd,VAR_2
+title,VAR_3
+attach_type,VAR_4
+prog_type,VAR_5
+prog,VAR_6
+err,VAR_7

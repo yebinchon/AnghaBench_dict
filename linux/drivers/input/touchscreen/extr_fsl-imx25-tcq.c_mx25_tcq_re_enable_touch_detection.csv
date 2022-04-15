@@ -1,0 +1,15 @@
+MX25_ADCQ_CFG_IGS,VAR_0
+MX25_ADCQ_MR,VAR_1
+MX25_ADCQ_MR_PD_IRQ,VAR_2
+MX25_ADCQ_SR,VAR_3
+MX25_ADCQ_SR_PD,VAR_4
+MX25_PRECHARGE_VALUE,VAR_5
+MX25_TOUCH_DETECT_VALUE,VAR_6
+MX25_TSC_TICR,VAR_7
+mx25_tcq_enable_touch_irq,FUNC_0
+mx25_tcq_fifo_reset,FUNC_1
+mx25_tcq_force_queue_stop,FUNC_2
+regmap_update_bits,FUNC_3
+regmap_write,FUNC_4
+mx25_tcq_re_enable_touch_detection,FUNC_5
+priv,VAR_8

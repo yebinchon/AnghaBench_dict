@@ -1,0 +1,15 @@
+KVM_DEV_TYPE_XICS,VAR_0
+KVM_DEV_TYPE_XIVE,VAR_1
+THIS_MODULE,VAR_2
+kvm_init,FUNC_0
+kvm_register_device_ops,FUNC_1
+kvm_xics_ops,VAR_3
+kvm_xive_native_ops,VAR_4
+kvm_xive_ops,VAR_5
+kvmppc_book3s_init_pr,FUNC_2
+kvmppc_xive_init_module,FUNC_3
+kvmppc_xive_native_init_module,FUNC_4
+kvmppc_xive_native_supported,FUNC_5
+xics_on_xive,FUNC_6
+kvmppc_book3s_init,FUNC_7
+r,VAR_6

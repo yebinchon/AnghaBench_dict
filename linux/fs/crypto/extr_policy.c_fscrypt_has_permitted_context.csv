@@ -1,0 +1,13 @@
+IS_ENCRYPTED,FUNC_0
+S_ISDIR,FUNC_1
+S_ISLNK,FUNC_2
+S_ISREG,FUNC_3
+fscrypt_get_encryption_info,FUNC_4
+fscrypt_get_policy,FUNC_5
+fscrypt_policies_equal,FUNC_6
+fscrypt_has_permitted_context,FUNC_7
+parent,VAR_0
+child,VAR_1
+parent_policy,VAR_2
+child_policy,VAR_3
+err,VAR_4

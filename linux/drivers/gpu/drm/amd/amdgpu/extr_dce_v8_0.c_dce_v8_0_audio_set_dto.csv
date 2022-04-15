@@ -1,0 +1,17 @@
+DCCG_AUDIO_DTO_SOURCE__DCCG_AUDIO_DTO0_SOURCE_SEL__SHIFT,VAR_0
+WREG32,FUNC_0
+mmDCCG_AUDIO_DTO0_MODULE,VAR_1
+mmDCCG_AUDIO_DTO0_PHASE,VAR_2
+mmDCCG_AUDIO_DTO_SOURCE,VAR_3
+to_amdgpu_crtc,FUNC_1
+to_amdgpu_encoder,FUNC_2
+dce_v8_0_audio_set_dto,FUNC_3
+encoder,VAR_4
+clock,VAR_5
+dev,VAR_6
+adev,VAR_7
+amdgpu_encoder,VAR_8
+dig,VAR_9
+amdgpu_crtc,VAR_10
+dto_phase,VAR_11
+dto_modulo,VAR_12

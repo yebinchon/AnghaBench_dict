@@ -1,0 +1,15 @@
+IRQF_EARLY_RESUME,VAR_0
+IRQF_FORCE_RESUME,VAR_1
+IRQF_NO_SUSPEND,VAR_2
+bind_ipi_to_irq,FUNC_0
+request_irq,FUNC_1
+unbind_from_irq,FUNC_2
+bind_ipi_to_irqhandler,FUNC_3
+ipi,VAR_3
+cpu,VAR_4
+handler,VAR_5
+irqflags,VAR_6
+devname,VAR_7
+dev_id,VAR_8
+irq,VAR_9
+retval,VAR_10

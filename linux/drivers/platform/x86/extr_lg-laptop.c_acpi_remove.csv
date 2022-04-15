@@ -1,0 +1,15 @@
+INIT_KBD_LED,VAR_0
+INIT_TPAD_LED,VAR_1
+dev_attribute_group,VAR_2
+inited,VAR_3
+kbd_backlight,VAR_4
+led_classdev_unregister,FUNC_0
+pf_device,VAR_5
+pf_driver,VAR_6
+platform_device_unregister,FUNC_1
+platform_driver_unregister,FUNC_2
+sysfs_remove_group,FUNC_3
+tpad_led,VAR_7
+wmi_input_destroy,FUNC_4
+acpi_remove,FUNC_5
+device,VAR_8

@@ -1,0 +1,17 @@
+FALSE,VAR_0
+ifnet_get_ifvlan_retained,FUNC_0
+ifnet_ifvlan_vlan_parent_ok,FUNC_1
+ifvlan_get_vlan_parent_retained,FUNC_2
+ifvlan_release,FUNC_3
+multicast_list_program,FUNC_4
+vlan_lock,FUNC_5
+vlan_parent_release,FUNC_6
+vlan_parent_signal,FUNC_7
+vlan_parent_wait,FUNC_8
+vlan_unlock,FUNC_9
+vlan_setmulti,FUNC_10
+ifp,VAR_1
+error,VAR_2
+ifv,VAR_3
+p,VAR_4
+vlp,VAR_5

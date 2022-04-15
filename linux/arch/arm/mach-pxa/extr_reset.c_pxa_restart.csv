@@ -1,0 +1,10 @@
+RESET_STATUS_ALL,VAR_0
+clear_reset_status,FUNC_0
+do_gpio_reset,FUNC_1
+do_hw_reset,FUNC_2
+local_fiq_disable,FUNC_3
+local_irq_disable,FUNC_4
+soft_restart,FUNC_5
+pxa_restart,FUNC_6
+mode,VAR_1
+cmd,VAR_2

@@ -1,0 +1,15 @@
+EMPTY_SHA1,VAR_0
+HTTP_TASK_RT_STATE_FINISHED,VAR_1
+HTTP_TASK_STATE_FINISHED,VAR_2
+HTTP_TASK_TYPE_DOWNLOAD,VAR_3
+REPO_PROP_DOWNLOAD_HEAD,VAR_4
+emit_transfer_done_signal,FUNC_0
+http_task_rt_state_to_str,FUNC_1
+http_task_state_to_str,FUNC_2
+seaf,VAR_5
+seaf_message,FUNC_3
+seaf_repo_manager_set_repo_property,FUNC_4
+transition_state,FUNC_5
+task,VAR_6
+state,VAR_7
+rt_state,VAR_8

@@ -1,0 +1,15 @@
+Amd64SetupGdt,FUNC_0
+Amd64SetupIdt,FUNC_1
+GdtIdt,VAR_0
+KGDT64_SYS_TSS,VAR_1
+KSEG0_BASE,VAR_2
+MM_PAGE_SHIFT,VAR_3
+NUM_GDT,VAR_4
+PxeBase,VAR_5
+TRACE,FUNC_2
+TssBasePage,VAR_6
+__ltr,FUNC_3
+__writecr3,FUNC_4
+__writeeflags,FUNC_5
+_disable,FUNC_6
+WinLdrSetProcessorContext,FUNC_7

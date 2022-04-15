@@ -1,0 +1,15 @@
+GETSTRUCT,FUNC_0
+SCAN_CONTINUE,VAR_0
+ts_bgw_job_stat_delete,FUNC_1
+ts_bgw_policy_chunk_stats_delete_row_only_by_job_id,FUNC_2
+ts_bgw_policy_drop_chunks_delete_row_only_by_job_id,FUNC_3
+ts_bgw_policy_reorder_delete_row_only_by_job_id,FUNC_4
+ts_catalog_database_info_become_owner,FUNC_5
+ts_catalog_database_info_get,FUNC_6
+ts_catalog_delete,FUNC_7
+ts_catalog_restore_user,FUNC_8
+bgw_job_tuple_delete,FUNC_9
+ti,VAR_1
+data,VAR_2
+sec_ctx,VAR_3
+job_id,VAR_4

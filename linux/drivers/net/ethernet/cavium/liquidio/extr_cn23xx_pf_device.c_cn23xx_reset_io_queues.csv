@@ -1,0 +1,17 @@
+CN23XX_PKT_INPUT_CTL_QUIET,VAR_0
+CN23XX_PKT_INPUT_CTL_RST,VAR_1
+CN23XX_SLI_IQ_PKT_CONTROL64,FUNC_0
+READ_ONCE,FUNC_1
+WRITE_ONCE,FUNC_2
+dev_err,FUNC_3
+octeon_read_csr64,FUNC_4
+octeon_write_csr64,FUNC_5
+cn23xx_reset_io_queues,FUNC_6
+oct,VAR_2
+ret_val,VAR_3
+d64,VAR_4
+q_no,VAR_5
+srn,VAR_6
+ern,VAR_7
+loop,VAR_8
+reg_val,VAR_9

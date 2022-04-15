@@ -1,0 +1,12 @@
+BLK_BOUNCE_ANY,VAR_0
+HZ,VAR_1
+MSG_SIMPLE_TAG,VAR_2
+PAGE_SIZE,VAR_3
+STORVSC_MAX_IO_REQUESTS,VAR_4
+blk_queue_bounce_limit,FUNC_0
+blk_queue_max_segment_size,FUNC_1
+blk_queue_rq_timeout,FUNC_2
+scsi_adjust_queue_depth,FUNC_3
+storvsc_timeout,VAR_5
+storvsc_device_configure,FUNC_4
+sdevice,VAR_6

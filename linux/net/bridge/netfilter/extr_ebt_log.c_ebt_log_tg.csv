@@ -1,0 +1,16 @@
+EBT_CONTINUE,VAR_0
+EBT_LOG_NFLOG,VAR_1
+NFPROTO_BRIDGE,VAR_2
+NF_LOG_TYPE_LOG,VAR_3
+ebt_log_packet,FUNC_0
+nf_log_packet,FUNC_1
+xt_hooknum,FUNC_2
+xt_in,FUNC_3
+xt_net,FUNC_4
+xt_out,FUNC_5
+ebt_log_tg,FUNC_6
+skb,VAR_4
+par,VAR_5
+info,VAR_6
+li,VAR_7
+net,VAR_8

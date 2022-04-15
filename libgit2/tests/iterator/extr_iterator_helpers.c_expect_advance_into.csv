@@ -1,0 +1,13 @@
+GIT_ITEROVER,VAR_0
+S_ISDIR,FUNC_0
+cl_assert,FUNC_1
+cl_assert_equal_s,FUNC_2
+cl_git_pass,FUNC_3
+git_iterator_advance,FUNC_4
+git_iterator_advance_into,FUNC_5
+git_iterator_current,FUNC_6
+expect_advance_into,FUNC_7
+i,VAR_1
+expected_path,VAR_2
+entry,VAR_3
+error,VAR_4

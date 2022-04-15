@@ -1,0 +1,13 @@
+IRQ_RAW_STATUS,VAR_0
+IRQ_TIMERINT1,VAR_1
+TICKS2USECS,FUNC_0
+TIMER1_VA_BASE,VAR_2
+TIMER_VALUE,VAR_3
+VA_IC_BASE,VAR_4
+__raw_readl,FUNC_1
+readl,FUNC_2
+timer_reload,VAR_5
+integrator_gettimeoffset,FUNC_3
+ticks1,VAR_6
+ticks2,VAR_7
+status,VAR_8

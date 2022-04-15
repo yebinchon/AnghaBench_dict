@@ -1,0 +1,14 @@
+atomic_sub,FUNC_0
+kcm_rcv_ready,FUNC_1
+kcm_sk,FUNC_2
+sk_mem_uncharge,FUNC_3
+sk_rmem_alloc_get,FUNC_4
+smp_mb__after_atomic,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+kcm_rfree,FUNC_8
+skb,VAR_0
+sk,VAR_1
+kcm,VAR_2
+mux,VAR_3
+len,VAR_4

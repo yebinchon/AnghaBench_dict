@@ -1,0 +1,11 @@
+ARCMSR_OUTBOUND_IOP331_DATA_READ_OK,VAR_0
+ARCMSR_OUTBOUND_IOP331_DATA_WRITE_OK,VAR_1
+CHIP_REG_READ32,FUNC_0
+CHIP_REG_WRITE32,FUNC_1
+HBA_MessageUnit,VAR_2
+arcmsr_iop2drv_data_read_handle,FUNC_2
+arcmsr_iop2drv_data_wrote_handle,FUNC_3
+outbound_doorbell,VAR_3
+arcmsr_hba_doorbell_isr,FUNC_4
+acb,VAR_4
+doorbell_status,VAR_5

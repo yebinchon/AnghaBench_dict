@@ -1,0 +1,13 @@
+NETVSC_SEND_BUFFER_ID,VAR_0
+NVSP_MSG1_TYPE_REVOKE_SEND_BUF,VAR_1
+VM_PKT_DATA_INBAND,VAR_2
+memset,FUNC_0
+netdev_err,FUNC_1
+trace_nvsp_send,FUNC_2
+vmbus_sendpacket,FUNC_3
+netvsc_revoke_send_buf,FUNC_4
+device,VAR_3
+net_device,VAR_4
+ndev,VAR_5
+revoke_packet,VAR_6
+ret,VAR_7

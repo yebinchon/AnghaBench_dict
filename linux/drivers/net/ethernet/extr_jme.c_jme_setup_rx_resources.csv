@@ -1,0 +1,17 @@
+ALIGN,FUNC_0
+ENOMEM,VAR_0
+GFP_ATOMIC,VAR_1
+RING_DESC_ALIGN,VAR_2
+RX_RING_ALLOC_SIZE,FUNC_1
+atomic_set,FUNC_2
+dma_alloc_coherent,FUNC_3
+dma_free_coherent,FUNC_4
+jme_free_rx_resources,FUNC_5
+jme_make_new_rx_buf,FUNC_6
+jme_set_clean_rxdesc,FUNC_7
+kcalloc,FUNC_8
+unlikely,FUNC_9
+jme_setup_rx_resources,FUNC_10
+jme,VAR_3
+i,VAR_4
+rxring,VAR_5

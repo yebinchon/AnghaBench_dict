@@ -1,0 +1,16 @@
+DASD_FLAG_OFFLINE,VAR_0
+DASD_FLAG_SAFE_OFFLINE_RUNNING,VAR_1
+DASD_STATE_NEW,VAR_2
+IS_ERR,FUNC_0
+dasd_delete_device,FUNC_1
+dasd_device_from_cdev,FUNC_2
+dasd_free_block,FUNC_3
+dasd_put_device,FUNC_4
+dasd_remove_sysfs_files,FUNC_5
+dasd_set_target_state,FUNC_6
+test_and_set_bit,FUNC_7
+test_bit,FUNC_8
+dasd_generic_remove,FUNC_9
+cdev,VAR_3
+device,VAR_4
+block,VAR_5

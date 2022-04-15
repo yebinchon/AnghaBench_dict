@@ -1,0 +1,14 @@
+CONNECTION_BAD,VAR_0
+PGRES_COPY_BOTH,VAR_1
+PGRES_COPY_IN,VAR_2
+PGRES_COPY_OUT,VAR_3
+PQclear,FUNC_0
+PQresultStatus,FUNC_1
+PQsendQuery,FUNC_2
+PQstatus,FUNC_3
+libpqrcv_PQgetResult,FUNC_4
+libpqrcv_PQexec,FUNC_5
+streamConn,VAR_4
+query,VAR_5
+lastResult,VAR_6
+result,VAR_7

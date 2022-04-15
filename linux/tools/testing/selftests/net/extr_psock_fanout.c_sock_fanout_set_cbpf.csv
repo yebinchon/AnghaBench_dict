@@ -1,0 +1,15 @@
+BPF_A,VAR_0
+BPF_ABS,VAR_1
+BPF_B,VAR_2
+BPF_LD,VAR_3
+BPF_RET,VAR_4
+BPF_STMT,FUNC_0
+PACKET_FANOUT_DATA,VAR_5
+SOL_PACKET,VAR_6
+exit,FUNC_1
+perror,FUNC_2
+setsockopt,FUNC_3
+sock_fanout_set_cbpf,FUNC_4
+fd,VAR_7
+bpf_filter,VAR_8
+bpf_prog,VAR_9

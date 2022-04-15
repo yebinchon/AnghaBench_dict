@@ -1,0 +1,11 @@
+MSR_GS_BASE,VAR_0
+__KERNEL_PERCPU,VAR_1
+__loadsegment_simple,FUNC_0
+cpu_kernelmode_gs_base,FUNC_1
+fs,VAR_2
+gs,VAR_3
+load_stack_canary_segment,FUNC_2
+loadsegment,FUNC_3
+wrmsrl,FUNC_4
+load_percpu_segment,FUNC_5
+cpu,VAR_4

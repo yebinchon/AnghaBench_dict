@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+PRIV_JAIL_ATTACH,VAR_1
+allprison_lock,VAR_2
+do_jail_attach,FUNC_0
+mtx_unlock,FUNC_1
+prison_find_child,FUNC_2
+priv_check,FUNC_3
+sx_downgrade,FUNC_4
+sx_sunlock,FUNC_5
+sx_xlock,FUNC_6
+sys_jail_attach,FUNC_7
+td,VAR_3
+uap,VAR_4
+pr,VAR_5
+error,VAR_6

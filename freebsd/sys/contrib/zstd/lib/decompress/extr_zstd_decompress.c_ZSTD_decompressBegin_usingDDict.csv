@@ -1,0 +1,13 @@
+DEBUGLOG,FUNC_0
+FORWARD_IF_ERROR,FUNC_1
+ZSTD_DDict_dictContent,FUNC_2
+ZSTD_DDict_dictSize,FUNC_3
+ZSTD_copyDDictParameters,FUNC_4
+ZSTD_decompressBegin,FUNC_5
+assert,FUNC_6
+ZSTD_decompressBegin_usingDDict,FUNC_7
+dctx,VAR_0
+ddict,VAR_1
+dictStart,VAR_2
+dictSize,VAR_3
+dictEnd,VAR_4

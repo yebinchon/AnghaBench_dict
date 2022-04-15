@@ -1,0 +1,17 @@
+IXGBE_READ_REG,FUNC_0
+IXGBE_TXSTMPH,VAR_0
+IXGBE_TXSTMPL,VAR_1
+dev_kfree_skb_any,FUNC_1
+memset,FUNC_2
+ns_to_ktime,FUNC_3
+skb_tstamp_tx,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+timecounter_cyc2time,FUNC_7
+ixgbe_ptp_tx_hwtstamp,FUNC_8
+adapter,VAR_2
+hw,VAR_3
+shhwtstamps,VAR_4
+regval,VAR_5
+ns,VAR_6
+flags,VAR_7

@@ -1,0 +1,14 @@
+EnumDisplayDevicesA,FUNC_0
+GetLastError,FUNC_1
+INVALID_HANDLE_VALUE,VAR_0
+SetLastError,FUNC_2
+SetupDiDestroyDeviceInfoList,FUNC_3
+SetupDiEnumDeviceInfo,FUNC_4
+SetupDiGetClassDevsA,FUNC_5
+ok,FUNC_6
+testSetupDiGetClassDevsA,FUNC_7
+displayguid,VAR_1
+devinfo,VAR_2
+disp,VAR_3
+set,VAR_4
+ret,VAR_5

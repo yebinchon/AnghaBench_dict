@@ -1,0 +1,15 @@
+al_write_transaction,FUNC_0
+lc_committed,FUNC_1
+lc_try_lock_for_transaction,FUNC_2
+lc_unlock,FUNC_3
+rcu_dereference,FUNC_4
+rcu_read_lock,FUNC_5
+rcu_read_unlock,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+wait_event,FUNC_9
+wake_up,FUNC_10
+drbd_al_begin_io_commit,FUNC_11
+device,VAR_0
+locked,VAR_1
+write_al_updates,VAR_2

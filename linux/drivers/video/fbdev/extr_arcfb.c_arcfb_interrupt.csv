@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+KS_CLRINT,VAR_2
+KS_INTACK,VAR_3
+arcfb_waitq,VAR_4
+ks108_readb_ctl2,FUNC_0
+ks108_writeb_mainctl,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+waitqueue_active,FUNC_4
+wake_up,FUNC_5
+arcfb_interrupt,FUNC_6
+vec,VAR_5
+dev_instance,VAR_6
+info,VAR_7
+ctl2status,VAR_8
+par,VAR_9

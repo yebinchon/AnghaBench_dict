@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+NET_IP_ALIGN,VAR_1
+PCI_DMA_FROMDEVICE,VAR_2
+dev_kfree_skb_any,FUNC_0
+netdev_alloc_skb,FUNC_1
+pci_dma_mapping_error,FUNC_2
+pci_map_single,FUNC_3
+skb_reserve,FUNC_4
+qlcnic_alloc_rx_skb,FUNC_5
+adapter,VAR_3
+rds_ring,VAR_4
+buffer,VAR_5
+skb,VAR_6
+dma,VAR_7
+pdev,VAR_8

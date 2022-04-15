@@ -1,0 +1,9 @@
+CPU_BASED_MOV_DR_EXITING,VAR_0
+GUEST_DR7,VAR_1
+KVM_DEBUGREG_WONT_EXIT,VAR_2
+exec_controls_setbit,FUNC_0
+get_debugreg,FUNC_1
+to_vmx,FUNC_2
+vmcs_readl,FUNC_3
+vmx_sync_dirty_debug_regs,FUNC_4
+vcpu,VAR_3

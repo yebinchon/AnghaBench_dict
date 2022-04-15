@@ -1,0 +1,17 @@
+DELAY,FUNC_0
+PNP_CONFIG_CONTROL,VAR_0
+PNP_MAX_CARDS,VAR_1
+PNP_SERIAL_ISOLATION,VAR_2
+PNP_SET_RD_DATA,VAR_3
+PNP_WAKE,VAR_4
+_PNP_ADDRESS,VAR_5
+dump_resdata,FUNC_1
+get_serial,FUNC_2
+logdevs,VAR_6
+outb,FUNC_3
+pnp_write,FUNC_4
+rd_port,VAR_7
+send_Initiation_LFSR,FUNC_5
+isolation_protocol,FUNC_6
+csn,VAR_8
+data,VAR_9

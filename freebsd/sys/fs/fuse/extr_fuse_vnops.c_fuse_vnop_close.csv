@@ -1,0 +1,15 @@
+FN_SIZECHANGE,VAR_0
+IO_NDELAY,VAR_1
+VTOFUD,FUNC_0
+fuse_flush,FUNC_1
+fuse_isdeadfs,FUNC_2
+fuse_vnode_savesize,FUNC_3
+vnode_isdir,FUNC_4
+fuse_vnop_close,FUNC_5
+ap,VAR_2
+vp,VAR_3
+cred,VAR_4
+fflag,VAR_5
+td,VAR_6
+pid,VAR_7
+err,VAR_8

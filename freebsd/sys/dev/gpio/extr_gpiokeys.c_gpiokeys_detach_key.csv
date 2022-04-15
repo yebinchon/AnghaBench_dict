@@ -1,0 +1,12 @@
+GPIOKEY_LOCK,FUNC_0
+GPIOKEY_LOCK_DESTROY,FUNC_1
+GPIOKEY_UNLOCK,FUNC_2
+SYS_RES_IRQ,VAR_0
+bus_release_resource,FUNC_3
+bus_teardown_intr,FUNC_4
+callout_drain,FUNC_5
+callout_pending,FUNC_6
+gpio_pin_release,FUNC_7
+gpiokeys_detach_key,FUNC_8
+sc,VAR_1
+key,VAR_2

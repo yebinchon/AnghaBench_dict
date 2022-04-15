@@ -1,0 +1,15 @@
+LOWPAN_IPHC_TF_00,VAR_0
+LOWPAN_IPHC_TF_01,VAR_1
+LOWPAN_IPHC_TF_10,VAR_2
+LOWPAN_IPHC_TF_11,VAR_3
+lowpan_iphc_get_tc,FUNC_0
+lowpan_iphc_is_flow_lbl_zero,FUNC_1
+lowpan_push_hc_data,FUNC_2
+memcpy,FUNC_3
+pr_debug,FUNC_4
+lowpan_iphc_tf_compress,FUNC_5
+hc_ptr,VAR_4
+hdr,VAR_5
+tc,VAR_6
+tf,VAR_7
+val,VAR_8

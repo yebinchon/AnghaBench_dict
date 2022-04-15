@@ -1,0 +1,12 @@
+GPIO_PORTC,VAR_0
+IRQF_TRIGGER_FALLING,VAR_1
+IRQ_GPIOC,FUNC_0
+free_irq,FUNC_1
+gpio_direction_input,FUNC_2
+gpio_request,FUNC_3
+request_irq,FUNC_4
+pcm970_sdhc2_init,FUNC_5
+dev,VAR_2
+detect_irq,VAR_3
+data,VAR_4
+ret,VAR_5

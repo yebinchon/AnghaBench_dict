@@ -1,0 +1,12 @@
+DMA_COMPLETE,VAR_0
+ETIMEDOUT,VAR_1
+SCIF_NODE_ALIVE_TIMEOUT,VAR_2
+SCIF_REMOTE_FENCE,VAR_3
+dma_async_is_tx_complete,FUNC_0
+wait_event_interruptible_timeout,FUNC_1
+_scif_fence_wait,FUNC_2
+epd,VAR_4
+mark,VAR_5
+ep,VAR_6
+cookie,VAR_7
+err,VAR_8

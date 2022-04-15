@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+REG_SECONDS,VAR_1
+bin2bcd,FUNC_0
+i2c_transfer,FUNC_1
+pcf8523_start_rtc,FUNC_2
+pcf8523_stop_rtc,FUNC_3
+to_i2c_client,FUNC_4
+pcf8523_rtc_set_time,FUNC_5
+dev,VAR_2
+tm,VAR_3
+client,VAR_4
+msg,VAR_5
+regs,VAR_6
+err,VAR_7

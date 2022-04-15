@@ -1,0 +1,10 @@
+invoke_cgi_script,FUNC_0
+loop,VAR_0
+malloc,FUNC_1
+uv_accept,FUNC_2
+uv_close,FUNC_3
+uv_tcp_init,FUNC_4
+on_new_connection,FUNC_5
+server,VAR_1
+status,VAR_2
+client,VAR_3

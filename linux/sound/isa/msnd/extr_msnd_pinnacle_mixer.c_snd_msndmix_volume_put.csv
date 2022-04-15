@@ -1,0 +1,13 @@
+snd_kcontrol_chip,FUNC_0
+snd_msndmix_set,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+snd_msndmix_volume_put,FUNC_4
+kcontrol,VAR_0
+ucontrol,VAR_1
+msnd,VAR_2
+change,VAR_3
+addr,VAR_4
+left,VAR_5
+right,VAR_6
+flags,VAR_7

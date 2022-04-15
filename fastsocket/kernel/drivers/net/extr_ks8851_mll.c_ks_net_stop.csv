@@ -1,0 +1,16 @@
+KS_IER,VAR_0
+KS_ISR,VAR_1
+PMECR_PM_SOFTDOWN,VAR_2
+free_irq,FUNC_0
+ks_disable_qmu,FUNC_1
+ks_info,FUNC_2
+ks_set_powermode,FUNC_3
+ks_wrreg16,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+netdev_priv,FUNC_7
+netif_msg_ifdown,FUNC_8
+netif_stop_queue,FUNC_9
+ks_net_stop,FUNC_10
+netdev,VAR_3
+ks,VAR_4

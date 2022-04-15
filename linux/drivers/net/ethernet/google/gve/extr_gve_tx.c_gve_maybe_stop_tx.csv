@@ -1,0 +1,11 @@
+EBUSY,VAR_0
+gve_can_tx,FUNC_0
+gve_skb_fifo_bytes_required,FUNC_1
+likely,FUNC_2
+netif_tx_start_queue,FUNC_3
+netif_tx_stop_queue,FUNC_4
+smp_mb,FUNC_5
+gve_maybe_stop_tx,FUNC_6
+tx,VAR_1
+skb,VAR_2
+bytes_required,VAR_3

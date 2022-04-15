@@ -1,0 +1,16 @@
+S_ISDIR,FUNC_0
+S_ISREG,FUNC_1
+jctx,FUNC_2
+js_pushboolean,FUNC_3
+js_setproperty,FUNC_4
+js_tostring,FUNC_5
+push_failure,FUNC_6
+push_nums_obj,FUNC_7
+set_last_error,FUNC_8
+stat,FUNC_9
+script_file_info,FUNC_10
+J,VAR_0
+path,VAR_1
+statbuf,VAR_2
+stat_names,VAR_3
+stat_values,VAR_4

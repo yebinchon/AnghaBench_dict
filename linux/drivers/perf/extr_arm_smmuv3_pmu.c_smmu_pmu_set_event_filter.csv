@@ -1,0 +1,12 @@
+SMMU_PMCG_SID_SPAN_SHIFT,VAR_0
+get_event,FUNC_0
+smmu_pmu_set_evtyper,FUNC_1
+smmu_pmu_set_smr,FUNC_2
+to_smmu_pmu,FUNC_3
+smmu_pmu_set_event_filter,FUNC_4
+event,VAR_1
+idx,VAR_2
+span,VAR_3
+sid,VAR_4
+smmu_pmu,VAR_5
+evtyper,VAR_6

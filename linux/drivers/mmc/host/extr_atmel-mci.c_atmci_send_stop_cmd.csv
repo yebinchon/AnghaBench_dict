@@ -1,0 +1,8 @@
+ATMCI_CMDRDY,VAR_0
+ATMCI_IER,VAR_1
+atmci_send_command,FUNC_0
+atmci_writel,FUNC_1
+dev_dbg,FUNC_2
+atmci_send_stop_cmd,FUNC_3
+host,VAR_2
+data,VAR_3

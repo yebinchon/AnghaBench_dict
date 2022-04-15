@@ -1,0 +1,15 @@
+AGP_G4x_GCC1_SIZE_MASK,VAR_0
+AGP_I810_PGTBL_SIZE_1MB,VAR_1
+AGP_I810_PGTBL_SIZE_1_5MB,VAR_2
+AGP_I810_PGTBL_SIZE_2MB,VAR_3
+AGP_I830_GCC1,VAR_4
+ENXIO,VAR_5
+agp_gen5_adjust_pgtbl_size,FUNC_0
+agp_i965_get_gtt_total_entries,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+pci_read_config,FUNC_4
+agp_gen5_get_gtt_total_entries,FUNC_5
+dev,VAR_6
+sc,VAR_7
+gcc1,VAR_8

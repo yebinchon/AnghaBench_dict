@@ -1,0 +1,14 @@
+CRYPTO_EX_INDEX_OPENSSL_CTX,VAR_0
+CRYPTO_THREAD_read_lock,FUNC_0
+CRYPTO_THREAD_unlock,FUNC_1
+CRYPTO_THREAD_write_lock,FUNC_2
+CRYPTO_alloc_ex_data,FUNC_3
+CRYPTO_get_ex_data,FUNC_4
+openssl_ctx_get_concrete,FUNC_5
+openssl_ctx_init_index,FUNC_6
+openssl_ctx_get_data,FUNC_7
+ctx,VAR_1
+index,VAR_2
+meth,VAR_3
+data,VAR_4
+dynidx,VAR_5

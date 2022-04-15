@@ -1,0 +1,11 @@
+ETH_ALEN,VAR_0
+QTN_TLV_ID_RANDOM_MAC_ADDR,VAR_1
+cpu_to_le16,FUNC_0
+memcpy,FUNC_1
+skb_put,FUNC_2
+qtnf_cmd_randmac_tlv_add,FUNC_3
+cmd_skb,VAR_2
+mac_addr,VAR_3
+mac_addr_mask,VAR_4
+randmac,VAR_5
+hdr,VAR_6

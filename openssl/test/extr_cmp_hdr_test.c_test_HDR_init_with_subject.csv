@@ -1,0 +1,16 @@
+CMP_HDR_TEST_FIXTURE,VAR_0
+EXECUTE_TEST,FUNC_0
+OSSL_CMP_CTX_set1_subjectName,FUNC_1
+SETUP_TEST_FIXTURE,FUNC_2
+TEST_ptr,FUNC_3
+TEST_true,FUNC_4
+X509_NAME_ADD,FUNC_5
+X509_NAME_free,FUNC_6
+X509_NAME_new,FUNC_7
+execute_HDR_init_test,VAR_1
+fixture,VAR_2
+result,VAR_3
+set_up,VAR_4
+tear_down,FUNC_8
+test_HDR_init_with_subject,FUNC_9
+subject,VAR_5

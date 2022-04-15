@@ -1,0 +1,10 @@
+SYS_RES_IOPORT,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_deactivate_resource,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_softc,FUNC_3
+mtx_destroy,FUNC_4
+cmx_release_resources,FUNC_5
+dev,VAR_2
+sc,VAR_3

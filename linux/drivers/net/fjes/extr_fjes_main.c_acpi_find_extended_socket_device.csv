@@ -1,0 +1,16 @@
+ACPI_MOTHERBOARD_RESOURCE_HID,VAR_0
+AE_CTRL_TERMINATE,VAR_1
+AE_OK,VAR_2
+acpi_bus_get_device,FUNC_0
+acpi_check_extended_socket_status,FUNC_1
+acpi_device_hid,FUNC_2
+is_extended_socket_device,FUNC_3
+strcmp,FUNC_4
+acpi_find_extended_socket_device,FUNC_5
+obj_handle,VAR_3
+level,VAR_4
+context,VAR_5
+return_value,VAR_6
+device,VAR_7
+found,VAR_8
+result,VAR_9

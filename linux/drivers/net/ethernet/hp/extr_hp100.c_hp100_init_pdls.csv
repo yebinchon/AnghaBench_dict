@@ -1,0 +1,16 @@
+MAX_RINGSIZE,VAR_0
+MAX_RX_PDL,VAR_1
+MAX_TX_PDL,VAR_2
+TRACE,VAR_3
+hp100_init_rxpdl,FUNC_0
+hp100_init_txpdl,FUNC_1
+hp100_outw,FUNC_2
+memset,FUNC_3
+netdev_priv,FUNC_4
+printk,FUNC_5
+hp100_init_pdls,FUNC_6
+dev,VAR_4
+lp,VAR_5
+ringptr,VAR_6
+pageptr,VAR_7
+i,VAR_8

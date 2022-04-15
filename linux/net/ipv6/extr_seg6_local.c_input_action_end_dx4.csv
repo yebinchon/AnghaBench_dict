@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ETH_P_IP,VAR_1
+IPPROTO_IPIP,VAR_2
+decap_and_validate,FUNC_0
+dst_input,FUNC_1
+htons,FUNC_2
+ip_hdr,FUNC_3
+ip_route_input,FUNC_4
+kfree_skb,FUNC_5
+pskb_may_pull,FUNC_6
+skb_dst_drop,FUNC_7
+input_action_end_dx4,FUNC_8
+skb,VAR_3
+slwt,VAR_4
+iph,VAR_5
+nhaddr,VAR_6
+err,VAR_7

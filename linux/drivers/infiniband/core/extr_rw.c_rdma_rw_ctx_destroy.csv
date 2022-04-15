@@ -1,0 +1,15 @@
+BUG,FUNC_0
+ib_dma_unmap_sg,FUNC_1
+ib_mr_pool_put,FUNC_2
+is_pci_p2pdma_page,FUNC_3
+kfree,FUNC_4
+pci_p2pdma_unmap_sg,FUNC_5
+sg_page,FUNC_6
+rdma_rw_ctx_destroy,FUNC_7
+ctx,VAR_0
+qp,VAR_1
+port_num,VAR_2
+sg,VAR_3
+sg_cnt,VAR_4
+dir,VAR_5
+i,VAR_6

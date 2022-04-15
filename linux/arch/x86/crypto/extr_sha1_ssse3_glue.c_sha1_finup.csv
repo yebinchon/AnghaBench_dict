@@ -1,0 +1,13 @@
+crypto_sha1_finup,FUNC_0
+crypto_simd_usable,FUNC_1
+kernel_fpu_begin,FUNC_2
+kernel_fpu_end,FUNC_3
+sha1_base_do_finalize,FUNC_4
+sha1_base_do_update,FUNC_5
+sha1_base_finish,FUNC_6
+sha1_finup,FUNC_7
+desc,VAR_0
+data,VAR_1
+len,VAR_2
+out,VAR_3
+sha1_xform,VAR_4

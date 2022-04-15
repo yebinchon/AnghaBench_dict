@@ -1,0 +1,12 @@
+ff_cbs_fragment_reset,FUNC_0
+vaapi_encode_h264_add_nal,FUNC_1
+vaapi_encode_h264_write_access_unit,FUNC_2
+vaapi_encode_h264_write_slice_header,FUNC_3
+avctx,VAR_0
+pic,VAR_1
+slice,VAR_2
+data,VAR_3
+data_len,VAR_4
+priv,VAR_5
+au,VAR_6
+err,VAR_7

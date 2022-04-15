@@ -1,0 +1,17 @@
+BEACON_INTERVAL,VAR_0
+BEACON_INTERVAL_MASK,VAR_1
+BSSID,VAR_2
+EPROM_CMD_CONFIG,VAR_3
+EPROM_CMD_NORMAL,VAR_4
+ieee80211_priv,FUNC_0
+read_nic_dword,FUNC_1
+rtl8180_set_chan,FUNC_2
+rtl8180_set_mode,FUNC_3
+rtl8180_update_msr,FUNC_4
+write_nic_dword,FUNC_5
+write_nic_word,FUNC_6
+rtl8180_link_change,FUNC_7
+dev,VAR_5
+priv,VAR_6
+beacon_interval,VAR_7
+net,VAR_8

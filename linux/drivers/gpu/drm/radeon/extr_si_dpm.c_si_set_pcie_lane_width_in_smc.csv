@@ -1,0 +1,13 @@
+ATOM_PPLIB_PCIE_LINK_WIDTH_MASK,VAR_0
+ATOM_PPLIB_PCIE_LINK_WIDTH_SHIFT,VAR_1
+SI_SMC_SOFT_REGISTER_non_ulv_pcie_link_width,VAR_2
+radeon_get_pcie_lanes,FUNC_0
+radeon_set_pcie_lanes,FUNC_1
+si_write_smc_soft_register,FUNC_2
+si_set_pcie_lane_width_in_smc,FUNC_3
+rdev,VAR_3
+radeon_new_state,VAR_4
+radeon_current_state,VAR_5
+lane_width,VAR_6
+new_lane_width,VAR_7
+current_lane_width,VAR_8

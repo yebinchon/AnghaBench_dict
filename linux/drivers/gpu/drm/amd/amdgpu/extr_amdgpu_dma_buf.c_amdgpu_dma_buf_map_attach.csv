@@ -1,0 +1,17 @@
+AMDGPU_GEM_DOMAIN_GTT,VAR_0
+__dma_resv_make_exclusive,FUNC_0
+amdgpu_bo_pin,FUNC_1
+amdgpu_bo_reserve,FUNC_2
+amdgpu_bo_unreserve,FUNC_3
+amdgpu_ttm_adev,FUNC_4
+drm_gem_map_attach,FUNC_5
+drm_gem_map_detach,FUNC_6
+gem_to_amdgpu_bo,FUNC_7
+unlikely,FUNC_8
+amdgpu_dma_buf_map_attach,FUNC_9
+dma_buf,VAR_1
+attach,VAR_2
+obj,VAR_3
+bo,VAR_4
+adev,VAR_5
+r,VAR_6

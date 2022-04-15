@@ -1,0 +1,9 @@
+cl_assert_equal_i,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_sandbox_init,FUNC_3
+g_repo,VAR_0
+git_futils_mkdir_r,FUNC_4
+git_ignore_path_is_ignored,FUNC_5
+test_ignore_status__negate_starstar,FUNC_6
+ignored,VAR_1

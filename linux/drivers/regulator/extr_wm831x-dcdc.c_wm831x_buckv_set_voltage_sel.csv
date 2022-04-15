@@ -1,0 +1,16 @@
+WM831X_DC1_DVS_VSEL_MASK,VAR_0
+WM831X_DC1_ON_VSEL_MASK,VAR_1
+WM831X_DCDC_DVS_CONTROL,VAR_2
+WM831X_DCDC_ON_CONFIG,VAR_3
+dev_warn,FUNC_0
+rdev_get_drvdata,FUNC_1
+wm831x_buckv_set_dvs,FUNC_2
+wm831x_set_bits,FUNC_3
+wm831x_buckv_set_voltage_sel,FUNC_4
+rdev,VAR_4
+vsel,VAR_5
+dcdc,VAR_6
+wm831x,VAR_7
+on_reg,VAR_8
+dvs_reg,VAR_9
+ret,VAR_10

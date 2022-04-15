@@ -1,0 +1,17 @@
+CBCP_ADDR_PSTN,VAR_0
+CBCP_NONUM,VAR_1
+CBCP_RESPONSE,VAR_2
+CBCP_RESPSENT,VAR_3
+LogCBCP,VAR_4
+cbcp_NewPhase,FUNC_0
+cbcp_Output,FUNC_1
+cbcp_StartTimer,FUNC_2
+cbcp_data_Show,FUNC_3
+cbcpstate,FUNC_4
+log_Printf,FUNC_5
+strlen,FUNC_6
+strncpy,FUNC_7
+cbcp_SendResponse,FUNC_8
+cbcp,VAR_5
+data,VAR_6
+addr,VAR_7

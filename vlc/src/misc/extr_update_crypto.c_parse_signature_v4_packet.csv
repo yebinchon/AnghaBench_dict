@@ -1,0 +1,17 @@
+GCRY_PK_DSA,VAR_0
+GCRY_PK_RSA,VAR_1
+ISSUER_SUBPACKET,VAR_2
+U32_AT,FUNC_0
+malloc,FUNC_1
+memcpy,FUNC_2
+scalar_number,FUNC_3
+parse_signature_v4_packet,FUNC_4
+p_sig,VAR_3
+p_buf,VAR_4
+i_sig_len,VAR_5
+i_read,VAR_6
+i_hashed_data_len,VAR_7
+i_unhashed_data_len,VAR_8
+p,VAR_9
+max_pos,VAR_10
+i_subpacket_len,VAR_11

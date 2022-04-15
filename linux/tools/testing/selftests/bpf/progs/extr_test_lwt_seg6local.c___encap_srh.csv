@@ -1,0 +1,12 @@
+BPF_DROP,VAR_0
+BPF_REDIRECT,VAR_1
+bpf_cpu_to_be64,FUNC_0
+bpf_lwt_push_encap,FUNC_1
+__encap_srh,FUNC_2
+skb,VAR_2
+hi,VAR_3
+seg,VAR_4
+srh,VAR_5
+srh_buf,VAR_6
+err,VAR_7
+lo,VAR_8

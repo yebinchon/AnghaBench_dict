@@ -1,0 +1,12 @@
+CFGPDELSTATUS_LOCK,VAR_0
+FE_DEBUG,VAR_1
+STB0899_CFGPDELSTATUS1,VAR_2
+STB0899_GETFIELD,FUNC_0
+dprintk,FUNC_1
+stb0899_read_reg,FUNC_2
+stb0899_dvbs2_get_data_lock,FUNC_3
+state,VAR_3
+timeout,VAR_4
+time,VAR_5
+lock,VAR_6
+reg,VAR_7

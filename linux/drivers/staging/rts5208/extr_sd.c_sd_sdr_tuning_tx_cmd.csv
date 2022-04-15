@@ -1,0 +1,17 @@
+SD_CFG3,VAR_0
+SD_RSP_80CLK_TIMEOUT_EN,VAR_1
+SD_RSP_TIMEOUT,VAR_2
+SD_RSP_TYPE_R1,VAR_3
+SEND_STATUS,VAR_4
+STATUS_FAIL,VAR_5
+STATUS_SUCCESS,VAR_6
+TUNE_TX,VAR_7
+rtsx_write_register,FUNC_0
+sd_change_phase,FUNC_1
+sd_check_err_code,FUNC_2
+sd_send_cmd_get_rsp,FUNC_3
+sd_sdr_tuning_tx_cmd,FUNC_4
+chip,VAR_8
+sample_point,VAR_9
+sd_card,VAR_10
+retval,VAR_11

@@ -1,0 +1,16 @@
+DFLAG_SEEKABLE,VAR_0
+EINVAL,VAR_1
+ESPIPE,VAR_2
+FOF_OFFSET,VAR_3
+VCHR,VAR_4
+cap_pwrite_rights,VAR_5
+dofilewrite,FUNC_0
+fdrop,FUNC_1
+fget_write,FUNC_2
+kern_pwritev,FUNC_3
+td,VAR_6
+fd,VAR_7
+auio,VAR_8
+offset,VAR_9
+fp,VAR_10
+error,VAR_11

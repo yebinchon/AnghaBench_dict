@@ -1,0 +1,17 @@
+AMDGPU_GEM_DOMAIN_VRAM,VAR_0
+DRM_ERROR,FUNC_0
+amdgpu_bo_placement_from_domain,FUNC_1
+amdgpu_cs_find_mapping,FUNC_2
+amdgpu_get_ib_value,FUNC_3
+amdgpu_uvd_force_into_uvd_segment,FUNC_4
+amdgpu_uvd_get_addr_from_ctx,FUNC_5
+ttm_bo_validate,FUNC_6
+amdgpu_uvd_cs_pass1,FUNC_7
+ctx,VAR_1
+tctx,VAR_2
+mapping,VAR_3
+bo,VAR_4
+cmd,VAR_5
+addr,VAR_6
+r,VAR_7
+domain,VAR_8

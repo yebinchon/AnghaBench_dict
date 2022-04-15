@@ -1,0 +1,15 @@
+CISS_COMMAND_ABORT_NOTIFY,VAR_0
+CISS_FLAG_NOTIFY_OK,VAR_1
+EIO,VAR_2
+ciss_get_bmic_request,FUNC_0
+ciss_name_command_status,FUNC_1
+ciss_printf,FUNC_2
+ciss_release_request,FUNC_3
+ciss_report_request,FUNC_4
+ciss_synch_request,FUNC_5
+debug_called,FUNC_6
+ciss_notify_abort_bmic,FUNC_7
+sc,VAR_3
+cr,VAR_4
+error,VAR_5
+command_status,VAR_6

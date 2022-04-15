@@ -1,0 +1,17 @@
+BIO_FLAGS_MEM_RDONLY,VAR_0
+BIO_clear_flags,FUNC_0
+BIO_free,FUNC_1
+BIO_new,FUNC_2
+BIO_puts,FUNC_3
+BIO_read,FUNC_4
+BIO_reset,FUNC_5
+BIO_s_mem,FUNC_6
+BIO_set_flags,FUNC_7
+TEST_int_eq,FUNC_8
+TEST_int_gt,FUNC_9
+TEST_mem_eq,FUNC_10
+TEST_ptr,FUNC_11
+test_bio_rdwr_rdonly,FUNC_12
+ok,VAR_1
+bio,VAR_2
+data,VAR_3

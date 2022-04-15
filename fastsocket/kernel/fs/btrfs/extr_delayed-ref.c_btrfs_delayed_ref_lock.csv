@@ -1,0 +1,13 @@
+EAGAIN,VAR_0
+assert_spin_locked,FUNC_0
+atomic_inc,FUNC_1
+btrfs_put_delayed_ref,FUNC_2
+mutex_lock,FUNC_3
+mutex_trylock,FUNC_4
+mutex_unlock,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+btrfs_delayed_ref_lock,FUNC_8
+trans,VAR_1
+head,VAR_2
+delayed_refs,VAR_3

@@ -1,0 +1,11 @@
+MLX5E_PARAMS_DEFAULT_LRO_WQE_SZ,VAR_0
+MLX5_SET,FUNC_0
+MLX5_TIRC_LRO_ENABLE_MASK_IPV4_LRO,VAR_1
+MLX5_TIRC_LRO_ENABLE_MASK_IPV6_LRO,VAR_2
+ROUGH_MAX_L2_L3_HDR_SZ,VAR_3
+lro_enable_mask,VAR_4
+lro_max_ip_payload_size,VAR_5
+lro_timeout_period_usecs,VAR_6
+mlx5e_build_tir_ctx_lro,FUNC_1
+params,VAR_7
+tirc,VAR_8

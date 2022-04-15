@@ -1,0 +1,13 @@
+__sclp_req_queue_find_next_timeout,FUNC_0
+__sclp_req_queue_remove_expired_req,FUNC_1
+mod_timer,FUNC_2
+sclp_lock,VAR_0
+sclp_queue_timer,VAR_1
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stub1,FUNC_5
+sclp_req_queue_timeout,FUNC_6
+unused,VAR_2
+flags,VAR_3
+expires_next,VAR_4
+req,VAR_5

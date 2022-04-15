@@ -1,0 +1,12 @@
+KVM_MAX_VCPUS,VAR_0
+KVM_S390_BSCA_CPU_SLOTS,VAR_1
+KVM_S390_ESCA_CPU_SLOTS,VAR_2
+kvm_s390_use_sca_entries,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+sca_switch_to_extended,FUNC_3
+sclp,VAR_3
+sca_can_add_vcpu,FUNC_4
+kvm,VAR_4
+id,VAR_5
+rc,VAR_6

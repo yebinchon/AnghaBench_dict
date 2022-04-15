@@ -1,0 +1,14 @@
+BCM_PWM_CLKSRC,VAR_0
+DELAY,FUNC_0
+R_CMCLK,FUNC_1
+W_CMCLK,FUNC_2
+W_CMDIV,FUNC_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+bcm2835_clkman_set_frequency,FUNC_6
+dev,VAR_1
+unit,VAR_2
+hz,VAR_3
+sc,VAR_4
+i,VAR_5
+u,VAR_6

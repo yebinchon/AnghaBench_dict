@@ -1,0 +1,10 @@
+BMCR_RESET,VAR_0
+MII_BMCR,VAR_1
+asix_mdio_read,FUNC_0
+asix_mdio_write,FUNC_1
+netdev_err,FUNC_2
+udelay,FUNC_3
+asix_phy_reset,FUNC_4
+dev,VAR_2
+reset_bits,VAR_3
+timeout,VAR_4

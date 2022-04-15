@@ -1,0 +1,13 @@
+lan743x_hardware_cleanup,FUNC_0
+lan743x_netdev_close,FUNC_1
+netdev_priv,FUNC_2
+netif_device_detach,FUNC_3
+netif_running,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_save_state,FUNC_6
+rtnl_lock,FUNC_7
+rtnl_unlock,FUNC_8
+lan743x_pcidev_shutdown,FUNC_9
+pdev,VAR_0
+netdev,VAR_1
+adapter,VAR_2

@@ -1,0 +1,16 @@
+BLOCK_SECTORS,VAR_0
+R5_Wantwrite,VAR_1
+STRIPE_R5C_CACHING,VAR_2
+clear_bit,FUNC_0
+le32_to_cpu,FUNC_1
+r5l_recovery_read_page,FUNC_2
+r5l_ring_add,FUNC_3
+set_bit,FUNC_4
+r5l_recovery_load_parity,FUNC_5
+log,VAR_3
+sh,VAR_4
+ctx,VAR_5
+payload,VAR_6
+log_offset,VAR_7
+mddev,VAR_8
+conf,VAR_9

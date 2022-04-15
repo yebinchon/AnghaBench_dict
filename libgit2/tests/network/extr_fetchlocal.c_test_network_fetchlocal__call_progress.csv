@@ -1,0 +1,17 @@
+GIT_FETCH_OPTIONS_INIT,VAR_0
+cl_assert,FUNC_0
+cl_git_fixture_url,FUNC_1
+cl_git_pass,FUNC_2
+cl_set_cleanup,FUNC_3
+cleanup_local_repo,VAR_1
+git_remote_create_with_fetchspec,FUNC_4
+git_remote_fetch,FUNC_5
+git_remote_free,FUNC_6
+git_repository_free,FUNC_7
+git_repository_init,FUNC_8
+sideband_cb,VAR_2
+test_network_fetchlocal__call_progress,FUNC_9
+repo,VAR_3
+remote,VAR_4
+options,VAR_5
+callcount,VAR_6

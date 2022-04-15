@@ -1,0 +1,12 @@
+dhcp6_address_change,FUNC_0
+sd_dhcp6_client_get_lease,FUNC_1
+sd_dhcp6_lease_get_address,FUNC_2
+sd_dhcp6_lease_reset_address_iter,FUNC_3
+dhcp6_lease_address_acquired,FUNC_4
+client,VAR_0
+link,VAR_1
+r,VAR_2
+lease,VAR_3
+ip6_addr,VAR_4
+lifetime_preferred,VAR_5
+lifetime_valid,VAR_6

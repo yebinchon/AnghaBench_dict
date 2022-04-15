@@ -1,0 +1,17 @@
+KM_SLEEP,VAR_0
+SET_ERROR,FUNC_0
+ZFS_PROP_VOLBLOCKSIZE,VAR_1
+ZFS_PROP_VOLSIZE,VAR_2
+ZVOL_OBJ,VAR_3
+ZVOL_ZAP_OBJ,VAR_4
+dmu_object_info,FUNC_1
+dsl_prop_nvlist_add_uint64,FUNC_2
+kmem_alloc,FUNC_3
+kmem_free,FUNC_4
+zap_lookup,FUNC_5
+zvol_get_stats,FUNC_6
+os,VAR_5
+nv,VAR_6
+error,VAR_7
+doi,VAR_8
+val,VAR_9

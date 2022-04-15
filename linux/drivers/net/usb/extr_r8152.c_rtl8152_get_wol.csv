@@ -1,0 +1,12 @@
+WAKE_ANY,VAR_0
+__rtl_get_wol,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+netdev_priv,FUNC_3
+rtl_can_wakeup,FUNC_4
+usb_autopm_get_interface,FUNC_5
+usb_autopm_put_interface,FUNC_6
+rtl8152_get_wol,FUNC_7
+dev,VAR_1
+wol,VAR_2
+tp,VAR_3

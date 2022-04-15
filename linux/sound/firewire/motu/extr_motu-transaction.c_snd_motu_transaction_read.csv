@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+SND_MOTU_ADDR_BASE,VAR_1
+TCODE_READ_BLOCK_REQUEST,VAR_2
+TCODE_READ_QUADLET_REQUEST,VAR_3
+snd_fw_transaction,FUNC_0
+snd_motu_transaction_read,FUNC_1
+motu,VAR_4
+offset,VAR_5
+reg,VAR_6
+size,VAR_7
+tcode,VAR_8

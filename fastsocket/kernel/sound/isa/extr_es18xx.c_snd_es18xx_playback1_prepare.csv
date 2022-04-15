@@ -1,0 +1,17 @@
+DAC2,VAR_0
+DMA_AUTOINIT,VAR_1
+DMA_MODE_WRITE,VAR_2
+snd_dma_program,FUNC_0
+snd_es18xx_mixer_bits,FUNC_1
+snd_es18xx_mixer_write,FUNC_2
+snd_es18xx_rate_set,FUNC_3
+snd_pcm_format_unsigned,FUNC_4
+snd_pcm_format_width,FUNC_5
+snd_pcm_lib_buffer_bytes,FUNC_6
+snd_pcm_lib_period_bytes,FUNC_7
+snd_es18xx_playback1_prepare,FUNC_8
+chip,VAR_3
+substream,VAR_4
+runtime,VAR_5
+size,VAR_6
+count,VAR_7

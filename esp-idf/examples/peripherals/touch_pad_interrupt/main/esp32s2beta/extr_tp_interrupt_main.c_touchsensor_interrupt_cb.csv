@@ -1,0 +1,14 @@
+TOUCH_PAD_INTR_MASK_DONE,VAR_0
+pdFALSE,VAR_1
+pdTRUE,VAR_2
+portYIELD_FROM_ISR,FUNC_0
+que_touch,VAR_3
+touch_pad_filter_baseline_read,FUNC_1
+touch_pad_get_scan_curr,FUNC_2
+touch_pad_get_status,FUNC_3
+touch_pad_intr_status_get_mask,FUNC_4
+xQueueSendFromISR,FUNC_5
+touchsensor_interrupt_cb,FUNC_6
+arg,VAR_4
+task_awoken,VAR_5
+evt,VAR_6

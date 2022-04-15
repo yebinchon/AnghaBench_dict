@@ -1,0 +1,15 @@
+ISRVEC_STK_SIZE,VAR_0
+VLAPIC_CTR_IRR,FUNC_0
+VLAPIC_CTR_ISR,FUNC_1
+atomic_clear_int,FUNC_2
+panic,FUNC_3
+stub1,FUNC_4
+vlapic_update_ppr,FUNC_5
+vlapic_intr_accepted,FUNC_6
+vlapic,VAR_1
+vector,VAR_2
+lapic,VAR_3
+irrptr,VAR_4
+isrptr,VAR_5
+idx,VAR_6
+stk_top,VAR_7

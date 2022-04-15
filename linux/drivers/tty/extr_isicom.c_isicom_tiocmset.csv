@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+TIOCM_DTR,VAR_1
+TIOCM_RTS,VAR_2
+drop_dtr,FUNC_0
+drop_rts,FUNC_1
+isicom_paranoia_check,FUNC_2
+raise_dtr,FUNC_3
+raise_rts,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+isicom_tiocmset,FUNC_7
+tty,VAR_3
+set,VAR_4
+clear,VAR_5
+port,VAR_6
+flags,VAR_7

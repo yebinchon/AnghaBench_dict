@@ -1,0 +1,8 @@
+PERF_PMU_TXN_ADD,VAR_0
+__this_cpu_read,FUNC_0
+__this_cpu_write,FUNC_1
+nop_txn_flags,VAR_1
+perf_pmu_enable,FUNC_2
+perf_pmu_commit_txn,FUNC_3
+pmu,VAR_2
+flags,VAR_3

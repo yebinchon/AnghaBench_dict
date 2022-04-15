@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+FL_LAYOUT,VAR_1
+FMODE_READ,VAR_2
+FMODE_WRITE,VAR_3
+F_RDLCK,VAR_4
+F_WRLCK,VAR_5
+atomic_read,FUNC_0
+inode_is_open_for_write,FUNC_1
+locks_inode,FUNC_2
+check_conflicting_open,FUNC_3
+filp,VAR_6
+arg,VAR_7
+flags,VAR_8
+inode,VAR_9
+self_wcount,VAR_10
+self_rcount,VAR_11

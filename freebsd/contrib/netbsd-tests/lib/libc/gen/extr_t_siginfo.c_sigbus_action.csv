@@ -1,0 +1,12 @@
+ATF_REQUIRE_EQ,FUNC_0
+BUS_ADRALN,VAR_0
+SIGBUS,VAR_1
+addr,VAR_2
+atf_tc_expect_fail,FUNC_1
+atf_tc_pass,FUNC_2
+printf,FUNC_3
+sig_debug,FUNC_4
+sigbus_action,FUNC_5
+signo,VAR_3
+info,VAR_4
+ptr,VAR_5

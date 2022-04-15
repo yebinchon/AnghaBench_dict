@@ -1,0 +1,14 @@
+SVN_CONFIG_AUTHN_PASSPHRASE_KEY,VAR_0
+SVN_NO_ERROR,VAR_1
+TRUE,VAR_2
+svn_hash_sets,FUNC_0
+svn_string_create,FUNC_1
+svn_auth__ssl_client_cert_pw_set,FUNC_2
+done,VAR_3
+creds,VAR_4
+realmstring,VAR_5
+username,VAR_6
+passphrase,VAR_7
+parameters,VAR_8
+non_interactive,VAR_9
+pool,VAR_10

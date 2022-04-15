@@ -1,0 +1,17 @@
+DMU_GROUPUSED_DNODE,FUNC_0
+DMU_META_DNODE,FUNC_1
+DMU_USERUSED_DNODE,FUNC_2
+FTAG,VAR_0
+dnode_add_ref,FUNC_3
+dnode_evict_dbufs,FUNC_4
+dnode_rele,FUNC_5
+list_head,FUNC_6
+list_insert_after,FUNC_7
+list_next,FUNC_8
+list_remove,FUNC_9
+mutex_enter,FUNC_10
+mutex_exit,FUNC_11
+dmu_objset_evict_dbufs,FUNC_12
+os,VAR_1
+dn_marker,VAR_2
+dn,VAR_3

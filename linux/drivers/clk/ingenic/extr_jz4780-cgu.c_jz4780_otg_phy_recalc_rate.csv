@@ -1,0 +1,10 @@
+BUG,FUNC_0
+CGU_REG_USBPCR1,VAR_0
+USBPCR1_REFCLKDIV_MASK,VAR_1
+cgu,VAR_2
+readl,FUNC_1
+jz4780_otg_phy_recalc_rate,FUNC_2
+hw,VAR_3
+parent_rate,VAR_4
+usbpcr1,VAR_5
+refclk_div,VAR_6

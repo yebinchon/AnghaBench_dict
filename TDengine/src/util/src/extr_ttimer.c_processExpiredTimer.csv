@@ -1,0 +1,16 @@
+TIMER_STATE_EXPIRED,VAR_0
+TIMER_STATE_STOPPED,VAR_1
+TIMER_STATE_WAITING,VAR_2
+atomic_store_8,FUNC_0
+atomic_val_compare_exchange_8,FUNC_1
+removeTimer,FUNC_2
+stub1,FUNC_3
+taosGetPthreadId,FUNC_4
+timerDecRef,FUNC_5
+tmrTrace,FUNC_6
+processExpiredTimer,FUNC_7
+handle,VAR_3
+arg,VAR_4
+timer,VAR_5
+state,VAR_6
+fmt,VAR_7

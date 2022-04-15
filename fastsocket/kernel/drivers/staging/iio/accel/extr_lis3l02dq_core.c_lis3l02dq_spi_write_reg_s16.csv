@@ -1,0 +1,17 @@
+LIS3L02DQ_WRITE_REG,FUNC_0
+dev_get_drvdata,FUNC_1
+iio_dev_get_devdata,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+spi_message_add_tail,FUNC_5
+spi_message_init,FUNC_6
+spi_sync,FUNC_7
+lis3l02dq_spi_write_reg_s16,FUNC_8
+dev,VAR_0
+lower_reg_address,VAR_1
+value,VAR_2
+ret,VAR_3
+msg,VAR_4
+indio_dev,VAR_5
+st,VAR_6
+xfers,VAR_7

@@ -1,0 +1,8 @@
+MPS_FLAGS_MSI,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_release_resource,FUNC_1
+mps_pci_free_interrupts,FUNC_2
+pci_release_msi,FUNC_3
+mps_pci_free,FUNC_4
+sc,VAR_2

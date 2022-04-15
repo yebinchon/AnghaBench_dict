@@ -1,0 +1,16 @@
+GIT_CHECKOUT_NONE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_2
+git_checkout_tree,FUNC_2
+git_commit_free,FUNC_3
+git_commit_lookup,FUNC_4
+git_oid_fromstr,FUNC_5
+git_path_isfile,FUNC_6
+test_checkout_tree__doesnt_write_unrequested_files_to_worktree,FUNC_7
+master_oid,VAR_3
+chomped_oid,VAR_4
+p_master_commit,VAR_5
+p_chomped_commit,VAR_6
+opts,VAR_7

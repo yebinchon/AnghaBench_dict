@@ -1,0 +1,13 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+DoingCommandRead,VAR_0
+MyLatch,VAR_1
+ProcDiePending,VAR_2
+ProcessCatchupInterrupt,FUNC_1
+ProcessNotifyInterrupt,FUNC_2
+SetLatch,FUNC_3
+catchupInterruptPending,VAR_3
+errno,VAR_4
+notifyInterruptPending,VAR_5
+ProcessClientReadInterrupt,FUNC_4
+blocked,VAR_6
+save_errno,VAR_7

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+EPERM,VAR_1
+MAC_BIBA_FLAGS_BOTH,VAR_2
+MAC_BIBA_FLAG_EFFECTIVE,VAR_3
+MAC_BIBA_FLAG_RANGE,VAR_4
+SLOT,FUNC_0
+biba_atmostflags,FUNC_1
+biba_contains_equal,FUNC_2
+biba_effective_in_range,FUNC_3
+biba_range_in_range,FUNC_4
+biba_subject_privileged,FUNC_5
+biba_cred_check_relabel,FUNC_6
+cred,VAR_5
+newlabel,VAR_6
+subj,VAR_7
+new,VAR_8
+error,VAR_9

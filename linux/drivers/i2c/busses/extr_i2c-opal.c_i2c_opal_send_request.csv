@@ -1,0 +1,16 @@
+ERESTARTSYS,VAR_0
+OPAL_ASYNC_COMPLETION,VAR_1
+OPAL_SUCCESS,VAR_2
+i2c_opal_translate_error,FUNC_0
+opal_async_get_token_interruptible,FUNC_1
+opal_async_release_token,FUNC_2
+opal_async_wait_response,FUNC_3
+opal_get_async_rc,FUNC_4
+opal_i2c_request,FUNC_5
+pr_err,FUNC_6
+i2c_opal_send_request,FUNC_7
+bus_id,VAR_3
+req,VAR_4
+msg,VAR_5
+token,VAR_6
+rc,VAR_7

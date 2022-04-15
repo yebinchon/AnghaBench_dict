@@ -1,0 +1,12 @@
+MIPS_EXC_MAX,VAR_0
+clear_bit,FUNC_0
+clear_c0_guestctl2,FUNC_1
+clear_gc0_cause,FUNC_2
+cpu_has_guestctl2,VAR_1
+kvm_vz_priority_to_irq,VAR_2
+read_c0_guestctl2,FUNC_3
+kvm_vz_irq_clear_cb,FUNC_4
+vcpu,VAR_3
+priority,VAR_4
+cause,VAR_5
+irq,VAR_6

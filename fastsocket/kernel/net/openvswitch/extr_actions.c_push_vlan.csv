@@ -1,0 +1,17 @@
+CHECKSUM_COMPLETE,VAR_0
+ENOMEM,VAR_1
+ETH_ALEN,VAR_2
+VLAN_HLEN,VAR_3
+VLAN_TAG_PRESENT,VAR_4
+__vlan_hwaccel_put_tag,FUNC_0
+__vlan_put_tag,FUNC_1
+csum_add,FUNC_2
+csum_partial,FUNC_3
+ntohs,FUNC_4
+unlikely,FUNC_5
+vlan_tx_tag_get,FUNC_6
+vlan_tx_tag_present,FUNC_7
+push_vlan,FUNC_8
+skb,VAR_5
+vlan,VAR_6
+current_tag,VAR_7

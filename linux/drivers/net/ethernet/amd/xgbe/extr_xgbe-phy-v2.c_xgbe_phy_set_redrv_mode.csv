@@ -1,0 +1,14 @@
+XGBE_PHY_REDRV_MODE_CX,VAR_0
+XGBE_PHY_REDRV_MODE_SR,VAR_1
+XGBE_PORT_MODE_SFP,VAR_2
+XGBE_SFP_BASE_10000_CR,VAR_3
+XGBE_SFP_BASE_1000_CX,VAR_4
+xgbe_phy_get_comm_ownership,FUNC_0
+xgbe_phy_put_comm_ownership,FUNC_1
+xgbe_phy_set_redrv_mode_i2c,FUNC_2
+xgbe_phy_set_redrv_mode_mdio,FUNC_3
+xgbe_phy_set_redrv_mode,FUNC_4
+pdata,VAR_5
+phy_data,VAR_6
+mode,VAR_7
+ret,VAR_8

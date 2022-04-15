@@ -1,0 +1,17 @@
+OVS_MASKED,FUNC_0
+likely,FUNC_1
+set_tp_port,FUNC_2
+skb_clear_hash,FUNC_3
+skb_ensure_writable,FUNC_4
+skb_transport_offset,FUNC_5
+tcp_hdr,FUNC_6
+unlikely,FUNC_7
+set_tcp,FUNC_8
+skb,VAR_0
+flow_key,VAR_1
+key,VAR_2
+mask,VAR_3
+th,VAR_4
+src,VAR_5
+dst,VAR_6
+err,VAR_7

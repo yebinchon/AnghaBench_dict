@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+GIT_PATH_LIST_SEPARATOR,VAR_1
+HKEY_CURRENT_USER,VAR_2
+HKEY_LOCAL_MACHINE,VAR_3
+REG_MSYSGIT_INSTALL,VAR_4
+REG_MSYSGIT_INSTALL_LOCAL,VAR_5
+git_buf_clear,FUNC_0
+git_buf_dispose,FUNC_1
+git_buf_join,FUNC_2
+git_buf_oom,FUNC_3
+git_buf_set,FUNC_4
+win32_find_git_in_path,FUNC_5
+win32_find_git_in_registry,FUNC_6
+git_win32__find_system_dirs,FUNC_7
+out,VAR_6
+subdir,VAR_7
+buf,VAR_8

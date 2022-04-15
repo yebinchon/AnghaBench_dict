@@ -1,0 +1,11 @@
+PROPAGATE_AOF,VAR_0
+PROPAGATE_REPL,VAR_1
+lua_error,FUNC_0
+lua_gettop,FUNC_1
+lua_pushstring,FUNC_2
+lua_tonumber,FUNC_3
+server,VAR_2
+luaRedisSetReplCommand,FUNC_4
+lua,VAR_3
+argc,VAR_4
+flags,VAR_5

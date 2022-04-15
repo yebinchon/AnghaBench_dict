@@ -1,0 +1,16 @@
+AA_CLASS_PTRACE,VAR_0
+AUDIT_APPARMOR_AUTO,VAR_1
+CAP_OPT_NONE,VAR_2
+CAP_SYS_PTRACE,VAR_3
+PROFILE_MEDIATES,FUNC_0
+aa_audit,FUNC_1
+aa_capable,FUNC_2
+aad,FUNC_3
+audit_ptrace_cb,VAR_4
+profile_ptrace_perm,FUNC_4
+profile_unconfined,FUNC_5
+profile_tracer_perm,FUNC_6
+tracer,VAR_5
+tracee,VAR_6
+request,VAR_7
+sa,VAR_8

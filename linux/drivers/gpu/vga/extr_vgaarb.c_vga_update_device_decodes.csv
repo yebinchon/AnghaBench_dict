@@ -1,0 +1,15 @@
+VGA_RSRC_LEGACY_IO,VAR_0
+VGA_RSRC_LEGACY_MASK,VAR_1
+VGA_RSRC_LEGACY_MEM,VAR_2
+__vga_put,FUNC_0
+vga_decode_count,VAR_3
+vga_iostate_to_str,FUNC_1
+vgaarb_dbg,FUNC_2
+vgaarb_info,FUNC_3
+vga_update_device_decodes,FUNC_4
+vgadev,VAR_4
+new_decodes,VAR_5
+dev,VAR_6
+old_decodes,VAR_7
+decodes_removed,VAR_8
+decodes_unlocked,VAR_9

@@ -1,0 +1,14 @@
+NT_X86_XSTATE,VAR_0
+X86_XSTATE_XCR0_OFFSET,VAR_1
+cpu_max_ext_state_size,VAR_2
+elf32_populate_note,FUNC_0
+fpugetregs,FUNC_1
+get_pcb_user_save_td,FUNC_2
+use_xsave,VAR_3
+xsave_mask,VAR_4
+elf32_dump_thread,FUNC_3
+td,VAR_5
+dst,VAR_6
+off,VAR_7
+buf,VAR_8
+len,VAR_9

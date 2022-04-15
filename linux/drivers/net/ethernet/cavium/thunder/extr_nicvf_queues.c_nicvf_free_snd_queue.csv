@@ -1,0 +1,16 @@
+GET_SQ_DESC,FUNC_0
+TSO_HEADER_SIZE,VAR_0
+dev_kfree_skb_any,FUNC_1
+dma_free_coherent,FUNC_2
+kfree,FUNC_3
+nicvf_free_q_desc_mem,FUNC_4
+nicvf_unmap_sndq_buffers,FUNC_5
+put_page,FUNC_6
+smp_rmb,FUNC_7
+nicvf_free_snd_queue,FUNC_8
+nic,VAR_1
+sq,VAR_2
+skb,VAR_3
+page,VAR_4
+hdr,VAR_5
+tso_sqe,VAR_6

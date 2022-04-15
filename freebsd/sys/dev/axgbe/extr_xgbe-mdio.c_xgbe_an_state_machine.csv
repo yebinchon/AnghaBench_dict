@@ -1,0 +1,17 @@
+MDIO_AN_INT,VAR_0
+MDIO_AN_INTMASK,VAR_1
+MDIO_MMD_AN,VAR_2
+XGBE_AN_ERROR,VAR_3
+XGBE_AN_INC_LINK,VAR_4
+XGBE_AN_INT_CMPLT,VAR_5
+XGBE_AN_INT_MASK,VAR_6
+XGBE_AN_PG_RCV,VAR_7
+XGBE_RX_BPA,VAR_8
+XMDIO_WRITE,FUNC_0
+sx_xlock,FUNC_1
+sx_xunlock,FUNC_2
+xgbe_an_incompat_link,FUNC_3
+xgbe_an_page_received,FUNC_4
+xgbe_an_state_machine,FUNC_5
+pdata,VAR_9
+cur_state,VAR_10

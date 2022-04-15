@@ -1,0 +1,15 @@
+SNDRV_PCM_STATE_OPEN,VAR_0
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+params_buffer_bytes,FUNC_2
+params_channels,FUNC_3
+params_rate,FUNC_4
+snd_oxfw_stream_reserve_duplex,FUNC_5
+snd_pcm_lib_alloc_vmalloc_buffer,FUNC_6
+pcm_capture_hw_params,FUNC_7
+substream,VAR_1
+hw_params,VAR_2
+oxfw,VAR_3
+err,VAR_4
+rate,VAR_5
+channels,VAR_6

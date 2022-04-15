@@ -1,0 +1,15 @@
+EACCES,VAR_0
+IPPROTO_TCP,VAR_1
+IPSEC_MODE_TCPMD5,VAR_2
+KMOD_TCPSTAT_INC,FUNC_0
+key_allocsa_tcpmd5,FUNC_1
+key_freesav,FUNC_2
+setsockaddrs,FUNC_3
+tcp_signature_compute,FUNC_4
+tcps_sig_err_buildsig,VAR_3
+tcp_ipsec_output,FUNC_5
+m,VAR_4
+th,VAR_5
+buf,VAR_6
+saidx,VAR_7
+sav,VAR_8

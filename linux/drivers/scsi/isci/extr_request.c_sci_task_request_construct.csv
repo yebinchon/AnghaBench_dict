@@ -1,0 +1,17 @@
+IREQ_TMF,VAR_0
+SAS_END_DEVICE,VAR_1
+SAS_PROTOCOL_SSP,VAR_2
+SAS_PROTOCOL_STP,VAR_3
+SCI_FAILURE_UNSUPPORTED_PROTOCOL,VAR_4
+SCI_SUCCESS,VAR_5
+dev_is_sata,FUNC_0
+memset,FUNC_1
+sci_general_request_construct,FUNC_2
+set_bit,FUNC_3
+sci_task_request_construct,FUNC_4
+ihost,VAR_6
+idev,VAR_7
+io_tag,VAR_8
+ireq,VAR_9
+dev,VAR_10
+status,VAR_11

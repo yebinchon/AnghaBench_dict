@@ -1,0 +1,8 @@
+TSL2563_CMD,VAR_0
+TSL2563_REG_TIMING,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+tsl2563_wait_adc,FUNC_1
+tsl2563_adjust_gainlevel,FUNC_2
+chip,VAR_2
+adc,VAR_3
+client,VAR_4

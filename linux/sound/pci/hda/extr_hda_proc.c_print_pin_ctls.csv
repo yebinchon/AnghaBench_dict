@@ -1,0 +1,14 @@
+AC_PINCTL_HP_EN,VAR_0
+AC_PINCTL_IN_EN,VAR_1
+AC_PINCTL_OUT_EN,VAR_2
+AC_PINCTL_VREFEN,VAR_3
+AC_VERB_GET_PIN_WIDGET_CONTROL,VAR_4
+snd_hda_codec_read,FUNC_0
+snd_iprintf,FUNC_1
+print_pin_ctls,FUNC_2
+buffer,VAR_5
+codec,VAR_6
+nid,VAR_7
+supports_vref,VAR_8
+pinctls,VAR_9
+vref,VAR_10

@@ -1,0 +1,8 @@
+RT5033_FUEL_BAT_PRESENT,VAR_0
+RT5033_FUEL_REG_CONFIG_L,VAR_1
+i2c_get_clientdata,FUNC_0
+regmap_read,FUNC_1
+rt5033_battery_get_present,FUNC_2
+client,VAR_2
+battery,VAR_3
+val,VAR_4

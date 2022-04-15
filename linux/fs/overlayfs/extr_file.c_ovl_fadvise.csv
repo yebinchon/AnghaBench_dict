@@ -1,0 +1,14 @@
+fdput,FUNC_0
+file_inode,FUNC_1
+ovl_override_creds,FUNC_2
+ovl_real_fdget,FUNC_3
+revert_creds,FUNC_4
+vfs_fadvise,FUNC_5
+ovl_fadvise,FUNC_6
+file,VAR_0
+offset,VAR_1
+len,VAR_2
+advice,VAR_3
+real,VAR_4
+old_cred,VAR_5
+ret,VAR_6

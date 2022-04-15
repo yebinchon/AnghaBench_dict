@@ -1,0 +1,15 @@
+CTRL_MAC_HI_REG,FUNC_0
+CTRL_MAC_LO_REG,FUNC_1
+ENODEV,VAR_0
+IS_ERR,FUNC_2
+PTR_ERR,FUNC_3
+regmap_read,FUNC_4
+syscon_regmap_lookup_by_phandle,FUNC_5
+cpsw_am33xx_cm_get_macid,FUNC_6
+dev,VAR_1
+offset,VAR_2
+slave,VAR_3
+mac_addr,VAR_4
+macid_lo,VAR_5
+macid_hi,VAR_6
+syscon,VAR_7

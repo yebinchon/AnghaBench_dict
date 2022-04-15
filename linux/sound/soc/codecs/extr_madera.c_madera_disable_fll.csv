@@ -1,0 +1,17 @@
+CS47L35_FLL_SYNCHRONISER_OFFS,VAR_0
+MADERA_FLL1_ENA,VAR_1
+MADERA_FLL1_FREERUN,VAR_2
+MADERA_FLL1_SYNC_ENA,VAR_3
+MADERA_FLL_CONTROL_1_OFFS,VAR_4
+MADERA_FLL_SYNCHRONISER_1_OFFS,VAR_5
+MADERA_FLL_SYNCHRONISER_OFFS,VAR_6
+madera_fll_dbg,FUNC_0
+madera_wait_for_fll,FUNC_1
+pm_runtime_put_autosuspend,FUNC_2
+regmap_update_bits,FUNC_3
+regmap_update_bits_check,FUNC_4
+madera_disable_fll,FUNC_5
+fll,VAR_7
+madera,VAR_8
+sync_base,VAR_9
+change,VAR_10

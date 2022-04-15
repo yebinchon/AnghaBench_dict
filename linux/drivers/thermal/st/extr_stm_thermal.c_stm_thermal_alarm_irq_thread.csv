@@ -1,0 +1,14 @@
+DTS_CIFR_OFFSET,VAR_0
+DTS_SR_OFFSET,VAR_1
+HIGH_THRESHOLD,VAR_2
+IRQ_HANDLED,VAR_3
+LOW_THRESHOLD,VAR_4
+THERMAL_EVENT_UNSPECIFIED,VAR_5
+readl_relaxed,FUNC_0
+thermal_zone_device_update,FUNC_1
+writel_relaxed,FUNC_2
+stm_thermal_alarm_irq_thread,FUNC_3
+irq,VAR_6
+sdata,VAR_7
+value,VAR_8
+sensor,VAR_9

@@ -1,0 +1,15 @@
+ECSPI_INTREG,VAR_0
+EIO,VAR_1
+INTREG_RDREN,VAR_2
+INTREG_TDREN,VAR_3
+WR4,FUNC_0
+device_printf,FUNC_1
+hz,VAR_4
+msleep,FUNC_2
+spi_fill_txfifo,FUNC_3
+spi_xfer_buf,FUNC_4
+sc,VAR_5
+rxbuf,VAR_6
+txbuf,VAR_7
+len,VAR_8
+err,VAR_9

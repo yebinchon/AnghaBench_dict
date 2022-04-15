@@ -1,0 +1,17 @@
+BIT,FUNC_0
+FSL_PWM_CLK_CNTEN,VAR_0
+FTM_OUTMASK,VAR_1
+clk_disable_unprepare,FUNC_1
+clk_prepare_enable,FUNC_2
+fsl_pwm_apply_config,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+regmap_update_bits,FUNC_6
+to_fsl_chip,FUNC_7
+fsl_pwm_apply,FUNC_8
+chip,VAR_2
+pwm,VAR_3
+newstate,VAR_4
+fpc,VAR_5
+oldstate,VAR_6
+ret,VAR_7

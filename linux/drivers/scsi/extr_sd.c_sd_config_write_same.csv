@@ -1,0 +1,15 @@
+SD_MAX_WS10_BLOCKS,VAR_0
+SD_MAX_WS16_BLOCKS,VAR_1
+SD_ZERO_WRITE,VAR_2
+SD_ZERO_WS,VAR_3
+SD_ZERO_WS10_UNMAP,VAR_4
+SD_ZERO_WS16_UNMAP,VAR_5
+blk_queue_max_write_same_sectors,FUNC_0
+blk_queue_max_write_zeroes_sectors,FUNC_1
+bytes_to_logical,FUNC_2
+min_not_zero,FUNC_3
+round_down,FUNC_4
+sd_config_write_same,FUNC_5
+sdkp,VAR_6
+q,VAR_7
+logical_block_size,VAR_8

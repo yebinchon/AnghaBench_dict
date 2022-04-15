@@ -1,0 +1,17 @@
+IPMI_SET_TIMEOUT_NO_HB,VAR_0
+WATCHDOG_MINOR,VAR_1
+WDOG_TIMEOUT_NONE,VAR_2
+_ipmi_set_timeout,FUNC_0
+clear_bit,FUNC_1
+expect_close,VAR_3
+iminor,FUNC_2
+ipmi_heartbeat,FUNC_3
+ipmi_watchdog_mutex,VAR_4
+ipmi_watchdog_state,VAR_5
+ipmi_wdog_open,VAR_6
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pr_crit,FUNC_6
+ipmi_close,FUNC_7
+ino,VAR_7
+filep,VAR_8

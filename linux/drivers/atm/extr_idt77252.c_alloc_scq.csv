@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+SCQ_ENTRIES,VAR_1
+SCQ_SIZE,VAR_2
+TXPRINTK,FUNC_0
+atomic_set,FUNC_1
+dma_alloc_coherent,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+skb_queue_head_init,FUNC_5
+spin_lock_init,FUNC_6
+alloc_scq,FUNC_7
+card,VAR_3
+class,VAR_4
+scq,VAR_5

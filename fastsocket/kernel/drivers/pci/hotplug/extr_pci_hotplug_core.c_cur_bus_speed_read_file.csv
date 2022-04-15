@@ -1,0 +1,11 @@
+PCI_SPEED_UNKNOWN,VAR_0
+get_cur_bus_speed,FUNC_0
+pci_bus_speed_strings,VAR_1
+sprintf,FUNC_1
+unknown_speed,VAR_2
+cur_bus_speed_read_file,FUNC_2
+slot,VAR_3
+buf,VAR_4
+speed_string,VAR_5
+retval,VAR_6
+value,VAR_7

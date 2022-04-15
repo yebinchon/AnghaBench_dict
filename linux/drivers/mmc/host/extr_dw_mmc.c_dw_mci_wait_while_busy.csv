@@ -1,0 +1,11 @@
+SDMMC_CMD_PRV_DAT_WAIT,VAR_0
+SDMMC_CMD_VOLT_SWITCH,VAR_1
+SDMMC_STATUS,VAR_2
+SDMMC_STATUS_BUSY,VAR_3
+USEC_PER_MSEC,VAR_4
+dev_err,FUNC_0
+readl_poll_timeout_atomic,FUNC_1
+dw_mci_wait_while_busy,FUNC_2
+host,VAR_5
+cmd_flags,VAR_6
+status,VAR_7

@@ -1,0 +1,16 @@
+CVMX_L2C_ERR_TDTX,FUNC_0
+CVMX_L2C_ERR_TTGX,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+edac_device_handle_ce,FUNC_4
+edac_device_handle_ue,FUNC_5
+snprintf,FUNC_6
+_octeon_l2c_poll_oct2,FUNC_7
+l2c,VAR_0
+tad,VAR_1
+err_tdtx,VAR_2
+err_tdtx_reset,VAR_3
+err_ttgx,VAR_4
+err_ttgx_reset,VAR_5
+buf1,VAR_6
+buf2,VAR_7

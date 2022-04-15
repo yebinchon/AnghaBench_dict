@@ -1,0 +1,13 @@
+ENOMEM,VAR_0
+IS_ERR,FUNC_0
+PORT100_CMD_GET_COMMAND_TYPE,VAR_1
+PTR_ERR,FUNC_1
+be64_to_cpu,FUNC_2
+dev_kfree_skb,FUNC_3
+port100_alloc_skb,FUNC_4
+port100_send_cmd_sync,FUNC_5
+port100_get_command_type_mask,FUNC_6
+dev,VAR_2
+skb,VAR_3
+resp,VAR_4
+mask,VAR_5

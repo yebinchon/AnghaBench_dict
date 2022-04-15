@@ -1,0 +1,17 @@
+FSF_PLOGI_MIN_LEN,VAR_0
+ZFCP_STATUS_COMMON_ACCESS_BOXED,VAR_1
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_2
+ZFCP_STATUS_COMMON_OPEN,VAR_3
+ZFCP_STATUS_FSFREQ_ERROR,VAR_4
+ZFCP_STATUS_PORT_PHYS_OPEN,VAR_5
+atomic_andnot,FUNC_0
+atomic_or,FUNC_1
+dev_warn,FUNC_2
+put_device,FUNC_3
+zfcp_erp_set_port_status,FUNC_4
+zfcp_fc_plogi_evaluate,FUNC_5
+zfcp_fsf_open_port_handler,FUNC_6
+req,VAR_6
+port,VAR_7
+header,VAR_8
+plogi,VAR_9

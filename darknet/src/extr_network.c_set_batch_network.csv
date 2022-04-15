@@ -1,0 +1,10 @@
+CONVOLUTIONAL,VAR_0
+CUDNN_DATA_FLOAT,VAR_1
+CUDNN_TENSOR_NCHW,VAR_2
+DECONVOLUTIONAL,VAR_3
+cudnnSetTensor4dDescriptor,FUNC_0
+cudnn_convolutional_setup,FUNC_1
+set_batch_network,FUNC_2
+net,VAR_4
+b,VAR_5
+i,VAR_6

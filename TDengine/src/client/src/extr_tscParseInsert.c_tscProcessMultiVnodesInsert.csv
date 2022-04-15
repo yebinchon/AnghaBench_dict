@@ -1,0 +1,16 @@
+TSDB_CODE_SUCCESS,VAR_0
+TSDB_SQL_INSERT,VAR_1
+assert,FUNC_0
+tscCopyDataBlockToPayload,FUNC_1
+tscDestroyBlockArrayList,FUNC_2
+tscGetMeterMetaInfo,FUNC_3
+tscProcessSql,FUNC_4
+tscTrace,FUNC_5
+tscProcessMultiVnodesInsert,FUNC_6
+pSql,VAR_2
+pCmd,VAR_3
+pDataBlock,VAR_4
+pMeterMetaInfo,VAR_5
+code,VAR_6
+pDataBlocks,VAR_7
+i,VAR_8

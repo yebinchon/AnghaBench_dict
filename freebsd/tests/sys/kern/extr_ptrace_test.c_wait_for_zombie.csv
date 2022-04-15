@@ -1,0 +1,15 @@
+ATF_REQUIRE,FUNC_0
+CTL_KERN,VAR_0
+ESRCH,VAR_1
+KERN_PROC,VAR_2
+KERN_PROC_PID,VAR_3
+SZOMB,VAR_4
+errno,VAR_5
+nitems,FUNC_1
+sysctl,FUNC_2
+usleep,FUNC_3
+wait_for_zombie,FUNC_4
+pid,VAR_6
+kp,VAR_7
+len,VAR_8
+mib,VAR_9

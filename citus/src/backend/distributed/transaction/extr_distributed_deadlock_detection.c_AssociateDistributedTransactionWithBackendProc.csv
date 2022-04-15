@@ -1,0 +1,12 @@
+Assert,FUNC_0
+GetBackendDataForProc,FUNC_1
+GetLocalGroupId,FUNC_2
+IsInDistributedTransaction,FUNC_3
+MaxBackends,VAR_0
+ProcGlobal,VAR_1
+AssociateDistributedTransactionWithBackendProc,FUNC_4
+transactionNode,VAR_2
+backendIndex,VAR_3
+currentProc,VAR_4
+currentBackendData,VAR_5
+currentTransactionId,VAR_6

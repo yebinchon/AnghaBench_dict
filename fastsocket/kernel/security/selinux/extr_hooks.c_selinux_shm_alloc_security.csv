@@ -1,0 +1,15 @@
+COMMON_AUDIT_DATA_INIT,FUNC_0
+IPC,VAR_0
+SECCLASS_SHM,VAR_1
+SHM__CREATE,VAR_2
+avc_has_perm,FUNC_1
+current,VAR_3
+current_sid,FUNC_2
+ipc_alloc_security,FUNC_3
+ipc_free_security,FUNC_4
+selinux_shm_alloc_security,FUNC_5
+shp,VAR_4
+isec,VAR_5
+ad,VAR_6
+sid,VAR_7
+rc,VAR_8

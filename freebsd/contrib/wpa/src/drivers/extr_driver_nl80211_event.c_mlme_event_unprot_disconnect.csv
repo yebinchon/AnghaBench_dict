@@ -1,0 +1,15 @@
+EVENT_UNPROT_DEAUTH,VAR_0
+EVENT_UNPROT_DISASSOC,VAR_1
+MSG_DEBUG,VAR_2
+le_to_host16,FUNC_0
+os_memset,FUNC_1
+wpa_printf,FUNC_2
+wpa_supplicant_event,FUNC_3
+mlme_event_unprot_disconnect,FUNC_4
+drv,VAR_3
+type,VAR_4
+frame,VAR_5
+len,VAR_6
+mgmt,VAR_7
+event,VAR_8
+reason_code,VAR_9

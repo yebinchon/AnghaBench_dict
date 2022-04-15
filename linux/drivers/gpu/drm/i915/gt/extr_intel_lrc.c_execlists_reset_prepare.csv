@@ -1,0 +1,12 @@
+GEM_BUG_ON,FUNC_0
+GEM_TRACE,FUNC_1
+__tasklet_disable_sync_once,FUNC_2
+atomic_read,FUNC_3
+intel_engine_stop_cs,FUNC_4
+reset_in_progress,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+execlists_reset_prepare,FUNC_8
+engine,VAR_0
+execlists,VAR_1
+flags,VAR_2

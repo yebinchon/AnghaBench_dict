@@ -1,0 +1,9 @@
+H_SIGNAL_SYS_RESET_ALL_OTHERS,VAR_0
+H_SUCCESS,VAR_1
+NMI_IPI_ALL_OTHERS,VAR_2
+WARN_ONCE,FUNC_0
+get_hard_smp_processor_id,FUNC_1
+plpar_signal_sys_reset,FUNC_2
+pseries_cause_nmi_ipi,FUNC_3
+cpu,VAR_3
+hwcpu,VAR_4

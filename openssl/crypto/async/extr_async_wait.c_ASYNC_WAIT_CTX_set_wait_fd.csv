@@ -1,0 +1,11 @@
+ASYNC_F_ASYNC_WAIT_CTX_SET_WAIT_FD,VAR_0
+ASYNCerr,FUNC_0
+ERR_R_MALLOC_FAILURE,VAR_1
+OPENSSL_zalloc,FUNC_1
+ASYNC_WAIT_CTX_set_wait_fd,FUNC_2
+ctx,VAR_2
+key,VAR_3
+fd,VAR_4
+custom_data,VAR_5
+cleanup,VAR_6
+fdlookup,VAR_7

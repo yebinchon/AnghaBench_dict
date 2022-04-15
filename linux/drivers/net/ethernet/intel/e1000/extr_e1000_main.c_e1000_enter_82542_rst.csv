@@ -1,0 +1,14 @@
+E1000_RCTL_RST,VAR_0
+E1000_WRITE_FLUSH,FUNC_0
+RCTL,VAR_1
+e1000_clean_all_rx_rings,FUNC_1
+e1000_pci_clear_mwi,FUNC_2
+er32,FUNC_3
+ew32,FUNC_4
+mdelay,FUNC_5
+netif_running,FUNC_6
+e1000_enter_82542_rst,FUNC_7
+adapter,VAR_2
+hw,VAR_3
+netdev,VAR_4
+rctl,VAR_5

@@ -1,0 +1,10 @@
+USB_PID_GENPIX_8PSK_REV_1_WARM,VAR_0
+dvb_attach,FUNC_0
+gp8psk_fe_attach,VAR_1
+gp8psk_fe_ops,VAR_2
+le16_to_cpu,FUNC_1
+gp8psk_frontend_attach,FUNC_2
+adap,VAR_3
+d,VAR_4
+id,VAR_5
+is_rev1,VAR_6

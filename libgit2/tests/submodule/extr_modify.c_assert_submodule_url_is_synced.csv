@@ -1,0 +1,11 @@
+assert_config_entry_value,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+git_repository_free,FUNC_2
+git_submodule_open,FUNC_3
+git_submodule_url,FUNC_4
+assert_submodule_url_is_synced,FUNC_5
+sm,VAR_1
+parent_key,VAR_2
+child_key,VAR_3
+smrepo,VAR_4

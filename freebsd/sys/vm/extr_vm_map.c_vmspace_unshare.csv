@@ -1,0 +1,13 @@
+ENOMEM,VAR_0
+PROC_VMSPACE_LOCK,FUNC_0
+PROC_VMSPACE_UNLOCK,FUNC_1
+curthread,VAR_1
+pmap_activate,FUNC_2
+swap_reserve_by_cred,FUNC_3
+vmspace_fork,FUNC_4
+vmspace_free,FUNC_5
+vmspace_unshare,FUNC_6
+p,VAR_2
+oldvmspace,VAR_3
+newvmspace,VAR_4
+fork_charge,VAR_5

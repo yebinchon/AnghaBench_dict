@@ -1,0 +1,15 @@
+AML_USB_PHY_MISC_ID_OVERIDE_DEVICE,VAR_0
+AML_USB_PHY_MISC_ID_OVERIDE_EN,VAR_1
+AML_USB_PHY_MISC_ID_OVERIDE_HOST,VAR_2
+ENXIO,VAR_3
+OF_finddevice,FUNC_0
+OF_getprop_alloc,FUNC_1
+OF_prop_free,FUNC_2
+fdt_is_compatible_strict,FUNC_3
+strcasecmp,FUNC_4
+aml8726_usb_phy_mode,FUNC_5
+dwcotg_path,VAR_4
+mode,VAR_5
+usb_mode,VAR_6
+node,VAR_7
+len,VAR_8

@@ -1,0 +1,14 @@
+CRYPTO_THREAD_unlock,FUNC_0
+CRYPTO_THREAD_write_lock,FUNC_1
+ENGINE_finish,FUNC_2
+ENGINE_get_RAND,FUNC_3
+ENGINE_init,FUNC_4
+RAND_set_rand_method,FUNC_5
+RUN_ONCE,FUNC_6
+do_rand_init,VAR_0
+funct_ref,VAR_1
+rand_engine_lock,VAR_2
+rand_init,VAR_3
+RAND_set_rand_engine,FUNC_7
+engine,VAR_4
+tmp_meth,VAR_5

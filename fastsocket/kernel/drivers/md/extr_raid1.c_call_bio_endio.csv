@@ -1,0 +1,14 @@
+BIO_UPTODATE,VAR_0
+R1BIO_Uptodate,VAR_1
+allow_barrier,FUNC_0
+bio_endio,FUNC_1
+clear_bit,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+test_bit,FUNC_5
+call_bio_endio,FUNC_6
+r1_bio,VAR_2
+bio,VAR_3
+done,VAR_4
+conf,VAR_5
+flags,VAR_6

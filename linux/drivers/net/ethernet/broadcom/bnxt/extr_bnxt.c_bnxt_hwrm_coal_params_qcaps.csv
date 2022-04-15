@@ -1,0 +1,15 @@
+BNXT_LEGACY_COAL_CMPL_PARAMS,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+HWRM_RING_AGGINT_QCAPS,VAR_2
+_hwrm_send_message_silent,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+le16_to_cpu,FUNC_2
+le32_to_cpu,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+bnxt_hwrm_coal_params_qcaps,FUNC_6
+bp,VAR_3
+resp,VAR_4
+coal_cap,VAR_5
+req,VAR_6
+rc,VAR_7

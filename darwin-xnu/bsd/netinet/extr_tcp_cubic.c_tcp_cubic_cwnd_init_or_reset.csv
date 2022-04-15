@@ -1,0 +1,9 @@
+TCP_CC_CWND_INIT_BYTES,VAR_0
+TCP_MAXWIN,VAR_1
+TCP_MAX_WINSHIFT,VAR_2
+VERIFY,FUNC_0
+tcp_cc_cwnd_init_or_reset,FUNC_1
+tcp_clear_pipeack_state,FUNC_2
+tcp_cubic_clear_state,FUNC_3
+tcp_cubic_cwnd_init_or_reset,FUNC_4
+tp,VAR_3

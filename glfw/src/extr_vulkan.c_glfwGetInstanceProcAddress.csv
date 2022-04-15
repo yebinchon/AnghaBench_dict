@@ -1,0 +1,12 @@
+_GLFW_REQUIRE_INIT_OR_RETURN,FUNC_0
+_GLFW_REQUIRE_LOADER,VAR_0
+_glfw,VAR_1
+_glfwInitVulkan,FUNC_1
+_glfw_dlsym,FUNC_2
+assert,FUNC_3
+strcmp,FUNC_4
+vkGetInstanceProcAddr,FUNC_5
+glfwGetInstanceProcAddress,FUNC_6
+instance,VAR_2
+procname,VAR_3
+proc,VAR_4

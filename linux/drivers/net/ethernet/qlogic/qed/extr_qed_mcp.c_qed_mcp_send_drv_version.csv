@@ -1,0 +1,15 @@
+DP_ERR,FUNC_0
+DRV_MSG_CODE_SET_VERSION,VAR_0
+MCP_DRV_VER_STR_SIZE,VAR_1
+cpu_to_be32,FUNC_1
+memset,FUNC_2
+qed_mcp_cmd_and_union,FUNC_3
+qed_mcp_send_drv_version,FUNC_4
+p_hwfn,VAR_2
+p_ptt,VAR_3
+p_ver,VAR_4
+mb_params,VAR_5
+drv_version,VAR_6
+val,VAR_7
+i,VAR_8
+rc,VAR_9

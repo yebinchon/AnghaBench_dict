@@ -1,0 +1,8 @@
+BIT_CPU_CLK_EN,VAR_0
+BIT_WL_PLATFORM_RST,VAR_1
+REG_CPU_DMEM_CON,VAR_2
+REG_SYS_CLK_CTRL,VAR_3
+rtw_write8_clr,FUNC_0
+rtw_write8_set,FUNC_1
+download_firmware_reset_platform,FUNC_2
+rtwdev,VAR_4

@@ -1,0 +1,16 @@
+FALSE,VAR_0
+MT_CORE_NFIXED,VAR_1
+PMCR0,VAR_2
+PMCR0_FIXED_EN,VAR_3
+PMCR0_INIT,VAR_4
+__builtin_arm_rsr64,FUNC_0
+__builtin_arm_wsr64,FUNC_1
+assert,FUNC_2
+core_init_execution_modes,FUNC_3
+ml_get_interrupts_enabled,FUNC_4
+mt_core_set_snap,FUNC_5
+mt_cpu_run,FUNC_6
+cpu,VAR_5
+pmcr0,VAR_6
+mtc,VAR_7
+i,VAR_8

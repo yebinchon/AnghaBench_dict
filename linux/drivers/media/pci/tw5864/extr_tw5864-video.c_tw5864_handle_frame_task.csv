@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+H264_BUF_CNT,VAR_1
+H264_MV_BUF_SIZE,VAR_2
+H264_VLC_BUF_SIZE,VAR_3
+dma_sync_single_for_cpu,FUNC_0
+dma_sync_single_for_device,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+tw5864_handle_frame,FUNC_4
+tw5864_handle_frame_task,FUNC_5
+data,VAR_4
+dev,VAR_5
+flags,VAR_6
+batch_size,VAR_7
+frame,VAR_8

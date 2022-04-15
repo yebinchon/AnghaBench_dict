@@ -1,0 +1,14 @@
+SPRD_TXD,VAR_0
+THLD_TX_EMPTY,VAR_1
+UART_XMIT_SIZE,VAR_2
+WAKEUP_CHARS,VAR_3
+serial_out,FUNC_0
+sprd_stop_tx,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_tx_stopped,FUNC_4
+uart_write_wakeup,FUNC_5
+sprd_tx,FUNC_6
+port,VAR_4
+xmit,VAR_5
+count,VAR_6

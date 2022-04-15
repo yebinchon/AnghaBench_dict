@@ -1,0 +1,14 @@
+ATOMIC_RELAXED,VAR_0
+assert,FUNC_0
+tsd_add_nominal,FUNC_1
+tsd_atomic_load,FUNC_2
+tsd_atomic_store,FUNC_3
+tsd_in_nominal_list,FUNC_4
+tsd_remove_nominal,FUNC_5
+tsd_slow_update,FUNC_6
+tsd_state_nominal_max,VAR_1
+tsd_state_nominal_recompute,VAR_2
+tsd_state_set,FUNC_7
+tsd,VAR_3
+new_state,VAR_4
+old_state,VAR_5

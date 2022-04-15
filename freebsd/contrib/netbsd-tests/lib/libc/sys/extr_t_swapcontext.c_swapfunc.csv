@@ -1,0 +1,13 @@
+ATF_REQUIRE,FUNC_0
+ATF_REQUIRE_EQ,FUNC_1
+_lwp_getprivate,FUNC_2
+alter_tlsbase,VAR_0
+nctx,VAR_1
+ntls,VAR_2
+octx,VAR_3
+printf,FUNC_3
+swapcontext,FUNC_4
+val1,VAR_4
+val2,VAR_5
+swapfunc,FUNC_5
+arg,VAR_6

@@ -1,0 +1,11 @@
+IPU3_ADDR2PTE,FUNC_0
+REG_L1_PHYS,VAR_0
+imgu_mmu_set_halt,FUNC_1
+imgu_mmu_tlb_invalidate,FUNC_2
+to_imgu_mmu,FUNC_3
+virt_to_phys,FUNC_4
+writel,FUNC_5
+imgu_mmu_resume,FUNC_6
+info,VAR_1
+mmu,VAR_2
+pteval,VAR_3

@@ -1,0 +1,15 @@
+ASSERT_RTNL,FUNC_0
+IEEE802154_DEV_TO_SUB_IF,FUNC_1
+WPAN_PHY_FLAG_CCA_ED_LEVEL,VAR_0
+WPAN_PHY_FLAG_CCA_MODE,VAR_1
+WPAN_PHY_FLAG_TXPOWER,VAR_2
+drv_set_cca_ed_level,FUNC_2
+drv_set_cca_mode,FUNC_3
+drv_set_tx_power,FUNC_4
+mac802154_set_mac_params,FUNC_5
+dev,VAR_3
+params,VAR_4
+sdata,VAR_5
+local,VAR_6
+wpan_dev,VAR_7
+ret,VAR_8

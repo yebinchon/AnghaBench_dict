@@ -1,0 +1,17 @@
+MyProcPort,VAR_0
+NI_MAXHOST,VAR_1
+NI_NAMEREQD,VAR_2
+appendStringInfo,FUNC_0
+gai_strerror,FUNC_1
+makeStringInfo,FUNC_2
+palloc0,FUNC_3
+pg_getnameinfo_all,FUNC_4
+ClientHostAddress,FUNC_5
+clientHostStringInfo,VAR_3
+port,VAR_4
+clientHost,VAR_5
+errorMessage,VAR_6
+clientHostLength,VAR_7
+flags,VAR_8
+nameFound,VAR_9
+errorMessageStringInfo,VAR_10

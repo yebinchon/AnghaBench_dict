@@ -1,0 +1,13 @@
+UV_DISCONNECT,VAR_0
+UV_HANDLE_CLOSING,VAR_1
+UV_POLL,VAR_2
+UV_READABLE,VAR_3
+UV_WRITABLE,VAR_4
+assert,FUNC_0
+uv__fast_poll_submit_poll_req,FUNC_1
+uv__handle_start,FUNC_2
+uv__handle_stop,FUNC_3
+uv__fast_poll_set,FUNC_4
+loop,VAR_5
+handle,VAR_6
+events,VAR_7

@@ -1,0 +1,14 @@
+SNDRV_EMUX_ST_PENDING,VAR_0
+SNDRV_EMUX_ST_RELEASED,VAR_1
+add_timer,FUNC_0
+jiffies,VAR_2
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+stub1,FUNC_3
+snd_emux_timer_callback,FUNC_4
+data,VAR_3
+emu,VAR_4
+vp,VAR_5
+flags,VAR_6
+ch,VAR_7
+do_again,VAR_8

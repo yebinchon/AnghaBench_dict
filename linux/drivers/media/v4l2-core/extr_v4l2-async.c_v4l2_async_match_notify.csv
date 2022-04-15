@@ -1,0 +1,14 @@
+list_del,FUNC_0
+list_move,FUNC_1
+v4l2_async_find_subdev_notifier,FUNC_2
+v4l2_async_notifier_call_bound,FUNC_3
+v4l2_async_notifier_try_all_subdevs,FUNC_4
+v4l2_device_register_subdev,FUNC_5
+v4l2_device_unregister_subdev,FUNC_6
+v4l2_async_match_notify,FUNC_7
+notifier,VAR_0
+v4l2_dev,VAR_1
+sd,VAR_2
+asd,VAR_3
+subdev_notifier,VAR_4
+ret,VAR_5

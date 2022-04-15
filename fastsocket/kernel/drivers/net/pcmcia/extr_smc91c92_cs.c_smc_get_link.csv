@@ -1,0 +1,13 @@
+BANK_SELECT,VAR_0
+SMC_SELECT_BANK,FUNC_0
+inw,FUNC_1
+netdev_priv,FUNC_2
+smc_link_ok,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+smc_get_link,FUNC_6
+dev,VAR_1
+smc,VAR_2
+ioaddr,VAR_3
+saved_bank,VAR_4
+ret,VAR_5

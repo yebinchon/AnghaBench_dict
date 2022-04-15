@@ -1,0 +1,13 @@
+MAX_CPU_PER_PMD,VAR_0
+OP_RUNNING_INTERRUPT,VAR_1
+PCPHPERRINTMSK,VAR_2
+PMD0_MERR_MASK,VAR_3
+xgene_edac_pcp_clrbits,FUNC_0
+xgene_edac_pcp_setbits,FUNC_1
+xgene_edac_pmd_cpu_hw_cfg,FUNC_2
+xgene_edac_pmd_hw_cfg,FUNC_3
+xgene_edac_pmd_hw_ctl,FUNC_4
+edac_dev,VAR_4
+enable,VAR_5
+ctx,VAR_6
+i,VAR_7

@@ -1,0 +1,14 @@
+EXT4_DIR_REC_LEN,FUNC_0
+S_IFDIR,VAR_0
+cpu_to_le32,FUNC_1
+ext4_next_entry,FUNC_2
+ext4_rec_len_to_disk,FUNC_3
+ext4_set_de_type,FUNC_4
+strcpy,FUNC_5
+ext4_init_dot_dotdot,FUNC_6
+inode,VAR_1
+de,VAR_2
+blocksize,VAR_3
+csum_size,VAR_4
+parent_ino,VAR_5
+dotdot_real_len,VAR_6

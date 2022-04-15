@@ -1,0 +1,13 @@
+FIX_KMAP_BEGIN,VAR_0
+KM_TYPE_NR,VAR_1
+PAGE_MASK,VAR_2
+__fix_to_virt,FUNC_0
+kmap_pte,VAR_3
+kpte_clear_flush,FUNC_1
+pagefault_enable,FUNC_2
+smp_processor_id,FUNC_3
+iounmap_atomic,FUNC_4
+kvaddr,VAR_4
+type,VAR_5
+vaddr,VAR_6
+idx,VAR_7

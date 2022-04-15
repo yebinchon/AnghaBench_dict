@@ -1,0 +1,15 @@
+BIT_PAUSE_PLAYBACK,VAR_0
+BIT_RUNNING_PLAYBACK,VAR_1
+EINVAL,VAR_2
+clear_bit,FUNC_0
+set_bit,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+submit_audio_out_all_urbs,FUNC_3
+test_and_clear_bit,FUNC_4
+test_and_set_bit,FUNC_5
+unlink_audio_out_urbs,FUNC_6
+snd_line6_playback_trigger,FUNC_7
+substream,VAR_3
+cmd,VAR_4
+line6pcm,VAR_5
+err,VAR_6

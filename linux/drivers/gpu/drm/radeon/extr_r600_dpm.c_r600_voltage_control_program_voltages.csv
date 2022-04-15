@@ -1,0 +1,11 @@
+CTXSW_VID_LOWER_GPIO_CNTL,VAR_0
+RREG32,FUNC_0
+VID_UPPER_GPIO_CNTL,VAR_1
+WREG32,FUNC_1
+r600_voltage_control_program_voltages,FUNC_2
+rdev,VAR_2
+index,VAR_3
+pins,VAR_4
+tmp,VAR_5
+mask,VAR_6
+ix,VAR_7

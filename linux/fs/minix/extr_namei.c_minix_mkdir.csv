@@ -1,0 +1,15 @@
+S_IFDIR,VAR_0
+d_instantiate,FUNC_0
+inode_dec_link_count,FUNC_1
+inode_inc_link_count,FUNC_2
+iput,FUNC_3
+minix_add_link,FUNC_4
+minix_make_empty,FUNC_5
+minix_new_inode,FUNC_6
+minix_set_inode,FUNC_7
+minix_mkdir,FUNC_8
+dir,VAR_1
+dentry,VAR_2
+mode,VAR_3
+inode,VAR_4
+err,VAR_5

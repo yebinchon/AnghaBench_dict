@@ -1,0 +1,9 @@
+SIRFSOC_USBPHY_PLL_BYPASS,VAR_0
+SIRFSOC_USBPHY_PLL_CTRL,VAR_1
+SIRFSOC_USBPHY_PLL_POWERDOWN,VAR_2
+readl,FUNC_0
+sirfsoc_rsc_vbase,VAR_3
+writel,FUNC_1
+usb_pll_clk_disable,FUNC_2
+clk,VAR_4
+reg,VAR_5

@@ -1,0 +1,11 @@
+MSR_K6_UWCCR,VAR_0
+PAGE_SHIFT,VAR_1
+rdmsr,FUNC_0
+wbinvd,FUNC_1
+wrmsr,FUNC_2
+amd_set_mtrr,FUNC_3
+reg,VAR_2
+base,VAR_3
+size,VAR_4
+type,VAR_5
+regs,VAR_6

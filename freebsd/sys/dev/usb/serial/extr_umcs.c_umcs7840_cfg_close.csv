@@ -1,0 +1,15 @@
+DPRINTF,FUNC_0
+MCS7840_DEV_CONTROLx_RX_DISABLE,VAR_0
+MCS7840_UART_REG_IER,VAR_1
+MCS7840_UART_REG_MCR,VAR_2
+umcs7840_get_reg_sync,FUNC_1
+umcs7840_port_registers,VAR_3
+umcs7840_set_UART_reg_sync,FUNC_2
+umcs7840_set_reg_sync,FUNC_3
+umcs7840_stop_read,FUNC_4
+umcs7840_stop_write,FUNC_5
+umcs7840_cfg_close,FUNC_6
+ucom,VAR_4
+sc,VAR_5
+pn,VAR_6
+data,VAR_7

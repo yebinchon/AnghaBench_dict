@@ -1,0 +1,13 @@
+clk_put,FUNC_0
+dev_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_status_suspended,FUNC_3
+snd_soc_unregister_component,FUNC_4
+tegra30_ahub_free_rx_fifo,FUNC_5
+tegra30_ahub_free_tx_fifo,FUNC_6
+tegra30_ahub_unset_rx_cif_source,FUNC_7
+tegra30_i2s_runtime_suspend,FUNC_8
+tegra_pcm_platform_unregister,FUNC_9
+tegra30_i2s_platform_remove,FUNC_10
+pdev,VAR_0
+i2s,VAR_1

@@ -1,0 +1,17 @@
+VERIFY_WRITE,VAR_0
+__copy_user,FUNC_0
+access_ok,FUNC_1
+generate_and_check_address,FUNC_2
+misaligned_kernel_word_store,FUNC_3
+printk,FUNC_4
+user_mode,FUNC_5
+misaligned_store,FUNC_6
+regs,VAR_1
+opcode,VAR_2
+displacement_not_indexed,VAR_3
+width_shift,VAR_4
+error,VAR_5
+srcreg,VAR_6
+address,VAR_7
+buffer,VAR_8
+val,VAR_9

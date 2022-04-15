@@ -1,0 +1,14 @@
+Q8_FWCD_ADD_MAC_ADDR,VAR_0
+Q8_FWCD_CNTRL_REQ,VAR_1
+Q8_FWCD_DEL_MAC_ADDR,VAR_2
+Q8_FWCD_OPCODE_CONFIG_MAC_ADDR,VAR_3
+bcopy,FUNC_0
+bzero,FUNC_1
+qla_fw_cmd,FUNC_2
+qla_config_mac_addr,FUNC_3
+ha,VAR_4
+mac_addr,VAR_5
+cntxt_id,VAR_6
+add_multi,VAR_7
+mac_config,VAR_8
+ret,VAR_9

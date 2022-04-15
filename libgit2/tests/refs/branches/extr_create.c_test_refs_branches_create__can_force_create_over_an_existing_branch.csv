@@ -1,0 +1,12 @@
+branch,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_branch_create,FUNC_2
+git_commit_id,FUNC_3
+git_oid_cmp,FUNC_4
+git_reference_name,FUNC_5
+git_reference_target,FUNC_6
+repo,VAR_1
+retrieve_known_commit,FUNC_7
+target,VAR_2
+test_refs_branches_create__can_force_create_over_an_existing_branch,FUNC_8

@@ -1,0 +1,8 @@
+BALLOON3_CF_CONTROL_REG,VAR_0
+BALLOON3_CF_RESET,VAR_1
+BALLOON3_FPGA_SETnCLR,VAR_2
+SS_RESET,VAR_3
+__raw_writew,FUNC_0
+balloon3_pcmcia_configure_socket,FUNC_1
+skt,VAR_4
+state,VAR_5

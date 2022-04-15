@@ -1,0 +1,17 @@
+SCHED_RR,VAR_0
+T_ASSERT_POSIX_ZERO,FUNC_0
+pthread_attr_destroy,FUNC_1
+pthread_attr_init,FUNC_2
+pthread_attr_setschedparam,FUNC_3
+pthread_attr_setschedpolicy,FUNC_4
+pthread_create,FUNC_5
+threads,VAR_1
+create_thread,FUNC_6
+thread_id,VAR_2
+priority,VAR_3
+fixpri,VAR_4
+start_routine,VAR_5
+rv,VAR_6
+new_thread,VAR_7
+param,VAR_8
+attr,VAR_9

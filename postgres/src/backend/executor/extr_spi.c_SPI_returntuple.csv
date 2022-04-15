@@ -1,0 +1,14 @@
+DatumGetHeapTupleHeader,FUNC_0
+MemoryContextSwitchTo,FUNC_1
+RECORDOID,VAR_0
+SPI_ERROR_ARGUMENT,VAR_1
+SPI_ERROR_UNCONNECTED,VAR_2
+SPI_result,VAR_3
+_SPI_current,VAR_4
+assign_record_type_typmod,FUNC_2
+heap_copy_tuple_as_datum,FUNC_3
+SPI_returntuple,FUNC_4
+tuple,VAR_5
+tupdesc,VAR_6
+oldcxt,VAR_7
+dtup,VAR_8

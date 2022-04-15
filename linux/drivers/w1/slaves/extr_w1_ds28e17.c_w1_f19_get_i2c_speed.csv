@@ -1,0 +1,11 @@
+EIO,VAR_0
+W1_F19_READ_CONFIGURATION,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+w1_read_8,FUNC_2
+w1_reset_select_slave,FUNC_3
+w1_write_8,FUNC_4
+w1_f19_get_i2c_speed,FUNC_5
+sl,VAR_2
+data,VAR_3
+result,VAR_4

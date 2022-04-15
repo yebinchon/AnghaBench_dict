@@ -1,0 +1,16 @@
+CommitTransactionCommand,FUNC_0
+CurrentMemoryContext,VAR_0
+DEBUG1,VAR_1
+MemoryContextSwitchTo,FUNC_1
+NIL,VAR_2
+SignalBackends,FUNC_2
+StartTransactionCommand,FUNC_3
+Trace_notify,VAR_3
+asyncQueueAdvanceTail,FUNC_4
+asyncQueueReadAllNotifications,FUNC_5
+backendHasSentNotifications,VAR_4
+backendTryAdvanceTail,VAR_5
+elog,FUNC_6
+listenChannels,VAR_6
+ProcessCompletedNotifies,FUNC_7
+caller_context,VAR_7

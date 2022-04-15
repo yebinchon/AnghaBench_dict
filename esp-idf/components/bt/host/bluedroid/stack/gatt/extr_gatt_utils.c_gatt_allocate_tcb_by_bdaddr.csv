@@ -1,0 +1,17 @@
+BD_ADDR_LEN,VAR_0
+FALSE,VAR_1
+GATT_INDEX_INVALID,VAR_2
+QUEUE_SIZE_MAX,VAR_3
+TRUE,VAR_4
+fixed_queue_new,FUNC_0
+gatt_cb,VAR_5
+gatt_find_i_tcb_by_addr,FUNC_1
+gatt_find_i_tcb_free,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+gatt_allocate_tcb_by_bdaddr,FUNC_5
+bda,VAR_6
+transport,VAR_7
+i,VAR_8
+allocated,VAR_9
+p_tcb,VAR_10

@@ -1,0 +1,10 @@
+ZFCP_STATUS_ERP_DISMISSED,VAR_0
+ZFCP_STATUS_ERP_TIMEDOUT,VAR_1
+ZFCP_STATUS_FSFREQ_DISMISSED,VAR_2
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+zfcp_dbf_rec_action,FUNC_2
+zfcp_reqlist_find_safe,FUNC_3
+zfcp_erp_strategy_check_fsfreq,FUNC_4
+act,VAR_3
+adapter,VAR_4

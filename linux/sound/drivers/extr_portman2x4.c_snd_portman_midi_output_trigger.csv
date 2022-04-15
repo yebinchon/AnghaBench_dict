@@ -1,0 +1,10 @@
+portman_write_midi,FUNC_0
+snd_rawmidi_transmit,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+snd_portman_midi_output_trigger,FUNC_4
+substream,VAR_0
+up,VAR_1
+pm,VAR_2
+flags,VAR_3
+byte,VAR_4

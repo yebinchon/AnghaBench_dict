@@ -1,0 +1,11 @@
+XN_TX_LOCK,FUNC_0
+XN_TX_UNLOCK,FUNC_1
+buf_ring_dequeue_sc,FUNC_2
+if_qflush,FUNC_3
+m_freem,FUNC_4
+xn_qflush,FUNC_5
+ifp,VAR_0
+np,VAR_1
+txq,VAR_2
+m,VAR_3
+i,VAR_4

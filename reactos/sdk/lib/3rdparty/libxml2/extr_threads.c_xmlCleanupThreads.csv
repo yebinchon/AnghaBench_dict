@@ -1,0 +1,17 @@
+DeleteCriticalSection,FUNC_0
+EnterCriticalSection,FUNC_1
+LeaveCriticalSection,FUNC_2
+TLS_OUT_OF_INDEXES,VAR_0
+TlsFree,FUNC_3
+cleanup_helpers_cs,VAR_1
+cleanup_helpers_head,VAR_2
+free,FUNC_4
+globalkey,VAR_3
+libxml_is_threaded,VAR_4
+once_control,VAR_5
+once_control_init,VAR_6
+pthread_key_delete,FUNC_5
+xmlFreeGlobalState,FUNC_6
+xmlGenericError,FUNC_7
+xmlGenericErrorContext,VAR_7
+xmlCleanupThreads,FUNC_8

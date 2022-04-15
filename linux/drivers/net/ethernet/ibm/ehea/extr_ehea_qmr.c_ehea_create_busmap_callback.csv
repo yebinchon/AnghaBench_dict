@@ -1,0 +1,15 @@
+EHEA_BUSMAP_ADD_SECT,VAR_0
+EHEA_HUGEPAGE_SIZE,VAR_1
+EHEA_SECTSIZE,VAR_2
+PAGE_SIZE,VAR_3
+ehea_is_hugepage,FUNC_0
+ehea_update_busmap,FUNC_1
+ehea_create_busmap_callback,FUNC_2
+initial_pfn,VAR_4
+total_nr_pages,VAR_5
+arg,VAR_6
+ret,VAR_7
+pfn,VAR_8
+start_pfn,VAR_9
+end_pfn,VAR_10
+nr_pages,VAR_11

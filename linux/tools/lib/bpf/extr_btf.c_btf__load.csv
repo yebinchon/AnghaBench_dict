@@ -1,0 +1,14 @@
+BPF_LOG_BUF_SIZE,VAR_0
+EEXIST,VAR_1
+ENOMEM,VAR_2
+bpf_load_btf,FUNC_0
+errno,VAR_3
+free,FUNC_1
+malloc,FUNC_2
+pr_warning,FUNC_3
+strerror,FUNC_4
+btf__load,FUNC_5
+btf,VAR_4
+log_buf_size,VAR_5
+log_buf,VAR_6
+err,VAR_7

@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+SLAB_TYPESAFE_BY_RCU,VAR_1
+__kmem_cache_shutdown,FUNC_0
+kasan_cache_shutdown,FUNC_1
+list_add_tail,FUNC_2
+list_del,FUNC_3
+memcg_unlink_cache,FUNC_4
+schedule_work,FUNC_5
+slab_caches_to_rcu_destroy,VAR_2
+slab_caches_to_rcu_destroy_work,VAR_3
+slab_kmem_cache_release,FUNC_6
+sysfs_slab_release,FUNC_7
+sysfs_slab_unlink,FUNC_8
+shutdown_cache,FUNC_9
+s,VAR_4

@@ -1,0 +1,16 @@
+GET_EEPROM_EFUSE_PRIV,FUNC_0
+Hal_EfuseParseBoardType88E,FUNC_1
+Hal_EfuseParseCustomerID88E,FUNC_2
+Hal_EfuseParseEEPROMVer88E,FUNC_3
+Hal_EfuseParseIDCode88E,FUNC_4
+Hal_EfuseParseMACAddr_8188EU,FUNC_5
+Hal_EfuseParsePIDVID_8188EU,FUNC_6
+Hal_EfuseParseXtal_8188E,FUNC_7
+Hal_ReadAntennaDiversity88E,FUNC_8
+Hal_ReadPowerSavingMode88E,FUNC_9
+Hal_ReadThermalMeter_88E,FUNC_10
+Hal_ReadTxPowerInfo88E,FUNC_11
+rtl8188e_EfuseParseChnlPlan,FUNC_12
+readAdapterInfo_8188EU,FUNC_13
+adapt,VAR_0
+eeprom,VAR_1

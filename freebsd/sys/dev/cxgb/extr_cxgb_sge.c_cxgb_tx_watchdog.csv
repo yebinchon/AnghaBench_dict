@@ -1,0 +1,15 @@
+IFF_DRV_RUNNING,VAR_0
+QS_FLUSHING,VAR_1
+TXQ_ETH,VAR_2
+TXQ_RING_EMPTY,FUNC_0
+TXQ_TRYLOCK,FUNC_1
+TXQ_UNLOCK,FUNC_2
+callout_reset_on,FUNC_3
+cxgb_start_locked,FUNC_4
+cxgb_tx_coalesce_enable_start,VAR_3
+cxgb_tx_coalesce_enable_stop,VAR_4
+hz,VAR_5
+cxgb_tx_watchdog,FUNC_5
+arg,VAR_6
+qs,VAR_7
+txq,VAR_8

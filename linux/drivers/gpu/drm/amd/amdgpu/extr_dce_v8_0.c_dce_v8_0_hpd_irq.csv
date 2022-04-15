@@ -1,0 +1,16 @@
+DC_HPD1_INT_CONTROL__DC_HPD1_INT_ACK_MASK,VAR_0
+DRM_DEBUG,FUNC_0
+RREG32,FUNC_1
+WREG32,FUNC_2
+hpd_offsets,VAR_1
+interrupt_status_offsets,VAR_2
+mmDC_HPD1_INT_CONTROL,VAR_3
+schedule_work,FUNC_3
+dce_v8_0_hpd_irq,FUNC_4
+adev,VAR_4
+source,VAR_5
+entry,VAR_6
+disp_int,VAR_7
+mask,VAR_8
+tmp,VAR_9
+hpd,VAR_10

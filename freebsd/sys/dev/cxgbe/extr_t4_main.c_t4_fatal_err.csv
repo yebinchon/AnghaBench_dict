@@ -1,0 +1,16 @@
+ADAPTER_LOCK,FUNC_0
+ADAPTER_UNLOCK,FUNC_1
+ADAP_ERR,VAR_0
+ASSERT_SYNCHRONIZED_OP,FUNC_2
+LOG_ALERT,VAR_1
+callout_reset,FUNC_3
+delayed_panic,VAR_2
+device_get_nameunit,FUNC_4
+fatal_callout,VAR_3
+hz,VAR_4
+log,FUNC_5
+t4_panic_on_fatal_err,VAR_5
+t4_shutdown_adapter,FUNC_6
+t4_fatal_err,FUNC_7
+sc,VAR_6
+fw_error,VAR_7

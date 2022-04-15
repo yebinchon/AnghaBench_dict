@@ -1,0 +1,13 @@
+DOORBELL_KDB,VAR_0
+ENXIO,VAR_1
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_2
+SYS_RES_MEMORY,VAR_3
+bus_alloc_resource_any,FUNC_1
+device_printf,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+rman_get_size,FUNC_5
+setbit,FUNC_6
+t4_map_bars_0_and_4,FUNC_7
+sc,VAR_4

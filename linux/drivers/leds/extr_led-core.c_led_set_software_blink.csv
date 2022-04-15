@@ -1,0 +1,12 @@
+LED_BLINK_SW,VAR_0
+LED_OFF,VAR_1
+jiffies,VAR_2
+led_get_brightness,FUNC_0
+led_set_brightness_nosleep,FUNC_1
+mod_timer,FUNC_2
+set_bit,FUNC_3
+led_set_software_blink,FUNC_4
+led_cdev,VAR_3
+delay_on,VAR_4
+delay_off,VAR_5
+current_brightness,VAR_6

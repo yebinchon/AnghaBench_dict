@@ -1,0 +1,10 @@
+HDA_GEN_PCM_ACT_PREPARE,VAR_0
+call_pcm_capture_hook,FUNC_0
+snd_hda_codec_setup_stream,FUNC_1
+dyn_adc_capture_pcm_prepare,FUNC_2
+hinfo,VAR_1
+codec,VAR_2
+stream_tag,VAR_3
+format,VAR_4
+substream,VAR_5
+spec,VAR_6

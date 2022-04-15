@@ -1,0 +1,16 @@
+LDNS_STATUS_CRYPTO_NO_MATCHING_KEYTAG_DNSKEY,VAR_0
+LDNS_STATUS_CRYPTO_NO_RRSIG,VAR_1
+LDNS_STATUS_CRYPTO_NO_TRUSTED_DNSKEY,VAR_2
+LDNS_STATUS_ERR,VAR_3
+LDNS_STATUS_OK,VAR_4
+ldns_rr_list_rr,FUNC_0
+ldns_rr_list_rr_count,FUNC_1
+ldns_verify_rrsig_keylist_notime,FUNC_2
+ldns_verify_notime,FUNC_3
+rrset,VAR_5
+rrsig,VAR_6
+keys,VAR_7
+good_keys,VAR_8
+i,VAR_9
+verify_result,VAR_10
+s,VAR_11

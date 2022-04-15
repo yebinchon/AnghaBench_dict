@@ -1,0 +1,12 @@
+IFF_ALLMULTI,VAR_0
+IFF_PROMISC,VAR_1
+VPORT_MISS_MODE_ACCEPT_ALL,VAR_2
+VPORT_MISS_MODE_ACCEPT_MULTI,VAR_3
+VPORT_MISS_MODE_DROP,VAR_4
+msleep,FUNC_0
+qlcnic_nic_set_promisc,FUNC_1
+qlcnic_set_fw_loopback,FUNC_2
+qlcnic_82xx_clear_lb_mode,FUNC_3
+adapter,VAR_5
+mode,VAR_6
+netdev,VAR_7

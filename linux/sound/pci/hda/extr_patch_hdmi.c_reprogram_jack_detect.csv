@@ -1,0 +1,11 @@
+AC_USRSP_EN,VAR_0
+AC_VERB_SET_UNSOLICITED_ENABLE,VAR_1
+snd_hda_codec_write_cache,FUNC_0
+snd_hda_jack_detect_enable,FUNC_1
+snd_hda_jack_tbl_get,FUNC_2
+reprogram_jack_detect,FUNC_3
+codec,VAR_2
+nid,VAR_3
+use_acomp,VAR_4
+tbl,VAR_5
+val,VAR_6

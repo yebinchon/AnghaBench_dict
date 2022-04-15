@@ -1,0 +1,16 @@
+copy_from_brd,FUNC_0
+copy_to_brd,FUNC_1
+copy_to_brd_setup,FUNC_2
+flush_dcache_page,FUNC_3
+kmap_atomic,FUNC_4
+kunmap_atomic,FUNC_5
+op_is_write,FUNC_6
+brd_do_bvec,FUNC_7
+brd,VAR_0
+page,VAR_1
+len,VAR_2
+off,VAR_3
+op,VAR_4
+sector,VAR_5
+mem,VAR_6
+err,VAR_7

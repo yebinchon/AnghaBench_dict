@@ -1,0 +1,10 @@
+RTC_INT_MASK,VAR_0
+STATUS_REG,VAR_1
+readl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel,FUNC_3
+spear_rtc_clear_interrupt,FUNC_4
+config,VAR_2
+val,VAR_3
+flags,VAR_4

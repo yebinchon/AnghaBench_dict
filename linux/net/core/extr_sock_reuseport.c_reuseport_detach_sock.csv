@@ -1,0 +1,13 @@
+bpf_sk_reuseport_detach,FUNC_0
+call_rcu,FUNC_1
+lockdep_is_held,FUNC_2
+rcu_assign_pointer,FUNC_3
+rcu_dereference_protected,FUNC_4
+reuseport_free_rcu,VAR_0
+reuseport_lock,VAR_1
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+reuseport_detach_sock,FUNC_7
+sk,VAR_2
+reuse,VAR_3
+i,VAR_4

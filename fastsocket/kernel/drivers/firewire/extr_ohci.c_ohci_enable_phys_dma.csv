@@ -1,0 +1,17 @@
+ESTALE,VAR_0
+LOCAL_BUS,VAR_1
+OHCI1394_PhyReqFilterHiSet,VAR_2
+OHCI1394_PhyReqFilterLoSet,VAR_3
+flush_writes,FUNC_0
+fw_ohci,FUNC_1
+reg_write,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ohci_enable_phys_dma,FUNC_5
+card,VAR_4
+node_id,VAR_5
+generation,VAR_6
+ohci,VAR_7
+flags,VAR_8
+n,VAR_9
+ret,VAR_10

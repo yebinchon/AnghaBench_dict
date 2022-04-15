@@ -1,0 +1,14 @@
+SCIF_LOG_OBJECT_IO_REQUEST,VAR_0
+SCIF_LOG_OBJECT_REMOTE_DEVICE,VAR_1
+SCIF_LOG_TRACE,FUNC_0
+SCI_SUCCESS,VAR_2
+TRUE,VAR_3
+sci_base_object_get_logger,FUNC_1
+scif_sas_internal_io_request_complete,FUNC_2
+scif_sas_remote_device_stopping_complete_high_priority_io_handler,FUNC_3
+remote_device,VAR_4
+io_request,VAR_5
+response_data,VAR_6
+completion_status,VAR_7
+fw_device,VAR_8
+fw_request,VAR_9

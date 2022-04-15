@@ -1,0 +1,14 @@
+DBUS_TYPE_BOOLEAN,VAR_0
+VLC_ENOMEM,VAR_1
+VLC_PLAYLIST_PLAYBACK_ORDER_RANDOM,VAR_2
+VLC_SUCCESS,VAR_3
+dbus_message_iter_append_basic,FUNC_0
+vlc_playlist_GetPlaybackOrder,FUNC_1
+vlc_playlist_Lock,FUNC_2
+vlc_playlist_Unlock,FUNC_3
+MarshalShuffle,FUNC_4
+p_intf,VAR_4
+container,VAR_5
+playlist,VAR_6
+order_mode,VAR_7
+b_shuffle,VAR_8

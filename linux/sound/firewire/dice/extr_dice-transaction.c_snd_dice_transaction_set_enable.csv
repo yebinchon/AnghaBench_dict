@@ -1,0 +1,11 @@
+FW_FIXED_GENERATION,VAR_0
+GLOBAL_ENABLE,VAR_1
+SND_DICE_ADDR_TYPE_GLOBAL,VAR_2
+TCODE_WRITE_QUADLET_REQUEST,VAR_3
+cpu_to_be32,FUNC_0
+get_subaddr,FUNC_1
+snd_fw_transaction,FUNC_2
+snd_dice_transaction_set_enable,FUNC_3
+dice,VAR_4
+value,VAR_5
+err,VAR_6

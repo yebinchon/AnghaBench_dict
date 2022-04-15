@@ -1,0 +1,14 @@
+Assert,FUNC_0
+FreeTriggerDesc,FUNC_1
+FreeTupleDesc,FUNC_2
+MemoryContextDelete,FUNC_3
+RelationCloseSmgr,FUNC_4
+RelationHasReferenceCountZero,FUNC_5
+RememberToFreeTupleDescAtEOX,FUNC_6
+bms_free,FUNC_7
+list_free,FUNC_8
+list_free_deep,FUNC_9
+pfree,FUNC_10
+RelationDestroyRelation,FUNC_11
+relation,VAR_0
+remember_tupdesc,VAR_1

@@ -1,0 +1,9 @@
+DNS_SERVER_FEATURE_GRACE_PERIOD_MAX_USEC,VAR_0
+MIN,FUNC_0
+assert,FUNC_1
+assert_se,FUNC_2
+clock_boottime_or_monotonic,FUNC_3
+sd_event_now,FUNC_4
+dns_server_grace_period_expired,FUNC_5
+s,VAR_1
+ts,VAR_2

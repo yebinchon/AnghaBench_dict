@@ -1,0 +1,16 @@
+LM90_REG_W_TCRIT_HYST,VAR_0
+LOCAL_CRIT,VAR_1
+adt7461,VAR_2
+hyst_to_reg,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+max6646,VAR_3
+temp_from_s8,FUNC_2
+temp_from_u8,FUNC_3
+temp_from_u8_adt7461,FUNC_4
+tmp451,VAR_4
+lm90_set_temphyst,FUNC_5
+data,VAR_5
+val,VAR_6
+client,VAR_7
+temp,VAR_8
+err,VAR_9

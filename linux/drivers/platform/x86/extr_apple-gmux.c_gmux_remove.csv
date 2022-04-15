@@ -1,0 +1,16 @@
+ACPI_DEVICE_NOTIFY,VAR_0
+acpi_disable_gpe,FUNC_0
+acpi_remove_notify_handler,FUNC_1
+acpi_video_register,FUNC_2
+apple_bl_register,FUNC_3
+apple_gmux_data,VAR_1
+backlight_device_unregister,FUNC_4
+gmux_disable_interrupts,FUNC_5
+gmux_notify_handler,VAR_2
+kfree,FUNC_6
+pnp_get_drvdata,FUNC_7
+release_region,FUNC_8
+vga_switcheroo_unregister_handler,FUNC_9
+gmux_remove,FUNC_10
+pnp,VAR_3
+gmux_data,VAR_4

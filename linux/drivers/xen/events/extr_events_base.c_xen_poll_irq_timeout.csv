@@ -1,0 +1,11 @@
+BUG,FUNC_0
+HYPERVISOR_sched_op,FUNC_1
+SCHEDOP_poll,VAR_0
+VALID_EVTCHN,FUNC_2
+evtchn_from_irq,FUNC_3
+set_xen_guest_handle,FUNC_4
+xen_poll_irq_timeout,FUNC_5
+irq,VAR_1
+timeout,VAR_2
+evtchn,VAR_3
+poll,VAR_4

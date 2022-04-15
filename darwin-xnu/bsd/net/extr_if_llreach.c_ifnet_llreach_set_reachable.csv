@@ -1,0 +1,15 @@
+IF_LLREACH_MAXLEN,VAR_0
+RB_FIND,FUNC_0
+VERIFY,FUNC_1
+bcopy,FUNC_2
+lck_rw_done,FUNC_3
+lck_rw_lock_shared,FUNC_4
+ll_reach_tree,VAR_1
+net_uptime,FUNC_5
+ifnet_llreach_set_reachable,FUNC_6
+ifp,VAR_2
+llproto,VAR_3
+addr,VAR_4
+alen,VAR_5
+find,VAR_6
+lr,VAR_7

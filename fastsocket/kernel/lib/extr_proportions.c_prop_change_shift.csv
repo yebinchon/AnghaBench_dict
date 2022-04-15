@@ -1,0 +1,16 @@
+PROP_MAX_SHIFT,VAR_0
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+percpu_counter_set,FUNC_4
+percpu_counter_sum,FUNC_5
+smp_wmb,FUNC_6
+synchronize_rcu,FUNC_7
+prop_change_shift,FUNC_8
+pd,VAR_1
+shift,VAR_2
+index,VAR_3
+offset,VAR_4
+events,VAR_5
+flags,VAR_6

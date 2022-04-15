@@ -1,0 +1,9 @@
+MEMBAR_CTRL_INT_CTRL_HOSTINTR_MASK,VAR_0
+PCICFG_MEMBAR_CTRL_INT_CTRL_OFFSET,VAR_1
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+be_reg_intr_set,FUNC_2
+adapter,VAR_2
+enable,VAR_3
+reg,VAR_4
+enabled,VAR_5

@@ -1,0 +1,11 @@
+CLKNODE_SET_MUX,FUNC_0
+CLK_TOPO_XASSERT,FUNC_1
+clknode_adjust_parent,FUNC_2
+clknode_get_freq,FUNC_3
+clknode_refresh_cache,FUNC_4
+clknode_set_parent_by_idx,FUNC_5
+clknode,VAR_0
+idx,VAR_1
+rv,VAR_2
+freq,VAR_3
+oldidx,VAR_4

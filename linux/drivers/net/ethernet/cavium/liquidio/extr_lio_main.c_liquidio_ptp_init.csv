@@ -1,0 +1,10 @@
+CN6XXX_MIO_PTP_CLOCK_CFG,VAR_0
+CN6XXX_MIO_PTP_CLOCK_COMP,VAR_1
+NSEC_PER_SEC,VAR_2
+do_div,FUNC_0
+lio_pci_readq,FUNC_1
+lio_pci_writeq,FUNC_2
+liquidio_ptp_init,FUNC_3
+oct,VAR_3
+clock_comp,VAR_4
+cfg,VAR_5

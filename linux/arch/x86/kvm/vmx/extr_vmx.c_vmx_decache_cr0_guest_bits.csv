@@ -1,0 +1,5 @@
+GUEST_CR0,VAR_0
+vmcs_readl,FUNC_0
+vmx_decache_cr0_guest_bits,FUNC_1
+vcpu,VAR_1
+cr0_guest_owned_bits,VAR_2

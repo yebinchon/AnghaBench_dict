@@ -1,0 +1,16 @@
+PF_W,VAR_0
+PF_X,VAR_1
+PT_LOAD,VAR_2
+VM_PROT_EXECUTE,VAR_3
+VM_PROT_READ,VAR_4
+VM_PROT_WRITE,VAR_5
+pmap_change_prot,FUNC_0
+round_page,FUNC_1
+preload_protect,FUNC_2
+ef,VAR_6
+prot,VAR_7
+hdr,VAR_8
+phdr,VAR_9
+phlimit,VAR_10
+nprot,VAR_11
+error,VAR_12

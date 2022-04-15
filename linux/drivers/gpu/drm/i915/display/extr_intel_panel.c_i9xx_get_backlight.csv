@@ -1,0 +1,13 @@
+BACKLIGHT_DUTY_CYCLE_MASK,VAR_0
+BLC_PWM_CTL,VAR_1
+I915_READ,FUNC_0
+INTEL_GEN,FUNC_1
+LBPC,VAR_2
+pci_read_config_byte,FUNC_2
+to_i915,FUNC_3
+i9xx_get_backlight,FUNC_4
+connector,VAR_3
+dev_priv,VAR_4
+panel,VAR_5
+val,VAR_6
+lbpc,VAR_7

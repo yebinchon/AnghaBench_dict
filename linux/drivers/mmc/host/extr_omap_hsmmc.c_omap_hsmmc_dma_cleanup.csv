@@ -1,0 +1,12 @@
+dma_unmap_sg,FUNC_0
+dmaengine_terminate_all,FUNC_1
+mmc_get_dma_dir,FUNC_2
+omap_hsmmc_get_dma_chan,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+omap_hsmmc_dma_cleanup,FUNC_6
+host,VAR_0
+errno,VAR_1
+dma_ch,VAR_2
+flags,VAR_3
+chan,VAR_4

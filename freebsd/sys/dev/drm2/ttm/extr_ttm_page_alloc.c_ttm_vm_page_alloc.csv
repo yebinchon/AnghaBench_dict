@@ -1,0 +1,17 @@
+PG_FICTITIOUS,VAR_0
+TTM_PAGE_FLAG_DMA32,VAR_1
+TTM_PAGE_FLAG_ZERO_ALLOC,VAR_2
+VM_ALLOC_NOOBJ,VAR_3
+VM_ALLOC_NORMAL,VAR_4
+VM_ALLOC_WIRED,VAR_5
+VM_ALLOC_ZERO,VAR_6
+VPO_UNMANAGED,VAR_7
+ttm_caching_state_to_vm,FUNC_0
+ttm_vm_page_alloc_any,FUNC_1
+ttm_vm_page_alloc_dma32,FUNC_2
+ttm_vm_page_alloc,FUNC_3
+flags,VAR_8
+cstate,VAR_9
+p,VAR_10
+memattr,VAR_11
+req,VAR_12

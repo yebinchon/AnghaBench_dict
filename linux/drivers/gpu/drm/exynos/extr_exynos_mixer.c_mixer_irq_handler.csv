@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+MXR_BIT_INTERLACE,VAR_1
+MXR_INT_CLEAR_VSYNC,VAR_2
+MXR_INT_STATUS,VAR_3
+MXR_INT_STATUS_VSYNC,VAR_4
+drm_crtc_handle_vblank,FUNC_0
+mixer_is_synced,FUNC_1
+mixer_reg_read,FUNC_2
+mixer_reg_write,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+test_bit,FUNC_6
+mixer_irq_handler,FUNC_7
+irq,VAR_5
+arg,VAR_6
+ctx,VAR_7
+val,VAR_8

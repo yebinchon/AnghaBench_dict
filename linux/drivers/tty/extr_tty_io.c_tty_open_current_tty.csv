@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+ERR_PTR,FUNC_0
+MKDEV,FUNC_1
+O_NONBLOCK,VAR_1
+TTYAUX_MAJOR,VAR_2
+get_current_tty,FUNC_2
+tty_kref_put,FUNC_3
+tty_lock,FUNC_4
+tty_reopen,FUNC_5
+tty_unlock,FUNC_6
+tty_open_current_tty,FUNC_7
+device,VAR_3
+filp,VAR_4
+tty,VAR_5
+retval,VAR_6

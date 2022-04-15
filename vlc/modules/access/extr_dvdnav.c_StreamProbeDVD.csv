@@ -1,0 +1,14 @@
+DVD_VIDEO_LB_LEN,VAR_0
+GetWLE,FUNC_0
+VLC_EGENERIC,VAR_1
+VLC_SUCCESS,VAR_2
+memcmp,FUNC_1
+vlc_stream_Peek,FUNC_2
+vlc_stream_Read,FUNC_3
+vlc_stream_Seek,FUNC_4
+StreamProbeDVD,FUNC_5
+s,VAR_3
+i_peek,VAR_4
+p_peek,VAR_5
+iso_dsc,VAR_6
+anchor,VAR_7

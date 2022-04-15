@@ -1,0 +1,14 @@
+GIT_ECONFLICT,VAR_0
+GIT_ENOTFOUND,VAR_1
+GIT_STATUS_CURRENT,VAR_2
+GIT_STATUS_WT_MODIFIED,VAR_3
+GIT_STATUS_WT_NEW,VAR_4
+assert_status,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_fail_with,FUNC_2
+cl_git_rewritefile,FUNC_3
+git_index_has_conflicts,FUNC_4
+git_stash_apply,FUNC_5
+repo,VAR_5
+repo_index,VAR_6
+test_stash_apply__conflict_workdir_with_default,FUNC_6

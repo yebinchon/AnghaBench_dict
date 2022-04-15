@@ -1,0 +1,14 @@
+MAC_REG_TCR,VAR_0
+MAC_REG_TFTCTL,VAR_1
+TCR_AUTOBCNTX,VAR_2
+TFTCTL_TSFCNTREN,VAR_3
+vnt_beacon_make,FUNC_0
+vnt_clear_current_tsf,FUNC_1
+vnt_mac_reg_bits_off,FUNC_2
+vnt_mac_reg_bits_on,FUNC_3
+vnt_mac_set_beacon_interval,FUNC_4
+vnt_reset_next_tbtt,FUNC_5
+vnt_beacon_enable,FUNC_6
+priv,VAR_4
+vif,VAR_5
+conf,VAR_6

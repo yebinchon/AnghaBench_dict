@@ -1,0 +1,17 @@
+AllocateAnyPages,VAR_0
+BS,VAR_1
+EFI_ERROR,FUNC_0
+EFI_ERROR_CODE,FUNC_1
+EFI_SIZE_TO_PAGES,FUNC_2
+EfiLoaderData,VAR_2
+SDT_SYSTSS,VAR_3
+bzero,FUNC_3
+printf,FUNC_4
+stub1,FUNC_5
+tss_pa,VAR_4
+efi_setup_tss,FUNC_6
+gdt,VAR_5
+loader_tss_idx,VAR_6
+tss,VAR_7
+status,VAR_8
+tss_desc,VAR_9

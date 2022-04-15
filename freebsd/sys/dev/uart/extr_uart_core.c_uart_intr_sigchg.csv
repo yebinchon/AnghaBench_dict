@@ -1,0 +1,14 @@
+PPS_CAPTUREBOTH,VAR_0
+SER_INT_SIGCHG,VAR_1
+SER_INT_SIGMASK,VAR_2
+SER_MASK_STATE,VAR_3
+UART_GETSIG,FUNC_0
+atomic_cmpset_32,FUNC_1
+uart_pps_process,FUNC_2
+uart_sched_softih,FUNC_3
+uart_intr_sigchg,FUNC_4
+arg,VAR_4
+sc,VAR_5
+new,VAR_6
+old,VAR_7
+sig,VAR_8

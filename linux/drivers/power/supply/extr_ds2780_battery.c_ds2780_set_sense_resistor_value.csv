@@ -1,0 +1,13 @@
+ds2780_set_sense_register,FUNC_0
+kstrtou8,FUNC_1
+to_ds2780_device_info,FUNC_2
+to_power_supply,FUNC_3
+ds2780_set_sense_resistor_value,FUNC_4
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+count,VAR_3
+ret,VAR_4
+new_setting,VAR_5
+psy,VAR_6
+dev_info,VAR_7

@@ -1,0 +1,12 @@
+MSR_AMD64_DC_CFG,VAR_0
+boot_cpu_data,VAR_1
+erratum_383_found,VAR_2
+lower_32_bits,FUNC_0
+native_read_msr_safe,FUNC_1
+native_write_msr_safe,FUNC_2
+upper_32_bits,FUNC_3
+svm_init_erratum_383,FUNC_4
+low,VAR_3
+high,VAR_4
+err,VAR_5
+val,VAR_6

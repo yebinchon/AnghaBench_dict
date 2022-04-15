@@ -1,0 +1,11 @@
+KVM_ASYNC_PF_DELIVERY_AS_PF_VMEXIT,VAR_0
+KVM_ASYNC_PF_ENABLED,VAR_1
+KVM_ASYNC_PF_SEND_ALWAYS,VAR_2
+kvm_async_pf_hash_reset,FUNC_0
+kvm_async_pf_wakeup_all,FUNC_1
+kvm_clear_async_pf_completion_queue,FUNC_2
+kvm_gfn_to_hva_cache_init,FUNC_3
+kvm_pv_enable_async_pf,FUNC_4
+vcpu,VAR_3
+data,VAR_4
+gpa,VAR_5

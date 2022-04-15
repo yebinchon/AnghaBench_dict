@@ -1,0 +1,9 @@
+FOR_EACH_OBJECT_PROMISOR_ONLY,VAR_0
+add_promisor_object,VAR_1
+for_each_packed_object,FUNC_0
+has_promisor_remote,FUNC_1
+oidset_contains,FUNC_2
+is_promisor_object,FUNC_3
+oid,VAR_2
+promisor_objects,VAR_3
+promisor_objects_prepared,VAR_4

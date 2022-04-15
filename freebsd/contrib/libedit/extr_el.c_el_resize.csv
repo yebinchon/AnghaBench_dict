@@ -1,0 +1,14 @@
+SIGWINCH,VAR_0
+SIG_BLOCK,VAR_1
+SIG_SETMASK,VAR_2
+sigaddset,FUNC_0
+sigemptyset,FUNC_1
+sigprocmask,FUNC_2
+terminal_change_size,FUNC_3
+terminal_get_size,FUNC_4
+el_resize,FUNC_5
+el,VAR_3
+lins,VAR_4
+cols,VAR_5
+oset,VAR_6
+nset,VAR_7

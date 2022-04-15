@@ -1,0 +1,15 @@
+CEC_TX_ARRAY_CTRL,VAR_0
+CEC_TX_AUTO_EOM_EN,VAR_1
+CEC_TX_AUTO_SOM_EN,VAR_2
+CEC_TX_DATA_BASE,VAR_3
+CEC_TX_START,VAR_4
+cec_get_drvdata,FUNC_0
+writeb,FUNC_1
+writel,FUNC_2
+stih_cec_adap_transmit,FUNC_3
+adap,VAR_5
+attempts,VAR_6
+signal_free_time,VAR_7
+msg,VAR_8
+cec,VAR_9
+i,VAR_10

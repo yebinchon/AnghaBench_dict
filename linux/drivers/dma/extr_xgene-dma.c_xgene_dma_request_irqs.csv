@@ -1,0 +1,16 @@
+IRQ_DISABLE_UNLAZY,VAR_0
+XGENE_DMA_MAX_CHANNEL,VAR_1
+chan_err,FUNC_0
+dev_err,FUNC_1
+devm_free_irq,FUNC_2
+devm_request_irq,FUNC_3
+irq_clear_status_flags,FUNC_4
+irq_set_status_flags,FUNC_5
+xgene_dma_chan_ring_isr,VAR_2
+xgene_dma_err_isr,VAR_3
+xgene_dma_request_irqs,FUNC_6
+pdma,VAR_4
+chan,VAR_5
+ret,VAR_6
+i,VAR_7
+j,VAR_8

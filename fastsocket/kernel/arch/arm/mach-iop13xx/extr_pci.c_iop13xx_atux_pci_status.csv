@@ -1,0 +1,13 @@
+IOP13XX_ATUX_ATUISR,VAR_0
+IOP13XX_ATUX_ATUISR_ERROR,VAR_1
+IOP13XX_ATUX_ATUSR,VAR_2
+IOP_PCI_STATUS_ERROR,VAR_3
+PRINTK,FUNC_0
+__raw_readl,FUNC_1
+__raw_readw,FUNC_2
+__raw_writel,FUNC_3
+__raw_writew,FUNC_4
+iop13xx_atux_pci_status,FUNC_5
+clear,VAR_4
+status,VAR_5
+err,VAR_6

@@ -1,0 +1,8 @@
+SNDRV_SEQ_IOCTL_DELETE_PORT,VAR_0
+memset,FUNC_0
+snd_seq_kernel_client_ctl,FUNC_1
+snd_seq_event_port_detach,FUNC_2
+client,VAR_1
+port,VAR_2
+portinfo,VAR_3
+err,VAR_4

@@ -1,0 +1,17 @@
+MIXART_PLAYBACK_STREAMS,VAR_0
+MIXART_VOL_AES_MASK,VAR_1
+mixart_update_playback_stream_level,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_BUG_ON,FUNC_3
+snd_ctl_get_ioffidx,FUNC_4
+snd_kcontrol_chip,FUNC_5
+mixart_pcm_sw_put,FUNC_6
+kcontrol,VAR_2
+ucontrol,VAR_3
+chip,VAR_4
+changed,VAR_5
+is_aes,VAR_6
+idx,VAR_7
+i,VAR_8
+j,VAR_9

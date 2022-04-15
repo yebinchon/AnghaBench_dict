@@ -1,0 +1,17 @@
+Assert,FUNC_0
+CacheRegisterRelcacheCallback,FUNC_1
+CacheRegisterSyscacheCallback,FUNC_2
+HASH_BLOBS,VAR_0
+HASH_CONTEXT,VAR_1
+HASH_ELEM,VAR_2
+MemSet,FUNC_3
+MemoryContextSwitchTo,FUNC_4
+PUBLICATIONRELMAP,VAR_3
+RelationSyncCache,VAR_4
+hash_create,FUNC_5
+rel_sync_cache_publication_cb,VAR_5
+rel_sync_cache_relation_cb,VAR_6
+init_rel_sync_cache,FUNC_6
+cachectx,VAR_7
+ctl,VAR_8
+old_ctxt,VAR_9

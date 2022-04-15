@@ -1,0 +1,12 @@
+AUTOFS_DEV_IOCTL_FAIL,VAR_0
+AUTOFS_DEV_IOCTL_READY,VAR_1
+assert,FUNC_0
+errno,VAR_2
+init_autofs_dev_ioctl,FUNC_1
+ioctl,FUNC_2
+autofs_send_ready,FUNC_3
+dev_autofs_fd,VAR_3
+ioctl_fd,VAR_4
+token,VAR_5
+status,VAR_6
+param,VAR_7

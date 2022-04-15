@@ -1,0 +1,16 @@
+FW_CMD_ID_AND_COLOR,FUNC_0
+FW_CTXT_ACTION_REMOVE,VAR_0
+IWL_DEBUG_TE,FUNC_1
+TIME_EVENT_CMD,VAR_1
+WARN_ON,FUNC_2
+__iwl_mvm_remove_time_event,FUNC_3
+cpu_to_le32,FUNC_4
+iwl_mvm_send_cmd_pdu,FUNC_5
+le32_to_cpu,FUNC_6
+iwl_mvm_remove_time_event,FUNC_7
+mvm,VAR_2
+mvmvif,VAR_3
+te_data,VAR_4
+time_cmd,VAR_5
+uid,VAR_6
+ret,VAR_7

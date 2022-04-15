@@ -1,0 +1,10 @@
+IXGBE_OVERFLOW_PERIOD,VAR_0
+jiffies,VAR_1
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+time_is_before_jiffies,FUNC_2
+timecounter_read,FUNC_3
+ixgbe_ptp_overflow_check,FUNC_4
+adapter,VAR_2
+timeout,VAR_3
+flags,VAR_4

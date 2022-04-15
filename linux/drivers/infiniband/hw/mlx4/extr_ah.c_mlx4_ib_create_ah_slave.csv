@@ -1,0 +1,16 @@
+RDMA_AH_ATTR_TYPE_ROCE,VAR_0
+cpu_to_be16,FUNC_0
+cpu_to_be32,FUNC_1
+memcpy,FUNC_2
+mlx4_ib_create_ah,FUNC_3
+rdma_ah_get_sl,FUNC_4
+to_mah,FUNC_5
+mlx4_ib_create_ah_slave,FUNC_6
+ah,VAR_1
+ah_attr,VAR_2
+slave_sgid_index,VAR_3
+s_mac,VAR_4
+vlan_tag,VAR_5
+slave_attr,VAR_6
+mah,VAR_7
+ret,VAR_8

@@ -1,0 +1,14 @@
+__ov2685_power_off,FUNC_0
+i2c_get_clientdata,FUNC_1
+media_entity_cleanup,FUNC_2
+mutex_destroy,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_set_suspended,FUNC_5
+pm_runtime_status_suspended,FUNC_6
+to_ov2685,FUNC_7
+v4l2_async_unregister_subdev,FUNC_8
+v4l2_ctrl_handler_free,FUNC_9
+ov2685_remove,FUNC_10
+client,VAR_0
+sd,VAR_1
+ov2685,VAR_2

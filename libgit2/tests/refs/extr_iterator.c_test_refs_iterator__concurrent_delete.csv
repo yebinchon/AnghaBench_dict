@@ -1,0 +1,16 @@
+GIT_ITEROVER,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_reference_iterator_free,FUNC_4
+git_reference_iterator_new,FUNC_5
+git_reference_next_name,FUNC_6
+git_reference_remove,FUNC_7
+repo,VAR_1
+test_refs_iterator__concurrent_delete,FUNC_8
+iter,VAR_2
+full_count,VAR_3
+concurrent_count,VAR_4
+name,VAR_5
+error,VAR_6

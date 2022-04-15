@@ -1,0 +1,11 @@
+lockdep_assert_held,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+xfrm_policy_inexact_lookup_rcu,FUNC_3
+xfrm_policy_inexact_lookup,FUNC_4
+net,VAR_0
+type,VAR_1
+family,VAR_2
+dir,VAR_3
+if_id,VAR_4
+bin,VAR_5

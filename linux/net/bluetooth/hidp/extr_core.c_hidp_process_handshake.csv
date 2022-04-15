@@ -1,0 +1,12 @@
+BT_DBG,FUNC_0
+HIDP_CTRL_SOFT_RESET,VAR_0
+HIDP_TRANS_HANDSHAKE,VAR_1
+HIDP_TRANS_HID_CONTROL,VAR_2
+HIDP_WAITING_FOR_RETURN,VAR_3
+HIDP_WAITING_FOR_SEND_ACK,VAR_4
+hidp_send_ctrl_message,FUNC_1
+test_and_clear_bit,FUNC_2
+wake_up_interruptible,FUNC_3
+hidp_process_handshake,FUNC_4
+session,VAR_5
+param,VAR_6

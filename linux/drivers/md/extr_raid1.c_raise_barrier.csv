@@ -1,0 +1,17 @@
+EINTR,VAR_0
+MD_RECOVERY_INTR,VAR_1
+RESYNC_DEPTH,VAR_2
+atomic_dec,FUNC_0
+atomic_inc,FUNC_1
+atomic_read,FUNC_2
+sector_to_idx,FUNC_3
+smp_mb__after_atomic,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+test_bit,FUNC_7
+wait_event_lock_irq,FUNC_8
+wake_up,FUNC_9
+raise_barrier,FUNC_10
+conf,VAR_3
+sector_nr,VAR_4
+idx,VAR_5

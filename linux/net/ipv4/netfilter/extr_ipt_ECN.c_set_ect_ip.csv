@@ -1,0 +1,10 @@
+IPT_ECN_IP_MASK,VAR_0
+csum_replace2,FUNC_0
+htons,FUNC_1
+ip_hdr,FUNC_2
+skb_ensure_writable,FUNC_3
+set_ect_ip,FUNC_4
+skb,VAR_1
+einfo,VAR_2
+iph,VAR_3
+oldtos,VAR_4

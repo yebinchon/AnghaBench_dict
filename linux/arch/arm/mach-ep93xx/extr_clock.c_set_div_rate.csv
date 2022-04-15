@@ -1,0 +1,15 @@
+EP93XX_SYSCON_CLKDIV_ESEL,VAR_0
+EP93XX_SYSCON_CLKDIV_PDIV_SHIFT,VAR_1
+EP93XX_SYSCON_CLKDIV_PSEL,VAR_2
+__raw_readl,FUNC_0
+calc_clk_div,FUNC_1
+ep93xx_syscon_swlocked_write,FUNC_2
+set_div_rate,FUNC_3
+clk,VAR_3
+rate,VAR_4
+err,VAR_5
+psel,VAR_6
+esel,VAR_7
+pdiv,VAR_8
+div,VAR_9
+val,VAR_10

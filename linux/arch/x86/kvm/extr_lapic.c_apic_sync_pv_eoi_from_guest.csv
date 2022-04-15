@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+apic_set_eoi,FUNC_1
+pv_eoi_clr_pending,FUNC_2
+pv_eoi_enabled,FUNC_3
+pv_eoi_get_pending,FUNC_4
+trace_kvm_pv_eoi,FUNC_5
+apic_sync_pv_eoi_from_guest,FUNC_6
+vcpu,VAR_0
+apic,VAR_1
+pending,VAR_2
+vector,VAR_3

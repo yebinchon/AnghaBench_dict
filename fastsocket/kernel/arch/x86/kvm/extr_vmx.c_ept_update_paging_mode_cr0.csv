@@ -1,0 +1,14 @@
+CPU_BASED_CR3_LOAD_EXITING,VAR_0
+CPU_BASED_CR3_STORE_EXITING,VAR_1
+CPU_BASED_VM_EXEC_CONTROL,VAR_2
+X86_CR0_PG,VAR_3
+X86_CR0_WP,VAR_4
+is_paging,FUNC_0
+kvm_read_cr4,FUNC_1
+vmcs_read32,FUNC_2
+vmcs_write32,FUNC_3
+vmx_set_cr4,FUNC_4
+ept_update_paging_mode_cr0,FUNC_5
+hw_cr0,VAR_5
+cr0,VAR_6
+vcpu,VAR_7

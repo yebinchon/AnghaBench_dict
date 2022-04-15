@@ -1,0 +1,15 @@
+TCO1_STS,FUNC_0
+TCO_RLD,FUNC_1
+TCOv1_TMR,FUNC_2
+inb,FUNC_3
+inw,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ticks_to_seconds,FUNC_7
+watchdog_get_drvdata,FUNC_8
+iTCO_wdt_get_timeleft,FUNC_9
+wd_dev,VAR_0
+p,VAR_1
+val16,VAR_2
+val8,VAR_3
+time_left,VAR_4

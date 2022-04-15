@@ -1,0 +1,14 @@
+CURVE25519_SIZE,VAR_0
+SSH_ERR_KEY_INVALID_EC_VALUE,VAR_1
+crypto_scalarmult_curve25519,FUNC_0
+dump_digest,FUNC_1
+explicit_bzero,FUNC_2
+sshbuf_put_bignum2_bytes,FUNC_3
+sshbuf_reset,FUNC_4
+timingsafe_bcmp,FUNC_5
+kexc25519_shared_key,FUNC_6
+key,VAR_2
+pub,VAR_3
+out,VAR_4
+shared_key,VAR_5
+r,VAR_6

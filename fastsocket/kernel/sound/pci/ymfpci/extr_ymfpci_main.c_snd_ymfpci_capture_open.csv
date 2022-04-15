@@ -1,0 +1,17 @@
+CAPTURE_REC,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+SNDRV_PCM_HW_PARAM_PERIOD_TIME,VAR_3
+UINT_MAX,VAR_4
+kzalloc,FUNC_0
+snd_pcm_hw_constraint_minmax,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+snd_ymfpci_capture,VAR_5
+snd_ymfpci_hw_start,FUNC_3
+snd_ymfpci_pcm_free_substream,VAR_6
+snd_ymfpci_capture_open,FUNC_4
+substream,VAR_7
+capture_bank_number,VAR_8
+chip,VAR_9
+runtime,VAR_10
+ypcm,VAR_11

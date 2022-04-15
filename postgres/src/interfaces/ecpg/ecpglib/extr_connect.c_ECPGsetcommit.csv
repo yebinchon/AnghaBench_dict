@@ -1,0 +1,17 @@
+ECPG_COMPAT_PGSQL,VAR_0
+PQTRANS_IDLE,VAR_1
+PQclear,FUNC_0
+PQexec,FUNC_1
+PQtransactionStatus,FUNC_2
+ecpg_check_PQresult,FUNC_3
+ecpg_get_connection,FUNC_4
+ecpg_init,FUNC_5
+ecpg_log,FUNC_6
+strlen,FUNC_7
+strncmp,FUNC_8
+ECPGsetcommit,FUNC_9
+lineno,VAR_2
+mode,VAR_3
+connection_name,VAR_4
+con,VAR_5
+results,VAR_6

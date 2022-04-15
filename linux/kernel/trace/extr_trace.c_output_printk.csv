@@ -1,0 +1,15 @@
+WARN_ON_ONCE,FUNC_0
+printk,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+stub1,FUNC_4
+trace_seq_init,FUNC_5
+trace_seq_putc,FUNC_6
+tracepoint_iter_lock,VAR_0
+tracepoint_print_iter,VAR_1
+output_printk,FUNC_7
+fbuffer,VAR_2
+event_call,VAR_3
+event,VAR_4
+flags,VAR_5
+iter,VAR_6

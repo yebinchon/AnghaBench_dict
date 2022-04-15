@@ -1,0 +1,13 @@
+AMDGPU_PL_GDS,VAR_0
+AMDGPU_PL_GWS,VAR_1
+AMDGPU_PL_OA,VAR_2
+DRM_INFO,FUNC_0
+TTM_PL_TT,VAR_3
+TTM_PL_VRAM,VAR_4
+amdgpu_ttm_debugfs_fini,FUNC_1
+amdgpu_ttm_fw_reserve_vram_fini,FUNC_2
+iounmap,FUNC_3
+ttm_bo_clean_mm,FUNC_4
+ttm_bo_device_release,FUNC_5
+amdgpu_ttm_fini,FUNC_6
+adev,VAR_5

@@ -1,0 +1,15 @@
+InvalidXLogRecPtr,VAR_0
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_SHARED,VAR_1
+ReplicationSlotControlLock,VAR_2
+ReplicationSlotCtl,VAR_3
+SlotIsLogical,FUNC_2
+SpinLockAcquire,FUNC_3
+SpinLockRelease,FUNC_4
+max_replication_slots,VAR_4
+ReplicationSlotsComputeLogicalRestartLSN,FUNC_5
+result,VAR_5
+i,VAR_6
+s,VAR_7
+restart_lsn,VAR_8

@@ -1,0 +1,12 @@
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_noidle,FUNC_4
+pm_runtime_set_suspended,FUNC_5
+rdev_get_drvdata,FUNC_6
+regulator_unregister,FUNC_7
+stm32_vrefbuf_remove,FUNC_8
+pdev,VAR_0
+rdev,VAR_1
+priv,VAR_2

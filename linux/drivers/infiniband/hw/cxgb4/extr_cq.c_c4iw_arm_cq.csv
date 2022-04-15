@@ -1,0 +1,14 @@
+IB_CQ_REPORT_MISSED_EVENTS,VAR_0
+IB_CQ_SOLICITED,VAR_1
+IB_CQ_SOLICITED_MASK,VAR_2
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+t4_arm_cq,FUNC_2
+t4_cq_notempty,FUNC_3
+to_c4iw_cq,FUNC_4
+c4iw_arm_cq,FUNC_5
+ibcq,VAR_3
+flags,VAR_4
+chp,VAR_5
+ret,VAR_6
+flag,VAR_7

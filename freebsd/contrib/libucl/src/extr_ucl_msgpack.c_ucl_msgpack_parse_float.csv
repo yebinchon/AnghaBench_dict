@@ -1,0 +1,16 @@
+FROM_BE32,FUNC_0
+FROM_BE64,FUNC_1
+UCL_FLOAT,VAR_0
+assert,FUNC_2
+memcpy,FUNC_3
+ucl_object_new_full,FUNC_4
+ucl_msgpack_parse_float,FUNC_5
+parser,VAR_1
+container,VAR_2
+len,VAR_3
+fmt,VAR_4
+pos,VAR_5
+remain,VAR_6
+obj,VAR_7
+d,VAR_8
+uiv64,VAR_9

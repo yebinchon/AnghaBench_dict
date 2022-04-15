@@ -1,0 +1,15 @@
+ARIZONA_GPIO1_CTRL,VAR_0
+ARIZONA_GPN_DIR,VAR_1
+gpiochip_get_data,FUNC_0
+gpiochip_line_is_persistent,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+regmap_update_bits_check,FUNC_4
+arizona_gpio_direction_in,FUNC_5
+chip,VAR_2
+offset,VAR_3
+arizona_gpio,VAR_4
+arizona,VAR_5
+persistent,VAR_6
+change,VAR_7
+ret,VAR_8

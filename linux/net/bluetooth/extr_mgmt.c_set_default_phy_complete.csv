@@ -1,0 +1,16 @@
+BT_DBG,FUNC_0
+MGMT_OP_SET_PHY_CONFIGURATION,VAR_0
+hci_dev_lock,FUNC_1
+hci_dev_unlock,FUNC_2
+mgmt_cmd_complete,FUNC_3
+mgmt_cmd_status,FUNC_4
+mgmt_pending_remove,FUNC_5
+mgmt_phy_configuration_changed,FUNC_6
+mgmt_status,FUNC_7
+pending_find,FUNC_8
+set_default_phy_complete,FUNC_9
+hdev,VAR_1
+status,VAR_2
+opcode,VAR_3
+skb,VAR_4
+cmd,VAR_5

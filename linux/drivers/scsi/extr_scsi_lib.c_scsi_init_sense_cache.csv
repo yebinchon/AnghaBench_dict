@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+SCSI_SENSE_BUFFERSIZE,VAR_1
+SLAB_CACHE_DMA,VAR_2
+SLAB_HWCACHE_ALIGN,VAR_3
+kmem_cache_create,FUNC_0
+kmem_cache_create_usercopy,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+scsi_select_sense_cache,FUNC_4
+scsi_sense_cache,VAR_4
+scsi_sense_cache_mutex,VAR_5
+scsi_sense_isadma_cache,VAR_6
+scsi_init_sense_cache,FUNC_5
+shost,VAR_7
+cache,VAR_8
+ret,VAR_9

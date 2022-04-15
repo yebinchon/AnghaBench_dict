@@ -1,0 +1,16 @@
+IS_UDPLITE,FUNC_0
+UDP_MIB_CSUMERRORS,VAR_0
+UDP_MIB_INERRORS,VAR_1
+__UDP_INC_STATS,FUNC_1
+__skb_unlink,FUNC_2
+atomic_inc,FUNC_3
+kfree_skb,FUNC_4
+skb_peek,FUNC_5
+sock_net,FUNC_6
+udp_lib_checksum_complete,FUNC_7
+udp_skb_csum_unnecessary_set,FUNC_8
+__first_packet_length,FUNC_9
+sk,VAR_2
+rcvq,VAR_3
+total,VAR_4
+skb,VAR_5

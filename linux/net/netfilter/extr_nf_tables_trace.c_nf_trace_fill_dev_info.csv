@@ -1,0 +1,12 @@
+NFTA_TRACE_IIF,VAR_0
+NFTA_TRACE_IIFTYPE,VAR_1
+NFTA_TRACE_OIF,VAR_2
+NFTA_TRACE_OIFTYPE,VAR_3
+htonl,FUNC_0
+htons,FUNC_1
+nla_put_be16,FUNC_2
+nla_put_be32,FUNC_3
+nf_trace_fill_dev_info,FUNC_4
+nlskb,VAR_4
+indev,VAR_5
+outdev,VAR_6

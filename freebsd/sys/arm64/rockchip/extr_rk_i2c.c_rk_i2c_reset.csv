@@ -1,0 +1,16 @@
+IICBUS_GET_FREQUENCY,FUNC_0
+RK_I2C_CLKDIV,VAR_0
+RK_I2C_CON,VAR_1
+RK_I2C_LOCK,FUNC_1
+RK_I2C_UNLOCK,FUNC_2
+RK_I2C_WRITE,FUNC_3
+device_get_softc,FUNC_4
+rk_i2c_get_clkdiv,FUNC_5
+rk_i2c_reset,FUNC_6
+dev,VAR_2
+speed,VAR_3
+addr,VAR_4
+oldaddr,VAR_5
+sc,VAR_6
+clkdiv,VAR_7
+busfreq,VAR_8

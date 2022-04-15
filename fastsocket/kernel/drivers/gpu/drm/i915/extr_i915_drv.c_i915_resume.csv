@@ -1,0 +1,16 @@
+DRIVER_MODESET,VAR_0
+DRM_SWITCH_POWER_OFF,VAR_1
+EIO,VAR_2
+__i915_drm_thaw,FUNC_0
+drm_core_check_feature,FUNC_1
+drm_kms_helper_poll_enable,FUNC_2
+i915_gem_restore_gtt_mappings,FUNC_3
+intel_gt_reset,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+pci_enable_device,FUNC_7
+pci_set_master,FUNC_8
+i915_resume,FUNC_9
+dev,VAR_3
+dev_priv,VAR_4
+ret,VAR_5

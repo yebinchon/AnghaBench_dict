@@ -1,0 +1,14 @@
+EVDNS_CLASS_INET,VAR_0
+EVDNS_TYPE_A,VAR_1
+EVDNS_TYPE_PTR,VAR_2
+evdns_server_request_add_a_reply,FUNC_0
+evdns_server_request_add_ptr_reply,FUNC_1
+evdns_server_request_respond,FUNC_2
+htonl,FUNC_3
+printf,FUNC_4
+evdns_server_callback,FUNC_5
+req,VAR_3
+data,VAR_4
+i,VAR_5
+r,VAR_6
+ans,VAR_7

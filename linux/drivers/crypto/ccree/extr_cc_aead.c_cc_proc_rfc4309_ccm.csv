@@ -1,0 +1,15 @@
+AES_BLOCK_SIZE,VAR_0
+CCM_BLOCK_IV_OFFSET,VAR_1
+CCM_BLOCK_IV_SIZE,VAR_2
+CCM_BLOCK_NONCE_OFFSET,VAR_3
+CCM_BLOCK_NONCE_SIZE,VAR_4
+aead_request_ctx,FUNC_0
+crypto_aead_ctx,FUNC_1
+crypto_aead_reqtfm,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+cc_proc_rfc4309_ccm,FUNC_5
+req,VAR_5
+tfm,VAR_6
+ctx,VAR_7
+areq_ctx,VAR_8

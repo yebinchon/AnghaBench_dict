@@ -1,0 +1,11 @@
+NG_BT_MBUFQ_DESTROY,FUNC_0
+NG_NODE_SET_PRIVATE,FUNC_1
+UDBP_T_MAX,VAR_0
+device_get_softc,FUNC_2
+m_freem,FUNC_3
+mtx_destroy,FUNC_4
+ng_rmnode_self,FUNC_5
+usbd_transfer_unsetup,FUNC_6
+udbp_detach,FUNC_7
+dev,VAR_1
+sc,VAR_2

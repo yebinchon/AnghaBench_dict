@@ -1,0 +1,11 @@
+AUX_MU_CNTL_REG,VAR_0
+AUX_MU_IER_REG,VAR_1
+CNTL_RXENAB,VAR_2
+CNTL_TXENAB,VAR_3
+__uart_setreg,FUNC_0
+uart_lock,FUNC_1
+uart_unlock,FUNC_2
+uart_mu_bus_ungrab,FUNC_3
+sc,VAR_4
+psc,VAR_5
+bas,VAR_6

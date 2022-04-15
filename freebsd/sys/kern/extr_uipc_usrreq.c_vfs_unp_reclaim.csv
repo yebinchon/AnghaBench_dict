@@ -1,0 +1,17 @@
+ASSERT_VOP_ELOCKED,FUNC_0
+KASSERT,FUNC_1
+UNP_PCB_LOCK,FUNC_2
+UNP_PCB_UNLOCK,FUNC_3
+VOP_UNP_CONNECT,FUNC_4
+VOP_UNP_DETACH,FUNC_5
+VSOCK,VAR_0
+mtx_lock,FUNC_6
+mtx_pool_find,FUNC_7
+mtx_unlock,FUNC_8
+mtxpool_sleep,VAR_1
+vunref,FUNC_9
+vfs_unp_reclaim,FUNC_10
+vp,VAR_2
+unp,VAR_3
+active,VAR_4
+vplock,VAR_5

@@ -1,0 +1,15 @@
+CX86_CCR3,VAR_0
+CYRIX,VAR_1
+MSR_MTRRdefType,VAR_2
+cpu_has_pge,VAR_3
+is_cpu,FUNC_0
+local_irq_restore,FUNC_1
+mtrr_wrmsr,FUNC_2
+read_cr0,FUNC_3
+setCx86,FUNC_4
+use_intel,FUNC_5
+wbinvd,FUNC_6
+write_cr0,FUNC_7
+write_cr4,FUNC_8
+set_mtrr_done,FUNC_9
+ctxt,VAR_4

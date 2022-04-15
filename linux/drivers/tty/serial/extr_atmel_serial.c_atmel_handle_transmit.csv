@@ -1,0 +1,13 @@
+ATMEL_US_CSR,VAR_0
+ATMEL_US_IDR,VAR_1
+ATMEL_US_TXEMPTY,VAR_2
+atmel_start_rx,FUNC_0
+atmel_tasklet_schedule,FUNC_1
+atmel_uart_readl,FUNC_2
+atmel_uart_writel,FUNC_3
+dev_warn,FUNC_4
+to_atmel_uart_port,FUNC_5
+atmel_handle_transmit,FUNC_6
+port,VAR_3
+pending,VAR_4
+atmel_port,VAR_5

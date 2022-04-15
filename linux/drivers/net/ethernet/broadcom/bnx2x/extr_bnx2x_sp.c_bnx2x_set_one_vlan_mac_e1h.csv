@@ -1,0 +1,14 @@
+BNX2X_FILTER_VLAN_MAC_PENDING,VAR_0
+BNX2X_VLAN_MAC_ADD,VAR_1
+ETH_VLAN_FILTER_CLASSIFY,VAR_2
+bnx2x_vlan_mac_set_rdata_e1x,FUNC_0
+memset,FUNC_1
+bnx2x_set_one_vlan_mac_e1h,FUNC_2
+bp,VAR_3
+o,VAR_4
+elem,VAR_5
+rule_idx,VAR_6
+cam_offset,VAR_7
+raw,VAR_8
+config,VAR_9
+add,VAR_10

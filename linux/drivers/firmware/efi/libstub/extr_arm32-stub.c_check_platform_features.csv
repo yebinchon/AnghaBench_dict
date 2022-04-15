@@ -1,0 +1,10 @@
+CONFIG_ARM_LPAE,VAR_0
+CPUID_EXT_MMFR0,VAR_1
+EFI_SUCCESS,VAR_2
+EFI_UNSUPPORTED,VAR_3
+IS_ENABLED,FUNC_0
+cpuid_feature_extract,FUNC_1
+pr_efi_err,FUNC_2
+check_platform_features,FUNC_3
+sys_table_arg,VAR_4
+block,VAR_5

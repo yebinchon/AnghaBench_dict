@@ -1,0 +1,10 @@
+__enable_irq,FUNC_0
+chip_bus_lock,FUNC_1
+chip_bus_sync_unlock,FUNC_2
+irq_to_desc,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+enable_irq,FUNC_6
+irq,VAR_0
+desc,VAR_1
+flags,VAR_2

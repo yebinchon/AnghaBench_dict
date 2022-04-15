@@ -1,0 +1,13 @@
+RME32_IO_CONTROL_REGISTER,VAR_0
+RME32_WCR_MUTE,VAR_1
+RME32_WCR_SEL,VAR_2
+snd_kcontrol_chip,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+writel,FUNC_3
+snd_rme32_put_loopback_control,FUNC_4
+kcontrol,VAR_3
+ucontrol,VAR_4
+rme32,VAR_5
+val,VAR_6
+change,VAR_7

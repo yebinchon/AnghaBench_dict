@@ -1,0 +1,17 @@
+kfd_dbgmgr_destroy,FUNC_0
+kfd_dbgmgr_unregister,FUNC_1
+kfd_device_by_pci_dev,FUNC_2
+kfd_get_dbgmgr_mutex,FUNC_3
+kfd_get_process_device_data,FUNC_4
+kfd_lookup_process_by_pasid,FUNC_5
+kfd_process_dequeue_from_device,FUNC_6
+kfd_unref_process,FUNC_7
+mutex_lock,FUNC_8
+mutex_unlock,FUNC_9
+pr_debug,FUNC_10
+iommu_pasid_shutdown_callback,FUNC_11
+pdev,VAR_0
+pasid,VAR_1
+dev,VAR_2
+p,VAR_3
+pdd,VAR_4

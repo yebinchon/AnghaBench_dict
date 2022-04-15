@@ -1,0 +1,14 @@
+CLOCKF_SETTIME_NO_ADJ,VAR_0
+CLOCKF_SETTIME_NO_TS,VAR_1
+CLOCK_SETTIME,FUNC_0
+bootverbose,VAR_2
+device_printf,FUNC_1
+getnanotime,FUNC_2
+timespecadd,FUNC_3
+utc_offset,FUNC_4
+settime_task_func,FUNC_5
+arg,VAR_3
+pending,VAR_4
+ts,VAR_5
+rtc,VAR_6
+error,VAR_7

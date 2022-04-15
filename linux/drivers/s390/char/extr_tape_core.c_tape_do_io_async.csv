@@ -1,0 +1,9 @@
+DBF_LH,FUNC_0
+__tape_start_request,FUNC_1
+get_ccwdev_lock,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+tape_do_io_async,FUNC_5
+device,VAR_0
+request,VAR_1
+rc,VAR_2

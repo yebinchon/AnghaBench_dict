@@ -1,0 +1,17 @@
+SVGA_FIFO_FENCE,VAR_0
+SVGA_REG_BUSY,VAR_1
+SVGA_REG_CONFIG_DONE,VAR_2
+SVGA_REG_ENABLE,VAR_3
+SVGA_REG_SYNC,VAR_4
+SVGA_REG_TRACES,VAR_5
+SVGA_SYNC_GENERIC,VAR_6
+likely,FUNC_0
+vfree,FUNC_1
+vmw_marker_queue_takedown,FUNC_2
+vmw_mmio_read,FUNC_3
+vmw_read,FUNC_4
+vmw_write,FUNC_5
+vmw_fifo_release,FUNC_6
+dev_priv,VAR_7
+fifo,VAR_8
+fifo_mem,VAR_9

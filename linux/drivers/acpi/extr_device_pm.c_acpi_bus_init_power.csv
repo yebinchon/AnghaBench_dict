@@ -1,0 +1,13 @@
+ACPI_STATE_D0,VAR_0
+ACPI_STATE_D3_COLD,VAR_1
+ACPI_STATE_UNKNOWN,VAR_2
+EINVAL,VAR_3
+ENXIO,VAR_4
+acpi_dev_pm_explicit_set,FUNC_0
+acpi_device_get_power,FUNC_1
+acpi_device_is_present,FUNC_2
+acpi_power_on_resources,FUNC_3
+acpi_bus_init_power,FUNC_4
+device,VAR_5
+state,VAR_6
+result,VAR_7

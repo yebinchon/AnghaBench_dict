@@ -1,0 +1,12 @@
+ARCH_PERFMON_EVENTSEL_ANY,VAR_0
+EOPNOTSUPP,VAR_1
+HSW_IN_TX,VAR_2
+HSW_IN_TX_CHECKPOINTED,VAR_3
+X86_FEATURE_HLE,VAR_4
+X86_FEATURE_RTM,VAR_5
+boot_cpu_has,FUNC_0
+event_is_checkpointed,FUNC_1
+intel_pmu_hw_config,FUNC_2
+hsw_hw_config,FUNC_3
+event,VAR_6
+ret,VAR_7

@@ -1,0 +1,8 @@
+PL353_SMC_ECC_REG_SIZE_OFFS,VAR_0
+PL353_SMC_ECC_VALUE0_OFFS,VAR_1
+pl353_smc_base,VAR_2
+readl,FUNC_0
+pl353_smc_get_ecc_val,FUNC_1
+ecc_reg,VAR_3
+addr,VAR_4
+reg,VAR_5

@@ -1,0 +1,13 @@
+XBF_DELWRI,VAR_0
+XBF_WRITE,VAR_1
+_RET_IP_,VAR_2
+_xfs_buf_ioapply,FUNC_0
+_xfs_buf_ioend,FUNC_1
+atomic_set,FUNC_2
+trace_xfs_buf_iorequest,FUNC_3
+xfs_buf_delwri_queue,FUNC_4
+xfs_buf_hold,FUNC_5
+xfs_buf_rele,FUNC_6
+xfs_buf_wait_unpin,FUNC_7
+xfs_buf_iorequest,FUNC_8
+bp,VAR_3

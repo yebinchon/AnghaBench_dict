@@ -1,0 +1,17 @@
+IRQS_ONESHOT,VAR_0
+IRQTF_RUNTHREAD,VAR_1
+chip_bus_lock,FUNC_0
+chip_bus_sync_unlock,FUNC_1
+cpu_relax,FUNC_2
+irq_forced_secondary_handler,VAR_2
+irqd_irq_disabled,FUNC_3
+irqd_irq_inprogress,FUNC_4
+irqd_irq_masked,FUNC_5
+raw_spin_lock_irq,FUNC_6
+raw_spin_unlock_irq,FUNC_7
+test_bit,FUNC_8
+unlikely,FUNC_9
+unmask_threaded_irq,FUNC_10
+irq_finalize_oneshot,FUNC_11
+desc,VAR_3
+action,VAR_4

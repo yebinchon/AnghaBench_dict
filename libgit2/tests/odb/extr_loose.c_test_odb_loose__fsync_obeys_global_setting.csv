@@ -1,0 +1,7 @@
+GIT_OPT_ENABLE_FSYNC_GITDIR,VAR_0
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_libgit2_opts,FUNC_2
+p_fsync__cnt,VAR_1
+write_object_to_loose_odb,FUNC_3
+test_odb_loose__fsync_obeys_global_setting,FUNC_4

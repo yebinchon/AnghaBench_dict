@@ -1,0 +1,8 @@
+ARCMSR_INBOUND_MESG0_ABORT_CMD,VAR_0
+CHIP_REG_WRITE32,FUNC_0
+HBA_MessageUnit,VAR_1
+arcmsr_hba_wait_msgint_ready,FUNC_1
+inbound_msgaddr0,VAR_2
+printf,FUNC_2
+arcmsr_abort_hba_allcmd,FUNC_3
+acb,VAR_3

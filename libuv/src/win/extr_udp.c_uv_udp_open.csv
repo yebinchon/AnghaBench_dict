@@ -1,0 +1,17 @@
+GetLastError,FUNC_0
+SOCKET_ERROR,VAR_0
+SOL_SOCKET,VAR_1
+SO_PROTOCOL_INFOW,VAR_2
+UV_HANDLE_BOUND,VAR_3
+UV_HANDLE_UDP_CONNECTED,VAR_4
+getsockopt,FUNC_1
+uv__udp_is_bound,FUNC_2
+uv__udp_is_connected,FUNC_3
+uv_translate_sys_error,FUNC_4
+uv_udp_set_socket,FUNC_5
+uv_udp_open,FUNC_6
+handle,VAR_5
+sock,VAR_6
+protocol_info,VAR_7
+opt_len,VAR_8
+err,VAR_9

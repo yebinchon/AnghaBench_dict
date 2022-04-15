@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+STMFTS_SS_HOVER_SENSE_OFF,VAR_1
+STMFTS_SS_HOVER_SENSE_ON,VAR_2
+dev_get_drvdata,FUNC_0
+i2c_smbus_write_byte,FUNC_1
+kstrtoul,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+stmfts_sysfs_hover_enable_write,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+len,VAR_6
+sdata,VAR_7
+value,VAR_8
+err,VAR_9

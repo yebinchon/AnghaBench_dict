@@ -1,0 +1,12 @@
+down_write,FUNC_0
+event_mutex,VAR_0
+lockdep_assert_held,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+probe_remove_event_call,FUNC_4
+trace_event_sem,VAR_1
+trace_types_lock,VAR_2
+up_write,FUNC_5
+trace_remove_event_call,FUNC_6
+call,VAR_3
+ret,VAR_4

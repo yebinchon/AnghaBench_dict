@@ -1,0 +1,14 @@
+CCV_TENSOR_CPU_MEMORY,VAR_0
+CCV_TENSOR_GET_DEVICE_ID,FUNC_0
+CCV_TENSOR_GET_MEMORY,FUNC_1
+CCV_TENSOR_GPU_MEMORY,VAR_1
+_ccv_nnc_tensor_arena_free,FUNC_2
+assert,FUNC_3
+ccfree,FUNC_4
+cufree,FUNC_5
+cuhostfree,FUNC_6
+ccv_nnc_tensor_arena_free,FUNC_7
+tensor_arena,VAR_2
+i,VAR_3
+buffer_type,VAR_4
+memory_type,VAR_5

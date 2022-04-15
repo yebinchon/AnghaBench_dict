@@ -1,0 +1,9 @@
+bnx2_cnic_stop,FUNC_0
+bnx2_disable_int_sync,FUNC_1
+bnx2_napi_disable,FUNC_2
+netif_carrier_off,FUNC_3
+netif_running,FUNC_4
+netif_tx_disable,FUNC_5
+bnx2_netif_stop,FUNC_6
+bp,VAR_0
+stop_cnic,VAR_1

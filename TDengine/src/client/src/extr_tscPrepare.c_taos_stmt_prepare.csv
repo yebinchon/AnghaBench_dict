@@ -1,0 +1,15 @@
+TSDB_CODE_CLI_OUT_OF_MEMORY,VAR_0
+insertStmtPrepare,FUNC_0
+malloc,FUNC_1
+memcpy,FUNC_2
+normalStmtPrepare,FUNC_3
+strlen,FUNC_4
+strtolower,FUNC_5
+tscError,FUNC_6
+tscIsInsertOrImportData,FUNC_7
+taos_stmt_prepare,FUNC_8
+stmt,VAR_1
+sql,VAR_2
+length,VAR_3
+pStmt,VAR_4
+sqlstr,VAR_5

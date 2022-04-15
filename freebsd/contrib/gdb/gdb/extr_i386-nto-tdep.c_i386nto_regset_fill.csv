@@ -1,0 +1,15 @@
+NTO_REG_FLOAT,VAR_0
+NTO_REG_GENERAL,VAR_1
+NUM_GPREGS,VAR_2
+X86_CPU_FXSR,VAR_3
+i387_fill_fsave,FUNC_0
+i387_fill_fxsave,FUNC_1
+nto_cpuinfo_flags,VAR_4
+nto_cpuinfo_valid,VAR_5
+nto_reg_offset,FUNC_2
+regcache_collect,FUNC_3
+i386nto_regset_fill,FUNC_4
+regset,VAR_6
+data,VAR_7
+regno,VAR_8
+offset,VAR_9

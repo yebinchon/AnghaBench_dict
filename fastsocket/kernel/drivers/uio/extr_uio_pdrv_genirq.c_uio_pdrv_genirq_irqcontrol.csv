@@ -1,0 +1,11 @@
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+test_and_clear_bit,FUNC_4
+test_and_set_bit,FUNC_5
+uio_pdrv_genirq_irqcontrol,FUNC_6
+dev_info,VAR_0
+irq_on,VAR_1
+priv,VAR_2
+flags,VAR_3

@@ -1,0 +1,13 @@
+CS_LOCK,FUNC_0
+CS_UNLOCK,FUNC_1
+TMC_BUFWM,VAR_0
+TMC_FFCR,VAR_1
+TMC_FFCR_EN_FMT,VAR_2
+TMC_FFCR_EN_TI,VAR_3
+TMC_MODE,VAR_4
+TMC_MODE_HARDWARE_FIFO,VAR_5
+tmc_enable_hw,FUNC_2
+tmc_wait_for_tmcready,FUNC_3
+writel_relaxed,FUNC_4
+__tmc_etf_enable_hw,FUNC_5
+drvdata,VAR_6

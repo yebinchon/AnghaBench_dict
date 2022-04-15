@@ -1,0 +1,12 @@
+DPRINTF,FUNC_0
+EHCI_USBINTR,VAR_0
+EOWRITE4,FUNC_1
+USB_BUS_LOCK,FUNC_2
+USB_BUS_UNLOCK,FUNC_3
+ehci_hcreset,FUNC_4
+hz,VAR_1
+usb_callout_drain,FUNC_5
+usb_callout_stop,FUNC_6
+usb_pause_mtx,FUNC_7
+ehci_detach,FUNC_8
+sc,VAR_2

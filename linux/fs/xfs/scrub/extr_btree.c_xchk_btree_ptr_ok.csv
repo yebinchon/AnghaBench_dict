@@ -1,0 +1,12 @@
+XFS_BTREE_LONG_PTRS,VAR_0
+XFS_BTREE_ROOT_IN_INODE,VAR_1
+be32_to_cpu,FUNC_0
+be64_to_cpu,FUNC_1
+xchk_btree_set_corrupt,FUNC_2
+xfs_btree_check_lptr,FUNC_3
+xfs_btree_check_sptr,FUNC_4
+xchk_btree_ptr_ok,FUNC_5
+bs,VAR_2
+level,VAR_3
+ptr,VAR_4
+res,VAR_5

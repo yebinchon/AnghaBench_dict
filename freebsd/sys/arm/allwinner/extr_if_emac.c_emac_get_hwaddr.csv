@@ -1,0 +1,17 @@
+AW_SID_FUSE_ROOTKEY,VAR_0
+EMAC_MAC_A0,VAR_1
+EMAC_MAC_A1,VAR_2
+EMAC_READ_REG,FUNC_0
+arc4random,FUNC_1
+aw_sid_get_fuse,FUNC_2
+bootverbose,VAR_3
+ether_sprintf,FUNC_3
+printf,FUNC_4
+emac_get_hwaddr,FUNC_5
+sc,VAR_4
+hwaddr,VAR_5
+val0,VAR_6
+val1,VAR_7
+rnd,VAR_8
+rootkey,VAR_9
+rootkey_size,VAR_10

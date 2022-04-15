@@ -1,0 +1,10 @@
+MLX5_QP_FLAG_TIR_ALLOW_SELF_LB_MC,VAR_0
+MLX5_QP_FLAG_TIR_ALLOW_SELF_LB_UC,VAR_1
+mlx5_cmd_destroy_tir,FUNC_0
+mlx5_ib_disable_lb,FUNC_1
+to_mpd,FUNC_2
+destroy_raw_packet_qp_tir,FUNC_3
+dev,VAR_2
+rq,VAR_3
+qp_flags_en,VAR_4
+pd,VAR_5

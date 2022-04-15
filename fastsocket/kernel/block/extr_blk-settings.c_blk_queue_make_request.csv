@@ -1,0 +1,12 @@
+BLKDEV_MAX_RQ,VAR_0
+BLK_BATCH_REQ,VAR_1
+BLK_BOUNCE_HIGH,VAR_2
+blk_queue_bounce_limit,FUNC_0
+blk_queue_congestion_threshold,FUNC_1
+blk_queue_dma_alignment,FUNC_2
+blk_set_default_limits,FUNC_3
+blk_unplug_timeout,VAR_3
+msecs_to_jiffies,FUNC_4
+blk_queue_make_request,FUNC_5
+q,VAR_4
+mfn,VAR_5

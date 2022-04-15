@@ -1,0 +1,11 @@
+ETIMEDOUT,VAR_0
+IMG_I2C_TIMEOUT,VAR_1
+img_i2c_reset_start,FUNC_0
+reinit_completion,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wait_for_completion_timeout,FUNC_4
+img_i2c_reset_bus,FUNC_5
+i2c,VAR_2
+flags,VAR_3
+time_left,VAR_4

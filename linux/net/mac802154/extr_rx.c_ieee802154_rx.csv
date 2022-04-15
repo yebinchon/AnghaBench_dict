@@ -1,0 +1,17 @@
+IEEE802154_HW_RX_DROP_BAD_CKSUM,VAR_0
+IEEE802154_HW_RX_OMIT_CKSUM,VAR_1
+WARN_ON_ONCE,FUNC_0
+__ieee802154_rx_handle_packet,FUNC_1
+crc_ccitt,FUNC_2
+ieee802154_monitors_rx,FUNC_3
+kfree_skb,FUNC_4
+put_unaligned_le16,FUNC_5
+rcu_read_lock,FUNC_6
+rcu_read_unlock,FUNC_7
+skb_put,FUNC_8
+skb_trim,FUNC_9
+softirq_count,FUNC_10
+ieee802154_rx,FUNC_11
+local,VAR_2
+skb,VAR_3
+crc,VAR_4

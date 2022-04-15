@@ -1,0 +1,12 @@
+ARM_V7S_PTES_PER_LVL,FUNC_0
+ARM_V7S_PTE_IS_TABLE,FUNC_1
+__arm_v7s_free_table,FUNC_2
+io_pgtable_to_data,FUNC_3
+iopte_deref,FUNC_4
+kfree,FUNC_5
+kmem_cache_destroy,FUNC_6
+arm_v7s_free_pgtable,FUNC_7
+iop,VAR_0
+data,VAR_1
+i,VAR_2
+pte,VAR_3

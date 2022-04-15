@@ -1,0 +1,16 @@
+LINK_FAILOVER_BEGIN_EVT,VAR_0
+LINK_SYNCH_END_EVT,VAR_1
+NODE_FAILOVER_BEGIN_EVT,VAR_2
+NODE_SYNCH_END_EVT,VAR_3
+U16_MAX,VAR_4
+tipc_link_failover_prepare,FUNC_0
+tipc_link_fsm_evt,FUNC_1
+tipc_link_is_reset,FUNC_2
+tipc_link_is_up,FUNC_3
+tipc_link_rcv_nxt,FUNC_4
+tipc_node_fsm_evt,FUNC_5
+tipc_node_link_failover,FUNC_6
+n,VAR_5
+l,VAR_6
+tnl,VAR_7
+xmitq,VAR_8

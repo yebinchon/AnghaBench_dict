@@ -1,0 +1,16 @@
+KDB_WHY_WATCHDOG,VAR_0
+LOG_EMERG,VAR_1
+WD_SOFT_DDB,VAR_2
+WD_SOFT_LOG,VAR_3
+WD_SOFT_PANIC,VAR_4
+WD_SOFT_PRINTF,VAR_5
+kdb_backtrace,FUNC_0
+kdb_enter,FUNC_1
+log,FUNC_2
+panic,FUNC_3
+printf,FUNC_4
+snprintf,FUNC_5
+wd_pretimeout_act,VAR_6
+wd_timeout_cb,FUNC_6
+arg,VAR_7
+type,VAR_8

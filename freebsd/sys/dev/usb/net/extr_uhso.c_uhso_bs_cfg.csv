@@ -1,0 +1,12 @@
+UCDC_SET_CONTROL_LINE_STATE,VAR_0
+UHSO_IFACE_USB_TYPE,FUNC_0
+UHSO_IF_BULK,VAR_1
+USETW,FUNC_1
+UT_WRITE_CLASS_INTERFACE,VAR_2
+device_printf,FUNC_2
+ucom_cfg_do_request,FUNC_3
+usbd_errstr,FUNC_4
+uhso_bs_cfg,FUNC_5
+sc,VAR_3
+req,VAR_4
+uerr,VAR_5

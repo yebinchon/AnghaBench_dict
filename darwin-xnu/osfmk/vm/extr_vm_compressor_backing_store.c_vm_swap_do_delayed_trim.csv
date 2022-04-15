@@ -1,0 +1,15 @@
+COMPRESSED_SWAP_CHUNK_SIZE,VAR_0
+TRUE,VAR_1
+kfree,FUNC_0
+lck_mtx_lock,FUNC_1
+lck_mtx_unlock,FUNC_2
+vm_swap_data_lock,VAR_2
+vm_swapfile_total_segs_used,VAR_3
+vnode_trim_list,FUNC_3
+vm_swap_do_delayed_trim,FUNC_4
+swf,VAR_4
+tl,VAR_5
+tl_head,VAR_6
+segidx,VAR_7
+byte_for_segidx,VAR_8
+offset_within_byte,VAR_9

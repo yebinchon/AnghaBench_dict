@@ -1,0 +1,17 @@
+CPUTIME_IRQ,VAR_0
+CPUTIME_NICE,VAR_1
+CPUTIME_SOFTIRQ,VAR_2
+CPUTIME_STEAL,VAR_3
+CPUTIME_SYSTEM,VAR_4
+CPUTIME_USER,VAR_5
+NSEC_PER_USEC,VAR_6
+div_u64,FUNC_0
+get_jiffies_64,FUNC_1
+jiffies64_to_nsecs,FUNC_2
+kcpustat_cpu,FUNC_3
+get_cpu_idle_time_jiffy,FUNC_4
+cpu,VAR_7
+wall,VAR_8
+idle_time,VAR_9
+cur_wall_time,VAR_10
+busy_time,VAR_11

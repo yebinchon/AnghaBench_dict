@@ -1,0 +1,12 @@
+INIT_WORK,FUNC_0
+RPM_REQ_NONE,VAR_0
+RPM_SUSPENDED,VAR_1
+atomic_set,FUNC_1
+init_waitqueue_head,FUNC_2
+pm_runtime_work,VAR_2
+pm_suspend_ignore_children,FUNC_3
+pm_suspend_timer_fn,VAR_3
+setup_timer,FUNC_4
+spin_lock_init,FUNC_5
+pm_runtime_init,FUNC_6
+dev,VAR_4

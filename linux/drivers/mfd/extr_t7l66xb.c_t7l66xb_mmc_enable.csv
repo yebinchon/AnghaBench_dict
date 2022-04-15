@@ -1,0 +1,16 @@
+SCR_DEV_CTL,VAR_0
+SCR_DEV_CTL_MMC,VAR_1
+clk_prepare_enable,FUNC_0
+dev_get_drvdata,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+t7l66xb_mmc_resources,VAR_2
+tmio_core_mmc_enable,FUNC_4
+tmio_ioread8,FUNC_5
+tmio_iowrite8,FUNC_6
+t7l66xb_mmc_enable,FUNC_7
+mmc,VAR_3
+t7l66xb,VAR_4
+flags,VAR_5
+dev_ctl,VAR_6
+ret,VAR_7

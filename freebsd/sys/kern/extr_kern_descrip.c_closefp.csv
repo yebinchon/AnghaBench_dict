@@ -1,0 +1,17 @@
+DTYPE_MQUEUE,VAR_0
+FILEDESC_XLOCK,FUNC_0
+FILEDESC_XLOCK_ASSERT,FUNC_1
+FILEDESC_XUNLOCK,FUNC_2
+TAILQ_EMPTY,FUNC_3
+__predict_false,FUNC_4
+closef,FUNC_5
+knote_fdclose,FUNC_6
+mq_fdclose,FUNC_7
+wakeup,FUNC_8
+closefp,FUNC_9
+fdp,VAR_1
+fd,VAR_2
+fp,VAR_3
+td,VAR_4
+holdleaders,VAR_5
+error,VAR_6

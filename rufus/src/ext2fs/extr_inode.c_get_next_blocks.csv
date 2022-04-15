@@ -1,0 +1,12 @@
+EXT2_ET_NEXT_INODE_READ,VAR_0
+EXT2_SF_BAD_EXTRA_BYTES,VAR_1
+EXT2_SF_BAD_INODE_BLK,VAR_2
+EXT2_SF_CHK_BADBLOCKS,VAR_3
+check_for_inode_bad_blocks,FUNC_0
+check_inode_block_sanity,FUNC_1
+io_channel_read_blk64,FUNC_2
+memset,FUNC_3
+get_next_blocks,FUNC_4
+scan,VAR_4
+num_blocks,VAR_5
+retval,VAR_6

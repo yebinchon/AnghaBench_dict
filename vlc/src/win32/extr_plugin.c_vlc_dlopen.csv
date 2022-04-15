@@ -1,0 +1,13 @@
+LOAD_LIBRARY_SEARCH_SYSTEM32,VAR_0
+LoadLibraryExW,FUNC_0
+LoadPackagedLibrary,FUNC_1
+SEM_FAILCRITICALERRORS,VAR_1
+SetThreadErrorMode,FUNC_2
+ToWide,FUNC_3
+free,FUNC_4
+vlc_dlopen,FUNC_5
+psz_file,VAR_2
+lazy,VAR_3
+wfile,VAR_4
+handle,VAR_5
+mode,VAR_6

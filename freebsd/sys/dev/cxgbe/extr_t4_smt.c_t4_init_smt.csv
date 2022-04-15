@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+MTX_DEF,VAR_1
+M_CXGBE,VAR_2
+M_ZERO,VAR_3
+SMT_SIZE,VAR_4
+SMT_STATE_UNUSED,VAR_5
+atomic_store_rel_int,FUNC_0
+malloc,FUNC_1
+mtx_init,FUNC_2
+rw_init,FUNC_3
+t4_init_smt,FUNC_4
+sc,VAR_6
+flags,VAR_7
+i,VAR_8
+smt_size,VAR_9
+s,VAR_10
+e,VAR_11

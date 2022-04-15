@@ -1,0 +1,13 @@
+bus_to_hcd,FUNC_0
+hcd_to_xhci,FUNC_1
+le32_to_cpu,FUNC_2
+seq_printf,FUNC_3
+xhci_decode_slot_context,FUNC_4
+xhci_get_slot_ctx,FUNC_5
+xhci_slot_context_show,FUNC_6
+s,VAR_0
+unused,VAR_1
+xhci,VAR_2
+slot_ctx,VAR_3
+priv,VAR_4
+dev,VAR_5

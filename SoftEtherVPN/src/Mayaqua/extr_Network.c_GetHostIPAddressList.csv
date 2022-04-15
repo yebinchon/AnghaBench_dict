@@ -1,0 +1,13 @@
+CloneIPAddressList,FUNC_0
+FreeHostIPAddressList,FUNC_1
+GetHostIPAddressListInternal,FUNC_2
+HOST_IP_ADDRESS_LIST_CACHE,VAR_0
+Lock,FUNC_3
+Tick64,FUNC_4
+Unlock,FUNC_5
+host_ip_address_cache,VAR_1
+host_ip_address_list_cache_last,VAR_2
+host_ip_address_list_cache_lock,VAR_3
+GetHostIPAddressList,FUNC_6
+o,VAR_4
+now,VAR_5

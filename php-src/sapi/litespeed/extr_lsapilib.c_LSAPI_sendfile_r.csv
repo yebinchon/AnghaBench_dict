@@ -1,0 +1,15 @@
+LSAPI_FinalizeRespHeaders_r,FUNC_0
+LSAPI_Flush_r,FUNC_1
+LSAPI_PACKET_HEADER_LEN,VAR_0
+LSAPI_RESP_STREAM,VAR_1
+LSAPI_ST_RESP_BODY,VAR_2
+LSAPI_ST_RESP_HEADER,VAR_3
+gsendfile,FUNC_2
+lsapi_buildPacketHeader,FUNC_3
+write,FUNC_4
+LSAPI_sendfile_r,FUNC_5
+pReq,VAR_4
+fdIn,VAR_5
+off,VAR_6
+size,VAR_7
+pHeader,VAR_8

@@ -1,0 +1,14 @@
+ST90TDS_CONTROL_REG_ID,VAR_0
+ST90TDS_CONT_RDY_BIT,VAR_1
+ST90TDS_CONT_WUP_BIT,VAR_2
+ST90TDS_TSET_GEN_R_W_REG_ID,VAR_3
+WARN_ON,FUNC_0
+cw1200_bh_read_ctrl_reg,FUNC_1
+cw1200_dpll_from_clk,FUNC_2
+cw1200_reg_write_16,FUNC_3
+cw1200_reg_write_32,FUNC_4
+pr_debug,FUNC_5
+cw1200_device_wakeup,FUNC_6
+priv,VAR_4
+ctrl_reg,VAR_5
+ret,VAR_6

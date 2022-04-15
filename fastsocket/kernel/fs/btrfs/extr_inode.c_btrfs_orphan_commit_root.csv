@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+ORPHAN_CLEANUP_DONE,VAR_0
+WARN_ON,FUNC_1
+atomic_read,FUNC_2
+btrfs_del_orphan_item,FUNC_3
+btrfs_free_block_rsv,FUNC_4
+btrfs_root_refs,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+btrfs_orphan_commit_root,FUNC_8
+trans,VAR_1
+root,VAR_2
+block_rsv,VAR_3
+ret,VAR_4

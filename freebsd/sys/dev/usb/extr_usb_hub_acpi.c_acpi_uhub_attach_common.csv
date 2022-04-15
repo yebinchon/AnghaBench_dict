@@ -1,0 +1,14 @@
+ACPI_SUCCESS,FUNC_0
+ENXIO,VAR_0
+M_USBDEV,VAR_1
+M_WAITOK,VAR_2
+M_ZERO,VAR_3
+acpi_usb_hub_port_probe,FUNC_1
+device_get_softc,FUNC_2
+malloc,FUNC_3
+acpi_uhub_attach_common,FUNC_4
+dev,VAR_4
+uh,VAR_5
+sc,VAR_6
+status,VAR_7
+ret,VAR_8

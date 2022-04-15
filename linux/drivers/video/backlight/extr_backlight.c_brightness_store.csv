@@ -1,0 +1,11 @@
+backlight_device_set_brightness,FUNC_0
+kstrtoul,FUNC_1
+to_backlight_device,FUNC_2
+brightness_store,FUNC_3
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+count,VAR_3
+rc,VAR_4
+bd,VAR_5
+brightness,VAR_6

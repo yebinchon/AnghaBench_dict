@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+V4L2_BUF_FLAG_DONE,VAR_2
+V4L2_BUF_FLAG_QUEUED,VAR_3
+list_add,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+cafe_vidioc_qbuf,FUNC_5
+filp,VAR_4
+priv,VAR_5
+buf,VAR_6
+cam,VAR_7
+sbuf,VAR_8
+ret,VAR_9
+flags,VAR_10

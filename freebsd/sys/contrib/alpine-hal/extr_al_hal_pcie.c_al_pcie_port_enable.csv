@@ -1,0 +1,11 @@
+AL_PCIE_REV_ID_1,VAR_0
+AL_PCIE_REV_ID_2,VAR_1
+PBS_UNIT_PCIE_CONF_1_PCIE_EXIST_SHIFT,VAR_2
+PCIE_AXI_CORE_SETUP_ATS_CAP_DIS,VAR_3
+al_pcie_ib_hcrd_os_ob_reads_config_default,FUNC_0
+al_reg_write32_masked,FUNC_1
+al_pcie_port_enable,FUNC_2
+pcie_port,VAR_4
+pbs_reg_base,VAR_5
+regs,VAR_6
+port_id,VAR_7

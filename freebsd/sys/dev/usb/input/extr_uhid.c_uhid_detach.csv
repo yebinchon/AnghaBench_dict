@@ -1,0 +1,11 @@
+M_USBDEV,VAR_0
+UHID_FLAG_STATIC_DESC,VAR_1
+UHID_N_TRANSFER,VAR_2
+device_get_softc,FUNC_0
+free,FUNC_1
+mtx_destroy,FUNC_2
+usb_fifo_detach,FUNC_3
+usbd_transfer_unsetup,FUNC_4
+uhid_detach,FUNC_5
+dev,VAR_3
+sc,VAR_4

@@ -1,0 +1,13 @@
+PCIR_BAR,FUNC_0
+PTNETMAP_MSIX_PCI_BAR,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+pci_release_msi,FUNC_3
+taskqueue_free,FUNC_4
+ptnet_irqs_fini,FUNC_5
+sc,VAR_3
+dev,VAR_4
+i,VAR_5
+pq,VAR_6

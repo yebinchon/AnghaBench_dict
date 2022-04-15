@@ -1,0 +1,14 @@
+TASKQUEUE_CALLBACK_TYPE_INIT,VAR_0
+TASKQUEUE_CALLBACK_TYPE_SHUTDOWN,VAR_1
+TQ_FLAGS_ACTIVE,VAR_2
+TQ_LOCK,FUNC_0
+TQ_SLEEP,FUNC_1
+TQ_UNLOCK,FUNC_2
+kthread_exit,FUNC_3
+taskqueue_run_callback,FUNC_4
+taskqueue_run_locked,FUNC_5
+wakeup_one,FUNC_6
+taskqueue_thread_loop,FUNC_7
+arg,VAR_3
+tqp,VAR_4
+tq,VAR_5

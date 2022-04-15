@@ -1,0 +1,12 @@
+ATOM_PPD_INIT_LINK,VAR_0
+NTB_ATOM,VAR_1
+NTB_CNTL_LINK_DISABLE,VAR_2
+NTB_CONN_TRANSPARENT,VAR_3
+NTB_PPD_OFFSET,VAR_4
+device_get_softc,FUNC_0
+intel_ntb_reg_read,FUNC_1
+pci_read_config,FUNC_2
+intel_ntb_link_enabled,FUNC_3
+dev,VAR_5
+ntb,VAR_6
+cntl,VAR_7

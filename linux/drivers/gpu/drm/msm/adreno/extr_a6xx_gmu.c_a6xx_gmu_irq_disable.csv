@@ -1,0 +1,6 @@
+REG_A6XX_GMU_AO_HOST_INTERRUPT_MASK,VAR_0
+REG_A6XX_GMU_GMU2HOST_INTR_MASK,VAR_1
+disable_irq,FUNC_0
+gmu_write,FUNC_1
+a6xx_gmu_irq_disable,FUNC_2
+gmu,VAR_2

@@ -1,0 +1,16 @@
+DRM_SWITCH_POWER_CHANGING,VAR_0
+DRM_SWITCH_POWER_OFF,VAR_1
+DRM_SWITCH_POWER_ON,VAR_2
+VGA_SWITCHEROO_OFF,VAR_3
+VGA_SWITCHEROO_ON,VAR_4
+nouveau_is_optimus,FUNC_0
+nouveau_is_v1_dsm,FUNC_1
+nouveau_pmops_resume,FUNC_2
+nouveau_pmops_suspend,FUNC_3
+nouveau_switcheroo_optimus_dsm,FUNC_4
+pci_get_drvdata,FUNC_5
+pr_err,FUNC_6
+nouveau_switcheroo_set_state,FUNC_7
+pdev,VAR_5
+state,VAR_6
+dev,VAR_7

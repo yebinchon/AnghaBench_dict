@@ -1,0 +1,11 @@
+IFF_PROMISC,VAR_0
+IFNAMSIZ,VAR_1
+SIOCGIFFLAGS,VAR_2
+SIOCSIFFLAGS,VAR_3
+capture_sock,VAR_4
+ifname,VAR_5
+ioctl,FUNC_0
+strncpy,FUNC_1
+set_promisc,FUNC_2
+on,VAR_6
+ifr,VAR_7

@@ -1,0 +1,17 @@
+BTRFS_DEV_STATE_FLUSH_SENT,VAR_0
+QUEUE_FLAG_WC,VAR_1
+REQ_OP_WRITE,VAR_2
+REQ_PREFLUSH,VAR_3
+REQ_SYNC,VAR_4
+bdev_get_queue,FUNC_0
+bio_reset,FUNC_1
+bio_set_dev,FUNC_2
+btrfs_end_empty_barrier,VAR_5
+btrfsic_submit_bio,FUNC_3
+init_completion,FUNC_4
+set_bit,FUNC_5
+test_bit,FUNC_6
+write_dev_flush,FUNC_7
+device,VAR_6
+q,VAR_7
+bio,VAR_8

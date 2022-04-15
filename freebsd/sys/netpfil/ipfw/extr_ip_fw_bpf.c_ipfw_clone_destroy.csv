@@ -1,0 +1,9 @@
+ETHER_HDR_LEN,VAR_0
+NET_EPOCH_WAIT,FUNC_0
+V_log_if,VAR_1
+V_pflog_if,VAR_2
+bpfdetach,FUNC_1
+if_detach,FUNC_2
+if_free,FUNC_3
+ipfw_clone_destroy,FUNC_4
+ifp,VAR_3

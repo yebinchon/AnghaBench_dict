@@ -1,0 +1,12 @@
+IE31200_ERRSTS,VAR_0
+IE31200_ERRSTS_BITS,VAR_1
+ie31200_clear_error_info,FUNC_0
+lo_hi_readq,FUNC_1
+nr_channels,VAR_2
+pci_read_config_word,FUNC_2
+to_pci_dev,FUNC_3
+ie31200_get_and_clear_error_info,FUNC_4
+mci,VAR_3
+info,VAR_4
+pdev,VAR_5
+priv,VAR_6

@@ -1,0 +1,12 @@
+DB_CQ_NUM_POPPED_SHIFT,VAR_0
+DB_CQ_OFFSET,VAR_1
+DB_CQ_REARM_SHIFT,VAR_2
+DB_CQ_RING_ID_MASK,VAR_3
+iowrite32,FUNC_0
+hwi_ring_cq_db,FUNC_1
+phba,VAR_4
+id,VAR_5
+num_processed,VAR_6
+rearm,VAR_7
+event,VAR_8
+val,VAR_9

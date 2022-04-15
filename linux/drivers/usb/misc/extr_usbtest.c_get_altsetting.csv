@@ -1,0 +1,13 @@
+ERANGE,VAR_0
+USB_CTRL_GET_TIMEOUT,VAR_1
+USB_DIR_IN,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_REQ_GET_INTERFACE,VAR_4
+interface_to_usbdev,FUNC_0
+usb_control_msg,FUNC_1
+usb_rcvctrlpipe,FUNC_2
+get_altsetting,FUNC_3
+dev,VAR_5
+iface,VAR_6
+udev,VAR_7
+retval,VAR_8

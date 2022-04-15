@@ -1,0 +1,17 @@
+GFS2_I,FUNC_0
+GFS2_SB,FUNC_1
+WB_SYNC_ALL,VAR_0
+filemap_fdatawait,FUNC_2
+filemap_fdatawrite,FUNC_3
+gfs2_ail1_flush,FUNC_4
+gfs2_glock2aspace,FUNC_5
+gfs2_log_flush,FUNC_6
+mark_inode_dirty_sync,FUNC_7
+gfs2_write_inode,FUNC_8
+inode,VAR_1
+wbc,VAR_2
+ip,VAR_3
+sdp,VAR_4
+metamapping,VAR_5
+bdi,VAR_6
+ret,VAR_7

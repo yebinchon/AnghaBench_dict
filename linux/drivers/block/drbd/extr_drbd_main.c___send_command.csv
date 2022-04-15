@@ -1,0 +1,16 @@
+MSG_MORE,VAR_0
+P_PING,VAR_1
+P_PING_ACK,VAR_2
+drbd_send_all,FUNC_0
+drbd_tcp_nodelay,FUNC_1
+prepare_header,FUNC_2
+__send_command,FUNC_3
+connection,VAR_3
+vnr,VAR_4
+sock,VAR_5
+cmd,VAR_6
+header_size,VAR_7
+data,VAR_8
+size,VAR_9
+msg_flags,VAR_10
+err,VAR_11

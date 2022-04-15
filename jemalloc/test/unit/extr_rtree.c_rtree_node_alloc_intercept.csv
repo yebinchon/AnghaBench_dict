@@ -1,0 +1,11 @@
+assert_ptr_not_null,FUNC_0
+calloc,FUNC_1
+malloc_mutex_lock,FUNC_2
+malloc_mutex_unlock,FUNC_3
+rtree_node_alloc_orig,FUNC_4
+test_rtree,VAR_0
+rtree_node_alloc_intercept,FUNC_5
+tsdn,VAR_1
+rtree,VAR_2
+nelms,VAR_3
+node,VAR_4

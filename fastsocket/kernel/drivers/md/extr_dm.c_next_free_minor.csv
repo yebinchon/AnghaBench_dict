@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+ENOSPC,VAR_1
+GFP_KERNEL,VAR_2
+MINORBITS,VAR_3
+MINOR_ALLOCED,VAR_4
+_minor_idr,VAR_5
+_minor_lock,VAR_6
+idr_get_new,FUNC_0
+idr_pre_get,FUNC_1
+idr_remove,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+next_free_minor,FUNC_5
+minor,VAR_7
+r,VAR_8
+m,VAR_9

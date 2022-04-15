@@ -1,0 +1,11 @@
+ACPI_COMPANION,FUNC_0
+PCI_FUNC,FUNC_1
+PCI_SLOT,FUNC_2
+acpi_find_child_device,FUNC_3
+pci_is_bridge,FUNC_4
+to_pci_dev,FUNC_5
+acpi_pci_find_companion,FUNC_6
+dev,VAR_0
+pci_dev,VAR_1
+check_children,VAR_2
+addr,VAR_3

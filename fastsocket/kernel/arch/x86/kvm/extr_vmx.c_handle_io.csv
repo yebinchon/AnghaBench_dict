@@ -1,0 +1,13 @@
+EMULATE_DO_MMIO,VAR_0
+EXIT_QUALIFICATION,VAR_1
+emulate_instruction,FUNC_0
+kvm_emulate_pio,FUNC_1
+skip_emulated_instruction,FUNC_2
+vmcs_readl,FUNC_3
+handle_io,FUNC_4
+vcpu,VAR_2
+exit_qualification,VAR_3
+size,VAR_4
+in,VAR_5
+string,VAR_6
+port,VAR_7

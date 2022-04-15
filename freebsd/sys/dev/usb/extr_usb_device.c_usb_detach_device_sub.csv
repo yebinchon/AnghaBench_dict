@@ -1,0 +1,17 @@
+DEVICE_RESUME,FUNC_0
+M_USBDEV,VAR_0
+device_delete_child,FUNC_1
+device_get_nameunit,FUNC_2
+device_is_attached,FUNC_3
+device_printf,FUNC_4
+free,FUNC_5
+panic,FUNC_6
+rebooting,VAR_1
+usb_detach_device_sub,FUNC_7
+udev,VAR_2
+ppdev,VAR_3
+ppnpinfo,VAR_4
+flag,VAR_5
+dev,VAR_6
+pnpinfo,VAR_7
+err,VAR_8

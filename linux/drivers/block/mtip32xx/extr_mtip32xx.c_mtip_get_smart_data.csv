@@ -1,0 +1,10 @@
+ATA_CMD_SMART,VAR_0
+ATA_DEVICE_OBS,VAR_1
+ATA_SECT_SIZE,VAR_2
+memset,FUNC_0
+mtip_exec_internal_command,FUNC_1
+mtip_get_smart_data,FUNC_2
+port,VAR_3
+buffer,VAR_4
+buffer_dma,VAR_5
+fis,VAR_6

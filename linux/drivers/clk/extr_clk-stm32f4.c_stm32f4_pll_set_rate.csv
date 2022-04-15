@@ -1,0 +1,17 @@
+base,VAR_0
+readl,FUNC_0
+stm32f4_pll_disable,FUNC_1
+stm32f4_pll_enable,FUNC_2
+stm32f4_pll_is_enabled,FUNC_3
+to_clk_gate,FUNC_4
+to_stm32f4_pll,FUNC_5
+writel,FUNC_6
+stm32f4_pll_set_rate,FUNC_7
+hw,VAR_1
+rate,VAR_2
+parent_rate,VAR_3
+gate,VAR_4
+pll,VAR_5
+n,VAR_6
+val,VAR_7
+pll_state,VAR_8

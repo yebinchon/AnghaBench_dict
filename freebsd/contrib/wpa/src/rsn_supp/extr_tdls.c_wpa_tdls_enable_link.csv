@@ -1,0 +1,16 @@
+MSG_DEBUG,VAR_0
+MSG_INFO,VAR_1
+TDLS_ENABLE_LINK,VAR_2
+TDLS_TESTING_NO_TPK_EXPIRATION,VAR_3
+eloop_cancel_timeout,FUNC_0
+eloop_register_timeout,FUNC_1
+tdls_testing,VAR_4
+wpa_printf,FUNC_2
+wpa_sm_tdls_oper,FUNC_3
+wpa_tdls_get_privacy,FUNC_4
+wpa_tdls_set_key,FUNC_5
+wpa_tdls_tpk_timeout,VAR_5
+wpa_tdls_enable_link,FUNC_6
+sm,VAR_6
+peer,VAR_7
+lifetime,VAR_8

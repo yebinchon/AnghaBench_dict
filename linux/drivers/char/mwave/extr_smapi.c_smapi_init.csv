@@ -1,0 +1,15 @@
+CMOS_READ,FUNC_0
+EIO,VAR_0
+ENXIO,VAR_1
+PRINTK_1,FUNC_1
+PRINTK_2,FUNC_2
+PRINTK_ERROR,FUNC_3
+TRACE_SMAPI,VAR_2
+g_usSmapiPort,VAR_3
+rtc_lock,VAR_4
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+smapi_init,FUNC_6
+retval,VAR_5
+usSmapiID,VAR_6
+flags,VAR_7

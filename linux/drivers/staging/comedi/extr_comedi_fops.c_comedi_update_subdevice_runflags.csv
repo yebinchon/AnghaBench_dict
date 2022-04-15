@@ -1,0 +1,9 @@
+__comedi_clear_subdevice_runflags,FUNC_0
+__comedi_set_subdevice_runflags,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+comedi_update_subdevice_runflags,FUNC_4
+s,VAR_0
+mask,VAR_1
+bits,VAR_2
+flags,VAR_3

@@ -1,0 +1,16 @@
+ATOMIC_RELAXED,VAR_0
+assert,FUNC_0
+atomic_compare_exchange_weak_u64,FUNC_1
+atomic_load_u64,FUNC_2
+cassert,FUNC_3
+config_prof,VAR_1
+malloc_mutex_lock,FUNC_4
+malloc_mutex_unlock,FUNC_5
+prof_idump_accumulated,VAR_2
+prof_interval,VAR_3
+prof_idump_accum_impl,FUNC_6
+tsdn,VAR_4
+accumbytes,VAR_5
+overflow,VAR_6
+a0,VAR_7
+a1,VAR_8

@@ -1,0 +1,17 @@
+cpufreq_cpu_get,FUNC_0
+cpufreq_cpu_put,FUNC_1
+cpufreq_freq_transition_begin,FUNC_2
+cpufreq_freq_transition_end,FUNC_3
+find_khz_freq_from_fid,FUNC_4
+pr_debug,FUNC_5
+query_current_values_with_pending_wait,FUNC_6
+smp_processor_id,FUNC_7
+transition_fid_vid,FUNC_8
+transition_frequency_fidvid,FUNC_9
+data,VAR_0
+index,VAR_1
+policy,VAR_2
+fid,VAR_3
+vid,VAR_4
+res,VAR_5
+freqs,VAR_6

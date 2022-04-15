@@ -1,0 +1,15 @@
+APR_SUCCESS,VAR_0
+ErrorOnNul,VAR_1
+NID_commonName,VAR_2
+SERF_ERROR_SSL_CERT_FAILED,VAR_3
+X509_NAME_get_text_by_NID,FUNC_0
+X509_get_subject_name,FUNC_1
+get_subject_alt_names,FUNC_2
+strlen,FUNC_3
+validate_cert_hostname,FUNC_4
+server_cert,VAR_4
+pool,VAR_5
+buf,VAR_6
+length,VAR_7
+ret,VAR_8
+subject,VAR_9

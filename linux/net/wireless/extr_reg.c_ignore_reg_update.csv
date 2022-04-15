@@ -1,0 +1,15 @@
+NL80211_REGDOM_SET_BY_CORE,VAR_0
+NL80211_REGDOM_SET_BY_COUNTRY_IE,VAR_1
+REGULATORY_CUSTOM_REG,VAR_2
+REGULATORY_WIPHY_SELF_MANAGED,VAR_3
+get_last_request,FUNC_0
+is_world_regdom,FUNC_1
+pr_debug,FUNC_2
+reg_dev_ignore_cell_hint,FUNC_3
+reg_initiator_name,FUNC_4
+reg_request_cell_base,FUNC_5
+wiphy_strict_alpha2_regd,FUNC_6
+ignore_reg_update,FUNC_7
+wiphy,VAR_4
+initiator,VAR_5
+lr,VAR_6

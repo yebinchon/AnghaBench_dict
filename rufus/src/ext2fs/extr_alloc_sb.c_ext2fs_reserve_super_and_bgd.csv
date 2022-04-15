@@ -1,0 +1,17 @@
+EXT2FS_CLUSTER_RATIO,FUNC_0
+ext2fs_blocks_count,FUNC_1
+ext2fs_group_blocks_count,FUNC_2
+ext2fs_has_feature_meta_bg,FUNC_3
+ext2fs_mark_block_bitmap2,FUNC_4
+ext2fs_mark_block_bitmap_range2,FUNC_5
+ext2fs_super_and_bgd_loc2,FUNC_6
+ext2fs_reserve_super_and_bgd,FUNC_7
+fs,VAR_0
+group,VAR_1
+bmap,VAR_2
+super_blk,VAR_3
+old_desc_blk,VAR_4
+new_desc_blk,VAR_5
+used_blks,VAR_6
+old_desc_blocks,VAR_7
+num_blocks,VAR_8

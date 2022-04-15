@@ -1,0 +1,17 @@
+SNDRV_GF1_DMA_16BIT,VAR_0
+SNDRV_GF1_DMA_IRQ,VAR_1
+SNDRV_GF1_DMA_UNSIGNED,VAR_2
+atomic_inc,FUNC_0
+memset,FUNC_1
+snd_gf1_dma_transfer_block,FUNC_2
+snd_gf1_pcm_block_change_ack,VAR_3
+snd_pcm_format_unsigned,FUNC_3
+snd_pcm_format_width,FUNC_4
+snd_gf1_pcm_block_change,FUNC_5
+substream,VAR_4
+offset,VAR_5
+addr,VAR_6
+count,VAR_7
+block,VAR_8
+runtime,VAR_9
+pcmp,VAR_10

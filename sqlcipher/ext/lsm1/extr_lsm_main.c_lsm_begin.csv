@@ -1,0 +1,16 @@
+LSM_NOMEM,VAR_0
+LSM_OK,VAR_1
+LSM_READONLY,VAR_2
+assert_db_state,FUNC_0
+lsmBeginWriteTrans,FUNC_1
+lsmLogTell,FUNC_2
+lsmRealloc,FUNC_3
+lsmTreeMark,FUNC_4
+memset,FUNC_5
+lsm_begin,FUNC_6
+pDb,VAR_3
+iLevel,VAR_4
+rc,VAR_5
+i,VAR_6
+aNew,VAR_7
+nByte,VAR_8

@@ -1,0 +1,15 @@
+CLK_CTL_DIV_MASK,VAR_0
+CLK_CTL_SCLKEN,VAR_1
+CTL_SD_CARD_CLK_CTL,VAR_2
+MMC_TIMING_MMC_HS400,VAR_3
+TMIO_MMC_CLK_ACTUAL,VAR_4
+TMIO_MMC_MIN_RCAR2,VAR_5
+renesas_sdhi_clk_update,FUNC_0
+sd_ctrl_read16,FUNC_1
+sd_ctrl_write16,FUNC_2
+usleep_range,FUNC_3
+renesas_sdhi_set_clock,FUNC_4
+host,VAR_6
+new_clock,VAR_7
+clk,VAR_8
+clock,VAR_9

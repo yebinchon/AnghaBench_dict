@@ -1,0 +1,15 @@
+PCI_CAP_ID_EA,VAR_0
+PCI_EA_FIRST_ENT,VAR_1
+PCI_EA_SEC_BUS_MASK,VAR_2
+PCI_EA_SUB_BUS_MASK,VAR_3
+PCI_EA_SUB_BUS_SHIFT,VAR_4
+PCI_HEADER_TYPE_BRIDGE,VAR_5
+pci_find_capability,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_ea_fixed_busnrs,FUNC_2
+dev,VAR_6
+sec,VAR_7
+sub,VAR_8
+ea,VAR_9
+offset,VAR_10
+dw,VAR_11

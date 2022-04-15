@@ -1,0 +1,15 @@
+IAVF_ITR_NONE,VAR_0
+IAVF_RX_ITR,VAR_1
+IAVF_TX_ITR,VAR_2
+INTREG,FUNC_0
+ITR_COUNTDOWN_START,VAR_3
+__IAVF_VSI_DOWN,VAR_4
+iavf_buildreg_itr,FUNC_1
+iavf_update_itr,FUNC_2
+test_bit,FUNC_3
+wr32,FUNC_4
+iavf_update_enable_itr,FUNC_5
+vsi,VAR_5
+q_vector,VAR_6
+hw,VAR_7
+intval,VAR_8

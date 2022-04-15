@@ -1,0 +1,14 @@
+PCI_LEGSUP,VAR_0
+PCI_LEGSUP_USBPIRQDEN,VAR_1
+PCI_UHCI_BASE_REG,VAR_2
+RF_ACTIVE,VAR_3
+SYS_RES_IOPORT,VAR_4
+UHCI_INTR,VAR_5
+bus_alloc_resource_any,FUNC_0
+bus_release_resource,FUNC_1
+bus_write_2,FUNC_2
+pci_write_config,FUNC_3
+uhci_early_takeover,FUNC_4
+self,VAR_6
+res,VAR_7
+rid,VAR_8

@@ -1,0 +1,12 @@
+CTS_DELTA,VAR_0
+TIMBUART_ISR,VAR_1
+TIOCM_CTS,VAR_2
+iowrite32,FUNC_0
+timbuart_get_mctrl,FUNC_1
+uart_handle_cts_change,FUNC_2
+wake_up_interruptible,FUNC_3
+timbuart_mctrl_check,FUNC_4
+port,VAR_3
+isr,VAR_4
+ier,VAR_5
+cts,VAR_6

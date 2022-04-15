@@ -1,0 +1,14 @@
+cpdma_ctlr_destroy,FUNC_0
+cpsw_remove_dt,FUNC_1
+cpts_release,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+pm_runtime_put_sync,FUNC_7
+unregister_netdev,FUNC_8
+cpsw_remove,FUNC_9
+pdev,VAR_0
+cpsw,VAR_1
+i,VAR_2
+ret,VAR_3

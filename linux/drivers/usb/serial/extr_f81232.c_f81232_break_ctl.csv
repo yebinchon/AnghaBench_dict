@@ -1,0 +1,13 @@
+LINE_CONTROL_REGISTER,VAR_0
+UART_LCR_SBC,VAR_1
+dev_err,FUNC_0
+f81232_set_register,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+usb_get_serial_port_data,FUNC_4
+f81232_break_ctl,FUNC_5
+tty,VAR_2
+break_state,VAR_3
+port,VAR_4
+priv,VAR_5
+status,VAR_6

@@ -1,0 +1,13 @@
+PCI_ISR,VAR_0
+PCI_ISR_PFE,VAR_1
+PCI_STATUS,VAR_2
+PCI_STATUS_REC_MASTER_ABORT,VAR_3
+local_read_config,FUNC_0
+local_write_config,FUNC_1
+pr_debug,FUNC_2
+abort_handler,FUNC_3
+addr,VAR_4
+fsr,VAR_5
+regs,VAR_6
+isr,VAR_7
+status,VAR_8

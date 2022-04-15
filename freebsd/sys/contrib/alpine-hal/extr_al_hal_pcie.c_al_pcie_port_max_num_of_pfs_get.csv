@@ -1,0 +1,10 @@
+AL_PCIE_REV_ID_3,VAR_0
+AL_REG_FIELD_GET,FUNC_0
+PCIE_PORT_GEN3_MAX_FUNC_NUM,VAR_1
+al_pcie_port_is_enabled,FUNC_1
+al_reg_read32,FUNC_2
+al_pcie_port_max_num_of_pfs_get,FUNC_3
+pcie_port,VAR_2
+regs,VAR_3
+max_func_num,VAR_4
+max_num_of_pfs,VAR_5

@@ -1,0 +1,17 @@
+CICONTROL_RESET,VAR_0
+DEBIADDR_CICONTROL,VAR_1
+DEBICICTL,VAR_2
+MASK_03,VAR_3
+MASK_27,VAR_4
+MC1,VAR_5
+SAA7146_GPIO_INPUT,VAR_6
+SAA7146_IER_DISABLE,FUNC_0
+dvb_ca_en50221_release,FUNC_1
+msleep,FUNC_2
+saa7146_setgpio,FUNC_3
+saa7146_write,FUNC_4
+tasklet_kill,FUNC_5
+ttpci_budget_debiwrite,FUNC_6
+ciintf_deinit,FUNC_7
+budget_ci,VAR_7
+saa,VAR_8

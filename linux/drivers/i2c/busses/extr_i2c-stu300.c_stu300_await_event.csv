@@ -1,0 +1,16 @@
+EIO,VAR_0
+ETIMEDOUT,VAR_1
+STU300_ERROR_NONE,VAR_2
+STU300_EVENT_6,VAR_3
+STU300_TIMEOUT,VAR_4
+dev_err,FUNC_0
+init_completion,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+stu300_init_hw,FUNC_4
+stu300_irq_enable,FUNC_5
+wait_for_completion_interruptible_timeout,FUNC_6
+stu300_await_event,FUNC_7
+dev,VAR_5
+mr_event,VAR_6
+ret,VAR_7

@@ -1,0 +1,13 @@
+Uxx_power_off_procedure,FUNC_0
+VM_STOP,VAR_0
+kfree,FUNC_1
+msleep,FUNC_2
+printk,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+usb_free_urb,FUNC_6
+Wb35Reg_destroy,FUNC_7
+pHwData,VAR_1
+reg,VAR_2
+urb,VAR_3
+reg_queue,VAR_4

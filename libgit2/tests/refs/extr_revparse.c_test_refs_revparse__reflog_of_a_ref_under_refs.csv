@@ -1,0 +1,6 @@
+cl_git_sandbox_cleanup,FUNC_0
+cl_git_sandbox_init,FUNC_1
+create_fake_stash_reference_and_reflog,FUNC_2
+test_object_inrepo,FUNC_3
+test_refs_revparse__reflog_of_a_ref_under_refs,FUNC_4
+repo,VAR_0

@@ -1,0 +1,14 @@
+ZFCP_ERP_EXIT,VAR_0
+ZFCP_ERP_FAILED,VAR_1
+ZFCP_ERP_SUCCEEDED,VAR_2
+ZFCP_STATUS_COMMON_OPEN,VAR_3
+ZFCP_STATUS_ERP_CLOSE_ONLY,VAR_4
+atomic_read,FUNC_0
+sdev_to_zfcp,FUNC_1
+zfcp_erp_lun_strategy_clearstati,FUNC_2
+zfcp_erp_lun_strategy_close,FUNC_3
+zfcp_erp_lun_strategy_open,FUNC_4
+zfcp_erp_lun_strategy,FUNC_5
+erp_action,VAR_5
+sdev,VAR_6
+zfcp_sdev,VAR_7

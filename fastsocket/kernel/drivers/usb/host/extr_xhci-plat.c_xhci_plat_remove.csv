@@ -1,0 +1,10 @@
+hcd_to_xhci,FUNC_0
+iounmap,FUNC_1
+kfree,FUNC_2
+platform_get_drvdata,FUNC_3
+usb_put_hcd,FUNC_4
+usb_remove_hcd,FUNC_5
+xhci_plat_remove,FUNC_6
+dev,VAR_0
+hcd,VAR_1
+xhci,VAR_2

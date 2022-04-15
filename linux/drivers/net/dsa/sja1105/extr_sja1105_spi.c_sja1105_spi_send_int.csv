@@ -1,0 +1,15 @@
+ERANGE,VAR_0
+SJA1105_SIZE_SPI_MSG_MAXLEN,VAR_1
+SPI_READ,VAR_2
+SPI_WRITE,VAR_3
+sja1105_pack,FUNC_0
+sja1105_spi_send_packed_buf,FUNC_1
+sja1105_unpack,FUNC_2
+sja1105_spi_send_int,FUNC_3
+priv,VAR_4
+rw,VAR_5
+reg_addr,VAR_6
+value,VAR_7
+size_bytes,VAR_8
+packed_buf,VAR_9
+rc,VAR_10

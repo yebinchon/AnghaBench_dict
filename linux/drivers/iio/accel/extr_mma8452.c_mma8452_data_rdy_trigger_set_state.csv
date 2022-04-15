@@ -1,0 +1,14 @@
+MMA8452_CTRL_REG4,VAR_0
+MMA8452_INT_DRDY,VAR_1
+i2c_smbus_read_byte_data,FUNC_0
+iio_priv,FUNC_1
+iio_trigger_get_drvdata,FUNC_2
+mma8452_change_config,FUNC_3
+mma8452_set_runtime_pm_state,FUNC_4
+mma8452_data_rdy_trigger_set_state,FUNC_5
+trig,VAR_2
+state,VAR_3
+indio_dev,VAR_4
+data,VAR_5
+reg,VAR_6
+ret,VAR_7

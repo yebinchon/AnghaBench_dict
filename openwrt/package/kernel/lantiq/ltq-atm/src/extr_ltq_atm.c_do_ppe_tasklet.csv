@@ -1,0 +1,16 @@
+FIRST_QSB_QID,VAR_0
+MBOX_IGU1_ISR,VAR_1
+MBOX_IGU1_ISRC,VAR_2
+PPE_MAILBOX_IGU1_INT,VAR_3
+RX_DMA_CH_AAL,VAR_4
+RX_DMA_CH_OAM,VAR_5
+enable_irq,FUNC_0
+g_atm_priv_data,VAR_6
+g_dma_tasklet,VAR_7
+mailbox_aal_rx_handler,FUNC_1
+mailbox_oam_rx_handler,FUNC_2
+mailbox_tx_handler,FUNC_3
+tasklet_schedule,FUNC_4
+do_ppe_tasklet,FUNC_5
+data,VAR_8
+irqs,VAR_9

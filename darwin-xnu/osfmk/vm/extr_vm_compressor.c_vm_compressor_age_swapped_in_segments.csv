@@ -1,0 +1,15 @@
+C_ON_AGE_Q,VAR_0
+C_SEGMENT_SWAPPEDIN_AGE_LIMIT,VAR_1
+FALSE,VAR_2
+c_seg_switch_state,FUNC_0
+c_swappedin_list_head,VAR_3
+clock_get_system_nanotime,FUNC_1
+lck_mtx_lock_spin_always,FUNC_2
+lck_mtx_unlock_always,FUNC_3
+queue_empty,FUNC_4
+queue_first,FUNC_5
+vm_compressor_age_swapped_in_segments,FUNC_6
+flush_all,VAR_4
+c_seg,VAR_5
+now,VAR_6
+nsec,VAR_7

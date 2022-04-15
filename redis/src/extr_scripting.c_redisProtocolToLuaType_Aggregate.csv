@@ -1,0 +1,16 @@
+lua_newtable,FUNC_0
+lua_pushboolean,FUNC_1
+lua_pushnumber,FUNC_2
+lua_pushstring,FUNC_3
+lua_settable,FUNC_4
+redisProtocolToLuaType,FUNC_5
+server,VAR_0
+strchr,FUNC_6
+string2ll,FUNC_7
+redisProtocolToLuaType_Aggregate,FUNC_8
+lua,VAR_1
+reply,VAR_2
+atype,VAR_3
+p,VAR_4
+mbulklen,VAR_5
+j,VAR_6

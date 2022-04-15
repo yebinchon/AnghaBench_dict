@@ -1,0 +1,11 @@
+eth_prepare_mac_addr_change,FUNC_0
+ether_addr_copy,FUNC_1
+lan743x_mac_set_address,FUNC_2
+lan743x_rfe_update_mac_address,FUNC_3
+netdev_priv,FUNC_4
+lan743x_netdev_set_mac_address,FUNC_5
+netdev,VAR_0
+addr,VAR_1
+adapter,VAR_2
+sock_addr,VAR_3
+ret,VAR_4

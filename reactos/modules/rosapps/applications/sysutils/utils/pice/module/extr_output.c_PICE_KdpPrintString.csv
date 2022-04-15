@@ -1,0 +1,10 @@
+AddToRingBuffer,FUNC_0
+DPRINT,FUNC_1
+FALSE,VAR_0
+bIsDebugPrint,VAR_1
+cli,FUNC_2
+restore_flags,FUNC_3
+save_flags,FUNC_4
+PICE_KdpPrintString,FUNC_5
+String,VAR_2
+ulRingBufferLock,VAR_3

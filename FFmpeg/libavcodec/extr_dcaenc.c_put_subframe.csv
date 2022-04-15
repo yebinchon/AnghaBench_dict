@@ -1,0 +1,14 @@
+DCAENC_SUBBANDS,VAR_0
+DCA_LFE_SAMPLES,VAR_1
+SUBSUBFRAMES,VAR_2
+ff_dca_vlc_enc_alloc,FUNC_0
+put_bits,FUNC_1
+put_subframe_samples,FUNC_2
+quantize_value,FUNC_3
+put_subframe,FUNC_4
+c,VAR_3
+subframe,VAR_4
+i,VAR_5
+band,VAR_6
+ss,VAR_7
+ch,VAR_8

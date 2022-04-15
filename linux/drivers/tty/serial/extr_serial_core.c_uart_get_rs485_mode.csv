@@ -1,0 +1,11 @@
+SER_RS485_ENABLED,VAR_0
+SER_RS485_RTS_AFTER_SEND,VAR_1
+SER_RS485_RTS_ON_SEND,VAR_2
+SER_RS485_RX_DURING_TX,VAR_3
+device_property_read_bool,FUNC_0
+device_property_read_u32_array,FUNC_1
+uart_get_rs485_mode,FUNC_2
+dev,VAR_4
+rs485conf,VAR_5
+rs485_delay,VAR_6
+ret,VAR_7

@@ -1,0 +1,10 @@
+InitializeCriticalSectionAndSpinCount,FUNC_0
+PTHREAD_MUTEX_DEFAULT,VAR_0
+_CRT_SPINCOUNT,VAR_1
+pthread_mutex_init,FUNC_1
+pthread_mutexattr_destroy,FUNC_2
+pthread_mutexattr_init,FUNC_3
+pthread_mutexattr_settype,FUNC_4
+mtx_init,FUNC_5
+mtx,VAR_2
+attr,VAR_3

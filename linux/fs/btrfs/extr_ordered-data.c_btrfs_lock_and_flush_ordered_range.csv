@@ -1,0 +1,15 @@
+btrfs_lookup_ordered_range,FUNC_0
+btrfs_put_ordered_extent,FUNC_1
+btrfs_start_ordered_extent,FUNC_2
+lock_extent_bits,FUNC_3
+refcount_dec,FUNC_4
+unlock_extent_cached,FUNC_5
+btrfs_lock_and_flush_ordered_range,FUNC_6
+tree,VAR_0
+inode,VAR_1
+start,VAR_2
+end,VAR_3
+cached_state,VAR_4
+ordered,VAR_5
+cache,VAR_6
+cachedp,VAR_7

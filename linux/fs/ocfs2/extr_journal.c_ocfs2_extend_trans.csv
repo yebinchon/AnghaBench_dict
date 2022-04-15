@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+jbd2_journal_extend,FUNC_1
+jbd2_journal_restart,FUNC_2
+mlog_errno,FUNC_3
+trace_ocfs2_extend_trans,FUNC_4
+trace_ocfs2_extend_trans_restart,FUNC_5
+ocfs2_extend_trans,FUNC_6
+handle,VAR_0
+nblocks,VAR_1
+status,VAR_2
+old_nblocks,VAR_3

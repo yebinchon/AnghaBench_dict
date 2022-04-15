@@ -1,0 +1,11 @@
+PCH_GBE_INT_ENABLE_MASK,VAR_0
+PCH_GBE_WLA_BUSY,VAR_1
+PCH_GBE_WLC_WOL_MODE,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+pch_gbe_wait_clr_bit,FUNC_2
+pr_debug,FUNC_3
+pch_gbe_mac_set_wol_event,FUNC_4
+hw,VAR_3
+wu_evt,VAR_4
+addr_mask,VAR_5

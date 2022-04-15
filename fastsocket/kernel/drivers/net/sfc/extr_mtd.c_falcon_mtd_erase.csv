@@ -1,0 +1,13 @@
+efx_spi_erase,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+to_efx_mtd_partition,FUNC_3
+falcon_mtd_erase,FUNC_4
+mtd,VAR_0
+start,VAR_1
+len,VAR_2
+part,VAR_3
+efx_mtd,VAR_4
+efx,VAR_5
+nic_data,VAR_6
+rc,VAR_7

@@ -1,0 +1,14 @@
+O2NM_MAX_NODES,VAR_0
+assert_spin_locked,FUNC_0
+dlm_is_lockres_migratable,FUNC_1
+dlm_migrate_lockres,FUNC_2
+dlm_pick_migration_target,FUNC_3
+mlog,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+dlm_empty_lockres,FUNC_7
+dlm,VAR_1
+res,VAR_2
+ret,VAR_3
+lock_dropped,VAR_4
+target,VAR_5

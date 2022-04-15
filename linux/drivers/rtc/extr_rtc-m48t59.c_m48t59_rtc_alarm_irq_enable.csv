@@ -1,0 +1,13 @@
+M48T59_INTR,VAR_0
+M48T59_INTR_AFE,VAR_1
+M48T59_WRITE,FUNC_0
+dev_get_drvdata,FUNC_1
+dev_get_platdata,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+m48t59_rtc_alarm_irq_enable,FUNC_5
+dev,VAR_2
+enabled,VAR_3
+pdata,VAR_4
+m48t59,VAR_5
+flags,VAR_6

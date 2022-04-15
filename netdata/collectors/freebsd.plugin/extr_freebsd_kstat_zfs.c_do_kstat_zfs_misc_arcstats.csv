@@ -1,0 +1,16 @@
+CONFIG_BOOLEAN_NO,VAR_0
+GETSYSCTL_SIMPLE,FUNC_0
+arcstats,VAR_1
+config_get_boolean_ondemand,FUNC_1
+generate_charts_arc_summary,FUNC_2
+generate_charts_arcstats,FUNC_3
+likely,FUNC_4
+sysctlbyname,FUNC_5
+unlikely,FUNC_6
+do_kstat_zfs_misc_arcstats,FUNC_7
+update_every,VAR_2
+dt,VAR_3
+show_zero_charts,VAR_4
+l2_size,VAR_5
+uint64_t_size,VAR_6
+mibs,VAR_7

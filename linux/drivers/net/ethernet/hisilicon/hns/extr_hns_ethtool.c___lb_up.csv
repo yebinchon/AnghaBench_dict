@@ -1,0 +1,16 @@
+NIC_LB_TEST_WAIT_PHY_LINK_TIME,VAR_0
+PHY_INTERFACE_MODE_XGMII,VAR_1
+__lb_setup,FUNC_0
+hns_nic_net_reset,FUNC_1
+msleep,FUNC_2
+netdev_priv,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+__lb_up,FUNC_6
+ndev,VAR_2
+loop_mode,VAR_3
+priv,VAR_4
+h,VAR_5
+speed,VAR_6
+duplex,VAR_7
+ret,VAR_8

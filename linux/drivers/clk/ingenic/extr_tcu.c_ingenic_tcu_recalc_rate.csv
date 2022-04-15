@@ -1,0 +1,12 @@
+TCU_TCSR_PRESCALE_LSB,VAR_0
+TCU_TCSR_PRESCALE_MASK,VAR_1
+WARN_ONCE,FUNC_0
+regmap_read,FUNC_1
+to_tcu_clk,FUNC_2
+ingenic_tcu_recalc_rate,FUNC_3
+hw,VAR_2
+parent_rate,VAR_3
+tcu_clk,VAR_4
+info,VAR_5
+prescale,VAR_6
+ret,VAR_7

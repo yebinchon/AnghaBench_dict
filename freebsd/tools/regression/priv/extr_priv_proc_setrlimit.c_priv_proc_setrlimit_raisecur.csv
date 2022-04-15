@@ -1,0 +1,11 @@
+EPERM,VAR_0
+RLIMIT_DATA,VAR_1
+expect,FUNC_0
+rl_lowered,VAR_2
+setrlimit,FUNC_1
+priv_proc_setrlimit_raisecur,FUNC_2
+asroot,VAR_3
+injail,VAR_4
+test,VAR_5
+rl,VAR_6
+error,VAR_7

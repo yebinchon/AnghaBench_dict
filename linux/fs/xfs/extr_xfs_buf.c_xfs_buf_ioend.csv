@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+XBF_ASYNC,VAR_0
+XBF_DONE,VAR_1
+XBF_READ,VAR_2
+XBF_READ_AHEAD,VAR_3
+XBF_WRITE,VAR_4
+_RET_IP_,VAR_5
+complete,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+trace_xfs_buf_iodone,FUNC_4
+xfs_buf_ioerror,FUNC_5
+xfs_buf_relse,FUNC_6
+xfs_buf_ioend,FUNC_7
+bp,VAR_6
+read,VAR_7

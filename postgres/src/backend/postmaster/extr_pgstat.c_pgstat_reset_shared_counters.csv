@@ -1,0 +1,17 @@
+ERRCODE_INVALID_PARAMETER_VALUE,VAR_0
+ERROR,VAR_1
+PGINVALID_SOCKET,VAR_2
+PGSTAT_MTYPE_RESETSHAREDCOUNTER,VAR_3
+RESET_ARCHIVER,VAR_4
+RESET_BGWRITER,VAR_5
+ereport,FUNC_0
+errcode,FUNC_1
+errhint,FUNC_2
+errmsg,FUNC_3
+pgStatSock,VAR_6
+pgstat_send,FUNC_4
+pgstat_setheader,FUNC_5
+strcmp,FUNC_6
+pgstat_reset_shared_counters,FUNC_7
+target,VAR_7
+msg,VAR_8

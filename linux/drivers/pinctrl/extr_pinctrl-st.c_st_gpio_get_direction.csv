@@ -1,0 +1,17 @@
+REG_PIO_PC,FUNC_0
+ST_GPIO_DIRECTION_IN,VAR_0
+ST_PINCONF_UNPACK_OE,FUNC_1
+gpiochip_get_data,FUNC_2
+readl,FUNC_3
+st_pctl_get_pin_function,FUNC_4
+st_pinconf_get_direction,FUNC_5
+st_gpio_get_direction,FUNC_6
+chip,VAR_1
+offset,VAR_2
+bank,VAR_3
+pc,VAR_4
+config,VAR_5
+direction,VAR_6
+function,VAR_7
+value,VAR_8
+i,VAR_9

@@ -1,0 +1,10 @@
+CLASS0_INTR_MASK,VAR_0
+CLASS1_INTR_MASK,VAR_1
+CLASS2_INTR_MASK,VAR_2
+spin_lock_irq,FUNC_0
+spin_unlock_irq,FUNC_1
+spu_int_mask_set,FUNC_2
+spu_int_stat_clear,FUNC_3
+clear_interrupts,FUNC_4
+csa,VAR_3
+spu,VAR_4

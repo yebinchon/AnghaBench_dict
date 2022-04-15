@@ -1,0 +1,14 @@
+_repo,VAR_0
+cl_assert_equal_oid,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+git_blob_free,FUNC_3
+git_blob_lookup,FUNC_4
+git_blob_rawcontent,FUNC_5
+git_note_id,FUNC_6
+git_note_message,FUNC_7
+assert_note_equal,FUNC_8
+note,VAR_1
+message,VAR_2
+note_oid,VAR_3
+blob,VAR_4

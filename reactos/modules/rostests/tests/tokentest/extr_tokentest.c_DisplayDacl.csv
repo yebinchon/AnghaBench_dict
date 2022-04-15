@@ -1,0 +1,16 @@
+ACCESS_ALLOWED_ACE_TYPE,VAR_0
+ACCESS_DENIED_ACE_TYPE,VAR_1
+LocalFree,FUNC_0
+NT_SUCCESS,FUNC_1
+RtlConvertSidToUnicodeString,FUNC_2
+RtlGetAce,FUNC_3
+TRUE,VAR_2
+printf,FUNC_4
+DisplayDacl,FUNC_5
+pAcl,VAR_3
+i,VAR_4
+status,VAR_5
+scSid,VAR_6
+pAce,VAR_7
+wszType,VAR_8
+pSid,VAR_9

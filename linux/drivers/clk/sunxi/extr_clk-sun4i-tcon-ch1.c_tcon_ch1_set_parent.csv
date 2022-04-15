@@ -1,0 +1,13 @@
+TCON_CH1_SCLK2_MUX_MASK,VAR_0
+TCON_CH1_SCLK2_MUX_SHIFT,VAR_1
+hw_to_tclk,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+tcon_ch1_set_parent,FUNC_5
+hw,VAR_2
+index,VAR_3
+tclk,VAR_4
+flags,VAR_5
+reg,VAR_6

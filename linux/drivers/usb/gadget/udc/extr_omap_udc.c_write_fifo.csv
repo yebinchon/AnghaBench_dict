@@ -1,0 +1,16 @@
+UDC_CTRL,VAR_0
+UDC_FIFO_UNWRITABLE,VAR_1
+UDC_SET_FIFO_EN,VAR_2
+UDC_STAT_FLG,VAR_3
+done,FUNC_0
+omap_readw,FUNC_1
+omap_writew,FUNC_2
+prefetch,FUNC_3
+write_packet,FUNC_4
+write_fifo,FUNC_5
+ep,VAR_4
+req,VAR_5
+buf,VAR_6
+count,VAR_7
+is_last,VAR_8
+ep_stat,VAR_9

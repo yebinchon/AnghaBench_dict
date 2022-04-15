@@ -1,0 +1,11 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+RF_SHAREABLE,VAR_2
+SYS_RES_IRQ,VAR_3
+bus_alloc_resource_any,FUNC_0
+device_get_softc,FUNC_1
+printf,FUNC_2
+xenpci_deallocate_resources,FUNC_3
+xenpci_allocate_resources,FUNC_4
+dev,VAR_4
+scp,VAR_5

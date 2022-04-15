@@ -1,0 +1,15 @@
+PCH_UART_RBR,VAR_0
+UART_LSR,VAR_1
+UART_LSR_BI,VAR_2
+UART_LSR_DR,VAR_3
+ioread8,FUNC_0
+uart_handle_break,FUNC_1
+uart_handle_sysrq_char,FUNC_2
+pch_uart_hal_read,FUNC_3
+priv,VAR_4
+buf,VAR_5
+rx_size,VAR_6
+i,VAR_7
+rbr,VAR_8
+lsr,VAR_9
+port,VAR_10

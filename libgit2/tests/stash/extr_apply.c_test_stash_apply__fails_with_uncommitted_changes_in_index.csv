@@ -1,0 +1,16 @@
+GIT_ENOTFOUND,VAR_0
+GIT_EUNCOMMITTED,VAR_1
+GIT_STATUS_CURRENT,VAR_2
+GIT_STATUS_INDEX_MODIFIED,VAR_3
+assert_status,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_fail_with,FUNC_2
+cl_git_pass,FUNC_3
+cl_git_rewritefile,FUNC_4
+git_index_add_bypath,FUNC_5
+git_index_has_conflicts,FUNC_6
+git_index_write,FUNC_7
+git_stash_apply,FUNC_8
+repo,VAR_4
+repo_index,VAR_5
+test_stash_apply__fails_with_uncommitted_changes_in_index,FUNC_9

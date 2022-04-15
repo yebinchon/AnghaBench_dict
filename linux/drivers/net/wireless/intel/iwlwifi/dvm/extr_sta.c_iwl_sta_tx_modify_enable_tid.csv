@@ -1,0 +1,13 @@
+STA_CONTROL_MODIFY_MSK,VAR_0
+STA_MODIFY_TID_DISABLE_TX,VAR_1
+cpu_to_le16,FUNC_0
+iwl_send_add_sta,FUNC_1
+lockdep_assert_held,FUNC_2
+memcpy,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+iwl_sta_tx_modify_enable_tid,FUNC_6
+priv,VAR_2
+sta_id,VAR_3
+tid,VAR_4
+sta_cmd,VAR_5

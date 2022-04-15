@@ -1,0 +1,15 @@
+IP_TOS,VAR_0
+SOL_IP,VAR_1
+getsockopt,FUNC_0
+log_err,FUNC_1
+prog_attach,FUNC_2
+prog_detach,FUNC_3
+setsockopt,FUNC_4
+run_getsockopt_test,FUNC_5
+obj,VAR_2
+cg_parent,VAR_3
+cg_child,VAR_4
+sock_fd,VAR_5
+optlen,VAR_6
+buf,VAR_7
+err,VAR_8

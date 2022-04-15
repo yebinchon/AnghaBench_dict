@@ -1,0 +1,12 @@
+ALLEGRO_STATE_STOPPED,VAR_0
+V4L2_BUF_FLAG_LAST,VAR_1
+V4L2_EVENT_EOS,VAR_2
+allegro_channel_is_at_eos,FUNC_0
+allegro_set_state,FUNC_1
+v4l2_event_queue_fh,FUNC_2
+v4l2_m2m_buf_done,FUNC_3
+allegro_channel_buf_done,FUNC_4
+channel,VAR_3
+buf,VAR_4
+state,VAR_5
+eos_event,VAR_6

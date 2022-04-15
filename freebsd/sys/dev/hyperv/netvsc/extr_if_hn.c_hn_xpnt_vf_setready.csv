@@ -1,0 +1,15 @@
+ETHERMTU,VAR_0
+HN_LOCK_ASSERT,FUNC_0
+SIOCSIFMTU,VAR_1
+hn_mtu_change_fixup,FUNC_1
+hn_xpnt_vf_iocsetcaps,FUNC_2
+if_printf,FUNC_3
+memset,FUNC_4
+strlcpy,FUNC_5
+stub1,FUNC_6
+hn_xpnt_vf_setready,FUNC_7
+sc,VAR_2
+ifp,VAR_3
+vf_ifp,VAR_4
+ifr,VAR_5
+error,VAR_6

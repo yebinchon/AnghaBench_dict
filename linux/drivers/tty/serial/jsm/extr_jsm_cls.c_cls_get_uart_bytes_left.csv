@@ -1,0 +1,8 @@
+CH_TX_FIFO_EMPTY,VAR_0
+CH_TX_FIFO_LWM,VAR_1
+UART_LSR_TEMT,VAR_2
+readb,FUNC_0
+cls_get_uart_bytes_left,FUNC_1
+ch,VAR_3
+left,VAR_4
+lsr,VAR_5

@@ -1,0 +1,12 @@
+NR_PKEYS,VAR_0
+PAGE_SIZE,VAR_1
+PROT_READ,VAR_2
+dprintf1,FUNC_0
+pkey_assert,FUNC_1
+sys_mprotect_pkey,FUNC_2
+sys_pkey_free,FUNC_3
+test_pkey_syscalls_on_non_allocated_pkey,FUNC_4
+ptr,VAR_3
+pkey,VAR_4
+err,VAR_5
+i,VAR_6

@@ -1,0 +1,15 @@
+CFISCSI_SESSION_WARN,FUNC_0
+ISCSI_BHS_OPCODE_IMMEDIATE,VAR_0
+PDU_SESSION,FUNC_1
+cfiscsi_pdu_handle_data_out,FUNC_2
+cfiscsi_pdu_handle_logout_request,FUNC_3
+cfiscsi_pdu_handle_nop_out,FUNC_4
+cfiscsi_pdu_handle_scsi_command,FUNC_5
+cfiscsi_pdu_handle_task_request,FUNC_6
+cfiscsi_pdu_update_cmdsn,FUNC_7
+cfiscsi_session_terminate,FUNC_8
+icl_pdu_free,FUNC_9
+cfiscsi_pdu_handle,FUNC_10
+request,VAR_1
+cs,VAR_2
+ignore,VAR_3

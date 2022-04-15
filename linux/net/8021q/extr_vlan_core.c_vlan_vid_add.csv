@@ -1,0 +1,16 @@
+ASSERT_RTNL,FUNC_0
+ENOMEM,VAR_0
+__vlan_vid_add,FUNC_1
+kfree,FUNC_2
+rcu_assign_pointer,FUNC_3
+rtnl_dereference,FUNC_4
+vlan_info_alloc,FUNC_5
+vlan_vid_info_get,FUNC_6
+vlan_vid_add,FUNC_7
+dev,VAR_1
+proto,VAR_2
+vid,VAR_3
+vlan_info,VAR_4
+vid_info,VAR_5
+vlan_info_created,VAR_6
+err,VAR_7

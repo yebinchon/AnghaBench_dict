@@ -1,0 +1,10 @@
+bus_to_hcd,FUNC_0
+kfree,FUNC_1
+to_usb_device,FUNC_2
+usb_destroy_configuration,FUNC_3
+usb_put_hcd,FUNC_4
+usb_release_bos_descriptor,FUNC_5
+usb_release_dev,FUNC_6
+dev,VAR_0
+udev,VAR_1
+hcd,VAR_2

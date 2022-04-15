@@ -1,0 +1,16 @@
+BLCKSZ,VAR_0
+PGLZ_strategy_default,VAR_1
+SizeOfXLogRecordBlockCompressHeader,VAR_2
+memcpy,FUNC_0
+pglz_compress,FUNC_1
+XLogCompressBackupBlock,FUNC_2
+page,VAR_3
+hole_offset,VAR_4
+hole_length,VAR_5
+dest,VAR_6
+dlen,VAR_7
+orig_len,VAR_8
+len,VAR_9
+extra_bytes,VAR_10
+source,VAR_11
+tmp,VAR_12

@@ -1,0 +1,10 @@
+MPI2_REQ_DESCRIPT_FLAGS_HIGH_PRIORITY,VAR_0
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+writel,FUNC_2
+_base_put_smid_hi_priority_atomic,FUNC_3
+ioc,VAR_1
+smid,VAR_2
+msix_task,VAR_3
+descriptor,VAR_4
+request,VAR_5

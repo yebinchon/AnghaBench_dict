@@ -1,0 +1,10 @@
+FLAG_MASK,VAR_0
+TIF_FORCED_TF,VAR_1
+X86_EFLAGS_TF,VAR_2
+clear_tsk_thread_flag,FUNC_0
+task_pt_regs,FUNC_1
+test_tsk_thread_flag,FUNC_2
+set_flags,FUNC_3
+task,VAR_3
+value,VAR_4
+regs,VAR_5

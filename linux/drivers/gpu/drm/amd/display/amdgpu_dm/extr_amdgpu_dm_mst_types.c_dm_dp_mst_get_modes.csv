@@ -1,0 +1,17 @@
+EDID_LENGTH,VAR_0
+SIGNAL_TYPE_DISPLAY_PORT_MST,VAR_1
+SIGNAL_TYPE_VIRTUAL,VAR_2
+amdgpu_dm_update_freesync_caps,FUNC_0
+dc_link_add_remote_sink,FUNC_1
+dc_sink_release,FUNC_2
+drm_add_edid_modes,FUNC_3
+drm_connector_update_edid_property,FUNC_4
+drm_dp_mst_get_edid,FUNC_5
+to_amdgpu_dm_connector,FUNC_6
+dm_dp_mst_get_modes,FUNC_7
+connector,VAR_3
+aconnector,VAR_4
+ret,VAR_5
+edid,VAR_6
+dc_sink,VAR_7
+init_params,VAR_8

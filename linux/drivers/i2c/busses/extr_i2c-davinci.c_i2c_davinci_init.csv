@@ -1,0 +1,15 @@
+DAVINCI_I2C_CLKH_REG,VAR_0
+DAVINCI_I2C_CLKL_REG,VAR_1
+DAVINCI_I2C_IMR_REG,VAR_2
+DAVINCI_I2C_OAR_REG,VAR_3
+DAVINCI_I2C_OWN_ADDRESS,VAR_4
+DAVINCI_I2C_PSC_REG,VAR_5
+I2C_DAVINCI_INTR_ALL,VAR_6
+davinci_i2c_read_reg,FUNC_0
+davinci_i2c_reset_ctrl,FUNC_1
+davinci_i2c_write_reg,FUNC_2
+dev_dbg,FUNC_3
+i2c_davinci_calc_clk_dividers,FUNC_4
+i2c_davinci_init,FUNC_5
+dev,VAR_7
+pdata,VAR_8

@@ -1,0 +1,14 @@
+PRIBIO,VAR_0
+TRUE,VAR_1
+ahci_ch_deinit,FUNC_0
+callout_stop,FUNC_1
+device_get_softc,FUNC_2
+hz,VAR_2
+msleep,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+xpt_freeze_simq,FUNC_6
+xpt_release_simq,FUNC_7
+ahci_ch_suspend,FUNC_8
+dev,VAR_3
+ch,VAR_4

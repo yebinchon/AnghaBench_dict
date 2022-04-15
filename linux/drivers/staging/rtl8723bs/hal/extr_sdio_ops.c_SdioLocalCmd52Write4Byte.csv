@@ -1,0 +1,10 @@
+HalSdioGetCmdAddr8723BSdio,FUNC_0
+SDIO_LOCAL_DEVICE_ID,VAR_0
+cpu_to_le32,FUNC_1
+sd_cmd52_write,FUNC_2
+SdioLocalCmd52Write4Byte,FUNC_3
+adapter,VAR_1
+addr,VAR_2
+v,VAR_3
+intfhdl,VAR_4
+le_tmp,VAR_5

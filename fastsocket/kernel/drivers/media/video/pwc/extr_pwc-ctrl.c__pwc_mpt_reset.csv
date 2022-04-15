@@ -1,0 +1,7 @@
+PT_RESET_CONTROL_FORMATTER,VAR_0
+SET_MPT_CTL,VAR_1
+send_control_msg,FUNC_0
+_pwc_mpt_reset,FUNC_1
+pdev,VAR_2
+flags,VAR_3
+buf,VAR_4

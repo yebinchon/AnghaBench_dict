@@ -1,0 +1,15 @@
+BLINK_ON,VAR_0
+FALSE,VAR_1
+TRUE,VAR_2
+XtAppAddTimeOut,FUNC_0
+XtRemoveTimeOut,FUNC_1
+app_context,VAR_3
+blink_offtime,VAR_4
+blink_ontime,VAR_5
+blink_state,VAR_6
+blink_timer,VAR_7
+blink_waittime,VAR_8
+gui,VAR_9
+gui_update_cursor,FUNC_2
+gui_x11_blink_cb,VAR_10
+gui_mch_start_blink,FUNC_3

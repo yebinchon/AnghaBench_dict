@@ -1,0 +1,15 @@
+VTCON_FLAG_DETACHED,VAR_0
+VTCON_FLAG_MULTIPORT,VAR_1
+VTCON_LOCK,FUNC_0
+VTCON_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+device_is_attached,FUNC_3
+mtx_destroy,FUNC_4
+taskqueue_drain,FUNC_5
+taskqueue_thread,VAR_2
+vtcon_ctrl_deinit,FUNC_6
+vtcon_destroy_ports,FUNC_7
+vtcon_stop,FUNC_8
+vtcon_detach,FUNC_9
+dev,VAR_3
+sc,VAR_4

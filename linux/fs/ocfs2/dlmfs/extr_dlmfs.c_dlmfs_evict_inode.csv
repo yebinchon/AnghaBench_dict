@@ -1,0 +1,12 @@
+DLMFS_I,FUNC_0
+S_ISREG,FUNC_1
+clear_inode,FUNC_2
+iput,FUNC_3
+mlog,FUNC_4
+mlog_errno,FUNC_5
+user_dlm_destroy_lock,FUNC_6
+user_dlm_unregister,FUNC_7
+dlmfs_evict_inode,FUNC_8
+inode,VAR_0
+status,VAR_1
+ip,VAR_2

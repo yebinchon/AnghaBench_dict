@@ -1,0 +1,17 @@
+NETIF_F_HW_VLAN_CTAG_FILTER,VAR_0
+NETIF_F_HW_VLAN_CTAG_RX,VAR_1
+NETIF_F_HW_VLAN_CTAG_TX,VAR_2
+NETIF_F_RXHASH,VAR_3
+dev_err,FUNC_0
+ice_cfg_vlan_pruning,FUNC_1
+ice_is_safe_mode,FUNC_2
+ice_vsi_manage_rss_lut,FUNC_3
+ice_vsi_manage_vlan_insertion,FUNC_4
+ice_vsi_manage_vlan_stripping,FUNC_5
+netdev_priv,FUNC_6
+ice_set_features,FUNC_7
+netdev,VAR_4
+features,VAR_5
+np,VAR_6
+vsi,VAR_7
+ret,VAR_8

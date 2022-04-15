@@ -1,0 +1,17 @@
+ISP1704_PWR_CTRL,VAR_0
+ISP1704_PWR_CTRL_DPVSRC_EN,VAR_1
+ISP1704_PWR_CTRL_SWCTRL,VAR_2
+ISP1704_PWR_CTRL_VDAT_DET,VAR_3
+ULPI_SET,FUNC_0
+isp1704_charger_verify,FUNC_1
+isp1704_read,FUNC_2
+isp1704_write,FUNC_3
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_4
+time_after,FUNC_5
+usleep_range,FUNC_6
+isp1704_charger_detect,FUNC_7
+isp,VAR_5
+timeout,VAR_6
+pwr_ctrl,VAR_7
+ret,VAR_8

@@ -1,0 +1,14 @@
+AF_INET6,VAR_0
+DHCP6_PORT_SERVER,VAR_1
+assert,FUNC_0
+errno,VAR_2
+htobe16,FUNC_1
+memcpy,FUNC_2
+sendto,FUNC_3
+dhcp6_network_send_udp_socket,FUNC_4
+s,VAR_3
+server_address,VAR_4
+packet,VAR_5
+len,VAR_6
+dest,VAR_7
+r,VAR_8

@@ -1,0 +1,17 @@
+TEST_ptr,FUNC_0
+TEST_true,FUNC_1
+X509_FILETYPE_PEM,VAR_0
+X509_LOOKUP_file,FUNC_2
+X509_STORE_CTX_free,FUNC_3
+X509_STORE_add_lookup,FUNC_4
+X509_STORE_free,FUNC_5
+X509_STORE_new,FUNC_6
+X509_load_cert_file,FUNC_7
+test_get_argument,FUNC_8
+test_509_dup_cert,FUNC_9
+n,VAR_1
+ret,VAR_2
+sctx,VAR_3
+store,VAR_4
+lookup,VAR_5
+cert_f,VAR_6

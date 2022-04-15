@@ -1,0 +1,14 @@
+CPUID_STDEXT_CLFLUSHOPT,VAR_0
+CPU_VENDOR_INTEL,VAR_1
+atomic_thread_fence_seq_cst,FUNC_0
+clflush,FUNC_1
+clflushopt,FUNC_2
+cpu_clflush_line_size,VAR_2
+cpu_stdext_feature,VAR_3
+cpu_vendor_id,VAR_4
+lapic_paddr,VAR_5
+mfence,FUNC_3
+pmap_kextract,FUNC_4
+pmap_force_invalidate_cache_range,FUNC_5
+sva,VAR_6
+eva,VAR_7

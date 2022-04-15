@@ -1,0 +1,12 @@
+NSIG,VAR_0
+ZLOG_SYSERROR,VAR_1
+block_sigset,VAR_2
+fpm_signal_names,VAR_3
+sigaddset,FUNC_0
+sigemptyset,FUNC_1
+zlog,FUNC_2
+fpm_signals_init_mask,FUNC_3
+signum_array,VAR_4
+size,VAR_5
+i,VAR_6
+sig_i,VAR_7

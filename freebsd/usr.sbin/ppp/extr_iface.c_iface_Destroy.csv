@@ -1,0 +1,16 @@
+ID0ioctl,FUNC_0
+ID0socket,FUNC_1
+LogERROR,VAR_0
+LogWARN,VAR_1
+PF_INET,VAR_2
+SIOCIFDESTROY,VAR_3
+SOCK_DGRAM,VAR_4
+errno,VAR_5
+iface_Free,FUNC_2
+log_Printf,FUNC_3
+strerror,FUNC_4
+strlcpy,FUNC_5
+iface_Destroy,FUNC_6
+iface,VAR_6
+ifr,VAR_7
+s,VAR_8

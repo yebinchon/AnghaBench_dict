@@ -1,0 +1,14 @@
+PAGE_EXECUTE_READWRITE,VAR_0
+PAGE_READWRITE,VAR_1
+VirtualProtect,FUNC_0
+VirtualQuery,FUNC_1
+__report_error,FUNC_2
+mark_section_writable,FUNC_3
+memcpy,FUNC_4
+__write_memory,FUNC_5
+addr,VAR_2
+src,VAR_3
+len,VAR_4
+b,VAR_5
+oldprot,VAR_6
+call_unprotect,VAR_7

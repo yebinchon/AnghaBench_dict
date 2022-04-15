@@ -1,0 +1,13 @@
+PCIR_MSIX_CTRL,VAR_0
+device_get_ivars,FUNC_0
+pci_mask_msix,FUNC_1
+pci_unmask_msix,FUNC_2
+pci_write_config,FUNC_3
+pci_write_msix_entry,FUNC_4
+pci_resume_msix,FUNC_5
+dev,VAR_1
+dinfo,VAR_2
+msix,VAR_3
+mte,VAR_4
+mv,VAR_5
+i,VAR_6

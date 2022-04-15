@@ -1,0 +1,16 @@
+H2O_HPACK_ENCODE_INT_MAX_LENGTH,VAR_0
+SIZE_MAX,VAR_1
+flatten_int,FUNC_0
+h2o_hpack_encode_huffman,FUNC_1
+h2o_hpack_encode_int,FUNC_2
+memcpy,FUNC_3
+memmove,FUNC_4
+flatten_string,FUNC_5
+buf,VAR_2
+src,VAR_3
+len,VAR_4
+prefix_bits,VAR_5
+dont_compress,VAR_6
+hufflen,VAR_7
+tmpbuf,VAR_8
+p,VAR_9

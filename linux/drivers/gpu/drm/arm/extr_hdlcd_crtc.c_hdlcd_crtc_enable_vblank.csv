@@ -1,0 +1,9 @@
+HDLCD_INTERRUPT_VSYNC,VAR_0
+HDLCD_REG_INT_MASK,VAR_1
+crtc_to_hdlcd_priv,FUNC_0
+hdlcd_read,FUNC_1
+hdlcd_write,FUNC_2
+hdlcd_crtc_enable_vblank,FUNC_3
+crtc,VAR_2
+hdlcd,VAR_3
+mask,VAR_4

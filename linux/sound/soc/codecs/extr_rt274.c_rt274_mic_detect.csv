@@ -1,0 +1,11 @@
+RT274_EAPD_GPIO_IRQ_CTRL,VAR_0
+RT274_IRQ_DIS,VAR_1
+RT274_IRQ_EN,VAR_2
+regmap_update_bits,FUNC_0
+rt274_irq,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+rt274_mic_detect,FUNC_3
+component,VAR_3
+jack,VAR_4
+data,VAR_5
+rt274,VAR_6

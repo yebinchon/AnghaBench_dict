@@ -1,0 +1,13 @@
+DEFINE_WAIT_BIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+__XFS_IFLOCK_BIT,VAR_1
+bit_waitqueue,FUNC_1
+finish_wait,FUNC_2
+io_schedule,FUNC_3
+prepare_to_wait_exclusive,FUNC_4
+wait,VAR_2
+xfs_iflock_nowait,FUNC_5
+xfs_isiflocked,FUNC_6
+__xfs_iflock,FUNC_7
+ip,VAR_3
+wq,VAR_4

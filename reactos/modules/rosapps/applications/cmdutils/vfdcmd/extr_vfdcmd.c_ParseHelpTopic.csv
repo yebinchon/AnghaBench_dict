@@ -1,0 +1,14 @@
+CMD_MATCH_MULTI,VAR_0
+CMD_MATCH_NONE,VAR_1
+HelpMsg,VAR_2
+MSG_AMBIGUOUS_COMMAND,VAR_3
+MSG_UNKNOWN_COMMAND,VAR_4
+PrintMessage,FUNC_0
+_strnicmp,FUNC_1
+printf,FUNC_2
+strlen,FUNC_3
+ParseHelpTopic,FUNC_4
+topic,VAR_5
+len,VAR_6
+idx,VAR_7
+match,VAR_8

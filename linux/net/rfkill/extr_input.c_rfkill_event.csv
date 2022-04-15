@@ -1,0 +1,15 @@
+EV_KEY,VAR_0
+EV_SW,VAR_1
+RFKILL_TYPE_ALL,VAR_2
+RFKILL_TYPE_BLUETOOTH,VAR_3
+RFKILL_TYPE_UWB,VAR_4
+RFKILL_TYPE_WIMAX,VAR_5
+RFKILL_TYPE_WLAN,VAR_6
+SW_RFKILL_ALL,VAR_7
+rfkill_schedule_evsw_rfkillall,FUNC_0
+rfkill_schedule_toggle,FUNC_1
+rfkill_event,FUNC_2
+handle,VAR_8
+type,VAR_9
+code,VAR_10
+data,VAR_11

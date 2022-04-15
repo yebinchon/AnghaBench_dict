@@ -1,0 +1,16 @@
+VMCI_CONTEXT_RESOURCE_ID,VAR_0
+VMCI_EVENT_HANDLER,VAR_1
+VMCI_EVENT_QP_PEER_ATTACH,VAR_2
+VMCI_EVENT_QP_PEER_DETACH,VAR_3
+VMCI_HYPERVISOR_CONTEXT_ID,VAR_4
+VMCI_MAKE_HANDLE,FUNC_0
+vmci_event_dispatch,FUNC_1
+vmci_event_msg_payload,FUNC_2
+vmci_get_context_id,FUNC_3
+queue_pair_notify_peer_local,FUNC_4
+attach,VAR_5
+handle,VAR_6
+e_msg,VAR_7
+e_payload,VAR_8
+context_id,VAR_9
+buf,VAR_10

@@ -1,0 +1,15 @@
+USB_STATE_NOTATTACHED,VAR_0
+US_FLIDX_DISCONNECTING,VAR_1
+US_FLIDX_SCAN_PENDING,VAR_2
+cancel_delayed_work_sync,FUNC_0
+scsi_lock,FUNC_1
+scsi_remove_host,FUNC_2
+scsi_unlock,FUNC_3
+set_bit,FUNC_4
+test_bit,FUNC_5
+us_to_host,FUNC_6
+usb_autopm_put_interface_no_suspend,FUNC_7
+wake_up,FUNC_8
+quiesce_and_remove_host,FUNC_9
+us,VAR_3
+host,VAR_4

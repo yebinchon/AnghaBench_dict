@@ -1,0 +1,11 @@
+PCIM_MSICTRL_MSI_ENABLE,VAR_0
+PCIR_MSI_CTRL,VAR_1
+device_get_ivars,FUNC_0
+pci_write_config,FUNC_1
+xen_pci_enable_msi_method,FUNC_2
+dev,VAR_2
+child,VAR_3
+address,VAR_4
+data,VAR_5
+dinfo,VAR_6
+msi,VAR_7

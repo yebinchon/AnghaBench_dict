@@ -1,0 +1,12 @@
+AC1_SIGA_INPUT_NEEDED,VAR_0
+AC1_SIGA_OUTPUT_NEEDED,VAR_1
+AC1_SIGA_SYNC_NEEDED,VAR_2
+DBF_ERROR,FUNC_0
+DBF_EVENT,FUNC_1
+check_and_setup_qebsm,FUNC_2
+process_ac_flags,FUNC_3
+qdio_setup_get_ssqd,FUNC_4
+qdio_setup_ssqd_info,FUNC_5
+irq_ptr,VAR_3
+qdioac,VAR_4
+rc,VAR_5

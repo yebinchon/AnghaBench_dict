@@ -1,0 +1,15 @@
+BPF_SK_STORAGE_GET_F_CREATE,VAR_0
+BPF_SOCK_OPS_RTT_CB_FLAG,VAR_1
+INTERVAL,VAR_2
+bpf_ktime_get_ns,FUNC_0
+bpf_next_dump,VAR_3
+bpf_printk,FUNC_1
+bpf_sk_storage_get,FUNC_2
+bpf_sock_ops_cb_flags_set,FUNC_3
+bpf_tcp_sock,FUNC_4
+_sockops,FUNC_5
+ctx,VAR_4
+tcp_sk,VAR_5
+sk,VAR_6
+next_dump,VAR_7
+now,VAR_8

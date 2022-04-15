@@ -1,0 +1,17 @@
+MV64X60_SDRAM_ERR_ADDR,VAR_0
+MV64X60_SDRAM_ERR_ECC_CALC,VAR_1
+MV64X60_SDRAM_ERR_ECC_RCVD,VAR_2
+PAGE_MASK,VAR_3
+PAGE_SHIFT,VAR_4
+edac_mc_handle_ce,FUNC_0
+edac_mc_handle_ue,FUNC_1
+in_le32,FUNC_2
+out_le32,FUNC_3
+mv64x60_mc_check,FUNC_4
+mci,VAR_5
+pdata,VAR_6
+reg,VAR_7
+err_addr,VAR_8
+sdram_ecc,VAR_9
+comp_ecc,VAR_10
+syndrome,VAR_11

@@ -1,0 +1,14 @@
+KASSERT,FUNC_0
+MASK_XENCONS_IDX,FUNC_1
+mb,FUNC_2
+wmb,FUNC_3
+xencons_lock_assert,FUNC_4
+xencons_notify_ring,FUNC_5
+xencons_write_ring,FUNC_6
+cons,VAR_0
+buffer,VAR_1
+size,VAR_2
+intf,VAR_3
+wcons,VAR_4
+wprod,VAR_5
+sent,VAR_6

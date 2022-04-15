@@ -1,0 +1,13 @@
+ORC_MAXQUEUE,VAR_0
+ORC_SCBBASE0,VAR_1
+ORC_SCBBASE1,VAR_2
+ORC_SCBSIZE,VAR_3
+cpu_to_le32,FUNC_0
+outb,FUNC_1
+outl,FUNC_2
+setup_SCBs,FUNC_3
+host,VAR_4
+scb,VAR_5
+i,VAR_6
+escb,VAR_7
+escb_phys,VAR_8

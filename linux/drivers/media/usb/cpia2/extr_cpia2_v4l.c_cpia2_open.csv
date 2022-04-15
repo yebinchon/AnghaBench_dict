@@ -1,0 +1,16 @@
+EIO,VAR_0
+ENOMEM,VAR_1
+ERESTARTSYS,VAR_2
+cpia2_allocate_buffers,FUNC_0
+cpia2_dbg_dump_registers,FUNC_1
+cpia2_reset_camera,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+v4l2_fh_is_singular_file,FUNC_5
+v4l2_fh_open,FUNC_6
+v4l2_fh_release,FUNC_7
+video_drvdata,FUNC_8
+cpia2_open,FUNC_9
+file,VAR_3
+cam,VAR_4
+retval,VAR_5

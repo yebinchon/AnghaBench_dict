@@ -1,0 +1,13 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+finish_wait,FUNC_1
+prepare_to_wait,FUNC_2
+schedule,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+wait,VAR_1
+wake_up_process,FUNC_6
+xfs_ail_max,FUNC_7
+xfs_ail_push_all_sync,FUNC_8
+ailp,VAR_2
+lip,VAR_3

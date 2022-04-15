@@ -1,0 +1,15 @@
+AF_INET6,VAR_0
+FALSE,VAR_1
+IFSCOPE_NONE,VAR_2
+SIN,FUNC_0
+SIN6,FUNC_1
+ifa_ifwithaddr_scoped_locked,FUNC_2
+ifaddr_release,FUNC_3
+sa_copy,FUNC_4
+necp_ifnet_matches_local_address,FUNC_5
+ifp,VAR_3
+sa,VAR_4
+ifa,VAR_5
+matched_local_address,VAR_6
+address,VAR_7
+ifscope,VAR_8

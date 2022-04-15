@@ -1,0 +1,12 @@
+ARCH_RNG_BUF_SIZE,VAR_0
+arch_rng_buf,VAR_1
+arch_rng_buf_idx,VAR_2
+arch_rng_lock,VAR_3
+atomic64_add,FUNC_0
+memcpy,FUNC_1
+s390_arch_random_counter,VAR_4
+spin_trylock,FUNC_2
+spin_unlock,FUNC_3
+s390_arch_random_generate,FUNC_4
+buf,VAR_5
+nbytes,VAR_6

@@ -1,0 +1,13 @@
+IRQ_GPIO_BITSY_ACTION_BUTTON,VAR_0
+IRQ_GPIO_BITSY_NPOWER_BUTTON,VAR_1
+free_irq,FUNC_0
+input_get_device,FUNC_1
+input_put_device,FUNC_2
+input_unregister_device,FUNC_3
+kfree,FUNC_4
+serio_close,FUNC_5
+serio_get_drvdata,FUNC_6
+serio_set_drvdata,FUNC_7
+h3600ts_disconnect,FUNC_8
+serio,VAR_2
+ts,VAR_3

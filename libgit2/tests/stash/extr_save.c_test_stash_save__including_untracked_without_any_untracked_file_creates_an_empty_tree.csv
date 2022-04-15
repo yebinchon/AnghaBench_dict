@@ -1,0 +1,17 @@
+EMPTY_TREE,VAR_0
+GIT_ENOTFOUND,VAR_1
+GIT_OBJECT_TREE,VAR_2
+GIT_STASH_INCLUDE_UNTRACKED,VAR_3
+GIT_STATUS_IGNORED,VAR_4
+GIT_STATUS_INDEX_MODIFIED,VAR_5
+GIT_STATUS_WT_MODIFIED,VAR_6
+assert_object_oid,FUNC_0
+assert_status,FUNC_1
+cl_git_pass,FUNC_2
+cl_must_pass,FUNC_3
+git_stash_save,FUNC_4
+p_unlink,FUNC_5
+repo,VAR_7
+signature,VAR_8
+stash_tip_oid,VAR_9
+test_stash_save__including_untracked_without_any_untracked_file_creates_an_empty_tree,FUNC_6

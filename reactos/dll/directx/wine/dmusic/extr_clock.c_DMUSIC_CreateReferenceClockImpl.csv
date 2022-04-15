@@ -1,0 +1,16 @@
+DMUSIC_LockModule,FUNC_0
+E_OUTOFMEMORY,VAR_0
+GetProcessHeap,FUNC_1
+HEAP_ZERO_MEMORY,VAR_1
+HeapAlloc,FUNC_2
+IReferenceClockImpl_QueryInterface,FUNC_3
+IReferenceClock_Release,FUNC_4
+ReferenceClock_Vtbl,VAR_2
+TRACE,FUNC_5
+debugstr_guid,FUNC_6
+DMUSIC_CreateReferenceClockImpl,FUNC_7
+riid,VAR_3
+ret_iface,VAR_4
+unkouter,VAR_5
+clock,VAR_6
+hr,VAR_7

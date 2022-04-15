@@ -1,0 +1,13 @@
+I40E_PFINT_ICR0_ENA,VAR_0
+I40E_PFINT_ICR0_ENA_MAL_DETECT_MASK,VAR_1
+IXL_PF_STATE_MDD_PENDING,VAR_2
+atomic_clear_32,FUNC_0
+ixl_flush,FUNC_1
+ixl_handle_rx_mdd_event,FUNC_2
+ixl_handle_tx_mdd_event,FUNC_3
+rd32,FUNC_4
+wr32,FUNC_5
+ixl_handle_mdd_event,FUNC_6
+pf,VAR_3
+hw,VAR_4
+reg,VAR_5

@@ -1,0 +1,14 @@
+AddRoundKey,FUNC_0
+MixColumns,FUNC_1
+ShiftRows,FUNC_2
+SubBytes,FUNC_3
+xor_128,FUNC_4
+AESv128,FUNC_5
+key,VAR_0
+data,VAR_1
+ciphertext,VAR_2
+i,VAR_3
+round,VAR_4
+TmpdataA,VAR_5
+TmpdataB,VAR_6
+abyRoundKey,VAR_7

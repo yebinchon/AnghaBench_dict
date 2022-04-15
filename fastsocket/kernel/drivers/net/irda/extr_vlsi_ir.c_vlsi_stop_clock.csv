@@ -1,0 +1,9 @@
+CLKCTL_CLKSTP,VAR_0
+CLKCTL_EXTCLK,VAR_1
+CLKCTL_PD_INV,VAR_2
+VLSI_PCI_CLKCTL,VAR_3
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+vlsi_stop_clock,FUNC_2
+pdev,VAR_4
+clkctl,VAR_5

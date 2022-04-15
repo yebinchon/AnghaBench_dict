@@ -1,0 +1,9 @@
+MIPI_SEQ_ASSERT_RESET,VAR_0
+MIPI_SEQ_DISPLAY_OFF,VAR_1
+MIPI_SEQ_POWER_OFF,VAR_2
+enc_to_intel_dsi,FUNC_0
+intel_dsi_vbt_exec_sequence,FUNC_1
+wait_for_cmds_dispatched_to_panel,FUNC_2
+gen11_dsi_powerdown_panel,FUNC_3
+encoder,VAR_3
+intel_dsi,VAR_4

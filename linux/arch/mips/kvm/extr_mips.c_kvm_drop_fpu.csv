@@ -1,0 +1,15 @@
+KVM_MIPS_AUX_FPU,VAR_0
+KVM_MIPS_AUX_MSA,VAR_1
+KVM_TRACE_AUX_DISCARD,VAR_2
+KVM_TRACE_AUX_FPU,VAR_3
+KVM_TRACE_AUX_MSA,VAR_4
+ST0_CU1,VAR_5
+ST0_FR,VAR_6
+clear_c0_status,FUNC_0
+cpu_has_msa,VAR_7
+disable_msa,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+trace_kvm_aux,FUNC_4
+kvm_drop_fpu,FUNC_5
+vcpu,VAR_8

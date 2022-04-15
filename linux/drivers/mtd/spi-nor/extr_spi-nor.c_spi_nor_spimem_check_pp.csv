@@ -1,0 +1,13 @@
+SPI_MEM_OP,FUNC_0
+SPI_MEM_OP_ADDR,FUNC_1
+SPI_MEM_OP_CMD,FUNC_2
+SPI_MEM_OP_DATA_OUT,FUNC_3
+SPI_MEM_OP_NO_DUMMY,VAR_0
+spi_nor_get_protocol_addr_nbits,FUNC_4
+spi_nor_get_protocol_data_nbits,FUNC_5
+spi_nor_get_protocol_inst_nbits,FUNC_6
+spi_nor_spimem_check_op,FUNC_7
+spi_nor_spimem_check_pp,FUNC_8
+nor,VAR_1
+pp,VAR_2
+op,VAR_3

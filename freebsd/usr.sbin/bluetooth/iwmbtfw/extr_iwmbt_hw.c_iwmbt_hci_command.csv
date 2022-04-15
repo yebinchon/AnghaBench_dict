@@ -1,0 +1,16 @@
+IWMBT_HCI_CMD_SIZE,FUNC_0
+IWMBT_INTERRUPT_ENDPOINT_ADDR,VAR_0
+LIBUSB_RECIPIENT_DEVICE,VAR_1
+LIBUSB_REQUEST_TYPE_CLASS,VAR_2
+iwmbt_err,FUNC_1
+libusb_control_transfer,FUNC_2
+libusb_interrupt_transfer,FUNC_3
+libusb_strerror,FUNC_4
+iwmbt_hci_command,FUNC_5
+hdl,VAR_3
+cmd,VAR_4
+event,VAR_5
+size,VAR_6
+transferred,VAR_7
+timeout,VAR_8
+ret,VAR_9

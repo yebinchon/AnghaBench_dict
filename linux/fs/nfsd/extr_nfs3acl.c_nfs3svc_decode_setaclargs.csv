@@ -1,0 +1,14 @@
+NFS_ACL,VAR_0
+NFS_ACL_MASK,VAR_1
+NFS_DFACL,VAR_2
+nfs3svc_decode_fh,FUNC_0
+nfsacl_decode,FUNC_1
+ntohl,FUNC_2
+xdr_argsize_check,FUNC_3
+nfs3svc_decode_setaclargs,FUNC_4
+rqstp,VAR_3
+p,VAR_4
+args,VAR_5
+head,VAR_6
+base,VAR_7
+n,VAR_8

@@ -1,0 +1,14 @@
+RT2860_TX_SW_CFG1,VAR_0
+RT2860_TX_SW_CFG2,VAR_1
+RT5390_MAC_IF_CTRL,VAR_2
+RT5390_RX_LO1,VAR_3
+RT5390_RX_LO2,VAR_4
+run_bbp_read,FUNC_0
+run_bbp_write,FUNC_1
+run_rt3070_rf_read,FUNC_2
+run_rt3070_rf_write,FUNC_3
+run_write,FUNC_4
+run_rt5390_rf_setup,FUNC_5
+sc,VAR_5
+bbp,VAR_6
+rf,VAR_7

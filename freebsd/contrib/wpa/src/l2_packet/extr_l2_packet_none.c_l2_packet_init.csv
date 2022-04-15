@@ -1,0 +1,16 @@
+eloop_register_read_sock,FUNC_0
+l2_packet_receive,VAR_0
+os_strlcpy,FUNC_1
+os_zalloc,FUNC_2
+l2_packet_init,FUNC_3
+ifname,VAR_1
+own_addr,VAR_2
+protocol,VAR_3
+rx_callback,VAR_4
+ctx,VAR_5
+src_addr,VAR_6
+buf,VAR_7
+len,VAR_8
+rx_callback_ctx,VAR_9
+l2_hdr,VAR_10
+l2,VAR_11

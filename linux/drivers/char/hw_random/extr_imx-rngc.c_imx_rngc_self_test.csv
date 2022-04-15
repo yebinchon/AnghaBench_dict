@@ -1,0 +1,14 @@
+EIO,VAR_0
+ETIMEDOUT,VAR_1
+RNGC_CMD_SELF_TEST,VAR_2
+RNGC_COMMAND,VAR_3
+RNGC_TIMEOUT,VAR_4
+imx_rngc_irq_mask_clear,FUNC_0
+imx_rngc_irq_unmask,FUNC_1
+readl,FUNC_2
+wait_for_completion_timeout,FUNC_3
+writel,FUNC_4
+imx_rngc_self_test,FUNC_5
+rngc,VAR_5
+cmd,VAR_6
+ret,VAR_7

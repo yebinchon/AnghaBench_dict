@@ -1,0 +1,16 @@
+APIC_LVTT,VAR_0
+APIC_LVT_MASKED,VAR_1
+APIC_TMICT,VAR_2
+CLOCK_EVT_FEAT_DUMMY,VAR_3
+LOCAL_TIMER_VECTOR,VAR_4
+__setup_APIC_LVTT,FUNC_0
+apic_read,FUNC_1
+apic_write,FUNC_2
+calibration_result,VAR_5
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+lapic_timer_setup,FUNC_5
+mode,VAR_6
+evt,VAR_7
+flags,VAR_8
+v,VAR_9

@@ -1,0 +1,10 @@
+PCIM_CMD_MEMEN,VAR_0
+PCIM_CMD_PORTEN,VAR_1
+PCIR_COMMAND,VAR_2
+pci_read_config,FUNC_0
+pcib_get_io_decode,FUNC_1
+pcib_get_mem_decode,FUNC_2
+pcib_cfg_save,FUNC_3
+sc,VAR_3
+dev,VAR_4
+command,VAR_5

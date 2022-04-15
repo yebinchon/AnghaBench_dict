@@ -1,0 +1,14 @@
+CS4210_DAC_NID,VAR_0
+CS4210_VENDOR_NID,VAR_1
+ENOMEM,VAR_2
+cs421x_speaker_boost_ctl,VAR_3
+fix_volume_caps,FUNC_0
+parse_cs421x_digital,FUNC_1
+snd_hda_gen_add_kctl,FUNC_2
+snd_hda_gen_parse_auto_config,FUNC_3
+snd_hda_parse_pin_defcfg,FUNC_4
+cs421x_parse_auto_config,FUNC_5
+codec,VAR_4
+spec,VAR_5
+dac,VAR_6
+err,VAR_7

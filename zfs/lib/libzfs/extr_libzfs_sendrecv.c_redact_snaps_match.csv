@@ -1,0 +1,15 @@
+B_FALSE,VAR_0
+ZFS_PROP_REDACT_SNAPS,VAR_1
+ZFS_TYPE_BOOKMARK,VAR_2
+ZPROP_VALUE,VAR_3
+fnvlist_lookup_nvlist,FUNC_0
+fnvlist_lookup_uint64_array,FUNC_1
+zfs_prop_to_name,FUNC_2
+redact_snaps_match,FUNC_3
+zhp,VAR_4
+gtnd,VAR_5
+bmark_snaps,VAR_6
+bmark_num_snaps,VAR_7
+nvl,VAR_8
+i,VAR_9
+j,VAR_10

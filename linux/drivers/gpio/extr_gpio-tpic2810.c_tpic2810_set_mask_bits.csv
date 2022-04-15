@@ -1,0 +1,12 @@
+TPIC2810_WS_COMMAND,VAR_0
+gpiochip_get_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+tpic2810_set_mask_bits,FUNC_4
+chip,VAR_1
+mask,VAR_2
+bits,VAR_3
+gpio,VAR_4
+buffer,VAR_5
+err,VAR_6

@@ -1,0 +1,16 @@
+SYNC_SKCIPHER_REQUEST_ON_STACK,FUNC_0
+crypto_blkcipher_ctx,FUNC_1
+crypto_skcipher_decrypt,FUNC_2
+req,VAR_0
+skcipher_request_set_callback,FUNC_3
+skcipher_request_set_crypt,FUNC_4
+skcipher_request_set_sync_tfm,FUNC_5
+skcipher_request_zero,FUNC_6
+xts_fallback_decrypt,FUNC_7
+desc,VAR_1
+dst,VAR_2
+src,VAR_3
+nbytes,VAR_4
+tfm,VAR_5
+xts_ctx,VAR_6
+ret,VAR_7

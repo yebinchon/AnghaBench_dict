@@ -1,0 +1,16 @@
+EMULATED_TLBSX_EXITS,VAR_0
+EMULATE_DONE,VAR_1
+get_mmucr_stid,FUNC_0
+get_mmucr_sts,FUNC_1
+kvmppc_44x_tlb_index,FUNC_2
+kvmppc_set_exit_type,FUNC_3
+kvmppc_44x_emul_tlbsx,FUNC_4
+vcpu,VAR_2
+rt,VAR_3
+ra,VAR_4
+rb,VAR_5
+rc,VAR_6
+ea,VAR_7
+gtlb_index,VAR_8
+as,VAR_9
+pid,VAR_10

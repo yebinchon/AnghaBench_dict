@@ -1,0 +1,15 @@
+H2O_HTTP2_DEFAULT_OUTBUF_WRITE_TIMEOUT,VAR_0
+assert,FUNC_0
+close_connection_now,FUNC_1
+emit_writereq_of_openref,VAR_1
+h2o_buffer_init,FUNC_2
+h2o_http2_conn_get_buffer_window,FUNC_3
+h2o_http2_scheduler_run,FUNC_4
+h2o_http2_wbuf_buffer_prototype,VAR_2
+h2o_socket_write,FUNC_5
+h2o_timer_link,FUNC_6
+h2o_timer_unlink,FUNC_7
+on_write_complete,VAR_3
+do_emit_writereq,FUNC_8
+conn,VAR_4
+buf,VAR_5

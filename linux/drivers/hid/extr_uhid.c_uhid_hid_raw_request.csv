@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+EIO,VAR_1
+UHID_FEATURE_REPORT,VAR_2
+UHID_INPUT_REPORT,VAR_3
+UHID_OUTPUT_REPORT,VAR_4
+uhid_hid_get_report,FUNC_0
+uhid_hid_set_report,FUNC_1
+uhid_hid_raw_request,FUNC_2
+hid,VAR_5
+reportnum,VAR_6
+buf,VAR_7
+len,VAR_8
+rtype,VAR_9
+reqtype,VAR_10
+u_rtype,VAR_11

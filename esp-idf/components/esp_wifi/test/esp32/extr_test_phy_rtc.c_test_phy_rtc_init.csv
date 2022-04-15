@@ -1,0 +1,14 @@
+ESP_ERR_NVS_NEW_VERSION_FOUND,VAR_0
+ESP_ERR_NVS_NO_FREE_PAGES,VAR_1
+ESP_LOGI,FUNC_0
+PHY_BT_MODULE,VAR_2
+PHY_WIFI_MODULE,VAR_3
+TAG,VAR_4
+TEST_ASSERT,FUNC_1
+TEST_ESP_OK,FUNC_2
+esp_phy_load_cal_and_init,FUNC_3
+nvs_flash_deinit,FUNC_4
+nvs_flash_erase,FUNC_5
+nvs_flash_init,FUNC_6
+test_phy_rtc_init,FUNC_7
+ret,VAR_5

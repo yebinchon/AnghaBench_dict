@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+GPIO_MC9S08DZ60_LCD_ENABLE,VAR_1
+gpio_is_valid,FUNC_0
+gpio_request,FUNC_1
+gpio_set_value_cansleep,FUNC_2
+gpiochip_find,FUNC_3
+lcd_power_gpio,VAR_2
+mc9s08dz60_gpiochip_match,VAR_3
+pr_err,FUNC_4
+mx35_3ds_lcd_set_power,FUNC_5
+pd,VAR_4
+power,VAR_5
+chip,VAR_6

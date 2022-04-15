@@ -1,0 +1,10 @@
+i2c_smbus_read_byte_data,FUNC_0
+set_i2c_page,FUNC_1
+to_sr030pc30,FUNC_2
+v4l2_get_subdevdata,FUNC_3
+cam_i2c_read,FUNC_4
+sd,VAR_0
+reg_addr,VAR_1
+client,VAR_2
+info,VAR_3
+ret,VAR_4

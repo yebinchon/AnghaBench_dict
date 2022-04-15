@@ -1,0 +1,16 @@
+PAGE_SIZE,VAR_0
+PCI_DMA_BIDIRECTIONAL,VAR_1
+RADEON_IS_AGP,VAR_2
+TTM_PAGE_FLAG_SG,VAR_3
+pci_unmap_page,FUNC_0
+radeon_get_rdev,FUNC_1
+swiotlb_nr_tbl,FUNC_2
+ttm_agp_tt_unpopulate,FUNC_3
+ttm_dma_unpopulate,FUNC_4
+ttm_pool_unpopulate,FUNC_5
+radeon_ttm_tt_unpopulate,FUNC_6
+ttm,VAR_4
+rdev,VAR_5
+gtt,VAR_6
+i,VAR_7
+slave,VAR_8

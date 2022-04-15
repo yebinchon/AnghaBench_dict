@@ -1,0 +1,11 @@
+REF2USB_TX_EN,VAR_0
+REF2USB_TX_LPF_EN,VAR_1
+REF2USB_TX_OUT_EN,VAR_2
+readl,FUNC_0
+to_mtk_ref2usb_tx,FUNC_1
+udelay,FUNC_2
+writel,FUNC_3
+mtk_ref2usb_tx_prepare,FUNC_4
+hw,VAR_3
+tx,VAR_4
+val,VAR_5

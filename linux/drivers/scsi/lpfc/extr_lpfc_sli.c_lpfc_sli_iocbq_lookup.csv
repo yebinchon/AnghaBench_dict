@@ -1,0 +1,16 @@
+KERN_ERR,VAR_0
+LOG_SLI,VAR_1
+LPFC_IO_ON_TXCMPLQ,VAR_2
+LPFC_SLI_REV4,VAR_3
+list_del_init,FUNC_0
+lpfc_printf_log,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+lpfc_sli_iocbq_lookup,FUNC_4
+phba,VAR_4
+pring,VAR_5
+prspiocb,VAR_6
+cmd_iocb,VAR_7
+iotag,VAR_8
+temp_lock,VAR_9
+iflag,VAR_10

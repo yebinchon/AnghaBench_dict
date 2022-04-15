@@ -1,0 +1,17 @@
+CSUM_MANGLED_0,VAR_0
+IP_NAT_MANIP_SRC,VAR_1
+inet_proto_csum_replace2,FUNC_0
+inet_proto_csum_replace4,FUNC_1
+skb_make_writable,FUNC_2
+udplite_manip_pkt,FUNC_3
+skb,VAR_2
+iphdroff,VAR_3
+tuple,VAR_4
+maniptype,VAR_5
+iph,VAR_6
+hdr,VAR_7
+hdroff,VAR_8
+oldip,VAR_9
+newip,VAR_10
+portptr,VAR_11
+newport,VAR_12

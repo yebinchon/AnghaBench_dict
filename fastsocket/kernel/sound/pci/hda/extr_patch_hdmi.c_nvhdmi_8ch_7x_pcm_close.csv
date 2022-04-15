@@ -1,0 +1,13 @@
+AC_VERB_SET_CHANNEL_STREAMID,VAR_0
+AC_VERB_SET_STREAM_FORMAT,VAR_1
+nvhdmi_8ch_7x_set_info_frame_parameters,FUNC_0
+nvhdmi_con_nids_7x,VAR_2
+nvhdmi_master_con_nid_7x,VAR_3
+snd_hda_codec_write,FUNC_1
+snd_hda_multi_out_dig_close,FUNC_2
+nvhdmi_8ch_7x_pcm_close,FUNC_3
+hinfo,VAR_4
+codec,VAR_5
+substream,VAR_6
+spec,VAR_7
+i,VAR_8

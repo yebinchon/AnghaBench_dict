@@ -1,0 +1,12 @@
+WARN_ON,FUNC_0
+advance_periodic_target_expiration,FUNC_1
+apic_lvtt_period,FUNC_2
+apic_timer_expired,FUNC_3
+cancel_hv_timer,FUNC_4
+preempt_disable,FUNC_5
+preempt_enable,FUNC_6
+restart_apic_timer,FUNC_7
+swait_active,FUNC_8
+kvm_lapic_expired_hv_timer,FUNC_9
+vcpu,VAR_0
+apic,VAR_1

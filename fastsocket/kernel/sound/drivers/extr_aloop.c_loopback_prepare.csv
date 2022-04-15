@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+SNDRV_PCM_STREAM_CAPTURE,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+frames_to_bytes,FUNC_0
+get_setup,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+params_change,FUNC_4
+snd_pcm_format_set_silence,FUNC_5
+snd_pcm_format_width,FUNC_6
+loopback_prepare,FUNC_7
+substream,VAR_3
+runtime,VAR_4
+dpcm,VAR_5
+cable,VAR_6
+bps,VAR_7
+salign,VAR_8

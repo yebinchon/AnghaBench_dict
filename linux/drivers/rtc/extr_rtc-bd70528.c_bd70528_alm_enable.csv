@@ -1,0 +1,14 @@
+BD70528_MASK_ALM_EN,VAR_0
+BD70528_REG_RTC_ALM_MASK,VAR_1
+bd70528_set_wake,FUNC_0
+bd70528_wdt_lock,FUNC_1
+bd70528_wdt_unlock,FUNC_2
+dev_err,FUNC_3
+dev_get_drvdata,FUNC_4
+regmap_update_bits,FUNC_5
+bd70528_alm_enable,FUNC_6
+dev,VAR_2
+enabled,VAR_3
+ret,VAR_4
+enableval,VAR_5
+r,VAR_6

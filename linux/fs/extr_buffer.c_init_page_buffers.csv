@@ -1,0 +1,16 @@
+I_BDEV,FUNC_0
+PageUptodate,FUNC_1
+blkdev_max_block,FUNC_2
+buffer_mapped,FUNC_3
+page_buffers,FUNC_4
+set_buffer_mapped,FUNC_5
+set_buffer_uptodate,FUNC_6
+init_page_buffers,FUNC_7
+page,VAR_0
+bdev,VAR_1
+block,VAR_2
+size,VAR_3
+head,VAR_4
+bh,VAR_5
+uptodate,VAR_6
+end_block,VAR_7

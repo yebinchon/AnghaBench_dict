@@ -1,0 +1,8 @@
+ACB_F_MSG_START_BGRB,VAR_0
+ARCMSR_MESSAGE_STOP_BGRB,VAR_1
+WRITE_CHIP_REG32,FUNC_0
+arcmsr_hbb_wait_msgint_ready,FUNC_1
+printf,FUNC_2
+arcmsr_stop_hbb_bgrb,FUNC_3
+acb,VAR_2
+phbbmu,VAR_3

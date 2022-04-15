@@ -1,0 +1,15 @@
+Assert,FUNC_0
+ERROR,VAR_0
+destroy_chunk_insert_state,VAR_1
+elog,FUNC_1
+ts_chunk_insert_state_create,FUNC_2
+ts_chunk_insert_state_switch,FUNC_3
+ts_hypertable_get_or_create_chunk,FUNC_4
+ts_subspace_store_add,FUNC_5
+ts_subspace_store_get,FUNC_6
+ts_chunk_dispatch_get_chunk_insert_state,FUNC_7
+dispatch,VAR_2
+point,VAR_3
+cis_changed_out,VAR_4
+cis,VAR_5
+new_chunk,VAR_6

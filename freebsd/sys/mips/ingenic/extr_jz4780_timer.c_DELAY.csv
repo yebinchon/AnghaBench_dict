@@ -1,0 +1,12 @@
+TSENTER,FUNC_0
+TSEXIT,FUNC_1
+jz4780_get_timecount,FUNC_2
+jz4780_timer_sc,VAR_0
+mips_rd_cause,FUNC_3
+DELAY,FUNC_4
+usec,VAR_1
+counter,VAR_2
+delta,VAR_3
+now,VAR_4
+previous,VAR_5
+remaining,VAR_6

@@ -1,0 +1,17 @@
+dname_remove_label,FUNC_0
+dname_signame_label_count,FUNC_1
+log_assert,FUNC_2
+query_dname_tolower,FUNC_3
+sldns_buffer_current,FUNC_4
+sldns_buffer_write,FUNC_5
+insert_can_owner,FUNC_6
+buf,VAR_0
+k,VAR_1
+sig,VAR_2
+can_owner,VAR_3
+can_owner_len,VAR_4
+rrsig_labels,VAR_5
+fqdn_labels,VAR_6
+i,VAR_7
+nm,VAR_8
+len,VAR_9

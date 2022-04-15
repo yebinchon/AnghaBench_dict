@@ -1,0 +1,16 @@
+InitializeLWLocks,FUNC_0
+IsUnderPostmaster,VAR_0
+LWLOCK_MINIMAL_SIZE,VAR_1
+LWLOCK_PADDED_SIZE,VAR_2
+LWLockShmemSize,FUNC_1
+LWTRANCHE_FIRST_USER_DEFINED,VAR_3
+LW_VAL_EXCLUSIVE,VAR_4
+MAX_BACKENDS,VAR_5
+MainLWLockArray,VAR_6
+RegisterLWLockTranches,FUNC_2
+ShmemAlloc,FUNC_3
+StaticAssertStmt,FUNC_4
+CreateLWLocks,FUNC_5
+spaceLocks,VAR_7
+LWLockCounter,VAR_8
+ptr,VAR_9

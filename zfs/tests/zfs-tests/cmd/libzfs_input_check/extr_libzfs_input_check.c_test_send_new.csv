@@ -1,0 +1,16 @@
+IOC_INPUT_TEST,FUNC_0
+ZFS_IOC_SEND_NEW,VAR_0
+fnvlist_add_boolean,FUNC_1
+fnvlist_add_int32,FUNC_2
+fnvlist_add_string,FUNC_3
+fnvlist_add_uint64,FUNC_4
+fnvlist_alloc,FUNC_5
+from,VAR_1
+nvlist_free,FUNC_6
+offset,VAR_2
+resumeobj,VAR_3
+test_send_new,FUNC_7
+snapshot,VAR_4
+fd,VAR_5
+required,VAR_6
+optional,VAR_7

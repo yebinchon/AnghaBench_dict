@@ -1,0 +1,16 @@
+EFAULT,VAR_0
+EINTR,VAR_1
+EINVAL,VAR_2
+ERESTART,VAR_3
+_UMUTEX_WAIT,VAR_4
+do_lock_normal,FUNC_0
+do_lock_pi,FUNC_1
+do_lock_pp,FUNC_2
+fueword32,FUNC_3
+do_lock_umutex,FUNC_4
+td,VAR_5
+m,VAR_6
+timeout,VAR_7
+mode,VAR_8
+flags,VAR_9
+error,VAR_10

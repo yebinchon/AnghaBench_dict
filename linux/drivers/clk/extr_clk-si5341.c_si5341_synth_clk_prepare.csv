@@ -1,0 +1,12 @@
+BIT,FUNC_0
+SI5341_SYNTH_N_CLK_DIS,VAR_0
+SI5341_SYNTH_N_CLK_TO_OUTX_EN,VAR_1
+SI5341_SYNTH_N_PDNB,VAR_2
+regmap_update_bits,FUNC_1
+to_clk_si5341_synth,FUNC_2
+si5341_synth_clk_prepare,FUNC_3
+hw,VAR_3
+synth,VAR_4
+err,VAR_5
+index,VAR_6
+mask,VAR_7

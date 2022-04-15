@@ -1,0 +1,15 @@
+CONFIG_LOCKDEP,VAR_0
+GFP_KERNEL,VAR_1
+I915_MM_NORMAL,VAR_2
+I915_MM_SHRINKER,VAR_3
+IS_ENABLED,FUNC_0
+_RET_IP_,VAR_4
+fs_reclaim_acquire,FUNC_1
+fs_reclaim_release,FUNC_2
+lockdep_is_held_type,FUNC_3
+mutex_acquire,FUNC_4
+mutex_release,FUNC_5
+i915_gem_shrinker_taints_mutex,FUNC_6
+i915,VAR_5
+mutex,VAR_6
+unlock,VAR_7

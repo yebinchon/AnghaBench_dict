@@ -1,0 +1,9 @@
+CLOCK_MONOTONIC,VAR_0
+CLOCK_REALTIME,VAR_1
+GetSystemTimeAsFileTime,FUNC_0
+_SC_MONOTONIC_CLOCK,VAR_2
+clock_gettime,FUNC_1
+gettimeofday,FUNC_2
+sysconf,FUNC_3
+timer_start,FUNC_4
+timer,VAR_3

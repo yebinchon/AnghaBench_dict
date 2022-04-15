@@ -1,0 +1,16 @@
+ADM1026_REG_PWM,VAR_0
+PWM_TO_REG,FUNC_0
+adm1026_write_value,FUNC_1
+dev_get_drvdata,FUNC_2
+kstrtol,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pwm1_store,FUNC_6
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+data,VAR_5
+client,VAR_6
+val,VAR_7
+err,VAR_8

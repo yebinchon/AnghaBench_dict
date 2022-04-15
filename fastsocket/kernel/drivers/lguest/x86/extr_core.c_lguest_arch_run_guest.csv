@@ -1,0 +1,14 @@
+MSR_IA32_SYSENTER_CS,VAR_0
+X86_FEATURE_SEP,VAR_1
+__KERNEL_CS,VAR_2
+boot_cpu_has,FUNC_0
+current,VAR_3
+lguest_pages,FUNC_1
+math_state_restore,FUNC_2
+raw_smp_processor_id,FUNC_3
+read_cr2,FUNC_4
+run_guest_once,FUNC_5
+unlazy_fpu,FUNC_6
+wrmsr,FUNC_7
+lguest_arch_run_guest,FUNC_8
+cpu,VAR_4

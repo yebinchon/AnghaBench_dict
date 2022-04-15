@@ -1,0 +1,17 @@
+ACPI_ADR_PCI_FUNC,FUNC_0
+ACPI_ADR_PCI_SLOT,FUNC_1
+PCIB_MAP_MSI,FUNC_2
+device_get_parent,FUNC_3
+device_get_softc,FUNC_4
+pci_find_dbsf,FUNC_5
+pci_ht_map_msi,FUNC_6
+acpi_pcib_map_msi,FUNC_7
+pcib,VAR_0
+dev,VAR_1
+irq,VAR_2
+addr,VAR_3
+data,VAR_4
+sc,VAR_5
+bus,VAR_6
+hostb,VAR_7
+error,VAR_8

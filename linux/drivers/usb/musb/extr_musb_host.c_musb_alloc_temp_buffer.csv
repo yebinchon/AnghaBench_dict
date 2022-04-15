@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+ENOMEM,VAR_2
+MUSB_USB_DMA_ALIGN,VAR_3
+PTR_ALIGN,FUNC_0
+URB_ALIGNED_TEMP_BUFFER,VAR_4
+kmalloc,FUNC_1
+memcpy,FUNC_2
+usb_urb_dir_in,FUNC_3
+musb_alloc_temp_buffer,FUNC_4
+urb,VAR_5
+mem_flags,VAR_6
+dir,VAR_7
+temp,VAR_8
+kmalloc_ptr,VAR_9
+kmalloc_size,VAR_10

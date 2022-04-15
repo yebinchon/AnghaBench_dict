@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+S3C2443_CLKSRC,VAR_1
+S3C2443_CLKSRC_EXTCLK_DIV,VAR_2
+S3C2443_CLKSRC_MSYSCLK_MPLL,VAR_3
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+clk_mdivclk,VAR_4
+clk_mpll,VAR_5
+clk_mpllref,VAR_6
+s3c2443_setparent_msysclk,FUNC_2
+clk,VAR_7
+parent,VAR_8
+clksrc,VAR_9

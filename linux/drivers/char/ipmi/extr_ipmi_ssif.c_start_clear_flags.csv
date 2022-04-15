@@ -1,0 +1,11 @@
+IPMI_CLEAR_MSG_FLAGS_CMD,VAR_0
+IPMI_NETFN_APP_REQUEST,VAR_1
+SSIF_CLEARING_FLAGS,VAR_2
+SSIF_NORMAL,VAR_3
+WDT_PRE_TIMEOUT_INT,VAR_4
+ipmi_ssif_unlock_cond,FUNC_0
+start_send,FUNC_1
+start_clear_flags,FUNC_2
+ssif_info,VAR_5
+flags,VAR_6
+msg,VAR_7

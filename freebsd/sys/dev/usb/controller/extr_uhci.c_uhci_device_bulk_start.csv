@@ -1,0 +1,11 @@
+UHCI_APPEND_QH,FUNC_0
+UHCI_BUS2SC,FUNC_1
+uhci_add_loop,FUNC_2
+uhci_setup_standard_chain,FUNC_3
+uhci_transfer_intr_enqueue,FUNC_4
+usb_pc_cpu_flush,FUNC_5
+uhci_device_bulk_start,FUNC_6
+xfer,VAR_0
+sc,VAR_1
+td,VAR_2
+qh,VAR_3

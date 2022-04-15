@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+EIO,VAR_0
+EXT4_GOOD_OLD_INODE_SIZE,VAR_1
+Ext2DestroyInode,FUNC_1
+Ext2SaveInode,FUNC_2
+Ext2SaveInodeXattr,FUNC_3
+FALSE,VAR_2
+ext4_xattr_purge_items,FUNC_4
+ext4_xattr_write_to_disk,FUNC_5
+extents_bforget,FUNC_6
+extents_brelse,FUNC_7
+ext4_fs_put_xattr_ref,FUNC_8
+ref,VAR_3
+ret,VAR_4
+orig_file_acl,VAR_5

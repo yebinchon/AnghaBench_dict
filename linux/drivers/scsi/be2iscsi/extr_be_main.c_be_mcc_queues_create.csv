@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+MCC_CQ_LEN,VAR_1
+MCC_Q_LEN,VAR_2
+QTYPE_CQ,VAR_3
+be_queue_alloc,FUNC_0
+be_queue_free,FUNC_1
+beiscsi_cmd_cq_create,FUNC_2
+beiscsi_cmd_mccq_create,FUNC_3
+beiscsi_cmd_q_destroy,FUNC_4
+be_mcc_queues_create,FUNC_5
+phba,VAR_4
+phwi_context,VAR_5
+q,VAR_6
+cq,VAR_7
+ctrl,VAR_8

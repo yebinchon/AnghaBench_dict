@@ -1,0 +1,11 @@
+BCMA_CORE_PCIE2_CONFIGINDADDR,VAR_0
+BCMA_CORE_PCIE2_CONFIGINDDATA,VAR_1
+PCIE2_PVT_REG_PM_CLK_PERIOD,VAR_2
+bcma_pmu_get_alp_clock,FUNC_0
+pcie2_write32,FUNC_1
+pciedev_reg_pm_clk_period,FUNC_2
+pcie2,VAR_3
+drv_cc,VAR_4
+core_rev,VAR_5
+alp_khz,VAR_6
+pm_value,VAR_7

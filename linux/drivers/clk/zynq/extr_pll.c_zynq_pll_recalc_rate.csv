@@ -1,0 +1,9 @@
+PLLCTRL_FBDIV_MASK,VAR_0
+PLLCTRL_FBDIV_SHIFT,VAR_1
+readl,FUNC_0
+to_zynq_pll,FUNC_1
+zynq_pll_recalc_rate,FUNC_2
+hw,VAR_2
+parent_rate,VAR_3
+clk,VAR_4
+fbdiv,VAR_5

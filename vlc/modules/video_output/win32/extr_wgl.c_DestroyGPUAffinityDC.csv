@@ -1,0 +1,15 @@
+ChoosePixelFormat,FUNC_0
+GetDC,FUNC_1
+SetPixelFormat,FUNC_2
+VLC_PFD_INITIALIZER,VAR_0
+wglCreateContext,FUNC_3
+wglDeleteContext,FUNC_4
+wglGetProcAddress,FUNC_5
+wglMakeCurrent,FUNC_6
+DestroyGPUAffinityDC,FUNC_7
+gl,VAR_1
+sys,VAR_2
+pfd,VAR_3
+winDC,VAR_4
+hGLRC,VAR_5
+fncDeleteDCNV,VAR_6

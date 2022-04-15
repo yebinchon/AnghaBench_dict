@@ -1,0 +1,14 @@
+CL_SetServerInfoByAddress,FUNC_0
+Cvar_VariableIntegerValue,FUNC_1
+NET_AdrToString,FUNC_2
+Q_strncpyz,FUNC_3
+cl_pinglist,VAR_0
+cls,VAR_1
+CL_GetPing,FUNC_4
+n,VAR_2
+buf,VAR_3
+buflen,VAR_4
+pingtime,VAR_5
+str,VAR_6
+time,VAR_7
+maxPing,VAR_8

@@ -1,0 +1,6 @@
+MSR_K8_UCODE_UPDATE,VAR_0
+do_cpuid,FUNC_0
+wrmsr_safe,FUNC_1
+amd_ucode_wrmsr,FUNC_2
+ucode_ptr,VAR_1
+tmp,VAR_2

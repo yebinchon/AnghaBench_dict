@@ -1,0 +1,16 @@
+EIO,VAR_0
+IPMI_IO_LOCK,FUNC_0
+IPMI_IO_UNLOCK,FUNC_1
+IPMI_LOCK,FUNC_2
+IPMI_UNLOCK,FUNC_3
+MAX_TIMEOUT,VAR_1
+ipmi_complete_request,FUNC_4
+ipmi_dequeue_request,FUNC_5
+kproc_exit,FUNC_6
+opal_ipmi_polled_request,FUNC_7
+opal_ipmi_loop,FUNC_8
+arg,VAR_2
+sc,VAR_3
+req,VAR_4
+i,VAR_5
+ok,VAR_6

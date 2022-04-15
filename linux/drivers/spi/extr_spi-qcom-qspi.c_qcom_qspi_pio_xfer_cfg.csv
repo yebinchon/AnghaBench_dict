@@ -1,0 +1,11 @@
+MULTI_IO_MODE_MSK,VAR_0
+PIO_XFER_CFG,VAR_1
+TRANSFER_DIRECTION,VAR_2
+TRANSFER_FRAGMENT,VAR_3
+qspi_buswidth_to_iomode,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+qcom_qspi_pio_xfer_cfg,FUNC_3
+ctrl,VAR_4
+pio_xfer_cfg,VAR_5
+xfer,VAR_6

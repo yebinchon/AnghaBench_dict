@@ -1,0 +1,14 @@
+INIT_WORK,FUNC_0
+ISER_CONN_DOWN,VAR_0
+iscsi_destroy_endpoint,FUNC_1
+iser_conn_release,FUNC_2
+iser_conn_terminate,FUNC_3
+iser_info,FUNC_4
+iser_release_work,VAR_1
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+queue_work,FUNC_7
+release_wq,VAR_2
+iscsi_iser_ep_disconnect,FUNC_8
+ep,VAR_3
+iser_conn,VAR_4

@@ -1,0 +1,15 @@
+UDF_SB,FUNC_0
+VSD_FIRST_SECTOR_OFFSET,VAR_0
+VSD_MAX_SECTOR_OFFSET,VAR_1
+brelse,FUNC_1
+identify_vsd,FUNC_2
+udf_debug,FUNC_3
+udf_tread,FUNC_4
+udf_check_vsd,FUNC_5
+sb,VAR_2
+vsd,VAR_3
+sector,VAR_4
+sectorsize,VAR_5
+bh,VAR_6
+nsr,VAR_7
+sbi,VAR_8

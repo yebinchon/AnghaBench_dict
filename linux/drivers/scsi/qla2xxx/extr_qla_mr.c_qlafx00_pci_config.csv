@@ -1,0 +1,15 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_INTX_DISABLE,VAR_1
+PCI_COMMAND_PARITY,VAR_2
+PCI_COMMAND_SERR,VAR_3
+QLA_SUCCESS,VAR_4
+pci_is_pcie,FUNC_0
+pci_read_config_word,FUNC_1
+pci_set_master,FUNC_2
+pci_try_set_mwi,FUNC_3
+pci_write_config_word,FUNC_4
+pcie_set_readrq,FUNC_5
+qlafx00_pci_config,FUNC_6
+vha,VAR_5
+w,VAR_6
+ha,VAR_7

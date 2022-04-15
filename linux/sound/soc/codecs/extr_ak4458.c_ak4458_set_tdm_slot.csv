@@ -1,0 +1,17 @@
+AK4458_0A_CONTROL6,VAR_0
+AK4458_MODE_MASK,VAR_1
+AK4458_MODE_NORMAL,VAR_2
+AK4458_MODE_TDM128,VAR_3
+AK4458_MODE_TDM256,VAR_4
+AK4458_MODE_TDM512,VAR_5
+snd_soc_component_get_drvdata,FUNC_0
+snd_soc_component_update_bits,FUNC_1
+ak4458_set_tdm_slot,FUNC_2
+dai,VAR_6
+tx_mask,VAR_7
+rx_mask,VAR_8
+slots,VAR_9
+slot_width,VAR_10
+component,VAR_11
+ak4458,VAR_12
+mode,VAR_13

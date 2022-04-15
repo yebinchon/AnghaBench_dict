@@ -1,0 +1,16 @@
+I2C_READ,VAR_0
+I2C_WRITE,VAR_1
+MATRIX_COLS_SCANNED,VAR_2
+MATRIX_ROWS,VAR_3
+i2c_read_ack,FUNC_0
+i2c_read_nack,FUNC_1
+i2c_start,FUNC_2
+i2c_stop,FUNC_3
+i2c_write,FUNC_4
+matrix,VAR_4
+i2c_transaction,FUNC_5
+address,VAR_5
+mask,VAR_6
+col_offset,VAR_7
+err,VAR_8
+i,VAR_9

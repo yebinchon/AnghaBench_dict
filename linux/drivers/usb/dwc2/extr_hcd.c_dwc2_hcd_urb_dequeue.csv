@@ -1,0 +1,15 @@
+DWC2_HC_XFER_URB_DEQUEUE,VAR_0
+EINVAL,VAR_1
+dev_dbg,FUNC_0
+dwc2_dump_channel_info,FUNC_1
+dwc2_hc_halt,FUNC_2
+dwc2_hcd_qh_deactivate,FUNC_3
+dwc2_hcd_qh_unlink,FUNC_4
+dwc2_hcd_qtd_unlink_and_free,FUNC_5
+list_empty,FUNC_6
+dwc2_hcd_urb_dequeue,FUNC_7
+hsotg,VAR_2
+urb,VAR_3
+qh,VAR_4
+urb_qtd,VAR_5
+in_process,VAR_6

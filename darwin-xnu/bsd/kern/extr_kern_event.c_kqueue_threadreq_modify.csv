@@ -1,0 +1,13 @@
+KQR_THREQUESTED,VAR_0
+KQ_WORKLOOP,VAR_1
+THREAD_NULL,VAR_2
+WORKQ_THREADREQ_SET_AST_ON_FAILURE,VAR_3
+assert,FUNC_0
+current_proc,FUNC_1
+kq_req_held,FUNC_2
+workq_kern_threadreq_modify,FUNC_3
+kqueue_threadreq_modify,FUNC_4
+kq,VAR_4
+kqr,VAR_5
+qos,VAR_6
+flags,VAR_7

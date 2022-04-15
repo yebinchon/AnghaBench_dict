@@ -1,0 +1,15 @@
+DWC3_EP0_NRDY_STATUS,VAR_0
+EP0_STATUS_PHASE,VAR_1
+USB_STATE_CONFIGURED,VAR_2
+WARN_ON_ONCE,FUNC_0
+dev_err,FUNC_1
+dwc3_ep0_do_control_status,FUNC_2
+dwc3_ep0_end_control_data,FUNC_3
+dwc3_ep0_stall_and_restart,FUNC_4
+list_empty,FUNC_5
+usb_gadget_set_state,FUNC_6
+dwc3_ep0_xfernotready,FUNC_7
+dwc,VAR_3
+event,VAR_4
+dep,VAR_5
+dep,VAR_6

@@ -1,0 +1,17 @@
+DRM_DEBUG_KMS,FUNC_0
+DRM_DP_SIDEBAND_TX_QUEUED,VAR_0
+DRM_DP_SIDEBAND_TX_SENT,VAR_1
+DRM_DP_SIDEBAND_TX_START_SEND,VAR_2
+DRM_DP_SIDEBAND_TX_TIMEOUT,VAR_3
+EIO,VAR_4
+HZ,VAR_5
+check_txmsg_state,FUNC_1
+list_del,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+wait_event_timeout,FUNC_5
+drm_dp_mst_wait_tx_reply,FUNC_6
+mstb,VAR_6
+txmsg,VAR_7
+mgr,VAR_8
+ret,VAR_9

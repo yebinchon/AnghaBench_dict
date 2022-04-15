@@ -1,0 +1,12 @@
+SCI_SUCCESS,VAR_0
+SCU_CONTEXT_COMMAND_REQUEST_POST_TC_ABORT,VAR_1
+scic_sds_controller_post_request,FUNC_0
+scic_sds_io_request_terminate,FUNC_1
+scic_sds_request_get_post_context,FUNC_2
+scic_sds_controller_ready_state_terminate_request_handler,FUNC_3
+controller,VAR_2
+remote_device,VAR_3
+io_request,VAR_4
+this_controller,VAR_5
+the_request,VAR_6
+status,VAR_7

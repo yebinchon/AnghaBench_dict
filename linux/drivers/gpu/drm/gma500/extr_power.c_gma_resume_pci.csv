@@ -1,0 +1,14 @@
+PCI_D0,VAR_0
+PSB_PCIx_MSI_ADDR_LOC,VAR_1
+PSB_PCIx_MSI_DATA_LOC,VAR_2
+dev_err,FUNC_0
+pci_enable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_restore_state,FUNC_3
+pci_set_power_state,FUNC_4
+pci_write_config_dword,FUNC_5
+gma_resume_pci,FUNC_6
+pdev,VAR_3
+dev,VAR_4
+dev_priv,VAR_5
+ret,VAR_6

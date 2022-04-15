@@ -1,0 +1,17 @@
+av_get_bytes_per_sample,FUNC_0
+av_sample_fmt_is_planar,FUNC_1
+memcpy,FUNC_2
+memmove,FUNC_3
+av_samples_copy,FUNC_4
+dst,VAR_0
+src,VAR_1
+dst_offset,VAR_2
+src_offset,VAR_3
+nb_samples,VAR_4
+nb_channels,VAR_5
+sample_fmt,VAR_6
+planar,VAR_7
+planes,VAR_8
+block_align,VAR_9
+data_size,VAR_10
+i,VAR_11

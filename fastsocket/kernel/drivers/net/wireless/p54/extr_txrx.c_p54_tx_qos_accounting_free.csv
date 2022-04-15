@@ -1,0 +1,13 @@
+GET_HW_QUEUE,FUNC_0
+GET_REQ_ID,FUNC_1
+IS_DATA_FRAME,FUNC_2
+P54_QUEUE_BEACON,VAR_0
+complete,FUNC_3
+p54_wake_queues,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+unlikely,FUNC_7
+p54_tx_qos_accounting_free,FUNC_8
+priv,VAR_1
+skb,VAR_2
+flags,VAR_3

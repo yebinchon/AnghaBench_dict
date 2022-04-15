@@ -1,0 +1,7 @@
+IS_RTC_CLEAR_IT,FUNC_0
+RTC,VAR_0
+RTC_ISR_INIT,VAR_1
+assert_param,FUNC_1
+RTC_ClearITPendingBit,FUNC_2
+RTC_IT,VAR_2
+tmpreg,VAR_3

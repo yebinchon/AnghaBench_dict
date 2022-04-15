@@ -1,0 +1,16 @@
+TLAN_DIO_ADR,VAR_0
+TLAN_DIO_DATA,VAR_1
+TLAN_NET_SIO,VAR_2
+TLAN_NET_SIO_ECLOK,VAR_3
+TLAN_NET_SIO_EDATA,VAR_4
+TLAN_NET_SIO_ETXEN,VAR_5
+outw,FUNC_0
+tlan_clear_bit,FUNC_1
+tlan_get_bit,FUNC_2
+tlan_set_bit,FUNC_3
+tlan_ee_receive_byte,FUNC_4
+io_base,VAR_6
+data,VAR_7
+stop,VAR_8
+place,VAR_9
+sio,VAR_10

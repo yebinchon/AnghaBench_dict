@@ -1,0 +1,12 @@
+KERN_SUCCESS,VAR_0
+eprintf,FUNC_0
+ex,VAR_1
+mach_port_deallocate,FUNC_1
+mach_task_self,FUNC_2
+pid_to_task,FUNC_3
+task_set_exception_ports,FUNC_4
+xnu_restore_exception_ports,FUNC_5
+pid,VAR_2
+kr,VAR_3
+i,VAR_4
+task,VAR_5

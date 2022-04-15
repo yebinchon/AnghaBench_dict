@@ -1,0 +1,14 @@
+IPPROTO_TCP,VAR_0
+SOCK_STREAM,VAR_1
+TCP_NODELAY,VAR_2
+ccnet_warning,FUNC_0
+evutil_closesocket,FUNC_1
+makeSocketNonBlocking,FUNC_2
+setsockopt,FUNC_3
+socket,FUNC_4
+createSocket,FUNC_5
+family,VAR_3
+nonblock,VAR_4
+fd,VAR_5
+ret,VAR_6
+nodelay,VAR_7

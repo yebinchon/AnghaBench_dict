@@ -1,0 +1,13 @@
+PageUptodate,FUNC_0
+flush_dcache_page,FUNC_1
+iomap_set_page_dirty,FUNC_2
+iomap_set_range_uptodate,FUNC_3
+offset_in_page,FUNC_4
+unlikely,FUNC_5
+__iomap_write_end,FUNC_6
+inode,VAR_0
+pos,VAR_1
+len,VAR_2
+copied,VAR_3
+page,VAR_4
+iomap,VAR_5

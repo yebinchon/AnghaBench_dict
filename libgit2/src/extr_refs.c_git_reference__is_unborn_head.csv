@@ -1,0 +1,13 @@
+GIT_ENOTFOUND,VAR_0
+GIT_HEAD_FILE,VAR_1
+GIT_REFERENCE_DIRECT,VAR_2
+assert,FUNC_0
+git__strcmp,FUNC_1
+git_reference_free,FUNC_2
+git_reference_lookup_resolved,FUNC_3
+git_reference__is_unborn_head,FUNC_4
+unborn,VAR_3
+ref,VAR_4
+repo,VAR_5
+error,VAR_6
+tmp_ref,VAR_7

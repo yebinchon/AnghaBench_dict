@@ -1,0 +1,15 @@
+DH_generate_key,FUNC_0
+DH_set0_key,FUNC_1
+DH_set0_pqg,FUNC_2
+OPENSSL_PKEY_SET_BN,FUNC_3
+PHP_OPENSSL_RAND_ADD_TIME,FUNC_4
+php_openssl_dh_pub_from_priv,FUNC_5
+php_openssl_store_errors,FUNC_6
+php_openssl_pkey_init_dh,FUNC_7
+dh,VAR_0
+data,VAR_1
+p,VAR_2
+q,VAR_3
+g,VAR_4
+priv_key,VAR_5
+pub_key,VAR_6

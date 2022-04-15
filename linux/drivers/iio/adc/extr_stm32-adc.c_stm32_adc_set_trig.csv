@@ -1,0 +1,17 @@
+STM32_EXTEN_HWTRIG_RISING_EDGE,VAR_0
+STM32_EXTEN_SWTRIG,VAR_1
+iio_priv,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+stm32_adc_get_trig_extsel,FUNC_3
+stm32_adc_readl,FUNC_4
+stm32_adc_writel,FUNC_5
+stm32_adc_set_trig,FUNC_6
+indio_dev,VAR_2
+trig,VAR_3
+adc,VAR_4
+val,VAR_5
+extsel,VAR_6
+exten,VAR_7
+flags,VAR_8
+ret,VAR_9

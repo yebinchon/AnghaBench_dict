@@ -1,0 +1,14 @@
+flow_divert_packet_find_tlv,FUNC_0
+mbuf_copydata,FUNC_1
+ntohl,FUNC_2
+flow_divert_packet_get_tlv,FUNC_3
+packet,VAR_0
+offset,VAR_1
+type,VAR_2
+buff_len,VAR_3
+buff,VAR_4
+val_size,VAR_5
+error,VAR_6
+length,VAR_7
+tlv_offset,VAR_8
+to_copy,VAR_9

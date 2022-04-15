@@ -1,0 +1,15 @@
+ARCH_PERFMON_EVENTSEL_ENABLE,VAR_0
+MSR_ARCH_PERFMON_EVENTSEL0,VAR_1
+MSR_ARCH_PERFMON_PERFCTR0,VAR_2
+MSR_CORE_PERF_GLOBAL_CTRL,VAR_3
+__x86_pmu_enable_event,FUNC_0
+cpu_hw_events,VAR_4
+this_cpu_ptr,FUNC_1
+wrmsrl,FUNC_2
+x86_perf_event_set_period,FUNC_3
+x86_perf_event_update,FUNC_4
+intel_pmu_nhm_workaround,FUNC_5
+cpuc,VAR_5
+nhm_magic,VAR_6
+event,VAR_7
+i,VAR_8

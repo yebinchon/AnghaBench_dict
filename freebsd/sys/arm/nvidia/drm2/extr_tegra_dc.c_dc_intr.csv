@@ -1,0 +1,10 @@
+DC_CMD_INT_STATUS,VAR_0
+RD4,FUNC_0
+VBLANK_INT,VAR_1
+WR4,FUNC_1
+dc_finish_page_flip,FUNC_2
+drm_handle_vblank,FUNC_3
+dc_intr,FUNC_4
+arg,VAR_2
+sc,VAR_3
+status,VAR_4

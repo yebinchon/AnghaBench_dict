@@ -1,0 +1,12 @@
+BHND_BUS_GET_INTR_IVEC,FUNC_0
+ENXIO,VAR_0
+KASSERT,FUNC_1
+device_get_ivars,FUNC_2
+device_get_parent,FUNC_3
+siba_get_intr_count,FUNC_4
+siba_get_intr_ivec,FUNC_5
+dev,VAR_1
+child,VAR_2
+intr,VAR_3
+ivec,VAR_4
+dinfo,VAR_5

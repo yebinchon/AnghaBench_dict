@@ -1,0 +1,16 @@
+BIO_QUEUE_ENTERED,VAR_0
+REQ_NOMERGE,VAR_1
+bio_chain,FUNC_0
+bio_op,FUNC_1
+bio_set_flag,FUNC_2
+blk_bio_discard_split,FUNC_3
+blk_bio_segment_split,FUNC_4
+blk_bio_write_same_split,FUNC_5
+blk_bio_write_zeroes_split,FUNC_6
+generic_make_request,FUNC_7
+trace_block_split,FUNC_8
+__blk_queue_split,FUNC_9
+q,VAR_2
+bio,VAR_3
+nr_segs,VAR_4
+split,VAR_5

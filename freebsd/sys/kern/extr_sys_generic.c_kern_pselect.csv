@@ -1,0 +1,17 @@
+SIG_SETMASK,VAR_0
+TDF_ASTPENDING,VAR_1
+TDP_OLDMASK,VAR_2
+kern_select,FUNC_0
+kern_sigprocmask,FUNC_1
+thread_lock,FUNC_2
+thread_unlock,FUNC_3
+kern_pselect,FUNC_4
+td,VAR_3
+nd,VAR_4
+in,VAR_5
+ou,VAR_6
+ex,VAR_7
+tvp,VAR_8
+uset,VAR_9
+abi_nfdbits,VAR_10
+error,VAR_11

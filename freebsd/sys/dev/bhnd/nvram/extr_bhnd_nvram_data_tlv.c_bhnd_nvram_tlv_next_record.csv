@@ -1,0 +1,16 @@
+BHND_NV_LOG,FUNC_0
+EINVAL,VAR_0
+NVRAM_TLV_TF_U8_LEN,VAR_1
+NVRAM_TLV_TYPE_END,VAR_2
+bhnd_nvram_io_getsize,FUNC_1
+bhnd_nvram_io_read,FUNC_2
+bhnd_nvram_tlv_next_record,FUNC_3
+io,VAR_3
+next,VAR_4
+offset,VAR_5
+tag,VAR_6
+io_offset,VAR_7
+io_size,VAR_8
+parsed_len,VAR_9
+len_hdr,VAR_10
+error,VAR_11

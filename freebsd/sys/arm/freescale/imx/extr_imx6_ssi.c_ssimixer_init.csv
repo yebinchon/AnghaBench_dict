@@ -1,0 +1,14 @@
+SD_F_SOFTPCMVOL,VAR_0
+SOUND_MASK_PCM,VAR_1
+SOUND_MASK_VOLUME,VAR_2
+mix_getdevinfo,FUNC_0
+mix_setdevs,FUNC_1
+pcm_getflags,FUNC_2
+pcm_setflags,FUNC_3
+snd_mtxlock,FUNC_4
+snd_mtxunlock,FUNC_5
+ssimixer_init,FUNC_6
+m,VAR_3
+scp,VAR_4
+sc,VAR_5
+mask,VAR_6

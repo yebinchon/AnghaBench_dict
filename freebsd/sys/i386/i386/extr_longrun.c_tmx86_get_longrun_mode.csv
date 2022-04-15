@@ -1,0 +1,16 @@
+LONGRUN_MODE_MASK,FUNC_0
+LONGRUN_MODE_MAX,VAR_0
+LONGRUN_MODE_UNKNOWN,VAR_1
+MSR_TMx86_LONGRUN,VAR_2
+MSR_TMx86_LONGRUN_FLAGS,VAR_3
+intr_disable,FUNC_1
+intr_restore,FUNC_2
+longrun_modes,VAR_4
+rdmsr,FUNC_3
+tmx86_get_longrun_mode,FUNC_4
+saveintr,VAR_5
+msrinfo,VAR_6
+low,VAR_7
+high,VAR_8
+flags,VAR_9
+mode,VAR_10

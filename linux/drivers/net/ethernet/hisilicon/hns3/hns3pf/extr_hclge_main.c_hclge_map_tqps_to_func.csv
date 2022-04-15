@@ -1,0 +1,16 @@
+HCLGE_OPC_SET_TQP_MAP,VAR_0
+HCLGE_TQP_MAP_EN_B,VAR_1
+HCLGE_TQP_MAP_TYPE_B,VAR_2
+cpu_to_le16,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hclge_map_tqps_to_func,FUNC_4
+hdev,VAR_3
+func_id,VAR_4
+tqp_pid,VAR_5
+tqp_vid,VAR_6
+is_pf,VAR_7
+req,VAR_8
+desc,VAR_9
+ret,VAR_10

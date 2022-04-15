@@ -1,0 +1,17 @@
+DATA_LEN,VAR_0
+GIT_BUF_INIT,VAR_1
+GIT_FILTER_TO_ODB,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_3
+git_buf_dispose,FUNC_2
+git_buf_put,FUNC_3
+git_filter_list_apply_to_data,FUNC_4
+git_filter_list_free,FUNC_5
+git_filter_list_load,FUNC_6
+input,VAR_4
+memcmp,FUNC_7
+test_filter_wildcard__none,FUNC_8
+fl,VAR_5
+in,VAR_6
+out,VAR_7

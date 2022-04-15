@@ -1,0 +1,17 @@
+BLK_STS_OK,VAR_0
+BLK_STS_RESOURCE,VAR_1
+__blk_mq_issue_directly,FUNC_0
+blk_mq_get_dispatch_budget,FUNC_1
+blk_mq_get_driver_tag,FUNC_2
+blk_mq_hctx_stopped,FUNC_3
+blk_mq_put_dispatch_budget,FUNC_4
+blk_mq_request_bypass_insert,FUNC_5
+blk_queue_quiesced,FUNC_6
+__blk_mq_try_issue_directly,FUNC_7
+hctx,VAR_2
+rq,VAR_3
+cookie,VAR_4
+bypass_insert,VAR_5
+last,VAR_6
+q,VAR_7
+run_queue,VAR_8

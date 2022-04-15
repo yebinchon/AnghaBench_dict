@@ -1,0 +1,17 @@
+F2FS_NODE,FUNC_0
+PageDirty,FUNC_1
+PageWriteback,FUNC_2
+SBI_IS_SHUTDOWN,VAR_0
+f2fs_enable_inode_chksum,FUNC_3
+f2fs_inode_chksum,FUNC_4
+f2fs_warn,FUNC_5
+ino_of_node,FUNC_6
+is_sbi_flag_set,FUNC_7
+le32_to_cpu,FUNC_8
+unlikely,FUNC_9
+f2fs_inode_chksum_verify,FUNC_10
+sbi,VAR_1
+page,VAR_2
+ri,VAR_3
+provided,VAR_4
+calculated,VAR_5

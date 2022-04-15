@@ -1,0 +1,11 @@
+PCI_BASE_ADDRESS_0,VAR_0
+SZ_4K,VAR_1
+dw_pcie_writel_dbi,FUNC_0
+ks_pcie_clear_dbi_mode,FUNC_1
+ks_pcie_set_dbi_mode,FUNC_2
+to_dw_pcie_from_pp,FUNC_3
+to_keystone_pcie,FUNC_4
+ks_pcie_v3_65_scan_bus,FUNC_5
+pp,VAR_2
+pci,VAR_3
+ks_pcie,VAR_4

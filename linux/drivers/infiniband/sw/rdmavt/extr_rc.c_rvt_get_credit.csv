@@ -1,0 +1,17 @@
+IB_AETH_CREDIT_INVAL,VAR_0
+IB_AETH_CREDIT_MASK,VAR_1
+IB_AETH_CREDIT_SHIFT,VAR_2
+IB_MSN_MASK,VAR_3
+RVT_S_UNLIMITED_CREDIT,VAR_4
+RVT_S_WAIT_SSN_CREDIT,VAR_5
+credit_table,VAR_6
+ib_to_rvt,FUNC_0
+lockdep_assert_held,FUNC_1
+rvt_cmp_msn,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+rvt_get_credit,FUNC_5
+qp,VAR_7
+aeth,VAR_8
+rdi,VAR_9
+credit,VAR_10

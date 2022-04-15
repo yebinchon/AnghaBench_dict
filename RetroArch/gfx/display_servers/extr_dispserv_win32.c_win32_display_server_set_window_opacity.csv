@@ -1,0 +1,12 @@
+GWL_EXSTYLE,VAR_0
+GetWindowLongPtr,FUNC_0
+LWA_ALPHA,VAR_1
+SetLayeredWindowAttributes,FUNC_1
+SetWindowLongPtr,FUNC_2
+WS_EX_LAYERED,VAR_2
+win32_get_window,FUNC_3
+win32_display_server_set_window_opacity,FUNC_4
+data,VAR_3
+opacity,VAR_4
+hwnd,VAR_5
+serv,VAR_6

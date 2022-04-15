@@ -1,0 +1,17 @@
+BLK_MQ_REQ_NOWAIT,VAR_0
+BLK_QC_T_NONE,VAR_1
+BLK_STS_AGAIN,VAR_2
+BLK_STS_IOERR,VAR_3
+REQ_NOWAIT,VAR_4
+bio_endio,FUNC_0
+blk_queue_dying,FUNC_1
+blk_queue_enter,FUNC_2
+blk_queue_exit,FUNC_3
+generic_make_request_checks,FUNC_4
+stub1,FUNC_5
+unlikely,FUNC_6
+direct_make_request,FUNC_7
+bio,VAR_5
+q,VAR_6
+nowait,VAR_7
+ret,VAR_8

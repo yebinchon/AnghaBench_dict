@@ -1,0 +1,11 @@
+RF_ACTIVE,VAR_0
+RF_SHAREABLE,VAR_1
+SYS_RES_IRQ,VAR_2
+bus_alloc_resource_any,FUNC_0
+device_get_nameunit,FUNC_1
+device_printf,FUNC_2
+pci_alloc_msi,FUNC_3
+pci_alloc_msix,FUNC_4
+snprintf,FUNC_5
+ocs_intr_alloc,FUNC_6
+ocs,VAR_3

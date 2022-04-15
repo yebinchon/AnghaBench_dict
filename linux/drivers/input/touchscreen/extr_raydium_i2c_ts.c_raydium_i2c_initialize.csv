@@ -1,0 +1,14 @@
+RAYDIUM_TS_BLDR,VAR_0
+RAYDIUM_TS_MAIN,VAR_1
+RM_BOOT_DELAY_MS,VAR_2
+RM_MAX_RETRIES,VAR_3
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+msleep,FUNC_2
+raydium_i2c_check_fw_status,FUNC_3
+raydium_i2c_query_ts_info,FUNC_4
+raydium_i2c_initialize,FUNC_5
+ts,VAR_4
+client,VAR_5
+error,VAR_6
+retry_cnt,VAR_7

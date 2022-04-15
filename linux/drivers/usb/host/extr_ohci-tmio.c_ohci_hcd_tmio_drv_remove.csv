@@ -1,0 +1,13 @@
+hcd_to_tmio,FUNC_0
+iounmap,FUNC_1
+mfd_get_cell,FUNC_2
+platform_get_drvdata,FUNC_3
+stub1,FUNC_4
+tmio_stop_hc,FUNC_5
+usb_put_hcd,FUNC_6
+usb_remove_hcd,FUNC_7
+ohci_hcd_tmio_drv_remove,FUNC_8
+dev,VAR_0
+hcd,VAR_1
+tmio,VAR_2
+cell,VAR_3

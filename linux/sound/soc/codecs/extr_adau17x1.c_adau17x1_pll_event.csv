@@ -1,0 +1,16 @@
+ADAU17X1_CLOCK_CONTROL,VAR_0
+ADAU17X1_CLOCK_CONTROL_CORECLK_SRC_PLL,VAR_1
+ADAU17X1_PLL_CONTROL,VAR_2
+ARRAY_SIZE,FUNC_0
+SND_SOC_DAPM_EVENT_ON,FUNC_1
+mdelay,FUNC_2
+regmap_raw_write,FUNC_3
+regmap_update_bits,FUNC_4
+snd_soc_component_get_drvdata,FUNC_5
+snd_soc_dapm_to_component,FUNC_6
+adau17x1_pll_event,FUNC_7
+w,VAR_3
+kcontrol,VAR_4
+event,VAR_5
+component,VAR_6
+adau,VAR_7

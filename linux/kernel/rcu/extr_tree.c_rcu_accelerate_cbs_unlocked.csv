@@ -1,0 +1,14 @@
+ULONG_CMP_GE,FUNC_0
+raw_spin_lock_rcu_node,FUNC_1
+raw_spin_unlock_rcu_node,FUNC_2
+rcu_accelerate_cbs,FUNC_3
+rcu_gp_kthread_wake,FUNC_4
+rcu_lockdep_assert_cblist_protected,FUNC_5
+rcu_segcblist_accelerate,FUNC_6
+rcu_seq_snap,FUNC_7
+rcu_state,VAR_0
+rcu_accelerate_cbs_unlocked,FUNC_8
+rnp,VAR_1
+rdp,VAR_2
+c,VAR_3
+needwake,VAR_4

@@ -1,0 +1,11 @@
+assert,FUNC_0
+dialog_clear_all_locked,FUNC_1
+get_dialog_provider,FUNC_2
+memset,FUNC_3
+vlc_mutex_lock,FUNC_4
+vlc_mutex_unlock,FUNC_5
+vlc_dialog_provider_set_callbacks,FUNC_6
+p_obj,VAR_0
+p_cbs,VAR_1
+p_data,VAR_2
+p_provider,VAR_3

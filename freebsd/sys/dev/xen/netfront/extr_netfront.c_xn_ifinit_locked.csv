@@ -1,0 +1,17 @@
+IFF_DRV_OACTIVE,VAR_0
+IFF_DRV_RUNNING,VAR_1
+LINK_STATE_UP,VAR_2
+RING_HAS_UNCONSUMED_RESPONSES,FUNC_0
+XN_LOCK_ASSERT,FUNC_1
+XN_RX_LOCK,FUNC_2
+XN_RX_UNLOCK,FUNC_3
+if_link_state_change,FUNC_4
+netfront_carrier_ok,FUNC_5
+xn_alloc_rx_buffers,FUNC_6
+xn_rxeof,FUNC_7
+xn_stop,FUNC_8
+xn_ifinit_locked,FUNC_9
+np,VAR_3
+ifp,VAR_4
+i,VAR_5
+rxq,VAR_6

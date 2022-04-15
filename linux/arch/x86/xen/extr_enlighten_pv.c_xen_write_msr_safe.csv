@@ -1,0 +1,12 @@
+EIO,VAR_0
+HYPERVISOR_set_segment_base,FUNC_0
+SEGBASE_FS,VAR_1
+SEGBASE_GS_KERNEL,VAR_2
+SEGBASE_GS_USER,VAR_3
+native_write_msr_safe,FUNC_1
+pmu_msr_write,FUNC_2
+xen_write_msr_safe,FUNC_3
+msr,VAR_4
+low,VAR_5
+high,VAR_6
+ret,VAR_7

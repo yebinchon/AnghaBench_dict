@@ -1,0 +1,17 @@
+EXT3_I,FUNC_0
+IS_ERR,FUNC_1
+IS_SYNC,FUNC_2
+clear_inode,FUNC_3
+ext3_free_inode,FUNC_4
+ext3_journal_stop,FUNC_5
+ext3_mark_inode_dirty,FUNC_6
+ext3_orphan_del,FUNC_7
+ext3_truncate,FUNC_8
+get_seconds,FUNC_9
+is_bad_inode,FUNC_10
+start_transaction,FUNC_11
+trace_ext3_delete_inode,FUNC_12
+truncate_inode_pages,FUNC_13
+ext3_delete_inode,FUNC_14
+inode,VAR_0
+handle,VAR_1

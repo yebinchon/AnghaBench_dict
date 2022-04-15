@@ -1,0 +1,15 @@
+GIT_ENOTFOUND,VAR_0
+cl_git_fail_with,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+cl_git_sandbox_reopen,FUNC_3
+cl_repo_set_bool,FUNC_4
+git_index_add_bypath,FUNC_5
+git_index_free,FUNC_6
+git_index_write,FUNC_7
+git_repository_index,FUNC_8
+git_status_file,FUNC_9
+test_status_worktree__file_status_honors_case_ignorecase_regarding_untracked_files,FUNC_10
+repo,VAR_1
+status,VAR_2
+index,VAR_3

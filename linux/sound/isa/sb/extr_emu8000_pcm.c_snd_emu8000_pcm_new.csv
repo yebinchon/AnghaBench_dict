@@ -1,0 +1,12 @@
+SNDRV_PCM_STREAM_PLAYBACK,VAR_0
+emu8k_pcm_ops,VAR_1
+snd_device_register,FUNC_0
+snd_emu8000_pcm_free,VAR_2
+snd_pcm_new,FUNC_1
+snd_pcm_set_ops,FUNC_2
+snd_emu8000_pcm_new,FUNC_3
+card,VAR_3
+emu,VAR_4
+index,VAR_5
+pcm,VAR_6
+err,VAR_7

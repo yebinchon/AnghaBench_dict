@@ -1,0 +1,13 @@
+DPSW_CMDID_VLAN_ADD_IF_UNTAGGED,VAR_0
+build_if_id_bitmap,FUNC_0
+cpu_to_le16,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpsw_vlan_add_if_untagged,FUNC_4
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+vlan_id,VAR_4
+cfg,VAR_5
+cmd,VAR_6
+cmd_params,VAR_7

@@ -1,0 +1,14 @@
+ETIMEDOUT,VAR_0
+M5MOLS_I2C_RDY_WAIT_FL,VAR_1
+SYSTEM_INT_FACTOR,VAR_2
+atomic_add_unless,FUNC_0
+m5mols_busy_wait,FUNC_1
+msecs_to_jiffies,FUNC_2
+to_m5mols,FUNC_3
+wait_event_interruptible_timeout,FUNC_4
+m5mols_wait_interrupt,FUNC_5
+sd,VAR_3
+irq_mask,VAR_4
+timeout,VAR_5
+info,VAR_6
+ret,VAR_7

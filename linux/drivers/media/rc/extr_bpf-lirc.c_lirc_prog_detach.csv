@@ -1,0 +1,14 @@
+BPF_PROG_TYPE_LIRC_MODE2,VAR_0
+EINVAL,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+bpf_prog_get_type,FUNC_2
+bpf_prog_put,FUNC_3
+lirc_bpf_detach,FUNC_4
+put_device,FUNC_5
+rc_dev_get_from_fd,FUNC_6
+lirc_prog_detach,FUNC_7
+attr,VAR_2
+prog,VAR_3
+rcdev,VAR_4
+ret,VAR_5

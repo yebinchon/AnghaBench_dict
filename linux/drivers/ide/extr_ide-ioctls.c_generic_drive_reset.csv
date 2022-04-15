@@ -1,0 +1,12 @@
+ATA_PRIV_MISC,VAR_0
+REQ_DRIVE_RESET,VAR_1
+REQ_OP_DRV_IN,VAR_2
+blk_execute_rq,FUNC_0
+blk_get_request,FUNC_1
+blk_put_request,FUNC_2
+ide_req,FUNC_3
+scsi_req,FUNC_4
+generic_drive_reset,FUNC_5
+drive,VAR_3
+rq,VAR_4
+ret,VAR_5

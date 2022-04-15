@@ -1,0 +1,10 @@
+BMA180_ACC_X_LSB,VAR_0
+BMA180_TEMP,VAR_1
+EBUSY,VAR_2
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_read_word_data,FUNC_2
+bma180_get_data_reg,FUNC_3
+data,VAR_3
+chan,VAR_4
+ret,VAR_5

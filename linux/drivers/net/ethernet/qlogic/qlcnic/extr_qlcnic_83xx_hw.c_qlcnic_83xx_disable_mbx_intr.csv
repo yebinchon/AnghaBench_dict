@@ -1,0 +1,8 @@
+QLCNIC_DEF_INT_MASK,VAR_0
+QLCNIC_MBX_INTR_ENBL,VAR_1
+QLCRDX,FUNC_0
+QLCWRX,FUNC_1
+writel,FUNC_2
+qlcnic_83xx_disable_mbx_intr,FUNC_3
+adapter,VAR_2
+mask,VAR_3

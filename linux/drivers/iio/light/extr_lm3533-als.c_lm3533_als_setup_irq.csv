@@ -1,0 +1,14 @@
+IRQF_ONESHOT,VAR_0
+IRQF_TRIGGER_LOW,VAR_1
+LM3533_ALS_INT_ENABLE_MASK,VAR_2
+LM3533_REG_ALS_ZONE_INFO,VAR_3
+dev_err,FUNC_0
+dev_name,FUNC_1
+lm3533_als_isr,VAR_4
+lm3533_update,FUNC_2
+request_threaded_irq,FUNC_3
+lm3533_als_setup_irq,FUNC_4
+als,VAR_5
+dev,VAR_6
+mask,VAR_7
+ret,VAR_8

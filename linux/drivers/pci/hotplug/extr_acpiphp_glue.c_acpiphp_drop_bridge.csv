@@ -1,0 +1,12 @@
+ACPI_COMPANION,FUNC_0
+acpi_lock_hp_context,FUNC_1
+acpi_unlock_hp_context,FUNC_2
+cleanup_bridge,FUNC_3
+kfree,FUNC_4
+pci_is_root_bus,FUNC_5
+put_bridge,FUNC_6
+to_acpiphp_root_context,FUNC_7
+acpiphp_drop_bridge,FUNC_8
+bridge,VAR_0
+root_context,VAR_1
+adev,VAR_2

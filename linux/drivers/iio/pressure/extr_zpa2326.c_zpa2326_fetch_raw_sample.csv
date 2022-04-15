@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+IIO_VAL_INT,VAR_1
+ZPA2326_PRESS_OUT_XL_REG,VAR_2
+ZPA2326_TEMP_OUT_L_REG,VAR_3
+iio_priv,FUNC_0
+le16_to_cpup,FUNC_1
+regmap_bulk_read,FUNC_2
+zpa2326_dbg,FUNC_3
+zpa2326_warn,FUNC_4
+zpa2326_fetch_raw_sample,FUNC_5
+indio_dev,VAR_4
+type,VAR_5
+value,VAR_6
+regs,VAR_7
+err,VAR_8

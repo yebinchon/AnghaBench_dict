@@ -1,0 +1,14 @@
+clear_bit,FUNC_0
+ffs,FUNC_1
+is_accessed_spte,FUNC_2
+is_writable_pte,FUNC_3
+kvm_set_pfn_dirty,FUNC_4
+mark_spte_for_access_track,FUNC_5
+mmu_spte_get_lockless,FUNC_6
+mmu_spte_update_no_track,FUNC_7
+shadow_accessed_mask,VAR_0
+spte_ad_enabled,FUNC_8
+spte_to_pfn,FUNC_9
+mmu_spte_age,FUNC_10
+sptep,VAR_1
+spte,VAR_2

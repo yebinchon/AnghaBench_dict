@@ -1,0 +1,14 @@
+FDLOG,FUNC_0
+FLOW_DIVERT_PKT_PROPERTIES_UPDATE,VAR_0
+FLOW_DIVERT_TLV_TRAFFIC_CLASS,VAR_1
+LOG_ERR,VAR_2
+TRUE,VAR_3
+flow_divert_packet_append_tlv,FUNC_1
+flow_divert_packet_init,FUNC_2
+flow_divert_send_packet,FUNC_3
+mbuf_free,FUNC_4
+flow_divert_send_traffic_class_update,FUNC_5
+fd_cb,VAR_4
+traffic_class,VAR_5
+error,VAR_6
+packet,VAR_7

@@ -1,0 +1,11 @@
+KASSERT,FUNC_0
+SYS_RES_IRQ,VAR_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+nicvf_disable_msix,FUNC_3
+rman_get_rid,FUNC_4
+nicvf_release_all_interrupts,FUNC_5
+nic,VAR_1
+res,VAR_2
+irq,VAR_3
+err,VAR_4

@@ -1,0 +1,16 @@
+FALSE,VAR_0
+ROTARY_CHANNEL_COUNT,VAR_1
+TRUE,VAR_2
+data,VAR_3
+lrotary_dequeue_single,FUNC_0
+lua_getstate,FUNC_1
+task_post_medium,FUNC_2
+tasknumber,VAR_4
+lrotary_task,FUNC_3
+param,VAR_5
+prio,VAR_6
+task_queue_ptr,VAR_7
+id,VAR_8
+need_to_post,VAR_9
+L,VAR_10
+d,VAR_11

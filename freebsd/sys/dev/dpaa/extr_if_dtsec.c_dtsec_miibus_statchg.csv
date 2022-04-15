@@ -1,0 +1,17 @@
+DTSEC_LOCK_ASSERT,FUNC_0
+E_OK,VAR_0
+FM_MAC_AdjustLink,FUNC_1
+IFM_FDX,VAR_1
+IFM_GMASK,VAR_2
+IFM_SUBTYPE,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+e_ENET_SPEED_10,VAR_3
+e_ENET_SPEED_100,VAR_4
+e_ENET_SPEED_1000,VAR_5
+dtsec_miibus_statchg,FUNC_5
+dev,VAR_6
+sc,VAR_7
+speed,VAR_8
+duplex,VAR_9
+error,VAR_10

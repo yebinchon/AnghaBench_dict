@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+btrfs_lookup_first_block_group,FUNC_1
+btrfs_next_block_group,FUNC_2
+btrfs_put_block_group,FUNC_3
+btrfs_wait_block_group_cache_done,FUNC_4
+iput,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+btrfs_put_block_group_cache,FUNC_8
+info,VAR_0
+block_group,VAR_1
+last,VAR_2
+inode,VAR_3

@@ -1,0 +1,14 @@
+BFI_ENET_DIAG_LB_OPMODE_CBL,VAR_0
+BFI_ENET_DIAG_LB_OPMODE_EXT,VAR_1
+BFI_ENET_H2I_DIAG_LOOPBACK_REQ,VAR_2
+BFI_MC_ENET,VAR_3
+BNA_ENET_T_LOOPBACK_INTERNAL,VAR_4
+BNA_STATUS_T_ENABLED,VAR_5
+bfa_msgq_cmd_post,FUNC_0
+bfa_msgq_cmd_set,FUNC_1
+bfi_msgq_mhdr_set,FUNC_2
+bfi_msgq_num_cmd_entries,FUNC_3
+htons,FUNC_4
+bna_bfi_ethport_lpbk_up,FUNC_5
+ethport,VAR_6
+lpbk_up_req,VAR_7

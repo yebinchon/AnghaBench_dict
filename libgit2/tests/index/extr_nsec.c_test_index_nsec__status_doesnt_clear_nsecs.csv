@@ -1,0 +1,10 @@
+cl_assert_equal_b,FUNC_0
+cl_git_pass,FUNC_1
+git_index_read,FUNC_2
+git_status_list_free,FUNC_3
+git_status_list_new,FUNC_4
+has_nsecs,FUNC_5
+repo,VAR_0
+repo_index,VAR_1
+test_index_nsec__status_doesnt_clear_nsecs,FUNC_6
+statuslist,VAR_2

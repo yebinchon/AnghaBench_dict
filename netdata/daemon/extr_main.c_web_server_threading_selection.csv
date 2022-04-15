@@ -1,0 +1,11 @@
+CONFIG_SECTION_WEB,VAR_0
+WEB_SERVER_MODE_STATIC_THREADED,VAR_1
+config_get,FUNC_0
+socket_listen_main_static_threaded,VAR_2
+static_threads,VAR_3
+web_server_mode,VAR_4
+web_server_mode_id,FUNC_1
+web_server_mode_name,FUNC_2
+web_server_threading_selection,FUNC_3
+static_threaded,VAR_5
+i,VAR_6

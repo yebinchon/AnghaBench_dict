@@ -1,0 +1,12 @@
+ERROR_SUCCESS,VAR_0
+HKEY_CURRENT_USER,VAR_1
+KEY_QUERY_VALUE,VAR_2
+REG_DWORD,VAR_3
+RegCloseKey,FUNC_0
+RegOpenKeyExA,FUNC_1
+RegQueryValueExA,FUNC_2
+is_ie_hardened,FUNC_3
+zone_map,VAR_4
+ie_harden,VAR_5
+type,VAR_6
+size,VAR_7

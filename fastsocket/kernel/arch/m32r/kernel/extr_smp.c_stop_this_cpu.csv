@@ -1,0 +1,11 @@
+M32R_ICU_IMASK_PORTL,VAR_0
+cpu_clear,FUNC_0
+cpu_online_map,VAR_1
+inl,FUNC_1
+local_irq_disable,FUNC_2
+local_irq_enable,FUNC_3
+outl,FUNC_4
+smp_processor_id,FUNC_5
+stop_this_cpu,FUNC_6
+dummy,VAR_2
+cpu_id,VAR_3

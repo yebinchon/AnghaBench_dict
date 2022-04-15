@@ -1,0 +1,14 @@
+XHCI_RESET_EP_QUIRK,VAR_0
+trace_xhci_dbg_quirks,VAR_1
+trace_xhci_dbg_reset_ep,VAR_2
+xhci_dbg_trace,FUNC_0
+xhci_find_new_dequeue_state,FUNC_1
+xhci_queue_new_dequeue_state,FUNC_2
+xhci_setup_input_ctx_for_quirk,FUNC_3
+xhci_cleanup_stalled_ring,FUNC_4
+xhci,VAR_3
+ep_index,VAR_4
+stream_id,VAR_5
+td,VAR_6
+deq_state,VAR_7
+udev,VAR_8

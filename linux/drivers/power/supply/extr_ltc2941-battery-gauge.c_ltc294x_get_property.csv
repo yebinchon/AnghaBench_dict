@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+LTC294X_REG_ACC_CHARGE_MSB,VAR_1
+LTC294X_REG_CHARGE_THR_HIGH_MSB,VAR_2
+LTC294X_REG_CHARGE_THR_LOW_MSB,VAR_3
+ltc294x_get_charge,FUNC_0
+ltc294x_get_charge_counter,FUNC_1
+ltc294x_get_current,FUNC_2
+ltc294x_get_temperature,FUNC_3
+ltc294x_get_voltage,FUNC_4
+power_supply_get_drvdata,FUNC_5
+ltc294x_get_property,FUNC_6
+psy,VAR_4
+prop,VAR_5
+val,VAR_6
+info,VAR_7

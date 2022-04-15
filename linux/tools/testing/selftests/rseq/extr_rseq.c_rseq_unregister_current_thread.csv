@@ -1,0 +1,12 @@
+RSEQ_FLAG_UNREGISTER,VAR_0
+RSEQ_SIG,VAR_1
+__rseq_abi,VAR_2
+__rseq_refcount,VAR_3
+rseq_ownership,VAR_4
+signal_off_save,FUNC_0
+signal_restore,FUNC_1
+sys_rseq,FUNC_2
+rseq_unregister_current_thread,FUNC_3
+rc,VAR_5
+ret,VAR_6
+oldset,VAR_7

@@ -1,0 +1,16 @@
+PLAYBACK_SUBSTREAMS,VAR_0
+SNDRV_DMA_TYPE_DEV_SG,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+snd_dma_pci_data,FUNC_0
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+snd_riptide_capture_ops,VAR_4
+snd_riptide_playback_ops,VAR_5
+strcpy,FUNC_4
+snd_riptide_pcm,FUNC_5
+chip,VAR_6
+device,VAR_7
+pcm,VAR_8
+err,VAR_9

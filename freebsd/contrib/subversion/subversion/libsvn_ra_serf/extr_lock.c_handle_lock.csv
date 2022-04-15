@@ -1,0 +1,17 @@
+SVN_DAV_CREATIONDATE_HEADER,VAR_0
+SVN_DAV_LOCK_OWNER_HEADER,VAR_1
+SVN_ERR,FUNC_0
+TRUE,VAR_2
+apr_pstrdup,FUNC_1
+serf_bucket_headers_get,FUNC_2
+serf_bucket_response_get_headers,FUNC_3
+stub1,FUNC_4
+svn_time_from_cstring,FUNC_5
+handle_lock,FUNC_6
+request,VAR_3
+response,VAR_4
+handler_baton,VAR_5
+pool,VAR_6
+ctx,VAR_7
+headers,VAR_8
+val,VAR_9

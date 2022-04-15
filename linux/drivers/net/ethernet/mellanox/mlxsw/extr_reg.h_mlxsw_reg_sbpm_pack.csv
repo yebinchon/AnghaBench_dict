@@ -1,0 +1,16 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_sbpm_clr_set,FUNC_1
+mlxsw_reg_sbpm_dir_set,FUNC_2
+mlxsw_reg_sbpm_local_port_set,FUNC_3
+mlxsw_reg_sbpm_max_buff_set,FUNC_4
+mlxsw_reg_sbpm_min_buff_set,FUNC_5
+mlxsw_reg_sbpm_pool_set,FUNC_6
+sbpm,VAR_0
+mlxsw_reg_sbpm_pack,FUNC_7
+payload,VAR_1
+local_port,VAR_2
+pool,VAR_3
+dir,VAR_4
+clr,VAR_5
+min_buff,VAR_6
+max_buff,VAR_7

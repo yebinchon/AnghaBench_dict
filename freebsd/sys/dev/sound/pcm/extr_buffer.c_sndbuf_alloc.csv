@@ -1,0 +1,15 @@
+BUS_DMA_COHERENT,VAR_0
+BUS_DMA_NOWAIT,VAR_1
+ENOMEM,VAR_2
+SNDBUF_F_MANAGED,VAR_3
+bus_dmamap_load,FUNC_0
+bus_dmamem_alloc,FUNC_1
+sndbuf_free,FUNC_2
+sndbuf_resize,FUNC_3
+sndbuf_setmap,VAR_4
+sndbuf_alloc,FUNC_4
+b,VAR_5
+dmatag,VAR_6
+dmaflags,VAR_7
+size,VAR_8
+ret,VAR_9

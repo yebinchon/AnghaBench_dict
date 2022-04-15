@@ -1,0 +1,15 @@
+BIT_CLOSED_ON_HOST,VAR_0
+BIT_WAKE_ON_READ,VAR_1
+BIT_WAKE_ON_WRITE,VAR_2
+EIO,VAR_3
+ERESTARTSYS,VAR_4
+PIPE_CMD_WAKE_ON_READ,VAR_5
+PIPE_CMD_WAKE_ON_WRITE,VAR_6
+goldfish_pipe_cmd,FUNC_0
+set_bit,FUNC_1
+test_bit,FUNC_2
+wait_event_interruptible,FUNC_3
+wait_for_host_signal,FUNC_4
+pipe,VAR_7
+is_write,VAR_8
+wake_bit,VAR_9

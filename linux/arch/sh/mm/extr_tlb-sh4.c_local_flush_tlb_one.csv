@@ -1,0 +1,10 @@
+MMU_PAGE_ASSOC_BIT,VAR_0
+MMU_UTLB_ADDRESS_ARRAY,VAR_1
+__raw_writel,FUNC_0
+back_to_cached,FUNC_1
+jump_to_uncached,FUNC_2
+local_flush_tlb_one,FUNC_3
+asid,VAR_2
+page,VAR_3
+addr,VAR_4
+data,VAR_5

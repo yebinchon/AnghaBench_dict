@@ -1,0 +1,16 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_NVM_GET_DIR_INFO,VAR_1
+_hwrm_send_message,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+le32_to_cpu,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+netdev_priv,FUNC_5
+nvm_get_dir_info,FUNC_6
+dev,VAR_2
+entries,VAR_3
+length,VAR_4
+bp,VAR_5
+rc,VAR_6
+req,VAR_7
+output,VAR_8

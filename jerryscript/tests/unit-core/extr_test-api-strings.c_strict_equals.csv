@@ -1,0 +1,17 @@
+JERRY_PARSE_NO_OPTS,VAR_0
+TEST_ASSERT,FUNC_0
+jerry_call_function,FUNC_1
+jerry_create_undefined,FUNC_2
+jerry_eval,FUNC_3
+jerry_get_boolean_value,FUNC_4
+jerry_release_value,FUNC_5
+jerry_value_is_boolean,FUNC_6
+jerry_value_is_error,FUNC_7
+strict_equals,FUNC_8
+a,VAR_1
+b,VAR_2
+is_equal_src,VAR_3
+is_equal_fn_val,VAR_4
+args,VAR_5
+res,VAR_6
+is_strict_equal,VAR_7

@@ -1,0 +1,10 @@
+NDS32_SR_L1_PPTB,VAR_0
+NDS32_SR_TLB_MISC,VAR_1
+TLB_MISC_mskCID,VAR_2
+__nds32__mfsr,FUNC_0
+__nds32__mtsr_dsb,FUNC_1
+__nds32__mtsr_isb,FUNC_2
+__pa,FUNC_3
+cpu_switch_mm,FUNC_4
+mm,VAR_3
+cid,VAR_4

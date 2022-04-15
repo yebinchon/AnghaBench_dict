@@ -1,0 +1,11 @@
+FXP_LOCK_ASSERT,FUNC_0
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+MA_OWNED,VAR_2
+device_printf,FUNC_1
+fxp_init_body,FUNC_2
+if_inc_counter,FUNC_3
+if_setdrvflagbits,FUNC_4
+fxp_watchdog,FUNC_5
+sc,VAR_3
+ifp,VAR_4

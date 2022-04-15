@@ -1,0 +1,17 @@
+SCSI_MLQUEUE_HOST_BUSY,VAR_0
+dev_dbg,FUNC_0
+pvscsi_acquire_context,FUNC_1
+pvscsi_kick_io,FUNC_2
+pvscsi_queue_ring,FUNC_3
+pvscsi_release_context,FUNC_4
+shost_priv,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+pvscsi_queue_lck,FUNC_8
+cmd,VAR_1
+done,VAR_2
+host,VAR_3
+adapter,VAR_4
+ctx,VAR_5
+flags,VAR_6
+op,VAR_7

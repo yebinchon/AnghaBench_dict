@@ -1,0 +1,10 @@
+MEDIA_PAD_FL_SOURCE,VAR_0
+TVP5150_INPUT_NUM,VAR_1
+TVP5150_PAD_IF_INPUT,VAR_2
+media_create_pad_link,FUNC_0
+media_device_register_entity,FUNC_1
+media_device_unregister_entity,FUNC_2
+media_entity_pads_init,FUNC_3
+to_tvp5150,FUNC_4
+tvp5150_registered,FUNC_5
+sd,VAR_3

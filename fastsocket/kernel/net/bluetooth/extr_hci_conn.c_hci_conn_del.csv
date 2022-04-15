@@ -1,0 +1,17 @@
+ACL_LINK,VAR_0
+BT_DBG,FUNC_0
+HCI_NOTIFY_CONN_DEL,VAR_1
+del_timer,FUNC_1
+hci_conn_hash_del,FUNC_2
+hci_conn_put,FUNC_3
+hci_conn_put_device,FUNC_4
+hci_dev_put,FUNC_5
+skb_queue_purge,FUNC_6
+stub1,FUNC_7
+tasklet_disable,FUNC_8
+tasklet_enable,FUNC_9
+hci_conn_del,FUNC_10
+conn,VAR_2
+hdev,VAR_3
+sco,VAR_4
+acl,VAR_5

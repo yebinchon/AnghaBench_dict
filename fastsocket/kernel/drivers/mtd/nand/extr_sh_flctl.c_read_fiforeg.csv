@@ -1,0 +1,12 @@
+FLDTFIFO,FUNC_0
+be32_to_cpu,FUNC_1
+readl,FUNC_2
+wait_rfifo_ready,FUNC_3
+read_fiforeg,FUNC_4
+flctl,VAR_0
+rlen,VAR_1
+offset,VAR_2
+i,VAR_3
+len_4align,VAR_4
+buf,VAR_5
+fifo_addr,VAR_6

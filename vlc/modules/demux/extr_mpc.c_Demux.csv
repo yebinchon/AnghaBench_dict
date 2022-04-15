@@ -1,0 +1,16 @@
+MPC_DECODER_BUFFER_LENGTH,VAR_0
+VLC_DEMUXER_EGENERIC,VAR_1
+VLC_DEMUXER_EOF,VAR_2
+VLC_DEMUXER_SUCCESS,VAR_3
+VLC_TICK_0,VAR_4
+block_New,FUNC_0
+block_Release,FUNC_1
+es_out_Send,FUNC_2
+es_out_SetPCR,FUNC_3
+mpc_decoder_decode,FUNC_4
+vlc_tick_from_samples,FUNC_5
+Demux,FUNC_6
+p_demux,VAR_5
+p_sys,VAR_6
+p_data,VAR_7
+i_ret,VAR_8

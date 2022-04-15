@@ -1,0 +1,10 @@
+__rmap_clear_dirty,VAR_0
+kvm_flush_remote_tlbs_with_address,FUNC_0
+lockdep_assert_held,FUNC_1
+slot_handle_leaf,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+kvm_mmu_slot_leaf_clear_dirty,FUNC_5
+kvm,VAR_1
+memslot,VAR_2
+flush,VAR_3

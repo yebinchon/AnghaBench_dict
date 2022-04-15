@@ -1,0 +1,17 @@
+CAP_SYS_ADMIN,VAR_0
+EINVAL,VAR_1
+EOPNOTSUPP,VAR_2
+EPERM,VAR_3
+EROFS_I_SB,FUNC_0
+XATTR_USER,VAR_4
+capable,FUNC_1
+erofs_getxattr,FUNC_2
+test_opt,FUNC_3
+erofs_xattr_generic_get,FUNC_4
+handler,VAR_5
+unused,VAR_6
+inode,VAR_7
+name,VAR_8
+buffer,VAR_9
+size,VAR_10
+sbi,VAR_11

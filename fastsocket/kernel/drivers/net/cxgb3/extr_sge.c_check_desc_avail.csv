@@ -1,0 +1,15 @@
+__skb_queue_tail,FUNC_0
+set_bit,FUNC_1
+should_restart_tx,FUNC_2
+skb_queue_empty,FUNC_3
+smp_mb__after_clear_bit,FUNC_4
+test_and_clear_bit,FUNC_5
+txq_to_qset,FUNC_6
+unlikely,FUNC_7
+check_desc_avail,FUNC_8
+adap,VAR_0
+q,VAR_1
+skb,VAR_2
+ndesc,VAR_3
+qid,VAR_4
+qs,VAR_5

@@ -1,0 +1,14 @@
+REBOOT_VECTOR,VAR_0
+USEC_PER_SEC,VAR_1
+apic,VAR_2
+disable_local_APIC,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+num_online_cpus,FUNC_3
+reboot_force,VAR_3
+stub1,FUNC_4
+udelay,FUNC_5
+native_stop_other_cpus,FUNC_6
+wait,VAR_4
+flags,VAR_5
+timeout,VAR_6

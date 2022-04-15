@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+MOUNT_APPLY_APIVFS_NETNS,VAR_1
+MOUNT_APPLY_APIVFS_RO,VAR_2
+MOUNT_APPLY_TMPFS_TMP,VAR_3
+SET_FLAG,FUNC_0
+arg_mount_settings,VAR_4
+getenv,FUNC_1
+getenv_bool,FUNC_2
+log_error_errno,FUNC_3
+parse_boolean,FUNC_4
+streq_ptr,FUNC_5
+parse_mount_settings_env,FUNC_6
+e,VAR_5
+r,VAR_6

@@ -1,0 +1,10 @@
+batadv_gw_node_put,FUNC_0
+kref_get,FUNC_1
+rcu_assign_pointer,FUNC_2
+rcu_dereference_protected,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+batadv_gw_select,FUNC_6
+bat_priv,VAR_0
+new_gw_node,VAR_1
+curr_gw_node,VAR_2

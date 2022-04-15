@@ -1,0 +1,7 @@
+ACPI_EC_FLAG_SCI,VAR_0
+EC_FLAGS_QUERY_PENDING,VAR_1
+acpi_ec_sync_query,FUNC_0
+test_and_set_bit,FUNC_1
+ec_check_sci_sync,FUNC_2
+ec,VAR_2
+state,VAR_3

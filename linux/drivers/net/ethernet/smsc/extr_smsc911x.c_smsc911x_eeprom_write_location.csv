@@ -1,0 +1,16 @@
+BYTE_TEST,VAR_0
+E2P_CMD_EPC_CMD_ERASE_,VAR_1
+E2P_CMD_EPC_CMD_WRITE_,VAR_2
+E2P_DATA,VAR_3
+SMSC_TRACE,FUNC_0
+drv,VAR_4
+smsc911x_eeprom_send_cmd,FUNC_1
+smsc911x_reg_read,FUNC_2
+smsc911x_reg_write,FUNC_3
+smsc911x_eeprom_write_location,FUNC_4
+pdata,VAR_5
+address,VAR_6
+data,VAR_7
+op,VAR_8
+temp,VAR_9
+ret,VAR_10

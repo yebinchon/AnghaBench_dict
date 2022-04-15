@@ -1,0 +1,17 @@
+UDD_CLOCK_GEN,VAR_0
+UDD_STATE_SUSPEND,VAR_1
+USB,VAR_2
+__DMB,FUNC_0
+__disable_irq,FUNC_1
+__get_PRIMASK,FUNC_2
+__set_PRIMASK,FUNC_3
+udd_attach,FUNC_4
+udd_sleep_mode,FUNC_5
+udd_wait_clock_ready,FUNC_6
+usb_device,VAR_3
+usb_enable,FUNC_7
+usb_get_config_defaults,FUNC_8
+usb_init,FUNC_9
+udd_enable,FUNC_10
+irqflags,VAR_4
+config_usb,VAR_5

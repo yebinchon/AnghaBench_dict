@@ -1,0 +1,14 @@
+AlterTableCmd,VAR_0
+Assert,FUNC_0
+IsA,FUNC_1
+MemoryContextSwitchTo,FUNC_2
+OidIsValid,FUNC_3
+copyObject,FUNC_4
+currentEventTriggerState,VAR_1
+lappend,FUNC_5
+palloc,FUNC_6
+EventTriggerCollectAlterTableSubcmd,FUNC_7
+subcmd,VAR_2
+address,VAR_3
+oldcxt,VAR_4
+newsub,VAR_5

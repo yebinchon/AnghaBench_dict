@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+SPDIFRX_CR_RXDMAEN,VAR_1
+SPDIFRX_IMR_OVRIE,VAR_2
+STM32_SPDIFRX_CR,VAR_3
+STM32_SPDIFRX_IMR,VAR_4
+regmap_update_bits,FUNC_0
+snd_soc_dai_get_drvdata,FUNC_1
+stm32_spdifrx_start_sync,FUNC_2
+stm32_spdifrx_stop,FUNC_3
+stm32_spdifrx_trigger,FUNC_4
+substream,VAR_5
+cmd,VAR_6
+cpu_dai,VAR_7
+spdifrx,VAR_8
+ret,VAR_9

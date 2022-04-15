@@ -1,0 +1,13 @@
+GIT_BUF_INIT,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_buf_cstr,FUNC_2
+git_buf_dispose,FUNC_3
+git_config_get_string_buf,FUNC_4
+git_repository_config__weakptr,FUNC_5
+assert_config_entry_value,FUNC_6
+repo,VAR_1
+name,VAR_2
+expected_value,VAR_3
+config,VAR_4
+buf,VAR_5

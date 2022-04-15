@@ -1,0 +1,17 @@
+CH_BREAK_SENDING,VAR_0
+CH_STOP,VAR_1
+CH_TX_FIFO_EMPTY,VAR_2
+CH_TX_FIFO_LWM,VAR_3
+UART_XMIT_SIZE,VAR_4
+min,FUNC_0
+uart_circ_chars_pending,FUNC_1
+uart_circ_empty,FUNC_2
+uart_write_wakeup,FUNC_3
+writeb,FUNC_4
+cls_copy_data_from_queue_to_uart,FUNC_5
+ch,VAR_5
+tail,VAR_6
+n,VAR_7
+qlen,VAR_8
+len_written,VAR_9
+circ,VAR_10

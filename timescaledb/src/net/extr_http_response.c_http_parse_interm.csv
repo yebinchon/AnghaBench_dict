@@ -1,0 +1,10 @@
+HTTP_CONTENT_LENGTH,VAR_0
+HTTP_STATE_ERROR,VAR_1
+HTTP_STATE_HEADER_NAME,VAR_2
+http_response_state_add_header,FUNC_0
+sscanf,FUNC_1
+strncmp,FUNC_2
+http_parse_interm,FUNC_3
+state,VAR_3
+next,VAR_4
+temp_length,VAR_5

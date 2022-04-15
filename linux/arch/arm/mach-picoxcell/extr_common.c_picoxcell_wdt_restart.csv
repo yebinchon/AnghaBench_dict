@@ -1,0 +1,9 @@
+WDT_CTRL_REG_EN_MASK,VAR_0
+WDT_CTRL_REG_OFFS,VAR_1
+WDT_TIMEOUT_REG_OFFS,VAR_2
+mdelay,FUNC_0
+wdt_regs,VAR_3
+writel_relaxed,FUNC_1
+picoxcell_wdt_restart,FUNC_2
+mode,VAR_4
+cmd,VAR_5

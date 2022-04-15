@@ -1,0 +1,17 @@
+ERRCODE_INVALID_PARAMETER_VALUE,VAR_0
+ERROR,VAR_1
+PG_SQL_ASCII,VAR_2
+PG_UTF8,VAR_3
+ereport,FUNC_0
+errcode,FUNC_1
+errdetail,FUNC_2
+errmsg,FUNC_3
+pg_encoding_to_char,FUNC_4
+pg_get_encoding_from_locale,FUNC_5
+superuser,FUNC_6
+check_encoding_locale_matches,FUNC_7
+encoding,VAR_4
+collate,VAR_5
+ctype,VAR_6
+ctype_encoding,VAR_7
+collate_encoding,VAR_8

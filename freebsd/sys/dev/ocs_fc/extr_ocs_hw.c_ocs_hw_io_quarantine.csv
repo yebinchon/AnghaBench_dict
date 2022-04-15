@@ -1,0 +1,13 @@
+OCS_HW_QUARANTINE_QUEUE_DEPTH,VAR_0
+ocs_log_debug,FUNC_0
+ocs_ref_get_unless_zero,FUNC_1
+ocs_ref_put,FUNC_2
+sli_queue_lock,FUNC_3
+sli_queue_unlock,FUNC_4
+ocs_hw_io_quarantine,FUNC_5
+hw,VAR_1
+wq,VAR_2
+io,VAR_3
+q_info,VAR_4
+index,VAR_5
+free_io,VAR_6

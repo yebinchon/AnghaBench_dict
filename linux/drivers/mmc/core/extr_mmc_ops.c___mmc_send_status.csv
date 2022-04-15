@@ -1,0 +1,12 @@
+MMC_CMD_AC,VAR_0
+MMC_RSP_R1,VAR_1
+MMC_RSP_SPI_R2,VAR_2
+MMC_SEND_STATUS,VAR_3
+mmc_host_is_spi,FUNC_0
+mmc_wait_for_cmd,FUNC_1
+__mmc_send_status,FUNC_2
+card,VAR_4
+status,VAR_5
+retries,VAR_6
+err,VAR_7
+cmd,VAR_8

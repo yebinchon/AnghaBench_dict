@@ -1,0 +1,13 @@
+NETDEV_TX_OK,VAR_0
+NET_XMIT_SUCCESS,VAR_1
+likely,FUNC_0
+macvlan_queue_xmit,FUNC_1
+netdev_get_tx_queue,FUNC_2
+skb_get_queue_mapping,FUNC_3
+macvlan_start_xmit,FUNC_4
+skb,VAR_2
+dev,VAR_3
+i,VAR_4
+txq,VAR_5
+len,VAR_6
+ret,VAR_7

@@ -1,0 +1,12 @@
+BTRFS_ORPHAN_ITEM_KEY,VAR_0
+BTRFS_ORPHAN_OBJECTID,VAR_1
+ENOMEM,VAR_2
+btrfs_alloc_path,FUNC_0
+btrfs_free_path,FUNC_1
+btrfs_search_slot,FUNC_2
+btrfs_find_orphan_item,FUNC_3
+root,VAR_3
+offset,VAR_4
+path,VAR_5
+key,VAR_6
+ret,VAR_7

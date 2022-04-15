@@ -1,0 +1,15 @@
+BT_DBG,FUNC_0
+MGMT_OP_REMOVE_ADVERTISING,VAR_0
+MGMT_STATUS_SUCCESS,VAR_1
+hci_dev_lock,FUNC_1
+hci_dev_unlock,FUNC_2
+mgmt_cmd_complete,FUNC_3
+mgmt_pending_remove,FUNC_4
+pending_find,FUNC_5
+remove_advertising_complete,FUNC_6
+hdev,VAR_2
+status,VAR_3
+opcode,VAR_4
+cmd,VAR_5
+cp,VAR_6
+rp,VAR_7

@@ -1,0 +1,10 @@
+ESDHC_CTRL_4BITBUS,VAR_0
+ESDHC_CTRL_8BITBUS,VAR_1
+ESDHC_CTRL_BUSWIDTH_MASK,VAR_2
+ESDHC_PROCTL,VAR_3
+sdhci_readl,FUNC_0
+sdhci_writel,FUNC_1
+esdhc_pltfm_set_bus_width,FUNC_2
+host,VAR_4
+width,VAR_5
+ctrl,VAR_6

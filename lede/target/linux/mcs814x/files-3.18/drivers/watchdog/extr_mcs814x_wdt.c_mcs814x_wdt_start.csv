@@ -1,0 +1,11 @@
+WDT_CTRL,VAR_0
+WDT_CTRL_EN,VAR_1
+readl_relaxed,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+watchdog_get_drvdata,FUNC_3
+writel_relaxed,FUNC_4
+mcs814x_wdt_start,FUNC_5
+dev,VAR_2
+wdt,VAR_3
+reg,VAR_4

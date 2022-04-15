@@ -1,0 +1,11 @@
+TIF_IA32,VAR_0
+TIF_X32,VAR_1
+TS_COMPAT,VAR_2
+__NR_ia32_execve,VAR_3
+clear_thread_flag,FUNC_0
+current,VAR_4
+current_thread_info,FUNC_1
+force_personality32,VAR_5
+set_thread_flag,FUNC_2
+task_pt_regs,FUNC_3
+__set_personality_ia32,FUNC_4

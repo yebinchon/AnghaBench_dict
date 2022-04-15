@@ -1,0 +1,16 @@
+input_manager_get_default_seat,FUNC_0
+ipc_json_describe_node,FUNC_1
+json_object_array_add,FUNC_2
+json_object_new_boolean,FUNC_3
+json_object_object_add,FUNC_4
+json_object_object_del,FUNC_5
+output_get_active_workspace,FUNC_6
+seat_get_focused_workspace,FUNC_7
+ipc_get_workspaces_callback,FUNC_8
+workspace,VAR_0
+data,VAR_1
+workspace_json,VAR_2
+seat,VAR_3
+focused_ws,VAR_4
+focused,VAR_5
+visible,VAR_6

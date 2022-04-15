@@ -1,0 +1,16 @@
+SNDRV_PCM_STREAM_CAPTURE,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+snd_pcm_new,FUNC_0
+snd_pcm_set_ops,FUNC_1
+snd_vx_pcm_free,VAR_2
+strcpy,FUNC_2
+vx_init_audio_io,FUNC_3
+vx_pcm_capture_ops,VAR_3
+vx_pcm_playback_ops,VAR_4
+snd_vx_pcm_new,FUNC_4
+chip,VAR_5
+pcm,VAR_6
+i,VAR_7
+err,VAR_8
+outs,VAR_9
+ins,VAR_10

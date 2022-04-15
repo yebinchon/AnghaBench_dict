@@ -1,0 +1,14 @@
+ARCHIVE_FAILED,VAR_0
+ARCHIVE_OK,VAR_1
+__archive_write_get_passphrase,FUNC_0
+archive_write_add_filter_gzip,FUNC_1
+archive_write_free,FUNC_2
+archive_write_new,FUNC_3
+archive_write_set_format_iso9660,FUNC_4
+archive_write_set_passphrase,FUNC_5
+assertEqualInt,FUNC_6
+assertEqualString,FUNC_7
+test,FUNC_8
+pristine,VAR_2
+a,VAR_3
+aw,VAR_4

@@ -1,0 +1,13 @@
+ISC_MD5_DIGESTLENGTH,VAR_0
+OPAD,VAR_1
+PADLEN,VAR_2
+isc_hmacmd5_invalidate,FUNC_0
+isc_md5_final,FUNC_1
+isc_md5_init,FUNC_2
+isc_md5_update,FUNC_3
+memset,FUNC_4
+isc_hmacmd5_sign,FUNC_5
+ctx,VAR_3
+digest,VAR_4
+opad,VAR_5
+i,VAR_6

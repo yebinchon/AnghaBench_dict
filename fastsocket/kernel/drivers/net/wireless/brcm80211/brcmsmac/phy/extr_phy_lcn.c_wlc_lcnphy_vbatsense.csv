@@ -1,0 +1,17 @@
+D11REGOFFS,FUNC_0
+LCN_VBAT_SCALE_DEN,VAR_0
+LCN_VBAT_SCALE_NOM,VAR_1
+MCTL_EN_MAC,VAR_2
+VBATSENSE,VAR_3
+bcma_read32,FUNC_1
+maccontrol,VAR_4
+read_phy_reg,FUNC_2
+wlapi_enable_mac,FUNC_3
+wlapi_suspend_mac_and_wait,FUNC_4
+wlc_lcnphy_vbat_temp_sense_setup,FUNC_5
+wlc_lcnphy_vbatsense,FUNC_6
+pi,VAR_5
+mode,VAR_6
+vbatsenseval,VAR_7
+avg,VAR_8
+suspend,VAR_9

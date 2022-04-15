@@ -1,0 +1,17 @@
+EFAULT,VAR_0
+EINVAL,VAR_1
+PERF_COUNT_SW_EMULATION_FAULTS,VAR_2
+aarch32_check_condition,FUNC_0
+aarch32_insn_mcr_extract_crm,FUNC_1
+aarch32_insn_mcr_extract_opc2,FUNC_2
+arm64_skip_faulting_instruction,FUNC_3
+current,VAR_3
+dmb,FUNC_4
+dsb,FUNC_5
+perf_sw_event,FUNC_6
+pr_warn_ratelimited,FUNC_7
+sy,VAR_4
+trace_instruction_emulation,FUNC_8
+cp15barrier_handler,FUNC_9
+regs,VAR_5
+instr,VAR_6

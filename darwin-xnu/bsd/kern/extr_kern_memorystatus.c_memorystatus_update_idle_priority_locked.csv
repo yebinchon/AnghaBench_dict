@@ -1,0 +1,16 @@
+JETSAM_PRIORITY_ELEVATED_INACTIVE,VAR_0
+JETSAM_PRIORITY_IDLE,VAR_1
+MEMORYSTATUS_DEBUG,FUNC_0
+P_DIRTY_AGING_IN_PROGRESS,VAR_2
+P_DIRTY_IDLE_EXIT_ENABLED,VAR_3
+P_DIRTY_IS_DIRTY,VAR_4
+P_MEMSTAT_USE_ELEVATED_INACTIVE_BAND,VAR_5
+assert,FUNC_1
+isSysProc,FUNC_2
+jetsam_aging_policy,VAR_6
+kJetsamAgingPolicyLegacy,VAR_7
+memorystatus_update_priority_locked,FUNC_3
+system_procs_aging_band,VAR_8
+memorystatus_update_idle_priority_locked,FUNC_4
+p,VAR_9
+priority,VAR_10

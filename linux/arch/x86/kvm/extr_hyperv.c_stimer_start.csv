@@ -1,0 +1,15 @@
+HRTIMER_MODE_ABS,VAR_0
+div64_u64_rem,FUNC_0
+get_time_ref_counter,FUNC_1
+hrtimer_start,FUNC_2
+ktime_add_ns,FUNC_3
+ktime_get,FUNC_4
+stimer_mark_pending,FUNC_5
+stimer_to_vcpu,FUNC_6
+trace_kvm_hv_stimer_start_one_shot,FUNC_7
+trace_kvm_hv_stimer_start_periodic,FUNC_8
+stimer_start,FUNC_9
+stimer,VAR_1
+time_now,VAR_2
+ktime_now,VAR_3
+remainder,VAR_4

@@ -1,0 +1,9 @@
+A10_FPGAMGR_DCLKCNT_OFST,VAR_0
+A10_FPGAMGR_DCLKSTAT_DCLKDONE,VAR_1
+A10_FPGAMGR_DCLKSTAT_OFST,VAR_2
+regmap_read_poll_timeout,FUNC_0
+regmap_write,FUNC_1
+socfpga_a10_fpga_generate_dclks,FUNC_2
+priv,VAR_3
+count,VAR_4
+val,VAR_5

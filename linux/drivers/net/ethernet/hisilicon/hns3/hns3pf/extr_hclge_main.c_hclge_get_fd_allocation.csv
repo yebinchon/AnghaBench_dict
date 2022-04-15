@@ -1,0 +1,15 @@
+HCLGE_OPC_FD_GET_ALLOCATION,VAR_0
+dev_err,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+le16_to_cpu,FUNC_3
+le32_to_cpu,FUNC_4
+hclge_get_fd_allocation,FUNC_5
+hdev,VAR_1
+stage1_entry_num,VAR_2
+stage2_entry_num,VAR_3
+stage1_counter_num,VAR_4
+stage2_counter_num,VAR_5
+req,VAR_6
+desc,VAR_7
+ret,VAR_8

@@ -1,0 +1,17 @@
+BIO_free,FUNC_0
+BIO_new_file,FUNC_1
+PEM_read_bio_PrivateKey,FUNC_2
+PEM_read_bio_X509,FUNC_3
+SSL_get_peer_certificate,FUNC_4
+TEST_ptr,FUNC_5
+X509_free,FUNC_6
+cert,VAR_0
+privkey,VAR_1
+client_cert_cb,FUNC_7
+ssl,VAR_2
+x509,VAR_3
+pkey,VAR_4
+xcert,VAR_5
+peer,VAR_6
+privpkey,VAR_7
+in,VAR_8

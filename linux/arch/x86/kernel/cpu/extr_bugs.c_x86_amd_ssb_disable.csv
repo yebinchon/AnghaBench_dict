@@ -1,0 +1,11 @@
+MSR_AMD64_LS_CFG,VAR_0
+MSR_AMD64_VIRT_SPEC_CTRL,VAR_1
+SPEC_CTRL_SSBD,VAR_2
+X86_FEATURE_LS_CFG_SSBD,VAR_3
+X86_FEATURE_VIRT_SSBD,VAR_4
+boot_cpu_has,FUNC_0
+wrmsrl,FUNC_1
+x86_amd_ls_cfg_base,VAR_5
+x86_amd_ls_cfg_ssbd_mask,VAR_6
+x86_amd_ssb_disable,FUNC_2
+msrval,VAR_7

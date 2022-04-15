@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+EIO,VAR_0
+PAGE_SIZE,VAR_1
+SetPageError,FUNC_1
+atomic_dec_and_test,FUNC_2
+atomic_read,FUNC_3
+end_page_writeback,FUNC_4
+i_blocksize,FUNC_5
+mapping_set_error,FUNC_6
+to_iomap_page,FUNC_7
+xfs_finish_page_writeback,FUNC_8
+inode,VAR_2
+bvec,VAR_3
+error,VAR_4
+iop,VAR_5

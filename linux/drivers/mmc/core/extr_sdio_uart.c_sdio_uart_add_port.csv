@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+ENOMEM,VAR_1
+FIFO_SIZE,VAR_2
+GFP_KERNEL,VAR_3
+UART_NR,VAR_4
+kfifo_alloc,FUNC_0
+mutex_init,FUNC_1
+sdio_uart_table,VAR_5
+sdio_uart_table_lock,VAR_6
+spin_lock,FUNC_2
+spin_lock_init,FUNC_3
+spin_unlock,FUNC_4
+sdio_uart_add_port,FUNC_5
+port,VAR_7
+index,VAR_8
+ret,VAR_9

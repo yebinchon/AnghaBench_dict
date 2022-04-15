@@ -1,0 +1,16 @@
+DSPCR_AIINT,VAR_0
+DSPCR_ARINT,VAR_1
+DSPCR_DSPINT,VAR_2
+DSPCR_PIINT,VAR_3
+DSPTASK_RUN,VAR_4
+TRUE,VAR_5
+_CPU_ISR_Disable,FUNC_0
+_CPU_ISR_Restore,FUNC_1
+__dsp_currtask,VAR_6
+__dsp_rudetask,VAR_7
+__dsp_rudetask_pend,VAR_8
+_dspReg,VAR_9
+DSP_AssertTask,FUNC_2
+task,VAR_10
+level,VAR_11
+ret,VAR_12

@@ -1,0 +1,11 @@
+EHCI_MAX_CLKS,VAR_0
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+hcd_to_ehci_priv,FUNC_2
+platform_get_drvdata,FUNC_3
+ehci_platform_power_on,FUNC_4
+dev,VAR_1
+hcd,VAR_2
+priv,VAR_3
+clk,VAR_4
+ret,VAR_5

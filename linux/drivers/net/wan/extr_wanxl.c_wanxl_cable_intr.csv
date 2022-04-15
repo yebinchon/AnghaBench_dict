@@ -1,0 +1,17 @@
+STATUS_CABLE_DCD,VAR_0
+STATUS_CABLE_DCE,VAR_1
+STATUS_CABLE_DSR,VAR_2
+STATUS_CABLE_PM_SHIFT,VAR_3
+get_status,FUNC_0
+netdev_info,FUNC_1
+netif_carrier_off,FUNC_2
+netif_carrier_on,FUNC_3
+wanxl_cable_intr,FUNC_4
+port,VAR_4
+value,VAR_5
+valid,VAR_6
+cable,VAR_7
+pm,VAR_8
+dte,VAR_9
+dsr,VAR_10
+dcd,VAR_11

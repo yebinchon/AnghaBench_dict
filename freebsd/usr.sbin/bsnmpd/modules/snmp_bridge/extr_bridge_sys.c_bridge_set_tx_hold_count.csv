@@ -1,0 +1,17 @@
+BRDGSTXHC,VAR_0
+IFNAMSIZ,VAR_1
+LOG_ERR,VAR_2
+SIOCSDRVSPEC,VAR_3
+SNMP_BRIDGE_MAX_TXHC,VAR_4
+SNMP_BRIDGE_MIN_TXHC,VAR_5
+errno,VAR_6
+ioctl,FUNC_0
+sock,VAR_7
+strerror,FUNC_1
+strlcpy,FUNC_2
+syslog,FUNC_3
+bridge_set_tx_hold_count,FUNC_4
+bif,VAR_8
+tx_hc,VAR_9
+ifd,VAR_10
+b_param,VAR_11

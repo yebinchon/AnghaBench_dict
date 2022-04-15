@@ -1,0 +1,12 @@
+LSM_MAX,FUNC_0
+LSM_OK,VAR_0
+assert_db_state,FUNC_1
+dbReleaseClientSnapshot,FUNC_2
+lsmFinishWriteTrans,FUNC_3
+lsmLogSeek,FUNC_4
+lsmTreeRollback,FUNC_5
+lsm_rollback,FUNC_6
+pDb,VAR_1
+iLevel,VAR_2
+rc,VAR_3
+pMark,VAR_4

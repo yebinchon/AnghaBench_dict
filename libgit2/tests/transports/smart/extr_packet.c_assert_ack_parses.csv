@@ -1,0 +1,16 @@
+GIT_PKT_ACK,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_oid,FUNC_1
+cl_git_pass,FUNC_2
+git_oid_fromstr,FUNC_3
+git_pkt_free,FUNC_4
+git_pkt_parse_line,FUNC_5
+strlen,FUNC_6
+assert_ack_parses,FUNC_7
+line,VAR_1
+expected_oid,VAR_2
+expected_status,VAR_3
+linelen,VAR_4
+endptr,VAR_5
+pkt,VAR_6
+oid,VAR_7

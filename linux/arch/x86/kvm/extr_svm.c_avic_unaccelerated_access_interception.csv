@@ -1,0 +1,15 @@
+AVIC_UNACCEL_ACCESS_OFFSET_MASK,VAR_0
+AVIC_UNACCEL_ACCESS_VECTOR_MASK,VAR_1
+AVIC_UNACCEL_ACCESS_WRITE_MASK,VAR_2
+WARN_ONCE,FUNC_0
+avic_unaccel_trap_write,FUNC_1
+is_avic_unaccelerated_access_trap,FUNC_2
+kvm_emulate_instruction,FUNC_3
+trace_kvm_avic_unaccelerated_access,FUNC_4
+avic_unaccelerated_access_interception,FUNC_5
+svm,VAR_3
+ret,VAR_4
+offset,VAR_5
+vector,VAR_6
+write,VAR_7
+trap,VAR_8

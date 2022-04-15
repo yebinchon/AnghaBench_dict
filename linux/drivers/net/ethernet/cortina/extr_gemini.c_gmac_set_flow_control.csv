@@ -1,0 +1,16 @@
+CONFIG0_FLOW_CTL,VAR_0
+CONFIG0_FLOW_RX,VAR_1
+CONFIG0_FLOW_TX,VAR_2
+GMAC_CONFIG0,VAR_3
+netdev_priv,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+gmac_set_flow_control,FUNC_5
+netdev,VAR_4
+tx,VAR_5
+rx,VAR_6
+port,VAR_7
+flags,VAR_8
+val,VAR_9

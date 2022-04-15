@@ -1,0 +1,17 @@
+_batadv_is_ap_isolated,FUNC_0
+atomic_read,FUNC_1
+batadv_softif_vlan_get,FUNC_2
+batadv_softif_vlan_put,FUNC_3
+batadv_tt_global_entry_put,FUNC_4
+batadv_tt_global_hash_find,FUNC_5
+batadv_tt_local_entry_put,FUNC_6
+batadv_tt_local_hash_find,FUNC_7
+batadv_is_ap_isolated,FUNC_8
+bat_priv,VAR_0
+src,VAR_1
+dst,VAR_2
+vid,VAR_3
+tt_local_entry,VAR_4
+tt_global_entry,VAR_5
+vlan,VAR_6
+ret,VAR_7

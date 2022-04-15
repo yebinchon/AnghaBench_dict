@@ -1,0 +1,10 @@
+EPOLLIN,VAR_0
+assert,FUNC_0
+io_callback,VAR_1
+sd_event_add_io,FUNC_1
+sd_event_source_set_description,FUNC_2
+sd_event_source_set_io_fd,FUNC_3
+sd_event_source_set_priority,FUNC_4
+bus_attach_inotify_event,FUNC_5
+bus,VAR_2
+r,VAR_3

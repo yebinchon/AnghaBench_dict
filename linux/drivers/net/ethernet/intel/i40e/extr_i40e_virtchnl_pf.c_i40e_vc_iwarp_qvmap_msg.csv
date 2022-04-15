@@ -1,0 +1,15 @@
+I40E_ERR_PARAM,VAR_0
+I40E_VF_STATE_ACTIVE,VAR_1
+I40E_VF_STATE_IWARPENA,VAR_2
+VIRTCHNL_OP_CONFIG_IWARP_IRQ_MAP,VAR_3
+VIRTCHNL_OP_RELEASE_IWARP_IRQ_MAP,VAR_4
+i40e_config_iwarp_qvlist,FUNC_0
+i40e_release_iwarp_qvlist,FUNC_1
+i40e_vc_send_resp_to_vf,FUNC_2
+test_bit,FUNC_3
+i40e_vc_iwarp_qvmap_msg,FUNC_4
+vf,VAR_5
+msg,VAR_6
+config,VAR_7
+qvlist_info,VAR_8
+aq_ret,VAR_9

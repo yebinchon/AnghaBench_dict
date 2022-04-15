@@ -1,0 +1,10 @@
+ENOSYS,VAR_0
+PAGE_READWRITE,VAR_1
+PROT_READ,VAR_2
+PROT_WRITE,VAR_3
+VirtualProtect,FUNC_0
+errno,VAR_4
+mprotect,FUNC_1
+_mprotect_readwrite,FUNC_2
+ptr,VAR_5
+size,VAR_6

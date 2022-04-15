@@ -1,0 +1,15 @@
+assert_submodule_exists,FUNC_0
+cl_assert,FUNC_1
+cl_fixture,FUNC_2
+cl_git_mkfile,FUNC_3
+cl_git_pass,FUNC_4
+cl_git_sandbox_init,FUNC_5
+g_repo,VAR_0
+git_path_exists,FUNC_6
+git_submodule_add_finalize,FUNC_7
+git_submodule_add_setup,FUNC_8
+git_submodule_clone,FUNC_9
+git_submodule_free,FUNC_10
+p_mkdir,FUNC_11
+test_submodule_add__submodule_clone_into_nonempty_dir_succeeds,FUNC_12
+sm,VAR_1

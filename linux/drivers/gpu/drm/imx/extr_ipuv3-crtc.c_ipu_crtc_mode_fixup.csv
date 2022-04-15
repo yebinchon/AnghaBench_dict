@@ -1,0 +1,11 @@
+drm_display_mode_from_videomode,FUNC_0
+drm_display_mode_to_videomode,FUNC_1
+ipu_di_adjust_videomode,FUNC_2
+to_ipu_crtc,FUNC_3
+ipu_crtc_mode_fixup,FUNC_4
+crtc,VAR_0
+mode,VAR_1
+adjusted_mode,VAR_2
+ipu_crtc,VAR_3
+vm,VAR_4
+ret,VAR_5

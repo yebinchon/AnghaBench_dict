@@ -1,0 +1,16 @@
+MT9M001_OUTPUT_CONTROL,VAR_0
+__v4l2_ctrl_handler_setup,FUNC_0
+mt9m001_apply_selection,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put,FUNC_5
+reg_write,FUNC_6
+to_mt9m001,FUNC_7
+v4l2_get_subdevdata,FUNC_8
+mt9m001_s_stream,FUNC_9
+sd,VAR_1
+enable,VAR_2
+client,VAR_3
+mt9m001,VAR_4
+ret,VAR_5

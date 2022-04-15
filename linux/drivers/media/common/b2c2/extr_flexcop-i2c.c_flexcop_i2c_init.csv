@@ -1,0 +1,13 @@
+FC_I2C_PORT_DEMOD,VAR_0
+FC_I2C_PORT_EEPROM,VAR_1
+FC_I2C_PORT_TUNER,VAR_2
+FC_STATE_I2C_INIT,VAR_3
+flexcop_algo,VAR_4
+i2c_add_adapter,FUNC_0
+i2c_del_adapter,FUNC_1
+i2c_set_adapdata,FUNC_2
+mutex_init,FUNC_3
+strscpy,FUNC_4
+flexcop_i2c_init,FUNC_5
+fc,VAR_5
+ret,VAR_6

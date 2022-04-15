@@ -1,0 +1,17 @@
+WARN_ON_ONCE,FUNC_0
+__sk_nulls_add_node_rcu,FUNC_1
+inet_ehash_bucket,FUNC_2
+inet_ehash_lockp,FUNC_3
+sk_ehashfn,FUNC_4
+sk_nulls_del_node_init_rcu,FUNC_5
+sk_unhashed,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+inet_ehash_insert,FUNC_9
+sk,VAR_0
+osk,VAR_1
+hashinfo,VAR_2
+list,VAR_3
+head,VAR_4
+lock,VAR_5
+ret,VAR_6

@@ -1,0 +1,9 @@
+XPC_DROPPED_NOTIFY_IRQ_WAIT_INTERVAL,VAR_0
+add_timer,FUNC_0
+jiffies,VAR_1
+xpc_check_for_sent_chctl_flags_sn2,FUNC_1
+xpc_part_deref,FUNC_2
+xpc_part_ref,FUNC_3
+xpc_check_for_dropped_notify_IRQ_sn2,FUNC_4
+part,VAR_2
+part_sn2,VAR_3

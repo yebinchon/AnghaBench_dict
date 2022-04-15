@@ -1,0 +1,14 @@
+NFSIOS_VFSWRITEPAGE,VAR_0
+nfs_async_write_completion_ops,VAR_1
+nfs_do_writepage,FUNC_0
+nfs_error_is_fatal,FUNC_1
+nfs_inc_stats,FUNC_2
+nfs_pageio_complete,FUNC_3
+nfs_pageio_init_write,FUNC_4
+page_file_mapping,FUNC_5
+nfs_writepage_locked,FUNC_6
+page,VAR_2
+wbc,VAR_3
+pgio,VAR_4
+inode,VAR_5
+err,VAR_6

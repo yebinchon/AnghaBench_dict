@@ -1,0 +1,9 @@
+CTRL_BLOCK,VAR_0
+REG_MMU_CTRL,VAR_1
+REG_MMU_STATUS,VAR_2
+readl,FUNC_0
+sysmmu_unblock,FUNC_1
+writel,FUNC_2
+sysmmu_block,FUNC_3
+data,VAR_3
+i,VAR_4

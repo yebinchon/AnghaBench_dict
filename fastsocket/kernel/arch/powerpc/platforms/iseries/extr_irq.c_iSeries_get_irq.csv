@@ -1,0 +1,13 @@
+NO_IRQ_IGNORE,VAR_0
+NR_IRQS,VAR_1
+get_lppaca,FUNC_0
+hvlpevent_is_pending,FUNC_1
+iSeries_smp_message_recv,FUNC_2
+num_pending_irqs,VAR_2
+pending_irqs,VAR_3
+pending_irqs_lock,VAR_4
+process_hvlpevents,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+iSeries_get_irq,FUNC_6
+irq,VAR_5

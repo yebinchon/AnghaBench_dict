@@ -1,0 +1,17 @@
+DEST_TYPE,VAR_0
+DPSECI_CMDID_GET_RX_QUEUE,VAR_1
+ORDER_PRESERVATION,VAR_2
+dpseci_get_field,FUNC_0
+le32_to_cpu,FUNC_1
+le64_to_cpu,FUNC_2
+mc_encode_cmd_header,FUNC_3
+mc_send_command,FUNC_4
+dpseci_get_rx_queue,FUNC_5
+mc_io,VAR_3
+cmd_flags,VAR_4
+token,VAR_5
+queue,VAR_6
+attr,VAR_7
+cmd,VAR_8
+cmd_params,VAR_9
+err,VAR_10

@@ -1,0 +1,17 @@
+ENODEV,VAR_0
+USB_ID_VENDOR,FUNC_0
+create_roland_midi_quirk,FUNC_1
+create_std_midi_quirk,FUNC_2
+create_yamaha_midi_quirk,FUNC_3
+get_endpoint,FUNC_4
+get_iface_desc,FUNC_5
+usb_endpoint_xfer_bulk,FUNC_6
+usb_endpoint_xfer_int,FUNC_7
+create_auto_midi_quirk,FUNC_8
+chip,VAR_1
+iface,VAR_2
+driver,VAR_3
+alts,VAR_4
+altsd,VAR_5
+epd,VAR_6
+err,VAR_7

@@ -1,0 +1,11 @@
+EIO,VAR_0
+REQ_QUIET,VAR_1
+__blk_end_request_all,FUNC_0
+blk_abort_flushes,FUNC_1
+blk_start_request,FUNC_2
+list_empty,FUNC_3
+list_entry_rq,FUNC_4
+trace_block_rq_abort,FUNC_5
+elv_abort_queue,FUNC_6
+q,VAR_2
+rq,VAR_3

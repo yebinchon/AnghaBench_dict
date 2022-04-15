@@ -1,0 +1,15 @@
+BitBlt,FUNC_0
+CAPTUREBLT,VAR_0
+CreateCompatibleDC,FUNC_1
+DeleteDC,FUNC_2
+GetObject,FUNC_3
+Ghost_GetData,FUNC_4
+SRCCOPY,VAR_1
+SelectObject,FUNC_5
+Ghost_OnDraw,FUNC_6
+hwnd,VAR_2
+hdc,VAR_3
+bm,VAR_4
+hdcMem,VAR_5
+pData,VAR_6
+hbmOld,VAR_7

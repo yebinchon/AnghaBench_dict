@@ -1,0 +1,16 @@
+EDMA_ST_BUSY,VAR_0
+EDMA_ST_IDLE,VAR_1
+EDMA_ST_PAUSE,VAR_2
+dw_edma_start_transfer,FUNC_0
+dw_edma_v0_core_clear_done_int,FUNC_1
+list_del,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+vchan_cookie_complete,FUNC_5
+vchan_next_desc,FUNC_6
+vd2dw_edma_desc,FUNC_7
+dw_edma_done_interrupt,FUNC_8
+chan,VAR_3
+desc,VAR_4
+vd,VAR_5
+flags,VAR_6

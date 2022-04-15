@@ -1,0 +1,14 @@
+FILTER_HANDLED,VAR_0
+PCPU_GET,FUNC_0
+PLIC_CLAIM,FUNC_1
+RD4,FUNC_2
+WR4,FUNC_3
+cpuid,VAR_1
+curthread,VAR_2
+plic_irq_dispatch,FUNC_4
+plic_intr,FUNC_5
+arg,VAR_3
+sc,VAR_4
+tf,VAR_5
+pending,VAR_6
+cpu,VAR_7

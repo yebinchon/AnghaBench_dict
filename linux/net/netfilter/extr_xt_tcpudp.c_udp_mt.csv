@@ -1,0 +1,12 @@
+XT_UDP_INV_DSTPT,VAR_0
+XT_UDP_INV_SRCPT,VAR_1
+ntohs,FUNC_0
+port_match,FUNC_1
+pr_debug,FUNC_2
+skb_header_pointer,FUNC_3
+udp_mt,FUNC_4
+skb,VAR_2
+par,VAR_3
+uh,VAR_4
+_udph,VAR_5
+udpinfo,VAR_6

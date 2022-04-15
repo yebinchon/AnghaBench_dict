@@ -1,0 +1,12 @@
+EIO,VAR_0
+GEM_TRACE,FUNC_0
+__i915_request_submit,FUNC_1
+dma_fence_set_error,FUNC_2
+i915_request_mark_complete,FUNC_3
+intel_engine_queue_breadcrumbs,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+nop_submit_request,FUNC_7
+request,VAR_1
+engine,VAR_2
+flags,VAR_3

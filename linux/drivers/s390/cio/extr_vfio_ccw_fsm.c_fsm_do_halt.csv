@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+ENODEV,VAR_1
+SCSW_ACTL_HALT_PEND,VAR_2
+VFIO_CCW_HEX_EVENT,FUNC_0
+VFIO_CCW_TRACE_EVENT,FUNC_1
+dev_name,FUNC_2
+hsch,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+fsm_do_halt,FUNC_6
+private,VAR_3
+sch,VAR_4
+flags,VAR_5
+ccode,VAR_6
+ret,VAR_7

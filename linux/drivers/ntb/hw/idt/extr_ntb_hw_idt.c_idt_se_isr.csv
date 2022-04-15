@@ -1,0 +1,15 @@
+IDT_NTINTSTS_SEVENT,VAR_0
+IDT_NT_NTINTSTS,VAR_1
+IDT_SW_SEGSIGSTS,VAR_2
+IDT_SW_SELINKDNSTS,VAR_3
+IDT_SW_SELINKUPSTS,VAR_4
+IDT_SW_SESTS,VAR_5
+dev_dbg,FUNC_0
+idt_nt_write,FUNC_1
+idt_sw_read,FUNC_2
+idt_sw_write,FUNC_3
+ntb_link_event,FUNC_4
+idt_se_isr,FUNC_5
+ndev,VAR_6
+ntint_sts,VAR_7
+sests,VAR_8

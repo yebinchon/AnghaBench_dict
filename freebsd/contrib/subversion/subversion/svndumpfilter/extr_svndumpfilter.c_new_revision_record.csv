@@ -1,0 +1,15 @@
+FALSE,VAR_0
+SVN_NO_ERROR,VAR_1
+SVN_REPOS_DUMPFILE_REVISION_NUMBER,VAR_2
+SVN_STR_TO_REV,FUNC_0
+apr_hash_make,FUNC_1
+apr_palloc,FUNC_2
+headers_dup,FUNC_3
+svn_hash_gets,FUNC_4
+new_revision_record,FUNC_5
+revision_baton,VAR_3
+headers,VAR_4
+parse_baton,VAR_5
+pool,VAR_6
+rb,VAR_7
+rev_orig,VAR_8

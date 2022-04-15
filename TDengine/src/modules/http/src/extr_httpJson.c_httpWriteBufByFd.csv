@@ -1,0 +1,14 @@
+HTTP_WRITE_RETRY_TIMES,VAR_0
+HTTP_WRITE_WAIT_TIME_MS,VAR_1
+MSG_NOSIGNAL,VAR_2
+errno,VAR_3
+httpTrace,FUNC_0
+send,FUNC_1
+taosMsleep,FUNC_2
+httpWriteBufByFd,FUNC_3
+pContext,VAR_4
+buf,VAR_5
+sz,VAR_6
+len,VAR_7
+countWait,VAR_8
+writeLen,VAR_9

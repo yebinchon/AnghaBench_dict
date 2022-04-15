@@ -1,0 +1,16 @@
+QUICC_REG_SCC_SCCE,FUNC_0
+SER_INT_BREAK,VAR_0
+SER_INT_OVERRUN,VAR_1
+SER_INT_RXREADY,VAR_2
+SER_INT_TXIDLE,VAR_3
+mtx_lock_spin,FUNC_1
+mtx_unlock_spin,FUNC_2
+quicc_read2,FUNC_3
+quicc_write2,FUNC_4
+quicc_bfe_ipend,FUNC_5
+sc,VAR_4
+bas,VAR_5
+ch,VAR_6
+c,VAR_7
+ipend,VAR_8
+scce,VAR_9

@@ -1,0 +1,14 @@
+UART_TX,VAR_0
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+serial_omap_stop_tx,FUNC_0
+serial_out,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_tx_stopped,FUNC_4
+uart_write_wakeup,FUNC_5
+transmit_chars,FUNC_6
+up,VAR_3
+lsr,VAR_4
+xmit,VAR_5
+count,VAR_6

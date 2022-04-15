@@ -1,0 +1,15 @@
+AG71XX_DESC_SIZE,VAR_0
+BIT,FUNC_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+ag71xx_ring_rx_init,FUNC_1
+ag71xx_ring_tx_init,FUNC_2
+dma_alloc_coherent,FUNC_3
+kcalloc,FUNC_4
+kfree,FUNC_5
+ag71xx_rings_init,FUNC_6
+ag,VAR_3
+tx,VAR_4
+rx,VAR_5
+ring_size,VAR_6
+tx_size,VAR_7

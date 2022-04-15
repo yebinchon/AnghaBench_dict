@@ -1,0 +1,17 @@
+CLIPRGN,VAR_0
+CreateCompatibleDC,FUNC_0
+CreateRectRgn,FUNC_1
+DeleteDC,FUNC_2
+DeleteObject,FUNC_3
+ERROR_INVALID_HANDLE,VAR_1
+GetLastError,FUNC_4
+GetRandomRgn,FUNC_5
+SetLastError,FUNC_6
+ok,FUNC_7
+ok_err,FUNC_8
+ok_int,FUNC_9
+printf,FUNC_10
+Test_GetRandomRgn_Params,FUNC_11
+hdc,VAR_2
+hrgn,VAR_3
+ret,VAR_4

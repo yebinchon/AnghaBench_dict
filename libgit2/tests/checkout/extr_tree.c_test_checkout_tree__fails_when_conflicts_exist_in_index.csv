@@ -1,0 +1,15 @@
+GIT_CHECKOUT_OPTIONS_INIT,VAR_0
+GIT_CHECKOUT_SAFE,VAR_1
+GIT_OBJECT_ANY,VAR_2
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+create_conflict,FUNC_2
+g_repo,VAR_3
+git_checkout_tree,FUNC_3
+git_object_free,FUNC_4
+git_object_lookup,FUNC_5
+git_reference_name_to_id,FUNC_6
+test_checkout_tree__fails_when_conflicts_exist_in_index,FUNC_7
+opts,VAR_4
+oid,VAR_5
+obj,VAR_6

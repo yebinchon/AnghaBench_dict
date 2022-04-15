@@ -1,0 +1,12 @@
+SDHCI_CARD_PRESENT,VAR_0
+SDHCI_DEVICE_DEAD,VAR_1
+SDHCI_PRESENT_STATE,VAR_2
+SDHCI_QUIRK_BROKEN_CARD_DETECTION,VAR_3
+mmc_card_is_removable,FUNC_0
+mmc_gpio_get_cd,FUNC_1
+mmc_priv,FUNC_2
+sdhci_readl,FUNC_3
+sdhci_get_cd,FUNC_4
+mmc,VAR_4
+host,VAR_5
+gpio_cd,VAR_6

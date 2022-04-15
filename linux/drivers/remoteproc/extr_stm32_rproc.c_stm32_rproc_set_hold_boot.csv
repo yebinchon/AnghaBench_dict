@@ -1,0 +1,17 @@
+CONFIG_HAVE_ARM_SMCCC,VAR_0
+HOLD_BOOT,VAR_1
+IS_ENABLED,FUNC_0
+RELEASE_BOOT,VAR_2
+STM32_SMC_RCC,VAR_3
+STM32_SMC_REG_WRITE,VAR_4
+arm_smccc_smc,FUNC_1
+dev_err,FUNC_2
+regmap_update_bits,FUNC_3
+stm32_rproc_set_hold_boot,FUNC_4
+rproc,VAR_5
+hold,VAR_6
+ddata,VAR_7
+hold_boot,VAR_8
+smc_res,VAR_9
+val,VAR_10
+err,VAR_11

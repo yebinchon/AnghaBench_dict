@@ -1,0 +1,17 @@
+IRQ_RETVAL,FUNC_0
+SAA7134_IRQ_REPORT,VAR_0
+SAA7134_IRQ_REPORT_DONE_RA3,VAR_1
+SAA7134_IRQ_STATUS,VAR_2
+dprintk,FUNC_1
+saa7134_irq_alsa_done,FUNC_2
+saa_readl,FUNC_3
+saa_writel,FUNC_4
+saa7134_alsa_irq,FUNC_5
+irq,VAR_3
+dev_id,VAR_4
+dmasound,VAR_5
+dev,VAR_6
+report,VAR_7
+status,VAR_8
+loop,VAR_9
+handled,VAR_10

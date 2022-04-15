@@ -1,0 +1,12 @@
+print_all_attributes,FUNC_0
+printf,FUNC_1
+sd_device_get_devpath,FUNC_2
+sd_device_get_driver,FUNC_3
+sd_device_get_parent,FUNC_4
+sd_device_get_subsystem,FUNC_5
+sd_device_get_sysname,FUNC_6
+print_device_chain,FUNC_7
+device,VAR_0
+child,VAR_1
+parent,VAR_2
+str,VAR_3

@@ -1,0 +1,14 @@
+MPI_SAS_ENCLOS_PGAD_FORM_HANDLE,VAR_0
+MPI_SAS_ENCLOS_PGAD_FORM_SHIFT,VAR_1
+dev_to_rphy,FUNC_0
+memset,FUNC_1
+mptsas_add_device_component,FUNC_2
+mptsas_find_phyinfo_by_sas_address,FUNC_3
+mptsas_sas_enclosure_pg0,FUNC_4
+mptsas_add_device_component_starget,FUNC_5
+ioc,VAR_2
+starget,VAR_3
+vtarget,VAR_4
+rphy,VAR_5
+phy_info,VAR_6
+enclosure_info,VAR_7

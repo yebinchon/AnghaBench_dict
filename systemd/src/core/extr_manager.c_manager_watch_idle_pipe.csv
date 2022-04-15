@@ -1,0 +1,9 @@
+EPOLLIN,VAR_0
+assert,FUNC_0
+log_error_errno,FUNC_1
+manager_dispatch_idle_pipe_fd,VAR_1
+sd_event_add_io,FUNC_2
+sd_event_source_set_description,FUNC_3
+manager_watch_idle_pipe,FUNC_4
+m,VAR_2
+r,VAR_3

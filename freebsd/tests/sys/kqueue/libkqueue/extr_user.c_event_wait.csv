@@ -1,0 +1,15 @@
+EVFILT_USER,VAR_0
+EV_ADD,VAR_1
+EV_CLEAR,VAR_2
+NOTE_FFCTRLMASK,VAR_3
+NOTE_TRIGGER,VAR_4
+kevent_add,FUNC_0
+kevent_cmp,FUNC_1
+kevent_get,FUNC_2
+kqfd,VAR_5
+success,FUNC_3
+test_begin,FUNC_4
+test_no_kevents,FUNC_5
+event_wait,FUNC_6
+test_id,VAR_6
+kev,VAR_7

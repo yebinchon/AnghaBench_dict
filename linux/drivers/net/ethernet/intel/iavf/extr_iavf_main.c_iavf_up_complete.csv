@@ -1,0 +1,11 @@
+CLIENT_ENABLED,FUNC_0
+IAVF_FLAG_AQ_ENABLE_QUEUES,VAR_0
+IAVF_FLAG_CLIENT_NEEDS_OPEN,VAR_1
+__IAVF_RUNNING,VAR_2
+__IAVF_VSI_DOWN,VAR_3
+clear_bit,FUNC_1
+iavf_napi_enable_all,FUNC_2
+iavf_wq,VAR_4
+mod_delayed_work,FUNC_3
+iavf_up_complete,FUNC_4
+adapter,VAR_5

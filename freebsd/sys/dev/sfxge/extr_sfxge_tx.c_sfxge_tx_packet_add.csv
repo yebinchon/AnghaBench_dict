@@ -1,0 +1,13 @@
+ENETDOWN,VAR_0
+SFXGE_LINK_UP,FUNC_0
+SFXGE_TXQ_LOCK_ASSERT_NOTOWNED,FUNC_1
+SFXGE_TXQ_TRYLOCK,FUNC_2
+atomic_add_long,FUNC_3
+sfxge_tx_qdpl_put_locked,FUNC_4
+sfxge_tx_qdpl_put_unlocked,FUNC_5
+sfxge_tx_qdpl_service,FUNC_6
+sfxge_tx_qdpl_swizzle,FUNC_7
+sfxge_tx_packet_add,FUNC_8
+txq,VAR_1
+m,VAR_2
+rc,VAR_3

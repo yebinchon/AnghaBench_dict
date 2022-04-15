@@ -1,0 +1,13 @@
+WDT_CTRL,VAR_0
+WDT_CTRL_RESET_EN,VAR_1
+WDT_RELOAD_CTRL,VAR_2
+WDT_RELOAD_PORT,VAR_3
+WDT_RELOAD_PORT_EN,VAR_4
+inb,FUNC_0
+nic7018_set_timeout,FUNC_1
+outb,FUNC_2
+watchdog_get_drvdata,FUNC_3
+nic7018_start,FUNC_4
+wdd,VAR_5
+wdt,VAR_6
+control,VAR_7

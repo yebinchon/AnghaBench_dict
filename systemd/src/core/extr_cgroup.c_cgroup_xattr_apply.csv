@@ -1,0 +1,12 @@
+MANAGER_IS_SYSTEM,FUNC_0
+SD_ID128_STRING_MAX,VAR_0
+SYSTEMD_CGROUP_CONTROLLER,VAR_1
+assert,FUNC_1
+cg_set_xattr,FUNC_2
+log_unit_debug_errno,FUNC_3
+sd_id128_is_null,FUNC_4
+sd_id128_to_string,FUNC_5
+cgroup_xattr_apply,FUNC_6
+u,VAR_2
+ids,VAR_3
+r,VAR_4

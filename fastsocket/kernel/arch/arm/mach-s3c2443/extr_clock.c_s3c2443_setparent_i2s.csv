@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+S3C2443_CLKSRC,VAR_1
+S3C2443_CLKSRC_I2S_EPLLREF,VAR_2
+S3C2443_CLKSRC_I2S_EXT,VAR_3
+S3C2443_CLKSRC_I2S_MASK,VAR_4
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+clk_epllref,VAR_5
+clk_i2s_eplldiv,VAR_6
+clk_i2s_ext,VAR_7
+s3c2443_setparent_i2s,FUNC_2
+clk,VAR_8
+parent,VAR_9
+clksrc,VAR_10

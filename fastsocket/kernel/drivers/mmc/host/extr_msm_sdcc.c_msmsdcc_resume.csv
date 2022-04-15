@@ -1,0 +1,15 @@
+MMCIMASK0,VAR_0
+MMC_TYPE_SDIO,VAR_1
+clk_enable,FUNC_0
+enable_irq,FUNC_1
+mmc_get_drvdata,FUNC_2
+mmc_priv,FUNC_3
+mmc_resume_host,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+writel,FUNC_7
+msmsdcc_resume,FUNC_8
+dev,VAR_2
+mmc,VAR_3
+flags,VAR_4
+host,VAR_5

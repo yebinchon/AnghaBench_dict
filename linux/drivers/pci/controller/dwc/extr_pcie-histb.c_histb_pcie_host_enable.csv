@@ -1,0 +1,17 @@
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_err,FUNC_2
+gpio_is_valid,FUNC_3
+gpio_set_value_cansleep,FUNC_4
+regulator_disable,FUNC_5
+regulator_enable,FUNC_6
+reset_control_assert,FUNC_7
+reset_control_deassert,FUNC_8
+to_dw_pcie_from_pp,FUNC_9
+to_histb_pcie,FUNC_10
+histb_pcie_host_enable,FUNC_11
+pp,VAR_0
+pci,VAR_1
+hipcie,VAR_2
+dev,VAR_3
+ret,VAR_4

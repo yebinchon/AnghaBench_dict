@@ -1,0 +1,12 @@
+SPRD_WDT_CTRL,VAR_0
+SPRD_WDT_NEW_VER_EN,VAR_1
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+readl_relaxed,FUNC_2
+sprd_wdt_lock,FUNC_3
+sprd_wdt_unlock,FUNC_4
+writel_relaxed,FUNC_5
+sprd_wdt_enable,FUNC_6
+wdt,VAR_2
+val,VAR_3
+ret,VAR_4

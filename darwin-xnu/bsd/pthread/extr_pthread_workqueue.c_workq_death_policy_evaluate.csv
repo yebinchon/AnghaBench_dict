@@ -1,0 +1,16 @@
+DBG_FUNC_START,VAR_0
+TRACE_wq_thread_terminate,VAR_1
+UT_WORKQ_DYING,VAR_2
+WQ_TRACE_WQ,FUNC_0
+assert,FUNC_1
+mach_absolute_time,FUNC_2
+workq_death_call_schedule,FUNC_3
+workq_kill_delay_for_idle_thread,FUNC_4
+workq_oldest_killable_idle_thread,FUNC_5
+workq_thread_wakeup,FUNC_6
+workq_death_policy_evaluate,FUNC_7
+wq,VAR_3
+decrement,VAR_4
+uth,VAR_5
+now,VAR_6
+delay,VAR_7

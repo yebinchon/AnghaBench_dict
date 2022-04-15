@@ -1,0 +1,16 @@
+CLONE_SIGHAND,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+current,VAR_3
+kmem_cache_alloc,FUNC_0
+memcpy,FUNC_1
+rcu_assign_pointer,FUNC_2
+refcount_inc,FUNC_3
+refcount_set,FUNC_4
+sighand_cachep,VAR_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+copy_sighand,FUNC_7
+clone_flags,VAR_5
+tsk,VAR_6
+sig,VAR_7

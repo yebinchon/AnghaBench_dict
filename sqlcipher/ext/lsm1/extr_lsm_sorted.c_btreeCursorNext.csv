@@ -1,0 +1,17 @@
+LSM_OK,VAR_0
+assert,FUNC_0
+btreeCursorLoadKey,FUNC_1
+btreeCursorPtr,FUNC_2
+fsPageData,FUNC_3
+lsmFsDbPageGet,FUNC_4
+lsmFsPageRelease,FUNC_5
+pageGetNRec,FUNC_6
+btreeCursorNext,FUNC_7
+pCsr,VAR_1
+rc,VAR_2
+pPg,VAR_3
+nCell,VAR_4
+aData,VAR_5
+nData,VAR_6
+iLoad,VAR_7
+pLoad,VAR_8

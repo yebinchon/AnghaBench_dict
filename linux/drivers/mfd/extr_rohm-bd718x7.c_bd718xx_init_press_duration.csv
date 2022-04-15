@@ -1,0 +1,15 @@
+BD718XX_PWRBTN_PRESS_DURATION_MASK,VAR_0
+BD718XX_REG_PWRONCONFIG0,VAR_1
+BD718XX_REG_PWRONCONFIG1,VAR_2
+dev_err,FUNC_0
+min,FUNC_1
+of_property_read_u32,FUNC_2
+regmap_update_bits,FUNC_3
+bd718xx_init_press_duration,FUNC_4
+bd718xx,VAR_3
+dev,VAR_4
+short_press_ms,VAR_5
+long_press_ms,VAR_6
+short_press_value,VAR_7
+long_press_value,VAR_8
+ret,VAR_9

@@ -1,0 +1,16 @@
+BUF_UNLOCK,FUNC_0
+BV_BKGRDINPROG,VAR_0
+B_REMFREE,VAR_1
+LIST_EMPTY,FUNC_1
+NOCRED,VAR_2
+atomic_add_int,FUNC_2
+bremfreef,FUNC_3
+buf_deallocate,FUNC_4
+buf_zone,VAR_3
+bufdomain,FUNC_5
+bufkva_free,FUNC_6
+crfree,FUNC_7
+panic,FUNC_8
+uma_zfree,FUNC_9
+buf_free,FUNC_10
+bp,VAR_4

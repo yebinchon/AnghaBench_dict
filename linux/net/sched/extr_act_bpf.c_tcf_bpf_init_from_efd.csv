@@ -1,0 +1,17 @@
+BPF_PROG_TYPE_SCHED_ACT,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+TCA_ACT_BPF_FD,VAR_3
+TCA_ACT_BPF_NAME,VAR_4
+bpf_prog_get_type,FUNC_2
+bpf_prog_put,FUNC_3
+nla_get_u32,FUNC_4
+nla_memdup,FUNC_5
+tcf_bpf_init_from_efd,FUNC_6
+tb,VAR_5
+cfg,VAR_6
+fp,VAR_7
+name,VAR_8
+bpf_fd,VAR_9

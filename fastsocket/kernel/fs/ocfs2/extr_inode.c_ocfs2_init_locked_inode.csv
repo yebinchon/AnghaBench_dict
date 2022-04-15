@@ -1,0 +1,15 @@
+GROUP_QUOTA_SYSTEM_INODE,VAR_0
+LOCAL_GROUP_QUOTA_SYSTEM_INODE,VAR_1
+LOCAL_USER_QUOTA_SYSTEM_INODE,VAR_2
+OCFS2_I,FUNC_0
+USER_QUOTA_SYSTEM_INODE,VAR_3
+lockdep_set_class,FUNC_1
+mlog_entry,FUNC_2
+mlog_exit,FUNC_3
+ocfs2_sysfile_lock_key,VAR_4
+ocfs2_init_locked_inode,FUNC_4
+inode,VAR_5
+opaque,VAR_6
+args,VAR_7
+ocfs2_quota_ip_alloc_sem_key,VAR_8
+ocfs2_file_ip_alloc_sem_key,VAR_9

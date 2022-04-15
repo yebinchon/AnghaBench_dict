@@ -1,0 +1,12 @@
+HX711_GAIN_MAX,VAR_0
+hx711_gain_to_scale,VAR_1
+sprintf,FUNC_0
+to_iio_dev_attr,FUNC_1
+hx711_scale_available_show,FUNC_2
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+iio_attr,VAR_5
+channel,VAR_6
+i,VAR_7
+len,VAR_8

@@ -1,0 +1,17 @@
+IKEV2_PAYLOAD_FLAGS_CRITICAL,VAR_0
+IKEV2_PAYLOAD_NO_NEXT_PAYLOAD,VAR_1
+MSG_DEBUG,VAR_2
+MSG_INFO,VAR_3
+WPA_GET_BE16,FUNC_0
+os_memset,FUNC_1
+wpa_printf,FUNC_2
+ikev2_parse_payloads,FUNC_3
+payloads,VAR_4
+next_payload,VAR_5
+pos,VAR_6
+end,VAR_7
+phdr,VAR_8
+plen,VAR_9
+pdatalen,VAR_10
+left,VAR_11
+pdata,VAR_12

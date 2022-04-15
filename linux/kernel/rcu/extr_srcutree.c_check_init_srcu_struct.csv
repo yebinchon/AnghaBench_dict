@@ -1,0 +1,8 @@
+init_srcu_struct_fields,FUNC_0
+rcu_seq_state,FUNC_1
+smp_load_acquire,FUNC_2
+spin_lock_irqsave_rcu_node,FUNC_3
+spin_unlock_irqrestore_rcu_node,FUNC_4
+check_init_srcu_struct,FUNC_5
+ssp,VAR_0
+flags,VAR_1

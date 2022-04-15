@@ -1,0 +1,16 @@
+EN_MASK,VAR_0
+ERR_MASK,VAR_1
+RXINT_MASK,VAR_2
+R_CTRL,VAR_3
+R_ENABLE,VAR_4
+TXINT_MASK,VAR_5
+arc_free_rx_queue,FUNC_0
+arc_free_tx_queue,FUNC_1
+arc_reg_clr,FUNC_2
+napi_disable,FUNC_3
+netdev_priv,FUNC_4
+netif_stop_queue,FUNC_5
+phy_stop,FUNC_6
+arc_emac_stop,FUNC_7
+ndev,VAR_6
+priv,VAR_7

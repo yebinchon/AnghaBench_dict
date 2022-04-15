@@ -1,0 +1,15 @@
+QLA82XX_ROMUSB_ROM_ABYTE_CNT,VAR_0
+cond_resched,FUNC_0
+pci_get_drvdata,FUNC_1
+ql_log,FUNC_2
+ql_log_warn,VAR_1
+qla82xx_read_status_reg,FUNC_3
+qla82xx_wr_32,FUNC_4
+udelay,FUNC_5
+qla82xx_flash_wait_write_finish,FUNC_6
+ha,VAR_2
+timeout,VAR_3
+done,VAR_4
+val,VAR_5
+ret,VAR_6
+vha,VAR_7

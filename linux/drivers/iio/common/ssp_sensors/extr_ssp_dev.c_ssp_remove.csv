@@ -1,0 +1,15 @@
+SSP_MSG2SSP_AP_STATUS_SHUTDOWN,VAR_0
+cancel_work_sync,FUNC_0
+del_timer_sync,FUNC_1
+dev_err,FUNC_2
+free_irq,FUNC_3
+mfd_remove_devices,FUNC_4
+mutex_destroy,FUNC_5
+spi_get_drvdata,FUNC_6
+ssp_clean_pending_list,FUNC_7
+ssp_command,FUNC_8
+ssp_disable_wdt_timer,FUNC_9
+ssp_enable_mcu,FUNC_10
+ssp_remove,FUNC_11
+spi,VAR_1
+data,VAR_2

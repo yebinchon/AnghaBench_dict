@@ -1,0 +1,12 @@
+ASC_BIOS_BANK_SIZE,VAR_0
+ASC_BIOS_MIN_ADDR,VAR_1
+ASC_IS_EISA,VAR_2
+ASC_IS_ISAPNP,VAR_3
+ASC_IS_PCI,VAR_4
+AscGetChipCfgLsw,FUNC_0
+AscGetEisaChipCfg,FUNC_1
+AscGetChipBiosAddress,FUNC_2
+iop_base,VAR_5
+bus_type,VAR_6
+cfg_lsw,VAR_7
+bios_addr,VAR_8

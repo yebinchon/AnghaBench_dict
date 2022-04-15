@@ -1,0 +1,15 @@
+EIO,VAR_0
+MOTIONSENSE_CMD_SENSOR_RANGE,VAR_1
+cros_ec_motion_send_host_cmd,FUNC_0
+cros_ec_sensors_core_write,FUNC_1
+iio_priv,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+cros_ec_baro_write,FUNC_5
+indio_dev,VAR_2
+chan,VAR_3
+val,VAR_4
+val2,VAR_5
+mask,VAR_6
+st,VAR_7
+ret,VAR_8

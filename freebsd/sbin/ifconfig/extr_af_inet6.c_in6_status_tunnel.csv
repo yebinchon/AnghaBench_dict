@@ -1,0 +1,17 @@
+AF_INET6,VAR_0
+NI_MAXHOST,VAR_1
+NI_NUMERICHOST,VAR_2
+SIOCGIFPDSTADDR_IN6,VAR_3
+SIOCGIFPSRCADDR_IN6,VAR_4
+getnameinfo,FUNC_0
+ioctl,FUNC_1
+memset,FUNC_2
+name,VAR_5
+printf,FUNC_3
+strlcpy,FUNC_4
+in6_status_tunnel,FUNC_5
+s,VAR_6
+src,VAR_7
+dst,VAR_8
+in6_ifr,VAR_9
+sa,VAR_10

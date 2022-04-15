@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+MST_IMR,VAR_2
+MST_INT_IBIR_THR,VAR_3
+MST_ISR,VAR_4
+cdns_i3c_master_end_xfer_locked,FUNC_0
+cnds_i3c_master_demux_ibis,FUNC_1
+readl,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+cdns_i3c_master_interrupt,FUNC_5
+irq,VAR_5
+data,VAR_6
+master,VAR_7
+status,VAR_8

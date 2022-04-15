@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+GET_SMU_CLOCK_INFO_V3_1_GET_CLOCK_FREQ,VAR_1
+GetIndexIntoMasterCmdTable,FUNC_0
+amdgpu_atom_execute_table,FUNC_1
+getsmuclockinfo,VAR_2
+le32_to_cpu,FUNC_2
+pp_atomfwctrl_get_clk_information_by_clkid,FUNC_3
+hwmgr,VAR_3
+clk_id,VAR_4
+syspll_id,VAR_5
+frequency,VAR_6
+adev,VAR_7
+parameters,VAR_8
+output,VAR_9
+ix,VAR_10

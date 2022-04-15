@@ -1,0 +1,13 @@
+CMD_ALIVE,VAR_0
+PS_MODE_ACTIVE,VAR_1
+PS_STATE_S0,VAR_2
+PS_STATE_S2,VAR_3
+_FW_UNDER_LINKING,VAR_4
+check_fwstate,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+r8712_set_rpwm,FUNC_3
+unregister_task_alive,FUNC_4
+r8712_unregister_cmd_alive,FUNC_5
+padapter,VAR_5
+pwrctrl,VAR_6

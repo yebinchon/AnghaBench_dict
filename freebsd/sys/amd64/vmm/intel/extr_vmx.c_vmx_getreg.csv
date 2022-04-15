@@ -1,0 +1,16 @@
+VM_REG_GUEST_INTR_SHADOW,VAR_0
+curcpu,VAR_1
+panic,FUNC_0
+vcpu_is_running,FUNC_1
+vm_name,FUNC_2
+vmcs_getreg,FUNC_3
+vmx_get_intr_shadow,FUNC_4
+vmxctx_getreg,FUNC_5
+vmx_getreg,FUNC_6
+arg,VAR_2
+vcpu,VAR_3
+reg,VAR_4
+retval,VAR_5
+running,VAR_6
+hostcpu,VAR_7
+vmx,VAR_8

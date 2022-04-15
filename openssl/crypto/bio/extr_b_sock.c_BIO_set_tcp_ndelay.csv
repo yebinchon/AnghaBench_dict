@@ -1,0 +1,8 @@
+IPPROTO_TCP,VAR_0
+SOL_TCP,VAR_1
+TCP_NODELAY,VAR_2
+setsockopt,FUNC_0
+BIO_set_tcp_ndelay,FUNC_1
+s,VAR_3
+on,VAR_4
+ret,VAR_5

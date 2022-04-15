@@ -1,0 +1,9 @@
+TEGRA_POWERGATE_SATA,VAR_0
+ahci_platform_disable_resources,FUNC_0
+clk_disable_unprepare,FUNC_1
+regulator_bulk_disable,FUNC_2
+reset_control_assert,FUNC_3
+tegra_powergate_power_off,FUNC_4
+tegra_ahci_power_off,FUNC_5
+hpriv,VAR_1
+tegra,VAR_2

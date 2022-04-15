@@ -1,0 +1,10 @@
+BPF_LRU_LIST_T_FREE,VAR_0
+IS_LOCAL_LIST_TYPE,FUNC_0
+WARN_ON_ONCE,FUNC_1
+__bpf_lru_node_move,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+bpf_lru_list_push_free,FUNC_5
+l,VAR_1
+node,VAR_2
+flags,VAR_3

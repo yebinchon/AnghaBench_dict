@@ -1,0 +1,17 @@
+MB_SCVALID,VAR_0
+MC_MBUF,VAR_1
+M_PKTHDR,VAR_2
+PKTF_PRIV_GUARDED,VAR_3
+VERIFY,FUNC_0
+lck_mtx_lock,FUNC_1
+lck_mtx_unlock,FUNC_2
+mbuf_mlock,VAR_4
+mcl_audit_buf2mca,FUNC_3
+mcl_audit_scratch,FUNC_4
+mcltrace,VAR_5
+panic_plain,FUNC_5
+m_scratch_get,FUNC_6
+m,VAR_6
+p,VAR_7
+pkt,VAR_8
+mca,VAR_9

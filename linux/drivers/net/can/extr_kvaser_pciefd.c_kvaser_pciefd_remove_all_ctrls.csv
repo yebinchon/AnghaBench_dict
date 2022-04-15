@@ -1,0 +1,10 @@
+KVASER_PCIEFD_KCAN_IEN_REG,VAR_0
+del_timer,FUNC_0
+free_candev,FUNC_1
+iowrite32,FUNC_2
+kvaser_pciefd_pwm_stop,FUNC_3
+unregister_candev,FUNC_4
+kvaser_pciefd_remove_all_ctrls,FUNC_5
+pcie,VAR_1
+can,VAR_2
+i,VAR_3

@@ -1,0 +1,16 @@
+PACKET_buf_init,FUNC_0
+PACKET_get_length_prefixed_3,FUNC_1
+PACKET_get_net_2,FUNC_2
+PACKET_remaining,FUNC_3
+TEST_false,FUNC_4
+TEST_size_t_eq,FUNC_5
+TEST_true,FUNC_6
+TEST_uint_eq,FUNC_7
+memset,FUNC_8
+test_PACKET_get_length_prefixed_3,FUNC_9
+buf1,VAR_0
+len,VAR_1
+i,VAR_2
+pkt,VAR_3
+short_pkt,VAR_4
+subpkt,VAR_5

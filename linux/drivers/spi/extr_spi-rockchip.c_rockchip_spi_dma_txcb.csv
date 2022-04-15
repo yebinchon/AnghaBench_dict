@@ -1,0 +1,12 @@
+RXDMA,VAR_0
+TXDMA,VAR_1
+atomic_fetch_andnot,FUNC_0
+spi_enable_chip,FUNC_1
+spi_finalize_current_transfer,FUNC_2
+spi_master_get_devdata,FUNC_3
+wait_for_idle,FUNC_4
+rockchip_spi_dma_txcb,FUNC_5
+data,VAR_2
+master,VAR_3
+rs,VAR_4
+state,VAR_5

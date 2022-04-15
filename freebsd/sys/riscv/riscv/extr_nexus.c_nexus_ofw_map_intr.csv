@@ -1,0 +1,15 @@
+INTR_MAP_DATA_FDT,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+intr_alloc_map_data,FUNC_0
+intr_map_irq,FUNC_1
+memcpy,FUNC_2
+nexus_ofw_map_intr,FUNC_3
+dev,VAR_3
+child,VAR_4
+iparent,VAR_5
+icells,VAR_6
+intr,VAR_7
+fdt_data,VAR_8
+len,VAR_9
+irq,VAR_10

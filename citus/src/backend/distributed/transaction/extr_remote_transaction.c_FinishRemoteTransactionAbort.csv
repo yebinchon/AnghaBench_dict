@@ -1,0 +1,15 @@
+ClearResults,FUNC_0
+GetRemoteCommandResult,FUNC_1
+HandleRemoteTransactionResultError,FUNC_2
+IsResponseOK,FUNC_3
+PQclear,FUNC_4
+REMOTE_TRANS_2PC_ABORTING,VAR_0
+REMOTE_TRANS_ABORTED,VAR_1
+ShutdownConnection,FUNC_5
+WarnAboutLeakedPreparedTransaction,FUNC_6
+FinishRemoteTransactionAbort,FUNC_7
+connection,VAR_2
+transaction,VAR_3
+raiseErrors,VAR_4
+result,VAR_5
+isCommit,VAR_6

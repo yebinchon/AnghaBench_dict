@@ -1,0 +1,17 @@
+AD5791_ADDR_CTRL,VAR_0
+AD5791_CTRL_DACTRI,VAR_1
+AD5791_CTRL_OPGND,VAR_2
+AD5791_DAC_PWRDN_3STATE,VAR_3
+AD5791_DAC_PWRDN_6K,VAR_4
+ad5791_spi_write,FUNC_0
+iio_priv,FUNC_1
+strtobool,FUNC_2
+ad5791_write_dac_powerdown,FUNC_3
+indio_dev,VAR_5
+private,VAR_6
+chan,VAR_7
+buf,VAR_8
+len,VAR_9
+pwr_down,VAR_10
+ret,VAR_11
+st,VAR_12

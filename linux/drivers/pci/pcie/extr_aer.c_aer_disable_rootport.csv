@@ -1,0 +1,11 @@
+PCI_ERR_ROOT_COMMAND,VAR_0
+PCI_ERR_ROOT_STATUS,VAR_1
+ROOT_PORT_INTR_ON_MESG_MASK,VAR_2
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+set_downstream_devices_error_reporting,FUNC_2
+aer_disable_rootport,FUNC_3
+rpc,VAR_3
+pdev,VAR_4
+reg32,VAR_5
+pos,VAR_6

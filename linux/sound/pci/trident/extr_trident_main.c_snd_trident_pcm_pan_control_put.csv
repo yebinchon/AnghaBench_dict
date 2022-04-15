@@ -1,0 +1,12 @@
+snd_ctl_get_ioffnum,FUNC_0
+snd_kcontrol_chip,FUNC_1
+snd_trident_write_pan_reg,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+snd_trident_pcm_pan_control_put,FUNC_5
+kcontrol,VAR_0
+ucontrol,VAR_1
+trident,VAR_2
+mix,VAR_3
+val,VAR_4
+change,VAR_5

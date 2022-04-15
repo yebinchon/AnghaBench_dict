@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+PPSMC_MSG_MCLKDPM_SetEnabledMask,VAR_1
+PPSMC_MSG_PCIeDPM_ForceLevel,VAR_2
+PPSMC_MSG_PCIeDPM_UnForceLevel,VAR_3
+PPSMC_MSG_SCLKDPM_SetEnabledMask,VAR_4
+ffs,FUNC_0
+fls,FUNC_1
+smum_send_msg_to_smc,FUNC_2
+smum_send_msg_to_smc_with_parameter,FUNC_3
+smu7_force_clock_level,FUNC_4
+hwmgr,VAR_5
+type,VAR_6
+mask,VAR_7
+data,VAR_8
+tmp,VAR_9

@@ -1,0 +1,9 @@
+HSSPI_INT_MASK_REG,VAR_0
+__raw_writel,FUNC_0
+clk_disable_unprepare,FUNC_1
+platform_get_drvdata,FUNC_2
+spi_master_get_devdata,FUNC_3
+bcm63xx_hsspi_remove,FUNC_4
+pdev,VAR_1
+master,VAR_2
+bs,VAR_3

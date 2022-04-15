@@ -1,0 +1,16 @@
+CACHE_OC_ADDRESS_ARRAY,VAR_0
+L1_CACHE_BYTES,VAR_1
+MAX_OCACHE_PAGES,VAR_2
+PAGE_SHIFT,VAR_3
+SH_CACHE_UPDATED,VAR_4
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+back_to_cached,FUNC_2
+current_cpu_data,VAR_5
+jump_to_uncached,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+sh2a_flush_oc_line,FUNC_6
+sh2a__flush_wback_region,FUNC_7
+start,VAR_6
+size,VAR_7

@@ -1,0 +1,17 @@
+TWS_BIT13,VAR_0
+TWS_I2O0_SCRPD3,VAR_1
+TWS_LOCAL_TIME,VAR_2
+TWS_POLL_TIMEOUT,VAR_3
+TWS_RESET,VAR_4
+device_printf,FUNC_0
+tws_drain_busy_queue,FUNC_1
+tws_drain_reserved_reqs,FUNC_2
+tws_drain_response_queue,FUNC_3
+tws_get_state,FUNC_4
+tws_read_reg,FUNC_5
+tws_reset_cb,FUNC_6
+arg,VAR_5
+sc,VAR_6
+endt,VAR_7
+found,VAR_8
+reg,VAR_9

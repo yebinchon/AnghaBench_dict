@@ -1,0 +1,14 @@
+PCI_CAP_ID_EXP,VAR_0
+pci_find_capability,FUNC_0
+pci_read_config_word,FUNC_1
+snprintf,FUNC_2
+strcat,FUNC_3
+strcpy,FUNC_4
+skd_pci_info,FUNC_5
+skdev,VAR_1
+str,VAR_2
+pcie_reg,VAR_3
+lwstr,VAR_4
+pcie_lstat,VAR_5
+lspeed,VAR_6
+lwidth,VAR_7

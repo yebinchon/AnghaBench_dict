@@ -1,0 +1,14 @@
+EIO,VAR_0
+PB_CML_FAULT_INVALID_COMMAND,VAR_1
+PB_STATUS_CML,VAR_2
+PMBUS_SKIP_STATUS_CHECK,VAR_3
+PMBUS_STATUS_CML,VAR_4
+_pmbus_read_byte_data,FUNC_0
+i2c_get_clientdata,FUNC_1
+pmbus_clear_fault_page,FUNC_2
+stub1,FUNC_3
+pmbus_check_status_register,FUNC_4
+client,VAR_5
+page,VAR_6
+status,VAR_7
+data,VAR_8

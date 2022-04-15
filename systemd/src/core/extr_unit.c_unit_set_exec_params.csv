@@ -1,0 +1,13 @@
+EXEC_CGROUP_DELEGATE,VAR_0
+EXEC_CHOWN_DIRECTORIES,VAR_1
+EXEC_PASS_LOG_UNIT,VAR_2
+MANAGER_IS_SYSTEM,FUNC_0
+SET_FLAG,FUNC_1
+assert,FUNC_2
+manager_get_confirm_spawn,FUNC_3
+manager_get_effective_environment,FUNC_4
+unit_cgroup_delegate,FUNC_5
+unit_set_exec_params,FUNC_6
+u,VAR_3
+p,VAR_4
+r,VAR_5

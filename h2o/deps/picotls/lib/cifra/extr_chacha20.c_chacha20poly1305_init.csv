@@ -1,0 +1,17 @@
+PTLS_CHACHA20POLY1305_IV_SIZE,VAR_0
+cf_chacha20_cipher,FUNC_0
+cf_chacha20_init_custom,FUNC_1
+cf_poly1305_init,FUNC_2
+cf_poly1305_update,FUNC_3
+chacha20poly1305_encrypt_pad,FUNC_4
+memcpy,FUNC_5
+memset,FUNC_6
+ptls_clear_memory,FUNC_7
+zeros64,VAR_1
+chacha20poly1305_init,FUNC_8
+_ctx,VAR_2
+iv,VAR_3
+aad,VAR_4
+aadlen,VAR_5
+ctx,VAR_6
+tmpbuf,VAR_7

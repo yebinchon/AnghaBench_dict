@@ -1,0 +1,13 @@
+ATA_IDLE_IMMED,VAR_0
+sati_ata_non_data_command,FUNC_0
+sati_cb_get_h2d_register_fis_address,FUNC_1
+sati_set_ata_command,FUNC_2
+sati_set_ata_features,FUNC_3
+sati_set_ata_lba_high,FUNC_4
+sati_set_ata_lba_low,FUNC_5
+sati_set_ata_lba_mid,FUNC_6
+sati_set_ata_sector_count,FUNC_7
+sati_ata_idle_immediate_unload_construct,FUNC_8
+ata_io,VAR_1
+sequence,VAR_2
+register_fis,VAR_3

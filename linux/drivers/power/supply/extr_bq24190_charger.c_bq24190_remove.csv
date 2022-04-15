@@ -1,0 +1,13 @@
+bq24190_register_reset,FUNC_0
+dev_warn,FUNC_1
+i2c_get_clientdata,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_dont_use_autosuspend,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+pm_runtime_put_sync,FUNC_7
+power_supply_unregister,FUNC_8
+bq24190_remove,FUNC_9
+client,VAR_0
+bdi,VAR_1
+error,VAR_2

@@ -1,0 +1,13 @@
+ENODEV,VAR_0
+PERM_READ,VAR_1
+PERM_WRITE,VAR_2
+SNDRV_SEQ_IOCTL_UNSUBSCRIBE_PORT,VAR_3
+get_mididev,FUNC_0
+memset,FUNC_1
+snd_seq_kernel_client_ctl,FUNC_2
+snd_use_lock_free,FUNC_3
+snd_seq_oss_midi_close,FUNC_4
+dp,VAR_4
+dev,VAR_5
+mdev,VAR_6
+subs,VAR_7

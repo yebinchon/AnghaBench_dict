@@ -1,0 +1,17 @@
+BUS_SPACE_BARRIER_WRITE,VAR_0
+RD4,FUNC_0
+SBT_1MS,VAR_1
+SDHCI_INT_DATA_END,VAR_2
+SDHCI_INT_RESPONSE,VAR_3
+SDHCI_INT_STATUS,VAR_4
+WR4,FUNC_1
+bus_barrier,FUNC_2
+fsl_sdhci_r1bfix_is_wait_done,FUNC_3
+getsbinuptime,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+sdhci_generic_intr,FUNC_7
+fsl_sdhci_intr,FUNC_8
+arg,VAR_5
+sc,VAR_6
+intmask,VAR_7

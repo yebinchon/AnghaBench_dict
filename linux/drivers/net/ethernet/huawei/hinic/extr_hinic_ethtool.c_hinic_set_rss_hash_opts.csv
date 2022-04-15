@@ -1,0 +1,16 @@
+EFAULT,VAR_0
+EINVAL,VAR_1
+EOPNOTSUPP,VAR_2
+HINIC_RSS_ENABLE,VAR_3
+RXH_IP_DST,VAR_4
+RXH_IP_SRC,VAR_5
+RXH_L4_B_0_1,VAR_6
+RXH_L4_B_2_3,VAR_7
+hinic_get_rss_type,FUNC_0
+hinic_set_rss_type,FUNC_1
+set_l4_rss_hash_ops,FUNC_2
+hinic_set_rss_hash_opts,FUNC_3
+nic_dev,VAR_8
+cmd,VAR_9
+rss_type,VAR_10
+err,VAR_11

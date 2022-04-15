@@ -1,0 +1,15 @@
+IPPROTO_IP,VAR_0
+PF_INET,VAR_1
+SIOCGIFINDEX,VAR_2
+SOCK_DGRAM,VAR_3
+close,FUNC_0
+ioctl,FUNC_1
+log_err_errno,FUNC_2
+memset,FUNC_3
+socket,FUNC_4
+strcpy,FUNC_5
+get_ifidx,FUNC_6
+ifname,VAR_4
+ifdata,VAR_5
+sd,VAR_6
+rc,VAR_7

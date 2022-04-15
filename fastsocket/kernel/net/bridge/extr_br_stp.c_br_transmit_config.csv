@@ -1,0 +1,14 @@
+BR_HOLD_TIME,VAR_0
+MESSAGE_AGE_INCR,VAR_1
+br_get_port,FUNC_0
+br_is_root_bridge,FUNC_1
+br_send_config_bpdu,FUNC_2
+jiffies,VAR_2
+mod_timer,FUNC_3
+round_jiffies,FUNC_4
+timer_pending,FUNC_5
+br_transmit_config,FUNC_6
+p,VAR_3
+bpdu,VAR_4
+br,VAR_5
+root,VAR_6

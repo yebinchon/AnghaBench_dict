@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+MT753X_ATTR_TYPE_MESG,VAR_1
+MT753X_CMD_REPLY,VAR_2
+mt753x_nl_list_devs,FUNC_0
+mt753x_nl_prepare_reply,FUNC_1
+mt753x_nl_send_reply,FUNC_2
+nla_put_string,FUNC_3
+nlmsg_free,FUNC_4
+pr_info,FUNC_5
+mt753x_nl_get_swdevs,FUNC_6
+info,VAR_3
+gsw,VAR_4
+rep_skb,VAR_5
+dev_info,VAR_6
+ret,VAR_7

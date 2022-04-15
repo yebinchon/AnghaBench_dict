@@ -1,0 +1,13 @@
+INIT_RCU_HEAD,FUNC_0
+SLAB_DESTROY_BY_RCU,VAR_0
+_RET_IP_,VAR_1
+__kmem_cache_free,FUNC_1
+call_rcu,FUNC_2
+kmem_rcu_free,VAR_2
+kmemleak_free_recursive,FUNC_3
+trace_kmem_cache_free,FUNC_4
+unlikely,FUNC_5
+kmem_cache_free,FUNC_6
+c,VAR_3
+b,VAR_4
+slob_rcu,VAR_5

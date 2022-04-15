@@ -1,0 +1,13 @@
+BUG,FUNC_0
+SYS_SPSR,VAR_0
+read_sysreg,FUNC_1
+read_sysreg_el1,FUNC_2
+spsr_abt,VAR_1
+spsr_fiq,VAR_2
+spsr_irq,VAR_3
+spsr_und,VAR_4
+vcpu_gp_regs,FUNC_3
+vcpu_spsr32_mode,FUNC_4
+vcpu_read_spsr32,FUNC_5
+vcpu,VAR_5
+spsr_idx,VAR_6

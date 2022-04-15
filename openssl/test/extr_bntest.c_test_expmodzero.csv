@@ -1,0 +1,16 @@
+BN_free,FUNC_0
+BN_mod_exp,FUNC_1
+BN_mod_exp_mont,FUNC_2
+BN_mod_exp_mont_consttime,FUNC_3
+BN_mod_exp_mont_word,FUNC_4
+BN_new,FUNC_5
+BN_value_one,FUNC_6
+BN_zero,FUNC_7
+TEST_BN_eq_zero,FUNC_8
+TEST_ptr,FUNC_9
+TEST_true,FUNC_10
+test_expmodzero,FUNC_11
+a,VAR_0
+r,VAR_1
+zero,VAR_2
+st,VAR_3

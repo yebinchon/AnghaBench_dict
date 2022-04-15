@@ -1,0 +1,10 @@
+BPF_PROG_RUN,VAR_0
+BPF_PROG_RUN_ARRAY,FUNC_0
+EPERM,VAR_1
+sock_cgroup_ptr,FUNC_1
+__cgroup_bpf_run_filter_sock_ops,FUNC_2
+sk,VAR_2
+sock_ops,VAR_3
+type,VAR_4
+cgrp,VAR_5
+ret,VAR_6

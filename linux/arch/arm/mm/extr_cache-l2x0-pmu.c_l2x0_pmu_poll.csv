@@ -1,0 +1,16 @@
+HRTIMER_RESTART,VAR_0
+PMU_NR_COUNTERS,VAR_1
+__l2x0_pmu_disable,FUNC_0
+__l2x0_pmu_enable,FUNC_1
+events,VAR_2
+hrtimer_forward_now,FUNC_2
+l2x0_pmu_event_configure,FUNC_3
+l2x0_pmu_event_read,FUNC_4
+l2x0_pmu_poll_period,VAR_3
+local_irq_restore,FUNC_5
+local_irq_save,FUNC_6
+l2x0_pmu_poll,FUNC_7
+hrtimer,VAR_4
+flags,VAR_5
+i,VAR_6
+event,VAR_7

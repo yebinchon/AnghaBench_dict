@@ -1,0 +1,15 @@
+AC_DIG1_ENABLE,VAR_0
+AC_VERB_GET_STREAM_FORMAT,VAR_1
+set_dig_out_convert,FUNC_0
+snd_hda_codec_read,FUNC_1
+snd_hda_codec_setup_stream,FUNC_2
+snd_hda_spdif_out_of_nid,FUNC_3
+setup_dig_out_stream,FUNC_4
+codec,VAR_2
+nid,VAR_3
+stream_tag,VAR_4
+format,VAR_5
+spdif,VAR_6
+curr_fmt,VAR_7
+reset,VAR_8
+d,VAR_9

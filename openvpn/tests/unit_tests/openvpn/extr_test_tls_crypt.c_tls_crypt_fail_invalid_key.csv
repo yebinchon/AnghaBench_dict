@@ -1,0 +1,12 @@
+BLEN,FUNC_0
+assert_false,FUNC_1
+assert_true,FUNC_2
+free_key_ctx,FUNC_3
+init_key_ctx,FUNC_4
+skip_if_tls_crypt_not_supported,FUNC_5
+tls_crypt_unwrap,FUNC_6
+tls_crypt_wrap,FUNC_7
+tls_crypt_fail_invalid_key,FUNC_8
+state,VAR_0
+ctx,VAR_1
+key,VAR_2

@@ -1,0 +1,17 @@
+LINUX_MIB_TCPRENORECOVERY,VAR_0
+LINUX_MIB_TCPSACKRECOVERY,VAR_1
+NET_INC_STATS,FUNC_0
+TCP_CA_Recovery,VAR_2
+sock_net,FUNC_1
+tcp_current_ssthresh,FUNC_2
+tcp_in_cwnd_reduction,FUNC_3
+tcp_init_cwnd_reduction,FUNC_4
+tcp_init_undo,FUNC_5
+tcp_is_reno,FUNC_6
+tcp_set_ca_state,FUNC_7
+tcp_sk,FUNC_8
+tcp_enter_recovery,FUNC_9
+sk,VAR_3
+ece_ack,VAR_4
+tp,VAR_5
+mib_idx,VAR_6

@@ -1,0 +1,16 @@
+FD_SET,FUNC_0
+FD_ZERO,FUNC_1
+LOG,FUNC_2
+SOCKET_ERROR,VAR_0
+WSAGetLastError,FUNC_3
+read_fds,VAR_1
+select,FUNC_4
+write_fds,VAR_2
+YabSockSelect,FUNC_5
+sock,VAR_3
+check_read,VAR_4
+check_write,VAR_5
+read_fds_ptr,VAR_6
+write_fds_ptr,VAR_7
+tv,VAR_8
+ret,VAR_9

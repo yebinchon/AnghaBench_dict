@@ -1,0 +1,11 @@
+LOONGSON_INTEN,VAR_0
+LOONGSON_INTENCLR,VAR_1
+PIC_MASTER_IMR,VAR_2
+PIC_SLAVE_IMR,VAR_3
+cached_bonito_irq_mask,VAR_4
+cached_master_mask,VAR_5
+cached_slave_mask,VAR_6
+inb,FUNC_0
+local_irq_disable,FUNC_1
+outb,FUNC_2
+arch_suspend_disable_irqs,FUNC_3

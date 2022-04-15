@@ -1,0 +1,14 @@
+BASE_DISCOVER_AGENT,VAR_0
+SCMI_MAX_STR_SIZE,VAR_1
+SCMI_PROTOCOL_BASE,VAR_2
+put_unaligned_le32,FUNC_0
+scmi_do_xfer,FUNC_1
+scmi_xfer_get_init,FUNC_2
+scmi_xfer_put,FUNC_3
+strlcpy,FUNC_4
+scmi_base_discover_agent_get,FUNC_5
+handle,VAR_3
+id,VAR_4
+name,VAR_5
+ret,VAR_6
+t,VAR_7

@@ -1,0 +1,12 @@
+FILE_BEGIN,VAR_0
+ReadFile,FUNC_0
+SetFilePointerEx,FUNC_1
+WindowsErrorString,FUNC_2
+uprintf,FUNC_3
+libfat_readfile,FUNC_4
+pp,VAR_1
+buf,VAR_2
+secsize,VAR_3
+sector,VAR_4
+offset,VAR_5
+bytes_read,VAR_6

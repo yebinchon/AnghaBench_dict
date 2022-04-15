@@ -1,0 +1,12 @@
+CR_CMD_START_BREAK,VAR_0
+CR_CMD_STOP_BREAK,VAR_1
+SCCNXP_CR_REG,VAR_2
+dev_get_drvdata,FUNC_0
+sccnxp_port_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+sccnxp_break_ctl,FUNC_4
+port,VAR_3
+break_state,VAR_4
+s,VAR_5
+flags,VAR_6

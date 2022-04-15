@@ -1,0 +1,11 @@
+EIO,VAR_0
+PCI_ERR_UNCOR_SEVER,VAR_1
+PCI_ERR_UNCOR_STATUS,VAR_2
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+pcie_aer_get_firmware_first,FUNC_2
+pci_cleanup_aer_uncorrect_error_status,FUNC_3
+dev,VAR_3
+pos,VAR_4
+status,VAR_5
+sev,VAR_6

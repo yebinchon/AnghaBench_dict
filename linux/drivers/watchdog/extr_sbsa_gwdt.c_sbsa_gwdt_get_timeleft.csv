@@ -1,0 +1,14 @@
+SBSA_GWDT_WCS,VAR_0
+SBSA_GWDT_WCS_WS0,VAR_1
+SBSA_GWDT_WCV,VAR_2
+SBSA_GWDT_WOR,VAR_3
+action,VAR_4
+arch_timer_read_counter,FUNC_0
+do_div,FUNC_1
+lo_hi_readq,FUNC_2
+readl,FUNC_3
+watchdog_get_drvdata,FUNC_4
+sbsa_gwdt_get_timeleft,FUNC_5
+wdd,VAR_5
+gwdt,VAR_6
+timeleft,VAR_7

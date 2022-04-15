@@ -1,0 +1,13 @@
+CTLFLAG_RW,VAR_0
+CTLTYPE_UINT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+bcm_fb_resync_sysctl,VAR_3
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+bcm_fb_sysctl_init,FUNC_4
+sc,VAR_4
+ctx,VAR_5
+tree_node,VAR_6
+tree,VAR_7

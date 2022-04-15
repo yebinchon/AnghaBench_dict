@@ -1,0 +1,17 @@
+DSI_CTRL_CMD_MODE_EN,VAR_0
+DSI_CTRL_ENABLE,VAR_1
+DSI_IRQ_MASK_CMD_DMA_DONE,VAR_2
+MIPI_DSI_MSG_USE_LPM,VAR_3
+REG_DSI_CTRL,VAR_4
+dsi_intr_ctrl,FUNC_0
+dsi_read,FUNC_1
+dsi_set_tx_power_mode,FUNC_2
+dsi_write,FUNC_3
+pm_runtime_get_sync,FUNC_4
+stub1,FUNC_5
+to_msm_dsi_host,FUNC_6
+msm_dsi_host_xfer_prepare,FUNC_7
+host,VAR_5
+msg,VAR_6
+msm_host,VAR_7
+cfg_hnd,VAR_8

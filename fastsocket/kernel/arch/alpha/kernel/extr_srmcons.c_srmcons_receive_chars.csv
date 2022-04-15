@@ -1,0 +1,14 @@
+add_timer,FUNC_0
+jiffies,VAR_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+spin_lock,FUNC_3
+spin_trylock,FUNC_4
+spin_unlock,FUNC_5
+srmcons_callback_lock,VAR_1
+srmcons_do_receive_chars,FUNC_6
+srmcons_receive_chars,FUNC_7
+data,VAR_2
+srmconsp,VAR_3
+flags,VAR_4
+incr,VAR_5

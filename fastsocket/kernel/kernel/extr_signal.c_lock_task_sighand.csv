@@ -1,0 +1,11 @@
+likely,FUNC_0
+rcu_dereference,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+unlikely,FUNC_6
+lock_task_sighand,FUNC_7
+tsk,VAR_0
+flags,VAR_1
+sighand,VAR_2

@@ -1,0 +1,15 @@
+A_GET_UNITS,VAR_0
+O_RDWR,VAR_1
+PCAP_ERRBUF_SIZE,VAR_2
+add_dev,FUNC_0
+errno,VAR_3
+get_if_flags,VAR_4
+is_dlpi_interface,VAR_5
+open,FUNC_1
+pcap_findalldevs_interfaces,FUNC_2
+pcap_fmt_errmsg_for_errno,FUNC_3
+pcap_snprintf,FUNC_4
+strioctl,FUNC_5
+pcap_platform_finddevs,FUNC_6
+devlistp,VAR_6
+errbuf,VAR_7

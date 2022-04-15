@@ -1,0 +1,13 @@
+AR_RTC_FORCE_WAKE,VAR_0
+AR_RTC_FORCE_WAKE_EN,VAR_1
+AR_RTC_FORCE_WAKE_ON_INT,VAR_2
+AR_SREV_9300_20_OR_LATER,FUNC_0
+AR_WA,VAR_3
+REG_WRITE,FUNC_1
+ath9k_hw_set_reset,FUNC_2
+ath9k_hw_set_reset_power_on,FUNC_3
+udelay,FUNC_4
+ath9k_hw_set_reset_reg,FUNC_5
+ah,VAR_4
+type,VAR_5
+ret,VAR_6

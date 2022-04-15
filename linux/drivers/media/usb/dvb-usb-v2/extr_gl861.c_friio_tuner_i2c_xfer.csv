@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+EINVAL,VAR_1
+I2C_M_RD,VAR_2
+friio_i2c_tuner_read,FUNC_0
+friio_i2c_tuner_write,FUNC_1
+i2c_get_adapdata,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+usleep_range,FUNC_5
+friio_tuner_i2c_xfer,FUNC_6
+adap,VAR_3
+msg,VAR_4
+num,VAR_5
+d,VAR_6
+i,VAR_7
+ret,VAR_8

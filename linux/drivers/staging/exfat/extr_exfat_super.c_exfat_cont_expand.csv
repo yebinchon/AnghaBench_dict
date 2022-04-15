@@ -1,0 +1,17 @@
+IS_SYNC,FUNC_0
+current_time,FUNC_1
+filemap_fdatawait_range,FUNC_2
+filemap_fdatawrite_range,FUNC_3
+generic_cont_expand_simple,FUNC_4
+i_size_read,FUNC_5
+mark_inode_dirty,FUNC_6
+sync_mapping_buffers,FUNC_7
+write_inode_now,FUNC_8
+exfat_cont_expand,FUNC_9
+inode,VAR_0
+size,VAR_1
+mapping,VAR_2
+start,VAR_3
+count,VAR_4
+err,VAR_5
+err2,VAR_6

@@ -1,0 +1,10 @@
+BUG,FUNC_0
+HYPERVISOR_vcpu_op,FUNC_1
+VCPUOP_stop_periodic_timer,VAR_0
+VCPUOP_stop_singleshot_timer,VAR_1
+WARN_ON,FUNC_2
+smp_processor_id,FUNC_3
+xen_vcpuop_set_mode,FUNC_4
+mode,VAR_2
+evt,VAR_3
+cpu,VAR_4

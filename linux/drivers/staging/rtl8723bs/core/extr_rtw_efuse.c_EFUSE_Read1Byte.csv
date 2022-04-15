@@ -1,0 +1,13 @@
+EFUSE_CTRL,VAR_0
+EFUSE_GetEfuseDefinition,FUNC_0
+EFUSE_WIFI,VAR_1
+TYPE_EFUSE_REAL_CONTENT_LEN,VAR_2
+rtw_read8,FUNC_1
+rtw_write8,FUNC_2
+EFUSE_Read1Byte,FUNC_3
+Adapter,VAR_3
+Address,VAR_4
+Bytetemp,VAR_5
+temp,VAR_6
+k,VAR_7
+contentLen,VAR_8

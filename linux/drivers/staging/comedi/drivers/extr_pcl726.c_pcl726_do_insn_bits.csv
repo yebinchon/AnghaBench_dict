@@ -1,0 +1,14 @@
+PCL726_DO_LSB_REG,VAR_0
+PCL726_DO_MSB_REG,VAR_1
+PCL727_DO_LSB_REG,VAR_2
+PCL727_DO_MSB_REG,VAR_3
+comedi_dio_update_state,FUNC_0
+outb,FUNC_1
+pcl726_do_insn_bits,FUNC_2
+dev,VAR_4
+s,VAR_5
+insn,VAR_6
+data,VAR_7
+board,VAR_8
+io,VAR_9
+mask,VAR_10

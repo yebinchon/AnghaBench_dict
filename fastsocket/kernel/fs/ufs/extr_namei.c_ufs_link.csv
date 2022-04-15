@@ -1,0 +1,14 @@
+CURRENT_TIME_SEC,VAR_0
+EMLINK,VAR_1
+UFS_LINK_MAX,VAR_2
+atomic_inc,FUNC_0
+inode_inc_link_count,FUNC_1
+lock_kernel,FUNC_2
+ufs_add_nondir,FUNC_3
+unlock_kernel,FUNC_4
+ufs_link,FUNC_5
+old_dentry,VAR_3
+dir,VAR_4
+dentry,VAR_5
+inode,VAR_6
+error,VAR_7

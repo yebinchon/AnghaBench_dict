@@ -1,0 +1,15 @@
+TPM_DIGEST_SIZE,VAR_0
+TPM_ORD_PCR_EXTEND,VAR_1
+TPM_TAG_RQU_COMMAND,VAR_2
+tpm_buf_append,FUNC_0
+tpm_buf_append_u32,FUNC_1
+tpm_buf_destroy,FUNC_2
+tpm_buf_init,FUNC_3
+tpm_transmit_cmd,FUNC_4
+tpm1_pcr_extend,FUNC_5
+chip,VAR_3
+pcr_idx,VAR_4
+hash,VAR_5
+log_msg,VAR_6
+buf,VAR_7
+rc,VAR_8

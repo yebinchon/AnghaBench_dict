@@ -1,0 +1,16 @@
+FLASH_SECTOR_SIZE,VAR_0
+MD5Final,FUNC_0
+MD5Init,FUNC_1
+MD5Update,FUNC_2
+esp_rom_spiflash_read,FUNC_3
+send_packet,FUNC_4
+do_flash_digest,FUNC_5
+addr,VAR_1
+len,VAR_2
+digest_block_size,VAR_3
+buf,VAR_4
+digest,VAR_5
+read_block_size,VAR_6
+ctx,VAR_7
+n,VAR_8
+block_ctx,VAR_9

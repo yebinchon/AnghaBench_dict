@@ -1,0 +1,17 @@
+IN_TO_REG,FUNC_0
+W83781D_REG_IN_MIN,FUNC_1
+dev_get_drvdata,FUNC_2
+kstrtol,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+to_sensor_dev_attr,FUNC_6
+w83627hf_write_value,FUNC_7
+in_min_store,FUNC_8
+dev,VAR_0
+devattr,VAR_1
+buf,VAR_2
+count,VAR_3
+nr,VAR_4
+data,VAR_5
+val,VAR_6
+err,VAR_7

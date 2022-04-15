@@ -1,0 +1,14 @@
+MEMJOURNAL_DFLT_FILECHUNKSIZE,VAR_0
+MemJournalMethods,VAR_1
+SQLITE_OK,VAR_2
+assert,FUNC_0
+fileChunkSize,FUNC_1
+memset,FUNC_2
+sqlite3OsOpen,FUNC_3
+sqlite3JournalOpen,FUNC_4
+pVfs,VAR_3
+zName,VAR_4
+pJfd,VAR_5
+flags,VAR_6
+nSpill,VAR_7
+p,VAR_8

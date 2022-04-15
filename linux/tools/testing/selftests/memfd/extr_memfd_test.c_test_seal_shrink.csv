@@ -1,0 +1,17 @@
+F_SEAL_SHRINK,VAR_0
+MFD_ALLOW_SEALING,VAR_1
+MFD_CLOEXEC,VAR_2
+close,FUNC_0
+memfd_str,VAR_3
+mfd_assert_add_seals,FUNC_1
+mfd_assert_grow,FUNC_2
+mfd_assert_grow_write,FUNC_3
+mfd_assert_has_seals,FUNC_4
+mfd_assert_new,FUNC_5
+mfd_assert_read,FUNC_6
+mfd_assert_write,FUNC_7
+mfd_def_size,VAR_4
+mfd_fail_shrink,FUNC_8
+printf,FUNC_9
+test_seal_shrink,FUNC_10
+fd,VAR_5

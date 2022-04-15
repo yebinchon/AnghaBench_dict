@@ -1,0 +1,17 @@
+i2c_get_adapdata,FUNC_0
+omap_i2c_wait_for_bb,FUNC_1
+omap_i2c_wait_for_bb_valid,FUNC_2
+omap_i2c_xfer_msg,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_mark_last_busy,FUNC_5
+pm_runtime_put_autosuspend,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+omap_i2c_xfer_common,FUNC_9
+adap,VAR_0
+msgs,VAR_1
+num,VAR_2
+polling,VAR_3
+omap,VAR_4
+i,VAR_5
+r,VAR_6

@@ -1,0 +1,10 @@
+WPA_SUPPLICANT_CLEANUP_INTERVAL,VAR_0
+ap_periodic,FUNC_0
+eloop_register_timeout,FUNC_1
+p2p_expire_peers,FUNC_2
+wpa_bss_flush_by_age,FUNC_3
+wpas_periodic,FUNC_4
+eloop_ctx,VAR_1
+timeout_ctx,VAR_2
+global,VAR_3
+wpa_s,VAR_4

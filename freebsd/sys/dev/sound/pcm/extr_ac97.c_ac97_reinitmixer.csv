@@ -1,0 +1,14 @@
+AC97_EXTCAPS,VAR_0
+AC97_F_EAPD_INV,VAR_1
+AC97_INIT,FUNC_0
+AC97_REGEXT_STAT,VAR_2
+AC97_REG_POWER,VAR_3
+ENODEV,VAR_4
+ac97_rdcd,FUNC_1
+ac97_reset,FUNC_2
+ac97_wrcd,FUNC_3
+device_printf,FUNC_4
+snd_mtxlock,FUNC_5
+snd_mtxunlock,FUNC_6
+ac97_reinitmixer,FUNC_7
+codec,VAR_5

@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+READ_ONCE,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+sk_psock,FUNC_3
+sock_owned_by_me,FUNC_4
+tcp_bpf_assert_proto_ops,FUNC_5
+tcp_bpf_check_v6_needs_rebuild,FUNC_6
+tcp_bpf_update_sk_prot,FUNC_7
+unlikely,FUNC_8
+tcp_bpf_init,FUNC_9
+sk,VAR_1
+ops,VAR_2
+psock,VAR_3

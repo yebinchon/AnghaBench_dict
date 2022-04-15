@@ -1,0 +1,17 @@
+SNVS_LPCR,VAR_0
+SNVS_LPCR_LPTA_EN,VAR_1
+SNVS_LPSR,VAR_2
+SNVS_LPSR_LPTA,VAR_3
+SNVS_LPTAR,VAR_4
+dev_get_drvdata,FUNC_0
+regmap_update_bits,FUNC_1
+regmap_write,FUNC_2
+rtc_tm_to_time64,FUNC_3
+rtc_write_sync_lp,FUNC_4
+snvs_rtc_alarm_irq_enable,FUNC_5
+snvs_rtc_set_alarm,FUNC_6
+dev,VAR_5
+alrm,VAR_6
+data,VAR_7
+time,VAR_8
+ret,VAR_9

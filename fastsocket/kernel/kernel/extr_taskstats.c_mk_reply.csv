@@ -1,0 +1,16 @@
+TASKSTATS_TYPE_AGGR_PID,VAR_0
+TASKSTATS_TYPE_AGGR_TGID,VAR_1
+TASKSTATS_TYPE_PID,VAR_2
+TASKSTATS_TYPE_STATS,VAR_3
+nla_data,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put,FUNC_3
+nla_reserve,FUNC_4
+mk_reply,FUNC_5
+skb,VAR_4
+type,VAR_5
+pid,VAR_6
+na,VAR_7
+ret,VAR_8
+aggr,VAR_9

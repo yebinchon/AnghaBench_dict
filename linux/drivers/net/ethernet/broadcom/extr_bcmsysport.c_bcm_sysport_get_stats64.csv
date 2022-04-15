@@ -1,0 +1,11 @@
+bcm_sysport_update_tx_stats,FUNC_0
+netdev_priv,FUNC_1
+netdev_stats_to_stats64,FUNC_2
+u64_stats_fetch_begin_irq,FUNC_3
+u64_stats_fetch_retry_irq,FUNC_4
+bcm_sysport_get_stats64,FUNC_5
+dev,VAR_0
+stats,VAR_1
+priv,VAR_2
+stats64,VAR_3
+start,VAR_4

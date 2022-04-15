@@ -1,0 +1,10 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+STAC_INTEL_MAC_AUTO,VAR_1
+snd_hda_apply_fixup,FUNC_0
+snd_hda_pick_fixup,FUNC_1
+stac922x_fixups,VAR_2
+stac922x_intel_mac_fixup_tbl,VAR_3
+stac922x_fixup_intel_mac_auto,FUNC_2
+codec,VAR_4
+fix,VAR_5
+action,VAR_6

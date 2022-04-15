@@ -1,0 +1,14 @@
+FB_BLANK_UNBLANK,VAR_0
+PMU_BACKLIGHT_BRIGHT,VAR_1
+PMU_POWER_CTRL,VAR_2
+PMU_POW_BACKLIGHT,VAR_3
+PMU_POW_OFF,VAR_4
+PMU_POW_ON,VAR_5
+pmu_backlight_get_level_brightness,FUNC_0
+pmu_request,FUNC_1
+pmu_wait_complete,FUNC_2
+__pmu_backlight_update_status,FUNC_3
+bd,VAR_6
+req,VAR_7
+level,VAR_8
+pmulevel,VAR_9

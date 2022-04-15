@@ -1,0 +1,9 @@
+ARM_SMMU_GR0,VAR_0
+ARM_SMMU_GR0_sTLBGSTATUS,VAR_1
+ARM_SMMU_GR0_sTLBGSYNC,VAR_2
+__arm_smmu_tlb_sync,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+arm_smmu_tlb_sync_global,FUNC_3
+smmu,VAR_3
+flags,VAR_4

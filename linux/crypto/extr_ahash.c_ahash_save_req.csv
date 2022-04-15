@@ -1,0 +1,17 @@
+CRYPTO_TFM_REQ_MAY_SLEEP,VAR_0
+ENOMEM,VAR_1
+GFP_ATOMIC,VAR_2
+GFP_KERNEL,VAR_3
+PTR_ALIGN,FUNC_0
+ahash_align_buffer_size,FUNC_1
+crypto_ahash_alignmask,FUNC_2
+crypto_ahash_digestsize,FUNC_3
+crypto_ahash_reqtfm,FUNC_4
+kmalloc,FUNC_5
+ahash_save_req,FUNC_6
+req,VAR_4
+cplt,VAR_5
+tfm,VAR_6
+alignmask,VAR_7
+ds,VAR_8
+priv,VAR_9

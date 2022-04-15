@@ -1,0 +1,11 @@
+Assert,FUNC_0
+EnterCriticalSection,FUNC_1
+LeaveCriticalSection,FUNC_2
+PG_SIGNAL_COUNT,VAR_0
+SetEvent,FUNC_3
+pg_signal_crit_sec,VAR_1
+pg_signal_queue,VAR_2
+pgwin32_signal_event,VAR_3
+sigmask,FUNC_4
+pg_queue_signal,FUNC_5
+signum,VAR_4

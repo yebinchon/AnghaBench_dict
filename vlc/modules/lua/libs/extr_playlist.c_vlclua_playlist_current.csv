@@ -1,0 +1,13 @@
+lua_pushinteger,FUNC_0
+vlc_playlist_Get,FUNC_1
+vlc_playlist_GetCurrentIndex,FUNC_2
+vlc_playlist_Lock,FUNC_3
+vlc_playlist_Unlock,FUNC_4
+vlc_playlist_item_GetId,FUNC_5
+vlclua_get_playlist_internal,FUNC_6
+vlclua_playlist_current,FUNC_7
+L,VAR_0
+playlist,VAR_1
+current,VAR_2
+id,VAR_3
+item,VAR_4

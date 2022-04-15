@@ -1,0 +1,11 @@
+HWRM_CFA_L2_SET_RX_MASK,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+hwrm_send_message,FUNC_3
+bnxt_hwrm_cfa_l2_set_rx_mask,FUNC_4
+bp,VAR_2
+vnic_id,VAR_3
+req,VAR_4
+vnic,VAR_5

@@ -1,0 +1,10 @@
+SONYPI_G10A,VAR_0
+SONYPI_IRQ_PORT,VAR_1
+SONYPI_IRQ_SHIFT,VAR_2
+inl,FUNC_0
+outl,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+sonypi_device,VAR_3
+sonypi_type1_srs,FUNC_4
+v,VAR_4

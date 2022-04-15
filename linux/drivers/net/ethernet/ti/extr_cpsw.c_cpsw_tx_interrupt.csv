@@ -1,0 +1,10 @@
+CPDMA_EOI_TX,VAR_0
+IRQ_HANDLED,VAR_1
+cpdma_ctlr_eoi,FUNC_0
+disable_irq_nosync,FUNC_1
+napi_schedule,FUNC_2
+writel,FUNC_3
+cpsw_tx_interrupt,FUNC_4
+irq,VAR_2
+dev_id,VAR_3
+cpsw,VAR_4

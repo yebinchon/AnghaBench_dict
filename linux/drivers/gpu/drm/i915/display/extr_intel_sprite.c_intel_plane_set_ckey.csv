@@ -1,0 +1,12 @@
+I915_SET_COLORKEY_DESTINATION,VAR_0
+I915_SET_COLORKEY_SOURCE,VAR_1
+INTEL_GEN,FUNC_0
+PLANE_PRIMARY,VAR_2
+to_i915,FUNC_1
+to_intel_plane,FUNC_2
+intel_plane_set_ckey,FUNC_3
+plane_state,VAR_3
+set,VAR_4
+plane,VAR_5
+dev_priv,VAR_6
+key,VAR_7

@@ -1,0 +1,17 @@
+CPU_FTR_ALTIVEC,VAR_0
+cpu_has_feature,FUNC_0
+cpumask_set_cpu,FUNC_1
+cpumask_test_cpu,FUNC_2
+inc_mm_active_cpus,FUNC_3
+membarrier_arch_switch_mm,FUNC_4
+mm_cpumask,FUNC_5
+radix_kvm_prefetch_workaround,FUNC_6
+smp_mb,FUNC_7
+smp_processor_id,FUNC_8
+switch_mm_pgdir,FUNC_9
+switch_mmu_context,FUNC_10
+switch_mm_irqs_off,FUNC_11
+prev,VAR_1
+next,VAR_2
+tsk,VAR_3
+new_on_cpu,VAR_4

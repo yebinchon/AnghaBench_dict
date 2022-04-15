@@ -1,0 +1,17 @@
+CAN_MSG_FLAG_SELF,VAR_0
+ESP_ERROR_CHECK,FUNC_0
+MSG_ID,VAR_1
+NO_OF_ITERS,VAR_2
+NO_OF_MSGS,VAR_3
+can_transmit,FUNC_1
+pdMS_TO_TICKS,FUNC_2
+portMAX_DELAY,VAR_4
+tx_sem,VAR_5
+vTaskDelay,FUNC_3
+vTaskDelete,FUNC_4
+xSemaphoreTake,FUNC_5
+can_transmit_task,FUNC_6
+arg,VAR_6
+tx_msg,VAR_7
+iter,VAR_8
+i,VAR_9

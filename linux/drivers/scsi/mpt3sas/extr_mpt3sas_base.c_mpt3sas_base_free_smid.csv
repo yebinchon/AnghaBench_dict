@@ -1,0 +1,15 @@
+_base_recovery_check,FUNC_0
+_get_st_from_smid,FUNC_1
+list_add,FUNC_2
+memset,FUNC_3
+mpt3sas_base_clear_st,FUNC_4
+mpt3sas_base_get_msg_frame,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+mpt3sas_base_free_smid,FUNC_8
+ioc,VAR_0
+smid,VAR_1
+flags,VAR_2
+i,VAR_3
+st,VAR_4
+request,VAR_5

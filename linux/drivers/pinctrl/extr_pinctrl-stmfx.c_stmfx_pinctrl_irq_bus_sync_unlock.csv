@@ -1,0 +1,17 @@
+NR_GPIO_REGS,VAR_0
+STMFX_REG_IRQ_GPI_EVT,VAR_1
+STMFX_REG_IRQ_GPI_SRC,VAR_2
+STMFX_REG_IRQ_GPI_TYPE,VAR_3
+get_mask,FUNC_0
+get_reg,FUNC_1
+gpiochip_get_data,FUNC_2
+irq_data_get_irq_chip_data,FUNC_3
+mutex_unlock,FUNC_4
+regmap_bulk_write,FUNC_5
+stmfx_gpio_get,FUNC_6
+stmfx_pinctrl_irq_bus_sync_unlock,FUNC_7
+data,VAR_4
+gpio_chip,VAR_5
+pctl,VAR_6
+reg,VAR_7
+mask,VAR_8

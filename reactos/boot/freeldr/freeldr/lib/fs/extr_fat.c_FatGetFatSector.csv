@@ -1,0 +1,11 @@
+ASSERT,FUNC_0
+FatReadVolumeSectors,FUNC_1
+TRACE,FUNC_2
+min,FUNC_3
+FatGetFatSector,FUNC_4
+Volume,VAR_0
+FatSectorNumber,VAR_1
+SectorNumAbsolute,VAR_2
+CacheIndex,VAR_3
+SectorsToRead,VAR_4
+i,VAR_5

@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+FCNVME_LS_RJT,VAR_1
+__nvme_fc_finish_ls_req,FUNC_0
+__nvme_fc_send_ls_req,FUNC_1
+nvme_fc_send_ls_req_done,VAR_2
+wait_for_completion,FUNC_2
+nvme_fc_send_ls_req,FUNC_3
+rport,VAR_3
+lsop,VAR_4
+lsreq,VAR_5
+rjt,VAR_6
+ret,VAR_7

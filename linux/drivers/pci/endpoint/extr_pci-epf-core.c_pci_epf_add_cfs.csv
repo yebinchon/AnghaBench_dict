@@ -1,0 +1,15 @@
+CONFIG_PCI_ENDPOINT_CONFIGFS,VAR_0
+INIT_LIST_HEAD,FUNC_0
+IS_ENABLED,FUNC_1
+IS_ERR,FUNC_2
+PTR_ERR,FUNC_3
+list_add_tail,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+pci_ep_cfs_add_epf_group,FUNC_7
+pci_epf_mutex,VAR_1
+pci_epf_remove_cfs,FUNC_8
+pci_epf_add_cfs,FUNC_9
+driver,VAR_2
+group,VAR_3
+id,VAR_4

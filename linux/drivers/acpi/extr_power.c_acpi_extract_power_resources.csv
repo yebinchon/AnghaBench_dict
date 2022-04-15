@@ -1,0 +1,15 @@
+ACPI_TYPE_LOCAL_REFERENCE,VAR_0
+ENODATA,VAR_1
+ENODEV,VAR_2
+acpi_add_power_resource,FUNC_0
+acpi_power_resource_is_dup,FUNC_1
+acpi_power_resources_list_add,FUNC_2
+acpi_power_resources_list_free,FUNC_3
+acpi_extract_power_resources,FUNC_4
+package,VAR_3
+start,VAR_4
+list,VAR_5
+i,VAR_6
+err,VAR_7
+element,VAR_8
+rhandle,VAR_9

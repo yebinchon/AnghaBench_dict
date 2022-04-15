@@ -1,0 +1,16 @@
+ZPOOL_CONFIG_VDEV_TREE,VAR_0
+find_pool,VAR_1
+find_vdev,FUNC_0
+nvlist_lookup_nvlist,FUNC_1
+zpool_close,FUNC_2
+zpool_get_config,FUNC_3
+zpool_iter,FUNC_4
+find_by_guid,FUNC_5
+zhdl,VAR_2
+pool_guid,VAR_3
+vdev_guid,VAR_4
+vdevp,VAR_5
+cb,VAR_6
+zhp,VAR_7
+config,VAR_8
+nvroot,VAR_9

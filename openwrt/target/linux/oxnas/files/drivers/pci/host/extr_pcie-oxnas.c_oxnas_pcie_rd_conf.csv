@@ -1,0 +1,17 @@
+PCIBIOS_DEVICE_NOT_FOUND,VAR_0
+PCIBIOS_SUCCESSFUL,VAR_1
+PCI_SLOT,FUNC_0
+oxnas_pcie_cfg_to_offset,FUNC_1
+readl_relaxed,FUNC_2
+sys_to_pcie,FUNC_3
+oxnas_pcie_rd_conf,FUNC_4
+bus,VAR_2
+devfn,VAR_3
+where,VAR_4
+size,VAR_5
+val,VAR_6
+pcie,VAR_7
+offset,VAR_8
+value,VAR_9
+left_bytes,VAR_10
+right_bytes,VAR_11

@@ -1,0 +1,9 @@
+MSR_TM_TRANSACTIONAL,FUNC_0
+MSR_TS_MASK,VAR_0
+MSR_TS_S,VAR_1
+kvmppc_get_msr,FUNC_1
+kvmppc_set_msr,FUNC_2
+kvmppc_mmu_book3s_64_reset_msr,FUNC_3
+vcpu,VAR_2
+msr,VAR_3
+cur_msr,VAR_4

@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+XFS_DIR2_BLOCK_MAGIC,VAR_0
+XFS_DIR2_DATA_MAGIC,VAR_1
+XFS_DIR3_BLOCK_MAGIC,VAR_2
+XFS_DIR3_DATA_MAGIC,VAR_3
+cpu_to_be32,FUNC_1
+stub1,FUNC_2
+xfs_trans_log_buf,FUNC_3
+xfs_dir2_data_log_entry,FUNC_4
+args,VAR_4
+bp,VAR_5
+dep,VAR_6
+hdr,VAR_7

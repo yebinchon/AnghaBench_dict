@@ -1,0 +1,13 @@
+DIVIL_LBAR_GPIO,VAR_0
+DIVIL_MSR_REG,FUNC_0
+GPIOL_OUT_EN,VAR_1
+GPIOL_OUT_VAL,VAR_2
+_rdmsr,FUNC_1
+inl,FUNC_2
+mmiowb,FUNC_3
+outl,FUNC_4
+fl2f_shutdown,FUNC_5
+hi,VAR_3
+lo,VAR_4
+val,VAR_5
+gpio_base,VAR_6

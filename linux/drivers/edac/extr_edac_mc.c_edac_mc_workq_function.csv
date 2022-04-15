@@ -1,0 +1,16 @@
+EDAC_OPSTATE_POLL,VAR_0
+OP_RUNNING_POLL,VAR_1
+edac_mc_get_poll_msec,FUNC_0
+edac_op_state,VAR_2
+edac_queue_work,FUNC_1
+mem_ctls_mutex,VAR_3
+msecs_to_jiffies,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+stub1,FUNC_5
+to_delayed_work,FUNC_6
+to_edac_mem_ctl_work,FUNC_7
+edac_mc_workq_function,FUNC_8
+work_req,VAR_4
+d_work,VAR_5
+mci,VAR_6

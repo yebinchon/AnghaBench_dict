@@ -1,0 +1,10 @@
+ATA_CMD_DEV_RESET,VAR_0
+ATA_SRST,VAR_1
+ata_tf_init,FUNC_0
+ata_tf_to_fis,FUNC_1
+hisi_sas_fill_ata_reset_cmd,FUNC_2
+dev,VAR_2
+reset,VAR_3
+pmp,VAR_4
+fis,VAR_5
+tf,VAR_6

@@ -1,0 +1,17 @@
+GFS2_EAFLAG_LAST,VAR_0
+GFS2_EATYPE_UNUSED,VAR_1
+GFS2_EA_BH2FIRST,FUNC_0
+GFS2_FORMAT_EA,VAR_2
+GFS2_METATYPE_EA,VAR_3
+GFS2_SB,FUNC_1
+brelse,FUNC_2
+cpu_to_be32,FUNC_3
+gfs2_buffer_clear_tail,FUNC_4
+gfs2_meta_new,FUNC_5
+gfs2_metatype_set,FUNC_6
+gfs2_trans_add_meta,FUNC_7
+gfs2_init_xattr,FUNC_8
+ip,VAR_4
+sdp,VAR_5
+bh,VAR_6
+ea,VAR_7

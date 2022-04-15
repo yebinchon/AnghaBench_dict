@@ -1,0 +1,16 @@
+ETH_P_IRDA,VAR_0
+IRDA_RX_COPY_THRESHOLD,VAR_1
+dev_alloc_skb,FUNC_0
+htons,FUNC_1
+netif_rx,FUNC_2
+skb_copy_to_linear_data,FUNC_3
+skb_put,FUNC_4
+skb_reserve,FUNC_5
+skb_reset_mac_header,FUNC_6
+async_bump,FUNC_7
+dev,VAR_2
+stats,VAR_3
+rx_buff,VAR_4
+newskb,VAR_5
+dataskb,VAR_6
+docopy,VAR_7

@@ -1,0 +1,12 @@
+__v4l2_async_notifier_cleanup,FUNC_0
+__v4l2_async_notifier_unregister,FUNC_1
+kfree,FUNC_2
+list_add,FUNC_3
+list_lock,VAR_0
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+v4l2_async_cleanup,FUNC_6
+v4l2_async_notifier_call_unbind,FUNC_7
+v4l2_async_unregister_subdev,FUNC_8
+sd,VAR_1
+notifier,VAR_2

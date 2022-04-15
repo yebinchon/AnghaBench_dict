@@ -1,0 +1,17 @@
+ISLDT,FUNC_0
+SEG_DESC_PRESENT,FUNC_1
+SEG_DESC_UNUSABLE,FUNC_2
+SEL_LIMIT,FUNC_3
+VM_REG_GUEST_GDTR,VAR_0
+VM_REG_GUEST_LDTR,VAR_1
+assert,FUNC_4
+vm_get_desc,FUNC_5
+desc_table_limit_check,FUNC_6
+ctx,VAR_2
+vcpu,VAR_3
+sel,VAR_4
+base,VAR_5
+limit,VAR_6
+access,VAR_7
+error,VAR_8
+reg,VAR_9

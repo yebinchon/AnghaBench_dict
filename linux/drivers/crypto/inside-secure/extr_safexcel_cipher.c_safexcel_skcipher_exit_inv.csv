@@ -1,0 +1,16 @@
+CRYPTO_TFM_REQ_MAY_BACKLOG,VAR_0
+EIP197_REQUEST_ON_STACK,FUNC_0
+EIP197_SKCIPHER_REQ_SIZE,VAR_1
+__crypto_skcipher_cast,FUNC_1
+memset,FUNC_2
+req,VAR_2
+safexcel_cipher_exit_inv,FUNC_3
+safexcel_inv_complete,VAR_3
+skcipher,VAR_4
+skcipher_request_ctx,FUNC_4
+skcipher_request_set_callback,FUNC_5
+skcipher_request_set_tfm,FUNC_6
+safexcel_skcipher_exit_inv,FUNC_7
+tfm,VAR_5
+sreq,VAR_6
+result,VAR_7

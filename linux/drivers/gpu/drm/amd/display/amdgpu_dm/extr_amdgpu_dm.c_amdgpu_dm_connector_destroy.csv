@@ -1,0 +1,17 @@
+SIGNAL_TYPE_EDP,VAR_0
+SIGNAL_TYPE_LVDS,VAR_1
+backlight_device_unregister,FUNC_0
+dc_connection_none,VAR_2
+dc_sink_release,FUNC_1
+drm_connector_cleanup,FUNC_2
+drm_connector_unregister,FUNC_3
+drm_dp_cec_unregister_connector,FUNC_4
+i2c_del_adapter,FUNC_5
+kfree,FUNC_6
+to_amdgpu_dm_connector,FUNC_7
+amdgpu_dm_connector_destroy,FUNC_8
+connector,VAR_3
+aconnector,VAR_4
+link,VAR_5
+adev,VAR_6
+dm,VAR_7

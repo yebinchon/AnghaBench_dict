@@ -1,0 +1,15 @@
+PHYS_TO_DMAP,FUNC_0
+VM_PAGE_TO_PHYS,FUNC_1
+bzero,FUNC_2
+mmu_booke_kenter,FUNC_3
+mmu_booke_kremove,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+zero_page_mutex,VAR_0
+zero_page_va,VAR_1
+mmu_booke_zero_page_area,FUNC_7
+mmu,VAR_2
+m,VAR_3
+off,VAR_4
+size,VAR_5
+va,VAR_6

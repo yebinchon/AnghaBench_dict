@@ -1,0 +1,11 @@
+QIB_CHASE_DIS_TIME,VAR_0
+QLOGIC_IB_IBCC_LINKCMD_DOWN,VAR_1
+QLOGIC_IB_IBCC_LINKINITCMD_DISABLE,VAR_2
+add_timer,FUNC_0
+jiffies,VAR_3
+qib_chase,VAR_4
+qib_set_ib_7322_lstate,FUNC_1
+disable_chase,FUNC_2
+ppd,VAR_5
+tnow,VAR_6
+ibclt,VAR_7

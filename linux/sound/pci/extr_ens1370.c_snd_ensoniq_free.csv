@@ -1,0 +1,16 @@
+CONTROL,VAR_0
+ES_1370_SERR_DISABLE,VAR_1
+ES_REG,FUNC_0
+PCI_D3hot,VAR_2
+SERIAL,VAR_3
+free_irq,FUNC_1
+kfree,FUNC_2
+outl,FUNC_3
+pci_disable_device,FUNC_4
+pci_release_regions,FUNC_5
+pci_set_power_state,FUNC_6
+snd_dma_free_pages,FUNC_7
+snd_ensoniq_free_gameport,FUNC_8
+synchronize_irq,FUNC_9
+snd_ensoniq_free,FUNC_10
+ensoniq,VAR_4

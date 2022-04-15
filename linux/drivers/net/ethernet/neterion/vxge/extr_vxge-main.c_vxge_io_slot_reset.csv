@@ -1,0 +1,14 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_RECOVERED,VAR_1
+VXGE_LL_FULL_RESET,VAR_2
+do_vxge_reset,FUNC_0
+netdev_err,FUNC_1
+netdev_priv,FUNC_2
+pci_enable_device,FUNC_3
+pci_get_drvdata,FUNC_4
+pci_set_master,FUNC_5
+vxge_io_slot_reset,FUNC_6
+pdev,VAR_3
+hldev,VAR_4
+netdev,VAR_5
+vdev,VAR_6

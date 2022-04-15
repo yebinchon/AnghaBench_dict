@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+bus_generic_activate_resource,FUNC_0
+bus_space_map,FUNC_1
+rman_activate_resource,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+rman_get_size,FUNC_5
+rman_set_bushandle,FUNC_6
+octopci_activate_resource,FUNC_7
+bus,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+res,VAR_5
+bh,VAR_6
+error,VAR_7

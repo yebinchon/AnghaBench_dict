@@ -1,0 +1,12 @@
+FALSE,VAR_0
+INTERPROCESSOR,VAR_1
+LAPIC_ICR_DM_NMI,VAR_2
+LAPIC_VECTOR,FUNC_0
+LAPIC_WRITE_ICR,FUNC_1
+NMIPIs_enabled,VAR_3
+cpu_to_lapic,VAR_4
+i386_cpu_IPI,FUNC_2
+ml_set_interrupts_enabled,FUNC_3
+i386_send_NMI,FUNC_4
+cpu,VAR_5
+state,VAR_6

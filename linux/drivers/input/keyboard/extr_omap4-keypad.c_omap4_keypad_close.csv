@@ -1,0 +1,14 @@
+OMAP4_KBD_IRQENABLE,VAR_0
+OMAP4_KBD_IRQSTATUS,VAR_1
+OMAP4_KBD_WAKEUPENABLE,VAR_2
+OMAP4_VAL_IRQDISABLE,VAR_3
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+input_get_drvdata,FUNC_2
+kbd_read_irqreg,FUNC_3
+kbd_write_irqreg,FUNC_4
+kbd_writel,FUNC_5
+pm_runtime_put_sync,FUNC_6
+omap4_keypad_close,FUNC_7
+input,VAR_4
+keypad_data,VAR_5

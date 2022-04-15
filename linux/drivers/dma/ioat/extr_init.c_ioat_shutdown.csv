@@ -1,0 +1,14 @@
+IOAT_CHAN_DOWN,VAR_0
+IOAT_MAX_CHANS,VAR_1
+del_timer_sync,FUNC_0
+ioat_disable_interrupts,FUNC_1
+ioat_reset_hw,FUNC_2
+pci_get_drvdata,FUNC_3
+set_bit,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+ioat_shutdown,FUNC_7
+pdev,VAR_2
+ioat_dma,VAR_3
+ioat_chan,VAR_4
+i,VAR_5

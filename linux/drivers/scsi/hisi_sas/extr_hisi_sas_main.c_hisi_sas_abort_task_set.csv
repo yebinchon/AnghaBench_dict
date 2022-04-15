@@ -1,0 +1,17 @@
+HISI_SAS_INT_ABT_DEV,VAR_0
+TMF_ABORT_TASK_SET,VAR_1
+TMF_RESP_FUNC_COMPLETE,VAR_2
+TMF_RESP_FUNC_FAILED,VAR_3
+dev_err,FUNC_0
+dev_to_hisi_hba,FUNC_1
+hisi_sas_debug_issue_ssp_tmf,FUNC_2
+hisi_sas_dereg_device,FUNC_3
+hisi_sas_internal_task_abort,FUNC_4
+hisi_sas_release_task,FUNC_5
+hisi_sas_abort_task_set,FUNC_6
+device,VAR_4
+lun,VAR_5
+hisi_hba,VAR_6
+dev,VAR_7
+tmf_task,VAR_8
+rc,VAR_9

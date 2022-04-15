@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+WPI_TXQ_LOCK,FUNC_0
+WPI_TXQ_UNLOCK,FUNC_1
+WPI_TX_RING_COUNT,VAR_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+ieee80211_node_decref,FUNC_4
+m_freem,FUNC_5
+wpi_free_txfrags,FUNC_6
+sc,VAR_2
+ac,VAR_3
+ring,VAR_4
+data,VAR_5
+cur,VAR_6

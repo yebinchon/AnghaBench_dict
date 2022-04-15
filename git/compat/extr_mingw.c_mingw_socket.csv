@@ -1,0 +1,17 @@
+INVALID_SOCKET,VAR_0
+O_BINARY,VAR_1
+O_RDWR,VAR_2
+WSAGetLastError,FUNC_0
+WSASocket,FUNC_1
+_open_osfhandle,FUNC_2
+closesocket,FUNC_3
+ensure_socket_initialization,FUNC_4
+errno,VAR_3
+error,FUNC_5
+strerror,FUNC_6
+mingw_socket,FUNC_7
+domain,VAR_4
+type,VAR_5
+protocol,VAR_6
+sockfd,VAR_7
+s,VAR_8

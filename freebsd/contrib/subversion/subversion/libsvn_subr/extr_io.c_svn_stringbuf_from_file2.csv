@@ -1,0 +1,17 @@
+APR_OS_DEFAULT,VAR_0
+APR_READ,VAR_1
+FALSE,VAR_2
+SVN_ERR,FUNC_0
+TRUE,VAR_3
+_,FUNC_1
+apr_file_open_stdin,FUNC_2
+stringbuf_from_aprfile,FUNC_3
+svn_error_wrap_apr,FUNC_4
+svn_io_file_close,FUNC_5
+svn_io_file_open,FUNC_6
+svn_stringbuf_from_file2,FUNC_7
+result,VAR_4
+filename,VAR_5
+pool,VAR_6
+f,VAR_7
+apr_err,VAR_8

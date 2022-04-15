@@ -1,0 +1,16 @@
+CHACHA_KEY_SIZE,VAR_0
+CRNG_INIT_CNT_THRESH,VAR_1
+crng_init,VAR_2
+crng_init_cnt,VAR_3
+crng_init_wait,VAR_4
+invalidate_batched_entropy,FUNC_0
+pr_notice,FUNC_1
+primary_crng,VAR_5
+spin_trylock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wake_up_interruptible,FUNC_4
+crng_fast_load,FUNC_5
+cp,VAR_6
+len,VAR_7
+flags,VAR_8
+p,VAR_9

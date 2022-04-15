@@ -1,0 +1,11 @@
+PERM_READ,VAR_0
+PERM_WRITE,VAR_1
+SNDRV_SEQ_OSS_FILE_READ,VAR_2
+SNDRV_SEQ_OSS_FILE_WRITE,VAR_3
+get_mididev,FUNC_0
+snd_use_lock_free,FUNC_1
+snd_seq_oss_midi_filemode,FUNC_2
+dp,VAR_4
+dev,VAR_5
+mdev,VAR_6
+mode,VAR_7

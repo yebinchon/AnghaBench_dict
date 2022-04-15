@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+BTRFS_RBIO_PARITY_SCRUB,VAR_0
+IS_ERR,FUNC_1
+PAGE_SIZE,VAR_1
+alloc_rbio,FUNC_2
+bio_list_add,FUNC_3
+bitmap_copy,FUNC_4
+raid56_parity_alloc_scrub_rbio,FUNC_5
+fs_info,VAR_2
+bio,VAR_3
+bbio,VAR_4
+stripe_len,VAR_5
+scrub_dev,VAR_6
+dbitmap,VAR_7
+stripe_nsectors,VAR_8
+rbio,VAR_9
+i,VAR_10

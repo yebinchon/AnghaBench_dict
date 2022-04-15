@@ -1,0 +1,15 @@
+ETH_P_8021Q,VAR_0
+ETH_ZLEN,VAR_1
+FE_FLAG_PADDING_64B,VAR_2
+FE_FLAG_PADDING_BUG,VAR_3
+VLAN_ETH_ZLEN,VAR_4
+cpu_to_be16,FUNC_0
+skb_pad,FUNC_1
+skb_set_tail_pointer,FUNC_2
+skb_vlan_tag_present,FUNC_3
+unlikely,FUNC_4
+fe_skb_padto,FUNC_5
+skb,VAR_5
+priv,VAR_6
+len,VAR_7
+ret,VAR_8

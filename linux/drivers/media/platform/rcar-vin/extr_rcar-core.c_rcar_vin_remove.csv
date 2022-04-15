@@ -1,0 +1,13 @@
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_disable,FUNC_3
+rvin_dma_unregister,FUNC_4
+rvin_group_put,FUNC_5
+rvin_v4l2_unregister,FUNC_6
+v4l2_async_notifier_cleanup,FUNC_7
+v4l2_async_notifier_unregister,FUNC_8
+v4l2_ctrl_handler_free,FUNC_9
+rcar_vin_remove,FUNC_10
+pdev,VAR_0
+vin,VAR_1

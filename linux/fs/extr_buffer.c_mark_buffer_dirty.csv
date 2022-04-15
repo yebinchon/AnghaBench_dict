@@ -1,0 +1,17 @@
+I_DIRTY_PAGES,VAR_0
+TestSetPageDirty,FUNC_0
+WARN_ON_ONCE,FUNC_1
+__mark_inode_dirty,FUNC_2
+__set_page_dirty,FUNC_3
+buffer_dirty,FUNC_4
+buffer_uptodate,FUNC_5
+lock_page_memcg,FUNC_6
+page_mapping,FUNC_7
+smp_mb,FUNC_8
+test_set_buffer_dirty,FUNC_9
+trace_block_dirty_buffer,FUNC_10
+unlock_page_memcg,FUNC_11
+mark_buffer_dirty,FUNC_12
+bh,VAR_1
+page,VAR_2
+mapping,VAR_3

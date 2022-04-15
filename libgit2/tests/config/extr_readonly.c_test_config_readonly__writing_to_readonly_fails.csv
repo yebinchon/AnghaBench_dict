@@ -1,0 +1,12 @@
+GIT_CONFIG_LEVEL_GLOBAL,VAR_0
+GIT_ENOTFOUND,VAR_1
+cfg,VAR_2
+cl_assert,FUNC_0
+cl_git_fail_with,FUNC_1
+cl_git_pass,FUNC_2
+git_config_add_backend,FUNC_3
+git_config_backend_from_file,FUNC_4
+git_config_set_string,FUNC_5
+git_path_exists,FUNC_6
+test_config_readonly__writing_to_readonly_fails,FUNC_7
+backend,VAR_3

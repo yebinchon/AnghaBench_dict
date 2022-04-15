@@ -1,0 +1,17 @@
+KEY_ON_MEM_SZ,VAR_0
+TX_TLSHDR_LEN,VAR_1
+ULPCB_FLAG_NEED_HDR,VAR_2
+ULP_SKB_CB,FUNC_0
+alloc_skb,FUNC_1
+likely,FUNC_2
+max_ivs_size,FUNC_3
+rcu_dereference_sk_user_data,FUNC_4
+skb_entail,FUNC_5
+skb_reserve,FUNC_6
+skb_reset_transport_header,FUNC_7
+get_record_skb,FUNC_8
+sk,VAR_3
+size,VAR_4
+zcopy,VAR_5
+csk,VAR_6
+skb,VAR_7

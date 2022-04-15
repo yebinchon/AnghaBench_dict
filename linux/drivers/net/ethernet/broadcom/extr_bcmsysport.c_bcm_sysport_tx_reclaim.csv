@@ -1,0 +1,11 @@
+__bcm_sysport_tx_reclaim,FUNC_0
+netdev_get_tx_queue,FUNC_1
+netif_tx_wake_queue,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bcm_sysport_tx_reclaim,FUNC_5
+priv,VAR_0
+ring,VAR_1
+txq,VAR_2
+released,VAR_3
+flags,VAR_4

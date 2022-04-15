@@ -1,0 +1,14 @@
+CLOCK_MONOTONIC,VAR_0
+SD_EVENT_ONESHOT,VAR_1
+UNIT,FUNC_0
+USEC_INFINITY,VAR_2
+assert,FUNC_1
+sd_event_add_time,FUNC_2
+sd_event_source_set_description,FUNC_3
+sd_event_source_set_enabled,FUNC_4
+sd_event_source_set_time,FUNC_5
+swap_dispatch_timer,VAR_3
+swap_arm_timer,FUNC_6
+s,VAR_4
+usec,VAR_5
+r,VAR_6

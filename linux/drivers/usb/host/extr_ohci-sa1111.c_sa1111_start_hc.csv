@@ -1,0 +1,17 @@
+USB_RESET,VAR_0
+USB_RESET_FORCEHCRESET,VAR_1
+USB_RESET_FORCEIFRESET,VAR_2
+USB_RESET_PWRCTRLLOW,VAR_3
+USB_RESET_PWRSENSELOW,VAR_4
+dev_dbg,FUNC_0
+machine_is_assabet,FUNC_1
+machine_is_badge4,FUNC_2
+machine_is_pfs168,FUNC_3
+machine_is_xp860,FUNC_4
+sa1111_enable_device,FUNC_5
+udelay,FUNC_6
+writel_relaxed,FUNC_7
+sa1111_start_hc,FUNC_8
+dev,VAR_5
+usb_rst,VAR_6
+ret,VAR_7

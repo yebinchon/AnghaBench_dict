@@ -1,0 +1,13 @@
+adapter_delete_cq,FUNC_0
+adapter_delete_sq,FUNC_1
+free_irq,FUNC_2
+irq_set_affinity_hint,FUNC_3
+nvme_cancel_ios,FUNC_4
+nvme_process_cq,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+nvme_disable_queue,FUNC_8
+dev,VAR_0
+qid,VAR_1
+nvmeq,VAR_2
+vector,VAR_3

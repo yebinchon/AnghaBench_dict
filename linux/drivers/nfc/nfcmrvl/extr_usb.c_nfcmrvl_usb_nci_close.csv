@@ -1,0 +1,12 @@
+NFCMRVL_USB_BULK_RUNNING,VAR_0
+cancel_work_sync,FUNC_0
+clear_bit,FUNC_1
+nfcmrvl_usb_stop_traffic,FUNC_2
+usb_autopm_get_interface,FUNC_3
+usb_autopm_put_interface,FUNC_4
+usb_kill_anchored_urbs,FUNC_5
+usb_scuttle_anchored_urbs,FUNC_6
+nfcmrvl_usb_nci_close,FUNC_7
+priv,VAR_1
+drv_data,VAR_2
+err,VAR_3

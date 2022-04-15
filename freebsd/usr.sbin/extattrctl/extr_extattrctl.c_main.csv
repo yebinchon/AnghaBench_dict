@@ -1,0 +1,16 @@
+UFS_EXTATTR_CMD_DISABLE,VAR_0
+UFS_EXTATTR_CMD_ENABLE,VAR_1
+UFS_EXTATTR_CMD_START,VAR_2
+UFS_EXTATTR_CMD_STOP,VAR_3
+extattr_string_to_namespace,FUNC_0
+extattrctl,FUNC_1
+initattr,FUNC_2
+perror,FUNC_3
+showattr,FUNC_4
+strcmp,FUNC_5
+usage,FUNC_6
+main,FUNC_7
+argc,VAR_4
+argv,VAR_5
+error,VAR_6
+attrnamespace,VAR_7

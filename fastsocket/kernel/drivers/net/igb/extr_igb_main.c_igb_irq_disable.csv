@@ -1,0 +1,14 @@
+E1000_EIAC,VAR_0
+E1000_EIAM,VAR_1
+E1000_EIMC,VAR_2
+E1000_IAM,VAR_3
+E1000_IMC,VAR_4
+rd32,FUNC_0
+synchronize_irq,FUNC_1
+wr32,FUNC_2
+wrfl,FUNC_3
+igb_irq_disable,FUNC_4
+adapter,VAR_5
+hw,VAR_6
+regval,VAR_7
+i,VAR_8

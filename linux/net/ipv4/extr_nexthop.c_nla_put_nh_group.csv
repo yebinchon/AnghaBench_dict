@@ -1,0 +1,15 @@
+EMSGSIZE,VAR_0
+NEXTHOP_GRP_TYPE_MPATH,VAR_1
+NHA_GROUP,VAR_2
+NHA_GROUP_TYPE,VAR_3
+nla_data,FUNC_0
+nla_put_u16,FUNC_1
+nla_reserve,FUNC_2
+nla_put_nh_group,FUNC_3
+skb,VAR_4
+nhg,VAR_5
+p,VAR_6
+len,VAR_7
+nla,VAR_8
+group_type,VAR_9
+i,VAR_10

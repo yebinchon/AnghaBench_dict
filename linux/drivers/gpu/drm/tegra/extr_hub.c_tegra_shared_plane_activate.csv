@@ -1,0 +1,15 @@
+COMMON_ACTREQ,VAR_0
+DC_CMD_STATE_CONTROL,VAR_1
+WIN_A_ACT_REQ,VAR_2
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_0
+tegra_dc_readl,FUNC_1
+tegra_dc_writel,FUNC_2
+time_before,FUNC_3
+usleep_range,FUNC_4
+tegra_shared_plane_activate,FUNC_5
+plane,VAR_4
+dc,VAR_5
+timeout,VAR_6
+mask,VAR_7
+value,VAR_8

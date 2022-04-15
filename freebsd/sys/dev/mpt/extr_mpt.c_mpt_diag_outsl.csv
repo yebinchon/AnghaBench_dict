@@ -1,0 +1,13 @@
+MPT_OFFSET_DIAG_ADDR,VAR_0
+MPT_OFFSET_DIAG_DATA,VAR_1
+SYS_RES_IOPORT,VAR_2
+mpt_pio_write,FUNC_0
+pci_disable_io,FUNC_1
+pci_enable_io,FUNC_2
+roundup2,FUNC_3
+mpt_diag_outsl,FUNC_4
+mpt,VAR_3
+addr,VAR_4
+data,VAR_5
+len,VAR_6
+data_end,VAR_7

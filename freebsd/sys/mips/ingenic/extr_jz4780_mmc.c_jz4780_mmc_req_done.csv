@@ -1,0 +1,14 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+MMC_DATA_WRITE,VAR_2
+MMC_ERR_NONE,VAR_3
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+callout_stop,FUNC_2
+jz4780_mmc_reset,FUNC_3
+stub1,FUNC_4
+jz4780_mmc_req_done,FUNC_5
+sc,VAR_4
+cmd,VAR_5
+req,VAR_6
+sync_op,VAR_7

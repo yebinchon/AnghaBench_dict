@@ -1,0 +1,14 @@
+OP_LOCKT,VAR_0
+cpu_to_be32,FUNC_0
+decode_lockt_maxsz,VAR_1
+encode_lockowner,FUNC_1
+encode_op_hdr,FUNC_2
+nfs4_lock_length,FUNC_3
+nfs4_lock_type,FUNC_4
+reserve_space,FUNC_5
+xdr_encode_hyper,FUNC_6
+encode_lockt,FUNC_7
+xdr,VAR_2
+args,VAR_3
+hdr,VAR_4
+p,VAR_5

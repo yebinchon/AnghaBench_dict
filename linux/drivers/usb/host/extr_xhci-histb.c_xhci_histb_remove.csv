@@ -1,0 +1,15 @@
+XHCI_STATE_REMOVING,VAR_0
+device_wakeup_disable,FUNC_0
+hcd_to_xhci,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_put_sync,FUNC_4
+usb_put_hcd,FUNC_5
+usb_remove_hcd,FUNC_6
+xhci_histb_host_disable,FUNC_7
+xhci_histb_remove,FUNC_8
+dev,VAR_1
+histb,VAR_2
+hcd,VAR_3
+xhci,VAR_4
+shared_hcd,VAR_5

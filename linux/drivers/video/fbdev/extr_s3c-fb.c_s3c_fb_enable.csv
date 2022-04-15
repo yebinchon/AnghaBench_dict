@@ -1,0 +1,11 @@
+VIDCON0,VAR_0
+VIDCON0_ENVID,VAR_1
+VIDCON0_ENVID_F,VAR_2
+pm_runtime_get_sync,FUNC_0
+pm_runtime_put_sync,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+s3c_fb_enable,FUNC_4
+sfb,VAR_3
+enable,VAR_4
+vidcon0,VAR_5

@@ -1,0 +1,12 @@
+MEASUREMENT_REPORT_MODE_REJECT_REFUSED,VAR_0
+MEASURE_TYPE_BEACON,VAR_1
+MSG_ERROR,VAR_2
+is_multicast_ether_addr,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_free,FUNC_2
+wpas_clear_beacon_rep_data,FUNC_3
+wpas_rrm_report_elem,FUNC_4
+wpas_rrm_send_msr_report,FUNC_5
+wpas_rrm_refuse_request,FUNC_6
+wpa_s,VAR_3
+buf,VAR_4

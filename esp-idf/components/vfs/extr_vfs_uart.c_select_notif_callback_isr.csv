@@ -1,0 +1,14 @@
+FD_ISSET,FUNC_0
+FD_SET,FUNC_1
+esp_vfs_select_triggered_isr,FUNC_2
+portENTER_CRITICAL_ISR,FUNC_3
+portEXIT_CRITICAL_ISR,FUNC_4
+s_registered_select_lock,VAR_0
+s_registered_select_num,VAR_1
+s_registered_selects,VAR_2
+select_notif_callback_isr,FUNC_5
+uart_num,VAR_3
+uart_select_notif,VAR_4
+task_woken,VAR_5
+i,VAR_6
+args,VAR_7

@@ -1,0 +1,12 @@
+mxcmci_finish_data,FUNC_0
+mxcmci_finish_request,FUNC_1
+mxcmci_read_response,FUNC_2
+mxcmci_start_cmd,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+mxcmci_data_done,FUNC_6
+host,VAR_0
+stat,VAR_1
+req,VAR_2
+data_error,VAR_3
+flags,VAR_4

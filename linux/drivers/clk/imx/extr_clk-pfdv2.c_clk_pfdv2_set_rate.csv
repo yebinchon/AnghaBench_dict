@@ -1,0 +1,17 @@
+CLK_PFDV2_FRAC_MASK,VAR_0
+do_div,FUNC_0
+pfd_lock,VAR_1
+readl_relaxed,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_clk_pfdv2,FUNC_4
+writel_relaxed,FUNC_5
+clk_pfdv2_set_rate,FUNC_6
+hw,VAR_2
+rate,VAR_3
+parent_rate,VAR_4
+pfd,VAR_5
+flags,VAR_6
+tmp,VAR_7
+val,VAR_8
+frac,VAR_9

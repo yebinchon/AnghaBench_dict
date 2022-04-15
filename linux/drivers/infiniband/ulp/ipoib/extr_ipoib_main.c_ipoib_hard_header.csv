@@ -1,0 +1,12 @@
+IPOIB_HARD_LEN,VAR_0
+htons,FUNC_0
+push_pseudo_header,FUNC_1
+skb_push,FUNC_2
+ipoib_hard_header,FUNC_3
+skb,VAR_1
+dev,VAR_2
+type,VAR_3
+daddr,VAR_4
+saddr,VAR_5
+len,VAR_6
+header,VAR_7

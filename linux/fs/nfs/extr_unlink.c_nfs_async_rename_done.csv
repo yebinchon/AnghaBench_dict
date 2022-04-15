@@ -1,0 +1,12 @@
+NFS_PROTO,FUNC_0
+rpc_restart_call_prepare,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+trace_nfs_sillyrename_rename,FUNC_4
+nfs_async_rename_done,FUNC_5
+task,VAR_0
+calldata,VAR_1
+data,VAR_2
+old_dir,VAR_3
+new_dir,VAR_4
+old_dentry,VAR_5

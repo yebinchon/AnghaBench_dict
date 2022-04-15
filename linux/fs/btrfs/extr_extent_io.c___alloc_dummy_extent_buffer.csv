@@ -1,0 +1,17 @@
+EXTENT_BUFFER_UNMAPPED,VAR_0
+GFP_NOFS,VAR_1
+__alloc_extent_buffer,FUNC_0
+__free_extent_buffer,FUNC_1
+__free_page,FUNC_2
+alloc_page,FUNC_3
+btrfs_set_header_nritems,FUNC_4
+num_extent_pages,FUNC_5
+set_bit,FUNC_6
+set_extent_buffer_uptodate,FUNC_7
+__alloc_dummy_extent_buffer,FUNC_8
+fs_info,VAR_2
+start,VAR_3
+len,VAR_4
+eb,VAR_5
+num_pages,VAR_6
+i,VAR_7

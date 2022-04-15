@@ -1,0 +1,15 @@
+EFAULT,VAR_0
+EINVAL,VAR_1
+EJUSTRETURN,VAR_2
+SIG_SETMASK,VAR_3
+SSTATUS_SPP,VAR_4
+copyin,FUNC_0
+kern_sigprocmask,FUNC_1
+set_fpcontext,FUNC_2
+set_mcontext,FUNC_3
+sys_sigreturn,FUNC_4
+td,VAR_5
+uap,VAR_6
+sstatus,VAR_7
+uc,VAR_8
+error,VAR_9

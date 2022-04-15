@@ -1,0 +1,15 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+GIT_CHECKOUT_SKIP_LOCKED_DIRECTORIES,VAR_2
+GIT_OBJECT_ANY,VAR_3
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_4
+git_checkout_tree,FUNC_2
+git_object_free,FUNC_3
+git_object_lookup,FUNC_4
+git_path_is_empty_dir,FUNC_5
+git_path_isfile,FUNC_6
+git_reference_name_to_id,FUNC_7
+p_chdir,FUNC_8
+test_checkout_tree__can_continue_when_dir_in_use,FUNC_9

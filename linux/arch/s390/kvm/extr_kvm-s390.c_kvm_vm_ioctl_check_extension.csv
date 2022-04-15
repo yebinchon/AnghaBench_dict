@@ -1,0 +1,15 @@
+KVM_MAX_VCPUS,VAR_0
+KVM_S390_BSCA_CPU_SLOTS,VAR_1
+KVM_S390_ESCA_CPU_SLOTS,VAR_2
+MACHINE_HAS_ESOP,VAR_3
+MACHINE_HAS_VX,VAR_4
+MEM_OP_MAX_SIZE,VAR_5
+hpage,VAR_6
+kvm_is_ucontrol,FUNC_0
+kvm_s390_use_sca_entries,FUNC_1
+sclp,VAR_7
+test_facility,FUNC_2
+kvm_vm_ioctl_check_extension,FUNC_3
+kvm,VAR_8
+ext,VAR_9
+r,VAR_10

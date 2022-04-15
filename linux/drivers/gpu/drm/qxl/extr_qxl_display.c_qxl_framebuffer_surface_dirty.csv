@@ -1,0 +1,17 @@
+DRM_MODE_FB_DIRTY_ANNOTATE_COPY,VAR_0
+drm_modeset_lock_all,FUNC_0
+drm_modeset_unlock_all,FUNC_1
+gem_to_qxl_bo,FUNC_2
+qxl_draw_dirty_fb,FUNC_3
+qxl_framebuffer_surface_dirty,FUNC_4
+fb,VAR_1
+file_priv,VAR_2
+flags,VAR_3
+color,VAR_4
+clips,VAR_5
+num_clips,VAR_6
+qdev,VAR_7
+norect,VAR_8
+qobj,VAR_9
+is_primary,VAR_10
+inc,VAR_11

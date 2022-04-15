@@ -1,0 +1,14 @@
+ENA_INFO,VAR_0
+ENA_IOQ,VAR_1
+ENA_IO_IRQ_FIRST_IDX,VAR_2
+SYS_RES_IRQ,VAR_3
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_printf,FUNC_2
+ena_trace,FUNC_3
+unlikely,FUNC_4
+ena_free_io_irq,FUNC_5
+adapter,VAR_4
+irq,VAR_5
+rc,VAR_6
+i,VAR_7

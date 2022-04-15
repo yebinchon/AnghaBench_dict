@@ -1,0 +1,16 @@
+XFER_PIO_0,VAR_0
+ht6560b_lock,VAR_1
+ht_pio2timings,FUNC_0
+ht_set_prefetch,FUNC_1
+ide_get_drivedata,FUNC_2
+ide_set_drivedata,FUNC_3
+printk,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ht6560b_set_pio_mode,FUNC_7
+hwif,VAR_2
+drive,VAR_3
+flags,VAR_4
+config,VAR_5
+pio,VAR_6
+timing,VAR_7

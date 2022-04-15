@@ -1,0 +1,14 @@
+FCF_REDISC_EVT,VAR_0
+FCF_REDISC_FOV,VAR_1
+KERN_ERR,VAR_2
+KERN_INFO,VAR_3
+LOG_DISCOVERY,VAR_4
+LOG_FIP,VAR_5
+LPFC_FCOE_FCF_GET_FIRST,VAR_6
+lpfc_printf_log,FUNC_0
+lpfc_sli4_fcf_scan_read_fcf_rec,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+lpfc_sli4_fcf_redisc_event_proc,FUNC_4
+phba,VAR_7
+rc,VAR_8

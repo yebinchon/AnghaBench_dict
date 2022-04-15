@@ -1,0 +1,17 @@
+AV_RL16,FUNC_0
+av_clip_int16,FUNC_1
+cinaudio_delta16_table,VAR_0
+ff_get_buffer,FUNC_2
+sign_extend,FUNC_3
+cinaudio_decode_frame,FUNC_4
+avctx,VAR_1
+data,VAR_2
+got_frame_ptr,VAR_3
+avpkt,VAR_4
+frame,VAR_5
+buf,VAR_6
+cin,VAR_7
+buf_end,VAR_8
+samples,VAR_9
+delta,VAR_10
+ret,VAR_11

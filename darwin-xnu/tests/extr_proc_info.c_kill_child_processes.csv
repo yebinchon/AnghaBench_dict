@@ -1,0 +1,15 @@
+ACT_EXIT,VAR_0
+PAGE_SIZE,VAR_1
+PIPE_IN,VAR_2
+PIPE_OUT,VAR_3
+T_ASSERT_POSIX_SUCCESS,FUNC_0
+T_LOG,FUNC_1
+T_QUIET,VAR_4
+close,FUNC_2
+dt_waitpid,FUNC_3
+munmap,FUNC_4
+send_action_to_child_processes,FUNC_5
+kill_child_processes,FUNC_6
+proc_config,VAR_5
+ret,VAR_6
+child_id,VAR_7

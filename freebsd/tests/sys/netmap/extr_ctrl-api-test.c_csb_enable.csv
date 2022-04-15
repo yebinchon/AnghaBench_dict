@@ -1,0 +1,15 @@
+NETMAP_REQ_CSB_ENABLE,VAR_0
+NIOCCTRL,VAR_1
+checkoption,FUNC_0
+clear_options,FUNC_1
+ioctl,FUNC_2
+nmreq_hdr_init,FUNC_3
+perror,FUNC_4
+printf,FUNC_5
+push_csb_option,FUNC_6
+csb_enable,FUNC_7
+ctx,VAR_2
+saveopt,VAR_3
+opt,VAR_4
+hdr,VAR_5
+ret,VAR_6

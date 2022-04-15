@@ -1,0 +1,17 @@
+PG_dc_clean,VAR_0
+__flush_dcache_page,FUNC_0
+addr_not_cache_congruent,FUNC_1
+clear_bit,FUNC_2
+copy_page,FUNC_3
+kmap_atomic,FUNC_4
+kunmap_atomic,FUNC_5
+page_mapcount,FUNC_6
+set_bit,FUNC_7
+copy_user_highpage,FUNC_8
+to,VAR_1
+from,VAR_2
+u_vaddr,VAR_3
+vma,VAR_4
+kfrom,VAR_5
+kto,VAR_6
+clean_src_k_mappings,VAR_7

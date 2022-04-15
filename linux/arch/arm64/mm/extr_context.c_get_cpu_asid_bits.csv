@@ -1,0 +1,9 @@
+ID_AA64MMFR0_ASID_SHIFT,VAR_0
+ID_AA64MMFR0_EL1,VAR_1
+cpuid_feature_extract_unsigned_field,FUNC_0
+pr_warn,FUNC_1
+read_cpuid,FUNC_2
+smp_processor_id,FUNC_3
+get_cpu_asid_bits,FUNC_4
+asid,VAR_2
+fld,VAR_3

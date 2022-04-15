@@ -1,0 +1,16 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+DSSERR,FUNC_1
+dispc_mgr_disable_isr,VAR_0
+dispc_mgr_enable,FUNC_2
+dispc_mgr_get_framedone_irq,FUNC_3
+dispc_mgr_is_enabled,FUNC_4
+framedone_compl,VAR_1
+msecs_to_jiffies,FUNC_5
+msleep,FUNC_6
+omap_dispc_register_isr,FUNC_7
+omap_dispc_unregister_isr,FUNC_8
+wait_for_completion_timeout,FUNC_9
+dispc_mgr_disable_lcd_out,FUNC_10
+channel,VAR_2
+r,VAR_3
+irq,VAR_4

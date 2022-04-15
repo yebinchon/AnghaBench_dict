@@ -1,0 +1,13 @@
+kvm_flush_dcache_pud,FUNC_0
+stage2_flush_pmds,FUNC_1
+stage2_pud_addr_end,FUNC_2
+stage2_pud_huge,FUNC_3
+stage2_pud_none,FUNC_4
+stage2_pud_offset,FUNC_5
+stage2_flush_puds,FUNC_6
+kvm,VAR_0
+pgd,VAR_1
+addr,VAR_2
+end,VAR_3
+pud,VAR_4
+next,VAR_5

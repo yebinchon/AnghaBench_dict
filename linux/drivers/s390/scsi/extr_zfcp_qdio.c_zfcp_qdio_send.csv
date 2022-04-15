@@ -1,0 +1,14 @@
+QDIO_FLAG_SYNC_OUTPUT,VAR_0
+QDIO_MAX_BUFFERS_PER_Q,VAR_1
+atomic_sub,FUNC_0
+do_QDIO,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+unlikely,FUNC_4
+zfcp_qdio_account,FUNC_5
+zfcp_qdio_zero_sbals,FUNC_6
+zfcp_qdio_send,FUNC_7
+qdio,VAR_2
+q_req,VAR_3
+retval,VAR_4
+sbal_number,VAR_5

@@ -1,0 +1,17 @@
+SCR_CCR,VAR_0
+SCR_CCR_USBCK,VAR_1
+SCR_FER,VAR_2
+SCR_FER_USBEN,VAR_3
+dev_get_drvdata,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+tmio_ioread16,FUNC_3
+tmio_ioread8,FUNC_4
+tmio_iowrite16,FUNC_5
+tmio_iowrite8,FUNC_6
+tc6393xb_ohci_disable,FUNC_7
+dev,VAR_4
+tc6393xb,VAR_5
+flags,VAR_6
+ccr,VAR_7
+fer,VAR_8

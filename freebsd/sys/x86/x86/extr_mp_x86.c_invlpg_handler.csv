@@ -1,0 +1,13 @@
+PCPU_GET,FUNC_0
+PCPU_SET,FUNC_1
+cpuid,VAR_0
+invlpg,FUNC_2
+ipi_invlpg_counts,VAR_1
+kernel_pmap,VAR_2
+smp_tlb_addr1,VAR_3
+smp_tlb_done,VAR_4
+smp_tlb_generation,VAR_5
+smp_tlb_pmap,VAR_6
+xhits_pg,VAR_7
+invlpg_handler,FUNC_3
+generation,VAR_8

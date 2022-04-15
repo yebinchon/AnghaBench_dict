@@ -1,0 +1,14 @@
+MVPP2_BM_POOL_CTRL_REG,FUNC_0
+MVPP2_BM_STOP_MASK,VAR_0
+WARN,FUNC_1
+dma_free_coherent,FUNC_2
+mvpp2_bm_bufs_free,FUNC_3
+mvpp2_check_hw_buf_num,FUNC_4
+mvpp2_read,FUNC_5
+mvpp2_write,FUNC_6
+mvpp2_bm_pool_destroy,FUNC_7
+dev,VAR_1
+priv,VAR_2
+bm_pool,VAR_3
+buf_num,VAR_4
+val,VAR_5

@@ -1,0 +1,8 @@
+PCIE_DBI_RO_WR_EN,VAR_0
+PCIE_MISC_CONTROL_1_OFF,VAR_1
+dw_pcie_readl_dbi,FUNC_0
+dw_pcie_writel_dbi,FUNC_1
+dw_pcie_dbi_ro_wr_dis,FUNC_2
+pci,VAR_2
+reg,VAR_3
+val,VAR_4

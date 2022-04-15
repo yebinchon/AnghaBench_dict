@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+KM_SLEEP,VAR_0
+VERIFY0,FUNC_1
+dsl_dataset_user_release_onexit,VAR_1
+fnvlist_free,FUNC_2
+kmem_alloc,FUNC_3
+nvlist_empty,FUNC_4
+spa_load_guid,FUNC_5
+spa_name,FUNC_6
+strlcpy,FUNC_7
+zfs_onexit_add_cb,FUNC_8
+dsl_onexit_hold_cleanup,FUNC_9
+spa,VAR_2
+holds,VAR_3
+minor,VAR_4
+ca,VAR_5

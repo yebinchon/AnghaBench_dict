@@ -1,0 +1,9 @@
+PIC32_CLR,FUNC_0
+WDTCON_ON,VAR_0
+WDTCON_REG,VAR_1
+nop,FUNC_1
+watchdog_get_drvdata,FUNC_2
+writel,FUNC_3
+pic32_wdt_stop,FUNC_4
+wdd,VAR_2
+wdt,VAR_3

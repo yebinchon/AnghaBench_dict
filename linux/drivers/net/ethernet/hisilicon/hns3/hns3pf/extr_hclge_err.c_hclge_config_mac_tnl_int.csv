@@ -1,0 +1,10 @@
+HCLGE_MAC_TNL_INT_EN,VAR_0
+HCLGE_MAC_TNL_INT_EN_MASK,VAR_1
+HCLGE_OPC_MAC_TNL_INT_EN,VAR_2
+cpu_to_le32,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hclge_config_mac_tnl_int,FUNC_3
+hdev,VAR_3
+en,VAR_4
+desc,VAR_5

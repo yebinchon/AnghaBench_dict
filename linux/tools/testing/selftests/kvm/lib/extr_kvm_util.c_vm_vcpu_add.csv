@@ -1,0 +1,16 @@
+KVM_CREATE_VCPU,VAR_0
+MAP_FAILED,VAR_1
+MAP_SHARED,VAR_2
+PROT_READ,VAR_3
+PROT_WRITE,VAR_4
+TEST_ASSERT,FUNC_0
+calloc,FUNC_1
+errno,VAR_5
+ioctl,FUNC_2
+mmap,FUNC_3
+vcpu_find,FUNC_4
+vcpu_mmap_sz,FUNC_5
+vm_vcpu_add,FUNC_6
+vm,VAR_6
+vcpuid,VAR_7
+vcpu,VAR_8

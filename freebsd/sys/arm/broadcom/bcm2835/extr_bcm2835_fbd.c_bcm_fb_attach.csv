@@ -1,0 +1,16 @@
+OF_finddevice,FUNC_0
+OF_getprop,FUNC_1
+bcm_fb_setup_fbd,FUNC_2
+bcm_fb_sysctl_init,FUNC_3
+device_get_softc,FUNC_4
+strcmp,FUNC_5
+strsep,FUNC_6
+bcm_fb_attach,FUNC_7
+dev,VAR_0
+bootargs,VAR_1
+n,VAR_2
+p,VAR_3
+v,VAR_4
+err,VAR_5
+chosen,VAR_6
+sc,VAR_7

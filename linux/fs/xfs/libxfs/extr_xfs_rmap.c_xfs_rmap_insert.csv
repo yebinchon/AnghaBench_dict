@@ -1,0 +1,16 @@
+XFS_WANT_CORRUPTED_GOTO,FUNC_0
+_RET_IP_,VAR_0
+done,VAR_1
+trace_xfs_rmap_insert,FUNC_1
+trace_xfs_rmap_insert_error,FUNC_2
+xfs_btree_insert,FUNC_3
+xfs_rmap_lookup_eq,FUNC_4
+xfs_rmap_insert,FUNC_5
+rcur,VAR_2
+agbno,VAR_3
+len,VAR_4
+owner,VAR_5
+offset,VAR_6
+flags,VAR_7
+i,VAR_8
+error,VAR_9

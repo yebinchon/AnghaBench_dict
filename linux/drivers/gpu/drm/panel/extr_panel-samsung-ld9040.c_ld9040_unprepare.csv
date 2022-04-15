@@ -1,0 +1,10 @@
+MIPI_DCS_ENTER_SLEEP_MODE,VAR_0
+MIPI_DCS_SET_DISPLAY_OFF,VAR_1
+ld9040_clear_error,FUNC_0
+ld9040_dcs_write_seq_static,FUNC_1
+ld9040_power_off,FUNC_2
+msleep,FUNC_3
+panel_to_ld9040,FUNC_4
+ld9040_unprepare,FUNC_5
+panel,VAR_2
+ctx,VAR_3

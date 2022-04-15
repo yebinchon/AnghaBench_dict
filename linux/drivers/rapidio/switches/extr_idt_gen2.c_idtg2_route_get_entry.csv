@@ -1,0 +1,17 @@
+IDT_DEFAULT_ROUTE,VAR_0
+IDT_NO_ROUTE,VAR_1
+LOCAL_RTE_CONF_DESTID_SEL,VAR_2
+RIO_GLOBAL_TABLE,VAR_3
+RIO_INVALID_ROUTE,VAR_4
+RIO_STD_RTE_CONF_DESTID_SEL_CSR,VAR_5
+RIO_STD_RTE_CONF_PORT_SEL_CSR,VAR_6
+rio_mport_read_config_32,FUNC_0
+rio_mport_write_config_32,FUNC_1
+idtg2_route_get_entry,FUNC_2
+mport,VAR_7
+destid,VAR_8
+hopcount,VAR_9
+table,VAR_10
+route_destid,VAR_11
+route_port,VAR_12
+result,VAR_13

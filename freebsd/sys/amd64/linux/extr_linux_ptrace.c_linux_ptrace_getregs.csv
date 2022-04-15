@@ -1,0 +1,15 @@
+PL_FLAG_SCE,VAR_0
+PT_GETREGS,VAR_1
+PT_LWPINFO,VAR_2
+copyout,FUNC_0
+kern_ptrace,FUNC_1
+linux_msg,FUNC_2
+map_regs_to_linux,FUNC_3
+linux_ptrace_getregs,FUNC_4
+td,VAR_3
+pid,VAR_4
+data,VAR_5
+lwpinfo,VAR_6
+b_reg,VAR_7
+l_reg,VAR_8
+error,VAR_9

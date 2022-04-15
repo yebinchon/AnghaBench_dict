@@ -1,0 +1,15 @@
+CAP_CHANNEL0,VAR_0
+DUAL_CHANNEL,VAR_1
+I2S_SP_INSTANCE,VAR_2
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_3
+SNDRV_PCM_HW_PARAM_RATE,VAR_4
+constraints_channels,VAR_5
+constraints_rates,VAR_6
+snd_pcm_hw_constraint_list,FUNC_0
+snd_soc_card_get_drvdata,FUNC_1
+cz_dmic1_startup,FUNC_2
+substream,VAR_7
+runtime,VAR_8
+rtd,VAR_9
+card,VAR_10
+machine,VAR_11

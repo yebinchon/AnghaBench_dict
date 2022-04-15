@@ -1,0 +1,16 @@
+CRYPTO_TFM_REQ_MASK,VAR_0
+CRYPTO_TFM_RES_MASK,VAR_1
+crypto_cipher_clear_flags,FUNC_0
+crypto_cipher_get_flags,FUNC_1
+crypto_cipher_set_flags,FUNC_2
+crypto_cipher_setkey,FUNC_3
+crypto_tfm_ctx,FUNC_4
+crypto_tfm_get_flags,FUNC_5
+crypto_tfm_set_flags,FUNC_6
+crypto_ctr_setkey,FUNC_7
+parent,VAR_2
+key,VAR_3
+keylen,VAR_4
+ctx,VAR_5
+child,VAR_6
+err,VAR_7

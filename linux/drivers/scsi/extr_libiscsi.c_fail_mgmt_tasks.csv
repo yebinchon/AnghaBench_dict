@@ -1,0 +1,14 @@
+ISCSI_DBG_SESSION,FUNC_0
+ISCSI_TASK_ABRT_SESS_RECOV,VAR_0
+ISCSI_TASK_COMPLETED,VAR_1
+ISCSI_TASK_FREE,VAR_2
+ISCSI_TASK_PENDING,VAR_3
+iscsi_complete_task,FUNC_1
+spin_lock_bh,FUNC_2
+spin_unlock_bh,FUNC_3
+fail_mgmt_tasks,FUNC_4
+session,VAR_4
+conn,VAR_5
+task,VAR_6
+i,VAR_7
+state,VAR_8

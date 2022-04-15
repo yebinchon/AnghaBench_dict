@@ -1,0 +1,11 @@
+JBD2_BARRIER,VAR_0
+T_COMMIT_DFLUSH,VAR_1
+T_COMMIT_JFLUSH,VAR_2
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+tid_geq,FUNC_2
+jbd2_trans_will_send_data_barrier,FUNC_3
+journal,VAR_3
+tid,VAR_4
+ret,VAR_5
+commit_trans,VAR_6

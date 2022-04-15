@@ -1,0 +1,17 @@
+ACPI_FAILURE,FUNC_0
+ACPI_FREE,FUNC_1
+ACPI_FUNCTION_TRACE,FUNC_2
+AE_OK,VAR_0
+acpi_ev_gpe_xrupt_handler,VAR_1
+acpi_gbl_FADT,VAR_2
+acpi_gbl_gpe_lock,VAR_3
+acpi_gbl_gpe_xrupt_list_head,VAR_4
+acpi_os_acquire_lock,FUNC_3
+acpi_os_release_lock,FUNC_4
+acpi_os_remove_interrupt_handler,FUNC_5
+ev_delete_gpe_xrupt,VAR_5
+return_ACPI_STATUS,FUNC_6
+acpi_ev_delete_gpe_xrupt,FUNC_7
+gpe_xrupt,VAR_6
+status,VAR_7
+flags,VAR_8

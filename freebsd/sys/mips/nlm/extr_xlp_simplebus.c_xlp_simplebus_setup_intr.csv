@@ -1,0 +1,16 @@
+cpu_establish_hardintr,FUNC_0
+device_get_nameunit,FUNC_1
+intr_disable,FUNC_2
+intr_restore,FUNC_3
+rman_get_start,FUNC_4
+xlp_simplebus_setup_intr,FUNC_5
+dev,VAR_0
+child,VAR_1
+res,VAR_2
+flags,VAR_3
+filt,VAR_4
+intr,VAR_5
+arg,VAR_6
+cookiep,VAR_7
+s,VAR_8
+irq,VAR_9

@@ -1,0 +1,11 @@
+VEML6070_COMMAND_SD,VAR_0
+i2c_smbus_read_byte,FUNC_0
+i2c_smbus_write_byte,FUNC_1
+msleep,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+veml6070_read,FUNC_5
+data,VAR_1
+ret,VAR_2
+msb,VAR_3
+lsb,VAR_4

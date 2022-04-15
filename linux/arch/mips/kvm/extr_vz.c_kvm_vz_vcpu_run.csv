@@ -1,0 +1,14 @@
+kvm_mips_deliver_interrupts,FUNC_0
+kvm_vz_acquire_htimer,FUNC_1
+kvm_vz_check_requests,FUNC_2
+kvm_vz_vcpu_load_tlb,FUNC_3
+kvm_vz_vcpu_load_wired,FUNC_4
+kvm_vz_vcpu_save_wired,FUNC_5
+read_gc0_cause,FUNC_6
+smp_processor_id,FUNC_7
+stub1,FUNC_8
+kvm_vz_vcpu_run,FUNC_9
+run,VAR_0
+vcpu,VAR_1
+cpu,VAR_2
+r,VAR_3

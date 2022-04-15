@@ -1,0 +1,11 @@
+RCV_DESC_RINGSIZE,FUNC_0
+STATUS_DESC_RINGSIZE,FUNC_1
+TX_DESC_RINGSIZE,FUNC_2
+dma_free_coherent,FUNC_3
+qlcnic_free_hw_resources,FUNC_4
+adapter,VAR_0
+recv_ctx,VAR_1
+rds_ring,VAR_2
+sds_ring,VAR_3
+tx_ring,VAR_4
+ring,VAR_5

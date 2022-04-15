@@ -1,0 +1,16 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+KASSERT,FUNC_0
+MPT_OFFSET_REQUEST_Q,VAR_2
+MPT_PRT_DEBUG2,VAR_3
+REQ_STATE_QUEUED,VAR_4
+TAILQ_INSERT_HEAD,FUNC_1
+bus_dmamap_sync,FUNC_2
+links,VAR_5
+mpt_dump_request,FUNC_3
+mpt_req_on_free_list,FUNC_4
+mpt_req_on_pending_list,FUNC_5
+mpt_write,FUNC_6
+mpt_send_cmd,FUNC_7
+mpt,VAR_6
+req,VAR_7

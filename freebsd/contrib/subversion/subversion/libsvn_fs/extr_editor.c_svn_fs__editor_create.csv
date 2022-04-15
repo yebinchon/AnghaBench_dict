@@ -1,0 +1,17 @@
+SVN_ERR,FUNC_0
+make_editor,FUNC_1
+svn_error_trace,FUNC_2
+svn_fs_begin_txn2,FUNC_3
+svn_fs_txn_name,FUNC_4
+svn_fs_youngest_rev,FUNC_5
+svn_fs__editor_create,FUNC_6
+editor,VAR_0
+txn_name,VAR_1
+fs,VAR_2
+flags,VAR_3
+cancel_func,VAR_4
+cancel_baton,VAR_5
+result_pool,VAR_6
+scratch_pool,VAR_7
+revision,VAR_8
+txn,VAR_9

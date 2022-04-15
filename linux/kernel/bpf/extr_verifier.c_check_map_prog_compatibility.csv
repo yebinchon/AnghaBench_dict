@@ -1,0 +1,14 @@
+BPF_PROG_TYPE_PERF_EVENT,VAR_0
+BPF_PROG_TYPE_SOCKET_FILTER,VAR_1
+EINVAL,VAR_2
+bpf_map_is_dev_bound,FUNC_0
+bpf_offload_prog_map_match,FUNC_1
+bpf_prog_is_dev_bound,FUNC_2
+check_map_prealloc,FUNC_3
+is_tracing_prog_type,FUNC_4
+map_value_has_spin_lock,FUNC_5
+verbose,FUNC_6
+check_map_prog_compatibility,FUNC_7
+env,VAR_3
+map,VAR_4
+prog,VAR_5

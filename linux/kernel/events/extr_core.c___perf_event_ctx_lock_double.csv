@@ -1,0 +1,11 @@
+READ_ONCE,FUNC_0
+mutex_lock_double,FUNC_1
+mutex_unlock,FUNC_2
+put_ctx,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+refcount_inc_not_zero,FUNC_6
+__perf_event_ctx_lock_double,FUNC_7
+group_leader,VAR_0
+ctx,VAR_1
+gctx,VAR_2

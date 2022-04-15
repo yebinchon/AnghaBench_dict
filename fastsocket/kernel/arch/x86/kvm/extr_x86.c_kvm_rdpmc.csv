@@ -1,0 +1,11 @@
+VCPU_REGS_RAX,VAR_0
+VCPU_REGS_RCX,VAR_1
+VCPU_REGS_RDX,VAR_2
+kvm_pmu_read_pmc,FUNC_0
+kvm_register_read,FUNC_1
+kvm_register_write,FUNC_2
+kvm_rdpmc,FUNC_3
+vcpu,VAR_3
+ecx,VAR_4
+data,VAR_5
+err,VAR_6

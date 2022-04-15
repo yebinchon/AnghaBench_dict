@@ -1,0 +1,17 @@
+I40IW_CM_EVENT_ABORTED,VAR_0
+I40IW_CM_STATE_CLOSED,VAR_1
+I40IW_CM_STATE_CLOSING,VAR_2
+I40IW_CM_STATE_LAST_ACK,VAR_3
+I40IW_TIMER_TYPE_CLOSE,VAR_4
+atomic_inc,FUNC_0
+i40iw_cleanup_retrans_entry,FUNC_1
+i40iw_create_event,FUNC_2
+i40iw_pr_err,FUNC_3
+i40iw_rem_ref_cm_node,FUNC_4
+i40iw_schedule_cm_timer,FUNC_5
+i40iw_send_ack,FUNC_6
+i40iw_send_fin,FUNC_7
+i40iw_send_reset,FUNC_8
+i40iw_handle_fin_pkt,FUNC_9
+cm_node,VAR_5
+ret,VAR_6

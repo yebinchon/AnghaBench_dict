@@ -1,0 +1,13 @@
+ddi_get_lbolt64,FUNC_0
+dsl_dataset_snapshot_tmp,FUNC_1
+kmem_asprintf,FUNC_2
+kmem_strfree,FUNC_3
+strlcpy,FUNC_4
+zfs_onexit_fd_hold,FUNC_5
+zfs_onexit_fd_rele,FUNC_6
+zfs_ioc_tmp_snapshot,FUNC_7
+zc,VAR_0
+snap_name,VAR_1
+hold_name,VAR_2
+error,VAR_3
+minor,VAR_4

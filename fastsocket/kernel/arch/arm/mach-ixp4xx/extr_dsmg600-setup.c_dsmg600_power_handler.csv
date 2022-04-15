@@ -1,0 +1,14 @@
+DSMG600_LED_PWR_GPIO,VAR_0
+DSMG600_PB_GPIO,VAR_1
+IXP4XX_GPIO_LOW,VAR_2
+PBUTTON_HOLDDOWN_COUNT,VAR_3
+ctrl_alt_del,FUNC_0
+dsmg600_power_timer,VAR_4
+gpio_get_value,FUNC_1
+gpio_line_set,FUNC_2
+jiffies,VAR_5
+mod_timer,FUNC_3
+msecs_to_jiffies,FUNC_4
+power_button_countdown,VAR_6
+dsmg600_power_handler,FUNC_5
+data,VAR_7

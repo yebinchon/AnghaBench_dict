@@ -1,0 +1,13 @@
+C_SEND,VAR_0
+SEEK_SET,VAR_1
+TsStorageIsEmpty,FUNC_0
+assert,FUNC_1
+block_Alloc,FUNC_2
+fread,FUNC_3
+fseek,FUNC_4
+TsStoragePopCmd,FUNC_5
+p_storage,VAR_2
+p_cmd,VAR_3
+b_flush,VAR_4
+block,VAR_5
+p_block,VAR_6

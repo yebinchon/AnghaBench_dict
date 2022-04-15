@@ -1,0 +1,14 @@
+mbedtls_cipher_finish,FUNC_0
+mbedtls_cipher_reset,FUNC_1
+mbedtls_cipher_set_iv,FUNC_2
+mbedtls_cipher_update,FUNC_3
+mbedtls_cipher_crypt,FUNC_4
+ctx,VAR_0
+iv,VAR_1
+iv_len,VAR_2
+input,VAR_3
+ilen,VAR_4
+output,VAR_5
+olen,VAR_6
+ret,VAR_7
+finish_olen,VAR_8

@@ -1,0 +1,8 @@
+CMD_DONE_INT_FLAG,VAR_0
+DSI_INTEN,VAR_1
+LPRX_RD_RDY_INT_FLAG,VAR_2
+VM_DONE_INT_FLAG,VAR_3
+writel,FUNC_0
+mtk_dsi_set_interrupt_enable,FUNC_1
+dsi,VAR_4
+inten,VAR_5

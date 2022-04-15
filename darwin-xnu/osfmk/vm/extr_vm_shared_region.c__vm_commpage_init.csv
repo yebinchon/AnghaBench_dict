@@ -1,0 +1,16 @@
+KERN_SUCCESS,VAR_0
+SHARED_REGION_TRACE_DEBUG,FUNC_0
+TRUE,VAR_1
+VM_KERNEL_ADDRPERM,FUNC_1
+VM_MAP_NULL,VAR_2
+VM_PROT_ALL,VAR_3
+mach_memory_entry_allocate,FUNC_2
+panic,FUNC_3
+pmap_create,FUNC_4
+vm_map_create,FUNC_5
+_vm_commpage_init,FUNC_6
+handlep,VAR_4
+size,VAR_5
+kr,VAR_6
+mem_entry,VAR_7
+new_map,VAR_8

@@ -1,0 +1,16 @@
+GetThreadPriority,FUNC_0
+PTW32TEST_MAXPRIORITIES,VAR_0
+SCHED_OTHER,VAR_1
+assert,FUNC_1
+maxPrio,VAR_2
+minPrio,VAR_3
+pthread_getw32threadhandle_np,FUNC_2
+pthread_self,FUNC_3
+pthread_setschedparam,FUNC_4
+validPriorities,VAR_4
+getValidPriorities,FUNC_5
+arg,VAR_5
+prioSet,VAR_6
+thread,VAR_7
+threadH,VAR_8
+param,VAR_9

@@ -1,0 +1,15 @@
+IsVP8XNeeded,FUNC_0
+PutAlphaChunk,FUNC_1
+PutRIFFHeader,FUNC_2
+PutVP8FrameHeader,FUNC_3
+PutVP8Header,FUNC_4
+PutVP8XHeader,FUNC_5
+VP8_ENC_OK,VAR_0
+WebPEncodingSetError,FUNC_6
+PutWebPHeaders,FUNC_7
+enc,VAR_1
+size0,VAR_2
+vp8_size,VAR_3
+riff_size,VAR_4
+pic,VAR_5
+err,VAR_6

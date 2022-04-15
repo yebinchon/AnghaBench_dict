@@ -1,0 +1,10 @@
+GDB_OSABI_NETBSD_AOUT,VAR_0
+GDB_OSABI_NETBSD_ELF,VAR_1
+arm_netbsd_aout_init_abi,VAR_2
+arm_netbsd_aout_osabi_sniffer,VAR_3
+arm_netbsd_elf_init_abi,VAR_4
+bfd_arch_arm,VAR_5
+bfd_target_aout_flavour,VAR_6
+gdbarch_register_osabi,FUNC_0
+gdbarch_register_osabi_sniffer,FUNC_1
+_initialize_arm_netbsd_tdep,FUNC_2

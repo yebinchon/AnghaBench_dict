@@ -1,0 +1,17 @@
+CAN_REDIRECT,VAR_0
+EINVAL,VAR_1
+LWTUNNEL_XMIT_CONTINUE,VAR_2
+LWTUNNEL_XMIT_DONE,VAR_3
+bpf_lwt_lwtunnel,FUNC_0
+bpf_lwt_xmit_reroute,FUNC_1
+kfree_skb,FUNC_2
+run_lwt_bpf,FUNC_3
+skb_dst,FUNC_4
+unlikely,FUNC_5
+xmit_check_hhlen,FUNC_6
+bpf_xmit,FUNC_7
+skb,VAR_4
+dst,VAR_5
+bpf,VAR_6
+proto,VAR_7
+ret,VAR_8

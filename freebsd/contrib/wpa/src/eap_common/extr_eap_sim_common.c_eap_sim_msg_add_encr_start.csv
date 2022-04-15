@@ -1,0 +1,10 @@
+EAP_SIM_IV_LEN,VAR_0
+eap_sim_msg_add,FUNC_0
+random_get_bytes,FUNC_1
+wpabuf_head_u8,FUNC_2
+wpabuf_mhead_u8,FUNC_3
+eap_sim_msg_add_encr_start,FUNC_4
+msg,VAR_1
+attr_iv,VAR_2
+attr_encr,VAR_3
+pos,VAR_4

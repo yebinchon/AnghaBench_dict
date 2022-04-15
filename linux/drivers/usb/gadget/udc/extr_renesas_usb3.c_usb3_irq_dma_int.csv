@@ -1,0 +1,15 @@
+AXI_INT_PRDEN_CLR_STA,FUNC_0
+DMA_INT,FUNC_1
+USB3_AXI_INT_STA,VAR_0
+usb3_dma_try_stop,FUNC_2
+usb3_get_ep,FUNC_3
+usb3_get_request,FUNC_4
+usb3_read,FUNC_5
+usb3_request_done_pipen,FUNC_6
+usb3_irq_dma_int,FUNC_7
+usb3,VAR_1
+dma_sta,VAR_2
+usb3_ep,VAR_3
+usb3_req,VAR_4
+i,VAR_5
+status,VAR_6

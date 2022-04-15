@@ -1,0 +1,11 @@
+TIF_NOTIFY_RESUME,VAR_0
+TIF_SIGPENDING,VAR_1
+current,VAR_2
+do_signal,FUNC_0
+need_resched,FUNC_1
+schedule,FUNC_2
+test_and_clear_thread_flag,FUNC_3
+test_thread_flag,FUNC_4
+tracehook_notify_resume,FUNC_5
+interrupt_end,FUNC_6
+regs,VAR_3

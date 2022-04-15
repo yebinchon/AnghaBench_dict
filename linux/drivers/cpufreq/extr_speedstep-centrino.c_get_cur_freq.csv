@@ -1,0 +1,10 @@
+MSR_IA32_PERF_CTL,VAR_0
+MSR_IA32_PERF_STATUS,VAR_1
+extract_clock,FUNC_0
+rdmsr_on_cpu,FUNC_1
+unlikely,FUNC_2
+get_cur_freq,FUNC_3
+cpu,VAR_2
+l,VAR_3
+h,VAR_4
+clock_freq,VAR_5

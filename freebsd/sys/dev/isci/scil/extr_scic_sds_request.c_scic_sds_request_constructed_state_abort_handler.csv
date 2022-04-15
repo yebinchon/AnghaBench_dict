@@ -1,0 +1,9 @@
+SCI_BASE_REQUEST_STATE_COMPLETED,VAR_0
+SCI_FAILURE_IO_TERMINATED,VAR_1
+SCI_SUCCESS,VAR_2
+SCU_TASK_DONE_TASK_ABORT,VAR_3
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_request_set_status,FUNC_1
+scic_sds_request_constructed_state_abort_handler,FUNC_2
+request,VAR_4
+this_request,VAR_5

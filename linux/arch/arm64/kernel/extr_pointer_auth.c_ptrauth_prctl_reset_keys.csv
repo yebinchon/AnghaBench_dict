@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+PR_PAC_APDAKEY,VAR_1
+PR_PAC_APDBKEY,VAR_2
+PR_PAC_APGAKEY,VAR_3
+PR_PAC_APIAKEY,VAR_4
+PR_PAC_APIBKEY,VAR_5
+get_random_bytes,FUNC_0
+ptrauth_keys_init,FUNC_1
+ptrauth_keys_switch,FUNC_2
+system_supports_address_auth,FUNC_3
+system_supports_generic_auth,FUNC_4
+ptrauth_prctl_reset_keys,FUNC_5
+tsk,VAR_6
+arg,VAR_7
+keys,VAR_8
+addr_key_mask,VAR_9
+key_mask,VAR_10

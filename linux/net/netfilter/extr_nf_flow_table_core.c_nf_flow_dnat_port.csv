@@ -1,0 +1,13 @@
+nf_flow_nat_port,FUNC_0
+pskb_may_pull,FUNC_1
+skb_network_header,FUNC_2
+skb_try_make_writable,FUNC_3
+nf_flow_dnat_port,FUNC_4
+flow,VAR_0
+skb,VAR_1
+thoff,VAR_2
+protocol,VAR_3
+dir,VAR_4
+hdr,VAR_5
+port,VAR_6
+new_port,VAR_7

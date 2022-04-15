@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+IMX_SC_R_A35,VAR_1
+IMX_SIP_CPUFREQ,VAR_2
+IMX_SIP_SET_CPUFREQ,VAR_3
+arm_smccc_smc,FUNC_0
+to_clk_scu,FUNC_1
+clk_scu_atf_set_cpu_rate,FUNC_2
+hw,VAR_4
+rate,VAR_5
+parent_rate,VAR_6
+clk,VAR_7
+res,VAR_8
+cluster_id,VAR_9

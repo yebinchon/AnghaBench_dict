@@ -1,0 +1,17 @@
+MSG_NOTIFICATION,VAR_0
+SCTP_PARTIAL_DELIVERY_EVENT,VAR_1
+sctp_assoc2id,FUNC_0
+sctp_event2skb,FUNC_1
+sctp_ulpevent_new,FUNC_2
+sctp_ulpevent_set_owner,FUNC_3
+skb_put,FUNC_4
+sctp_ulpevent_make_pdapi,FUNC_5
+asoc,VAR_2
+indication,VAR_3
+sid,VAR_4
+seq,VAR_5
+flags,VAR_6
+gfp,VAR_7
+event,VAR_8
+pd,VAR_9
+skb,VAR_10

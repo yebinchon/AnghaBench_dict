@@ -1,0 +1,14 @@
+KERNEL_PGD_BOUNDARY,VAR_0
+KERNEL_PGD_PTRS,VAR_1
+PAGETABLE_LEVELS,VAR_2
+PAGE_SHIFT,VAR_3
+SHARED_KERNEL_PMD,VAR_4
+__pa,FUNC_0
+clone_pgd_range,FUNC_1
+paravirt_alloc_pmd_clone,FUNC_2
+pgd_list_add,FUNC_3
+pgd_set_mm,FUNC_4
+swapper_pg_dir,VAR_5
+pgd_ctor,FUNC_5
+mm,VAR_6
+pgd,VAR_7

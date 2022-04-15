@@ -1,0 +1,15 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+finish_wait,FUNC_1
+msecs_to_jiffies,FUNC_2
+prepare_to_wait,FUNC_3
+schedule_timeout,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+wait,VAR_1
+snd_usbmidi_output_drain,FUNC_7
+substream,VAR_2
+port,VAR_3
+ep,VAR_4
+drain_urbs,VAR_5
+timeout,VAR_6

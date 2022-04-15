@@ -1,0 +1,16 @@
+MD5_PASSWD_LEN,VAR_0
+STATUS_ERROR,VAR_1
+STATUS_OK,VAR_2
+_,FUNC_0
+get_password_type,FUNC_1
+pg_md5_encrypt,FUNC_2
+psprintf,FUNC_3
+scram_verify_plain_password,FUNC_4
+strcmp,FUNC_5
+strlen,FUNC_6
+plain_crypt_verify,FUNC_7
+role,VAR_3
+shadow_pass,VAR_4
+client_pass,VAR_5
+logdetail,VAR_6
+crypt_client_pass,VAR_7

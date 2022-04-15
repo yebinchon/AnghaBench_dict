@@ -1,0 +1,12 @@
+BIT,FUNC_0
+__sx150x_gpio_set,FUNC_1
+gpiochip_get_data,FUNC_2
+regmap_write_bits,FUNC_3
+sx150x_gpio_oscio_set,FUNC_4
+sx150x_pin_is_oscio,FUNC_5
+sx150x_gpio_direction_output,FUNC_6
+chip,VAR_0
+offset,VAR_1
+value,VAR_2
+pctl,VAR_3
+ret,VAR_4

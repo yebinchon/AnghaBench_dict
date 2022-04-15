@@ -1,0 +1,17 @@
+BLK_NEEDS_REDO,VAR_0
+BLK_RESTORED,VAR_1
+BufferGetPage,FUNC_0
+BufferIsValid,FUNC_1
+GistClearFollowRight,FUNC_2
+GistPageSetNSN,FUNC_3
+MarkBufferDirty,FUNC_4
+PageSetLSN,FUNC_5
+UnlockReleaseBuffer,FUNC_6
+XLogReadBufferForRedo,FUNC_7
+gistRedoClearFollowRight,FUNC_8
+record,VAR_2
+block_id,VAR_3
+lsn,VAR_4
+buffer,VAR_5
+page,VAR_6
+action,VAR_7

@@ -1,0 +1,16 @@
+VDEV_TOP_ZAP_POOL_CHECKPOINT_SM,VAR_0
+VERIFY0,FUNC_0
+dump_spacemap,FUNC_1
+spa_meta_objset,FUNC_2
+space_map_close,FUNC_3
+space_map_open,FUNC_4
+space_map_update,FUNC_5
+zap_contains,FUNC_6
+zap_lookup,FUNC_7
+dump_leftover_checkpoint_blocks,FUNC_8
+spa,VAR_1
+rvd,VAR_2
+i,VAR_3
+vd,VAR_4
+checkpoint_sm,VAR_5
+checkpoint_sm_obj,VAR_6

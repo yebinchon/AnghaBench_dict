@@ -1,0 +1,15 @@
+ITaskbarList3_SetProgressState,FUNC_0
+ITaskbarList3_SetProgressValue,FUNC_1
+S_OK,VAR_0
+TBPF_INDETERMINATE,VAR_1
+TBPF_NOPROGRESS,VAR_2
+TBPF_NORMAL,VAR_3
+g_taskbarList,VAR_4
+win32_get_window,FUNC_2
+win32_taskbar_is_created,FUNC_3
+win32_display_server_set_window_progress,FUNC_4
+data,VAR_5
+progress,VAR_6
+finished,VAR_7
+hwnd,VAR_8
+serv,VAR_9

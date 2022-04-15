@@ -1,0 +1,13 @@
+CMD_Q_ERROR,FUNC_0
+IRQ_STATUS_REG,VAR_0
+ccp_enable_queue_interrupts,FUNC_1
+ioread32,FUNC_2
+iowrite32,FUNC_3
+wake_up_interruptible,FUNC_4
+ccp_irq_bh,FUNC_5
+data,VAR_1
+ccp,VAR_2
+cmd_q,VAR_3
+q_int,VAR_4
+status,VAR_5
+i,VAR_6

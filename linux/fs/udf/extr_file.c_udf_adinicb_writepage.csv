@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+PageLocked,FUNC_1
+SetPageUptodate,FUNC_2
+UDF_I,FUNC_3
+i_size_read,FUNC_4
+kmap_atomic,FUNC_5
+kunmap_atomic,FUNC_6
+mark_inode_dirty,FUNC_7
+memcpy,FUNC_8
+unlock_page,FUNC_9
+udf_adinicb_writepage,FUNC_10
+page,VAR_0
+wbc,VAR_1
+inode,VAR_2
+kaddr,VAR_3
+iinfo,VAR_4

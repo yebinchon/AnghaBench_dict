@@ -1,0 +1,16 @@
+BATADV_CMD_SET_HARDIF,VAR_0
+BATADV_NL_MCGRP_CONFIG,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+NLMSG_DEFAULT_SIZE,VAR_4
+batadv_netlink_family,VAR_5
+batadv_netlink_hardif_fill,FUNC_0
+dev_net,FUNC_1
+genlmsg_multicast_netns,FUNC_2
+nlmsg_free,FUNC_3
+nlmsg_new,FUNC_4
+batadv_netlink_notify_hardif,FUNC_5
+bat_priv,VAR_6
+hard_iface,VAR_7
+msg,VAR_8
+ret,VAR_9

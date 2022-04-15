@@ -1,0 +1,14 @@
+AHC_LINUX_NOIRQ,VAR_0
+AHC_NUM_TARGETS,VAR_1
+BUS_SPACE_MEMIO,VAR_2
+BUS_SPACE_PIO,VAR_3
+free_irq,FUNC_0
+iounmap,FUNC_1
+kfree,FUNC_2
+release_mem_region,FUNC_3
+release_region,FUNC_4
+scsi_host_put,FUNC_5
+ahc_platform_free,FUNC_6
+ahc,VAR_4
+starget,VAR_5
+i,VAR_6

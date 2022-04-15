@@ -1,0 +1,17 @@
+XGBE_AN_CL73_INC_LINK,VAR_0
+XGBE_AN_CL73_INT_CMPLT,VAR_1
+XGBE_AN_CL73_PG_RCV,VAR_2
+XGBE_AN_ERROR,VAR_3
+XGBE_RX_BPA,VAR_4
+link,VAR_5
+netdev_err,FUNC_0
+netif_dbg,FUNC_1
+stub1,FUNC_2
+xgbe_an73_clear_interrupts,FUNC_3
+xgbe_an73_enable_interrupts,FUNC_4
+xgbe_an73_incompat_link,FUNC_5
+xgbe_an73_page_received,FUNC_6
+xgbe_state_as_string,FUNC_7
+xgbe_an73_state_machine,FUNC_8
+pdata,VAR_6
+cur_state,VAR_7

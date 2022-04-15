@@ -1,0 +1,16 @@
+CSIO_INIT_MBP,FUNC_0
+FW_CMD_LEN16_V,FUNC_1
+FW_CMD_OP_V,FUNC_2
+FW_CMD_READ_F,VAR_0
+FW_CMD_REQUEST_F,VAR_1
+FW_FCOE_FCF_CMD,VAR_2
+FW_FCOE_FCF_CMD_FCFI,FUNC_3
+htonl,FUNC_4
+csio_fcoe_read_fcf_init_mb,FUNC_5
+ln,VAR_3
+mbp,VAR_4
+mb_tmo,VAR_5
+portid,VAR_6
+fcfi,VAR_7
+cbfn,VAR_8
+cmdp,VAR_9

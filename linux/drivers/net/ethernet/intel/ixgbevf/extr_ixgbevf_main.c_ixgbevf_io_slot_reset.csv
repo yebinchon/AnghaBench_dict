@@ -1,0 +1,15 @@
+PCI_ERS_RESULT_DISCONNECT,VAR_0
+PCI_ERS_RESULT_RECOVERED,VAR_1
+__IXGBEVF_DISABLED,VAR_2
+clear_bit,FUNC_0
+dev_err,FUNC_1
+ixgbevf_reset,FUNC_2
+netdev_priv,FUNC_3
+pci_enable_device_mem,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_set_master,FUNC_6
+smp_mb__before_atomic,FUNC_7
+ixgbevf_io_slot_reset,FUNC_8
+pdev,VAR_3
+netdev,VAR_4
+adapter,VAR_5

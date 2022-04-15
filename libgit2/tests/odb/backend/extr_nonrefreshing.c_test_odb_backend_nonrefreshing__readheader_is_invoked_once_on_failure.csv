@@ -1,0 +1,13 @@
+GIT_ENOTFOUND,VAR_0
+_fake,VAR_1
+_nonexisting_oid,VAR_2
+_repo,VAR_3
+cl_assert_equal_i,FUNC_0
+cl_git_fail_with,FUNC_1
+cl_git_pass,FUNC_2
+git_odb_read_header,FUNC_3
+git_repository_odb__weakptr,FUNC_4
+test_odb_backend_nonrefreshing__readheader_is_invoked_once_on_failure,FUNC_5
+odb,VAR_4
+len,VAR_5
+type,VAR_6

@@ -1,0 +1,10 @@
+STMT_INTERNAL_COMMIT_TRANSACTION,VAR_0
+SVN_NO_ERROR,VAR_1
+get_internal_statement,FUNC_0
+rollback_transaction,FUNC_1
+svn_error_trace,FUNC_2
+svn_sqlite__step_done,FUNC_3
+svn_sqlite__finish_transaction,FUNC_4
+db,VAR_2
+err,VAR_3
+stmt,VAR_4

@@ -1,0 +1,14 @@
+RLIMIT_MEMLOCK,VAR_0
+RLIM_INFINITY,VAR_1
+assert,FUNC_0
+bpf_log_buf,VAR_2
+load_bpf_file,FUNC_1
+printf,FUNC_2
+setrlimit,FUNC_3
+snprintf,FUNC_4
+test_map_in_map,FUNC_5
+main,FUNC_6
+argc,VAR_3
+argv,VAR_4
+r,VAR_5
+filename,VAR_6

@@ -1,0 +1,13 @@
+RT5645_EQ_CTRL2,VAR_0
+RT5645_HWEQ_NUM,VAR_1
+be16_to_cpu,FUNC_0
+rt5645_validate_hweq,FUNC_1
+snd_kcontrol_chip,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+rt5645_hweq_put,FUNC_4
+kcontrol,VAR_2
+ucontrol,VAR_3
+component,VAR_4
+rt5645,VAR_5
+eq_param,VAR_6
+i,VAR_7

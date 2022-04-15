@@ -1,0 +1,15 @@
+ERRCODE_INTERNAL_ERROR,VAR_0
+ERROR,VAR_1
+MemoryContextStrdup,FUNC_0
+PG_END_TRY,FUNC_1
+PG_FINALLY,FUNC_2
+PG_TRY,FUNC_3
+avc_mem_cxt,VAR_2
+avc_unlabeled,VAR_3
+ereport,FUNC_4
+errcode,FUNC_5
+errmsg,FUNC_6
+freecon,FUNC_7
+security_get_initial_context_raw,FUNC_8
+sepgsql_avc_unlabeled,FUNC_9
+unlabeled,VAR_4

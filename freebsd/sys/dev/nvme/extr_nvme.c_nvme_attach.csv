@@ -1,0 +1,10 @@
+DEVICE2SOFTC,FUNC_0
+config_intrhook_establish,FUNC_1
+nvme_ctrlr_construct,FUNC_2
+nvme_ctrlr_destruct,FUNC_3
+nvme_ctrlr_hw_reset,FUNC_4
+nvme_ctrlr_start_config_hook,VAR_0
+nvme_attach,FUNC_5
+dev,VAR_1
+ctrlr,VAR_2
+status,VAR_3

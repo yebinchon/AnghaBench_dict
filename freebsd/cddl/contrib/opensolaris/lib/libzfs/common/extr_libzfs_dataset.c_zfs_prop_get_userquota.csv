@@ -1,0 +1,15 @@
+ZFS_PROP_GROUPQUOTA,VAR_0
+ZFS_PROP_USERQUOTA,VAR_1
+snprintf,FUNC_0
+strlcpy,FUNC_1
+zfs_nicenum,FUNC_2
+zfs_prop_get_userquota_common,FUNC_3
+zfs_prop_get_userquota,FUNC_4
+zhp,VAR_2
+propname,VAR_3
+propbuf,VAR_4
+proplen,VAR_5
+literal,VAR_6
+err,VAR_7
+propvalue,VAR_8
+type,VAR_9

@@ -1,0 +1,13 @@
+BUG,FUNC_0
+IB_SEND_SIGNALED,VAR_0
+IB_WR_RDMA_READ_WITH_INV,VAR_1
+rdma_rw_update_lkey,FUNC_1
+rdma_rw_ctx_wrs,FUNC_2
+ctx,VAR_2
+qp,VAR_3
+port_num,VAR_4
+cqe,VAR_5
+chain_wr,VAR_6
+first_wr,VAR_7
+last_wr,VAR_8
+i,VAR_9

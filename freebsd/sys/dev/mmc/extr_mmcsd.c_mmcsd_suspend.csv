@@ -1,0 +1,16 @@
+MMCSD_DISK_LOCK,FUNC_0
+MMCSD_DISK_UNLOCK,FUNC_1
+MMCSD_IOCTL_LOCK,FUNC_2
+MMCSD_IOCTL_UNLOCK,FUNC_3
+MMC_ERR_NONE,VAR_0
+MMC_PART_MAX,VAR_1
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+mmcsd_flush_cache,FUNC_6
+msleep,FUNC_7
+wakeup,FUNC_8
+mmcsd_suspend,FUNC_9
+dev,VAR_2
+sc,VAR_3
+part,VAR_4
+i,VAR_5

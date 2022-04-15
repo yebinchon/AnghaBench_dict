@@ -1,0 +1,14 @@
+SNDRV_PCM_STATE_XRUN,VAR_0
+SNDRV_PCM_TSTAMP_ENABLE,VAR_1
+XRUN_DEBUG_BASIC,VAR_2
+dump_stack_on_xrun,FUNC_0
+pcm_warn,FUNC_1
+snd_pcm_debug_name,FUNC_2
+snd_pcm_gettime,FUNC_3
+snd_pcm_stop,FUNC_4
+trace_xrun,FUNC_5
+xrun_debug,FUNC_6
+__snd_pcm_xrun,FUNC_7
+substream,VAR_3
+runtime,VAR_4
+name,VAR_5

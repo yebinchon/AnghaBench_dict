@@ -1,0 +1,9 @@
+ACPI_EC_EVT_TIMING_EVENT,VAR_0
+advance_transaction,FUNC_0
+ec_event_clearing,VAR_1
+ec_guard,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+acpi_ec_check_event,FUNC_4
+ec,VAR_2
+flags,VAR_3

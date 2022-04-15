@@ -1,0 +1,15 @@
+BT_DBG,FUNC_0
+CONF_LOC_CONF_PEND,VAR_0
+CONF_OUTPUT_DONE,VAR_1
+L2CAP_CONF_RSP,VAR_2
+L2CAP_CONF_SUCCESS,VAR_3
+clear_bit,FUNC_1
+l2cap_build_conf_rsp,FUNC_2
+l2cap_send_cmd,FUNC_3
+set_bit,FUNC_4
+l2cap_send_efs_conf_rsp,FUNC_5
+chan,VAR_4
+data,VAR_5
+ident,VAR_6
+flags,VAR_7
+conn,VAR_8

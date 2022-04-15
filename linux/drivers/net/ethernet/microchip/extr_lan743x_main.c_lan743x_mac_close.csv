@@ -1,0 +1,12 @@
+MAC_RX,VAR_0
+MAC_RX_RXD_,VAR_1
+MAC_RX_RXEN_,VAR_2
+MAC_TX,VAR_3
+MAC_TX_TXD_,VAR_4
+MAC_TX_TXEN_,VAR_5
+lan743x_csr_read,FUNC_0
+lan743x_csr_wait_for_bit,FUNC_1
+lan743x_csr_write,FUNC_2
+lan743x_mac_close,FUNC_3
+adapter,VAR_6
+temp,VAR_7

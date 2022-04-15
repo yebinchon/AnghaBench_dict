@@ -1,0 +1,11 @@
+PCI_EXP_DEVCTL,VAR_0
+PCI_EXP_DEVCTL_NOSNOOP_EN,VAR_1
+PCI_EXP_DEVCTL_RELAX_EN,VAR_2
+dev_name,FUNC_0
+pci_find_pcie_root_port,FUNC_1
+pci_info,FUNC_2
+pci_warn,FUNC_3
+pcie_capability_clear_and_set_word,FUNC_4
+quirk_disable_root_port_attributes,FUNC_5
+pdev,VAR_3
+root_port,VAR_4

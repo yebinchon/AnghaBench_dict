@@ -1,0 +1,11 @@
+CMD_WR,VAR_0
+CMD_WR_NOACK,VAR_1
+brcmstb_send_i2c_cmd,FUNC_0
+bsc_writel,FUNC_1
+cnt_reg,VAR_2
+data_in,VAR_3
+brcmstb_i2c_write_data_byte,FUNC_2
+dev,VAR_4
+buf,VAR_5
+nak_expected,VAR_6
+cmd,VAR_7

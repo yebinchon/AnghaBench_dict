@@ -1,0 +1,17 @@
+DOSMAGIC,VAR_0
+FILHSZ,VAR_1
+F_DLL,VAR_2
+F_RELFLG,VAR_3
+H_PUT_16,FUNC_0
+H_PUT_32,FUNC_1
+NT_SIGNATURE,VAR_4
+PUT_FILEHDR_SYMPTR,FUNC_2
+pe_data,FUNC_3
+time,FUNC_4
+_bfd_XXi_only_swap_filehdr_out,FUNC_5
+abfd,VAR_5
+in,VAR_6
+out,VAR_7
+idx,VAR_8
+filehdr_in,VAR_9
+filehdr_out,VAR_10

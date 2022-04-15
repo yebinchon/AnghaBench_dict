@@ -1,0 +1,17 @@
+OPTION_DYN_IPG_ENABLE,VAR_0
+amd8111e_disable_interrupt,FUNC_0
+amd8111e_free_ring,FUNC_1
+amd8111e_free_skbs,FUNC_2
+amd8111e_get_stats,FUNC_3
+amd8111e_stop_chip,FUNC_4
+del_timer_sync,FUNC_5
+free_irq,FUNC_6
+napi_disable,FUNC_7
+netdev_priv,FUNC_8
+netif_carrier_off,FUNC_9
+netif_stop_queue,FUNC_10
+spin_lock_irq,FUNC_11
+spin_unlock_irq,FUNC_12
+amd8111e_close,FUNC_13
+dev,VAR_1
+lp,VAR_2

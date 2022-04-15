@@ -1,0 +1,15 @@
+BPF_TASK_FD_QUERY,VAR_0
+ptr_to_u64,FUNC_0
+sys_bpf,FUNC_1
+bpf_task_fd_query,FUNC_2
+pid,VAR_1
+fd,VAR_2
+flags,VAR_3
+buf,VAR_4
+buf_len,VAR_5
+prog_id,VAR_6
+fd_type,VAR_7
+probe_offset,VAR_8
+probe_addr,VAR_9
+attr,VAR_10
+err,VAR_11

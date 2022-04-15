@@ -1,0 +1,16 @@
+GPIO_INT_LEVEL_H,VAR_0
+GPIO_INT_LEVEL_L,VAR_1
+HWIRQ_TO_GPIO,FUNC_0
+IRQ_TYPE_EDGE_BOTH,VAR_2
+IRQ_TYPE_SENSE_MASK,VAR_3
+MPA_GPIO_INT_LVL,VAR_4
+MPA_GPIO_SEL_LO,VAR_5
+irq_chip_set_type_parent,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+xgene_gpio_set_bit,FUNC_3
+xgene_gpio_sb_irq_set_type,FUNC_4
+d,VAR_6
+type,VAR_7
+priv,VAR_8
+gpio,VAR_9
+lvl_type,VAR_10

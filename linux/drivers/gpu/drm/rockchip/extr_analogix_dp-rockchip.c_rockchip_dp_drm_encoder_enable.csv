@@ -1,0 +1,17 @@
+DRM_DEV_DEBUG,FUNC_0
+DRM_DEV_ERROR,FUNC_1
+clk_disable_unprepare,FUNC_2
+clk_prepare_enable,FUNC_3
+drm_atomic_get_old_crtc_state,FUNC_4
+drm_of_encoder_active_endpoint_id,FUNC_5
+regmap_write,FUNC_6
+rockchip_dp_drm_get_new_crtc,FUNC_7
+to_dp,FUNC_8
+rockchip_dp_drm_encoder_enable,FUNC_9
+encoder,VAR_0
+state,VAR_1
+dp,VAR_2
+crtc,VAR_3
+old_crtc_state,VAR_4
+ret,VAR_5
+val,VAR_6

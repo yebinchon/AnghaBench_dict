@@ -1,0 +1,12 @@
+add_lua_obs_callback_extra,FUNC_0
+defer_call_post,FUNC_1
+defer_timer_init,VAR_0
+is_function,FUNC_2
+lua_obs_callback_extra_data,FUNC_3
+lua_tointeger,FUNC_4
+obs_get_video_frame_time,FUNC_5
+timer_add,FUNC_6
+script,VAR_1
+ms,VAR_2
+cb,VAR_3
+timer,VAR_4

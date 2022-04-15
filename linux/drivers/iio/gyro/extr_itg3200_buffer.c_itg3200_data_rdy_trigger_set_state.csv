@@ -1,0 +1,11 @@
+ITG3200_IRQ_DATA_RDY_ENABLE,VAR_0
+ITG3200_REG_IRQ_CONFIG,VAR_1
+iio_trigger_get_drvdata,FUNC_0
+itg3200_read_reg_8,FUNC_1
+itg3200_write_reg_8,FUNC_2
+itg3200_data_rdy_trigger_set_state,FUNC_3
+trig,VAR_2
+state,VAR_3
+indio_dev,VAR_4
+ret,VAR_5
+msc,VAR_6

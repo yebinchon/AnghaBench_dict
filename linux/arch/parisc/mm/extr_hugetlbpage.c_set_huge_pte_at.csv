@@ -1,0 +1,10 @@
+__set_huge_pte_at,FUNC_0
+pgd_spinlock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+set_huge_pte_at,FUNC_4
+mm,VAR_0
+addr,VAR_1
+ptep,VAR_2
+entry,VAR_3
+flags,VAR_4

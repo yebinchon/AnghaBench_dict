@@ -1,0 +1,11 @@
+PCI_VENDOR_ID_INTEL,VAR_0
+USBLEGSUP,VAR_1
+USBLEGSUP_DEFAULT,VAR_2
+USBRES_INTEL,VAR_3
+pci_write_config_byte,FUNC_0
+pci_write_config_word,FUNC_1
+to_pci_dev,FUNC_2
+uhci_dev,FUNC_3
+uhci_pci_configure_hc,FUNC_4
+uhci,VAR_4
+pdev,VAR_5

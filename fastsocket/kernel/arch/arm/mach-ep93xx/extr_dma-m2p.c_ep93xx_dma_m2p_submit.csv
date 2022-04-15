@@ -1,0 +1,16 @@
+M2P_CONTROL,VAR_0
+M2P_CONTROL_NFB_IRQ_EN,VAR_1
+M2P_CONTROL_STALL_IRQ_EN,VAR_2
+feed_buf,FUNC_0
+list_add_tail,FUNC_1
+m2p_set_control,FUNC_2
+readl,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+stub1,FUNC_6
+ep93xx_dma_m2p_submit,FUNC_7
+cl,VAR_3
+buf,VAR_4
+ch,VAR_5
+flags,VAR_6
+v,VAR_7

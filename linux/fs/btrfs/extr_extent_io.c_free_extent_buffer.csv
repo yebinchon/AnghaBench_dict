@@ -1,0 +1,15 @@
+EXTENT_BUFFER_STALE,VAR_0
+EXTENT_BUFFER_TREE_REF,VAR_1
+EXTENT_BUFFER_UNMAPPED,VAR_2
+atomic_cmpxchg,FUNC_0
+atomic_dec,FUNC_1
+atomic_read,FUNC_2
+extent_buffer_under_io,FUNC_3
+release_extent_buffer,FUNC_4
+spin_lock,FUNC_5
+test_and_clear_bit,FUNC_6
+test_bit,FUNC_7
+free_extent_buffer,FUNC_8
+eb,VAR_3
+refs,VAR_4
+old,VAR_5

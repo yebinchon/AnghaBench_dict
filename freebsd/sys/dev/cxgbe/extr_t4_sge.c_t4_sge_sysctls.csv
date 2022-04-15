@@ -1,0 +1,12 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_STRING,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_PROC,FUNC_1
+cong_drop,VAR_3
+sysctl_bufsizes,VAR_4
+t4_sge_sysctls,FUNC_2
+sc,VAR_5
+ctx,VAR_6
+children,VAR_7
+sp,VAR_8

@@ -1,0 +1,16 @@
+DMU_OT_DSL_DATASET,VAR_0
+VERIFY,FUNC_0
+VERIFY0,FUNC_1
+ZFEATURE_FLAG_PER_DATASET,VAR_1
+dmu_object_zapify,FUNC_2
+dmu_tx_pool,FUNC_3
+spa_feature_incr,FUNC_4
+spa_feature_table,VAR_2
+zap_add,FUNC_5
+dsl_dataset_activate_feature,FUNC_6
+dsobj,VAR_3
+f,VAR_4
+tx,VAR_5
+spa,VAR_6
+mos,VAR_7
+zero,VAR_8

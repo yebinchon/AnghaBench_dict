@@ -1,0 +1,17 @@
+ENXIO,VAR_0
+IFF_DRV_RUNNING,VAR_1
+PCIM_CMD_BUSMASTEREN,VAR_2
+PCIR_COMMAND,VAR_3
+callout_reset,FUNC_0
+mxge_ticks,VAR_4
+mxge_watchdog,FUNC_1
+pci_read_config,FUNC_2
+taskqueue_enqueue,FUNC_3
+mxge_tick,FUNC_4
+arg,VAR_5
+sc,VAR_6
+pkts,VAR_7
+err,VAR_8
+running,VAR_9
+ticks,VAR_10
+cmd,VAR_11

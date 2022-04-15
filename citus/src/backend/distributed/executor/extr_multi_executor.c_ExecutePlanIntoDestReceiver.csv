@@ -1,0 +1,15 @@
+CreateNewPortal,FUNC_0
+FETCH_ALL,VAR_0
+GetActiveSnapshot,FUNC_1
+PortalDefineQuery,FUNC_2
+PortalDrop,FUNC_3
+PortalRun,FUNC_4
+PortalStart,FUNC_5
+list_make1,FUNC_6
+ExecutePlanIntoDestReceiver,FUNC_7
+queryPlan,VAR_1
+params,VAR_2
+dest,VAR_3
+portal,VAR_4
+eflags,VAR_5
+count,VAR_6

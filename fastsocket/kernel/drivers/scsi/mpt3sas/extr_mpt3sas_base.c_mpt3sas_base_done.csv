@@ -1,0 +1,14 @@
+MPI2_FUNCTION_EVENT_ACK,VAR_0
+MPT3_CMD_COMPLETE,VAR_1
+MPT3_CMD_NOT_USED,VAR_2
+MPT3_CMD_PENDING,VAR_3
+MPT3_CMD_REPLY_VALID,VAR_4
+complete,FUNC_0
+memcpy,FUNC_1
+mpt3sas_base_get_reply_virt_addr,FUNC_2
+mpt3sas_base_done,FUNC_3
+ioc,VAR_5
+smid,VAR_6
+msix_index,VAR_7
+reply,VAR_8
+mpi_reply,VAR_9

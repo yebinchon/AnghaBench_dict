@@ -1,0 +1,15 @@
+USBTV_REQUEST_REG,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_DEVICE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+usb_control_msg,FUNC_0
+usb_rcvctrlpipe,FUNC_1
+usbtv_set_regs,FUNC_2
+usbtv,VAR_4
+regs,VAR_5
+size,VAR_6
+ret,VAR_7
+pipe,VAR_8
+i,VAR_9
+index,VAR_10
+value,VAR_11

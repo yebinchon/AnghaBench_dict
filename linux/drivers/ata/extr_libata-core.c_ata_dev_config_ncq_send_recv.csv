@@ -1,0 +1,16 @@
+ATA_DFLAG_NCQ_SEND_RECV,VAR_0
+ATA_HORKAGE_NO_NCQ_TRIM,VAR_1
+ATA_LOG_NCQ_SEND_RECV,VAR_2
+ATA_LOG_NCQ_SEND_RECV_DSM_OFFSET,VAR_3
+ATA_LOG_NCQ_SEND_RECV_DSM_TRIM,VAR_4
+ATA_LOG_NCQ_SEND_RECV_SIZE,VAR_5
+ata_dev_dbg,FUNC_0
+ata_dev_warn,FUNC_1
+ata_log_supported,FUNC_2
+ata_read_log_page,FUNC_3
+memcpy,FUNC_4
+ata_dev_config_ncq_send_recv,FUNC_5
+dev,VAR_6
+ap,VAR_7
+err_mask,VAR_8
+cmds,VAR_9

@@ -1,0 +1,17 @@
+USB_MAX_IOWRITE16_COUNT,VAR_0
+ZD_ASSERT,FUNC_0
+dev_dbg_f,FUNC_1
+mutex_is_locked,FUNC_2
+zd_chip_dev,FUNC_3
+zd_usb_iowrite16v_async,FUNC_4
+zd_usb_iowrite16v_async_end,FUNC_5
+zd_usb_iowrite16v_async_start,FUNC_6
+zd_iowrite16a_locked,FUNC_7
+chip,VAR_1
+ioreqs,VAR_2
+count,VAR_3
+r,VAR_4
+i,VAR_5
+j,VAR_6
+t,VAR_7
+max,VAR_8

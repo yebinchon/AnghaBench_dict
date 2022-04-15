@@ -1,0 +1,8 @@
+GUEST_GDTR_BASE,VAR_0
+GUEST_GDTR_LIMIT,VAR_1
+pr_err,FUNC_0
+vmcs_read32,FUNC_1
+vmcs_readl,FUNC_2
+vmx_dump_dtsel,FUNC_3
+name,VAR_2
+limit,VAR_3

@@ -1,0 +1,10 @@
+IRQ_NONE,VAR_0
+VIRTIO_PCI_ISR_CONFIG,VAR_1
+ioread8,FUNC_0
+vp_config_changed,FUNC_1
+vp_vring_interrupt,FUNC_2
+vp_interrupt,FUNC_3
+irq,VAR_2
+opaque,VAR_3
+vp_dev,VAR_4
+isr,VAR_5

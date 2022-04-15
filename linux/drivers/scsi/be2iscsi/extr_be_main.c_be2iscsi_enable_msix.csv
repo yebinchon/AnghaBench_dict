@@ -1,0 +1,9 @@
+BEISCSI_MAX_NUM_CPUS,VAR_0
+PCI_IRQ_AFFINITY,VAR_1
+PCI_IRQ_MSIX,VAR_2
+enable_msix,VAR_3
+pci_alloc_irq_vectors_affinity,FUNC_0
+be2iscsi_enable_msix,FUNC_1
+phba,VAR_4
+nvec,VAR_5
+desc,VAR_6

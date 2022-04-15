@@ -1,0 +1,16 @@
+A10_INTR_MAX_NIRQS,VAR_0
+ENXIO,VAR_1
+OF_xref_from_node,FUNC_0
+a10_intr,VAR_2
+device_get_nameunit,FUNC_1
+intr_isrc_register,FUNC_2
+intr_pic_claim_root,FUNC_3
+intr_pic_register,FUNC_4
+ofw_bus_get_node,FUNC_5
+a10_intr_pic_attach,FUNC_6
+sc,VAR_3
+pic,VAR_4
+error,VAR_5
+irq,VAR_6
+name,VAR_7
+xref,VAR_8

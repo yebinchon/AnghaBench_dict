@@ -1,0 +1,17 @@
+CONFIG_DRM_I915_DEBUG_GEM,VAR_0
+IS_ENABLED,FUNC_0
+intel_uncore_forcewake_get__locked,FUNC_1
+intel_uncore_forcewake_put__locked,FUNC_2
+intel_uncore_read_fw,FUNC_3
+intel_uncore_rmw_fw,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+wa_verify,FUNC_7
+wal_get_fw_for_rmw,FUNC_8
+wa_list_apply,FUNC_9
+uncore,VAR_1
+wal,VAR_2
+fw,VAR_3
+flags,VAR_4
+wa,VAR_5
+i,VAR_6

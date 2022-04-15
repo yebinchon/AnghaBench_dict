@@ -1,0 +1,17 @@
+EXT4_INODES_PER_GROUP,FUNC_0
+EXT4_SB,FUNC_1
+J_ASSERT_BH,FUNC_2
+buffer_locked,FUNC_3
+ext4_error,FUNC_4
+ext4_free_blks_set,FUNC_5
+ext4_free_inodes_set,FUNC_6
+ext4_group_desc_csum_verify,FUNC_7
+ext4_itable_unused_set,FUNC_8
+mark_bitmap_end,FUNC_9
+memset,FUNC_10
+ext4_init_inode_bitmap,FUNC_11
+sb,VAR_0
+bh,VAR_1
+block_group,VAR_2
+gdp,VAR_3
+sbi,VAR_4

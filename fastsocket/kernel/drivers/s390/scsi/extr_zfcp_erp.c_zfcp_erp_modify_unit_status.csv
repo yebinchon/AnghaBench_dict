@@ -1,0 +1,14 @@
+ZFCP_SET,VAR_0
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_1
+atomic_clear_mask,FUNC_0
+atomic_set,FUNC_1
+atomic_set_mask,FUNC_2
+status_change_clear,FUNC_3
+status_change_set,FUNC_4
+zfcp_dbf_rec_unit,FUNC_5
+zfcp_erp_modify_unit_status,FUNC_6
+unit,VAR_2
+id,VAR_3
+ref,VAR_4
+mask,VAR_5
+set_or_clear,VAR_6

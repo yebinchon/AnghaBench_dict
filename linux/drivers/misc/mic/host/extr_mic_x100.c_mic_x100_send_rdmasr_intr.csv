@@ -1,0 +1,8 @@
+MIC_X100_SBOX_BASE_ADDRESS,VAR_0
+MIC_X100_SBOX_RDMASR0,VAR_1
+mic_mmio_write,FUNC_0
+wmb,FUNC_1
+mic_x100_send_rdmasr_intr,FUNC_2
+mdev,VAR_2
+doorbell,VAR_3
+rdmasr_offset,VAR_4

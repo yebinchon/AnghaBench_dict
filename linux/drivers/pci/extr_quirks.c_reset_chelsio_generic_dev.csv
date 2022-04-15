@@ -1,0 +1,16 @@
+ENOTTY,VAR_0
+PCI_COMMAND,VAR_1
+PCI_COMMAND_MASTER,VAR_2
+PCI_MSIX_FLAGS,VAR_3
+PCI_MSIX_FLAGS_ENABLE,VAR_4
+PCI_MSIX_FLAGS_MASKALL,VAR_5
+pci_read_config_word,FUNC_0
+pci_restore_state,FUNC_1
+pci_save_state,FUNC_2
+pci_write_config_word,FUNC_3
+pcie_flr,FUNC_4
+reset_chelsio_generic_dev,FUNC_5
+dev,VAR_6
+probe,VAR_7
+old_command,VAR_8
+msix_flags,VAR_9

@@ -1,0 +1,13 @@
+HWRM_WOL_FILTER_ALLOC_INPUT_WOL_TYPE_MAGICPKT,VAR_0
+HWRM_WOL_FILTER_QCFG,VAR_1
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+htole16,FUNC_1
+hwrm_send_message,FUNC_2
+le16toh,FUNC_3
+bnxt_hwrm_get_wol_fltrs,FUNC_4
+softc,VAR_2
+handle,VAR_3
+req,VAR_4
+resp,VAR_5
+next_handle,VAR_6
+rc,VAR_7

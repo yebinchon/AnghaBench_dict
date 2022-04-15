@@ -1,0 +1,17 @@
+BRCMS_PHY_11N_CAP,FUNC_0
+BRCM_RATE_11M,VAR_0
+PHY_TXC1_BW_40MHZ_DUP,VAR_1
+RSPEC_BW_MASK,VAR_2
+RSPEC_BW_SHIFT,VAR_3
+RSPEC_STF_MASK,VAR_4
+RSPEC_STF_SHIFT,VAR_5
+brcms_basic_rate,FUNC_1
+is_cck_rate,FUNC_2
+is_ofdm_rate,FUNC_3
+rspec_is40mhz,FUNC_4
+brcms_c_rspec_to_rts_rspec,FUNC_5
+wlc,VAR_6
+rspec,VAR_7
+use_rspec,VAR_8
+mimo_ctlchbw,VAR_9
+rts_rspec,VAR_10

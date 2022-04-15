@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+PAGE_SIZE,VAR_2
+SNDRV_RAWMIDI_STREAM_INPUT,VAR_3
+init_waitqueue_head,FUNC_0
+kfree,FUNC_1
+kmalloc,FUNC_2
+kzalloc,FUNC_3
+snd_rawmidi_input_event_tasklet,VAR_4
+snd_rawmidi_output_trigger_tasklet,VAR_5
+spin_lock_init,FUNC_4
+tasklet_init,FUNC_5
+snd_rawmidi_runtime_create,FUNC_6
+substream,VAR_6
+runtime,VAR_7

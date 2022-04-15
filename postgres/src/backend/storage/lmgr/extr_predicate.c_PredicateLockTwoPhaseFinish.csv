@@ -1,0 +1,15 @@
+HASH_FIND,VAR_0
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_SHARED,VAR_1
+MySerializableXact,VAR_2
+MyXactDidWrite,VAR_3
+ReleasePredicateLocks,FUNC_2
+SerializableXactHashLock,VAR_4
+SerializableXidHash,VAR_5
+hash_search,FUNC_3
+PredicateLockTwoPhaseFinish,FUNC_4
+xid,VAR_6
+isCommit,VAR_7
+sxid,VAR_8
+sxidtag,VAR_9

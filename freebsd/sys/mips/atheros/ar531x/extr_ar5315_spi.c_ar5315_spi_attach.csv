@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+ar5315_spi_attach_sysctl,FUNC_0
+bus_alloc_resource_any,FUNC_1
+bus_generic_attach,FUNC_2
+device_add_child,FUNC_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+ar5315_spi_attach,FUNC_6
+dev,VAR_3
+sc,VAR_4
+rid,VAR_5

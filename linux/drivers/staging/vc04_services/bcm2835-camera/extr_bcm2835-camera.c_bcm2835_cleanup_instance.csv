@@ -1,0 +1,17 @@
+COMP_CAMERA,VAR_0
+COMP_IMAGE_ENCODE,VAR_1
+COMP_PREVIEW,VAR_2
+COMP_VIDEO_ENCODE,VAR_3
+bcm2835_v4l2_debug,VAR_4
+kfree,FUNC_0
+v4l2_ctrl_handler_free,FUNC_1
+v4l2_dbg,FUNC_2
+v4l2_device_unregister,FUNC_3
+v4l2_info,FUNC_4
+vchiq_mmal_component_disable,FUNC_5
+vchiq_mmal_component_finalise,FUNC_6
+vchiq_mmal_port_connect_tunnel,FUNC_7
+video_device_node_name,FUNC_8
+video_unregister_device,FUNC_9
+bcm2835_cleanup_instance,FUNC_10
+dev,VAR_5

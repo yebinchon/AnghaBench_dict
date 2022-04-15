@@ -1,0 +1,11 @@
+IRQ_EINT4,VAR_0
+S3C24XX_EINTMASK,VAR_1
+S3C24XX_EINTPEND,VAR_2
+__ffs,FUNC_0
+__raw_readl,FUNC_1
+generic_handle_irq,FUNC_2
+s3c_irq_demux_extint8,FUNC_3
+irq,VAR_3
+desc,VAR_4
+eintpnd,VAR_5
+eintmsk,VAR_6

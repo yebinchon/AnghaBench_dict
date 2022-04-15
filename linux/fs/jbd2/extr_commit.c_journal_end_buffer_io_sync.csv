@@ -1,0 +1,12 @@
+BH_Shadow,VAR_0
+BUFFER_TRACE,FUNC_0
+clear_bit_unlock,FUNC_1
+clear_buffer_uptodate,FUNC_2
+set_buffer_uptodate,FUNC_3
+smp_mb__after_atomic,FUNC_4
+unlock_buffer,FUNC_5
+wake_up_bit,FUNC_6
+journal_end_buffer_io_sync,FUNC_7
+bh,VAR_1
+uptodate,VAR_2
+orig_bh,VAR_3

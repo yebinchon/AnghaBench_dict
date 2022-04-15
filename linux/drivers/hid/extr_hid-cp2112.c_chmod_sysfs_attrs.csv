@@ -1,0 +1,14 @@
+CP2112_LOCK_BYTE,VAR_0
+HID_FEATURE_REPORT,VAR_1
+S_IRUGO,VAR_2
+S_IWUSR,VAR_3
+cp2112_attr_group,VAR_4
+cp2112_hid_get,FUNC_0
+hid_err,FUNC_1
+sysfs_chmod_file,FUNC_2
+chmod_sysfs_attrs,FUNC_3
+hdev,VAR_5
+attr,VAR_6
+buf,VAR_7
+ret,VAR_8
+mode,VAR_9

@@ -1,0 +1,15 @@
+SQLITE_BUSY,VAR_0
+SQLITE_MAX_ATTACHED,VAR_1
+SQLITE_OK,VAR_2
+assert,FUNC_0
+sqlite3BtreeCheckpoint,FUNC_1
+sqlite3_mutex_held,FUNC_2
+sqlite3Checkpoint,FUNC_3
+db,VAR_3
+iDb,VAR_4
+eMode,VAR_5
+pnLog,VAR_6
+pnCkpt,VAR_7
+rc,VAR_8
+i,VAR_9
+bBusy,VAR_10

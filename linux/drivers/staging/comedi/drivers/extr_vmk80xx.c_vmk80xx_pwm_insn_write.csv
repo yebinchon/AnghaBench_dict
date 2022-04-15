@@ -1,0 +1,16 @@
+VMK8061_CMD_OUT_PWM,VAR_0
+VMK8061_PWM_REG1,VAR_1
+VMK8061_PWM_REG2,VAR_2
+down,FUNC_0
+up,FUNC_1
+vmk80xx_write_packet,FUNC_2
+vmk80xx_pwm_insn_write,FUNC_3
+dev,VAR_3
+s,VAR_4
+insn,VAR_5
+data,VAR_6
+devpriv,VAR_7
+tx_buf,VAR_8
+reg,VAR_9
+cmd,VAR_10
+n,VAR_11

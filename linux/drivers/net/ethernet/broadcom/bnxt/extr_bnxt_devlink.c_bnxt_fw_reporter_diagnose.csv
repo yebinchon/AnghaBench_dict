@@ -1,0 +1,17 @@
+BNXT_FW_HEALTH_REG,VAR_0
+BNXT_FW_RESET_CNT_REG,VAR_1
+BNXT_FW_STATUS_HEALTHY,VAR_2
+BNXT_STATE_IN_FW_RESET,VAR_3
+bnxt_fw_health_readl,FUNC_0
+devlink_fmsg_string_pair_put,FUNC_1
+devlink_fmsg_u32_pair_put,FUNC_2
+devlink_health_reporter_priv,FUNC_3
+test_bit,FUNC_4
+bnxt_fw_reporter_diagnose,FUNC_5
+reporter,VAR_4
+fmsg,VAR_5
+bp,VAR_6
+health,VAR_7
+val,VAR_8
+health_status,VAR_9
+rc,VAR_10

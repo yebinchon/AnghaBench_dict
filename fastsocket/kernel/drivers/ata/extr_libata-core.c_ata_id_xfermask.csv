@@ -1,0 +1,16 @@
+ATA_ID_CFA_MODES,VAR_0
+ATA_ID_FIELD_VALID,VAR_1
+ATA_ID_MWDMA_MODES,VAR_2
+ATA_ID_OLD_PIO_MODES,VAR_3
+ATA_ID_PIO_MODES,VAR_4
+ATA_ID_UDMA_MODES,VAR_5
+ata_id_is_cfa,FUNC_0
+ata_pack_xfermask,FUNC_1
+ata_id_xfermask,FUNC_2
+id,VAR_6
+pio_mask,VAR_7
+mwdma_mask,VAR_8
+udma_mask,VAR_9
+mode,VAR_10
+pio,VAR_11
+dma,VAR_12

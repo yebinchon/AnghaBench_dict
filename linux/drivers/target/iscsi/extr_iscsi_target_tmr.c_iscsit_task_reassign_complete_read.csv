@@ -1,0 +1,17 @@
+CMD_T_COMPLETE,VAR_0
+CMD_T_SENT,VAR_1
+DATAIN_CONNECTION_RECOVERY,VAR_2
+ICF_GOT_DATACK_SNACK,VAR_3
+ISTATE_SEND_DATAIN,VAR_4
+iscsit_add_cmd_to_response_queue,FUNC_0
+iscsit_allocate_datain_req,FUNC_1
+iscsit_attach_datain_req,FUNC_2
+pr_debug,FUNC_3
+pr_err,FUNC_4
+transport_handle_cdb_direct,FUNC_5
+iscsit_task_reassign_complete_read,FUNC_6
+cmd,VAR_5
+tmr_req,VAR_6
+conn,VAR_7
+dr,VAR_8
+se_cmd,VAR_9

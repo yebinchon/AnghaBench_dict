@@ -1,0 +1,15 @@
+CLOCK_MONOTONIC,VAR_0
+FORMAT_TIMESPAN_MAX,VAR_1
+SELABEL_CTX_FILE,VAR_2
+errno,VAR_3
+format_timespan,FUNC_0
+label_hnd,VAR_4
+log_debug,FUNC_1
+log_enforcing_errno,FUNC_2
+mac_selinux_use,FUNC_3
+mallinfo,FUNC_4
+now,FUNC_5
+security_getenforce,FUNC_6
+selabel_open,FUNC_7
+mac_selinux_init,FUNC_8
+r,VAR_5

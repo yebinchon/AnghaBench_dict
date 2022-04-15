@@ -1,0 +1,16 @@
+BPF_PPC_STACKFRAME,VAR_0
+BPF_REG_10,VAR_1
+BPF_REG_6,VAR_2
+PPC_ADDI,FUNC_0
+PPC_BPF_LL,FUNC_1
+PPC_LR_STKOFF,VAR_3
+PPC_MTLR,FUNC_2
+SEEN_FUNC,VAR_4
+b2p,VAR_5
+bpf_has_stack_frame,FUNC_3
+bpf_is_seen_register,FUNC_4
+bpf_jit_stack_offsetof,FUNC_5
+bpf_jit_emit_common_epilogue,FUNC_6
+image,VAR_6
+ctx,VAR_7
+i,VAR_8

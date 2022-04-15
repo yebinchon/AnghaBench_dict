@@ -1,0 +1,12 @@
+CVMX_USBCX_GRSTCTL,FUNC_0
+__delay,FUNC_1
+cvmx_get_cycle,FUNC_2
+cvmx_usb_read_csr32,FUNC_3
+octeon_get_clock_rate,VAR_0
+cvmx_wait_tx_rx,FUNC_4
+usb,VAR_1
+fflsh_type,VAR_2
+result,VAR_3
+address,VAR_4
+done,VAR_5
+c,VAR_6

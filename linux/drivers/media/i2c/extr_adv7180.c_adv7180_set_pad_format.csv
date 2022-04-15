@@ -1,0 +1,15 @@
+ADV7180_FLAG_I2P,VAR_0
+V4L2_FIELD_ALTERNATE,VAR_1
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_2
+adv7180_mbus_fmt,FUNC_0
+adv7180_set_field_mode,FUNC_1
+adv7180_set_power,FUNC_2
+to_state,FUNC_3
+v4l2_subdev_get_try_format,FUNC_4
+adv7180_set_pad_format,FUNC_5
+sd,VAR_3
+cfg,VAR_4
+format,VAR_5
+state,VAR_6
+framefmt,VAR_7
+ret,VAR_8

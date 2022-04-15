@@ -1,0 +1,17 @@
+SSH_AGENTC_LOCK,VAR_0
+SSH_AGENTC_UNLOCK,VAR_1
+SSH_ERR_ALLOC_FAIL,VAR_2
+decode_reply,FUNC_0
+ssh_request_reply,FUNC_1
+sshbuf_free,FUNC_2
+sshbuf_get_u8,FUNC_3
+sshbuf_new,FUNC_4
+sshbuf_put_cstring,FUNC_5
+sshbuf_put_u8,FUNC_6
+ssh_lock_agent,FUNC_7
+sock,VAR_3
+lock,VAR_4
+password,VAR_5
+r,VAR_6
+type,VAR_7
+msg,VAR_8

@@ -1,0 +1,12 @@
+LIO_CN23XX_PF_VID,VAR_0
+lio_read_csr32,FUNC_0
+lio_read_csr64,FUNC_1
+lio_write_csr32,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+lio_pci_readq,FUNC_5
+oct,VAR_1
+addr,VAR_2
+val64,VAR_3
+val32,VAR_4
+addrhi,VAR_5

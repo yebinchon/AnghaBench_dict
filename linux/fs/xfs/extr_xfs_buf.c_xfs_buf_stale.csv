@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+XBF_STALE,VAR_0
+XFS_BSTATE_DISPOSE,VAR_1
+_XBF_DELWRI_Q,VAR_2
+__xfs_buf_ioacct_dec,FUNC_1
+atomic_dec,FUNC_2
+atomic_read,FUNC_3
+atomic_set,FUNC_4
+list_lru_del,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+xfs_buf_islocked,FUNC_8
+xfs_buf_stale,FUNC_9
+bp,VAR_3

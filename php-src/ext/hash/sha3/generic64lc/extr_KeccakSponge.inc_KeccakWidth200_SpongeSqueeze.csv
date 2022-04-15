@@ -1,0 +1,13 @@
+SnP_ExtractBytes,FUNC_0
+SnP_Permute,FUNC_1
+SpongeAbsorbLastFewBits,FUNC_2
+displayBytes,FUNC_3
+SpongeSqueeze,FUNC_4
+instance,VAR_0
+data,VAR_1
+dataByteLen,VAR_2
+i,VAR_3
+j,VAR_4
+partialBlock,VAR_5
+rateInBytes,VAR_6
+curData,VAR_7

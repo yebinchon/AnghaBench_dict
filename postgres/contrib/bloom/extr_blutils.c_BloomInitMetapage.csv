@@ -1,0 +1,15 @@
+Assert,FUNC_0
+BLOOM_METAPAGE_BLKNO,VAR_0
+BloomFillMetapage,FUNC_1
+BloomNewBuffer,FUNC_2
+BufferGetBlockNumber,FUNC_3
+GENERIC_XLOG_FULL_IMAGE,VAR_1
+GenericXLogFinish,FUNC_4
+GenericXLogRegisterBuffer,FUNC_5
+GenericXLogStart,FUNC_6
+UnlockReleaseBuffer,FUNC_7
+BloomInitMetapage,FUNC_8
+index,VAR_2
+metaBuffer,VAR_3
+metaPage,VAR_4
+state,VAR_5

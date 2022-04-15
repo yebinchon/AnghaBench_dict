@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+FASTTRAP_PROCS_INDEX,FUNC_1
+KM_SLEEP,VAR_0
+MUTEX_DEFAULT,VAR_1
+atomic_inc_64,FUNC_2
+fasttrap_procs,VAR_2
+kmem_free,FUNC_3
+kmem_zalloc,FUNC_4
+mutex_enter,FUNC_5
+mutex_exit,FUNC_6
+mutex_init,FUNC_7
+fasttrap_proc_lookup,FUNC_8
+pid,VAR_3
+bucket,VAR_4
+fprc,VAR_5
+new_fprc,VAR_6

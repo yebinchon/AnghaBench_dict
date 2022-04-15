@@ -1,0 +1,17 @@
+AOF_OFF,VAR_0
+AOF_WAIT_REWRITE,VAR_1
+C_ERR,VAR_2
+C_OK,VAR_3
+LL_WARNING,VAR_4
+O_APPEND,VAR_5
+O_CREAT,VAR_6
+O_WRONLY,VAR_7
+close,FUNC_0
+errno,VAR_8
+open,FUNC_1
+rewriteAppendOnlyFileBackground,FUNC_2
+server,VAR_9
+serverAssert,FUNC_3
+serverLog,FUNC_4
+strerror,FUNC_5
+startAppendOnly,FUNC_6

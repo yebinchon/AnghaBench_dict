@@ -1,0 +1,6 @@
+KVM_REQ_UNHALT,VAR_0
+PSCI_RET_SUCCESS,VAR_1
+kvm_clear_request,FUNC_0
+kvm_vcpu_block,FUNC_1
+kvm_psci_vcpu_suspend,FUNC_2
+vcpu,VAR_2

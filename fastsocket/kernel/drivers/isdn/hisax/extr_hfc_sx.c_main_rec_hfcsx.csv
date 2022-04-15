@@ -1,0 +1,17 @@
+B_RCVBUFREADY,VAR_0
+FLG_LOCK_ATOMIC,VAR_1
+HFCSX_BTRANS_THRESHOLD,VAR_2
+HFCSX_SEL_B1_RX,VAR_3
+HFCSX_SEL_B2_RX,VAR_4
+L1_MODE_TRANS,VAR_5
+debugl1,FUNC_0
+read_fifo,FUNC_1
+schedule_event,FUNC_2
+skb_queue_tail,FUNC_3
+test_and_clear_bit,FUNC_4
+test_and_set_bit,FUNC_5
+main_rec_hfcsx,FUNC_6
+bcs,VAR_6
+cs,VAR_7
+count,VAR_8
+skb,VAR_9

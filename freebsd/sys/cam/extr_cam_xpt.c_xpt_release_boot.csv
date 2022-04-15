@@ -1,0 +1,12 @@
+M_CAMXPT,VAR_0
+M_NOWAIT,VAR_1
+TASK_INIT,FUNC_0
+malloc,FUNC_1
+taskqueue_enqueue,FUNC_2
+taskqueue_thread,VAR_2
+xpt_finishconfig_task,VAR_3
+xpt_lock_buses,FUNC_3
+xpt_unlock_buses,FUNC_4
+xsoftc,VAR_4
+xpt_release_boot,FUNC_5
+task,VAR_5

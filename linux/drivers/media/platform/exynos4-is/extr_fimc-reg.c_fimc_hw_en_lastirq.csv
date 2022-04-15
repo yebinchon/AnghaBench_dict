@@ -1,0 +1,8 @@
+FIMC_REG_CIOCTRL,VAR_0
+FIMC_REG_CIOCTRL_LASTIRQ_ENABLE,VAR_1
+readl,FUNC_0
+writel,FUNC_1
+fimc_hw_en_lastirq,FUNC_2
+dev,VAR_2
+enable,VAR_3
+cfg,VAR_4

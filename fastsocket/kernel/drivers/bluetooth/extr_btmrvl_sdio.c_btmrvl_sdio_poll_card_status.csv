@@ -1,0 +1,12 @@
+BT_ERR,FUNC_0
+CARD_STATUS_REG,VAR_0
+ETIMEDOUT,VAR_1
+MAX_POLL_TRIES,VAR_2
+sdio_readb,FUNC_1
+udelay,FUNC_2
+btmrvl_sdio_poll_card_status,FUNC_3
+card,VAR_3
+bits,VAR_4
+tries,VAR_5
+status,VAR_6
+ret,VAR_7

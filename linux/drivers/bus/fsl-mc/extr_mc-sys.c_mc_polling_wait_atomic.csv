@@ -1,0 +1,16 @@
+BUILD_BUG_ON,FUNC_0
+ETIMEDOUT,VAR_0
+MC_CMD_COMPLETION_POLLING_MAX_SLEEP_USECS,VAR_1
+MC_CMD_COMPLETION_TIMEOUT_MS,VAR_2
+MC_CMD_STATUS_READY,VAR_3
+dev_dbg,FUNC_1
+mc_cmd_hdr_read_cmdid,FUNC_2
+mc_cmd_hdr_read_token,FUNC_3
+mc_read_response,FUNC_4
+udelay,FUNC_5
+mc_polling_wait_atomic,FUNC_6
+mc_io,VAR_4
+cmd,VAR_5
+mc_status,VAR_6
+status,VAR_7
+timeout_usecs,VAR_8

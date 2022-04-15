@@ -1,0 +1,14 @@
+DECOMPRESSED_BUFFER,VAR_0
+ERROR,FUNC_0
+MAX_DECOMPRESSED_SIZE,VAR_1
+ZSTD_createDCtx,FUNC_1
+ZSTD_decompressBegin,FUNC_2
+ZSTD_decompressBlock,FUNC_3
+ZSTD_freeDCtx,FUNC_4
+ZSTD_isError,FUNC_5
+corruption_detected,VAR_2
+memcmp,FUNC_6
+testDecodeRawBlock,FUNC_7
+fr,VAR_3
+dctx,VAR_4
+ret,VAR_5

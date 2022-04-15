@@ -1,0 +1,15 @@
+USB_DIR_IN,VAR_0
+USB_RECIP_ENDPOINT,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_CLASS,VAR_3
+snd_usb_ctl_msg,FUNC_0
+snd_usb_lock_shutdown,FUNC_1
+snd_usb_unlock_shutdown,FUNC_2
+usb_rcvctrlpipe,FUNC_3
+usb_sndctrlpipe,FUNC_4
+snd_mbox1_switch_update,FUNC_5
+mixer,VAR_4
+val,VAR_5
+chip,VAR_6
+err,VAR_7
+buff,VAR_8

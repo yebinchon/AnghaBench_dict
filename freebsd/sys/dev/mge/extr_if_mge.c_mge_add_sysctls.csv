@@ -1,0 +1,17 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_UINT,VAR_2
+MGE_IC_RX,VAR_3
+MGE_IC_TX,VAR_4
+OID_AUTO,VAR_5
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_PROC,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+mge_sysctl_ic,VAR_6
+mge_add_sysctls,FUNC_5
+sc,VAR_7
+ctx,VAR_8
+children,VAR_9
+tree,VAR_10

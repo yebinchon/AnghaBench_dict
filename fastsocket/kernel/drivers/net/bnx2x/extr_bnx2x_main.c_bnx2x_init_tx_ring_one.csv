@@ -1,0 +1,13 @@
+BCM_PAGE_SIZE,VAR_0
+DOORBELL_HDR_DB_TYPE,VAR_1
+NUM_TX_RINGS,VAR_2
+SET_FLAG,FUNC_0
+TX_DESC_CNT,VAR_3
+U64_HI,FUNC_1
+U64_LO,FUNC_2
+cpu_to_le16,FUNC_3
+cpu_to_le32,FUNC_4
+bnx2x_init_tx_ring_one,FUNC_5
+txdata,VAR_4
+i,VAR_5
+tx_next_bd,VAR_6

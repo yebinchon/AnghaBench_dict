@@ -1,0 +1,15 @@
+DRM_DEV_ERROR,FUNC_0
+MIPI_DCS_SOFT_RESET,VAR_0
+mipi_dbi_command,FUNC_1
+mipi_dbi_display_is_on,FUNC_2
+mipi_dbi_hw_reset,FUNC_3
+msleep,FUNC_4
+regulator_disable,FUNC_5
+regulator_enable,FUNC_6
+usleep_range,FUNC_7
+mipi_dbi_poweron_reset_conditional,FUNC_8
+dbidev,VAR_1
+cond,VAR_2
+dev,VAR_3
+dbi,VAR_4
+ret,VAR_5

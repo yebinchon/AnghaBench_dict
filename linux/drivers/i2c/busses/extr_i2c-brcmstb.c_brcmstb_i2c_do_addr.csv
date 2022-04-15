@@ -1,0 +1,14 @@
+COND_NOSTOP,VAR_0
+COND_RESTART,VAR_1
+EREMOTEIO,VAR_2
+I2C_M_RD,VAR_3
+I2C_M_TEN,VAR_4
+brcmstb_i2c_write_data_byte,FUNC_0
+brcmstb_set_i2c_start_stop,FUNC_1
+bsc_writel,FUNC_2
+chip_address,VAR_5
+i2c_8bit_addr_from_msg,FUNC_3
+brcmstb_i2c_do_addr,FUNC_4
+dev,VAR_6
+msg,VAR_7
+addr,VAR_8

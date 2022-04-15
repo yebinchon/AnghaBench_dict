@@ -1,0 +1,10 @@
+MMC_POWER_OFF,VAR_0
+SDHCI_POWER_CONTROL,VAR_1
+SDHCI_POWER_ON,VAR_2
+mmc_regulator_set_ocr,FUNC_0
+sdhci_writeb,FUNC_1
+sdhci_set_power_reg,FUNC_2
+host,VAR_3
+mode,VAR_4
+vdd,VAR_5
+mmc,VAR_6

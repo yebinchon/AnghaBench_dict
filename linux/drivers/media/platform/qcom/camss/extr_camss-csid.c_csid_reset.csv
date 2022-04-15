@@ -1,0 +1,11 @@
+CAMSS_CSID_RST_CMD,FUNC_0
+CSID_RESET_TIMEOUT_MS,VAR_0
+EIO,VAR_1
+dev_err,FUNC_1
+msecs_to_jiffies,FUNC_2
+reinit_completion,FUNC_3
+wait_for_completion_timeout,FUNC_4
+writel_relaxed,FUNC_5
+csid_reset,FUNC_6
+csid,VAR_2
+time,VAR_3

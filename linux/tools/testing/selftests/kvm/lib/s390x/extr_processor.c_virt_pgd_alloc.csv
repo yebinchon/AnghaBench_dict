@@ -1,0 +1,10 @@
+KVM_GUEST_PAGE_TABLE_MIN_PADDR,VAR_0
+PAGES_PER_REGION,VAR_1
+TEST_ASSERT,FUNC_0
+addr_gpa2hva,FUNC_1
+memset,FUNC_2
+vm_phy_pages_alloc,FUNC_3
+virt_pgd_alloc,FUNC_4
+vm,VAR_2
+memslot,VAR_3
+paddr,VAR_4

@@ -1,0 +1,15 @@
+TSDB_MSG_TYPE_FREE_VNODE,VAR_0
+htons,FUNC_0
+mError,FUNC_1
+mTrace,FUNC_2
+mgmtGetDnode,FUNC_3
+taosBuildReqMsgToDnode,FUNC_4
+taosIpStr,FUNC_5
+taosSendMsgToDnode,FUNC_6
+mgmtSendOneFreeVnodeMsg,FUNC_7
+pVnodeGid,VAR_1
+pFreeVnode,VAR_2
+pMsg,VAR_3
+pStart,VAR_4
+msgLen,VAR_5
+pDnode,VAR_6

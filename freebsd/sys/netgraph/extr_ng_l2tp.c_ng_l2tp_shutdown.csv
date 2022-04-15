@@ -1,0 +1,12 @@
+L2TP_SEQ_CHECK,FUNC_0
+M_NETGRAPH_L2TP,VAR_0
+NG_NODE_PRIVATE,FUNC_1
+NG_NODE_UNREF,FUNC_2
+free,FUNC_3
+mtx_destroy,FUNC_4
+ng_l2tp_seq_reset,FUNC_5
+ng_uncallout,FUNC_6
+ng_l2tp_shutdown,FUNC_7
+node,VAR_1
+priv,VAR_2
+seq,VAR_3

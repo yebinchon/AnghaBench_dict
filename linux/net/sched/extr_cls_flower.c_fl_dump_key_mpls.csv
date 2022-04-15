@@ -1,0 +1,12 @@
+TCA_FLOWER_KEY_MPLS_BOS,VAR_0
+TCA_FLOWER_KEY_MPLS_LABEL,VAR_1
+TCA_FLOWER_KEY_MPLS_TC,VAR_2
+TCA_FLOWER_KEY_MPLS_TTL,VAR_3
+memchr_inv,FUNC_0
+nla_put_u32,FUNC_1
+nla_put_u8,FUNC_2
+fl_dump_key_mpls,FUNC_3
+skb,VAR_4
+mpls_key,VAR_5
+mpls_mask,VAR_6
+err,VAR_7

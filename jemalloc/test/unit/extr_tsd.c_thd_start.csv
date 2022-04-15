@@ -1,0 +1,15 @@
+MALLOC_TSD_TEST_DATA_INIT,VAR_0
+assert_ptr_not_null,FUNC_0
+assert_x_eq,FUNC_1
+data_cleanup,VAR_1
+free,FUNC_2
+malloc,FUNC_3
+tsd_fetch,FUNC_4
+tsd_test_callback_set,FUNC_5
+tsd_test_data_get,FUNC_6
+tsd_test_data_set,FUNC_7
+thd_start,FUNC_8
+arg,VAR_2
+d,VAR_3
+p,VAR_4
+tsd,VAR_5

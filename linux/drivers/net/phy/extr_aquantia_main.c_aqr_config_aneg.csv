@@ -1,0 +1,17 @@
+AUTONEG_DISABLE,VAR_0
+ETHTOOL_LINK_MODE_1000baseT_Full_BIT,VAR_1
+ETHTOOL_LINK_MODE_1000baseT_Half_BIT,VAR_2
+MDIO_AN_VEND_PROV,VAR_3
+MDIO_AN_VEND_PROV_1000BASET_FULL,VAR_4
+MDIO_AN_VEND_PROV_1000BASET_HALF,VAR_5
+MDIO_MMD_AN,VAR_6
+genphy_c45_an_config_aneg,FUNC_0
+genphy_c45_check_and_restart_aneg,FUNC_1
+genphy_c45_pma_setup_forced,FUNC_2
+linkmode_test_bit,FUNC_3
+phy_modify_mmd_changed,FUNC_4
+aqr_config_aneg,FUNC_5
+phydev,VAR_7
+changed,VAR_8
+reg,VAR_9
+ret,VAR_10

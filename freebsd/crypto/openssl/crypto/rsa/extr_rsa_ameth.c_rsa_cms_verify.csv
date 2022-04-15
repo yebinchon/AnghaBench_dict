@@ -1,0 +1,17 @@
+CMS_SignerInfo_get0_algs,FUNC_0
+CMS_SignerInfo_get0_pkey_ctx,FUNC_1
+EVP_PKEY_RSA_PSS,VAR_0
+NID_rsaEncryption,VAR_1
+OBJ_find_sigid_algs,FUNC_2
+OBJ_obj2nid,FUNC_3
+RSA_F_RSA_CMS_VERIFY,VAR_2
+RSA_R_ILLEGAL_OR_UNSUPPORTED_PADDING_MODE,VAR_3
+RSAerr,FUNC_4
+pkey_ctx_is_pss,FUNC_5
+rsa_pss_to_ctx,FUNC_6
+rsa_cms_verify,FUNC_7
+si,VAR_4
+nid,VAR_5
+nid2,VAR_6
+alg,VAR_7
+pkctx,VAR_8

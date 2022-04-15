@@ -1,0 +1,16 @@
+W1_DS2438_COPY_SCRATCH,VAR_0
+W1_DS2438_READ_SCRATCH,VAR_1
+W1_DS2438_RECALL_MEMORY,VAR_2
+W1_DS2438_RETRIES,VAR_3
+W1_DS2438_WRITE_SCRATCH,VAR_4
+w1_read_8,FUNC_0
+w1_reset_select_slave,FUNC_1
+w1_write_block,FUNC_2
+w1_ds2438_change_config_bit,FUNC_3
+sl,VAR_5
+mask,VAR_6
+value,VAR_7
+retries,VAR_8
+w1_buf,VAR_9
+status,VAR_10
+perform_write,VAR_11

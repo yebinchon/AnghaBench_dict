@@ -1,0 +1,14 @@
+ATA_PCI_MAX_CH,VAR_0
+BUS_TEARDOWN_INTR,FUNC_0
+ata_devclass,VAR_1
+device_get_devclass,FUNC_1
+device_get_parent,FUNC_2
+device_get_softc,FUNC_3
+ata_pci_teardown_intr,FUNC_4
+dev,VAR_2
+child,VAR_3
+irq,VAR_4
+cookie,VAR_5
+controller,VAR_6
+controller,VAR_7
+unit,VAR_8

@@ -1,0 +1,16 @@
+ExecCopySlot,FUNC_0
+ExecProcNode,FUNC_1
+ExecQualAndReset,FUNC_2
+MemoryContextSwitchTo,FUNC_3
+TupIsNull,FUNC_4
+outerPlanState,FUNC_5
+tuplestore_in_memory,FUNC_6
+tuplestore_puttupleslot,FUNC_7
+spool_tuples,FUNC_8
+winstate,VAR_0
+pos,VAR_1
+node,VAR_2
+outerPlan,VAR_3
+outerslot,VAR_4
+oldcontext,VAR_5
+econtext,VAR_6

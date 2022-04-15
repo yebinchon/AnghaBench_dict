@@ -1,0 +1,14 @@
+GET_MC_CLEAR_RET,VAR_0
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+PSL_C,VAR_1
+bzero,FUNC_2
+curthread,VAR_2
+get_fpcontext,FUNC_3
+sigonstack,FUNC_4
+get_mcontext,FUNC_5
+td,VAR_3
+mcp,VAR_4
+flags,VAR_5
+tp,VAR_6
+sdp,VAR_7

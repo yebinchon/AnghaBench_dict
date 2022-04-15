@@ -1,0 +1,9 @@
+KERN_NOT_DEPRESSED,VAR_0
+KERN_SUCCESS,VAR_1
+SETPRI_LAZY,VAR_2
+TH_SFLAG_DEPRESSED_MASK,VAR_3
+assert,FUNC_0
+thread_recompute_sched_pri,FUNC_1
+timer_call_cancel,FUNC_2
+thread_depress_abort_locked,FUNC_3
+thread,VAR_4

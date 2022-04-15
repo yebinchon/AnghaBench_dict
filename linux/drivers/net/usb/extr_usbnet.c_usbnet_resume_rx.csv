@@ -1,0 +1,11 @@
+EVENT_RX_PAUSED,VAR_0
+clear_bit,FUNC_0
+netif_dbg,FUNC_1
+rx_status,VAR_1
+skb_dequeue,FUNC_2
+tasklet_schedule,FUNC_3
+usbnet_skb_return,FUNC_4
+usbnet_resume_rx,FUNC_5
+dev,VAR_2
+skb,VAR_3
+num,VAR_4

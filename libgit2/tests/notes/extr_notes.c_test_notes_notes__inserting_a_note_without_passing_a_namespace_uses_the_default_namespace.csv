@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+_repo,VAR_1
+assert_note_equal,FUNC_0
+cl_git_pass,FUNC_1
+create_note,FUNC_2
+git_buf_cstr,FUNC_3
+git_buf_dispose,FUNC_4
+git_note_default_ref,FUNC_5
+git_note_free,FUNC_6
+git_note_read,FUNC_7
+git_oid_fromstr,FUNC_8
+test_notes_notes__inserting_a_note_without_passing_a_namespace_uses_the_default_namespace,FUNC_9
+note_oid,VAR_2
+target_oid,VAR_3
+note,VAR_4
+default_namespace_note,VAR_5
+default_ref,VAR_6

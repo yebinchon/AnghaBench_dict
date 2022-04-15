@@ -1,0 +1,17 @@
+ERROR_SUCCESS,VAR_0
+HKEY_LOCAL_MACHINE,VAR_1
+KEY_READ,VAR_2
+RegOpenKeyEx,FUNC_0
+efree,FUNC_1
+emalloc,FUNC_2
+memcpy,FUNC_3
+registry_keys,VAR_3
+strlen,FUNC_4
+OpenPhpRegistryKey,FUNC_5
+sub_key,VAR_4
+hKey,VAR_5
+key_name,VAR_6
+main_key_len,VAR_7
+sub_key_len,VAR_8
+reg_key,VAR_9
+ret,VAR_10

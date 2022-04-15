@@ -1,0 +1,11 @@
+__archive_write_close_filter,FUNC_0
+__archive_write_filter,FUNC_1
+archive_string_sprintf,FUNC_2
+archive_strlen,FUNC_3
+archive_write_set_bytes_in_last_block,FUNC_4
+uu_encode,FUNC_5
+archive_filter_uuencode_close,FUNC_6
+f,VAR_0
+state,VAR_1
+ret,VAR_2
+ret2,VAR_3

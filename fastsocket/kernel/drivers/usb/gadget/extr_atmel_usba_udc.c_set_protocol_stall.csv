@@ -1,0 +1,7 @@
+SET_STA,VAR_0
+USBA_FORCE_STALL,VAR_1
+WAIT_FOR_SETUP,VAR_2
+usba_ep_writel,FUNC_0
+set_protocol_stall,FUNC_1
+udc,VAR_3
+ep,VAR_4

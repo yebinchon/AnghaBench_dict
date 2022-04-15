@@ -1,0 +1,17 @@
+ACPI_FAILURE,FUNC_0
+ACPI_FUNCTION_TRACE,FUNC_1
+ACPI_MTX_EVENTS,VAR_0
+ACPI_SUCCESS,FUNC_2
+FALSE,VAR_1
+TRUE,VAR_2
+acpi_ev_gpe_detect,FUNC_3
+acpi_ev_initialize_gpe_block,VAR_3
+acpi_ev_walk_gpe_list,FUNC_4
+acpi_gbl_all_gpes_initialized,VAR_4
+acpi_gbl_gpe_xrupt_list_head,VAR_5
+acpi_ut_acquire_mutex,FUNC_5
+acpi_ut_release_mutex,FUNC_6
+return_ACPI_STATUS,FUNC_7
+acpi_update_all_gpes,FUNC_8
+status,VAR_6
+is_polling_needed,VAR_7

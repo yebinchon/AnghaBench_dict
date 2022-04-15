@@ -1,0 +1,12 @@
+IXGBE_MAX_MSIX_VECTORS_82598,VAR_0
+IXGBE_MAX_MSIX_VECTORS_82599,VAR_1
+IXGBE_PCIE_MSIX_82598_CAPS,VAR_2
+IXGBE_PCIE_MSIX_82599_CAPS,VAR_3
+IXGBE_PCIE_MSIX_TBL_SZ_MASK,VAR_4
+pci_read_config_word,FUNC_0
+ixgbe_get_pcie_msix_count_generic,FUNC_1
+hw,VAR_5
+adapter,VAR_6
+msix_count,VAR_7
+max_msix_count,VAR_8
+pcie_offset,VAR_9

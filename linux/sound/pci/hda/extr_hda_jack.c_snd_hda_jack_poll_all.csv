@@ -1,0 +1,10 @@
+call_jack_callback,FUNC_0
+get_jack_plug_state,FUNC_1
+jack_detect_update,FUNC_2
+snd_hda_jack_report_sync,FUNC_3
+snd_hda_jack_poll_all,FUNC_4
+codec,VAR_0
+jack,VAR_1
+i,VAR_2
+changes,VAR_3
+old_sense,VAR_4

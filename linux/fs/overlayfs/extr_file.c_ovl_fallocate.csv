@@ -1,0 +1,17 @@
+fdput,FUNC_0
+file_inode,FUNC_1
+ovl_copyattr,FUNC_2
+ovl_inode_real,FUNC_3
+ovl_override_creds,FUNC_4
+ovl_real_fdget,FUNC_5
+revert_creds,FUNC_6
+vfs_fallocate,FUNC_7
+ovl_fallocate,FUNC_8
+file,VAR_0
+mode,VAR_1
+offset,VAR_2
+len,VAR_3
+inode,VAR_4
+real,VAR_5
+old_cred,VAR_6
+ret,VAR_7

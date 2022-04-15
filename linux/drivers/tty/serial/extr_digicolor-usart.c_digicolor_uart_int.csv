@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+UA_INTFLAG_CLEAR,VAR_1
+UA_INT_RX,VAR_2
+UA_INT_STATUS,VAR_3
+UA_INT_TX,VAR_4
+digicolor_uart_rx,FUNC_0
+digicolor_uart_tx,FUNC_1
+readb_relaxed,FUNC_2
+writeb_relaxed,FUNC_3
+digicolor_uart_int,FUNC_4
+irq,VAR_5
+dev_id,VAR_6
+port,VAR_7
+int_status,VAR_8

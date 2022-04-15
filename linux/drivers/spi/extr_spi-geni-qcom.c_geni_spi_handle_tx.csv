@@ -1,0 +1,17 @@
+SE_GENI_TX_FIFOn,VAR_0
+SE_GENI_TX_WATERMARK_REG,VAR_1
+geni_byte_per_fifo_word,FUNC_0
+iowrite32_rep,FUNC_1
+min,FUNC_2
+writel,FUNC_3
+geni_spi_handle_tx,FUNC_4
+mas,VAR_2
+se,VAR_3
+max_bytes,VAR_4
+tx_buf,VAR_5
+bytes_per_fifo_word,VAR_6
+i,VAR_7
+j,VAR_8
+bytes_to_write,VAR_9
+fifo_word,VAR_10
+fifo_byte,VAR_11

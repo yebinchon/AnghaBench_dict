@@ -1,0 +1,14 @@
+IOCMD_FCPIM_PROFILE_OFF,VAR_0
+IOCMD_FCPIM_PROFILE_ON,VAR_1
+bfa_fcpim_profile_off,FUNC_0
+bfa_fcpim_profile_on,FUNC_1
+do_gettimeofday,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bfad_iocmd_fcpim_cfg_profile,FUNC_5
+bfad,VAR_2
+cmd,VAR_3
+v_cmd,VAR_4
+iocmd,VAR_5
+tv,VAR_6
+flags,VAR_7

@@ -1,0 +1,16 @@
+GPIO_INPUT_ROUTE,VAR_0
+GPIO_ST_HP,VAR_1
+GPIO_ST_HP_REAR,VAR_2
+GPIO_ST_MAGIC,VAR_3
+GPIO_ST_OUTPUT_ENABLE,VAR_4
+OXYGEN_GPIO_CONTROL,VAR_5
+OXYGEN_GPIO_DATA,VAR_6
+oxygen_clear_bits16,FUNC_0
+oxygen_set_bits16,FUNC_1
+pcm1796_init,FUNC_2
+snd_component_add,FUNC_3
+xonar_enable_output,FUNC_4
+xonar_init_cs53x1,FUNC_5
+xonar_st_init_common,FUNC_6
+chip,VAR_7
+data,VAR_8

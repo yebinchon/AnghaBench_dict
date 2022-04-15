@@ -1,0 +1,14 @@
+CVMX_L2C_SPAR0,VAR_0
+CVMX_L2C_SPAR1,VAR_1
+CVMX_L2C_SPAR2,VAR_2
+CVMX_L2C_SPAR3,VAR_3
+cvmx_l2c_get_core_way_partition,FUNC_0
+cvmx_l2c_get_num_assoc,FUNC_1
+cvmx_octeon_num_cores,FUNC_2
+cvmx_read_csr,FUNC_3
+cvmx_write_csr,FUNC_4
+cvmx_l2c_set_core_way_partition,FUNC_5
+core,VAR_4
+mask,VAR_5
+field,VAR_6
+valid_mask,VAR_7

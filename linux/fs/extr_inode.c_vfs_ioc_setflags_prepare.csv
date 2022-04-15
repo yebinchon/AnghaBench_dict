@@ -1,0 +1,9 @@
+CAP_LINUX_IMMUTABLE,VAR_0
+EPERM,VAR_1
+FS_APPEND_FL,VAR_2
+FS_IMMUTABLE_FL,VAR_3
+capable,FUNC_0
+vfs_ioc_setflags_prepare,FUNC_1
+inode,VAR_4
+oldflags,VAR_5
+flags,VAR_6

@@ -1,0 +1,14 @@
+KVM_EXIT_IO,VAR_0
+UCALL_PIO_PORT,VAR_1
+addr_gva2hva,FUNC_0
+memcpy,FUNC_1
+vcpu_regs_get,FUNC_2
+vcpu_run_complete_io,FUNC_3
+vcpu_state,FUNC_4
+get_ucall,FUNC_5
+vm,VAR_2
+vcpu_id,VAR_3
+uc,VAR_4
+run,VAR_5
+ucall,VAR_6
+regs,VAR_7

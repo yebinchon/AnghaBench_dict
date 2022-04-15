@@ -1,0 +1,10 @@
+IFCAP_VLAN_HWFILTER,VAR_0
+VMXNET3_CMD_VLAN_FILTER,VAR_1
+bcopy,FUNC_0
+bzero,FUNC_1
+if_getflags,FUNC_2
+vmxnet3_set_rxfilter,FUNC_3
+vmxnet3_write_cmd,FUNC_4
+vmxnet3_reinit_rxfilters,FUNC_5
+sc,VAR_2
+ifp,VAR_3

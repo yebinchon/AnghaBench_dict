@@ -1,0 +1,15 @@
+MP_PIN_IN,VAR_0
+MP_PIN_OUT,VAR_1
+mp_aframe_pool_create,FUNC_0
+mp_dup_str_array,FUNC_1
+mp_filter_add_pin,FUNC_2
+mp_filter_create,FUNC_3
+mp_get_config_group,FUNC_4
+resample_conf,VAR_2
+swresample_filter,VAR_3
+talloc_dup,FUNC_5
+mp_swresample_create,FUNC_6
+parent,VAR_4
+opts,VAR_5
+f,VAR_6
+p,VAR_7

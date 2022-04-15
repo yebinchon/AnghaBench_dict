@@ -1,0 +1,14 @@
+READ,VAR_0
+REQ_PREFLUSH,VAR_1
+align_to_barrier_unit_end,FUNC_0
+bio_data_dir,FUNC_1
+bio_sectors,FUNC_2
+md_flush_request,FUNC_3
+md_write_start,FUNC_4
+raid1_read_request,FUNC_5
+raid1_write_request,FUNC_6
+unlikely,FUNC_7
+raid1_make_request,FUNC_8
+mddev,VAR_2
+bio,VAR_3
+sectors,VAR_4

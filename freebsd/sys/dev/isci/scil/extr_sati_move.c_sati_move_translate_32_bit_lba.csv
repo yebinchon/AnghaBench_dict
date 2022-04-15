@@ -1,0 +1,15 @@
+sati_cb_get_cdb_address,FUNC_0
+sati_cb_get_h2d_register_fis_address,FUNC_1
+sati_get_cdb_byte,FUNC_2
+sati_set_ata_lba_high,FUNC_3
+sati_set_ata_lba_high_exp,FUNC_4
+sati_set_ata_lba_low,FUNC_5
+sati_set_ata_lba_low_exp,FUNC_6
+sati_set_ata_lba_mid,FUNC_7
+sati_set_ata_lba_mid_exp,FUNC_8
+sati_move_translate_32_bit_lba,FUNC_9
+sequence,VAR_0
+scsi_io,VAR_1
+ata_io,VAR_2
+cdb,VAR_3
+register_fis,VAR_4

@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+PMUTEX_OWNER_ID,FUNC_0
+THR_MUTEX_DESTROYED,VAR_2
+THR_PSHARED_PTR,VAR_3
+UMUTEX_RB_NOTRECOV,VAR_4
+UMUTEX_RB_OWNERDEAD,VAR_5
+__thr_free,FUNC_1
+__thr_pshared_destroy,FUNC_2
+__thr_pshared_offpage,FUNC_3
+_get_curthread,FUNC_4
+mutex_assert_not_owned,FUNC_5
+_thr_mutex_destroy,FUNC_6
+mutex,VAR_6
+m,VAR_7
+m1,VAR_8
+ret,VAR_9

@@ -1,0 +1,13 @@
+ERESTARTSYS,VAR_0
+ETIME,VAR_1
+ZPA2326_CONVERSION_JIFFIES,VAR_2
+ZPA2326_INT_SOURCE_REG,VAR_3
+regmap_read,FUNC_0
+wait_for_completion_interruptible_timeout,FUNC_1
+zpa2326_dbg,FUNC_2
+zpa2326_warn,FUNC_3
+zpa2326_wait_oneshot_completion,FUNC_4
+indio_dev,VAR_4
+private,VAR_5
+val,VAR_6
+timeout,VAR_7

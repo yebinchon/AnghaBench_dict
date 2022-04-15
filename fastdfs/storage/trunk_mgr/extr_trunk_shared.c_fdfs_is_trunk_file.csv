@@ -1,0 +1,14 @@
+FDFS_FILENAME_BASE64_LENGTH,VAR_0
+FDFS_LOGIC_FILE_PATH_LEN,VAR_1
+FDFS_TRUNK_LOGIC_FILENAME_LENGTH,VAR_2
+IS_TRUNK_FILE,FUNC_0
+base64_decode_auto,FUNC_1
+buff2long,FUNC_2
+g_fdfs_base64_context,VAR_3
+memset,FUNC_3
+fdfs_is_trunk_file,FUNC_4
+remote_filename,VAR_4
+filename_len,VAR_5
+buff_len,VAR_6
+buff,VAR_7
+file_size,VAR_8

@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+IPPROTO_TCP,VAR_0
+IPPROTO_UDP,VAR_1
+SF_GETADDRINFO_DGRAM,VAR_2
+SOCK_DGRAM,VAR_3
+SOCK_STREAM,VAR_4
+bind_local,FUNC_1
+create_socket_tcp,FUNC_2
+create_socket_udp,FUNC_3
+socket_set_buffers,FUNC_4
+socket_set_mark,FUNC_5
+create_socket,FUNC_6
+sock,VAR_5
+addr,VAR_6
+addrinfo_tmp,VAR_7

@@ -1,0 +1,11 @@
+PQ_INACTIVE,VAR_0
+VPR_NOREUSE,VAR_1
+VPR_TRYFREE,VAR_2
+_vm_page_deactivate_noreuse,FUNC_0
+vm_page_active,FUNC_1
+vm_page_assert_locked,FUNC_2
+vm_page_mvqueue,FUNC_3
+vm_page_reference,FUNC_4
+vm_page_release_toq,FUNC_5
+m,VAR_3
+flags,VAR_4

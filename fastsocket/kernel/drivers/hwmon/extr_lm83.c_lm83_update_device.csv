@@ -1,0 +1,17 @@
+HZ,VAR_0
+LM83_REG_R_STATUS1,VAR_1
+LM83_REG_R_STATUS2,VAR_2
+LM83_REG_R_TEMP,VAR_3
+dev_dbg,FUNC_0
+i2c_get_clientdata,FUNC_1
+i2c_smbus_read_byte_data,FUNC_2
+jiffies,VAR_4
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+time_after,FUNC_5
+to_i2c_client,FUNC_6
+lm83_update_device,FUNC_7
+dev,VAR_5
+client,VAR_6
+data,VAR_7
+nr,VAR_8

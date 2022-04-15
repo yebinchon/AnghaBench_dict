@@ -1,0 +1,16 @@
+BUG,FUNC_0
+ENOMEM,VAR_0
+GNTMAP_host_map,VAR_1
+GNTST_okay,VAR_2
+GNTTABOP_map_grant_ref,VAR_3
+HYPERVISOR_grant_table_op,FUNC_1
+PAGE_SIZE,VAR_4
+xen_alloc_vm_area,FUNC_2
+xen_free_vm_area,FUNC_3
+xenbus_dev_fatal,FUNC_4
+xenbus_map_ring_valloc,FUNC_5
+dev,VAR_5
+gnt_ref,VAR_6
+vaddr,VAR_7
+op,VAR_8
+area,VAR_9

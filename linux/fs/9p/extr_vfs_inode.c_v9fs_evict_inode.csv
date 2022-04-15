@@ -1,0 +1,9 @@
+V9FS_I,FUNC_0
+clear_inode,FUNC_1
+filemap_fdatawrite,FUNC_2
+p9_client_clunk,FUNC_3
+truncate_inode_pages_final,FUNC_4
+v9fs_cache_inode_put_cookie,FUNC_5
+v9fs_evict_inode,FUNC_6
+inode,VAR_0
+v9inode,VAR_1

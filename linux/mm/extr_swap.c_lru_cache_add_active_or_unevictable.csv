@@ -1,0 +1,17 @@
+NR_MLOCK,VAR_0
+PageLRU,FUNC_0
+SetPageActive,FUNC_1
+TestSetPageMlocked,FUNC_2
+UNEVICTABLE_PGMLOCKED,VAR_1
+VM_BUG_ON_PAGE,FUNC_3
+VM_LOCKED,VAR_2
+VM_SPECIAL,VAR_3
+__mod_zone_page_state,FUNC_4
+count_vm_event,FUNC_5
+hpage_nr_pages,FUNC_6
+likely,FUNC_7
+lru_cache_add,FUNC_8
+page_zone,FUNC_9
+lru_cache_add_active_or_unevictable,FUNC_10
+page,VAR_4
+vma,VAR_5

@@ -1,0 +1,12 @@
+INDICATOR_NOOP,VAR_0
+PCI_EXP_SLTCTL_ATTN_IND_OFF,VAR_1
+PCI_EXP_SLTCTL_ATTN_IND_SHIFT,VAR_2
+pci_config_pm_runtime_get,FUNC_0
+pci_config_pm_runtime_put,FUNC_1
+pciehp_set_indicators,FUNC_2
+to_ctrl,FUNC_3
+set_attention_status,FUNC_4
+hotplug_slot,VAR_3
+status,VAR_4
+ctrl,VAR_5
+pdev,VAR_6

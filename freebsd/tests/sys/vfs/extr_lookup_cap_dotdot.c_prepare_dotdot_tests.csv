@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+MAXPATHLEN,VAR_0
+O_RDONLY,VAR_1
+abspath,VAR_2
+asprintf,FUNC_1
+dirfd,VAR_3
+getcwd,FUNC_2
+mkdir,FUNC_3
+mkdirat,FUNC_4
+open,FUNC_5
+symlinkat,FUNC_6
+touchat,FUNC_7
+prepare_dotdot_tests,FUNC_8
+cwd,VAR_4

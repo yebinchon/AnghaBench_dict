@@ -1,0 +1,9 @@
+VM_PAGE_CHECK,FUNC_0
+VM_PAGE_GET_PHYS_PAGE,FUNC_1
+pmap_copy_part_page,FUNC_2
+vm_page_part_copy,FUNC_3
+src_m,VAR_0
+src_pa,VAR_1
+dst_m,VAR_2
+dst_pa,VAR_3
+len,VAR_4

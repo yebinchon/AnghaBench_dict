@@ -1,0 +1,12 @@
+VIDCON0,VAR_0
+WINDOWS_NR,VAR_1
+fimd_disable_plane,FUNC_0
+fimd_disable_vblank,FUNC_1
+fimd_enable_vblank,FUNC_2
+fimd_wait_for_vblank,FUNC_3
+pm_runtime_put_sync,FUNC_4
+writel,FUNC_5
+fimd_disable,FUNC_6
+crtc,VAR_2
+ctx,VAR_3
+i,VAR_4

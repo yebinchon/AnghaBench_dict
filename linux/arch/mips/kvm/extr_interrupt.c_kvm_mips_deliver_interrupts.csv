@@ -1,0 +1,15 @@
+BITS_PER_BYTE,VAR_0
+KVM_MIPS_IRQ_CLEAR_ALL_AT_ONCE,VAR_1
+KVM_MIPS_IRQ_DELIVER_ALL_AT_ONCE,VAR_2
+MIPS_EXC_MAX,VAR_3
+__ffs,FUNC_0
+find_next_bit,FUNC_1
+kvm_mips_callbacks,VAR_4
+stub1,FUNC_2
+stub2,FUNC_3
+kvm_mips_deliver_interrupts,FUNC_4
+vcpu,VAR_5
+cause,VAR_6
+pending,VAR_7
+pending_clr,VAR_8
+priority,VAR_9

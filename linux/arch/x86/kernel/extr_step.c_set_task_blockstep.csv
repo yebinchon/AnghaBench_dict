@@ -1,0 +1,13 @@
+DEBUGCTLMSR_BTF,VAR_0
+TIF_BLOCKSTEP,VAR_1
+clear_tsk_thread_flag,FUNC_0
+current,VAR_2
+get_debugctlmsr,FUNC_1
+local_irq_disable,FUNC_2
+local_irq_enable,FUNC_3
+set_tsk_thread_flag,FUNC_4
+update_debugctlmsr,FUNC_5
+set_task_blockstep,FUNC_6
+task,VAR_3
+on,VAR_4
+debugctl,VAR_5

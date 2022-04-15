@@ -1,0 +1,12 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_PORT_MAC_CFG,VAR_1
+PORT_MAC_CFG_REQ_ENABLES_LPBK,VAR_2
+PORT_MAC_CFG_REQ_LPBK_LOCAL,VAR_3
+PORT_MAC_CFG_REQ_LPBK_NONE,VAR_4
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+cpu_to_le32,FUNC_1
+hwrm_send_message,FUNC_2
+bnxt_hwrm_mac_loopback,FUNC_3
+bp,VAR_5
+enable,VAR_6
+req,VAR_7

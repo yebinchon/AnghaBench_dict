@@ -1,0 +1,10 @@
+SYSVSHM_LOCK,FUNC_0
+SYSVSHM_UNLOCK,FUNC_1
+kern_shmctl_locked,FUNC_2
+kern_shmctl,FUNC_3
+td,VAR_0
+shmid,VAR_1
+cmd,VAR_2
+buf,VAR_3
+bufsz,VAR_4
+error,VAR_5

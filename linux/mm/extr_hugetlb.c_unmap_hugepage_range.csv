@@ -1,0 +1,13 @@
+__unmap_hugepage_range,FUNC_0
+adjust_range_if_pmd_sharing_possible,FUNC_1
+tlb_finish_mmu,FUNC_2
+tlb_gather_mmu,FUNC_3
+unmap_hugepage_range,FUNC_4
+vma,VAR_0
+start,VAR_1
+end,VAR_2
+ref_page,VAR_3
+mm,VAR_4
+tlb,VAR_5
+tlb_start,VAR_6
+tlb_end,VAR_7

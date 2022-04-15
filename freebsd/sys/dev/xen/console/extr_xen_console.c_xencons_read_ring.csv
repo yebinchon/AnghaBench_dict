@@ -1,0 +1,13 @@
+MASK_XENCONS_IDX,FUNC_0
+rmb,FUNC_1
+wmb,FUNC_2
+xencons_lock_assert,FUNC_3
+xencons_notify_ring,FUNC_4
+xencons_read_ring,FUNC_5
+cons,VAR_0
+buffer,VAR_1
+size,VAR_2
+intf,VAR_3
+rcons,VAR_4
+rprod,VAR_5
+rsz,VAR_6

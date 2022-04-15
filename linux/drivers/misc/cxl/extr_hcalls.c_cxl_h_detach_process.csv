@@ -1,0 +1,13 @@
+CXL_H_WAIT_UNTIL_DONE,FUNC_0
+EBUSY,VAR_0
+EINVAL,VAR_1
+H_DETACH_CA_PROCESS,VAR_2
+PLPAR_HCALL_BUFSIZE,VAR_3
+WARN,FUNC_1
+_PRINT_MSG,FUNC_2
+trace_cxl_hcall_detach,FUNC_3
+cxl_h_detach_process,FUNC_4
+unit_address,VAR_4
+process_token,VAR_5
+retbuf,VAR_6
+rc,VAR_7

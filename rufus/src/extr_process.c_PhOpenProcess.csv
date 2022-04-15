@@ -1,0 +1,16 @@
+GetCurrentProcessId,FUNC_0
+InitializeObjectAttributes,FUNC_1
+NT_SUCCESS,FUNC_2
+NtCurrentProcess,FUNC_3
+NtOpenProcess,VAR_0
+Ntdll,VAR_1
+PF_INIT_OR_SET_STATUS,FUNC_4
+STATUS_SUCCESS,VAR_2
+pfNtOpenProcess,FUNC_5
+PhOpenProcess,FUNC_6
+ProcessHandle,VAR_3
+DesiredAccess,VAR_4
+ProcessId,VAR_5
+status,VAR_6
+objectAttributes,VAR_7
+clientId,VAR_8

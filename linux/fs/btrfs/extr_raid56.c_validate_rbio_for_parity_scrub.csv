@@ -1,0 +1,11 @@
+BLK_STS_IOERR,VAR_0
+__raid_recover_end_io,FUNC_0
+atomic_read,FUNC_1
+finish_parity_scrub,FUNC_2
+is_data_stripe,FUNC_3
+is_parity_stripe,FUNC_4
+rbio_orig_end_io,FUNC_5
+validate_rbio_for_parity_scrub,FUNC_6
+rbio,VAR_1
+dfail,VAR_2
+failp,VAR_3

@@ -1,0 +1,14 @@
+NR_syscalls,VAR_0
+clear_bit,FUNC_0
+enabled_enter_syscalls,VAR_1
+ftrace_syscall_enter,VAR_2
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+sys_refcount_enter,VAR_3
+syscall_name_to_nr,FUNC_3
+syscall_trace_lock,VAR_4
+unregister_trace_sys_enter,FUNC_4
+unreg_event_syscall_enter,FUNC_5
+call,VAR_5
+num,VAR_6
+name,VAR_7

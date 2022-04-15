@@ -1,0 +1,17 @@
+PCIBIOS_DEVICE_NOT_FOUND,VAR_0
+PCIBIOS_SUCCESSFUL,VAR_1
+__tsi108_read_pci_config,FUNC_0
+pci_bus_to_host,FUNC_1
+ppc_md,VAR_2
+printk,FUNC_2
+stub1,FUNC_3
+tsi_mk_config_addr,FUNC_4
+tsi108_direct_read_config,FUNC_5
+bus,VAR_3
+devfn,VAR_4
+offset,VAR_5
+len,VAR_6
+val,VAR_7
+cfg_addr,VAR_8
+hose,VAR_9
+temp,VAR_10

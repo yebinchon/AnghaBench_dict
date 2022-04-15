@@ -1,0 +1,14 @@
+G_TC_VERD,FUNC_0
+MAX_REC_LOOP,VAR_0
+SET_TC_VERD,FUNC_1
+TC_ACT_RECLASSIFY,VAR_1
+TC_ACT_SHOT,VAR_2
+ntohs,FUNC_2
+printk,FUNC_3
+tc_classify_compat,FUNC_4
+tc_classify,FUNC_5
+skb,VAR_3
+tp,VAR_4
+res,VAR_5
+err,VAR_6
+protocol,VAR_7

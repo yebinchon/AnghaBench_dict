@@ -1,0 +1,15 @@
+DP_POLL,VAR_0
+REQUIRE,FUNC_0
+epoll_wait,FUNC_1
+ioctl,FUNC_2
+kevent,FUNC_3
+memcpy,FUNC_4
+select,FUNC_5
+socketmgr,VAR_1
+swait_private,VAR_2
+isc__socketmgr_waitevents,FUNC_6
+manager0,VAR_3
+tvp,VAR_4
+swaitp,VAR_5
+manager,VAR_6
+n,VAR_7

@@ -1,0 +1,13 @@
+MLX5_CAP_FLOWTABLE,FUNC_0
+MLX5_CAP_FLOWTABLE_NIC_RX,FUNC_1
+MLX5_CAP_FLOWTABLE_NIC_TX,FUNC_2
+MLX5_IB_UAPI_FLOW_TABLE_TYPE_NIC_RX,VAR_0
+MLX5_IB_UAPI_FLOW_TABLE_TYPE_NIC_TX,VAR_1
+decap,VAR_2
+encap_general_header,VAR_3
+reformat_l2_to_l3_tunnel,VAR_4
+reformat_l3_tunnel_to_l2,VAR_5
+mlx5_ib_flow_action_packet_reformat_valid,FUNC_3
+ibdev,VAR_6
+packet_reformat_type,VAR_7
+ft_type,VAR_8

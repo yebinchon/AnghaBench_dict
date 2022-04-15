@@ -1,0 +1,11 @@
+TX_HEADER_LEN,VAR_0
+ULPCB_FLAG_NEED_HDR,VAR_1
+alloc_skb,FUNC_0
+likely,FUNC_1
+skb_entail,FUNC_2
+skb_reserve,FUNC_3
+skb_reset_transport_header,FUNC_4
+get_tx_skb,FUNC_5
+sk,VAR_2
+size,VAR_3
+skb,VAR_4

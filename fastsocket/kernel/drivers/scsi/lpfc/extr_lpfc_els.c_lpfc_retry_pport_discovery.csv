@@ -1,0 +1,16 @@
+ELS_CMD_FLOGI,VAR_0
+Fabric_DID,VAR_1
+LPFC_FLOGI,VAR_2
+NLP_DELAY_TMO,VAR_3
+jiffies,VAR_4
+lpfc_cancel_all_vport_retry_delay_timer,FUNC_0
+lpfc_findnode_did,FUNC_1
+lpfc_shost_from_vport,FUNC_2
+mod_timer,FUNC_3
+msecs_to_jiffies,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+lpfc_retry_pport_discovery,FUNC_7
+phba,VAR_5
+ndlp,VAR_6
+shost,VAR_7

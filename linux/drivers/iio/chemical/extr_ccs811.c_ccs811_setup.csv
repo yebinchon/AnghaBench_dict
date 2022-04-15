@@ -1,0 +1,7 @@
+CCS811_MEAS_MODE,VAR_0
+CCS811_MODE_IAQ_1SEC,VAR_1
+ccs811_start_sensor_application,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+ccs811_setup,FUNC_2
+client,VAR_2
+ret,VAR_3

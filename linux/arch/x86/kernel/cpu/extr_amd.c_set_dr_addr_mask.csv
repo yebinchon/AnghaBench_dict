@@ -1,0 +1,8 @@
+MSR_F16H_DR0_ADDR_MASK,VAR_0
+MSR_F16H_DR1_ADDR_MASK,VAR_1
+X86_FEATURE_BPEXT,VAR_2
+boot_cpu_has,FUNC_0
+wrmsr,FUNC_1
+set_dr_addr_mask,FUNC_2
+mask,VAR_3
+dr,VAR_4

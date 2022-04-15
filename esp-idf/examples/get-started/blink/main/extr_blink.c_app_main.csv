@@ -1,0 +1,9 @@
+BLINK_GPIO,VAR_0
+GPIO_MODE_OUTPUT,VAR_1
+gpio_pad_select_gpio,FUNC_0
+gpio_set_direction,FUNC_1
+gpio_set_level,FUNC_2
+portTICK_PERIOD_MS,VAR_2
+printf,FUNC_3
+vTaskDelay,FUNC_4
+app_main,FUNC_5

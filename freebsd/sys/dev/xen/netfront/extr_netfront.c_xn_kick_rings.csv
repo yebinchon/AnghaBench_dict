@@ -1,0 +1,12 @@
+XN_RX_LOCK,FUNC_0
+XN_RX_UNLOCK,FUNC_1
+XN_TX_LOCK,FUNC_2
+XN_TX_UNLOCK,FUNC_3
+xen_intr_signal,FUNC_4
+xn_alloc_rx_buffers,FUNC_5
+xn_txeof,FUNC_6
+xn_kick_rings,FUNC_7
+np,VAR_0
+rxq,VAR_1
+txq,VAR_2
+i,VAR_3

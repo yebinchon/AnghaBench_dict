@@ -1,0 +1,16 @@
+ABORTED,VAR_0
+CURLOPT_HTTPHEADER,VAR_1
+DAV_MOVE,VAR_2
+FREE_AND_NULL,FUNC_0
+RUN_MOVE,VAR_3
+curl_easy_setopt,FUNC_1
+curl_setup_http_get,FUNC_2
+curl_slist_append,FUNC_3
+get_active_slot,FUNC_4
+http_copy_default_headers,FUNC_5
+process_response,VAR_4
+start_active_slot,FUNC_6
+start_move,FUNC_7
+request,VAR_5
+slot,VAR_6
+dav_headers,VAR_7

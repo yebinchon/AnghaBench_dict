@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+RG_REQ_SIZE,VAR_1
+RG_RESP_SIZE,VAR_2
+SMP_REPORT_GENERAL,VAR_3
+SMP_RESP_FUNC_ACC,VAR_4
+alloc_smp_req,FUNC_0
+alloc_smp_resp,FUNC_1
+be16_to_cpu,FUNC_2
+kfree,FUNC_3
+smp_execute_task,FUNC_4
+sas_get_ex_change_count,FUNC_5
+dev,VAR_5
+ecc,VAR_6
+res,VAR_7
+rg_req,VAR_8
+rg_resp,VAR_9

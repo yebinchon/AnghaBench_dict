@@ -1,0 +1,16 @@
+dst_hold,FUNC_0
+likely,FUNC_1
+netdev_priv,FUNC_2
+rcu_dereference,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+skb_dst_drop,FUNC_6
+skb_dst_set,FUNC_7
+unlikely,FUNC_8
+vrf_tx_error,FUNC_9
+vrf_ip_out_redirect,FUNC_10
+vrf_dev,VAR_0
+skb,VAR_1
+vrf,VAR_2
+dst,VAR_3
+rth,VAR_4

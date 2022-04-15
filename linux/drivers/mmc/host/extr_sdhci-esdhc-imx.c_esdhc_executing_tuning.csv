@@ -1,0 +1,15 @@
+ESDHC_TUNE_CTRL_MAX,VAR_0
+ESDHC_TUNE_CTRL_MIN,VAR_1
+ESDHC_TUNE_CTRL_STEP,VAR_2
+dev_dbg,FUNC_0
+esdhc_post_tuning,FUNC_1
+esdhc_prepare_tuning,FUNC_2
+mmc_dev,FUNC_3
+mmc_send_tuning,FUNC_4
+esdhc_executing_tuning,FUNC_5
+host,VAR_3
+opcode,VAR_4
+min,VAR_5
+max,VAR_6
+avg,VAR_7
+ret,VAR_8

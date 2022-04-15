@@ -1,0 +1,16 @@
+TSYS01_ADC_READ,VAR_0
+TSYS01_CONVERSION_START,VAR_1
+coeff_mul,VAR_2
+div64_s64,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+stub1,FUNC_4
+tsys01_read_temperature,FUNC_5
+indio_dev,VAR_3
+temperature,VAR_4
+ret,VAR_5
+i,VAR_6
+adc,VAR_7
+temp,VAR_8
+dev_data,VAR_9

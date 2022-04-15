@@ -1,0 +1,13 @@
+AR7_RESET_BIT_MDIO,VAR_0
+CPMAC_MDIO_CONTROL,VAR_1
+IS_ERR,FUNC_0
+MDIOC_CLKDIV,FUNC_1
+MDIOC_ENABLE,VAR_2
+ar7_device_reset,FUNC_2
+clk_get,FUNC_3
+clk_get_rate,FUNC_4
+cpmac_write,FUNC_5
+pr_err,FUNC_6
+cpmac_mdio_reset,FUNC_7
+bus,VAR_3
+cpmac_clk,VAR_4

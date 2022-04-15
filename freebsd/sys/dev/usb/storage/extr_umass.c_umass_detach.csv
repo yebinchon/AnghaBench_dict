@@ -1,0 +1,13 @@
+DPRINTF,FUNC_0
+UDMASS_USB,VAR_0
+UMASS_T_MAX,VAR_1
+device_get_softc,FUNC_1
+mtx_destroy,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+umass_cam_detach_sim,FUNC_5
+umass_cancel_ccb,FUNC_6
+usbd_transfer_unsetup,FUNC_7
+umass_detach,FUNC_8
+dev,VAR_2
+sc,VAR_3

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+GEN5_CMD_SET_PARAMETER,VAR_1
+GEN5_PARAMETER_DISABLE_PIP_REPORT,VAR_2
+PIP_APP_CMD_REPORT_ID,VAR_3
+PIP_OUTPUT_REPORT_ADDR,VAR_4
+VALID_CMD_RESP_HEADER,FUNC_0
+cyapa_i2c_pip_cmd_irq_sync,FUNC_1
+cyapa_sort_tsg_pip_app_resp_data,VAR_5
+memset,FUNC_2
+put_unaligned_le16,FUNC_3
+cyapa_gen5_disable_pip_report,FUNC_4
+cyapa,VAR_6
+app_cmd_head,VAR_7
+cmd,VAR_8
+resp_data,VAR_9
+resp_len,VAR_10
+error,VAR_11

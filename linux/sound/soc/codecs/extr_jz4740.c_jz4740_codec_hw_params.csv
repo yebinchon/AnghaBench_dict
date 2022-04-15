@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+JZ4740_CODEC_2_SAMPLE_RATE_MASK,VAR_1
+JZ4740_CODEC_2_SAMPLE_RATE_OFFSET,VAR_2
+JZ4740_REG_CODEC_2,VAR_3
+params_rate,FUNC_0
+regmap_update_bits,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+jz4740_codec_hw_params,FUNC_3
+substream,VAR_4
+params,VAR_5
+dai,VAR_6
+jz4740_codec,VAR_7
+val,VAR_8

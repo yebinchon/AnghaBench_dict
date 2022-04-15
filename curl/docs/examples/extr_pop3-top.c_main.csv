@@ -1,0 +1,15 @@
+CURLE_OK,VAR_0
+CURLOPT_CUSTOMREQUEST,VAR_1
+CURLOPT_PASSWORD,VAR_2
+CURLOPT_URL,VAR_3
+CURLOPT_USERNAME,VAR_4
+curl_easy_cleanup,FUNC_0
+curl_easy_init,FUNC_1
+curl_easy_perform,FUNC_2
+curl_easy_setopt,FUNC_3
+curl_easy_strerror,FUNC_4
+fprintf,FUNC_5
+stderr,VAR_5
+main,FUNC_6
+curl,VAR_6
+res,VAR_7

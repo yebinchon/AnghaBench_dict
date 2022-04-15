@@ -1,0 +1,15 @@
+EXT4_I,FUNC_0
+EXT4_STATE_DA_ALLOC_CLOSE,VAR_0
+FMODE_WRITE,VAR_1
+atomic_read,FUNC_1
+down_write,FUNC_2
+ext4_alloc_da_blocks,FUNC_3
+ext4_clear_inode_state,FUNC_4
+ext4_discard_preallocations,FUNC_5
+ext4_htree_free_dir_info,FUNC_6
+ext4_test_inode_state,FUNC_7
+is_dx,FUNC_8
+up_write,FUNC_9
+ext4_release_file,FUNC_10
+inode,VAR_2
+filp,VAR_3

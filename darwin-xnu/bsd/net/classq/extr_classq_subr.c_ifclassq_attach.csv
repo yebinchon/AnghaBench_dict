@@ -1,0 +1,12 @@
+IFCQ_LOCK_ASSERT_HELD,FUNC_0
+VERIFY,FUNC_1
+ifclassq_attach,FUNC_2
+ifq,VAR_0
+type,VAR_1
+discipline,VAR_2
+enqueue,VAR_3
+dequeue,VAR_4
+dequeue_sc,VAR_5
+dequeue_multi,VAR_6
+dequeue_sc_multi,VAR_7
+request,VAR_8

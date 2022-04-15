@@ -1,0 +1,13 @@
+BUG,FUNC_0
+HYPERVISOR_update_descriptor,FUNC_1
+arbitrary_virt_to_machine,FUNC_2
+preempt_disable,FUNC_3
+preempt_enable,FUNC_4
+trace_xen_cpu_write_gdt_entry,FUNC_5
+xen_mc_flush,FUNC_6
+xen_write_gdt_entry,FUNC_7
+dt,VAR_0
+entry,VAR_1
+desc,VAR_2
+type,VAR_3
+maddr,VAR_4

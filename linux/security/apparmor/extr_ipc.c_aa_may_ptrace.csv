@@ -1,0 +1,14 @@
+DEFINE_AUDIT_DATA,FUNC_0
+LSM_AUDIT_DATA_NONE,VAR_0
+OP_PTRACE,VAR_1
+PTRACE_PERM_SHIFT,VAR_2
+profile_tracee_perm,FUNC_1
+profile_tracer_perm,FUNC_2
+sa,VAR_3
+xcheck_labels,FUNC_3
+aa_may_ptrace,FUNC_4
+tracer,VAR_4
+tracee,VAR_5
+request,VAR_6
+profile,VAR_7
+xrequest,VAR_8

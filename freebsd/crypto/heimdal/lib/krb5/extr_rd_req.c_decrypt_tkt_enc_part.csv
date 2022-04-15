@@ -1,0 +1,17 @@
+KRB5_KU_TICKET,VAR_0
+N_,FUNC_0
+decode_EncTicketPart,FUNC_1
+krb5_crypto_destroy,FUNC_2
+krb5_crypto_init,FUNC_3
+krb5_data_free,FUNC_4
+krb5_decrypt_EncryptedData,FUNC_5
+krb5_set_error_message,FUNC_6
+decrypt_tkt_enc_part,FUNC_7
+context,VAR_1
+key,VAR_2
+enc_part,VAR_3
+decr_part,VAR_4
+ret,VAR_5
+plain,VAR_6
+len,VAR_7
+crypto,VAR_8

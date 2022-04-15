@@ -1,0 +1,12 @@
+M_DEVBUF,VAR_0
+PCIR_BAR,FUNC_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+free,FUNC_3
+pci_release_msi,FUNC_4
+mxge_rem_msix_irqs,FUNC_5
+sc,VAR_3
+i,VAR_4
+rid,VAR_5

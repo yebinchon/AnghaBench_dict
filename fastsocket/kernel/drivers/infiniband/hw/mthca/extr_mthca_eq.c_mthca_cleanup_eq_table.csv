@@ -1,0 +1,13 @@
+MTHCA_CMD_EVENT_MASK,VAR_0
+MTHCA_EQ_ASYNC,VAR_1
+MTHCA_EQ_CMD,VAR_2
+MTHCA_NUM_EQ,VAR_3
+async_mask,FUNC_0
+mthca_MAP_EQ,FUNC_1
+mthca_alloc_cleanup,FUNC_2
+mthca_free_eq,FUNC_3
+mthca_free_irqs,FUNC_4
+mthca_unmap_eq_regs,FUNC_5
+mthca_cleanup_eq_table,FUNC_6
+dev,VAR_4
+i,VAR_5

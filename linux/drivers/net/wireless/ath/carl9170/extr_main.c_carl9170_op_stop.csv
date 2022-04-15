@@ -1,0 +1,17 @@
+AR9170_MAC_REG_DMA_TRIGGER,VAR_0
+CARL9170_IDLE,VAR_1
+CARL9170_STARTED,VAR_2
+IS_ACCEPTING_CMD,FUNC_0
+RCU_INIT_POINTER,FUNC_1
+carl9170_cancel_worker,FUNC_2
+carl9170_led_set_state,FUNC_3
+carl9170_set_state_when,FUNC_4
+carl9170_usb_stop,FUNC_5
+carl9170_write_reg,FUNC_6
+carl9170_zap_queues,FUNC_7
+ieee80211_stop_queues,FUNC_8
+mutex_lock,FUNC_9
+mutex_unlock,FUNC_10
+carl9170_op_stop,FUNC_11
+hw,VAR_3
+ar,VAR_4

@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_RMDIR_REMOVE_FILES,VAR_1
+cb_status__check_592,VAR_2
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+git_buf_cstr,FUNC_3
+git_buf_dispose,FUNC_4
+git_buf_joinpath,FUNC_5
+git_futils_rmdir_r,FUNC_6
+git_path_exists,FUNC_7
+git_repository_workdir,FUNC_8
+git_status_foreach,FUNC_9
+test_status_worktree__issue_592_3,FUNC_10
+repo,VAR_3
+path,VAR_4

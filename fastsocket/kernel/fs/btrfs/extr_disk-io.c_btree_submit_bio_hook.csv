@@ -1,0 +1,15 @@
+BTRFS_I,FUNC_0
+REQ_WRITE,VAR_0
+__btree_submit_bio_done,VAR_1
+__btree_submit_bio_start,VAR_2
+btrfs_bio_wq_end_io,FUNC_1
+btrfs_map_bio,FUNC_2
+btrfs_wq_submit_bio,FUNC_3
+btree_submit_bio_hook,FUNC_4
+inode,VAR_3
+rw,VAR_4
+bio,VAR_5
+mirror_num,VAR_6
+bio_flags,VAR_7
+bio_offset,VAR_8
+ret,VAR_9

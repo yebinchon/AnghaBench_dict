@@ -1,0 +1,17 @@
+MLX5E_GET_PFLAG,FUNC_0
+MLX5E_PFLAG_RX_CQE_COMPRESS,VAR_0
+MLX5E_PFLAG_RX_STRIDING_RQ,VAR_1
+NETIF_F_HW_VLAN_CTAG_RX,VAR_2
+NETIF_F_LRO,VAR_3
+NETIF_F_RXHASH,VAR_4
+VLAN_N_VID,VAR_5
+bitmap_empty,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+netdev_warn,FUNC_5
+mlx5e_fix_features,FUNC_6
+netdev,VAR_6
+features,VAR_7
+priv,VAR_8
+params,VAR_9

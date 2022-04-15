@@ -1,0 +1,14 @@
+ADV7180_STD_AD_PAL_BG_NTSC_J_SECAM,VAR_0
+EBUSY,VAR_1
+__adv7180_status,FUNC_0
+adv7180_set_video_standard,FUNC_1
+msleep,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+to_state,FUNC_5
+v4l2_std_to_adv7180,FUNC_6
+adv7180_querystd,FUNC_7
+sd,VAR_2
+std,VAR_3
+state,VAR_4
+err,VAR_5

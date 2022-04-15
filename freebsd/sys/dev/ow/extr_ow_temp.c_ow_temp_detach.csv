@@ -1,0 +1,11 @@
+OW_TEMP_DONE,VAR_0
+OW_TEMP_RUNNING,VAR_1
+PWAIT,VAR_2
+device_get_softc,FUNC_0
+msleep,FUNC_1
+mtx_destroy,FUNC_2
+mtx_lock,FUNC_3
+wakeup,FUNC_4
+ow_temp_detach,FUNC_5
+dev,VAR_3
+sc,VAR_4

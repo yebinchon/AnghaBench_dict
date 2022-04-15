@@ -1,0 +1,13 @@
+APIC_IO_INTS,VAR_0
+APIC_NUM_IOINTS,VAR_1
+IRQ_FREE,VAR_2
+KASSERT,FUNC_0
+icu_lock,VAR_3
+lapics,VAR_4
+mtx_lock_spin,FUNC_1
+mtx_unlock_spin,FUNC_2
+num_io_irqs,VAR_5
+native_apic_alloc_vector,FUNC_3
+apic_id,VAR_6
+irq,VAR_7
+vector,VAR_8

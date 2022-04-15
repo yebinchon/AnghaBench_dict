@@ -1,0 +1,17 @@
+ISL12026_REG_PWR,VAR_0
+ISL12026_REG_PWR_BSW,VAR_1
+ISL12026_REG_PWR_SBIB,VAR_2
+dev_dbg,FUNC_0
+dev_warn,FUNC_1
+isl12026_read_reg,FUNC_2
+isl12026_write_reg,FUNC_3
+of_property_read_u32,FUNC_4
+isl12026_force_power_modes,FUNC_5
+client,VAR_3
+ret,VAR_4
+pwr,VAR_5
+requested_pwr,VAR_6
+bsw_val,VAR_7
+sbib_val,VAR_8
+set_bsw,VAR_9
+set_sbib,VAR_10

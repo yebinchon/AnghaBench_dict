@@ -1,0 +1,7 @@
+LCD_SPU_IRQ_ENA,VAR_0
+LCD_SPU_IRQ_ISR,VAR_1
+readl_relaxed,FUNC_0
+writel,FUNC_1
+armada_drm_crtc_enable_irq,FUNC_2
+dcrtc,VAR_2
+mask,VAR_3

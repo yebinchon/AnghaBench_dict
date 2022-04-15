@@ -1,0 +1,15 @@
+LOAD_VMX_XFORM_TEST,FUNC_0
+PPC_FEATURE_HAS_ALTIVEC,VAR_0
+SKIP_IF,FUNC_1
+STORE_VMX_XFORM_TEST,FUNC_2
+can_open_fb0,FUNC_3
+have_hwcap,FUNC_4
+lvx,VAR_1
+printf,FUNC_5
+stvebx,VAR_2
+stvehx,VAR_3
+stvewx,VAR_4
+stvx,VAR_5
+stvxl,VAR_6
+test_alignment_handler_vmx,FUNC_6
+rc,VAR_7

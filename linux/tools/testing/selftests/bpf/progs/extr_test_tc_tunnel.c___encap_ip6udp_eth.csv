@@ -1,0 +1,8 @@
+ETH_P_IPV6,VAR_0
+ETH_P_TEB,VAR_1
+IPPROTO_UDP,VAR_2
+TC_ACT_OK,VAR_3
+__bpf_constant_htons,FUNC_0
+encap_ipv6,FUNC_1
+__encap_ip6udp_eth,FUNC_2
+skb,VAR_4

@@ -1,0 +1,13 @@
+CAM_DEBUG_DEV,FUNC_0
+CAM_DEBUG_TRACE,VAR_0
+CAM_DEV_REL_ON_COMPLETE,VAR_1
+CAM_DEV_REL_TIMEOUT_PENDING,VAR_2
+MA_OWNED,VAR_3
+callout_stop,FUNC_1
+mtx_assert,FUNC_2
+printf,FUNC_3
+xpt_schedule_devq,FUNC_4
+xpt_release_devq_device,FUNC_5
+dev,VAR_4
+count,VAR_5
+run_queue,VAR_6

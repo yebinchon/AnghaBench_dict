@@ -1,0 +1,16 @@
+BNX2X_DEV_INFO,FUNC_0
+CHIP_REV_IS_SLOW,FUNC_1
+EINVAL,VAR_0
+PCI_PM_CTRL,VAR_1
+PCI_PM_CTRL_PME_ENABLE,VAR_2
+PCI_PM_CTRL_PME_STATUS,VAR_3
+PCI_PM_CTRL_STATE_MASK,VAR_4
+atomic_read,FUNC_2
+dev_err,FUNC_3
+msleep,FUNC_4
+pci_read_config_word,FUNC_5
+pci_write_config_word,FUNC_6
+bnx2x_set_power_state,FUNC_7
+bp,VAR_5
+state,VAR_6
+pmcsr,VAR_7

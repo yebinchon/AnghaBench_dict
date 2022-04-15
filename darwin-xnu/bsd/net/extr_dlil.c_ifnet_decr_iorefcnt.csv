@@ -1,0 +1,8 @@
+IFRF_ATTACHED,VAR_0
+IFRF_DETACHING,VAR_1
+VERIFY,FUNC_0
+lck_mtx_lock_spin,FUNC_1
+lck_mtx_unlock,FUNC_2
+wakeup,FUNC_3
+ifnet_decr_iorefcnt,FUNC_4
+ifp,VAR_2

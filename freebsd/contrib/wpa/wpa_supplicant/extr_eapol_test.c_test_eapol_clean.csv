@@ -1,0 +1,15 @@
+eapol_sm_deinit,FUNC_0
+ext_password_deinit,FUNC_1
+os_free,FUNC_2
+radius_client_deinit,FUNC_3
+radius_msg_free,FUNC_4
+scard_deinit,FUNC_5
+wpa_config_free,FUNC_6
+wpa_sm_deinit,FUNC_7
+wpa_supplicant_ctrl_iface_deinit,FUNC_8
+wpabuf_free,FUNC_9
+test_eapol_clean,FUNC_10
+e,VAR_0
+wpa_s,VAR_1
+p,VAR_2
+prev,VAR_3

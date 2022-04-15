@@ -1,0 +1,12 @@
+NAND_ALE,VAR_0
+NAND_BUSWIDTH_16,VAR_1
+NAND_CLE,VAR_2
+NAND_CMD_NONE,VAR_3
+writeb,FUNC_0
+orion_nand_cmd_ctrl,FUNC_1
+mtd,VAR_4
+cmd,VAR_5
+ctrl,VAR_6
+nc,VAR_7
+board,VAR_8
+offs,VAR_9

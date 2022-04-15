@@ -1,0 +1,13 @@
+AUDIT_SYSTEM_BOOT,VAR_0
+EPERM,VAR_1
+assert,FUNC_0
+audit_log_user_comm_message,FUNC_1
+errno,VAR_2
+get_startup_time,FUNC_2
+log_error_errno,FUNC_3
+utmp_put_reboot,FUNC_4
+on_reboot,FUNC_5
+c,VAR_3
+r,VAR_4
+q,VAR_5
+t,VAR_6

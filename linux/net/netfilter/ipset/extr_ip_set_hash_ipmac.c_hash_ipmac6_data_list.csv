@@ -1,0 +1,8 @@
+ETH_ALEN,VAR_0
+IPSET_ATTR_ETHER,VAR_1
+IPSET_ATTR_IP,VAR_2
+nla_put,FUNC_0
+nla_put_ipaddr6,FUNC_1
+hash_ipmac6_data_list,FUNC_2
+skb,VAR_3
+e,VAR_4

@@ -1,0 +1,16 @@
+BTRFS_DIO_ORIG_BIO_SUBMITTED,VAR_0
+BTRFS_I,FUNC_0
+bio_put,FUNC_1
+btrfs_io_bio,FUNC_2
+btrfs_io_bio_free_csum,FUNC_3
+btrfs_subio_endio_read,FUNC_4
+dio_end_io,FUNC_5
+kfree,FUNC_6
+unlock_extent,FUNC_7
+btrfs_endio_direct_read,FUNC_8
+bio,VAR_1
+dip,VAR_2
+inode,VAR_3
+dio_bio,VAR_4
+io_bio,VAR_5
+err,VAR_6

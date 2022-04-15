@@ -1,0 +1,15 @@
+Assert,FUNC_0
+DatumGetPointer,FUNC_1
+ERROR,VAR_0
+FLOAT4OID,VAR_1
+FLOAT8OID,VAR_2
+Float4GetDatum,FUNC_2
+Float8GetDatum,FUNC_3
+elog,FUNC_4
+pfree,FUNC_5
+index_store_float8_orderby_distances,FUNC_6
+scan,VAR_3
+orderByTypes,VAR_4
+distances,VAR_5
+recheckOrderBy,VAR_6
+i,VAR_7

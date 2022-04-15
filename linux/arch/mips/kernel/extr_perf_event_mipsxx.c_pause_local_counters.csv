@@ -1,0 +1,12 @@
+M_PERFCTL_COUNT_EVENT_WHENEVER,VAR_0
+cpu_hw_events,VAR_1
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+mipspmu,VAR_2
+mipsxx_pmu_read_control,FUNC_2
+mipsxx_pmu_write_control,FUNC_3
+this_cpu_ptr,FUNC_4
+pause_local_counters,FUNC_5
+cpuc,VAR_3
+ctr,VAR_4
+flags,VAR_5

@@ -1,0 +1,16 @@
+ExpiredList,VAR_0
+ITIMER_REAL,VAR_1
+LogERROR,VAR_2
+RESTVAL,FUNC_0
+TIMER_RUNNING,VAR_3
+TIMER_STOPPED,VAR_4
+TimerList,VAR_5
+getitimer,FUNC_1
+log_Printf,FUNC_2
+timer_InitService,FUNC_3
+timer_TermService,FUNC_4
+StopTimerNoBlock,FUNC_5
+tp,VAR_6
+itimer,VAR_7
+t,VAR_8
+pt,VAR_9

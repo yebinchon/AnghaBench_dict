@@ -1,0 +1,15 @@
+BSWAP8,FUNC_0
+CRYPTO_memcmp,FUNC_1
+GCM_MUL,FUNC_2
+GETU32,FUNC_3
+GHASH,FUNC_4
+memcpy,FUNC_5
+memset,FUNC_6
+CRYPTO_gcm128_finish,FUNC_7
+ctx,VAR_0
+tag,VAR_1
+len,VAR_2
+is_endian,VAR_3
+alen,VAR_4
+clen,VAR_5
+p,VAR_6

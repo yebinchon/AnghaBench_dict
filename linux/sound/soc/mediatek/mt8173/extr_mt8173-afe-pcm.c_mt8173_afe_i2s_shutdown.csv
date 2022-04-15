@@ -1,0 +1,10 @@
+AUDIO_TOP_CON0,VAR_0
+AUD_TCON0_PDN_22M,VAR_1
+AUD_TCON0_PDN_24M,VAR_2
+mt8173_afe_set_i2s_enable,FUNC_0
+regmap_update_bits,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+mt8173_afe_i2s_shutdown,FUNC_3
+substream,VAR_3
+dai,VAR_4
+afe,VAR_5

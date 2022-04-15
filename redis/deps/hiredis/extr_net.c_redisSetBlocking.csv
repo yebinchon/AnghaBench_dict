@@ -1,0 +1,15 @@
+FIONBIO,VAR_0
+F_GETFL,VAR_1
+F_SETFL,VAR_2
+O_NONBLOCK,VAR_3
+REDIS_ERR,VAR_4
+REDIS_ERR_IO,VAR_5
+REDIS_OK,VAR_6
+__redisSetErrorFromErrno,FUNC_0
+fcntl,FUNC_1
+ioctl,FUNC_2
+redisNetClose,FUNC_3
+redisSetBlocking,FUNC_4
+c,VAR_7
+blocking,VAR_8
+flags,VAR_9

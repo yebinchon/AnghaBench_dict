@@ -1,0 +1,13 @@
+ENODEV,VAR_0
+ENXIO,VAR_1
+OP_FAILED,VAR_2
+OP_IN_PROGRESS,VAR_3
+SCIF_NODE_ALIVE_TIMEOUT,VAR_4
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+scifdev_alive,FUNC_2
+wait_for_completion_timeout,FUNC_3
+_scif_send_fence_signal_wait,FUNC_4
+ep,VAR_5
+fence_req,VAR_6
+err,VAR_7

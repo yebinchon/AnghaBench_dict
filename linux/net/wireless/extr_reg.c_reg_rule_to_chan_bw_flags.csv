@@ -1,0 +1,16 @@
+IEEE80211_CHAN_NO_10MHZ,VAR_0
+IEEE80211_CHAN_NO_160MHZ,VAR_1
+IEEE80211_CHAN_NO_20MHZ,VAR_2
+IEEE80211_CHAN_NO_80MHZ,VAR_3
+IEEE80211_CHAN_NO_HT40,VAR_4
+MHZ_TO_KHZ,FUNC_0
+NL80211_RRF_AUTO_BW,VAR_5
+cfg80211_does_bw_fit_range,FUNC_1
+reg_get_max_bandwidth,FUNC_2
+reg_rule_to_chan_bw_flags,FUNC_3
+regd,VAR_6
+reg_rule,VAR_7
+chan,VAR_8
+freq_range,VAR_9
+max_bandwidth_khz,VAR_10
+bw_flags,VAR_11

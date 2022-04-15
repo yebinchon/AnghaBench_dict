@@ -1,0 +1,12 @@
+VIRTIO_USE_MSIX,VAR_0
+VS_LOCK,FUNC_0
+VS_UNLOCK,FUNC_1
+pci_emul_add_msicap,FUNC_2
+pci_emul_add_msixcap,FUNC_3
+pci_lintr_request,FUNC_4
+vi_reset_dev,FUNC_5
+vi_intr_init,FUNC_6
+vs,VAR_1
+barnum,VAR_2
+use_msix,VAR_3
+nvec,VAR_4

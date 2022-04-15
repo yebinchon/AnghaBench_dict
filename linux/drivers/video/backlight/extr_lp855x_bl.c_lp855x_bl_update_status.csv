@@ -1,0 +1,11 @@
+BL_CORE_FBBLANK,VAR_0
+BL_CORE_SUSPENDED,VAR_1
+PWM_BASED,VAR_2
+REGISTER_BASED,VAR_3
+bl_get_data,FUNC_0
+lp855x_pwm_ctrl,FUNC_1
+lp855x_write_byte,FUNC_2
+lp855x_bl_update_status,FUNC_3
+bl,VAR_4
+lp,VAR_5
+brightness,VAR_6

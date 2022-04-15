@@ -1,0 +1,16 @@
+LM3630A_PWM_BANK_B,VAR_0
+REG_BRT_B,VAR_1
+REG_CTRL,VAR_2
+REG_PWM_OUTHIGH,VAR_3
+REG_PWM_OUTLOW,VAR_4
+bl_get_data,FUNC_0
+dev_err,FUNC_1
+lm3630a_read,FUNC_2
+lm3630a_update,FUNC_3
+usleep_range,FUNC_4
+lm3630a_bank_b_get_brightness,FUNC_5
+bl,VAR_5
+brightness,VAR_6
+rval,VAR_7
+pchip,VAR_8
+pwm_ctrl,VAR_9

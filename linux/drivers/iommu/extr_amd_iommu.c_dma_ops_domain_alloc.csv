@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+IOVA_START_PFN,VAR_1
+PAGE_MODE_3_LEVEL,VAR_2
+PAGE_SIZE,VAR_3
+PD_DMA_OPS_MASK,VAR_4
+copy_reserved_iova,FUNC_0
+dma_ops_domain_free,FUNC_1
+get_zeroed_page,FUNC_2
+init_iova_domain,FUNC_3
+init_iova_flush_queue,FUNC_4
+iova_domain_flush_tlb,VAR_5
+kzalloc,FUNC_5
+protection_domain_init,FUNC_6
+reserved_iova_ranges,VAR_6
+dma_ops_domain_alloc,FUNC_7
+dma_dom,VAR_7

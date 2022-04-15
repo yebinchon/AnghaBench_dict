@@ -1,0 +1,15 @@
+CQE_FLAGS_ASYNC_MASK,VAR_0
+CQE_FLAGS_COMPLETED_MASK,VAR_1
+CQE_FLAGS_VALID_MASK,VAR_2
+beiscsi_hba_in_error,FUNC_0
+beiscsi_process_async_event,FUNC_1
+beiscsi_process_mcc_compl,FUNC_2
+hwi_ring_cq_db,FUNC_3
+le32_to_cpu,FUNC_4
+queue_tail_inc,FUNC_5
+queue_tail_node,FUNC_6
+beiscsi_process_mcc_cq,FUNC_7
+phba,VAR_3
+mcc_cq,VAR_4
+mcc_compl,VAR_5
+num_processed,VAR_6

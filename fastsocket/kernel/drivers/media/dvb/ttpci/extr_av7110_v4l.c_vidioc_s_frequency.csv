@@ -1,0 +1,15 @@
+ANALOG_TUNER_STV0297,VAR_0
+ANALOG_TUNER_VES1820,VAR_1
+EINVAL,VAR_2
+MSP_WR_DSP,VAR_3
+V4L2_TUNER_ANALOG_TV,VAR_4
+dprintk,FUNC_0
+msp_writereg,FUNC_1
+stv0297_set_tv_freq,FUNC_2
+ves1820_set_tv_freq,FUNC_3
+vidioc_s_frequency,FUNC_4
+file,VAR_5
+fh,VAR_6
+f,VAR_7
+dev,VAR_8
+av7110,VAR_9

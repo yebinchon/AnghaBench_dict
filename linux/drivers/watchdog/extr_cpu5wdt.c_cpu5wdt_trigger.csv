@@ -1,0 +1,16 @@
+CPU5WDT_INTERVAL,VAR_0
+CPU5WDT_TRIGGER_REG,VAR_1
+complete,FUNC_0
+cpu5wdt_device,VAR_2
+cpu5wdt_lock,VAR_3
+jiffies,VAR_4
+mod_timer,FUNC_1
+outb,FUNC_2
+port,VAR_5
+pr_debug,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+ticks,VAR_6
+verbose,VAR_7
+cpu5wdt_trigger,FUNC_6
+unused,VAR_8

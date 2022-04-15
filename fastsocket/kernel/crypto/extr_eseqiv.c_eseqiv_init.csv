@@ -1,0 +1,14 @@
+ALIGN,FUNC_0
+__crypto_ablkcipher_cast,FUNC_1
+crypto_ablkcipher_alignmask,FUNC_2
+crypto_ablkcipher_ctx,FUNC_3
+crypto_ablkcipher_ivsize,FUNC_4
+crypto_tfm_ctx_alignment,FUNC_5
+skcipher_geniv_init,FUNC_6
+spin_lock_init,FUNC_7
+eseqiv_init,FUNC_8
+tfm,VAR_0
+geniv,VAR_1
+ctx,VAR_2
+alignmask,VAR_3
+reqsize,VAR_4

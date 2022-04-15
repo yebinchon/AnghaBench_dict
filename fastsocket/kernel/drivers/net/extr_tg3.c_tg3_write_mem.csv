@@ -1,0 +1,17 @@
+ASIC_REV_5906,VAR_0
+NIC_SRAM_STATS_BLK,VAR_1
+NIC_SRAM_TX_BUFFER_DESC,VAR_2
+SRAM_USE_CONFIG,VAR_3
+TG3PCI_MEM_WIN_BASE_ADDR,VAR_4
+TG3PCI_MEM_WIN_DATA,VAR_5
+pci_write_config_dword,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+tg3_asic_rev,FUNC_3
+tg3_flag,FUNC_4
+tw32_f,FUNC_5
+tg3_write_mem,FUNC_6
+tp,VAR_6
+off,VAR_7
+val,VAR_8
+flags,VAR_9

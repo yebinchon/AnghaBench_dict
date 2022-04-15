@@ -1,0 +1,17 @@
+DAVINCI_MCASP_RXSTAT_REG,VAR_0
+IRQ_RETVAL,FUNC_0
+ROVRN,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+XRERR,VAR_3
+dev_warn,FUNC_1
+mcasp_get_reg,FUNC_2
+mcasp_set_reg,FUNC_3
+snd_pcm_stop_xrun,FUNC_4
+davinci_mcasp_rx_irq_handler,FUNC_5
+irq,VAR_4
+data,VAR_5
+mcasp,VAR_6
+substream,VAR_7
+irq_mask,VAR_8
+handled_mask,VAR_9
+stat,VAR_10

@@ -1,0 +1,17 @@
+br_enc64be,FUNC_0
+br_enc64le,FUNC_1
+br_md5_round,FUNC_2
+br_range_enc32be,FUNC_3
+br_range_enc32le,FUNC_4
+br_sha1_round,FUNC_5
+memcpy,FUNC_6
+memset,FUNC_7
+br_md5sha1_out,FUNC_8
+cc,VAR_0
+dst,VAR_1
+buf,VAR_2
+val_md5,VAR_3
+val_sha1,VAR_4
+ptr,VAR_5
+out,VAR_6
+count,VAR_7

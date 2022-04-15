@@ -1,0 +1,16 @@
+IORESOURCE_MEM,VAR_0
+SM501_GATE_USB_HOST,VAR_1
+SM501_IRQ_MASK,VAR_2
+dma_release_declared_memory,FUNC_0
+platform_get_drvdata,FUNC_1
+platform_get_resource,FUNC_2
+platform_set_drvdata,FUNC_3
+release_mem_region,FUNC_4
+sm501_modify_reg,FUNC_5
+sm501_unit_power,FUNC_6
+usb_put_hcd,FUNC_7
+usb_remove_hcd,FUNC_8
+ohci_hcd_sm501_drv_remove,FUNC_9
+pdev,VAR_3
+hcd,VAR_4
+mem,VAR_5

@@ -1,0 +1,15 @@
+CM_Get_Device_IDW,FUNC_0
+CM_Get_Device_ID_Size,FUNC_1
+CM_LOCATE_DEVNODE_NORMAL,VAR_0
+CM_Locate_DevNodeW,FUNC_2
+CR_SUCCESS,VAR_1
+DPRINT1,FUNC_3
+LMEM_FIXED,VAR_2
+LocalAlloc,FUNC_4
+LocalFree,FUNC_5
+pCDevSettings_GetDeviceInstanceId,FUNC_6
+pszDevice,VAR_3
+DevInst,VAR_4
+cr,VAR_5
+BufLen,VAR_6
+lpDevInstId,VAR_7

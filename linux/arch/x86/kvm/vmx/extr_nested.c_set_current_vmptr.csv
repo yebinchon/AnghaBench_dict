@@ -1,0 +1,9 @@
+SECONDARY_EXEC_SHADOW_VMCS,VAR_0
+VMCS_LINK_POINTER,VAR_1
+__pa,FUNC_0
+enable_shadow_vmcs,VAR_2
+secondary_exec_controls_setbit,FUNC_1
+vmcs_write64,FUNC_2
+set_current_vmptr,FUNC_3
+vmx,VAR_3
+vmptr,VAR_4

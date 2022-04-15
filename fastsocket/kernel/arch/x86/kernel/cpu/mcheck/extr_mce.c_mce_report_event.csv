@@ -1,0 +1,11 @@
+MCE_SELF_VECTOR,VAR_0
+X86_EFLAGS_IF,VAR_1
+X86_VM_MASK,VAR_2
+apic,VAR_3
+apic_wait_icr_idle,FUNC_0
+cpu_has_apic,VAR_4
+mce_notify_irq,FUNC_1
+mce_schedule_work,FUNC_2
+stub1,FUNC_3
+mce_report_event,FUNC_4
+regs,VAR_5

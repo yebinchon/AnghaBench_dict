@@ -1,0 +1,15 @@
+AC_SENT_BDR,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_REQ_CMP_ERR,VAR_2
+VIRTIO_SCSI_S_FUNCTION_COMPLETE,VAR_3
+VTSCSI_TRACE,VAR_4
+vtscsi_announce,FUNC_0
+vtscsi_dprintf,FUNC_1
+vtscsi_enqueue_request,FUNC_2
+xpt_done,FUNC_3
+vtscsi_complete_reset_dev_cmd,FUNC_4
+sc,VAR_5
+req,VAR_6
+ccb,VAR_7
+ccbh,VAR_8
+tmf_resp,VAR_9

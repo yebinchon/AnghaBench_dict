@@ -1,0 +1,10 @@
+_scsih_expander_node_remove,FUNC_0
+list_del,FUNC_1
+mpt3sas_scsih_expander_find_by_sas_address,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+mpt3sas_expander_remove,FUNC_5
+ioc,VAR_0
+sas_address,VAR_1
+sas_expander,VAR_2
+flags,VAR_3

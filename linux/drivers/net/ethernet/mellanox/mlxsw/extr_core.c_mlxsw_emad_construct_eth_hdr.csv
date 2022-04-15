@@ -1,0 +1,16 @@
+MLXSW_EMAD_EH_DMAC,VAR_0
+MLXSW_EMAD_EH_ETHERTYPE,VAR_1
+MLXSW_EMAD_EH_MLX_PROTO,VAR_2
+MLXSW_EMAD_EH_PROTO_VERSION,VAR_3
+MLXSW_EMAD_EH_SMAC,VAR_4
+MLXSW_EMAD_ETH_HDR_LEN,VAR_5
+mlxsw_emad_eth_hdr_dmac_memcpy_to,FUNC_0
+mlxsw_emad_eth_hdr_ethertype_set,FUNC_1
+mlxsw_emad_eth_hdr_mlx_proto_set,FUNC_2
+mlxsw_emad_eth_hdr_smac_memcpy_to,FUNC_3
+mlxsw_emad_eth_hdr_ver_set,FUNC_4
+skb_push,FUNC_5
+skb_reset_mac_header,FUNC_6
+mlxsw_emad_construct_eth_hdr,FUNC_7
+skb,VAR_6
+eth_hdr,VAR_7

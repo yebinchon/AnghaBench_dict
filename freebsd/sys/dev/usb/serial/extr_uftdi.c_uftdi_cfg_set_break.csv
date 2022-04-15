@@ -1,0 +1,13 @@
+DPRINTFN,FUNC_0
+FTDI_SIO_SET_BREAK,VAR_0
+FTDI_SIO_SET_DATA,VAR_1
+USETW,FUNC_1
+UT_WRITE_VENDOR_DEVICE,VAR_2
+ucom_cfg_do_request,FUNC_2
+uftdi_cfg_set_break,FUNC_3
+ucom,VAR_3
+onoff,VAR_4
+sc,VAR_5
+wIndex,VAR_6
+wValue,VAR_7
+req,VAR_8

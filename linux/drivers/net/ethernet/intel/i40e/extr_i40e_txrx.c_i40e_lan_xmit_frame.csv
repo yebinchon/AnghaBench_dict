@@ -1,0 +1,11 @@
+I40E_MIN_TX_LEN,VAR_0
+NETDEV_TX_OK,VAR_1
+i40e_xmit_frame_ring,FUNC_0
+netdev_priv,FUNC_1
+skb_put_padto,FUNC_2
+i40e_lan_xmit_frame,FUNC_3
+skb,VAR_2
+netdev,VAR_3
+np,VAR_4
+vsi,VAR_5
+tx_ring,VAR_6

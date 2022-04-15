@@ -1,0 +1,17 @@
+IPCB,FUNC_0
+IPPROTO_IPIP,VAR_0
+htons,FUNC_1
+ip_hdr,FUNC_2
+ip_select_ident,FUNC_3
+ip_send_check,FUNC_4
+memset,FUNC_5
+nf_reset,FUNC_6
+skb_dst,FUNC_7
+skb_push,FUNC_8
+skb_reset_network_header,FUNC_9
+ip_encap,FUNC_10
+skb,VAR_1
+saddr,VAR_2
+daddr,VAR_3
+iph,VAR_4
+old_iph,VAR_5

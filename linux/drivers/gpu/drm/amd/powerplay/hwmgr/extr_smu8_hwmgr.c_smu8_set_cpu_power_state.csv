@@ -1,0 +1,12 @@
+PPSMC_MSG_SetDisplaySizePowerParams,VAR_0
+PP_DBG_LOG,FUNC_0
+PWRMGT_DISABLE_CPU_CSTATES_SHIFT,VAR_1
+PWRMGT_DISABLE_CPU_PSTATES_SHIFT,VAR_2
+PWRMGT_SEPARATION_TIME_MASK,VAR_3
+PWRMGT_SEPARATION_TIME_SHIFT,VAR_4
+smu8_hw_print_display_cfg,FUNC_1
+smum_send_msg_to_smc_with_parameter,FUNC_2
+smu8_set_cpu_power_state,FUNC_3
+hwmgr,VAR_5
+hw_data,VAR_6
+data,VAR_7

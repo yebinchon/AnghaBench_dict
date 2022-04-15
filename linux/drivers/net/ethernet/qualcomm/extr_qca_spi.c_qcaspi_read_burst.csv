@@ -1,0 +1,17 @@
+QCA7K_SPI_EXTERNAL,VAR_0
+QCA7K_SPI_READ,VAR_1
+QCASPI_CMD_LEN,VAR_2
+cpu_to_be16,FUNC_0
+memset,FUNC_1
+qcaspi_spi_error,FUNC_2
+spi_message_add_tail,FUNC_3
+spi_message_init,FUNC_4
+spi_sync,FUNC_5
+qcaspi_read_burst,FUNC_6
+qca,VAR_3
+dst,VAR_4
+len,VAR_5
+msg,VAR_6
+cmd,VAR_7
+transfer,VAR_8
+ret,VAR_9

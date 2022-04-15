@@ -1,0 +1,17 @@
+WORK_HIGH_PRIO_BIT,VAR_0
+WORK_QUEUED_BIT,VAR_1
+atomic_inc,FUNC_0
+list_add_tail,FUNC_1
+list_move_tail,FUNC_2
+spin_lock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+test_and_set_bit,FUNC_7
+test_bit,FUNC_8
+wake_up_process,FUNC_9
+btrfs_requeue_work,FUNC_10
+work,VAR_2
+worker,VAR_3
+flags,VAR_4
+wake,VAR_5

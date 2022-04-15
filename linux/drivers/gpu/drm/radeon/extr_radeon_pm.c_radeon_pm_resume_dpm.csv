@@ -1,0 +1,15 @@
+CHIP_BARTS,VAR_0
+CHIP_CAYMAN,VAR_1
+DRM_ERROR,FUNC_0
+SET_VOLTAGE_TYPE_ASIC_VDDC,VAR_2
+SET_VOLTAGE_TYPE_ASIC_VDDCI,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+radeon_atom_set_voltage,FUNC_3
+radeon_dpm_enable,FUNC_4
+radeon_dpm_setup_asic,FUNC_5
+radeon_set_engine_clock,FUNC_6
+radeon_set_memory_clock,FUNC_7
+radeon_pm_resume_dpm,FUNC_8
+rdev,VAR_4
+ret,VAR_5

@@ -1,0 +1,16 @@
+IDT_ISLTL_ADDRESS_CAP,VAR_0
+IDT_PORT_ISERR_DET,FUNC_0
+REM_LTL_ERR_IMPSPEC,VAR_1
+REM_PED_IMPL_SPEC,VAR_2
+RIO_EM_LTL_ERR_DETECT,VAR_3
+RIO_EM_PN_ERR_DETECT,FUNC_1
+pr_debug,FUNC_2
+rio_name,FUNC_3
+rio_read_config_32,FUNC_4
+rio_write_config_32,FUNC_5
+idtg2_em_handler,FUNC_6
+rdev,VAR_4
+portnum,VAR_5
+regval,VAR_6
+em_perrdet,VAR_7
+em_ltlerrdet,VAR_8

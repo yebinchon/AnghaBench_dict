@@ -1,0 +1,13 @@
+EP_STATE_IDLE,VAR_0
+EP_STATE_OFLDCONN_COMPL,VAR_1
+EP_STATE_OFLDCONN_FAILED,VAR_2
+EP_STATE_OFLDCONN_NONE,VAR_3
+QEDI_OFLD_WAIT_STATE,FUNC_0
+msecs_to_jiffies,FUNC_1
+qedi_do_not_recover,VAR_4
+wait_event_interruptible_timeout,FUNC_2
+qedi_ep_poll,FUNC_3
+ep,VAR_5
+timeout_ms,VAR_6
+qedi_ep,VAR_7
+ret,VAR_8

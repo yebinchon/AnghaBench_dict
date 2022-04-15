@@ -1,0 +1,12 @@
+DESTROY_SRQ,VAR_0
+IBV_INIT_CMD_RESP,FUNC_0
+VALGRIND_MAKE_MEM_DEFINED,FUNC_1
+errno,VAR_1
+pthread_cond_wait,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+write,FUNC_5
+ibv_cmd_destroy_srq,FUNC_6
+srq,VAR_2
+cmd,VAR_3
+resp,VAR_4

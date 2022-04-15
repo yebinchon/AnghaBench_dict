@@ -1,0 +1,12 @@
+DSI_VID_VACTIVE_LINES,VAR_0
+DSI_VID_VBP_LINES,VAR_1
+DSI_VID_VFP_LINES,VAR_2
+DSI_VID_VSA_LINES,VAR_3
+dsi_write,FUNC_0
+dw_mipi_dsi_vertical_timing_config,FUNC_1
+dsi,VAR_4
+mode,VAR_5
+vactive,VAR_6
+vsa,VAR_7
+vfp,VAR_8
+vbp,VAR_9

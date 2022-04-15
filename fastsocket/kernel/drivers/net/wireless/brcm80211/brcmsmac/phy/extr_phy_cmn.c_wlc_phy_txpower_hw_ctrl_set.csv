@@ -1,0 +1,16 @@
+D11REGOFFS,FUNC_0
+ISNPHY,FUNC_1
+MCTL_EN_MAC,VAR_0
+PHY_TPC_HW_OFF,VAR_1
+bcma_read32,FUNC_2
+maccontrol,VAR_2
+mod_phy_reg,FUNC_3
+wlapi_enable_mac,FUNC_4
+wlapi_suspend_mac_and_wait,FUNC_5
+wlc_phy_txpwr_fixpower_nphy,FUNC_6
+wlc_phy_txpwrctrl_enable_nphy,FUNC_7
+wlc_phy_txpower_hw_ctrl_set,FUNC_8
+ppi,VAR_3
+hwpwrctrl,VAR_4
+pi,VAR_5
+suspend,VAR_6

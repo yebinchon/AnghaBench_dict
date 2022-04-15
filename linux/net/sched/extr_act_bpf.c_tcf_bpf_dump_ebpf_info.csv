@@ -1,0 +1,14 @@
+EMSGSIZE,VAR_0
+TCA_ACT_BPF_ID,VAR_1
+TCA_ACT_BPF_NAME,VAR_2
+TCA_ACT_BPF_TAG,VAR_3
+memcpy,FUNC_0
+nla_data,FUNC_1
+nla_len,FUNC_2
+nla_put_string,FUNC_3
+nla_put_u32,FUNC_4
+nla_reserve,FUNC_5
+tcf_bpf_dump_ebpf_info,FUNC_6
+prog,VAR_4
+skb,VAR_5
+nla,VAR_6

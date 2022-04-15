@@ -1,0 +1,14 @@
+HDCP_STATE_AUTHENTICATED,VAR_0
+HDMI_CTRL_ENCRYPTED,VAR_1
+HDMI_DDC_ARBITRATION_HW_ARBITRATION,VAR_2
+REG_HDMI_CTRL,VAR_3
+REG_HDMI_DDC_ARBITRATION,VAR_4
+hdmi_read,FUNC_0
+hdmi_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+msm_hdmi_hdcp_auth_done,FUNC_4
+hdcp_ctrl,VAR_5
+hdmi,VAR_6
+reg_val,VAR_7
+flags,VAR_8

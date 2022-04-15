@@ -1,0 +1,17 @@
+BUSY_READING_REG_VF_LOOP_COUNT,VAR_0
+CN23XX_PKT_INPUT_CTL_QUIET,VAR_1
+CN23XX_PKT_INPUT_CTL_RST,VAR_2
+CN23XX_VF_SLI_IQ_PKT_CONTROL64,FUNC_0
+READ_ONCE,FUNC_1
+WRITE_ONCE,FUNC_2
+dev_err,FUNC_3
+octeon_read_csr64,FUNC_4
+octeon_write_csr64,FUNC_5
+cn23xx_vf_reset_io_queues,FUNC_6
+oct,VAR_3
+num_queues,VAR_4
+loop,VAR_5
+ret_val,VAR_6
+q_no,VAR_7
+d64,VAR_8
+reg_val,VAR_9

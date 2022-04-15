@@ -1,0 +1,17 @@
+BE_ERR_BADPATH,VAR_0
+BE_ERR_PATHBUSY,VAR_1
+BE_ERR_PATHLEN,VAR_2
+BE_ERR_PERMS,VAR_3
+BE_ERR_UNKNOWN,VAR_4
+errno,VAR_5
+free,FUNC_0
+set_error,FUNC_1
+zfs_is_mounted,FUNC_2
+zfs_iter_filesystems,FUNC_3
+zfs_unmount,FUNC_4
+be_umount_iter,FUNC_5
+zfs_hdl,VAR_6
+data,VAR_7
+err,VAR_8
+mountpoint,VAR_9
+info,VAR_10

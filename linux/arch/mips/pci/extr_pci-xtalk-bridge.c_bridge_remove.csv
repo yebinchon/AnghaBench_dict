@@ -1,0 +1,11 @@
+BRIDGE_CONTROLLER,FUNC_0
+irq_domain_remove,FUNC_1
+pci_lock_rescan_remove,FUNC_2
+pci_remove_root_bus,FUNC_3
+pci_stop_root_bus,FUNC_4
+pci_unlock_rescan_remove,FUNC_5
+platform_get_drvdata,FUNC_6
+bridge_remove,FUNC_7
+pdev,VAR_0
+bus,VAR_1
+bc,VAR_2

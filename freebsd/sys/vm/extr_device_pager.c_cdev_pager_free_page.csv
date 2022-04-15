@@ -1,0 +1,12 @@
+KASSERT,FUNC_0
+OBJT_DEVICE,VAR_0
+OBJT_MGTDEVICE,VAR_1
+VM_OBJECT_ASSERT_WLOCKED,FUNC_1
+VPO_UNMANAGED,VAR_2
+dev_pager_free_page,FUNC_2
+pmap_remove_all,FUNC_3
+vm_page_remove,FUNC_4
+vm_page_xunbusy,FUNC_5
+cdev_pager_free_page,FUNC_6
+object,VAR_3
+m,VAR_4

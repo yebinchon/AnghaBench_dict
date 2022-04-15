@@ -1,0 +1,8 @@
+KEYBOARD_UNLOCK_REG,VAR_0
+KEY_IRQ_ENABLE_REG,VAR_1
+Q40_IRQ_KEYBOARD,VAR_2
+free_irq,FUNC_0
+master_outb,FUNC_1
+q40kbd_flush,FUNC_2
+q40kbd_close,FUNC_3
+port,VAR_3

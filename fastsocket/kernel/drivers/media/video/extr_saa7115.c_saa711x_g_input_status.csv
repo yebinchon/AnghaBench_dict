@@ -1,0 +1,12 @@
+R_1E_STATUS_BYTE_1_VD_DEC,VAR_0
+R_1F_STATUS_BYTE_2_VD_DEC,VAR_1
+V4L2_IDENT_SAA7115,VAR_2
+V4L2_IN_ST_NO_SIGNAL,VAR_3
+saa711x_read,FUNC_0
+to_state,FUNC_1
+saa711x_g_input_status,FUNC_2
+sd,VAR_4
+status,VAR_5
+state,VAR_6
+reg1e,VAR_7
+reg1f,VAR_8

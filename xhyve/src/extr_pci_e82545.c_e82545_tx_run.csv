@@ -1,0 +1,17 @@
+DPRINTF,FUNC_0
+E1000_ICR_TXDW,VAR_0
+E1000_ICR_TXQE,VAR_1
+e82545_icr_assert,FUNC_1
+e82545_transmit,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+e82545_tx_run,FUNC_5
+sc,VAR_2
+cause,VAR_3
+head,VAR_4
+rhead,VAR_5
+tail,VAR_6
+size,VAR_7
+lim,VAR_8
+tdwb,VAR_9
+sent,VAR_10

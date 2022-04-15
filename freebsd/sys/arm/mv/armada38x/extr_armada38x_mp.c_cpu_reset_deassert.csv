@@ -1,0 +1,13 @@
+CPU_RESET_ASSERT,VAR_0
+CPU_RESET_OFFSET,FUNC_0
+MV_CPU_RESET_BASE,VAR_1
+MV_CPU_RESET_REGS_LEN,VAR_2
+bus_space_map,FUNC_1
+bus_space_read_4,FUNC_2
+bus_space_unmap,FUNC_3
+bus_space_write_4,FUNC_4
+fdtbus_bs_tag,VAR_3
+cpu_reset_deassert,FUNC_5
+vaddr,VAR_4
+reg,VAR_5
+rv,VAR_6

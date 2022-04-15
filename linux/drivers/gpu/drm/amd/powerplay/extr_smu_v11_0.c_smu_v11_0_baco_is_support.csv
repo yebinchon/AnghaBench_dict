@@ -1,0 +1,14 @@
+NBIO,VAR_0
+RCC_BIF_STRAP0__STRAP_PX_CAPABLE_MASK,VAR_1
+RREG32_SOC15,FUNC_0
+SMU_FEATURE_BACO_BIT,VAR_2
+mmRCC_BIF_STRAP0,VAR_3
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+smu_feature_is_enabled,FUNC_3
+smu_v11_0_baco_is_support,FUNC_4
+smu,VAR_4
+adev,VAR_5
+smu_baco,VAR_6
+val,VAR_7
+baco_support,VAR_8

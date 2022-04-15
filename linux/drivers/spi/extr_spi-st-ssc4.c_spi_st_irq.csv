@@ -1,0 +1,11 @@
+IRQ_HANDLED,VAR_0
+SSC_IEN,VAR_1
+complete,FUNC_0
+readl,FUNC_1
+ssc_read_rx_fifo,FUNC_2
+ssc_write_tx_fifo,FUNC_3
+writel_relaxed,FUNC_4
+spi_st_irq,FUNC_5
+irq,VAR_2
+dev_id,VAR_3
+spi_st,VAR_4

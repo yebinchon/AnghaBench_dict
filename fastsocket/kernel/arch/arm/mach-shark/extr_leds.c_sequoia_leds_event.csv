@@ -1,0 +1,16 @@
+LED_STATE_CLAIMED,VAR_0
+LED_STATE_ENABLED,VAR_1
+SEQUOIA_LED_AMBER,VAR_2
+SEQUOIA_LED_BACK,VAR_3
+SEQUOIA_LED_GREEN,VAR_4
+hw_led_state,VAR_5
+led_state,VAR_6
+leds_lock,VAR_7
+saved_state,VAR_8
+sequoia_read,FUNC_0
+sequoia_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+sequoia_leds_event,FUNC_4
+evt,VAR_9
+flags,VAR_10

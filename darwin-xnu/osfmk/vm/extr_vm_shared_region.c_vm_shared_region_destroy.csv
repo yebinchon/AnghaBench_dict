@@ -1,0 +1,17 @@
+IPC_PORT_NULL,VAR_0
+SHARED_REGION_TRACE_DEBUG,FUNC_0
+SHARED_REGION_TRACE_INFO,FUNC_1
+VM_KERNEL_ADDRPERM,FUNC_2
+assert,FUNC_3
+kernel_map,VAR_1
+kfree,FUNC_4
+kmem_free,FUNC_5
+mach_memory_entry_port_release,FUNC_6
+pmap_remove,FUNC_7
+si,VAR_2
+thread_call_free,FUNC_8
+vm_object_deallocate,FUNC_9
+vm_shared_region_destroy,FUNC_10
+shared_region,VAR_3
+mem_entry,VAR_4
+map,VAR_5

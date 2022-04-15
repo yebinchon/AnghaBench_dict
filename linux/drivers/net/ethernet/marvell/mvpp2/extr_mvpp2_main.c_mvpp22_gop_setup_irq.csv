@@ -1,0 +1,13 @@
+MVPP22_GMAC_INT_MASK,VAR_0
+MVPP22_GMAC_INT_MASK_LINK_STAT,VAR_1
+MVPP22_XLG_INT_MASK,VAR_2
+MVPP22_XLG_INT_MASK_LINK,VAR_3
+PHY_INTERFACE_MODE_SGMII,VAR_4
+mvpp22_gop_unmask_irq,FUNC_0
+phy_interface_mode_is_8023z,FUNC_1
+phy_interface_mode_is_rgmii,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+mvpp22_gop_setup_irq,FUNC_5
+port,VAR_5
+val,VAR_6

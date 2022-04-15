@@ -1,0 +1,13 @@
+LDNS_RR_TYPE_DS,VAR_0
+LDNS_RR_TYPE_NS,VAR_1
+LDNS_RR_TYPE_NSEC,VAR_2
+LDNS_RR_TYPE_SOA,VAR_3
+log_assert,FUNC_0
+nsec_has_type,FUNC_1
+ntohs,FUNC_2
+sec_status_bogus,VAR_4
+sec_status_insecure,VAR_5
+sec_status_secure,VAR_6
+val_nsec_proves_no_ds,FUNC_3
+nsec,VAR_7
+qinfo,VAR_8

@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+MTX_DEF,VAR_1
+M_NOWAIT,VAR_2
+TASK_INIT,FUNC_0
+device_get_nameunit,FUNC_1
+mtx_init,FUNC_2
+sglist_alloc,FUNC_3
+snprintf,FUNC_4
+taskqueue_create,FUNC_5
+taskqueue_thread_enqueue,VAR_3
+vtnet_rxq_tq_intr,VAR_4
+vtnet_init_rxq,FUNC_6
+sc,VAR_5
+id,VAR_6
+rxq,VAR_7

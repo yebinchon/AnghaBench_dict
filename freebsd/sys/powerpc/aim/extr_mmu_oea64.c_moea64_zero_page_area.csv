@@ -1,0 +1,17 @@
+PAGE_SIZE,VAR_0
+PHYS_TO_DMAP,FUNC_0
+VM_PAGE_TO_PHYS,FUNC_1
+bzero,FUNC_2
+hw_direct_map,VAR_1
+moea64_scratchpage_mtx,VAR_2
+moea64_scratchpage_va,VAR_3
+moea64_set_scratchpage_pa,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+panic,FUNC_6
+moea64_zero_page_area,FUNC_7
+mmu,VAR_4
+m,VAR_5
+off,VAR_6
+size,VAR_7
+pa,VAR_8

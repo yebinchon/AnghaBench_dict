@@ -1,0 +1,10 @@
+BPF_LRU_LIST_T_FREE,VAR_0
+__bpf_lru_node_move,FUNC_0
+per_cpu_ptr,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+bpf_percpu_lru_push_free,FUNC_4
+lru,VAR_1
+node,VAR_2
+l,VAR_3
+flags,VAR_4

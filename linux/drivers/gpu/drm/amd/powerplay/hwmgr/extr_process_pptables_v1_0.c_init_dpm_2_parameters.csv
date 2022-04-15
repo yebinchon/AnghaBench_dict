@@ -1,0 +1,16 @@
+PHM_PlatformCaps_EnablePlatformPowerManagement,VAR_0
+PHM_PlatformCaps_PowerControl,VAR_1
+get_platform_power_management_table,FUNC_0
+get_vddc_lookup_table,FUNC_1
+le16_to_cpu,FUNC_2
+phm_cap_set,FUNC_3
+init_dpm_2_parameters,FUNC_4
+hwmgr,VAR_2
+powerplay_table,VAR_3
+result,VAR_4
+pp_table_information,VAR_5
+atom_ppm_table,VAR_6
+disable_ppm,VAR_7
+disable_power_control,VAR_8
+pVddcCACTable,VAR_9
+pVddgfxCACTable,VAR_10

@@ -1,0 +1,10 @@
+marvell_nfc_hw_ecc_hmg_do_write_page,FUNC_0
+marvell_nfc_select_target,FUNC_1
+memset,FUNC_2
+nand_get_data_buf,FUNC_3
+nand_to_mtd,FUNC_4
+marvell_nfc_hw_ecc_hmg_write_oob_raw,FUNC_5
+chip,VAR_0
+page,VAR_1
+mtd,VAR_2
+buf,VAR_3

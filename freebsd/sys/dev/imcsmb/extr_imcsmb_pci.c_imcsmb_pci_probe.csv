@@ -1,0 +1,12 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+PCI_VENDOR_INTEL,VAR_2
+device_set_desc,FUNC_0
+imcsmb_pci_devices,VAR_3
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+imcsmb_pci_probe,FUNC_3
+dev,VAR_4
+pci_device,VAR_5
+rc,VAR_6
+pci_dev_id,VAR_7

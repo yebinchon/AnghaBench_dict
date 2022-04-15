@@ -1,0 +1,14 @@
+E1000_VMOLR,FUNC_0
+E1000_VMOLR_MPME,VAR_0
+E1000_VMOLR_ROMPE,VAR_1
+IGB_VF_FLAG_MULTI_PROMISC,VAR_2
+igb_mta_set,FUNC_1
+rd32,FUNC_2
+wr32,FUNC_3
+igb_restore_vf_multicasts,FUNC_4
+adapter,VAR_3
+hw,VAR_4
+vf_data,VAR_5
+i,VAR_6
+j,VAR_7
+vmolr,VAR_8

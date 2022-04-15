@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+EBUSY,VAR_0
+mb,FUNC_1
+spin_trylock,FUNC_2
+spin_trylock_irq,FUNC_3
+spin_trylock_irqsave,FUNC_4
+spin_unlock,FUNC_5
+spin_unlock_irq,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+stub1,FUNC_8
+__hwspin_trylock,FUNC_9
+hwlock,VAR_1
+mode,VAR_2
+flags,VAR_3
+ret,VAR_4

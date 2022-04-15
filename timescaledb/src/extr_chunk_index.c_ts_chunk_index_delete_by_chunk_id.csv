@@ -1,0 +1,13 @@
+Anum_chunk_index_chunk_id_index_name_idx_chunk_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CHUNK_INDEX_CHUNK_ID_INDEX_NAME_IDX,VAR_2
+F_INT4EQ,VAR_3
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+chunk_index_scan_update,FUNC_2
+chunk_index_tuple_delete,VAR_4
+ts_chunk_index_delete_by_chunk_id,FUNC_3
+chunk_id,VAR_5
+drop_index,VAR_6
+scankey,VAR_7
+data,VAR_8

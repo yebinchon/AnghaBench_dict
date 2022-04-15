@@ -1,0 +1,13 @@
+CPU_IRQ_BASE,VAR_0
+CPU_IRQ_MAX,VAR_1
+IPI_IRQ,VAR_2
+TIMER_IRQ,VAR_3
+cpu_interrupt_type,VAR_4
+handle_percpu_irq,VAR_5
+ipi_action,VAR_6
+irq_set_chip_and_handler,FUNC_0
+irq_set_handler,FUNC_1
+setup_irq,FUNC_2
+timer_action,VAR_7
+claim_cpu_irqs,FUNC_3
+i,VAR_8

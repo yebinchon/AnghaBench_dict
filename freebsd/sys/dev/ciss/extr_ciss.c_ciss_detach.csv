@@ -1,0 +1,11 @@
+CISS_FLAG_CONTROL_OPEN,VAR_0
+EBUSY,VAR_1
+ciss_flush_adapter,FUNC_0
+ciss_free,FUNC_1
+debug_called,FUNC_2
+device_get_softc,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+ciss_detach,FUNC_6
+dev,VAR_2
+sc,VAR_3

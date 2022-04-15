@@ -1,0 +1,14 @@
+DMA_RX_CSUM_IP,VAR_0
+DMA_RX_CSUM_TCP,VAR_1
+KS_DMA_RX_CTRL,VAR_2
+NETIF_F_RXCSUM,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+netdev_priv,FUNC_2
+writel,FUNC_3
+netdev_set_features,FUNC_4
+dev,VAR_4
+features,VAR_5
+priv,VAR_6
+hw_priv,VAR_7
+hw,VAR_8

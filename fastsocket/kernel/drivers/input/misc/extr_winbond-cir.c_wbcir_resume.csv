@@ -1,0 +1,12 @@
+WBCIR_IRQ_ERR,VAR_0
+WBCIR_IRQ_RX,VAR_1
+WBCIR_REG_SP3_IER,VAR_2
+WBCIR_REG_WCEIR_CTL,VAR_3
+WBCIR_REG_WCEIR_EV_EN,VAR_4
+outb,FUNC_0
+pnp_get_drvdata,FUNC_1
+wbcir_reset_irdata,FUNC_2
+wbcir_set_bits,FUNC_3
+wbcir_resume,FUNC_4
+device,VAR_5
+data,VAR_6

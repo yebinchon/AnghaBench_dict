@@ -1,0 +1,13 @@
+VIA_DXS_MAX_VOLUME,VAR_0
+VIA_REG_OFS_PLAYBACK_VOLUME_L,VAR_1
+outb,FUNC_0
+snd_kcontrol_chip,FUNC_1
+snd_via8233_pcmdxs_volume_put,FUNC_2
+kcontrol,VAR_2
+ucontrol,VAR_3
+chip,VAR_4
+idx,VAR_5
+val,VAR_6
+i,VAR_7
+change,VAR_8
+port,VAR_9

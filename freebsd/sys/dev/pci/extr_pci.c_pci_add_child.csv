@@ -1,0 +1,16 @@
+EVENTHANDLER_INVOKE,FUNC_0
+device_add_child,FUNC_1
+device_set_ivars,FUNC_2
+pci_add_child_clear_aer,FUNC_3
+pci_add_device,VAR_0
+pci_add_resources,FUNC_4
+pci_cfg_restore,FUNC_5
+pci_cfg_save,FUNC_6
+pci_child_added,FUNC_7
+pci_clear_aer_on_attach,VAR_1
+pci_print_verbose,FUNC_8
+resource_list_init,FUNC_9
+pci_add_child,FUNC_10
+bus,VAR_2
+dinfo,VAR_3
+dev,VAR_4

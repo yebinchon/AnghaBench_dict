@@ -1,0 +1,17 @@
+VMEXIT_CONTINUE,VAR_0
+VM_REG_GUEST_RAX,VAR_1
+VM_REG_GUEST_RDX,VAR_2
+assert,FUNC_0
+emulate_rdmsr,FUNC_1
+fprintf,FUNC_2
+stderr,VAR_3
+strictmsr,VAR_4
+vm_inject_gp,FUNC_3
+xh_vm_set_register,FUNC_4
+vmexit_rdmsr,FUNC_5
+vme,VAR_5
+pvcpu,VAR_6
+val,VAR_7
+eax,VAR_8
+edx,VAR_9
+error,VAR_10

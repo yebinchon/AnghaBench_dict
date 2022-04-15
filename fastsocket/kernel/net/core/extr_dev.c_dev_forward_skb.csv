@@ -1,0 +1,14 @@
+NET_RX_DROP,VAR_0
+PACKET_HOST,VAR_1
+eth_type_trans,FUNC_0
+is_skb_forwardable,FUNC_1
+kfree_skb,FUNC_2
+netif_rx,FUNC_3
+nf_reset,FUNC_4
+secpath_reset,FUNC_5
+skb_dst_drop,FUNC_6
+skb_orphan,FUNC_7
+unlikely,FUNC_8
+dev_forward_skb,FUNC_9
+dev,VAR_2
+skb,VAR_3

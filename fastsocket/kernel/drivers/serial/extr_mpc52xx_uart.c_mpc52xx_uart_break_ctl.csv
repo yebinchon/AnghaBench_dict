@@ -1,0 +1,10 @@
+MPC52xx_PSC_START_BRK,VAR_0
+MPC52xx_PSC_STOP_BRK,VAR_1
+PSC,FUNC_0
+out_8,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+mpc52xx_uart_break_ctl,FUNC_4
+port,VAR_2
+ctl,VAR_3
+flags,VAR_4

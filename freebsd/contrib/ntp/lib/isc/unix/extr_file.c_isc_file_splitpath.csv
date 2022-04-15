@@ -1,0 +1,17 @@
+ISC_R_INVALIDFILE,VAR_0
+ISC_R_NOMEMORY,VAR_1
+ISC_R_SUCCESS,VAR_2
+REQUIRE,FUNC_0
+isc_mem_allocate,FUNC_1
+isc_mem_free,FUNC_2
+isc_mem_strdup,FUNC_3
+strlcpy,FUNC_4
+strrchr,FUNC_5
+isc_file_splitpath,FUNC_6
+mctx,VAR_3
+path,VAR_4
+dirnam,VAR_5
+basenam,VAR_6
+dir,VAR_7
+file,VAR_8
+slash,VAR_9

@@ -1,0 +1,10 @@
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_rewritefile,FUNC_2
+cl_set_cleanup,FUNC_3
+cleanup_repository,VAR_0
+g_repo,VAR_1
+git_repository_fetchhead_foreach,FUNC_4
+git_repository_init,FUNC_5
+read_noop,VAR_2
+test_fetchhead_nonetwork__invalid_unterminated_last_line,FUNC_6

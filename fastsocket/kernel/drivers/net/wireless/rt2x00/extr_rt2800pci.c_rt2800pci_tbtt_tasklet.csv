@@ -1,0 +1,16 @@
+BCN_TBTT_OFFSET,VAR_0
+BCN_TIME_CFG,VAR_1
+BCN_TIME_CFG_BEACON_INTERVAL,VAR_2
+DEVICE_STATE_ENABLED_RADIO,VAR_3
+INT_MASK_CSR_TBTT,VAR_4
+rt2800pci_enable_interrupt,FUNC_0
+rt2x00_set_field32,FUNC_1
+rt2x00lib_beacondone,FUNC_2
+rt2x00mmio_register_read,FUNC_3
+rt2x00mmio_register_write,FUNC_4
+test_bit,FUNC_5
+rt2800pci_tbtt_tasklet,FUNC_6
+data,VAR_5
+rt2x00dev,VAR_6
+drv_data,VAR_7
+reg,VAR_8

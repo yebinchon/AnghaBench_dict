@@ -1,0 +1,13 @@
+MV88E6XXX_SMI_CMD,VAR_0
+MV88E6XXX_SMI_CMD_BUSY,VAR_1
+MV88E6XXX_SMI_CMD_MODE_22,VAR_2
+MV88E6XXX_SMI_CMD_OP_22_WRITE,VAR_3
+MV88E6XXX_SMI_DATA,VAR_4
+mv88e6xxx_smi_direct_wait,FUNC_0
+mv88e6xxx_smi_direct_write,FUNC_1
+mv88e6xxx_smi_indirect_write,FUNC_2
+chip,VAR_5
+dev,VAR_6
+reg,VAR_7
+data,VAR_8
+err,VAR_9

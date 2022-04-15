@@ -1,0 +1,14 @@
+HMC5843_DATA_OUT_MSB_REGS,VAR_0
+IIO_VAL_INT,VAR_1
+be16_to_cpu,FUNC_0
+hmc5843_wait_measurement,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+regmap_bulk_read,FUNC_4
+sign_extend32,FUNC_5
+hmc5843_read_measurement,FUNC_6
+data,VAR_2
+idx,VAR_3
+val,VAR_4
+values,VAR_5
+ret,VAR_6

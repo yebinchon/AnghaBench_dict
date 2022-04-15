@@ -1,0 +1,16 @@
+EXIT_DEAD,VAR_0
+EXIT_ZOMBIE,VAR_1
+SEND_SIG_NOINFO,VAR_2
+SIGCHLD,VAR_3
+do_notify_parent,FUNC_0
+group_send_sig_info,FUNC_1
+kill_orphaned_pgrp,FUNC_2
+list_move_tail,FUNC_3
+same_thread_group,FUNC_4
+task_detached,FUNC_5
+task_ptrace,FUNC_6
+thread_group_empty,FUNC_7
+reparent_thread,FUNC_8
+father,VAR_4
+p,VAR_5
+dead,VAR_6

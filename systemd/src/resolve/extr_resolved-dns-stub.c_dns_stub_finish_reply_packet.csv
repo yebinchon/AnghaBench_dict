@@ -1,0 +1,17 @@
+ADVERTISE_DATAGRAM_SIZE_MAX,VAR_0
+DNS_PACKET_HEADER,FUNC_0
+DNS_PACKET_MAKE_FLAGS,FUNC_1
+DNS_RCODE_SERVFAIL,VAR_1
+EMSGSIZE,VAR_2
+assert,FUNC_2
+dns_packet_append_opt,FUNC_3
+htobe16,FUNC_4
+dns_stub_finish_reply_packet,FUNC_5
+p,VAR_3
+id,VAR_4
+rcode,VAR_5
+tc,VAR_6
+add_opt,VAR_7
+edns0_do,VAR_8
+ad,VAR_9
+r,VAR_10

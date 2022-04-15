@@ -1,0 +1,11 @@
+BCMA_IOCTL,VAR_0
+BCMA_IOCTL_CLK,VAR_1
+BCMA_IOCTL_FGC,VAR_2
+BCMA_RESET_CTL,VAR_3
+bcma_aread32,FUNC_0
+bcma_awrite32,FUNC_1
+bcma_core_disable,FUNC_2
+udelay,FUNC_3
+bcma_core_enable,FUNC_4
+core,VAR_4
+flags,VAR_5

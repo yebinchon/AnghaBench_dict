@@ -1,0 +1,10 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_branch_is_checked_out,FUNC_2
+git_reference_free,FUNC_3
+git_reference_lookup,FUNC_4
+assert_checked_out,FUNC_5
+repo,VAR_0
+branch,VAR_1
+checked_out,VAR_2
+ref,VAR_3

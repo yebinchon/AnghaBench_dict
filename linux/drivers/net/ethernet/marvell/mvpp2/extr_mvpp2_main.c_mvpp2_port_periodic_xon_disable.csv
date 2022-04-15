@@ -1,0 +1,7 @@
+MVPP2_GMAC_CTRL_1_REG,VAR_0
+MVPP2_GMAC_PERIODIC_XON_EN_MASK,VAR_1
+readl,FUNC_0
+writel,FUNC_1
+mvpp2_port_periodic_xon_disable,FUNC_2
+port,VAR_2
+val,VAR_3

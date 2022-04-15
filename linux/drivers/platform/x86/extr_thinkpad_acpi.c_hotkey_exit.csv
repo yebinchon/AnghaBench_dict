@@ -1,0 +1,16 @@
+TPACPI_DBG_EXIT,VAR_0
+TPACPI_DBG_HKEY,VAR_1
+dbg_printk,FUNC_0
+delete_attr_set,FUNC_1
+hotkey_dev_attributes,VAR_2
+hotkey_mask_set,FUNC_2
+hotkey_mutex,VAR_3
+hotkey_orig_mask,VAR_4
+hotkey_poll_stop_sync,FUNC_3
+hotkey_status_set,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+pr_err,FUNC_7
+tp_features,VAR_5
+tpacpi_pdev,VAR_6
+hotkey_exit,FUNC_8

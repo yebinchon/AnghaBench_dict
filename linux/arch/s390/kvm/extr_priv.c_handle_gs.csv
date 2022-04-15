@@ -1,0 +1,14 @@
+ECB_GS,VAR_0
+ECD_HOSTREGMGMT,VAR_1
+PGM_OPERATION,VAR_2
+VCPU_EVENT,FUNC_0
+__ctl_set_bit,FUNC_1
+current,VAR_3
+kvm_s390_inject_program_int,FUNC_2
+kvm_s390_retry_instr,FUNC_3
+preempt_disable,FUNC_4
+preempt_enable,FUNC_5
+restore_gs_cb,FUNC_6
+test_kvm_facility,FUNC_7
+handle_gs,FUNC_8
+vcpu,VAR_4

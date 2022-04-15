@@ -1,0 +1,15 @@
+RM_MULTIXACT_ID,VAR_0
+SizeOfMultiXactTruncate,VAR_1
+XLOG_MULTIXACT_TRUNCATE_ID,VAR_2
+XLogBeginInsert,FUNC_0
+XLogFlush,FUNC_1
+XLogInsert,FUNC_2
+XLogRegisterData,FUNC_3
+WriteMTruncateXlogRec,FUNC_4
+oldestMultiDB,VAR_3
+startTruncOff,VAR_4
+endTruncOff,VAR_5
+startTruncMemb,VAR_6
+endTruncMemb,VAR_7
+recptr,VAR_8
+xlrec,VAR_9

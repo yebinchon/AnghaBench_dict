@@ -1,0 +1,15 @@
+EM28XX_DEF_BUF,VAR_0
+EM28XX_MIN_BUF,VAR_1
+V4L2_TUNER_ANALOG_TV,VAR_2
+V4L2_TUNER_RADIO,VAR_3
+memset,FUNC_0
+s_frequency,VAR_4
+tuner,VAR_5
+v4l2_device_call_all,FUNC_1
+buffer_setup,FUNC_2
+vq,VAR_6
+count,VAR_7
+size,VAR_8
+fh,VAR_9
+dev,VAR_10
+f,VAR_11

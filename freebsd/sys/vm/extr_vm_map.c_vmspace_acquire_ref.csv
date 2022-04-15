@@ -1,0 +1,8 @@
+PROC_VMSPACE_LOCK,FUNC_0
+PROC_VMSPACE_UNLOCK,FUNC_1
+atomic_fcmpset_int,FUNC_2
+vmspace_free,FUNC_3
+vmspace_acquire_ref,FUNC_4
+p,VAR_0
+vm,VAR_1
+refcnt,VAR_2

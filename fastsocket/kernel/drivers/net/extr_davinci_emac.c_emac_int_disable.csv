@@ -1,0 +1,10 @@
+EMAC_CTRL_EWCTL,VAR_0
+EMAC_DM646X_CMRXINTEN,VAR_1
+EMAC_DM646X_CMTXINTEN,VAR_2
+EMAC_VERSION_2,VAR_3
+emac_ctrl_write,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+emac_int_disable,FUNC_3
+priv,VAR_4
+flags,VAR_5

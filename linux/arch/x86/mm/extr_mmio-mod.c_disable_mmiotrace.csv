@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+atomic_dec,FUNC_1
+clear_trace_list,FUNC_2
+is_enabled,FUNC_3
+kmmio_cleanup,FUNC_4
+leave_uniprocessor,FUNC_5
+mmiotrace_enabled,VAR_0
+mmiotrace_mutex,VAR_1
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+pr_info,FUNC_8
+spin_lock_irq,FUNC_9
+spin_unlock_irq,FUNC_10
+trace_lock,VAR_2
+disable_mmiotrace,FUNC_11

@@ -1,0 +1,14 @@
+RTC_FLG_READ,VAR_0
+VIA1B_vRTCClk,VAR_1
+VIA1B_vRTCEnb,VAR_2
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+vBufB,VAR_3
+via1,VAR_4
+via_rtc_recv,FUNC_2
+via_rtc_send,FUNC_3
+via_rtc_command,FUNC_4
+command,VAR_5
+data,VAR_6
+flags,VAR_7
+is_read,VAR_8

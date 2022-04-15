@@ -1,0 +1,17 @@
+M_DEVBUF,VAR_0
+buf_ring_free,FUNC_0
+callout_drain,FUNC_1
+device_get_softc,FUNC_2
+ether_ifdetach,FUNC_3
+free,FUNC_4
+if_free,FUNC_5
+ifmedia_removeall,FUNC_6
+mtx_destroy,FUNC_7
+ntb_transport_free_queue,FUNC_8
+ntb_transport_link_down,FUNC_9
+taskqueue_drain_all,FUNC_10
+ntb_net_detach,FUNC_11
+dev,VAR_1
+sc,VAR_2
+q,VAR_3
+i,VAR_4

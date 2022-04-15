@@ -1,0 +1,15 @@
+PPSMC_MSG_UVDDPM_SetEnabledMask,VAR_0
+SMU7_Fusion_DpmTable,VAR_1
+UvdBootLevel,VAR_2
+kv_copy_bytes_to_smc,FUNC_0
+kv_enable_uvd_dpm,FUNC_1
+kv_get_pi,FUNC_2
+kv_send_msg_to_smc_with_parameter,FUNC_3
+offsetof,FUNC_4
+kv_update_uvd_dpm,FUNC_5
+rdev,VAR_3
+gate,VAR_4
+pi,VAR_5
+table,VAR_6
+ret,VAR_7
+mask,VAR_8

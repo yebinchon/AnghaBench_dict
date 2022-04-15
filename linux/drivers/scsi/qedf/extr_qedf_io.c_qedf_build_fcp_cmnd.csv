@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+FCP_CFL_RDDATA,VAR_2
+FCP_CFL_WRDATA,VAR_3
+FCP_CMND_LEN,VAR_4
+FCP_PTA_SIMPLE,VAR_5
+QEDF_TASK_MGMT_CMD,VAR_6
+htonl,FUNC_0
+int_to_scsilun,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+qedf_build_fcp_cmnd,FUNC_4
+io_req,VAR_7
+fcp_cmnd,VAR_8
+sc_cmd,VAR_9

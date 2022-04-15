@@ -1,0 +1,12 @@
+LTC2941_ID,VAR_0
+LTC294X_REG_CONTROL,VAR_1
+LTC294X_REG_CONTROL_ADC_DISABLE,FUNC_0
+i2c_get_clientdata,FUNC_1
+ltc294x_read_regs,FUNC_2
+ltc294x_write_regs,FUNC_3
+ltc294x_i2c_shutdown,FUNC_4
+client,VAR_2
+info,VAR_3
+ret,VAR_4
+value,VAR_5
+control,VAR_6

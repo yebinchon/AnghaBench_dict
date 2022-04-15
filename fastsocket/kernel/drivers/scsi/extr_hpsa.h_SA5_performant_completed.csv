@@ -1,0 +1,14 @@
+FIFO_EMPTY,VAR_0
+SA5_OUTDB_CLEAR,VAR_1
+SA5_OUTDB_CLEAR_PERF_BIT,VAR_2
+SA5_OUTDB_STATUS,VAR_3
+readl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel,FUNC_3
+SA5_performant_completed,FUNC_4
+h,VAR_4
+q,VAR_5
+rq,VAR_6
+flags,VAR_7
+register_value,VAR_8

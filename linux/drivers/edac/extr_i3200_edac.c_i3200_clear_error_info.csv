@@ -1,0 +1,7 @@
+I3200_ERRSTS,VAR_0
+I3200_ERRSTS_BITS,VAR_1
+pci_write_bits16,FUNC_0
+to_pci_dev,FUNC_1
+i3200_clear_error_info,FUNC_2
+mci,VAR_2
+pdev,VAR_3

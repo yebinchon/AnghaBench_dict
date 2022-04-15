@@ -1,0 +1,13 @@
+PCI_EXP_SLTCTL,VAR_0
+PCI_EXP_SLTCTL_AIC,VAR_1
+PCI_EXP_SLTCTL_ATTN_IND_OFF,VAR_2
+PCI_EXP_SLTCTL_ATTN_IND_ON,VAR_3
+pcie_capability_clear_and_set_word,FUNC_0
+to_pnv_php_slot,FUNC_1
+pnv_php_set_attention_state,FUNC_2
+slot,VAR_4
+state,VAR_5
+php_slot,VAR_6
+bridge,VAR_7
+new,VAR_8
+mask,VAR_9

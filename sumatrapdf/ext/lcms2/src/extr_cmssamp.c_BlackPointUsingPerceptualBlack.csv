@@ -1,0 +1,17 @@
+CreateRoundtripXForm,FUNC_0
+FALSE,VAR_0
+INTENT_PERCEPTUAL,VAR_1
+LCMS_USED_AS_INPUT,VAR_2
+TRUE,VAR_3
+cmsDeleteTransform,FUNC_1
+cmsDoTransform,FUNC_2
+cmsIsIntentSupported,FUNC_3
+cmsLab2XYZ,FUNC_4
+BlackPointUsingPerceptualBlack,FUNC_5
+ContextID,VAR_4
+BlackPoint,VAR_5
+hProfile,VAR_6
+hRoundTrip,VAR_7
+LabIn,VAR_8
+LabOut,VAR_9
+BlackXYZ,VAR_10

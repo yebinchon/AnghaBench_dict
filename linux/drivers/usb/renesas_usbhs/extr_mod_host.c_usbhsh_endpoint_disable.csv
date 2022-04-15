@@ -1,0 +1,12 @@
+usbhsh_device_detach,FUNC_0
+usbhsh_device_has_endpoint,FUNC_1
+usbhsh_endpoint_detach,FUNC_2
+usbhsh_ep_to_uep,FUNC_3
+usbhsh_hcd_to_hpriv,FUNC_4
+usbhsh_uep_to_udev,FUNC_5
+usbhsh_endpoint_disable,FUNC_6
+hcd,VAR_0
+ep,VAR_1
+uep,VAR_2
+udev,VAR_3
+hpriv,VAR_4

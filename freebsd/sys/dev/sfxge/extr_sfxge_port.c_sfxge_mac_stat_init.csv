@@ -1,0 +1,15 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_U64,VAR_1
+EFX_MAC_NSTATS,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+efx_mac_stat_name,FUNC_3
+sfxge_mac_stat_handler,VAR_4
+sfxge_mac_stat_init,FUNC_4
+sc,VAR_5
+ctx,VAR_6
+stat_list,VAR_7
+id,VAR_8
+name,VAR_9

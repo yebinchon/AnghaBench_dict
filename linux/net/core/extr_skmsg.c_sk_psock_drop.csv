@@ -1,0 +1,14 @@
+SK_PSOCK_TX_ENABLED,VAR_0
+call_rcu,FUNC_0
+rcu_assign_sk_user_data,FUNC_1
+sk_psock_clear_state,FUNC_2
+sk_psock_cork_free,FUNC_3
+sk_psock_destroy,VAR_1
+sk_psock_restore_proto,FUNC_4
+sk_psock_stop_strp,FUNC_5
+sk_psock_zap_ingress,FUNC_6
+write_lock_bh,FUNC_7
+write_unlock_bh,FUNC_8
+sk_psock_drop,FUNC_9
+sk,VAR_2
+psock,VAR_3

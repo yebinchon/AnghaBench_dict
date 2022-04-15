@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+HDA_NID_ITEM_AMP,VAR_1
+HDA_SUBDEV_AMP_FLAG,VAR_2
+HDA_SUBDEV_NID_FLAG,VAR_3
+get_amp_nid_,FUNC_0
+snd_array_new,FUNC_1
+snd_ctl_add,FUNC_2
+snd_hda_ctl_add,FUNC_3
+codec,VAR_4
+nid,VAR_5
+kctl,VAR_6
+err,VAR_7
+flags,VAR_8
+item,VAR_9

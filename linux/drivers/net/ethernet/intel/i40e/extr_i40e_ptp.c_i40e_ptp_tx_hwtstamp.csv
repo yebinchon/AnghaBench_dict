@@ -1,0 +1,17 @@
+I40E_FLAG_PTP,VAR_0
+I40E_PRTTSYN_TXTIME_H,VAR_1
+I40E_PRTTSYN_TXTIME_L,VAR_2
+__I40E_PTP_TX_IN_PROGRESS,VAR_3
+clear_bit_unlock,FUNC_0
+dev_kfree_skb_any,FUNC_1
+i40e_ptp_convert_to_hwtstamp,FUNC_2
+rd32,FUNC_3
+skb_tstamp_tx,FUNC_4
+i40e_ptp_tx_hwtstamp,FUNC_5
+pf,VAR_4
+shhwtstamps,VAR_5
+skb,VAR_6
+hw,VAR_7
+hi,VAR_8
+lo,VAR_9
+ns,VAR_10

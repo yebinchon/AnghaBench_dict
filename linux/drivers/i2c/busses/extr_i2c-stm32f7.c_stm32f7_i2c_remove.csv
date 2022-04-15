@@ -1,0 +1,12 @@
+clk_disable_unprepare,FUNC_0
+i2c_del_adapter,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_dont_use_autosuspend,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+pm_runtime_set_suspended,FUNC_7
+stm32_i2c_dma_free,FUNC_8
+stm32f7_i2c_remove,FUNC_9
+pdev,VAR_0
+i2c_dev,VAR_1

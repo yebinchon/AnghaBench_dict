@@ -1,0 +1,12 @@
+ASYNC_NORMAL_ACTIVE,VAR_0
+GS_ACTIVE,VAR_1
+func_enter,FUNC_0
+func_exit,FUNC_1
+gs_shutdown_port,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+wake_up_interruptible,FUNC_5
+gs_hangup,FUNC_6
+tty,VAR_2
+port,VAR_3
+flags,VAR_4

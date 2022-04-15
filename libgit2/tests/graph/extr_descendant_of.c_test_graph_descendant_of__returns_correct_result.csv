@@ -1,0 +1,10 @@
+_repo,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+commit,VAR_1
+git_commit_free,FUNC_2
+git_commit_id,FUNC_3
+git_commit_nth_gen_ancestor,FUNC_4
+git_graph_descendant_of,FUNC_5
+test_graph_descendant_of__returns_correct_result,FUNC_6
+other,VAR_2

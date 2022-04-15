@@ -1,0 +1,17 @@
+CMD_EVENT_MENU_TOGGLE,VAR_0
+RARCH_CTL_SET_SHUTDOWN,VAR_1
+RETROK_BACKSPACE,VAR_2
+RETRO_DEVICE_KEYBOARD,VAR_3
+bps_event_get_code,FUNC_0
+bps_get_event,FUNC_1
+command_event,FUNC_2
+input_keyboard_event,FUNC_3
+navigator_event_get_syskey_key,FUNC_4
+navigator_event_get_window_state,FUNC_5
+rarch_ctl,FUNC_6
+qnx_handle_navigator_event,FUNC_7
+qnx,VAR_4
+event,VAR_5
+state,VAR_6
+event_pause,VAR_7
+event_code,VAR_8

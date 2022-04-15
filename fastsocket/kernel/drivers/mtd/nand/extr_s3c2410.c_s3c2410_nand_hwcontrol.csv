@@ -1,0 +1,11 @@
+NAND_CLE,VAR_0
+NAND_CMD_NONE,VAR_1
+S3C2410_NFADDR,VAR_2
+S3C2410_NFCMD,VAR_3
+s3c2410_nand_mtd_toinfo,FUNC_0
+writeb,FUNC_1
+s3c2410_nand_hwcontrol,FUNC_2
+mtd,VAR_4
+cmd,VAR_5
+ctrl,VAR_6
+info,VAR_7

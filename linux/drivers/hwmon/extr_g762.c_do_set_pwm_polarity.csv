@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+G762_REG_FAN_CMD1,VAR_1
+G762_REG_FAN_CMD1_PWM_POLARITY,VAR_2
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+g762_update_client,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+do_set_pwm_polarity,FUNC_6
+dev,VAR_3
+val,VAR_4
+data,VAR_5
+ret,VAR_6

@@ -1,0 +1,14 @@
+ISCSI_DBG_TCP,FUNC_0
+ISCSI_ERR_DATASN,VAR_0
+ISCSI_ERR_DATA_OFFSET,VAR_1
+ISCSI_FLAG_DATA_STATUS,VAR_2
+be32_to_cpu,FUNC_1
+iscsi_update_cmdsn,FUNC_2
+iscsi_tcp_data_in,FUNC_3
+conn,VAR_3
+task,VAR_4
+tcp_conn,VAR_5
+tcp_task,VAR_6
+rhdr,VAR_7
+datasn,VAR_8
+total_in_length,VAR_9

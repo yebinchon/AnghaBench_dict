@@ -1,0 +1,17 @@
+NIL,VAR_0
+PGRES_TUPLES_OK,VAR_1
+PQgetvalue,FUNC_0
+PQntuples,FUNC_1
+PQresultStatus,FUNC_2
+appendStringInfoString,FUNC_3
+lappend,FUNC_4
+makeStringInfo,FUNC_5
+ReadFirstColumnAsText,FUNC_6
+queryResult,VAR_2
+resultRowList,VAR_3
+columnIndex,VAR_4
+rowIndex,VAR_5
+rowCount,VAR_6
+status,VAR_7
+rowValue,VAR_8
+rowValueString,VAR_9

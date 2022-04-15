@@ -1,0 +1,11 @@
+S3C2410_UFCON,VAR_0
+S3C2410_UFCON_FIFOMODE,VAR_1
+S3C2410_UFSTAT,VAR_2
+rd_regl,FUNC_0
+s3c24xx_port_to_info,FUNC_1
+s3c24xx_serial_txempty_nofifo,FUNC_2
+s3c24xx_serial_tx_empty,FUNC_3
+port,VAR_3
+info,VAR_4
+ufstat,VAR_5
+ufcon,VAR_6

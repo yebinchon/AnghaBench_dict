@@ -1,0 +1,14 @@
+ERRCODE_LOCK_NOT_AVAILABLE,VAR_0
+ERROR,VAR_1
+NAMEDATALEN,VAR_2
+ereport,FUNC_0
+errcode,FUNC_1
+errmsg,FUNC_2
+lock_mode_to_string_map_count,VAR_3
+lockmode_to_string_map,VAR_4
+pg_strncasecmp,FUNC_3
+LockModeTextToLockMode,FUNC_4
+lockModeName,VAR_5
+lockMode,VAR_6
+lockIndex,VAR_7
+lockMap,VAR_8

@@ -1,0 +1,11 @@
+EVRPC_CONTINUE,VAR_0
+assert,FUNC_0
+evhttp_add_header,FUNC_1
+evrpc_hook_get_connection,FUNC_2
+strcmp,FUNC_3
+rpc_hook_add_header,FUNC_4
+ctx,VAR_1
+req,VAR_2
+evbuf,VAR_3
+arg,VAR_4
+hook_type,VAR_5

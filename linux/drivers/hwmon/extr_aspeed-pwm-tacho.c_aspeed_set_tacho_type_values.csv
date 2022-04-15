@@ -1,0 +1,14 @@
+TYPE_CTRL_FAN1_MASK,VAR_0
+TYPE_CTRL_FAN_DIVISION,VAR_1
+TYPE_CTRL_FAN_MASK,VAR_2
+TYPE_CTRL_FAN_MODE,VAR_3
+TYPE_CTRL_FAN_PERIOD,VAR_4
+regmap_update_bits,FUNC_0
+type_params,VAR_5
+aspeed_set_tacho_type_values,FUNC_1
+regmap,VAR_6
+type,VAR_7
+mode,VAR_8
+unit,VAR_9
+division,VAR_10
+reg_value,VAR_11

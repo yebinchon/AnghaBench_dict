@@ -1,0 +1,17 @@
+WIFI_ADHOC_MASTER_STATE,VAR_0
+WIFI_ADHOC_STATE,VAR_1
+check_fwstate,FUNC_0
+le32_to_cpu,FUNC_1
+r8712_access_ctrl,FUNC_2
+r8712_alloc_stainfo,FUNC_3
+r8712_get_stainfo,FUNC_4
+r8712_indicate_connect,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+r8712_stassoc_event_callback,FUNC_8
+adapter,VAR_2
+pbuf,VAR_3
+irqL,VAR_4
+psta,VAR_5
+pmlmepriv,VAR_6
+pstassoc,VAR_7

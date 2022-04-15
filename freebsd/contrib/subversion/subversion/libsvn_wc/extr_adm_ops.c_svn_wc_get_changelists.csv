@@ -1,0 +1,17 @@
+FALSE,VAR_0
+SVN_ERR,FUNC_0
+get_node_changelist,VAR_1
+svn_error_trace,FUNC_1
+svn_hash_from_cstring_keys,FUNC_2
+svn_wc__internal_walk_children,FUNC_3
+svn_wc_get_changelists,FUNC_4
+wc_ctx,VAR_2
+local_abspath,VAR_3
+depth,VAR_4
+changelist_filter,VAR_5
+callback_func,VAR_6
+callback_baton,VAR_7
+cancel_func,VAR_8
+cancel_baton,VAR_9
+scratch_pool,VAR_10
+gnb,VAR_11

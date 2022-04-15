@@ -1,0 +1,10 @@
+drm_bridge_detach,FUNC_0
+drm_mode_object_unregister,FUNC_1
+kfree,FUNC_2
+list_del,FUNC_3
+memset,FUNC_4
+drm_encoder_cleanup,FUNC_5
+encoder,VAR_0
+dev,VAR_1
+bridge,VAR_2
+next,VAR_3

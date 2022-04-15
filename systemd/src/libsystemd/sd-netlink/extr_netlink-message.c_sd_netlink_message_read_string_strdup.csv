@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+ENOMEM,VAR_1
+NETLINK_TYPE_STRING,VAR_2
+assert_return,FUNC_0
+message_attribute_has_type,FUNC_1
+netlink_message_read_internal,FUNC_2
+strndup,FUNC_3
+sd_netlink_message_read_string_strdup,FUNC_4
+m,VAR_3
+type,VAR_4
+data,VAR_5
+attr_data,VAR_6
+str,VAR_7
+r,VAR_8

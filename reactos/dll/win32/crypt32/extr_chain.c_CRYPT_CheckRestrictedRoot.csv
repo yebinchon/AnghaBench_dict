@@ -1,0 +1,14 @@
+CRYPT_FindCertInStore,FUNC_0
+CertCloseStore,FUNC_1
+CertEnumCertificatesInStore,FUNC_2
+CertFreeCertificateContext,FUNC_3
+CertOpenSystemStoreW,FUNC_4
+FALSE,VAR_0
+TRUE,VAR_1
+rootW,VAR_2
+CRYPT_CheckRestrictedRoot,FUNC_5
+store,VAR_3
+ret,VAR_4
+rootStore,VAR_5
+cert,VAR_6
+check,VAR_7

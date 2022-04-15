@@ -1,0 +1,17 @@
+FWINV,FUNC_0
+IPT_F_FRAG,VAR_0
+IPT_INV_DSTIP,VAR_1
+IPT_INV_FRAG,VAR_2
+IPT_INV_PROTO,VAR_3
+IPT_INV_SRCIP,VAR_4
+IPT_INV_VIA_IN,VAR_5
+IPT_INV_VIA_OUT,VAR_6
+dprintf,FUNC_1
+ifname_compare_aligned,FUNC_2
+ip_packet_match,FUNC_3
+ip,VAR_7
+indev,VAR_8
+outdev,VAR_9
+ipinfo,VAR_10
+isfrag,VAR_11
+ret,VAR_12

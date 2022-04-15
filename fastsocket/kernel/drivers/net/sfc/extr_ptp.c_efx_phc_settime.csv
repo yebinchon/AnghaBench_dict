@@ -1,0 +1,10 @@
+efx_phc_adjtime,FUNC_0
+efx_phc_gettime,FUNC_1
+timespec_sub,FUNC_2
+timespec_to_ns,FUNC_3
+efx_phc_settime,FUNC_4
+ptp,VAR_0
+e_ts,VAR_1
+rc,VAR_2
+time_now,VAR_3
+delta,VAR_4

@@ -1,0 +1,16 @@
+BRCMNAND_INTFC_STATUS,VAR_0
+ETIMEDOUT,VAR_1
+NAND_POLL_STATUS_TIMEOUT_MS,VAR_2
+brcmnand_read_reg,FUNC_0
+cpu_relax,FUNC_1
+dev_warn,FUNC_2
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_3
+time_after,FUNC_4
+bcmnand_ctrl_poll_status,FUNC_5
+ctrl,VAR_4
+mask,VAR_5
+expected_val,VAR_6
+timeout_ms,VAR_7
+limit,VAR_8
+val,VAR_9

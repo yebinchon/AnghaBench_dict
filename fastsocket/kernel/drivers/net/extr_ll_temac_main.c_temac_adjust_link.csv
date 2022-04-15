@@ -1,0 +1,17 @@
+XTE_EMCFG_LINKSPD_10,VAR_0
+XTE_EMCFG_LINKSPD_100,VAR_1
+XTE_EMCFG_LINKSPD_1000,VAR_2
+XTE_EMCFG_LINKSPD_MASK,VAR_3
+XTE_EMCFG_OFFSET,VAR_4
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+netdev_priv,FUNC_2
+phy_print_status,FUNC_3
+temac_indirect_in32,FUNC_4
+temac_indirect_out32,FUNC_5
+temac_adjust_link,FUNC_6
+ndev,VAR_5
+lp,VAR_6
+phy,VAR_7
+mii_speed,VAR_8
+link_state,VAR_9

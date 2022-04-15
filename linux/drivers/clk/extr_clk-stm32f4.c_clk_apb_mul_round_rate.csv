@@ -1,0 +1,16 @@
+BIT,FUNC_0
+CLK_SET_RATE_PARENT,VAR_0
+STM32F4_RCC_CFGR,VAR_1
+base,VAR_2
+clk_hw_get_flags,FUNC_1
+clk_hw_get_parent,FUNC_2
+clk_hw_round_rate,FUNC_3
+readl,FUNC_4
+to_clk_apb_mul,FUNC_5
+clk_apb_mul_round_rate,FUNC_6
+hw,VAR_3
+rate,VAR_4
+prate,VAR_5
+am,VAR_6
+mult,VAR_7
+best_parent,VAR_8

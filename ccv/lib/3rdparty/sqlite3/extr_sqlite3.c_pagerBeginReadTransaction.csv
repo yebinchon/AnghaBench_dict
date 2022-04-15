@@ -1,0 +1,14 @@
+PAGER_OPEN,VAR_0
+PAGER_READER,VAR_1
+SQLITE_OK,VAR_2
+USEFETCH,FUNC_0
+assert,FUNC_1
+pagerUseWal,FUNC_2
+pager_reset,FUNC_3
+sqlite3OsUnfetch,FUNC_4
+sqlite3WalBeginReadTransaction,FUNC_5
+sqlite3WalEndReadTransaction,FUNC_6
+pagerBeginReadTransaction,FUNC_7
+pPager,VAR_3
+rc,VAR_4
+changed,VAR_5

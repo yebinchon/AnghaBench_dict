@@ -1,0 +1,10 @@
+XFS_FORCED_SHUTDOWN,FUNC_0
+XFS_LSN_CMP,FUNC_1
+smp_wmb,FUNC_2
+wake_up_process,FUNC_3
+xfs_ail_min,FUNC_4
+xfs_trans_ail_copy_lsn,FUNC_5
+xfs_ail_push,FUNC_6
+ailp,VAR_0
+threshold_lsn,VAR_1
+lip,VAR_2

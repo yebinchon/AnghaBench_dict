@@ -1,0 +1,15 @@
+CLOCK_MONOTONIC,VAR_0
+USEC_INFINITY,VAR_1
+job_dispatch_timer,VAR_2
+now,FUNC_0
+sd_event_add_time,FUNC_1
+sd_event_source_get_time,FUNC_2
+sd_event_source_set_description,FUNC_3
+sd_event_source_set_time,FUNC_4
+usec_add,FUNC_5
+job_start_timer,FUNC_6
+j,VAR_3
+job_running,VAR_4
+r,VAR_5
+timeout_time,VAR_6
+old_timeout_time,VAR_7

@@ -1,0 +1,14 @@
+EBADF,VAR_0
+EVFILT_TIMER,VAR_1
+EV_ADD,VAR_2
+T_ASSERT_POSIX_SUCCESS,FUNC_0
+T_LOG,FUNC_1
+T_QUIET,VAR_3
+errno,VAR_4
+kevent,FUNC_2
+timeout_ms,VAR_5
+poll_kqueue,FUNC_3
+arg,VAR_6
+fd,VAR_7
+kev,VAR_8
+rv,VAR_9

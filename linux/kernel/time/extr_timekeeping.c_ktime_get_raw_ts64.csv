@@ -1,0 +1,10 @@
+read_seqcount_begin,FUNC_0
+read_seqcount_retry,FUNC_1
+timekeeping_get_ns,FUNC_2
+timespec64_add_ns,FUNC_3
+tk_core,VAR_0
+ktime_get_raw_ts64,FUNC_4
+ts,VAR_1
+tk,VAR_2
+seq,VAR_3
+nsecs,VAR_4

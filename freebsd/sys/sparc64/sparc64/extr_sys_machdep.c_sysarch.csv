@@ -1,0 +1,16 @@
+CAPFAIL_SYSCALL,VAR_0
+ECAPMODE,VAR_1
+EINVAL,VAR_2
+Giant,VAR_3
+IN_CAPABILITY_MODE,FUNC_0
+KTRPOINT,FUNC_1
+KTR_CAPFAIL,VAR_4
+ktrcapfail,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+sparc_sigtramp_install,FUNC_5
+sparc_utrap_install,FUNC_6
+sysarch,FUNC_7
+td,VAR_5
+uap,VAR_6
+error,VAR_7

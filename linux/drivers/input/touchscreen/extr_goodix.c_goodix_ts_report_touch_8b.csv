@@ -1,0 +1,15 @@
+ABS_MT_TOUCH_MAJOR,VAR_0
+ABS_MT_WIDTH_MAJOR,VAR_1
+MT_TOOL_FINGER,VAR_2
+get_unaligned_le16,FUNC_0
+input_mt_report_slot_state,FUNC_1
+input_mt_slot,FUNC_2
+input_report_abs,FUNC_3
+touchscreen_report_pos,FUNC_4
+goodix_ts_report_touch_8b,FUNC_5
+ts,VAR_3
+coor_data,VAR_4
+id,VAR_5
+input_x,VAR_6
+input_y,VAR_7
+input_w,VAR_8

@@ -1,0 +1,12 @@
+THREAD_NULL,VAR_0
+assert,FUNC_0
+thread_deallocate,FUNC_1
+turnstile_cleanup,FUNC_2
+ull_assert_owned,FUNC_3
+ull_put,FUNC_4
+ulock_wait_cleanup,FUNC_5
+ull,VAR_1
+owner_thread,VAR_2
+old_owner,VAR_3
+retval,VAR_4
+old_lingering_owner,VAR_5

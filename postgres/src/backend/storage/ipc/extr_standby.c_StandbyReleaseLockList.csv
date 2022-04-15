@@ -1,0 +1,15 @@
+AccessExclusiveLock,VAR_0
+Assert,FUNC_0
+DEBUG4,VAR_1
+LOG,VAR_2
+LockRelease,FUNC_1
+SET_LOCKTAG_RELATION,FUNC_2
+elog,FUNC_3
+linitial,FUNC_4
+list_delete_first,FUNC_5
+pfree,FUNC_6
+trace_recovery,FUNC_7
+StandbyReleaseLockList,FUNC_8
+locks,VAR_3
+lock,VAR_4
+locktag,VAR_5

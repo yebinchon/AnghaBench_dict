@@ -1,0 +1,11 @@
+ACPI_DECODE_16,VAR_0
+IORESOURCE_DISABLED,VAR_1
+IORESOURCE_IO_16BIT_ADDR,VAR_2
+pnp_add_io_resource,FUNC_0
+pnpacpi_parse_allocated_ioresource,FUNC_1
+dev,VAR_3
+start,VAR_4
+len,VAR_5
+io_decode,VAR_6
+flags,VAR_7
+end,VAR_8

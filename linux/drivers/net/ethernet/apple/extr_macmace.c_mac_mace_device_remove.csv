@@ -1,0 +1,14 @@
+IRQ_MAC_MACE_DMA,VAR_0
+MACE_BUFF_SIZE,VAR_1
+N_RX_RING,VAR_2
+N_TX_RING,VAR_3
+dma_free_coherent,FUNC_0
+free_irq,FUNC_1
+free_netdev,FUNC_2
+netdev_priv,FUNC_3
+platform_get_drvdata,FUNC_4
+unregister_netdev,FUNC_5
+mac_mace_device_remove,FUNC_6
+pdev,VAR_4
+dev,VAR_5
+mp,VAR_6

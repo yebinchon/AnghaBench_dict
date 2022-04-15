@@ -1,0 +1,16 @@
+VTSCSI_GET_CONFIG,FUNC_0
+bzero,FUNC_1
+cdb_size,VAR_0
+cmd_per_lun,VAR_1
+event_info_size,VAR_2
+max_channel,VAR_3
+max_lun,VAR_4
+max_sectors,VAR_5
+max_target,VAR_6
+num_queues,VAR_7
+seg_max,VAR_8
+sense_size,VAR_9
+vtscsi_read_config,FUNC_2
+sc,VAR_10
+scsicfg,VAR_11
+dev,VAR_12

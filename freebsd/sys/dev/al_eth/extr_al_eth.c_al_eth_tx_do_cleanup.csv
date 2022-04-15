@@ -1,0 +1,13 @@
+AL_ETH_TX_RING_IDX_NEXT,FUNC_0
+al_eth_comp_tx_get,FUNC_1
+al_smp_data_memory_barrier,FUNC_2
+bus_dmamap_unload,FUNC_3
+device_printf_dbg,FUNC_4
+m_freem,FUNC_5
+al_eth_tx_do_cleanup,FUNC_6
+tx_ring,VAR_0
+total_done,VAR_1
+next_to_clean,VAR_2
+qid,VAR_3
+tx_info,VAR_4
+mbuf,VAR_5

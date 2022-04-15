@@ -1,0 +1,13 @@
+MAC_PERFORM,FUNC_0
+mac_vnode_label_alloc,FUNC_1
+mac_vnode_label_free,FUNC_2
+vfs_context_ucred,FUNC_3
+vnode_label_update,VAR_0
+vnode_lock,FUNC_4
+vnode_unlock,FUNC_5
+mac_vnode_label_update,FUNC_6
+ctx,VAR_1
+vp,VAR_2
+newlabel,VAR_3
+cred,VAR_4
+tmpl,VAR_5

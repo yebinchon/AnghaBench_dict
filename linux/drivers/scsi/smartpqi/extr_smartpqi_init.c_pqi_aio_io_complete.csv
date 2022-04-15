@@ -1,0 +1,12 @@
+DID_IMM_RETRY,VAR_0
+EAGAIN,VAR_1
+pqi_free_io_request,FUNC_0
+pqi_queue_raid_bypass_retry,FUNC_1
+pqi_raid_bypass_retry_needed,FUNC_2
+pqi_scsi_done,FUNC_3
+scsi_dma_unmap,FUNC_4
+set_host_byte,FUNC_5
+pqi_aio_io_complete,FUNC_6
+io_request,VAR_2
+context,VAR_3
+scmd,VAR_4

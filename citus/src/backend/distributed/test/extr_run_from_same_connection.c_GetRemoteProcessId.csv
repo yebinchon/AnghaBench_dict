@@ -1,0 +1,15 @@
+ClearResults,FUNC_0
+ExecuteOptionalRemoteCommand,FUNC_1
+GET_PROCESS_ID,VAR_0
+PG_RETURN_VOID,FUNC_2
+PQclear,FUNC_3
+PQntuples,FUNC_4
+ParseIntField,FUNC_5
+appendStringInfo,FUNC_6
+makeStringInfo,FUNC_7
+singleConnection,VAR_1
+GetRemoteProcessId,FUNC_8
+queryStringInfo,VAR_2
+result,VAR_3
+rowCount,VAR_4
+resultValue,VAR_5

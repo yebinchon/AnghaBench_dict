@@ -1,0 +1,16 @@
+AMDGPU_IRQ_STATE_ENABLE,VAR_0
+AMDGPU_SDMA_IRQ_INSTANCE0,VAR_1
+REG_SET_FIELD,FUNC_0
+RREG32,FUNC_1
+SDMA0_CNTL,VAR_2
+TRAP_ENABLE,VAR_3
+WREG32,FUNC_2
+mmSDMA0_CNTL,VAR_4
+sdma_v5_0_get_reg_offset,FUNC_3
+sdma_v5_0_set_trap_irq_state,FUNC_4
+adev,VAR_5
+source,VAR_6
+type,VAR_7
+state,VAR_8
+sdma_cntl,VAR_9
+reg_offset,VAR_10

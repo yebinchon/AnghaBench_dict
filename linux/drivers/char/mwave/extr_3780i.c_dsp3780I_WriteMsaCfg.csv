@@ -1,0 +1,14 @@
+DSP_MsaAddrHigh,VAR_0
+DSP_MsaAddrLow,VAR_1
+DSP_MsaDataDSISHigh,VAR_2
+OutWordDsp,FUNC_0
+PRINTK_4,FUNC_1
+TRACE_3780I,VAR_3
+dsp_lock,VAR_4
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+dsp3780I_WriteMsaCfg,FUNC_4
+usDspBaseIO,VAR_5
+ulMsaAddr,VAR_6
+usValue,VAR_7
+flags,VAR_8

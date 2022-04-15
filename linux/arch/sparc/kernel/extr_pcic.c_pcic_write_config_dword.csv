@@ -1,0 +1,12 @@
+CONFIG_CMD,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+pcic0,VAR_0
+writel,FUNC_3
+pcic_write_config_dword,FUNC_4
+busno,VAR_1
+devfn,VAR_2
+where,VAR_3
+value,VAR_4
+pcic,VAR_5
+flags,VAR_6

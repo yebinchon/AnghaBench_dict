@@ -1,0 +1,12 @@
+PPSMC_Result_Failed,VAR_0
+RREG32,FUNC_0
+SMC_MESSAGE_0,VAR_1
+SMC_RESP_0,VAR_2
+WREG32,FUNC_1
+ci_is_smc_running,FUNC_2
+udelay,FUNC_3
+ci_send_msg_to_smc,FUNC_4
+rdev,VAR_3
+msg,VAR_4
+tmp,VAR_5
+i,VAR_6

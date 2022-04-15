@@ -1,0 +1,12 @@
+BMI_EXTRA_NUM_OF_TASKS_SHIFT,VAR_0
+BMI_NUM_OF_EXTRA_TASKS_MASK,VAR_1
+BMI_NUM_OF_TASKS_MASK,VAR_2
+BMI_NUM_OF_TASKS_SHIFT,VAR_3
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+fman_set_num_of_tasks,FUNC_2
+bmi_rg,VAR_4
+port_id,VAR_5
+num_tasks,VAR_6
+num_extra_tasks,VAR_7
+tmp,VAR_8

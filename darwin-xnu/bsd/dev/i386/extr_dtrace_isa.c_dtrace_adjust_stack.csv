@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+CPU,VAR_0
+CPU_DTRACE_ENTRY,VAR_1
+DTRACE_CPUFLAG_ISSET,FUNC_1
+cpu_core,VAR_2
+current_proc,FUNC_2
+dtrace_fuword32,FUNC_3
+dtrace_fuword64,FUNC_4
+proc_is64bit,FUNC_5
+dtrace_adjust_stack,FUNC_6
+pcstack,VAR_3
+pcstack_limit,VAR_4
+pc,VAR_5
+sp,VAR_6
+missing_tos,VAR_7
+rc,VAR_8
+is64Bit,VAR_9

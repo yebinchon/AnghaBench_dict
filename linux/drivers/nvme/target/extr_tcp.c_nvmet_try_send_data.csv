@@ -1,0 +1,16 @@
+MSG_DONTWAIT,VAR_0
+MSG_MORE,VAR_1
+NVMET_TCP_SEND_DDGST,VAR_2
+kernel_sendpage,FUNC_0
+kfree,FUNC_1
+nvmet_setup_response_pdu,FUNC_2
+nvmet_tcp_put_cmd,FUNC_3
+sg_next,FUNC_4
+sg_page,FUNC_5
+sgl_free,FUNC_6
+nvmet_try_send_data,FUNC_7
+cmd,VAR_3
+queue,VAR_4
+ret,VAR_5
+page,VAR_6
+left,VAR_7

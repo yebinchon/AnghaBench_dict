@@ -1,0 +1,15 @@
+CloseServiceHandle,FUNC_0
+GetLastErrorText,FUNC_1
+OpenSCManager,FUNC_2
+OpenService,FUNC_3
+SC_MANAGER_ALL_ACCESS,VAR_0
+SERVICE_ALL_ACCESS,VAR_1
+StartService,FUNC_4
+TEXT,FUNC_5
+_tprintf,FUNC_6
+openvpn_service,VAR_2
+CmdStartService,FUNC_7
+type,VAR_3
+ret,VAR_4
+svc_ctl_mgr,VAR_5
+service,VAR_6

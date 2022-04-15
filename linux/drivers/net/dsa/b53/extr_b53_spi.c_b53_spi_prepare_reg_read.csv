@@ -1,0 +1,11 @@
+B53_SPI_CMD_RACK,VAR_0
+B53_SPI_STATUS,VAR_1
+EIO,VAR_2
+b53_spi_read_reg,FUNC_0
+mdelay,FUNC_1
+b53_spi_prepare_reg_read,FUNC_2
+spi,VAR_3
+reg,VAR_4
+rxbuf,VAR_5
+retry_count,VAR_6
+ret,VAR_7

@@ -1,0 +1,12 @@
+NVR_BITOUT,VAR_0
+NVR_CLOCK,VAR_1
+NVR_SELECT,VAR_2
+TRM_S1040_GEN_NVRAM,VAR_3
+outb,FUNC_0
+trms1040_wait_30us,FUNC_1
+trms1040_write_cmd,FUNC_2
+io_port,VAR_4
+cmd,VAR_5
+addr,VAR_6
+i,VAR_7
+send_data,VAR_8

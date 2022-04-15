@@ -1,0 +1,10 @@
+ACPI_FLUSH_CPU_CACHE,FUNC_0
+MSR_VIA_BCR2,VAR_0
+halt,FUNC_1
+local_irq_disable,FUNC_2
+rdmsrl,FUNC_3
+safe_halt,FUNC_4
+wrmsrl,FUNC_5
+do_longhaul1,FUNC_6
+mults_index,VAR_1
+bcr2,VAR_2

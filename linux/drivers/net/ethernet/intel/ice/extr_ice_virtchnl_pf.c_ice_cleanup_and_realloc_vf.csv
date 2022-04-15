@@ -1,0 +1,17 @@
+ICE_VF_STATE_ACTIVE,VAR_0
+ICE_VF_STATE_DIS,VAR_1
+VFGEN_RSTAT,FUNC_0
+VIRTCHNL_VFR_VFACTIVE,VAR_2
+VPGEN_VFRTRIG,FUNC_1
+VPGEN_VFRTRIG_VFSWR_M,VAR_3
+clear_bit,FUNC_2
+ice_alloc_vf_res,FUNC_3
+ice_ena_vf_mappings,FUNC_4
+rd32,FUNC_5
+set_bit,FUNC_6
+wr32,FUNC_7
+ice_cleanup_and_realloc_vf,FUNC_8
+vf,VAR_4
+pf,VAR_5
+hw,VAR_6
+reg,VAR_7

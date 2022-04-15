@@ -1,0 +1,17 @@
+NC_AllowAgg,VAR_0
+NC_UEList,VAR_1
+assert,FUNC_0
+memset,FUNC_1
+sqlite3ExprCompare,FUNC_2
+sqlite3ExprIsInteger,FUNC_3
+sqlite3ResolveExprNames,FUNC_4
+resolveOrderByTermToExprList,FUNC_5
+pParse,VAR_2
+pSelect,VAR_3
+pE,VAR_4
+i,VAR_5
+pEList,VAR_6
+nc,VAR_7
+db,VAR_8
+rc,VAR_9
+savedSuppErr,VAR_10

@@ -1,0 +1,14 @@
+SSIF_IDLE,FUNC_0
+from_timer,FUNC_1
+ipmi_ssif_lock_cond,FUNC_2
+ipmi_ssif_unlock_cond,FUNC_3
+jiffies,VAR_0
+mod_timer,FUNC_4
+ssif_info,VAR_1
+start_flag_fetch,FUNC_5
+watch_timer,VAR_2
+watch_timeout,FUNC_6
+t,VAR_3
+ssif_info,VAR_4
+oflags,VAR_5
+flags,VAR_6

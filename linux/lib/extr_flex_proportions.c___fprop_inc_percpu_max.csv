@@ -1,0 +1,14 @@
+FPROP_FRAC_BASE,VAR_0
+FPROP_FRAC_SHIFT,VAR_1
+PROP_BATCH,VAR_2
+fprop_fraction_percpu,FUNC_0
+fprop_reflect_period_percpu,FUNC_1
+percpu_counter_add,FUNC_2
+percpu_counter_add_batch,FUNC_3
+unlikely,FUNC_4
+__fprop_inc_percpu_max,FUNC_5
+p,VAR_3
+pl,VAR_4
+max_frac,VAR_5
+numerator,VAR_6
+denominator,VAR_7

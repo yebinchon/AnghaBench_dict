@@ -1,0 +1,15 @@
+PCI_ERS_RESULT_CAN_RECOVER,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_NEED_RESET,VAR_2
+_scsih_flush_running_cmds,FUNC_0
+ioc_info,FUNC_1
+mpt3sas_base_free_resources,FUNC_2
+mpt3sas_base_stop_watchdog,FUNC_3
+pci_get_drvdata,FUNC_4
+scsi_block_requests,FUNC_5
+shost_priv,FUNC_6
+scsih_pci_error_detected,FUNC_7
+pdev,VAR_3
+state,VAR_4
+shost,VAR_5
+ioc,VAR_6

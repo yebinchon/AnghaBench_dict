@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+BIO_MAX_PAGES,VAR_0
+PAGE_SIZE,VAR_1
+WARN_ON,FUNC_1
+bio_add_page,FUNC_2
+bio_put,FUNC_3
+bio_set_dev,FUNC_4
+btrfs_io_bio_alloc,FUNC_5
+scrub_recheck_block_checksum,FUNC_6
+scrub_submit_raid56_bio_wait,FUNC_7
+scrub_recheck_block_on_raid56,FUNC_8
+fs_info,VAR_2
+sblock,VAR_3
+first_page,VAR_4
+bio,VAR_5
+page_num,VAR_6
+page,VAR_7

@@ -1,0 +1,14 @@
+ENGINE_READ,FUNC_0
+INTEL_GEN,FUNC_1
+MODE_IDLE,VAR_0
+RING_MI_MODE,VAR_1
+WARN_ON,FUNC_2
+intel_engine_cleanup_common,FUNC_3
+intel_ring_put,FUNC_4
+intel_ring_unpin,FUNC_5
+intel_timeline_put,FUNC_6
+intel_timeline_unpin,FUNC_7
+kfree,FUNC_8
+ring_destroy,FUNC_9
+engine,VAR_2
+dev_priv,VAR_3

@@ -1,0 +1,12 @@
+ARGON2_BLOCK_SIZE,VAR_0
+ARGON2_PREHASH_DIGEST_LENGTH,VAR_1
+ARGON2_PREHASH_SEED_LENGTH,VAR_2
+STORE32_LE,FUNC_0
+blake2b_long,FUNC_1
+load_block,FUNC_2
+sodium_memzero,FUNC_3
+fill_first_blocks,FUNC_4
+blockhash,VAR_3
+instance,VAR_4
+l,VAR_5
+blockhash_bytes,VAR_6

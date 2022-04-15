@@ -1,0 +1,12 @@
+DFU_STATUS_DNLOAD_IDLE,VAR_0
+DFU_STATUS_ERROR,VAR_1
+DFU_XFER_SIZE,VAR_2
+dfu_state,VAR_3
+do_mass_erase,FUNC_0
+do_page_erase,FUNC_1
+do_write,FUNC_2
+get_le32,FUNC_3
+dfu_process_dnload,FUNC_4
+ret,VAR_4
+next_addr,VAR_5
+addr,VAR_6

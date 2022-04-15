@@ -1,0 +1,11 @@
+eth_type_trans,FUNC_0
+netdev_priv,FUNC_1
+netif_receive_skb,FUNC_2
+netif_rx,FUNC_3
+vlan_hwaccel_receive_skb,FUNC_4
+vlan_hwaccel_rx,FUNC_5
+queue_rx_frame,FUNC_6
+skb,VAR_0
+vlan_tag,VAR_1
+dev,VAR_2
+sp,VAR_3

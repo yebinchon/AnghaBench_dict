@@ -1,0 +1,13 @@
+GIT_CHECKOUT_RECREATE_MISSING,VAR_0
+GIT_CHECKOUT_SAFE,VAR_1
+assert_name_is,FUNC_0
+checkout_opts,VAR_2
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+cl_must_pass,FUNC_3
+git_checkout_tree,FUNC_4
+git_path_isdir,FUNC_5
+obj,VAR_3
+p_mkdir,FUNC_6
+repo,VAR_4
+test_checkout_icase__overwrites_empty_folders_for_files,FUNC_7

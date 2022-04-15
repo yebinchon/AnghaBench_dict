@@ -1,0 +1,14 @@
+CCW_CMD_READ_FEAT,VAR_0
+VIRTIO_CCW_DOING_READ_FEAT,VAR_1
+ccw_device_dma_free,FUNC_0
+ccw_device_dma_zalloc,FUNC_1
+ccw_io_helper,FUNC_2
+le32_to_cpu,FUNC_3
+to_vc_device,FUNC_4
+virtio_ccw_get_features,FUNC_5
+vdev,VAR_2
+vcdev,VAR_3
+features,VAR_4
+ret,VAR_5
+rc,VAR_6
+ccw,VAR_7

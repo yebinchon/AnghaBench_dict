@@ -1,0 +1,13 @@
+DIB9000_PID_FILTER_CTRL,VAR_0
+EINTR,VAR_1
+dib9000_read_word,FUNC_0
+dib9000_write_word,FUNC_1
+dprintk,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+dib9000_fw_pid_filter_ctrl,FUNC_5
+fe,VAR_2
+onoff,VAR_3
+state,VAR_4
+val,VAR_5
+ret,VAR_6

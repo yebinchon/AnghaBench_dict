@@ -1,0 +1,16 @@
+I2C_FUNC_I2C,VAR_0
+SAA7110_NR_REG,VAR_1
+i2c_check_functionality,FUNC_0
+i2c_master_send,FUNC_1
+memcpy,FUNC_2
+saa7110_write,FUNC_3
+to_saa7110,FUNC_4
+v4l2_get_subdevdata,FUNC_5
+saa7110_write_block,FUNC_6
+sd,VAR_2
+data,VAR_3
+len,VAR_4
+client,VAR_5
+decoder,VAR_6
+ret,VAR_7
+reg,VAR_8

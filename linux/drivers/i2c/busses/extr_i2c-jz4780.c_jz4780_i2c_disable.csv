@@ -1,0 +1,12 @@
+ETIMEDOUT,VAR_0
+JZ4780_I2C_ENB,VAR_1
+JZ4780_I2C_ENB_I2C,VAR_2
+JZ4780_I2C_ENSTA,VAR_3
+dev_err,FUNC_0
+jz4780_i2c_readw,FUNC_1
+jz4780_i2c_writew,FUNC_2
+usleep_range,FUNC_3
+jz4780_i2c_disable,FUNC_4
+i2c,VAR_4
+regval,VAR_5
+loops,VAR_6

@@ -1,0 +1,16 @@
+B43legacy_SHM_SHARED,VAR_0
+FCS_LEN,VAR_1
+IEEE80211_BAND_2GHZ,VAR_2
+b43legacy_generate_plcp_hdr,FUNC_0
+b43legacy_shm_write16,FUNC_1
+ieee80211_generic_frame_duration,FUNC_2
+le16_to_cpu,FUNC_3
+le32_to_cpu,FUNC_4
+b43legacy_write_probe_resp_plcp,FUNC_5
+dev,VAR_3
+shm_offset,VAR_4
+size,VAR_5
+rate,VAR_6
+plcp,VAR_7
+tmp,VAR_8
+dur,VAR_9

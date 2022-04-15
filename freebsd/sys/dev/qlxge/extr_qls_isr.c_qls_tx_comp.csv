@@ -1,0 +1,13 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+IFCOUNTER_OPACKETS,VAR_1
+NUM_TX_DESCRIPTORS,VAR_2
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+if_inc_counter,FUNC_2
+m_freem,FUNC_3
+qls_tx_comp,FUNC_4
+ha,VAR_3
+txr_idx,VAR_4
+tx_comp,VAR_5
+txb,VAR_6
+tx_idx,VAR_7

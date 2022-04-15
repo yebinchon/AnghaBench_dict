@@ -1,0 +1,10 @@
+PWM_CTRL,VAR_0
+SET,VAR_1
+clk_prepare_enable,FUNC_0
+to_mxs_pwm_chip,FUNC_1
+writel,FUNC_2
+mxs_pwm_enable,FUNC_3
+chip,VAR_2
+pwm,VAR_3
+mxs,VAR_4
+ret,VAR_5

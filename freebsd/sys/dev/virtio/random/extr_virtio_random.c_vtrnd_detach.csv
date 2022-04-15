@@ -1,0 +1,15 @@
+C_HARDCLOCK,VAR_0
+KASSERT,FUNC_0
+atomic_load_explicit,FUNC_1
+atomic_store_explicit,FUNC_2
+device_get_softc,FUNC_3
+g_vtrnd_softc,VAR_1
+memory_order_acquire,VAR_2
+memory_order_release,VAR_3
+mstosbt,FUNC_4
+random_source_deregister,FUNC_5
+random_vtrnd,VAR_4
+tsleep_sbt,FUNC_6
+vtrnd_detach,FUNC_7
+dev,VAR_5
+sc,VAR_6

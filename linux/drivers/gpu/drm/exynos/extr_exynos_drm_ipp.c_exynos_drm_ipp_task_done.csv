@@ -1,0 +1,15 @@
+DRM_DEV_DEBUG_DRIVER,FUNC_0
+DRM_EXYNOS_IPP_TASK_ASYNC,VAR_0
+DRM_EXYNOS_IPP_TASK_DONE,VAR_1
+INIT_WORK,FUNC_1
+exynos_drm_ipp_cleanup_work,VAR_2
+exynos_drm_ipp_next_task,FUNC_2
+schedule_work,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+wake_up,FUNC_6
+exynos_drm_ipp_task_done,FUNC_7
+task,VAR_3
+ret,VAR_4
+ipp,VAR_5
+flags,VAR_6

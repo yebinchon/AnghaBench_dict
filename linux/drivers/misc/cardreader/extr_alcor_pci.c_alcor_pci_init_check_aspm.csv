@@ -1,0 +1,10 @@
+ALCOR_PCIE_LINK_CAP_OFFSET,VAR_0
+alcor_pci_find_cap_offset,FUNC_0
+dev_dbg,FUNC_1
+pci_read_config_dword,FUNC_2
+alcor_pci_init_check_aspm,FUNC_3
+priv,VAR_1
+pci,VAR_2
+where,VAR_3
+val32,VAR_4
+aspm_cap,VAR_5

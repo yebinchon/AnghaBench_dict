@@ -1,0 +1,17 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_CLASS_MODEM,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+snd_dma_pci_data,FUNC_0
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+sprintf,FUNC_4
+strcpy,FUNC_5
+snd_intel8x0m_pcm1,FUNC_6
+chip,VAR_4
+device,VAR_5
+rec,VAR_6
+pcm,VAR_7
+err,VAR_8
+name,VAR_9

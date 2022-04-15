@@ -1,0 +1,12 @@
+A_T3DBG_GPIO_EN,VAR_0
+F_GPIO6_OUT_VAL,VAR_1
+MDIO_DEV_PMA_PMD,VAR_2
+MII_BMCR,VAR_3
+msleep,FUNC_0
+t3_mdio_change_bits,FUNC_1
+t3_phy_reset,FUNC_2
+t3_set_reg_field,FUNC_3
+ael1006_reset,FUNC_4
+phy,VAR_4
+wait,VAR_5
+err,VAR_6

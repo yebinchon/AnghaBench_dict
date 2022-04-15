@@ -1,0 +1,11 @@
+JETSAM_REASON_MEMORY_VMCOMPRESSOR_SPACE_SHORTAGE,VAR_0
+OS_REASON_JETSAM,VAR_1
+OS_REASON_NULL,VAR_2
+kMemorystatusKilledVMCompressorSpaceShortage,VAR_3
+memorystatus_kill_process_async,FUNC_0
+memorystatus_kill_process_sync,FUNC_1
+os_reason_create,FUNC_2
+printf,FUNC_3
+memorystatus_kill_on_VM_compressor_space_shortage,FUNC_4
+async,VAR_4
+jetsam_reason,VAR_5

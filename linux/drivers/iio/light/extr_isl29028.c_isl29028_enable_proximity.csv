@@ -1,0 +1,12 @@
+ISL29028_CONF_PROX_EN,VAR_0
+ISL29028_CONF_PROX_EN_MASK,VAR_1
+ISL29028_REG_CONFIGURE,VAR_2
+isl29028_find_prox_sleep_index,FUNC_0
+isl29028_prox_data,VAR_3
+isl29028_set_proxim_sampling,FUNC_1
+msleep,FUNC_2
+regmap_update_bits,FUNC_3
+isl29028_enable_proximity,FUNC_4
+chip,VAR_4
+prox_index,VAR_5
+ret,VAR_6

@@ -1,0 +1,13 @@
+AFU_INDEX_MASK,VAR_0
+AFU_INDEX_SHIFT,VAR_1
+AFU_PRESENT,VAR_2
+ESRCH,VAR_3
+OCXL_DVSEC_FUNC_ID,VAR_4
+OCXL_DVSEC_FUNC_OFF_INDEX,VAR_5
+find_dvsec_from_pos,FUNC_0
+pci_read_config_dword,FUNC_1
+get_max_afu_index,FUNC_2
+dev,VAR_6
+afu_idx,VAR_7
+pos,VAR_8
+val,VAR_9

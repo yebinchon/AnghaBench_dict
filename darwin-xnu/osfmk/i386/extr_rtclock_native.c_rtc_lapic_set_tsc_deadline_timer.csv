@@ -1,0 +1,16 @@
+DBG_FUNC_NONE,VAR_0
+DECR_SET_TSC_DEADLINE,VAR_1
+KERNEL_DEBUG_CONSTANT,FUNC_0
+deadline_to_decrementer,FUNC_1
+lapic_get_tsc_deadline_timer,FUNC_2
+lapic_set_tsc_deadline_timer,FUNC_3
+rdtsc64,FUNC_4
+tmrCvt,FUNC_5
+tscFCvtn2t,VAR_2
+rtc_lapic_set_tsc_deadline_timer,FUNC_6
+deadline,VAR_3
+now,VAR_4
+delta,VAR_5
+delta_tsc,VAR_6
+tsc,VAR_7
+set,VAR_8

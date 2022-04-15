@@ -1,0 +1,14 @@
+F2FS_I,FUNC_0
+IS_NOQUOTA,FUNC_1
+WRITE,VAR_0
+down_write,FUNC_2
+f2fs_truncate_blocks,FUNC_3
+f2fs_verity_in_progress,FUNC_4
+i_size_read,FUNC_5
+truncate_pagecache,FUNC_6
+up_write,FUNC_7
+f2fs_write_failed,FUNC_8
+mapping,VAR_1
+to,VAR_2
+inode,VAR_3
+i_size,VAR_4

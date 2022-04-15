@@ -1,0 +1,11 @@
+CONTROL,VAR_0
+INPUT,VAR_1
+PWM_CONFIG_REG,FUNC_0
+adt7475_read,FUNC_1
+i2c_get_clientdata,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+adt7475_read_pwm,FUNC_4
+client,VAR_2
+index,VAR_3
+data,VAR_4
+v,VAR_5

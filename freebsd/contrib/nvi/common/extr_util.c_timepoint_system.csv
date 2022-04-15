@@ -1,0 +1,12 @@
+CALENDAR_CLOCK,VAR_0
+CLOCK_REALTIME,VAR_1
+CLOCK_REALTIME_FAST,VAR_2
+KERN_SUCCESS,VAR_3
+clock_get_time,FUNC_0
+clock_gettime,FUNC_1
+host_get_clock_service,FUNC_2
+mach_host_self,FUNC_3
+mach_port_deallocate,FUNC_4
+mach_task_self,FUNC_5
+timepoint_system,FUNC_6
+ts,VAR_4

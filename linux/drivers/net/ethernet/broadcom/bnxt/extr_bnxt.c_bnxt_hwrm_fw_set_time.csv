@@ -1,0 +1,14 @@
+BNXT_VF,FUNC_0
+EOPNOTSUPP,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+HWRM_FW_SET_TIME,VAR_2
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+cpu_to_le16,FUNC_2
+hwrm_send_message,FUNC_3
+ktime_get_real_seconds,FUNC_4
+time64_to_tm,FUNC_5
+bnxt_hwrm_fw_set_time,FUNC_6
+bp,VAR_3
+req,VAR_4
+tm,VAR_5
+now,VAR_6

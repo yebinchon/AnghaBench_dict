@@ -1,0 +1,16 @@
+LOG_ERR,VAR_0
+PAM_AUTH_ERR,VAR_1
+PAM_SUCCESS,VAR_2
+PAM_USER_UNKNOWN,VAR_3
+assert,FUNC_0
+isempty,FUNC_1
+pam_get_user,FUNC_2
+pam_modutil_getpwnam,FUNC_3
+pam_syslog,FUNC_4
+get_user_data,FUNC_5
+handle,VAR_4
+ret_username,VAR_5
+ret_pw,VAR_6
+username,VAR_7
+pw,VAR_8
+r,VAR_9

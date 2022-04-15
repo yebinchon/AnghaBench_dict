@@ -1,0 +1,12 @@
+PCAP_ERRBUF_SIZE,VAR_0
+SIOCGIFINDEX,VAR_1
+errno,VAR_2
+ioctl,FUNC_0
+memset,FUNC_1
+pcap_fmt_errmsg_for_errno,FUNC_2
+strlcpy,FUNC_3
+iface_get_id,FUNC_4
+fd,VAR_3
+device,VAR_4
+ebuf,VAR_5
+ifr,VAR_6

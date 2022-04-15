@@ -1,0 +1,15 @@
+CAN_CTRLMODE_BERR_REPORTING,VAR_0
+CAN_CTRLMODE_LISTENONLY,VAR_1
+CAN_CTRLMODE_LOOPBACK,VAR_2
+C_CAN_MSG_OBJ_TX_NUM,VAR_3
+C_CAN_NAPI_WEIGHT,VAR_4
+alloc_candev,FUNC_0
+c_can_bittiming_const,VAR_5
+c_can_get_berr_counter,VAR_6
+c_can_poll,VAR_7
+c_can_set_mode,VAR_8
+netdev_priv,FUNC_1
+netif_napi_add,FUNC_2
+alloc_c_can_dev,FUNC_3
+dev,VAR_9
+priv,VAR_10

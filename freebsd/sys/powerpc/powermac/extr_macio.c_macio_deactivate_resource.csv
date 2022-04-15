@@ -1,0 +1,13 @@
+SYS_RES_IOPORT,VAR_0
+SYS_RES_MEMORY,VAR_1
+pmap_unmapdev,FUNC_0
+rman_deactivate_resource,FUNC_1
+rman_get_size,FUNC_2
+rman_get_virtual,FUNC_3
+macio_deactivate_resource,FUNC_4
+bus,VAR_2
+child,VAR_3
+type,VAR_4
+rid,VAR_5
+res,VAR_6
+psize,VAR_7

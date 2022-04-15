@@ -1,0 +1,12 @@
+IAVF_TX_ITR,VAR_0
+IAVF_VFINT_ITRN1,FUNC_0
+ITR_TO_REG,FUNC_1
+jiffies,VAR_1
+wr32,FUNC_2
+iavf_map_vector_to_txq,FUNC_3
+adapter,VAR_2
+v_idx,VAR_3
+t_idx,VAR_4
+q_vector,VAR_5
+tx_ring,VAR_6
+hw,VAR_7

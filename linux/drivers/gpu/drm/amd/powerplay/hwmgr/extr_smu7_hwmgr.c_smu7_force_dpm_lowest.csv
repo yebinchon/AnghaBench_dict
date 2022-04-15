@@ -1,0 +1,9 @@
+PPSMC_MSG_MCLKDPM_SetEnabledMask,VAR_0
+PPSMC_MSG_PCIeDPM_ForceLevel,VAR_1
+PPSMC_MSG_SCLKDPM_SetEnabledMask,VAR_2
+phm_get_lowest_enabled_level,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+smu7_force_dpm_lowest,FUNC_2
+hwmgr,VAR_3
+data,VAR_4
+level,VAR_5

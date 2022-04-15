@@ -1,0 +1,15 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+add_wait_queue,FUNC_1
+current,VAR_1
+kthread_should_stop,FUNC_2
+msecs_to_jiffies,FUNC_3
+remove_wait_queue,FUNC_4
+schedule,FUNC_5
+schedule_timeout_interruptible,FUNC_6
+set_current_state,FUNC_7
+try_to_freeze,FUNC_8
+wait,VAR_2
+msp_sleep,FUNC_9
+state,VAR_3
+timeout,VAR_4

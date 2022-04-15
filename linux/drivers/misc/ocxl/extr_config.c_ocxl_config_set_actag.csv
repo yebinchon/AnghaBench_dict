@@ -1,0 +1,9 @@
+OCXL_DVSEC_ACTAG_MASK,VAR_0
+OCXL_DVSEC_FUNC_OFF_ACTAG,VAR_1
+pci_write_config_dword,FUNC_0
+ocxl_config_set_actag,FUNC_1
+dev,VAR_2
+func_dvsec,VAR_3
+tag_first,VAR_4
+tag_count,VAR_5
+val,VAR_6

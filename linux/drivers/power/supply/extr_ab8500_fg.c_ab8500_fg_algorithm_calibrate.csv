@@ -1,0 +1,13 @@
+AB8500_GASG_CC_CTRL_REG,VAR_0
+AB8500_GAS_GAUGE,VAR_1
+CC_INTAVGOFFSET_ENA,VAR_2
+CC_INT_CAL_N_AVG_MASK,VAR_3
+CC_INT_CAL_SAMPLES_8,VAR_4
+CC_MUXOFFSET,VAR_5
+abx500_mask_and_set_register_interruptible,FUNC_0
+dev_dbg,FUNC_1
+dev_err,FUNC_2
+queue_delayed_work,FUNC_3
+ab8500_fg_algorithm_calibrate,FUNC_4
+di,VAR_6
+ret,VAR_7

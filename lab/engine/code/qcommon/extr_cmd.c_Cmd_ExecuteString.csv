@@ -1,0 +1,17 @@
+CL_ForwardCommandToServer,FUNC_0
+CL_GameCommand,FUNC_1
+Cmd_Argc,FUNC_2
+Cmd_TokenizeString,FUNC_3
+Cvar_Command,FUNC_4
+Q_stricmp,FUNC_5
+SV_GameCommand,FUNC_6
+UI_GameCommand,FUNC_7
+cmd_argv,VAR_0
+cmd_functions,VAR_1
+com_cl_running,VAR_2
+com_sv_running,VAR_3
+stub1,FUNC_8
+Cmd_ExecuteString,FUNC_9
+text,VAR_4
+cmd,VAR_5
+prev,VAR_6

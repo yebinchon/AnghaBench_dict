@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+chained_irq_enter,FUNC_1
+chained_irq_exit,FUNC_2
+generic_handle_irq,FUNC_3
+irq_data_get_irq_chip,FUNC_4
+irq_desc_get_handler_data,FUNC_5
+irq_desc_get_irq_data,FUNC_6
+irq_linear_revmap,FUNC_7
+s3c2412_demux_eint0_3,FUNC_8
+desc,VAR_0
+eint_data,VAR_1
+data,VAR_2
+chip,VAR_3
+virq,VAR_4

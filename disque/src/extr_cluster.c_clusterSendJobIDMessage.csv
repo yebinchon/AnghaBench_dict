@@ -1,0 +1,13 @@
+JOB_ID_LEN,VAR_0
+clusterBuildMessageHdr,FUNC_0
+clusterSendMessage,FUNC_1
+htonl,FUNC_2
+memcpy,FUNC_3
+ntohl,FUNC_4
+clusterSendJobIDMessage,FUNC_5
+type,VAR_1
+node,VAR_2
+id,VAR_3
+aux,VAR_4
+buf,VAR_5
+hdr,VAR_6

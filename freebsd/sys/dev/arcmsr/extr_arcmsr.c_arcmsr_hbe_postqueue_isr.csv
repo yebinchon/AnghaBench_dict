@@ -1,0 +1,17 @@
+ARCMSR_SRBREPLY_FLAG_ERROR_MODE1,VAR_0
+BUS_DMASYNC_POSTREAD,VAR_1
+BUS_DMASYNC_POSTWRITE,VAR_2
+CHIP_REG_READ32,FUNC_0
+CHIP_REG_WRITE32,FUNC_1
+FALSE,VAR_3
+HBE_MessageUnit,VAR_4
+TRUE,VAR_5
+arcmsr_drain_donequeue,FUNC_2
+bus_dmamap_sync,FUNC_3
+reply_post_consumer_index,VAR_6
+reply_post_producer_index,VAR_7
+arcmsr_hbe_postqueue_isr,FUNC_4
+acb,VAR_8
+error,VAR_9
+doneq_index,VAR_10
+cmdSMID,VAR_11

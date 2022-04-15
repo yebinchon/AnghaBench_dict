@@ -1,0 +1,16 @@
+ALUA_OPTIMIZE_STPG,VAR_0
+SCSI_DH_IO,VAR_1
+SCSI_DH_OK,VAR_2
+SCSI_DH_RETRY,VAR_3
+TPGS_MODE_EXPLICIT,VAR_4
+TPGS_MODE_IMPLICIT,VAR_5
+alua_rtpg,FUNC_0
+get_alua_data,FUNC_1
+submit_stpg,FUNC_2
+alua_activate,FUNC_3
+sdev,VAR_6
+fn,VAR_7
+data,VAR_8
+h,VAR_9
+err,VAR_10
+stpg,VAR_11

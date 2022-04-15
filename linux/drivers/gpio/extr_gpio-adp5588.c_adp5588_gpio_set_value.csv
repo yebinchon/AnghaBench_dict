@@ -1,0 +1,14 @@
+ADP5588_BANK,FUNC_0
+ADP5588_BIT,FUNC_1
+GPIO_DAT_OUT1,VAR_0
+adp5588_gpio_write,FUNC_2
+gpiochip_get_data,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+adp5588_gpio_set_value,FUNC_6
+chip,VAR_1
+off,VAR_2
+val,VAR_3
+bank,VAR_4
+bit,VAR_5
+dev,VAR_6

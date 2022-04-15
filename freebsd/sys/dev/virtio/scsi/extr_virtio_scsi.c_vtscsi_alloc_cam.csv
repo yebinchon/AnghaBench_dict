@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+VTSCSI_MTX,FUNC_0
+VTSCSI_RESERVED_REQUESTS,VAR_1
+cam_sim_alloc,FUNC_1
+cam_simq_alloc,FUNC_2
+cam_simq_free,FUNC_3
+device_get_unit,FUNC_4
+device_printf,FUNC_5
+vtscsi_cam_action,VAR_2
+vtscsi_cam_poll,VAR_3
+vtscsi_alloc_cam,FUNC_6
+sc,VAR_4
+dev,VAR_5
+devq,VAR_6
+openings,VAR_7

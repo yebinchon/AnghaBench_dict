@@ -1,0 +1,11 @@
+IRQ0STATUS_CCDC_VD0_IRQ,VAR_0
+IRQ0STATUS_CCDC_VD1_IRQ,VAR_1
+IRQ0STATUS_HS_VS_IRQ,VAR_2
+ISP_PIPELINE_STREAM_STOPPED,VAR_3
+ccdc_hs_vs_isr,FUNC_0
+ccdc_lsc_isr,FUNC_1
+ccdc_vd0_isr,FUNC_2
+ccdc_vd1_isr,FUNC_3
+omap3isp_ccdc_isr,FUNC_4
+ccdc,VAR_4
+events,VAR_5

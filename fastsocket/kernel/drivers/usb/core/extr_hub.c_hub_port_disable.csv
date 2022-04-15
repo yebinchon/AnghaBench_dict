@@ -1,0 +1,13 @@
+USB_PORT_FEAT_ENABLE,VAR_0
+USB_STATE_NOTATTACHED,VAR_1
+clear_port_feature,FUNC_0
+dev_err,FUNC_1
+hub_is_superspeed,FUNC_2
+hub_usb3_port_disable,FUNC_3
+usb_set_device_state,FUNC_4
+hub_port_disable,FUNC_5
+hub,VAR_2
+port1,VAR_3
+set_state,VAR_4
+hdev,VAR_5
+ret,VAR_6

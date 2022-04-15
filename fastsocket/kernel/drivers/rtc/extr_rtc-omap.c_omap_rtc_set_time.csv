@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+OMAP_RTC_DAYS_REG,VAR_1
+OMAP_RTC_HOURS_REG,VAR_2
+OMAP_RTC_MINUTES_REG,VAR_3
+OMAP_RTC_MONTHS_REG,VAR_4
+OMAP_RTC_SECONDS_REG,VAR_5
+OMAP_RTC_YEARS_REG,VAR_6
+local_irq_disable,FUNC_0
+local_irq_enable,FUNC_1
+rtc_wait_not_busy,FUNC_2
+rtc_write,FUNC_3
+tm2bcd,FUNC_4
+omap_rtc_set_time,FUNC_5
+dev,VAR_7
+tm,VAR_8

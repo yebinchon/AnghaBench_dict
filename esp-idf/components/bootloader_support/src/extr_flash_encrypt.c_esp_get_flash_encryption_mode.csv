@@ -1,0 +1,15 @@
+ESP_EFUSE_DISABLE_DL_CACHE,VAR_0
+ESP_EFUSE_DISABLE_DL_DECRYPT,VAR_1
+ESP_EFUSE_DISABLE_DL_ENCRYPT,VAR_2
+ESP_EFUSE_WR_DIS_FLASH_CRYPT_CNT,VAR_3
+ESP_FLASH_ENC_MODE_DEVELOPMENT,VAR_4
+ESP_FLASH_ENC_MODE_DISABLED,VAR_5
+ESP_FLASH_ENC_MODE_RELEASE,VAR_6
+esp_efuse_read_field_blob,FUNC_0
+esp_flash_encryption_enabled,FUNC_1
+esp_get_flash_encryption_mode,FUNC_2
+efuse_flash_crypt_cnt_wr_protected,VAR_7
+dis_dl_enc,VAR_8
+dis_dl_dec,VAR_9
+dis_dl_cache,VAR_10
+mode,VAR_11

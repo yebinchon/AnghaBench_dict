@@ -1,0 +1,11 @@
+CGROUP_MASK_EXTEND_JOINED,FUNC_0
+assert_se,FUNC_1
+cg_all_unified,FUNC_2
+exec_context_maintains_privileges,FUNC_3
+unit_cgroup_delegate,FUNC_4
+unit_get_cgroup_context,FUNC_5
+unit_get_exec_context,FUNC_6
+unit_get_delegate_mask,FUNC_7
+u,VAR_0
+c,VAR_1
+e,VAR_2

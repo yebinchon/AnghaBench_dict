@@ -1,0 +1,17 @@
+AdjustTournamentScores,FUNC_0
+FindIntermissionPoint,FUNC_1
+GT_SINGLE_PLAYER,VAR_0
+GT_TOURNAMENT,VAR_1
+MoveClientToIntermission,FUNC_2
+SendScoreboardMessageToAllClients,FUNC_3
+SpawnModelsOnVictoryPads,FUNC_4
+UpdateTournamentInfo,FUNC_5
+g_entities,VAR_2
+g_gametype,VAR_3
+g_singlePlayer,VAR_4
+level,VAR_5
+respawn,FUNC_6
+trap_Cvar_Set,FUNC_7
+BeginIntermission,FUNC_8
+i,VAR_6
+client,VAR_7

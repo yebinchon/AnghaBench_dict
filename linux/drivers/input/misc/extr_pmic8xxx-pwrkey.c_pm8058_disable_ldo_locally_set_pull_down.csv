@@ -1,0 +1,11 @@
+PM8058_REGULATOR_DISABLE,VAR_0
+PM8058_REGULATOR_ENABLE_MASK,VAR_1
+PM8058_REGULATOR_PULL_DOWN_EN,VAR_2
+PM8058_REGULATOR_PULL_DOWN_MASK,VAR_3
+regmap_update_bits,FUNC_0
+pm8058_disable_ldo_locally_set_pull_down,FUNC_1
+regmap,VAR_4
+ctrl_addr,VAR_5
+master_enable_addr,VAR_6
+master_enable_bit,VAR_7
+error,VAR_8

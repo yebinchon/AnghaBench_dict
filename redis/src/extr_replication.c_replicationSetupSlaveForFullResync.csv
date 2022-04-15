@@ -1,0 +1,13 @@
+CLIENT_PRE_PSYNC,VAR_0
+C_ERR,VAR_1
+C_OK,VAR_2
+SLAVE_STATE_WAIT_BGSAVE_END,VAR_3
+connWrite,FUNC_0
+freeClientAsync,FUNC_1
+server,VAR_4
+snprintf,FUNC_2
+replicationSetupSlaveForFullResync,FUNC_3
+slave,VAR_5
+offset,VAR_6
+buf,VAR_7
+buflen,VAR_8

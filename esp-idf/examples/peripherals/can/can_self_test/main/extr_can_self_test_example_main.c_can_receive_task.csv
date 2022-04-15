@@ -1,0 +1,17 @@
+ESP_ERROR_CHECK,FUNC_0
+ESP_LOGI,FUNC_1
+EXAMPLE_TAG,VAR_0
+NO_OF_ITERS,VAR_1
+NO_OF_MSGS,VAR_2
+can_receive,FUNC_2
+ctrl_sem,VAR_3
+portMAX_DELAY,VAR_4
+rx_sem,VAR_5
+vTaskDelete,FUNC_3
+xSemaphoreGive,FUNC_4
+xSemaphoreTake,FUNC_5
+can_receive_task,FUNC_6
+arg,VAR_6
+rx_message,VAR_7
+iter,VAR_8
+i,VAR_9

@@ -1,0 +1,17 @@
+OCRDMA_CQE_WR_FLUSH_ERR,VAR_0
+OCRDMA_MAX_CQE_ERR,VAR_1
+atomic_inc,FUNC_0
+get_ocrdma_dev,FUNC_1
+is_hw_rq_empty,FUNC_2
+is_hw_sq_empty,FUNC_3
+ocrdma_update_err_rcqe,FUNC_4
+ocrdma_update_err_scqe,FUNC_5
+ocrdma_poll_err_rcqe,FUNC_6
+qp,VAR_2
+cqe,VAR_3
+ibwc,VAR_4
+polled,VAR_5
+stop,VAR_6
+status,VAR_7
+expand,VAR_8
+dev,VAR_9

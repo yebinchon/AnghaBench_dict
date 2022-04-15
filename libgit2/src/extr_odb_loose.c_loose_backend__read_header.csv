@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_OBJECT_INVALID,VAR_1
+GIT_OID_HEXSZ,VAR_2
+assert,FUNC_0
+git_buf_dispose,FUNC_1
+git_odb__error_notfound,FUNC_2
+locate_object,FUNC_3
+read_header_loose,FUNC_4
+loose_backend__read_header,FUNC_5
+len_p,VAR_3
+type_p,VAR_4
+backend,VAR_5
+oid,VAR_6
+object_path,VAR_7
+raw,VAR_8
+error,VAR_9

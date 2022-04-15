@@ -1,0 +1,10 @@
+__flush_tlb_page,FUNC_0
+broadcast_tlb_mm_a15_erratum,FUNC_1
+ipi_flush_tlb_page,VAR_0
+mm_cpumask,FUNC_2
+on_each_cpu_mask,FUNC_3
+tlb_ops_need_broadcast,FUNC_4
+flush_tlb_page,FUNC_5
+vma,VAR_1
+uaddr,VAR_2
+ta,VAR_3

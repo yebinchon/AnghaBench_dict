@@ -1,0 +1,11 @@
+NVME_DIR_RCV_ST_OP_PARAM,VAR_0
+NVME_DIR_STREAMS,VAR_1
+cpu_to_le32,FUNC_0
+memset,FUNC_1
+nvme_admin_directive_recv,VAR_2
+nvme_submit_sync_cmd,FUNC_2
+nvme_get_stream_params,FUNC_3
+ctrl,VAR_3
+s,VAR_4
+nsid,VAR_5
+c,VAR_6

@@ -1,0 +1,10 @@
+GXBB_WDT_TCNT_REG,VAR_0
+GXBB_WDT_TCNT_SETUP_MASK,VAR_1
+meson_gxbb_wdt_ping,FUNC_0
+watchdog_get_drvdata,FUNC_1
+writel,FUNC_2
+meson_gxbb_wdt_set_timeout,FUNC_3
+wdt_dev,VAR_2
+timeout,VAR_3
+data,VAR_4
+tcnt,VAR_5

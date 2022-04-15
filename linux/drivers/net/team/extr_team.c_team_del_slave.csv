@@ -1,0 +1,14 @@
+lockdep_register_key,FUNC_0
+lockdep_set_class,FUNC_1
+lockdep_unregister_key,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+netdev_change_features,FUNC_5
+netdev_priv,FUNC_6
+netif_is_team_master,FUNC_7
+team_port_del,FUNC_8
+team_del_slave,FUNC_9
+dev,VAR_0
+port_dev,VAR_1
+team,VAR_2
+err,VAR_3

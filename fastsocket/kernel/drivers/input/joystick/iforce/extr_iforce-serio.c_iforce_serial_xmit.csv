@@ -1,0 +1,15 @@
+IFORCE_XMIT_AGAIN,VAR_0
+IFORCE_XMIT_RUNNING,VAR_1
+XMIT_INC,FUNC_0
+clear_bit,FUNC_1
+serio_write,FUNC_2
+set_bit,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+test_and_clear_bit,FUNC_6
+test_and_set_bit,FUNC_7
+iforce_serial_xmit,FUNC_8
+iforce,VAR_2
+cs,VAR_3
+i,VAR_4
+flags,VAR_5

@@ -1,0 +1,16 @@
+BEISCSI_TEMPLATE_HDR_TYPE_ISCSI,VAR_0
+CMD_SUBSYSTEM_COMMON,VAR_1
+OPCODE_COMMON_REMOVE_TEMPLATE_HEADER_BUFFERS,VAR_2
+be_cmd_hdr_prepare,FUNC_0
+be_mbox_notify,FUNC_1
+be_wrb_hdr_prepare,FUNC_2
+embedded_payload,FUNC_3
+memset,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+wrb_from_mbox,FUNC_7
+be_cmd_iscsi_remove_template_hdr,FUNC_8
+ctrl,VAR_3
+wrb,VAR_4
+req,VAR_5
+status,VAR_6

@@ -1,0 +1,17 @@
+PXA2XX_I2S_SYSCLK,VAR_0
+SND_SOC_CLOCK_IN,VAR_1
+SND_SOC_CLOCK_OUT,VAR_2
+SND_SOC_DAIFMT_CBS_CFS,VAR_3
+SND_SOC_DAIFMT_I2S,VAR_4
+SND_SOC_DAIFMT_NB_NF,VAR_5
+params_rate,FUNC_0
+snd_soc_dai_set_fmt,FUNC_1
+snd_soc_dai_set_sysclk,FUNC_2
+imote2_asoc_hw_params,FUNC_3
+substream,VAR_6
+params,VAR_7
+rtd,VAR_8
+codec_dai,VAR_9
+cpu_dai,VAR_10
+clk,VAR_11
+ret,VAR_12

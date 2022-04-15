@@ -1,0 +1,14 @@
+CMD_802_11_SET_WEP,VAR_0
+CMD_ACT_ADD,VAR_1
+CMD_TYPE_WEP_104_BIT,VAR_2
+CMD_TYPE_WEP_40_BIT,VAR_3
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_remove_wep_keys,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+lbs_set_wep_keys,FUNC_5
+priv,VAR_4
+cmd,VAR_5
+i,VAR_6
+ret,VAR_7

@@ -1,0 +1,13 @@
+BUS_SPACE_MAXADDR,VAR_0
+BUS_SPACE_MAXADDR_32BIT,VAR_1
+MGE_RX_DESC_NUM,VAR_2
+MGE_TX_DESC_NUM,VAR_3
+bus_dma_tag_create,FUNC_0
+bus_get_dma_tag,FUNC_1
+mge_alloc_desc_dma,FUNC_2
+mge_new_rxbuf,FUNC_3
+mge_allocate_dma,FUNC_4
+sc,VAR_4
+error,VAR_5
+dw,VAR_6
+i,VAR_7

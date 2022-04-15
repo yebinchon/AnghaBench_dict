@@ -1,0 +1,12 @@
+CG_ConfigString,FUNC_0
+CS_SERVERINFO,VAR_0
+Com_sprintf,FUNC_1
+Info_ValueForKey,FUNC_2
+Q_strncpyz,FUNC_3
+atoi,FUNC_4
+cgs,VAR_1
+trap_Cvar_Set,FUNC_5
+va,FUNC_6
+CG_ParseServerinfo,FUNC_7
+info,VAR_2
+mapname,VAR_3

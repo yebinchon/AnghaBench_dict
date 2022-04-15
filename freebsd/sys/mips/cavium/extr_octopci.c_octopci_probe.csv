@@ -1,0 +1,9 @@
+CVMX_BOOTINFO_CFG_FLAG_PCI_HOST,VAR_0
+ENXIO,VAR_1
+OCTEON_FEATURE_PCIE,VAR_2
+cvmx_sysinfo_get,FUNC_0
+device_get_unit,FUNC_1
+device_set_desc,FUNC_2
+octeon_has_feature,FUNC_3
+octopci_probe,FUNC_4
+dev,VAR_3

@@ -1,0 +1,17 @@
+CAM_DIR_IN,VAR_0
+READ_POSITION,VAR_1
+SA_RPOS_EXTENDED_FORM,VAR_2
+bzero,FUNC_0
+cam_fill_csio,FUNC_1
+scsi_ulto2b,FUNC_2
+scsi_read_position_10,FUNC_3
+csio,VAR_3
+retries,VAR_4
+cbfcnp,VAR_5
+tag_action,VAR_6
+service_action,VAR_7
+data_ptr,VAR_8
+length,VAR_9
+sense_len,VAR_10
+timeout,VAR_11
+scmd,VAR_12

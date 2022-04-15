@@ -1,0 +1,17 @@
+ALLOW_MEDIUM_REMOVAL,VAR_0
+DMA_NONE,VAR_1
+DRIVER_SENSE,VAR_2
+KERN_INFO,VAR_3
+SCSI_LOG_IOCTL,FUNC_0
+driver_byte,FUNC_1
+scsi_execute_req,FUNC_2
+scsi_print_sense_hdr,FUNC_3
+scsi_sense_valid,FUNC_4
+sdev_printk,FUNC_5
+ioctl_internal_command,FUNC_6
+sdev,VAR_4
+cmd,VAR_5
+timeout,VAR_6
+retries,VAR_7
+result,VAR_8
+sshdr,VAR_9

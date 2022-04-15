@@ -1,0 +1,7 @@
+HV_X64_MSR_ICR,VAR_0
+SET_APIC_DEST_FIELD,FUNC_0
+wrmsrl,FUNC_1
+hv_apic_icr_write,FUNC_2
+low,VAR_1
+id,VAR_2
+reg_val,VAR_3

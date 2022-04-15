@@ -1,0 +1,14 @@
+CXGB4_DCB_ENABLED,VAR_0
+NETIF_F_HW_VLAN_CTAG_RX,VAR_1
+cxgb4_update_mac_filt,FUNC_0
+local_bh_disable,FUNC_1
+local_bh_enable,FUNC_2
+netdev_priv,FUNC_3
+t4_enable_pi_params,FUNC_4
+t4_link_l1cfg,FUNC_5
+t4_set_rxmode,FUNC_6
+link_start,FUNC_7
+dev,VAR_2
+ret,VAR_3
+pi,VAR_4
+mb,VAR_5

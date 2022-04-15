@@ -1,0 +1,16 @@
+TLV_DATA,FUNC_0
+TLV_LENGTH,FUNC_1
+TLV_SPACE,FUNC_2
+dbg,FUNC_3
+htons,FUNC_4
+memcpy,FUNC_5
+skb_put,FUNC_6
+skb_tail_pointer,FUNC_7
+skb_tailroom,FUNC_8
+tipc_cfg_append_tlv,FUNC_9
+buf,VAR_0
+tlv_type,VAR_1
+tlv_data,VAR_2
+tlv_data_size,VAR_3
+tlv,VAR_4
+new_tlv_space,VAR_5

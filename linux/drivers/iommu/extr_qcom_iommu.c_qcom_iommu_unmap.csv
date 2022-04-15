@@ -1,0 +1,15 @@
+pm_runtime_get_sync,FUNC_0
+pm_runtime_put_sync,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+stub1,FUNC_4
+to_qcom_iommu_domain,FUNC_5
+qcom_iommu_unmap,FUNC_6
+domain,VAR_0
+iova,VAR_1
+size,VAR_2
+gather,VAR_3
+ret,VAR_4
+flags,VAR_5
+qcom_domain,VAR_6
+ops,VAR_7

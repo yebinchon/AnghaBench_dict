@@ -1,0 +1,9 @@
+BMCR_ANENABLE,VAR_0
+BMCR_ANRESTART,VAR_1
+BMCR_ISOLATE,VAR_2
+MII_BMCR,VAR_3
+phy_read,FUNC_0
+phy_write,FUNC_1
+genphy_restart_aneg,FUNC_2
+phydev,VAR_4
+ctl,VAR_5

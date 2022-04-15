@@ -1,0 +1,13 @@
+AMDGPU_PP_SENSOR_MAX_FAN_RPM,VAR_0
+PAGE_SIZE,VAR_1
+amdgpu_dpm_read_sensor,FUNC_0
+dev_get_drvdata,FUNC_1
+snprintf,FUNC_2
+amdgpu_hwmon_get_fan1_max,FUNC_3
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+adev,VAR_5
+max_rpm,VAR_6
+size,VAR_7
+r,VAR_8

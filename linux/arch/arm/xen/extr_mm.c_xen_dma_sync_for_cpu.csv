@@ -1,0 +1,12 @@
+DMA_TO_DEVICE,VAR_0
+GNTTAB_CACHE_INVAL,VAR_1
+PFN_DOWN,FUNC_0
+arch_sync_dma_for_cpu,FUNC_1
+dma_cache_maint,FUNC_2
+pfn_valid,FUNC_3
+xen_dma_sync_for_cpu,FUNC_4
+dev,VAR_2
+handle,VAR_3
+paddr,VAR_4
+size,VAR_5
+dir,VAR_6

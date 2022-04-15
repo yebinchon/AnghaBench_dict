@@ -1,0 +1,17 @@
+FW_ENGINEERING_VERSION,VAR_0
+FW_MAJOR_VERSION,VAR_1
+FW_MINOR_VERSION,VAR_2
+FW_REVISION_VERSION,VAR_3
+PCI_EXT_CAP_ID_DSN,VAR_4
+QEDF_VERSION,VAR_5
+pci_find_ext_capability,FUNC_0
+pci_read_config_byte,FUNC_1
+shost_to_fc_host,FUNC_2
+snprintf,FUNC_3
+qedf_setup_fdmi,FUNC_4
+qedf,VAR_6
+lport,VAR_7
+fc_host,VAR_8
+buf,VAR_9
+i,VAR_10
+pos,VAR_11

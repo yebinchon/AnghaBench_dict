@@ -1,0 +1,16 @@
+EFX_FARCH_FILTER_TABLE_RX_DEF,VAR_0
+EFX_FARCH_FILTER_TABLE_RX_IP,VAR_1
+EFX_FILTER_FLAG_RX_SCATTER,VAR_2
+down_write,FUNC_0
+efx_farch_filter_build,FUNC_1
+efx_farch_filter_push_rx_config,FUNC_2
+efx_writeo,FUNC_3
+test_bit,FUNC_4
+up_write,FUNC_5
+efx_farch_filter_update_rx_scatter,FUNC_6
+efx,VAR_3
+state,VAR_4
+table_id,VAR_5
+table,VAR_6
+filter,VAR_7
+filter_idx,VAR_8

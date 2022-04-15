@@ -1,0 +1,14 @@
+IS_ERR,FUNC_0
+M98088_MBEN,VAR_0
+M98088_REG_4C_PWR_EN_IN,VAR_1
+clk_disable_unprepare,FUNC_1
+clk_prepare_enable,FUNC_2
+regcache_mark_dirty,FUNC_3
+regcache_sync,FUNC_4
+snd_soc_component_get_bias_level,FUNC_5
+snd_soc_component_get_drvdata,FUNC_6
+snd_soc_component_update_bits,FUNC_7
+max98088_set_bias_level,FUNC_8
+component,VAR_2
+level,VAR_3
+max98088,VAR_4

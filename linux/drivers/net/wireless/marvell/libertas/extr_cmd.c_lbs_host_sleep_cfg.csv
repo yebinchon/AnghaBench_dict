@@ -1,0 +1,16 @@
+CMD_802_11_HOST_SLEEP_CFG,VAR_0
+CMD_ACT_ACTION_NONE,VAR_1
+EHS_REMOVE_WAKEUP,VAR_2
+__lbs_cmd,FUNC_0
+cpu_to_le16,FUNC_1
+cpu_to_le32,FUNC_2
+lbs_ret_host_sleep_cfg,VAR_3
+le16_to_cpu,FUNC_3
+memcpy,FUNC_4
+netdev_info,FUNC_5
+lbs_host_sleep_cfg,FUNC_6
+priv,VAR_4
+criteria,VAR_5
+p_wol_config,VAR_6
+cmd_config,VAR_7
+ret,VAR_8

@@ -1,0 +1,11 @@
+CMD_THERMAL_GET_NUM_ZONES,VAR_0
+MRQ_THERMAL,VAR_1
+memset,FUNC_0
+tegra_bpmp_transfer,FUNC_1
+tegra_bpmp_thermal_get_num_zones,FUNC_2
+bpmp,VAR_2
+num_zones,VAR_3
+req,VAR_4
+reply,VAR_5
+msg,VAR_6
+err,VAR_7

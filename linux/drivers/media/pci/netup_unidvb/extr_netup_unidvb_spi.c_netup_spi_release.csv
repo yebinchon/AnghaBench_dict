@@ -1,0 +1,12 @@
+NETUP_SPI_CTRL_IMASK,VAR_0
+NETUP_SPI_CTRL_IRQ,VAR_1
+readw,FUNC_0
+spi_unregister_master,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writew,FUNC_4
+netup_spi_release,FUNC_5
+ndev,VAR_2
+reg,VAR_3
+flags,VAR_4
+spi,VAR_5

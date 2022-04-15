@@ -1,0 +1,16 @@
+DMU_OBJECT_END,VAR_0
+TXG_WAIT,VAR_1
+dmu_free_long_range,FUNC_0
+dmu_object_free,FUNC_1
+dmu_tx_abort,FUNC_2
+dmu_tx_assign,FUNC_3
+dmu_tx_commit,FUNC_4
+dmu_tx_create,FUNC_5
+dmu_tx_hold_bonus,FUNC_6
+dmu_tx_hold_free,FUNC_7
+dmu_tx_mark_netfree,FUNC_8
+dmu_free_long_object,FUNC_9
+os,VAR_2
+object,VAR_3
+tx,VAR_4
+err,VAR_5

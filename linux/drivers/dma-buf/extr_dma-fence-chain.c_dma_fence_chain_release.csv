@@ -1,0 +1,11 @@
+RCU_INIT_POINTER,FUNC_0
+dma_fence_free,FUNC_1
+dma_fence_put,FUNC_2
+kref_read,FUNC_3
+rcu_dereference_protected,FUNC_4
+to_dma_fence_chain,FUNC_5
+dma_fence_chain_release,FUNC_6
+fence,VAR_0
+chain,VAR_1
+prev,VAR_2
+prev_chain,VAR_3

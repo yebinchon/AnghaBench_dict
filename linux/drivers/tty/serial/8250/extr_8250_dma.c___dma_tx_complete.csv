@@ -1,0 +1,17 @@
+DMA_TO_DEVICE,VAR_0
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+dma_sync_single_for_cpu,FUNC_0
+serial8250_set_THRI,FUNC_1
+serial8250_tx_dma,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+uart_circ_chars_pending,FUNC_5
+uart_write_wakeup,FUNC_6
+__dma_tx_complete,FUNC_7
+param,VAR_3
+p,VAR_4
+dma,VAR_5
+xmit,VAR_6
+flags,VAR_7
+ret,VAR_8

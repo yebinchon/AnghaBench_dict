@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+PCI_RES_BUS,VAR_1
+bootverbose,VAR_2
+bus_alloc_resource,FUNC_0
+bus_get_dma_tag,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+pcib_get_bus,FUNC_4
+pcib_get_domain,FUNC_5
+pci_attach_common,FUNC_6
+dev,VAR_3
+sc,VAR_4
+busno,VAR_5
+domain,VAR_6

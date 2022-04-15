@@ -1,0 +1,14 @@
+PCPU_GET,FUNC_0
+cpu_ticks,FUNC_1
+cputick2timespec,FUNC_2
+critical_enter,FUNC_3
+critical_exit,FUNC_4
+curthread,VAR_0
+thread_lock,FUNC_5
+thread_unlock,FUNC_6
+get_thread_cputime,FUNC_7
+targettd,VAR_1
+ats,VAR_2
+runtime,VAR_3
+curtime,VAR_4
+switchtime,VAR_5

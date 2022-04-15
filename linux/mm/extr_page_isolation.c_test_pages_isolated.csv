@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+__first_valid_page,FUNC_0
+__test_page_isolated_in_pageblock,FUNC_1
+is_migrate_isolate_page,FUNC_2
+page_zone,FUNC_3
+pageblock_nr_pages,VAR_1
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+trace_test_pages_isolated,FUNC_6
+test_pages_isolated,FUNC_7
+start_pfn,VAR_2
+end_pfn,VAR_3
+skip_hwpoisoned_pages,VAR_4
+pfn,VAR_5
+flags,VAR_6
+page,VAR_7
+zone,VAR_8

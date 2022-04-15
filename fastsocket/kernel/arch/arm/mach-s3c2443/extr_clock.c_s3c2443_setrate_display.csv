@@ -1,0 +1,12 @@
+S3C2443_CLKDIV1,VAR_0
+S3C2443_CLKDIV1_UARTDIV_MASK,VAR_1
+S3C2443_CLKDIV1_UARTDIV_SHIFT,VAR_2
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+clk_get_rate,FUNC_2
+s3c2443_roundrate_clksrc256,FUNC_3
+s3c2443_setrate_display,FUNC_4
+clk,VAR_3
+rate,VAR_4
+parent_rate,VAR_5
+clkdivn,VAR_6

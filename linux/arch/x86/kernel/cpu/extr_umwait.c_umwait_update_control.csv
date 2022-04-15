@@ -1,0 +1,10 @@
+MSR_IA32_UMWAIT_CONTROL_C02_DISABLE,VAR_0
+MSR_IA32_UMWAIT_CONTROL_TIME_MASK,VAR_1
+WRITE_ONCE,FUNC_0
+on_each_cpu,FUNC_1
+umwait_control_cached,VAR_2
+umwait_update_control_msr,VAR_3
+umwait_update_control,FUNC_2
+maxtime,VAR_4
+c02_enable,VAR_5
+ctrl,VAR_6

@@ -1,0 +1,16 @@
+BRIDGE_IFCAPS_MASK,VAR_0
+BRIDGE_IFCAPS_STRIP,VAR_1
+BRIDGE_UNLOCK_ASSERT,FUNC_0
+SIOCSIFCAP,VAR_2
+bzero,FUNC_1
+if_printf,FUNC_2
+stub1,FUNC_3
+bridge_set_ifcap,FUNC_4
+sc,VAR_3
+bif,VAR_4
+set,VAR_5
+ifp,VAR_6
+ifr,VAR_7
+error,VAR_8
+mask,VAR_9
+stuck,VAR_10

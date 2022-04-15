@@ -1,0 +1,10 @@
+TSDB_CODE_ACTION_IN_PROGRESS,VAR_0
+TSDB_CODE_SUCCESS,VAR_1
+TSDB_METER_STATE_DELETED,VAR_2
+assert,FUNC_0
+vnodeIsSafeToDeleteMeter,FUNC_1
+vnodeMarkAllMetersDropped,FUNC_2
+pVnode,VAR_3
+ready,VAR_4
+sid,VAR_5
+pObj,VAR_6

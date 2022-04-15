@@ -1,0 +1,12 @@
+MIPS_DIRECT_MAPPABLE,FUNC_0
+MIPS_PHYS_TO_DIRECT,FUNC_1
+PAGE_SIZE,VAR_0
+VM_PAGE_TO_PHYS,FUNC_2
+bzero,FUNC_3
+mips_dcache_wbinv_range,FUNC_4
+pmap_lmem_map1,FUNC_5
+pmap_lmem_unmap,FUNC_6
+pmap_zero_page,FUNC_7
+m,VAR_1
+va,VAR_2
+phys,VAR_3

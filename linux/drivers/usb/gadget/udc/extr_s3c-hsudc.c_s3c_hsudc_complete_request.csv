@@ -1,0 +1,13 @@
+USB_DIR_IN,VAR_0
+WAIT_FOR_SETUP,VAR_1
+ep_index,FUNC_0
+list_del_init,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+usb_gadget_giveback_request,FUNC_4
+s3c_hsudc_complete_request,FUNC_5
+hsep,VAR_2
+hsreq,VAR_3
+status,VAR_4
+stopped,VAR_5
+hsudc,VAR_6

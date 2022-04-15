@@ -1,0 +1,13 @@
+UART_FCR_REG,VAR_0
+UART_FCR_RXRST,VAR_1
+UART_FCR_TXRST,VAR_2
+UART_FLUSH_RECEIVER,VAR_3
+UART_FLUSH_TRANSMITTER,VAR_4
+uart_barrier,FUNC_0
+uart_getreg,FUNC_1
+uart_setreg,FUNC_2
+mtk_uart_bus_flush,FUNC_3
+sc,VAR_5
+what,VAR_6
+bas,VAR_7
+fcr,VAR_8

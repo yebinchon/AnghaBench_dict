@@ -1,0 +1,13 @@
+BPF_FIREWALL_SUPPORTED_WITH_MULTI,VAR_0
+EOPNOTSUPP,VAR_1
+SYNTHETIC_ERRNO,FUNC_0
+assert,FUNC_1
+bpf_firewall_supported,FUNC_2
+load_bpf_progs_from_fs_to_set,FUNC_3
+log_unit_debug_errno,FUNC_4
+unit_get_cgroup_context,FUNC_5
+bpf_firewall_load_custom,FUNC_6
+u,VAR_2
+cc,VAR_3
+r,VAR_4
+supported,VAR_5

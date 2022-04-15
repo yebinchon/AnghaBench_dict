@@ -1,0 +1,15 @@
+CTL_FLAG_ABORT,VAR_0
+CTL_STATUS_MASK,VAR_1
+CTL_STATUS_NONE,VAR_2
+CTL_SUCCESS,VAR_3
+STAILQ_INSERT_TAIL,FUNC_0
+ctl_data_submit_done,FUNC_1
+ctl_free_beio,FUNC_2
+links,VAR_4
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+taskqueue_enqueue,FUNC_5
+ctl_be_block_next,FUNC_6
+beio,VAR_5
+be_lun,VAR_6
+io,VAR_7

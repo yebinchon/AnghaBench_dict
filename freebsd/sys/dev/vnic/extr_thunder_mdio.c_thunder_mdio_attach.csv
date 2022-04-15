@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+MDIO_LOCK_INIT,FUNC_0
+REG_BASE_RID,VAR_1
+RF_ACTIVE,VAR_2
+SMI_EN,VAR_3
+SMI_EN_EN,VAR_4
+SYS_RES_MEMORY,VAR_5
+TAILQ_INIT,FUNC_1
+bus_alloc_resource_any,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+mdio_reg_write,FUNC_5
+thunder_mdio_attach,FUNC_6
+dev,VAR_6
+sc,VAR_7
+rid,VAR_8

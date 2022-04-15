@@ -1,0 +1,16 @@
+PCI_EXP_TYPE_DOWNSTREAM,VAR_0
+PCI_EXP_TYPE_ROOT_PORT,VAR_1
+aspm_disabled,VAR_2
+aspm_lock,VAR_3
+down_read,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pci_bus_sem,VAR_4
+pci_is_pcie,FUNC_3
+pci_pcie_type,FUNC_4
+pcie_config_aspm_path,FUNC_5
+pcie_update_aspm_capable,FUNC_6
+up_read,FUNC_7
+pcie_aspm_pm_state_change,FUNC_8
+pdev,VAR_5
+link,VAR_6

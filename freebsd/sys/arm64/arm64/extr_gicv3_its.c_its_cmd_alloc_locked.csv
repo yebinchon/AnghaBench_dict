@@ -1,0 +1,12 @@
+DELAY,FUNC_0
+ITS_CMDQ_SIZE,VAR_0
+MA_OWNED,VAR_1
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+its_cmd_queue_full,FUNC_3
+mtx_assert,FUNC_4
+its_cmd_alloc_locked,FUNC_5
+dev,VAR_2
+sc,VAR_3
+cmd,VAR_4
+us_left,VAR_5

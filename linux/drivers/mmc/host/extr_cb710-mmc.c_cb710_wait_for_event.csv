@@ -1,0 +1,15 @@
+CB710_DUMP_REGS_MMC,VAR_0
+CB710_MMC_STATUS_PORT,VAR_1
+ETIMEDOUT,VAR_2
+cb710_check_event,FUNC_0
+cb710_dump_regs,FUNC_1
+cb710_read_port_32,FUNC_2
+cb710_slot_dev,FUNC_3
+cb710_slot_to_chip,FUNC_4
+dev_dbg,FUNC_5
+udelay,FUNC_6
+cb710_wait_for_event,FUNC_7
+slot,VAR_3
+what,VAR_4
+err,VAR_5
+limit,VAR_6

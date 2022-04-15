@@ -1,0 +1,16 @@
+EXTCON_USB,VAR_0
+IRQ_HANDLED,VAR_1
+PALMAS_INT3_LINE_STATE,VAR_2
+PALMAS_INT3_LINE_STATE_VBUS,VAR_3
+PALMAS_INTERRUPT_BASE,VAR_4
+PALMAS_USB_STATE_DISCONNECT,VAR_5
+PALMAS_USB_STATE_VBUS,VAR_6
+dev_dbg,FUNC_0
+extcon_set_state_sync,FUNC_1
+palmas_read,FUNC_2
+palmas_vbus_irq_handler,FUNC_3
+irq,VAR_7
+_palmas_usb,VAR_8
+palmas_usb,VAR_9
+edev,VAR_10
+vbus_line_state,VAR_11

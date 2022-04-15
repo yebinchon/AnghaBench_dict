@@ -1,0 +1,15 @@
+Anum_hypertable_associated_schema_name,VAR_0
+BTEqualStrategyNumber,VAR_1
+CStringGetDatum,FUNC_0
+CurrentMemoryContext,VAR_2
+DirectFunctionCall1,FUNC_1
+F_NAMEEQ,VAR_3
+INVALID_INDEXID,VAR_4
+RowExclusiveLock,VAR_5
+ScanKeyInit,FUNC_2
+hypertable_scan_limit_internal,FUNC_3
+namein,VAR_6
+reset_associated_tuple_found,VAR_7
+ts_hypertable_reset_associated_schema_name,FUNC_4
+associated_schema,VAR_8
+scankey,VAR_9

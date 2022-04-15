@@ -1,0 +1,16 @@
+CLKMGR_L4SRC,VAR_0
+CLKMGR_PERPLL_SRC,VAR_1
+SOCFPGA_L4_MP_CLK,VAR_2
+SOCFPGA_L4_SP_CLK,VAR_3
+SOCFPGA_MMC_CLK,VAR_4
+SOCFPGA_NAND_CLK,VAR_5
+SOCFPGA_NAND_X_CLK,VAR_6
+clk_hw_get_name,FUNC_0
+clk_mgr_base_addr,VAR_7
+readl,FUNC_1
+streq,FUNC_2
+socfpga_clk_get_parent,FUNC_3
+hwclk,VAR_8
+l4_src,VAR_9
+perpll_src,VAR_10
+name,VAR_11

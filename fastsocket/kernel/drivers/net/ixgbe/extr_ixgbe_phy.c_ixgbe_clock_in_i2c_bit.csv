@@ -1,0 +1,12 @@
+IXGBE_I2CCTL,VAR_0
+IXGBE_I2C_T_HIGH,VAR_1
+IXGBE_I2C_T_LOW,VAR_2
+IXGBE_READ_REG,FUNC_0
+ixgbe_get_i2c_data,FUNC_1
+ixgbe_lower_i2c_clk,FUNC_2
+ixgbe_raise_i2c_clk,FUNC_3
+udelay,FUNC_4
+ixgbe_clock_in_i2c_bit,FUNC_5
+hw,VAR_3
+data,VAR_4
+i2cctl,VAR_5

@@ -1,0 +1,17 @@
+I2C_PROTOCOL_SMBUS_ALERT,VAR_0
+KOBJ_CHANGE,VAR_1
+dev_dbg,FUNC_0
+dev_notice,FUNC_1
+dev_warn,FUNC_2
+i2c_get_clientdata,FUNC_3
+kobject_uevent,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+stts751_update_alert,FUNC_7
+sysfs_notify,FUNC_8
+stts751_alert,FUNC_9
+client,VAR_2
+type,VAR_3
+data,VAR_4
+ret,VAR_5
+priv,VAR_6

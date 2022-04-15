@@ -1,0 +1,11 @@
+PHY_MODE_11B,VAR_0
+PHY_MODE_11G,VAR_1
+PHY_MODE_11N,VAR_2
+luaL_checkinteger,FUNC_0
+luaL_error,FUNC_1
+lua_pushinteger,FUNC_2
+wifi_get_phy_mode,FUNC_3
+wifi_set_phy_mode,FUNC_4
+wifi_setphymode,FUNC_5
+L,VAR_3
+mode,VAR_4

@@ -1,0 +1,11 @@
+HCLGE_OPC_QUERY_MAC_REG_NUM,VAR_0
+hclge_cmd_send,FUNC_0
+hclge_cmd_setup_basic_desc,FUNC_1
+le32_to_cpu,FUNC_2
+hclge_mac_query_reg_num,FUNC_3
+hdev,VAR_1
+desc_num,VAR_2
+desc,VAR_3
+desc_data,VAR_4
+reg_num,VAR_5
+ret,VAR_6

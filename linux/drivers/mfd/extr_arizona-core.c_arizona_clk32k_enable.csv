@@ -1,0 +1,13 @@
+ARIZONA_CLK_32K_ENA,VAR_0
+ARIZONA_CLOCK_32K_1,VAR_1
+ARIZONA_MCLK1,VAR_2
+ARIZONA_MCLK2,VAR_3
+clk_prepare_enable,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_sync,FUNC_4
+regmap_update_bits,FUNC_5
+arizona_clk32k_enable,FUNC_6
+arizona,VAR_4
+ret,VAR_5

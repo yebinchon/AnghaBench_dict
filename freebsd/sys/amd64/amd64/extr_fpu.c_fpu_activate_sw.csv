@@ -1,0 +1,9 @@
+PCB_USER_FPU,FUNC_0
+PCPU_GET,FUNC_1
+PCPU_SET,FUNC_2
+TDP_KTHREAD,VAR_0
+fpcurthread,VAR_1
+restore_fpu_curthread,FUNC_3
+start_emulating,FUNC_4
+fpu_activate_sw,FUNC_5
+td,VAR_2

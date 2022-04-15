@@ -1,0 +1,12 @@
+H_BUSY,VAR_0
+H_ENABLE_CRQ,VAR_1
+H_IN_PROGRESS,VAR_2
+H_IS_LONG_BUSY,FUNC_0
+dev_err,FUNC_1
+msleep,FUNC_2
+plpar_hcall_norets,FUNC_3
+to_vio_dev,FUNC_4
+ibmvfc_reenable_crq_queue,FUNC_5
+vhost,VAR_3
+rc,VAR_4
+vdev,VAR_5

@@ -1,0 +1,13 @@
+TIOCSER_TEMT,VAR_0
+TX_EMPTY_STATUS,VAR_1
+UART_LSR,VAR_2
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+tegra_uart_read,FUNC_2
+to_tegra_uport,FUNC_3
+tegra_uart_tx_empty,FUNC_4
+u,VAR_3
+tup,VAR_4
+ret,VAR_5
+flags,VAR_6
+lsr,VAR_7

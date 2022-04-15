@@ -1,0 +1,11 @@
+USB_DIR_OUT,VAR_0
+USB_RECIP_ENDPOINT,VAR_1
+USB_REQ_SET_CONFIGURATION,VAR_2
+USB_TYPE_CLASS,VAR_3
+snd_usb_ctl_msg,FUNC_0
+usb_sndctrlpipe,FUNC_1
+snd_usb_cm106_write_int_reg,FUNC_2
+dev,VAR_4
+reg,VAR_5
+value,VAR_6
+buf,VAR_7

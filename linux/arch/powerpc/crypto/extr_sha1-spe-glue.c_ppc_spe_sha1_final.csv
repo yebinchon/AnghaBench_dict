@@ -1,0 +1,17 @@
+cpu_to_be32,FUNC_0
+cpu_to_be64,FUNC_1
+memset,FUNC_2
+ppc_sha1_clear_context,FUNC_3
+ppc_spe_sha1_transform,FUNC_4
+shash_desc_ctx,FUNC_5
+spe_begin,FUNC_6
+spe_end,FUNC_7
+ppc_spe_sha1_final,FUNC_8
+desc,VAR_0
+out,VAR_1
+sctx,VAR_2
+offset,VAR_3
+p,VAR_4
+padlen,VAR_5
+pbits,VAR_6
+dst,VAR_7

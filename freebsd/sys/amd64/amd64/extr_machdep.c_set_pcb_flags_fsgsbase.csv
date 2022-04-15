@@ -1,0 +1,16 @@
+MSR_KGSBASE,VAR_0
+PCB_FULL_IRET,VAR_1
+_ufssel,VAR_2
+_ugssel,VAR_3
+curpcb,VAR_4
+intr_disable,FUNC_0
+intr_restore,FUNC_1
+rdfsbase,FUNC_2
+rdmsr,FUNC_3
+rfs,FUNC_4
+rgs,FUNC_5
+set_pcb_flags_raw,FUNC_6
+set_pcb_flags_fsgsbase,FUNC_7
+pcb,VAR_5
+flags,VAR_6
+r,VAR_7

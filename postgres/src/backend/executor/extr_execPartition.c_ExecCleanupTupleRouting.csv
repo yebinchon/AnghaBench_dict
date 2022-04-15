@@ -1,0 +1,17 @@
+ExecCloseIndices,FUNC_0
+ExecDropSingleTupleTableSlot,FUNC_1
+HASH_FIND,VAR_0
+NoLock,VAR_1
+RelationGetRelid,FUNC_2
+hash_search,FUNC_3
+stub1,FUNC_4
+table_close,FUNC_5
+ExecCleanupTupleRouting,FUNC_6
+mtstate,VAR_2
+proute,VAR_3
+htab,VAR_4
+i,VAR_5
+pd,VAR_6
+resultRelInfo,VAR_7
+partoid,VAR_8
+found,VAR_9

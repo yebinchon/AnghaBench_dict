@@ -1,0 +1,9 @@
+PROCESS__SETSCHED,VAR_0
+SECCLASS_PROCESS,VAR_1
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_state,VAR_2
+task_sid,FUNC_2
+selinux_task_setioprio,FUNC_3
+p,VAR_3
+ioprio,VAR_4

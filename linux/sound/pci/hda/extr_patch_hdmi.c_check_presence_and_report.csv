@@ -1,0 +1,12 @@
+get_pin,FUNC_0
+hdmi_present_sense,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pin_id_to_pin_index,FUNC_4
+snd_hda_jack_report_sync,FUNC_5
+check_presence_and_report,FUNC_6
+codec,VAR_0
+nid,VAR_1
+dev_id,VAR_2
+spec,VAR_3
+pin_idx,VAR_4

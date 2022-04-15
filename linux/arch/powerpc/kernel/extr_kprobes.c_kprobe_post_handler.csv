@@ -1,0 +1,14 @@
+KPROBE_HIT_SSDONE,VAR_0
+KPROBE_REENTER,VAR_1
+MSR_SINGLESTEP,VAR_2
+get_kprobe_ctlblk,FUNC_0
+kprobe_running,FUNC_1
+preempt_enable_no_resched,FUNC_2
+reset_current_kprobe,FUNC_3
+restore_previous_kprobe,FUNC_4
+stub1,FUNC_5
+user_mode,FUNC_6
+kprobe_post_handler,FUNC_7
+regs,VAR_3
+cur,VAR_4
+kcb,VAR_5

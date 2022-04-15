@@ -1,0 +1,17 @@
+MPI26_EVENT_PCIDEV_STAT_RC_CMP_INTERNAL_DEV_RESET,VAR_0
+MPI26_EVENT_PCIDEV_STAT_RC_INTERNAL_DEVICE_RESET,VAR_1
+MPT_DEBUG_EVENT_WORK_TASK,VAR_2
+__mpt3sas_get_pdev_by_wwid,FUNC_0
+_scsih_pcie_device_status_change_event_debug,FUNC_1
+le64_to_cpu,FUNC_2
+pcie_device_put,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+_scsih_pcie_device_status_change_event,FUNC_6
+ioc,VAR_3
+fw_event,VAR_4
+target_priv_data,VAR_5
+pcie_device,VAR_6
+wwid,VAR_7
+flags,VAR_8
+event_data,VAR_9

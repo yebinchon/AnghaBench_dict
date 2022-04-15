@@ -1,0 +1,15 @@
+CCP_AES_MODE_GCM,VAR_0
+CCP_AES_TYPE_128,VAR_1
+CCP_AES_TYPE_192,VAR_2
+CCP_AES_TYPE_256,VAR_3
+CRYPTO_TFM_RES_BAD_KEY_LEN,VAR_4
+EINVAL,VAR_5
+crypto_aead_ctx,FUNC_0
+crypto_aead_set_flags,FUNC_1
+memcpy,FUNC_2
+sg_init_one,FUNC_3
+ccp_aes_gcm_setkey,FUNC_4
+tfm,VAR_6
+key,VAR_7
+key_len,VAR_8
+ctx,VAR_9

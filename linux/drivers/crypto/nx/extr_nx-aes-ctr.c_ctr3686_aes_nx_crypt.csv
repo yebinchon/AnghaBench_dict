@@ -1,0 +1,12 @@
+CTR_RFC3686_IV_SIZE,VAR_0
+CTR_RFC3686_NONCE_SIZE,VAR_1
+crypto_blkcipher_ctx,FUNC_0
+ctr_aes_nx_crypt,FUNC_1
+memcpy,FUNC_2
+ctr3686_aes_nx_crypt,FUNC_3
+desc,VAR_2
+dst,VAR_3
+src,VAR_4
+nbytes,VAR_5
+nx_ctx,VAR_6
+iv,VAR_7

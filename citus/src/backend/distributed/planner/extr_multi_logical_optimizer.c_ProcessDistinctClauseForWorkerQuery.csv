@@ -1,0 +1,11 @@
+IsGroupBySubsetOfDistinct,FUNC_0
+NIL,VAR_0
+ProcessDistinctClauseForWorkerQuery,FUNC_1
+distinctClause,VAR_1
+hasDistinctOn,VAR_2
+groupClauseList,VAR_3
+queryHasAggregates,VAR_4
+queryDistinctClause,VAR_5
+distinctPreventsLimitPushdown,VAR_6
+distinctClauseSupersetofGroupClause,VAR_7
+shouldPushdownDistinct,VAR_8

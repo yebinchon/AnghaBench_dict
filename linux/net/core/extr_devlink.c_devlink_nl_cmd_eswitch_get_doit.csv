@@ -1,0 +1,14 @@
+DEVLINK_CMD_ESWITCH_GET,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+NLMSG_DEFAULT_SIZE,VAR_3
+devlink_nl_eswitch_fill,FUNC_0
+genlmsg_reply,FUNC_1
+nlmsg_free,FUNC_2
+nlmsg_new,FUNC_3
+devlink_nl_cmd_eswitch_get_doit,FUNC_4
+skb,VAR_4
+info,VAR_5
+devlink,VAR_6
+msg,VAR_7
+err,VAR_8

@@ -1,0 +1,15 @@
+AV_TIMECODE_FLAG_24HOURSMAX,VAR_0
+AV_TIMECODE_FLAG_ALLOWNEGATIVE,VAR_1
+AV_TIMECODE_FLAG_DROPFRAME,VAR_2
+SEEK_SET,VAR_3
+avio_rb32,FUNC_0
+avio_seek,FUNC_1
+avio_tell,FUNC_2
+parse_timecode_in_framenum_format,FUNC_3
+mov_read_timecode_track,FUNC_4
+s,VAR_4
+st,VAR_5
+sc,VAR_6
+flags,VAR_7
+cur_pos,VAR_8
+value,VAR_9

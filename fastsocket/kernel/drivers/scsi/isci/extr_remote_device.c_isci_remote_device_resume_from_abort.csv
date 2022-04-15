@@ -1,0 +1,17 @@
+IDEV_ABORT_PATH_ACTIVE,VAR_0
+IDEV_ABORT_PATH_RESUME_PENDING,VAR_1
+SCI_SUCCESS,VAR_2
+clear_bit,FUNC_0
+isci_remote_device_resume_from_abort_complete,VAR_3
+isci_remote_device_wait_for_resume_from_abort,FUNC_1
+sci_remote_device_resume,FUNC_2
+sci_remote_node_context_is_being_destroyed,FUNC_3
+set_bit,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+isci_remote_device_resume_from_abort,FUNC_7
+ihost,VAR_4
+idev,VAR_5
+flags,VAR_6
+status,VAR_7
+destroyed,VAR_8

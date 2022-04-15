@@ -1,0 +1,12 @@
+BATADV_CNT_MGMT_TX,VAR_0
+BATADV_CNT_MGMT_TX_BYTES,VAR_1
+BATADV_IF_ACTIVE,VAR_2
+ETH_HLEN,VAR_3
+batadv_add_counter,FUNC_0
+batadv_inc_counter,FUNC_1
+batadv_send_broadcast_skb,FUNC_2
+netdev_priv,FUNC_3
+batadv_v_ogm_send_to_if,FUNC_4
+skb,VAR_4
+hard_iface,VAR_5
+bat_priv,VAR_6

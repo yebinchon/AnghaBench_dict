@@ -1,0 +1,14 @@
+BFA_FCPORT_MOD,FUNC_0
+BFA_STATUS_OK,VAR_0
+be16_to_cpu,FUNC_1
+be32_to_cpu,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bfad_iocmd_qos_get_vc_attr,FUNC_5
+bfad,VAR_1
+cmd,VAR_2
+iocmd,VAR_3
+fcport,VAR_4
+bfa_vc_attr,VAR_5
+flags,VAR_6
+i,VAR_7

@@ -1,0 +1,12 @@
+__hci_req_schedule_adv_instance,FUNC_0
+cancel_adv_timeout,FUNC_1
+hci_find_adv_instance,FUNC_2
+hci_get_next_instance,FUNC_3
+hci_req_init,FUNC_4
+hci_req_run,FUNC_5
+adv_expire,FUNC_6
+hdev,VAR_0
+flags,VAR_1
+adv_instance,VAR_2
+req,VAR_3
+err,VAR_4

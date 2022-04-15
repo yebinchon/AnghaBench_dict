@@ -1,0 +1,14 @@
+U300_GPIO_PXPCR_PIN_MODE_MASK,VAR_0
+U300_PIN_REG,FUNC_0
+gpiochip_get_data,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+pcr,VAR_1
+readl,FUNC_4
+writel,FUNC_5
+u300_gpio_direction_input,FUNC_6
+chip,VAR_2
+offset,VAR_3
+gpio,VAR_4
+flags,VAR_5
+val,VAR_6

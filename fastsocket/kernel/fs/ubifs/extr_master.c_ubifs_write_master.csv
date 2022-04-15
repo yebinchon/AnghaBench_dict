@@ -1,0 +1,13 @@
+EROFS,VAR_0
+UBIFS_MST_LNUM,VAR_1
+UBIFS_MST_NODE_SZ,VAR_2
+UBI_SHORTTERM,VAR_3
+cpu_to_le64,FUNC_0
+ubifs_leb_unmap,FUNC_1
+ubifs_write_node,FUNC_2
+ubifs_write_master,FUNC_3
+c,VAR_4
+err,VAR_5
+lnum,VAR_6
+offs,VAR_7
+len,VAR_8

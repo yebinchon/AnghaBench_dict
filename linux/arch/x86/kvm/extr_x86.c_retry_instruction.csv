@@ -1,0 +1,16 @@
+EMULTYPE_ALLOW_RETRY,VAR_0
+WARN_ON_ONCE,FUNC_0
+emul_to_vcpu,FUNC_1
+gpa_to_gfn,FUNC_2
+is_guest_mode,FUNC_3
+kvm_mmu_gva_to_gpa_write,FUNC_4
+kvm_mmu_unprotect_page,FUNC_5
+x86_page_table_writing_insn,FUNC_6
+retry_instruction,FUNC_7
+ctxt,VAR_1
+cr2,VAR_2
+emulation_type,VAR_3
+vcpu,VAR_4
+last_retry_eip,VAR_5
+last_retry_addr,VAR_6
+gpa,VAR_7

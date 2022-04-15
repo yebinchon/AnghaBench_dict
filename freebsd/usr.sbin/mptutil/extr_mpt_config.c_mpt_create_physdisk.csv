@@ -1,0 +1,16 @@
+EOPNOTSUPP,VAR_0
+MPI_CONFIG_PAGETYPE_RAID_PHYSDISK,VAR_1
+MPI_RAIDPHYSDISKPAGE0_PAGEVERSION,VAR_2
+MPI_RAID_ACTION_CREATE_PHYSDISK,VAR_3
+calloc,FUNC_0
+mpt_raid_action,FUNC_1
+mpt_read_config_page_header,FUNC_2
+warnx,FUNC_3
+mpt_create_physdisk,FUNC_4
+fd,VAR_4
+disk,VAR_5
+PhysDiskNum,VAR_6
+header,VAR_7
+config_page,VAR_8
+error,VAR_9
+ActionData,VAR_10

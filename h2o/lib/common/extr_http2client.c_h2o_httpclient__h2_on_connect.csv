@@ -1,0 +1,15 @@
+assert,FUNC_0
+create_connection,FUNC_1
+h2o_socket_read_start,FUNC_2
+h2o_timer_is_linked,FUNC_3
+h2o_timer_link,FUNC_4
+on_connection_ready,FUNC_5
+on_read,VAR_0
+send_client_preface,FUNC_6
+setup_stream,FUNC_7
+h2o_httpclient__h2_on_connect,FUNC_8
+_client,VAR_1
+sock,VAR_2
+origin,VAR_3
+stream,VAR_4
+conn,VAR_5

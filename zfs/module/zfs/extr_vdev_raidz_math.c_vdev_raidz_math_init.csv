@@ -1,0 +1,17 @@
+B_TRUE,VAR_0
+KSTAT_FLAG_VIRTUAL,VAR_1
+KSTAT_TYPE_RAW,VAR_2
+UINT32_MAX,VAR_3
+atomic_swap_32,FUNC_0
+benchmark_raidz,FUNC_1
+kstat_create,FUNC_2
+kstat_install,FUNC_3
+kstat_set_raw_ops,FUNC_4
+raidz_math_initialized,VAR_4
+raidz_math_kstat,VAR_5
+raidz_math_kstat_addr,VAR_6
+raidz_math_kstat_data,VAR_7
+raidz_math_kstat_headers,VAR_8
+user_sel_impl,VAR_9
+zfs_vdev_raidz_impl,VAR_10
+vdev_raidz_math_init,FUNC_5

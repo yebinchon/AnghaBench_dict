@@ -1,0 +1,12 @@
+MAX6902_REG_CENTURY,VAR_0
+bcd2bin,FUNC_0
+max6902_get_reg,FUNC_1
+spi_write_then_read,FUNC_2
+to_spi_device,FUNC_3
+max6902_read_time,FUNC_4
+dev,VAR_1
+dt,VAR_2
+err,VAR_3
+century,VAR_4
+spi,VAR_5
+buf,VAR_6

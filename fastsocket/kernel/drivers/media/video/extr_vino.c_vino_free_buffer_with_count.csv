@@ -1,0 +1,15 @@
+ClearPageReserved,FUNC_0
+DMA_FROM_DEVICE,VAR_0
+PAGE_SIZE,VAR_1
+VINO_PAGE_RATIO,VAR_2
+dma_free_coherent,FUNC_1
+dma_unmap_single,FUNC_2
+dprintk,FUNC_3
+free_page,FUNC_4
+kfree,FUNC_5
+memset,FUNC_6
+virt_to_page,FUNC_7
+vino_free_buffer_with_count,FUNC_8
+fb,VAR_3
+count,VAR_4
+i,VAR_5

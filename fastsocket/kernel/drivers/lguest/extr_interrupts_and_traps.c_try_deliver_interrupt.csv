@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+FIRST_EXTERNAL_VECTOR,VAR_0
+LGUEST_IRQS,VAR_1
+X86_EFLAGS_IF,VAR_2
+clear_bit,FUNC_1
+get_user,FUNC_2
+idt_present,FUNC_3
+kill_guest,FUNC_4
+put_user,FUNC_5
+set_guest_interrupt,FUNC_6
+write_timestamp,FUNC_7
+try_deliver_interrupt,FUNC_8
+cpu,VAR_3
+irq,VAR_4
+more,VAR_5
+idt,VAR_6
+irq_enabled,VAR_7

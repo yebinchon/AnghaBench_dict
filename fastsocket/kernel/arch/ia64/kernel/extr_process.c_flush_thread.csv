@@ -1,0 +1,12 @@
+IA32_PAGE_OFFSET,VAR_0
+IA64_THREAD_DBG_VALID,VAR_1
+IA64_THREAD_FPH_VALID,VAR_2
+IS_IA32_PROCESS,FUNC_0
+USER_DS,VAR_3
+current,VAR_4
+ia32_drop_ia64_partial_page_list,FUNC_1
+ia64_drop_fpu,FUNC_2
+memset,FUNC_3
+set_fs,FUNC_4
+task_pt_regs,FUNC_5
+flush_thread,FUNC_6

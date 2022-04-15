@@ -1,0 +1,13 @@
+A10_INTR_MAX_NIRQS,VAR_0
+FILTER_HANDLED,VAR_1
+a10_intr_eoi,FUNC_0
+a10_intr_mask,FUNC_1
+a10_pending_irq,FUNC_2
+arm_irq_memory_barrier,FUNC_3
+curthread,VAR_2
+device_printf,FUNC_4
+intr_isrc_dispatch,FUNC_5
+a10_intr,FUNC_6
+arg,VAR_3
+sc,VAR_4
+irq,VAR_5

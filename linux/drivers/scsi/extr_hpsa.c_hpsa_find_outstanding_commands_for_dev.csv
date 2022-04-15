@@ -1,0 +1,14 @@
+atomic_inc_return,FUNC_0
+cmd_free,FUNC_1
+hpsa_cmd_dev_match,FUNC_2
+hpsa_is_cmd_idle,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+hpsa_find_outstanding_commands_for_dev,FUNC_6
+h,VAR_0
+dev,VAR_1
+i,VAR_2
+count,VAR_3
+c,VAR_4
+refcount,VAR_5
+flags,VAR_6

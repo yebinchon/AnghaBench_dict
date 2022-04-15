@@ -1,0 +1,15 @@
+IOMUX_TO_GPIO,FUNC_0
+IRQF_TRIGGER_FALLING,VAR_0
+MX31_PIN_SCK6,VAR_1
+SDHC1_GPIO_DET,VAR_2
+SDHC1_GPIO_WP,VAR_3
+gpio_direction_input,FUNC_1
+gpio_free,FUNC_2
+gpio_request,FUNC_3
+gpio_to_irq,FUNC_4
+request_irq,FUNC_5
+pcm970_sdhc1_init,FUNC_6
+dev,VAR_4
+detect_irq,VAR_5
+data,VAR_6
+ret,VAR_7

@@ -1,0 +1,12 @@
+ReorderBufferSetBaseSnapshot,FUNC_0
+ReorderBufferXidHasBaseSnapshot,FUNC_1
+SNAPBUILD_CONSISTENT,VAR_0
+SNAPBUILD_FULL_SNAPSHOT,VAR_1
+SnapBuildBuildSnapshot,FUNC_2
+SnapBuildNextPhaseAt,FUNC_3
+SnapBuildSnapIncRefcount,FUNC_4
+TransactionIdPrecedes,FUNC_5
+SnapBuildProcessChange,FUNC_6
+builder,VAR_2
+xid,VAR_3
+lsn,VAR_4

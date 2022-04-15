@@ -1,0 +1,12 @@
+INDIO_ALL_TRIGGERED_MODES,VAR_0
+dev_to_iio_dev,FUNC_0
+ida_simple_remove,FUNC_1
+iio_buffer_put,FUNC_2
+iio_device_unregister_eventset,FUNC_3
+iio_device_unregister_sysfs,FUNC_4
+iio_device_unregister_trigger_consumer,FUNC_5
+iio_ida,VAR_1
+kfree,FUNC_6
+iio_dev_release,FUNC_7
+device,VAR_2
+indio_dev,VAR_3

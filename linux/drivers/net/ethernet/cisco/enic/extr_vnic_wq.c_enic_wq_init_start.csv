@@ -1,0 +1,13 @@
+VNIC_PADDR_TARGET,VAR_0
+VNIC_WQ_BUF_BLK_ENTRIES,FUNC_0
+iowrite32,FUNC_1
+writeq,FUNC_2
+enic_wq_init_start,FUNC_3
+wq,VAR_1
+cq_index,VAR_2
+fetch_index,VAR_3
+posted_index,VAR_4
+error_interrupt_enable,VAR_5
+error_interrupt_offset,VAR_6
+paddr,VAR_7
+count,VAR_8

@@ -1,0 +1,11 @@
+device_get_softc,FUNC_0
+gt_pci_mask_irq,FUNC_1
+intr_event_remove_handler,FUNC_2
+rman_get_start,FUNC_3
+gt_pci_teardown_intr,FUNC_4
+dev,VAR_0
+child,VAR_1
+res,VAR_2
+cookie,VAR_3
+sc,VAR_4
+irq,VAR_5

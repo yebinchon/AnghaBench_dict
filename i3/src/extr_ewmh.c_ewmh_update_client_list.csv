@@ -1,0 +1,9 @@
+A__NET_CLIENT_LIST,VAR_0
+XCB_ATOM_WINDOW,VAR_1
+XCB_PROP_MODE_REPLACE,VAR_2
+conn,VAR_3
+root,VAR_4
+xcb_change_property,FUNC_0
+ewmh_update_client_list,FUNC_1
+list,VAR_5
+num_windows,VAR_6

@@ -1,0 +1,11 @@
+FILTER_HANDLED,VAR_0
+FILTER_STRAY,VAR_1
+IFF_DRV_RUNNING,VAR_2
+if_getdrvflags,FUNC_0
+taskqueue_enqueue,FUNC_1
+unlikely,FUNC_2
+ena_handle_msix,FUNC_3
+arg,VAR_3
+queue,VAR_4
+adapter,VAR_5
+ifp,VAR_6

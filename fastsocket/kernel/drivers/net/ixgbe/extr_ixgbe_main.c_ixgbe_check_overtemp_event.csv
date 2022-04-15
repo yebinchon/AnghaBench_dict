@@ -1,0 +1,13 @@
+IXGBE_EICR_GPI_SDP0,VAR_0
+IXGBE_EICR_LSC,VAR_1
+IXGBE_EICR_TS,VAR_2
+IXGBE_FLAG2_TEMP_SENSOR_CAPABLE,VAR_3
+IXGBE_FLAG2_TEMP_SENSOR_EVENT,VAR_4
+__IXGBE_DOWN,VAR_5
+drv,VAR_6
+e_crit,FUNC_0
+ixgbe_service_event_schedule,FUNC_1
+test_bit,FUNC_2
+ixgbe_check_overtemp_event,FUNC_3
+adapter,VAR_7
+eicr,VAR_8

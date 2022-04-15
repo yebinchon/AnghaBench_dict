@@ -1,0 +1,14 @@
+CSR_READ_4,FUNC_0
+CSR_WRITE_4,FUNC_1
+DELAY,FUNC_2
+FXP_CSR_MDICONTROL,VAR_0
+FXP_MDI_READ,VAR_1
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+fxp_miibus_readreg,FUNC_5
+dev,VAR_2
+phy,VAR_3
+reg,VAR_4
+sc,VAR_5
+count,VAR_6
+value,VAR_7

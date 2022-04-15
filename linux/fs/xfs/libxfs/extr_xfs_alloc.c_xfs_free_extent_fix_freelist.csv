@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+EFSCORRUPTED,VAR_0
+XFS_ALLOC_FLAG_FREEING,VAR_1
+memset,FUNC_1
+xfs_alloc_fix_freelist,FUNC_2
+xfs_perag_get,FUNC_3
+xfs_perag_put,FUNC_4
+xfs_free_extent_fix_freelist,FUNC_5
+tp,VAR_2
+agno,VAR_3
+agbp,VAR_4
+args,VAR_5
+error,VAR_6

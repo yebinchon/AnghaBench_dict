@@ -1,0 +1,14 @@
+IB_FLOW_SPEC_ETH,VAR_0
+MLX4_DOMAIN_UVERBS,VAR_1
+MLX4_STEERING_DMFS_A0_STATIC,VAR_2
+MLX4_TUNNEL_OFFLOAD_MODE_VXLAN,VAR_3
+mlx4_tunnel_steer_add,FUNC_0
+to_mdev,FUNC_1
+mlx4_ib_tunnel_steer_add,FUNC_2
+qp,VAR_4
+flow_attr,VAR_5
+reg_id,VAR_6
+ib_flow,VAR_7
+ib_spec,VAR_8
+dev,VAR_9
+err,VAR_10

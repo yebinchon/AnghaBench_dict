@@ -1,0 +1,15 @@
+CMD_802_11_ASSOCIATE,VAR_0
+LBS_DEB_ASSOC,VAR_1
+RADIO_PREAMBLE_LONG,VAR_2
+RADIO_PREAMBLE_SHORT,VAR_3
+WLAN_CAPABILITY_SHORT_PREAMBLE,VAR_4
+lbs_associate,FUNC_0
+lbs_deb_enter,FUNC_1
+lbs_deb_leave_args,FUNC_2
+lbs_set_authentication,FUNC_3
+lbs_set_radio,FUNC_4
+lbs_try_associate,FUNC_5
+priv,VAR_5
+assoc_req,VAR_6
+ret,VAR_7
+preamble,VAR_8

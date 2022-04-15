@@ -1,0 +1,16 @@
+DeleteSoutStreamID,FUNC_0
+Send,FUNC_1
+UNKNOWN_ES,VAR_0
+decoder_Destroy,FUNC_2
+sout_StreamIdDel,FUNC_3
+transcode_audio_clean,FUNC_4
+transcode_spu_clean,FUNC_5
+transcode_video_clean,FUNC_6
+vlc_mutex_lock,FUNC_7
+vlc_mutex_unlock,FUNC_8
+Del,FUNC_9
+p_stream,VAR_1
+_id,VAR_2
+p_sys,VAR_3
+id,VAR_4
+i_cat,VAR_5

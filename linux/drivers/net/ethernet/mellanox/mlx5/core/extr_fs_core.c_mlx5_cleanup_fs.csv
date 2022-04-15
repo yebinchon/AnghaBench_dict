@@ -1,0 +1,9 @@
+cleanup_egress_acls_root_ns,FUNC_0
+cleanup_ingress_acls_root_ns,FUNC_1
+cleanup_root_ns,FUNC_2
+kfree,FUNC_3
+kmem_cache_destroy,FUNC_4
+mlx5_cleanup_fc_stats,FUNC_5
+mlx5_cleanup_fs,FUNC_6
+dev,VAR_0
+steering,VAR_1

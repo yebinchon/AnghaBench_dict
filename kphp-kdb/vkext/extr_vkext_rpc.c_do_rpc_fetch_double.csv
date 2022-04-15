@@ -1,0 +1,12 @@
+ADD_CNT,FUNC_0
+END_TIMER,FUNC_1
+RPC_BUFFER_MAGIC,VAR_0
+START_TIMER,FUNC_2
+assert,FUNC_3
+buffer_read_double,FUNC_4
+fetch,VAR_1
+inbuf,VAR_2
+strdup,FUNC_5
+do_rpc_fetch_double,FUNC_6
+error,VAR_3
+value,VAR_4

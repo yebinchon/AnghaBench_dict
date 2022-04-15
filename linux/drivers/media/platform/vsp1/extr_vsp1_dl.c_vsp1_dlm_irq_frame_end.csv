@@ -1,0 +1,16 @@
+VI6_STATUS,VAR_0
+VI6_STATUS_FLD_STD,FUNC_0
+VSP1_DL_FRAME_END_COMPLETED,VAR_1
+VSP1_DL_FRAME_END_INTERNAL,VAR_2
+VSP1_DL_FRAME_END_WRITEBACK,VAR_3
+__vsp1_dl_list_put,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+vsp1_dl_list_hw_enqueue,FUNC_4
+vsp1_dl_list_hw_update_pending,FUNC_5
+vsp1_read,FUNC_6
+vsp1_dlm_irq_frame_end,FUNC_7
+dlm,VAR_4
+vsp1,VAR_5
+status,VAR_6
+flags,VAR_7

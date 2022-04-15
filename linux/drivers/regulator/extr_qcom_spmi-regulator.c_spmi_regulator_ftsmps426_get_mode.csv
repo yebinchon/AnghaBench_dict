@@ -1,0 +1,10 @@
+REGULATOR_MODE_FAST,VAR_0
+REGULATOR_MODE_IDLE,VAR_1
+REGULATOR_MODE_NORMAL,VAR_2
+SPMI_COMMON_REG_MODE,VAR_3
+rdev_get_drvdata,FUNC_0
+spmi_vreg_read,FUNC_1
+spmi_regulator_ftsmps426_get_mode,FUNC_2
+rdev,VAR_4
+vreg,VAR_5
+reg,VAR_6

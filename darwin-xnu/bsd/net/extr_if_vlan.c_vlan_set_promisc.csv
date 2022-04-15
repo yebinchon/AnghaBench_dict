@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+IFF_PROMISC,VAR_1
+ifnet_flags,FUNC_0
+ifnet_get_ifvlan_retained,FUNC_1
+ifnet_set_promiscuous,FUNC_2
+ifvlan_flags_clear_promisc,FUNC_3
+ifvlan_flags_promisc,FUNC_4
+ifvlan_flags_set_promisc,FUNC_5
+ifvlan_release,FUNC_6
+vlan_lock,FUNC_7
+vlan_unlock,FUNC_8
+vlan_set_promisc,FUNC_9
+ifp,VAR_2
+error,VAR_3
+ifv,VAR_4
+vlp,VAR_5

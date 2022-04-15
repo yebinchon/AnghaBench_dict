@@ -1,0 +1,16 @@
+RADIUS_ATTR_VENDOR_SPECIFIC,VAR_0
+RADIUS_VENDOR_ID_WFA,VAR_1
+WPA_PUT_BE32,FUNC_0
+os_free,FUNC_1
+os_malloc,FUNC_2
+os_memcpy,FUNC_3
+radius_msg_add_attr,FUNC_4
+radius_msg_add_wfa,FUNC_5
+msg,VAR_2
+subtype,VAR_3
+data,VAR_4
+len,VAR_5
+attr,VAR_6
+buf,VAR_7
+pos,VAR_8
+alen,VAR_9

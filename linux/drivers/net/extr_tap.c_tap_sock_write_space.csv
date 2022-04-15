@@ -1,0 +1,12 @@
+EPOLLOUT,VAR_0
+EPOLLWRBAND,VAR_1
+EPOLLWRNORM,VAR_2
+SOCKWQ_ASYNC_NOSPACE,VAR_3
+sk_sleep,FUNC_0
+sock_writeable,FUNC_1
+test_and_clear_bit,FUNC_2
+waitqueue_active,FUNC_3
+wake_up_interruptible_poll,FUNC_4
+tap_sock_write_space,FUNC_5
+sk,VAR_4
+wqueue,VAR_5

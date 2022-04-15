@@ -1,0 +1,13 @@
+ESP_ERR_NVS_NOT_FOUND,VAR_0
+ESP_OK,VAR_1
+NVS_READWRITE,VAR_2
+STORAGE_NAMESPACE,VAR_3
+nvs_close,FUNC_0
+nvs_commit,FUNC_1
+nvs_get_i32,FUNC_2
+nvs_open,FUNC_3
+nvs_set_i32,FUNC_4
+save_restart_counter,FUNC_5
+my_handle,VAR_4
+err,VAR_5
+restart_counter,VAR_6

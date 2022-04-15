@@ -1,0 +1,13 @@
+DRM_DEBUG_KMS,FUNC_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+INTEL_INFO,FUNC_3
+PIPESTAT,FUNC_4
+PIPE_VBLANK_INTERRUPT_STATUS,VAR_0
+ironlake_wait_for_vblank,FUNC_5
+wait_for,FUNC_6
+intel_wait_for_vblank,FUNC_7
+dev,VAR_1
+pipe,VAR_2
+dev_priv,VAR_3
+pipestat_reg,VAR_4

@@ -1,0 +1,14 @@
+CONTROL_RTS,VAR_0
+RESEND_CTS_STATE,VAR_1
+send_control_msg,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+usb_clear_halt,FUNC_3
+usb_get_serial_port_data,FUNC_4
+usb_serial_generic_open,FUNC_5
+opticon_open,FUNC_6
+tty,VAR_2
+port,VAR_3
+priv,VAR_4
+flags,VAR_5
+res,VAR_6

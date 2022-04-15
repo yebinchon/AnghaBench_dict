@@ -1,0 +1,15 @@
+BRIDGE_IRQ_MASK,VAR_0
+CPU_TIMER2_AUTO,VAR_1
+CPU_TIMER2_EN,VAR_2
+IRQ_TIMER_WD_MASK,VAR_3
+RSTOUTn_MASK,VAR_4
+WD_RST_OUT_EN,VAR_5
+mv_get_timer_control,FUNC_0
+mv_set_timer_control,FUNC_1
+read_cpu_ctrl,FUNC_2
+timer_softc,VAR_6
+write_cpu_ctrl,FUNC_3
+mv_watchdog_enable_armv5,FUNC_4
+val,VAR_7
+irq_cause,VAR_8
+irq_mask,VAR_9

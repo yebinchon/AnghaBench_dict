@@ -1,0 +1,16 @@
+MPS_FLAGS_INTX,VAR_0
+MPS_FLAGS_MSI,VAR_1
+MPS_INIT,VAR_2
+MPS_MSIX_MAX,VAR_3
+MPS_MSI_MAX,VAR_4
+min,FUNC_0
+mps_alloc_msi,FUNC_1
+mps_alloc_msix,FUNC_2
+mps_dprint,FUNC_3
+pci_msi_count,FUNC_4
+pci_msix_count,FUNC_5
+mps_pci_alloc_interrupts,FUNC_6
+sc,VAR_5
+dev,VAR_6
+error,VAR_7
+msgs,VAR_8

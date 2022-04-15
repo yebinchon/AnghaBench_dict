@@ -1,0 +1,16 @@
+CH341_BIT_DTR,VAR_0
+CH341_BIT_RTS,VAR_1
+DEFAULT_BAUD_RATE,VAR_2
+ENOMEM,VAR_3
+GFP_KERNEL,VAR_4
+ch341_configure,FUNC_0
+dbg,FUNC_1
+init_waitqueue_head,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+spin_lock_init,FUNC_5
+usb_set_serial_port_data,FUNC_6
+ch341_attach,FUNC_7
+serial,VAR_5
+priv,VAR_6
+r,VAR_7

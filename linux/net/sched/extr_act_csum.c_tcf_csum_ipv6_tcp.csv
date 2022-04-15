@@ -1,0 +1,15 @@
+CHECKSUM_NONE,VAR_0
+IPPROTO_TCP,VAR_1
+SKB_GSO_TCPV6,VAR_2
+csum_ipv6_magic,FUNC_0
+csum_partial,FUNC_1
+ipv6_hdr,FUNC_2
+skb_is_gso,FUNC_3
+skb_shinfo,FUNC_4
+tcf_csum_skb_nextlayer,FUNC_5
+tcf_csum_ipv6_tcp,FUNC_6
+skb,VAR_3
+ihl,VAR_4
+ipl,VAR_5
+tcph,VAR_6
+ip6h,VAR_7

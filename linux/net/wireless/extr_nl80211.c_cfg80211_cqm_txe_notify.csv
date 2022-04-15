@@ -1,0 +1,15 @@
+NL80211_ATTR_CQM_TXE_INTVL,VAR_0
+NL80211_ATTR_CQM_TXE_PKTS,VAR_1
+NL80211_ATTR_CQM_TXE_RATE,VAR_2
+cfg80211_prepare_cqm,FUNC_0
+cfg80211_send_cqm,FUNC_1
+nla_put_u32,FUNC_2
+nlmsg_free,FUNC_3
+cfg80211_cqm_txe_notify,FUNC_4
+dev,VAR_3
+peer,VAR_4
+num_packets,VAR_5
+rate,VAR_6
+intvl,VAR_7
+gfp,VAR_8
+msg,VAR_9

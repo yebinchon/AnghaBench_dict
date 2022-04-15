@@ -1,0 +1,14 @@
+SOUND_BLOCK_SIZE_NTSC,VAR_0
+lprintf,FUNC_0
+samples_block,VAR_1
+samples_done,VAR_2
+samples_made,VAR_3
+sceKernelCreateSema,FUNC_1
+sceKernelCreateThread,FUNC_2
+sceKernelStartThread,FUNC_3
+sound_sem,VAR_4
+sound_thread,VAR_5
+sound_thread_exit,VAR_6
+sound_init,FUNC_4
+thid,VAR_7
+ret,VAR_8

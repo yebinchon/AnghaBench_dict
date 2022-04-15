@@ -1,0 +1,15 @@
+CLOCK,VAR_0
+CPCCR,VAR_1
+__raw_writel,FUNC_0
+iob,FUNC_1
+lock_titan_regs,FUNC_2
+titan_readl,FUNC_3
+titan_writel,FUNC_4
+unlock_titan_regs,FUNC_5
+wd_ctr,VAR_2
+wd_regs,VAR_3
+wmb,FUNC_6
+wdt_gpi_set_timeout,FUNC_7
+to,VAR_4
+reg,VAR_5
+wdval,VAR_6

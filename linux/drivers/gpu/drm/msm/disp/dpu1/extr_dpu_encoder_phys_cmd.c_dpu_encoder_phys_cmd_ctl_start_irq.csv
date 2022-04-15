@@ -1,0 +1,10 @@
+DPU_ATRACE_BEGIN,FUNC_0
+DPU_ATRACE_END,FUNC_1
+atomic_add_unless,FUNC_2
+to_dpu_encoder_phys_cmd,FUNC_3
+wake_up_all,FUNC_4
+dpu_encoder_phys_cmd_ctl_start_irq,FUNC_5
+arg,VAR_0
+irq_idx,VAR_1
+phys_enc,VAR_2
+cmd_enc,VAR_3

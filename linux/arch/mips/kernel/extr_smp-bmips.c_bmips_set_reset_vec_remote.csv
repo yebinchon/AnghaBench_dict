@@ -1,0 +1,14 @@
+bmips_read_zscm_reg,FUNC_0
+bmips_write_zscm_reg,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+read_c0_brcm_bootvec,FUNC_4
+smp_call_function_single,FUNC_5
+smp_processor_id,FUNC_6
+write_c0_brcm_bootvec,FUNC_7
+bmips_set_reset_vec_remote,FUNC_8
+vinfo,VAR_0
+info,VAR_1
+shift,VAR_2
+mask,VAR_3
+val,VAR_4

@@ -1,0 +1,10 @@
+ARMV7_PMNC_ENABLE,VAR_0
+cp15_pmcnten_clr,FUNC_0
+cp15_pmcr_get,FUNC_1
+cp15_pmcr_set,FUNC_2
+cp15_pminten_clr,FUNC_3
+cp15_pmovsr_set,FUNC_4
+armv7_pcpu_fini,FUNC_5
+md,VAR_1
+cpu,VAR_2
+pmnc,VAR_3

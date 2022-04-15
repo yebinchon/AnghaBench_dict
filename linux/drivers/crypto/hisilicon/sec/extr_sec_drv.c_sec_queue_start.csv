@@ -1,0 +1,8 @@
+SEC_QUEUE_ENB_REG,VAR_0
+SEC_Q_INIT_AND_STAT_CLEAR,VAR_1
+SEC_Q_INIT_REG,VAR_2
+enable_irq,FUNC_0
+sec_queue_irq_enable,FUNC_1
+writel_relaxed,FUNC_2
+sec_queue_start,FUNC_3
+queue,VAR_3

@@ -1,0 +1,17 @@
+flush_work,FUNC_0
+iounmap,FUNC_1
+pci_disable_device,FUNC_2
+pci_get_drvdata,FUNC_3
+pci_release_regions,FUNC_4
+pmcraid_disable_interrupts,FUNC_5
+pmcraid_kill_tasklets,FUNC_6
+pmcraid_release_buffers,FUNC_7
+pmcraid_release_chrdev,FUNC_8
+pmcraid_shutdown,FUNC_9
+pmcraid_unregister_interrupt_handler,FUNC_10
+scsi_block_requests,FUNC_11
+scsi_host_put,FUNC_12
+scsi_remove_host,FUNC_13
+pmcraid_remove,FUNC_14
+pdev,VAR_0
+pinstance,VAR_1

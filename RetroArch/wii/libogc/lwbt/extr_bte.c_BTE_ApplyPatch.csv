@@ -1,0 +1,14 @@
+ERR_OK,VAR_0
+HCI_VENDOR_OGF,VAR_1
+HCI_VENDOR_PATCH_START_OCF,VAR_2
+_CPU_ISR_Disable,FUNC_0
+_CPU_ISR_Restore,FUNC_1
+bte_hci_apply_patch_complete,VAR_3
+btstate,VAR_4
+hci_arg,FUNC_2
+hci_cmd_complete,FUNC_3
+hci_vendor_specific_command,FUNC_4
+BTE_ApplyPatch,FUNC_5
+cb,VAR_5
+level,VAR_6
+kick,VAR_7

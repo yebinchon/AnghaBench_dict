@@ -1,0 +1,16 @@
+STM32H7_SPI_CR1,VAR_0
+STM32H7_SPI_CR1_SPE,VAR_1
+STM32H7_SPI_SR,VAR_2
+STM32H7_SPI_SR_TXP,VAR_3
+STM32H7_SPI_TXDR,VAR_4
+dev_dbg,FUNC_0
+readl_relaxed,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+stm32_spi_clr_bits,FUNC_4
+stm32_spi_set_bits,FUNC_5
+writeb_relaxed,FUNC_6
+stm32h7_spi_get_fifo_size,FUNC_7
+spi,VAR_5
+flags,VAR_6
+count,VAR_7

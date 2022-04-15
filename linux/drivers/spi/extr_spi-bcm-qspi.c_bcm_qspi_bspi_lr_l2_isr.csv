@@ -1,0 +1,16 @@
+BSPI_DONE,VAR_0
+INTR_BSPI_LR_SESSION_DONE_MASK,VAR_1
+IRQ_HANDLED,VAR_2
+bcm_qspi_bspi_flush_prefetch_buffers,FUNC_0
+bcm_qspi_bspi_lr_clear,FUNC_1
+bcm_qspi_bspi_lr_data_read,FUNC_2
+complete,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+bcm_qspi_bspi_lr_l2_isr,FUNC_6
+irq,VAR_3
+dev_id,VAR_4
+qspi_dev_id,VAR_5
+qspi,VAR_6
+soc_intc,VAR_7
+status,VAR_8

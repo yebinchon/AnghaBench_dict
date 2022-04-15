@@ -1,0 +1,17 @@
+BLK_NEEDS_REDO,VAR_0
+BufferGetPage,FUNC_0
+BufferIsValid,FUNC_1
+MarkBufferDirty,FUNC_2
+PageIndexMultiDelete,FUNC_3
+PageSetLSN,FUNC_4
+UnlockReleaseBuffer,FUNC_5
+XLogReadBufferForRedo,FUNC_6
+XLogRecGetData,FUNC_7
+spgRedoVacuumRoot,FUNC_8
+record,VAR_1
+lsn,VAR_2
+ptr,VAR_3
+xldata,VAR_4
+toDelete,VAR_5
+buffer,VAR_6
+page,VAR_7

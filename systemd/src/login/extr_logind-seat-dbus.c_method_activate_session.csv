@@ -1,0 +1,16 @@
+BUS_ERROR_NO_SUCH_SESSION,VAR_0
+BUS_ERROR_SESSION_NOT_ON_SEAT,VAR_1
+assert,FUNC_0
+hashmap_get,FUNC_1
+sd_bus_error_setf,FUNC_2
+sd_bus_message_read,FUNC_3
+sd_bus_reply_method_return,FUNC_4
+session_activate,FUNC_5
+method_activate_session,FUNC_6
+message,VAR_2
+userdata,VAR_3
+error,VAR_4
+s,VAR_5
+name,VAR_6
+session,VAR_7
+r,VAR_8

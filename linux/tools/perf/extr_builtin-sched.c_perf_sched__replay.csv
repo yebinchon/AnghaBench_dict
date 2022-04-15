@@ -1,0 +1,12 @@
+add_cross_task_wakeups,FUNC_0
+calibrate_run_measurement_overhead,FUNC_1
+calibrate_sleep_measurement_overhead,FUNC_2
+create_tasks,FUNC_3
+perf_sched__read_events,FUNC_4
+print_task_traces,FUNC_5
+printf,FUNC_6
+run_one_test,FUNC_7
+test_calibrations,FUNC_8
+perf_sched__replay,FUNC_9
+sched,VAR_0
+i,VAR_1

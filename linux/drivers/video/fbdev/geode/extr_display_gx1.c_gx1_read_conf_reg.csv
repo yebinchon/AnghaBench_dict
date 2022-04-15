@@ -1,0 +1,12 @@
+CONFIG_CCR3,VAR_0
+CONFIG_CCR3_MAPEN,VAR_1
+gx1_conf_reg_lock,VAR_2
+inb,FUNC_0
+outb,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+gx1_read_conf_reg,FUNC_4
+reg,VAR_3
+val,VAR_4
+ccr3,VAR_5
+flags,VAR_6

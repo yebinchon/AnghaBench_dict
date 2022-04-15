@@ -1,0 +1,16 @@
+AC_SCSI_AEN,VAR_0
+AHCI_CAP_SSNTF,VAR_1
+AHCI_P_SNTF,VAR_2
+ATA_OUTL,FUNC_0
+CAM_REQ_CMP,VAR_3
+bootverbose,VAR_4
+device_printf,FUNC_1
+xpt_async,FUNC_2
+xpt_create_path,FUNC_3
+xpt_free_path,FUNC_4
+xpt_path_path_id,FUNC_5
+ahci_notify_events,FUNC_6
+ch,VAR_5
+status,VAR_6
+dpath,VAR_7
+i,VAR_8

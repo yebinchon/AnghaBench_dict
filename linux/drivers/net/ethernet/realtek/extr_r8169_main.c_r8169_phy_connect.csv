@@ -1,0 +1,13 @@
+PHY_INTERFACE_MODE_GMII,VAR_0
+PHY_INTERFACE_MODE_MII,VAR_1
+SPEED_100,VAR_2
+phy_attached_info,FUNC_0
+phy_connect_direct,FUNC_1
+phy_set_max_speed,FUNC_2
+phy_support_asym_pause,FUNC_3
+r8169_phylink_handler,VAR_3
+r8169_phy_connect,FUNC_4
+tp,VAR_4
+phydev,VAR_5
+phy_mode,VAR_6
+ret,VAR_7

@@ -1,0 +1,12 @@
+m68k_set_bkpt_ack_callback,FUNC_0
+m68k_set_cmpild_instr_callback,FUNC_1
+m68k_set_fc_callback,FUNC_2
+m68k_set_instr_hook_callback,FUNC_3
+m68k_set_int_ack_callback,FUNC_4
+m68k_set_pc_changed_callback,FUNC_5
+m68k_set_reset_instr_callback,FUNC_6
+m68k_set_rte_instr_callback,FUNC_7
+m68k_set_tas_instr_callback,FUNC_8
+m68ki_build_opcode_table,FUNC_9
+m68k_init,FUNC_10
+emulation_initialized,VAR_0

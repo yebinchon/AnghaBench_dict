@@ -1,0 +1,11 @@
+PORTRANGE_FIRST,VAR_0
+PORTRANGE_LAST,VAR_1
+get_int_via_sysctlbyname,FUNC_0
+portrange_first,VAR_2
+portrange_last,VAR_3
+printf,FUNC_1
+rand,FUNC_2
+srand,FUNC_3
+generate_random_port,FUNC_4
+seed,VAR_4
+random_port,VAR_5

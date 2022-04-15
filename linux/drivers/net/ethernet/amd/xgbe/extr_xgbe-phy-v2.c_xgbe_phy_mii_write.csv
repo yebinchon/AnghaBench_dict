@@ -1,0 +1,15 @@
+ENOTSUPP,VAR_0
+XGBE_CONN_TYPE_MDIO,VAR_1
+XGBE_CONN_TYPE_SFP,VAR_2
+xgbe_phy_get_comm_ownership,FUNC_0
+xgbe_phy_i2c_mii_write,FUNC_1
+xgbe_phy_mdio_mii_write,FUNC_2
+xgbe_phy_put_comm_ownership,FUNC_3
+xgbe_phy_mii_write,FUNC_4
+mii,VAR_3
+addr,VAR_4
+reg,VAR_5
+val,VAR_6
+pdata,VAR_7
+phy_data,VAR_8
+ret,VAR_9

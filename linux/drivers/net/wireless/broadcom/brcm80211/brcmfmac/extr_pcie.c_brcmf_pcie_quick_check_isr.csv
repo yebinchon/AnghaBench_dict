@@ -1,0 +1,11 @@
+BRCMF_PCIE_PCIE2REG_MAILBOXINT,VAR_0
+IRQ_NONE,VAR_1
+IRQ_WAKE_THREAD,VAR_2
+PCIE,VAR_3
+brcmf_dbg,FUNC_0
+brcmf_pcie_intr_disable,FUNC_1
+brcmf_pcie_read_reg32,FUNC_2
+brcmf_pcie_quick_check_isr,FUNC_3
+irq,VAR_4
+arg,VAR_5
+devinfo,VAR_6

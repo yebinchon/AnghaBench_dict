@@ -1,0 +1,15 @@
+QLCNIC_H2C_OPCODE_CONFIG_IPADDR,VAR_0
+QLCNIC_HOST_REQUEST,VAR_1
+QLCNIC_IP_UP,VAR_2
+cpu_to_le64,FUNC_0
+dev_err,FUNC_1
+memset,FUNC_2
+qlcnic_send_cmd_descs,FUNC_3
+qlcnic_82xx_config_ipaddr,FUNC_4
+adapter,VAR_3
+ip,VAR_4
+cmd,VAR_5
+req,VAR_6
+ipa,VAR_7
+word,VAR_8
+rv,VAR_9

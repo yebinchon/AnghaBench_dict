@@ -1,0 +1,14 @@
+E1000_EERD,VAR_0
+E1000_EEWR,VAR_1
+E1000_ERR_NVM,VAR_2
+E1000_NVM_POLL_READ,VAR_3
+E1000_NVM_RW_REG_DONE,VAR_4
+rd32,FUNC_0
+udelay,FUNC_1
+igb_poll_eerd_eewr_done,FUNC_2
+hw,VAR_5
+ee_reg,VAR_6
+attempts,VAR_7
+i,VAR_8
+reg,VAR_9
+ret_val,VAR_10

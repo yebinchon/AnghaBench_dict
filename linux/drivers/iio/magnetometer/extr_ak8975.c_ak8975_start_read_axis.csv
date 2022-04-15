@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+MODE_ONCE,VAR_1
+ST1_DRDY,VAR_2
+ST2,VAR_3
+ST2_DERR,VAR_4
+ST2_HOFL,VAR_5
+ak8975_set_mode,FUNC_0
+dev_err,FUNC_1
+gpio_is_valid,FUNC_2
+i2c_smbus_read_byte_data,FUNC_3
+wait_conversion_complete_gpio,FUNC_4
+wait_conversion_complete_interrupt,FUNC_5
+wait_conversion_complete_polled,FUNC_6
+ak8975_start_read_axis,FUNC_7
+data,VAR_6
+client,VAR_7
+ret,VAR_8

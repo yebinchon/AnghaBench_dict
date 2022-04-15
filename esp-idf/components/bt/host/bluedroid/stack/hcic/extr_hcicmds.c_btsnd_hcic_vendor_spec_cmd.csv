@@ -1,0 +1,15 @@
+ARRAY_TO_STREAM,FUNC_0
+HCIC_PREAMBLE_SIZE,VAR_0
+HCI_GRP_VENDOR_SPECIFIC,VAR_1
+LOCAL_BR_EDR_CONTROLLER_ID,VAR_2
+UINT16_TO_STREAM,FUNC_1
+UINT8_TO_STREAM,FUNC_2
+btu_hcif_send_cmd,FUNC_3
+btsnd_hcic_vendor_spec_cmd,FUNC_4
+buffer,VAR_3
+opcode,VAR_4
+len,VAR_5
+p_data,VAR_6
+p_cmd_cplt_cback,VAR_7
+p,VAR_8
+pp,VAR_9

@@ -1,0 +1,7 @@
+IDETAPE_BLOCK_DESCRIPTOR,VAR_0
+IDETAPE_CAPABILITIES_PAGE,VAR_1
+MODE_SENSE,VAR_2
+ide_init_pc,FUNC_0
+idetape_create_mode_sense_cmd,FUNC_1
+pc,VAR_3
+page_code,VAR_4

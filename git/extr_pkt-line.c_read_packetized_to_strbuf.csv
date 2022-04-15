@@ -1,0 +1,12 @@
+LARGE_PACKET_DATA_MAX,VAR_0
+PACKET_READ_GENTLE_ON_EOF,VAR_1
+packet_read,FUNC_0
+strbuf_grow,FUNC_1
+strbuf_release,FUNC_2
+strbuf_setlen,FUNC_3
+read_packetized_to_strbuf,FUNC_4
+fd_in,VAR_2
+sb_out,VAR_3
+packet_len,VAR_4
+orig_len,VAR_5
+orig_alloc,VAR_6

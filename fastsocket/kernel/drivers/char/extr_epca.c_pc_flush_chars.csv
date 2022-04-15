@@ -1,0 +1,11 @@
+EMPTYWAIT,VAR_0
+TXBUSY,VAR_1
+epca_lock,VAR_2
+setup_empty_event,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+verifyChannel,FUNC_3
+pc_flush_chars,FUNC_4
+tty,VAR_3
+ch,VAR_4
+flags,VAR_5

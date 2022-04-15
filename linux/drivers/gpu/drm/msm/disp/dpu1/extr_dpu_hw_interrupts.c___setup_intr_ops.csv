@@ -1,0 +1,11 @@
+dpu_hw_intr_clear_intr_status_nolock,VAR_0
+dpu_hw_intr_clear_irqs,VAR_1
+dpu_hw_intr_disable_irq,VAR_2
+dpu_hw_intr_disable_irqs,VAR_3
+dpu_hw_intr_dispatch_irq,VAR_4
+dpu_hw_intr_enable_irq,VAR_5
+dpu_hw_intr_get_interrupt_status,VAR_6
+dpu_hw_intr_get_interrupt_statuses,VAR_7
+dpu_hw_intr_irqidx_lookup,VAR_8
+__setup_intr_ops,FUNC_0
+ops,VAR_9

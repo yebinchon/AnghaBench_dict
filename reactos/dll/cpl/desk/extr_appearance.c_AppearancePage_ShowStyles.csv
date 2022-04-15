@@ -1,0 +1,14 @@
+CB_ADDSTRING,VAR_0
+CB_RESETCONTENT,VAR_1
+CB_SETCURSEL,VAR_2
+CB_SETITEMDATA,VAR_3
+GetDlgItem,FUNC_0
+SendMessage,FUNC_1
+AppearancePage_ShowStyles,FUNC_2
+hwndDlg,VAR_4
+nIDDlgItem,VAR_5
+pStyles,VAR_6
+pActiveStyle,VAR_7
+iListIndex,VAR_8
+hwndList,VAR_9
+pCurrentStyle,VAR_10

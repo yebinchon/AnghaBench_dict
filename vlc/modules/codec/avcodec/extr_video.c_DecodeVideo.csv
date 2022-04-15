@@ -1,0 +1,15 @@
+BLOCK_FLAG_CORRUPTED,VAR_0
+BLOCK_FLAG_DISCONTINUITY,VAR_1
+DecodeBlock,FUNC_0
+FRAMEDROP_NONE,VAR_2
+VLC_TICK_INVALID,VAR_3
+block_Release,FUNC_1
+cc_Flush,FUNC_2
+date_Set,FUNC_3
+vlc_mutex_lock,FUNC_4
+vlc_mutex_unlock,FUNC_5
+DecodeVideo,FUNC_6
+p_dec,VAR_4
+p_block,VAR_5
+p_sys,VAR_6
+pp_block,VAR_7

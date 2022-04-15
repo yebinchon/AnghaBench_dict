@@ -1,0 +1,17 @@
+AST_VHUB_EP1_CTRL,VAR_0
+EPDBG,FUNC_0
+USB_ENDPOINT_HALT,VAR_1
+USB_ENDPOINT_NUMBER_MASK,VAR_2
+VHUB_EP1_CTRL_RESET_TOGGLE,VAR_3
+VHUB_EP1_CTRL_STALL,VAR_4
+readl,FUNC_1
+std_req_complete,VAR_5
+std_req_stall,VAR_6
+writel,FUNC_2
+ast_vhub_hub_ep_feature,FUNC_3
+ep,VAR_7
+wIndex,VAR_8
+wValue,VAR_9
+is_set,VAR_10
+ep_num,VAR_11
+reg,VAR_12

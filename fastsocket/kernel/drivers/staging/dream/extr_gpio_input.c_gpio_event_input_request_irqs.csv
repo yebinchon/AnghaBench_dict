@@ -1,0 +1,14 @@
+IRQF_TRIGGER_FALLING,VAR_0
+IRQF_TRIGGER_RISING,VAR_1
+enable_irq_wake,FUNC_0
+free_irq,FUNC_1
+gpio_event_input_irq_handler,VAR_2
+gpio_to_irq,FUNC_2
+pr_err,FUNC_3
+request_irq,FUNC_4
+gpio_event_input_request_irqs,FUNC_5
+ds,VAR_3
+i,VAR_4
+err,VAR_5
+irq,VAR_6
+req_flags,VAR_7

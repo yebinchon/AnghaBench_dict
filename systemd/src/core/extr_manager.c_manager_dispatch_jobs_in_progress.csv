@@ -1,0 +1,15 @@
+CLOCK_MONOTONIC,VAR_0
+JOBS_IN_PROGRESS_PERIOD_USEC,VAR_1
+SD_EVENT_ONESHOT,VAR_2
+assert,FUNC_0
+manager_print_jobs_in_progress,FUNC_1
+now,FUNC_2
+sd_event_source_set_enabled,FUNC_3
+sd_event_source_set_time,FUNC_4
+manager_dispatch_jobs_in_progress,FUNC_5
+source,VAR_3
+usec,VAR_4
+userdata,VAR_5
+m,VAR_6
+r,VAR_7
+next,VAR_8

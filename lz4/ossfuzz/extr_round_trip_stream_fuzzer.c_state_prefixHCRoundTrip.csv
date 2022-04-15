@@ -1,0 +1,12 @@
+FUZZ_ASSERT,FUNC_0
+FUZZ_rand32,FUNC_1
+LZ4_compress_HC_continue,FUNC_2
+state_decompress,FUNC_3
+state_prefixHCRoundTrip,FUNC_4
+state,VAR_0
+src,VAR_1
+dst,VAR_2
+srcRemaining,VAR_3
+srcSize,VAR_4
+dstCapacity,VAR_5
+cSize,VAR_6

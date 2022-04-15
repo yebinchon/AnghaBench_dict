@@ -1,0 +1,17 @@
+BRCM_BAND_5G,VAR_0
+M_PHYTYPE,VAR_1
+M_PHYVER,VAR_2
+brcms_b_set_cwmax,FUNC_0
+brcms_b_set_cwmin,FUNC_1
+brcms_b_upd_synthpu,FUNC_2
+brcms_b_update_slot_timing,FUNC_3
+brcms_b_write_shm,FUNC_4
+brcms_c_ucode_bsinit,FUNC_5
+brcms_c_ucode_txant_set,FUNC_6
+brcms_dbg_mac80211,FUNC_7
+brcms_upd_ofdm_pctl1_table,FUNC_8
+wlc_phy_init,FUNC_9
+brcms_b_bsinit,FUNC_10
+wlc,VAR_3
+chanspec,VAR_4
+wlc_hw,VAR_5

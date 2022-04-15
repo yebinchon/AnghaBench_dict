@@ -1,0 +1,16 @@
+PCL711_MODE_SOFTTRIG,VAR_0
+PCL711_SOFTTRIG,VAR_1
+PCL711_SOFTTRIG_REG,VAR_2
+comedi_timeout,FUNC_0
+outb,FUNC_1
+pcl711_ai_eoc,VAR_3
+pcl711_ai_get_sample,FUNC_2
+pcl711_ai_set_mode,FUNC_3
+pcl711_set_changain,FUNC_4
+pcl711_ai_insn_read,FUNC_5
+dev,VAR_4
+s,VAR_5
+insn,VAR_6
+data,VAR_7
+ret,VAR_8
+i,VAR_9

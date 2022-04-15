@@ -1,0 +1,14 @@
+CloseServiceHandle,FUNC_0
+FALSE,VAR_0
+GetLastError,FUNC_1
+OpenService,FUNC_2
+SERVICE_ALL_ACCESS,VAR_1
+StartService,FUNC_3
+WaitForService,FUNC_4
+logmsg,FUNC_5
+StartAudioService,FUNC_6
+hSCManager,VAR_2
+ServiceName,VAR_3
+RetryCount,VAR_4
+hService,VAR_5
+ret,VAR_6

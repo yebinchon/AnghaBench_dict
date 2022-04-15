@@ -1,0 +1,16 @@
+AccessShareLock,VAR_0
+Anum_continuous_aggs_completed_threshold_pkey_materialization_id,VAR_1
+BTEqualStrategyNumber,VAR_2
+CONTINUOUS_AGGS_COMPLETED_THRESHOLD,VAR_3
+CONTINUOUS_AGGS_COMPLETED_THRESHOLD_PKEY,VAR_4
+CONTINUOUS_AGGS_COMPLETED_THRESHOLD_TABLE_NAME,VAR_5
+F_INT4EQ,VAR_6
+Int32GetDatum,FUNC_0
+PG_INT64_MIN,VAR_7
+ScanKeyInit,FUNC_1
+completed_threshold_tuple_found,VAR_8
+ts_catalog_scan_one,FUNC_2
+completed_threshold_get,FUNC_3
+materialization_id,VAR_9
+threshold,VAR_10
+scankey,VAR_11

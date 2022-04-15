@@ -1,0 +1,15 @@
+BHND_ADDR_MAX,VAR_0
+EINVAL,VAR_1
+ENXIO,VAR_2
+RF_ACTIVE,VAR_3
+RF_SHAREABLE,VAR_4
+SYS_RES_MEMORY,VAR_5
+bhnd_alloc_resource,FUNC_0
+bhnd_release_resource,FUNC_1
+rman_get_size,FUNC_2
+rman_get_start,FUNC_3
+bhnd_erom_iores_map,FUNC_4
+eio,VAR_6
+addr,VAR_7
+size,VAR_8
+iores,VAR_9

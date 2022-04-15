@@ -1,0 +1,12 @@
+BUFSIZ,VAR_0
+MAXPGPATH,VAR_1
+getenv,FUNC_0
+geteuid,FUNC_1
+pqGetpwuid,FUNC_2
+snprintf,FUNC_3
+strlcpy,FUNC_4
+get_home_path,FUNC_5
+ret_path,VAR_2
+pwdbuf,VAR_3
+pwdstr,VAR_4
+pwd,VAR_5

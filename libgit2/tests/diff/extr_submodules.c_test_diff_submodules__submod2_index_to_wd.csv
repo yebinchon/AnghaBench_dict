@@ -1,0 +1,13 @@
+GIT_DIFF_INCLUDE_UNTRACKED,VAR_0
+GIT_DIFF_OPTIONS_INIT,VAR_1
+check_diff_patches,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_2
+git_diff_free,FUNC_3
+git_diff_index_to_workdir,FUNC_4
+setup_fixture_submod2,FUNC_5
+test_diff_submodules__submod2_index_to_wd,FUNC_6
+opts,VAR_3
+diff,VAR_4
+expected,VAR_5

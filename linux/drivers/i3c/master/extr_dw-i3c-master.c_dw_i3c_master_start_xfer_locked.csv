@@ -1,0 +1,14 @@
+COMMAND_QUEUE_PORT,VAR_0
+QUEUE_THLD_CTRL,VAR_1
+QUEUE_THLD_CTRL_RESP_BUF,FUNC_0
+QUEUE_THLD_CTRL_RESP_BUF_MASK,VAR_2
+dw_i3c_master_wr_tx_fifo,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+dw_i3c_master_start_xfer_locked,FUNC_4
+master,VAR_3
+xfer,VAR_4
+i,VAR_5
+thld_ctrl,VAR_6
+cmd,VAR_7
+cmd,VAR_8

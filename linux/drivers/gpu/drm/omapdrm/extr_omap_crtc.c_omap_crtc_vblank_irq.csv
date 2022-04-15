@@ -1,0 +1,14 @@
+DBG,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_vblank_put,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+stub1,FUNC_5
+to_omap_crtc,FUNC_6
+wake_up,FUNC_7
+omap_crtc_vblank_irq,FUNC_8
+crtc,VAR_0
+omap_crtc,VAR_1
+dev,VAR_2
+priv,VAR_3
+pending,VAR_4

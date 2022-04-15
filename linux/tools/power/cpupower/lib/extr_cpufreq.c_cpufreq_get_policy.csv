@@ -1,0 +1,10 @@
+SCALING_GOVERNOR,VAR_0
+SCALING_MAX_FREQ,VAR_1
+SCALING_MIN_FREQ,VAR_2
+free,FUNC_0
+malloc,FUNC_1
+sysfs_cpufreq_get_one_string,FUNC_2
+sysfs_cpufreq_get_one_value,FUNC_3
+cpufreq_get_policy,FUNC_4
+cpu,VAR_3
+policy,VAR_4

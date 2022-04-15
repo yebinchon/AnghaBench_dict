@@ -1,0 +1,17 @@
+IS_ERR,FUNC_0
+NVME_SC_INVALID_OPCODE,VAR_0
+debugfs_create_bool,FUNC_1
+debugfs_create_dir,FUNC_2
+debugfs_create_x16,FUNC_3
+debugfs_remove_recursive,FUNC_4
+fail_default_attr,VAR_1
+fail_request,VAR_2
+fault_create_debugfs_attr,FUNC_5
+pr_warn,FUNC_6
+setup_fault_attr,FUNC_7
+nvme_fault_inject_init,FUNC_8
+fault_inj,VAR_3
+dev_name,VAR_4
+dir,VAR_5
+parent,VAR_6
+attr,VAR_7

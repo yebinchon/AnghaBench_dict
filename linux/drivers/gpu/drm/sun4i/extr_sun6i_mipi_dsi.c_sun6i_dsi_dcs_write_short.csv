@@ -1,0 +1,10 @@
+DSI_START_LPTX,VAR_0
+SUN6I_DSI_CMD_CTL_REG,VAR_1
+SUN6I_DSI_CMD_TX_REG,FUNC_0
+regmap_write,FUNC_1
+regmap_write_bits,FUNC_2
+sun6i_dsi_dcs_build_pkt_hdr,FUNC_3
+sun6i_dsi_start,FUNC_4
+sun6i_dsi_dcs_write_short,FUNC_5
+dsi,VAR_2
+msg,VAR_3

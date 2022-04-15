@@ -1,0 +1,15 @@
+DM_TX_OVERHEAD,VAR_0
+__skb_push,FUNC_0
+__skb_put,FUNC_1
+dev_kfree_skb_any,FUNC_2
+memset,FUNC_3
+skb_copy_expand,FUNC_4
+skb_headroom,FUNC_5
+skb_tailroom,FUNC_6
+dm9601_tx_fixup,FUNC_7
+dev,VAR_1
+skb,VAR_2
+flags,VAR_3
+len,VAR_4
+pad,VAR_5
+skb2,VAR_6

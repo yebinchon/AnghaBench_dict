@@ -1,0 +1,12 @@
+ACPI_FUNCTION_TRACE,FUNC_0
+ACPI_NUM_MUTEX,VAR_0
+acpi_gbl_gpe_lock,VAR_1
+acpi_gbl_hardware_lock,VAR_2
+acpi_gbl_namespace_rw_lock,VAR_3
+acpi_os_delete_lock,FUNC_1
+acpi_ut_delete_mutex,FUNC_2
+acpi_ut_delete_rw_lock,FUNC_3
+return_VOID,VAR_4
+ut_mutex_terminate,VAR_5
+acpi_ut_mutex_terminate,FUNC_4
+i,VAR_6

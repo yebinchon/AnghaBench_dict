@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_STRING,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_NODE,FUNC_1
+SYSCTL_ADD_PROC,FUNC_2
+SYSCTL_CHILDREN,FUNC_3
+debug_called,FUNC_4
+devtoname,FUNC_5
+isc_dump_stats,VAR_4
+sdebug,FUNC_6
+sysctl_ctx_init,FUNC_7
+sysctl_handle_string,VAR_5
+isc_add_sysctls,FUNC_8
+sp,VAR_6

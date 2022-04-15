@@ -1,0 +1,14 @@
+TWL6030_CFG_STATE_GRP_SHIFT,VAR_0
+TWL6030_CFG_STATE_ON,VAR_1
+TWL6032_SUBCLASS,VAR_2
+TWL_MODULE_PM_RECEIVER,VAR_3
+VREG_STATE,VAR_4
+rdev_get_drvdata,FUNC_0
+twl_class_is_6030,FUNC_1
+twlreg_grp,FUNC_2
+twlreg_write,FUNC_3
+twl6030reg_enable,FUNC_4
+rdev,VAR_5
+info,VAR_6
+grp,VAR_7
+ret,VAR_8

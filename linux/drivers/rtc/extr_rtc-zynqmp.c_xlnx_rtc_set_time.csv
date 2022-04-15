@@ -1,0 +1,13 @@
+RTC_CALIB_MASK,VAR_0
+RTC_CALIB_WR,VAR_1
+RTC_INT_SEC,VAR_2
+RTC_INT_STS,VAR_3
+RTC_SET_TM_WR,VAR_4
+dev_get_drvdata,FUNC_0
+rtc_tm_to_time64,FUNC_1
+writel,FUNC_2
+xlnx_rtc_set_time,FUNC_3
+dev,VAR_5
+tm,VAR_6
+xrtcdev,VAR_7
+new_time,VAR_8

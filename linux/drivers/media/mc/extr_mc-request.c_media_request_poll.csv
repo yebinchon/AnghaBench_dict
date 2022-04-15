@@ -1,0 +1,14 @@
+EPOLLERR,VAR_0
+EPOLLPRI,VAR_1
+MEDIA_REQUEST_STATE_COMPLETE,VAR_2
+MEDIA_REQUEST_STATE_QUEUED,VAR_3
+poll_requested_events,FUNC_0
+poll_wait,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+media_request_poll,FUNC_4
+filp,VAR_4
+wait,VAR_5
+req,VAR_6
+flags,VAR_7
+ret,VAR_8

@@ -1,0 +1,16 @@
+ixgbevf_get_tx_ring_stats,FUNC_0
+ixgbevf_update_stats,FUNC_1
+netdev_priv,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+u64_stats_fetch_begin_irq,FUNC_5
+u64_stats_fetch_retry_irq,FUNC_6
+ixgbevf_get_stats,FUNC_7
+netdev,VAR_0
+stats,VAR_1
+adapter,VAR_2
+start,VAR_3
+bytes,VAR_4
+packets,VAR_5
+ring,VAR_6
+i,VAR_7

@@ -1,0 +1,12 @@
+ACPI_FAILURE,FUNC_0
+AcpiEvaluateObject,FUNC_1
+BUS_ADD_CHILD,FUNC_2
+acpi_get_handle,FUNC_3
+device_find_child,FUNC_4
+device_printf,FUNC_5
+device_probe_and_attach,FUNC_6
+acpi_perf_identify,FUNC_7
+driver,VAR_0
+parent,VAR_1
+handle,VAR_2
+dev,VAR_3

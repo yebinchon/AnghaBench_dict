@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+GFP_ATOMIC,VAR_1
+GFP_DMA,VAR_2
+INIT_WORK,FUNC_0
+dasd_get_device,FUNC_1
+dasd_path_verification_mutex,VAR_3
+do_path_verification_work,VAR_4
+kmalloc,FUNC_2
+memset,FUNC_3
+mutex_trylock,FUNC_4
+path_verification_worker,VAR_5
+schedule_work,FUNC_5
+dasd_eckd_verify_path,FUNC_6
+device,VAR_6
+lpm,VAR_7
+data,VAR_8

@@ -1,0 +1,12 @@
+HINIC_QP_CTXT_TYPE_SQ,VAR_0
+RQ_CTXT_OFFSET,FUNC_0
+SIZE_16BYTES,FUNC_1
+SQ_CTXT_OFFSET,FUNC_2
+hinic_cpu_to_be32,FUNC_3
+hinic_qp_prepare_header,FUNC_4
+qp_ctxt_hdr,VAR_1
+ctxt_type,VAR_2
+num_queues,VAR_3
+max_queues,VAR_4
+max_sqs,VAR_5
+max_rqs,VAR_6

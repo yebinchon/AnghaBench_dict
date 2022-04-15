@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+PageLocked,FUNC_1
+PageWriteback,FUNC_2
+buffer_dirty,FUNC_3
+buffer_locked,FUNC_4
+page_buffers,FUNC_5
+page_has_buffers,FUNC_6
+buffer_check_dirty_writeback,FUNC_7
+page,VAR_0
+dirty,VAR_1
+writeback,VAR_2
+head,VAR_3
+bh,VAR_4

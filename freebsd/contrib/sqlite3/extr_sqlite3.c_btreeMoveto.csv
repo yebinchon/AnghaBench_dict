@@ -1,0 +1,16 @@
+SQLITE_CORRUPT_BKPT,VAR_0
+SQLITE_NOMEM_BKPT,VAR_1
+assert,FUNC_0
+sqlite3BtreeMovetoUnpacked,FUNC_1
+sqlite3DbFree,FUNC_2
+sqlite3VdbeAllocUnpackedRecord,FUNC_3
+sqlite3VdbeRecordUnpack,FUNC_4
+btreeMoveto,FUNC_5
+pCur,VAR_2
+pKey,VAR_3
+nKey,VAR_4
+bias,VAR_5
+pRes,VAR_6
+rc,VAR_7
+pIdxKey,VAR_8
+pKeyInfo,VAR_9

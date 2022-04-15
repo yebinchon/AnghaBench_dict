@@ -1,0 +1,16 @@
+KASSERT,FUNC_0
+VMCLEAR,FUNC_1
+VMCS_EOI_EXIT,FUNC_2
+VMPTRLD,FUNC_3
+vcpu_is_running,FUNC_4
+vmcs_read,FUNC_5
+vmcs_write,FUNC_6
+vmx_set_tmr,FUNC_7
+vlapic,VAR_0
+vector,VAR_1
+level,VAR_2
+vlapic_vtx,VAR_3
+vmx,VAR_4
+vmcs,VAR_5
+mask,VAR_6
+val,VAR_7

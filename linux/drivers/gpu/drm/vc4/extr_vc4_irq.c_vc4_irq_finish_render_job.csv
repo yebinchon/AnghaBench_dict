@@ -1,0 +1,17 @@
+dma_fence_put,FUNC_0
+dma_fence_signal_locked,FUNC_1
+list_move_tail,FUNC_2
+schedule_work,FUNC_3
+to_vc4_dev,FUNC_4
+vc4_first_bin_job,FUNC_5
+vc4_first_render_job,FUNC_6
+vc4_perfmon_stop,FUNC_7
+vc4_submit_next_bin_job,FUNC_8
+vc4_submit_next_render_job,FUNC_9
+wake_up_all,FUNC_10
+vc4_irq_finish_render_job,FUNC_11
+dev,VAR_0
+vc4,VAR_1
+exec,VAR_2
+nextbin,VAR_3
+nextrender,VAR_4

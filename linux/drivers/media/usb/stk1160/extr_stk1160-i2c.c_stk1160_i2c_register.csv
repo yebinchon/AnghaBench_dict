@@ -1,0 +1,12 @@
+STK1160_ASIC,VAR_0
+STK1160_SICTL_CD,VAR_1
+adap_template,VAR_2
+client_template,VAR_3
+i2c_add_adapter,FUNC_0
+i2c_set_adapdata,FUNC_1
+stk1160_err,FUNC_2
+stk1160_write_reg,FUNC_3
+strscpy,FUNC_4
+stk1160_i2c_register,FUNC_5
+dev,VAR_4
+rc,VAR_5

@@ -1,0 +1,17 @@
+BT_MAXALLOC,VAR_0
+MTX_DEF,VAR_1
+UMA_ALIGN_PTR,VAR_2
+UMA_ZONE_NOFREE,VAR_3
+UMA_ZONE_VM,VAR_4
+mp_ncpus,VAR_5
+mtx_init,FUNC_0
+uma_prealloc,FUNC_1
+uma_zcreate,FUNC_2
+uma_zone_reserve,FUNC_3
+uma_zone_set_allocf,FUNC_4
+vmem_bt_alloc,VAR_6
+vmem_bt_lock,VAR_7
+vmem_bt_zone,VAR_8
+vmem_list_lock,VAR_9
+vmem_zone,VAR_10
+vmem_startup,FUNC_5

@@ -1,0 +1,11 @@
+UART_CTL_REG,VAR_0
+UART_CTL_XMITBRK_MASK,VAR_1
+bcm_uart_readl,FUNC_0
+bcm_uart_writel,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+bcm_uart_break_ctl,FUNC_4
+port,VAR_2
+ctl,VAR_3
+flags,VAR_4
+val,VAR_5

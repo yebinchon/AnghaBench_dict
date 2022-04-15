@@ -1,0 +1,16 @@
+DAS1600_BURST_REG,VAR_0
+DAS16_CTRL_DMAE,VAR_1
+DAS16_CTRL_INTE,VAR_2
+DAS16_CTRL_PACING_MASK,VAR_3
+DAS16_CTRL_REG,VAR_4
+comedi_isadma_disable,FUNC_0
+del_timer,FUNC_1
+outb,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+das16_cancel,FUNC_5
+dev,VAR_5
+s,VAR_6
+devpriv,VAR_7
+dma,VAR_8
+flags,VAR_9

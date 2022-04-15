@@ -1,0 +1,8 @@
+PCICFG_GRC_ADDRESS,VAR_0
+PCICFG_GRC_DATA,VAR_1
+PCICFG_VENDOR_ID_OFFSET,VAR_2
+pci_write_config_dword,FUNC_0
+bnx2x_reg_wr_ind,FUNC_1
+bp,VAR_3
+addr,VAR_4
+val,VAR_5

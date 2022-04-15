@@ -1,0 +1,16 @@
+atkbd_activate,FUNC_0
+atkbd_disable,FUNC_1
+atkbd_enable,FUNC_2
+atkbd_probe,FUNC_3
+atkbd_select_set,FUNC_4
+atkbd_set_leds,FUNC_5
+atkbd_set_repeat_rate,FUNC_6
+dev_dbg,FUNC_7
+mutex_lock,FUNC_8
+mutex_unlock,FUNC_9
+serio_get_drvdata,FUNC_10
+atkbd_reconnect,FUNC_11
+serio,VAR_0
+atkbd,VAR_1
+drv,VAR_2
+retval,VAR_3

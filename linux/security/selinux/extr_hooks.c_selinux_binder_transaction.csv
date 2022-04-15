@@ -1,0 +1,14 @@
+BINDER__CALL,VAR_0
+BINDER__IMPERSONATE,VAR_1
+SECCLASS_BINDER,VAR_2
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_state,VAR_3
+task_sid,FUNC_2
+selinux_binder_transaction,FUNC_3
+from,VAR_4
+to,VAR_5
+mysid,VAR_6
+fromsid,VAR_7
+tosid,VAR_8
+rc,VAR_9

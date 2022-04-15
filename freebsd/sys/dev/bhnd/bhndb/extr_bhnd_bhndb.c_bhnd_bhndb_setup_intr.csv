@@ -1,0 +1,17 @@
+BHNDB_ROUTE_INTERRUPTS,FUNC_0
+KASSERT,FUNC_1
+bhnd_generic_setup_intr,FUNC_2
+device_get_nameunit,FUNC_3
+device_get_parent,FUNC_4
+bhnd_bhndb_setup_intr,FUNC_5
+dev,VAR_0
+child,VAR_1
+irq,VAR_2
+flags,VAR_3
+filter,VAR_4
+intr,VAR_5
+arg,VAR_6
+cookiep,VAR_7
+core,VAR_8
+bus,VAR_9
+error,VAR_10

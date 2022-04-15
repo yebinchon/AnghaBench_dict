@@ -1,0 +1,13 @@
+AZX_PPLCCTL_STRM_MASK,VAR_0
+AZX_PPLCCTL_STRM_SHIFT,VAR_1
+AZX_REG_PPLCCTL,VAR_2
+AZX_REG_PPLCFMT,VAR_3
+readl,FUNC_0
+snd_hdac_ext_link_stream_clear,FUNC_1
+writel,FUNC_2
+writew,FUNC_3
+snd_hdac_ext_link_stream_setup,FUNC_4
+stream,VAR_4
+fmt,VAR_5
+hstream,VAR_6
+val,VAR_7

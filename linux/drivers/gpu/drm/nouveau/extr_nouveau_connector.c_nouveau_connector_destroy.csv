@@ -1,0 +1,10 @@
+drm_connector_cleanup,FUNC_0
+drm_connector_unregister,FUNC_1
+drm_dp_aux_unregister,FUNC_2
+drm_dp_cec_unregister_connector,FUNC_3
+kfree,FUNC_4
+nouveau_connector,FUNC_5
+nvif_notify_fini,FUNC_6
+nouveau_connector_destroy,FUNC_7
+connector,VAR_0
+nv_connector,VAR_1

@@ -1,0 +1,16 @@
+CDNS_I2C_CR_DIVA_MASK,VAR_0
+CDNS_I2C_CR_DIVA_SHIFT,VAR_1
+CDNS_I2C_CR_DIVB_MASK,VAR_2
+CDNS_I2C_CR_DIVB_SHIFT,VAR_3
+CDNS_I2C_CR_OFFSET,VAR_4
+cdns_i2c_calc_divs,FUNC_0
+cdns_i2c_readreg,FUNC_1
+cdns_i2c_writereg,FUNC_2
+cdns_i2c_setclk,FUNC_3
+clk_in,VAR_5
+id,VAR_6
+div_a,VAR_7
+div_b,VAR_8
+ctrl_reg,VAR_9
+ret,VAR_10
+fscl,VAR_11

@@ -1,0 +1,12 @@
+BIO_number_read,FUNC_0
+BIO_number_written,FUNC_1
+SSL_get_rbio,FUNC_2
+SSL_get_wbio,FUNC_3
+bufferevent_decrement_read_buckets_,FUNC_4
+bufferevent_decrement_write_buckets_,FUNC_5
+decrement_buckets,FUNC_6
+bev_ssl,VAR_0
+num_w,VAR_1
+num_r,VAR_2
+w,VAR_3
+r,VAR_4

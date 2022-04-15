@@ -1,0 +1,16 @@
+PageHighMem,FUNC_0
+edac_atomic_scrub,FUNC_1
+edac_dbg,FUNC_2
+kmap_atomic,FUNC_3
+kunmap_atomic,FUNC_4
+local_irq_restore,FUNC_5
+local_irq_save,FUNC_6
+pfn_to_page,FUNC_7
+pfn_valid,FUNC_8
+edac_mc_scrub_block,FUNC_9
+page,VAR_0
+offset,VAR_1
+size,VAR_2
+pg,VAR_3
+virt_addr,VAR_4
+flags,VAR_5

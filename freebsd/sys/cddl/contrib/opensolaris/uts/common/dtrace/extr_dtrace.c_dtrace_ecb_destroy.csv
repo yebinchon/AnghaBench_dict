@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+MUTEX_HELD,FUNC_1
+dtrace_ecb_action_remove,FUNC_2
+dtrace_lock,VAR_0
+dtrace_predicate_release,FUNC_3
+kmem_free,FUNC_4
+dtrace_ecb_destroy,FUNC_5
+ecb,VAR_1
+state,VAR_2
+vstate,VAR_3
+pred,VAR_4
+epid,VAR_5

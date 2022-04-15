@@ -1,0 +1,12 @@
+HCI_CMND_WLAN_IOCTL_GET_SCAN_RESULTS,VAR_0
+HEADERS_SIZE_CMD,VAR_1
+SimpleLinkWaitEvent,FUNC_0
+UINT32_TO_STREAM,FUNC_1
+WLAN_GET_SCAN_RESULTS_PARAMS_LEN,VAR_2
+hci_command_send,FUNC_2
+tSLInformation,VAR_3
+wlan_ioctl_get_scan_results,FUNC_3
+ulScanTimeout,VAR_4
+ucResults,VAR_5
+ptr,VAR_6
+args,VAR_7

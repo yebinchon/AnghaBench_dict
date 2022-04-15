@@ -1,0 +1,16 @@
+XFER_UDMA_0,VAR_0
+XFER_UDMA_3,VAR_1
+XFER_UDMA_6,VAR_2
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+to_pci_dev,FUNC_2
+ali_set_dma_mode,FUNC_3
+drive,VAR_3
+speed,VAR_4
+hwif,VAR_5
+dev,VAR_6
+speed1,VAR_7
+unit,VAR_8
+tmpbyte,VAR_9
+m5229_udma,VAR_10
+ultra_enable,VAR_11

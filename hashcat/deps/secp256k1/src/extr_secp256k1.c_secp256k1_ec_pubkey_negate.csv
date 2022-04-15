@@ -1,0 +1,11 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+memset,FUNC_2
+secp256k1_ge_neg,FUNC_3
+secp256k1_pubkey_load,FUNC_4
+secp256k1_pubkey_save,FUNC_5
+secp256k1_ec_pubkey_negate,FUNC_6
+ctx,VAR_0
+pubkey,VAR_1
+ret,VAR_2
+p,VAR_3

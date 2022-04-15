@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+EXT4_XATTR_NEXT,FUNC_1
+IS_LAST_ENTRY,FUNC_2
+cpu_to_le16,FUNC_3
+le16_to_cpu,FUNC_4
+le32_to_cpu,FUNC_5
+memmove,FUNC_6
+ext4_xattr_shift_entries,FUNC_7
+entry,VAR_0
+value_offs_shift,VAR_1
+to,VAR_2
+from,VAR_3
+n,VAR_4
+blocksize,VAR_5
+last,VAR_6
+new_offs,VAR_7

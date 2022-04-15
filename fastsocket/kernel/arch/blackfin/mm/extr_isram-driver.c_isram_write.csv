@@ -1,0 +1,15 @@
+IADDR2DTEST,FUNC_0
+L1_CODE_LENGTH,VAR_0
+L1_CODE_START,VAR_1
+__builtin_bfin_csync,FUNC_1
+bfin_write_DTEST_COMMAND,FUNC_2
+bfin_write_DTEST_DATA0,FUNC_3
+bfin_write_DTEST_DATA1,FUNC_4
+dtest_lock,VAR_2
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+isram_write,FUNC_7
+addr,VAR_3
+data,VAR_4
+cmd,VAR_5
+flags,VAR_6

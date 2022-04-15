@@ -1,0 +1,17 @@
+EPERM,VAR_0
+TPG_STATE_FREE,VAR_1
+TPG_STATE_INACTIVE,VAR_2
+core_tpg_deregister,FUNC_0
+iscsi_release_param_list,FUNC_1
+iscsit_release_sessions_for_tpg,FUNC_2
+kfree,FUNC_3
+list_del,FUNC_4
+pr_debug,FUNC_5
+pr_err,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+iscsit_tpg_del_portal_group,FUNC_9
+tiqn,VAR_3
+tpg,VAR_4
+force,VAR_5
+old_state,VAR_6

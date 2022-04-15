@@ -1,0 +1,16 @@
+FF800_RX_PACKET_FORMAT,VAR_0
+FF800_STF,VAR_1
+TCODE_WRITE_QUADLET_REQUEST,VAR_2
+allocate_tx_resources,FUNC_0
+amdtp_stream_get_max_payload,FUNC_1
+cpu_to_le32,FUNC_2
+fw_iso_resources_allocate,FUNC_3
+fw_parent_device,FUNC_4
+msleep,FUNC_5
+snd_fw_transaction,FUNC_6
+ff800_allocate_resources,FUNC_7
+ff,VAR_3
+rate,VAR_4
+data,VAR_5
+reg,VAR_6
+err,VAR_7

@@ -1,0 +1,10 @@
+__iommu_queue_command_sync,FUNC_0
+build_completion_wait,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+wait_on_sem,FUNC_4
+iommu_completion_wait,FUNC_5
+iommu,VAR_0
+cmd,VAR_1
+flags,VAR_2
+ret,VAR_3

@@ -1,0 +1,8 @@
+VMREAD_BITMAP,VAR_0
+VMWRITE_BITMAP,VAR_1
+__pa,FUNC_0
+enable_shadow_vmcs,VAR_2
+vmcs_write64,FUNC_1
+vmx_vmread_bitmap,VAR_3
+vmx_vmwrite_bitmap,VAR_4
+nested_vmx_vcpu_setup,FUNC_2

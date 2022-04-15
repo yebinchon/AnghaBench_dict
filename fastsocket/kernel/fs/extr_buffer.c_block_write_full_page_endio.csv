@@ -1,0 +1,16 @@
+PAGE_CACHE_SHIFT,VAR_0
+PAGE_CACHE_SIZE,VAR_1
+__block_write_full_page,FUNC_0
+do_invalidatepage,FUNC_1
+i_size_read,FUNC_2
+unlock_page,FUNC_3
+zero_user_segment,FUNC_4
+block_write_full_page_endio,FUNC_5
+page,VAR_2
+get_block,VAR_3
+wbc,VAR_4
+handler,VAR_5
+inode,VAR_6
+i_size,VAR_7
+end_index,VAR_8
+offset,VAR_9

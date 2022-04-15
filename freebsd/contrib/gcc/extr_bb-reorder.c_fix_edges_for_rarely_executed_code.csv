@@ -1,0 +1,13 @@
+HAS_LONG_COND_BRANCH,VAR_0
+HAS_LONG_UNCOND_BRANCH,VAR_1
+add_labels_and_missing_jumps,FUNC_0
+add_reg_crossing_jump_notes,FUNC_1
+fix_crossing_conditional_branches,FUNC_2
+fix_crossing_unconditional_branches,FUNC_3
+fix_up_fall_thru_edges,FUNC_4
+get_insns,FUNC_5
+max_reg_num,FUNC_6
+reg_scan,FUNC_7
+fix_edges_for_rarely_executed_code,FUNC_8
+crossing_edges,VAR_2
+n_crossing_edges,VAR_3

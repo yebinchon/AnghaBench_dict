@@ -1,0 +1,16 @@
+AR5312_IMR,VAR_0
+AR5312_ISR,VAR_1
+AR5312_MISC_IRQ_TIMER,VAR_2
+AR5312_TIMER,VAR_3
+__ffs,FUNC_0
+ar5312_rst_reg_read,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_handler_data,FUNC_3
+irq_find_mapping,FUNC_4
+spurious_interrupt,FUNC_5
+ar5312_misc_irq_handler,FUNC_6
+desc,VAR_4
+pending,VAR_5
+nr,VAR_6
+misc_irq,VAR_7
+domain,VAR_8

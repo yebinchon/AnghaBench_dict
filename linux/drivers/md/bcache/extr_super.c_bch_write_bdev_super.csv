@@ -1,0 +1,14 @@
+__write_super,FUNC_0
+bch_write_bdev_super_unlock,VAR_0
+bio_reset,FUNC_1
+bio_set_dev,FUNC_2
+closure_get,FUNC_3
+closure_init,FUNC_4
+closure_return_with_destructor,FUNC_5
+down,FUNC_6
+write_bdev_super_endio,VAR_1
+bch_write_bdev_super,FUNC_7
+dc,VAR_2
+parent,VAR_3
+cl,VAR_4
+bio,VAR_5

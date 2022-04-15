@@ -1,0 +1,7 @@
+DEBUGCTLMSR_FREEZE_IN_SMM_BIT,VAR_0
+MSR_IA32_DEBUGCTLMSR,VAR_1
+msr_clear_bit,FUNC_0
+msr_set_bit,FUNC_1
+flip_smm_bit,FUNC_2
+data,VAR_2
+set,VAR_3

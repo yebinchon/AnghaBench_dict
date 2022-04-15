@@ -1,0 +1,16 @@
+DEF_LRSSI_ROAM_FLOOR,VAR_0
+DEF_LRSSI_SCAN_PERIOD,VAR_1
+DEF_SCAN_FOR_ROAM_INTVL,VAR_2
+ENOMEM,VAR_3
+NO_SYNC_WMIFLAG,VAR_4
+WMI_SET_LRSSI_SCAN_PARAMS,VAR_5
+WMI_SET_ROAM_CTRL_CMDID,VAR_6
+a_cpu_to_sle16,FUNC_0
+ath6kl_wmi_cmd_send,FUNC_1
+ath6kl_wmi_get_new_buf,FUNC_2
+cpu_to_le16,FUNC_3
+ath6kl_wmi_set_roam_lrssi_cmd,FUNC_4
+wmi,VAR_7
+lrssi,VAR_8
+skb,VAR_9
+cmd,VAR_10

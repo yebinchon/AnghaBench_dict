@@ -1,0 +1,16 @@
+SVN__STREAM_CHUNK_SIZE,VAR_0
+apr_palloc,FUNC_0
+svn_error_compose_create,FUNC_1
+svn_stream_close,FUNC_2
+svn_stream_read_full,FUNC_3
+svn_stream_write,FUNC_4
+svn_stream_copy3,FUNC_5
+from,VAR_1
+to,VAR_2
+cancel_func,VAR_3
+cancel_baton,VAR_4
+scratch_pool,VAR_5
+buf,VAR_6
+err,VAR_7
+err2,VAR_8
+len,VAR_9

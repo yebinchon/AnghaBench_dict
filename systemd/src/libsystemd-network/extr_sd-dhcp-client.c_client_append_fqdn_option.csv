@@ -1,0 +1,13 @@
+DHCP_FQDN_FLAG_E,VAR_0
+DHCP_FQDN_FLAG_S,VAR_1
+DHCP_MAX_FQDN_LENGTH,VAR_2
+SD_DHCP_OPTION_FQDN,VAR_3
+dhcp_option_append,FUNC_0
+dns_name_to_wire_format,FUNC_1
+client_append_fqdn_option,FUNC_2
+message,VAR_4
+optlen,VAR_5
+optoffset,VAR_6
+fqdn,VAR_7
+buffer,VAR_8
+r,VAR_9

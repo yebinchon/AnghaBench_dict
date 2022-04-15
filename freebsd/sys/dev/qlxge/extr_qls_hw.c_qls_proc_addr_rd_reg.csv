@@ -1,0 +1,13 @@
+Q81_CTL_PROC_ADDR,VAR_0
+Q81_CTL_PROC_ADDR_READ,VAR_1
+Q81_CTL_PROC_DATA,VAR_2
+READ_REG32,FUNC_0
+WRITE_REG32,FUNC_1
+qls_wait_for_proc_addr_ready,FUNC_2
+qls_proc_addr_rd_reg,FUNC_3
+ha,VAR_3
+addr_module,VAR_4
+reg,VAR_5
+data,VAR_6
+ret,VAR_7
+value,VAR_8

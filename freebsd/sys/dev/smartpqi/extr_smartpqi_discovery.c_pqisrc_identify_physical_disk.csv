@@ -1,0 +1,15 @@
+BMIC_GET_DRIVE_NUMBER,FUNC_0
+BMIC_IDENTIFY_PHYSICAL_DEVICE,VAR_0
+DBG_FUNC,FUNC_1
+PQI_STATUS_SUCCESS,VAR_1
+RAID_CTLR_LUNID,VAR_2
+memset,FUNC_2
+pqisrc_build_send_raid_request,FUNC_3
+pqisrc_identify_physical_disk,FUNC_4
+softs,VAR_3
+device,VAR_4
+buff,VAR_5
+buf_len,VAR_6
+ret,VAR_7
+bmic_device_index,VAR_8
+request,VAR_9

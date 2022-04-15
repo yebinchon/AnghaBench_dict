@@ -1,0 +1,10 @@
+MSG_DEBUG,VAR_0
+WIFI_APPIE_WPS_AR,VAR_1
+WPS_REQ_ENROLLEE,VAR_2
+esp_wifi_set_appie_internal,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_free,FUNC_2
+wpabuf_head,FUNC_3
+wps_build_assoc_req_ie,FUNC_4
+wps_build_ic_appie_wps_ar,FUNC_5
+buf,VAR_3

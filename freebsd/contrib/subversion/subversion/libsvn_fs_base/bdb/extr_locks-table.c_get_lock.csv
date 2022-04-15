@@ -1,0 +1,15 @@
+SVN_ERR_FS_BAD_LOCK_TOKEN,VAR_0
+SVN_ERR_FS_LOCK_EXPIRED,VAR_1
+SVN_NO_ERROR,VAR_2
+svn_error_clear,FUNC_0
+svn_error_trace,FUNC_1
+svn_fs_bdb__lock_get,FUNC_2
+svn_fs_bdb__lock_token_delete,FUNC_3
+get_lock,FUNC_4
+lock_p,VAR_3
+fs,VAR_4
+path,VAR_5
+lock_token,VAR_6
+trail,VAR_7
+pool,VAR_8
+err,VAR_9

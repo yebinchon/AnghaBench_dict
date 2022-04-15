@@ -1,0 +1,14 @@
+BUS_MATCH_DRIVER,VAR_0
+BUS_MATCH_GENERIC,VAR_1
+BUS_MATCH_INTERFACE,VAR_2
+BUS_MATCH_LOCAL,VAR_3
+BUS_MATCH_PATH,VAR_4
+BUS_MATCH_SENDER,VAR_5
+assert,FUNC_0
+streq_ptr,FUNC_1
+bus_match_get_scope,FUNC_2
+components,VAR_6
+n_components,VAR_7
+found_driver,VAR_8
+i,VAR_9
+c,VAR_10

@@ -1,0 +1,16 @@
+DEFAULT_PWD,VAR_0
+DEFAULT_SSID,VAR_1
+GOT_IP_EVENT,VAR_2
+TEST_ASSERT,FUNC_0
+TEST_ESP_OK,FUNC_1
+WIFI_IF_STA,VAR_3
+esp_wifi_connect,FUNC_2
+esp_wifi_set_config,FUNC_3
+memcpy,FUNC_4
+portTICK_RATE_MS,VAR_4
+wifi_events,VAR_5
+xEventGroupWaitBits,FUNC_5
+wifi_connect_by_bssid,FUNC_6
+bssid,VAR_6
+bits,VAR_7
+w_config,VAR_8

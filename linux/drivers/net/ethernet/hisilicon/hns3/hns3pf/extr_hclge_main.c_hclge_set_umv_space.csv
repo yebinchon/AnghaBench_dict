@@ -1,0 +1,16 @@
+HCLGE_OPC_MAC_VLAN_ALLOCATE,VAR_0
+HCLGE_UMV_SPC_ALC_B,VAR_1
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hnae3_set_bit,FUNC_4
+le32_to_cpu,FUNC_5
+hclge_set_umv_space,FUNC_6
+hdev,VAR_2
+space_size,VAR_3
+allocated_size,VAR_4
+is_alloc,VAR_5
+req,VAR_6
+desc,VAR_7
+ret,VAR_8

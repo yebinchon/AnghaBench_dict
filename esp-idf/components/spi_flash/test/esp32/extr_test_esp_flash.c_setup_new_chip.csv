@@ -1,0 +1,10 @@
+TEST_ESP_OK,FUNC_0
+esp_flash_init,FUNC_1
+setup_bus,FUNC_2
+spi_bus_add_flash_device,FUNC_3
+setup_new_chip,FUNC_4
+test_cfg,VAR_0
+out_chip,VAR_1
+dev_cfg,VAR_2
+init_chip,VAR_3
+err,VAR_4

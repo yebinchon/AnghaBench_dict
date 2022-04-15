@@ -1,0 +1,14 @@
+ASC_IRNCR_TIR,VAR_0
+IRQ_HANDLED,VAR_1
+LTQ_ASC_IRNCR,VAR_2
+__raw_writel,FUNC_0
+lqasc_start_tx,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_ltq_uart_port,FUNC_4
+lqasc_tx_int,FUNC_5
+irq,VAR_3
+_port,VAR_4
+flags,VAR_5
+port,VAR_6
+ltq_port,VAR_7

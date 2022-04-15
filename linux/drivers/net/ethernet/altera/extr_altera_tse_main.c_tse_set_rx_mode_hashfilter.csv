@@ -1,0 +1,14 @@
+IFF_ALLMULTI,VAR_0
+IFF_PROMISC,VAR_1
+MAC_CMDCFG_PROMIS_EN,VAR_2
+altera_tse_set_mcfilter,FUNC_0
+altera_tse_set_mcfilterall,FUNC_1
+command_config,VAR_3
+netdev_priv,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+tse_csroffs,FUNC_5
+tse_set_bit,FUNC_6
+tse_set_rx_mode_hashfilter,FUNC_7
+dev,VAR_4
+priv,VAR_5

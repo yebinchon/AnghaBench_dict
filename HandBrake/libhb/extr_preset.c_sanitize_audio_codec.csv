@@ -1,0 +1,17 @@
+HB_ACODEC_AUTO_PASS,VAR_0
+HB_ACODEC_INVALID,VAR_1
+HB_ACODEC_NONE,VAR_2
+HB_ACODEC_PASS_FLAG,VAR_3
+HB_ACODEC_PASS_MASK,VAR_4
+hb_audio_encoder_get_default,FUNC_0
+hb_audio_encoder_get_fallback_for_passthru,FUNC_1
+hb_audio_encoder_get_next,FUNC_2
+hb_autopassthru_get_encoder,FUNC_3
+sanitize_audio_codec,FUNC_4
+in_codec,VAR_5
+out_codec,VAR_6
+copy_mask,VAR_7
+fallback,VAR_8
+mux,VAR_9
+codec,VAR_10
+encoder,VAR_11

@@ -1,0 +1,14 @@
+GEN11_GTPM,VAR_0
+I915_READ,FUNC_0
+INTEL_GEN,FUNC_1
+READ_ONCE,FUNC_2
+WARN_ON_ONCE,FUNC_3
+gen11_gt_reset_one_iir,FUNC_4
+gen6_gt_pm_enable_irq,FUNC_5
+gen6_pm_iir,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+gen6_enable_rps_interrupts,FUNC_9
+dev_priv,VAR_1
+gt,VAR_2
+rps,VAR_3

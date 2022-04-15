@@ -1,0 +1,15 @@
+SETTING_BRIGHTNESS,VAR_0
+SETTING_CONTRAST,VAR_1
+SETTING_GAMMA,VAR_2
+SETTING_OPACITY,VAR_3
+obs_data_get_double,FUNC_0
+obs_data_get_int,FUNC_1
+vec4_from_rgba,FUNC_2
+color_settings_update,FUNC_3
+filter,VAR_4
+settings,VAR_5
+opacity,VAR_6
+color,VAR_7
+contrast,VAR_8
+brightness,VAR_9
+gamma,VAR_10

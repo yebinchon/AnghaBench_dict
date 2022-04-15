@@ -1,0 +1,14 @@
+NET_FLASH_PAUSE,VAR_0
+NO_NETWORK_ACTIVITY,VAR_1
+e100_set_network_leds,FUNC_0
+jiffies,VAR_2
+led_active,VAR_3
+led_next_time,VAR_4
+netdev_priv,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+time_after,FUNC_4
+e100_clear_network_leds,FUNC_5
+dummy,VAR_5
+dev,VAR_6
+np,VAR_7

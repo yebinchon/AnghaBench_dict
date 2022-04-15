@@ -1,0 +1,17 @@
+ALIGNMENT,VAR_0
+STRAUSS_SCRATCH_OBJECTS,VAR_1
+ctx,VAR_2
+secp256k1_ecmult_multi_var,VAR_3
+secp256k1_ecmult_pippenger_batch_single,VAR_4
+secp256k1_ecmult_strauss_batch_single,VAR_5
+secp256k1_scratch_create,FUNC_0
+secp256k1_scratch_destroy,FUNC_1
+secp256k1_strauss_scratch_size,FUNC_2
+test_ecmult_multi,FUNC_3
+test_ecmult_multi_batch_single,FUNC_4
+test_ecmult_multi_batch_size_helper,FUNC_5
+test_ecmult_multi_batching,FUNC_6
+test_ecmult_multi_pippenger_max_points,FUNC_7
+test_secp256k1_pippenger_bucket_window_inv,FUNC_8
+run_ecmult_multi_tests,FUNC_9
+scratch,VAR_6

@@ -1,0 +1,13 @@
+CONFIG_EXYNOS_MCPM,VAR_0
+IS_ENABLED,FUNC_0
+MPIDR_AFFINITY_LEVEL,FUNC_1
+exynos_cpu_resume,VAR_1
+mcpm_cpu_suspend,FUNC_2
+mcpm_set_entry_vector,FUNC_3
+pr_info,FUNC_4
+read_cpuid_mpidr,FUNC_5
+exynos5420_cpu_suspend,FUNC_6
+arg,VAR_2
+mpidr,VAR_3
+cluster,VAR_4
+cpu,VAR_5

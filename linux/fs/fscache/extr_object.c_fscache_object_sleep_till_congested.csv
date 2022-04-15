@@ -1,0 +1,11 @@
+DEFINE_WAIT,FUNC_0
+add_wait_queue_exclusive,FUNC_1
+finish_wait,FUNC_2
+fscache_object_cong_wait,VAR_0
+fscache_object_congested,FUNC_3
+schedule_timeout,FUNC_4
+this_cpu_ptr,FUNC_5
+wait,VAR_1
+fscache_object_sleep_till_congested,FUNC_6
+timeoutp,VAR_2
+cong_wq,VAR_3

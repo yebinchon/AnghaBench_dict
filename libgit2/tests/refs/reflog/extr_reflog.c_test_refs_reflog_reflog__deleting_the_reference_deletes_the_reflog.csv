@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_REFLOG_DIR,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_2
+git_buf_cstr,FUNC_2
+git_buf_dispose,FUNC_3
+git_buf_joinpath,FUNC_4
+git_path_isfile,FUNC_5
+git_reference_delete,FUNC_6
+git_reference_free,FUNC_7
+git_reference_lookup,FUNC_8
+git_repository_path,FUNC_9
+test_refs_reflog_reflog__deleting_the_reference_deletes_the_reflog,FUNC_10
+master,VAR_3
+master_log_path,VAR_4

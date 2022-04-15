@@ -1,0 +1,17 @@
+SNMP_ERR_NOERROR,VAR_0
+SNMP_PDU_TRAP2,VAR_1
+SNMP_SYNTAX_OID,VAR_2
+SNMP_SYNTAX_TIMETICKS,VAR_3
+SNMP_V2c,VAR_4
+get_ticks,FUNC_0
+memset,FUNC_1
+oid_snmpTrapOID,VAR_5
+oid_sysUpTime,VAR_6
+reqid_next,FUNC_2
+start_tick,VAR_7
+strlcpy,FUNC_3
+trap_reqid,VAR_8
+snmp_create_v2_trap,FUNC_4
+pdu,VAR_9
+com,VAR_10
+trap_oid,VAR_11

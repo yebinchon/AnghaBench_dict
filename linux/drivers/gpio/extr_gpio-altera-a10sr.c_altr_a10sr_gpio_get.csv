@@ -1,0 +1,11 @@
+ALTR_A10SR_LED_VALID_SHIFT,VAR_0
+ALTR_A10SR_PBDSW_REG,VAR_1
+BIT,FUNC_0
+gpiochip_get_data,FUNC_1
+regmap_read,FUNC_2
+altr_a10sr_gpio_get,FUNC_3
+chip,VAR_2
+offset,VAR_3
+gpio,VAR_4
+ret,VAR_5
+val,VAR_6

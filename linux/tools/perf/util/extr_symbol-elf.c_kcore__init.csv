@@ -1,0 +1,17 @@
+ELF_C_WRITE,VAR_0
+O_CREAT,VAR_1
+O_EXCL,VAR_2
+O_WRONLY,VAR_3
+close,FUNC_0
+elf_begin,FUNC_1
+elf_end,FUNC_2
+gelf_newehdr,FUNC_3
+memset,FUNC_4
+mkstemp,FUNC_5
+open,FUNC_6
+unlink,FUNC_7
+kcore__init,FUNC_8
+kcore,VAR_4
+filename,VAR_5
+elfclass,VAR_6
+temp,VAR_7

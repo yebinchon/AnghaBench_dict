@@ -1,0 +1,17 @@
+DBUS_TYPE_STRING,VAR_0
+PLAYBACK_STATUS_PAUSED,VAR_1
+PLAYBACK_STATUS_PLAYING,VAR_2
+PLAYBACK_STATUS_STOPPED,VAR_3
+VLC_ENOMEM,VAR_4
+VLC_SUCCESS,VAR_5
+dbus_message_iter_append_basic,FUNC_0
+vlc_player_GetState,FUNC_1
+vlc_player_Lock,FUNC_2
+vlc_player_Unlock,FUNC_3
+vlc_playlist_GetPlayer,FUNC_4
+MarshalPlaybackStatus,FUNC_5
+p_intf,VAR_6
+container,VAR_7
+player,VAR_8
+state,VAR_9
+psz_playback_status,VAR_10

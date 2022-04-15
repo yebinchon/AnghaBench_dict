@@ -1,0 +1,12 @@
+CVMX_L2D_ERR,VAR_0
+CVMX_L2T_ERR,VAR_1
+cvmx_read_csr,FUNC_0
+cvmx_write_csr,FUNC_1
+edac_device_handle_ce,FUNC_2
+edac_device_handle_ue,FUNC_3
+octeon_l2c_poll_oct1,FUNC_4
+l2c,VAR_2
+l2t_err,VAR_3
+l2t_err_reset,VAR_4
+l2d_err,VAR_5
+l2d_err_reset,VAR_6

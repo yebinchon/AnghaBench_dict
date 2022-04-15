@@ -1,0 +1,17 @@
+ERROR,VAR_0
+PGRES_COMMAND_OK,VAR_1
+PGRES_TUPLES_OK,VAR_2
+PQcmdTuples,FUNC_0
+PQntuples,FUNC_1
+PQresultStatus,FUNC_2
+PQsendQueryParams,FUNC_3
+atoi,FUNC_4
+pgfdw_get_result,FUNC_5
+pgfdw_report_error,FUNC_6
+process_query_params,FUNC_7
+execute_dml_stmt,FUNC_8
+node,VAR_3
+dmstate,VAR_4
+econtext,VAR_5
+numParams,VAR_6
+values,VAR_7

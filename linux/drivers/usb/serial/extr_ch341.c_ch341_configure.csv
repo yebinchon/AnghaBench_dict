@@ -1,0 +1,17 @@
+CH341_REQ_READ_VERSION,VAR_0
+CH341_REQ_SERIAL_INIT,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+ch341_control_in,FUNC_0
+ch341_control_out,FUNC_1
+ch341_set_baudrate_lcr,FUNC_2
+ch341_set_handshake,FUNC_3
+dev_dbg,FUNC_4
+kfree,FUNC_5
+kmalloc,FUNC_6
+ch341_configure,FUNC_7
+dev,VAR_4
+priv,VAR_5
+size,VAR_6
+buffer,VAR_7
+r,VAR_8

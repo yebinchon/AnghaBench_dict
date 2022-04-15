@@ -1,0 +1,15 @@
+BUS_PROBE_NOWILDCARD,VAR_0
+ENXIO,VAR_1
+PCIM_HDRTYPE,VAR_2
+PCIM_HDRTYPE_NORMAL,VAR_3
+device_get_ivars,FUNC_0
+pci_get_bus,FUNC_1
+pci_get_function,FUNC_2
+pci_get_slot,FUNC_3
+vmm_is_pptdev,FUNC_4
+ppt_probe,FUNC_5
+dev,VAR_4
+bus,VAR_5
+slot,VAR_6
+func,VAR_7
+dinfo,VAR_8

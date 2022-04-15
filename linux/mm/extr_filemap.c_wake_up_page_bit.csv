@@ -1,0 +1,17 @@
+ClearPageWaiters,FUNC_0
+INIT_LIST_HEAD,FUNC_1
+TASK_NORMAL,VAR_0
+WQ_FLAG_BOOKMARK,VAR_1
+__wake_up_locked_key_bookmark,FUNC_2
+cpu_relax,FUNC_3
+page_waitqueue,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+waitqueue_active,FUNC_7
+wake_up_page_bit,FUNC_8
+page,VAR_2
+bit_nr,VAR_3
+q,VAR_4
+key,VAR_5
+flags,VAR_6
+bookmark,VAR_7

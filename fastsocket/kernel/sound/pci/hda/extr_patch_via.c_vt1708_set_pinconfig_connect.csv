@@ -1,0 +1,12 @@
+AC_JACK_PORT_BOTH,VAR_0
+AC_JACK_PORT_NONE,VAR_1
+get_defcfg_association,FUNC_0
+get_defcfg_connect,FUNC_1
+get_defcfg_sequence,FUNC_2
+snd_hda_codec_get_pincfg,FUNC_3
+snd_hda_codec_set_pincfg,FUNC_4
+vt1708_set_pinconfig_connect,FUNC_5
+codec,VAR_2
+nid,VAR_3
+def_conf,VAR_4
+seqassoc,VAR_5

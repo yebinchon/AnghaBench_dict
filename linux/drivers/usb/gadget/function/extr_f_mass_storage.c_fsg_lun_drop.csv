@@ -1,0 +1,13 @@
+config_item_put,FUNC_0
+fsg_common_remove_lun,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_fsg_lun_opts,FUNC_4
+to_fsg_opts,FUNC_5
+unregister_gadget_item,FUNC_6
+fsg_lun_drop,FUNC_7
+group,VAR_0
+item,VAR_1
+lun_opts,VAR_2
+fsg_opts,VAR_3
+gadget,VAR_4

@@ -1,0 +1,10 @@
+DPRINTF,FUNC_0
+UPLCOM_N_TRANSFER,VAR_0
+device_claim_softc,FUNC_1
+device_get_softc,FUNC_2
+ucom_detach,FUNC_3
+uplcom_free_softc,FUNC_4
+usbd_transfer_unsetup,FUNC_5
+uplcom_detach,FUNC_6
+dev,VAR_1
+sc,VAR_2

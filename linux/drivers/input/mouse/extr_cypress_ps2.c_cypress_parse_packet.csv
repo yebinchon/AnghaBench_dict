@@ -1,0 +1,14 @@
+ABS_MULTIFINGER_TAP,VAR_0
+BTN_LEFT_BIT,VAR_1
+BTN_RIGHT_BIT,VAR_2
+CYTP_BIT_ABS_PRESSURE,VAR_3
+CYTP_MAX_MT_SLOTS,VAR_4
+cypress_get_finger_count,FUNC_0
+memset,FUNC_1
+psmouse_dbg,FUNC_2
+cypress_parse_packet,FUNC_3
+psmouse,VAR_5
+cytp,VAR_6
+report_data,VAR_7
+packet,VAR_8
+header_byte,VAR_9

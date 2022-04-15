@@ -1,0 +1,17 @@
+do_on_head,FUNC_0
+mrb_gc_arena_restore,FUNC_1
+mrb_gc_arena_save,FUNC_2
+mrb_gc_protect,FUNC_3
+try_dispose_context,FUNC_4
+on_head,FUNC_5
+client,VAR_0
+errstr,VAR_1
+version,VAR_2
+status,VAR_3
+msg,VAR_4
+headers,VAR_5
+num_headers,VAR_6
+header_requires_dup,VAR_7
+ctx,VAR_8
+gc_arena,VAR_9
+cb,VAR_10

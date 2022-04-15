@@ -1,0 +1,15 @@
+APM_NO_ERROR,VAR_0
+APM_STATE_STANDBY,VAR_1
+APM_SUCCESS,VAR_2
+PMSG_RESUME,VAR_3
+PMSG_SUSPEND,VAR_4
+apm_error,FUNC_0
+dpm_resume_noirq,FUNC_1
+dpm_suspend_noirq,FUNC_2
+local_irq_disable,FUNC_3
+local_irq_enable,FUNC_4
+set_system_power_state,FUNC_5
+sysdev_resume,FUNC_6
+sysdev_suspend,FUNC_7
+standby,FUNC_8
+err,VAR_5

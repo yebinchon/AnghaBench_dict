@@ -1,0 +1,12 @@
+GET_LWP,FUNC_0
+GET_THREAD,FUNC_1
+PIDGET,FUNC_2
+is_thread,FUNC_3
+procfs_pid_to_str,FUNC_4
+procfs_suppress_run,VAR_0
+sprintf,FUNC_5
+thread_to_lwp,FUNC_6
+solaris_pid_to_str,FUNC_7
+ptid,VAR_1
+buf,VAR_2
+lwp,VAR_3

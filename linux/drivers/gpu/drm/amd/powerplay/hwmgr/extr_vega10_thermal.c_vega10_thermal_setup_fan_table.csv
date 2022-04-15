@@ -1,0 +1,11 @@
+GNLD_FAN_CONTROL,VAR_0
+PPSMC_MSG_SetFanTemperatureTarget,VAR_1
+PPTABLE,VAR_2
+pr_info,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+smum_smc_table_manager,FUNC_2
+vega10_thermal_setup_fan_table,FUNC_3
+hwmgr,VAR_3
+ret,VAR_4
+data,VAR_5
+table,VAR_6

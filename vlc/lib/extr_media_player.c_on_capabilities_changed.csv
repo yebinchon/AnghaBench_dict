@@ -1,0 +1,16 @@
+VLC_PLAYER_CAP_PAUSE,VAR_0
+VLC_PLAYER_CAP_SEEK,VAR_1
+libvlc_MediaPlayerPausableChanged,VAR_2
+libvlc_MediaPlayerSeekableChanged,VAR_3
+libvlc_event_send,FUNC_0
+on_capabilities_changed,FUNC_1
+player,VAR_4
+old_caps,VAR_5
+new_caps,VAR_6
+data,VAR_7
+mp,VAR_8
+event,VAR_9
+old_seekable,VAR_10
+new_seekable,VAR_11
+old_pauseable,VAR_12
+new_pauseable,VAR_13

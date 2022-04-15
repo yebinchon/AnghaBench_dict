@@ -1,0 +1,14 @@
+DASD_STATE_BASIC,VAR_0
+DASD_STATE_KNOWN,VAR_1
+DASD_STATE_NEW,VAR_2
+DASD_STATE_ONLINE,VAR_3
+DASD_STATE_READY,VAR_4
+DASD_STATE_UNFMT,VAR_5
+dasd_state_basic_to_known,FUNC_0
+dasd_state_known_to_new,FUNC_1
+dasd_state_online_to_ready,FUNC_2
+dasd_state_ready_to_basic,FUNC_3
+dasd_state_unfmt_to_basic,FUNC_4
+dasd_decrease_state,FUNC_5
+device,VAR_6
+rc,VAR_7

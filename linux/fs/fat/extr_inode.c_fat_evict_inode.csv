@@ -1,0 +1,9 @@
+clear_inode,FUNC_0
+fat_cache_inval_inode,FUNC_1
+fat_detach,FUNC_2
+fat_free_eofblocks,FUNC_3
+fat_truncate_blocks,FUNC_4
+invalidate_inode_buffers,FUNC_5
+truncate_inode_pages_final,FUNC_6
+fat_evict_inode,FUNC_7
+inode,VAR_0

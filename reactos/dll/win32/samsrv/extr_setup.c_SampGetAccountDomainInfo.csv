@@ -1,0 +1,14 @@
+ERR,FUNC_0
+LsaClose,FUNC_1
+LsaOpenPolicy,FUNC_2
+LsaQueryInformationPolicy,FUNC_3
+POLICY_VIEW_LOCAL_INFORMATION,VAR_0
+PolicyAccountDomainInformation,VAR_1
+STATUS_SUCCESS,VAR_2
+TRACE,FUNC_4
+memset,FUNC_5
+SampGetAccountDomainInfo,FUNC_6
+AccountDomainInfo,VAR_3
+ObjectAttributes,VAR_4
+PolicyHandle,VAR_5
+Status,VAR_6

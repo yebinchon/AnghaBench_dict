@@ -1,0 +1,17 @@
+VXGE_HW_INTR_MODE_IRQLINE,VAR_0
+VXGE_HW_MAX_VIRTUAL_PATHS,VAR_1
+VXGE_HW_VIRTUAL_PATH_HANDLE,FUNC_0
+VXGE_HW_VPATH_INTR_RX,VAR_2
+VXGE_HW_VPATH_INTR_TX,VAR_3
+__vxge_hw_pio_mem_write32_upper,FUNC_1
+readq,FUNC_2
+vxge_hw_device_mask_all,FUNC_3
+vxge_hw_device_unmask_all,FUNC_4
+vxge_hw_vpath_intr_enable,FUNC_5
+vxge_mBIT,FUNC_6
+writeq,FUNC_7
+vxge_hw_device_intr_enable,FUNC_8
+hldev,VAR_4
+i,VAR_5
+val64,VAR_6
+val32,VAR_7

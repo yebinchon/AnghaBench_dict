@@ -1,0 +1,10 @@
+CONFIG_ARM_DMA_USE_IOMMU,VAR_0
+CONFIG_IOMMU_DMA,VAR_1
+IS_ENABLED,FUNC_0
+arm_iommu_detach_device,FUNC_1
+clear_dma_max_seg_size,FUNC_2
+iommu_detach_device,FUNC_3
+drm_iommu_detach_device,FUNC_4
+drm_dev,VAR_2
+subdrv_dev,VAR_3
+priv,VAR_4

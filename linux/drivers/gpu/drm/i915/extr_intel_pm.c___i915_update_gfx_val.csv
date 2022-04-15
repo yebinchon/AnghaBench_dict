@@ -1,0 +1,14 @@
+GFXEC,VAR_0
+I915_READ,FUNC_0
+NSEC_PER_MSEC,VAR_1
+div_u64,FUNC_1
+do_div,FUNC_2
+ktime_get_raw_ns,FUNC_3
+lockdep_assert_held,FUNC_4
+mchdev_lock,VAR_2
+__i915_update_gfx_val,FUNC_5
+dev_priv,VAR_3
+now,VAR_4
+diff,VAR_5
+diffms,VAR_6
+count,VAR_7

@@ -1,0 +1,12 @@
+NFC_ATTR_DEVICE_INDEX,VAR_0
+NFC_ATTR_DEVICE_NAME,VAR_1
+NFC_ATTR_DEVICE_POWERED,VAR_2
+NFC_ATTR_PROTOCOLS,VAR_3
+NFC_ATTR_RF_MODE,VAR_4
+nfc_device_name,FUNC_0
+nla_put_string,FUNC_1
+nla_put_u32,FUNC_2
+nla_put_u8,FUNC_3
+nfc_genl_setup_device_added,FUNC_4
+dev,VAR_5
+msg,VAR_6

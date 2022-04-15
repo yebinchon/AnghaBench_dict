@@ -1,0 +1,10 @@
+dev_gro_receive,FUNC_0
+napi_skb_finish,FUNC_1
+skb_gro_reset_offset,FUNC_2
+skb_mark_napi_id,FUNC_3
+trace_napi_gro_receive_entry,FUNC_4
+trace_napi_gro_receive_exit,FUNC_5
+napi_gro_receive,FUNC_6
+napi,VAR_0
+skb,VAR_1
+ret,VAR_2

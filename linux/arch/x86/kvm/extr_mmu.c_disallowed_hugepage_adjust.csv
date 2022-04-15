@@ -1,0 +1,13 @@
+KVM_PAGES_PER_HPAGE,FUNC_0
+PT_PAGE_TABLE_LEVEL,VAR_0
+is_large_pte,FUNC_1
+is_nx_huge_page_enabled,FUNC_2
+is_shadow_present_pte,FUNC_3
+disallowed_hugepage_adjust,FUNC_4
+it,VAR_1
+gfn,VAR_2
+pfnp,VAR_3
+levelp,VAR_4
+level,VAR_5
+spte,VAR_6
+page_mask,VAR_7

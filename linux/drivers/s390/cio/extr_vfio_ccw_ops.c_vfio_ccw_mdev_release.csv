@@ -1,0 +1,15 @@
+VFIO_CCW_STATE_NOT_OPER,VAR_0
+VFIO_CCW_STATE_STANDBY,VAR_1
+VFIO_IOMMU_NOTIFY,VAR_2
+cp_free,FUNC_0
+dev_get_drvdata,FUNC_1
+kfree,FUNC_2
+mdev_dev,FUNC_3
+mdev_parent_dev,FUNC_4
+stub1,FUNC_5
+vfio_ccw_mdev_reset,FUNC_6
+vfio_unregister_notifier,FUNC_7
+vfio_ccw_mdev_release,FUNC_8
+mdev,VAR_3
+private,VAR_4
+i,VAR_5

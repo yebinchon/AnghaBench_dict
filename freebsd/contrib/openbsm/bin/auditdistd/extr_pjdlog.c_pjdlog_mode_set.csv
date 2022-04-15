@@ -1,0 +1,15 @@
+LOG_DAEMON,VAR_0
+LOG_NDELAY,VAR_1
+LOG_PID,VAR_2
+PJDLOG_INITIALIZED,VAR_3
+PJDLOG_MODE_STD,VAR_4
+PJDLOG_MODE_SYSLOG,VAR_5
+assert,FUNC_0
+closelog,FUNC_1
+errno,VAR_6
+openlog,FUNC_2
+pjdlog_initialized,VAR_7
+pjdlog_mode,VAR_8
+pjdlog_mode_set,FUNC_3
+mode,VAR_9
+saved_errno,VAR_10

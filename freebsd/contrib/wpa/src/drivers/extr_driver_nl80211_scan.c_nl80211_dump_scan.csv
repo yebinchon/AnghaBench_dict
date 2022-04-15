@@ -1,0 +1,11 @@
+MSG_DEBUG,VAR_0
+NL80211_CMD_GET_SCAN,VAR_1
+NLM_F_DUMP,VAR_2
+nl80211_cmd_msg,FUNC_0
+nl80211_dump_scan_handler,VAR_3
+send_and_recv_msgs,FUNC_1
+wpa_printf,FUNC_2
+nl80211_dump_scan,FUNC_3
+drv,VAR_4
+msg,VAR_5
+ctx,VAR_6

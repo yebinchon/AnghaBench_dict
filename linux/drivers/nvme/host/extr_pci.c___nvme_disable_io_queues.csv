@@ -1,0 +1,14 @@
+ADMIN_TIMEOUT,VAR_0
+NVMEQ_DELETE_ERROR,VAR_1
+nvme_admin_delete_cq,VAR_2
+nvme_delete_queue,FUNC_0
+nvme_poll_irqdisable,FUNC_1
+test_bit,FUNC_2
+wait_for_completion_io_timeout,FUNC_3
+__nvme_disable_io_queues,FUNC_4
+dev,VAR_3
+opcode,VAR_4
+nr_queues,VAR_5
+sent,VAR_6
+timeout,VAR_7
+nvmeq,VAR_8

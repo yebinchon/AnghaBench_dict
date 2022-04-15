@@ -1,0 +1,15 @@
+ABS_X,VAR_0
+BTN_TOUCH,VAR_1
+I8042_STR_AUXDATA,VAR_2
+input_report_abs,FUNC_0
+input_report_key,FUNC_1
+input_sync,FUNC_2
+likely,FUNC_3
+serio_interrupt,FUNC_4
+slidebar_input_dev,VAR_3
+slidebar_pos_get,FUNC_5
+slidebar_i8042_filter,FUNC_6
+data,VAR_4
+str,VAR_5
+port,VAR_6
+extended,VAR_7

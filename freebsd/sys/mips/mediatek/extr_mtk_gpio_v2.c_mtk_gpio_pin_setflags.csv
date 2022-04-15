@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+GPIO_PIN_INPUT,VAR_1
+GPIO_PIN_INVIN,VAR_2
+GPIO_PIN_INVOUT,VAR_3
+GPIO_PIN_OUTPUT,VAR_4
+MTK_GPIO_LOCK,FUNC_0
+MTK_GPIO_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+mtk_gpio_pin_set_direction,FUNC_3
+mtk_gpio_pin_set_invert,FUNC_4
+mtk_gpio_pin_setflags,FUNC_5
+dev,VAR_5
+pin,VAR_6
+flags,VAR_7
+sc,VAR_8
+retval,VAR_9

@@ -1,0 +1,12 @@
+CCV_NNC_GRAPH_EXEC_P_WHILE,VAR_0
+READ_ONLY,VAR_1
+TENSOR_EXPECT_UNASSIGNED,FUNC_0
+TENSOR_READ_WRITE,FUNC_1
+_ccv_nnc_is_symbolic_graph_exec_input_or_output,FUNC_2
+assert,FUNC_3
+_ccv_nnc_tensor_block_check_preserve,FUNC_4
+graph_prep,VAR_2
+block_ref,VAR_3
+p_ref,VAR_4
+vt_ref,VAR_5
+buffer_ref,VAR_6

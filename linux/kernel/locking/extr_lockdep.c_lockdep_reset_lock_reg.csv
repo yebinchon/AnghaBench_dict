@@ -1,0 +1,12 @@
+__lockdep_reset_lock,FUNC_0
+call_rcu_zapped,FUNC_1
+get_pending_free,FUNC_2
+graph_lock,FUNC_3
+graph_unlock,FUNC_4
+raw_local_irq_restore,FUNC_5
+raw_local_irq_save,FUNC_6
+lockdep_reset_lock_reg,FUNC_7
+lock,VAR_0
+pf,VAR_1
+flags,VAR_2
+locked,VAR_3

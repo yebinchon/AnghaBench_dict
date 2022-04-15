@@ -1,0 +1,13 @@
+BP_BREAKPOINT,VAR_0
+BP_POKE_BREAKPOINT,VAR_1
+BREAK_INSTR_SIZE,VAR_2
+EBUSY,VAR_3
+arch_kgdb_ops,VAR_4
+mutex_is_locked,FUNC_0
+probe_kernel_read,FUNC_1
+probe_kernel_write,FUNC_2
+text_mutex,VAR_5
+text_poke_kgdb,FUNC_3
+kgdb_arch_set_breakpoint,FUNC_4
+bpt,VAR_6
+err,VAR_7

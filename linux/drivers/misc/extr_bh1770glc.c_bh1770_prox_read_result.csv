@@ -1,0 +1,15 @@
+BH1770_PS_DATA_LED1,VAR_0
+ENODATA,VAR_1
+PROX_ABOVE_THRESHOLD,VAR_2
+PROX_BELOW_THRESHOLD,VAR_3
+PROX_IGNORE_LUX_LIMIT,VAR_4
+bh1770_prox_rate,FUNC_0
+bh1770_psraw_to_adjusted,FUNC_1
+i2c_smbus_read_byte_data,FUNC_2
+likely,FUNC_3
+sysfs_notify,FUNC_4
+bh1770_prox_read_result,FUNC_5
+chip,VAR_5
+ret,VAR_6
+above,VAR_7
+mode,VAR_8

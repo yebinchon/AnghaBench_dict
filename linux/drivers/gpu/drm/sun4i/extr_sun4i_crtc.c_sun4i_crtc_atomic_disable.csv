@@ -1,0 +1,13 @@
+DRM_DEBUG_DRIVER,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_to_sun4i_crtc,FUNC_2
+drm_crtc_vblank_off,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+sun4i_crtc_get_encoder,FUNC_6
+sun4i_tcon_set_status,FUNC_7
+sun4i_crtc_atomic_disable,FUNC_8
+crtc,VAR_0
+old_state,VAR_1
+encoder,VAR_2
+scrtc,VAR_3

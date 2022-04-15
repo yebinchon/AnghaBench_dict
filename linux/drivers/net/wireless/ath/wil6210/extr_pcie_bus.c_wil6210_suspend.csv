@@ -1,0 +1,17 @@
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+pci_clear_master,FUNC_2
+pci_get_drvdata,FUNC_3
+to_pci_dev,FUNC_4
+wil_can_suspend,FUNC_5
+wil_dbg_pm,FUNC_6
+wil_has_active_ifaces,FUNC_7
+wil_suspend,FUNC_8
+wil6210_suspend,FUNC_9
+dev,VAR_0
+is_runtime,VAR_1
+rc,VAR_2
+pdev,VAR_3
+wil,VAR_4
+keep_radio_on,VAR_5
+active_ifaces,VAR_6

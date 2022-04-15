@@ -1,0 +1,13 @@
+bus_to_hcd,FUNC_0
+stub1,FUNC_1
+usb_endpoint_dir_out,FUNC_2
+usb_endpoint_num,FUNC_3
+usb_endpoint_xfer_control,FUNC_4
+usb_settoggle,FUNC_5
+usb_hcd_reset_endpoint,FUNC_6
+udev,VAR_0
+ep,VAR_1
+hcd,VAR_2
+epnum,VAR_3
+is_out,VAR_4
+is_control,VAR_5

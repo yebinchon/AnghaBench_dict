@@ -1,0 +1,9 @@
+ADAU1977_REG_SAI_OVERTEMP,VAR_0
+ADAU1977_SAI_OVERTEMP_DRV_HIZ,VAR_1
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+adau1977_set_tristate,FUNC_2
+dai,VAR_2
+tristate,VAR_3
+adau1977,VAR_4
+val,VAR_5

@@ -1,0 +1,15 @@
+ERRNO_OFFSET,FUNC_0
+STRERR_BUFSIZE,VAR_0
+__BPF_LOADER_ERRNO__END,VAR_1
+__BPF_LOADER_ERRNO__START,VAR_2
+__LIBBPF_ERRNO__START,VAR_3
+bpf_loader_strerror_table,VAR_4
+libbpf_strerror,FUNC_1
+snprintf,FUNC_2
+str_error_r,FUNC_3
+bpf_loader_strerror,FUNC_4
+err,VAR_5
+buf,VAR_6
+size,VAR_7
+sbuf,VAR_8
+msg,VAR_9

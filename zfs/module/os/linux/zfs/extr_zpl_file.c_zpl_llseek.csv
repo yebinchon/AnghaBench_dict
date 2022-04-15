@@ -1,0 +1,13 @@
+SEEK_DATA,VAR_0
+SEEK_HOLE,VAR_1
+generic_file_llseek,FUNC_0
+lseek_execute,FUNC_1
+spl_fstrans_mark,FUNC_2
+spl_fstrans_unmark,FUNC_3
+spl_inode_lock_shared,FUNC_4
+spl_inode_unlock_shared,FUNC_5
+zfs_holey,FUNC_6
+zpl_llseek,FUNC_7
+filp,VAR_2
+offset,VAR_3
+whence,VAR_4

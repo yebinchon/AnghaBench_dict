@@ -1,0 +1,14 @@
+SNDRV_SEQ_IOCTL_CREATE_PORT,VAR_0
+memset,FUNC_0
+snd_seq_kernel_client_ctl,FUNC_1
+strlcpy,FUNC_2
+snd_seq_event_port_attach,FUNC_3
+client,VAR_1
+pcbp,VAR_2
+cap,VAR_3
+type,VAR_4
+midi_channels,VAR_5
+midi_voices,VAR_6
+portname,VAR_7
+portinfo,VAR_8
+ret,VAR_9

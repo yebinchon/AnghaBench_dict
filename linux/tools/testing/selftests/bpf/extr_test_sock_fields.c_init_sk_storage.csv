@@ -1,0 +1,11 @@
+BPF_NOEXIST,VAR_0
+CHECK,FUNC_0
+bpf_map_update_elem,FUNC_1
+errno,VAR_1
+sk_pkt_out_cnt10_fd,VAR_2
+sk_pkt_out_cnt_fd,VAR_3
+init_sk_storage,FUNC_2
+sk_fd,VAR_4
+pkt_out_cnt,VAR_5
+scnt,VAR_6
+err,VAR_7

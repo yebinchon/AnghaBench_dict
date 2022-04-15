@@ -1,0 +1,11 @@
+EFER_SVME,VAR_0
+SVM_VM_CR_SVM_DIS_MASK,VAR_1
+SVM_VM_CR_SVM_LOCK_MASK,VAR_2
+SVM_VM_CR_VALID_MASK,VAR_3
+to_svm,FUNC_0
+svm_set_vm_cr,FUNC_1
+vcpu,VAR_4
+data,VAR_5
+svm,VAR_6
+svm_dis,VAR_7
+chg_mask,VAR_8

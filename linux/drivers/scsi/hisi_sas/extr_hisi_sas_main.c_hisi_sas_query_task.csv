@@ -1,0 +1,13 @@
+SAS_PROTOCOL_SSP,VAR_0
+TMF_QUERY_TASK,VAR_1
+hisi_sas_debug_issue_ssp_tmf,FUNC_0
+int_to_scsilun,FUNC_1
+hisi_sas_query_task,FUNC_2
+task,VAR_2
+lun,VAR_3
+tmf_task,VAR_4
+rc,VAR_5
+cmnd,VAR_6
+device,VAR_7
+slot,VAR_8
+tag,VAR_9

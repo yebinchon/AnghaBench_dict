@@ -1,0 +1,14 @@
+ACL_LINK,VAR_0
+BT_DBG,FUNC_0
+HCI_CONN_RSWITCH_PEND,VAR_1
+HCI_LM_MASTER,VAR_2
+clear_bit,FUNC_1
+hci_conn_hash_lookup_ba,FUNC_2
+hci_dev_lock,FUNC_3
+hci_dev_unlock,FUNC_4
+hci_role_switch_cfm,FUNC_5
+hci_role_change_evt,FUNC_6
+hdev,VAR_3
+skb,VAR_4
+ev,VAR_5
+conn,VAR_6

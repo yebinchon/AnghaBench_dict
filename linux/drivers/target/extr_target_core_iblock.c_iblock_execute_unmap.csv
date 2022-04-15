@@ -1,0 +1,13 @@
+GFP_KERNEL,VAR_0
+IBLOCK_DEV,FUNC_0
+TCM_LOGICAL_UNIT_COMMUNICATION_FAILURE,VAR_1
+blkdev_issue_discard,FUNC_1
+pr_err,FUNC_2
+target_to_linux_sector,FUNC_3
+iblock_execute_unmap,FUNC_4
+cmd,VAR_2
+lba,VAR_3
+nolb,VAR_4
+bdev,VAR_5
+dev,VAR_6
+ret,VAR_7

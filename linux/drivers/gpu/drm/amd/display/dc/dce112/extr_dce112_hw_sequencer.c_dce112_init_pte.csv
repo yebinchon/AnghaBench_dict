@@ -1,0 +1,15 @@
+DVMM_PTE_REQ,VAR_0
+HFLIP_PTEREQ_PER_CHUNK_INT,VAR_1
+HFLIP_PTEREQ_PER_CHUNK_MULTIPLIER,VAR_2
+MAX_PTEREQ_TO_ISSUE,VAR_3
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+get_reg_field_value,FUNC_2
+mmDVMM_PTE_REQ,VAR_4
+set_reg_field_value,FUNC_3
+dce112_init_pte,FUNC_4
+ctx,VAR_5
+addr,VAR_6
+value,VAR_7
+chunk_int,VAR_8
+chunk_mul,VAR_9

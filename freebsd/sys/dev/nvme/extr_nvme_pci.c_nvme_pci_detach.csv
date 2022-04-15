@@ -1,0 +1,8 @@
+DEVICE2SOFTC,FUNC_0
+nvme_detach,FUNC_1
+pci_disable_busmaster,FUNC_2
+pci_release_msi,FUNC_3
+nvme_pci_detach,FUNC_4
+dev,VAR_0
+ctrlr,VAR_1
+rv,VAR_2

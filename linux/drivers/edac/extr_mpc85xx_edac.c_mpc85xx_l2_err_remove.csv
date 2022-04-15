@@ -1,0 +1,15 @@
+EDAC_OPSTATE_INT,VAR_0
+MPC85XX_L2_ERRDIS,VAR_1
+MPC85XX_L2_ERRINTEN,VAR_2
+dev_get_drvdata,FUNC_0
+edac_dbg,FUNC_1
+edac_device_del_device,FUNC_2
+edac_device_free_ctl_info,FUNC_3
+edac_op_state,VAR_3
+irq_dispose_mapping,FUNC_4
+orig_l2_err_disable,VAR_4
+out_be32,FUNC_5
+mpc85xx_l2_err_remove,FUNC_6
+op,VAR_5
+edac_dev,VAR_6
+pdata,VAR_7

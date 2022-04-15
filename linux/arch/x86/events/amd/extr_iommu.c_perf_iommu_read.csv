@@ -1,0 +1,15 @@
+COUNTER_SHIFT,VAR_0
+GENMASK_ULL,FUNC_0
+IOMMU_PC_COUNTER_REG,VAR_1
+amd_iommu_pc_get_reg,FUNC_1
+local64_add,FUNC_2
+local64_cmpxchg,FUNC_3
+local64_read,FUNC_4
+perf_event_2_iommu,FUNC_5
+perf_iommu_read,FUNC_6
+event,VAR_2
+count,VAR_3
+prev,VAR_4
+delta,VAR_5
+hwc,VAR_6
+iommu,VAR_7

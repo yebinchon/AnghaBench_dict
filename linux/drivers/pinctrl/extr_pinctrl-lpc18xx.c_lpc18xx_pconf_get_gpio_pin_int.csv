@@ -1,0 +1,15 @@
+ENOTSUPP,VAR_0
+LPC18XX_SCU_PINTSEL0,VAR_1
+LPC18XX_SCU_PINTSEL1,VAR_2
+lpc18xx_get_pintsel,FUNC_0
+lpc18xx_gpio_to_pintsel_val,FUNC_1
+lpc18xx_pin_to_gpio,FUNC_2
+pinctrl_dev_get_drvdata,FUNC_3
+lpc18xx_pconf_get_gpio_pin_int,FUNC_4
+pctldev,VAR_3
+arg,VAR_4
+pin,VAR_5
+scu,VAR_6
+gpio,VAR_7
+ret,VAR_8
+val,VAR_9

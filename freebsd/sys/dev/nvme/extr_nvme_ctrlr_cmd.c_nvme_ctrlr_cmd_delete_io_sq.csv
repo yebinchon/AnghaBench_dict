@@ -1,0 +1,11 @@
+NVME_OPC_DELETE_IO_SQ,VAR_0
+htole32,FUNC_0
+nvme_allocate_request_null,FUNC_1
+nvme_ctrlr_submit_admin_request,FUNC_2
+nvme_ctrlr_cmd_delete_io_sq,FUNC_3
+ctrlr,VAR_1
+io_que,VAR_2
+cb_fn,VAR_3
+cb_arg,VAR_4
+req,VAR_5
+cmd,VAR_6

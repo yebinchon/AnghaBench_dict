@@ -1,0 +1,12 @@
+CAM_PRIORITY_NORMAL,VAR_0
+ENXIO,VAR_1
+PT_FLAG_DEVICE_INVALID,VAR_2
+biofinish,FUNC_0
+bioq_insert_tail,FUNC_1
+cam_periph_lock,FUNC_2
+cam_periph_unlock,FUNC_3
+xpt_schedule,FUNC_4
+ptstrategy,FUNC_5
+bp,VAR_3
+periph,VAR_4
+softc,VAR_5

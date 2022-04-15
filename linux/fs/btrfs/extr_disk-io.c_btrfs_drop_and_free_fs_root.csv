@@ -1,0 +1,15 @@
+BTRFS_FS_STATE_ERROR,VAR_0
+__btrfs_remove_free_space_cache,FUNC_0
+btrfs_free_fs_root,FUNC_1
+btrfs_free_log,FUNC_2
+btrfs_put_fs_root,FUNC_3
+btrfs_root_refs,FUNC_4
+free_extent_buffer,FUNC_5
+radix_tree_delete,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+synchronize_srcu,FUNC_9
+test_bit,FUNC_10
+btrfs_drop_and_free_fs_root,FUNC_11
+fs_info,VAR_1
+root,VAR_2

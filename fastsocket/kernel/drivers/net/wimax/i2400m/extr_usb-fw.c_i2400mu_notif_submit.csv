@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+I2400MU_EP_NOTIFICATION,VAR_1
+I2400M_BM_ACK_BUF_SIZE,VAR_2
+__i2400mu_bm_notif_cb,VAR_3
+usb_fill_int_urb,FUNC_0
+usb_get_epd,FUNC_1
+usb_rcvintpipe,FUNC_2
+usb_submit_urb,FUNC_3
+i2400mu_notif_submit,FUNC_4
+i2400mu,VAR_4
+urb,VAR_5
+completion,VAR_6
+i2400m,VAR_7
+epd,VAR_8
+pipe,VAR_9

@@ -1,0 +1,12 @@
+CVMX_USBNX_DMA0_INB_CHN0,FUNC_0
+CVMX_USB_INITIALIZE_FLAGS_DEBUG_CSRS,VAR_0
+cvmx_csr_db_decode,FUNC_1
+cvmx_dprintf,FUNC_2
+cvmx_get_proc_id,FUNC_3
+cvmx_read64_uint64,FUNC_4
+cvmx_unlikely,FUNC_5
+cvmx_write64_uint32,FUNC_6
+__cvmx_usb_write_csr32,FUNC_7
+usb,VAR_1
+address,VAR_2
+value,VAR_3

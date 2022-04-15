@@ -1,0 +1,15 @@
+EIO,VAR_0
+NFS4_FHSIZE,VAR_1
+OP_GETFH,VAR_2
+be32_to_cpup,FUNC_0
+decode_op_hdr,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+unlikely,FUNC_4
+xdr_inline_decode,FUNC_5
+decode_getfh,FUNC_6
+xdr,VAR_3
+fh,VAR_4
+p,VAR_5
+len,VAR_6
+status,VAR_7

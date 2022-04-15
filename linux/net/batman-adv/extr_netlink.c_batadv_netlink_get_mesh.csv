@@ -1,0 +1,14 @@
+BATADV_CMD_GET_MESH,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+NLMSG_DEFAULT_SIZE,VAR_3
+batadv_netlink_mesh_fill,FUNC_0
+genlmsg_reply,FUNC_1
+nlmsg_free,FUNC_2
+nlmsg_new,FUNC_3
+batadv_netlink_get_mesh,FUNC_4
+skb,VAR_4
+info,VAR_5
+bat_priv,VAR_6
+msg,VAR_7
+ret,VAR_8

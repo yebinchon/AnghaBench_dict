@@ -1,0 +1,11 @@
+FIXED_QUEUE_MAX_TIMEOUT,VAR_0
+GAP_CCB_STATE_CONNECTED,VAR_1
+GAP_EVT_CONN_DATA_AVAIL,VAR_2
+fixed_queue_enqueue,FUNC_0
+gap_find_ccb_by_cid,FUNC_1
+osi_free,FUNC_2
+stub1,FUNC_3
+gap_data_ind,FUNC_4
+l2cap_cid,VAR_3
+p_msg,VAR_4
+p_ccb,VAR_5

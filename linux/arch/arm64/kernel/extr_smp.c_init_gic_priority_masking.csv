@@ -1,0 +1,10 @@
+GIC_PRIO_IRQON,VAR_0
+GIC_PRIO_PSR_I_SET,VAR_1
+PSR_I_BIT,VAR_2
+WARN_ON,FUNC_0
+daif,VAR_3
+gic_enable_sre,FUNC_1
+gic_write_pmr,FUNC_2
+read_sysreg,FUNC_3
+init_gic_priority_masking,FUNC_4
+cpuflags,VAR_4

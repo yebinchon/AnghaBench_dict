@@ -1,0 +1,16 @@
+BE_GET_CRI_FROM_CID,FUNC_0
+beiscsi_free_mgmt_task_handles,FUNC_1
+dma_pool_free,FUNC_2
+free_io_sgl_handle,FUNC_3
+free_wrb_handle,FUNC_4
+scsi_dma_unmap,FUNC_5
+beiscsi_cleanup_task,FUNC_6
+task,VAR_0
+io_task,VAR_1
+conn,VAR_2
+beiscsi_conn,VAR_3
+phba,VAR_4
+beiscsi_sess,VAR_5
+pwrb_context,VAR_6
+phwi_ctrlr,VAR_7
+cri_index,VAR_8

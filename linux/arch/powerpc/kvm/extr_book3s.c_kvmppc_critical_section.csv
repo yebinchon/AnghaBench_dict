@@ -1,0 +1,11 @@
+MSR_PR,VAR_0
+MSR_SF,VAR_1
+is_kvmppc_hv_enabled,FUNC_0
+kvmppc_get_critical,FUNC_1
+kvmppc_get_gpr,FUNC_2
+kvmppc_get_msr,FUNC_3
+kvmppc_critical_section,FUNC_4
+vcpu,VAR_2
+crit_raw,VAR_3
+crit_r1,VAR_4
+crit,VAR_5

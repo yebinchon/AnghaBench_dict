@@ -1,0 +1,15 @@
+IEEE80211_LOCK,FUNC_0
+IEEE80211_UNLOCK,FUNC_1
+IEEE80211_UNLOCK_ASSERT,FUNC_2
+ieee80211_swscan_start_scan_locked,FUNC_3
+ieee80211_swscan_start_scan,FUNC_4
+scan,VAR_0
+vap,VAR_1
+flags,VAR_2
+duration,VAR_3
+mindwell,VAR_4
+maxdwell,VAR_5
+nssid,VAR_6
+ssids,VAR_7
+ic,VAR_8
+result,VAR_9

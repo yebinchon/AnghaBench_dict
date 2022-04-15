@@ -1,0 +1,17 @@
+IFNET_IS_CELLULAR,FUNC_0
+IFNET_IS_EXPENSIVE,FUNC_1
+IFSCOPE_NONE,VAR_0
+SO_RESTRICT_DENY_CELLULAR,VAR_1
+SO_RESTRICT_DENY_EXPENSIVE,VAR_2
+ifindex2ifnet,VAR_3
+ifnet_head_done,FUNC_2
+ifnet_head_lock_shared,FUNC_3
+mpsotompte,FUNC_4
+mpte_lock_assert_held,FUNC_5
+mptcp_set_restrictions,FUNC_6
+mp_so,VAR_4
+mpte,VAR_5
+i,VAR_6
+info,VAR_7
+ifindex,VAR_8
+ifp,VAR_9

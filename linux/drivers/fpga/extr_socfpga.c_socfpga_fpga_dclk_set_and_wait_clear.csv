@@ -1,0 +1,13 @@
+ETIMEDOUT,VAR_0
+SOCFPGA_FPGMGR_DCLKCNT_OFST,VAR_1
+SOCFPGA_FPGMGR_DCLKSTAT_DCNTDONE_E_DONE,VAR_2
+SOCFPGA_FPGMGR_DCLKSTAT_OFST,VAR_3
+socfpga_fpga_clear_done_status,FUNC_0
+socfpga_fpga_readl,FUNC_1
+socfpga_fpga_writel,FUNC_2
+udelay,FUNC_3
+socfpga_fpga_dclk_set_and_wait_clear,FUNC_4
+priv,VAR_4
+count,VAR_5
+timeout,VAR_6
+done,VAR_7

@@ -1,0 +1,12 @@
+INT_REQ,VAR_0
+PORTMAN2X4_MODE_INPUT_TRIGGERED,VAR_1
+portman_data_avail,FUNC_0
+portman_read_midi,FUNC_1
+portman_read_status,FUNC_2
+snd_rawmidi_receive,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+snd_portman_interrupt,FUNC_6
+userdata,VAR_2
+midivalue,VAR_3
+pm,VAR_4

@@ -1,0 +1,6 @@
+IVBEP_PMON_BOX_CTL_INT,VAR_0
+SNBEP_PCI_PMON_BOX_CTL,VAR_1
+pci_write_config_dword,FUNC_0
+ivbep_uncore_pci_init_box,FUNC_1
+box,VAR_2
+pdev,VAR_3

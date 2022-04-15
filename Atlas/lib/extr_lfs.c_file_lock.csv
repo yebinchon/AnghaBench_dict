@@ -1,0 +1,15 @@
+_file_lock,FUNC_0
+check_file,FUNC_1
+errno,VAR_0
+luaL_checkstring,FUNC_2
+luaL_optlong,FUNC_3
+lua_pushboolean,FUNC_4
+lua_pushfstring,FUNC_5
+lua_pushnil,FUNC_6
+strerror,FUNC_7
+file_lock,FUNC_8
+L,VAR_1
+fh,VAR_2
+mode,VAR_3
+start,VAR_4
+len,VAR_5

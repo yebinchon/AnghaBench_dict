@@ -1,0 +1,16 @@
+TASK_INTERRUPTIBLE,VAR_0
+current,VAR_1
+freezing,FUNC_0
+jfs_info,FUNC_1
+kthread_should_stop,FUNC_2
+lbmStartIO,FUNC_3
+log_redrive_list,VAR_2
+log_redrive_lock,VAR_3
+schedule,FUNC_4
+set_current_state,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+try_to_freeze,FUNC_8
+jfsIOWait,FUNC_9
+arg,VAR_4
+bp,VAR_5

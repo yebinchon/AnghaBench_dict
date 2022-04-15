@@ -1,0 +1,14 @@
+clk_disable_unprepare,FUNC_0
+host1x_intr_deinit,FUNC_1
+host1x_syncpt_deinit,FUNC_2
+host1x_unregister,FUNC_3
+iommu_detach_group,FUNC_4
+iommu_domain_free,FUNC_5
+iommu_group_put,FUNC_6
+iova_cache_put,FUNC_7
+platform_get_drvdata,FUNC_8
+put_iova_domain,FUNC_9
+reset_control_assert,FUNC_10
+host1x_remove,FUNC_11
+pdev,VAR_0
+host,VAR_1

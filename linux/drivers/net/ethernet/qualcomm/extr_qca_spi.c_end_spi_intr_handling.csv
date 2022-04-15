@@ -1,0 +1,13 @@
+SPI_INT_CPU_ON,VAR_0
+SPI_INT_PKT_AVLBL,VAR_1
+SPI_INT_RDBUF_ERR,VAR_2
+SPI_INT_WRBUF_ERR,VAR_3
+SPI_REG_INTR_CAUSE,VAR_4
+SPI_REG_INTR_ENABLE,VAR_5
+netdev_dbg,FUNC_0
+qcaspi_write_register,FUNC_1
+wr_verify,VAR_6
+end_spi_intr_handling,FUNC_2
+qca,VAR_7
+intr_cause,VAR_8
+intr_enable,VAR_9

@@ -1,0 +1,13 @@
+SQLITE_OK,VAR_0
+assert,FUNC_0
+sqlite3DbFree,FUNC_1
+vdbeMergeEngineFree,FUNC_2
+vdbePmaReaderClear,FUNC_3
+vdbeSortSubtaskCleanup,FUNC_4
+vdbeSorterJoinAll,FUNC_5
+vdbeSorterRecordFree,FUNC_6
+sqlite3VdbeSorterReset,FUNC_7
+db,VAR_1
+pSorter,VAR_2
+i,VAR_3
+pTask,VAR_4

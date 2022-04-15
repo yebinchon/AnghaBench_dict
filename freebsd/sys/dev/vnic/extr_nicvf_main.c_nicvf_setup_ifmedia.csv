@@ -1,0 +1,16 @@
+IFM_1000_T,VAR_0
+IFM_100_TX,VAR_1
+IFM_10G_SR,VAR_2
+IFM_10_T,VAR_3
+IFM_40G_CR4,VAR_4
+IFM_AUTO,VAR_5
+IFM_ETHER,VAR_6
+IFM_FDX,VAR_7
+IFM_IMASK,VAR_8
+ifmedia_add,FUNC_0
+ifmedia_init,FUNC_1
+ifmedia_set,FUNC_2
+nicvf_media_change,VAR_9
+nicvf_media_status,VAR_10
+nicvf_setup_ifmedia,FUNC_3
+nic,VAR_11

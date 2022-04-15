@@ -1,0 +1,12 @@
+DISPLAY_PLANE_ENABLE,VAR_0
+DSPCNTR,FUNC_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+intel_flush_display_plane,FUNC_3
+intel_wait_for_vblank,FUNC_4
+intel_disable_plane,FUNC_5
+dev_priv,VAR_1
+plane,VAR_2
+pipe,VAR_3
+reg,VAR_4
+val,VAR_5

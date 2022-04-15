@@ -1,0 +1,17 @@
+TB_CFG_PKG_XDOMAIN_REQ,VAR_0
+TB_CFG_PKG_XDOMAIN_RESP,VAR_1
+UUID_REQUEST,VAR_2
+XDOMAIN_DEFAULT_TIMEOUT,VAR_3
+__tb_xdomain_request,FUNC_0
+memset,FUNC_1
+tb_xdp_fill_header,FUNC_2
+tb_xdp_handle_error,FUNC_3
+uuid_copy,FUNC_4
+tb_xdp_uuid_request,FUNC_5
+ctl,VAR_4
+route,VAR_5
+retry,VAR_6
+uuid,VAR_7
+res,VAR_8
+req,VAR_9
+ret,VAR_10

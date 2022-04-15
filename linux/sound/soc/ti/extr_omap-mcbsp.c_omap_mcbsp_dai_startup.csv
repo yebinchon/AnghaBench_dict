@@ -1,0 +1,14 @@
+SNDRV_PCM_HW_PARAM_BUFFER_SIZE,VAR_0
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_1
+SNDRV_PCM_HW_PARAM_PERIOD_SIZE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+omap_mcbsp_hwrule_min_buffersize,VAR_4
+omap_mcbsp_request,FUNC_0
+snd_pcm_hw_constraint_step,FUNC_1
+snd_pcm_hw_rule_add,FUNC_2
+snd_soc_dai_get_drvdata,FUNC_3
+omap_mcbsp_dai_startup,FUNC_4
+substream,VAR_5
+cpu_dai,VAR_6
+mcbsp,VAR_7
+err,VAR_8

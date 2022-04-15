@@ -1,0 +1,16 @@
+IPROC_ADC_INTR,VAR_0
+IPROC_ADC_INTR_MASK,VAR_1
+IPROC_INTERRUPT_MASK,VAR_2
+IPROC_INTERRUPT_STATUS,VAR_3
+IRQ_NONE,VAR_4
+IRQ_WAKE_THREAD,VAR_5
+iio_priv,FUNC_0
+regmap_read,FUNC_1
+iproc_adc_interrupt_thread,FUNC_2
+irq,VAR_6
+data,VAR_7
+channel_intr_status,VAR_8
+intr_status,VAR_9
+intr_mask,VAR_10
+indio_dev,VAR_11
+adc_priv,VAR_12

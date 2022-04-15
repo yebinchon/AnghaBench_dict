@@ -1,0 +1,15 @@
+CC2520_CMD_RXBUF,VAR_0
+dev_vdbg,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spi_message_add_tail,FUNC_3
+spi_message_init,FUNC_4
+spi_sync,FUNC_5
+cc2520_read_rxfifo,FUNC_6
+priv,VAR_1
+data,VAR_2
+len,VAR_3
+status,VAR_4
+msg,VAR_5
+xfer_head,VAR_6
+xfer_buf,VAR_7

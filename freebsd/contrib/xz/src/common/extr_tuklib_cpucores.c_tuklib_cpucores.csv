@@ -1,0 +1,17 @@
+CPU_COUNT,FUNC_0
+CPU_ISSET,FUNC_1
+CPU_LEVEL_WHICH,VAR_0
+CPU_SETSIZE,VAR_1
+CPU_WHICH_PID,VAR_2
+CTL_HW,VAR_3
+GetSystemInfo,FUNC_2
+HW_NCPU,VAR_4
+_SC_NPROCESSORS_ONLN,VAR_5
+_SC_NPROC_ONLN,VAR_6
+cpuset_getaffinity,FUNC_3
+pstat_getdynamic,FUNC_4
+sched_getaffinity,FUNC_5
+sysconf,FUNC_6
+sysctl,FUNC_7
+tuklib_cpucores,FUNC_8
+ret,VAR_7

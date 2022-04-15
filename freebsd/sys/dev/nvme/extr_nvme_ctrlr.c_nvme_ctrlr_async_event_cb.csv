@@ -1,0 +1,14 @@
+NVME_GLOBAL_NAMESPACE_TAG,VAR_0
+is_log_page_id_valid,FUNC_0
+memcpy,FUNC_1
+nvme_completion_is_error,FUNC_2
+nvme_ctrlr_async_event_log_page_cb,VAR_1
+nvme_ctrlr_cmd_get_log_page,FUNC_3
+nvme_ctrlr_construct_and_submit_aer,FUNC_4
+nvme_ctrlr_get_log_page_size,FUNC_5
+nvme_notify_async_consumers,FUNC_6
+nvme_printf,FUNC_7
+nvme_ctrlr_async_event_cb,FUNC_8
+arg,VAR_2
+cpl,VAR_3
+aer,VAR_4

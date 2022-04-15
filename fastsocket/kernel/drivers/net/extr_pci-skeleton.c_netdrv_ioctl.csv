@@ -1,0 +1,16 @@
+DPRINTK,FUNC_0
+EOPNOTSUPP,VAR_0
+if_mii,FUNC_1
+mdio_read,FUNC_2
+mdio_write,FUNC_3
+netdev_priv,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+netdrv_ioctl,FUNC_7
+dev,VAR_1
+rq,VAR_2
+cmd,VAR_3
+tp,VAR_4
+data,VAR_5
+flags,VAR_6
+rc,VAR_7

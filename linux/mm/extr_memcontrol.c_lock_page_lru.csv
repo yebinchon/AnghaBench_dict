@@ -1,0 +1,12 @@
+ClearPageLRU,FUNC_0
+PageLRU,FUNC_1
+del_page_from_lru_list,FUNC_2
+mem_cgroup_page_lruvec,FUNC_3
+page_lru,FUNC_4
+page_pgdat,FUNC_5
+spin_lock_irq,FUNC_6
+lock_page_lru,FUNC_7
+page,VAR_0
+isolated,VAR_1
+pgdat,VAR_2
+lruvec,VAR_3

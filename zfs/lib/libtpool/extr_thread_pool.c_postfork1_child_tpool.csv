@@ -1,0 +1,14 @@
+TP_ABANDON,VAR_0
+TP_DESTROY,VAR_1
+TP_WAIT,VAR_2
+delete_pool,FUNC_0
+free,FUNC_1
+pthread_cond_init,FUNC_2
+pthread_mutex_init,FUNC_3
+pthread_self,FUNC_4
+thread_pools,VAR_3
+postfork1_child_tpool,FUNC_5
+my_tid,VAR_4
+tpool,VAR_5
+job,VAR_6
+activep,VAR_7

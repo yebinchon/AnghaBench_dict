@@ -1,0 +1,16 @@
+ESRCH,VAR_0
+PT_PTRACED,VAR_1
+TASK_TRACED,VAR_2
+current,VAR_3
+read_lock,FUNC_0
+read_unlock,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+task_is_stopped,FUNC_4
+task_is_traced,FUNC_5
+tasklist_lock,VAR_4
+wait_task_inactive,FUNC_6
+ptrace_check_attach,FUNC_7
+child,VAR_5
+kill,VAR_6
+ret,VAR_7

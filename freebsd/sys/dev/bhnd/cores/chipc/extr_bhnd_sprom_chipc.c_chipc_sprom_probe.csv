@@ -1,0 +1,11 @@
+BHND_CHIPC_GET_CAPS,FUNC_0
+BUS_PROBE_NOWILDCARD,VAR_0
+CHIPC_VALID_SPROM_SRC,FUNC_1
+ENXIO,VAR_1
+bhnd_sprom_probe,FUNC_2
+device_get_parent,FUNC_3
+chipc_sprom_probe,FUNC_4
+dev,VAR_2
+caps,VAR_3
+chipc,VAR_4
+error,VAR_5

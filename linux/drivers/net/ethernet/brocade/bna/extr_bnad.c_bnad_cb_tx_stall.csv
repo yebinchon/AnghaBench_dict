@@ -1,0 +1,11 @@
+BNAD_MAX_TXQ_PER_TX,VAR_0
+BNAD_TXQ_TX_STARTED,VAR_1
+clear_bit,FUNC_0
+netif_stop_subqueue,FUNC_1
+bnad_cb_tx_stall,FUNC_2
+bnad,VAR_2
+tx,VAR_3
+tx_info,VAR_4
+tcb,VAR_5
+txq_id,VAR_6
+i,VAR_7

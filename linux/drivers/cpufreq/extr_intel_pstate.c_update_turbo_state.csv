@@ -1,0 +1,8 @@
+MSR_IA32_MISC_ENABLE,VAR_0
+MSR_IA32_MISC_ENABLE_TURBO_DISABLE,VAR_1
+all_cpu_data,VAR_2
+global,VAR_3
+rdmsrl,FUNC_0
+update_turbo_state,FUNC_1
+misc_en,VAR_4
+cpu,VAR_5

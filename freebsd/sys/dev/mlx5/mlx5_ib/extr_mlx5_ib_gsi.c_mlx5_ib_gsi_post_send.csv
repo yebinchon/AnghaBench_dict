@@ -1,0 +1,17 @@
+get_tx_qp,FUNC_0
+gsi_qp,FUNC_1
+ib_post_send,FUNC_2
+mlx5_ib_add_outstanding_wr,FUNC_3
+mlx5_ib_gsi_silent_drop,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ud_wr,FUNC_7
+mlx5_ib_gsi_post_send,FUNC_8
+qp,VAR_0
+wr,VAR_1
+bad_wr,VAR_2
+gsi,VAR_3
+tx_qp,VAR_4
+flags,VAR_5
+ret,VAR_6
+cur_wr,VAR_7

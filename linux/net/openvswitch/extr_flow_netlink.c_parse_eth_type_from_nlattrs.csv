@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ETH_P_802_3_MIN,VAR_1
+OVS_KEY_ATTR_ETHERTYPE,VAR_2
+OVS_NLERR,FUNC_0
+SW_FLOW_KEY_PUT,FUNC_1
+eth,VAR_3
+eth_proto_is_802_3,FUNC_2
+htons,FUNC_3
+nla_get_be16,FUNC_4
+ntohs,FUNC_5
+parse_eth_type_from_nlattrs,FUNC_6
+match,VAR_4
+attrs,VAR_5
+a,VAR_6
+is_mask,VAR_7
+log,VAR_8
+eth_type,VAR_9

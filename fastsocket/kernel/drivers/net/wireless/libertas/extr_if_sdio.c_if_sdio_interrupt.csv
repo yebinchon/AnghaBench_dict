@@ -1,0 +1,17 @@
+IF_SDIO_H_INT_DNLD,VAR_0
+IF_SDIO_H_INT_STATUS,VAR_1
+IF_SDIO_H_INT_UPLD,VAR_2
+LBS_DEB_SDIO,VAR_3
+if_sdio_card_to_host,FUNC_0
+lbs_deb_enter,FUNC_1
+lbs_deb_leave_args,FUNC_2
+lbs_deb_sdio,FUNC_3
+lbs_host_to_card_done,FUNC_4
+sdio_get_drvdata,FUNC_5
+sdio_readb,FUNC_6
+sdio_writeb,FUNC_7
+if_sdio_interrupt,FUNC_8
+func,VAR_4
+ret,VAR_5
+card,VAR_6
+cause,VAR_7

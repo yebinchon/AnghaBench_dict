@@ -1,0 +1,15 @@
+IB_WC_SEND,VAR_0
+IB_WC_SUCCESS,VAR_1
+atomic_dec,FUNC_0
+ib_poll_cq,FUNC_1
+iser_err,FUNC_2
+iser_handle_comp_error,FUNC_3
+iser_snd_completion,FUNC_4
+iser_drain_tx_cq,FUNC_5
+device,VAR_2
+cq_index,VAR_3
+cq,VAR_4
+wc,VAR_5
+tx_desc,VAR_6
+ib_conn,VAR_7
+completed_tx,VAR_8

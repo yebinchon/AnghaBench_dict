@@ -1,0 +1,13 @@
+EFUSE_LOCK_ACQUIRE,FUNC_0
+EFUSE_LOCK_RELEASE,FUNC_1
+ESP_ERR_INVALID_ARG,VAR_0
+ESP_OK,VAR_1
+esp_efuse_utility_fill_buff,VAR_2
+esp_efuse_utility_get_number_of_items,FUNC_2
+esp_efuse_utility_process,FUNC_3
+memset,FUNC_4
+esp_efuse_read_field_blob,FUNC_5
+field,VAR_3
+dst,VAR_4
+dst_size_bits,VAR_5
+err,VAR_6

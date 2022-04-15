@@ -1,0 +1,14 @@
+kfree,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+sysfs_remove_group,FUNC_3
+zfcp_dbf_adapter_unregister,FUNC_4
+zfcp_erp_thread_kill,FUNC_5
+zfcp_free_low_mem_buffers,FUNC_6
+zfcp_qdio_destroy,FUNC_7
+zfcp_reqlist_isempty,FUNC_8
+zfcp_sysfs_adapter_attrs,VAR_0
+zfcp_adapter_dequeue,FUNC_9
+adapter,VAR_1
+retval,VAR_2
+flags,VAR_3

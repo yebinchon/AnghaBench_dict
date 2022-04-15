@@ -1,0 +1,16 @@
+EACCES,VAR_0
+PRIV_VFS_EXEC,VAR_1
+PRIV_VFS_LOOKUP,VAR_2
+PRIV_VFS_READ,VAR_3
+PRIV_VFS_WRITE,VAR_4
+VDIR,VAR_5
+VEXEC,VAR_6
+VREAD,VAR_7
+VWRITE,VAR_8
+priv_check_cred,FUNC_0
+secpolicy_fs_owner,FUNC_1
+secpolicy_vnode_access,FUNC_2
+cr,VAR_9
+vp,VAR_10
+owner,VAR_11
+accmode,VAR_12

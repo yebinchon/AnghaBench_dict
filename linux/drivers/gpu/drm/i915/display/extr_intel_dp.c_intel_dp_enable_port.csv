@@ -1,0 +1,11 @@
+DP_AUDIO_OUTPUT_ENABLE,VAR_0
+DP_PORT_EN,VAR_1
+DP_TRAINING_PATTERN_1,VAR_2
+I915_WRITE,FUNC_0
+POSTING_READ,FUNC_1
+dp_to_i915,FUNC_2
+intel_dp_program_link_training_pattern,FUNC_3
+intel_dp_enable_port,FUNC_4
+intel_dp,VAR_3
+old_crtc_state,VAR_4
+dev_priv,VAR_5

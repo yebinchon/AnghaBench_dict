@@ -1,0 +1,17 @@
+IsWindows7SP1OrGreater,FUNC_0
+MAKEWORD,FUNC_1
+SEM_FAILCRITICALERRORS,VAR_0
+SEM_NOGPFAULTERRORBOX,VAR_1
+SetErrorMode,FUNC_2
+SpinLockInit,FUNC_3
+WSAStartup,FUNC_4
+_IONBF,VAR_2
+_set_FMA3_enable,FUNC_5
+dummy_spinlock,VAR_3
+exit,FUNC_6
+setvbuf,FUNC_7
+stderr,VAR_4
+stdout,VAR_5
+write_stderr,FUNC_8
+startup_hacks,FUNC_9
+progname,VAR_6

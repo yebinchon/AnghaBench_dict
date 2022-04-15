@@ -1,0 +1,14 @@
+CacheMemoryContext,VAR_0
+GetCurrentSubTransactionId,FUNC_0
+InvalidSubTransactionId,VAR_1
+MemoryContextSwitchTo,FUNC_1
+ONCOMMIT_NOOP,VAR_2
+ONCOMMIT_PRESERVE_ROWS,VAR_3
+lcons,FUNC_2
+on_commits,VAR_4
+palloc,FUNC_3
+register_on_commit_action,FUNC_4
+relid,VAR_5
+action,VAR_6
+oc,VAR_7
+oldcxt,VAR_8

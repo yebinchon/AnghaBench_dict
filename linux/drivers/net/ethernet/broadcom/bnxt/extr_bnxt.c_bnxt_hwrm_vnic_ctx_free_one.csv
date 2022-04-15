@@ -1,0 +1,11 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_VNIC_RSS_COS_LB_CTX_FREE,VAR_1
+INVALID_HW_RING_ID,VAR_2
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+cpu_to_le16,FUNC_1
+hwrm_send_message,FUNC_2
+bnxt_hwrm_vnic_ctx_free_one,FUNC_3
+bp,VAR_3
+vnic_id,VAR_4
+ctx_idx,VAR_5
+req,VAR_6

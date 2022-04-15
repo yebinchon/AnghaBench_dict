@@ -1,0 +1,12 @@
+IFF_PROMISC,VAR_0
+KUE_CMD_SET_PKT_FILTER,VAR_1
+KUE_LOCK_ASSERT,FUNC_0
+KUE_RXFILT_PROMISC,VAR_2
+MA_OWNED,VAR_3
+kue_setword,FUNC_1
+uether_getifp,FUNC_2
+uether_getsc,FUNC_3
+kue_setpromisc,FUNC_4
+ue,VAR_4
+sc,VAR_5
+ifp,VAR_6

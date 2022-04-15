@@ -1,0 +1,16 @@
+Copy,FUNC_0
+IPToUINT,FUNC_1
+MAX_DHCP_CLASSLESS_ROUTE_ENTRIES,VAR_0
+NewBuf,FUNC_2
+SeekBufToBegin,FUNC_3
+WriteBuf,FUNC_4
+Zero,FUNC_5
+DhcpBuildClasslessRouteData,FUNC_6
+t,VAR_1
+b,VAR_2
+i,VAR_3
+r,VAR_4
+c,VAR_5
+data_len,VAR_6
+ip32,VAR_7
+tmp,VAR_8

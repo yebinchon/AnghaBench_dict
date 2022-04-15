@@ -1,0 +1,11 @@
+STK8BA50_MODE_POWERBIT,VAR_0
+STK8BA50_REG_POWMODE,VAR_1
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+stk8ba50_set_power,FUNC_3
+data,VAR_2
+mode,VAR_3
+ret,VAR_4
+masked_reg,VAR_5
+client,VAR_6

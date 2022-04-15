@@ -1,0 +1,9 @@
+drm_crtc_arm_vblank_event,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_vblank_get,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+zx_crtc_atomic_flush,FUNC_5
+crtc,VAR_0
+old_state,VAR_1
+event,VAR_2

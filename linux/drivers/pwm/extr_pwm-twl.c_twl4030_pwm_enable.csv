@@ -1,0 +1,17 @@
+TWL4030_GPBR1_REG,VAR_0
+TWL4030_MODULE_INTBR,VAR_1
+TWL4030_PWMXCLK_ENABLE,VAR_2
+TWL4030_PWMX_ENABLE,VAR_3
+TWL4030_PWM_TOGGLE,FUNC_0
+dev_err,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_twl,FUNC_4
+twl_i2c_read_u8,FUNC_5
+twl_i2c_write_u8,FUNC_6
+twl4030_pwm_enable,FUNC_7
+chip,VAR_4
+pwm,VAR_5
+twl,VAR_6
+ret,VAR_7
+val,VAR_8

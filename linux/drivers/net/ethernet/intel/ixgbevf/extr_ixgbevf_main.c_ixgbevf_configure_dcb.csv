@@ -1,0 +1,13 @@
+__IXGBEVF_QUEUE_RESET_REQUESTED,VAR_0
+ixgbevf_get_queues,FUNC_0
+set_bit,FUNC_1
+spin_lock_bh,FUNC_2
+spin_unlock_bh,FUNC_3
+ixgbevf_configure_dcb,FUNC_4
+adapter,VAR_1
+hw,VAR_2
+def_q,VAR_3
+num_tcs,VAR_4
+num_rx_queues,VAR_5
+num_tx_queues,VAR_6
+err,VAR_7

@@ -1,0 +1,15 @@
+REORDER_WAIT_TIME,VAR_0
+from_timer,FUNC_0
+jiffies,VAR_1
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+preorder_ctrl,VAR_2
+recv_indicatepkts_in_order,FUNC_3
+reordering_ctrl_timer,VAR_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+rtw_reordering_ctrl_timeout_handler,FUNC_6
+t,VAR_4
+preorder_ctrl,VAR_5
+padapter,VAR_6
+ppending_recvframe_queue,VAR_7

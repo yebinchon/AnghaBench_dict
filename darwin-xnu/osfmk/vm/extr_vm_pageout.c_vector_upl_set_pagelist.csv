@@ -1,0 +1,13 @@
+PAGE_SIZE,VAR_0
+UPL_GET_INTERNAL_PAGE_LIST_SIMPLE,FUNC_0
+assert,FUNC_1
+bcopy,FUNC_2
+kalloc,FUNC_3
+panic,FUNC_4
+vector_upl_is_valid,FUNC_5
+vector_upl_set_pagelist,FUNC_6
+upl,VAR_1
+i,VAR_2
+vector_upl,VAR_3
+pagelist_size,VAR_4
+cur_upl_pagelist_size,VAR_5

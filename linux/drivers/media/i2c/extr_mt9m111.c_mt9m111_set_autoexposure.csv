@@ -1,0 +1,10 @@
+MT9M111_OPMODE_AUTOEXPO_EN,VAR_0
+OPER_MODE_CTRL,VAR_1
+V4L2_EXPOSURE_AUTO,VAR_2
+reg_clear,FUNC_0
+reg_set,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+mt9m111_set_autoexposure,FUNC_3
+mt9m111,VAR_3
+val,VAR_4
+client,VAR_5

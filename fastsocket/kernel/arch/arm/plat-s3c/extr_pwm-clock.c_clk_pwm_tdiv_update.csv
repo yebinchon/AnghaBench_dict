@@ -1,0 +1,14 @@
+S3C2410_TCFG1,VAR_0
+S3C2410_TCFG1_MUX_MASK,VAR_1
+S3C2410_TCFG1_SHIFT,FUNC_0
+__raw_readl,FUNC_1
+__raw_writel,FUNC_2
+clk_pwm_tdiv_bits,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+clk_pwm_tdiv_update,FUNC_6
+divclk,VAR_2
+tcfg1,VAR_3
+bits,VAR_4
+flags,VAR_5
+shift,VAR_6

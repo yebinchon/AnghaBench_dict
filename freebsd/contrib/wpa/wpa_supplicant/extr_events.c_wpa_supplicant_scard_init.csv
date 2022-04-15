@@ -1,0 +1,16 @@
+EAP_TYPE_AKA,VAR_0
+EAP_TYPE_AKA_PRIME,VAR_1
+EAP_TYPE_NONE,VAR_2
+EAP_TYPE_SIM,VAR_3
+EAP_VENDOR_IETF,VAR_4
+MSG_DEBUG,VAR_5
+MSG_WARNING,VAR_6
+eap_peer_get_eap_method,FUNC_0
+eapol_sm_register_scard_ctx,FUNC_1
+scard_init,FUNC_2
+wpa_dbg,FUNC_3
+wpa_msg,FUNC_4
+wpa_sm_set_scard_ctx,FUNC_5
+wpa_supplicant_scard_init,FUNC_6
+wpa_s,VAR_7
+ssid,VAR_8

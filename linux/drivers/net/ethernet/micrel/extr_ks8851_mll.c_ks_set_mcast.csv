@@ -1,0 +1,13 @@
+KS_RXCR1,VAR_0
+RXCR1_FILTER_MASK,VAR_1
+RXCR1_RXAE,VAR_2
+RXCR1_RXMAFMA,VAR_3
+RXCR1_RXPAFMA,VAR_4
+ks_rdreg16,FUNC_0
+ks_start_rx,FUNC_1
+ks_stop_rx,FUNC_2
+ks_wrreg16,FUNC_3
+ks_set_mcast,FUNC_4
+ks,VAR_5
+mcast,VAR_6
+cntl,VAR_7

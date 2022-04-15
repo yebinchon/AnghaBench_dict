@@ -1,0 +1,16 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+git_commit_create_with_signature,FUNC_2
+git_odb_free,FUNC_3
+git_odb_object_data,FUNC_4
+git_odb_object_free,FUNC_5
+git_odb_read,FUNC_6
+git_repository_odb,FUNC_7
+test_commit_write__attach_singleline_signature,FUNC_8
+sig,VAR_1
+data,VAR_2
+complete,VAR_3
+id,VAR_4
+odb,VAR_5
+obj,VAR_6

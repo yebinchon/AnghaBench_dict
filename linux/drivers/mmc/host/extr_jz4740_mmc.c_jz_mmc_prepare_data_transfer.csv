@@ -1,0 +1,9 @@
+MMC_DATA_READ,VAR_0
+SG_MITER_FROM_SG,VAR_1
+SG_MITER_TO_SG,VAR_2
+sg_miter_start,FUNC_0
+jz_mmc_prepare_data_transfer,FUNC_1
+host,VAR_3
+cmd,VAR_4
+data,VAR_5
+direction,VAR_6

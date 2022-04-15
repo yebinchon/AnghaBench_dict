@@ -1,0 +1,14 @@
+DPNI_CMDID_GET_IRQ_MASK,VAR_0
+le32_to_cpu,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpni_get_irq_mask,FUNC_3
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+irq_index,VAR_4
+mask,VAR_5
+cmd,VAR_6
+cmd_params,VAR_7
+rsp_params,VAR_8
+err,VAR_9

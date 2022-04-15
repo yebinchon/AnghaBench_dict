@@ -1,0 +1,13 @@
+CloseHandle,FUNC_0
+FALSE,VAR_0
+GetCurrentProcess,FUNC_1
+GetTokenInformation,FUNC_2
+OpenProcessToken,FUNC_3
+TOKEN_QUERY,VAR_1
+TokenElevationType,VAR_2
+TokenElevationTypeFull,VAR_3
+is_process_elevated,FUNC_4
+token,VAR_4
+type,VAR_5
+size,VAR_6
+ret,VAR_7

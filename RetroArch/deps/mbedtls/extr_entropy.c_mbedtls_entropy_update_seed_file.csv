@@ -1,0 +1,17 @@
+MBEDTLS_ENTROPY_MAX_SEED_SIZE,VAR_0
+MBEDTLS_ERR_ENTROPY_FILE_IO_ERROR,VAR_1
+SEEK_END,VAR_2
+SEEK_SET,VAR_3
+fclose,FUNC_0
+fopen,FUNC_1
+fread,FUNC_2
+fseek,FUNC_3
+ftell,FUNC_4
+mbedtls_entropy_update_manual,FUNC_5
+mbedtls_entropy_write_seed_file,FUNC_6
+mbedtls_entropy_update_seed_file,FUNC_7
+ctx,VAR_4
+path,VAR_5
+f,VAR_6
+n,VAR_7
+buf,VAR_8

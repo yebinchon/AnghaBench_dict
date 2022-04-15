@@ -1,0 +1,16 @@
+ESP_EARLY_LOGV,FUNC_0
+SLC,VAR_0
+STATE_SENDING,VAR_1
+STATE_WAIT_FOR_START,VAR_2
+TAG,VAR_3
+assert,FUNC_1
+context,VAR_4
+pdFALSE,VAR_5
+portYIELD_FROM_ISR,FUNC_2
+send_get_state,FUNC_3
+send_isr_check_new_pkt,FUNC_4
+send_isr_eof,FUNC_5
+send_isr_new_packet,FUNC_6
+sdio_intr_send,FUNC_7
+arg,VAR_6
+yield,VAR_7

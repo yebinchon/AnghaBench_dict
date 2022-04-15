@@ -1,0 +1,7 @@
+RT2870_RESET,VAR_0
+USETW,FUNC_0
+UT_WRITE_VENDOR_DEVICE,VAR_1
+usbd_do_request,FUNC_1
+run_reset,FUNC_2
+sc,VAR_2
+req,VAR_3

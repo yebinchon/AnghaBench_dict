@@ -1,0 +1,12 @@
+NR_IRQS,VAR_0
+cc_get_imsk_other,FUNC_0
+cc_set_imsk_other,FUNC_1
+sbus_tid,VAR_1
+sbus_to_pil,VAR_2
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+sun4d_imsk_lock,VAR_3
+sun4d_disable_irq,FUNC_4
+irq,VAR_4
+tid,VAR_5
+flags,VAR_6

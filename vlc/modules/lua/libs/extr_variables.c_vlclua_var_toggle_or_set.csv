@@ -1,0 +1,15 @@
+luaL_checkstring,FUNC_0
+lua_gettop,FUNC_1
+lua_pop,FUNC_2
+lua_pushboolean,FUNC_3
+strcmp,FUNC_4
+var_GetBool,FUNC_5
+var_SetBool,FUNC_6
+var_ToggleBool,FUNC_7
+vlclua_error,FUNC_8
+vlclua_var_toggle_or_set,FUNC_9
+L,VAR_0
+p_obj,VAR_1
+psz_name,VAR_2
+b_bool,VAR_3
+s,VAR_4

@@ -1,0 +1,11 @@
+HID0_DOZE,VAR_0
+HID0_NAP,VAR_1
+HID0_SLEEP,VAR_2
+MSR_WE,VAR_3
+SPRN_HID0,VAR_4
+mfmsr,FUNC_0
+mfspr,FUNC_1
+mtspr,FUNC_2
+mpc85xx_cpu_die,FUNC_3
+cpu,VAR_5
+tmp,VAR_6

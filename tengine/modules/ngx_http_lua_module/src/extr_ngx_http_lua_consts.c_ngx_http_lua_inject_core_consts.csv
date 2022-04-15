@@ -1,0 +1,10 @@
+NGX_AGAIN,VAR_0
+NGX_DECLINED,VAR_1
+NGX_DONE,VAR_2
+NGX_ERROR,VAR_3
+NGX_OK,VAR_4
+lua_pushinteger,FUNC_0
+lua_pushlightuserdata,FUNC_1
+lua_setfield,FUNC_2
+ngx_http_lua_inject_core_consts,FUNC_3
+L,VAR_5

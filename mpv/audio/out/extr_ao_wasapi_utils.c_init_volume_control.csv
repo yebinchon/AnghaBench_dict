@@ -1,0 +1,15 @@
+AUDCLNT_SHAREMODE_EXCLUSIVE,VAR_0
+CLSCTX_ALL,VAR_1
+EXIT_ON_ERROR,FUNC_0
+IAudioClient_GetService,FUNC_1
+IAudioEndpointVolume_QueryHardwareSupport,FUNC_2
+IID_IAudioEndpointVolume,VAR_2
+IID_ISimpleAudioVolume,VAR_3
+IMMDeviceActivator_Activate,FUNC_3
+MP_DBG,FUNC_4
+MP_WARN,FUNC_5
+SAFE_RELEASE,FUNC_6
+mp_HRESULT_to_str,FUNC_7
+init_volume_control,FUNC_8
+state,VAR_4
+hr,VAR_5

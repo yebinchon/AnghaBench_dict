@@ -1,0 +1,15 @@
+M_KCOV_INFO,VAR_0
+PAGE_SIZE,VAR_1
+VM_OBJECT_WLOCK,FUNC_0
+VM_OBJECT_WUNLOCK,FUNC_1
+free,FUNC_2
+kva_free,FUNC_3
+pmap_qremove,FUNC_4
+vm_object_deallocate,FUNC_5
+vm_page_lookup,FUNC_6
+vm_page_next,FUNC_7
+vm_page_unwire_noq,FUNC_8
+kcov_free,FUNC_9
+info,VAR_2
+m,VAR_3
+i,VAR_4

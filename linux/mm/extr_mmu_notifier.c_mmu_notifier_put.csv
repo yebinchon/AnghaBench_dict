@@ -1,0 +1,10 @@
+WARN_ON,FUNC_0
+call_srcu,FUNC_1
+hlist_del_init_rcu,FUNC_2
+mmu_notifier_free_rcu,VAR_0
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+srcu,VAR_1
+mmu_notifier_put,FUNC_5
+mn,VAR_2
+mm,VAR_3

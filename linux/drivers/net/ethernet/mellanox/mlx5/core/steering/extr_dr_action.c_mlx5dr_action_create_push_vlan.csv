@@ -1,0 +1,12 @@
+CVLAN_ETHERTYPE,VAR_0
+DR_ACTION_TYP_PUSH_VLAN,VAR_1
+SVLAN_ETHERTYPE,VAR_2
+dr_action_create_generic,FUNC_0
+mlx5dr_dbg,FUNC_1
+ntohl,FUNC_2
+mlx5dr_action_create_push_vlan,FUNC_3
+dmn,VAR_3
+vlan_hdr,VAR_4
+vlan_hdr_h,VAR_5
+ethertype,VAR_6
+action,VAR_7

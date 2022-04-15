@@ -1,0 +1,8 @@
+get_current_packet_priority,FUNC_0
+send_pending_packet,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+flush_packets_to_hw,FUNC_4
+hw,VAR_0
+priority_limit,VAR_1
+flags,VAR_2

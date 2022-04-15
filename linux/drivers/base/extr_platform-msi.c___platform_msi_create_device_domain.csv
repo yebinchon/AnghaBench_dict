@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+irq_domain_create_hierarchy,FUNC_1
+irq_domain_remove,FUNC_2
+msi_domain_prepare_irqs,FUNC_3
+platform_msi_alloc_priv_data,FUNC_4
+platform_msi_free_priv_data,FUNC_5
+__platform_msi_create_device_domain,FUNC_6
+dev,VAR_0
+nvec,VAR_1
+is_tree,VAR_2
+write_msi_msg,VAR_3
+ops,VAR_4
+host_data,VAR_5
+data,VAR_6
+domain,VAR_7
+err,VAR_8

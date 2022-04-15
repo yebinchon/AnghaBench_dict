@@ -1,0 +1,13 @@
+PCI_CACHE_LINE_SIZE,VAR_0
+PCI_COMMAND,VAR_1
+PCI_COMMAND_FAST_BACK,VAR_2
+PCI_COMMAND_MASTER,VAR_3
+PCI_LATENCY_TIMER,VAR_4
+pci_read_config_byte,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_byte,FUNC_2
+pci_write_config_word,FUNC_3
+qube_raq_via_bmIDE_fixup,FUNC_4
+dev,VAR_5
+cfgword,VAR_6
+lt,VAR_7

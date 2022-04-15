@@ -1,0 +1,14 @@
+RTC_GSI,VAR_0
+__clear_bit,FUNC_0
+__set_bit,FUNC_1
+kvm_apic_match_dest,FUNC_2
+kvm_apic_pending_eoi,FUNC_3
+rtc_status_pending_eoi_check_valid,FUNC_4
+test_bit,FUNC_5
+__rtc_irq_eoi_tracking_restore_one,FUNC_6
+vcpu,VAR_1
+new_val,VAR_2
+old_val,VAR_3
+ioapic,VAR_4
+dest_map,VAR_5
+e,VAR_6

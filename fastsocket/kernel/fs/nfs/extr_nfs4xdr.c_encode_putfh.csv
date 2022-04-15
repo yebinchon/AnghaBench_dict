@@ -1,0 +1,11 @@
+OP_PUTFH,VAR_0
+cpu_to_be32,FUNC_0
+decode_putfh_maxsz,VAR_1
+reserve_space,FUNC_1
+xdr_encode_opaque,FUNC_2
+encode_putfh,FUNC_3
+xdr,VAR_2
+fh,VAR_3
+hdr,VAR_4
+len,VAR_5
+p,VAR_6

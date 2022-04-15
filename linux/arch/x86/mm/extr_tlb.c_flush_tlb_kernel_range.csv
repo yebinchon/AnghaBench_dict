@@ -1,0 +1,14 @@
+PAGE_SHIFT,VAR_0
+TLB_FLUSH_ALL,VAR_1
+do_flush_tlb_all,VAR_2
+do_kernel_range_flush,VAR_3
+get_flush_tlb_info,FUNC_0
+on_each_cpu,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+put_flush_tlb_info,FUNC_4
+tlb_single_page_flush_ceiling,VAR_4
+flush_tlb_kernel_range,FUNC_5
+start,VAR_5
+end,VAR_6
+info,VAR_7

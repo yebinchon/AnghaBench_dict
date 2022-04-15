@@ -1,0 +1,9 @@
+_CPU_ISR_Disable,FUNC_0
+_CPU_ISR_Restore,FUNC_1
+__SetInterrupts,FUNC_2
+currIrqMask,VAR_0
+prevIrqMask,VAR_1
+__UnmaskIrq,FUNC_3
+nMask,VAR_2
+level,VAR_3
+mask,VAR_4

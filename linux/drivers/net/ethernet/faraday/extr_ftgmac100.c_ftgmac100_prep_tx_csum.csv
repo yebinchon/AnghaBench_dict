@@ -1,0 +1,11 @@
+ETH_P_IP,VAR_0
+FTGMAC100_TXDES1_IP_CHKSUM,VAR_1
+FTGMAC100_TXDES1_TCP_CHKSUM,VAR_2
+FTGMAC100_TXDES1_UDP_CHKSUM,VAR_3
+cpu_to_be16,FUNC_0
+ip_hdr,FUNC_1
+skb_checksum_help,FUNC_2
+ftgmac100_prep_tx_csum,FUNC_3
+skb,VAR_4
+csum_vlan,VAR_5
+ip_proto,VAR_6

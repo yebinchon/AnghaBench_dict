@@ -1,0 +1,15 @@
+ASSERT_VOP_LOCKED,FUNC_0
+EOPNOTSUPP,VAR_0
+MAC_POLICY_CHECK,FUNC_1
+NOCRED,VAR_1
+VOP_CLOSEEXTATTR,FUNC_2
+VOP_OPENEXTATTR,FUNC_3
+curthread,VAR_2
+ea_warn_once,VAR_3
+printf,FUNC_4
+vnode_setlabel_extattr,VAR_4
+mac_vnode_setlabel_extattr,FUNC_5
+cred,VAR_5
+vp,VAR_6
+intlabel,VAR_7
+error,VAR_8

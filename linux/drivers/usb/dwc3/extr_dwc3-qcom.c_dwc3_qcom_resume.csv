@@ -1,0 +1,11 @@
+PWR_EVNT_IRQ_STAT_REG,VAR_0
+PWR_EVNT_LPM_IN_L2_MASK,VAR_1
+PWR_EVNT_LPM_OUT_L2_MASK,VAR_2
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dwc3_qcom_disable_interrupts,FUNC_2
+dwc3_qcom_setbits,FUNC_3
+dwc3_qcom_resume,FUNC_4
+qcom,VAR_3
+ret,VAR_4
+i,VAR_5

@@ -1,0 +1,13 @@
+PCI_CAP_ID_MSIX,VAR_0
+PCI_MSIX_FLAGS_QSIZE,VAR_1
+PCI_MSI_FLAGS,VAR_2
+dev_info,FUNC_0
+pci_find_capability,FUNC_1
+pci_read_config_word,FUNC_2
+bnx2x_get_num_non_def_sbs,FUNC_3
+pdev,VAR_3
+cnic_cnt,VAR_4
+is_vf,VAR_5
+pos,VAR_6
+index,VAR_7
+control,VAR_8

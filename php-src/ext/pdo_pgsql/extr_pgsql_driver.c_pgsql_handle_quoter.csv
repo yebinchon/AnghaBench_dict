@@ -1,0 +1,16 @@
+PQescapeByteaConn,FUNC_0
+PQescapeStringConn,FUNC_1
+PQfreemem,FUNC_2
+emalloc,FUNC_3
+memcpy,FUNC_4
+safe_emalloc,FUNC_5
+pgsql_handle_quoter,FUNC_6
+dbh,VAR_0
+unquoted,VAR_1
+unquotedlen,VAR_2
+quoted,VAR_3
+quotedlen,VAR_4
+paramtype,VAR_5
+escaped,VAR_6
+H,VAR_7
+tmp_len,VAR_8

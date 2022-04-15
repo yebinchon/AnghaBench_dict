@@ -1,0 +1,16 @@
+WLR_INPUT_DEVICE_KEYBOARD,VAR_0
+WLR_INPUT_DEVICE_POINTER,VAR_1
+WLR_INPUT_DEVICE_SWITCH,VAR_2
+WLR_INPUT_DEVICE_TABLET_TOOL,VAR_3
+WLR_INPUT_DEVICE_TOUCH,VAR_4
+ipc_event_input,FUNC_0
+reset_libinput_keyboard,FUNC_1
+reset_libinput_pointer,FUNC_2
+reset_libinput_switch,FUNC_3
+reset_libinput_touch,FUNC_4
+wlr_input_device_is_libinput,FUNC_5
+wlr_libinput_get_device_handle,FUNC_6
+sway_input_reset_libinput_device,FUNC_7
+device,VAR_5
+changed,VAR_6
+libinput_device,VAR_7

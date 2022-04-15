@@ -1,0 +1,15 @@
+RPCBIND_MAXNETIDLEN,VAR_0
+RPCBIND_MAXUADDRLEN,VAR_1
+RPCB_MAXOWNERLEN,VAR_2
+RPCB_program_sz,VAR_3
+RPCB_version_sz,VAR_4
+cpu_to_be32,FUNC_0
+dprintk,FUNC_1
+encode_rpcb_string,FUNC_2
+xdr_reserve_space,FUNC_3
+rpcb_enc_getaddr,FUNC_4
+req,VAR_5
+xdr,VAR_6
+data,VAR_7
+rpcb,VAR_8
+p,VAR_9

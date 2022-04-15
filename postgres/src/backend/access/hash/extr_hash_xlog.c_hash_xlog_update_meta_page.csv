@@ -1,0 +1,16 @@
+BLK_NEEDS_REDO,VAR_0
+BufferGetPage,FUNC_0
+BufferIsValid,FUNC_1
+HashPageGetMeta,FUNC_2
+MarkBufferDirty,FUNC_3
+PageSetLSN,FUNC_4
+UnlockReleaseBuffer,FUNC_5
+XLogReadBufferForRedo,FUNC_6
+XLogRecGetData,FUNC_7
+hash_xlog_update_meta_page,FUNC_8
+record,VAR_1
+metap,VAR_2
+lsn,VAR_3
+xldata,VAR_4
+metabuf,VAR_5
+page,VAR_6

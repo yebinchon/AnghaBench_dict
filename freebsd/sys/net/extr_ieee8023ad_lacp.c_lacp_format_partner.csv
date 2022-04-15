@@ -1,0 +1,12 @@
+LACP_PORTIDSTR_MAX,VAR_0
+LACP_SYSTEMIDSTR_MAX,VAR_1
+lacp_format_portid,FUNC_0
+lacp_format_systemid,FUNC_1
+ntohs,FUNC_2
+snprintf,FUNC_3
+lacp_format_partner,FUNC_4
+peer,VAR_2
+buf,VAR_3
+buflen,VAR_4
+sysid,VAR_5
+portid,VAR_6

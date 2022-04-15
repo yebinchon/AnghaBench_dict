@@ -1,0 +1,15 @@
+DATALINK_OPEN,VAR_0
+DEF_MRU,VAR_1
+LogDEBUG,VAR_2
+LogLCP,VAR_3
+ccp_MTUOverhead,FUNC_0
+log_Printf,FUNC_1
+physical_GetSpeed,FUNC_2
+route_UpdateMTU,FUNC_3
+tun_configure,FUNC_4
+bundle_CalculateBandwidth,FUNC_5
+bundle,VAR_4
+dl,VAR_5
+sp,VAR_6
+overhead,VAR_7
+maxoverhead,VAR_8

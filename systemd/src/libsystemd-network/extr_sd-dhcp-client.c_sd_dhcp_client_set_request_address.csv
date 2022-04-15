@@ -1,0 +1,10 @@
+DHCP_STATE_INIT,VAR_0
+DHCP_STATE_STOPPED,VAR_1
+EBUSY,VAR_2
+EINVAL,VAR_3
+INADDR_ANY,VAR_4
+IN_SET,FUNC_0
+assert_return,FUNC_1
+sd_dhcp_client_set_request_address,FUNC_2
+client,VAR_5
+last_addr,VAR_6

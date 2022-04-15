@@ -1,0 +1,17 @@
+ATIIXP_IDE_PIO_MODE,VAR_0
+ATIIXP_IDE_PIO_TIMING,VAR_1
+pci_read_config_dword,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_dword,FUNC_2
+pci_write_config_word,FUNC_3
+to_pci_dev,FUNC_4
+atiixp_set_pio_timing,FUNC_5
+ap,VAR_2
+adev,VAR_3
+pio,VAR_4
+pio_timings,VAR_5
+pdev,VAR_6
+dn,VAR_7
+timing_shift,VAR_8
+pio_timing_data,VAR_9
+pio_mode_data,VAR_10

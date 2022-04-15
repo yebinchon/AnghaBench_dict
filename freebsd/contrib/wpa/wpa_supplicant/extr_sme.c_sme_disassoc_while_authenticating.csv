@@ -1,0 +1,13 @@
+ETH_ALEN,VAR_0
+MSG_DEBUG,VAR_1
+SME_AUTH_TIMEOUT,VAR_2
+WPA_AUTHENTICATING,VAR_3
+eloop_cancel_timeout,FUNC_0
+eloop_register_timeout,FUNC_1
+os_memcpy,FUNC_2
+sme_auth_timer,VAR_4
+wpa_dbg,FUNC_3
+wpa_supplicant_set_state,FUNC_4
+sme_disassoc_while_authenticating,FUNC_5
+wpa_s,VAR_5
+prev_pending_bssid,VAR_6

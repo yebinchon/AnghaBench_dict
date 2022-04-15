@@ -1,0 +1,12 @@
+EAGAIN,VAR_0
+NVMET_TCP_RECV_DATA,VAR_1
+NVMET_TCP_RECV_DDGST,VAR_2
+NVMET_TCP_RECV_ERR,VAR_3
+NVMET_TCP_RECV_PDU,VAR_4
+nvmet_tcp_try_recv_data,FUNC_0
+nvmet_tcp_try_recv_ddgst,FUNC_1
+nvmet_tcp_try_recv_pdu,FUNC_2
+unlikely,FUNC_3
+nvmet_tcp_try_recv_one,FUNC_4
+queue,VAR_5
+result,VAR_6

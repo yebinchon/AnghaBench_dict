@@ -1,0 +1,11 @@
+ASN1_TIME_adj,FUNC_0
+ASN1_TIME_free,FUNC_1
+TEST_int_eq,FUNC_2
+X509_cmp_time,FUNC_3
+time,FUNC_4
+test_x509_cmp_time_current,FUNC_5
+now,VAR_0
+asn1_before,VAR_1
+asn1_after,VAR_2
+cmp_result,VAR_3
+failed,VAR_4

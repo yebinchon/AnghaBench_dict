@@ -1,0 +1,11 @@
+NVME_CTRL_LIVE,VAR_0
+blk_mq_quiesce_queue,FUNC_0
+blk_mq_tagset_busy_iter,FUNC_1
+blk_mq_tagset_wait_completed_request,FUNC_2
+nvme_cancel_request,VAR_1
+nvme_loop_destroy_admin_queue,FUNC_3
+nvme_loop_destroy_io_queues,FUNC_4
+nvme_shutdown_ctrl,FUNC_5
+nvme_stop_queues,FUNC_6
+nvme_loop_shutdown_ctrl,FUNC_7
+ctrl,VAR_2

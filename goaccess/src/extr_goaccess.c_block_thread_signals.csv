@@ -1,0 +1,10 @@
+SIGINT,VAR_0
+SIGPIPE,VAR_1
+SIGTERM,VAR_2
+SIG_BLOCK,VAR_3
+oldset,VAR_4
+pthread_sigmask,FUNC_0
+sigaddset,FUNC_1
+sigemptyset,FUNC_2
+block_thread_signals,FUNC_3
+sigset,VAR_5

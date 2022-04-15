@@ -1,0 +1,8 @@
+AMCC_OP_REG_MCSR_NVCMD,VAR_0
+MCSR_NV_BUSY,VAR_1
+inb,FUNC_0
+udelay,FUNC_1
+wait_for_nvram_ready,FUNC_2
+s5933_base_addr,VAR_2
+timeout,VAR_3
+i,VAR_4

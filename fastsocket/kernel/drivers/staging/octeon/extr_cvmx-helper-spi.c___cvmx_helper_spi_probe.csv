@@ -1,0 +1,11 @@
+CVMX_BOARD_TYPE_SIM,VAR_0
+CVMX_PKO_REG_CRC_ENABLE,VAR_1
+__cvmx_helper_setup_gmx,FUNC_0
+cvmx_read_csr,FUNC_1
+cvmx_spi4000_is_present,FUNC_2
+cvmx_sysinfo_get,FUNC_3
+cvmx_write_csr,FUNC_4
+__cvmx_helper_spi_probe,FUNC_5
+interface,VAR_2
+num_ports,VAR_3
+enable,VAR_4

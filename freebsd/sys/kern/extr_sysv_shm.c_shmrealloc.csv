@@ -1,0 +1,15 @@
+M_SHM,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+SHMSEG_FREE,VAR_3
+SYSVSHM_ASSERT_LOCKED,FUNC_0
+bcopy,FUNC_1
+free,FUNC_2
+mac_sysvshm_init,FUNC_3
+malloc,FUNC_4
+shmalloced,VAR_4
+shminfo,VAR_5
+shmsegs,VAR_6
+shmrealloc,FUNC_5
+newsegs,VAR_7
+i,VAR_8

@@ -1,0 +1,14 @@
+I82975X_DERRSYN,VAR_0
+I82975X_DES,VAR_1
+I82975X_EAP,VAR_2
+I82975X_ERRSTS,VAR_3
+I82975X_XEAP,VAR_4
+pci_read_config_byte,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_bits16,FUNC_3
+to_pci_dev,FUNC_4
+i82975x_get_error_info,FUNC_5
+mci,VAR_5
+info,VAR_6
+pdev,VAR_7

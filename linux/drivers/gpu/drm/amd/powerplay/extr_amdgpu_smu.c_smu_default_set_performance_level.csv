@@ -1,0 +1,14 @@
+SMU_MCLK,VAR_0
+SMU_SCLK,VAR_1
+SMU_SOCCLK,VAR_2
+smu_force_clk_levels,FUNC_0
+smu_force_dpm_limit_value,FUNC_1
+smu_get_profiling_clk_mask,FUNC_2
+smu_unforce_dpm_levels,FUNC_3
+smu_default_set_performance_level,FUNC_4
+smu,VAR_3
+level,VAR_4
+ret,VAR_5
+sclk_mask,VAR_6
+mclk_mask,VAR_7
+soc_mask,VAR_8

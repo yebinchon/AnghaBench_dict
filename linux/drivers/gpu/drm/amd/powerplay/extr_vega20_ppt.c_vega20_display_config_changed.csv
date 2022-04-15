@@ -1,0 +1,12 @@
+SMU_FEATURE_DPM_DCEFCLK_BIT,VAR_0
+SMU_FEATURE_DPM_SOCCLK_BIT,VAR_1
+SMU_MSG_NumOfDisplays,VAR_2
+WATERMARKS_EXIST,VAR_3
+WATERMARKS_LOADED,VAR_4
+pr_err,FUNC_0
+smu_feature_is_supported,FUNC_1
+smu_send_smc_msg_with_param,FUNC_2
+smu_write_watermarks_table,FUNC_3
+vega20_display_config_changed,FUNC_4
+smu,VAR_5
+ret,VAR_6

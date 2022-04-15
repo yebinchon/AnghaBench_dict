@@ -1,0 +1,13 @@
+PTE_DEVICE,VAR_0
+VM_MEMATTR_DEVICE,VAR_1
+VM_PROT_READ,VAR_2
+VM_PROT_WRITE,VAR_3
+devmap_bootstrap_done,VAR_4
+devmap_table,VAR_5
+pmap_kenter_device,FUNC_0
+pmap_map_chunk,FUNC_1
+pmap_preboot_map_attr,FUNC_2
+devmap_bootstrap,FUNC_3
+l1pt,VAR_6
+table,VAR_7
+pd,VAR_8

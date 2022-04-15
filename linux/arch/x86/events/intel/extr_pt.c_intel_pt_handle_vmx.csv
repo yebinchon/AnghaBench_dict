@@ -1,0 +1,15 @@
+MSR_IA32_RTIT_CTL,VAR_0
+PERF_AUX_FLAG_PARTIAL,VAR_1
+WRITE_ONCE,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+perf_aux_output_flag,FUNC_3
+pt_ctx,VAR_2
+pt_pmu,VAR_3
+this_cpu_ptr,FUNC_4
+wrmsrl,FUNC_5
+intel_pt_handle_vmx,FUNC_6
+on,VAR_4
+pt,VAR_5
+event,VAR_6
+flags,VAR_7

@@ -1,0 +1,9 @@
+SC27XX_FGU_CAP_AREA_MASK,VAR_0
+SC27XX_FGU_USER_AREA_CLEAR,VAR_1
+SC27XX_FGU_USER_AREA_SET,VAR_2
+regmap_update_bits,FUNC_0
+udelay,FUNC_1
+sc27xx_fgu_save_last_cap,FUNC_2
+data,VAR_3
+cap,VAR_4
+ret,VAR_5

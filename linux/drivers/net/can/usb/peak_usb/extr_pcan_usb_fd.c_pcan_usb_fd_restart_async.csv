@@ -1,0 +1,13 @@
+GFP_ATOMIC,VAR_0
+PCAN_USBPRO_EP_CMDOUT,VAR_1
+memset,FUNC_0
+pcan_usb_fd_build_restart_cmd,FUNC_1
+pcan_usb_pro_restart_complete,VAR_2
+usb_fill_bulk_urb,FUNC_2
+usb_sndbulkpipe,FUNC_3
+usb_submit_urb,FUNC_4
+pcan_usb_fd_restart_async,FUNC_5
+dev,VAR_3
+urb,VAR_4
+buf,VAR_5
+pc,VAR_6

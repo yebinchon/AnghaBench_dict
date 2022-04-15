@@ -1,0 +1,11 @@
+KERNEL_MOUNT_NOAUTH,VAR_0
+MNT_DONTBROWSE,VAR_1
+NULLVP,VAR_2
+kernel_mount,FUNC_0
+printf,FUNC_1
+vfs_context_kernel,FUNC_2
+devfs_kernel_mount,FUNC_3
+mntname,VAR_3
+error,VAR_4
+ctx,VAR_5
+fsname,VAR_6

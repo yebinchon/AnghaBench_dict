@@ -1,0 +1,14 @@
+DMA_TX_SIZE,VAR_0
+dma_free_tx_skbufs,FUNC_0
+netdev_get_tx_queue,FUNC_1
+netdev_tx_reset_queue,FUNC_2
+netif_tx_stop_queue,FUNC_3
+netif_tx_wake_queue,FUNC_4
+stmmac_init_tx_desc,FUNC_5
+stmmac_start_tx_dma,FUNC_6
+stmmac_stop_tx_dma,FUNC_7
+stmmac_tx_err,FUNC_8
+priv,VAR_1
+chan,VAR_2
+tx_q,VAR_3
+i,VAR_4

@@ -1,0 +1,14 @@
+GIT_PKT_PROGRESS,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_strn,FUNC_1
+cl_git_pass,FUNC_2
+git_pkt_free,FUNC_3
+git_pkt_parse_line,FUNC_4
+strlen,FUNC_5
+assert_sideband_progress_parses,FUNC_6
+line,VAR_1
+expected_data,VAR_2
+expected_len,VAR_3
+linelen,VAR_4
+endptr,VAR_5
+pkt,VAR_6

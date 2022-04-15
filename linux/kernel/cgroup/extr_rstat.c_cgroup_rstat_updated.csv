@@ -1,0 +1,15 @@
+cgroup_parent,FUNC_0
+cgroup_rstat_cpu,FUNC_1
+cgroup_rstat_cpu_lock,VAR_0
+per_cpu_ptr,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+smp_mb,FUNC_5
+cgroup_rstat_updated,FUNC_6
+cgrp,VAR_1
+cpu,VAR_2
+cpu_lock,VAR_3
+parent,VAR_4
+flags,VAR_5
+rstatc,VAR_6
+prstatc,VAR_7

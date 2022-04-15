@@ -1,0 +1,11 @@
+MPLS_LS_LABEL_SHIFT,VAR_0
+MPLS_LS_S_SHIFT,VAR_1
+MPLS_LS_TC_SHIFT,VAR_2
+MPLS_LS_TTL_SHIFT,VAR_3
+cpu_to_be32,FUNC_0
+mpls_entry_encode,FUNC_1
+label,VAR_4
+ttl,VAR_5
+tc,VAR_6
+bos,VAR_7
+result,VAR_8

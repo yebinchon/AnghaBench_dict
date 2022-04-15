@@ -1,0 +1,14 @@
+DVSCNTR,FUNC_0
+DVS_ENABLE,VAR_0
+I915_READ,FUNC_1
+POWER_DOMAIN_PIPE,FUNC_2
+intel_display_power_get_if_enabled,FUNC_3
+intel_display_power_put,FUNC_4
+to_i915,FUNC_5
+g4x_plane_get_hw_state,FUNC_6
+plane,VAR_1
+pipe,VAR_2
+dev_priv,VAR_3
+power_domain,VAR_4
+wakeref,VAR_5
+ret,VAR_6

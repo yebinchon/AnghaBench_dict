@@ -1,0 +1,13 @@
+UDESC_HUB,VAR_0
+UR_GET_DESCRIPTOR,VAR_1
+USETW,FUNC_0
+USETW2,FUNC_1
+UT_READ_CLASS_DEVICE,VAR_2
+usbd_do_request,FUNC_2
+usbd_req_get_hub_descriptor,FUNC_3
+udev,VAR_3
+mtx,VAR_4
+hd,VAR_5
+nports,VAR_6
+req,VAR_7
+len,VAR_8

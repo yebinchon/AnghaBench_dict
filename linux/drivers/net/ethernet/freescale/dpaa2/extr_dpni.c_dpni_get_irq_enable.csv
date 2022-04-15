@@ -1,0 +1,15 @@
+DPNI_CMDID_GET_IRQ_ENABLE,VAR_0
+ENABLE,VAR_1
+dpni_get_field,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpni_get_irq_enable,FUNC_3
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+irq_index,VAR_5
+en,VAR_6
+cmd,VAR_7
+cmd_params,VAR_8
+rsp_params,VAR_9
+err,VAR_10

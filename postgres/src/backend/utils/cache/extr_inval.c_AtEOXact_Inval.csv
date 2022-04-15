@@ -1,0 +1,13 @@
+AppendInvalidationMessages,FUNC_0
+Assert,FUNC_1
+LocalExecuteInvalidationMessage,VAR_0
+ProcessInvalidationMessages,FUNC_2
+ProcessInvalidationMessagesMulti,FUNC_3
+RelationCacheInitFilePostInvalidate,FUNC_4
+RelationCacheInitFilePreInvalidate,FUNC_5
+SendSharedInvalidMessages,VAR_1
+SharedInvalidMessagesArray,VAR_2
+numSharedInvalidMessagesArray,VAR_3
+transInvalInfo,VAR_4
+AtEOXact_Inval,FUNC_6
+isCommit,VAR_5

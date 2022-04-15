@@ -1,0 +1,14 @@
+SDHCI_CLOCK_CONTROL,VAR_0
+SDHCI_SPRD_BIT_CMD_DLY_INV,VAR_1
+SDHCI_SPRD_BIT_POSRD_DLY_INV,VAR_2
+SDHCI_SPRD_PHY_DLL_CLK,VAR_3
+_sdhci_sprd_set_clock,FUNC_0
+sdhci_sprd_enable_phy_dll,FUNC_1
+sdhci_sprd_sd_clk_off,FUNC_2
+sdhci_sprd_set_dll_invert,FUNC_3
+sdhci_writew,FUNC_4
+sdhci_sprd_set_clock,FUNC_5
+host,VAR_4
+clock,VAR_5
+en,VAR_6
+clk_changed,VAR_7

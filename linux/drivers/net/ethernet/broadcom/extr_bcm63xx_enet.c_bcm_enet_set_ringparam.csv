@@ -1,0 +1,12 @@
+bcm_enet_open,FUNC_0
+bcm_enet_set_multicast_list,FUNC_1
+bcm_enet_stop,FUNC_2
+dev_close,FUNC_3
+netdev_priv,FUNC_4
+netif_running,FUNC_5
+bcm_enet_set_ringparam,FUNC_6
+dev,VAR_0
+ering,VAR_1
+priv,VAR_2
+was_running,VAR_3
+err,VAR_4

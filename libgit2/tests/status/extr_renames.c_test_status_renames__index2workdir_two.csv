@@ -1,0 +1,16 @@
+GIT_STATUS_OPTIONS_INIT,VAR_0
+GIT_STATUS_OPT_INCLUDE_UNTRACKED,VAR_1
+GIT_STATUS_OPT_RENAMES_INDEX_TO_WORKDIR,VAR_2
+GIT_STATUS_WT_MODIFIED,VAR_3
+GIT_STATUS_WT_RENAMED,VAR_4
+check_status,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_5
+git_status_list_free,FUNC_2
+git_status_list_new,FUNC_3
+rename_and_edit_file,FUNC_4
+rename_file,FUNC_5
+test_status_renames__index2workdir_two,FUNC_6
+statuslist,VAR_6
+opts,VAR_7
+expected,VAR_8

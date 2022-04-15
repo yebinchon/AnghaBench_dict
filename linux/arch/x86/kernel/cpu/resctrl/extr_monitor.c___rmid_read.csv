@@ -1,0 +1,8 @@
+MSR_IA32_QM_CTR,VAR_0
+MSR_IA32_QM_EVTSEL,VAR_1
+rdmsrl,FUNC_0
+wrmsr,FUNC_1
+__rmid_read,FUNC_2
+rmid,VAR_2
+eventid,VAR_3
+val,VAR_4

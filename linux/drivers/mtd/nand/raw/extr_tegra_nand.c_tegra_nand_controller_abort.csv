@@ -1,0 +1,12 @@
+COMMAND,VAR_0
+DMA_MST_CTRL,VAR_1
+ISR,VAR_2
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+readl_relaxed,FUNC_2
+reinit_completion,FUNC_3
+writel_relaxed,FUNC_4
+tegra_nand_controller_abort,FUNC_5
+ctrl,VAR_3
+isr,VAR_4
+dma,VAR_5

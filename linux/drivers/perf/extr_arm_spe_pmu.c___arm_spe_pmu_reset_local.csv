@@ -1,0 +1,6 @@
+SYS_PMBPTR_EL1,VAR_0
+SYS_PMBSR_EL1,VAR_1
+arm_spe_pmu_disable_and_drain_local,FUNC_0
+isb,FUNC_1
+write_sysreg_s,FUNC_2
+__arm_spe_pmu_reset_local,FUNC_3

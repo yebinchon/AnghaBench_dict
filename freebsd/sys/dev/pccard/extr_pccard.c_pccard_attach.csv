@@ -1,0 +1,8 @@
+PCCARD_SOFTC,FUNC_0
+STAILQ_INIT,FUNC_1
+bus_generic_attach,FUNC_2
+pccard_device_create,FUNC_3
+pccard_attach,FUNC_4
+dev,VAR_0
+sc,VAR_1
+err,VAR_2

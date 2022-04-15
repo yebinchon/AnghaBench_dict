@@ -1,0 +1,15 @@
+VMCI_ERROR_NO_MEM,VAR_0
+VMCI_MEMORY_ATOMIC,VAR_1
+VMCI_SUCCESS,VAR_2
+entry,VAR_3
+mtx_lock,FUNC_0
+mtx_unlock,FUNC_1
+taskqueue_enqueue,FUNC_2
+taskqueue_thread,VAR_4
+vmci_alloc_kernel_mem,FUNC_3
+vmci_list_insert,FUNC_4
+vmci_sc,VAR_5
+vmci_schedule_delayed_work_fn,FUNC_5
+work_fn,VAR_6
+data,VAR_7
+delayed_work_info,VAR_8

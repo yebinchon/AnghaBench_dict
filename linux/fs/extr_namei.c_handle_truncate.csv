@@ -1,0 +1,13 @@
+ATTR_CTIME,VAR_0
+ATTR_MTIME,VAR_1
+ATTR_OPEN,VAR_2
+do_truncate,FUNC_0
+get_write_access,FUNC_1
+locks_verify_locked,FUNC_2
+put_write_access,FUNC_3
+security_path_truncate,FUNC_4
+handle_truncate,FUNC_5
+filp,VAR_3
+path,VAR_4
+inode,VAR_5
+error,VAR_6

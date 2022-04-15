@@ -1,0 +1,14 @@
+MSR_IA32_APERF,VAR_0
+MSR_IA32_MPERF,VAR_1
+intel_pstate_calc_avg_perf,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+rdmsrl,FUNC_3
+rdtsc,FUNC_4
+intel_pstate_sample,FUNC_5
+cpu,VAR_2
+time,VAR_3
+aperf,VAR_4
+mperf,VAR_5
+flags,VAR_6
+tsc,VAR_7

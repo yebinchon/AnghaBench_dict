@@ -1,0 +1,9 @@
+MAC_RFCR,VAR_0
+MAC_RFCR_RFE_LEN,VAR_1
+MAC_RFCR_RFE_POS,VAR_2
+XLGMAC_SET_REG_BITS,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+xlgmac_enable_rx_flow_control,FUNC_3
+pdata,VAR_3
+regval,VAR_4

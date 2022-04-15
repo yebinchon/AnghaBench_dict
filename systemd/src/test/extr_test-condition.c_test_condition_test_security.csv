@@ -1,0 +1,14 @@
+CONDITION_SECURITY,VAR_0
+assert_se,FUNC_0
+condition_free,FUNC_1
+condition_new,FUNC_2
+condition_test,FUNC_3
+is_efi_secure_boot,FUNC_4
+mac_apparmor_use,FUNC_5
+mac_selinux_use,FUNC_6
+mac_smack_use,FUNC_7
+mac_tomoyo_use,FUNC_8
+use_audit,FUNC_9
+use_ima,FUNC_10
+test_condition_test_security,FUNC_11
+condition,VAR_1

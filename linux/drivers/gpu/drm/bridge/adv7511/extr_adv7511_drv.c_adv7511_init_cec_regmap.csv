@@ -1,0 +1,13 @@
+ADV7511_CEC_I2C_ADDR_DEFAULT,VAR_0
+ADV7533,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+adv7511_cec_regmap_config,VAR_2
+adv7533_patch_cec_registers,FUNC_2
+devm_regmap_init_i2c,FUNC_3
+i2c_new_ancillary_device,FUNC_4
+i2c_set_clientdata,FUNC_5
+i2c_unregister_device,FUNC_6
+adv7511_init_cec_regmap,FUNC_7
+adv,VAR_3
+ret,VAR_4

@@ -1,0 +1,17 @@
+A_ESPI_MISC_CONTROL,VAR_0
+A_ESPI_SCH_TOKEN3,VAR_1
+F_MONITORED_DIRECTION,VAR_2
+MON_MASK,VAR_3
+V_MONITORED_PORT_NUM,FUNC_0
+readl,FUNC_1
+spin_lock,FUNC_2
+spin_trylock,FUNC_3
+spin_unlock,FUNC_4
+writel,FUNC_5
+t1_espi_get_mon_t204,FUNC_6
+adapter,VAR_4
+valp,VAR_5
+wait,VAR_6
+espi,VAR_7
+i,VAR_8
+nport,VAR_9

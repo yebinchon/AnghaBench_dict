@@ -1,0 +1,13 @@
+ENV_SIGNER_CERT,VAR_0
+NCONF_get_string,FUNC_0
+TS_CONF_load_cert,FUNC_1
+TS_RESP_CTX_set_signer_cert,FUNC_2
+X509_free,FUNC_3
+ts_CONF_lookup_fail,FUNC_4
+TS_CONF_set_signer_cert,FUNC_5
+conf,VAR_1
+section,VAR_2
+cert,VAR_3
+ctx,VAR_4
+ret,VAR_5
+cert_obj,VAR_6

@@ -1,0 +1,14 @@
+device_get_softc,FUNC_0
+rtas_call_method,FUNC_1
+rtaspci_read_config,FUNC_2
+dev,VAR_0
+bus,VAR_1
+slot,VAR_2
+func,VAR_3
+reg,VAR_4
+width,VAR_5
+sc,VAR_6
+retval,VAR_7
+config_addr,VAR_8
+error,VAR_9
+pcierror,VAR_10

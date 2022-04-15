@@ -1,0 +1,12 @@
+UART_NUM,VAR_0
+free,FUNC_0
+portENTER_CRITICAL,FUNC_1
+portEXIT_CRITICAL,FUNC_2
+uart_get_selectlock,FUNC_3
+uart_set_select_notif_callback,FUNC_4
+unregister_select,FUNC_5
+uart_end_select,FUNC_6
+end_select_args,VAR_1
+args,VAR_2
+ret,VAR_3
+i,VAR_4

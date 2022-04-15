@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+XBF_DELWRI,VAR_0
+_RET_IP_,VAR_1
+_XBF_DELWRI_Q,VAR_2
+list_del_init,FUNC_1
+list_empty,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+trace_xfs_buf_delwri_dequeue,FUNC_5
+xfs_buf_rele,FUNC_6
+xfs_buf_delwri_dequeue,FUNC_7
+bp,VAR_3
+dwlk,VAR_4
+dequeued,VAR_5

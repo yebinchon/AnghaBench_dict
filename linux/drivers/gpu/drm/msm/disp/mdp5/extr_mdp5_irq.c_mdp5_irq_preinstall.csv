@@ -1,0 +1,11 @@
+REG_MDP5_INTR_CLEAR,VAR_0
+REG_MDP5_INTR_EN,VAR_1
+mdp5_write,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put_sync,FUNC_2
+to_mdp5_kms,FUNC_3
+to_mdp_kms,FUNC_4
+mdp5_irq_preinstall,FUNC_5
+kms,VAR_2
+mdp5_kms,VAR_3
+dev,VAR_4

@@ -1,0 +1,11 @@
+BIO_F_BIO_SOCK_INIT,VAR_0
+BIO_R_WSASTARTUP,VAR_1
+BIOerr,FUNC_0
+ERR_LIB_SYS,VAR_2
+ERR_raise_data,FUNC_1
+WSAStartup,FUNC_2
+get_last_socket_error,FUNC_3
+memset,FUNC_4
+sock_init,FUNC_5
+wsa_init_done,VAR_3
+BIO_sock_init,FUNC_6

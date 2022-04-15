@@ -1,0 +1,9 @@
+UTMIPLL_HW_PWRDN_CFG0,VAR_0
+UTMIPLL_HW_PWRDN_CFG0_IDDQ_OVERRIDE,VAR_1
+UTMIPLL_HW_PWRDN_CFG0_UTMIPLL_LOCK,VAR_2
+clk_base,VAR_3
+pr_err,FUNC_0
+readl_relaxed,FUNC_1
+writel_relaxed,FUNC_2
+tegra210_put_utmipll_in_iddq,FUNC_3
+reg,VAR_4

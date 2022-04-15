@@ -1,0 +1,16 @@
+MIO_EMM_RSP_STS,FUNC_0
+MIO_EMM_RSP_STS_SWITCH_VAL,VAR_0
+MIO_EMM_SWITCH,FUNC_1
+check_switch_errors,FUNC_2
+clear_bus_id,FUNC_3
+get_bus_id,FUNC_4
+readq,FUNC_5
+set_bus_id,FUNC_6
+udelay,FUNC_7
+writeq,FUNC_8
+do_switch,FUNC_9
+host,VAR_1
+emm_switch,VAR_2
+retries,VAR_3
+rsp_sts,VAR_4
+bus_id,VAR_5

@@ -1,0 +1,16 @@
+ERROR_SUCCESS,VAR_0
+ITERATE_FindRelatedProducts,VAR_1
+MSI_DatabaseOpenViewW,FUNC_0
+MSI_IterateRecords,FUNC_1
+TRACE,FUNC_2
+msi_action_is_unique,FUNC_3
+msi_get_property_int,FUNC_4
+msi_register_unique_action,FUNC_5
+msiobj_release,FUNC_6
+szFindRelatedProducts,VAR_2
+szInstalled,VAR_3
+ACTION_FindRelatedProducts,FUNC_7
+package,VAR_4
+query,VAR_5
+view,VAR_6
+rc,VAR_7

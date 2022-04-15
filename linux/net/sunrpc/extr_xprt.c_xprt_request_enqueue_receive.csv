@@ -1,0 +1,13 @@
+RPC_TASK_NEED_RECV,VAR_0
+del_singleshot_timer_sync,FUNC_0
+memcpy,FUNC_1
+set_bit,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+xprt_request_need_enqueue_receive,FUNC_5
+xprt_request_prepare,FUNC_6
+xprt_request_rb_insert,FUNC_7
+xprt_request_enqueue_receive,FUNC_8
+task,VAR_1
+req,VAR_2
+xprt,VAR_3

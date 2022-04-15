@@ -1,0 +1,14 @@
+DC_DC8051_CFG_RAM_ACCESS_CTRL,VAR_0
+DC_DC8051_CFG_RAM_ACCESS_SETUP,VAR_1
+__read_8051_data,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+write_csr,FUNC_3
+read_8051_data,FUNC_4
+dd,VAR_2
+addr,VAR_3
+len,VAR_4
+result,VAR_5
+flags,VAR_6
+done,VAR_7
+ret,VAR_8

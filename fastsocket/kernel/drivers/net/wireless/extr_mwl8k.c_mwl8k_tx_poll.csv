@@ -1,0 +1,15 @@
+MWL8K_A2H_INT_TX_DONE,VAR_0
+MWL8K_HIU_A2H_INTERRUPT_STATUS,VAR_1
+complete,FUNC_0
+mwl8k_tx_queues,FUNC_1
+mwl8k_txq_reclaim,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+tasklet_schedule,FUNC_5
+writel,FUNC_6
+mwl8k_tx_poll,FUNC_7
+data,VAR_2
+hw,VAR_3
+priv,VAR_4
+limit,VAR_5
+i,VAR_6

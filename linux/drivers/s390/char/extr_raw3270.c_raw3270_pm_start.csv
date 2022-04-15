@@ -1,0 +1,11 @@
+RAW3270_FLAGS_FROZEN,VAR_0
+clear_bit,FUNC_0
+dev_get_drvdata,FUNC_1
+get_ccwdev_lock,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stub1,FUNC_5
+raw3270_pm_start,FUNC_6
+cdev,VAR_1
+rp,VAR_2
+flags,VAR_3

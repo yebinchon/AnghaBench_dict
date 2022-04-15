@@ -1,0 +1,16 @@
+SEND_IDLE,VAR_0
+SEND_READY,VAR_1
+atomic_read,FUNC_0
+hsi_client_drvdata,FUNC_1
+hsi_stop_tx,FUNC_2
+list_empty,FUNC_3
+netif_wake_queue,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+ssip_release_cmd,FUNC_7
+ssip_set_txstate,FUNC_8
+ssip_xmit,FUNC_9
+ssip_swbreak_complete,FUNC_10
+msg,VAR_2
+cl,VAR_3
+ssi,VAR_4

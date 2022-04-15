@@ -1,0 +1,9 @@
+cl_assert_equal_b,FUNC_0
+cl_git_pass,FUNC_1
+clar_sandbox_path,FUNC_2
+git_repository_free,FUNC_3
+git_repository_is_bare,FUNC_4
+git_repository_new,FUNC_5
+git_repository_set_workdir,FUNC_6
+test_repo_new__is_bare_until_workdir_set,FUNC_7
+repo,VAR_0

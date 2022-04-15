@@ -1,0 +1,13 @@
+CRYPT_guid2wstr,FUNC_0
+ERROR_SUCCESS,VAR_0
+HKEY_LOCAL_MACHINE,VAR_1
+RegDeleteKeyW,FUNC_1
+lstrcatW,FUNC_2
+lstrcpyW,FUNC_3
+lstrlenW,FUNC_4
+szOID,VAR_2
+CRYPT_SIPDeleteFunction,FUNC_5
+guid,VAR_3
+szKey,VAR_4
+szFullKey,VAR_5
+r,VAR_6

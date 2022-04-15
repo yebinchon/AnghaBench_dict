@@ -1,0 +1,10 @@
+NAU8825_REG_DATA_LEN,VAR_0
+NAU8825_REG_INT_CLR_KEY_STATUS,VAR_1
+NAU8825_REG_IRQ_STATUS,VAR_2
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+nau8825_int_status_clear_all,FUNC_2
+regmap,VAR_3
+active_irq,VAR_4
+clear_irq,VAR_5
+i,VAR_6

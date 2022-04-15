@@ -1,0 +1,12 @@
+BR_MAX_RSA_SIZE,VAR_0
+br_rsa_i32_public,FUNC_0
+br_rsa_pkcs1_sig_unpad,FUNC_1
+memcpy,FUNC_2
+br_rsa_i32_pkcs1_vrfy,FUNC_3
+x,VAR_1
+xlen,VAR_2
+hash_oid,VAR_3
+hash_len,VAR_4
+pk,VAR_5
+hash_out,VAR_6
+sig,VAR_7

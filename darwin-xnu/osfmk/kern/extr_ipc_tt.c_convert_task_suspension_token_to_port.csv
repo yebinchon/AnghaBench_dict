@@ -1,0 +1,14 @@
+IKOT_TASK_RESUME,VAR_0
+IP_NULL,VAR_1
+IP_VALID,FUNC_0
+assert,FUNC_1
+ipc_kobject_set,FUNC_2
+ipc_port_alloc_kernel,FUNC_3
+ipc_port_make_sonce,FUNC_4
+panic,FUNC_5
+task_lock,FUNC_6
+task_suspension_token_deallocate,FUNC_7
+task_unlock,FUNC_8
+convert_task_suspension_token_to_port,FUNC_9
+task,VAR_2
+port,VAR_3

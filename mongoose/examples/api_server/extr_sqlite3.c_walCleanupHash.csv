@@ -1,0 +1,17 @@
+HASHTABLE_NPAGE_ONE,VAR_0
+HASHTABLE_NSLOT,VAR_1
+assert,FUNC_0
+memset,FUNC_1
+testcase,FUNC_2
+walFramePage,FUNC_3
+walHash,FUNC_4
+walHashGet,FUNC_5
+walNextHash,FUNC_6
+walCleanupHash,FUNC_7
+pWal,VAR_2
+aHash,VAR_3
+aPgno,VAR_4
+iZero,VAR_5
+iLimit,VAR_6
+nByte,VAR_7
+i,VAR_8

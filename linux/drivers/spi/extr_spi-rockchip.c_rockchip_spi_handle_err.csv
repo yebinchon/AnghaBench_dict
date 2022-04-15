@@ -1,0 +1,12 @@
+ROCKCHIP_SPI_IMR,VAR_0
+RXDMA,VAR_1
+TXDMA,VAR_2
+atomic_read,FUNC_0
+dmaengine_terminate_async,FUNC_1
+spi_enable_chip,FUNC_2
+spi_master_get_devdata,FUNC_3
+writel_relaxed,FUNC_4
+rockchip_spi_handle_err,FUNC_5
+master,VAR_3
+msg,VAR_4
+rs,VAR_5

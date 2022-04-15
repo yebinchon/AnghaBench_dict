@@ -1,0 +1,12 @@
+NF_DROP,VAR_0
+XT_CONTINUE,VAR_1
+csum_replace2,FUNC_0
+htons,FUNC_1
+ip_hdr,FUNC_2
+skb_make_writable,FUNC_3
+ttl_tg,FUNC_4
+skb,VAR_2
+par,VAR_3
+iph,VAR_4
+info,VAR_5
+new_ttl,VAR_6

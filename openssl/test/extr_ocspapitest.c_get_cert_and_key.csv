@@ -1,0 +1,16 @@
+BIO_free,FUNC_0
+BIO_new_file,FUNC_1
+EVP_PKEY_free,FUNC_2
+PEM_read_bio_PrivateKey,FUNC_3
+PEM_read_bio_X509,FUNC_4
+TEST_ptr,FUNC_5
+X509_free,FUNC_6
+certstr,VAR_0
+privkeystr,VAR_1
+get_cert_and_key,FUNC_7
+cert_out,VAR_2
+key_out,VAR_3
+certbio,VAR_4
+keybio,VAR_5
+cert,VAR_6
+key,VAR_7

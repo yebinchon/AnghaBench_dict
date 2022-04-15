@@ -1,0 +1,15 @@
+comm_http,VAR_0
+comm_point_start_listening,FUNC_0
+comm_point_stop_listening,FUNC_1
+comm_ssl_shake_none,VAR_1
+http_check_connect,FUNC_2
+http_write_more,FUNC_3
+log_assert,FUNC_4
+sldns_buffer_clear,FUNC_5
+sldns_buffer_remaining,FUNC_6
+ssl_handshake,FUNC_7
+ssl_http_write_more,FUNC_8
+comm_point_http_handle_write,FUNC_9
+fd,VAR_2
+c,VAR_3
+r,VAR_4

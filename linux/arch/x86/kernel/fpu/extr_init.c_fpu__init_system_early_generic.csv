@@ -1,0 +1,13 @@
+X86_FEATURE_CPUID,VAR_0
+X86_FEATURE_FPU,VAR_1
+boot_cpu_data,VAR_2
+boot_cpu_has,FUNC_0
+cpu_caps_cleared,VAR_3
+fpu__probe_without_cpuid,FUNC_1
+pr_emerg,FUNC_2
+setup_clear_cpu_cap,FUNC_3
+setup_force_cpu_cap,FUNC_4
+test_bit,FUNC_5
+test_cpu_cap,FUNC_6
+fpu__init_system_early_generic,FUNC_7
+c,VAR_4

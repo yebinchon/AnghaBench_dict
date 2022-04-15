@@ -1,0 +1,13 @@
+PWM_DIS,VAR_0
+PWM_ENA,VAR_1
+pwm,VAR_2
+pwm_dumpregs,FUNC_0
+pwm_writel,FUNC_1
+pwmcheck,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+__pwm_channel_onoff,FUNC_5
+ch,VAR_3
+enabled,VAR_4
+flags,VAR_5
+t,VAR_6

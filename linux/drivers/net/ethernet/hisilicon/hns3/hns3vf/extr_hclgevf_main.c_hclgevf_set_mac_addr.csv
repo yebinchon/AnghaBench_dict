@@ -1,0 +1,17 @@
+ETH_ALEN,VAR_0
+HCLGE_MBX_MAC_VLAN_UC_ADD,VAR_1
+HCLGE_MBX_MAC_VLAN_UC_MODIFY,VAR_2
+HCLGE_MBX_SET_UNICAST,VAR_3
+ether_addr_copy,FUNC_0
+hclgevf_ae_get_hdev,FUNC_1
+hclgevf_send_mbx_msg,FUNC_2
+hclgevf_set_mac_addr,FUNC_3
+handle,VAR_4
+p,VAR_5
+is_first,VAR_6
+hdev,VAR_7
+old_mac_addr,VAR_8
+new_mac_addr,VAR_9
+msg_data,VAR_10
+subcode,VAR_11
+status,VAR_12

@@ -1,0 +1,13 @@
+EINTR,VAR_0
+EIO,VAR_1
+FSG_STATE_ABORT_BULK_OUT,VAR_2
+fsg_is_set,FUNC_0
+fsg_set_halt,FUNC_1
+halt_bulk_in_endpoint,FUNC_2
+raise_exception,FUNC_3
+start_in_transfer,FUNC_4
+throw_away_data,FUNC_5
+finish_reply,FUNC_6
+common,VAR_3
+bh,VAR_4
+rc,VAR_5

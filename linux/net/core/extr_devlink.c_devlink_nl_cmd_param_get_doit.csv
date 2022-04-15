@@ -1,0 +1,17 @@
+DEVLINK_CMD_PARAM_GET,VAR_0
+EINVAL,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+NLMSG_DEFAULT_SIZE,VAR_4
+devlink_nl_param_fill,FUNC_0
+devlink_param_get_from_info,FUNC_1
+genlmsg_reply,FUNC_2
+nlmsg_free,FUNC_3
+nlmsg_new,FUNC_4
+devlink_nl_cmd_param_get_doit,FUNC_5
+skb,VAR_5
+info,VAR_6
+devlink,VAR_7
+param_item,VAR_8
+msg,VAR_9
+err,VAR_10

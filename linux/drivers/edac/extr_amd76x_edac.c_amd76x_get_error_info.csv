@@ -1,0 +1,9 @@
+AMD76X_ECC_MODE_STATUS,VAR_0
+BIT,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_bits32,FUNC_2
+to_pci_dev,FUNC_3
+amd76x_get_error_info,FUNC_4
+mci,VAR_1
+info,VAR_2
+pdev,VAR_3

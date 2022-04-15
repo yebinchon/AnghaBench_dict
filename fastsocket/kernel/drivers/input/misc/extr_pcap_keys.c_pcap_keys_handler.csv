@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+KEY_HP,VAR_1
+KEY_POWER,VAR_2
+PCAP_REG_PSTAT,VAR_3
+ezx_pcap_read,FUNC_0
+input_report_key,FUNC_1
+input_sync,FUNC_2
+irq_to_pcap,FUNC_3
+pcap_keys_handler,FUNC_4
+irq,VAR_4
+_pcap_keys,VAR_5
+pcap_keys,VAR_6
+pirq,VAR_7
+pstat,VAR_8

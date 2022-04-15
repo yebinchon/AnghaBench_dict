@@ -1,0 +1,17 @@
+FLOW_DIVERT_CONNECT_STARTED,VAR_0
+PF_INET,VAR_1
+PF_INET6,VAR_2
+SOCK_DOM,FUNC_0
+SOF_FLOW_DIVERT,VAR_3
+SOPT_SET,VAR_4
+SO_TRAFFIC_CLASS,VAR_5
+VERIFY,FUNC_1
+flow_divert_send_traffic_class_update,FUNC_2
+g_tcp6_protosw,VAR_6
+g_tcp_protosw,VAR_7
+stub1,FUNC_3
+stub2,FUNC_4
+flow_divert_ctloutput,FUNC_5
+so,VAR_8
+sopt,VAR_9
+fd_cb,VAR_10

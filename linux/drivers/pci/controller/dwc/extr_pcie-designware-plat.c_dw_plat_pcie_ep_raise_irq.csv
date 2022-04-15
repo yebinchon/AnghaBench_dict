@@ -1,0 +1,11 @@
+dev_err,FUNC_0
+dw_pcie_ep_raise_legacy_irq,FUNC_1
+dw_pcie_ep_raise_msi_irq,FUNC_2
+dw_pcie_ep_raise_msix_irq,FUNC_3
+to_dw_pcie_from_ep,FUNC_4
+dw_plat_pcie_ep_raise_irq,FUNC_5
+ep,VAR_0
+func_no,VAR_1
+type,VAR_2
+interrupt_num,VAR_3
+pci,VAR_4

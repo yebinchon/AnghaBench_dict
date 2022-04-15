@@ -1,0 +1,11 @@
+FULL_DUPLEX,VAR_0
+PCI_COMMAND,VAR_1
+SPEED_0,VAR_2
+__ATL2_DOWN,VAR_3
+pci_read_config_word,FUNC_0
+set_bit,FUNC_1
+spin_lock_init,FUNC_2
+atl2_sw_init,FUNC_3
+adapter,VAR_4
+hw,VAR_5
+pdev,VAR_6

@@ -1,0 +1,16 @@
+INTINO,FUNC_0
+PCI_INTERRUPT_VALID,FUNC_1
+PSR_PCIA0_INT_MAP,VAR_0
+PSYCHO_READ8,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+ofw_pci_route_interrupt_common,FUNC_5
+pci_get_function,FUNC_6
+pci_get_slot,FUNC_7
+psycho_route_interrupt,FUNC_8
+bridge,VAR_1
+dev,VAR_2
+pin,VAR_3
+sc,VAR_4
+intrmap,VAR_5
+mintr,VAR_6

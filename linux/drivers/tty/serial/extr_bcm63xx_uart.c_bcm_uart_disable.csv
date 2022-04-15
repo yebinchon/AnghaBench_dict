@@ -1,0 +1,9 @@
+UART_CTL_BRGEN_MASK,VAR_0
+UART_CTL_REG,VAR_1
+UART_CTL_RXEN_MASK,VAR_2
+UART_CTL_TXEN_MASK,VAR_3
+bcm_uart_readl,FUNC_0
+bcm_uart_writel,FUNC_1
+bcm_uart_disable,FUNC_2
+port,VAR_4
+val,VAR_5

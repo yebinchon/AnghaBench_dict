@@ -1,0 +1,15 @@
+SCSI_MODE_PAGE_01_LENGTH,VAR_0
+SCSI_MODE_PAGE_02_LENGTH,VAR_1
+SCSI_MODE_PAGE_08_LENGTH,VAR_2
+SCSI_MODE_PAGE_0A_LENGTH,VAR_3
+SCSI_MODE_PAGE_1C_LENGTH,VAR_4
+sati_mode_sense_10_translate_data,FUNC_0
+sati_mode_sense_all_pages_translate_data,FUNC_1
+sati_mode_sense_calculate_page_header,FUNC_2
+sati_mode_sense_10_all_pages_translate_data,FUNC_3
+sequence,VAR_5
+ata_input_data,VAR_6
+scsi_io,VAR_7
+identify,VAR_8
+data_length,VAR_9
+page_offset,VAR_10

@@ -1,0 +1,17 @@
+I915_MODIFY_DISPBASE,FUNC_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+POSTING_READ,FUNC_3
+SPRCTL,FUNC_4
+SPRITE_ENABLE,VAR_0
+SPRSCALE,FUNC_5
+SPRSURF,FUNC_6
+intel_update_watermarks,FUNC_7
+to_intel_plane,FUNC_8
+ivb_disable_plane,FUNC_9
+plane,VAR_1
+dev,VAR_2
+dev_priv,VAR_3
+intel_plane,VAR_4
+pipe,VAR_5
+scaling_was_enabled,VAR_6

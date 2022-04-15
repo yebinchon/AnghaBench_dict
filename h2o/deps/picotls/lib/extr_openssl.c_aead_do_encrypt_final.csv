@@ -1,0 +1,13 @@
+EVP_CIPHER_CTX_ctrl,FUNC_0
+EVP_CTRL_GCM_GET_TAG,VAR_0
+EVP_EncryptFinal_ex,FUNC_1
+assert,FUNC_2
+aead_do_encrypt_final,FUNC_3
+_ctx,VAR_1
+_output,VAR_2
+ctx,VAR_3
+output,VAR_4
+off,VAR_5
+tag_size,VAR_6
+blocklen,VAR_7
+ret,VAR_8

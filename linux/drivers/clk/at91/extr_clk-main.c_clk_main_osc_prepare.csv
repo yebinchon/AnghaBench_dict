@@ -1,0 +1,15 @@
+AT91_CKGR_MOR,VAR_0
+AT91_PMC_KEY,VAR_1
+AT91_PMC_MOSCEN,VAR_2
+AT91_PMC_OSCBYPASS,VAR_3
+MOR_KEY_MASK,VAR_4
+clk_main_osc_ready,FUNC_0
+cpu_relax,FUNC_1
+regmap_read,FUNC_2
+regmap_write,FUNC_3
+to_clk_main_osc,FUNC_4
+clk_main_osc_prepare,FUNC_5
+hw,VAR_5
+osc,VAR_6
+regmap,VAR_7
+tmp,VAR_8

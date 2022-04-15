@@ -1,0 +1,14 @@
+GdipCreateFromHDC,FUNC_0
+GdipDeleteGraphics,FUNC_1
+GetDC,FUNC_2
+InvalidParameter,VAR_0
+Ok,VAR_1
+ReleaseDC,FUNC_3
+expect,FUNC_4
+hwnd,VAR_2
+pGdipGraphicsSetAbort,FUNC_5
+win_skip,FUNC_6
+test_GdipGraphicsSetAbort,FUNC_7
+hdc,VAR_3
+status,VAR_4
+graphics,VAR_5

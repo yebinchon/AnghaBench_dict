@@ -1,0 +1,14 @@
+HDAC_CORBRP,VAR_0
+HDAC_CORBWP,VAR_1
+HDA_CORB_ENTRY_LEN,VAR_2
+assert,FUNC_0
+hda_dma_ld_dword,FUNC_1
+hda_get_reg_by_offset,FUNC_2
+hda_response_interrupt,FUNC_3
+hda_send_command,FUNC_4
+hda_set_reg_by_offset,FUNC_5
+hda_corb_run,FUNC_6
+sc,VAR_3
+corb,VAR_4
+verb,VAR_5
+err,VAR_6

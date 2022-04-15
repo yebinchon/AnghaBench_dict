@@ -1,0 +1,14 @@
+MSG_NOTIFICATION,VAR_0
+SCTP_SHUTDOWN_EVENT,VAR_1
+sctp_assoc2id,FUNC_0
+sctp_event2skb,FUNC_1
+sctp_ulpevent_new,FUNC_2
+sctp_ulpevent_set_owner,FUNC_3
+skb_put,FUNC_4
+sctp_ulpevent_make_shutdown_event,FUNC_5
+asoc,VAR_2
+flags,VAR_3
+gfp,VAR_4
+event,VAR_5
+sse,VAR_6
+skb,VAR_7

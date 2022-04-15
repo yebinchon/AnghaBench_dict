@@ -1,0 +1,15 @@
+atf_is_error,FUNC_0
+atf_process_stream_fini,FUNC_1
+fork_with_streams,FUNC_2
+init_stream_w_default,FUNC_3
+atf_process_fork,FUNC_4
+c,VAR_0
+start,VAR_1
+outsb,VAR_2
+errsb,VAR_3
+v,VAR_4
+err,VAR_5
+inherit_outsb,VAR_6
+inherit_errsb,VAR_7
+real_outsb,VAR_8
+real_errsb,VAR_9

@@ -1,0 +1,15 @@
+BMA150_POLL_INTERVAL,VAR_0
+BMA150_POLL_MAX,VAR_1
+BMA150_POLL_MIN,VAR_2
+ENOMEM,VAR_3
+bma150_init_input_device,FUNC_0
+bma150_poll,VAR_4
+bma150_poll_close,VAR_5
+bma150_poll_open,VAR_6
+input_allocate_polled_device,FUNC_1
+input_free_polled_device,FUNC_2
+input_register_polled_device,FUNC_3
+bma150_register_polled_device,FUNC_4
+bma150,VAR_7
+ipoll_dev,VAR_8
+error,VAR_9

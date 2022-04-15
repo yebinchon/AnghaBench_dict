@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+VFIO_IRQ_SET_DATA_EVENTFD,VAR_0
+VFIO_IRQ_SET_DATA_NONE,VAR_1
+eventfd_ctx_fdget,FUNC_2
+gvt_vgpu_err,FUNC_3
+intel_vgpu_release_msi_eventfd_ctx,FUNC_4
+intel_vgpu_set_msi_trigger,FUNC_5
+vgpu,VAR_2
+index,VAR_3
+start,VAR_4
+count,VAR_5
+flags,VAR_6
+data,VAR_7
+trigger,VAR_8
+fd,VAR_9

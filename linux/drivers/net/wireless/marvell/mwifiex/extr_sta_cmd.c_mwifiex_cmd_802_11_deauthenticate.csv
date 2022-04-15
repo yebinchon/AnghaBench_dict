@@ -1,0 +1,13 @@
+CMD,VAR_0
+ETH_ALEN,VAR_1
+HostCmd_CMD_802_11_DEAUTHENTICATE,VAR_2
+S_DS_GEN,VAR_3
+WLAN_REASON_DEAUTH_LEAVING,VAR_4
+cpu_to_le16,FUNC_0
+memcpy,FUNC_1
+mwifiex_dbg,FUNC_2
+mwifiex_cmd_802_11_deauthenticate,FUNC_3
+priv,VAR_5
+cmd,VAR_6
+mac,VAR_7
+deauth,VAR_8

@@ -1,0 +1,11 @@
+CDC_NCM_COMM_ALTSETTING_MBIM,VAR_0
+CDC_NCM_DATA_ALTSETTING_MBIM,VAR_1
+CDC_NCM_DATA_ALTSETTING_NCM,VAR_2
+cdc_ncm_comm_intf_is_mbim,FUNC_0
+prefer_mbim,VAR_3
+usb_altnum_to_altsetting,FUNC_1
+usb_set_interface,FUNC_2
+cdc_ncm_select_altsetting,FUNC_3
+dev,VAR_4
+intf,VAR_5
+alt,VAR_6

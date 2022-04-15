@@ -1,0 +1,15 @@
+ISPRSZ_CNT,VAR_0
+ISPRSZ_CNT_HSTPH_MASK,VAR_1
+ISPRSZ_CNT_HSTPH_SHIFT,VAR_2
+ISPRSZ_CNT_VSTPH_MASK,VAR_3
+ISPRSZ_CNT_VSTPH_SHIFT,VAR_4
+OMAP3_ISP_IOMEM_RESZ,VAR_5
+isp_reg_readl,FUNC_0
+isp_reg_writel,FUNC_1
+to_isp_device,FUNC_2
+resizer_set_phase,FUNC_3
+res,VAR_6
+h_phase,VAR_7
+v_phase,VAR_8
+isp,VAR_9
+rgval,VAR_10

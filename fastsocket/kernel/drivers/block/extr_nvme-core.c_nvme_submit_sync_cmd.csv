@@ -1,0 +1,16 @@
+EINTR,VAR_0
+TASK_KILLABLE,VAR_1
+alloc_cmdid_killable,FUNC_0
+current,VAR_2
+nvme_abort_command,FUNC_1
+nvme_submit_cmd,FUNC_2
+schedule_timeout,FUNC_3
+set_current_state,FUNC_4
+sync_completion,VAR_3
+nvme_submit_sync_cmd,FUNC_5
+nvmeq,VAR_4
+cmd,VAR_5
+result,VAR_6
+timeout,VAR_7
+cmdid,VAR_8
+cmdinfo,VAR_9

@@ -1,0 +1,13 @@
+CVMX_SMI_CMD,VAR_0
+CVMX_SMI_RD_DAT,VAR_1
+MDIO_LOCK,FUNC_0
+MDIO_UNLOCK,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_wait,FUNC_3
+cvmx_write_csr,FUNC_4
+cvm_oct_mdio_read,FUNC_5
+ifp,VAR_2
+phy_id,VAR_3
+location,VAR_4
+smi_cmd,VAR_5
+smi_rd,VAR_6

@@ -1,0 +1,10 @@
+PB_FAN_1_RPM,VAR_0
+PMBUS_FAN_COMMAND_1,VAR_1
+PMBUS_FAN_CONFIG_12,VAR_2
+pmbus_read_byte_data,FUNC_0
+pmbus_read_word_data,FUNC_1
+max31785_get_pwm_mode,FUNC_2
+client,VAR_3
+page,VAR_4
+config,VAR_5
+command,VAR_6

@@ -1,0 +1,10 @@
+BPF_MAP_TYPE_ARRAY_OF_MAPS,VAR_0
+BPF_MAP_TYPE_REUSEPORT_SOCKARRAY,VAR_1
+CHECK,FUNC_0
+REUSEPORT_ARRAY_SIZE,VAR_2
+bpf_create_map_xattr,FUNC_1
+errno,VAR_3
+outer_map,VAR_4
+reuseport_array,VAR_5
+create_maps,FUNC_2
+attr,VAR_6

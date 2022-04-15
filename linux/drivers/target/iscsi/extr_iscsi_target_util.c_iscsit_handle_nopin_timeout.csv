@@ -1,0 +1,13 @@
+ISCSI_TF_RUNNING,VAR_0
+ISCSI_TF_STOP,VAR_1
+conn,VAR_2
+from_timer,FUNC_0
+iscsit_add_nopin,FUNC_1
+iscsit_dec_conn_usage_count,FUNC_2
+iscsit_inc_conn_usage_count,FUNC_3
+nopin_timer,VAR_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+iscsit_handle_nopin_timeout,FUNC_6
+t,VAR_4
+conn,VAR_5

@@ -1,0 +1,13 @@
+AlterTableInternal,FUNC_0
+Assert,FUNC_1
+IsA,FUNC_2
+RoleSpec,VAR_0
+TS_HYPERTABLE_HAS_COMPRESSION,FUNC_3
+foreach_chunk,FUNC_4
+list_make1,FUNC_5
+process_altertable_change_owner_chunk,VAR_1
+ts_hypertable_get_by_id,FUNC_6
+process_altertable_change_owner,FUNC_7
+ht,VAR_2
+cmd,VAR_3
+compressed_hypertable,VAR_4

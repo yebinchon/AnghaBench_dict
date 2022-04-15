@@ -1,0 +1,11 @@
+kvm_arm_timer_read,FUNC_0
+kvm_timer_vcpu_load,FUNC_1
+kvm_timer_vcpu_put,FUNC_2
+preempt_disable,FUNC_3
+preempt_enable,FUNC_4
+vcpu_get_timer,FUNC_5
+kvm_arm_timer_read_sysreg,FUNC_6
+vcpu,VAR_0
+tmr,VAR_1
+treg,VAR_2
+val,VAR_3

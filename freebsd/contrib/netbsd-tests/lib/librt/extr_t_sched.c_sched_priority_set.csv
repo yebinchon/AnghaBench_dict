@@ -1,0 +1,9 @@
+ATF_CHECK_EQ,FUNC_0
+ATF_REQUIRE,FUNC_1
+sched_getparam,FUNC_2
+sched_getscheduler,FUNC_3
+sched_setscheduler,FUNC_4
+sched_priority_set,FUNC_5
+pri,VAR_0
+pol,VAR_1
+sched,VAR_2

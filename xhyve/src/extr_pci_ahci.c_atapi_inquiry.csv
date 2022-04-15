@@ -1,0 +1,17 @@
+ATA_I_CMD,VAR_0
+ATA_I_IN,VAR_1
+ATA_SENSE_ILLEGAL_REQUEST,VAR_2
+ATA_S_DSC,VAR_3
+ATA_S_ERROR,VAR_4
+ATA_S_READY,VAR_5
+ahci_write_fis_d2h,FUNC_0
+atapi_string,FUNC_1
+write_prdt,FUNC_2
+atapi_inquiry,FUNC_3
+p,VAR_6
+slot,VAR_7
+cfis,VAR_8
+buf,VAR_9
+acmd,VAR_10
+len,VAR_11
+tfd,VAR_12

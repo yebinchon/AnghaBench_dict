@@ -1,0 +1,16 @@
+COUNT_EFUSE_BLOCKS,VAR_0
+EFUSE_CODING_SCHEME_RS,VAR_1
+ESP_ERR_CODING,VAR_2
+ESP_LOGE,FUNC_0
+ESP_OK,VAR_3
+REG_READ,FUNC_1
+TAG,VAR_4
+esp_efuse_get_coding_scheme,FUNC_2
+esp_efuse_utility_read_reg,FUNC_3
+range_read_addr_blocks,VAR_5
+range_write_addr_blocks,VAR_6
+esp_efuse_utility_apply_new_coding_scheme,FUNC_4
+num_block,VAR_7
+addr_wr_block,VAR_8
+num_reg,VAR_9
+addr_rd_block,VAR_10

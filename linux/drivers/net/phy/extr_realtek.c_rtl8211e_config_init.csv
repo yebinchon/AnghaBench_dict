@@ -1,0 +1,12 @@
+RTL8211E_RX_DELAY,VAR_0
+RTL8211E_TX_DELAY,VAR_1
+RTL821x_EXT_PAGE_SELECT,VAR_2
+__phy_modify,FUNC_0
+__phy_write,FUNC_1
+phy_restore_page,FUNC_2
+phy_select_page,FUNC_3
+rtl8211e_config_init,FUNC_4
+phydev,VAR_3
+ret,VAR_4
+oldpage,VAR_5
+val,VAR_6

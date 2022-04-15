@@ -1,0 +1,15 @@
+CreateVoutIfNeeded,FUNC_0
+DecoderUpdateFormatLocked,FUNC_1
+dec_get_owner,FUNC_2
+memcmp,FUNC_3
+msg_Dbg,FUNC_4
+vlc_decoder_device_Release,FUNC_5
+vlc_mutex_lock,FUNC_6
+vlc_mutex_unlock,FUNC_7
+ModuleThread_GetDecoderDevice,FUNC_8
+p_dec,VAR_0
+p_owner,VAR_1
+vout_order,VAR_2
+dec_device,VAR_3
+created_vout,VAR_4
+need_format_update,VAR_5

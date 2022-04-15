@@ -1,0 +1,15 @@
+ERROR,FUNC_0
+IPPROTO_ICMP,VAR_0
+IPPROTO_TCP,VAR_1
+TC_ACT_OK,VAR_2
+TC_ACT_SHOT,VAR_3
+bpf_htons,FUNC_1
+bpf_skb_set_tunnel_key,FUNC_2
+_ipip_set_tunnel,FUNC_3
+skb,VAR_4
+key,VAR_5
+data,VAR_6
+iph,VAR_7
+tcp,VAR_8
+data_end,VAR_9
+ret,VAR_10

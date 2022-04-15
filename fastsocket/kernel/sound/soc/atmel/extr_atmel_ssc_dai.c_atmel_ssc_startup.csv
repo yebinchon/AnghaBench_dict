@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+SR,VAR_2
+SSC_DIR_MASK_CAPTURE,VAR_3
+SSC_DIR_MASK_PLAYBACK,VAR_4
+pr_debug,FUNC_0
+snd_pcm_substream_chip,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+ssc_info,VAR_5
+ssc_readl,FUNC_4
+atmel_ssc_startup,FUNC_5
+substream,VAR_6
+dai,VAR_7
+rtd,VAR_8
+ssc_p,VAR_9
+dir_mask,VAR_10

@@ -1,0 +1,13 @@
+CVMX_CIU_MBOX_CLRX,FUNC_0
+cvmx_write_csr,FUNC_1
+hard_int_mask,FUNC_2
+mips_wbflush,FUNC_3
+mips_wr_ebase,FUNC_4
+octeon_ciu_reset,FUNC_5
+platform_ipi_hardintr_num,FUNC_6
+set_intr_mask,FUNC_7
+platform_init_ap,FUNC_8
+cpuid,VAR_0
+ciu_int_mask,VAR_1
+clock_int_mask,VAR_2
+ipi_int_mask,VAR_3

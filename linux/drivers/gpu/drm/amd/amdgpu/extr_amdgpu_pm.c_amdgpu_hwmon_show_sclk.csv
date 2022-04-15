@@ -1,0 +1,17 @@
+AMDGPU_PP_SENSOR_GFX_SCLK,VAR_0
+AMD_IS_PX,VAR_1
+DRM_SWITCH_POWER_ON,VAR_2
+EINVAL,VAR_3
+PAGE_SIZE,VAR_4
+amdgpu_dpm_read_sensor,FUNC_0
+dev_get_drvdata,FUNC_1
+snprintf,FUNC_2
+amdgpu_hwmon_show_sclk,FUNC_3
+dev,VAR_5
+attr,VAR_6
+buf,VAR_7
+adev,VAR_8
+ddev,VAR_9
+sclk,VAR_10
+r,VAR_11
+size,VAR_12

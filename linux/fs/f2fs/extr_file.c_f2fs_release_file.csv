@@ -1,0 +1,14 @@
+FI_DROP_CACHE,VAR_0
+FI_VOLATILE_FILE,VAR_1
+FMODE_WRITE,VAR_2
+atomic_read,FUNC_0
+clear_inode_flag,FUNC_1
+f2fs_drop_inmem_pages,FUNC_2
+f2fs_is_atomic_file,FUNC_3
+f2fs_is_volatile_file,FUNC_4
+filemap_fdatawrite,FUNC_5
+set_inode_flag,FUNC_6
+stat_dec_volatile_write,FUNC_7
+f2fs_release_file,FUNC_8
+inode,VAR_3
+filp,VAR_4

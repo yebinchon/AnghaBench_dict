@@ -1,0 +1,12 @@
+CURLOPT_PRIVATE,VAR_0
+CURLOPT_URL,VAR_1
+CURLOPT_WRITEFUNCTION,VAR_2
+curl_easy_init,FUNC_0
+curl_easy_setopt,FUNC_1
+curl_multi_add_handle,FUNC_2
+urls,VAR_3
+write_cb,VAR_4
+add_transfer,FUNC_3
+cm,VAR_5
+i,VAR_6
+eh,VAR_7

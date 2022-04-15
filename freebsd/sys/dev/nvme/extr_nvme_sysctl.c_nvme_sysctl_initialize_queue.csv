@@ -1,0 +1,14 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_UINT,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_ADD_QUAD,FUNC_1
+SYSCTL_ADD_UINT,FUNC_2
+SYSCTL_CHILDREN,FUNC_3
+nvme_sysctl_dump_debug,VAR_4
+nvme_sysctl_initialize_queue,FUNC_4
+qpair,VAR_5
+ctrlr_ctx,VAR_6
+que_tree,VAR_7
+que_list,VAR_8

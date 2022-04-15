@@ -1,0 +1,14 @@
+UART_IIR,VAR_0
+UART_IIR_ID,VAR_1
+UART_IIR_THRI,VAR_2
+serial8250_handle_irq,FUNC_0
+serial8250_tx_chars,FUNC_1
+serial_port_in,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+up_to_u8250p,FUNC_5
+serial8250_tx_threshold_handle_irq,FUNC_6
+port,VAR_3
+flags,VAR_4
+iir,VAR_5
+up,VAR_6

@@ -1,0 +1,14 @@
+FIELD_GET,FUNC_0
+STM32_VREFBUF_CSR,VAR_0
+STM32_VRS,VAR_1
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+pm_runtime_put_noidle,FUNC_4
+rdev_get_drvdata,FUNC_5
+readl_relaxed,FUNC_6
+stm32_vrefbuf_get_voltage_sel,FUNC_7
+rdev,VAR_2
+priv,VAR_3
+val,VAR_4
+ret,VAR_5

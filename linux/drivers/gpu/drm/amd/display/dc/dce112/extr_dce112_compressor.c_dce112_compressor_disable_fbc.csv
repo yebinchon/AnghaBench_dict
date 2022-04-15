@@ -1,0 +1,14 @@
+FBC_CNTL,VAR_0
+FBC_GRPH_COMP_EN,VAR_1
+TO_DCE112_COMPRESSOR,FUNC_0
+dce112_compressor_disable_lpt,FUNC_1
+dce112_compressor_is_fbc_enabled_in_hw,FUNC_2
+dm_read_reg,FUNC_3
+dm_write_reg,FUNC_4
+mmFBC_CNTL,VAR_2
+set_reg_field_value,FUNC_5
+wait_for_fbc_state_changed,FUNC_6
+dce112_compressor_disable_fbc,FUNC_7
+compressor,VAR_3
+cp110,VAR_4
+reg_data,VAR_5

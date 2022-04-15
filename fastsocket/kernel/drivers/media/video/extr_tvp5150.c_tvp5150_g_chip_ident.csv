@@ -1,0 +1,11 @@
+TVP5150_ROM_MAJOR_VER,VAR_0
+TVP5150_ROM_MINOR_VER,VAR_1
+V4L2_IDENT_TVP5150,VAR_2
+tvp5150_read,FUNC_0
+v4l2_chip_ident_i2c_client,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+tvp5150_g_chip_ident,FUNC_3
+sd,VAR_3
+chip,VAR_4
+rev,VAR_5
+client,VAR_6

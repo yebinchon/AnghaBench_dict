@@ -1,0 +1,17 @@
+DRM_ERROR,FUNC_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+SDE_ERROR_CPT,VAR_0
+SERR_INT,VAR_1
+SERR_INT_TRANS_FIFO_UNDERRUN,FUNC_3
+cpt_can_enable_serr_int,FUNC_4
+ibx_disable_display_interrupt,FUNC_5
+ibx_enable_display_interrupt,FUNC_6
+pipe_name,FUNC_7
+to_i915,FUNC_8
+cpt_set_fifo_underrun_reporting,FUNC_9
+dev,VAR_2
+pch_transcoder,VAR_3
+enable,VAR_4
+old,VAR_5
+dev_priv,VAR_6

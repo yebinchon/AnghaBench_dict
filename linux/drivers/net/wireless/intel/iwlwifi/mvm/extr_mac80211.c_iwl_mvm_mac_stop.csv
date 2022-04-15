@@ -1,0 +1,13 @@
+IWL_MAC80211_GET_MVM,FUNC_0
+IWL_MVM_STATUS_FIRMWARE_RUNNING,VAR_0
+__iwl_mvm_mac_stop,FUNC_1
+cancel_delayed_work_sync,FUNC_2
+cancel_work_sync,FUNC_3
+clear_bit,FUNC_4
+flush_work,FUNC_5
+iwl_fw_free_dump_desc,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+iwl_mvm_mac_stop,FUNC_9
+hw,VAR_1
+mvm,VAR_2

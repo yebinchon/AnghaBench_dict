@@ -1,0 +1,10 @@
+__blk_mq_delay_run_hw_queue,FUNC_0
+blk_mq_hctx_has_pending,FUNC_1
+blk_queue_quiesced,FUNC_2
+hctx_lock,FUNC_3
+hctx_unlock,FUNC_4
+blk_mq_run_hw_queue,FUNC_5
+hctx,VAR_0
+async,VAR_1
+srcu_idx,VAR_2
+need_run,VAR_3

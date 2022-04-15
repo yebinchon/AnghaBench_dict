@@ -1,0 +1,16 @@
+DMA_ACTIVE,VAR_0
+DMA_CR_E,VAR_1
+IOMD_SD0CR,VAR_2
+PCM_ENABLE_OUTPUT,VAR_3
+audio_devs,VAR_4
+dma_interrupt,VAR_5
+iomd_writeb,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+vidc_audio_dma_interrupt,VAR_6
+vidc_sound_dma_irq,FUNC_3
+vidc_audio_trigger,FUNC_4
+dev,VAR_7
+enable_bits,VAR_8
+adev,VAR_9
+flags,VAR_10

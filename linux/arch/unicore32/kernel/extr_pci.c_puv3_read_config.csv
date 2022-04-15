@@ -1,0 +1,12 @@
+CONFIG_CMD,FUNC_0
+PCIBIOS_SUCCESSFUL,VAR_0
+PCICFG_ADDR,VAR_1
+PCICFG_DATA,VAR_2
+readl,FUNC_1
+writel,FUNC_2
+puv3_read_config,FUNC_3
+bus,VAR_3
+devfn,VAR_4
+where,VAR_5
+size,VAR_6
+value,VAR_7

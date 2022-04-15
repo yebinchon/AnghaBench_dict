@@ -1,0 +1,10 @@
+apds9960_set_powermode,FUNC_0
+i2c_get_clientdata,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_set_suspended,FUNC_5
+apds9960_remove,FUNC_6
+client,VAR_0
+indio_dev,VAR_1
+data,VAR_2

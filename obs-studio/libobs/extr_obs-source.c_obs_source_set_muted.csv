@@ -1,0 +1,16 @@
+AUDIO_ACTION_MUTE,VAR_0
+calldata_init_fixed,FUNC_0
+calldata_set_bool,FUNC_1
+calldata_set_ptr,FUNC_2
+da_push_back,FUNC_3
+obs_source_valid,FUNC_4
+os_gettime_ns,FUNC_5
+pthread_mutex_lock,FUNC_6
+pthread_mutex_unlock,FUNC_7
+signal_handler_signal,FUNC_8
+obs_source_set_muted,FUNC_9
+source,VAR_1
+muted,VAR_2
+data,VAR_3
+stack,VAR_4
+action,VAR_5

@@ -1,0 +1,13 @@
+LDNS_MAX_DOMAINLEN,VAR_0
+dname_pkt_copy,FUNC_0
+log_assert,FUNC_1
+parse_get_cname_target,FUNC_2
+synth_cname,FUNC_3
+qname,VAR_1
+qnamelen,VAR_2
+dname_rrset,VAR_3
+alias,VAR_4
+aliaslen,VAR_5
+pkt,VAR_6
+dtarg,VAR_7
+dtarglen,VAR_8

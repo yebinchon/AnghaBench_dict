@@ -1,0 +1,15 @@
+CryptRegisterOIDFunction,FUNC_0
+CryptUnregisterOIDFunction,FUNC_1
+ERROR_ACCESS_DENIED,VAR_0
+E_INVALIDARG,VAR_1
+GetLastError,FUNC_2
+HKEY_LOCAL_MACHINE,VAR_2
+PKCS_7_ASN_ENCODING,VAR_3
+RegDeleteKeyA,FUNC_3
+SetLastError,FUNC_4
+X509_ASN_ENCODING,VAR_4
+bogusDll,VAR_5
+ok,FUNC_5
+skip,FUNC_6
+test_registerOIDFunction,FUNC_7
+ret,VAR_6

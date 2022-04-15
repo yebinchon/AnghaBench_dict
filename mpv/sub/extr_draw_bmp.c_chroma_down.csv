@@ -1,0 +1,14 @@
+IMGFMT_420P,VAR_0
+IMGFMT_444P,VAR_1
+IMGFMT_Y8,VAR_2
+SWS_AREA,VAR_3
+assert,FUNC_0
+mp_image_set_size,FUNC_1
+mp_image_setfmt,FUNC_2
+mp_image_swscale,FUNC_3
+chroma_down,FUNC_4
+old_src,VAR_4
+temp,VAR_5
+t_dst,VAR_6
+t_src,VAR_7
+c,VAR_8

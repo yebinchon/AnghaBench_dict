@@ -1,0 +1,9 @@
+BM_SAIF_CTRL_FIFO_ERROR_IRQ_EN,VAR_0
+MXS_SET_ADDR,VAR_1
+SAIF_CTRL,VAR_2
+__raw_writel,FUNC_0
+snd_soc_dai_get_drvdata,FUNC_1
+mxs_saif_prepare,FUNC_2
+substream,VAR_3
+cpu_dai,VAR_4
+saif,VAR_5

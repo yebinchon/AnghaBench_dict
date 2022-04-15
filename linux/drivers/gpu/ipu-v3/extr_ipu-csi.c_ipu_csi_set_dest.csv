@@ -1,0 +1,16 @@
+CSI_DATA_DEST_IC,VAR_0
+CSI_DATA_DEST_IDMAC,VAR_1
+CSI_SENS_CONF,VAR_2
+CSI_SENS_CONF_DATA_DEST_MASK,VAR_3
+CSI_SENS_CONF_DATA_DEST_SHIFT,VAR_4
+IPU_CSI_DEST_IDMAC,VAR_5
+ipu_csi_read,FUNC_0
+ipu_csi_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ipu_csi_set_dest,FUNC_4
+csi,VAR_6
+csi_dest,VAR_7
+flags,VAR_8
+csi_sens_conf,VAR_9
+dest,VAR_10

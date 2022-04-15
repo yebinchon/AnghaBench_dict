@@ -1,0 +1,15 @@
+ASB100_REG_PWM1,VAR_0
+asb100_write_value,FUNC_0
+i2c_get_clientdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+simple_strtoul,FUNC_4
+to_i2c_client,FUNC_5
+set_pwm_enable1,FUNC_6
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+client,VAR_5
+data,VAR_6
+val,VAR_7

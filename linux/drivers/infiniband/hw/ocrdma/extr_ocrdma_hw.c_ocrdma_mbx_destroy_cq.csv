@@ -1,0 +1,14 @@
+OCRDMA_CMD_DELETE_CQ,VAR_0
+OCRDMA_DESTROY_CQ_QID_MASK,VAR_1
+OCRDMA_DESTROY_CQ_QID_SHIFT,VAR_2
+OCRDMA_SUBSYS_COMMON,VAR_3
+dma_free_coherent,FUNC_0
+kfree,FUNC_1
+ocrdma_init_emb_mqe,FUNC_2
+ocrdma_init_mch,FUNC_3
+ocrdma_mbx_cmd,FUNC_4
+ocrdma_unbind_eq,FUNC_5
+ocrdma_mbx_destroy_cq,FUNC_6
+dev,VAR_4
+cq,VAR_5
+cmd,VAR_6

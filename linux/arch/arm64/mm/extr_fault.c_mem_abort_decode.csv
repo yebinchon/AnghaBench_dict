@@ -1,0 +1,16 @@
+ESR_ELx_EA,VAR_0
+ESR_ELx_EA_SHIFT,VAR_1
+ESR_ELx_EC,FUNC_0
+ESR_ELx_FnV,VAR_2
+ESR_ELx_FnV_SHIFT,VAR_3
+ESR_ELx_IL,VAR_4
+ESR_ELx_S1PTW,VAR_5
+ESR_ELx_S1PTW_SHIFT,VAR_6
+ESR_ELx_SET_MASK,VAR_7
+ESR_ELx_SET_SHIFT,VAR_8
+data_abort_decode,FUNC_1
+esr_get_class_string,FUNC_2
+esr_is_data_abort,FUNC_3
+pr_alert,FUNC_4
+mem_abort_decode,FUNC_5
+esr,VAR_9

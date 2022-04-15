@@ -1,0 +1,12 @@
+IP_VS_DBG_ADDR,FUNC_0
+IP_VS_DBG_BUF,FUNC_1
+__ip_vs_dst_cache_reset,FUNC_2
+ntohs,FUNC_3
+rcu_dereference_protected,FUNC_4
+refcount_read,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+ip_vs_forget_dev,FUNC_8
+dest,VAR_0
+dev,VAR_1
+dest_dst,VAR_2

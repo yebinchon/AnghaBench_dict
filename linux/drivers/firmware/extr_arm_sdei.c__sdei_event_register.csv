@@ -1,0 +1,15 @@
+SDEI_EVENT_REGISTER_RM_ANY,VAR_0
+SDEI_EVENT_TYPE_SHARED,VAR_1
+_local_event_register,VAR_2
+_local_event_unregister,VAR_3
+lockdep_assert_held,FUNC_0
+sdei_api_event_register,FUNC_1
+sdei_do_cross_call,FUNC_2
+sdei_entry_point,VAR_4
+sdei_events_lock,VAR_5
+sdei_list_lock,VAR_6
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+_sdei_event_register,FUNC_5
+event,VAR_7
+err,VAR_8

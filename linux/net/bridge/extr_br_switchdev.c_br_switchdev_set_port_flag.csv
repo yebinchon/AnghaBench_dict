@@ -1,0 +1,17 @@
+BR_PORT_FLAGS_HW_OFFLOAD,VAR_0
+EOPNOTSUPP,VAR_1
+SWITCHDEV_ATTR_ID_PORT_BRIDGE_FLAGS,VAR_2
+SWITCHDEV_ATTR_ID_PORT_PRE_BRIDGE_FLAGS,VAR_3
+SWITCHDEV_F_DEFER,VAR_4
+SWITCHDEV_PORT_ATTR_SET,VAR_5
+br_warn,FUNC_0
+call_switchdev_notifiers,FUNC_1
+notifier_to_errno,FUNC_2
+switchdev_port_attr_set,FUNC_3
+br_switchdev_set_port_flag,FUNC_4
+p,VAR_6
+flags,VAR_7
+mask,VAR_8
+attr,VAR_9
+info,VAR_10
+err,VAR_11

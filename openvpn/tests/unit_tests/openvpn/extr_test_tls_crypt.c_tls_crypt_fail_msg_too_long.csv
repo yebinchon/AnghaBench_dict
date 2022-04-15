@@ -1,0 +1,12 @@
+BLEN,FUNC_0
+TESTBUF_SIZE,VAR_0
+assert_false,FUNC_1
+assert_non_null,FUNC_2
+buf_clear,FUNC_3
+buf_write_alloc,FUNC_4
+skip_if_tls_crypt_not_supported,FUNC_5
+tls_crypt_buf_overhead,FUNC_6
+tls_crypt_wrap,FUNC_7
+tls_crypt_fail_msg_too_long,FUNC_8
+state,VAR_1
+ctx,VAR_2

@@ -1,0 +1,7 @@
+PVSCSI_INTR_CMPL_MASK,VAR_0
+PVSCSI_INTR_MSG_MASK,VAR_1
+PVSCSI_REG_OFFSET_INTR_MASK,VAR_2
+pvscsi_reg_write,FUNC_0
+pvscsi_unmask_intr,FUNC_1
+adapter,VAR_3
+intr_bits,VAR_4

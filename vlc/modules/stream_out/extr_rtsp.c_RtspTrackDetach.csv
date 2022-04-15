@@ -1,0 +1,12 @@
+RtspClientGet,FUNC_0
+TAB_ERASE,FUNC_1
+rtp_del_sink,FUNC_2
+vlc_mutex_lock,FUNC_3
+vlc_mutex_unlock,FUNC_4
+RtspTrackDetach,FUNC_5
+rtsp,VAR_0
+name,VAR_1
+sout_id,VAR_2
+session,VAR_3
+i,VAR_4
+tr,VAR_5

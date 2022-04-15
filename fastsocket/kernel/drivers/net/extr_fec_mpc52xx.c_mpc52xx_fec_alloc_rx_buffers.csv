@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+EAGAIN,VAR_1
+FEC_RX_BUFFER_SIZE,VAR_2
+bcom_prepare_next_buffer,FUNC_0
+bcom_queue_full,FUNC_1
+bcom_submit_next_buffer,FUNC_2
+dev_alloc_skb,FUNC_3
+dma_map_single,FUNC_4
+memset,FUNC_5
+mpc52xx_fec_alloc_rx_buffers,FUNC_6
+dev,VAR_3
+rxtsk,VAR_4
+skb,VAR_5
+bd,VAR_6

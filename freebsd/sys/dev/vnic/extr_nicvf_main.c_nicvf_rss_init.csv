@@ -1,0 +1,17 @@
+CPI_ALG_NONE,VAR_0
+ENXIO,VAR_1
+FALSE,VAR_2
+NIC_VNIC_RSS_CFG,VAR_3
+RSS_IP_HASH_ENA,VAR_4
+RSS_TCP_HASH_ENA,VAR_5
+RSS_UDP_HASH_ENA,VAR_6
+TRUE,VAR_7
+fls,FUNC_0
+nicvf_config_rss,FUNC_1
+nicvf_get_rss_size,FUNC_2
+nicvf_reg_write,FUNC_3
+nicvf_set_rss_key,FUNC_4
+nicvf_rss_init,FUNC_5
+nic,VAR_8
+rss,VAR_9
+idx,VAR_10

@@ -1,0 +1,11 @@
+BIT,FUNC_0
+RSET_USBH_PRIV,VAR_0
+USBH_PRIV_UTMI_CTL_6368_REG,VAR_1
+USBH_PRIV_UTMI_CTL_NODRIV_SHIFT,VAR_2
+bcm_rset_readl,FUNC_1
+bcm_rset_writel,FUNC_2
+bcm63xx_select_pullup,FUNC_3
+udc,VAR_3
+is_on,VAR_4
+val,VAR_5
+portmask,VAR_6

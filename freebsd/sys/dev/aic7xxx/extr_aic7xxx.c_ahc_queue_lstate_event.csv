@@ -1,0 +1,16 @@
+AHC_TMODE_EVENT_BUFFER_SIZE,VAR_0
+EVENT_TYPE_BUS_RESET,VAR_1
+FALSE,VAR_2
+MSG_BUS_DEV_RESET,VAR_3
+printf,FUNC_0
+xpt_freeze_devq,FUNC_1
+xpt_print_path,FUNC_2
+xpt_release_devq,FUNC_3
+ahc_queue_lstate_event,FUNC_4
+ahc,VAR_4
+lstate,VAR_5
+initiator_id,VAR_6
+event_type,VAR_7
+event_arg,VAR_8
+event,VAR_9
+pending,VAR_10

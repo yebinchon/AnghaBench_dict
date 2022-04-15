@@ -1,0 +1,16 @@
+EWOULDBLOCK,VAR_0
+MP_ETIMEDOUT,VAR_1
+MP_THREAD_GIL_ENTER,FUNC_0
+MP_THREAD_GIL_EXIT,FUNC_1
+check_for_exceptions,FUNC_2
+errno,VAR_2
+exception_from_errno,FUNC_3
+lwip_write,FUNC_4
+mp_raise_OSError,FUNC_5
+_socket_send,FUNC_6
+sock,VAR_3
+data,VAR_4
+datalen,VAR_5
+sentlen,VAR_6
+i,VAR_7
+r,VAR_8

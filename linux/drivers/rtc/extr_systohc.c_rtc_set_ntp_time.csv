@@ -1,0 +1,17 @@
+CONFIG_RTC_SYSTOHC_DEVICE,VAR_0
+ENODEV,VAR_1
+EPROTO,VAR_2
+rtc_class_close,FUNC_0
+rtc_class_open,FUNC_1
+rtc_set_time,FUNC_2
+rtc_time64_to_tm,FUNC_3
+rtc_tv_nsec_ok,FUNC_4
+set_normalized_timespec64,FUNC_5
+rtc_set_ntp_time,FUNC_6
+now,VAR_3
+target_nsec,VAR_4
+rtc,VAR_5
+tm,VAR_6
+to_set,VAR_7
+err,VAR_8
+ok,VAR_9

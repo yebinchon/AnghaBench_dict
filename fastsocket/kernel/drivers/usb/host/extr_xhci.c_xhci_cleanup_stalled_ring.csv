@@ -1,0 +1,11 @@
+XHCI_RESET_EP_QUIRK,VAR_0
+xhci_dbg,FUNC_0
+xhci_find_new_dequeue_state,FUNC_1
+xhci_queue_new_dequeue_state,FUNC_2
+xhci_setup_input_ctx_for_quirk,FUNC_3
+xhci_cleanup_stalled_ring,FUNC_4
+xhci,VAR_1
+udev,VAR_2
+ep_index,VAR_3
+deq_state,VAR_4
+ep,VAR_5

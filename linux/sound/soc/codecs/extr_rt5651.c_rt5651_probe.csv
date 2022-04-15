@@ -1,0 +1,11 @@
+RT5651_PWR_ANLG1,VAR_0
+RT5651_PWR_LDO_DVO_1_2V,VAR_1
+RT5651_PWR_LDO_DVO_MASK,VAR_2
+SND_SOC_BIAS_OFF,VAR_3
+rt5651_apply_properties,FUNC_0
+snd_soc_component_force_bias_level,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+snd_soc_component_update_bits,FUNC_3
+rt5651_probe,FUNC_4
+component,VAR_4
+rt5651,VAR_5

@@ -1,0 +1,17 @@
+ADV748X_AFE_STD_AD_PAL_BG_NTSC_J_SECAM,VAR_0
+EBUSY,VAR_1
+adv748x_afe_set_video_standard,FUNC_0
+adv748x_afe_status,FUNC_1
+adv748x_afe_std,FUNC_2
+adv748x_afe_to_state,FUNC_3
+adv748x_sd_to_afe,FUNC_4
+msleep,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+adv748x_afe_querystd,FUNC_8
+sd,VAR_2
+std,VAR_3
+afe,VAR_4
+state,VAR_5
+afe_std,VAR_6
+ret,VAR_7

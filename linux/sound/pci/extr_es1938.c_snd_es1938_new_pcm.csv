@@ -1,0 +1,15 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_STREAM_CAPTURE,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+snd_dma_pci_data,FUNC_0
+snd_es1938_capture_ops,VAR_3
+snd_es1938_playback_ops,VAR_4
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+strcpy,FUNC_4
+snd_es1938_new_pcm,FUNC_5
+chip,VAR_5
+device,VAR_6
+pcm,VAR_7
+err,VAR_8

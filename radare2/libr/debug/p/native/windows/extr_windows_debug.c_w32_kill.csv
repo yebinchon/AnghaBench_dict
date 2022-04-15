@@ -1,0 +1,17 @@
+CloseHandle,FUNC_0
+TerminateProcess,FUNC_1
+W32_DETTACH,VAR_0
+WAIT_OBJECT_0,VAR_1
+WaitForSingleObject,FUNC_2
+__is_proc_alive,FUNC_3
+r_list_purge,FUNC_4
+r_sys_perror,FUNC_5
+w32dbg_wrap_wait_ret,FUNC_6
+wait_time,VAR_2
+w32_kill,FUNC_7
+dbg,VAR_3
+pid,VAR_4
+tid,VAR_5
+sig,VAR_6
+rio,VAR_7
+ret,VAR_8

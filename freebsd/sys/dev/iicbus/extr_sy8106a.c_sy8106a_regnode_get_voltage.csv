@@ -1,0 +1,11 @@
+SEL_VOLTAGE_BASE,VAR_0
+SEL_VOLTAGE_MASK,VAR_1
+SEL_VOLTAGE_STEP,VAR_2
+VOUT1_SEL,VAR_3
+regnode_get_softc,FUNC_0
+sy8106a_read,FUNC_1
+sy8106a_regnode_get_voltage,FUNC_2
+regnode,VAR_4
+uvolt,VAR_5
+sc,VAR_6
+val,VAR_7

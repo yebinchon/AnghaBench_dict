@@ -1,0 +1,17 @@
+ECORE_SUCCESS,VAR_0
+MCP_DRV_NVM_BUF_LEN,VAR_1
+OSAL_MEMCPY,FUNC_0
+OSAL_MEM_ZERO,FUNC_1
+ecore_mcp_cmd_and_union,FUNC_2
+ecore_mcp_nvm_rd_cmd,FUNC_3
+p_hwfn,VAR_2
+p_ptt,VAR_3
+cmd,VAR_4
+param,VAR_5
+o_mcp_resp,VAR_6
+o_mcp_param,VAR_7
+o_txn_size,VAR_8
+o_buf,VAR_9
+mb_params,VAR_10
+raw_data,VAR_11
+rc,VAR_12

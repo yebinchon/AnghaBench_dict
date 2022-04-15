@@ -1,0 +1,17 @@
+CMCI_POLL_INTERVAL,VAR_0
+CMCI_STORM_INTERVAL,VAR_1
+CMCI_STORM_NONE,VAR_2
+__this_cpu_read,FUNC_0
+__this_cpu_write,FUNC_1
+atomic_read,FUNC_2
+atomic_sub_return,FUNC_3
+cmci_backoff_cnt,VAR_3
+cmci_recheck,FUNC_4
+cmci_storm_on_cpus,VAR_4
+cmci_storm_state,VAR_5
+cmci_toggle_interrupt_mode,FUNC_5
+mce_notify_irq,FUNC_6
+pr_notice,FUNC_7
+this_cpu_read,FUNC_8
+cmci_intel_adjust_timer,FUNC_9
+interval,VAR_6

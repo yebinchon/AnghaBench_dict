@@ -1,0 +1,14 @@
+NFS_I,FUNC_0
+atomic_inc_not_zero,FUNC_1
+dget_parent,FUNC_2
+dput,FUNC_3
+hlist_add_head,FUNC_4
+nfs_do_call_unlink,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+nfs_call_unlink,FUNC_8
+dentry,VAR_0
+data,VAR_1
+parent,VAR_2
+dir,VAR_3
+ret,VAR_4

@@ -1,0 +1,8 @@
+MMU_FTR_USE_TLBRSRV,VAR_0
+SPRN_MAS6,VAR_1
+mmu_has_feature,FUNC_0
+mtspr,FUNC_1
+book3e_tlb_exists,FUNC_2
+ea,VAR_2
+pid,VAR_3
+found,VAR_4

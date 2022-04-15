@@ -1,0 +1,12 @@
+ROTARY_CLICK_INDEX,VAR_0
+ROTARY_LONGPRESS_INDEX,VAR_1
+callback_call,FUNC_0
+lua_getstate,FUNC_1
+os_timer_arm,FUNC_2
+os_timer_disarm,FUNC_3
+lrotary_check_timer,FUNC_4
+d,VAR_2
+time_us,VAR_3
+dotimer,VAR_4
+delay,VAR_5
+timeout,VAR_6

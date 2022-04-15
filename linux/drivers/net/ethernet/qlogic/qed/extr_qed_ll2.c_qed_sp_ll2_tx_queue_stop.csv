@@ -1,0 +1,15 @@
+CORE_RAMROD_TX_QUEUE_STOP,VAR_0
+EINVAL,VAR_1
+PROTOCOLID_CORE,VAR_2
+QED_SPQ_MODE_EBLOCK,VAR_3
+memset,FUNC_0
+qed_db_recovery_del,FUNC_1
+qed_sp_init_request,FUNC_2
+qed_spq_post,FUNC_3
+qed_sp_ll2_tx_queue_stop,FUNC_4
+p_hwfn,VAR_4
+p_ll2_conn,VAR_5
+p_tx,VAR_6
+p_ent,VAR_7
+init_data,VAR_8
+rc,VAR_9

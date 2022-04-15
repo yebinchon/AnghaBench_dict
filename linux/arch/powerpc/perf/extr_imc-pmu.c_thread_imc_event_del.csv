@@ -1,0 +1,17 @@
+OPAL_IMC_COUNTERS_CORE,VAR_0
+SPRN_LDBAR,VAR_1
+core_imc_refc,VAR_2
+get_hard_smp_processor_id,FUNC_0
+imc_event_update,FUNC_1
+mtspr,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+opal_imc_counters_stop,FUNC_5
+pr_err,FUNC_6
+smp_processor_id,FUNC_7
+threads_per_core,VAR_3
+thread_imc_event_del,FUNC_8
+event,VAR_4
+flags,VAR_5
+core_id,VAR_6
+ref,VAR_7

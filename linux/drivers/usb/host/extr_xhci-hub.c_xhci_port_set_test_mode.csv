@@ -1,0 +1,12 @@
+PORTPMSC,VAR_0
+PORT_TEST_MODE_SHIFT,VAR_1
+TEST_FORCE_EN,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+xhci_start,FUNC_2
+xhci_port_set_test_mode,FUNC_3
+xhci,VAR_3
+test_mode,VAR_4
+wIndex,VAR_5
+temp,VAR_6
+port,VAR_7

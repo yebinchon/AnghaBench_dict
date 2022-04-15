@@ -1,0 +1,11 @@
+PRISM2_PARAM_HOSTAPD,VAR_0
+PRISM2_PARAM_HOSTAPD_STA,VAR_1
+close,FUNC_0
+free,FUNC_1
+hostap_ioctl_prism2param,FUNC_2
+hostap_set_iface_flags,FUNC_3
+netlink_deinit,FUNC_4
+os_free,FUNC_5
+hostap_driver_deinit,FUNC_6
+priv,VAR_2
+drv,VAR_3

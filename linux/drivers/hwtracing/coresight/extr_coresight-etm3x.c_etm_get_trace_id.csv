@@ -1,0 +1,15 @@
+CS_LOCK,FUNC_0
+CS_UNLOCK,FUNC_1
+ETMTRACEIDR,VAR_0
+ETM_TRACEID_MASK,VAR_1
+etm_readl,FUNC_2
+local_read,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+etm_get_trace_id,FUNC_8
+drvdata,VAR_2
+flags,VAR_3
+trace_id,VAR_4
+etm_dev,VAR_5

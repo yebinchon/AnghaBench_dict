@@ -1,0 +1,13 @@
+PRO_RATE_DEFAULT,VAR_0
+SNDRV_PCM_HW_PARAM_RATE,VAR_1
+hw_constraints_rates,VAR_2
+is_pro_rate_locked,FUNC_0
+snd_ice1712_capture_pro,VAR_3
+snd_pcm_hw_constraint_list,FUNC_1
+snd_pcm_hw_constraint_msbits,FUNC_2
+snd_pcm_set_sync,FUNC_3
+snd_pcm_substream_chip,FUNC_4
+snd_ice1712_capture_pro_open,FUNC_5
+substream,VAR_4
+ice,VAR_5
+runtime,VAR_6

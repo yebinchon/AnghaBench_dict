@@ -1,0 +1,17 @@
+DEFINE_WAIT,FUNC_0
+EBUSY,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+bd_may_claim,FUNC_1
+bdev_lock,VAR_2
+bit_waitqueue,FUNC_2
+finish_wait,FUNC_3
+prepare_to_wait,FUNC_4
+schedule,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+wait,VAR_3
+bd_prepare_to_claim,FUNC_8
+bdev,VAR_4
+whole,VAR_5
+holder,VAR_6
+wq,VAR_7

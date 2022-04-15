@@ -1,0 +1,12 @@
+lockdep_assert_held,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+tcf_block_offload_dec,FUNC_3
+tcf_block_offload_inc,FUNC_4
+tc_cls_offload_cnt_update,FUNC_5
+block,VAR_0
+tp,VAR_1
+cnt,VAR_2
+flags,VAR_3
+diff,VAR_4
+add,VAR_5

@@ -1,0 +1,17 @@
+EXFAT_I,FUNC_0
+__lock_super,FUNC_1
+__unlock_super,FUNC_2
+exfat_bmap,FUNC_3
+map_bh,FUNC_4
+min,FUNC_5
+set_buffer_new,FUNC_6
+exfat_get_block,FUNC_7
+inode,VAR_0
+iblock,VAR_1
+bh_result,VAR_2
+create,VAR_3
+sb,VAR_4
+max_blocks,VAR_5
+err,VAR_6
+mapped_blocks,VAR_7
+phys,VAR_8

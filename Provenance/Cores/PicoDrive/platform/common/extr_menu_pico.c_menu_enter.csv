@@ -1,0 +1,14 @@
+READPNG_BG,VAR_0
+g_menubg_ptr,VAR_1
+g_menuscreen_h,VAR_2
+g_menuscreen_w,VAR_3
+make_bg,FUNC_0
+memset,FUNC_1
+plat_get_skin_dir,FUNC_2
+plat_video_menu_enter,FUNC_3
+readpng,FUNC_4
+strcpy,FUNC_5
+menu_enter,FUNC_6
+is_rom_loaded,VAR_4
+pos,VAR_5
+buff,VAR_6

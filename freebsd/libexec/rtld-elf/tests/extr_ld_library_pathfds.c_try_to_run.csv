@@ -1,0 +1,12 @@
+atf_tc_fail,FUNC_0
+atf_utils_fork,FUNC_1
+atf_utils_wait,FUNC_2
+fexecve,FUNC_3
+try_to_run,FUNC_4
+binary,VAR_0
+exit_status,VAR_1
+env,VAR_2
+expected_out,VAR_3
+expected_err,VAR_4
+child,VAR_5
+args,VAR_6

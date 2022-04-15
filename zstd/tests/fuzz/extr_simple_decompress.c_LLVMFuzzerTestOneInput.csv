@@ -1,0 +1,17 @@
+FUZZ_ASSERT,FUNC_0
+FUZZ_dataProducer_create,FUNC_1
+FUZZ_dataProducer_free,FUNC_2
+FUZZ_dataProducer_reserveDataPrefix,FUNC_3
+FUZZ_dataProducer_uint32Range,FUNC_4
+ZSTD_createDCtx,FUNC_5
+ZSTD_decompressDCtx,FUNC_6
+ZSTD_freeDCtx,FUNC_7
+dctx,VAR_0
+free,FUNC_8
+malloc,FUNC_9
+LLVMFuzzerTestOneInput,FUNC_10
+src,VAR_1
+size,VAR_2
+producer,VAR_3
+bufSize,VAR_4
+rBuf,VAR_5

@@ -1,0 +1,14 @@
+PCI_DEVICE_ID_YAMAHA_754,VAR_0
+SNDRV_DMA_TYPE_DEV,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+snd_dma_pci_data,FUNC_0
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+snd_ymfpci_capture_ac97_ops,VAR_3
+sprintf,FUNC_4
+snd_ymfpci_pcm2,FUNC_5
+chip,VAR_4
+device,VAR_5
+pcm,VAR_6
+err,VAR_7

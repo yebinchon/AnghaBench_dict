@@ -1,0 +1,12 @@
+ExecForceStoreHeapTuple,FUNC_0
+PG_CATCH,FUNC_1
+PG_END_TRY,FUNC_2
+PG_RE_THROW,FUNC_3
+PG_TRY,FUNC_4
+PQclear,FUNC_5
+make_tuple_from_result_row,FUNC_6
+store_returning_result,FUNC_7
+fmstate,VAR_0
+slot,VAR_1
+res,VAR_2
+newtup,VAR_3

@@ -1,0 +1,15 @@
+geth_fill_freeq,FUNC_0
+gmac_enable_rx_irq,FUNC_1
+gmac_rx,FUNC_2
+napi_complete_done,FUNC_3
+napi_gro_flush,FUNC_4
+netdev_priv,FUNC_5
+u64_stats_update_begin,FUNC_6
+u64_stats_update_end,FUNC_7
+gmac_napi_poll,FUNC_8
+napi,VAR_0
+budget,VAR_1
+port,VAR_2
+geth,VAR_3
+freeq_threshold,VAR_4
+received,VAR_5

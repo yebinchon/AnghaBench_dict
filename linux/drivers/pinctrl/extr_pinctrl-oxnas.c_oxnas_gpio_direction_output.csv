@@ -1,0 +1,11 @@
+BIT,FUNC_0
+OUTPUT_EN_SET,VAR_0
+gpiochip_get_data,FUNC_1
+oxnas_gpio_set,FUNC_2
+writel_relaxed,FUNC_3
+oxnas_gpio_direction_output,FUNC_4
+chip,VAR_1
+offset,VAR_2
+value,VAR_3
+bank,VAR_4
+mask,VAR_5

@@ -1,0 +1,13 @@
+LIO_CN23XX_CFG_PCIE_CORRECT_ERR_STATUS,VAR_0
+LIO_CN23XX_CFG_PCIE_DEVCTL,VAR_1
+LIO_CN23XX_CFG_PCIE_DEVCTL_MASK,VAR_2
+LIO_CN23XX_CFG_PCIE_UNCORRECT_ERR_MASK,VAR_3
+lio_dev_dbg,FUNC_0
+lio_dev_err,FUNC_1
+lio_read_pci_cfg,FUNC_2
+lio_write_pci_cfg,FUNC_3
+lio_cn23xx_pf_enable_error_reporting,FUNC_4
+oct,VAR_4
+corrtable_err_status,VAR_5
+uncorrectable_err_mask,VAR_6
+regval,VAR_7

@@ -1,0 +1,17 @@
+LDNS_STATUS_CRYPTO_ALGO_NOT_IMPL,VAR_0
+LDNS_STATUS_CRYPTO_NO_RRSIG,VAR_1
+LDNS_STATUS_CRYPTO_UNKNOWN_ALGO,VAR_2
+LDNS_STATUS_MEM_ERR,VAR_3
+LDNS_STATUS_MISSING_RDATA_FIELDS_RRSIG,VAR_4
+LDNS_STATUS_OK,VAR_5
+ldns_convert_dsa_rrsig_rdf2asn1,FUNC_0
+ldns_convert_ecdsa_rrsig_rdf2asn1,FUNC_1
+ldns_convert_ed25519_rrsig_rdf2asn1,FUNC_2
+ldns_convert_ed448_rrsig_rdf2asn1,FUNC_3
+ldns_rdf2buffer_wire,FUNC_4
+ldns_rdf2native_int8,FUNC_5
+ldns_rr_rdf,FUNC_6
+ldns_rrsig2rawsig_buffer,FUNC_7
+rawsig_buf,VAR_6
+rrsig,VAR_7
+sig_algo,VAR_8

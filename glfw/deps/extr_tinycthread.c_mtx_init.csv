@@ -1,0 +1,15 @@
+FALSE,VAR_0
+InitializeCriticalSection,FUNC_0
+PTHREAD_MUTEX_RECURSIVE,VAR_1
+mtx_recursive,VAR_2
+pthread_mutex_init,FUNC_1
+pthread_mutexattr_destroy,FUNC_2
+pthread_mutexattr_init,FUNC_3
+pthread_mutexattr_settype,FUNC_4
+thrd_error,VAR_3
+thrd_success,VAR_4
+mtx_init,FUNC_5
+mtx,VAR_5
+type,VAR_6
+ret,VAR_7
+attr,VAR_8

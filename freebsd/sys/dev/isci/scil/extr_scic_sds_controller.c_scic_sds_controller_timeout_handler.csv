@@ -1,0 +1,16 @@
+SCIC_LOG_ERROR,FUNC_0
+SCIC_LOG_OBJECT_CONTROLLER,VAR_0
+SCI_BASE_CONTROLLER_STATE_FAILED,VAR_1
+SCI_BASE_CONTROLLER_STATE_STARTING,VAR_2
+SCI_BASE_CONTROLLER_STATE_STOPPING,VAR_3
+SCI_FAILURE_TIMEOUT,VAR_4
+sci_base_object_get_logger,FUNC_1
+sci_base_state_machine_change_state,FUNC_2
+sci_base_state_machine_get_state,FUNC_3
+scic_cb_controller_stop_complete,FUNC_4
+scic_sds_controller_get_base_state_machine,FUNC_5
+scic_sds_controller_transition_to_ready,FUNC_6
+scic_sds_controller_timeout_handler,FUNC_7
+controller,VAR_5
+current_state,VAR_6
+this_controller,VAR_7

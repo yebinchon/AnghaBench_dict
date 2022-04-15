@@ -1,0 +1,12 @@
+NO_TIMEOUT,VAR_0
+PQI_REQUEST_HEADER_LENGTH,VAR_1
+PQI_REQUEST_IU_VENDOR_GENERAL,VAR_2
+PQI_VENDOR_GENERAL_CONFIG_TABLE_UPDATE,VAR_3
+memset,FUNC_0
+pqi_submit_raid_request_synchronous,FUNC_1
+put_unaligned_le16,FUNC_2
+pqi_config_table_update,FUNC_3
+ctrl_info,VAR_4
+first_section,VAR_5
+last_section,VAR_6
+request,VAR_7

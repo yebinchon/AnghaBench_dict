@@ -1,0 +1,17 @@
+MB4H_HOTDOG,VAR_0
+MBOX_BIT,FUNC_0
+PRCM_MBOX_CPU_SET,VAR_1
+PRCM_MBOX_CPU_VAL,VAR_2
+PRCM_MBOX_HEADER_REQ_MB4,VAR_3
+PRCM_REQ_MB4_HOTDOG_THRESHOLD,VAR_4
+cpu_relax,FUNC_1
+mb4_transfer,VAR_5
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+readl,FUNC_4
+tcdm_base,VAR_6
+wait_for_completion,FUNC_5
+writeb,FUNC_6
+writel,FUNC_7
+db8500_prcmu_config_hotdog,FUNC_8
+threshold,VAR_7

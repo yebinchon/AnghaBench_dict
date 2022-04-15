@@ -1,0 +1,15 @@
+NETUTILS_IPV4ADDR_BUFSIZE,VAR_0
+NETUTILS_LITTLE,VAR_1
+memset,FUNC_0
+mp_obj_str_get_data,FUNC_1
+mp_raise_ValueError,FUNC_2
+netutils_parse_ipv4_addr,FUNC_3
+addr_in,VAR_2
+out_ip,VAR_3
+endian,VAR_4
+addr_len,VAR_5
+addr_str,VAR_6
+s,VAR_7
+s_top,VAR_8
+i,VAR_9
+val,VAR_10

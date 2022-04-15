@@ -1,0 +1,11 @@
+IEEE80211_CHANSTATE_CACDONE,VAR_0
+IEEE80211_CHANSTATE_CWINT,VAR_1
+IEEE80211_CHANSTATE_NORADAR,VAR_2
+IEEE80211_CHANSTATE_RADAR,VAR_3
+WlanIfaceChannelStateType_cacDone,VAR_4
+WlanIfaceChannelStateType_interferenceDetected,VAR_5
+WlanIfaceChannelStateType_radar,VAR_6
+WlanIfaceChannelStateType_radarClear,VAR_7
+wlan_channel_state_to_snmp,FUNC_0
+cstate,VAR_8
+cs,VAR_9

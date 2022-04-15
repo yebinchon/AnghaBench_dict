@@ -1,0 +1,12 @@
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+SIGKILL,VAR_0
+destroy_dev,FUNC_2
+device_get_softc,FUNC_3
+hv_vss_destroy_send_receive_queue,FUNC_4
+kern_psignal,FUNC_5
+mtx_destroy,FUNC_6
+vmbus_ic_detach,FUNC_7
+hv_vss_detach,FUNC_8
+dev,VAR_1
+sc,VAR_2

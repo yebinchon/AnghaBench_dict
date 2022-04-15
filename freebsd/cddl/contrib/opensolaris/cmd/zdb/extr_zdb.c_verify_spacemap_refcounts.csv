@@ -1,0 +1,13 @@
+SPA_FEATURE_SPACEMAP_HISTOGRAM,VAR_0
+feature_get_refcount,FUNC_0
+get_checkpoint_refcount,FUNC_1
+get_dtl_refcount,FUNC_2
+get_metaslab_refcount,FUNC_3
+get_obsolete_refcount,FUNC_4
+get_prev_obsolete_spacemap_refcount,FUNC_5
+printf,FUNC_6
+spa_feature_table,VAR_1
+verify_spacemap_refcounts,FUNC_7
+spa,VAR_2
+expected_refcount,VAR_3
+actual_refcount,VAR_4

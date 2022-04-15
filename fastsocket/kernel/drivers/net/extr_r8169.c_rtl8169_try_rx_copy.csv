@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+dma_sync_single_for_cpu,FUNC_0
+dma_sync_single_for_device,FUNC_1
+memcpy,FUNC_2
+netdev_alloc_skb_ip_align,FUNC_3
+prefetch,FUNC_4
+rtl8169_align,FUNC_5
+rtl8169_try_rx_copy,FUNC_6
+data,VAR_1
+tp,VAR_2
+pkt_size,VAR_3
+addr,VAR_4
+skb,VAR_5
+d,VAR_6

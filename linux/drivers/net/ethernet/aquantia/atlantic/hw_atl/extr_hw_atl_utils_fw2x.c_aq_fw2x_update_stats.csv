@@ -1,0 +1,14 @@
+BIT,FUNC_0
+CAPS_HI_STATISTICS,VAR_0
+HW_ATL_FW2X_MPI_CONTROL2_ADDR,VAR_1
+aq_fw2x_state2_get,VAR_2
+aq_hw_read_reg,FUNC_1
+aq_hw_write_reg,FUNC_2
+hw_atl_utils_update_stats,FUNC_3
+readx_poll_timeout_atomic,FUNC_4
+aq_fw2x_update_stats,FUNC_5
+self,VAR_3
+err,VAR_4
+mpi_opts,VAR_5
+orig_stats_val,VAR_6
+stats_val,VAR_7

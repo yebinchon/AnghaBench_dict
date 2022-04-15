@@ -1,0 +1,17 @@
+ZFCP_STATUS_COMMON_ACCESS_BOXED,VAR_0
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_1
+ZFCP_STATUS_FSFREQ_ABORTNOTNEEDED,VAR_2
+ZFCP_STATUS_FSFREQ_ABORTSUCCEEDED,VAR_3
+ZFCP_STATUS_FSFREQ_ERROR,VAR_4
+sdev_to_zfcp,FUNC_0
+zfcp_erp_adapter_reopen,FUNC_1
+zfcp_erp_lun_reopen,FUNC_2
+zfcp_erp_port_reopen,FUNC_3
+zfcp_erp_set_lun_status,FUNC_4
+zfcp_erp_set_port_status,FUNC_5
+zfcp_fc_test_link,FUNC_6
+zfcp_fsf_abort_fcp_command_handler,FUNC_7
+req,VAR_5
+sdev,VAR_6
+zfcp_sdev,VAR_7
+fsq,VAR_8

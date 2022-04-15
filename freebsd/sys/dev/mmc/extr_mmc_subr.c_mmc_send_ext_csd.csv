@@ -1,0 +1,15 @@
+CMD_RETRIES,VAR_0
+MMC_CMD_ADTC,VAR_1
+MMC_DATA_READ,VAR_2
+MMC_EXTCSD_SIZE,VAR_3
+MMC_RSP_R1,VAR_4
+MMC_SEND_EXT_CSD,VAR_5
+memset,FUNC_0
+mmc_wait_for_cmd,FUNC_1
+mmc_send_ext_csd,FUNC_2
+busdev,VAR_6
+dev,VAR_7
+rawextcsd,VAR_8
+cmd,VAR_9
+data,VAR_10
+err,VAR_11

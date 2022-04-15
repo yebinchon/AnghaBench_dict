@@ -1,0 +1,16 @@
+IBMVMC_PROTOCOL_VERSION,VAR_0
+VMC_MSG_CAP,VAR_1
+be64_to_cpu,FUNC_0
+cpu_to_be16,FUNC_1
+cpu_to_be32,FUNC_2
+dev_dbg,FUNC_3
+ibmvmc,VAR_2
+ibmvmc_max_buf_pool_size,VAR_3
+ibmvmc_max_hmcs,VAR_4
+ibmvmc_max_mtu,VAR_5
+ibmvmc_send_crq,FUNC_4
+ibmvmc_state_capabilities,VAR_6
+ibmvmc_send_capabilities,FUNC_5
+adapter,VAR_7
+crq_msg,VAR_8
+crq_as_u64,VAR_9

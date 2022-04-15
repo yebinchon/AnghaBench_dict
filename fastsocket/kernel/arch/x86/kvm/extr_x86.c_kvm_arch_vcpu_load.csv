@@ -1,0 +1,17 @@
+KVM_REQ_CLOCK_UPDATE,VAR_0
+KVM_REQ_GLOBAL_CLOCK_UPDATE,VAR_1
+KVM_REQ_STEAL_UPDATE,VAR_2
+WARN_ON,FUNC_0
+accumulate_steal_time,FUNC_1
+adjust_tsc_offset_host,FUNC_2
+check_tsc_unstable,FUNC_3
+kvm_migrate_timers,FUNC_4
+kvm_x86_ops,VAR_3
+native_read_tsc,FUNC_5
+set_bit,FUNC_6
+stub1,FUNC_7
+unlikely,FUNC_8
+kvm_arch_vcpu_load,FUNC_9
+vcpu,VAR_4
+cpu,VAR_5
+tsc_delta,VAR_6

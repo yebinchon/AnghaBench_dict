@@ -1,0 +1,9 @@
+drm_gem_shmem_purge_locked,FUNC_0
+mutex_trylock,FUNC_1
+mutex_unlock,FUNC_2
+panfrost_mmu_unmap,FUNC_3
+to_drm_gem_shmem_obj,FUNC_4
+to_panfrost_bo,FUNC_5
+panfrost_gem_purge,FUNC_6
+obj,VAR_0
+shmem,VAR_1

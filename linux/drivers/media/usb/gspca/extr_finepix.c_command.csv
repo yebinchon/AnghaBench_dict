@@ -1,0 +1,12 @@
+FPIX_TIMEOUT,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_REQ_GET_STATUS,VAR_3
+USB_TYPE_CLASS,VAR_4
+memcpy,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+command,FUNC_3
+gspca_dev,VAR_5
+order,VAR_6
+order_values,VAR_7

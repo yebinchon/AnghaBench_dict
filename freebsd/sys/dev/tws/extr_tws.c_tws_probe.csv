@@ -1,0 +1,12 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+TWS_DEVICE_ID,VAR_2
+TWS_DRIVER_VERSION_STRING,VAR_3
+TWS_VENDOR_ID,VAR_4
+device_set_desc,FUNC_0
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+printf,FUNC_3
+tws_probe,FUNC_4
+dev,VAR_5
+first_ctlr,VAR_6

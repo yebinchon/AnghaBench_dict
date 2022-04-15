@@ -1,0 +1,13 @@
+LED_OFF,VAR_0
+MAX77650_LED_BR_MASK,VAR_1
+MAX77650_LED_DISABLE,VAR_2
+MAX77650_LED_ENABLE,VAR_3
+MAX77650_LED_EN_MASK,VAR_4
+max77650_to_led,FUNC_0
+regmap_update_bits,FUNC_1
+max77650_led_brightness_set,FUNC_2
+cdev,VAR_5
+brightness,VAR_6
+led,VAR_7
+val,VAR_8
+mask,VAR_9

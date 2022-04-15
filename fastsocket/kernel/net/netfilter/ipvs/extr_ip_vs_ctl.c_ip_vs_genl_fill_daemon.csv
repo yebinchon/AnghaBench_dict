@@ -1,0 +1,16 @@
+EMSGSIZE,VAR_0
+IPVS_CMD_ATTR_DAEMON,VAR_1
+IPVS_DAEMON_ATTR_MCAST_IFN,VAR_2
+IPVS_DAEMON_ATTR_STATE,VAR_3
+IPVS_DAEMON_ATTR_SYNC_ID,VAR_4
+NLA_PUT_STRING,FUNC_0
+NLA_PUT_U32,FUNC_1
+nla_nest_cancel,FUNC_2
+nla_nest_end,FUNC_3
+nla_nest_start,FUNC_4
+ip_vs_genl_fill_daemon,FUNC_5
+skb,VAR_5
+state,VAR_6
+mcast_ifn,VAR_7
+syncid,VAR_8
+nl_daemon,VAR_9

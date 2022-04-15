@@ -1,0 +1,13 @@
+NTP_LOCK,FUNC_0
+NTP_UNLOCK,FUNC_1
+PRIV_ADJTIME,VAR_0
+priv_check,FUNC_2
+time_adjtime,VAR_1
+kern_adjtime,FUNC_3
+td,VAR_2
+delta,VAR_3
+olddelta,VAR_4
+atv,VAR_5
+ltr,VAR_6
+ltw,VAR_7
+error,VAR_8

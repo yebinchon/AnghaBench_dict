@@ -1,0 +1,10 @@
+_remote_url,VAR_0
+_remote_user,VAR_1
+cl_git_fail_with,FUNC_0
+cred_failure_cb,VAR_2
+g_options,VAR_3
+g_repo,VAR_4
+git__free,FUNC_1
+git__strdup,FUNC_2
+git_clone,FUNC_3
+test_online_clone__cred_callback_failure_return_code_is_tunnelled,FUNC_4

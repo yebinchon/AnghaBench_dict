@@ -1,0 +1,12 @@
+TMIO_STAT_DATAEND,VAR_0
+UNIPHIER_SD_DMA_CTL,VAR_1
+UNIPHIER_SD_DMA_CTL_START,VAR_2
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+tmio_mmc_enable_mmc_irqs,FUNC_2
+uniphier_sd_dma_endisable,FUNC_3
+writel,FUNC_4
+uniphier_sd_internal_dma_issue,FUNC_5
+arg,VAR_3
+host,VAR_4
+flags,VAR_5

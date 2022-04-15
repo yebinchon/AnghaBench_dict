@@ -1,0 +1,12 @@
+AC97_POWERDOWN,VAR_0
+CS46XX_PRIMARY_CODEC_INDEX,VAR_1
+SNDRV_CTL_EVENT_MASK_VALUE,VAR_2
+snd_cs46xx_codec_read,FUNC_0
+snd_cs46xx_codec_write,FUNC_1
+snd_ctl_notify,FUNC_2
+voyetra_setup_eapd_slot,FUNC_3
+amp_voyetra,FUNC_4
+chip,VAR_3
+change,VAR_4
+oval,VAR_5
+val,VAR_6

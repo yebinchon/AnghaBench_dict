@@ -1,0 +1,9 @@
+PCI_EXT_CAP_ID_SRIOV,VAR_0
+PCI_SRIOV_CTRL,VAR_1
+PCI_SRIOV_CTRL_VFE,VAR_2
+pci_find_ext_capability,FUNC_0
+pci_read_config_word,FUNC_1
+is_sriov_initialized,FUNC_2
+pdev,VAR_3
+pos,VAR_4
+ctrl,VAR_5

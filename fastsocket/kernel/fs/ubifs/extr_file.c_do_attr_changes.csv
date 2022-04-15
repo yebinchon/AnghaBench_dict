@@ -1,0 +1,15 @@
+ATTR_ATIME,VAR_0
+ATTR_CTIME,VAR_1
+ATTR_GID,VAR_2
+ATTR_MODE,VAR_3
+ATTR_MTIME,VAR_4
+ATTR_UID,VAR_5
+CAP_FSETID,VAR_6
+S_ISGID,VAR_7
+capable,FUNC_0
+in_group_p,FUNC_1
+timespec_trunc,FUNC_2
+do_attr_changes,FUNC_3
+inode,VAR_8
+attr,VAR_9
+mode,VAR_10

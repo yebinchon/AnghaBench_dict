@@ -1,0 +1,15 @@
+do_pam_setcred,FUNC_0
+errno,VAR_0
+error,FUNC_1
+geteuid,FUNC_2
+getluid,FUNC_3
+getuid,FUNC_4
+options,VAR_1
+setluid,FUNC_5
+setpgid,FUNC_6
+solaris_set_default_project,FUNC_7
+ssh_selinux_enabled,FUNC_8
+strerror,FUNC_9
+use_privsep,VAR_2
+platform_setusercontext,FUNC_10
+pw,VAR_3

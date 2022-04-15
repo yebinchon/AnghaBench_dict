@@ -1,0 +1,13 @@
+CDO_DMA_Select_Mask,VAR_0
+CDO_DMA_Select_Shift,VAR_1
+M_Offset_CDIO_DMA_Select,VAR_2
+devpriv,VAR_3
+mmiowb,FUNC_0
+ni_stc_dma_channel_select_bitfield,FUNC_1
+ni_writeb,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ni_set_cdo_dma_channel,FUNC_5
+dev,VAR_4
+mite_channel,VAR_5
+flags,VAR_6

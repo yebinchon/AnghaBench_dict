@@ -1,0 +1,16 @@
+clk_rpm_set_rate_active,FUNC_0
+clk_rpm_set_rate_sleep,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+rpm_clk_lock,VAR_0
+to_active_sleep,FUNC_4
+to_clk_rpm,FUNC_5
+clk_rpm_unprepare,FUNC_6
+hw,VAR_1
+r,VAR_2
+peer,VAR_3
+peer_rate,VAR_4
+peer_sleep_rate,VAR_5
+active_rate,VAR_6
+sleep_rate,VAR_7
+ret,VAR_8

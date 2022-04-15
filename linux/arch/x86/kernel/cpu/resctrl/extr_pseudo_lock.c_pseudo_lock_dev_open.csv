@@ -1,0 +1,14 @@
+ENODEV,VAR_0
+FMODE_LSEEK,VAR_1
+FMODE_PREAD,VAR_2
+FMODE_PWRITE,VAR_3
+atomic_inc,FUNC_0
+iminor,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+rdtgroup_mutex,VAR_4
+region_find_by_minor,FUNC_4
+pseudo_lock_dev_open,FUNC_5
+inode,VAR_5
+filp,VAR_6
+rdtgrp,VAR_7

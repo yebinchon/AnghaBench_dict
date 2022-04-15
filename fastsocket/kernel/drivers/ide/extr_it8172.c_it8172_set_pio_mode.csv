@@ -1,0 +1,15 @@
+ide_disk,VAR_0
+ide_pio_need_iordy,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_config_dword,FUNC_3
+pci_write_config_word,FUNC_4
+to_pci_dev,FUNC_5
+it8172_set_pio_mode,FUNC_6
+drive,VAR_1
+pio,VAR_2
+hwif,VAR_3
+dev,VAR_4
+drive_enables,VAR_5
+drive_timing,VAR_6
+timings,VAR_7

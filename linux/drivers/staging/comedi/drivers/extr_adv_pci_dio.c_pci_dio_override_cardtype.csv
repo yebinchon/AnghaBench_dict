@@ -1,0 +1,13 @@
+TYPE_PCI1753,VAR_0
+TYPE_PCI1753E,VAR_1
+inb,FUNC_0
+outb,FUNC_1
+pci_disable_device,FUNC_2
+pci_enable_device,FUNC_3
+pci_release_region,FUNC_4
+pci_request_region,FUNC_5
+pci_resource_start,FUNC_6
+pci_dio_override_cardtype,FUNC_7
+pcidev,VAR_2
+cardtype,VAR_3
+reg,VAR_4

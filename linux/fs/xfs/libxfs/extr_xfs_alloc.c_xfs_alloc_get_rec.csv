@@ -1,0 +1,15 @@
+EFSCORRUPTED,VAR_0
+XFS_BTNUM_BNO,VAR_1
+be32_to_cpu,FUNC_0
+xfs_btree_get_rec,FUNC_1
+xfs_verify_agbno,FUNC_2
+xfs_warn,FUNC_3
+xfs_alloc_get_rec,FUNC_4
+cur,VAR_2
+bno,VAR_3
+len,VAR_4
+stat,VAR_5
+mp,VAR_6
+agno,VAR_7
+rec,VAR_8
+error,VAR_9

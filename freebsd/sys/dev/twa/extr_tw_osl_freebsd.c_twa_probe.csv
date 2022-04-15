@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+TW_OSLI_DEVICE_NAME,VAR_1
+TW_OSL_DRIVER_VERSION_STRING,VAR_2
+device_set_desc,FUNC_0
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+printf,FUNC_3
+tw_cl_ctlr_supported,FUNC_4
+tw_osli_dbg_printf,FUNC_5
+twa_probe,FUNC_6
+dev,VAR_3
+first_ctlr,VAR_4

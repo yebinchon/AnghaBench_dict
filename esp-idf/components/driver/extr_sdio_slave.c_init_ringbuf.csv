@@ -1,0 +1,17 @@
+ESP_OK,VAR_0
+RINGBUF_GET_ALL,VAR_1
+RINGBUF_GET_ONE,VAR_2
+assert,FUNC_0
+context,VAR_3
+link_desc_to_last,VAR_4
+portMAX_DELAY,VAR_5
+sdio_ringbuf_init,FUNC_1
+sdio_ringbuf_recv,FUNC_2
+sdio_ringbuf_return,FUNC_3
+sdio_ringbuf_send,FUNC_4
+init_ringbuf,FUNC_5
+ret,VAR_6
+rcv_res,VAR_7
+first,VAR_8
+last,VAR_9
+i,VAR_10

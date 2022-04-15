@@ -1,0 +1,11 @@
+ADAV80X_ADC_CTRL1,VAR_0
+ADAV80X_ADC_CTRL1_MODULATOR_128FS,VAR_1
+ADAV80X_ADC_CTRL1_MODULATOR_64FS,VAR_2
+ADAV80X_ADC_CTRL1_MODULATOR_MASK,VAR_3
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+adav80x_set_adc_clock,FUNC_2
+component,VAR_4
+sample_rate,VAR_5
+adav80x,VAR_6
+val,VAR_7

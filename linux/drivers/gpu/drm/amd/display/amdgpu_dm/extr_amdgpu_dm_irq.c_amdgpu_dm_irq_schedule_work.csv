@@ -1,0 +1,10 @@
+DM_IRQ_TABLE_LOCK,FUNC_0
+DM_IRQ_TABLE_UNLOCK,FUNC_1
+DRM_INFO,FUNC_2
+list_empty,FUNC_3
+schedule_work,FUNC_4
+amdgpu_dm_irq_schedule_work,FUNC_5
+adev,VAR_0
+irq_source,VAR_1
+irq_table_flags,VAR_2
+work,VAR_3

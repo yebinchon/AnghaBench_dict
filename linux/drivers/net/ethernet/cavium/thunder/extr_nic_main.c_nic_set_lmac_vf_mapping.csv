@@ -1,0 +1,16 @@
+MAX_LMAC_PER_BGX,VAR_0
+NIC_HW_MAX_FRS,VAR_1
+NIC_PF_LMAC_0_7_CREDIT,VAR_2
+NIC_SET_VF_LMAC_MAP,FUNC_0
+bgx_get_lmac_count,FUNC_1
+bgx_get_map,FUNC_2
+nic_reg_write,FUNC_3
+pci_sriov_get_totalvfs,FUNC_4
+nic_set_lmac_vf_mapping,FUNC_5
+nic,VAR_3
+bgx_map,VAR_4
+bgx,VAR_5
+next_bgx_lmac,VAR_6
+lmac,VAR_7
+lmac_cnt,VAR_8
+lmac_credit,VAR_9

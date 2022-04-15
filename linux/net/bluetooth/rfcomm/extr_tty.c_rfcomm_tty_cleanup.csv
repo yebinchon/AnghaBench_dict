@@ -1,0 +1,9 @@
+RFCOMM_TTY_ATTACHED,VAR_0
+clear_bit,FUNC_0
+rfcomm_dlc_lock,FUNC_1
+rfcomm_dlc_unlock,FUNC_2
+skb_queue_purge,FUNC_3
+tty_port_put,FUNC_4
+rfcomm_tty_cleanup,FUNC_5
+tty,VAR_1
+dev,VAR_2

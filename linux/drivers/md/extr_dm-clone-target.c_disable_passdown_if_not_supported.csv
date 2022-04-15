@@ -1,0 +1,14 @@
+BDEVNAME_SIZE,VAR_0
+DMWARN,FUNC_0
+DM_CLONE_DISCARD_PASSDOWN,VAR_1
+bdev_get_queue,FUNC_1
+bdev_supports_discards,FUNC_2
+bdevname,FUNC_3
+clear_bit,FUNC_4
+test_bit,FUNC_5
+disable_passdown_if_not_supported,FUNC_6
+clone,VAR_2
+dest_dev,VAR_3
+dest_limits,VAR_4
+reason,VAR_5
+buf,VAR_6

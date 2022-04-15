@@ -1,0 +1,10 @@
+PAGE_SIZE,VAR_0
+SCLP_CMDW_READ_EVENT_DATA,VAR_1
+SCLP_REQ_QUEUED,VAR_2
+clear_page,FUNC_0
+memset,FUNC_1
+sclp_read_cb,VAR_3
+sclp_read_req,VAR_4
+sclp_read_sccb,VAR_5
+__sclp_make_read_req,FUNC_2
+sccb,VAR_6

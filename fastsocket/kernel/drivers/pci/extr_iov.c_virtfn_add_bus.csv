@@ -1,0 +1,10 @@
+pci_add_new_bus,FUNC_0
+pci_bus_add_child,FUNC_1
+pci_domain_nr,FUNC_2
+pci_find_bus,FUNC_3
+pci_remove_bus,FUNC_4
+virtfn_add_bus,FUNC_5
+bus,VAR_0
+busnr,VAR_1
+rc,VAR_2
+child,VAR_3

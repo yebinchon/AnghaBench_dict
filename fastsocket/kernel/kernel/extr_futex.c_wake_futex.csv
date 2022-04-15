@@ -1,0 +1,9 @@
+TASK_NORMAL,VAR_0
+get_task_struct,FUNC_0
+plist_del,FUNC_1
+put_task_struct,FUNC_2
+smp_wmb,FUNC_3
+wake_up_state,FUNC_4
+wake_futex,FUNC_5
+q,VAR_1
+p,VAR_2

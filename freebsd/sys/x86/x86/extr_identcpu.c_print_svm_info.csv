@@ -1,0 +1,11 @@
+MSR_VM_CR,VAR_0
+VM_CR_SVMDIS,VAR_1
+bootverbose,VAR_2
+do_cpuid,FUNC_0
+printf,FUNC_1
+rdmsr,FUNC_2
+print_svm_info,FUNC_3
+features,VAR_3
+regs,VAR_4
+msr,VAR_5
+comma,VAR_6

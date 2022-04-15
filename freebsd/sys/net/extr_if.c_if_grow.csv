@@ -1,0 +1,16 @@
+IFNET_WLOCK,FUNC_0
+IFNET_WLOCK_ASSERT,FUNC_1
+IFNET_WUNLOCK,FUNC_2
+M_IFNET,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+V_if_indexlim,VAR_3
+V_ifindex_table,VAR_4
+free,FUNC_3
+malloc,FUNC_4
+memcpy,FUNC_5
+if_grow,FUNC_6
+oldlim,VAR_5
+n,VAR_6
+e,VAR_7
+old,VAR_8

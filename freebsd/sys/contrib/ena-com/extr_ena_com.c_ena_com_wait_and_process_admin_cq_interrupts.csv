@@ -1,0 +1,16 @@
+ENA_CMD_COMPLETED,VAR_0
+ENA_CMD_SUBMITTED,VAR_1
+ENA_COM_TIMER_EXPIRED,VAR_2
+ENA_SPINLOCK_LOCK,FUNC_0
+ENA_SPINLOCK_UNLOCK,FUNC_1
+ENA_WAIT_EVENT_WAIT,FUNC_2
+comp_ctxt_release,FUNC_3
+ena_com_comp_status_to_errno,FUNC_4
+ena_com_handle_admin_completion,FUNC_5
+ena_trc_err,FUNC_6
+unlikely,FUNC_7
+ena_com_wait_and_process_admin_cq_interrupts,FUNC_8
+comp_ctx,VAR_3
+admin_queue,VAR_4
+flags,VAR_5
+ret,VAR_6

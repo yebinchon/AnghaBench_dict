@@ -1,0 +1,12 @@
+CLOCK_REALTIME,VAR_0
+NSEC_PER_SEC,VAR_1
+TIMER_ABSTIME,VAR_2
+clock_gettime,FUNC_0
+clock_nanosleep,FUNC_1
+error_found,VAR_3
+in_order,FUNC_2
+printf,FUNC_3
+timespec_add,FUNC_4
+test_hrtimer_failure,FUNC_5
+now,VAR_4
+target,VAR_5

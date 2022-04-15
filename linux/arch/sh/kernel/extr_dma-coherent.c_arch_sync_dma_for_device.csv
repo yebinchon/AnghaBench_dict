@@ -1,0 +1,12 @@
+BUG,FUNC_0
+__flush_invalidate_region,FUNC_1
+__flush_purge_region,FUNC_2
+__flush_wback_region,FUNC_3
+phys_to_virt,FUNC_4
+sh_cacheop_vaddr,FUNC_5
+arch_sync_dma_for_device,FUNC_6
+dev,VAR_0
+paddr,VAR_1
+size,VAR_2
+dir,VAR_3
+addr,VAR_4

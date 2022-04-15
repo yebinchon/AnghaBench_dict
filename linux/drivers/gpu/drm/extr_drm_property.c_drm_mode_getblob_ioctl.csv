@@ -1,0 +1,16 @@
+DRIVER_MODESET,VAR_0
+EFAULT,VAR_1
+ENOENT,VAR_2
+EOPNOTSUPP,VAR_3
+copy_to_user,FUNC_0
+drm_core_check_feature,FUNC_1
+drm_property_blob_put,FUNC_2
+drm_property_lookup_blob,FUNC_3
+u64_to_user_ptr,FUNC_4
+drm_mode_getblob_ioctl,FUNC_5
+dev,VAR_4
+data,VAR_5
+file_priv,VAR_6
+out_resp,VAR_7
+blob,VAR_8
+ret,VAR_9

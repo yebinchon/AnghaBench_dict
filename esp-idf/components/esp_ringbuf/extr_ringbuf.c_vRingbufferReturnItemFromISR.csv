@@ -1,0 +1,11 @@
+configASSERT,FUNC_0
+portENTER_CRITICAL_ISR,FUNC_1
+portEXIT_CRITICAL_ISR,FUNC_2
+rbGET_TX_SEM_HANDLE,FUNC_3
+stub1,FUNC_4
+xSemaphoreGiveFromISR,FUNC_5
+vRingbufferReturnItemFromISR,FUNC_6
+xRingbuffer,VAR_0
+pvItem,VAR_1
+pxHigherPriorityTaskWoken,VAR_2
+pxRingbuffer,VAR_3

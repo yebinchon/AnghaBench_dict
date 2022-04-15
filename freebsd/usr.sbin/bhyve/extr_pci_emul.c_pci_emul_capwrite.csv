@@ -1,0 +1,14 @@
+CAP_START_OFFSET,VAR_0
+assert,FUNC_0
+msicap_cfgwrite,FUNC_1
+msixcap_cfgwrite,FUNC_2
+pci_get_cfgdata8,FUNC_3
+pciecap_cfgwrite,FUNC_4
+pci_emul_capwrite,FUNC_5
+pi,VAR_1
+offset,VAR_2
+bytes,VAR_3
+val,VAR_4
+capid,VAR_5
+capoff,VAR_6
+nextoff,VAR_7

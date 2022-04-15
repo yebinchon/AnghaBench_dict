@@ -1,0 +1,15 @@
+CreateWindowExA,FUNC_0
+DestroyWindow,FUNC_1
+FALSE,VAR_0
+GetDesktopWindow,FUNC_2
+SetForegroundWindow,FUNC_3
+SetForegroundWindowSeq,VAR_1
+WS_OVERLAPPEDWINDOW,VAR_2
+WS_VISIBLE,VAR_3
+WmEmptySeq,VAR_4
+flush_sequence,FUNC_4
+ok,FUNC_5
+ok_sequence,FUNC_6
+trace,FUNC_7
+test_SetForegroundWindow,FUNC_8
+hwnd,VAR_5

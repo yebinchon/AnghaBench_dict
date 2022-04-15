@@ -1,0 +1,15 @@
+APIC_BUS_CYCLE_NS,VAR_0
+APIC_TMICT,VAR_1
+ASSERT,FUNC_0
+div64_u64,FUNC_1
+ktime_get,FUNC_2
+ktime_sub,FUNC_3
+ktime_to_ns,FUNC_4
+kvm_lapic_get_reg,FUNC_5
+mod_64,FUNC_6
+apic_get_tmcct,FUNC_7
+apic,VAR_2
+remaining,VAR_3
+now,VAR_4
+ns,VAR_5
+tmcct,VAR_6

@@ -1,0 +1,14 @@
+DW_PCIE_REGION_INBOUND,VAR_0
+__dw_pcie_ep_reset_bar,FUNC_0
+clear_bit,FUNC_1
+dw_pcie_disable_atu,FUNC_2
+epc_get_drvdata,FUNC_3
+to_dw_pcie_from_ep,FUNC_4
+dw_pcie_ep_clear_bar,FUNC_5
+epc,VAR_1
+func_no,VAR_2
+epf_bar,VAR_3
+ep,VAR_4
+pci,VAR_5
+bar,VAR_6
+atu_index,VAR_7

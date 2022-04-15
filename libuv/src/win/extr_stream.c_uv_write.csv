@@ -1,0 +1,16 @@
+ERROR_INVALID_PARAMETER,VAR_0
+UV_EPIPE,VAR_1
+UV_HANDLE_WRITABLE,VAR_2
+assert,FUNC_0
+uv__pipe_write,FUNC_1
+uv_tcp_write,FUNC_2
+uv_translate_sys_error,FUNC_3
+uv_tty_write,FUNC_4
+uv_write,FUNC_5
+req,VAR_3
+handle,VAR_4
+bufs,VAR_5
+nbufs,VAR_6
+cb,VAR_7
+loop,VAR_8
+err,VAR_9

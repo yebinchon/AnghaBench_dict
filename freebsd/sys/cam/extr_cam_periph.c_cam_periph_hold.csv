@@ -1,0 +1,13 @@
+CAM_PERIPH_INVALID,VAR_0
+CAM_PERIPH_LOCKED,VAR_1
+CAM_PERIPH_LOCK_WANTED,VAR_2
+ENXIO,VAR_3
+MA_OWNED,VAR_4
+cam_periph_acquire,FUNC_0
+cam_periph_assert,FUNC_1
+cam_periph_release_locked,FUNC_2
+cam_periph_sleep,FUNC_3
+cam_periph_hold,FUNC_4
+periph,VAR_5
+priority,VAR_6
+error,VAR_7

@@ -1,0 +1,11 @@
+TPM2_CC_SHUTDOWN,VAR_0
+TPM2_ST_NO_SESSIONS,VAR_1
+tpm_buf_append_u16,FUNC_0
+tpm_buf_destroy,FUNC_1
+tpm_buf_init,FUNC_2
+tpm_transmit_cmd,FUNC_3
+tpm2_shutdown,FUNC_4
+chip,VAR_2
+shutdown_type,VAR_3
+buf,VAR_4
+rc,VAR_5

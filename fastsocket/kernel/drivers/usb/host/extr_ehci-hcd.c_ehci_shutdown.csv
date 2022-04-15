@@ -1,0 +1,8 @@
+del_timer_sync,FUNC_0
+ehci_silence_controller,FUNC_1
+hcd_to_ehci,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+ehci_shutdown,FUNC_5
+hcd,VAR_0
+ehci,VAR_1

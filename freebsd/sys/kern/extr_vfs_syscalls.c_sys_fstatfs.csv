@@ -1,0 +1,11 @@
+M_STATFS,VAR_0
+M_WAITOK,VAR_1
+copyout,FUNC_0
+free,FUNC_1
+kern_fstatfs,FUNC_2
+malloc,FUNC_3
+sys_fstatfs,FUNC_4
+td,VAR_2
+uap,VAR_3
+sfp,VAR_4
+error,VAR_5

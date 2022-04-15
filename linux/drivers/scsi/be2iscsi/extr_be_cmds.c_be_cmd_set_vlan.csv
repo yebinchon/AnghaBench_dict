@@ -1,0 +1,16 @@
+CMD_SUBSYSTEM_ISCSI,VAR_0
+OPCODE_COMMON_ISCSI_NTWK_SET_VLAN,VAR_1
+alloc_mcc_wrb,FUNC_0
+be_cmd_hdr_prepare,FUNC_1
+be_mcc_notify,FUNC_2
+be_wrb_hdr_prepare,FUNC_3
+embedded_payload,FUNC_4
+mutex_lock_interruptible,FUNC_5
+mutex_unlock,FUNC_6
+be_cmd_set_vlan,FUNC_7
+phba,VAR_2
+vlan_tag,VAR_3
+tag,VAR_4
+wrb,VAR_5
+req,VAR_6
+ctrl,VAR_7

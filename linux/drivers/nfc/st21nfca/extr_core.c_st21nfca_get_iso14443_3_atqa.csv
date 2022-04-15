@@ -1,0 +1,11 @@
+EPROTO,VAR_0
+ST21NFCA_RF_READER_14443_3_A_ATQA,VAR_1
+ST21NFCA_RF_READER_14443_3_A_GATE,VAR_2
+be16_to_cpu,FUNC_0
+kfree_skb,FUNC_1
+nfc_hci_get_param,FUNC_2
+st21nfca_get_iso14443_3_atqa,FUNC_3
+hdev,VAR_3
+atqa,VAR_4
+r,VAR_5
+atqa_skb,VAR_6

@@ -1,0 +1,11 @@
+RS480_NB_MC_DATA,VAR_0
+RS480_NB_MC_INDEX,VAR_1
+RS480_NB_MC_IND_WR_EN,VAR_2
+WREG32,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+rs400_mc_wreg,FUNC_3
+rdev,VAR_3
+reg,VAR_4
+v,VAR_5
+flags,VAR_6

@@ -1,0 +1,15 @@
+EOF,VAR_0
+STRBUF_INIT,VAR_1
+fgetc,FUNC_0
+is_rfc2822_header,FUNC_1
+strbuf_addbuf,FUNC_2
+strbuf_addch,FUNC_3
+strbuf_getline_lf,FUNC_4
+strbuf_release,FUNC_5
+strbuf_rtrim,FUNC_6
+ungetc,FUNC_7
+read_one_header_line,FUNC_8
+line,VAR_2
+in,VAR_3
+continuation,VAR_4
+peek,VAR_5

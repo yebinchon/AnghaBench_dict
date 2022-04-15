@@ -1,0 +1,17 @@
+MEM_COMMIT,VAR_0
+PAGE_READWRITE,VAR_1
+PTHREAD_MAX,VAR_2
+VirtualAlloc,FUNC_0
+eprintf,FUNC_1
+lstThread,VAR_3
+lstThreadPtr,VAR_4
+w32_NtQueryInformationThread,FUNC_2
+r_debug_lstThreadAdd,FUNC_3
+pid,VAR_5
+tid,VAR_6
+hThread,VAR_7
+lpThreadLocalBase,VAR_8
+lpStartAddress,VAR_9
+bFinished,VAR_10
+x,VAR_11
+startAddress,VAR_12

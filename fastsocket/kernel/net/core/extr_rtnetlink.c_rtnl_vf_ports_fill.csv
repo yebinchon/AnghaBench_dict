@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+IFLA_PORT_VF,VAR_1
+IFLA_VF_PORT,VAR_2
+IFLA_VF_PORTS,VAR_3
+NLA_PUT_U32,FUNC_0
+dev_num_vf,FUNC_1
+nla_nest_cancel,FUNC_2
+nla_nest_end,FUNC_3
+nla_nest_start,FUNC_4
+stub1,FUNC_5
+rtnl_vf_ports_fill,FUNC_6
+skb,VAR_4
+dev,VAR_5
+vf_ports,VAR_6
+vf_port,VAR_7
+vf,VAR_8
+err,VAR_9

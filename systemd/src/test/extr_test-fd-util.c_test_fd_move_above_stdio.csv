@@ -1,0 +1,12 @@
+EBADF,VAR_0
+F_DUPFD,VAR_1
+O_RDONLY,VAR_2
+assert_se,FUNC_0
+close_nointr,FUNC_1
+dup,FUNC_2
+fcntl,FUNC_3
+fd_move_above_stdio,FUNC_4
+open,FUNC_5
+test_fd_move_above_stdio,FUNC_6
+original_stdin,VAR_3
+new_fd,VAR_4

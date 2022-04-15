@@ -1,0 +1,8 @@
+A_ESPI_INTR_ENABLE,VAR_0
+A_PL_ENABLE,VAR_1
+F_PL_INTR_ESPI,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+t1_espi_intr_disable,FUNC_2
+espi,VAR_3
+pl_intr,VAR_4

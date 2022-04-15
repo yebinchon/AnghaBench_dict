@@ -1,0 +1,16 @@
+CONNECTION_BAD,VAR_0
+MULTI_CONNECTION_LOST,VAR_1
+PQconsumeInput,FUNC_0
+PQflush,FUNC_1
+PQisBusy,FUNC_2
+PQstatus,FUNC_3
+UpdateConnectionWaitFlags,FUNC_4
+WL_SOCKET_READABLE,VAR_2
+WL_SOCKET_WRITEABLE,VAR_3
+CheckConnectionReady,FUNC_5
+session,VAR_4
+sendStatus,VAR_5
+connection,VAR_6
+waitFlags,VAR_7
+connectionReady,VAR_8
+status,VAR_9

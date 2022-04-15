@@ -1,0 +1,10 @@
+VPIF_CH2_BTM_STRT_ADD_LUMA,VAR_0
+VPIF_CH2_TOP_STRT_ADD_LUMA,VAR_1
+VPIF_CH3_BTM_STRT_ADD_CHROMA,VAR_2
+VPIF_CH3_TOP_STRT_ADD_CHROMA,VAR_3
+regw,FUNC_0
+ch2_set_videobuf_addr_yc_nmux,FUNC_1
+top_strt_luma,VAR_4
+btm_strt_luma,VAR_5
+top_strt_chroma,VAR_6
+btm_strt_chroma,VAR_7

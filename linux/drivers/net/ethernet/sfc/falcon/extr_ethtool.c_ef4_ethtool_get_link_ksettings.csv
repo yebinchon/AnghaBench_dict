@@ -1,0 +1,16 @@
+Asym_Pause,VAR_0
+DUPLEX_FULL,VAR_1
+DUPLEX_HALF,VAR_2
+LOOPBACK_INTERNAL,FUNC_0
+Pause,VAR_3
+ethtool_link_ksettings_add_link_mode,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+stub1,FUNC_5
+supported,VAR_4
+ef4_ethtool_get_link_ksettings,FUNC_6
+net_dev,VAR_5
+cmd,VAR_6
+efx,VAR_7
+link_state,VAR_8

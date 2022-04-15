@@ -1,0 +1,15 @@
+PD_IDH_VID,FUNC_0
+PD_PRODUCT_PID,FUNC_1
+VDO_INDEX_CSTAT,VAR_0
+VDO_INDEX_IDH,VAR_1
+VDO_INDEX_PRODUCT,VAR_2
+le32_to_cpu,FUNC_2
+memset,FUNC_3
+tcpm_log,FUNC_4
+typec_partner_set_identity,FUNC_5
+svdm_consume_identity,FUNC_6
+port,VAR_3
+payload,VAR_4
+cnt,VAR_5
+vdo,VAR_6
+product,VAR_7

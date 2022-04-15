@@ -1,0 +1,14 @@
+DRM_DISPLAY_MODE_LEN,VAR_0
+DRM_MODE_TYPE_PREFERRED,VAR_1
+drm_mode_duplicate,FUNC_0
+strscpy,FUNC_1
+to_amdgpu_encoder,FUNC_2
+amdgpu_dm_create_common_mode,FUNC_3
+encoder,VAR_2
+name,VAR_3
+hdisplay,VAR_4
+vdisplay,VAR_5
+dev,VAR_6
+amdgpu_encoder,VAR_7
+mode,VAR_8
+native_mode,VAR_9

@@ -1,0 +1,16 @@
+DIGITAL_DRV_CAPS_TG_CRC,FUNC_0
+DIGITAL_SEL_RES_NFC_DEP,VAR_0
+ENOMEM,VAR_1
+NFC_DIGITAL_CONFIG_FRAMING,VAR_2
+NFC_DIGITAL_FRAMING_NFCA_ANTICOL_COMPLETE,VAR_3
+digital_skb_add_crc_a,FUNC_1
+digital_skb_alloc,FUNC_2
+digital_tg_configure_hw,FUNC_3
+digital_tg_recv_atr_req,VAR_4
+digital_tg_send_cmd,FUNC_4
+kfree_skb,FUNC_5
+skb_put_u8,FUNC_6
+digital_tg_send_sel_res,FUNC_7
+ddev,VAR_5
+skb,VAR_6
+rc,VAR_7

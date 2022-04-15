@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+CEPH_OSD_DATA_TYPE_BIO,VAR_0
+CEPH_OSD_DATA_TYPE_BVECS,VAR_1
+CEPH_OSD_DATA_TYPE_NONE,VAR_2
+CEPH_OSD_DATA_TYPE_PAGELIST,VAR_3
+CEPH_OSD_DATA_TYPE_PAGES,VAR_4
+SIZE_MAX,VAR_5
+ceph_msg_data_add_bio,FUNC_1
+ceph_msg_data_add_bvecs,FUNC_2
+ceph_msg_data_add_pagelist,FUNC_3
+ceph_msg_data_add_pages,FUNC_4
+ceph_osd_data_length,FUNC_5
+ceph_osdc_msg_data_add,FUNC_6
+msg,VAR_6
+osd_data,VAR_7
+length,VAR_8

@@ -1,0 +1,14 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_tndem_eip_ecn_set,FUNC_1
+mlxsw_reg_tndem_overlay_ecn_set,FUNC_2
+mlxsw_reg_tndem_trap_en_set,FUNC_3
+mlxsw_reg_tndem_trap_id_set,FUNC_4
+mlxsw_reg_tndem_underlay_ecn_set,FUNC_5
+tndem,VAR_0
+mlxsw_reg_tndem_pack,FUNC_6
+payload,VAR_1
+underlay_ecn,VAR_2
+overlay_ecn,VAR_3
+ecn,VAR_4
+trap_en,VAR_5
+trap_id,VAR_6

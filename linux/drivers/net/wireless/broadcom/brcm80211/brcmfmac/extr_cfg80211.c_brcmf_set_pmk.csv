@@ -1,0 +1,14 @@
+BRCMF_C_SET_WSEC_PMK,VAR_0
+BRCMF_WSEC_PASSPHRASE,VAR_1
+bphy_err,FUNC_0
+brcmf_fil_cmd_data_set,FUNC_1
+cpu_to_le16,FUNC_2
+snprintf,FUNC_3
+brcmf_set_pmk,FUNC_4
+ifp,VAR_2
+pmk_data,VAR_3
+pmk_len,VAR_4
+drvr,VAR_5
+pmk,VAR_6
+i,VAR_7
+err,VAR_8

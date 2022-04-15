@@ -1,0 +1,13 @@
+LPI2C_MCR,VAR_0
+MCR_MEN,VAR_1
+MCR_RST,VAR_2
+lpi2c_imx_config,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+lpi2c_imx_master_enable,FUNC_6
+lpi2c_imx,VAR_3
+temp,VAR_4
+ret,VAR_5

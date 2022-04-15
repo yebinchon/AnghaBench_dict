@@ -1,0 +1,10 @@
+TCODE_READ_BLOCK_REQUEST,VAR_0
+TCODE_READ_QUADLET_REQUEST,VAR_1
+get_subaddr,FUNC_0
+snd_fw_transaction,FUNC_1
+snd_dice_transaction_read,FUNC_2
+dice,VAR_2
+type,VAR_3
+offset,VAR_4
+buf,VAR_5
+len,VAR_6

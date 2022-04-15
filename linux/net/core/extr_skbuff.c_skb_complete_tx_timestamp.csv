@@ -1,0 +1,12 @@
+SCM_TSTAMP_SND,VAR_0
+__skb_complete_tx_timestamp,FUNC_0
+kfree_skb,FUNC_1
+likely,FUNC_2
+refcount_inc_not_zero,FUNC_3
+skb_hwtstamps,FUNC_4
+skb_may_tx_timestamp,FUNC_5
+sock_put,FUNC_6
+skb_complete_tx_timestamp,FUNC_7
+skb,VAR_1
+hwtstamps,VAR_2
+sk,VAR_3

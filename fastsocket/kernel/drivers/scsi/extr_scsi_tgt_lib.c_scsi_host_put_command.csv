@@ -1,0 +1,13 @@
+__blk_put_request,FUNC_0
+__scsi_put_command,FUNC_1
+kmem_cache_free,FUNC_2
+scsi_tgt_cmd_cache,VAR_0
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+scsi_host_put_command,FUNC_5
+shost,VAR_1
+cmd,VAR_2
+q,VAR_3
+rq,VAR_4
+tcmd,VAR_5
+flags,VAR_6

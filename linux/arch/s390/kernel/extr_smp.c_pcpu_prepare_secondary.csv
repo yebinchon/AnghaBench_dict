@@ -1,0 +1,14 @@
+S390_lowcore,VAR_0
+__ctl_store,FUNC_0
+__per_cpu_offset,VAR_1
+arch_spin_lock_setup,FUNC_1
+arch_spin_lockval,FUNC_2
+cpumask_set_cpu,FUNC_3
+init_mm,VAR_2
+memcpy,FUNC_4
+mm_cpumask,FUNC_5
+save_access_regs,FUNC_6
+pcpu_prepare_secondary,FUNC_7
+pcpu,VAR_3
+cpu,VAR_4
+lc,VAR_5

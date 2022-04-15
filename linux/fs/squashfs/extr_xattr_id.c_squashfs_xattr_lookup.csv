@@ -1,0 +1,17 @@
+SQUASHFS_XATTR_BLOCK,FUNC_0
+SQUASHFS_XATTR_BLOCK_OFFSET,FUNC_1
+le32_to_cpu,FUNC_2
+le64_to_cpu,FUNC_3
+squashfs_read_metadata,FUNC_4
+squashfs_xattr_lookup,FUNC_5
+sb,VAR_0
+index,VAR_1
+count,VAR_2
+size,VAR_3
+xattr,VAR_4
+msblk,VAR_5
+block,VAR_6
+offset,VAR_7
+start_block,VAR_8
+id,VAR_9
+err,VAR_10

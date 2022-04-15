@@ -1,0 +1,13 @@
+KAUTH_VNODE_READ_ATTRIBUTES,VAR_0
+KAUTH_VNODE_READ_SECURITY,VAR_1
+NOCRED,VAR_2
+mac_vnode_check_stat,FUNC_0
+vn_stat_noauth,FUNC_1
+vnode_authorize,FUNC_2
+vn_stat,FUNC_3
+vp,VAR_3
+sb,VAR_4
+xsec,VAR_5
+isstat64,VAR_6
+ctx,VAR_7
+error,VAR_8

@@ -1,0 +1,14 @@
+lua_createtable,FUNC_0
+lua_gettop,FUNC_1
+lua_insert,FUNC_2
+lua_isnil,FUNC_3
+lua_istable,FUNC_4
+lua_objlen,FUNC_5
+lua_pop,FUNC_6
+lua_pushvalue,FUNC_7
+lua_rawget,FUNC_8
+lua_rawset,FUNC_9
+lua_rawseti,FUNC_10
+ngx_http_lua_set_multi_value_table,FUNC_11
+L,VAR_0
+index,VAR_1

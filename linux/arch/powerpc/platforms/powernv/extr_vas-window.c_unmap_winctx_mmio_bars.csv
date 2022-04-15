@@ -1,0 +1,12 @@
+get_hvwc_mmio_bar,FUNC_0
+get_uwc_mmio_bar,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+unmap_region,FUNC_4
+vas_mutex,VAR_0
+unmap_winctx_mmio_bars,FUNC_5
+window,VAR_1
+len,VAR_2
+uwc_map,VAR_3
+hvwc_map,VAR_4
+busaddr_start,VAR_5

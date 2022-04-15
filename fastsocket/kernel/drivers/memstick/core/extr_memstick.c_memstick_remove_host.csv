@@ -1,0 +1,16 @@
+MEMSTICK_POWER,VAR_0
+MEMSTICK_POWER_OFF,VAR_1
+device_del,FUNC_0
+device_unregister,FUNC_1
+flush_workqueue,FUNC_2
+idr_remove,FUNC_3
+memstick_host_idr,VAR_2
+memstick_host_lock,VAR_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+stub1,FUNC_8
+workqueue,VAR_4
+memstick_remove_host,FUNC_9
+host,VAR_5

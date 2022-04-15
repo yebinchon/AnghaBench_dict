@@ -1,0 +1,12 @@
+IXGBE_READ_REG,FUNC_0
+IXGBE_RSCCTL,FUNC_1
+IXGBE_RSCCTL_MAXDESC_16,VAR_0
+IXGBE_RSCCTL_RSCEN,VAR_1
+IXGBE_WRITE_REG,FUNC_2
+ring_is_rsc_enabled,FUNC_3
+ixgbe_configure_rscctl,FUNC_4
+adapter,VAR_2
+ring,VAR_3
+hw,VAR_4
+rscctrl,VAR_5
+reg_idx,VAR_6

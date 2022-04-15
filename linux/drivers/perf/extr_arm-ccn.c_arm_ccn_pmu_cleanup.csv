@@ -1,0 +1,12 @@
+CCN_DT_PMCR,VAR_0
+CCN_XP_DT_CONTROL,VAR_1
+CPUHP_AP_PERF_ARM_CCN_ONLINE,VAR_2
+arm_ccn_pmu_ida,VAR_3
+cpuhp_state_remove_instance_nocalls,FUNC_0
+ida_simple_remove,FUNC_1
+irq_set_affinity_hint,FUNC_2
+perf_pmu_unregister,FUNC_3
+writel,FUNC_4
+arm_ccn_pmu_cleanup,FUNC_5
+ccn,VAR_4
+i,VAR_5

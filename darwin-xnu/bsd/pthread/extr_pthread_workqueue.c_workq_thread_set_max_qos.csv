@@ -1,0 +1,13 @@
+get_bsdthread_info,FUNC_0
+proc_get_wqptr_fast,FUNC_1
+workq_lock_spin,FUNC_2
+workq_thread_update_bucket,FUNC_3
+workq_unlock,FUNC_4
+workq_thread_set_max_qos,FUNC_5
+p,VAR_0
+kqr,VAR_1
+old_pri,VAR_2
+new_pri,VAR_3
+uth,VAR_4
+wq,VAR_5
+qos,VAR_6

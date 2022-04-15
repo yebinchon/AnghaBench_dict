@@ -1,0 +1,11 @@
+EINTR,VAR_0
+EWOULDBLOCK,VAR_1
+REDIS_BLOCK,VAR_2
+REDIS_ERR_IO,VAR_3
+__redisSetError,FUNC_0
+errno,VAR_4
+sdslen,FUNC_1
+send,FUNC_2
+redisNetWrite,FUNC_3
+c,VAR_5
+nwritten,VAR_6

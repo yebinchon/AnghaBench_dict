@@ -1,0 +1,10 @@
+bind_evtchn_to_irqhandler,FUNC_0
+snprintf,FUNC_1
+unbind_from_irqhandler,FUNC_2
+xenbus_alloc_evtchn,FUNC_3
+xenbus_free_evtchn,FUNC_4
+xennet_rx_interrupt,VAR_0
+xennet_tx_interrupt,VAR_1
+setup_netfront_split,FUNC_5
+queue,VAR_2
+err,VAR_3

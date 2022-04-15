@@ -1,0 +1,12 @@
+EINPROGRESS,VAR_0
+EREMOTEIO,VAR_1
+URB_SHORT_NOT_OK,VAR_2
+fhci_to_hcd,FUNC_0
+free_urb_priv,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+usb_hcd_giveback_urb,FUNC_4
+usb_hcd_unlink_urb_from_ep,FUNC_5
+fhci_urb_complete_free,FUNC_6
+fhci,VAR_3
+urb,VAR_4

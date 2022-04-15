@@ -1,0 +1,9 @@
+ENXIO,VAR_0
+REG_SM0CTL1_REG,VAR_1
+SM0CTL1_ACK_MASK,VAR_2
+readl_relaxed,FUNC_0
+mtk_i2c_check_ack,FUNC_1
+i2c,VAR_3
+expected,VAR_4
+ack,VAR_5
+ack_expected,VAR_6

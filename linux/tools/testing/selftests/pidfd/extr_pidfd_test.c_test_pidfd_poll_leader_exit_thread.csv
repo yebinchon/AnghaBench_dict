@@ -1,0 +1,8 @@
+CHILD_THREAD_MIN_WAIT,VAR_0
+SYS_gettid,VAR_1
+getpid,FUNC_0
+ksft_print_msg,FUNC_1
+sleep,FUNC_2
+syscall,FUNC_3
+test_pidfd_poll_leader_exit_thread,FUNC_4
+priv,VAR_2

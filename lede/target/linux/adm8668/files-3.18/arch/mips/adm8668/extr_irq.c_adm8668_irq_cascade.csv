@@ -1,0 +1,9 @@
+IRQ_MASK,VAR_0
+IRQ_STATUS_REG,VAR_1
+do_IRQ,FUNC_0
+fls,FUNC_1
+intc_read_reg,FUNC_2
+spurious_interrupt,FUNC_3
+adm8668_irq_cascade,FUNC_4
+irq,VAR_2
+intsrc,VAR_3

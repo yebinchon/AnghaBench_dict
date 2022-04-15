@@ -1,0 +1,13 @@
+COM7_RESET,VAR_0
+REG_COM7,VAR_1
+i2c_transfer,FUNC_0
+msleep,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+ov7670_write_i2c,FUNC_3
+sd,VAR_2
+reg,VAR_3
+value,VAR_4
+client,VAR_5
+msg,VAR_6
+data,VAR_7
+ret,VAR_8

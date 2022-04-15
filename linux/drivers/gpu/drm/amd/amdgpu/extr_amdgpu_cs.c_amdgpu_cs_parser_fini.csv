@@ -1,0 +1,17 @@
+amdgpu_bo_list_put,FUNC_0
+amdgpu_bo_unref,FUNC_1
+amdgpu_ctx_put,FUNC_2
+amdgpu_job_free,FUNC_3
+dma_fence_put,FUNC_4
+drm_syncobj_put,FUNC_5
+kfree,FUNC_6
+kvfree,FUNC_7
+mutex_unlock,FUNC_8
+ttm_eu_backoff_reservation,FUNC_9
+ttm_to_amdgpu_bo,FUNC_10
+amdgpu_cs_parser_fini,FUNC_11
+parser,VAR_0
+error,VAR_1
+backoff,VAR_2
+i,VAR_3
+uf,VAR_4

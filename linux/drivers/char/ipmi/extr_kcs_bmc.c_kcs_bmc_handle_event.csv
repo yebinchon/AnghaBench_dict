@@ -1,0 +1,14 @@
+ENODATA,VAR_0
+KCS_STATUS_CMD_DAT,VAR_1
+KCS_STATUS_IBF,VAR_2
+kcs_bmc_handle_cmd,FUNC_0
+kcs_bmc_handle_data,FUNC_1
+kcs_force_abort,FUNC_2
+read_status,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+kcs_bmc_handle_event,FUNC_6
+kcs_bmc,VAR_3
+flags,VAR_4
+ret,VAR_5
+status,VAR_6

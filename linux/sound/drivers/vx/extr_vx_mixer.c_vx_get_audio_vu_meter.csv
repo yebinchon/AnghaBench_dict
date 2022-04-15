@@ -1,0 +1,15 @@
+CMD_AUDIO_VU_PIC_METER,VAR_0
+COMMAND_RECORD_MASK,VAR_1
+EBUSY,VAR_2
+VU_METER_CHANNELS,VAR_3
+VX_STAT_IS_STALE,VAR_4
+vx_init_rmh,FUNC_0
+vx_send_msg,FUNC_1
+vx_get_audio_vu_meter,FUNC_2
+chip,VAR_5
+audio,VAR_6
+capture,VAR_7
+info,VAR_8
+rmh,VAR_9
+i,VAR_10
+err,VAR_11

@@ -1,0 +1,10 @@
+ACPI_SIG_MADT,VAR_0
+KASSERT,FUNC_0
+acpi_map_table,FUNC_1
+acpi_unmap_table,FUNC_2
+madt,VAR_1
+madt_length,VAR_2
+madt_physaddr,VAR_3
+madt_probe_cpus_handler,VAR_4
+madt_walk_table,FUNC_3
+madt_probe_cpus,FUNC_4

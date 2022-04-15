@@ -1,0 +1,17 @@
+BUS_DMA_NOWAIT,VAR_0
+MLX_IO_ASSERT_LOCKED,FUNC_0
+M_DEVBUF,VAR_1
+M_NOWAIT,VAR_2
+bus_dmamap_load,FUNC_1
+debug_called,FUNC_2
+free,FUNC_3
+malloc,FUNC_4
+mlx_alloccmd,FUNC_5
+mlx_eventlog_cb,VAR_3
+mlx_getslot,FUNC_6
+mlx_releasecmd,FUNC_7
+mlx_periodic_eventlog_poll,FUNC_8
+sc,VAR_4
+mc,VAR_5
+result,VAR_6
+error,VAR_7

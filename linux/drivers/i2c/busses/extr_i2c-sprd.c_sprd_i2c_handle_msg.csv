@@ -1,0 +1,16 @@
+I2C_M_RD,VAR_0
+reinit_completion,FUNC_0
+sprd_i2c_data_transfer,FUNC_1
+sprd_i2c_opt_mode,FUNC_2
+sprd_i2c_opt_start,FUNC_3
+sprd_i2c_reset_fifo,FUNC_4
+sprd_i2c_send_stop,FUNC_5
+sprd_i2c_set_count,FUNC_6
+sprd_i2c_set_devaddr,FUNC_7
+sprd_i2c_set_fifo_full_int,FUNC_8
+wait_for_completion,FUNC_9
+sprd_i2c_handle_msg,FUNC_10
+i2c_adap,VAR_1
+msg,VAR_2
+is_last_msg,VAR_3
+i2c_dev,VAR_4

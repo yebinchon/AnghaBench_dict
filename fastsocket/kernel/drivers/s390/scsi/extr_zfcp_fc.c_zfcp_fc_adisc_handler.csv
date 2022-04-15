@@ -1,0 +1,16 @@
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_0
+ZFCP_STATUS_COMMON_OPEN,VAR_1
+ZFCP_STATUS_PORT_LINK_TEST,VAR_2
+atomic_clear_mask,FUNC_0
+atomic_read,FUNC_1
+kmem_cache_free,FUNC_2
+zfcp_data,VAR_3
+zfcp_erp_port_forced_reopen,FUNC_3
+zfcp_erp_port_reopen,FUNC_4
+zfcp_port_put,FUNC_5
+zfcp_scsi_schedule_rport_register,FUNC_6
+zfcp_fc_adisc_handler,FUNC_7
+data,VAR_4
+adisc,VAR_5
+port,VAR_6
+ls_adisc,VAR_7

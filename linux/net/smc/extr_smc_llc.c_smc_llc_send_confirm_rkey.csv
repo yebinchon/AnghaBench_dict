@@ -1,0 +1,15 @@
+SMC_LLC_CONFIRM_RKEY,VAR_0
+SMC_SINGLE_LINK,VAR_1
+cpu_to_be64,FUNC_0
+htonl,FUNC_1
+memset,FUNC_2
+sg_dma_address,FUNC_3
+smc_llc_add_pending_send,FUNC_4
+smc_wr_tx_send,FUNC_5
+smc_llc_send_confirm_rkey,FUNC_6
+link,VAR_2
+rmb_desc,VAR_3
+rkeyllc,VAR_4
+pend,VAR_5
+wr_buf,VAR_6
+rc,VAR_7

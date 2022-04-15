@@ -1,0 +1,16 @@
+DPCD_PRE_EMPHASIS_SET,FUNC_0
+DPCD_VOLTAGE_SWING_SET,FUNC_1
+DP_TRAIN_MAX_PRE_EMPHASIS_REACHED,VAR_0
+DP_TRAIN_MAX_SWING_REACHED,VAR_1
+PRE_EMPHASIS_LEVEL_3,VAR_2
+VOLTAGE_LEVEL_3,VAR_3
+analogix_dp_get_adjust_request_pre_emphasis,FUNC_2
+analogix_dp_get_adjust_request_voltage,FUNC_3
+analogix_dp_get_adjust_training_lane,FUNC_4
+dp,VAR_4
+adjust_request,VAR_5
+lane,VAR_6
+lane_count,VAR_7
+voltage_swing,VAR_8
+pre_emphasis,VAR_9
+training_lane,VAR_10

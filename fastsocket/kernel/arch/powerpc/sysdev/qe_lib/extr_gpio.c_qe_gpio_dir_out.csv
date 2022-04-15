@@ -1,0 +1,14 @@
+QE_PIO_DIR_OUT,VAR_0
+__par_io_config_pin,FUNC_0
+qe_gpio_set,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_of_mm_gpio_chip,FUNC_4
+to_qe_gpio_chip,FUNC_5
+qe_gpio_dir_out,FUNC_6
+gc,VAR_1
+gpio,VAR_2
+val,VAR_3
+mm_gc,VAR_4
+qe_gc,VAR_5
+flags,VAR_6

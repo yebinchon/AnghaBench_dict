@@ -1,0 +1,13 @@
+CCW_CMD_SET_VIRTIO_REV,VAR_0
+ENOMEM,VAR_1
+EOPNOTSUPP,VAR_2
+VIRTIO_CCW_DOING_SET_VIRTIO_REV,VAR_3
+VIRTIO_CCW_REV_MAX,VAR_4
+ccw_device_dma_free,FUNC_0
+ccw_device_dma_zalloc,FUNC_1
+ccw_io_helper,FUNC_2
+virtio_ccw_set_transport_rev,FUNC_3
+vcdev,VAR_5
+rev,VAR_6
+ccw,VAR_7
+ret,VAR_8

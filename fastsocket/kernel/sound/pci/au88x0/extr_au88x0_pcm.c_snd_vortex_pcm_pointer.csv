@@ -1,0 +1,14 @@
+VORTEX_PCM_TYPE,FUNC_0
+VORTEX_PCM_WT,VAR_0
+bytes_to_frames,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+vortex_adbdma_getlinearpos,FUNC_5
+vortex_wtdma_getlinearpos,FUNC_6
+snd_vortex_pcm_pointer,FUNC_7
+substream,VAR_1
+chip,VAR_2
+stream,VAR_3
+dma,VAR_4
+current_ptr,VAR_5

@@ -1,0 +1,11 @@
+QBMAN_CINH_SWP_CR_RT,VAR_0
+QMAN_REV_5000,VAR_1
+QMAN_REV_MASK,VAR_2
+QMAN_RT_MODE,VAR_3
+dma_wmb,FUNC_0
+qbman_write_register,FUNC_1
+qbman_swp_mc_submit,FUNC_2
+p,VAR_4
+cmd,VAR_5
+cmd_verb,VAR_6
+v,VAR_7

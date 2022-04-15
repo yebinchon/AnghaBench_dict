@@ -1,0 +1,15 @@
+IsConfigStringType,FUNC_0
+assert,FUNC_1
+config_FindConfig,FUNC_2
+config_dirty,VAR_0
+config_lock,VAR_1
+free,FUNC_3
+strdup,FUNC_4
+vlc_rwlock_unlock,FUNC_5
+vlc_rwlock_wrlock,FUNC_6
+config_PutPsz,FUNC_7
+psz_name,VAR_2
+psz_value,VAR_3
+p_config,VAR_4
+str,VAR_5
+oldstr,VAR_6

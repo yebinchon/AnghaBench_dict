@@ -1,0 +1,10 @@
+BTRFS_HEADER_FLAG_RELOC,VAR_0
+BTRFS_HEADER_FLAG_WRITTEN,VAR_1
+BTRFS_TREE_RELOC_OBJECTID,VAR_2
+btrfs_header_flag,FUNC_0
+btrfs_header_generation,FUNC_1
+smp_rmb,FUNC_2
+should_cow_block,FUNC_3
+trans,VAR_3
+root,VAR_4
+buf,VAR_5

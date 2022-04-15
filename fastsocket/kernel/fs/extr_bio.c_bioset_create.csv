@@ -1,0 +1,13 @@
+BIO_INLINE_VECS,VAR_0
+GFP_KERNEL,VAR_1
+bio_find_or_create_slab,FUNC_0
+bioset_free,FUNC_1
+biovec_create_pools,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+mempool_create_slab_pool,FUNC_5
+bioset_create,FUNC_6
+pool_size,VAR_2
+front_pad,VAR_3
+back_pad,VAR_4
+bs,VAR_5

@@ -1,0 +1,12 @@
+SCR_PLL1CR,VAR_0
+iowrite16,FUNC_0
+platform_get_drvdata,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_platform_device,FUNC_4
+tc6393xb_lcd_mode,FUNC_5
+fb,VAR_1
+mode,VAR_2
+dev,VAR_3
+tc6393xb,VAR_4
+flags,VAR_5

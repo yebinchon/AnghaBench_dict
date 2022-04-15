@@ -1,0 +1,9 @@
+ARCXCNN_WLED_ISET_LSB,VAR_0
+ARCXCNN_WLED_ISET_LSB_SHIFT,VAR_1
+ARCXCNN_WLED_ISET_MSB,VAR_2
+i2c_smbus_write_byte_data,FUNC_0
+arcxcnn_set_brightness,FUNC_1
+lp,VAR_3
+brightness,VAR_4
+ret,VAR_5
+val,VAR_6

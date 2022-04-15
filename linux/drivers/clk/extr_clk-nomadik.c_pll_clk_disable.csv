@@ -1,0 +1,15 @@
+SRC_PLLCR,VAR_0
+SRC_PLLCR_PLL1EN,VAR_1
+SRC_PLLCR_PLL1OVER,VAR_2
+SRC_PLLCR_PLL2EN,VAR_3
+readl,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+src_base,VAR_4
+src_lock,VAR_5
+to_pll,FUNC_3
+writel,FUNC_4
+pll_clk_disable,FUNC_5
+hw,VAR_6
+pll,VAR_7
+val,VAR_8

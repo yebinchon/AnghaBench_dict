@@ -1,0 +1,17 @@
+ALE_ALL_PORTS,VAR_0
+ALE_PORT_1,VAR_1
+ALE_PORT_2,VAR_2
+CPSW1_PORT_VLAN,VAR_3
+CPSW2_PORT_VLAN,VAR_4
+CPSW_VERSION_1,VAR_5
+IFF_ALLMULTI,VAR_6
+cpsw_ale_add_vlan,FUNC_0
+slave_write,FUNC_1
+writel,FUNC_2
+cpsw_add_default_vlan,FUNC_3
+priv,VAR_7
+cpsw,VAR_8
+vlan,VAR_9
+reg,VAR_10
+i,VAR_11
+unreg_mcast_mask,VAR_12

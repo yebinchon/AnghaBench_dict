@@ -1,0 +1,12 @@
+REG_WRITE,FUNC_0
+SHA_CONTINUE_REG,VAR_0
+SHA_MODE_REG,VAR_1
+SHA_M_BASE,VAR_2
+SHA_START_REG,VAR_3
+block_length,FUNC_1
+esp_sha_wait_idle,FUNC_2
+memcpy_endianswap,FUNC_3
+esp_sha_block,FUNC_4
+sha_type,VAR_4
+data_block,VAR_5
+is_first_block,VAR_6

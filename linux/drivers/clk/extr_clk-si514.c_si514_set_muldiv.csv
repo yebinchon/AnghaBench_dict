@@ -1,0 +1,11 @@
+SI514_REG_HS_DIV,VAR_0
+SI514_REG_LP,VAR_1
+SI514_REG_M_FRAC1,VAR_2
+regmap_bulk_write,FUNC_0
+regmap_write,FUNC_1
+si514_set_muldiv,FUNC_2
+data,VAR_3
+settings,VAR_4
+lp,VAR_5
+reg,VAR_6
+err,VAR_7

@@ -1,0 +1,17 @@
+clk_disable_unprepare,FUNC_0
+clk_put,FUNC_1
+dma_free_coherent,FUNC_2
+free_irq,FUNC_3
+free_netdev,FUNC_4
+iounmap,FUNC_5
+lpc32xx_return_iram,FUNC_6
+mdiobus_free,FUNC_7
+mdiobus_unregister,FUNC_8
+netdev_priv,FUNC_9
+platform_get_drvdata,FUNC_10
+unregister_netdev,FUNC_11
+use_iram_for_net,FUNC_12
+lpc_eth_drv_remove,FUNC_13
+pdev,VAR_0
+ndev,VAR_1
+pldat,VAR_2

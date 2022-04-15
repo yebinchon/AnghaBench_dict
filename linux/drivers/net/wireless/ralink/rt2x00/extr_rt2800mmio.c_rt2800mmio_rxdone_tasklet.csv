@@ -1,0 +1,9 @@
+DEVICE_STATE_ENABLED_RADIO,VAR_0
+INT_MASK_CSR_RX_DONE,VAR_1
+rt2800mmio_enable_interrupt,FUNC_0
+rt2x00mmio_rxdone,FUNC_1
+tasklet_schedule,FUNC_2
+test_bit,FUNC_3
+rt2800mmio_rxdone_tasklet,FUNC_4
+data,VAR_2
+rt2x00dev,VAR_3

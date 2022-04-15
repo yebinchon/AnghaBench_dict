@@ -1,0 +1,16 @@
+ACTION_AUTOMOUNT,VAR_0
+ACTION_DEFAULT,VAR_1
+USEC_PER_SEC,VAR_2
+arg_action,VAR_3
+arg_bind_device,VAR_4
+arg_timeout_idle,VAR_5
+arg_timeout_idle_set,VAR_6
+log_debug,FUNC_0
+parse_boolean,FUNC_1
+sd_device_get_parent,FUNC_2
+sd_device_get_subsystem,FUNC_3
+sd_device_get_sysattr_value,FUNC_4
+streq,FUNC_5
+acquire_removable,FUNC_6
+d,VAR_7
+v,VAR_8

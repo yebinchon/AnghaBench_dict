@@ -1,0 +1,12 @@
+CLK_IS_CRITICAL,VAR_0
+CLK_SET_RATE_GATE,VAR_1
+WARN,FUNC_0
+clk_core_rate_unprotect,FUNC_1
+clk_pm_runtime_put,FUNC_2
+lockdep_assert_held,FUNC_3
+prepare_lock,VAR_2
+stub1,FUNC_4
+trace_clk_unprepare,FUNC_5
+trace_clk_unprepare_complete,FUNC_6
+clk_core_unprepare,FUNC_7
+core,VAR_3

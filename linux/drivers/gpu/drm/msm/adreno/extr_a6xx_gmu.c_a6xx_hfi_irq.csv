@@ -1,0 +1,13 @@
+A6XX_GMU_GMU2HOST_INTR_INFO_CM3_FAULT,VAR_0
+IRQ_HANDLED,VAR_1
+REG_A6XX_GMU_GMU2HOST_INTR_CLR,VAR_2
+REG_A6XX_GMU_GMU2HOST_INTR_INFO,VAR_3
+a6xx_gmu_fault,FUNC_0
+dev_err_ratelimited,FUNC_1
+gmu_read,FUNC_2
+gmu_write,FUNC_3
+a6xx_hfi_irq,FUNC_4
+irq,VAR_4
+data,VAR_5
+gmu,VAR_6
+status,VAR_7

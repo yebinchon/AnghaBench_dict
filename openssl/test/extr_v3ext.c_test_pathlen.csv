@@ -1,0 +1,13 @@
+BIO_free,FUNC_0
+BIO_new_file,FUNC_1
+PEM_read_bio_X509,FUNC_2
+TEST_int_eq,FUNC_3
+TEST_ptr,FUNC_4
+X509_free,FUNC_5
+X509_get_pathlen,FUNC_6
+infile,VAR_0
+test_pathlen,FUNC_7
+x,VAR_1
+b,VAR_2
+pathlen,VAR_3
+ret,VAR_4

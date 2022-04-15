@@ -1,0 +1,13 @@
+DEFINE_WAIT_BIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+XFS_INEW,VAR_1
+__XFS_INEW_BIT,VAR_2
+bit_waitqueue,FUNC_1
+finish_wait,FUNC_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+wait,VAR_3
+xfs_iflags_test,FUNC_5
+xfs_inew_wait,FUNC_6
+ip,VAR_4
+wq,VAR_5

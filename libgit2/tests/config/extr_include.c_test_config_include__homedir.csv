@@ -1,0 +1,15 @@
+GIT_CONFIG_LEVEL_GLOBAL,VAR_0
+GIT_OPT_SET_SEARCH_PATH,VAR_1
+buf,VAR_2
+cfg,VAR_3
+cl_assert_equal_s,FUNC_0
+cl_fixture,FUNC_1
+cl_git_mkfile,FUNC_2
+cl_git_pass,FUNC_3
+cl_sandbox_set_search_path_defaults,FUNC_4
+git_buf_cstr,FUNC_5
+git_config_get_string_buf,FUNC_6
+git_config_open_ondisk,FUNC_7
+git_libgit2_opts,FUNC_8
+p_unlink,FUNC_9
+test_config_include__homedir,FUNC_10

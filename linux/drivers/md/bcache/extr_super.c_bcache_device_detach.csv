@@ -1,0 +1,16 @@
+BCACHE_DEV_DETACHING,VAR_0
+SET_UUID_FLASH_ONLY,FUNC_0
+atomic_dec,FUNC_1
+bcache_device_unlink,FUNC_2
+bch_register_lock,VAR_1
+bch_uuid_write,FUNC_3
+closure_put,FUNC_4
+cpu_to_le32,FUNC_5
+invalid_uuid,VAR_2
+ktime_get_real_seconds,FUNC_6
+lockdep_assert_held,FUNC_7
+memcpy,FUNC_8
+test_bit,FUNC_9
+bcache_device_detach,FUNC_10
+d,VAR_3
+u,VAR_4

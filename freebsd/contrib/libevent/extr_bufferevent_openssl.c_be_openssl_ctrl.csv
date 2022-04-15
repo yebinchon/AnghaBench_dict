@@ -1,0 +1,13 @@
+BIO_new_bufferevent,FUNC_0
+BIO_new_socket,FUNC_1
+SSL_set_bio,FUNC_2
+be_openssl_set_fd,FUNC_3
+event_get_fd,FUNC_4
+upcast,FUNC_5
+be_openssl_ctrl,FUNC_6
+bev,VAR_0
+op,VAR_1
+data,VAR_2
+bev_ssl,VAR_3
+bio,VAR_4
+bio,VAR_5

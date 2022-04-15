@@ -1,0 +1,16 @@
+ZFCP_SET,VAR_0
+ZFCP_STATUS_ADAPTER_SUSPENDED,VAR_1
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_2
+ZFCP_STATUS_COMMON_RUNNING,VAR_3
+atomic_read,FUNC_0
+dev_get_drvdata,FUNC_1
+dev_info,FUNC_2
+dev_warn,FUNC_3
+zfcp_dbf_hba_base,FUNC_4
+zfcp_erp_adapter_reopen,FUNC_5
+zfcp_erp_adapter_shutdown,FUNC_6
+zfcp_erp_modify_adapter_status,FUNC_7
+zfcp_ccw_notify,FUNC_8
+ccw_device,VAR_4
+event,VAR_5
+adapter,VAR_6

@@ -1,0 +1,16 @@
+SPRD_RTC_ALARM,VAR_0
+SPRD_RTC_ALARM_EN,VAR_1
+SPRD_RTC_INT_EN,VAR_2
+SPRD_RTC_INT_RAW_STS,VAR_3
+dev_get_drvdata,FUNC_0
+regmap_read,FUNC_1
+rtc_time64_to_tm,FUNC_2
+sprd_rtc_get_secs,FUNC_3
+sprd_rtc_read_aux_alarm,FUNC_4
+sprd_rtc_read_alarm,FUNC_5
+dev,VAR_4
+alrm,VAR_5
+rtc,VAR_6
+secs,VAR_7
+ret,VAR_8
+val,VAR_9

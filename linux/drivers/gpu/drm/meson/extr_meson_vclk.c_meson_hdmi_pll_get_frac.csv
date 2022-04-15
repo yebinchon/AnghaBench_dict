@@ -1,0 +1,17 @@
+HDMI_FRAC_MAX_G12A,VAR_0
+HDMI_FRAC_MAX_GXBB,VAR_1
+HDMI_FRAC_MAX_GXL,VAR_2
+VPU_COMPATIBLE_G12A,VAR_3
+VPU_COMPATIBLE_GXBB,VAR_4
+XTAL_FREQ,VAR_5
+div_u64,FUNC_0
+meson_vpu_is_compatible,FUNC_1
+min,FUNC_2
+meson_hdmi_pll_get_frac,FUNC_3
+priv,VAR_6
+m,VAR_7
+pll_freq,VAR_8
+parent_freq,VAR_9
+frac_max,VAR_10
+frac_m,VAR_11
+frac,VAR_12

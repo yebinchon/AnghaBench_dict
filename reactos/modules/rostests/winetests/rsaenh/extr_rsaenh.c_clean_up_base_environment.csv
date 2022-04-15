@@ -1,0 +1,15 @@
+CRYPT_DELETEKEYSET,VAR_0
+CryptAcquireContextA,FUNC_0
+CryptReleaseContext,FUNC_1
+ERROR_INVALID_PARAMETER,VAR_1
+GetLastError,FUNC_2
+NTE_BAD_FLAGS,VAR_2
+PROV_RSA_FULL,VAR_3
+SetLastError,FUNC_3
+broken,FUNC_4
+hProv,VAR_4
+ok,FUNC_5
+szContainer,VAR_5
+szProvider,VAR_6
+clean_up_base_environment,FUNC_6
+result,VAR_7

@@ -1,0 +1,16 @@
+JBD2_FEATURE_INCOMPAT_64BIT,VAR_0
+JBD2_HAS_INCOMPAT_FEATURE,FUNC_0
+be32_to_cpu,FUNC_1
+be64_to_cpu,FUNC_2
+jbd2_journal_set_revoke,FUNC_3
+scan_revoke_records,FUNC_4
+journal,VAR_1
+bh,VAR_2
+sequence,VAR_3
+info,VAR_4
+header,VAR_5
+offset,VAR_6
+max,VAR_7
+record_len,VAR_8
+blocknr,VAR_9
+err,VAR_10

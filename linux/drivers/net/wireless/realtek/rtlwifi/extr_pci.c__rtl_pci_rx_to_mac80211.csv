@@ -1,0 +1,14 @@
+IEEE80211_SKB_RXCB,FUNC_0
+dev_alloc_skb,FUNC_1
+dev_kfree_skb_any,FUNC_2
+ieee80211_rx_irqsafe,FUNC_3
+likely,FUNC_4
+memcpy,FUNC_5
+rtl_action_proc,FUNC_6
+skb_put_data,FUNC_7
+unlikely,FUNC_8
+_rtl_pci_rx_to_mac80211,FUNC_9
+hw,VAR_0
+skb,VAR_1
+rx_status,VAR_2
+uskb,VAR_3

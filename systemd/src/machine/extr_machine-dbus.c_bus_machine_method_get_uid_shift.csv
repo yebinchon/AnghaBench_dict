@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+MACHINE_CONTAINER,VAR_1
+MACHINE_HOST,VAR_2
+SD_BUS_ERROR_NOT_SUPPORTED,VAR_3
+UINT32_C,FUNC_0
+assert,FUNC_1
+machine_get_uid_shift,FUNC_2
+sd_bus_error_setf,FUNC_3
+sd_bus_reply_method_return,FUNC_4
+bus_machine_method_get_uid_shift,FUNC_5
+message,VAR_4
+userdata,VAR_5
+error,VAR_6
+m,VAR_7
+shift,VAR_8
+r,VAR_9

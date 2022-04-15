@@ -1,0 +1,12 @@
+ALS_ESP_RD_DATA,VAR_0
+ALS_ESP_RD_STATUS8,VAR_1
+ALS_ESP_RST,VAR_2
+DELAY,FUNC_0
+bus_space_read_1,FUNC_1
+bus_space_write_1,FUNC_2
+device_printf,FUNC_3
+als_esp_reset,FUNC_4
+sc,VAR_3
+tries,VAR_4
+u,VAR_5
+v,VAR_6

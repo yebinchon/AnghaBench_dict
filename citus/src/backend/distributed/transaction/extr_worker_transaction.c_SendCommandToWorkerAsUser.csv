@@ -1,0 +1,13 @@
+BeginOrContinueCoordinatedTransaction,FUNC_0
+CoordinatedTransactionUse2PC,FUNC_1
+ExecuteCriticalRemoteCommand,FUNC_2
+GetNodeUserDatabaseConnection,FUNC_3
+MarkRemoteTransactionCritical,FUNC_4
+RemoteTransactionBeginIfNecessary,FUNC_5
+SendCommandToWorkerAsUser,FUNC_6
+nodeName,VAR_0
+nodePort,VAR_1
+nodeUser,VAR_2
+command,VAR_3
+transactionConnection,VAR_4
+connectionFlags,VAR_5

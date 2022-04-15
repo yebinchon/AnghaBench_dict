@@ -1,0 +1,15 @@
+CHECK_PERROR_RET,FUNC_0
+O_RDONLY,VAR_0
+PMU_RETPROBE_FILE,VAR_1
+close,FUNC_1
+errno,VAR_2
+open,FUNC_2
+read,FUNC_3
+snprintf,FUNC_4
+strlen,FUNC_5
+strtol,FUNC_6
+bpf_get_retprobe_bit,FUNC_7
+event_type,VAR_3
+buf,VAR_4
+fd,VAR_5
+ret,VAR_6

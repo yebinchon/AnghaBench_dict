@@ -1,0 +1,14 @@
+PKT_FIELD,FUNC_0
+memcpy,FUNC_1
+peer_waiting_read,VAR_0
+peer_waiting_read_info,VAR_1
+vmci_transport_notify_waiting_read,FUNC_2
+vmci_transport_send_wrote,FUNC_3
+vmci_transport_send_wrote_bh,FUNC_4
+vsock_sk,FUNC_5
+vmci_transport_handle_waiting_read,FUNC_6
+sk,VAR_2
+pkt,VAR_3
+bottom_half,VAR_4
+dst,VAR_5
+src,VAR_6

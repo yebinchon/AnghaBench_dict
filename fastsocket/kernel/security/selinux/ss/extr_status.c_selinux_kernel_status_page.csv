@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+SELINUX_KERNEL_STATUS_VERSION,VAR_1
+__GFP_ZERO,VAR_2
+alloc_page,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+page_address,FUNC_3
+security_get_allow_unknown,FUNC_4
+selinux_enforcing,VAR_3
+selinux_status_lock,VAR_4
+selinux_status_page,VAR_5
+selinux_kernel_status_page,FUNC_5
+status,VAR_6
+result,VAR_7

@@ -1,0 +1,15 @@
+CEPH_ENCODING_START_BLK_LEN,VAR_0
+ceph_encode_32,FUNC_0
+ceph_osdc_notify_ack,FUNC_1
+ceph_start_encoding,FUNC_2
+rbd_warn,FUNC_3
+__rbd_acknowledge_notify,FUNC_4
+rbd_dev,VAR_1
+notify_id,VAR_2
+cookie,VAR_3
+result,VAR_4
+osdc,VAR_5
+buf,VAR_6
+buf_size,VAR_7
+ret,VAR_8
+p,VAR_9

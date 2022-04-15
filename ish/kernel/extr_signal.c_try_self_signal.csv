@@ -1,0 +1,15 @@
+SIGINFO_NIL,VAR_0
+SIGNAL_IGNORE,VAR_1
+SIGTTIN_,VAR_2
+SIGTTOU_,VAR_3
+assert,FUNC_0
+current,VAR_4
+deliver_signal_unlocked,FUNC_1
+lock,FUNC_2
+signal_action,FUNC_3
+sigset_has,FUNC_4
+unlock,FUNC_5
+try_self_signal,FUNC_6
+sig,VAR_5
+sighand,VAR_6
+can_send,VAR_7

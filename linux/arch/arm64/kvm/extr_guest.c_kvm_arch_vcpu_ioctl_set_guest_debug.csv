@@ -1,0 +1,9 @@
+EINVAL,VAR_0
+KVM_GUESTDBG_ENABLE,VAR_1
+KVM_GUESTDBG_USE_HW,VAR_2
+KVM_GUESTDBG_VALID_MASK,VAR_3
+trace_kvm_set_guest_debug,FUNC_0
+kvm_arch_vcpu_ioctl_set_guest_debug,FUNC_1
+vcpu,VAR_4
+dbg,VAR_5
+ret,VAR_6

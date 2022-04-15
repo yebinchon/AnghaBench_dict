@@ -1,0 +1,15 @@
+RT5677_DIG_MISC,VAR_0
+RT5677_TDM1_CTRL1,VAR_1
+RT5677_TDM2_CTRL1,VAR_2
+regmap_update_bits,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+rt5677_set_tdm_slot,FUNC_2
+dai,VAR_3
+tx_mask,VAR_4
+rx_mask,VAR_5
+slots,VAR_6
+slot_width,VAR_7
+component,VAR_8
+rt5677,VAR_9
+val,VAR_10
+slot_width_25,VAR_11

@@ -1,0 +1,15 @@
+PCI_VPD_ADDR,VAR_0
+PCI_VPD_DATA,VAR_1
+memcpy,FUNC_0
+min,FUNC_1
+sky2_pci_read32,FUNC_2
+sky2_pci_write16,FUNC_3
+sky2_vpd_wait,FUNC_4
+sky2_vpd_read,FUNC_5
+hw,VAR_2
+cap,VAR_3
+data,VAR_4
+offset,VAR_5
+length,VAR_6
+rc,VAR_7
+val,VAR_8

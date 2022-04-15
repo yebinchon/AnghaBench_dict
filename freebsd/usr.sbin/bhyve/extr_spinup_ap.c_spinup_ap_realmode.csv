@@ -1,0 +1,17 @@
+PAGE_SHIFT,VAR_0
+VM_REG_GUEST_CS,VAR_1
+VM_REG_GUEST_RIP,VAR_2
+assert,FUNC_0
+vm_get_desc,FUNC_1
+vm_set_desc,FUNC_2
+vm_set_register,FUNC_3
+spinup_ap_realmode,FUNC_4
+ctx,VAR_3
+newcpu,VAR_4
+rip,VAR_5
+vector,VAR_6
+error,VAR_7
+cs,VAR_8
+desc_base,VAR_9
+desc_limit,VAR_10
+desc_access,VAR_11

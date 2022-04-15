@@ -1,0 +1,11 @@
+LOCKDEP_NOW_UNRELIABLE,VAR_0
+TAINT_BAD_PAGE,VAR_1
+add_taint,FUNC_0
+kasan_enable_current,FUNC_1
+panic,FUNC_2
+panic_on_warn,VAR_2
+pr_err,FUNC_3
+report_lock,VAR_3
+spin_unlock_irqrestore,FUNC_4
+end_report,FUNC_5
+flags,VAR_4

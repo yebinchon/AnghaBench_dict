@@ -1,0 +1,14 @@
+GIT_EAMBIGUOUS,VAR_0
+GIT_OPT_ENABLE_STRICT_HASH_VERIFICATION,VAR_1
+_obj,VAR_2
+_odb,VAR_3
+_oid,VAR_4
+assert_object_contains,FUNC_0
+cl_git_fail_with,FUNC_1
+cl_git_pass,FUNC_2
+git_libgit2_opts,FUNC_3
+git_odb_read_prefix,FUNC_4
+git_oid_fromstr,FUNC_5
+setup_backend,FUNC_6
+test_odb_backend_simple__read_with_highly_ambiguous_prefix,FUNC_7
+objs,VAR_5

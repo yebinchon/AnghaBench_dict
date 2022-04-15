@@ -1,0 +1,15 @@
+EMULATED_MTMSRWE_EXITS,VAR_0
+KVM_REQ_UNHALT,VAR_1
+MSR_WE,VAR_2
+WARN_ON_ONCE,FUNC_0
+hard_irq_disable,FUNC_1
+irqs_disabled,FUNC_2
+kvm_clear_request,FUNC_3
+kvm_request_pending,FUNC_4
+kvm_vcpu_block,FUNC_5
+kvmppc_core_check_exceptions,FUNC_6
+kvmppc_set_exit_type,FUNC_7
+local_irq_enable,FUNC_8
+kvmppc_core_prepare_to_enter,FUNC_9
+vcpu,VAR_3
+r,VAR_4

@@ -1,0 +1,12 @@
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+intr_map_clone_irq,FUNC_2
+pci_get_function,FUNC_3
+pci_get_slot,FUNC_4
+rman_get_start,FUNC_5
+tegra_pcib_route_interrupt,FUNC_6
+bus,VAR_0
+dev,VAR_1
+pin,VAR_2
+sc,VAR_3
+irq,VAR_4

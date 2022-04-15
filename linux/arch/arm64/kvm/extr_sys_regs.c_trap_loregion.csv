@@ -1,0 +1,14 @@
+ID_AA64MMFR1_LOR_SHIFT,VAR_0
+SYS_ID_AA64MMFR1_EL1,VAR_1
+SYS_LORID_EL1,VAR_2
+kvm_inject_undefined,FUNC_0
+read_sanitised_ftr_reg,FUNC_1
+sys_reg,FUNC_2
+trap_raz_wi,FUNC_3
+write_to_read_only,FUNC_4
+trap_loregion,FUNC_5
+vcpu,VAR_3
+p,VAR_4
+r,VAR_5
+val,VAR_6
+sr,VAR_7

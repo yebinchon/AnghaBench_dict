@@ -1,0 +1,12 @@
+CMD_INV_IOMMU_ALL_PAGES_ADDRESS,VAR_0
+__iommu_build_inv_iommu_pages,FUNC_0
+__iommu_completion_wait,FUNC_1
+__iommu_queue_command,FUNC_2
+__iommu_wait_for_completion,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+flush_domain_on_iommu,FUNC_6
+iommu,VAR_1
+domid,VAR_2
+cmd,VAR_3
+flags,VAR_4

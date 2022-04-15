@@ -1,0 +1,13 @@
+ATMEL_US_TXRDY,VAR_0
+UART_GET_CSR,FUNC_0
+UART_PUT_CHAR,FUNC_1
+UART_PUT_IER,FUNC_2
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_tx_stopped,FUNC_5
+uart_write_wakeup,FUNC_6
+atmel_tx_chars,FUNC_7
+port,VAR_3
+xmit,VAR_4

@@ -1,0 +1,13 @@
+FTGMAC100_MACCR_RM_VLAN,VAR_0
+FTGMAC100_OFFSET_MACCR,VAR_1
+NETIF_F_HW_VLAN_CTAG_RX,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+netdev_priv,FUNC_2
+netif_running,FUNC_3
+ftgmac100_set_features,FUNC_4
+netdev,VAR_3
+features,VAR_4
+priv,VAR_5
+changed,VAR_6
+maccr,VAR_7

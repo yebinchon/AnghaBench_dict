@@ -1,0 +1,10 @@
+apic_disable_vector,FUNC_0
+apic_free_vector,FUNC_1
+icu_lock,VAR_0
+ioapic_program_intpin,FUNC_2
+mtx_lock_spin,FUNC_3
+mtx_unlock_spin,FUNC_4
+ioapic_disable_intr,FUNC_5
+isrc,VAR_1
+intpin,VAR_2
+vector,VAR_3

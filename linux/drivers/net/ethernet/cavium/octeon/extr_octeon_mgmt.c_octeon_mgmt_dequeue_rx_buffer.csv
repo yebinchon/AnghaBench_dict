@@ -1,0 +1,13 @@
+DMA_BIDIRECTIONAL,VAR_0
+DMA_FROM_DEVICE,VAR_1
+ETH_FRAME_LEN,VAR_2
+OCTEON_MGMT_RX_HEADROOM,VAR_3
+OCTEON_MGMT_RX_RING_SIZE,VAR_4
+__skb_dequeue,FUNC_0
+dma_sync_single_for_cpu,FUNC_1
+dma_unmap_single,FUNC_2
+ring_size_to_bytes,FUNC_3
+octeon_mgmt_dequeue_rx_buffer,FUNC_4
+p,VAR_5
+pskb,VAR_6
+re,VAR_7

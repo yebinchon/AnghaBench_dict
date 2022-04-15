@@ -1,0 +1,10 @@
+Assert,FUNC_0
+BufferDescriptorGetContentLock,FUNC_1
+BufferIsLocal,FUNC_2
+BufferIsValid,FUNC_3
+GetBufferDescriptor,FUNC_4
+LWLockConditionalAcquire,FUNC_5
+LW_EXCLUSIVE,VAR_0
+ConditionalLockBuffer,FUNC_6
+buffer,VAR_1
+buf,VAR_2

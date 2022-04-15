@@ -1,0 +1,16 @@
+OMAP2_MCSPI_CHCONF_FORCE,VAR_0
+SPI_CS_HIGH,VAR_1
+dev_err,FUNC_0
+mcspi_cached_chconf0,FUNC_1
+mcspi_write_chconf0,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_mark_last_busy,FUNC_4
+pm_runtime_put_autosuspend,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+spi_master_get_devdata,FUNC_7
+omap2_mcspi_set_cs,FUNC_8
+spi,VAR_2
+enable,VAR_3
+mcspi,VAR_4
+l,VAR_5
+err,VAR_6

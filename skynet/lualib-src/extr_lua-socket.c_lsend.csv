@@ -1,0 +1,12 @@
+get_buffer,FUNC_0
+luaL_checkinteger,FUNC_1
+lua_pushboolean,FUNC_2
+lua_touserdata,FUNC_3
+lua_upvalueindex,FUNC_4
+skynet_socket_sendbuffer,FUNC_5
+lsend,FUNC_6
+L,VAR_0
+ctx,VAR_1
+id,VAR_2
+buf,VAR_3
+err,VAR_4

@@ -1,0 +1,14 @@
+ETH_FLAG_LRO,VAR_0
+NETIF_F_LRO,VAR_1
+UPT1_F_LRO,VAR_2
+VMXNET3_CMD_UPDATE_FEATURE,VAR_3
+VMXNET3_REG_CMD,VAR_4
+VMXNET3_WRITE_BAR1_REG,FUNC_0
+cpu_to_le64,FUNC_1
+netdev_priv,FUNC_2
+vmxnet3_set_flags,FUNC_3
+netdev,VAR_5
+data,VAR_6
+adapter,VAR_7
+lro_requested,VAR_8
+lro_present,VAR_9

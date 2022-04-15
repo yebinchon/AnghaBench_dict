@@ -1,0 +1,14 @@
+HCLGE_MBX_ASSERTING_RESET,VAR_0
+HNAE3_FLR_RESET,VAR_1
+HNAE3_FUNC_RESET,VAR_2
+HNAE3_VF_FULL_RESET,VAR_3
+HNAE3_VF_FUNC_RESET,VAR_4
+HNAE3_VF_PF_FUNC_RESET,VAR_5
+hclge_send_mbx_msg,FUNC_0
+memcpy,FUNC_1
+hclge_inform_reset_assert_to_vf,FUNC_2
+vport,VAR_6
+hdev,VAR_7
+reset_type,VAR_8
+msg_data,VAR_9
+dest_vfid,VAR_10

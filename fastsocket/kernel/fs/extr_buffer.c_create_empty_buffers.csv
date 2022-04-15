@@ -1,0 +1,15 @@
+PageDirty,FUNC_0
+PageUptodate,FUNC_1
+alloc_page_buffers,FUNC_2
+attach_page_buffers,FUNC_3
+set_buffer_dirty,FUNC_4
+set_buffer_uptodate,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+create_empty_buffers,FUNC_8
+page,VAR_0
+blocksize,VAR_1
+b_state,VAR_2
+bh,VAR_3
+head,VAR_4
+tail,VAR_5

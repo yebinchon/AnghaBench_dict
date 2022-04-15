@@ -1,0 +1,13 @@
+CGU_LOCK,FUNC_0
+CGU_UNLOCK,FUNC_1
+CSR_READ_4,FUNC_2
+CSR_WRITE_4,FUNC_3
+JZ_OPCR,VAR_0
+OPCR_SPENDN1,VAR_1
+devclass_get_device,FUNC_4
+device_get_softc,FUNC_5
+jz4780_clock_devclass,VAR_2
+jz4780_ohci_enable,FUNC_6
+dev,VAR_3
+sc,VAR_4
+reg,VAR_5

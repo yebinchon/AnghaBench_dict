@@ -1,0 +1,13 @@
+BNAD_RF_STATS_TIMER_RUNNING,VAR_0
+bna_hw_stats_get,FUNC_0
+bnad,VAR_1
+from_timer,FUNC_1
+netif_running,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stats_timer,VAR_2
+test_bit,FUNC_5
+bnad_stats_timeout,FUNC_6
+t,VAR_3
+bnad,VAR_4
+flags,VAR_5

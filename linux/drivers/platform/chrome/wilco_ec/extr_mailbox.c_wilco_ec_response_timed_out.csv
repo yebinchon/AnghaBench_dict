@@ -1,0 +1,10 @@
+EC_CMDR_BUSY,VAR_0
+EC_CMDR_PENDING,VAR_1
+EC_MAILBOX_TIMEOUT,VAR_2
+inb,FUNC_0
+jiffies,VAR_3
+time_before,FUNC_1
+usleep_range,FUNC_2
+wilco_ec_response_timed_out,FUNC_3
+ec,VAR_4
+timeout,VAR_5

@@ -1,0 +1,14 @@
+PROC_CMDLINE_STRIP_RD_PREFIX,VAR_0
+get_ctty_devnr,FUNC_0
+getenv,FUNC_1
+getpid_cached,FUNC_2
+log_set_max_level_from_string_realm,FUNC_3
+log_set_target_from_string,FUNC_4
+log_show_color_from_string,FUNC_5
+log_show_location_from_string,FUNC_6
+log_warning,FUNC_7
+parse_proc_cmdline_item,VAR_1
+proc_cmdline_parse,FUNC_8
+log_parse_environment_realm,FUNC_9
+realm,VAR_2
+e,VAR_3

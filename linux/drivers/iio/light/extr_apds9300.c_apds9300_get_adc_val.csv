@@ -1,0 +1,12 @@
+APDS9300_CMD,VAR_0
+APDS9300_DATA0LOW,VAR_1
+APDS9300_DATA1LOW,VAR_2
+APDS9300_WORD,VAR_3
+EBUSY,VAR_4
+dev_err,FUNC_0
+i2c_smbus_read_word_data,FUNC_1
+apds9300_get_adc_val,FUNC_2
+data,VAR_5
+adc_number,VAR_6
+ret,VAR_7
+flags,VAR_8

@@ -1,0 +1,7 @@
+TCU_REG_WDT_TCER,VAR_0
+jz4740_timer_disable_watchdog,FUNC_0
+watchdog_get_drvdata,FUNC_1
+writeb,FUNC_2
+jz4740_wdt_stop,FUNC_3
+wdt_dev,VAR_1
+drvdata,VAR_2

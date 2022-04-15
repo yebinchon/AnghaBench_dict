@@ -1,0 +1,16 @@
+SUNXI_MUSB_FL_HAS_RESET,VAR_0
+SUNXI_MUSB_FL_HAS_SRAM,VAR_1
+SUNXI_MUSB_FL_PHY_ON,VAR_2
+cancel_work_sync,FUNC_0
+clk_disable_unprepare,FUNC_1
+dev_get_drvdata,FUNC_2
+devm_usb_put_phy,FUNC_3
+phy_exit,FUNC_4
+phy_power_off,FUNC_5
+pm_runtime_put,FUNC_6
+reset_control_assert,FUNC_7
+sunxi_sram_release,FUNC_8
+test_bit,FUNC_9
+sunxi_musb_exit,FUNC_10
+musb,VAR_3
+glue,VAR_4

@@ -1,0 +1,14 @@
+FTGMAC100_INT_ALL,VAR_0
+FTGMAC100_OFFSET_IER,VAR_1
+ftgmac100_alloc_rx_buffers,FUNC_0
+ftgmac100_config_pause,FUNC_1
+ftgmac100_init_hw,FUNC_2
+ftgmac100_init_rings,FUNC_3
+ftgmac100_start_hw,FUNC_4
+iowrite32,FUNC_5
+napi_enable,FUNC_6
+netif_start_queue,FUNC_7
+ftgmac100_init_all,FUNC_8
+priv,VAR_2
+ignore_alloc_err,VAR_3
+err,VAR_4

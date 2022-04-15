@@ -1,0 +1,17 @@
+SIGINT,VAR_0
+SIGQUIT,VAR_1
+SIGTERM,VAR_2
+SIG_BLOCK,VAR_3
+SIG_UNBLOCK,VAR_4
+handle_sig,VAR_5
+pthread_create,FUNC_0
+pthread_sigmask,FUNC_1
+sigaddset,FUNC_2
+sigemptyset,FUNC_3
+signal,FUNC_4
+sigset,FUNC_5
+worker_thread,VAR_6
+start_threads,FUNC_6
+wq,VAR_7
+sets,VAR_8
+i,VAR_9

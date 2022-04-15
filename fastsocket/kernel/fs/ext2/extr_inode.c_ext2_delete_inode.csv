@@ -1,0 +1,14 @@
+EXT2_I,FUNC_0
+__ext2_write_inode,FUNC_1
+clear_inode,FUNC_2
+ext2_free_inode,FUNC_3
+ext2_truncate,FUNC_4
+get_seconds,FUNC_5
+inode_needs_sync,FUNC_6
+is_bad_inode,FUNC_7
+mark_inode_dirty,FUNC_8
+sb_end_intwrite,FUNC_9
+sb_start_intwrite,FUNC_10
+truncate_inode_pages,FUNC_11
+ext2_delete_inode,FUNC_12
+inode,VAR_0

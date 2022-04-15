@@ -1,0 +1,13 @@
+OFFSETA,FUNC_0
+S5P_FIMV_SI_CH0_CPB_SIZE,VAR_0
+S5P_FIMV_SI_CH0_SB_FRM_SIZE,VAR_1
+S5P_FIMV_SI_CH0_SB_ST_ADR,VAR_2
+START_BYTE_NUM,VAR_3
+mfc_write,FUNC_1
+s5p_mfc_write_info_v5,FUNC_2
+s5p_mfc_set_dec_stream_buffer_v5,FUNC_3
+ctx,VAR_4
+buf_addr,VAR_5
+start_num_byte,VAR_6
+buf_size,VAR_7
+dev,VAR_8

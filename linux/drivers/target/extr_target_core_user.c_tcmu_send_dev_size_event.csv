@@ -1,0 +1,13 @@
+TCMU_ATTR_DEV_SIZE,VAR_0
+TCMU_ATTR_PAD,VAR_1
+TCMU_CMD_RECONFIG_DEVICE,VAR_2
+nla_put_u64_64bit,FUNC_0
+nlmsg_free,FUNC_1
+tcmu_netlink_event_init,FUNC_2
+tcmu_netlink_event_send,FUNC_3
+tcmu_send_dev_size_event,FUNC_4
+udev,VAR_3
+size,VAR_4
+skb,VAR_5
+msg_header,VAR_6
+ret,VAR_7

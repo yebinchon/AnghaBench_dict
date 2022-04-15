@@ -1,0 +1,17 @@
+FASTTRAP_CLEANUP_TRACEPOINT,VAR_0
+KM_SLEEP,VAR_1
+fasttrap_cur_retired,VAR_2
+fasttrap_pid_cleanup,FUNC_0
+fasttrap_retired_mtx,VAR_3
+fasttrap_retired_size,VAR_4
+fasttrap_retired_spec,VAR_5
+kmem_free,FUNC_1
+kmem_zalloc,FUNC_2
+lck_mtx_lock,FUNC_3
+lck_mtx_unlock,FUNC_4
+memcpy,FUNC_5
+fasttrap_tracepoint_retire,FUNC_6
+p,VAR_6
+tp,VAR_7
+s,VAR_8
+new_retired,VAR_9

@@ -1,0 +1,9 @@
+PNX833X_PIC_IRQ_BASE,VAR_0
+pnx833x_hard_disable_pic_irq,FUNC_0
+pnx833x_irq_lock,VAR_1
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+pnx833x_disable_pic_irq,FUNC_3
+d,VAR_2
+flags,VAR_3
+pic_irq,VAR_4

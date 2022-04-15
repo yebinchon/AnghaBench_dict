@@ -1,0 +1,9 @@
+DNSSEC_CANONICAL_HOSTNAME_MAX,VAR_0
+assert_se,FUNC_0
+dnssec_canonicalize,FUNC_1
+streq,FUNC_2
+test_dnssec_canonicalize_one,FUNC_3
+original,VAR_1
+canonical,VAR_2
+r,VAR_3
+canonicalized,VAR_4

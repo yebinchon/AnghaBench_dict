@@ -1,0 +1,16 @@
+USBH_ClrFeature,FUNC_0
+USBH_HID_EventCallback,FUNC_1
+USBH_HID_GetReport,FUNC_2
+USBH_InterruptReceiveData,FUNC_3
+USBH_LL_GetURBState,FUNC_4
+USBH_OK,VAR_0
+USBH_URB_DONE,VAR_1
+USBH_URB_EVENT,VAR_2
+USBH_URB_STALL,VAR_3
+fifo_write,FUNC_5
+osMessagePut,FUNC_6
+stub1,FUNC_7
+USBH_HID_Process,FUNC_8
+phost,VAR_4
+status,VAR_5
+HID_Handle,VAR_6

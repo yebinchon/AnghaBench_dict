@@ -1,0 +1,13 @@
+TSL2563_CMD,VAR_0
+TSL2563_REG_INT,VAR_1
+cancel_delayed_work,FUNC_0
+flush_scheduled_work,FUNC_1
+i2c_get_clientdata,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+iio_device_unregister,FUNC_4
+iio_priv_to_dev,FUNC_5
+tsl2563_set_power,FUNC_6
+tsl2563_remove,FUNC_7
+client,VAR_2
+chip,VAR_3
+indio_dev,VAR_4

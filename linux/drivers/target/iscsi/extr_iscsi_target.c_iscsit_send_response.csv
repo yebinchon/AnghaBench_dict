@@ -1,0 +1,17 @@
+ISTATE_SEND_STATUS,VAR_0
+SCF_EMULATED_TASK_SENSE,VAR_1
+SCF_TRANSPORT_TASK_SENSE,VAR_2
+hton24,FUNC_0
+iscsit_build_rsp_pdu,FUNC_1
+memset,FUNC_2
+pr_debug,FUNC_3
+put_unaligned_be16,FUNC_4
+stub1,FUNC_5
+iscsit_send_response,FUNC_6
+cmd,VAR_3
+conn,VAR_4
+hdr,VAR_5
+inc_stat_sn,VAR_6
+data_buf,VAR_7
+padding,VAR_8
+data_buf_len,VAR_9

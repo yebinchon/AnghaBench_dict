@@ -1,0 +1,15 @@
+EIO,VAR_0
+IOC_STATUS_SUCCESS,FUNC_0
+MPI_IOCSTATUS_SUCCESS,VAR_1
+MPTIO_WRITE_CFG_PAGE,VAR_2
+bzero,FUNC_1
+errno,VAR_3
+ioctl,FUNC_2
+mpt_ioc_status,FUNC_3
+warnx,FUNC_4
+mpt_write_config_page,FUNC_5
+fd,VAR_4
+buf,VAR_5
+IOCStatus,VAR_6
+hdr,VAR_7
+req,VAR_8

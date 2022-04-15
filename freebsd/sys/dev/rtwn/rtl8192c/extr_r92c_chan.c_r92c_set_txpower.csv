@@ -1,0 +1,13 @@
+RTWN_DEBUG_TXPWR,VAR_0
+RTWN_RIDX_CCK1,VAR_1
+RTWN_RIDX_COUNT,VAR_2
+RTWN_RIDX_HT_MCS,FUNC_0
+memset,FUNC_1
+printf,FUNC_2
+r92c_write_txpower,FUNC_3
+rtwn_r92c_get_txpower,FUNC_4
+r92c_set_txpower,FUNC_5
+sc,VAR_3
+c,VAR_4
+power,VAR_5
+i,VAR_6

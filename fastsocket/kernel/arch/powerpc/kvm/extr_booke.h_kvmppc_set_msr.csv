@@ -1,0 +1,9 @@
+EMULATED_MTMSRWE_EXITS,VAR_0
+MSR_PR,VAR_1
+MSR_WE,VAR_2
+kvm_vcpu_block,FUNC_0
+kvmppc_mmu_priv_switch,FUNC_1
+kvmppc_set_exit_type,FUNC_2
+kvmppc_set_msr,FUNC_3
+vcpu,VAR_3
+new_msr,VAR_4

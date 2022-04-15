@@ -1,0 +1,10 @@
+ENTER,VAR_0
+IPR_RC_JOB_RETURN,VAR_1
+IPR_WAIT_FOR_BIST_TIMEOUT,VAR_2
+LEAVE,VAR_3
+ipr_reset_bist_done,VAR_4
+ipr_reset_start_timer,FUNC_0
+pci_set_pcie_reset_state,FUNC_1
+pcie_deassert_reset,VAR_5
+ipr_reset_slot_reset_done,FUNC_2
+ipr_cmd,VAR_6

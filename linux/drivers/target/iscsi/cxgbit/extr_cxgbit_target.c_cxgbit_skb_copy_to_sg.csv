@@ -1,0 +1,15 @@
+cxgbit_rx_pdu_cb,FUNC_0
+sg_pcopy_from_buffer,FUNC_1
+skb_abort_seq_read,FUNC_2
+skb_prepare_seq_read,FUNC_3
+skb_seq_read,FUNC_4
+cxgbit_skb_copy_to_sg,FUNC_5
+skb,VAR_0
+sg,VAR_1
+nents,VAR_2
+skip,VAR_3
+st,VAR_4
+buf,VAR_5
+consumed,VAR_6
+buf_len,VAR_7
+pdu_cb,VAR_8

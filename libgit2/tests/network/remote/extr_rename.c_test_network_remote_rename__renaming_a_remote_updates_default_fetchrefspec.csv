@@ -1,0 +1,9 @@
+_remote_name,VAR_0
+_repo,VAR_1
+assert_config_entry_value,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+git_remote_rename,FUNC_3
+git_strarray_free,FUNC_4
+test_network_remote_rename__renaming_a_remote_updates_default_fetchrefspec,FUNC_5
+problems,VAR_2

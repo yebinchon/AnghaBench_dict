@@ -1,0 +1,12 @@
+DRBD_NLA_CFG_REPLY,VAR_0
+EMSGSIZE,VAR_1
+T_info_text,VAR_2
+nla_nest_cancel,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start_noflag,FUNC_2
+nla_put_string,FUNC_3
+drbd_msg_put_info,FUNC_4
+skb,VAR_3
+info,VAR_4
+nla,VAR_5
+err,VAR_6

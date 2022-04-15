@@ -1,0 +1,11 @@
+PP_GFXOFF_MASK,VAR_0
+SMU_MSG_AllowGfxOff,VAR_1
+SMU_MSG_DisallowGfxOff,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+smu_send_smc_msg,FUNC_2
+smu_v11_0_gfx_off_control,FUNC_3
+smu,VAR_3
+enable,VAR_4
+ret,VAR_5
+adev,VAR_6

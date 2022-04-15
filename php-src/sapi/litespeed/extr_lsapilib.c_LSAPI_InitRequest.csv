@@ -1,0 +1,17 @@
+LSAPI_INIT_RESP_HEADER_LEN,VAR_0
+LSAPI_RESP_BUF_SIZE,VAR_1
+O_RDWR,VAR_2
+STDIN_FILENO,VAR_3
+allocateIovec,FUNC_0
+allocateRespHeaderBuf,FUNC_1
+dup,FUNC_2
+dup2,FUNC_3
+isPipe,FUNC_4
+lsapi_set_nblock,FUNC_5
+malloc,FUNC_6
+memset,FUNC_7
+open,FUNC_8
+LSAPI_InitRequest,FUNC_9
+pReq,VAR_4
+fd,VAR_5
+newfd,VAR_6

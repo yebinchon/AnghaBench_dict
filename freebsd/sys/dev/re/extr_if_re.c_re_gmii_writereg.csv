@@ -1,0 +1,17 @@
+CSR_READ_4,FUNC_0
+CSR_WRITE_4,FUNC_1
+DELAY,FUNC_2
+RL_PHYAR,VAR_0
+RL_PHYAR_BUSY,VAR_1
+RL_PHYAR_PHYDATA,VAR_2
+RL_PHY_TIMEOUT,VAR_3
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+re_gmii_writereg,FUNC_5
+dev,VAR_4
+phy,VAR_5
+reg,VAR_6
+data,VAR_7
+sc,VAR_8
+rval,VAR_9
+i,VAR_10

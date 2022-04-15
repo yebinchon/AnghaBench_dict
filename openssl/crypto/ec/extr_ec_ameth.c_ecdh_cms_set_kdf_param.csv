@@ -1,0 +1,16 @@
+EVP_PKEY_CTX_set_ecdh_cofactor_mode,FUNC_0
+EVP_PKEY_CTX_set_ecdh_kdf_md,FUNC_1
+EVP_PKEY_CTX_set_ecdh_kdf_type,FUNC_2
+EVP_PKEY_ECDH_KDF_X9_63,VAR_0
+EVP_get_digestbynid,FUNC_3
+NID_dh_cofactor_kdf,VAR_1
+NID_dh_std_kdf,VAR_2
+NID_undef,VAR_3
+OBJ_find_sigid_algs,FUNC_4
+ecdh_cms_set_kdf_param,FUNC_5
+pctx,VAR_4
+eckdf_nid,VAR_5
+kdf_nid,VAR_6
+kdfmd_nid,VAR_7
+cofactor,VAR_8
+kdf_md,VAR_9

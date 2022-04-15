@@ -1,0 +1,12 @@
+ClearPageUptodate,FUNC_0
+SetPageError,FUNC_1
+SetPageUptodate,FUNC_2
+end_page_writeback,FUNC_3
+mapping_set_error,FUNC_4
+page_mapping,FUNC_5
+unlock_page,FUNC_6
+page_endio,FUNC_7
+page,VAR_0
+is_write,VAR_1
+err,VAR_2
+mapping,VAR_3

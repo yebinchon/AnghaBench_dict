@@ -1,0 +1,12 @@
+CVMX_MF_TLB_WIRED,FUNC_0
+CVMX_MT_TLB_WIRED,FUNC_1
+__tlb_entry_is_free,FUNC_2
+cvmx_core_get_tlb_entries,FUNC_3
+cvmx_tlb_write_entry,FUNC_4
+cvmx_tlb_add_fixed_entry,FUNC_5
+vaddr,VAR_0
+paddr,VAR_1
+size,VAR_2
+tlb_flags,VAR_3
+index,VAR_4
+ret,VAR_5

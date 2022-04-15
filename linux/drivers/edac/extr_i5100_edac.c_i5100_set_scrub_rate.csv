@@ -1,0 +1,13 @@
+I5100_MC,VAR_0
+I5100_MC_SCRBEN_MASK,VAR_1
+I5100_SCRUB_REFRESH_RATE,VAR_2
+cancel_delayed_work,FUNC_0
+i5100_mc_scrben,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+schedule_delayed_work,FUNC_4
+i5100_set_scrub_rate,FUNC_5
+mci,VAR_3
+bandwidth,VAR_4
+priv,VAR_5
+dw,VAR_6

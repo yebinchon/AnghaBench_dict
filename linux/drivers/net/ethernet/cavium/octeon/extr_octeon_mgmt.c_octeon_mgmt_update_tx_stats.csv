@@ -1,0 +1,12 @@
+AGL_GMX_TX_STAT0,VAR_0
+AGL_GMX_TX_STAT1,VAR_1
+cvmx_read_csr,FUNC_0
+netdev_priv,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+octeon_mgmt_update_tx_stats,FUNC_4
+netdev,VAR_2
+p,VAR_3
+flags,VAR_4
+s0,VAR_5
+s1,VAR_6

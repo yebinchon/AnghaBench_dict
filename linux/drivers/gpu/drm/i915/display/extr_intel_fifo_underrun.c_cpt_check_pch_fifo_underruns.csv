@@ -1,0 +1,15 @@
+DRM_ERROR,FUNC_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+POSTING_READ,FUNC_3
+SERR_INT,VAR_0
+SERR_INT_TRANS_FIFO_UNDERRUN,FUNC_4
+lockdep_assert_held,FUNC_5
+pipe_name,FUNC_6
+to_i915,FUNC_7
+trace_intel_pch_fifo_underrun,FUNC_8
+cpt_check_pch_fifo_underruns,FUNC_9
+crtc,VAR_1
+dev_priv,VAR_2
+pch_transcoder,VAR_3
+serr_int,VAR_4

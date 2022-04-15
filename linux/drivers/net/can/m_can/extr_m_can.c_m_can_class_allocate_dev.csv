@@ -1,0 +1,15 @@
+MRAM_CFG_LEN,VAR_0
+SET_NETDEV_DEV,FUNC_0
+alloc_candev,FUNC_1
+dev_err,FUNC_2
+dev_fwnode,FUNC_3
+fwnode_property_read_u32_array,FUNC_4
+m_can_of_parse_mram,FUNC_5
+netdev_priv,FUNC_6
+m_can_class_allocate_dev,FUNC_7
+dev,VAR_1
+class_dev,VAR_2
+mram_config_vals,VAR_3
+net_dev,VAR_4
+tx_fifo_size,VAR_5
+ret,VAR_6

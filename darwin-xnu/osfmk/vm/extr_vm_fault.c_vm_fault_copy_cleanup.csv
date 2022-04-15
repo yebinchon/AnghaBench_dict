@@ -1,0 +1,12 @@
+PAGE_WAKEUP_DONE,FUNC_0
+VM_PAGE_OBJECT,FUNC_1
+VM_PAGE_PAGEABLE,FUNC_2
+vm_fault_cleanup,FUNC_3
+vm_object_lock,FUNC_4
+vm_page_activate,FUNC_5
+vm_page_lockspin_queues,FUNC_6
+vm_page_unlock_queues,FUNC_7
+vm_fault_copy_cleanup,FUNC_8
+page,VAR_0
+top_page,VAR_1
+object,VAR_2

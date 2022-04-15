@@ -1,0 +1,16 @@
+HDMI_HISR,VAR_0
+HDMI_INTR_HPD,VAR_1
+HDMI_INTR_I2C_DONE,VAR_2
+HDMI_INTR_I2C_FULL,VAR_3
+HDMI_READ,FUNC_0
+HDMI_WRITE,FUNC_1
+IRQ_HANDLED,VAR_4
+complete,FUNC_2
+hdmi_i2c_read,FUNC_3
+hdmi_i2c_transaction_done,FUNC_4
+oaktrail_hdmi_i2c_handler,FUNC_5
+this_irq,VAR_5
+dev,VAR_6
+hdmi_dev,VAR_7
+i2c_dev,VAR_8
+stat,VAR_9

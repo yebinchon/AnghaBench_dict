@@ -1,0 +1,11 @@
+ISP_PIPELINE_IDLE_INPUT,VAR_0
+ISP_PIPELINE_STREAM_SINGLESHOT,VAR_1
+ccp2_set_inaddr,FUNC_0
+isp_pipeline_ready,FUNC_1
+omap3isp_pipeline_set_stream,FUNC_2
+omap3isp_video_buffer_next,FUNC_3
+to_isp_pipeline,FUNC_4
+ccp2_isr_buffer,FUNC_5
+ccp2,VAR_2
+pipe,VAR_3
+buffer,VAR_4

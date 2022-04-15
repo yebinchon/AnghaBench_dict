@@ -1,0 +1,15 @@
+F2FS_DIRTY_NODES,VAR_0
+F2FS_P_SB,FUNC_0
+IS_INODE,FUNC_1
+NODE,VAR_1
+PageDirty,FUNC_2
+PageUptodate,FUNC_3
+SetPageUptodate,FUNC_4
+__set_page_dirty_nobuffers,FUNC_5
+f2fs_inode_chksum_set,FUNC_6
+f2fs_set_page_private,FUNC_7
+f2fs_trace_pid,FUNC_8
+inc_page_count,FUNC_9
+trace_f2fs_set_page_dirty,FUNC_10
+f2fs_set_node_page_dirty,FUNC_11
+page,VAR_2

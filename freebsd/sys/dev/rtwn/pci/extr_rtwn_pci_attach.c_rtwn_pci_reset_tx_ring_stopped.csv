@@ -1,0 +1,16 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+RTWN_PCI_SOFTC,FUNC_0
+RTWN_PCI_TX_LIST_COUNT,VAR_1
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+ieee80211_free_node,FUNC_3
+m_freem,FUNC_4
+rtwn_pci_copy_tx_desc,FUNC_5
+rtwn_pci_reset_tx_ring_stopped,FUNC_6
+sc,VAR_2
+qid,VAR_3
+pc,VAR_4
+ring,VAR_5
+i,VAR_6
+data,VAR_7
+desc,VAR_8

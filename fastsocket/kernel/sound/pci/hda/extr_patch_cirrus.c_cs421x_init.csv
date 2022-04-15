@@ -1,0 +1,15 @@
+AC_VERB_SET_GPIO_DATA,VAR_0
+AC_VERB_SET_GPIO_DIRECTION,VAR_1
+AC_VERB_SET_GPIO_MASK,VAR_2
+CS4210_VENDOR_NID,VAR_3
+cs4210_pinmux_init,FUNC_0
+cs4210_spdif_automute,FUNC_1
+cs421x_coef_init_verbs,VAR_4
+cs421x_coef_init_verbs_A1_silicon_fixes,VAR_5
+init_input_coef,FUNC_2
+snd_hda_codec_write,FUNC_3
+snd_hda_gen_init,FUNC_4
+snd_hda_sequence_write,FUNC_5
+cs421x_init,FUNC_6
+codec,VAR_6
+spec,VAR_7

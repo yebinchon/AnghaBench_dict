@@ -1,0 +1,14 @@
+FCH_EVT_LINKDOWN,VAR_0
+FC_DISC_DELAYED,VAR_1
+LPFC_DISC_TRC_ELS_CMD,VAR_2
+del_timer_sync,FUNC_0
+fc_get_event_number,FUNC_1
+fc_host_post_event,FUNC_2
+lpfc_debugfs_disc_trc,FUNC_3
+lpfc_port_link_failure,FUNC_4
+lpfc_shost_from_vport,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+lpfc_linkdown_port,FUNC_8
+vport,VAR_3
+shost,VAR_4

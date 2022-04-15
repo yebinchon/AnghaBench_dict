@@ -1,0 +1,12 @@
+QCA_IBS_ENABLED,VAR_0
+clear_bit,FUNC_0
+host_set_baudrate,FUNC_1
+qca_flush,FUNC_2
+qca_power_setup,FUNC_3
+qca_send_power_pulse,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+qca_power_shutdown,FUNC_7
+hu,VAR_1
+qca,VAR_2
+flags,VAR_3

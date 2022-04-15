@@ -1,0 +1,13 @@
+X86_FEATURE_HYPERVISOR,VAR_0
+boot_cpu_has,FUNC_0
+is_lbr_from,FUNC_1
+lbr_from_signext_quirk_wr,FUNC_2
+rdmsrl_safe,FUNC_3
+wrmsrl,FUNC_4
+wrmsrl_safe,FUNC_5
+check_msr,FUNC_6
+msr,VAR_1
+mask,VAR_2
+val_old,VAR_3
+val_new,VAR_4
+val_tmp,VAR_5

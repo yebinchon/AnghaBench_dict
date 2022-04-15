@@ -1,0 +1,12 @@
+RDA_UART_CMD_SET,VAR_0
+RDA_UART_CTS,VAR_1
+RDA_UART_RTS,VAR_2
+RDA_UART_STATUS,VAR_3
+TIOCM_CTS,VAR_4
+TIOCM_RTS,VAR_5
+rda_uart_read,FUNC_0
+rda_uart_get_mctrl,FUNC_1
+port,VAR_6
+mctrl,VAR_7
+cmd_set,VAR_8
+status,VAR_9

@@ -1,0 +1,17 @@
+OCTEON_REQUEST_PENDING,VAR_0
+OCTNET_CMD_SIZE,VAR_1
+OPCODE_NIC,VAR_2
+OPCODE_NIC_CMD,VAR_3
+init_completion,FUNC_0
+memcpy,FUNC_1
+octeon_alloc_soft_command,FUNC_2
+octeon_prepare_soft_command,FUNC_3
+octeon_swap_8B_data,FUNC_4
+octnic_alloc_ctrl_pkt_sc,FUNC_5
+oct,VAR_4
+nctrl,VAR_5
+sc,VAR_6
+data,VAR_7
+rdatasize,VAR_8
+uddsize,VAR_9
+datasize,VAR_10

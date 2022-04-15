@@ -1,0 +1,14 @@
+APICBASE_X2APIC,VAR_0
+X2APIC_DISABLED,VAR_1
+X2APIC_ENABLED,VAR_2
+stub1,FUNC_0
+vlapic_get_id,FUNC_1
+vm_lapic,FUNC_2
+x2apic,FUNC_3
+x2apic_ldr,FUNC_4
+vlapic_set_x2apic_state,FUNC_5
+vm,VAR_3
+vcpuid,VAR_4
+state,VAR_5
+vlapic,VAR_6
+lapic,VAR_7

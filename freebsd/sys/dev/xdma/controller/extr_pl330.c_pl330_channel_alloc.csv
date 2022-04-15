@@ -1,0 +1,14 @@
+M_ZERO,VAR_0
+PAGE_SIZE,VAR_1
+PL330_NCHANNELS,VAR_2
+VM_MEMATTR_UNCACHEABLE,VAR_3
+XCHAN_CAP_BUSDMA,VAR_4
+device_get_softc,FUNC_0
+kmem_alloc_contig,FUNC_1
+vtophys,FUNC_2
+pl330_channel_alloc,FUNC_3
+dev,VAR_5
+xchan,VAR_6
+chan,VAR_7
+sc,VAR_8
+i,VAR_9

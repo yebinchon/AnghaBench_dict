@@ -1,0 +1,10 @@
+NFP_META_PORT_ID_CTRL,VAR_0
+NFP_NET_META_PORTID,VAR_1
+get_unaligned_be32,FUNC_0
+nfp_app_ctrl_has_meta,FUNC_1
+nfp_ctrl_meta_ok,FUNC_2
+nn,VAR_2
+data,VAR_3
+meta_len,VAR_4
+meta_type,VAR_5
+meta_tag,VAR_6

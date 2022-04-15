@@ -1,0 +1,16 @@
+DB_RF_CANFAIL,VAR_0
+DB_RF_NOPREFETCH,VAR_1
+DMU_READ_NO_PREFETCH,VAR_2
+dbuf_read,FUNC_0
+dbuf_rele,FUNC_1
+dmu_buf_hold_noread,FUNC_2
+dmu_buf_hold,FUNC_3
+os,VAR_3
+object,VAR_4
+offset,VAR_5
+tag,VAR_6
+dbp,VAR_7
+flags,VAR_8
+err,VAR_9
+db_flags,VAR_10
+db,VAR_11

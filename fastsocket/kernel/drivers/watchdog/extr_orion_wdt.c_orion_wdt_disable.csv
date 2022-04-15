@@ -1,0 +1,11 @@
+RSTOUTn_MASK,VAR_0
+TIMER_CTRL,VAR_1
+WDT_EN,VAR_2
+WDT_RESET_OUT_EN,VAR_3
+readl,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+wdt_lock,VAR_4
+writel,FUNC_3
+orion_wdt_disable,FUNC_4
+reg,VAR_5

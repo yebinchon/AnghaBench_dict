@@ -1,0 +1,15 @@
+REQ_STATE_DONE,VAR_0
+REQ_STATE_NEED_WAKEUP,VAR_1
+REQ_STATE_QUEUED,VAR_2
+TAILQ_REMOVE,FUNC_0
+TRUE,VAR_3
+links,VAR_4
+mpt_free_request,FUNC_1
+mpt_raid_reply_frame_handler,FUNC_2
+wakeup,FUNC_3
+mpt_raid_reply_handler,FUNC_4
+mpt,VAR_5
+req,VAR_6
+reply_desc,VAR_7
+reply_frame,VAR_8
+free_req,VAR_9

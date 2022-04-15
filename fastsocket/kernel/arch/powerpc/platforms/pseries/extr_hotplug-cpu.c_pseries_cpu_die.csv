@@ -1,0 +1,17 @@
+CPU_STATE_INACTIVE,VAR_0
+CPU_STATE_OFFLINE,VAR_1
+QCSS_HARDWARE_ERROR,VAR_2
+QCSS_STOPPED,VAR_3
+cpu_relax,FUNC_0
+get_cpu_current_state,FUNC_1
+get_hard_smp_processor_id,FUNC_2
+get_preferred_offline_state,FUNC_3
+msleep,FUNC_4
+paca,VAR_4
+printk,FUNC_5
+smp_query_cpu_stopped,FUNC_6
+pseries_cpu_die,FUNC_7
+cpu,VAR_5
+tries,VAR_6
+cpu_status,VAR_7
+pcpu,VAR_8

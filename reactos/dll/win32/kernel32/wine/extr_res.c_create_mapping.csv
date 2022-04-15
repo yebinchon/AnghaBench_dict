@@ -1,0 +1,15 @@
+CreateFileW,FUNC_0
+GENERIC_READ,VAR_0
+GENERIC_WRITE,VAR_1
+GetFileSize,FUNC_1
+GetProcessHeap,FUNC_2
+HEAP_ZERO_MEMORY,VAR_2
+HeapAlloc,FUNC_3
+INVALID_HANDLE_VALUE,VAR_3
+OPEN_EXISTING,VAR_4
+destroy_mapping,FUNC_4
+map_file_into_memory,FUNC_5
+create_mapping,FUNC_6
+name,VAR_5
+rw,VAR_6
+mi,VAR_7

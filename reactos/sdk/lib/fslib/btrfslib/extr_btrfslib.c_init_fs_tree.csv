@@ -1,0 +1,13 @@
+GetSystemTimeAsFileTime,FUNC_0
+SUBVOL_ROOT_INODE,VAR_0
+TYPE_INODE_ITEM,VAR_1
+add_inode_ref,FUNC_1
+add_item,FUNC_2
+memset,FUNC_3
+win_time_to_unix,FUNC_4
+init_fs_tree,FUNC_5
+r,VAR_2
+node_size,VAR_3
+ii,VAR_4
+filetime,VAR_5
+time,VAR_6

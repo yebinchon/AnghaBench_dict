@@ -1,0 +1,11 @@
+TEGRA30_AHUB_AUDIO_RX,VAR_0
+TEGRA30_AHUB_AUDIO_RX_STRIDE,VAR_1
+TEGRA30_AHUB_RXCIF_APBIF_RX0,VAR_2
+ahub,VAR_3
+pm_runtime_get_sync,FUNC_0
+pm_runtime_put,FUNC_1
+tegra30_audio_write,FUNC_2
+tegra30_ahub_unset_rx_cif_source,FUNC_3
+rxcif,VAR_4
+channel,VAR_5
+reg,VAR_6

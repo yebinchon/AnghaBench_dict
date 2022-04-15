@@ -1,0 +1,13 @@
+READ_PORT,VAR_0
+WRITE_PORT,VAR_1
+comedi_dio_update_state,FUNC_0
+ni6501_port_command,FUNC_1
+ni6501_dio_insn_bits,FUNC_2
+dev,VAR_2
+s,VAR_3
+insn,VAR_4
+data,VAR_5
+mask,VAR_6
+ret,VAR_7
+port,VAR_8
+bitmap,VAR_9

@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+S_IFLNK,VAR_1
+S_IRUGO,VAR_2
+S_IWUGO,VAR_3
+S_IXUGO,VAR_4
+__proc_create,FUNC_0
+kmalloc,FUNC_1
+pde_free,FUNC_2
+proc_link_inode_operations,VAR_5
+proc_register,FUNC_3
+strcpy,FUNC_4
+strlen,FUNC_5
+proc_symlink,FUNC_6
+name,VAR_6
+parent,VAR_7
+dest,VAR_8
+ent,VAR_9

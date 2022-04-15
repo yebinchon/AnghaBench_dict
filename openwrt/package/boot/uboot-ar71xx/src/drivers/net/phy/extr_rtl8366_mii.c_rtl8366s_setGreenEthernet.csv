@@ -1,0 +1,16 @@
+RTL8366S_MODEL_ID_REG,VAR_0
+RTL8366S_PHY_ACCESS_CTRL_REG,VAR_1
+RTL8366S_PHY_CTRL_WRITE,VAR_2
+RTL8366S_PHY_NO_MAX,VAR_3
+printf,FUNC_0
+rtl8366_readRegister,FUNC_1
+rtl8366_writeRegister,FUNC_2
+rtl8366s_setGreenFeature,FUNC_3
+rtl8366s_setPowerSaving,FUNC_4
+rtl8366s_setGreenEthernet,FUNC_5
+greenFeature,VAR_4
+powerSaving,VAR_5
+phyNum,VAR_6
+i,VAR_7
+regData,VAR_8
+greenSettings,VAR_9

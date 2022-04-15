@@ -1,0 +1,10 @@
+DRV2605L_BASE_ADDRESS,VAR_0
+DRV2605L_read_buffer,VAR_1
+DRV2605L_read_register,VAR_2
+DRV2605L_tx_register,VAR_3
+MSG_OK,VAR_4
+i2c_readReg,FUNC_0
+i2c_transmit_receive,FUNC_1
+printf,FUNC_2
+DRV_read,FUNC_3
+regaddress,VAR_5

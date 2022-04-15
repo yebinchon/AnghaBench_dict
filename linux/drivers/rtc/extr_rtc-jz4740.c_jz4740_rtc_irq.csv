@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+JZ_REG_RTC_CTRL,VAR_1
+JZ_RTC_CTRL_1HZ,VAR_2
+JZ_RTC_CTRL_AF,VAR_3
+RTC_AF,VAR_4
+RTC_IRQF,VAR_5
+RTC_UF,VAR_6
+jz4740_rtc_ctrl_set_bits,FUNC_0
+jz4740_rtc_reg_read,FUNC_1
+rtc_update_irq,FUNC_2
+jz4740_rtc_irq,FUNC_3
+irq,VAR_7
+data,VAR_8
+rtc,VAR_9
+ctrl,VAR_10
+events,VAR_11

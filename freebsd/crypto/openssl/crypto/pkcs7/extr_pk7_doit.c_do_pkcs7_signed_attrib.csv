@@ -1,0 +1,16 @@
+ERR_R_EVP_LIB,VAR_0
+ERR_R_MALLOC_FAILURE,VAR_1
+EVP_DigestFinal_ex,FUNC_0
+EVP_MAX_MD_SIZE,VAR_2
+NID_pkcs9_signingTime,VAR_3
+PKCS7_F_DO_PKCS7_SIGNED_ATTRIB,VAR_4
+PKCS7_SIGNER_INFO_sign,FUNC_1
+PKCS7_add0_attrib_signing_time,FUNC_2
+PKCS7_add1_attrib_digest,FUNC_3
+PKCS7_get_signed_attribute,FUNC_4
+PKCS7err,FUNC_5
+do_pkcs7_signed_attrib,FUNC_6
+si,VAR_5
+mctx,VAR_6
+md_data,VAR_7
+md_len,VAR_8

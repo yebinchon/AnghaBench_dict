@@ -1,0 +1,15 @@
+IRP_NDISUSB_EP,FUNC_0
+IRP_NDIS_DEV,FUNC_1
+IoReleaseCancelSpinLock,FUNC_2
+NDISUSB_LOCK,FUNC_3
+NDISUSB_UNLOCK,FUNC_4
+TRUE,VAR_0
+device_get_softc,FUNC_5
+usbd_transfer_start,FUNC_6
+usbd_transfer_stop,FUNC_7
+usbd_irpcancel,FUNC_8
+dobj,VAR_1
+ip,VAR_2
+dev,VAR_3
+sc,VAR_4
+ne,VAR_5

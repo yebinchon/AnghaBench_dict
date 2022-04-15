@@ -1,0 +1,13 @@
+UFSHCD_ERROR_MASK,VAR_0
+UFSHCD_UIC_HIBERN8_MASK,VAR_1
+UFSHCD_UIC_MASK,VAR_2
+UTP_TASK_REQ_COMPL,VAR_3
+UTP_TRANSFER_REQ_COMPL,VAR_4
+ufshcd_check_errors,FUNC_0
+ufshcd_is_auto_hibern8_error,FUNC_1
+ufshcd_tmc_handler,FUNC_2
+ufshcd_transfer_req_compl,FUNC_3
+ufshcd_uic_cmd_compl,FUNC_4
+ufshcd_sl_intr,FUNC_5
+hba,VAR_5
+intr_status,VAR_6

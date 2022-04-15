@@ -1,0 +1,17 @@
+BFA_FLASH_PART_MFG,VAR_0
+BFA_STATUS_DEVBUSY,VAR_1
+BFA_STATUS_EINVAL,VAR_2
+BFA_STATUS_FLASH_BAD_LEN,VAR_3
+BFA_STATUS_IOC_NON_OP,VAR_4
+BFA_STATUS_OK,VAR_5
+bfa_flash_write_send,FUNC_0
+bfa_nw_ioc_is_operational,FUNC_1
+bfa_nw_flash_update_part,FUNC_2
+flash,VAR_6
+type,VAR_7
+instance,VAR_8
+buf,VAR_9
+len,VAR_10
+offset,VAR_11
+cbfn,VAR_12
+cbarg,VAR_13

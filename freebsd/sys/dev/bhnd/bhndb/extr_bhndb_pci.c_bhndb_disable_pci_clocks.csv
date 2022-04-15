@@ -1,0 +1,13 @@
+BHNDB_PCI_GPIO_OUT,VAR_0
+BHNDB_PCI_GPIO_OUTEN,VAR_1
+BHNDB_PCI_GPIO_PLL_OFF,VAR_2
+BHNDB_PCI_GPIO_XTAL_ON,VAR_3
+bhndb_is_pcie_attached,FUNC_0
+device_get_parent,FUNC_1
+pci_read_config,FUNC_2
+pci_write_config,FUNC_3
+bhndb_disable_pci_clocks,FUNC_4
+dev,VAR_4
+pci_dev,VAR_5
+gpio_out,VAR_6
+gpio_en,VAR_7

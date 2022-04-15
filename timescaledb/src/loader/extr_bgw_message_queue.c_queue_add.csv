@@ -1,0 +1,16 @@
+BGW_MQ_MAX_MESSAGES,VAR_0
+BackendPidGetProc,FUNC_0
+InvalidPid,VAR_1
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_EXCLUSIVE,VAR_2
+MESSAGE_SENT,VAR_3
+QUEUE_FULL,VAR_4
+READER_DETACHED,VAR_5
+SetLatch,FUNC_3
+memcpy,FUNC_4
+queue_get_reader,FUNC_5
+queue_add,FUNC_6
+queue,VAR_6
+message,VAR_7
+message_result,VAR_8

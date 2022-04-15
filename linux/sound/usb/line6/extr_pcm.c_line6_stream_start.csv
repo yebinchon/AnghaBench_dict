@@ -1,0 +1,15 @@
+SNDRV_PCM_STREAM_PLAYBACK,VAR_0
+clear_bit,FUNC_0
+get_stream,FUNC_1
+line6_submit_audio_in_all_urbs,FUNC_2
+line6_submit_audio_out_all_urbs,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+test_and_set_bit,FUNC_6
+line6_stream_start,FUNC_7
+line6pcm,VAR_1
+direction,VAR_2
+type,VAR_3
+flags,VAR_4
+pstr,VAR_5
+ret,VAR_6

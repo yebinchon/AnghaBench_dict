@@ -1,0 +1,15 @@
+ATA_NO_SLAVE,VAR_0
+ATA_SATA,VAR_1
+ATA_SCONTROL,VAR_2
+ATA_SERROR,VAR_3
+ATA_SIS182,VAR_4
+ATA_SSTATUS,VAR_5
+ENXIO,VAR_6
+ata_pci_ch_attach,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+ata_sis_ch_attach,FUNC_3
+dev,VAR_7
+ctlr,VAR_8
+ch,VAR_9
+offset,VAR_10

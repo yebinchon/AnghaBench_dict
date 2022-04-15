@@ -1,0 +1,11 @@
+BFA_MSGQ_FREE_CNT,FUNC_0
+BFA_STATUS_OK,VAR_0
+CMDQ_E_POST,VAR_1
+__cmd_copy,FUNC_1
+bfa_fsm_send_event,FUNC_2
+call_cmdq_ent_cbfn,FUNC_3
+list_add_tail,FUNC_4
+ntohs,FUNC_5
+bfa_msgq_cmd_post,FUNC_6
+msgq,VAR_2
+cmd,VAR_3

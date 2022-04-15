@@ -1,0 +1,10 @@
+RQ_ENET_LEN_BITS,VAR_0
+RQ_ENET_LEN_MASK,VAR_1
+RQ_ENET_TYPE_MASK,VAR_2
+le16_to_cpu,FUNC_0
+le64_to_cpu,FUNC_1
+rq_enet_desc_dec,FUNC_2
+desc,VAR_3
+address,VAR_4
+type,VAR_5
+length,VAR_6

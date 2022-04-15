@@ -1,0 +1,12 @@
+MC_CMD_PTP_IN_TRANSMIT_PACKET_MAXNUM,VAR_0
+NETDEV_TX_OK,VAR_1
+PTP_EVENT_PORT,VAR_2
+htons,FUNC_0
+queue_work,FUNC_1
+skb_queue_tail,FUNC_2
+skb_tx,FUNC_3
+udp_hdr,FUNC_4
+efx_ptp_tx,FUNC_5
+efx,VAR_3
+skb,VAR_4
+ptp,VAR_5

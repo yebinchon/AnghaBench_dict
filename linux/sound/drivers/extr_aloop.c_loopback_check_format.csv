@@ -1,0 +1,17 @@
+CABLE_VALID_BOTH,VAR_0
+EIO,VAR_1
+SNDRV_CTL_EVENT_MASK_VALUE,VAR_2
+SNDRV_PCM_STATE_DRAINING,VAR_3
+SNDRV_PCM_STREAM_CAPTURE,VAR_4
+SNDRV_PCM_STREAM_PLAYBACK,VAR_5
+get_setup,FUNC_0
+snd_ctl_notify,FUNC_1
+snd_pcm_stop,FUNC_2
+loopback_check_format,FUNC_3
+cable,VAR_6
+stream,VAR_7
+runtime,VAR_8
+cruntime,VAR_9
+setup,VAR_10
+card,VAR_11
+check,VAR_12

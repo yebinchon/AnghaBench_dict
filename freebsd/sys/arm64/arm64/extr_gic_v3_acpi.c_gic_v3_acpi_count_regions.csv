@@ -1,0 +1,14 @@
+ACPI_SIG_MADT,VAR_0
+ENXIO,VAR_1
+acpi_find_table,FUNC_0
+acpi_map_table,FUNC_1
+acpi_unmap_table,FUNC_2
+acpi_walk_subtables,FUNC_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+madt_count_redistrib,VAR_2
+gic_v3_acpi_count_regions,FUNC_6
+dev,VAR_3
+sc,VAR_4
+madt,VAR_5
+physaddr,VAR_6

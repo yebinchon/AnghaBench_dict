@@ -1,0 +1,11 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_commit__free,FUNC_2
+git_commit_message,FUNC_3
+git_commit_message_raw,FUNC_4
+parse_commit,FUNC_5
+test_commit_parse__only_lf,FUNC_6
+commit,VAR_0
+buffer,VAR_1
+message,VAR_2
+raw_message,VAR_3

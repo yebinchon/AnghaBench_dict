@@ -1,0 +1,17 @@
+dev_dbg,FUNC_0
+device_remove_file,FUNC_1
+hwmon_device_unregister,FUNC_2
+kfree,FUNC_3
+list_del,FUNC_4
+list_empty,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+thermal_hwmon_list_lock,VAR_0
+thermal_hwmon_lookup_by_type,FUNC_8
+thermal_hwmon_lookup_temp,FUNC_9
+thermal_zone_crit_temp_valid,FUNC_10
+unlikely,FUNC_11
+thermal_remove_hwmon_sysfs,FUNC_12
+tz,VAR_1
+hwmon,VAR_2
+temp,VAR_3

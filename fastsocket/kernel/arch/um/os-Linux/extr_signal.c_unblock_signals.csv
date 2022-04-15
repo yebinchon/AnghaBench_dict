@@ -1,0 +1,10 @@
+SIGIO,VAR_0
+SIGIO_MASK,VAR_1
+SIGVTALRM_MASK,VAR_2
+barrier,FUNC_0
+real_alarm_handler,FUNC_1
+sig_handler_common,FUNC_2
+signals_enabled,VAR_3
+signals_pending,VAR_4
+unblock_signals,FUNC_3
+save_pending,VAR_5

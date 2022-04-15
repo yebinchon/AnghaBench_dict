@@ -1,0 +1,14 @@
+disable_rpm_wakeref_asserts,FUNC_0
+enable_rpm_wakeref_asserts,FUNC_1
+i915_driver_destroy,FUNC_2
+i915_driver_late_release,FUNC_3
+i915_driver_mmio_release,FUNC_4
+i915_gem_driver_release,FUNC_5
+i915_ggtt_driver_release,FUNC_6
+intel_runtime_pm_driver_release,FUNC_7
+intel_sanitize_gt_powersave,FUNC_8
+to_i915,FUNC_9
+i915_driver_release,FUNC_10
+dev,VAR_0
+dev_priv,VAR_1
+rpm,VAR_2

@@ -1,0 +1,11 @@
+REQ_F_IO_DRAINED,VAR_0
+REQ_F_SHADOW_DRAIN,VAR_1
+__io_commit_cqring,FUNC_0
+__io_free_req,FUNC_1
+io_get_deferred_req,FUNC_2
+io_get_timeout_req,FUNC_3
+io_kill_timeout,FUNC_4
+io_queue_async_work,FUNC_5
+io_commit_cqring,FUNC_6
+ctx,VAR_2
+req,VAR_3

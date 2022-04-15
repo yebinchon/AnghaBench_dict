@@ -1,0 +1,10 @@
+CGROUP_BLKIO_WEIGHT_INVALID,VAR_0
+CGROUP_CPU_SHARES_INVALID,VAR_1
+CGROUP_WEIGHT_INVALID,VAR_2
+set_ensure_allocated,FUNC_0
+set_put,FUNC_1
+unit_get_cgroup_context,FUNC_2
+unit_add_startup_units,FUNC_3
+u,VAR_3
+c,VAR_4
+r,VAR_5

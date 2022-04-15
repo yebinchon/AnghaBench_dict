@@ -1,0 +1,14 @@
+AFS_LOCKWAIT,VAR_0
+afs_lock_manager,VAR_1
+ktime_add_ms,FUNC_0
+ktime_get_real,FUNC_1
+ktime_sub,FUNC_2
+ktime_to_ns,FUNC_3
+nsecs_to_jiffies,FUNC_4
+queue_delayed_work,FUNC_5
+afs_schedule_lock_extension,FUNC_6
+vnode,VAR_2
+expires_at,VAR_3
+now,VAR_4
+duration,VAR_5
+duration_j,VAR_6

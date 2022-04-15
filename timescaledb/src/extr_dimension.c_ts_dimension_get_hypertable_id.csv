@@ -1,0 +1,15 @@
+AccessShareLock,VAR_0
+Anum_dimension_id_idx_id,VAR_1
+BTEqualStrategyNumber,VAR_2
+CurrentMemoryContext,VAR_3
+DIMENSION_ID_IDX,VAR_4
+F_INT4EQ,VAR_5
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+dimension_find_hypertable_id_tuple_found,VAR_6
+dimension_scan_internal,FUNC_2
+ts_dimension_get_hypertable_id,FUNC_3
+dimension_id,VAR_7
+hypertable_id,VAR_8
+scankey,VAR_9
+ret,VAR_10

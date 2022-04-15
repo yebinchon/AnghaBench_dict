@@ -1,0 +1,13 @@
+SCH311X_GPIO_CONF_DIR,VAR_0
+__sch311x_gpio_set,FUNC_0
+gpiochip_get_data,FUNC_1
+inb,FUNC_2
+outb,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+sch311x_gpio_direction_out,FUNC_6
+chip,VAR_1
+offset,VAR_2
+value,VAR_3
+block,VAR_4
+data,VAR_5

@@ -1,0 +1,13 @@
+PE_parse_boot_argn,FUNC_0
+TBI_KERNEL,VAR_0
+TBI_USER,VAR_1
+TCR_TBI0_TOPBYTE_IGNORED,VAR_2
+TCR_TBI1_TOPBYTE_IGNORED,VAR_3
+get_tcr,FUNC_1
+set_tcr,FUNC_2
+sysreg_restore,VAR_4
+user_tbi,VAR_5
+set_tbi,FUNC_3
+old_tcr,VAR_6
+new_tcr,VAR_7
+tbi,VAR_8

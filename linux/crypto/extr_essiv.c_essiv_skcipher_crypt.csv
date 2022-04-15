@@ -1,0 +1,17 @@
+crypto_cipher_encrypt_one,FUNC_0
+crypto_skcipher_ctx,FUNC_1
+crypto_skcipher_decrypt,FUNC_2
+crypto_skcipher_encrypt,FUNC_3
+crypto_skcipher_reqtfm,FUNC_4
+essiv_skcipher_done,VAR_0
+skcipher_request_ctx,FUNC_5
+skcipher_request_flags,FUNC_6
+skcipher_request_set_callback,FUNC_7
+skcipher_request_set_crypt,FUNC_8
+skcipher_request_set_tfm,FUNC_9
+essiv_skcipher_crypt,FUNC_10
+req,VAR_1
+enc,VAR_2
+tfm,VAR_3
+tctx,VAR_4
+subreq,VAR_5

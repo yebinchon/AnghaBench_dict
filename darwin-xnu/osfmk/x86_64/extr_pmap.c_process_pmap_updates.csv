@@ -1,0 +1,14 @@
+FALSE,VAR_0
+cpu_datap,FUNC_0
+cpu_number,FUNC_1
+current_cpu_datap,FUNC_2
+flush_tlb_raw,FUNC_3
+get_preemption_level,FUNC_4
+mfence,FUNC_5
+ml_get_interrupts_enabled,FUNC_6
+pmap_assert,FUNC_7
+pmap_pcid_ncpus,VAR_1
+pmap_pcid_validate_current,FUNC_8
+tlb_flush_global,FUNC_9
+process_pmap_updates,FUNC_10
+ccpu,VAR_2

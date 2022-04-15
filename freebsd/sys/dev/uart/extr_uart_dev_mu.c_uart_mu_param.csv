@@ -1,0 +1,17 @@
+AUX_MU_BAUD_REG,VAR_0
+AUX_MU_CNTL_REG,VAR_1
+AUX_MU_LCR_REG,VAR_2
+CNTL_RXENAB,VAR_3
+CNTL_TXENAB,VAR_4
+CPU_CLOCK,VAR_5
+LCR_WLEN7,VAR_6
+LCR_WLEN8,VAR_7
+__uart_setreg,FUNC_0
+uart_mu_param,FUNC_1
+bas,VAR_8
+baudrate,VAR_9
+databits,VAR_10
+stopbits,VAR_11
+parity,VAR_12
+line,VAR_13
+baud,VAR_14

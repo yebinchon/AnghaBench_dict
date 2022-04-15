@@ -1,0 +1,17 @@
+CMD_RXOFF,VAR_0
+CMD_TXOFF,VAR_1
+REG_COMMAND,VAR_2
+REG_CONFIG2,VAR_3
+REG_STATUS,VAR_4
+STAT_RXON,VAR_5
+STAT_TXON,VAR_6
+barrier,FUNC_0
+disable_irq,FUNC_1
+ether3_inw,FUNC_2
+ether3_outb,FUNC_3
+ether3_outw,FUNC_4
+free_irq,FUNC_5
+netif_stop_queue,FUNC_6
+priv,FUNC_7
+ether3_close,FUNC_8
+dev,VAR_7

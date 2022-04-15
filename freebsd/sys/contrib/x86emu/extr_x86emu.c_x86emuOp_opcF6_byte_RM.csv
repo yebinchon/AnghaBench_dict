@@ -1,0 +1,15 @@
+decode_and_fetch_byte,FUNC_0
+decode_and_fetch_byte_imm8,FUNC_1
+div_byte,FUNC_2
+fetch_decode_modrm,FUNC_3
+idiv_byte,FUNC_4
+imul_byte,FUNC_5
+mul_byte,FUNC_6
+neg_byte,FUNC_7
+test_byte,FUNC_8
+write_back_byte,FUNC_9
+x86emu_halt_sys,FUNC_10
+x86emuOp_opcF6_byte_RM,FUNC_11
+emu,VAR_0
+destval,VAR_1
+srcval,VAR_2

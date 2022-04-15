@@ -1,0 +1,12 @@
+config_GetType,FUNC_0
+config_PutFloat,FUNC_1
+config_PutInt,FUNC_2
+config_PutPsz,FUNC_3
+luaL_checkboolean,FUNC_4
+luaL_checkinteger,FUNC_5
+luaL_checknumber,FUNC_6
+luaL_checkstring,FUNC_7
+vlclua_error,FUNC_8
+vlclua_config_set,FUNC_9
+L,VAR_0
+psz_name,VAR_1

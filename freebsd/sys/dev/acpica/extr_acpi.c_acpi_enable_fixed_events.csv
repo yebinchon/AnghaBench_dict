@@ -1,0 +1,13 @@
+ACPI_EVENT_POWER_BUTTON,VAR_0
+ACPI_EVENT_SLEEP_BUTTON,VAR_1
+ACPI_FADT_POWER_BUTTON,VAR_2
+ACPI_FADT_SLEEP_BUTTON,VAR_3
+AcpiClearEvent,FUNC_0
+AcpiGbl_FADT,VAR_4
+AcpiInstallFixedEventHandler,FUNC_1
+acpi_event_power_button_sleep,VAR_5
+acpi_event_sleep_button_sleep,VAR_6
+device_printf,FUNC_2
+acpi_enable_fixed_events,FUNC_3
+sc,VAR_7
+first_time,VAR_8

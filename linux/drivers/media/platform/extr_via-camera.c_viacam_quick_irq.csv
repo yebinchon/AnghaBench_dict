@@ -1,0 +1,16 @@
+IRQ_NONE,VAR_0
+IRQ_WAKE_THREAD,VAR_1
+VCR_IC_EAV,VAR_2
+VCR_IC_EVBI,VAR_3
+VCR_IC_FFULL,VAR_4
+VCR_INTCTRL,VAR_5
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+viacam_read_reg,FUNC_2
+viacam_write_reg,FUNC_3
+viacam_quick_irq,FUNC_4
+irq,VAR_6
+data,VAR_7
+cam,VAR_8
+ret,VAR_9
+icv,VAR_10

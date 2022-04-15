@@ -1,0 +1,13 @@
+DCLKCON_DCLK_DIV_MASK,VAR_0
+readl_relaxed,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel_relaxed,FUNC_3
+s3c24xx_dclk_update_cmp,FUNC_4
+s3c24xx_dclk,VAR_1
+div_shift,VAR_2
+cmp_shift,VAR_3
+flags,VAR_4
+dclk_con,VAR_5
+div,VAR_6
+cmp,VAR_7

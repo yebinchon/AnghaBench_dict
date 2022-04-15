@@ -1,0 +1,13 @@
+ATF_REQUIRE_MSG,FUNC_0
+VM_MAX_WIRED,VAR_0
+atf_tc_skip,FUNC_1
+errno,VAR_1
+fclose,FUNC_2
+fopen,FUNC_3
+fprintf,FUNC_4
+strerror,FUNC_5
+vm_max_wired_sysctl,FUNC_6
+set_vm_max_wired,FUNC_7
+new_value,VAR_2
+fp,VAR_3
+old_value,VAR_4

@@ -1,0 +1,14 @@
+RECOMMENDED_FRIEND_TCP_CONNECTIONS,VAR_0
+TCP_CONNECTION_ANNOUNCE_TIMEOUT,VAR_1
+TCP_CONN_CONNECTED,VAR_2
+get_tcp_connection,FUNC_0
+is_timeout,FUNC_1
+kill_tcp_relay_connection,FUNC_2
+kill_nonused_tcp,FUNC_3
+tcp_c,VAR_3
+i,VAR_4
+num_online,VAR_5
+num_kill,VAR_6
+to_kill,VAR_7
+tcp_con,VAR_8
+n,VAR_9

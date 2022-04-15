@@ -1,0 +1,15 @@
+I8042_CMD_AUX_LOOP,VAR_0
+I8042_STR_AUXDATA,VAR_1
+dbg,FUNC_0
+i8042_noloop,VAR_2
+i8042_read_data,FUNC_1
+i8042_read_status,FUNC_2
+i8042_wait_read,FUNC_3
+i8042_wait_write,FUNC_4
+i8042_write_command,FUNC_5
+i8042_write_data,FUNC_6
+__i8042_command,FUNC_7
+param,VAR_3
+command,VAR_4
+i,VAR_5
+error,VAR_6

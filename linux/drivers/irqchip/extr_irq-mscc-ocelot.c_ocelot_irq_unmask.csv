@@ -1,0 +1,15 @@
+ICPU_CFG_INTR_INTR_ENA_SET,VAR_0
+ICPU_CFG_INTR_INTR_STICKY,VAR_1
+ICPU_CFG_INTR_INTR_TRIGGER,FUNC_0
+irq_data_get_chip_type,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+irq_gc_lock,FUNC_3
+irq_gc_unlock,FUNC_4
+irq_reg_readl,FUNC_5
+irq_reg_writel,FUNC_6
+ocelot_irq_unmask,FUNC_7
+data,VAR_2
+gc,VAR_3
+ct,VAR_4
+mask,VAR_5
+val,VAR_6

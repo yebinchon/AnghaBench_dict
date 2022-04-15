@@ -1,0 +1,17 @@
+EXT2_GOOD_OLD_INODE_SIZE,VAR_0
+EXT2_INODE_SIZE,FUNC_0
+EXT4_INODE_CSUM_HI_EXTRA_END,VAR_1
+ext2fs_has_feature_metadata_csum,FUNC_1
+ext2fs_inode_csum,FUNC_2
+ext2fs_le16_to_cpu,FUNC_3
+ext2fs_inode_csum_verify,FUNC_4
+fs,VAR_2
+inum,VAR_3
+inode,VAR_4
+retval,VAR_5
+provided,VAR_6
+calculated,VAR_7
+i,VAR_8
+has_hi,VAR_9
+cp,VAR_10
+hi,VAR_11

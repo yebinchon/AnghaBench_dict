@@ -1,0 +1,15 @@
+A_PL_RST,VAR_0
+F_CRSTWRM,VAR_1
+F_CRSTWRMMODE,VAR_2
+T3_REV_B2,VAR_3
+is_pcie,FUNC_0
+msleep,FUNC_1
+pci_read_config_word,FUNC_2
+pci_restore_state,FUNC_3
+pci_save_state,FUNC_4
+t3_write_reg,FUNC_5
+t3_reset_adapter,FUNC_6
+adapter,VAR_4
+i,VAR_5
+save_and_restore_pcie,VAR_6
+devid,VAR_7

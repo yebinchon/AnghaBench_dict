@@ -1,0 +1,16 @@
+LAPIC_LVT_PERIODIC,VAR_0
+LAPIC_READ,FUNC_0
+LAPIC_TIMER_DIVIDE_MASK,VAR_1
+LVT_TIMER,VAR_2
+TIMER_CURRENT_COUNT,VAR_3
+TIMER_DIVIDE_CONFIG,VAR_4
+TIMER_INITIAL_COUNT,VAR_5
+mp_disable_preemption,FUNC_1
+mp_enable_preemption,FUNC_2
+one_shot,VAR_6
+periodic,VAR_7
+lapic_get_timer,FUNC_3
+mode,VAR_8
+divisor,VAR_9
+initial_count,VAR_10
+current_count,VAR_11

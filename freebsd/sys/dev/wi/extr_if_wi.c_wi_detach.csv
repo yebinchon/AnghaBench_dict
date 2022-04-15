@@ -1,0 +1,14 @@
+WI_LOCK,FUNC_0
+WI_UNLOCK,FUNC_1
+bus_child_present,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+ieee80211_ifdetach,FUNC_5
+mbufq_drain,FUNC_6
+mtx_destroy,FUNC_7
+wi_free,FUNC_8
+wi_stop,FUNC_9
+wi_detach,FUNC_10
+dev,VAR_0
+sc,VAR_1
+ic,VAR_2

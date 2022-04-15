@@ -1,0 +1,10 @@
+SNTP_SYNC_STATUS_COMPLETED,VAR_0
+SNTP_SYNC_STATUS_IN_PROGRESS,VAR_1
+SNTP_SYNC_STATUS_RESET,VAR_2
+adjtime,FUNC_0
+sntp_set_sync_status,FUNC_1
+sntp_sync_status,VAR_3
+sntp_get_sync_status,FUNC_2
+ret_sync_status,VAR_4
+sync_status,VAR_5
+outdelta,VAR_6

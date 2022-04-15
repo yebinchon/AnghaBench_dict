@@ -1,0 +1,15 @@
+AHCI_CAP,VAR_0
+AHCI_GHC,VAR_1
+AHCI_GHC_AE,VAR_2
+AHCI_GHC_HR,VAR_3
+AHCI_Q_RESTORE_CAP,VAR_4
+ATA_INL,FUNC_0
+ATA_OUTL,FUNC_1
+DELAY,FUNC_2
+ENXIO,VAR_5
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+ahci_ctlr_reset,FUNC_5
+dev,VAR_6
+ctlr,VAR_7
+timeout,VAR_8

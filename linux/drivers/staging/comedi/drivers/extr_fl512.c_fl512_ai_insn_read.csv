@@ -1,0 +1,16 @@
+CR_CHAN,FUNC_0
+FL512_AI_LSB_REG,VAR_0
+FL512_AI_MSB_REG,VAR_1
+FL512_AI_MUX_REG,VAR_2
+FL512_AI_START_CONV_REG,VAR_3
+inb,FUNC_1
+outb,FUNC_2
+usleep_range,FUNC_3
+fl512_ai_insn_read,FUNC_4
+dev,VAR_4
+s,VAR_5
+insn,VAR_6
+data,VAR_7
+chan,VAR_8
+val,VAR_9
+i,VAR_10

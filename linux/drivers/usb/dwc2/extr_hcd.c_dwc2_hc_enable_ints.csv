@@ -1,0 +1,13 @@
+GINTMSK,VAR_0
+GINTSTS_HCHINT,VAR_1
+HAINTMSK,VAR_2
+dbg_hc,FUNC_0
+dev_vdbg,FUNC_1
+dwc2_hc_enable_dma_ints,FUNC_2
+dwc2_hc_enable_slave_ints,FUNC_3
+dwc2_readl,FUNC_4
+dwc2_writel,FUNC_5
+dwc2_hc_enable_ints,FUNC_6
+hsotg,VAR_3
+chan,VAR_4
+intmsk,VAR_5

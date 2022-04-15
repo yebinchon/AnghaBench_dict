@@ -1,0 +1,13 @@
+NETSEC_RING_TX,VAR_0
+NETSEC_XDP_CONSUMED,VAR_1
+convert_to_xdp_frame,FUNC_0
+netsec_xdp_queue_one,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+unlikely,FUNC_4
+netsec_xdp_xmit_back,FUNC_5
+priv,VAR_2
+xdp,VAR_3
+tx_ring,VAR_4
+xdpf,VAR_5
+ret,VAR_6

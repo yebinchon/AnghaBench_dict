@@ -1,0 +1,13 @@
+hix5hd2_i2c_xfer_msg,FUNC_0
+i2c_get_adapdata,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_mark_last_busy,FUNC_3
+pm_runtime_put_autosuspend,FUNC_4
+hix5hd2_i2c_xfer,FUNC_5
+adap,VAR_0
+msgs,VAR_1
+num,VAR_2
+priv,VAR_3
+i,VAR_4
+ret,VAR_5
+stop,VAR_6

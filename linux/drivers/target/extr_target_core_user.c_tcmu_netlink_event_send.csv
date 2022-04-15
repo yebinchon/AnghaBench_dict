@@ -1,0 +1,17 @@
+ESRCH,VAR_0
+GFP_KERNEL,VAR_1
+TCMU_CMD_ADDED_DEVICE,VAR_2
+TCMU_MCGRP_CONFIG,VAR_3
+genlmsg_end,FUNC_0
+genlmsg_multicast_allns,FUNC_1
+nlmsg_free,FUNC_2
+tcmu_destroy_genl_cmd_reply,FUNC_3
+tcmu_genl_family,VAR_4
+tcmu_init_genl_cmd_reply,FUNC_4
+tcmu_wait_genl_cmd_reply,FUNC_5
+tcmu_netlink_event_send,FUNC_6
+udev,VAR_5
+cmd,VAR_6
+skb,VAR_7
+msg_header,VAR_8
+ret,VAR_9

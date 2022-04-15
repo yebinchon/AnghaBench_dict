@@ -1,0 +1,16 @@
+KPC_ARM64_PMC_COUNT,VAR_0
+SREG_PMCR0,VAR_1
+SREG_PMCR1,VAR_2
+SREG_PMESR0,VAR_3
+SREG_PMESR1,VAR_4
+SREG_WRITE,FUNC_0
+cpu_number,FUNC_1
+kpc_set_rawpmu_config,FUNC_2
+saved_PMCR,VAR_5
+saved_PMESR,VAR_6
+saved_RAWPMU,VAR_7
+saved_counter,VAR_8
+write_counter,FUNC_3
+restore_regs,FUNC_4
+cpuid,VAR_9
+i,VAR_10

@@ -1,0 +1,10 @@
+CR_CHAN,FUNC_0
+DAS6402_AO_LSB_REG,FUNC_1
+comedi_readback_insn_read,FUNC_2
+inw,FUNC_3
+das6402_ao_insn_read,FUNC_4
+dev,VAR_0
+s,VAR_1
+insn,VAR_2
+data,VAR_3
+chan,VAR_4

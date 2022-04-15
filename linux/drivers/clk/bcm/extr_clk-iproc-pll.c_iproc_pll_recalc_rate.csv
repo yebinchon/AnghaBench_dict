@@ -1,0 +1,16 @@
+IPROC_CLK_PLL_HAS_NDIV_FRAC,VAR_0
+bit_mask,FUNC_0
+readl,FUNC_1
+to_iproc_clk,FUNC_2
+iproc_pll_recalc_rate,FUNC_3
+hw,VAR_1
+parent_rate,VAR_2
+clk,VAR_3
+pll,VAR_4
+ctrl,VAR_5
+val,VAR_6
+ndiv,VAR_7
+ndiv_int,VAR_8
+ndiv_frac,VAR_9
+pdiv,VAR_10
+rate,VAR_11

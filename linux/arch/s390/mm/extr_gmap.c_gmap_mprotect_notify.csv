@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+GMAP_NOTIFY_MPROT,VAR_1
+MACHINE_HAS_ESOP,VAR_2
+PAGE_MASK,VAR_3
+PROT_READ,VAR_4
+down_read,FUNC_0
+gmap_is_shadow,FUNC_1
+gmap_protect_range,FUNC_2
+up_read,FUNC_3
+gmap_mprotect_notify,FUNC_4
+gmap,VAR_5
+gaddr,VAR_6
+len,VAR_7
+prot,VAR_8
+rc,VAR_9

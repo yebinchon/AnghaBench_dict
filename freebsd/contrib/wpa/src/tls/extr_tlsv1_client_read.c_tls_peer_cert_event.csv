@@ -1,0 +1,16 @@
+TLS_PEER_CERTIFICATE,VAR_0
+os_memset,FUNC_0
+sha256_vector,FUNC_1
+stub1,FUNC_2
+wpabuf_alloc_copy,FUNC_3
+wpabuf_free,FUNC_4
+wpabuf_head,FUNC_5
+wpabuf_len,FUNC_6
+x509_name_string,FUNC_7
+tls_peer_cert_event,FUNC_8
+conn,VAR_1
+depth,VAR_2
+cert,VAR_3
+ev,VAR_4
+cert_buf,VAR_5
+subject,VAR_6

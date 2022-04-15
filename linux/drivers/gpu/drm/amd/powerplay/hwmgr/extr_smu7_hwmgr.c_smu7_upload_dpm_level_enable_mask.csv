@@ -1,0 +1,8 @@
+PPSMC_MSG_MCLKDPM_SetEnabledMask,VAR_0
+PPSMC_MSG_SCLKDPM_SetEnabledMask,VAR_1
+PP_TABLE_V1,VAR_2
+phm_apply_dal_min_voltage_request,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+smu7_upload_dpm_level_enable_mask,FUNC_2
+hwmgr,VAR_3
+data,VAR_4

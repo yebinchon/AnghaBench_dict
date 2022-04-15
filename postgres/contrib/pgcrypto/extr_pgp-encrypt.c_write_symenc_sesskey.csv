@@ -1,0 +1,13 @@
+PGP_PKT_SYMENCRYPTED_SESSKEY,VAR_0
+memcpy,FUNC_0
+pushf_write,FUNC_1
+px_memset,FUNC_2
+symencrypt_sesskey,FUNC_3
+write_normal_header,FUNC_4
+write_symenc_sesskey,FUNC_5
+ctx,VAR_1
+dst,VAR_2
+pkt,VAR_3
+pktlen,VAR_4
+res,VAR_5
+p,VAR_6

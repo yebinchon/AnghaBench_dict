@@ -1,0 +1,16 @@
+NLM_F_CREATE,VAR_0
+NLM_F_EXCL,VAR_1
+RTM_NEWCHAIN,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+tc_chain_notify,FUNC_2
+tcf_chain_create,FUNC_3
+tcf_chain_hold,FUNC_4
+tcf_chain_lookup,FUNC_5
+__tcf_chain_get,FUNC_6
+block,VAR_3
+chain_index,VAR_4
+create,VAR_5
+by_act,VAR_6
+chain,VAR_7
+is_first_reference,VAR_8

@@ -1,0 +1,9 @@
+PHM_PlatformCaps_SclkThrottleLowNotification,VAR_0
+PPSMC_MSG_SetLowGfxclkInterruptThreshold,VAR_1
+PP_CAP,FUNC_0
+cpu_to_le32,FUNC_1
+smum_send_msg_to_smc_with_parameter,FUNC_2
+vega10_update_sclk_threshold,FUNC_3
+hwmgr,VAR_2
+data,VAR_3
+low_sclk_interrupt_threshold,VAR_4

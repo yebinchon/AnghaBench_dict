@@ -1,0 +1,17 @@
+INVALID_FID_MASK,VAR_0
+INVALID_VID_MASK,VAR_1
+MSR_C_LO_INIT_FID_VID,VAR_2
+MSR_C_LO_VID_SHIFT,VAR_3
+MSR_FIDVID_CTL,VAR_4
+PLL_LOCK_CONVERSION,VAR_5
+count_off_irt,FUNC_0
+pr_debug,FUNC_1
+pr_err,FUNC_2
+query_current_values_with_pending_wait,FUNC_3
+wrmsr,FUNC_4
+write_new_fid,FUNC_5
+data,VAR_6
+fid,VAR_7
+lo,VAR_8
+savevid,VAR_9
+i,VAR_10

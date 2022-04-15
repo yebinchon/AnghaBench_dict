@@ -1,0 +1,15 @@
+NVRAM_trm_wait_30us,FUNC_0
+NVRAM_trm_write_cmd,FUNC_1
+NVR_BITIN,VAR_0
+NVR_BITOUT,VAR_1
+NVR_CLOCK,VAR_2
+NVR_SELECT,VAR_3
+TRMREG_GEN_NVRAM,VAR_4
+trm_reg_read8,FUNC_2
+trm_reg_write8,FUNC_3
+NVRAM_trm_set_data,FUNC_4
+pACB,VAR_5
+bAddr,VAR_6
+bData,VAR_7
+i,VAR_8
+bSendData,VAR_9

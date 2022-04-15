@@ -1,0 +1,10 @@
+EIO,VAR_0
+PCI_ERR_UNCOR_STATUS,VAR_1
+PCI_EXT_CAP_ID_ERR,VAR_2
+pci_find_ext_capability,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+pci_cleanup_aer_uncorrect_error_status,FUNC_3
+dev,VAR_3
+pos,VAR_4
+status,VAR_5

@@ -1,0 +1,12 @@
+kvm_pv_mmu_flush_tlb,FUNC_0
+kvm_pv_mmu_release_pt,FUNC_1
+kvm_pv_mmu_write,FUNC_2
+pv_mmu_peek_buffer,FUNC_3
+pv_mmu_read_buffer,FUNC_4
+kvm_pv_mmu_op_one,FUNC_5
+vcpu,VAR_0
+buffer,VAR_1
+header,VAR_2
+wpte,VAR_3
+ftlb,VAR_4
+rpt,VAR_5

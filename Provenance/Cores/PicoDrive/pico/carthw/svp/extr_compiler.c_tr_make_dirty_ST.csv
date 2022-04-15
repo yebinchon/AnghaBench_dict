@@ -1,0 +1,13 @@
+EOP_MOV_REG_LSL,FUNC_0
+EOP_MSR_IMM,FUNC_1
+EOP_MSR_REG,FUNC_2
+KRREG_ST,VAR_0
+SSP_FLAG_N,VAR_1
+SSP_FLAG_Z,VAR_2
+SSP_ST,VAR_3
+dirty_regb,VAR_4
+hostreg_r,VAR_5
+known_regb,VAR_6
+known_regs,VAR_7
+tr_make_dirty_ST,FUNC_3
+flags,VAR_8

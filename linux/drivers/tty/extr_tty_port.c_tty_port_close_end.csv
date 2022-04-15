@@ -1,0 +1,11 @@
+jiffies_to_msecs,FUNC_0
+msleep_interruptible,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+tty_ldisc_flush,FUNC_4
+tty_port_set_active,FUNC_5
+wake_up_interruptible,FUNC_6
+tty_port_close_end,FUNC_7
+port,VAR_0
+tty,VAR_1
+flags,VAR_2

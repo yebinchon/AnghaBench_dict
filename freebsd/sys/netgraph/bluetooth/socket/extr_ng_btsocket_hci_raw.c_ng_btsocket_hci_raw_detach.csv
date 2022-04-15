@@ -1,0 +1,15 @@
+KASSERT,FUNC_0
+LIST_REMOVE,FUNC_1
+M_NETGRAPH_BTSOCKET_HCI_RAW,VAR_0
+bzero,FUNC_2
+free,FUNC_3
+mtx_destroy,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+next,VAR_1
+ng_btsocket_hci_raw_node,VAR_2
+ng_btsocket_hci_raw_sockets_mtx,VAR_3
+so2hci_raw_pcb,FUNC_7
+ng_btsocket_hci_raw_detach,FUNC_8
+so,VAR_4
+pcb,VAR_5

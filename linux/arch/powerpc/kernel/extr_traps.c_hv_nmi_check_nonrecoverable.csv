@@ -1,0 +1,10 @@
+MSR_HV,VAR_0
+MSR_PR,VAR_1
+MSR_RI,VAR_2
+_stext,VAR_3
+end_real_trampolines,VAR_4
+end_virt_trampolines,VAR_5
+start_real_trampolines,VAR_6
+start_virt_trampolines,VAR_7
+hv_nmi_check_nonrecoverable,FUNC_0
+regs,VAR_8

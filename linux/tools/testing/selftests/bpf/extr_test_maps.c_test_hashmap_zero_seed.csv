@@ -1,0 +1,15 @@
+BPF_F_ZERO_SEED,VAR_0
+CHECK,FUNC_0
+bpf_map_get_next_key,FUNC_1
+close,FUNC_2
+helper_fill_hashmap,FUNC_3
+map_flags,VAR_1
+test_hashmap_zero_seed,FUNC_4
+i,VAR_2
+first,VAR_3
+second,VAR_4
+old_flags,VAR_5
+key,VAR_6
+next_first,VAR_7
+next_second,VAR_8
+key_ptr,VAR_9

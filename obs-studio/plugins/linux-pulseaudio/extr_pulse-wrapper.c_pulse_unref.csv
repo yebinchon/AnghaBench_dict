@@ -1,0 +1,13 @@
+pa_context_disconnect,FUNC_0
+pa_context_unref,FUNC_1
+pa_threaded_mainloop_free,FUNC_2
+pa_threaded_mainloop_stop,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+pulse_context,VAR_0
+pulse_lock,FUNC_6
+pulse_mainloop,VAR_1
+pulse_mutex,VAR_2
+pulse_refs,VAR_3
+pulse_unlock,FUNC_7
+pulse_unref,FUNC_8

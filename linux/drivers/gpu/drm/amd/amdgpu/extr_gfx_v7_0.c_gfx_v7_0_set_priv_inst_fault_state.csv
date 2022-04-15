@@ -1,0 +1,10 @@
+CP_INT_CNTL_RING0__PRIV_INSTR_INT_ENABLE_MASK,VAR_0
+RREG32,FUNC_0
+WREG32,FUNC_1
+mmCP_INT_CNTL_RING0,VAR_1
+gfx_v7_0_set_priv_inst_fault_state,FUNC_2
+adev,VAR_2
+src,VAR_3
+type,VAR_4
+state,VAR_5
+cp_int_cntl,VAR_6

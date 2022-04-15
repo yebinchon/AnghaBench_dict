@@ -1,0 +1,16 @@
+NL80211_REGDOM_SET_BY_CORE,VAR_0
+NUM_NL80211_BANDS,VAR_1
+REGULATORY_CUSTOM_REG,VAR_2
+REGULATORY_WIPHY_SELF_MANAGED,VAR_3
+get_cfg80211_regdom,FUNC_0
+get_last_request,FUNC_1
+handle_band,FUNC_2
+ignore_reg_update,FUNC_3
+reg_call_notifier,FUNC_4
+reg_process_beacons,FUNC_5
+reg_process_ht_flags,FUNC_6
+wiphy_update_regulatory,FUNC_7
+wiphy,VAR_4
+initiator,VAR_5
+band,VAR_6
+lr,VAR_7

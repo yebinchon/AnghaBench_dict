@@ -1,0 +1,13 @@
+NETMAP_REQ_PORT_HDR_GET,VAR_0
+NETMAP_REQ_PORT_HDR_SET,VAR_1
+NIOCCTRL,VAR_2
+ioctl,FUNC_0
+memset,FUNC_1
+nmreq_hdr_init,FUNC_2
+perror,FUNC_3
+printf,FUNC_4
+port_hdr_set_and_get,FUNC_5
+ctx,VAR_3
+req,VAR_4
+hdr,VAR_5
+ret,VAR_6

@@ -1,0 +1,13 @@
+DEAUTH_RX_EVENT,VAR_0
+DEAUTH_TX_EVENT,VAR_1
+MLME_EVENT,VAR_2
+cfg80211_rx_mlme_mgmt,FUNC_0
+cfg80211_tx_mlme_mgmt,FUNC_1
+drv_event_callback,FUNC_2
+ieee80211_report_disconnect,FUNC_3
+sdata,VAR_3
+buf,VAR_4
+len,VAR_5
+tx,VAR_6
+reason,VAR_7
+event,VAR_8

@@ -1,0 +1,15 @@
+HCI_ADVERTISING,VAR_0
+__hci_req_enable_advertising,FUNC_0
+__hci_req_schedule_adv_instance,FUNC_1
+__hci_req_start_ext_adv,FUNC_2
+__hci_req_update_adv_data,FUNC_3
+__hci_req_update_scan_rsp_data,FUNC_4
+adv_enable_complete,VAR_1
+ext_adv_capable,FUNC_5
+hci_dev_test_flag,FUNC_6
+hci_req_init,FUNC_7
+hci_req_run,FUNC_8
+list_empty,FUNC_9
+hci_req_reenable_advertising,FUNC_10
+hdev,VAR_2
+req,VAR_3

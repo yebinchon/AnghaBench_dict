@@ -1,0 +1,11 @@
+IDMAC_WM_EN,FUNC_0
+ipu_idmac_read,FUNC_1
+ipu_idmac_write,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ipu_idmac_enable_watermark,FUNC_5
+channel,VAR_0
+enable,VAR_1
+ipu,VAR_2
+flags,VAR_3
+val,VAR_4

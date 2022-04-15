@@ -1,0 +1,8 @@
+SW_INT_IRQNO_ENMI,VAR_0
+SW_INT_IRQ_PENDING_REG,FUNC_0
+aintc_write_4,FUNC_1
+mtx_lock_spin,FUNC_2
+mtx_unlock_spin,FUNC_3
+a10_intr_eoi,FUNC_4
+sc,VAR_1
+irq,VAR_2

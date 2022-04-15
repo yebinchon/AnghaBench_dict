@@ -1,0 +1,17 @@
+CloseHandle,FUNC_0
+ConvertSidToStringSidW,FUNC_1
+GetSidLengthRequired,FUNC_2
+GetTokenInformation,FUNC_3
+OpenProcessToken,FUNC_4
+TOKEN_QUERY,VAR_0
+TokenAppContainerSid,VAR_1
+free,FUNC_5
+malloc,FUNC_6
+get_app_sid,FUNC_7
+process,VAR_2
+ret,VAR_3
+size_ret,VAR_4
+success,VAR_5
+token,VAR_6
+info_len,VAR_7
+info,VAR_8

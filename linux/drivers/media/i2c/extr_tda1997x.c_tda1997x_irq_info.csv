@@ -1,0 +1,15 @@
+AUD_IF,VAR_0
+AVI_IF,VAR_1
+MASK_AUD_IF,VAR_2
+MASK_AVI_IF,VAR_3
+MASK_SPD_IF,VAR_4
+REG_INT_FLG_CLR_INFO,VAR_5
+SPD_IF,VAR_6
+io_read,FUNC_0
+io_write,FUNC_1
+tda1997x_parse_infoframe,FUNC_2
+tda1997x_irq_info,FUNC_3
+state,VAR_7
+flags,VAR_8
+sd,VAR_9
+source,VAR_10

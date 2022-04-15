@@ -1,0 +1,14 @@
+DRIVE_NO_ROOT_DIR,VAR_0
+DRIVE_RAMDISK,VAR_1
+DRIVE_UNKNOWN,VAR_2
+GetDriveTypeW,FUNC_0
+GetLastError,FUNC_1
+GetLogicalDrives,FUNC_2
+ok,FUNC_3
+skip,FUNC_4
+wine_dbgstr_w,FUNC_5
+test_GetDriveTypeW,FUNC_6
+drive,VAR_3
+existing_drive_letter,VAR_4
+logical_drives,VAR_5
+type,VAR_6

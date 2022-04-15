@@ -1,0 +1,13 @@
+SCI_BASE_REMOTE_DEVICE_STATE_READY,VAR_0
+SCI_SUCCESS,VAR_1
+SET_STATE_HANDLER,FUNC_0
+sci_base_state_machine_start,FUNC_1
+scic_cb_remote_device_ready,FUNC_2
+scic_cb_remote_device_start_complete,FUNC_3
+scic_sds_controller_remote_device_started,FUNC_4
+scic_sds_remote_device_get_controller,FUNC_5
+scic_sds_remote_device_state_handler_table,VAR_2
+scic_sds_remote_device_ready_state_enter,FUNC_6
+object,VAR_3
+the_controller,VAR_4
+this_device,VAR_5

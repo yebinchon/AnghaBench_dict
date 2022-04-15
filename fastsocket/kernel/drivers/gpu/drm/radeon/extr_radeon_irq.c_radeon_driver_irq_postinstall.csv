@@ -1,0 +1,9 @@
+CHIP_R600,VAR_0
+DRM_INIT_WAITQUEUE,FUNC_0
+RADEON_FAMILY_MASK,VAR_1
+RADEON_SW_INT_ENABLE,VAR_2
+atomic_set,FUNC_1
+radeon_irq_set_state,FUNC_2
+radeon_driver_irq_postinstall,FUNC_3
+dev,VAR_3
+dev_priv,VAR_4

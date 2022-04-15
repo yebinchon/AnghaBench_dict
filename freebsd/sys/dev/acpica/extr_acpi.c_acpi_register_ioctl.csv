@@ -1,0 +1,17 @@
+ACPI_LOCK,FUNC_0
+ACPI_UNLOCK,FUNC_1
+ENOMEM,VAR_0
+M_ACPIDEV,VAR_1
+M_NOWAIT,VAR_2
+TAILQ_INIT,FUNC_2
+TAILQ_INSERT_TAIL,FUNC_3
+acpi,VAR_3
+acpi_ioctl_hooks,VAR_4
+acpi_ioctl_hooks_initted,VAR_5
+link,VAR_6
+malloc,FUNC_4
+acpi_register_ioctl,FUNC_5
+cmd,VAR_7
+fn,VAR_8
+arg,VAR_9
+hp,VAR_10

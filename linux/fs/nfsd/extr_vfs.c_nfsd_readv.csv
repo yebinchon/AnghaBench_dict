@@ -1,0 +1,17 @@
+READ,VAR_0
+iov_iter_kvec,FUNC_0
+nfsd_finish_read,FUNC_1
+trace_nfsd_read_vector,FUNC_2
+vfs_iter_read,FUNC_3
+nfsd_readv,FUNC_4
+rqstp,VAR_1
+fhp,VAR_2
+file,VAR_3
+offset,VAR_4
+vec,VAR_5
+vlen,VAR_6
+count,VAR_7
+eof,VAR_8
+iter,VAR_9
+ppos,VAR_10
+host_err,VAR_11

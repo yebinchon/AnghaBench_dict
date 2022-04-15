@@ -1,0 +1,13 @@
+USB_DIR_IN,VAR_0
+to_usb_device,FUNC_0
+usb_rcvbulkpipe,FUNC_1
+usb_sndbulkpipe,FUNC_2
+mt76u_fill_bulk_urb,FUNC_3
+dev,VAR_1
+dir,VAR_2
+index,VAR_3
+urb,VAR_4
+complete_fn,VAR_5
+context,VAR_6
+udev,VAR_7
+pipe,VAR_8

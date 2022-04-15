@@ -1,0 +1,13 @@
+GIT_OBJECT_COMMIT,VAR_0
+assert_merge_and_or_remote_key_missing,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_commit_free,FUNC_4
+git_reference_free,FUNC_5
+git_reference_peel,FUNC_6
+git_repository_head,FUNC_7
+test_refs_branches_upstream__retrieve_a_remote_tracking_reference_from_a_branch_with_no_remote_returns_GIT_ENOTFOUND,FUNC_8
+head,VAR_1
+repository,VAR_2
+target,VAR_3

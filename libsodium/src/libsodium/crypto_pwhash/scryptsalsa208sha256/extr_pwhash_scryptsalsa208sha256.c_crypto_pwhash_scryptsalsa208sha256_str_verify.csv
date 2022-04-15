@@ -1,0 +1,15 @@
+crypto_pwhash_scryptsalsa208sha256_STRBYTES,VAR_0
+escrypt_free_local,FUNC_0
+escrypt_init_local,FUNC_1
+escrypt_r,FUNC_2
+memset,FUNC_3
+sodium_memcmp,FUNC_4
+sodium_memzero,FUNC_5
+sodium_strnlen,FUNC_6
+crypto_pwhash_scryptsalsa208sha256_str_verify,FUNC_7
+str,VAR_1
+passwd,VAR_2
+passwdlen,VAR_3
+wanted,VAR_4
+escrypt_local,VAR_5
+ret,VAR_6

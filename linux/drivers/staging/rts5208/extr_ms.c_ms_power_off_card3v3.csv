@@ -1,0 +1,14 @@
+CARD_OE,VAR_0
+FPGA_MS_PULL_CTL_BIT,VAR_1
+FPGA_PULL_CTL,VAR_2
+MS_CARD,VAR_3
+MS_OUTPUT_EN,VAR_4
+STATUS_FAIL,VAR_5
+STATUS_SUCCESS,VAR_6
+card_power_off,FUNC_0
+disable_card_clock,FUNC_1
+ms_pull_ctl_disable,FUNC_2
+rtsx_write_register,FUNC_3
+ms_power_off_card3v3,FUNC_4
+chip,VAR_7
+retval,VAR_8

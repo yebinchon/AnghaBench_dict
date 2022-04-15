@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+ICE_RXBUF_2048,VAR_1
+ICE_RX_DESC,FUNC_0
+cpu_to_le64,FUNC_1
+dma_sync_single_range_for_device,FUNC_2
+ice_alloc_mapped_page,FUNC_3
+ice_release_rx_desc,FUNC_4
+unlikely,FUNC_5
+ice_alloc_rx_bufs,FUNC_6
+rx_ring,VAR_2
+cleaned_count,VAR_3
+rx_desc,VAR_4
+ntu,VAR_5
+bi,VAR_6

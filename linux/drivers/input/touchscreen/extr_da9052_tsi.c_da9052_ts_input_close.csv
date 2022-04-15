@@ -1,0 +1,13 @@
+DA9052_IRQ_PENDOWN,VAR_0
+DA9052_IRQ_TSIREADY,VAR_1
+DA9052_TSI_CONT_A_REG,VAR_2
+cancel_delayed_work_sync,FUNC_0
+da9052_disable_irq,FUNC_1
+da9052_enable_irq,FUNC_2
+da9052_reg_update,FUNC_3
+da9052_ts_adc_toggle,FUNC_4
+input_get_drvdata,FUNC_5
+mb,FUNC_6
+da9052_ts_input_close,FUNC_7
+input_dev,VAR_3
+tsi,VAR_4

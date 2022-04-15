@@ -1,0 +1,14 @@
+RM_PLLCTL1C_PDB_PLL1,VAR_0
+RM_PLLCTL1C_PDB_PLL2,VAR_1
+RV_PLLCTL1C_PDB_PLL1_DISABLE,VAR_2
+RV_PLLCTL1C_PDB_PLL2_DISABLE,VAR_3
+R_PLLCTL1C,VAR_4
+dev_err,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+snd_soc_component_update_bits,FUNC_4
+power_down_audio_plls,FUNC_5
+component,VAR_5
+tscs42xx,VAR_6
+ret,VAR_7

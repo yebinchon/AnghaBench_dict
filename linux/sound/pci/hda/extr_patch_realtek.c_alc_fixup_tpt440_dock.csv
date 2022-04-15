@@ -1,0 +1,10 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+HDA_PINCFG_NO_HP_FIXUP,VAR_1
+snd_hda_apply_pincfgs,FUNC_0
+snd_hda_gen_reboot_notify,VAR_2
+alc_fixup_tpt440_dock,FUNC_1
+codec,VAR_3
+fix,VAR_4
+action,VAR_5
+pincfgs,VAR_6
+spec,VAR_7

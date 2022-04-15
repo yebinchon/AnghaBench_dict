@@ -1,0 +1,17 @@
+IKOT_WORK_INTERVAL,VAR_0
+IP_NULL,VAR_1
+IP_VALID,FUNC_0
+assert,FUNC_1
+ip_lock,FUNC_2
+ipc_kobject_set_atomically,FUNC_3
+ipc_port_alloc_kernel,FUNC_4
+ipc_port_make_send,FUNC_5
+ipc_port_make_sonce_locked,FUNC_6
+ipc_port_nsrequest,FUNC_7
+panic,FUNC_8
+work_interval_port_alloc,FUNC_9
+work_interval,VAR_2
+work_interval_port,VAR_3
+notify_port,VAR_4
+old_notify_port,VAR_5
+send_port,VAR_6

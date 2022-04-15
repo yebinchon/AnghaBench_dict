@@ -1,0 +1,8 @@
+BIOS_END,VAR_0
+BIOS_ROM_BASE,VAR_1
+BIOS_ROM_END,VAR_2
+IORESOURCE_MEM,VAR_3
+remove_e820_regions,FUNC_0
+resource_clip,FUNC_1
+arch_remove_reservations,FUNC_2
+avail,VAR_4

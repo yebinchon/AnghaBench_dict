@@ -1,0 +1,16 @@
+EnterFunction,FUNC_0
+IP_VS_RT_MODE_NON_LOCAL,VAR_0
+LeaveFunction,FUNC_1
+NFPROTO_IPV4,VAR_1
+NF_STOLEN,VAR_2
+__ip_vs_get_out_rt,FUNC_2
+ip_hdr,FUNC_3
+ip_send_check,FUNC_4
+ip_vs_send_or_cont,FUNC_5
+kfree_skb,FUNC_6
+ip_vs_bypass_xmit,FUNC_7
+skb,VAR_3
+cp,VAR_4
+pp,VAR_5
+ipvsh,VAR_6
+iph,VAR_7

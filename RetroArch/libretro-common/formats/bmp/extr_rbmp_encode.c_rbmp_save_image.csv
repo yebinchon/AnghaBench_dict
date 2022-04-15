@@ -1,0 +1,16 @@
+RBMP_SOURCE_TYPE_ARGB8888,VAR_0
+RETRO_VFS_FILE_ACCESS_HINT_NONE,VAR_1
+RETRO_VFS_FILE_ACCESS_WRITE,VAR_2
+dump_content,FUNC_0
+filestream_close,FUNC_1
+filestream_open,FUNC_2
+write_header_bmp,FUNC_3
+rbmp_save_image,FUNC_4
+filename,VAR_3
+frame,VAR_4
+width,VAR_5
+height,VAR_6
+pitch,VAR_7
+type,VAR_8
+ret,VAR_9
+file,VAR_10

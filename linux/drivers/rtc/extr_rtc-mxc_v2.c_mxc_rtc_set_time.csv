@@ -1,0 +1,13 @@
+SRTC_LPSCMR,VAR_0
+dev_get_drvdata,FUNC_0
+mxc_rtc_lock,FUNC_1
+mxc_rtc_sync_lp_locked,FUNC_2
+mxc_rtc_unlock,FUNC_3
+rtc_tm_to_time64,FUNC_4
+writel,FUNC_5
+mxc_rtc_set_time,FUNC_6
+dev,VAR_1
+tm,VAR_2
+pdata,VAR_3
+time,VAR_4
+ret,VAR_5

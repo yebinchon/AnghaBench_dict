@@ -1,0 +1,13 @@
+_repo,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_is_chmod_supported,FUNC_2
+cl_repo_get_bool,FUNC_3
+cl_repo_set_bool,FUNC_4
+cl_set_cleanup,FUNC_5
+cleanup_repository,VAR_1
+git_repository_free,FUNC_6
+git_repository_init,FUNC_7
+test_repo_init__reinit_overwrites_filemode,FUNC_8
+expected,VAR_2
+current_value,VAR_3

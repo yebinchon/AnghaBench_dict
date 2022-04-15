@@ -1,0 +1,7 @@
+MLX5_ACTION_IN_FIELD_OUT_IP_TTL,VAR_0
+MLX5_GET,FUNC_0
+field,VAR_1
+set_action_in,VAR_2
+dr_action_modify_check_is_ttl_modify,FUNC_1
+sw_action,VAR_3
+sw_field,VAR_4

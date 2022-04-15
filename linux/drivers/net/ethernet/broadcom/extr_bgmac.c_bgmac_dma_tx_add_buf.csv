@@ -1,0 +1,15 @@
+BGMAC_DESC_CTL0_EOT,VAR_0
+BGMAC_DESC_CTL1_LEN,VAR_1
+BGMAC_TX_RING_SLOTS,VAR_2
+cpu_to_le32,FUNC_0
+lower_32_bits,FUNC_1
+upper_32_bits,FUNC_2
+bgmac_dma_tx_add_buf,FUNC_3
+bgmac,VAR_3
+ring,VAR_4
+i,VAR_5
+len,VAR_6
+ctl0,VAR_7
+slot,VAR_8
+dma_desc,VAR_9
+ctl1,VAR_10

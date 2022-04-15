@@ -1,0 +1,17 @@
+CRYPTO_PACKET_FRIEND_REQ,VAR_0
+FRIENDCONN_STATUS_CONNECTED,VAR_1
+ONION_CLIENT_MAX_DATA_SIZE,VAR_2
+PACKET_ID_FRIEND_REQUESTS,VAR_3
+get_conn,FUNC_0
+memcpy,FUNC_1
+send_onion_data,FUNC_2
+write_cryptpacket,FUNC_3
+send_friend_request_packet,FUNC_4
+fr_c,VAR_4
+friendcon_id,VAR_5
+nospam_num,VAR_6
+data,VAR_7
+length,VAR_8
+friend_con,VAR_9
+packet,VAR_10
+num,VAR_11

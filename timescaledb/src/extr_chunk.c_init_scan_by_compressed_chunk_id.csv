@@ -1,0 +1,12 @@
+Anum_chunk_compressed_chunk_id_idx_compressed_chunk_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CHUNK,VAR_2
+CHUNK_COMPRESSED_CHUNK_ID_INDEX,VAR_3
+F_INT4EQ,VAR_4
+Int32GetDatum,FUNC_0
+catalog_get_index,FUNC_1
+ts_catalog_get,FUNC_2
+ts_scan_iterator_scan_key_init,FUNC_3
+init_scan_by_compressed_chunk_id,FUNC_4
+iterator,VAR_5
+compressed_chunk_id,VAR_6

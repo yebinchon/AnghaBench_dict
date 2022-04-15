@@ -1,0 +1,15 @@
+SER_INT_RXREADY,VAR_0
+SER_INT_TXIDLE,VAR_1
+SSCOM_UINTM,VAR_2
+SSCOM_UINTP,VAR_3
+bus_space_read_4,FUNC_0
+bus_space_write_4,FUNC_1
+uart_lock,FUNC_2
+uart_unlock,FUNC_3
+exynos4210_bus_ipend,FUNC_4
+sc,VAR_4
+ints,VAR_5
+txempty,VAR_6
+rxready,VAR_7
+reg,VAR_8
+ipend,VAR_9

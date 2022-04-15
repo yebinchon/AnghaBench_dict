@@ -1,0 +1,7 @@
+KVMCLOCK_UPDATE_DELAY,VAR_0
+KVM_REQ_CLOCK_UPDATE,VAR_1
+kvm_make_request,FUNC_0
+schedule_delayed_work,FUNC_1
+kvm_gen_kvmclock_update,FUNC_2
+v,VAR_2
+kvm,VAR_3

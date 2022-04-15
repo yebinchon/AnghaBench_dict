@@ -1,0 +1,17 @@
+DPCD_TRAINING_PATTERN_VIDEOIDLE,VAR_0
+DP_LANE_COUNT_SET,VAR_1
+DP_TEST_PATTERN_VIDEO_MODE,VAR_2
+DP_TRAINING_PATTERN_SEQUENCE_4,VAR_3
+LINK_TRAINING_LQA_FAIL,VAR_4
+LINK_TRAINING_SUCCESS,VAR_5
+core_link_write_dpcd,FUNC_0
+dp_set_hw_test_pattern,FUNC_1
+dpcd_set_training_pattern,FUNC_2
+get_supported_tp,FUNC_3
+perform_post_lt_adj_req_sequence,FUNC_4
+perform_link_training_int,FUNC_5
+link,VAR_6
+lt_settings,VAR_7
+status,VAR_8
+lane_count_set,VAR_9
+dpcd_pattern,VAR_10

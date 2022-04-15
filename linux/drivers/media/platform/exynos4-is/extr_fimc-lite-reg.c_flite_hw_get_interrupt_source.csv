@@ -1,0 +1,6 @@
+FLITE_REG_CISTATUS,VAR_0
+FLITE_REG_CISTATUS_IRQ_MASK,VAR_1
+readl,FUNC_0
+flite_hw_get_interrupt_source,FUNC_1
+dev,VAR_2
+intsrc,VAR_3

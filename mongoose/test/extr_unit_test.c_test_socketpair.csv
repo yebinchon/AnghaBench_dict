@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+ASSERT_EQ,FUNC_1
+ASSERT_STREQ,FUNC_2
+SOCK_DGRAM,VAR_0
+closesocket,FUNC_3
+mg_socketpair,FUNC_4
+recv,FUNC_5
+send,FUNC_6
+test_socketpair,FUNC_7
+sp,VAR_1
+foo,VAR_2
+buf,VAR_3

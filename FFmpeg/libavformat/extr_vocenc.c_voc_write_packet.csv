@@ -1,0 +1,15 @@
+VOC_TYPE_EXTENDED,VAR_0
+VOC_TYPE_NEW_VOICE_DATA,VAR_1
+VOC_TYPE_VOICE_DATA,VAR_2
+VOC_TYPE_VOICE_DATA_CONT,VAR_3
+avio_w8,FUNC_0
+avio_wl16,FUNC_1
+avio_wl24,FUNC_2
+avio_wl32,FUNC_3
+avio_write,FUNC_4
+voc_write_packet,FUNC_5
+s,VAR_4
+pkt,VAR_5
+voc,VAR_6
+par,VAR_7
+pb,VAR_8

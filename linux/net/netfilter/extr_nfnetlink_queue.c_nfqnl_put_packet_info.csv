@@ -1,0 +1,13 @@
+CHECKSUM_PARTIAL,VAR_0
+NFQA_SKB_CSUMNOTREADY,VAR_1
+NFQA_SKB_CSUM_NOTVERIFIED,VAR_2
+NFQA_SKB_GSO,VAR_3
+NFQA_SKB_INFO,VAR_4
+htonl,FUNC_0
+nla_put_be32,FUNC_1
+skb_is_gso,FUNC_2
+nfqnl_put_packet_info,FUNC_3
+nlskb,VAR_5
+packet,VAR_6
+csum_verify,VAR_7
+flags,VAR_8

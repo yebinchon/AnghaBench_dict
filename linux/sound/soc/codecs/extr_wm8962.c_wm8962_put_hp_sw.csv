@@ -1,0 +1,14 @@
+WM8962_HPOUTL_PGA_ENA,VAR_0
+WM8962_HPOUTL_VOLUME,VAR_1
+WM8962_HPOUTR_PGA_ENA,VAR_2
+WM8962_HPOUTR_VOLUME,VAR_3
+WM8962_PWR_MGMT_2,VAR_4
+snd_soc_component_read32,FUNC_0
+snd_soc_component_write,FUNC_1
+snd_soc_kcontrol_component,FUNC_2
+snd_soc_put_volsw,FUNC_3
+wm8962_put_hp_sw,FUNC_4
+kcontrol,VAR_5
+ucontrol,VAR_6
+component,VAR_7
+ret,VAR_8

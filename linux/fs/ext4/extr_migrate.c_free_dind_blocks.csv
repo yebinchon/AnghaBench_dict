@@ -1,0 +1,17 @@
+EXT4_FREE_BLOCKS_FORGET,VAR_0
+EXT4_FREE_BLOCKS_METADATA,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+ext4_free_blocks,FUNC_2
+ext4_sb_bread,FUNC_3
+extend_credit_for_blkdel,FUNC_4
+le32_to_cpu,FUNC_5
+put_bh,FUNC_6
+free_dind_blocks,FUNC_7
+handle,VAR_2
+inode,VAR_3
+i_data,VAR_4
+i,VAR_5
+tmp_idata,VAR_6
+bh,VAR_7
+max_entries,VAR_8

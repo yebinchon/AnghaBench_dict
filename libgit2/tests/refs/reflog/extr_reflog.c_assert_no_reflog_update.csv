@@ -1,0 +1,17 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+git_oid_fromstr,FUNC_2
+git_reference_create,FUNC_3
+git_reference_free,FUNC_4
+git_reflog_entrycount,FUNC_5
+git_reflog_free,FUNC_6
+git_reflog_read,FUNC_7
+assert_no_reflog_update,FUNC_8
+nlogs,VAR_1
+nlogs_after,VAR_2
+nlogs_master,VAR_3
+nlogs_master_after,VAR_4
+ref,VAR_5
+log,VAR_6
+id,VAR_7

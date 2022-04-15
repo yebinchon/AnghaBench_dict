@@ -1,0 +1,11 @@
+LP8860_CLEAR_FAULTS,VAR_0
+LP8860_FAULT,VAR_1
+LP8860_FAULT_CLEAR,VAR_2
+LP8860_LED_FAULT,VAR_3
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+lp8860_fault_check,FUNC_2
+led,VAR_4
+ret,VAR_5
+fault,VAR_6
+read_buf,VAR_7

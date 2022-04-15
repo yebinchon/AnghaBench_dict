@@ -1,0 +1,14 @@
+USB_ENDPOINT_XFERTYPE_MASK,VAR_0
+USB_ENDPOINT_XFER_INT,VAR_1
+dev_dbg,FUNC_0
+get_endpoint,FUNC_1
+get_iface_desc,FUNC_2
+roland_load_ctl,VAR_2
+snd_ctl_add,FUNC_3
+snd_ctl_new1,FUNC_4
+usb_set_interface,FUNC_5
+snd_usbmidi_switch_roland_altsetting,FUNC_6
+umidi,VAR_3
+intf,VAR_4
+hostif,VAR_5
+intfd,VAR_6

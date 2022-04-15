@@ -1,0 +1,9 @@
+RIO_DEV_PORT_N_CTL_CSR,FUNC_0
+RIO_PORT_N_CTL_LOCKOUT,VAR_0
+rio_read_config_32,FUNC_1
+rio_write_config_32,FUNC_2
+rio_set_port_lockout,FUNC_3
+rdev,VAR_1
+pnum,VAR_2
+lock,VAR_3
+regval,VAR_4

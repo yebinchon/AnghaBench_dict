@@ -1,0 +1,13 @@
+RTC_YEAR_OFFSET,VAR_0
+TPS80031_ALARM_SECONDS_REG,VAR_1
+TPS80031_RTC_ALARM_NUM_REGS,VAR_2
+TPS80031_SLAVE_ID1,VAR_3
+bin2bcd,FUNC_0
+dev_err,FUNC_1
+tps80031_rtc_alarm_irq_enable,FUNC_2
+tps80031_writes,FUNC_3
+tps80031_rtc_set_alarm,FUNC_4
+dev,VAR_4
+alrm,VAR_5
+buff,VAR_6
+ret,VAR_7

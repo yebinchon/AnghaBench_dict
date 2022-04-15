@@ -1,0 +1,11 @@
+INV_MPU6050_BIT_SLEEP,VAR_0
+INV_MPU6050_REG_UP_TIME_MAX,VAR_1
+INV_MPU6050_REG_UP_TIME_MIN,VAR_2
+dev_dbg,FUNC_0
+regmap_get_device,FUNC_1
+regmap_write,FUNC_2
+usleep_range,FUNC_3
+inv_mpu6050_set_power_itg,FUNC_4
+st,VAR_3
+power_on,VAR_4
+result,VAR_5

@@ -1,0 +1,10 @@
+PTHREAD_REQUIRE,FUNC_0
+printf,FUNC_1
+pthread_cond_signal,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+static_cond,VAR_0
+static_mutex,VAR_1
+signal_before_unlock_static_init_threadfunc,FUNC_5
+arg,VAR_2
+shared,VAR_3

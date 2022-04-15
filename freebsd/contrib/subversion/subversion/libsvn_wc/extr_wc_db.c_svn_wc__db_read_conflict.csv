@@ -1,0 +1,15 @@
+SVN_ERR,FUNC_0
+VERIFY_USABLE_WCROOT,FUNC_1
+svn_error_trace,FUNC_2
+svn_wc__db_read_conflict_internal,FUNC_3
+svn_wc__db_wcroot_parse_local_abspath,FUNC_4
+svn_wc__db_read_conflict,FUNC_5
+conflict,VAR_0
+kind,VAR_1
+props,VAR_2
+db,VAR_3
+local_abspath,VAR_4
+result_pool,VAR_5
+scratch_pool,VAR_6
+wcroot,VAR_7
+local_relpath,VAR_8

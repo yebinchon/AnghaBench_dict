@@ -1,0 +1,16 @@
+ETIMEDOUT,VAR_0
+PALMAS_ADC_CONVERSION_TIMEOUT,VAR_1
+PALMAS_GPADC_BASE,VAR_2
+PALMAS_GPADC_SW_CONV0_LSB,VAR_3
+PALMAS_GPADC_SW_SELECT,VAR_4
+PALMAS_GPADC_SW_SELECT_SW_START_CONV0,VAR_5
+dev_err,FUNC_0
+init_completion,FUNC_1
+palmas_bulk_read,FUNC_2
+palmas_update_bits,FUNC_3
+wait_for_completion_timeout,FUNC_4
+palmas_gpadc_start_conversion,FUNC_5
+adc,VAR_6
+adc_chan,VAR_7
+val,VAR_8
+ret,VAR_9

@@ -1,0 +1,17 @@
+PageIsNew,FUNC_0
+PageSetLSN,FUNC_1
+REGBUF_FORCE_IMAGE,VAR_0
+REGBUF_STANDARD,VAR_1
+RM_XLOG_ID,VAR_2
+XLOG_FPI,VAR_3
+XLogBeginInsert,FUNC_2
+XLogInsert,FUNC_3
+XLogRegisterBlock,FUNC_4
+log_newpage,FUNC_5
+rnode,VAR_4
+forkNum,VAR_5
+blkno,VAR_6
+page,VAR_7
+page_std,VAR_8
+flags,VAR_9
+recptr,VAR_10

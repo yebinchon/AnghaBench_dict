@@ -1,0 +1,13 @@
+FAULT_FLAG_ALLOW_RETRY,VAR_0
+FAULT_FLAG_KILLABLE,VAR_1
+FAULT_FLAG_RETRY_NOWAIT,VAR_2
+__lock_page,FUNC_0
+__lock_page_killable,FUNC_1
+up_read,FUNC_2
+wait_on_page_locked,FUNC_3
+wait_on_page_locked_killable,FUNC_4
+__lock_page_or_retry,FUNC_5
+page,VAR_3
+mm,VAR_4
+flags,VAR_5
+ret,VAR_6

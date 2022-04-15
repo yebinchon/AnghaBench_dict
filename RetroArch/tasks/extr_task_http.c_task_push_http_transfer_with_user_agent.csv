@@ -1,0 +1,12 @@
+net_http_connection_new,FUNC_0
+net_http_connection_set_user_agent,FUNC_1
+string_is_empty,FUNC_2
+task_push_http_transfer_generic,FUNC_3
+task_push_http_transfer_with_user_agent,FUNC_4
+url,VAR_0
+mute,VAR_1
+type,VAR_2
+user_agent,VAR_3
+cb,VAR_4
+user_data,VAR_5
+conn,VAR_6

@@ -1,0 +1,7 @@
+XFRMA_SET_MARK,VAR_0
+XFRMA_SET_MARK_MASK,VAR_1
+nla_put_u32,FUNC_0
+xfrm_smark_put,FUNC_1
+skb,VAR_2
+m,VAR_3
+ret,VAR_4

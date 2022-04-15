@@ -1,0 +1,12 @@
+EMULATE_DONE,VAR_0
+KVM_EXIT_IRQ_WINDOW_OPEN,VAR_1
+KVM_REQ_UNHALT,VAR_2
+KVM_TRACE_EXIT_WAIT,VAR_3
+kvm_check_request,FUNC_0
+kvm_clear_request,FUNC_1
+kvm_debug,FUNC_2
+kvm_vcpu_block,FUNC_3
+kvm_vz_lose_htimer,FUNC_4
+trace_kvm_exit,FUNC_5
+kvm_mips_emul_wait,FUNC_6
+vcpu,VAR_4

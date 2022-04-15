@@ -1,0 +1,13 @@
+EFSCORRUPTED,VAR_0
+XFS_DIR3_LEAF_CRC_OFF,VAR_1
+cpu_to_be64,FUNC_0
+xfs_buf_update_cksum,FUNC_1
+xfs_dir3_leaf_verify,FUNC_2
+xfs_sb_version_hascrc,FUNC_3
+xfs_verifier_error,FUNC_4
+xfs_dir3_leaf_write_verify,FUNC_5
+bp,VAR_2
+mp,VAR_3
+bip,VAR_4
+hdr3,VAR_5
+fa,VAR_6

@@ -1,0 +1,14 @@
+FLAG_LOST_RETRANS,VAR_0
+FLAG_SND_UNA_ADVANCED,VAR_1
+tcp_is_rack,FUNC_0
+tcp_is_reno,FUNC_1
+tcp_newreno_mark_lost,FUNC_2
+tcp_rack_mark_lost,FUNC_3
+tcp_rtx_queue_empty,FUNC_4
+tcp_sk,FUNC_5
+unlikely,FUNC_6
+tcp_identify_packet_loss,FUNC_7
+sk,VAR_2
+ack_flag,VAR_3
+tp,VAR_4
+prior_retrans,VAR_5

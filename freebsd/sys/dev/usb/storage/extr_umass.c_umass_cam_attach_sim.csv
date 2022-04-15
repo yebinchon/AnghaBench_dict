@@ -1,0 +1,14 @@
+CAM_SUCCESS,VAR_0
+DEVNAME_SIM,VAR_1
+ENOMEM,VAR_2
+cam_sim_alloc,FUNC_0
+cam_simq_alloc,FUNC_1
+cam_simq_free,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+umass_cam_action,VAR_3
+umass_cam_poll,VAR_4
+xpt_bus_register,FUNC_5
+umass_cam_attach_sim,FUNC_6
+sc,VAR_5
+devq,VAR_6

@@ -1,0 +1,17 @@
+ASSERT_VOP_LOCKED,FUNC_0
+BO_LOCK,FUNC_1
+BO_UNLOCK,FUNC_2
+EAGAIN,VAR_0
+MPASS,FUNC_3
+OFF_TO_IDX,FUNC_4
+PAGE_SIZE,VAR_1
+v_inval_buf_range_locked,FUNC_5
+vn_pages_remove,FUNC_6
+v_inval_buf_range,FUNC_7
+vp,VAR_2
+startlbn,VAR_3
+endlbn,VAR_4
+blksize,VAR_5
+bo,VAR_6
+start,VAR_7
+end,VAR_8

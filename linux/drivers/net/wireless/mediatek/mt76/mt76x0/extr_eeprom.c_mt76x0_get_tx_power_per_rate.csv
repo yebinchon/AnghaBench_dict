@@ -1,0 +1,16 @@
+MT_EE_TX_POWER_BYRATE_BASE,VAR_0
+NL80211_BAND_2GHZ,VAR_1
+memset,FUNC_0
+mt76x02_add_rate_power_offset,FUNC_1
+mt76x02_eeprom_get,FUNC_2
+mt76x0_get_delta,FUNC_3
+mt76x0_tssi_enabled,FUNC_4
+s6_to_s8,FUNC_5
+mt76x0_get_tx_power_per_rate,FUNC_6
+dev,VAR_2
+chan,VAR_3
+t,VAR_4
+is_2ghz,VAR_5
+val,VAR_6
+addr,VAR_7
+delta,VAR_8

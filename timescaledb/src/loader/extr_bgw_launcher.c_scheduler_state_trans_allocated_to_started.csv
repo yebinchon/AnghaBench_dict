@@ -1,0 +1,12 @@
+ALLOCATED,VAR_0
+Assert,FUNC_0
+STARTED,VAR_1
+SetInvalidVirtualTransactionId,FUNC_1
+register_entrypoint_for_db,FUNC_2
+report_error_on_worker_register_failure,FUNC_3
+scheduler_modify_state,FUNC_4
+wait_for_background_worker_startup,FUNC_5
+scheduler_state_trans_allocated_to_started,FUNC_6
+entry,VAR_2
+worker_pid,VAR_3
+worker_registered,VAR_4

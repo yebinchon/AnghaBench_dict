@@ -1,0 +1,11 @@
+RT_MUTEX_FULL_CHAINWALK,VAR_0
+debug_rt_mutex_print_deadlock,FUNC_0
+lockdep_assert_held,FUNC_1
+rt_mutex_owner,FUNC_2
+task_blocks_on_rt_mutex,FUNC_3
+try_to_take_rt_mutex,FUNC_4
+__rt_mutex_start_proxy_lock,FUNC_5
+lock,VAR_1
+waiter,VAR_2
+task,VAR_3
+ret,VAR_4

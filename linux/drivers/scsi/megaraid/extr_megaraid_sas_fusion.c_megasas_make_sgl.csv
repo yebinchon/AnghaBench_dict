@@ -1,0 +1,13 @@
+MPI25_SAS_DEVICE0_FLAGS_ENABLED_FAST_PATH,VAR_0
+NVME_PD,VAR_1
+le16_to_cpu,FUNC_0
+megasas_make_prp_nvme,FUNC_1
+megasas_make_sgl_fusion,FUNC_2
+scsi_dma_map,FUNC_3
+megasas_make_sgl,FUNC_4
+instance,VAR_2
+scp,VAR_3
+cmd,VAR_4
+sge_count,VAR_5
+build_prp,VAR_6
+sgl_chain64,VAR_7

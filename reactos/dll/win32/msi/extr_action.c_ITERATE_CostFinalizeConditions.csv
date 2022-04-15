@@ -1,0 +1,17 @@
+ERR,FUNC_0
+ERROR_SUCCESS,VAR_0
+MSICONDITION_TRUE,VAR_1
+MSI_EvaluateConditionW,FUNC_1
+MSI_RecordGetInteger,FUNC_2
+MSI_RecordGetString,FUNC_3
+TRACE,FUNC_4
+debugstr_w,FUNC_5
+msi_get_loaded_feature,FUNC_6
+ITERATE_CostFinalizeConditions,FUNC_7
+row,VAR_2
+param,VAR_3
+package,VAR_4
+name,VAR_5
+feature,VAR_6
+Condition,VAR_7
+level,VAR_8

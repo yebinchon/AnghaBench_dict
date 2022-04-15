@@ -1,0 +1,10 @@
+HCI_READ_LOCAL_VERSION_INFO,VAR_0
+STREAM_TO_UINT16,FUNC_0
+STREAM_TO_UINT8,FUNC_1
+assert,FUNC_2
+osi_free,FUNC_3
+read_command_complete_header,FUNC_4
+parse_read_local_version_info_response,FUNC_5
+response,VAR_1
+bt_version,VAR_2
+stream,VAR_3

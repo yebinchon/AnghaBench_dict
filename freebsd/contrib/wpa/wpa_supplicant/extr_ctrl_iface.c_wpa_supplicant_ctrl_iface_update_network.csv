@@ -1,0 +1,14 @@
+MSG_DEBUG,VAR_0
+eapol_sm_invalidate_cached_session,FUNC_0
+os_strcmp,FUNC_1
+wpa_config_set,FUNC_2
+wpa_config_update_prio_list,FUNC_3
+wpa_config_update_psk,FUNC_4
+wpa_printf,FUNC_5
+wpa_sm_pmksa_cache_flush,FUNC_6
+wpa_supplicant_ctrl_iface_update_network,FUNC_7
+wpa_s,VAR_1
+ssid,VAR_2
+name,VAR_3
+value,VAR_4
+ret,VAR_5

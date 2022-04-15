@@ -1,0 +1,15 @@
+DPRINT,FUNC_0
+ExAcquireResourceExclusiveLite,FUNC_1
+ExReleaseResourceLite,FUNC_2
+FILE_OPENED,VAR_0
+IRPCONTEXT_CANWAIT,VAR_1
+NtfsCreateFile,FUNC_3
+NtfsGlobalData,VAR_2
+NtfsMarkIrpContextForQueue,FUNC_4
+STATUS_SUCCESS,VAR_3
+TRUE,VAR_4
+NtfsCreate,FUNC_5
+IrpContext,VAR_5
+DeviceExt,VAR_6
+Status,VAR_7
+DeviceObject,VAR_8

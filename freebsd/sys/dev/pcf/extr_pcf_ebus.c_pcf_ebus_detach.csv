@@ -1,0 +1,12 @@
+DEVTOSOFTC,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_generic_detach,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_delete_child,FUNC_4
+mtx_destroy,FUNC_5
+pcf_ebus_detach,FUNC_6
+dev,VAR_2
+sc,VAR_3
+rv,VAR_4

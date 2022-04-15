@@ -1,0 +1,17 @@
+V2_CLOCK_8PRE_FETCH_DISABLE,VAR_0
+V2_CLOCK_8PRE_FETCH_ENABLE,VAR_1
+V2_CLOCK_STATUS_OFFSET,VAR_2
+V2_CLOCK_TRAVELER_FETCH_DISABLE,VAR_3
+V2_CLOCK_TRAVELER_FETCH_ENABLE,VAR_4
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+snd_motu_spec_8pre,VAR_5
+snd_motu_spec_traveler,VAR_6
+snd_motu_transaction_read,FUNC_2
+snd_motu_transaction_write,FUNC_3
+v2_switch_fetching_mode,FUNC_4
+motu,VAR_7
+enable,VAR_8
+reg,VAR_9
+data,VAR_10
+err,VAR_11

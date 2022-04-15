@@ -1,0 +1,10 @@
+SYS_CTRL_CLK_DIVIDER_MASK,VAR_0
+SYS_CTRL_CLK_DIVIDER_VALUE_OFFSET,VAR_1
+readl,FUNC_0
+to_cpu_clk,FUNC_1
+clk_cpu_recalc_rate,FUNC_2
+hwclk,VAR_2
+parent_rate,VAR_3
+cpuclk,VAR_4
+reg,VAR_5
+div,VAR_6

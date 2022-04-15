@@ -1,0 +1,12 @@
+TCODE_WRITE_QUADLET_REQUEST,VAR_0
+TSCM_ADDR_BASE,VAR_1
+TSCM_OFFSET_LED_POWER,VAR_2
+TSCM_OFFSET_MIDI_TX_ADDR_HI,VAR_3
+TSCM_OFFSET_MIDI_TX_ADDR_LO,VAR_4
+TSCM_OFFSET_MIDI_TX_ON,VAR_5
+cpu_to_be32,FUNC_0
+fw_core_remove_address_handler,FUNC_1
+snd_fw_transaction,FUNC_2
+snd_tscm_transaction_unregister,FUNC_3
+tscm,VAR_6
+reg,VAR_7

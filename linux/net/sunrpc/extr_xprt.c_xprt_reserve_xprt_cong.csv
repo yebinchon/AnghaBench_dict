@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+RPC_IS_SOFT,FUNC_0
+XPRT_LOCKED,VAR_1
+XPRT_WRITE_SPACE,VAR_2
+dprintk,FUNC_1
+rpc_sleep_on,FUNC_2
+rpc_sleep_on_timeout,FUNC_3
+test_and_set_bit,FUNC_4
+test_bit,FUNC_5
+xprt_clear_locked,FUNC_6
+xprt_need_congestion_window_wait,FUNC_7
+xprt_request_timeout,FUNC_8
+xprt_reserve_xprt_cong,FUNC_9
+xprt,VAR_3
+task,VAR_4
+req,VAR_5

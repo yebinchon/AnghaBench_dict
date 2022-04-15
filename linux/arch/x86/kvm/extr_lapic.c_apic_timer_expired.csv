@@ -1,0 +1,11 @@
+__kvm_wait_lapic_expire,FUNC_0
+apic_lvtt_tscdeadline,FUNC_1
+atomic_inc,FUNC_2
+atomic_read,FUNC_3
+kvm_apic_inject_pending_timer_irqs,FUNC_4
+kvm_set_pending_timer,FUNC_5
+kvm_use_posted_timer_interrupt,FUNC_6
+apic_timer_expired,FUNC_7
+apic,VAR_0
+vcpu,VAR_1
+ktimer,VAR_2

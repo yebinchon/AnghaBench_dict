@@ -1,0 +1,11 @@
+MMC_CAP2_CD_ACTIVE_HIGH,VAR_0
+MMC_CAP_NONREMOVABLE,VAR_1
+MSDC_PS,VAR_2
+MSDC_PS_CDSTS,VAR_3
+mmc_gpio_get_cd,FUNC_0
+mmc_priv,FUNC_1
+readl,FUNC_2
+msdc_get_cd,FUNC_3
+mmc,VAR_4
+host,VAR_5
+val,VAR_6

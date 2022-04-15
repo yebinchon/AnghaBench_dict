@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+DBG_DUMP_EVENT_LIST,FUNC_1
+DPRINT1,FUNC_2
+EngFreeMem,FUNC_3
+FALSE,VAR_0
+MEM_RELEASE,VAR_1
+NT_SUCCESS,FUNC_4
+NtCurrentProcess,FUNC_5
+ZwFreeVirtualMemory,FUNC_6
+GdiPoolDeleteSection,FUNC_7
+pPool,VAR_2
+pSection,VAR_3
+status,VAR_4
+cjSize,VAR_5

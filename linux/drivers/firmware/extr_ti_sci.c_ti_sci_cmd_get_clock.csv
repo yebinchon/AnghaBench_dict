@@ -1,0 +1,13 @@
+MSG_CLOCK_SW_STATE_REQ,VAR_0
+MSG_FLAG_CLOCK_ALLOW_FREQ_CHANGE,VAR_1
+MSG_FLAG_CLOCK_ALLOW_SSC,VAR_2
+MSG_FLAG_CLOCK_INPUT_TERM,VAR_3
+ti_sci_set_clock_state,FUNC_0
+ti_sci_cmd_get_clock,FUNC_1
+handle,VAR_4
+dev_id,VAR_5
+clk_id,VAR_6
+needs_ssc,VAR_7
+can_change_freq,VAR_8
+enable_input_term,VAR_9
+flags,VAR_10

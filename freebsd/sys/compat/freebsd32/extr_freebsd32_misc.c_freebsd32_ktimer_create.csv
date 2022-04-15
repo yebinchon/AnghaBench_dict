@@ -1,0 +1,13 @@
+convert_sigevent32,FUNC_0
+copyin,FUNC_1
+copyout,FUNC_2
+kern_ktimer_create,FUNC_3
+kern_ktimer_delete,FUNC_4
+freebsd32_ktimer_create,FUNC_5
+td,VAR_0
+uap,VAR_1
+ev32,VAR_2
+ev,VAR_3
+evp,VAR_4
+error,VAR_5
+id,VAR_6

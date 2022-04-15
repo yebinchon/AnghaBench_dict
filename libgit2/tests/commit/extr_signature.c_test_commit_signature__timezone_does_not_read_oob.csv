@@ -1,0 +1,12 @@
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_s,FUNC_2
+cl_git_pass,FUNC_3
+git__calloc,FUNC_4
+git_signature__parse,FUNC_5
+git_signature_free,FUNC_6
+strlen,FUNC_7
+test_commit_signature__timezone_does_not_read_oob,FUNC_8
+header,VAR_0
+header_end,VAR_1
+sig,VAR_2

@@ -1,0 +1,8 @@
+__tape_cancel_io,FUNC_0
+get_ccwdev_lock,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+tape_cancel_io,FUNC_4
+device,VAR_0
+request,VAR_1
+rc,VAR_2

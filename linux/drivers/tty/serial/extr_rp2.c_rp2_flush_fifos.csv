@@ -1,0 +1,9 @@
+RP2_UART_CTL,VAR_0
+RP2_UART_CTL_FLUSH_RX_m,VAR_1
+RP2_UART_CTL_FLUSH_TX_m,VAR_2
+readl,FUNC_0
+rp2_rmw_clr,FUNC_1
+rp2_rmw_set,FUNC_2
+udelay,FUNC_3
+rp2_flush_fifos,FUNC_4
+up,VAR_3

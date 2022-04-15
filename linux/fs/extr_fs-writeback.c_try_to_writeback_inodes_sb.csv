@@ -1,0 +1,7 @@
+__writeback_inodes_sb_nr,FUNC_0
+down_read_trylock,FUNC_1
+get_nr_dirty_pages,FUNC_2
+up_read,FUNC_3
+try_to_writeback_inodes_sb,FUNC_4
+sb,VAR_0
+reason,VAR_1

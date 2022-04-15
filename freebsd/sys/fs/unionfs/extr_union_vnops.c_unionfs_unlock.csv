@@ -1,0 +1,17 @@
+KASSERT_UNIONFS_VNODE,FUNC_0
+LK_RELEASE,VAR_0
+NULLVP,VAR_1
+VOP_UNLOCK,FUNC_1
+VTOUNIONFS,FUNC_2
+vdrop,FUNC_3
+vholdnz,FUNC_4
+vop_stdunlock,FUNC_5
+unionfs_unlock,FUNC_6
+ap,VAR_2
+error,VAR_3
+flags,VAR_4
+uhold,VAR_5
+vp,VAR_6
+lvp,VAR_7
+uvp,VAR_8
+unp,VAR_9

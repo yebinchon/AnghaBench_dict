@@ -1,0 +1,16 @@
+CF_MAXHASH,VAR_0
+assert,FUNC_0
+cf_hmac_init,FUNC_1
+hmac_drbg_update,FUNC_2
+mem_clean,FUNC_3
+memset,FUNC_4
+cf_hmac_drbg_init,FUNC_5
+ctx,VAR_1
+hash,VAR_2
+entropy,VAR_3
+nentropy,VAR_4
+nonce,VAR_5
+nnonce,VAR_6
+persn,VAR_7
+npersn,VAR_8
+initial_key,VAR_9

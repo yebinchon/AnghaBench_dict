@@ -1,0 +1,14 @@
+FW_ACL_VLAN_CMD,VAR_0
+FW_CMD_OP_V,FUNC_0
+FW_CMD_READ_F,VAR_1
+FW_CMD_REQUEST_F,VAR_2
+FW_LEN16,FUNC_1
+be16_to_cpu,FUNC_2
+cpu_to_be32,FUNC_3
+htonl,FUNC_4
+t4vf_wr_mbox,FUNC_5
+t4vf_get_vf_vlan_acl,FUNC_6
+adapter,VAR_3
+cmd,VAR_4
+vlan,VAR_5
+ret,VAR_6

@@ -1,0 +1,13 @@
+LSM_PRLIMIT_READ,VAR_0
+LSM_PRLIMIT_WRITE,VAR_1
+PROCESS__GETRLIMIT,VAR_2
+PROCESS__SETRLIMIT,VAR_3
+SECCLASS_PROCESS,VAR_4
+avc_has_perm,FUNC_0
+cred_sid,FUNC_1
+selinux_state,VAR_5
+selinux_task_prlimit,FUNC_2
+cred,VAR_6
+tcred,VAR_7
+flags,VAR_8
+av,VAR_9

@@ -1,0 +1,10 @@
+PCI_EHCI_FLADJ_REG,VAR_0
+USB_CONFIG,VAR_1
+USB_MSR_REG,FUNC_0
+_rdmsr,FUNC_1
+_wrmsr,FUNC_2
+pci_write_config_dword,FUNC_3
+loongson_cs5536_ehci_fixup,FUNC_4
+pdev,VAR_2
+hi,VAR_3
+lo,VAR_4

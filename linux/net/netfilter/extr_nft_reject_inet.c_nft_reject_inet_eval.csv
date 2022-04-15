@@ -1,0 +1,16 @@
+NF_DROP,VAR_0
+nf_send_reset,FUNC_0
+nf_send_reset6,FUNC_1
+nf_send_unreach,FUNC_2
+nf_send_unreach6,FUNC_3
+nft_expr_priv,FUNC_4
+nft_hook,FUNC_5
+nft_net,FUNC_6
+nft_pf,FUNC_7
+nft_reject_icmp_code,FUNC_8
+nft_reject_icmpv6_code,FUNC_9
+nft_reject_inet_eval,FUNC_10
+expr,VAR_1
+regs,VAR_2
+pkt,VAR_3
+priv,VAR_4

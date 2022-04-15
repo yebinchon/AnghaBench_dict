@@ -1,0 +1,17 @@
+CFG_BASE,VAR_0
+GOYA_PKT_CTL_EB_SHIFT,VAR_1
+GOYA_PKT_CTL_MB_SHIFT,VAR_2
+GOYA_PKT_CTL_OPCODE_SHIFT,VAR_3
+PACKET_MSG_PROT,VAR_4
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+mmPCIE_DBI_MSIX_DOORBELL_OFF,VAR_5
+goya_add_end_of_cb_packets,FUNC_2
+hdev,VAR_6
+kernel_address,VAR_7
+len,VAR_8
+cq_addr,VAR_9
+cq_val,VAR_10
+msix_vec,VAR_11
+cq_pkt,VAR_12
+tmp,VAR_13

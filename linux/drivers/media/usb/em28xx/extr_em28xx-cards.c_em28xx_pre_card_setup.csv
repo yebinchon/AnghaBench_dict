@@ -1,0 +1,16 @@
+EM2820_R08_GPIO_CTRL,VAR_0
+EM2880_R04_GPO,VAR_1
+EM28XX_ANALOG_MODE,VAR_2
+EM28XX_R06_I2C_CLK,VAR_3
+EM28XX_R0F_XCLK,VAR_4
+EM28XX_SUSPEND,VAR_5
+em28xx_gpio_set,FUNC_0
+em28xx_set_mode,FUNC_1
+em28xx_set_xclk_i2c_speed,FUNC_2
+em28xx_wait_until_ac97_features_equals,FUNC_3
+em28xx_write_reg,FUNC_4
+em28xx_write_regs,FUNC_5
+msleep,FUNC_6
+usleep_range,FUNC_7
+em28xx_pre_card_setup,FUNC_8
+dev,VAR_6

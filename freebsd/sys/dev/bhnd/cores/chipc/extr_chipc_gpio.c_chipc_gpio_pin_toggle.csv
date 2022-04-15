@@ -1,0 +1,16 @@
+CC_GPIO_LOCK,FUNC_0
+CC_GPIO_RDFLAG,FUNC_1
+CC_GPIO_UNLOCK,FUNC_2
+CC_GPIO_VALID_PIN,FUNC_3
+CC_GPIO_WRFLAG,FUNC_4
+EINVAL,VAR_0
+ENODEV,VAR_1
+GPIOOUT,VAR_2
+chipc_gpio_pin_get_mode,FUNC_5
+device_get_softc,FUNC_6
+chipc_gpio_pin_toggle,FUNC_7
+dev,VAR_3
+pin_num,VAR_4
+sc,VAR_5
+pin_high,VAR_6
+error,VAR_7

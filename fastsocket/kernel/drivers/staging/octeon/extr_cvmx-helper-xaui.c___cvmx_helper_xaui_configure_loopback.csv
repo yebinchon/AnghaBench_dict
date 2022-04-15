@@ -1,0 +1,13 @@
+CVMX_GMXX_XAUI_EXT_LOOPBACK,FUNC_0
+CVMX_PCSXX_CONTROL1_REG,FUNC_1
+__cvmx_helper_xaui_enable,FUNC_2
+cvmx_helper_get_interface_num,FUNC_3
+cvmx_read_csr,FUNC_4
+cvmx_write_csr,FUNC_5
+__cvmx_helper_xaui_configure_loopback,FUNC_6
+ipd_port,VAR_0
+enable_internal,VAR_1
+enable_external,VAR_2
+interface,VAR_3
+pcsxx_control1_reg,VAR_4
+gmxx_xaui_ext_loopback,VAR_5

@@ -1,0 +1,15 @@
+EOPNOTSUPP,VAR_0
+KVM_S390_PFAULT_TOKEN_INVALID,VAR_1
+PGM_ADDRESSING,VAR_2
+PGM_SPECIFICATION,VAR_3
+VCPU_EVENT,FUNC_0
+kvm_is_error_gpa,FUNC_1
+kvm_s390_inject_prog_cond,FUNC_2
+kvm_s390_inject_program_int,FUNC_3
+read_guest,FUNC_4
+__diag_page_ref_service,FUNC_5
+vcpu,VAR_4
+parm,VAR_5
+rc,VAR_6
+rx,VAR_7
+ry,VAR_8

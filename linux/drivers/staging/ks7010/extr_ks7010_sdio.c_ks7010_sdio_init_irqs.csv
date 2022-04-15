@@ -1,0 +1,14 @@
+INT_ENABLE_REG,VAR_0
+INT_GCR_B,VAR_1
+INT_PENDING_REG,VAR_2
+INT_READ_STATUS,VAR_3
+INT_WRITE_STATUS,VAR_4
+ks7010_sdio_writeb,FUNC_0
+netdev_err,FUNC_1
+sdio_claim_host,FUNC_2
+sdio_release_host,FUNC_3
+ks7010_sdio_init_irqs,FUNC_4
+func,VAR_5
+priv,VAR_6
+byte,VAR_7
+ret,VAR_8

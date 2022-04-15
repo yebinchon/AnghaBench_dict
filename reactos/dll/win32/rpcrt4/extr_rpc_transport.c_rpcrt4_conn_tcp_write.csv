@@ -1,0 +1,13 @@
+TRACE,FUNC_0
+WSAEINTR,VAR_0
+WSAEWOULDBLOCK,VAR_1
+WSAGetLastError,FUNC_1
+rpcrt4_sock_wait_for_send,FUNC_2
+send,FUNC_3
+rpcrt4_conn_tcp_write,FUNC_4
+Connection,VAR_2
+buffer,VAR_3
+count,VAR_4
+tcpc,VAR_5
+bytes_written,VAR_6
+r,VAR_7

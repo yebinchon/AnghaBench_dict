@@ -1,0 +1,9 @@
+CP210X_GET_LINE_CTL,VAR_0
+cp210x_read_u16_reg,FUNC_0
+swab16,FUNC_1
+usb_get_serial_port_data,FUNC_2
+cp210x_get_line_ctl,FUNC_3
+port,VAR_1
+ctl,VAR_2
+port_priv,VAR_3
+err,VAR_4

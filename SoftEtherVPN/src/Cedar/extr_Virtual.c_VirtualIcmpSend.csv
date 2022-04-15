@@ -1,0 +1,15 @@
+Copy,FUNC_0
+Free,FUNC_1
+ICMP_TYPE_ECHO_RESPONSE,VAR_0
+IP_PROTO_ICMPV4,VAR_1
+IpChecksum,FUNC_2
+SendIp,FUNC_3
+ZeroMalloc,FUNC_4
+VirtualIcmpSend,FUNC_5
+v,VAR_2
+src_ip,VAR_3
+dst_ip,VAR_4
+data,VAR_5
+size,VAR_6
+icmp,VAR_7
+data_buf,VAR_8

@@ -1,0 +1,17 @@
+DRM_ERROR,FUNC_0
+RESET_CTL_CAT_ERROR,VAR_0
+RESET_CTL_READY_TO_RESET,VAR_1
+RESET_CTL_REQUEST_RESET,VAR_2
+RING_RESET_CTL,FUNC_1
+_MASKED_BIT_ENABLE,FUNC_2
+__intel_wait_for_register_fw,FUNC_3
+intel_uncore_read_fw,FUNC_4
+intel_uncore_write_fw,FUNC_5
+gen8_engine_reset_prepare,FUNC_6
+engine,VAR_3
+uncore,VAR_4
+reg,VAR_5
+request,VAR_6
+mask,VAR_7
+ack,VAR_8
+ret,VAR_9

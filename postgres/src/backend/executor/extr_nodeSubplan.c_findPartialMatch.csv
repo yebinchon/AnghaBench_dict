@@ -1,0 +1,14 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+ExecStoreMinimalTuple,FUNC_1
+InitTupleHashIterator,FUNC_2
+ScanTupleHashTable,FUNC_3
+TermTupleHashIterator,FUNC_4
+execTuplesUnequal,FUNC_5
+findPartialMatch,FUNC_6
+hashtable,VAR_0
+slot,VAR_1
+eqfunctions,VAR_2
+numCols,VAR_3
+keyColIdx,VAR_4
+hashiter,VAR_5
+entry,VAR_6

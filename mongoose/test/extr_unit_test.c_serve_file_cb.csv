@@ -1,0 +1,13 @@
+MG_EV_HTTP_REPLY,VAR_0
+MG_EV_HTTP_REQUEST,VAR_1
+MG_F_CLOSE_IMMEDIATELY,VAR_2
+mg_http_serve_file,FUNC_0
+mg_mk_str,FUNC_1
+serve_file_verify,FUNC_2
+strcpy,FUNC_3
+serve_file_cb,FUNC_4
+nc,VAR_3
+ev,VAR_4
+ev_data,VAR_5
+hm,VAR_6
+user_data,VAR_7

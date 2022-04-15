@@ -1,0 +1,17 @@
+FilterByOrigin,FUNC_0
+REORDER_BUFFER_CHANGE_TRUNCATE,VAR_0
+ReorderBufferGetChange,FUNC_1
+ReorderBufferGetRelids,FUNC_2
+ReorderBufferQueueChange,FUNC_3
+XLH_TRUNCATE_CASCADE,VAR_1
+XLH_TRUNCATE_RESTART_SEQS,VAR_2
+XLogRecGetData,FUNC_4
+XLogRecGetOrigin,FUNC_5
+XLogRecGetXid,FUNC_6
+memcpy,FUNC_7
+DecodeTruncate,FUNC_8
+ctx,VAR_3
+buf,VAR_4
+r,VAR_5
+xlrec,VAR_6
+change,VAR_7

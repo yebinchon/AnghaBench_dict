@@ -1,0 +1,11 @@
+BPF_F_INGRESS,VAR_0
+ERANGE,VAR_1
+__bpf_rx_skb,FUNC_0
+__bpf_tx_skb,FUNC_1
+bpf_push_mac_rcsum,FUNC_2
+kfree_skb,FUNC_3
+unlikely,FUNC_4
+__bpf_redirect_common,FUNC_5
+skb,VAR_2
+dev,VAR_3
+flags,VAR_4

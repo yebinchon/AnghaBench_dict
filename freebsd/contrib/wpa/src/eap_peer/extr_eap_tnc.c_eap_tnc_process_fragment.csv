@@ -1,0 +1,17 @@
+EAP_CODE_RESPONSE,VAR_0
+EAP_TNC_FLAGS_LENGTH_INCLUDED,VAR_1
+MSG_DEBUG,VAR_2
+TRUE,VAR_3
+eap_tnc_build_frag_ack,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_alloc,FUNC_2
+wpabuf_put_data,FUNC_3
+wpabuf_tailroom,FUNC_4
+eap_tnc_process_fragment,FUNC_5
+data,VAR_4
+ret,VAR_5
+id,VAR_6
+flags,VAR_7
+message_length,VAR_8
+buf,VAR_9
+len,VAR_10

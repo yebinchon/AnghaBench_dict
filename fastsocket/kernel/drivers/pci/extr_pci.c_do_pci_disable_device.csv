@@ -1,0 +1,8 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_MASTER,VAR_1
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+pcibios_disable_device,FUNC_2
+do_pci_disable_device,FUNC_3
+dev,VAR_2
+pci_command,VAR_3

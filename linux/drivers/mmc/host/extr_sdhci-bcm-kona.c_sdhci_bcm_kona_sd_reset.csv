@@ -1,0 +1,14 @@
+EFAULT,VAR_0
+KONA_SDHOST_CORECTRL,VAR_1
+KONA_SDHOST_RESET,VAR_2
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_0
+pr_err,FUNC_1
+sdhci_readl,FUNC_2
+sdhci_writel,FUNC_3
+time_is_before_jiffies,FUNC_4
+usleep_range,FUNC_5
+sdhci_bcm_kona_sd_reset,FUNC_6
+host,VAR_4
+val,VAR_5
+timeout,VAR_6

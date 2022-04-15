@@ -1,0 +1,17 @@
+CAM_PRIORITY_NORMAL,VAR_0
+CAM_RETRY_SELTO,VAR_1
+FALSE,VAR_2
+MSG_SIMPLE_Q_TAG,VAR_3
+SF_RETRY_UA,VAR_4
+SSD_FULL_SIZE,VAR_5
+cam_periph_getccb,FUNC_0
+cd_retry_count,VAR_6
+cderror,VAR_7
+cdrunccb,FUNC_1
+scsi_start_stop,FUNC_2
+xpt_release_ccb,FUNC_3
+cdstopunit,FUNC_4
+periph,VAR_8
+eject,VAR_9
+ccb,VAR_10
+error,VAR_11

@@ -1,0 +1,14 @@
+EMULATE_DONE,VAR_0
+KVM_MIPS_GUEST_TLB_SIZE,VAR_1
+kvm_debug,FUNC_0
+kvm_mips_change_entryhi,FUNC_1
+kvm_read_c0_guest_index,FUNC_2
+kvm_write_c0_guest_entrylo0,FUNC_3
+kvm_write_c0_guest_entrylo1,FUNC_4
+kvm_write_c0_guest_pagemask,FUNC_5
+kvm_mips_emul_tlbr,FUNC_6
+vcpu,VAR_2
+cop0,VAR_3
+tlb,VAR_4
+pc,VAR_5
+index,VAR_6

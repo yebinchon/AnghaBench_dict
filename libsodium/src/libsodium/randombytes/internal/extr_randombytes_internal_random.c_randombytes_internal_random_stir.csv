@@ -1,0 +1,14 @@
+RtlGenRandom,FUNC_0
+arc4random_buf,FUNC_1
+assert,FUNC_2
+getpid,FUNC_3
+global,VAR_0
+memset,FUNC_4
+randombytes_getentropy,FUNC_5
+randombytes_internal_random_init,FUNC_6
+randombytes_linux_getrandom,FUNC_7
+safe_read,FUNC_8
+sodium_hrtime,FUNC_9
+sodium_misuse,FUNC_10
+stream,VAR_1
+randombytes_internal_random_stir,FUNC_11

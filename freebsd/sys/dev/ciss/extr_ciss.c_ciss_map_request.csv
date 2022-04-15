@@ -1,0 +1,16 @@
+BUS_DMASYNC_PREWRITE,VAR_0
+CISS_REQ_BUSY,VAR_1
+CISS_REQ_CCB,VAR_2
+CISS_REQ_MAPPED,VAR_3
+CISS_SG_NONE,VAR_4
+CISS_TL_PERF_POST_CMD,FUNC_0
+CISS_TL_SIMPLE_POST_CMD,FUNC_1
+bus_dmamap_load,FUNC_2
+bus_dmamap_load_ccb,FUNC_3
+bus_dmamap_sync,FUNC_4
+ciss_request_map_helper,VAR_5
+debug_called,FUNC_5
+ciss_map_request,FUNC_6
+cr,VAR_6
+sc,VAR_7
+error,VAR_8

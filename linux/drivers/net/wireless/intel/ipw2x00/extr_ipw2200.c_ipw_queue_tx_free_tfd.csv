@@ -1,0 +1,14 @@
+IPW_ERROR,FUNC_0
+NUM_TFD_CHUNKS,VAR_0
+PCI_DMA_TODEVICE,VAR_1
+TX_HOST_COMMAND_TYPE,VAR_2
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+libipw_txb_free,FUNC_3
+pci_unmap_single,FUNC_4
+ipw_queue_tx_free_tfd,FUNC_5
+priv,VAR_3
+txq,VAR_4
+bd,VAR_5
+dev,VAR_6
+i,VAR_7

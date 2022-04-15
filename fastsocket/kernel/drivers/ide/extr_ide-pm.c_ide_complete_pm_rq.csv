@@ -1,0 +1,16 @@
+BUG,FUNC_0
+IDE_DFLAG_BLOCKED,VAR_0
+IDE_PM_COMPLETED,VAR_1
+REQ_TYPE_PM_SUSPEND,VAR_2
+blk_end_request,FUNC_1
+blk_stop_queue,FUNC_2
+ide_complete_power_step,FUNC_3
+printk,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ide_complete_pm_rq,FUNC_7
+drive,VAR_3
+rq,VAR_4
+q,VAR_5
+pm,VAR_6
+flags,VAR_7

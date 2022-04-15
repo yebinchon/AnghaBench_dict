@@ -1,0 +1,12 @@
+lua_pushnil,FUNC_0
+push_playlist_item,FUNC_1
+vlc_playlist_Get,FUNC_2
+vlc_playlist_GetCurrentIndex,FUNC_3
+vlc_playlist_Lock,FUNC_4
+vlc_playlist_Unlock,FUNC_5
+vlclua_get_playlist_internal,FUNC_6
+vlclua_playlist_current_item,FUNC_7
+L,VAR_0
+playlist,VAR_1
+index,VAR_2
+item,VAR_3

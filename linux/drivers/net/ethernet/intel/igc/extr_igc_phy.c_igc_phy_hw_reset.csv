@@ -1,0 +1,15 @@
+IGC_CTRL,VAR_0
+IGC_CTRL_PHY_RST,VAR_1
+igc_check_reset_block,FUNC_0
+rd32,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+udelay,FUNC_4
+usleep_range,FUNC_5
+wr32,FUNC_6
+wrfl,FUNC_7
+igc_phy_hw_reset,FUNC_8
+hw,VAR_2
+phy,VAR_3
+ret_val,VAR_4
+ctrl,VAR_5

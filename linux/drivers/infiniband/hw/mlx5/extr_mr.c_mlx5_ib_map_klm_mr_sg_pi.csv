@@ -1,0 +1,16 @@
+DMA_TO_DEVICE,VAR_0
+ib_dma_sync_single_for_cpu,FUNC_0
+ib_dma_sync_single_for_device,FUNC_1
+mlx5_ib_sg_to_klms,FUNC_2
+to_mmr,FUNC_3
+mlx5_ib_map_klm_mr_sg_pi,FUNC_4
+ibmr,VAR_1
+data_sg,VAR_2
+data_sg_nents,VAR_3
+data_sg_offset,VAR_4
+meta_sg,VAR_5
+meta_sg_nents,VAR_6
+meta_sg_offset,VAR_7
+mr,VAR_8
+pi_mr,VAR_9
+n,VAR_10

@@ -1,0 +1,10 @@
+CLOUDABI_MS_INVALIDATE,VAR_0
+EINVAL,VAR_1
+MS_ASYNC,VAR_2
+MS_INVALIDATE,VAR_3
+MS_SYNC,VAR_4
+kern_msync,FUNC_0
+cloudabi_sys_mem_sync,FUNC_1
+td,VAR_5
+uap,VAR_6
+flags,VAR_7

@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+XFS_ATTR_LEAF_MAGIC,VAR_0
+trace_xfs_attr_leaf_add_new,FUNC_1
+trace_xfs_attr_leaf_add_old,FUNC_2
+trace_xfs_attr_leaf_split,FUNC_3
+xfs_attr3_leaf_add,FUNC_4
+xfs_attr3_leaf_create,FUNC_5
+xfs_attr3_leaf_rebalance,FUNC_6
+xfs_attr_leaf_lasthash,FUNC_7
+xfs_da3_blk_link,FUNC_8
+xfs_da_grow_inode,FUNC_9
+xfs_attr3_leaf_split,FUNC_10
+state,VAR_1
+oldblk,VAR_2
+newblk,VAR_3
+blkno,VAR_4
+error,VAR_5

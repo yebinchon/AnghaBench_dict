@@ -1,0 +1,16 @@
+COMPONENT_TYPE,VAR_0
+DPSW_CMDID_GET_ATTR,VAR_1
+dpsw_get_field,FUNC_0
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+le64_to_cpu,FUNC_3
+mc_encode_cmd_header,FUNC_4
+mc_send_command,FUNC_5
+dpsw_get_attributes,FUNC_6
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+attr,VAR_5
+cmd,VAR_6
+rsp_params,VAR_7
+err,VAR_8

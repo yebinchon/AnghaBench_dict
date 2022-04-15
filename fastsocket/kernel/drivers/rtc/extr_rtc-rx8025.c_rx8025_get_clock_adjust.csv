@@ -1,0 +1,10 @@
+RX8025_ADJ_RESOLUTION,VAR_0
+RX8025_REG_DIGOFF,VAR_1
+rx8025_read_reg,FUNC_0
+to_i2c_client,FUNC_1
+rx8025_get_clock_adjust,FUNC_2
+dev,VAR_2
+adj,VAR_3
+client,VAR_4
+digoff,VAR_5
+err,VAR_6

@@ -1,0 +1,11 @@
+KEY_TOUCHPAD_OFF,VAR_0
+KEY_TOUCHPAD_ON,VAR_1
+MSI_STANDARD_EC_FUNCTIONS_ADDRESS,VAR_2
+MSI_STANDARD_EC_TOUCHPAD_MASK,VAR_3
+ec_read,FUNC_0
+msi_laptop_input_dev,VAR_4
+sparse_keymap_report_event,FUNC_1
+msi_send_touchpad_key,FUNC_2
+ignored,VAR_5
+rdata,VAR_6
+result,VAR_7

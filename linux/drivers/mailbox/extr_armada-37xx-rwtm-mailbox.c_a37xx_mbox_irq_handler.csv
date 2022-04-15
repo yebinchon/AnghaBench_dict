@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+RWTM_HOST_INT_RESET,VAR_2
+SP_CMD_COMPLETE,VAR_3
+SP_CMD_QUEUE_FULL,VAR_4
+SP_CMD_QUEUE_FULL_ACCESS,VAR_5
+a37xx_mbox_receive,FUNC_0
+dev_err,FUNC_1
+mbox_chan_txdone,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+a37xx_mbox_irq_handler,FUNC_5
+irq,VAR_6
+data,VAR_7
+chan,VAR_8
+mbox,VAR_9
+reg,VAR_10

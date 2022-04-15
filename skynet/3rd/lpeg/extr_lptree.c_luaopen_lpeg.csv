@@ -1,0 +1,14 @@
+LUA_REGISTRYINDEX,VAR_0
+MAXBACK,VAR_1
+MAXSTACKIDX,VAR_2
+PATTERN_T,VAR_3
+luaL_newlib,FUNC_0
+luaL_newmetatable,FUNC_1
+luaL_setfuncs,FUNC_2
+lua_pushnumber,FUNC_3
+lua_pushvalue,FUNC_4
+lua_setfield,FUNC_5
+metareg,VAR_4
+pattreg,VAR_5
+luaopen_lpeg,FUNC_6
+L,VAR_6

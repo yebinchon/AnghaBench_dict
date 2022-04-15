@@ -1,0 +1,12 @@
+RCU_INIT_POINTER,FUNC_0
+call_rcu,FUNC_1
+netpoll_srcu,VAR_0
+rcu_cleanup_netpoll_info,VAR_1
+refcount_dec_and_test,FUNC_2
+rtnl_dereference,FUNC_3
+stub1,FUNC_4
+synchronize_srcu,FUNC_5
+__netpoll_cleanup,FUNC_6
+np,VAR_2
+npinfo,VAR_3
+ops,VAR_4

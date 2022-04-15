@@ -1,0 +1,17 @@
+SIGINT,VAR_0
+SIGPIPE,VAR_1
+SIGPOLL,VAR_2
+SIGTERM,VAR_3
+SIGUSR1,VAR_4
+SIGUSR2,VAR_5
+SIG_IGN,VAR_6
+memset,FUNC_0
+set_debug_handlers,FUNC_1
+sigaction,FUNC_2
+sigaddset,FUNC_3
+sigemptyset,FUNC_4
+sigint_handler,VAR_7
+sigterm_handler,VAR_8
+sigusr1_handler,VAR_9
+signals_init,FUNC_5
+sa,VAR_10

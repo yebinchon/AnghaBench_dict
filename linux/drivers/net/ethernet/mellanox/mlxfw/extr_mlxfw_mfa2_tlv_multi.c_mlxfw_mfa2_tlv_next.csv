@@ -1,0 +1,12 @@
+MLXFW_MFA2_TLV_MULTI_PART,VAR_0
+MLXFW_MFA2_TLV_TOTAL_SIZE,FUNC_0
+NLA_ALIGN,FUNC_1
+be16_to_cpu,FUNC_2
+mlxfw_mfa2_tlv_get,FUNC_3
+mlxfw_mfa2_tlv_multi_get,FUNC_4
+mlxfw_mfa2_tlv_next,FUNC_5
+mfa2_file,VAR_1
+tlv,VAR_2
+multi,VAR_3
+tlv_len,VAR_4
+next,VAR_5

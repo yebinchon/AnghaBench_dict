@@ -1,0 +1,8 @@
+SEND_CTRL,VAR_0
+SEND_CTRL_CM_RESET_SMASK,VAR_1
+read_csr,FUNC_0
+udelay,FUNC_1
+write_csr,FUNC_2
+__cm_reset,FUNC_3
+dd,VAR_2
+sendctrl,VAR_3

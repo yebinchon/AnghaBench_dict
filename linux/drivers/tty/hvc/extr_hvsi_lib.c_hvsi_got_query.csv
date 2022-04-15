@@ -1,0 +1,11 @@
+HVSI_VERSION,VAR_0
+VSV_SEND_VERSION_NUMBER,VAR_1
+VS_QUERY_RESPONSE_PACKET_HEADER,VAR_2
+be16_to_cpu,FUNC_0
+cpu_to_be16,FUNC_1
+hvsi_send_packet,FUNC_2
+pr_devel,FUNC_3
+hvsi_got_query,FUNC_4
+pv,VAR_3
+pkt,VAR_4
+r,VAR_5

@@ -1,0 +1,13 @@
+PRNG_CONFIG,VAR_0
+PRNG_CONFIG_HW_ENABLE,VAR_1
+PRNG_LFSR_CFG,VAR_2
+PRNG_LFSR_CFG_CLOCKS,VAR_3
+PRNG_LFSR_CFG_MASK,VAR_4
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+readl_relaxed,FUNC_2
+writel,FUNC_3
+qcom_rng_enable,FUNC_4
+rng,VAR_5
+val,VAR_6
+ret,VAR_7

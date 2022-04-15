@@ -1,0 +1,12 @@
+QUEUE_FLAG_NONROT,VAR_0
+bdev_get_queue,FUNC_0
+blk_queue_flag_clear,FUNC_1
+blk_queue_flag_set,FUNC_2
+blk_queue_nonrot,FUNC_3
+loop_update_rotational,FUNC_4
+lo,VAR_1
+file,VAR_2
+file_inode,VAR_3
+file_bdev,VAR_4
+q,VAR_5
+nonrot,VAR_6

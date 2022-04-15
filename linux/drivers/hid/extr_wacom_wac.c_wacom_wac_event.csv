@@ -1,0 +1,16 @@
+HID_GENERIC,VAR_0
+WACOM_BATTERY_USAGE,FUNC_0
+WACOM_FINGER_FIELD,FUNC_1
+WACOM_PAD_FIELD,FUNC_2
+WACOM_PEN_FIELD,FUNC_3
+hid_get_drvdata,FUNC_4
+wacom_wac_battery_event,FUNC_5
+wacom_wac_finger_event,FUNC_6
+wacom_wac_pad_event,FUNC_7
+wacom_wac_pen_event,FUNC_8
+wacom_wac_event,FUNC_9
+hdev,VAR_1
+field,VAR_2
+usage,VAR_3
+value,VAR_4
+wacom,VAR_5

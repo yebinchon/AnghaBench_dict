@@ -1,0 +1,14 @@
+AB8500_USBCH_IPT_CRNTLVL_REG,VAR_0
+USB_CH_IP_CUR_LVL_0P05,VAR_1
+USB_CH_IP_CUR_LVL_0P45,VAR_2
+VBAT_TRESH_IP_CUR_RED,VAR_3
+ab8500_charger_set_current,FUNC_0
+dev_info,FUNC_1
+min,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+ab8500_charger_set_vbus_in_curr,FUNC_5
+di,VAR_4
+ich_in,VAR_5
+min_value,VAR_6
+ret,VAR_7

@@ -1,0 +1,14 @@
+__dma_alloc,FUNC_0
+arch_is_coherent,FUNC_1
+dma_alloc_from_coherent,FUNC_2
+kmalloc,FUNC_3
+pgprot_kernel,VAR_0
+pgprot_noncached,FUNC_4
+virt_to_dma,FUNC_5
+dma_alloc_coherent,FUNC_6
+dev,VAR_1
+size,VAR_2
+handle,VAR_3
+gfp,VAR_4
+memory,VAR_5
+virt,VAR_6

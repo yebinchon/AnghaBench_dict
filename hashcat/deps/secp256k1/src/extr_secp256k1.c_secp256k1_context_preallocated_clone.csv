@@ -1,0 +1,11 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+memcpy,FUNC_2
+secp256k1_context_preallocated_clone_size,FUNC_3
+secp256k1_ecmult_context_finalize_memcpy,FUNC_4
+secp256k1_ecmult_gen_context_finalize_memcpy,FUNC_5
+secp256k1_context_preallocated_clone,FUNC_6
+ctx,VAR_0
+prealloc,VAR_1
+prealloc_size,VAR_2
+ret,VAR_3

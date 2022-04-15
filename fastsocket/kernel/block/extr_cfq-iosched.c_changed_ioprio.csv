@@ -1,0 +1,16 @@
+BLK_RW_ASYNC,VAR_0
+BLK_RW_SYNC,VAR_1
+GFP_ATOMIC,VAR_2
+cfq_get_queue,FUNC_0
+cfq_mark_cfqq_prio_changed,FUNC_1
+cfq_put_queue,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+unlikely,FUNC_5
+changed_ioprio,FUNC_6
+ioc,VAR_3
+cic,VAR_4
+cfqd,VAR_5
+cfqq,VAR_6
+flags,VAR_7
+new_cfqq,VAR_8

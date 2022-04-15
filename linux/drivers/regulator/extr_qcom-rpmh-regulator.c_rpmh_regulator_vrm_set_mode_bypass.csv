@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+PMIC4_BOB_MODE_PASS,VAR_1
+REGULATOR_MODE_STANDBY,VAR_2
+RPMH_REGULATOR_REG_VRM_MODE,VAR_3
+rpmh_regulator_send_request,FUNC_0
+rpmh_regulator_vrm_set_mode_bypass,FUNC_1
+vreg,VAR_4
+mode,VAR_5
+bypassed,VAR_6
+cmd,VAR_7
+pmic_mode,VAR_8

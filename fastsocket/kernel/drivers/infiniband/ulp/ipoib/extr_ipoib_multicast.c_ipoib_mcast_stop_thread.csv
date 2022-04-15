@@ -1,0 +1,14 @@
+IPOIB_MCAST_RUN,VAR_0
+cancel_delayed_work,FUNC_0
+clear_bit,FUNC_1
+flush_workqueue,FUNC_2
+ipoib_dbg_mcast,FUNC_3
+ipoib_workqueue,VAR_1
+mcast_mutex,VAR_2
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+netdev_priv,FUNC_6
+ipoib_mcast_stop_thread,FUNC_7
+dev,VAR_3
+flush,VAR_4
+priv,VAR_5

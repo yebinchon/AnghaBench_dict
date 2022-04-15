@@ -1,0 +1,16 @@
+DC_WIN_WIN_OPTIONS,VAR_0
+WARN_ON,FUNC_0
+WIN_ENABLE,VAR_1
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put,FUNC_2
+tegra_dc_remove_shared_plane,FUNC_3
+tegra_plane_readl,FUNC_4
+tegra_plane_writel,FUNC_5
+to_tegra_dc,FUNC_6
+to_tegra_plane,FUNC_7
+tegra_shared_plane_atomic_disable,FUNC_8
+plane,VAR_2
+old_state,VAR_3
+p,VAR_4
+dc,VAR_5
+value,VAR_6

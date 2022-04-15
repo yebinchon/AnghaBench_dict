@@ -1,0 +1,16 @@
+HCLGE_MBX_PORT_BASE_VLAN_CFG,VAR_0
+HCLGE_MBX_SET_VLAN,VAR_1
+HNAE3_DOWN_CLIENT,VAR_2
+HNAE3_PORT_BASE_VLAN_DISABLE,VAR_3
+HNAE3_PORT_BASE_VLAN_ENABLE,VAR_4
+HNAE3_UP_CLIENT,VAR_5
+hclgevf_notify_client,FUNC_0
+hclgevf_send_mbx_msg,FUNC_1
+rtnl_lock,FUNC_2
+rtnl_unlock,FUNC_3
+hclgevf_update_port_base_vlan_info,FUNC_4
+hdev,VAR_6
+state,VAR_7
+port_base_vlan_info,VAR_8
+data_size,VAR_9
+nic,VAR_10

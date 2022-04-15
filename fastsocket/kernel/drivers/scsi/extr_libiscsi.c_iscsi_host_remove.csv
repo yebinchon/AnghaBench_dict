@@ -1,0 +1,16 @@
+ISCSI_HOST_REMOVED,VAR_0
+current,VAR_1
+destroy_workqueue,FUNC_0
+flush_signals,FUNC_1
+iscsi_host_for_each_session,FUNC_2
+iscsi_notify_host_removed,VAR_2
+scsi_remove_host,FUNC_3
+shost_priv,FUNC_4
+signal_pending,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+wait_event_interruptible,FUNC_8
+iscsi_host_remove,FUNC_9
+shost,VAR_3
+ihost,VAR_4
+flags,VAR_5

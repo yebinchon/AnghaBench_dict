@@ -1,0 +1,12 @@
+apds9300_set_intr_state,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+apds9300_write_interrupt_config,FUNC_4
+indio_dev,VAR_0
+chan,VAR_1
+type,VAR_2
+dir,VAR_3
+state,VAR_4
+data,VAR_5
+ret,VAR_6

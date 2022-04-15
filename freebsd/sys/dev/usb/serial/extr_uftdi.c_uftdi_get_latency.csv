@@ -1,0 +1,12 @@
+DPRINTFN,FUNC_0
+FTDI_SIO_GET_LATENCY,VAR_0
+USETW,FUNC_1
+UT_READ_VENDOR_DEVICE,VAR_1
+usbd_do_request,FUNC_2
+uftdi_get_latency,FUNC_3
+ucom,VAR_2
+latency,VAR_3
+sc,VAR_4
+req,VAR_5
+err,VAR_6
+buf,VAR_7

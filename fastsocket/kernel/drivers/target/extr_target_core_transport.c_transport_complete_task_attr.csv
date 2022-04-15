@@ -1,0 +1,11 @@
+MSG_HEAD_TAG,VAR_0
+MSG_ORDERED_TAG,VAR_1
+MSG_SIMPLE_TAG,VAR_2
+TRANSPORT_PLUGIN_PHBA_PDEV,VAR_3
+atomic_dec,FUNC_0
+pr_debug,FUNC_1
+smp_mb__after_atomic_dec,FUNC_2
+target_restart_delayed_cmds,FUNC_3
+transport_complete_task_attr,FUNC_4
+cmd,VAR_4
+dev,VAR_5

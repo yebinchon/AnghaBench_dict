@@ -1,0 +1,12 @@
+GIT_OBJECT_TAG,VAR_0
+assert_head_is_correctly_detached,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+git_object_free,FUNC_3
+git_object_id,FUNC_4
+git_object_type,FUNC_5
+git_repository_set_head_detached,FUNC_6
+git_revparse_single,FUNC_7
+repo,VAR_1
+test_repo_head__set_head_detached_Detaches_HEAD_and_make_it_point_to_the_peeled_commit,FUNC_8
+tag,VAR_2

@@ -1,0 +1,11 @@
+ENQUEUE_HEAD,VAR_0
+ENQUEUE_WAKEUP,VAR_1
+enqueue_pushable_task,FUNC_0
+enqueue_rt_entity,FUNC_1
+inc_nr_running,FUNC_2
+task_current,FUNC_3
+enqueue_task_rt,FUNC_4
+rq,VAR_2
+p,VAR_3
+flags,VAR_4
+rt_se,VAR_5

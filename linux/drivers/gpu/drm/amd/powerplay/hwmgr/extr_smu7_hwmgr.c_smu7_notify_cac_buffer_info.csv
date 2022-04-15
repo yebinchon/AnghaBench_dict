@@ -1,0 +1,17 @@
+CGS_IND_REG__SMC,VAR_0
+DRAM_LOG_ADDR_H,VAR_1
+DRAM_LOG_ADDR_L,VAR_2
+DRAM_LOG_BUFF_SIZE,VAR_3
+DRAM_LOG_PHY_ADDR_H,VAR_4
+DRAM_LOG_PHY_ADDR_L,VAR_5
+SMU_SoftRegisters,VAR_6
+cgs_write_ind_register,FUNC_0
+smum_get_offsetof,FUNC_1
+smu7_notify_cac_buffer_info,FUNC_2
+hwmgr,VAR_7
+virtual_addr_low,VAR_8
+virtual_addr_hi,VAR_9
+mc_addr_low,VAR_10
+mc_addr_hi,VAR_11
+size,VAR_12
+data,VAR_13

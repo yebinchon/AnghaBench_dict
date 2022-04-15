@@ -1,0 +1,14 @@
+SVN_ERR_W,FUNC_0
+SVN_FS_TYPE_BDB,VAR_0
+SVN_NO_ERROR,VAR_1
+_,FUNC_1
+bdb_lock_file_contents,VAR_2
+pre12_compat_unneeded_file_contents,VAR_3
+strcmp,FUNC_2
+svn_io_file_create,FUNC_3
+svn_repos_db_lockfile,FUNC_4
+create_db_lock,FUNC_5
+repos,VAR_4
+pool,VAR_5
+contents,VAR_6
+lockfile_path,VAR_7

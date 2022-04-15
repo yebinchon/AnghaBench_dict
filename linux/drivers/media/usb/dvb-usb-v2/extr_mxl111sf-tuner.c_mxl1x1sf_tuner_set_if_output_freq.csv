@@ -1,0 +1,13 @@
+MXL_IF_HI,VAR_0
+MXL_IF_LO,VAR_1
+V6_TUNER_IF_FCW_BYP_REG,VAR_2
+V6_TUNER_IF_FCW_REG,VAR_3
+V6_TUNER_IF_SEL_REG,VAR_4
+mxl111sf_tuner_read_reg,FUNC_0
+mxl111sf_tuner_write_reg,FUNC_1
+mxl_dbg,FUNC_2
+mxl_fail,FUNC_3
+mxl1x1sf_tuner_set_if_output_freq,FUNC_4
+state,VAR_5
+ret,VAR_6
+ctrl,VAR_7

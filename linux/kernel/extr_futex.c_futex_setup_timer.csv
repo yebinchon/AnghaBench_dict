@@ -1,0 +1,11 @@
+CLOCK_MONOTONIC,VAR_0
+CLOCK_REALTIME,VAR_1
+FLAGS_CLOCKRT,VAR_2
+HRTIMER_MODE_ABS,VAR_3
+hrtimer_init_sleeper_on_stack,FUNC_0
+hrtimer_set_expires_range_ns,FUNC_1
+futex_setup_timer,FUNC_2
+time,VAR_4
+timeout,VAR_5
+flags,VAR_6
+range_ns,VAR_7

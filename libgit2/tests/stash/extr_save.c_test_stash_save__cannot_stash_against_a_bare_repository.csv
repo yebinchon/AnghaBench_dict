@@ -1,0 +1,11 @@
+GIT_EBAREREPO,VAR_0
+GIT_STASH_DEFAULT,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_repository_free,FUNC_2
+git_repository_init,FUNC_3
+git_stash_save,FUNC_4
+signature,VAR_2
+stash_tip_oid,VAR_3
+test_stash_save__cannot_stash_against_a_bare_repository,FUNC_5
+local,VAR_4

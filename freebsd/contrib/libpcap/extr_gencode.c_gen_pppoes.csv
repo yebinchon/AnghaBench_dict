@@ -1,0 +1,13 @@
+BPF_W,VAR_0
+DLT_PPP,VAR_1
+ETHERTYPE_PPPOES,VAR_2
+OR_LINKPL,VAR_3
+PUSH_LINKHDR,FUNC_0
+gen_and,FUNC_1
+gen_linktype,FUNC_2
+gen_mcmp,FUNC_3
+gen_pppoes,FUNC_4
+cstate,VAR_4
+sess_num,VAR_5
+b0,VAR_6
+b1,VAR_7

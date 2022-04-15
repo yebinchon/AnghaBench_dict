@@ -1,0 +1,17 @@
+INIT_KFIFO,FUNC_0
+component_master_add_with_match,FUNC_1
+kfifo_get,FUNC_2
+kfifo_put,FUNC_3
+of_parse_phandle,FUNC_4
+sun4i_drv_add_endpoints,FUNC_5
+sun4i_drv_master_ops,VAR_0
+sun4i_drv_probe,FUNC_6
+pdev,VAR_1
+match,VAR_2
+np,VAR_3
+endpoint,VAR_4
+list,VAR_5
+i,VAR_6
+ret,VAR_7
+count,VAR_8
+pipeline,VAR_9

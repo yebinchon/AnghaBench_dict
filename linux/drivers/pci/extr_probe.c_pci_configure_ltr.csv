@@ -1,0 +1,13 @@
+PCI_EXP_DEVCAP2,VAR_0
+PCI_EXP_DEVCAP2_LTR,VAR_1
+PCI_EXP_DEVCTL2,VAR_2
+PCI_EXP_DEVCTL2_LTR_EN,VAR_3
+PCI_EXP_TYPE_ROOT_PORT,VAR_4
+pci_find_host_bridge,FUNC_0
+pci_is_pcie,FUNC_1
+pci_pcie_type,FUNC_2
+pci_upstream_bridge,FUNC_3
+pcie_capability_read_dword,FUNC_4
+pcie_capability_set_word,FUNC_5
+pci_configure_ltr,FUNC_6
+dev,VAR_5

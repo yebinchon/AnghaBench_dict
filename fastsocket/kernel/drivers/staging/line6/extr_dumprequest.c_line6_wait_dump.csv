@@ -1,0 +1,15 @@
+DECLARE_WAITQUEUE,FUNC_0
+EAGAIN,VAR_0
+ERESTARTSYS,VAR_1
+TASK_INTERRUPTIBLE,VAR_2
+TASK_RUNNING,VAR_3
+add_wait_queue,FUNC_1
+current,VAR_4
+remove_wait_queue,FUNC_2
+schedule,FUNC_3
+signal_pending,FUNC_4
+wait,VAR_5
+line6_wait_dump,FUNC_5
+l6dr,VAR_6
+nonblock,VAR_7
+retval,VAR_8

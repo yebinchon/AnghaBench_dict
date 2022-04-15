@@ -1,0 +1,17 @@
+BPF_IMM,VAR_0
+BPF_LD,VAR_1
+BPF_ST,VAR_2
+BPF_W,VAR_3
+alloc_reg,FUNC_0
+gen_load_802_11_header_len,FUNC_1
+gen_load_avs_llprefixlen,FUNC_2
+gen_load_ppi_llprefixlen,FUNC_3
+gen_load_prism_llprefixlen,FUNC_4
+gen_load_radiotap_llprefixlen,FUNC_5
+new_stmt,FUNC_6
+sappend,FUNC_7
+insert_compute_vloffsets,FUNC_8
+cstate,VAR_4
+b,VAR_5
+s,VAR_6
+s2,VAR_7

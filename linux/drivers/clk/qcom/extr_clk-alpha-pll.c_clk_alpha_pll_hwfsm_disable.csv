@@ -1,0 +1,14 @@
+PLL_FSM_ENA,VAR_0
+PLL_MODE,FUNC_0
+PLL_OFFLINE_REQ,VAR_1
+SUPPORTS_OFFLINE_REQ,VAR_2
+regmap_read,FUNC_1
+regmap_update_bits,FUNC_2
+to_clk_alpha_pll,FUNC_3
+wait_for_pll_disable,FUNC_4
+wait_for_pll_offline,FUNC_5
+clk_alpha_pll_hwfsm_disable,FUNC_6
+hw,VAR_3
+ret,VAR_4
+pll,VAR_5
+val,VAR_6

@@ -1,0 +1,11 @@
+MVNETA_GMAC_AUTONEG_CONFIG,VAR_0
+MVNETA_GMAC_INBAND_RESTART_AN,VAR_1
+mvreg_read,FUNC_0
+mvreg_write,FUNC_1
+netdev_priv,FUNC_2
+to_net_dev,FUNC_3
+mvneta_mac_an_restart,FUNC_4
+config,VAR_2
+ndev,VAR_3
+pp,VAR_4
+gmac_an,VAR_5

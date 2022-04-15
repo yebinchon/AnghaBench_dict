@@ -1,0 +1,16 @@
+BuildIPv6PacketHeader,FUNC_0
+Copy,FUNC_1
+IPV6_SET_VERSION,FUNC_2
+Zero,FUNC_3
+BuildIPv6,FUNC_4
+dest_ip,VAR_0
+src_ip,VAR_1
+id,VAR_2
+protocol,VAR_3
+hop_limit,VAR_4
+data,VAR_5
+size,VAR_6
+info,VAR_7
+ip_header,VAR_8
+buf,VAR_9
+size_for_headers,VAR_10

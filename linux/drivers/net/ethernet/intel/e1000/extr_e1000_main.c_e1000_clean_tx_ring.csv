@@ -1,0 +1,11 @@
+e1000_unmap_and_free_tx_resource,FUNC_0
+memset,FUNC_1
+netdev_reset_queue,FUNC_2
+writel,FUNC_3
+e1000_clean_tx_ring,FUNC_4
+adapter,VAR_0
+tx_ring,VAR_1
+hw,VAR_2
+buffer_info,VAR_3
+size,VAR_4
+i,VAR_5

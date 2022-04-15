@@ -1,0 +1,14 @@
+dev_kfree_skb_any,FUNC_0
+ipoib_dbg_mcast,FUNC_1
+ipoib_del_neighs_by_gid,FUNC_2
+ipoib_priv,FUNC_3
+ipoib_put_ah,FUNC_4
+kfree,FUNC_5
+netif_tx_lock_bh,FUNC_6
+netif_tx_unlock_bh,FUNC_7
+skb_dequeue,FUNC_8
+skb_queue_empty,FUNC_9
+ipoib_mcast_free,FUNC_10
+mcast,VAR_0
+dev,VAR_1
+tx_dropped,VAR_2

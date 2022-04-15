@@ -1,0 +1,11 @@
+UNIPHIER_FI2C_DTTX,VAR_0
+UNIPHIER_FI2C_DTTX_CMD,VAR_1
+UNIPHIER_FI2C_INT_TE,VAR_2
+UNIPHIER_FI2C_TBC,VAR_3
+uniphier_fi2c_fill_txfifo,FUNC_0
+uniphier_fi2c_set_irqs,FUNC_1
+writel,FUNC_2
+uniphier_fi2c_tx_init,FUNC_3
+priv,VAR_4
+addr,VAR_5
+repeat,VAR_6

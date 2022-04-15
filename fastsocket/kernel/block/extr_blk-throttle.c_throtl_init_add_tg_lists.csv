@@ -1,0 +1,14 @@
+BLKIO_POLICY_THROTL,VAR_0
+READ,VAR_1
+WRITE,VAR_2
+__throtl_tg_fill_dev_details,FUNC_0
+blkcg_get_read_bps,FUNC_1
+blkcg_get_read_iops,FUNC_2
+blkcg_get_write_bps,FUNC_3
+blkcg_get_write_iops,FUNC_4
+blkiocg_add_blkio_group,FUNC_5
+throtl_add_group_to_td_list,FUNC_6
+throtl_init_add_tg_lists,FUNC_7
+td,VAR_3
+tg,VAR_4
+blkcg,VAR_5

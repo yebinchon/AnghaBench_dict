@@ -1,0 +1,11 @@
+pm_runtime_disable,FUNC_0
+pm_runtime_dont_use_autosuspend,FUNC_1
+pm_runtime_put_noidle,FUNC_2
+pm_runtime_set_suspended,FUNC_3
+stub1,FUNC_4
+to_gbphy_dev,FUNC_5
+to_gbphy_driver,FUNC_6
+gbphy_dev_remove,FUNC_7
+dev,VAR_0
+gbphy_drv,VAR_1
+gbphy_dev,VAR_2

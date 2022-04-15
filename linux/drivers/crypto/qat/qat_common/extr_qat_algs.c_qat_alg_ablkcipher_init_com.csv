@@ -1,0 +1,17 @@
+AES_BLOCK_SIZE,VAR_0
+ICP_QAT_FW_COMN_CURR_ID_SET,FUNC_0
+ICP_QAT_FW_COMN_NEXT_ID_SET,FUNC_1
+ICP_QAT_FW_LA_CMD_CIPHER,VAR_1
+ICP_QAT_FW_SLICE_CIPHER,VAR_2
+ICP_QAT_FW_SLICE_DRAM_WR,VAR_3
+memcpy,FUNC_2
+qat_alg_init_common_hdr,FUNC_3
+qat_alg_ablkcipher_init_com,FUNC_4
+ctx,VAR_4
+req,VAR_5
+cd,VAR_6
+key,VAR_7
+keylen,VAR_8
+cd_pars,VAR_9
+header,VAR_10
+cd_ctrl,VAR_11

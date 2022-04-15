@@ -1,0 +1,12 @@
+NFS4_VERIFIER_SIZE,VAR_0
+OP_SETCLIENTID_CONFIRM,VAR_1
+cpu_to_be32,FUNC_0
+decode_setclientid_confirm_maxsz,VAR_2
+reserve_space,FUNC_1
+xdr_encode_hyper,FUNC_2
+xdr_encode_opaque_fixed,FUNC_3
+encode_setclientid_confirm,FUNC_4
+xdr,VAR_3
+arg,VAR_4
+hdr,VAR_5
+p,VAR_6

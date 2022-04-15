@@ -1,0 +1,13 @@
+CAM_AUTOSNS_VALID,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_SCSI_STATUS_ERROR,VAR_2
+SCSI_STATUS_OK,VAR_3
+VTSCSI_ERROR,VAR_4
+VTSCSI_TRACE,VAR_5
+memcpy,FUNC_0
+vtscsi_dprintf,FUNC_1
+vtscsi_complete_scsi_cmd_response,FUNC_2
+sc,VAR_6
+csio,VAR_7
+cmd_resp,VAR_8
+status,VAR_9

@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+SNDRV_GF1_PCM_PFLG_ACTIVE,VAR_1
+SNDRV_PCM_TRIGGER_START,VAR_2
+SNDRV_PCM_TRIGGER_STOP,VAR_3
+snd_gf1_pcm_trigger_up,FUNC_0
+snd_gf1_stop_voices,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+snd_gf1_pcm_playback_trigger,FUNC_5
+substream,VAR_4
+cmd,VAR_5
+gus,VAR_6
+runtime,VAR_7
+pcmp,VAR_8
+voice,VAR_9

@@ -1,0 +1,15 @@
+ACB_SUPPORTED,VAR_0
+ISCSI_ROUTER_STATE_ADVERTISED,VAR_1
+ISCSI_ROUTER_STATE_MANUAL,VAR_2
+ISCSI_ROUTER_STATE_STALE,VAR_3
+ISCSI_ROUTER_STATE_UNKNOWN,VAR_4
+be16_to_cpu,FUNC_0
+is_ipv6_enabled,FUNC_1
+le16_to_cpu,FUNC_2
+le32_to_cpu,FUNC_3
+memcpy,FUNC_4
+min,FUNC_5
+qla4xxx_set_ipaddr_state,FUNC_6
+qla4xxx_update_local_ip,FUNC_7
+ha,VAR_5
+init_fw_cb,VAR_6

@@ -1,0 +1,12 @@
+NFP_PCIE_CFG_BAR_PCIETOCPPEXPANSIONBAR,FUNC_0
+NFP_PCIE_CPP_BAR_PCIETOCPPEXPANSIONBAR,FUNC_1
+pci_write_config_dword,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+nfp6000_bar_write,FUNC_5
+nfp,VAR_0
+bar,VAR_1
+newcfg,VAR_2
+base,VAR_3
+slot,VAR_4
+xbar,VAR_5

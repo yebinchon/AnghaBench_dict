@@ -1,0 +1,12 @@
+IKE_PROTOCOL_ID_IPSEC_ESP,VAR_0
+IkeNewDeletePayload,FUNC_0
+NewBuf,FUNC_1
+NewListSingle,FUNC_2
+SendInformationalExchangePacket,FUNC_3
+WriteBufInt,FUNC_4
+SendDeleteIPsecSaPacket,FUNC_5
+ike,VAR_1
+c,VAR_2
+spi,VAR_3
+payload,VAR_4
+buf,VAR_5

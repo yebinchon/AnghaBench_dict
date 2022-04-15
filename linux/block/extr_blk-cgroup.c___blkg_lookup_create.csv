@@ -1,0 +1,14 @@
+IS_ERR,FUNC_0
+WARN_ON_ONCE,FUNC_1
+__blkg_lookup,FUNC_2
+blkcg_parent,FUNC_3
+blkg_create,FUNC_4
+lockdep_assert_held,FUNC_5
+rcu_read_lock_held,FUNC_6
+__blkg_lookup_create,FUNC_7
+blkcg,VAR_0
+q,VAR_1
+blkg,VAR_2
+pos,VAR_3
+parent,VAR_4
+ret_blkg,VAR_5

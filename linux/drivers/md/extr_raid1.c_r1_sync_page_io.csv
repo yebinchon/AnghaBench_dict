@@ -1,0 +1,15 @@
+MD_RECOVERY_NEEDED,VAR_0
+WRITE,VAR_1
+WantReplacement,VAR_2
+WriteErrorSeen,VAR_3
+md_error,FUNC_0
+rdev_set_badblocks,FUNC_1
+set_bit,FUNC_2
+sync_page_io,FUNC_3
+test_and_set_bit,FUNC_4
+r1_sync_page_io,FUNC_5
+rdev,VAR_4
+sector,VAR_5
+sectors,VAR_6
+page,VAR_7
+rw,VAR_8

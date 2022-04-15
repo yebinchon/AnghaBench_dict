@@ -1,0 +1,15 @@
+ARCMSR_MAX_FREESRB_NUM,VAR_0
+ARCMSR_SRB_ABORTED,VAR_1
+ARCMSR_SRB_START,VAR_2
+FALSE,VAR_3
+TRUE,VAR_4
+arcmsr_disable_allintr,FUNC_0
+arcmsr_enable_allintr,FUNC_1
+arcmsr_polling_srbdone,FUNC_2
+printf,FUNC_3
+arcmsr_seek_cmd2abort,FUNC_4
+abortccb,VAR_5
+srb,VAR_6
+acb,VAR_7
+intmask_org,VAR_8
+i,VAR_9

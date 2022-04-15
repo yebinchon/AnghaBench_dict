@@ -1,0 +1,12 @@
+MIPS_CPU_IPI_IRQ,VAR_0
+cpu_has_vint,VAR_1
+cpu_ipi_irq,VAR_2
+handle_percpu_irq,VAR_3
+ipi_irq_dispatch,VAR_4
+irq_ipi,VAR_5
+panic,FUNC_0
+set_irq_handler,FUNC_1
+set_vi_handler,FUNC_2
+setup_irq_smtc,FUNC_3
+setup_cross_vpe_interrupts,FUNC_4
+nvpe,VAR_6

@@ -1,0 +1,15 @@
+CAM_DEV_NOT_THERE,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_SCSI_STATUS_ERROR,VAR_2
+SCSI_STATUS_CHECK_COND,VAR_3
+T_PROCESSOR,VAR_4
+arcmsr_iop_message_xfer,FUNC_0
+memcpy,FUNC_1
+scsiio_cdb_ptr,FUNC_2
+strncpy,FUNC_3
+xpt_done,FUNC_4
+arcmsr_handle_virtual_command,FUNC_5
+acb,VAR_5
+pccb,VAR_6
+inqdata,VAR_7
+buffer,VAR_8

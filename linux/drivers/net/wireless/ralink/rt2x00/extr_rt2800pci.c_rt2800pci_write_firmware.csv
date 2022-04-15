@@ -1,0 +1,13 @@
+FIRMWARE_IMAGE_BASE,VAR_0
+H2M_BBP_AGENT,VAR_1
+H2M_MAILBOX_CSR,VAR_2
+PBF_SYS_CTRL,VAR_3
+PBF_SYS_CTRL_HOST_RAM_WRITE,VAR_4
+rt2x00_set_field32,FUNC_0
+rt2x00mmio_register_multiwrite,FUNC_1
+rt2x00mmio_register_write,FUNC_2
+rt2800pci_write_firmware,FUNC_3
+rt2x00dev,VAR_5
+data,VAR_6
+len,VAR_7
+reg,VAR_8

@@ -1,0 +1,12 @@
+IRQF_SHARED,VAR_0
+PS2_CTRL_ENABLE,VAR_1
+PS2_CTRL_RXIRQ,VAR_2
+outb,FUNC_0
+pcips2_flush_input,FUNC_1
+pcips2_interrupt,VAR_3
+request_irq,FUNC_2
+pcips2_open,FUNC_3
+io,VAR_4
+ps2if,VAR_5
+ret,VAR_6
+val,VAR_7

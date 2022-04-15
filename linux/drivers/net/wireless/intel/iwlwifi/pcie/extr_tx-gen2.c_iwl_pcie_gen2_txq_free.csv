@@ -1,0 +1,13 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+WARN_ON,FUNC_1
+clear_bit,FUNC_2
+del_timer_sync,FUNC_3
+iwl_pcie_gen2_txq_free_memory,FUNC_4
+iwl_pcie_gen2_txq_unmap,FUNC_5
+kzfree,FUNC_6
+iwl_pcie_gen2_txq_free,FUNC_7
+trans,VAR_0
+txq_id,VAR_1
+trans_pcie,VAR_2
+txq,VAR_3
+i,VAR_4

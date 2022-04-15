@@ -1,0 +1,15 @@
+CFG_NO_LED,VAR_0
+EEPROM_NIC_TYPE_1,VAR_1
+IEEE_A,VAR_2
+IEEE_G,VAR_3
+IPW_DEBUG_LED,FUNC_0
+IPW_EVENT_REG,VAR_4
+ipw_read_reg32,FUNC_1
+ipw_register_toggle,FUNC_2
+ipw_write_reg32,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+ipw_led_band_on,FUNC_6
+priv,VAR_5
+flags,VAR_6
+led,VAR_7

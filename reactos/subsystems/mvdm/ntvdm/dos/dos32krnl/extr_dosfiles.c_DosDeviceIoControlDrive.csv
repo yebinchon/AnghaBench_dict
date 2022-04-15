@@ -1,0 +1,14 @@
+DPRINT1,FUNC_0
+ERROR_INVALID_FUNCTION,VAR_0
+FALSE,VAR_1
+GetDriveTypeA,FUNC_1
+Sda,VAR_2
+TRUE,VAR_3
+assert,FUNC_2
+DosDeviceIoControlDrive,FUNC_3
+DriveNumber,VAR_4
+ControlCode,VAR_5
+Buffer,VAR_6
+Result,VAR_7
+RootPath,VAR_8
+DriveType,VAR_9

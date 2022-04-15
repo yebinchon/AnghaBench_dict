@@ -1,0 +1,11 @@
+ATF_REQUIRE,FUNC_0
+O_CREAT,VAR_0
+O_TRUNC,VAR_1
+O_WRONLY,VAR_2
+RE,FUNC_1
+UNREACHABLE,VAR_3
+atf_process_stream_init_redirect_fd,FUNC_2
+open,FUNC_3
+redirect_fd_stream_init,FUNC_4
+v,VAR_4
+s,VAR_5

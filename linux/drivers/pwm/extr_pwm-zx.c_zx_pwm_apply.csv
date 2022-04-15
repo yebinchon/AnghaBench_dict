@@ -1,0 +1,17 @@
+PWM_POLARITY_INVERSED,VAR_0
+ZX_PWM_EN,VAR_1
+ZX_PWM_MODE,VAR_2
+ZX_PWM_POLAR,VAR_3
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+pwm_get_state,FUNC_2
+to_zx_pwm_chip,FUNC_3
+zx_pwm_config,FUNC_4
+zx_pwm_set_mask,FUNC_5
+zx_pwm_apply,FUNC_6
+chip,VAR_4
+pwm,VAR_5
+state,VAR_6
+zpc,VAR_7
+cstate,VAR_8
+ret,VAR_9

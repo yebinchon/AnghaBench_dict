@@ -1,0 +1,15 @@
+STRBUF_INIT,VAR_0
+copy_reflog_msg,FUNC_0
+oid_to_hex,FUNC_1
+strbuf_addch,FUNC_2
+strbuf_addf,FUNC_3
+strbuf_release,FUNC_4
+write_in_full,FUNC_5
+log_ref_write_fd,FUNC_6
+fd,VAR_1
+old_oid,VAR_2
+new_oid,VAR_3
+committer,VAR_4
+msg,VAR_5
+sb,VAR_6
+ret,VAR_7

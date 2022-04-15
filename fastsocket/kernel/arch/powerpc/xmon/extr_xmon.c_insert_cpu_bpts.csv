@@ -1,0 +1,10 @@
+BP_IABR,VAR_0
+BP_IABR_TE,VAR_1
+CPU_FTR_IABR,VAR_2
+SPRN_IABR,VAR_3
+cpu_has_feature,FUNC_0
+dabr,VAR_4
+iabr,VAR_5
+mtspr,FUNC_1
+set_dabr,FUNC_2
+insert_cpu_bpts,FUNC_3

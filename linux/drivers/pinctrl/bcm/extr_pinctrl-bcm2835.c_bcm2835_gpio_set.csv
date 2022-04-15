@@ -1,0 +1,9 @@
+GPCLR0,VAR_0
+GPSET0,VAR_1
+bcm2835_gpio_set_bit,FUNC_0
+gpiochip_get_data,FUNC_1
+bcm2835_gpio_set,FUNC_2
+chip,VAR_2
+offset,VAR_3
+value,VAR_4
+pc,VAR_5

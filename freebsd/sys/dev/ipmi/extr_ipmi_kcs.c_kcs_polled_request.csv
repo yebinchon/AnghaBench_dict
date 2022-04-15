@@ -1,0 +1,17 @@
+IPMI_IO_LOCK,FUNC_0
+IPMI_IO_UNLOCK,FUNC_1
+IPMI_REPLY_ADDR,FUNC_2
+bootverbose,VAR_0
+device_printf,FUNC_3
+kcs_error,FUNC_4
+kcs_read_byte,FUNC_5
+kcs_start_write,FUNC_6
+kcs_write_byte,FUNC_7
+kcs_write_last_byte,FUNC_8
+kcs_polled_request,FUNC_9
+sc,VAR_1
+req,VAR_2
+cp,VAR_3
+data,VAR_4
+i,VAR_5
+state,VAR_6

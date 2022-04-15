@@ -1,0 +1,8 @@
+IF_SDIO_RX_LEN,VAR_0
+if_sdio_read_scratch,FUNC_0
+sdio_readb,FUNC_1
+if_sdio_read_rx_len,FUNC_2
+card,VAR_1
+err,VAR_2
+ret,VAR_3
+rx_len,VAR_4

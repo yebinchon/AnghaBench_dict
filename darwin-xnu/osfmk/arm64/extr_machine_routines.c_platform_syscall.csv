@@ -1,0 +1,11 @@
+dcache_flush_trap,FUNC_0
+get_saved_state_reg,FUNC_1
+icache_invalidate_trap,FUNC_2
+platform_syscall_kprintf,FUNC_3
+set_saved_state_reg,FUNC_4
+thread_exception_return,FUNC_5
+thread_get_cthread_self,FUNC_6
+thread_set_cthread_self,FUNC_7
+platform_syscall,FUNC_8
+state,VAR_0
+code,VAR_1

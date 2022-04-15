@@ -1,0 +1,16 @@
+Assert,FUNC_0
+COMPRESSION_ALGORITHM_DICTIONARY,VAR_0
+VARSIZE,FUNC_1
+array_compressed_data_send,FUNC_2
+pq_sendbyte,FUNC_3
+simple8brle_serialized_send,FUNC_4
+simple8brle_serialized_total_size,FUNC_5
+type_append_to_binary_string,FUNC_6
+dictionary_compressed_send,FUNC_7
+header,VAR_1
+buffer,VAR_2
+data_size,VAR_3
+size,VAR_4
+compressed_header,VAR_5
+compressed_data,VAR_6
+size,VAR_7

@@ -1,0 +1,17 @@
+DEBUGFUNC,FUNC_0
+IXGBE_EEPROM_PAGE_SIZE_MAX,VAR_0
+IXGBE_EEPROM_RD_BUFFER_MAX_COUNT,VAR_1
+IXGBE_ERR_EEPROM,VAR_2
+IXGBE_ERR_INVALID_ARGUMENT,VAR_3
+IXGBE_SUCCESS,VAR_4
+ixgbe_detect_eeprom_page_size_generic,FUNC_1
+ixgbe_write_eeprom_buffer_bit_bang,FUNC_2
+stub1,FUNC_3
+ixgbe_write_eeprom_buffer_bit_bang_generic,FUNC_4
+hw,VAR_5
+offset,VAR_6
+words,VAR_7
+data,VAR_8
+status,VAR_9
+i,VAR_10
+count,VAR_11

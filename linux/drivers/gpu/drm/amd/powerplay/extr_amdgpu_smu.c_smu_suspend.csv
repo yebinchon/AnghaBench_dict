@@ -1,0 +1,14 @@
+CHIP_NAVI10,VAR_0
+SMU_FEATURE_BACO_BIT,VAR_1
+WATERMARKS_LOADED,VAR_2
+pr_warn,FUNC_0
+smu_feature_is_enabled,FUNC_1
+smu_feature_set_enabled,FUNC_2
+smu_system_features_control,FUNC_3
+stub1,FUNC_4
+smu_suspend,FUNC_5
+handle,VAR_3
+ret,VAR_4
+adev,VAR_5
+smu,VAR_6
+baco_feature_is_enabled,VAR_7

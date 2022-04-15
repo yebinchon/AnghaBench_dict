@@ -1,0 +1,15 @@
+MODIFY_AUX_CORE_0,VAR_0
+WRITE_AUX_CORE_1,VAR_1
+bus_space_map,FUNC_0
+bus_space_unmap,FUNC_1
+dcache_wbinv_poc_all,FUNC_2
+dsb,FUNC_3
+fdtbus_bs_tag,VAR_2
+mpentry,VAR_3
+panic,FUNC_4
+pmap_kextract,FUNC_5
+sev,FUNC_6
+ti_smc0,FUNC_7
+omap4_mp_start_ap,FUNC_8
+plat,VAR_4
+scu_addr,VAR_5

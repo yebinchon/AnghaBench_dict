@@ -1,0 +1,15 @@
+RAND_DRBG_get0_master,FUNC_0
+RAND_DRBG_uninstantiate,FUNC_1
+RAND_seed,FUNC_2
+RAND_status,FUNC_3
+TEST_int_eq,FUNC_4
+TEST_ptr,FUNC_5
+TEST_true,FUNC_6
+disable_crngt,FUNC_7
+memset,FUNC_8
+rand_drbg_seedlen,FUNC_9
+test_rand_seed,FUNC_10
+master,VAR_0
+rand_buf,VAR_1
+rand_buflen,VAR_2
+required_seed_buflen,VAR_3

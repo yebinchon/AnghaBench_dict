@@ -1,0 +1,17 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+GIT_OBJECT_ANY,VAR_2
+assert_on_branch,FUNC_0
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_3
+git_checkout_tree,FUNC_3
+git_object_free,FUNC_4
+git_object_lookup,FUNC_5
+git_reference_name_to_id,FUNC_6
+perfdata_cb,VAR_4
+test_checkout_tree__can_collect_perfdata,FUNC_7
+opts,VAR_5
+oid,VAR_6
+obj,VAR_7
+perfdata,VAR_8

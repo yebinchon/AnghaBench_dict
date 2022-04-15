@@ -1,0 +1,11 @@
+NAU8825_GPIO2JD1,VAR_0
+NAU8825_JACK_POLARITY,VAR_1
+NAU8825_REG_I2C_DEVICE_ID,VAR_2
+NAU8825_REG_JACK_DET_CTRL,VAR_3
+regmap_read,FUNC_0
+nau8825_is_jack_inserted,FUNC_1
+regmap,VAR_4
+active_high,VAR_5
+is_high,VAR_6
+status,VAR_7
+jkdet,VAR_8

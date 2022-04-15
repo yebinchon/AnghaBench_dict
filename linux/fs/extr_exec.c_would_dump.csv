@@ -1,0 +1,14 @@
+BINPRM_FLAGS_ENFORCE_NONDUMP,VAR_0
+MAY_READ,VAR_1
+file_inode,FUNC_0
+get_user_ns,FUNC_1
+init_user_ns,VAR_2
+inode_permission,FUNC_2
+privileged_wrt_inode_uidgid,FUNC_3
+put_user_ns,FUNC_4
+would_dump,FUNC_5
+bprm,VAR_3
+file,VAR_4
+inode,VAR_5
+old,VAR_6
+user_ns,VAR_7

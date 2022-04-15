@@ -1,0 +1,16 @@
+DC_IS_PNIC,FUNC_0
+DC_IS_XIRCOM,FUNC_1
+be16toh,FUNC_2
+dc_eeprom_getword,FUNC_3
+dc_eeprom_getword_pnic,FUNC_4
+dc_eeprom_getword_xircom,FUNC_5
+le16toh,FUNC_6
+dc_read_eeprom,FUNC_7
+sc,VAR_0
+dest,VAR_1
+off,VAR_2
+cnt,VAR_3
+be,VAR_4
+i,VAR_5
+word,VAR_6
+ptr,VAR_7

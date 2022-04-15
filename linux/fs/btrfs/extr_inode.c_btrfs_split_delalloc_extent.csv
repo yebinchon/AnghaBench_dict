@@ -1,0 +1,14 @@
+BTRFS_I,FUNC_0
+BTRFS_MAX_EXTENT_SIZE,VAR_0
+EXTENT_DELALLOC,VAR_1
+btrfs_mod_outstanding_extents,FUNC_1
+count_max_extents,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+btrfs_split_delalloc_extent,FUNC_5
+inode,VAR_2
+orig,VAR_3
+split,VAR_4
+size,VAR_5
+num_extents,VAR_6
+new_size,VAR_7

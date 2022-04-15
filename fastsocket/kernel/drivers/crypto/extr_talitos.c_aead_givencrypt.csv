@@ -1,0 +1,17 @@
+DESC_HDR_MODE0_ENCRYPT,VAR_0
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+aead_edesc_alloc,FUNC_2
+cpu_to_be64,FUNC_3
+crypto_aead_ctx,FUNC_4
+crypto_aead_ivsize,FUNC_5
+crypto_aead_reqtfm,FUNC_6
+ipsec_esp,FUNC_7
+ipsec_esp_encrypt_done,VAR_1
+memcpy,FUNC_8
+aead_givencrypt,FUNC_9
+req,VAR_2
+areq,VAR_3
+authenc,VAR_4
+ctx,VAR_5
+edesc,VAR_6

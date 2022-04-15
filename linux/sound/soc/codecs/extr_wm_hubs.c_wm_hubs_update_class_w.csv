@@ -1,0 +1,16 @@
+WM8993_CLASS_W_0,VAR_0
+WM8993_CP_DYN_FREQ,VAR_1
+WM8993_CP_DYN_V,VAR_2
+WM8993_LEFT_OUTPUT_VOLUME,VAR_3
+WM8993_RIGHT_OUTPUT_VOLUME,VAR_4
+dev_vdbg,FUNC_0
+snd_soc_component_get_drvdata,FUNC_1
+snd_soc_component_read32,FUNC_2
+snd_soc_component_update_bits,FUNC_3
+snd_soc_component_write,FUNC_4
+stub1,FUNC_5
+wm_hubs_dac_hp_direct,FUNC_6
+wm_hubs_update_class_w,FUNC_7
+component,VAR_5
+hubs,VAR_6
+enable,VAR_7

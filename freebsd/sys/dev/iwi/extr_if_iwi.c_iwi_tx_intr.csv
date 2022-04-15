@@ -1,0 +1,15 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+CSR_READ_4,FUNC_0
+DPRINTFN,FUNC_1
+IWI_LED_TX,VAR_1
+IWI_TX_RING_COUNT,VAR_2
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+ieee80211_tx_complete,FUNC_4
+iwi_led_event,FUNC_5
+iwi_start,FUNC_6
+iwi_tx_intr,FUNC_7
+sc,VAR_3
+txq,VAR_4
+data,VAR_5
+hw,VAR_6

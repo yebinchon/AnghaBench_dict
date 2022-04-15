@@ -1,0 +1,12 @@
+TEGRA_RTC_INTR_STATUS_SEC_ALARM0,VAR_0
+TEGRA_RTC_REG_INTR_STATUS,VAR_1
+TEGRA_RTC_REG_SECONDS_ALARM0,VAR_2
+dev_get_drvdata,FUNC_0
+readl,FUNC_1
+rtc_time64_to_tm,FUNC_2
+tegra_rtc_read_alarm,FUNC_3
+dev,VAR_3
+alarm,VAR_4
+info,VAR_5
+sec,VAR_6
+value,VAR_7

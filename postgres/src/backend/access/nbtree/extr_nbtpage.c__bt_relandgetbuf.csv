@@ -1,0 +1,13 @@
+Assert,FUNC_0
+BUFFER_LOCK_UNLOCK,VAR_0
+BufferIsValid,FUNC_1
+LockBuffer,FUNC_2
+P_NEW,VAR_1
+ReleaseAndReadBuffer,FUNC_3
+_bt_checkpage,FUNC_4
+_bt_relandgetbuf,FUNC_5
+rel,VAR_2
+obuf,VAR_3
+blkno,VAR_4
+access,VAR_5
+buf,VAR_6

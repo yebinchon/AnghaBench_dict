@@ -1,0 +1,12 @@
+GIT_CONFIG_LEVEL_LOCAL,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_dispose,FUNC_3
+git_config_add_file_ondisk,FUNC_4
+git_config_free,FUNC_5
+git_config_get_string_buf,FUNC_6
+git_config_new,FUNC_7
+test_config_configlevel__can_replace_a_config_file_at_an_existing_level,FUNC_8
+cfg,VAR_1
+buf,VAR_2

@@ -1,0 +1,12 @@
+amdgpu_acpi_fini,FUNC_0
+amdgpu_device_fini,FUNC_1
+amdgpu_device_is_px,FUNC_2
+amdgpu_sriov_vf,FUNC_3
+amdgpu_unregister_gpu_instance,FUNC_4
+amdgpu_virt_request_full_gpu,FUNC_5
+kfree,FUNC_6
+pm_runtime_forbid,FUNC_7
+pm_runtime_get_sync,FUNC_8
+amdgpu_driver_unload_kms,FUNC_9
+dev,VAR_0
+adev,VAR_1

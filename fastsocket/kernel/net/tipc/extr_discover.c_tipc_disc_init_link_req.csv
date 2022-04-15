@@ -1,0 +1,16 @@
+DSC_REQ_MSG,VAR_0
+GFP_ATOMIC,VAR_1
+TIPC_LINK_REQ_INIT,VAR_2
+disc_timeout,VAR_3
+k_init_timer,FUNC_0
+k_start_timer,FUNC_1
+kfree,FUNC_2
+kmalloc,FUNC_3
+memcpy,FUNC_4
+tipc_disc_init_msg,FUNC_5
+tipc_disc_init_link_req,FUNC_6
+b_ptr,VAR_4
+dest,VAR_5
+dest_domain,VAR_6
+req_links,VAR_7
+req,VAR_8

@@ -1,0 +1,17 @@
+DMA_TO_DEVICE,VAR_0
+END_OF_RING,VAR_1
+LAST_SEGMENT,VAR_2
+TX_DESCS,VAR_3
+dma_map_single,FUNC_0
+wmb,FUNC_1
+eth_set_desc,FUNC_2
+sw,VAR_4
+tx_ring,VAR_5
+index,VAR_6
+index_last,VAR_7
+data,VAR_8
+len,VAR_9
+config0,VAR_10
+pmap,VAR_11
+tx_desc,VAR_12
+phys,VAR_13

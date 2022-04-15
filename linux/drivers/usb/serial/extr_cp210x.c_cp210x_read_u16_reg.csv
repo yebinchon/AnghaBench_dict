@@ -1,0 +1,8 @@
+cp210x_read_reg_block,FUNC_0
+le16_to_cpu,FUNC_1
+cp210x_read_u16_reg,FUNC_2
+port,VAR_0
+req,VAR_1
+val,VAR_2
+le16_val,VAR_3
+err,VAR_4

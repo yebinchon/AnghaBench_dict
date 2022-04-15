@@ -1,0 +1,16 @@
+ICE_IEEE_8021QAZ_OUI,VAR_0
+ICE_IEEE_ETS_TLV_LEN,VAR_1
+ICE_IEEE_SUBTYPE_ETS_REC,VAR_2
+ICE_LLDP_TLV_OUI_S,VAR_3
+ICE_LLDP_TLV_TYPE_S,VAR_4
+ICE_TLV_TYPE_ORG,VAR_5
+htonl,FUNC_0
+htons,FUNC_1
+ice_add_ieee_ets_common_tlv,FUNC_2
+ice_add_ieee_etsrec_tlv,FUNC_3
+tlv,VAR_6
+dcbcfg,VAR_7
+etsrec,VAR_8
+buf,VAR_9
+ouisubtype,VAR_10
+typelen,VAR_11

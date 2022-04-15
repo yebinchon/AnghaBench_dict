@@ -1,0 +1,17 @@
+AC97C_CMR_CENA,VAR_0
+AC97C_CSR_ENDTX,VAR_1
+ATMEL_PDC_PTCR,VAR_2
+ATMEL_PDC_TXTDIS,VAR_3
+ATMEL_PDC_TXTEN,VAR_4
+CAMR,VAR_5
+EINVAL,VAR_6
+ac97c_readl,FUNC_0
+ac97c_writel,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+writel,FUNC_3
+atmel_ac97c_playback_trigger,FUNC_4
+substream,VAR_7
+cmd,VAR_8
+chip,VAR_9
+camr,VAR_10
+ptcr,VAR_11

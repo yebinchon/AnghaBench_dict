@@ -1,0 +1,9 @@
+MPIC_U3_HT_IRQS,VAR_0
+irq_domain_get_of_node,FUNC_0
+mpic_msi_reserve_u3_hwirqs,FUNC_1
+msi_bitmap_alloc,FUNC_2
+msi_bitmap_free,FUNC_3
+msi_bitmap_reserve_dt_hwirqs,FUNC_4
+mpic_msi_init_allocator,FUNC_5
+mpic,VAR_1
+rc,VAR_2

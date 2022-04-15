@@ -1,0 +1,17 @@
+DRV_SPI_BUFFER_EVENT_PENDING,VAR_0
+DRV_SPI_SYS_QUEUE_AllocElementLock,FUNC_0
+DRV_SPI_SYS_QUEUE_EnqueueLock,FUNC_1
+DRV_SPI_SYS_QUEUE_SUCCESS,VAR_1
+SYS_ASSERT,FUNC_2
+gDrvSPI0Obj,VAR_2
+memset,FUNC_3
+DRV_SPI0_BufferAddWriteRead2,FUNC_4
+txBuffer,VAR_3
+txSize,VAR_4
+rxBuffer,VAR_5
+rxSize,VAR_6
+completeCB,VAR_7
+context,VAR_8
+jobHandle,VAR_9
+dObj,VAR_10
+pJob,VAR_11

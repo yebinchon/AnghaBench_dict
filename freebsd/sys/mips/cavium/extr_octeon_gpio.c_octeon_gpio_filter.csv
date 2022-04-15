@@ -1,0 +1,14 @@
+CVMX_GPIO_BIT_CFGX,FUNC_0
+FILTER_SCHEDULE_THREAD,VAR_0
+FILTER_STRAY,VAR_1
+OCTEON_GPIO_IRQS,VAR_2
+OCTEON_GPIO_IRQ_EDGE,VAR_3
+cvmx_gpio_interrupt_clear,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+octeon_gpio_filter,FUNC_4
+arg,VAR_4
+gpio_cfgx,VAR_5
+cookie,VAR_6
+sc,VAR_7
+irq,VAR_8

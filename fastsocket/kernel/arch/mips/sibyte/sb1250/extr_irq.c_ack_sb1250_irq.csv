@@ -1,0 +1,13 @@
+A_IMR_REGISTER,FUNC_0
+IOADDR,FUNC_1
+NR_CPUS,VAR_0
+R_IMR_LDT_INTERRUPT,VAR_1
+R_IMR_LDT_INTERRUPT_CLR,VAR_2
+__raw_readq,FUNC_2
+__raw_writeq,FUNC_3
+cpu_logical_map,FUNC_4
+ldt_eoi_space,VAR_3
+sb1250_irq_owner,VAR_4
+sb1250_mask_irq,FUNC_5
+ack_sb1250_irq,FUNC_6
+irq,VAR_5

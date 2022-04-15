@@ -1,0 +1,14 @@
+BUS_ALLOC_RESOURCE,FUNC_0
+BUS_GET_RESOURCE_LIST,FUNC_1
+device_get_parent,FUNC_2
+resource_list_alloc,FUNC_3
+bus_generic_rl_alloc_resource,FUNC_4
+dev,VAR_0
+child,VAR_1
+type,VAR_2
+rid,VAR_3
+start,VAR_4
+end,VAR_5
+count,VAR_6
+flags,VAR_7
+rl,VAR_8

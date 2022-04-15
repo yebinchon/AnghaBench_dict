@@ -1,0 +1,14 @@
+EVP_DigestFinal_ex,FUNC_0
+EVP_DigestInit_ex,FUNC_1
+EVP_DigestUpdate,FUNC_2
+EVP_MD_CTX_free,FUNC_3
+EVP_MD_CTX_new,FUNC_4
+EVP_sha1,FUNC_5
+derive_pvk_key,FUNC_6
+key,VAR_0
+salt,VAR_1
+saltlen,VAR_2
+pass,VAR_3
+passlen,VAR_4
+mctx,VAR_5
+rv,VAR_6

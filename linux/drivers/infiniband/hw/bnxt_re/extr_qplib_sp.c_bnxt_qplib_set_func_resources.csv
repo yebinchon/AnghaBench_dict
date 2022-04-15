@@ -1,0 +1,13 @@
+RCFW_CMD_PREP,FUNC_0
+SET_FUNC_RESOURCES,VAR_0
+bnxt_qplib_rcfw_send_message,FUNC_1
+cpu_to_le32,FUNC_2
+dev_err,FUNC_3
+bnxt_qplib_set_func_resources,FUNC_4
+res,VAR_1
+rcfw,VAR_2
+ctx,VAR_3
+req,VAR_4
+resp,VAR_5
+cmd_flags,VAR_6
+rc,VAR_7

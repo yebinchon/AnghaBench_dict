@@ -1,0 +1,14 @@
+ECMPHREG,VAR_0
+ECMPLREG,VAR_1
+ECMPMREG,VAR_2
+RTCL1HREG,VAR_3
+RTCL1LREG,VAR_4
+aie_irq,VAR_5
+disable_irq,FUNC_0
+pie_irq,VAR_6
+rtc1_write,FUNC_1
+rtc_lock,VAR_7
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+vr41xx_rtc_release,FUNC_4
+dev,VAR_8

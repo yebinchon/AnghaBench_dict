@@ -1,0 +1,12 @@
+TASK_TRACED,VAR_0
+UTRACE_REPORT,VAR_1
+__set_task_state,FUNC_0
+likely,FUNC_1
+set_notify_resume,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+task_is_stopped,FUNC_5
+task_is_traced,FUNC_6
+utrace_do_stop,FUNC_7
+target,VAR_2
+utrace,VAR_3

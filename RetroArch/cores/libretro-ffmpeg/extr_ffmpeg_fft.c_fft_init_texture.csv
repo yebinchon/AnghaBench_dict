@@ -1,0 +1,16 @@
+GL_TEXTURE_2D,VAR_0
+GL_TEXTURE_MAG_FILTER,VAR_1
+GL_TEXTURE_MIN_FILTER,VAR_2
+glBindTexture,FUNC_0
+glGenTextures,FUNC_1
+glTexParameteri,FUNC_2
+glTexStorage2D,FUNC_3
+fft_init_texture,FUNC_4
+fft,VAR_3
+tex,VAR_4
+format,VAR_5
+width,VAR_6
+height,VAR_7
+levels,VAR_8
+mag,VAR_9
+min,VAR_10

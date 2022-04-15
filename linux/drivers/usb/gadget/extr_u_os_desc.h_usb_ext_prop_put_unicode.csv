@@ -1,0 +1,13 @@
+USB_EXT_PROP_B_PROPERTY_DATA,VAR_0
+UTF16_LITTLE_ENDIAN,VAR_1
+put_unaligned_le16,FUNC_0
+put_unaligned_le32,FUNC_1
+usb_ext_prop_data_len_ptr,FUNC_2
+usb_ext_prop_data_ptr,FUNC_3
+utf8s_to_utf16s,FUNC_4
+usb_ext_prop_put_unicode,FUNC_5
+buf,VAR_2
+pnl,VAR_3
+string,VAR_4
+data_len,VAR_5
+result,VAR_6

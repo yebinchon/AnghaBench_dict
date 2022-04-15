@@ -1,0 +1,17 @@
+BTRFS_UPDATE_DELAYED_HEAD,VAR_0
+ENOMEM,VAR_1
+GFP_NOFS,VAR_2
+add_delayed_ref_head,FUNC_0
+kmalloc,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+waitqueue_active,FUNC_4
+wake_up,FUNC_5
+btrfs_add_delayed_extent_op,FUNC_6
+fs_info,VAR_3
+trans,VAR_4
+bytenr,VAR_5
+num_bytes,VAR_6
+extent_op,VAR_7
+head_ref,VAR_8
+delayed_refs,VAR_9

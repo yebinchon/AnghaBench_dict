@@ -1,0 +1,15 @@
+IFA_F_OPTIMISTIC,VAR_0
+IFA_F_TENTATIVE,VAR_1
+NDISC_NEIGHBOUR_SOLICITATION,VAR_2
+ND_OPT_SOURCE_LL_ADDR,VAR_3
+__ndisc_send,FUNC_0
+ipv6_addr_any,FUNC_1
+ipv6_get_lladdr,FUNC_2
+ndisc_send_ns,FUNC_3
+dev,VAR_4
+neigh,VAR_5
+solicit,VAR_6
+daddr,VAR_7
+saddr,VAR_8
+addr_buf,VAR_9
+icmp6h,VAR_10

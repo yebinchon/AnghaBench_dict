@@ -1,0 +1,16 @@
+TLB_LOCAL_SHOOTDOWN,VAR_0
+cpumask_any_but,FUNC_0
+cpumask_clear,FUNC_1
+cpumask_test_cpu,FUNC_2
+flush_tlb_func_local,FUNC_3
+flush_tlb_others,FUNC_4
+full_flush_tlb_info,VAR_1
+get_cpu,FUNC_5
+local_irq_disable,FUNC_6
+local_irq_enable,FUNC_7
+lockdep_assert_irqs_enabled,FUNC_8
+nr_cpu_ids,VAR_2
+put_cpu,FUNC_9
+arch_tlbbatch_flush,FUNC_10
+batch,VAR_3
+cpu,VAR_4

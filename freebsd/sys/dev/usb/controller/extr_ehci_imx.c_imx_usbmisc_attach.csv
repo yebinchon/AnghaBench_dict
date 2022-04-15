@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+OF_device_register_xref,FUNC_0
+OF_xref_from_node,FUNC_1
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+ofw_bus_get_node,FUNC_5
+imx_usbmisc_attach,FUNC_6
+dev,VAR_3
+sc,VAR_4
+err,VAR_5
+rid,VAR_6

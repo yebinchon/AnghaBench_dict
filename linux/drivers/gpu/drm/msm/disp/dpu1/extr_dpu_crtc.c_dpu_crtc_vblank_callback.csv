@@ -1,0 +1,11 @@
+DRMID,FUNC_0
+_dpu_crtc_complete_flip,FUNC_1
+drm_crtc_handle_vblank,FUNC_2
+ktime_compare,FUNC_3
+ktime_get,FUNC_4
+ktime_set,FUNC_5
+to_dpu_crtc,FUNC_6
+trace_dpu_crtc_vblank_cb,FUNC_7
+dpu_crtc_vblank_callback,FUNC_8
+crtc,VAR_0
+dpu_crtc,VAR_1

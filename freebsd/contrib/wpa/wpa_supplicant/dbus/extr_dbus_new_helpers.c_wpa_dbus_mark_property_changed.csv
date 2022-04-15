@@ -1,0 +1,16 @@
+MSG_ERROR,VAR_0
+WPA_DBUS_SEND_PROP_CHANGED_TIMEOUT,VAR_1
+dbus_connection_get_object_path_data,FUNC_0
+eloop_is_timeout_registered,FUNC_1
+eloop_register_timeout,FUNC_2
+flush_object_timeout_handler,VAR_2
+os_strcmp,FUNC_3
+wpa_printf,FUNC_4
+wpa_dbus_mark_property_changed,FUNC_5
+iface,VAR_3
+path,VAR_4
+interface,VAR_5
+property,VAR_6
+obj_desc,VAR_7
+dsc,VAR_8
+i,VAR_9

@@ -1,0 +1,15 @@
+MASK_SYS_STATUS_EOBI,VAR_0
+MASK_SYS_STATUS_EOBO,VAR_1
+MASK_SYS_STATUS_FREQ,VAR_2
+dev_dbg,FUNC_0
+lx_dsp_read_async_events,FUNC_1
+lx_interrupt_handle_async_events,FUNC_2
+chip,VAR_3
+irqsrc,VAR_4
+r_freq_changed,VAR_5
+r_notified_in_pipe_mask,VAR_6
+r_notified_out_pipe_mask,VAR_7
+err,VAR_8
+stat,VAR_9
+eb_pending_out,VAR_10
+eb_pending_in,VAR_11

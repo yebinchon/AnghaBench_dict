@@ -1,0 +1,15 @@
+PERF_RECORD_MISC_COMM_EXEC,VAR_0
+__thread__set_comm,FUNC_0
+dump_printf,FUNC_1
+dump_trace,VAR_1
+machine__findnew_thread,FUNC_2
+perf_event__fprintf_comm,FUNC_3
+stdout,VAR_2
+thread__put,FUNC_4
+machine__process_comm_event,FUNC_5
+machine,VAR_3
+event,VAR_4
+sample,VAR_5
+thread,VAR_6
+exec,VAR_7
+err,VAR_8

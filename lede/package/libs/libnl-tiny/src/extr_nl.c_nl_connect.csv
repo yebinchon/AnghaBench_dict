@@ -1,0 +1,17 @@
+AF_NETLINK,VAR_0
+NLE_AF_NOSUPPORT,VAR_1
+NLE_NOADDR,VAR_2
+NL_SOCK_BUFSIZE_SET,VAR_3
+SOCK_RAW,VAR_4
+bind,FUNC_0
+close,FUNC_1
+errno,VAR_5
+getsockname,FUNC_2
+nl_socket_set_buffer_size,FUNC_3
+nl_syserr2nlerr,FUNC_4
+socket,FUNC_5
+nl_connect,FUNC_6
+sk,VAR_6
+protocol,VAR_7
+err,VAR_8
+addrlen,VAR_9

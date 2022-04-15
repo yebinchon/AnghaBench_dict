@@ -1,0 +1,12 @@
+HWMOD_IDLEMODE_FORCE,VAR_0
+SYSC_HAS_AUTOIDLE,VAR_1
+SYSC_HAS_MIDLEMODE,VAR_2
+SYSC_HAS_SIDLEMODE,VAR_3
+_set_master_standbymode,FUNC_0
+_set_module_autoidle,FUNC_1
+_set_slave_idlemode,FUNC_2
+_write_sysconfig,FUNC_3
+_shutdown_sysc,FUNC_4
+oh,VAR_4
+v,VAR_5
+sf,VAR_6

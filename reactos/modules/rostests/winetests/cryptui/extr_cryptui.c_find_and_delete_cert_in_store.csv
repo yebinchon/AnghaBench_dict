@@ -1,0 +1,13 @@
+CERT_FIND_CERT_ID,VAR_0
+CERT_ID_ISSUER_SERIAL_NUMBER,VAR_1
+CertDeleteCertificateFromStore,FUNC_0
+CertFindCertificateInStore,FUNC_1
+FALSE,VAR_2
+TRUE,VAR_3
+X509_ASN_ENCODING,VAR_4
+memcpy,FUNC_2
+find_and_delete_cert_in_store,FUNC_3
+store,VAR_5
+cert,VAR_6
+id,VAR_7
+found,VAR_8

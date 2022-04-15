@@ -1,0 +1,13 @@
+SNDRV_PCM_HW_PARAM_FRAME_BITS,VAR_0
+SNDRV_PCM_HW_PARAM_RATE,VAR_1
+lochnagar_sc_hw_rule_rate,VAR_2
+lochnagar_sc_rate_constraint,VAR_3
+snd_pcm_hw_constraint_list,FUNC_0
+snd_pcm_hw_rule_add,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+lochnagar_sc_startup,FUNC_3
+substream,VAR_4
+dai,VAR_5
+comp,VAR_6
+priv,VAR_7
+ret,VAR_8

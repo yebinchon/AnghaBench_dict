@@ -1,0 +1,17 @@
+COMEDI_CB_ERROR,VAR_0
+STAT1_DAVAIL,VAR_1
+STAT1_REG,VAR_2
+TRIG_COUNT,VAR_3
+comedi_buf_write_samples,FUNC_0
+dev_err,FUNC_1
+labpc_read_adc_fifo,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+labpc_drain_fifo,FUNC_5
+dev,VAR_4
+devpriv,VAR_5
+async,VAR_6
+cmd,VAR_7
+data,VAR_8
+timeout,VAR_9
+i,VAR_10

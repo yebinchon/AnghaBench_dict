@@ -1,0 +1,10 @@
+CS_PKT_MEDIA_FILE_REQUEST,VAR_0
+bytestream_put_le32,FUNC_0
+insert_command_prefixes,FUNC_1
+mms_put_utf16,FUNC_2
+send_command_packet,FUNC_3
+start_command_packet,FUNC_4
+send_media_file_request,FUNC_5
+mmst,VAR_1
+ret,VAR_2
+mms,VAR_3

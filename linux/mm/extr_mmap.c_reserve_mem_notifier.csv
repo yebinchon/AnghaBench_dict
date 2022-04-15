@@ -1,0 +1,15 @@
+NOTIFY_OK,VAR_0
+NR_FREE_PAGES,VAR_1
+PAGE_SHIFT,VAR_2
+global_zone_page_state,FUNC_0
+init_admin_reserve,FUNC_1
+init_user_reserve,FUNC_2
+pr_info,FUNC_3
+sysctl_admin_reserve_kbytes,VAR_3
+sysctl_user_reserve_kbytes,VAR_4
+reserve_mem_notifier,FUNC_4
+nb,VAR_5
+action,VAR_6
+data,VAR_7
+tmp,VAR_8
+free_kbytes,VAR_9

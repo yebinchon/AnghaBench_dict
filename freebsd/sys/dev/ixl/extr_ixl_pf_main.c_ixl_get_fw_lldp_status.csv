@@ -1,0 +1,12 @@
+I40E_SUCCESS,VAR_0
+IXL_PF_STATE_FW_LLDP_DISABLED,VAR_1
+atomic_clear_int,FUNC_0
+atomic_set_int,FUNC_1
+device_printf,FUNC_2
+i40e_read_lldp_cfg,FUNC_3
+ixl_get_fw_lldp_status,FUNC_4
+pf,VAR_2
+ret,VAR_3
+lldp_cfg,VAR_4
+hw,VAR_5
+adminstatus,VAR_6

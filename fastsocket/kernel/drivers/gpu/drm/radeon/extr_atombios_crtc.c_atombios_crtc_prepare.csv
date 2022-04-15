@@ -1,0 +1,13 @@
+ASIC_IS_DCE6,FUNC_0
+ATOM_DISABLE,VAR_0
+ATOM_ENABLE,VAR_1
+DRM_MODE_DPMS_OFF,VAR_2
+atombios_crtc_dpms,FUNC_1
+atombios_lock_crtc,FUNC_2
+atombios_powergate_crtc,FUNC_3
+to_radeon_crtc,FUNC_4
+atombios_crtc_prepare,FUNC_5
+crtc,VAR_3
+radeon_crtc,VAR_4
+dev,VAR_5
+rdev,VAR_6

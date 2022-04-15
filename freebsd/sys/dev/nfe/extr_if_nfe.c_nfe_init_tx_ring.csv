@@ -1,0 +1,11 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+NFE_40BIT_ADDR,VAR_2
+NFE_TX_RING_COUNT,VAR_3
+bus_dmamap_sync,FUNC_0
+bzero,FUNC_1
+nfe_init_tx_ring,FUNC_2
+sc,VAR_4
+ring,VAR_5
+desc,VAR_6
+descsize,VAR_7

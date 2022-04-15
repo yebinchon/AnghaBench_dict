@@ -1,0 +1,12 @@
+TB_CFG_REQUEST_ACTIVE,VAR_0
+TB_CFG_REQUEST_CANCELED,VAR_1
+clear_bit,FUNC_0
+list_del,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+tb_cfg_request_cancel_queue,VAR_2
+test_bit,FUNC_4
+wake_up,FUNC_5
+tb_cfg_request_dequeue,FUNC_6
+req,VAR_3
+ctl,VAR_4

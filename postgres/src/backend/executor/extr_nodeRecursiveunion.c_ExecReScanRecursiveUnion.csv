@@ -1,0 +1,12 @@
+ExecReScan,FUNC_0
+MemoryContextResetAndDeleteChildren,FUNC_1
+ResetTupleHashTable,FUNC_2
+bms_add_member,FUNC_3
+innerPlanState,FUNC_4
+outerPlanState,FUNC_5
+tuplestore_clear,FUNC_6
+ExecReScanRecursiveUnion,FUNC_7
+node,VAR_0
+outerPlan,VAR_1
+innerPlan,VAR_2
+plan,VAR_3

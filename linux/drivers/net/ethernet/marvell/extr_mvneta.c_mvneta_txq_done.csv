@@ -1,0 +1,10 @@
+mvneta_txq_bufs_free,FUNC_0
+mvneta_txq_sent_desc_proc,FUNC_1
+netdev_get_tx_queue,FUNC_2
+netif_tx_queue_stopped,FUNC_3
+netif_tx_wake_queue,FUNC_4
+mvneta_txq_done,FUNC_5
+pp,VAR_0
+txq,VAR_1
+nq,VAR_2
+tx_done,VAR_3

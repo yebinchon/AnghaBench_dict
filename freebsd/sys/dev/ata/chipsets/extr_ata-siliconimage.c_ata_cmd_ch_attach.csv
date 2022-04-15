@@ -1,0 +1,11 @@
+ATA_NO_ATAPI_DMA,VAR_0
+ENXIO,VAR_1
+SII_INTR,VAR_2
+ata_cmd_status,VAR_3
+ata_pci_ch_attach,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+ata_cmd_ch_attach,FUNC_3
+dev,VAR_4
+ctlr,VAR_5
+ch,VAR_6

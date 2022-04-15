@@ -1,0 +1,11 @@
+MZ_OK,VAR_0
+MZ_ZIP_MAGIC_DATADESCRIPTOR,VAR_1
+mz_stream_write_int64,FUNC_0
+mz_stream_write_uint32,FUNC_1
+mz_zip_entry_write_descriptor,FUNC_2
+stream,VAR_2
+zip64,VAR_3
+crc32,VAR_4
+compressed_size,VAR_5
+uncompressed_size,VAR_6
+err,VAR_7

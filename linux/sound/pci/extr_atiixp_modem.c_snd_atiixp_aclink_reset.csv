@@ -1,0 +1,14 @@
+ATI_REG_CMD_ACLINK_ACTIVE,VAR_0
+ATI_REG_CMD_AC_RESET,VAR_1
+ATI_REG_CMD_AC_SOFT_RESET,VAR_2
+ATI_REG_CMD_AC_SYNC,VAR_3
+ATI_REG_CMD_POWERDOWN,VAR_4
+CMD,VAR_5
+atiixp_read,FUNC_0
+atiixp_update,FUNC_1
+dev_err,FUNC_2
+msleep,FUNC_3
+udelay,FUNC_4
+snd_atiixp_aclink_reset,FUNC_5
+chip,VAR_6
+timeout,VAR_7

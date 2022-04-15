@@ -1,0 +1,16 @@
+ATOMIC_RELAXED,VAR_0
+LG_PAGE,VAR_1
+assert,FUNC_0
+atomic_fetch_sub_zu,FUNC_1
+atomic_load_zu,FUNC_2
+cassert,FUNC_3
+config_prof,VAR_2
+curpages,VAR_3
+extent_size_get,FUNC_4
+extent_state_active,VAR_4
+extent_state_get,FUNC_5
+opt_prof,VAR_5
+extent_gdump_sub,FUNC_6
+tsdn,VAR_6
+extent,VAR_7
+nsub,VAR_8

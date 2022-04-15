@@ -1,0 +1,14 @@
+ESP_LOGI,FUNC_0
+ESP_PARTITION_SUBTYPE_APP_FACTORY,VAR_0
+ESP_PARTITION_SUBTYPE_APP_OTA_0,VAR_1
+ESP_PARTITION_SUBTYPE_APP_OTA_1,VAR_2
+TAG,VAR_3
+TEST_ASSERT_EQUAL,FUNC_1
+TEST_FAIL_MESSAGE,FUNC_2
+boot_count,VAR_4
+copy_current_app_to_next_part_and_reboot,FUNC_3
+erase_ota_data,FUNC_4
+get_running_firmware,FUNC_5
+mark_app_valid,FUNC_6
+test_flow1,FUNC_7
+cur_app,VAR_5

@@ -1,0 +1,17 @@
+EIO,VAR_0
+ENOMEDIUM,VAR_1
+IDETAPE_LU_LOAD_MASK,VAR_2
+IDE_AFLAG_MEDIUM_PRESENT,VAR_3
+ide_do_start_stop,FUNC_0
+ide_do_test_unit_ready,FUNC_1
+ilog2,FUNC_2
+jiffies,VAR_4
+msleep,FUNC_3
+set_bit,FUNC_4
+time_before,FUNC_5
+idetape_wait_ready,FUNC_6
+drive,VAR_5
+timeout,VAR_6
+tape,VAR_7
+disk,VAR_8
+load_attempted,VAR_9

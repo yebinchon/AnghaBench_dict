@@ -1,0 +1,17 @@
+Anum_pg_default_acl_defaclacl,VAR_0
+CharGetDatum,FUNC_0
+DEFACLROLENSPOBJ,VAR_1
+DatumGetAclPCopy,FUNC_1
+HeapTupleIsValid,FUNC_2
+ObjectIdGetDatum,FUNC_3
+ReleaseSysCache,FUNC_4
+SearchSysCache3,FUNC_5
+SysCacheGetAttr,FUNC_6
+get_default_acl_internal,FUNC_7
+roleId,VAR_2
+nsp_oid,VAR_3
+objtype,VAR_4
+result,VAR_5
+tuple,VAR_6
+aclDatum,VAR_7
+isNull,VAR_8

@@ -1,0 +1,17 @@
+IVR_CHANMASK,VAR_0
+IVR_RXDATA,VAR_1
+IVR_TXDATA,VAR_2
+XP_IACK,VAR_3
+brd_lock,VAR_4
+inb,FUNC_0
+outb,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+stl_sc26198otherisr,FUNC_4
+stl_sc26198rxisr,FUNC_5
+stl_sc26198txisr,FUNC_6
+stl_sc26198intr,FUNC_7
+panelp,VAR_5
+iobase,VAR_6
+portp,VAR_7
+iack,VAR_8

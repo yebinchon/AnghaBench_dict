@@ -1,0 +1,15 @@
+KVM_EXIT_IO,VAR_0
+MSR_PLATFORM_INFO_MAX_TURBO_RATIO,VAR_1
+TEST_ASSERT,FUNC_0
+UCALL_SYNC,VAR_2
+VCPU_ID,VAR_3
+exit_reason_str,FUNC_1
+get_ucall,FUNC_2
+set_msr_platform_info_enabled,FUNC_3
+ucall,VAR_4
+vcpu_run,FUNC_4
+vcpu_state,FUNC_5
+test_msr_platform_info_enabled,FUNC_6
+vm,VAR_5
+run,VAR_6
+uc,VAR_7

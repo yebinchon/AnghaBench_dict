@@ -1,0 +1,5 @@
+PCPPMU_INTMASK_REG,VAR_0
+PCPPMU_V3_INTCLRMASK,VAR_1
+writel,FUNC_0
+xgene_pmu_v3_unmask_int,FUNC_1
+xgene_pmu,VAR_2

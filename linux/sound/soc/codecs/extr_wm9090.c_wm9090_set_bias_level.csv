@@ -1,0 +1,15 @@
+WM9090_ANTIPOP2,VAR_0
+WM9090_BIAS_ENA,VAR_1
+WM9090_POWER_MANAGEMENT_1,VAR_2
+WM9090_VMID_ENA,VAR_3
+WM9090_VMID_RES_MASK,VAR_4
+WM9090_VMID_RES_SHIFT,VAR_5
+msleep,FUNC_0
+regcache_sync,FUNC_1
+snd_soc_component_get_bias_level,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+snd_soc_component_update_bits,FUNC_4
+wm9090_set_bias_level,FUNC_5
+component,VAR_6
+level,VAR_7
+wm9090,VAR_8

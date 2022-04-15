@@ -1,0 +1,11 @@
+AUX_MU_IER_REG,VAR_0
+AUX_MU_IO_REG,VAR_1
+__uart_setreg,FUNC_0
+uart_barrier,FUNC_1
+uart_lock,FUNC_2
+uart_unlock,FUNC_3
+uart_mu_bus_transmit,FUNC_4
+sc,VAR_2
+psc,VAR_3
+bas,VAR_4
+i,VAR_5

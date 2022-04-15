@@ -1,0 +1,17 @@
+BHND_PORT_DEVICE,VAR_0
+BUS_SPACE_MAXADDR,VAR_1
+RMAN_ARRAY,VAR_2
+bhnd_get_port_count,FUNC_0
+bhnd_port_type_name,FUNC_1
+chipc_free_rman,FUNC_2
+chipc_rman_init_regions,FUNC_3
+device_printf,FUNC_4
+nitems,FUNC_5
+rman_init,FUNC_6
+chipc_init_rman,FUNC_7
+sc,VAR_3
+num_ports,VAR_4
+error,VAR_5
+types,VAR_6
+i,VAR_7
+port,VAR_8

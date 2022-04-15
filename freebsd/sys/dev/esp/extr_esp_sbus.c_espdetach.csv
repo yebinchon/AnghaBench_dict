@@ -1,0 +1,11 @@
+NCR_LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+lsi64854_detach,FUNC_3
+ncr53c9x_detach,FUNC_4
+rman_get_rid,FUNC_5
+espdetach,FUNC_6
+esc,VAR_1
+sc,VAR_2
+error,VAR_3

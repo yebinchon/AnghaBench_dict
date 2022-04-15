@@ -1,0 +1,17 @@
+ATOM_PPLL0,VAR_0
+ATOM_PPLL1,VAR_1
+ATOM_PPLL2,VAR_2
+ATOM_PPLL_INVALID,VAR_3
+DRM_ERROR,FUNC_0
+ENCODER_MODE_IS_DP,FUNC_1
+amdgpu_atombios_encoder_get_encoder_mode,FUNC_2
+amdgpu_pll_get_shared_nondp_ppll,FUNC_3
+amdgpu_pll_get_use_mask,FUNC_4
+to_amdgpu_crtc,FUNC_5
+dce_v6_0_pick_pll,FUNC_6
+crtc,VAR_4
+amdgpu_crtc,VAR_5
+dev,VAR_6
+adev,VAR_7
+pll_in_use,VAR_8
+pll,VAR_9

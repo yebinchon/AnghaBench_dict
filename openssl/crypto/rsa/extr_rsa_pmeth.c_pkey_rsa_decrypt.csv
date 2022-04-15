@@ -1,0 +1,17 @@
+RSA_NO_PADDING,VAR_0
+RSA_PKCS1_OAEP_PADDING,VAR_1
+RSA_padding_check_PKCS1_OAEP_mgf1,FUNC_0
+RSA_private_decrypt,FUNC_1
+constant_time_msb,FUNC_2
+constant_time_msb_s,FUNC_3
+constant_time_select_int,FUNC_4
+constant_time_select_s,FUNC_5
+setup_tbuf,FUNC_6
+pkey_rsa_decrypt,FUNC_7
+ctx,VAR_2
+out,VAR_3
+outlen,VAR_4
+in,VAR_5
+inlen,VAR_6
+ret,VAR_7
+rctx,VAR_8

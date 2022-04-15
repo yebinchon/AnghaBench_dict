@@ -1,0 +1,14 @@
+vmw_crtc_to_ldu,FUNC_0
+vmw_framebuffer_to_vfb,FUNC_1
+vmw_ldu_add_active,FUNC_2
+vmw_ldu_commit_list,FUNC_3
+vmw_ldu_del_active,FUNC_4
+vmw_priv,FUNC_5
+vmw_ldu_primary_plane_atomic_update,FUNC_6
+plane,VAR_0
+old_state,VAR_1
+dev_priv,VAR_2
+ldu,VAR_3
+vfb,VAR_4
+fb,VAR_5
+crtc,VAR_6

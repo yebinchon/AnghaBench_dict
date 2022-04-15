@@ -1,0 +1,14 @@
+LCNPHY_NUM_DIG_FILT_COEFFS,VAR_0
+LCNPHY_NUM_TX_DIG_FILTERS_CCK,VAR_1
+LCNPHY_NUM_TX_DIG_FILTERS_OFDM,VAR_2
+LCNPHY_txdigfiltcoeffs_cck,VAR_3
+LCNPHY_txdigfiltcoeffs_ofdm,VAR_4
+write_phy_reg,FUNC_0
+wlc_lcnphy_load_tx_iir_filter,FUNC_1
+pi,VAR_5
+is_ofdm,VAR_6
+filt_type,VAR_7
+filt_index,VAR_8
+j,VAR_9
+addr,VAR_10
+addr_ofdm,VAR_11

@@ -1,0 +1,11 @@
+SE_USB_AHB_NEED_CLK_INT,VAR_0
+SE_USB_I2C_INT,VAR_1
+SE_USB_INT,VAR_2
+SE_USB_NEED_CLK_INT,VAR_3
+SE_USB_OTG_ATX_INT_N,VAR_4
+SE_USB_OTG_TIMER_INT,VAR_5
+start_int_ack,FUNC_0
+start_int_set_falling_edge,FUNC_1
+start_int_set_rising_edge,FUNC_2
+start_int_umask,FUNC_3
+pnx4008_set_usb_bits,FUNC_4

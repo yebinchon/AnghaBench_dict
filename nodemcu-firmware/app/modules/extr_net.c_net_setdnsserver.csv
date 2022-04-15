@@ -1,0 +1,16 @@
+DNS_MAX_SERVERS,VAR_0
+IPADDR_ANY,VAR_1
+IPADDR_NONE,VAR_2
+dns_setserver,FUNC_0
+ip4_addr_set_u32,FUNC_1
+ipaddr_addr,FUNC_2
+luaL_checklstring,FUNC_3
+luaL_error,FUNC_4
+luaL_optint,FUNC_5
+net_setdnsserver,FUNC_6
+L,VAR_3
+l,VAR_4
+ip32,VAR_5
+server,VAR_6
+numdns,VAR_7
+ipaddr,VAR_8

@@ -1,0 +1,17 @@
+RDB_14BITLEN,VAR_0
+RDB_32BITLEN,VAR_1
+RDB_64BITLEN,VAR_2
+RDB_6BITLEN,VAR_3
+RDB_ENCVAL,VAR_4
+ntohl,FUNC_0
+ntohu64,FUNC_1
+rdbExitReportCorruptRDB,FUNC_2
+rioRead,FUNC_3
+rdbLoadLenByRef,FUNC_4
+rdb,VAR_5
+isencoded,VAR_6
+lenptr,VAR_7
+buf,VAR_8
+type,VAR_9
+len,VAR_10
+len,VAR_11

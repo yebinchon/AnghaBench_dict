@@ -1,0 +1,8 @@
+BMIPS_NMI_RESET_VEC,VAR_0
+BMIPS_WARM_RESTART_VEC,VAR_1
+bmips_reset_nmi_vec,VAR_2
+bmips_reset_nmi_vec_end,VAR_3
+bmips_smp_int_vec,VAR_4
+bmips_smp_int_vec_end,VAR_5
+bmips_wr_vec,FUNC_0
+bmips_nmi_handler_setup,FUNC_1

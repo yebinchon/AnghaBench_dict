@@ -1,0 +1,14 @@
+ERROR_SUCCESS,VAR_0
+EnumerateSoundProfiles,FUNC_0
+FALSE,VAR_1
+HKEY_CURRENT_USER,VAR_2
+ImportSoundProfiles,FUNC_1
+KEY_READ,VAR_3
+RegCloseKey,FUNC_2
+RegOpenKeyEx,FUNC_3
+_T,FUNC_4
+LoadSoundProfiles,FUNC_5
+pGlobalData,VAR_4
+hwndDlg,VAR_5
+hSubKey,VAR_6
+dwNumSchemes,VAR_7

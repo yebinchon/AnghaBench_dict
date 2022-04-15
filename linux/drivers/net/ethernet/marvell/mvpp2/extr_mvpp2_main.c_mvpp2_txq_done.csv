@@ -1,0 +1,14 @@
+mvpp2_cpu_to_thread,FUNC_0
+mvpp2_txq_bufs_free,FUNC_1
+mvpp2_txq_sent_desc_proc,FUNC_2
+netdev_err,FUNC_3
+netdev_get_tx_queue,FUNC_4
+netif_tx_queue_stopped,FUNC_5
+netif_tx_wake_queue,FUNC_6
+smp_processor_id,FUNC_7
+mvpp2_txq_done,FUNC_8
+port,VAR_0
+txq,VAR_1
+txq_pcpu,VAR_2
+nq,VAR_3
+tx_done,VAR_4

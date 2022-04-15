@@ -1,0 +1,13 @@
+IEEE80211_BSS_TYPE_IBSS,VAR_0
+IEEE80211_PRIVACY,FUNC_0
+cfg80211_get_bss,FUNC_1
+cfg80211_put_bss,FUNC_2
+ieee80211_ibss_csa_beacon,FUNC_3
+is_zero_ether_addr,FUNC_4
+sdata_assert_lock,FUNC_5
+ieee80211_ibss_finish_csa,FUNC_6
+sdata,VAR_1
+ifibss,VAR_2
+cbss,VAR_3
+err,VAR_4
+changed,VAR_5

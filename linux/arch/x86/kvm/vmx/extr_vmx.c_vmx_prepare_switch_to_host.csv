@@ -1,0 +1,17 @@
+MSR_KERNEL_GS_BASE,VAR_0
+ds,VAR_1
+es,VAR_2
+fs,VAR_3
+gs,VAR_4
+invalidate_tss_limit,FUNC_0
+kvm_load_ldt,FUNC_1
+load_fixmap_gdt,FUNC_2
+load_gs_index,FUNC_3
+loadsegment,FUNC_4
+raw_smp_processor_id,FUNC_5
+rdmsrl,FUNC_6
+unlikely,FUNC_7
+wrmsrl,FUNC_8
+vmx_prepare_switch_to_host,FUNC_9
+vmx,VAR_5
+host_state,VAR_6

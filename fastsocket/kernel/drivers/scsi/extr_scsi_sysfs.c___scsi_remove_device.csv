@@ -1,0 +1,15 @@
+SDEV_CANCEL,VAR_0
+SDEV_DEL,VAR_1
+blk_cleanup_queue,FUNC_0
+bsg_unregister_queue,FUNC_1
+cancel_work_sync,FUNC_2
+device_del,FUNC_3
+device_unregister,FUNC_4
+put_device,FUNC_5
+scsi_device_set_state,FUNC_6
+stub1,FUNC_7
+transport_destroy_device,FUNC_8
+transport_remove_device,FUNC_9
+__scsi_remove_device,FUNC_10
+sdev,VAR_2
+dev,VAR_3

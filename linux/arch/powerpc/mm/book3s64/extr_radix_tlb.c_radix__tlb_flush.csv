@@ -1,0 +1,15 @@
+__flush_all_mm,FUNC_0
+__radix__flush_tlb_range,FUNC_1
+mm_tlb_flush_nested,FUNC_2
+radix__flush_all_mm,FUNC_3
+radix__flush_tlb_mm,FUNC_4
+radix__flush_tlb_pwc_range_psize,FUNC_5
+radix__flush_tlb_range_psize,FUNC_6
+radix_get_mmu_psize,FUNC_7
+radix__tlb_flush,FUNC_8
+tlb,VAR_0
+psize,VAR_1
+mm,VAR_2
+page_size,VAR_3
+start,VAR_4
+end,VAR_5

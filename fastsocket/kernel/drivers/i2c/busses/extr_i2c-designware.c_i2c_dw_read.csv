@@ -1,0 +1,16 @@
+DW_IC_DATA_CMD,VAR_0
+DW_IC_RXFLR,VAR_1
+I2C_M_RD,VAR_2
+STATUS_READ_IN_PROGRESS,VAR_3
+i2c_get_adapdata,FUNC_0
+readb,FUNC_1
+readw,FUNC_2
+i2c_dw_read,FUNC_3
+adap,VAR_4
+dev,VAR_5
+msgs,VAR_6
+num,VAR_7
+addr,VAR_8
+rx_valid,VAR_9
+len,VAR_10
+buf,VAR_11

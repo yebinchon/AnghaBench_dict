@@ -1,0 +1,13 @@
+EC_TFW_TX_GEN_FWD_ALL_TO_MAC,VAR_0
+al_reg_read32,FUNC_0
+al_reg_write32,FUNC_1
+al_eth_switching_config_set,FUNC_2
+adapter,VAR_1
+udma_id,VAR_2
+forward_all_to_mac,VAR_3
+enable_int_switching,VAR_4
+vid_sel_type,VAR_5
+uc_dec,VAR_6
+mc_dec,VAR_7
+bc_dec,VAR_8
+reg,VAR_9

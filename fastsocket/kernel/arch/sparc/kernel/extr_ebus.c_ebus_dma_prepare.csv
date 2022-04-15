@@ -1,0 +1,17 @@
+EBDMA_CSR,VAR_0
+EBDMA_CSR_BURST_SZ_16,VAR_1
+EBDMA_CSR_EN_CNT,VAR_2
+EBDMA_CSR_EN_NEXT,VAR_3
+EBDMA_CSR_INT_EN,VAR_4
+EBDMA_CSR_TCI_DIS,VAR_5
+EBDMA_CSR_WRITE,VAR_6
+EBUS_DMA_FLAG_TCI_DISABLE,VAR_7
+__ebus_dma_reset,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel,FUNC_3
+ebus_dma_prepare,FUNC_4
+p,VAR_8
+write,VAR_9
+flags,VAR_10
+csr,VAR_11

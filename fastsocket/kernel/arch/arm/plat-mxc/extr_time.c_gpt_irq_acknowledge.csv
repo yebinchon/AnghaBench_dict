@@ -1,0 +1,12 @@
+MX1_2_TSTAT,VAR_0
+MX2_TSTAT_CAPT,VAR_1
+MX2_TSTAT_COMP,VAR_2
+MX3_TSTAT,VAR_3
+MX3_TSTAT_OF1,VAR_4
+__raw_writel,FUNC_0
+cpu_is_mx1,FUNC_1
+cpu_is_mx2,FUNC_2
+cpu_is_mx25,FUNC_3
+cpu_is_mx3,FUNC_4
+timer_base,VAR_5
+gpt_irq_acknowledge,FUNC_5

@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+LPC24XX_I2CONSET,VAR_1
+LPC24XX_I2STAT,VAR_2
+LPC24XX_STO,VAR_3
+M_I2C_IDLE,VAR_4
+cpu_relax,FUNC_0
+i2c_lpc2k_reset,FUNC_1
+jiffies,VAR_5
+msecs_to_jiffies,FUNC_2
+readl,FUNC_3
+time_after,FUNC_4
+writel,FUNC_5
+i2c_lpc2k_clear_arb,FUNC_6
+i2c,VAR_6
+timeout,VAR_7

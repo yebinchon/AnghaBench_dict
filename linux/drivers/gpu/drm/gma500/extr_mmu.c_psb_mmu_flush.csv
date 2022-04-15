@@ -1,0 +1,15 @@
+PSB_CR_BIF_CTRL,VAR_0
+PSB_RSGX32,FUNC_0
+PSB_WSGX32,FUNC_1
+_PSB_CB_CTRL_FLUSH,VAR_1
+_PSB_CB_CTRL_INVALDC,VAR_2
+atomic_read,FUNC_2
+atomic_set,FUNC_3
+down_write,FUNC_4
+up_write,FUNC_5
+wmb,FUNC_6
+psb_mmu_flush,FUNC_7
+driver,VAR_3
+dev,VAR_4
+dev_priv,VAR_5
+val,VAR_6

@@ -1,0 +1,13 @@
+M_PS3DISK,VAR_0
+PS3DISK_LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_1
+bus_dma_tag_destroy,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+disk_destroy,FUNC_5
+free,FUNC_6
+ps3disk_detach,FUNC_7
+dev,VAR_2
+sc,VAR_3
+i,VAR_4

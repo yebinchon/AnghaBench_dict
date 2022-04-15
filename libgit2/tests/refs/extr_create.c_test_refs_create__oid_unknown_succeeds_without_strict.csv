@@ -1,0 +1,13 @@
+GIT_OPT_ENABLE_STRICT_OBJECT_CREATION,VAR_0
+cl_git_pass,FUNC_0
+g_repo,VAR_1
+git_libgit2_opts,FUNC_1
+git_oid_fromstr,FUNC_2
+git_reference_create,FUNC_3
+git_reference_free,FUNC_4
+git_reference_lookup,FUNC_5
+test_refs_create__oid_unknown_succeeds_without_strict,FUNC_6
+new_reference,VAR_2
+looked_up_ref,VAR_3
+id,VAR_4
+new_head,VAR_5

@@ -1,0 +1,11 @@
+CMD_EVENT_AUTOSAVE_INIT,VAR_0
+MSG_SRAM_WILL_NOT_BE_SAVED,VAR_1
+RARCH_CTL_IS_SRAM_SAVE_DISABLED,VAR_2
+RARCH_CTL_IS_SRAM_USED,VAR_3
+RARCH_LOG,FUNC_0
+command_event,FUNC_1
+msg_hash_to_str,FUNC_2
+rarch_ctl,FUNC_3
+rarch_use_sram,VAR_4
+path_init_savefile,FUNC_4
+should_sram_be_used,VAR_5

@@ -1,0 +1,14 @@
+TSDB_CODE_NO_RIGHTS,VAR_0
+TSDB_CODE_SUCCESS,VAR_1
+TSDB_MSG_TYPE_ALTER_DB_RSP,VAR_2
+htonl,FUNC_0
+mLPrint,FUNC_1
+mgmtAlterDb,FUNC_2
+mgmtCheckRedirectMsg,FUNC_3
+taosSendSimpleRsp,FUNC_4
+mgmtProcessAlterDbMsg,FUNC_5
+pMsg,VAR_3
+msgLen,VAR_4
+pConn,VAR_5
+pAlter,VAR_6
+code,VAR_7

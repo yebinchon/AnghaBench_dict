@@ -1,0 +1,12 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+M_IFLIB,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+free,FUNC_4
+iflib_rx_sds_free,FUNC_5
+rxq,VAR_2
+fl,VAR_3
+i,VAR_4
+j,VAR_5

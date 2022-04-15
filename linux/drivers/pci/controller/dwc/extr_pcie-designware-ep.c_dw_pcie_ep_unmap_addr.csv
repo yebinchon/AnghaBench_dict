@@ -1,0 +1,14 @@
+DW_PCIE_REGION_OUTBOUND,VAR_0
+clear_bit,FUNC_0
+dw_pcie_disable_atu,FUNC_1
+dw_pcie_find_index,FUNC_2
+epc_get_drvdata,FUNC_3
+to_dw_pcie_from_ep,FUNC_4
+dw_pcie_ep_unmap_addr,FUNC_5
+epc,VAR_1
+func_no,VAR_2
+addr,VAR_3
+ret,VAR_4
+atu_index,VAR_5
+ep,VAR_6
+pci,VAR_7

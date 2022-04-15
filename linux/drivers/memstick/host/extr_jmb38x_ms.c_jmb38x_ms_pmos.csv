@@ -1,0 +1,13 @@
+PCI_CLOCK_CTL,VAR_0
+PCI_PMOS0_CONTROL,VAR_1
+PCI_PMOS1_CONTROL,VAR_2
+PMOS0_ACTIVE_BITS,VAR_3
+PMOS1_ACTIVE_BITS,VAR_4
+dev_dbg,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_resource_flags,FUNC_2
+pci_write_config_byte,FUNC_3
+jmb38x_ms_pmos,FUNC_4
+pdev,VAR_5
+flag,VAR_6
+val,VAR_7

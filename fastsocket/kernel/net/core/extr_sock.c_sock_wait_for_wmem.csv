@@ -1,0 +1,17 @@
+DEFINE_WAIT,FUNC_0
+SEND_SHUTDOWN,VAR_0
+SOCK_ASYNC_NOSPACE,VAR_1
+SOCK_NOSPACE,VAR_2
+TASK_INTERRUPTIBLE,VAR_3
+atomic_read,FUNC_1
+clear_bit,FUNC_2
+current,VAR_4
+finish_wait,FUNC_3
+prepare_to_wait,FUNC_4
+schedule_timeout,FUNC_5
+set_bit,FUNC_6
+signal_pending,FUNC_7
+wait,VAR_5
+sock_wait_for_wmem,FUNC_8
+sk,VAR_6
+timeo,VAR_7

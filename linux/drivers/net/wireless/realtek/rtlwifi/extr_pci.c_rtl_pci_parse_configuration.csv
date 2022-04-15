@@ -1,0 +1,17 @@
+BIT,FUNC_0
+COMP_INIT,VAR_0
+DBG_TRACE,VAR_1
+PCI_EXP_LNKCTL,VAR_2
+RT_TRACE,FUNC_1
+pci_read_config_byte,FUNC_2
+pci_write_config_byte,FUNC_3
+pcie_capability_read_word,FUNC_4
+rtl_pcipriv,FUNC_5
+rtl_priv,FUNC_6
+rtl_pci_parse_configuration,FUNC_7
+pdev,VAR_3
+hw,VAR_4
+rtlpriv,VAR_5
+pcipriv,VAR_6
+tmp,VAR_7
+linkctrl_reg,VAR_8

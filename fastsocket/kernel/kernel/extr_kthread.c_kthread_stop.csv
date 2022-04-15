@@ -1,0 +1,12 @@
+barrier,FUNC_0
+get_task_struct,FUNC_1
+put_task_struct,FUNC_2
+to_kthread,FUNC_3
+trace_sched_kthread_stop,FUNC_4
+trace_sched_kthread_stop_ret,FUNC_5
+wait_for_completion,FUNC_6
+wake_up_process,FUNC_7
+kthread_stop,FUNC_8
+k,VAR_0
+kthread,VAR_1
+ret,VAR_2

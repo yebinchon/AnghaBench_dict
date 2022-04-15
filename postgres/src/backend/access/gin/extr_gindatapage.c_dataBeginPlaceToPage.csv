@@ -1,0 +1,16 @@
+Assert,FUNC_0
+BufferGetPage,FUNC_1
+GinPageIsData,FUNC_2
+GinPageIsLeaf,FUNC_3
+dataBeginPlaceToPageInternal,FUNC_4
+dataBeginPlaceToPageLeaf,FUNC_5
+dataBeginPlaceToPage,FUNC_6
+btree,VAR_0
+buf,VAR_1
+stack,VAR_2
+insertdata,VAR_3
+updateblkno,VAR_4
+ptp_workspace,VAR_5
+newlpage,VAR_6
+newrpage,VAR_7
+page,VAR_8

@@ -1,0 +1,17 @@
+GFS2_LFC_FREEZE_GO_SYNC,VAR_0
+GFS2_LOG_HEAD_FLUSH_FREEZE,VAR_1
+LM_ST_SHARED,VAR_2
+SDF_JOURNAL_LIVE,VAR_3
+SFS_STARTING_FREEZE,VAR_4
+atomic_set,FUNC_0
+freeze_super,FUNC_1
+fs_info,FUNC_2
+gfs2_assert_withdraw,FUNC_3
+gfs2_freeze_wq,VAR_5
+gfs2_log_flush,FUNC_4
+queue_work,FUNC_5
+test_bit,FUNC_6
+freeze_go_sync,FUNC_7
+gl,VAR_6
+error,VAR_7
+sdp,VAR_8

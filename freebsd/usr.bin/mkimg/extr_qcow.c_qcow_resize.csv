@@ -1,0 +1,14 @@
+QCOW1_CLSTR_LOG2SZ,VAR_0
+QCOW2_CLSTR_LOG2SZ,VAR_1
+assert,FUNC_0
+clstr_log2sz,VAR_2
+fprintf,FUNC_1
+image_set_size,FUNC_2
+round_clstr,FUNC_3
+secsz,VAR_3
+stderr,VAR_4
+verbose,VAR_5
+qcow_resize,FUNC_4
+imgsz,VAR_6
+version,VAR_7
+imagesz,VAR_8

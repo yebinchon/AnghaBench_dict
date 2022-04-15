@@ -1,0 +1,15 @@
+iio_priv,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+pm_runtime_put_noidle,FUNC_4
+stm32_adc_readl,FUNC_5
+stm32_adc_writel,FUNC_6
+stm32_adc_debugfs_reg_access,FUNC_7
+indio_dev,VAR_0
+reg,VAR_1
+writeval,VAR_2
+readval,VAR_3
+adc,VAR_4
+dev,VAR_5
+ret,VAR_6

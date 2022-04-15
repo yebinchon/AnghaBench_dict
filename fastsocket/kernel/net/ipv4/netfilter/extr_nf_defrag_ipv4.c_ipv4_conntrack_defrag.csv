@@ -1,0 +1,15 @@
+IP_MF,VAR_0
+IP_OFFSET,VAR_1
+NF_ACCEPT,VAR_2
+NF_STOLEN,VAR_3
+htons,FUNC_0
+ip_hdr,FUNC_1
+nf_ct_defrag_user,FUNC_2
+nf_ct_ipv4_gather_frags,FUNC_3
+ipv4_conntrack_defrag,FUNC_4
+hooknum,VAR_4
+skb,VAR_5
+in,VAR_6
+out,VAR_7
+okfn,VAR_8
+user,VAR_9

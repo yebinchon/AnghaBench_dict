@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+XFS_DQUOT_CRC_OFF,VAR_0
+XFS_DQUOT_MAGIC,VAR_1
+XFS_DQUOT_VERSION,VAR_2
+cpu_to_be16,FUNC_1
+cpu_to_be32,FUNC_2
+memset,FUNC_3
+uuid_copy,FUNC_4
+xfs_sb_version_hascrc,FUNC_5
+xfs_update_cksum,FUNC_6
+xfs_dqblk_repair,FUNC_7
+mp,VAR_3
+dqb,VAR_4
+id,VAR_5
+type,VAR_6

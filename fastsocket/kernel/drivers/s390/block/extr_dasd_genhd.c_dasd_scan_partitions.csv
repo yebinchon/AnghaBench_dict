@@ -1,0 +1,9 @@
+BLKRRPART,VAR_0
+ENODEV,VAR_1
+FMODE_READ,VAR_2
+bdget_disk,FUNC_0
+blkdev_get,FUNC_1
+ioctl_by_bdev,FUNC_2
+dasd_scan_partitions,FUNC_3
+block,VAR_3
+bdev,VAR_4

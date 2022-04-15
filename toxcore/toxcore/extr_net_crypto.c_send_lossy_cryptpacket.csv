@@ -1,0 +1,16 @@
+MAX_CRYPTO_DATA_SIZE,VAR_0
+PACKET_ID_LOSSY_RANGE_SIZE,VAR_1
+PACKET_ID_LOSSY_RANGE_START,VAR_2
+get_crypto_connection,FUNC_0
+pthread_mutex_lock,FUNC_1
+pthread_mutex_unlock,FUNC_2
+send_data_packet_helper,FUNC_3
+send_lossy_cryptpacket,FUNC_4
+c,VAR_3
+crypt_connection_id,VAR_4
+data,VAR_5
+length,VAR_6
+conn,VAR_7
+ret,VAR_8
+buffer_start,VAR_9
+buffer_end,VAR_10

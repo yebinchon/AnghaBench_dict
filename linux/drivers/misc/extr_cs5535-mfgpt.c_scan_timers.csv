@@ -1,0 +1,17 @@
+MFGPT_MAX_TIMERS,VAR_0
+MFGPT_REG_SETUP,VAR_1
+MFGPT_SETUP_SETUP,VAR_2
+__set_bit,FUNC_0
+cs5535_mfgpt_read,FUNC_1
+mfgpt_reset_timers,VAR_3
+reset_all_timers,FUNC_2
+soft_reset,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+scan_timers,FUNC_6
+mfgpt,VAR_4
+timer,VAR_5
+flags,VAR_6
+timers,VAR_7
+val,VAR_8
+i,VAR_9

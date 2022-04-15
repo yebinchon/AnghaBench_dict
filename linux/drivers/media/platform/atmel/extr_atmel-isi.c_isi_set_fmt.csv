@@ -1,0 +1,12 @@
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_0
+isi_try_fmt,FUNC_0
+pad,VAR_1
+set_fmt,VAR_2
+v4l2_fill_mbus_format,FUNC_1
+v4l2_subdev_call,FUNC_2
+isi_set_fmt,FUNC_3
+isi,VAR_3
+f,VAR_4
+format,VAR_5
+current_fmt,VAR_6
+ret,VAR_7

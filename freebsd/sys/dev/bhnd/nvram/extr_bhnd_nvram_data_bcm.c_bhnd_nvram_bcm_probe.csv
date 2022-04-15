@@ -1,0 +1,10 @@
+BCM_NVRAM_MAGIC,VAR_0
+BHND_NVRAM_DATA_PROBE_DEFAULT,VAR_1
+ENXIO,VAR_2
+bhnd_nvram_io_getsize,FUNC_0
+bhnd_nvram_io_read,FUNC_1
+le32toh,FUNC_2
+bhnd_nvram_bcm_probe,FUNC_3
+io,VAR_3
+hdr,VAR_4
+error,VAR_5

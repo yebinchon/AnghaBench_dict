@@ -1,0 +1,9 @@
+MAX30100_REG_TEMP_FRACTION,VAR_0
+MAX30100_REG_TEMP_INTEGER,VAR_1
+regmap_read,FUNC_0
+sign_extend32,FUNC_1
+max30100_read_temp,FUNC_2
+data,VAR_2
+val,VAR_3
+ret,VAR_4
+reg,VAR_5

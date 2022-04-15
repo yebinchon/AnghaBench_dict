@@ -1,0 +1,15 @@
+SECPKG_CRED_INBOUND,VAR_0
+SEC_E_OK,VAR_1
+getSecError,FUNC_0
+ok,FUNC_1
+pAcquireCredentialsHandleA,FUNC_2
+pFreeContextBuffer,FUNC_3
+pQuerySecurityPackageInfoA,FUNC_4
+setupBuffers,FUNC_5
+trace,FUNC_6
+setupServer,FUNC_7
+sspi_data,VAR_2
+provider,VAR_3
+ret,VAR_4
+ttl,VAR_5
+sec_pkg_info,VAR_6

@@ -1,0 +1,10 @@
+DT_MUTEX_HELD,FUNC_0
+DT_PROC_STOP_IDLE,VAR_0
+assert,FUNC_1
+dt_proc_bpdisable,FUNC_2
+dt_proc_bpenable,FUNC_3
+pthread_cond_broadcast,FUNC_4
+pthread_cond_wait,FUNC_5
+dt_proc_stop,FUNC_6
+dpr,VAR_1
+why,VAR_2

@@ -1,0 +1,13 @@
+cl_assert_equal_i_src,FUNC_0
+cl_git_expect,FUNC_1
+git_patch_get_line_in_hunk,FUNC_2
+cl_git_assert_lineinfo_,FUNC_3
+old_lineno,VAR_0
+new_lineno,VAR_1
+num_lines,VAR_2
+patch,VAR_3
+hunk_idx,VAR_4
+line_idx,VAR_5
+file,VAR_6
+lineno,VAR_7
+line,VAR_8

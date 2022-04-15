@@ -1,0 +1,16 @@
+STANDBY,VAR_0
+i2c_get_clientdata,FUNC_0
+iio_device_unregister,FUNC_1
+iio_priv,FUNC_2
+iio_trigger_unregister,FUNC_3
+iio_triggered_buffer_cleanup,FUNC_4
+kxcjk1013_set_mode,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+pm_runtime_disable,FUNC_8
+pm_runtime_put_noidle,FUNC_9
+pm_runtime_set_suspended,FUNC_10
+kxcjk1013_remove,FUNC_11
+client,VAR_1
+indio_dev,VAR_2
+data,VAR_3

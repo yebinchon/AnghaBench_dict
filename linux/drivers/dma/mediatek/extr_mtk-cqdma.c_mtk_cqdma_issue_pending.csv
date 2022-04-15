@@ -1,0 +1,10 @@
+mtk_cqdma_issue_vchan_pending,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_cqdma_vchan,FUNC_3
+vchan_issue_pending,FUNC_4
+mtk_cqdma_issue_pending,FUNC_5
+c,VAR_0
+cvc,VAR_1
+pc_flags,VAR_2
+vc_flags,VAR_3

@@ -1,0 +1,15 @@
+INB,FUNC_0
+OUTB,FUNC_1
+SMIC_CC_SMS_WR_NEXT,VAR_0
+SMIC_CTL_STS,VAR_1
+SMIC_DATA,VAR_2
+SMIC_SC_SMS_WR_NEXT,VAR_3
+device_printf,FUNC_2
+smic_set_busy,FUNC_3
+smic_wait_for_not_busy,FUNC_4
+smic_wait_for_tx_okay,FUNC_5
+smic_write_next,FUNC_6
+sc,VAR_4
+data,VAR_5
+error,VAR_6
+status,VAR_7

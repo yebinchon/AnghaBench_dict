@@ -1,0 +1,13 @@
+EAGAIN,VAR_0
+RB_EMPTY_NODE,FUNC_0
+btrfs_put_delayed_ref_head,FUNC_1
+lockdep_assert_held,FUNC_2
+mutex_lock,FUNC_3
+mutex_trylock,FUNC_4
+mutex_unlock,FUNC_5
+refcount_inc,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+btrfs_delayed_ref_lock,FUNC_9
+delayed_refs,VAR_1
+head,VAR_2

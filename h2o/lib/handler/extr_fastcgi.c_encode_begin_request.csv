@@ -1,0 +1,12 @@
+FCGI_BEGIN_REQUEST,VAR_0
+FCGI_BEGIN_REQUEST_BODY_SIZE,VAR_1
+FCGI_RECORD_HEADER_SIZE,VAR_2
+encode_record_header,FUNC_0
+encode_uint16,FUNC_1
+memset,FUNC_2
+encode_begin_request,FUNC_3
+p,VAR_3
+reqId,VAR_4
+role,VAR_5
+flags,VAR_6
+body,VAR_7

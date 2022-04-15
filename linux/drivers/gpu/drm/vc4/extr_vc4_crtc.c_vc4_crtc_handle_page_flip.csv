@@ -1,0 +1,17 @@
+HVS_READ,FUNC_0
+SCALER_DISPLACTX,FUNC_1
+drm_crtc_send_vblank_event,FUNC_2
+drm_crtc_vblank_put,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+to_vc4_crtc_state,FUNC_6
+to_vc4_dev,FUNC_7
+vc4_hvs_unmask_underrun,FUNC_8
+vc4_crtc_handle_page_flip,FUNC_9
+vc4_crtc,VAR_0
+crtc,VAR_1
+dev,VAR_2
+vc4,VAR_3
+vc4_state,VAR_4
+chan,VAR_5
+flags,VAR_6

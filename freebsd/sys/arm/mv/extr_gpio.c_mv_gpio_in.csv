@@ -1,0 +1,12 @@
+MV_GPIO_ASSERT_LOCKED,FUNC_0
+MV_GPIO_IN_DEBOUNCE,VAR_0
+MV_GPIO_IN_IRQ_DOUBLE_EDGE,VAR_1
+MV_GPIO_IN_POL_LOW,VAR_2
+device_get_softc,FUNC_1
+mv_gpio_debounced_state_get,FUNC_2
+mv_gpio_value_get,FUNC_3
+mv_gpio_in,FUNC_4
+dev,VAR_3
+pin,VAR_4
+state,VAR_5
+sc,VAR_6

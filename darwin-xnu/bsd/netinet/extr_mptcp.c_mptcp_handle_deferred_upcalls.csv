@@ -1,0 +1,15 @@
+MPP_SET_CELLICON,VAR_0
+MPP_SHOULD_RWAKEUP,VAR_1
+MPP_SHOULD_WORKLOOP,VAR_2
+MPP_SHOULD_WWAKEUP,VAR_3
+MPP_UNSET_CELLICON,VAR_4
+VERIFY,FUNC_0
+mptcp_set_cellicon,FUNC_1
+mptcp_should_defer_upcall,FUNC_2
+mptcp_subflow_workloop,FUNC_3
+mptcp_unset_cellicon,FUNC_4
+sorwakeup,FUNC_5
+sowwakeup,FUNC_6
+mptcp_handle_deferred_upcalls,FUNC_7
+mpp,VAR_5
+flag,VAR_6

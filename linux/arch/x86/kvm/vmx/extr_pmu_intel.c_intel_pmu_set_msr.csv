@@ -1,0 +1,15 @@
+MSR_IA32_PERFCTR0,VAR_0
+MSR_P6_EVNTSEL0,VAR_1
+get_fixed_pmc,FUNC_0
+get_gp_pmc,FUNC_1
+global_ctrl_changed,FUNC_2
+reprogram_fixed_counters,FUNC_3
+reprogram_gp_counter,FUNC_4
+vcpu_to_pmu,FUNC_5
+intel_pmu_set_msr,FUNC_6
+vcpu,VAR_2
+msr_info,VAR_3
+pmu,VAR_4
+pmc,VAR_5
+msr,VAR_6
+data,VAR_7

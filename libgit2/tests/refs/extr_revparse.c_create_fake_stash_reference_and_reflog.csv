@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_buf_cstr,FUNC_2
+git_buf_dispose,FUNC_3
+git_buf_joinpath,FUNC_4
+git_path_isfile,FUNC_5
+git_reference_free,FUNC_6
+git_reference_lookup,FUNC_7
+git_reference_rename,FUNC_8
+git_repository_path,FUNC_9
+create_fake_stash_reference_and_reflog,FUNC_10
+repo,VAR_1
+master,VAR_2
+new_master,VAR_3
+log_path,VAR_4

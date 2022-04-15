@@ -1,0 +1,11 @@
+UART_SCR,VAR_0
+readb,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writeb,FUNC_3
+f815xxa_mem_serial_out,FUNC_4
+p,VAR_1
+offset,VAR_2
+value,VAR_3
+data,VAR_4
+flags,VAR_5

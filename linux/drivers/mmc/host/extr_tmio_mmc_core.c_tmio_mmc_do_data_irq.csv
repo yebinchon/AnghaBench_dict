@@ -1,0 +1,16 @@
+CTL_RESPONSE,VAR_0
+CTL_STOP_INTERNAL_ACTION,VAR_1
+MMC_DATA_READ,VAR_2
+MMC_STOP_TRANSMISSION,VAR_3
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+dev_warn,FUNC_2
+pr_debug,FUNC_3
+schedule_work,FUNC_4
+sd_ctrl_read16_and_16_as_32,FUNC_5
+sd_ctrl_write16,FUNC_6
+tmio_mmc_check_bounce_buffer,FUNC_7
+tmio_mmc_do_data_irq,FUNC_8
+host,VAR_4
+data,VAR_5
+stop,VAR_6

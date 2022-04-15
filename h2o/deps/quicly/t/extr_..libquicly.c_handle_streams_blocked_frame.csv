@@ -1,0 +1,14 @@
+QUICLY_FRAME_TYPE_STREAMS_BLOCKED_UNI,VAR_0
+QUICLY_PROBE,FUNC_0
+STREAMS_BLOCKED_RECEIVE,VAR_1
+probe_now,FUNC_1
+quicly_decode_streams_blocked_frame,FUNC_2
+quicly_maxsender_request_transmit,FUNC_3
+should_send_max_streams,FUNC_4
+handle_streams_blocked_frame,FUNC_5
+conn,VAR_2
+state,VAR_3
+frame,VAR_4
+uni,VAR_5
+ret,VAR_6
+maxsender,VAR_7

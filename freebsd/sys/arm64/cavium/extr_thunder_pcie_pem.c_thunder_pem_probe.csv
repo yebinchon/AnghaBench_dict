@@ -1,0 +1,11 @@
+ENXIO,VAR_0
+THUNDER_PEM_DESC,VAR_1
+THUNDER_PEM_DEVICE_ID,VAR_2
+THUNDER_PEM_VENDOR_ID,VAR_3
+device_set_desc_copy,FUNC_0
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+thunder_pem_probe,FUNC_3
+dev,VAR_4
+pci_vendor_id,VAR_5
+pci_device_id,VAR_6

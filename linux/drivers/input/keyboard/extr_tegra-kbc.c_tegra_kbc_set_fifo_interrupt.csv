@@ -1,0 +1,8 @@
+KBC_CONTROL_0,VAR_0
+KBC_CONTROL_FIFO_CNT_INT_EN,VAR_1
+readl,FUNC_0
+writel,FUNC_1
+tegra_kbc_set_fifo_interrupt,FUNC_2
+kbc,VAR_2
+enable,VAR_3
+val,VAR_4

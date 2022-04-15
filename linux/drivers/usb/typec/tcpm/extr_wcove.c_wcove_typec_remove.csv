@@ -1,0 +1,13 @@
+USBC_IRQMASK1,VAR_0
+USBC_IRQMASK1_ALL,VAR_1
+USBC_IRQMASK2,VAR_2
+USBC_IRQMASK2_ALL,VAR_3
+fwnode_remove_software_node,FUNC_0
+platform_get_drvdata,FUNC_1
+regmap_read,FUNC_2
+regmap_write,FUNC_3
+tcpm_unregister_port,FUNC_4
+wcove_typec_remove,FUNC_5
+pdev,VAR_4
+wcove,VAR_5
+val,VAR_6

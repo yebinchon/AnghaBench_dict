@@ -1,0 +1,15 @@
+EVENTQ_DEFAULT,VAR_0
+LIST_HEAD,FUNC_0
+edma_assign_channel_eventq,FUNC_1
+edma_stop,FUNC_2
+head,VAR_1
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_edma_chan,FUNC_5
+vchan_dma_desc_free_list,FUNC_6
+vchan_get_all_descriptors,FUNC_7
+vchan_terminate_vdesc,FUNC_8
+edma_terminate_all,FUNC_9
+chan,VAR_2
+echan,VAR_3
+flags,VAR_4

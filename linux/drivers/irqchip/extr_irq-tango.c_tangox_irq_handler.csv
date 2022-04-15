@@ -1,0 +1,15 @@
+IRQ_CTL_HI,VAR_0
+IRQ_STATUS,VAR_1
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+intc_readl,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+tangox_dispatch_irqs,FUNC_5
+tangox_irq_handler,FUNC_6
+desc,VAR_2
+dom,VAR_3
+host_chip,VAR_4
+chip,VAR_5
+status_lo,VAR_6
+status_hi,VAR_7

@@ -1,0 +1,16 @@
+CPUFREQ_TRANSITION_NOTIFIER,VAR_0
+CPUHP_AP_X86_KVM_CLK_ONLINE,VAR_1
+X86_FEATURE_CONSTANT_TSC,VAR_2
+boot_cpu_has,FUNC_0
+cpufreq_get_policy,FUNC_1
+cpufreq_register_notifier,FUNC_2
+cpuhp_setup_state,FUNC_3
+get_cpu,FUNC_4
+kvmclock_cpu_down_prep,VAR_3
+kvmclock_cpu_online,VAR_4
+kvmclock_cpufreq_notifier_block,VAR_5
+max_tsc_khz,VAR_6
+memset,FUNC_5
+put_cpu,FUNC_6
+tsc_khz,VAR_7
+kvm_timer_init,FUNC_7

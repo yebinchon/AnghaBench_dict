@@ -1,0 +1,15 @@
+block_write_end,FUNC_0
+i_size_write,FUNC_1
+mark_inode_dirty,FUNC_2
+page_cache_release,FUNC_3
+unlock_page,FUNC_4
+generic_write_end,FUNC_5
+file,VAR_0
+mapping,VAR_1
+pos,VAR_2
+len,VAR_3
+copied,VAR_4
+page,VAR_5
+fsdata,VAR_6
+inode,VAR_7
+i_size_changed,VAR_8

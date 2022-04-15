@@ -1,0 +1,17 @@
+CLSCTX_ALL,VAR_0
+CLSID_MMDeviceEnumerator,VAR_1
+CoCreateInstance,FUNC_0
+EXIT_ON_ERROR,FUNC_1
+FAILED,FUNC_2
+IID_IMMDeviceEnumerator,VAR_2
+IMMDeviceEnumerator_GetDevice,FUNC_3
+SAFE_RELEASE,FUNC_4
+SUCCEEDED,FUNC_5
+mp_HRESULT_to_str,FUNC_6
+mp_err,FUNC_7
+load_device,FUNC_8
+l,VAR_3
+ppDevice,VAR_4
+deviceID,VAR_5
+pEnumerator,VAR_6
+hr,VAR_7

@@ -1,0 +1,14 @@
+X86_FEATURE_FXSR,VAR_0
+X86_FEATURE_OSPKE,VAR_1
+boot_cpu_has,FUNC_0
+copy_init_pkru_to_fpregs,FUNC_1
+copy_kernel_to_fregs,FUNC_2
+copy_kernel_to_fxregs,FUNC_3
+copy_kernel_to_xregs,FUNC_4
+fpregs_lock,FUNC_5
+fpregs_mark_activate,FUNC_6
+fpregs_unlock,FUNC_7
+init_fpstate,VAR_2
+static_cpu_has,FUNC_8
+use_xsave,FUNC_9
+copy_init_fpstate_to_fpregs,FUNC_10

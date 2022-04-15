@@ -1,0 +1,17 @@
+ELS_CMD_MASK,VAR_0
+FC_RSCN_DISCOVERY,VAR_1
+Fabric_DID_MASK,VAR_2
+RSCN_ADDRESS_FORMAT_MASK,VAR_3
+be32_to_cpu,FUNC_0
+lpfc_shost_from_vport,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+lpfc_rscn_payload_check,FUNC_4
+vport,VAR_4
+did,VAR_5
+ns_did,VAR_6
+rscn_did,VAR_7
+lp,VAR_8
+payload_len,VAR_9
+i,VAR_10
+shost,VAR_11

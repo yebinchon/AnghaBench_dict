@@ -1,0 +1,13 @@
+AdjustTcpMssL3,FUNC_0
+Endian16,FUNC_1
+MAC_PROTO_IPV4,VAR_0
+MAC_PROTO_IPV6,VAR_1
+MAC_PROTO_TAGVLAN,VAR_2
+READ_USHORT,FUNC_2
+AdjustTcpMssL2,FUNC_3
+src,VAR_3
+src_size,VAR_4
+mss,VAR_5
+tag_vlan_tpid,VAR_6
+mac,VAR_7
+proto,VAR_8

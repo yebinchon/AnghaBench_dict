@@ -1,0 +1,10 @@
+LCNPHY_TBL_ID_TXPWRCTL,VAR_0
+LCNPHY_TX_PWR_CTRL_MAC_OFFSET,VAR_1
+LCNPHY_TX_PWR_CTRL_RATE_OFFSET,VAR_2
+memset,FUNC_0
+wlc_lcnphy_tempsense_based_pwr_ctrl_enabled,FUNC_1
+wlc_lcnphy_write_table,FUNC_2
+wlc_lcnphy_clear_tx_power_offsets,FUNC_3
+pi,VAR_3
+data_buf,VAR_4
+tab,VAR_5

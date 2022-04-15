@@ -1,0 +1,12 @@
+hevc_idct_8x32_column_msa,FUNC_0
+hevc_idct_transpose_32x8_to_8x32,FUNC_1
+hevc_idct_transpose_8x32_to_32x8,FUNC_2
+hevc_idct_32x32_msa,FUNC_3
+coeffs,VAR_0
+row_cnt,VAR_1
+col_cnt,VAR_2
+src,VAR_3
+tmp_buf,VAR_4
+tmp_buf_ptr,VAR_5
+round,VAR_6
+buf_pitch,VAR_7

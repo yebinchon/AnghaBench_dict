@@ -1,0 +1,13 @@
+AC97_MASTER,VAR_0
+AC97_POWERDOWN,VAR_1
+snd_ac97_put_volsw,FUNC_0
+snd_ac97_update_bits,FUNC_1
+snd_kcontrol_chip,FUNC_2
+master_mute_sw_put,FUNC_3
+kcontrol,VAR_2
+ucontrol,VAR_3
+err,VAR_4
+ac97,VAR_5
+shift,VAR_6
+rshift,VAR_7
+mask,VAR_8

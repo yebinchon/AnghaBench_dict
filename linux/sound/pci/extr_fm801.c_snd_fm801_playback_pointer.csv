@@ -1,0 +1,13 @@
+FM801_IRQ_PLAYBACK,VAR_0
+FM801_START,VAR_1
+IRQ_STATUS,VAR_2
+PLY_COUNT,VAR_3
+bytes_to_frames,FUNC_0
+fm801_readw,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+snd_fm801_playback_pointer,FUNC_5
+substream,VAR_4
+chip,VAR_5
+ptr,VAR_6

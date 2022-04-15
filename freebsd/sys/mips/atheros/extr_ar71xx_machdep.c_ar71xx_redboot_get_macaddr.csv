@@ -1,0 +1,13 @@
+ETHER_ADDR_LEN,VAR_0
+ar71xx_board_mac_addr,VAR_1
+ar71xx_mac_addr_init,FUNC_0
+freeenv,FUNC_1
+kern_getenv,FUNC_2
+memset,FUNC_3
+sscanf,FUNC_4
+ar71xx_redboot_get_macaddr,FUNC_5
+var,VAR_2
+count,VAR_3
+i,VAR_4
+macaddr,VAR_5
+tmpmac,VAR_6

@@ -1,0 +1,13 @@
+CloseServiceHandle,FUNC_0
+FALSE,VAR_0
+OpenSCManager,FUNC_1
+OpenService,FUNC_2
+SC_MANAGER_CONNECT,VAR_1
+SERVICES_ACTIVE_DATABASE,VAR_2
+SERVICE_START,VAR_3
+StartService,FUNC_3
+kull_m_service_start,FUNC_4
+serviceName,VAR_4
+status,VAR_5
+hSC,VAR_6
+hS,VAR_7

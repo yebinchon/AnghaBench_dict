@@ -1,0 +1,17 @@
+ACPI_FLAG_WAKE_ENABLED,VAR_0
+ACPI_GPE_DISABLE,VAR_1
+AcpiSetGpeWakeMask,FUNC_0
+ENXIO,VAR_2
+acpi_SetInteger,FUNC_1
+acpi_get_device,FUNC_2
+acpi_get_flags,FUNC_3
+acpi_name,FUNC_4
+acpi_parse_prw,FUNC_5
+acpi_pwr_wake_enable,FUNC_6
+bootverbose,VAR_3
+device_printf,FUNC_7
+acpi_wake_sleep_prep,FUNC_8
+handle,VAR_4
+sstate,VAR_5
+prw,VAR_6
+dev,VAR_7

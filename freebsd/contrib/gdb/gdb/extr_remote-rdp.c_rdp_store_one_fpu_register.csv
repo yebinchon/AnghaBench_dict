@@ -1,0 +1,9 @@
+FPU_COPRO_NUMBER,VAR_0
+RDP_COPRO_WRITE,VAR_1
+RDP_FPU_READWRITE_MASK_FPS,VAR_2
+extract_unsigned_integer,FUNC_0
+printf,FUNC_1
+send_rdp,FUNC_2
+rdp_store_one_fpu_register,FUNC_3
+mask,VAR_3
+buf,VAR_4

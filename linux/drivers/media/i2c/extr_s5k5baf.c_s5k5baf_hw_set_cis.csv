@@ -1,0 +1,10 @@
+PAGE_IF_HW,VAR_0
+PAGE_IF_SW,VAR_1
+REG_CMDWR_PAGE,VAR_2
+S5K5BAF_FW_ID_CIS,VAR_3
+s5k5baf_fw_get_seq,FUNC_0
+s5k5baf_i2c_write,FUNC_1
+s5k5baf_write_nseq,FUNC_2
+s5k5baf_hw_set_cis,FUNC_3
+state,VAR_4
+seq,VAR_5

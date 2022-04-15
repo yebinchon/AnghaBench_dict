@@ -1,0 +1,11 @@
+BMCR_ANENABLE,VAR_0
+BMCR_ISOLATE,VAR_1
+BMCR_RESET,VAR_2
+MII_BMCR,VAR_3
+phy_read,FUNC_0
+phy_write,FUNC_1
+udelay,FUNC_2
+emac_mii_reset_phy,FUNC_3
+phy,VAR_4
+val,VAR_5
+limit,VAR_6

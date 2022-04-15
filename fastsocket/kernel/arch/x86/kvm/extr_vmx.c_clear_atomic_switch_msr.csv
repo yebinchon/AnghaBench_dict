@@ -1,0 +1,12 @@
+VM_ENTRY_LOAD_IA32_PERF_GLOBAL_CTRL,VAR_0
+VM_ENTRY_MSR_LOAD_COUNT,VAR_1
+VM_EXIT_LOAD_IA32_PERF_GLOBAL_CTRL,VAR_2
+VM_EXIT_MSR_LOAD_COUNT,VAR_3
+clear_atomic_switch_msr_special,FUNC_0
+cpu_has_load_perf_global_ctrl,VAR_4
+vmcs_write32,FUNC_1
+clear_atomic_switch_msr,FUNC_2
+vmx,VAR_5
+msr,VAR_6
+i,VAR_7
+m,VAR_8

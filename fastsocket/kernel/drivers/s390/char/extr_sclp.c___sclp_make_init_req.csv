@@ -1,0 +1,10 @@
+SCLP_CMDW_WRITE_EVENT_MASK,VAR_0
+SCLP_REQ_FILLED,VAR_1
+clear_page,FUNC_0
+memset,FUNC_1
+sclp_init_req,VAR_2
+sclp_init_sccb,VAR_3
+__sclp_make_init_req,FUNC_2
+receive_mask,VAR_4
+send_mask,VAR_5
+sccb,VAR_6

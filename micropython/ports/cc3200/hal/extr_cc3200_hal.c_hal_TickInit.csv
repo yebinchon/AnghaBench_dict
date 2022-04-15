@@ -1,0 +1,12 @@
+FAULT_SYSTICK,VAR_0
+HAL_FCPU_HZ,VAR_1
+HAL_IncrementTick,VAR_2
+HAL_SYSTICK_PERIOD_US,VAR_3
+HAL_tickCount,VAR_4
+MAP_IntEnable,FUNC_0
+MAP_SysTickEnable,FUNC_1
+MAP_SysTickIntEnable,FUNC_2
+MAP_SysTickIntRegister,FUNC_3
+MAP_SysTickPeriodSet,FUNC_4
+hal_TickInit,FUNC_5
+NVIC_ST_CURRENT,VAR_5

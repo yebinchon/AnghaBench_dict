@@ -1,0 +1,10 @@
+DCC_CFG_LED_CNTRL,VAR_0
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+del_timer_sync,FUNC_2
+smp_rmb,FUNC_3
+smp_wmb,FUNC_4
+write_csr,FUNC_5
+shutdown_led_override,FUNC_6
+ppd,VAR_1
+dd,VAR_2

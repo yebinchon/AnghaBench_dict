@@ -1,0 +1,9 @@
+clear_IO_APIC,FUNC_0
+hpet_disable,FUNC_1
+lapic_shutdown,FUNC_2
+local_irq_disable,FUNC_3
+restore_boot_irq_mode,FUNC_4
+stop_other_cpus,FUNC_5
+stub1,FUNC_6
+x86_platform,VAR_0
+native_machine_shutdown,FUNC_7

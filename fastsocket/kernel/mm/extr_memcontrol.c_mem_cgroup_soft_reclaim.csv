@@ -1,0 +1,17 @@
+MEM_CGROUP_MAX_RECLAIM_LOOPS,VAR_0
+get_swappiness,FUNC_0
+mem_cgroup_get_excess,FUNC_1
+mem_cgroup_iter,FUNC_2
+mem_cgroup_iter_break,FUNC_3
+mem_cgroup_local_usage,FUNC_4
+mem_cgroup_shrink_node_zone,FUNC_5
+res_counter_check_under_soft_limit,FUNC_6
+mem_cgroup_soft_reclaim,FUNC_7
+root_mem,VAR_1
+zone,VAR_2
+gfp_mask,VAR_3
+victim,VAR_4
+total,VAR_5
+loop,VAR_6
+excess,VAR_7
+reclaim,VAR_8

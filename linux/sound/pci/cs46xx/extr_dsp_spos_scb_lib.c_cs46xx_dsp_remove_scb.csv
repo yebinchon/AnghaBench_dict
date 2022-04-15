@@ -1,0 +1,13 @@
+_dsp_unlink_scb,FUNC_0
+cs46xx_dsp_proc_free_scb_desc,FUNC_1
+i,VAR_0
+kfree,FUNC_2
+remove_symbol,FUNC_3
+snd_BUG_ON,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+cs46xx_dsp_remove_scb,FUNC_7
+chip,VAR_1
+scb,VAR_2
+ins,VAR_3
+flags,VAR_4

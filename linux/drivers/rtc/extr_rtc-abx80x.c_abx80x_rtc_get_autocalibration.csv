@@ -1,0 +1,10 @@
+ABX8XX_OSC_ACAL_1024,VAR_0
+ABX8XX_OSC_ACAL_512,VAR_1
+ABX8XX_REG_OSC,VAR_2
+i2c_smbus_read_byte_data,FUNC_0
+to_i2c_client,FUNC_1
+abx80x_rtc_get_autocalibration,FUNC_2
+dev,VAR_3
+client,VAR_4
+flags,VAR_5
+autocalibration,VAR_6

@@ -1,0 +1,13 @@
+adjust_git_path,FUNC_0
+is_dir_sep,FUNC_1
+strbuf_addch,FUNC_2
+strbuf_cleanup_path,FUNC_3
+strbuf_vaddf,FUNC_4
+strbuf_worktree_gitdir,FUNC_5
+do_git_path,FUNC_6
+repo,VAR_0
+wt,VAR_1
+buf,VAR_2
+fmt,VAR_3
+args,VAR_4
+gitdir_len,VAR_5

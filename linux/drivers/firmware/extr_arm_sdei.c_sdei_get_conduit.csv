@@ -1,0 +1,17 @@
+CONDUIT_HVC,VAR_0
+CONDUIT_INVALID,VAR_1
+CONDUIT_SMC,VAR_2
+CONFIG_ACPI,VAR_3
+IS_ENABLED,FUNC_0
+acpi_disabled,VAR_4
+acpi_psci_use_hvc,FUNC_1
+of_property_read_string,FUNC_2
+pr_warn,FUNC_3
+sdei_firmware_call,VAR_5
+sdei_smccc_hvc,VAR_6
+sdei_smccc_smc,VAR_7
+strcmp,FUNC_4
+sdei_get_conduit,FUNC_5
+pdev,VAR_8
+method,VAR_9
+np,VAR_10

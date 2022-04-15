@@ -1,0 +1,12 @@
+MC_ARB_DRAM_TIMING,VAR_0
+MC_ARB_DRAM_TIMING2,VAR_1
+RREG32,FUNC_0
+cpu_to_be32,FUNC_1
+radeon_atom_set_engine_dram_timings,FUNC_2
+rv770_calculate_memory_refresh_rate,FUNC_3
+ni_populate_memory_timing_parameters,FUNC_4
+rdev,VAR_2
+pl,VAR_3
+arb_regs,VAR_4
+dram_timing,VAR_5
+dram_timing2,VAR_6

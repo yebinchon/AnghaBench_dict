@@ -1,0 +1,17 @@
+DRM_DEBUG_DRIVER,FUNC_0
+DRM_ERROR,FUNC_1
+clk_get_rate,FUNC_2
+clk_set_rate,FUNC_3
+crtc_to_ltdc,FUNC_4
+pm_runtime_active,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put_sync,FUNC_7
+ltdc_crtc_mode_fixup,FUNC_8
+crtc,VAR_0
+mode,VAR_1
+adjusted_mode,VAR_2
+ldev,VAR_3
+ddev,VAR_4
+rate,VAR_5
+runtime_active,VAR_6
+ret,VAR_7

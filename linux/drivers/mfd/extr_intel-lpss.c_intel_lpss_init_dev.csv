@@ -1,0 +1,11 @@
+LPSS_DEV_SPI,VAR_0
+LPSS_PRIV_RESETS,VAR_1
+LPSS_PRIV_SSP_REG,VAR_2
+LPSS_PRIV_SSP_REG_DIS_DMA_FIN,VAR_3
+intel_lpss_deassert_reset,FUNC_0
+intel_lpss_has_idma,FUNC_1
+intel_lpss_set_remap_addr,FUNC_2
+writel,FUNC_3
+intel_lpss_init_dev,FUNC_4
+lpss,VAR_4
+value,VAR_5

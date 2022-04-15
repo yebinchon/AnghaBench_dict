@@ -1,0 +1,12 @@
+CONFIG_PREEMPT_RT,VAR_0
+HRTIMER_MODE_HARD,VAR_1
+HRTIMER_MODE_SOFT,VAR_2
+IS_ENABLED,FUNC_0
+__hrtimer_init,FUNC_1
+current,VAR_3
+hrtimer_wakeup,VAR_4
+task_is_realtime,FUNC_2
+__hrtimer_init_sleeper,FUNC_3
+sl,VAR_5
+clock_id,VAR_6
+mode,VAR_7

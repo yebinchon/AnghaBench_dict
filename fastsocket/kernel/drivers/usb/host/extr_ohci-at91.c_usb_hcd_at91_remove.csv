@@ -1,0 +1,14 @@
+at91_stop_hc,FUNC_0
+clk_put,FUNC_1
+cpu_is_at91sam9261,FUNC_2
+dev_set_drvdata,FUNC_3
+fclk,VAR_0
+hclk,VAR_1
+iclk,VAR_2
+iounmap,FUNC_4
+release_mem_region,FUNC_5
+usb_put_hcd,FUNC_6
+usb_remove_hcd,FUNC_7
+usb_hcd_at91_remove,FUNC_8
+hcd,VAR_3
+pdev,VAR_4

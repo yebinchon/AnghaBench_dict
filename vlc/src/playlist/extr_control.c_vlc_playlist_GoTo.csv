@@ -1,0 +1,12 @@
+VLC_PLAYLIST_PLAYBACK_ORDER_RANDOM,VAR_0
+VLC_SUCCESS,VAR_1
+assert,FUNC_0
+randomizer_Select,FUNC_1
+vlc_playlist_AssertLocked,FUNC_2
+vlc_playlist_SetCurrentIndex,FUNC_3
+vlc_playlist_SetCurrentMedia,FUNC_4
+vlc_playlist_GoTo,FUNC_5
+playlist,VAR_2
+index,VAR_3
+ret,VAR_4
+item,VAR_5

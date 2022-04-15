@@ -1,0 +1,14 @@
+NAE_REG,FUNC_0
+PHY,VAR_0
+PHYMODE_SGMII,VAR_1
+PHY_LANE_CTRL_BPC_XAUI,VAR_2
+PHY_LANE_CTRL_PHYMODE_POS,VAR_3
+nlm_read_nae_reg,FUNC_1
+nlm_write_nae_reg,FUNC_2
+xlp_nae_lane_reset_txpll,FUNC_3
+nae_base,VAR_4
+block,VAR_5
+lane_ctrl,VAR_6
+mode,VAR_7
+val,VAR_8
+rext_sel,VAR_9

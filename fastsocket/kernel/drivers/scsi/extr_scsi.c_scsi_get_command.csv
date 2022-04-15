@@ -1,0 +1,14 @@
+INIT_LIST_HEAD,FUNC_0
+__scsi_get_command,FUNC_1
+get_device,FUNC_2
+jiffies,VAR_0
+likely,FUNC_3
+list_add_tail,FUNC_4
+put_device,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+scsi_get_command,FUNC_8
+dev,VAR_1
+gfp_mask,VAR_2
+cmd,VAR_3
+flags,VAR_4

@@ -1,0 +1,16 @@
+FALSE,VAR_0
+ND6_SLOWTIMER_INTERVAL,VAR_1
+ND_COMPUTE_RTIME,FUNC_0
+ND_IFINFO,FUNC_1
+hz,VAR_2
+ifnet_head,VAR_3
+ifnet_head_done,FUNC_2
+ifnet_head_lock_shared,FUNC_3
+lck_mtx_lock,FUNC_4
+lck_mtx_unlock,FUNC_5
+nd6_recalc_reachtm_interval,VAR_4
+timeout,FUNC_6
+nd6_slowtimo,FUNC_7
+arg,VAR_5
+nd6if,VAR_6
+ifp,VAR_7

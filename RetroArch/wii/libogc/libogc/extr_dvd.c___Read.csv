@@ -1,0 +1,16 @@
+DVD_DI_DMA,VAR_0
+DVD_DI_START,VAR_1
+DVD_READSECTOR,VAR_2
+__SetupTimeoutAlarm,FUNC_0
+__dvd_callback,VAR_3
+__dvd_lastcmdwasread,VAR_4
+__dvd_lastlen,VAR_5
+__dvd_stopnextint,VAR_6
+_diReg,VAR_7
+__Read,FUNC_1
+buffer,VAR_8
+len,VAR_9
+offset,VAR_10
+cb,VAR_11
+val,VAR_12
+tb,VAR_13

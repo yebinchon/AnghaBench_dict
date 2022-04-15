@@ -1,0 +1,17 @@
+DOWAIT,VAR_0
+ENOMEM,VAR_1
+HFA384x_USB_CMDREQ,VAR_2
+cpu_to_le16,FUNC_0
+hfa384x_usbctlx_complete_sync,FUNC_1
+hfa384x_usbctlx_submit,FUNC_2
+init_cmd_completor,FUNC_3
+kfree,FUNC_4
+pr_debug,FUNC_5
+usbctlx_alloc,FUNC_6
+hfa384x_docmd,FUNC_7
+hw,VAR_3
+cmd,VAR_4
+result,VAR_5
+ctlx,VAR_6
+cmd_completor,VAR_7
+completor,VAR_8

@@ -1,0 +1,15 @@
+ASYNC,VAR_0
+CPUMASK_ALL,VAR_1
+FALSE,VAR_2
+VMX_KPRINTF,FUNC_0
+assert,FUNC_1
+get_preemption_level,FUNC_2
+lck_mtx_lock,FUNC_3
+lck_mtx_unlock,FUNC_4
+mp_cpus_call,FUNC_5
+vmx_exclusive,VAR_3
+vmx_free_vmxon_regions,FUNC_6
+vmx_lck_mtx,VAR_4
+vmx_off,VAR_5
+vmx_use_count,VAR_6
+host_vmxoff,FUNC_7

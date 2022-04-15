@@ -1,0 +1,17 @@
+EVP_CIPHER_CTX_cipher,FUNC_0
+EVP_CIPHER_CTX_mode,FUNC_1
+EVP_CIPHER_key_length,FUNC_2
+EVP_CIPHER_type,FUNC_3
+EVP_CIPH_WRAP_MODE,VAR_0
+EVP_EncryptInit_ex,FUNC_4
+EVP_aes_128_wrap,FUNC_5
+EVP_aes_192_wrap,FUNC_6
+EVP_aes_256_wrap,FUNC_7
+EVP_des_ede3_wrap,FUNC_8
+NID_des_ede3_cbc,VAR_1
+cms_wrap_init,FUNC_9
+kari,VAR_2
+cipher,VAR_3
+ctx,VAR_4
+kekcipher,VAR_5
+keylen,VAR_6

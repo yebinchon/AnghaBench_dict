@@ -1,0 +1,15 @@
+STTS751_REG_STATUS,VAR_0
+STTS751_STATUS_TRIPH,VAR_1
+STTS751_STATUS_TRIPL,VAR_2
+STTS751_STATUS_TRIPT,VAR_3
+dev_dbg,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+jiffies,VAR_4
+msecs_to_jiffies,FUNC_2
+stts751_intervals,VAR_5
+time_after,FUNC_3
+stts751_update_alert,FUNC_4
+priv,VAR_6
+ret,VAR_7
+conv_done,VAR_8
+cache_time,VAR_9

@@ -1,0 +1,17 @@
+EPERM,VAR_0
+PM_POST_SUSPEND,VAR_1
+PM_SUSPEND_PREPARE,VAR_2
+SUSPEND_FREEZE,VAR_3
+TPS,FUNC_0
+__pm_notifier_call_chain,FUNC_1
+dpm_save_failed_step,FUNC_2
+pm_prepare_console,FUNC_3
+pm_restore_console,FUNC_4
+sleep_state_supported,FUNC_5
+suspend_freeze_processes,FUNC_6
+suspend_stats,VAR_4
+trace_suspend_resume,FUNC_7
+suspend_prepare,FUNC_8
+state,VAR_5
+error,VAR_6
+nr_calls,VAR_7

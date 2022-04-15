@@ -1,0 +1,14 @@
+BIT4,VAR_0
+COMP_INIT,VAR_1
+PCI_EXP_LNKCTL,VAR_2
+RT_TRACE,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_write_config_byte,FUNC_2
+pcie_capability_read_word,FUNC_3
+rtllib_priv,FUNC_4
+_rtl92e_parse_pci_configuration,FUNC_5
+pdev,VAR_3
+dev,VAR_4
+priv,VAR_5
+tmp,VAR_6
+LinkCtrlReg,VAR_7

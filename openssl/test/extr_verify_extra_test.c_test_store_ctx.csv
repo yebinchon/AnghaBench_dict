@@ -1,0 +1,15 @@
+BIO_free,FUNC_0
+BIO_new_file,FUNC_1
+PEM_read_bio_X509,FUNC_2
+X509_STORE_CTX_free,FUNC_3
+X509_STORE_CTX_init,FUNC_4
+X509_STORE_CTX_new,FUNC_5
+X509_free,FUNC_6
+X509_verify_cert,FUNC_7
+bad_f,VAR_0
+test_store_ctx,FUNC_8
+sctx,VAR_1
+x,VAR_2
+bio,VAR_3
+testresult,VAR_4
+ret,VAR_5

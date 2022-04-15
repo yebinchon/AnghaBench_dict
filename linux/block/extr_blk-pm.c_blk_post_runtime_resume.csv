@@ -1,0 +1,10 @@
+RPM_ACTIVE,VAR_0
+RPM_SUSPENDED,VAR_1
+blk_clear_pm_only,FUNC_0
+pm_request_autosuspend,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+blk_post_runtime_resume,FUNC_5
+q,VAR_2
+err,VAR_3

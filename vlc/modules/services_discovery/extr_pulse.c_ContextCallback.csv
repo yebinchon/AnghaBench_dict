@@ -1,0 +1,16 @@
+PA_SUBSCRIPTION_EVENT_FACILITY_MASK,VAR_0
+PA_SUBSCRIPTION_EVENT_SOURCE,VAR_1
+PA_SUBSCRIPTION_EVENT_TYPE_MASK,VAR_2
+RemoveSource,FUNC_0
+SourceCallback,VAR_3
+assert,FUNC_1
+likely,FUNC_2
+pa_context_get_source_info_by_index,FUNC_3
+pa_operation_unref,FUNC_4
+ContextCallback,FUNC_5
+ctx,VAR_4
+type,VAR_5
+idx,VAR_6
+userdata,VAR_7
+sd,VAR_8
+op,VAR_9

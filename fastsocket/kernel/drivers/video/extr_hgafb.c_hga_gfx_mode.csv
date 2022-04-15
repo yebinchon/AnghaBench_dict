@@ -1,0 +1,16 @@
+HGA_GFX,VAR_0
+HGA_GFX_MODE_EN,VAR_1
+HGA_GFX_PORT,VAR_2
+HGA_MODE_GRAPHICS,VAR_3
+HGA_MODE_PORT,VAR_4
+HGA_MODE_VIDEO_EN,VAR_5
+HGA_STATUS_PORT,VAR_6
+hga_mode,VAR_7
+hga_reg_lock,VAR_8
+outb_p,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+write_hga_b,FUNC_3
+write_hga_w,FUNC_4
+hga_gfx_mode,FUNC_5
+flags,VAR_9

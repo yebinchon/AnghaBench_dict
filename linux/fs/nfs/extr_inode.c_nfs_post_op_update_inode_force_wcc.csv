@@ -1,0 +1,8 @@
+nfs_fattr_set_barrier,FUNC_0
+nfs_post_op_update_inode_force_wcc_locked,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+nfs_post_op_update_inode_force_wcc,FUNC_4
+inode,VAR_0
+fattr,VAR_1
+status,VAR_2

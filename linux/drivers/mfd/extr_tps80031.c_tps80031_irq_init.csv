@@ -1,0 +1,14 @@
+IRQF_ONESHOT,VAR_0
+TPS80031_INT_MSK_STS_A,VAR_1
+TPS80031_SLAVE_ID2,VAR_2
+dev_err,FUNC_0
+regmap_add_irq_chip,FUNC_1
+tps80031_irq_chip,VAR_3
+tps80031_write,FUNC_2
+tps80031_irq_init,FUNC_3
+tps80031,VAR_4
+irq,VAR_5
+irq_base,VAR_6
+dev,VAR_7
+i,VAR_8
+ret,VAR_9

@@ -1,0 +1,14 @@
+AC97_MASTER,VAR_0
+AUREON_AC97_DATA_MASK,VAR_1
+AUREON_AC97_RESET,VAR_2
+aureon_ac97_write,FUNC_0
+memset,FUNC_1
+snd_ice1712_gpio_read,FUNC_2
+snd_ice1712_gpio_write,FUNC_3
+udelay,FUNC_4
+aureon_ac97_init,FUNC_5
+ice,VAR_3
+spec,VAR_4
+i,VAR_5
+ac97_defaults,VAR_6
+tmp,VAR_7

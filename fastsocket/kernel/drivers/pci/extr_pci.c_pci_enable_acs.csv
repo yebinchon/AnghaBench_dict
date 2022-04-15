@@ -1,0 +1,16 @@
+PCI_ACS_CAP,VAR_0
+PCI_ACS_CR,VAR_1
+PCI_ACS_CTRL,VAR_2
+PCI_ACS_RR,VAR_3
+PCI_ACS_SV,VAR_4
+PCI_ACS_UF,VAR_5
+PCI_EXT_CAP_ID_ACS,VAR_6
+pci_acs_enable,VAR_7
+pci_find_ext_capability,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+pci_enable_acs,FUNC_3
+dev,VAR_8
+pos,VAR_9
+cap,VAR_10
+ctrl,VAR_11

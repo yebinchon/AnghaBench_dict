@@ -1,0 +1,13 @@
+F_GETFL,VAR_0
+F_SETFL,VAR_1
+O_NONBLOCK,VAR_2
+REDIS_ERR,VAR_3
+REDIS_ERR_IO,VAR_4
+REDIS_OK,VAR_5
+__redisSetErrorFromErrno,FUNC_0
+fcntl,FUNC_1
+redisContextCloseFd,FUNC_2
+redisSetBlocking,FUNC_3
+c,VAR_6
+blocking,VAR_7
+flags,VAR_8

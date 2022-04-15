@@ -1,0 +1,13 @@
+SCIC_SDS_SMP_REMOTE_DEVICE_READY_SUBSTATE_CMD,VAR_0
+SCI_SUCCESS,VAR_1
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_remote_device_start_request,FUNC_1
+scic_sds_remote_node_context_start_io,FUNC_2
+scic_sds_request_start,FUNC_3
+stub1,FUNC_4
+scic_sds_smp_remote_device_ready_idle_substate_start_io_handler,FUNC_5
+device,VAR_2
+request,VAR_3
+status,VAR_4
+this_device,VAR_5
+io_request,VAR_6

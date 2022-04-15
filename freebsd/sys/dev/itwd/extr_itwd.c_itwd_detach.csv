@@ -1,0 +1,11 @@
+EVENTHANDLER_DEREGISTER,FUNC_0
+SYS_RES_IRQ,VAR_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_softc,FUNC_3
+watchdog_list,VAR_1
+wd_func,FUNC_4
+itwd_detach,FUNC_5
+dev,VAR_2
+sc,VAR_3
+dummy,VAR_4

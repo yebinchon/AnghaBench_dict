@@ -1,0 +1,14 @@
+TIPC_SUBSCR_TIMEOUT,VAR_0
+TIPC_WAIT_FOREVER,VAR_1
+atomic_dec,FUNC_0
+k_term_timer,FUNC_1
+kfree,FUNC_2
+list_del,FUNC_3
+subscr_send_event,FUNC_4
+tipc_nametbl_unsubscribe,FUNC_5
+tipc_port_lock,FUNC_6
+tipc_port_unlock,FUNC_7
+topsrv,VAR_2
+subscr_timeout,FUNC_8
+sub,VAR_3
+server_port,VAR_4

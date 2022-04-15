@@ -1,0 +1,16 @@
+MSM_SBI_CTRL_SSBI2,VAR_0
+SET_SSBI_MODE2_REG_ADDR_15_8,FUNC_0
+SSBI2_CMD,VAR_1
+SSBI2_MODE2,VAR_2
+SSBI_STATUS_MCHN_BUSY,VAR_3
+SSBI_STATUS_READY,VAR_4
+ssbi_readl,FUNC_1
+ssbi_wait_mask,FUNC_2
+ssbi_writel,FUNC_3
+ssbi_write_bytes,FUNC_4
+ssbi,VAR_5
+addr,VAR_6
+buf,VAR_7
+len,VAR_8
+ret,VAR_9
+mode2,VAR_10

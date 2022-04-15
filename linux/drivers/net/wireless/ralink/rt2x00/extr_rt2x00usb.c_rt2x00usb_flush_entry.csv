@@ -1,0 +1,12 @@
+ENTRY_OWNER_DEVICE_DATA,VAR_0
+QID_BEACON,VAR_1
+REQUIRE_BEACON_GUARD,VAR_2
+rt2x00_has_cap_flag,FUNC_0
+test_bit,FUNC_1
+usb_kill_urb,FUNC_2
+rt2x00usb_flush_entry,FUNC_3
+entry,VAR_3
+data,VAR_4
+rt2x00dev,VAR_5
+entry_priv,VAR_6
+bcn_priv,VAR_7

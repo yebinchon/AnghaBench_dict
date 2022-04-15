@@ -1,0 +1,16 @@
+LED_FULL,VAR_0
+LED_OFF,VAR_1
+XT_CONTINUE,VAR_2
+XT_LED_BLINK_DELAY,VAR_3
+jiffies,VAR_4
+led_trigger_blink_oneshot,FUNC_0
+led_trigger_event,FUNC_1
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+timer_pending,FUNC_4
+led_tg,FUNC_5
+skb,VAR_5
+par,VAR_6
+ledinfo,VAR_7
+ledinternal,VAR_8
+led_delay,VAR_9

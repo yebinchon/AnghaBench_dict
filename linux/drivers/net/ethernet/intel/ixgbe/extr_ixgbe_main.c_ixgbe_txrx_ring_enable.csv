@@ -1,0 +1,11 @@
+__IXGBE_TX_DISABLED,VAR_0
+clear_bit,FUNC_0
+ixgbe_configure_rx_ring,FUNC_1
+ixgbe_configure_tx_ring,FUNC_2
+napi_enable,FUNC_3
+ixgbe_txrx_ring_enable,FUNC_4
+adapter,VAR_1
+ring,VAR_2
+rx_ring,VAR_3
+tx_ring,VAR_4
+xdp_ring,VAR_5

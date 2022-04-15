@@ -1,0 +1,11 @@
+EMSGSIZE,VAR_0
+STM32H7_SPI_CR2,VAR_1
+STM32H7_SPI_CR2_TSIZE,VAR_2
+STM32H7_SPI_CR2_TSIZE_SHIFT,VAR_3
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+stm32h7_spi_number_of_data,FUNC_2
+spi,VAR_4
+nb_words,VAR_5
+cr2_clrb,VAR_6
+cr2_setb,VAR_7

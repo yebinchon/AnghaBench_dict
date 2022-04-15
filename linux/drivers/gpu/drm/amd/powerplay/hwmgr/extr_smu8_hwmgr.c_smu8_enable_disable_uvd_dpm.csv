@@ -1,0 +1,12 @@
+DPMFlags_UVD_Enabled,VAR_0
+PHM_PlatformCaps_UVDDPM,VAR_1
+PPSMC_MSG_DisableAllSmuFeatures,VAR_2
+PPSMC_MSG_EnableAllSmuFeatures,VAR_3
+UVD_DPM_MASK,VAR_4
+phm_cap_enabled,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+smu8_enable_disable_uvd_dpm,FUNC_2
+hwmgr,VAR_5
+enable,VAR_6
+data,VAR_7
+dpm_features,VAR_8

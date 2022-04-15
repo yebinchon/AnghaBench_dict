@@ -1,0 +1,15 @@
+BMP280_REG_TEMP_MSB,VAR_0
+BMP280_TEMP_SKIPPED,VAR_1
+EIO,VAR_2
+IIO_VAL_INT,VAR_3
+be32_to_cpu,FUNC_0
+bmp280_compensate_temp,FUNC_1
+dev_err,FUNC_2
+regmap_bulk_read,FUNC_3
+bmp280_read_temp,FUNC_4
+data,VAR_4
+val,VAR_5
+ret,VAR_6
+tmp,VAR_7
+adc_temp,VAR_8
+comp_temp,VAR_9

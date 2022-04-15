@@ -1,0 +1,13 @@
+PCMUIO_INT_PENDING_REG,VAR_0
+PCMUIO_PAGE_INT_ID,VAR_1
+inb,FUNC_0
+pcmuio_asic_iobase,FUNC_1
+pcmuio_handle_intr_subdev,FUNC_2
+pcmuio_read,FUNC_3
+pcmuio_write,FUNC_4
+pcmuio_handle_asic_interrupt,FUNC_5
+dev,VAR_2
+asic,VAR_3
+s,VAR_4
+iobase,VAR_5
+val,VAR_6

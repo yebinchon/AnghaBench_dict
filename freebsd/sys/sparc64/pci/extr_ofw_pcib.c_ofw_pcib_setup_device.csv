@@ -1,0 +1,9 @@
+OFW_PCI_SETUP_DEVICE,FUNC_0
+device_get_parent,FUNC_1
+pci_get_devid,FUNC_2
+pci_get_vendor,FUNC_3
+ofw_pcib_setup_device,FUNC_4
+bus,VAR_0
+child,VAR_1
+i,VAR_2
+reg,VAR_3

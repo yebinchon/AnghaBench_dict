@@ -1,0 +1,16 @@
+MSR_IA32_TEMPERATURE_TARGET,VAR_0
+adjust_tjmax,FUNC_0
+cpu_has_tjmax,FUNC_1
+dev_dbg,FUNC_2
+dev_notice,FUNC_3
+dev_warn,FUNC_4
+force_tjmax,VAR_1
+rdmsr_safe_on_cpu,FUNC_5
+get_tjmax,FUNC_6
+c,VAR_2
+id,VAR_3
+dev,VAR_4
+err,VAR_5
+eax,VAR_6
+edx,VAR_7
+val,VAR_8

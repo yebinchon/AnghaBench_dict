@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+IN_SET,FUNC_0
+SD_BUS_TYPE_OBJECT_PATH,VAR_1
+SD_BUS_TYPE_SIGNATURE,VAR_2
+SD_BUS_TYPE_STRING,VAR_3
+assert,FUNC_1
+bus_message_get_arg_skip,FUNC_2
+sd_bus_message_read_basic,FUNC_3
+bus_message_get_arg,FUNC_4
+m,VAR_4
+i,VAR_5
+str,VAR_6
+type,VAR_7
+r,VAR_8

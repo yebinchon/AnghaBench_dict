@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+__skb_frag_set_page,FUNC_0
+be64_to_cpu,FUNC_1
+dma_sync_single_for_cpu,FUNC_2
+put_page,FUNC_3
+skb_frag_size_set,FUNC_4
+skb_shinfo,FUNC_5
+mlx4_en_complete_rx_desc,FUNC_6
+priv,VAR_1
+rx_desc,VAR_2
+frags,VAR_3
+skb,VAR_4
+length,VAR_5
+skb_frags_rx,VAR_6
+frag_info,VAR_7
+nr,VAR_8
+dma,VAR_9

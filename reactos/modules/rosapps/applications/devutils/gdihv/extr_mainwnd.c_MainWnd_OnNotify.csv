@@ -1,0 +1,16 @@
+GetDlgItem,FUNC_0
+HandleList_Update,FUNC_1
+IDC_HANDLELIST,VAR_0
+IDC_PROCESSLIST,VAR_1
+LVIF_PARAM,VAR_2
+LVIS_SELECTED,VAR_3
+ListView_GetItem,FUNC_2
+TRUE,VAR_4
+memset,FUNC_3
+MainWnd_OnNotify,FUNC_4
+hWnd,VAR_5
+wParam,VAR_6
+lParam,VAR_7
+pnmh,VAR_8
+pnmlv,VAR_9
+item,VAR_10

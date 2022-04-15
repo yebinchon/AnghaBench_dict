@@ -1,0 +1,16 @@
+BIT,FUNC_0
+GFP_ATOMIC,VAR_0
+kcalloc,FUNC_1
+kfree,FUNC_2
+pci_free_consistent,FUNC_3
+pci_zalloc_consistent,FUNC_4
+pcnet32_purge_tx_ring,FUNC_5
+pcnet32_realloc_tx_ring,FUNC_6
+dev,VAR_1
+lp,VAR_2
+size,VAR_3
+new_ring_dma_addr,VAR_4
+new_dma_addr_list,VAR_5
+new_tx_ring,VAR_6
+new_skb_list,VAR_7
+entries,VAR_8

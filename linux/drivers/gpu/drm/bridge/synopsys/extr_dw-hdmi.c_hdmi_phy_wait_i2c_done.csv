@@ -1,0 +1,8 @@
+HDMI_IH_I2CMPHY_STAT0,VAR_0
+hdmi_readb,FUNC_0
+hdmi_writeb,FUNC_1
+udelay,FUNC_2
+hdmi_phy_wait_i2c_done,FUNC_3
+hdmi,VAR_1
+msec,VAR_2
+val,VAR_3

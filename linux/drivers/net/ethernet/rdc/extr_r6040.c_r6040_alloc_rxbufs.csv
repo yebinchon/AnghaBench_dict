@@ -1,0 +1,17 @@
+DSC_OWNER_MAC,VAR_0
+ENOMEM,VAR_1
+MAX_BUF_SIZE,VAR_2
+PCI_DMA_FROMDEVICE,VAR_3
+RX_DCNT,VAR_4
+cpu_to_le32,FUNC_0
+netdev_alloc_skb,FUNC_1
+netdev_priv,FUNC_2
+pci_map_single,FUNC_3
+r6040_free_rxbufs,FUNC_4
+r6040_init_ring_desc,FUNC_5
+r6040_alloc_rxbufs,FUNC_6
+dev,VAR_5
+lp,VAR_6
+desc,VAR_7
+skb,VAR_8
+rc,VAR_9

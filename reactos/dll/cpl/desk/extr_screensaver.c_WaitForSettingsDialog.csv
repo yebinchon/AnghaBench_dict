@@ -1,0 +1,17 @@
+DispatchMessage,FUNC_0
+FALSE,VAR_0
+INFINITE,VAR_1
+IsDialogMessage,FUNC_1
+MsgWaitForMultipleObjects,FUNC_2
+PM_REMOVE,VAR_2
+PeekMessage,FUNC_3
+QS_ALLINPUT,VAR_3
+TRUE,VAR_4
+TranslateMessage,FUNC_4
+WAIT_OBJECT_0,VAR_5
+WM_QUIT,VAR_6
+WaitForSettingsDialog,FUNC_5
+hwndDlg,VAR_7
+hProcess,VAR_8
+dwResult,VAR_9
+msg,VAR_10

@@ -1,0 +1,16 @@
+EFUSE_REPEAT_THRESHOLD_,VAR_0
+Efuse_CalculateWordCnts,FUNC_0
+efuse_OneByteRead,FUNC_1
+efuse_OneByteWrite,FUNC_2
+hal_EfuseFixHeaderProcess,FUNC_3
+hal_EfusePgPacketWrite1ByteHeader,FUNC_4
+pAdapter,VAR_1
+efuseType,VAR_2
+pAddr,VAR_3
+pTargetPkt,VAR_4
+ret,VAR_5
+pg_header,VAR_6
+tmp_header,VAR_7
+efuse_addr,VAR_8
+repeatcnt,VAR_9
+fixPkt,VAR_10

@@ -1,0 +1,13 @@
+GRC_RX_CPU_DRIVER_EVENT,VAR_0
+GRC_RX_CPU_EVENT,VAR_1
+TG3_FW_EVENT_TIMEOUT_USEC,VAR_2
+jiffies,VAR_3
+jiffies_to_usecs,FUNC_0
+tr32,FUNC_1
+udelay,FUNC_2
+usecs_to_jiffies,FUNC_3
+tg3_wait_for_event_ack,FUNC_4
+tp,VAR_4
+i,VAR_5
+delay_cnt,VAR_6
+time_remain,VAR_7

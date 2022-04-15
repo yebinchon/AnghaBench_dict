@@ -1,0 +1,15 @@
+HCLGEVF_OPC_MBX_PF_TO_VF,VAR_0
+dev_err,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+memcpy,FUNC_3
+hclge_send_mbx_msg,FUNC_4
+vport,VAR_1
+msg,VAR_2
+msg_len,VAR_3
+mbx_opcode,VAR_4
+dest_vfid,VAR_5
+resp_pf_to_vf,VAR_6
+hdev,VAR_7
+status,VAR_8
+desc,VAR_9

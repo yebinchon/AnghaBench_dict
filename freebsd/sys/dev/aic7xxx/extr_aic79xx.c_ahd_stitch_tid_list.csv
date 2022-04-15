@@ -1,0 +1,13 @@
+AHD_ASSERT_MODES,FUNC_0
+AHD_MODE_SCSI_MSK,VAR_0
+SCBID_IS_NULL,FUNC_1
+SCB_NEXT2,VAR_1
+WAITING_TID_HEAD,VAR_2
+WAITING_TID_TAIL,VAR_3
+ahd_outw,FUNC_2
+ahd_set_scbptr,FUNC_3
+ahd_stitch_tid_list,FUNC_4
+ahd,VAR_4
+tid_prev,VAR_5
+tid_cur,VAR_6
+tid_next,VAR_7

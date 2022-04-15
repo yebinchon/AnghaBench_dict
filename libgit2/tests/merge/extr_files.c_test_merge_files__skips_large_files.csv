@@ -1,0 +1,12 @@
+GIT_MERGE_FILE_INPUT_INIT,VAR_0
+GIT_MERGE_FILE_OPTIONS_INIT,VAR_1
+GIT_XDIFF_MAX_SIZE,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_merge_file,FUNC_2
+git_merge_file_result_free,FUNC_3
+test_merge_files__skips_large_files,FUNC_4
+ours,VAR_3
+theirs,VAR_4
+opts,VAR_5
+result,VAR_6

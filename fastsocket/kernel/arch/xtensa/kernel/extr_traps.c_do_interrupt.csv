@@ -1,0 +1,13 @@
+INTCLEAR,VAR_0
+INTENABLE,VAR_1
+INTREAD,VAR_2
+XCHAL_NUM_INTERRUPTS,VAR_3
+do_IRQ,FUNC_0
+get_sr,FUNC_1
+set_sr,FUNC_2
+do_interrupt,FUNC_3
+regs,VAR_4
+intread,VAR_5
+intenable,VAR_6
+i,VAR_7
+mask,VAR_8

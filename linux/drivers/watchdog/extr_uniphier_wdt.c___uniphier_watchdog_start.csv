@@ -1,0 +1,14 @@
+SEC_TO_WDTTIMSET_PRD,FUNC_0
+WDTCTRL,VAR_0
+WDTCTRL_CLEAR,VAR_1
+WDTCTRL_ENABLE,VAR_2
+WDTCTRL_STATUS,VAR_3
+WDTST_TIMEOUT,VAR_4
+WDTTIMSET,VAR_5
+regmap_read_poll_timeout,FUNC_1
+regmap_write,FUNC_2
+__uniphier_watchdog_start,FUNC_3
+regmap,VAR_6
+sec,VAR_7
+val,VAR_8
+ret,VAR_9

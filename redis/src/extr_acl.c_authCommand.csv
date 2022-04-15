@@ -1,0 +1,13 @@
+ACLAuthenticateUser,FUNC_0
+C_OK,VAR_0
+DefaultUser,VAR_1
+USER_FLAG_NOPASS,VAR_2
+addReply,FUNC_1
+addReplyError,FUNC_2
+createStringObject,FUNC_3
+decrRefCount,FUNC_4
+shared,VAR_3
+authCommand,FUNC_5
+c,VAR_4
+username,VAR_5
+password,VAR_6

@@ -1,0 +1,12 @@
+FD_CONNECT,VAR_0
+INFINITE,VAR_1
+TranslateSocketError,FUNC_0
+WSAConnect,FUNC_1
+WSAEWOULDBLOCK,VAR_2
+WSAGetLastError,FUNC_2
+pgwin32_waitforsinglesocket,FUNC_3
+pgwin32_connect,FUNC_4
+s,VAR_3
+addr,VAR_4
+addrlen,VAR_5
+r,VAR_6

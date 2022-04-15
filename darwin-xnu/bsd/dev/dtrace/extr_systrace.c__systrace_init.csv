@@ -1,0 +1,17 @@
+KM_SLEEP,VAR_0
+LOADABLE_SYSCALL,FUNC_0
+LOADED_SYSCALL,FUNC_1
+NSYSCALL,VAR_1
+dtrace_lck_attr,VAR_2
+dtrace_lck_grp,VAR_3
+dtrace_systrace_lock,VAR_4
+dtrace_systrace_syscall,VAR_5
+kmem_zalloc,FUNC_2
+lck_mtx_init,FUNC_3
+systrace_init,FUNC_4
+actual,VAR_6
+interposed,VAR_7
+ssysent,VAR_8
+i,VAR_9
+a,VAR_10
+s,VAR_11

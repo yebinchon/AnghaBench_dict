@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+ZFS_IOC_OBJSET_RECVD_PROPS,VAR_1
+errno,VAR_2
+ioctl,FUNC_0
+nvlist_free,FUNC_1
+strlcpy,FUNC_2
+zcmd_alloc_dst_nvlist,FUNC_3
+zcmd_expand_dst_nvlist,FUNC_4
+zcmd_free_nvlists,FUNC_5
+zcmd_read_dst_nvlist,FUNC_6
+get_recvd_props_ioctl,FUNC_7
+zhp,VAR_3
+hdl,VAR_4
+recvdprops,VAR_5
+zc,VAR_6
+err,VAR_7

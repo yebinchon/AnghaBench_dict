@@ -1,0 +1,11 @@
+PCI_EHCI_VENDORID_ATI,VAR_0
+device_printf,FUNC_0
+pci_find_device,FUNC_1
+pci_get_revid,FUNC_2
+pci_read_config,FUNC_3
+pci_write_config,FUNC_4
+ehci_pci_ati_quirk,FUNC_5
+self,VAR_1
+is_sb700,VAR_2
+smbdev,VAR_3
+val,VAR_4

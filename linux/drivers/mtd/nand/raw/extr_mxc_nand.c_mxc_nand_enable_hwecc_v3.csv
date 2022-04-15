@@ -1,0 +1,11 @@
+NAND_ECC_HW,VAR_0
+NFC_V3_CONFIG2,VAR_1
+NFC_V3_CONFIG2_ECC_EN,VAR_2
+nand_get_controller_data,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+mxc_nand_enable_hwecc_v3,FUNC_3
+chip,VAR_3
+enable,VAR_4
+host,VAR_5
+config2,VAR_6

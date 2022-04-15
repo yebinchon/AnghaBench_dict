@@ -1,0 +1,14 @@
+GIT_CHECKOUT_ALLOW_CONFLICTS,VAR_0
+GIT_CHECKOUT_NOTIFY_CONFLICT,VAR_1
+GIT_CHECKOUT_OPTIONS_INIT,VAR_2
+GIT_CHECKOUT_RECREATE_MISSING,VAR_3
+GIT_CHECKOUT_SAFE,VAR_4
+cl_git_mkfile,FUNC_0
+cl_git_pass,FUNC_1
+cl_repo_set_bool,FUNC_2
+dont_notify_cb,VAR_5
+g_repo,VAR_6
+git_checkout_index,FUNC_3
+p_unlink,FUNC_4
+test_checkout_index__wont_notify_of_expected_line_ending_changes,FUNC_5
+opts,VAR_7

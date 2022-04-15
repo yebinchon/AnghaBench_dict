@@ -1,0 +1,12 @@
+IAVF_MIN_TX_LEN,VAR_0
+NETDEV_TX_OK,VAR_1
+iavf_xmit_frame_ring,FUNC_0
+netdev_priv,FUNC_1
+skb_pad,FUNC_2
+skb_set_tail_pointer,FUNC_3
+unlikely,FUNC_4
+iavf_xmit_frame,FUNC_5
+skb,VAR_2
+netdev,VAR_3
+adapter,VAR_4
+tx_ring,VAR_5

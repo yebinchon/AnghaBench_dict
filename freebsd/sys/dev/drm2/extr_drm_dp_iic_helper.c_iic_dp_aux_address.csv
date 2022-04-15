@@ -1,0 +1,12 @@
+MODE_I2C_READ,VAR_0
+MODE_I2C_START,VAR_1
+MODE_I2C_WRITE,VAR_2
+device_get_softc,FUNC_0
+iic_dp_aux_transaction,FUNC_1
+iic_dp_aux_address,FUNC_2
+idev,VAR_3
+address,VAR_4
+reading,VAR_5
+aux_data,VAR_6
+mode,VAR_7
+ret,VAR_8

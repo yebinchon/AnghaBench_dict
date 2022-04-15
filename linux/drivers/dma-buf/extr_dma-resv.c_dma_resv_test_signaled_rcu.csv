@@ -1,0 +1,16 @@
+dma_resv_test_signaled_single,FUNC_0
+rcu_dereference,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+read_seqcount_begin,FUNC_4
+read_seqcount_retry,FUNC_5
+dma_resv_test_signaled_rcu,FUNC_6
+obj,VAR_0
+test_all,VAR_1
+seq,VAR_2
+shared_count,VAR_3
+ret,VAR_4
+i,VAR_5
+fobj,VAR_6
+fence,VAR_7
+fence_excl,VAR_8

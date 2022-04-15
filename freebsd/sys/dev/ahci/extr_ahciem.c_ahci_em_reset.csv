@@ -1,0 +1,12 @@
+AHCI_EM_RST,VAR_0
+ATA_INL,FUNC_0
+ATA_OUTL,FUNC_1
+DELAY,FUNC_2
+ahci_em_setleds,FUNC_3
+device_get_softc,FUNC_4
+device_printf,FUNC_5
+ahci_em_reset,FUNC_6
+dev,VAR_1
+enc,VAR_2
+i,VAR_3
+timeout,VAR_4

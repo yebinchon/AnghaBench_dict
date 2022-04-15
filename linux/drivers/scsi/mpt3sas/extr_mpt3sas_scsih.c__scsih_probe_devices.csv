@@ -1,0 +1,11 @@
+MPI2_IOCFACTS_PROTOCOL_SCSI_INITIATOR,VAR_0
+MPI2_IOCPAGE8_IRFLAGS_LOW_VOLUME_MAPPING,VAR_1
+MPI2_IOCPAGE8_IRFLAGS_MASK_VOLUME_MAPPING_MODE,VAR_2
+_scsih_probe_boot_devices,FUNC_0
+_scsih_probe_pcie,FUNC_1
+_scsih_probe_raid,FUNC_2
+_scsih_probe_sas,FUNC_3
+le16_to_cpu,FUNC_4
+_scsih_probe_devices,FUNC_5
+ioc,VAR_3
+volume_mapping_flags,VAR_4

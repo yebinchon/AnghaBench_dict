@@ -1,0 +1,16 @@
+AllocateDir,FUNC_0
+FreeDir,FUNC_1
+LOG,VAR_0
+MAXPGPATH,VAR_1
+ReadDirExtended,FUNC_2
+ereport,FUNC_3
+errcode_for_file_access,FUNC_4
+errmsg,FUNC_5
+looks_like_temp_rel_name,FUNC_6
+snprintf,FUNC_7
+unlink,FUNC_8
+RemovePgTempRelationFilesInDbspace,FUNC_9
+dbspacedirname,VAR_2
+dbspace_dir,VAR_3
+de,VAR_4
+rm_path,VAR_5

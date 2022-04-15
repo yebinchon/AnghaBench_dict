@@ -1,0 +1,11 @@
+SIGINT,VAR_0
+SIGKILL,VAR_1
+SIGSTOP,VAR_2
+current,VAR_3
+recalc_sigpending,FUNC_0
+sigdelset,FUNC_1
+sigfillset,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+coda_block_signals,FUNC_5
+old,VAR_4

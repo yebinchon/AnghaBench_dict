@@ -1,0 +1,16 @@
+ESP_ERR_INVALID_ARG,VAR_0
+ESP_ERR_INVALID_STATE,VAR_1
+ESP_OK,VAR_2
+NO_CS,VAR_3
+SPI_CHECK,FUNC_0
+atomic_load,FUNC_1
+atomic_store,FUNC_2
+free,FUNC_3
+spicommon_cs_free_io,FUNC_4
+uxQueueMessagesWaiting,FUNC_5
+vQueueDelete,FUNC_6
+vSemaphoreDelete,FUNC_7
+spi_bus_remove_device,FUNC_8
+handle,VAR_4
+x,VAR_5
+spics_io_num,VAR_6

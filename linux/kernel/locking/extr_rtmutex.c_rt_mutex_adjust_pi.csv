@@ -1,0 +1,12 @@
+RT_MUTEX_MIN_CHAINWALK,VAR_0
+get_task_struct,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+rt_mutex_adjust_prio_chain,FUNC_3
+rt_mutex_waiter_equal,FUNC_4
+task_to_waiter,FUNC_5
+rt_mutex_adjust_pi,FUNC_6
+task,VAR_1
+waiter,VAR_2
+next_lock,VAR_3
+flags,VAR_4

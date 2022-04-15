@@ -1,0 +1,13 @@
+IFCAP_POLLING,VAR_0
+IFF_DRV_RUNNING,VAR_1
+MSK,VAR_2
+RCR,VAR_3
+SMC_ASSERT_LOCKED,FUNC_0
+TCR,VAR_4
+callout_stop,FUNC_1
+ether_poll_deregister,FUNC_2
+smc_select_bank,FUNC_3
+smc_write_1,FUNC_4
+smc_write_2,FUNC_5
+smc_stop,FUNC_6
+sc,VAR_5

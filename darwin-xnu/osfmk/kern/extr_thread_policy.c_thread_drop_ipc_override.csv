@@ -1,0 +1,14 @@
+TASK_POLICY_ATTRIBUTE,VAR_0
+TASK_POLICY_QOS_IPC_OVERRIDE,VAR_1
+THREAD_QOS_UNSPECIFIED,VAR_2
+assert,FUNC_0
+proc_set_thread_policy_spinlocked,FUNC_1
+splsched,FUNC_2
+splx,FUNC_3
+thread_lock,FUNC_4
+thread_policy_update_complete_unlocked,FUNC_5
+thread_unlock,FUNC_6
+thread_drop_ipc_override,FUNC_7
+thread,VAR_3
+pend_token,VAR_4
+s,VAR_5

@@ -1,0 +1,14 @@
+CopyStreamPoll,FUNC_0
+PQconsumeInput,FUNC_1
+PQerrorMessage,FUNC_2
+PQfreemem,FUNC_3
+PQgetCopyData,FUNC_4
+pg_log_error,FUNC_5
+CopyStreamReceive,FUNC_6
+conn,VAR_0
+timeout,VAR_1
+stop_socket,VAR_2
+buffer,VAR_3
+copybuf,VAR_4
+rawlen,VAR_5
+ret,VAR_6

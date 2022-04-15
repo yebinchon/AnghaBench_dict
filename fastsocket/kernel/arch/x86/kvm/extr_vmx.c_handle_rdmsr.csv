@@ -1,0 +1,11 @@
+VCPU_REGS_RAX,VAR_0
+VCPU_REGS_RCX,VAR_1
+VCPU_REGS_RDX,VAR_2
+kvm_inject_gp,FUNC_0
+skip_emulated_instruction,FUNC_1
+trace_kvm_msr_read,FUNC_2
+vmx_get_msr,FUNC_3
+handle_rdmsr,FUNC_4
+vcpu,VAR_3
+ecx,VAR_4
+data,VAR_5

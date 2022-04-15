@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+MAX_TCS_SLOTS,VAR_1
+RSC_DRV_CMD_ENABLE,VAR_2
+RSC_DRV_CMD_WAIT_FOR_CMPL,VAR_3
+bitmap_empty,FUNC_0
+bitmap_zero,FUNC_1
+get_tcs_of_type,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+tcs_is_free,FUNC_5
+write_tcs_reg_sync,FUNC_6
+tcs_invalidate,FUNC_7
+drv,VAR_4
+type,VAR_5
+m,VAR_6
+tcs,VAR_7

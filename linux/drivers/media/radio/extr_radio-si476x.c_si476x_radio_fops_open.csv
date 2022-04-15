@@ -1,0 +1,16 @@
+SI476X_POWER_DOWN,VAR_0
+SI476X_POWER_UP_FULL,VAR_1
+si476x_core_lock,FUNC_0
+si476x_core_set_power_state,FUNC_1
+si476x_core_unlock,FUNC_2
+si476x_radio_do_post_powerup_init,FUNC_3
+si476x_radio_pretune,FUNC_4
+v4l2_ctrl_handler_setup,FUNC_5
+v4l2_fh_is_singular_file,FUNC_6
+v4l2_fh_open,FUNC_7
+v4l2_fh_release,FUNC_8
+video_drvdata,FUNC_9
+si476x_radio_fops_open,FUNC_10
+file,VAR_2
+radio,VAR_3
+err,VAR_4

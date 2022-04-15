@@ -1,0 +1,16 @@
+ATH10K_SCAN_ID,VAR_0
+ATH10K_SCAN_IDLE,VAR_1
+ETIMEDOUT,VAR_2
+HZ,VAR_3
+WMI_SCAN_STOP_ONE,VAR_4
+__ath10k_scan_finish,FUNC_0
+ath10k_warn,FUNC_1
+ath10k_wmi_stop_scan,FUNC_2
+lockdep_assert_held,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+wait_for_completion_timeout,FUNC_6
+ath10k_scan_stop,FUNC_7
+ar,VAR_5
+arg,VAR_6
+ret,VAR_7

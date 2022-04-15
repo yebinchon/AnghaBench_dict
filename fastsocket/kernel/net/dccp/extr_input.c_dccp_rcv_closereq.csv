@@ -1,0 +1,16 @@
+DCCP_CLOSING,VAR_0
+DCCP_PKT_SYNC,VAR_1
+DCCP_ROLE_CLIENT,VAR_2
+DCCP_SKB_CB,FUNC_0
+POLL_HUP,VAR_3
+SOCK_WAKE_WAITD,VAR_4
+dccp_fin,FUNC_1
+dccp_send_close,FUNC_2
+dccp_send_sync,FUNC_3
+dccp_set_state,FUNC_4
+dccp_sk,FUNC_5
+sk_wake_async,FUNC_6
+dccp_rcv_closereq,FUNC_7
+sk,VAR_5
+skb,VAR_6
+queued,VAR_7

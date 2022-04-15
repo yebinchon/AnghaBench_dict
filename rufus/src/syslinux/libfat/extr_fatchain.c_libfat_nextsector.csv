@@ -1,0 +1,16 @@
+LIBFAT_SECTOR_MASK,VAR_0
+LIBFAT_SECTOR_SHIFT,VAR_1
+libfat_clustertosector,FUNC_0
+libfat_get_sector,FUNC_1
+read16,FUNC_2
+read32,FUNC_3
+libfat_nextsector,FUNC_4
+fs,VAR_2
+s,VAR_3
+cluster,VAR_4
+nextcluster,VAR_5
+fatoffset,VAR_6
+fatsect,VAR_7
+fsdata,VAR_8
+clustmask,VAR_9
+rs,VAR_10

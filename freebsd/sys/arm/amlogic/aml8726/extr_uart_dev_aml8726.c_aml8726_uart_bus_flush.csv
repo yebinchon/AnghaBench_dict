@@ -1,0 +1,15 @@
+AML_UART_CONTROL_REG,VAR_0
+AML_UART_CONTROL_RX_RST,VAR_1
+AML_UART_CONTROL_TX_RST,VAR_2
+UART_FLUSH_RECEIVER,VAR_3
+UART_FLUSH_TRANSMITTER,VAR_4
+uart_barrier,FUNC_0
+uart_getreg,FUNC_1
+uart_lock,FUNC_2
+uart_setreg,FUNC_3
+uart_unlock,FUNC_4
+aml8726_uart_bus_flush,FUNC_5
+sc,VAR_5
+what,VAR_6
+bas,VAR_7
+cr,VAR_8

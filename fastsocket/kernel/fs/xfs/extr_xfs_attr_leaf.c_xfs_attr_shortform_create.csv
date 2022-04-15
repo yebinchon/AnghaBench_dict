@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+XFS_ATTR_FORK,VAR_0
+XFS_DINODE_FMT_EXTENTS,VAR_1
+XFS_DINODE_FMT_LOCAL,VAR_2
+XFS_IFEXTENTS,VAR_3
+XFS_IFINLINE,VAR_4
+XFS_ILOG_ADATA,VAR_5
+XFS_ILOG_CORE,VAR_6
+cpu_to_be16,FUNC_1
+trace_xfs_attr_sf_create,FUNC_2
+xfs_idata_realloc,FUNC_3
+xfs_trans_log_inode,FUNC_4
+xfs_attr_shortform_create,FUNC_5
+args,VAR_7
+hdr,VAR_8
+dp,VAR_9
+ifp,VAR_10

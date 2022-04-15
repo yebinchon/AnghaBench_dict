@@ -1,0 +1,11 @@
+NVME_OPC_IDENTIFY,VAR_0
+htole32,FUNC_0
+nvme_allocate_request_vaddr,FUNC_1
+nvme_ctrlr_submit_admin_request,FUNC_2
+nvme_ctrlr_cmd_identify_controller,FUNC_3
+ctrlr,VAR_1
+payload,VAR_2
+cb_fn,VAR_3
+cb_arg,VAR_4
+req,VAR_5
+cmd,VAR_6

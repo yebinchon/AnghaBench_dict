@@ -1,0 +1,8 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+AC_WCAP_OUT_AMP,VAR_1
+get_wcaps,FUNC_0
+snd_hdac_codec_write,FUNC_1
+hdac_hdmi_set_amp,FUNC_2
+hdev,VAR_2
+nid,VAR_3
+val,VAR_4

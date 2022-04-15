@@ -1,0 +1,12 @@
+POWER_STATE_TYPE_INTERNAL_UVD,VAR_0
+POWER_STATE_TYPE_INTERNAL_UVD_HD,VAR_1
+POWER_STATE_TYPE_INTERNAL_UVD_HD2,VAR_2
+POWER_STATE_TYPE_INTERNAL_UVD_SD,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+radeon_dpm_powergate_uvd,FUNC_2
+radeon_pm_compute_clocks,FUNC_3
+radeon_dpm_enable_uvd,FUNC_4
+rdev,VAR_4
+enable,VAR_5
+dpm_state,VAR_6

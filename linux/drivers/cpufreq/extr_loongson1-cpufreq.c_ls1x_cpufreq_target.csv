@@ -1,0 +1,16 @@
+LS1X_CLK_PLL_DIV,VAR_0
+RST_CPU,VAR_1
+RST_CPU_EN,VAR_2
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+clk_set_parent,FUNC_2
+clk_set_rate,FUNC_3
+cpufreq,VAR_3
+dev_dbg,FUNC_4
+get_cpu_device,FUNC_5
+ls1x_cpufreq_target,FUNC_6
+policy,VAR_4
+index,VAR_5
+cpu_dev,VAR_6
+old_freq,VAR_7
+new_freq,VAR_8

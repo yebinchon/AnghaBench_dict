@@ -1,0 +1,14 @@
+IB_ACK_IN_FLIGHT,VAR_0
+IB_ACK_REQUESTED,VAR_1
+RDS_MAX_ADV_CREDIT,VAR_2
+clear_bit,FUNC_0
+rds_ib_send_ack,FUNC_1
+rds_ib_send_grab_credits,FUNC_2
+rds_ib_stats_inc,FUNC_3
+s_ib_ack_send_delayed,VAR_3
+s_ib_tx_throttle,VAR_4
+test_and_set_bit,FUNC_4
+test_bit,FUNC_5
+rds_ib_attempt_ack,FUNC_6
+ic,VAR_5
+adv_credits,VAR_6

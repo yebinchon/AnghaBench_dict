@@ -1,0 +1,13 @@
+UBI_MAX_ERASECOUNTER,VAR_0
+UBI_VERSION,VAR_1
+be32_to_cpu,FUNC_0
+be64_to_cpu,FUNC_1
+ubi_dbg_dump_ec_hdr,FUNC_2
+ubi_dbg_dump_stack,FUNC_3
+ubi_err,FUNC_4
+validate_ec_hdr,FUNC_5
+ubi,VAR_2
+ec_hdr,VAR_3
+ec,VAR_4
+vid_hdr_offset,VAR_5
+leb_start,VAR_6

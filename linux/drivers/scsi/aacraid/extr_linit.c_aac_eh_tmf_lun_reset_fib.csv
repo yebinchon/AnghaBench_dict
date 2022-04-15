@@ -1,0 +1,12 @@
+FW_ERROR_BUFFER_SIZE,VAR_0
+HBA_IU_TYPE_SCSI_TM_REQ,VAR_1
+HBA_TMF_LUN_RESET,VAR_2
+cpu_to_le32,FUNC_0
+int_to_scsilun,FUNC_1
+memset,FUNC_2
+aac_eh_tmf_lun_reset_fib,FUNC_3
+info,VAR_3
+fib,VAR_4
+tmf_lun,VAR_5
+tmf,VAR_6
+address,VAR_7

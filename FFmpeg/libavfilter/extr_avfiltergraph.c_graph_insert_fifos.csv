@@ -1,0 +1,17 @@
+AVMEDIA_TYPE_VIDEO,VAR_0
+avfilter_get_by_name,FUNC_0
+avfilter_graph_create_filter,FUNC_1
+avfilter_insert_filter,FUNC_2
+snprintf,FUNC_3
+graph_insert_fifos,FUNC_4
+graph,VAR_1
+log_ctx,VAR_2
+f,VAR_3
+i,VAR_4
+j,VAR_5
+ret,VAR_6
+fifo_count,VAR_7
+link,VAR_8
+fifo_ctx,VAR_9
+fifo,VAR_10
+name,VAR_11

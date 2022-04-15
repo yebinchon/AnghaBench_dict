@@ -1,0 +1,10 @@
+MSR_FSB_FREQ,VAR_0
+MSR_IA32_EBL_CR_POWERON,VAR_1
+pr_debug,FUNC_0
+pr_err,FUNC_1
+rdmsr,FUNC_2
+pentium_core_get_frequency,FUNC_3
+fsb,VAR_2
+msr_lo,VAR_3
+msr_tmp,VAR_4
+ret,VAR_5

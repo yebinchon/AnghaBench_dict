@@ -1,0 +1,16 @@
+EDID_LENGTH,VAR_0
+M_DEVBUF,VAR_1
+M_WAITOK,VAR_2
+M_ZERO,VAR_3
+OF_device_register_xref,FUNC_0
+OF_xref_from_node,FUNC_1
+device_get_softc,FUNC_2
+device_set_desc,FUNC_3
+iicbus_get_addr,FUNC_4
+malloc,FUNC_5
+ofw_bus_get_node,FUNC_6
+tda19988_start,FUNC_7
+tda19988_attach,FUNC_8
+dev,VAR_4
+sc,VAR_5
+node,VAR_6

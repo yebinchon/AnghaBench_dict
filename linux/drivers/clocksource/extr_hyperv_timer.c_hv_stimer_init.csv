@@ -1,0 +1,16 @@
+CLOCK_EVT_FEAT_ONESHOT,VAR_0
+HV_CLOCK_HZ,VAR_1
+HV_MAX_MAX_DELTA_TICKS,VAR_2
+HV_MIN_DELTA_TICKS,VAR_3
+HV_MSR_SYNTIMER_AVAILABLE,VAR_4
+clockevents_config_and_register,FUNC_0
+cpumask_of,FUNC_1
+hv_ce_set_next_event,VAR_5
+hv_ce_set_oneshot,VAR_6
+hv_ce_shutdown,VAR_7
+hv_clock_event,VAR_8
+ms_hyperv,VAR_9
+per_cpu_ptr,FUNC_2
+hv_stimer_init,FUNC_3
+cpu,VAR_10
+ce,VAR_11

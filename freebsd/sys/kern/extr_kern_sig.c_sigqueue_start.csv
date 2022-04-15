@@ -1,0 +1,14 @@
+CTL_P1003_1B_REALTIME_SIGNALS,VAR_0
+CTL_P1003_1B_RTSIG_MAX,VAR_1
+CTL_P1003_1B_SIGQUEUE_MAX,VAR_2
+SIGRTMAX,VAR_3
+SIGRTMIN,VAR_4
+UMA_ALIGN_PTR,VAR_5
+_POSIX_REALTIME_SIGNALS,VAR_6
+ksiginfo_zone,VAR_7
+max_pending_per_proc,VAR_8
+p31b_setcfg,FUNC_0
+preallocate_siginfo,VAR_9
+uma_prealloc,FUNC_1
+uma_zcreate,FUNC_2
+sigqueue_start,FUNC_3

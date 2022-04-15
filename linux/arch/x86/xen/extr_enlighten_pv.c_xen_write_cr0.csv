@@ -1,0 +1,10 @@
+MULTI_fpu_taskswitch,FUNC_0
+PARAVIRT_LAZY_CPU,VAR_0
+X86_CR0_TS,VAR_1
+this_cpu_write,FUNC_1
+xen_cr0_value,VAR_2
+xen_mc_entry,FUNC_2
+xen_mc_issue,FUNC_3
+xen_write_cr0,FUNC_4
+cr0,VAR_3
+mcs,VAR_4

@@ -1,0 +1,12 @@
+OMAP_I2C_SYSTEST_REG,VAR_0
+OMAP_I2C_SYSTEST_SCL_O,VAR_1
+OMAP_I2C_SYSTEST_SDA_O,VAR_2
+OMAP_I2C_SYSTEST_ST_EN,VAR_3
+OMAP_I2C_SYSTEST_TMODE_MASK,VAR_4
+i2c_get_adapdata,FUNC_0
+omap_i2c_read_reg,FUNC_1
+omap_i2c_write_reg,FUNC_2
+omap_i2c_unprepare_recovery,FUNC_3
+adap,VAR_5
+dev,VAR_6
+reg,VAR_7

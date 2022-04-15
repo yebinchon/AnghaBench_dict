@@ -1,0 +1,17 @@
+DMA_DUAL,VAR_0
+DMA_ENABLED,VAR_1
+claim_dma_lock,FUNC_0
+clear_dma_ff,FUNC_1
+devpriv,VAR_2
+disable_dma,FUNC_2
+enable_dma,FUNC_3
+release_dma_lock,FUNC_4
+set_dma_addr,FUNC_5
+set_dma_count,FUNC_6
+suggest_transfer_size,FUNC_7
+virt_to_bus,FUNC_8
+setup_dma,FUNC_9
+dev,VAR_3
+cmd,VAR_4
+lock_flags,VAR_5
+dual_dma,VAR_6

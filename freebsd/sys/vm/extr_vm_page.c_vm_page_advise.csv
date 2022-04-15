@@ -1,0 +1,17 @@
+MADV_DONTNEED,VAR_0
+MADV_FREE,VAR_1
+MADV_WILLNEED,VAR_2
+PGA_REFERENCED,VAR_3
+VM_OBJECT_ASSERT_WLOCKED,FUNC_0
+pmap_is_modified,FUNC_1
+vm_page_activate,FUNC_2
+vm_page_aflag_clear,FUNC_3
+vm_page_assert_locked,FUNC_4
+vm_page_deactivate_noreuse,FUNC_5
+vm_page_dirty,FUNC_6
+vm_page_in_laundry,FUNC_7
+vm_page_launder,FUNC_8
+vm_page_undirty,FUNC_9
+vm_page_advise,FUNC_10
+m,VAR_4
+advice,VAR_5

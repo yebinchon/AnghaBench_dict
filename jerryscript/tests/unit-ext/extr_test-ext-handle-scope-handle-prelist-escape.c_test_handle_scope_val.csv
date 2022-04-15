@@ -1,0 +1,11 @@
+JERRY_GC_PRESSURE_LOW,VAR_0
+TEST_ASSERT,FUNC_0
+create_object,FUNC_1
+handle_count,VAR_1
+jerry_gc,FUNC_2
+jerryx_close_handle_scope,FUNC_3
+jerryx_open_handle_scope,FUNC_4
+native_free_cb_call_count,VAR_2
+test_handle_scope_val,FUNC_5
+scope,VAR_3
+obj,VAR_4

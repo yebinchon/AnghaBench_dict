@@ -1,0 +1,12 @@
+MASK_DET_5V,VAR_0
+MASK_EDID_MTP,VAR_1
+REG_INT_FLG_CLR_DDC,VAR_2
+io_read,FUNC_0
+io_write,FUNC_1
+tda1997x_detect_tx_5v,FUNC_2
+v4l2_ctrl_s_ctrl,FUNC_3
+tda1997x_irq_ddc,FUNC_4
+state,VAR_3
+flags,VAR_4
+sd,VAR_5
+source,VAR_6

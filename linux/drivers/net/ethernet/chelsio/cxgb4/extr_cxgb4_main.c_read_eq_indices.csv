@@ -1,0 +1,16 @@
+MEM_EDC0,VAR_0
+SGE_DBQ_CTXT_BADDR_A,VAR_1
+T4_MEMORY_READ,VAR_2
+be64_to_cpu,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+t4_memory_rw,FUNC_3
+t4_read_reg,FUNC_4
+read_eq_indices,FUNC_5
+adap,VAR_3
+qid,VAR_4
+pidx,VAR_5
+cidx,VAR_6
+addr,VAR_7
+indices,VAR_8
+ret,VAR_9

@@ -1,0 +1,12 @@
+LIST_REMOVE,FUNC_0
+SD_EVENT_OFF,VAR_0
+assert,FUNC_1
+client_context_release,FUNC_2
+free,FUNC_3
+safe_close,FUNC_4
+sd_event_source_set_enabled,FUNC_5
+sd_event_source_unref,FUNC_6
+stdout_stream,VAR_1
+stdout_stream_notify_queue,VAR_2
+stdout_stream_free,FUNC_7
+s,VAR_3

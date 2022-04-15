@@ -1,0 +1,15 @@
+STM_SAI_PROTOCOL_IS_SPDIF,FUNC_0
+params_rate,FUNC_1
+params_width,FUNC_2
+snd_soc_dai_get_drvdata,FUNC_3
+stm32_sai_configure_clock,FUNC_4
+stm32_sai_set_config,FUNC_5
+stm32_sai_set_frame,FUNC_6
+stm32_sai_set_iec958_status,FUNC_7
+stm32_sai_set_slots,FUNC_8
+stm32_sai_hw_params,FUNC_9
+substream,VAR_0
+params,VAR_1
+cpu_dai,VAR_2
+sai,VAR_3
+ret,VAR_4

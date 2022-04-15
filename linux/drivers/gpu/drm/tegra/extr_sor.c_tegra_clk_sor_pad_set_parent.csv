@@ -1,0 +1,13 @@
+SOR_CLK_CNTRL,VAR_0
+SOR_CLK_CNTRL_DP_CLK_SEL_MASK,VAR_1
+SOR_CLK_CNTRL_DP_CLK_SEL_SINGLE_DPCLK,VAR_2
+SOR_CLK_CNTRL_DP_CLK_SEL_SINGLE_PCLK,VAR_3
+tegra_sor_readl,FUNC_0
+tegra_sor_writel,FUNC_1
+to_pad,FUNC_2
+tegra_clk_sor_pad_set_parent,FUNC_3
+hw,VAR_4
+index,VAR_5
+pad,VAR_6
+sor,VAR_7
+value,VAR_8

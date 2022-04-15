@@ -1,0 +1,13 @@
+BLK_STS_AGAIN,VAR_0
+EAGAIN,VAR_1
+EIO,VAR_2
+REQ_NOWAIT,VAR_3
+REQ_OP_READ,VAR_4
+bio_check_pages_dirty,FUNC_0
+bio_put,FUNC_1
+bio_release_pages,FUNC_2
+dio_bio_complete,FUNC_3
+dio,VAR_5
+bio,VAR_6
+err,VAR_7
+should_dirty,VAR_8

@@ -1,0 +1,12 @@
+VMCI_QPFLAG_LOCAL,VAR_0
+atomic_store_int,FUNC_0
+qp_guest_endpoint_destroy,FUNC_1
+qp_guest_endpoints,VAR_1
+queue_pair_list_destroy,FUNC_2
+queue_pair_list_get_head,FUNC_3
+queue_pair_list_remove_entry,FUNC_4
+vmci_mutex_acquire,FUNC_5
+vmci_mutex_release,FUNC_6
+vmci_queue_pair_detach_hypercall,FUNC_7
+vmci_qp_guest_endpoints_exit,FUNC_8
+entry,VAR_2

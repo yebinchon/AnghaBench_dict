@@ -1,0 +1,11 @@
+ECHO,VAR_0
+ICANON,VAR_1
+ISIG,VAR_2
+STDIN_FILENO,VAR_3
+TCSANOW,VAR_4
+devices,VAR_5
+orig_term,VAR_6
+reset_device,FUNC_0
+tcsetattr,FUNC_1
+cleanup_devices,FUNC_2
+dev,VAR_7

@@ -1,0 +1,15 @@
+MSG_DEBUG,VAR_0
+TLS_ALERT_INTERNAL_ERROR,VAR_1
+TLS_ALERT_LEVEL_FATAL,VAR_2
+TLS_CHANGE_CIPHER_SPEC,VAR_3
+TLS_CONTENT_TYPE_CHANGE_CIPHER_SPEC,VAR_4
+tls_alert,FUNC_0
+tlsv1_record_change_write_cipher,FUNC_1
+tlsv1_record_send,FUNC_2
+wpa_printf,FUNC_3
+tls_write_client_change_cipher_spec,FUNC_4
+conn,VAR_5
+msgpos,VAR_6
+end,VAR_7
+rlen,VAR_8
+payload,VAR_9

@@ -1,0 +1,17 @@
+CryptSetKeyParam,FUNC_0
+FALSE,VAR_0
+KP_IV,VAR_1
+RtlCopyMemory,FUNC_1
+RtlZeroMemory,FUNC_2
+TRUE,VAR_2
+kull_m_crypto_aesBlockEncryptDecrypt,FUNC_3
+kull_m_crypto_aesCTSEncrypt,FUNC_4
+hKey,VAR_3
+data,VAR_4
+szData,VAR_5
+pbIV,VAR_6
+status,VAR_7
+nbBlock,VAR_8
+lastLen,VAR_9
+buffer,VAR_10
+ptr,VAR_11

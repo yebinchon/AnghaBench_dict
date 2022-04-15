@@ -1,0 +1,13 @@
+get_xps_queue,FUNC_0
+rcu_dereference_check,FUNC_1
+sk_tx_queue_get,FUNC_2
+sk_tx_queue_set,FUNC_3
+skb_dst,FUNC_4
+skb_tx_hash,FUNC_5
+__netdev_pick_tx,FUNC_6
+dev,VAR_0
+skb,VAR_1
+sk,VAR_2
+queue_index,VAR_3
+new_index,VAR_4
+dst,VAR_5

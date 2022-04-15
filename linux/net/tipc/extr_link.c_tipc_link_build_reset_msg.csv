@@ -1,0 +1,13 @@
+ACTIVATE_MSG,VAR_0
+LINK_ESTABLISHING,VAR_1
+LINK_RESET,VAR_2
+RESET_MSG,VAR_3
+buf_msg,FUNC_0
+msg_set_peer_stopping,FUNC_1
+skb_peek_tail,FUNC_2
+tipc_link_build_proto_msg,FUNC_3
+tipc_link_build_reset_msg,FUNC_4
+l,VAR_4
+xmitq,VAR_5
+mtyp,VAR_6
+skb,VAR_7

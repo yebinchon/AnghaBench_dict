@@ -1,0 +1,14 @@
+IBV_INIT_CMD_RESP,FUNC_0
+QUERY_DEVICE,VAR_0
+VALGRIND_MAKE_MEM_DEFINED,FUNC_1
+copy_query_dev_fields,FUNC_2
+errno,VAR_1
+memset,FUNC_3
+write,FUNC_4
+ibv_cmd_query_device,FUNC_5
+context,VAR_2
+device_attr,VAR_3
+raw_fw_ver,VAR_4
+cmd,VAR_5
+cmd_size,VAR_6
+resp,VAR_7

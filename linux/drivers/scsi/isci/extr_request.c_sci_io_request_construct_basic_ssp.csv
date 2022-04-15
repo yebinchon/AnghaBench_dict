@@ -1,0 +1,10 @@
+SAS_PROTOCOL_SSP,VAR_0
+SCI_REQ_CONSTRUCTED,VAR_1
+SCI_SUCCESS,VAR_2
+isci_request_access_task,FUNC_0
+sci_change_state,FUNC_1
+sci_io_request_build_ssp_command_iu,FUNC_2
+scu_ssp_io_request_construct_task_context,FUNC_3
+sci_io_request_construct_basic_ssp,FUNC_4
+ireq,VAR_3
+task,VAR_4

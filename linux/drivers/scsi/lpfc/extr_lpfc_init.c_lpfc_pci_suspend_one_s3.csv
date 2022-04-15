@@ -1,0 +1,17 @@
+KERN_INFO,VAR_0
+LOG_INIT,VAR_1
+LPFC_MBX_WAIT,VAR_2
+PCI_D3hot,VAR_3
+kthread_stop,FUNC_0
+lpfc_offline,FUNC_1
+lpfc_offline_prep,FUNC_2
+lpfc_printf_log,FUNC_3
+lpfc_sli_disable_intr,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_save_state,FUNC_6
+pci_set_power_state,FUNC_7
+lpfc_pci_suspend_one_s3,FUNC_8
+pdev,VAR_4
+msg,VAR_5
+shost,VAR_6
+phba,VAR_7

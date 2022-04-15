@@ -1,0 +1,16 @@
+PF_UNIX,VAR_0
+SOCK_SEQPACKET,VAR_1
+SOCK_STREAM,VAR_2
+TOMOYO_NETWORK_LISTEN,VAR_3
+stub1,FUNC_0
+tomoyo_check_inet_address,FUNC_1
+tomoyo_check_unix_address,FUNC_2
+tomoyo_sock_family,FUNC_3
+tomoyo_socket_listen_permission,FUNC_4
+sock,VAR_4
+address,VAR_5
+family,VAR_6
+type,VAR_7
+addr,VAR_8
+addr_len,VAR_9
+error,VAR_10

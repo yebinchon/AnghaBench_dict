@@ -1,0 +1,11 @@
+GPIOF_OUT_INIT_LOW,VAR_0
+S3C2410_GPF,FUNC_0
+S3C2410_GSTATUS2,VAR_1
+S3C2410_GSTATUS2_OFFRESET,VAR_2
+__raw_readl,FUNC_1
+__raw_writel,FUNC_2
+gpio_free,FUNC_3
+gpio_request_one,FUNC_4
+machine_is_aml_m5900,FUNC_5
+s3c2410_pm_resume,FUNC_6
+tmp,VAR_3

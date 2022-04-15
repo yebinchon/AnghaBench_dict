@@ -1,0 +1,11 @@
+EXT4_SB,FUNC_0
+ext4_clear_feature_journal_needs_recovery,FUNC_1
+ext4_commit_super,FUNC_2
+jbd2_journal_flush,FUNC_3
+jbd2_journal_lock_updates,FUNC_4
+jbd2_journal_unlock_updates,FUNC_5
+sb_rdonly,FUNC_6
+ext4_freeze,FUNC_7
+sb,VAR_0
+error,VAR_1
+journal,VAR_2

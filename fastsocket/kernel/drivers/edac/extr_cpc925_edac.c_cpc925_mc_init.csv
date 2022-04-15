@@ -1,0 +1,11 @@
+ECC_MASK_ENABLE,VAR_0
+MCCR_ECC_EN,VAR_1
+REG_APIMASK_OFFSET,VAR_2
+REG_MCCR_OFFSET,VAR_3
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+cpc925_mc_init,FUNC_2
+mci,VAR_4
+pdata,VAR_5
+apimask,VAR_6
+mccr,VAR_7

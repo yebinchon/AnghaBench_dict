@@ -1,0 +1,11 @@
+BLK_STS_OK,VAR_0
+READ_16,VAR_1
+WRITE_16,VAR_2
+put_unaligned_be32,FUNC_0
+put_unaligned_be64,FUNC_1
+sd_setup_rw16_cmnd,FUNC_2
+cmd,VAR_3
+write,VAR_4
+lba,VAR_5
+nr_blocks,VAR_6
+flags,VAR_7

@@ -1,0 +1,17 @@
+AccessExclusiveLock,VAR_0
+Assert,FUNC_0
+BackendIdGetProc,FUNC_1
+DirectFunctionCall1,FUNC_2
+GetLockConflicts,FUNC_3
+Int32GetDatum,FUNC_4
+NOTICE,VAR_1
+VirtualTransactionIdIsValid,FUNC_5
+elog,FUNC_6
+lock_job,FUNC_7
+pg_cancel_backend,VAR_2
+get_job_lock_for_delete,FUNC_8
+job_id,VAR_3
+tag,VAR_4
+got_lock,VAR_5
+vxid,VAR_6
+proc,VAR_7

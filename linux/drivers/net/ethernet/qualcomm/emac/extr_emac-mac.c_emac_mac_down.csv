@@ -1,0 +1,16 @@
+DIS_INT,VAR_0
+EMAC_INT_MASK,VAR_1
+EMAC_INT_STATUS,VAR_2
+emac_mac_reset,FUNC_0
+emac_rx_q_free_descs,FUNC_1
+emac_tx_q_descs_free,FUNC_2
+napi_disable,FUNC_3
+netdev_reset_queue,FUNC_4
+netif_stop_queue,FUNC_5
+phy_disconnect,FUNC_6
+phy_stop,FUNC_7
+synchronize_irq,FUNC_8
+writel,FUNC_9
+emac_mac_down,FUNC_10
+adpt,VAR_3
+netdev,VAR_4

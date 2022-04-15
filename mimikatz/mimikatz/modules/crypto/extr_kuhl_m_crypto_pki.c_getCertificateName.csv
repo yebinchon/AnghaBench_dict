@@ -1,0 +1,10 @@
+CERT_X500_NAME_STR,VAR_0
+CertNameToStr,FUNC_0
+LPTR,VAR_1
+LocalAlloc,FUNC_1
+LocalFree,FUNC_2
+X509_ASN_ENCODING,VAR_2
+getCertificateName,FUNC_3
+blob,VAR_3
+ret,VAR_4
+dwSizeNeeded,VAR_5

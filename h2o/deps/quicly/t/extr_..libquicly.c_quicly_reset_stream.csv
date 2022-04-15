@@ -1,0 +1,14 @@
+QUICLY_ERROR_GET_ERROR_CODE,FUNC_0
+QUICLY_ERROR_IS_QUIC_APPLICATION,FUNC_1
+QUICLY_SENDER_STATE_NONE,VAR_0
+QUICLY_SENDER_STATE_SEND,VAR_1
+assert,FUNC_2
+quicly_is_client,FUNC_3
+quicly_sendstate_reset,FUNC_4
+quicly_sendstate_transfer_complete,FUNC_5
+quicly_stream_has_send_side,FUNC_6
+resched_stream_data,FUNC_7
+sched_stream_control,FUNC_8
+quicly_reset_stream,FUNC_9
+stream,VAR_2
+err,VAR_3

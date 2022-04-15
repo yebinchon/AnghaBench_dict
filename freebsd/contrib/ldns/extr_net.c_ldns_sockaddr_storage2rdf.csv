@@ -1,0 +1,12 @@
+LDNS_IP4ADDRLEN,VAR_0
+LDNS_IP6ADDRLEN,VAR_1
+LDNS_RDF_TYPE_A,VAR_2
+LDNS_RDF_TYPE_AAAA,VAR_3
+ldns_rdf_new_frm_data,FUNC_0
+ntohs,FUNC_1
+ldns_sockaddr_storage2rdf,FUNC_2
+sock,VAR_4
+port,VAR_5
+addr,VAR_6
+data_in,VAR_7
+data_in6,VAR_8

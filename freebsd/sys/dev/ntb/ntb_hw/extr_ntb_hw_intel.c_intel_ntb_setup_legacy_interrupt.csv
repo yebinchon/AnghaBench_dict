@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+ENXIO,VAR_1
+INTR_MPSAFE,VAR_2
+INTR_TYPE_MISC,VAR_3
+RF_ACTIVE,VAR_4
+RF_SHAREABLE,VAR_5
+SYS_RES_IRQ,VAR_6
+bus_alloc_resource_any,FUNC_0
+bus_setup_intr,FUNC_1
+device_printf,FUNC_2
+ndev_irq_isr,VAR_7
+intel_ntb_setup_legacy_interrupt,FUNC_3
+ntb,VAR_8
+rc,VAR_9

@@ -1,0 +1,14 @@
+RAW_file_offset,VAR_0
+V3_EVENT_DATA_VERSION,VAR_1
+assert,FUNC_0
+copyout,FUNC_1
+kdbg_write_to_vnode,FUNC_2
+kdbg_write_v3_chunk_header,FUNC_3
+kdbg_write_v3_event_chunk_header,FUNC_4
+buffer,VAR_2
+tag,VAR_3
+length,VAR_4
+vp,VAR_5
+ctx,VAR_6
+future_chunk_timestamp,VAR_7
+ret,VAR_8

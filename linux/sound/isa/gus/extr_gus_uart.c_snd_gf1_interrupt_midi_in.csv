@@ -1,0 +1,12 @@
+snd_gf1_uart_get,FUNC_0
+snd_gf1_uart_stat,FUNC_1
+snd_rawmidi_receive,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+snd_gf1_interrupt_midi_in,FUNC_5
+gus,VAR_0
+count,VAR_1
+stat,VAR_2
+data,VAR_3
+byte,VAR_4
+flags,VAR_5

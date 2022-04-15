@@ -1,0 +1,8 @@
+__kvm_ioapic_update_eoi,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+kvm_ioapic_update_eoi,FUNC_3
+vcpu,VAR_0
+vector,VAR_1
+trigger_mode,VAR_2
+ioapic,VAR_3

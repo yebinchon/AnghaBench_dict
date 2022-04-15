@@ -1,0 +1,9 @@
+PCIE_SPEED2STR,FUNC_0
+pcie_get_speed_cap,FUNC_1
+sprintf,FUNC_2
+to_pci_dev,FUNC_3
+max_link_speed_show,FUNC_4
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+pdev,VAR_3

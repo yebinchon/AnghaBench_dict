@@ -1,0 +1,12 @@
+NAND_ECC_BCH,VAR_0
+NDCR,VAR_1
+NDCR_ECC_EN,VAR_2
+NDECCCTRL,VAR_3
+NDECCCTRL_BCH_EN,VAR_4
+readl_relaxed,FUNC_0
+to_marvell_nfc,FUNC_1
+writel_relaxed,FUNC_2
+marvell_nfc_enable_hw_ecc,FUNC_3
+chip,VAR_5
+nfc,VAR_6
+ndcr,VAR_7

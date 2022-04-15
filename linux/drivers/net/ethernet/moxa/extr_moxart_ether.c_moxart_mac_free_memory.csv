@@ -1,0 +1,13 @@
+DMA_FROM_DEVICE,VAR_0
+RX_DESC_NUM,VAR_1
+RX_REG_DESC_SIZE,VAR_2
+TX_DESC_NUM,VAR_3
+TX_REG_DESC_SIZE,VAR_4
+dma_free_coherent,FUNC_0
+dma_unmap_single,FUNC_1
+kfree,FUNC_2
+netdev_priv,FUNC_3
+moxart_mac_free_memory,FUNC_4
+ndev,VAR_5
+priv,VAR_6
+i,VAR_7

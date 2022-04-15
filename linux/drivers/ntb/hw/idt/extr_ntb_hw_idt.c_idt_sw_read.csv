@@ -1,0 +1,15 @@
+IDT_NT_GASAADDR,VAR_0
+IDT_NT_GASADATA,VAR_1
+IDT_REG_ALIGN,VAR_2
+IDT_REG_SW_MAX,VAR_3
+IS_ALIGNED,FUNC_0
+WARN_ON,FUNC_1
+ioread32,FUNC_2
+iowrite32,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+idt_sw_read,FUNC_6
+ndev,VAR_4
+reg,VAR_5
+irqflags,VAR_6
+data,VAR_7

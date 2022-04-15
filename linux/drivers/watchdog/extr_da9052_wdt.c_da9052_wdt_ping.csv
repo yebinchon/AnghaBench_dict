@@ -1,0 +1,15 @@
+DA9052_CONTROLD_WATCHDOG,VAR_0
+DA9052_CONTROL_D_REG,VAR_1
+DA9052_TWDMIN,VAR_2
+HZ,VAR_3
+da9052_reg_update,FUNC_0
+jiffies,VAR_4
+mdelay,FUNC_1
+watchdog_get_drvdata,FUNC_2
+da9052_wdt_ping,FUNC_3
+wdt_dev,VAR_5
+driver_data,VAR_6
+da9052,VAR_7
+msec,VAR_8
+jnow,VAR_9
+ret,VAR_10

@@ -1,0 +1,11 @@
+E1000_EECD,VAR_0
+E1000_EECD_CS,VAR_1
+e1000_nvm_eeprom_spi,VAR_2
+rd32,FUNC_0
+udelay,FUNC_1
+wr32,FUNC_2
+wrfl,FUNC_3
+igb_standby_nvm,FUNC_4
+hw,VAR_3
+nvm,VAR_4
+eecd,VAR_5

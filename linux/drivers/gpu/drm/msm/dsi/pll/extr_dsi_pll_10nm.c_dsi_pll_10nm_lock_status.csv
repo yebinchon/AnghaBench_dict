@@ -1,0 +1,10 @@
+BIT,FUNC_0
+REG_DSI_10nm_PHY_PLL_COMMON_STATUS_ONE,VAR_0
+pr_err,FUNC_1
+readl_poll_timeout_atomic,FUNC_2
+dsi_pll_10nm_lock_status,FUNC_3
+pll,VAR_1
+rc,VAR_2
+status,VAR_3
+delay_us,VAR_4
+timeout_us,VAR_5

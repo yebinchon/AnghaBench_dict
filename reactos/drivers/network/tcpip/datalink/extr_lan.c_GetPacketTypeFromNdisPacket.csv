@@ -1,0 +1,17 @@
+CopyPacketToBuffer,FUNC_0
+DEBUG_DATALINK,VAR_0
+ExAllocatePoolWithTag,FUNC_1
+ExFreePoolWithTag,FUNC_2
+GetPacketTypeFromHeaderBuffer,FUNC_3
+HEADER_TAG,VAR_1
+NDIS_STATUS_NOT_ACCEPTED,VAR_2
+NDIS_STATUS_RESOURCES,VAR_3
+NonPagedPool,VAR_4
+TI_DbgPrint,FUNC_4
+GetPacketTypeFromNdisPacket,FUNC_5
+Adapter,VAR_5
+NdisPacket,VAR_6
+PacketType,VAR_7
+HeaderBuffer,VAR_8
+BytesCopied,VAR_9
+Status,VAR_10

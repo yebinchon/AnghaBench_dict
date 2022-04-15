@@ -1,0 +1,15 @@
+ZYNQ_GPIO_DATA_LSW_OFFSET,FUNC_0
+ZYNQ_GPIO_DATA_MSW_OFFSET,FUNC_1
+ZYNQ_GPIO_MID_PIN_NUM,VAR_0
+ZYNQ_GPIO_UPPER_MASK,VAR_1
+gpiochip_get_data,FUNC_2
+writel_relaxed,FUNC_3
+zynq_gpio_get_bank_pin,FUNC_4
+zynq_gpio_set_value,FUNC_5
+chip,VAR_2
+pin,VAR_3
+state,VAR_4
+reg_offset,VAR_5
+bank_num,VAR_6
+bank_pin_num,VAR_7
+gpio,VAR_8

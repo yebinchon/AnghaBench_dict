@@ -1,0 +1,10 @@
+US_FROM_VLC_TICK,FUNC_0
+lua_pushinteger,FUNC_1
+vlc_player_GetTime,FUNC_2
+vlc_player_Lock,FUNC_3
+vlc_player_Unlock,FUNC_4
+vlclua_get_player_internal,FUNC_5
+vlclua_player_get_time,FUNC_6
+L,VAR_0
+player,VAR_1
+time,VAR_2

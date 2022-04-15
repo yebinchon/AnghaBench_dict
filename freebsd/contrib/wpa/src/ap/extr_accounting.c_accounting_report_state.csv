@@ -1,0 +1,17 @@
+MSG_ERROR,VAR_0
+RADIUS_ACCT,VAR_1
+RADIUS_ACCT_STATUS_TYPE_ACCOUNTING_OFF,VAR_2
+RADIUS_ACCT_STATUS_TYPE_ACCOUNTING_ON,VAR_3
+RADIUS_ATTR_ACCT_SESSION_ID,VAR_4
+accounting_msg,FUNC_0
+os_snprintf,FUNC_1
+os_strlen,FUNC_2
+radius_client_send,FUNC_3
+radius_msg_add_attr,FUNC_4
+radius_msg_free,FUNC_5
+wpa_printf,FUNC_6
+accounting_report_state,FUNC_7
+hapd,VAR_5
+on,VAR_6
+msg,VAR_7
+buf,VAR_8

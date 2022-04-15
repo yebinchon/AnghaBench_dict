@@ -1,0 +1,16 @@
+GIT_CREDTYPE_SSH_CUSTOM,VAR_0
+GIT_ERROR_CHECK_ALLOC,FUNC_0
+assert,FUNC_1
+git__calloc,FUNC_2
+git__malloc,FUNC_3
+git__strdup,FUNC_4
+memcpy,FUNC_5
+ssh_custom_free,VAR_1
+git_cred_ssh_custom_new,FUNC_6
+cred,VAR_2
+username,VAR_3
+publickey,VAR_4
+publickey_len,VAR_5
+sign_callback,VAR_6
+payload,VAR_7
+c,VAR_8

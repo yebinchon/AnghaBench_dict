@@ -1,0 +1,17 @@
+MOUNT_STATE_WITH_PROCESS,FUNC_0
+MOUNT_SUCCESS,VAR_0
+UNIT,FUNC_1
+UNIT_NOTIFY_RELOAD_FAILURE,VAR_1
+_MOUNT_EXEC_COMMAND_INVALID,VAR_2
+assert,FUNC_2
+bus_unit_send_pending_change_signal,FUNC_3
+log_unit_debug,FUNC_4
+mount_state_to_string,FUNC_5
+mount_unwatch_control_pid,FUNC_6
+sd_event_source_unref,FUNC_7
+state_translation_table,VAR_3
+unit_notify,FUNC_8
+mount_set_state,FUNC_9
+m,VAR_4
+state,VAR_5
+old_state,VAR_6

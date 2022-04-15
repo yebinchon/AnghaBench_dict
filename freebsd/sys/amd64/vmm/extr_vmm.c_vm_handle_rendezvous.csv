@@ -1,0 +1,15 @@
+CPU_AND,FUNC_0
+CPU_CMP,FUNC_1
+CPU_ISSET,FUNC_2
+CPU_SET,FUNC_3
+KASSERT,FUNC_4
+RENDEZVOUS_CTR0,FUNC_5
+VCPU_CTR0,FUNC_6
+mtx_lock,FUNC_7
+mtx_sleep,FUNC_8
+mtx_unlock,FUNC_9
+stub1,FUNC_10
+wakeup,FUNC_11
+vm_handle_rendezvous,FUNC_12
+vm,VAR_0
+vcpuid,VAR_1

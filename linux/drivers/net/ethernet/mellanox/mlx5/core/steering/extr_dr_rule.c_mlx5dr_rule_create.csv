@@ -1,0 +1,11 @@
+dr_rule_create_rule,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+refcount_dec,FUNC_3
+refcount_inc,FUNC_4
+mlx5dr_rule_create,FUNC_5
+matcher,VAR_0
+value,VAR_1
+num_actions,VAR_2
+actions,VAR_3
+rule,VAR_4

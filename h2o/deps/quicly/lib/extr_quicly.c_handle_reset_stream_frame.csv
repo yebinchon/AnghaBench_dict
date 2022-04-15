@@ -1,0 +1,15 @@
+QUICLY_ERROR_FROM_APPLICATION_ERROR_CODE,FUNC_0
+destroy_stream,FUNC_1
+get_stream_or_open_if_new,FUNC_2
+quicly_decode_reset_stream_frame,FUNC_3
+quicly_recvstate_reset,FUNC_4
+quicly_recvstate_transfer_complete,FUNC_5
+stream_is_destroyable,FUNC_6
+stub1,FUNC_7
+handle_reset_stream_frame,FUNC_8
+conn,VAR_0
+state,VAR_1
+frame,VAR_2
+stream,VAR_3
+ret,VAR_4
+bytes_missing,VAR_5

@@ -1,0 +1,16 @@
+CAM_DATA_PHYS,VAR_0
+CAM_SCATTER_VALID,VAR_1
+CAM_SG_LIST_PHYS,VAR_2
+FALSE,VAR_3
+HPT_ASSERT,FUNC_0
+TRUE,VAR_4
+os_set_sgptr,FUNC_1
+panic,FUNC_2
+os_buildsgl,FUNC_3
+pCmd,VAR_5
+pSg,VAR_6
+logical,VAR_7
+ext,VAR_8
+ccb,VAR_9
+sgList,VAR_10
+idx,VAR_11

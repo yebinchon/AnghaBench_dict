@@ -1,0 +1,12 @@
+TOPAZ_IPC_IRQ_WORD,FUNC_0
+TOPAZ_LH_IPC4_INT,FUNC_1
+TOPAZ_RC_TX_STOP_IRQ,VAR_0
+dma_wmb,FUNC_2
+get_bus_priv,FUNC_3
+netif_tx_stop_all_queues,FUNC_4
+tasklet_hi_schedule,FUNC_5
+writel,FUNC_6
+qtnf_try_stop_xmit,FUNC_7
+bus,VAR_1
+ndev,VAR_2
+ts,VAR_3

@@ -1,0 +1,12 @@
+CPUFREQ_TRANSITION_NOTIFIER,VAR_0
+X86_FEATURE_CONSTANT_TSC,VAR_1
+boot_cpu_has,FUNC_0
+cpufreq_unregister_notifier,FUNC_1
+kvm_guest_cbs,VAR_2
+kvm_mmu_module_exit,FUNC_2
+kvm_x86_ops,VAR_3
+kvmclock_cpu_notifier_block,VAR_4
+kvmclock_cpufreq_notifier_block,VAR_5
+perf_unregister_guest_info_callbacks,FUNC_3
+unregister_hotcpu_notifier,FUNC_4
+kvm_arch_exit,FUNC_5

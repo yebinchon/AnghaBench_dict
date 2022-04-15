@@ -1,0 +1,12 @@
+CR_REG1,VAR_0
+UNLOCK_PHY_REGS,VAR_1
+ZD_ASSERT,FUNC_0
+dev_err,FUNC_1
+mutex_is_locked,FUNC_2
+zd_chip_dev,FUNC_3
+zd_ioread32_locked,FUNC_4
+zd_iowrite32_locked,FUNC_5
+zd_chip_unlock_phy_regs,FUNC_6
+chip,VAR_2
+r,VAR_3
+tmp,VAR_4

@@ -1,0 +1,17 @@
+BIT,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+stub3,FUNC_5
+stub4,FUNC_6
+stub5,FUNC_7
+trace_msm_atomic_async_commit_finish,FUNC_8
+trace_msm_atomic_async_commit_start,FUNC_9
+trace_msm_atomic_flush_commit,FUNC_10
+trace_msm_atomic_wait_flush_finish,FUNC_11
+trace_msm_atomic_wait_flush_start,FUNC_12
+msm_atomic_async_commit,FUNC_13
+kms,VAR_0
+crtc_idx,VAR_1
+crtc_mask,VAR_2

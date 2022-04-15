@@ -1,0 +1,16 @@
+AMDGPU_JOB_GET_VMID,FUNC_0
+SDMA_OP_INDIRECT,VAR_0
+SDMA_PKT_HEADER_OP,FUNC_1
+SDMA_PKT_INDIRECT_HEADER_VMID,FUNC_2
+amdgpu_ring_write,FUNC_3
+amdgpu_sdma_get_csa_mc_addr,FUNC_4
+lower_32_bits,FUNC_5
+sdma_v5_0_ring_insert_nop,FUNC_6
+upper_32_bits,FUNC_7
+sdma_v5_0_ring_emit_ib,FUNC_8
+ring,VAR_1
+job,VAR_2
+ib,VAR_3
+flags,VAR_4
+vmid,VAR_5
+csa_mc_addr,VAR_6

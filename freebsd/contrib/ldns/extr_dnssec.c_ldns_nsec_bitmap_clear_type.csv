@@ -1,0 +1,14 @@
+LDNS_RDF_TYPE_BITMAP,VAR_0
+LDNS_STATUS_OK,VAR_1
+LDNS_STATUS_TYPE_NOT_IN_BITMAP,VAR_2
+assert,FUNC_0
+ldns_rdf_data,FUNC_1
+ldns_rdf_get_type,FUNC_2
+ldns_rdf_size,FUNC_3
+ldns_nsec_bitmap_clear_type,FUNC_4
+bitmap,VAR_3
+type,VAR_4
+dptr,VAR_5
+dend,VAR_6
+window,VAR_7
+subtype,VAR_8

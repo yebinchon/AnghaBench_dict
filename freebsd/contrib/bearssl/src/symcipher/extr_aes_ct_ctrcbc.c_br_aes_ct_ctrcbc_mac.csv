@@ -1,0 +1,17 @@
+br_aes_ct_bitslice_encrypt,FUNC_0
+br_aes_ct_ortho,FUNC_1
+br_aes_ct_skey_expand,FUNC_2
+br_dec32le,FUNC_3
+br_enc32le,FUNC_4
+br_aes_ct_ctrcbc_mac,FUNC_5
+ctx,VAR_0
+cbcmac,VAR_1
+data,VAR_2
+len,VAR_3
+buf,VAR_4
+cm0,VAR_5
+cm1,VAR_6
+cm2,VAR_7
+cm3,VAR_8
+q,VAR_9
+sk_exp,VAR_10

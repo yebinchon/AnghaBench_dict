@@ -1,0 +1,14 @@
+WARN_ON,FUNC_0
+atomic_read,FUNC_1
+btrfs_assert_spinning_writers_get,FUNC_2
+btrfs_assert_tree_write_locks_get,FUNC_3
+current,VAR_0
+ktime_get_ns,FUNC_4
+trace_btrfs_tree_lock,FUNC_5
+trace_btrfs_tree_lock_enabled,FUNC_6
+wait_event,FUNC_7
+write_lock,FUNC_8
+write_unlock,FUNC_9
+btrfs_tree_lock,FUNC_10
+eb,VAR_1
+start_ns,VAR_2

@@ -1,0 +1,16 @@
+LDNS_MIN_BUFLEN,VAR_0
+LDNS_STATUS_ERR,VAR_1
+LDNS_STATUS_OK,VAR_2
+ldns_buffer_free,FUNC_0
+ldns_buffer_new,FUNC_1
+ldns_pkt2buffer_wire,FUNC_2
+ldns_pkt_tsig,FUNC_3
+ldns_rr_rdf,FUNC_4
+ldns_send_buffer,FUNC_5
+ldns_send,FUNC_6
+result_packet,VAR_3
+r,VAR_4
+query_pkt,VAR_5
+qb,VAR_6
+result,VAR_7
+tsig_mac,VAR_8

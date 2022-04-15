@@ -1,0 +1,12 @@
+MSR_IA32_CR_PAT,VAR_0
+MSR_MTRRdefType,VAR_1
+MSR_MTRRfix4K_F8000,VAR_2
+MSR_MTRRfix64K_00000,VAR_3
+msr_mtrr_valid,FUNC_0
+valid_mtrr_type,FUNC_1
+valid_pat_type,FUNC_2
+mtrr_valid,FUNC_3
+vcpu,VAR_4
+msr,VAR_5
+data,VAR_6
+i,VAR_7

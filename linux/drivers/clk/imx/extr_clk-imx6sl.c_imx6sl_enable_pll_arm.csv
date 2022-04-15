@@ -1,0 +1,12 @@
+BM_PLL_ARM_ENABLE,VAR_0
+BM_PLL_ARM_LOCK,VAR_1
+BM_PLL_ARM_POWERDOWN,VAR_2
+PLL_ARM,VAR_3
+__raw_readl,FUNC_0
+anatop_base,VAR_4
+readl_relaxed,FUNC_1
+writel_relaxed,FUNC_2
+imx6sl_enable_pll_arm,FUNC_3
+enable,VAR_5
+saved_pll_arm,VAR_6
+val,VAR_7

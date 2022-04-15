@@ -1,0 +1,12 @@
+KAWETH_COMMAND_SET_URB_SIZE,VAR_0
+KAWETH_CONTROL_TIMEOUT,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_DEVICE,VAR_3
+USB_TYPE_VENDOR,VAR_4
+dbg,FUNC_0
+kaweth_control,FUNC_1
+usb_sndctrlpipe,FUNC_2
+kaweth_set_urb_size,FUNC_3
+kaweth,VAR_5
+urb_size,VAR_6
+retval,VAR_7

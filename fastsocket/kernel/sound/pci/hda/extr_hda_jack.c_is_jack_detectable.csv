@@ -1,0 +1,10 @@
+AC_DEFCFG_MISC_NO_PRESENCE,VAR_0
+AC_PINCAP_PRES_DETECT,VAR_1
+AC_WCAP_UNSOL_CAP,VAR_2
+get_defcfg_misc,FUNC_0
+get_wcaps,FUNC_1
+snd_hda_codec_get_pincfg,FUNC_2
+snd_hda_query_pin_caps,FUNC_3
+is_jack_detectable,FUNC_4
+codec,VAR_3
+nid,VAR_4

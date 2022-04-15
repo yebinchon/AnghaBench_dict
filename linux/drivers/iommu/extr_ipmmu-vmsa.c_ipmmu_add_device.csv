@@ -1,0 +1,16 @@
+CONFIG_ARM,VAR_0
+CONFIG_IOMMU_DMA,VAR_1
+ENODEV,VAR_2
+IS_ENABLED,FUNC_0
+IS_ERR,FUNC_1
+PTR_ERR,FUNC_2
+iommu_device_link,FUNC_3
+iommu_group_get_for_dev,FUNC_4
+iommu_group_put,FUNC_5
+ipmmu_init_arm_mapping,FUNC_6
+to_ipmmu,FUNC_7
+ipmmu_add_device,FUNC_8
+dev,VAR_3
+mmu,VAR_4
+group,VAR_5
+ret,VAR_6

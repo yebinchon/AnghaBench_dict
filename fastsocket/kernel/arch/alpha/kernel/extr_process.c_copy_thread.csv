@@ -1,0 +1,17 @@
+CLONE_SETTLS,VAR_0
+PAGE_SIZE,VAR_1
+task_stack_page,FUNC_0
+task_thread_info,FUNC_1
+copy_thread,FUNC_2
+clone_flags,VAR_2
+usp,VAR_3
+unused,VAR_4
+p,VAR_5
+regs,VAR_6
+ret_from_fork,FUNC_3
+childti,VAR_7
+childregs,VAR_8
+childstack,VAR_9
+stack,VAR_10
+stack_offset,VAR_11
+settls,VAR_12

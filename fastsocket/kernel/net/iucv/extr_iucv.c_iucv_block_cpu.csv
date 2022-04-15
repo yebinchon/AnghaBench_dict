@@ -1,0 +1,11 @@
+IUCV_SETMASK,VAR_0
+cpu_clear,FUNC_0
+iucv_call_b2f0,FUNC_1
+iucv_irq_cpumask,VAR_1
+iucv_param_irq,VAR_2
+memset,FUNC_2
+smp_processor_id,FUNC_3
+iucv_block_cpu,FUNC_4
+data,VAR_3
+cpu,VAR_4
+parm,VAR_5

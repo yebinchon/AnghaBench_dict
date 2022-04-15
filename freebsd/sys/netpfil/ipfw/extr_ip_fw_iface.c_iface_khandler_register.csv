@@ -1,0 +1,14 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+ifnet_arrival_event,VAR_1
+ifnet_departure_event,VAR_2
+ipfw_ifattach_event,VAR_3
+ipfw_ifdetach_event,VAR_4
+ipfw_kifhandler,VAR_5
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+num_vnets,VAR_6
+printf,FUNC_3
+vnet_mtx,VAR_7
+iface_khandler_register,FUNC_4
+create,VAR_8

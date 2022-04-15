@@ -1,0 +1,8 @@
+CMOS_WRITE,FUNC_0
+TRAMPOLINE_PHYS_LOW,VAR_0
+phys_to_virt,FUNC_1
+rtc_lock,VAR_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+smpboot_restore_warm_reset_vector,FUNC_4
+flags,VAR_2

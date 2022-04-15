@@ -1,0 +1,17 @@
+ENXIO,VAR_0
+SNDRV_PCM_STREAM_CAPTURE,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+module_put,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_BUG_ON,FUNC_3
+snd_card_file_remove,FUNC_4
+snd_pcm_oss_release_file,FUNC_5
+snd_pcm_oss_sync,FUNC_6
+wake_up,FUNC_7
+snd_pcm_oss_release,FUNC_8
+inode,VAR_3
+file,VAR_4
+pcm,VAR_5
+substream,VAR_6
+pcm_oss_file,VAR_7

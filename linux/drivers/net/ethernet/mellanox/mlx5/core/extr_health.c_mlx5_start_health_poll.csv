@@ -1,0 +1,12 @@
+MLX5_DROP_NEW_HEALTH_WORK,VAR_0
+MLX5_HEALTH_POLL_INTERVAL,VAR_1
+MLX5_SENSOR_NO_ERR,VAR_2
+add_timer,FUNC_0
+clear_bit,FUNC_1
+jiffies,VAR_3
+poll_health,VAR_4
+round_jiffies,FUNC_2
+timer_setup,FUNC_3
+mlx5_start_health_poll,FUNC_4
+dev,VAR_5
+health,VAR_6

@@ -1,0 +1,17 @@
+RINGBUF_TYPE_PADDING,VAR_0
+cpumask_test_cpu,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+rb_advance_reader,FUNC_3
+rb_buffer_peek,FUNC_4
+rb_ok_to_lock,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+ring_buffer_peek,FUNC_8
+buffer,VAR_1
+cpu,VAR_2
+ts,VAR_3
+cpu_buffer,VAR_4
+event,VAR_5
+flags,VAR_6
+dolock,VAR_7

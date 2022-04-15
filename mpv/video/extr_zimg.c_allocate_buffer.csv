@@ -1,0 +1,15 @@
+MP_IS_POWER_OF_2,FUNC_0
+ZIMG_BUFFER_MAX,VAR_0
+assert,FUNC_1
+mp_image_alloc,FUNC_2
+talloc_steal,FUNC_3
+zimg_filter_graph_get_input_buffering,FUNC_4
+zimg_filter_graph_get_output_buffering,FUNC_5
+zimg_select_buffer_mask,FUNC_6
+allocate_buffer,FUNC_7
+ctx,VAR_1
+r,VAR_2
+lines,VAR_3
+err,VAR_4
+h,VAR_5
+n,VAR_6

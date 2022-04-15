@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+SNDRV_DMA_TYPE_CONTINUOUS,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+snd_amd7930_capture_ops,VAR_4
+snd_amd7930_playback_ops,VAR_5
+snd_dma_continuous_data,FUNC_0
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+strcpy,FUNC_4
+snd_amd7930_pcm,FUNC_5
+amd,VAR_6
+pcm,VAR_7
+err,VAR_8

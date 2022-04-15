@@ -1,0 +1,15 @@
+CMD_802_11_KEY_MATERIAL,VAR_0
+CMD_ACT_SET,VAR_1
+TLV_TYPE_KEY_MATERIAL,VAR_2
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+lbs_set_key_material,FUNC_4
+priv,VAR_3
+key_type,VAR_4
+key_info,VAR_5
+key,VAR_6
+key_len,VAR_7
+cmd,VAR_8
+ret,VAR_9

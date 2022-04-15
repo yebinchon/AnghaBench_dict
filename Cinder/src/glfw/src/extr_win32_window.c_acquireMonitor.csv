@@ -1,0 +1,14 @@
+HWND_TOPMOST,VAR_0
+SWP_NOACTIVATE,VAR_1
+SWP_NOCOPYBITS,VAR_2
+SetWindowPos,FUNC_0
+_glfwInputMonitorWindowChange,FUNC_1
+_glfwPlatformGetMonitorPos,FUNC_2
+_glfwPlatformGetVideoMode,FUNC_3
+_glfwSetVideoModeWin32,FUNC_4
+acquireMonitor,FUNC_5
+window,VAR_3
+mode,VAR_4
+status,VAR_5
+xpos,VAR_6
+ypos,VAR_7

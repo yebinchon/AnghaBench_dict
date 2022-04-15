@@ -1,0 +1,14 @@
+DCACHE_INOTIFY_PARENT_WATCHED,VAR_0
+dget,FUNC_0
+dput,FUNC_1
+inotify_inode_queue_event,FUNC_2
+inotify_inode_watched,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+inotify_dentry_parent_queue_event,FUNC_6
+dentry,VAR_1
+mask,VAR_2
+cookie,VAR_3
+name,VAR_4
+parent,VAR_5
+inode,VAR_6

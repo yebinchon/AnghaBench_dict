@@ -1,0 +1,12 @@
+CB_ADDSTRING,VAR_0
+GetLogicalDriveStringsW,FUNC_0
+SendMessageW,FUNC_1
+lstrlenW,FUNC_2
+msi_alloc,FUNC_3
+msi_free,FUNC_4
+msi_dialog_vsc_add_drives,FUNC_5
+dialog,VAR_1
+control,VAR_2
+drives,VAR_3
+ptr,VAR_4
+size,VAR_5

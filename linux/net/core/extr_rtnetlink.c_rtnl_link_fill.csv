@@ -1,0 +1,12 @@
+EMSGSIZE,VAR_0
+IFLA_LINKINFO,VAR_1
+nla_nest_cancel,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start_noflag,FUNC_2
+rtnl_link_info_fill,FUNC_3
+rtnl_link_slave_info_fill,FUNC_4
+rtnl_link_fill,FUNC_5
+skb,VAR_2
+dev,VAR_3
+linkinfo,VAR_4
+err,VAR_5

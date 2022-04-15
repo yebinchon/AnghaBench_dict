@@ -1,0 +1,14 @@
+CTX_LOCK,FUNC_0
+CTX_UNLOCK,FUNC_1
+IFDI_RESUME,FUNC_2
+IFLIB_RESTART_BUDGET,VAR_0
+NTXQSETS,FUNC_3
+bus_generic_resume,FUNC_4
+device_get_softc,FUNC_5
+iflib_if_init_locked,FUNC_6
+iflib_txq_check_drain,FUNC_7
+iflib_device_resume,FUNC_8
+dev,VAR_1
+ctx,VAR_2
+txq,VAR_3
+i,VAR_4

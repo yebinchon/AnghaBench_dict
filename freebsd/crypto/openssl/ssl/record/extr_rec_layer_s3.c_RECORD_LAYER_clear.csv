@@ -1,0 +1,11 @@
+DTLS_RECORD_LAYER_clear,FUNC_0
+RECORD_LAYER_reset_read_sequence,FUNC_1
+RECORD_LAYER_reset_write_sequence,FUNC_2
+SSL3_BUFFER_clear,FUNC_3
+SSL3_RECORD_clear,FUNC_4
+SSL_MAX_PIPELINES,VAR_0
+SSL_ST_READ_HEADER,VAR_1
+memset,FUNC_5
+ssl3_release_write_buffer,FUNC_6
+RECORD_LAYER_clear,FUNC_7
+rl,VAR_2

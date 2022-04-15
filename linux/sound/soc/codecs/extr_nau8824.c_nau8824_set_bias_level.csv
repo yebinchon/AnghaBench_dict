@@ -1,0 +1,12 @@
+NAU8824_IRQ_EJECT_EN,VAR_0
+NAU8824_IRQ_INSERT_EN,VAR_1
+NAU8824_REG_INTERRUPT_SETTING,VAR_2
+NAU8824_REG_INTERRUPT_SETTING_1,VAR_3
+nau8824_resume_setup,FUNC_0
+regmap_update_bits,FUNC_1
+snd_soc_component_get_bias_level,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+nau8824_set_bias_level,FUNC_4
+component,VAR_4
+level,VAR_5
+nau8824,VAR_6

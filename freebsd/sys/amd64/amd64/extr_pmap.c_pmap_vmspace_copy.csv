@@ -1,0 +1,13 @@
+CPUID_STDEXT2_PKU,VAR_0
+ENOMEM,VAR_1
+PMAP_LOCK,FUNC_0
+PMAP_UNLOCK,FUNC_1
+PT_X86,VAR_2
+cpu_stdext_feature2,VAR_3
+pmap_pkru_copy,FUNC_2
+pmap_pkru_deassign_all,FUNC_3
+vm_wait,FUNC_4
+pmap_vmspace_copy,FUNC_5
+dst_pmap,VAR_4
+src_pmap,VAR_5
+error,VAR_6

@@ -1,0 +1,7 @@
+PQI_HEARTBEAT_TIMER_INTERVAL,VAR_0
+add_timer,FUNC_0
+atomic_read,FUNC_1
+jiffies,VAR_1
+pqi_read_heartbeat_counter,FUNC_2
+pqi_start_heartbeat_timer,FUNC_3
+ctrl_info,VAR_2

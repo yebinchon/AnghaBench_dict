@@ -1,0 +1,12 @@
+SD_CTRL_SET_VIDEO_DEF_FPS,VAR_0
+STREAM_VIDEO,VAR_1
+assert,FUNC_0
+get_all_attachments,FUNC_1
+sub_control,FUNC_2
+sub_create,FUNC_3
+init_subdec,FUNC_4
+mpctx,VAR_2
+track,VAR_3
+vtrack,VAR_4
+v_c,VAR_5
+fps,VAR_6

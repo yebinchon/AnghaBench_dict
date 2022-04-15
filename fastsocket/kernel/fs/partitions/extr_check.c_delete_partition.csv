@@ -1,0 +1,13 @@
+blk_free_devt,FUNC_0
+call_rcu,FUNC_1
+delete_partition_rcu_cb,VAR_0
+device_del,FUNC_2
+kobject_put,FUNC_3
+part_devt,FUNC_4
+part_to_dev,FUNC_5
+rcu_assign_pointer,FUNC_6
+delete_partition,FUNC_7
+disk,VAR_1
+partno,VAR_2
+ptbl,VAR_3
+part,VAR_4

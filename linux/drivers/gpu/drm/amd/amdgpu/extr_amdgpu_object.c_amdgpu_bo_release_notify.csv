@@ -1,0 +1,17 @@
+AMDGPU_GEM_CREATE_VRAM_WIPE_ON_RELEASE,VAR_0
+AMDGPU_POISON,VAR_1
+TTM_PL_VRAM,VAR_2
+WARN_ON,FUNC_0
+amdgpu_amdkfd_unreserve_memory_limit,FUNC_1
+amdgpu_bo_fence,FUNC_2
+amdgpu_bo_is_amdgpu_bo,FUNC_3
+amdgpu_fill_buffer,FUNC_4
+dma_fence_put,FUNC_5
+dma_resv_lock,FUNC_6
+dma_resv_unlock,FUNC_7
+ttm_to_amdgpu_bo,FUNC_8
+amdgpu_bo_release_notify,FUNC_9
+bo,VAR_3
+fence,VAR_4
+abo,VAR_5
+r,VAR_6

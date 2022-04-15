@@ -1,0 +1,15 @@
+netdev_err,FUNC_0
+netdev_info,FUNC_1
+vmxnet3_adjust_rx_ring_size,FUNC_2
+vmxnet3_rq_create,FUNC_3
+vmxnet3_tq_create,FUNC_4
+vmxnet3_tq_destroy_all,FUNC_5
+vmxnet3_create_queues,FUNC_6
+adapter,VAR_0
+tx_ring_size,VAR_1
+rx_ring_size,VAR_2
+rx_ring2_size,VAR_3
+err,VAR_4
+i,VAR_5
+tq,VAR_6
+rq,VAR_7

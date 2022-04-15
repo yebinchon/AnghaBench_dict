@@ -1,0 +1,17 @@
+NODE_DATA,FUNC_0
+NR_VM_NODE_STAT_ITEMS,VAR_0
+NR_VM_NUMA_STAT_ITEMS,VAR_1
+NR_VM_ZONE_STAT_ITEMS,VAR_2
+node_page_state,FUNC_1
+sprintf,FUNC_2
+sum_zone_node_page_state,FUNC_3
+sum_zone_numa_state,FUNC_4
+vmstat_text,VAR_3
+node_read_vmstat,FUNC_5
+dev,VAR_4
+attr,VAR_5
+buf,VAR_6
+nid,VAR_7
+pgdat,VAR_8
+i,VAR_9
+n,VAR_10

@@ -1,0 +1,9 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+PCI_PRODUCT_SUN_HMENETWORK,VAR_2
+PCI_VENDOR_SUN,VAR_3
+device_set_desc,FUNC_0
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+hme_pci_probe,FUNC_3
+dev,VAR_4

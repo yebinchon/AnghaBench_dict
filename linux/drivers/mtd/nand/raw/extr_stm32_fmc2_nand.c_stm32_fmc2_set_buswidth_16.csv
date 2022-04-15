@@ -1,0 +1,10 @@
+FMC2_PCR,VAR_0
+FMC2_PCR_PWID,FUNC_0
+FMC2_PCR_PWID_BUSWIDTH_16,VAR_1
+FMC2_PCR_PWID_MASK,VAR_2
+readl_relaxed,FUNC_1
+writel_relaxed,FUNC_2
+stm32_fmc2_set_buswidth_16,FUNC_3
+fmc2,VAR_3
+set,VAR_4
+pcr,VAR_5

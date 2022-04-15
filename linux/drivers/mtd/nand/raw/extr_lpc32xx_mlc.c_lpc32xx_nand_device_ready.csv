@@ -1,0 +1,8 @@
+MLCISR_CONTROLLER_READY,VAR_0
+MLCISR_NAND_READY,VAR_1
+MLC_ISR,FUNC_0
+nand_get_controller_data,FUNC_1
+readb,FUNC_2
+lpc32xx_nand_device_ready,FUNC_3
+nand_chip,VAR_2
+host,VAR_3

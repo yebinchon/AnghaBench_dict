@@ -1,0 +1,10 @@
+FILTER_HANDLED,VAR_0
+NICVF_INTR_CQ,VAR_1
+nicvf_clear_intr,FUNC_0
+nicvf_disable_intr,FUNC_1
+taskqueue_enqueue,FUNC_2
+nicvf_intr_handler,FUNC_3
+arg,VAR_2
+nic,VAR_3
+cq,VAR_4
+qidx,VAR_5

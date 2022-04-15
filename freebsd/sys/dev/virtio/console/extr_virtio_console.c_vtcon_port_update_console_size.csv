@@ -1,0 +1,12 @@
+VTCON_LOCK,FUNC_0
+VTCON_PORT_LOCK,FUNC_1
+VTCON_PORT_UNLOCK,FUNC_2
+VTCON_UNLOCK,FUNC_3
+vtcon_get_console_size,FUNC_4
+vtcon_port_change_size,FUNC_5
+vtcon_port_update_console_size,FUNC_6
+sc,VAR_0
+port,VAR_1
+scport,VAR_2
+cols,VAR_3
+rows,VAR_4

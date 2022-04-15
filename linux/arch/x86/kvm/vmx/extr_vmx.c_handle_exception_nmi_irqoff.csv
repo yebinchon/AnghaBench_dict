@@ -1,0 +1,11 @@
+VM_EXIT_INTR_INFO,VAR_0
+is_machine_check,FUNC_0
+is_nmi,FUNC_1
+is_page_fault,FUNC_2
+kvm_after_interrupt,FUNC_3
+kvm_before_interrupt,FUNC_4
+kvm_machine_check,FUNC_5
+kvm_read_and_reset_pf_reason,FUNC_6
+vmcs_read32,FUNC_7
+handle_exception_nmi_irqoff,FUNC_8
+vmx,VAR_1

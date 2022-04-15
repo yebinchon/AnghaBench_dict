@@ -1,0 +1,17 @@
+AD7150_CFG,VAR_0
+AD7150_CFG_FIX,VAR_1
+AD7150_THRESHTYPE_MSK,VAR_2
+EINVAL,VAR_3
+FIELD_GET,FUNC_0
+IIO_EV_DIR_RISING,VAR_4
+i2c_smbus_read_byte_data,FUNC_1
+iio_priv,FUNC_2
+ad7150_read_event_config,FUNC_3
+indio_dev,VAR_5
+chan,VAR_6
+type,VAR_7
+dir,VAR_8
+ret,VAR_9
+threshtype,VAR_10
+thrfixed,VAR_11
+chip,VAR_12

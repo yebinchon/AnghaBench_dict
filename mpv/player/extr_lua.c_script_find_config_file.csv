@@ -1,0 +1,11 @@
+get_mpctx,FUNC_0
+luaL_checkstring,FUNC_1
+lua_pushnil,FUNC_2
+lua_pushstring,FUNC_3
+mp_find_config_file,FUNC_4
+talloc_free,FUNC_5
+script_find_config_file,FUNC_6
+L,VAR_0
+mpctx,VAR_1
+s,VAR_2
+path,VAR_3

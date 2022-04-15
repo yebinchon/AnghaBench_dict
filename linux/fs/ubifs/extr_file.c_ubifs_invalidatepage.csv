@@ -1,0 +1,15 @@
+ClearPageChecked,FUNC_0
+ClearPagePrivate,FUNC_1
+PAGE_SIZE,VAR_0
+PageChecked,FUNC_2
+PagePrivate,FUNC_3
+atomic_long_dec,FUNC_4
+release_existing_page_budget,FUNC_5
+release_new_page_budget,FUNC_6
+ubifs_assert,FUNC_7
+ubifs_invalidatepage,FUNC_8
+page,VAR_1
+offset,VAR_2
+length,VAR_3
+inode,VAR_4
+c,VAR_5

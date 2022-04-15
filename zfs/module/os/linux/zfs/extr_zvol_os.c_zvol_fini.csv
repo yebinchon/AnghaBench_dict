@@ -1,0 +1,12 @@
+MINORBITS,VAR_0
+MKDEV,FUNC_0
+ZVOL_DRIVER,VAR_1
+blk_unregister_region,FUNC_1
+ida_destroy,FUNC_2
+taskq_destroy,FUNC_3
+unregister_blkdev,FUNC_4
+zvol_fini_impl,FUNC_5
+zvol_ida,VAR_2
+zvol_major,VAR_3
+zvol_taskq,VAR_4
+zvol_fini,FUNC_6

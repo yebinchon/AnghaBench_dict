@@ -1,0 +1,14 @@
+EP93XX_GPIO_REG,FUNC_0
+IRQ_TYPE_EDGE_BOTH,VAR_0
+IRQ_TYPE_SENSE_MASK,VAR_1
+__raw_writeb,FUNC_1
+eoi_register_offset,VAR_2
+ep93xx_gpio_update_int_params,FUNC_2
+gpio_int_type2,VAR_3
+irq_desc,VAR_4
+irq_to_gpio,FUNC_3
+ep93xx_gpio_irq_ack,FUNC_4
+irq,VAR_5
+line,VAR_6
+port,VAR_7
+port_mask,VAR_8

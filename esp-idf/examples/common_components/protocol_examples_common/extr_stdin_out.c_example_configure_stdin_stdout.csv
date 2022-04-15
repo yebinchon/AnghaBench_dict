@@ -1,0 +1,14 @@
+CONFIG_ESP_CONSOLE_UART_NUM,VAR_0
+ESP_ERROR_CHECK,FUNC_0
+ESP_LINE_ENDINGS_CR,VAR_1
+ESP_LINE_ENDINGS_CRLF,VAR_2
+ESP_OK,VAR_3
+_IONBF,VAR_4
+esp_vfs_dev_uart_set_rx_line_endings,FUNC_1
+esp_vfs_dev_uart_set_tx_line_endings,FUNC_2
+esp_vfs_dev_uart_use_driver,FUNC_3
+setvbuf,FUNC_4
+stdin,VAR_5
+stdout,VAR_6
+uart_driver_install,FUNC_5
+example_configure_stdin_stdout,FUNC_6

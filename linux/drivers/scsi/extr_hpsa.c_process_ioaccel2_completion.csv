@@ -1,0 +1,14 @@
+DID_RESET,VAR_0
+IOACCEL2_SERV_RESPONSE_FAILURE,VAR_1
+IOACCEL2_STATUS_SR_IOACCEL_DISABLED,VAR_2
+handle_ioaccel_mode2_error,FUNC_0
+hpsa_cmd_free_and_done,FUNC_1
+hpsa_retry_cmd,FUNC_2
+is_logical_device,FUNC_3
+likely,FUNC_4
+process_ioaccel2_completion,FUNC_5
+h,VAR_3
+c,VAR_4
+cmd,VAR_5
+dev,VAR_6
+c2,VAR_7

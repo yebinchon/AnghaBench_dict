@@ -1,0 +1,13 @@
+CLSCTX_INPROC_SERVER,VAR_0
+CLSID_FilterMapper2,VAR_1
+CoCreateInstance,FUNC_0
+CoInitialize,FUNC_1
+CoUninitialize,FUNC_2
+IFilterMapper2_Release,FUNC_3
+IFilterMapper2_UnregisterFilter,FUNC_4
+IID_IFilterMapper2,VAR_2
+SUCCEEDED,FUNC_5
+unregister_filters,FUNC_6
+list,VAR_3
+hr,VAR_4
+pFM2,VAR_5

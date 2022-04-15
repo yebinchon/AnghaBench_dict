@@ -1,0 +1,13 @@
+ENODEV,VAR_0
+PCI_ERR_CAP,VAR_1
+PCI_ERR_CAP_ECRC_CHKE,VAR_2
+PCI_ERR_CAP_ECRC_GENE,VAR_3
+PCI_EXT_CAP_ID_ERR,VAR_4
+pci_find_ext_capability,FUNC_0
+pci_is_pcie,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+disable_ecrc_checking,FUNC_4
+dev,VAR_5
+pos,VAR_6
+reg32,VAR_7

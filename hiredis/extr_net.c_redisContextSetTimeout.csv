@@ -1,0 +1,13 @@
+REDIS_ERR,VAR_0
+REDIS_ERR_IO,VAR_1
+REDIS_OK,VAR_2
+SOL_SOCKET,VAR_3
+SO_RCVTIMEO,VAR_4
+SO_SNDTIMEO,VAR_5
+__redisSetErrorFromErrno,FUNC_0
+setsockopt,FUNC_1
+redisContextSetTimeout,FUNC_2
+c,VAR_6
+tv,VAR_7
+to_ptr,VAR_8
+to_sz,VAR_9

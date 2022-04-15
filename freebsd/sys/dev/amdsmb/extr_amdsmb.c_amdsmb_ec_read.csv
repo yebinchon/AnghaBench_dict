@@ -1,0 +1,12 @@
+AMDSMB_ECINB,FUNC_0
+AMDSMB_ECOUTB,FUNC_1
+AMDSMB_LOCK_ASSERT,FUNC_2
+EC_CMD,VAR_0
+EC_CMD_RD,VAR_1
+EC_DATA,VAR_2
+amdsmb_ec_wait_read,FUNC_3
+amdsmb_ec_wait_write,FUNC_4
+amdsmb_ec_read,FUNC_5
+sc,VAR_3
+addr,VAR_4
+data,VAR_5

@@ -1,0 +1,11 @@
+omap3isp_resizer_max_rate,FUNC_0
+to_isp_pipeline,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+v4l2_subdev_link_validate_default,FUNC_3
+resizer_link_validate,FUNC_4
+sd,VAR_0
+link,VAR_1
+source_fmt,VAR_2
+sink_fmt,VAR_3
+res,VAR_4
+pipe,VAR_5

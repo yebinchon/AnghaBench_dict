@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+ENOMEM,VAR_0
+INIT_LIST_HEAD,FUNC_1
+QUEUE_FLAG_QUEUED,VAR_1
+__blk_queue_init_tags,FUNC_2
+atomic_inc,FUNC_3
+blk_queue_resize_tags,FUNC_4
+kfree,FUNC_5
+queue_flag_set,FUNC_6
+queue_flag_set_unlocked,FUNC_7
+blk_queue_init_tags,FUNC_8
+q,VAR_2
+depth,VAR_3
+tags,VAR_4
+rc,VAR_5

@@ -1,0 +1,17 @@
+ENOENT,VAR_0
+ENOTSUPP,VAR_1
+PCI_EXT_CAP_ID_REBAR,VAR_2
+PCI_REBAR_CTRL,VAR_3
+PCI_REBAR_CTRL_BAR_IDX,VAR_4
+PCI_REBAR_CTRL_NBAR_MASK,VAR_5
+PCI_REBAR_CTRL_NBAR_SHIFT,VAR_6
+pci_find_ext_capability,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_rebar_find_pos,FUNC_2
+pdev,VAR_7
+bar,VAR_8
+pos,VAR_9
+nbars,VAR_10
+i,VAR_11
+ctrl,VAR_12
+bar_idx,VAR_13

@@ -1,0 +1,17 @@
+CPU_SET_ATOMIC,FUNC_0
+PCPU_GET,FUNC_1
+atomic_cmpset_acq_int,FUNC_2
+atomic_store_rel_int,FUNC_3
+cpuid,VAR_0
+cpustop_handler_post,FUNC_4
+ia32_pause,FUNC_5
+nmi_call_kdb,FUNC_6
+nmi_kdb_lock,VAR_1
+savectx,FUNC_7
+stoppcbs,VAR_2
+stopped_cpus,VAR_3
+nmi_call_kdb_smp,FUNC_8
+type,VAR_4
+frame,VAR_5
+cpu,VAR_6
+call_post,VAR_7

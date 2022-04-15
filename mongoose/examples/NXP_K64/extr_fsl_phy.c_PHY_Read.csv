@@ -1,0 +1,16 @@
+ENET_ClearInterruptStatus,FUNC_0
+ENET_EIR_MII_MASK,VAR_0
+ENET_GetInterruptStatus,FUNC_1
+ENET_ReadSMIData,FUNC_2
+ENET_StartSMIRead,FUNC_3
+PHY_TIMEOUT_COUNT,VAR_1
+assert,FUNC_4
+kENET_MiiReadValidFrame,VAR_2
+kStatus_PHY_SMIVisitTimeout,VAR_3
+kStatus_Success,VAR_4
+PHY_Read,FUNC_5
+base,VAR_5
+phyAddr,VAR_6
+phyReg,VAR_7
+dataPtr,VAR_8
+counter,VAR_9

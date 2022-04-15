@@ -1,0 +1,17 @@
+ACPI_ROOT_OBJECT,VAR_0
+ACPI_SUCCESS,FUNC_0
+ACPI_TYPE_INTEGER,VAR_1
+AE_BUFFER_OVERFLOW,VAR_2
+AE_NO_MEMORY,VAR_3
+AE_TYPE,VAR_4
+AcpiEvaluateObject,FUNC_1
+AcpiOsAllocate,FUNC_2
+AcpiOsFree,FUNC_3
+acpi_ConvertBufferToInteger,FUNC_4
+acpi_GetInteger,FUNC_5
+handle,VAR_5
+path,VAR_6
+number,VAR_7
+status,VAR_8
+buf,VAR_9
+param,VAR_10

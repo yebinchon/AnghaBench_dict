@@ -1,0 +1,11 @@
+FPM_PORT_FM_CTL_PORTID_SHIFT,VAR_0
+FPM_PRC_ORA_FM_CTL_SEL_SHIFT,VAR_1
+FPM_PRT_FM_CTL1,VAR_2
+FPM_PRT_FM_CTL2,VAR_3
+iowrite32be,FUNC_0
+fman_set_order_restoration_per_port,FUNC_1
+fpm_rg,VAR_4
+port_id,VAR_5
+independent_mode,VAR_6
+is_rx_port,VAR_7
+tmp,VAR_8

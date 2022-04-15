@@ -1,0 +1,11 @@
+CX18_REG_GPIO_DIR1,VAR_0
+CX18_REG_GPIO_DIR2,VAR_1
+CX18_REG_GPIO_OUT1,VAR_2
+CX18_REG_GPIO_OUT2,VAR_3
+cx18_write_reg_expect,FUNC_0
+gpio_write,FUNC_1
+cx,VAR_4
+dir_lo,VAR_5
+val_lo,VAR_6
+dir_hi,VAR_7
+val_hi,VAR_8

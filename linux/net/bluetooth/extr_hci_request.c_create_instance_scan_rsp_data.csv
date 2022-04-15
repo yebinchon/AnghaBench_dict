@@ -1,0 +1,13 @@
+MGMT_ADV_FLAG_APPEARANCE,VAR_0
+MGMT_ADV_FLAG_LOCAL_NAME,VAR_1
+append_appearance,FUNC_0
+append_local_name,FUNC_1
+hci_find_adv_instance,FUNC_2
+memcpy,FUNC_3
+create_instance_scan_rsp_data,FUNC_4
+hdev,VAR_2
+instance,VAR_3
+ptr,VAR_4
+adv_instance,VAR_5
+instance_flags,VAR_6
+scan_rsp_len,VAR_7

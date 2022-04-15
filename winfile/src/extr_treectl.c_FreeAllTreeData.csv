@@ -1,0 +1,12 @@
+GWL_XTREEMAX,VAR_0
+GetParent,FUNC_0
+LB_GETCOUNT,VAR_1
+LB_GETTEXT,VAR_2
+LB_RESETCONTENT,VAR_3
+LocalFree,FUNC_1
+SendMessage,FUNC_2
+SetWindowLongPtr,FUNC_3
+FreeAllTreeData,FUNC_4
+hwndLB,VAR_4
+nIndex,VAR_5
+pNode,VAR_6

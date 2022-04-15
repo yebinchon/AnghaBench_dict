@@ -1,0 +1,11 @@
+dra7xx_pcie_enable_interrupts,FUNC_0
+dra7xx_pcie_establish_link,FUNC_1
+dw_pcie_msi_init,FUNC_2
+dw_pcie_setup_rc,FUNC_3
+dw_pcie_wait_for_link,FUNC_4
+to_dra7xx_pcie,FUNC_5
+to_dw_pcie_from_pp,FUNC_6
+dra7xx_pcie_host_init,FUNC_7
+pp,VAR_0
+pci,VAR_1
+dra7xx,VAR_2

@@ -1,0 +1,14 @@
+KM_SLEEP,VAR_0
+XFS_BTNUM_INO,VAR_1
+XFS_BUF_TO_AGI,FUNC_0
+be32_to_cpu,FUNC_1
+kmem_zone_zalloc,FUNC_2
+xfs_btree_cur_zone,VAR_2
+xfs_inobt_ops,VAR_3
+xfs_inobt_init_cursor,FUNC_3
+mp,VAR_4
+tp,VAR_5
+agbp,VAR_6
+agno,VAR_7
+agi,VAR_8
+cur,VAR_9

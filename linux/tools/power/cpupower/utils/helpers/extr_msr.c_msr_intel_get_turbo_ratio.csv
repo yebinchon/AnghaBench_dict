@@ -1,0 +1,8 @@
+CPUPOWER_CAP_HAS_TURBO_RATIO,VAR_0
+MSR_NEHALEM_TURBO_RATIO_LIMIT,VAR_1
+cpupower_cpu_info,VAR_2
+read_msr,FUNC_0
+msr_intel_get_turbo_ratio,FUNC_1
+cpu,VAR_3
+val,VAR_4
+ret,VAR_5

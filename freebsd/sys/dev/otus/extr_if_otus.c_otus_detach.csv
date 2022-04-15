@@ -1,0 +1,16 @@
+OTUS_N_XFER,VAR_0
+device_get_softc,FUNC_0
+ieee80211_ifdetach,FUNC_1
+mtx_destroy,FUNC_2
+otus_close_pipes,FUNC_3
+otus_stop,FUNC_4
+taskqueue_drain,FUNC_5
+taskqueue_drain_timeout,FUNC_6
+taskqueue_thread,VAR_1
+usb_rem_wait_task,FUNC_7
+usbd_ref_wait,FUNC_8
+usbd_transfer_unsetup,FUNC_9
+otus_detach,FUNC_10
+self,VAR_2
+sc,VAR_3
+ic,VAR_4

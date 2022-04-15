@@ -1,0 +1,14 @@
+SOCFPGA_PLL_MDIV_MASK,VAR_0
+SOCFPGA_PLL_MDIV_SHIFT,VAR_1
+SOCFPGA_PLL_REFDIV_MASK,VAR_2
+SOCFPGA_PLL_REFDIV_SHIFT,VAR_3
+readl,FUNC_0
+to_socfpga_clk,FUNC_1
+clk_pll_recalc_rate,FUNC_2
+hwclk,VAR_4
+parent_rate,VAR_5
+socfpgaclk,VAR_6
+mdiv,VAR_7
+refdiv,VAR_8
+reg,VAR_9
+vco_freq,VAR_10

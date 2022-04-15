@@ -1,0 +1,13 @@
+ACPI_THERMAL_NOTIFY_CRITICAL,VAR_0
+ACPI_THERMAL_NOTIFY_HOT,VAR_1
+THERMAL_TRIP_CRITICAL,VAR_2
+THERMAL_TRIP_HOT,VAR_3
+acpi_bus_generate_netlink_event,FUNC_0
+dev_name,FUNC_1
+nocrt,VAR_4
+thermal_notify,FUNC_2
+thermal,VAR_5
+trip,VAR_6
+trip_type,VAR_7
+type,VAR_8
+tz,VAR_9

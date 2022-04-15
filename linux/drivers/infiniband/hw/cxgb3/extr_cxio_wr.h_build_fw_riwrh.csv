@@ -1,0 +1,17 @@
+V_FW_RIWR_FLAGS,FUNC_0
+V_FW_RIWR_GEN,FUNC_1
+V_FW_RIWR_LEN,FUNC_2
+V_FW_RIWR_OP,FUNC_3
+V_FW_RIWR_SOPEOP,FUNC_4
+V_FW_RIWR_TID,FUNC_5
+cpu_to_be32,FUNC_6
+cpu_to_be64,FUNC_7
+wmb,FUNC_8
+build_fw_riwrh,FUNC_9
+wqe,VAR_0
+op,VAR_1
+flags,VAR_2
+genbit,VAR_3
+tid,VAR_4
+len,VAR_5
+sopeop,VAR_6

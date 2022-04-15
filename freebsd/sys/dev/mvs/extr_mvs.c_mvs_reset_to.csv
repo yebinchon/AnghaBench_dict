@@ -1,0 +1,15 @@
+ATA_S_BUSY,VAR_0
+ATA_S_DRQ,VAR_1
+TRUE,VAR_2
+bootverbose,VAR_3
+callout_schedule,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+hz,VAR_4
+mvs_wait,FUNC_3
+xpt_release_simq,FUNC_4
+mvs_reset_to,FUNC_5
+arg,VAR_5
+dev,VAR_6
+ch,VAR_7
+t,VAR_8

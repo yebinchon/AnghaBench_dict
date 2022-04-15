@@ -1,0 +1,16 @@
+SCA3000_REG_BUF_COUNT_ADDR,VAR_0
+SCA3000_REG_INT_STATUS_HALF,VAR_1
+SCA3000_REG_RING_OUT_ADDR,VAR_2
+iio_priv,FUNC_0
+iio_push_to_buffers,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sca3000_read_data,FUNC_4
+sca3000_read_data_short,FUNC_5
+sca3000_ring_int_process,FUNC_6
+val,VAR_3
+indio_dev,VAR_4
+st,VAR_5
+ret,VAR_6
+i,VAR_7
+num_available,VAR_8

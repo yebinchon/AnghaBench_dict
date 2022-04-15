@@ -1,0 +1,16 @@
+DP_ERR,FUNC_0
+QEDE_FLAGS_PTP_TX_IN_PRORGESS,VAR_0
+QEDE_FLAGS_TX_TIMESTAMPING_EN,VAR_1
+SKBTX_IN_PROGRESS,VAR_2
+clear_bit_unlock,FUNC_1
+jiffies,VAR_3
+schedule_work,FUNC_2
+skb_get,FUNC_3
+skb_shinfo,FUNC_4
+test_and_set_bit_lock,FUNC_5
+test_bit,FUNC_6
+unlikely,FUNC_7
+qede_ptp_tx_ts,FUNC_8
+edev,VAR_4
+skb,VAR_5
+ptp,VAR_6

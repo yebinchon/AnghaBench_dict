@@ -1,0 +1,15 @@
+FLV_HEADER_FLAG_HASAUDIO,VAR_0
+FLV_HEADER_FLAG_HASVIDEO,VAR_1
+FLV_NO_METADATA,VAR_2
+avio_tell,FUNC_0
+avio_w8,FUNC_1
+avio_wb24,FUNC_2
+avio_wb32,FUNC_3
+avio_write,FUNC_4
+flv_write_codec_header,FUNC_5
+write_metadata,FUNC_6
+flv_write_header,FUNC_7
+s,VAR_3
+i,VAR_4
+pb,VAR_5
+flv,VAR_6

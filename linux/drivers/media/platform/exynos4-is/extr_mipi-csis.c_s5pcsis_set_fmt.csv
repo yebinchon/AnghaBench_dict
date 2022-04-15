@@ -1,0 +1,14 @@
+CSIS_PAD_SOURCE,VAR_0
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_1
+__s5pcsis_get_format,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+s5pcsis_try_format,FUNC_3
+sd_to_csis_state,FUNC_4
+s5pcsis_set_fmt,FUNC_5
+sd,VAR_2
+cfg,VAR_3
+fmt,VAR_4
+state,VAR_5
+csis_fmt,VAR_6
+mf,VAR_7

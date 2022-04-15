@@ -1,0 +1,17 @@
+BPF_EXIST,VAR_0
+assert,FUNC_0
+bpf_map_get_next_key,FUNC_1
+bpf_map_lookup_elem,FUNC_2
+bpf_map_update_elem,FUNC_3
+close,FUNC_4
+helper_fill_hashmap,FUNC_5
+test_hashmap_walk,FUNC_6
+task,VAR_1
+data,VAR_2
+fd,VAR_3
+i,VAR_4
+max_entries,VAR_5
+key,VAR_6
+value,VAR_7
+next_key,VAR_8
+next_key_valid,VAR_9

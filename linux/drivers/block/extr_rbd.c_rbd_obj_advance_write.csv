@@ -1,0 +1,17 @@
+BUG,FUNC_0
+ENOENT,VAR_0
+RBD_OBJ_COPYUP_START,VAR_1
+RBD_OBJ_FLAG_COPYUP_ENABLED,VAR_2
+RBD_OBJ_FLAG_DELETION,VAR_3
+rbd_assert,FUNC_1
+rbd_obj_advance_copyup,FUNC_2
+rbd_obj_write_is_noop,FUNC_3
+rbd_obj_write_object,FUNC_4
+rbd_obj_write_post_object_map,FUNC_5
+rbd_obj_write_pre_object_map,FUNC_6
+rbd_warn,FUNC_7
+rbd_obj_advance_write,FUNC_8
+obj_req,VAR_4
+result,VAR_5
+rbd_dev,VAR_6
+ret,VAR_7

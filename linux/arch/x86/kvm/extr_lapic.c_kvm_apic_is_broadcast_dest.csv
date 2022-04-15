@@ -1,0 +1,10 @@
+APIC_BROADCAST,VAR_0
+KVM_APIC_MODE_X2APIC,VAR_1
+X2APIC_BROADCAST,VAR_2
+apic_x2apic_mode,FUNC_0
+kvm_apic_is_broadcast_dest,FUNC_1
+kvm,VAR_3
+src,VAR_4
+irq,VAR_5
+map,VAR_6
+x2apic_ipi,VAR_7

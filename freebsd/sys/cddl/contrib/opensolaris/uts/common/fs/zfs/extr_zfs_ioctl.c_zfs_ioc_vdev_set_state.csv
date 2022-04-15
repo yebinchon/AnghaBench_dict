@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+FTAG,VAR_1
+SET_ERROR,FUNC_0
+VDEV_AUX_ERR_EXCEEDED,VAR_2
+VDEV_AUX_EXTERNAL,VAR_3
+VDEV_STATE_UNKNOWN,VAR_4
+spa_close,FUNC_1
+spa_open,FUNC_2
+vdev_degrade,FUNC_3
+vdev_fault,FUNC_4
+vdev_offline,FUNC_5
+vdev_online,FUNC_6
+zfs_ioc_vdev_set_state,FUNC_7
+zc,VAR_5
+spa,VAR_6
+error,VAR_7
+newstate,VAR_8

@@ -1,0 +1,9 @@
+UR_GET_STATUS,VAR_0
+USETW,FUNC_0
+UT_READ_DEVICE,VAR_1
+usbd_do_request,FUNC_1
+usbd_req_get_device_status,FUNC_2
+udev,VAR_2
+mtx,VAR_3
+st,VAR_4
+req,VAR_5

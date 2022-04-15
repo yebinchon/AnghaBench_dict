@@ -1,0 +1,14 @@
+EXIT_FAILURE,VAR_0
+H2O_SOCKET_FLAG_DONT_READ,VAR_1
+PF_INET,VAR_2
+SOCK_DGRAM,VAR_3
+bind,FUNC_0
+exit,FUNC_1
+h2o_evloop_socket_create,FUNC_2
+memset,FUNC_3
+perror,FUNC_4
+socket,FUNC_5
+create_quic_socket,FUNC_6
+loop,VAR_4
+fd,VAR_5
+sin,VAR_6

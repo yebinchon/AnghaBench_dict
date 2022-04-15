@@ -1,0 +1,16 @@
+BULK_BUF_SIZE,VAR_0
+EZUSB_CTX_START,VAR_1
+GFP_ATOMIC,VAR_2
+ezusb_request_timerfn,VAR_3
+init_completion,FUNC_0
+kfree,FUNC_1
+kmalloc,FUNC_2
+kzalloc,FUNC_3
+refcount_set,FUNC_4
+timer_setup,FUNC_5
+usb_alloc_urb,FUNC_6
+ezusb_alloc_ctx,FUNC_7
+upriv,VAR_4
+out_rid,VAR_5
+in_rid,VAR_6
+ctx,VAR_7

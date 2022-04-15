@@ -1,0 +1,17 @@
+SYS_9XX_CPU_NONCOHERENT_MODE,VAR_0
+SYS_9XX_CPU_RESET,VAR_1
+SYS_CORE_DFS_DIS_CTRL,VAR_2
+SYS_CPU_NONCOHERENT_MODE,VAR_3
+SYS_CPU_RESET,VAR_4
+cpu_is_xlp9xx,FUNC_0
+cpu_is_xlpii,FUNC_1
+nlm_read_sys_reg,FUNC_2
+nlm_write_sys_reg,FUNC_3
+xlp_wakeup_core,FUNC_4
+sysbase,VAR_5
+node,VAR_6
+core,VAR_7
+coremask,VAR_8
+value,VAR_9
+count,VAR_10
+resetreg,VAR_11

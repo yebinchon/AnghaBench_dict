@@ -1,0 +1,13 @@
+ACPI_DEVICE_NOTIFY,VAR_0
+ENOENT,VAR_1
+acpi_remove_notify_handler,FUNC_0
+acpi_video_device_notify,VAR_2
+acpi_video_device_remove_fs,FUNC_1
+backlight_device_unregister,FUNC_2
+sysfs_remove_link,FUNC_3
+thermal_cooling_device_unregister,FUNC_4
+video_output_unregister,FUNC_5
+acpi_video_bus_put_one_device,FUNC_6
+device,VAR_3
+status,VAR_4
+video,VAR_5

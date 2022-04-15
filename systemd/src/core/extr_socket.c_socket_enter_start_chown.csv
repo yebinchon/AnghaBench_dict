@@ -1,0 +1,16 @@
+SOCKET_EXEC_START_CHOWN,VAR_0
+SOCKET_FAILURE_RESOURCES,VAR_1
+SOCKET_START_CHOWN,VAR_2
+UNIT,FUNC_0
+assert,FUNC_1
+isempty,FUNC_2
+log_unit_warning_errno,FUNC_3
+socket_chown,FUNC_4
+socket_enter_start_post,FUNC_5
+socket_enter_stop_pre,FUNC_6
+socket_open_fds,FUNC_7
+socket_set_state,FUNC_8
+socket_unwatch_control_pid,FUNC_9
+socket_enter_start_chown,FUNC_10
+s,VAR_3
+r,VAR_4

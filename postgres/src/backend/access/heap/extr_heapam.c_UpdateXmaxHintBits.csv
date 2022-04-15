@@ -1,0 +1,14 @@
+Assert,FUNC_0
+HEAP_XMAX_COMMITTED,VAR_0
+HEAP_XMAX_INVALID,VAR_1
+HEAP_XMAX_IS_LOCKED_ONLY,FUNC_1
+HEAP_XMAX_IS_MULTI,VAR_2
+HeapTupleHeaderGetRawXmax,FUNC_2
+HeapTupleSetHintBits,FUNC_3
+InvalidTransactionId,VAR_3
+TransactionIdDidCommit,FUNC_4
+TransactionIdEquals,FUNC_5
+UpdateXmaxHintBits,FUNC_6
+tuple,VAR_4
+buffer,VAR_5
+xid,VAR_6

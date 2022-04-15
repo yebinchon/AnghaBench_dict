@@ -1,0 +1,12 @@
+Assert,FUNC_0
+HASH_ENTER,VAR_0
+RelationGetPartitionDesc,FUNC_1
+RelationGetRelid,FUNC_2
+RelationIncrementReferenceCount,FUNC_3
+hash_search,FUNC_4
+PartitionDirectoryLookup,FUNC_5
+pdir,VAR_1
+rel,VAR_2
+pde,VAR_3
+relid,VAR_4
+found,VAR_5

@@ -1,0 +1,15 @@
+DMM32AT_AI_READBACK_REG,VAR_0
+DMM32AT_AI_START_CONV_REG,VAR_1
+DMM32AT_AI_STATUS_REG,VAR_2
+comedi_timeout,FUNC_0
+dmm32at_ai_get_sample,FUNC_1
+dmm32at_ai_set_chanspec,FUNC_2
+dmm32at_ai_status,VAR_3
+outb,FUNC_3
+dmm32at_ai_insn_read,FUNC_4
+dev,VAR_4
+s,VAR_5
+insn,VAR_6
+data,VAR_7
+ret,VAR_8
+i,VAR_9

@@ -1,0 +1,15 @@
+VENDOR_CHIPIO_PARAM_EX_ID_SET,VAR_0
+VENDOR_CHIPIO_PARAM_EX_VALUE_SET,VAR_1
+VENDOR_CHIPIO_PARAM_SET,VAR_2
+VENDOR_CHIPIO_STATUS,VAR_3
+WIDGET_CHIP_CTRL,VAR_4
+chipio_send,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_hda_codec_write,FUNC_3
+chipio_set_control_param,FUNC_4
+codec,VAR_5
+param_id,VAR_6
+param_val,VAR_7
+spec,VAR_8
+val,VAR_9

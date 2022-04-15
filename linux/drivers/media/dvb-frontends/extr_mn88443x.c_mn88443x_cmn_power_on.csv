@@ -1,0 +1,14 @@
+HIZSET1,VAR_0
+HIZSET2,VAR_1
+HIZSET3,VAR_2
+OUTCSET,VAR_3
+OUTCSET_CHDRV_8MA,VAR_4
+PLDWSET,VAR_5
+PLDWSET_NORMAL,VAR_6
+clk_prepare_enable,FUNC_0
+gpiod_set_value_cansleep,FUNC_1
+regmap_write,FUNC_2
+usleep_range,FUNC_3
+mn88443x_cmn_power_on,FUNC_4
+chip,VAR_7
+r_t,VAR_8

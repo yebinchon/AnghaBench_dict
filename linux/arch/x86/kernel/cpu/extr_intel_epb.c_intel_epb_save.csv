@@ -1,0 +1,8 @@
+EPB_MASK,VAR_0
+EPB_SAVED,VAR_1
+MSR_IA32_ENERGY_PERF_BIAS,VAR_2
+rdmsrl,FUNC_0
+saved_epb,VAR_3
+this_cpu_write,FUNC_1
+intel_epb_save,FUNC_2
+epb,VAR_4

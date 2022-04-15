@@ -1,0 +1,16 @@
+MLXSW_PORT_SWID_ALL_SWIDS,VAR_0
+MLXSW_REG,FUNC_0
+MLXSW_REG_HTGT_DEFAULT_PRIORITY,VAR_1
+MLXSW_REG_HTGT_DEFAULT_TC,VAR_2
+MLXSW_REG_HTGT_INVALID_POLICER,VAR_3
+MLXSW_REG_HTGT_LEN,VAR_4
+MLXSW_REG_HTGT_LOCAL_PATH_RDQ_SX2_EMAD,VAR_5
+MLXSW_REG_HTGT_TRAP_GROUP_EMAD,VAR_6
+htgt,VAR_7
+mlxsw_reg_htgt_local_path_rdq_set,FUNC_1
+mlxsw_reg_htgt_pack,FUNC_2
+mlxsw_reg_htgt_swid_set,FUNC_3
+mlxsw_reg_write,FUNC_4
+mlxsw_sx_basic_trap_groups_set,FUNC_5
+mlxsw_core,VAR_8
+htgt_pl,VAR_9

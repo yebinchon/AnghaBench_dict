@@ -1,0 +1,15 @@
+iio_buffer_activate,FUNC_0
+iio_buffer_deactivate,FUNC_1
+iio_buffer_deactivate_all,FUNC_2
+iio_buffer_request_update,FUNC_3
+iio_disable_buffers,FUNC_4
+iio_enable_buffers,FUNC_5
+iio_free_scan_mask,FUNC_6
+iio_verify_update,FUNC_7
+list_empty,FUNC_8
+__iio_update_buffers,FUNC_9
+indio_dev,VAR_0
+insert_buffer,VAR_1
+remove_buffer,VAR_2
+new_config,VAR_3
+ret,VAR_4

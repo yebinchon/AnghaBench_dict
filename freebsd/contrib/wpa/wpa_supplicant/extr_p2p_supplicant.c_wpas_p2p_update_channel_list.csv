@@ -1,0 +1,17 @@
+MSG_ERROR,VAR_0
+get_shared_radio_freqs_data,FUNC_0
+os_calloc,FUNC_1
+os_free,FUNC_2
+os_memset,FUNC_3
+p2p_update_channel_list,FUNC_4
+wpa_printf,FUNC_5
+wpas_p2p_consider_moving_gos,FUNC_6
+wpas_p2p_optimize_listen_channel,FUNC_7
+wpas_p2p_setup_channels,FUNC_8
+wpas_p2p_update_channel_list,FUNC_9
+wpa_s,VAR_1
+trig,VAR_2
+chan,VAR_3
+cli_chan,VAR_4
+freqs,VAR_5
+num,VAR_6

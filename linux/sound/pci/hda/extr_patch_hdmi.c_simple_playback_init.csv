@@ -1,0 +1,14 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+AC_VERB_SET_PIN_WIDGET_CONTROL,VAR_1
+AC_WCAP_OUT_AMP,VAR_2
+AMP_OUT_UNMUTE,VAR_3
+PIN_OUT,VAR_4
+get_pin,FUNC_0
+get_wcaps,FUNC_1
+snd_hda_codec_write,FUNC_2
+snd_hda_jack_detect_enable,FUNC_3
+simple_playback_init,FUNC_4
+codec,VAR_5
+spec,VAR_6
+per_pin,VAR_7
+pin,VAR_8

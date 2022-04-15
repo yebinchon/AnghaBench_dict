@@ -1,0 +1,13 @@
+MAC_PERFORM,FUNC_0
+MNT_MULTILABEL,VAR_0
+MNT_ROOTFS,VAR_1
+VFC_VFSNATIVEXATTR,VAR_2
+VFC_VFSNOMACLABEL,VAR_3
+mount_label_associate,VAR_4
+printf,FUNC_1
+strcmp,FUNC_2
+vfs_context_ucred,FUNC_3
+mac_mount_label_associate,FUNC_4
+ctx,VAR_5
+mp,VAR_6
+cred,VAR_7

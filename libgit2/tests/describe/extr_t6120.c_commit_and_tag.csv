@@ -1,0 +1,16 @@
+cl_git_append2file,FUNC_0
+cl_git_pass,FUNC_1
+cl_repo_commit_from_index,FUNC_2
+git_index_add_bypath,FUNC_3
+git_index_write,FUNC_4
+git_reference_create,FUNC_5
+git_reference_free,FUNC_6
+git_repository_index__weakptr,FUNC_7
+repo,VAR_0
+commit_and_tag,FUNC_8
+time,VAR_1
+commit_msg,VAR_2
+tag_name,VAR_3
+index,VAR_4
+commit_id,VAR_5
+ref,VAR_6

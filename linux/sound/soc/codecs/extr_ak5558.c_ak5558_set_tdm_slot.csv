@@ -1,0 +1,17 @@
+AK5558_03_CONTROL2,VAR_0
+AK5558_MODE_BITS,VAR_1
+AK5558_MODE_NORMAL,VAR_2
+AK5558_MODE_TDM128,VAR_3
+AK5558_MODE_TDM256,VAR_4
+AK5558_MODE_TDM512,VAR_5
+snd_soc_component_get_drvdata,FUNC_0
+snd_soc_component_update_bits,FUNC_1
+ak5558_set_tdm_slot,FUNC_2
+dai,VAR_6
+tx_mask,VAR_7
+rx_mask,VAR_8
+slots,VAR_9
+slot_width,VAR_10
+component,VAR_11
+ak5558,VAR_12
+tdm_mode,VAR_13

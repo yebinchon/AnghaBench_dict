@@ -1,0 +1,15 @@
+REG_RXSTA_CLEARALL,VAR_0
+SUNXI_IR_CTL_REG,VAR_1
+SUNXI_IR_RXINT_REG,VAR_2
+SUNXI_IR_RXSTA_REG,VAR_3
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+rc_unregister_device,FUNC_2
+reset_control_assert,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+writel,FUNC_6
+sunxi_ir_remove,FUNC_7
+pdev,VAR_4
+flags,VAR_5
+ir,VAR_6

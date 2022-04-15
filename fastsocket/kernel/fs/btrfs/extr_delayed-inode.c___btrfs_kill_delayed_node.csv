@@ -1,0 +1,14 @@
+__btrfs_first_delayed_deletion_item,FUNC_0
+__btrfs_first_delayed_insertion_item,FUNC_1
+__btrfs_next_delayed_item,FUNC_2
+btrfs_delayed_inode_release_metadata,FUNC_3
+btrfs_delayed_item_release_metadata,FUNC_4
+btrfs_release_delayed_inode,FUNC_5
+btrfs_release_delayed_item,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+__btrfs_kill_delayed_node,FUNC_9
+delayed_node,VAR_0
+root,VAR_1
+curr_item,VAR_2
+prev_item,VAR_3

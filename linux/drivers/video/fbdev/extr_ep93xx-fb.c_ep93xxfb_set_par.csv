@@ -1,0 +1,12 @@
+EP93XXFB_LINE_LENGTH,VAR_0
+EP93XXFB_SCREEN_LINES,VAR_1
+EP93XXFB_SCREEN_PAGE,VAR_2
+EP93XXFB_VLINE_STEP,VAR_3
+PICOS2KHZ,FUNC_0
+clk_set_rate,FUNC_1
+ep93xxfb_set_timing,FUNC_2
+ep93xxfb_set_video_attribs,FUNC_3
+ep93xxfb_writel,FUNC_4
+ep93xxfb_set_par,FUNC_5
+info,VAR_4
+fbi,VAR_5

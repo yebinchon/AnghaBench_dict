@@ -1,0 +1,16 @@
+TPS80031,VAR_0
+TPS80031_REGULATOR_LDO2,VAR_1
+TPS80032,VAR_2
+TRACK_MODE_ENABLE,VAR_3
+rdev_get_drvdata,FUNC_0
+regulator_map_voltage_iterate,FUNC_1
+regulator_map_voltage_linear,FUNC_2
+to_tps80031_dev,FUNC_3
+tps80031_get_chip_info,FUNC_4
+tps80031_get_pmu_version,FUNC_5
+tps80031_ldo_map_voltage,FUNC_6
+rdev,VAR_4
+min_uV,VAR_5
+max_uV,VAR_6
+ri,VAR_7
+parent,VAR_8

@@ -1,0 +1,16 @@
+DBG_FUNC_START,VAR_0
+DBG_MACH_EXCP_INTR,VAR_1
+FALSE,VAR_2
+KDBG_RELEASE,FUNC_0
+MACHDBG_CODE,FUNC_1
+PSR64_IS_USER,FUNC_2
+VM_KERNEL_UNSLIDE,FUNC_3
+get_saved_state_cpsr,FUNC_4
+get_saved_state_pc,FUNC_5
+telemetry_mark_curthread,FUNC_6
+telemetry_needs_record,VAR_3
+sleh_interrupt_handler_prologue,FUNC_7
+state,VAR_4
+type,VAR_5
+is_user,VAR_6
+pc,VAR_7

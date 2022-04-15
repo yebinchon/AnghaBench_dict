@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+V4L2_DEC_CMD_STOP,VAR_1
+file2ctx,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+v4l2_m2m_ioctl_try_decoder_cmd,FUNC_3
+vb2_clear_last_buffer_dequeued,FUNC_4
+vb2_is_streaming,FUNC_5
+vicodec_mark_last_buf,FUNC_6
+vicodec_decoder_cmd,FUNC_7
+file,VAR_2
+fh,VAR_3
+dc,VAR_4
+ctx,VAR_5
+ret,VAR_6

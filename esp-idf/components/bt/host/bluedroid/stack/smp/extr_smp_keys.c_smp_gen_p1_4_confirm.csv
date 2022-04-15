@@ -1,0 +1,17 @@
+BTM_ReadConnectionAddr,FUNC_0
+BTM_ReadRemoteConnectionAddr,FUNC_1
+HCI_ROLE_MASTER,VAR_0
+SMP_OPCODE_PAIRING_REQ,VAR_1
+SMP_OPCODE_PAIRING_RSP,VAR_2
+SMP_TRACE_DEBUG,FUNC_2
+SMP_TRACE_ERROR,FUNC_3
+UINT8_TO_STREAM,FUNC_4
+smp_concatenate_local,FUNC_5
+smp_concatenate_peer,FUNC_6
+smp_debug_print_nbyte_little_endian,FUNC_7
+smp_gen_p1_4_confirm,FUNC_8
+p_cb,VAR_3
+p1,VAR_4
+p,VAR_5
+addr_type,VAR_6
+remote_bda,VAR_7

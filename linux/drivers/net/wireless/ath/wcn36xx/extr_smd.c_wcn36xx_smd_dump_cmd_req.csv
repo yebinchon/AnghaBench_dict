@@ -1,0 +1,17 @@
+INIT_HAL_MSG,FUNC_0
+PREPARE_HAL_BUF,FUNC_1
+WCN36XX_HAL_DUMP_COMMAND_REQ,VAR_0
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+wcn36xx_err,FUNC_4
+wcn36xx_smd_rsp_status_check,FUNC_5
+wcn36xx_smd_send_and_wait,FUNC_6
+wcn36xx_smd_dump_cmd_req,FUNC_7
+wcn,VAR_1
+arg1,VAR_2
+arg2,VAR_3
+arg3,VAR_4
+arg4,VAR_5
+arg5,VAR_6
+msg_body,VAR_7
+ret,VAR_8

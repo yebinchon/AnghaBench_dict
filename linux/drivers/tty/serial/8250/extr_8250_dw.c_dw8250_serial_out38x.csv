@@ -1,0 +1,10 @@
+UART_LCR,VAR_0
+dw8250_check_lcr,FUNC_0
+dw8250_tx_wait_empty,FUNC_1
+to_dw8250_data,FUNC_2
+writeb,FUNC_3
+dw8250_serial_out38x,FUNC_4
+p,VAR_1
+offset,VAR_2
+value,VAR_3
+d,VAR_4

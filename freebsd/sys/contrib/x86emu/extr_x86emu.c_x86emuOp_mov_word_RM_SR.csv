@@ -1,0 +1,10 @@
+decode_rh_seg_register,FUNC_0
+decode_rl_address,FUNC_1
+decode_rl_word_register,FUNC_2
+fetch_decode_modrm,FUNC_3
+store_data_word,FUNC_4
+x86emuOp_mov_word_RM_SR,FUNC_5
+emu,VAR_0
+destreg,VAR_1
+srcval,VAR_2
+destoffset,VAR_3

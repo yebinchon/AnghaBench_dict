@@ -1,0 +1,15 @@
+ATF_REQUIRE,FUNC_0
+STACKSIZE,VAR_0
+error,VAR_1
+pthread_attr_destroy,FUNC_1
+pthread_attr_get_np,FUNC_2
+pthread_attr_getstacksize,FUNC_3
+pthread_attr_init,FUNC_4
+pthread_exit,FUNC_5
+pthread_self,FUNC_6
+threadfunc2,FUNC_7
+arg,VAR_2
+i,VAR_3
+j,VAR_4
+attr,VAR_5
+stacksize,VAR_6

@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+btrfs_assert_no_spinning_writers,FUNC_1
+btrfs_assert_spinning_writers_put,FUNC_2
+btrfs_assert_tree_locked,FUNC_3
+btrfs_assert_tree_write_locks_put,FUNC_4
+cond_wake_up,FUNC_5
+trace_btrfs_tree_unlock,FUNC_6
+write_unlock,FUNC_7
+btrfs_tree_unlock,FUNC_8
+eb,VAR_0
+blockers,VAR_1

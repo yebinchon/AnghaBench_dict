@@ -1,0 +1,12 @@
+lua_createtable,FUNC_0
+lua_pushboolean,FUNC_1
+lua_pushcfunction,FUNC_2
+lua_pushinteger,FUNC_3
+lua_pushliteral,FUNC_4
+lua_setfield,FUNC_5
+nginx_version,VAR_0
+ngx_http_lua_config_configure,VAR_1
+ngx_http_lua_config_prefix,VAR_2
+ngx_http_lua_version,VAR_3
+ngx_http_lua_inject_config_api,FUNC_6
+L,VAR_4

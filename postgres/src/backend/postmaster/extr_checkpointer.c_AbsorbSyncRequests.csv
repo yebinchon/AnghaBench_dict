@@ -1,0 +1,17 @@
+AmCheckpointerProcess,FUNC_0
+BgWriterStats,VAR_0
+CheckpointerCommLock,VAR_1
+CheckpointerShmem,VAR_2
+END_CRIT_SECTION,FUNC_1
+LWLockAcquire,FUNC_2
+LWLockRelease,FUNC_3
+LW_EXCLUSIVE,VAR_3
+RememberSyncRequest,FUNC_4
+START_CRIT_SECTION,FUNC_5
+memcpy,FUNC_6
+palloc,FUNC_7
+pfree,FUNC_8
+AbsorbSyncRequests,FUNC_9
+requests,VAR_4
+request,VAR_5
+n,VAR_6

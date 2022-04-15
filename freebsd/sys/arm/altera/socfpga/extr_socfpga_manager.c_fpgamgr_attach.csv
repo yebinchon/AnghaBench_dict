@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+GID_WHEEL,VAR_1
+UID_ROOT,VAR_2
+bus_alloc_resources,FUNC_0
+device_get_softc,FUNC_1
+device_get_unit,FUNC_2
+device_printf,FUNC_3
+fpga_cdevsw,VAR_3
+fpgamgr_spec,VAR_4
+make_dev,FUNC_4
+rman_get_bushandle,FUNC_5
+rman_get_bustag,FUNC_6
+fpgamgr_attach,FUNC_7
+dev,VAR_5
+sc,VAR_6

@@ -1,0 +1,9 @@
+HV_CRASH_CTL_CRASH_NOTIFY,VAR_0
+KVM_REQ_HV_CRASH,VAR_1
+kvm_make_request,FUNC_0
+vcpu_debug,FUNC_1
+kvm_hv_msr_set_crash_ctl,FUNC_2
+vcpu,VAR_2
+data,VAR_3
+host,VAR_4
+hv,VAR_5

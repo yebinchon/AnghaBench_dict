@@ -1,0 +1,10 @@
+pr_info,FUNC_0
+probe_sched_switch,VAR_0
+probe_sched_wakeup,VAR_1
+register_trace_sched_switch,FUNC_1
+register_trace_sched_wakeup,FUNC_2
+register_trace_sched_wakeup_new,FUNC_3
+unregister_trace_sched_wakeup,FUNC_4
+unregister_trace_sched_wakeup_new,FUNC_5
+tracing_sched_register,FUNC_6
+ret,VAR_2

@@ -1,0 +1,7 @@
+BRCMF_PCIE_BAR0_REG_SIZE,VAR_0
+BRCMF_PCIE_BAR0_WINDOW,VAR_1
+pci_write_config_dword,FUNC_0
+brcmf_pcie_buscore_prep_addr,FUNC_1
+pdev,VAR_2
+addr,VAR_3
+ret_addr,VAR_4

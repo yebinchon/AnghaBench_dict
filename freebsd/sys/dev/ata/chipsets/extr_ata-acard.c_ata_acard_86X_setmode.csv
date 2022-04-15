@@ -1,0 +1,17 @@
+ATA_MODE_MASK,VAR_0
+ATA_UDMA0,VAR_1
+ATA_WDMA2,VAR_2
+device_get_parent,FUNC_0
+device_get_softc,FUNC_1
+min,FUNC_2
+pci_read_config,FUNC_3
+pci_write_config,FUNC_4
+ata_acard_86X_setmode,FUNC_5
+dev,VAR_3
+target,VAR_4
+mode,VAR_5
+parent,VAR_6
+ctlr,VAR_7
+ch,VAR_8
+devno,VAR_9
+reg44,VAR_10

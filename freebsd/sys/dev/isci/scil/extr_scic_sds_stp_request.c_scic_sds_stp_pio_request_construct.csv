@@ -1,0 +1,14 @@
+SAT_PROTOCOL_PIO_DATA_OUT,VAR_0
+SCIC_SDS_STP_REQUEST_STARTED_PIO_AWAIT_H2D_COMPLETION_SUBSTATE,VAR_1
+SCI_SUCCESS,VAR_2
+SCU_SGL_ELEMENT_PAIR_A,VAR_3
+sci_base_state_machine_construct,FUNC_0
+scic_sds_request_build_sgl,FUNC_1
+scic_sds_stp_non_ncq_request_construct,FUNC_2
+scic_sds_stp_request_started_pio_substate_table,VAR_4
+scu_stp_raw_request_construct_task_context,FUNC_3
+scic_sds_stp_pio_request_construct,FUNC_4
+scic_io_request,VAR_5
+sat_protocol,VAR_6
+copy_rx_frame,VAR_7
+this_request,VAR_8

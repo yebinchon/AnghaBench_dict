@@ -1,0 +1,17 @@
+NICVF_SQ_RESET,VAR_0
+NIC_MBOX_MSG_SQ_CFG,VAR_1
+NIC_QSET_SQ_0_7_BASE,VAR_2
+NIC_QSET_SQ_0_7_CFG,VAR_3
+NIC_QSET_SQ_0_7_THRESH,VAR_4
+SND_QSIZE,VAR_5
+nicvf_queue_reg_write,FUNC_0
+nicvf_reclaim_snd_queue,FUNC_1
+nicvf_send_msg_to_pf,FUNC_2
+nicvf_snd_queue_config,FUNC_3
+nic,VAR_6
+qs,VAR_7
+qidx,VAR_8
+enable,VAR_9
+mbx,VAR_10
+sq,VAR_11
+sq_cfg,VAR_12

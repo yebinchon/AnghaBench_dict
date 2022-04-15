@@ -1,0 +1,13 @@
+DATAOUT_CANNOT_RECOVER,VAR_0
+DATAOUT_NORMAL,VAR_1
+be32_to_cpu,FUNC_0
+iscsit_dump_data_payload,FUNC_1
+iscsit_get_pdu_holder,FUNC_2
+ntoh24,FUNC_3
+pr_err,FUNC_4
+iscsit_dataout_pre_datapduinorder_no,FUNC_5
+cmd,VAR_2
+buf,VAR_3
+pdu,VAR_4
+hdr,VAR_5
+payload_length,VAR_6

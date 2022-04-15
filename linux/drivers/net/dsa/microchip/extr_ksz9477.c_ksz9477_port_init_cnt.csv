@@ -1,0 +1,13 @@
+MIB_COUNTER_FLUSH_FREEZE,VAR_0
+REG_PORT_MIB_CTRL_STAT__4,VAR_1
+REG_SW_MAC_CTRL_6,VAR_2
+SW_MIB_COUNTER_FLUSH,VAR_3
+ksz_pwrite32,FUNC_0
+ksz_write8,FUNC_1
+memset,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+ksz9477_port_init_cnt,FUNC_5
+dev,VAR_4
+port,VAR_5
+mib,VAR_6

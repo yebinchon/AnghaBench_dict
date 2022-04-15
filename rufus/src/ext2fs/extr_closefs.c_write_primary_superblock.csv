@@ -1,0 +1,17 @@
+EXT2_ET_UNIMPLEMENTED,VAR_0
+SUPERBLOCK_OFFSET,VAR_1
+SUPERBLOCK_SIZE,VAR_2
+io_channel_set_blksize,FUNC_0
+io_channel_write_blk64,FUNC_1
+io_channel_write_byte,FUNC_2
+memcpy,FUNC_3
+printf,FUNC_4
+write_primary_superblock,FUNC_5
+fs,VAR_3
+super,VAR_4
+old_super,VAR_5
+new_super,VAR_6
+check_idx,VAR_7
+write_idx,VAR_8
+size,VAR_9
+retval,VAR_10

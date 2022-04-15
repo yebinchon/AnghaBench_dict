@@ -1,0 +1,9 @@
+USB_SPEED_UNKNOWN,VAR_0
+err,FUNC_0
+speed_strings,VAR_1
+strcmp,FUNC_1
+udev_device_get_sysattr_value,FUNC_2
+read_attr_speed,FUNC_3
+dev,VAR_2
+speed,VAR_3
+i,VAR_4

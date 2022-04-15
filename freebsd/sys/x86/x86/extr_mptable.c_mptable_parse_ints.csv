@@ -1,0 +1,11 @@
+APIC_ID_ALL,VAR_0
+APIC_LVT_DM_EXTINT,VAR_1
+APIC_LVT_DM_NMI,VAR_2
+APIC_LVT_LINT0,VAR_3
+APIC_LVT_LINT1,VAR_4
+lapic_set_lvt_mode,FUNC_0
+mpfps,VAR_5
+mptable_parse_default_config_ints,FUNC_1
+mptable_parse_ints_handler,VAR_6
+mptable_walk_table,FUNC_2
+mptable_parse_ints,FUNC_3

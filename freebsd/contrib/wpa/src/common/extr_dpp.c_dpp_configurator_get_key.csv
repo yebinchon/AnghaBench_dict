@@ -1,0 +1,13 @@
+EC_KEY_free,FUNC_0
+EVP_PKEY_get1_EC_KEY,FUNC_1
+OPENSSL_free,FUNC_2
+i2d_ECPrivateKey,FUNC_3
+wpa_snprintf_hex,FUNC_4
+dpp_configurator_get_key,FUNC_5
+conf,VAR_0
+buf,VAR_1
+buflen,VAR_2
+eckey,VAR_3
+key_len,VAR_4
+ret,VAR_5
+key,VAR_6

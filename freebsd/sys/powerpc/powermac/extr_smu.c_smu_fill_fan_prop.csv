@@ -1,0 +1,14 @@
+OF_getprop,FUNC_0
+SMU_FAN_PWM,VAR_0
+SMU_FAN_RPM,VAR_1
+device_get_softc,FUNC_1
+smu_fan_read_pwm,FUNC_2
+smu_fan_read_rpm,FUNC_3
+strcmp,FUNC_4
+smu_fill_fan_prop,FUNC_5
+dev,VAR_2
+child,VAR_3
+id,VAR_4
+fan,VAR_5
+sc,VAR_6
+type,VAR_7

@@ -1,0 +1,12 @@
+MIC_X100_BSP_INTERRUPT_VECTOR,VAR_0
+MIC_X100_SBOX_APICICR7,VAR_1
+MIC_X100_SBOX_BASE_ADDRESS,VAR_2
+mic_mmio_write,FUNC_0
+mic_x100_get_apic_id,FUNC_1
+wmb,FUNC_2
+mic_x100_send_firmware_intr,FUNC_3
+mdev,VAR_3
+apicicr_low,VAR_4
+apic_icr_offset,VAR_5
+vector,VAR_6
+mw,VAR_7

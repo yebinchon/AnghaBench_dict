@@ -1,0 +1,14 @@
+SERIAL_ISOLATION,VAR_0
+_PNP_ADDRESS,VAR_1
+_PNP_ID_LEN,VAR_2
+bzero,FUNC_0
+delay,FUNC_1
+inb,FUNC_2
+isapnp_readport,VAR_3
+outb,FUNC_3
+isapnp_get_serial,FUNC_4
+data,VAR_4
+i,VAR_5
+bit,VAR_6
+valid,VAR_7
+sum,VAR_8

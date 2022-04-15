@@ -1,0 +1,13 @@
+csio_evtq_flush,FUNC_0
+csio_ln_to_shost,FUNC_1
+csio_lnode_exit,FUNC_2
+csio_lnode_to_hw,FUNC_3
+fc_remove_host,FUNC_4
+scsi_host_put,FUNC_5
+scsi_remove_host,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+csio_shost_exit,FUNC_9
+ln,VAR_0
+shost,VAR_1
+hw,VAR_2

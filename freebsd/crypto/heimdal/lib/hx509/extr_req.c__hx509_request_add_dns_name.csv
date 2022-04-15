@@ -1,0 +1,10 @@
+add_GeneralNames,FUNC_0
+choice_GeneralName_dNSName,VAR_0
+memset,FUNC_1
+rk_UNCONST,FUNC_2
+strlen,FUNC_3
+_hx509_request_add_dns_name,FUNC_4
+context,VAR_1
+req,VAR_2
+hostname,VAR_3
+name,VAR_4

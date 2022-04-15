@@ -1,0 +1,11 @@
+APDS9300_CMD,VAR_0
+APDS9300_CONTROL,VAR_1
+APDS9300_POWER_OFF,VAR_2
+APDS9300_POWER_ON,VAR_3
+dev_err,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+apds9300_set_power_state,FUNC_2
+data,VAR_4
+state,VAR_5
+ret,VAR_6
+cmd,VAR_7

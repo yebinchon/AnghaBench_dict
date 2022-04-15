@@ -1,0 +1,8 @@
+MSR_IA32_UMWAIT_CONTROL,VAR_0
+add_atomic_switch_msr,FUNC_0
+clear_atomic_switch_msr,FUNC_1
+get_umwait_control_msr,FUNC_2
+vmx_has_waitpkg,FUNC_3
+atomic_switch_umwait_control_msr,FUNC_4
+vmx,VAR_1
+host_umwait_control,VAR_2

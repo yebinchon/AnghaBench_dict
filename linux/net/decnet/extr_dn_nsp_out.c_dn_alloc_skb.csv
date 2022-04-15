@@ -1,0 +1,12 @@
+ETH_P_DNA_RT,VAR_0
+PACKET_OUTGOING,VAR_1
+alloc_skb,FUNC_0
+htons,FUNC_1
+skb_reserve,FUNC_2
+skb_set_owner_w,FUNC_3
+dn_alloc_skb,FUNC_4
+sk,VAR_2
+size,VAR_3
+pri,VAR_4
+skb,VAR_5
+hdr,VAR_6

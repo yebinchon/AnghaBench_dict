@@ -1,0 +1,12 @@
+CMD_ACT_MAC_RX_ON,VAR_0
+CMD_ACT_MAC_TX_ON,VAR_1
+LBTF_DEB_MACOPS,VAR_2
+RADIO_ON,VAR_3
+WLAN_CAPABILITY_SHORT_PREAMBLE,VAR_4
+lbtf_deb_enter,FUNC_0
+lbtf_deb_leave,FUNC_1
+lbtf_set_mac_control,FUNC_2
+lbtf_set_radio_control,FUNC_3
+lbtf_op_start,FUNC_4
+hw,VAR_5
+priv,VAR_6

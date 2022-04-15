@@ -1,0 +1,13 @@
+S3C_DAINTMSK,VAR_0
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+s3c_hsotg_ctrl_epint,FUNC_4
+hsotg,VAR_1
+ep,VAR_2
+dir_in,VAR_3
+en,VAR_4
+flags,VAR_5
+bit,VAR_6
+daint,VAR_7

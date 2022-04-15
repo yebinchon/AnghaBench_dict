@@ -1,0 +1,16 @@
+DEBUG_NORMAL,VAR_0
+EINVAL,VAR_1
+ESHUTDOWN,VAR_2
+S3C2410_UDC_EP_INT_EN_REG,VAR_3
+dprintk,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+s3c2410_udc_nuke,FUNC_3
+to_s3c2410_ep,FUNC_4
+udc_read,FUNC_5
+udc_write,FUNC_6
+s3c2410_udc_ep_disable,FUNC_7
+_ep,VAR_4
+ep,VAR_5
+flags,VAR_6
+int_en_reg,VAR_7

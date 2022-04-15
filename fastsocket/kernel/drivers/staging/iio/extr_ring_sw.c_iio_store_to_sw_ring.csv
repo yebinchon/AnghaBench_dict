@@ -1,0 +1,17 @@
+IIO_EVENT_CODE_RING_100_FULL,VAR_0
+IIO_EVENT_CODE_RING_50_FULL,VAR_1
+__iio_push_event,FUNC_0
+barrier,FUNC_1
+iio_push_or_escallate_ring_event,FUNC_2
+memcpy,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+unlikely,FUNC_6
+iio_store_to_sw_ring,FUNC_7
+ring,VAR_2
+data,VAR_3
+timestamp,VAR_4
+ret,VAR_5
+code,VAR_6
+temp_ptr,VAR_7
+change_test_ptr,VAR_8

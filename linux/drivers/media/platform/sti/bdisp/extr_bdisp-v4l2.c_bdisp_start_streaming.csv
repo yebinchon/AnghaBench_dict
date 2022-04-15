@@ -1,0 +1,13 @@
+V4L2_BUF_TYPE_VIDEO_OUTPUT,VAR_0
+VB2_BUF_STATE_QUEUED,VAR_1
+dev_err,FUNC_0
+pm_runtime_get_sync,FUNC_1
+v4l2_m2m_buf_done,FUNC_2
+v4l2_m2m_dst_buf_remove,FUNC_3
+v4l2_m2m_src_buf_remove,FUNC_4
+bdisp_start_streaming,FUNC_5
+q,VAR_2
+count,VAR_3
+ctx,VAR_4
+buf,VAR_5
+ret,VAR_6

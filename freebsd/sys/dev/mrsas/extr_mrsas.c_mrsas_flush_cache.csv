@@ -1,0 +1,16 @@
+MFI_CMD_DCMD,VAR_0
+MFI_FRAME_DIR_NONE,VAR_1
+MFI_MBOX_SIZE,VAR_2
+MRSAS_HW_CRITICAL_ERROR,VAR_3
+MR_DCMD_CTRL_CACHE_FLUSH,VAR_4
+MR_FLUSH_CTRL_CACHE,VAR_5
+MR_FLUSH_DISK_CACHE,VAR_6
+device_printf,FUNC_0
+memset,FUNC_1
+mrsas_get_mfi_cmd,FUNC_2
+mrsas_issue_blocked_cmd,FUNC_3
+mrsas_release_mfi_cmd,FUNC_4
+mrsas_flush_cache,FUNC_5
+sc,VAR_7
+cmd,VAR_8
+dcmd,VAR_9

@@ -1,0 +1,14 @@
+IFM_ACTIVE,VAR_0
+IFM_AVALID,VAR_1
+IFM_ETHER,VAR_2
+IFM_FDX,VAR_3
+IFM_HDX,VAR_4
+IFM_NONE,VAR_5
+LIO_IFSTATE_RUNNING,VAR_6
+if_getsoftc,FUNC_0
+lio_get_media_subtype,FUNC_1
+lio_ifstate_check,FUNC_2
+lio_ifmedia_status,FUNC_3
+ifp,VAR_7
+ifmr,VAR_8
+lio,VAR_9

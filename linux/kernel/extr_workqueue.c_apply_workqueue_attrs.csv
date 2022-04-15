@@ -1,0 +1,9 @@
+apply_workqueue_attrs_locked,FUNC_0
+lockdep_assert_cpus_held,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+wq_pool_mutex,VAR_0
+apply_workqueue_attrs,FUNC_4
+wq,VAR_1
+attrs,VAR_2
+ret,VAR_3

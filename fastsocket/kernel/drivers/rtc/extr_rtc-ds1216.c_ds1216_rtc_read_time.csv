@@ -1,0 +1,14 @@
+DS1216_HOUR_1224,VAR_0
+DS1216_HOUR_AMPM,VAR_1
+bcd2bin,FUNC_0
+ds1216_read,FUNC_1
+ds1216_switch_ds_to_clock,FUNC_2
+platform_get_drvdata,FUNC_3
+rtc_valid_tm,FUNC_4
+to_platform_device,FUNC_5
+ds1216_rtc_read_time,FUNC_6
+dev,VAR_2
+tm,VAR_3
+pdev,VAR_4
+priv,VAR_5
+regs,VAR_6

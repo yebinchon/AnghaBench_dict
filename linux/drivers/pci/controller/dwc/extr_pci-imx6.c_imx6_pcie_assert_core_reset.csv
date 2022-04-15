@@ -1,0 +1,17 @@
+IMX6Q_GPR1_PCIE_REF_CLK_EN,VAR_0
+IMX6Q_GPR1_PCIE_SW_RST,VAR_1
+IMX6Q_GPR1_PCIE_TEST_PD,VAR_2
+IMX6SX_GPR12_PCIE_TEST_POWERDOWN,VAR_3
+IMX6SX_GPR5_PCIE_BTNRST_RESET,VAR_4
+IOMUXC_GPR1,VAR_5
+IOMUXC_GPR12,VAR_6
+IOMUXC_GPR5,VAR_7
+dev_err,FUNC_0
+regmap_update_bits,FUNC_1
+regulator_disable,FUNC_2
+regulator_is_enabled,FUNC_3
+reset_control_assert,FUNC_4
+imx6_pcie_assert_core_reset,FUNC_5
+imx6_pcie,VAR_8
+dev,VAR_9
+ret,VAR_10

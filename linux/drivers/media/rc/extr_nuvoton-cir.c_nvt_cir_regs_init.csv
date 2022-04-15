@@ -1,0 +1,14 @@
+CIR_FIFOCON,VAR_0
+CIR_FIFOCON_RX_TRIGGER_LEV,VAR_1
+CIR_FIFOCON_TX_TRIGGER_LEV,VAR_2
+CIR_RX_LIMIT_COUNT,VAR_3
+CIR_SLCH,VAR_4
+CIR_SLCL,VAR_5
+LOGICAL_DEV_CIR,VAR_6
+nvt_cir_reg_write,FUNC_0
+nvt_clear_cir_fifo,FUNC_1
+nvt_clear_tx_fifo,FUNC_2
+nvt_disable_logical_dev,FUNC_3
+nvt_enable_logical_dev,FUNC_4
+nvt_cir_regs_init,FUNC_5
+nvt,VAR_7

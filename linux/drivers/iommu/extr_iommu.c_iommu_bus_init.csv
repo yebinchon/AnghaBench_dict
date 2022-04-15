@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+add_iommu_group,VAR_2
+bus_for_each_dev,FUNC_0
+bus_register_notifier,FUNC_1
+bus_unregister_notifier,FUNC_2
+iommu_bus_notifier,VAR_3
+kfree,FUNC_3
+kzalloc,FUNC_4
+remove_iommu_group,VAR_4
+iommu_bus_init,FUNC_5
+bus,VAR_5
+ops,VAR_6
+err,VAR_7
+nb,VAR_8

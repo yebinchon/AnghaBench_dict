@@ -1,0 +1,15 @@
+BE2_chip,FUNC_0
+CMD_SUBSYSTEM_ETH,VAR_0
+EBUSY,VAR_1
+OPCODE_ETH_GET_STATISTICS,VAR_2
+be_mcc_notify,FUNC_1
+be_wrb_cmd_hdr_prepare,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+wrb_from_mccq,FUNC_5
+be_cmd_get_stats,FUNC_6
+adapter,VAR_3
+nonemb_cmd,VAR_4
+wrb,VAR_5
+hdr,VAR_6
+status,VAR_7

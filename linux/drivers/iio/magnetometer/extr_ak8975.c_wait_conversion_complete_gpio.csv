@@ -1,0 +1,13 @@
+AK8975_CONVERSION_DONE_POLL_TIME,VAR_0
+AK8975_MAX_CONVERSION_TIMEOUT,VAR_1
+EINVAL,VAR_2
+ST1,VAR_3
+dev_err,FUNC_0
+gpio_get_value,FUNC_1
+i2c_smbus_read_byte_data,FUNC_2
+msleep,FUNC_3
+wait_conversion_complete_gpio,FUNC_4
+data,VAR_4
+client,VAR_5
+timeout_ms,VAR_6
+ret,VAR_7

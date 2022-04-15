@@ -1,0 +1,13 @@
+CONFIG0_TX_RX_DISABLE,VAR_0
+GMAC_CONFIG0,VAR_1
+mdelay,FUNC_0
+netdev_priv,FUNC_1
+readl,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+writel,FUNC_5
+gmac_disable_tx_rx,FUNC_6
+netdev,VAR_2
+port,VAR_3
+flags,VAR_4
+val,VAR_5

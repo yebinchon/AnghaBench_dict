@@ -1,0 +1,10 @@
+MICBIAS_SETTING_MASK,VAR_0
+MICBIAS_SETTING_SFT,VAR_1
+TS3A227E_REG_SETTING_3,VAR_2
+device_property_read_u32,FUNC_0
+regmap_update_bits,FUNC_1
+ts3a227e_parse_device_property,FUNC_2
+ts3a227e,VAR_3
+dev,VAR_4
+micbias,VAR_5
+err,VAR_6

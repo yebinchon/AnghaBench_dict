@@ -1,0 +1,14 @@
+AFS_FS_I,FUNC_0
+_enter,FUNC_1
+afs_file_lock_debug_id,VAR_0
+afs_flock_op_copy_lock,VAR_1
+atomic_inc_return,FUNC_2
+list_add,FUNC_3
+locks_inode,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+trace_afs_flock_op,FUNC_7
+afs_fl_copy_lock,FUNC_8
+new,VAR_2
+fl,VAR_3
+vnode,VAR_4

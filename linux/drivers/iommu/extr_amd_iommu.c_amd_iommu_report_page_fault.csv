@@ -1,0 +1,17 @@
+PCI_BUS_NUM,FUNC_0
+PCI_FUNC,FUNC_1
+PCI_SLOT,FUNC_2
+__ratelimit,FUNC_3
+get_dev_data,FUNC_4
+pci_dev_put,FUNC_5
+pci_err,FUNC_6
+pci_get_domain_bus_and_slot,FUNC_7
+pr_err,FUNC_8
+printk_ratelimit,FUNC_9
+amd_iommu_report_page_fault,FUNC_10
+devid,VAR_0
+domain_id,VAR_1
+address,VAR_2
+flags,VAR_3
+dev_data,VAR_4
+pdev,VAR_5

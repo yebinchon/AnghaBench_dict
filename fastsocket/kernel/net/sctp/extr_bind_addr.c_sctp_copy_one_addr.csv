@@ -1,0 +1,17 @@
+AF_INET,VAR_0
+AF_INET6,VAR_1
+SCTP_ADDR4_PEERSUPP,VAR_2
+SCTP_ADDR6_ALLOWED,VAR_3
+SCTP_ADDR6_PEERSUPP,VAR_4
+SCTP_ADDR_SRC,VAR_5
+sctp_add_bind_addr,FUNC_0
+sctp_copy_local_addr_list,FUNC_1
+sctp_in_scope,FUNC_2
+sctp_is_any,FUNC_3
+sctp_copy_one_addr,FUNC_4
+dest,VAR_6
+addr,VAR_7
+scope,VAR_8
+gfp,VAR_9
+flags,VAR_10
+error,VAR_11

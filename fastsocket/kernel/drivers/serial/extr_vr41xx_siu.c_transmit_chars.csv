@@ -1,0 +1,14 @@
+TX_MAX_COUNT,VAR_0
+UART_TX,VAR_1
+UART_XMIT_SIZE,VAR_2
+WAKEUP_CHARS,VAR_3
+siu_stop_tx,FUNC_0
+siu_write,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_tx_stopped,FUNC_4
+uart_write_wakeup,FUNC_5
+transmit_chars,FUNC_6
+port,VAR_4
+xmit,VAR_5
+max_count,VAR_6

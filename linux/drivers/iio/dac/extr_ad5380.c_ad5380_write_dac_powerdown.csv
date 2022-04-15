@@ -1,0 +1,16 @@
+AD5380_REG_SF_PWR_DOWN,VAR_0
+AD5380_REG_SF_PWR_UP,VAR_1
+iio_priv,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+regmap_write,FUNC_3
+strtobool,FUNC_4
+ad5380_write_dac_powerdown,FUNC_5
+indio_dev,VAR_2
+private,VAR_3
+chan,VAR_4
+buf,VAR_5
+len,VAR_6
+st,VAR_7
+pwr_down,VAR_8
+ret,VAR_9

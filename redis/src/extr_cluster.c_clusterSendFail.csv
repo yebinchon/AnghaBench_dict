@@ -1,0 +1,10 @@
+CLUSTERMSG_TYPE_FAIL,VAR_0
+CLUSTER_NAMELEN,VAR_1
+clusterBroadcastMessage,FUNC_0
+clusterBuildMessageHdr,FUNC_1
+memcpy,FUNC_2
+ntohl,FUNC_3
+clusterSendFail,FUNC_4
+nodename,VAR_2
+buf,VAR_3
+hdr,VAR_4

@@ -1,0 +1,17 @@
+PMC_PLL_ACR,VAR_0
+PMC_PLL_ACR_UTMIBG,VAR_1
+PMC_PLL_ACR_UTMIVR,VAR_2
+PMC_PLL_CTRL0,VAR_3
+PMC_PLL_CTRL0_ENPLL,VAR_4
+PMC_PLL_CTRL0_ENPLLCK,VAR_5
+PMC_PLL_UPDT,VAR_6
+PMC_PLL_UPDT_UPDATE,VAR_7
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_sam9x60_pll,FUNC_4
+sam9x60_pll_unprepare,FUNC_5
+hw,VAR_8
+pll,VAR_9
+flags,VAR_10

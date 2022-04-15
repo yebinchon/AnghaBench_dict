@@ -1,0 +1,17 @@
+NAU8825_HPL_VOL_MASK,VAR_0
+NAU8825_HPL_VOL_SFT,VAR_1
+NAU8825_HPR_VOL_MASK,VAR_2
+NAU8825_HP_VOL_MIN,VAR_3
+NAU8825_REG_HSVOL_CTRL,VAR_4
+regmap_update_bits,FUNC_0
+usleep_range,FUNC_1
+nau8825_hpvol_ramp,FUNC_2
+nau8825,VAR_5
+vol_from,VAR_6
+vol_to,VAR_7
+step,VAR_8
+value,VAR_9
+volume,VAR_10
+ramp_up,VAR_11
+from,VAR_12
+to,VAR_13

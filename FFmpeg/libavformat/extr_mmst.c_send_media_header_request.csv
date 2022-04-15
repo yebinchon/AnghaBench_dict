@@ -1,0 +1,8 @@
+CS_PKT_MEDIA_HEADER_REQUEST,VAR_0
+bytestream_put_le32,FUNC_0
+insert_command_prefixes,FUNC_1
+send_command_packet,FUNC_2
+start_command_packet,FUNC_3
+send_media_header_request,FUNC_4
+mmst,VAR_1
+mms,VAR_2

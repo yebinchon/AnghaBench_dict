@@ -1,0 +1,17 @@
+IPI_CPU_STOP,VAR_0
+SYSTEM_RUNNING,VAR_1
+USEC_PER_SEC,VAR_2
+cpu_online_mask,VAR_3
+cpumask_clear_cpu,FUNC_0
+cpumask_copy,FUNC_1
+cpumask_pr_args,FUNC_2
+num_online_cpus,FUNC_3
+pr_crit,FUNC_4
+pr_warn,FUNC_5
+send_ipi_mask,FUNC_6
+smp_processor_id,FUNC_7
+system_state,VAR_4
+udelay,FUNC_8
+smp_send_stop,FUNC_9
+timeout,VAR_5
+mask,VAR_6

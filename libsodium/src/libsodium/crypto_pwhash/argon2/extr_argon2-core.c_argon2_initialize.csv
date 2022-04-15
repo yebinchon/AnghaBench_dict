@@ -1,0 +1,16 @@
+ARGON2_INCORRECT_PARAMETER,VAR_0
+ARGON2_MEMORY_ALLOCATION_ERROR,VAR_1
+ARGON2_OK,VAR_2
+ARGON2_PREHASH_DIGEST_LENGTH,VAR_3
+ARGON2_PREHASH_SEED_LENGTH,VAR_4
+allocate_memory,FUNC_0
+argon2_fill_first_blocks,FUNC_1
+argon2_free_instance,FUNC_2
+argon2_initial_hash,FUNC_3
+malloc,FUNC_4
+sodium_memzero,FUNC_5
+argon2_initialize,FUNC_6
+instance,VAR_5
+context,VAR_6
+blockhash,VAR_7
+result,VAR_8

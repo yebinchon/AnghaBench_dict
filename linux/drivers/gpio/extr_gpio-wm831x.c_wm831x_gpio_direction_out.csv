@@ -1,0 +1,15 @@
+WM831X_GPIO1_CONTROL,VAR_0
+WM831X_GPN_DIR,VAR_1
+WM831X_GPN_FN_MASK,VAR_2
+WM831X_GPN_TRI,VAR_3
+gpiochip_get_data,FUNC_0
+wm831x_gpio_set,FUNC_1
+wm831x_set_bits,FUNC_2
+wm831x_gpio_direction_out,FUNC_3
+chip,VAR_4
+offset,VAR_5
+value,VAR_6
+wm831x_gpio,VAR_7
+wm831x,VAR_8
+val,VAR_9
+ret,VAR_10

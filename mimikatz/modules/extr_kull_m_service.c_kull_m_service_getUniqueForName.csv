@@ -1,0 +1,16 @@
+CloseServiceHandle,FUNC_0
+FALSE,VAR_0
+OpenSCManager,FUNC_1
+OpenService,FUNC_2
+QueryServiceStatusEx,FUNC_3
+SC_MANAGER_CONNECT,VAR_1
+SC_STATUS_PROCESS_INFO,VAR_2
+SERVICES_ACTIVE_DATABASE,VAR_3
+SERVICE_QUERY_STATUS,VAR_4
+kull_m_service_getUniqueForName,FUNC_4
+serviceName,VAR_5
+pServiceStatusProcess,VAR_6
+status,VAR_7
+hSC,VAR_8
+hS,VAR_9
+szNeeded,VAR_10

@@ -1,0 +1,16 @@
+VIDC_SESSION_TYPE_ENC,VAR_0
+is_buf_refed,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+return_buf_error,FUNC_3
+session_process_buf,FUNC_4
+to_vb2_v4l2_buffer,FUNC_5
+v4l2_m2m_buf_queue,FUNC_6
+vb2_get_drv_priv,FUNC_7
+vb2_start_streaming_called,FUNC_8
+venus_helper_vb2_buf_queue,FUNC_9
+vb,VAR_1
+vbuf,VAR_2
+inst,VAR_3
+m2m_ctx,VAR_4
+ret,VAR_5

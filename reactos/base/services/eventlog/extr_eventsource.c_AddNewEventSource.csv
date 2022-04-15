@@ -1,0 +1,17 @@
+DPRINT,FUNC_0
+EVENTSOURCE,VAR_0
+EnterCriticalSection,FUNC_1
+EventSourceListCs,VAR_1
+EventSourceListHead,VAR_2
+FIELD_OFFSET,FUNC_2
+GetProcessHeap,FUNC_3
+HeapAlloc,FUNC_4
+InsertTailList,FUNC_5
+LeaveCriticalSection,FUNC_6
+szName,VAR_3
+wcscpy,FUNC_7
+wcslen,FUNC_8
+AddNewEventSource,FUNC_9
+pLogFile,VAR_4
+lpSourceName,VAR_5
+lpEventSource,VAR_6

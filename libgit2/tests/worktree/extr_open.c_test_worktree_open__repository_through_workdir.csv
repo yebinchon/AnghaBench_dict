@@ -1,0 +1,8 @@
+COMMON_REPO,VAR_0
+WORKTREE_REPO,VAR_1
+assert_worktree_valid,FUNC_0
+cl_git_pass,FUNC_1
+git_repository_free,FUNC_2
+git_repository_open,FUNC_3
+test_worktree_open__repository_through_workdir,FUNC_4
+wt,VAR_2

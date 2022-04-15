@@ -1,0 +1,15 @@
+ECANCELED,VAR_0
+atomic_read,FUNC_0
+dma_fence_get,FUNC_1
+dma_fence_put,FUNC_2
+dma_fence_set_error,FUNC_3
+drm_sched_entity_add_dependency_cb,FUNC_4
+spsc_queue_peek,FUNC_5
+spsc_queue_pop,FUNC_6
+stub1,FUNC_7
+to_drm_sched_job,FUNC_8
+trace_drm_sched_job_wait_dep,FUNC_9
+drm_sched_entity_pop_job,FUNC_10
+entity,VAR_1
+sched,VAR_2
+sched_job,VAR_3

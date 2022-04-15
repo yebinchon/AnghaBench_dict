@@ -1,0 +1,12 @@
+PF_OXS,VAR_0
+RCR1,VAR_1
+RCR1_CF,VAR_2
+RTC_IRQF,VAR_3
+RTC_UF,VAR_4
+readb,FUNC_0
+rtc_update_irq,FUNC_1
+writeb,FUNC_2
+__sh_rtc_interrupt,FUNC_3
+rtc,VAR_5
+tmp,VAR_6
+pending,VAR_7

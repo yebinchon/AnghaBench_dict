@@ -1,0 +1,11 @@
+CPU_FTR_ARCH_300,VAR_0
+cpu_first_thread_sibling,FUNC_0
+cpu_has_feature,FUNC_1
+cpumask_clear_cpu,FUNC_2
+cpumask_test_cpu,FUNC_3
+flush_guest_tlb,FUNC_4
+kvmppc_check_need_tlb_flush,FUNC_5
+kvm,VAR_1
+pcpu,VAR_2
+nested,VAR_3
+need_tlb_flush,VAR_4

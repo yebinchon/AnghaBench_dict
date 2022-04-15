@@ -1,0 +1,16 @@
+DPCPU_PTR,FUNC_0
+ET_HW_LOCK,FUNC_1
+ET_HW_UNLOCK,FUNC_2
+atomic_load_acq_int,FUNC_3
+atomic_readandclear_int,FUNC_4
+atomic_store_rel_int,FUNC_5
+busy,VAR_0
+et_stop,FUNC_6
+handleevents,FUNC_7
+loadtimer,FUNC_8
+sbinuptime,FUNC_9
+timer,VAR_1
+timerstate,VAR_2
+doconfigtimer,FUNC_10
+now,VAR_3
+state,VAR_4

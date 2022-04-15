@@ -1,0 +1,12 @@
+SCSI_MODE_SENSE_DBD_ENABLE,VAR_0
+sati_cb_get_cdb_address,FUNC_0
+sati_get_cdb_byte,FUNC_1
+sati_mode_sense_6_build_header,FUNC_2
+sati_mode_sense_build_std_block_descriptor,FUNC_3
+sati_mode_sense_6_translate_data,FUNC_4
+sequence,VAR_1
+identify,VAR_2
+scsi_io,VAR_3
+transfer_length,VAR_4
+cdb,VAR_5
+offset,VAR_6

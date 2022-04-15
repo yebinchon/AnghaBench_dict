@@ -1,0 +1,10 @@
+PHY_INTERFACE_MODE_MOCA,VAR_0
+PORT_BNC,VAR_1
+PORT_MII,VAR_2
+XCVR_EXTERNAL,VAR_3
+XCVR_INTERNAL,VAR_4
+linkmode_copy,FUNC_0
+phy_is_internal,FUNC_1
+phy_ethtool_ksettings_get,FUNC_2
+phydev,VAR_5
+cmd,VAR_6

@@ -1,0 +1,9 @@
+set_nodelay,FUNC_0
+ssh_packet_connection_is_on_socket,FUNC_1
+ssh_packet_set_tos,FUNC_2
+ssh_packet_set_interactive,FUNC_3
+ssh,VAR_0
+interactive,VAR_1
+qos_interactive,VAR_2
+qos_bulk,VAR_3
+state,VAR_4

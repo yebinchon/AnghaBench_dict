@@ -1,0 +1,17 @@
+NVMEQ_POLLED,VAR_0
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+nvme_complete_cqes,FUNC_2
+nvme_process_cq,FUNC_3
+pci_irq_vector,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+test_bit,FUNC_7
+to_pci_dev,FUNC_8
+nvme_poll_irqdisable,FUNC_9
+nvmeq,VAR_1
+tag,VAR_2
+pdev,VAR_3
+start,VAR_4
+end,VAR_5
+found,VAR_6

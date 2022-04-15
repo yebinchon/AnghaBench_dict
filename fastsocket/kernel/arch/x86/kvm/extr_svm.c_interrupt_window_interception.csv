@@ -1,0 +1,10 @@
+KVM_EXIT_IRQ_WINDOW_OPEN,VAR_0
+VMCB_INTR,VAR_1
+V_IRQ_MASK,VAR_2
+irqchip_in_kernel,FUNC_0
+kvm_cpu_has_interrupt,FUNC_1
+mark_dirty,FUNC_2
+svm_clear_vintr,FUNC_3
+interrupt_window_interception,FUNC_4
+svm,VAR_3
+kvm_run,VAR_4

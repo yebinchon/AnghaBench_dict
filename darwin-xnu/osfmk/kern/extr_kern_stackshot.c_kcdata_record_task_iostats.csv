@@ -1,0 +1,15 @@
+IO_NUM_PRIORITIES,VAR_0
+KERN_SUCCESS,VAR_1
+STACKSHOT_IO_NUM_PRIORITIES,VAR_2
+STACKSHOT_KCTYPE_IOSTATS,VAR_3
+assert,FUNC_0
+kcd_exit_on_error,FUNC_1
+kcdata_get_memory_addr,FUNC_2
+memory_iszero,FUNC_3
+kcdata_record_task_iostats,FUNC_4
+kcd,VAR_4
+task,VAR_5
+error,VAR_6
+out_addr,VAR_7
+_iostat,VAR_8
+i,VAR_9

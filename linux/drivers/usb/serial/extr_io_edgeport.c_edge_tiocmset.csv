@@ -1,0 +1,16 @@
+MCR,VAR_0
+MCR_DTR,VAR_1
+MCR_LOOPBACK,VAR_2
+MCR_RTS,VAR_3
+TIOCM_DTR,VAR_4
+TIOCM_LOOP,VAR_5
+TIOCM_RTS,VAR_6
+send_cmd_write_uart_register,FUNC_0
+usb_get_serial_port_data,FUNC_1
+edge_tiocmset,FUNC_2
+tty,VAR_7
+set,VAR_8
+clear,VAR_9
+port,VAR_10
+edge_port,VAR_11
+mcr,VAR_12

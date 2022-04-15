@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+IOMMU_RESERVED_PTE,VAR_2
+mk_iommu_pte,FUNC_0
+page_to_phys,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+iommu_bind,FUNC_4
+arena,VAR_3
+pg_start,VAR_4
+pg_count,VAR_5
+pages,VAR_6
+flags,VAR_7
+ptes,VAR_8
+i,VAR_9
+j,VAR_10

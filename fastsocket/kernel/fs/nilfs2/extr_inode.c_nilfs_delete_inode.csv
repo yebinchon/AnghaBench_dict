@@ -1,0 +1,17 @@
+IS_SYNC,FUNC_0
+NILFS_I,FUNC_1
+NILFS_TI_SYNC,VAR_0
+clear_inode,FUNC_2
+is_bad_inode,FUNC_3
+nilfs_free_inode,FUNC_4
+nilfs_set_transaction_flag,FUNC_5
+nilfs_transaction_begin,FUNC_6
+nilfs_transaction_commit,FUNC_7
+nilfs_truncate_bmap,FUNC_8
+truncate_inode_pages,FUNC_9
+unlikely,FUNC_10
+nilfs_delete_inode,FUNC_11
+inode,VAR_1
+ti,VAR_2
+sb,VAR_3
+ii,VAR_4

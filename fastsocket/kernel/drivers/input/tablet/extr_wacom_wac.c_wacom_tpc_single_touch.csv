@@ -1,0 +1,16 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+WACOM_PKGLEN_TPC1FG,VAR_3
+get_unaligned_le16,FUNC_0
+le16_to_cpup,FUNC_1
+wacom_report_abs,FUNC_2
+wacom_report_key,FUNC_3
+wacom_tpc_single_touch,FUNC_4
+wacom,VAR_4
+wcombo,VAR_5
+len,VAR_6
+data,VAR_7
+prox,VAR_8
+x,VAR_9
+y,VAR_10

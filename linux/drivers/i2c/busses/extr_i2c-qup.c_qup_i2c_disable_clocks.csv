@@ -1,0 +1,10 @@
+QUP_CLOCK_AUTO_GATE,VAR_0
+QUP_CONFIG,VAR_1
+QUP_RESET_STATE,VAR_2
+clk_disable_unprepare,FUNC_0
+qup_i2c_change_state,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+qup_i2c_disable_clocks,FUNC_4
+qup,VAR_3
+config,VAR_4

@@ -1,0 +1,12 @@
+calculate_message_bytes,FUNC_0
+memset,FUNC_1
+snd_rawmidi_transmit_peek,FUNC_2
+fill_message,FUNC_3
+port,VAR_0
+substream,VAR_1
+i,VAR_2
+len,VAR_3
+consume,VAR_4
+label,VAR_5
+msg,VAR_6
+status,VAR_7

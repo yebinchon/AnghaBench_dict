@@ -1,0 +1,14 @@
+EACCES,VAR_0
+EPERM,VAR_1
+HAS_UNMAPPED_ID,FUNC_0
+IS_IMMUTABLE,FUNC_1
+MAY_WRITE,VAR_2
+devcgroup_inode_permission,FUNC_2
+do_inode_permission,FUNC_3
+sb_permission,FUNC_4
+security_inode_permission,FUNC_5
+unlikely,FUNC_6
+inode_permission,FUNC_7
+inode,VAR_3
+mask,VAR_4
+retval,VAR_5

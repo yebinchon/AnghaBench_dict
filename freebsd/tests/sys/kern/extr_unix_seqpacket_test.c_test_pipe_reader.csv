@@ -1,0 +1,15 @@
+ATF_CHECK_EQ_MSG,FUNC_0
+MSG_WAITALL,VAR_0
+atf_tc_fail,FUNC_1
+memcmp,FUNC_2
+memset,FUNC_3
+perror,FUNC_4
+recv,FUNC_5
+test_pipe_reader,FUNC_6
+args,VAR_1
+td,VAR_2
+rcvbuf,VAR_3
+comparebuf,VAR_4
+rsize,VAR_5
+i,VAR_6
+d,VAR_7

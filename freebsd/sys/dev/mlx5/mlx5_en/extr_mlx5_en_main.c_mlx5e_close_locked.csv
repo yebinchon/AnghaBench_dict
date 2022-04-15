@@ -1,0 +1,17 @@
+LINK_STATE_DOWN,VAR_0
+MLX5E_STATE_OPENED,VAR_1
+MLX5_INTERFACE_PROTOCOL_ETH,VAR_2
+clear_bit,FUNC_0
+if_link_state_change,FUNC_1
+mlx5_vport_dealloc_q_counter,FUNC_2
+mlx5e_close_channels,FUNC_3
+mlx5e_close_flow_table,FUNC_4
+mlx5e_close_rqt,FUNC_5
+mlx5e_close_tirs,FUNC_6
+mlx5e_close_tises,FUNC_7
+mlx5e_del_all_vlan_rules,FUNC_8
+mlx5e_set_rx_mode_core,FUNC_9
+test_bit,FUNC_10
+mlx5e_close_locked,FUNC_11
+ifp,VAR_3
+priv,VAR_4

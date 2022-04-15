@@ -1,0 +1,15 @@
+PLL_REG_FBDIV,VAR_0
+PLL_REG_IDIV,VAR_1
+PLL_REG_ODIV,VAR_2
+axs10x_div_get_value,FUNC_0
+axs10x_pll_read,FUNC_1
+do_div,FUNC_2
+to_axs10x_pll_clk,FUNC_3
+axs10x_pll_recalc_rate,FUNC_4
+hw,VAR_3
+parent_rate,VAR_4
+rate,VAR_5
+idiv,VAR_6
+fbdiv,VAR_7
+odiv,VAR_8
+clk,VAR_9

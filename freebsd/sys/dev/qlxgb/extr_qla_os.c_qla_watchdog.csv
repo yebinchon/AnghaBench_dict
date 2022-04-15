@@ -1,0 +1,10 @@
+QLA_WATCHDOG_CALLOUT_TICKS,VAR_0
+QL_RUNNING,FUNC_0
+callout_reset,FUNC_1
+qla_le32_to_host,FUNC_2
+taskqueue_enqueue,FUNC_3
+qla_watchdog,FUNC_4
+arg,VAR_1
+ha,VAR_2
+hw,VAR_3
+ifp,VAR_4

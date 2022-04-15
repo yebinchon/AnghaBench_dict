@@ -1,0 +1,17 @@
+BDEVNAME_SIZE,VAR_0
+INIT_WORK,FUNC_0
+bd_unlink_disk_holder,FUNC_1
+bdevname,FUNC_2
+kobject_get,FUNC_3
+list_del_rcu,FUNC_4
+md_delayed_delete,VAR_1
+md_misc_wq,VAR_2
+mddev_destroy_wb_pool,FUNC_5
+pr_debug,FUNC_6
+queue_work,FUNC_7
+synchronize_rcu,FUNC_8
+sysfs_put,FUNC_9
+sysfs_remove_link,FUNC_10
+unbind_rdev_from_array,FUNC_11
+rdev,VAR_3
+b,VAR_4

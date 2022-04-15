@@ -1,0 +1,10 @@
+DMA_TO_DEVICE,VAR_0
+TEGRA_UART_RX_DMA_BUFFER_SIZE,VAR_1
+UART_XMIT_SIZE,VAR_2
+dma_free_coherent,FUNC_0
+dma_release_channel,FUNC_1
+dma_unmap_single,FUNC_2
+dmaengine_terminate_all,FUNC_3
+tegra_uart_dma_channel_free,FUNC_4
+tup,VAR_3
+dma_to_memory,VAR_4

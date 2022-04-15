@@ -1,0 +1,17 @@
+EIO,VAR_0
+ENOTTY,VAR_1
+REQ_TYPE_BLOCK_PC,VAR_2
+REQ_TYPE_SPECIAL,VAR_3
+__blk_end_request_all,FUNC_0
+blk_start_queue,FUNC_1
+mempool_free,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+virtqueue_get_buf,FUNC_5
+blk_done,FUNC_6
+vq,VAR_4
+vblk,VAR_5
+vbr,VAR_6
+len,VAR_7
+flags,VAR_8
+error,VAR_9

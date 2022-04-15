@@ -1,0 +1,15 @@
+CONTROLVM_RESP_SUCCESS,VAR_0
+ENOMEM,VAR_1
+controlvm_respond,FUNC_0
+list_add_tail,FUNC_1
+parahotplug_request_create,FUNC_2
+parahotplug_request_destroy,FUNC_3
+parahotplug_request_kickoff,FUNC_4
+parahotplug_request_list,VAR_2
+parahotplug_request_list_lock,VAR_3
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+parahotplug_process_message,FUNC_7
+inmsg,VAR_4
+req,VAR_5
+err,VAR_6

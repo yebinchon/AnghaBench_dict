@@ -1,0 +1,16 @@
+DIST_MODE,VAR_0
+DPNI_CMDID_SET_RX_TC_DIST,VAR_1
+MISS_ACTION,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le64,FUNC_1
+dpni_set_field,FUNC_2
+mc_encode_cmd_header,FUNC_3
+mc_send_command,FUNC_4
+dpni_set_rx_tc_dist,FUNC_5
+mc_io,VAR_3
+cmd_flags,VAR_4
+token,VAR_5
+tc_id,VAR_6
+cfg,VAR_7
+cmd,VAR_8
+cmd_params,VAR_9

@@ -1,0 +1,10 @@
+AL_ADDR_HIGH,FUNC_0
+AL_ADDR_LOW,FUNC_1
+AL_UDMA_Q_FLAGS_NO_COMP_UPDATE,VAR_0
+UDMA_M2S_Q_TCRBP_LOW_ADDR_MASK,VAR_1
+UDMA_M2S_Q_TDRBP_LOW_ADDR_MASK,VAR_2
+al_assert,FUNC_2
+al_reg_write32,FUNC_3
+al_udma_q_config_compl,FUNC_4
+al_udma_q_set_pointers,FUNC_5
+udma_q,VAR_3

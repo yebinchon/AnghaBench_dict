@@ -1,0 +1,9 @@
+AUX_MU_IIR_REG,VAR_0
+AUX_MU_IO_REG,VAR_1
+MU_IIR_RX_CLR,VAR_2
+MU_IIR_RX_READY,VAR_3
+get32,FUNC_0
+put32,FUNC_1
+uart_send,FUNC_2
+handle_uart_irq,FUNC_3
+c,VAR_4

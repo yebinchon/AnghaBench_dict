@@ -1,0 +1,11 @@
+CVMX_CIU_PP_RST,VAR_0
+DELAY,FUNC_0
+atomic_cmpset_32,FUNC_1
+bootverbose,VAR_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+octeon_ap_boot,VAR_2
+printf,FUNC_4
+platform_start_ap,FUNC_5
+cpuid,VAR_3
+cores_in_reset,VAR_4

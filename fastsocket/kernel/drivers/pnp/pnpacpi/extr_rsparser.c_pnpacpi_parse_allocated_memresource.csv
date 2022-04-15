@@ -1,0 +1,11 @@
+ACPI_READ_WRITE_MEMORY,VAR_0
+IORESOURCE_DISABLED,VAR_1
+IORESOURCE_MEM_WRITEABLE,VAR_2
+pnp_add_mem_resource,FUNC_0
+pnpacpi_parse_allocated_memresource,FUNC_1
+dev,VAR_3
+start,VAR_4
+len,VAR_5
+write_protect,VAR_6
+flags,VAR_7
+end,VAR_8

@@ -1,0 +1,13 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+secp256k1_ecdsa_signature_load,FUNC_2
+secp256k1_ecdsa_signature_save,FUNC_3
+secp256k1_scalar_is_high,FUNC_4
+secp256k1_scalar_negate,FUNC_5
+secp256k1_ecdsa_signature_normalize,FUNC_6
+ctx,VAR_0
+sigout,VAR_1
+sigin,VAR_2
+r,VAR_3
+s,VAR_4
+ret,VAR_5

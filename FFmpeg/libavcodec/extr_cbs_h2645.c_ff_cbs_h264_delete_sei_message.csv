@@ -1,0 +1,12 @@
+H264_NAL_SEI,VAR_0
+av_assert0,FUNC_0
+cbs_h264_free_sei_payload,FUNC_1
+ff_cbs_delete_unit,FUNC_2
+memmove,FUNC_3
+ff_cbs_h264_delete_sei_message,FUNC_4
+ctx,VAR_1
+au,VAR_2
+nal,VAR_3
+position,VAR_4
+sei,VAR_5
+i,VAR_6

@@ -1,0 +1,14 @@
+GZIP_HEAD_FCOMMENT_BIT,VAR_0
+GZIP_HEAD_FEXTRA_BIT,VAR_1
+GZIP_HEAD_FEXTRA_SHIFT,VAR_2
+GZIP_HEAD_FHCRC_BIT,VAR_3
+GZIP_HEAD_FHCRC_SIZE,VAR_4
+GZIP_HEAD_FLG_SHIFT,VAR_5
+GZIP_HEAD_FNAME_BIT,VAR_6
+get_comment_field_size,FUNC_0
+get_extra_field_size,FUNC_1
+get_name_field_size,FUNC_2
+__get_gzip_head_size,FUNC_3
+src,VAR_7
+head_flg,VAR_8
+size,VAR_9

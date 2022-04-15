@@ -1,0 +1,16 @@
+IBV_INIT_CMD_RESP,FUNC_0
+REG_MR,VAR_0
+VALGRIND_MAKE_MEM_DEFINED,FUNC_1
+errno,VAR_1
+write,FUNC_2
+ibv_cmd_reg_mr,FUNC_3
+pd,VAR_2
+addr,VAR_3
+length,VAR_4
+hca_va,VAR_5
+access,VAR_6
+mr,VAR_7
+cmd,VAR_8
+cmd_size,VAR_9
+resp,VAR_10
+resp_size,VAR_11

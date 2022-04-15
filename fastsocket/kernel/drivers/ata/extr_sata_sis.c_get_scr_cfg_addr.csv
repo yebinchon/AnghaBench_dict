@@ -1,0 +1,14 @@
+SIS180_SATA1_OFS,VAR_0
+SIS182_SATA1_OFS,VAR_1
+SIS_PMR,VAR_2
+SIS_PMR_COMBINED,VAR_3
+SIS_SCR_BASE,VAR_4
+pci_read_config_byte,FUNC_0
+to_pci_dev,FUNC_1
+get_scr_cfg_addr,FUNC_2
+link,VAR_5
+sc_reg,VAR_6
+ap,VAR_7
+pdev,VAR_8
+addr,VAR_9
+pmr,VAR_10

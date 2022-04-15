@@ -1,0 +1,13 @@
+FSTEST_ENTER,FUNC_0
+FSTEST_EXIT,FUNC_1
+O_CREAT,VAR_0
+O_RDWR,VAR_1
+O_TRUNC,VAR_2
+RL,FUNC_2
+rump_sys_close,FUNC_3
+rump_sys_ftruncate,FUNC_4
+rump_sys_open,FUNC_5
+shrinkfile,FUNC_6
+tc,VAR_3
+mp,VAR_4
+fd,VAR_5

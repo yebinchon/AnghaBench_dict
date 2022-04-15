@@ -1,0 +1,13 @@
+KPROBE_HIT_ACTIVE,VAR_0
+__this_cpu_write,FUNC_0
+current_kprobe,VAR_1
+get_kprobe_ctlblk,FUNC_1
+kprobe_disabled,FUNC_2
+kprobe_running,FUNC_3
+kprobes_inc_nmissed_count,FUNC_4
+opt_pre_handler,FUNC_5
+preempt_disable,FUNC_6
+preempt_enable_no_resched,FUNC_7
+optimized_callback,FUNC_8
+op,VAR_2
+regs,VAR_3

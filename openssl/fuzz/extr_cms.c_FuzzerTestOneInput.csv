@@ -1,0 +1,16 @@
+BIO_free,FUNC_0
+BIO_new,FUNC_1
+BIO_s_mem,FUNC_2
+BIO_s_null,FUNC_3
+BIO_write,FUNC_4
+CMS_ContentInfo_free,FUNC_5
+ERR_clear_error,FUNC_6
+OPENSSL_assert,FUNC_7
+d2i_CMS_bio,FUNC_8
+i2d_CMS_bio,FUNC_9
+FuzzerTestOneInput,FUNC_10
+buf,VAR_0
+len,VAR_1
+cms,VAR_2
+in,VAR_3
+out,VAR_4

@@ -1,0 +1,15 @@
+OP_LOCKU,VAR_0
+decode_locku_maxsz,VAR_1
+encode_nfs4_seqid,FUNC_0
+encode_nfs4_stateid,FUNC_1
+encode_op_hdr,FUNC_2
+encode_uint32,FUNC_3
+nfs4_lock_length,FUNC_4
+nfs4_lock_type,FUNC_5
+reserve_space,FUNC_6
+xdr_encode_hyper,FUNC_7
+encode_locku,FUNC_8
+xdr,VAR_2
+args,VAR_3
+hdr,VAR_4
+p,VAR_5

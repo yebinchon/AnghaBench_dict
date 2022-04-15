@@ -1,0 +1,16 @@
+BULK_TIMEOUT,VAR_0
+EFAULT,VAR_1
+RETRIES,VAR_2
+SIZEINSNBUF,VAR_3
+comedi_to_usb_dev,FUNC_0
+le16_to_cpu,FUNC_1
+usb_bulk_msg,FUNC_2
+usb_rcvbulkpipe,FUNC_3
+receive_dux_commands,FUNC_4
+dev,VAR_4
+command,VAR_5
+usb,VAR_6
+devpriv,VAR_7
+ret,VAR_8
+nrec,VAR_9
+i,VAR_10

@@ -1,0 +1,11 @@
+be_evt_queues_create,FUNC_0
+be_mcc_queues_create,FUNC_1
+be_rx_cqs_create,FUNC_2
+be_tx_qs_create,FUNC_3
+dev_err,FUNC_4
+netif_set_real_num_rx_queues,FUNC_5
+netif_set_real_num_tx_queues,FUNC_6
+be_setup_queues,FUNC_7
+adapter,VAR_0
+netdev,VAR_1
+status,VAR_2

@@ -1,0 +1,12 @@
+ADM1025_REG_CONFIG,VAR_0
+ADM1025_REG_IN_MAX,FUNC_0
+ADM1025_REG_TEMP_HIGH,FUNC_1
+i2c_get_clientdata,FUNC_2
+i2c_smbus_read_byte_data,FUNC_3
+i2c_smbus_write_byte_data,FUNC_4
+vid_which_vrm,FUNC_5
+adm1025_init_client,FUNC_6
+client,VAR_1
+reg,VAR_2
+data,VAR_3
+i,VAR_4

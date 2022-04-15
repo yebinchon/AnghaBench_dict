@@ -1,0 +1,13 @@
+ETH_HLEN,VAR_0
+ETH_P_IP,VAR_1
+IPPROTO_UDP,VAR_2
+htons,FUNC_0
+ip_hdr,FUNC_1
+skb_reset_network_header,FUNC_2
+skb_reset_transport_header,FUNC_3
+skb_set_network_header,FUNC_4
+skb_set_transport_header,FUNC_5
+udp_hdr,FUNC_6
+jme_udpsum,FUNC_7
+skb,VAR_3
+csum,VAR_4

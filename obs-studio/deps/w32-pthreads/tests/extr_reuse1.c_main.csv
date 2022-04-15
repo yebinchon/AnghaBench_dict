@@ -1,0 +1,16 @@
+NUMTHREADS,VAR_0
+PTHREAD_CREATE_JOINABLE,VAR_1
+assert,FUNC_0
+func,VAR_2
+pthread_attr_init,FUNC_1
+pthread_attr_setdetachstate,FUNC_2
+pthread_create,FUNC_3
+pthread_equal,FUNC_4
+pthread_join,FUNC_5
+washere,VAR_3
+main,FUNC_6
+t,VAR_4
+last_t,VAR_5
+attr,VAR_6
+result,VAR_7
+i,VAR_8

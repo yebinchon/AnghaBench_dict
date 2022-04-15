@@ -1,0 +1,16 @@
+CTL_KERN,VAR_0
+KERN_PROC,VAR_1
+KERN_PROC_GROUPS,VAR_2
+_SC_NGROUPS_MAX,VAR_3
+free,FUNC_0
+malloc,FUNC_1
+nitems,FUNC_2
+sysconf,FUNC_3
+sysctl,FUNC_4
+warn,FUNC_5
+procstat_getgroups_sysctl,FUNC_6
+pid,VAR_4
+cntp,VAR_5
+mib,VAR_6
+len,VAR_7
+groups,VAR_8

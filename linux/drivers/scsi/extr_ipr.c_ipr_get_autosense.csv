@@ -1,0 +1,11 @@
+IPR_AUTOSENSE_VALID,VAR_0
+SCSI_SENSE_BUFFERSIZE,VAR_1
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+memcpy,FUNC_2
+min_t,FUNC_3
+u16,VAR_2
+ipr_get_autosense,FUNC_4
+ipr_cmd,VAR_3
+ioasa,VAR_4
+ioasa64,VAR_5

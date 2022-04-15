@@ -1,0 +1,16 @@
+GIT_ECONFLICT,VAR_0
+GIT_ENOTFOUND,VAR_1
+GIT_STASH_APPLY_OPTIONS_INIT,VAR_2
+GIT_STASH_APPLY_REINSTATE_INDEX,VAR_3
+GIT_STATUS_CURRENT,VAR_4
+GIT_STATUS_WT_NEW,VAR_5
+assert_status,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_fail_with,FUNC_2
+cl_git_mkfile,FUNC_3
+git_index_has_conflicts,FUNC_4
+git_stash_apply,FUNC_5
+repo,VAR_6
+repo_index,VAR_7
+test_stash_apply__conflict_untracked_with_reinstate_index,FUNC_6
+opts,VAR_8

@@ -1,0 +1,7 @@
+kvm_flush_remote_tlbs,FUNC_0
+kvm_mmu_flush_tlb,FUNC_1
+need_remote_flush,FUNC_2
+mmu_pte_write_flush_tlb,FUNC_3
+vcpu,VAR_0
+old,VAR_1
+new,VAR_2

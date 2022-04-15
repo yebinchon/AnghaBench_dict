@@ -1,0 +1,17 @@
+MLX4_CMPT_SHIFT,VAR_0
+MLX4_CMPT_TYPE_CQ,VAR_1
+MLX4_CMPT_TYPE_EQ,VAR_2
+MLX4_CMPT_TYPE_QP,VAR_3
+MLX4_CMPT_TYPE_SRQ,VAR_4
+MLX4_QP_REGION_FW,VAR_5
+mlx4_cleanup_icm_table,FUNC_0
+mlx4_init_icm_table,FUNC_1
+mlx4_is_master,FUNC_2
+mlx4_priv,FUNC_3
+mlx4_init_cmpt_table,FUNC_4
+dev,VAR_6
+cmpt_base,VAR_7
+cmpt_entry_sz,VAR_8
+priv,VAR_9
+err,VAR_10
+num_eqs,VAR_11

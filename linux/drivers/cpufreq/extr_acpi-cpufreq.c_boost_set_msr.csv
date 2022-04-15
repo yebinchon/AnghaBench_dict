@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+MSR_IA32_MISC_ENABLE,VAR_1
+MSR_IA32_MISC_ENABLE_TURBO_DISABLE,VAR_2
+MSR_K7_HWCR,VAR_3
+MSR_K7_HWCR_CPB_DIS,VAR_4
+boot_cpu_data,VAR_5
+rdmsrl,FUNC_0
+wrmsrl,FUNC_1
+boost_set_msr,FUNC_2
+enable,VAR_6
+msr_addr,VAR_7
+msr_mask,VAR_8
+val,VAR_9

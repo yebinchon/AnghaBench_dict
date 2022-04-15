@@ -1,0 +1,12 @@
+FLOW_CTRL_SCLK_RESUME,VAR_0
+FLOW_CTRL_WAITEVENT,VAR_1
+cpu_logical_map,FUNC_0
+cpumask_test_cpu,FUNC_1
+flowctrl_write_cpu_csr,FUNC_2
+flowctrl_write_cpu_halt,FUNC_3
+tegra_cpu_init_mask,VAR_2
+tegra_pmc_cpu_power_on,FUNC_4
+tegra114_boot_secondary,FUNC_5
+cpu,VAR_3
+idle,VAR_4
+ret,VAR_5

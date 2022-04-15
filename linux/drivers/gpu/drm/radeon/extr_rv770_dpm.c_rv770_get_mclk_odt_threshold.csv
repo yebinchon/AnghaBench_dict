@@ -1,0 +1,12 @@
+CHIP_RV710,VAR_0
+CHIP_RV730,VAR_1
+MEM_TYPE_DDR2,VAR_2
+MEM_TYPE_DDR3,VAR_3
+radeon_atom_get_memory_info,FUNC_0
+rv770_get_memory_module_index,FUNC_1
+rv770_get_pi,FUNC_2
+rv770_get_mclk_odt_threshold,FUNC_3
+rdev,VAR_4
+pi,VAR_5
+memory_module_index,VAR_6
+memory_info,VAR_7

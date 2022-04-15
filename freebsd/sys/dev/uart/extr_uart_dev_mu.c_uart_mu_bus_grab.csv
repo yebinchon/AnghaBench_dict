@@ -1,0 +1,9 @@
+AUX_MU_IER_REG,VAR_0
+IER_MASK_ALL,VAR_1
+__uart_setreg,FUNC_0
+uart_lock,FUNC_1
+uart_unlock,FUNC_2
+uart_mu_bus_grab,FUNC_3
+sc,VAR_2
+psc,VAR_3
+bas,VAR_4

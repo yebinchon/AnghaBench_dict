@@ -1,0 +1,14 @@
+CONFIG_BOOKE,VAR_0
+IS_ENABLED,FUNC_0
+PAGE_SHIFT,VAR_1
+PageCompound,FUNC_1
+__flush_dcache_icache,FUNC_2
+__flush_dcache_icache_phys,FUNC_3
+flush_dcache_icache_hugepage,FUNC_4
+kmap_atomic,FUNC_5
+kunmap_atomic,FUNC_6
+page_address,FUNC_7
+page_to_pfn,FUNC_8
+flush_dcache_icache_page,FUNC_9
+page,VAR_2
+start,VAR_3

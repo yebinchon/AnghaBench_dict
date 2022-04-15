@@ -1,0 +1,14 @@
+LIO_CMD_DEL_VLAN_FILTER,VAR_0
+bzero,FUNC_0
+if_getsoftc,FUNC_1
+lio_ctrl_cmd_completion,VAR_1
+lio_dev_err,FUNC_2
+lio_send_ctrl_pkt,FUNC_3
+lio_vlan_rx_kill_vid,FUNC_4
+arg,VAR_2
+ifp,VAR_3
+vid,VAR_4
+nctrl,VAR_5
+lio,VAR_6
+oct,VAR_7
+ret,VAR_8

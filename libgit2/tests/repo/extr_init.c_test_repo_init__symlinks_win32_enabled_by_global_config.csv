@@ -1,0 +1,15 @@
+GIT_CONFIG_LEVEL_LOCAL,VAR_0
+GIT_ENOTFOUND,VAR_1
+_repo,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_fail_with,FUNC_1
+cl_git_pass,FUNC_2
+cl_skip,FUNC_3
+create_tmp_global_config,FUNC_4
+git_config_free,FUNC_5
+git_config_get_bool,FUNC_6
+git_config_open_level,FUNC_7
+git_path_supports_symlinks,FUNC_8
+git_repository_config,FUNC_9
+git_repository_init,FUNC_10
+test_repo_init__symlinks_win32_enabled_by_global_config,FUNC_11

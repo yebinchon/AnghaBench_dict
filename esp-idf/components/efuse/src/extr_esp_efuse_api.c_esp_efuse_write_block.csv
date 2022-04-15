@@ -1,0 +1,13 @@
+EFUSE_BLK0,VAR_0
+EFUSE_BLK_MAX,VAR_1
+ESP_ERR_INVALID_ARG,VAR_2
+ESP_OK,VAR_3
+esp_efuse_write_field_blob,FUNC_0
+esp_efuse_write_block,FUNC_1
+blk,VAR_4
+src_key,VAR_5
+offset_in_bits,VAR_6
+size_bits,VAR_7
+err,VAR_8
+field_desc,VAR_9
+field,VAR_10

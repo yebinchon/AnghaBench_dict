@@ -1,0 +1,13 @@
+V4L2_BUF_TYPE_VIDEO_CAPTURE_MPLANE,VAR_0
+VB2_BUF_STATE_QUEUED,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+vb2_get_drv_priv,FUNC_2
+vdec_start_capture,FUNC_3
+vdec_start_output,FUNC_4
+venus_helper_buffers_done,FUNC_5
+vdec_start_streaming,FUNC_6
+q,VAR_2
+count,VAR_3
+inst,VAR_4
+ret,VAR_5

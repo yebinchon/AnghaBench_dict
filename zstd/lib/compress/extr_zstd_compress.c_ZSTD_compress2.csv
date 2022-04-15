@@ -1,0 +1,17 @@
+FORWARD_IF_ERROR,FUNC_0
+RETURN_ERROR,FUNC_1
+ZSTD_CCtx_reset,FUNC_2
+ZSTD_compressStream2_simpleArgs,FUNC_3
+ZSTD_e_end,VAR_0
+ZSTD_reset_session_only,VAR_1
+assert,FUNC_4
+dstSize_tooSmall,VAR_2
+ZSTD_compress2,FUNC_5
+cctx,VAR_3
+dst,VAR_4
+dstCapacity,VAR_5
+src,VAR_6
+srcSize,VAR_7
+oPos,VAR_8
+iPos,VAR_9
+result,VAR_10

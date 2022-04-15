@@ -1,0 +1,9 @@
+REQ_IDETAPE_WRITE,VAR_0
+idetape_queue_rw_tail,FUNC_0
+memset,FUNC_1
+min,FUNC_2
+idetape_pad_zeros,FUNC_3
+drive,VAR_1
+bcount,VAR_2
+tape,VAR_3
+count,VAR_4

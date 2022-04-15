@@ -1,0 +1,10 @@
+PCI_CAPABILITY_LIST,VAR_0
+PCI_CB_CAPABILITY_LIST,VAR_1
+PCI_STATUS,VAR_2
+PCI_STATUS_CAP_LIST,VAR_3
+pci_bus_read_config_word,FUNC_0
+__pci_bus_find_cap_start,FUNC_1
+bus,VAR_4
+devfn,VAR_5
+hdr_type,VAR_6
+status,VAR_7

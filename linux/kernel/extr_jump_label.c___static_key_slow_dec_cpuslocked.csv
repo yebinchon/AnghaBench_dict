@@ -1,0 +1,8 @@
+atomic_dec_and_test,FUNC_0
+jump_label_lock,FUNC_1
+jump_label_unlock,FUNC_2
+jump_label_update,FUNC_3
+lockdep_assert_cpus_held,FUNC_4
+static_key_slow_try_dec,FUNC_5
+__static_key_slow_dec_cpuslocked,FUNC_6
+key,VAR_0

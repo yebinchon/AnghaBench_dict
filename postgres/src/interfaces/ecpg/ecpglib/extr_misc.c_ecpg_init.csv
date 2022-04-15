@@ -1,0 +1,13 @@
+ECPG_NO_CONN,VAR_0
+ECPG_OUT_OF_MEMORY,VAR_1
+ECPG_SQLSTATE_CONNECTION_DOES_NOT_EXIST,VAR_2
+ECPG_SQLSTATE_ECPG_OUT_OF_MEMORY,VAR_3
+ECPGget_sqlca,FUNC_0
+ecpg_gettext,FUNC_1
+ecpg_init_sqlca,FUNC_2
+ecpg_raise,FUNC_3
+ecpg_init,FUNC_4
+con,VAR_4
+connection_name,VAR_5
+lineno,VAR_6
+sqlca,VAR_7

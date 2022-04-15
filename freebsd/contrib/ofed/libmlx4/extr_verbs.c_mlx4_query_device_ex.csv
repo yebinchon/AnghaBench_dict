@@ -1,0 +1,17 @@
+MLX4_QUERY_DEV_RESP_MASK_CORE_CLOCK_OFFSET,VAR_0
+ibv_cmd_query_device_ex,FUNC_0
+snprintf,FUNC_1
+to_mctx,FUNC_2
+mlx4_query_device_ex,FUNC_3
+context,VAR_1
+input,VAR_2
+attr,VAR_3
+attr_size,VAR_4
+mctx,VAR_5
+resp,VAR_6
+cmd,VAR_7
+raw_fw_ver,VAR_8
+sub_minor,VAR_9
+major,VAR_10
+minor,VAR_11
+err,VAR_12

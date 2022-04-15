@@ -1,0 +1,17 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+M_TEMP,VAR_2
+UICLASS_HID,VAR_3
+UQ_WMT_IGNORE,VAR_4
+USB_MODE_HOST,VAR_5
+device_get_ivars,FUNC_0
+free,FUNC_1
+usb_test_quirk,FUNC_2
+usbd_req_get_hid_desc,FUNC_3
+wmt_hid_parse,FUNC_4
+wmt_probe,FUNC_5
+dev,VAR_6
+uaa,VAR_7
+d_ptr,VAR_8
+d_len,VAR_9
+err,VAR_10

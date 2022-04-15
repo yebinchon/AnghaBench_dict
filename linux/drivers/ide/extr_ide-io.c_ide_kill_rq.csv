@@ -1,0 +1,15 @@
+BLK_STS_IOERR,VAR_0
+EIO,VAR_1
+IDE_DRV_ERROR_GENERAL,VAR_2
+ata_misc_request,FUNC_0
+blk_rq_bytes,FUNC_1
+blk_rq_is_passthrough,FUNC_2
+ide_complete_rq,FUNC_3
+ide_floppy,VAR_3
+ide_tape,VAR_4
+scsi_req,FUNC_4
+ide_kill_rq,FUNC_5
+drive,VAR_5
+rq,VAR_6
+drv_req,VAR_7
+media,VAR_8

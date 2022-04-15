@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+WPA_OUI_TYPE,VAR_1
+WPA_SELECTOR_LEN,VAR_2
+_WPA_IE_ID_,VAR_3
+le16_to_cpu,FUNC_0
+memcmp,FUNC_1
+r8712_get_wpa_cipher_suite,FUNC_2
+r8712_parse_wpa_ie,FUNC_3
+wpa_ie,VAR_4
+wpa_ie_len,VAR_5
+group_cipher,VAR_6
+pairwise_cipher,VAR_7
+i,VAR_8
+left,VAR_9
+count,VAR_10
+pos,VAR_11

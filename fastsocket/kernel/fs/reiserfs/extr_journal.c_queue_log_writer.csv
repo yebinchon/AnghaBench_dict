@@ -1,0 +1,17 @@
+J_WRITERS_QUEUED,VAR_0
+SB_JOURNAL,FUNC_0
+TASK_RUNNING,VAR_1
+TASK_UNINTERRUPTIBLE,VAR_2
+__set_current_state,FUNC_1
+add_wait_queue,FUNC_2
+current,VAR_3
+init_waitqueue_entry,FUNC_3
+remove_wait_queue,FUNC_4
+schedule,FUNC_5
+set_bit,FUNC_6
+set_current_state,FUNC_7
+test_bit,FUNC_8
+queue_log_writer,FUNC_9
+s,VAR_4
+wait,VAR_5
+journal,VAR_6

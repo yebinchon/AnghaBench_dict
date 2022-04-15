@@ -1,0 +1,14 @@
+INTEL_WAKEREF_BUG_ON,FUNC_0
+SINGLE_DEPTH_NESTING,VAR_0
+atomic_inc,FUNC_1
+atomic_read,FUNC_2
+mutex_lock_nested,FUNC_3
+mutex_unlock,FUNC_4
+rpm_get,FUNC_5
+rpm_put,FUNC_6
+smp_mb__before_atomic,FUNC_7
+stub1,FUNC_8
+unlikely,FUNC_9
+__intel_wakeref_get_first,FUNC_10
+wf,VAR_1
+err,VAR_2

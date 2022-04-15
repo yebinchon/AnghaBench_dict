@@ -1,0 +1,17 @@
+EXFAT_I,FUNC_0
+EXFAT_SB,FUNC_1
+IS_DIRSYNC,FUNC_2
+__lock_super,FUNC_3
+__unlock_super,FUNC_4
+current_time,FUNC_5
+exfat_sync_inode,FUNC_6
+ffsTruncateFile,FUNC_7
+i_size_read,FUNC_8
+mark_inode_dirty,FUNC_9
+exfat_truncate,FUNC_10
+inode,VAR_0
+old_size,VAR_1
+sb,VAR_2
+sbi,VAR_3
+p_fs,VAR_4
+err,VAR_5

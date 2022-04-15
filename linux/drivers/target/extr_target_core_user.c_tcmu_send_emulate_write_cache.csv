@@ -1,0 +1,12 @@
+TCMU_ATTR_WRITECACHE,VAR_0
+TCMU_CMD_RECONFIG_DEVICE,VAR_1
+nla_put_u8,FUNC_0
+nlmsg_free,FUNC_1
+tcmu_netlink_event_init,FUNC_2
+tcmu_netlink_event_send,FUNC_3
+tcmu_send_emulate_write_cache,FUNC_4
+udev,VAR_2
+val,VAR_3
+skb,VAR_4
+msg_header,VAR_5
+ret,VAR_6

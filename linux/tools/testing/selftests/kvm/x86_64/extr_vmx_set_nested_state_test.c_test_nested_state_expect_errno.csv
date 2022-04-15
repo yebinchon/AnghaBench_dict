@@ -1,0 +1,10 @@
+TEST_ASSERT,FUNC_0
+VCPU_ID,VAR_0
+errno,VAR_1
+strerror,FUNC_1
+vcpu_nested_state_set,FUNC_2
+test_nested_state_expect_errno,FUNC_3
+vm,VAR_2
+state,VAR_3
+expected_errno,VAR_4
+rv,VAR_5

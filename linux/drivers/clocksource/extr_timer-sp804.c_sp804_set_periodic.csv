@@ -1,0 +1,13 @@
+TIMER_CTRL,VAR_0
+TIMER_CTRL_32BIT,VAR_1
+TIMER_CTRL_ENABLE,VAR_2
+TIMER_CTRL_IE,VAR_3
+TIMER_CTRL_PERIODIC,VAR_4
+TIMER_LOAD,VAR_5
+clkevt_base,VAR_6
+clkevt_reload,VAR_7
+timer_shutdown,FUNC_0
+writel,FUNC_1
+sp804_set_periodic,FUNC_2
+evt,VAR_8
+ctrl,VAR_9

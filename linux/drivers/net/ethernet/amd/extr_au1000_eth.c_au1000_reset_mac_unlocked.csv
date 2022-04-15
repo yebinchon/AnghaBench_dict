@@ -1,0 +1,12 @@
+MAC_EN_CLOCK_ENABLE,VAR_0
+NUM_RX_DMA,VAR_1
+NUM_TX_DMA,VAR_2
+au1000_hard_stop,FUNC_0
+mdelay,FUNC_1
+netdev_priv,FUNC_2
+wmb,FUNC_3
+writel,FUNC_4
+au1000_reset_mac_unlocked,FUNC_5
+dev,VAR_3
+aup,VAR_4
+i,VAR_5

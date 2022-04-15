@@ -1,0 +1,9 @@
+MSR_HWP_REQUEST,VAR_0
+X86_FEATURE_HWP_EPP,VAR_1
+boot_cpu_has,FUNC_0
+intel_pstate_get_epb,FUNC_1
+rdmsrl_on_cpu,FUNC_2
+intel_pstate_get_epp,FUNC_3
+cpu_data,VAR_2
+hwp_req_data,VAR_3
+epp,VAR_4

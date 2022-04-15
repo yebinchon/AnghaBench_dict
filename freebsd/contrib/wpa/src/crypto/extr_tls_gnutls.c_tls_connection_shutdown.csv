@@ -1,0 +1,16 @@
+GNUTLS_CRD_CERTIFICATE,VAR_0
+GNUTLS_SHUT_RDWR,VAR_1
+MSG_INFO,VAR_2
+gnutls_bye,FUNC_0
+gnutls_credentials_set,FUNC_1
+gnutls_deinit,FUNC_2
+gnutls_session_set_data,FUNC_3
+gnutls_strerror,FUNC_4
+tls_gnutls_init_session,FUNC_5
+wpa_printf,FUNC_6
+wpabuf_free,FUNC_7
+tls_connection_shutdown,FUNC_8
+ssl_ctx,VAR_3
+conn,VAR_4
+global,VAR_5
+ret,VAR_6

@@ -1,0 +1,12 @@
+LMU_11BIT_LSB_MASK,VAR_0
+LMU_11BIT_MSB_SHIFT,VAR_1
+MAX_BRIGHTNESS_11BIT,VAR_2
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+ti_lmu_common_update_brightness,FUNC_2
+lmu_bank,VAR_3
+brightness,VAR_4
+regmap,VAR_5
+reg,VAR_6
+val,VAR_7
+ret,VAR_8

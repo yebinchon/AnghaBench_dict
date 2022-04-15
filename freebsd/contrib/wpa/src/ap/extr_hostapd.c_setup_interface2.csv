@@ -1,0 +1,16 @@
+AP_EVENT_DISABLED,VAR_0
+HAPD_IFACE_DISABLED,VAR_1
+MSG_DEBUG,VAR_2
+MSG_ERROR,VAR_3
+MSG_INFO,VAR_4
+eloop_terminate,FUNC_0
+hostapd_check_ht_capab,FUNC_1
+hostapd_get_hw_features,FUNC_2
+hostapd_select_hw_mode,FUNC_3
+hostapd_set_state,FUNC_4
+hostapd_setup_interface_complete,FUNC_5
+wpa_msg,FUNC_6
+wpa_printf,FUNC_7
+setup_interface2,FUNC_8
+iface,VAR_5
+ret,VAR_6

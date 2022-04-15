@@ -1,0 +1,16 @@
+ENTER,FUNC_0
+PAM_SAVED_CRED,VAR_0
+PAM_SUCCESS,VAR_1
+PAM_SYSTEM_ERR,VAR_2
+RETURNC,FUNC_1
+geteuid,FUNC_2
+pam_get_data,FUNC_3
+pam_set_data,FUNC_4
+setegid,FUNC_5
+seteuid,FUNC_6
+setgroups,FUNC_7
+openpam_restore_cred,FUNC_8
+pamh,VAR_3
+scred,VAR_4
+scredp,VAR_5
+r,VAR_6

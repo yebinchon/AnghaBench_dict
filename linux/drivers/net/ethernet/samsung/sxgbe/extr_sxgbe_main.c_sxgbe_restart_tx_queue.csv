@@ -1,0 +1,11 @@
+netdev_get_tx_queue,FUNC_0
+netif_tx_stop_queue,FUNC_1
+netif_tx_wake_queue,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+tx_free_ring_skbufs,FUNC_5
+sxgbe_restart_tx_queue,FUNC_6
+priv,VAR_0
+queue_num,VAR_1
+tx_ring,VAR_2
+dev_txq,VAR_3

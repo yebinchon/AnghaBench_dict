@@ -1,0 +1,14 @@
+BIT,FUNC_0
+SI5341_SYNTH_N_NUM,FUNC_1
+SI5341_SYNTH_N_PIBYP,VAR_0
+SI5341_SYNTH_N_UPD,FUNC_2
+regmap_update_bits,FUNC_3
+regmap_write,FUNC_4
+si5341_encode_44_32,FUNC_5
+si5341_synth_program,FUNC_6
+synth,VAR_1
+n_num,VAR_2
+n_den,VAR_3
+is_integer,VAR_4
+err,VAR_5
+index,VAR_6

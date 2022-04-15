@@ -1,0 +1,14 @@
+Anum_dimension_slice_dimension_id_range_start_range_end_idx_dimension_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CurrentMemoryContext,VAR_2
+DIMENSION_SLICE_DIMENSION_ID_RANGE_START_RANGE_END_IDX,VAR_3
+F_INT4EQ,VAR_4
+Int32GetDatum,FUNC_0
+RowExclusiveLock,VAR_5
+ScanKeyInit,FUNC_1
+dimension_slice_scan_limit_internal,FUNC_2
+dimension_slice_tuple_delete,VAR_6
+ts_dimension_slice_delete_by_dimension_id,FUNC_3
+dimension_id,VAR_7
+delete_constraints,VAR_8
+scankey,VAR_9

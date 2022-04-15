@@ -1,0 +1,15 @@
+MT_TXD_PKT_INFO_80211,VAR_0
+MT_TXD_PKT_INFO_WIV,VAR_1
+ep2dmaq,FUNC_0
+ieee80211_free_txskb,FUNC_1
+mt7601u_dma_skb_wrap_pkt,FUNC_2
+mt7601u_dma_submit_tx,FUNC_3
+q2ep,FUNC_4
+mt7601u_dma_enqueue_tx,FUNC_5
+dev,VAR_2
+skb,VAR_3
+wcid,VAR_4
+hw_q,VAR_5
+ep,VAR_6
+dma_flags,VAR_7
+ret,VAR_8

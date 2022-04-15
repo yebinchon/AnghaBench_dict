@@ -1,0 +1,12 @@
+JZ_AIC_CONF_ENABLE,VAR_0
+JZ_REG_AIC_CONF,VAR_1
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+jz4740_i2s_read,FUNC_2
+jz4740_i2s_write,FUNC_3
+snd_soc_dai_get_drvdata,FUNC_4
+jz4740_i2s_resume,FUNC_5
+dai,VAR_2
+i2s,VAR_3
+conf,VAR_4
+ret,VAR_5

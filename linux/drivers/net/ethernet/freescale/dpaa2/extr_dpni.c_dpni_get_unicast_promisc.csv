@@ -1,0 +1,13 @@
+DPNI_CMDID_GET_UNICAST_PROMISC,VAR_0
+ENABLE,VAR_1
+dpni_get_field,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpni_get_unicast_promisc,FUNC_3
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+en,VAR_5
+cmd,VAR_6
+rsp_params,VAR_7
+err,VAR_8

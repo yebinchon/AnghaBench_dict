@@ -1,0 +1,12 @@
+TTEVT_SYSCALL_ENTRY,VAR_0
+TTEVT_SYSCALL_RETURN,VAR_1
+TT_NIL,VAR_2
+TT_PROC_GET_EVENT_MASK,VAR_3
+TT_PROC_SET_EVENT_MASK,VAR_4
+call_ttrace,FUNC_0
+errno,VAR_5
+perror_with_name,FUNC_1
+hppa_disable_syscall_events,FUNC_2
+pid,VAR_6
+tt_status,VAR_7
+ttrace_events,VAR_8

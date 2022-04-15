@@ -1,0 +1,11 @@
+CMD_RETRIES,VAR_0
+MMC_CMD_AC,VAR_1
+MMC_RSP_R1,VAR_2
+MMC_SET_BLOCKLEN,VAR_3
+memset,FUNC_0
+mmc_wait_for_cmd,FUNC_1
+mmc_set_blocklen,FUNC_2
+sc,VAR_4
+len,VAR_5
+cmd,VAR_6
+err,VAR_7

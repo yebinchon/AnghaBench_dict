@@ -1,0 +1,15 @@
+CTR_RFC3686_BLOCK_SIZE,VAR_0
+CTR_RFC3686_IV_SIZE,VAR_1
+CTR_RFC3686_NONCE_SIZE,VAR_2
+ablk_perform,FUNC_0
+cpu_to_be32,FUNC_1
+crypto_ablkcipher_ctx,FUNC_2
+crypto_ablkcipher_reqtfm,FUNC_3
+memcpy,FUNC_4
+ablk_rfc3686_crypt,FUNC_5
+req,VAR_3
+tfm,VAR_4
+ctx,VAR_5
+iv,VAR_6
+info,VAR_7
+ret,VAR_8

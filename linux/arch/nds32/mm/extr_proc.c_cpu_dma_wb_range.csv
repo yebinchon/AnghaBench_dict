@@ -1,0 +1,14 @@
+CCTL_CMD_L2_PA_WB,VAR_0
+DCACHE,VAR_1
+L1_cache_info,VAR_2
+__nds32__msync_all,FUNC_0
+cpu_dcache_wb_range,FUNC_1
+cpu_l2cache_op,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+unlikely,FUNC_5
+cpu_dma_wb_range,FUNC_6
+start,VAR_3
+end,VAR_4
+line_size,VAR_5
+flags,VAR_6

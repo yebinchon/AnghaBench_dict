@@ -1,0 +1,9 @@
+NETXEN_BOOTLD_START,VAR_0
+NX_UNIFIED_ROMIMAGE,VAR_1
+NX_UNI_BOOTLD_IDX_OFF,VAR_2
+NX_UNI_DIR_SECT_BOOTLD,VAR_3
+cpu_to_le32,FUNC_0
+nx_get_data_desc,FUNC_1
+nx_get_bootld_offs,FUNC_2
+adapter,VAR_4
+offs,VAR_5

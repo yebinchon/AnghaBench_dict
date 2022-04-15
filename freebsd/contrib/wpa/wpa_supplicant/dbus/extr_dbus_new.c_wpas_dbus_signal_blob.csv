@@ -1,0 +1,15 @@
+DBUS_TYPE_INVALID,VAR_0
+DBUS_TYPE_STRING,VAR_1
+MSG_ERROR,VAR_2
+WPAS_DBUS_NEW_IFACE_INTERFACE,VAR_3
+dbus_connection_send,FUNC_0
+dbus_message_append_args,FUNC_1
+dbus_message_new_signal,FUNC_2
+dbus_message_unref,FUNC_3
+wpa_printf,FUNC_4
+wpas_dbus_signal_blob,FUNC_5
+wpa_s,VAR_4
+name,VAR_5
+sig_name,VAR_6
+iface,VAR_7
+msg,VAR_8

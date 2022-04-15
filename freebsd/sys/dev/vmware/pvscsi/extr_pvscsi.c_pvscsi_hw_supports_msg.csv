@@ -1,0 +1,8 @@
+PVSCSI_CMD_SETUP_MSG_RING,VAR_0
+PVSCSI_REG_OFFSET_COMMAND,VAR_1
+PVSCSI_REG_OFFSET_COMMAND_STATUS,VAR_2
+pvscsi_reg_read,FUNC_0
+pvscsi_reg_write,FUNC_1
+pvscsi_hw_supports_msg,FUNC_2
+sc,VAR_3
+status,VAR_4

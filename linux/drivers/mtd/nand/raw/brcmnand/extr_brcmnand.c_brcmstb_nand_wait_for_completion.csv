@@ -1,0 +1,16 @@
+NAND_CTRL_RDY,VAR_0
+NAND_POLL_STATUS_TIMEOUT_MS,VAR_1
+bcmnand_ctrl_poll_status,FUNC_0
+disable_ctrl_irqs,FUNC_1
+msecs_to_jiffies,FUNC_2
+nand_get_controller_data,FUNC_3
+nand_to_mtd,FUNC_4
+wait_for_completion_timeout,FUNC_5
+brcmstb_nand_wait_for_completion,FUNC_6
+chip,VAR_2
+host,VAR_3
+ctrl,VAR_4
+mtd,VAR_5
+err,VAR_6
+sts,VAR_7
+timeo,VAR_8

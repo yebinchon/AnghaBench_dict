@@ -1,0 +1,17 @@
+HCFG,VAR_0
+HCFG_DESCDMA,VAR_1
+HPRT0,VAR_2
+HPRT0_CONNDET,VAR_3
+HPRT0_ENA,VAR_4
+HPRT0_ENACHG,VAR_5
+HPRT0_OVRCURRCHG,VAR_6
+dev_vdbg,FUNC_0
+dwc2_hcd_connect,FUNC_1
+dwc2_hprt0_enable,FUNC_2
+dwc2_readl,FUNC_3
+dwc2_writel,FUNC_4
+dwc2_port_intr,FUNC_5
+hsotg,VAR_7
+hprt0,VAR_8
+hprt0_modify,VAR_9
+hcfg,VAR_10

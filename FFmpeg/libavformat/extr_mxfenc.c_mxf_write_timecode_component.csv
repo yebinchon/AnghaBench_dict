@@ -1,0 +1,16 @@
+AV_TIMECODE_FLAG_DROPFRAME,VAR_0
+TimecodeComponent,VAR_1
+avio_w8,FUNC_0
+avio_wb16,FUNC_1
+avio_wb64,FUNC_2
+klv_encode_ber_length,FUNC_3
+mxf_write_common_fields,FUNC_4
+mxf_write_local_tag,FUNC_5
+mxf_write_metadata_key,FUNC_6
+mxf_write_uuid,FUNC_7
+mxf_write_timecode_component,FUNC_8
+s,VAR_2
+st,VAR_3
+package,VAR_4
+mxf,VAR_5
+pb,VAR_6

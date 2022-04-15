@@ -1,0 +1,17 @@
+GetPhysHalf,FUNC_0
+SWAP_W,FUNC_1
+SetPhysByte,FUNC_2
+ide_bsy,FUNC_3
+ide_drq,FUNC_4
+ide_rdy,FUNC_5
+printf,FUNC_6
+strncpy,FUNC_7
+sync,FUNC_8
+ide_setup,FUNC_9
+extension,VAR_0
+desc,VAR_1
+identbuffer,VAR_2
+namebuf,VAR_3
+databuf,VAR_4
+in,VAR_5
+inwords,VAR_6

@@ -1,0 +1,13 @@
+NVME_FEAT_POWER_MANAGEMENT,VAR_0
+NVME_OPC_GET_FEATURES,VAR_1
+NVME_PASSTHROUGH_CMD,VAR_2
+err,FUNC_0
+errx,FUNC_1
+htole32,FUNC_2
+ioctl,FUNC_3
+memset,FUNC_4
+nvme_completion_is_error,FUNC_5
+printf,FUNC_6
+power_show,FUNC_7
+fd,VAR_3
+pt,VAR_4

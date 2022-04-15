@@ -1,0 +1,15 @@
+COMMAND_COMPLETE,VAR_0
+DID_OK,VAR_1
+DID_RESET,VAR_2
+FAILED,VAR_3
+NEEDS_RETRY,VAR_4
+SUCCESS,VAR_5
+TEST_UNIT_READY,VAR_6
+host_byte,FUNC_0
+msg_byte,FUNC_1
+scsi_check_sense,FUNC_2
+scsi_handle_queue_full,FUNC_3
+scsi_handle_queue_ramp_up,FUNC_4
+status_byte,FUNC_5
+scsi_eh_completed_normally,FUNC_6
+scmd,VAR_7

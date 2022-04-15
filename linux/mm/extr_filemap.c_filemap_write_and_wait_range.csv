@@ -1,0 +1,12 @@
+EIO,VAR_0
+WB_SYNC_ALL,VAR_1
+__filemap_fdatawrite_range,FUNC_0
+filemap_check_errors,FUNC_1
+filemap_fdatawait_range,FUNC_2
+mapping_needs_writeback,FUNC_3
+filemap_write_and_wait_range,FUNC_4
+mapping,VAR_2
+lstart,VAR_3
+lend,VAR_4
+err,VAR_5
+err2,VAR_6

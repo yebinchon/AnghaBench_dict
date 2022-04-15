@@ -1,0 +1,14 @@
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+cs4281_power,FUNC_3
+free,FUNC_4
+pcm_getdevinfo,FUNC_5
+pcm_unregister,FUNC_6
+cs4281_pci_detach,FUNC_7
+dev,VAR_3
+r,VAR_4
+sc,VAR_5

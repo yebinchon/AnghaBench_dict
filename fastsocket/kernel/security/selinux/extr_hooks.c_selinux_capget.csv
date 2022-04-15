@@ -1,0 +1,9 @@
+PROCESS__GETCAP,VAR_0
+cap_capget,FUNC_0
+current_has_perm,FUNC_1
+selinux_capget,FUNC_2
+target,VAR_1
+effective,VAR_2
+inheritable,VAR_3
+permitted,VAR_4
+error,VAR_5

@@ -1,0 +1,15 @@
+LIO_CN23XX_SLI_SCRATCH1,VAR_0
+LIO_DRV_NIC_APP,VAR_1
+device_get_softc,FUNC_0
+kproc_suspend,FUNC_1
+lio_destroy_resources,FUNC_2
+lio_dev_dbg,FUNC_3
+lio_dev_info,FUNC_4
+lio_free_device_mem,FUNC_5
+lio_read_csr64,FUNC_6
+lio_stop_nic_module,FUNC_7
+lio_write_csr64,FUNC_8
+lio_detach,FUNC_9
+dev,VAR_2
+oct_dev,VAR_3
+scratch1,VAR_4

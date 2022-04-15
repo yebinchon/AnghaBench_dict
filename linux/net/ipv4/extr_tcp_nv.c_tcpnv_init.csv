@@ -1,0 +1,12 @@
+BPF_SOCK_OPS_BASE_RTT,VAR_0
+HZ,VAR_1
+NV_INIT_RTT,VAR_2
+NV_MIN_CWND,VAR_3
+inet_csk_ca,FUNC_0
+jiffies,VAR_4
+tcp_call_bpf,FUNC_1
+tcpnv_reset,FUNC_2
+tcpnv_init,FUNC_3
+sk,VAR_5
+ca,VAR_6
+base_rtt,VAR_7

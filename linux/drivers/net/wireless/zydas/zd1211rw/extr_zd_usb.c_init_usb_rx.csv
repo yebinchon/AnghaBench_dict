@@ -1,0 +1,11 @@
+INIT_DELAYED_WORK,FUNC_0
+USB_SPEED_HIGH,VAR_0
+ZD_ASSERT,FUNC_1
+interface_to_usbdev,FUNC_2
+mutex_init,FUNC_3
+spin_lock_init,FUNC_4
+zd_rx_idle_timer_handler,VAR_1
+zd_usb_reset_rx_idle_timer_tasklet,VAR_2
+init_usb_rx,FUNC_5
+usb,VAR_3
+rx,VAR_4

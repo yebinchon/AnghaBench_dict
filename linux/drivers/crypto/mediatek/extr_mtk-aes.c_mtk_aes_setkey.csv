@@ -1,0 +1,14 @@
+AES_TFM_128BITS,VAR_0
+AES_TFM_192BITS,VAR_1
+AES_TFM_256BITS,VAR_2
+CRYPTO_TFM_RES_BAD_KEY_LEN,VAR_3
+EINVAL,VAR_4
+SIZE_IN_WORDS,FUNC_0
+crypto_ablkcipher_ctx,FUNC_1
+crypto_ablkcipher_set_flags,FUNC_2
+mtk_aes_write_state_le,FUNC_3
+mtk_aes_setkey,FUNC_4
+tfm,VAR_5
+key,VAR_6
+keylen,VAR_7
+ctx,VAR_8

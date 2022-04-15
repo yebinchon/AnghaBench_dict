@@ -1,0 +1,13 @@
+V3D_DRIVER_IRQS,VAR_0
+V3D_INTCTL,VAR_1
+V3D_INTENA,VAR_2
+V3D_WRITE,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_vc4_dev,FUNC_3
+vc4_cancel_bin_job,FUNC_4
+vc4_irq_finish_render_job,FUNC_5
+vc4_irq_reset,FUNC_6
+dev,VAR_3
+vc4,VAR_4
+irqflags,VAR_5

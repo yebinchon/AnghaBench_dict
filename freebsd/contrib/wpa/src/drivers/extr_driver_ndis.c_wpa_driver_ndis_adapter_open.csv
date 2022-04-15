@@ -1,0 +1,16 @@
+CloseHandle,FUNC_0
+DeviceIoControl,FUNC_1
+GetLastError,FUNC_2
+INVALID_HANDLE_VALUE,VAR_0
+IOCTL_NDISUIO_OPEN_DEVICE,VAR_1
+MAX_NDIS_DEVICE_NAME_LEN,VAR_2
+MSG_DEBUG,VAR_3
+MSG_ERROR,VAR_4
+PacketOpenAdapter,FUNC_3
+os_snprintf,FUNC_4
+os_strlen,FUNC_5
+wpa_hexdump_ascii,FUNC_6
+wpa_printf,FUNC_7
+wpa_driver_ndis_adapter_open,FUNC_8
+drv,VAR_5
+ifname,VAR_6

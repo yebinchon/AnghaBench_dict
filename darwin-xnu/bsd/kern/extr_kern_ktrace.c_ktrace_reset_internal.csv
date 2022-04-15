@@ -1,0 +1,15 @@
+KTRACE_KDEBUG,VAR_0
+KTRACE_KPERF,VAR_1
+KTRACE_STATE_BG,VAR_2
+KTRACE_STATE_FG,VAR_3
+KTRACE_STATE_OFF,VAR_4
+kdebug_reset,FUNC_0
+kperf_reset,FUNC_1
+ktrace_active_mask,VAR_5
+ktrace_keep_ownership_on_reset,VAR_6
+ktrace_promote_background,FUNC_2
+ktrace_release_ownership,FUNC_3
+ktrace_state,VAR_7
+should_notify_on_init,VAR_8
+ktrace_reset_internal,FUNC_4
+reset_mask,VAR_9

@@ -1,0 +1,15 @@
+imx258_start_streaming,FUNC_0
+imx258_stop_streaming,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+to_imx258,FUNC_7
+v4l2_get_subdevdata,FUNC_8
+imx258_set_stream,FUNC_9
+sd,VAR_0
+enable,VAR_1
+imx258,VAR_2
+client,VAR_3
+ret,VAR_4

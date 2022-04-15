@@ -1,0 +1,16 @@
+DRM_CONNECTOR_POLL_CONNECT,VAR_0
+DRM_CONNECTOR_POLL_DISCONNECT,VAR_1
+DRM_CONNECTOR_POLL_HPD,VAR_2
+ENODEV,VAR_3
+dev_err,FUNC_0
+drm_bridge_to_tfp410,FUNC_1
+drm_connector_attach_encoder,FUNC_2
+drm_connector_helper_add,FUNC_3
+drm_connector_init_with_ddc,FUNC_4
+drm_display_info_set_bus_formats,FUNC_5
+tfp410_con_funcs,VAR_4
+tfp410_con_helper_funcs,VAR_5
+tfp410_attach,FUNC_6
+bridge,VAR_6
+dvi,VAR_7
+ret,VAR_8

@@ -1,0 +1,11 @@
+DeviceIoControl,FUNC_0
+FALSE,VAR_0
+IOCTL_NDISUIO_QUERY_OID_VALUE,VAR_1
+NdisPhysicalMediumWirelessLan,VAR_2
+OID_GEN_PHYSICAL_MEDIUM,VAR_3
+TRUE,VAR_4
+IsWlanAdapter,FUNC_1
+hAdapter,VAR_5
+bSuccess,VAR_6
+dwBytesReturned,VAR_7
+QueryOid,VAR_8

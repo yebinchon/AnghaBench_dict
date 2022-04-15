@@ -1,0 +1,15 @@
+DATAOUT_CANNOT_RECOVER,VAR_0
+DATAOUT_NORMAL,VAR_1
+DATAOUT_WITHIN_COMMAND_RECOVERY,VAR_2
+be32_to_cpu,FUNC_0
+iscsit_dump_data_payload,FUNC_1
+ntoh24,FUNC_2
+pr_err,FUNC_3
+iscsit_dataout_check_datasn,FUNC_4
+cmd,VAR_3
+buf,VAR_4
+data_sn,VAR_5
+conn,VAR_6
+hdr,VAR_7
+payload_length,VAR_8
+seq,VAR_9

@@ -1,0 +1,8 @@
+NVME_STATUS_GET_DNR,FUNC_0
+NVME_STATUS_GET_SC,FUNC_1
+NVME_STATUS_GET_SCT,FUNC_2
+nvme_completion_is_retry,FUNC_3
+cpl,VAR_0
+sct,VAR_1
+sc,VAR_2
+dnr,VAR_3

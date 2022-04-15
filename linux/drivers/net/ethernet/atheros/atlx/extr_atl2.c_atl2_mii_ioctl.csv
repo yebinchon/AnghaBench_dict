@@ -1,0 +1,16 @@
+EFAULT,VAR_0
+EIO,VAR_1
+EOPNOTSUPP,VAR_2
+atl2_read_phy_reg,FUNC_0
+atl2_write_phy_reg,FUNC_1
+if_mii,FUNC_2
+netdev_priv,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+atl2_mii_ioctl,FUNC_6
+netdev,VAR_3
+ifr,VAR_4
+cmd,VAR_5
+adapter,VAR_6
+data,VAR_7
+flags,VAR_8

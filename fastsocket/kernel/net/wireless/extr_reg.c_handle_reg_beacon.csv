@@ -1,0 +1,14 @@
+IEEE80211_CHAN_NO_IBSS,VAR_0
+IEEE80211_CHAN_PASSIVE_SCAN,VAR_1
+WIPHY_FLAG_DISABLE_BEACON_HINTS,VAR_2
+likely,FUNC_0
+nl80211_send_beacon_hint_event,FUNC_1
+reg_is_world_roaming,FUNC_2
+handle_reg_beacon,FUNC_3
+wiphy,VAR_3
+chan_idx,VAR_4
+reg_beacon,VAR_5
+sband,VAR_6
+chan,VAR_7
+channel_changed,VAR_8
+chan_before,VAR_9

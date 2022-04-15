@@ -1,0 +1,16 @@
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+hci_conn_drop,FUNC_2
+hci_conn_put,FUNC_3
+hci_dev_get,FUNC_4
+hci_dev_put,FUNC_5
+memcpy,FUNC_6
+memset,FUNC_7
+mgmt_cmd_complete,FUNC_8
+clock_info_cmd_complete,FUNC_9
+cmd,VAR_0
+status,VAR_1
+conn,VAR_2
+rp,VAR_3
+hdev,VAR_4
+err,VAR_5

@@ -1,0 +1,15 @@
+AR9130_DEVID,VAR_0
+BUS_PROBE_DEFAULT,VAR_1
+ENXIO,VAR_2
+VENDOR_ATHEROS,VAR_3
+ath_hal_probe,FUNC_0
+device_get_name,FUNC_1
+device_get_unit,FUNC_2
+device_printf,FUNC_3
+device_set_desc,FUNC_4
+resource_int_value,FUNC_5
+ath_ahb_probe,FUNC_6
+dev,VAR_4
+vendor_id,VAR_5
+device_id,VAR_6
+devname,VAR_7

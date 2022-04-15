@@ -1,0 +1,14 @@
+EXT4_I,FUNC_0
+EXT4_SB,FUNC_1
+_RET_IP_,VAR_0
+ext4_mark_iloc_dirty,FUNC_2
+ext4_reserve_inode_write,FUNC_3
+ext4_try_to_expand_extra_isize,FUNC_4
+might_sleep,FUNC_5
+trace_ext4_mark_inode_dirty,FUNC_6
+ext4_mark_inode_dirty,FUNC_7
+handle,VAR_1
+inode,VAR_2
+iloc,VAR_3
+sbi,VAR_4
+err,VAR_5

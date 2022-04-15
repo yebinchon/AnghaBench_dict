@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+EBUSY,VAR_1
+pm_runtime_get_sync,FUNC_0
+pm_runtime_mark_last_busy,FUNC_1
+pm_runtime_put,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+pm_runtime_set_active,FUNC_4
+smiapp_start_streaming,FUNC_5
+smiapp_stop_streaming,FUNC_6
+to_smiapp_sensor,FUNC_7
+v4l2_get_subdevdata,FUNC_8
+smiapp_set_stream,FUNC_9
+subdev,VAR_2
+enable,VAR_3
+sensor,VAR_4
+client,VAR_5
+rval,VAR_6

@@ -1,0 +1,16 @@
+FABRIC_COMANDS_BLOCKED,VAR_0
+HBA_FLOGI_ISSUED,VAR_1
+LPFC_LINK_UP,VAR_2
+clear_bit,FUNC_0
+del_timer_sync,FUNC_1
+lpfc_create_vport_work_array,FUNC_2
+lpfc_destroy_vport_work_array,FUNC_3
+lpfc_linkup_port,FUNC_4
+lpfc_shost_from_vport,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+lpfc_linkup,FUNC_8
+phba,VAR_3
+vports,VAR_4
+i,VAR_5
+shost,VAR_6

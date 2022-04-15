@@ -1,0 +1,15 @@
+MP_VERBOSE,FUNC_0
+SEEK_FACTOR,VAR_0
+SEEK_FORCE,VAR_1
+STREAM_CTRL_GET_TIME_LENGTH,VAR_2
+STREAM_CTRL_SEEK_TO_TIME,VAR_3
+demux_seek,FUNC_1
+stream_control,FUNC_2
+stream_drop_buffers,FUNC_3
+d_seek,FUNC_4
+demuxer,VAR_4
+seek_pts,VAR_5
+flags,VAR_6
+p,VAR_7
+tmp,VAR_8
+seek_arg,VAR_9

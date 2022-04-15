@@ -1,0 +1,14 @@
+LOCOMO_CPSD,VAR_0
+LOCOMO_GPIO_LCD_MOD,VAR_1
+LOCOMO_GPIO_LCD_VEE_ON,VAR_2
+LOCOMO_GPIO_LCD_VSHA_ON,VAR_3
+LOCOMO_GPIO_LCD_VSHD_ON,VAR_4
+LOCOMO_TC,VAR_5
+locomo_gpio_set_dir,FUNC_0
+locomo_gpio_write,FUNC_1
+locomo_m62332_senddata,FUNC_2
+locomo_writel,FUNC_3
+locomolcd_dev,VAR_6
+mdelay,FUNC_4
+locomolcd_on,FUNC_5
+comadj,VAR_7

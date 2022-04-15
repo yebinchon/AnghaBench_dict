@@ -1,0 +1,17 @@
+SSB_BUSTYPE_SSB,VAR_0
+SSB_CHIPCO_CHIPSTAT,VAR_1
+SSB_CHIPCO_GPIOPULLDOWN,VAR_2
+SSB_CHIPCO_GPIOPULLUP,VAR_3
+SSB_CLKMODE_FAST,VAR_4
+calc_fast_powerup_delay,FUNC_0
+chipco_powercontrol_init,FUNC_1
+chipco_read32,FUNC_2
+chipco_write32,FUNC_3
+dev_dbg,FUNC_4
+spin_lock_init,FUNC_5
+ssb_chipco_set_clockmode,FUNC_6
+ssb_chipco_watchdog_get_max_timer,FUNC_7
+ssb_chipco_watchdog_ticks_per_ms,FUNC_8
+ssb_pmu_init,FUNC_9
+ssb_chipcommon_init,FUNC_10
+cc,VAR_5

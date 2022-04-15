@@ -1,0 +1,17 @@
+PP_MCLK,VAR_0
+PP_PCIE,VAR_1
+PP_SCLK,VAR_2
+smu7_fan_ctrl_reset_fan_speed_to_default,FUNC_0
+smu7_fan_ctrl_set_fan_speed_percent,FUNC_1
+smu7_force_clock_level,FUNC_2
+smu7_force_dpm_highest,FUNC_3
+smu7_force_dpm_lowest,FUNC_4
+smu7_get_profiling_clk,FUNC_5
+smu7_unforce_dpm_levels,FUNC_6
+smu7_force_dpm_level,FUNC_7
+hwmgr,VAR_3
+level,VAR_4
+ret,VAR_5
+sclk_mask,VAR_6
+mclk_mask,VAR_7
+pcie_mask,VAR_8

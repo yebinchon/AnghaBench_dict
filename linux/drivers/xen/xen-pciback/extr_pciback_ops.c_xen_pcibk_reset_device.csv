@@ -1,0 +1,13 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_INVALIDATE,VAR_1
+PCI_HEADER_TYPE_NORMAL,VAR_2
+pci_disable_device,FUNC_0
+pci_disable_msi,FUNC_1
+pci_disable_msix,FUNC_2
+pci_is_enabled,FUNC_3
+pci_read_config_word,FUNC_4
+pci_write_config_word,FUNC_5
+xen_pcibk_control_isr,FUNC_6
+xen_pcibk_reset_device,FUNC_7
+dev,VAR_3
+cmd,VAR_4

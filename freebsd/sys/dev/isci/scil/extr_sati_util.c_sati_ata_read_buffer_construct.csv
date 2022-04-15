@@ -1,0 +1,9 @@
+ATA_READ_BUFFER,VAR_0
+SATI_DATA_DIRECTION_IN,VAR_1
+SAT_PROTOCOL_PIO_DATA_IN,VAR_2
+sati_cb_get_h2d_register_fis_address,FUNC_0
+sati_set_ata_command,FUNC_1
+sati_ata_read_buffer_construct,FUNC_2
+ata_io,VAR_3
+sequence,VAR_4
+register_fis,VAR_5

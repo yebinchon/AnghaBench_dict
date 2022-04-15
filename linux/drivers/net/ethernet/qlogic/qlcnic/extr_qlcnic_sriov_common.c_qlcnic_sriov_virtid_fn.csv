@@ -1,0 +1,13 @@
+PCI_EXT_CAP_ID_SRIOV,VAR_0
+PCI_SRIOV_VF_OFFSET,VAR_1
+PCI_SRIOV_VF_STRIDE,VAR_2
+pci_find_ext_capability,FUNC_0
+pci_read_config_word,FUNC_1
+qlcnic_sriov_vf_check,FUNC_2
+qlcnic_sriov_virtid_fn,FUNC_3
+adapter,VAR_3
+vf_id,VAR_4
+dev,VAR_5
+pos,VAR_6
+stride,VAR_7
+offset,VAR_8

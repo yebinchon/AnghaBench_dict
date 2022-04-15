@@ -1,0 +1,8 @@
+CMD_INV_IOMMU_ALL_PAGES_ADDRESS,VAR_0
+build_inv_iommu_pages,FUNC_0
+iommu_completion_wait,FUNC_1
+iommu_queue_command,FUNC_2
+amd_iommu_flush_tlb_domid,FUNC_3
+iommu,VAR_1
+dom_id,VAR_2
+cmd,VAR_3

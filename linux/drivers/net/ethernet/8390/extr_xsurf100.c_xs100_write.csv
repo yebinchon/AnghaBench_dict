@@ -1,0 +1,16 @@
+NE_DATAPORT,VAR_0
+XS100_8390_DATA_AREA_SIZE,VAR_1
+XS100_8390_DATA_WRITE32_BASE,VAR_2
+dev_get_platdata,FUNC_0
+ei_outb,FUNC_1
+ei_outw,FUNC_2
+netdev_priv,FUNC_3
+to_platform_device,FUNC_4
+z_memcpy_toio32,FUNC_5
+xs100_write,FUNC_6
+dev,VAR_3
+src,VAR_4
+count,VAR_5
+ei_local,VAR_6
+pdev,VAR_7
+xs100,VAR_8

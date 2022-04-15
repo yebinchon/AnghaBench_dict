@@ -1,0 +1,15 @@
+BPF_PROG_TYPE_SOCKET_FILTER,VAR_0
+ENOENT,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+bpf_prog_get_type,FUNC_2
+bpf_prog_put,FUNC_3
+fput,FUNC_4
+kcm_attach,FUNC_5
+sockfd_lookup,FUNC_6
+kcm_attach_ioctl,FUNC_7
+sock,VAR_2
+info,VAR_3
+csock,VAR_4
+prog,VAR_5
+err,VAR_6

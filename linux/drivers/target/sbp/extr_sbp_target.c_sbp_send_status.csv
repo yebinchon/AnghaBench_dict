@@ -1,0 +1,13 @@
+EIO,VAR_0
+RCODE_COMPLETE,VAR_1
+TCODE_WRITE_BLOCK_REQUEST,VAR_2
+be32_to_cpu,FUNC_0
+pr_debug,FUNC_1
+sbp_run_request_transaction,FUNC_2
+target_put_sess_cmd,FUNC_3
+sbp_send_status,FUNC_4
+req,VAR_3
+rc,VAR_4
+ret,VAR_5
+length,VAR_6
+login,VAR_7

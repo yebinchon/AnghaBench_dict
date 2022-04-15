@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+MTK_CQDMA_INT_FLAG,VAR_2
+MTK_CQDMA_INT_FLAG_BIT,VAR_3
+disable_irq_nosync,FUNC_0
+mtk_dma_clr,FUNC_1
+mtk_dma_read,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+tasklet_schedule,FUNC_5
+mtk_cqdma_irq,FUNC_6
+irq,VAR_4
+devid,VAR_5
+cqdma,VAR_6
+ret,VAR_7
+schedule_tasklet,VAR_8
+i,VAR_9

@@ -1,0 +1,15 @@
+D_TLB,VAR_0
+PAGEALIGN,FUNC_0
+PSIZE,FUNC_1
+_PAGE_PPN_MASK,VAR_1
+__va,FUNC_2
+is_physical_mode,FUNC_3
+kvm_gpa_to_mpa,FUNC_4
+vhpt_lookup,FUNC_5
+vtlb_lookup,FUNC_6
+kvm_trans_pal_call_args,FUNC_7
+vcpu,VAR_2
+arg,VAR_3
+data,VAR_4
+gpa,VAR_5
+poff,VAR_6

@@ -1,0 +1,17 @@
+ItemPointerSetInvalid,FUNC_0
+MAIN_FORKNUM,VAR_0
+MemoryContextDelete,FUNC_1
+PageSetChecksumInplace,FUNC_2
+RelationNeedsWAL,FUNC_3
+RelationOpenSmgr,FUNC_4
+hash_seq_init,FUNC_5
+hash_seq_search,FUNC_6
+heap_sync,FUNC_7
+log_newpage,FUNC_8
+logical_end_heap_rewrite,FUNC_9
+raw_heap_insert,FUNC_10
+smgrextend,FUNC_11
+end_heap_rewrite,FUNC_12
+state,VAR_1
+seq_status,VAR_2
+unresolved,VAR_3

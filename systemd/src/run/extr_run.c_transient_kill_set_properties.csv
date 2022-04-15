@@ -1,0 +1,7 @@
+arg_send_sighup,VAR_0
+assert,FUNC_0
+bus_log_create_error,FUNC_1
+sd_bus_message_append,FUNC_2
+transient_kill_set_properties,FUNC_3
+m,VAR_1
+r,VAR_2

@@ -1,0 +1,10 @@
+REQ_OP_WRITE,VAR_0
+end_buffer_write_sync,VAR_1
+get_bh,FUNC_0
+lock_buffer,FUNC_1
+submit_bh,FUNC_2
+test_clear_buffer_dirty,FUNC_3
+unlock_buffer,FUNC_4
+write_dirty_buffer,FUNC_5
+bh,VAR_2
+op_flags,VAR_3

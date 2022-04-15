@@ -1,0 +1,10 @@
+CEPH_FEATURE_MSGR_KEEPALIVE2,VAR_0
+jiffies_to_timespec64,FUNC_0
+ktime_get_real_ts64,FUNC_1
+timespec64_add,FUNC_2
+timespec64_compare,FUNC_3
+ceph_con_keepalive_expired,FUNC_4
+con,VAR_1
+interval,VAR_2
+now,VAR_3
+ts,VAR_4

@@ -1,0 +1,17 @@
+EVTHREAD_ALLOC_LOCK,FUNC_0
+EVTHREAD_LOCKTYPE_RECURSIVE,VAR_0
+EV_PERSIST,VAR_1
+EV_READ,VAR_2
+event_add,FUNC_1
+event_assign,FUNC_2
+memset,FUNC_3
+mm_free,FUNC_4
+mm_malloc,FUNC_5
+server_port_ready_callback,VAR_3
+evdns_add_server_port_with_base,FUNC_6
+base,VAR_4
+socket,VAR_5
+flags,VAR_6
+cb,VAR_7
+user_data,VAR_8
+port,VAR_9

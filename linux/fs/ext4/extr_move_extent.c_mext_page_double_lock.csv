@@ -1,0 +1,16 @@
+AOP_FLAG_NOFS,VAR_0
+BUG_ON,FUNC_0
+ENOMEM,VAR_1
+grab_cache_page_write_begin,FUNC_1
+put_page,FUNC_2
+swap,FUNC_3
+unlock_page,FUNC_4
+wait_on_page_writeback,FUNC_5
+mext_page_double_lock,FUNC_6
+inode1,VAR_2
+inode2,VAR_3
+index1,VAR_4
+index2,VAR_5
+page,VAR_6
+mapping,VAR_7
+fl,VAR_8

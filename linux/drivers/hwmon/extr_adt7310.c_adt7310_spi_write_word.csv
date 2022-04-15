@@ -1,0 +1,10 @@
+AD7310_COMMAND,FUNC_0
+put_unaligned_be16,FUNC_1
+spi_write,FUNC_2
+to_spi_device,FUNC_3
+adt7310_spi_write_word,FUNC_4
+dev,VAR_0
+reg,VAR_1
+data,VAR_2
+spi,VAR_3
+buf,VAR_4

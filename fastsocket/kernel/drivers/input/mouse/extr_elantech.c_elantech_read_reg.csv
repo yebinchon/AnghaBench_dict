@@ -1,0 +1,14 @@
+ETP_PS2_CUSTOM_COMMAND,VAR_0
+ETP_REGISTER_READ,VAR_1
+PSMOUSE_CMD_GETINFO,VAR_2
+elantech_ps2_command,FUNC_0
+pr_err,FUNC_1
+ps2_command,FUNC_2
+psmouse_sliced_command,FUNC_3
+elantech_read_reg,FUNC_4
+psmouse,VAR_3
+reg,VAR_4
+val,VAR_5
+etd,VAR_6
+param,VAR_7
+rc,VAR_8

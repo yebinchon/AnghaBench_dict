@@ -1,0 +1,11 @@
+CH341_BIT_DTR,VAR_0
+CH341_BIT_RTS,VAR_1
+ch341_set_handshake,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+usb_get_serial_port_data,FUNC_3
+ch341_dtr_rts,FUNC_4
+port,VAR_2
+on,VAR_3
+priv,VAR_4
+flags,VAR_5

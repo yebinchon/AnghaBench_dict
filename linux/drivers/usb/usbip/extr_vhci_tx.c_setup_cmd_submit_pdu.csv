@@ -1,0 +1,14 @@
+USBIP_CMD_SUBMIT,VAR_0
+USBIP_DIR_IN,VAR_1
+USBIP_DIR_OUT,VAR_2
+memcpy,FUNC_0
+usb_pipedevice,FUNC_1
+usb_pipeendpoint,FUNC_2
+usb_pipein,FUNC_3
+usbip_dbg_vhci_tx,FUNC_4
+usbip_pack_pdu,FUNC_5
+setup_cmd_submit_pdu,FUNC_6
+pdup,VAR_3
+urb,VAR_4
+priv,VAR_5
+vdev,VAR_6

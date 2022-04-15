@@ -1,0 +1,17 @@
+CAM_REQ_CMP_ERR,VAR_0
+CAM_RESRC_UNAVAIL,VAR_1
+EAGAIN,VAR_2
+VTSCSI_ERROR,VAR_3
+VTSCSI_REQUEST,VAR_4
+vtscsi_dequeue_request,FUNC_0
+vtscsi_dprintf,FUNC_1
+vtscsi_enqueue_request,FUNC_2
+vtscsi_execute_reset_dev_cmd,FUNC_3
+vtscsi_freeze_simq,FUNC_4
+xpt_done,FUNC_5
+vtscsi_cam_reset_dev,FUNC_6
+sc,VAR_5
+ccb,VAR_6
+ccbh,VAR_7
+req,VAR_8
+error,VAR_9

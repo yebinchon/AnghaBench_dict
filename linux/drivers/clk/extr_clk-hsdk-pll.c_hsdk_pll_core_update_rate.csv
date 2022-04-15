@@ -1,0 +1,15 @@
+CORE_IF_CLK_THRESHOLD_HZ,VAR_0
+CREG_CORE_IF_CLK_DIV_1,VAR_1
+CREG_CORE_IF_CLK_DIV_2,VAR_2
+EINVAL,VAR_3
+ETIMEDOUT,VAR_4
+HSDK_PLL_MAX_LOCK_TIME,VAR_5
+hsdk_pll_is_err,FUNC_0
+hsdk_pll_is_locked,FUNC_1
+hsdk_pll_set_cfg,FUNC_2
+iowrite32,FUNC_3
+udelay,FUNC_4
+hsdk_pll_core_update_rate,FUNC_5
+clk,VAR_6
+rate,VAR_7
+cfg,VAR_8

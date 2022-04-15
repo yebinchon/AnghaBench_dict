@@ -1,0 +1,12 @@
+SAMSUNG_KEYIFCOL,VAR_0
+SAMSUNG_KEYIFCON,VAR_1
+SAMSUNG_KEYIFCON_INT_F_EN,VAR_2
+SAMSUNG_KEYIFCON_INT_R_EN,VAR_3
+clk_enable,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+samsung_keypad_start,FUNC_5
+keypad,VAR_4
+val,VAR_5

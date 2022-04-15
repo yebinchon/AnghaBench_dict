@@ -1,0 +1,15 @@
+FTDI_SIO_SET_FLOW_CTRL_REQUEST,VAR_0
+FTDI_SIO_SET_FLOW_CTRL_REQUEST_TYPE,VAR_1
+TIOCM_DTR,VAR_2
+TIOCM_RTS,VAR_3
+WDR_TIMEOUT,VAR_4
+clear_mctrl,FUNC_0
+dev_err,FUNC_1
+set_mctrl,FUNC_2
+usb_control_msg,FUNC_3
+usb_get_serial_port_data,FUNC_4
+usb_sndctrlpipe,FUNC_5
+ftdi_dtr_rts,FUNC_6
+port,VAR_5
+on,VAR_6
+priv,VAR_7

@@ -1,0 +1,10 @@
+DC_HPDx_INT_CONTROL,FUNC_0
+DC_HPDx_INT_POLARITY,VAR_0
+RADEON_HPD_NONE,VAR_1
+WREG32_AND,FUNC_1
+WREG32_OR,FUNC_2
+evergreen_hpd_sense,FUNC_3
+evergreen_hpd_set_polarity,FUNC_4
+rdev,VAR_2
+hpd,VAR_3
+connected,VAR_4

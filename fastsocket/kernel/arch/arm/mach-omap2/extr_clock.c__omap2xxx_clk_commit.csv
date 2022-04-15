@@ -1,0 +1,9 @@
+DELAYED_APP,VAR_0
+OMAP24XX_GR_MOD,VAR_1
+OMAP24XX_VALID_CONFIG,VAR_2
+OMAP2_PRCM_CLKCFG_CTRL_OFFSET,VAR_3
+cpu_is_omap24xx,FUNC_0
+prm_read_mod_reg,FUNC_1
+prm_write_mod_reg,FUNC_2
+_omap2xxx_clk_commit,FUNC_3
+clk,VAR_4

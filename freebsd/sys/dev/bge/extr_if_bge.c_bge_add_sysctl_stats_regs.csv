@@ -1,0 +1,13 @@
+BGE_SYSCTL_STAT_ADD64,FUNC_0
+CTLFLAG_RD,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_NODE,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+bge_add_sysctl_stats_regs,FUNC_3
+sc,VAR_2
+ctx,VAR_3
+parent,VAR_4
+tree,VAR_5
+child,VAR_6
+schild,VAR_7
+stats,VAR_8

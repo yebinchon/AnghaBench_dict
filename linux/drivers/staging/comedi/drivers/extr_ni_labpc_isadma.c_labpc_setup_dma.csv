@@ -1,0 +1,13 @@
+CMD3_DMAEN,VAR_0
+CMD3_DMATCINTEN,VAR_1
+TRIG_COUNT,VAR_2
+comedi_bytes_per_sample,FUNC_0
+comedi_isadma_program,FUNC_1
+labpc_suggest_transfer_size,FUNC_2
+labpc_setup_dma,FUNC_3
+dev,VAR_3
+s,VAR_4
+devpriv,VAR_5
+desc,VAR_6
+cmd,VAR_7
+sample_size,VAR_8

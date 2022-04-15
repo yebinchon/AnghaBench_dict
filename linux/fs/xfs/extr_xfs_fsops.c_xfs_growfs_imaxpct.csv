@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+M_RES,FUNC_0
+XFS_GROWFS_SPACE_RES,FUNC_1
+XFS_TRANS_RESERVE,VAR_1
+XFS_TRANS_SB_IMAXPCT,VAR_2
+xfs_trans_alloc,FUNC_2
+xfs_trans_commit,FUNC_3
+xfs_trans_mod_sb,FUNC_4
+xfs_trans_set_sync,FUNC_5
+xfs_growfs_imaxpct,FUNC_6
+mp,VAR_3
+imaxpct,VAR_4
+tp,VAR_5
+dpct,VAR_6
+error,VAR_7

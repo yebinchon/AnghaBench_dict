@@ -1,0 +1,9 @@
+__flush_tlb_all,FUNC_0
+flush_tlb_all_ipi,VAR_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+preempt_disable,FUNC_3
+preempt_enable,FUNC_4
+smp_call_function,FUNC_5
+smp_flush_tlb_all,FUNC_6
+flags,VAR_1

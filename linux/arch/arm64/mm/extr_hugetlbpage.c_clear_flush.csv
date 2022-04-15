@@ -1,0 +1,12 @@
+TLB_FLUSH_VMA,FUNC_0
+flush_tlb_range,FUNC_1
+pte_clear,FUNC_2
+clear_flush,FUNC_3
+mm,VAR_0
+addr,VAR_1
+ptep,VAR_2
+pgsize,VAR_3
+ncontig,VAR_4
+vma,VAR_5
+i,VAR_6
+saddr,VAR_7

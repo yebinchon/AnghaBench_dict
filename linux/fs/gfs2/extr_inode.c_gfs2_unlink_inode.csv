@@ -1,0 +1,15 @@
+GFS2_I,FUNC_0
+S_ISDIR,FUNC_1
+clear_nlink,FUNC_2
+current_time,FUNC_3
+d_inode,FUNC_4
+drop_nlink,FUNC_5
+gfs2_dir_del,FUNC_6
+gfs2_unlink_di,FUNC_7
+mark_inode_dirty,FUNC_8
+gfs2_unlink_inode,FUNC_9
+dip,VAR_0
+dentry,VAR_1
+inode,VAR_2
+ip,VAR_3
+error,VAR_4

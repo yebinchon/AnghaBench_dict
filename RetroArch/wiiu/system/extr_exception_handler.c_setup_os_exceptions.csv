@@ -1,0 +1,11 @@
+OSSetExceptionCallback,FUNC_0
+OS_EXCEPTION_TYPE_DSI,VAR_0
+OS_EXCEPTION_TYPE_ISI,VAR_1
+OS_EXCEPTION_TYPE_PROGRAM,VAR_2
+exception_dsi_cb,VAR_3
+exception_isi_cb,VAR_4
+exception_msgbuf,VAR_5
+exception_prog_cb,VAR_6
+malloc,FUNC_1
+test_os_exceptions,FUNC_2
+setup_os_exceptions,FUNC_3

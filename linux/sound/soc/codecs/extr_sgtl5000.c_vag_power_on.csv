@@ -1,0 +1,12 @@
+HP_POWER_EVENT,VAR_0
+SGTL5000_CHIP_ANA_POWER,VAR_1
+SGTL5000_HP_SEL_LINE_IN,VAR_2
+SGTL5000_VAG_POWERUP,VAR_3
+SGTL5000_VAG_POWERUP_DELAY,VAR_4
+hp_sel_input,FUNC_0
+msleep,FUNC_1
+snd_soc_component_read32,FUNC_2
+snd_soc_component_update_bits,FUNC_3
+vag_power_on,FUNC_4
+component,VAR_5
+source,VAR_6

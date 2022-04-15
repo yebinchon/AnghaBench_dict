@@ -1,0 +1,11 @@
+ACTAG_MASK,VAR_0
+ESRCH,VAR_1
+OCXL_DVSEC_AFU_CTRL_ACTAG_SUP,VAR_2
+find_dvsec_afu_ctrl,FUNC_0
+pci_read_config_word,FUNC_1
+get_actag_count,FUNC_2
+dev,VAR_3
+afu_idx,VAR_4
+actag,VAR_5
+pos,VAR_6
+actag_sup,VAR_7

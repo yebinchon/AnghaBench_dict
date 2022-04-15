@@ -1,0 +1,13 @@
+SWITCH_ATTR_PORT,VAR_0
+SWITCH_PORT_FLAG_TAGGED,VAR_1
+SWITCH_PORT_ID,VAR_2
+nla_nest_cancel,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put_flag,FUNC_3
+nla_put_u32,FUNC_4
+swconfig_send_port,FUNC_5
+cb,VAR_3
+arg,VAR_4
+port,VAR_5
+p,VAR_6

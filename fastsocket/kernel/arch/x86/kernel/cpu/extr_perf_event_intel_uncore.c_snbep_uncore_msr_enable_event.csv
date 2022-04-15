@@ -1,0 +1,8 @@
+EXTRA_REG_NONE,VAR_0
+SNBEP_PMON_CTL_EN,VAR_1
+wrmsrl,FUNC_0
+snbep_uncore_msr_enable_event,FUNC_1
+box,VAR_2
+event,VAR_3
+hwc,VAR_4
+reg1,VAR_5

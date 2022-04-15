@@ -1,0 +1,15 @@
+BUSID_SIZE,VAR_0
+MAX_BUSID,VAR_1
+STUB_BUSID_ADDED,VAR_2
+STUB_BUSID_ALLOC,VAR_3
+STUB_BUSID_REMOV,VAR_4
+busid_table,VAR_5
+busid_table_lock,VAR_6
+get_busid_idx,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+strlcpy,FUNC_3
+add_match_busid,FUNC_4
+busid,VAR_7
+i,VAR_8
+ret,VAR_9

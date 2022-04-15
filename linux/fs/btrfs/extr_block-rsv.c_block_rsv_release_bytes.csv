@@ -1,0 +1,14 @@
+btrfs_space_info_free_bytes_may_use,FUNC_0
+min,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+block_rsv_release_bytes,FUNC_4
+fs_info,VAR_0
+block_rsv,VAR_1
+dest,VAR_2
+num_bytes,VAR_3
+qgroup_to_release_ret,VAR_4
+space_info,VAR_5
+qgroup_to_release,VAR_6
+ret,VAR_7
+bytes_to_add,VAR_8

@@ -1,0 +1,9 @@
+PM_CLK_CTRL_REG,VAR_0
+PM_CLK_CTRL_REG_OFFSET_CPU_CLK_DIV,VAR_1
+PM_CLK_CTRL_REG_OFFSET_PLL_CPU_SEL,VAR_2
+__raw_readl,FUNC_0
+cns3xxx_cpu_clock,FUNC_1
+reg,VAR_3
+cpu,VAR_4
+cpu_sel,VAR_5
+div_sel,VAR_6

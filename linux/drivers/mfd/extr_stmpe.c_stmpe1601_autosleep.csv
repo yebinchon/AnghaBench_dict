@@ -1,0 +1,11 @@
+STMPE1601_AUTOSLEEP_TIMEOUT_MASK,VAR_0
+STMPE_IDX_SYS_CTRL2,VAR_1
+STPME1601_AUTOSLEEP_ENABLE,VAR_2
+__stmpe_set_bits,FUNC_0
+dev_err,FUNC_1
+stmpe_round_timeout,FUNC_2
+stmpe1601_autosleep,FUNC_3
+stmpe,VAR_3
+autosleep_timeout,VAR_4
+ret,VAR_5
+timeout,VAR_6

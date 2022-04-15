@@ -1,0 +1,16 @@
+A_XGM_RX_CTRL,VAR_0
+A_XGM_TX_CTRL,VAR_1
+CH_ALERT,FUNC_0
+FULL_INIT_DONE,VAR_2
+XGM_REG,FUNC_1
+cxgb3_wq,VAR_3
+queue_work,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+t3_cim_ctl_blk_read,FUNC_5
+t3_intr_disable,FUNC_6
+t3_sge_stop,FUNC_7
+t3_write_reg,FUNC_8
+t3_fatal_err,FUNC_9
+adapter,VAR_4
+fw_status,VAR_5

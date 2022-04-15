@@ -1,0 +1,16 @@
+CPU5WDT_ENABLE_REG,VAR_0
+CPU5WDT_INTERVAL,VAR_1
+CPU5WDT_MODE_REG,VAR_2
+CPU5WDT_RESET_REG,VAR_3
+CPU5WDT_TIME_A_REG,VAR_4
+CPU5WDT_TIME_B_REG,VAR_5
+cpu5wdt_device,VAR_6
+cpu5wdt_lock,VAR_7
+jiffies,VAR_8
+mod_timer,FUNC_0
+outb,FUNC_1
+port,VAR_9
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+cpu5wdt_start,FUNC_4
+flags,VAR_10

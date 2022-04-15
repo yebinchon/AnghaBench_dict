@@ -1,0 +1,16 @@
+CVMX_USB_BUSY,VAR_0
+CVMX_USB_INVALID_PARAM,VAR_1
+CVMX_USB_LOG_CALLED,FUNC_0
+CVMX_USB_LOG_PARAM,FUNC_1
+CVMX_USB_RETURN,FUNC_2
+CVMX_USB_SUCCESS,VAR_2
+MAX_PIPES,VAR_3
+__CVMX_USB_PIPE_FLAGS_OPEN,VAR_4
+__cvmx_usb_append_pipe,FUNC_3
+__cvmx_usb_remove_pipe,FUNC_4
+cvmx_unlikely,FUNC_5
+cvmx_usb_close_pipe,FUNC_6
+state,VAR_5
+pipe_handle,VAR_6
+usb,VAR_7
+pipe,VAR_8

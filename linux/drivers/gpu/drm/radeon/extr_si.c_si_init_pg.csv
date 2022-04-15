@@ -1,0 +1,12 @@
+RADEON_PG_SUPPORT_GFX_PG,VAR_0
+RADEON_PG_SUPPORT_SDMA,VAR_1
+RLC_CLEAR_STATE_RESTORE_BASE,VAR_2
+RLC_SAVE_AND_RESTORE_BASE,VAR_3
+WREG32,FUNC_0
+si_enable_dma_pg,FUNC_1
+si_enable_gfx_cgpg,FUNC_2
+si_init_ao_cu_mask,FUNC_3
+si_init_dma_pg,FUNC_4
+si_init_gfx_cgpg,FUNC_5
+si_init_pg,FUNC_6
+rdev,VAR_4

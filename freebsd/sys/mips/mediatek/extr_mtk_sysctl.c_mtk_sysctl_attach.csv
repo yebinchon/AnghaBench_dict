@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+MTK_SYSCTL_LOCK_INIT,FUNC_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_1
+device_get_softc,FUNC_2
+device_get_unit,FUNC_3
+device_printf,FUNC_4
+mtk_sysctl_detach,FUNC_5
+mtk_sysctl_sc,VAR_3
+mtk_sysctl_attach,FUNC_6
+dev,VAR_4
+sc,VAR_5

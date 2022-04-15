@@ -1,0 +1,16 @@
+BitBlt,FUNC_0
+GetCursorInfo,FUNC_1
+GetDC,FUNC_2
+LOG_WARNING,VAR_0
+ReleaseDC,FUNC_3
+SRCCOPY,VAR_1
+blog,FUNC_4
+dc_capture_get_dc,FUNC_5
+dc_capture_release_dc,FUNC_6
+draw_cursor,FUNC_7
+memset,FUNC_8
+dc_capture_capture,FUNC_9
+capture,VAR_2
+window,VAR_3
+hdc_target,VAR_4
+hdc,VAR_5

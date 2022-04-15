@@ -1,0 +1,17 @@
+IOMMU_PTE_PAGE,FUNC_0
+IOMMU_PTE_PRESENT,FUNC_1
+PM_LEVEL_INDEX,FUNC_2
+PM_LEVEL_PDE,FUNC_3
+PM_LEVEL_SIZE,FUNC_4
+get_zeroed_page,FUNC_5
+increase_address_space,FUNC_6
+virt_to_phys,FUNC_7
+alloc_pte,FUNC_8
+domain,VAR_0
+address,VAR_1
+end_lvl,VAR_2
+pte_page,VAR_3
+gfp,VAR_4
+pte,VAR_5
+page,VAR_6
+level,VAR_7

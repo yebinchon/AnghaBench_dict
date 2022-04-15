@@ -1,0 +1,11 @@
+pci_dev_put,FUNC_0
+pci_get_domain_bus_and_slot,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+MRST_MSG_READ32,FUNC_4
+domain,VAR_0
+port,VAR_1
+offset,VAR_2
+mcr,VAR_3
+ret_val,VAR_4
+pci_root,VAR_5

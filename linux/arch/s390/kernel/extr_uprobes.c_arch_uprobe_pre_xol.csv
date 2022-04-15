@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+PIF_PER_TRAP,VAR_1
+PSW_BITS_AMODE_24BIT,VAR_2
+PSW_BITS_AMODE_31BIT,VAR_3
+TIF_UPROBE_SINGLESTEP,VAR_4
+UPROBE_TRAP_NR,VAR_5
+clear_pt_regs_flag,FUNC_0
+current,VAR_6
+is_compat_task,FUNC_1
+psw_bits,FUNC_2
+set_tsk_thread_flag,FUNC_3
+update_cr_regs,FUNC_4
+arch_uprobe_pre_xol,FUNC_5
+auprobe,VAR_7
+regs,VAR_8

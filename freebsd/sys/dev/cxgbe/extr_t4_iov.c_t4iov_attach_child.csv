@@ -1,0 +1,13 @@
+MPASS,FUNC_0
+T4_READ_PORT_DEVICE,FUNC_1
+device_get_nameunit,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+pci_get_function,FUNC_5
+pci_iov_attach_name,FUNC_6
+pci_iov_schema_alloc_node,FUNC_7
+t4iov_attach_child,FUNC_8
+dev,VAR_0
+sc,VAR_1
+pdev,VAR_2
+error,VAR_3

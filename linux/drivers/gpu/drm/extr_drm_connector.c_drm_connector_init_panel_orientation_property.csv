@@ -1,0 +1,16 @@
+ARRAY_SIZE,FUNC_0
+DRM_MODE_PANEL_ORIENTATION_UNKNOWN,VAR_0
+DRM_MODE_PROP_IMMUTABLE,VAR_1
+ENOMEM,VAR_2
+drm_get_panel_orientation_quirk,FUNC_1
+drm_object_attach_property,FUNC_2
+drm_panel_orientation_enum_list,VAR_3
+drm_property_create_enum,FUNC_3
+drm_connector_init_panel_orientation_property,FUNC_4
+connector,VAR_4
+width,VAR_5
+height,VAR_6
+dev,VAR_7
+info,VAR_8
+prop,VAR_9
+orientation_quirk,VAR_10

@@ -1,0 +1,9 @@
+GFP_KERNEL,VAR_0
+IFF_UP,VAR_1
+NETDEV_CHANGE,VAR_2
+RTM_NEWLINK,VAR_3
+call_netdevice_notifiers_info,FUNC_0
+rtmsg_ifinfo,FUNC_1
+netdev_state_change,FUNC_2
+dev,VAR_4
+change_info,VAR_5

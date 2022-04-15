@@ -1,0 +1,14 @@
+TICKDEV_MODE_PERIODIC,VAR_0
+clockevents_shutdown,FUNC_0
+cpumask_clear_cpu,FUNC_1
+cpumask_empty,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+tick_broadcast_device,VAR_1
+tick_broadcast_lock,VAR_2
+tick_get_broadcast_mask,FUNC_5
+tick_shutdown_broadcast,FUNC_6
+cpup,VAR_3
+bc,VAR_4
+flags,VAR_5
+cpu,VAR_6

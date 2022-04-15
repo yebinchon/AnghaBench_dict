@@ -1,0 +1,12 @@
+SSB_CHIPCO_CAP_PCTL,VAR_0
+SSB_CHIPCO_CHIPCTL,VAR_1
+SSB_CHIPCO_FREFSELDELAY,VAR_2
+SSB_CHIPCO_PLLONDELAY,VAR_3
+SSB_CHIPCO_SYSCLKCTL,VAR_4
+chipco_pctl_clockfreqlimit,FUNC_0
+chipco_read32,FUNC_1
+chipco_write32,FUNC_2
+chipco_powercontrol_init,FUNC_3
+cc,VAR_5
+bus,VAR_6
+maxfreq,VAR_7

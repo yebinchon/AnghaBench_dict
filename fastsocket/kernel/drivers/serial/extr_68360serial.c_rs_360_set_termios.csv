@@ -1,0 +1,16 @@
+CBAUD,VAR_0
+CLOCAL,VAR_1
+CRTSCTS,VAR_2
+UART_MCR,VAR_3
+UART_MCR_DTR,VAR_4
+UART_MCR_RTS,VAR_5
+change_speed,FUNC_0
+local_irq_disable,FUNC_1
+local_irq_enable,FUNC_2
+rs_360_start,FUNC_3
+serial_out,FUNC_4
+wake_up_interruptible,FUNC_5
+rs_360_set_termios,FUNC_6
+tty,VAR_6
+old_termios,VAR_7
+info,VAR_8

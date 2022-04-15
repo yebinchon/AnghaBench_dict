@@ -1,0 +1,12 @@
+IICBUS_GET_FREQUENCY,FUNC_0
+LOCK,FUNC_1
+UNLOCK,FUNC_2
+device_get_softc,FUNC_3
+tegra_i2c_setup_clk,FUNC_4
+tegra_i2c_iicbus_reset,FUNC_5
+dev,VAR_0
+speed,VAR_1
+addr,VAR_2
+oldaddr,VAR_3
+sc,VAR_4
+busfreq,VAR_5

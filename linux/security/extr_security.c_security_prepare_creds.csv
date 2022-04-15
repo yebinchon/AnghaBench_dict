@@ -1,0 +1,10 @@
+call_int_hook,FUNC_0
+cred_prepare,VAR_0
+lsm_cred_alloc,FUNC_1
+security_cred_free,FUNC_2
+unlikely,FUNC_3
+security_prepare_creds,FUNC_4
+new,VAR_1
+old,VAR_2
+gfp,VAR_3
+rc,VAR_4

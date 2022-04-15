@@ -1,0 +1,11 @@
+OHCI_ISO_MULTICHANNEL_RECEIVE,VAR_0
+OHCI_ISO_TRANSMIT,VAR_1
+clear_bit,FUNC_0
+list_del,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+tasklet_kill,FUNC_4
+ohci1394_unregister_iso_tasklet,FUNC_5
+ohci,VAR_2
+tasklet,VAR_3
+flags,VAR_4

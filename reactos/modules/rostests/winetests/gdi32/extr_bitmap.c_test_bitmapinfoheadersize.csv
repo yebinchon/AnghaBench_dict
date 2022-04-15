@@ -1,0 +1,14 @@
+CreateDIBSection,FUNC_0
+DeleteObject,FUNC_1
+GetDC,FUNC_2
+GetLastError,FUNC_3
+ReleaseDC,FUNC_4
+SetLastError,FUNC_5
+broken,FUNC_6
+memset,FUNC_7
+ok,FUNC_8
+test_bitmapinfoheadersize,FUNC_9
+hdib,VAR_0
+bmi,VAR_1
+bci,VAR_2
+hdc,VAR_3

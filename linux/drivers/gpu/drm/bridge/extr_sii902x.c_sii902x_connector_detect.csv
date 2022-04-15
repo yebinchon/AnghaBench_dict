@@ -1,0 +1,13 @@
+SII902X_INT_STATUS,VAR_0
+SII902X_PLUGGED_STATUS,VAR_1
+connector_status_connected,VAR_2
+connector_status_disconnected,VAR_3
+connector_to_sii902x,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+regmap_read,FUNC_3
+sii902x_connector_detect,FUNC_4
+connector,VAR_4
+force,VAR_5
+sii902x,VAR_6
+status,VAR_7

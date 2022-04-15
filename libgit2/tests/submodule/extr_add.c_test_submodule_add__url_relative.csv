@@ -1,0 +1,15 @@
+assert_submodule_url,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_fail,FUNC_2
+cl_git_pass,FUNC_3
+cl_git_sandbox_init,FUNC_4
+g_repo,VAR_0
+git_remote_lookup,FUNC_5
+git_remote_rename,FUNC_6
+git_strarray_free,FUNC_7
+git_submodule_add_setup,FUNC_8
+git_submodule_free,FUNC_9
+test_submodule_add__url_relative,FUNC_10
+sm,VAR_1
+remote,VAR_2
+problems,VAR_3

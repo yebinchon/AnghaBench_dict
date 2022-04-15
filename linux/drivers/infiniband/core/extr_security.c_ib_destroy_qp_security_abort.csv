@@ -1,0 +1,10 @@
+check_qp_port_pkey_settings,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+port_pkey_list_insert,FUNC_3
+qp_to_error,FUNC_4
+wait_for_completion,FUNC_5
+ib_destroy_qp_security_abort,FUNC_6
+sec,VAR_0
+ret,VAR_1
+i,VAR_2

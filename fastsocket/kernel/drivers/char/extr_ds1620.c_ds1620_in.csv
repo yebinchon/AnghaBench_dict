@@ -1,0 +1,13 @@
+ds1620_recv_bits,FUNC_0
+ds1620_send_bits,FUNC_1
+netwinder_ds1620_reset,FUNC_2
+netwinder_ds1620_set_clk,FUNC_3
+netwinder_ds1620_set_data_dir,FUNC_4
+netwinder_lock,FUNC_5
+netwinder_unlock,FUNC_6
+udelay,FUNC_7
+ds1620_in,FUNC_8
+cmd,VAR_0
+bits,VAR_1
+flags,VAR_2
+value,VAR_3

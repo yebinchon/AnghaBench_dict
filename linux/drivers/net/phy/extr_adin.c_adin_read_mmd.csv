@@ -1,0 +1,13 @@
+ADIN1300_MII_EXT_REG_DATA,VAR_0
+ADIN1300_MII_EXT_REG_PTR,VAR_1
+__mdiobus_read,FUNC_0
+__mdiobus_write,FUNC_1
+adin_cl45_to_adin_reg,FUNC_2
+adin_read_mmd,FUNC_3
+phydev,VAR_2
+devad,VAR_3
+regnum,VAR_4
+bus,VAR_5
+phy_addr,VAR_6
+adin_regnum,VAR_7
+err,VAR_8

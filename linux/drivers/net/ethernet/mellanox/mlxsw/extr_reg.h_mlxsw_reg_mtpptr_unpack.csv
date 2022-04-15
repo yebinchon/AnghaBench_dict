@@ -1,0 +1,14 @@
+mlxsw_reg_mtpptr_rec_domain_number_get,FUNC_0
+mlxsw_reg_mtpptr_rec_message_type_get,FUNC_1
+mlxsw_reg_mtpptr_rec_sequence_id_get,FUNC_2
+mlxsw_reg_mtpptr_rec_timestamp_high_get,FUNC_3
+mlxsw_reg_mtpptr_rec_timestamp_low_get,FUNC_4
+mlxsw_reg_mtpptr_unpack,FUNC_5
+payload,VAR_0
+rec,VAR_1
+p_message_type,VAR_2
+p_domain_number,VAR_3
+p_sequence_id,VAR_4
+p_timestamp,VAR_5
+timestamp_high,VAR_6
+timestamp_low,VAR_7

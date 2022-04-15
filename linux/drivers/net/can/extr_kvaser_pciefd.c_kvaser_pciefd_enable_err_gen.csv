@@ -1,0 +1,10 @@
+KVASER_PCIEFD_KCAN_MODE_EPEN,VAR_0
+KVASER_PCIEFD_KCAN_MODE_REG,VAR_1
+ioread32,FUNC_0
+iowrite32,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+kvaser_pciefd_enable_err_gen,FUNC_4
+can,VAR_2
+mode,VAR_3
+irq,VAR_4

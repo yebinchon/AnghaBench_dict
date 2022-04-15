@@ -1,0 +1,17 @@
+HCD_HW_ACCESSIBLE,FUNC_0
+HC_STATE_HALT,VAR_0
+HUSB_TDListDone,VAR_1
+SOFEOP_FLG,FUNC_1
+SOF_EOP_IRQ_FLG,VAR_2
+c67x00_hcd_dev,FUNC_2
+c67x00_hcd_to_hcd,FUNC_3
+c67x00_ll_usb_clear_status,FUNC_4
+c67x00_sched_kick,FUNC_5
+dev_warn,FUNC_6
+unlikely,FUNC_7
+c67x00_hcd_irq,FUNC_8
+sie,VAR_3
+int_status,VAR_4
+msg,VAR_5
+c67x00,VAR_6
+hcd,VAR_7

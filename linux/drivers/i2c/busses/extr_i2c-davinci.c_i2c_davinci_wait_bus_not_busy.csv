@@ -1,0 +1,12 @@
+DAVINCI_I2C_STR_BB,VAR_0
+DAVINCI_I2C_STR_REG,VAR_1
+EIO,VAR_2
+davinci_i2c_read_reg,FUNC_0
+dev_warn,FUNC_1
+i2c_recover_bus,FUNC_2
+jiffies,VAR_3
+schedule_timeout_uninterruptible,FUNC_3
+time_before_eq,FUNC_4
+i2c_davinci_wait_bus_not_busy,FUNC_5
+dev,VAR_4
+timeout,VAR_5

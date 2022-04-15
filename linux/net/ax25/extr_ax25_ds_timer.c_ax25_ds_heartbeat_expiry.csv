@@ -1,0 +1,16 @@
+AX25_COND_ACK_PENDING,VAR_0
+AX25_COND_OWN_RX_BUSY,VAR_1
+SOCK_DEAD,VAR_2
+SOCK_DESTROY,VAR_3
+TCP_LISTEN,VAR_4
+atomic_read,FUNC_0
+ax25_destroy_socket,FUNC_1
+ax25_start_heartbeat,FUNC_2
+bh_lock_sock,FUNC_3
+bh_unlock_sock,FUNC_4
+sock_flag,FUNC_5
+sock_hold,FUNC_6
+sock_put,FUNC_7
+ax25_ds_heartbeat_expiry,FUNC_8
+ax25,VAR_5
+sk,VAR_6

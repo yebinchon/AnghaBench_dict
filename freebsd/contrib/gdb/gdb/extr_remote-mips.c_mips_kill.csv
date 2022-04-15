@@ -1,0 +1,17 @@
+RETURN_QUIT,VAR_0
+close_ports,FUNC_0
+interrupt_count,VAR_1
+mips_desc,VAR_2
+mips_is_open,VAR_3
+mips_wait_flag,VAR_4
+printf_unfiltered,FUNC_1
+query,FUNC_2
+remote_debug,VAR_5
+serial_send_break,FUNC_3
+serial_write,FUNC_4
+sleep,FUNC_5
+target_mourn_inferior,FUNC_6
+target_terminal_inferior,FUNC_7
+target_terminal_ours,FUNC_8
+throw_exception,FUNC_9
+mips_kill,FUNC_10

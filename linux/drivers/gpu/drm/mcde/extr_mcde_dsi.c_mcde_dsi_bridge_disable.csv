@@ -1,0 +1,14 @@
+DSI_MCTL_MAIN_DATA_CTL,VAR_0
+DSI_MCTL_MAIN_DATA_CTL_VID_EN,VAR_1
+DSI_VID_MODE_STS_CTL,VAR_2
+MIPI_DSI_MODE_VIDEO,VAR_3
+bridge_to_mcde_dsi,FUNC_0
+clk_disable_unprepare,FUNC_1
+mcde_dsi_wait_for_command_mode_stop,FUNC_2
+mcde_dsi_wait_for_video_mode_stop,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+mcde_dsi_bridge_disable,FUNC_6
+bridge,VAR_4
+d,VAR_5
+val,VAR_6

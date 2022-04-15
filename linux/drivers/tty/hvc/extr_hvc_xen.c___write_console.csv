@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+MASK_XENCONS_IDX,FUNC_1
+mb,FUNC_2
+notify_daemon,FUNC_3
+wmb,FUNC_4
+__write_console,FUNC_5
+xencons,VAR_0
+data,VAR_1
+len,VAR_2
+cons,VAR_3
+prod,VAR_4
+intf,VAR_5
+sent,VAR_6

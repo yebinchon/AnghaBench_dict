@@ -1,0 +1,13 @@
+CSR_READ_2,FUNC_0
+CSR_WRITE_2,FUNC_1
+EC_EepromAddress,FUNC_2
+EC_EepromOpcode,FUNC_3
+EC_OP_RR,VAR_0
+STGE_EepromCtrl,VAR_1
+STGE_EepromData,VAR_2
+device_printf,FUNC_4
+stge_eeprom_wait,FUNC_5
+stge_read_eeprom,FUNC_6
+sc,VAR_3
+offset,VAR_4
+data,VAR_5

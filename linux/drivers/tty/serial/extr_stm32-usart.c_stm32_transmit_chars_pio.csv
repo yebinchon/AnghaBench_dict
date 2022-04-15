@@ -1,0 +1,15 @@
+UART_XMIT_SIZE,VAR_0
+USART_CR3_DMAT,VAR_1
+USART_SR_TXE,VAR_2
+readl_relaxed,FUNC_0
+stm32_clr_bits,FUNC_1
+stm32_tx_interrupt_disable,FUNC_2
+stm32_tx_interrupt_enable,FUNC_3
+to_stm32_port,FUNC_4
+uart_circ_empty,FUNC_5
+writel_relaxed,FUNC_6
+stm32_transmit_chars_pio,FUNC_7
+port,VAR_3
+stm32_port,VAR_4
+ofs,VAR_5
+xmit,VAR_6

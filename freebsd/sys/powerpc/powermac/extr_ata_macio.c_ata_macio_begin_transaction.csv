@@ -1,0 +1,7 @@
+ATA_MACIO_TIMINGREG,VAR_0
+ata_begin_transaction,FUNC_0
+bus_write_4,FUNC_1
+device_get_softc,FUNC_2
+ata_macio_begin_transaction,FUNC_3
+request,VAR_1
+sc,VAR_2

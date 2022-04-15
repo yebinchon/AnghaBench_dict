@@ -1,0 +1,14 @@
+NETDEV_TX_OK,VAR_0
+TC_PRIO_FILLER,VAR_1
+__eql_schedule_slaves,FUNC_0
+dev_kfree_skb,FUNC_1
+dev_queue_xmit,FUNC_2
+netdev_priv,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+eql_slave_xmit,FUNC_6
+skb,VAR_2
+dev,VAR_3
+eql,VAR_4
+slave,VAR_5
+slave_dev,VAR_6

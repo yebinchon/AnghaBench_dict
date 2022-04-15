@@ -1,0 +1,14 @@
+DRIVER_MODESET,VAR_0
+drm_core_check_feature,FUNC_0
+drm_drop_master,FUNC_1
+drm_is_current_master,FUNC_2
+drm_lease_revoke,FUNC_3
+drm_legacy_lock_master_cleanup,FUNC_4
+drm_master_put,FUNC_5
+idr_remove,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+drm_master_release,FUNC_9
+file_priv,VAR_1
+dev,VAR_2
+master,VAR_3

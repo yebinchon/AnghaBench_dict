@@ -1,0 +1,17 @@
+C2H_WK_CID,VAR_0
+GEN_CMD_CODE,FUNC_0
+_FAIL,VAR_1
+_SUCCESS,VAR_2
+_Set_Drv_Extra,VAR_3
+init_h2fwcmd_w_parm_no_rsp,FUNC_1
+kfree,FUNC_2
+rtw_enqueue_cmd,FUNC_3
+rtw_zmalloc,FUNC_4
+rtw_c2h_packet_wk_cmd,FUNC_5
+padapter,VAR_4
+pbuf,VAR_5
+length,VAR_6
+ph2c,VAR_7
+pdrvextra_cmd_parm,VAR_8
+pcmdpriv,VAR_9
+res,VAR_10

@@ -1,0 +1,16 @@
+TSDB_CODE_VG_COMMITLOG_INIT_FAILED,VAR_0
+TSDB_CODE_VG_INIT_FAILED,VAR_1
+TSDB_STATUS_CREATING,VAR_2
+mkdir,FUNC_0
+sprintf,FUNC_1
+tsDirectory,VAR_3
+vnodeCreateMeterObjFile,FUNC_2
+vnodeInitStoreVnode,FUNC_3
+vnodeList,VAR_4
+vnodeOpenVnode,FUNC_4
+vnodeSaveVnodeCfg,FUNC_5
+vnodeCreateVnode,FUNC_6
+vnode,VAR_5
+pCfg,VAR_6
+pDesc,VAR_7
+fileName,VAR_8

@@ -1,0 +1,17 @@
+CD186x_RDCR,VAR_0
+CD186x_RDR,VAR_1
+SX_DEBUG_RX,VAR_2
+TTY_NORMAL,VAR_3
+dprintk,FUNC_0
+func_enter,FUNC_1
+func_exit,FUNC_2
+sx_get_port,FUNC_3
+sx_in,FUNC_4
+tty_buffer_request_room,FUNC_5
+tty_flip_buffer_push,FUNC_6
+tty_insert_flip_char,FUNC_7
+sx_receive,FUNC_8
+bp,VAR_4
+port,VAR_5
+tty,VAR_6
+count,VAR_7

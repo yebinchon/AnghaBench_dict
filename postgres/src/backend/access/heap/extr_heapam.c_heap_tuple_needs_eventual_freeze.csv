@@ -1,0 +1,11 @@
+HEAP_MOVED,VAR_0
+HEAP_XMAX_IS_MULTI,VAR_1
+HeapTupleHeaderGetRawXmax,FUNC_0
+HeapTupleHeaderGetXmin,FUNC_1
+HeapTupleHeaderGetXvac,FUNC_2
+MultiXactIdIsValid,FUNC_3
+TransactionIdIsNormal,FUNC_4
+heap_tuple_needs_eventual_freeze,FUNC_5
+tuple,VAR_2
+xid,VAR_3
+multi,VAR_4

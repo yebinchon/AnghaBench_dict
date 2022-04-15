@@ -1,0 +1,13 @@
+ExecFetchSlotHeapTuple,FUNC_0
+ItemPointerCopy,FUNC_1
+RelationGetRelid,FUNC_2
+heap_insert,FUNC_3
+pfree,FUNC_4
+heapam_tuple_insert,FUNC_5
+relation,VAR_0
+slot,VAR_1
+cid,VAR_2
+options,VAR_3
+bistate,VAR_4
+shouldFree,VAR_5
+tuple,VAR_6

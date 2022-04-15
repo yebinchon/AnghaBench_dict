@@ -1,0 +1,11 @@
+GET_FILE_FH,FUNC_0
+SPIFFS_SEEK_END,VAR_0
+SPIFFS_SEEK_SET,VAR_1
+SPIFFS_lseek,FUNC_1
+SPIFFS_tell,FUNC_2
+fh,VAR_2
+fs,VAR_3
+myspiffs_vfs_size,FUNC_3
+fd,VAR_4
+curpos,VAR_5
+size,VAR_6

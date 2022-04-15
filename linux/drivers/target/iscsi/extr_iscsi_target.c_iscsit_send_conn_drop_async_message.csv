@@ -1,0 +1,14 @@
+ISCSI_ASYNC_MSG_DROPPING_CONNECTION,VAR_0
+ISCSI_FLAG_CMD_FINAL,VAR_1
+ISCSI_OP_ASYNC_EVENT,VAR_2
+RESERVED_ITT,VAR_3
+atomic_read,FUNC_0
+cpu_to_be16,FUNC_1
+cpu_to_be32,FUNC_2
+pr_debug,FUNC_3
+put_unaligned_be64,FUNC_4
+stub1,FUNC_5
+iscsit_send_conn_drop_async_message,FUNC_6
+cmd,VAR_4
+conn,VAR_5
+hdr,VAR_6

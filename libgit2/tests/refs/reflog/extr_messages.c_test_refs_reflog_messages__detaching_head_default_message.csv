@@ -1,0 +1,11 @@
+GIT_HEAD_FILE,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_reflog_check_entry,FUNC_2
+g_repo,VAR_1
+git_reference_free,FUNC_3
+git_reference_symbolic_create,FUNC_4
+git_repository_detach_head,FUNC_5
+git_repository_head_detached,FUNC_6
+test_refs_reflog_messages__detaching_head_default_message,FUNC_7
+ref,VAR_2

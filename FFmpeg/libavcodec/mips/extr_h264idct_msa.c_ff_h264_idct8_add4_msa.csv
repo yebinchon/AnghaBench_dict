@@ -1,0 +1,11 @@
+ff_h264_idct8_addblk_msa,FUNC_0
+ff_h264_idct8_dc_addblk_msa,FUNC_1
+scan8,VAR_0
+ff_h264_idct8_add4_msa,FUNC_2
+dst,VAR_1
+blk_offset,VAR_2
+block,VAR_3
+dst_stride,VAR_4
+nzc,VAR_5
+cnt,VAR_6
+nnz,VAR_7

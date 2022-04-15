@@ -1,0 +1,14 @@
+ATF_REQUIRE_MSG,FUNC_0
+SOCK_STREAM,VAR_0
+SOL_SOCKET,VAR_1
+SO_REUSEPORT_LB,VAR_2
+errno,VAR_3
+setsockopt,FUNC_1
+socket,FUNC_2
+strerror,FUNC_3
+lb_listen_socket,FUNC_4
+domain,VAR_4
+flags,VAR_5
+one,VAR_6
+error,VAR_7
+sd,VAR_8

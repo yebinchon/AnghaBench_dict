@@ -1,0 +1,14 @@
+BPF_SK_STORAGE_GET_F_CREATE,VAR_0
+BPF_SOCK_OPS_RTT_CB,VAR_1
+BPF_SOCK_OPS_RTT_CB_FLAG,VAR_2
+BPF_SOCK_OPS_TCP_CONNECT_CB,VAR_3
+bpf_sk_storage_get,FUNC_0
+bpf_sock_ops_cb_flags_set,FUNC_1
+bpf_tcp_sock,FUNC_2
+socket_storage_map,VAR_4
+_sockops,FUNC_3
+ctx,VAR_5
+storage,VAR_6
+tcp_sk,VAR_7
+op,VAR_8
+sk,VAR_9

@@ -1,0 +1,17 @@
+DECLARE_WAIT_QUEUE_HEAD_ONSTACK,FUNC_0
+MAX_FWI,VAR_0
+NFC_HCI_HCP_COMMAND,VAR_1
+ew_wq,VAR_2
+kfree_skb,FUNC_1
+nfc_hci_execute_cb,VAR_3
+nfc_hci_hcp_message_tx,FUNC_2
+pr_debug,FUNC_3
+wait_event,FUNC_4
+nfc_hci_execute_cmd,FUNC_5
+hdev,VAR_4
+pipe,VAR_5
+cmd,VAR_6
+param,VAR_7
+param_len,VAR_8
+skb,VAR_9
+hcp_ew,VAR_10

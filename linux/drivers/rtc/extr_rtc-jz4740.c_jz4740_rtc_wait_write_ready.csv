@@ -1,0 +1,8 @@
+EIO,VAR_0
+JZ_REG_RTC_CTRL,VAR_1
+JZ_RTC_CTRL_WRDY,VAR_2
+jz4740_rtc_reg_read,FUNC_0
+jz4740_rtc_wait_write_ready,FUNC_1
+rtc,VAR_3
+ctrl,VAR_4
+timeout,VAR_5

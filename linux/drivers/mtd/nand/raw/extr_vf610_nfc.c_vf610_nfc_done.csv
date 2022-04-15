@@ -1,0 +1,12 @@
+IDLE_EN_BIT,VAR_0
+NFC_FLASH_CMD2,VAR_1
+NFC_IRQ_STATUS,VAR_2
+START_BIT,VAR_3
+dev_warn,FUNC_0
+msecs_to_jiffies,FUNC_1
+vf610_nfc_clear_status,FUNC_2
+vf610_nfc_set,FUNC_3
+wait_for_completion_timeout,FUNC_4
+vf610_nfc_done,FUNC_5
+nfc,VAR_4
+timeout,VAR_5

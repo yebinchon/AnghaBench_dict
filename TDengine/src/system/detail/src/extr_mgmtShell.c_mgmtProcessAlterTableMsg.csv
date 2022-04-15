@@ -1,0 +1,17 @@
+TSDB_CODE_APP_ERROR,VAR_0
+TSDB_CODE_DB_NOT_SELECTED,VAR_1
+TSDB_CODE_NO_RIGHTS,VAR_2
+TSDB_MSG_TYPE_ALTER_TABLE_RSP,VAR_3
+htons,FUNC_0
+mError,FUNC_1
+mLPrint,FUNC_2
+mgmtAlterMeter,FUNC_3
+mgmtCheckRedirectMsg,FUNC_4
+taosSendSimpleRsp,FUNC_5
+mgmtProcessAlterTableMsg,FUNC_6
+pMsg,VAR_4
+msgLen,VAR_5
+pConn,VAR_6
+pAlter,VAR_7
+code,VAR_8
+i,VAR_9

@@ -1,0 +1,13 @@
+BSP,VAR_0
+USERBOOT_EXIT_QUIT,VAR_1
+VM_REG_GUEST_GDTR,VAR_2
+cb_exit,FUNC_0
+ctx,VAR_3
+gdtbase,VAR_4
+perror,FUNC_1
+vm_set_desc,FUNC_2
+cb_setgdt,FUNC_3
+arg,VAR_5
+base,VAR_6
+size,VAR_7
+error,VAR_8

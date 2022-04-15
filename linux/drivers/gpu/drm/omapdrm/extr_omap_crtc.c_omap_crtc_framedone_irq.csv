@@ -1,0 +1,10 @@
+drm_crtc_send_vblank_event,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+stub1,FUNC_3
+to_omap_crtc,FUNC_4
+wake_up,FUNC_5
+omap_crtc_framedone_irq,FUNC_6
+crtc,VAR_0
+irqstatus,VAR_1
+omap_crtc,VAR_2

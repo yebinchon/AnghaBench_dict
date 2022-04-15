@@ -1,0 +1,17 @@
+BIT_CLEAR,FUNC_0
+BIT_SET,FUNC_1
+RETRO_DEVICE_KEYBOARD,VAR_0
+WL_KEYBOARD_KEY_STATE_PRESSED,VAR_1
+WL_KEYBOARD_KEY_STATE_RELEASED,VAR_2
+handle_xkb,FUNC_2
+input_keyboard_event,FUNC_3
+input_keymaps_translate_keysym_to_rk,FUNC_4
+keyboard_handle_key,FUNC_5
+data,VAR_3
+keyboard,VAR_4
+serial,VAR_5
+time,VAR_6
+key,VAR_7
+state,VAR_8
+value,VAR_9
+wl,VAR_10

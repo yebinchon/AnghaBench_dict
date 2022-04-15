@@ -1,0 +1,10 @@
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+hv_kbd_detach1,FUNC_2
+hv_kbd_drv_detach,FUNC_3
+hv_kbd_fini,FUNC_4
+vmbus_xact_ctx_destroy,FUNC_5
+hv_kbd_detach,FUNC_6
+dev,VAR_0
+ret,VAR_1
+sc,VAR_2

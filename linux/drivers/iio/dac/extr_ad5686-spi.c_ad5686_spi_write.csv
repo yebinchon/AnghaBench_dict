@@ -1,0 +1,17 @@
+AD5310_CMD,FUNC_0
+AD5683_DATA,FUNC_1
+AD5686_ADDR,FUNC_2
+AD5686_CMD,FUNC_3
+EINVAL,VAR_0
+cpu_to_be16,FUNC_4
+cpu_to_be32,FUNC_5
+spi_write,FUNC_6
+to_spi_device,FUNC_7
+ad5686_spi_write,FUNC_8
+st,VAR_1
+cmd,VAR_2
+addr,VAR_3
+val,VAR_4
+spi,VAR_5
+tx_len,VAR_6
+buf,VAR_7

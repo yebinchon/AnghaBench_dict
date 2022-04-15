@@ -1,0 +1,16 @@
+FLUSH_SYNC,VAR_0
+I_DIRTY_DATASYNC,VAR_1
+NFS_I,FUNC_0
+PAGECACHE_TAG_WRITEBACK,VAR_2
+WB_SYNC_NONE,VAR_3
+__mark_inode_dirty,FUNC_1
+__nfs_commit_inode,FUNC_2
+atomic_long_read,FUNC_3
+atomic_read,FUNC_4
+mapping_tagged,FUNC_5
+nfs_write_inode,FUNC_6
+inode,VAR_4
+wbc,VAR_5
+nfsi,VAR_6
+flags,VAR_7
+ret,VAR_8

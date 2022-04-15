@@ -1,0 +1,11 @@
+BHND_CLOCK_HT,VAR_0
+ENODEV,VAR_1
+ENXIO,VAR_2
+bhndb_disable_pci_clocks,FUNC_0
+bhndb_is_pcie_attached,FUNC_1
+device_get_softc,FUNC_2
+bhndb_pci_pwrctl_gate_clock,FUNC_3
+dev,VAR_3
+child,VAR_4
+clock,VAR_5
+sc,VAR_6

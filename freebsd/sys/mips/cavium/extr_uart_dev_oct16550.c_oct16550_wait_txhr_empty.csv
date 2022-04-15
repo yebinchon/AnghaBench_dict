@@ -1,0 +1,10 @@
+DELAY,FUNC_0
+LSR_THRE,VAR_0
+REG_LSR,VAR_1
+REG_USR,VAR_2
+USR_TXFIFO_NOTFULL,VAR_3
+uart_getreg,FUNC_1
+oct16550_wait_txhr_empty,FUNC_2
+bas,VAR_4
+limit,VAR_5
+delay,VAR_6

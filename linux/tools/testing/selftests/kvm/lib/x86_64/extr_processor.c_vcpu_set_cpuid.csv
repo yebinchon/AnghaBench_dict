@@ -1,0 +1,11 @@
+KVM_SET_CPUID2,VAR_0
+TEST_ASSERT,FUNC_0
+errno,VAR_1
+ioctl,FUNC_1
+vcpu_find,FUNC_2
+vcpu_set_cpuid,FUNC_3
+vm,VAR_2
+vcpuid,VAR_3
+cpuid,VAR_4
+vcpu,VAR_5
+rc,VAR_6

@@ -1,0 +1,10 @@
+PCIB_POWER_FOR_SLEEP,FUNC_0
+device_get_parent,FUNC_1
+device_is_attached,FUNC_2
+pci_set_powerstate,FUNC_3
+pci_set_power_child,FUNC_4
+dev,VAR_0
+child,VAR_1
+state,VAR_2
+pcib,VAR_3
+dstate,VAR_4

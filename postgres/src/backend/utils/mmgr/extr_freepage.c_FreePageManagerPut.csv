@@ -1,0 +1,12 @@
+Assert,FUNC_0
+FreePageBtreeCleanup,FUNC_1
+FreePageManagerLargestContiguous,FUNC_2
+FreePageManagerPutInternal,FUNC_3
+FreePageManagerUpdateLargest,FUNC_4
+sum_free_pages,FUNC_5
+FreePageManagerPut,FUNC_6
+fpm,VAR_0
+first_page,VAR_1
+npages,VAR_2
+contiguous_pages,VAR_3
+cleanup_contiguous_pages,VAR_4

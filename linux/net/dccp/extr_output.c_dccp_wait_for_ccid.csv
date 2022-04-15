@@ -1,0 +1,15 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+current,VAR_1
+finish_wait,FUNC_1
+lock_sock,FUNC_2
+prepare_to_wait,FUNC_3
+release_sock,FUNC_4
+schedule_timeout,FUNC_5
+signal_pending,FUNC_6
+sk_sleep,FUNC_7
+wait,VAR_2
+dccp_wait_for_ccid,FUNC_8
+sk,VAR_3
+delay,VAR_4
+remaining,VAR_5

@@ -1,0 +1,16 @@
+BTA_GATTC_GET_ADDR_LIST_EVT,VAR_0
+BTA_GATT_ERROR,VAR_1
+BTA_GATT_NOT_FOUND,VAR_2
+BTA_GATT_OK,VAR_3
+bta_gattc_cl_get_regcb,FUNC_0
+bta_gattc_co_get_addr_list,FUNC_1
+bta_gattc_co_get_addr_num,FUNC_2
+osi_free,FUNC_3
+osi_malloc,FUNC_4
+stub1,FUNC_5
+bta_gattc_process_api_cache_get_addr_list,FUNC_6
+p_cb,VAR_4
+p_msg,VAR_5
+gattc_cb,VAR_6
+p_clrcb,VAR_7
+num_addr,VAR_8

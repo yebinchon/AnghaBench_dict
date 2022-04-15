@@ -1,0 +1,14 @@
+PCI_DOMAINMAX,VAR_0
+PCI_RES_BUS,VAR_1
+device_get_unit,FUNC_0
+pci_domain_alloc_bus,FUNC_1
+pcib_alloc_resource,FUNC_2
+vmd_alloc_resource,FUNC_3
+dev,VAR_2
+child,VAR_3
+type,VAR_4
+rid,VAR_5
+start,VAR_6
+end,VAR_7
+count,VAR_8
+flags,VAR_9

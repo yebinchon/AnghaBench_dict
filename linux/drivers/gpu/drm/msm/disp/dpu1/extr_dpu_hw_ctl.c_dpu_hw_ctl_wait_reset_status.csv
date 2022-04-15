@@ -1,0 +1,11 @@
+CTL_SW_RESET,VAR_0
+DPU_REG_READ,FUNC_0
+DPU_REG_RESET_TIMEOUT_US,VAR_1
+EINVAL,VAR_2
+dpu_hw_ctl_poll_reset_status,FUNC_1
+pr_debug,FUNC_2
+pr_err,FUNC_3
+dpu_hw_ctl_wait_reset_status,FUNC_4
+ctx,VAR_3
+c,VAR_4
+status,VAR_5

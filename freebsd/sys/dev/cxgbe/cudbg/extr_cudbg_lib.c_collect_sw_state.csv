@@ -1,0 +1,16 @@
+A_PCIE_FW,VAR_0
+compress_buff,FUNC_0
+get_scratch_buff,FUNC_1
+release_scratch_buff,FUNC_2
+snprintf,FUNC_3
+t4_read_reg,FUNC_4
+write_compression_hdr,FUNC_5
+collect_sw_state,FUNC_6
+pdbg_init,VAR_1
+dbg_buff,VAR_2
+cudbg_err,VAR_3
+padap,VAR_4
+scratch_buff,VAR_5
+swstate,VAR_6
+size,VAR_7
+rc,VAR_8

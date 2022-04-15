@@ -1,0 +1,11 @@
+IXGB_WRITE_REG,FUNC_0
+TDH,VAR_0
+TDT,VAR_1
+ixgb_unmap_and_free_tx_resource,FUNC_1
+memset,FUNC_2
+ixgb_clean_tx_ring,FUNC_3
+adapter,VAR_2
+tx_ring,VAR_3
+buffer_info,VAR_4
+size,VAR_5
+i,VAR_6

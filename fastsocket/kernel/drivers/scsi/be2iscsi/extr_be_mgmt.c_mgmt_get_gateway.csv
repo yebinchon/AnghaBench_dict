@@ -1,0 +1,10 @@
+OPCODE_COMMON_ISCSI_NTWK_GET_DEFAULT_GATEWAY,VAR_0
+mgmt_alloc_cmd_data,FUNC_0
+mgmt_exec_nonemb_cmd,FUNC_1
+mgmt_get_gateway,FUNC_2
+phba,VAR_1
+ip_type,VAR_2
+gateway,VAR_3
+req,VAR_4
+nonemb_cmd,VAR_5
+rc,VAR_6

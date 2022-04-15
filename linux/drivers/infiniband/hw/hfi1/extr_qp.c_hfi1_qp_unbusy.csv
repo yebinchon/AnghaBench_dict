@@ -1,0 +1,10 @@
+HFI1_S_TID_BUSY_SET,VAR_0
+IOWAIT_IB_SE,VAR_1
+IOWAIT_PENDING_TID,VAR_2
+RVT_S_BUSY,VAR_3
+iowait_set_flag,FUNC_0
+iowait_set_work_flag,FUNC_1
+hfi1_qp_unbusy,FUNC_2
+qp,VAR_4
+wait,VAR_5
+priv,VAR_6

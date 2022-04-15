@@ -1,0 +1,9 @@
+INIT_PGD,VAR_0
+X86_FEATURE_PTI,VAR_1
+_PAGE_NX,VAR_2
+__supported_pte_mask,VAR_3
+boot_cpu_has,FUNC_0
+kernel_to_user_pgdp,FUNC_1
+pr_info,FUNC_2
+ptdump_walk_pgd_level_core,FUNC_3
+ptdump_walk_user_pgd_level_checkwx,FUNC_4

@@ -1,0 +1,16 @@
+HUB_L,FUNC_0
+IA64_IPI_DM_INT,VAR_0
+LOCAL_MMR_ADDR,FUNC_1
+SGI_UART_VECTOR,VAR_1
+SH_EVENT_OCCURRED,VAR_2
+SH_EVENT_OCCURRED_UART_INT_MASK,VAR_3
+__clear_bit,FUNC_2
+force_interrupt,FUNC_3
+pda,VAR_4
+platform_send_ipi,FUNC_4
+smp_processor_id,FUNC_5
+sn_force_interrupt_flag,VAR_5
+sn_end_irq,FUNC_6
+irq,VAR_6
+ivec,VAR_7
+event_occurred,VAR_8

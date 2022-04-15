@@ -1,0 +1,13 @@
+CAP_SYS_ADMIN,VAR_0
+DRM_AUTH,VAR_1
+DRM_MASTER,VAR_2
+DRM_RENDER_ALLOW,VAR_3
+DRM_ROOT_ONLY,VAR_4
+EACCES,VAR_5
+capable,FUNC_0
+drm_is_current_master,FUNC_1
+drm_is_render_client,FUNC_2
+unlikely,FUNC_3
+drm_ioctl_permit,FUNC_4
+flags,VAR_6
+file_priv,VAR_7

@@ -1,0 +1,10 @@
+SCI_BASE_CONTROLLER_STATE_STOPPED,VAR_0
+SCI_BASE_CONTROLLER_STATE_STOPPING,VAR_1
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_controller_has_remote_devices_stopping,FUNC_1
+scic_sds_controller_set_base_state_handlers,FUNC_2
+scic_sds_controller_stop_devices,FUNC_3
+scic_sds_controller_stop_ports,FUNC_4
+scic_sds_controller_stopping_state_enter,FUNC_5
+object,VAR_2
+this_controller,VAR_3

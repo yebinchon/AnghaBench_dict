@@ -1,0 +1,11 @@
+BTRFS_ROOT_IN_TRANS_SETUP,VAR_0
+BTRFS_ROOT_REF_COWS,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+record_root_in_trans,FUNC_2
+smp_rmb,FUNC_3
+test_bit,FUNC_4
+btrfs_record_root_in_trans,FUNC_5
+trans,VAR_2
+root,VAR_3
+fs_info,VAR_4

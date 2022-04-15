@@ -1,0 +1,17 @@
+SQLITE_BUSY,VAR_0
+SQLITE_MAGIC_ZOMBIE,VAR_1
+SQLITE_MISUSE_BKPT,VAR_2
+SQLITE_OK,VAR_3
+connectionIsBusy,FUNC_0
+disconnectAllVtab,FUNC_1
+sqlite3Error,FUNC_2
+sqlite3GlobalConfig,VAR_4
+sqlite3LeaveMutexAndCloseZombie,FUNC_3
+sqlite3SafetyCheckSickOrOk,FUNC_4
+sqlite3VtabRollback,FUNC_5
+sqlite3_mutex_enter,FUNC_6
+sqlite3_mutex_leave,FUNC_7
+stub1,FUNC_8
+sqlite3Close,FUNC_9
+db,VAR_5
+forceZombie,VAR_6

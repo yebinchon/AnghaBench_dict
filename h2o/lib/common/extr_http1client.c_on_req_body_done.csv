@@ -1,0 +1,12 @@
+H2O_SEND_STATE_FINAL,VAR_0
+H2O_SEND_STATE_IN_PROGRESS,VAR_1
+do_write_req,FUNC_0
+h2o_buffer_consume,FUNC_1
+h2o_iovec_init,FUNC_2
+on_whole_request_sent,FUNC_3
+stub1,FUNC_4
+on_req_body_done,FUNC_5
+sock,VAR_2
+err,VAR_3
+client,VAR_4
+send_state,VAR_5

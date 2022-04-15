@@ -1,0 +1,12 @@
+OP_AddImm,VAR_0
+OP_Goto,VAR_1
+OP_IfNeg,VAR_2
+VdbeComment,FUNC_0
+sqlite3VdbeAddOp1,FUNC_1
+sqlite3VdbeAddOp2,FUNC_2
+sqlite3VdbeJumpHere,FUNC_3
+codeOffset,FUNC_4
+v,VAR_3
+p,VAR_4
+iContinue,VAR_5
+addr,VAR_6

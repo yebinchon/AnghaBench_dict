@@ -1,0 +1,15 @@
+CXD2880_DTV_SYS_DVBT2,VAR_0
+CXD2880_TNRDMD_DIVERMODE_SINGLE,VAR_1
+CXD2880_TNRDMD_DIVERMODE_SUB,VAR_2
+CXD2880_TNRDMD_STATE_ACTIVE,VAR_3
+EINVAL,VAR_4
+cxd2880_tnrdmd_dvbt2_mon_snr_diver,FUNC_0
+dvbt2_calc_snr,FUNC_1
+dvbt2_read_snr_reg,FUNC_2
+cxd2880_tnrdmd_dvbt2_mon_snr,FUNC_3
+tnr_dmd,VAR_5
+snr,VAR_6
+reg_value,VAR_7
+ret,VAR_8
+snr_main,VAR_9
+snr_sub,VAR_10

@@ -1,0 +1,16 @@
+TX_POLICY_CACHE_SIZE,VAR_0
+WSM_TX_RATE_POLICY_FLAG_COUNT_INITIAL_TRANSMIT,VAR_1
+WSM_TX_RATE_POLICY_FLAG_TERMINATE_WHEN_FINISHED,VAR_2
+cw1200_debug_tx_cache_miss,FUNC_0
+memcpy,FUNC_1
+pr_debug,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+wsm_set_tx_rate_retry_policy,FUNC_5
+tx_policy_upload,FUNC_6
+priv,VAR_3
+cache,VAR_4
+i,VAR_5
+arg,VAR_6
+src,VAR_7
+dst,VAR_8

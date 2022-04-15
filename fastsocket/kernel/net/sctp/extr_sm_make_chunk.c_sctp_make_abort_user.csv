@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+SCTP_ERROR_USER_ABORT,VAR_1
+kfree,FUNC_0
+kmalloc,FUNC_1
+memcpy_fromiovec,FUNC_2
+sctp_addto_chunk,FUNC_3
+sctp_chunk_free,FUNC_4
+sctp_init_cause,FUNC_5
+sctp_make_abort,FUNC_6
+sctp_make_abort_user,FUNC_7
+asoc,VAR_2
+msg,VAR_3
+paylen,VAR_4
+retval,VAR_5
+payload,VAR_6
+err,VAR_7

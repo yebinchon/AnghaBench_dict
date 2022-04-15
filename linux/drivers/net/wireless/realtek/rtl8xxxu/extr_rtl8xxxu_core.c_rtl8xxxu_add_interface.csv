@@ -1,0 +1,15 @@
+BEACON_ATIM,VAR_0
+BEACON_DISABLE_TSF_UPDATE,VAR_1
+BEACON_FUNCTION_ENABLE,VAR_2
+EOPNOTSUPP,VAR_3
+REG_BEACON_CTRL,VAR_4
+rtl8xxxu_read8,FUNC_0
+rtl8xxxu_set_linktype,FUNC_1
+rtl8xxxu_stop_tx_beacon,FUNC_2
+rtl8xxxu_write8,FUNC_3
+rtl8xxxu_add_interface,FUNC_4
+hw,VAR_5
+vif,VAR_6
+priv,VAR_7
+ret,VAR_8
+val8,VAR_9

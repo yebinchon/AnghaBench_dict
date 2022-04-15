@@ -1,0 +1,10 @@
+SPICC_CONREG,VAR_0
+SPICC_ENABLE,VAR_1
+SPICC_INTREG,VAR_2
+device_reset_optional,FUNC_0
+spi_master_get_devdata,FUNC_1
+writel,FUNC_2
+writel_bits_relaxed,FUNC_3
+meson_spicc_unprepare_transfer,FUNC_4
+master,VAR_3
+spicc,VAR_4

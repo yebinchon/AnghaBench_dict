@@ -1,0 +1,14 @@
+INTEL_PMC_IDX_FIXED_BTS,VAR_0
+MSR_ARCH_PERFMON_FIXED_CTR_CTRL,VAR_1
+cpu_hw_events,VAR_2
+intel_pmu_disable_bts,FUNC_0
+intel_pmu_disable_fixed,FUNC_1
+intel_pmu_drain_bts_buffer,FUNC_2
+intel_pmu_pebs_disable,FUNC_3
+this_cpu_ptr,FUNC_4
+unlikely,FUNC_5
+x86_pmu_disable_event,FUNC_6
+intel_pmu_disable_event,FUNC_7
+event,VAR_3
+hwc,VAR_4
+cpuc,VAR_5

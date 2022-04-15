@@ -1,0 +1,15 @@
+clk_bulk_disable,FUNC_0
+clk_bulk_enable,FUNC_1
+dev_err,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+rockchip_do_pmu_set_power_domain,FUNC_5
+rockchip_pmu_domain_is_on,FUNC_6
+rockchip_pmu_restore_qos,FUNC_7
+rockchip_pmu_save_qos,FUNC_8
+rockchip_pmu_set_idle_request,FUNC_9
+rockchip_pd_power,FUNC_10
+pd,VAR_0
+power_on,VAR_1
+pmu,VAR_2
+ret,VAR_3

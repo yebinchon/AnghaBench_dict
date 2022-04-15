@@ -1,0 +1,14 @@
+ESP_PCI_RES_INTR,VAR_0
+NCR_LOCK_DESTROY,FUNC_0
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_destroy,FUNC_2
+bus_release_resources,FUNC_3
+bus_teardown_intr,FUNC_4
+device_get_softc,FUNC_5
+esp_pci_res_spec,VAR_1
+ncr53c9x_detach,FUNC_6
+esp_pci_detach,FUNC_7
+dev,VAR_2
+sc,VAR_3
+esc,VAR_4
+error,VAR_5

@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+BP_EQUAL,FUNC_1
+BP_IS_HOLE,FUNC_2
+ZIO_FLAG_NOPWRITE,VAR_0
+abd_put,FUNC_3
+dmu_tx_commit,FUNC_4
+kmem_free,FUNC_5
+spa_syncing_txg,FUNC_6
+stub1,FUNC_7
+zil_lwb_add_block,FUNC_8
+zio_free,FUNC_9
+dmu_sync_late_arrival_done,FUNC_10
+zio,VAR_1
+bp,VAR_2
+dsa,VAR_3
+bp_orig,VAR_4
+zgd,VAR_5

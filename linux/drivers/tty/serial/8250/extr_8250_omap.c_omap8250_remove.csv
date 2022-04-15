@@ -1,0 +1,10 @@
+device_init_wakeup,FUNC_0
+platform_get_drvdata,FUNC_1
+pm_qos_remove_request,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_dont_use_autosuspend,FUNC_4
+pm_runtime_put_sync,FUNC_5
+serial8250_unregister_port,FUNC_6
+omap8250_remove,FUNC_7
+pdev,VAR_0
+priv,VAR_1

@@ -1,0 +1,10 @@
+CL_FALSE,VAR_0
+VISIONBUF_SYNC_FROM_DEVICE,VAR_1
+assert,FUNC_0
+clEnqueueReadBuffer,FUNC_1
+clEnqueueWriteBuffer,FUNC_2
+clFinish,FUNC_3
+visionbuf_sync,FUNC_4
+buf,VAR_2
+dir,VAR_3
+err,VAR_4

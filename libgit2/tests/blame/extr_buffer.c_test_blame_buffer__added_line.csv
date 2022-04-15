@@ -1,0 +1,15 @@
+check_blame_hunk_index,FUNC_0
+cl_assert,FUNC_1
+cl_assert_equal_i,FUNC_2
+cl_assert_equal_s,FUNC_3
+cl_git_pass,FUNC_4
+g_bufferblame,VAR_0
+g_fileblame,VAR_1
+g_repo,VAR_2
+git_blame_buffer,FUNC_5
+git_blame_get_hunk_byline,FUNC_6
+git_blame_get_hunk_count,FUNC_7
+strlen,FUNC_8
+test_blame_buffer__added_line,FUNC_9
+hunk,VAR_3
+buffer,VAR_4

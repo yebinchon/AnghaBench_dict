@@ -1,0 +1,8 @@
+cfg_payload_len,VAR_0
+dest_port,VAR_1
+get_udp_csum,FUNC_0
+ntohs,FUNC_1
+fill_header_udp,FUNC_2
+p,VAR_2
+is_ipv4,VAR_3
+udph,VAR_4

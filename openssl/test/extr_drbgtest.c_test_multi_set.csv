@@ -1,0 +1,16 @@
+NID_aes_192_ctr,VAR_0
+NID_sha1,VAR_1
+NID_sha256,VAR_2
+RAND_DRBG_FLAG_HMAC,VAR_3
+RAND_DRBG_free,FUNC_0
+RAND_DRBG_instantiate,FUNC_1
+RAND_DRBG_new,FUNC_2
+RAND_DRBG_set,FUNC_3
+TEST_int_gt,FUNC_4
+TEST_ptr,FUNC_5
+TEST_true,FUNC_6
+disable_crngt,FUNC_7
+uninstantiate,FUNC_8
+test_multi_set,FUNC_9
+rv,VAR_4
+drbg,VAR_5

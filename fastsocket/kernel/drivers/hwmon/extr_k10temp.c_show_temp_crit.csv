@@ -1,0 +1,13 @@
+REG_HARDWARE_THERMAL_CONTROL,VAR_0
+pci_read_config_dword,FUNC_0
+sprintf,FUNC_1
+to_pci_dev,FUNC_2
+to_sensor_dev_attr,FUNC_3
+show_temp_crit,FUNC_4
+dev,VAR_1
+devattr,VAR_2
+buf,VAR_3
+attr,VAR_4
+show_hyst,VAR_5
+regval,VAR_6
+value,VAR_7

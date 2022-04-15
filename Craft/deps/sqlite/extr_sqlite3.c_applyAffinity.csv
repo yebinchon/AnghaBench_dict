@@ -1,0 +1,16 @@
+MEM_Int,VAR_0
+MEM_Real,VAR_1
+MEM_Str,VAR_2
+SQLITE_AFF_INTEGER,VAR_3
+SQLITE_AFF_NONE,VAR_4
+SQLITE_AFF_NUMERIC,VAR_5
+SQLITE_AFF_REAL,VAR_6
+SQLITE_AFF_TEXT,VAR_7
+applyNumericAffinity,FUNC_0
+assert,FUNC_1
+sqlite3VdbeIntegerAffinity,FUNC_2
+sqlite3VdbeMemStringify,FUNC_3
+applyAffinity,FUNC_4
+pRec,VAR_8
+affinity,VAR_9
+enc,VAR_10

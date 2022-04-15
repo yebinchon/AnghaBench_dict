@@ -1,0 +1,15 @@
+get_rpccred,FUNC_0
+kfree,FUNC_1
+nfs4_alloc_state_owner,FUNC_2
+nfs4_find_state_owner_locked,FUNC_3
+nfs4_gc_state_owners,FUNC_4
+nfs4_insert_state_owner_locked,FUNC_5
+rpc_destroy_wait_queue,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+nfs4_get_state_owner,FUNC_9
+server,VAR_0
+cred,VAR_1
+clp,VAR_2
+sp,VAR_3
+new,VAR_4

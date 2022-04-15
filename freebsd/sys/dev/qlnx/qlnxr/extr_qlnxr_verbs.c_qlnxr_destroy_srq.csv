@@ -1,0 +1,13 @@
+QL_DPRINT12,FUNC_0
+ecore_rdma_destroy_srq,FUNC_1
+get_qlnxr_srq,FUNC_2
+kfree,FUNC_3
+memset,FUNC_4
+qlnxr_free_srq_kernel_params,FUNC_5
+qlnxr_free_srq_user_params,FUNC_6
+qlnxr_destroy_srq,FUNC_7
+ibsrq,VAR_0
+dev,VAR_1
+srq,VAR_2
+ha,VAR_3
+in_params,VAR_4

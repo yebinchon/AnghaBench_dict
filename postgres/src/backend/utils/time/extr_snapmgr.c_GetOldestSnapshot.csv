@@ -1,0 +1,13 @@
+InvalidXLogRecPtr,VAR_0
+OldestActiveSnapshot,VAR_1
+RegisteredSnapshots,VAR_2
+SnapshotData,VAR_3
+XLogRecPtrIsInvalid,FUNC_0
+pairingheap_container,FUNC_1
+pairingheap_first,FUNC_2
+pairingheap_is_empty,FUNC_3
+ph_node,VAR_4
+GetOldestSnapshot,FUNC_4
+OldestRegisteredSnapshot,VAR_5
+RegisteredLSN,VAR_6
+ActiveLSN,VAR_7

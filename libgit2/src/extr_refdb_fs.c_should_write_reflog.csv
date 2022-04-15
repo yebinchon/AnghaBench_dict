@@ -1,0 +1,17 @@
+GIT_CONFIGMAP_LOGALLREFUPDATES,VAR_0
+GIT_HEAD_FILE,VAR_1
+GIT_LOGALLREFUPDATES_UNSET,VAR_2
+GIT_REFS_HEADS_DIR,VAR_3
+GIT_REFS_NOTES_DIR,VAR_4
+GIT_REFS_REMOTES_DIR,VAR_5
+git__prefixcmp,FUNC_0
+git__strcmp,FUNC_1
+git_repository__configmap_lookup,FUNC_2
+git_repository_is_bare,FUNC_3
+has_reflog,FUNC_4
+should_write_reflog,FUNC_5
+write,VAR_6
+repo,VAR_7
+name,VAR_8
+error,VAR_9
+logall,VAR_10

@@ -1,0 +1,13 @@
+BRIN_METAPAGE_BLKNO,VAR_0
+BUFFER_LOCK_SHARE,VAR_1
+BufferGetPage,FUNC_0
+LockBuffer,FUNC_1
+PageGetContents,FUNC_2
+ReadBuffer,FUNC_3
+UnlockReleaseBuffer,FUNC_4
+brinGetStats,FUNC_5
+index,VAR_2
+stats,VAR_3
+metabuffer,VAR_4
+metapage,VAR_5
+metadata,VAR_6

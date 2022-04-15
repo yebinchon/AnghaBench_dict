@@ -1,0 +1,15 @@
+luaL_checkstring,FUNC_0
+lua_gettop,FUNC_1
+lua_pushinteger,FUNC_2
+lua_touserdata,FUNC_3
+lua_upvalueindex,FUNC_4
+skynet_command,FUNC_5
+laddresscommand,FUNC_6
+L,VAR_0
+context,VAR_1
+cmd,VAR_2
+result,VAR_3
+parm,VAR_4
+i,VAR_5
+addr,VAR_6
+c,VAR_7

@@ -1,0 +1,13 @@
+C2PORT_COMMAND_OK,VAR_0
+C2PORT_DEVICE_ERASE,VAR_1
+C2PORT_FPDAT,VAR_2
+EBUSY,VAR_3
+c2port_poll_in_busy,FUNC_0
+c2port_poll_out_ready,FUNC_1
+c2port_read_dr,FUNC_2
+c2port_write_ar,FUNC_3
+c2port_write_dr,FUNC_4
+__c2port_write_flash_erase,FUNC_5
+dev,VAR_4
+status,VAR_5
+ret,VAR_6

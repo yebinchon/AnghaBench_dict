@@ -1,0 +1,15 @@
+X86_PMC_IDX_FIXED_BTS,VAR_0
+local64_add,FUNC_0
+local64_cmpxchg,FUNC_1
+local64_read,FUNC_2
+local64_sub,FUNC_3
+rdmsrl,FUNC_4
+x86_pmu,VAR_1
+x86_perf_event_update,FUNC_5
+event,VAR_2
+hwc,VAR_3
+shift,VAR_4
+prev_raw_count,VAR_5
+new_raw_count,VAR_6
+idx,VAR_7
+delta,VAR_8

@@ -1,0 +1,10 @@
+CCDC_FRMFMT_PROGRESSIVE,VAR_0
+VPFE_IRQ_EN_SET,VAR_1
+VPFE_VDINT0,VAR_2
+VPFE_VDINT1,VAR_3
+vpfe_ccdc_get_frame_format,FUNC_0
+vpfe_reg_write,FUNC_1
+vpfe_attach_irq,FUNC_2
+vpfe,VAR_4
+intr,VAR_5
+frame_format,VAR_6

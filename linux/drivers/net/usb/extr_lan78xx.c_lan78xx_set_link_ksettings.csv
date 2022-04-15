@@ -1,0 +1,16 @@
+BMCR_LOOPBACK,VAR_0
+MII_BMCR,VAR_1
+mdelay,FUNC_0
+netdev_priv,FUNC_1
+phy_ethtool_ksettings_set,FUNC_2
+phy_read,FUNC_3
+phy_write,FUNC_4
+usb_autopm_get_interface,FUNC_5
+usb_autopm_put_interface,FUNC_6
+lan78xx_set_link_ksettings,FUNC_7
+net,VAR_2
+cmd,VAR_3
+dev,VAR_4
+phydev,VAR_5
+ret,VAR_6
+temp,VAR_7

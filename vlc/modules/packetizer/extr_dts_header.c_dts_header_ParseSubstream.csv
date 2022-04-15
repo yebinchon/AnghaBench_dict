@@ -1,0 +1,15 @@
+DTS_SYNC_SUBSTREAM,VAR_0
+VLC_DTS_HEADER_SIZE,VAR_1
+VLC_SUCCESS,VAR_2
+bs_init,FUNC_0
+bs_read,FUNC_1
+bs_read1,FUNC_2
+bs_skip,FUNC_3
+memset,FUNC_4
+dts_header_ParseSubstream,FUNC_5
+p_header,VAR_3
+p_buffer,VAR_4
+s,VAR_5
+bHeaderSizeType,VAR_6
+nuBits4ExSSFsize,VAR_7
+nuExtSSHeaderSize,VAR_8

@@ -1,0 +1,17 @@
+O_RDWR,VAR_0
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_mkfile,FUNC_2
+cl_must_pass,FUNC_3
+p_close,FUNC_4
+p_futimes,FUNC_5
+p_open,FUNC_6
+p_stat,FUNC_7
+p_unlink,FUNC_8
+p_utimes,FUNC_9
+time,FUNC_10
+test_core_posix__utimes,FUNC_11
+times,VAR_1
+st,VAR_2
+curtime,VAR_3
+fd,VAR_4

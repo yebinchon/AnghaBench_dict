@@ -1,0 +1,17 @@
+ICMPV6_MGM_REPORT,VAR_0
+IGMP6_UNSOLICITED_IVAL,VAR_1
+MAF_LAST_REPORTER,VAR_2
+MAF_NOREPORT,VAR_3
+MAF_TIMER_RUNNING,VAR_4
+atomic_dec,FUNC_0
+atomic_inc,FUNC_1
+del_timer,FUNC_2
+igmp6_send,FUNC_3
+jiffies,VAR_5
+mod_timer,FUNC_4
+net_random,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+igmp6_join_group,FUNC_8
+ma,VAR_6
+delay,VAR_7

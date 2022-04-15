@@ -1,0 +1,16 @@
+URE_GMEDIASTAT,VAR_0
+URE_LOCK,FUNC_0
+URE_MCU_TYPE_PLA,VAR_1
+URE_OCP_BASE_MII,VAR_2
+URE_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+mtx_owned,FUNC_3
+ure_ocp_reg_read,FUNC_4
+ure_read_1,FUNC_5
+ure_miibus_readreg,FUNC_6
+dev,VAR_3
+phy,VAR_4
+reg,VAR_5
+sc,VAR_6
+val,VAR_7
+locked,VAR_8

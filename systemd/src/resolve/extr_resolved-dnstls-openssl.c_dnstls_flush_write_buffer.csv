@@ -1,0 +1,12 @@
+BIO_reset,FUNC_0
+DNS_STREAM_WRITE_TLS_DATA,VAR_0
+EAGAIN,VAR_1
+EPOLLOUT,VAR_2
+IOVEC_MAKE,FUNC_1
+SSL_get_wbio,FUNC_2
+assert,FUNC_3
+dns_stream_writev,FUNC_4
+dnstls_flush_write_buffer,FUNC_5
+stream,VAR_3
+ss,VAR_4
+iov,VAR_5

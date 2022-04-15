@@ -1,0 +1,14 @@
+MEN_Z069_TIMER_FREQ,VAR_0
+MEN_Z069_WTR,VAR_1
+MEN_Z069_WTR_WDEN,VAR_2
+MEN_Z069_WVR,VAR_3
+readw,FUNC_0
+watchdog_get_drvdata,FUNC_1
+writew,FUNC_2
+men_z069_wdt_set_timeout,FUNC_3
+wdt,VAR_4
+timeout,VAR_5
+drv,VAR_6
+reg,VAR_7
+val,VAR_8
+ena,VAR_9

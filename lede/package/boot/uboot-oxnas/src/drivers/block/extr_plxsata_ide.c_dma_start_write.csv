@@ -1,0 +1,16 @@
+DMA_BASE_DST_ADR,VAR_0
+DMA_BASE_SRC_ADR,VAR_1
+DMA_BYTE_CNT,VAR_2
+DMA_CTRL_STATUS,VAR_3
+OXNAS_DMA_MODE_INC,VAR_4
+SATA_DMA_REGS_BASE,VAR_5
+dma_start,FUNC_0
+encode_control_status,FUNC_1
+encode_final_eot,FUNC_2
+oxnas_ram_dma_settings,VAR_6
+oxnas_sata_dma_settings,VAR_7
+writel,FUNC_3
+dma_start_write,FUNC_4
+buffer,VAR_8
+num_bytes,VAR_9
+mem_settings,VAR_10

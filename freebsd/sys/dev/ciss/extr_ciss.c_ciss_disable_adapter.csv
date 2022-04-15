@@ -1,0 +1,17 @@
+CISS_CMD_STATUS_HARDWARE_ERROR,VAR_0
+CISS_FLAG_RUNNING,VAR_1
+CISS_REQ_BUSY,VAR_2
+CISS_REQ_SLEEP,VAR_3
+CISS_TL_SIMPLE_DISABLE_INTERRUPTS,FUNC_0
+ciss_dequeue_complete,FUNC_1
+ciss_enqueue_complete,FUNC_2
+pci_disable_busmaster,FUNC_3
+stub1,FUNC_4
+wakeup,FUNC_5
+ciss_disable_adapter,FUNC_6
+sc,VAR_4
+qh,VAR_5
+cr,VAR_6
+cc,VAR_7
+ce,VAR_8
+i,VAR_9

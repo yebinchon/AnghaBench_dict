@@ -1,0 +1,14 @@
+BT_DBG,FUNC_0
+HCI_OP_LE_START_ENC,VAR_0
+cpu_to_le16,FUNC_1
+hci_send_cmd,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+hci_le_start_enc,FUNC_5
+conn,VAR_1
+ediv,VAR_2
+rand,VAR_3
+ltk,VAR_4
+key_size,VAR_5
+hdev,VAR_6
+cp,VAR_7

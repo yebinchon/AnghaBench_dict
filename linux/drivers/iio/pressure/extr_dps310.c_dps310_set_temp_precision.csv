@@ -1,0 +1,13 @@
+DPS310_CFG_REG,VAR_0
+DPS310_TMP_CFG,VAR_1
+DPS310_TMP_PRC_BITS,VAR_2
+DPS310_TMP_SHIFT_EN,VAR_3
+EINVAL,VAR_4
+ilog2,FUNC_0
+regmap_update_bits,FUNC_1
+regmap_write_bits,FUNC_2
+dps310_set_temp_precision,FUNC_3
+data,VAR_5
+val,VAR_6
+rc,VAR_7
+shift_en,VAR_8

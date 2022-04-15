@@ -1,0 +1,17 @@
+list_add_rcu,FUNC_0
+mlx5_tun_entropy_refcount_dec,FUNC_1
+mlx5_tun_entropy_refcount_inc,FUNC_2
+mlx5e_rep_neigh_entry_create,FUNC_3
+mlx5e_rep_neigh_entry_lookup,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+mlx5e_rep_encap_entry_attach,FUNC_9
+priv,VAR_0
+e,VAR_1
+rpriv,VAR_2
+uplink_priv,VAR_3
+tun_entropy,VAR_4
+nhe,VAR_5
+err,VAR_6

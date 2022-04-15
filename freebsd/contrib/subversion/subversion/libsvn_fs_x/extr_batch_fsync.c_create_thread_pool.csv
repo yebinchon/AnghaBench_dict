@@ -1,0 +1,15 @@
+MAX_THREADS,VAR_0
+SVN_NO_ERROR,VAR_1
+THREADPOOL_THREAD_IDLE_LIMIT,VAR_2
+WRAP_APR_ERR,FUNC_0
+_,FUNC_1
+apr_pool_pre_cleanup_register,FUNC_2
+apr_thread_pool_create,FUNC_3
+apr_thread_pool_idle_wait_set,FUNC_4
+apr_thread_pool_threshold_set,FUNC_5
+svn_pool_create,FUNC_6
+thread_pool,VAR_3
+thread_pool_pre_cleanup,VAR_4
+create_thread_pool,FUNC_7
+baton,VAR_5
+owning_pool,VAR_6

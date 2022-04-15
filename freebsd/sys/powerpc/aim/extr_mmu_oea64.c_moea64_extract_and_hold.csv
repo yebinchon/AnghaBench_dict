@@ -1,0 +1,14 @@
+ADDR_POFF,VAR_0
+LPTE_RPGN,VAR_1
+PHYS_TO_VM_PAGE,FUNC_0
+PMAP_LOCK,FUNC_1
+PMAP_UNLOCK,FUNC_2
+moea64_pvo_find_va,FUNC_3
+vm_page_wire_mapped,FUNC_4
+moea64_extract_and_hold,FUNC_5
+mmu,VAR_2
+pmap,VAR_3
+va,VAR_4
+prot,VAR_5
+pvo,VAR_6
+m,VAR_7

@@ -1,0 +1,14 @@
+SECONDARY_EXEC_APIC_REGISTER_VIRT,VAR_0
+SECONDARY_EXEC_VIRTUAL_INTR_DELIVERY,VAR_1
+cpu_has_secondary_exec_ctrls,FUNC_0
+cpu_has_vmx_msr_bitmap,FUNC_1
+kvm_vcpu_apicv_active,FUNC_2
+pin_controls_set,FUNC_3
+secondary_exec_controls_clearbit,FUNC_4
+secondary_exec_controls_setbit,FUNC_5
+to_vmx,FUNC_6
+vmx_pin_based_exec_ctrl,FUNC_7
+vmx_update_msr_bitmap,FUNC_8
+vmx_refresh_apicv_exec_ctrl,FUNC_9
+vcpu,VAR_2
+vmx,VAR_3

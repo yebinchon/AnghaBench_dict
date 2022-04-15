@@ -1,0 +1,10 @@
+GEM_BF,FUNC_0
+RXBDCTRL,VAR_0
+RXTSMODE,VAR_1
+TXBDCTRL,VAR_2
+TXTSMODE,VAR_3
+gem_writel,FUNC_1
+gem_ptp_set_ts_mode,FUNC_2
+bp,VAR_4
+tx_bd_control,VAR_5
+rx_bd_control,VAR_6

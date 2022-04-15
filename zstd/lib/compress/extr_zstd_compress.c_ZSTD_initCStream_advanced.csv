@@ -1,0 +1,16 @@
+DEBUGLOG,FUNC_0
+FORWARD_IF_ERROR,FUNC_1
+ZSTD_CCtx_loadDictionary,FUNC_2
+ZSTD_CCtx_reset,FUNC_3
+ZSTD_CCtx_setPledgedSrcSize,FUNC_4
+ZSTD_CONTENTSIZE_UNKNOWN,VAR_0
+ZSTD_assignParamsToCCtxParams,FUNC_5
+ZSTD_checkCParams,FUNC_6
+ZSTD_reset_session_only,VAR_1
+ZSTD_initCStream_advanced,FUNC_7
+zcs,VAR_2
+dict,VAR_3
+dictSize,VAR_4
+params,VAR_5
+pss,VAR_6
+pledgedSrcSize,VAR_7

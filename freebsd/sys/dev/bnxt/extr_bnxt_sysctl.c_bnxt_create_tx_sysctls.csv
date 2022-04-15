@@ -1,0 +1,14 @@
+CTLFLAG_RD,VAR_0
+ENOMEM,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_QUAD,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+sprintf,FUNC_3
+bnxt_create_tx_sysctls,FUNC_4
+softc,VAR_3
+txr,VAR_4
+oid,VAR_5
+tx_stats,VAR_6
+name,VAR_7
+desc,VAR_8

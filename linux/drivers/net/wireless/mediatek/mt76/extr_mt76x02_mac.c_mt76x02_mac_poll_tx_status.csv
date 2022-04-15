@@ -1,0 +1,15 @@
+MT76_STATE_RUNNING,VAR_0
+kfifo_is_full,FUNC_0
+kfifo_put,FUNC_1
+mt76x02_mac_load_tx_status,FUNC_2
+mt76x02_send_tx_status,FUNC_3
+spin_trylock,FUNC_4
+spin_unlock,FUNC_5
+test_bit,FUNC_6
+trace_mac_txstat_poll,FUNC_7
+mt76x02_mac_poll_tx_status,FUNC_8
+dev,VAR_1
+irq,VAR_2
+stat,VAR_3
+update,VAR_4
+ret,VAR_5

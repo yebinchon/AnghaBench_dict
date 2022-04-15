@@ -1,0 +1,17 @@
+MLX5_CAP_GEN,FUNC_0
+MLX5_CMD_OP_RTS2RTS_QP,VAR_0
+MLX5_QP_OPTPAR_COUNTER_SET_ID,VAR_1
+cpu_to_be32,FUNC_1
+mlx5_core_qp_modify,FUNC_2
+mlx5_ib_get_counters_id,FUNC_3
+rts2rts_qp_counters_set_id,VAR_2
+to_mdev,FUNC_4
+to_mqp,FUNC_5
+__mlx5_ib_qp_set_counter,FUNC_6
+qp,VAR_3
+counter,VAR_4
+dev,VAR_5
+mqp,VAR_6
+context,VAR_7
+base,VAR_8
+set_id,VAR_9

@@ -1,0 +1,10 @@
+ACPI_TPM2_COMMAND_BUFFER_WITH_START_METHOD,VAR_0
+ACPI_TPM2_START_METHOD,VAR_1
+CRB_CANCEL_INVOKE,VAR_2
+crb_do_acpi_start,FUNC_0
+dev_err,FUNC_1
+dev_get_drvdata,FUNC_2
+iowrite32,FUNC_3
+crb_cancel,FUNC_4
+chip,VAR_3
+priv,VAR_4

@@ -1,0 +1,12 @@
+PTE_OS_GENERAL_FAILURE,VAR_0
+PTE_OS_INTERRUPTED,VAR_1
+PTE_OS_OK,VAR_2
+SCE_KERNEL_ERROR_OK,VAR_3
+getThreadData,FUNC_0
+sceKernelReferSemaStatus,FUNC_1
+pte_osThreadCheckCancel,FUNC_2
+threadHandle,VAR_4
+semInfo,VAR_5
+osResult,VAR_6
+result,VAR_7
+pThreadData,VAR_8

@@ -1,0 +1,9 @@
+SLCR_REBOOT_STATUS_OFFSET,VAR_0
+readl,FUNC_0
+writel,FUNC_1
+zynq_slcr_base,VAR_1
+zynq_slcr_cpu_state_write,FUNC_2
+cpu,VAR_2
+die,VAR_3
+state,VAR_4
+mask,VAR_5

@@ -1,0 +1,13 @@
+AB8500_REGU_CTRL2,VAR_0
+AB9540_MODEM_CTRL2_REG,VAR_1
+AB9540_MODEM_CTRL2_SWDBBRSTN_BIT,VAR_2
+dev_get_drvdata,FUNC_0
+get_register_interruptible,FUNC_1
+sprintf,FUNC_2
+show_ab9540_dbbrstn,FUNC_3
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+ab8500,VAR_6
+ret,VAR_7
+value,VAR_8

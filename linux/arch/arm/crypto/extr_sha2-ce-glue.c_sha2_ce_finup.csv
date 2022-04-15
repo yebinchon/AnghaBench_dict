@@ -1,0 +1,13 @@
+crypto_sha256_arm_finup,FUNC_0
+crypto_simd_usable,FUNC_1
+kernel_neon_begin,FUNC_2
+kernel_neon_end,FUNC_3
+sha256_base_do_finalize,FUNC_4
+sha256_base_do_update,FUNC_5
+sha256_base_finish,FUNC_6
+sha2_ce_transform,VAR_0
+sha2_ce_finup,FUNC_7
+desc,VAR_1
+data,VAR_2
+len,VAR_3
+out,VAR_4

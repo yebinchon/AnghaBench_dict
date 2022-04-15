@@ -1,0 +1,16 @@
+AT_CHECK_EVENT,FUNC_0
+AT_CHECK_RN,FUNC_1
+bta_hf_client_handle_clcc,FUNC_2
+sscanf,FUNC_3
+bta_hf_client_parse_clcc,FUNC_4
+buffer,VAR_0
+idx,VAR_1
+dir,VAR_2
+status,VAR_3
+mode,VAR_4
+mpty,VAR_5
+numstr,VAR_6
+type,VAR_7
+res,VAR_8
+offset,VAR_9
+res2,VAR_10

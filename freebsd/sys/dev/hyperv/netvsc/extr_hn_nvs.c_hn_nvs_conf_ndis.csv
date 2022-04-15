@@ -1,0 +1,16 @@
+ETHER_HDR_LEN,VAR_0
+HN_CAP_MTU,VAR_1
+HN_CAP_VLAN,VAR_2
+HN_NVS_NDIS_CONF_SRIOV,VAR_3
+HN_NVS_NDIS_CONF_VLAN,VAR_4
+HN_NVS_TYPE_NDIS_CONF,VAR_5
+HN_NVS_VERSION_5,VAR_6
+bootverbose,VAR_7
+hn_nvs_req_send,FUNC_0
+if_printf,FUNC_1
+memset,FUNC_2
+hn_nvs_conf_ndis,FUNC_3
+sc,VAR_8
+mtu,VAR_9
+conf,VAR_10
+error,VAR_11

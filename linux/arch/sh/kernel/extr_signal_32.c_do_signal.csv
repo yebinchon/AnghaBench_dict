@@ -1,0 +1,16 @@
+ERESTARTNOHAND,VAR_0
+ERESTARTNOINTR,VAR_1
+ERESTARTSYS,VAR_2
+ERESTART_RESTARTBLOCK,VAR_3
+__NR_restart_syscall,VAR_4
+__raw_readw,FUNC_0
+get_signal,FUNC_1
+handle_signal,FUNC_2
+handle_syscall_restart,FUNC_3
+instruction_size,FUNC_4
+restore_saved_sigmask,FUNC_5
+user_mode,FUNC_6
+do_signal,FUNC_7
+regs,VAR_5
+save_r0,VAR_6
+ksig,VAR_7

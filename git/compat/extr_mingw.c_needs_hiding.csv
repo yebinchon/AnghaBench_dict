@@ -1,0 +1,11 @@
+HIDE_DOTFILES_DOTGITONLY,VAR_0
+HIDE_DOTFILES_FALSE,VAR_1
+HIDE_DOTFILES_TRUE,VAR_2
+assert,FUNC_0
+hide_dotfiles,VAR_3
+is_dir_sep,FUNC_1
+strncasecmp,FUNC_2
+win32_skip_dos_drive_prefix,FUNC_3
+needs_hiding,FUNC_4
+path,VAR_4
+basename,VAR_5

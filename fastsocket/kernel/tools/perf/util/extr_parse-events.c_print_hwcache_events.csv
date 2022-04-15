@@ -1,0 +1,17 @@
+PERF_COUNT_HW_CACHE_MAX,VAR_0
+PERF_COUNT_HW_CACHE_OP_MAX,VAR_1
+PERF_COUNT_HW_CACHE_RESULT_MAX,VAR_2
+PERF_TYPE_HW_CACHE,VAR_3
+__perf_evsel__hw_cache_type_op_res_name,FUNC_0
+event_type_descriptors,VAR_4
+perf_evsel__is_cache_op_valid,FUNC_1
+printf,FUNC_2
+strglobmatch,FUNC_3
+print_hwcache_events,FUNC_4
+event_glob,VAR_5
+name_only,VAR_6
+type,VAR_7
+op,VAR_8
+i,VAR_9
+printed,VAR_10
+name,VAR_11

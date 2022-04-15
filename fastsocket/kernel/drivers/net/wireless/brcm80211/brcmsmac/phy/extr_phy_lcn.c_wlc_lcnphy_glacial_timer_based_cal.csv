@@ -1,0 +1,17 @@
+D11REGOFFS,FUNC_0
+MCTL_EN_MAC,VAR_0
+bcma_read32,FUNC_1
+maccontrol,VAR_1
+wlapi_enable_mac,FUNC_2
+wlapi_suspend_mac_and_wait,FUNC_3
+wlc_lcnphy_deaf_mode,FUNC_4
+wlc_lcnphy_get_tx_pwr_ctrl,FUNC_5
+wlc_lcnphy_set_tx_pwr_by_index,FUNC_6
+wlc_lcnphy_set_tx_pwr_ctrl,FUNC_7
+wlc_lcnphy_txpwrtbl_iqlo_cal,FUNC_8
+wlc_lcnphy_glacial_timer_based_cal,FUNC_9
+pi,VAR_2
+suspend,VAR_3
+index,VAR_4
+SAVE_pwrctrl,VAR_5
+pi_lcn,VAR_6

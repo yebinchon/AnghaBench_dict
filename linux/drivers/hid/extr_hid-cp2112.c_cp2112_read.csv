@@ -1,0 +1,16 @@
+CP2112_DATA_READ_FORCE_SEND,VAR_0
+HID_OUTPUT_REPORT,VAR_1
+atomic_set,FUNC_0
+cp2112_hid_output,FUNC_1
+cp2112_wait,FUNC_2
+cpu_to_be16,FUNC_3
+hid_dbg,FUNC_4
+hid_warn,FUNC_5
+memcpy,FUNC_6
+cp2112_read,FUNC_7
+dev,VAR_2
+data,VAR_3
+size,VAR_4
+hdev,VAR_5
+report,VAR_6
+ret,VAR_7

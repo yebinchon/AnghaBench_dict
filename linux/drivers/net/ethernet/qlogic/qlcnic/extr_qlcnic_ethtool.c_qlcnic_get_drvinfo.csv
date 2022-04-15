@@ -1,0 +1,17 @@
+QLCNIC_FW_VERSION_MAJOR,VAR_0
+QLCNIC_FW_VERSION_MINOR,VAR_1
+QLCNIC_FW_VERSION_SUB,VAR_2
+QLCNIC_LINUX_VERSIONID,VAR_3
+QLC_SHARED_REG_RD32,FUNC_0
+netdev_priv,FUNC_1
+pci_name,FUNC_2
+qlcnic_driver_name,VAR_4
+snprintf,FUNC_3
+strlcpy,FUNC_4
+qlcnic_get_drvinfo,FUNC_5
+dev,VAR_5
+drvinfo,VAR_6
+adapter,VAR_7
+fw_major,VAR_8
+fw_minor,VAR_9
+fw_build,VAR_10

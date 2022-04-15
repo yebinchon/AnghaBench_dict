@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+ENXIO,VAR_1
+GFP_NOIO,VAR_2
+SET_ERROR,FUNC_0
+bdev_get_queue,FUNC_1
+bio_alloc,FUNC_2
+bio_set_dev,FUNC_3
+bio_set_flush,FUNC_4
+invalidate_bdev,FUNC_5
+unlikely,FUNC_6
+vdev_disk_io_flush_completion,VAR_3
+vdev_submit_bio,FUNC_7
+vdev_disk_io_flush,FUNC_8
+bdev,VAR_4
+zio,VAR_5
+q,VAR_6
+bio,VAR_7

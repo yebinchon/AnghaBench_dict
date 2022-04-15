@@ -1,0 +1,12 @@
+IEEE80211_ADDR_LEN,VAR_0
+IEEE80211_IOC_BSSID,VAR_1
+SIOCG80211,VAR_2
+err,FUNC_0
+ioctl,FUNC_1
+memset,FUNC_2
+strncpy,FUNC_3
+getbssid,FUNC_4
+s,VAR_3
+ifname,VAR_4
+bssid,VAR_5
+ireq,VAR_6

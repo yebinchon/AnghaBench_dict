@@ -1,0 +1,14 @@
+DRVNAME,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+PTR_ERR_OR_ZERO,FUNC_0
+create_device_attrs,FUNC_1
+devm_hwmon_device_register_with_groups,FUNC_2
+devm_kzalloc,FUNC_3
+platform_set_drvdata,FUNC_4
+populate_attr_groups,FUNC_5
+ibmpowernv_probe,FUNC_6
+pdev,VAR_3
+pdata,VAR_4
+hwmon_dev,VAR_5
+err,VAR_6

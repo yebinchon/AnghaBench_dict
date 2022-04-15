@@ -1,0 +1,13 @@
+LSAPI_Write_Stderr_r,FUNC_0
+STDERR_FILENO,VAR_0
+errno,VAR_1
+getpid,FUNC_1
+snprintf,FUNC_2
+strerror,FUNC_3
+write,FUNC_4
+LSAPI_perror_r,FUNC_5
+pReq,VAR_2
+pErr1,VAR_3
+pErr2,VAR_4
+achError,VAR_5
+n,VAR_6

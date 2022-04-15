@@ -1,0 +1,14 @@
+AR9170_NUM_RX_URBS_POOL,VAR_0
+GFP_ATOMIC,VAR_1
+IS_INITIALIZED,FUNC_0
+atomic_dec,FUNC_1
+atomic_inc,FUNC_2
+carl9170_rx,FUNC_3
+carl9170_usb_submit_rx_urb,FUNC_4
+usb_anchor_urb,FUNC_5
+usb_free_urb,FUNC_6
+usb_get_from_anchor,FUNC_7
+carl9170_usb_rx_work,FUNC_8
+ar,VAR_2
+urb,VAR_3
+i,VAR_4

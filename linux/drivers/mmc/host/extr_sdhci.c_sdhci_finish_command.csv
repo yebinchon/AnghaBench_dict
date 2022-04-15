@@ -1,0 +1,15 @@
+DBG,FUNC_0
+MMC_RSP_136,VAR_0
+MMC_RSP_BUSY,VAR_1
+MMC_RSP_PRESENT,VAR_2
+SDHCI_QUIRK_NO_BUSY_IRQ,VAR_3
+SDHCI_RESPONSE,VAR_4
+__sdhci_finish_mrq,FUNC_1
+mmc_command_done,FUNC_2
+sdhci_finish_data,FUNC_3
+sdhci_read_rsp_136,FUNC_4
+sdhci_readl,FUNC_5
+sdhci_send_command,FUNC_6
+sdhci_finish_command,FUNC_7
+host,VAR_5
+cmd,VAR_6

@@ -1,0 +1,15 @@
+DNSCRYPT_MAGIC_HEADER_LEN,VAR_0
+calloc,FUNC_0
+crypto_box_HALF_NONCEBYTES,VAR_1
+crypto_box_PUBLICKEYBYTES,VAR_2
+free,FUNC_1
+lock_rw_init,FUNC_2
+memcpy,FUNC_3
+slabhash_insert,FUNC_4
+dnsc_nonce_cache_insert,FUNC_5
+cache,VAR_3
+nonce,VAR_4
+magic_query,VAR_5
+pk,VAR_6
+hash,VAR_7
+k,VAR_8

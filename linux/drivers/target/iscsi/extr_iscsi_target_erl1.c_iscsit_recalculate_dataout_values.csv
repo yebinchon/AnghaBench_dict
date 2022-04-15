@@ -1,0 +1,14 @@
+DATAOUT_SEQUENCE_WITHIN_COMMAND_RECOVERY,VAR_0
+ISCSI_PDU_NOT_RECEIVED,VAR_1
+ISCSI_PDU_RECEIVED_OK,VAR_2
+iscsit_get_seq_holder,FUNC_0
+iscsit_recalculate_dataout_values,FUNC_1
+cmd,VAR_3
+pdu_offset,VAR_4
+pdu_length,VAR_5
+r2t_offset,VAR_6
+r2t_length,VAR_7
+i,VAR_8
+conn,VAR_9
+pdu,VAR_10
+seq,VAR_11

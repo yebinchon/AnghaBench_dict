@@ -1,0 +1,15 @@
+AF_INET,VAR_0
+ROUTE_RELEASE,FUNC_0
+ROUTE_UNUSABLE,FUNC_1
+RT_ADDREF,FUNC_2
+VERIFY,FUNC_3
+bzero,FUNC_4
+ifp_src_route_copyin,FUNC_5
+ifp_src_route_copyout,FUNC_6
+rtalloc1_scoped,FUNC_7
+ifnet_cached_rtlookup_inet,FUNC_8
+ifp,VAR_1
+src_ip,VAR_2
+src_rt,VAR_3
+dst,VAR_4
+rte,VAR_5

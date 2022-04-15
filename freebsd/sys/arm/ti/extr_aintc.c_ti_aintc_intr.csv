@@ -1,0 +1,15 @@
+FILTER_HANDLED,VAR_0
+INTC_SIR_ACTIVE_MASK,VAR_1
+INTC_SIR_IRQ,VAR_2
+INTC_SIR_SPURIOUS_MASK,VAR_3
+aintc_read_4,FUNC_0
+arm_irq_memory_barrier,FUNC_1
+curthread,VAR_4
+device_printf,FUNC_2
+intr_isrc_dispatch,FUNC_3
+ti_aintc_irq_eoi,FUNC_4
+ti_aintc_irq_mask,FUNC_5
+ti_aintc_intr,FUNC_6
+arg,VAR_5
+irq,VAR_6
+sc,VAR_7

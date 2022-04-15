@@ -1,0 +1,12 @@
+GICv2M_MSI_SETSPI_NS,VAR_0
+device_get_softc,FUNC_0
+rman_get_virtual,FUNC_1
+vtophys,FUNC_2
+arm_gicv2m_map_msi,FUNC_3
+dev,VAR_1
+child,VAR_2
+isrc,VAR_3
+addr,VAR_4
+data,VAR_5
+sc,VAR_6
+gi,VAR_7

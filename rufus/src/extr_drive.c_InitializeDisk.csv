@@ -1,0 +1,16 @@
+DeviceIoControl,FUNC_0
+FALSE,VAR_0
+IOCTL_DISK_CREATE_DISK,VAR_1
+IOCTL_DISK_UPDATE_PROPERTIES,VAR_2
+MSG_239,VAR_3
+PARTITION_STYLE_RAW,VAR_4
+PrintInfoDebug,FUNC_1
+TRUE,VAR_5
+WindowsErrorString,FUNC_2
+safe_closehandle,FUNC_3
+uprintf,FUNC_4
+InitializeDisk,FUNC_5
+hDrive,VAR_6
+r,VAR_7
+size,VAR_8
+CreateDisk,VAR_9

@@ -1,0 +1,17 @@
+LPROPS_INDEX,VAR_0
+UBIFS_LPT_CRC_BYTES,VAR_1
+UBIFS_LPT_FANOUT,VAR_2
+UBIFS_LPT_PNODE,VAR_3
+check_lpt_crc,FUNC_0
+check_lpt_type,FUNC_1
+ubifs_categorize_lprops,FUNC_2
+ubifs_unpack_bits,FUNC_3
+unpack_pnode,FUNC_4
+c,VAR_4
+buf,VAR_5
+pnode,VAR_6
+addr,VAR_7
+i,VAR_8
+pos,VAR_9
+err,VAR_10
+lprops,VAR_11

@@ -1,0 +1,17 @@
+EP_xIsSelect,VAR_0
+OP_Copy,VAR_1
+TK_SELECT,VAR_2
+assert,FUNC_0
+sqlite3CodeSubselect,FUNC_1
+sqlite3ExprCode,FUNC_2
+sqlite3ExprIsVector,FUNC_3
+sqlite3VdbeAddOp3,FUNC_4
+codeExprOrVector,FUNC_5
+pParse,VAR_3
+p,VAR_4
+iReg,VAR_5
+nReg,VAR_6
+v,VAR_7
+iSelect,VAR_8
+i,VAR_9
+pList,VAR_10

@@ -1,0 +1,15 @@
+CLOCK_EVT_FEAT_ONESHOT,VAR_0
+CLOCK_EVT_STATE_ONESHOT,VAR_1
+EINVAL,VAR_2
+TICKDEV_MODE_ONESHOT,VAR_3
+clockevents_switch_state,FUNC_0
+pr_cont,FUNC_1
+pr_info,FUNC_2
+this_cpu_ptr,FUNC_3
+tick_broadcast_switch_to_oneshot,FUNC_4
+tick_cpu_device,VAR_4
+tick_device_is_functional,FUNC_5
+tick_switch_to_oneshot,FUNC_6
+handler,VAR_5
+td,VAR_6
+dev,VAR_7

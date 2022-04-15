@@ -1,0 +1,13 @@
+delete_fdt_mem_rsv,FUNC_0
+do_get_kexec_buffer,FUNC_1
+fdt_delprop,FUNC_2
+fdt_getprop,FUNC_3
+pr_debug,FUNC_4
+remove_ima_buffer,FUNC_5
+fdt,VAR_0
+chosen_node,VAR_1
+ret,VAR_2
+len,VAR_3
+addr,VAR_4
+size,VAR_5
+prop,VAR_6

@@ -1,0 +1,16 @@
+CatalogTupleDelete,FUNC_0
+ERROR,VAR_0
+HeapTupleIsValid,FUNC_1
+ObjectIdGetDatum,FUNC_2
+ReleaseSysCache,FUNC_3
+RowExclusiveLock,VAR_1
+SearchSysCache1,FUNC_4
+USERMAPPINGOID,VAR_2
+UserMappingRelationId,VAR_3
+elog,FUNC_5
+table_close,FUNC_6
+table_open,FUNC_7
+RemoveUserMappingById,FUNC_8
+umId,VAR_4
+tp,VAR_5
+rel,VAR_6

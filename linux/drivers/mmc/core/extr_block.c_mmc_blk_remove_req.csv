@@ -1,0 +1,10 @@
+GENHD_FL_UP,VAR_0
+MMC_BLK_DATA_AREA_BOOT,VAR_1
+del_gendisk,FUNC_0
+device_remove_file,FUNC_1
+disk_to_dev,FUNC_2
+mmc_blk_put,FUNC_3
+mmc_cleanup_queue,FUNC_4
+mmc_blk_remove_req,FUNC_5
+md,VAR_2
+card,VAR_3

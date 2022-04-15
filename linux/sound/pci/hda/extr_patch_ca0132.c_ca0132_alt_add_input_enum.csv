@@ -1,0 +1,11 @@
+HDA_CODEC_MUTE_MONO,FUNC_0
+HDA_INPUT,VAR_0
+INPUT_SOURCE_ENUM,VAR_1
+ca0132_alt_input_source_get,VAR_2
+ca0132_alt_input_source_info,VAR_3
+ca0132_alt_input_source_put,VAR_4
+snd_ctl_new1,FUNC_1
+snd_hda_ctl_add,FUNC_2
+ca0132_alt_add_input_enum,FUNC_3
+codec,VAR_5
+knew,VAR_6

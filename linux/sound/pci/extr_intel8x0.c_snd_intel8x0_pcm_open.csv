@@ -1,0 +1,12 @@
+DEVICE_SIS,VAR_0
+SNDRV_PCM_HW_PARAM_PERIODS,VAR_1
+snd_intel8x0_stream,VAR_2
+snd_pcm_hw_constraint_integer,FUNC_0
+snd_pcm_limit_hw_rates,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+snd_intel8x0_pcm_open,FUNC_3
+substream,VAR_3
+ichdev,VAR_4
+chip,VAR_5
+runtime,VAR_6
+err,VAR_7

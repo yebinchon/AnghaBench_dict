@@ -1,0 +1,12 @@
+config_intrhook_disestablish,FUNC_0
+nvme_admin_qpair_enable,FUNC_1
+nvme_ctrlr_construct_io_qpairs,FUNC_2
+nvme_ctrlr_fail,FUNC_3
+nvme_ctrlr_set_num_qpairs,FUNC_4
+nvme_ctrlr_start,FUNC_5
+nvme_notify_new_controller,FUNC_6
+nvme_qpair_reset,FUNC_7
+nvme_sysctl_initialize_ctrlr,FUNC_8
+nvme_ctrlr_start_config_hook,FUNC_9
+arg,VAR_0
+ctrlr,VAR_1

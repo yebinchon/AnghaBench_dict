@@ -1,0 +1,10 @@
+GET_FIELD,FUNC_0
+INIT_IF_MODE_OP_CMD_OFFSET,VAR_0
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+qed_init_cmd_mode_match,FUNC_3
+qed_init_cmd_mode,FUNC_4
+p_hwfn,VAR_1
+p_cmd,VAR_2
+modes,VAR_3
+offset,VAR_4

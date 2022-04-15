@@ -1,0 +1,11 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+MVMDIO_ERR_INT_CAUSE,VAR_2
+MVMDIO_ERR_INT_SMI_DONE,VAR_3
+readl,FUNC_0
+wake_up,FUNC_1
+writel,FUNC_2
+orion_mdio_err_irq,FUNC_3
+irq,VAR_4
+dev_id,VAR_5
+dev,VAR_6

@@ -1,0 +1,15 @@
+CMD_TYPE_DATA,VAR_0
+CMD_TYPE_REQUEST,VAR_1
+MESSAGE_HEADER_LEN,VAR_2
+MVMS_CMD,VAR_3
+cpu_to_le32,FUNC_0
+lbtf_deb_usbd,FUNC_1
+memcpy,FUNC_2
+usb_tx_block,FUNC_3
+if_usb_host_to_card,FUNC_4
+priv,VAR_4
+type,VAR_5
+payload,VAR_6
+nb,VAR_7
+cardp,VAR_8
+data,VAR_9

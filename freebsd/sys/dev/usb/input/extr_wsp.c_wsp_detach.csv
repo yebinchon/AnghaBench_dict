@@ -1,0 +1,13 @@
+WSP_ENABLED,VAR_0
+WSP_N_TRANSFER,VAR_1
+device_get_softc,FUNC_0
+mtx_destroy,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+usb_fifo_detach,FUNC_4
+usbd_transfer_unsetup,FUNC_5
+wsp_disable,FUNC_6
+wsp_set_device_mode,FUNC_7
+wsp_detach,FUNC_8
+dev,VAR_2
+sc,VAR_3

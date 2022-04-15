@@ -1,0 +1,12 @@
+NISTC_DIO_CTRL_DIR,FUNC_0
+NISTC_DIO_CTRL_DIR_MASK,VAR_0
+NISTC_DIO_CTRL_REG,VAR_1
+comedi_dio_insn_config,FUNC_1
+ni_stc_writew,FUNC_2
+ni_dio_insn_config,FUNC_3
+dev,VAR_2
+s,VAR_3
+insn,VAR_4
+data,VAR_5
+devpriv,VAR_6
+ret,VAR_7

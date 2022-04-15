@@ -1,0 +1,14 @@
+IMG_IR_IRQ_CLEAR,VAR_0
+IMG_IR_IRQ_EDGE,VAR_1
+IMG_IR_IRQ_ENABLE,VAR_2
+del_timer_sync,FUNC_0
+img_ir_read,FUNC_1
+img_ir_write,FUNC_2
+rc_unregister_device,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+img_ir_remove_raw,FUNC_6
+priv,VAR_3
+raw,VAR_4
+rdev,VAR_5
+irq_en,VAR_6

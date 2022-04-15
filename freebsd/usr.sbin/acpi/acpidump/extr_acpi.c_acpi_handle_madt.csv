@@ -1,0 +1,10 @@
+ACPI_MADT_PCAT_COMPAT,VAR_0
+BEGIN_COMMENT,VAR_1
+END_COMMENT,VAR_2
+acpi_print_madt,VAR_3
+acpi_print_sdt,FUNC_0
+acpi_walk_subtables,FUNC_1
+printf,FUNC_2
+acpi_handle_madt,FUNC_3
+sdp,VAR_4
+madt,VAR_5

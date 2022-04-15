@@ -1,0 +1,15 @@
+ATOM_text,VAR_0
+MP4_Box_data_sample_text_t,VAR_1
+MP4_FreeBox_sample_text,VAR_2
+MP4_GET2BYTES,FUNC_0
+MP4_GET4BYTES,FUNC_1
+MP4_READBOX_ENTER,FUNC_2
+MP4_READBOX_EXIT,FUNC_3
+i_read,VAR_3
+malloc,FUNC_4
+memcpy,FUNC_5
+msg_Dbg,FUNC_6
+p_peek,VAR_4
+MP4_ReadBox_sample_text,FUNC_7
+p_stream,VAR_5
+p_box,VAR_6

@@ -1,0 +1,17 @@
+AAD_LEN,VAR_0
+AES_BLOCK_SIZE,VAR_1
+CMAC_TLEN,VAR_2
+SHASH_DESC_ON_STACK,FUNC_0
+crypto_shash_finup,FUNC_1
+crypto_shash_init,FUNC_2
+crypto_shash_update,FUNC_3
+desc,VAR_3
+memcpy,FUNC_4
+zero,VAR_4
+ieee80211_aes_cmac,FUNC_5
+tfm,VAR_5
+aad,VAR_6
+data,VAR_7
+data_len,VAR_8
+mic,VAR_9
+out,VAR_10

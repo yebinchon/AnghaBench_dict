@@ -1,0 +1,16 @@
+SUN4C_REAL_PGDIR_MASK,VAR_0
+add_ring,FUNC_0
+flush_user_windows,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+max_user_taken_entries,VAR_1
+mmu_entry_pool,VAR_2
+sun4c_flush_segment,FUNC_4
+sun4c_get_segmap,FUNC_5
+sun4c_kernel_unmap,FUNC_6
+sun4c_ufree_ring,VAR_3
+free_locked_segment,FUNC_7
+addr,VAR_4
+entry,VAR_5
+flags,VAR_6
+pseg,VAR_7

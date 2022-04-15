@@ -1,0 +1,15 @@
+ARCMSR_MAX_FREESRB_NUM,VAR_0
+ARCMSR_SRB_ABORTED,VAR_1
+ARCMSR_SRB_START,VAR_2
+CAM_REQ_ABORTED,VAR_3
+arcmsr_abort_allcmd,FUNC_0
+arcmsr_disable_allintr,FUNC_1
+arcmsr_done4abort_postqueue,FUNC_2
+arcmsr_enable_allintr,FUNC_3
+arcmsr_srb_complete,FUNC_4
+printf,FUNC_5
+arcmsr_iop_reset,FUNC_6
+acb,VAR_4
+srb,VAR_5
+intmask_org,VAR_6
+i,VAR_7

@@ -1,0 +1,17 @@
+Assert,FUNC_0
+DEBUG1,VAR_0
+InvalidTransactionId,VAR_1
+InvalidXLogRecPtr,VAR_2
+MyReplicationSlot,VAR_3
+ReplicationSlotMarkDirty,FUNC_1
+ReplicationSlotSave,FUNC_2
+ReplicationSlotsComputeRequiredLSN,FUNC_3
+ReplicationSlotsComputeRequiredXmin,FUNC_4
+SpinLockAcquire,FUNC_5
+SpinLockRelease,FUNC_6
+TransactionIdIsValid,FUNC_7
+elog,FUNC_8
+LogicalConfirmReceivedLocation,FUNC_9
+lsn,VAR_4
+updated_xmin,VAR_5
+updated_restart,VAR_6

@@ -1,0 +1,16 @@
+EngAllocMem,FUNC_0
+EngFreeMem,FUNC_1
+GDI_POOL_ALLOCATION_GRANULARITY,VAR_0
+MEM_RESERVE,VAR_1
+NT_SUCCESS,FUNC_2
+NtCurrentProcess,FUNC_3
+PAGE_READWRITE,VAR_2
+RtlClearAllBits,FUNC_4
+RtlInitializeBitMap,FUNC_5
+ZwAllocateVirtualMemory,FUNC_6
+GdiPoolAllocateSection,FUNC_7
+pPool,VAR_3
+pSection,VAR_4
+pvBaseAddress,VAR_5
+cjSize,VAR_6
+status,VAR_7

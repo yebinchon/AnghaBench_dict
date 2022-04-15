@@ -1,0 +1,14 @@
+BIT,FUNC_0
+GPIOIC,VAR_0
+PL061_GPIO_NR,VAR_1
+gpiochip_get_data,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+irqd_to_hwirq,FUNC_3
+raw_spin_lock,FUNC_4
+raw_spin_unlock,FUNC_5
+writeb,FUNC_6
+pl061_irq_ack,FUNC_7
+d,VAR_2
+gc,VAR_3
+pl061,VAR_4
+mask,VAR_5

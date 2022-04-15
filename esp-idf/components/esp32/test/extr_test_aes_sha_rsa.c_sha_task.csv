@@ -1,0 +1,16 @@
+ESP_LOGI,FUNC_0
+SHA2_512,VAR_0
+TAG,VAR_1
+TEST_ASSERT_EQUAL_MEMORY_MESSAGE,FUNC_1
+esp_sha,FUNC_2
+exit_flag,VAR_2
+memcpy,FUNC_3
+memset,FUNC_4
+vTaskDelete,FUNC_5
+xSemaphoreGive,FUNC_6
+sha_task,FUNC_7
+pvParameters,VAR_3
+sema,VAR_4
+input,VAR_5
+output,VAR_6
+output_origin,VAR_7

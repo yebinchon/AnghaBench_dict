@@ -1,0 +1,13 @@
+DRM_DEBUG_DRIVER,FUNC_0
+WARN_ON,FUNC_1
+assert_shared_dpll_disabled,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+stub1,FUNC_5
+to_i915,FUNC_6
+to_intel_crtc,FUNC_7
+intel_prepare_shared_dpll,FUNC_8
+crtc_state,VAR_0
+crtc,VAR_1
+dev_priv,VAR_2
+pll,VAR_3

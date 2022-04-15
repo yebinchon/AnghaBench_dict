@@ -1,0 +1,12 @@
+DEVLINK_ATTR_DPIPE_TABLE_COUNTERS_ENABLED,VAR_0
+DEVLINK_ATTR_DPIPE_TABLE_NAME,VAR_1
+EINVAL,VAR_2
+devlink_dpipe_table_counters_set,FUNC_0
+nla_data,FUNC_1
+nla_get_u8,FUNC_2
+devlink_nl_cmd_dpipe_table_counters_set,FUNC_3
+skb,VAR_3
+info,VAR_4
+devlink,VAR_5
+table_name,VAR_6
+counters_enable,VAR_7

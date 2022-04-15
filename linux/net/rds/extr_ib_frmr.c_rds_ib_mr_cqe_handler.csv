@@ -1,0 +1,16 @@
+FRMR_IS_FREE,VAR_0
+FRMR_IS_INUSE,VAR_1
+FRMR_IS_STALE,VAR_2
+IB_WC_SUCCESS,VAR_3
+atomic_inc,FUNC_0
+ib_wc_status_msg,FUNC_1
+rds_conn_up,FUNC_2
+rds_ib_conn_error,FUNC_3
+rds_transition_frwr_state,FUNC_4
+smp_mb__before_atomic,FUNC_5
+wake_up,FUNC_6
+rds_ib_mr_cqe_handler,FUNC_7
+ic,VAR_4
+wc,VAR_5
+ibmr,VAR_6
+frmr,VAR_7

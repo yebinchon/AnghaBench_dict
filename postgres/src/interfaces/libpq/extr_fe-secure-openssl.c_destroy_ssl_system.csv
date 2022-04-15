@@ -1,0 +1,12 @@
+CRYPTO_get_id_callback,FUNC_0
+CRYPTO_get_locking_callback,FUNC_1
+CRYPTO_set_id_callback,FUNC_2
+CRYPTO_set_locking_callback,FUNC_3
+pq_init_crypto_lib,VAR_0
+pq_lockingcallback,VAR_1
+pq_threadidcallback,VAR_2
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+ssl_config_mutex,VAR_3
+ssl_open_connections,VAR_4
+destroy_ssl_system,FUNC_6

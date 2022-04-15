@@ -1,0 +1,11 @@
+I8042_KBD_IRQ,VAR_0
+PIC_CASCADE_IR,VAR_1
+PIC_MASTER_IMR,VAR_2
+PIC_SLAVE_IMR,VAR_3
+SCI_IRQ_NUM,VAR_4
+i8042_enable_kbd_port,FUNC_0
+inb,FUNC_1
+mips_machtype,VAR_5
+outb,FUNC_2
+setup_wakeup_events,FUNC_3
+irq_mask,VAR_6

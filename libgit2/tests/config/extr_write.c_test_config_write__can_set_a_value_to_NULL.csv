@@ -1,0 +1,10 @@
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+git_config_free,FUNC_4
+git_config_set_string,FUNC_5
+git_repository_config,FUNC_6
+test_config_write__can_set_a_value_to_NULL,FUNC_7
+repository,VAR_0
+config,VAR_1

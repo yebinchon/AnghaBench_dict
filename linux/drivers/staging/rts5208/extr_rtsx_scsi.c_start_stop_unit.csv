@@ -1,0 +1,14 @@
+SCSI_LUN,FUNC_0
+SENSE_TYPE_MEDIA_NOT_PRESENT,VAR_0
+TRANSPORT_ERROR,VAR_1
+TRANSPORT_FAILED,VAR_2
+TRANSPORT_GOOD,VAR_3
+check_card_ready,FUNC_1
+eject_card,FUNC_2
+scsi_bufflen,FUNC_3
+scsi_set_resid,FUNC_4
+set_sense_type,FUNC_5
+start_stop_unit,FUNC_6
+srb,VAR_4
+chip,VAR_5
+lun,VAR_6

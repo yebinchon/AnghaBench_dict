@@ -1,0 +1,16 @@
+MADT_OFFSET,VAR_0
+SCI_INT,VAR_1
+acpi_ncpu,VAR_2
+acpitbl_checksum,FUNC_0
+acpitbl_write32,FUNC_1
+acpitbl_write8,FUNC_2
+memcpy,FUNC_3
+tb,VAR_3
+acpitbl_build_madt,FUNC_4
+madt_head,VAR_4
+madt_apic,VAR_5
+madt_tail,VAR_6
+i,VAR_7
+madt_head_tmpl,VAR_8
+madt_apic_tmpl,VAR_9
+madt_tail_tmpl,VAR_10

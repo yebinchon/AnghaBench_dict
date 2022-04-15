@@ -1,0 +1,13 @@
+DSAF_TBL_TCAM_MCAST_CFG_0_0_REG,VAR_0
+DSAF_TBL_TCAM_MCAST_CFG_1_0_REG,VAR_1
+DSAF_TBL_TCAM_MCAST_CFG_2_0_REG,VAR_2
+DSAF_TBL_TCAM_MCAST_CFG_3_0_REG,VAR_3
+DSAF_TBL_TCAM_MCAST_CFG_4_0_REG,VAR_4
+dsaf_write_dev,FUNC_0
+hns_dsaf_tbl_tcam_addr_cfg,FUNC_1
+hns_dsaf_tbl_tcam_mcast_pul,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+hns_dsaf_tcam_mc_invld,FUNC_5
+dsaf_dev,VAR_5
+address,VAR_6

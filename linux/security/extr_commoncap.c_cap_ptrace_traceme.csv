@@ -1,0 +1,13 @@
+CAP_SYS_PTRACE,VAR_0
+EPERM,VAR_1
+__task_cred,FUNC_0
+cap_issubset,FUNC_1
+current_cred,FUNC_2
+has_ns_capability,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+cap_ptrace_traceme,FUNC_6
+parent,VAR_2
+ret,VAR_3
+cred,VAR_4
+child_cred,VAR_5

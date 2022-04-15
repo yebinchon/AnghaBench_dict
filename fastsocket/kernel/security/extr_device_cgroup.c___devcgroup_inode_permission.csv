@@ -1,0 +1,16 @@
+ACC_READ,VAR_0
+ACC_WRITE,VAR_1
+DEV_BLOCK,VAR_2
+DEV_CHAR,VAR_3
+MAY_READ,VAR_4
+MAY_WRITE,VAR_5
+S_ISBLK,FUNC_0
+S_ISCHR,FUNC_1
+__devcgroup_check_permission,FUNC_2
+imajor,FUNC_3
+iminor,FUNC_4
+__devcgroup_inode_permission,FUNC_5
+inode,VAR_6
+mask,VAR_7
+type,VAR_8
+access,VAR_9

@@ -1,0 +1,14 @@
+HS20_INDICATION_OUI_TYPE,VAR_0
+HS20_PPS_MO_ID_PRESENT,VAR_1
+HS20_VERSION,VAR_2
+OUI_WFA,VAR_3
+WLAN_EID_VENDOR_SPECIFIC,VAR_4
+wpabuf_put_be24,FUNC_0
+wpabuf_put_le16,FUNC_1
+wpabuf_put_u8,FUNC_2
+wpas_hs20_add_indication,FUNC_3
+buf,VAR_5
+pps_mo_id,VAR_6
+ap_release,VAR_7
+release,VAR_8
+conf,VAR_9

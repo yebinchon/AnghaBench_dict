@@ -1,0 +1,12 @@
+BIT,FUNC_0
+EXC3000_LEN_POINT,VAR_0
+MT_TOOL_FINGER,VAR_1
+get_unaligned_le16,FUNC_1
+input_mt_report_slot_state,FUNC_2
+input_mt_slot,FUNC_3
+touchscreen_report_pos,FUNC_4
+exc3000_report_slots,FUNC_5
+input,VAR_2
+prop,VAR_3
+buf,VAR_4
+num,VAR_5

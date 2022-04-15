@@ -1,0 +1,15 @@
+ARECA_RAID_GONE,VAR_0
+ARECA_RAID_GOOD,VAR_1
+CAM_DEV_NOT_THERE,VAR_2
+CAM_REQ_CMP,VAR_3
+CAM_UNCOR_PARITY,VAR_4
+FALSE,VAR_5
+arcmsr_report_sense_info,FUNC_0
+arcmsr_srb_complete,FUNC_1
+printf,FUNC_2
+arcmsr_report_srb_state,FUNC_3
+acb,VAR_6
+srb,VAR_7
+error,VAR_8
+target,VAR_9
+lun,VAR_10

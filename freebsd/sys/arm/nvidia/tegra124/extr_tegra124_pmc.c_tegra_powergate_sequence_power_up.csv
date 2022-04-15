@@ -1,0 +1,17 @@
+DELAY,FUNC_0
+clk_disable,FUNC_1
+clk_enable,FUNC_2
+clk_stop,FUNC_3
+device_printf,FUNC_4
+hwreset_assert,FUNC_5
+hwreset_deassert,FUNC_6
+tegra124_pmc_get_sc,FUNC_7
+tegra_powergate_power_off,FUNC_8
+tegra_powergate_power_on,FUNC_9
+tegra_powergate_remove_clamping,FUNC_10
+tegra_powergate_sequence_power_up,FUNC_11
+id,VAR_0
+clk,VAR_1
+rst,VAR_2
+sc,VAR_3
+rv,VAR_4

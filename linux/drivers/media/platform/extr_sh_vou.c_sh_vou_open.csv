@@ -1,0 +1,16 @@
+ERESTARTSYS,VAR_0
+SH_VOU_IDLE,VAR_1
+SH_VOU_INITIALISING,VAR_2
+mutex_lock_interruptible,FUNC_0
+mutex_unlock,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_put,FUNC_3
+sh_vou_hw_init,FUNC_4
+v4l2_fh_is_singular_file,FUNC_5
+v4l2_fh_open,FUNC_6
+v4l2_fh_release,FUNC_7
+video_drvdata,FUNC_8
+sh_vou_open,FUNC_9
+file,VAR_3
+vou_dev,VAR_4
+err,VAR_5

@@ -1,0 +1,15 @@
+MVPP2_TXP_SCHED_DISQ_OFFSET,VAR_0
+MVPP2_TXP_SCHED_ENQ_MASK,VAR_1
+MVPP2_TXP_SCHED_PORT_INDEX_REG,VAR_2
+MVPP2_TXP_SCHED_Q_CMD_REG,VAR_3
+MVPP2_TX_DISABLE_TIMEOUT_MSEC,VAR_4
+mdelay,FUNC_0
+mvpp2_egress_port,FUNC_1
+mvpp2_read,FUNC_2
+mvpp2_write,FUNC_3
+netdev_warn,FUNC_4
+mvpp2_egress_disable,FUNC_5
+port,VAR_5
+reg_data,VAR_6
+delay,VAR_7
+tx_port_num,VAR_8

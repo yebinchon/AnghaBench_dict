@@ -1,0 +1,17 @@
+GCSR_CCIC_EN,VAR_0
+GCSR_MRC,VAR_1
+GCSR_MRS,VAR_2
+GCSR_SRC,VAR_3
+GCSR_SRS,VAR_4
+GIMSK_CCIC_EN,VAR_5
+REG_GL_CSR,VAR_6
+REG_GL_IMASK,VAR_7
+REG_IRQMASK,VAR_8
+mcam_reg_set_bit,FUNC_0
+mcam_reg_write,FUNC_1
+msleep,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+cafe_ctlr_init,FUNC_5
+mcam,VAR_9
+flags,VAR_10

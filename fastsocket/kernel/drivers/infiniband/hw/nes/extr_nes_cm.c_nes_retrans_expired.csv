@@ -1,0 +1,11 @@
+NES_CM_EVENT_ABORTED,VAR_0
+NES_CM_STATE_CLOSED,VAR_1
+add_ref_cm_node,FUNC_0
+create_event,FUNC_1
+rem_ref_cm_node,FUNC_2
+send_reset,FUNC_3
+stub1,FUNC_4
+nes_retrans_expired,FUNC_5
+cm_node,VAR_2
+cm_id,VAR_3
+state,VAR_4

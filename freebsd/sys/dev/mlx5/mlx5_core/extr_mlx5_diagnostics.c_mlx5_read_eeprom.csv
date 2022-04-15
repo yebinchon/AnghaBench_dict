@@ -1,0 +1,15 @@
+MLX5_EEPROM_LOW_PAGE,VAR_0
+MLX5_EEPROM_PAGE_LENGTH,VAR_1
+MLX5_I2C_ADDR_LOW,VAR_2
+M_MLX5_EEPROM,VAR_3
+M_WAITOK,VAR_4
+M_ZERO,VAR_5
+free,FUNC_0
+malloc,FUNC_1
+mlx5_core_err,FUNC_2
+mlx5_get_eeprom,FUNC_3
+mlx5_get_eeprom_info,FUNC_4
+mlx5_read_eeprom,FUNC_5
+dev,VAR_6
+eeprom,VAR_7
+error,VAR_8

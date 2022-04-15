@@ -1,0 +1,13 @@
+__page_frag_cache_drain,FUNC_0
+memset,FUNC_1
+mt76_dma_dequeue,FUNC_2
+skb_free_frag,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+virt_to_page,FUNC_6
+mt76_dma_rx_cleanup,FUNC_7
+dev,VAR_0
+q,VAR_1
+page,VAR_2
+buf,VAR_3
+more,VAR_4

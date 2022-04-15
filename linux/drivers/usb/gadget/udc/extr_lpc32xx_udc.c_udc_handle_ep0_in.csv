@@ -1,0 +1,14 @@
+DATA_IN,VAR_0
+ECONNABORTED,VAR_1
+EP_IN,VAR_2
+EP_SEL_F,VAR_3
+EP_SEL_ST,VAR_4
+WAIT_FOR_SETUP,VAR_5
+nuke,FUNC_0
+udc_clearep_getsts,FUNC_1
+udc_clrstall_hwep,FUNC_2
+udc_ep0_in_req,FUNC_3
+udc_handle_ep0_in,FUNC_4
+udc,VAR_6
+ep0,VAR_7
+epstatus,VAR_8

@@ -1,0 +1,17 @@
+CMDSTS_LEN_MASK,VAR_0
+DESC_BUFPTR,VAR_1
+DESC_CMDSTS,VAR_2
+DESC_SIZE,VAR_3
+NR_TX_DESC,VAR_4
+PCI_DMA_TODEVICE,VAR_5
+atomic_dec,FUNC_0
+desc_addr_get,FUNC_1
+dev_kfree_skb_irq,FUNC_2
+le32_to_cpu,FUNC_3
+memset,FUNC_4
+pci_unmap_single,FUNC_5
+ns83820_cleanup_tx,FUNC_6
+dev,VAR_6
+i,VAR_7
+skb,VAR_8
+desc,VAR_9

@@ -1,0 +1,16 @@
+MSG_BUFFER_FREE_MAGIC,VAR_0
+MSG_BUFFER_USED_MAGIC,VAR_1
+MSG_CHUNK_USED_MAGIC,VAR_2
+assert,FUNC_0
+fprintf,FUNC_1
+free_msg_buffers_chunk,FUNC_2
+get_buffer_no,FUNC_3
+stderr,VAR_3
+total_used_buffers,VAR_4
+total_used_buffers_size,VAR_5
+verbosity,VAR_6
+free_std_msg_buffer,FUNC_4
+C,VAR_7
+X,VAR_8
+x,VAR_9
+two_power,VAR_10

@@ -1,0 +1,17 @@
+BCM2835_AUX_SPI_CNTL0,VAR_0
+BCM2835_AUX_SPI_CNTL1,VAR_1
+HZ,VAR_2
+__bcm2835aux_spi_transfer_one_irq,FUNC_0
+bcm2835aux_spi_transfer_helper,FUNC_1
+bcm2835aux_wr,FUNC_2
+dev_dbg_ratelimited,FUNC_3
+jiffies,VAR_3
+polling_limit_us,VAR_4
+spi_master_get_devdata,FUNC_4
+time_after,FUNC_5
+bcm2835aux_spi_transfer_one_poll,FUNC_6
+master,VAR_5
+spi,VAR_6
+tfr,VAR_7
+bs,VAR_8
+timeout,VAR_9

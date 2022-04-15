@@ -1,0 +1,15 @@
+IFCOUNTER_OBYTES,VAR_0
+IFCOUNTER_OERRORS,VAR_1
+IFCOUNTER_OMCASTS,VAR_2
+IFCOUNTER_OPACKETS,VAR_3
+M_MCAST,VAR_4
+M_TXCB,VAR_5
+ieee80211_free_node,FUNC_0
+ieee80211_process_callback,FUNC_1
+if_inc_counter,FUNC_2
+m_freem,FUNC_3
+ieee80211_tx_complete,FUNC_4
+ni,VAR_6
+m,VAR_7
+status,VAR_8
+ifp,VAR_9

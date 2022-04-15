@@ -1,0 +1,17 @@
+MediaDel,FUNC_0
+MediaSetup,FUNC_1
+VOD_MEDIA_STOP,VAR_0
+block_FifoGet,FUNC_2
+block_Release,FUNC_3
+free,FUNC_4
+memcpy,FUNC_5
+vlc_restorecancel,FUNC_6
+vlc_savecancel,FUNC_7
+vod_MediaControl,FUNC_8
+CommandThread,FUNC_9
+obj,VAR_1
+p_vod,VAR_2
+p_sys,VAR_3
+p_block_cmd,VAR_4
+cmd,VAR_5
+canc,VAR_6

@@ -1,0 +1,16 @@
+down,FUNC_0
+iwpm_nlmsg_req_list,VAR_0
+iwpm_nlmsg_req_lock,VAR_1
+kref_get,FUNC_1
+kref_init,FUNC_2
+kzalloc,FUNC_3
+list_add_tail,FUNC_4
+sema_init,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+iwpm_get_nlmsg_request,FUNC_8
+nlmsg_seq,VAR_2
+nl_client,VAR_3
+gfp,VAR_4
+nlmsg_request,VAR_5
+flags,VAR_6

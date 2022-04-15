@@ -1,0 +1,11 @@
+CON_FLAG_KEEPALIVE_PENDING,VAR_0
+CON_FLAG_WRITE_PENDING,VAR_1
+clear_standby,FUNC_0
+con_flag_set,FUNC_1
+con_flag_test_and_set,FUNC_2
+dout,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+queue_con,FUNC_6
+ceph_con_keepalive,FUNC_7
+con,VAR_2

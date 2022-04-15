@@ -1,0 +1,17 @@
+MSG_DONTWAIT,VAR_0
+__sockaddr_check_size,FUNC_0
+memcpy,FUNC_1
+memcpy_to_msg,FUNC_2
+skb_free_datagram,FUNC_3
+skb_recv_datagram,FUNC_4
+sock_recv_ts_and_drops,FUNC_5
+bcm_recvmsg,FUNC_6
+sock,VAR_1
+msg,VAR_2
+size,VAR_3
+flags,VAR_4
+sk,VAR_5
+skb,VAR_6
+error,VAR_7
+noblock,VAR_8
+err,VAR_9

@@ -1,0 +1,17 @@
+CPUFREQ_POLICY_PERFORMANCE,VAR_0
+ENODEV,VAR_1
+all_cpu_data,VAR_2
+hwp_active,VAR_3
+hwp_boost,VAR_4
+intel_pstate_clear_update_util_hook,FUNC_0
+intel_pstate_hwp_set,FUNC_1
+intel_pstate_limits_lock,VAR_5
+intel_pstate_max_within_limits,FUNC_2
+intel_pstate_set_update_util_hook,FUNC_3
+intel_pstate_update_perf_limits,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+pr_debug,FUNC_7
+intel_pstate_set_policy,FUNC_8
+policy,VAR_6
+cpu,VAR_7

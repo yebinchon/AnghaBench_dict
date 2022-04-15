@@ -1,0 +1,16 @@
+ATA_QCFLAG_ACTIVE,VAR_0
+ATA_TFLAG_POLLING,VAR_1
+IRQ_RETVAL,FUNC_0
+ata_qc_from_tag,FUNC_1
+ata_sff_host_intr,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ata_sff_interrupt,FUNC_5
+irq,VAR_2
+dev_instance,VAR_3
+host,VAR_4
+i,VAR_5
+handled,VAR_6
+flags,VAR_7
+ap,VAR_8
+qc,VAR_9

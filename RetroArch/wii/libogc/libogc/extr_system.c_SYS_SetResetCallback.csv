@@ -1,0 +1,12 @@
+IRQMASK,FUNC_0
+IRQ_PI_RSW,VAR_0
+_CPU_ISR_Disable,FUNC_1
+_CPU_ISR_Restore,FUNC_2
+__MaskIrq,FUNC_3
+__RSWCallback,VAR_1
+__UnmaskIrq,FUNC_4
+_piReg,VAR_2
+SYS_SetResetCallback,FUNC_5
+cb,VAR_3
+level,VAR_4
+old,VAR_5

@@ -1,0 +1,15 @@
+EALREADY,VAR_0
+EDEADLK,VAR_1
+WARN_ON_ONCE,FUNC_0
+regulator_lock_nested,FUNC_1
+regulator_supply_is_couple,FUNC_2
+regulator_unlock,FUNC_3
+regulator_unlock_recursive,FUNC_4
+regulator_lock_recursive,FUNC_5
+rdev,VAR_2
+new_contended_rdev,VAR_3
+old_contended_rdev,VAR_4
+ww_ctx,VAR_5
+c_rdev,VAR_6
+i,VAR_7
+err,VAR_8

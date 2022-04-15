@@ -1,0 +1,17 @@
+HV_SYNIC_FIRST_VALID_VECTOR,VAR_0
+HV_SYNIC_SINT_MASKED,VAR_1
+HV_SYNIC_SINT_VECTOR_MASK,VAR_2
+KVM_REQ_SCAN_IOAPIC,VAR_3
+atomic64_set,FUNC_0
+kvm_make_request,FUNC_1
+synic_read_sint,FUNC_2
+synic_to_vcpu,FUNC_3
+synic_update_vector,FUNC_4
+synic_set_sint,FUNC_5
+synic,VAR_4
+sint,VAR_5
+data,VAR_6
+host,VAR_7
+vector,VAR_8
+old_vector,VAR_9
+masked,VAR_10

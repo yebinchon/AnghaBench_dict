@@ -1,0 +1,13 @@
+PUCAN_CMD_TIMING_FAST,VAR_0
+PUCAN_TFAST_BRP,FUNC_0
+PUCAN_TFAST_SJW,FUNC_1
+PUCAN_TFAST_TSEG1,FUNC_2
+PUCAN_TFAST_TSEG2,FUNC_3
+cpu_to_le16,FUNC_4
+pcan_usb_fd_cmd_buffer,FUNC_5
+pcan_usb_fd_send_cmd,FUNC_6
+pucan_cmd_opcode_channel,FUNC_7
+pcan_usb_fd_set_bittiming_fast,FUNC_8
+dev,VAR_1
+bt,VAR_2
+cmd,VAR_3

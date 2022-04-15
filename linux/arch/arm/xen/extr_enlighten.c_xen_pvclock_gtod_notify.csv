@@ -1,0 +1,15 @@
+HYPERVISOR_platform_op,FUNC_0
+NOTIFY_OK,VAR_0
+XENPF_settime64,VAR_1
+timespec64_add,FUNC_1
+timespec64_compare,FUNC_2
+timespec64_to_ns,FUNC_3
+xen_pvclock_gtod_notify,FUNC_4
+nb,VAR_2
+was_set,VAR_3
+priv,VAR_4
+next_sync,VAR_5
+op,VAR_6
+now,VAR_7
+system_time,VAR_8
+tk,VAR_9

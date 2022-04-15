@@ -1,0 +1,8 @@
+S3C_GINTMSK,VAR_0
+readl,FUNC_0
+writel,FUNC_1
+s3c_hsotg_disable_gsint,FUNC_2
+hsotg,VAR_1
+ints,VAR_2
+gsintmsk,VAR_3
+new_gsintmsk,VAR_4

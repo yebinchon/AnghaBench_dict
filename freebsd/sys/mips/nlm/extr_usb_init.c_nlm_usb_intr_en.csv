@@ -1,0 +1,13 @@
+USB_CTRL_INTERRUPT_EN,VAR_0
+USB_INT_EN,VAR_1
+USB_OHCI_INTERRUPT1_EN,VAR_2
+USB_OHCI_INTERRUPT2_EN,VAR_3
+USB_OHCI_INTERRUPT_EN,VAR_4
+nlm_get_usb_regbase,FUNC_0
+nlm_read_usb_reg,FUNC_1
+nlm_write_usb_reg,FUNC_2
+nlm_usb_intr_en,FUNC_3
+node,VAR_5
+port,VAR_6
+val,VAR_7
+port_addr,VAR_8

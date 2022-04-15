@@ -1,0 +1,14 @@
+BIT,FUNC_0
+ENOMEM,VAR_0
+ID_REV_ID_LAN7430_,VAR_1
+ID_REV_ID_MASK_,VAR_2
+MII_BUS_ID_SIZE,VAR_3
+devm_mdiobus_alloc,FUNC_1
+lan743x_mdiobus_read,VAR_4
+lan743x_mdiobus_write,VAR_5
+mdiobus_register,FUNC_2
+pci_name,FUNC_3
+snprintf,FUNC_4
+lan743x_mdiobus_init,FUNC_5
+adapter,VAR_6
+ret,VAR_7

@@ -1,0 +1,13 @@
+FW_POLL_DELAY,VAR_0
+QLCNIC_CRB_DEV_STATE,VAR_1
+QLCNIC_DEV_READY,VAR_2
+QLC_SHARED_REG_RD32,FUNC_0
+__QLCNIC_AER,VAR_3
+pci_get_drvdata,FUNC_1
+qlcnic_fw_poll_work,VAR_4
+qlcnic_schedule_work,FUNC_2
+test_and_clear_bit,FUNC_3
+qlcnic_82xx_io_resume,FUNC_4
+pdev,VAR_5
+state,VAR_6
+adapter,VAR_7

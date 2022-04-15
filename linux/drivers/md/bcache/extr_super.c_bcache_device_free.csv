@@ -1,0 +1,16 @@
+GENHD_FL_UP,VAR_0
+bcache_device_detach,FUNC_0
+bcache_device_idx,VAR_1
+bch_register_lock,VAR_2
+bioset_exit,FUNC_1
+blk_cleanup_queue,FUNC_2
+closure_debug_destroy,FUNC_3
+del_gendisk,FUNC_4
+first_minor_to_idx,FUNC_5
+ida_simple_remove,FUNC_6
+kvfree,FUNC_7
+lockdep_assert_held,FUNC_8
+pr_info,FUNC_9
+put_disk,FUNC_10
+bcache_device_free,FUNC_11
+d,VAR_3

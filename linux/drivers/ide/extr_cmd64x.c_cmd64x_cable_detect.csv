@@ -1,0 +1,10 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+BMIDECSR,VAR_2
+pci_read_config_byte,FUNC_0
+to_pci_dev,FUNC_1
+cmd64x_cable_detect,FUNC_2
+hwif,VAR_3
+dev,VAR_4
+bmidecsr,VAR_5
+mask,VAR_6

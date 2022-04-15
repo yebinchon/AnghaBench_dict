@@ -1,0 +1,11 @@
+DCLKCON_DCLK0_CMP_SHIFT,VAR_0
+DCLKCON_DCLK0_DIV_SHIFT,VAR_1
+NOTIFY_DONE,VAR_2
+POST_RATE_CHANGE,VAR_3
+s3c24xx_dclk_update_cmp,FUNC_0
+to_s3c24xx_dclk0,FUNC_1
+s3c24xx_dclk0_div_notify,FUNC_2
+nb,VAR_4
+event,VAR_5
+data,VAR_6
+s3c24xx_dclk,VAR_7

@@ -1,0 +1,14 @@
+ASSERT_WDEV_LOCK,FUNC_0
+ETH_ALEN,VAR_0
+WLAN_REASON_DEAUTH_LEAVING,VAR_1
+cfg80211_put_bss,FUNC_1
+cfg80211_unhold_bss,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+rdev_deauth,FUNC_5
+cfg80211_mlme_down,FUNC_6
+rdev,VAR_2
+dev,VAR_3
+wdev,VAR_4
+req,VAR_5
+bssid,VAR_6

@@ -1,0 +1,13 @@
+CLOCK_REALTIME,VAR_0
+CLOCK_REALTIME_ALARM,VAR_1
+TFD_TIMER_ABSTIME,VAR_2
+TFD_TIMER_CANCEL_ON_SET,VAR_3
+__timerfd_remove_cancel,FUNC_0
+cancel_list,VAR_4
+cancel_lock,VAR_5
+list_add_rcu,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+timerfd_setup_cancel,FUNC_4
+ctx,VAR_6
+flags,VAR_7

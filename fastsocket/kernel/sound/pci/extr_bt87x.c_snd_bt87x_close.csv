@@ -1,0 +1,11 @@
+CTL_A_PWRDN,VAR_0
+REG_GPIO_DMA_CTL,VAR_1
+clear_bit,FUNC_0
+smp_mb__after_clear_bit,FUNC_1
+snd_bt87x_writel,FUNC_2
+snd_pcm_substream_chip,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+snd_bt87x_close,FUNC_6
+substream,VAR_2
+chip,VAR_3

@@ -1,0 +1,13 @@
+BCSR_REG_INTSTAT,VAR_0
+__ffs,FUNC_0
+__raw_readw,FUNC_1
+bcsr_csc_base,VAR_1
+bcsr_virt,VAR_2
+chained_irq_enter,FUNC_2
+chained_irq_exit,FUNC_3
+generic_handle_irq,FUNC_4
+irq_desc_get_chip,FUNC_5
+bcsr_csc_handler,FUNC_6
+d,VAR_3
+bisr,VAR_4
+chip,VAR_5

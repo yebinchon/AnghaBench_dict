@@ -1,0 +1,11 @@
+SIGINT,VAR_0
+SIGPIPE,VAR_1
+SIGTERM,VAR_2
+SIG_SETMASK,VAR_3
+handle_signal_action,VAR_4
+oldset,VAR_5
+pthread_sigmask,FUNC_0
+sigaction,FUNC_1
+sigemptyset,FUNC_2
+setup_thread_signals,FUNC_3
+act,VAR_6

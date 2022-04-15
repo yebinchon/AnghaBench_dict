@@ -1,0 +1,16 @@
+SERVICE_ACTION16,FUNC_0
+get_unaligned_be32,FUNC_1
+get_unaligned_be64,FUNC_2
+trace_seq_buffer_ptr,FUNC_3
+trace_seq_printf,FUNC_4
+trace_seq_putc,FUNC_5
+trace_seq_puts,FUNC_6
+scsi_trace_zbc_in,FUNC_7
+p,VAR_0
+cdb,VAR_1
+len,VAR_2
+ret,VAR_3
+cmd,VAR_4
+zone_id,VAR_5
+alloc_len,VAR_6
+options,VAR_7

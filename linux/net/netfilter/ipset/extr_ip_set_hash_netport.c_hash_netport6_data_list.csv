@@ -1,0 +1,15 @@
+IPSET_ATTR_CADT_FLAGS,VAR_0
+IPSET_ATTR_CIDR,VAR_1
+IPSET_ATTR_IP,VAR_2
+IPSET_ATTR_PORT,VAR_3
+IPSET_ATTR_PROTO,VAR_4
+IPSET_FLAG_NOMATCH,VAR_5
+htonl,FUNC_0
+nla_put_ipaddr6,FUNC_1
+nla_put_net16,FUNC_2
+nla_put_net32,FUNC_3
+nla_put_u8,FUNC_4
+hash_netport6_data_list,FUNC_5
+skb,VAR_6
+data,VAR_7
+flags,VAR_8

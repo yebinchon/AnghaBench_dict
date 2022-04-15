@@ -1,0 +1,15 @@
+EVENTHANDLER_REGISTER,FUNC_0
+NETDEV_CHANGEADDR,VAR_0
+NETDEV_REGISTER,VAR_1
+NETDEV_UNREGISTER,VAR_2
+NETDEV_UP,VAR_3
+iflladdr_event,VAR_4
+ifnet_arrival_event,VAR_5
+ifnet_departure_event,VAR_6
+ifnet_link_event,VAR_7
+linux_handle_iflladdr_event,VAR_8
+linux_handle_ifnet_arrival_event,VAR_9
+linux_handle_ifnet_departure_event,VAR_10
+linux_handle_ifnet_link_event,VAR_11
+register_netdevice_notifier,FUNC_1
+nb,VAR_12

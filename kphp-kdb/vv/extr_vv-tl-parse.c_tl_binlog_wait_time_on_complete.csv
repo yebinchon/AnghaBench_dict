@@ -1,0 +1,11 @@
+add_finished_query,FUNC_0
+assert,FUNC_1
+log_last_pos,FUNC_2
+lookup_binlog_time,FUNC_3
+precise_now,VAR_0
+remove_event_timer,FUNC_4
+tl_binlog_wait_pos_add,FUNC_5
+tl_binlog_wait_time_on_complete,FUNC_6
+Q,VAR_1
+q,VAR_2
+pos,VAR_3

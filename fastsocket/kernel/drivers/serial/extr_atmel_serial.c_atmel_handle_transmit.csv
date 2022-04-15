@@ -1,0 +1,11 @@
+ATMEL_US_ENDTX,VAR_0
+ATMEL_US_TXBUFE,VAR_1
+ATMEL_US_TXRDY,VAR_2
+UART_PUT_IDR,FUNC_0
+atmel_use_dma_tx,FUNC_1
+tasklet_schedule,FUNC_2
+to_atmel_uart_port,FUNC_3
+atmel_handle_transmit,FUNC_4
+port,VAR_3
+pending,VAR_4
+atmel_port,VAR_5

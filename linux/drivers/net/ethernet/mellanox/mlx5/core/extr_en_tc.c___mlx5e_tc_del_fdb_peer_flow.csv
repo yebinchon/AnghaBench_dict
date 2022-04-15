@@ -1,0 +1,12 @@
+DUP,VAR_0
+ESWITCH,VAR_1
+flow_flag_clear,FUNC_0
+flow_flag_test,FUNC_1
+kvfree,FUNC_2
+list_del,FUNC_3
+mlx5e_tc_del_fdb_flow,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+__mlx5e_tc_del_fdb_peer_flow,FUNC_7
+flow,VAR_2
+esw,VAR_3

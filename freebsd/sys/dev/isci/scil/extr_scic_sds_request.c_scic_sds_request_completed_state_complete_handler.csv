@@ -1,0 +1,11 @@
+SCI_BASE_REQUEST_STATE_FINAL,VAR_0
+SCI_SUCCESS,VAR_1
+SCU_INVALID_FRAME_INDEX,VAR_2
+TRUE,VAR_3
+sci_base_state_machine_change_state,FUNC_0
+scic_controller_free_io_tag,FUNC_1
+scic_sds_controller_release_frame,FUNC_2
+scic_sds_request_deinitialize_state_logging,FUNC_3
+scic_sds_request_completed_state_complete_handler,FUNC_4
+request,VAR_4
+this_request,VAR_5

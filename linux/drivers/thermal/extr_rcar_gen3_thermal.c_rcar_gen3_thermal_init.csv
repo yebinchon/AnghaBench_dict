@@ -1,0 +1,14 @@
+IRQ_TEMP2,VAR_0
+IRQ_TEMPD1,VAR_1
+REG_GEN3_IRQCTL,VAR_2
+REG_GEN3_IRQEN,VAR_3
+REG_GEN3_IRQMSK,VAR_4
+REG_GEN3_THCTR,VAR_5
+THCTR_PONM,VAR_6
+THCTR_THSST,VAR_7
+rcar_gen3_thermal_read,FUNC_0
+rcar_gen3_thermal_write,FUNC_1
+usleep_range,FUNC_2
+rcar_gen3_thermal_init,FUNC_3
+tsc,VAR_8
+reg_val,VAR_9

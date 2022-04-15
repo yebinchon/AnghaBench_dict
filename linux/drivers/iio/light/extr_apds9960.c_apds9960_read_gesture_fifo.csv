@@ -1,0 +1,10 @@
+APDS9960_REG_GFIFO_BASE,VAR_0
+apds9660_fifo_is_empty,FUNC_0
+iio_push_to_buffers,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+regmap_bulk_read,FUNC_4
+apds9960_read_gesture_fifo,FUNC_5
+data,VAR_1
+ret,VAR_2
+cnt,VAR_3

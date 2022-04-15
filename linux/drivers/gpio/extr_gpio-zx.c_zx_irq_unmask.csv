@@ -1,0 +1,17 @@
+BIT,FUNC_0
+ZX_GPIO_IE,VAR_0
+ZX_GPIO_IM,VAR_1
+ZX_GPIO_NR,VAR_2
+gpiochip_get_data,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+irqd_to_hwirq,FUNC_3
+raw_spin_lock,FUNC_4
+raw_spin_unlock,FUNC_5
+readw_relaxed,FUNC_6
+writew_relaxed,FUNC_7
+zx_irq_unmask,FUNC_8
+d,VAR_3
+gc,VAR_4
+chip,VAR_5
+mask,VAR_6
+gpioie,VAR_7

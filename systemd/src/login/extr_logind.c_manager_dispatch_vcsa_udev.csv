@@ -1,0 +1,12 @@
+DEVICE_ACTION_REMOVE,VAR_0
+assert,FUNC_0
+device_for_action,FUNC_1
+sd_device_get_sysname,FUNC_2
+seat_preallocate_vts,FUNC_3
+startswith,FUNC_4
+manager_dispatch_vcsa_udev,FUNC_5
+monitor,VAR_1
+device,VAR_2
+userdata,VAR_3
+m,VAR_4
+name,VAR_5

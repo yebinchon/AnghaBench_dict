@@ -1,0 +1,15 @@
+USBOTGSS_UTMI_OTG_CTRL_IDDIG,VAR_0
+USBOTGSS_UTMI_OTG_CTRL_SESSEND,VAR_1
+USBOTGSS_UTMI_OTG_CTRL_SESSVALID,VAR_2
+USBOTGSS_UTMI_OTG_CTRL_VBUSVALID,VAR_3
+dev_WARN,FUNC_0
+dev_err,FUNC_1
+dwc3_omap_read_utmi_ctrl,FUNC_2
+dwc3_omap_write_utmi_ctrl,FUNC_3
+regulator_disable,FUNC_4
+regulator_enable,FUNC_5
+dwc3_omap_set_mailbox,FUNC_6
+omap,VAR_4
+status,VAR_5
+ret,VAR_6
+val,VAR_7

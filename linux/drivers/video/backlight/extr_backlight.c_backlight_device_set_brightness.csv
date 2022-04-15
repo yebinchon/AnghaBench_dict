@@ -1,0 +1,12 @@
+BACKLIGHT_UPDATE_SYSFS,VAR_0
+EINVAL,VAR_1
+ENXIO,VAR_2
+backlight_generate_event,FUNC_0
+backlight_update_status,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pr_debug,FUNC_4
+backlight_device_set_brightness,FUNC_5
+bd,VAR_3
+brightness,VAR_4
+rc,VAR_5

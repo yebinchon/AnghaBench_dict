@@ -1,0 +1,10 @@
+GFP_KERNEL,VAR_0
+KVM_E500_TLB0_SIZE,VAR_1
+KVM_E500_TLB1_SIZE,VAR_2
+SPRN_TLB1CFG,VAR_3
+kfree,FUNC_0
+kzalloc,FUNC_1
+mfspr,FUNC_2
+tlb1_entry_num,VAR_4
+kvmppc_e500_tlb_init,FUNC_3
+vcpu_e500,VAR_5

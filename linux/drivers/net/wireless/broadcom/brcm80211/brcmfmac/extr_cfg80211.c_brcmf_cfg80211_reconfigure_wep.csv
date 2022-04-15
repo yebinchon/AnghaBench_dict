@@ -1,0 +1,15 @@
+BRCMF_MAX_DEFAULT_KEYS,VAR_0
+CRYPTO_ALGO_WEP1,VAR_1
+CRYPTO_ALGO_WEP128,VAR_2
+WEP_ENABLED,VAR_3
+bphy_err,FUNC_0
+brcmf_fil_bsscfg_int_get,FUNC_1
+brcmf_fil_bsscfg_int_set,FUNC_2
+send_key_to_dongle,FUNC_3
+brcmf_cfg80211_reconfigure_wep,FUNC_4
+ifp,VAR_4
+drvr,VAR_5
+err,VAR_6
+key_idx,VAR_7
+key,VAR_8
+wsec,VAR_9

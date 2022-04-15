@@ -1,0 +1,16 @@
+CatalogTupleDelete,FUNC_0
+ERROR,VAR_0
+HeapTupleIsValid,FUNC_1
+LANGOID,VAR_1
+LanguageRelationId,VAR_2
+ObjectIdGetDatum,FUNC_2
+ReleaseSysCache,FUNC_3
+RowExclusiveLock,VAR_3
+SearchSysCache1,FUNC_4
+elog,FUNC_5
+table_close,FUNC_6
+table_open,FUNC_7
+DropProceduralLanguageById,FUNC_8
+langOid,VAR_4
+rel,VAR_5
+langTup,VAR_6

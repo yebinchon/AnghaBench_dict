@@ -1,0 +1,12 @@
+DSOUND_capture,VAR_0
+DeleteCriticalSection,FUNC_0
+GetProcessHeap,FUNC_1
+HeapFree,FUNC_2
+IDirectSoundCaptureBufferImpl_Release,FUNC_3
+IDsCaptureDriver_Close,FUNC_4
+IDsCaptureDriver_Release,FUNC_5
+InterlockedDecrement,FUNC_6
+TRACE,FUNC_7
+DirectSoundCaptureDevice_Release,FUNC_8
+device,VAR_1
+ref,VAR_2

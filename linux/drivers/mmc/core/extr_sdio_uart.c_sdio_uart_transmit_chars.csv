@@ -1,0 +1,16 @@
+UART_TX,VAR_0
+WAKEUP_CHARS,VAR_1
+kfifo_len,FUNC_0
+kfifo_out_locked,FUNC_1
+sdio_out,FUNC_2
+sdio_uart_stop_tx,FUNC_3
+tty_kref_put,FUNC_4
+tty_port_tty_get,FUNC_5
+tty_wakeup,FUNC_6
+sdio_uart_transmit_chars,FUNC_7
+port,VAR_2
+xmit,VAR_3
+count,VAR_4
+tty,VAR_5
+iobuf,VAR_6
+len,VAR_7

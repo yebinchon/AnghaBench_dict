@@ -1,0 +1,14 @@
+CMD_DELAY_US,VAR_0
+CMD_TIMEOUT_US,VAR_1
+DC_RTC_CMD_MASK,VAR_2
+DC_RTC_CONTROL,VAR_3
+DC_RTC_GO_BUSY,VAR_4
+readb_relaxed_poll_timeout,FUNC_0
+writeb_relaxed,FUNC_1
+dc_rtc_cmds,FUNC_2
+rtc,VAR_5
+cmds,VAR_6
+len,VAR_7
+val,VAR_8
+i,VAR_9
+ret,VAR_10

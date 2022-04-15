@@ -1,0 +1,17 @@
+HPRT0,VAR_0
+HPRT0_RES,VAR_1
+HPRT0_SUSP,VAR_2
+PCGCTL,VAR_3
+PCGCTL_STOPPCLK,VAR_4
+USB_RESUME_TIMEOUT,VAR_5
+dwc2_read_hprt0,FUNC_0
+dwc2_readl,FUNC_1
+dwc2_writel,FUNC_2
+msleep,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+dwc2_port_resume,FUNC_6
+hsotg,VAR_6
+flags,VAR_7
+hprt0,VAR_8
+pcgctl,VAR_9

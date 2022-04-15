@@ -1,0 +1,15 @@
+FW_CAPS16,VAR_0
+FW_CMD_RETVAL_G,FUNC_0
+FW_SUCCESS,VAR_1
+be32_to_cpu,FUNC_1
+fwcaps16_to_caps32,FUNC_2
+ntohl,FUNC_3
+ntohs,FUNC_4
+csio_mb_process_read_port_rsp,FUNC_5
+hw,VAR_2
+mbp,VAR_3
+retval,VAR_4
+fw_caps,VAR_5
+pcaps,VAR_6
+acaps,VAR_7
+rsp,VAR_8

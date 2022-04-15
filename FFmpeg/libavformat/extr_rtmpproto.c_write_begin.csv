@@ -1,0 +1,16 @@
+AV_LOG_ERROR,VAR_0
+RTMP_NETWORK_CHANNEL,VAR_1
+RTMP_PT_USER_CONTROL,VAR_2
+av_log,FUNC_0
+bytestream2_init_writer,FUNC_1
+bytestream2_put_be16,FUNC_2
+bytestream2_put_be32,FUNC_3
+ff_rtmp_packet_create,FUNC_4
+ff_rtmp_packet_destroy,FUNC_5
+ff_rtmp_packet_write,FUNC_6
+write_begin,FUNC_7
+s,VAR_3
+rt,VAR_4
+pbc,VAR_5
+spkt,VAR_6
+ret,VAR_7

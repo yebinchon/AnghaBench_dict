@@ -1,0 +1,12 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+add_wait_queue,FUNC_1
+current,VAR_1
+d_in_lookup,FUNC_2
+schedule,FUNC_3
+set_current_state,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+wait,VAR_2
+d_wait_lookup,FUNC_7
+dentry,VAR_3

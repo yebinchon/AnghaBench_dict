@@ -1,0 +1,14 @@
+PIPE_A,VAR_0
+WARN_ON,FUNC_0
+intel_ddi_disable_pipe_clock,FUNC_1
+intel_ddi_fdi_post_disable,FUNC_2
+intel_set_pch_fifo_underrun_reporting,FUNC_3
+lpt_disable_iclkip,FUNC_4
+lpt_disable_pch_transcoder,FUNC_5
+pch_post_disable_crt,FUNC_6
+to_i915,FUNC_7
+hsw_post_disable_crt,FUNC_8
+encoder,VAR_1
+old_crtc_state,VAR_2
+old_conn_state,VAR_3
+dev_priv,VAR_4

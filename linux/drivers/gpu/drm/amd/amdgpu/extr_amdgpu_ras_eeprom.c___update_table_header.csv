@@ -1,0 +1,12 @@
+DRM_ERROR,FUNC_0
+EEPROM_ADDRESS_SIZE,VAR_0
+EEPROM_HDR_START,VAR_1
+EEPROM_I2C_TARGET_ADDR,VAR_2
+EEPROM_TABLE_HEADER_SIZE,VAR_3
+__encode_table_header_to_buff,FUNC_1
+i2c_transfer,FUNC_2
+__update_table_header,FUNC_3
+control,VAR_4
+buff,VAR_5
+ret,VAR_6
+msg,VAR_7

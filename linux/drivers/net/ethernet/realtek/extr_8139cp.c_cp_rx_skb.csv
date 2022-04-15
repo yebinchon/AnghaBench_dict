@@ -1,0 +1,13 @@
+ETH_P_8021Q,VAR_0
+RxVlanTagged,VAR_1
+__vlan_hwaccel_put_tag,FUNC_0
+eth_type_trans,FUNC_1
+htons,FUNC_2
+le32_to_cpu,FUNC_3
+napi_gro_receive,FUNC_4
+swab16,FUNC_5
+cp_rx_skb,FUNC_6
+cp,VAR_2
+skb,VAR_3
+desc,VAR_4
+opts2,VAR_5

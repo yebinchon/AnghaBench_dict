@@ -1,0 +1,11 @@
+PCI_DMA_FROMDEVICE,VAR_0
+RX_ALLOC_SIZE,VAR_1
+RX_DESC_CNT,VAR_2
+cpu_to_le32,FUNC_0
+dev_alloc_skb,FUNC_1
+pci_map_single,FUNC_2
+wmb,FUNC_3
+allocate_rx_buffer,FUNC_4
+db,VAR_3
+rxptr,VAR_4
+skb,VAR_5

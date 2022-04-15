@@ -1,0 +1,15 @@
+MX25_TGSR_GCQ_INT,VAR_0
+MX25_TGSR_TCQ_INT,VAR_1
+MX25_TSC_TGSR,VAR_2
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_chip,FUNC_3
+irq_desc_get_handler_data,FUNC_4
+irq_find_mapping,FUNC_5
+regmap_read,FUNC_6
+mx25_tsadc_irq_handler,FUNC_7
+desc,VAR_3
+tsadc,VAR_4
+chip,VAR_5
+status,VAR_6

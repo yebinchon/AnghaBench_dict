@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+TP_ABANDON,VAR_0
+TP_DESTROY,VAR_1
+TP_SUSPEND,VAR_2
+calloc,FUNC_1
+create_worker,FUNC_2
+pthread_cond_signal,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+tpool_dispatch,FUNC_6
+tpool,VAR_3
+func,VAR_4
+arg,VAR_5
+job,VAR_6

@@ -1,0 +1,12 @@
+cl_git_pass,FUNC_0
+cl_git_remove_placeholders,FUNC_1
+cl_git_sandbox_cleanup,FUNC_2
+cl_git_sandbox_init,FUNC_3
+cl_set_cleanup,FUNC_4
+cleanup_repository,VAR_0
+g_options,VAR_1
+g_repo,VAR_2
+g_repo_cloned,VAR_3
+git_clone,FUNC_5
+git_repository_path,FUNC_6
+test_clone_empty__can_clone_an_empty_standard_repo,FUNC_7

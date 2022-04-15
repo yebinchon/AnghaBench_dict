@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+RTC_IRQF,VAR_1
+RTC_PF,VAR_2
+RTC_RTSR,VAR_3
+RTC_RTSR_HZ,VAR_4
+readl,FUNC_0
+rtc_update_irq,FUNC_1
+writel,FUNC_2
+puv3_rtc_tickirq,FUNC_3
+irq,VAR_5
+id,VAR_6
+rdev,VAR_7

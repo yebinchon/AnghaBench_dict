@@ -1,0 +1,11 @@
+BATTERY_MODE_AMPS,VAR_0
+BATTERY_MODE_MASK,VAR_1
+BATTERY_MODE_OFFSET,VAR_2
+sbs_read_word_data,FUNC_0
+sbs_write_word_data,FUNC_1
+usleep_range,FUNC_2
+sbs_set_battery_mode,FUNC_3
+client,VAR_3
+mode,VAR_4
+ret,VAR_5
+original_val,VAR_6

@@ -1,0 +1,17 @@
+HCLGEVF_OPC_MBX_PF_TO_VF,VAR_0
+HCLGE_MBX_MAX_RESP_DATA_SIZE,VAR_1
+HCLGE_MBX_PF_VF_RESP,VAR_2
+dev_err,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+memcpy,FUNC_3
+hclge_gen_resp_to_vf,FUNC_4
+vport,VAR_3
+vf_to_pf_req,VAR_4
+resp_status,VAR_5
+resp_data,VAR_6
+resp_data_len,VAR_7
+resp_pf_to_vf,VAR_8
+hdev,VAR_9
+status,VAR_10
+desc,VAR_11

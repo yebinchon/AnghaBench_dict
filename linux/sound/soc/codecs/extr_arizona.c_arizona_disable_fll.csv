@@ -1,0 +1,12 @@
+ARIZONA_FLL1_ENA,VAR_0
+ARIZONA_FLL1_FREERUN,VAR_1
+ARIZONA_FLL1_SYNC_ENA,VAR_2
+arizona_set_fll_clks,FUNC_0
+pm_runtime_put_autosuspend,FUNC_1
+regmap_update_bits_async,FUNC_2
+regmap_update_bits_check,FUNC_3
+arizona_disable_fll,FUNC_4
+fll,VAR_3
+arizona,VAR_4
+ref_change,VAR_5
+sync_change,VAR_6

@@ -1,0 +1,16 @@
+ERRCODE_INTERNAL_ERROR,VAR_0
+ERROR,VAR_1
+SCRAM_RAW_NONCE_LEN,VAR_2
+ereport,FUNC_0
+errcode,FUNC_1
+errmsg,FUNC_2
+palloc,FUNC_3
+pg_b64_enc_len,FUNC_4
+pg_b64_encode,FUNC_5
+pg_strong_random,FUNC_6
+psprintf,FUNC_7
+pstrdup,FUNC_8
+build_server_first_message,FUNC_9
+state,VAR_3
+raw_nonce,VAR_4
+encoded_len,VAR_5

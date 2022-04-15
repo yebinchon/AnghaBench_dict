@@ -1,0 +1,14 @@
+ISCSI_TASK_TYPE_MPATH,VAR_0
+ISCSI_TEXT_REQUEST_NUM_RESP_BDS_SHIFT,VAR_1
+ISCSI_TEXT_REQUEST_RESP_BUFFER_LENGTH_SHIFT,VAR_2
+ISCSI_TEXT_REQUEST_TYPE_SHIFT,VAR_3
+be32_to_cpu,FUNC_0
+bnx2i_ring_dbell_update_sq_params,FUNC_1
+memset,FUNC_2
+ntoh24,FUNC_3
+bnx2i_send_iscsi_text,FUNC_4
+bnx2i_conn,VAR_4
+mtask,VAR_5
+text_wqe,VAR_6
+text_hdr,VAR_7
+dword,VAR_8

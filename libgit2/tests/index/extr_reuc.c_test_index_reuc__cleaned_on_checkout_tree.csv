@@ -1,0 +1,16 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_OPTIONS_INIT,VAR_1
+GIT_OBJECT_ANY,VAR_2
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_checkout_tree,FUNC_2
+git_object_free,FUNC_3
+git_object_lookup,FUNC_4
+git_reference_name_to_id,FUNC_5
+repo,VAR_3
+reuc_entry_exists,FUNC_6
+test_index_reuc__add,FUNC_7
+test_index_reuc__cleaned_on_checkout_tree,FUNC_8
+oid,VAR_4
+obj,VAR_5
+opts,VAR_6

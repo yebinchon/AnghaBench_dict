@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+IFSCOPE_NONE,VAR_1
+INP_BOUND_IF,VAR_2
+ROUTE_RELEASE,FUNC_0
+VERIFY,FUNC_1
+if_index,VAR_3
+ifindex2ifnet,VAR_4
+ifnet_head_done,FUNC_2
+ifnet_head_lock_shared,FUNC_3
+inp_bindif,FUNC_4
+inp,VAR_5
+ifscope,VAR_6
+pifp,VAR_7
+ifp,VAR_8

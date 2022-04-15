@@ -1,0 +1,11 @@
+KVM_SET_USER_MEMORY_REGION,VAR_0
+TEST_ASSERT,FUNC_0
+errno,VAR_1
+ioctl,FUNC_1
+vm_create_irqchip,FUNC_2
+vm_open,FUNC_3
+kvm_vm_restart,FUNC_4
+vmp,VAR_2
+perm,VAR_3
+region,VAR_4
+ret,VAR_5

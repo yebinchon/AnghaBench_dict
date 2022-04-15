@@ -1,0 +1,14 @@
+DIV_ROUND_UP,FUNC_0
+MLX5_OPCODE_NOP,VAR_0
+MLX5_SEND_WQEBB_NUM_DS,VAR_1
+MLX5_WQE_CTRL_CQ_UPDATE,VAR_2
+cpu_to_be32,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+mlx5_wq_cyc_get_wqe,FUNC_4
+mlx5e_do_send_cqe,FUNC_5
+mlx5e_send_nop,FUNC_6
+sq,VAR_3
+ds_cnt,VAR_4
+pi,VAR_5
+wqe,VAR_6

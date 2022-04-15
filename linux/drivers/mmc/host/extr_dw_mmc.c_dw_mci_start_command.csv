@@ -1,0 +1,13 @@
+CMD,VAR_0
+CMDARG,VAR_1
+SDMMC_CMD_RESP_EXP,VAR_2
+SDMMC_CMD_START,VAR_3
+dev_vdbg,FUNC_0
+dw_mci_set_cto,FUNC_1
+dw_mci_wait_while_busy,FUNC_2
+mci_writel,FUNC_3
+wmb,FUNC_4
+dw_mci_start_command,FUNC_5
+host,VAR_4
+cmd,VAR_5
+cmd_flags,VAR_6

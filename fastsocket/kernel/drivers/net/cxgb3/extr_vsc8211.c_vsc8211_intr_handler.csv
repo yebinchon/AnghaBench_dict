@@ -1,0 +1,14 @@
+CFG_CHG_INTR_MASK,VAR_0
+INTR_MASK,VAR_1
+MDIO_DEVAD_NONE,VAR_2
+VSC8211_INTR_STATUS,VAR_3
+VSC_INTR_RX_FIFO,VAR_4
+VSC_INTR_TX_FIFO,VAR_5
+cphy_cause_fifo_error,VAR_6
+cphy_cause_link_change,VAR_7
+t3_mdio_read,FUNC_0
+vsc8211_intr_handler,FUNC_1
+cphy,VAR_8
+cause,VAR_9
+err,VAR_10
+cphy_cause,VAR_11

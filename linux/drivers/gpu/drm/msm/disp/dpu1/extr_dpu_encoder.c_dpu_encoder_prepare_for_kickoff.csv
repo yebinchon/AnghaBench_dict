@@ -1,0 +1,17 @@
+DPU_ATRACE_BEGIN,FUNC_0
+DPU_ATRACE_END,FUNC_1
+DPU_ENC_ERR_NEEDS_HW_RESET,VAR_0
+DPU_ENC_RC_EVENT_KICKOFF,VAR_1
+DRMID,FUNC_2
+dpu_encoder_helper_hw_reset,FUNC_3
+dpu_encoder_resource_control,FUNC_4
+stub1,FUNC_5
+to_dpu_encoder_virt,FUNC_6
+trace_dpu_enc_prepare_kickoff,FUNC_7
+trace_dpu_enc_prepare_kickoff_reset,FUNC_8
+dpu_encoder_prepare_for_kickoff,FUNC_9
+drm_enc,VAR_2
+dpu_enc,VAR_3
+phys,VAR_4
+needs_hw_reset,VAR_5
+i,VAR_6

@@ -1,0 +1,13 @@
+INPCB_GCREQ_THRESHOLD,VAR_0
+TRUE,VAR_1
+atomic_add_32,FUNC_0
+inpcb_garbage_collecting,VAR_2
+inpcb_sched_lazy_timeout,FUNC_1
+inpcb_sched_timeout,FUNC_2
+inpcb_timeout_lock,VAR_3
+lck_mtx_lock_spin,FUNC_3
+lck_mtx_unlock,FUNC_4
+inpcb_gc_sched,FUNC_5
+ipi,VAR_4
+type,VAR_5
+gccnt,VAR_6

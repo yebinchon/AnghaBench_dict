@@ -1,0 +1,15 @@
+SD_EVENT_PRIORITY_NORMAL,VAR_0
+VARLINK_SERVER_ROOT_ONLY,VAR_1
+assert,FUNC_0
+varlink_server_attach_event,FUNC_1
+varlink_server_bind_method_many,FUNC_2
+varlink_server_listen_address,FUNC_3
+varlink_server_new,FUNC_4
+varlink_server_set_userdata,FUNC_5
+vl_method_flush_to_var,VAR_2
+vl_method_relinquish_var,VAR_3
+vl_method_rotate,VAR_4
+vl_method_synchronize,VAR_5
+server_open_varlink,FUNC_6
+s,VAR_6
+r,VAR_7

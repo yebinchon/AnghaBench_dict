@@ -1,0 +1,17 @@
+QCA7K_SPI_INTERNAL,VAR_0
+QCA7K_SPI_WRITE,VAR_1
+QCASPI_CMD_LEN,VAR_2
+cpu_to_be16,FUNC_0
+memset,FUNC_1
+qcaspi_spi_error,FUNC_2
+spi_message_add_tail,FUNC_3
+spi_message_init,FUNC_4
+spi_sync,FUNC_5
+__qcaspi_write_register,FUNC_6
+qca,VAR_3
+reg,VAR_4
+value,VAR_5
+tx_data,VAR_6
+transfer,VAR_7
+msg,VAR_8
+ret,VAR_9

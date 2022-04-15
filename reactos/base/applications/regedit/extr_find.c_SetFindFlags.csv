@@ -1,0 +1,16 @@
+ERROR_SUCCESS,VAR_0
+HKEY_CURRENT_USER,VAR_1
+KEY_ALL_ACCESS,VAR_2
+REG_DWORD,VAR_3
+REG_OPTION_NON_VOLATILE,VAR_4
+RegCloseKey,FUNC_0
+RegCreateKeyExW,FUNC_1
+RegSetValueExW,FUNC_2
+g_szGeneralRegKey,VAR_5
+s_szFindFlags,VAR_6
+s_szFindFlagsR,VAR_7
+SetFindFlags,FUNC_3
+dwFlags,VAR_8
+hKey,VAR_9
+dwDisposition,VAR_10
+dwData,VAR_11

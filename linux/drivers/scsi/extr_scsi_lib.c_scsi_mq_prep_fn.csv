@@ -1,0 +1,13 @@
+SCSI_PROT_NORMAL,VAR_0
+blk_mq_rq_to_pdu,FUNC_0
+blk_mq_start_request,FUNC_1
+memset,FUNC_2
+scsi_host_get_prot,FUNC_3
+scsi_init_command,FUNC_4
+scsi_setup_cmnd,FUNC_5
+scsi_mq_prep_fn,FUNC_6
+req,VAR_1
+cmd,VAR_2
+sdev,VAR_3
+shost,VAR_4
+sg,VAR_5

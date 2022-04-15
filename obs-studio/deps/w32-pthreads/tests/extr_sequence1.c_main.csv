@@ -1,0 +1,17 @@
+InterlockedExchangeAdd,FUNC_0
+NUMTHREADS,VAR_0
+PTHREAD_CREATE_DETACHED,VAR_1
+Sleep,FUNC_1
+assert,FUNC_2
+done,VAR_2
+func,VAR_3
+pthread_attr_init,FUNC_3
+pthread_attr_setdetachstate,FUNC_4
+pthread_create,FUNC_5
+pthread_getunique_np,FUNC_6
+pthread_self,FUNC_7
+seqmap,VAR_4
+main,FUNC_8
+t,VAR_5
+attr,VAR_6
+i,VAR_7

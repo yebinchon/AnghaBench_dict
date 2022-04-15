@@ -1,0 +1,17 @@
+CTL_E_FILEALREADYEXISTS,VAR_0
+CreateDirectoryW,FUNC_0
+GetLastError,FUNC_1
+IFileSystem3_CreateFolder,FUNC_2
+MAX_PATH,VAR_1
+RemoveDirectoryW,FUNC_3
+SysAllocString,FUNC_4
+SysFreeString,FUNC_5
+fs3,VAR_2
+get_temp_path,FUNC_6
+ok,FUNC_7
+test_createfolder,FUNC_8
+buffW,VAR_3
+hr,VAR_4
+path,VAR_5
+folder,VAR_6
+ret,VAR_7

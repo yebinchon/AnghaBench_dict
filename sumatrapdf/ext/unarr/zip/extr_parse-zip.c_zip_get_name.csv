@@ -1,0 +1,17 @@
+SEEK_SET,VAR_0
+ZIP_DIR_ENTRY_FIXED_SIZE,VAR_1
+ZIP_LOCAL_ENTRY_FIXED_SIZE,VAR_2
+ar_conv_dos_to_utf8,FUNC_0
+ar_read,FUNC_1
+ar_seek,FUNC_2
+free,FUNC_3
+malloc,FUNC_4
+strchr,FUNC_5
+zip_parse_directory_entry,FUNC_6
+zip_parse_local_file_entry,FUNC_7
+zip_get_name,FUNC_8
+ar,VAR_3
+zip,VAR_4
+entry,VAR_5
+name,VAR_6
+p,VAR_7

@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+RTW_TX_QUEUE_H2C,VAR_1
+dev_alloc_skb,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+rtw_pci_xmit,FUNC_3
+skb_put,FUNC_4
+skb_reserve,FUNC_5
+rtw_pci_write_data_h2c,FUNC_6
+rtwdev,VAR_2
+buf,VAR_3
+size,VAR_4
+skb,VAR_5
+pkt_info,VAR_6
+tx_pkt_desc_sz,VAR_7
+length,VAR_8

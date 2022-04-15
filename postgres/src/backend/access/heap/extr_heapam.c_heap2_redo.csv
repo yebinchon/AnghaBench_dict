@@ -1,0 +1,15 @@
+PANIC,VAR_0
+XLOG_HEAP_OPMASK,VAR_1
+XLR_INFO_MASK,VAR_2
+XLogRecGetInfo,FUNC_0
+elog,FUNC_1
+heap_xlog_clean,FUNC_2
+heap_xlog_cleanup_info,FUNC_3
+heap_xlog_freeze_page,FUNC_4
+heap_xlog_lock_updated,FUNC_5
+heap_xlog_logical_rewrite,FUNC_6
+heap_xlog_multi_insert,FUNC_7
+heap_xlog_visible,FUNC_8
+heap2_redo,FUNC_9
+record,VAR_3
+info,VAR_4

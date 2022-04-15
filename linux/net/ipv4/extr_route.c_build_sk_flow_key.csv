@@ -1,0 +1,15 @@
+IPPROTO_RAW,VAR_0
+RT_CONN_FLAGS,FUNC_0
+RT_SCOPE_UNIVERSE,VAR_1
+flowi4_init_output,FUNC_1
+inet_sk,FUNC_2
+inet_sk_flowi_flags,FUNC_3
+rcu_dereference,FUNC_4
+rcu_read_lock,FUNC_5
+rcu_read_unlock,FUNC_6
+build_sk_flow_key,FUNC_7
+fl4,VAR_2
+sk,VAR_3
+inet,VAR_4
+inet_opt,VAR_5
+daddr,VAR_6

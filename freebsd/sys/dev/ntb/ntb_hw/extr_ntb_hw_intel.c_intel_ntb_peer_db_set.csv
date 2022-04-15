@@ -1,0 +1,16 @@
+HAS_FEATURE,FUNC_0
+NTB_SB01BASE_LOCKUP,VAR_0
+NTB_SDOORBELL_LOCKUP,VAR_1
+XEON_NONLINK_DB_MSIX_BITS,VAR_2
+XEON_PDOORBELL_OFFSET,VAR_3
+bus_space_write_4,FUNC_1
+db_iowrite,FUNC_2
+device_get_softc,FUNC_3
+intel_ntb_db_vector_mask,FUNC_4
+intel_ntb_mw_write,FUNC_5
+intel_ntb_peer_db_set,FUNC_6
+dev,VAR_4
+bit,VAR_5
+ntb,VAR_6
+lapic,VAR_7
+i,VAR_8

@@ -1,0 +1,14 @@
+RCU_INIT_POINTER,FUNC_0
+bpf_map_area_free,FUNC_1
+rcu_dereference,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+reuseport_array,FUNC_5
+synchronize_rcu,FUNC_6
+write_lock_bh,FUNC_7
+write_unlock_bh,FUNC_8
+reuseport_array_free,FUNC_9
+map,VAR_0
+array,VAR_1
+sk,VAR_2
+i,VAR_3

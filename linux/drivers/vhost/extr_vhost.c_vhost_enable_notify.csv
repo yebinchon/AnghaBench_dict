@@ -1,0 +1,15 @@
+VIRTIO_RING_F_EVENT_IDX,VAR_0
+VRING_USED_F_NO_NOTIFY,VAR_1
+smp_mb,FUNC_0
+vhost16_to_cpu,FUNC_1
+vhost_avail_event,FUNC_2
+vhost_get_avail_idx,FUNC_3
+vhost_has_feature,FUNC_4
+vhost_update_avail_event,FUNC_5
+vhost_update_used_flags,FUNC_6
+vq_err,FUNC_7
+vhost_enable_notify,FUNC_8
+dev,VAR_2
+vq,VAR_3
+avail_idx,VAR_4
+r,VAR_5

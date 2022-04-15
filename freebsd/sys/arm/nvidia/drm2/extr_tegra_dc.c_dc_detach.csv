@@ -1,0 +1,14 @@
+LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+TEGRA_DRM_DEREGISTER_CLIENT,FUNC_1
+bus_generic_detach,FUNC_2
+bus_release_resource,FUNC_3
+bus_teardown_intr,FUNC_4
+clk_release,FUNC_5
+device_get_parent,FUNC_6
+device_get_softc,FUNC_7
+hwreset_release,FUNC_8
+dc_detach,FUNC_9
+dev,VAR_2
+sc,VAR_3

@@ -1,0 +1,12 @@
+asl_qset_delete,FUNC_0
+pzl_qset_delete,FUNC_1
+usb_endpoint_xfer_bulk,FUNC_2
+usb_endpoint_xfer_control,FUNC_3
+usb_hcd_to_wusbhc,FUNC_4
+wusbhc_to_whc,FUNC_5
+whc_endpoint_disable,FUNC_6
+usb_hcd,VAR_0
+ep,VAR_1
+wusbhc,VAR_2
+whc,VAR_3
+qset,VAR_4

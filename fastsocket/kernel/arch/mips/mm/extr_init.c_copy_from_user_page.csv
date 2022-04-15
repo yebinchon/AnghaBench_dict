@@ -1,0 +1,16 @@
+PAGE_MASK,VAR_0
+Page_dcache_dirty,FUNC_0
+SetPageDcacheDirty,FUNC_1
+cpu_has_dc_aliases,VAR_1
+kmap_coherent,FUNC_2
+kunmap_coherent,FUNC_3
+memcpy,FUNC_4
+page_mapped,FUNC_5
+copy_from_user_page,FUNC_6
+vma,VAR_2
+page,VAR_3
+vaddr,VAR_4
+dst,VAR_5
+src,VAR_6
+len,VAR_7
+vfrom,VAR_8

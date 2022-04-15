@@ -1,0 +1,17 @@
+HAS_PCH_LPT_LP,FUNC_0
+SBI_DBUFF0,VAR_0
+SBI_GEN0,VAR_1
+SBI_GEN0_CFG_BUFFENABLE_DISABLE,VAR_2
+SBI_ICLK,VAR_3
+SBI_SSCCTL,VAR_4
+SBI_SSCCTL_DISABLE,VAR_5
+SBI_SSCCTL_PATHALT,VAR_6
+intel_sbi_read,FUNC_1
+intel_sbi_write,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+udelay,FUNC_5
+lpt_disable_clkout_dp,FUNC_6
+dev_priv,VAR_7
+reg,VAR_8
+tmp,VAR_9

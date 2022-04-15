@@ -1,0 +1,10 @@
+irq_domain_remove,FUNC_0
+irq_set_chained_handler_and_data,FUNC_1
+platform_get_drvdata,FUNC_2
+spmi_controller_get_drvdata,FUNC_3
+spmi_controller_put,FUNC_4
+spmi_controller_remove,FUNC_5
+spmi_pmic_arb_remove,FUNC_6
+pdev,VAR_0
+ctrl,VAR_1
+pmic_arb,VAR_2

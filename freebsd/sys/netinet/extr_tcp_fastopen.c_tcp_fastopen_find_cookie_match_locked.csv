@@ -1,0 +1,13 @@
+TCP_FASTOPEN_COOKIE_LEN,VAR_0
+TCP_FASTOPEN_MAX_PSKS,VAR_1
+V_tcp_fastopen_keys,VAR_2
+V_tcp_fastopen_numpsks,VAR_3
+V_tcp_fastopen_psk_enable,VAR_4
+memcmp,FUNC_0
+tcp_fastopen_make_psk_cookie,FUNC_1
+tcp_fastopen_find_cookie_match_locked,FUNC_2
+wire_cookie,VAR_5
+cur_cookie,VAR_6
+i,VAR_7
+psk_index,VAR_8
+psk_cookie,VAR_9

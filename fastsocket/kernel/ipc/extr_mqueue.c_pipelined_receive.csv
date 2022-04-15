@@ -1,0 +1,12 @@
+SEND,VAR_0
+STATE_PENDING,VAR_1
+STATE_READY,VAR_2
+list_del,FUNC_0
+msg_insert,FUNC_1
+smp_wmb,FUNC_2
+wake_up_interruptible,FUNC_3
+wake_up_process,FUNC_4
+wq_get_first_waiter,FUNC_5
+pipelined_receive,FUNC_6
+info,VAR_3
+sender,VAR_4

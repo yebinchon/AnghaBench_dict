@@ -1,0 +1,13 @@
+SDHCI_DEVICE_DEAD,VAR_0
+SDHCI_INT_CARD_INT,VAR_1
+mmc_priv,FUNC_0
+mmiowb,FUNC_1
+sdhci_mask_irqs,FUNC_2
+sdhci_unmask_irqs,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+sdhci_enable_sdio_irq,FUNC_6
+mmc,VAR_2
+enable,VAR_3
+host,VAR_4
+flags,VAR_5

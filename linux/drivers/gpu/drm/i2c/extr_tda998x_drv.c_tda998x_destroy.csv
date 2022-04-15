@@ -1,0 +1,16 @@
+INT_FLAGS_2_EDID_BLK_RD,VAR_0
+REG_CEC_RXSHPDINTENA,VAR_1
+REG_INT_FLAGS_2,VAR_2
+cancel_work_sync,FUNC_0
+cec_notifier_put,FUNC_1
+cec_write,FUNC_2
+del_timer_sync,FUNC_3
+dev_get_drvdata,FUNC_4
+drm_bridge_remove,FUNC_5
+free_irq,FUNC_6
+i2c_unregister_device,FUNC_7
+platform_device_unregister,FUNC_8
+reg_clear,FUNC_9
+tda998x_destroy,FUNC_10
+dev,VAR_3
+priv,VAR_4

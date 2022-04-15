@@ -1,0 +1,14 @@
+BIO_get_fd,FUNC_0
+BIO_new_socket,FUNC_1
+BIO_set_close,FUNC_2
+SSL_get_wbio,FUNC_3
+SSL_set_bio,FUNC_4
+bufferevent_openssl_new_impl,FUNC_5
+bufferevent_openssl_socket_new,FUNC_6
+base,VAR_0
+fd,VAR_1
+ssl,VAR_2
+state,VAR_3
+options,VAR_4
+bio,VAR_5
+have_fd,VAR_6

@@ -1,0 +1,12 @@
+lis3l02dq_spi_write_reg_8,FUNC_0
+strict_strtoul,FUNC_1
+to_iio_dev_attr,FUNC_2
+lis3l02dq_write_unsigned,FUNC_3
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+len,VAR_3
+ret,VAR_4
+valin,VAR_5
+val,VAR_6
+this_attr,VAR_7

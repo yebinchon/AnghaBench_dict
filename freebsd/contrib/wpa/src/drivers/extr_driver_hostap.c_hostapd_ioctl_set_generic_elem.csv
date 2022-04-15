@@ -1,0 +1,14 @@
+MSG_DEBUG,VAR_0
+PRISM2_HOSTAPD_GENERIC_ELEMENT_HDR_LEN,VAR_1
+PRISM2_HOSTAPD_SET_GENERIC_ELEMENT,VAR_2
+hostapd_ioctl,FUNC_0
+os_free,FUNC_1
+os_memcpy,FUNC_2
+os_zalloc,FUNC_3
+wpa_hexdump,FUNC_4
+hostapd_ioctl_set_generic_elem,FUNC_5
+drv,VAR_3
+param,VAR_4
+res,VAR_5
+blen,VAR_6
+elem_len,VAR_7

@@ -1,0 +1,16 @@
+dev_get_drvdata,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_vblank_off,FUNC_2
+ipu_crtc_disable_planes,FUNC_3
+ipu_dc_disable,FUNC_4
+ipu_dc_disable_channel,FUNC_5
+ipu_di_disable,FUNC_6
+ipu_prg_disable,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+to_ipu_crtc,FUNC_10
+ipu_crtc_atomic_disable,FUNC_11
+crtc,VAR_0
+old_crtc_state,VAR_1
+ipu_crtc,VAR_2
+ipu,VAR_3

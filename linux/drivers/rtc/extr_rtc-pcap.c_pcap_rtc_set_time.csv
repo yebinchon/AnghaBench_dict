@@ -1,0 +1,13 @@
+PCAP_REG_RTC_DAY,VAR_0
+PCAP_REG_RTC_TOD,VAR_1
+SEC_PER_DAY,VAR_2
+dev_get_drvdata,FUNC_0
+ezx_pcap_write,FUNC_1
+rtc_tm_to_time64,FUNC_2
+pcap_rtc_set_time,FUNC_3
+dev,VAR_3
+tm,VAR_4
+pcap_rtc,VAR_5
+secs,VAR_6
+tod,VAR_7
+days,VAR_8

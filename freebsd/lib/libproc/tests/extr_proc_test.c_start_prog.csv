@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+ATF_REQUIRE_EQ_MSG,FUNC_1
+asprintf,FUNC_2
+atf_tc_get_config_var,FUNC_3
+free,FUNC_4
+proc_create,FUNC_5
+strdup,FUNC_6
+target_prog_file,VAR_0
+start_prog,FUNC_7
+tc,VAR_1
+sig,VAR_2
+argv,VAR_3
+phdl,VAR_4
+error,VAR_5

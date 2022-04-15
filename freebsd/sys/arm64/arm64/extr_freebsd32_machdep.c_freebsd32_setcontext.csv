@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+SIG_SETMASK,VAR_1
+UC_COPY_SIZE,VAR_2
+copyin,FUNC_0
+kern_sigprocmask,FUNC_1
+set_mcontext32,FUNC_2
+freebsd32_setcontext,FUNC_3
+td,VAR_3
+uap,VAR_4
+uc,VAR_5
+ret,VAR_6

@@ -1,0 +1,15 @@
+MAXNAMELEN,VAR_0
+TQ_SLEEP,VAR_1
+ZVOL_ASYNC_SET_SNAPDEV,VAR_2
+dsl_dataset_name,FUNC_0
+dsl_prop_get_int_ds,FUNC_1
+taskq_dispatch,FUNC_2
+zvol_task_alloc,FUNC_3
+zvol_task_cb,VAR_3
+zvol_set_snapdev_sync_cb,FUNC_4
+dp,VAR_4
+ds,VAR_5
+arg,VAR_6
+dsname,VAR_7
+task,VAR_8
+snapdev,VAR_9

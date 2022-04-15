@@ -1,0 +1,10 @@
+SX9500_REG_PROX_CTRL0,VAR_0
+SX9500_SCAN_PERIOD_MASK,VAR_1
+SX9500_SCAN_PERIOD_SHIFT,VAR_2
+msleep,FUNC_0
+regmap_read,FUNC_1
+sx9500_scan_period_table,VAR_3
+sx9500_wait_for_sample,FUNC_2
+data,VAR_4
+ret,VAR_5
+val,VAR_6

@@ -1,0 +1,17 @@
+FATTR4_WORD0_ACLSUPPORT,VAR_0
+FATTR4_WORD0_LINK_SUPPORT,VAR_1
+FATTR4_WORD0_SUPPORTED_ATTRS,VAR_2
+FATTR4_WORD0_SYMLINK_SUPPORT,VAR_3
+encode_compound_hdr,FUNC_0
+encode_getattr_one,FUNC_1
+encode_nops,FUNC_2
+encode_putfh,FUNC_3
+encode_sequence,FUNC_4
+nfs4_xdr_minorversion,FUNC_5
+xdr_init_encode,FUNC_6
+nfs4_xdr_enc_server_caps,FUNC_7
+req,VAR_4
+p,VAR_5
+args,VAR_6
+xdr,VAR_7
+hdr,VAR_8

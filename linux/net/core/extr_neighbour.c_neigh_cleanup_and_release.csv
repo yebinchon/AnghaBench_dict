@@ -1,0 +1,9 @@
+NETEVENT_NEIGH_UPDATE,VAR_0
+RTM_DELNEIGH,VAR_1
+__neigh_notify,FUNC_0
+call_netevent_notifiers,FUNC_1
+neigh_release,FUNC_2
+stub1,FUNC_3
+trace_neigh_cleanup_and_release,FUNC_4
+neigh_cleanup_and_release,FUNC_5
+neigh,VAR_2

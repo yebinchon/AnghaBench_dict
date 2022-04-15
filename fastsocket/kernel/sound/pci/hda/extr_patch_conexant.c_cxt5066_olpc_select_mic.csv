@@ -1,0 +1,11 @@
+AC_VERB_SET_PIN_WIDGET_CONTROL,VAR_0
+CXT5066_OLPC_EXT_MIC_BIAS,VAR_1
+PIN_IN,VAR_2
+PIN_VREF80,VAR_3
+cxt5066_set_olpc_dc_bias,FUNC_0
+snd_hda_sequence_write,FUNC_1
+snd_hda_set_pin_ctl,FUNC_2
+cxt5066_olpc_select_mic,FUNC_3
+codec,VAR_4
+spec,VAR_5
+enable_dc_mode,VAR_6

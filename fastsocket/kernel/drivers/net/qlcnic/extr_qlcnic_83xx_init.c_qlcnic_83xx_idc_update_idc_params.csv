@@ -1,0 +1,11 @@
+QLC_83XX_IDC_FW_POLL_DELAY,VAR_0
+QLC_83XX_MBX_READY,VAR_1
+QLC_83XX_MODULE_LOADED,VAR_2
+__QLCNIC_RESETTING,VAR_3
+clear_bit,FUNC_0
+qlcnic_83xx_idc_update_audit_reg,FUNC_1
+qlcnic_83xx_idc_update_drv_presence_reg,FUNC_2
+set_bit,FUNC_3
+qlcnic_83xx_idc_update_idc_params,FUNC_4
+adapter,VAR_4
+ahw,VAR_5

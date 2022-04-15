@@ -1,0 +1,15 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+GIST_ROOT_BLKNO,VAR_0
+MemoryContextReset,FUNC_1
+getNextGISTSearchItem,FUNC_2
+gistScanPage,FUNC_3
+memset,FUNC_4
+pfree,FUNC_5
+pgstat_count_index_scan,FUNC_6
+gistgetbitmap,FUNC_7
+scan,VAR_1
+tbm,VAR_2
+so,VAR_3
+ntids,VAR_4
+fakeItem,VAR_5
+item,VAR_6

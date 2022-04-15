@@ -1,0 +1,15 @@
+FALSE,VAR_0
+MPI_FUNCTION_TARGET_MODE_ABORT,VAR_1
+MPT_TGT_STATE,FUNC_0
+TARGET_MODE_ABORT_TYPE_EXACT_IO,VAR_2
+htole32,FUNC_1
+memset,FUNC_2
+mpt_get_request,FUNC_3
+mpt_send_cmd,FUNC_4
+mpt_send_handshake_cmd,FUNC_5
+mpt_abort_target_cmd,FUNC_6
+mpt,VAR_3
+cmd_req,VAR_4
+error,VAR_5
+req,VAR_6
+abtp,VAR_7

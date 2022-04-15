@@ -1,0 +1,11 @@
+CG_SCLK_DPM_CTRL_3,VAR_0
+FORCE_NB_PSTATE_1,VAR_1
+SUMO_POWERSTATE_FLAGS_FORCE_NBPS1_STATE,VAR_2
+WREG32_P,FUNC_0
+sumo_get_pi,FUNC_1
+sumo_get_ps,FUNC_2
+sumo_force_nbp_state,FUNC_3
+rdev,VAR_3
+rps,VAR_4
+pi,VAR_5
+new_ps,VAR_6

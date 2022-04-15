@@ -1,0 +1,14 @@
+HRTIMER_MODE_REL,VAR_0
+NSEC_PER_SEC,VAR_1
+do_div,FUNC_0
+get_tb,FUNC_1
+hrtimer_start,FUNC_2
+hrtimer_try_to_cancel,FUNC_3
+ktime_set,FUNC_4
+kvmppc_core_dequeue_dec,FUNC_5
+pr_debug,FUNC_6
+tb_to_ns,FUNC_7
+kvmppc_emulate_dec,FUNC_8
+vcpu,VAR_2
+dec_nsec,VAR_3
+dec_time,VAR_4

@@ -1,0 +1,17 @@
+TAB_APPEND,FUNC_0
+lua_getfield,FUNC_1
+lua_isstring,FUNC_2
+lua_istable,FUNC_3
+lua_next,FUNC_4
+lua_pop,FUNC_5
+lua_pushnil,FUNC_6
+lua_tostring,FUNC_7
+msg_Dbg,FUNC_8
+msg_Warn,FUNC_9
+strdup,FUNC_10
+vlclua_read_options,FUNC_11
+p_this,VAR_0
+L,VAR_1
+pi_options,VAR_2
+pppsz_options,VAR_3
+psz_option,VAR_4

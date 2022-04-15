@@ -1,0 +1,12 @@
+DONE,VAR_0
+GUEST_ASSERT,FUNC_0
+MSR_IA32_APICBASE,VAR_1
+X2APIC_ENABLE,VAR_2
+prepare_for_vmx_operation,FUNC_1
+rdmsr,FUNC_2
+self_smi,FUNC_3
+sync_with_host,FUNC_4
+wrmsr,FUNC_5
+guest_code,FUNC_6
+vmx_pages,VAR_3
+apicbase,VAR_4

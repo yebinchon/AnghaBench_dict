@@ -1,0 +1,17 @@
+SetPageUptodate,FUNC_0
+buffer_uptodate,FUNC_1
+clear_buffer_new,FUNC_2
+mark_buffer_dirty,FUNC_3
+page_buffers,FUNC_4
+set_buffer_uptodate,FUNC_5
+__block_commit_write,FUNC_6
+inode,VAR_0
+page,VAR_1
+from,VAR_2
+to,VAR_3
+block_start,VAR_4
+block_end,VAR_5
+partial,VAR_6
+blocksize,VAR_7
+bh,VAR_8
+head,VAR_9

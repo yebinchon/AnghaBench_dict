@@ -1,0 +1,14 @@
+BLOCKIF_NUMTHR,VAR_0
+BLOCKIF_SIG,VAR_1
+assert,FUNC_0
+close,FUNC_1
+free,FUNC_2
+pthread_cond_broadcast,FUNC_3
+pthread_join,FUNC_4
+pthread_mutex_lock,FUNC_5
+pthread_mutex_unlock,FUNC_6
+blockif_close,FUNC_7
+bc,VAR_2
+jval,VAR_3
+err,VAR_4
+i,VAR_5

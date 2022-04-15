@@ -1,0 +1,17 @@
+luaL_checkudata,FUNC_0
+luaL_getmetatable,FUNC_1
+lua_isstring,FUNC_2
+lua_setmetatable,FUNC_3
+lua_settop,FUNC_4
+lua_tostring,FUNC_5
+msg_Dbg,FUNC_6
+vlc_stream_FilterNew,FUNC_7
+vlclua_error,FUNC_8
+vlclua_get_this,FUNC_9
+vlclua_stream_add_filter,FUNC_10
+L,VAR_0
+p_this,VAR_1
+pp_stream,VAR_2
+psz_filter,VAR_3
+p_filtered,VAR_4
+p_filter,VAR_5

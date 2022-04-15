@@ -1,0 +1,14 @@
+POLLERR,VAR_0
+POLLHUP,VAR_1
+POLLIN,VAR_2
+POLLOUT,VAR_3
+close,FUNC_0
+frontend_driver_set_signal_handler_state,FUNC_1
+poll,FUNC_2
+wl_display_dispatch,FUNC_3
+wl_display_dispatch_pending,FUNC_4
+wl_display_flush,FUNC_5
+flush_wayland_fd,FUNC_6
+data,VAR_4
+fd,VAR_5
+wl,VAR_6

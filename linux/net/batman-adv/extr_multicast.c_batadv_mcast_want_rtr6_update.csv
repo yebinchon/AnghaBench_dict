@@ -1,0 +1,16 @@
+BATADV_MCAST_WANT_NO_RTR6,VAR_0
+WARN_ON,FUNC_0
+atomic_dec,FUNC_1
+atomic_inc,FUNC_2
+hlist_add_head_rcu,FUNC_3
+hlist_del_init_rcu,FUNC_4
+hlist_unhashed,FUNC_5
+lockdep_assert_held,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+batadv_mcast_want_rtr6_update,FUNC_9
+bat_priv,VAR_1
+orig,VAR_2
+mcast_flags,VAR_3
+node,VAR_4
+head,VAR_5

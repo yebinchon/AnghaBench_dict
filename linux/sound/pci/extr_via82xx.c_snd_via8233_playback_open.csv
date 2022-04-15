@@ -1,0 +1,14 @@
+SNDRV_CTL_ELEM_ACCESS_INACTIVE,VAR_0
+SNDRV_CTL_EVENT_MASK_INFO,VAR_1
+SNDRV_CTL_EVENT_MASK_VALUE,VAR_2
+VIA_DXS_MAX_VOLUME,VAR_3
+dxs_init_volume,VAR_4
+snd_ctl_notify,FUNC_0
+snd_pcm_substream_chip,FUNC_1
+snd_via82xx_pcm_open,FUNC_2
+snd_via8233_playback_open,FUNC_3
+substream,VAR_5
+chip,VAR_6
+viadev,VAR_7
+stream,VAR_8
+err,VAR_9

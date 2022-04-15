@@ -1,0 +1,16 @@
+FP0_REGNUM,VAR_0
+PIDGET,FUNC_0
+PT_GETFPREGS,VAR_1
+PT_GETREGS,VAR_2
+PT_SETFPREGS,VAR_3
+PT_SETREGS,VAR_4
+getregs_supplies,FUNC_1
+inferior_ptid,VAR_5
+mipsnbsd_fill_fpreg,FUNC_2
+mipsnbsd_fill_reg,FUNC_3
+perror_with_name,FUNC_4
+ptrace,FUNC_5
+store_inferior_registers,FUNC_6
+regno,VAR_6
+regs,VAR_7
+fpregs,VAR_8

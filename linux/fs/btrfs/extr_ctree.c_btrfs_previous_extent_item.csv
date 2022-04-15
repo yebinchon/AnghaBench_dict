@@ -1,0 +1,14 @@
+BTRFS_EXTENT_ITEM_KEY,VAR_0
+BTRFS_METADATA_ITEM_KEY,VAR_1
+btrfs_header_nritems,FUNC_0
+btrfs_item_key_to_cpu,FUNC_1
+btrfs_prev_leaf,FUNC_2
+btrfs_set_path_blocking,FUNC_3
+btrfs_previous_extent_item,FUNC_4
+root,VAR_2
+path,VAR_3
+min_objectid,VAR_4
+found_key,VAR_5
+leaf,VAR_6
+nritems,VAR_7
+ret,VAR_8

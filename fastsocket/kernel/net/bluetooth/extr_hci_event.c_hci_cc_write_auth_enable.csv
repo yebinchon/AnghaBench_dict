@@ -1,0 +1,14 @@
+AUTH_ENABLED,VAR_0
+BT_DBG,FUNC_0
+HCI_AUTH,VAR_1
+HCI_OP_WRITE_AUTH_ENABLE,VAR_2
+clear_bit,FUNC_1
+hci_req_complete,FUNC_2
+hci_sent_cmd_data,FUNC_3
+set_bit,FUNC_4
+hci_cc_write_auth_enable,FUNC_5
+hdev,VAR_3
+skb,VAR_4
+status,VAR_5
+sent,VAR_6
+param,VAR_7

@@ -1,0 +1,15 @@
+gnttab_alloc_grant_references,FUNC_0
+gnttab_claim_grant_reference,FUNC_1
+gnttab_free_grant_references,FUNC_2
+gnttab_grant_foreign_access_ref,FUNC_3
+pr_debug,FUNC_4
+xen_page_to_gfn,FUNC_5
+dmabuf_imp_grant_foreign_access,FUNC_6
+pages,VAR_0
+refs,VAR_1
+count,VAR_2
+domid,VAR_3
+priv_gref_head,VAR_4
+i,VAR_5
+ret,VAR_6
+cur_ref,VAR_7

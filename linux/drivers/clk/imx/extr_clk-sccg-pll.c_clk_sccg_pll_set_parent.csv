@@ -1,0 +1,12 @@
+FIELD_PREP,FUNC_0
+PLL_CFG0,VAR_0
+SSCG_PLL_BYPASS_MASK,VAR_1
+clk_sccg_pll_wait_lock,FUNC_1
+readl,FUNC_2
+to_clk_sccg_pll,FUNC_3
+writel,FUNC_4
+clk_sccg_pll_set_parent,FUNC_5
+hw,VAR_2
+index,VAR_3
+pll,VAR_4
+val,VAR_5

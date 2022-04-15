@@ -1,0 +1,9 @@
+APB_DMA_ENABLE,VAR_0
+APB_DMA_ERR_INT_EN,VAR_1
+APB_DMA_FIN_INT_EN,VAR_2
+REG_OFF_CTRL,VAR_3
+readl,FUNC_0
+writel,FUNC_1
+moxart_start_dma,FUNC_2
+ch,VAR_4
+ctrl,VAR_5

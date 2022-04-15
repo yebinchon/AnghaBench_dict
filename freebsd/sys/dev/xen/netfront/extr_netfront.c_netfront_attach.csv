@@ -1,0 +1,15 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_INT,FUNC_0
+SYSCTL_ADD_ULONG,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+create_netdev,FUNC_3
+device_get_sysctl_ctx,FUNC_4
+device_get_sysctl_tree,FUNC_5
+xenbus_dev_fatal,FUNC_6
+xn_enable_lro,VAR_3
+xn_num_queues,VAR_4
+netfront_attach,FUNC_7
+dev,VAR_5
+err,VAR_6

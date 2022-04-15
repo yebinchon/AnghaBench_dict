@@ -1,0 +1,15 @@
+QLA83XX_DRIVER_LOCKID,VAR_0
+QLA83XX_MAX_LOCK_RECOVERY_WAIT,VAR_1
+QLA_FUNCTION_FAILED,VAR_2
+QLA_SUCCESS,VAR_3
+jiffies,VAR_4
+qla83xx_force_lock_recovery,FUNC_0
+qla83xx_rd_reg,FUNC_1
+qla83xx_wait_logic,FUNC_2
+time_after_eq,FUNC_3
+qla83xx_idc_lock_recovery,FUNC_4
+base_vha,VAR_5
+rval,VAR_6
+o_drv_lockid,VAR_7
+n_drv_lockid,VAR_8
+lock_recovery_timeout,VAR_9

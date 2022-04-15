@@ -1,0 +1,14 @@
+BIT,FUNC_0
+CLK_UNIT_NOC_CLOCK,VAR_0
+CLK_UNIT_NOC_SOCKET,VAR_1
+SIRFSOC_NOC_CLK_IDLEREQ_CLR,VAR_2
+SIRFSOC_NOC_CLK_SLVRDY_SET,VAR_3
+clkc_writel,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_unitclk,FUNC_4
+unit_clk_enable,FUNC_5
+hw,VAR_4
+reg,VAR_5
+clk,VAR_6
+flags,VAR_7

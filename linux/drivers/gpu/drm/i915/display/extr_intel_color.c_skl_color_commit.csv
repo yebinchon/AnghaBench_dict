@@ -1,0 +1,16 @@
+GAMMA_MODE,FUNC_0
+I915_WRITE,FUNC_1
+INTEL_GEN,FUNC_2
+SKL_BOTTOM_COLOR,FUNC_3
+SKL_BOTTOM_COLOR_CSC_ENABLE,VAR_0
+SKL_BOTTOM_COLOR_GAMMA_ENABLE,VAR_1
+icl_load_csc_matrix,FUNC_4
+ilk_load_csc_matrix,FUNC_5
+to_i915,FUNC_6
+to_intel_crtc,FUNC_7
+skl_color_commit,FUNC_8
+crtc_state,VAR_2
+crtc,VAR_3
+dev_priv,VAR_4
+pipe,VAR_5
+val,VAR_6

@@ -1,0 +1,16 @@
+DEFINE_WAIT,FUNC_0
+EAGAIN,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+UMH_DISABLED,VAR_2
+down_read,FUNC_1
+finish_wait,FUNC_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+try_to_freeze,FUNC_5
+umhelper_sem,VAR_3
+up_read,FUNC_6
+usermodehelper_disabled,VAR_4
+usermodehelper_disabled_waitq,VAR_5
+wait,VAR_6
+usermodehelper_read_trylock,FUNC_7
+ret,VAR_7

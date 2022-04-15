@@ -1,0 +1,16 @@
+KSTAT_FLAG_VIRTUAL,VAR_0
+KSTAT_TYPE_RAW,VAR_1
+MUTEX_DEFAULT,VAR_2
+UINT32_MAX,VAR_3
+dbuf_stats_hash_table,VAR_4
+dbuf_stats_hash_table_addr,VAR_5
+dbuf_stats_hash_table_data,VAR_6
+dbuf_stats_hash_table_headers,VAR_7
+kstat_create,FUNC_0
+kstat_install,FUNC_1
+kstat_set_raw_ops,FUNC_2
+mutex_init,FUNC_3
+dbuf_stats_hash_table_init,FUNC_4
+hash,VAR_8
+dsh,VAR_9
+ksp,VAR_10

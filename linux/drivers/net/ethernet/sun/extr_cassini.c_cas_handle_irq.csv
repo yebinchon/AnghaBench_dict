@@ -1,0 +1,16 @@
+INTR_ERROR_MASK,VAR_0
+INTR_RX_BUF_AE,VAR_1
+INTR_RX_BUF_UNAVAIL,VAR_2
+INTR_RX_COMP_AF,VAR_3
+INTR_RX_COMP_FULL,VAR_4
+RX_AE_FREEN_VAL,FUNC_0
+RX_DESC_RINGN_SIZE,FUNC_1
+cas_abnormal_irq,FUNC_2
+cas_post_rxcs_ringN,FUNC_3
+cas_post_rxds_ringN,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+cas_handle_irq,FUNC_7
+dev,VAR_5
+cp,VAR_6
+status,VAR_7

@@ -1,0 +1,15 @@
+DSISR_NOHPTE,VAR_0
+HPTE_NOHPTE_UPDATE,VAR_1
+IO_REGION_ID,VAR_2
+VMALLOC_REGION_ID,VAR_3
+current,VAR_4
+get_region_id,FUNC_0
+hash_page_mm,FUNC_1
+init_mm,VAR_5
+hash_page,FUNC_2
+ea,VAR_6
+access,VAR_7
+trap,VAR_8
+dsisr,VAR_9
+flags,VAR_10
+mm,VAR_11

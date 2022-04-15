@@ -1,0 +1,9 @@
+EMSGSIZE,VAR_0
+RDMA_NLDEV_ATTR_DEV_INDEX,VAR_1
+RDMA_NLDEV_ATTR_DEV_NAME,VAR_2
+dev_name,FUNC_0
+nla_put_string,FUNC_1
+nla_put_u32,FUNC_2
+fill_nldev_handle,FUNC_3
+msg,VAR_3
+device,VAR_4

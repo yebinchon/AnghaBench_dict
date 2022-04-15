@@ -1,0 +1,17 @@
+ASN1_TYPE_get_int_octetstring,FUNC_0
+EVP_CIPHER_CTX_ctrl,FUNC_1
+EVP_CIPHER_CTX_iv_length,FUNC_2
+EVP_CIPHER_CTX_set_key_length,FUNC_3
+EVP_CTRL_SET_RC2_KEY_BITS,VAR_0
+EVP_CipherInit_ex,FUNC_4
+EVP_MAX_IV_LENGTH,VAR_1
+OPENSSL_assert,FUNC_5
+rc2_magic_to_meth,FUNC_6
+rc2_get_asn1_type_and_iv,FUNC_7
+c,VAR_2
+type,VAR_3
+num,VAR_4
+i,VAR_5
+key_bits,VAR_6
+l,VAR_7
+iv,VAR_8

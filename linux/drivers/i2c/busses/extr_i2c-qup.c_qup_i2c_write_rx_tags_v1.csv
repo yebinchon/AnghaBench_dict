@@ -1,0 +1,13 @@
+QUP_MSW_SHIFT,VAR_0
+QUP_OUT_FIFO_BASE,VAR_1
+QUP_READ_LIMIT,VAR_2
+QUP_TAG_REC,VAR_3
+QUP_TAG_START,VAR_4
+i2c_8bit_addr_from_msg,FUNC_0
+writel,FUNC_1
+qup_i2c_write_rx_tags_v1,FUNC_2
+qup,VAR_5
+msg,VAR_6
+addr,VAR_7
+len,VAR_8
+val,VAR_9

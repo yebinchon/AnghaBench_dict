@@ -1,0 +1,16 @@
+HS_FFERM,VAR_0
+KERN_ERR,VAR_1
+LOG_INIT,VAR_2
+LPFC_HBA_ERROR,VAR_3
+LPFC_VPORT_UNKNOWN,VAR_4
+lpfc_printf_log,FUNC_0
+lpfc_readl,FUNC_1
+lpfc_sli_brdrestart,FUNC_2
+msleep,FUNC_3
+readl,FUNC_4
+lpfc_sli_brdready_s3,FUNC_5
+phba,VAR_5
+mask,VAR_6
+status,VAR_7
+i,VAR_8
+retval,VAR_9

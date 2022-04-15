@@ -1,0 +1,11 @@
+APIC_DM_FIXED,VAR_0
+APIC_LVTCMCI,VAR_1
+THRESHOLD_APIC_VECTOR,VAR_2
+apic_write,FUNC_0
+cmci_discover,FUNC_1
+cmci_recheck,FUNC_2
+cmci_supported,FUNC_3
+intel_threshold_interrupt,VAR_3
+mce_threshold_vector,VAR_4
+intel_init_cmci,FUNC_4
+banks,VAR_5

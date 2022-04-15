@@ -1,0 +1,16 @@
+CPUFREQ_HIGH,VAR_0
+CPUFREQ_LOW,VAR_1
+CPU_FTR_L3CR,VAR_2
+L3CR_L3E,VAR_3
+_get_L3CR,FUNC_0
+_set_L3CR,FUNC_1
+cpu_has_feature,FUNC_2
+cur_freq,VAR_4
+hi_freq,VAR_5
+low_freq,VAR_6
+set_speed_proc,FUNC_3
+do_set_cpu_speed,FUNC_4
+policy,VAR_7
+speed_mode,VAR_8
+l3cr,VAR_9
+prev_l3cr,VAR_10

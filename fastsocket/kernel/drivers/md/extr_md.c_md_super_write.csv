@@ -1,0 +1,15 @@
+BIO_RW_NOIDLE,VAR_0
+GFP_NOIO,VAR_1
+WRITE_FLUSH_FUA,VAR_2
+atomic_inc,FUNC_0
+bio_add_page,FUNC_1
+bio_alloc_mddev,FUNC_2
+submit_bio,FUNC_3
+super_written,VAR_3
+md_super_write,FUNC_4
+mddev,VAR_4
+rdev,VAR_5
+sector,VAR_6
+size,VAR_7
+page,VAR_8
+bio,VAR_9

@@ -1,0 +1,17 @@
+ERROR_SUCCESS,VAR_0
+HKEY_LOCAL_MACHINE,VAR_1
+REG_SZ,VAR_2
+RegCloseKey,FUNC_0
+RegOpenKey,FUNC_1
+RegQueryValueEx,FUNC_2
+sprintf,FUNC_3
+stricmp,FUNC_4
+GetPnpKey,FUNC_5
+PnpKey,VAR_3
+lError,VAR_4
+szBuffer,VAR_5
+hAdapterKey,VAR_6
+hBusKey,VAR_7
+dwBus,VAR_8
+dwType,VAR_9
+dwSize,VAR_10

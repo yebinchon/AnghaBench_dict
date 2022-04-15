@@ -1,0 +1,10 @@
+RETURN_ERROR,FUNC_0
+RETURN_ERROR_IF,FUNC_1
+dstBuffer_null,VAR_0
+dstSize_tooSmall,VAR_1
+memset,FUNC_2
+ZSTD_setRleBlock,FUNC_3
+dst,VAR_2
+dstCapacity,VAR_3
+b,VAR_4
+regenSize,VAR_5

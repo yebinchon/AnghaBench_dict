@@ -1,0 +1,16 @@
+AES_BLOCK_SIZE,VAR_0
+ce_aes_ecb_decrypt,FUNC_0
+crypto_skcipher_ctx,FUNC_1
+crypto_skcipher_reqtfm,FUNC_2
+kernel_neon_begin,FUNC_3
+kernel_neon_end,FUNC_4
+num_rounds,FUNC_5
+skcipher_walk_done,FUNC_6
+skcipher_walk_virt,FUNC_7
+ecb_decrypt,FUNC_8
+req,VAR_1
+tfm,VAR_2
+ctx,VAR_3
+walk,VAR_4
+blocks,VAR_5
+err,VAR_6

@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+EINTR,VAR_1
+REDIS_BLOCK,VAR_2
+REDIS_ERR,VAR_3
+REDIS_ERR_EOF,VAR_4
+REDIS_ERR_IO,VAR_5
+REDIS_OK,VAR_6
+__redisSetError,FUNC_0
+errno,VAR_7
+read,FUNC_1
+redisReaderFeed,FUNC_2
+redisBufferRead,FUNC_3
+c,VAR_8
+buf,VAR_9
+nread,VAR_10

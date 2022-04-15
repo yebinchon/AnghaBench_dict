@@ -1,0 +1,14 @@
+DP,FUNC_0
+I2C_DEV_ADDR_A0,VAR_0
+NETIF_MSG_LINK,VAR_1
+PORT_HW_CFG_XGXS_EXT_PHY_TYPE_DIRECT,VAR_2
+bnx2x_read_sfp_module_eeprom,FUNC_1
+bnx2x_warpcore_read_sfp_module_eeprom,FUNC_2
+usleep_range,FUNC_3
+bnx2x_wait_for_sfp_module_initialized,FUNC_4
+phy,VAR_3
+params,VAR_4
+val,VAR_5
+rc,VAR_6
+bp,VAR_7
+timeout,VAR_8

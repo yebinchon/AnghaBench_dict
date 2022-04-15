@@ -1,0 +1,12 @@
+CL_SD_CTL_RUN,FUNC_0
+CL_SD_CTL_RUN_MASK,VAR_0
+SKL_ADSP_REG_CL_SD_CTL,VAR_1
+dev_err,FUNC_1
+sst_dsp_shim_read,FUNC_2
+sst_dsp_shim_update_bits_unlocked,FUNC_3
+udelay,FUNC_4
+skl_cldma_stream_run,FUNC_5
+ctx,VAR_2
+enable,VAR_3
+val,VAR_4
+timeout,VAR_5

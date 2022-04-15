@@ -1,0 +1,12 @@
+FILTER_HANDLED,VAR_0
+FILTER_STRAY,VAR_1
+IG4_REG_INTR_STAT,VAR_2
+ig4iic_set_intr_mask,FUNC_0
+mtx_lock_spin,FUNC_1
+mtx_unlock_spin,FUNC_2
+reg_read,FUNC_3
+wakeup,FUNC_4
+ig4iic_intr,FUNC_5
+cookie,VAR_3
+sc,VAR_4
+retval,VAR_5

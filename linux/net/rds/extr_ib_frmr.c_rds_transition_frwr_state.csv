@@ -1,0 +1,11 @@
+FRMR_IS_INUSE,VAR_0
+atomic_dec,FUNC_0
+cmpxchg,FUNC_1
+rds_ib_ring_empty_wait,VAR_1
+smp_mb__before_atomic,FUNC_2
+waitqueue_active,FUNC_3
+wake_up,FUNC_4
+rds_transition_frwr_state,FUNC_5
+ibmr,VAR_2
+old_state,VAR_3
+new_state,VAR_4

@@ -1,0 +1,11 @@
+AMD_IP_BLOCK_TYPE_GFX,VAR_0
+GFX_OFF_DELAY_ENABLE,VAR_1
+PP_GFXOFF_MASK,VAR_2
+amdgpu_dpm_set_powergating_by_smu,FUNC_0
+is_support_sw_smu,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+schedule_delayed_work,FUNC_4
+amdgpu_gfx_off_ctrl,FUNC_5
+adev,VAR_3
+enable,VAR_4

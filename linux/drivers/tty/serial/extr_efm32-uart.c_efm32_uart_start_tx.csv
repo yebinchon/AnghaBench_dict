@@ -1,0 +1,14 @@
+UARTn_CMD,VAR_0
+UARTn_CMD_TXEN,VAR_1
+UARTn_IEN,VAR_2
+UARTn_IFC,VAR_3
+UARTn_IF_TXBL,VAR_4
+UARTn_IF_TXC,VAR_5
+efm32_uart_read32,FUNC_0
+efm32_uart_tx_chars,FUNC_1
+efm32_uart_write32,FUNC_2
+to_efm_port,FUNC_3
+efm32_uart_start_tx,FUNC_4
+port,VAR_6
+efm_port,VAR_7
+ien,VAR_8

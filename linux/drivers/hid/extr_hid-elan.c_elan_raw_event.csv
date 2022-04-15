@@ -1,0 +1,16 @@
+ELAN_I2C_REPORT_SIZE,VAR_0
+ELAN_INPUT_REPORT_SIZE,VAR_1
+ELAN_MT_FIRST_FINGER,VAR_2
+ELAN_MT_I2C,VAR_3
+ELAN_MT_SECOND_FINGER,VAR_4
+ELAN_SINGLE_FINGER,VAR_5
+elan_i2c_report_input,FUNC_0
+elan_usb_report_input,FUNC_1
+hid_get_drvdata,FUNC_2
+is_not_elan_touchpad,FUNC_3
+elan_raw_event,FUNC_4
+hdev,VAR_6
+report,VAR_7
+data,VAR_8
+size,VAR_9
+drvdata,VAR_10

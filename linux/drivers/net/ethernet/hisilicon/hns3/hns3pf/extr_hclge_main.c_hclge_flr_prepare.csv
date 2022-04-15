@@ -1,0 +1,15 @@
+HCLGE_FLR_WAIT_CNT,VAR_0
+HCLGE_FLR_WAIT_MS,VAR_1
+HNAE3_FLR_DONE,VAR_2
+HNAE3_FLR_DOWN,VAR_3
+HNAE3_FLR_RESET,VAR_4
+clear_bit,FUNC_0
+dev_err,FUNC_1
+hclge_reset_event,FUNC_2
+msleep,FUNC_3
+set_bit,FUNC_4
+test_bit,FUNC_5
+hclge_flr_prepare,FUNC_6
+ae_dev,VAR_5
+hdev,VAR_6
+cnt,VAR_7

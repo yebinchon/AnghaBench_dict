@@ -1,0 +1,14 @@
+L2TP_HDRFLAG_S,VAR_0
+L2TP_HDR_VER_2,VAR_1
+L2TP_MSG_SEQ,VAR_2
+htons,FUNC_0
+l2tp_dbg,FUNC_1
+l2tp_build_l2tpv2_header,FUNC_2
+session,VAR_3
+buf,VAR_4
+tunnel,VAR_5
+bufp,VAR_6
+optr,VAR_7
+flags,VAR_8
+tunnel_id,VAR_9
+session_id,VAR_10

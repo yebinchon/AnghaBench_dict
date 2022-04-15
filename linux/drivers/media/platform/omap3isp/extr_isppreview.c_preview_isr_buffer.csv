@@ -1,0 +1,16 @@
+ISP_PIPELINE_IDLE_INPUT,VAR_0
+ISP_PIPELINE_IDLE_OUTPUT,VAR_1
+PREVIEW_INPUT_MEMORY,VAR_2
+PREVIEW_OUTPUT_MEMORY,VAR_3
+isp_pipeline_ready,FUNC_0
+omap3isp_pipeline_set_stream,FUNC_1
+omap3isp_video_buffer_next,FUNC_2
+preview_enable_oneshot,FUNC_3
+preview_set_inaddr,FUNC_4
+preview_set_outaddr,FUNC_5
+to_isp_pipeline,FUNC_6
+preview_isr_buffer,FUNC_7
+prev,VAR_4
+pipe,VAR_5
+buffer,VAR_6
+restart,VAR_7

@@ -1,0 +1,15 @@
+IB_ATTR_MLNX_EXT_PORT_INFO,VAR_0
+IB_SMP_DATA_SIZE,VAR_1
+mad_dump_mlnx_ext_port_info,FUNC_0
+portid2str,FUNC_1
+printf,FUNC_2
+smp_query_via,FUNC_3
+srcport,VAR_2
+strtol,FUNC_4
+mlnx_ext_port_info,FUNC_5
+dest,VAR_3
+argv,VAR_4
+argc,VAR_5
+buf,VAR_6
+data,VAR_7
+portnum,VAR_8

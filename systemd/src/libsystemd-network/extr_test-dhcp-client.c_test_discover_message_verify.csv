@@ -1,0 +1,11 @@
+DHCP_DISCOVER,VAR_0
+assert_se,FUNC_0
+be32toh,FUNC_1
+check_options,VAR_1
+dhcp_option_parse,FUNC_2
+printf,FUNC_3
+verbose,VAR_2
+test_discover_message_verify,FUNC_4
+size,VAR_3
+dhcp,VAR_4
+res,VAR_5

@@ -1,0 +1,15 @@
+NVME_AEN_BIT_NS_ATTR,VAR_0
+NVME_MAX_CHANGED_NAMESPACES,VAR_1
+NVME_SC_INTERNAL,VAR_2
+U32_MAX,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+nvmet_clear_aen_bit,FUNC_2
+nvmet_copy_to_sgl,FUNC_3
+nvmet_req_complete,FUNC_4
+nvmet_zero_sgl,FUNC_5
+nvmet_execute_get_log_changed_ns,FUNC_6
+req,VAR_4
+ctrl,VAR_5
+status,VAR_6
+len,VAR_7

@@ -1,0 +1,16 @@
+PCIR_IS_BIOS,FUNC_0
+SYS_RES_MEMORY,VAR_0
+bus_generic_deactivate_resource,FUNC_1
+device_get_ivars,FUNC_2
+device_get_parent,FUNC_3
+pci_find_bar,FUNC_4
+pci_write_bar,FUNC_5
+rman_get_start,FUNC_6
+pci_deactivate_resource,FUNC_7
+dev,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+r,VAR_5
+dinfo,VAR_6
+error,VAR_7

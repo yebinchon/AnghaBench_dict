@@ -1,0 +1,13 @@
+BQ24190_REG_POC,VAR_0
+BQ24190_REG_POC_RESET_MASK,VAR_1
+BQ24190_REG_POC_RESET_SHIFT,VAR_2
+EIO,VAR_3
+bq24190_read_mask,FUNC_0
+bq24190_write_mask,FUNC_1
+device_property_read_bool,FUNC_2
+usleep_range,FUNC_3
+bq24190_register_reset,FUNC_4
+bdi,VAR_4
+ret,VAR_5
+limit,VAR_6
+v,VAR_7

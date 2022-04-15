@@ -1,0 +1,14 @@
+EIO,VAR_0
+I2C_M_RD,VAR_1
+i2c_get_adapdata,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+ngene_command_i2c_read,FUNC_3
+ngene_command_i2c_write,FUNC_4
+ngene_i2c_set_bus,FUNC_5
+ngene_i2c_master_xfer,FUNC_6
+adapter,VAR_2
+msg,VAR_3
+num,VAR_4
+chan,VAR_5
+dev,VAR_6

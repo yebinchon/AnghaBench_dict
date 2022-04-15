@@ -1,0 +1,11 @@
+BLK_MQ_REQ_NOWAIT,VAR_0
+BLK_MQ_REQ_RESERVED,VAR_1
+RQF_MQ_INFLIGHT,VAR_2
+atomic_inc,FUNC_0
+blk_mq_get_tag,FUNC_1
+blk_mq_tag_busy,FUNC_2
+blk_mq_tag_is_reserved,FUNC_3
+blk_mq_get_driver_tag,FUNC_4
+rq,VAR_3
+data,VAR_4
+shared,VAR_5

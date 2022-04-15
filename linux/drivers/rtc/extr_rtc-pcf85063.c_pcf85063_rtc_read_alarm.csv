@@ -1,0 +1,14 @@
+PCF85063_CTRL2_AIE,VAR_0
+PCF85063_REG_ALM_S,VAR_1
+PCF85063_REG_CTRL2,VAR_2
+bcd2bin,FUNC_0
+dev_get_drvdata,FUNC_1
+regmap_bulk_read,FUNC_2
+regmap_read,FUNC_3
+pcf85063_rtc_read_alarm,FUNC_4
+dev,VAR_3
+alrm,VAR_4
+pcf85063,VAR_5
+buf,VAR_6
+val,VAR_7
+ret,VAR_8

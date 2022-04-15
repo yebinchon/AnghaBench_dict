@@ -1,0 +1,11 @@
+GET_REQID,FUNC_0
+KCF_AREQ_REFHOLD,FUNC_1
+KCF_AREQ_REFRELE,FUNC_2
+KCF_CONTEXT_REFRELE,FUNC_3
+crypto_cancel_req,FUNC_4
+mutex_enter,FUNC_5
+mutex_exit,FUNC_6
+crypto_cancel_ctx,FUNC_7
+ctx,VAR_0
+ictx,VAR_1
+areq,VAR_2

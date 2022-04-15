@@ -1,0 +1,17 @@
+IOCB_EVENTFD,VAR_0
+IOCB_FLAG_IOPRIO,VAR_1
+IOCB_FLAG_RESFD,VAR_2
+IOCB_HIPRI,VAR_3
+aio_complete_rw,VAR_4
+file_write_hint,FUNC_0
+get_current_ioprio,FUNC_1
+iocb_flags,FUNC_2
+ioprio_check_cap,FUNC_3
+ki_hint_validate,FUNC_4
+kiocb_set_rw_flags,FUNC_5
+pr_debug,FUNC_6
+unlikely,FUNC_7
+aio_prep_rw,FUNC_8
+req,VAR_5
+iocb,VAR_6
+ret,VAR_7

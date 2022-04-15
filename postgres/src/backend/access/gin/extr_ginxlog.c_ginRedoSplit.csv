@@ -1,0 +1,17 @@
+BLK_RESTORED,VAR_0
+ERROR,VAR_1
+GIN_INSERT_ISLEAF,VAR_2
+GIN_SPLIT_ROOT,VAR_3
+UnlockReleaseBuffer,FUNC_0
+XLogReadBufferForRedo,FUNC_1
+XLogRecGetData,FUNC_2
+elog,FUNC_3
+ginRedoClearIncompleteSplit,FUNC_4
+ginRedoSplit,FUNC_5
+record,VAR_4
+data,VAR_5
+lbuffer,VAR_6
+rbuffer,VAR_7
+rootbuf,VAR_8
+isLeaf,VAR_9
+isRoot,VAR_10

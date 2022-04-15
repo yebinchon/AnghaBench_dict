@@ -1,0 +1,9 @@
+BHND_PCI_LOCK_DESTROY,FUNC_0
+SYS_RES_MEMORY,VAR_0
+bhnd_release_resource,FUNC_1
+bus_generic_detach,FUNC_2
+device_get_softc,FUNC_3
+bhnd_pci_generic_detach,FUNC_4
+dev,VAR_1
+sc,VAR_2
+error,VAR_3

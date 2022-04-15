@@ -1,0 +1,9 @@
+DS1374_REG_TOD0,VAR_0
+ds1374_write_rtc,FUNC_0
+rtc_tm_to_time,FUNC_1
+to_i2c_client,FUNC_2
+ds1374_set_time,FUNC_3
+dev,VAR_1
+time,VAR_2
+client,VAR_3
+itime,VAR_4

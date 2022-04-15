@@ -1,0 +1,15 @@
+KPERF_SAMPLER_KSTACK,VAR_0
+KPERF_SAMPLER_USTACK,VAR_1
+NSEC_PER_MSEC,VAR_2
+T_ASSERT_POSIX_SUCCESS,FUNC_0
+kperf_action_count_set,FUNC_1
+kperf_action_filter_set_by_pid,FUNC_2
+kperf_action_samplers_set,FUNC_3
+kperf_ns_to_ticks,FUNC_4
+kperf_reset,FUNC_5
+kperf_timer_action_set,FUNC_6
+kperf_timer_count_set,FUNC_7
+kperf_timer_period_set,FUNC_8
+configure_kperf_stacks_timer,FUNC_9
+pid,VAR_3
+period_ms,VAR_4

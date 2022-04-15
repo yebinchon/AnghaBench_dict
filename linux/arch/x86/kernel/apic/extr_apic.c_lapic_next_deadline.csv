@@ -1,0 +1,8 @@
+MSR_IA32_TSC_DEADLINE,VAR_0
+TSC_DIVISOR,VAR_1
+rdtsc,FUNC_0
+wrmsrl,FUNC_1
+lapic_next_deadline,FUNC_2
+delta,VAR_2
+evt,VAR_3
+tsc,VAR_4

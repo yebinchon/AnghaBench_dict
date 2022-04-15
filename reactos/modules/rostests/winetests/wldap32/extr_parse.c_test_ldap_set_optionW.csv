@@ -1,0 +1,14 @@
+LDAP_OPT_OFF,VAR_0
+LDAP_OPT_REFERRALS,VAR_1
+LDAP_PARAM_ERROR,VAR_2
+LDAP_SERVER_DOWN,VAR_3
+LDAP_UNAVAILABLE,VAR_4
+broken,FUNC_0
+ldap_get_optionW,FUNC_1
+ldap_set_optionW,FUNC_2
+ok,FUNC_3
+skip,FUNC_4
+test_ldap_set_optionW,FUNC_5
+ld,VAR_5
+ret,VAR_6
+oldvalue,VAR_7

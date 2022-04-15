@@ -1,0 +1,13 @@
+SB_OPEN_MIDI_OUTPUT_TRIGGER,VAR_0
+add_timer,FUNC_0
+init_timer,FUNC_1
+jiffies,VAR_1
+snd_sb8dsp_midi_output_timer,VAR_2
+snd_sb8dsp_midi_output_write,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+snd_sb8dsp_midi_output_trigger,FUNC_5
+substream,VAR_3
+up,VAR_4
+flags,VAR_5
+chip,VAR_6

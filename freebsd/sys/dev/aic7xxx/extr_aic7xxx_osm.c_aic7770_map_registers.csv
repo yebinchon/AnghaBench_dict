@@ -1,0 +1,12 @@
+ENOMEM,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_IOPORT,VAR_2
+bus_alloc_resource_any,FUNC_0
+device_printf,FUNC_1
+rman_get_bushandle,FUNC_2
+rman_get_bustag,FUNC_3
+aic7770_map_registers,FUNC_4
+ahc,VAR_3
+unused_ioport_arg,VAR_4
+regs,VAR_5
+rid,VAR_6

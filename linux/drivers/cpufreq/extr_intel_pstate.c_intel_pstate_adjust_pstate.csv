@@ -1,0 +1,14 @@
+fp_toint,FUNC_0
+get_avg_frequency,FUNC_1
+get_target_pstate,FUNC_2
+intel_pstate_prepare_request,FUNC_3
+intel_pstate_update_pstate,FUNC_4
+mul_ext_fp,FUNC_5
+trace_cpu_frequency,FUNC_6
+trace_pstate_sample,FUNC_7
+update_turbo_state,FUNC_8
+intel_pstate_adjust_pstate,FUNC_9
+cpu,VAR_0
+from,VAR_1
+sample,VAR_2
+target_pstate,VAR_3

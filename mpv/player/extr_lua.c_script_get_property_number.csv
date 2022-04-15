@@ -1,0 +1,14 @@
+MPV_FORMAT_DOUBLE,VAR_0
+get_ctx,FUNC_0
+luaL_checkstring,FUNC_1
+lua_pushnumber,FUNC_2
+lua_pushstring,FUNC_3
+lua_pushvalue,FUNC_4
+mpv_error_string,FUNC_5
+mpv_get_property,FUNC_6
+script_get_property_number,FUNC_7
+L,VAR_1
+ctx,VAR_2
+name,VAR_3
+result,VAR_4
+err,VAR_5

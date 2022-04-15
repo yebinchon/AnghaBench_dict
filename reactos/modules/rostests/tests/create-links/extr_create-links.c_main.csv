@@ -1,0 +1,13 @@
+CSIDL_DESKTOP,VAR_0
+CSIDL_PROGRAMS,VAR_1
+CoInitialize,FUNC_0
+CoUninitialize,FUNC_1
+CreateShellLink,FUNC_2
+MAX_PATH,VAR_2
+PathAddBackslash,FUNC_3
+SHGetSpecialFolderPathA,FUNC_4
+TRUE,VAR_3
+strcpy,FUNC_5
+main,FUNC_6
+path,VAR_4
+p,VAR_5

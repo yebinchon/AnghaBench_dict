@@ -1,0 +1,12 @@
+ALL_CRLF_TEXT_RAW,VAR_0
+ALL_LF_TEXT_RAW,VAR_1
+MORE_CRLF_TEXT_RAW,VAR_2
+MORE_LF_TEXT_RAW,VAR_3
+cl_git_fail,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_repo_set_bool,FUNC_3
+g_index,VAR_4
+g_repo,VAR_5
+git_index_add_bypath,FUNC_4
+test_index_crlf__safecrlf_true_no_attrs,FUNC_5

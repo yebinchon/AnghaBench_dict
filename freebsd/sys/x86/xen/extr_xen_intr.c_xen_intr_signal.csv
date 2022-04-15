@@ -1,0 +1,10 @@
+EVTCHNOP_send,VAR_0
+EVTCHN_TYPE_IPI,VAR_1
+EVTCHN_TYPE_PORT,VAR_2
+HYPERVISOR_event_channel_op,FUNC_0
+KASSERT,FUNC_1
+xen_intr_isrc,FUNC_2
+xen_intr_signal,FUNC_3
+handle,VAR_3
+isrc,VAR_4
+send,VAR_5

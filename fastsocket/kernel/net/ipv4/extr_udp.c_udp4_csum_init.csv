@@ -1,0 +1,15 @@
+CHECKSUM_COMPLETE,VAR_0
+CHECKSUM_UNNECESSARY,VAR_1
+IPPROTO_UDPLITE,VAR_2
+UDP_SKB_CB,FUNC_0
+csum_tcpudp_magic,FUNC_1
+csum_tcpudp_nofold,FUNC_2
+ip_hdr,FUNC_3
+skb_csum_unnecessary,FUNC_4
+udplite_checksum_init,FUNC_5
+udp4_csum_init,FUNC_6
+skb,VAR_3
+uh,VAR_4
+proto,VAR_5
+iph,VAR_6
+err,VAR_7

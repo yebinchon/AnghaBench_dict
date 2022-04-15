@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+gpioregulator_parse_fdt,FUNC_2
+gpioregulator_regnode_class,VAR_1
+ofw_bus_get_node,FUNC_3
+regnode_create,FUNC_4
+regnode_get_softc,FUNC_5
+regnode_get_stdparam,FUNC_6
+regnode_register,FUNC_7
+gpioregulator_attach,FUNC_8
+dev,VAR_2
+sc,VAR_3
+regnode,VAR_4
+node,VAR_5
+error,VAR_6

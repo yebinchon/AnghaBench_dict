@@ -1,0 +1,14 @@
+cl_git_pass,FUNC_0
+git_commit_free,FUNC_1
+git_commit_lookup,FUNC_2
+git_commit_tree,FUNC_3
+git_index_read_tree,FUNC_4
+git_index_write,FUNC_5
+git_reference_name_to_id,FUNC_6
+git_tree_free,FUNC_7
+fill_index_wth_head_entries,FUNC_8
+repo,VAR_0
+index,VAR_1
+oid,VAR_2
+commit,VAR_3
+tree,VAR_4

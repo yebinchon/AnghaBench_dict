@@ -1,0 +1,13 @@
+FLAG_SACK_RENEGING,VAR_0
+ICSK_TIME_RETRANS,VAR_1
+TCP_RTO_MAX,VAR_2
+inet_csk_reset_xmit_timer,FUNC_0
+max,FUNC_1
+msecs_to_jiffies,FUNC_2
+tcp_sk,FUNC_3
+usecs_to_jiffies,FUNC_4
+tcp_check_sack_reneging,FUNC_5
+sk,VAR_3
+flag,VAR_4
+tp,VAR_5
+delay,VAR_6

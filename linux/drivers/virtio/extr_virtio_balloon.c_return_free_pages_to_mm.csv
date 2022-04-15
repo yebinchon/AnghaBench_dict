@@ -1,0 +1,11 @@
+VIRTIO_BALLOON_FREE_PAGE_ORDER,VAR_0
+balloon_page_pop,FUNC_0
+free_pages,FUNC_1
+page_address,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+return_free_pages_to_mm,FUNC_5
+vb,VAR_1
+num_to_return,VAR_2
+page,VAR_3
+num_returned,VAR_4

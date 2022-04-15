@@ -1,0 +1,9 @@
+AL_REG_FIELD_GET,FUNC_0
+PCIE_W_GLOBAL_CTRL_PORT_INIT_APP_LTSSM_EN_MASK,VAR_0
+PCIE_W_GLOBAL_CTRL_PORT_INIT_APP_LTSSM_EN_SHIFT,VAR_1
+al_reg_read32,FUNC_1
+al_pcie_is_link_started,FUNC_2
+pcie_port,VAR_2
+regs,VAR_3
+port_init,VAR_4
+ltssm_en,VAR_5

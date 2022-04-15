@@ -1,0 +1,15 @@
+CHANNEL_CONTROL_RESET,VAR_0
+CHANNEL_DMA_ENABLE,VAR_1
+CHANNEL_INT_THRESHOLD_50,VAR_2
+CHANNEL_RING_SIZE,VAR_3
+SNDRV_PCM_STREAM_PLAYBACK,VAR_4
+mace,VAR_5
+snd_pcm_substream_chip,FUNC_0
+snd_sgio2audio_dma_push_frag,FUNC_1
+udelay,FUNC_2
+writeq,FUNC_3
+snd_sgio2audio_dma_start,FUNC_4
+substream,VAR_6
+chip,VAR_7
+chan,VAR_8
+ch,VAR_9

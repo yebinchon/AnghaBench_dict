@@ -1,0 +1,12 @@
+MEMDB,VAR_0
+SQLITE_FCNTL_SYNC,VAR_1
+SQLITE_NOTFOUND,VAR_2
+SQLITE_OK,VAR_3
+assert,FUNC_0
+sqlite3OsFileControl,FUNC_1
+sqlite3OsSync,FUNC_2
+sqlite3PagerSync,FUNC_3
+pPager,VAR_4
+zMaster,VAR_5
+rc,VAR_6
+pArg,VAR_7

@@ -1,0 +1,12 @@
+EC_SCI_SRC_ACPWR,VAR_0
+EC_SCI_SRC_BATERR,VAR_1
+EC_SCI_SRC_BATSOC,VAR_2
+EC_SCI_SRC_BATTERY,VAR_3
+device_may_wakeup,FUNC_0
+olpc_ec_wakeup_clear,FUNC_1
+olpc_ec_wakeup_set,FUNC_2
+platform_get_drvdata,FUNC_3
+olpc_battery_suspend,FUNC_4
+pdev,VAR_4
+state,VAR_5
+data,VAR_6

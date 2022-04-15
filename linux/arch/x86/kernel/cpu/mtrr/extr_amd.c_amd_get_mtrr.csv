@@ -1,0 +1,12 @@
+MSR_K6_UWCCR,VAR_0
+MTRR_TYPE_UNCACHABLE,VAR_1
+MTRR_TYPE_WRCOMB,VAR_2
+PAGE_SHIFT,VAR_3
+rdmsr,FUNC_0
+amd_get_mtrr,FUNC_1
+reg,VAR_4
+base,VAR_5
+size,VAR_6
+type,VAR_7
+low,VAR_8
+high,VAR_9

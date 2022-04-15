@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+ORPHAN_NO_NEED_TRUNCATE,VAR_1
+ORPHAN_SCAN_INACTIVE,VAR_2
+atomic_read,FUNC_0
+ktime_get_seconds,FUNC_1
+mlog_errno,FUNC_2
+ocfs2_orphan_scan_lock,FUNC_3
+ocfs2_orphan_scan_unlock,FUNC_4
+ocfs2_queue_recovery_completion,FUNC_5
+trace_ocfs2_queue_orphan_scan_begin,FUNC_6
+trace_ocfs2_queue_orphan_scan_end,FUNC_7
+ocfs2_queue_orphan_scan,FUNC_8
+osb,VAR_3
+os,VAR_4
+status,VAR_5
+i,VAR_6
+seqno,VAR_7

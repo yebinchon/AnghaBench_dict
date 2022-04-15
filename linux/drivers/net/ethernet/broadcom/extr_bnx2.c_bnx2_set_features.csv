@@ -1,0 +1,15 @@
+BNX2_DRV_MSG_CODE_KEEP_VLAN_UPDATE,VAR_0
+BNX2_EMAC_RX_MODE_KEEP_VLAN_TAG,VAR_1
+NETIF_F_ALL_TSO,VAR_2
+NETIF_F_HW_VLAN_CTAG_RX,VAR_3
+NETIF_F_HW_VLAN_CTAG_TX,VAR_4
+bnx2_fw_sync,FUNC_0
+bnx2_netif_start,FUNC_1
+bnx2_netif_stop,FUNC_2
+bnx2_set_rx_mode,FUNC_3
+netdev_priv,FUNC_4
+netif_running,FUNC_5
+bnx2_set_features,FUNC_6
+dev,VAR_5
+features,VAR_6
+bp,VAR_7

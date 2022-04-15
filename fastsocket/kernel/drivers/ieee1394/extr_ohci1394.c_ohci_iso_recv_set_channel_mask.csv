@@ -1,0 +1,13 @@
+OHCI1394_IRMultiChanMaskHiClear,VAR_0
+OHCI1394_IRMultiChanMaskHiSet,VAR_1
+OHCI1394_IRMultiChanMaskLoClear,VAR_2
+OHCI1394_IRMultiChanMaskLoSet,VAR_3
+OHCI1394_IsochronousCycleTimer,VAR_4
+mb,FUNC_0
+reg_read,FUNC_1
+reg_write,FUNC_2
+ohci_iso_recv_set_channel_mask,FUNC_3
+iso,VAR_5
+mask,VAR_6
+recv,VAR_7
+i,VAR_8

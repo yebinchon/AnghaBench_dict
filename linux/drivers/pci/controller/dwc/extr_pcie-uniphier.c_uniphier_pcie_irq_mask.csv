@@ -1,0 +1,16 @@
+BIT,FUNC_0
+PCL_RCV_INTX,VAR_0
+PCL_RCV_INTX_ALL_MASK,VAR_1
+PCL_RCV_INTX_MASK_SHIFT,VAR_2
+irq_data_get_irq_chip_data,FUNC_1
+irqd_to_hwirq,FUNC_2
+readl,FUNC_3
+to_dw_pcie_from_pp,FUNC_4
+to_uniphier_pcie,FUNC_5
+writel,FUNC_6
+uniphier_pcie_irq_mask,FUNC_7
+d,VAR_3
+pp,VAR_4
+pci,VAR_5
+priv,VAR_6
+val,VAR_7

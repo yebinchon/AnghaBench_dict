@@ -1,0 +1,14 @@
+CL_CDKeyValidate,FUNC_0
+Com_Memset,FUNC_1
+FS_FCloseFile,FUNC_2
+FS_Read,FUNC_3
+FS_SV_FOpenFileRead,FUNC_4
+MAX_OSPATH,VAR_0
+Q_strncpyz,FUNC_5
+cl_cdkey,VAR_1
+sprintf,FUNC_6
+Com_ReadCDKey,FUNC_7
+filename,VAR_2
+f,VAR_3
+buffer,VAR_4
+fbuffer,VAR_5

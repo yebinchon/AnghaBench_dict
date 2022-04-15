@@ -1,0 +1,14 @@
+DIR_ENTRY_DATA_SIZE,VAR_0
+DIR_ENTRY_FREE,VAR_1
+_FAT_cache_readPartialSector,FUNC_0
+_FAT_cache_writePartialSector,FUNC_1
+_FAT_directory_incrementDirEntryPosition,FUNC_2
+_FAT_fat_clusterToSector,FUNC_3
+_FAT_directory_removeEntry,FUNC_4
+partition,VAR_2
+entry,VAR_3
+entryStart,VAR_4
+entryEnd,VAR_5
+entryStillValid,VAR_6
+finished,VAR_7
+entryData,VAR_8

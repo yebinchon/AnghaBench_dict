@@ -1,0 +1,11 @@
+clk_prepare_enable,FUNC_0
+dev_get_drvdata,FUNC_1
+pinctrl_pm_select_default_state,FUNC_2
+pinctrl_pm_select_idle_state,FUNC_3
+spi_master_get_devdata,FUNC_4
+mxs_spi_runtime_resume,FUNC_5
+dev,VAR_0
+master,VAR_1
+spi,VAR_2
+ssp,VAR_3
+ret,VAR_4

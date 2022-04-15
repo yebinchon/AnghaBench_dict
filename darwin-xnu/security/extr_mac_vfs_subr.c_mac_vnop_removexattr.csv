@@ -1,0 +1,15 @@
+EROFS,VAR_0
+FSE_ARG_DONE,VAR_1
+FSE_ARG_VNODE,VAR_2
+FSE_XATTR_REMOVED,VAR_3
+XATTR_NOSECURITY,VAR_4
+add_fsevent,FUNC_0
+vfs_context_current,FUNC_1
+vfs_isrdonly,FUNC_2
+vn_removexattr,FUNC_3
+mac_vnop_removexattr,FUNC_4
+vp,VAR_5
+name,VAR_6
+ctx,VAR_7
+options,VAR_8
+error,VAR_9

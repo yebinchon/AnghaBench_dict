@@ -1,0 +1,16 @@
+CR14_DEGRADATION_SUBMASK,VAR_0
+CR14_RECOVERY_SUBMASK,VAR_1
+CR14_WARNING_SUBMASK,VAR_2
+KVM_S390_MCHK,VAR_3
+WARN_ON_ONCE,FUNC_0
+__inject_vm,FUNC_1
+kvm_s390_inject_vcpu,FUNC_2
+kvm_s390_reinject_machine_check,FUNC_3
+vcpu,VAR_4
+mcck_info,VAR_5
+inti,VAR_6
+irq,VAR_7
+mchk,VAR_8
+mci,VAR_9
+cr14,VAR_10
+rc,VAR_11

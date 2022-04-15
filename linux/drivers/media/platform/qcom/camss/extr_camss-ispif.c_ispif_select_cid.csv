@@ -1,0 +1,13 @@
+ISPIF_VFE_m_PIX_INTF_n_CID_MASK,FUNC_0
+ISPIF_VFE_m_RDI_INTF_n_CID_MASK,FUNC_1
+readl_relaxed,FUNC_2
+writel,FUNC_3
+ispif_select_cid,FUNC_4
+ispif,VAR_0
+intf,VAR_1
+cid,VAR_2
+vfe,VAR_3
+enable,VAR_4
+cid_mask,VAR_5
+addr,VAR_6
+val,VAR_7

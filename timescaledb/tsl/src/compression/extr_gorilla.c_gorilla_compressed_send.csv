@@ -1,0 +1,12 @@
+Assert,FUNC_0
+COMPRESSION_ALGORITHM_GORILLA,VAR_0
+bit_array_send,FUNC_1
+compressed_gorilla_data_init_from_pointer,FUNC_2
+pq_sendbyte,FUNC_3
+pq_sendint64,FUNC_4
+simple8brle_serialized_send,FUNC_5
+gorilla_compressed_send,FUNC_6
+header,VAR_1
+buf,VAR_2
+data,VAR_3
+compressed,VAR_4

@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+EBUSY,VAR_0
+drm_mm_put_block,FUNC_1
+i915_gem_gtt_finish_object,FUNC_2
+i915_gem_gtt_unbind_object,FUNC_3
+i915_gem_object_finish_gpu,FUNC_4
+i915_gem_object_finish_gtt,FUNC_5
+i915_gem_object_put_fence,FUNC_6
+i915_ppgtt_unbind_object,FUNC_7
+list_del,FUNC_8
+list_move_tail,FUNC_9
+trace_i915_gem_object_unbind,FUNC_10
+i915_gem_object_unbind,FUNC_11
+obj,VAR_1
+dev_priv,VAR_2
+ret,VAR_3

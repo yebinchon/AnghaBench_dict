@@ -1,0 +1,11 @@
+QLC_BC_VF_SEND,VAR_0
+clear_bit,FUNC_0
+complete,FUNC_1
+qlcnic_sriov_get_bc_paysize,FUNC_2
+qlcnic_sriov_pull_bc_msg,FUNC_3
+test_and_set_bit,FUNC_4
+qlcnic_sriov_handle_bc_resp,FUNC_5
+hdr,VAR_1
+vf,VAR_2
+trans,VAR_3
+pay_size,VAR_4

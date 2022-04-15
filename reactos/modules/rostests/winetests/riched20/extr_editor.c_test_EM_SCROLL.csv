@@ -1,0 +1,16 @@
+DestroyWindow,FUNC_0
+EM_GETFIRSTVISIBLELINE,VAR_0
+EM_SCROLL,VAR_1
+SendMessageA,FUNC_1
+WM_SETTEXT,VAR_2
+new_richedit,FUNC_2
+ok,FUNC_3
+test_EM_SCROLL,FUNC_4
+i,VAR_3
+j,VAR_4
+r,VAR_5
+expr,VAR_6
+hwndRichEdit,VAR_7
+y_before,VAR_8
+y_after,VAR_9
+cmd,VAR_10

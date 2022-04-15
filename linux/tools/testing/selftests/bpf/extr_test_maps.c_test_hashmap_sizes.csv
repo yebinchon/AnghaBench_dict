@@ -1,0 +1,16 @@
+BPF_MAP_TYPE_HASH,VAR_0
+ENOMEM,VAR_1
+bpf_create_map,FUNC_0
+close,FUNC_1
+errno,VAR_2
+exit,FUNC_2
+map_flags,VAR_3
+printf,FUNC_3
+strerror,FUNC_4
+usleep,FUNC_5
+test_hashmap_sizes,FUNC_6
+task,VAR_4
+data,VAR_5
+fd,VAR_6
+i,VAR_7
+j,VAR_8

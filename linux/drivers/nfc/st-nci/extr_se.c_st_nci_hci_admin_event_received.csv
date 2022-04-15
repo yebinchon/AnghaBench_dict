@@ -1,0 +1,14 @@
+ST_NCI_EVT_HOT_PLUG_IS_INHIBITED,FUNC_0
+ST_NCI_SE_TO_PIPES,VAR_0
+complete,FUNC_1
+del_timer_sync,FUNC_2
+jiffies,VAR_1
+mod_timer,FUNC_3
+msecs_to_jiffies,FUNC_4
+nci_get_drvdata,FUNC_5
+nfc_err,FUNC_6
+st_nci_hci_admin_event_received,FUNC_7
+ndev,VAR_2
+event,VAR_3
+skb,VAR_4
+info,VAR_5

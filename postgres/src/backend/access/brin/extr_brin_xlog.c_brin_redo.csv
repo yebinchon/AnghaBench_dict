@@ -1,0 +1,14 @@
+PANIC,VAR_0
+XLOG_BRIN_OPMASK,VAR_1
+XLR_INFO_MASK,VAR_2
+XLogRecGetInfo,FUNC_0
+brin_xlog_createidx,FUNC_1
+brin_xlog_desummarize_page,FUNC_2
+brin_xlog_insert,FUNC_3
+brin_xlog_revmap_extend,FUNC_4
+brin_xlog_samepage_update,FUNC_5
+brin_xlog_update,FUNC_6
+elog,FUNC_7
+brin_redo,FUNC_8
+record,VAR_3
+info,VAR_4

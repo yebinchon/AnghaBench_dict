@@ -1,0 +1,12 @@
+TIOCM_CAR,VAR_0
+TIOCM_CTS,VAR_1
+TIOCM_DSR,VAR_2
+TIOCM_RI,VAR_3
+imx_uart_get_hwmctrl,FUNC_0
+uart_handle_cts_change,FUNC_1
+uart_handle_dcd_change,FUNC_2
+wake_up_interruptible,FUNC_3
+imx_uart_mctrl_check,FUNC_4
+sport,VAR_4
+status,VAR_5
+changed,VAR_6

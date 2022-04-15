@@ -1,0 +1,15 @@
+PCI_D3cold,VAR_0
+PCI_D3hot,VAR_1
+PCI_ERS_RESULT_DISCONNECT,VAR_2
+PCI_ERS_RESULT_RECOVERED,VAR_3
+atl1e_reset_hw,FUNC_0
+netdev_err,FUNC_1
+netdev_priv,FUNC_2
+pci_enable_device,FUNC_3
+pci_enable_wake,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_set_master,FUNC_6
+atl1e_io_slot_reset,FUNC_7
+pdev,VAR_4
+netdev,VAR_5
+adapter,VAR_6

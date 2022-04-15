@@ -1,0 +1,15 @@
+DISK_EVENT_MEDIA_CHANGE,VAR_0
+FMODE_EXCL,VAR_1
+WARN_ON_ONCE,FUNC_0
+__blkdev_put,FUNC_1
+bdev_lock,VAR_2
+disk_flush_events,FUNC_2
+disk_unblock_events,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+blkdev_put,FUNC_8
+bdev,VAR_3
+mode,VAR_4
+bdev_free,VAR_5

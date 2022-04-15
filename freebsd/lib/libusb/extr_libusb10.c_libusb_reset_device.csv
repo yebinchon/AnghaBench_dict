@@ -1,0 +1,16 @@
+LIBUSB_ERROR_INVALID_PARAM,VAR_0
+LIBUSB_ERROR_OTHER,VAR_1
+POLLIN,VAR_2
+POLLOUT,VAR_3
+POLLRDNORM,VAR_4
+POLLWRNORM,VAR_5
+libusb10_add_pollfd,FUNC_0
+libusb10_cancel_all_transfer,FUNC_1
+libusb10_remove_pollfd,FUNC_2
+libusb20_dev_get_fd,FUNC_3
+libusb20_dev_reset,FUNC_4
+libusb_get_device,FUNC_5
+libusb_reset_device,FUNC_6
+pdev,VAR_6
+dev,VAR_7
+err,VAR_8

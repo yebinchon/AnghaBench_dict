@@ -1,0 +1,15 @@
+INTEL_PT_INSN_BUF_SZ,VAR_0
+PERF_RECORD_SAMPLE,VAR_1
+intel_bts_cpumode,FUNC_0
+le64_to_cpu,FUNC_1
+memcpy,FUNC_2
+perf_event__synthesize_sample,FUNC_3
+perf_session__deliver_synth_event,FUNC_4
+pr_err,FUNC_5
+intel_bts_synth_branch_sample,FUNC_6
+btsq,VAR_2
+branch,VAR_3
+ret,VAR_4
+bts,VAR_5
+event,VAR_6
+sample,VAR_7

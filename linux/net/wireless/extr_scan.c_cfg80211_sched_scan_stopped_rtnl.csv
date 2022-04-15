@@ -1,0 +1,8 @@
+ASSERT_RTNL,FUNC_0
+__cfg80211_stop_sched_scan,FUNC_1
+trace_cfg80211_sched_scan_stopped,FUNC_2
+wiphy_to_rdev,FUNC_3
+cfg80211_sched_scan_stopped_rtnl,FUNC_4
+wiphy,VAR_0
+reqid,VAR_1
+rdev,VAR_2

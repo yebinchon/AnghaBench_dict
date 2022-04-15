@@ -1,0 +1,14 @@
+E1000_KMRNCTRLSTA_OFFSET,VAR_0
+E1000_KMRNCTRLSTA_OFFSET_SHIFT,VAR_1
+KMRNCTRLSTA,VAR_2
+e1000_acquire_mac_csr_80003es2lan,FUNC_0
+e1000_release_mac_csr_80003es2lan,FUNC_1
+e1e_flush,FUNC_2
+ew32,FUNC_3
+udelay,FUNC_4
+e1000_write_kmrn_reg_80003es2lan,FUNC_5
+hw,VAR_3
+offset,VAR_4
+data,VAR_5
+kmrnctrlsta,VAR_6
+ret_val,VAR_7

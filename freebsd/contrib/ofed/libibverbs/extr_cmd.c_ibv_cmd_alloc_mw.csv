@@ -1,0 +1,14 @@
+ALLOC_MW,VAR_0
+IBV_INIT_CMD_RESP,FUNC_0
+VALGRIND_MAKE_MEM_DEFINED,FUNC_1
+errno,VAR_1
+memset,FUNC_2
+write,FUNC_3
+ibv_cmd_alloc_mw,FUNC_4
+pd,VAR_2
+type,VAR_3
+mw,VAR_4
+cmd,VAR_5
+cmd_size,VAR_6
+resp,VAR_7
+resp_size,VAR_8

@@ -1,0 +1,16 @@
+BNXT_HWRM_EXEC_FWD_REQ_SP_EVENT,VAR_0
+EINVAL,VAR_1
+TX_CMP_TYPE,FUNC_0
+bnxt_async_event_process,FUNC_1
+bnxt_queue_sp_work,FUNC_2
+le16_to_cpu,FUNC_3
+netdev_err,FUNC_4
+set_bit,FUNC_5
+bnxt_hwrm_handler,FUNC_6
+bp,VAR_2
+txcmp,VAR_3
+cmpl_type,VAR_4
+vf_id,VAR_5
+seq_id,VAR_6
+h_cmpl,VAR_7
+fwd_req_cmpl,VAR_8

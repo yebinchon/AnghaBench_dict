@@ -1,0 +1,12 @@
+ATA_LOG_PAGE_NCQ_ERROR,VAR_0
+SATI_SEQUENCE_ABORT_TASK_SET,VAR_1
+SATI_SEQUENCE_STATE_AWAIT_RESPONSE,VAR_2
+SATI_SUCCESS,VAR_3
+sati_ata_read_log_ext_construct,FUNC_0
+sati_cb_get_h2d_register_fis_address,FUNC_1
+sati_set_sata_command_flag,FUNC_2
+sati_abort_task_set_translate_command,FUNC_3
+sequence,VAR_4
+scsi_io,VAR_5
+ata_io,VAR_6
+register_fis,VAR_7

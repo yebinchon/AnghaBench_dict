@@ -1,0 +1,11 @@
+RME96_IO_RESET_PLAY_POS,VAR_0
+RME96_ISPLAYING,FUNC_0
+RME96_STOP_PLAYBACK,VAR_1
+snd_pcm_substream_chip,FUNC_1
+snd_rme96_trigger,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+writel,FUNC_5
+snd_rme96_playback_prepare,FUNC_6
+substream,VAR_2
+rme96,VAR_3

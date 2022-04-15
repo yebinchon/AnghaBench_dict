@@ -1,0 +1,12 @@
+SE401_REQ_SET_EXT_FEATURE,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_DEVICE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+pr_err,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+se401_set_feature,FUNC_3
+gspca_dev,VAR_4
+selector,VAR_5
+param,VAR_6
+err,VAR_7

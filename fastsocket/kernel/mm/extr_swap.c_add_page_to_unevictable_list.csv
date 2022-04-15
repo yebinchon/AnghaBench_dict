@@ -1,0 +1,10 @@
+LRU_UNEVICTABLE,VAR_0
+SetPageLRU,FUNC_0
+SetPageUnevictable,FUNC_1
+add_page_to_lru_list,FUNC_2
+page_zone,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+add_page_to_unevictable_list,FUNC_6
+page,VAR_1
+zone,VAR_2

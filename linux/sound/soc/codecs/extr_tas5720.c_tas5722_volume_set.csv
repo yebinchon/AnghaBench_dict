@@ -1,0 +1,11 @@
+TAS5720_VOLUME_CTRL_REG,VAR_0
+TAS5722_DIGITAL_CTRL2_REG,VAR_1
+TAS5722_VOL_CONTROL_LSB,VAR_2
+snd_soc_component_update_bits,FUNC_0
+snd_soc_component_write,FUNC_1
+snd_soc_kcontrol_component,FUNC_2
+tas5722_volume_set,FUNC_3
+kcontrol,VAR_3
+ucontrol,VAR_4
+component,VAR_5
+sel,VAR_6

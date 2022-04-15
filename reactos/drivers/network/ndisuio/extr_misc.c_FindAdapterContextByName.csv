@@ -1,0 +1,14 @@
+CONTAINING_RECORD,FUNC_0
+GlobalAdapterList,VAR_0
+GlobalAdapterListLock,VAR_1
+KeAcquireSpinLock,FUNC_1
+KeReleaseSpinLock,FUNC_2
+ListEntry,VAR_2
+NDISUIO_ADAPTER_CONTEXT,VAR_3
+RtlEqualUnicodeString,FUNC_3
+TRUE,VAR_4
+FindAdapterContextByName,FUNC_4
+DeviceName,VAR_5
+OldIrql,VAR_6
+CurrentEntry,VAR_7
+AdapterContext,VAR_8

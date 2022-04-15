@@ -1,0 +1,16 @@
+DRM_MODE_DPMS_ON,VAR_0
+PIPE_A,VAR_1
+WARN_ON,FUNC_0
+intel_crt_set_dpms,FUNC_1
+intel_set_cpu_fifo_underrun_reporting,FUNC_2
+intel_set_pch_fifo_underrun_reporting,FUNC_3
+intel_wait_for_vblank,FUNC_4
+to_i915,FUNC_5
+to_intel_crtc,FUNC_6
+hsw_enable_crt,FUNC_7
+encoder,VAR_2
+crtc_state,VAR_3
+conn_state,VAR_4
+dev_priv,VAR_5
+crtc,VAR_6
+pipe,VAR_7

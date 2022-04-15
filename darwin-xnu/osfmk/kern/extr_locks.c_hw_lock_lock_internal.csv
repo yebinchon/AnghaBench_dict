@@ -1,0 +1,15 @@
+LCK_MTX_THREAD_TO_STATE,FUNC_0
+LOCKSTAT_RECORD,FUNC_1
+LS_LCK_SPIN_LOCK_ACQUIRE,VAR_0
+PLATFORM_LCK_ILOCK,VAR_1
+TRUE,VAR_2
+atomic_compare_exchange,FUNC_2
+hw_lock_lock_contended,FUNC_3
+memory_order_acquire_smp,VAR_3
+ordered_load_hw,FUNC_4
+panic,FUNC_5
+spinlock_timeout_panic,VAR_4
+hw_lock_lock_internal,FUNC_6
+lock,VAR_5
+thread,VAR_6
+state,VAR_7

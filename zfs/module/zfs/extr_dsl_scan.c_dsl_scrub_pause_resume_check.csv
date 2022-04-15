@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+ENOENT,VAR_1
+ENOTSUP,VAR_2
+POOL_SCRUB_NORMAL,VAR_3
+POOL_SCRUB_PAUSE,VAR_4
+SET_ERROR,FUNC_0
+dmu_tx_pool,FUNC_1
+dsl_scan_is_paused_scrub,FUNC_2
+dsl_scan_scrubbing,FUNC_3
+dsl_scrub_pause_resume_check,FUNC_4
+arg,VAR_5
+tx,VAR_6
+cmd,VAR_7
+dp,VAR_8
+scn,VAR_9

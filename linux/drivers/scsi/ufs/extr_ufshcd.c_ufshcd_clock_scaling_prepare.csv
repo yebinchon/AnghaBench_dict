@@ -1,0 +1,10 @@
+DOORBELL_CLR_TOUT_US,VAR_0
+EBUSY,VAR_1
+down_write,FUNC_0
+ufshcd_scsi_block_requests,FUNC_1
+ufshcd_scsi_unblock_requests,FUNC_2
+ufshcd_wait_for_doorbell_clr,FUNC_3
+up_write,FUNC_4
+ufshcd_clock_scaling_prepare,FUNC_5
+hba,VAR_2
+ret,VAR_3

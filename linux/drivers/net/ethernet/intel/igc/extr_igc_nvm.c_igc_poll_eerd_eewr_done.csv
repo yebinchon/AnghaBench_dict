@@ -1,0 +1,14 @@
+IGC_EERD,VAR_0
+IGC_EEWR,VAR_1
+IGC_ERR_NVM,VAR_2
+IGC_NVM_POLL_READ,VAR_3
+IGC_NVM_RW_REG_DONE,VAR_4
+rd32,FUNC_0
+udelay,FUNC_1
+igc_poll_eerd_eewr_done,FUNC_2
+hw,VAR_5
+ee_reg,VAR_6
+ret_val,VAR_7
+attempts,VAR_8
+i,VAR_9
+reg,VAR_10

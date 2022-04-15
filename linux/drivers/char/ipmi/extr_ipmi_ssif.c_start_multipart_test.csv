@@ -1,0 +1,11 @@
+SSIF_IPMI_MULTI_PART_REQUEST_MIDDLE,VAR_0
+SSIF_IPMI_MULTI_PART_REQUEST_START,VAR_1
+SSIF_SEND_RETRIES,VAR_2
+dev_err,FUNC_0
+i2c_smbus_write_block_data,FUNC_1
+start_multipart_test,FUNC_2
+client,VAR_3
+msg,VAR_4
+do_middle,VAR_5
+retry_cnt,VAR_6
+ret,VAR_7

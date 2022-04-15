@@ -1,0 +1,17 @@
+ENODEV,VAR_0
+ENOTCONN,VAR_1
+get_dpifindex,FUNC_0
+ovs_dp_get_net,FUNC_1
+queue_gso_packets,FUNC_2
+queue_userspace_packet,FUNC_3
+skb_is_gso,FUNC_4
+this_cpu_ptr,FUNC_5
+u64_stats_update_begin,FUNC_6
+u64_stats_update_end,FUNC_7
+ovs_dp_upcall,FUNC_8
+dp,VAR_2
+skb,VAR_3
+upcall_info,VAR_4
+stats,VAR_5
+dp_ifindex,VAR_6
+err,VAR_7

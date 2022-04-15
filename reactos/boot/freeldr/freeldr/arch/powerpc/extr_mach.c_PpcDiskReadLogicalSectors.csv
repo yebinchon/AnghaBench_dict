@@ -1,0 +1,13 @@
+BootPart,VAR_0
+FALSE,VAR_1
+ofw_open,FUNC_0
+ofw_read,FUNC_1
+ofw_seek,FUNC_2
+part_handle,VAR_2
+printf,FUNC_3
+PpcDiskReadLogicalSectors,FUNC_4
+DriveNumber,VAR_3
+SectorNumber,VAR_4
+SectorCount,VAR_5
+Buffer,VAR_6
+rlen,VAR_7

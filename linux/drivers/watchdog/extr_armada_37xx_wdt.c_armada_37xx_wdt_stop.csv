@@ -1,0 +1,9 @@
+CNTR_ID_RETRIGGER,VAR_0
+CNTR_ID_WDOG,VAR_1
+WDT_TIMER_SELECT,VAR_2
+counter_disable,FUNC_0
+regmap_write,FUNC_1
+watchdog_get_drvdata,FUNC_2
+armada_37xx_wdt_stop,FUNC_3
+wdt,VAR_3
+dev,VAR_4

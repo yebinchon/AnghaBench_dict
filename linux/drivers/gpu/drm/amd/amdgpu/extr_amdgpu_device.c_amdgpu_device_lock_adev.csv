@@ -1,0 +1,12 @@
+PP_MP1_STATE_NONE,VAR_0
+PP_MP1_STATE_RESET,VAR_1
+PP_MP1_STATE_SHUTDOWN,VAR_2
+amdgpu_amdkfd_pre_reset,FUNC_0
+amdgpu_asic_reset_method,FUNC_1
+amdgpu_sriov_vf,FUNC_2
+atomic_inc,FUNC_3
+mutex_lock,FUNC_4
+mutex_trylock,FUNC_5
+amdgpu_device_lock_adev,FUNC_6
+adev,VAR_3
+trylock,VAR_4

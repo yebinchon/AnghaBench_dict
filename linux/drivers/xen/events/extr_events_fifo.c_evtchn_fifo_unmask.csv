@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+EVTCHNOP_unmask,VAR_0
+HYPERVISOR_event_channel_op,FUNC_1
+clear_masked,FUNC_2
+event_word_from_port,FUNC_3
+evtchn_fifo_is_pending,FUNC_4
+irqs_disabled,FUNC_5
+evtchn_fifo_unmask,FUNC_6
+port,VAR_1
+word,VAR_2
+unmask,VAR_3

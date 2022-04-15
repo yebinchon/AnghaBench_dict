@@ -1,0 +1,10 @@
+DS3232_REG_TEMPERATURE,VAR_0
+dev_get_drvdata,FUNC_0
+regmap_bulk_read,FUNC_1
+ds3232_hwmon_read_temp,FUNC_2
+dev,VAR_1
+mC,VAR_2
+ds3232,VAR_3
+temp_buf,VAR_4
+temp,VAR_5
+ret,VAR_6

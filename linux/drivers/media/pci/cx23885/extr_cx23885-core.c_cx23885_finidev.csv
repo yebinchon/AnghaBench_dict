@@ -1,0 +1,15 @@
+cx23885_dev_unregister,FUNC_0
+cx23885_input_fini,FUNC_1
+cx23885_ir_fini,FUNC_2
+cx23885_shutdown,FUNC_3
+free_irq,FUNC_4
+kfree,FUNC_5
+pci_disable_device,FUNC_6
+pci_get_drvdata,FUNC_7
+to_cx23885,FUNC_8
+v4l2_ctrl_handler_free,FUNC_9
+v4l2_device_unregister,FUNC_10
+cx23885_finidev,FUNC_11
+pci_dev,VAR_0
+v4l2_dev,VAR_1
+dev,VAR_2

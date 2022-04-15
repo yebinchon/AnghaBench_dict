@@ -1,0 +1,14 @@
+ieee80211_alloc_hw,FUNC_0
+init_waitqueue_head,FUNC_1
+mt76_tx_tasklet,VAR_0
+mutex_init,FUNC_2
+skb_queue_head_init,FUNC_3
+spin_lock_init,FUNC_4
+tasklet_init,FUNC_5
+mt76_alloc_device,FUNC_6
+pdev,VAR_1
+size,VAR_2
+ops,VAR_3
+drv_ops,VAR_4
+hw,VAR_5
+dev,VAR_6

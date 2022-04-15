@@ -1,0 +1,13 @@
+__ftrace_clear_event_pids,FUNC_0
+__ftrace_set_clr_event_nolock,FUNC_1
+__trace_remove_event_dirs,FUNC_2
+clear_event_triggers,FUNC_3
+down_write,FUNC_4
+event_mutex,VAR_0
+lockdep_assert_held,FUNC_5
+trace_event_sem,VAR_1
+tracefs_remove_recursive,FUNC_6
+tracepoint_synchronize_unregister,FUNC_7
+up_write,FUNC_8
+event_trace_del_tracer,FUNC_9
+tr,VAR_2

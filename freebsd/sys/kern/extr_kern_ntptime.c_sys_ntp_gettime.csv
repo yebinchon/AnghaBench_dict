@@ -1,0 +1,9 @@
+NTP_LOCK,FUNC_0
+NTP_UNLOCK,FUNC_1
+copyout,FUNC_2
+memset,FUNC_3
+ntp_gettime1,FUNC_4
+sys_ntp_gettime,FUNC_5
+td,VAR_0
+uap,VAR_1
+ntv,VAR_2

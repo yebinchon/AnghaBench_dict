@@ -1,0 +1,12 @@
+CPU_FTR_ARCH_300,VAR_0
+OPAL_REINIT_CPUS_HILE_BE,VAR_1
+OPAL_REINIT_CPUS_HILE_LE,VAR_2
+OPAL_REINIT_CPUS_MMU_HASH,VAR_3
+OPAL_REINIT_CPUS_MMU_RADIX,VAR_4
+cur_cpu_spec,VAR_5
+early_cpu_has_feature,FUNC_0
+early_radix_enabled,FUNC_1
+opal_reinit_cpus,FUNC_2
+stub1,FUNC_3
+opal_configure_cores,FUNC_4
+reinit_flags,VAR_6

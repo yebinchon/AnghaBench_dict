@@ -1,0 +1,10 @@
+GEM_BUG_ON,FUNC_0
+atomic_read,FUNC_1
+list_add,FUNC_2
+lockdep_assert_held,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+intel_timeline_enter,FUNC_6
+tl,VAR_0
+timelines,VAR_1
+flags,VAR_2

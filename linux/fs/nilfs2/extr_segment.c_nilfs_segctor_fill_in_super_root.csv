@@ -1,0 +1,17 @@
+NILFS_LAST_SEGBUF,FUNC_0
+NILFS_SR_BYTES,FUNC_1
+NILFS_SR_CPFILE_OFFSET,FUNC_2
+NILFS_SR_DAT_OFFSET,FUNC_3
+NILFS_SR_SUFILE_OFFSET,FUNC_4
+cpu_to_le16,FUNC_5
+cpu_to_le64,FUNC_6
+memset,FUNC_7
+nilfs_doing_gc,FUNC_8
+nilfs_write_inode_common,FUNC_9
+nilfs_segctor_fill_in_super_root,FUNC_10
+sci,VAR_0
+nilfs,VAR_1
+bh_sr,VAR_2
+raw_sr,VAR_3
+isz,VAR_4
+srsz,VAR_5

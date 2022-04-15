@@ -1,0 +1,9 @@
+VIRTIO_VSOCK_OP_RESPONSE,VAR_0
+VIRTIO_VSOCK_TYPE_STREAM,VAR_1
+le32_to_cpu,FUNC_0
+le64_to_cpu,FUNC_1
+virtio_transport_send_pkt_info,FUNC_2
+virtio_transport_send_response,FUNC_3
+vsk,VAR_2
+pkt,VAR_3
+info,VAR_4

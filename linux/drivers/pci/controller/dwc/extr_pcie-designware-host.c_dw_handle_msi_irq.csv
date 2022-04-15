@@ -1,0 +1,17 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+MAX_MSI_IRQS_PER_CTRL,VAR_2
+MSI_REG_CTRL_BLOCK_SIZE,VAR_3
+PCIE_MSI_INTR0_STATUS,VAR_4
+dw_pcie_rd_own_conf,FUNC_0
+find_next_bit,FUNC_1
+generic_handle_irq,FUNC_2
+irq_find_mapping,FUNC_3
+dw_handle_msi_irq,FUNC_4
+pp,VAR_5
+i,VAR_6
+pos,VAR_7
+irq,VAR_8
+val,VAR_9
+num_ctrls,VAR_10
+ret,VAR_11

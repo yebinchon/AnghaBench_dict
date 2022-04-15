@@ -1,0 +1,17 @@
+BUS_ADD_CHILD,FUNC_0
+KBDC_RID_AUX,VAR_0
+PSMCPNP_DRIVER_NAME,VAR_1
+SYS_RES_IRQ,VAR_2
+bus_delete_resource,FUNC_1
+bus_get_resource_start,FUNC_2
+bus_set_resource,FUNC_3
+device_find_child,FUNC_4
+device_get_parent,FUNC_5
+device_get_unit,FUNC_6
+psmidentify,FUNC_7
+driver,VAR_3
+parent,VAR_4
+psmc,VAR_5
+psm,VAR_6
+irq,VAR_7
+unit,VAR_8

@@ -1,0 +1,11 @@
+CUR_UPDATE__CURSOR_UPDATE_LOCK_MASK,VAR_0
+RREG32,FUNC_0
+WREG32,FUNC_1
+mmCUR_UPDATE,VAR_1
+to_amdgpu_crtc,FUNC_2
+dce_v8_0_lock_cursor,FUNC_3
+crtc,VAR_2
+lock,VAR_3
+adev,VAR_4
+amdgpu_crtc,VAR_5
+cur_lock,VAR_6

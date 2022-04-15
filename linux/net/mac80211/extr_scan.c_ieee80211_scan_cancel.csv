@@ -1,0 +1,15 @@
+SCAN_COMPLETED,VAR_0
+SCAN_HW_CANCELLED,VAR_1
+SCAN_HW_SCANNING,VAR_2
+__ieee80211_scan_completed,FUNC_0
+cancel_delayed_work,FUNC_1
+drv_cancel_hw_scan,FUNC_2
+lockdep_is_held,FUNC_3
+memset,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+rcu_dereference_protected,FUNC_7
+set_bit,FUNC_8
+test_bit,FUNC_9
+ieee80211_scan_cancel,FUNC_10
+local,VAR_3

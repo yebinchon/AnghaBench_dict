@@ -1,0 +1,15 @@
+EINTR,VAR_0
+SA_RESTART,VAR_1
+__NR_restart_syscall,VAR_2
+current,VAR_3
+get_signal,FUNC_0
+handle_signal,FUNC_1
+restore_saved_sigmask,FUNC_2
+unlikely,FUNC_3
+do_signal,FUNC_4
+regs,VAR_4
+retval,VAR_5
+continue_addr,VAR_6
+restart_addr,VAR_7
+restart,VAR_8
+ksig,VAR_9

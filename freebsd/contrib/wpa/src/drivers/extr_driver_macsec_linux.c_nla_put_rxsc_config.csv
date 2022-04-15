@@ -1,0 +1,9 @@
+MACSEC_ATTR_RXSC_CONFIG,VAR_0
+MACSEC_RXSC_ATTR_SCI,VAR_1
+NLA_PUT_U64,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put_rxsc_config,FUNC_3
+msg,VAR_2
+sci,VAR_3
+nest,VAR_4

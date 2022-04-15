@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+PPSMC_MSG_VCEDPM_Disable,VAR_1
+PPSMC_MSG_VCEDPM_Enable,VAR_2
+PPSMC_MSG_VCEDPM_SetEnabledMask,VAR_3
+PPSMC_Result_OK,VAR_4
+ci_get_pi,FUNC_0
+ci_send_msg_to_smc,FUNC_1
+ci_send_msg_to_smc_with_parameter,FUNC_2
+ci_enable_vce_dpm,FUNC_3
+rdev,VAR_5
+enable,VAR_6
+pi,VAR_7
+max_limits,VAR_8
+i,VAR_9

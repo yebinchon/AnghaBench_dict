@@ -1,0 +1,8 @@
+USART_CR1_TXEIE,VAR_0
+USART_CR3_TXFTIE,VAR_1
+stm32_clr_bits,FUNC_0
+to_stm32_port,FUNC_1
+stm32_tx_interrupt_disable,FUNC_2
+port,VAR_2
+stm32_port,VAR_3
+ofs,VAR_4

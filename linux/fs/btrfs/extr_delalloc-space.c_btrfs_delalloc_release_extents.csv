@@ -1,0 +1,12 @@
+btrfs_calculate_inode_block_rsv_size,FUNC_0
+btrfs_inode_rsv_release,FUNC_1
+btrfs_is_testing,FUNC_2
+btrfs_mod_outstanding_extents,FUNC_3
+count_max_extents,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+btrfs_delalloc_release_extents,FUNC_7
+inode,VAR_0
+num_bytes,VAR_1
+fs_info,VAR_2
+num_extents,VAR_3

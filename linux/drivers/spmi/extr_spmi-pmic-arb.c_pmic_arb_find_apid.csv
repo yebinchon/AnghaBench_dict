@@ -1,0 +1,14 @@
+PMIC_ARB_APID_VALID,VAR_0
+PMIC_ARB_PPID_MASK,VAR_1
+SPMI_OWNERSHIP_PERIPH2OWNER,FUNC_0
+SPMI_OWNERSHIP_TABLE_REG,FUNC_1
+readl_relaxed,FUNC_2
+stub1,FUNC_3
+pmic_arb_find_apid,FUNC_4
+pmic_arb,VAR_2
+ppid,VAR_3
+apidd,VAR_4
+regval,VAR_5
+offset,VAR_6
+id,VAR_7
+apid,VAR_8

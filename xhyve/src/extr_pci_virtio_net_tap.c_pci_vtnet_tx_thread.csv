@@ -1,0 +1,15 @@
+VRING_USED_F_NO_NOTIFY,VAR_0
+VTNET_TXQ,VAR_1
+assert,FUNC_0
+mb,FUNC_1
+pci_vtnet_proctx,FUNC_2
+pthread_cond_wait,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+vq_endchains,FUNC_6
+vq_has_descs,FUNC_7
+pci_vtnet_tx_thread,FUNC_8
+param,VAR_2
+sc,VAR_3
+vq,VAR_4
+error,VAR_5

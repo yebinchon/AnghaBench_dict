@@ -1,0 +1,12 @@
+FS_EVENT_ON_CHILD,VAR_0
+S_ISDIR,FUNC_0
+fsnotify_find_mark_entry,FUNC_1
+fsnotify_put_mark,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+dnotify_should_send_event,FUNC_5
+group,VAR_1
+inode,VAR_2
+mask,VAR_3
+entry,VAR_4
+send,VAR_5

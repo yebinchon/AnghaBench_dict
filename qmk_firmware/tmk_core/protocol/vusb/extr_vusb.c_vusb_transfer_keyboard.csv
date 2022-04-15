@@ -1,0 +1,15 @@
+KBUF_SIZE,VAR_0
+VUSB_TRANSFER_KEYBOARD_MAX_TRIES,VAR_1
+_delay_ms,FUNC_0
+debug_keyboard,VAR_2
+kbuf,VAR_3
+kbuf_head,VAR_4
+kbuf_tail,VAR_5
+pdec,FUNC_1
+phex,FUNC_2
+print,FUNC_3
+usbInterruptIsReady,FUNC_4
+usbPoll,FUNC_5
+usbSetInterrupt,FUNC_6
+vusb_transfer_keyboard,FUNC_7
+i,VAR_6

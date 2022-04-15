@@ -1,0 +1,14 @@
+IWL_FW_INI_TIME_POINT_PERIODIC,VAR_0
+IWL_FW_INI_TIME_POINT_POST_INIT,VAR_1
+IWL_MVM_STATUS_HW_RESTART_REQUESTED,VAR_2
+IWL_MVM_STATUS_IN_HW_RESTART,VAR_3
+clear_bit,FUNC_0
+iwl_dbg_tlv_time_point,FUNC_1
+iwl_mvm_restart_cleanup,FUNC_2
+iwl_mvm_up,FUNC_3
+lockdep_assert_held,FUNC_4
+set_bit,FUNC_5
+test_bit,FUNC_6
+__iwl_mvm_mac_start,FUNC_7
+mvm,VAR_4
+ret,VAR_5

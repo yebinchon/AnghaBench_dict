@@ -1,0 +1,11 @@
+CONN_IS_WEBSOCKET,VAR_0
+WS_OPCODE_TEXT,VAR_1
+lwan_strbuf_get_buffer,FUNC_0
+lwan_strbuf_get_length,FUNC_1
+lwan_strbuf_reset,FUNC_2
+write_websocket_frame,FUNC_3
+lwan_response_websocket_write,FUNC_4
+request,VAR_2
+len,VAR_3
+msg,VAR_4
+header,VAR_5

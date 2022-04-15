@@ -1,0 +1,12 @@
+CTL_TRACECAPTEN,VAR_0
+STS_TMCREADY,VAR_1
+TMC_CTL,VAR_2
+TMC_STS,VAR_3
+bus_read_4,FUNC_0
+bus_write_4,FUNC_1
+device_get_softc,FUNC_2
+panic,FUNC_3
+tmc_start,FUNC_4
+dev,VAR_4
+sc,VAR_5
+reg,VAR_6

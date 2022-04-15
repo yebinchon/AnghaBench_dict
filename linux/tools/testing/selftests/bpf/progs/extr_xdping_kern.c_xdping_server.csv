@@ -1,0 +1,16 @@
+ICMP_ECHO,VAR_0
+ICMP_ECHOREPLY,VAR_1
+ICMP_ECHO_LEN,VAR_2
+XDP_TX,VAR_3
+icmp_check,FUNC_0
+ipv4_csum,FUNC_1
+swap_src_dst_mac,FUNC_2
+xdping_server,FUNC_3
+ctx,VAR_4
+data_end,VAR_5
+data,VAR_6
+eth,VAR_7
+icmph,VAR_8
+iph,VAR_9
+raddr,VAR_10
+ret,VAR_11

@@ -1,0 +1,17 @@
+AUTONEG_ENABLE,VAR_0
+PCH_GBE_FC_FULL,VAR_1
+PCH_GBE_FC_NONE,VAR_2
+PCH_GBE_FC_RX_PAUSE,VAR_3
+PCH_GBE_FC_TX_PAUSE,VAR_4
+netdev_priv,FUNC_0
+netif_running,FUNC_1
+pch_gbe_down,FUNC_2
+pch_gbe_mac_force_mac_fc,FUNC_3
+pch_gbe_reset,FUNC_4
+pch_gbe_up,FUNC_5
+pch_gbe_set_pauseparam,FUNC_6
+netdev,VAR_5
+pause,VAR_6
+adapter,VAR_7
+hw,VAR_8
+ret,VAR_9

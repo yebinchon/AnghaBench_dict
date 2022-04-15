@@ -1,0 +1,13 @@
+F2FS_DIRTY_META,VAR_0
+F2FS_P_SB,FUNC_0
+META,VAR_1
+PageDirty,FUNC_1
+PageUptodate,FUNC_2
+SetPageUptodate,FUNC_3
+__set_page_dirty_nobuffers,FUNC_4
+f2fs_set_page_private,FUNC_5
+f2fs_trace_pid,FUNC_6
+inc_page_count,FUNC_7
+trace_f2fs_set_page_dirty,FUNC_8
+f2fs_set_meta_page_dirty,FUNC_9
+page,VAR_2

@@ -1,0 +1,13 @@
+TCP_SERVER_HANDSHAKE_SIZE,VAR_0
+crypto_box_NONCEBYTES,VAR_1
+crypto_box_PUBLICKEYBYTES,VAR_2
+crypto_box_SECRETKEYBYTES,VAR_3
+decrypt_data_symmetric,FUNC_0
+encrypt_precompute,FUNC_1
+memcpy,FUNC_2
+sodium_memzero,FUNC_3
+handle_handshake,FUNC_4
+TCP_conn,VAR_4
+data,VAR_5
+plain,VAR_6
+len,VAR_7

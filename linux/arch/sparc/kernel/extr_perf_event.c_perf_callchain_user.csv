@@ -1,0 +1,17 @@
+TIF_32BIT,VAR_0
+current,VAR_1
+current_thread_info,FUNC_0
+flushw_user,FUNC_1
+get_thread_fault_code,FUNC_2
+pagefault_disable,FUNC_3
+pagefault_enable,FUNC_4
+perf_callchain_store,FUNC_5
+perf_callchain_user_32,FUNC_6
+perf_callchain_user_64,FUNC_7
+set_thread_fault_code,FUNC_8
+test_thread_flag,FUNC_9
+perf_callchain_user,FUNC_10
+entry,VAR_2
+regs,VAR_3
+saved_fault_address,VAR_4
+saved_fault_code,VAR_5

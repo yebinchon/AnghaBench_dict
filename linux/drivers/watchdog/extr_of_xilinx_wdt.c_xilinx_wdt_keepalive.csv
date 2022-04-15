@@ -1,0 +1,12 @@
+XWT_CSR0_WDS_MASK,VAR_0
+XWT_CSR0_WRS_MASK,VAR_1
+XWT_TWCSR0_OFFSET,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+watchdog_get_drvdata,FUNC_4
+xilinx_wdt_keepalive,FUNC_5
+wdd,VAR_3
+control_status_reg,VAR_4
+xdev,VAR_5

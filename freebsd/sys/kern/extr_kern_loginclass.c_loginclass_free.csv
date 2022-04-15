@@ -1,0 +1,12 @@
+LIST_REMOVE,FUNC_0
+M_LOGINCLASS,VAR_0
+free,FUNC_1
+lc_next,VAR_1
+loginclasses_lock,VAR_2
+racct_destroy,FUNC_2
+refcount_release,FUNC_3
+refcount_release_if_not_last,FUNC_4
+rw_wlock,FUNC_5
+rw_wunlock,FUNC_6
+loginclass_free,FUNC_7
+lc,VAR_3

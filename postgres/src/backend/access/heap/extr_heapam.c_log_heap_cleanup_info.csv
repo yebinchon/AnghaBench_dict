@@ -1,0 +1,11 @@
+RM_HEAP2_ID,VAR_0
+SizeOfHeapCleanupInfo,VAR_1
+XLOG_HEAP2_CLEANUP_INFO,VAR_2
+XLogBeginInsert,FUNC_0
+XLogInsert,FUNC_1
+XLogRegisterData,FUNC_2
+log_heap_cleanup_info,FUNC_3
+rnode,VAR_3
+latestRemovedXid,VAR_4
+xlrec,VAR_5
+recptr,VAR_6

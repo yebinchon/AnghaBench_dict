@@ -1,0 +1,17 @@
+ASSERT_COND,FUNC_0
+CC_NODE_F_OBJECT,FUNC_1
+NCSW_LIST_DelAndInit,FUNC_2
+NCSW_LIST_FIRST,FUNC_3
+NCSW_LIST_IsEmpty,FUNC_4
+NCSW_LIST_NEXT,FUNC_5
+XX_Free,FUNC_6
+XX_LockIntrSpinlock,FUNC_7
+XX_RestoreAllIntr,FUNC_8
+XX_UnlockIntrSpinlock,FUNC_9
+DequeueNodeInfoFromRelevantLst,FUNC_10
+p_List,VAR_0
+h_Info,VAR_1
+h_Spinlock,VAR_2
+p_CcInformation,VAR_3
+intFlags,VAR_4
+p_Pos,VAR_5

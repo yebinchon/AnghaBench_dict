@@ -1,0 +1,14 @@
+CBR_EXS_ABORT_OCC,VAR_0
+CBS_EXCEPTION,VAR_1
+CBS_IDLE,VAR_2
+EXCEPTION_RETRY_BITS,VAR_3
+EXCEPTION_RETRY_LIMIT,VAR_4
+gru_flush_cache,FUNC_0
+gru_get_cb_exception_detail,FUNC_1
+gru_get_cb_message_queue_substatus,FUNC_2
+gru_wait_idle_or_exception,FUNC_3
+gru_retry_exception,FUNC_4
+cb,VAR_5
+gen,VAR_6
+excdet,VAR_7
+retry,VAR_8

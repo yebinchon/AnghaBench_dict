@@ -1,0 +1,16 @@
+IPMI_BMC_CHANNEL,VAR_0
+IPMI_SYSTEM_INTERFACE_ADDR_TYPE,VAR_1
+IPMI_WDOG_RESET_TIMER,VAR_2
+WDOG_TIMEOUT_NONE,VAR_3
+atomic_add,FUNC_0
+atomic_sub,FUNC_1
+ipmi_request_supply_msgs,FUNC_2
+ipmi_watchdog_state,VAR_4
+panic_done_count,VAR_5
+panic_halt_heartbeat_recv_msg,VAR_6
+panic_halt_heartbeat_smi_msg,VAR_7
+watchdog_user,VAR_8
+panic_halt_ipmi_heartbeat,FUNC_3
+msg,VAR_9
+addr,VAR_10
+rv,VAR_11

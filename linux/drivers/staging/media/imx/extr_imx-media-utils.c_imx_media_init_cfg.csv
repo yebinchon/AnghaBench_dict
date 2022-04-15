@@ -1,0 +1,12 @@
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_0
+get_fmt,VAR_1
+memset,FUNC_0
+v4l2_subdev_call,FUNC_1
+v4l2_subdev_get_try_format,FUNC_2
+imx_media_init_cfg,FUNC_3
+sd,VAR_2
+cfg,VAR_3
+mf_try,VAR_4
+format,VAR_5
+pad,VAR_6
+ret,VAR_7

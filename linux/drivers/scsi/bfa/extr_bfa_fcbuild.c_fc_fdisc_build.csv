@@ -1,0 +1,16 @@
+FC_ELS_FDISC,VAR_0
+FC_FABRIC_PORT,VAR_1
+bfa_hton3b,FUNC_0
+cpu_to_be16,FUNC_1
+fc_els_req_build,FUNC_2
+memcpy,FUNC_3
+plogi_tmpl,VAR_2
+fc_fdisc_build,FUNC_4
+fchs,VAR_3
+flogi,VAR_4
+s_id,VAR_5
+ox_id,VAR_6
+port_name,VAR_7
+node_name,VAR_8
+pdu_size,VAR_9
+d_id,VAR_10

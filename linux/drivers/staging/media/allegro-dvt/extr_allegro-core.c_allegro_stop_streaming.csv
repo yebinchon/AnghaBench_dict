@@ -1,0 +1,17 @@
+ALLEGRO_STATE_STOPPED,VAR_0
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_1
+V4L2_TYPE_IS_OUTPUT,FUNC_0
+VB2_BUF_STATE_ERROR,VAR_2
+allegro_destroy_channel,FUNC_1
+allegro_set_state,FUNC_2
+debug,VAR_3
+v4l2_dbg,FUNC_3
+v4l2_m2m_buf_done,FUNC_4
+v4l2_m2m_dst_buf_remove,FUNC_5
+v4l2_m2m_src_buf_remove,FUNC_6
+vb2_get_drv_priv,FUNC_7
+allegro_stop_streaming,FUNC_8
+q,VAR_4
+channel,VAR_5
+dev,VAR_6
+buffer,VAR_7

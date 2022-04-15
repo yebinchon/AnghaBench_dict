@@ -1,0 +1,12 @@
+KVM_EXIT_EPR,VAR_0
+KVM_EXIT_WATCHDOG,VAR_1
+KVM_REQ_EPR_EXIT,VAR_2
+KVM_REQ_PENDING_TIMER,VAR_3
+KVM_REQ_TLB_FLUSH,VAR_4
+KVM_REQ_WATCHDOG,VAR_5
+kvm_check_request,FUNC_0
+kvmppc_core_flush_tlb,FUNC_1
+update_timer_ints,FUNC_2
+kvmppc_core_check_requests,FUNC_3
+vcpu,VAR_6
+r,VAR_7

@@ -1,0 +1,15 @@
+FWOHCI_DBCH_INIT,VAR_0
+FWXFERQ_EXTBUF,VAR_1
+M_FW,VAR_2
+STAILQ_FIRST,FUNC_0
+STAILQ_INIT,FUNC_1
+STAILQ_NEXT,FUNC_2
+bus_dmamap_destroy,FUNC_3
+free,FUNC_4
+fwdma_free_multiseg,FUNC_5
+fwdma_free_size,FUNC_6
+link,VAR_3
+fwohci_db_free,FUNC_7
+dbch,VAR_4
+db_tr,VAR_5
+idb,VAR_6

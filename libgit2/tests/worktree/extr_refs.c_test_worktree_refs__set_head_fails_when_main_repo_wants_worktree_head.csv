@@ -1,0 +1,9 @@
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+fixture,VAR_0
+git_reference_free,FUNC_2
+git_reference_name,FUNC_3
+git_repository_head,FUNC_4
+git_repository_set_head,FUNC_5
+test_worktree_refs__set_head_fails_when_main_repo_wants_worktree_head,FUNC_6
+head,VAR_1

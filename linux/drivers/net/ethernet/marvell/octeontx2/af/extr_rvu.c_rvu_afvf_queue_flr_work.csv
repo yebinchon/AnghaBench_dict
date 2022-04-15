@@ -1,0 +1,14 @@
+BIT_ULL,FUNC_0
+RVU_PF_VFFLR_INTX,FUNC_1
+RVU_PF_VFFLR_INT_ENA_W1CX,FUNC_2
+queue_work,FUNC_3
+rvupf_read64,FUNC_4
+rvupf_write64,FUNC_5
+rvu_afvf_queue_flr_work,FUNC_6
+rvu,VAR_0
+start_vf,VAR_1
+numvfs,VAR_2
+dev,VAR_3
+vf,VAR_4
+reg,VAR_5
+intr,VAR_6

@@ -1,0 +1,14 @@
+CVMX_CIU_QLM_JTGC,VAR_0
+CVMX_CLOCK_SCLK,VAR_1
+OCTEON_CN52XX,VAR_2
+OCTEON_CN63XX,VAR_3
+OCTEON_CN66XX,VAR_4
+OCTEON_CN68XX,VAR_5
+OCTEON_IS_MODEL,FUNC_0
+cvmx_clock_get_rate,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+cvmx_helper_qlm_jtag_init,FUNC_4
+jtgc,VAR_6
+clock_div,VAR_7
+divisor,VAR_8

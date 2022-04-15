@@ -1,0 +1,13 @@
+CI_HDRC_PMQOS,VAR_0
+ci_hdrc_remove_device,FUNC_0
+imx_disable_unprepare_clks,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_qos_remove_request,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+regulator_disable,FUNC_7
+usb_phy_shutdown,FUNC_8
+ci_hdrc_imx_remove,FUNC_9
+pdev,VAR_1
+data,VAR_2

@@ -1,0 +1,17 @@
+IRQ_LEVEL,VAR_0
+IRQ_TYPE_EDGE_FALLING,VAR_1
+IRQ_TYPE_LEVEL_HIGH,VAR_2
+IRQ_TYPE_LEVEL_LOW,VAR_3
+IRQ_TYPE_SENSE_MASK,VAR_4
+get_irq_desc,FUNC_0
+handle_edge_irq,VAR_5
+in_be32,FUNC_1
+irq_map,VAR_6
+out_be32,FUNC_2
+siu_reg,VAR_7
+mpc8xx_set_irq_type,FUNC_3
+virq,VAR_8
+flow_type,VAR_9
+desc,VAR_10
+hw,VAR_11
+siel,VAR_12

@@ -1,0 +1,11 @@
+TCA_GRED_VQ_DP,VAR_0
+TCA_GRED_VQ_FLAGS,VAR_1
+TCA_GRED_VQ_MAX,VAR_2
+gred_vq_policy,VAR_3
+nla_get_u32,FUNC_0
+nla_parse_nested_deprecated,FUNC_1
+gred_vq_apply,FUNC_2
+table,VAR_4
+entry,VAR_5
+tb,VAR_6
+dp,VAR_7

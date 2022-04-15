@@ -1,0 +1,10 @@
+JZ_REG_MMC_CLKRT,VAR_0
+clk_get_rate,FUNC_0
+clk_set_rate,FUNC_1
+jz4740_mmc_clock_disable,FUNC_2
+writew,FUNC_3
+jz4740_mmc_set_clock_rate,FUNC_4
+host,VAR_1
+rate,VAR_2
+div,VAR_3
+real_rate,VAR_4

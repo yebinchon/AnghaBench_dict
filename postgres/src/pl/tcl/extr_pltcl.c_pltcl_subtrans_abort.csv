@@ -1,0 +1,17 @@
+CopyErrorData,FUNC_0
+CurrentResourceOwner,VAR_0
+FlushErrorState,FUNC_1
+FreeErrorData,FUNC_2
+MemoryContextSwitchTo,FUNC_3
+RollbackAndReleaseCurrentSubTransaction,FUNC_4
+Tcl_NewStringObj,FUNC_5
+Tcl_SetObjResult,FUNC_6
+UTF_BEGIN,VAR_1
+UTF_E2U,FUNC_7
+UTF_END,VAR_2
+pltcl_construct_errorCode,FUNC_8
+pltcl_subtrans_abort,FUNC_9
+interp,VAR_3
+oldcontext,VAR_4
+oldowner,VAR_5
+edata,VAR_6

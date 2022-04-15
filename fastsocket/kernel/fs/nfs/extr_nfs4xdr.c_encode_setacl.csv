@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+FATTR4_WORD0_ACL,VAR_1
+NFS4_STATEID_SIZE,VAR_2
+OP_SETATTR,VAR_3
+cpu_to_be32,FUNC_0
+decode_setacl_maxsz,VAR_4
+reserve_space,FUNC_1
+xdr_encode_opaque_fixed,FUNC_2
+xdr_write_pages,FUNC_3
+zero_stateid,VAR_5
+encode_setacl,FUNC_4
+xdr,VAR_6
+arg,VAR_7
+hdr,VAR_8
+p,VAR_9

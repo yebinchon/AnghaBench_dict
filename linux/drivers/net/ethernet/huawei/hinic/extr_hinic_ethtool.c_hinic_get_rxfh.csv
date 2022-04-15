@@ -1,0 +1,17 @@
+EFAULT,VAR_0
+EOPNOTSUPP,VAR_1
+ETH_RSS_HASH_TOP,VAR_2
+ETH_RSS_HASH_XOR,VAR_3
+HINIC_RSS_ENABLE,VAR_4
+hinic_rss_get_hash_engine,FUNC_0
+hinic_rss_get_indir_tbl,FUNC_1
+hinic_rss_get_template_tbl,FUNC_2
+netdev_priv,FUNC_3
+hinic_get_rxfh,FUNC_4
+netdev,VAR_5
+indir,VAR_6
+key,VAR_7
+hfunc,VAR_8
+nic_dev,VAR_9
+hash_engine_type,VAR_10
+err,VAR_11

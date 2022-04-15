@@ -1,0 +1,12 @@
+ACPI_COMPANION,FUNC_0
+acpi_fwnode_handle,FUNC_1
+acpi_pci_find_companion,FUNC_2
+fwnode_property_read_u8,FUNC_3
+pci_dev_is_added,FUNC_4
+pci_find_pcie_root_port,FUNC_5
+acpi_pci_bridge_d3,FUNC_6
+dev,VAR_0
+fwnode,VAR_1
+adev,VAR_2
+root,VAR_3
+val,VAR_4

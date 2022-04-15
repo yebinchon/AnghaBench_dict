@@ -1,0 +1,12 @@
+UART_PUT_CHAR,FUNC_0
+UART_XMIT_SIZE,VAR_0
+WAKEUP_CHARS,VAR_1
+apbuart_stop_tx,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_tx_stopped,FUNC_4
+uart_write_wakeup,FUNC_5
+apbuart_tx_chars,FUNC_6
+port,VAR_2
+xmit,VAR_3
+count,VAR_4

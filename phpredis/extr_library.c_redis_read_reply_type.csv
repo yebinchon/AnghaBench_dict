@@ -1,0 +1,14 @@
+EOF,VAR_0
+REDIS_THROW_EXCEPTION,FUNC_0
+TYPE_BULK,VAR_1
+TYPE_INT,VAR_2
+TYPE_MULTIBULK,VAR_3
+atol,FUNC_1
+php_stream_getc,FUNC_2
+php_stream_gets,FUNC_3
+redis_check_eof,FUNC_4
+redis_read_reply_type,FUNC_5
+redis_sock,VAR_4
+reply_type,VAR_5
+reply_info,VAR_6
+inbuf,VAR_7

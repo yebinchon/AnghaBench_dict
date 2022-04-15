@@ -1,0 +1,14 @@
+MAC_ADDR_RAND_PNO,VAR_0
+MAC_ADDR_RAND_SCAN,VAR_1
+MAC_ADDR_RAND_SCHED_SCAN,VAR_2
+MSG_INFO,VAR_3
+wpa_printf,FUNC_0
+wpas_mac_addr_rand_scan_set,FUNC_1
+wpas_scan_restart_sched_scan,FUNC_2
+wpas_start_pno,FUNC_3
+wpas_stop_pno,FUNC_4
+wpas_enable_mac_addr_randomization,FUNC_5
+wpa_s,VAR_4
+type,VAR_5
+addr,VAR_6
+mask,VAR_7

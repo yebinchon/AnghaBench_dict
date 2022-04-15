@@ -1,0 +1,13 @@
+HZ,VAR_0
+IFX_SPI_POWER_DATA_PENDING,VAR_1
+IFX_SPI_STATE_TIMER_PENDING,VAR_2
+IFX_SPI_TIMEOUT_SEC,VAR_3
+gpio_get_value,FUNC_0
+ifx_spi_power_state_set,FUNC_1
+jiffies,VAR_4
+mod_timer,FUNC_2
+mrdy_set_high,FUNC_3
+test_and_set_bit,FUNC_4
+mrdy_assert,FUNC_5
+ifx_dev,VAR_5
+val,VAR_6

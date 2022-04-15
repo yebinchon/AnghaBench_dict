@@ -1,0 +1,15 @@
+GPIO_LOCK_DESTROY,FUNC_0
+GPIO_NUM_BANKS,VAR_0
+KASSERT,FUNC_1
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+device_get_softc,FUNC_4
+gpiobus_detach_bus,FUNC_5
+mtx_initialized,FUNC_6
+tegra_gpio_pic_detach,FUNC_7
+tegra_gpio_detach,FUNC_8
+dev,VAR_3
+sc,VAR_4
+i,VAR_5

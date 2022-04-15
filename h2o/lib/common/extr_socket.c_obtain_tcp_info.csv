@@ -1,0 +1,13 @@
+CALC_CWND_PAIR_FROM_BYTE_UNITS,FUNC_0
+FIONWRITE,VAR_0
+IPPROTO_TCP,VAR_1
+TCP_CONNECTION_INFO,VAR_2
+TCP_INFO,VAR_3
+getsockopt,FUNC_1
+ioctl,FUNC_2
+obtain_tcp_info,FUNC_3
+fd,VAR_4
+rtt,VAR_5
+mss,VAR_6
+cwnd_size,VAR_7
+cwnd_avail,VAR_8

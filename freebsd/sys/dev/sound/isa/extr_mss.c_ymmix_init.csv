@@ -1,0 +1,16 @@
+OPL3SAx_VOLUMEL,VAR_0
+OPL3SAx_VOLUMER,VAR_1
+SOUND_MASK_BASS,VAR_2
+SOUND_MASK_MIC,VAR_3
+SOUND_MASK_TREBLE,VAR_4
+SOUND_MASK_VOLUME,VAR_5
+conf_wr,FUNC_0
+mix_getdevinfo,FUNC_1
+mix_getdevs,FUNC_2
+mix_setdevs,FUNC_3
+mss_lock,FUNC_4
+mss_unlock,FUNC_5
+mssmix_init,FUNC_6
+ymmix_init,FUNC_7
+m,VAR_6
+mss,VAR_7

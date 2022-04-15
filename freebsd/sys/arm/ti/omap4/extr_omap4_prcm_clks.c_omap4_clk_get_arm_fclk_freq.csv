@@ -1,0 +1,15 @@
+CM1_INSTANCE,VAR_0
+CM_CLKSEL_DPLL_MPU,VAR_1
+ENXIO,VAR_2
+bus_read_4,FUNC_0
+omap4_clk_get_sysclk_freq,FUNC_1
+omap4_prcm_get_instance_softc,FUNC_2
+omap4_clk_get_arm_fclk_freq,FUNC_3
+clkdev,VAR_3
+freq,VAR_4
+clksel,VAR_5
+pll_mult,VAR_6
+pll_div,VAR_7
+mpuclk,VAR_8
+sysclk,VAR_9
+sc,VAR_10

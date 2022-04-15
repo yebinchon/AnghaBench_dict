@@ -1,0 +1,13 @@
+MPEG2_START_EXTENSION,VAR_0
+MPEG2_START_PICTURE,VAR_1
+ff_cbs_fragment_reset,FUNC_0
+vaapi_encode_mpeg2_add_header,FUNC_1
+vaapi_encode_mpeg2_write_fragment,FUNC_2
+vaapi_encode_mpeg2_write_picture_header,FUNC_3
+avctx,VAR_2
+pic,VAR_3
+data,VAR_4
+data_len,VAR_5
+priv,VAR_6
+frag,VAR_7
+err,VAR_8

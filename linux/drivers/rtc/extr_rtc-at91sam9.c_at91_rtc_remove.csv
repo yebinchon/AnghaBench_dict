@@ -1,0 +1,11 @@
+AT91_RTT_ALMIEN,VAR_0
+AT91_RTT_RTTINCIEN,VAR_1
+MR,VAR_2
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+rtt_readl,FUNC_2
+rtt_writel,FUNC_3
+at91_rtc_remove,FUNC_4
+pdev,VAR_3
+rtc,VAR_4
+mr,VAR_5

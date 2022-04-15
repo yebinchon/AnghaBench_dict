@@ -1,0 +1,8 @@
+C_CAN_MSG_OBJ_RX_FIRST,VAR_0
+C_CAN_MSG_RX_LOW_LAST,VAR_1
+IF_COMM_CLR_NEWDAT,VAR_2
+c_can_object_get,FUNC_0
+c_can_activate_all_lower_rx_msg_obj,FUNC_1
+dev,VAR_3
+iface,VAR_4
+i,VAR_5

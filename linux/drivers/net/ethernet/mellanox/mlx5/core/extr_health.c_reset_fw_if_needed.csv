@@ -1,0 +1,13 @@
+MLX5_FW_RESET_SUPPORTED_OFFSET,VAR_0
+MLX5_NIC_IFC_SW_RESET,VAR_1
+MLX5_SENSOR_NIC_DISABLED,VAR_2
+MLX5_SENSOR_NIC_SW_RESET,VAR_3
+MLX5_SENSOR_PCI_COMM_ERR,VAR_4
+check_fatal_sensors,FUNC_0
+ioread32be,FUNC_1
+mlx5_core_warn,FUNC_2
+mlx5_set_nic_state,FUNC_3
+reset_fw_if_needed,FUNC_4
+dev,VAR_5
+supported,VAR_6
+fatal_error,VAR_7

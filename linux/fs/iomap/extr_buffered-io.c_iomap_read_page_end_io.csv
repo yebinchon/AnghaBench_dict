@@ -1,0 +1,11 @@
+ClearPageUptodate,FUNC_0
+SetPageError,FUNC_1
+iomap_read_finish,FUNC_2
+iomap_set_range_uptodate,FUNC_3
+to_iomap_page,FUNC_4
+unlikely,FUNC_5
+iomap_read_page_end_io,FUNC_6
+bvec,VAR_0
+error,VAR_1
+page,VAR_2
+iop,VAR_3

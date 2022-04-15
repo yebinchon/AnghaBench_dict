@@ -1,0 +1,15 @@
+Filter,VAR_0
+Height,VAR_1
+Image,VAR_2
+PDF_NAME,FUNC_0
+Subtype,VAR_3
+Type,VAR_4
+Width,VAR_5
+XObject,VAR_6
+filter_implies_image,FUNC_1
+pdf_dict_get,FUNC_2
+pdf_name_eq,FUNC_3
+is_image_stream,FUNC_4
+ctx,VAR_7
+obj,VAR_8
+o,VAR_9

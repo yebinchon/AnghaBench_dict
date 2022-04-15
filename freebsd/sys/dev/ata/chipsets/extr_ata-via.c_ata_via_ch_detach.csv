@@ -1,0 +1,15 @@
+ATA_CONTROL,VAR_0
+ENXIO,VAR_1
+PCIR_BAR,FUNC_0
+SYS_RES_IOPORT,VAR_2
+VIABAR,VAR_3
+ata_pci_ch_detach,FUNC_1
+ata_pci_dmafini,FUNC_2
+bus_release_resource,FUNC_3
+device_get_parent,FUNC_4
+device_get_softc,FUNC_5
+ata_via_ch_detach,FUNC_6
+dev,VAR_4
+ctlr,VAR_5
+ch,VAR_6
+rid,VAR_7

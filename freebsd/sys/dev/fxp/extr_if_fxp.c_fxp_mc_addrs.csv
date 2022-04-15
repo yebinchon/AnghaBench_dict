@@ -1,0 +1,12 @@
+ETHER_ADDR_LEN,VAR_0
+IFF_ALLMULTI,VAR_1
+MAXMCADDR,VAR_2
+fxp_setup_maddr,VAR_3
+htole16,FUNC_0
+if_foreach_llmaddr,FUNC_1
+if_getflags,FUNC_2
+if_setflagbits,FUNC_3
+fxp_mc_addrs,FUNC_4
+sc,VAR_4
+mcsp,VAR_5
+ifp,VAR_6

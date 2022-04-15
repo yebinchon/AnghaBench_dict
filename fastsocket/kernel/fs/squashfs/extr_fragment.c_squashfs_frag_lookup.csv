@@ -1,0 +1,15 @@
+SQUASHFS_FRAGMENT_INDEX,FUNC_0
+SQUASHFS_FRAGMENT_INDEX_OFFSET,FUNC_1
+le32_to_cpu,FUNC_2
+le64_to_cpu,FUNC_3
+squashfs_read_metadata,FUNC_4
+squashfs_frag_lookup,FUNC_5
+sb,VAR_0
+fragment,VAR_1
+fragment_block,VAR_2
+msblk,VAR_3
+block,VAR_4
+offset,VAR_5
+start_block,VAR_6
+fragment_entry,VAR_7
+size,VAR_8

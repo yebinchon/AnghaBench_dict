@@ -1,0 +1,5 @@
+DS2482_CMD_SET_READ_PTR,VAR_0
+i2c_smbus_write_byte_data,FUNC_0
+ds2482_select_register,FUNC_1
+pdev,VAR_1
+read_ptr,VAR_2

@@ -1,0 +1,12 @@
+INIT_WORK,FUNC_0
+IRQF_SHARED,VAR_0
+IRQ_TYPE_EDGE_BOTH,VAR_1
+devm_request_irq,FUNC_1
+fan_alarm_irq_handler,VAR_2
+fan_alarm_notify,VAR_3
+gpiod_to_irq,FUNC_2
+irq_set_irq_type,FUNC_3
+fan_alarm_init,FUNC_4
+fan_data,VAR_4
+alarm_irq,VAR_5
+dev,VAR_6

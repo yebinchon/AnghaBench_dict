@@ -1,0 +1,16 @@
+TSDB_CODE_DB_NOT_SELECTED,VAR_0
+TSDB_CODE_NO_RIGHTS,VAR_1
+TSDB_MSG_TYPE_CREATE_TABLE_RSP,VAR_2
+htons,FUNC_0
+mTrace,FUNC_1
+mgmtCheckRedirectMsg,FUNC_2
+mgmtCreateMeter,FUNC_3
+taosSendSimpleRsp,FUNC_4
+mgmtProcessCreateTableMsg,FUNC_5
+pMsg,VAR_3
+msgLen,VAR_4
+pConn,VAR_5
+pCreate,VAR_6
+code,VAR_7
+pSchema,VAR_8
+i,VAR_9

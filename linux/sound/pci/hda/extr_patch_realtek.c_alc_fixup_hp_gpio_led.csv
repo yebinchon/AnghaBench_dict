@@ -1,0 +1,11 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+alc_fixup_gpio,FUNC_0
+alc_fixup_gpio_mute_hook,VAR_1
+alc_gpio_micmute_update,VAR_2
+snd_hda_gen_add_micmute_led,FUNC_1
+alc_fixup_hp_gpio_led,FUNC_2
+codec,VAR_3
+action,VAR_4
+mute_mask,VAR_5
+micmute_mask,VAR_6
+spec,VAR_7

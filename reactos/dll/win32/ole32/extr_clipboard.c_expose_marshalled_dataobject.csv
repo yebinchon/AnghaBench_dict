@@ -1,0 +1,16 @@
+CLIPBRD_E_CANT_SET,VAR_0
+E_OUTOFMEMORY,VAR_1
+GMEM_DDESHARE,VAR_2
+GMEM_MOVEABLE,VAR_3
+GetHGlobalFromStream,FUNC_0
+GlobalAlloc,FUNC_1
+GlobalFree,FUNC_2
+S_OK,VAR_4
+SetClipboardData,FUNC_3
+dup_global_mem,FUNC_4
+wine_marshal_clipboard_format,VAR_5
+expose_marshalled_dataobject,FUNC_5
+clipbrd,VAR_6
+data,VAR_7
+h,VAR_8
+h_stm,VAR_9

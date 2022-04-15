@@ -1,0 +1,10 @@
+EMSGSIZE,VAR_0
+LWT_BPF_PROG_NAME,VAR_1
+nla_nest_end,FUNC_0
+nla_nest_start_noflag,FUNC_1
+nla_put_string,FUNC_2
+bpf_fill_lwt_prog,FUNC_3
+skb,VAR_2
+attr,VAR_3
+prog,VAR_4
+nest,VAR_5

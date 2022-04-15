@@ -1,0 +1,9 @@
+H2O_HTTP3_CHECK_SUCCESS,FUNC_0
+assert,FUNC_1
+h2o_buffer_append,FUNC_2
+quicly_stream_sync_sendbuf,FUNC_3
+h2o_http3_send_qpack_header_ack,FUNC_4
+conn,VAR_0
+bytes,VAR_1
+len,VAR_2
+stream,VAR_3

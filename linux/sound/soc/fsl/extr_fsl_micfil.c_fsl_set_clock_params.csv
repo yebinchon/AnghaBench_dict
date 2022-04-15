@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+MICFIL_CTRL2_CICOSR_MASK,VAR_1
+MICFIL_CTRL2_CLKDIV_MASK,VAR_2
+MICFIL_CTRL2_OSR_DEFAULT,VAR_3
+REG_MICFIL_CTRL2,VAR_4
+clk_get_rate,FUNC_0
+dev_err,FUNC_1
+dev_get_drvdata,FUNC_2
+fsl_micfil_set_mclk_rate,FUNC_3
+get_clk_div,FUNC_4
+regmap_update_bits,FUNC_5
+fsl_set_clock_params,FUNC_6
+dev,VAR_5
+rate,VAR_6
+micfil,VAR_7
+clk_div,VAR_8
+ret,VAR_9

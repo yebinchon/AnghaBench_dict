@@ -1,0 +1,15 @@
+GetProcessHeap,FUNC_0
+HeapAlloc,FUNC_1
+IStorage_OpenStream,FUNC_2
+IStream_Read,FUNC_3
+IStream_Release,FUNC_4
+OLESTREAM_ID,VAR_0
+STGM_READ,VAR_1
+STGM_SHARE_EXCLUSIVE,VAR_2
+S_OK,VAR_3
+OLECONVERT_GetOle10PresData,FUNC_5
+pStorage,VAR_4
+pOleStreamData,VAR_5
+hRes,VAR_6
+pStream,VAR_7
+wstrStreamName,VAR_8

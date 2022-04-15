@@ -1,0 +1,12 @@
+BLE_HCI_CMD_HDR_LEN,VAR_0
+BLE_HCI_UART_H4_CMD,VAR_1
+BLE_HS_EAGAIN,VAR_2
+ESP_LOGE,FUNC_0
+TAG,VAR_3
+assert,FUNC_1
+ble_hci_trans_buf_free,FUNC_2
+esp_vhci_host_check_send_available,FUNC_3
+esp_vhci_host_send_packet,FUNC_4
+ble_hci_trans_hs_cmd_tx,FUNC_5
+cmd,VAR_4
+len,VAR_5

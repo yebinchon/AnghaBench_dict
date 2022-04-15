@@ -1,0 +1,13 @@
+BNX2I_NX2_DEV_57710,VAR_0
+CNIC_SEND_DOORBELL,VAR_1
+atomic_inc,FUNC_0
+bnx2i_ring_577xx_doorbell,FUNC_1
+mmiowb,FUNC_2
+test_bit,FUNC_3
+wmb,FUNC_4
+writew,FUNC_5
+bnx2i_ring_sq_dbell,FUNC_6
+bnx2i_conn,VAR_2
+count,VAR_3
+sq_db,VAR_4
+ep,VAR_5

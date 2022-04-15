@@ -1,0 +1,14 @@
+AUX_VIEW,VAR_0
+MAX_CHANNELS,VAR_1
+assert,FUNC_0
+obs_source_activate,FUNC_1
+obs_source_addref,FUNC_2
+obs_source_deactivate,FUNC_3
+obs_source_release,FUNC_4
+pthread_mutex_lock,FUNC_5
+pthread_mutex_unlock,FUNC_6
+obs_view_set_source,FUNC_7
+view,VAR_2
+channel,VAR_3
+source,VAR_4
+prev_source,VAR_5

@@ -1,0 +1,17 @@
+NFS_ODIRECT_RESCHED_WRITES,VAR_0
+atomic_dec_and_test,FUNC_0
+list_empty,FUNC_1
+nfs_direct_cmp_commit_data_verf,FUNC_2
+nfs_direct_write_complete,FUNC_3
+nfs_init_cinfo_from_dreq,FUNC_4
+nfs_list_entry,FUNC_5
+nfs_list_remove_request,FUNC_6
+nfs_mark_request_commit,FUNC_7
+nfs_release_request,FUNC_8
+nfs_unlock_and_release_request,FUNC_9
+nfs_direct_commit_complete,FUNC_10
+data,VAR_1
+dreq,VAR_2
+cinfo,VAR_3
+req,VAR_4
+status,VAR_5

@@ -1,0 +1,16 @@
+FW_PORT_DCB_CFG_SUCCESS,VAR_0
+FW_PORT_DCB_TYPE_PGRATE,VAR_1
+INIT_PORT_DCB_READ_LOCAL_CMD,FUNC_0
+INIT_PORT_DCB_READ_PEER_CMD,FUNC_1
+dev_err,FUNC_2
+netdev2pinfo,FUNC_3
+t4_wr_mbox,FUNC_4
+cxgb4_getpgbwgcfg,FUNC_5
+dev,VAR_2
+pgid,VAR_3
+bw_per,VAR_4
+local,VAR_5
+pcmd,VAR_6
+pi,VAR_7
+adap,VAR_8
+err,VAR_9

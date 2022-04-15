@@ -1,0 +1,16 @@
+ETH_ALEN,VAR_0
+OID_802_11_REMOVE_KEY,VAR_1
+OID_802_11_REMOVE_WEP,VAR_2
+ndis_set_oid,FUNC_0
+os_memcpy,FUNC_1
+os_memset,FUNC_2
+wpa_driver_ndis_remove_key,FUNC_3
+drv,VAR_3
+key_idx,VAR_4
+addr,VAR_5
+bssid,VAR_6
+pairwise,VAR_7
+rkey,VAR_8
+index,VAR_9
+res,VAR_10
+res2,VAR_11

@@ -1,0 +1,11 @@
+HC_LAINT_ENA,VAR_0
+LPFC_PROCESS_LA,VAR_1
+LPFC_SLI_REV3,VAR_2
+readl,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+writel,FUNC_3
+lpfc_enable_la,FUNC_4
+phba,VAR_3
+control,VAR_4
+psli,VAR_5

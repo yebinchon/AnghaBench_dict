@@ -1,0 +1,13 @@
+I2C_PROTOCOL_SMBUS_ALERT,VAR_0
+LM90_HAVE_BROKEN_ALERT,VAR_1
+dev_dbg,FUNC_0
+dev_info,FUNC_1
+i2c_get_clientdata,FUNC_2
+lm90_is_tripped,FUNC_3
+lm90_update_confreg,FUNC_4
+lm90_alert,FUNC_5
+client,VAR_2
+type,VAR_3
+flag,VAR_4
+alarms,VAR_5
+data,VAR_6

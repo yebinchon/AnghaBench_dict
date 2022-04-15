@@ -1,0 +1,12 @@
+au1000_setup_dma_link,FUNC_0
+params_buffer_bytes,FUNC_1
+params_period_bytes,FUNC_2
+params_periods,FUNC_3
+snd_pcm_lib_free_pages,FUNC_4
+snd_pcm_lib_malloc_pages,FUNC_5
+ss_to_as,FUNC_6
+alchemy_pcm_hw_params,FUNC_7
+substream,VAR_0
+hw_params,VAR_1
+stream,VAR_2
+err,VAR_3

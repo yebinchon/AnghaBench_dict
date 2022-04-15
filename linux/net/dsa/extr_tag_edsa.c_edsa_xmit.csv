@@ -1,0 +1,15 @@
+DSA_HLEN,VAR_0
+EDSA_HLEN,VAR_1
+ETH_ALEN,VAR_2
+ETH_P_8021Q,VAR_3
+ETH_P_EDSA,VAR_4
+dsa_slave_to_port,FUNC_0
+htons,FUNC_1
+memmove,FUNC_2
+skb_cow_head,FUNC_3
+skb_push,FUNC_4
+edsa_xmit,FUNC_5
+skb,VAR_5
+dev,VAR_6
+dp,VAR_7
+edsa_header,VAR_8

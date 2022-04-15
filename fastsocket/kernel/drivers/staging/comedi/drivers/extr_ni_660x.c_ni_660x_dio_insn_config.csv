@@ -1,0 +1,16 @@
+COMEDI_INPUT,VAR_0
+COMEDI_OUTPUT,VAR_1
+CR_CHAN,FUNC_0
+EINVAL,VAR_2
+ni660x_config_filter,FUNC_1
+ni_660x_get_pfi_routing,FUNC_2
+ni_660x_select_pfi_output,FUNC_3
+ni_660x_set_pfi_routing,FUNC_4
+pfi_output_select_high_Z,VAR_3
+private,FUNC_5
+ni_660x_dio_insn_config,FUNC_6
+dev,VAR_4
+s,VAR_5
+insn,VAR_6
+data,VAR_7
+chan,VAR_8

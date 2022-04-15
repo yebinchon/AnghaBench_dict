@@ -1,0 +1,17 @@
+EPOLLIN,VAR_0
+EPOLL_CLOEXEC,VAR_1
+EPOLL_CTL_ADD,VAR_2
+MAX_EVENTS,VAR_3
+close,FUNC_0
+epoll_create1,FUNC_1
+epoll_ctl,FUNC_2
+epoll_wait,FUNC_3
+errno,VAR_4
+ksft_exit_fail_msg,FUNC_4
+poll_pidfd,FUNC_5
+test_name,VAR_5
+pidfd,VAR_6
+c,VAR_7
+epoll_fd,VAR_8
+event,VAR_9
+events,VAR_10

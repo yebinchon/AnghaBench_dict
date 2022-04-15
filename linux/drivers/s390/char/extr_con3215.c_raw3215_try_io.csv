@@ -1,0 +1,11 @@
+RAW3215_FLUSHING,VAR_0
+RAW3215_TIMEOUT,VAR_1
+RAW3215_TIMER_RUNS,VAR_2
+RAW3215_WORKING,VAR_3
+add_timer,FUNC_0
+jiffies,VAR_4
+raw3215_start_io,FUNC_1
+tty_port_initialized,FUNC_2
+tty_port_suspended,FUNC_3
+raw3215_try_io,FUNC_4
+raw,VAR_5

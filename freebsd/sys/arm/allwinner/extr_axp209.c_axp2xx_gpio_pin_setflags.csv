@@ -1,0 +1,17 @@
+AXP2XX_GPIO_FUNC_INPUT,VAR_0
+AXP2XX_GPIO_FUNC_MASK,VAR_1
+AXP_LOCK,FUNC_0
+AXP_UNLOCK,FUNC_1
+EINVAL,VAR_2
+GPIO_PIN_INPUT,VAR_3
+GPIO_PIN_OUTPUT,VAR_4
+axp2xx_read,FUNC_2
+axp2xx_write,FUNC_3
+device_get_softc,FUNC_4
+axp2xx_gpio_pin_setflags,FUNC_5
+dev,VAR_5
+pin,VAR_6
+flags,VAR_7
+sc,VAR_8
+data,VAR_9
+error,VAR_10

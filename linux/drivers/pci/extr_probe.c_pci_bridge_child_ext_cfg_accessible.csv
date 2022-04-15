@@ -1,0 +1,16 @@
+PCI_BUS_FLAGS_NO_EXTCFG,VAR_0
+PCI_CAP_ID_PCIX,VAR_1
+PCI_EXP_TYPE_DOWNSTREAM,VAR_2
+PCI_EXP_TYPE_ROOT_PORT,VAR_3
+PCI_EXP_TYPE_UPSTREAM,VAR_4
+PCI_X_STATUS,VAR_5
+PCI_X_STATUS_266MHZ,VAR_6
+PCI_X_STATUS_533MHZ,VAR_7
+pci_find_capability,FUNC_0
+pci_is_pcie,FUNC_1
+pci_pcie_type,FUNC_2
+pci_read_config_dword,FUNC_3
+pci_bridge_child_ext_cfg_accessible,FUNC_4
+bridge,VAR_8
+pos,VAR_9
+status,VAR_10

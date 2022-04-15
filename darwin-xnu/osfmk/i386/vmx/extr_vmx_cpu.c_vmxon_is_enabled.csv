@@ -1,0 +1,5 @@
+MSR_IA32_FEATCTL_VMXON,VAR_0
+MSR_IA32_FEATURE_CONTROL,VAR_1
+rdmsr64,FUNC_0
+vmx_is_available,FUNC_1
+vmxon_is_enabled,FUNC_2

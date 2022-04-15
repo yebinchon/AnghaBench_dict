@@ -1,0 +1,8 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+alc_fixup_hp_gpio_led,FUNC_0
+gpio_led_power_filter,VAR_1
+alc662_fixup_led_gpio1,FUNC_1
+codec,VAR_2
+fix,VAR_3
+action,VAR_4
+spec,VAR_5

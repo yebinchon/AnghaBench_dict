@@ -1,0 +1,17 @@
+ASID_FIRST_AVAILABLE,VAR_0
+COOKIE_FROM,FUNC_0
+COOKIE_TO_EPOCH,FUNC_1
+KASSERT,FUNC_2
+asid_epoch,VAR_1
+asid_next,VAR_2
+asid_set,VAR_3
+asid_set_mutex,VAR_4
+asid_set_size,VAR_5
+bit_ffc_at,FUNC_3
+bit_set,FUNC_4
+mtx_lock_spin,FUNC_5
+mtx_unlock_spin,FUNC_6
+pmap_reset_asid_set,FUNC_7
+pmap_alloc_asid,FUNC_8
+pmap,VAR_6
+new_asid,VAR_7

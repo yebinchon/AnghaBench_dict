@@ -1,0 +1,15 @@
+EBADF,VAR_0
+EINVAL,VAR_1
+FMODE_READ,VAR_2
+POSIX_FADV_WILLNEED,VAR_3
+S_ISREG,FUNC_0
+fdget,FUNC_1
+fdput,FUNC_2
+file_inode,FUNC_3
+vfs_fadvise,FUNC_4
+ksys_readahead,FUNC_5
+fd,VAR_4
+offset,VAR_5
+count,VAR_6
+ret,VAR_7
+f,VAR_8

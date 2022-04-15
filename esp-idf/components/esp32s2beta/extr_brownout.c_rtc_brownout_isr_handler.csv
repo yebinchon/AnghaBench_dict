@@ -1,0 +1,9 @@
+REG_WRITE,FUNC_0
+RTC_CNTL_BROWN_OUT_INT_CLR,VAR_0
+RTC_CNTL_INT_CLR_REG,VAR_1
+esp_cpu_stall,FUNC_1
+esp_restart_noos,FUNC_2
+ets_printf,FUNC_3
+xPortGetCoreID,FUNC_4
+rtc_brownout_isr_handler,FUNC_5
+arg,VAR_2

@@ -1,0 +1,11 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+device_set_desc_copy,FUNC_0
+pci_get_devid,FUNC_1
+siis_ids,VAR_2
+snprintf,FUNC_2
+siis_probe,FUNC_3
+dev,VAR_3
+buf,VAR_4
+i,VAR_5
+devid,VAR_6

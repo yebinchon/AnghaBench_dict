@@ -1,0 +1,17 @@
+DATA_TRAN_DONE,VAR_0
+EILSEQ,VAR_1
+ETIMEDOUT,VAR_2
+MMC_DATA_READ,VAR_3
+STAT_CRC_READ_ERROR,VAR_4
+STAT_CRC_WRITE_ERROR,VAR_5
+STAT_READ_TIME_OUT,VAR_6
+dma_unmap_sg,FUNC_0
+pxamci_disable_irq,FUNC_1
+pxamci_finish_request,FUNC_2
+pxamci_start_cmd,FUNC_3
+pxamci_stop_clock,FUNC_4
+pxamci_data_done,FUNC_5
+host,VAR_7
+stat,VAR_8
+data,VAR_9
+chan,VAR_10

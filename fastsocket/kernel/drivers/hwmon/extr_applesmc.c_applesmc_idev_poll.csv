@@ -1,0 +1,17 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+SENSOR_X,VAR_2
+SENSOR_Y,VAR_3
+applesmc_lock,VAR_4
+applesmc_read_motion_sensor,FUNC_0
+input_report_abs,FUNC_1
+input_sync,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+rest_x,VAR_5
+rest_y,VAR_6
+applesmc_idev_poll,FUNC_5
+dev,VAR_7
+idev,VAR_8
+x,VAR_9
+y,VAR_10

@@ -1,0 +1,17 @@
+BIT_ULL,FUNC_0
+CN23XX_SLI_OQ_PKTS_SENT,FUNC_1
+CN23XX_SLI_OQ_PKT_INT_LEVELS,FUNC_2
+MAX_OCTEON_OUTPUT_QUEUES,FUNC_3
+MAX_PACKET_BUDGET,VAR_0
+OCTEON_CN23XX_PF,FUNC_4
+lio_enable_irq,FUNC_5
+octeon_droq_process_packets,FUNC_6
+octeon_write_csr64,FUNC_7
+tasklet_schedule,FUNC_8
+octeon_droq_bh,FUNC_9
+pdev,VAR_1
+q_no,VAR_2
+reschedule,VAR_3
+oct,VAR_4
+oct_priv,VAR_5
+adjusted_q_no,VAR_6

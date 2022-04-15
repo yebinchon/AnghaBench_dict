@@ -1,0 +1,17 @@
+BACKLIGHT_PLATFORM,VAR_0
+DRIVER_NAME,VAR_1
+FB_BLANK_UNBLANK,VAR_2
+IS_ERR,FUNC_0
+OT_EC_BL_BRIGHTNESS_MAX,VAR_3
+PTR_ERR,FUNC_1
+backlight_device_register,FUNC_2
+backlight_update_status,FUNC_3
+get_backlight_brightness,FUNC_4
+memset,FUNC_5
+oaktrail_bl_device,VAR_4
+oaktrail_bl_ops,VAR_5
+oaktrail_device,VAR_6
+pr_warning,FUNC_6
+oaktrail_backlight_init,FUNC_7
+bd,VAR_7
+props,VAR_8

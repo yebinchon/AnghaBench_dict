@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOTSUPP,VAR_1
+__bpf_skb_max_len,FUNC_0
+__bpf_skb_min_len,FUNC_1
+__bpf_try_make_writable,FUNC_2
+bpf_skb_grow_rcsum,FUNC_3
+bpf_skb_trim_rcsum,FUNC_4
+skb_gso_reset,FUNC_5
+skb_is_gso,FUNC_6
+unlikely,FUNC_7
+__bpf_skb_change_tail,FUNC_8
+skb,VAR_2
+new_len,VAR_3
+flags,VAR_4
+max_len,VAR_5
+min_len,VAR_6
+ret,VAR_7

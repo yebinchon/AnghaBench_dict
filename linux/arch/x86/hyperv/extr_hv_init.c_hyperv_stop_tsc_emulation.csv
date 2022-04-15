@@ -1,0 +1,9 @@
+HV_X64_MSR_TSC_EMULATION_STATUS,VAR_0
+HV_X64_MSR_TSC_FREQUENCY,VAR_1
+div64_u64,FUNC_0
+rdmsrl,FUNC_1
+tsc_khz,VAR_2
+wrmsrl,FUNC_2
+hyperv_stop_tsc_emulation,FUNC_3
+freq,VAR_3
+emu_status,VAR_4

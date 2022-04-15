@@ -1,0 +1,14 @@
+E1000_MNG_DHCP_COOKIE_STATUS_VLAN_SUPPORT,VAR_0
+E1000_MNG_VLAN_NONE,VAR_1
+ETH_P_8021Q,VAR_2
+e1000_vlan_rx_add_vid,FUNC_0
+e1000_vlan_rx_kill_vid,FUNC_1
+e1000_vlan_used,FUNC_2
+htons,FUNC_3
+test_bit,FUNC_4
+e1000_update_mng_vlan,FUNC_5
+adapter,VAR_3
+hw,VAR_4
+netdev,VAR_5
+vid,VAR_6
+old_vid,VAR_7

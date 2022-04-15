@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+ENOBUFS,VAR_1
+GFP_KERNEL,VAR_2
+RTNLGRP_DECnet_IFADDR,VAR_3
+WARN_ON,FUNC_0
+alloc_skb,FUNC_1
+dn_ifaddr_nlmsg_size,FUNC_2
+dn_nl_fill_ifaddr,FUNC_3
+init_net,VAR_4
+kfree_skb,FUNC_4
+rtnl_notify,FUNC_5
+rtnl_set_sk_err,FUNC_6
+dn_ifaddr_notify,FUNC_7
+event,VAR_5
+ifa,VAR_6
+skb,VAR_7
+err,VAR_8

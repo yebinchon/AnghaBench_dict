@@ -1,0 +1,16 @@
+CG_GrappleTrail,FUNC_0
+RF_NOSHADOW,VAR_0
+VectorCopy,FUNC_1
+VectorNormalize2,FUNC_2
+WP_NUM_WEAPONS,VAR_1
+cg,VAR_2
+cg_weapons,VAR_3
+memset,FUNC_3
+trap_R_AddRefEntityToScene,FUNC_4
+trap_S_AddLoopingSound,FUNC_5
+vec3_origin,VAR_4
+CG_Grapple,FUNC_6
+cent,VAR_5
+ent,VAR_6
+s1,VAR_7
+weapon,VAR_8

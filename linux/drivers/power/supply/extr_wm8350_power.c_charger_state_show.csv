@@ -1,0 +1,12 @@
+WM8350_BATTERY_CHARGER_CONTROL_2,VAR_0
+WM8350_CHG_STS_MASK,VAR_1
+dev_get_drvdata,FUNC_0
+sprintf,FUNC_1
+wm8350_reg_read,FUNC_2
+charger_state_show,FUNC_3
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+wm8350,VAR_5
+charge,VAR_6
+state,VAR_7

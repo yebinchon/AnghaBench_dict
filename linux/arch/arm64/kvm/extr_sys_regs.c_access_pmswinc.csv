@@ -1,0 +1,11 @@
+kvm_arm_pmu_v3_ready,FUNC_0
+kvm_pmu_software_increment,FUNC_1
+kvm_pmu_valid_counter_mask,FUNC_2
+pmu_write_swinc_el0_disabled,FUNC_3
+read_from_write_only,FUNC_4
+trap_raz_wi,FUNC_5
+access_pmswinc,FUNC_6
+vcpu,VAR_0
+p,VAR_1
+r,VAR_2
+mask,VAR_3

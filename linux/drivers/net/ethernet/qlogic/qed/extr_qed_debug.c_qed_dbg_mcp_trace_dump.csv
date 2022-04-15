@@ -1,0 +1,15 @@
+DBG_STATUS_DUMP_BUF_TOO_SMALL,VAR_0
+DBG_STATUS_NVRAM_GET_IMAGE_FAILED,VAR_1
+DBG_STATUS_OK,VAR_2
+qed_dbg_grc_set_params_default,FUNC_0
+qed_dbg_mcp_trace_get_dump_buf_size,FUNC_1
+qed_mcp_trace_dump,FUNC_2
+qed_update_blocks_reset_state,FUNC_3
+qed_dbg_mcp_trace_dump,FUNC_4
+p_hwfn,VAR_3
+p_ptt,VAR_4
+dump_buf,VAR_5
+buf_size_in_dwords,VAR_6
+num_dumped_dwords,VAR_7
+needed_buf_size_in_dwords,VAR_8
+status,VAR_9

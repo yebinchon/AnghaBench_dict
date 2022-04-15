@@ -1,0 +1,17 @@
+CONFLICTS_ONE_ANCESTOR_OID,VAR_0
+CONFLICTS_ONE_OUR_OID,VAR_1
+CONFLICTS_ONE_THEIR_OID,VAR_2
+GIT_INDEX_ENTRY_STAGE_SET,FUNC_0
+cl_assert,FUNC_1
+cl_git_fail,FUNC_2
+git_index_conflict_add,FUNC_3
+git_index_entrycount,FUNC_4
+git_oid_fromstr,FUNC_5
+memset,FUNC_6
+repo_index,VAR_3
+test_index_conflicts__add_detects_invalid_filemode,FUNC_7
+ancestor_entry,VAR_4
+our_entry,VAR_5
+their_entry,VAR_6
+conflict_entry,VAR_7
+i,VAR_8

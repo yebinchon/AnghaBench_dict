@@ -1,0 +1,11 @@
+ILC_GET_HANDLE,FUNC_0
+OMX_ErrorNone,VAR_0
+OMX_GetConfig,FUNC_1
+OMX_IndexConfigAudioRenderingLatency,VAR_1
+OMX_VERSION,VAR_2
+assert,FUNC_2
+memset,FUNC_3
+audioplay_get_latency,FUNC_4
+st,VAR_3
+param,VAR_4
+error,VAR_5

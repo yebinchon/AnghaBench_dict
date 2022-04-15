@@ -1,0 +1,15 @@
+FPREG_SUPPLIES,FUNC_0
+GREG_SUPPLIES,FUNC_1
+PIDGET,FUNC_2
+PT_GETFPREGS,VAR_0
+PT_GETREGS,VAR_1
+PT_SETFPREGS,VAR_2
+PT_SETREGS,VAR_3
+fill_fpregset,FUNC_3
+fill_gregset,FUNC_4
+inferior_ptid,VAR_4
+perror_with_name,FUNC_5
+ptrace,FUNC_6
+store_inferior_registers,FUNC_7
+regno,VAR_5
+regs,VAR_6

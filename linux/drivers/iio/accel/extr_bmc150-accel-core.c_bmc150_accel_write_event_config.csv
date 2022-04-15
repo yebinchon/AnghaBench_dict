@@ -1,0 +1,13 @@
+BMC150_ACCEL_INT_ANY_MOTION,VAR_0
+bmc150_accel_set_interrupt,FUNC_0
+iio_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+bmc150_accel_write_event_config,FUNC_4
+indio_dev,VAR_1
+chan,VAR_2
+type,VAR_3
+dir,VAR_4
+state,VAR_5
+data,VAR_6
+ret,VAR_7

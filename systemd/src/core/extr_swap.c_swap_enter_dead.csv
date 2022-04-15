@@ -1,0 +1,15 @@
+SWAP_DEAD,VAR_0
+SWAP_FAILED,VAR_1
+SWAP_SUCCESS,VAR_2
+UNIT,FUNC_0
+assert,FUNC_1
+dynamic_creds_destroy,FUNC_2
+exec_runtime_unref,FUNC_3
+swap_result_to_string,FUNC_4
+swap_set_state,FUNC_5
+unit_destroy_runtime_directory,FUNC_6
+unit_log_result,FUNC_7
+unit_unref_uid_gid,FUNC_8
+swap_enter_dead,FUNC_9
+s,VAR_3
+f,VAR_4

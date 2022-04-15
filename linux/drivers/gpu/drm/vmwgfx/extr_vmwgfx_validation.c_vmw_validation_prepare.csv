@@ -1,0 +1,15 @@
+ERESTARTSYS,VAR_0
+mutex_lock,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+vmw_validation_bo_backoff,FUNC_3
+vmw_validation_bo_reserve,FUNC_4
+vmw_validation_bo_validate,FUNC_5
+vmw_validation_res_reserve,FUNC_6
+vmw_validation_res_unreserve,FUNC_7
+vmw_validation_res_validate,FUNC_8
+vmw_validation_prepare,FUNC_9
+ctx,VAR_1
+mutex,VAR_2
+intr,VAR_3
+ret,VAR_4

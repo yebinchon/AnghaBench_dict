@@ -1,0 +1,16 @@
+BEV_LOCK,FUNC_0
+BEV_UNLOCK,FUNC_1
+EVUTIL_ASSERT,FUNC_2
+EV_FINALIZE,VAR_0
+EV_PERSIST,VAR_1
+EV_READ,VAR_2
+EV_WRITE,VAR_3
+bufferevent_enable,FUNC_3
+bufferevent_ops_socket,VAR_4
+bufferevent_readcb,VAR_5
+bufferevent_writecb,VAR_6
+event_assign,FUNC_4
+event_del,FUNC_5
+be_socket_setfd,FUNC_6
+bufev,VAR_7
+fd,VAR_8

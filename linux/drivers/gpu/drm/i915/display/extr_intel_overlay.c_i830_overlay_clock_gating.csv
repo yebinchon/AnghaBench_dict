@@ -1,0 +1,13 @@
+DSPCLK_GATE_D,VAR_0
+I830_CLOCK_GATE,VAR_1
+I830_L2_CACHE_CLOCK_GATE_DISABLE,VAR_2
+I915_WRITE,FUNC_0
+OVRUNIT_CLOCK_GATE_DISABLE,VAR_3
+PCI_DEVFN,FUNC_1
+pci_bus_read_config_byte,FUNC_2
+pci_bus_write_config_byte,FUNC_3
+i830_overlay_clock_gating,FUNC_4
+dev_priv,VAR_4
+enable,VAR_5
+pdev,VAR_6
+val,VAR_7

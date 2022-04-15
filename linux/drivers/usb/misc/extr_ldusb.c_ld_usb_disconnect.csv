@@ -1,0 +1,15 @@
+USB_LD_MINOR_BASE,VAR_0
+dev_info,FUNC_0
+ld_usb_class,VAR_1
+ld_usb_delete,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+usb_deregister_dev,FUNC_4
+usb_get_intfdata,FUNC_5
+usb_poison_urb,FUNC_6
+usb_set_intfdata,FUNC_7
+wake_up_interruptible_all,FUNC_8
+ld_usb_disconnect,FUNC_9
+intf,VAR_2
+dev,VAR_3
+minor,VAR_4

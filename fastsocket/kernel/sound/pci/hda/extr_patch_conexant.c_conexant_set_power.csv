@@ -1,0 +1,10 @@
+AC_PWRST_D0,VAR_0
+AC_PWRST_D3,VAR_1
+AC_VERB_SET_POWER_STATE,VAR_2
+msleep,FUNC_0
+snd_hda_codec_read,FUNC_1
+snd_hda_codec_set_power_to_all,FUNC_2
+conexant_set_power,FUNC_3
+codec,VAR_3
+fg,VAR_4
+power_state,VAR_5

@@ -1,0 +1,13 @@
+GIT_RMDIR_REMOVE_FILES,VAR_0
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+git_futils_mkdir_r,FUNC_3
+git_futils_rmdir_r,FUNC_4
+git_repository_open_ext,FUNC_5
+make_gitlink_dir,FUNC_6
+p_mkdir,FUNC_7
+test_repo_open__bad_gitlinks,FUNC_8
+repo,VAR_1
+bad_links,VAR_2
+scan,VAR_3

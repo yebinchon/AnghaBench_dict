@@ -1,0 +1,16 @@
+ARCHE_PLATFORM_STATE_FW_FLASHING,VAR_0
+GPIOD_OUT_HIGH,VAR_1
+GPIOD_OUT_LOW,VAR_2
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+assert_reset,FUNC_2
+dev_err,FUNC_3
+devm_gpiod_get,FUNC_4
+platform_get_drvdata,FUNC_5
+regulator_enable,FUNC_6
+fw_flashing_seq,FUNC_7
+pdev,VAR_3
+dev,VAR_4
+apb,VAR_5
+ret,VAR_6
+flags,VAR_7

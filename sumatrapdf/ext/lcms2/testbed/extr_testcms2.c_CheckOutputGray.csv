@@ -1,0 +1,14 @@
+CheckOutGray,FUNC_0
+Create_Gray22,FUNC_1
+DbgThread,FUNC_2
+INTENT_RELATIVE_COLORIMETRIC,VAR_0
+TYPE_GRAY_8,VAR_1
+TYPE_Lab_DBL,VAR_2
+cmsCloseProfile,FUNC_3
+cmsCreateLab4Profile,FUNC_4
+cmsCreateTransform,FUNC_5
+cmsDeleteTransform,FUNC_6
+CheckOutputGray,FUNC_7
+hGray,VAR_3
+hLab,VAR_4
+xform,VAR_5

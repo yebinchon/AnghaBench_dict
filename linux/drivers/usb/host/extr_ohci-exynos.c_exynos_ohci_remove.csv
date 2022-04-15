@@ -1,0 +1,10 @@
+clk_disable_unprepare,FUNC_0
+exynos_ohci_phy_disable,FUNC_1
+platform_get_drvdata,FUNC_2
+to_exynos_ohci,FUNC_3
+usb_put_hcd,FUNC_4
+usb_remove_hcd,FUNC_5
+exynos_ohci_remove,FUNC_6
+pdev,VAR_0
+hcd,VAR_1
+exynos_ohci,VAR_2

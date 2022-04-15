@@ -1,0 +1,15 @@
+FMODE_READ,VAR_0
+FMODE_WRITE,VAR_1
+POLLIN,VAR_2
+POLLOUT,VAR_3
+POLLRDNORM,VAR_4
+POLLWRNORM,VAR_5
+poll_wait,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+au1550_poll,FUNC_3
+file,VAR_6
+wait,VAR_7
+s,VAR_8
+flags,VAR_9
+mask,VAR_10

@@ -1,0 +1,15 @@
+DW_IC_FS_SCL_HCNT,VAR_0
+DW_IC_FS_SCL_LCNT,VAR_1
+DW_IC_HS_SCL_HCNT,VAR_2
+DW_IC_HS_SCL_LCNT,VAR_3
+DW_IC_SDA_HOLD,VAR_4
+DW_IC_SS_SCL_HCNT,VAR_5
+DW_IC_SS_SCL_LCNT,VAR_6
+__i2c_dw_disable,FUNC_0
+dw_writel,FUNC_1
+i2c_dw_acquire_lock,FUNC_2
+i2c_dw_configure_fifo_master,FUNC_3
+i2c_dw_release_lock,FUNC_4
+i2c_dw_init_master,FUNC_5
+dev,VAR_7
+ret,VAR_8

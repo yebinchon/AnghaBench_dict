@@ -1,0 +1,15 @@
+assert,FUNC_0
+diff_output_to_patch,FUNC_1
+git_patch_free,FUNC_2
+git_xdiff_init,FUNC_3
+memset,FUNC_4
+patch_generated_from_sources,FUNC_5
+patch_generated_with_delta_alloc,FUNC_6
+patch_from_sources,FUNC_7
+out,VAR_0
+oldsrc,VAR_1
+newsrc,VAR_2
+opts,VAR_3
+error,VAR_4
+pd,VAR_5
+xo,VAR_6

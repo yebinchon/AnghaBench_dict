@@ -1,0 +1,16 @@
+ESP_EARLY_LOGE,FUNC_0
+SYSVIEW_EXAMPLE_SEND_EVENT_END,FUNC_1
+SYSVIEW_EXAMPLE_SEND_EVENT_START,FUNC_2
+TAG,VAR_0
+eSetValueWithOverwrite,VAR_1
+pdFALSE,VAR_2
+pdPASS,VAR_3
+pdTRUE,VAR_4
+portYIELD_FROM_ISR,FUNC_3
+timer_group_enable_alarm_in_isr,FUNC_4
+timer_group_intr_clr_in_isr,FUNC_5
+xTaskNotifyFromISR,FUNC_6
+example_timer_isr,FUNC_7
+arg,VAR_5
+tim_arg,VAR_6
+xHigherPriorityTaskWoken,VAR_7

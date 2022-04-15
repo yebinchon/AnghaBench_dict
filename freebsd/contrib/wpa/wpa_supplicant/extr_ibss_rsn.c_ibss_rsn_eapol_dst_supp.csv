@@ -1,0 +1,15 @@
+EAPOL_KEY_TYPE_RSN,VAR_0
+EAPOL_VERSION,VAR_1
+IEEE802_1X_TYPE_EAPOL_KEY,VAR_2
+MSG_DEBUG,VAR_3
+WPA_GET_BE16,FUNC_0
+WPA_KEY_INFO_ACK,VAR_4
+be_to_host16,FUNC_1
+wpa_printf,FUNC_2
+ibss_rsn_eapol_dst_supp,FUNC_3
+buf,VAR_5
+len,VAR_6
+hdr,VAR_7
+key,VAR_8
+key_info,VAR_9
+plen,VAR_10

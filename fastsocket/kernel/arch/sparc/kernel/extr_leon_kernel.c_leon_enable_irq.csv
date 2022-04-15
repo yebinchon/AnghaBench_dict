@@ -1,0 +1,10 @@
+LEON3_BYPASS_LOAD_PA,FUNC_0
+LEON3_BYPASS_STORE_PA,FUNC_1
+LEON_IMASK,VAR_0
+get_irqmask,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+leon_enable_irq,FUNC_5
+irq_nr,VAR_1
+mask,VAR_2
+flags,VAR_3

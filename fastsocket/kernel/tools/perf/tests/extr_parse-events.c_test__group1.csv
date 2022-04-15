@@ -1,0 +1,11 @@
+PERF_COUNT_HW_CPU_CYCLES,VAR_0
+PERF_COUNT_HW_INSTRUCTIONS,VAR_1
+PERF_TYPE_HARDWARE,VAR_2
+TEST_ASSERT_VAL,FUNC_0
+perf_evlist__first,FUNC_1
+perf_evsel__is_group_member,FUNC_2
+perf_evsel__next,FUNC_3
+test__group1,FUNC_4
+evlist,VAR_3
+evsel,VAR_4
+leader,VAR_5

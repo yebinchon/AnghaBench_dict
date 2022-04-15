@@ -1,0 +1,16 @@
+NETPOLL_RX_ENABLED,VAR_0
+__skb_queue_purge,FUNC_0
+atomic_dec_and_test,FUNC_1
+cancel_rearming_delayed_work,FUNC_2
+kfree,FUNC_3
+rcu_assign_pointer,FUNC_4
+skb_queue_purge,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+stub1,FUNC_8
+synchronize_rcu_bh,FUNC_9
+__netpoll_cleanup,FUNC_10
+np,VAR_1
+npinfo,VAR_2
+flags,VAR_3
+ops,VAR_4

@@ -1,0 +1,13 @@
+CR0_TS,VAR_0
+CR4_XSAVE,VAR_1
+fpu_start_emulating,FUNC_0
+fpu_stop_emulating,FUNC_1
+fpusave,FUNC_2
+load_xcr,FUNC_3
+panic,FUNC_4
+rcr0,FUNC_5
+rcr4,FUNC_6
+rxcr,FUNC_7
+vmm_get_host_xcr0,FUNC_8
+save_guest_fpustate,FUNC_9
+vcpu,VAR_2

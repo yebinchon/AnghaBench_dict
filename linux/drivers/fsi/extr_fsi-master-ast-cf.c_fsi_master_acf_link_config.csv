@@ -1,0 +1,14 @@
+ECHO_DLY_REG,VAR_0
+ENODEV,VAR_1
+SEND_DLY_REG,VAR_2
+dev_dbg,FUNC_0
+iowrite8,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_fsi_master_acf,FUNC_4
+fsi_master_acf_link_config,FUNC_5
+_master,VAR_3
+link,VAR_4
+t_send_delay,VAR_5
+t_echo_delay,VAR_6
+master,VAR_7

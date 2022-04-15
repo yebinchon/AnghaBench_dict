@@ -1,0 +1,11 @@
+R0,VAR_0
+Tx_BUF_EMP,VAR_1
+read_zsreg,FUNC_0
+udelay,FUNC_1
+zs_spin_lock_cond_irq,FUNC_2
+zs_spin_unlock_cond_irq,FUNC_3
+zs_transmit_drain,FUNC_4
+zport,VAR_2
+irq,VAR_3
+scc,VAR_4
+loops,VAR_5

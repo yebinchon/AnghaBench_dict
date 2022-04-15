@@ -1,0 +1,12 @@
+cfg80211_find_sched_scan_req,FUNC_0
+cfg80211_wq,VAR_0
+queue_work,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+trace_cfg80211_sched_scan_results,FUNC_4
+wiphy_to_rdev,FUNC_5
+cfg80211_sched_scan_results,FUNC_6
+wiphy,VAR_1
+reqid,VAR_2
+rdev,VAR_3
+request,VAR_4

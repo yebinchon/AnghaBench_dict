@@ -1,0 +1,7 @@
+input_item_GetDuration,FUNC_0
+lua_pushnumber,FUNC_1
+secf_from_vlc_tick,FUNC_2
+vlclua_input_item_get_internal,FUNC_3
+vlclua_input_item_duration,FUNC_4
+L,VAR_0
+duration,VAR_1

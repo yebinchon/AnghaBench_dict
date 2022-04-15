@@ -1,0 +1,14 @@
+ARRAY_SIZE,FUNC_0
+IEEE80211_KEY_FLAG_PAIRWISE,VAR_0
+NL80211_IFTYPE_STATION,VAR_1
+NUM_DEFAULT_KEYS,VAR_2
+__ieee80211_key_destroy,FUNC_1
+ieee80211_key_replace,FUNC_2
+key_mtx_dereference,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+ieee80211_free_sta_keys,FUNC_6
+local,VAR_3
+sta,VAR_4
+key,VAR_5
+i,VAR_6

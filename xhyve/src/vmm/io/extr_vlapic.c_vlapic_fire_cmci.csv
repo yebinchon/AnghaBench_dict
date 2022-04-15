@@ -1,0 +1,8 @@
+APIC_OFFSET_CMCI_LVT,VAR_0
+VLAPIC_INTR_CMC,VAR_1
+vlapic_fire_lvt,FUNC_0
+vlapic_get_lvt,FUNC_1
+vmm_stat_incr,FUNC_2
+vlapic_fire_cmci,FUNC_3
+vlapic,VAR_2
+lvt,VAR_3

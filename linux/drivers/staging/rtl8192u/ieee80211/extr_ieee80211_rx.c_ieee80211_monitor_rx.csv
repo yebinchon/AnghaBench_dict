@@ -1,0 +1,15 @@
+ETH_P_80211_RAW,VAR_0
+PACKET_OTHERHOST,VAR_1
+htons,FUNC_0
+ieee80211_get_hdrlen,FUNC_1
+le16_to_cpu,FUNC_2
+memset,FUNC_3
+netif_rx,FUNC_4
+skb_pull,FUNC_5
+skb_reset_mac_header,FUNC_6
+ieee80211_monitor_rx,FUNC_7
+ieee,VAR_2
+skb,VAR_3
+rx_stats,VAR_4
+hdr,VAR_5
+fc,VAR_6

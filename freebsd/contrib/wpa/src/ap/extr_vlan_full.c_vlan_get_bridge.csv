@@ -1,0 +1,11 @@
+DVLAN_CLEAN_BR,VAR_0
+br_addbr,FUNC_0
+dyn_iface_get,FUNC_1
+ifconfig_up,FUNC_2
+vlan_newlink_tagged,FUNC_3
+vlan_get_bridge,FUNC_4
+br_name,VAR_1
+hapd,VAR_2
+vid,VAR_3
+tagged_interface,VAR_4
+vlan_naming,VAR_5

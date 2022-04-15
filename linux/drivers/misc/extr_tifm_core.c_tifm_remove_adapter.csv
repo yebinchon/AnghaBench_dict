@@ -1,0 +1,12 @@
+device_del,FUNC_0
+device_unregister,FUNC_1
+flush_workqueue,FUNC_2
+idr_remove,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+tifm_adapter_idr,VAR_0
+tifm_adapter_lock,VAR_1
+workqueue,VAR_2
+tifm_remove_adapter,FUNC_6
+fm,VAR_3
+cnt,VAR_4

@@ -1,0 +1,16 @@
+DASD_EER_STATECHANGE,VAR_0
+DASD_FLAG_EER_IN_USE,VAR_1
+DASD_FLAG_EER_SNSS,VAR_2
+clear_bit,FUNC_0
+dasd_eer_snss,FUNC_1
+dasd_eer_write,FUNC_2
+dasd_kfree_request,FUNC_3
+get_ccwdev_lock,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+test_bit,FUNC_7
+dasd_eer_snss_cb,FUNC_8
+cqr,VAR_3
+data,VAR_4
+device,VAR_5
+flags,VAR_6

@@ -1,0 +1,17 @@
+PIDTYPE_PID,VAR_0
+current,VAR_1
+get_cpu,FUNC_0
+get_task_pid,FUNC_1
+kvm_arch_vcpu_load,FUNC_2
+mutex_lock,FUNC_3
+preempt_notifier_register,FUNC_4
+put_cpu,FUNC_5
+put_pid,FUNC_6
+rcu_assign_pointer,FUNC_7
+synchronize_rcu,FUNC_8
+unlikely,FUNC_9
+vcpu_load,FUNC_10
+vcpu,VAR_2
+cpu,VAR_3
+oldpid,VAR_4
+newpid,VAR_5

@@ -1,0 +1,12 @@
+ATA_OUTL,FUNC_0
+DELAY,FUNC_1
+SIIS_GCTL,VAR_0
+SIIS_GCTL_GRESET,VAR_1
+SIIS_GCTL_I2C_IE,VAR_2
+bus_generic_resume,FUNC_2
+device_get_softc,FUNC_3
+pci_get_max_read_req,FUNC_4
+pci_set_max_read_req,FUNC_5
+siis_resume,FUNC_6
+dev,VAR_3
+ctlr,VAR_4

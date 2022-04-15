@@ -1,0 +1,9 @@
+Assert,FUNC_0
+EXCLUSIVE_BACKUP_NONE,VAR_0
+SESSION_BACKUP_NONE,VAR_1
+SESSION_BACKUP_NON_EXCLUSIVE,VAR_2
+WALInsertLockAcquireExclusive,FUNC_1
+WALInsertLockRelease,FUNC_2
+XLogCtl,VAR_3
+sessionBackupState,VAR_4
+do_pg_abort_backup,FUNC_3

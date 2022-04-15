@@ -1,0 +1,12 @@
+QUICLY_ERROR_GET_ERROR_CODE,FUNC_0
+QUICLY_ERROR_IS_QUIC_APPLICATION,FUNC_1
+QUICLY_SENDER_STATE_NONE,VAR_0
+QUICLY_SENDER_STATE_SEND,VAR_1
+UINT64_MAX,VAR_2
+assert,FUNC_2
+quicly_is_client,FUNC_3
+quicly_stream_has_receive_side,FUNC_4
+sched_stream_control,FUNC_5
+quicly_request_stop,FUNC_6
+stream,VAR_3
+err,VAR_4

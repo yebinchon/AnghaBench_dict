@@ -1,0 +1,14 @@
+DeviceIoControl,FUNC_0
+FALSE,VAR_0
+GetPhysicalHandle,FUNC_1
+INVALID_HANDLE_VALUE,VAR_1
+IOCTL_DISK_GET_DRIVE_GEOMETRY_EX,VAR_2
+TRUE,VAR_3
+safe_closehandle,FUNC_2
+GetDriveSize,FUNC_3
+DriveIndex,VAR_4
+r,VAR_5
+hPhysical,VAR_6
+size,VAR_7
+geometry,VAR_8
+DiskGeometry,VAR_9

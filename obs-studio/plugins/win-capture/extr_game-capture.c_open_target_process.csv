@@ -1,0 +1,9 @@
+PROCESS_QUERY_INFORMATION,VAR_0
+SYNCHRONIZE,VAR_1
+get_app_sid,FUNC_0
+is_64bit_process,FUNC_1
+is_app,FUNC_2
+open_process,FUNC_3
+warn,FUNC_4
+open_target_process,FUNC_5
+gc,VAR_2

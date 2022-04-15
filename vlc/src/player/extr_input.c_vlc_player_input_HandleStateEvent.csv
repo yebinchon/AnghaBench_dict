@@ -1,0 +1,15 @@
+VLC_PLAYER_ERROR_GENERIC,VAR_0
+VLC_PLAYER_STATE_PAUSED,VAR_1
+VLC_PLAYER_STATE_PLAYING,VAR_2
+VLC_PLAYER_STATE_STARTED,VAR_3
+VLC_PLAYER_STATE_STOPPING,VAR_4
+VLC_TICK_INVALID,VAR_5
+on_error_changed,VAR_6
+vlc_assert_unreachable,FUNC_0
+vlc_player_SendEvent,FUNC_1
+vlc_player_destructor_AddStoppingInput,FUNC_2
+vlc_player_input_HandleState,FUNC_3
+vlc_player_input_HandleStateEvent,FUNC_4
+input,VAR_7
+state,VAR_8
+state_date,VAR_9

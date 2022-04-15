@@ -1,0 +1,11 @@
+IRQ_NONE,VAR_0
+IRQ_WAKE_THREAD,VAR_1
+MAILBOX_B2A_STATUS,VAR_2
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+rockchip_mbox_irq,FUNC_2
+irq,VAR_3
+dev_id,VAR_4
+idx,VAR_5
+mb,VAR_6
+status,VAR_7

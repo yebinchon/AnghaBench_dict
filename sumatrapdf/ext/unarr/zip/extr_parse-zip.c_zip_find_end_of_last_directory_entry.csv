@@ -1,0 +1,14 @@
+SEEK_SET,VAR_0
+SIG_CENTRAL_DIRECTORY,VAR_1
+ZIP_DIR_ENTRY_FIXED_SIZE,VAR_2
+ar_read,FUNC_0
+ar_seek,FUNC_1
+ar_skip,FUNC_2
+ar_tell,FUNC_3
+uint16le,FUNC_4
+uint32le,FUNC_5
+zip_find_end_of_last_directory_entry,FUNC_6
+stream,VAR_3
+eocd,VAR_4
+data,VAR_5
+i,VAR_6

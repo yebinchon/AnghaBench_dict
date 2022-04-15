@@ -1,0 +1,8 @@
+CEC_INTR_MASKN_REG,VAR_0
+CEC_INTR_RX,VAR_1
+CEC_INTR_TX,VAR_2
+writel_bits_relaxed,FUNC_0
+meson_ao_cec_irq_setup,FUNC_1
+ao_cec,VAR_3
+enable,VAR_4
+cfg,VAR_5

@@ -1,0 +1,12 @@
+EBUSY,VAR_0
+MNT_READONLY,VAR_1
+MNT_WRITE_HOLD,VAR_2
+count_mnt_writers,FUNC_0
+smp_mb,FUNC_1
+smp_wmb,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+vfsmount_lock,VAR_3
+mnt_make_readonly,FUNC_5
+mnt,VAR_4
+ret,VAR_5

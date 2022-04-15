@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+VDEV_STATE_DEGRADED,VAR_0
+VDEV_STATE_FAULTED,VAR_1
+ZFS_IOC_VDEV_SET_STATE,VAR_2
+g_zfs,VAR_3
+strlcpy,FUNC_1
+zfs_ioctl,FUNC_2
+perform_action,FUNC_3
+pool,VAR_4
+record,VAR_5
+cmd,VAR_6
+zc,VAR_7

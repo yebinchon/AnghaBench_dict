@@ -1,0 +1,15 @@
+CAP_SYS_RESOURCE,VAR_0
+EPERM,VAR_1
+__task_cred,FUNC_0
+current,VAR_2
+current_cred,FUNC_1
+gid_eq,FUNC_2
+ns_capable,FUNC_3
+security_task_prlimit,FUNC_4
+uid_eq,FUNC_5
+check_prlimit_permission,FUNC_6
+task,VAR_3
+flags,VAR_4
+cred,VAR_5
+tcred,VAR_6
+id_match,VAR_7

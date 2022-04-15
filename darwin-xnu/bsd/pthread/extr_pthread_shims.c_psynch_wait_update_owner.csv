@@ -1,0 +1,14 @@
+TURNSTILE_IMMEDIATE_UPDATE,VAR_0
+TURNSTILE_INHERITOR_THREAD,VAR_1
+TURNSTILE_INTERLOCK_HELD,VAR_2
+TURNSTILE_NULL,VAR_3
+TURNSTILE_PTHREAD_MUTEX,VAR_4
+turnstile_complete,FUNC_0
+turnstile_prepare,FUNC_1
+turnstile_update_inheritor,FUNC_2
+turnstile_update_inheritor_complete,FUNC_3
+psynch_wait_update_owner,FUNC_4
+kwq,VAR_5
+owner,VAR_6
+tstore,VAR_7
+ts,VAR_8

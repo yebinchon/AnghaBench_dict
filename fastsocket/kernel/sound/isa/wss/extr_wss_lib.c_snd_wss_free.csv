@@ -1,0 +1,12 @@
+WSS_HWSHARE_DMA1,VAR_0
+WSS_HWSHARE_DMA2,VAR_1
+WSS_HWSHARE_IRQ,VAR_2
+disable_irq,FUNC_0
+free_dma,FUNC_1
+free_irq,FUNC_2
+kfree,FUNC_3
+release_and_free_resource,FUNC_4
+snd_device_free,FUNC_5
+snd_dma_disable,FUNC_6
+snd_wss_free,FUNC_7
+chip,VAR_3

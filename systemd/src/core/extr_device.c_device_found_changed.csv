@@ -1,0 +1,14 @@
+DEVICE_DEAD,VAR_0
+DEVICE_FOUND_UDEV,VAR_1
+DEVICE_NOT_FOUND,VAR_2
+DEVICE_PLUGGED,VAR_3
+DEVICE_TENTATIVE,VAR_4
+FLAGS_SET,FUNC_0
+UNIT,FUNC_1
+assert,FUNC_2
+device_set_state,FUNC_3
+unit_acquire_invocation_id,FUNC_4
+device_found_changed,FUNC_5
+d,VAR_5
+previous,VAR_6
+now,VAR_7

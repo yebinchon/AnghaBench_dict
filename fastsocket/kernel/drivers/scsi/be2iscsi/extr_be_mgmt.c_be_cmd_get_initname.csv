@@ -1,0 +1,16 @@
+CMD_SUBSYSTEM_ISCSI_INI,VAR_0
+OPCODE_ISCSI_INI_CFG_GET_HBA_NAME,VAR_1
+alloc_mcc_tag,FUNC_0
+be_cmd_hdr_prepare,FUNC_1
+be_mcc_notify,FUNC_2
+be_wrb_hdr_prepare,FUNC_3
+embedded_payload,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+wrb_from_mccq,FUNC_7
+be_cmd_get_initname,FUNC_8
+phba,VAR_2
+tag,VAR_3
+wrb,VAR_4
+req,VAR_5
+ctrl,VAR_6

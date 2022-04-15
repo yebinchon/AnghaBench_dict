@@ -1,0 +1,6 @@
+DLVRY_QUEUE_ENABLE,VAR_0
+HISI_SAS_REJECT_CMD_BIT,VAR_1
+clear_bit,FUNC_0
+hisi_sas_write32,FUNC_1
+debugfs_snapshot_restore_v3_hw,FUNC_2
+hisi_hba,VAR_2

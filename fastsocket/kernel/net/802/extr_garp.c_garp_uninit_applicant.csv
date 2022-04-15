@@ -1,0 +1,17 @@
+ASSERT_RTNL,FUNC_0
+ETH_ALEN,VAR_0
+GARP_EVENT_TRANSMIT_PDU,VAR_1
+del_timer_sync,FUNC_1
+dev_mc_delete,FUNC_2
+garp_gid_event,FUNC_3
+garp_pdu_queue,FUNC_4
+garp_queue_xmit,FUNC_5
+garp_release_port,FUNC_6
+kfree,FUNC_7
+rcu_assign_pointer,FUNC_8
+synchronize_rcu,FUNC_9
+garp_uninit_applicant,FUNC_10
+dev,VAR_2
+appl,VAR_3
+port,VAR_4
+app,VAR_5

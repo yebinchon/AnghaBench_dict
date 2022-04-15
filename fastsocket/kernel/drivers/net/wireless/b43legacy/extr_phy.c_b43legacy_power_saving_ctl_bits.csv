@@ -1,0 +1,14 @@
+B43legacy_MACCTL_AWAKE,VAR_0
+B43legacy_MACCTL_HWPS,VAR_1
+B43legacy_MMIO_MACCTL,VAR_2
+B43legacy_SHM_SHARED,VAR_3
+b43legacy_read32,FUNC_0
+b43legacy_shm_read32,FUNC_1
+b43legacy_write32,FUNC_2
+udelay,FUNC_3
+b43legacy_power_saving_ctl_bits,FUNC_4
+dev,VAR_4
+bit25,VAR_5
+bit26,VAR_6
+i,VAR_7
+status,VAR_8

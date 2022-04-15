@@ -1,0 +1,16 @@
+BCMCPU_IS_6348,FUNC_0
+EXTIRQ_CFG_CLEAR,FUNC_1
+EXTIRQ_CFG_CLEAR_6348,FUNC_2
+IRQ_EXTERNAL_BASE,VAR_0
+bcm_perf_readl,FUNC_3
+bcm_perf_writel,FUNC_4
+epic_lock,VAR_1
+get_ext_irq_perf_reg,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+bcm63xx_external_irq_clear,FUNC_8
+d,VAR_2
+irq,VAR_3
+reg,VAR_4
+regaddr,VAR_5
+flags,VAR_6

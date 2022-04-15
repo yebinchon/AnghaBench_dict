@@ -1,0 +1,14 @@
+CA_EVENT_ECN_IS_CE,VAR_0
+CA_EVENT_ECN_NO_CE,VAR_1
+INET_ECN_MASK,VAR_2
+TCP_ECN_DEMAND_CWR,VAR_3
+TCP_ECN_SEEN,VAR_4
+TCP_SKB_CB,FUNC_0
+tcp_ca_event,FUNC_1
+tcp_ca_needs_ecn,FUNC_2
+tcp_enter_quickack_mode,FUNC_3
+tcp_sk,FUNC_4
+__tcp_ecn_check_ce,FUNC_5
+sk,VAR_5
+skb,VAR_6
+tp,VAR_7

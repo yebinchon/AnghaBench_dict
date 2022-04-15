@@ -1,0 +1,14 @@
+SVN_PROP_REVISION_AUTHOR,VAR_0
+SVN_PROP_REVISION_LOG,VAR_1
+apr_hash_make,FUNC_0
+svn_hash_sets,FUNC_1
+svn_repos_fs_begin_txn_for_commit2,FUNC_2
+svn_string_create,FUNC_3
+svn_repos_fs_begin_txn_for_commit,FUNC_4
+txn_p,VAR_2
+repos,VAR_3
+rev,VAR_4
+author,VAR_5
+log_msg,VAR_6
+pool,VAR_7
+revprop_table,VAR_8

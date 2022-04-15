@@ -1,0 +1,8 @@
+SMMU_TLB_FLUSH,VAR_0
+SMMU_TLB_FLUSH_ASID_MATCH,VAR_1
+SMMU_TLB_FLUSH_VA_MATCH_ALL,VAR_2
+smmu_writel,FUNC_0
+smmu_flush_tlb_asid,FUNC_1
+smmu,VAR_3
+asid,VAR_4
+value,VAR_5

@@ -1,0 +1,12 @@
+DTS_ITR1_OFFSET,VAR_0
+TS1_HITTHD_MASK,VAR_1
+TS1_HITTHD_POS,VAR_2
+TS1_LITTHD_MASK,VAR_3
+readl_relaxed,FUNC_0
+stm_thermal_calculate_threshold,FUNC_1
+writel_relaxed,FUNC_2
+stm_thermal_set_threshold,FUNC_3
+sensor,VAR_4
+value,VAR_5
+th,VAR_6
+ret,VAR_7

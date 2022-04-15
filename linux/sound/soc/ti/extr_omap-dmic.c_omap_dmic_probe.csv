@@ -1,0 +1,11 @@
+OMAP_DMIC_CTRL_REG,VAR_0
+OMAP_DMIC_THRES_MAX,VAR_1
+omap_dmic_write,FUNC_0
+pm_runtime_enable,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_put_sync,FUNC_3
+snd_soc_dai_get_drvdata,FUNC_4
+snd_soc_dai_init_dma_data,FUNC_5
+omap_dmic_probe,FUNC_6
+dai,VAR_2
+dmic,VAR_3

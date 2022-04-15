@@ -1,0 +1,13 @@
+lockdep_is_held,FUNC_0
+nfp_app_repr_preclean,FUNC_1
+nfp_app_reprs_set,FUNC_2
+nfp_repr_get_locked,FUNC_3
+nfp_reprs_clean_and_free,FUNC_4
+rcu_dereference_protected,FUNC_5
+synchronize_rcu,FUNC_6
+nfp_reprs_clean_and_free_by_type,FUNC_7
+app,VAR_0
+type,VAR_1
+netdev,VAR_2
+reprs,VAR_3
+i,VAR_4

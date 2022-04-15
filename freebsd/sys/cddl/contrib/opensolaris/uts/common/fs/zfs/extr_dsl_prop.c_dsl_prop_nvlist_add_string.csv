@@ -1,0 +1,16 @@
+KM_SLEEP,VAR_0
+NV_UNIQUE_NAME,VAR_1
+VERIFY,FUNC_0
+ZPROP_VALUE,VAR_2
+nvlist_add_nvlist,FUNC_1
+nvlist_add_string,FUNC_2
+nvlist_alloc,FUNC_3
+nvlist_free,FUNC_4
+nvlist_lookup_nvlist,FUNC_5
+zfs_prop_to_name,FUNC_6
+dsl_prop_nvlist_add_string,FUNC_7
+nv,VAR_3
+prop,VAR_4
+value,VAR_5
+propval,VAR_6
+propname,VAR_7

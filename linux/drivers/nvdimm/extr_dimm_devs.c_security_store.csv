@@ -1,0 +1,12 @@
+nd_device_lock,FUNC_0
+nd_device_unlock,FUNC_1
+nvdimm_bus_lock,FUNC_2
+nvdimm_bus_unlock,FUNC_3
+nvdimm_security_store,FUNC_4
+wait_nvdimm_bus_probe_idle,FUNC_5
+security_store,FUNC_6
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+len,VAR_3
+rc,VAR_4

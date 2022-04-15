@@ -1,0 +1,15 @@
+CARD_CLK_EN,VAR_0
+CARD_OE,VAR_1
+MS_CLK_EN,VAR_2
+MS_OUTPUT_EN,VAR_3
+RTSX_MS_CARD,VAR_4
+WRITE_REG_CMD,VAR_5
+rtsx_pci_add_cmd,FUNC_0
+rtsx_pci_card_power_off,FUNC_1
+rtsx_pci_card_pull_ctl_disable,FUNC_2
+rtsx_pci_init_cmd,FUNC_3
+rtsx_pci_send_cmd,FUNC_4
+ms_power_off,FUNC_5
+host,VAR_6
+pcr,VAR_7
+err,VAR_8

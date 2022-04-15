@@ -1,0 +1,11 @@
+AZX_GCTL_UNSOL,VAR_0
+CORBCTL,VAR_1
+GCTL,VAR_2
+RIRBCTL,VAR_3
+hdac_wait_for_cmd_dmas,FUNC_0
+snd_hdac_chip_updatel,FUNC_1
+snd_hdac_chip_writeb,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+snd_hdac_bus_stop_cmd_io,FUNC_5
+bus,VAR_4

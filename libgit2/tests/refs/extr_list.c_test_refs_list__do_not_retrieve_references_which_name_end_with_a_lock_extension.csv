@@ -1,0 +1,8 @@
+cl_assert_equal_i,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_0
+git_reference_list,FUNC_3
+git_strarray_free,FUNC_4
+test_refs_list__do_not_retrieve_references_which_name_end_with_a_lock_extension,FUNC_5
+ref_list,VAR_1

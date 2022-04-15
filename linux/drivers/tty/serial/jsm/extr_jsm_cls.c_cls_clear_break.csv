@@ -1,0 +1,13 @@
+CH_BREAK_SENDING,VAR_0
+IOCTL,VAR_1
+UART_LCR_SBC,VAR_2
+jiffies,VAR_3
+jsm_dbg,FUNC_0
+readb,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writeb,FUNC_4
+cls_clear_break,FUNC_5
+ch,VAR_4
+lock_flags,VAR_5
+temp,VAR_6

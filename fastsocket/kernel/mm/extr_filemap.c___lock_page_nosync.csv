@@ -1,0 +1,9 @@
+DEFINE_WAIT_BIT,FUNC_0
+PG_locked,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__sleep_on_page_lock,VAR_2
+__wait_on_bit_lock,FUNC_1
+page_waitqueue,FUNC_2
+wait,VAR_3
+__lock_page_nosync,FUNC_3
+page,VAR_4

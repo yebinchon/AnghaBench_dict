@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+irq_create_mapping,FUNC_0
+irq_set_msi_desc,FUNC_1
+lower_32_bits,FUNC_2
+pci_write_msi_msg,FUNC_3
+tegra_msi_alloc,FUNC_4
+tegra_msi_free,FUNC_5
+to_tegra_msi,FUNC_6
+upper_32_bits,FUNC_7
+tegra_msi_setup_irq,FUNC_8
+chip,VAR_1
+pdev,VAR_2
+desc,VAR_3
+msi,VAR_4
+msg,VAR_5
+irq,VAR_6
+hwirq,VAR_7

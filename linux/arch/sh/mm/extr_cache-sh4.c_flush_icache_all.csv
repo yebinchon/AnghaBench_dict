@@ -1,0 +1,11 @@
+CCR_CACHE_ICI,VAR_0
+SH_CCR,VAR_1
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+back_to_cached,FUNC_2
+jump_to_uncached,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+flush_icache_all,FUNC_6
+flags,VAR_2
+ccr,VAR_3

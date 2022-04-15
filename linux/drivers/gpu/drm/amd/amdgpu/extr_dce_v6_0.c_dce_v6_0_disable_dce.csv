@@ -1,0 +1,14 @@
+CRTC_CONTROL__CRTC_MASTER_EN_MASK,VAR_0
+RREG32,FUNC_0
+WREG32,FUNC_1
+amdgpu_atombios_has_dce_engine_info,FUNC_2
+crtc_offsets,VAR_1
+dce_v6_0_get_num_crtc,FUNC_3
+dce_v6_0_set_vga_render_state,FUNC_4
+mmCRTC_CONTROL,VAR_2
+mmCRTC_UPDATE_LOCK,VAR_3
+dce_v6_0_disable_dce,FUNC_5
+adev,VAR_4
+tmp,VAR_5
+crtc_enabled,VAR_6
+i,VAR_7

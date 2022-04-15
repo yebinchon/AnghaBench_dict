@@ -1,0 +1,15 @@
+CTL_KERN,VAR_0
+ESRCH,VAR_1
+KERN_PROC,VAR_2
+KERN_PROC_PATHNAME,VAR_3
+errno,VAR_4
+nitems,FUNC_0
+sysctl,FUNC_1
+warn,FUNC_2
+procstat_getpathname_sysctl,FUNC_3
+pid,VAR_5
+pathname,VAR_6
+maxlen,VAR_7
+error,VAR_8
+name,VAR_9
+len,VAR_10

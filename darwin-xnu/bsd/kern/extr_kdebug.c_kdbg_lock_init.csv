@@ -1,0 +1,13 @@
+KDBG_LOCKINIT,VAR_0
+assert,FUNC_0
+kd_ctrl_page,VAR_1
+kds_spin_lock,VAR_2
+kdw_spin_lock,VAR_3
+lck_attr_alloc_init,FUNC_1
+lck_grp_alloc_init,FUNC_2
+lck_grp_attr_alloc_init,FUNC_3
+lck_spin_alloc_init,FUNC_4
+kdbg_lock_init,FUNC_5
+kdebug_lck_grp_attr,VAR_4
+kdebug_lck_grp,VAR_5
+kdebug_lck_attr,VAR_6

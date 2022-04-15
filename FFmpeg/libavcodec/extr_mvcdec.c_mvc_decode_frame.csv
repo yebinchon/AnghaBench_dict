@@ -1,0 +1,15 @@
+AV_CODEC_ID_MVC1,VAR_0
+AV_PICTURE_TYPE_I,VAR_1
+bytestream2_init,FUNC_0
+decode_mvc1,FUNC_1
+decode_mvc2,FUNC_2
+ff_get_buffer,FUNC_3
+mvc_decode_frame,FUNC_4
+avctx,VAR_2
+data,VAR_3
+got_frame,VAR_4
+avpkt,VAR_5
+s,VAR_6
+frame,VAR_7
+gb,VAR_8
+ret,VAR_9

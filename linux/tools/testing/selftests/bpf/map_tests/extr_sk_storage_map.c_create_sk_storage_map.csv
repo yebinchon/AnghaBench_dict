@@ -1,0 +1,9 @@
+CHECK,FUNC_0
+bpf_create_map_xattr,FUNC_1
+close,FUNC_2
+errno,VAR_0
+load_btf,FUNC_3
+xattr,VAR_1
+create_sk_storage_map,FUNC_4
+btf_fd,VAR_2
+map_fd,VAR_3

@@ -1,0 +1,10 @@
+__uvc_queue_get_current_buffer,FUNC_0
+list_del,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+uvc_queue_buffer_release,FUNC_4
+uvc_queue_next_buffer,FUNC_5
+queue,VAR_0
+buf,VAR_1
+nextbuf,VAR_2
+flags,VAR_3

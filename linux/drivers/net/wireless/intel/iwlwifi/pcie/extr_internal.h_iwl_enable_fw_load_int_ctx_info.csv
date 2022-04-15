@@ -1,0 +1,12 @@
+CSR_INT_BIT_ALIVE,VAR_0
+CSR_INT_BIT_FH_RX,VAR_1
+CSR_INT_MASK,VAR_2
+IWL_DEBUG_ISR,FUNC_0
+IWL_TRANS_GET_PCIE_TRANS,FUNC_1
+MSIX_HW_INT_CAUSES_REG_ALIVE,VAR_3
+iwl_enable_fh_int_msk_msix,FUNC_2
+iwl_enable_hw_int_msk_msix,FUNC_3
+iwl_write32,FUNC_4
+iwl_enable_fw_load_int_ctx_info,FUNC_5
+trans,VAR_4
+trans_pcie,VAR_5

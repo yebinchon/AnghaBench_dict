@@ -1,0 +1,16 @@
+CAM_AUTOSNS_VALID,VAR_0
+CAM_SCSI_STATUS_ERROR,VAR_1
+CAM_SENSE_PHYS,VAR_2
+CAM_SENSE_PTR,VAR_3
+CAM_STATUS_MASK,VAR_4
+SCSI_STATUS_CHECK_COND,VAR_5
+XPT_SCSI_IO,VAR_6
+bcopy,FUNC_0
+scsi_extract_sense_len,FUNC_1
+scsi_extract_sense_ccb,FUNC_2
+ccb,VAR_7
+error_code,VAR_8
+sense_key,VAR_9
+asc,VAR_10
+ascq,VAR_11
+sense_data,VAR_12

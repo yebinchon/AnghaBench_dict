@@ -1,0 +1,12 @@
+bpf_map_get_fd_by_id,FUNC_0
+bpf_obj_get_info_by_fd,FUNC_1
+bpf_prog_get_fd_by_id,FUNC_2
+close,FUNC_3
+log_err,FUNC_4
+get_map_fd_by_prog_id,FUNC_5
+prog_id,VAR_0
+info,VAR_1
+info_len,VAR_2
+map_ids,VAR_3
+prog_fd,VAR_4
+map_fd,VAR_5

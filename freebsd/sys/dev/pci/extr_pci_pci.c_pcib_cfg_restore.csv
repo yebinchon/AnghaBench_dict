@@ -1,0 +1,13 @@
+PCIM_CMD_MEMEN,VAR_0
+PCIM_CMD_PORTEN,VAR_1
+PCIR_COMMAND,VAR_2
+WIN_IO,VAR_3
+WIN_MEM,VAR_4
+WIN_PMEM,VAR_5
+pci_read_config,FUNC_0
+pcib_set_io_decode,FUNC_1
+pcib_set_mem_decode,FUNC_2
+pcib_write_windows,FUNC_3
+pcib_cfg_restore,FUNC_4
+sc,VAR_6
+command,VAR_7

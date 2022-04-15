@@ -1,0 +1,17 @@
+KERN_SUCCESS,VAR_0
+MACH_PORT_RIGHT_RECEIVE,VAR_1
+exit,FUNC_0
+mach_error,FUNC_1
+mach_port_allocate,FUNC_2
+mach_task_self,FUNC_3
+malloc,FUNC_4
+msg_type,VAR_2
+num_ints,VAR_3
+num_msgs,VAR_4
+oneway,VAR_5
+printf,FUNC_5
+server_port_name,VAR_6
+verbose,VAR_7
+setup_client_ports,FUNC_6
+ports,VAR_8
+ret,VAR_9

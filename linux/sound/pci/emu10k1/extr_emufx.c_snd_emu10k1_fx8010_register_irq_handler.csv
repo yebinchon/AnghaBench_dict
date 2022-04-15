@@ -1,0 +1,12 @@
+INTE_FXDSPENABLE,VAR_0
+snd_emu10k1_fx8010_interrupt,VAR_1
+snd_emu10k1_intr_enable,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+snd_emu10k1_fx8010_register_irq_handler,FUNC_3
+emu,VAR_2
+handler,VAR_3
+gpr_running,VAR_4
+private_data,VAR_5
+irq,VAR_6
+flags,VAR_7

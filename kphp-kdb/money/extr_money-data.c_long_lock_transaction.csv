@@ -1,0 +1,16 @@
+MAX_LOCK_SECONDS,VAR_0
+MIN_LOCK_SECONDS,VAR_1
+assert,FUNC_0
+check_transaction,FUNC_1
+get_temp_transaction,FUNC_2
+get_transaction,FUNC_3
+lock_transaction,FUNC_4
+now,VAR_2
+put_into_lock_heap,FUNC_5
+remove_temp_transaction,FUNC_6
+trs_declared,VAR_3
+trs_declared_locked,VAR_4
+trs_long_locked,VAR_5
+long_lock_transaction,FUNC_7
+E,VAR_6
+T,VAR_7

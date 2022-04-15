@@ -1,0 +1,16 @@
+CARL9170_NUM_TX_LIMIT_SOFT,VAR_0
+atomic_dec_and_test,FUNC_0
+complete,FUNC_1
+ieee80211_queue_stopped,FUNC_2
+ieee80211_wake_queue,FUNC_3
+is_mem_full,FUNC_4
+jiffies,VAR_1
+skb_get_queue_mapping,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+carl9170_tx_accounting_free,FUNC_8
+ar,VAR_2
+skb,VAR_3
+queue,VAR_4
+i,VAR_5
+tmp,VAR_6

@@ -1,0 +1,16 @@
+DR_REG_SLCHOST_BASE,VAR_0
+SLCHOST_CONF_W0,VAR_1
+TEST_ASSERT_EQUAL_UINT8,FUNC_0
+TEST_ESP_OK,FUNC_1
+printf,FUNC_2
+sdmmc_io_read_byte,FUNC_3
+sdmmc_io_write_byte,FUNC_4
+test_cmd52_read_write_single_byte,FUNC_5
+card,VAR_2
+err,VAR_3
+scratch_area_reg,VAR_4
+test_byte_1,VAR_5
+test_byte_2,VAR_6
+test_byte_1_raw,VAR_7
+test_byte_2_raw,VAR_8
+val,VAR_9

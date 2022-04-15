@@ -1,0 +1,11 @@
+CLASSQ_EV_LINK_BANDWIDTH,VAR_0
+IFNET_IS_WIFI,FUNC_0
+VERIFY,FUNC_1
+ifnet_set_link_status_inbw,FUNC_2
+ifnet_update_rcv,FUNC_3
+lck_rw_done,FUNC_4
+lck_rw_lock_exclusive,FUNC_5
+ifnet_set_input_bandwidths,FUNC_6
+ifp,VAR_1
+bw,VAR_2
+old_bw,VAR_3

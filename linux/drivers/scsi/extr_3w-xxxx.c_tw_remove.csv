@@ -1,0 +1,14 @@
+__tw_shutdown,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_release_regions,FUNC_3
+scsi_host_put,FUNC_4
+scsi_remove_host,FUNC_5
+tw_device_extension_count,VAR_0
+tw_free_device_extension,FUNC_6
+twe_major,VAR_1
+unregister_chrdev,FUNC_7
+tw_remove,FUNC_8
+pdev,VAR_2
+host,VAR_3
+tw_dev,VAR_4

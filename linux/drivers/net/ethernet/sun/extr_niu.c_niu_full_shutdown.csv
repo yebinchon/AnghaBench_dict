@@ -1,0 +1,10 @@
+cancel_work_sync,FUNC_0
+del_timer_sync,FUNC_1
+netif_tx_stop_all_queues,FUNC_2
+niu_disable_napi,FUNC_3
+niu_stop_hw,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+niu_full_shutdown,FUNC_7
+np,VAR_0
+dev,VAR_1

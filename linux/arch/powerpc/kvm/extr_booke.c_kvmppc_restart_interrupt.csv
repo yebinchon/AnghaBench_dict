@@ -1,0 +1,14 @@
+SPRN_DBSR,VAR_0
+WatchdogException,FUNC_0
+do_IRQ,FUNC_1
+doorbell_exception,FUNC_2
+kvmppc_clear_dbsr,FUNC_3
+kvmppc_fill_pt_regs,FUNC_4
+mfspr,FUNC_5
+performance_monitor_exception,FUNC_6
+timer_interrupt,FUNC_7
+unknown_exception,FUNC_8
+kvmppc_restart_interrupt,FUNC_9
+vcpu,VAR_1
+exit_nr,VAR_2
+regs,VAR_3

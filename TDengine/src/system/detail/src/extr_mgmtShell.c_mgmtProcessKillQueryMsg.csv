@@ -1,0 +1,10 @@
+TSDB_CODE_NO_RIGHTS,VAR_0
+TSDB_MSG_TYPE_KILL_QUERY_RSP,VAR_1
+mgmtKillQuery,FUNC_0
+taosSendSimpleRsp,FUNC_1
+mgmtProcessKillQueryMsg,FUNC_2
+pMsg,VAR_2
+msgLen,VAR_3
+pConn,VAR_4
+code,VAR_5
+pKill,VAR_6

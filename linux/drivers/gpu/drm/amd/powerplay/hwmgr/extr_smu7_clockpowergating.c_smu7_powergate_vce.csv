@@ -1,0 +1,14 @@
+AMD_CG_STATE_GATE,VAR_0
+AMD_CG_STATE_UNGATE,VAR_1
+AMD_IP_BLOCK_TYPE_VCE,VAR_2
+AMD_PG_STATE_GATE,VAR_3
+AMD_PG_STATE_UNGATE,VAR_4
+amdgpu_device_ip_set_clockgating_state,FUNC_0
+amdgpu_device_ip_set_powergating_state,FUNC_1
+smu7_powerdown_vce,FUNC_2
+smu7_powerup_vce,FUNC_3
+smu7_update_vce_dpm,FUNC_4
+smu7_powergate_vce,FUNC_5
+hwmgr,VAR_5
+bgate,VAR_6
+data,VAR_7

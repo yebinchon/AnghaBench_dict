@@ -1,0 +1,14 @@
+LWLockAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_EXCLUSIVE,VAR_0
+MaxTransactionId,VAR_1
+ShmemVariableCache,VAR_2
+SubtransControlLock,VAR_3
+TransactionIdToPage,FUNC_2
+XidFromFullTransactionId,FUNC_3
+ZeroSUBTRANSPage,FUNC_4
+StartupSUBTRANS,FUNC_5
+oldestActiveXID,VAR_4
+nextFullXid,VAR_5
+startPage,VAR_6
+endPage,VAR_7

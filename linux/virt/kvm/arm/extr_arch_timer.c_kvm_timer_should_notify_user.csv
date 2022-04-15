@@ -1,0 +1,14 @@
+KVM_ARM_DEV_EL1_PTIMER,VAR_0
+KVM_ARM_DEV_EL1_VTIMER,VAR_1
+irqchip_in_kernel,FUNC_0
+kvm_timer_should_fire,FUNC_1
+likely,FUNC_2
+vcpu_ptimer,FUNC_3
+vcpu_vtimer,FUNC_4
+kvm_timer_should_notify_user,FUNC_5
+vcpu,VAR_2
+vtimer,VAR_3
+ptimer,VAR_4
+sregs,VAR_5
+vlevel,VAR_6
+plevel,VAR_7

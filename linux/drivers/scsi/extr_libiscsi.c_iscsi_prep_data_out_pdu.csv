@@ -1,0 +1,11 @@
+ISCSI_FLAG_CMD_FINAL,VAR_0
+ISCSI_OP_SCSI_DATA_OUT,VAR_1
+cpu_to_be32,FUNC_0
+hton24,FUNC_1
+memset,FUNC_2
+iscsi_prep_data_out_pdu,FUNC_3
+task,VAR_2
+r2t,VAR_3
+hdr,VAR_4
+conn,VAR_5
+left,VAR_6

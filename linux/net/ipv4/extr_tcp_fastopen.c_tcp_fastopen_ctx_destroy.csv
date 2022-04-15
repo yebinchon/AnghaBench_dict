@@ -1,0 +1,10 @@
+call_rcu,FUNC_0
+lockdep_is_held,FUNC_1
+rcu_assign_pointer,FUNC_2
+rcu_dereference_protected,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+tcp_fastopen_ctx_free,VAR_0
+tcp_fastopen_ctx_destroy,FUNC_6
+net,VAR_1
+ctxt,VAR_2

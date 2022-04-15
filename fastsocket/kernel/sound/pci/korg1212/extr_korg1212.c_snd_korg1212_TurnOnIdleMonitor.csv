@@ -1,0 +1,11 @@
+INTERCOMMAND_DELAY,VAR_0
+K1212_DB_SelectPlayMode,VAR_1
+K1212_MODE_MonitorOn,VAR_2
+snd_korg1212_Send1212Command,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+udelay,FUNC_3
+snd_korg1212_TurnOnIdleMonitor,FUNC_4
+korg1212,VAR_3
+flags,VAR_4
+rc,VAR_5

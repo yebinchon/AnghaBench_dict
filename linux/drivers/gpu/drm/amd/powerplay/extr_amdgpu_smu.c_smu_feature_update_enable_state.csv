@@ -1,0 +1,12 @@
+SMU_MSG_DisableSmuFeaturesHigh,VAR_0
+SMU_MSG_DisableSmuFeaturesLow,VAR_1
+SMU_MSG_EnableSmuFeaturesHigh,VAR_2
+SMU_MSG_EnableSmuFeaturesLow,VAR_3
+smu_send_smc_msg_with_param,FUNC_0
+smu_feature_update_enable_state,FUNC_1
+smu,VAR_4
+feature_mask,VAR_5
+enabled,VAR_6
+feature_low,VAR_7
+feature_high,VAR_8
+ret,VAR_9

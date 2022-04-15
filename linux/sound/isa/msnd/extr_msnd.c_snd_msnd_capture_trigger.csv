@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+F_READING,VAR_1
+HDEX_RECORD_START,VAR_2
+HDEX_RECORD_STOP,VAR_3
+SNDRV_PCM_TRIGGER_START,VAR_4
+SNDRV_PCM_TRIGGER_STOP,VAR_5
+clear_bit,FUNC_0
+set_bit,FUNC_1
+snd_msnd_send_dsp_cmd,FUNC_2
+snd_pcm_substream_chip,FUNC_3
+snd_msnd_capture_trigger,FUNC_4
+substream,VAR_6
+cmd,VAR_7
+chip,VAR_8

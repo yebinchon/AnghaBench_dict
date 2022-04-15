@@ -1,0 +1,13 @@
+INTRL2_CPU_CLEAR,VAR_0
+P0_IRQ_OFF,VAR_1
+P7_IRQ_OFF,VAR_2
+P_IRQ_MASK,FUNC_0
+P_IRQ_OFF,FUNC_1
+intrl2_0_mask_set,FUNC_2
+intrl2_0_writel,FUNC_3
+intrl2_1_mask_set,FUNC_4
+intrl2_1_writel,FUNC_5
+bcm_sf2_port_intr_disable,FUNC_6
+priv,VAR_3
+port,VAR_4
+off,VAR_5

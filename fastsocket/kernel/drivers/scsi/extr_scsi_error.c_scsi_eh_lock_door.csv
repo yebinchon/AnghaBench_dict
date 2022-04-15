@@ -1,0 +1,14 @@
+ALLOW_MEDIUM_REMOVAL,VAR_0
+COMMAND_SIZE,FUNC_0
+GFP_KERNEL,VAR_1
+HZ,VAR_2
+READ,VAR_3
+REQ_QUIET,VAR_4
+REQ_TYPE_BLOCK_PC,VAR_5
+SCSI_REMOVAL_PREVENT,VAR_6
+blk_execute_rq_nowait,FUNC_1
+blk_get_request,FUNC_2
+eh_lock_door_done,VAR_7
+scsi_eh_lock_door,FUNC_3
+sdev,VAR_8
+req,VAR_9

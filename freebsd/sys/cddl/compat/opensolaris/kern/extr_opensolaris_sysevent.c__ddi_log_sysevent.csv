@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+DDI_SLEEP,VAR_0
+SE_SLEEP,VAR_1
+log_sysevent,FUNC_1
+sysevent_alloc,FUNC_2
+sysevent_attach_attributes,FUNC_3
+sysevent_detach_attributes,FUNC_4
+sysevent_free,FUNC_5
+_ddi_log_sysevent,FUNC_6
+vendor,VAR_2
+class,VAR_3
+subclass,VAR_4
+attr_list,VAR_5
+eidp,VAR_6
+flag,VAR_7
+ev,VAR_8
+ret,VAR_9

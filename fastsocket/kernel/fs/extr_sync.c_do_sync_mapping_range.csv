@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+PAGE_CACHE_SHIFT,VAR_1
+SYNC_FILE_RANGE_WAIT_AFTER,VAR_2
+SYNC_FILE_RANGE_WAIT_BEFORE,VAR_3
+SYNC_FILE_RANGE_WRITE,VAR_4
+WB_SYNC_ALL,VAR_5
+__filemap_fdatawrite_range,FUNC_0
+wait_on_page_writeback_range,FUNC_1
+do_sync_mapping_range,FUNC_2
+mapping,VAR_6
+offset,VAR_7
+endbyte,VAR_8
+flags,VAR_9
+ret,VAR_10

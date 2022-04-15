@@ -1,0 +1,12 @@
+DPNI_CMDID_REMOVE_FS_ENT,VAR_0
+cpu_to_le64,FUNC_0
+mc_encode_cmd_header,FUNC_1
+mc_send_command,FUNC_2
+dpni_remove_fs_entry,FUNC_3
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+tc_id,VAR_4
+cfg,VAR_5
+cmd_params,VAR_6
+cmd,VAR_7

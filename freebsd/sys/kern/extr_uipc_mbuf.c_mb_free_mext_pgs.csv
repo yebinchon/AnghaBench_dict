@@ -1,0 +1,9 @@
+MBUF_EXT_PGS_ASSERT,FUNC_0
+PHYS_TO_VM_PAGE,FUNC_1
+vm_page_free,FUNC_2
+vm_page_unwire_noq,FUNC_3
+mb_free_mext_pgs,FUNC_4
+m,VAR_0
+ext_pgs,VAR_1
+pg,VAR_2
+i,VAR_3

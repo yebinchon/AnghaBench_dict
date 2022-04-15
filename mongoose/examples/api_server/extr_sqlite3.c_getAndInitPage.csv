@@ -1,0 +1,16 @@
+SQLITE_CORRUPT,VAR_0
+SQLITE_CORRUPT_BKPT,VAR_1
+SQLITE_OK,VAR_2
+assert,FUNC_0
+btreeGetPage,FUNC_1
+btreeInitPage,FUNC_2
+btreePagecount,FUNC_3
+releasePage,FUNC_4
+sqlite3_mutex_held,FUNC_5
+testcase,FUNC_6
+getAndInitPage,FUNC_7
+pBt,VAR_3
+pgno,VAR_4
+ppPage,VAR_5
+bReadonly,VAR_6
+rc,VAR_7

@@ -1,0 +1,15 @@
+RQ_ENET_TYPE_NOT_SOP,VAR_0
+RQ_ENET_TYPE_ONLY_SOP,VAR_1
+VNIC_PADDR_TARGET,VAR_2
+rq_enet_desc_enc,FUNC_0
+vnic_rq_next_desc,FUNC_1
+vnic_rq_post,FUNC_2
+enic_queue_rq_desc,FUNC_3
+rq,VAR_3
+os_buf,VAR_4
+os_buf_index,VAR_5
+dma_addr,VAR_6
+len,VAR_7
+desc,VAR_8
+wrid,VAR_9
+type,VAR_10

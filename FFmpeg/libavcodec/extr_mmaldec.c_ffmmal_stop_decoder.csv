@@ -1,0 +1,16 @@
+MMAL_BUFFER_HEADER_FLAG_FRAME_END,VAR_0
+atomic_fetch_add,FUNC_0
+atomic_load,FUNC_1
+av_assert0,FUNC_2
+av_buffer_unref,FUNC_3
+av_free,FUNC_4
+mmal_buffer_header_release,FUNC_5
+mmal_port_disable,FUNC_6
+mmal_port_flush,FUNC_7
+mmal_queue_get,FUNC_8
+ffmmal_stop_decoder,FUNC_9
+avctx,VAR_1
+ctx,VAR_2
+decoder,VAR_3
+buffer,VAR_4
+buffer,VAR_5

@@ -1,0 +1,13 @@
+BIT,FUNC_0
+FM10K_RXDCTL,FUNC_1
+FM10K_RXDCTL_DROP_ON_EMPTY,VAR_0
+FM10K_RXDCTL_WRITE_BACK_MIN_DELAY,VAR_1
+fm10k_write_reg,FUNC_2
+fm10k_update_rx_drop_en,FUNC_3
+interface,VAR_2
+hw,VAR_3
+rx_pause,VAR_4
+i,VAR_5
+ring,VAR_6
+rxdctl,VAR_7
+reg_idx,VAR_8

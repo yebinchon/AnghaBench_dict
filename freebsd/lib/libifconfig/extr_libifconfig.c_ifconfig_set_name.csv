@@ -1,0 +1,15 @@
+AF_LOCAL,VAR_0
+ENOMEM,VAR_1
+OTHER,VAR_2
+SIOCSIFNAME,VAR_3
+free,FUNC_0
+ifconfig_ioctlwrap,FUNC_1
+memset,FUNC_2
+strdup,FUNC_3
+strlcpy,FUNC_4
+ifconfig_set_name,FUNC_5
+h,VAR_4
+name,VAR_5
+newname,VAR_6
+ifr,VAR_7
+tmpname,VAR_8

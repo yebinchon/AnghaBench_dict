@@ -1,0 +1,16 @@
+OMAP_DSS_VENC_TYPE_COMPOSITE,VAR_0
+VENC_OUTPUT_CONTROL,VAR_1
+dss_mgr_enable,FUNC_0
+dss_set_dac_pwrdn_bgz,FUNC_1
+dss_set_venc_output,FUNC_2
+regulator_disable,FUNC_3
+regulator_enable,FUNC_4
+venc_reset,FUNC_5
+venc_runtime_get,FUNC_6
+venc_runtime_put,FUNC_7
+venc_write_config,FUNC_8
+venc_write_reg,FUNC_9
+venc_power_on,FUNC_10
+venc,VAR_2
+l,VAR_3
+r,VAR_4

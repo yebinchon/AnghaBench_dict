@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+JME_RXUMA_HI,VAR_1
+JME_RXUMA_LO,VAR_2
+jwrite32,FUNC_0
+memcpy,FUNC_1
+netdev_priv,FUNC_2
+netif_running,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+jme_set_macaddr,FUNC_6
+netdev,VAR_3
+p,VAR_4
+jme,VAR_5
+addr,VAR_6
+val,VAR_7

@@ -1,0 +1,16 @@
+EFER_LMA,VAR_0
+EFER_LME,VAR_1
+VMCB_CR,VAR_2
+X86_CR0_CD,VAR_3
+X86_CR0_NW,VAR_4
+X86_CR0_PG,VAR_5
+X86_CR0_TS,VAR_6
+X86_CR0_WP,VAR_7
+is_paging,FUNC_0
+mark_dirty,FUNC_1
+npt_enabled,VAR_8
+to_svm,FUNC_2
+svm_set_cr0,FUNC_3
+vcpu,VAR_9
+cr0,VAR_10
+svm,VAR_11

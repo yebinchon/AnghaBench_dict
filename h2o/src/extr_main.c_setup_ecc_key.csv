@@ -1,0 +1,12 @@
+EC_KEY_free,FUNC_0
+EC_KEY_new_by_curve_name,FUNC_1
+NID_X9_62_prime256v1,VAR_0
+OBJ_nid2sn,FUNC_2
+SSL_CTX_set_ecdh_auto,FUNC_3
+SSL_CTX_set_tmp_ecdh,FUNC_4
+fprintf,FUNC_5
+stderr,VAR_1
+setup_ecc_key,FUNC_6
+ssl_ctx,VAR_2
+nid,VAR_3
+key,VAR_4

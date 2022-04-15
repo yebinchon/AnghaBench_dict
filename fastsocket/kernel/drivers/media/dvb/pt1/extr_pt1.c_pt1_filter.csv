@@ -1,0 +1,13 @@
+PT1_NR_ADAPS,VAR_0
+PT1_NR_UPACKETS,VAR_1
+dvb_dmx_swfilter_packets,FUNC_0
+le32_to_cpu,FUNC_1
+pt1_filter,FUNC_2
+pt1,VAR_2
+page,VAR_3
+upacket,VAR_4
+i,VAR_5
+index,VAR_6
+adap,VAR_7
+offset,VAR_8
+buf,VAR_9

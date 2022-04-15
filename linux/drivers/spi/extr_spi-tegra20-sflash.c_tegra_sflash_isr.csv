@@ -1,0 +1,12 @@
+DATA_DIR_RX,VAR_0
+DATA_DIR_TX,VAR_1
+SPI_RX_UNF,VAR_2
+SPI_STATUS,VAR_3
+SPI_TX_OVF,VAR_4
+handle_cpu_based_xfer,FUNC_0
+tegra_sflash_clear_status,FUNC_1
+tegra_sflash_readl,FUNC_2
+tegra_sflash_isr,FUNC_3
+irq,VAR_5
+context_data,VAR_6
+tsd,VAR_7

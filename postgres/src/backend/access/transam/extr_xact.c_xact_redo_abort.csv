@@ -1,0 +1,16 @@
+AdvanceNextFullTransactionIdPastXid,FUNC_0
+Assert,FUNC_1
+DropRelationFiles,FUNC_2
+ExpireTreeKnownAssignedTransactionIds,FUNC_3
+RecordKnownAssignedTransactionIds,FUNC_4
+STANDBY_DISABLED,VAR_0
+StandbyReleaseLockTree,FUNC_5
+TransactionIdAbortTree,FUNC_6
+TransactionIdIsValid,FUNC_7
+TransactionIdLatest,FUNC_8
+XACT_XINFO_HAS_AE_LOCKS,VAR_1
+standbyState,VAR_2
+xact_redo_abort,FUNC_9
+parsed,VAR_3
+xid,VAR_4
+max_xid,VAR_5

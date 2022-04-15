@@ -1,0 +1,14 @@
+SPIDER_IRQ_INVALID,VAR_0
+TIR_CS,VAR_1
+generic_handle_irq,FUNC_0
+in_be32,FUNC_1
+irq_desc_get_chip,FUNC_2
+irq_desc_get_handler_data,FUNC_3
+irq_linear_revmap,FUNC_4
+stub1,FUNC_5
+spider_irq_cascade,FUNC_6
+desc,VAR_2
+chip,VAR_3
+pic,VAR_4
+cs,VAR_5
+virq,VAR_6

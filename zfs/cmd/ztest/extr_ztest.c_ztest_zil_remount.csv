@@ -1,0 +1,15 @@
+VERIFY,FUNC_0
+mutex_enter,FUNC_1
+mutex_exit,FUNC_2
+pthread_rwlock_unlock,FUNC_3
+pthread_rwlock_wrlock,FUNC_4
+zil_close,FUNC_5
+zil_open,FUNC_6
+zil_replay,FUNC_7
+ztest_get_data,VAR_0
+ztest_replay_vector,VAR_1
+ztest_vdev_lock,VAR_2
+ztest_zil_remount,FUNC_8
+zd,VAR_3
+id,VAR_4
+os,VAR_5

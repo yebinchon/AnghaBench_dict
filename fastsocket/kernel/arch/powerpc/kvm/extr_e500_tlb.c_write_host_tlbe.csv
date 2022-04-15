@@ -1,0 +1,15 @@
+MAS0_ESEL,FUNC_0
+MAS0_TLBSEL,FUNC_1
+SPRN_MAS0,VAR_0
+__write_host_tlbe,FUNC_2
+local_irq_disable,FUNC_3
+local_irq_enable,FUNC_4
+mfspr,FUNC_5
+mtspr,FUNC_6
+to_htlb1_esel,FUNC_7
+write_host_tlbe,FUNC_8
+vcpu_e500,VAR_1
+tlbsel,VAR_2
+esel,VAR_3
+stlbe,VAR_4
+mas0,VAR_5

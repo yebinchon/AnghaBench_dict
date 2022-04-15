@@ -1,0 +1,17 @@
+LUA_OK,VAR_0
+docall,FUNC_0
+luaL_loadfile,FUNC_1
+lua_getglobal,FUNC_2
+lua_isnil,FUNC_3
+lua_istable,FUNC_4
+lua_pop,FUNC_5
+lua_rawgeti,FUNC_6
+lua_remove,FUNC_7
+report,FUNC_8
+strcmp,FUNC_9
+handle_script,FUNC_10
+L,VAR_1
+argx,VAR_2
+status,VAR_3
+fname,VAR_4
+narg,VAR_5

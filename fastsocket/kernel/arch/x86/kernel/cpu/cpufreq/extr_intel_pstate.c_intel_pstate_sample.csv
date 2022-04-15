@@ -1,0 +1,14 @@
+MSR_IA32_APERF,VAR_0
+MSR_IA32_MPERF,VAR_1
+SAMPLE_COUNT,VAR_2
+get_cpu_idle_time_us,FUNC_0
+intel_pstate_calc_busy,FUNC_1
+ktime_get,FUNC_2
+ktime_us_delta,FUNC_3
+rdmsrl,FUNC_4
+intel_pstate_sample,FUNC_5
+cpu,VAR_3
+now,VAR_4
+idle_time_us,VAR_5
+aperf,VAR_6
+mperf,VAR_7

@@ -1,0 +1,17 @@
+OCFS2_XATTR_INDEXED,VAR_0
+brelse,FUNC_0
+le16_to_cpu,FUNC_1
+le64_to_cpu,FUNC_2
+mlog_errno,FUNC_3
+ocfs2_read_xattr_block,FUNC_4
+ocfs2_xattr_list_entries,FUNC_5
+ocfs2_xattr_tree_list_index_block,FUNC_6
+ocfs2_xattr_block_list,FUNC_7
+inode,VAR_1
+di,VAR_2
+buffer,VAR_3
+buffer_size,VAR_4
+blk_bh,VAR_5
+xb,VAR_6
+ret,VAR_7
+header,VAR_8

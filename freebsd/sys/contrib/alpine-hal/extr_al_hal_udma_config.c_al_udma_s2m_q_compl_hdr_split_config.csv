@@ -1,0 +1,12 @@
+AL_TRUE,VAR_0
+UDMA_S2M_Q_PKT_CFG_EN_HDR_SPLIT,VAR_1
+UDMA_S2M_Q_PKT_CFG_FORCE_HDR_SPLIT,VAR_2
+UDMA_S2M_Q_PKT_CFG_HDR_SPLIT_SIZE_MASK,VAR_3
+al_reg_read32,FUNC_0
+al_reg_write32,FUNC_1
+al_udma_s2m_q_compl_hdr_split_config,FUNC_2
+udma_q,VAR_4
+enable,VAR_5
+force_hdr_split,VAR_6
+hdr_len,VAR_7
+reg,VAR_8

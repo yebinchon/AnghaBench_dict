@@ -1,0 +1,17 @@
+CARRY_ON,VAR_0
+NO_DISK_SPACE,VAR_1
+REISERFS_SB,FUNC_0
+SB_BLOCK_COUNT,FUNC_1
+SB_FREE_BLOCKS,FUNC_2
+blocknrs_and_prealloc_arrays_from_search_start,FUNC_3
+determine_search_start,FUNC_4
+reiserfs_free_block,FUNC_5
+use_preallocated_list_if_available,FUNC_6
+reiserfs_allocate_blocknrs,FUNC_7
+hint,VAR_2
+new_blocknrs,VAR_3
+amount_needed,VAR_4
+reserved_by_us,VAR_5
+initial_amount_needed,VAR_6
+ret,VAR_7
+s,VAR_8

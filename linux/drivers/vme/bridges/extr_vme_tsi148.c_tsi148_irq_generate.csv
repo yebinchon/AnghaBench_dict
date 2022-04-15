@@ -1,0 +1,15 @@
+TSI148_LCSR_VICR,VAR_0
+TSI148_LCSR_VICR_IRQL,VAR_1
+TSI148_LCSR_VICR_STID_M,VAR_2
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+tsi148_iack_received,FUNC_4
+wait_event_interruptible,FUNC_5
+tsi148_irq_generate,FUNC_6
+tsi148_bridge,VAR_3
+level,VAR_4
+statid,VAR_5
+tmp,VAR_6
+bridge,VAR_7

@@ -1,0 +1,13 @@
+EAGAIN,VAR_0
+MSG_DONTWAIT,VAR_1
+MSG_EOR,VAR_2
+NVME_TCP_DIGEST_LENGTH,VAR_3
+kernel_sendmsg,FUNC_0
+nvme_tcp_done_send_req,FUNC_1
+unlikely,FUNC_2
+nvme_tcp_try_send_ddgst,FUNC_3
+req,VAR_4
+queue,VAR_5
+ret,VAR_6
+msg,VAR_7
+iov,VAR_8

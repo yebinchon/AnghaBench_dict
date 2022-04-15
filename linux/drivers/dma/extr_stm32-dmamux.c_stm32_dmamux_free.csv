@@ -1,0 +1,15 @@
+STM32_DMAMUX_CCR,FUNC_0
+clear_bit,FUNC_1
+dev_dbg,FUNC_2
+dev_get_drvdata,FUNC_3
+kfree,FUNC_4
+pm_runtime_put_sync,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+stm32_dmamux_write,FUNC_8
+stm32_dmamux_free,FUNC_9
+dev,VAR_0
+route_data,VAR_1
+dmamux,VAR_2
+mux,VAR_3
+flags,VAR_4

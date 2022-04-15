@@ -1,0 +1,16 @@
+TXBB_SIZE,VAR_0
+bpf_prog_put,FUNC_0
+kfree,FUNC_1
+kvfree,FUNC_2
+lockdep_is_held,FUNC_3
+mlx4_free_hwq_res,FUNC_4
+rcu_dereference_protected,FUNC_5
+xdp_rxq_info_unreg,FUNC_6
+mlx4_en_destroy_rx_ring,FUNC_7
+priv,VAR_1
+pring,VAR_2
+size,VAR_3
+stride,VAR_4
+mdev,VAR_5
+ring,VAR_6
+old_prog,VAR_7

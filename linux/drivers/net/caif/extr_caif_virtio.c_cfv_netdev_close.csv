@@ -1,0 +1,16 @@
+cfv_destroy_genpool,FUNC_0
+cfv_release_used_buf,FUNC_1
+free_buf_info,FUNC_2
+napi_disable,FUNC_3
+netdev_priv,FUNC_4
+netif_carrier_off,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+virtqueue_detach_unused_buf,FUNC_8
+virtqueue_disable_cb,FUNC_9
+vringh_notify_disable_kern,FUNC_10
+cfv_netdev_close,FUNC_11
+netdev,VAR_0
+cfv,VAR_1
+flags,VAR_2
+buf_info,VAR_3

@@ -1,0 +1,13 @@
+ATA_PORT_COMMAND,VAR_0
+ATA_STATUS_ERR_BIT,VAR_1
+MAX_NO_ERROR_LOOPS,VAR_2
+SATA_INT_STATUS_ERROR_BIT,VAR_3
+SATA_INT_STATUS_OFF,VAR_4
+ide_inb,FUNC_0
+printf,FUNC_1
+sata_regs_base,VAR_5
+udelay,FUNC_2
+wait_no_error,FUNC_3
+device,VAR_6
+status,VAR_7
+loops,VAR_8

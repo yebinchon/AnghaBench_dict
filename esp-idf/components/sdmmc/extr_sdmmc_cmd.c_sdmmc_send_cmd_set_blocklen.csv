@@ -1,0 +1,8 @@
+MMC_SET_BLOCKLEN,VAR_0
+SCF_CMD_AC,VAR_1
+SCF_RSP_R1,VAR_2
+sdmmc_send_cmd,FUNC_0
+sdmmc_send_cmd_set_blocklen,FUNC_1
+card,VAR_3
+csd,VAR_4
+cmd,VAR_5

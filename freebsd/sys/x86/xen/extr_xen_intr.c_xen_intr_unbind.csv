@@ -1,0 +1,11 @@
+KASSERT,FUNC_0
+intr_remove_handler,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+refcount_release,FUNC_4
+xen_intr_isrc,FUNC_5
+xen_intr_isrc_lock,VAR_0
+xen_intr_release_isrc,FUNC_6
+xen_intr_unbind,FUNC_7
+port_handlep,VAR_1
+isrc,VAR_2

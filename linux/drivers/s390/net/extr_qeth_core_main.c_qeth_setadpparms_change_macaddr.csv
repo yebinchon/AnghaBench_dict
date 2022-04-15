@@ -1,0 +1,17 @@
+CHANGE_ADDR_READ_MAC,VAR_0
+ENOMEM,VAR_1
+ETH_ALEN,VAR_2
+IPA_SETADP_ALTER_MAC_ADDRESS,VAR_3
+QETH_CARD_TEXT,FUNC_0
+SETADP_DATA_SIZEOF,FUNC_1
+__ipa_cmd,FUNC_2
+change_addr,VAR_4
+ether_addr_copy,FUNC_3
+qeth_get_adapter_cmd,FUNC_4
+qeth_send_ipa_cmd,FUNC_5
+qeth_setadpparms_change_macaddr_cb,VAR_5
+qeth_setadpparms_change_macaddr,FUNC_6
+card,VAR_6
+rc,VAR_7
+iob,VAR_8
+cmd,VAR_9

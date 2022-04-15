@@ -1,0 +1,7 @@
+__i8259a_disable_irq,FUNC_0
+i8259_irq_lock,VAR_0
+outb,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+i8259a_mask_and_ack_irq,FUNC_4
+irq,VAR_1

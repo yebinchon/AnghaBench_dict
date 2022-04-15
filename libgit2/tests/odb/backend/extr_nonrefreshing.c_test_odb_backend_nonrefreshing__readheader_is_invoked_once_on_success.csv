@@ -1,0 +1,11 @@
+_existing_oid,VAR_0
+_fake,VAR_1
+_repo,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_odb_read_header,FUNC_2
+git_repository_odb__weakptr,FUNC_3
+test_odb_backend_nonrefreshing__readheader_is_invoked_once_on_success,FUNC_4
+odb,VAR_3
+len,VAR_4
+type,VAR_5

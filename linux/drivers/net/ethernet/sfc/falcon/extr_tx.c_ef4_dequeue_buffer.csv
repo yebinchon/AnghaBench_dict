@@ -1,0 +1,15 @@
+DMA_TO_DEVICE,VAR_0
+EF4_TX_BUF_MAP_SINGLE,VAR_1
+EF4_TX_BUF_SKB,VAR_2
+dev_consume_skb_any,FUNC_0
+dma_unmap_page,FUNC_1
+dma_unmap_single,FUNC_2
+netif_vdbg,FUNC_3
+tx_done,VAR_3
+ef4_dequeue_buffer,FUNC_4
+tx_queue,VAR_4
+buffer,VAR_5
+pkts_compl,VAR_6
+bytes_compl,VAR_7
+dma_dev,VAR_8
+unmap_addr,VAR_9

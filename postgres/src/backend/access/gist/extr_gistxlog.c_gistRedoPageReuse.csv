@@ -1,0 +1,14 @@
+InHotStandby,VAR_0
+MaxTransactionId,VAR_1
+ReadNextFullTransactionId,FUNC_0
+ResolveRecoveryConflictWithSnapshot,FUNC_1
+U64FromFullTransactionId,FUNC_2
+XLogRecGetData,FUNC_3
+XidFromFullTransactionId,FUNC_4
+gistRedoPageReuse,FUNC_5
+record,VAR_2
+xlrec,VAR_3
+latestRemovedFullXid,VAR_4
+nextFullXid,VAR_5
+diff,VAR_6
+latestRemovedXid,VAR_7

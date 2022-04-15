@@ -1,0 +1,9 @@
+IRQ_INTERNAL_BASE,VAR_0
+PERF_IRQMASK_REG,VAR_1
+PERF_IRQSTAT_REG,VAR_2
+bcm_perf_readl,FUNC_0
+do_IRQ,FUNC_1
+bcm63xx_irq_dispatch_internal,FUNC_2
+pending,VAR_3
+i,VAR_4
+to_call,VAR_5

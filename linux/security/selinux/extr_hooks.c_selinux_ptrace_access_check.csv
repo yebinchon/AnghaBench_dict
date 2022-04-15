@@ -1,0 +1,14 @@
+FILE__READ,VAR_0
+PROCESS__PTRACE,VAR_1
+PTRACE_MODE_READ,VAR_2
+SECCLASS_FILE,VAR_3
+SECCLASS_PROCESS,VAR_4
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_state,VAR_5
+task_sid,FUNC_2
+selinux_ptrace_access_check,FUNC_3
+child,VAR_6
+mode,VAR_7
+sid,VAR_8
+csid,VAR_9

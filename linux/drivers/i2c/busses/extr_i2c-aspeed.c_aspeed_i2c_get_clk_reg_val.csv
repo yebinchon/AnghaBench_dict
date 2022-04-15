@@ -1,0 +1,16 @@
+ASPEED_I2CD_TIME_BASE_DIVISOR_MASK,VAR_0
+ASPEED_I2CD_TIME_SCL_HIGH_MASK,VAR_1
+ASPEED_I2CD_TIME_SCL_HIGH_SHIFT,VAR_2
+ASPEED_I2CD_TIME_SCL_LOW_MASK,VAR_3
+ASPEED_I2CD_TIME_SCL_LOW_SHIFT,VAR_4
+dev_err,FUNC_0
+ilog2,FUNC_1
+aspeed_i2c_get_clk_reg_val,FUNC_2
+dev,VAR_5
+clk_high_low_mask,VAR_6
+divisor,VAR_7
+base_clk_divisor,VAR_8
+clk_high_low_max,VAR_9
+clk_high,VAR_10
+clk_low,VAR_11
+tmp,VAR_12

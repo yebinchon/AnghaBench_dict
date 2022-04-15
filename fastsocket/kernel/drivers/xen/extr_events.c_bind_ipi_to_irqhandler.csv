@@ -1,0 +1,13 @@
+IRQF_NO_SUSPEND,VAR_0
+bind_ipi_to_irq,FUNC_0
+request_irq,FUNC_1
+unbind_from_irq,FUNC_2
+bind_ipi_to_irqhandler,FUNC_3
+ipi,VAR_1
+cpu,VAR_2
+handler,VAR_3
+irqflags,VAR_4
+devname,VAR_5
+dev_id,VAR_6
+irq,VAR_7
+retval,VAR_8

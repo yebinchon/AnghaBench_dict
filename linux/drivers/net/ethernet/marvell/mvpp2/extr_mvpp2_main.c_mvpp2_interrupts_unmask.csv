@@ -1,0 +1,11 @@
+MVPP2_CAUSE_MISC_SUM_MASK,VAR_0
+MVPP2_CAUSE_RXQ_OCCUP_DESC_ALL_MASK,FUNC_0
+MVPP2_CAUSE_TXQ_OCCUP_DESC_ALL_MASK,VAR_1
+MVPP2_ISR_RX_TX_MASK_REG,FUNC_1
+mvpp2_cpu_to_thread,FUNC_2
+mvpp2_thread_write,FUNC_3
+smp_processor_id,FUNC_4
+mvpp2_interrupts_unmask,FUNC_5
+arg,VAR_2
+port,VAR_3
+val,VAR_4

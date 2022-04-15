@@ -1,0 +1,12 @@
+CMD_ASE,VAR_0
+CMD_PSE,VAR_1
+FOTG210_RH_RUNNING,VAR_2
+STS_ASS,VAR_3
+STS_PSS,VAR_4
+fotg210_writel,FUNC_0
+handshake,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+fotg210_quiesce,FUNC_4
+fotg210,VAR_5
+temp,VAR_6

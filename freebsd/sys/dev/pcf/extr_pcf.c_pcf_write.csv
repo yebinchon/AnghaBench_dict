@@ -1,0 +1,17 @@
+DEVTOSOFTC,FUNC_0
+IIC_ENOACK,VAR_0
+PCF_LOCK,FUNC_1
+PCF_UNLOCK,FUNC_2
+device_printf,FUNC_3
+pcf_noack,FUNC_4
+pcf_set_S0,FUNC_5
+pcf_wait_byte,FUNC_6
+pcf_write,FUNC_7
+dev,VAR_1
+buf,VAR_2
+len,VAR_3
+sent,VAR_4
+timeout,VAR_5
+sc,VAR_6
+bytes,VAR_7
+error,VAR_8

@@ -1,0 +1,13 @@
+CORGI_GPIO_MUTE_L,VAR_0
+CORGI_GPIO_MUTE_R,VAR_1
+CORGI_SPK_ON,VAR_2
+corgi_jack_func,VAR_3
+corgi_spk_func,VAR_4
+gpio_set_value,FUNC_0
+snd_soc_dapm_disable_pin_unlocked,FUNC_1
+snd_soc_dapm_enable_pin_unlocked,FUNC_2
+snd_soc_dapm_mutex_lock,FUNC_3
+snd_soc_dapm_mutex_unlock,FUNC_4
+snd_soc_dapm_sync_unlocked,FUNC_5
+corgi_ext_control,FUNC_6
+dapm,VAR_5

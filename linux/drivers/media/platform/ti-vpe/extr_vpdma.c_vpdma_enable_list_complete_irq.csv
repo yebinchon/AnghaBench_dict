@@ -1,0 +1,11 @@
+VPDMA_INTX_OFFSET,VAR_0
+VPDMA_INT_LIST0_MASK,VAR_1
+read_reg,FUNC_0
+write_reg,FUNC_1
+vpdma_enable_list_complete_irq,FUNC_2
+vpdma,VAR_2
+irq_num,VAR_3
+list_num,VAR_4
+enable,VAR_5
+reg_addr,VAR_6
+val,VAR_7

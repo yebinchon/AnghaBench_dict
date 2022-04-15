@@ -1,0 +1,13 @@
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+reset_control_assert,FUNC_2
+sdhci_pltfm_free,FUNC_3
+sdhci_pltfm_priv,FUNC_4
+sdhci_priv,FUNC_5
+sdhci_remove_host,FUNC_6
+usleep_range,FUNC_7
+sdhci_tegra_remove,FUNC_8
+pdev,VAR_0
+host,VAR_1
+pltfm_host,VAR_2
+tegra_host,VAR_3

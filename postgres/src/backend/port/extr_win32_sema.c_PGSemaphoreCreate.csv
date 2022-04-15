@@ -1,0 +1,16 @@
+Assert,FUNC_0
+CreateSemaphore,FUNC_1
+GetLastError,FUNC_2
+IsUnderPostmaster,VAR_0
+PANIC,VAR_1
+TRUE,VAR_2
+ZeroMemory,FUNC_3
+elog,FUNC_4
+ereport,FUNC_5
+errmsg,FUNC_6
+maxSems,VAR_3
+mySemSet,VAR_4
+numSems,VAR_5
+PGSemaphoreCreate,FUNC_7
+cur_handle,VAR_6
+sec_attrs,VAR_7

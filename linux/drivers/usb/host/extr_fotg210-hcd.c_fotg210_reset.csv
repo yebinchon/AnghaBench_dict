@@ -1,0 +1,14 @@
+CMD_RESET,VAR_0
+FOTG210_RH_HALTED,VAR_1
+dbg_cmd,FUNC_0
+dbgp_external_startup,FUNC_1
+dbgp_reset_prep,FUNC_2
+fotg210_readl,FUNC_3
+fotg210_to_hcd,FUNC_4
+fotg210_writel,FUNC_5
+handshake,FUNC_6
+jiffies,VAR_2
+fotg210_reset,FUNC_7
+fotg210,VAR_3
+retval,VAR_4
+command,VAR_5

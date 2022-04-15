@@ -1,0 +1,12 @@
+InvalidBlockNumber,VAR_0
+NBuffers,VAR_1
+RelationGetNumberOfBlocks,FUNC_0
+RelationGetRelid,FUNC_1
+RelationUsesLocalBuffers,FUNC_2
+SpinLockInit,FUNC_3
+pg_atomic_init_u64,FUNC_4
+synchronize_seqscans,VAR_2
+table_block_parallelscan_initialize,FUNC_5
+rel,VAR_3
+pscan,VAR_4
+bpscan,VAR_5

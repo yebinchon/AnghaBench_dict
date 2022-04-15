@@ -1,0 +1,15 @@
+ExAllocatePoolWithTag,VAR_0
+ExFreePool,VAR_1
+KeInitializeSpinLock,FUNC_0
+LOOKASIDE_DEPTH,VAR_2
+NonPagedPool,VAR_3
+bzero,FUNC_1
+ntoskrnl_findwrap,FUNC_2
+ExInitializeNPagedLookasideList,FUNC_3
+lookaside,VAR_4
+allocfunc,VAR_5
+freefunc,VAR_6
+flags,VAR_7
+size,VAR_8
+tag,VAR_9
+depth,VAR_10

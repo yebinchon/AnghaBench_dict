@@ -1,0 +1,14 @@
+PVCALLS_POLL,VAR_0
+RING_GET_RESPONSE,FUNC_0
+RING_PUSH_RESPONSES_AND_CHECK_NOTIFY,FUNC_1
+notify_remote_via_irq,FUNC_2
+queue_work,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+pvcalls_pass_sk_data_ready,FUNC_6
+sock,VAR_1
+mappass,VAR_2
+fedata,VAR_3
+rsp,VAR_4
+flags,VAR_5
+notify,VAR_6

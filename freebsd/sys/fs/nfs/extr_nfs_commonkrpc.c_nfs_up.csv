@@ -1,0 +1,14 @@
+NFSSTA_LOCKTIMEO,VAR_0
+NFSSTA_TIMEO,VAR_1
+VQ_NOTRESP,VAR_2
+VQ_NOTRESPLOCK,VAR_3
+mtx_lock,FUNC_0
+mtx_unlock,FUNC_1
+nfs_msg,FUNC_2
+vfs_event_signal,FUNC_3
+nfs_up,FUNC_4
+nmp,VAR_4
+td,VAR_5
+msg,VAR_6
+flags,VAR_7
+tprintfmsg,VAR_8

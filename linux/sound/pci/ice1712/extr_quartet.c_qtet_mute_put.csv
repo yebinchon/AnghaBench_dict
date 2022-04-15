@@ -1,0 +1,15 @@
+AK4620_DEEMVOL_REG,VAR_0
+AK4620_SMUTE,VAR_1
+SCR_MUTE,VAR_2
+get_scr,FUNC_0
+qtet_akm_set_regs,FUNC_1
+set_scr,FUNC_2
+snd_kcontrol_chip,FUNC_3
+qtet_mute_put,FUNC_4
+kcontrol,VAR_3
+ucontrol,VAR_4
+ice,VAR_5
+old,VAR_6
+new,VAR_7
+smute,VAR_8
+ak,VAR_9

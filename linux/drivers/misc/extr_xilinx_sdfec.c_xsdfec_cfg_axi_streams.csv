@@ -1,0 +1,16 @@
+XSDFEC_AXIS_DIN_WIDTH_LSB,VAR_0
+XSDFEC_AXIS_DIN_WORDS_LSB,VAR_1
+XSDFEC_AXIS_DOUT_WIDTH_LSB,VAR_2
+XSDFEC_AXIS_DOUT_WORDS_LSB,VAR_3
+XSDFEC_AXIS_WIDTH_ADDR,VAR_4
+xsdfec_regwrite,FUNC_0
+xsdfec_translate_axis_width_cfg_val,FUNC_1
+xsdfec_translate_axis_words_cfg_val,FUNC_2
+xsdfec_cfg_axi_streams,FUNC_3
+xsdfec,VAR_5
+reg_value,VAR_6
+dout_words_field,VAR_7
+dout_width_field,VAR_8
+din_words_field,VAR_9
+din_width_field,VAR_10
+config,VAR_11

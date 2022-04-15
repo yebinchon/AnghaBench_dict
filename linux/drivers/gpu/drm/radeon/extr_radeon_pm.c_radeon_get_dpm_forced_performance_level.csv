@@ -1,0 +1,14 @@
+DRM_SWITCH_POWER_ON,VAR_0
+PAGE_SIZE,VAR_1
+RADEON_DPM_FORCED_LEVEL_AUTO,VAR_2
+RADEON_DPM_FORCED_LEVEL_LOW,VAR_3
+RADEON_IS_PX,VAR_4
+dev_get_drvdata,FUNC_0
+snprintf,FUNC_1
+radeon_get_dpm_forced_performance_level,FUNC_2
+dev,VAR_5
+attr,VAR_6
+buf,VAR_7
+ddev,VAR_8
+rdev,VAR_9
+level,VAR_10

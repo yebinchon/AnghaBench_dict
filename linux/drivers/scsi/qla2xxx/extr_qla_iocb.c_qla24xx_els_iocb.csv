@@ -1,0 +1,13 @@
+ELS_IOCB_TYPE,VAR_0
+EST_SOFI3,VAR_1
+SRB_ELS_CMD_RPT,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+put_unaligned_le64,FUNC_2
+sg_dma_address,FUNC_3
+sg_dma_len,FUNC_4
+qla24xx_els_iocb,FUNC_5
+sp,VAR_3
+els_iocb,VAR_4
+bsg_job,VAR_5
+bsg_request,VAR_6

@@ -1,0 +1,13 @@
+RIO_GLOBAL_TABLE,VAR_0
+RIO_STD_RTE_CONF_DESTID_SEL_CSR,VAR_1
+RIO_STD_RTE_CONF_PORT_SEL_CSR,VAR_2
+rio_mport_read_config_32,FUNC_0
+rio_mport_write_config_32,FUNC_1
+rio_std_route_get_entry,FUNC_2
+mport,VAR_3
+destid,VAR_4
+hopcount,VAR_5
+table,VAR_6
+route_destid,VAR_7
+route_port,VAR_8
+result,VAR_9

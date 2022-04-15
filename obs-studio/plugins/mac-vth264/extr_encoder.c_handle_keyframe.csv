@@ -1,0 +1,16 @@
+CMVideoFormatDescriptionGetH264ParameterSetAtIndex,FUNC_0
+LOG_ERROR,VAR_0
+log_osstatus,FUNC_1
+noErr,VAR_1
+packet_put,FUNC_2
+packet_put_startcode,FUNC_3
+handle_keyframe,FUNC_4
+enc,VAR_2
+format_desc,VAR_3
+param_count,VAR_4
+packet,VAR_5
+extra_data,VAR_6
+code,VAR_7
+param,VAR_8
+param_size,VAR_9
+i,VAR_10

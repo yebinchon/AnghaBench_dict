@@ -1,0 +1,16 @@
+ATOM_FIRMWARE_CAP_SRAM_ECC,VAR_0
+amdgpu_atom_parse_data_header,FUNC_0
+atom_master_list_of_data_tables_v2_1,VAR_1
+firmwareinfo,VAR_2
+get_index_into_master_table,FUNC_1
+le32_to_cpu,FUNC_2
+amdgpu_atomfirmware_sram_ecc_supported,FUNC_3
+adev,VAR_3
+mode_info,VAR_4
+index,VAR_5
+data_offset,VAR_6
+size,VAR_7
+firmware_info,VAR_8
+frev,VAR_9
+crev,VAR_10
+sram_ecc_supported,VAR_11

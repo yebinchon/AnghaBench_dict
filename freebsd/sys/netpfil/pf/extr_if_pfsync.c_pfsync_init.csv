@@ -1,0 +1,10 @@
+IPPROTO_PFSYNC,VAR_0
+PF_INET,VAR_1
+SOCK_RAW,VAR_2
+in_pfsync_protosw,VAR_3
+ipproto_register,FUNC_0
+pf_proto_register,FUNC_1
+pf_proto_unregister,FUNC_2
+pfsync_detach_ifnet,VAR_4
+pfsync_detach_ifnet_ptr,VAR_5
+pfsync_init,FUNC_3

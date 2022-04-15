@@ -1,0 +1,13 @@
+ST_NCI_APDU_READER_GATE,VAR_0
+ST_NCI_ESE_HOST_ID,VAR_1
+ST_NCI_EVT_SE_SOFT_RESET,VAR_2
+ST_NCI_SE_MODE_ON,VAR_3
+nci_hci_send_event,FUNC_0
+nfc_remove_se,FUNC_1
+pr_debug,FUNC_2
+st_nci_control_se,FUNC_3
+st_nci_se_get_atr,FUNC_4
+st_nci_enable_se,FUNC_5
+ndev,VAR_4
+se_idx,VAR_5
+r,VAR_6

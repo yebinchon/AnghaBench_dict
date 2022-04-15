@@ -1,0 +1,13 @@
+NLE_BAD_SOCK,VAR_0
+NL_SOCK_BUFSIZE_SET,VAR_1
+SOL_SOCKET,VAR_2
+SO_RCVBUF,VAR_3
+SO_SNDBUF,VAR_4
+errno,VAR_5
+nl_syserr2nlerr,FUNC_0
+setsockopt,FUNC_1
+nl_socket_set_buffer_size,FUNC_2
+sk,VAR_6
+rxbuf,VAR_7
+txbuf,VAR_8
+err,VAR_9

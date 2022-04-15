@@ -1,0 +1,17 @@
+VFE_0_BUS_IMAGE_MASTER_n_WR_BUFFER_CFG,FUNC_0
+VFE_0_BUS_IMAGE_MASTER_n_WR_IMAGE_SIZE,FUNC_1
+vfe_get_wm_sizes,FUNC_2
+vfe_word_per_line_by_bytes,FUNC_3
+vfe_word_per_line_by_pixel,FUNC_4
+writel_relaxed,FUNC_5
+vfe_wm_line_based,FUNC_6
+vfe,VAR_0
+wm,VAR_1
+pix,VAR_2
+plane,VAR_3
+enable,VAR_4
+reg,VAR_5
+width,VAR_6
+height,VAR_7
+bytesperline,VAR_8
+wpl,VAR_9

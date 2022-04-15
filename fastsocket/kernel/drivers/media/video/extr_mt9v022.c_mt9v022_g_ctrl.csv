@@ -1,0 +1,16 @@
+EIO,VAR_0
+MT9V022_AEC_AGC_ENABLE,VAR_1
+MT9V022_ANALOG_GAIN,VAR_2
+MT9V022_READ_MODE,VAR_3
+MT9V022_TOTAL_SHUTTER_WIDTH,VAR_4
+mt9v022_ops,VAR_5
+reg_read,FUNC_0
+soc_camera_find_qctrl,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+mt9v022_g_ctrl,FUNC_3
+sd,VAR_6
+ctrl,VAR_7
+client,VAR_8
+qctrl,VAR_9
+range,VAR_10
+data,VAR_11

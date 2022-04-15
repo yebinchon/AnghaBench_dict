@@ -1,0 +1,15 @@
+NL80211_DFS_UNAVAILABLE,VAR_0
+NL80211_RADAR_DETECTED,VAR_1
+cfg80211_sched_dfs_chan_update,FUNC_0
+cfg80211_set_dfs_state,FUNC_1
+cfg80211_wq,VAR_2
+memcpy,FUNC_2
+nl80211_radar_notify,FUNC_3
+queue_work,FUNC_4
+trace_cfg80211_radar_event,FUNC_5
+wiphy_to_rdev,FUNC_6
+cfg80211_radar_event,FUNC_7
+wiphy,VAR_3
+chandef,VAR_4
+gfp,VAR_5
+rdev,VAR_6

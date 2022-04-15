@@ -1,0 +1,16 @@
+CloseHandle,FUNC_0
+ConvertSidToStringSidW,FUNC_1
+ERROR_INSUFFICIENT_BUFFER,VAR_0
+GetCurrentProcess,FUNC_2
+GetLastError,FUNC_3
+GetTokenInformation,FUNC_4
+OpenProcessToken,FUNC_5
+TOKEN_QUERY,VAR_1
+TokenUser,VAR_2
+msi_alloc,FUNC_6
+msi_free,FUNC_7
+get_user_sid,FUNC_8
+token,VAR_3
+size,VAR_4
+user,VAR_5
+ret,VAR_6

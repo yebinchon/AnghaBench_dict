@@ -1,0 +1,17 @@
+BIT,FUNC_0
+EMAC_DEF_TX_CH,VAR_0
+EMAC_TXHDP,FUNC_1
+EMAC_TXINTMASKSET,VAR_1
+dev_err,FUNC_2
+emac_cleanup_txch,FUNC_3
+emac_init_txch,FUNC_4
+emac_int_disable,FUNC_5
+emac_int_enable,FUNC_6
+emac_stop_txch,FUNC_7
+emac_write,FUNC_8
+netdev_priv,FUNC_9
+netif_msg_tx_err,FUNC_10
+emac_dev_tx_timeout,FUNC_11
+ndev,VAR_2
+priv,VAR_3
+emac_dev,VAR_4

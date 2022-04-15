@@ -1,0 +1,15 @@
+PCI_POWERSTATE_D3,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_generic_suspend_child,FUNC_0
+bus_suspend_intr,FUNC_1
+device_get_ivars,FUNC_2
+pci_cfg_save,FUNC_3
+pci_do_power_suspend,VAR_2
+pci_set_power_child,FUNC_4
+resource_list_find,FUNC_5
+pci_suspend_child,FUNC_6
+dev,VAR_3
+child,VAR_4
+dinfo,VAR_5
+rle,VAR_6
+error,VAR_7

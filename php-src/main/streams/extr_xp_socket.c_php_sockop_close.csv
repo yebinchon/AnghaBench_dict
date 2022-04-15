@@ -1,0 +1,14 @@
+EINTR,VAR_0
+POLLOUT,VAR_1
+SHUT_RD,VAR_2
+SOCK_ERR,VAR_3
+closesocket,FUNC_0
+pefree,FUNC_1
+php_pollfd_for_ms,FUNC_2
+php_socket_errno,FUNC_3
+php_stream_is_persistent,FUNC_4
+shutdown,FUNC_5
+php_sockop_close,FUNC_6
+stream,VAR_4
+close_handle,VAR_5
+sock,VAR_6

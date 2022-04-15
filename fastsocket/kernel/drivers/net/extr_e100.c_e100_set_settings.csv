@@ -1,0 +1,12 @@
+BMCR_RESET,VAR_0
+MII_BMCR,VAR_1
+e100_configure,VAR_2
+e100_exec_cb,FUNC_0
+mdio_write,FUNC_1
+mii_ethtool_sset,FUNC_2
+netdev_priv,FUNC_3
+e100_set_settings,FUNC_4
+netdev,VAR_3
+cmd,VAR_4
+nic,VAR_5
+err,VAR_6

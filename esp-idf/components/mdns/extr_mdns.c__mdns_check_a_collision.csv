@@ -1,0 +1,13 @@
+MDNS_IF_MAX,VAR_0
+_mdns_dup_interface,FUNC_0
+_mdns_get_esp_netif,FUNC_1
+_mdns_get_other_if,FUNC_2
+esp_netif_get_ip_info,FUNC_3
+memcmp,FUNC_4
+_mdns_check_a_collision,FUNC_5
+ip,VAR_1
+tcpip_if,VAR_2
+if_ip_info,VAR_3
+other_ip_info,VAR_4
+ret,VAR_5
+other_if,VAR_6

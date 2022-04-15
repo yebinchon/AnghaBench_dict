@@ -1,0 +1,16 @@
+ESP_FAIL,VAR_0
+ESP_OK,VAR_1
+MDNS_SERVICE_LOCK,FUNC_0
+MDNS_SERVICE_STACK_DEPTH,VAR_2
+MDNS_SERVICE_UNLOCK,FUNC_1
+MDNS_TASK_AFFINITY,VAR_3
+MDNS_TASK_PRIORITY,VAR_4
+_mdns_service_semaphore,VAR_5
+_mdns_service_task,VAR_6
+_mdns_service_task_handle,VAR_7
+_mdns_start_timer,FUNC_2
+_mdns_stop_timer,FUNC_3
+vSemaphoreDelete,FUNC_4
+xSemaphoreCreateMutex,FUNC_5
+xTaskCreatePinnedToCore,FUNC_6
+_mdns_service_task_start,FUNC_7

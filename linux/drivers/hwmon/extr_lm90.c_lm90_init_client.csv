@@ -1,0 +1,17 @@
+LM90_FLAG_ADT7461_EXT,VAR_0
+LM90_REG_R_CONFIG1,VAR_1
+LM90_REG_R_CONVRATE,VAR_2
+adt7461,VAR_3
+devm_add_action_or_reset,FUNC_0
+lm90_read_reg,FUNC_1
+lm90_restore_conf,VAR_4
+lm90_set_convrate,FUNC_2
+lm90_update_confreg,FUNC_3
+max6680,VAR_5
+max6696,VAR_6
+tmp451,VAR_7
+lm90_init_client,FUNC_4
+client,VAR_8
+data,VAR_9
+config,VAR_10
+convrate,VAR_11

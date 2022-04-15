@@ -1,0 +1,12 @@
+DMA_CTRL_ACK,VAR_0
+DMA_DEV_TO_MEM,VAR_1
+DMA_PREP_INTERRUPT,VAR_2
+EBUSY,VAR_3
+__dma_rx_complete,VAR_4
+dma_async_issue_pending,FUNC_0
+dmaengine_prep_slave_single,FUNC_1
+dmaengine_submit,FUNC_2
+serial8250_rx_dma,FUNC_3
+p,VAR_5
+dma,VAR_6
+desc,VAR_7

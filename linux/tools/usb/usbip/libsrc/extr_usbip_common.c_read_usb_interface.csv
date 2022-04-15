@@ -1,0 +1,17 @@
+READ_ATTR,FUNC_0
+SYSFS_BUS_ID_SIZE,VAR_0
+bInterfaceClass,VAR_1
+bInterfaceProtocol,VAR_2
+bInterfaceSubClass,VAR_3
+err,FUNC_1
+snprintf,FUNC_2
+udev_context,VAR_4
+udev_device_new_from_subsystem_sysname,FUNC_3
+uint8_t,VAR_5
+read_usb_interface,FUNC_4
+udev,VAR_6
+i,VAR_7
+uinf,VAR_8
+busid,VAR_9
+size,VAR_10
+sif,VAR_11

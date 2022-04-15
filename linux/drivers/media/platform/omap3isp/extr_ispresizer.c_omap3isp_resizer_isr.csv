@@ -1,0 +1,14 @@
+RESZ_PAD_SINK,VAR_0
+RESZ_PAD_SOURCE,VAR_1
+V4L2_SUBDEV_FORMAT_ACTIVE,VAR_2
+__resizer_get_format,FUNC_0
+omap3isp_module_sync_is_stopping,FUNC_1
+resizer_isr_buffer,FUNC_2
+resizer_set_crop_params,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+omap3isp_resizer_isr,FUNC_6
+res,VAR_3
+informat,VAR_4
+outformat,VAR_5
+flags,VAR_6

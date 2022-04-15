@@ -1,0 +1,9 @@
+add_csum_hword,FUNC_0
+build_ip_csum,FUNC_1
+htons,FUNC_2
+build_udp_v6_csum,FUNC_3
+ip6h,VAR_0
+udph,VAR_1
+num_words,VAR_2
+pseudo_sum,VAR_3
+num_u16,VAR_4

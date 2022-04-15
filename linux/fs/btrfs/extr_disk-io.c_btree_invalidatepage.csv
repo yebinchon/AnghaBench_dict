@@ -1,0 +1,15 @@
+BTRFS_I,FUNC_0
+ClearPagePrivate,FUNC_1
+GFP_NOFS,VAR_0
+PagePrivate,FUNC_2
+btree_releasepage,FUNC_3
+btrfs_warn,FUNC_4
+extent_invalidatepage,FUNC_5
+page_offset,FUNC_6
+put_page,FUNC_7
+set_page_private,FUNC_8
+btree_invalidatepage,FUNC_9
+page,VAR_1
+offset,VAR_2
+length,VAR_3
+tree,VAR_4

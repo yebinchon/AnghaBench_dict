@@ -1,0 +1,14 @@
+BN_CTX_new,FUNC_0
+BN_new,FUNC_1
+ERR_clear_error,FUNC_2
+OPENSSL_INIT_LOAD_CRYPTO_STRINGS,VAR_0
+OPENSSL_init_crypto,FUNC_3
+b1,VAR_1
+b2,VAR_2
+b3,VAR_3
+b4,VAR_4
+b5,VAR_5
+ctx,VAR_6
+FuzzerInitialize,FUNC_4
+argc,VAR_7
+argv,VAR_8

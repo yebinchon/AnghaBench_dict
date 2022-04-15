@@ -1,0 +1,8 @@
+ClearPageChecked,FUNC_0
+EXT4_JOURNAL,FUNC_1
+block_invalidatepage,FUNC_2
+jbd2_journal_invalidatepage,FUNC_3
+ext4_invalidatepage,FUNC_4
+page,VAR_0
+offset,VAR_1
+journal,VAR_2

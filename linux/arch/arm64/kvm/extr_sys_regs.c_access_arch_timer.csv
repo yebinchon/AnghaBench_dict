@@ -1,0 +1,15 @@
+BUG,FUNC_0
+TIMER_PTIMER,VAR_0
+TIMER_REG_CTL,VAR_1
+TIMER_REG_CVAL,VAR_2
+TIMER_REG_TVAL,VAR_3
+kvm_arm_timer_read_sysreg,FUNC_1
+kvm_arm_timer_write_sysreg,FUNC_2
+reg_to_encoding,FUNC_3
+access_arch_timer,FUNC_4
+vcpu,VAR_4
+p,VAR_5
+r,VAR_6
+tmr,VAR_7
+treg,VAR_8
+reg,VAR_9

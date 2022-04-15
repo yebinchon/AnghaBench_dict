@@ -1,0 +1,13 @@
+IDT_NTGSIGNAL_SET,VAR_0
+IDT_NT_NTCTL,VAR_1
+IDT_NT_NTGSIGNAL,VAR_2
+IDT_NT_NTMTBLADDR,VAR_3
+IDT_NT_NTMTBLDATA,VAR_4
+IDT_SW_SEGSIGSTS,VAR_5
+idt_nt_write,FUNC_0
+idt_sw_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+idt_ntb_local_link_disable,FUNC_4
+ndev,VAR_6
+irqflags,VAR_7

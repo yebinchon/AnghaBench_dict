@@ -1,0 +1,12 @@
+IOCMD_FCPIM_LUNMASK_ADD,VAR_0
+IOCMD_FCPIM_LUNMASK_DELETE,VAR_1
+bfa_fcpim_lunmask_add,FUNC_0
+bfa_fcpim_lunmask_delete,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+bfad_iocmd_fcpim_cfg_lunmask,FUNC_4
+bfad,VAR_2
+cmd,VAR_3
+v_cmd,VAR_4
+iocmd,VAR_5
+flags,VAR_6

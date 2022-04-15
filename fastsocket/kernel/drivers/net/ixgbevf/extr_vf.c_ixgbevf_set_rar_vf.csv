@@ -1,0 +1,17 @@
+IXGBE_VF_SET_MAC_ADDR,VAR_0
+IXGBE_VT_MSGTYPE_CTS,VAR_1
+IXGBE_VT_MSGTYPE_NACK,VAR_2
+ixgbevf_get_mac_addr_vf,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+ixgbevf_set_rar_vf,FUNC_5
+hw,VAR_3
+index,VAR_4
+addr,VAR_5
+vmdq,VAR_6
+mbx,VAR_7
+msgbuf,VAR_8
+msg_addr,VAR_9
+ret_val,VAR_10

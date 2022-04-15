@@ -1,0 +1,14 @@
+IFF_DRV_RUNNING,VAR_0
+VTNET_RXQ_LOCK,FUNC_0
+VTNET_RXQ_UNLOCK,FUNC_1
+taskqueue_enqueue,FUNC_2
+vtnet_rxq_disable_intr,FUNC_3
+vtnet_rxq_enable_intr,FUNC_4
+vtnet_rxq_eof,FUNC_5
+vtnet_rxq_tq_intr,FUNC_6
+xrxq,VAR_1
+pending,VAR_2
+sc,VAR_3
+rxq,VAR_4
+ifp,VAR_5
+more,VAR_6

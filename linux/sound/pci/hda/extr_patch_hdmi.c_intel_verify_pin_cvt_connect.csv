@@ -1,0 +1,10 @@
+AC_VERB_GET_CONNECT_SEL,VAR_0
+AC_VERB_SET_CONNECT_SEL,VAR_1
+snd_hda_codec_read,FUNC_0
+snd_hda_codec_write_cache,FUNC_1
+intel_verify_pin_cvt_connect,FUNC_2
+codec,VAR_2
+per_pin,VAR_3
+pin_nid,VAR_4
+mux_idx,VAR_5
+curr,VAR_6

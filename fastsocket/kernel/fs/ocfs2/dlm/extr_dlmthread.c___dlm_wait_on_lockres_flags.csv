@@ -1,0 +1,16 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__set_current_state,FUNC_1
+add_wait_queue,FUNC_2
+assert_spin_locked,FUNC_3
+current,VAR_2
+remove_wait_queue,FUNC_4
+schedule,FUNC_5
+set_current_state,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+wait,VAR_3
+__dlm_wait_on_lockres_flags,FUNC_9
+res,VAR_4
+flags,VAR_5

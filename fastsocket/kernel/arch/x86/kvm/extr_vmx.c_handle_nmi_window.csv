@@ -1,0 +1,7 @@
+CPU_BASED_VIRTUAL_NMI_PENDING,VAR_0
+CPU_BASED_VM_EXEC_CONTROL,VAR_1
+vmcs_read32,FUNC_0
+vmcs_write32,FUNC_1
+handle_nmi_window,FUNC_2
+vcpu,VAR_2
+cpu_based_vm_exec_control,VAR_3

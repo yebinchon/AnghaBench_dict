@@ -1,0 +1,14 @@
+XCB_CONFIGURE_NOTIFY,VAR_0
+XCB_EVENT_MASK_STRUCTURE_NOTIFY,VAR_1
+XCB_NONE,VAR_2
+free,FUNC_0
+scalloc,FUNC_1
+xcb_flush,FUNC_2
+xcb_send_event,FUNC_3
+fake_configure_notify,FUNC_4
+conn,VAR_3
+r,VAR_4
+window,VAR_5
+border_width,VAR_6
+event,VAR_7
+generated_event,VAR_8

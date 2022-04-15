@@ -1,0 +1,10 @@
+ACPI_PROCESSOR_AGGREGATOR_NOTIFY,VAR_0
+ACPI_TYPE_BUFFER,VAR_1
+ACPI_TYPE_INTEGER,VAR_2
+acpi_evaluate_object,FUNC_0
+acpi_pad_ost,FUNC_1
+handle,VAR_3
+stat,VAR_4
+idle_cpus,VAR_5
+params,VAR_6
+arg_list,VAR_7

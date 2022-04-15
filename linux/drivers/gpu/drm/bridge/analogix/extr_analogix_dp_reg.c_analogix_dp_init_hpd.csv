@@ -1,0 +1,9 @@
+ANALOGIX_DP_SYS_CTL_3,VAR_0
+F_HPD,VAR_1
+HPD_CTRL,VAR_2
+analogix_dp_clear_hotplug_interrupts,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+analogix_dp_init_hpd,FUNC_3
+dp,VAR_3
+reg,VAR_4

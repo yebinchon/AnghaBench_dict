@@ -1,0 +1,13 @@
+DPRINT1,FUNC_0
+ERROR_SUCCESS,VAR_0
+GetUserSidStringFromToken,FUNC_1
+HKEY_USERS,VAR_1
+MAXIMUM_ALLOWED,VAR_2
+RegOpenKeyExW,FUNC_2
+RtlFreeUnicodeString,FUNC_3
+SetLastError,FUNC_4
+GetCurrentUserKey,FUNC_5
+hToken,VAR_3
+Error,VAR_4
+SidString,VAR_5
+hKey,VAR_6

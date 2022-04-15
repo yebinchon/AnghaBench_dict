@@ -1,0 +1,14 @@
+FPGA_PIC_IRQMASK,FUNC_0
+SOCRATES_FPGA_NUM_IRQS,VAR_0
+irq_linear_revmap,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+socrates_fpga_irqs,VAR_1
+socrates_fpga_pic_irq_host,VAR_2
+socrates_fpga_pic_lock,VAR_3
+socrates_fpga_pic_read,FUNC_4
+socrates_fpga_pic_get_irq,FUNC_5
+irq,VAR_4
+cause,VAR_5
+flags,VAR_6
+i,VAR_7

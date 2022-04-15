@@ -1,0 +1,16 @@
+EP_QUEUE_HEAD_IOS,VAR_0
+EP_QUEUE_HEAD_MAX_PKT_LEN_POS,VAR_1
+EP_QUEUE_HEAD_MULT_POS,VAR_2
+EP_QUEUE_HEAD_ZLT_SEL,VAR_3
+VDBG,FUNC_0
+cpu_to_le32,FUNC_1
+struct_ep_qh_setup,FUNC_2
+udc,VAR_4
+ep_num,VAR_5
+dir,VAR_6
+ep_type,VAR_7
+max_pkt_len,VAR_8
+zlt,VAR_9
+mult,VAR_10
+p_QH,VAR_11
+tmp,VAR_12

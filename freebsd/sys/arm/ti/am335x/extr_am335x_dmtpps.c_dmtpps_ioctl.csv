@@ -1,0 +1,12 @@
+dmtpps_set_hw_capture,FUNC_0
+mtx_lock_spin,FUNC_1
+mtx_unlock_spin,FUNC_2
+pps_ioctl,FUNC_3
+dmtpps_ioctl,FUNC_4
+dev,VAR_0
+cmd,VAR_1
+data,VAR_2
+flags,VAR_3
+td,VAR_4
+sc,VAR_5
+err,VAR_6

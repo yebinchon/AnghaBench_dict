@@ -1,0 +1,15 @@
+IIC_M_RD,VAR_0
+IIC_M_WR,VAR_1
+REGADDR,FUNC_0
+REGPAGE,FUNC_1
+device_printf,FUNC_2
+iicbus_transfer,FUNC_3
+tda19988_set_page,FUNC_4
+tda19988_block_read,FUNC_5
+sc,VAR_2
+addr,VAR_3
+data,VAR_4
+len,VAR_5
+reg,VAR_6
+result,VAR_7
+msg,VAR_8

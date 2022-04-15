@@ -1,0 +1,17 @@
+QCOM_DUMMY_VAL,VAR_0
+TLB_LOOP_TIMEOUT,VAR_1
+TLB_SPIN_COUNT,VAR_2
+arm_smmu_readl,FUNC_0
+arm_smmu_writel,FUNC_1
+cpu_relax,FUNC_2
+dev_err_ratelimited,FUNC_3
+sTLBGSTATUS_GSACTIVE,VAR_3
+udelay,FUNC_4
+__arm_smmu_tlb_sync,FUNC_5
+smmu,VAR_4
+page,VAR_5
+sync,VAR_6
+status,VAR_7
+spin_cnt,VAR_8
+delay,VAR_9
+reg,VAR_10

@@ -1,0 +1,11 @@
+AF_INTx_ENABLED,VAR_0
+AF_IRQ_ATTACHED,VAR_1
+AF_MSIX_ENABLED,VAR_2
+AF_MSI_ENABLED,VAR_3
+free_irq,FUNC_0
+pci_disable_msi,FUNC_1
+qla4_8xxx_disable_msix,FUNC_2
+test_and_clear_bit,FUNC_3
+test_bit,FUNC_4
+qla4xxx_free_irqs,FUNC_5
+ha,VAR_4

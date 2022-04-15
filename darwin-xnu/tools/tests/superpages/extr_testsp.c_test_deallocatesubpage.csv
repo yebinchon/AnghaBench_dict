@@ -1,0 +1,15 @@
+PAGE_SIZE,VAR_0
+SUPERPAGE_SIZE,VAR_1
+TRUE,VAR_2
+VM_FLAGS_ANYWHERE,VAR_3
+VM_FLAGS_SUPERPAGE_SIZE_2MB,VAR_4
+check_kr,FUNC_0
+check_nr,FUNC_1
+mach_task_self,FUNC_2
+mach_vm_allocate,FUNC_3
+mach_vm_deallocate,FUNC_4
+test_deallocatesubpage,FUNC_5
+kr,VAR_5
+ret,VAR_6
+addr,VAR_7
+size,VAR_8

@@ -1,0 +1,14 @@
+EFAULT,VAR_0
+EINVAL,VAR_1
+EPERM,VAR_2
+MCOUNT_INSN_SIZE,VAR_3
+flush_icache_range,FUNC_0
+memcmp,FUNC_1
+probe_kernel_read,FUNC_2
+probe_kernel_write,FUNC_3
+ftrace_modify_code,FUNC_4
+ip,VAR_4
+old_code,VAR_5
+new_code,VAR_6
+do_check,VAR_7
+replaced,VAR_8

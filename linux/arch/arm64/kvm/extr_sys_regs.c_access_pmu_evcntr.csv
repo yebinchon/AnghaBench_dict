@@ -1,0 +1,17 @@
+ARMV8_PMU_COUNTER_MASK,VAR_0
+ARMV8_PMU_CYCLE_IDX,VAR_1
+PMSELR_EL0,VAR_2
+__vcpu_sys_reg,FUNC_0
+kvm_arm_pmu_v3_ready,FUNC_1
+kvm_pmu_get_counter_value,FUNC_2
+kvm_pmu_set_counter_value,FUNC_3
+pmu_access_cycle_counter_el0_disabled,FUNC_4
+pmu_access_el0_disabled,FUNC_5
+pmu_access_event_counter_el0_disabled,FUNC_6
+pmu_counter_idx_valid,FUNC_7
+trap_raz_wi,FUNC_8
+access_pmu_evcntr,FUNC_9
+vcpu,VAR_3
+p,VAR_4
+r,VAR_5
+idx,VAR_6

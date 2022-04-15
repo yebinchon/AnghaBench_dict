@@ -1,0 +1,10 @@
+SUN4I_I2S_CTRL_GL_EN,VAR_0
+SUN4I_I2S_CTRL_REG,VAR_1
+SUN4I_I2S_CTRL_SDO_EN_MASK,VAR_2
+clk_disable_unprepare,FUNC_0
+dev_get_drvdata,FUNC_1
+regcache_cache_only,FUNC_2
+regmap_update_bits,FUNC_3
+sun4i_i2s_runtime_suspend,FUNC_4
+dev,VAR_3
+i2s,VAR_4

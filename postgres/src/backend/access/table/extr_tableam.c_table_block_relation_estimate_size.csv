@@ -1,0 +1,17 @@
+RelationGetNumberOfBlocks,FUNC_0
+get_rel_data_width,FUNC_1
+rint,FUNC_2
+table_block_relation_estimate_size,FUNC_3
+rel,VAR_0
+attr_widths,VAR_1
+pages,VAR_2
+tuples,VAR_3
+allvisfrac,VAR_4
+overhead_bytes_per_tuple,VAR_5
+usable_bytes_per_page,VAR_6
+curpages,VAR_7
+relpages,VAR_8
+reltuples,VAR_9
+relallvisible,VAR_10
+density,VAR_11
+tuple_width,VAR_12

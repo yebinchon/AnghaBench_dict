@@ -1,0 +1,11 @@
+MPI_CONFIG_PAGETYPE_RAID_PHYSDISK,VAR_0
+TRUE,VAR_1
+mpt2host_config_page_raid_phys_disk_0,FUNC_0
+mpt_prt,FUNC_1
+mpt_read_cfg_header,FUNC_2
+mpt_read_cur_cfg_page,FUNC_3
+mpt_refresh_raid_disk,FUNC_4
+mpt,VAR_2
+mpt_disk,VAR_3
+ioc_disk,VAR_4
+rv,VAR_5

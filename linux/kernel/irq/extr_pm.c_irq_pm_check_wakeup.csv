@@ -1,0 +1,10 @@
+IRQD_WAKEUP_ARMED,VAR_0
+IRQS_PENDING,VAR_1
+IRQS_SUSPENDED,VAR_2
+irq_desc_get_irq,FUNC_0
+irq_disable,FUNC_1
+irqd_clear,FUNC_2
+irqd_is_wakeup_armed,FUNC_3
+pm_system_irq_wakeup,FUNC_4
+irq_pm_check_wakeup,FUNC_5
+desc,VAR_3

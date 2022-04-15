@@ -1,0 +1,12 @@
+HCI_MGMT_EXT_INFO_EVENTS,VAR_0
+MGMT_EV_EXT_INFO_CHANGED,VAR_1
+append_eir_data_to_buf,FUNC_0
+cpu_to_le16,FUNC_1
+memset,FUNC_2
+mgmt_limited_event,FUNC_3
+ext_info_changed,FUNC_4
+hdev,VAR_2
+skip,VAR_3
+buf,VAR_4
+ev,VAR_5
+eir_len,VAR_6

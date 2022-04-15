@@ -1,0 +1,12 @@
+ALREADYACTIVE_SWITCH,VAR_0
+FORCEWAKEUP_SWITCH,VAR_1
+LOWPOWERSTATE_SWITCH,VAR_2
+PWRDM_HAS_LOWPOWERSTATECHANGE,VAR_3
+PWRDM_POWER_ON,VAR_4
+arch_pwrdm,VAR_5
+clkdm_deny_idle_nolock,FUNC_0
+_pwrdm_save_clkdm_state_and_activate,FUNC_1
+pwrdm,VAR_6
+curr_pwrst,VAR_7
+pwrst,VAR_8
+sleep_switch,VAR_9

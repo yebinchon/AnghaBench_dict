@@ -1,0 +1,15 @@
+BLISSBOX_PID,VAR_0
+BLISSBOX_VID,VAR_1
+config_get_array,FUNC_0
+config_get_int,FUNC_1
+string_is_empty,FUNC_2
+string_is_equal,FUNC_3
+input_autoconfigure_joypad_try_from_conf,FUNC_4
+conf,VAR_2
+params,VAR_3
+ident,VAR_4
+input_driver,VAR_5
+tmp_int,VAR_6
+input_vid,VAR_7
+input_pid,VAR_8
+score,VAR_9

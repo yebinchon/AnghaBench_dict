@@ -1,0 +1,12 @@
+NETEVENT_PMTU_UPDATE,VAR_0
+RTAX_LOCK,VAR_1
+RTAX_MTU,VAR_2
+call_netevent_notifiers,FUNC_0
+dst_metric_locked,FUNC_1
+dst_mtu,FUNC_2
+dst_set_expires,FUNC_3
+ip_rt_min_pmtu,VAR_3
+ip_rt_mtu_expires,VAR_4
+ip_rt_update_pmtu,FUNC_4
+dst,VAR_5
+mtu,VAR_6

@@ -1,0 +1,10 @@
+AC_PINSENSE_PRESENCE,VAR_0
+HDA_JACK_NOT_PRESENT,VAR_1
+HDA_JACK_PHANTOM,VAR_2
+HDA_JACK_PRESENT,VAR_3
+snd_hda_jack_tbl_get,FUNC_0
+snd_hda_pin_sense,FUNC_1
+snd_hda_jack_detect_state,FUNC_2
+codec,VAR_4
+nid,VAR_5
+jack,VAR_6

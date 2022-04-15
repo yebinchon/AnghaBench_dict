@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+O_CREAT,VAR_1
+O_EXCL,VAR_2
+O_WRONLY,VAR_3
+assert,FUNC_0
+git_buf_attach_notowned,FUNC_1
+git_buf_dispose,FUNC_2
+git_buf_joinpath,FUNC_3
+git_futils_writebuffer,FUNC_4
+git_worktree_is_locked,FUNC_5
+strlen,FUNC_6
+git_worktree_lock,FUNC_7
+wt,VAR_4
+reason,VAR_5
+buf,VAR_6
+path,VAR_7
+err,VAR_8

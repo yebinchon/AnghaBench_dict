@@ -1,0 +1,13 @@
+DEFAULT_GUEST_PHY_PAGES,VAR_0
+O_RDWR,VAR_1
+VM_MODE_DEFAULT,VAR_2
+kvm_vm_free,FUNC_0
+printf,FUNC_1
+vm_create,FUNC_2
+vm_vcpu_add,FUNC_3
+test_vcpu_creation,FUNC_4
+first_vcpu_id,VAR_3
+num_vcpus,VAR_4
+vm,VAR_5
+i,VAR_6
+vcpu_id,VAR_7

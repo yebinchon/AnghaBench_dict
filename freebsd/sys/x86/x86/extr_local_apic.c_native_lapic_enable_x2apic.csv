@@ -1,0 +1,7 @@
+APICBASE_ENABLED,VAR_0
+APICBASE_X2APIC,VAR_1
+MSR_APICBASE,VAR_2
+rdmsr,FUNC_0
+wrmsr,FUNC_1
+native_lapic_enable_x2apic,FUNC_2
+apic_base,VAR_3

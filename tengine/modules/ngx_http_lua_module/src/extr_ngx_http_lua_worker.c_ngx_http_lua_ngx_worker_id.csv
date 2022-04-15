@@ -1,0 +1,8 @@
+NGX_PROCESS_SINGLE,VAR_0
+NGX_PROCESS_WORKER,VAR_1
+lua_pushinteger,FUNC_0
+lua_pushnil,FUNC_1
+ngx_process,VAR_2
+ngx_worker,VAR_3
+ngx_http_lua_ngx_worker_id,FUNC_2
+L,VAR_4

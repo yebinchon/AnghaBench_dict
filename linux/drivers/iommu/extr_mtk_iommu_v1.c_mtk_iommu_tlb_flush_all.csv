@@ -1,0 +1,9 @@
+F_ALL_INVLD,VAR_0
+F_INVLD_EN0,VAR_1
+F_INVLD_EN1,VAR_2
+REG_MMU_INVALIDATE,VAR_3
+REG_MMU_INV_SEL,VAR_4
+wmb,FUNC_0
+writel_relaxed,FUNC_1
+mtk_iommu_tlb_flush_all,FUNC_2
+data,VAR_5

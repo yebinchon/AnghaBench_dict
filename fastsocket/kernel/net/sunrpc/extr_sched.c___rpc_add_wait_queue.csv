@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+RPC_IS_PRIORITY,FUNC_1
+RPC_IS_QUEUED,FUNC_2
+RPC_IS_SWAPPER,FUNC_3
+__rpc_add_wait_queue_priority,FUNC_4
+dprintk,FUNC_5
+list_add,FUNC_6
+list_add_tail,FUNC_7
+rpc_qname,FUNC_8
+rpc_set_queued,FUNC_9
+smp_wmb,FUNC_10
+__rpc_add_wait_queue,FUNC_11
+queue,VAR_0
+task,VAR_1
+queue_priority,VAR_2

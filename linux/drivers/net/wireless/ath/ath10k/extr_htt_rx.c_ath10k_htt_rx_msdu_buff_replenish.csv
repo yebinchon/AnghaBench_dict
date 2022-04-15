@@ -1,0 +1,16 @@
+ATH10K_HTT_MAX_NUM_REFILL,VAR_0
+ENOMEM,VAR_1
+HTT_RX_RING_REFILL_RESCHED_MS,VAR_2
+HTT_RX_RING_REFILL_RETRY_MS,VAR_3
+ath10k_htt_rx_ring_fill_n,FUNC_0
+jiffies,VAR_4
+min,FUNC_1
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+ath10k_htt_rx_msdu_buff_replenish,FUNC_6
+htt,VAR_5
+ret,VAR_6
+num_deficit,VAR_7
+num_to_fill,VAR_8

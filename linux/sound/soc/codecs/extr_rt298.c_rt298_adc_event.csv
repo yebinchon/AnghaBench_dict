@@ -1,0 +1,15 @@
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_0
+RT298_D_FILTER_CTRL,VAR_1
+RT298_VAD_CTRL,VAR_2
+VERB_CMD,FUNC_0
+mdelay,FUNC_1
+pr_info,FUNC_2
+snd_soc_component_read32,FUNC_3
+snd_soc_component_update_bits,FUNC_4
+snd_soc_dapm_to_component,FUNC_5
+rt298_adc_event,FUNC_6
+w,VAR_3
+kcontrol,VAR_4
+event,VAR_5
+component,VAR_6
+nid,VAR_7

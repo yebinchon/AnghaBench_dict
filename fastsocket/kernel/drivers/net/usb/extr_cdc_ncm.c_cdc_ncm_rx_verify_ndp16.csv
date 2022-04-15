@@ -1,0 +1,10 @@
+EINVAL,VAR_0
+USB_CDC_NCM_NDP16_LENGTH_MIN,VAR_1
+le16_to_cpu,FUNC_0
+le32_to_cpu,FUNC_1
+pr_debug,FUNC_2
+cdc_ncm_rx_verify_ndp16,FUNC_3
+skb_in,VAR_2
+ndpoffset,VAR_3
+ndp16,VAR_4
+ret,VAR_5

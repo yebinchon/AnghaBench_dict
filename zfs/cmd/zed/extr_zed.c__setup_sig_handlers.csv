@@ -1,0 +1,13 @@
+SA_RESTART,VAR_0
+SIGHUP,VAR_1
+SIGINT,VAR_2
+SIGPIPE,VAR_3
+SIGTERM,VAR_4
+SIG_IGN,VAR_5
+_exit_handler,VAR_6
+_hup_handler,VAR_7
+sigaction,FUNC_0
+sigemptyset,FUNC_1
+zed_log_die,FUNC_2
+_setup_sig_handlers,FUNC_3
+sa,VAR_8

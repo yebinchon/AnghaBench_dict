@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+PAGE_SIZE,VAR_2
+SNDRV_PCM_HW_PARAM_BUFFER_BYTES,VAR_3
+SNDRV_PCM_HW_PARAM_PERIODS,VAR_4
+SNDRV_PCM_HW_PARAM_PERIOD_BYTES,VAR_5
+dma_alloc_writecombine,FUNC_0
+kfree,FUNC_1
+kzalloc,FUNC_2
+pxa2xx_pcm_hardware,VAR_6
+snd_pcm_hw_constraint_integer,FUNC_3
+snd_pcm_hw_constraint_step,FUNC_4
+__pxa2xx_pcm_open,FUNC_5
+substream,VAR_7
+runtime,VAR_8
+rtd,VAR_9
+ret,VAR_10

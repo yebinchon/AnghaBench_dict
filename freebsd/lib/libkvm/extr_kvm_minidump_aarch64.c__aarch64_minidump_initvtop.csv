@@ -1,0 +1,17 @@
+AARCH64_PAGE_SIZE,VAR_0
+MINIDUMP_MAGIC,VAR_1
+MINIDUMP_VERSION,VAR_2
+_kvm_err,FUNC_0
+_kvm_malloc,FUNC_1
+_kvm_pmap_init,FUNC_2
+_kvm_pt_init,FUNC_3
+aarch64_round_page,FUNC_4
+le32toh,FUNC_5
+le64toh,FUNC_6
+pread,FUNC_7
+strncmp,FUNC_8
+_aarch64_minidump_initvtop,FUNC_9
+kd,VAR_3
+vmst,VAR_4
+off,VAR_5
+sparse_off,VAR_6

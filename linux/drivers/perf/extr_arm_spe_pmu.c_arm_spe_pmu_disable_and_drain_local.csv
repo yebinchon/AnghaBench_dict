@@ -1,0 +1,8 @@
+SYS_PMBLIMITR_EL1,VAR_0
+SYS_PMSCR_EL1,VAR_1
+dsb,FUNC_0
+isb,FUNC_1
+nsh,VAR_2
+psb_csync,FUNC_2
+write_sysreg_s,FUNC_3
+arm_spe_pmu_disable_and_drain_local,FUNC_4

@@ -1,0 +1,15 @@
+USBHSG_STATUS_WEDGE,VAR_0
+usbhs_pipe_disable,FUNC_0
+usbhs_pipe_enable,FUNC_1
+usbhs_pipe_sequence_data0,FUNC_2
+usbhs_pkt_start,FUNC_3
+usbhsg_recip_handler_std_control_done,FUNC_4
+usbhsg_status_has,FUNC_5
+usbhsg_uep_to_gpriv,FUNC_6
+usbhsg_uep_to_pipe,FUNC_7
+usbhsg_recip_handler_std_clear_endpoint,FUNC_8
+priv,VAR_1
+uep,VAR_2
+ctrl,VAR_3
+gpriv,VAR_4
+pipe,VAR_5

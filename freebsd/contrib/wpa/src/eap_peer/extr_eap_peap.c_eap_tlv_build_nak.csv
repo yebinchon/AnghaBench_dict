@@ -1,0 +1,12 @@
+EAP_CODE_RESPONSE,VAR_0
+EAP_TLV_NAK_TLV,VAR_1
+EAP_TYPE_TLV,VAR_2
+EAP_VENDOR_IETF,VAR_3
+eap_msg_alloc,FUNC_0
+wpabuf_put_be16,FUNC_1
+wpabuf_put_be32,FUNC_2
+wpabuf_put_u8,FUNC_3
+eap_tlv_build_nak,FUNC_4
+id,VAR_4
+nak_type,VAR_5
+msg,VAR_6

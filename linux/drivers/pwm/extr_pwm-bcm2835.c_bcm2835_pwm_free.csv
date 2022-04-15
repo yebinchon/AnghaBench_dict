@@ -1,0 +1,11 @@
+PWM_CONTROL,VAR_0
+PWM_CONTROL_MASK,VAR_1
+PWM_CONTROL_SHIFT,FUNC_0
+readl,FUNC_1
+to_bcm2835_pwm,FUNC_2
+writel,FUNC_3
+bcm2835_pwm_free,FUNC_4
+chip,VAR_2
+pwm,VAR_3
+pc,VAR_4
+value,VAR_5

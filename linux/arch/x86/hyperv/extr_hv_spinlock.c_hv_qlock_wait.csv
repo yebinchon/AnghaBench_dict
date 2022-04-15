@@ -1,0 +1,11 @@
+HV_X64_MSR_GUEST_IDLE,VAR_0
+READ_ONCE,FUNC_0
+in_nmi,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+rdmsrl,FUNC_4
+hv_qlock_wait,FUNC_5
+byte,VAR_1
+val,VAR_2
+msr_val,VAR_3
+flags,VAR_4

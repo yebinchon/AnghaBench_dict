@@ -1,0 +1,10 @@
+comedi_pci_disable,FUNC_0
+del_timer_sync,FUNC_1
+iounmap,FUNC_2
+kfree,FUNC_3
+pci_dev_put,FUNC_4
+printk,FUNC_5
+jr3_pci_detach,FUNC_6
+dev,VAR_0
+i,VAR_1
+devpriv,VAR_2

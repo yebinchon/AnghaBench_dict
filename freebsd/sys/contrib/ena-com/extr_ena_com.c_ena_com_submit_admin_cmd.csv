@@ -1,0 +1,15 @@
+ENA_COM_NO_DEVICE,VAR_0
+ENA_SPINLOCK_LOCK,FUNC_0
+ENA_SPINLOCK_UNLOCK,FUNC_1
+ERR_PTR,FUNC_2
+IS_ERR,FUNC_3
+__ena_com_submit_admin_cmd,FUNC_4
+unlikely,FUNC_5
+ena_com_submit_admin_cmd,FUNC_6
+admin_queue,VAR_1
+cmd,VAR_2
+cmd_size_in_bytes,VAR_3
+comp,VAR_4
+comp_size_in_bytes,VAR_5
+flags,VAR_6
+comp_ctx,VAR_7

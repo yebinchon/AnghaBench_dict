@@ -1,0 +1,15 @@
+MEMCG_KERNEL_STACK_KB,VAR_0
+NR_CACHED_STACKS,VAR_1
+PAGE_SIZE,VAR_2
+THREAD_SIZE,VAR_3
+THREAD_SIZE_ORDER,VAR_4
+__free_pages,FUNC_0
+cached_stacks,VAR_5
+memcg_kmem_uncharge,FUNC_1
+mod_memcg_page_state,FUNC_2
+task_stack_vm_area,FUNC_3
+this_cpu_cmpxchg,FUNC_4
+vfree_atomic,FUNC_5
+virt_to_page,FUNC_6
+free_thread_stack,FUNC_7
+tsk,VAR_6

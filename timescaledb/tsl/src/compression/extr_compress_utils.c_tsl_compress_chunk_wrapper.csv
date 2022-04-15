@@ -1,0 +1,14 @@
+ERRCODE_DUPLICATE_OBJECT,VAR_0
+ERROR,VAR_1
+INVALID_CHUNK_ID,VAR_2
+NOTICE,VAR_3
+compress_chunk_impl,FUNC_0
+ereport,FUNC_1
+errcode,FUNC_2
+errmsg,FUNC_3
+get_rel_name,FUNC_4
+ts_chunk_get_by_relid,FUNC_5
+tsl_compress_chunk_wrapper,FUNC_6
+chunk_relid,VAR_4
+if_not_compressed,VAR_5
+srcchunk,VAR_6

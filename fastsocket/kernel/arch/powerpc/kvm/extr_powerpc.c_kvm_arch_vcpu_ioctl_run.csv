@@ -1,0 +1,17 @@
+SIG_SETMASK,VAR_0
+__kvmppc_vcpu_run,FUNC_0
+kvm_guest_enter,FUNC_1
+kvm_guest_exit,FUNC_2
+kvmppc_complete_dcr_load,FUNC_3
+kvmppc_complete_mmio_load,FUNC_4
+kvmppc_core_deliver_interrupts,FUNC_5
+local_irq_disable,FUNC_6
+local_irq_enable,FUNC_7
+sigprocmask,FUNC_8
+vcpu_load,FUNC_9
+vcpu_put,FUNC_10
+kvm_arch_vcpu_ioctl_run,FUNC_11
+vcpu,VAR_1
+run,VAR_2
+r,VAR_3
+sigsaved,VAR_4

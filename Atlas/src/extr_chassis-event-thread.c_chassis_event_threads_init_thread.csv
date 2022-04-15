@@ -1,0 +1,17 @@
+EV_PERSIST,VAR_0
+EV_READ,VAR_1
+G_STRLOC,VAR_2
+chassis_event_handle,VAR_3
+errno,VAR_4
+event_add,FUNC_0
+event_base_new,FUNC_1
+event_base_set,FUNC_2
+event_set,FUNC_3
+g_error,FUNC_4
+g_strerror,FUNC_5
+pipe,FUNC_6
+chassis_event_threads_init_thread,FUNC_7
+thread,VAR_5
+chas,VAR_6
+fds,VAR_7
+err,VAR_8

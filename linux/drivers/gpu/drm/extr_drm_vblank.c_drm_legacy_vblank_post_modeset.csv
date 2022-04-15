@@ -1,0 +1,10 @@
+WARN_ON,FUNC_0
+drm_reset_vblank_timestamp,FUNC_1
+drm_vblank_put,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+drm_legacy_vblank_post_modeset,FUNC_5
+dev,VAR_0
+pipe,VAR_1
+vblank,VAR_2
+irqflags,VAR_3

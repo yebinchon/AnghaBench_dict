@@ -1,0 +1,16 @@
+EBADRQC,VAR_0
+ENODEV,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+usbtmc_ioctl_abort_bulk_in,FUNC_2
+usbtmc_ioctl_abort_bulk_out,FUNC_3
+usbtmc_ioctl_clear,FUNC_4
+usbtmc_ioctl_clear_in_halt,FUNC_5
+usbtmc_ioctl_clear_out_halt,FUNC_6
+usbtmc_ioctl_indicator_pulse,FUNC_7
+usbtmc_ioctl,FUNC_8
+file,VAR_2
+cmd,VAR_3
+arg,VAR_4
+data,VAR_5
+retval,VAR_6

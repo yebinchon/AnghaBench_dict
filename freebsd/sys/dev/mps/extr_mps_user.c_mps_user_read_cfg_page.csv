@@ -1,0 +1,15 @@
+ETIMEDOUT,VAR_0
+MPI2_CONFIG_ACTION_PAGE_READ_CURRENT,VAR_1
+MPI2_CONFIG_PAGETYPE_MASK,VAR_2
+htole16,FUNC_0
+le32toh,FUNC_1
+mps_printf,FUNC_2
+mps_read_config_page,FUNC_3
+mps_user_read_cfg_page,FUNC_4
+sc,VAR_3
+page_req,VAR_4
+buf,VAR_5
+reqhdr,VAR_6
+hdr,VAR_7
+params,VAR_8
+error,VAR_9

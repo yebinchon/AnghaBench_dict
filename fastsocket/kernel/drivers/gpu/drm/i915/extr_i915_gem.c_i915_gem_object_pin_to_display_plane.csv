@@ -1,0 +1,14 @@
+I915_CACHE_NONE,VAR_0
+I915_GEM_DOMAIN_GTT,VAR_1
+i915_gem_object_flush_cpu_write_domain,FUNC_0
+i915_gem_object_pin,FUNC_1
+i915_gem_object_set_cache_level,FUNC_2
+i915_gem_object_sync,FUNC_3
+trace_i915_gem_object_change_domain,FUNC_4
+i915_gem_object_pin_to_display_plane,FUNC_5
+obj,VAR_2
+alignment,VAR_3
+pipelined,VAR_4
+old_read_domains,VAR_5
+old_write_domain,VAR_6
+ret,VAR_7

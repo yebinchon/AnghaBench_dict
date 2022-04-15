@@ -1,0 +1,8 @@
+MCFINTC2_GPIOIRQ0,VAR_0
+MCFSIM2_GPIOINTENABLE,VAR_1
+MCF_MBAR2,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+intc2_irq_gpio_unmask,FUNC_2
+irq,VAR_3
+imr,VAR_4

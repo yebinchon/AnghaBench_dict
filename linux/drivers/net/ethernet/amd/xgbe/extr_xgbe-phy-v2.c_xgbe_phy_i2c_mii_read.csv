@@ -1,0 +1,11 @@
+XGBE_SFP_PHY_ADDRESS,VAR_0
+be16_to_cpu,FUNC_0
+xgbe_phy_i2c_read,FUNC_1
+xgbe_phy_sfp_get_mux,FUNC_2
+xgbe_phy_sfp_put_mux,FUNC_3
+xgbe_phy_i2c_mii_read,FUNC_4
+pdata,VAR_1
+reg,VAR_2
+mii_val,VAR_3
+mii_reg,VAR_4
+ret,VAR_5

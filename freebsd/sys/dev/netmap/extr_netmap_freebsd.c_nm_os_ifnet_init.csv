@@ -1,0 +1,9 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+ifnet_arrival_event,VAR_1
+ifnet_departure_event,VAR_2
+netmap_ifnet_arrival_handler,VAR_3
+netmap_ifnet_departure_handler,VAR_4
+nm_ifnet_ah_tag,VAR_5
+nm_ifnet_dh_tag,VAR_6
+nm_os_ifnet_init,FUNC_1

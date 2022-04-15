@@ -1,0 +1,12 @@
+CHIP_ARUBA,VAR_0
+PM_METHOD_DPM,VAR_1
+PM_METHOD_PROFILE,VAR_2
+PM_PROFILE_AUTO,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+power_supply_is_system_supplied,FUNC_2
+radeon_dpm_enable_bapm,FUNC_3
+radeon_pm_set_clocks,FUNC_4
+radeon_pm_update_profile,FUNC_5
+radeon_pm_acpi_event_handler,FUNC_6
+rdev,VAR_4

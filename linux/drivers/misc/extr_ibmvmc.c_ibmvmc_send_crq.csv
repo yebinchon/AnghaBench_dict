@@ -1,0 +1,11 @@
+H_SEND_CRQ,VAR_0
+dev_dbg,FUNC_0
+dma_wmb,FUNC_1
+plpar_hcall_norets,FUNC_2
+to_vio_dev,FUNC_3
+ibmvmc_send_crq,FUNC_4
+adapter,VAR_1
+word1,VAR_2
+word2,VAR_3
+vdev,VAR_4
+rc,VAR_5

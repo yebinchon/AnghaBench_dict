@@ -1,0 +1,16 @@
+ETH_P_802_2,VAR_0
+LLC_PDU_TYPE_MASK,VAR_1
+LLC_PDU_TYPE_U,VAR_2
+eth_hdr,FUNC_0
+htons,FUNC_1
+ntohs,FUNC_2
+pskb_may_pull,FUNC_3
+pskb_trim_rcsum,FUNC_4
+skb_pull,FUNC_5
+unlikely,FUNC_6
+llc_fixup_skb,FUNC_7
+skb,VAR_3
+llc_len,VAR_4
+pdu,VAR_5
+pdulen,VAR_6
+data_size,VAR_7

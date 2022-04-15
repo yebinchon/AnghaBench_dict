@@ -1,0 +1,17 @@
+nvme_admin_qpair_enable,FUNC_0
+nvme_ctrlr_configure_aer,FUNC_1
+nvme_ctrlr_configure_int_coalescing,FUNC_2
+nvme_ctrlr_construct_namespaces,FUNC_3
+nvme_ctrlr_create_qpairs,FUNC_4
+nvme_ctrlr_fail,FUNC_5
+nvme_ctrlr_identify,FUNC_6
+nvme_ctrlr_set_num_qpairs,FUNC_7
+nvme_io_qpair_enable,FUNC_8
+nvme_qpair_reset,FUNC_9
+panic,FUNC_10
+nvme_ctrlr_start,FUNC_11
+ctrlr_arg,VAR_0
+resetting,VAR_1
+ctrlr,VAR_2
+old_num_io_queues,VAR_3
+i,VAR_4

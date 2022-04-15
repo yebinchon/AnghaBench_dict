@@ -1,0 +1,15 @@
+SATI_FAILURE_CHECK_RESPONSE_DATA,VAR_0
+SATI_REASSIGN_BLOCKS_READY_TO_SEND,VAR_1
+sati_get_data_byte,FUNC_0
+sati_reassign_blocks_verify_command,FUNC_1
+set_current_lba,FUNC_2
+set_current_long_lba,FUNC_3
+sati_reassign_blocks_verify_condition,FUNC_4
+sequence,VAR_2
+scsi_io,VAR_3
+ata_io,VAR_4
+current_lba_bytes,VAR_5
+lba_offset,VAR_6
+page_size,VAR_7
+index,VAR_8
+status,VAR_9

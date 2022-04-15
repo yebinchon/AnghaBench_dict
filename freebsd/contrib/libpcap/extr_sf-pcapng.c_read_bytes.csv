@@ -1,0 +1,13 @@
+PCAP_ERRBUF_SIZE,VAR_0
+errno,VAR_1
+ferror,FUNC_0
+fread,FUNC_1
+pcap_fmt_errmsg_for_errno,FUNC_2
+pcap_snprintf,FUNC_3
+read_bytes,FUNC_4
+fp,VAR_2
+buf,VAR_3
+bytes_to_read,VAR_4
+fail_on_eof,VAR_5
+errbuf,VAR_6
+amt_read,VAR_7

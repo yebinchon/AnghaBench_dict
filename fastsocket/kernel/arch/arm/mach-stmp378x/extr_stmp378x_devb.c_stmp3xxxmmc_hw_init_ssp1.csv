@@ -1,0 +1,12 @@
+PINID_PWM3,VAR_0
+PINID_PWM4,VAR_1
+gpio_direction_input,FUNC_0
+gpio_direction_output,FUNC_1
+gpio_free,FUNC_2
+gpio_request,FUNC_3
+mdelay,FUNC_4
+mmc_pins,VAR_2
+stmp3xxx_release_pin_group,FUNC_5
+stmp3xxx_request_pin_group,FUNC_6
+stmp3xxxmmc_hw_init_ssp1,FUNC_7
+ret,VAR_3

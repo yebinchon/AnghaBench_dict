@@ -1,0 +1,13 @@
+SVM_AVIC_DOORBELL,VAR_0
+avic_vcpu_is_running,FUNC_0
+get_cpu,FUNC_1
+kvm_cpu_get_apicid,FUNC_2
+kvm_lapic_set_irr,FUNC_3
+kvm_vcpu_wake_up,FUNC_4
+put_cpu,FUNC_5
+smp_mb__after_atomic,FUNC_6
+wrmsrl,FUNC_7
+svm_deliver_avic_intr,FUNC_8
+vcpu,VAR_1
+vec,VAR_2
+cpuid,VAR_3

@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+EXT_AOPS,FUNC_1
+IS_AOP_EXT,FUNC_2
+PageLocked,FUNC_3
+__remove_from_page_cache,FUNC_4
+mem_cgroup_uncharge_cache_page,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+remove_from_page_cache,FUNC_8
+page,VAR_0
+mapping,VAR_1
+freepage,VAR_2
+inode,VAR_3

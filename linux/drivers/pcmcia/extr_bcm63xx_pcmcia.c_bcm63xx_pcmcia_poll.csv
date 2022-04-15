@@ -1,0 +1,15 @@
+BCM63XX_PCMCIA_POLL_RATE,VAR_0
+__get_socket_status,FUNC_0
+from_timer,FUNC_1
+jiffies,VAR_1
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+pcmcia_parse_events,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+timer,VAR_2
+bcm63xx_pcmcia_poll,FUNC_7
+t,VAR_3
+skt,VAR_4
+stat,VAR_5
+events,VAR_6

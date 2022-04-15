@@ -1,0 +1,16 @@
+BIT_CALL,VAR_0
+BIT_RESPONSE,FUNC_0
+COUNT,VAR_1
+TEST_ASSERT,FUNC_1
+done_sem,VAR_2
+eg,VAR_3
+portMAX_DELAY,VAR_4
+printf,FUNC_2
+vTaskDelete,FUNC_3
+xEventGroupSetBits,FUNC_4
+xEventGroupWaitBits,FUNC_5
+xSemaphoreGive,FUNC_6
+task_event_group_call_response,FUNC_7
+param,VAR_5
+task_num,VAR_6
+i,VAR_7

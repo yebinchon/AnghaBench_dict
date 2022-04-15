@@ -1,0 +1,16 @@
+ESP_ERROR_CHECK,FUNC_0
+ESP_VFS_FLAG_DEFAULT,VAR_0
+LWIP_SOCKET_OFFSET,VAR_1
+MAX_FDS,VAR_2
+esp_vfs_register_fd_range,FUNC_1
+lwip_close,VAR_3
+lwip_fcntl_r_wrapper,VAR_4
+lwip_get_socket_select_semaphore,VAR_5
+lwip_ioctl_r_wrapper,VAR_6
+lwip_read,VAR_7
+lwip_select,VAR_8
+lwip_stop_socket_select,VAR_9
+lwip_stop_socket_select_isr,VAR_10
+lwip_write,VAR_11
+esp_vfs_lwip_sockets_register,FUNC_2
+vfs,VAR_12

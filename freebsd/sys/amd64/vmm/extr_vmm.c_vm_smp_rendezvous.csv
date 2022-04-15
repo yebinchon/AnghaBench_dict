@@ -1,0 +1,17 @@
+CPU_ISSET,FUNC_0
+CPU_ZERO,FUNC_1
+KASSERT,FUNC_2
+RENDEZVOUS_CTR0,FUNC_3
+WARN_PANIC,VAR_0
+WITNESS_WARN,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+vcpu_notify_event,FUNC_7
+vm_handle_rendezvous,FUNC_8
+vm_smp_rendezvous,FUNC_9
+vm,VAR_1
+vcpuid,VAR_2
+dest,VAR_3
+func,VAR_4
+arg,VAR_5
+i,VAR_6

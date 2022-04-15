@@ -1,0 +1,15 @@
+CHECK_CALLED,FUNC_0
+GetExternal,VAR_0
+IHTMLDocument2_get_parentWindow,FUNC_1
+IHTMLWindow2_Release,FUNC_2
+IHTMLWindow2_get_external,FUNC_3
+SET_EXPECT,FUNC_4
+S_FALSE,VAR_1
+S_OK,VAR_2
+ok,FUNC_5
+test_external,FUNC_6
+doc,VAR_3
+initialized,VAR_4
+external,VAR_5
+htmlwin,VAR_6
+hres,VAR_7

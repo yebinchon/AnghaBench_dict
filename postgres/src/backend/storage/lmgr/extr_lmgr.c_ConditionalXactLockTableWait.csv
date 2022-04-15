@@ -1,0 +1,16 @@
+Assert,FUNC_0
+GetTopTransactionIdIfAny,FUNC_1
+LOCKACQUIRE_NOT_AVAIL,VAR_0
+LockAcquire,FUNC_2
+LockRelease,FUNC_3
+SET_LOCKTAG_TRANSACTION,FUNC_4
+ShareLock,VAR_1
+SubTransGetTopmostTransaction,FUNC_5
+TransactionIdEquals,FUNC_6
+TransactionIdIsInProgress,FUNC_7
+TransactionIdIsValid,FUNC_8
+pg_usleep,FUNC_9
+ConditionalXactLockTableWait,FUNC_10
+xid,VAR_2
+tag,VAR_3
+first,VAR_4

@@ -1,0 +1,10 @@
+NETDEV_CHANGEADDR,VAR_0
+NET_ADDR_STOLEN,VAR_1
+call_netdevice_notifiers,FUNC_0
+dev_pre_changeaddr_notify,FUNC_1
+memcpy,FUNC_2
+slave_dbg,FUNC_3
+bond_set_dev_addr,FUNC_4
+bond_dev,VAR_2
+slave_dev,VAR_3
+err,VAR_4

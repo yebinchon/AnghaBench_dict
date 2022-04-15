@@ -1,0 +1,8 @@
+IXGBE_READ_REG,FUNC_0
+IXGBE_TXSTMPH,VAR_0
+__IXGBE_PTP_TX_IN_PROGRESS,VAR_1
+clear_bit_unlock,FUNC_1
+dev_kfree_skb_any,FUNC_2
+ixgbe_ptp_clear_tx_timestamp,FUNC_3
+adapter,VAR_2
+hw,VAR_3

@@ -1,0 +1,12 @@
+AUTONEG_ENABLE,VAR_0
+BMCR_ANRESTART,VAR_1
+BMSR_ANEGCOMPLETE,VAR_2
+BMSR_LSTATUS,VAR_3
+MII_BMCR,VAR_4
+MII_BMSR,VAR_5
+phy_polling_mode,FUNC_0
+phy_read,FUNC_1
+genphy_update_link,FUNC_2
+phydev,VAR_6
+status,VAR_7
+bmcr,VAR_8

@@ -1,0 +1,13 @@
+cl_assert_equal_oid,FUNC_0
+cl_git_pass,FUNC_1
+git_diff_free,FUNC_2
+git_diff_from_buffer,FUNC_3
+git_diff_patchid,FUNC_4
+git_oid_fromstr,FUNC_5
+strlen,FUNC_6
+verify_patch_id,FUNC_7
+diff_content,VAR_0
+expected_id,VAR_1
+expected_oid,VAR_2
+actual_oid,VAR_3
+diff,VAR_4

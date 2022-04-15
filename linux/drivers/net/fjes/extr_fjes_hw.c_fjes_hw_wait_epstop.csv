@@ -1,0 +1,13 @@
+EBUSY,VAR_0
+FJES_COMMAND_EPSTOP_WAIT_TIMEOUT,VAR_1
+FJES_RX_STOP_REQ_DONE,VAR_2
+clear_bit,FUNC_0
+fjes_hw_epid_is_shared,FUNC_1
+msleep,FUNC_2
+test_bit,FUNC_3
+fjes_hw_wait_epstop,FUNC_4
+hw,VAR_3
+status,VAR_4
+info,VAR_5
+wait_time,VAR_6
+epidx,VAR_7

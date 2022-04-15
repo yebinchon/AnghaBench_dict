@@ -1,0 +1,17 @@
+FLAGS_SET,FUNC_0
+KEEP_CONFIGURATION_DHCP_ON_STOP,VAR_0
+assert,FUNC_1
+dhcp4_release_old_lease,FUNC_2
+link_lldp_emit_stop,FUNC_3
+log_link_warning_errno,FUNC_4
+sd_dhcp6_client_stop,FUNC_5
+sd_dhcp_client_stop,FUNC_6
+sd_ipv4ll_stop,FUNC_7
+sd_ndisc_stop,FUNC_8
+sd_radv_stop,FUNC_9
+link_stop_clients,FUNC_10
+link,VAR_1
+may_keep_dhcp,VAR_2
+r,VAR_3
+k,VAR_4
+keep_dhcp,VAR_5

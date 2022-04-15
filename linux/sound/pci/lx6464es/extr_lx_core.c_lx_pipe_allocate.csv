@@ -1,0 +1,14 @@
+CMD_06_ALLOCATE_PIPE,VAR_0
+PIPE_INFO_TO_CMD,FUNC_0
+dev_err,FUNC_1
+lx_message_init,FUNC_2
+lx_message_send_atomic,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+lx_pipe_allocate,FUNC_6
+chip,VAR_1
+pipe,VAR_2
+is_capture,VAR_3
+channels,VAR_4
+err,VAR_5
+pipe_cmd,VAR_6

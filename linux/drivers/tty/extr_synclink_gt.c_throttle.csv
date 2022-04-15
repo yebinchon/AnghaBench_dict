@@ -1,0 +1,14 @@
+C_CRTSCTS,FUNC_0
+DBGINFO,FUNC_1
+I_IXOFF,FUNC_2
+STOP_CHAR,FUNC_3
+SerialSignal_RTS,VAR_0
+sanity_check,FUNC_4
+send_xchar,FUNC_5
+set_signals,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+throttle,FUNC_9
+tty,VAR_1
+info,VAR_2
+flags,VAR_3

@@ -1,0 +1,14 @@
+WTCSR_TME,VAR_0
+clk_disable,FUNC_0
+del_timer,FUNC_1
+pm_runtime_put_sync,FUNC_2
+sh_wdt_read_csr,FUNC_3
+sh_wdt_write_csr,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+watchdog_get_drvdata,FUNC_7
+sh_wdt_stop,FUNC_8
+wdt_dev,VAR_1
+wdt,VAR_2
+flags,VAR_3
+csr,VAR_4

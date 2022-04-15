@@ -1,0 +1,10 @@
+console_stop,FUNC_0
+free_irq,FUNC_1
+qcom_geni_serial_stop_rx,FUNC_2
+qcom_geni_serial_stop_tx,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+uart_console,FUNC_6
+qcom_geni_serial_shutdown,FUNC_7
+uport,VAR_0
+flags,VAR_1

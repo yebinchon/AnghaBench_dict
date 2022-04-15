@@ -1,0 +1,16 @@
+ZM_BSSID_LIST_SCAN,VAR_0
+ZM_LED_CTRL_FLAG_ALPHA,VAR_1
+ZM_MODE_AP,VAR_2
+ZM_SCAN_MGR_SCAN_EXTERNAL,VAR_3
+wd,VAR_4
+zfScanMgrScanStart,FUNC_0
+zfStaBlockWlanScan,FUNC_1
+zm_debug_msg0,FUNC_2
+zm_debug_msg1,FUNC_3
+zmw_declare_for_critical_section,FUNC_4
+zmw_enter_critical_section,FUNC_5
+zmw_get_wlan_dev,FUNC_6
+zmw_leave_critical_section,FUNC_7
+zfiWlanScan,FUNC_8
+dev,VAR_5
+ret,VAR_6

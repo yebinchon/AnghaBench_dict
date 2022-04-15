@@ -1,0 +1,16 @@
+BoolGetDatum,FUNC_0
+DatumGetUInt64,FUNC_1
+DirectFunctionCall2,FUNC_2
+ERROR,VAR_0
+NumericGetDatum,FUNC_3
+ROTATE_HIGH_AND_LOW_32BITS,FUNC_4
+UInt64GetDatum,FUNC_5
+elog,FUNC_6
+hash_any_extended,FUNC_7
+hash_numeric_extended,VAR_1
+hashcharextended,VAR_2
+JsonbHashScalarValueExtended,FUNC_8
+scalarVal,VAR_3
+hash,VAR_4
+seed,VAR_5
+tmp,VAR_6

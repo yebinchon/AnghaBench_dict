@@ -1,0 +1,17 @@
+AFS_DIR_DIRENT_SIZE,VAR_0
+AFS_DIR_RESV_BLOCKS,VAR_1
+AFS_DIR_RESV_BLOCKS0,VAR_2
+AFS_DIR_SLOTS_PER_BLOCK,VAR_3
+_enter,FUNC_0
+memcmp,FUNC_1
+round_up,FUNC_2
+strlen,FUNC_3
+afs_dir_scan_block,FUNC_4
+block,VAR_4
+name,VAR_5
+blocknum,VAR_6
+de,VAR_7
+bitmap,VAR_8
+d,VAR_9
+len,VAR_10
+n,VAR_11

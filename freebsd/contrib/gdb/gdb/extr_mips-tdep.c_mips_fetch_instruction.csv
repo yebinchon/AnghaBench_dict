@@ -1,0 +1,12 @@
+MIPS16_INSTLEN,VAR_0
+MIPS_INSTLEN,VAR_1
+extract_unsigned_integer,FUNC_0
+memory_error,FUNC_1
+pc_is_mips16,FUNC_2
+read_memory_nobpt,FUNC_3
+unmake_mips16_addr,FUNC_4
+mips_fetch_instruction,FUNC_5
+addr,VAR_2
+buf,VAR_3
+instlen,VAR_4
+status,VAR_5

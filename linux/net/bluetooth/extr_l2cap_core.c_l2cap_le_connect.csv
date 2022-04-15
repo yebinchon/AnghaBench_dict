@@ -1,0 +1,11 @@
+FLAG_LE_CONN_REQ_SENT,VAR_0
+L2CAP_LE_CONN_REQ,VAR_1
+cpu_to_le16,FUNC_0
+l2cap_get_ident,FUNC_1
+l2cap_le_flowctl_init,FUNC_2
+l2cap_send_cmd,FUNC_3
+test_and_set_bit,FUNC_4
+l2cap_le_connect,FUNC_5
+chan,VAR_2
+conn,VAR_3
+req,VAR_4

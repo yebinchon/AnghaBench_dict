@@ -1,0 +1,13 @@
+SUN4M_INT_FLOPPY,VAR_0
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+sbus_writel,FUNC_2
+smp_processor_id,FUNC_3
+sun4m_get_irqmask,FUNC_4
+sun4m_irq_global,VAR_1
+sun4m_irq_percpu,VAR_2
+sun4m_enable_irq,FUNC_5
+irq_nr,VAR_3
+mask,VAR_4
+flags,VAR_5
+cpu,VAR_6

@@ -1,0 +1,15 @@
+BUG,FUNC_0
+RX_DATA_FIFO,VAR_0
+SMSC911X_SWAP_FIFO,VAR_1
+SMSC911X_USE_16BIT,VAR_2
+SMSC911X_USE_32BIT,VAR_3
+__smsc911x_reg_read,FUNC_1
+ioread32_rep,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+swab32,FUNC_5
+smsc911x_rx_readfifo,FUNC_6
+pdata,VAR_4
+buf,VAR_5
+wordcount,VAR_6
+flags,VAR_7

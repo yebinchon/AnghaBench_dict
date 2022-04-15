@@ -1,0 +1,15 @@
+ACPI_SUCCESS,FUNC_0
+acpi_evaluate_integer,FUNC_1
+acpi_get_handle,FUNC_2
+dev_attr_eject,VAR_0
+dev_attr_hid,VAR_1
+dev_attr_modalias,VAR_2
+dev_attr_path,VAR_3
+dev_attr_sun,VAR_4
+device_create_file,FUNC_3
+acpi_device_setup_files,FUNC_4
+dev,VAR_5
+status,VAR_6
+temp,VAR_7
+sun,VAR_8
+result,VAR_9

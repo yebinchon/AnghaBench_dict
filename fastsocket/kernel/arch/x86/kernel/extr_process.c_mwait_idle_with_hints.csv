@@ -1,0 +1,15 @@
+POWER_CSTATE,VAR_0
+X86_FEATURE_CLFLUSH_MONITOR,VAR_1
+__monitor,FUNC_0
+__mwait,FUNC_1
+clflush,FUNC_2
+cpu_has,FUNC_3
+current_cpu_data,VAR_2
+current_thread_info,FUNC_4
+need_resched,FUNC_5
+smp_mb,FUNC_6
+smp_processor_id,FUNC_7
+trace_power_start,FUNC_8
+mwait_idle_with_hints,FUNC_9
+ax,VAR_3
+cx,VAR_4

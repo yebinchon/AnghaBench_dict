@@ -1,0 +1,15 @@
+KVM_REQ_WATCHDOG,VAR_0
+NEXT_TIMER_MAX_DELTA,VAR_1
+TSR_ENW,VAR_2
+TSR_WIS,VAR_3
+del_timer,FUNC_0
+jiffies,VAR_4
+kvm_clear_request,FUNC_1
+mod_timer,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+watchdog_next_timeout,FUNC_5
+arm_next_watchdog,FUNC_6
+vcpu,VAR_5
+nr_jiffies,VAR_6
+flags,VAR_7

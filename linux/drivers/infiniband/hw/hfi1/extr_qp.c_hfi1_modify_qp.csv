@@ -1,0 +1,17 @@
+HFI1_S_AHG_CLEAR,VAR_0
+IB_MIG_ARMED,VAR_1
+IB_MIG_MIGRATED,VAR_2
+IB_QP_AV,VAR_3
+IB_QP_PATH_MIG_STATE,VAR_4
+ah_to_sc,FUNC_0
+opfn_qp_init,FUNC_1
+qp_set_16b,FUNC_2
+qp_to_sdma_engine,FUNC_3
+qp_to_send_context,FUNC_4
+hfi1_modify_qp,FUNC_5
+qp,VAR_5
+attr,VAR_6
+attr_mask,VAR_7
+udata,VAR_8
+ibqp,VAR_9
+priv,VAR_10

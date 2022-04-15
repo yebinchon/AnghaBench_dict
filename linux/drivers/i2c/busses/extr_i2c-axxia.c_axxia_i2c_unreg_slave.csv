@@ -1,0 +1,10 @@
+GLOBAL_CONTROL,VAR_0
+GLOBAL_MST_EN,VAR_1
+INTERRUPT_ENABLE,VAR_2
+INT_MST,VAR_3
+i2c_get_adapdata,FUNC_0
+synchronize_irq,FUNC_1
+writel,FUNC_2
+axxia_i2c_unreg_slave,FUNC_3
+slave,VAR_4
+idev,VAR_5

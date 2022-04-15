@@ -1,0 +1,17 @@
+I40IW_CQPSQ_OPCODE,VAR_0
+I40IW_CQPSQ_WQEVALID,VAR_1
+I40IW_CQP_OP_NOP,VAR_2
+I40IW_CQP_WQE_SIZE,VAR_3
+I40IW_DEBUG_WQE,VAR_4
+I40IW_ERR_RING_FULL,VAR_5
+LS_64,FUNC_0
+i40iw_debug_buf,FUNC_1
+i40iw_insert_wqe_hdr,FUNC_2
+i40iw_sc_cqp_get_next_send_wqe,FUNC_3
+i40iw_sc_cqp_post_sq,FUNC_4
+i40iw_sc_cqp_nop,FUNC_5
+cqp,VAR_6
+scratch,VAR_7
+post_sq,VAR_8
+wqe,VAR_9
+header,VAR_10

@@ -1,0 +1,14 @@
+KVM_MMU_ROOTS_ALL,VAR_0
+PAGE_SHIFT,VAR_1
+VMCS12_SIZE,VAR_2
+copy_shadow_to_vmcs12,FUNC_0
+copy_vmcs02_to_vmcs12_rare,FUNC_1
+enable_shadow_vmcs,VAR_3
+get_vmcs12,FUNC_2
+kvm_mmu_free_roots,FUNC_3
+kvm_vcpu_write_guest_page,FUNC_4
+to_vmx,FUNC_5
+vmx_disable_shadow_vmcs,FUNC_6
+nested_release_vmcs12,FUNC_7
+vcpu,VAR_4
+vmx,VAR_5

@@ -1,0 +1,15 @@
+QLCNIC_LOOPBACK_TEST,VAR_0
+QLCNIC_MSIX_ENABLED,VAR_1
+__QLCNIC_FW_ATTACHED,VAR_2
+mdelay,FUNC_0
+qlcnic_82xx_check,FUNC_1
+qlcnic_82xx_config_intrpt,FUNC_2
+qlcnic_83xx_check,FUNC_3
+qlcnic_83xx_config_intrpt,FUNC_4
+qlcnic_check_multi_tx,FUNC_5
+qlcnic_fw_cmd_del_rx_ctx,FUNC_6
+qlcnic_fw_cmd_del_tx_ctx,FUNC_7
+test_and_clear_bit,FUNC_8
+qlcnic_fw_destroy_ctx,FUNC_9
+adapter,VAR_3
+ring,VAR_4

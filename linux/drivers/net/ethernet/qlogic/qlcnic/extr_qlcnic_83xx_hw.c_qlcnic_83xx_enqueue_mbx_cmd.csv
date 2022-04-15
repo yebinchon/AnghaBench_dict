@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+QLC_83XX_MBX_READY,VAR_1
+QLC_83XX_MBX_RESPONSE_UNKNOWN,VAR_2
+QLC_83XX_MBX_RESPONSE_WAIT,VAR_3
+QLC_83XX_MBX_TIMEOUT,VAR_4
+atomic_set,FUNC_0
+init_completion,FUNC_1
+list_add_tail,FUNC_2
+queue_work,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+test_bit,FUNC_6
+qlcnic_83xx_enqueue_mbx_cmd,FUNC_7
+adapter,VAR_5
+cmd,VAR_6
+timeout,VAR_7
+mbx,VAR_8

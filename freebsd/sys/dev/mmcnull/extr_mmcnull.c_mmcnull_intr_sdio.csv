@@ -1,0 +1,17 @@
+CAM_REQ_CMP,VAR_0
+MA_OWNED,VAR_1
+MMC_OCR_CARD_BUSY,VAR_2
+R1_APP_CMD,VAR_3
+R4_IO_MEM_PRESENT,VAR_4
+callout_reset,FUNC_0
+device_printf,FUNC_1
+hz,VAR_5
+mmcnull_intr_sdio_newintr,VAR_6
+mtx_assert,FUNC_2
+strcpy,FUNC_3
+xpt_done,FUNC_4
+mmcnull_intr_sdio,FUNC_5
+xsc,VAR_7
+sc,VAR_8
+ccb,VAR_9
+mmcio,VAR_10

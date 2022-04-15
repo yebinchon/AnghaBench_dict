@@ -1,0 +1,12 @@
+I40E_VSI_FLAG_FILTER_CHANGED,VAR_0
+__I40E_MACVLAN_SYNC_PENDING,VAR_1
+__I40E_VF_DISABLE,VAR_2
+clear_bit,FUNC_0
+i40e_sync_vsi_filters,FUNC_1
+set_bit,FUNC_2
+test_and_clear_bit,FUNC_3
+test_and_set_bit,FUNC_4
+i40e_sync_filters_subtask,FUNC_5
+pf,VAR_3
+v,VAR_4
+ret,VAR_5

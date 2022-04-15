@@ -1,0 +1,17 @@
+IEEE80211_RATE_SHORT_PREAMBLE,VAR_0
+IEEE80211_TX_RC_MCS,VAR_1
+IEEE80211_TX_RC_VHT_MCS,VAR_2
+NL80211_BAND_2GHZ,VAR_3
+ieee80211_rate_get_vht_mcs,FUNC_0
+ieee80211_rate_get_vht_nss,FUNC_1
+mt76x02_tx_get_max_txpwr_adj,FUNC_2
+dev,VAR_4
+rate,VAR_5
+max_txpwr,VAR_6
+mcs,VAR_7
+nss,VAR_8
+idx,VAR_9
+band,VAR_10
+r,VAR_11
+wiphy,VAR_12
+rp,VAR_13

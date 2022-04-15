@@ -1,0 +1,14 @@
+RNG_CTRL,VAR_0
+RNG_EN,VAR_1
+RNG_RING_EN,VAR_2
+RNG_SEED,VAR_3
+RNG_SEED_SEL,VAR_4
+get_random_bytes,FUNC_0
+seed_sel,VAR_5
+to_hisi_rng,FUNC_1
+writel_relaxed,FUNC_2
+hisi_rng_init,FUNC_3
+rng,VAR_6
+hrng,VAR_7
+val,VAR_8
+seed,VAR_9

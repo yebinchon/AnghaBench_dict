@@ -1,0 +1,13 @@
+GETJOB_FLAG_WITHCOUNTERS,VAR_0
+JOB_ID_LEN,VAR_1
+addReplyBulk,FUNC_0
+addReplyBulkCBuffer,FUNC_1
+addReplyBulkCString,FUNC_2
+addReplyLongLong,FUNC_3
+addReplyMultiBulkLen,FUNC_4
+sdslen,FUNC_5
+addReplyJob,FUNC_6
+c,VAR_2
+j,VAR_3
+flags,VAR_4
+bulklen,VAR_5

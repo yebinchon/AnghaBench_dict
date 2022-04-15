@@ -1,0 +1,14 @@
+Assert,FUNC_0
+RegisterSnapshot,FUNC_1
+RelationGetRelid,FUNC_2
+RestoreSnapshot,FUNC_3
+index_beginscan_internal,FUNC_4
+table_index_fetch_begin,FUNC_5
+index_beginscan_parallel,FUNC_6
+heaprel,VAR_0
+indexrel,VAR_1
+nkeys,VAR_2
+norderbys,VAR_3
+pscan,VAR_4
+snapshot,VAR_5
+scan,VAR_6

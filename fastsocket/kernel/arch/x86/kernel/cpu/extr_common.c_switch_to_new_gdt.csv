@@ -1,0 +1,7 @@
+GDT_SIZE,VAR_0
+get_cpu_gdt_table,FUNC_0
+load_gdt,FUNC_1
+load_percpu_segment,FUNC_2
+switch_to_new_gdt,FUNC_3
+cpu,VAR_1
+gdt_descr,VAR_2

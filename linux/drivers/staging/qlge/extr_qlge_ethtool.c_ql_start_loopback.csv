@@ -1,0 +1,9 @@
+CFG_LOOPBACK_PCS,VAR_0
+QL_LB_LINK_UP,VAR_1
+clear_bit,FUNC_0
+netif_carrier_off,FUNC_1
+netif_carrier_ok,FUNC_2
+ql_mb_set_port_cfg,FUNC_3
+set_bit,FUNC_4
+ql_start_loopback,FUNC_5
+qdev,VAR_2

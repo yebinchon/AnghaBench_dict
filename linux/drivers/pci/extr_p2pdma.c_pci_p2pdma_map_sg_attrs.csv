@@ -1,0 +1,16 @@
+WARN_ON_ONCE,FUNC_0
+__pci_p2pdma_map_sg,FUNC_1
+dev_is_pci,FUNC_2
+dma_map_sg_attrs,FUNC_3
+pci_p2pdma_map_type,FUNC_4
+sg_page,FUNC_5
+to_p2p_pgmap,FUNC_6
+to_pci_dev,FUNC_7
+pci_p2pdma_map_sg_attrs,FUNC_8
+dev,VAR_0
+sg,VAR_1
+nents,VAR_2
+dir,VAR_3
+attrs,VAR_4
+p2p_pgmap,VAR_5
+client,VAR_6

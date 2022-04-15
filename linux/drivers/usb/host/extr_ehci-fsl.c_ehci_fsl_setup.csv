@@ -1,0 +1,14 @@
+FSL_SOC_USB_SBUSCFG,VAR_0
+SBUSCFG_INCR8,VAR_1
+dev_get_platdata,FUNC_0
+ehci_fsl_reinit,FUNC_1
+ehci_setup,FUNC_2
+ehci_writel,FUNC_3
+hcd_to_ehci,FUNC_4
+of_device_is_compatible,FUNC_5
+ehci_fsl_setup,FUNC_6
+hcd,VAR_2
+ehci,VAR_3
+retval,VAR_4
+pdata,VAR_5
+dev,VAR_6

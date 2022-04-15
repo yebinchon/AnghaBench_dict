@@ -1,0 +1,14 @@
+L_CLR,FUNC_0
+init_ntp_loop,FUNC_1
+lck_attr_alloc_init,FUNC_2
+lck_grp_alloc_init,FUNC_3
+lck_grp_attr_alloc_init,FUNC_4
+lck_spin_alloc_init,FUNC_5
+ntp_lock,VAR_0
+ntp_lock_attr,VAR_1
+ntp_lock_grp,VAR_2
+ntp_lock_grp_attr,VAR_3
+time_freq,VAR_4
+time_offset,VAR_5
+updated,VAR_6
+ntp_init,FUNC_6

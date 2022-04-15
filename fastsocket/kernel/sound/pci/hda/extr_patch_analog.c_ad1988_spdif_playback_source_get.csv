@@ -1,0 +1,10 @@
+AC_AMP_GET_INPUT,VAR_0
+AC_VERB_GET_AMP_GAIN_MUTE,VAR_1
+AC_VERB_GET_CONNECT_SEL,VAR_2
+snd_hda_codec_read,FUNC_0
+snd_kcontrol_chip,FUNC_1
+ad1988_spdif_playback_source_get,FUNC_2
+kcontrol,VAR_3
+ucontrol,VAR_4
+codec,VAR_5
+sel,VAR_6

@@ -1,0 +1,16 @@
+AR5523_USB_DISCONNECTED,VAR_0
+ar5523_cancel_rx_cmd,FUNC_0
+ar5523_dbg,FUNC_1
+ar5523_free_rx_bufs,FUNC_2
+ar5523_free_rx_cmd,FUNC_3
+ar5523_free_tx_cmd,FUNC_4
+destroy_workqueue,FUNC_5
+ieee80211_free_hw,FUNC_6
+ieee80211_unregister_hw,FUNC_7
+set_bit,FUNC_8
+usb_get_intfdata,FUNC_9
+usb_set_intfdata,FUNC_10
+ar5523_disconnect,FUNC_11
+intf,VAR_1
+hw,VAR_2
+ar,VAR_3

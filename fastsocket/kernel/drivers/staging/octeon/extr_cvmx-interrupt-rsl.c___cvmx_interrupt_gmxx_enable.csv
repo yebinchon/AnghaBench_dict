@@ -1,0 +1,16 @@
+CVMX_GMXX_INF_MODE,FUNC_0
+CVMX_GMXX_TX_INT_EN,FUNC_1
+OCTEON_CN38XX,VAR_0
+OCTEON_CN52XX,VAR_1
+OCTEON_CN56XX,VAR_2
+OCTEON_CN58XX,VAR_3
+OCTEON_IS_MODEL,FUNC_2
+__cvmx_interrupt_gmxx_rxx_int_en_enable,FUNC_3
+cvmx_read_csr,FUNC_4
+cvmx_write_csr,FUNC_5
+__cvmx_interrupt_gmxx_enable,FUNC_6
+interface,VAR_4
+mode,VAR_5
+gmx_tx_int_en,VAR_6
+num_ports,VAR_7
+index,VAR_8

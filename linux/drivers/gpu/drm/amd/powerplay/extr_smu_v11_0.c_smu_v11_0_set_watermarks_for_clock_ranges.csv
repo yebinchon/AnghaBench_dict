@@ -1,0 +1,13 @@
+SMU_FEATURE_DPM_DCEFCLK_BIT,VAR_0
+SMU_FEATURE_DPM_SOCCLK_BIT,VAR_1
+SMU_TABLE_WATERMARKS,VAR_2
+WATERMARKS_EXIST,VAR_3
+WATERMARKS_LOADED,VAR_4
+smu_feature_is_enabled,FUNC_0
+smu_set_watermarks_table,FUNC_1
+smu_v11_0_set_watermarks_for_clock_ranges,FUNC_2
+smu,VAR_5
+clock_ranges,VAR_6
+ret,VAR_7
+watermarks,VAR_8
+table,VAR_9

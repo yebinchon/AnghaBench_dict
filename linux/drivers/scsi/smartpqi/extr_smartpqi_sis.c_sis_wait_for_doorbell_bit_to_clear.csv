@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+ETIMEDOUT,VAR_1
+PQI_HZ,VAR_2
+SIS_CTRL_KERNEL_PANIC,VAR_3
+SIS_DOORBELL_BIT_CLEAR_TIMEOUT_SECS,VAR_4
+dev_err,FUNC_0
+jiffies,VAR_5
+readl,FUNC_1
+time_after,FUNC_2
+usleep_range,FUNC_3
+sis_wait_for_doorbell_bit_to_clear,FUNC_4
+ctrl_info,VAR_6
+bit,VAR_7
+rc,VAR_8
+doorbell_register,VAR_9
+timeout,VAR_10

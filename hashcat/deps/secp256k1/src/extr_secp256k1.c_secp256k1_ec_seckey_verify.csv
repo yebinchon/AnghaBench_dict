@@ -1,0 +1,11 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+secp256k1_scalar_clear,FUNC_2
+secp256k1_scalar_is_zero,FUNC_3
+secp256k1_scalar_set_b32,FUNC_4
+secp256k1_ec_seckey_verify,FUNC_5
+ctx,VAR_0
+seckey,VAR_1
+sec,VAR_2
+ret,VAR_3
+overflow,VAR_4

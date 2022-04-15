@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+RSEQ_CS_FLAG_NO_RESTART_ON_SIGNAL,VAR_1
+RSEQ_CS_PREEMPT_MIGRATE_FLAGS,VAR_2
+get_user,FUNC_0
+preempt_disable,FUNC_1
+preempt_enable,FUNC_2
+unlikely,FUNC_3
+rseq_need_restart,FUNC_4
+t,VAR_3
+cs_flags,VAR_4
+flags,VAR_5
+event_mask,VAR_6
+ret,VAR_7

@@ -1,0 +1,9 @@
+BMC_CMD_WDT_EXIT_PROD,VAR_0
+BMC_CMD_WDT_PROD_STAT,VAR_1
+dev_info,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte,FUNC_2
+menf21bmc_wdt_exit_prod_mode,FUNC_3
+client,VAR_2
+val,VAR_3
+ret,VAR_4

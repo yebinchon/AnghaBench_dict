@@ -1,0 +1,15 @@
+drm_crtc_send_vblank_event,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+to_udl_fb,FUNC_3
+udl_handle_damage,FUNC_4
+udl_crtc_page_flip,FUNC_5
+crtc,VAR_0
+fb,VAR_1
+event,VAR_2
+page_flip_flags,VAR_3
+ctx,VAR_4
+ufb,VAR_5
+dev,VAR_6
+old_fb,VAR_7
+uold_fb,VAR_8

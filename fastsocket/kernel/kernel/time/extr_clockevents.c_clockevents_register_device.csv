@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+CLOCK_EVT_MODE_UNUSED,VAR_0
+CLOCK_EVT_NOTIFY_ADD,VAR_1
+clockevent_devices,VAR_2
+clockevents_do_notify,FUNC_1
+clockevents_lock,VAR_3
+clockevents_notify_released,FUNC_2
+list_add,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+clockevents_register_device,FUNC_6
+dev,VAR_4
+flags,VAR_5

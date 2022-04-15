@@ -1,0 +1,12 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+__set_current_state,FUNC_1
+add_wait_queue_exclusive,FUNC_2
+current,VAR_1
+remove_wait_queue,FUNC_3
+schedule,FUNC_4
+spin_unlock,FUNC_5
+wait,VAR_2
+xlog_wait,FUNC_6
+wq,VAR_3
+lock,VAR_4

@@ -1,0 +1,15 @@
+CHAN_SES_PACKET_DEFAULT,VAR_0
+SSH_CHANNEL_LARVAL,VAR_1
+channel_free,FUNC_0
+channel_new,FUNC_1
+channel_register_cleanup,FUNC_2
+debug,FUNC_3
+no_more_sessions,VAR_2
+packet_check_eom,FUNC_4
+packet_disconnect,FUNC_5
+session_close_by_channel,VAR_3
+session_open,FUNC_6
+the_authctxt,VAR_4
+server_request_session,FUNC_7
+ssh,VAR_5
+c,VAR_6

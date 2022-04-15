@@ -1,0 +1,14 @@
+IFF_PROMISC,VAR_0
+VMXNET3_CMD_UPDATE_VLAN_FILTERS,VAR_1
+VMXNET3_REG_CMD,VAR_2
+VMXNET3_SET_VFTABLE_ENTRY,FUNC_0
+VMXNET3_WRITE_BAR1_REG,FUNC_1
+netdev_priv,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+vmxnet3_vlan_rx_add_vid,FUNC_5
+netdev,VAR_3
+vid,VAR_4
+adapter,VAR_5
+vfTable,VAR_6
+flags,VAR_7

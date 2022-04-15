@@ -1,0 +1,16 @@
+CURRENT_TIME_SEC,VAR_0
+clear_nlink,FUNC_0
+drop_nlink,FUNC_1
+fat_detach,FUNC_2
+fat_dir_empty,FUNC_3
+fat_remove_entries,FUNC_4
+lock_super,FUNC_5
+unlock_super,FUNC_6
+vfat_find,FUNC_7
+vfat_rmdir,FUNC_8
+dir,VAR_1
+dentry,VAR_2
+inode,VAR_3
+sb,VAR_4
+sinfo,VAR_5
+err,VAR_6

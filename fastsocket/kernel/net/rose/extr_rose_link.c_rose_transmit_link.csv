@@ -1,0 +1,17 @@
+AX25_P_ROSE,VAR_0
+FW_ACCEPT,VAR_1
+PF_ROSE,VAR_2
+call_fw_firewall,FUNC_0
+kfree_skb,FUNC_1
+rose_link_up,FUNC_2
+rose_loopback_queue,FUNC_3
+rose_send_frame,FUNC_4
+rose_start_t0timer,FUNC_5
+rose_t0timer_running,FUNC_6
+rose_transmit_restart_request,FUNC_7
+skb_push,FUNC_8
+skb_queue_tail,FUNC_9
+rose_transmit_link,FUNC_10
+skb,VAR_3
+neigh,VAR_4
+dptr,VAR_5

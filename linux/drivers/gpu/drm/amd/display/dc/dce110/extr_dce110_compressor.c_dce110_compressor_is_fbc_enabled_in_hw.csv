@@ -1,0 +1,15 @@
+FBC_CNTL,VAR_0
+FBC_ENABLE_STATUS,VAR_1
+FBC_GRPH_COMP_EN,VAR_2
+FBC_MISC,VAR_3
+FBC_STATUS,VAR_4
+FBC_STOP_ON_HFLIP_EVENT,VAR_5
+dm_read_reg,FUNC_0
+get_reg_field_value,FUNC_1
+mmFBC_CNTL,VAR_6
+mmFBC_MISC,VAR_7
+mmFBC_STATUS,VAR_8
+dce110_compressor_is_fbc_enabled_in_hw,FUNC_2
+compressor,VAR_9
+inst,VAR_10
+value,VAR_11

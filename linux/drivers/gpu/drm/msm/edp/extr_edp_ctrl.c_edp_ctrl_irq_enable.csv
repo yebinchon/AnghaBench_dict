@@ -1,0 +1,12 @@
+DBG,FUNC_0
+EDP_INTR_MASK1,VAR_0
+EDP_INTR_MASK2,VAR_1
+REG_EDP_INTERRUPT_REG_1,VAR_2
+REG_EDP_INTERRUPT_REG_2,VAR_3
+edp_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+edp_ctrl_irq_enable,FUNC_4
+ctrl,VAR_4
+enable,VAR_5
+flags,VAR_6

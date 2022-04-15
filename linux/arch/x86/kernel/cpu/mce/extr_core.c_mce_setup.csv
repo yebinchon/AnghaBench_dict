@@ -1,0 +1,13 @@
+MSR_IA32_MCG_CAP,VAR_0
+MSR_PPIN,VAR_1
+X86_FEATURE_INTEL_PPIN,VAR_2
+__ktime_get_real_seconds,FUNC_0
+boot_cpu_data,VAR_3
+cpu_data,FUNC_1
+cpuid_eax,FUNC_2
+memset,FUNC_3
+rdmsrl,FUNC_4
+smp_processor_id,FUNC_5
+this_cpu_has,FUNC_6
+mce_setup,FUNC_7
+m,VAR_4

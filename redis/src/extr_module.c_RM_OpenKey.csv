@@ -1,0 +1,17 @@
+LOOKUP_NOTOUCH,VAR_0
+REDISMODULE_AM_KEY,VAR_1
+REDISMODULE_OPEN_KEY_NOTOUCH,VAR_2
+REDISMODULE_WRITE,VAR_3
+autoMemoryAdd,FUNC_0
+incrRefCount,FUNC_1
+lookupKeyReadWithFlags,FUNC_2
+lookupKeyWriteWithFlags,FUNC_3
+zmalloc,FUNC_4
+zsetKeyReset,FUNC_5
+RM_OpenKey,FUNC_6
+ctx,VAR_4
+keyname,VAR_5
+mode,VAR_6
+kp,VAR_7
+value,VAR_8
+flags,VAR_9

@@ -1,0 +1,13 @@
+HYPERVISOR_physdev_op,FUNC_0
+PHYSDEVOP_DBGP_BUS_PCI,VAR_0
+PHYSDEVOP_DBGP_BUS_UNKNOWN,VAR_1
+PHYSDEVOP_dbgp_op,VAR_2
+dev_is_pci,FUNC_1
+hcd_to_bus,FUNC_2
+pci_domain_nr,FUNC_3
+to_pci_dev,FUNC_4
+xen_initial_domain,FUNC_5
+xen_dbgp_op,FUNC_6
+hcd,VAR_3
+op,VAR_4
+dbgp,VAR_5

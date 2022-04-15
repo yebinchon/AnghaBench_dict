@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+QLINK_CMD_MAC_INFO,VAR_1
+QLINK_VIFID_RSVD,VAR_2
+consume_skb,FUNC_0
+qtnf_bus_lock,FUNC_1
+qtnf_bus_unlock,FUNC_2
+qtnf_cmd_alloc_new_cmdskb,FUNC_3
+qtnf_cmd_resp_proc_mac_info,FUNC_4
+qtnf_cmd_send_with_reply,FUNC_5
+qtnf_parse_variable_mac_info,FUNC_6
+qtnf_cmd_get_mac_info,FUNC_7
+mac,VAR_3
+cmd_skb,VAR_4
+resp_skb,VAR_5
+resp,VAR_6
+var_data_len,VAR_7
+ret,VAR_8

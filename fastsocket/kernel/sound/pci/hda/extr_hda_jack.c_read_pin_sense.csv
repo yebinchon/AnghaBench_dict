@@ -1,0 +1,11 @@
+AC_PINCAP_TRIG_REQ,VAR_0
+AC_PINSENSE_PRESENCE,VAR_1
+AC_VERB_GET_PIN_SENSE,VAR_2
+AC_VERB_SET_PIN_SENSE,VAR_3
+snd_hda_codec_read,FUNC_0
+snd_hda_query_pin_caps,FUNC_1
+read_pin_sense,FUNC_2
+codec,VAR_4
+nid,VAR_5
+pincap,VAR_6
+val,VAR_7

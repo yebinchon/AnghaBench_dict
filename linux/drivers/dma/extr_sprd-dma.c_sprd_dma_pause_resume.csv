@@ -1,0 +1,15 @@
+SPRD_DMA_CHN_PAUSE,VAR_0
+SPRD_DMA_PAUSE_CNT,VAR_1
+SPRD_DMA_PAUSE_EN,VAR_2
+SPRD_DMA_PAUSE_STS,VAR_3
+cpu_relax,FUNC_0
+dev_warn,FUNC_1
+readl,FUNC_2
+sprd_dma_chn_update,FUNC_3
+to_sprd_dma_dev,FUNC_4
+sprd_dma_pause_resume,FUNC_5
+schan,VAR_4
+enable,VAR_5
+sdev,VAR_6
+pause,VAR_7
+timeout,VAR_8

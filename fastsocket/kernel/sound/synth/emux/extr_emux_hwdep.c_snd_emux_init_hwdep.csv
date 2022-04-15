@@ -1,0 +1,10 @@
+SNDRV_EMUX_HWDEP_NAME,VAR_0
+SNDRV_HWDEP_IFACE_EMUX_WAVETABLE,VAR_1
+snd_card_register,FUNC_0
+snd_emux_hwdep_ioctl,VAR_2
+snd_hwdep_new,FUNC_1
+strcpy,FUNC_2
+snd_emux_init_hwdep,FUNC_3
+emu,VAR_3
+hw,VAR_4
+err,VAR_5

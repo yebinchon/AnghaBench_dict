@@ -1,0 +1,15 @@
+__perf_pmu__new_alias,FUNC_0
+is_arm_pmu_core,FUNC_1
+perf_pmu__find_map,FUNC_2
+pmu_is_uncore,FUNC_3
+pmu_uncore_alias_match,FUNC_4
+strcmp,FUNC_5
+pmu_add_cpu_aliases,FUNC_6
+head,VAR_0
+pmu,VAR_1
+i,VAR_2
+map,VAR_3
+name,VAR_4
+cpu_name,VAR_5
+pe,VAR_6
+pname,VAR_7

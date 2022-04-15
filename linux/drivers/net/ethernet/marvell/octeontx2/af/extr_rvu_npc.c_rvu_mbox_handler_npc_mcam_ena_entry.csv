@@ -1,0 +1,15 @@
+BLKTYPE_NPC,VAR_0
+NPC_MCAM_INVALID_REQ,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+npc_enable_mcam_entry,FUNC_2
+npc_mcam_verify_entry,FUNC_3
+rvu_get_blkaddr,FUNC_4
+rvu_mbox_handler_npc_mcam_ena_entry,FUNC_5
+rvu,VAR_2
+req,VAR_3
+rsp,VAR_4
+mcam,VAR_5
+pcifunc,VAR_6
+blkaddr,VAR_7
+rc,VAR_8

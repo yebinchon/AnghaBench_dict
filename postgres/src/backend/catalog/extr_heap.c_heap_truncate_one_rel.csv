@@ -1,0 +1,12 @@
+AccessExclusiveLock,VAR_0
+NoLock,VAR_1
+OidIsValid,FUNC_0
+RELKIND_PARTITIONED_TABLE,VAR_2
+RelationTruncateIndexes,FUNC_1
+table_close,FUNC_2
+table_open,FUNC_3
+table_relation_nontransactional_truncate,FUNC_4
+heap_truncate_one_rel,FUNC_5
+rel,VAR_3
+toastrelid,VAR_4
+toastrel,VAR_5

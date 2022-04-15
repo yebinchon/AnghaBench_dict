@@ -1,0 +1,17 @@
+HDMI_HI2CHCR,VAR_0
+HDMI_READ,FUNC_0
+HDMI_WRITE,FUNC_1
+HI2C_EDID_READ,VAR_1
+HI2C_ENABLE_TRANSACTION,VAR_2
+HZ,VAR_3
+I2C_STAT_INIT,VAR_4
+I2C_TRANSACTION_DONE,VAR_5
+i2c_get_adapdata,FUNC_2
+reinit_completion,FUNC_3
+wait_for_completion_interruptible_timeout,FUNC_4
+xfer_read,FUNC_5
+adap,VAR_6
+pmsg,VAR_7
+hdmi_dev,VAR_8
+i2c_dev,VAR_9
+temp,VAR_10

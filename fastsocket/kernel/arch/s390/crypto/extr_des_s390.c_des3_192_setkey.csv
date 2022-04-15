@@ -1,0 +1,17 @@
+CRYPTO_TFM_REQ_WEAK_KEY,VAR_0
+CRYPTO_TFM_RES_WEAK_KEY,VAR_1
+DES_KEY_SIZE,VAR_2
+EINVAL,VAR_3
+crypto_des_check_key,FUNC_0
+crypto_tfm_ctx,FUNC_1
+memcmp,FUNC_2
+memcpy,FUNC_3
+des3_192_setkey,FUNC_4
+tfm,VAR_4
+key,VAR_5
+keylen,VAR_6
+i,VAR_7
+ret,VAR_8
+dctx,VAR_9
+temp_key,VAR_10
+flags,VAR_11

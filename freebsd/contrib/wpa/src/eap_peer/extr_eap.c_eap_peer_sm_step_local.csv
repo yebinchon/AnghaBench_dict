@@ -1,0 +1,16 @@
+DECISION_FAIL,VAR_0
+DISCARD,VAR_1
+EAP,VAR_2
+EAPOL_portEnabled,VAR_3
+FAILURE,VAR_4
+IDLE,VAR_5
+INITIALIZE,VAR_6
+METHOD,VAR_7
+METHOD_DONE,VAR_8
+SEND_RESPONSE,VAR_9
+SM_ENTER,FUNC_0
+eap_peer_sm_step_idle,FUNC_1
+eap_peer_sm_step_received,FUNC_2
+eapol_get_bool,FUNC_3
+eap_peer_sm_step_local,FUNC_4
+sm,VAR_10

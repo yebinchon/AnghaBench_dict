@@ -1,0 +1,16 @@
+CFIL_LOG,FUNC_0
+IS_UDP,FUNC_1
+LOG_INFO,VAR_0
+MAX_CONTENT_FILTER,VAR_1
+SHUT_RD,VAR_2
+SHUT_WR,VAR_3
+SOF_CONTENT_FILTER,VAR_4
+VM_KERNEL_ADDRPERM,FUNC_2
+cfil_dispatch_disconnect_event,FUNC_3
+cfil_sock_udp_notify_shutdown,FUNC_4
+socket_lock_assert_owned,FUNC_5
+cfil_sock_notify_shutdown,FUNC_6
+so,VAR_5
+how,VAR_6
+error,VAR_7
+kcunit,VAR_8

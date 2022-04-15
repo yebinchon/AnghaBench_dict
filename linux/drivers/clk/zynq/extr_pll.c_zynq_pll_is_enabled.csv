@@ -1,0 +1,11 @@
+PLLCTRL_PWRDWN_MASK,VAR_0
+PLLCTRL_RESET_MASK,VAR_1
+readl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_zynq_pll,FUNC_3
+zynq_pll_is_enabled,FUNC_4
+hw,VAR_2
+flags,VAR_3
+reg,VAR_4
+clk,VAR_5

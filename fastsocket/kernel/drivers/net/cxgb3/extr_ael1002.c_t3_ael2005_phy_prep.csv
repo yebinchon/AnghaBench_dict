@@ -1,0 +1,15 @@
+AEL_OPT_SETTINGS,VAR_0
+MDIO_MMD_PMAPMD,VAR_1
+SUPPORTED_10000baseT_Full,VAR_2
+SUPPORTED_AUI,VAR_3
+SUPPORTED_FIBRE,VAR_4
+SUPPORTED_IRQ,VAR_5
+ael2005_ops,VAR_6
+cphy_init,FUNC_0
+msleep,FUNC_1
+t3_mdio_change_bits,FUNC_2
+t3_ael2005_phy_prep,FUNC_3
+phy,VAR_7
+adapter,VAR_8
+phy_addr,VAR_9
+mdio_ops,VAR_10

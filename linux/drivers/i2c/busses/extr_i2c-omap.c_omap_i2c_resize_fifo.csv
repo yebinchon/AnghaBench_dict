@@ -1,0 +1,13 @@
+OMAP_I2C_BUF_REG,VAR_0
+OMAP_I2C_BUF_RXFIF_CLR,VAR_1
+OMAP_I2C_BUF_TXFIF_CLR,VAR_2
+OMAP_I2C_FLAG_NO_FIFO,VAR_3
+OMAP_I2C_REV_ON_3630,VAR_4
+clamp,FUNC_0
+omap_i2c_read_reg,FUNC_1
+omap_i2c_write_reg,FUNC_2
+omap_i2c_resize_fifo,FUNC_3
+omap,VAR_5
+size,VAR_6
+is_rx,VAR_7
+buf,VAR_8

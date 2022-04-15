@@ -1,0 +1,17 @@
+DMZ_BLOCK_SIZE,VAR_0
+DMZ_MAGIC,VAR_1
+DMZ_META_VER,VAR_2
+ENXIO,VAR_3
+crc32_le,FUNC_0
+dmz_dev_err,FUNC_1
+le32_to_cpu,FUNC_2
+le64_to_cpu,FUNC_3
+dmz_check_sb,FUNC_4
+zmd,VAR_4
+sb,VAR_5
+nr_meta_zones,VAR_6
+nr_data_zones,VAR_7
+dev,VAR_8
+crc,VAR_9
+stored_crc,VAR_10
+gen,VAR_11

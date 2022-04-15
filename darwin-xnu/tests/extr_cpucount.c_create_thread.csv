@@ -1,0 +1,16 @@
+PTHREAD_CREATE_DETACHED,VAR_0
+T_ASSERT_POSIX_SUCCESS,FUNC_0
+T_QUIET,VAR_1
+pthread_attr_destroy,FUNC_1
+pthread_attr_init,FUNC_2
+pthread_attr_setdetachstate,FUNC_3
+pthread_attr_setschedparam,FUNC_4
+pthread_create,FUNC_5
+set_realtime,FUNC_6
+create_thread,FUNC_7
+start_routine,VAR_2
+priority,VAR_3
+rv,VAR_4
+new_thread,VAR_5
+attr,VAR_6
+param,VAR_7

@@ -1,0 +1,14 @@
+ATTACH_PARENT_PROCESS,VAR_0
+AllocConsole,FUNC_0
+AttachConsole,FUNC_1
+FILE_TYPE_UNKNOWN,VAR_1
+GetFileType,FUNC_2
+GetStdHandle,FUNC_3
+STD_ERROR_HANDLE,VAR_2
+STD_OUTPUT_HANDLE,VAR_3
+SetConsoleTitle,FUNC_4
+console_needs_free,VAR_4
+freopen,FUNC_5
+stderr,VAR_5
+stdout,VAR_6
+frontend_win32_attach_console,FUNC_6

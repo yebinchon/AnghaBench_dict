@@ -1,0 +1,11 @@
+CMD_802_11_RF_TX_POWER,VAR_0
+CMD_ACT_SET,VAR_1
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_deb_cmd,FUNC_2
+memset,FUNC_3
+lbs_set_tx_power,FUNC_4
+priv,VAR_2
+dbm,VAR_3
+cmd,VAR_4
+ret,VAR_5

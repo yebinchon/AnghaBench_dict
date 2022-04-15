@@ -1,0 +1,15 @@
+ClientMessage,VAR_0
+DefaultRootWindow,FUNC_0
+False,VAR_1
+SubstructureNotifyMask,VAR_2
+SubstructureRedirectMask,VAR_3
+True,VAR_4
+XA_NET_WM_STATE,VAR_5
+XA_NET_WM_STATE_FULLSCREEN,VAR_6
+XInternAtom,FUNC_1
+XSendEvent,FUNC_2
+_NET_WM_STATE_ADD,VAR_7
+x11_set_net_wm_fullscreen,FUNC_3
+dpy,VAR_8
+win,VAR_9
+xev,VAR_10

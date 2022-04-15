@@ -1,0 +1,12 @@
+AC_PINCTL_IN_EN,VAR_0
+AC_PINCTL_OUT_EN,VAR_1
+AC_PINCTL_VREF_50,VAR_2
+HDA_FIXUP_ACT_INIT,VAR_3
+snd_hda_codec_get_pin_target,FUNC_0
+snd_hda_set_pin_ctl,FUNC_1
+alc861_fixup_asus_amp_vref_0f,FUNC_2
+codec,VAR_4
+fix,VAR_5
+action,VAR_6
+spec,VAR_7
+val,VAR_8

@@ -1,0 +1,9 @@
+bus_generic_detach,FUNC_0
+device_delete_child,FUNC_1
+device_get_softc,FUNC_2
+rman_fini,FUNC_3
+vmd_free,FUNC_4
+vmd_detach,FUNC_5
+dev,VAR_0
+sc,VAR_1
+err,VAR_2

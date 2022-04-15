@@ -1,0 +1,17 @@
+GNLD_DPM_DCEFCLK,VAR_0
+PPCLK_DCEFCLK,VAR_1
+PPCLK_DISPCLK,VAR_2
+PPCLK_PHYCLK,VAR_3
+PPCLK_PIXCLK,VAR_4
+PPSMC_MSG_SetHardMinByFreq,VAR_5
+pr_info,FUNC_0
+smum_send_msg_to_smc_with_parameter,FUNC_1
+vega12_display_clock_voltage_request,FUNC_2
+hwmgr,VAR_6
+clock_req,VAR_7
+result,VAR_8
+data,VAR_9
+clk_type,VAR_10
+clk_freq,VAR_11
+clk_select,VAR_12
+clk_request,VAR_13

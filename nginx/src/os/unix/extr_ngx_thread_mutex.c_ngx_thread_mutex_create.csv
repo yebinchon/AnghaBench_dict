@@ -1,0 +1,15 @@
+NGX_ERROR,VAR_0
+NGX_LOG_ALERT,VAR_1
+NGX_LOG_EMERG,VAR_2
+NGX_OK,VAR_3
+PTHREAD_MUTEX_ERRORCHECK,VAR_4
+ngx_log_error,FUNC_0
+pthread_mutex_init,FUNC_1
+pthread_mutexattr_destroy,FUNC_2
+pthread_mutexattr_init,FUNC_3
+pthread_mutexattr_settype,FUNC_4
+ngx_thread_mutex_create,FUNC_5
+mtx,VAR_5
+log,VAR_6
+err,VAR_7
+attr,VAR_8

@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+IFCQF_ENABLED,VAR_1
+IFCQ_IS_EMPTY,FUNC_0
+IFCQ_LOCK_ASSERT_HELD,FUNC_1
+VERIFY,FUNC_2
+fq_if_teardown_ifclassq,FUNC_3
+if_qflush,FUNC_4
+qfq_teardown_ifclassq,FUNC_5
+tcq_teardown_ifclassq,FUNC_6
+pktsched_teardown,FUNC_7
+ifq,VAR_2
+error,VAR_3

@@ -1,0 +1,16 @@
+INTR_EN,VAR_0
+QL_MSIX_ENABLED,VAR_1
+STS,VAR_2
+atomic_inc,FUNC_0
+atomic_read,FUNC_1
+likely,FUNC_2
+ql_read32,FUNC_3
+ql_write32,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+test_bit,FUNC_7
+ql_disable_completion_interrupt,FUNC_8
+qdev,VAR_3
+intr,VAR_4
+var,VAR_5
+ctx,VAR_6

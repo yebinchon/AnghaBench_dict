@@ -1,0 +1,11 @@
+SYSCON_OFFSET,VAR_0
+SYSCON_UARTEN,VAR_1
+UBRLCR_BREAK,VAR_2
+UBRLCR_OFFSET,VAR_3
+dev_get_drvdata,FUNC_0
+readl,FUNC_1
+regmap_update_bits,FUNC_2
+writel,FUNC_3
+uart_clps711x_startup,FUNC_4
+port,VAR_4
+s,VAR_5

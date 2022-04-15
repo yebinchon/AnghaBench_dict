@@ -1,0 +1,14 @@
+AC_JACK_PORT_COMPLEX,VAR_0
+AC_JACK_PORT_NONE,VAR_1
+get_defcfg_connect,FUNC_0
+is_jack_detectable,FUNC_1
+jack_update_power,VAR_2
+snd_hda_codec_get_pincfg,FUNC_2
+snd_hda_jack_detect_enable_callback,FUNC_3
+stac_toggle_power_map,FUNC_4
+stac_init_power_map,FUNC_5
+codec,VAR_3
+spec,VAR_4
+i,VAR_5
+nid,VAR_6
+def_conf,VAR_7

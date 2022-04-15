@@ -1,0 +1,17 @@
+BCM2835_AUDIO_LOCK,FUNC_0
+BCM2835_AUDIO_UNLOCK,FUNC_1
+M_DEVBUF,VAR_0
+WORKER_STOPPED,VAR_1
+WORKER_STOPPING,VAR_2
+bcm2835_audio_release,FUNC_2
+cv_destroy,FUNC_3
+cv_signal,FUNC_4
+cv_wait_sig,FUNC_5
+free,FUNC_6
+mtx_destroy,FUNC_7
+pcm_getdevinfo,FUNC_8
+pcm_unregister,FUNC_9
+bcm2835_audio_detach,FUNC_10
+dev,VAR_3
+r,VAR_4
+sc,VAR_5

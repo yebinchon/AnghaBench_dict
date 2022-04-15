@@ -1,0 +1,11 @@
+EP_STATE_CONNECT_COMPL,VAR_0
+EP_STATE_CONNECT_FAILED,VAR_1
+EP_STATE_IDLE,VAR_2
+EP_STATE_OFLD_FAILED,VAR_3
+msecs_to_jiffies,FUNC_0
+wait_event_interruptible_timeout,FUNC_1
+bnx2i_ep_poll,FUNC_2
+ep,VAR_4
+timeout_ms,VAR_5
+bnx2i_ep,VAR_6
+rc,VAR_7

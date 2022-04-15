@@ -1,0 +1,17 @@
+DCCPO_ELAPSED_TIME,VAR_0
+DCCP_MAX_OPT_LEN,VAR_1
+DCCP_SKB_CB,FUNC_0
+dccp_elapsed_time_len,FUNC_1
+htonl,FUNC_2
+htons,FUNC_3
+memcpy,FUNC_4
+skb_push,FUNC_5
+dccp_insert_option_elapsed_time,FUNC_6
+sk,VAR_2
+skb,VAR_3
+elapsed_time,VAR_4
+elapsed_time_len,VAR_5
+len,VAR_6
+to,VAR_7
+var16,VAR_8
+var32,VAR_9

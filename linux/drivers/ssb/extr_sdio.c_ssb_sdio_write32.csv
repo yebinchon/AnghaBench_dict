@@ -1,0 +1,17 @@
+SBSDIO_SB_ACCESS_2_4B_FLAG,VAR_0
+SBSDIO_SB_OFT_ADDR_MASK,VAR_1
+SSB_QUIRK_SDIO_READ_AFTER_WRITE32,VAR_2
+dev_dbg,FUNC_0
+sdio_claim_host,FUNC_1
+sdio_readl,FUNC_2
+sdio_release_host,FUNC_3
+sdio_writel,FUNC_4
+ssb_sdio_dev,FUNC_5
+ssb_sdio_switch_core,FUNC_6
+unlikely,FUNC_7
+ssb_sdio_write32,FUNC_8
+dev,VAR_3
+offset,VAR_4
+val,VAR_5
+bus,VAR_6
+error,VAR_7

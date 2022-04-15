@@ -1,0 +1,12 @@
+ATF_REQUIRE,FUNC_0
+O_CREAT,VAR_0
+O_TRUNC,VAR_1
+O_WRONLY,VAR_2
+RE,FUNC_1
+atf_fs_path_cstring,FUNC_2
+atf_fs_path_fini,FUNC_3
+atf_fs_path_init_fmt,FUNC_4
+open,FUNC_5
+create_ctl_file,FUNC_6
+name,VAR_3
+p,VAR_4

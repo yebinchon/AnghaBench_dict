@@ -1,0 +1,10 @@
+ETH_ZLEN,VAR_0
+PCI_DMA_TODEVICE,VAR_1
+le32_to_cpu,FUNC_0
+memset,FUNC_1
+pci_unmap_single,FUNC_2
+sis190_unmap_tx_skb,FUNC_3
+pdev,VAR_2
+skb,VAR_3
+desc,VAR_4
+len,VAR_5

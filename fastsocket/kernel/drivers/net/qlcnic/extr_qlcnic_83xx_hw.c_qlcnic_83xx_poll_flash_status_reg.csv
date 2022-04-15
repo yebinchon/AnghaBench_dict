@@ -1,0 +1,11 @@
+EIO,VAR_0
+QLC_83XX_FLASH_READ_RETRY_COUNT,VAR_1
+QLC_83XX_FLASH_STATUS,VAR_2
+QLC_83XX_FLASH_STATUS_READY,VAR_3
+QLC_83XX_FLASH_STATUS_REG_POLL_DELAY,VAR_4
+msleep,FUNC_0
+qlcnic_83xx_rd_reg_indirect,FUNC_1
+qlcnic_83xx_poll_flash_status_reg,FUNC_2
+adapter,VAR_5
+status,VAR_6
+retries,VAR_7

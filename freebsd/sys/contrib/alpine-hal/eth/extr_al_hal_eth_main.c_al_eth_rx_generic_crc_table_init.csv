@@ -1,0 +1,16 @@
+AL_ETH_REV_ID_2,VAR_0
+AL_ETH_RX_PROTOCOL_DETECT_ENTRIES_NUM,VAR_1
+EC_GEN_V3_RX_COMP_DESC_W0_L3_CKS_RES_SEL,VAR_2
+EC_GEN_V3_RX_COMP_DESC_W3_DEC_STAT_13_L4_CKS_RES_SEL,VAR_3
+EC_GEN_V3_RX_COMP_DESC_W3_DEC_STAT_14_L3_CKS_RES_SEL,VAR_4
+EC_GEN_V3_RX_COMP_DESC_W3_DEC_STAT_15_CRC_RES_SEL,VAR_5
+al_assert,FUNC_0
+al_dbg,FUNC_1
+al_eth_generic_rx_crc_gcp,VAR_6
+al_eth_rx_generic_crc_table_entry_set,FUNC_2
+al_reg_write32,FUNC_3
+al_reg_write32_masked,FUNC_4
+al_eth_rx_generic_crc_table_init,FUNC_5
+adapter,VAR_7
+idx,VAR_8
+val,VAR_9

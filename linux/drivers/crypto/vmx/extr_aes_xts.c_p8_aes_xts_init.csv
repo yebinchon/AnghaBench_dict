@@ -1,0 +1,13 @@
+CRYPTO_ALG_ASYNC,VAR_0
+CRYPTO_ALG_NEED_FALLBACK,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+crypto_alloc_skcipher,FUNC_2
+crypto_skcipher_ctx,FUNC_3
+crypto_skcipher_reqsize,FUNC_4
+crypto_skcipher_set_reqsize,FUNC_5
+pr_err,FUNC_6
+p8_aes_xts_init,FUNC_7
+tfm,VAR_2
+ctx,VAR_3
+fallback,VAR_4

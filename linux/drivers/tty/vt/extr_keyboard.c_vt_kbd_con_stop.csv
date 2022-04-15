@@ -1,0 +1,11 @@
+VC_SCROLLOCK,VAR_0
+kbd_table,VAR_1
+led_lock,VAR_2
+set_leds,FUNC_0
+set_vc_kbd_led,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+vt_kbd_con_stop,FUNC_4
+console,VAR_3
+kb,VAR_4
+flags,VAR_5

@@ -1,0 +1,13 @@
+CMD_SYNC,VAR_0
+EINVAL,VAR_1
+IWL_ERR,FUNC_0
+REMOVE_STA,VAR_2
+iwl_mvm_send_cmd_pdu,FUNC_1
+lockdep_is_held,FUNC_2
+rcu_dereference_protected,FUNC_3
+iwl_mvm_rm_sta_common,FUNC_4
+mvm,VAR_3
+sta_id,VAR_4
+sta,VAR_5
+rm_sta_cmd,VAR_6
+ret,VAR_7

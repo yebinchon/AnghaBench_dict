@@ -1,0 +1,13 @@
+ACPI_SIG_RSDP,VAR_0
+PTOV,FUNC_0
+RSDP_CHECKSUM_LENGTH,VAR_1
+strlen,FUNC_1
+strncmp,FUNC_2
+biosacpi_search_rsdp,FUNC_3
+base,VAR_2
+length,VAR_3
+rsdp,VAR_4
+cp,VAR_5
+sum,VAR_6
+ofs,VAR_7
+idx,VAR_8

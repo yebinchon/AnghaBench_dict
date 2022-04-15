@@ -1,0 +1,17 @@
+IDS_PAGEFILE_NONE,VAR_0
+IDS_PAGEFILE_SYSTEM,VAR_1
+LB_ADDSTRING,VAR_2
+LB_SETCURSEL,VAR_3
+LB_SETITEMDATA,VAR_4
+LoadString,FUNC_0
+OnSelChange,FUNC_1
+SendMessage,FUNC_2
+_T,FUNC_3
+_stprintf,FUNC_4
+hApplet,VAR_5
+InitPagefileList,FUNC_5
+pVirtMem,VAR_6
+szDisplayString,VAR_7
+szSize,VAR_8
+Index,VAR_9
+i,VAR_10

@@ -1,0 +1,16 @@
+PCI_CLASS_PROG,VAR_0
+PCI_DEVICE_ID_VIA_8231,VAR_1
+PCI_VENDOR_ID_VIA,VAR_2
+_CHRP_Pegasos,VAR_3
+_chrp_type,VAR_4
+chrp,VAR_5
+dev_info,FUNC_0
+machine_is,FUNC_1
+pci_dev_put,FUNC_2
+pci_get_device,FUNC_3
+pci_read_config_byte,FUNC_4
+pci_write_config_byte,FUNC_5
+chrp_pci_fixup_vt8231_ata,FUNC_6
+viaide,VAR_6
+progif,VAR_7
+viaisa,VAR_8

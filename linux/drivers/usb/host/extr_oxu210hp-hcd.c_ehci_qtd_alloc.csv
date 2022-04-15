@@ -1,0 +1,13 @@
+EHCI_LIST_END,VAR_0
+INIT_LIST_HEAD,FUNC_0
+QTD_NUM,VAR_1
+QTD_STS_HALT,VAR_2
+cpu_to_le32,FUNC_1
+memset,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+virt_to_phys,FUNC_5
+ehci_qtd_alloc,FUNC_6
+oxu,VAR_3
+i,VAR_4
+qtd,VAR_5

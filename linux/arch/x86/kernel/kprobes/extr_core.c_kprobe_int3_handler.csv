@@ -1,0 +1,16 @@
+BREAKPOINT_INSTRUCTION,VAR_0
+KPROBE_HIT_ACTIVE,VAR_1
+get_kprobe,FUNC_0
+get_kprobe_ctlblk,FUNC_1
+kprobe_running,FUNC_2
+reenter_kprobe,FUNC_3
+reset_current_kprobe,FUNC_4
+set_current_kprobe,FUNC_5
+setup_singlestep,FUNC_6
+stub1,FUNC_7
+user_mode,FUNC_8
+kprobe_int3_handler,FUNC_9
+regs,VAR_2
+addr,VAR_3
+p,VAR_4
+kcb,VAR_5

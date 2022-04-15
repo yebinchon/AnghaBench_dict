@@ -1,0 +1,17 @@
+OWL_DMAX_INT_STATUS,VAR_0
+OWL_DMAX_START,VAR_1
+OWL_DMA_IRQ_EN0,VAR_2
+OWL_DMA_IRQ_PD0,VAR_3
+dev_warn,FUNC_0
+dma_readl,FUNC_1
+dma_update,FUNC_2
+dma_writel,FUNC_3
+pchan_update,FUNC_4
+pchan_writel,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+owl_dma_terminate_pchan,FUNC_8
+od,VAR_4
+pchan,VAR_5
+flags,VAR_6
+irq_pd,VAR_7

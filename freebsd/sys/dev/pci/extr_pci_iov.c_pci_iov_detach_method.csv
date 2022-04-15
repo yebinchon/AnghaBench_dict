@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+Giant,VAR_1
+IOV_BUSY,VAR_2
+M_SRIOV,VAR_3
+destroy_dev,FUNC_0
+device_get_ivars,FUNC_1
+free,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+nvlist_destroy,FUNC_5
+pci_iov_detach_method,FUNC_6
+bus,VAR_4
+dev,VAR_5
+dinfo,VAR_6
+iov,VAR_7

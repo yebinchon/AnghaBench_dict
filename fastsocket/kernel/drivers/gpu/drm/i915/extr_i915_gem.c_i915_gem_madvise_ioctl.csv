@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOENT,VAR_1
+__I915_MADV_PURGED,VAR_2
+drm_gem_object_lookup,FUNC_0
+drm_gem_object_unreference,FUNC_1
+i915_gem_object_is_purgeable,FUNC_2
+i915_gem_object_truncate,FUNC_3
+i915_mutex_lock_interruptible,FUNC_4
+mutex_unlock,FUNC_5
+to_intel_bo,FUNC_6
+i915_gem_madvise_ioctl,FUNC_7
+dev,VAR_3
+data,VAR_4
+file_priv,VAR_5
+args,VAR_6
+obj,VAR_7
+ret,VAR_8

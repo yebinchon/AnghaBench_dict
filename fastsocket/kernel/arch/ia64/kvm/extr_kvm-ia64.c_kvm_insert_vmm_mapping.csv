@@ -1,0 +1,16 @@
+KVM_VMM_BASE,VAR_0
+KVM_VMM_SHIFT,VAR_1
+KVM_VM_DATA_BASE,VAR_2
+KVM_VM_DATA_SHIFT,VAR_3
+PAGE_KERNEL,VAR_4
+__pa,FUNC_0
+ia64_itr_entry,FUNC_1
+kvm_sn2_setup_mappings,FUNC_2
+kvm_vmm_base,VAR_5
+mk_pte_phys,FUNC_3
+pte_val,FUNC_4
+kvm_insert_vmm_mapping,FUNC_5
+vcpu,VAR_6
+pte,VAR_7
+kvm,VAR_8
+r,VAR_9

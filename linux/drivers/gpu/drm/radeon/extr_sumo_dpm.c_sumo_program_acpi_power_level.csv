@@ -1,0 +1,14 @@
+ACPI_VOLTAGE_EN,VAR_0
+CG_ACPI_CNTL,VAR_1
+CG_ACPI_VOLTAGE_CNTL,VAR_2
+COMPUTE_ENGINE_PLL_PARAM,VAR_3
+SCLK_ACPI_DIV,FUNC_0
+SCLK_ACPI_DIV_MASK,VAR_4
+WREG32_P,FUNC_1
+radeon_atom_get_clock_dividers,FUNC_2
+sumo_get_pi,FUNC_3
+sumo_program_acpi_power_level,FUNC_4
+rdev,VAR_5
+pi,VAR_6
+dividers,VAR_7
+ret,VAR_8

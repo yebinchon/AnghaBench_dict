@@ -1,0 +1,16 @@
+MSG_DEBUG,VAR_0
+MSG_ERROR,VAR_1
+eloop_wait_for_read_sock,FUNC_0
+errno,VAR_2
+os_strcmp,FUNC_1
+recvfrom,FUNC_2
+sendto,FUNC_3
+strerror,FUNC_4
+wpa_printf,FUNC_5
+wpa_supplicant_ctrl_iface_attach,FUNC_6
+wpa_supplicant_ctrl_iface_wait,FUNC_7
+priv,VAR_3
+buf,VAR_4
+res,VAR_5
+from,VAR_6
+fromlen,VAR_7

@@ -1,0 +1,13 @@
+INTR_TYPE_TTY,VAR_0
+KBD_INIT_DONE,FUNC_0
+SWI_TTY,VAR_1
+device_printf,FUNC_1
+kbd_attach,FUNC_2
+sunkbd_enable,FUNC_3
+sunkbd_softc,VAR_2
+sunkbd_uart_intr,VAR_3
+swi_add,FUNC_4
+tty_intr_event,VAR_4
+uart_driver_name,VAR_5
+sunkbd_attach,FUNC_5
+sc,VAR_6

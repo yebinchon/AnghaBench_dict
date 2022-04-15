@@ -1,0 +1,16 @@
+AUTHTYPE_ANONYMOUS,VAR_0
+AUTHTYPE_PASSWORD,VAR_1
+Cmp,FUNC_0
+Copy,FUNC_1
+FreeAuthData,FUNC_2
+IsZero,FUNC_3
+Lock,FUNC_4
+MD5_SIZE,VAR_2
+SHA1_SIZE,VAR_3
+Unlock,FUNC_5
+SetUserAuthData,FUNC_6
+u,VAR_4
+authtype,VAR_5
+authdata,VAR_6
+pw_old,VAR_7
+pw_new,VAR_8

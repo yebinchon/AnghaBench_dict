@@ -1,0 +1,11 @@
+ESP_ERR_INVALID_STATE,VAR_0
+ESP_LOGE,FUNC_0
+ESP_OK,VAR_1
+MBEDTLS_SSL_VERIFY_REQUIRED,VAR_2
+TAG,VAR_3
+assert,FUNC_1
+global_cacert,VAR_4
+mbedtls_ssl_conf_authmode,FUNC_2
+mbedtls_ssl_conf_ca_chain,FUNC_3
+set_global_ca_store,FUNC_4
+tls,VAR_5

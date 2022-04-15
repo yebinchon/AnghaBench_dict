@@ -1,0 +1,12 @@
+ZM_EVENT_IN_SCAN,VAR_0
+ZM_EVENT_TIMEOUT_SCAN,VAR_1
+ZM_TICK_IN_SCAN,VAR_2
+wd,VAR_3
+zfScanSendProbeRequest,FUNC_0
+zfTimerSchedule,FUNC_1
+zmw_declare_for_critical_section,FUNC_2
+zmw_enter_critical_section,FUNC_3
+zmw_get_wlan_dev,FUNC_4
+zmw_leave_critical_section,FUNC_5
+zfScanMgrEventSetFreqCompleteCb,FUNC_6
+dev,VAR_4

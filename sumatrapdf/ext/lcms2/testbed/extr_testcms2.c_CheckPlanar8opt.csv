@@ -1,0 +1,12 @@
+Create_AboveRGB,FUNC_0
+DbgThread,FUNC_1
+INTENT_PERCEPTUAL,VAR_0
+TYPE_RGB_8_PLANAR,VAR_1
+cmsCloseProfile,FUNC_2
+cmsCreateTransform,FUNC_3
+cmsCreate_sRGBProfile,FUNC_4
+cmsDeleteTransform,FUNC_5
+CheckPlanar8opt,FUNC_6
+aboveRGB,VAR_2
+sRGB,VAR_3
+transform,VAR_4

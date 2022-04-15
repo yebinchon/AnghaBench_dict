@@ -1,0 +1,13 @@
+CONN_WD_ST_CHG_FAIL,VAR_0
+CONN_WD_ST_CHG_OKAY,VAR_1
+SS_SUCCESS,VAR_2
+be32_to_cpu,FUNC_0
+drbd_err,FUNC_1
+drbd_set_st_err_str,FUNC_2
+set_bit,FUNC_3
+wake_up,FUNC_4
+got_conn_RqSReply,FUNC_5
+connection,VAR_3
+pi,VAR_4
+p,VAR_5
+retcode,VAR_6

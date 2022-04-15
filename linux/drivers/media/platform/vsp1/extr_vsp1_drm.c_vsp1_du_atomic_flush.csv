@@ -1,0 +1,16 @@
+WARN_ON,FUNC_0
+dev_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+vsp1_du_pipeline_configure,FUNC_4
+vsp1_du_pipeline_set_rwpf_format,FUNC_5
+vsp1_du_pipeline_setup_inputs,FUNC_6
+vsp1_du_atomic_flush,FUNC_7
+dev,VAR_0
+pipe_index,VAR_1
+cfg,VAR_2
+vsp1,VAR_3
+drm_pipe,VAR_4
+pipe,VAR_5
+ret,VAR_6
+wb_cfg,VAR_7

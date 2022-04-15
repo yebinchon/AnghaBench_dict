@@ -1,0 +1,17 @@
+PFIL_HEADPTR,VAR_0
+PFIL_HOOKPTR,VAR_1
+PFIL_IN,VAR_2
+PFIL_OUT,VAR_3
+PFIL_UNLINK,VAR_4
+PFIL_VERSION,VAR_5
+V_inet6_pfil_head,VAR_6
+V_inet_pfil_head,VAR_7
+V_ipfw_inet6_hook,VAR_8
+V_ipfw_inet_hook,VAR_9
+V_ipfw_link_hook,VAR_10
+V_link_pfil_head,VAR_11
+pfil_link,FUNC_0
+ipfw_link,FUNC_1
+pf,VAR_12
+unlink,VAR_13
+pla,VAR_14

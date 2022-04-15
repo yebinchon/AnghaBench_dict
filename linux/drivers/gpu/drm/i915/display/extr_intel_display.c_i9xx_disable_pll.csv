@@ -1,0 +1,13 @@
+DPLL,FUNC_0
+DPLL_VGA_MODE_DIS,VAR_0
+I915_WRITE,FUNC_1
+IS_I830,FUNC_2
+POSTING_READ,FUNC_3
+assert_pipe_disabled,FUNC_4
+to_i915,FUNC_5
+to_intel_crtc,FUNC_6
+i9xx_disable_pll,FUNC_7
+crtc_state,VAR_1
+crtc,VAR_2
+dev_priv,VAR_3
+pipe,VAR_4

@@ -1,0 +1,9 @@
+ARM_SMMU_CB_S1_TLBIASID,VAR_0
+iommu_writel,FUNC_0
+qcom_iommu_tlb_sync,FUNC_1
+to_ctx,FUNC_2
+qcom_iommu_tlb_inv_context,FUNC_3
+cookie,VAR_1
+fwspec,VAR_2
+i,VAR_3
+ctx,VAR_4

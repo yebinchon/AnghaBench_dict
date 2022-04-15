@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+FTAG,VAR_0
+RW_READER,VAR_1
+dmu_objset_open_impl,FUNC_1
+dsl_dataset_get_blkptr,FUNC_2
+dsl_dataset_get_spa,FUNC_3
+dsl_dataset_long_held,FUNC_4
+dsl_pool_config_held,FUNC_5
+mutex_enter,FUNC_6
+mutex_exit,FUNC_7
+rrw_enter,FUNC_8
+rrw_exit,FUNC_9
+dmu_objset_from_ds,FUNC_10
+ds,VAR_2
+osp,VAR_3
+err,VAR_4
+os,VAR_5

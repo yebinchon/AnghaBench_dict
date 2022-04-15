@@ -1,0 +1,17 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+VIRTIO_PCI_ABI_VERSION,VAR_2
+VIRTIO_PCI_DEVICEID_MAX,VAR_3
+VIRTIO_PCI_DEVICEID_MIN,VAR_4
+VIRTIO_PCI_VENDORID,VAR_5
+device_set_desc_copy,FUNC_0
+pci_get_device,FUNC_1
+pci_get_revid,FUNC_2
+pci_get_subdevice,FUNC_3
+pci_get_vendor,FUNC_4
+snprintf,FUNC_5
+virtio_device_name,FUNC_6
+vtpci_probe,FUNC_7
+dev,VAR_6
+desc,VAR_7
+name,VAR_8

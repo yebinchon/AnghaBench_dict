@@ -1,0 +1,16 @@
+CS_RX_DATA_RECEIVED,VAR_0
+HSI_STATUS_ERROR,VAR_1
+SSI_CHANNEL_STATE_READING,VAR_2
+WARN_ON,FUNC_0
+cs_hsi_data_read_error,FUNC_1
+cs_hsi_read_on_data,FUNC_2
+cs_notify_data,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+unlikely,FUNC_6
+waitqueue_active,FUNC_7
+wake_up_interruptible,FUNC_8
+cs_hsi_read_on_data_complete,FUNC_9
+msg,VAR_3
+hi,VAR_4
+payload,VAR_5

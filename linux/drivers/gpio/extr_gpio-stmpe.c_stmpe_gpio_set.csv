@@ -1,0 +1,15 @@
+BIT,FUNC_0
+STMPE_IDX_GPCR_LSB,VAR_0
+STMPE_IDX_GPSR_LSB,VAR_1
+gpiochip_get_data,FUNC_1
+stmpe_reg_write,FUNC_2
+stmpe_set_bits,FUNC_3
+stmpe_gpio_set,FUNC_4
+chip,VAR_2
+offset,VAR_3
+val,VAR_4
+stmpe_gpio,VAR_5
+stmpe,VAR_6
+which,VAR_7
+reg,VAR_8
+mask,VAR_9

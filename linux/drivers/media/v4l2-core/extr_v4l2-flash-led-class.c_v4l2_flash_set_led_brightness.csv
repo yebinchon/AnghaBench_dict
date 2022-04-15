@@ -1,0 +1,14 @@
+LED_MODE,VAR_0
+TORCH_INTENSITY,VAR_1
+V4L2_FLASH_LED_MODE_TORCH,VAR_2
+__intensity_to_led_brightness,FUNC_0
+call_flash_op,FUNC_1
+has_flash_op,FUNC_2
+intensity_to_led_brightness,VAR_3
+led_brightness_to_intensity,VAR_4
+led_set_brightness_sync,FUNC_3
+v4l2_flash_set_led_brightness,FUNC_4
+v4l2_flash,VAR_5
+ctrl,VAR_6
+ctrls,VAR_7
+brightness,VAR_8

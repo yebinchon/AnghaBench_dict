@@ -1,0 +1,16 @@
+AU1100_GPIO14_INT,VAR_0
+AU1100_GPIO19_INT,VAR_1
+BCSR_WHOAMI,VAR_2
+BCSR_WHOAMI_BOARD,FUNC_0
+BCSR_WHOAMI_DB1100,VAR_3
+IRQ_TYPE_EDGE_BOTH,VAR_4
+bcsr_read,FUNC_1
+db1100_mmc_cd,VAR_5
+free_irq,FUNC_2
+irq_set_irq_type,FUNC_3
+request_irq,FUNC_4
+db1100_mmc_cd_setup,FUNC_5
+mmc_host,VAR_6
+en,VAR_7
+ret,VAR_8
+irq,VAR_9

@@ -1,0 +1,9 @@
+F34_ERASE_WAIT_MS,VAR_0
+dev_info,FUNC_0
+init_completion,FUNC_1
+rmi_f34v7_wait_for_idle,FUNC_2
+rmi_f34v7_write_command,FUNC_3
+v7_CMD_ERASE_GUEST_CODE,VAR_1
+rmi_f34v7_erase_guest_code,FUNC_4
+f34,VAR_2
+ret,VAR_3

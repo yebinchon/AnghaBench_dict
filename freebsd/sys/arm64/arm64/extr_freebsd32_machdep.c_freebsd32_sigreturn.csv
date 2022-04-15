@@ -1,0 +1,11 @@
+EFAULT,VAR_0
+EJUSTRETURN,VAR_1
+SIG_SETMASK,VAR_2
+copyin,FUNC_0
+kern_sigprocmask,FUNC_1
+set_mcontext32,FUNC_2
+freebsd32_sigreturn,FUNC_3
+td,VAR_3
+uap,VAR_4
+uc,VAR_5
+error,VAR_6

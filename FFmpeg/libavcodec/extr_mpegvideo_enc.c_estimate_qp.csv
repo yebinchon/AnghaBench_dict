@@ -1,0 +1,11 @@
+CONFIG_H263_ENCODER,VAR_0
+CONFIG_MPEG4_ENCODER,VAR_1
+ff_clean_h263_qscales,FUNC_0
+ff_clean_mpeg4_qscales,FUNC_1
+ff_init_qscale_tab,FUNC_2
+ff_rate_estimate_qscale,FUNC_3
+update_qscale,FUNC_4
+estimate_qp,FUNC_5
+s,VAR_2
+dry_run,VAR_3
+quality,VAR_4

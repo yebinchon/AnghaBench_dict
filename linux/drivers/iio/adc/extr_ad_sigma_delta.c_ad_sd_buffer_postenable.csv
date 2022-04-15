@@ -1,0 +1,14 @@
+AD_SD_MODE_CONTINUOUS,VAR_0
+ad_sigma_delta_set_channel,FUNC_0
+ad_sigma_delta_set_mode,FUNC_1
+enable_irq,FUNC_2
+find_first_bit,FUNC_3
+iio_device_get_drvdata,FUNC_4
+iio_triggered_buffer_postenable,FUNC_5
+spi_bus_lock,FUNC_6
+spi_bus_unlock,FUNC_7
+ad_sd_buffer_postenable,FUNC_8
+indio_dev,VAR_1
+sigma_delta,VAR_2
+channel,VAR_3
+ret,VAR_4

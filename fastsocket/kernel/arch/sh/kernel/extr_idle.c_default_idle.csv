@@ -1,0 +1,13 @@
+TIF_POLLING_NRFLAG,VAR_0
+clear_bl_bit,FUNC_0
+clear_thread_flag,FUNC_1
+cpu_relax,FUNC_2
+cpu_sleep,FUNC_3
+hlt_counter,VAR_1
+need_resched,FUNC_4
+set_bl_bit,FUNC_5
+set_thread_flag,FUNC_6
+smp_mb__after_clear_bit,FUNC_7
+start_critical_timings,FUNC_8
+stop_critical_timings,FUNC_9
+default_idle,FUNC_10

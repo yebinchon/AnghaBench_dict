@@ -1,0 +1,9 @@
+ACB_F_MSIX_ENABLED,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+pci_release_msi,FUNC_2
+arcmsr_teardown_intr,FUNC_3
+dev,VAR_2
+acb,VAR_3
+i,VAR_4

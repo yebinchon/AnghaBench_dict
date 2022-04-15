@@ -1,0 +1,14 @@
+DAVINCI_SDIOIEN,VAR_0
+DAVINCI_SDIOIST,VAR_1
+DAVINCI_SDIOST0,VAR_2
+SDIOIEN_IOINTEN,VAR_3
+SDIOIST_IOINT,VAR_4
+SDIOST0_DAT1_HI,VAR_5
+mmc_priv,FUNC_0
+mmc_signal_sdio_irq,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+mmc_davinci_enable_sdio_irq,FUNC_4
+mmc,VAR_6
+enable,VAR_7
+host,VAR_8

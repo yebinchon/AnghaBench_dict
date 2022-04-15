@@ -1,0 +1,9 @@
+drm_connector_cleanup,FUNC_0
+drm_dp_mst_put_port_malloc,FUNC_1
+drm_encoder_cleanup,FUNC_2
+kfree,FUNC_3
+to_amdgpu_dm_connector,FUNC_4
+dm_dp_mst_connector_destroy,FUNC_5
+connector,VAR_0
+amdgpu_dm_connector,VAR_1
+amdgpu_encoder,VAR_2

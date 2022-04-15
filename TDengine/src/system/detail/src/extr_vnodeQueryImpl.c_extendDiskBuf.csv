@@ -1,0 +1,13 @@
+DEFAULT_INTERN_BUF_SIZE,VAR_0
+MAP_SHARED,VAR_1
+PROT_READ,VAR_2
+PROT_WRITE,VAR_3
+assert,FUNC_0
+ftruncate,FUNC_1
+mmap,FUNC_2
+munmap,FUNC_3
+perror,FUNC_4
+extendDiskBuf,FUNC_5
+pSupporter,VAR_4
+numOfPages,VAR_5
+ret,VAR_6

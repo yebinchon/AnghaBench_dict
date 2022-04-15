@@ -1,0 +1,16 @@
+FLUSH_SYNC,VAR_0
+PAGE_CACHE_SIZE,VAR_1
+PagePrivate,FUNC_0
+WB_SYNC_ALL,VAR_2
+clear_page_dirty_for_io,FUNC_1
+nfs_commit_inode,FUNC_2
+nfs_writepage_locked,FUNC_3
+page_offset,FUNC_4
+wait_on_page_writeback,FUNC_5
+nfs_wb_page,FUNC_6
+inode,VAR_3
+page,VAR_4
+range_start,VAR_5
+range_end,VAR_6
+wbc,VAR_7
+ret,VAR_8

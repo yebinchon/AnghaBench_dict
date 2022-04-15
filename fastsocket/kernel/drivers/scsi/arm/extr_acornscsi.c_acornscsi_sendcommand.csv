@@ -1,0 +1,11 @@
+CMND_XFERINFO,VAR_0
+PHASE_COMMAND,VAR_1
+SBIC_TRANSCNTH,VAR_2
+acornscsi_sbic_issuecmd,FUNC_0
+acornscsi_write_pio,FUNC_1
+printk,FUNC_2
+sbic_arm_write,FUNC_3
+sbic_arm_writenext,FUNC_4
+acornscsi_sendcommand,FUNC_5
+host,VAR_3
+SCpnt,VAR_4

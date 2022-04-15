@@ -1,0 +1,13 @@
+IRQ_HANDLED,VAR_0
+RNGC_ERROR,VAR_1
+RNGC_STATUS,VAR_2
+RNGC_STATUS_SEED_DONE,VAR_3
+RNGC_STATUS_ST_DONE,VAR_4
+complete,FUNC_0
+imx_rngc_irq_mask_clear,FUNC_1
+readl,FUNC_2
+imx_rngc_irq,FUNC_3
+irq,VAR_5
+priv,VAR_6
+rngc,VAR_7
+status,VAR_8

@@ -1,0 +1,15 @@
+USB_CTRL_GET_TIMEOUT,VAR_0
+USB_DIR_IN,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_REQ_GET_DESCRIPTOR,VAR_3
+memset,FUNC_0
+usb_control_msg,FUNC_1
+usb_rcvctrlpipe,FUNC_2
+hid_get_class_descriptor,FUNC_3
+dev,VAR_4
+ifnum,VAR_5
+type,VAR_6
+buf,VAR_7
+size,VAR_8
+result,VAR_9
+retries,VAR_10

@@ -1,0 +1,16 @@
+SVN_ERR,FUNC_0
+svn_error_compose_create,FUNC_1
+svn_error_trace,FUNC_2
+svn_wc__acquire_write_lock,FUNC_3
+svn_wc__release_write_lock,FUNC_4
+svn_wc__call_with_write_lock,FUNC_5
+func,VAR_0
+baton,VAR_1
+wc_ctx,VAR_2
+local_abspath,VAR_3
+lock_anchor,VAR_4
+result_pool,VAR_5
+scratch_pool,VAR_6
+err1,VAR_7
+err2,VAR_8
+lock_root_abspath,VAR_9

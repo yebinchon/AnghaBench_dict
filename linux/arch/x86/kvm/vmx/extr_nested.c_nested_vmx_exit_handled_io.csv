@@ -1,0 +1,15 @@
+CPU_BASED_UNCOND_IO_EXITING,VAR_0
+CPU_BASED_USE_IO_BITMAPS,VAR_1
+EXIT_QUALIFICATION,VAR_2
+kvm_vcpu_read_guest,FUNC_0
+nested_cpu_has,FUNC_1
+vmcs_readl,FUNC_2
+nested_vmx_exit_handled_io,FUNC_3
+vcpu,VAR_3
+vmcs12,VAR_4
+exit_qualification,VAR_5
+bitmap,VAR_6
+last_bitmap,VAR_7
+port,VAR_8
+size,VAR_9
+b,VAR_10

@@ -1,0 +1,13 @@
+NFTA_XFRM_DIR,VAR_0
+NFTA_XFRM_DREG,VAR_1
+NFTA_XFRM_KEY,VAR_2
+NFTA_XFRM_SPNUM,VAR_3
+htonl,FUNC_0
+nft_dump_register,FUNC_1
+nft_expr_priv,FUNC_2
+nla_put_be32,FUNC_3
+nla_put_u8,FUNC_4
+nft_xfrm_get_dump,FUNC_5
+skb,VAR_4
+expr,VAR_5
+priv,VAR_6

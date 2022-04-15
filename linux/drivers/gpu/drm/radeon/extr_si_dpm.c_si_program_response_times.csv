@@ -1,0 +1,17 @@
+SI_SMC_SOFT_REGISTER_delay_acpi,VAR_0
+SI_SMC_SOFT_REGISTER_delay_vreg,VAR_1
+SI_SMC_SOFT_REGISTER_mc_block_delay,VAR_2
+SI_SMC_SOFT_REGISTER_mclk_chg_timeout,VAR_3
+SI_SMC_SOFT_REGISTER_mvdd_chg_time,VAR_4
+radeon_get_xclk,FUNC_0
+si_write_smc_soft_register,FUNC_1
+si_program_response_times,FUNC_2
+rdev,VAR_5
+voltage_response_time,VAR_6
+backbias_response_time,VAR_7
+acpi_delay_time,VAR_8
+vbi_time_out,VAR_9
+vddc_dly,VAR_10
+acpi_dly,VAR_11
+vbi_dly,VAR_12
+reference_clock,VAR_13

@@ -1,0 +1,11 @@
+amdtp_domain_stop,FUNC_0
+finish_session,FUNC_1
+fw_iso_resources_free,FUNC_2
+keep_resources,FUNC_3
+snd_dg00x_stream_get_local_rate,FUNC_4
+snd_dg00x_stream_set_local_rate,FUNC_5
+snd_dg00x_stream_reserve_duplex,FUNC_6
+dg00x,VAR_0
+rate,VAR_1
+curr_rate,VAR_2
+err,VAR_3

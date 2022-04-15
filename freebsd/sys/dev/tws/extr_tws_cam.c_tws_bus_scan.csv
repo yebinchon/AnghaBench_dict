@@ -1,0 +1,16 @@
+CAM_LUN_WILDCARD,VAR_0
+CAM_REQ_CMP,VAR_1
+CAM_TARGET_WILDCARD,VAR_2
+EIO,VAR_3
+ENXIO,VAR_4
+TWS_TRACE_DEBUG,FUNC_0
+cam_sim_path,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+xpt_alloc_ccb,FUNC_4
+xpt_create_path,FUNC_5
+xpt_free_ccb,FUNC_6
+xpt_rescan,FUNC_7
+tws_bus_scan,FUNC_8
+sc,VAR_5
+ccb,VAR_6

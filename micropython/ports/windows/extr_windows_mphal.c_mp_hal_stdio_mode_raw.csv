@@ -1,0 +1,10 @@
+ENABLE_ECHO_INPUT,VAR_0
+ENABLE_LINE_INPUT,VAR_1
+ENABLE_PROCESSED_INPUT,VAR_2
+GetConsoleMode,FUNC_0
+SetConsoleMode,FUNC_1
+assure_stdin_handle,FUNC_2
+orig_mode,VAR_3
+std_in,VAR_4
+mp_hal_stdio_mode_raw,FUNC_3
+mode,VAR_5

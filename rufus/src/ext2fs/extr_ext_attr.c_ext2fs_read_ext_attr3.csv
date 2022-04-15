@@ -1,0 +1,13 @@
+EXT2_ET_EXT_ATTR_CSUM_INVALID,VAR_0
+EXT2_FLAG_IGNORE_CSUM_ERRORS,VAR_1
+check_ext_attr_header,FUNC_0
+ext2fs_ext_attr_block_csum_verify,FUNC_1
+ext2fs_swap_ext_attr,FUNC_2
+io_channel_read_blk64,FUNC_3
+ext2fs_read_ext_attr3,FUNC_4
+fs,VAR_2
+block,VAR_3
+buf,VAR_4
+inum,VAR_5
+csum_failed,VAR_6
+retval,VAR_7

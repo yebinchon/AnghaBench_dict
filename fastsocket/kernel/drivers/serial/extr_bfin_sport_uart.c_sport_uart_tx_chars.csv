@@ -1,0 +1,13 @@
+SPORT_GET_STAT,FUNC_0
+TXF,VAR_0
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+sport_stop_tx,FUNC_1
+tx_one_byte,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_tx_stopped,FUNC_5
+uart_write_wakeup,FUNC_6
+sport_uart_tx_chars,FUNC_7
+up,VAR_3
+xmit,VAR_4

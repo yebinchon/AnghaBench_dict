@@ -1,0 +1,16 @@
+disable_ch_napi,FUNC_0
+dpni_disable,FUNC_1
+dpni_is_enabled,FUNC_2
+drain_pool,FUNC_3
+msleep,FUNC_4
+netdev_priv,FUNC_5
+netdev_warn,FUNC_6
+netif_carrier_off,FUNC_7
+netif_tx_stop_all_queues,FUNC_8
+wait_for_egress_fq_empty,FUNC_9
+wait_for_ingress_fq_empty,FUNC_10
+dpaa2_eth_stop,FUNC_11
+net_dev,VAR_0
+priv,VAR_1
+dpni_enabled,VAR_2
+retries,VAR_3

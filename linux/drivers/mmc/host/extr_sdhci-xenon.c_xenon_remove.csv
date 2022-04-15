@@ -1,0 +1,15 @@
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+pm_runtime_disable,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_noidle,FUNC_4
+sdhci_pltfm_free,FUNC_5
+sdhci_pltfm_priv,FUNC_6
+sdhci_priv,FUNC_7
+sdhci_remove_host,FUNC_8
+xenon_sdhc_unprepare,FUNC_9
+xenon_remove,FUNC_10
+pdev,VAR_0
+host,VAR_1
+pltfm_host,VAR_2
+priv,VAR_3

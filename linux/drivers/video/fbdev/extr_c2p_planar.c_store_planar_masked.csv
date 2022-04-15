@@ -1,0 +1,11 @@
+comp,FUNC_0
+get_unaligned_be32,FUNC_1
+perm_c2p_32x8,VAR_0
+put_unaligned_be32,FUNC_2
+store_planar_masked,FUNC_3
+dst,VAR_1
+dst_inc,VAR_2
+bpp,VAR_3
+d,VAR_4
+mask,VAR_5
+i,VAR_6

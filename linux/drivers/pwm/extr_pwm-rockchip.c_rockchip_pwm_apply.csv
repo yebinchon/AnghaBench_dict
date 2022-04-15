@@ -1,0 +1,14 @@
+clk_disable,FUNC_0
+clk_enable,FUNC_1
+pwm_get_state,FUNC_2
+rockchip_pwm_config,FUNC_3
+rockchip_pwm_enable,FUNC_4
+to_rockchip_pwm_chip,FUNC_5
+rockchip_pwm_apply,FUNC_6
+chip,VAR_0
+pwm,VAR_1
+state,VAR_2
+pc,VAR_3
+curstate,VAR_4
+enabled,VAR_5
+ret,VAR_6

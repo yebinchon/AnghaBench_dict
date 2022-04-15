@@ -1,0 +1,12 @@
+DEMUX_PV_STATE_DOWN,VAR_0
+DEMUX_PV_STATE_DOWNING,VAR_1
+IB_QPT_GSI,VAR_2
+IB_QPT_SMI,VAR_3
+flush_workqueue,FUNC_0
+ib_dealloc_pd,FUNC_1
+ib_dereg_mr,FUNC_2
+ib_destroy_cq,FUNC_3
+ib_destroy_qp,FUNC_4
+mlx4_ib_free_pv_qp_bufs,FUNC_5
+mlx4_ib_free_sqp_ctx,FUNC_6
+sqp_ctx,VAR_4

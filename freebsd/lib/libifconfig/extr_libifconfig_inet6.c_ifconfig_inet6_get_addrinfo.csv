@@ -1,0 +1,16 @@
+AF_INET6,VAR_0
+IFF_POINTOPOINT,VAR_1
+SIOCGIFAFLAG_IN6,VAR_2
+SIOCGIFALIFETIME_IN6,VAR_3
+bzero,FUNC_0
+ifconfig_ioctlwrap,FUNC_1
+inet6_prefixlen,FUNC_2
+memset,FUNC_3
+strlcpy,FUNC_4
+ifconfig_inet6_get_addrinfo,FUNC_5
+h,VAR_4
+name,VAR_5
+ifa,VAR_6
+addr,VAR_7
+netmask,VAR_8
+ifr6,VAR_9

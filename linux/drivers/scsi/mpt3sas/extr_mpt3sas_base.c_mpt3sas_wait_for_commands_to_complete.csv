@@ -1,0 +1,9 @@
+HZ,VAR_0
+MPI2_IOC_STATE_MASK,VAR_1
+MPI2_IOC_STATE_OPERATIONAL,VAR_2
+mpt3sas_base_get_iocstate,FUNC_0
+scsi_host_busy,FUNC_1
+wait_event_timeout,FUNC_2
+mpt3sas_wait_for_commands_to_complete,FUNC_3
+ioc,VAR_3
+ioc_state,VAR_4

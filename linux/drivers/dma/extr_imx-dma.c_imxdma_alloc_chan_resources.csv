@@ -1,0 +1,16 @@
+DMA_COMPLETE,VAR_0
+DMA_CTRL_ACK,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+IMXDMA_MAX_CHAN_DESCRIPTORS,VAR_4
+dma_async_tx_descriptor_init,FUNC_0
+imxdma_tx_submit,VAR_5
+kzalloc,FUNC_1
+list_add_tail,FUNC_2
+memset,FUNC_3
+to_imxdma_chan,FUNC_4
+imxdma_alloc_chan_resources,FUNC_5
+chan,VAR_6
+imxdmac,VAR_7
+data,VAR_8
+desc,VAR_9

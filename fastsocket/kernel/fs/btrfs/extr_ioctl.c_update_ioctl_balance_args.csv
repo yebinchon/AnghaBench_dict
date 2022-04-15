@@ -1,0 +1,12 @@
+BTRFS_BALANCE_STATE_CANCEL_REQ,VAR_0
+BTRFS_BALANCE_STATE_PAUSE_REQ,VAR_1
+BTRFS_BALANCE_STATE_RUNNING,VAR_2
+atomic_read,FUNC_0
+memcpy,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+update_ioctl_balance_args,FUNC_4
+fs_info,VAR_3
+lock,VAR_4
+bargs,VAR_5
+bctl,VAR_6

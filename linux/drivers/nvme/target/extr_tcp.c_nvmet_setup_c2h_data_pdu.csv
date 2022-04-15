@@ -1,0 +1,17 @@
+NVMET_TCP_SEND_DATA_PDU,VAR_0
+NVME_TCP_F_DATA_LAST,VAR_1
+NVME_TCP_F_DATA_SUCCESS,VAR_2
+NVME_TCP_F_DDGST,VAR_3
+NVME_TCP_F_HDGST,VAR_4
+cpu_to_le32,FUNC_0
+nvme_tcp_c2h_data,VAR_5
+nvmet_tcp_ddgst,FUNC_1
+nvmet_tcp_ddgst_len,FUNC_2
+nvmet_tcp_hdgst,FUNC_3
+nvmet_tcp_hdgst_len,FUNC_4
+nvmet_setup_c2h_data_pdu,FUNC_5
+cmd,VAR_6
+pdu,VAR_7
+queue,VAR_8
+hdgst,VAR_9
+ddgst,VAR_10

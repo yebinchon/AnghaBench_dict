@@ -1,0 +1,13 @@
+DV331812_POWEROFF,VAR_0
+DV331812_POWERON,VAR_1
+LDO_CONFIG2,VAR_2
+LDO_POW_SDVDD1_MASK,VAR_3
+LDO_POW_SDVDD1_OFF,VAR_4
+LDO_VCC_CFG1,VAR_5
+rts5260_card_before_power_off,FUNC_0
+rtsx_pci_disable_ocp,FUNC_1
+rtsx_pci_write_register,FUNC_2
+rts5260_card_power_off,FUNC_3
+pcr,VAR_6
+card,VAR_7
+err,VAR_8

@@ -1,0 +1,17 @@
+SNDRV_PCM_FMTBIT_S32,VAR_0
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_1
+SNDRV_PCM_HW_PARAM_RATE,VAR_2
+SNDRV_PCM_STREAM_CAPTURE,VAR_3
+amdtp_motu_add_pcm_hw_constraints,FUNC_0
+limit_channels_and_rates,FUNC_1
+motu_channels_constraint,VAR_4
+motu_rate_constraint,VAR_5
+snd_pcm_hw_rule_add,FUNC_2
+init_hw_info,FUNC_3
+motu,VAR_6
+substream,VAR_7
+runtime,VAR_8
+hw,VAR_9
+stream,VAR_10
+formats,VAR_11
+err,VAR_12

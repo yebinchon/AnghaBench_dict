@@ -1,0 +1,16 @@
+ACPI_FREE,FUNC_0
+ACPI_TYPE_INTEGER,VAR_0
+ACPI_TYPE_PACKAGE,VAR_1
+FUNCTION_DELAY_DSM,VAR_2
+PCI_PM_D3COLD_WAIT,VAR_3
+PCI_PM_D3_WAIT,VAR_4
+acpi_evaluate_dsm,FUNC_1
+pci_acpi_dsm_guid,VAR_5
+pci_find_host_bridge,FUNC_2
+pci_acpi_optimize_delay,FUNC_3
+pdev,VAR_6
+handle,VAR_7
+bridge,VAR_8
+value,VAR_9
+obj,VAR_10
+elements,VAR_11

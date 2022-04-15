@@ -1,0 +1,16 @@
+PTLS_CIPHER_SUITE_AES_128_GCM_SHA256,VAR_0
+PTLS_MAX_DIGEST_SIZE,VAR_1
+ctx,VAR_2
+find_cipher,FUNC_0
+memcmp,FUNC_1
+ok,FUNC_2
+ptls_hkdf_expand,FUNC_3
+ptls_hkdf_extract,FUNC_4
+ptls_iovec_init,FUNC_5
+test_hkdf,FUNC_6
+sha256,VAR_3
+salt,VAR_4
+ikm,VAR_5
+info,VAR_6
+prk,VAR_7
+okm,VAR_8

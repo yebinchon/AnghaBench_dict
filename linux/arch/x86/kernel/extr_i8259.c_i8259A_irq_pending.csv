@@ -1,0 +1,11 @@
+PIC_MASTER_CMD,VAR_0
+PIC_SLAVE_CMD,VAR_1
+i8259A_lock,VAR_2
+inb,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+i8259A_irq_pending,FUNC_3
+irq,VAR_3
+mask,VAR_4
+flags,VAR_5
+ret,VAR_6

@@ -1,0 +1,16 @@
+GX_GetCPUFifo,FUNC_0
+GX_GetFifoCount,FUNC_1
+GX_GetFifoWrap,FUNC_2
+GX_SetCPUFifo,FUNC_3
+STRUCT_REGDEF_SIZE,VAR_0
+_CPU_ISR_Disable,FUNC_4
+_CPU_ISR_Restore,FUNC_5
+__gx,VAR_1
+__gxregs,VAR_2
+_gx_dl_fifoobj,VAR_3
+_gx_old_cpufifo,VAR_4
+_gx_saved_data,VAR_5
+memcpy,FUNC_6
+GX_EndDispList,FUNC_7
+level,VAR_6
+wrap,VAR_7

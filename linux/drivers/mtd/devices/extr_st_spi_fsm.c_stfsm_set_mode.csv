@@ -1,0 +1,11 @@
+EBUSY,VAR_0
+SPI_MODESELECT,VAR_1
+SPI_STA_MODE_CHANGE,VAR_2
+readl,FUNC_0
+udelay,FUNC_1
+writel,FUNC_2
+stfsm_set_mode,FUNC_3
+fsm,VAR_3
+mode,VAR_4
+ret,VAR_5
+timeout,VAR_6

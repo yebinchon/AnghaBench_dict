@@ -1,0 +1,15 @@
+CIFS_ASYNC_OP,VAR_0
+CIFS_BLOCKING_OP,VAR_1
+CifsExiting,VAR_2
+ENOENT,VAR_3
+cifs_num_waiters_dec,FUNC_0
+cifs_num_waiters_inc,FUNC_1
+has_credits,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wait_event_killable,FUNC_5
+wait_for_free_credits,FUNC_6
+server,VAR_4
+optype,VAR_5
+credits,VAR_6
+rc,VAR_7

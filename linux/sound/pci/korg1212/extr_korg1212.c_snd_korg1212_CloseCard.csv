@@ -1,0 +1,16 @@
+K1212_CMDRET_Success,VAR_0
+K1212_DB_SelectPlayMode,VAR_1
+K1212_DEBUG_PRINTK,FUNC_0
+K1212_MODE_StopPlay,VAR_2
+K1212_STATE_READY,VAR_3
+K1212_STATE_SETUP,VAR_4
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+snd_korg1212_Send1212Command,FUNC_3
+snd_korg1212_SendStopAndWait,FUNC_4
+snd_korg1212_TurnOnIdleMonitor,FUNC_5
+snd_korg1212_setCardState,FUNC_6
+stateName,VAR_5
+snd_korg1212_CloseCard,FUNC_7
+korg1212,VAR_6
+rc,VAR_7

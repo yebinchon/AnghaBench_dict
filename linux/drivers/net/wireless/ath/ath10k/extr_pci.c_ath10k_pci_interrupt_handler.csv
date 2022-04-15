@@ -1,0 +1,17 @@
+ATH10K_PCI_IRQ_LEGACY,VAR_0
+IRQ_HANDLED,VAR_1
+IRQ_NONE,VAR_2
+ath10k_pci_disable_and_clear_legacy_irq,FUNC_0
+ath10k_pci_force_wake,FUNC_1
+ath10k_pci_has_device_gone,FUNC_2
+ath10k_pci_irq_msi_fw_mask,FUNC_3
+ath10k_pci_irq_pending,FUNC_4
+ath10k_pci_priv,FUNC_5
+ath10k_warn,FUNC_6
+napi_schedule,FUNC_7
+ath10k_pci_interrupt_handler,FUNC_8
+irq,VAR_3
+arg,VAR_4
+ar,VAR_5
+ar_pci,VAR_6
+ret,VAR_7

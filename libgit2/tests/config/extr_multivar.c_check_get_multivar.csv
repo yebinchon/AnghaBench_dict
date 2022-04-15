@@ -1,0 +1,12 @@
+_name,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_config_iterator_free,FUNC_2
+git_config_multivar_iterator_new,FUNC_3
+git_config_next,FUNC_4
+check_get_multivar,FUNC_5
+cfg,VAR_1
+expected,VAR_2
+iter,VAR_3
+entry,VAR_4
+n,VAR_5

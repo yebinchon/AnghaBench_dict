@@ -1,0 +1,11 @@
+I2O_CLAIM_PRIMARY,VAR_0
+I2O_CMD_UTIL_RELEASE,VAR_1
+i2o_device_issue_claim,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pr_debug,FUNC_3
+ssleep,FUNC_4
+i2o_device_claim_release,FUNC_5
+dev,VAR_2
+tries,VAR_3
+rc,VAR_4

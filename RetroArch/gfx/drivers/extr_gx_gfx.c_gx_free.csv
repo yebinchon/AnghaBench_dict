@@ -1,0 +1,12 @@
+GX_AbortFrame,FUNC_0
+GX_DrawDone,FUNC_1
+GX_Flush,FUNC_2
+OSCloseThreadQueue,FUNC_3
+VIDEO_Flush,FUNC_4
+VIDEO_SetBlack,FUNC_5
+VIDEO_WaitVSync,FUNC_6
+free,FUNC_7
+g_video_cond,VAR_0
+gx_free_overlay,FUNC_8
+gx_free,FUNC_9
+data,VAR_1

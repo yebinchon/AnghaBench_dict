@@ -1,0 +1,15 @@
+SUN4I_CTL_ENABLE,VAR_0
+SUN4I_CTL_MASTER,VAR_1
+SUN4I_CTL_REG,VAR_2
+SUN4I_CTL_TP,VAR_3
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_err,FUNC_2
+dev_get_drvdata,FUNC_3
+spi_master_get_devdata,FUNC_4
+sun4i_spi_write,FUNC_5
+sun4i_spi_runtime_resume,FUNC_6
+dev,VAR_4
+master,VAR_5
+sspi,VAR_6
+ret,VAR_7

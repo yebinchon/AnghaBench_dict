@@ -1,0 +1,14 @@
+ATTN_BUTTN,FUNC_0
+INDICATOR_NOOP,VAR_0
+OFF_STATE,VAR_1
+ON_STATE,VAR_2
+PCI_EXP_SLTCTL_PWR_IND_OFF,VAR_3
+__pciehp_enable_slot,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pciehp_set_indicators,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put,FUNC_6
+pciehp_enable_slot,FUNC_7
+ctrl,VAR_4
+ret,VAR_5

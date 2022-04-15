@@ -1,0 +1,16 @@
+E1000_VF_SET_MAC_ADDR,VAR_0
+E1000_VT_MSGTYPE_CTS,VAR_1
+E1000_VT_MSGTYPE_NACK,VAR_2
+e1000_read_mac_addr_vf,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+e1000_rar_set_vf,FUNC_5
+hw,VAR_3
+addr,VAR_4
+index,VAR_5
+mbx,VAR_6
+msgbuf,VAR_7
+msg_addr,VAR_8
+ret_val,VAR_9

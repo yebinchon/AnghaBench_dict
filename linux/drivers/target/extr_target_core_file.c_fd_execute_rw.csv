@@ -1,0 +1,14 @@
+FDBD_HAS_ASYNC_IO,VAR_0
+FD_DEV,FUNC_0
+FD_MAX_BYTES,VAR_1
+TCM_LOGICAL_UNIT_COMMUNICATION_FAILURE,VAR_2
+fd_execute_rw_aio,FUNC_1
+fd_execute_rw_buffered,FUNC_2
+pr_err,FUNC_3
+fd_execute_rw,FUNC_4
+cmd,VAR_3
+sgl,VAR_4
+sgl_nents,VAR_5
+data_direction,VAR_6
+dev,VAR_7
+fd_dev,VAR_8

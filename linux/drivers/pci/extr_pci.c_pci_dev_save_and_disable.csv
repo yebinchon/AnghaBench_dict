@@ -1,0 +1,10 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_INTX_DISABLE,VAR_1
+PCI_D0,VAR_2
+pci_save_state,FUNC_0
+pci_set_power_state,FUNC_1
+pci_write_config_word,FUNC_2
+stub1,FUNC_3
+pci_dev_save_and_disable,FUNC_4
+dev,VAR_3
+err_handler,VAR_4

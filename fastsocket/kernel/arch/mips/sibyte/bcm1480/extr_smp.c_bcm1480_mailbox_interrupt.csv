@@ -1,0 +1,14 @@
+K_BCM1480_INT_MBOX_0_0,VAR_0
+SMP_CALL_FUNCTION,VAR_1
+__raw_readq,FUNC_0
+__raw_writeq,FUNC_1
+irq_to_desc,FUNC_2
+kstat_incr_irqs_this_cpu,FUNC_3
+mailbox_0_clear_regs,VAR_2
+mailbox_0_regs,VAR_3
+smp_call_function_interrupt,FUNC_4
+smp_processor_id,FUNC_5
+bcm1480_mailbox_interrupt,FUNC_6
+cpu,VAR_4
+irq,VAR_5
+action,VAR_6

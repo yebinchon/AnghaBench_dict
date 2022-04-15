@@ -1,0 +1,17 @@
+SD_RESOLVED_DNS,VAR_0
+SD_RESOLVED_LLMNR_IPV4,VAR_1
+SD_RESOLVED_LLMNR_IPV6,VAR_2
+SD_RESOLVED_MDNS_IPV4,VAR_3
+SD_RESOLVED_MDNS_IPV6,VAR_4
+assert,FUNC_0
+sd_bus_message_append,FUNC_1
+property_get_scopes_mask,FUNC_2
+bus,VAR_5
+path,VAR_6
+interface,VAR_7
+property,VAR_8
+reply,VAR_9
+userdata,VAR_10
+error,VAR_11
+l,VAR_12
+mask,VAR_13

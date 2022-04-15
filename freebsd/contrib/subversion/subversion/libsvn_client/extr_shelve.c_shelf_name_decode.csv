@@ -1,0 +1,17 @@
+SVN_ERR_BAD_CHANGELIST_NAME,VAR_0
+SVN_NO_ERROR,VAR_1
+_,FUNC_0
+sscanf,FUNC_1
+strlen,FUNC_2
+svn_error_createf,FUNC_3
+svn_stringbuf_appendbyte,FUNC_4
+svn_stringbuf_create_ensure,FUNC_5
+shelf_name_decode,FUNC_6
+decoded_name_p,VAR_2
+codename,VAR_3
+result_pool,VAR_4
+sb,VAR_5
+input,VAR_6
+c,VAR_7
+nchars,VAR_8
+nitems,VAR_9

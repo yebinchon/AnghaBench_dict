@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ISCSI_RAMROD_CMD_ID_CLEAR_SQ,VAR_1
+ISCSI_SLOW_PATH_HDR_LAYER_CODE,VAR_2
+PROTOCOLID_ISCSI,VAR_3
+SET_FIELD,FUNC_0
+memset,FUNC_1
+qed_sp_init_request,FUNC_2
+qed_spq_post,FUNC_3
+qed_sp_iscsi_conn_clear_sq,FUNC_4
+p_hwfn,VAR_4
+p_conn,VAR_5
+comp_mode,VAR_6
+p_comp_addr,VAR_7
+p_ramrod,VAR_8
+p_ent,VAR_9
+init_data,VAR_10
+rc,VAR_11

@@ -1,0 +1,12 @@
+RT2860_TX_SW_CFG1,VAR_0
+RT2860_TX_SW_CFG2,VAR_1
+run_bbp_read,FUNC_0
+run_bbp_write,FUNC_1
+run_rt3070_rf_read,FUNC_2
+run_rt3070_rf_write,FUNC_3
+run_write,FUNC_4
+run_rt3070_rf_setup,FUNC_5
+sc,VAR_2
+bbp,VAR_3
+rf,VAR_4
+i,VAR_5

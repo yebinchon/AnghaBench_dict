@@ -1,0 +1,12 @@
+BUS_PROBE_DEFAULT,VAR_0
+CPU_IMPL_CAVIUM,VAR_1
+CPU_IMPL_MASK,VAR_2
+CPU_MATCH,FUNC_0
+CPU_PART_MASK,VAR_3
+CPU_PART_THUNDERX,VAR_4
+ENXIO,VAR_5
+device_set_desc,FUNC_1
+ofw_bus_is_compatible,FUNC_2
+ofw_bus_status_okay,FUNC_3
+thunder_pcie_fdt_probe,FUNC_4
+dev,VAR_6

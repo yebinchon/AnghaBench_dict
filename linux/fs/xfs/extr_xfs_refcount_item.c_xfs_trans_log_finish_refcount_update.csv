@@ -1,0 +1,14 @@
+XFS_LI_DIRTY,VAR_0
+XFS_TRANS_DIRTY,VAR_1
+set_bit,FUNC_0
+xfs_refcount_finish_one,FUNC_1
+xfs_trans_log_finish_refcount_update,FUNC_2
+tp,VAR_2
+cudp,VAR_3
+type,VAR_4
+startblock,VAR_5
+blockcount,VAR_6
+new_fsb,VAR_7
+new_len,VAR_8
+pcur,VAR_9
+error,VAR_10

@@ -1,0 +1,12 @@
+CSR_READ_4,FUNC_0
+FILTER_HANDLED,VAR_0
+JZ_GPIO_FLAG,VAR_1
+PIC_DISABLE_INTR,FUNC_1
+curthread,VAR_2
+device_printf,FUNC_2
+intr_isrc_dispatch,FUNC_3
+jz4780_gpio_intr,FUNC_4
+arg,VAR_3
+sc,VAR_4
+i,VAR_5
+interrupts,VAR_6

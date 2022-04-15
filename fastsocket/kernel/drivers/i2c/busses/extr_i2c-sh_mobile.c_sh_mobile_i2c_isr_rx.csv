@@ -1,0 +1,13 @@
+OP_RX,VAR_0
+OP_RX_STOP,VAR_1
+OP_RX_STOP_DATA,VAR_2
+OP_TX,VAR_3
+OP_TX_FIRST,VAR_4
+OP_TX_TO_RX,VAR_5
+i2c_op,FUNC_0
+sh_mobile_i2c_get_data,FUNC_1
+sh_mobile_i2c_is_first_byte,FUNC_2
+sh_mobile_i2c_isr_rx,FUNC_3
+pd,VAR_6
+data,VAR_7
+real_pos,VAR_8

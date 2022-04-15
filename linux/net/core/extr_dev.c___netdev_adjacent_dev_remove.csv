@@ -1,0 +1,17 @@
+WARN_ON,FUNC_0
+__netdev_find_adj,FUNC_1
+dev_put,FUNC_2
+kfree_rcu,FUNC_3
+list_del_rcu,FUNC_4
+netdev_adjacent_is_neigh_list,FUNC_5
+netdev_adjacent_sysfs_del,FUNC_6
+pr_debug,FUNC_7
+pr_err,FUNC_8
+rcu,VAR_0
+sysfs_remove_link,FUNC_9
+__netdev_adjacent_dev_remove,FUNC_10
+dev,VAR_1
+adj_dev,VAR_2
+ref_nr,VAR_3
+dev_list,VAR_4
+adj,VAR_5

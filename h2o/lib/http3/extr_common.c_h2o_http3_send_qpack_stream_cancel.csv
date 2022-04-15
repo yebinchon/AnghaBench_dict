@@ -1,0 +1,11 @@
+H2O_HPACK_ENCODE_INT_MAX_LENGTH,VAR_0
+H2O_HTTP3_CHECK_SUCCESS,FUNC_0
+assert,FUNC_1
+h2o_buffer_reserve,FUNC_2
+h2o_qpack_decoder_send_stream_cancel,FUNC_3
+quicly_stream_sync_sendbuf,FUNC_4
+h2o_http3_send_qpack_stream_cancel,FUNC_5
+conn,VAR_1
+stream_id,VAR_2
+stream,VAR_3
+buf,VAR_4

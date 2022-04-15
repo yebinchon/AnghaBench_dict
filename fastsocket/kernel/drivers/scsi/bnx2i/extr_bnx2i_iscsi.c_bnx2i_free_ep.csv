@@ -1,0 +1,10 @@
+EP_STATE_IDLE,VAR_0
+bnx2i_free_iscsi_cid,FUNC_0
+bnx2i_resc_lock,VAR_1
+iscsi_destroy_endpoint,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+bnx2i_free_ep,FUNC_4
+ep,VAR_2
+bnx2i_ep,VAR_3
+flags,VAR_4

@@ -1,0 +1,14 @@
+IFF_ALLMULTI,VAR_0
+MXGEFW_DISABLE_ALLMULTI,VAR_1
+MXGEFW_ENABLE_ALLMULTI,VAR_2
+MXGEFW_LEAVE_ALL_MULTICAST_GROUPS,VAR_3
+device_printf,FUNC_0
+if_foreach_llmaddr,FUNC_1
+mxge_add_maddr,VAR_4
+mxge_send_cmd,FUNC_2
+mxge_set_multicast_list,FUNC_3
+sc,VAR_5
+ctx,VAR_6
+ifp,VAR_7
+cmd,VAR_8
+err,VAR_9

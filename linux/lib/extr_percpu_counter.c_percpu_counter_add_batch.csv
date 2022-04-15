@@ -1,0 +1,13 @@
+__this_cpu_read,FUNC_0
+__this_cpu_sub,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+raw_spin_lock_irqsave,FUNC_4
+raw_spin_unlock_irqrestore,FUNC_5
+this_cpu_add,FUNC_6
+percpu_counter_add_batch,FUNC_7
+fbc,VAR_0
+amount,VAR_1
+batch,VAR_2
+count,VAR_3
+flags,VAR_4

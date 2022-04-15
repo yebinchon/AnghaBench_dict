@@ -1,0 +1,14 @@
+DBG_SG,VAR_0
+DMA_TO_DEVICE,VAR_1
+PCI_DMA_NONE,VAR_2
+SEGMENTX_LEN,VAR_3
+dma_unmap_single,FUNC_0
+dprintkdbg,FUNC_1
+scsi_bufflen,FUNC_2
+scsi_dma_unmap,FUNC_3
+scsi_sg_count,FUNC_4
+pci_unmap_srb,FUNC_5
+acb,VAR_4
+srb,VAR_5
+cmd,VAR_6
+dir,VAR_7

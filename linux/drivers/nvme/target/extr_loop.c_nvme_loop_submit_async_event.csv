@@ -1,0 +1,14 @@
+NVME_AQ_BLK_MQ_DEPTH,VAR_0
+NVME_CMD_SGL_METABUF,VAR_1
+dev_err,FUNC_0
+memset,FUNC_1
+nvme_admin_async_event,VAR_2
+nvme_loop_ops,VAR_3
+nvmet_req_init,FUNC_2
+schedule_work,FUNC_3
+to_loop_ctrl,FUNC_4
+nvme_loop_submit_async_event,FUNC_5
+arg,VAR_4
+ctrl,VAR_5
+queue,VAR_6
+iod,VAR_7

@@ -1,0 +1,13 @@
+interface_to_usbdev,FUNC_0
+sprintf,FUNC_1
+to_usb_driver,FUNC_2
+to_usb_interface,FUNC_3
+usb_lock_device,FUNC_4
+usb_unlock_device,FUNC_5
+show_supports_autosuspend,FUNC_6
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+intf,VAR_3
+udev,VAR_4
+ret,VAR_5

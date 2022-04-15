@@ -1,0 +1,9 @@
+AC97_RST,FUNC_0
+PSC_AC97RST_SNC,VAR_0
+__raw_writel,FUNC_1
+ac97_to_pscdata,FUNC_2
+msleep,FUNC_3
+wmb,FUNC_4
+au1xpsc_ac97_warm_reset,FUNC_5
+ac97,VAR_1
+pscdata,VAR_2

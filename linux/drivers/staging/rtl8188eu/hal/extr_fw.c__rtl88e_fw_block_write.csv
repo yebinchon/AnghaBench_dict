@@ -1,0 +1,14 @@
+FW_8192C_START_ADDRESS,VAR_0
+usb_write32,FUNC_0
+usb_write8,FUNC_1
+_rtl88e_fw_block_write,FUNC_2
+adapt,VAR_1
+buffer,VAR_2
+size,VAR_3
+blk_sz,VAR_4
+byte_buffer,VAR_5
+dword_buffer,VAR_6
+i,VAR_7
+write_address,VAR_8
+blk_cnt,VAR_9
+remain,VAR_10

@@ -1,0 +1,15 @@
+TGT_KEVENT_TSK_MGMT_REQ,VAR_0
+dprintk,FUNC_0
+eprintk,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+tgt_uspace_send_event,FUNC_4
+scsi_tgt_uspace_send_tsk_mgmt,FUNC_5
+host_no,VAR_1
+itn_id,VAR_2
+function,VAR_3
+tag,VAR_4
+scsilun,VAR_5
+data,VAR_6
+ev,VAR_7
+err,VAR_8

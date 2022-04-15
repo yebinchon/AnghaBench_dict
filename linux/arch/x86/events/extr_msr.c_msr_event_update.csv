@@ -1,0 +1,14 @@
+MSR_IA32_THERM_STATUS,VAR_0
+MSR_SMI_COUNT,VAR_1
+local64_add,FUNC_0
+local64_cmpxchg,FUNC_1
+local64_read,FUNC_2
+local64_set,FUNC_3
+msr_read_counter,FUNC_4
+sign_extend64,FUNC_5
+unlikely,FUNC_6
+msr_event_update,FUNC_7
+event,VAR_2
+prev,VAR_3
+now,VAR_4
+delta,VAR_5

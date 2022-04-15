@@ -1,0 +1,10 @@
+CloseHandle,FUNC_0
+CreateToolhelp32Snapshot,FUNC_1
+FALSE,VAR_0
+ShutdownProcessTreeHelper,FUNC_2
+TH32CS_SNAPPROCESS,VAR_1
+ShutdownProcessTree,FUNC_3
+hParentProcess,VAR_2
+dwParentPID,VAR_3
+hSnapshot,VAR_4
+bResult,VAR_5

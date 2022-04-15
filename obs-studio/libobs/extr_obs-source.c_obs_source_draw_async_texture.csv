@@ -1,0 +1,14 @@
+OBS_EFFECT_DEFAULT,VAR_0
+gs_effect_get_technique,FUNC_0
+gs_get_effect,FUNC_1
+gs_technique_begin,FUNC_2
+gs_technique_begin_pass,FUNC_3
+gs_technique_end,FUNC_4
+gs_technique_end_pass,FUNC_5
+obs_get_base_effect,FUNC_6
+obs_source_draw_texture,FUNC_7
+obs_source_draw_async_texture,FUNC_8
+source,VAR_1
+effect,VAR_2
+def_draw,VAR_3
+tech,VAR_4

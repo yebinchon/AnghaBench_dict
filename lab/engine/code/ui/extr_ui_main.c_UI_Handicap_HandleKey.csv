@@ -1,0 +1,12 @@
+Com_Clamp,FUNC_0
+UI_SelectForKey,FUNC_1
+qfalse,VAR_0
+qtrue,VAR_1
+trap_Cvar_SetValue,FUNC_2
+trap_Cvar_VariableValue,FUNC_3
+UI_Handicap_HandleKey,FUNC_4
+flags,VAR_2
+special,VAR_3
+key,VAR_4
+select,VAR_5
+h,VAR_6

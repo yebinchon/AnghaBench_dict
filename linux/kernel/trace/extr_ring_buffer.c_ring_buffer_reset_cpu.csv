@@ -1,0 +1,16 @@
+RB_WARN_ON,FUNC_0
+arch_spin_lock,FUNC_1
+arch_spin_unlock,FUNC_2
+atomic_dec,FUNC_3
+atomic_inc,FUNC_4
+cpumask_test_cpu,FUNC_5
+local_read,FUNC_6
+raw_spin_lock_irqsave,FUNC_7
+raw_spin_unlock_irqrestore,FUNC_8
+rb_reset_cpu,FUNC_9
+synchronize_rcu,FUNC_10
+ring_buffer_reset_cpu,FUNC_11
+buffer,VAR_0
+cpu,VAR_1
+cpu_buffer,VAR_2
+flags,VAR_3

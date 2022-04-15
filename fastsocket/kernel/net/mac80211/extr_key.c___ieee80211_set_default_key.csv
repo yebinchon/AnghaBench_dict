@@ -1,0 +1,12 @@
+NUM_DEFAULT_KEYS,VAR_0
+assert_key_lock,FUNC_0
+drv_set_default_unicast_key,FUNC_1
+ieee80211_debugfs_key_update_default,FUNC_2
+key_mtx_dereference,FUNC_3
+rcu_assign_pointer,FUNC_4
+__ieee80211_set_default_key,FUNC_5
+sdata,VAR_1
+idx,VAR_2
+uni,VAR_3
+multi,VAR_4
+key,VAR_5

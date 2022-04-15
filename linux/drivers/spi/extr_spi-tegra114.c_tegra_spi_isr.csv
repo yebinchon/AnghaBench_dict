@@ -1,0 +1,14 @@
+DATA_DIR_RX,VAR_0
+DATA_DIR_TX,VAR_1
+IRQ_WAKE_THREAD,VAR_2
+SPI_FIFO_STATUS,VAR_3
+SPI_RX_FIFO_OVF,VAR_4
+SPI_RX_FIFO_UNF,VAR_5
+SPI_TX_FIFO_OVF,VAR_6
+SPI_TX_FIFO_UNF,VAR_7
+tegra_spi_clear_status,FUNC_0
+tegra_spi_readl,FUNC_1
+tegra_spi_isr,FUNC_2
+irq,VAR_8
+context_data,VAR_9
+tspi,VAR_10

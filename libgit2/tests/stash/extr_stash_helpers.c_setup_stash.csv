@@ -1,0 +1,12 @@
+cl_git_mkfile,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_rewritefile,FUNC_2
+cl_repo_commit_from_index,FUNC_3
+git_index_add_bypath,FUNC_4
+git_index_free,FUNC_5
+git_index_write,FUNC_6
+git_repository_index,FUNC_7
+setup_stash,FUNC_8
+repo,VAR_0
+signature,VAR_1
+index,VAR_2

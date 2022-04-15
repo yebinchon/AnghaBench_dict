@@ -1,0 +1,13 @@
+BACKLIGHT_UNREGISTERED,VAR_0
+backlight_dev_list_mutex,VAR_1
+backlight_notifier,VAR_2
+backlight_unregister_fb,FUNC_0
+blocking_notifier_call_chain,FUNC_1
+device_unregister,FUNC_2
+list_del,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pmac_backlight,VAR_3
+pmac_backlight_mutex,VAR_4
+backlight_device_unregister,FUNC_6
+bd,VAR_5

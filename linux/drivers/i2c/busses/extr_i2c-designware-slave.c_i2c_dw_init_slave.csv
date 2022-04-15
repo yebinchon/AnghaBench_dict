@@ -1,0 +1,9 @@
+DW_IC_SDA_HOLD,VAR_0
+__i2c_dw_disable,FUNC_0
+dw_writel,FUNC_1
+i2c_dw_acquire_lock,FUNC_2
+i2c_dw_configure_fifo_slave,FUNC_3
+i2c_dw_release_lock,FUNC_4
+i2c_dw_init_slave,FUNC_5
+dev,VAR_1
+ret,VAR_2

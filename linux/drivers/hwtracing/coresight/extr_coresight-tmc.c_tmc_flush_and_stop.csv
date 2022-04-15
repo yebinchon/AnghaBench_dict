@@ -1,0 +1,12 @@
+BIT,FUNC_0
+TMC_FFCR,VAR_0
+TMC_FFCR_FLUSHMAN_BIT,VAR_1
+TMC_FFCR_STOP_ON_FLUSH,VAR_2
+coresight_timeout,FUNC_1
+dev_err,FUNC_2
+readl_relaxed,FUNC_3
+tmc_wait_for_tmcready,FUNC_4
+writel_relaxed,FUNC_5
+tmc_flush_and_stop,FUNC_6
+drvdata,VAR_3
+ffcr,VAR_4

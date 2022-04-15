@@ -1,0 +1,15 @@
+check_dummy_mem_ok,FUNC_0
+dummy_free,VAR_0
+dummy_malloc,VAR_1
+dummy_realloc,VAR_2
+event_base_free,FUNC_1
+event_base_new_with_config,FUNC_2
+event_config_avoid_method,FUNC_3
+event_config_free,FUNC_4
+event_config_new,FUNC_5
+event_set_mem_functions,FUNC_6
+tt_assert,FUNC_7
+test_mm_functions,FUNC_8
+arg,VAR_3
+b,VAR_4
+cfg,VAR_5

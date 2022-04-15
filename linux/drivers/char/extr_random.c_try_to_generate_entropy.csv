@@ -1,0 +1,14 @@
+crng_ready,FUNC_0
+del_timer_sync,FUNC_1
+destroy_timer_on_stack,FUNC_2
+entropy_timer,VAR_0
+input_pool,VAR_1
+jiffies,VAR_2
+mix_pool_bytes,FUNC_3
+mod_timer,FUNC_4
+random_get_entropy,FUNC_5
+schedule,FUNC_6
+timer_pending,FUNC_7
+timer_setup_on_stack,FUNC_8
+try_to_generate_entropy,FUNC_9
+stack,VAR_3

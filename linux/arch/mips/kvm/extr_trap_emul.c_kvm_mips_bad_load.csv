@@ -1,0 +1,17 @@
+CAUSEF_BD,VAR_0
+EMULATE_FAIL,VAR_1
+KVM_EXIT_INTERNAL_ERROR,VAR_2
+KVM_EXIT_MMIO,VAR_3
+RESUME_HOST,VAR_4
+kvm_err,FUNC_0
+kvm_get_badinstr,FUNC_1
+kvm_is_ifetch_fault,FUNC_2
+kvm_mips_emulate_load,FUNC_3
+kvm_mips_bad_load,FUNC_4
+cause,VAR_5
+opc,VAR_6
+run,VAR_7
+vcpu,VAR_8
+er,VAR_9
+inst,VAR_10
+err,VAR_11

@@ -1,0 +1,13 @@
+WM_CMD_READ_DATA,VAR_0
+printf,FUNC_0
+swap_if_little16,FUNC_1
+swap_if_little32,FUNC_2
+wiimote_is_connected,FUNC_3
+wiimote_send,FUNC_4
+wiimote_read_data,FUNC_5
+wm,VAR_1
+addr,VAR_2
+len,VAR_3
+buf,VAR_4
+buf32,VAR_5
+buf16,VAR_6

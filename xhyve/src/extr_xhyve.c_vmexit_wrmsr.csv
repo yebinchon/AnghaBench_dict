@@ -1,0 +1,10 @@
+VMEXIT_CONTINUE,VAR_0
+emulate_wrmsr,FUNC_0
+fprintf,FUNC_1
+stderr,VAR_1
+strictmsr,VAR_2
+vm_inject_gp,FUNC_2
+vmexit_wrmsr,FUNC_3
+vme,VAR_3
+pvcpu,VAR_4
+error,VAR_5

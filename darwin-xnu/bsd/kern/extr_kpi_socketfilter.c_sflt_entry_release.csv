@@ -1,0 +1,13 @@
+OSDecrementAtomic,FUNC_0
+kernel_thread_start,FUNC_1
+lck_mtx_lock,FUNC_2
+lck_mtx_unlock,FUNC_3
+panic,FUNC_4
+sflt_cleanup_thread,VAR_0
+sock_filter_cleanup_entries,VAR_1
+sock_filter_cleanup_lock,VAR_2
+sock_filter_cleanup_thread,VAR_3
+wakeup,FUNC_5
+sflt_entry_release,FUNC_6
+entry,VAR_4
+old,VAR_5

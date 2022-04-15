@@ -1,0 +1,12 @@
+GET_THREAD_SIGNALS,FUNC_0
+NSIG,VAR_0
+sigaddset,FUNC_1
+sigemptyset,FUNC_2
+sigismember,FUNC_3
+signal_print_update,FUNC_4
+signal_stop_update,FUNC_5
+target_signal_from_host,FUNC_6
+thread_print_set,VAR_1
+thread_signals,VAR_2
+thread_stop_set,VAR_3
+check_thread_signals,FUNC_7

@@ -1,0 +1,13 @@
+HOST_FS_BASE,VAR_0
+HOST_FS_SELECTOR,VAR_1
+HOST_GS_BASE,VAR_2
+HOST_GS_SELECTOR,VAR_3
+unlikely,FUNC_0
+vmcs_write16,FUNC_1
+vmcs_writel,FUNC_2
+vmx_set_host_fs_gs,FUNC_3
+host,VAR_4
+fs_sel,VAR_5
+gs_sel,VAR_6
+fs_base,VAR_7
+gs_base,VAR_8

@@ -1,0 +1,17 @@
+GENMASK,FUNC_0
+STM32_GPIO_AFRL,VAR_0
+STM32_GPIO_MODER,VAR_1
+clk_disable,FUNC_1
+clk_enable,FUNC_2
+readl_relaxed,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+stm32_pmx_get_mode,FUNC_6
+bank,VAR_2
+pin,VAR_3
+mode,VAR_4
+alt,VAR_5
+val,VAR_6
+alt_shift,VAR_7
+alt_offset,VAR_8
+flags,VAR_9

@@ -1,0 +1,13 @@
+FR_BACKGROUND,VAR_0
+FR_WAITING,VAR_1
+__clear_bit,FUNC_0
+fuse_drop_waiting,FUNC_1
+fuse_request_free,FUNC_2
+refcount_dec_and_test,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+test_bit,FUNC_6
+wake_up,FUNC_7
+fuse_put_request,FUNC_8
+fc,VAR_2
+req,VAR_3

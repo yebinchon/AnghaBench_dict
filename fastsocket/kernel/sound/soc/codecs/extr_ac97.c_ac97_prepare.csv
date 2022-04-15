@@ -1,0 +1,12 @@
+AC97_PCM_FRONT_DAC_RATE,VAR_0
+AC97_PCM_LR_ADC_RATE,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+snd_ac97_set_rate,FUNC_0
+ac97_prepare,FUNC_1
+substream,VAR_3
+dai,VAR_4
+runtime,VAR_5
+rtd,VAR_6
+socdev,VAR_7
+codec,VAR_8
+reg,VAR_9

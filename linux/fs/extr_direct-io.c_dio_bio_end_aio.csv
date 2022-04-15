@@ -1,0 +1,16 @@
+DIO_COMPLETE_ASYNC,VAR_0
+INIT_WORK,FUNC_0
+REQ_OP_WRITE,VAR_1
+dio_aio_complete_work,VAR_2
+dio_bio_complete,FUNC_1
+dio_complete,FUNC_2
+queue_work,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+wake_up_process,FUNC_6
+dio_bio_end_aio,FUNC_7
+bio,VAR_3
+dio,VAR_4
+remaining,VAR_5
+flags,VAR_6
+defer_completion,VAR_7

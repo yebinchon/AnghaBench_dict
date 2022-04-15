@@ -1,0 +1,15 @@
+CFFileDescriptorCreate,FUNC_0
+CFFileDescriptorCreateRunLoopSource,FUNC_1
+CFFileDescriptorEnableCallBacks,FUNC_2
+CFRelease,FUNC_3
+CFRunLoopAddSource,FUNC_4
+CFRunLoopGetCurrent,FUNC_5
+command_read_cb,VAR_0
+kCFAllocatorDefault,VAR_1
+kCFFileDescriptorReadCallBack,VAR_2
+kCFRunLoopDefaultMode,VAR_3
+add_command_pipe,FUNC_6
+monitor,VAR_4
+ctx,VAR_5
+fdref,VAR_6
+source,VAR_7

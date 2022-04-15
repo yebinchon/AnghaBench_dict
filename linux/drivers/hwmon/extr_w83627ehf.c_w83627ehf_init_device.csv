@@ -1,0 +1,14 @@
+NUM_REG_TEMP,VAR_0
+W83627EHF_REG_CONFIG,VAR_1
+W83627EHF_REG_DIODE,VAR_2
+W83627EHF_REG_VBAT,VAR_3
+strncmp,FUNC_0
+w83627ehf_read_value,FUNC_1
+w83627ehf_write_value,FUNC_2
+w83627ehf_init_device,FUNC_3
+data,VAR_4
+kind,VAR_5
+i,VAR_6
+tmp,VAR_7
+diode,VAR_8
+label,VAR_9

@@ -1,0 +1,17 @@
+LINUX_CTR2,FUNC_0
+PTRIN,FUNC_1
+PTROUT,FUNC_2
+bsd_to_linux_sigaltstack,FUNC_3
+copyin,FUNC_4
+copyout,FUNC_5
+kern_sigaltstack,FUNC_6
+linux_to_bsd_sigaltstack,FUNC_7
+memset,FUNC_8
+sigaltstack,VAR_0
+linux_sigaltstack,FUNC_9
+td,VAR_1
+uap,VAR_2
+ss,VAR_3
+oss,VAR_4
+lss,VAR_5
+error,VAR_6

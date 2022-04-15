@@ -1,0 +1,12 @@
+GFP_KERNEL,VAR_0
+GOOD,VAR_1
+IBLOCK_DEV,FUNC_0
+TCM_LOGICAL_UNIT_COMMUNICATION_FAILURE,VAR_2
+blkdev_issue_discard,FUNC_1
+pr_warn,FUNC_2
+sbc_get_write_same_sectors,FUNC_3
+target_complete_cmd,FUNC_4
+iblock_execute_write_same_unmap,FUNC_5
+cmd,VAR_3
+ib_dev,VAR_4
+rc,VAR_5

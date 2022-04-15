@@ -1,0 +1,16 @@
+AZX_CAP_HDR_ID_MASK,VAR_0
+AZX_CAP_HDR_ID_OFF,VAR_1
+AZX_CAP_HDR_NXT_PTR_MASK,VAR_2
+AZX_CAP_HDR_VER_MASK,VAR_3
+AZX_CAP_HDR_VER_OFF,VAR_4
+HDAC_MAX_CAPS,VAR_5
+LLCH,VAR_6
+_snd_hdac_chip_readl,FUNC_0
+dev_dbg,FUNC_1
+dev_err,FUNC_2
+snd_hdac_chip_readw,FUNC_3
+snd_hdac_bus_parse_capabilities,FUNC_4
+bus,VAR_7
+cur_cap,VAR_8
+offset,VAR_9
+counter,VAR_10

@@ -1,0 +1,14 @@
+E1000_ERR_EEPROM,VAR_0
+E1000_SUCCESS,VAR_1
+EEPROM_MAX_RETRY_SPI,VAR_2
+EEPROM_RDSR_OPCODE_SPI,VAR_3
+EEPROM_STATUS_RDY_SPI,VAR_4
+e1000_shift_in_ee_bits,FUNC_0
+e1000_shift_out_ee_bits,FUNC_1
+e1000_standby_eeprom,FUNC_2
+e_dbg,FUNC_3
+udelay,FUNC_4
+e1000_spi_eeprom_ready,FUNC_5
+hw,VAR_5
+retry_count,VAR_6
+spi_stat_reg,VAR_7

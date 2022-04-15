@@ -1,0 +1,11 @@
+SYS_RES_IOPORT,VAR_0
+SYS_RES_IRQ,VAR_1
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_get_softc,FUNC_2
+mtx_destroy,FUNC_3
+taskqueue_drain,FUNC_4
+taskqueue_free,FUNC_5
+asmc_detach,FUNC_6
+dev,VAR_2
+sc,VAR_3

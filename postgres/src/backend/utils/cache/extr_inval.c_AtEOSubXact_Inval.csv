@@ -1,0 +1,12 @@
+AppendInvalidationMessages,FUNC_0
+Assert,FUNC_1
+CommandEndInvalidationMessages,FUNC_2
+GetCurrentTransactionNestLevel,FUNC_3
+LocalExecuteInvalidationMessage,VAR_0
+ProcessInvalidationMessages,FUNC_4
+pfree,FUNC_5
+transInvalInfo,VAR_1
+AtEOSubXact_Inval,FUNC_6
+isCommit,VAR_2
+my_level,VAR_3
+myInfo,VAR_4

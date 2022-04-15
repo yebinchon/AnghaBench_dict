@@ -1,0 +1,11 @@
+NF_INET_LOCAL_OUT,VAR_0
+PF_INET,VAR_1
+dst_output,VAR_2
+htons,FUNC_0
+ip_hdr,FUNC_1
+ip_send_check,FUNC_2
+nf_hook,FUNC_3
+skb_dst,FUNC_4
+__ip_local_out,FUNC_5
+skb,VAR_3
+iph,VAR_4

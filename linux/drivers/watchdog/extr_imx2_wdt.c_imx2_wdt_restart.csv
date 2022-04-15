@@ -1,0 +1,13 @@
+IMX2_WDT_WCR,VAR_0
+IMX2_WDT_WCR_SRS,VAR_1
+IMX2_WDT_WCR_WDA,VAR_2
+IMX2_WDT_WCR_WDE,VAR_3
+mdelay,FUNC_0
+regmap_write,FUNC_1
+watchdog_get_drvdata,FUNC_2
+imx2_wdt_restart,FUNC_3
+wdog,VAR_4
+action,VAR_5
+data,VAR_6
+wdev,VAR_7
+wcr_enable,VAR_8

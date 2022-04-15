@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+EXT4_SB,FUNC_1
+ext4_clear_feature_journal_needs_recovery,FUNC_2
+ext4_commit_super,FUNC_3
+ext4_has_feature_journal,FUNC_4
+ext4_has_feature_journal_needs_recovery,FUNC_5
+jbd2_journal_flush,FUNC_6
+jbd2_journal_lock_updates,FUNC_7
+jbd2_journal_unlock_updates,FUNC_8
+sb_rdonly,FUNC_9
+ext4_mark_recovery_complete,FUNC_10
+sb,VAR_0
+es,VAR_1
+journal,VAR_2

@@ -1,0 +1,14 @@
+ESHUTDOWN,VAR_0
+NXP_NCI_MODE_COLD,VAR_1
+NXP_NCI_MODE_FW,VAR_2
+cancel_work_sync,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+nci_free_device,FUNC_3
+nci_get_drvdata,FUNC_4
+nci_unregister_device,FUNC_5
+nxp_nci_fw_work_complete,FUNC_6
+stub1,FUNC_7
+nxp_nci_remove,FUNC_8
+ndev,VAR_3
+info,VAR_4

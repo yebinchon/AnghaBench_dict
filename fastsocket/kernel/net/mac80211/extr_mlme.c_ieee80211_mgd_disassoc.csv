@@ -1,0 +1,16 @@
+ENOLINK,VAR_0
+ETH_ALEN,VAR_1
+IEEE80211_DEAUTH_FRAME_LEN,VAR_2
+IEEE80211_STYPE_DISASSOC,VAR_3
+__cfg80211_send_disassoc,FUNC_0
+ieee80211_set_disassoc,FUNC_1
+memcpy,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+sdata_info,FUNC_5
+ieee80211_mgd_disassoc,FUNC_6
+sdata,VAR_4
+req,VAR_5
+ifmgd,VAR_6
+bssid,VAR_7
+frame_buf,VAR_8

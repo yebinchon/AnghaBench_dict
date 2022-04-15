@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+DTRACE_HASHSTR,FUNC_1
+KM_SLEEP,VAR_0
+kmem_free,FUNC_2
+kmem_zalloc,FUNC_3
+dtrace_hash_resize,FUNC_4
+hash,VAR_1
+size,VAR_2
+i,VAR_3
+ndx,VAR_4
+new_size,VAR_5
+new_mask,VAR_6
+new_tab,VAR_7
+bucket,VAR_8
+next,VAR_9
+elm,VAR_10

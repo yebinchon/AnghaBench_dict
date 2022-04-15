@@ -1,0 +1,16 @@
+ROCE_BITMAP_SZ,VAR_0
+USNIC_TRANSPORT_ROCE_CUSTOM,VAR_1
+bitmap_find_next_zero_area,FUNC_0
+bitmap_set,FUNC_1
+roce_bitmap,VAR_2
+roce_bitmap_lock,VAR_3
+roce_next_port,VAR_4
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+test_bit,FUNC_4
+usnic_dbg,FUNC_5
+usnic_err,FUNC_6
+usnic_transport_to_str,FUNC_7
+usnic_transport_rsrv_port,FUNC_8
+type,VAR_5
+port_num,VAR_6

@@ -1,0 +1,14 @@
+BIT,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_clk_info,FUNC_4
+to_ingenic_clk,FUNC_5
+ingenic_pll_is_enabled,FUNC_6
+hw,VAR_0
+ingenic_clk,VAR_1
+cgu,VAR_2
+clk_info,VAR_3
+pll_info,VAR_4
+flags,VAR_5
+ctl,VAR_6

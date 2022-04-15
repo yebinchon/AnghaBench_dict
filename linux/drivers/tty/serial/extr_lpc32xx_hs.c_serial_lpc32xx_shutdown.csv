@@ -1,0 +1,14 @@
+LPC32XX_HSUART_CTRL,FUNC_0
+LPC32XX_HSU_OFFSET,FUNC_1
+LPC32XX_HSU_RX_TL32B,VAR_0
+LPC32XX_HSU_TMO_INACT_4B,VAR_1
+LPC32XX_HSU_TX_TL8B,VAR_2
+free_irq,FUNC_2
+lpc32xx_loopback_set,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+writel,FUNC_6
+serial_lpc32xx_shutdown,FUNC_7
+port,VAR_3
+tmp,VAR_4
+flags,VAR_5

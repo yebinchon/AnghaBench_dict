@@ -1,0 +1,17 @@
+UINT64_MAX,VAR_0
+adjust_notsent_lowat,VAR_1
+disable_latency_optimized_write,FUNC_0
+h2o_evloop_get_execution_time_millisec,FUNC_1
+h2o_socket_get_fd,FUNC_2
+h2o_socket_get_loop,FUNC_3
+obtain_tcp_info,FUNC_4
+prepare_for_latency_optimized_write,FUNC_5
+h2o_socket_do_prepare_for_latency_optimized_write,FUNC_6
+sock,VAR_2
+conditions,VAR_3
+rtt,VAR_4
+mss,VAR_5
+cwnd_size,VAR_6
+cwnd_avail,VAR_7
+loop_time,VAR_8
+can_prepare,VAR_9

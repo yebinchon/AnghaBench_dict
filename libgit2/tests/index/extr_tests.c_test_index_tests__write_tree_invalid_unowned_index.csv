@@ -1,0 +1,16 @@
+GIT_FILEMODE_BLOB,VAR_0
+cl_fixture_cleanup,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_index_add,FUNC_3
+git_index_free,FUNC_4
+git_index_new,FUNC_5
+git_index_write_tree_to,FUNC_6
+git_oid_fromstr,FUNC_7
+git_repository_free,FUNC_8
+git_repository_init,FUNC_9
+test_index_tests__write_tree_invalid_unowned_index,FUNC_10
+idx,VAR_1
+repo,VAR_2
+entry,VAR_3
+tree_id,VAR_4

@@ -1,0 +1,10 @@
+SOL_SOCKET,VAR_0
+SO_RCVBUF,VAR_1
+SO_SNDBUF,VAR_2
+setsockopt,FUNC_0
+taosSetSockOpt,FUNC_1
+socketfd,VAR_3
+level,VAR_4
+optname,VAR_5
+optval,VAR_6
+optlen,VAR_7

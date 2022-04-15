@@ -1,0 +1,17 @@
+CPUID_FEATURE_TSCTMR,VAR_0
+NSEC_PER_USEC,VAR_1
+PE_parse_boot_argn,FUNC_0
+UINT64_MAX,VAR_2
+busFCvtt2n,VAR_3
+cpuid_features,FUNC_1
+kprintf,FUNC_2
+lapic_set_timer_func,FUNC_3
+printf,FUNC_4
+rtc_decrementer_max,VAR_4
+rtc_decrementer_min,VAR_5
+rtc_timer,VAR_6
+rtc_timer_tsc_deadline,VAR_7
+rtclock_intr,VAR_8
+tmrCvt,FUNC_5
+rtc_timer_init,FUNC_6
+TSC_deadline_timer,VAR_9

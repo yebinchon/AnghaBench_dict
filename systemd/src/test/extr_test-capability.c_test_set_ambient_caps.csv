@@ -1,0 +1,17 @@
+CAP_CHOWN,VAR_0
+CAP_INHERITABLE,VAR_1
+CAP_SET,VAR_2
+PR_CAP_AMBIENT,VAR_3
+PR_CAP_AMBIENT_IS_SET,VAR_4
+UINT64_C,FUNC_0
+assert,FUNC_1
+assert_se,FUNC_2
+cap_free,FUNC_3
+cap_get_flag,FUNC_4
+cap_get_proc,FUNC_5
+capability_ambient_set_apply,FUNC_6
+prctl,FUNC_7
+test_set_ambient_caps,FUNC_8
+caps,VAR_5
+set,VAR_6
+fv,VAR_7

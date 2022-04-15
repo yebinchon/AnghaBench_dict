@@ -1,0 +1,17 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_INT,VAR_1
+ENXIO,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_PROC,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+SYSCTL_STATIC_CHILDREN,FUNC_3
+_hw,VAR_4
+soctherm_sysctl_ctx,VAR_5
+soctherm_sysctl_temperature,VAR_6
+sysctl_ctx_init,FUNC_4
+soctherm_init_sysctl,FUNC_5
+sc,VAR_7
+i,VAR_8
+oid,VAR_9
+tmp,VAR_10

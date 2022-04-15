@@ -1,0 +1,7 @@
+IRQ_INTERNAL_BASE,VAR_0
+PERF_IRQMASK_REG,VAR_1
+bcm_perf_readl,FUNC_0
+bcm_perf_writel,FUNC_1
+bcm63xx_internal_irq_unmask,FUNC_2
+irq,VAR_2
+mask,VAR_3

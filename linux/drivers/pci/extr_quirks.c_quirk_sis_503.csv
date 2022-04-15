@@ -1,0 +1,10 @@
+PCI_DEVICE_ID,VAR_0
+SIS_DETECT_REGISTER,VAR_1
+pci_read_config_byte,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_byte,FUNC_2
+quirk_sis_96x_smbus,FUNC_3
+quirk_sis_503,FUNC_4
+dev,VAR_2
+reg,VAR_3
+devid,VAR_4

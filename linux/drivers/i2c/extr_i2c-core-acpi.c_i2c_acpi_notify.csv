@@ -1,0 +1,17 @@
+NOTIFY_OK,VAR_0
+acpi_device_enumerated,FUNC_0
+i2c_acpi_find_adapter_by_handle,FUNC_1
+i2c_acpi_find_client_by_adev,FUNC_2
+i2c_acpi_get_info,FUNC_3
+i2c_acpi_register_device,FUNC_4
+i2c_unregister_device,FUNC_5
+put_device,FUNC_6
+i2c_acpi_notify,FUNC_7
+nb,VAR_1
+value,VAR_2
+arg,VAR_3
+adev,VAR_4
+info,VAR_5
+adapter_handle,VAR_6
+adapter,VAR_7
+client,VAR_8

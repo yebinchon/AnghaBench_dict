@@ -1,0 +1,12 @@
+KASSERT,FUNC_0
+PMAP_INVL_GEN_NEXT_INVALID,VAR_0
+atomic_load_long,FUNC_1
+atomic_thread_fence_rel,FUNC_2
+pmap_di_load_invl,FUNC_3
+pmap_di_store_invl,FUNC_4
+pmap_delayed_invl_finish_u_crit,FUNC_5
+invl_gen,VAR_1
+p,VAR_2
+prev,VAR_3
+new_prev,VAR_4
+mygen,VAR_5

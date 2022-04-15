@@ -1,0 +1,11 @@
+if_usb_free,FUNC_0
+interface_to_usbdev,FUNC_1
+lbs_remove_card,FUNC_2
+lbs_stop_card,FUNC_3
+usb_get_intfdata,FUNC_4
+usb_put_dev,FUNC_5
+usb_set_intfdata,FUNC_6
+if_usb_disconnect,FUNC_7
+intf,VAR_0
+cardp,VAR_1
+priv,VAR_2

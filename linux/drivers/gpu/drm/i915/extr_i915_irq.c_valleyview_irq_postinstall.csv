@@ -1,0 +1,10 @@
+I915_WRITE,FUNC_0
+MASTER_INTERRUPT_ENABLE,VAR_0
+POSTING_READ,FUNC_1
+VLV_MASTER_IER,VAR_1
+gen5_gt_irq_postinstall,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+vlv_display_irq_postinstall,FUNC_5
+valleyview_irq_postinstall,FUNC_6
+dev_priv,VAR_2

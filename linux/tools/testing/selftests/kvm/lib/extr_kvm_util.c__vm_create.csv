@@ -1,0 +1,16 @@
+DEBUG,FUNC_0
+KVM_VM_TYPE_ARM_IPA_SIZE,FUNC_1
+TEST_ASSERT,FUNC_2
+VM_MEM_SRC_ANONYMOUS,VAR_0
+calloc,FUNC_3
+kvm_get_cpu_address_width,FUNC_4
+sparsebit_alloc,FUNC_5
+sparsebit_set_num,FUNC_6
+vm_guest_mode_string,FUNC_7
+vm_open,FUNC_8
+vm_userspace_mem_region_add,FUNC_9
+_vm_create,FUNC_10
+mode,VAR_1
+phy_pages,VAR_2
+perm,VAR_3
+vm,VAR_4

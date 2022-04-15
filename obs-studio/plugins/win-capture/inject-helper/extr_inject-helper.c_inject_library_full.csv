@@ -1,0 +1,10 @@
+CloseHandle,FUNC_0
+INJECT_ERROR_OPEN_PROCESS_FAIL,VAR_0
+PROCESS_ALL_ACCESS,VAR_1
+inject_library,FUNC_1
+open_process,FUNC_2
+inject_library_full,FUNC_3
+process_id,VAR_2
+dll,VAR_3
+process,VAR_4
+ret,VAR_5

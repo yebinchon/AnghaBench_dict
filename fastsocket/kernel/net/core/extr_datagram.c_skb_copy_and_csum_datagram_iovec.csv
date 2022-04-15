@@ -1,0 +1,16 @@
+CHECKSUM_COMPLETE,VAR_0
+EFAULT,VAR_1
+EINVAL,VAR_2
+__skb_checksum_complete,FUNC_0
+csum_fold,FUNC_1
+csum_partial,FUNC_2
+netdev_rx_csum_fault,FUNC_3
+skb_copy_and_csum_datagram,FUNC_4
+skb_copy_datagram_iovec,FUNC_5
+unlikely,FUNC_6
+skb_copy_and_csum_datagram_iovec,FUNC_7
+skb,VAR_3
+hlen,VAR_4
+iov,VAR_5
+csum,VAR_6
+chunk,VAR_7

@@ -1,0 +1,11 @@
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+SIGTRAP,VAR_0
+TRAP_DTRACE,VAR_1
+ksiginfo_init,FUNC_2
+tdsendsignal,FUNC_3
+fasttrap_sigtrap,FUNC_4
+p,VAR_2
+t,VAR_3
+pc,VAR_4
+ksi,VAR_5

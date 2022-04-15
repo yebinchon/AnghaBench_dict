@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+EPERM,VAR_0
+PF_EXITING,VAR_1
+PT_UTRACED,VAR_2
+__ptrace_link,FUNC_1
+current,VAR_3
+ptrace_abort_attach,FUNC_2
+ptrace_attach_task,FUNC_3
+security_ptrace_traceme,FUNC_4
+tasklist_lock,VAR_4
+unlikely,FUNC_5
+write_lock_irq,FUNC_6
+write_unlock_irq,FUNC_7
+ptrace_traceme,FUNC_8
+detach,VAR_5
+ret,VAR_6

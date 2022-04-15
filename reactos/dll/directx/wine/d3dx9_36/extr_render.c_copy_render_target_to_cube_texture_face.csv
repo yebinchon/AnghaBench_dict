@@ -1,0 +1,12 @@
+D3DXLoadSurfaceFromSurface,FUNC_0
+ERR,FUNC_1
+FAILED,FUNC_2
+IDirect3DCubeTexture9_GetCubeMapSurface,FUNC_3
+IDirect3DSurface9_Release,FUNC_4
+copy_render_target_to_cube_texture_face,FUNC_5
+cube_texture,VAR_0
+face,VAR_1
+render_target,VAR_2
+filter,VAR_3
+hr,VAR_4
+cube_surface,VAR_5

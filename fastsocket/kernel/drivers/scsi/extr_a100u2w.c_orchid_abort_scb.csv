@@ -1,0 +1,14 @@
+HDO,VAR_0
+ORC_CMD_ABORT_SCB,VAR_1
+ORC_HCTRL,VAR_2
+ORC_HDATA,VAR_3
+ORC_HSTUS,VAR_4
+inb,FUNC_0
+outb,FUNC_1
+wait_HDO_off,FUNC_2
+wait_hdi_set,FUNC_3
+orchid_abort_scb,FUNC_4
+host,VAR_5
+scb,VAR_6
+data,VAR_7
+status,VAR_8

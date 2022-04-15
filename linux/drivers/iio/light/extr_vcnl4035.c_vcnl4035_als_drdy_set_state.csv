@@ -1,0 +1,13 @@
+VCNL4035_ALS_CONF,VAR_0
+VCNL4035_MODE_ALS_INT_DISABLE,VAR_1
+VCNL4035_MODE_ALS_INT_ENABLE,VAR_2
+VCNL4035_MODE_ALS_INT_MASK,VAR_3
+iio_priv,FUNC_0
+iio_trigger_get_drvdata,FUNC_1
+regmap_update_bits,FUNC_2
+vcnl4035_als_drdy_set_state,FUNC_3
+trigger,VAR_4
+enable_drdy,VAR_5
+indio_dev,VAR_6
+data,VAR_7
+val,VAR_8

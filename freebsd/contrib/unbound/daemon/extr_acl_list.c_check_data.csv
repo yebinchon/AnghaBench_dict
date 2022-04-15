@@ -1,0 +1,16 @@
+LDNS_RR_BUF_SIZE,VAR_0
+LDNS_RR_TYPE_CNAME,VAR_1
+LDNS_WIREPARSE_OFFSET,FUNC_0
+log_err,FUNC_1
+sldns_get_errorstr_parse,FUNC_2
+sldns_str2wire_rr_buf,FUNC_3
+sldns_wirerr_get_type,FUNC_4
+snprintf,FUNC_5
+check_data,FUNC_6
+data,VAR_2
+head,VAR_3
+buf,VAR_4
+rr,VAR_5
+len,VAR_6
+res,VAR_7
+err_data,VAR_8

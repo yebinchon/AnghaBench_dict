@@ -1,0 +1,12 @@
+_wpa_ctrl_command,FUNC_0
+ctrl_conn,VAR_0
+ctrl_ifname,VAR_1
+eloop_register_timeout,FUNC_1
+hostapd_cli_close_connection,FUNC_2
+hostapd_cli_reconnect,FUNC_3
+hostapd_cli_recv_pending,FUNC_4
+ping_interval,VAR_2
+printf,FUNC_5
+hostapd_cli_ping,FUNC_6
+eloop_ctx,VAR_3
+timeout_ctx,VAR_4

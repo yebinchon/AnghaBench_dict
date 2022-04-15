@@ -1,0 +1,13 @@
+FLITE_SD_PAD_SINK,VAR_0
+V4L2_SUBDEV_FORMAT_TRY,VAR_1
+__fimc_lite_subdev_get_try_fmt,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+v4l2_get_subdevdata,FUNC_3
+fimc_lite_subdev_get_fmt,FUNC_4
+sd,VAR_2
+cfg,VAR_3
+fmt,VAR_4
+fimc,VAR_5
+mf,VAR_6
+f,VAR_7

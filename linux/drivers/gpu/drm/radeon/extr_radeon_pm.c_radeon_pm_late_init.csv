@@ -1,0 +1,14 @@
+DRM_ERROR,FUNC_0
+PM_METHOD_DPM,VAR_0
+dev_attr_power_dpm_force_performance_level,VAR_1
+dev_attr_power_dpm_state,VAR_2
+dev_attr_power_method,VAR_3
+dev_attr_power_profile,VAR_4
+device_create_file,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+radeon_dpm_late_enable,FUNC_4
+radeon_pm_compute_clocks,FUNC_5
+radeon_pm_late_init,FUNC_6
+rdev,VAR_5
+ret,VAR_6

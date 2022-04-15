@@ -1,0 +1,11 @@
+IFF_DRV_OACTIVE,VAR_0
+IFF_DRV_RUNNING,VAR_1
+M_DEVBUF,VAR_2
+device_get_parent,FUNC_0
+free,FUNC_1
+ppb_assert_locked,FUNC_2
+ppb_release_bus,FUNC_3
+ppb_wctr,FUNC_4
+lpstop,FUNC_5
+sc,VAR_3
+ppbus,VAR_4

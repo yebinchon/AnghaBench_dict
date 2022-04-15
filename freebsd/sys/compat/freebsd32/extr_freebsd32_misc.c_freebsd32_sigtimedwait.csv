@@ -1,0 +1,14 @@
+copyin,FUNC_0
+copyout,FUNC_1
+kern_sigtimedwait,FUNC_2
+siginfo_to_siginfo32,FUNC_3
+freebsd32_sigtimedwait,FUNC_4
+td,VAR_0
+uap,VAR_1
+ts32,VAR_2
+ts,VAR_3
+timeout,VAR_4
+set,VAR_5
+ksi,VAR_6
+si32,VAR_7
+error,VAR_8

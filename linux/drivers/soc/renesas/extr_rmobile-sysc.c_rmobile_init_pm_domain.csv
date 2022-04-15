@@ -1,0 +1,14 @@
+GENPD_FLAG_ACTIVE_WAKEUP,VAR_0
+GENPD_FLAG_ALWAYS_ON,VAR_1
+GENPD_FLAG_PM_CLK,VAR_2
+__rmobile_pd_power_up,FUNC_0
+cpg_mstp_attach_dev,VAR_3
+cpg_mstp_detach_dev,VAR_4
+pm_genpd_init,FUNC_1
+rmobile_pd_power_down,VAR_5
+rmobile_pd_power_up,VAR_6
+simple_qos_governor,VAR_7
+rmobile_init_pm_domain,FUNC_2
+rmobile_pd,VAR_8
+genpd,VAR_9
+gov,VAR_10

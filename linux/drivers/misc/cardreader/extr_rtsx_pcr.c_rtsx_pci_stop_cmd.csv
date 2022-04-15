@@ -1,0 +1,11 @@
+DMACTL,VAR_0
+RBCTL,VAR_1
+RTSX_HCBCTLR,VAR_2
+RTSX_HDBCTLR,VAR_3
+STOP_CMD,VAR_4
+STOP_DMA,VAR_5
+rtsx_pci_write_register,FUNC_0
+rtsx_pci_writel,FUNC_1
+stub1,FUNC_2
+rtsx_pci_stop_cmd,FUNC_3
+pcr,VAR_6

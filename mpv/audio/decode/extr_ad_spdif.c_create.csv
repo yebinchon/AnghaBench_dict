@@ -1,0 +1,17 @@
+AV_CODEC_ID_NONE,VAR_0
+MP_PIN_IN,VAR_1
+MP_PIN_OUT,VAR_2
+ad_spdif_filter,VAR_3
+mp_aframe_pool_create,FUNC_0
+mp_codec_to_av_codec_id,FUNC_1
+mp_filter_add_pin,FUNC_2
+mp_filter_create,FUNC_3
+mp_log_new,FUNC_4
+strcmp,FUNC_5
+talloc_free,FUNC_6
+create,FUNC_7
+parent,VAR_4
+codec,VAR_5
+decoder,VAR_6
+da,VAR_7
+spdif_ctx,VAR_8

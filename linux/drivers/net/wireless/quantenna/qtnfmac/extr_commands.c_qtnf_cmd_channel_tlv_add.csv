@@ -1,0 +1,12 @@
+QTN_TLV_ID_CHANNEL,VAR_0
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+qlink_utils_band_cfg2q,FUNC_2
+qlink_utils_chflags_cfg2q,FUNC_3
+qlink_utils_dfs_state_cfg2q,FUNC_4
+skb_put_zero,FUNC_5
+qtnf_cmd_channel_tlv_add,FUNC_6
+cmd_skb,VAR_1
+sc,VAR_2
+tlv,VAR_3
+qch,VAR_4

@@ -1,0 +1,10 @@
+SAS_PROTOCOL_SSP,VAR_0
+SATA_SPINUP_HOLD,VAR_1
+SCI_PHY_SUB_AWAIT_SAS_SPEED_EN,VAR_2
+SCU_SAS_PCFG_GEN_BIT,FUNC_0
+readl,FUNC_1
+sci_change_state,FUNC_2
+writel,FUNC_3
+sci_phy_start_sas_link_training,FUNC_4
+iphy,VAR_3
+phy_control,VAR_4

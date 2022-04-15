@@ -1,0 +1,15 @@
+MBI_REG_READ,VAR_0
+QRK_DTS_MASK_TEMP,VAR_1
+QRK_DTS_OFFSET_TEMP,VAR_2
+QRK_DTS_REG_OFFSET_TEMP,VAR_3
+QRK_DTS_TEMP_BASE,VAR_4
+QRK_MBI_UNIT_RMU,VAR_5
+dts_update_mutex,VAR_6
+iosf_mbi_read,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+sys_get_curr_temp,FUNC_3
+tzd,VAR_7
+temp,VAR_8
+out,VAR_9
+ret,VAR_10

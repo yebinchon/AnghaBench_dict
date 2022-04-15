@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+SMMU_PMCG_DEFAULT_FILTER_SID,VAR_1
+SMMU_PMCG_DEFAULT_FILTER_SPAN,VAR_2
+find_first_bit,FUNC_0
+get_filter_enable,FUNC_1
+get_filter_span,FUNC_2
+get_filter_stream_id,FUNC_3
+smmu_pmu_check_global_filter,FUNC_4
+smmu_pmu_set_event_filter,FUNC_5
+smmu_pmu_apply_event_filter,FUNC_6
+smmu_pmu,VAR_3
+event,VAR_4
+idx,VAR_5
+span,VAR_6
+sid,VAR_7
+num_ctrs,VAR_8
+filter_en,VAR_9

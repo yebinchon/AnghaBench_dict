@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+ClearPagePrivate,FUNC_1
+NFS_I,FUNC_2
+NFS_WBACK_BUSY,FUNC_3
+PG_MAPPED,VAR_0
+clear_bit,FUNC_4
+nfs_release_request,FUNC_5
+set_page_private,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+nfs_inode_remove_request,FUNC_9
+req,VAR_1
+inode,VAR_2
+nfsi,VAR_3

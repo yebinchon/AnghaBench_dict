@@ -1,0 +1,17 @@
+CPUDEBUGGERRET,VAR_0
+DBOP_NONE,VAR_1
+DebuggerSaveState,FUNC_0
+FALSE,VAR_2
+TRAP_DEBUGGER,VAR_3
+assert,FUNC_1
+ml_get_interrupts_enabled,FUNC_2
+DebuggerTrapWithState,FUNC_3
+db_op,VAR_4
+db_message,VAR_5
+db_panic_str,VAR_6
+db_panic_args,VAR_7
+db_panic_options,VAR_8
+db_panic_data_ptr,VAR_9
+db_proceed_on_sync_failure,VAR_10
+db_panic_caller,VAR_11
+ret,VAR_12

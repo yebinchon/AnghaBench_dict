@@ -1,0 +1,16 @@
+BTRFS_I,FUNC_0
+IS_ERR,FUNC_1
+PAGE_CACHE_SIZE,VAR_0
+btrfs_get_extent,FUNC_2
+lock_extent,FUNC_3
+lookup_extent_mapping,FUNC_4
+read_lock,FUNC_5
+read_unlock,FUNC_6
+unlock_extent,FUNC_7
+defrag_lookup_extent,FUNC_8
+inode,VAR_1
+start,VAR_2
+em_tree,VAR_3
+io_tree,VAR_4
+em,VAR_5
+len,VAR_6

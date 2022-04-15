@@ -1,0 +1,17 @@
+AM335X_CONTROL_BASE,VAR_0
+AM335X_CONTROL_DEVICE_ID,VAR_1
+AM335X_CONTROL_DEV_FEATURE,VAR_2
+AM335X_CONTROL_SIZE,VAR_3
+AM335X_DEVREV,FUNC_0
+bus_space_map,FUNC_1
+bus_space_read_4,FUNC_2
+bus_space_unmap,FUNC_3
+chip_revision,VAR_4
+fdtbus_bs_tag,VAR_5
+printf,FUNC_4
+am335x_get_revision,FUNC_5
+dev_feature,VAR_6
+cpu_last_char,VAR_7
+bsh,VAR_8
+major,VAR_9
+minor,VAR_10

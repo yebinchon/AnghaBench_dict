@@ -1,0 +1,16 @@
+FALSE,VAR_0
+PAGE_SIZE,VAR_1
+PHYSMAP_PTOV,FUNC_0
+__clflush,FUNC_1
+cpuid_info,FUNC_2
+i386_ptob,FUNC_3
+mfence,FUNC_4
+ml_set_interrupts_enabled,FUNC_5
+panic,FUNC_6
+cache_flush_page_phys,FUNC_7
+pa,VAR_2
+istate,VAR_3
+cacheline_addr,VAR_4
+cpuid_infop,VAR_5
+cacheline_size,VAR_6
+cachelines_to_flush,VAR_7

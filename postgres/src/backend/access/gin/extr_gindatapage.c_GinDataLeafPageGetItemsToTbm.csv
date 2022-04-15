@@ -1,0 +1,13 @@
+GinDataLeafPageGetPostingList,FUNC_0
+GinDataLeafPageGetPostingListSize,FUNC_1
+GinPageIsCompressed,FUNC_2
+dataLeafPageGetUncompressed,FUNC_3
+ginPostingListDecodeAllSegmentsToTbm,FUNC_4
+tbm_add_tuples,FUNC_5
+GinDataLeafPageGetItemsToTbm,FUNC_6
+page,VAR_0
+tbm,VAR_1
+uncompressed,VAR_2
+nitems,VAR_3
+segment,VAR_4
+len,VAR_5

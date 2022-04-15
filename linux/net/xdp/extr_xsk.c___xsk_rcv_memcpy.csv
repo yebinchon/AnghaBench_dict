@@ -1,0 +1,16 @@
+PAGE_SHIFT,VAR_0
+PAGE_SIZE,VAR_1
+memcpy,FUNC_0
+xdp_umem_get_data,FUNC_1
+xsk_umem_add_offset_to_addr,FUNC_2
+xskq_crosses_non_contig_pg,FUNC_3
+__xsk_rcv_memcpy,FUNC_4
+umem,VAR_2
+addr,VAR_3
+from_buf,VAR_4
+len,VAR_5
+metalen,VAR_6
+to_buf,VAR_7
+next_pg_addr,VAR_8
+page_start,VAR_9
+first_len,VAR_10

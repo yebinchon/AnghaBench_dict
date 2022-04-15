@@ -1,0 +1,15 @@
+PVTMON_CONTROL0,VAR_0
+PVTMON_CONTROL0_SEL_MASK,VAR_1
+PVTMON_CONTROL0_SEL_TEMP_MONITOR,VAR_2
+PVTMON_STATUS,VAR_3
+readl,FUNC_0
+thermal_zone_get_offset,FUNC_1
+thermal_zone_get_slope,FUNC_2
+writel,FUNC_3
+ns_thermal_get_temp,FUNC_4
+data,VAR_4
+temp,VAR_5
+ns_thermal,VAR_6
+offset,VAR_7
+slope,VAR_8
+val,VAR_9

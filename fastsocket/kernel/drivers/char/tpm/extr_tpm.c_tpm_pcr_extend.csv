@@ -1,0 +1,16 @@
+ENODEV,VAR_0
+EXTEND_PCR_RESULT_SIZE,VAR_1
+TPM_DIGEST_SIZE,VAR_2
+cpu_to_be32,FUNC_0
+memcpy,FUNC_1
+module_put,FUNC_2
+pcrextend_header,VAR_3
+tpm_chip_find_get,FUNC_3
+transmit_cmd,FUNC_4
+tpm_pcr_extend,FUNC_5
+chip_num,VAR_4
+pcr_idx,VAR_5
+hash,VAR_6
+cmd,VAR_7
+rc,VAR_8
+chip,VAR_9

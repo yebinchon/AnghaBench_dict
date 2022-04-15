@@ -1,0 +1,11 @@
+INTERCEPT_CR0_READ,VAR_0
+INTERCEPT_CR0_WRITE,VAR_1
+SVM_CR0_SELECTIVE_MASK,VAR_2
+VMCB_CR,VAR_3
+clr_cr_intercept,FUNC_0
+mark_dirty,FUNC_1
+set_cr_intercept,FUNC_2
+update_cr0_intercept,FUNC_3
+svm,VAR_4
+gcr0,VAR_5
+hcr0,VAR_6

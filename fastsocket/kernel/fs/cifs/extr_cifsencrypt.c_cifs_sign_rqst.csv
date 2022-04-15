@@ -1,0 +1,14 @@
+CifsNeedNegotiate,VAR_0
+EINVAL,VAR_1
+SMBFLG2_SECURITY_SIGNATURE,VAR_2
+cifs_calc_signature,FUNC_0
+cpu_to_le32,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+cifs_sign_rqst,FUNC_4
+rqst,VAR_3
+server,VAR_4
+pexpected_response_sequence_number,VAR_5
+rc,VAR_6
+smb_signature,VAR_7
+cifs_pdu,VAR_8

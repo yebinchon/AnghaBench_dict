@@ -1,0 +1,16 @@
+EXT_CFG_IDDQ_BIAS,VAR_0
+EXT_CFG_PWR_DOWN,VAR_1
+EXT_CK25_DIS,VAR_2
+EXT_GPHY_CTRL,VAR_3
+EXT_GPHY_RESET,VAR_4
+GENET_IS_V4,FUNC_0
+bcmgenet_ext_readl,FUNC_1
+bcmgenet_ext_writel,FUNC_2
+mdelay,FUNC_3
+netdev_priv,FUNC_4
+udelay,FUNC_5
+bcmgenet_phy_power_set,FUNC_6
+dev,VAR_5
+enable,VAR_6
+priv,VAR_7
+reg,VAR_8

@@ -1,0 +1,10 @@
+TCS3472_ENABLE,VAR_0
+TCS3472_ENABLE_AEN,VAR_1
+TCS3472_ENABLE_PON,VAR_2
+i2c_smbus_write_byte_data,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+tcs3472_powerdown,FUNC_3
+data,VAR_3
+ret,VAR_4
+enable_mask,VAR_5

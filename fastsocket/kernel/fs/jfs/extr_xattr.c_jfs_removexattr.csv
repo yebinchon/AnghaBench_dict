@@ -1,0 +1,16 @@
+JFS_IP,FUNC_0
+XATTR_REPLACE,VAR_0
+__jfs_setxattr,FUNC_1
+can_set_xattr,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+txBegin,FUNC_5
+txCommit,FUNC_6
+txEnd,FUNC_7
+jfs_removexattr,FUNC_8
+dentry,VAR_1
+name,VAR_2
+inode,VAR_3
+ji,VAR_4
+rc,VAR_5
+tid,VAR_6

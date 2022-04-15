@@ -1,0 +1,13 @@
+btrfs_item_ptr_offset,FUNC_0
+btrfs_item_size_nr,FUNC_1
+memcpy_extent_buffer,FUNC_2
+setup_items_for_insert,FUNC_3
+setup_leaf_for_split,FUNC_4
+btrfs_duplicate_item,FUNC_5
+trans,VAR_0
+root,VAR_1
+path,VAR_2
+new_key,VAR_3
+leaf,VAR_4
+ret,VAR_5
+item_size,VAR_6

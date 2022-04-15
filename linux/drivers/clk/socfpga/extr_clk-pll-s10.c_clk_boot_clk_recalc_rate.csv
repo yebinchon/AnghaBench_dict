@@ -1,0 +1,9 @@
+SWCTRLBTCLKSEL_MASK,VAR_0
+SWCTRLBTCLKSEL_SHIFT,VAR_1
+readl,FUNC_0
+to_socfpga_clk,FUNC_1
+clk_boot_clk_recalc_rate,FUNC_2
+hwclk,VAR_2
+parent_rate,VAR_3
+socfpgaclk,VAR_4
+div,VAR_5

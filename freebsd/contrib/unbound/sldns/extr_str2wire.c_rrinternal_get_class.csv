@@ -1,0 +1,14 @@
+LDNS_RR_CLASS_IN,VAR_0
+LDNS_WIREPARSE_ERR_OK,VAR_1
+LDNS_WIREPARSE_ERR_SYNTAX_CLASS,VAR_2
+RET_ERR,FUNC_0
+sldns_bget_token,FUNC_1
+sldns_buffer_position,FUNC_2
+sldns_get_rr_class_by_name,FUNC_3
+strcmp,FUNC_4
+rrinternal_get_class,FUNC_5
+strbuf,VAR_3
+token,VAR_4
+token_len,VAR_5
+not_there,VAR_6
+cl,VAR_7

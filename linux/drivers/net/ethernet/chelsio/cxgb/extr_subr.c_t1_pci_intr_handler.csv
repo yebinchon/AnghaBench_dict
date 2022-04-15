@@ -1,0 +1,7 @@
+A_PCICFG_INTR_CAUSE,VAR_0
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+t1_fatal_err,FUNC_2
+t1_pci_intr_handler,FUNC_3
+adapter,VAR_1
+pcix_cause,VAR_2

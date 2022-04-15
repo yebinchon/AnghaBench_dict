@@ -1,0 +1,15 @@
+FULL_INIT_DONE,VAR_0
+IRQF_SHARED,VAR_1
+disable_msi,VAR_2
+enable_hw_csum,FUNC_0
+pci_disable_msi,FUNC_1
+pci_enable_msi,FUNC_2
+request_irq,FUNC_3
+t1_init_hw_modules,FUNC_4
+t1_interrupt,VAR_3
+t1_interrupts_clear,FUNC_5
+t1_interrupts_enable,FUNC_6
+t1_sge_start,FUNC_7
+cxgb_up,FUNC_8
+adapter,VAR_4
+err,VAR_5

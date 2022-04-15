@@ -1,0 +1,15 @@
+GL520_REG_BEEP_MASK,VAR_0
+dev_get_drvdata,FUNC_0
+gl520_write_value,FUNC_1
+kstrtoul,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+beep_mask_store,FUNC_5
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+data,VAR_5
+client,VAR_6
+r,VAR_7
+err,VAR_8

@@ -1,0 +1,13 @@
+M2P_CONTROL,VAR_0
+M2P_CONTROL_NFB_IRQ_EN,VAR_1
+M2P_CONTROL_STALL_IRQ_EN,VAR_2
+STATE_ON,VAR_3
+STATE_STALL,VAR_4
+clk_disable,FUNC_0
+cpu_relax,FUNC_1
+m2p_channel_state,FUNC_2
+m2p_set_control,FUNC_3
+readl,FUNC_4
+channel_disable,FUNC_5
+ch,VAR_5
+v,VAR_6

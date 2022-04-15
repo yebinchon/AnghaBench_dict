@@ -1,0 +1,12 @@
+CSR_GP_CNTRL,VAR_0
+CSR_GP_CNTRL_REG_FLAG_INIT_DONE,VAR_1
+CSR_RESET,VAR_2
+CSR_RESET_REG_FLAG_SW_RESET,VAR_3
+D_INFO,FUNC_0
+_il_apm_stop_master,FUNC_1
+_il_clear_bit,FUNC_2
+_il_set_bit,FUNC_3
+lockdep_assert_held,FUNC_4
+udelay,FUNC_5
+_il_apm_stop,FUNC_6
+il,VAR_4

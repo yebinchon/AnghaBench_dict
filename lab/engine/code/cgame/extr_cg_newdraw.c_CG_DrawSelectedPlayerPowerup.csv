@@ -1,0 +1,15 @@
+BG_FindItemForPowerup,FUNC_0
+CG_DrawPic,FUNC_1
+CG_GetSelectedPlayer,FUNC_2
+PW_NUM_POWERUPS,VAR_0
+cgs,VAR_1
+sortedTeamPlayers,VAR_2
+trap_R_RegisterShader,FUNC_3
+CG_DrawSelectedPlayerPowerup,FUNC_4
+rect,VAR_3
+draw2D,VAR_4
+ci,VAR_5
+j,VAR_6
+x,VAR_7
+y,VAR_8
+item,VAR_9

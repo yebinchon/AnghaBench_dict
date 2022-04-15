@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+RNG_CTRL,VAR_0
+RNG_INT_MASK,VAR_1
+RNG_INT_OFF,VAR_2
+RNG_RBGEN,VAR_3
+RNG_STATUS,VAR_4
+RNG_WARMUP_COUNT,VAR_5
+clk_prepare_enable,FUNC_1
+rng_readl,FUNC_2
+rng_writel,FUNC_3
+to_rng_priv,FUNC_4
+bcm2835_rng_init,FUNC_5
+rng,VAR_6
+priv,VAR_7
+ret,VAR_8
+val,VAR_9

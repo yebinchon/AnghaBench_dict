@@ -1,0 +1,15 @@
+MKDEV,FUNC_0
+SCSI_CHANGER_MAJOR,VAR_0
+ch_destroy,VAR_1
+ch_index_idr,VAR_2
+ch_index_lock,VAR_3
+ch_sysfs_class,VAR_4
+dev_get_drvdata,FUNC_1
+device_destroy,FUNC_2
+idr_remove,FUNC_3
+kref_put,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ch_remove,FUNC_7
+dev,VAR_5
+ch,VAR_6

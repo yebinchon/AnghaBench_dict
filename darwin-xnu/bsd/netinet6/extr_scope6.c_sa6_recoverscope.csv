@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+IN6_IS_ADDR_MC_INTFACELOCAL,FUNC_0
+IN6_IS_SCOPE_LINKLOCAL,FUNC_1
+LOG_NOTICE,VAR_1
+if_index,VAR_2
+ifindex2ifnet,VAR_3
+ifnet_head_done,FUNC_2
+ifnet_head_lock_shared,FUNC_3
+ip6_sprintf,FUNC_4
+log,FUNC_5
+ntohs,FUNC_6
+sa6_recoverscope,FUNC_7
+sin6,VAR_4
+attachcheck,VAR_5
+zoneid,VAR_6

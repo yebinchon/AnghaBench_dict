@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+SPINOR_OP_WRSR,VAR_1
+SPI_MEM_OP,FUNC_0
+SPI_MEM_OP_CMD,FUNC_1
+SPI_MEM_OP_DATA_OUT,FUNC_2
+SPI_MEM_OP_NO_ADDR,VAR_2
+SPI_MEM_OP_NO_DUMMY,VAR_3
+dev_err,FUNC_3
+spi_mem_exec_op,FUNC_4
+spi_nor_wait_till_ready,FUNC_5
+stub1,FUNC_6
+write_enable,FUNC_7
+write_sr_cr,FUNC_8
+nor,VAR_4
+sr_cr,VAR_5
+ret,VAR_6
+op,VAR_7

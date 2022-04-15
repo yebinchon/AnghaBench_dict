@@ -1,0 +1,16 @@
+crypto_enqueue_request,FUNC_0
+crypto_tfm_ctx,FUNC_1
+dev_warn,FUNC_2
+init_completion,FUNC_3
+queue_work,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+wait_for_completion,FUNC_7
+safexcel_cipher_exit_inv,FUNC_8
+tfm,VAR_0
+base,VAR_1
+sreq,VAR_2
+result,VAR_3
+ctx,VAR_4
+priv,VAR_5
+ring,VAR_6

@@ -1,0 +1,17 @@
+AUTONEG_ENABLE,VAR_0
+XGBE_LINK_ERR,VAR_1
+XGBE_LINK_INIT,VAR_2
+clear_bit,FUNC_0
+netif_carrier_off,FUNC_1
+netif_carrier_on,FUNC_2
+stub1,FUNC_3
+test_bit,FUNC_4
+xgbe_check_link_timeout,FUNC_5
+xgbe_phy_adjust_link,FUNC_6
+xgbe_phy_aneg_done,FUNC_7
+xgbe_phy_config_aneg,FUNC_8
+xgbe_phy_status_result,FUNC_9
+xgbe_phy_status,FUNC_10
+pdata,VAR_3
+link_aneg,VAR_4
+an_restart,VAR_5

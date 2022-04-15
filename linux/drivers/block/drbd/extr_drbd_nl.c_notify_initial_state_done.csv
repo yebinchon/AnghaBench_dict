@@ -1,0 +1,15 @@
+DRBD_INITIAL_STATE_DONE,VAR_0
+EMSGSIZE,VAR_1
+NOTIFY_EXISTS,VAR_2
+NO_ERROR,VAR_3
+drbd_genl_family,VAR_4
+genlmsg_end,FUNC_0
+genlmsg_put,FUNC_1
+nla_put_notification_header,FUNC_2
+nlmsg_free,FUNC_3
+pr_err,FUNC_4
+notify_initial_state_done,FUNC_5
+skb,VAR_5
+seq,VAR_6
+dh,VAR_7
+err,VAR_8

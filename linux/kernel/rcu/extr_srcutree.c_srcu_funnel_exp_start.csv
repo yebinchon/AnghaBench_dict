@@ -1,0 +1,12 @@
+READ_ONCE,FUNC_0
+ULONG_CMP_GE,FUNC_1
+ULONG_CMP_LT,FUNC_2
+WRITE_ONCE,FUNC_3
+rcu_seq_done,FUNC_4
+spin_lock_irqsave_rcu_node,FUNC_5
+spin_unlock_irqrestore_rcu_node,FUNC_6
+srcu_funnel_exp_start,FUNC_7
+ssp,VAR_0
+snp,VAR_1
+s,VAR_2
+flags,VAR_3

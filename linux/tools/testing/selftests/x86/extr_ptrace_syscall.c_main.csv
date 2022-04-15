@@ -1,0 +1,10 @@
+AT_SYSINFO,VAR_0
+do_full_int80,VAR_1
+do_full_vsyscall32,VAR_2
+getauxval,FUNC_0
+printf,FUNC_1
+test_ptrace_syscall_restart,FUNC_2
+test_restart_under_ptrace,FUNC_3
+test_sys32_regs,FUNC_4
+vsyscall32,VAR_3
+main,FUNC_5

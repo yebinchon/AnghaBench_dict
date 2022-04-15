@@ -1,0 +1,12 @@
+CommitTransactionCommand,FUNC_0
+CurrentMemoryContext,VAR_0
+JOB_FAILURE,VAR_1
+JOB_STATE_SCHEDULED,VAR_2
+StartTransactionCommand,FUNC_1
+WARNING,VAR_3
+elog,FUNC_2
+mark_job_as_ended,FUNC_3
+scheduled_bgw_job_transition_state_to,FUNC_4
+ts_bgw_job_get_share_lock,FUNC_5
+on_failure_to_start_job,FUNC_6
+sjob,VAR_4

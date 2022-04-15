@@ -1,0 +1,11 @@
+AS_BLOCK_HEADER,FUNC_0
+SLJIT_ASSERT,FUNC_1
+allocator_grab_lock,FUNC_2
+allocator_release_lock,FUNC_3
+free_blocks,VAR_0
+free_chunk,FUNC_4
+sljit_remove_free_block,FUNC_5
+total_size,VAR_1
+sljit_free_unused_memory_exec,FUNC_6
+free_block,VAR_2
+next_free_block,VAR_3

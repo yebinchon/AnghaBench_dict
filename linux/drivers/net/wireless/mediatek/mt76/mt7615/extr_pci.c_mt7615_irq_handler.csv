@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+MT76_STATE_INITIALIZED,VAR_2
+MT_INT_RX_DONE,FUNC_0
+MT_INT_SOURCE_CSR,VAR_3
+MT_INT_TX_DONE_ALL,VAR_4
+mt7615_irq_disable,FUNC_1
+mt76_rr,FUNC_2
+mt76_wr,FUNC_3
+napi_schedule,FUNC_4
+test_bit,FUNC_5
+mt7615_irq_handler,FUNC_6
+irq,VAR_5
+dev_instance,VAR_6
+dev,VAR_7
+intr,VAR_8

@@ -1,0 +1,11 @@
+VMX_EPT_ACCESS_BIT,VAR_0
+VMX_EPT_DIRTY_BIT,VAR_1
+VMX_EPT_EXECUTABLE_MASK,VAR_2
+VMX_EPT_READABLE_MASK,VAR_3
+VMX_EPT_RWX_MASK,VAR_4
+cpu_has_vmx_ept_execute_only,FUNC_0
+enable_ept_ad_bits,VAR_5
+ept_set_mmio_spte_mask,FUNC_1
+kvm_enable_tdp,FUNC_2
+kvm_mmu_set_mask_ptes,FUNC_3
+vmx_enable_tdp,FUNC_4

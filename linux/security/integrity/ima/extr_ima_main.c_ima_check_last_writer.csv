@@ -1,0 +1,17 @@
+FMODE_WRITE,VAR_0
+IMA_DONE_MASK,VAR_1
+IMA_NEW_FILE,VAR_2
+IMA_UPDATE_XATTR,VAR_3
+IS_I_VERSION,FUNC_0
+atomic_read,FUNC_1
+ima_update_xattr,FUNC_2
+inode_eq_iversion,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+test_and_clear_bit,FUNC_6
+ima_check_last_writer,FUNC_7
+iint,VAR_4
+inode,VAR_5
+file,VAR_6
+mode,VAR_7
+update,VAR_8

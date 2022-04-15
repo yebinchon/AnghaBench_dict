@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+MBCS_CM_CONTROL,VAR_1
+MBCS_CM_STATUS,VAR_2
+MBCS_MMR_GET,FUNC_0
+MBCS_MMR_SET,FUNC_1
+atomic_set,FUNC_2
+wake_up,FUNC_3
+mbcs_completion_intr_handler,FUNC_4
+irq,VAR_3
+arg,VAR_4
+soft,VAR_5
+mmr_base,VAR_6
+cm_status,VAR_7
+cm_control,VAR_8

@@ -1,0 +1,16 @@
+BNX2X_Q_CMD_SETUP_TX_ONLY,VAR_0
+DP,FUNC_0
+FIRST_TX_COS_INDEX,VAR_1
+NETIF_MSG_IFUP,VAR_2
+bnx2x_get_common_flags,FUNC_1
+bnx2x_pf_q_prep_general,FUNC_2
+bnx2x_pf_tx_q_prep,FUNC_3
+bnx2x_queue_state_change,FUNC_4
+memset,FUNC_5
+bnx2x_setup_tx_only,FUNC_6
+bp,VAR_3
+fp,VAR_4
+q_params,VAR_5
+tx_only_params,VAR_6
+tx_index,VAR_7
+leading,VAR_8

@@ -1,0 +1,17 @@
+BIO_new_file,FUNC_0
+CONF_F_PROCESS_INCLUDE,VAR_0
+CONF_R_RECURSIVE_DIRECTORY_INCLUDE,VAR_1
+CONFerr,FUNC_1
+ERR_add_error_data,FUNC_2
+SYS_F_STAT,VAR_2
+SYSerr,FUNC_3
+S_ISDIR,FUNC_4
+errno,VAR_3
+get_next_file,FUNC_5
+stat,FUNC_6
+process_include,FUNC_7
+include,VAR_4
+dirctx,VAR_5
+dirpath,VAR_6
+st,VAR_7
+next,VAR_8

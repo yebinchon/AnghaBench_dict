@@ -1,0 +1,10 @@
+LPFC_MSIX_VECTORS,VAR_0
+MSIX,VAR_1
+NONE,VAR_2
+free_irq,FUNC_0
+pci_free_irq_vectors,FUNC_1
+pci_irq_vector,FUNC_2
+lpfc_sli_disable_intr,FUNC_3
+phba,VAR_3
+nr_irqs,VAR_4
+i,VAR_5

@@ -1,0 +1,13 @@
+ISPCTRL00_AWB_EN,VAR_0
+ISPCTRL00_AWB_GAIN_EN,VAR_1
+REG_BGAIN,VAR_2
+REG_ISP_CTRL00,VAR_3
+REG_RGAIN,VAR_4
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+ov7740_set_white_balance,FUNC_2
+ov7740,VAR_5
+awb,VAR_6
+regmap,VAR_7
+value,VAR_8
+ret,VAR_9

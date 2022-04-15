@@ -1,0 +1,14 @@
+PCH_GBE_BUSY,VAR_0
+PCH_GBE_ETH_ALEN,VAR_1
+ioread32,FUNC_0
+iowrite32,FUNC_1
+pch_gbe_mac_mar_set,FUNC_2
+pch_gbe_wait_clr_bit,FUNC_3
+pch_gbe_mac_mc_addr_list_update,FUNC_4
+hw,VAR_2
+mc_addr_list,VAR_3
+mc_addr_count,VAR_4
+mar_used_count,VAR_5
+mar_total_num,VAR_6
+i,VAR_7
+adrmask,VAR_8

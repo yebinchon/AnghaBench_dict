@@ -1,0 +1,13 @@
+HKEY_CURRENT_USER,VAR_0
+KEY_QUERY_VALUE,VAR_1
+RegCloseKey,FUNC_0
+RegOpenKeyExW,FUNC_1
+RegQueryValueExW,FUNC_2
+QueryUserRegValueW,FUNC_3
+pszSubKey,VAR_2
+pszValueName,VAR_3
+pData,VAR_4
+cbSize,VAR_5
+pType,VAR_6
+hKey,VAR_7
+ret,VAR_8

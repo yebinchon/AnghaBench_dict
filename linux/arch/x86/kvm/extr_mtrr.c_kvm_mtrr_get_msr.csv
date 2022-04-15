@@ -1,0 +1,13 @@
+KVM_NR_VAR_MTRR,VAR_0
+MSR_IA32_CR_PAT,VAR_1
+MSR_MTRRcap,VAR_2
+MSR_MTRRdefType,VAR_3
+cpuid_maxphyaddr,FUNC_0
+fixed_msr_to_range_index,FUNC_1
+msr_mtrr_valid,FUNC_2
+kvm_mtrr_get_msr,FUNC_3
+vcpu,VAR_4
+msr,VAR_5
+pdata,VAR_6
+index,VAR_7
+is_mtrr_mask,VAR_8

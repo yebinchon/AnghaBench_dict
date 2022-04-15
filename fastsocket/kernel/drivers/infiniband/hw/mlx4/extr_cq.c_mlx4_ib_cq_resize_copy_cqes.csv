@@ -1,0 +1,13 @@
+MLX4_CQE_OPCODE_MASK,VAR_0
+MLX4_CQE_OPCODE_RESIZE,VAR_1
+MLX4_CQE_OWNER_MASK,VAR_2
+get_cqe,FUNC_0
+get_cqe_from_buf,FUNC_1
+memcpy,FUNC_2
+mlx4_ib_cq_resize_copy_cqes,FUNC_3
+cq,VAR_3
+cqe,VAR_4
+new_cqe,VAR_5
+i,VAR_6
+cqe_size,VAR_7
+cqe_inc,VAR_8

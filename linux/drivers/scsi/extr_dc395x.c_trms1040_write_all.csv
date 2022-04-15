@@ -1,0 +1,13 @@
+EN_EEPROM,VAR_0
+TRM_S1040_GEN_CONTROL,VAR_1
+TRM_S1040_GEN_NVRAM,VAR_2
+inb,FUNC_0
+outb,FUNC_1
+trms1040_set_data,FUNC_2
+trms1040_wait_30us,FUNC_3
+trms1040_write_cmd,FUNC_4
+trms1040_write_all,FUNC_5
+eeprom,VAR_3
+io_port,VAR_4
+b_eeprom,VAR_5
+addr,VAR_6

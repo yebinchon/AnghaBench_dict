@@ -1,0 +1,10 @@
+SBI_CP_DISABLED,VAR_0
+SBI_IS_DIRTY,VAR_1
+clear_sbi_flag,FUNC_0
+f2fs_dirty_to_prefree,FUNC_1
+f2fs_sync_fs,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+set_sbi_flag,FUNC_5
+f2fs_enable_checkpoint,FUNC_6
+sbi,VAR_2

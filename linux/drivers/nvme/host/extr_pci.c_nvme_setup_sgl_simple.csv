@@ -1,0 +1,15 @@
+BLK_STS_RESOURCE,VAR_0
+NVME_CMD_SGL_METABUF,VAR_1
+NVME_SGL_FMT_DATA_DESC,VAR_2
+blk_mq_rq_to_pdu,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+dma_map_bvec,FUNC_3
+dma_mapping_error,FUNC_4
+rq_dma_dir,FUNC_5
+nvme_setup_sgl_simple,FUNC_6
+dev,VAR_3
+req,VAR_4
+cmnd,VAR_5
+bv,VAR_6
+iod,VAR_7

@@ -1,0 +1,14 @@
+SEAF_PATH_PERM_RO,VAR_0
+SEAF_PATH_PERM_RW,VAR_1
+S_IWUSR,VAR_2
+chmod,FUNC_0
+errno,VAR_3
+seaf_warning,FUNC_1
+stat,FUNC_2
+strerror,FUNC_3
+seaf_set_path_permission,FUNC_4
+path,VAR_4
+perm,VAR_5
+recursive,VAR_6
+st,VAR_7
+new_mode,VAR_8

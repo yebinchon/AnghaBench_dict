@@ -1,0 +1,12 @@
+BE_ERROR_HW,VAR_0
+DB_RQ_NUM_POSTED_SHIFT,VAR_1
+DB_RQ_OFFSET,VAR_2
+DB_RQ_RING_ID_MASK,VAR_3
+be_check_error,FUNC_0
+iowrite32,FUNC_1
+wmb,FUNC_2
+be_rxq_notify,FUNC_3
+adapter,VAR_4
+qid,VAR_5
+posted,VAR_6
+val,VAR_7

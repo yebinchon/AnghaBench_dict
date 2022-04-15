@@ -1,0 +1,5 @@
+SPRD_RTC_ALM_INT_MASK,VAR_0
+SPRD_RTC_INT_CLR,VAR_1
+regmap_write,FUNC_0
+sprd_rtc_clear_alarm_ints,FUNC_1
+rtc,VAR_2

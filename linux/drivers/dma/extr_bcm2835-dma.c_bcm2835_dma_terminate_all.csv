@@ -1,0 +1,15 @@
+DMA_PREP_INTERRUPT,VAR_0
+LIST_HEAD,FUNC_0
+bcm2835_dma_abort,FUNC_1
+head,VAR_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_bcm2835_dma_chan,FUNC_4
+vchan_dma_desc_free_list,FUNC_5
+vchan_get_all_descriptors,FUNC_6
+vchan_terminate_vdesc,FUNC_7
+vchan_vdesc_fini,FUNC_8
+bcm2835_dma_terminate_all,FUNC_9
+chan,VAR_2
+c,VAR_3
+flags,VAR_4

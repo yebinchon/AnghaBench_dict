@@ -1,0 +1,10 @@
+HZ,VAR_0
+I40E_FLAG_PTP,VAR_1
+__I40E_PTP_TX_IN_PROGRESS,VAR_2
+clear_bit_unlock,FUNC_0
+dev_kfree_skb_any,FUNC_1
+test_bit,FUNC_2
+time_is_before_jiffies,FUNC_3
+i40e_ptp_tx_hang,FUNC_4
+pf,VAR_3
+skb,VAR_4

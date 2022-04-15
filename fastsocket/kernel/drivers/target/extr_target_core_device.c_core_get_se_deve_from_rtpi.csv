@@ -1,0 +1,17 @@
+TRANSPORT_LUNFLAGS_INITIATOR_ACCESS,VAR_0
+TRANSPORT_MAX_LUNS_PER_TPG,VAR_1
+atomic_inc,FUNC_0
+pr_err,FUNC_1
+smp_mb__after_atomic_inc,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+stub1,FUNC_5
+stub2,FUNC_6
+core_get_se_deve_from_rtpi,FUNC_7
+nacl,VAR_2
+rtpi,VAR_3
+deve,VAR_4
+lun,VAR_5
+port,VAR_6
+tpg,VAR_7
+i,VAR_8

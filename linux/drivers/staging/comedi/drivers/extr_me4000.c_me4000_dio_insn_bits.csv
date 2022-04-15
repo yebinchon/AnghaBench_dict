@@ -1,0 +1,12 @@
+ME4000_DIO_PORT_0_REG,VAR_0
+ME4000_DIO_PORT_1_REG,VAR_1
+ME4000_DIO_PORT_2_REG,VAR_2
+ME4000_DIO_PORT_3_REG,VAR_3
+comedi_dio_update_state,FUNC_0
+inl,FUNC_1
+outl,FUNC_2
+me4000_dio_insn_bits,FUNC_3
+dev,VAR_4
+s,VAR_5
+insn,VAR_6
+data,VAR_7

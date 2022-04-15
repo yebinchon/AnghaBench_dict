@@ -1,0 +1,13 @@
+KVM_PV_REASON_PAGE_NOT_PRESENT,VAR_0
+KVM_REQ_APF_HALT,VAR_1
+PF_VECTOR,VAR_2
+apf_put_user,FUNC_0
+kvm_add_async_pf_gfn,FUNC_1
+kvm_can_deliver_async_pf,FUNC_2
+kvm_inject_page_fault,FUNC_3
+kvm_make_request,FUNC_4
+trace_kvm_async_pf_not_present,FUNC_5
+kvm_arch_async_page_not_present,FUNC_6
+vcpu,VAR_3
+work,VAR_4
+fault,VAR_5

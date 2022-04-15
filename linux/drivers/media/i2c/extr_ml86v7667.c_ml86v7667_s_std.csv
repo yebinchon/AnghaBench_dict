@@ -1,0 +1,15 @@
+MRA_INPUT_MODE_MASK,VAR_0
+MRA_NTSC_BT601,VAR_1
+MRA_PAL_BT601,VAR_2
+MRA_REG,VAR_3
+V4L2_STD_525_60,VAR_4
+ml86v7667_mask_set,FUNC_0
+to_ml86v7667,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+ml86v7667_s_std,FUNC_3
+sd,VAR_5
+std,VAR_6
+priv,VAR_7
+client,VAR_8
+ret,VAR_9
+mode,VAR_10

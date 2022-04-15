@@ -1,0 +1,11 @@
+exofs_sync_fs,FUNC_0
+filemap_write_and_wait,FUNC_1
+write_inode_now,FUNC_2
+exofs_file_fsync,FUNC_3
+filp,VAR_0
+dentry,VAR_1
+datasync,VAR_2
+ret,VAR_3
+mapping,VAR_4
+inode,VAR_5
+sb,VAR_6

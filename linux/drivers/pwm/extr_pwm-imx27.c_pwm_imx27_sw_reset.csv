@@ -1,0 +1,14 @@
+MX3_PWMCR,VAR_0
+MX3_PWMCR_SWR,VAR_1
+MX3_PWM_SWR_LOOP,VAR_2
+dev_warn,FUNC_0
+readl,FUNC_1
+to_pwm_imx27_chip,FUNC_2
+usleep_range,FUNC_3
+writel,FUNC_4
+pwm_imx27_sw_reset,FUNC_5
+chip,VAR_3
+imx,VAR_4
+dev,VAR_5
+wait_count,VAR_6
+cr,VAR_7

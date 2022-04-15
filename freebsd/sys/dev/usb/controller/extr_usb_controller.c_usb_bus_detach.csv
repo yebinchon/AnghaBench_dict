@@ -1,0 +1,14 @@
+Giant,VAR_0
+USB_BUS_LOCK,FUNC_0
+USB_BUS_UNLOCK,FUNC_1
+USB_ROOT_HUB_ADDR,VAR_1
+bus_generic_detach,FUNC_2
+device_set_softc,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+usb_free_device,FUNC_6
+usb_bus_detach,FUNC_7
+pm,VAR_2
+bus,VAR_3
+udev,VAR_4
+dev,VAR_5

@@ -1,0 +1,10 @@
+O2_SD_FREG0_LEDOFF,VAR_0
+O2_SD_FUNC_REG0,VAR_1
+O2_SD_LED_ENABLE,VAR_2
+O2_SD_TEST_REG,VAR_3
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+o2_pci_led_enable,FUNC_2
+chip,VAR_4
+ret,VAR_5
+scratch_32,VAR_6

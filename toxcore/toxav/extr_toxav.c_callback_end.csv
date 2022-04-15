@@ -1,0 +1,10 @@
+TOXAV_FRIEND_CALL_STATE_FINISHED,VAR_0
+call_kill_transmission,FUNC_0
+call_remove,FUNC_1
+invoke_call_state_callback,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+callback_end,FUNC_5
+toxav_inst,VAR_1
+call,VAR_2
+toxav,VAR_3

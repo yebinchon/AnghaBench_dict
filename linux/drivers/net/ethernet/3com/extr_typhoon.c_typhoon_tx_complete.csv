@@ -1,0 +1,13 @@
+MAX_SKB_FRAGS,VAR_0
+TXLO_ENTRIES,VAR_1
+netif_queue_stopped,FUNC_0
+netif_wake_queue,FUNC_1
+smp_wmb,FUNC_2
+typhoon_clean_tx,FUNC_3
+typhoon_num_free,FUNC_4
+typhoon_tx_complete,FUNC_5
+tp,VAR_2
+txRing,VAR_3
+index,VAR_4
+lastRead,VAR_5
+numDesc,VAR_6

@@ -1,0 +1,17 @@
+ESP_DEFAULT_TAGS,VAR_0
+ESP_FLAG_DISABLE_SYNC,VAR_1
+ESP_MAX_TAG,VAR_2
+ESP_TGT_DISCONNECT,VAR_3
+MSG_ORDERED_TAG,VAR_4
+scsi_activate_tcq,FUNC_0
+scsi_deactivate_tcq,FUNC_1
+scsi_set_tag_type,FUNC_2
+shost_priv,FUNC_3
+spi_dv_device,FUNC_4
+spi_initial_dv,FUNC_5
+esp_slave_configure,FUNC_6
+dev,VAR_5
+esp,VAR_6
+tp,VAR_7
+goal_tags,VAR_8
+queue_depth,VAR_9

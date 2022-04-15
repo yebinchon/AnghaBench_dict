@@ -1,0 +1,17 @@
+NVME_AQ_DEPTH,VAR_0
+NVME_CNTLID_DYNAMIC,VAR_1
+NVMF_NQN_SIZE,VAR_2
+NVMF_TRADDR_SIZE,VAR_3
+NVMF_TRSVCID_SIZE,VAR_4
+NVMF_TSAS_SIZE,VAR_5
+cpu_to_le16,FUNC_0
+memcpy,FUNC_1
+strncpy,FUNC_2
+nvmet_format_discovery_entry,FUNC_3
+hdr,VAR_6
+port,VAR_7
+subsys_nqn,VAR_8
+traddr,VAR_9
+type,VAR_10
+numrec,VAR_11
+e,VAR_12

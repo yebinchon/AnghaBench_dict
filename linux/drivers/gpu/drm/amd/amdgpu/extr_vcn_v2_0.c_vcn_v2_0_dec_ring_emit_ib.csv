@@ -1,0 +1,12 @@
+AMDGPU_JOB_GET_VMID,FUNC_0
+PACKET0,FUNC_1
+amdgpu_ring_write,FUNC_2
+lower_32_bits,FUNC_3
+upper_32_bits,FUNC_4
+vcn_v2_0_dec_ring_emit_ib,FUNC_5
+ring,VAR_0
+job,VAR_1
+ib,VAR_2
+flags,VAR_3
+adev,VAR_4
+vmid,VAR_5

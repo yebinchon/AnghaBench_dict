@@ -1,0 +1,12 @@
+CLASSQ_EV_LINK_LATENCY,VAR_0
+IFCQ_LOCK,FUNC_0
+IFCQ_LOCK_ASSERT_HELD,FUNC_1
+IFCQ_UNLOCK,FUNC_2
+VERIFY,FUNC_3
+ifnet_update_sndq,FUNC_4
+ifnet_set_output_latencies,FUNC_5
+ifp,VAR_1
+lt,VAR_2
+locked,VAR_3
+old_lt,VAR_4
+ifq,VAR_5

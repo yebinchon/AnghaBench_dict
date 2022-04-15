@@ -1,0 +1,17 @@
+Assert,FUNC_0
+FPM_ITEMS_PER_INTERNAL_PAGE,VAR_0
+FPM_ITEMS_PER_LEAF_PAGE,VAR_1
+FREE_PAGE_INTERNAL_MAGIC,VAR_2
+FREE_PAGE_LEAF_MAGIC,VAR_3
+FreePageBtreeFindLeftSibling,FUNC_1
+FreePageBtreeFindRightSibling,FUNC_2
+FreePageBtreeRemovePage,FUNC_3
+FreePageBtreeUpdateParentPointers,FUNC_4
+fpm_segment_base,FUNC_5
+memcpy,FUNC_6
+FreePageBtreeConsolidate,FUNC_7
+fpm,VAR_4
+btp,VAR_5
+base,VAR_6
+np,VAR_7
+max,VAR_8

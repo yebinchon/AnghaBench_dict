@@ -1,0 +1,11 @@
+SPIBUS_TRANSFER,FUNC_0
+STATUS_REGISTER_READ,VAR_0
+device_get_parent,FUNC_1
+memset,FUNC_2
+at45d_get_status,FUNC_3
+dev,VAR_1
+status,VAR_2
+rxBuf,VAR_3
+txBuf,VAR_4
+cmd,VAR_5
+err,VAR_6

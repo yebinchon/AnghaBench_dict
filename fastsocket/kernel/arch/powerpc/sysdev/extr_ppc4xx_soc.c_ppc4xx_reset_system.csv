@@ -1,0 +1,6 @@
+DBCR0_RST_SYSTEM,VAR_0
+SPRN_DBCR0,VAR_1
+mfspr,FUNC_0
+mtspr,FUNC_1
+ppc4xx_reset_system,FUNC_2
+cmd,VAR_2

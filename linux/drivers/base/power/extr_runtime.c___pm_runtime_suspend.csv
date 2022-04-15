@@ -1,0 +1,12 @@
+RPM_ASYNC,VAR_0
+RPM_GET_PUT,VAR_1
+atomic_dec_and_test,FUNC_0
+might_sleep_if,FUNC_1
+rpm_suspend,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+__pm_runtime_suspend,FUNC_5
+dev,VAR_2
+rpmflags,VAR_3
+flags,VAR_4
+retval,VAR_5

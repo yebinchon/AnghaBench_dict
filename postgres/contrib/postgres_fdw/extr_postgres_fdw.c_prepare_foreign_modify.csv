@@ -1,0 +1,16 @@
+ERROR,VAR_0
+GetPrepStmtNumber,FUNC_0
+NAMEDATALEN,VAR_1
+PGRES_COMMAND_OK,VAR_2
+PQclear,FUNC_1
+PQresultStatus,FUNC_2
+PQsendPrepare,FUNC_3
+pgfdw_get_result,FUNC_4
+pgfdw_report_error,FUNC_5
+pstrdup,FUNC_6
+snprintf,FUNC_7
+prepare_foreign_modify,FUNC_8
+fmstate,VAR_3
+prep_name,VAR_4
+p_name,VAR_5
+res,VAR_6

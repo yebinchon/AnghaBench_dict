@@ -1,0 +1,16 @@
+ARM_SYNC_ICACHE,VAR_0
+BCACHE,VAR_1
+FlushInstructionCache,FUNC_0
+GetCurrentProcess,FUNC_1
+__ARM_NR_cacheflush,VAR_2
+__NR_cacheflush,VAR_3
+assert,FUNC_2
+cacheflush,FUNC_3
+clear_mips_cache,FUNC_4
+compilerrt_abort,FUNC_5
+sys_icache_invalidate,FUNC_6
+sysarch,FUNC_7
+syscall,FUNC_8
+__clear_cache,FUNC_9
+start,VAR_4
+end,VAR_5

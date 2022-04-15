@@ -1,0 +1,16 @@
+CMD_INIT_PROV_INFO2,VAR_0
+ENOMEM,VAR_1
+memcpy,FUNC_0
+pci_alloc_consistent,FUNC_1
+pci_free_consistent,FUNC_2
+vnic_dev_cmd,FUNC_3
+vnic_dev_init_prov2,FUNC_4
+vdev,VAR_2
+buf,VAR_3
+len,VAR_4
+a0,VAR_5
+a1,VAR_6
+wait,VAR_7
+prov_pa,VAR_8
+prov_buf,VAR_9
+ret,VAR_10

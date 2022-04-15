@@ -1,0 +1,13 @@
+IXGBE_IPSEC_MAX_RX_IP_COUNT,VAR_0
+IXGBE_IPSEC_MAX_SA_COUNT,VAR_1
+IXGBE_IPSRXIDX,VAR_2
+IXGBE_IPSTXIDX,VAR_3
+IXGBE_WRITE_REG,FUNC_0
+ixgbe_ipsec_set_rx_ip,FUNC_1
+ixgbe_ipsec_set_rx_sa,FUNC_2
+ixgbe_ipsec_set_tx_sa,FUNC_3
+ixgbe_ipsec_clear_hw_tables,FUNC_4
+adapter,VAR_4
+hw,VAR_5
+buf,VAR_6
+idx,VAR_7

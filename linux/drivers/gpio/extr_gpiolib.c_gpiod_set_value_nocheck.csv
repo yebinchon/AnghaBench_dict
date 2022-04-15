@@ -1,0 +1,10 @@
+FLAG_ACTIVE_LOW,VAR_0
+FLAG_OPEN_DRAIN,VAR_1
+FLAG_OPEN_SOURCE,VAR_2
+gpio_set_open_drain_value_commit,FUNC_0
+gpio_set_open_source_value_commit,FUNC_1
+gpiod_set_raw_value_commit,FUNC_2
+test_bit,FUNC_3
+gpiod_set_value_nocheck,FUNC_4
+desc,VAR_3
+value,VAR_4

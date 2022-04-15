@@ -1,0 +1,11 @@
+DMA_ATTR_SKIP_CPU_SYNC,VAR_0
+DMA_TO_DEVICE,VAR_1
+GET_SQ_DESC,FUNC_0
+dma_unmap_page_attrs,FUNC_1
+nicvf_unmap_sndq_buffers,FUNC_2
+nic,VAR_2
+sq,VAR_3
+hdr_sqe,VAR_4
+subdesc_cnt,VAR_5
+idx,VAR_6
+gather,VAR_7

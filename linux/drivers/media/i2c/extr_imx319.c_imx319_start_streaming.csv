@@ -1,0 +1,14 @@
+IMX319_MODE_STREAMING,VAR_0
+IMX319_REG_DPGA_USE_GLOBAL_GAIN,VAR_1
+IMX319_REG_MODE_SELECT,VAR_2
+__v4l2_ctrl_handler_setup,FUNC_0
+dev_err,FUNC_1
+imx319_global_setting,VAR_3
+imx319_write_reg,FUNC_2
+imx319_write_regs,FUNC_3
+v4l2_get_subdevdata,FUNC_4
+imx319_start_streaming,FUNC_5
+imx319,VAR_4
+client,VAR_5
+reg_list,VAR_6
+ret,VAR_7

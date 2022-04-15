@@ -1,0 +1,17 @@
+BLKID_PARTS_ENTRY_DETAILS,VAR_0
+S_ISCHR,FUNC_0
+blkid_do_fullprobe,FUNC_1
+blkid_do_safeprobe,FUNC_2
+blkid_probe_enable_partitions,FUNC_3
+blkid_probe_enable_superblocks,FUNC_4
+blkid_probe_get_fd,FUNC_5
+blkid_probe_get_size,FUNC_6
+blkid_probe_is_wholedisk,FUNC_7
+blkid_probe_lookup_value,FUNC_8
+blkid_probe_set_partitions_flags,FUNC_9
+errno,VAR_1
+fstat,FUNC_10
+probe_superblocks,FUNC_11
+pr,VAR_2
+st,VAR_3
+rc,VAR_4

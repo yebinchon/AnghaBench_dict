@@ -1,0 +1,17 @@
+AF_UNIX,VAR_0
+SOCK_STREAM,VAR_1
+connect,FUNC_0
+errno,VAR_2
+memset,FUNC_1
+pError,FUNC_2
+socket,FUNC_3
+sprintf,FUNC_4
+strcpy,FUNC_5
+strerror,FUNC_6
+taosOpenUDClientSocket,FUNC_7
+ip,VAR_3
+port,VAR_4
+sockFd,VAR_5
+serverAddr,VAR_6
+ret,VAR_7
+name,VAR_8

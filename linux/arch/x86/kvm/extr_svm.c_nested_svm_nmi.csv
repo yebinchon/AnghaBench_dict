@@ -1,0 +1,5 @@
+INTERCEPT_NMI,VAR_0
+SVM_EXIT_NMI,VAR_1
+is_guest_mode,FUNC_0
+nested_svm_nmi,FUNC_1
+svm,VAR_2

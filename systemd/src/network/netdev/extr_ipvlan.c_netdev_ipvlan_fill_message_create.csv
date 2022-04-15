@@ -1,0 +1,16 @@
+IFLA_IPVLAN_FLAGS,VAR_0
+IFLA_IPVLAN_MODE,VAR_1
+IPVLAN,FUNC_0
+IPVTAP,FUNC_1
+NETDEV_KIND_IPVLAN,VAR_2
+_NETDEV_IPVLAN_FLAGS_INVALID,VAR_3
+_NETDEV_IPVLAN_MODE_INVALID,VAR_4
+assert,FUNC_2
+log_netdev_error_errno,FUNC_3
+sd_netlink_message_append_u16,FUNC_4
+netdev_ipvlan_fill_message_create,FUNC_5
+netdev,VAR_5
+link,VAR_6
+req,VAR_7
+m,VAR_8
+r,VAR_9

@@ -1,0 +1,12 @@
+MTK_NOR_PIO_WR_CMD,VAR_0
+MTK_NOR_WDATA_REG,VAR_1
+mtk_nor_execute_cmd,FUNC_0
+mtk_nor_set_addr,FUNC_1
+writeb,FUNC_2
+mtk_nor_write_single_byte,FUNC_3
+mtk_nor,VAR_2
+addr,VAR_3
+length,VAR_4
+data,VAR_5
+i,VAR_6
+ret,VAR_7

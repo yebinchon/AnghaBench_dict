@@ -1,0 +1,16 @@
+CON_EnableGecko,FUNC_0
+EX_DSI,VAR_0
+EX_FP,VAR_1
+GX_AbortFrame,FUNC_1
+VIDEO_SetFramebuffer,FUNC_2
+__console_init,FUNC_3
+_cpu_print_stack,FUNC_4
+exception_name,VAR_2
+exception_xfb,VAR_3
+kprintf,FUNC_5
+mfspr,FUNC_6
+waitForReload,FUNC_7
+c_default_exceptionhandler,FUNC_8
+pCtx,VAR_4
+i,VAR_5
+pAdd,VAR_6

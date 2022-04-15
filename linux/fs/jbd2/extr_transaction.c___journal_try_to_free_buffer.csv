@@ -1,0 +1,11 @@
+JBUFFER_TRACE,FUNC_0
+__jbd2_journal_remove_checkpoint,FUNC_1
+bh2jh,FUNC_2
+buffer_dirty,FUNC_3
+buffer_locked,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+__journal_try_to_free_buffer,FUNC_7
+journal,VAR_0
+bh,VAR_1
+jh,VAR_2

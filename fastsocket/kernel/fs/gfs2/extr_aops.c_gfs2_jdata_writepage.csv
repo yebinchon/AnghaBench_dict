@@ -1,0 +1,17 @@
+GFS2_SB,FUNC_0
+PageChecked,FUNC_1
+RES_DINODE,VAR_0
+WB_SYNC_ALL,VAR_1
+__gfs2_jdata_writepage,FUNC_2
+gfs2_trans_begin,FUNC_3
+gfs2_trans_end,FUNC_4
+gfs2_writepage_common,FUNC_5
+redirty_page_for_writepage,FUNC_6
+unlock_page,FUNC_7
+gfs2_jdata_writepage,FUNC_8
+page,VAR_2
+wbc,VAR_3
+inode,VAR_4
+sdp,VAR_5
+ret,VAR_6
+done_trans,VAR_7

@@ -1,0 +1,13 @@
+__skb_dequeue,FUNC_0
+dev_kfree_skb,FUNC_1
+ieee80211_rx_napi,FUNC_2
+mt76_check_ccmp_pn,FUNC_3
+mt76_rx_convert,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+mt76_rx_complete,FUNC_7
+dev,VAR_0
+frames,VAR_1
+napi,VAR_2
+sta,VAR_3
+skb,VAR_4

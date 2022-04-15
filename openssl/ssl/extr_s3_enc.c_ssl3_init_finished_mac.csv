@@ -1,0 +1,12 @@
+BIO_CLOSE,VAR_0
+BIO_new,FUNC_0
+BIO_s_mem,FUNC_1
+BIO_set_close,FUNC_2
+ERR_R_MALLOC_FAILURE,VAR_1
+SSL_AD_INTERNAL_ERROR,VAR_2
+SSL_F_SSL3_INIT_FINISHED_MAC,VAR_3
+SSLfatal,FUNC_3
+ssl3_free_digest_list,FUNC_4
+ssl3_init_finished_mac,FUNC_5
+s,VAR_4
+buf,VAR_5

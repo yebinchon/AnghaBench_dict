@@ -1,0 +1,13 @@
+HCLGE_MAC_COMMON_ERR_INT_EN,VAR_0
+HCLGE_MAC_COMMON_ERR_INT_EN_MASK,VAR_1
+HCLGE_MAC_COMMON_INT_EN,VAR_2
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hclge_config_mac_err_int,FUNC_4
+hdev,VAR_3
+en,VAR_4
+dev,VAR_5
+desc,VAR_6
+ret,VAR_7

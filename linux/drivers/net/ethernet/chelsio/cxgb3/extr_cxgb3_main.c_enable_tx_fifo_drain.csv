@@ -1,0 +1,11 @@
+A_XGM_RX_CTRL,VAR_0
+A_XGM_TXFIFO_CFG,VAR_1
+A_XGM_TX_CTRL,VAR_2
+F_ENDROPPKT,VAR_3
+F_RXEN,VAR_4
+F_TXEN,VAR_5
+t3_set_reg_field,FUNC_0
+t3_write_reg,FUNC_1
+enable_tx_fifo_drain,FUNC_2
+adapter,VAR_6
+pi,VAR_7

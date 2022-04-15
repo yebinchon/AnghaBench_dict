@@ -1,0 +1,13 @@
+arm_get_dma_map_ops,FUNC_0
+arm_get_iommu_dma_map_ops,FUNC_1
+arm_setup_iommu_dma_ops,FUNC_2
+set_dma_ops,FUNC_3
+xen_initial_domain,FUNC_4
+xen_swiotlb_dma_ops,VAR_0
+arch_setup_dma_ops,FUNC_5
+dev,VAR_1
+dma_base,VAR_2
+size,VAR_3
+iommu,VAR_4
+coherent,VAR_5
+dma_ops,VAR_6

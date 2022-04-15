@@ -1,0 +1,16 @@
+DPRINT,FUNC_0
+ERROR_SUCCESS,VAR_0
+HKEY_LOCAL_MACHINE,VAR_1
+KEY_READ,VAR_2
+RegCloseKey,FUNC_1
+RegOpenKeyExW,FUNC_2
+RegQueryValueExW,FUNC_3
+ScmGetControlSetValues,FUNC_4
+pdwCurrentControlSet,VAR_3
+pdwDefaultControlSet,VAR_4
+pdwFailedControlSet,VAR_5
+pdwLastKnownGoodControlSet,VAR_6
+hSelectKey,VAR_7
+dwType,VAR_8
+dwSize,VAR_9
+dwError,VAR_10

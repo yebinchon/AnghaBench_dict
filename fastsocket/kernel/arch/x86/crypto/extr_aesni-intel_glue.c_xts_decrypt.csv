@@ -1,0 +1,17 @@
+CRYPTO_TFM_REQ_MAY_SLEEP,VAR_0
+aes_ctx,FUNC_0
+aesni_xts_tweak,VAR_1
+crypto_blkcipher_ctx,FUNC_1
+kernel_fpu_begin,FUNC_2
+kernel_fpu_end,FUNC_3
+lrw_xts_decrypt_callback,VAR_2
+xts_crypt,FUNC_4
+xts_decrypt,FUNC_5
+desc,VAR_3
+dst,VAR_4
+src,VAR_5
+nbytes,VAR_6
+ctx,VAR_7
+buf,VAR_8
+req,VAR_9
+ret,VAR_10

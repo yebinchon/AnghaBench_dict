@@ -1,0 +1,14 @@
+ATL2_WRITE_FLUSH,FUNC_0
+ATL2_WRITE_REGW,FUNC_1
+MII_DBG_ADDR,VAR_0
+MII_DBG_DATA,VAR_1
+REG_PHY_ENABLE,VAR_2
+atl2_phy_commit,FUNC_2
+atl2_phy_setup_autoneg_adv,FUNC_3
+atl2_read_phy_reg,FUNC_4
+atl2_write_phy_reg,FUNC_5
+msleep,FUNC_6
+atl2_phy_init,FUNC_7
+hw,VAR_3
+ret_val,VAR_4
+phy_val,VAR_5

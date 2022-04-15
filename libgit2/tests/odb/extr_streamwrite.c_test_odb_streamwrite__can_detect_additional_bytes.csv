@@ -1,0 +1,6 @@
+cl_assert_equal_sz,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_odb_stream_write,FUNC_3
+stream,VAR_0
+test_odb_streamwrite__can_detect_additional_bytes,FUNC_4

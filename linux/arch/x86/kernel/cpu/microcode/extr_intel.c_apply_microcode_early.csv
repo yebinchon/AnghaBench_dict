@@ -1,0 +1,12 @@
+MSR_IA32_UCODE_WRITE,VAR_0
+UCODE_OK,VAR_1
+intel_get_microcode_revision,FUNC_0
+native_wbinvd,FUNC_1
+native_wrmsrl,FUNC_2
+print_ucode,FUNC_3
+print_ucode_info,FUNC_4
+apply_microcode_early,FUNC_5
+uci,VAR_2
+early,VAR_3
+mc,VAR_4
+rev,VAR_5

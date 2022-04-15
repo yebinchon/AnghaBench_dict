@@ -1,0 +1,11 @@
+BCMA_CC_FLASHCTL,VAR_0
+BCMA_CC_FLASHCTL_BUSY,VAR_1
+BCMA_CC_FLASHCTL_START,VAR_2
+bcma_cc_read32,FUNC_0
+bcma_cc_write32,FUNC_1
+bcma_err,FUNC_2
+cpu_relax,FUNC_3
+bcma_sflash_cmd,FUNC_4
+cc,VAR_3
+opcode,VAR_4
+i,VAR_5

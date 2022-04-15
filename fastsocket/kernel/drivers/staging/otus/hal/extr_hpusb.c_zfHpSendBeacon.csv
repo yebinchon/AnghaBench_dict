@@ -1,0 +1,17 @@
+ZM_BEACON_BUFFER_ADDRESS,VAR_0
+ZM_MAC_REG_BCN_CTRL,VAR_1
+ZM_MAC_REG_BCN_LENGTH,VAR_2
+ZM_MAC_REG_BCN_PLCP,VAR_3
+wd,VAR_4
+zfDelayWriteInternalReg,FUNC_0
+zfFlushDelayWrite,FUNC_1
+zfwBufFree,FUNC_2
+zmw_get_wlan_dev,FUNC_3
+zmw_tx_buf_readh,FUNC_4
+zfHpSendBeacon,FUNC_5
+dev,VAR_5
+buf,VAR_6
+len,VAR_7
+hw,VAR_8
+lw,VAR_9
+i,VAR_10

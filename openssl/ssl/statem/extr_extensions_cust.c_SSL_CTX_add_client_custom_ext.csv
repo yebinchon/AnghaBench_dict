@@ -1,0 +1,14 @@
+ENDPOINT_CLIENT,VAR_0
+SSL_EXT_CLIENT_HELLO,VAR_1
+SSL_EXT_IGNORE_ON_RESUMPTION,VAR_2
+SSL_EXT_TLS1_2_AND_BELOW_ONLY,VAR_3
+SSL_EXT_TLS1_2_SERVER_HELLO,VAR_4
+add_old_custom_ext,FUNC_0
+SSL_CTX_add_client_custom_ext,FUNC_1
+ctx,VAR_5
+ext_type,VAR_6
+add_cb,VAR_7
+free_cb,VAR_8
+add_arg,VAR_9
+parse_cb,VAR_10
+parse_arg,VAR_11

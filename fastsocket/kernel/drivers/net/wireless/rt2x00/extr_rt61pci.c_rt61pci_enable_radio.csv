@@ -1,0 +1,13 @@
+EIO,VAR_0
+RX_CNTL_CSR,VAR_1
+RX_CNTL_CSR_ENABLE_RX_DMA,VAR_2
+rt2x00_set_field32,FUNC_0
+rt2x00mmio_register_read,FUNC_1
+rt2x00mmio_register_write,FUNC_2
+rt61pci_init_bbp,FUNC_3
+rt61pci_init_queues,FUNC_4
+rt61pci_init_registers,FUNC_5
+unlikely,FUNC_6
+rt61pci_enable_radio,FUNC_7
+rt2x00dev,VAR_3
+reg,VAR_4

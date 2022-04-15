@@ -1,0 +1,14 @@
+MACHINE_HAS_TOPOLOGY,VAR_0
+cpumask_clear,FUNC_0
+cpus_with_topology,VAR_1
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+smp_cpu_state_mutex,VAR_2
+store_topology,FUNC_3
+tl_info,VAR_3
+tl_to_masks,FUNC_4
+topology_update_polarization_simple,FUNC_5
+update_cpu_masks,FUNC_6
+__arch_update_cpu_topology,FUNC_7
+info,VAR_4
+rc,VAR_5

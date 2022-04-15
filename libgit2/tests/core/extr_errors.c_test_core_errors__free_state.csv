@@ -1,0 +1,11 @@
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_s,FUNC_2
+git_error_clear,FUNC_3
+git_error_last,FUNC_4
+git_error_set,FUNC_5
+git_error_state_capture,FUNC_6
+git_error_state_free,FUNC_7
+git_error_state_restore,FUNC_8
+test_core_errors__free_state,FUNC_9
+err_state,VAR_0

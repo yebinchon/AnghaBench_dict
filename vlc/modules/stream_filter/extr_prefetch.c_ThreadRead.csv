@@ -1,0 +1,13 @@
+assert,FUNC_0
+vlc_mutex_lock,FUNC_1
+vlc_mutex_unlock,FUNC_2
+vlc_restorecancel,FUNC_3
+vlc_savecancel,FUNC_4
+vlc_stream_ReadPartial,FUNC_5
+ThreadRead,FUNC_6
+stream,VAR_0
+buf,VAR_1
+length,VAR_2
+sys,VAR_3
+canc,VAR_4
+val,VAR_5

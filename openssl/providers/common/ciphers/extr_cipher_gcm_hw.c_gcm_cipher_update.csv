@@ -1,0 +1,12 @@
+AES_GCM_ASM,FUNC_0
+CRYPTO_gcm128_decrypt,FUNC_1
+CRYPTO_gcm128_decrypt_ctr32,FUNC_2
+CRYPTO_gcm128_encrypt,FUNC_3
+CRYPTO_gcm128_encrypt_ctr32,FUNC_4
+aesni_gcm_decrypt,FUNC_5
+aesni_gcm_encrypt,FUNC_6
+gcm_cipher_update,FUNC_7
+ctx,VAR_0
+in,VAR_1
+len,VAR_2
+out,VAR_3

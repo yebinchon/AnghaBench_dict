@@ -1,0 +1,14 @@
+EBT_ULOG_DEFAULT_NLGROUP,VAR_0
+EBT_ULOG_DEFAULT_QTHRESHOLD,VAR_1
+NF_LOG_TYPE_ULOG,VAR_2
+ebt_ulog_packet,FUNC_0
+strlcpy,FUNC_1
+ebt_log_packet,FUNC_2
+pf,VAR_3
+hooknum,VAR_4
+skb,VAR_5
+in,VAR_6
+out,VAR_7
+li,VAR_8
+prefix,VAR_9
+loginfo,VAR_10

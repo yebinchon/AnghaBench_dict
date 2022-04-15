@@ -1,0 +1,14 @@
+IEVENT_RTX_MASK,VAR_0
+IMASK_RTX_DISABLED,VAR_1
+__napi_schedule,FUNC_0
+gfar_write,FUNC_1
+napi_schedule_prep,FUNC_2
+netdev_priv,FUNC_3
+spin_lock,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+gfar_schedule_cleanup,FUNC_8
+dev,VAR_2
+priv,VAR_3
+flags,VAR_4

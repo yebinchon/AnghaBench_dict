@@ -1,0 +1,11 @@
+assert,FUNC_0
+bpf_map_lookup_elem,FUNC_1
+bpf_obj_get_info_by_fd,FUNC_2
+check_map_id,FUNC_3
+inner_map_fd,VAR_0
+map_in_map_fd,VAR_1
+key,VAR_2
+info,VAR_3
+info_len,VAR_4
+ret,VAR_5
+id,VAR_6

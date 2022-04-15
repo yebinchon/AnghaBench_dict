@@ -1,0 +1,9 @@
+JFFS2_INODE_INFO,FUNC_0
+jffs2_do_readpage_unlock,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+jffs2_readpage,FUNC_4
+filp,VAR_0
+pg,VAR_1
+f,VAR_2
+ret,VAR_3

@@ -1,0 +1,13 @@
+dma_resv_add_excl_fence,FUNC_0
+drm_gem_unlock_reservations,FUNC_1
+drm_syncobj_find,FUNC_2
+drm_syncobj_put,FUNC_3
+drm_syncobj_replace_fence,FUNC_4
+v3d_attach_fences_and_unlock_reservation,FUNC_5
+file_priv,VAR_0
+job,VAR_1
+acquire_ctx,VAR_2
+out_sync,VAR_3
+done_fence,VAR_4
+sync_out,VAR_5
+i,VAR_6

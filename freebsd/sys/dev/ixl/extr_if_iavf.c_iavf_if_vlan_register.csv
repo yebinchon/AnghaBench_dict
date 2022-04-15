@@ -1,0 +1,16 @@
+IAVF_FLAG_AQ_ADD_VLAN_FILTER,VAR_0
+IXL_FILTER_ADD,VAR_1
+M_IAVF,VAR_2
+M_WAITOK,VAR_3
+M_ZERO,VAR_4
+SLIST_INSERT_HEAD,FUNC_0
+iavf_send_vc_msg,FUNC_1
+iflib_get_softc,FUNC_2
+malloc,FUNC_3
+next,VAR_5
+iavf_if_vlan_register,FUNC_4
+ctx,VAR_6
+vtag,VAR_7
+sc,VAR_8
+vsi,VAR_9
+v,VAR_10

@@ -1,0 +1,10 @@
+disable_percpu_irq,FUNC_0
+enable_percpu_irq,FUNC_1
+host_vtimer_irq,VAR_0
+host_vtimer_irq_flags,VAR_1
+kvm_timer_should_fire,FUNC_2
+kvm_timer_update_irq,FUNC_3
+vcpu_vtimer,FUNC_4
+kvm_timer_vcpu_load_nogic,FUNC_5
+vcpu,VAR_2
+vtimer,VAR_3

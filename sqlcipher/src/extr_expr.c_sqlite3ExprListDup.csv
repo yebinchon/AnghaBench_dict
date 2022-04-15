@@ -1,0 +1,17 @@
+TK_SELECT_COLUMN,VAR_0
+assert,FUNC_0
+sqlite3DbMallocRawNN,FUNC_1
+sqlite3DbMallocSize,FUNC_2
+sqlite3DbStrDup,FUNC_3
+sqlite3ExprDup,FUNC_4
+sqlite3ExprListDup,FUNC_5
+db,VAR_1
+p,VAR_2
+flags,VAR_3
+pNew,VAR_4
+pItem,VAR_5
+pOldItem,VAR_6
+i,VAR_7
+pPriorSelectCol,VAR_8
+pOldExpr,VAR_9
+pNewExpr,VAR_10

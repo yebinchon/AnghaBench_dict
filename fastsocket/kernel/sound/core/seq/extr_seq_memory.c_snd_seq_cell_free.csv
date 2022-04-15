@@ -1,0 +1,15 @@
+SNDRV_SEQ_EXT_CHAINED,VAR_0
+free_cell,FUNC_0
+snd_BUG_ON,FUNC_1
+snd_seq_ev_is_variable,FUNC_2
+snd_seq_output_ok,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+waitqueue_active,FUNC_6
+wake_up,FUNC_7
+snd_seq_cell_free,FUNC_8
+cell,VAR_1
+flags,VAR_2
+pool,VAR_3
+curp,VAR_4
+nextptr,VAR_5

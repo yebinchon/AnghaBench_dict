@@ -1,0 +1,14 @@
+CHOR_START,VAR_0
+MDPRINTK,FUNC_0
+MITE_CHOR,FUNC_1
+channel,VAR_1
+mmiowb,FUNC_2
+smp_mb,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+writel,FUNC_6
+mite_dma_arm,FUNC_7
+mite_chan,VAR_2
+mite,VAR_3
+chor,VAR_4
+flags,VAR_5

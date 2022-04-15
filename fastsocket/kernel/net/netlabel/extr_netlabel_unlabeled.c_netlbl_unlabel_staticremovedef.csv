@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+NLBL_UNLABEL_A_IPV4ADDR,VAR_1
+NLBL_UNLABEL_A_IPV4MASK,VAR_2
+NLBL_UNLABEL_A_IPV6ADDR,VAR_3
+NLBL_UNLABEL_A_IPV6MASK,VAR_4
+init_net,VAR_5
+netlbl_netlink_auditinfo,FUNC_0
+netlbl_unlabel_addrinfo_get,FUNC_1
+netlbl_unlhsh_remove,FUNC_2
+netlbl_unlabel_staticremovedef,FUNC_3
+skb,VAR_6
+info,VAR_7
+ret_val,VAR_8
+addr,VAR_9
+mask,VAR_10
+addr_len,VAR_11
+audit_info,VAR_12

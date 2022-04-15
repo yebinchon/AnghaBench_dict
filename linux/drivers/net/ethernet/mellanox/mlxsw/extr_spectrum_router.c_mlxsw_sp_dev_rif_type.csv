@@ -1,0 +1,14 @@
+MLXSW_SP_FID_TYPE_8021D,VAR_0
+MLXSW_SP_FID_TYPE_8021Q,VAR_1
+MLXSW_SP_FID_TYPE_RFID,VAR_2
+MLXSW_SP_RIF_TYPE_IPIP_LB,VAR_3
+br_vlan_enabled,FUNC_0
+is_vlan_dev,FUNC_1
+mlxsw_sp_fid_type_rif_type,FUNC_2
+mlxsw_sp_netdev_ipip_type,FUNC_3
+netif_is_bridge_master,FUNC_4
+vlan_dev_real_dev,FUNC_5
+mlxsw_sp_dev_rif_type,FUNC_6
+mlxsw_sp,VAR_4
+dev,VAR_5
+type,VAR_6

@@ -1,0 +1,17 @@
+GIT_INDEX_CAPABILITY_IGNORE_CASE,VAR_0
+TEST_INDEX_PATH,VAR_1
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_p,FUNC_2
+cl_assert_equal_s,FUNC_3
+cl_git_pass,FUNC_4
+git_index_caps,FUNC_5
+git_index_free,FUNC_6
+git_index_get_bypath,FUNC_7
+git_index_open,FUNC_8
+git_index_set_caps,FUNC_9
+git_vector_verify_sorted,FUNC_10
+test_index_tests__change_icase_on_instance,FUNC_11
+index,VAR_2
+caps,VAR_3
+e,VAR_4

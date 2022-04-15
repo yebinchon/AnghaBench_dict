@@ -1,0 +1,15 @@
+PORT_S3C2440,VAR_0
+S3C2410_UCON,VAR_1
+S3C2410_UFCON,VAR_2
+S3C2410_UFCON_RESETBOTH,VAR_3
+S3C2440_UCON0_DIVMASK,VAR_4
+rd_regl,FUNC_0
+s3c24xx_port_to_info,FUNC_1
+udelay,FUNC_2
+wr_regl,FUNC_3
+s3c24xx_serial_resetport,FUNC_4
+port,VAR_5
+cfg,VAR_6
+info,VAR_7
+ucon,VAR_8
+ucon_mask,VAR_9

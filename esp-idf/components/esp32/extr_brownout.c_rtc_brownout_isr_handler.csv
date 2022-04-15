@@ -1,0 +1,11 @@
+ESP_RST_BROWNOUT,VAR_0
+REG_WRITE,FUNC_0
+RTC_CNTL_BROWN_OUT_INT_CLR,VAR_1
+RTC_CNTL_INT_CLR_REG,VAR_2
+esp_cpu_stall,FUNC_1
+esp_reset_reason_set_hint,FUNC_2
+esp_restart_noos,FUNC_3
+ets_printf,FUNC_4
+xPortGetCoreID,FUNC_5
+rtc_brownout_isr_handler,FUNC_6
+arg,VAR_3

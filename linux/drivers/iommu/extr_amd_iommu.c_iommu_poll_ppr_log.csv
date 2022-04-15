@@ -1,0 +1,17 @@
+LOOP_TIMEOUT,VAR_0
+MMIO_PPR_HEAD_OFFSET,VAR_1
+MMIO_PPR_TAIL_OFFSET,VAR_2
+PPR_ENTRY_SIZE,VAR_3
+PPR_LOG_SIZE,VAR_4
+PPR_REQ_TYPE,FUNC_0
+iommu_handle_ppr_entry,FUNC_1
+readl,FUNC_2
+udelay,FUNC_3
+writel,FUNC_4
+iommu_poll_ppr_log,FUNC_5
+iommu,VAR_5
+head,VAR_6
+tail,VAR_7
+raw,VAR_8
+entry,VAR_9
+i,VAR_10

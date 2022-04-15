@@ -1,0 +1,14 @@
+NLBL_REQSKB,VAR_0
+netlbl_secattr_destroy,FUNC_0
+netlbl_secattr_init,FUNC_1
+netlbl_skbuff_setattr,FUNC_2
+security_netlbl_sid_to_secattr,FUNC_3
+selinux_netlbl_skbuff_setsid,FUNC_4
+skb,VAR_1
+family,VAR_2
+sid,VAR_3
+rc,VAR_4
+secattr_storage,VAR_5
+secattr,VAR_6
+sk,VAR_7
+sksec,VAR_8

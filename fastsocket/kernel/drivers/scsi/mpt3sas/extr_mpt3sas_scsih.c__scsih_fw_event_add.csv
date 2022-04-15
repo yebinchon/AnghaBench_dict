@@ -1,0 +1,11 @@
+INIT_LIST_HEAD,FUNC_0
+INIT_WORK,FUNC_1
+_firmware_event_work,VAR_0
+list_add_tail,FUNC_2
+queue_work,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+_scsih_fw_event_add,FUNC_6
+ioc,VAR_1
+fw_event,VAR_2
+flags,VAR_3

@@ -1,0 +1,11 @@
+__pci_mmap_make_offset,FUNC_0
+__pci_mmap_set_pgprot,FUNC_1
+io_remap_pfn_range,FUNC_2
+pgprot_noncached,FUNC_3
+pci_mmap_page_range,FUNC_4
+dev,VAR_0
+bar,VAR_1
+vma,VAR_2
+mmap_state,VAR_3
+write_combine,VAR_4
+ret,VAR_5

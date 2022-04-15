@@ -1,0 +1,14 @@
+RDAC_LOG,FUNC_0
+RDAC_LOG_FAILOVER,VAR_0
+SCSI_DH_IO,VAR_1
+SCSI_DH_RETRY,VAR_2
+SCSI_SENSE_BUFFERSIZE,VAR_3
+get_rdac_data,FUNC_1
+scsi_normalize_sense,FUNC_2
+mode_select_handle_sense,FUNC_3
+sdev,VAR_4
+sensebuf,VAR_5
+sense_hdr,VAR_6
+err,VAR_7
+ret,VAR_8
+h,VAR_9

@@ -1,0 +1,13 @@
+AHC_QUEUE_REGS,VAR_0
+HNSCB_QOFF,VAR_1
+KERNEL_QINPOS,VAR_2
+ahc_lookup_scb,FUNC_0
+ahc_outb,FUNC_1
+ahc_qinfifo_count,FUNC_2
+ahc_qinfifo_requeue,FUNC_3
+ahc_qinfifo_requeue_tail,FUNC_4
+ahc,VAR_3
+scb,VAR_4
+prev_scb,VAR_5
+prev_tag,VAR_6
+prev_pos,VAR_7

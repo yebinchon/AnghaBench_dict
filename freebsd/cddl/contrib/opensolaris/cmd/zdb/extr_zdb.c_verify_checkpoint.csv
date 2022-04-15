@@ -1,0 +1,15 @@
+DMU_POOL_DIRECTORY_OBJECT,VAR_0
+DMU_POOL_ZPOOL_CHECKPOINT,VAR_1
+ENOENT,VAR_2
+SPA_FEATURE_POOL_CHECKPOINT,VAR_3
+dump_leftover_checkpoint_blocks,FUNC_0
+dump_opt,VAR_4
+dump_uberblock,FUNC_1
+printf,FUNC_2
+spa_feature_is_active,FUNC_3
+verify_checkpoint_blocks,FUNC_4
+zap_lookup,FUNC_5
+verify_checkpoint,FUNC_6
+spa,VAR_5
+checkpoint,VAR_6
+error,VAR_7

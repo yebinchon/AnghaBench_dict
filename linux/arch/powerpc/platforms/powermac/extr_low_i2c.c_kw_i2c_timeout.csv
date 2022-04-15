@@ -1,0 +1,17 @@
+KW_POLL_TIMEOUT,VAR_0
+add_timer,FUNC_0
+from_timer,FUNC_1
+host,VAR_1
+jiffies,VAR_2
+kw_i2c_handle_interrupt,FUNC_2
+kw_read_reg,FUNC_3
+reg_isr,VAR_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+state_idle,VAR_4
+timeout_timer,VAR_5
+timer_pending,FUNC_6
+kw_i2c_timeout,FUNC_7
+t,VAR_6
+host,VAR_7
+flags,VAR_8

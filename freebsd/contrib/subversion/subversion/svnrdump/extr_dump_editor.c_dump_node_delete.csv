@@ -1,0 +1,15 @@
+FALSE,VAR_0
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_1
+SVN_REPOS_DUMPFILE_NODE_ACTION,VAR_2
+SVN_REPOS_DUMPFILE_NODE_PATH,VAR_3
+assert,FUNC_1
+svn_relpath_is_canonical,FUNC_2
+svn_repos__dump_node_record,FUNC_3
+svn_repos__dumpfile_header_push,FUNC_4
+svn_repos__dumpfile_headers_create,FUNC_5
+dump_node_delete,FUNC_6
+stream,VAR_4
+node_relpath,VAR_5
+pool,VAR_6
+headers,VAR_7

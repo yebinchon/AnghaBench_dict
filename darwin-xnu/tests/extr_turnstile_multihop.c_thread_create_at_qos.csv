@@ -1,0 +1,15 @@
+PRIO_DARWIN_ROLE,VAR_0
+PRIO_DARWIN_ROLE_UI_FOCAL,VAR_1
+T_LOG,FUNC_0
+pthread_attr_init,FUNC_1
+pthread_attr_set_qos_class_np,FUNC_2
+pthread_create,FUNC_3
+pthread_get_qos_class_np,FUNC_4
+setpriority,FUNC_5
+thread_create_at_qos,FUNC_6
+qos,VAR_2
+function,VAR_3
+qos_thread,VAR_4
+thread,VAR_5
+attr,VAR_6
+ret,VAR_7

@@ -1,0 +1,16 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+MA_OWNED,VAR_2
+bus_dmamap_sync,FUNC_0
+bus_space_write_4,FUNC_1
+callout_reset_on,FUNC_2
+hz,VAR_3
+memcpy,FUNC_3
+mtx_assert,FUNC_4
+nvme_timeout,VAR_4
+wmb,FUNC_5
+nvme_qpair_submit_tracker,FUNC_6
+qpair,VAR_5
+tr,VAR_6
+req,VAR_7
+ctrlr,VAR_8

@@ -1,0 +1,14 @@
+I915_READ,FUNC_0
+POWER_DOMAIN_PIPE,FUNC_1
+SPRCTL,FUNC_2
+SPRITE_ENABLE,VAR_0
+intel_display_power_get_if_enabled,FUNC_3
+intel_display_power_put,FUNC_4
+to_i915,FUNC_5
+ivb_plane_get_hw_state,FUNC_6
+plane,VAR_1
+pipe,VAR_2
+dev_priv,VAR_3
+power_domain,VAR_4
+wakeref,VAR_5
+ret,VAR_6

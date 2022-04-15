@@ -1,0 +1,14 @@
+BLK_STS_OK,VAR_0
+NVME_QUIRK_DEALLOCATE_ZEROES,VAR_1
+blk_rq_bytes,FUNC_0
+blk_rq_pos,FUNC_1
+cpu_to_le16,FUNC_2
+cpu_to_le32,FUNC_3
+cpu_to_le64,FUNC_4
+nvme_block_nr,FUNC_5
+nvme_cmd_write_zeroes,VAR_2
+nvme_setup_discard,FUNC_6
+nvme_setup_write_zeroes,FUNC_7
+ns,VAR_3
+req,VAR_4
+cmnd,VAR_5

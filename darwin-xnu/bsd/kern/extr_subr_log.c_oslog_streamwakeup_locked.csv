@@ -1,0 +1,10 @@
+LCK_ASSERT_OWNED,VAR_0
+LCK_SPIN_ASSERT,FUNC_0
+LOG_RDWAIT,VAR_1
+oslog_stream_lock,VAR_2
+oslog_stream_open,VAR_3
+oslog_streambufp,VAR_4
+oslog_streamsoftc,VAR_5
+selwakeup,FUNC_1
+wakeup,FUNC_2
+oslog_streamwakeup_locked,FUNC_3

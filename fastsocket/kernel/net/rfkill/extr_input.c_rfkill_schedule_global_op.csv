@@ -1,0 +1,16 @@
+RFKILL_GLOBAL_OP_EPO,VAR_0
+cancel_delayed_work,FUNC_0
+jiffies,VAR_1
+rfkill_is_epo_lock_active,FUNC_1
+rfkill_last_scheduled,VAR_2
+rfkill_op,VAR_3
+rfkill_op_lock,VAR_4
+rfkill_op_pending,VAR_5
+rfkill_op_work,VAR_6
+rfkill_schedule_ratelimited,FUNC_2
+schedule_delayed_work,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+rfkill_schedule_global_op,FUNC_6
+op,VAR_7
+flags,VAR_8

@@ -1,0 +1,13 @@
+CMD_CLK_GET_ALL_INFO,VAR_0
+MRQ_CLK_NAME_MAXLEN,VAR_1
+memset,FUNC_0
+strlcpy,FUNC_1
+tegra_bpmp_clk_transfer,FUNC_2
+tegra_bpmp_clk_get_info,FUNC_3
+bpmp,VAR_2
+id,VAR_3
+info,VAR_4
+response,VAR_5
+msg,VAR_6
+i,VAR_7
+err,VAR_8

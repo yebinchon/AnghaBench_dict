@@ -1,0 +1,13 @@
+KERN_SUCCESS,VAR_0
+MACH_PORT_DEAD,VAR_1
+MACH_PORT_RIGHT_SEND,VAR_2
+_kernelrpc_mach_port_special_reply_port_reset_link,FUNC_0
+mach_port_deallocate,FUNC_1
+mach_port_mod_refs,FUNC_2
+mach_task_self,FUNC_3
+mig_get_special_reply_port,FUNC_4
+mach_sync_ipc_link_monitoring_start,FUNC_5
+special_reply_port,VAR_3
+srp,VAR_4
+link_broken,VAR_5
+kr,VAR_6

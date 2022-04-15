@@ -1,0 +1,16 @@
+DUPLEX_FULL,VAR_0
+MDIO_MMD_PMAPMD,VAR_1
+MDIO_STAT1,VAR_2
+MDIO_STAT1_LSTATUS,VAR_3
+PAUSE_RX,VAR_4
+PAUSE_TX,VAR_5
+SPEED_10000,VAR_6
+cphy_mdio_read,FUNC_0
+led_link,FUNC_1
+mv88x201x_get_link_status,FUNC_2
+cphy,VAR_7
+link_ok,VAR_8
+speed,VAR_9
+duplex,VAR_10
+fc,VAR_11
+val,VAR_12

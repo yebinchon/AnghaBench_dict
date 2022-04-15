@@ -1,0 +1,10 @@
+AES_KEY_BASE,VAR_0
+AES_MODE_REG,VAR_1
+ESP_AES_ENCRYPT,VAR_2
+REG_WRITE,FUNC_0
+memcpy,FUNC_1
+esp_aes_setkey_hardware,FUNC_2
+ctx,VAR_3
+mode,VAR_4
+MODE_DECRYPT_BIT,VAR_5
+mode_reg_base,VAR_6

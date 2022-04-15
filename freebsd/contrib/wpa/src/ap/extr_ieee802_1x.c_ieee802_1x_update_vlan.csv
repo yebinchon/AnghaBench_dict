@@ -1,0 +1,16 @@
+DYNAMIC_VLAN_REQUIRED,VAR_0
+HOSTAPD_LEVEL_INFO,VAR_1
+HOSTAPD_MODULE_IEEE8021X,VAR_2
+HOSTAPD_MODULE_RADIUS,VAR_3
+MAX_NUM_TAGGED_VLAN,VAR_4
+TRUE,VAR_5
+ap_sta_set_vlan,FUNC_0
+hostapd_logger,FUNC_1
+hostapd_vlan_valid,FUNC_2
+os_memset,FUNC_3
+radius_msg_get_vlanid,FUNC_4
+ieee802_1x_update_vlan,FUNC_5
+msg,VAR_6
+hapd,VAR_7
+sta,VAR_8
+vlan_desc,VAR_9

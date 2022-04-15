@@ -1,0 +1,10 @@
+devlink_trap_disable,FUNC_0
+devlink_trap_unregister,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+synchronize_rcu,FUNC_4
+devlink_traps_unregister,FUNC_5
+devlink,VAR_0
+traps,VAR_1
+traps_count,VAR_2
+i,VAR_3

@@ -1,0 +1,17 @@
+EP_STS_DESCMIS,VAR_0
+EP_STS_IOC,VAR_1
+EP_STS_ISP,VAR_2
+EP_STS_SETUP,VAR_3
+__pending_setup_status_handler,FUNC_0
+cdns3_allow_enable_l1,FUNC_1
+cdns3_ep0_setup_phase,FUNC_2
+cdns3_prepare_setup_packet,FUNC_3
+cdns3_select_ep,FUNC_4
+cdns3_transfer_completed,FUNC_5
+readl,FUNC_6
+trace_cdns3_ep0_irq,FUNC_7
+writel,FUNC_8
+cdns3_check_ep0_interrupt_proceed,FUNC_9
+priv_dev,VAR_4
+dir,VAR_5
+ep_sts_reg,VAR_6

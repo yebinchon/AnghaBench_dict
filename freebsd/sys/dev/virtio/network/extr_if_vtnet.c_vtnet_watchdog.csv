@@ -1,0 +1,8 @@
+VTNET_TXQ_LOCK,FUNC_0
+VTNET_TXQ_UNLOCK,FUNC_1
+if_printf,FUNC_2
+vtnet_txq_eof,FUNC_3
+vtnet_txq_start,FUNC_4
+vtnet_watchdog,FUNC_5
+txq,VAR_0
+ifp,VAR_1

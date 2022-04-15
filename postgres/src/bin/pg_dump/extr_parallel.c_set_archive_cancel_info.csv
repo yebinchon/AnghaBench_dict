@@ -1,0 +1,13 @@
+EnterCriticalSection,FUNC_0
+GetCurrentThreadId,FUNC_1
+LeaveCriticalSection,FUNC_2
+PQfreeCancel,FUNC_3
+PQgetCancel,FUNC_4
+mainThreadId,VAR_0
+setup_cancel_handler,FUNC_5
+signal_info,VAR_1
+signal_info_lock,VAR_2
+set_archive_cancel_info,FUNC_6
+AH,VAR_3
+conn,VAR_4
+oldConnCancel,VAR_5

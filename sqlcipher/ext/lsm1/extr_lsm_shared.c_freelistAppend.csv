@@ -1,0 +1,16 @@
+LSM_NOMEM_BKPT,VAR_0
+LSM_OK,VAR_1
+assert,FUNC_0
+lsmRealloc,FUNC_1
+memmove,FUNC_2
+freelistAppend,FUNC_3
+db,VAR_2
+iBlk,VAR_3
+iId,VAR_4
+pEnv,VAR_5
+p,VAR_6
+i,VAR_7
+nNew,VAR_8
+nByte,VAR_9
+aNew,VAR_10
+nByte,VAR_11

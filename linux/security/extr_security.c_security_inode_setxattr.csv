@@ -1,0 +1,15 @@
+IS_PRIVATE,FUNC_0
+call_int_hook,FUNC_1
+cap_inode_setxattr,FUNC_2
+d_backing_inode,FUNC_3
+evm_inode_setxattr,FUNC_4
+ima_inode_setxattr,FUNC_5
+inode_setxattr,VAR_0
+unlikely,FUNC_6
+security_inode_setxattr,FUNC_7
+dentry,VAR_1
+name,VAR_2
+value,VAR_3
+size,VAR_4
+flags,VAR_5
+ret,VAR_6

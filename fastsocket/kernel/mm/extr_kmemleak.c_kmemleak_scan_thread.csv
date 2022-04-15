@@ -1,0 +1,16 @@
+SECS_FIRST_SCAN,VAR_0
+current,VAR_1
+jiffies_scan_wait,VAR_2
+kmemleak_scan,FUNC_0
+kthread_should_stop,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+pr_info,FUNC_4
+scan_mutex,VAR_3
+schedule_timeout_interruptible,FUNC_5
+set_user_nice,FUNC_6
+ssleep,FUNC_7
+kmemleak_scan_thread,FUNC_8
+arg,VAR_4
+first_run,VAR_5
+timeout,VAR_6

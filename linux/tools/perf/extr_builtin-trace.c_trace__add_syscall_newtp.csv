@@ -1,0 +1,16 @@
+args,VAR_0
+callchain_param,VAR_1
+evlist__add,FUNC_0
+evsel__delete_priv,FUNC_1
+perf_evsel__config_callchain,FUNC_2
+perf_evsel__init_sc_tp_ptr_field,FUNC_3
+perf_evsel__init_sc_tp_uint_field,FUNC_4
+perf_evsel__raw_syscall_newtp,FUNC_5
+trace__sys_enter,VAR_2
+trace__sys_exit,VAR_3
+trace__add_syscall_newtp,FUNC_6
+trace,VAR_4
+ret,VAR_5
+evlist,VAR_6
+sys_enter,VAR_7
+sys_exit,VAR_8

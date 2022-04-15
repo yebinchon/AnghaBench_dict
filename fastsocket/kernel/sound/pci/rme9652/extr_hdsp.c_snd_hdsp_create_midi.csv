@@ -1,0 +1,16 @@
+SNDRV_RAWMIDI_INFO_DUPLEX,VAR_0
+SNDRV_RAWMIDI_INFO_INPUT,VAR_1
+SNDRV_RAWMIDI_INFO_OUTPUT,VAR_2
+SNDRV_RAWMIDI_STREAM_INPUT,VAR_3
+SNDRV_RAWMIDI_STREAM_OUTPUT,VAR_4
+snd_hdsp_midi_input,VAR_5
+snd_hdsp_midi_output,VAR_6
+snd_rawmidi_new,FUNC_0
+snd_rawmidi_set_ops,FUNC_1
+spin_lock_init,FUNC_2
+sprintf,FUNC_3
+snd_hdsp_create_midi,FUNC_4
+card,VAR_7
+hdsp,VAR_8
+id,VAR_9
+buf,VAR_10

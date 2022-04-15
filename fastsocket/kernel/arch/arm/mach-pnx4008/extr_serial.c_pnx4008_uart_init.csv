@@ -1,0 +1,14 @@
+SE_U3_RX_INT,VAR_0
+SE_U5_RX_INT,VAR_1
+UART3_BASE_VA,VAR_2
+UART5_BASE_VA,VAR_3
+UART_FCR_OFFSET,VAR_4
+UART_FIFO_SIZE,VAR_5
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+start_int_ack,FUNC_2
+start_int_set_rising_edge,FUNC_3
+start_int_umask,FUNC_4
+pnx4008_uart_init,FUNC_5
+tmp,VAR_6
+i,VAR_7

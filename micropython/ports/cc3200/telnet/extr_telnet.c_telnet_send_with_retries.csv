@@ -1,0 +1,16 @@
+HAL_NVIC_INT_CTRL_REG,VAR_0
+HAL_VECTACTIVE_MASK,VAR_1
+IRQ_STATE_ENABLED,VAR_2
+SL_EAGAIN,VAR_3
+TELNET_TX_RETRIES_MAX,VAR_4
+TELNET_WAIT_TIME_MS,VAR_5
+mp_hal_delay_ms,FUNC_0
+query_irq,FUNC_1
+sl_Send,FUNC_2
+telnet_send_with_retries,FUNC_3
+sd,VAR_6
+pBuf,VAR_7
+len,VAR_8
+retries,VAR_9
+delay,VAR_10
+result,VAR_11

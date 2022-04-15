@@ -1,0 +1,12 @@
+g_current_time,VAR_0
+g_trunk_compress_binlog_min_interval,VAR_1
+g_trunk_last_compress_time,VAR_2
+logInfo,FUNC_0
+storage_trunk_do_save,FUNC_1
+storage_write_to_sync_ini_file,FUNC_2
+trunk_binlog_compress_apply,FUNC_3
+trunk_binlog_compress_commit,FUNC_4
+trunk_binlog_compress_rollback,FUNC_5
+trunk_unlink_all_mark_files,FUNC_6
+storage_trunk_save,FUNC_7
+result,VAR_3

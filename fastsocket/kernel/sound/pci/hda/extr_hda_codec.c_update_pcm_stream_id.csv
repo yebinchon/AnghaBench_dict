@@ -1,0 +1,12 @@
+AC_VERB_GET_CONV,VAR_0
+AC_VERB_SET_CHANNEL_STREAMID,VAR_1
+snd_hda_codec_read,FUNC_0
+snd_hda_codec_write,FUNC_1
+update_pcm_stream_id,FUNC_2
+codec,VAR_2
+p,VAR_3
+nid,VAR_4
+stream_tag,VAR_5
+channel_id,VAR_6
+oldval,VAR_7
+newval,VAR_8

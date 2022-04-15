@@ -1,0 +1,15 @@
+GMUX_INTERRUPT_STATUS_POWER,VAR_0
+complete,FUNC_0
+gmux_clear_interrupts,FUNC_1
+gmux_disable_interrupts,FUNC_2
+gmux_enable_interrupts,FUNC_3
+gmux_interrupt_get_status,FUNC_4
+pnp_get_drvdata,FUNC_5
+pr_debug,FUNC_6
+gmux_notify_handler,FUNC_7
+device,VAR_1
+value,VAR_2
+context,VAR_3
+status,VAR_4
+pnp,VAR_5
+gmux_data,VAR_6

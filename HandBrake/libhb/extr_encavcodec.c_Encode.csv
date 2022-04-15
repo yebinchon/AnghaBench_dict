@@ -1,0 +1,16 @@
+AV_PICTURE_TYPE_I,VAR_0
+HB_PASS_ENCODE_1ST,VAR_1
+avcodec_send_frame,FUNC_0
+compute_dts_offset,FUNC_1
+fprintf,FUNC_2
+get_packets,FUNC_3
+hb_chapter_enqueue,FUNC_4
+hb_log,FUNC_5
+save_frame_info,FUNC_6
+Encode,FUNC_7
+w,VAR_2
+in,VAR_3
+list,VAR_4
+pv,VAR_5
+frame,VAR_6
+ret,VAR_7

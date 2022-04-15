@@ -1,0 +1,9 @@
+RDP_SET_BREAK,VAR_0
+RDP_SET_BREAK_TYPE_GET_HANDLE,VAR_1
+RDP_SET_BREAK_TYPE_PC_EQUAL,VAR_2
+ds,VAR_3
+send_rdp,FUNC_0
+remote_rdp_insert_breakpoint,FUNC_1
+addr,VAR_4
+save,VAR_5
+res,VAR_6

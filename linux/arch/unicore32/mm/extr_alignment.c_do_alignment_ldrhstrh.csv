@@ -1,0 +1,16 @@
+LDST_L_BIT,FUNC_0
+RD_BITS,FUNC_1
+RM_BITS,FUNC_2
+TYPE_FAULT,VAR_0
+TYPE_LDST,VAR_1
+TYPE_SWAP,VAR_2
+get16_unaligned_check,FUNC_3
+get32_unaligned_check,FUNC_4
+put16_unaligned_check,FUNC_5
+put32_unaligned_check,FUNC_6
+do_alignment_ldrhstrh,FUNC_7
+addr,VAR_3
+instr,VAR_4
+regs,VAR_5
+rd,VAR_6
+val,VAR_7

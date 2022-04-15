@@ -1,0 +1,7 @@
+OCP_MOD,VAR_0
+OMAP3_PRM_IRQENABLE_MPU_OFFSET,VAR_1
+OMAP3_PRM_REVISION_OFFSET,VAR_2
+omap2_prm_read_mod_reg,FUNC_0
+omap2_prm_write_mod_reg,FUNC_1
+omap3xxx_prm_save_and_clear_irqen,FUNC_2
+saved_mask,VAR_3

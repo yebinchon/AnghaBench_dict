@@ -1,0 +1,10 @@
+blk_plug_device,FUNC_0
+blk_requeue_request,FUNC_1
+elv_queue_empty,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ide_requeue_and_plug,FUNC_5
+drive,VAR_0
+rq,VAR_1
+q,VAR_2
+flags,VAR_3

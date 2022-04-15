@@ -1,0 +1,16 @@
+drm_crtc_arm_vblank_event,FUNC_0
+drm_crtc_send_vblank_event,FUNC_1
+drm_crtc_vblank_get,FUNC_2
+mxsfb_disable_axi_clk,FUNC_3
+mxsfb_enable_axi_clk,FUNC_4
+mxsfb_get_fb_paddr,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+writel,FUNC_8
+mxsfb_plane_atomic_update,FUNC_9
+mxsfb,VAR_0
+state,VAR_1
+pipe,VAR_2
+crtc,VAR_3
+event,VAR_4
+paddr,VAR_5

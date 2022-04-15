@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+IDMAP_REQ_FLG_USE_CACHE,VAR_1
+IDMAP_SUCCESS,VAR_2
+assert,FUNC_0
+idmap_get_create,FUNC_1
+idmap_get_destroy,FUNC_2
+idmap_get_mappings,FUNC_3
+idmap_get_sidbygid,FUNC_4
+idmap_get_sidbyuid,FUNC_5
+idmap_id_to_numeric_domain_rid,FUNC_6
+id,VAR_3
+isuser,VAR_4
+domainp,VAR_5
+ridp,VAR_6

@@ -1,0 +1,14 @@
+FLASH_ADDR,VAR_0
+FLASH_ADDR_ERR,VAR_1
+FLASH_ADDR_R,VAR_2
+FLASH_ADDR_RDY,VAR_3
+FLASH_DATA,VAR_4
+cpu_to_le32,FUNC_0
+ql_read32,FUNC_1
+ql_wait_reg_rdy,FUNC_2
+ql_write32,FUNC_3
+ql_read_flash_word,FUNC_4
+qdev,VAR_5
+offset,VAR_6
+data,VAR_7
+status,VAR_8

@@ -1,0 +1,11 @@
+USBDUX_CMD_PWM_ON,VAR_0
+memset,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+send_dux_commands,FUNC_3
+usbduxsub_submit_pwm_urbs,FUNC_4
+usbdux_pwm_start,FUNC_5
+dev,VAR_1
+s,VAR_2
+devpriv,VAR_3
+ret,VAR_4

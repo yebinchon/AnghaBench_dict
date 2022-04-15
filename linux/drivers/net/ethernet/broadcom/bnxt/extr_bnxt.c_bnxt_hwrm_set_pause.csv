@@ -1,0 +1,14 @@
+BNXT_AUTONEG_FLOW_CTRL,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+HWRM_PORT_PHY_CFG,VAR_2
+_hwrm_send_message,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+bnxt_hwrm_set_link_common,FUNC_2
+bnxt_hwrm_set_pause_common,FUNC_3
+bnxt_report_link,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+bnxt_hwrm_set_pause,FUNC_7
+bp,VAR_3
+req,VAR_4
+rc,VAR_5

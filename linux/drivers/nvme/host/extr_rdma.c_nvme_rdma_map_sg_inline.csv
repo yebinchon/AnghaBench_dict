@@ -1,0 +1,16 @@
+NVME_SGL_FMT_DATA_DESC,VAR_0
+NVME_SGL_FMT_OFFSET,VAR_1
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+sg_dma_address,FUNC_2
+sg_dma_len,FUNC_3
+nvme_rdma_map_sg_inline,FUNC_4
+queue,VAR_2
+req,VAR_3
+c,VAR_4
+count,VAR_5
+sg,VAR_6
+sgl,VAR_7
+sge,VAR_8
+len,VAR_9
+i,VAR_10

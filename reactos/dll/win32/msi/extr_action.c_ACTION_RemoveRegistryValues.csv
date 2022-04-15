@@ -1,0 +1,12 @@
+ERROR_SUCCESS,VAR_0
+ITERATE_RemoveRegistryValuesOnInstall,VAR_1
+ITERATE_RemoveRegistryValuesOnUninstall,VAR_2
+MSI_DatabaseOpenViewW,FUNC_0
+MSI_IterateRecords,FUNC_1
+msiobj_release,FUNC_2
+ACTION_RemoveRegistryValues,FUNC_3
+package,VAR_3
+registry_query,VAR_4
+remove_registry_query,VAR_5
+view,VAR_6
+rc,VAR_7

@@ -1,0 +1,16 @@
+DEBI_AD,VAR_0
+DEBI_COMMAND,VAR_1
+DEBI_CONFIG,VAR_2
+DEBI_PAGE,VAR_3
+MC2,VAR_4
+saa7146_read,FUNC_0
+saa7146_wait_for_debi_done,FUNC_1
+saa7146_write,FUNC_2
+ttpci_budget_debiread_nolock,FUNC_3
+budget,VAR_5
+config,VAR_6
+addr,VAR_7
+count,VAR_8
+nobusyloop,VAR_9
+saa,VAR_10
+result,VAR_11

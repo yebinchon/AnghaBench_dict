@@ -1,0 +1,14 @@
+FALSE,VAR_0
+SCIC_SDS_PHY_PROTOCOL_UNKNOWN,VAR_1
+SCI_BASE_PHY_STATE_READY,VAR_2
+SCI_BASE_PHY_STATE_STARTING,VAR_3
+sci_base_state_machine_start,FUNC_0
+scic_sds_controller_link_down,FUNC_1
+scic_sds_phy_get_controller,FUNC_2
+scic_sds_phy_get_port,FUNC_3
+scic_sds_phy_set_base_state_handlers,FUNC_4
+scu_link_layer_start_oob,FUNC_5
+scu_link_layer_stop_protocol_engine,FUNC_6
+scic_sds_phy_starting_state_enter,FUNC_7
+object,VAR_4
+this_phy,VAR_5

@@ -1,0 +1,15 @@
+MSG_ERROR,VAR_0
+SIOCG80211,VAR_1
+errno,VAR_2
+ioctl,FUNC_0
+os_memset,FUNC_1
+os_strlcpy,FUNC_2
+strerror,FUNC_3
+wpa_printf,FUNC_4
+bsd_get80211,FUNC_5
+priv,VAR_3
+ireq,VAR_4
+op,VAR_5
+arg,VAR_6
+arg_len,VAR_7
+drv,VAR_8

@@ -1,0 +1,17 @@
+cl_git_pass,FUNC_0
+g_empty_id,VAR_0
+g_index,VAR_1
+g_repo,VAR_2
+git_index_add,FUNC_1
+git_index_write_tree,FUNC_2
+git_oid_cpy,FUNC_3
+git_tree_entry_bypath,FUNC_4
+git_tree_entry_free,FUNC_5
+git_tree_free,FUNC_6
+git_tree_lookup,FUNC_7
+memset,FUNC_8
+test_index_collision__add_blob_with_conflicting_file,FUNC_9
+entry,VAR_3
+tentry,VAR_4
+tree_id,VAR_5
+tree,VAR_6

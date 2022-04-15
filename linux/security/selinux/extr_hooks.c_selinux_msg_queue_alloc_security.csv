@@ -1,0 +1,14 @@
+LSM_AUDIT_DATA_IPC,VAR_0
+MSGQ__CREATE,VAR_1
+SECCLASS_MSGQ,VAR_2
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+ipc_init_security,FUNC_2
+selinux_ipc,FUNC_3
+selinux_state,VAR_3
+selinux_msg_queue_alloc_security,FUNC_4
+msq,VAR_4
+isec,VAR_5
+ad,VAR_6
+sid,VAR_7
+rc,VAR_8

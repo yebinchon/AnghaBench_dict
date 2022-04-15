@@ -1,0 +1,13 @@
+check_index_range,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+g_repo,VAR_0
+git_index_free,FUNC_3
+git_index_read_tree,FUNC_4
+git_index_write,FUNC_5
+git_repository_head_tree,FUNC_6
+git_repository_index,FUNC_7
+git_tree_free,FUNC_8
+test_iterator_index__range_icase,FUNC_9
+index,VAR_1
+head,VAR_2

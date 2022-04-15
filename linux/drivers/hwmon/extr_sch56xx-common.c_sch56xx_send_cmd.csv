@@ -1,0 +1,17 @@
+EIO,VAR_0
+SCH56XX_CMD_READ,VAR_1
+SCH56XX_CMD_WRITE,VAR_2
+inb,FUNC_0
+msleep,FUNC_1
+outb,FUNC_2
+pr_err,FUNC_3
+pr_warn,FUNC_4
+sch56xx_send_cmd,FUNC_5
+addr,VAR_3
+cmd,VAR_4
+reg,VAR_5
+v,VAR_6
+val,VAR_7
+i,VAR_8
+max_busy_polls,VAR_9
+max_lazy_polls,VAR_10

@@ -1,0 +1,9 @@
+ASSERT,FUNC_0
+XFS_ILOCK_EXCL,VAR_0
+XFS_LID_DIRTY,VAR_1
+XFS_TRANS_DIRTY,VAR_2
+xfs_isilocked,FUNC_1
+xfs_trans_log_inode,FUNC_2
+tp,VAR_3
+ip,VAR_4
+flags,VAR_5

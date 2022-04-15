@@ -1,0 +1,16 @@
+Assert,FUNC_0
+BUF_STATE_GET_REFCOUNT,FUNC_1
+BufferDescriptorGetContentLock,FUNC_2
+BufferIsLocal,FUNC_3
+BufferIsValid,FUNC_4
+GetBufferDescriptor,FUNC_5
+GetPrivateRefCount,FUNC_6
+LWLockHeldByMeInMode,FUNC_7
+LW_EXCLUSIVE,VAR_0
+LocalRefCount,VAR_1
+LockBufHdr,FUNC_8
+UnlockBufHdr,FUNC_9
+IsBufferCleanupOK,FUNC_10
+buffer,VAR_2
+bufHdr,VAR_3
+buf_state,VAR_4

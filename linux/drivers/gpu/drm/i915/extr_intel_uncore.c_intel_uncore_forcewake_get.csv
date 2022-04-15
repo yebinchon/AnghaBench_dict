@@ -1,0 +1,8 @@
+__intel_uncore_forcewake_get,FUNC_0
+assert_rpm_wakelock_held,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+intel_uncore_forcewake_get,FUNC_4
+uncore,VAR_0
+fw_domains,VAR_1
+irqflags,VAR_2

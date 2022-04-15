@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+DIF_VAR_VTIMESTAMP,VAR_0
+LCK_MTX_ASSERT,FUNC_1
+LCK_MTX_ASSERT_OWNED,VAR_1
+dtrace_difo_destroy,FUNC_2
+dtrace_lock,VAR_2
+dtrace_vtime_disable,FUNC_3
+dtrace_vtime_references,VAR_3
+dtrace_difo_release,FUNC_4
+dp,VAR_4
+vstate,VAR_5
+i,VAR_6
+v,VAR_7

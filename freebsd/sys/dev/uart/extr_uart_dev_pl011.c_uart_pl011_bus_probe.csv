@@ -1,0 +1,12 @@
+FIFO_RX_SIZE_R2,VAR_0
+FIFO_RX_SIZE_R3,VAR_1
+FIFO_TX_SIZE_R2,VAR_2
+FIFO_TX_SIZE_R3,VAR_3
+IS_FDT,VAR_4
+UART_PIDREG_2,VAR_5
+__uart_getreg,FUNC_0
+device_set_desc,FUNC_1
+uart_pl011_bus_hwrev_fdt,FUNC_2
+uart_pl011_bus_probe,FUNC_3
+sc,VAR_6
+hwrev,VAR_7

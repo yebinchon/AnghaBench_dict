@@ -1,0 +1,14 @@
+ISCSI_FLAG_CMD_FINAL,VAR_0
+ISCSI_FLAG_SNACK_TYPE_MASK,VAR_1
+ISCSI_REASON_PROTOCOL_ERROR,VAR_2
+be32_to_cpu,FUNC_0
+iscsit_add_reject,FUNC_1
+iscsit_handle_data_ack,FUNC_2
+iscsit_handle_recovery_datain_or_r2t,FUNC_3
+iscsit_handle_status_snack,FUNC_4
+pr_debug,FUNC_5
+pr_err,FUNC_6
+iscsit_handle_snack,FUNC_7
+conn,VAR_3
+buf,VAR_4
+hdr,VAR_5

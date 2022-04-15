@@ -1,0 +1,17 @@
+GLFW_API_UNAVAILABLE,VAR_0
+GLFW_PLATFORM_ERROR,VAR_1
+VK_ERROR_EXTENSION_NOT_PRESENT,VAR_2
+VK_STRUCTURE_TYPE_WAYLAND_SURFACE_CREATE_INFO_KHR,VAR_3
+_glfw,VAR_4
+_glfwGetVulkanResultString,FUNC_0
+_glfwInputError,FUNC_1
+memset,FUNC_2
+vkGetInstanceProcAddr,FUNC_3
+_glfwPlatformCreateWindowSurface,FUNC_4
+instance,VAR_5
+window,VAR_6
+allocator,VAR_7
+surface,VAR_8
+err,VAR_9
+sci,VAR_10
+vkCreateWaylandSurfaceKHR,VAR_11

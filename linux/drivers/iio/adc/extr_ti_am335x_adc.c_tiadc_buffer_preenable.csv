@@ -1,0 +1,15 @@
+IRQENB_FIFO1OVRRUN,VAR_0
+IRQENB_FIFO1THRES,VAR_1
+IRQENB_FIFO1UNDRFLW,VAR_2
+REG_FIFO1,VAR_3
+REG_FIFO1CNT,VAR_4
+REG_IRQCLR,VAR_5
+iio_priv,FUNC_0
+tiadc_readl,FUNC_1
+tiadc_writel,FUNC_2
+tiadc_buffer_preenable,FUNC_3
+indio_dev,VAR_6
+adc_dev,VAR_7
+i,VAR_8
+fifo1count,VAR_9
+read,VAR_10

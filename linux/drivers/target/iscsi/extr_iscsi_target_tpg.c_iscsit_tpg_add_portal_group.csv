@@ -1,0 +1,15 @@
+EEXIST,VAR_0
+ENOMEM,VAR_1
+TPG_STATE_FREE,VAR_2
+TPG_STATE_INACTIVE,VAR_3
+iscsi_create_default_params,FUNC_0
+iscsi_release_param_list,FUNC_1
+iscsit_set_default_tpg_attribs,FUNC_2
+list_add_tail,FUNC_3
+pr_debug,FUNC_4
+pr_err,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+iscsit_tpg_add_portal_group,FUNC_8
+tiqn,VAR_4
+tpg,VAR_5

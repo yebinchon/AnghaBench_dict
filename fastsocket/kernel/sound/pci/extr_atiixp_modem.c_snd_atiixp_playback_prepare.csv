@@ -1,0 +1,12 @@
+ATI_REG_MODEM_OUT1_DMA_THRESHOLD_MASK,VAR_0
+ATI_REG_MODEM_OUT1_DMA_THRESHOLD_SHIFT,VAR_1
+MODEM_OUT_FIFO,VAR_2
+atiixp_read,FUNC_0
+atiixp_write,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+snd_atiixp_playback_prepare,FUNC_5
+substream,VAR_3
+chip,VAR_4
+data,VAR_5

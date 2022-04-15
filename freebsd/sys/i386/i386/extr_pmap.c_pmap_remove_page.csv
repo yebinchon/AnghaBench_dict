@@ -1,0 +1,15 @@
+KASSERT,FUNC_0
+MA_OWNED,VAR_0
+PMAP_LOCK_ASSERT,FUNC_1
+RA_WLOCKED,VAR_1
+curthread,VAR_2
+pmap_invalidate_page_int,FUNC_2
+pmap_pte_quick,FUNC_3
+pmap_remove_pte,FUNC_4
+pvh_global_lock,VAR_3
+rw_assert,FUNC_5
+pmap_remove_page,FUNC_6
+pmap,VAR_4
+va,VAR_5
+free,VAR_6
+pte,VAR_7

@@ -1,0 +1,11 @@
+SERPORT_ACTIVE,VAR_0
+SERPORT_DEAD,VAR_1
+clear_bit,FUNC_0
+set_bit,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wake_up_interruptible,FUNC_4
+serport_serio_close,FUNC_5
+serio,VAR_2
+serport,VAR_3
+flags,VAR_4

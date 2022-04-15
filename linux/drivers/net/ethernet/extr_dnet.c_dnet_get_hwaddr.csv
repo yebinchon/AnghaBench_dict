@@ -1,0 +1,11 @@
+DNET_INTERNAL_MAC_ADDR_0_REG,VAR_0
+DNET_INTERNAL_MAC_ADDR_1_REG,VAR_1
+DNET_INTERNAL_MAC_ADDR_2_REG,VAR_2
+cpu_to_be16,FUNC_0
+dnet_readw_mac,FUNC_1
+is_valid_ether_addr,FUNC_2
+memcpy,FUNC_3
+dnet_get_hwaddr,FUNC_4
+bp,VAR_3
+tmp,VAR_4
+addr,VAR_5

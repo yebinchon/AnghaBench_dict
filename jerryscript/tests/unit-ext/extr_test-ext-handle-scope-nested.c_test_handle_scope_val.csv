@@ -1,0 +1,13 @@
+JERRYX_SCOPE_PRELIST_SIZE,VAR_0
+JERRY_GC_PRESSURE_LOW,VAR_1
+TEST_ASSERT,FUNC_0
+create_object_nested,FUNC_1
+jerry_gc,FUNC_2
+jerryx_close_handle_scope,FUNC_3
+jerryx_handle_scope_get_current,FUNC_4
+jerryx_open_handle_scope,FUNC_5
+native_free_cb_call_count,VAR_2
+test_handle_scope_val,FUNC_6
+scope,VAR_3
+idx,VAR_4
+obj,VAR_5

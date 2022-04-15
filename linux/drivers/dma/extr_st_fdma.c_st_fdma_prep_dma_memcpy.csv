@@ -1,0 +1,17 @@
+FDMA_NODE_CTRL_DST_INCR,VAR_0
+FDMA_NODE_CTRL_INT_EON,VAR_1
+FDMA_NODE_CTRL_REQ_MAP_FREE_RUN,VAR_2
+FDMA_NODE_CTRL_SRC_INCR,VAR_3
+dev_err,FUNC_0
+st_fdma_alloc_desc,FUNC_1
+to_st_fdma_chan,FUNC_2
+vchan_tx_prep,FUNC_3
+st_fdma_prep_dma_memcpy,FUNC_4
+chan,VAR_4
+dst,VAR_5
+src,VAR_6
+len,VAR_7
+flags,VAR_8
+fchan,VAR_9
+fdesc,VAR_10
+hw_node,VAR_11

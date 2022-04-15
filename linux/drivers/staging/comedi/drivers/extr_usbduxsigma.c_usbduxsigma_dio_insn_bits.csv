@@ -1,0 +1,13 @@
+USBDUXSIGMA_DIO_BITS_CMD,VAR_0
+comedi_dio_update_state,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+usbbuxsigma_send_cmd,FUNC_3
+usbduxsigma_receive_cmd,FUNC_4
+usbduxsigma_dio_insn_bits,FUNC_5
+dev,VAR_1
+s,VAR_2
+insn,VAR_3
+data,VAR_4
+devpriv,VAR_5
+ret,VAR_6

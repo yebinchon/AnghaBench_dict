@@ -1,0 +1,16 @@
+ControlServiceCriticalSection,VAR_0
+DPRINT,FUNC_0
+ERROR_SUCCESS,VAR_1
+EnterCriticalSection,FUNC_1
+LeaveCriticalSection,FUNC_2
+ScmAcquireServiceStartLock,FUNC_3
+ScmInitialize,VAR_2
+ScmLoadService,FUNC_4
+ScmReleaseServiceStartLock,FUNC_5
+TRUE,VAR_3
+ScmStartService,FUNC_6
+Service,VAR_4
+argc,VAR_5
+argv,VAR_6
+dwError,VAR_7
+Lock,VAR_8

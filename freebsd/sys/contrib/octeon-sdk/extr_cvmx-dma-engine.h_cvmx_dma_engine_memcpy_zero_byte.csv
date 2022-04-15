@@ -1,0 +1,15 @@
+CVMX_DMA_ENGINE_TRANSFER_INTERNAL,VAR_0
+CVMX_DPI_DMA_CONTROL,VAR_1
+OCTEON_FEATURE_DICI_MODE,VAR_2
+cvmx_dma_engine_transfer,FUNC_0
+cvmx_ptr_to_phys,FUNC_1
+cvmx_read_csr,FUNC_2
+octeon_has_feature,FUNC_3
+cvmx_dma_engine_memcpy_zero_byte,FUNC_4
+engine,VAR_3
+dest,VAR_4
+source,VAR_5
+length,VAR_6
+core,VAR_7
+header,VAR_8
+dma_control,VAR_9

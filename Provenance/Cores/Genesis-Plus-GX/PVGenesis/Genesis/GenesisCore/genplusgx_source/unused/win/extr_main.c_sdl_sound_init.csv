@@ -1,0 +1,15 @@
+AUDIO_S16LSB,VAR_0
+MessageBox,FUNC_0
+SDL_INIT_AUDIO,VAR_1
+SDL_Init,FUNC_1
+SDL_OpenAudio,FUNC_2
+SOUND_FREQUENCY,VAR_2
+SOUND_SAMPLES_SIZE,VAR_3
+malloc,FUNC_3
+memset,FUNC_4
+sdl_sound,VAR_4
+sdl_sound_callback,VAR_5
+sdl_sound_init,FUNC_5
+n,VAR_6
+as_desired,VAR_7
+as_obtained,VAR_8

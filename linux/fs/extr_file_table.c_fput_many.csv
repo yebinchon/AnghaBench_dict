@@ -1,0 +1,16 @@
+PF_KTHREAD,VAR_0
+____fput,VAR_1
+atomic_long_sub_and_test,FUNC_0
+current,VAR_2
+delayed_fput_list,VAR_3
+delayed_fput_work,VAR_4
+in_interrupt,FUNC_1
+init_task_work,FUNC_2
+likely,FUNC_3
+llist_add,FUNC_4
+schedule_delayed_work,FUNC_5
+task_work_add,FUNC_6
+fput_many,FUNC_7
+file,VAR_5
+refs,VAR_6
+task,VAR_7

@@ -1,0 +1,11 @@
+BLCKSZ,VAR_0
+BTREE_DEFAULT_FILLFACTOR,VAR_1
+BTREE_NONLEAF_FILLFACTOR,VAR_2
+P_HIKEY,VAR_3
+RelationGetTargetPageFreeSpace,FUNC_0
+_bt_blnewpage,FUNC_1
+palloc0,FUNC_2
+_bt_pagestate,FUNC_3
+wstate,VAR_4
+level,VAR_5
+state,VAR_6

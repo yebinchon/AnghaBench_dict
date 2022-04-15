@@ -1,0 +1,12 @@
+LED_OFF,VAR_0
+NETDEV_LED_LINK,VAR_1
+NETDEV_LED_MODE_LINKUP,VAR_2
+NETDEV_LED_RX,VAR_3
+NETDEV_LED_TX,VAR_4
+led_set_brightness,FUNC_0
+schedule_delayed_work,FUNC_1
+test_bit,FUNC_2
+set_baseline_state,FUNC_3
+trigger_data,VAR_5
+current_brightness,VAR_6
+led_cdev,VAR_7

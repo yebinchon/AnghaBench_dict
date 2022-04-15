@@ -1,0 +1,14 @@
+BMCR_RESET,VAR_0
+DUPLEX_FULL,VAR_1
+MII_BMCR,VAR_2
+PHY_RUNNING,VAR_3
+SPEED_100,VAR_4
+mdelay,FUNC_0
+mdiobus_read,FUNC_1
+mdiobus_write,FUNC_2
+netif_carrier_on,FUNC_3
+ip175c_config_init,FUNC_4
+phydev,VAR_5
+err,VAR_6
+i,VAR_7
+full_reset_performed,VAR_8

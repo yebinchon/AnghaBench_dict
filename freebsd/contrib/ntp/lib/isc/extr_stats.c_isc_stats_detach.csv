@@ -1,0 +1,11 @@
+DESTROYLOCK,FUNC_0
+ISC_STATS_VALID,FUNC_1
+LOCK,FUNC_2
+REQUIRE,FUNC_3
+UNLOCK,FUNC_4
+isc_mem_put,FUNC_5
+isc_mem_putanddetach,FUNC_6
+isc_rwlock_destroy,FUNC_7
+isc_stats_detach,FUNC_8
+statsp,VAR_0
+stats,VAR_1

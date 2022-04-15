@@ -1,0 +1,10 @@
+MT7601U_STATE_SCANNING,VAR_0
+MT_CALIBRATE_INTERVAL,VAR_1
+MT_FREQ_CAL_INIT_DELAY,VAR_2
+clear_bit,FUNC_0
+ieee80211_queue_delayed_work,FUNC_1
+mt7601u_agc_restore,FUNC_2
+mt7601u_sw_scan_complete,FUNC_3
+hw,VAR_3
+vif,VAR_4
+dev,VAR_5

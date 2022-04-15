@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+MAX_FRAME_SIZE,VAR_1
+dev_kfree_skb_any,FUNC_0
+dma_unmap_single,FUNC_1
+hisi_femac_tx_dma_unmap,FUNC_2
+netdev_err,FUNC_3
+unlikely,FUNC_4
+hisi_femac_free_skb_rings,FUNC_5
+priv,VAR_2
+txq,VAR_3
+rxq,VAR_4
+skb,VAR_5
+dma_addr,VAR_6
+pos,VAR_7

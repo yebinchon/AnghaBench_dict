@@ -1,0 +1,12 @@
+SINGLE_DEPTH_NESTING,VAR_0
+WARN_ON_ONCE,FUNC_0
+free_event,FUNC_1
+mutex_lock_nested,FUNC_2
+mutex_unlock,FUNC_3
+perf_group_detach,FUNC_4
+perf_remove_from_context,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+perf_event_release_kernel,FUNC_8
+event,VAR_1
+ctx,VAR_2

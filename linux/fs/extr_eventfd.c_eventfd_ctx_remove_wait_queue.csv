@@ -1,0 +1,13 @@
+EAGAIN,VAR_0
+EPOLLOUT,VAR_1
+__remove_wait_queue,FUNC_0
+eventfd_ctx_do_read,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+waitqueue_active,FUNC_4
+wake_up_locked_poll,FUNC_5
+eventfd_ctx_remove_wait_queue,FUNC_6
+ctx,VAR_2
+wait,VAR_3
+cnt,VAR_4
+flags,VAR_5

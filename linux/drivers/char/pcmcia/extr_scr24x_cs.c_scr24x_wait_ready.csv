@@ -1,0 +1,9 @@
+EIO,VAR_0
+SCR24X_CMD_STATUS,VAR_1
+STATUS_BUSY,VAR_2
+ioread8,FUNC_0
+msleep,FUNC_1
+scr24x_wait_ready,FUNC_2
+dev,VAR_3
+status,VAR_4
+timeout,VAR_5

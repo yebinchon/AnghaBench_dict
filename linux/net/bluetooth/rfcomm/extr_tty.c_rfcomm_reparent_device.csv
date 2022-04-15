@@ -1,0 +1,14 @@
+ACL_LINK,VAR_0
+BDADDR_BREDR,VAR_1
+DPM_ORDER_DEV_AFTER_PARENT,VAR_2
+device_is_registered,FUNC_0
+device_move,FUNC_1
+hci_conn_hash_lookup_ba,FUNC_2
+hci_dev_lock,FUNC_3
+hci_dev_put,FUNC_4
+hci_dev_unlock,FUNC_5
+hci_get_route,FUNC_6
+rfcomm_reparent_device,FUNC_7
+dev,VAR_3
+hdev,VAR_4
+conn,VAR_5

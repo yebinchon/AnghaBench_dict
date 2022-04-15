@@ -1,0 +1,9 @@
+__destroy_persistent_data_objects,FUNC_0
+kfree,FUNC_1
+list_del,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+refcount_dec_and_test,FUNC_5
+table_lock,VAR_0
+dm_cache_metadata_close,FUNC_6
+cmd,VAR_1

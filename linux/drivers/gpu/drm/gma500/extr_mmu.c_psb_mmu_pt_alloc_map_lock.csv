@@ -1,0 +1,17 @@
+atomic_set,FUNC_0
+kmap_atomic,FUNC_1
+kunmap_atomic,FUNC_2
+page_to_pfn,FUNC_3
+psb_mmu_alloc_pt,FUNC_4
+psb_mmu_clflush,FUNC_5
+psb_mmu_free_pt,FUNC_6
+psb_mmu_pd_index,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+psb_mmu_pt_alloc_map_lock,FUNC_10
+pd,VAR_0
+addr,VAR_1
+index,VAR_2
+pt,VAR_3
+v,VAR_4
+lock,VAR_5

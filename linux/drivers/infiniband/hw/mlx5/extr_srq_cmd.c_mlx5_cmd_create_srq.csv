@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+MLX5_RES_SRQ,VAR_1
+MLX5_RES_XRQ,VAR_2
+MLX5_RES_XSRQ,VAR_3
+create_srq_split,FUNC_0
+destroy_srq_split,FUNC_1
+init_completion,FUNC_2
+refcount_set,FUNC_3
+xa_err,FUNC_4
+xa_store_irq,FUNC_5
+mlx5_cmd_create_srq,FUNC_6
+dev,VAR_4
+srq,VAR_5
+in,VAR_6
+table,VAR_7
+err,VAR_8

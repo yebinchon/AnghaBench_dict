@@ -1,0 +1,10 @@
+OP_Affinity,VAR_0
+SQLITE_AFF_BLOB,VAR_1
+assert,FUNC_0
+sqlite3VdbeAddOp4,FUNC_1
+codeApplyAffinity,FUNC_2
+pParse,VAR_2
+base,VAR_3
+n,VAR_4
+zAff,VAR_5
+v,VAR_6

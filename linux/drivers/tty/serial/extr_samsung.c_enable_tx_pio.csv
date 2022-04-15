@@ -1,0 +1,17 @@
+S3C2410_UCON,VAR_0
+S3C2410_UFCON,VAR_1
+S3C24XX_TX_PIO,VAR_2
+S3C64XX_UCON_TXMODE_CPU,VAR_3
+S3C64XX_UCON_TXMODE_MASK,VAR_4
+S3C64XX_UINTM,VAR_5
+S3C64XX_UINTM_TXD,VAR_6
+enable_irq,FUNC_0
+rd_regl,FUNC_1
+s3c24xx_clear_bit,FUNC_2
+s3c24xx_serial_has_interrupt_mask,FUNC_3
+wr_regl,FUNC_4
+enable_tx_pio,FUNC_5
+ourport,VAR_7
+port,VAR_8
+ucon,VAR_9
+ufcon,VAR_10

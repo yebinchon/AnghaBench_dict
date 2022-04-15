@@ -1,0 +1,14 @@
+PAGER_GET_NOCONTENT,VAR_0
+PAGER_GET_READONLY,VAR_1
+SQLITE_OK,VAR_2
+assert,FUNC_0
+btreePageFromDbPage,FUNC_1
+sqlite3PagerGet,FUNC_2
+sqlite3_mutex_held,FUNC_3
+btreeGetPage,FUNC_4
+pBt,VAR_3
+pgno,VAR_4
+ppPage,VAR_5
+flags,VAR_6
+rc,VAR_7
+pDbPage,VAR_8

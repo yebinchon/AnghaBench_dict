@@ -1,0 +1,11 @@
+IIC_M_WR,VAR_0
+TDA_CURPAGE_ADDR,VAR_1
+iicbus_transfer,FUNC_0
+printf,FUNC_1
+tda19988_set_page,FUNC_2
+sc,VAR_2
+page,VAR_3
+addr,VAR_4
+cmd,VAR_5
+result,VAR_6
+msg,VAR_7

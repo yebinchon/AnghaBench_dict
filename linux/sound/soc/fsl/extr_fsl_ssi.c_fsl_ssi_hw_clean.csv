@@ -1,0 +1,11 @@
+REG_SSI_SACNT,VAR_0
+REG_SSI_SCR,VAR_1
+REG_SSI_SOR,VAR_2
+SSI_SCR_RE,VAR_3
+SSI_SCR_SSIEN,VAR_4
+SSI_SCR_TE,VAR_5
+fsl_ssi_is_ac97,FUNC_0
+regmap_update_bits,FUNC_1
+regmap_write,FUNC_2
+fsl_ssi_hw_clean,FUNC_3
+ssi,VAR_6

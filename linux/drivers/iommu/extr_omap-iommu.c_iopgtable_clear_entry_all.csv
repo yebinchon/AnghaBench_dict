@@ -1,0 +1,17 @@
+IOPGD_SHIFT,VAR_0
+PTRS_PER_IOPGD,VAR_1
+flush_iopte_range,FUNC_0
+flush_iotlb_all,FUNC_1
+iopgd_index,FUNC_2
+iopgd_is_table,FUNC_3
+iopgd_offset,FUNC_4
+iopte_free,FUNC_5
+iopte_offset,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+iopgtable_clear_entry_all,FUNC_9
+obj,VAR_2
+offset,VAR_3
+i,VAR_4
+da,VAR_5
+iopgd,VAR_6

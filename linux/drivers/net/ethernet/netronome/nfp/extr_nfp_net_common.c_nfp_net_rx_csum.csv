@@ -1,0 +1,17 @@
+NETIF_F_RXCSUM,VAR_0
+PCIE_DESC_RX_I_TCP_CSUM_OK,VAR_1
+PCIE_DESC_RX_I_UDP_CSUM_OK,VAR_2
+PCIE_DESC_RX_TCP_CSUM_OK,VAR_3
+PCIE_DESC_RX_UDP_CSUM_OK,VAR_4
+__skb_incr_checksum_unnecessary,FUNC_0
+le16_to_cpu,FUNC_1
+nfp_net_rx_csum_has_errors,FUNC_2
+skb_checksum_none_assert,FUNC_3
+u64_stats_update_begin,FUNC_4
+u64_stats_update_end,FUNC_5
+nfp_net_rx_csum,FUNC_6
+dp,VAR_5
+r_vec,VAR_6
+rxd,VAR_7
+meta,VAR_8
+skb,VAR_9

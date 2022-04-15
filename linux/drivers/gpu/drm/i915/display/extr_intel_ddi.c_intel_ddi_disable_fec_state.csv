@@ -1,0 +1,12 @@
+DP_TP_CTL,FUNC_0
+DP_TP_CTL_FEC_ENABLE,VAR_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+POSTING_READ,FUNC_3
+to_i915,FUNC_4
+intel_ddi_disable_fec_state,FUNC_5
+encoder,VAR_1
+crtc_state,VAR_2
+dev_priv,VAR_3
+port,VAR_4
+val,VAR_5

@@ -1,0 +1,17 @@
+CAN_ERR_ACK,VAR_0
+CAN_ERR_BUSERROR,VAR_1
+CAN_ERR_LOSTARB,VAR_2
+KVASER_USB_HYDRA_CF_FLAG_ABL,VAR_3
+KVASER_USB_HYDRA_CF_FLAG_OSM_NACK,VAR_4
+alloc_can_err_skb,FUNC_0
+le32_to_cpu,FUNC_1
+netdev_warn,FUNC_2
+netif_rx,FUNC_3
+kvaser_usb_hydra_one_shot_fail,FUNC_4
+priv,VAR_5
+cmd,VAR_6
+netdev,VAR_7
+stats,VAR_8
+cf,VAR_9
+skb,VAR_10
+flags,VAR_11

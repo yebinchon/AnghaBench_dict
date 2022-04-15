@@ -1,0 +1,12 @@
+EAP_VENDOR_TYPE_WSC,VAR_0
+EAP_VENDOR_WFA,VAR_1
+MSG_DEBUG,VAR_2
+MSG_ERROR,VAR_3
+WSC_FRAG_ACK,VAR_4
+eap_msg_alloc,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_put_u8,FUNC_2
+eap_wsc_build_frag_ack,FUNC_3
+id,VAR_5
+code,VAR_6
+msg,VAR_7

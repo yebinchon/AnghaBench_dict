@@ -1,0 +1,16 @@
+DAC960_ProcDirectoryEntry,VAR_0
+S_IRUSR,VAR_1
+S_IWUSR,VAR_2
+dac960_current_status_proc_fops,VAR_3
+dac960_initial_status_proc_fops,VAR_4
+dac960_proc_fops,VAR_5
+dac960_user_command_proc_fops,VAR_6
+proc_create,FUNC_0
+proc_create_data,FUNC_1
+proc_mkdir,FUNC_2
+sprintf,FUNC_3
+DAC960_CreateProcEntries,FUNC_4
+Controller,VAR_7
+StatusProcEntry,VAR_8
+ControllerProcEntry,VAR_9
+UserCommandProcEntry,VAR_10

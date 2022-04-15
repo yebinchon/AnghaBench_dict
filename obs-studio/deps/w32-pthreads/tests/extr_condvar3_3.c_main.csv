@@ -1,0 +1,16 @@
+ETIMEDOUT,VAR_0
+PTW32_FTIME,FUNC_0
+assert,FUNC_1
+cnd,VAR_1
+mtx,VAR_2
+pthread_cond_init,FUNC_2
+pthread_cond_signal,FUNC_3
+pthread_cond_timedwait,FUNC_4
+pthread_mutex_init,FUNC_5
+pthread_mutex_lock,FUNC_6
+pthread_mutex_unlock,FUNC_7
+main,FUNC_8
+rc,VAR_3
+abstime,VAR_4
+currSysTime,VAR_5
+NANOSEC_PER_MILLISEC,VAR_6

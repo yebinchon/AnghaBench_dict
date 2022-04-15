@@ -1,0 +1,12 @@
+PVR2_CVAL_INPUT_RADIO,VAR_0
+PVR2_TRACE_CHIPS,VAR_1
+V4L2_TUNER_ANALOG_TV,VAR_2
+V4L2_TUNER_RADIO,VAR_3
+g_tuner,VAR_4
+memset,FUNC_0
+pvr2_trace,FUNC_1
+tuner,VAR_5
+v4l2_device_call_all,FUNC_2
+pvr2_hdw_status_poll,FUNC_3
+hdw,VAR_6
+vtp,VAR_7

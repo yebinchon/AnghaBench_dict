@@ -1,0 +1,15 @@
+PCIBIOS_SUCCESSFUL,VAR_0
+mkaddr,FUNC_0
+pci_lock,VAR_1
+read_cfgdata,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+write_cfgaddr,FUNC_4
+pci_read_config,FUNC_5
+bus,VAR_2
+devfn,VAR_3
+where,VAR_4
+size,VAR_5
+val,VAR_6
+flags,VAR_7
+data,VAR_8

@@ -1,0 +1,12 @@
+AUTH_TOKEN_EXPIRED,VAR_0
+AUTH_TOKEN_HMAC_OK,VAR_1
+assert_int_equal,FUNC_0
+free,FUNC_1
+generate_auth_token,FUNC_2
+now,VAR_2
+strcpy,FUNC_3
+strdup,FUNC_4
+verify_auth_token,FUNC_5
+auth_token_test_timeout,FUNC_6
+state,VAR_3
+ctx,VAR_4

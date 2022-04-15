@@ -1,0 +1,10 @@
+INTERRUPT_MASK_RW_VER_10,VAR_0
+REG_INTERRUPT_ENABLE,VAR_1
+UFSHCI_VERSION_10,VAR_2
+ufshcd_readl,FUNC_0
+ufshcd_writel,FUNC_1
+ufshcd_enable_intr,FUNC_2
+hba,VAR_3
+intrs,VAR_4
+set,VAR_5
+rw,VAR_6

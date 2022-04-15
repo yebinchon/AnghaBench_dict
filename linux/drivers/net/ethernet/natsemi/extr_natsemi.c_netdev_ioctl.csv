@@ -1,0 +1,16 @@
+EOPNOTSUPP,VAR_0
+MII_ADVERTISE,VAR_1
+PORT_TP,VAR_2
+if_mii,FUNC_0
+mdio_read,FUNC_1
+mdio_write,FUNC_2
+miiport_read,FUNC_3
+miiport_write,FUNC_4
+move_int_phy,FUNC_5
+netdev_priv,FUNC_6
+netdev_ioctl,FUNC_7
+dev,VAR_3
+rq,VAR_4
+cmd,VAR_5
+data,VAR_6
+np,VAR_7

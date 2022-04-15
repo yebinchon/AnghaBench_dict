@@ -1,0 +1,12 @@
+NPCM7XX_REG_TCSR0,VAR_0
+NPCM7XX_REG_TICR0,VAR_1
+NPCM7XX_START_Tx,VAR_2
+readl,FUNC_0
+timer_of_base,FUNC_1
+to_timer_of,FUNC_2
+writel,FUNC_3
+npcm7xx_clockevent_set_next_event,FUNC_4
+evt,VAR_3
+clk,VAR_4
+to,VAR_5
+val,VAR_6

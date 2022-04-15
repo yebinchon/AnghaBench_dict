@@ -1,0 +1,13 @@
+BRIDGE_IRQ_CAUSE_ARMADAXP,VAR_0
+CPU_TIMER2_AUTO,VAR_1
+CPU_TIMER2_EN,VAR_2
+CPU_TIMER_WD_25MHZ_EN,VAR_3
+IRQ_TIMER_WD_CLR_ARMADAXP,VAR_4
+mv_get_timer_control,FUNC_0
+mv_set_timer_control,FUNC_1
+mv_wdt_enable_armada_38x_xp_helper,FUNC_2
+read_cpu_ctrl,FUNC_3
+write_cpu_ctrl,FUNC_4
+mv_wdt_enable_armada_xp,FUNC_5
+val,VAR_5
+irq_cause,VAR_6

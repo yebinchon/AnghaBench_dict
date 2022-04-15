@@ -1,0 +1,15 @@
+ACD_USB_BRIGHTNESS,VAR_0
+ACD_USB_TIMEOUT,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_REQ_SET_REPORT,VAR_4
+USB_TYPE_CLASS,VAR_5
+bl_get_data,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+usb_control_msg,FUNC_3
+usb_sndctrlpipe,FUNC_4
+appledisplay_bl_update_status,FUNC_5
+bd,VAR_6
+pdata,VAR_7
+retval,VAR_8

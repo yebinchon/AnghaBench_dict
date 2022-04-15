@@ -1,0 +1,11 @@
+SND_JACK_AVOUT,VAR_0
+SND_JACK_HEADPHONE,VAR_1
+SND_JACK_LINEIN,VAR_2
+SND_JACK_LINEOUT,VAR_3
+SND_JACK_MICROPHONE,VAR_4
+get_defcfg_device,FUNC_0
+snd_hda_codec_get_pincfg,FUNC_1
+get_input_jack_type,FUNC_2
+codec,VAR_5
+nid,VAR_6
+def_conf,VAR_7

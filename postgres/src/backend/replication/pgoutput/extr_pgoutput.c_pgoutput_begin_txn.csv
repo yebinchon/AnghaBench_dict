@@ -1,0 +1,11 @@
+InvalidRepOriginId,VAR_0
+OutputPluginPrepareWrite,FUNC_0
+OutputPluginWrite,FUNC_1
+logicalrep_write_begin,FUNC_2
+logicalrep_write_origin,FUNC_3
+replorigin_by_oid,FUNC_4
+pgoutput_begin_txn,FUNC_5
+ctx,VAR_1
+txn,VAR_2
+send_replication_origin,VAR_3
+origin,VAR_4

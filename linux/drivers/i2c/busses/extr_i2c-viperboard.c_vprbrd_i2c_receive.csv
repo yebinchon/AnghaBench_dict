@@ -1,0 +1,15 @@
+EREMOTEIO,VAR_0
+VPRBRD_EP_IN,VAR_1
+VPRBRD_EP_OUT,VAR_2
+VPRBRD_USB_TIMEOUT_MS,VAR_3
+dev_err,FUNC_0
+usb_bulk_msg,FUNC_1
+usb_rcvbulkpipe,FUNC_2
+usb_sndbulkpipe,FUNC_3
+vprbrd_i2c_receive,FUNC_4
+usb_dev,VAR_4
+rmsg,VAR_5
+bytes_xfer,VAR_6
+ret,VAR_7
+bytes_actual,VAR_8
+error,VAR_9

@@ -1,0 +1,15 @@
+LIO_DRV_NAME,VAR_0
+LIO_MAX_DEVICES,VAR_1
+MTX_DEF,VAR_2
+lio_allocate_device_mem,FUNC_0
+mtx_init,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+octeon_device,VAR_3
+octeon_device_count,VAR_4
+octeon_devices_lock,VAR_5
+snprintf,FUNC_4
+lio_allocate_device,FUNC_5
+device,VAR_6
+oct,VAR_7
+oct_idx,VAR_8

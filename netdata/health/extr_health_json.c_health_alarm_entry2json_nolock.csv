@@ -1,0 +1,15 @@
+HEALTH_ENTRY_FLAG_EXEC_FAILED,VAR_0
+HEALTH_ENTRY_FLAG_NO_CLEAR_NOTIFICATION,VAR_1
+HEALTH_ENTRY_FLAG_PROCESSED,VAR_2
+HEALTH_ENTRY_FLAG_SILENCED,VAR_3
+HEALTH_ENTRY_FLAG_UPDATED,VAR_4
+buffer_rrd_value,FUNC_0
+buffer_sprintf,FUNC_1
+buffer_strcat,FUNC_2
+health_string2json,FUNC_3
+rrdcalc_status2string,FUNC_4
+unlikely,FUNC_5
+health_alarm_entry2json_nolock,FUNC_6
+wb,VAR_5
+ae,VAR_6
+host,VAR_7

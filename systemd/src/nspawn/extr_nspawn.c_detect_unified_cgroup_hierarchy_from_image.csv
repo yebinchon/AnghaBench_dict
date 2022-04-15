@@ -1,0 +1,13 @@
+CGROUP_UNIFIED_ALL,VAR_0
+CGROUP_UNIFIED_NONE,VAR_1
+CGROUP_UNIFIED_SYSTEMD,VAR_2
+SYSTEMD_CGROUP_CONTROLLER,VAR_3
+arg_unified_cgroup_hierarchy,VAR_4
+cg_all_unified,FUNC_0
+cg_unified_controller,FUNC_1
+log_debug,FUNC_2
+log_error_errno,FUNC_3
+systemd_installation_has_version,FUNC_4
+detect_unified_cgroup_hierarchy_from_image,FUNC_5
+directory,VAR_5
+r,VAR_6

@@ -1,0 +1,14 @@
+S_ISDIR,FUNC_0
+S_ISLNK,FUNC_1
+S_ISREG,FUNC_2
+clear_inode,FUNC_3
+inode_needs_sync,FUNC_4
+invalidate_inode_buffers,FUNC_5
+is_bad_inode,FUNC_6
+truncate_inode_pages_final,FUNC_7
+ufs_free_inode,FUNC_8
+ufs_truncate_blocks,FUNC_9
+ufs_update_inode,FUNC_10
+ufs_evict_inode,FUNC_11
+inode,VAR_0
+want_delete,VAR_1

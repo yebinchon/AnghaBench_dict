@@ -1,0 +1,14 @@
+DEBUGFUNC,FUNC_0
+IXGBE_I2CCTL_BY_MAC,FUNC_1
+IXGBE_I2C_BB_EN_BY_MAC,FUNC_2
+IXGBE_I2C_T_HD_STA,VAR_0
+IXGBE_I2C_T_LOW,VAR_1
+IXGBE_I2C_T_SU_STA,VAR_2
+IXGBE_READ_REG,FUNC_3
+ixgbe_lower_i2c_clk,FUNC_4
+ixgbe_raise_i2c_clk,FUNC_5
+ixgbe_set_i2c_data,FUNC_6
+usec_delay,FUNC_7
+ixgbe_i2c_start,FUNC_8
+hw,VAR_3
+i2cctl,VAR_4

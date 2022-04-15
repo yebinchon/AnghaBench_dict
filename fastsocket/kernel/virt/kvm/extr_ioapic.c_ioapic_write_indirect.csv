@@ -1,0 +1,14 @@
+IOAPIC_LEVEL_TRIG,VAR_0
+IOAPIC_NUM_PINS,VAR_1
+KVM_IRQCHIP_IOAPIC,VAR_2
+ioapic_debug,FUNC_0
+ioapic_service,FUNC_1
+kvm_fire_mask_notifiers,FUNC_2
+update_handled_vectors,FUNC_3
+ioapic_write_indirect,FUNC_4
+ioapic,VAR_3
+val,VAR_4
+index,VAR_5
+mask_before,VAR_6
+mask_after,VAR_7
+e,VAR_8

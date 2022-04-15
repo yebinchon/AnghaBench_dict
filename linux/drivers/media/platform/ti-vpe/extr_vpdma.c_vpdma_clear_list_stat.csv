@@ -1,0 +1,8 @@
+VPDMA_INTX_OFFSET,VAR_0
+VPDMA_INT_LIST0_STAT,VAR_1
+write_reg,FUNC_0
+vpdma_clear_list_stat,FUNC_1
+vpdma,VAR_2
+irq_num,VAR_3
+list_num,VAR_4
+reg_addr,VAR_5

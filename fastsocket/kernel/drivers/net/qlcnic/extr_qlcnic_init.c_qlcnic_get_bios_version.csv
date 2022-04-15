@@ -1,0 +1,11 @@
+QLCNIC_BIOS_VERSION_OFFSET,VAR_0
+QLCNIC_UNIFIED_ROMIMAGE,VAR_1
+QLCNIC_UNI_BIOS_VERSION_OFF,VAR_2
+le32_to_cpu,FUNC_0
+qlcnic_get_bios_version,FUNC_1
+adapter,VAR_3
+fw,VAR_4
+bios_ver,VAR_5
+prd_off,VAR_6
+version_offset,VAR_7
+temp,VAR_8

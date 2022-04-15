@@ -1,0 +1,15 @@
+TIPC_LINK_DOWN_EVT,VAR_0
+TIPC_LINK_SND_STATE,VAR_1
+msg_probe,FUNC_0
+tipc_bcast_sync_rcv,FUNC_1
+tipc_link_build_state_msg,FUNC_2
+tipc_node_read_lock,FUNC_3
+tipc_node_read_unlock,FUNC_4
+tipc_node_reset_links,FUNC_5
+tipc_node_bc_sync_rcv,FUNC_6
+n,VAR_2
+hdr,VAR_3
+bearer_id,VAR_4
+xmitq,VAR_5
+ucl,VAR_6
+rc,VAR_7

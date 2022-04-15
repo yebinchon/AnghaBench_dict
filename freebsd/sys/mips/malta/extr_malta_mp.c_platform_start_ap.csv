@@ -1,0 +1,17 @@
+DELAY,FUNC_0
+MVPCONTROL_VPC,VAR_0
+TCSTATUS_A,VAR_1
+VPECONF0_VPA,VAR_2
+atomic_cmpset_32,FUNC_1
+evpe,FUNC_2
+malta_ap_boot,VAR_3
+mftc0,FUNC_3
+mttc0,FUNC_4
+printf,FUNC_5
+read_c0_register32,FUNC_6
+set_thread_context,FUNC_7
+write_c0_register32,FUNC_8
+platform_start_ap,FUNC_9
+cpuid,VAR_4
+reg,VAR_5
+timeout,VAR_6

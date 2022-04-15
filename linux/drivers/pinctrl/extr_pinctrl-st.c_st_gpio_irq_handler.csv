@@ -1,0 +1,11 @@
+__gpio_irq_handler,FUNC_0
+chained_irq_enter,FUNC_1
+chained_irq_exit,FUNC_2
+gpiochip_get_data,FUNC_3
+irq_desc_get_chip,FUNC_4
+irq_desc_get_handler_data,FUNC_5
+st_gpio_irq_handler,FUNC_6
+desc,VAR_0
+chip,VAR_1
+gc,VAR_2
+bank,VAR_3

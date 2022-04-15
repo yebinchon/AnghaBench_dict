@@ -1,0 +1,11 @@
+MARVELL_PHY_M1118_DNS323_LEDS,VAR_0
+MII_MARVELL_COPPER_PAGE,VAR_1
+MII_MARVELL_LED_PAGE,VAR_2
+MII_MARVELL_MSCR_PAGE,VAR_3
+genphy_soft_reset,FUNC_0
+marvell_of_reg_init,FUNC_1
+marvell_set_page,FUNC_2
+phy_write,FUNC_3
+m88e1118_config_init,FUNC_4
+phydev,VAR_4
+err,VAR_5

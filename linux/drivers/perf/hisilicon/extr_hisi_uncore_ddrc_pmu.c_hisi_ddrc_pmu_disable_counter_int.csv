@@ -1,0 +1,8 @@
+DDRC_INT_MASK,VAR_0
+GET_DDRC_EVENTID,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+hisi_ddrc_pmu_disable_counter_int,FUNC_3
+ddrc_pmu,VAR_1
+hwc,VAR_2
+val,VAR_3

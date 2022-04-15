@@ -1,0 +1,16 @@
+DRM_SWITCH_POWER_CHANGING,VAR_0
+DRM_SWITCH_POWER_OFF,VAR_1
+DRM_SWITCH_POWER_ON,VAR_2
+VGA_SWITCHEROO_OFF,VAR_3
+VGA_SWITCHEROO_ON,VAR_4
+drm_kms_helper_poll_disable,FUNC_0
+drm_kms_helper_poll_enable,FUNC_1
+pci_get_drvdata,FUNC_2
+pr_info,FUNC_3
+radeon_is_px,FUNC_4
+radeon_resume_kms,FUNC_5
+radeon_suspend_kms,FUNC_6
+radeon_switcheroo_set_state,FUNC_7
+pdev,VAR_5
+state,VAR_6
+dev,VAR_7

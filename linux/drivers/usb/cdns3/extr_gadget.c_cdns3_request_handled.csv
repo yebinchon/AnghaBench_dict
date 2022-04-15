@@ -1,0 +1,15 @@
+EP_CMD_DRDY,VAR_0
+TRBS_PER_SEGMENT,VAR_1
+TRB_CYCLE,VAR_2
+USB_ENDPOINT_XFER_ISOC,VAR_3
+cdns3_get_dma_pos,FUNC_0
+readl,FUNC_1
+trace_cdns3_request_handled,FUNC_2
+cdns3_request_handled,FUNC_3
+priv_ep,VAR_4
+priv_req,VAR_5
+priv_dev,VAR_6
+trb,VAR_7
+current_index,VAR_8
+handled,VAR_9
+doorbell,VAR_10

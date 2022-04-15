@@ -1,0 +1,13 @@
+CXGB4_TX_CRYPTO,VAR_0
+local_bh_disable,FUNC_0
+local_bh_enable,FUNC_1
+netdev2adap,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+cxgb4_is_crypto_q_full,FUNC_5
+dev,VAR_1
+idx,VAR_2
+adap,VAR_3
+txq_info,VAR_4
+txq,VAR_5
+ret,VAR_6

@@ -1,0 +1,11 @@
+S390_lowcore,VAR_0
+enabled_wait,FUNC_0
+get_tod_clock_fast,FUNC_1
+local_tick_disable,FUNC_2
+local_tick_enable,FUNC_3
+set_clock_comparator,FUNC_4
+tod_after,FUNC_5
+__udelay_enabled,FUNC_6
+usecs,VAR_1
+clock_saved,VAR_2
+end,VAR_3

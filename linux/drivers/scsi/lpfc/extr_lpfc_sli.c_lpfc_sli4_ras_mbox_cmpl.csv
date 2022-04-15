@@ -1,0 +1,17 @@
+KERN_ERR,VAR_0
+LOG_MBOX,VAR_1
+MBX_SUCCESS,VAR_2
+bf_get,FUNC_0
+lpfc_mbox_hdr_add_status,VAR_3
+lpfc_mbox_hdr_status,VAR_4
+lpfc_printf_log,FUNC_1
+lpfc_sli4_ras_dma_free,FUNC_2
+mempool_free,FUNC_3
+lpfc_sli4_ras_mbox_cmpl,FUNC_4
+phba,VAR_5
+pmb,VAR_6
+mb,VAR_7
+shdr,VAR_8
+shdr_status,VAR_9
+shdr_add_status,VAR_10
+ras_fwlog,VAR_11

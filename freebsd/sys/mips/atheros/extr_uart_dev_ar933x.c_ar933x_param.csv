@@ -1,0 +1,15 @@
+AR933X_UART_CLOCK_REG,VAR_0
+AR933X_UART_CLOCK_SCALE_M,VAR_1
+AR933X_UART_CLOCK_SCALE_S,VAR_2
+AR933X_UART_CLOCK_STEP_M,VAR_3
+ar933x_setreg,FUNC_0
+ar933x_uart_get_scale_step,FUNC_1
+uart_barrier,FUNC_2
+ar933x_param,FUNC_3
+bas,VAR_4
+baudrate,VAR_5
+databits,VAR_6
+stopbits,VAR_7
+parity,VAR_8
+clock_scale,VAR_9
+clock_step,VAR_10

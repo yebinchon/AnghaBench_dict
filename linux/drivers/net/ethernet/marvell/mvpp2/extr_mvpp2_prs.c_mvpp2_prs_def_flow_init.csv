@@ -1,0 +1,16 @@
+MVPP2_MAX_PORTS,VAR_0
+MVPP2_PE_FIRST_DEFAULT_FLOW,VAR_1
+MVPP2_PRS_FLOW_ID_MASK,VAR_2
+MVPP2_PRS_LU_FLOWS,VAR_3
+MVPP2_PRS_SRAM_LU_DONE_BIT,VAR_4
+memset,FUNC_0
+mvpp2_prs_hw_write,FUNC_1
+mvpp2_prs_shadow_set,FUNC_2
+mvpp2_prs_sram_ai_update,FUNC_3
+mvpp2_prs_sram_bits_set,FUNC_4
+mvpp2_prs_tcam_lu_set,FUNC_5
+mvpp2_prs_tcam_port_map_set,FUNC_6
+mvpp2_prs_def_flow_init,FUNC_7
+priv,VAR_5
+pe,VAR_6
+port,VAR_7

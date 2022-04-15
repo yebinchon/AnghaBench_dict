@@ -1,0 +1,16 @@
+RRDDIM_FLAG_NONE,VAR_0
+rrddim_add,FUNC_0
+snprintfz,FUNC_1
+strcmp,FUNC_2
+strlen,FUNC_3
+valuetype2string,FUNC_4
+statsd_add_dim_to_app_chart,FUNC_5
+app,VAR_1
+chart,VAR_2
+dim,VAR_3
+tdim,VAR_4
+count_same_metric,VAR_5
+count_same_metric_value_type,VAR_6
+pos_same_metric_value_type,VAR_7
+len,VAR_8
+metric,VAR_9

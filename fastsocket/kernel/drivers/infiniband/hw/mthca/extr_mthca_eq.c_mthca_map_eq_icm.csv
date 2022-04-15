@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+GFP_HIGHUSER,VAR_1
+PAGE_SIZE,VAR_2
+PCI_DMA_BIDIRECTIONAL,VAR_3
+__free_page,FUNC_0
+alloc_page,FUNC_1
+mthca_MAP_ICM_page,FUNC_2
+pci_dma_mapping_error,FUNC_3
+pci_map_page,FUNC_4
+pci_unmap_page,FUNC_5
+mthca_map_eq_icm,FUNC_6
+dev,VAR_4
+icm_virt,VAR_5
+ret,VAR_6

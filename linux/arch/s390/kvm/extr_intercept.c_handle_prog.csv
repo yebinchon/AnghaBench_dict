@@ -1,0 +1,15 @@
+EOPNOTSUPP,VAR_0
+PGM_SPECIFICATION,VAR_1
+__LC_PGM_NEW_PSW,VAR_2
+guestdbg_enabled,FUNC_0
+handle_itdb,FUNC_1
+inject_prog_on_prog_intercept,FUNC_2
+is_valid_psw,FUNC_3
+kvm_s390_handle_per_event,FUNC_4
+per_event,FUNC_5
+read_guest_lc,FUNC_6
+trace_kvm_s390_intercept_prog,FUNC_7
+handle_prog,FUNC_8
+vcpu,VAR_3
+psw,VAR_4
+rc,VAR_5

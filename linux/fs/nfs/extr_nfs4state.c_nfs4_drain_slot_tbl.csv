@@ -1,0 +1,9 @@
+NFS4_NO_SLOT,VAR_0
+NFS4_SLOT_TBL_DRAINING,VAR_1
+reinit_completion,FUNC_0
+set_bit,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+wait_for_completion_interruptible,FUNC_4
+nfs4_drain_slot_tbl,FUNC_5
+tbl,VAR_2

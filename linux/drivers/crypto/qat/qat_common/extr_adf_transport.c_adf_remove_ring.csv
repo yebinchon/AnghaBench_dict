@@ -1,0 +1,10 @@
+WRITE_CSR_RING_BASE,FUNC_0
+WRITE_CSR_RING_CONFIG,FUNC_1
+adf_cleanup_ring,FUNC_2
+adf_disable_ring_irq,FUNC_3
+adf_ring_debugfs_rm,FUNC_4
+adf_unreserve_ring,FUNC_5
+adf_update_ring_arb,FUNC_6
+adf_remove_ring,FUNC_7
+ring,VAR_0
+bank,VAR_1

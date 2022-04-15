@@ -1,0 +1,13 @@
+ZSTD_decompressSequences,FUNC_0
+ZSTDv01_decodeLiteralsBlock,FUNC_1
+ZSTDv01_isError,FUNC_2
+ZSTD_decompressBlock,FUNC_3
+ctx,VAR_0
+dst,VAR_1
+maxDstSize,VAR_2
+src,VAR_3
+srcSize,VAR_4
+ip,VAR_5
+litPtr,VAR_6
+litSize,VAR_7
+errorCode,VAR_8

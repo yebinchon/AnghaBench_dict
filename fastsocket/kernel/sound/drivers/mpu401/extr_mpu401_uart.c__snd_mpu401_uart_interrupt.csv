@@ -1,0 +1,12 @@
+MPU401_INFO_INPUT,VAR_0
+MPU401_INFO_TX_IRQ,VAR_1
+MPU401_MODE_BIT_INPUT,VAR_2
+snd_mpu401_uart_clear_rx,FUNC_0
+snd_mpu401_uart_input_read,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+test_bit,FUNC_4
+uart_interrupt_tx,FUNC_5
+_snd_mpu401_uart_interrupt,FUNC_6
+mpu,VAR_3
+flags,VAR_4

@@ -1,0 +1,11 @@
+ACTMON_DEV_CTRL,VAR_0
+ACTMON_DEV_INTR_STATUS,VAR_1
+ACTMON_INTR_STATUS_CLEAR,VAR_2
+ARRAY_SIZE,FUNC_0
+actmon_write_barrier,FUNC_1
+device_writel,FUNC_2
+disable_irq,FUNC_3
+enable_irq,FUNC_4
+tegra_actmon_stop,FUNC_5
+tegra,VAR_3
+i,VAR_4

@@ -1,0 +1,15 @@
+XCB_CW_CURSOR,VAR_0
+conn,VAR_1
+load_font,FUNC_0
+root,VAR_2
+xcb_change_window_attributes,FUNC_1
+xcb_create_glyph_cursor,FUNC_2
+xcb_flush,FUNC_3
+xcb_free_cursor,FUNC_4
+xcb_generate_id,FUNC_5
+xcursor_get_xcb_cursor,FUNC_6
+xcb_set_root_cursor,FUNC_7
+cursor,VAR_3
+cursor_id,VAR_4
+cursor_font,VAR_5
+xcb_cursor,VAR_6

@@ -1,0 +1,9 @@
+EP93XX_RTC_LOAD,VAR_0
+dev_get_platdata,FUNC_0
+rtc_tm_to_time64,FUNC_1
+writel,FUNC_2
+ep93xx_rtc_set_time,FUNC_3
+dev,VAR_1
+tm,VAR_2
+ep93xx_rtc,VAR_3
+secs,VAR_4

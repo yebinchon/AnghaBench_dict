@@ -1,0 +1,13 @@
+ASC_EEP_CMD_WRITE,VAR_0
+ASC_EEP_CMD_WRITE_ABLE,VAR_1
+ASC_EEP_CMD_WRITE_DISABLE,VAR_2
+AscReadEEPWord,FUNC_0
+AscWaitEEPRead,FUNC_1
+AscWaitEEPWrite,FUNC_2
+AscWriteEEPCmdReg,FUNC_3
+AscWriteEEPDataReg,FUNC_4
+AscWriteEEPWord,FUNC_5
+iop_base,VAR_3
+addr,VAR_4
+word_val,VAR_5
+read_wval,VAR_6

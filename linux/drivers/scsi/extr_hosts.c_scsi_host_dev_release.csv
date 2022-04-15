@@ -1,0 +1,16 @@
+SHOST_CREATED,VAR_0
+destroy_workqueue,FUNC_0
+dev_name,FUNC_1
+dev_to_shost,FUNC_2
+host_index_ida,VAR_1
+ida_simple_remove,FUNC_3
+kfree,FUNC_4
+kthread_stop,FUNC_5
+put_device,FUNC_6
+rcu_barrier,FUNC_7
+scsi_mq_destroy_tags,FUNC_8
+scsi_proc_hostdir_rm,FUNC_9
+scsi_host_dev_release,FUNC_10
+dev,VAR_2
+shost,VAR_3
+parent,VAR_4

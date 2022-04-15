@@ -1,0 +1,13 @@
+BUG_ON,FUNC_0
+btrfs_assert_spinning_readers_get,FUNC_1
+btrfs_assert_tree_read_locks_get,FUNC_2
+current,VAR_0
+ktime_get_ns,FUNC_3
+read_lock,FUNC_4
+read_unlock,FUNC_5
+trace_btrfs_tree_read_lock,FUNC_6
+trace_btrfs_tree_read_lock_enabled,FUNC_7
+wait_event,FUNC_8
+btrfs_tree_read_lock,FUNC_9
+eb,VAR_1
+start_ns,VAR_2

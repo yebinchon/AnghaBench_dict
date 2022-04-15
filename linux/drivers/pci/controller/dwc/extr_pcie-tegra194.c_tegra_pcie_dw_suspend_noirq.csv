@@ -1,0 +1,9 @@
+PORT_LOGIC_MSI_CTRL_INT_0_EN,VAR_0
+__deinit_controller,FUNC_0
+dev_get_drvdata,FUNC_1
+dw_pcie_readl_dbi,FUNC_2
+tegra_pcie_downstream_dev_to_D0,FUNC_3
+tegra_pcie_dw_pme_turnoff,FUNC_4
+tegra_pcie_dw_suspend_noirq,FUNC_5
+dev,VAR_1
+pcie,VAR_2

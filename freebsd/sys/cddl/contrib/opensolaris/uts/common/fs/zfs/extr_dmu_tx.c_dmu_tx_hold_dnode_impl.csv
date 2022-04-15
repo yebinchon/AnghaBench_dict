@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+KM_SLEEP,VAR_0
+kmem_zalloc,FUNC_1
+list_insert_tail,FUNC_2
+mutex_enter,FUNC_3
+mutex_exit,FUNC_4
+zfs_refcount_add,FUNC_5
+zfs_refcount_create,FUNC_6
+dmu_tx_hold_dnode_impl,FUNC_7
+tx,VAR_1
+dn,VAR_2
+type,VAR_3
+arg1,VAR_4
+arg2,VAR_5
+txh,VAR_6

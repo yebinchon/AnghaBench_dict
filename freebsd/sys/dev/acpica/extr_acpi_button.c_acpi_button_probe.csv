@@ -1,0 +1,15 @@
+ACPI_ID_PROBE,FUNC_0
+ACPI_POWER_BUTTON,VAR_0
+ACPI_SLEEP_BUTTON,VAR_1
+ENXIO,VAR_2
+acpi_disabled,FUNC_1
+btn_ids,VAR_3
+device_get_parent,FUNC_2
+device_get_softc,FUNC_3
+device_set_desc,FUNC_4
+strcmp,FUNC_5
+acpi_button_probe,FUNC_6
+dev,VAR_4
+sc,VAR_5
+str,VAR_6
+rv,VAR_7

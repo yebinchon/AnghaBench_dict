@@ -1,0 +1,14 @@
+CreateStreamOnHGlobal,FUNC_0
+IStream_Seek,FUNC_1
+IStream_SetSize,FUNC_2
+IStream_Write,FUNC_3
+STREAM_SEEK_SET,VAR_0
+TRUE,VAR_1
+strlen,FUNC_4
+create_test_stream,FUNC_5
+data,VAR_2
+len,VAR_3
+size,VAR_4
+pos,VAR_5
+stream,VAR_6
+written,VAR_7

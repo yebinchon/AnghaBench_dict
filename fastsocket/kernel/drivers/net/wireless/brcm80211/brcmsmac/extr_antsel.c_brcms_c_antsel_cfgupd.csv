@@ -1,0 +1,12 @@
+ANT_SELCFG_RX_DEF,VAR_0
+ANT_SELCFG_TX_DEF,VAR_1
+M_MIMO_ANTSEL_RXDFLT,VAR_2
+M_MIMO_ANTSEL_TXDFLT,VAR_3
+brcms_b_write_shm,FUNC_0
+brcms_c_antsel_antcfg2antsel,FUNC_1
+brcms_c_antsel_cfgupd,FUNC_2
+asi,VAR_4
+antsel,VAR_5
+wlc,VAR_6
+ant_cfg,VAR_7
+mimo_antsel,VAR_8

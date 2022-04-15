@@ -1,0 +1,11 @@
+STATE_IDLE,VAR_0
+STATE_SENDING_CMD,VAR_1
+STATE_WAITING_CMD11_DONE,VAR_2
+dev_vdbg,FUNC_0
+dev_warn,FUNC_1
+dw_mci_start_request,FUNC_2
+list_add_tail,FUNC_3
+dw_mci_queue_request,FUNC_4
+host,VAR_3
+slot,VAR_4
+mrq,VAR_5

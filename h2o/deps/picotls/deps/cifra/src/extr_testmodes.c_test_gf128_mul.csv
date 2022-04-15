@@ -1,0 +1,13 @@
+TEST_CHECK,FUNC_0
+cf_gf128_frombytes_be,FUNC_1
+cf_gf128_mul,FUNC_2
+cf_gf128_tobytes_be,FUNC_3
+memcmp,FUNC_4
+test_gf128_mul,FUNC_5
+bout,VAR_0
+bx,VAR_1
+by,VAR_2
+bexpect,VAR_3
+x,VAR_4
+y,VAR_5
+out,VAR_6

@@ -1,0 +1,11 @@
+FIONBIO,VAR_0
+F_GETFL,VAR_1
+F_SETFL,VAR_2
+O_NONBLOCK,VAR_3
+SOCKET_ERROR,VAR_4
+ccnet_warning,FUNC_0
+fcntl,FUNC_1
+ioctlsocket,FUNC_2
+ccnet_net_make_socket_blocking,FUNC_3
+fd,VAR_5
+flags,VAR_6

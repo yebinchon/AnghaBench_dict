@@ -1,0 +1,16 @@
+MLX5E_SQ_STATE_IPSEC,VAR_0
+MLX5E_SQ_STATE_TLS,VAR_1
+SKB_GSO_UDP_L4,VAR_2
+mlx5e_ipsec_handle_tx_skb,FUNC_0
+mlx5e_tls_handle_tx_skb,FUNC_1
+mlx5e_udp_gso_handle_tx_skb,FUNC_2
+skb_is_gso,FUNC_3
+skb_shinfo,FUNC_4
+test_bit,FUNC_5
+unlikely,FUNC_6
+mlx5e_accel_handle_tx,FUNC_7
+skb,VAR_3
+sq,VAR_4
+dev,VAR_5
+wqe,VAR_6
+pi,VAR_7

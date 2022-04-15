@@ -1,0 +1,17 @@
+RTP_INFO_NAME,VAR_0
+VC_CONTAINER_CONTROL_SET_NEXT_SEQUENCE_NUMBER,VAR_1
+VC_CONTAINER_CONTROL_SET_TIMESTAMP_BASE,VAR_2
+rtsp_parse_extract_parameter,FUNC_0
+sscanf,FUNC_1
+strcasecmp,FUNC_2
+vc_container_control,FUNC_3
+vc_containers_list_find_entry,FUNC_4
+rtsp_store_rtp_info,FUNC_5
+header_list,VAR_3
+t_module,VAR_4
+header,VAR_5
+ptr,VAR_6
+name,VAR_7
+value,VAR_8
+timestamp_base,VAR_9
+sequence_number,VAR_10

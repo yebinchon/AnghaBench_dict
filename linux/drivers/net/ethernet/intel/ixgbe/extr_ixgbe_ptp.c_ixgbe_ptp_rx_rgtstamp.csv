@@ -1,0 +1,14 @@
+IXGBE_READ_REG,FUNC_0
+IXGBE_RXSTMPH,VAR_0
+IXGBE_RXSTMPL,VAR_1
+IXGBE_TSYNCRXCTL,VAR_2
+IXGBE_TSYNCRXCTL_VALID,VAR_3
+ixgbe_ptp_convert_to_hwtstamp,FUNC_1
+skb_hwtstamps,FUNC_2
+ixgbe_ptp_rx_rgtstamp,FUNC_3
+q_vector,VAR_4
+skb,VAR_5
+adapter,VAR_6
+hw,VAR_7
+regval,VAR_8
+tsyncrxctl,VAR_9

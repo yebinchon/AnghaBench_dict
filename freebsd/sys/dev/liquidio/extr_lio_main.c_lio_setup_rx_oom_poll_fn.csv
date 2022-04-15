@@ -1,0 +1,16 @@
+M_WAITOK,VAR_0
+PI_NET,VAR_1
+TIMEOUT_TASK_INIT,FUNC_0
+if_getsoftc,FUNC_1
+lio_dev_err,FUNC_2
+lio_ms_to_ticks,FUNC_3
+lio_poll_check_rx_oom_status,VAR_2
+taskqueue_create,FUNC_4
+taskqueue_enqueue_timeout,FUNC_5
+taskqueue_start_threads,FUNC_6
+taskqueue_thread_enqueue,VAR_3
+lio_setup_rx_oom_poll_fn,FUNC_7
+ifp,VAR_4
+lio,VAR_5
+oct,VAR_6
+rx_status_tq,VAR_7

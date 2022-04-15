@@ -1,0 +1,8 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+device_get_unit,FUNC_0
+device_set_desc,FUNC_1
+ofw_bus_is_compatible,FUNC_2
+ofw_bus_status_okay,FUNC_3
+jz4780_mmc_probe,FUNC_4
+dev,VAR_2

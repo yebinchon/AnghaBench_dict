@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+GEN5_CMD_EXECUTE_PANEL_SCAN,VAR_1
+PIP_APP_CMD_REPORT_ID,VAR_2
+PIP_CMD_COMPLETE_SUCCESS,FUNC_0
+PIP_OUTPUT_REPORT_ADDR,VAR_3
+VALID_CMD_RESP_HEADER,FUNC_1
+cyapa_i2c_pip_cmd_irq_sync,FUNC_2
+cyapa_sort_tsg_pip_app_resp_data,VAR_4
+memset,FUNC_3
+put_unaligned_le16,FUNC_4
+cyapa_gen5_execute_panel_scan,FUNC_5
+cyapa,VAR_5
+app_cmd_head,VAR_6
+cmd,VAR_7
+resp_data,VAR_8
+resp_len,VAR_9
+error,VAR_10

@@ -1,0 +1,10 @@
+B44_FLAG_WOL_ENABLE,VAR_0
+WAKE_MAGIC,VAR_1
+device_set_wakeup_enable,FUNC_0
+netdev_priv,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+b44_set_wol,FUNC_4
+dev,VAR_2
+wol,VAR_3
+bp,VAR_4

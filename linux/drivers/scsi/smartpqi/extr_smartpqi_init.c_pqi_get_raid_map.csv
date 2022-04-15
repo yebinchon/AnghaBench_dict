@@ -1,0 +1,16 @@
+CISS_GET_RAID_MAP,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+NO_TIMEOUT,VAR_3
+dev_warn,FUNC_0
+get_unaligned_le32,FUNC_1
+kfree,FUNC_2
+kmalloc,FUNC_3
+pqi_send_scsi_raid_request,FUNC_4
+pqi_validate_raid_map,FUNC_5
+pqi_get_raid_map,FUNC_6
+ctrl_info,VAR_4
+device,VAR_5
+rc,VAR_6
+raid_map_size,VAR_7
+raid_map,VAR_8

@@ -1,0 +1,10 @@
+BUS_DEACTIVATE_RESOURCE,FUNC_0
+device_get_parent,FUNC_1
+rman_deactivate_resource,FUNC_2
+generic_pcie_deactivate_resource,FUNC_3
+dev,VAR_0
+child,VAR_1
+type,VAR_2
+rid,VAR_3
+r,VAR_4
+res,VAR_5

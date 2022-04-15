@@ -1,0 +1,16 @@
+NAU8540_I2S_DO12_TRI,VAR_0
+NAU8540_I2S_DO34_TRI,VAR_1
+NAU8540_REG_PCM_CTRL1,VAR_2
+NAU8540_REG_PCM_CTRL2,VAR_3
+SND_SOC_DAPM_EVENT_OFF,FUNC_0
+SND_SOC_DAPM_EVENT_ON,FUNC_1
+msleep,FUNC_2
+regmap_update_bits,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+snd_soc_dapm_to_component,FUNC_5
+adc_power_control,FUNC_6
+w,VAR_4
+k,VAR_5
+event,VAR_6
+component,VAR_7
+nau8540,VAR_8

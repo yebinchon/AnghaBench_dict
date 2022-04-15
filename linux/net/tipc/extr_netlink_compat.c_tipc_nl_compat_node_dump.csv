@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+TIPC_NLA_NODE,VAR_1
+TIPC_NLA_NODE_ADDR,VAR_2
+TIPC_NLA_NODE_MAX,VAR_3
+TIPC_NLA_NODE_UP,VAR_4
+TIPC_TLV_NODE_INFO,VAR_5
+htonl,FUNC_0
+nla_get_flag,FUNC_1
+nla_get_u32,FUNC_2
+nla_parse_nested_deprecated,FUNC_3
+tipc_add_tlv,FUNC_4
+tipc_nl_compat_node_dump,FUNC_5
+msg,VAR_6
+attrs,VAR_7
+node_info,VAR_8
+node,VAR_9
+err,VAR_10

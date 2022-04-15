@@ -1,0 +1,11 @@
+BIT,FUNC_0
+STM32_GPIO_BSRR,VAR_0
+STM32_GPIO_PINS_PER_BANK,VAR_1
+clk_disable,FUNC_1
+clk_enable,FUNC_2
+stm32_gpio_backup_value,FUNC_3
+writel_relaxed,FUNC_4
+__stm32_gpio_set,FUNC_5
+bank,VAR_2
+offset,VAR_3
+value,VAR_4

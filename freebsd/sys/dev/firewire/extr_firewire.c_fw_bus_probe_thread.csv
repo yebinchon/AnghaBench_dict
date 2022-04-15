@@ -1,0 +1,16 @@
+FWBUSDETACH,VAR_0
+FWBUSEXPDONE,VAR_1
+FWBUSEXPLORE,VAR_2
+PCATCH,VAR_3
+PWAIT,VAR_4
+firewire_debug,VAR_5
+fw_attach_dev,FUNC_0
+fw_explore,FUNC_1
+kproc_exit,FUNC_2
+msleep,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+printf,FUNC_6
+fw_bus_probe_thread,FUNC_7
+arg,VAR_6
+fc,VAR_7

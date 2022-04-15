@@ -1,0 +1,17 @@
+CRYPTO_ALG_DEAD,VAR_0
+CRYPTO_ALG_LARVAL,VAR_1
+CRYPTO_ALG_NEED_FALLBACK,VAR_2
+CRYPTO_NOLOAD,VAR_3
+ENOENT,VAR_4
+ERR_PTR,FUNC_0
+IS_ERR_OR_NULL,FUNC_1
+crypto_alg_lookup,FUNC_2
+crypto_is_larval,FUNC_3
+crypto_larval_add,FUNC_4
+crypto_larval_wait,FUNC_5
+request_module,FUNC_6
+crypto_larval_lookup,FUNC_7
+name,VAR_5
+type,VAR_6
+mask,VAR_7
+alg,VAR_8

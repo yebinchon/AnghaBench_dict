@@ -1,0 +1,11 @@
+mlxsw_pci_wqe_address_get,FUNC_0
+mlxsw_pci_wqe_byte_count_get,FUNC_1
+pci_unmap_single,FUNC_2
+mlxsw_pci_wqe_frag_unmap,FUNC_3
+mlxsw_pci,VAR_0
+wqe,VAR_1
+index,VAR_2
+direction,VAR_3
+pdev,VAR_4
+frag_len,VAR_5
+mapaddr,VAR_6

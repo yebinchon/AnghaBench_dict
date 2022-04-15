@@ -1,0 +1,13 @@
+gpiochip_get_data,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+rdc_gpio_set_value_impl,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+rdc_gpio_config,FUNC_6
+chip,VAR_0
+gpio,VAR_1
+value,VAR_2
+gpch,VAR_3
+err,VAR_4
+reg,VAR_5

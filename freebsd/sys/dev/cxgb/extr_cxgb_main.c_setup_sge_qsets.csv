@@ -1,0 +1,16 @@
+SGE_TXQ_PER_SET,VAR_0
+USING_MSI,VAR_1
+USING_MSIX,VAR_2
+device_printf,FUNC_0
+t3_free_sge_resources,FUNC_1
+t3_sge_alloc,FUNC_2
+t3_sge_alloc_qset,FUNC_3
+setup_sge_qsets,FUNC_4
+sc,VAR_3
+i,VAR_4
+j,VAR_5
+err,VAR_6
+irq_idx,VAR_7
+qset_idx,VAR_8
+ntxq,VAR_9
+pi,VAR_10

@@ -1,0 +1,14 @@
+ASIC_IS_DCE8,FUNC_0
+AZ_ENDPOINT_REG_INDEX,FUNC_1
+AZ_ENDPOINT_REG_WRITE_EN,VAR_0
+AZ_F0_CODEC_ENDPOINT_DATA,VAR_1
+AZ_F0_CODEC_ENDPOINT_INDEX,VAR_2
+WREG32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+dce6_endpoint_wreg,FUNC_5
+rdev,VAR_3
+block_offset,VAR_4
+reg,VAR_5
+v,VAR_6
+flags,VAR_7

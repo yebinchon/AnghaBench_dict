@@ -1,0 +1,15 @@
+NETDEV_TX_BUSY,VAR_0
+NETDEV_TX_OK,VAR_1
+RT_LOCK,VAR_2
+RT_UNLOCK,VAR_3
+netif_stop_queue,FUNC_0
+skb_copy_from_linear_data,FUNC_1
+spans_boundary,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+virt_to_bus,FUNC_5
+z8530_tx_begin,FUNC_6
+z8530_queue_xmit,FUNC_7
+c,VAR_4
+skb,VAR_5
+flags,VAR_6

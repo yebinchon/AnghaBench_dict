@@ -1,0 +1,12 @@
+pci_is_pcie,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+qib_devinfo,FUNC_3
+qib_pcie_coalesce,VAR_0
+qib_tune_pcie_coalesce,FUNC_4
+dd,VAR_1
+parent,VAR_2
+devid,VAR_3
+mask,VAR_4
+bits,VAR_5
+val,VAR_6

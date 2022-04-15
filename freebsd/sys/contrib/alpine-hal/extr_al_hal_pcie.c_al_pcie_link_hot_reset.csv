@@ -1,0 +1,16 @@
+AL_PCIE_OPERATING_MODE_RC,VAR_0
+EINVAL,VAR_1
+PCIE_W_GLOBAL_CTRL_EVENTS_GEN_APP_RST_INIT,VAR_2
+al_dbg,FUNC_0
+al_err,FUNC_1
+al_pcie_is_link_started,FUNC_2
+al_pcie_operating_mode_get,FUNC_3
+al_reg_read32,FUNC_4
+al_reg_write32_masked,FUNC_5
+al_pcie_link_hot_reset,FUNC_6
+pcie_port,VAR_3
+enable,VAR_4
+regs,VAR_5
+events_gen,VAR_6
+app_reset_state,VAR_7
+op_mode,VAR_8

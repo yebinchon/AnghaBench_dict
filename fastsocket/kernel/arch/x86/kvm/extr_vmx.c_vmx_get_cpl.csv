@@ -1,0 +1,8 @@
+GUEST_CS_SELECTOR,VAR_0
+X86_CR0_PE,VAR_1
+X86_EFLAGS_VM,VAR_2
+kvm_read_cr0_bits,FUNC_0
+vmcs_read16,FUNC_1
+vmx_get_rflags,FUNC_2
+vmx_get_cpl,FUNC_3
+vcpu,VAR_3

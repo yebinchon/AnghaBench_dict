@@ -1,0 +1,11 @@
+CreateIoCompletionPort,FUNC_0
+HANDLE_FLAG_INHERIT,VAR_0
+INVALID_SOCKET,VAR_1
+SetHandleInformation,FUNC_1
+WSASocketW,FUNC_2
+WSA_FLAG_OVERLAPPED,VAR_2
+closesocket,FUNC_3
+uv__fast_poll_create_peer_socket,FUNC_4
+iocp,VAR_3
+protocol_info,VAR_4
+sock,VAR_5

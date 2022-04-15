@@ -1,0 +1,9 @@
+device_get_softc,FUNC_0
+jz_gpio_map_intr,FUNC_1
+jz4780_gpio_pic_map_intr,FUNC_2
+dev,VAR_0
+data,VAR_1
+isrcp,VAR_2
+sc,VAR_3
+retval,VAR_4
+irq,VAR_5

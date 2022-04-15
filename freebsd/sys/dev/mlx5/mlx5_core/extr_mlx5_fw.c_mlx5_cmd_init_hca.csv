@@ -1,0 +1,12 @@
+MLX5_CMD_OP_INIT_HCA,VAR_0
+MLX5_SET,FUNC_0
+MLX5_ST_SZ_DW,FUNC_1
+init_hca_in,VAR_1
+init_hca_out,VAR_2
+memset,FUNC_2
+mlx5_cmd_exec,FUNC_3
+opcode,VAR_3
+mlx5_cmd_init_hca,FUNC_4
+dev,VAR_4
+in,VAR_5
+out,VAR_6

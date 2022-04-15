@@ -1,0 +1,17 @@
+PAGE_SIZE,VAR_0
+PHYS_TO_DMAP,FUNC_0
+VM_PAGE_TO_PHYS,FUNC_1
+copy_page_dst_va,VAR_1
+copy_page_mutex,VAR_2
+copy_page_src_va,VAR_3
+memcpy,FUNC_2
+mmu_booke_kenter,FUNC_3
+mmu_booke_kremove,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+mmu_booke_copy_page,FUNC_7
+mmu,VAR_4
+sm,VAR_5
+dm,VAR_6
+sva,VAR_7
+dva,VAR_8

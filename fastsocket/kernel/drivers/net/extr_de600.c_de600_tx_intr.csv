@@ -1,0 +1,15 @@
+TX_ADDR,VAR_0
+TX_BUSY,VAR_1
+TX_ENABLE,VAR_2
+TX_FAILED16,VAR_3
+TX_PAGES,VAR_4
+de600_put_command,FUNC_0
+de600_setup_address,FUNC_1
+free_tx_pages,VAR_5
+jiffies,VAR_6
+netif_wake_queue,FUNC_2
+tx_fifo,VAR_7
+tx_fifo_out,VAR_8
+de600_tx_intr,FUNC_3
+dev,VAR_9
+irq_status,VAR_10

@@ -1,0 +1,14 @@
+EMFDRV_AddHandle,FUNC_0
+EMFDRV_WriteRecord,FUNC_1
+EMR_CREATEPEN,VAR_0
+GetObjectW,FUNC_2
+GetProcessHeap,FUNC_3
+HeapAlloc,FUNC_4
+HeapFree,FUNC_5
+EMFDRV_CreatePenIndirect,FUNC_6
+dev,VAR_1
+hPen,VAR_2
+emr,VAR_3
+index,VAR_4
+elp,VAR_5
+size,VAR_6

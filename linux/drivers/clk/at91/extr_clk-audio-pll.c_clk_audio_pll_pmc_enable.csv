@@ -1,0 +1,9 @@
+AT91_PMC_AUDIO_PLL0,VAR_0
+AT91_PMC_AUDIO_PLL_PMCEN,VAR_1
+AT91_PMC_AUDIO_PLL_QDPMC,FUNC_0
+AT91_PMC_AUDIO_PLL_QDPMC_MASK,VAR_2
+regmap_update_bits,FUNC_1
+to_clk_audio_pmc,FUNC_2
+clk_audio_pll_pmc_enable,FUNC_3
+hw,VAR_3
+apmc_ck,VAR_4

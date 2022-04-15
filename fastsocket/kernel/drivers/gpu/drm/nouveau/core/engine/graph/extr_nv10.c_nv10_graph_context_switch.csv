@@ -1,0 +1,14 @@
+NV04_PGRAPH_TRAPPED_ADDR,VAR_0
+nv04_graph_idle,FUNC_0
+nv10_graph_channel,FUNC_1
+nv10_graph_load_context,FUNC_2
+nv10_graph_unload_context,FUNC_3
+nv_rd32,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+nv10_graph_context_switch,FUNC_7
+priv,VAR_1
+prev,VAR_2
+next,VAR_3
+flags,VAR_4
+chid,VAR_5

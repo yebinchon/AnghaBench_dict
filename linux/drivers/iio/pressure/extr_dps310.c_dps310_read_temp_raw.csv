@@ -1,0 +1,16 @@
+DPS310_MEAS_CFG,VAR_0
+DPS310_POLL_SLEEP_US,FUNC_0
+DPS310_POLL_TIMEOUT_US,FUNC_1
+DPS310_TMP_RDY,VAR_1
+EINTR,VAR_2
+dps310_get_temp_samp_freq,FUNC_2
+dps310_read_temp_ready,FUNC_3
+mutex_lock_interruptible,FUNC_4
+mutex_unlock,FUNC_5
+regmap_read_poll_timeout,FUNC_6
+dps310_read_temp_raw,FUNC_7
+data,VAR_3
+rc,VAR_4
+rate,VAR_5
+ready,VAR_6
+timeout,VAR_7

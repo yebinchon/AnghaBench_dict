@@ -1,0 +1,13 @@
+DEV_EVENT_NOTOPER,VAR_0
+DEV_EVENT_VERIFY,VAR_1
+DEV_STATE_ONLINE,VAR_2
+ccw_device_kill_io,FUNC_0
+cio_clear,FUNC_1
+cio_update_schib,FUNC_2
+dev_fsm_event,FUNC_3
+sch_get_cdev,FUNC_4
+scsw_actl,FUNC_5
+io_subchannel_terminate_path,FUNC_6
+sch,VAR_3
+mask,VAR_4
+cdev,VAR_5

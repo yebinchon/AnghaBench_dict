@@ -1,0 +1,16 @@
+DatumGetCString,FUNC_0
+DirectFunctionCall1,FUNC_1
+ERRCODE_INVALID_TEXT_REPRESENTATION,VAR_0
+ERROR,VAR_1
+NumericGetDatum,FUNC_2
+ereport,FUNC_3
+errcode,FUNC_4
+errmsg,FUNC_5
+numeric_out,VAR_2
+pfree,FUNC_6
+strtod,FUNC_7
+numeric_to_double_no_overflow,FUNC_8
+num,VAR_3
+tmp,VAR_4
+val,VAR_5
+endptr,VAR_6

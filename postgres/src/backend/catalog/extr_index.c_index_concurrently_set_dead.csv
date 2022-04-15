@@ -1,0 +1,15 @@
+CacheInvalidateRelcache,FUNC_0
+INDEX_DROP_SET_DEAD,VAR_0
+NoLock,VAR_1
+ShareUpdateExclusiveLock,VAR_2
+TransferPredicateLocksToHeapRelation,FUNC_1
+index_close,FUNC_2
+index_open,FUNC_3
+index_set_state_flags,FUNC_4
+table_close,FUNC_5
+table_open,FUNC_6
+index_concurrently_set_dead,FUNC_7
+heapId,VAR_3
+indexId,VAR_4
+userHeapRelation,VAR_5
+userIndexRelation,VAR_6

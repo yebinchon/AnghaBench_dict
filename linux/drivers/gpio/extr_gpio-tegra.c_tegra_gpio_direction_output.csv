@@ -1,0 +1,13 @@
+GPIO_MSK_OE,FUNC_0
+dev_err,FUNC_1
+gpiochip_get_data,FUNC_2
+pinctrl_gpio_direction_output,FUNC_3
+tegra_gpio_enable,FUNC_4
+tegra_gpio_mask_write,FUNC_5
+tegra_gpio_set,FUNC_6
+tegra_gpio_direction_output,FUNC_7
+chip,VAR_0
+offset,VAR_1
+value,VAR_2
+tgi,VAR_3
+ret,VAR_4

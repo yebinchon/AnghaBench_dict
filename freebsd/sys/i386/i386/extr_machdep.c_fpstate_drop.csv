@@ -1,0 +1,12 @@
+KASSERT,FUNC_0
+PCB_NPXINITDONE,VAR_0
+PCB_NPXUSERINITDONE,VAR_1
+PCB_USER_FPU,FUNC_1
+PCPU_GET,FUNC_2
+critical_enter,FUNC_3
+critical_exit,FUNC_4
+curthread,VAR_2
+fpcurthread,VAR_3
+npxdrop,FUNC_5
+fpstate_drop,FUNC_6
+td,VAR_4

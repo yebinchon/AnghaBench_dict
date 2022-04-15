@@ -1,0 +1,17 @@
+GetCurrentThread,FUNC_0
+GetLastError,FUNC_1
+SetThreadPriority,FUNC_2
+THREAD_PRIORITY_HIGHEST,VAR_0
+fprintf,FUNC_3
+pthread_attr_destroy,FUNC_4
+pthread_attr_getschedpolicy,FUNC_5
+pthread_attr_init,FUNC_6
+pthread_self,FUNC_7
+pthread_setschedprio,FUNC_8
+sched_get_priority_max,FUNC_9
+stderr,VAR_1
+pixie_cpu_raise_priority,FUNC_10
+thread,VAR_2
+thAttr,VAR_3
+policy,VAR_4
+max_prio_for_policy,VAR_5

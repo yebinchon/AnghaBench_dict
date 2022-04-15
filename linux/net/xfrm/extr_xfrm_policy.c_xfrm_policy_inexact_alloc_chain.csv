@@ -1,0 +1,13 @@
+lockdep_assert_held,FUNC_0
+write_seqcount_begin,FUNC_1
+write_seqcount_end,FUNC_2
+xfrm_pol_inexact_addr_use_any_list,FUNC_3
+xfrm_policy_inexact_insert_node,FUNC_4
+xfrm_policy_inexact_insert_use_any_list,FUNC_5
+xp_net,FUNC_6
+xfrm_policy_inexact_alloc_chain,FUNC_7
+bin,VAR_0
+policy,VAR_1
+dir,VAR_2
+n,VAR_3
+net,VAR_4

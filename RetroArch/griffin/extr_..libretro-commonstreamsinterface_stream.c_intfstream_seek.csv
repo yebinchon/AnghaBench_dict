@@ -1,0 +1,11 @@
+RETRO_VFS_SEEK_POSITION_CURRENT,VAR_0
+RETRO_VFS_SEEK_POSITION_END,VAR_1
+RETRO_VFS_SEEK_POSITION_START,VAR_2
+chdstream_seek,FUNC_0
+filestream_seek,FUNC_1
+memstream_seek,FUNC_2
+intfstream_seek,FUNC_3
+intf,VAR_3
+offset,VAR_4
+whence,VAR_5
+seek_position,VAR_6

@@ -1,0 +1,13 @@
+PORT_SCIF,VAR_0
+SCIF_ORER,VAR_1
+SCLSR,VAR_2
+TTY_OVERRUN,VAR_3
+dev_notice,FUNC_0
+sci_in,FUNC_1
+sci_out,FUNC_2
+tty_flip_buffer_push,FUNC_3
+tty_insert_flip_char,FUNC_4
+sci_handle_fifo_overrun,FUNC_5
+port,VAR_4
+tty,VAR_5
+copied,VAR_6

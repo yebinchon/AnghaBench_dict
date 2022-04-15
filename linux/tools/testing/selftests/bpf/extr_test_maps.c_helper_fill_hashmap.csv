@@ -1,0 +1,15 @@
+BPF_MAP_TYPE_HASH,VAR_0
+BPF_NOEXIST,VAR_1
+CHECK,FUNC_0
+bpf_create_map,FUNC_1
+bpf_map_update_elem,FUNC_2
+errno,VAR_2
+map_flags,VAR_3
+strerror,FUNC_3
+helper_fill_hashmap,FUNC_4
+max_entries,VAR_4
+i,VAR_5
+fd,VAR_6
+ret,VAR_7
+key,VAR_8
+value,VAR_9

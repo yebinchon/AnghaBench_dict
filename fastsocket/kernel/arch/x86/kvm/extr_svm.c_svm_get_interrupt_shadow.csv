@@ -1,0 +1,9 @@
+SVM_INTERRUPT_SHADOW_MASK,VAR_0
+X86_SHADOW_INT_MOV_SS,VAR_1
+X86_SHADOW_INT_STI,VAR_2
+to_svm,FUNC_0
+svm_get_interrupt_shadow,FUNC_1
+vcpu,VAR_3
+mask,VAR_4
+svm,VAR_5
+ret,VAR_6

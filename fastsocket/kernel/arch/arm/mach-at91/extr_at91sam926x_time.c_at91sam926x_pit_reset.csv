@@ -1,0 +1,9 @@
+AT91_PIT_MR,VAR_0
+AT91_PIT_PITEN,VAR_1
+AT91_PIT_PIVR,VAR_2
+PIT_CPIV,FUNC_0
+at91_sys_read,FUNC_1
+at91_sys_write,FUNC_2
+cpu_relax,FUNC_3
+pit_cycle,VAR_3
+at91sam926x_pit_reset,FUNC_4

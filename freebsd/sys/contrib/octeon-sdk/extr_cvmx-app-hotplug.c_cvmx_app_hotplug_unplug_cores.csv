@@ -1,0 +1,12 @@
+CVMX_CIU_MBOX_SETX,FUNC_0
+CVMX_MAX_CORES,VAR_0
+bzero,FUNC_1
+cvmx_app_hotplug_get_info_at_index,FUNC_2
+cvmx_write_csr,FUNC_3
+printf,FUNC_4
+cvmx_app_hotplug_unplug_cores,FUNC_5
+index,VAR_1
+coremask,VAR_2
+wait,VAR_3
+ai,VAR_4
+i,VAR_5

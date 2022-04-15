@@ -1,0 +1,17 @@
+CRTC0_CRTC_V_BLANK_START_END,VAR_0
+CRTC_V_BLANK_END,VAR_1
+CRTC_V_BLANK_START,VAR_2
+DCE110TG_FROM_TG,FUNC_0
+dce120_timing_generator_get_crtc_position,FUNC_1
+dm_read_reg_soc15,FUNC_2
+get_reg_field_value,FUNC_3
+mmCRTC0_CRTC_V_BLANK_START_END,VAR_3
+dce120_timing_generator_get_crtc_scanoutpos,FUNC_4
+tg,VAR_4
+v_blank_start,VAR_5
+v_blank_end,VAR_6
+h_position,VAR_7
+v_position,VAR_8
+tg110,VAR_9
+position,VAR_10
+v_blank_start_end,VAR_11

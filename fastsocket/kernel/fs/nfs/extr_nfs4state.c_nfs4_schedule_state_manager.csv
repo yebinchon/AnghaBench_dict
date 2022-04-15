@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+NFS4CLNT_MANAGER_RUNNING,VAR_0
+RPC_DISPLAY_ADDR,VAR_1
+THIS_MODULE,VAR_2
+__module_get,FUNC_1
+atomic_inc,FUNC_2
+kthread_run,FUNC_3
+module_put,FUNC_4
+nfs4_clear_state_manager_bit,FUNC_5
+nfs4_run_state_manager,VAR_3
+nfs_put_client,FUNC_6
+rpc_peeraddr2str,FUNC_7
+test_and_set_bit,FUNC_8
+nfs4_schedule_state_manager,FUNC_9
+clp,VAR_4
+task,VAR_5

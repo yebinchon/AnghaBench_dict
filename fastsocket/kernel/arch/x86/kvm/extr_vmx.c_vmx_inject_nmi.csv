@@ -1,0 +1,15 @@
+INTR_INFO_VALID_MASK,VAR_0
+INTR_TYPE_NMI_INTR,VAR_1
+INTR_TYPE_SOFT_INTR,VAR_2
+NMI_VECTOR,VAR_3
+VM_ENTRY_INSTRUCTION_LEN,VAR_4
+VM_ENTRY_INTR_INFO_FIELD,VAR_5
+cpu_has_virtual_nmis,FUNC_0
+kvm_rip_read,FUNC_1
+kvm_rip_write,FUNC_2
+to_vmx,FUNC_3
+vmcs_write32,FUNC_4
+vmx_clear_hlt,FUNC_5
+vmx_inject_nmi,FUNC_6
+vcpu,VAR_6
+vmx,VAR_7

@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+btrfs_bg_type_to_factor,FUNC_1
+btrfs_find_space_info,FUNC_2
+btrfs_try_granting_tickets,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+btrfs_update_space_info,FUNC_6
+info,VAR_0
+flags,VAR_1
+total_bytes,VAR_2
+bytes_used,VAR_3
+bytes_readonly,VAR_4
+space_info,VAR_5
+found,VAR_6
+factor,VAR_7

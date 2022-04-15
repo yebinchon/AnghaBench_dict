@@ -1,0 +1,17 @@
+chained_irq_enter,FUNC_0
+chained_irq_exit,FUNC_1
+ffs,FUNC_2
+generic_handle_irq,FUNC_3
+handle_bad_irq,FUNC_4
+irq_desc_get_chip,FUNC_5
+irq_desc_get_handler_data,FUNC_6
+irq_linear_revmap,FUNC_7
+irq_reg_readl,FUNC_8
+raw_spin_lock,FUNC_9
+raw_spin_unlock,FUNC_10
+brcmstb_l2_intc_irq_handle,FUNC_11
+desc,VAR_0
+b,VAR_1
+chip,VAR_2
+irq,VAR_3
+status,VAR_4

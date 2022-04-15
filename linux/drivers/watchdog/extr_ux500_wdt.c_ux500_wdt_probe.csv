@@ -1,0 +1,17 @@
+PRCMU_WDOG_ALL,VAR_0
+PRCMU_WDOG_CPU1,VAR_1
+WATCHDOG_MAX28,VAR_2
+dev_get_platdata,FUNC_0
+dev_info,FUNC_1
+devm_watchdog_register_device,FUNC_2
+nowayout,VAR_3
+prcmu_config_a9wdog,FUNC_3
+prcmu_load_a9wdog,FUNC_4
+timeout,VAR_4
+ux500_wdt,VAR_5
+watchdog_set_nowayout,FUNC_5
+ux500_wdt_probe,FUNC_6
+pdev,VAR_6
+dev,VAR_7
+ret,VAR_8
+pdata,VAR_9

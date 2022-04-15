@@ -1,0 +1,15 @@
+nand_to_mtd,FUNC_0
+qcom_nandc_read_cw_raw,FUNC_1
+to_qcom_nand_host,FUNC_2
+qcom_nandc_read_page_raw,FUNC_3
+chip,VAR_0
+buf,VAR_1
+oob_required,VAR_2
+page,VAR_3
+mtd,VAR_4
+host,VAR_5
+ecc,VAR_6
+cw,VAR_7
+ret,VAR_8
+data_buf,VAR_9
+oob_buf,VAR_10

@@ -1,0 +1,10 @@
+UNIT_AUTOMOUNT,VAR_0
+USEC_INFINITY,VAR_1
+arg_automount_property,VAR_2
+arg_timeout_idle,VAR_3
+assert,FUNC_0
+sd_bus_message_append,FUNC_1
+transient_unit_set_properties,FUNC_2
+transient_automount_set_properties,FUNC_3
+m,VAR_4
+r,VAR_5

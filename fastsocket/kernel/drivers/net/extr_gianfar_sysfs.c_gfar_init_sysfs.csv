@@ -1,0 +1,16 @@
+DEFAULT_FIFO_TX_STARVE,VAR_0
+DEFAULT_FIFO_TX_STARVE_OFF,VAR_1
+DEFAULT_FIFO_TX_THR,VAR_2
+dev_attr_bd_stash,VAR_3
+dev_attr_fifo_starve,VAR_4
+dev_attr_fifo_starve_off,VAR_5
+dev_attr_fifo_threshold,VAR_6
+dev_attr_rx_stash_index,VAR_7
+dev_attr_rx_stash_size,VAR_8
+dev_err,FUNC_0
+device_create_file,FUNC_1
+netdev_priv,FUNC_2
+gfar_init_sysfs,FUNC_3
+dev,VAR_9
+priv,VAR_10
+rc,VAR_11

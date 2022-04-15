@@ -1,0 +1,10 @@
+CPU_BASED_VIRTUAL_INTR_PENDING,VAR_0
+CPU_BASED_VM_EXEC_CONTROL,VAR_1
+KVM_EXIT_IRQ_WINDOW_OPEN,VAR_2
+irqchip_in_kernel,FUNC_0
+kvm_cpu_has_interrupt,FUNC_1
+vmcs_read32,FUNC_2
+vmcs_write32,FUNC_3
+handle_interrupt_window,FUNC_4
+vcpu,VAR_3
+cpu_based_vm_exec_control,VAR_4

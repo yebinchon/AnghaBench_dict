@@ -1,0 +1,16 @@
+NETIF_F_IPV6_CSUM,VAR_0
+NETIF_F_IP_CSUM,VAR_1
+NETIF_F_LRO,VAR_2
+NETIF_F_RXCSUM,VAR_3
+NETIF_F_TSO,VAR_4
+NETIF_F_TSO6,VAR_5
+QLCNIC_APP_CHANGED_FLAGS,VAR_6
+QLCNIC_ESWITCH_ENABLED,VAR_7
+netdev_priv,FUNC_0
+qlcnic_82xx_check,FUNC_1
+qlcnic_process_flags,FUNC_2
+qlcnic_fix_features,FUNC_3
+netdev,VAR_8
+features,VAR_9
+adapter,VAR_10
+changed,VAR_11

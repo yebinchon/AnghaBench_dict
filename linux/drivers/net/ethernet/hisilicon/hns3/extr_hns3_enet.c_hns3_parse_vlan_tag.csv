@@ -1,0 +1,13 @@
+HNAE3_PORT_BASE_VLAN_DISABLE,VAR_0
+HNS3_RXD_STRP_TAGP_M,VAR_1
+HNS3_RXD_STRP_TAGP_S,VAR_2
+VLAN_VID_MASK,VAR_3
+hnae3_get_field,FUNC_0
+le16_to_cpu,FUNC_1
+hns3_parse_vlan_tag,FUNC_2
+ring,VAR_4
+desc,VAR_5
+l234info,VAR_6
+vlan_tag,VAR_7
+handle,VAR_8
+pdev,VAR_9

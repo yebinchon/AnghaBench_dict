@@ -1,0 +1,15 @@
+ETIMEDOUT,VAR_0
+MPI2_CONFIG_ACTION_PAGE_HEADER,VAR_1
+MPI2_IOCSTATUS_MASK,VAR_2
+MPI2_IOCSTATUS_SUCCESS,VAR_3
+bcopy,FUNC_0
+htole16,FUNC_1
+le32toh,FUNC_2
+mpr_printf,FUNC_3
+mpr_read_config_page,FUNC_4
+mpr_user_read_cfg_header,FUNC_5
+sc,VAR_4
+page_req,VAR_5
+hdr,VAR_6
+params,VAR_7
+error,VAR_8

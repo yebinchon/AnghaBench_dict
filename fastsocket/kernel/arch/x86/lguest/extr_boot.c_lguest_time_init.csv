@@ -1,0 +1,9 @@
+clockevents_register_device,FUNC_0
+clocksource_register,FUNC_1
+cpumask_of,FUNC_2
+enable_lguest_irq,FUNC_3
+lguest_clock,VAR_0
+lguest_clockevent,VAR_1
+lguest_time_irq,VAR_2
+set_irq_handler,FUNC_4
+lguest_time_init,FUNC_5

@@ -1,0 +1,14 @@
+Lock,FUNC_0
+MsGetProcessId,FUNC_1
+PackGetInt,FUNC_2
+StopListener,FUNC_3
+Tick64,FUNC_4
+Unlock,FUNC_5
+cn_listener,VAR_0
+cn_listener_lock,VAR_1
+cn_next_allow,VAR_2
+CnReleaseSocket,FUNC_6
+s,VAR_3
+p,VAR_4
+pid,VAR_5
+current_pid,VAR_6

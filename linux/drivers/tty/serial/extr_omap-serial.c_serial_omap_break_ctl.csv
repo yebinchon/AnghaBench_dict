@@ -1,0 +1,15 @@
+UART_LCR,VAR_0
+UART_LCR_SBC,VAR_1
+dev_dbg,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+serial_out,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+to_uart_omap_port,FUNC_7
+serial_omap_break_ctl,FUNC_8
+port,VAR_2
+break_state,VAR_3
+up,VAR_4
+flags,VAR_5

@@ -1,0 +1,17 @@
+BMSR_LSTATUS,VAR_0
+MII_BMSR,VAR_1
+NSR_LINKST,VAR_2
+SR_NSR,VAR_3
+le16_to_cpu,FUNC_0
+netdev_dbg,FUNC_1
+netdev_priv,FUNC_2
+sr_read_reg,FUNC_3
+sr_share_read_word,FUNC_4
+sr_mdio_read,FUNC_5
+netdev,VAR_4
+phy_id,VAR_5
+loc,VAR_6
+dev,VAR_7
+res,VAR_8
+rc,VAR_9
+value,VAR_10

@@ -1,0 +1,9 @@
+BNX2_FLAG_ONE_SHOT_MSI,VAR_0
+BNX2_FLAG_USING_MSI,VAR_1
+BNX2_FLAG_USING_MSIX,VAR_2
+BNX2_FLAG_USING_MSI_OR_MSIX,VAR_3
+__bnx2_free_irq,FUNC_0
+pci_disable_msi,FUNC_1
+pci_disable_msix,FUNC_2
+bnx2_free_irq,FUNC_3
+bp,VAR_4

@@ -1,0 +1,12 @@
+cond_resched,FUNC_0
+consume_skb,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+skb_recv_udp,FUNC_4
+xs_poll_check_readable,FUNC_5
+xs_udp_data_read_skb,FUNC_6
+xs_udp_data_receive,FUNC_7
+transport,VAR_0
+skb,VAR_1
+sk,VAR_2
+err,VAR_3

@@ -1,0 +1,15 @@
+READ_CAPACITY,VAR_0
+VPRINTK,FUNC_0
+ata_id_has_trim,FUNC_1
+ata_id_has_zero_after_trim,FUNC_2
+ata_id_log2_per_physical_sector,FUNC_3
+ata_id_logical_sector_offset,FUNC_4
+ata_id_logical_sector_size,FUNC_5
+ata_scsiop_read_cap,FUNC_6
+args,VAR_1
+rbuf,VAR_2
+dev,VAR_3
+last_lba,VAR_4
+sector_size,VAR_5
+log2_per_phys,VAR_6
+lowest_aligned,VAR_7

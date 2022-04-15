@@ -1,0 +1,10 @@
+cvmx_get_core_num,FUNC_0
+pr_err,FUNC_1
+read_c0_cvmmemctl,FUNC_2
+read_octeon_c0_dcacheerr,FUNC_3
+read_octeon_c0_icacheerr,FUNC_4
+write_octeon_c0_dcacheerr,FUNC_5
+octeon_check_cpu_bist,FUNC_6
+coreid,VAR_0
+mask,VAR_1
+bist_val,VAR_2

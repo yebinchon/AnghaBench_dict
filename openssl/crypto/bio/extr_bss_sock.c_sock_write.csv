@@ -1,0 +1,14 @@
+BIO_clear_ktls_ctrl_msg_flag,FUNC_0
+BIO_clear_retry_flags,FUNC_1
+BIO_set_retry_write,FUNC_2
+BIO_should_ktls_ctrl_msg_flag,FUNC_3
+BIO_sock_should_retry,FUNC_4
+clear_socket_error,FUNC_5
+ktls_send_ctrl_message,FUNC_6
+writesocket,FUNC_7
+sock_write,FUNC_8
+b,VAR_0
+in,VAR_1
+inl,VAR_2
+ret,VAR_3
+record_type,VAR_4

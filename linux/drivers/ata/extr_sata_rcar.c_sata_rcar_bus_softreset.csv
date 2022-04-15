@@ -1,0 +1,9 @@
+ATA_SRST,VAR_0
+DPRINTK,FUNC_0
+iowrite32,FUNC_1
+sata_rcar_wait_after_reset,FUNC_2
+udelay,FUNC_3
+sata_rcar_bus_softreset,FUNC_4
+ap,VAR_1
+deadline,VAR_2
+ioaddr,VAR_3

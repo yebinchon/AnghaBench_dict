@@ -1,0 +1,8 @@
+APPLE_IF_FAM_LOOPBACK,VAR_0
+PF_INET,VAR_1
+PF_INET6,VAR_2
+lo_attach_proto,VAR_3
+printf,FUNC_0
+proto_register_plumber,FUNC_1
+lo_reg_if_mods,FUNC_2
+error,VAR_4

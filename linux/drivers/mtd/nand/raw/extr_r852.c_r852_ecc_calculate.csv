@@ -1,0 +1,16 @@
+R852_CTL,VAR_0
+R852_CTL_ECC_ACCESS,VAR_1
+R852_CTL_ECC_ENABLE,VAR_2
+R852_DATALINE,VAR_3
+nand_to_mtd,FUNC_0
+r852_get_dev,FUNC_1
+r852_read_reg_dword,FUNC_2
+r852_write_reg,FUNC_3
+r852_ecc_calculate,FUNC_4
+chip,VAR_4
+dat,VAR_5
+ecc_code,VAR_6
+dev,VAR_7
+oob,VAR_8
+ecc1,VAR_9
+ecc2,VAR_10

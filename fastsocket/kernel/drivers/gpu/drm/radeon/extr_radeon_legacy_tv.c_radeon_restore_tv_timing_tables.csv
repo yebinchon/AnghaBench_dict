@@ -1,0 +1,16 @@
+MAX_H_CODE_TIMING_LEN,VAR_0
+MAX_V_CODE_TIMING_LEN,VAR_1
+RADEON_TV_UV_ADR,VAR_2
+WREG32,FUNC_0
+radeon_get_htiming_tables_addr,FUNC_1
+radeon_get_vtiming_tables_addr,FUNC_2
+radeon_legacy_tv_write_fifo,FUNC_3
+radeon_restore_tv_timing_tables,FUNC_4
+radeon_encoder,VAR_3
+dev,VAR_4
+rdev,VAR_5
+tv_dac,VAR_6
+h_table,VAR_7
+v_table,VAR_8
+tmp,VAR_9
+i,VAR_10

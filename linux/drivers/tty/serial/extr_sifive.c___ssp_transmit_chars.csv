@@ -1,0 +1,13 @@
+SIFIVE_TX_FIFO_DEPTH,VAR_0
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+__ssp_transmit_char,FUNC_0
+sifive_serial_stop_tx,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_tx_stopped,FUNC_4
+uart_write_wakeup,FUNC_5
+__ssp_transmit_chars,FUNC_6
+ssp,VAR_3
+xmit,VAR_4
+count,VAR_5

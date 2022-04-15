@@ -1,0 +1,14 @@
+MA_OWNED,VAR_0
+MNTK_MWAIT,VAR_1
+MNT_IUNLOCK,FUNC_0
+MNT_MTX,FUNC_1
+VOP_UNLOCK,FUNC_2
+mtx_assert,FUNC_3
+vdrop,FUNC_4
+vfs_op_exit_locked,FUNC_5
+vn_finished_write,FUNC_6
+wakeup,FUNC_7
+dounmount_cleanup,FUNC_8
+mp,VAR_2
+coveredvp,VAR_3
+mntkflags,VAR_4

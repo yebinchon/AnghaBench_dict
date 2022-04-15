@@ -1,0 +1,12 @@
+TURNSTILE_NULL,VAR_0
+assert,FUNC_0
+imq_lock,FUNC_1
+imq_unlock,FUNC_2
+port_send_turnstile,FUNC_3
+port_send_turnstile_address,FUNC_4
+turnstile_cleanup,FUNC_5
+turnstile_complete,FUNC_6
+turnstile_deallocate_safe,FUNC_7
+ipc_port_send_turnstile_complete,FUNC_8
+port,VAR_1
+turnstile,VAR_2

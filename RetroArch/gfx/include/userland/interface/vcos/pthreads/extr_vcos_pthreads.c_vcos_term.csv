@@ -1,0 +1,12 @@
+VCOS_INIT_MAIN_SEM,VAR_0
+VCOS_INIT_MSGQ,VAR_1
+VCOS_INIT_NAMED_SEM,VAR_2
+VCOS_INIT_PRINTF_LOCK,VAR_3
+_vcos_named_semaphore_deinit,FUNC_0
+printf_lock,VAR_4
+vcos_msgq_deinit,FUNC_1
+vcos_mutex_delete,FUNC_2
+vcos_semaphore_delete,FUNC_3
+vcos_thread_main,VAR_5
+vcos_term,FUNC_4
+flags,VAR_6

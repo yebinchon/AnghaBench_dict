@@ -1,0 +1,11 @@
+ADXL372_STATUS_1,VAR_0
+be32_to_cpu,FUNC_0
+regmap_bulk_read,FUNC_1
+adxl372_get_status,FUNC_2
+st,VAR_1
+status1,VAR_2
+status2,VAR_3
+fifo_entries,VAR_4
+buf,VAR_5
+val,VAR_6
+ret,VAR_7

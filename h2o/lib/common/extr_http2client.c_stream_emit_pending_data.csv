@@ -1,0 +1,16 @@
+H2O_HTTP2_FRAME_FLAG_END_STREAM,VAR_0
+H2O_HTTP2_FRAME_HEADER_SIZE,VAR_1
+H2O_HTTP2_FRAME_TYPE_DATA,VAR_2
+calc_max_payload_size,FUNC_0
+h2o_buffer_consume,FUNC_1
+h2o_buffer_reserve,FUNC_2
+h2o_http2_encode_frame_header,FUNC_3
+h2o_http2_window_consume_window,FUNC_4
+h2o_memcpy,FUNC_5
+sz_min,FUNC_6
+stream_emit_pending_data,FUNC_7
+stream,VAR_3
+max_payload_size,VAR_4
+payload_size,VAR_5
+dst,VAR_6
+end_stream,VAR_7

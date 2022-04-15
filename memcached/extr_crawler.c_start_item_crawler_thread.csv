@@ -1,0 +1,15 @@
+do_run_lru_crawler_thread,VAR_0
+fprintf,FUNC_0
+item_crawler_thread,VAR_1
+item_crawler_tid,VAR_2
+lru_crawler_cond,VAR_3
+lru_crawler_lock,VAR_4
+pthread_cond_wait,FUNC_1
+pthread_create,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+settings,VAR_5
+stderr,VAR_6
+strerror,FUNC_5
+start_item_crawler_thread,FUNC_6
+ret,VAR_7

@@ -1,0 +1,12 @@
+OSI_MUTEX_MAX_TIMEOUT,VAR_0
+assert,FUNC_0
+list_append,FUNC_1
+osi_mutex_lock,FUNC_2
+osi_mutex_unlock,FUNC_3
+osi_sem_give,FUNC_4
+osi_sem_take,FUNC_5
+fixed_queue_enqueue,FUNC_6
+queue,VAR_1
+data,VAR_2
+timeout,VAR_3
+status,VAR_4

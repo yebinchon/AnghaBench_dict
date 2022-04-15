@@ -1,0 +1,13 @@
+PATCH_ORIGINAL_NEW_FILE_WITH_SPACE,VAR_0
+cl_assert_equal_p,FUNC_0
+cl_assert_equal_s,FUNC_1
+cl_git_pass,FUNC_2
+git_diff_free,FUNC_3
+git_diff_from_buffer,FUNC_4
+git_patch_free,FUNC_5
+git_patch_from_diff,FUNC_6
+strlen,FUNC_7
+test_diff_parse__new_file_with_space,FUNC_8
+content,VAR_1
+patch,VAR_2
+diff,VAR_3

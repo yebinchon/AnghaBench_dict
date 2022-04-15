@@ -1,0 +1,11 @@
+DRIVER_OP_SUCCESS,VAR_0
+UDF_BLOCKSIZE,VAR_1
+UDF_VOLSET_ID_SIZE,VAR_2
+memcpy,FUNC_0
+udf_read_sectors,FUNC_1
+udf_get_volumeset_id,FUNC_2
+p_udf,VAR_3
+volsetid,VAR_4
+i_volsetid,VAR_5
+data,VAR_6
+p_pvd,VAR_7

@@ -1,0 +1,14 @@
+WM8350_SYSTEM_CONTROL_2,VAR_0
+WM8350_WDOG_TO_MASK,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+wdt_mutex,VAR_2
+wm8350_reg_lock,FUNC_2
+wm8350_reg_read,FUNC_3
+wm8350_reg_unlock,FUNC_4
+wm8350_reg_write,FUNC_5
+wm8350_wdt_set_timeout,FUNC_6
+wm8350,VAR_3
+value,VAR_4
+ret,VAR_5
+reg,VAR_6

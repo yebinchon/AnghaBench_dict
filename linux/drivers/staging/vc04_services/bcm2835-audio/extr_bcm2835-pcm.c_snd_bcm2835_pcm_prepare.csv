@@ -1,0 +1,16 @@
+IEC958_AES0_NONAUDIO,VAR_0
+atomic_set,FUNC_0
+bcm2835_audio_set_params,FUNC_1
+ktime_get,FUNC_2
+memset,FUNC_3
+snd_pcm_format_width,FUNC_4
+snd_pcm_lib_buffer_bytes,FUNC_5
+snd_pcm_lib_period_bytes,FUNC_6
+snd_pcm_substream_chip,FUNC_7
+snd_bcm2835_pcm_prepare,FUNC_8
+substream,VAR_1
+chip,VAR_2
+runtime,VAR_3
+alsa_stream,VAR_4
+channels,VAR_5
+err,VAR_6

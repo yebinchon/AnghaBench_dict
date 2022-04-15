@@ -1,0 +1,16 @@
+HASH_FIND,VAR_0
+PARALLEL_MODE_FLAG_OFFSET,VAR_1
+RELATION_NOT_ACCESSED,VAR_2
+RELATION_PARALLEL_ACCESSED,VAR_3
+RELATION_REFERENCE_ACCESSED,VAR_4
+RelationAccessHash,VAR_5
+ShouldRecordRelationAccess,FUNC_0
+hash_search,FUNC_1
+GetRelationAccessMode,FUNC_2
+relationId,VAR_6
+accessType,VAR_7
+hashKey,VAR_8
+hashEntry,VAR_9
+relationAcessMode,VAR_10
+found,VAR_11
+parallelRelationAccessBit,VAR_12

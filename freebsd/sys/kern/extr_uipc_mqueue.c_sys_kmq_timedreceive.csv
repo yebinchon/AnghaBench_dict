@@ -1,0 +1,15 @@
+AUDIT_ARG_FD,FUNC_0
+O_NONBLOCK,VAR_0
+copyin,FUNC_1
+fdrop,FUNC_2
+getmq_read,FUNC_3
+mqueue_receive,FUNC_4
+sys_kmq_timedreceive,FUNC_5
+td,VAR_1
+uap,VAR_2
+mq,VAR_3
+fp,VAR_4
+abs_timeout,VAR_5
+ets,VAR_6
+error,VAR_7
+waitok,VAR_8

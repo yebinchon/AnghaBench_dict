@@ -1,0 +1,11 @@
+irq_domain_remove,FUNC_0
+pci_get_drvdata,FUNC_1
+pci_remove_root_bus,FUNC_2
+pci_stop_root_bus,FUNC_3
+sysfs_remove_link,FUNC_4
+vmd_cleanup_srcu,FUNC_5
+vmd_detach_resources,FUNC_6
+vmd_teardown_dma_ops,FUNC_7
+vmd_remove,FUNC_8
+dev,VAR_0
+vmd,VAR_1

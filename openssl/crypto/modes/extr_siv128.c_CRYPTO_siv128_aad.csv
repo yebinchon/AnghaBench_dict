@@ -1,0 +1,14 @@
+EVP_MAC_CTX_dup,FUNC_0
+EVP_MAC_CTX_free,FUNC_1
+EVP_MAC_final,FUNC_2
+EVP_MAC_update,FUNC_3
+SIV_LEN,VAR_0
+siv128_dbl,FUNC_4
+siv128_xorblock,FUNC_5
+CRYPTO_siv128_aad,FUNC_6
+ctx,VAR_1
+aad,VAR_2
+len,VAR_3
+mac_out,VAR_4
+out_len,VAR_5
+mac_ctx,VAR_6

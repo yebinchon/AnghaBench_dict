@@ -1,0 +1,16 @@
+CHECKSUM_UNNECESSARY,VAR_0
+ETH_P_CAN,VAR_1
+PACKET_BROADCAST,VAR_2
+can_skb_prv,FUNC_0
+can_skb_reserve,FUNC_1
+htons,FUNC_2
+netdev_alloc_skb,FUNC_3
+skb_put_zero,FUNC_4
+skb_reset_mac_header,FUNC_5
+skb_reset_network_header,FUNC_6
+skb_reset_transport_header,FUNC_7
+unlikely,FUNC_8
+alloc_can_skb,FUNC_9
+dev,VAR_3
+cf,VAR_4
+skb,VAR_5

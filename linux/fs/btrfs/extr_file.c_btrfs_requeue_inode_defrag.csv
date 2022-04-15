@@ -1,0 +1,11 @@
+__btrfs_add_inode_defrag,FUNC_0
+__need_auto_defrag,FUNC_1
+btrfs_inode_defrag_cachep,VAR_0
+kmem_cache_free,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+btrfs_requeue_inode_defrag,FUNC_5
+inode,VAR_1
+defrag,VAR_2
+fs_info,VAR_3
+ret,VAR_4

@@ -1,0 +1,17 @@
+SA1111_SKCR,VAR_0
+SA1111_SKPCR,VAR_1
+SKCR_OE_EN,VAR_2
+SKCR_PLL_BYPASS,VAR_3
+SKCR_RCLKEN,VAR_4
+SKCR_RDYEN,VAR_5
+SKCR_VCO_OFF,VAR_6
+clk_enable,FUNC_0
+sa1111_readl,FUNC_1
+sa1111_writel,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+udelay,FUNC_5
+sa1111_wake,FUNC_6
+sachip,VAR_7
+flags,VAR_8
+r,VAR_9

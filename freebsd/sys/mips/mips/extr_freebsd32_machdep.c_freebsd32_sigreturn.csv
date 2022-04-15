@@ -1,0 +1,15 @@
+CTR1,FUNC_0
+CTR2,FUNC_1
+CTR3,FUNC_2
+EFAULT,VAR_0
+EJUSTRETURN,VAR_1
+KTR_SIG,VAR_2
+SIG_SETMASK,VAR_3
+copyin,FUNC_3
+kern_sigprocmask,FUNC_4
+set_mcontext32,FUNC_5
+freebsd32_sigreturn,FUNC_6
+td,VAR_4
+uap,VAR_5
+uc,VAR_6
+error,VAR_7

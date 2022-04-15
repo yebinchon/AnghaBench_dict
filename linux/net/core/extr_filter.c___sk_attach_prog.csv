@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+__sk_filter_charge,FUNC_0
+kfree,FUNC_1
+kmalloc,FUNC_2
+lockdep_sock_is_held,FUNC_3
+rcu_assign_pointer,FUNC_4
+rcu_dereference_protected,FUNC_5
+refcount_set,FUNC_6
+sk_filter_uncharge,FUNC_7
+__sk_attach_prog,FUNC_8
+prog,VAR_2
+sk,VAR_3
+fp,VAR_4
+old_fp,VAR_5

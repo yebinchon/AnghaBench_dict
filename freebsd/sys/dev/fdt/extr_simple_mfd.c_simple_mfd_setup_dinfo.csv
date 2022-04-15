@@ -1,0 +1,17 @@
+M_DEVBUF,VAR_0
+M_WAITOK,VAR_1
+M_ZERO,VAR_2
+OF_parent,FUNC_0
+device_get_softc,FUNC_1
+free,FUNC_2
+malloc,FUNC_3
+ofw_bus_gen_setup_devinfo,FUNC_4
+ofw_bus_intr_to_rl,FUNC_5
+ofw_bus_reg_to_rl,FUNC_6
+resource_list_init,FUNC_7
+simple_mfd_setup_dinfo,FUNC_8
+dev,VAR_3
+node,VAR_4
+di,VAR_5
+sc,VAR_6
+ndi,VAR_7

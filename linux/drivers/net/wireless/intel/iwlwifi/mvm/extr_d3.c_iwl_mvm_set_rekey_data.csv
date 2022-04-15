@@ -1,0 +1,16 @@
+IWL_MAC80211_GET_MVM,FUNC_0
+NL80211_KCK_LEN,VAR_0
+NL80211_KEK_LEN,VAR_1
+be64_to_cpup,FUNC_1
+cpu_to_le64,FUNC_2
+iwl_mvm_vif_from_mac80211,FUNC_3
+iwlwifi_mod_params,VAR_2
+memcpy,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+iwl_mvm_set_rekey_data,FUNC_7
+hw,VAR_3
+vif,VAR_4
+data,VAR_5
+mvm,VAR_6
+mvmvif,VAR_7

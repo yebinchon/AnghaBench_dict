@@ -1,0 +1,16 @@
+EXTCON_USB,VAR_0
+EXTCON_USB_HOST,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+dev_err,FUNC_2
+devm_extcon_register_notifier,FUNC_3
+dwc3_qcom_host_notifier,FUNC_4
+dwc3_qcom_vbus_notifier,FUNC_5
+extcon_get_edev_by_phandle,FUNC_6
+extcon_get_state,FUNC_7
+of_property_read_bool,FUNC_8
+dwc3_qcom_register_extcon,FUNC_9
+qcom,VAR_2
+dev,VAR_3
+host_edev,VAR_4
+ret,VAR_5

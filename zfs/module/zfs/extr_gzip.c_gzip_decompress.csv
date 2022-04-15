@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+CPA_STATUS_SUCCESS,VAR_0
+QAT_DECOMPRESS,VAR_1
+Z_OK,VAR_2
+qat_compress,FUNC_1
+qat_dc_use_accel,FUNC_2
+uncompress_func,FUNC_3
+gzip_decompress,FUNC_4
+s_start,VAR_3
+d_start,VAR_4
+s_len,VAR_5
+d_len,VAR_6
+n,VAR_7
+dstlen,VAR_8

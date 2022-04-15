@@ -1,0 +1,15 @@
+DEFINE_WAIT,FUNC_0
+GMBUS2,VAR_0
+GMBUS4,VAR_1
+GMBUS_ACTIVE,VAR_2
+GMBUS_IDLE_EN,VAR_3
+HAS_GMBUS_IRQ,FUNC_1
+I915_WRITE_FW,FUNC_2
+add_wait_queue,FUNC_3
+intel_wait_for_register_fw,FUNC_4
+remove_wait_queue,FUNC_5
+wait,VAR_4
+gmbus_wait_idle,FUNC_6
+dev_priv,VAR_5
+irq_enable,VAR_6
+ret,VAR_7

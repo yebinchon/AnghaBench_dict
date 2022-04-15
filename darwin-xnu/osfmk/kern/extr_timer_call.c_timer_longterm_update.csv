@@ -1,0 +1,16 @@
+TIMER_CALL_LOCAL,VAR_0
+TIMER_CALL_SYS_CRITICAL,VAR_1
+TIMER_LONGTERM_NONE,VAR_2
+cpu_number,FUNC_0
+master_cpu,VAR_3
+panic,FUNC_1
+splclock,FUNC_2
+splx,FUNC_3
+timer_call_enter,FUNC_4
+timer_longterm_queue,VAR_4
+timer_longterm_update_locked,FUNC_5
+timer_queue_lock_spin,FUNC_6
+timer_queue_unlock,FUNC_7
+timer_longterm_update,FUNC_8
+tlp,VAR_5
+s,VAR_6

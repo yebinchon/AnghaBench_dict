@@ -1,0 +1,13 @@
+ATA_PROT_DMA,VAR_0
+ATA_PROT_PIO,VAR_1
+IDE_TFLAG_LBA48,VAR_2
+IDE_TFLAG_MULTI_PIO,VAR_3
+IDE_TFLAG_WRITE,VAR_4
+ide_rw_cmds,VAR_5
+ide_tf_set_cmd,FUNC_0
+drive,VAR_6
+cmd,VAR_7
+dma,VAR_8
+index,VAR_9
+lba48,VAR_10
+write,VAR_11

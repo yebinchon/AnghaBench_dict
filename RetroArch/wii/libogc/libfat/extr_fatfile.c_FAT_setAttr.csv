@@ -1,0 +1,16 @@
+DIR_ENTRY_DATA_SIZE,VAR_0
+DIR_ENTRY_attributes,VAR_1
+_FAT_cache_flush,FUNC_0
+_FAT_cache_writePartialSector,FUNC_1
+_FAT_directory_entryFromPath,FUNC_2
+_FAT_fat_clusterToSector,FUNC_3
+_FAT_lock,FUNC_4
+_FAT_partition_getPartitionFromPath,FUNC_5
+_FAT_unlock,FUNC_6
+strchr,FUNC_7
+FAT_setAttr,FUNC_8
+file,VAR_2
+attr,VAR_3
+entryEnd,VAR_4
+partition,VAR_5
+dirEntry,VAR_6

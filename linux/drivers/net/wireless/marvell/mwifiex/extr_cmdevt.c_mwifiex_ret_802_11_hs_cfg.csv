@@ -1,0 +1,17 @@
+CMD,VAR_0
+HS_ACTIVATE,VAR_1
+HS_CFG_CANCEL,VAR_2
+MWIFIEX_IS_HS_CONFIGURED,VAR_3
+MWIFIEX_USB,VAR_4
+clear_bit,FUNC_0
+cpu_to_le16,FUNC_1
+le32_to_cpu,FUNC_2
+mwifiex_dbg,FUNC_3
+mwifiex_hs_activated_event,FUNC_4
+set_bit,FUNC_5
+mwifiex_ret_802_11_hs_cfg,FUNC_6
+priv,VAR_5
+resp,VAR_6
+adapter,VAR_7
+phs_cfg,VAR_8
+conditions,VAR_9

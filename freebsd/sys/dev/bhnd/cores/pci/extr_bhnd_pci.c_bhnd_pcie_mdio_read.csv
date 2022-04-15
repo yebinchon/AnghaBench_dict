@@ -1,0 +1,13 @@
+BHND_PCIE_MDIODATA_ADDR,FUNC_0
+BHND_PCI_LOCK,FUNC_1
+BHND_PCI_UNLOCK,FUNC_2
+bhnd_pcie_mdio_cmd_read,FUNC_3
+bhnd_pcie_mdio_disable,FUNC_4
+bhnd_pcie_mdio_enable,FUNC_5
+bhnd_pcie_mdio_read,FUNC_6
+sc,VAR_0
+phy,VAR_1
+reg,VAR_2
+cmd,VAR_3
+val,VAR_4
+error,VAR_5

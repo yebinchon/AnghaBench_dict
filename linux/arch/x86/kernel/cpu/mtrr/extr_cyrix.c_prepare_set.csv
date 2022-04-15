@@ -1,0 +1,16 @@
+CX86_CCR3,VAR_0
+X86_CR0_CD,VAR_1
+X86_CR4_PGE,VAR_2
+X86_FEATURE_PGE,VAR_3
+__read_cr4,FUNC_0
+__write_cr4,FUNC_1
+boot_cpu_has,FUNC_2
+ccr3,VAR_4
+cr4,VAR_5
+getCx86,FUNC_3
+read_cr0,FUNC_4
+setCx86,FUNC_5
+wbinvd,FUNC_6
+write_cr0,FUNC_7
+prepare_set,FUNC_8
+cr0,VAR_6

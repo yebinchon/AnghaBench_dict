@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+DMU_OTN_ZAP_METADATA,VAR_0
+FTAG,VAR_1
+SPA_FEATURE_EXTENSIBLE_DATASET,VAR_2
+VERIFY0,FUNC_1
+dmu_object_free,FUNC_2
+dmu_objset_spa,FUNC_3
+dmu_tx_is_syncing,FUNC_4
+dnode_hold,FUNC_5
+dnode_rele,FUNC_6
+spa_feature_decr,FUNC_7
+dmu_object_free_zapified,FUNC_8
+mos,VAR_3
+object,VAR_4
+tx,VAR_5
+dn,VAR_6
+t,VAR_7

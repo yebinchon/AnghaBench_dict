@@ -1,0 +1,11 @@
+del_timer_sync,FUNC_0
+et131x_disable_interrupts,FUNC_1
+et131x_rx_dma_disable,FUNC_2
+et131x_tx_dma_disable,FUNC_3
+fMP_ADAPTER_INTERRUPT_IN_USE,VAR_0
+free_irq,FUNC_4
+netdev_priv,FUNC_5
+netif_stop_queue,FUNC_6
+et131x_close,FUNC_7
+netdev,VAR_1
+adapter,VAR_2

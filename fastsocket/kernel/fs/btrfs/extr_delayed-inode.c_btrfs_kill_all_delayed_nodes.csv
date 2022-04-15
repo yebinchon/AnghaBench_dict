@@ -1,0 +1,13 @@
+ARRAY_SIZE,FUNC_0
+__btrfs_kill_delayed_node,FUNC_1
+atomic_inc,FUNC_2
+btrfs_release_delayed_node,FUNC_3
+radix_tree_gang_lookup,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+btrfs_kill_all_delayed_nodes,FUNC_7
+root,VAR_0
+inode_id,VAR_1
+delayed_nodes,VAR_2
+i,VAR_3
+n,VAR_4

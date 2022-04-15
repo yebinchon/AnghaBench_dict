@@ -1,0 +1,15 @@
+dev_err,FUNC_0
+qspi_set_receive_trigger,FUNC_1
+qspi_set_send_trigger,FUNC_2
+rspi_read_data,FUNC_3
+rspi_wait_for_rx_full,FUNC_4
+rspi_wait_for_tx_empty,FUNC_5
+rspi_write_data,FUNC_6
+qspi_trigger_transfer_out_in,FUNC_7
+rspi,VAR_0
+tx,VAR_1
+rx,VAR_2
+len,VAR_3
+i,VAR_4
+n,VAR_5
+ret,VAR_6

@@ -1,0 +1,10 @@
+MEMORYSTATUS_VM_MAP_FORK_ALLOWED,VAR_0
+MEMORYSTATUS_VM_MAP_FORK_NOT_ALLOWED,VAR_1
+TRUE,VAR_2
+get_task_phys_footprint,FUNC_0
+max_task_footprint_mb,VAR_3
+printf,FUNC_1
+set_vm_map_fork_pidwatch,FUNC_2
+memorystatus_allowed_vm_map_fork,FUNC_3
+task,VAR_4
+is_allowed,VAR_5

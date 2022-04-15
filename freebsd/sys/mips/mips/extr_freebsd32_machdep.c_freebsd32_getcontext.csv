@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+GET_MC_CLEAR_RET,VAR_1
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+UC32_COPY_SIZE,VAR_2
+bzero,FUNC_2
+copyout,FUNC_3
+get_mcontext32,FUNC_4
+freebsd32_getcontext,FUNC_5
+td,VAR_3
+uap,VAR_4
+uc,VAR_5
+ret,VAR_6

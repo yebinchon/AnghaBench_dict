@@ -1,0 +1,12 @@
+BOOK3S_HFLAG_SPLIT_HACK,VAR_0
+MSR_DR,VAR_1
+MSR_IR,VAR_2
+SPLIT_HACK_MASK,VAR_3
+SPLIT_HACK_OFFS,VAR_4
+kvmppc_get_msr,FUNC_0
+kvmppc_get_pc,FUNC_1
+kvmppc_set_pc,FUNC_2
+kvmppc_fixup_split_real,FUNC_3
+vcpu,VAR_5
+msr,VAR_6
+pc,VAR_7

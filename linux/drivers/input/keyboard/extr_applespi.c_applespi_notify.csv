@@ -1,0 +1,16 @@
+ACPI_INTERRUPT_HANDLED,VAR_0
+ET_RD_IRQ,VAR_1
+PT_READ,VAR_2
+applespi_async,FUNC_0
+applespi_async_read_complete,VAR_3
+dev_warn,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+trace_applespi_irq_received,FUNC_4
+applespi_notify,FUNC_5
+gpe_device,VAR_4
+gpe,VAR_5
+context,VAR_6
+applespi,VAR_7
+sts,VAR_8
+flags,VAR_9

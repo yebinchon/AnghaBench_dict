@@ -1,0 +1,15 @@
+MFCINST_FINISHING,VAR_0
+S5P_FIMV_CH_FRAME_START_V6,VAR_1
+S5P_FIMV_CH_LAST_FRAME_V6,VAR_2
+S5P_MFC_CODEC_H264_ENC,VAR_3
+cmd_host2risc,VAR_4
+mfc_debug,FUNC_0
+s5p_mfc_h264_set_aso_slice_order_v6,FUNC_1
+s5p_mfc_hw_call,FUNC_2
+s5p_mfc_set_slice_mode,FUNC_3
+writel,FUNC_4
+s5p_mfc_encode_one_frame_v6,FUNC_5
+ctx,VAR_5
+dev,VAR_6
+mfc_regs,VAR_7
+cmd,VAR_8

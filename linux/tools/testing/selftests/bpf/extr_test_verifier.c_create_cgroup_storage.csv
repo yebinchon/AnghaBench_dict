@@ -1,0 +1,12 @@
+BPF_MAP_TYPE_CGROUP_STORAGE,VAR_0
+BPF_MAP_TYPE_PERCPU_CGROUP_STORAGE,VAR_1
+TEST_DATA_LEN,VAR_2
+bpf_create_map,FUNC_0
+errno,VAR_3
+printf,FUNC_1
+skip_unsupported_map,FUNC_2
+strerror,FUNC_3
+create_cgroup_storage,FUNC_4
+percpu,VAR_4
+type,VAR_5
+fd,VAR_6

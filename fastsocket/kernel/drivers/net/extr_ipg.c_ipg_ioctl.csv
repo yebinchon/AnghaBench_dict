@@ -1,0 +1,11 @@
+generic_mii_ioctl,FUNC_0
+if_mii,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+ipg_ioctl,FUNC_5
+dev,VAR_0
+ifr,VAR_1
+cmd,VAR_2
+sp,VAR_3
+rc,VAR_4

@@ -1,0 +1,17 @@
+BufferGetPage,FUNC_0
+GinDataPageAddPostingItem,FUNC_1
+GinDataPageGetPostingItem,FUNC_2
+PostingItemSetBlockNumber,FUNC_3
+RelationNeedsWAL,FUNC_4
+XLogRegisterBufData,FUNC_5
+dataExecPlaceToPageInternal,FUNC_6
+btree,VAR_0
+buf,VAR_1
+stack,VAR_2
+insertdata,VAR_3
+updateblkno,VAR_4
+ptp_workspace,VAR_5
+page,VAR_6
+off,VAR_7
+pitem,VAR_8
+data,VAR_9

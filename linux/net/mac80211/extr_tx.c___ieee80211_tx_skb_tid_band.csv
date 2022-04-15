@@ -1,0 +1,14 @@
+IEEE80211_SKB_CB,FUNC_0
+ieee80211_ac_from_tid,FUNC_1
+ieee80211_xmit,FUNC_2
+local_bh_disable,FUNC_3
+local_bh_enable,FUNC_4
+skb_reset_mac_header,FUNC_5
+skb_set_queue_mapping,FUNC_6
+__ieee80211_tx_skb_tid_band,FUNC_7
+sdata,VAR_0
+skb,VAR_1
+tid,VAR_2
+band,VAR_3
+txdata_flags,VAR_4
+ac,VAR_5

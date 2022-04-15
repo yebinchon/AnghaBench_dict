@@ -1,0 +1,12 @@
+DPRINT,FUNC_0
+ERROR_SUCCESS,VAR_0
+KEY_WRITE,VAR_1
+REG_DWORD,VAR_2
+RegCloseKey,FUNC_1
+RegSetValueExW,FUNC_2
+ScmOpenServiceKey,FUNC_3
+ScmMarkServiceForDelete,FUNC_4
+pService,VAR_3
+hServiceKey,VAR_4
+dwValue,VAR_5
+dwError,VAR_6

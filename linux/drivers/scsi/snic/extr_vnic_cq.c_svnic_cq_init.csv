@@ -1,0 +1,16 @@
+VNIC_PADDR_TARGET,VAR_0
+iowrite32,FUNC_0
+writeq,FUNC_1
+svnic_cq_init,FUNC_2
+cq,VAR_1
+flow_control_enable,VAR_2
+color_enable,VAR_3
+cq_head,VAR_4
+cq_tail,VAR_5
+cq_tail_color,VAR_6
+interrupt_enable,VAR_7
+cq_entry_enable,VAR_8
+cq_message_enable,VAR_9
+interrupt_offset,VAR_10
+cq_message_addr,VAR_11
+paddr,VAR_12

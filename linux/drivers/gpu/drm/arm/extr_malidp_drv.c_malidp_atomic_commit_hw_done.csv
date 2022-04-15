@@ -1,0 +1,12 @@
+DRM_DEBUG_DRIVER,FUNC_0
+drm_atomic_helper_commit_hw_done,FUNC_1
+drm_crtc_send_vblank_event,FUNC_2
+drm_crtc_vblank_get,FUNC_3
+malidp_set_and_wait_config_valid,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+malidp_atomic_commit_hw_done,FUNC_7
+state,VAR_0
+drm,VAR_1
+malidp,VAR_2
+loop,VAR_3

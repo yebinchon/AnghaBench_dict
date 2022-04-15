@@ -1,0 +1,13 @@
+ASPEED_OPERATION_MODE_POWER_DOWN,VAR_0
+ASPEED_REG_ENGINE_CONTROL,VAR_1
+clk_disable_unprepare,FUNC_0
+clk_hw_unregister_divider,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv,FUNC_3
+platform_get_drvdata,FUNC_4
+reset_control_assert,FUNC_5
+writel,FUNC_6
+aspeed_adc_remove,FUNC_7
+pdev,VAR_2
+indio_dev,VAR_3
+data,VAR_4

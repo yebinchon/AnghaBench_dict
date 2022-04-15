@@ -1,0 +1,14 @@
+HTTP_SENDGROW,VAR_0
+HTTP_SEND_MAXLEN,VAR_1
+ISC_R_NOMEMORY,VAR_2
+ISC_R_NOSPACE,VAR_3
+ISC_R_SUCCESS,VAR_4
+isc_buffer_region,FUNC_0
+isc_buffer_reinit,FUNC_1
+isc_mem_get,FUNC_2
+isc_mem_put,FUNC_3
+grow_headerspace,FUNC_4
+httpd,VAR_5
+newspace,VAR_6
+newlen,VAR_7
+r,VAR_8

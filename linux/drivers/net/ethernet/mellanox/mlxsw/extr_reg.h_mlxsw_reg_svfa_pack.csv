@@ -1,0 +1,16 @@
+MLXSW_REG_SVFA_MT_VID_TO_FID,VAR_0
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_svfa_fid_set,FUNC_1
+mlxsw_reg_svfa_local_port_set,FUNC_2
+mlxsw_reg_svfa_mapping_table_set,FUNC_3
+mlxsw_reg_svfa_swid_set,FUNC_4
+mlxsw_reg_svfa_v_set,FUNC_5
+mlxsw_reg_svfa_vid_set,FUNC_6
+svfa,VAR_1
+mlxsw_reg_svfa_pack,FUNC_7
+payload,VAR_2
+local_port,VAR_3
+mt,VAR_4
+valid,VAR_5
+fid,VAR_6
+vid,VAR_7

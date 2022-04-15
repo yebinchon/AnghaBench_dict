@@ -1,0 +1,9 @@
+BTA_DM_API_BLE_SET_SCAN_RSP_RAW_EVT,VAR_0
+bta_sys_sendmsg,FUNC_0
+memcpy,FUNC_1
+osi_malloc,FUNC_2
+BTA_DmBleSetScanRspRaw,FUNC_3
+p_raw_scan_rsp,VAR_1
+raw_scan_rsp_len,VAR_2
+p_scan_rsp_data_cback,VAR_3
+p_msg,VAR_4

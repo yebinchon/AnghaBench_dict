@@ -1,0 +1,15 @@
+artpec6_pcie_assert_core_reset,FUNC_0
+artpec6_pcie_deassert_core_reset,FUNC_1
+artpec6_pcie_enable_interrupts,FUNC_2
+artpec6_pcie_establish_link,FUNC_3
+artpec6_pcie_init_phy,FUNC_4
+artpec6_pcie_set_nfts,FUNC_5
+artpec6_pcie_wait_for_phy,FUNC_6
+dw_pcie_setup_rc,FUNC_7
+dw_pcie_wait_for_link,FUNC_8
+to_artpec6_pcie,FUNC_9
+to_dw_pcie_from_pp,FUNC_10
+artpec6_pcie_host_init,FUNC_11
+pp,VAR_0
+pci,VAR_1
+artpec6_pcie,VAR_2

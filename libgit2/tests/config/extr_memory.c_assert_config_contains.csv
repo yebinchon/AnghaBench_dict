@@ -1,0 +1,8 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_config_backend_get_string,FUNC_2
+assert_config_contains,FUNC_3
+backend,VAR_0
+name,VAR_1
+value,VAR_2
+entry,VAR_3

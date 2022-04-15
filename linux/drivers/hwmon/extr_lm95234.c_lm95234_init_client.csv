@@ -1,0 +1,10 @@
+LM95234_REG_CONFIG,VAR_0
+LM95234_REG_REM_MODEL,VAR_1
+LM95234_REG_REM_MODEL_STS,VAR_2
+dev_notice,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+lm95234_init_client,FUNC_3
+client,VAR_3
+val,VAR_4
+model,VAR_5

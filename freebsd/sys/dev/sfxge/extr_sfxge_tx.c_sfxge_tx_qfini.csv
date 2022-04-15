@@ -1,0 +1,14 @@
+KASSERT,FUNC_0
+M_SFXGE,VAR_0
+SFXGE_TXQ_INITIALIZED,VAR_1
+SFXGE_TXQ_IP_TCP_UDP_CKSUM,VAR_2
+SFXGE_TXQ_LOCK_DESTROY,FUNC_1
+bus_dmamap_destroy,FUNC_2
+free,FUNC_3
+sfxge_dma_free,FUNC_4
+tso_fini,FUNC_5
+sfxge_tx_qfini,FUNC_6
+sc,VAR_3
+index,VAR_4
+txq,VAR_5
+nmaps,VAR_6

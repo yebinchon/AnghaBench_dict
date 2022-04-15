@@ -1,0 +1,17 @@
+DV1394_MAX_FRAMES,VAR_0
+OHCI1394_IsoRecvIntMaskClear,VAR_1
+OHCI1394_IsoXmitIntMaskClear,VAR_2
+debug_printk,FUNC_0
+dma_region_free,FUNC_1
+frame_delete,FUNC_2
+ohci1394_unregister_iso_tasklet,FUNC_3
+reg_write,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+stop_dma,FUNC_7
+do_dv1394_shutdown,FUNC_8
+video,VAR_3
+free_dv_buf,VAR_4
+i,VAR_5
+chan_mask,VAR_6
+flags,VAR_7

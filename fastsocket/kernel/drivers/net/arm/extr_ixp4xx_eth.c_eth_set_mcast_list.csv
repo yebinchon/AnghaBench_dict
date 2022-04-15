@@ -1,0 +1,15 @@
+DEFAULT_RX_CNTRL0,VAR_0
+ETH_ALEN,VAR_1
+IFF_PROMISC,VAR_2
+RX_CNTRL0_ADDR_FLTR_EN,VAR_3
+__raw_writel,FUNC_0
+memset,FUNC_1
+netdev_priv,FUNC_2
+eth_set_mcast_list,FUNC_3
+dev,VAR_4
+port,VAR_5
+mclist,VAR_6
+diffs,VAR_7
+addr,VAR_8
+cnt,VAR_9
+i,VAR_10

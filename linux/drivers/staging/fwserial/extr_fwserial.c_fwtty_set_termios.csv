@@ -1,0 +1,17 @@
+CBAUD,VAR_0
+CRTSCTS,VAR_1
+C_CRTSCTS,FUNC_0
+TIOCM_CTS,VAR_2
+TIOCM_DTR,VAR_3
+TIOCM_RTS,VAR_4
+__fwtty_write_port_status,FUNC_1
+fwtty_restart_tx,FUNC_2
+set_termios,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+tty_throttled,FUNC_6
+fwtty_set_termios,FUNC_7
+tty,VAR_5
+old,VAR_6
+port,VAR_7
+baud,VAR_8

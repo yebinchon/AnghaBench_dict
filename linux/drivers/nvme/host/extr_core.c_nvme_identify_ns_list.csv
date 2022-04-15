@@ -1,0 +1,10 @@
+NVME_IDENTIFY_DATA_SIZE,VAR_0
+NVME_ID_CNS_NS_ACTIVE_LIST,VAR_1
+cpu_to_le32,FUNC_0
+nvme_admin_identify,VAR_2
+nvme_submit_sync_cmd,FUNC_1
+nvme_identify_ns_list,FUNC_2
+dev,VAR_3
+nsid,VAR_4
+ns_list,VAR_5
+c,VAR_6

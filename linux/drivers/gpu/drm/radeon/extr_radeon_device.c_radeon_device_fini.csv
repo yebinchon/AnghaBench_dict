@@ -1,0 +1,14 @@
+CHIP_BONAIRE,VAR_0
+DRM_INFO,FUNC_0
+RADEON_IS_PX,VAR_1
+iounmap,FUNC_1
+pci_iounmap,FUNC_2
+pci_is_thunderbolt_attached,FUNC_3
+radeon_bo_evict_vram,FUNC_4
+radeon_doorbell_fini,FUNC_5
+radeon_fini,FUNC_6
+vga_client_register,FUNC_7
+vga_switcheroo_fini_domain_pm_ops,FUNC_8
+vga_switcheroo_unregister_client,FUNC_9
+radeon_device_fini,FUNC_10
+rdev,VAR_2

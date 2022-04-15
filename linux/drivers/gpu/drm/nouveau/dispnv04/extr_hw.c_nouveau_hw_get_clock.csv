@@ -1,0 +1,16 @@
+CHIPSET_NFORCE,VAR_0
+CHIPSET_NFORCE2,VAR_1
+PLL_MEMORY,VAR_2
+nouveau_hw_get_pllvals,FUNC_0
+nouveau_hw_pllvals_to_clk,FUNC_1
+pci_domain_nr,FUNC_2
+pci_get_domain_bus_and_slot,FUNC_3
+pci_read_config_dword,FUNC_4
+nouveau_hw_get_clock,FUNC_5
+dev,VAR_3
+plltype,VAR_4
+pllvals,VAR_5
+ret,VAR_6
+domain,VAR_7
+mpllP,VAR_8
+clock,VAR_9

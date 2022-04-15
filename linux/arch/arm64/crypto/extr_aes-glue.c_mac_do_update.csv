@@ -1,0 +1,15 @@
+AES_BLOCK_SIZE,VAR_0
+aes_encrypt,FUNC_0
+aes_mac_update,FUNC_1
+crypto_simd_usable,FUNC_2
+crypto_xor,FUNC_3
+kernel_neon_begin,FUNC_4
+kernel_neon_end,FUNC_5
+mac_do_update,FUNC_6
+ctx,VAR_1
+in,VAR_2
+blocks,VAR_3
+dg,VAR_4
+enc_before,VAR_5
+enc_after,VAR_6
+rounds,VAR_7

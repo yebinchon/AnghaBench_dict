@@ -1,0 +1,16 @@
+PAGE_SIZE,VAR_0
+PMD_MASK,VAR_1
+PMD_SIZE,VAR_2
+free_p4d_range,FUNC_0
+pgd_addr_end,FUNC_1
+pgd_none_or_clear_bad,FUNC_2
+pgd_offset,FUNC_3
+tlb_change_page_size,FUNC_4
+free_pgd_range,FUNC_5
+tlb,VAR_3
+addr,VAR_4
+end,VAR_5
+floor,VAR_6
+ceiling,VAR_7
+pgd,VAR_8
+next,VAR_9

@@ -1,0 +1,11 @@
+mctrl_gpio_get,FUNC_0
+serial8250_MSR_to_TIOCM,FUNC_1
+serial8250_modem_status,FUNC_2
+serial8250_rpm_get,FUNC_3
+serial8250_rpm_put,FUNC_4
+up_to_u8250p,FUNC_5
+serial8250_do_get_mctrl,FUNC_6
+port,VAR_0
+up,VAR_1
+status,VAR_2
+val,VAR_3

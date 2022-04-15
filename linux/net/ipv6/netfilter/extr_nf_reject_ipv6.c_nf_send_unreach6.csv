@@ -1,0 +1,9 @@
+ICMPV6_DEST_UNREACH,VAR_0
+NF_INET_LOCAL_OUT,VAR_1
+icmpv6_send,FUNC_0
+reject6_csum_ok,FUNC_1
+nf_send_unreach6,FUNC_2
+net,VAR_2
+skb_in,VAR_3
+code,VAR_4
+hooknum,VAR_5

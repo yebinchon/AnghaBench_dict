@@ -1,0 +1,16 @@
+MCJ_EXCEPTION,VAR_0
+NMI_DONE,VAR_1
+NMI_HANDLED,VAR_2
+cpumask_clear_cpu,FUNC_0
+cpumask_test_cpu,FUNC_1
+injectm,VAR_3
+mce_inject_cpumask,VAR_4
+raise_exception,FUNC_2
+raise_poll,FUNC_3
+smp_processor_id,FUNC_4
+this_cpu_ptr,FUNC_5
+mce_raise_notify,FUNC_6
+cmd,VAR_5
+regs,VAR_6
+cpu,VAR_7
+m,VAR_8

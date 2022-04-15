@@ -1,0 +1,16 @@
+RDMAXPRT_CONN_PENDING,VAR_0
+XPT_CLOSE,VAR_1
+clear_bit,FUNC_0
+dprintk,FUNC_1
+rdma_event_msg,FUNC_2
+set_bit,FUNC_3
+svc_xprt_enqueue,FUNC_4
+svc_xprt_get,FUNC_5
+svc_xprt_put,FUNC_6
+trace_svcrdma_cm_event,FUNC_7
+rdma_cma_handler,FUNC_8
+cma_id,VAR_2
+event,VAR_3
+sap,VAR_4
+rdma,VAR_5
+xprt,VAR_6

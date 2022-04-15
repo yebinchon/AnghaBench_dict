@@ -1,0 +1,13 @@
+UV_EAGAIN,VAR_0
+UV_EBADF,VAR_1
+UV_ENOSYS,VAR_2
+UV_EPIPE,VAR_3
+UV_HANDLE_CLOSING,VAR_4
+UV_HANDLE_WRITABLE,VAR_5
+assert,FUNC_0
+uv__tcp_try_write,FUNC_1
+uv__tty_try_write,FUNC_2
+uv_try_write,FUNC_3
+stream,VAR_6
+bufs,VAR_7
+nbufs,VAR_8

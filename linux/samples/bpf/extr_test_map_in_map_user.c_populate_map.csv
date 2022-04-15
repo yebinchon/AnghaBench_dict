@@ -1,0 +1,14 @@
+A_OF_PORT_A,VAR_0
+BPF_ANY,VAR_1
+BPF_NOEXIST,VAR_2
+H_OF_PORT_A,VAR_3
+H_OF_PORT_H,VAR_4
+PORT_A,VAR_5
+PORT_H,VAR_6
+assert,FUNC_0
+bpf_map_update_elem,FUNC_1
+check_map_id,FUNC_2
+populate_map,FUNC_3
+port_key,VAR_7
+magic_result,VAR_8
+ret,VAR_9

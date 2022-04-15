@@ -1,0 +1,14 @@
+EAP_CODE_RESPONSE,VAR_0
+EAP_TYPE_EKE,VAR_1
+EAP_VENDOR_IETF,VAR_2
+MSG_ERROR,VAR_3
+eap_msg_alloc,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_put_u8,FUNC_2
+eap_eke_build_msg,FUNC_3
+data,VAR_4
+id,VAR_5
+length,VAR_6
+eke_exch,VAR_7
+msg,VAR_8
+plen,VAR_9

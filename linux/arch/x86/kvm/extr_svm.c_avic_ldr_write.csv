@@ -1,0 +1,16 @@
+APIC_DFR,VAR_0
+APIC_DFR_FLAT,VAR_1
+AVIC_LOGICAL_ID_ENTRY_GUEST_PHYSICAL_ID_MASK,VAR_2
+AVIC_LOGICAL_ID_ENTRY_VALID_MASK,VAR_3
+EINVAL,VAR_4
+READ_ONCE,FUNC_0
+WRITE_ONCE,FUNC_1
+avic_get_logical_id_entry,FUNC_2
+kvm_lapic_get_reg,FUNC_3
+avic_ldr_write,FUNC_4
+vcpu,VAR_5
+g_physical_id,VAR_6
+ldr,VAR_7
+flat,VAR_8
+entry,VAR_9
+new_entry,VAR_10

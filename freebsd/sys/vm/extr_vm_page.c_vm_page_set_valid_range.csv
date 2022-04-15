@@ -1,0 +1,16 @@
+DEV_BSHIFT,VAR_0
+DEV_BSIZE,VAR_1
+KASSERT,FUNC_0
+pmap_zero_page_area,FUNC_1
+rounddown2,FUNC_2
+vm_page_assert_busied,FUNC_3
+vm_page_bits,FUNC_4
+vm_page_bits_set,FUNC_5
+vm_page_xbusied,FUNC_6
+vm_page_set_valid_range,FUNC_7
+m,VAR_2
+base,VAR_3
+size,VAR_4
+endoff,VAR_5
+frag,VAR_6
+pagebits,VAR_7

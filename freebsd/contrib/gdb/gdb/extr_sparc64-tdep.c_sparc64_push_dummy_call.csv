@@ -1,0 +1,16 @@
+BIAS,VAR_0
+SPARC_O7_REGNUM,VAR_1
+SPARC_SP_REGNUM,VAR_2
+gdb_assert,FUNC_0
+regcache_cooked_write_unsigned,FUNC_1
+sparc64_store_arguments,FUNC_2
+sparc64_push_dummy_call,FUNC_3
+gdbarch,VAR_3
+func_addr,VAR_4
+regcache,VAR_5
+bp_addr,VAR_6
+nargs,VAR_7
+args,VAR_8
+sp,VAR_9
+struct_return,VAR_10
+struct_addr,VAR_11

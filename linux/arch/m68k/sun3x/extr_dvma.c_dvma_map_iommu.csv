@@ -1,0 +1,14 @@
+DVMA_PAGE_MASK,VAR_0
+DVMA_PAGE_SHIFT,VAR_1
+DVMA_PAGE_SIZE,VAR_2
+IOMMU_FULL_BLOCK,VAR_3
+__pa,FUNC_0
+dvma_entry_set,FUNC_1
+dvma_print,FUNC_2
+iommu_pte,VAR_4
+dvma_map_iommu,FUNC_3
+kaddr,VAR_5
+baddr,VAR_6
+len,VAR_7
+end,VAR_8
+index,VAR_9

@@ -1,0 +1,15 @@
+DT9812_R_MULTI_BYTE_REG,VAR_0
+HZ,VAR_1
+cpu_to_le32,FUNC_0
+usb_bulk_msg,FUNC_1
+usb_rcvbulkpipe,FUNC_2
+usb_sndbulkpipe,FUNC_3
+dt9812_read_multiple_registers,FUNC_4
+dev,VAR_2
+reg_count,VAR_3
+address,VAR_4
+value,VAR_5
+cmd,VAR_6
+i,VAR_7
+count,VAR_8
+retval,VAR_9

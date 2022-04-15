@@ -1,0 +1,10 @@
+XBS_ATTACH_CH_ACTIVE,VAR_0
+config_intrhook_disestablish,FUNC_0
+device_get_softc,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+xenbusb_attach,FUNC_4
+xenbusb_back_attach,FUNC_5
+dev,VAR_1
+xbs,VAR_2
+error,VAR_3

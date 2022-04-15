@@ -1,0 +1,15 @@
+RME96_IO_CONTROL_REGISTER,VAR_0
+RME96_WCR_DOLBY,VAR_1
+RME96_WCR_EMP,VAR_2
+RME96_WCR_PRO,VAR_3
+snd_kcontrol_chip,FUNC_0
+snd_rme96_convert_from_aes,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+writel,FUNC_4
+snd_rme96_control_spdif_stream_put,FUNC_5
+kcontrol,VAR_4
+ucontrol,VAR_5
+rme96,VAR_6
+change,VAR_7
+val,VAR_8

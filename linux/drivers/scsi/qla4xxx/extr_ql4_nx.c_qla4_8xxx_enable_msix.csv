@@ -1,0 +1,14 @@
+KERN_WARNING,VAR_0
+PCI_IRQ_MSIX,VAR_1
+QLA_MSIX_ENTRIES,VAR_2
+free_irq,FUNC_0
+pci_alloc_irq_vectors,FUNC_1
+pci_free_irq_vectors,FUNC_2
+pci_irq_vector,FUNC_3
+ql4_printk,FUNC_4
+qla4_8xxx_default_intr_handler,VAR_3
+qla4_8xxx_msix_rsp_q,VAR_4
+request_irq,FUNC_5
+qla4_8xxx_enable_msix,FUNC_6
+ha,VAR_5
+ret,VAR_6

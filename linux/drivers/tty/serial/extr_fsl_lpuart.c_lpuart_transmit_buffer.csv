@@ -1,0 +1,14 @@
+UARTDR,VAR_0
+UARTTCFIFO,VAR_1
+UART_XMIT_SIZE,VAR_2
+WAKEUP_CHARS,VAR_3
+lpuart_stop_tx,FUNC_0
+lpuart_stopped_or_empty,FUNC_1
+readb,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_write_wakeup,FUNC_5
+writeb,FUNC_6
+lpuart_transmit_buffer,FUNC_7
+sport,VAR_4
+xmit,VAR_5

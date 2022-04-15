@@ -1,0 +1,14 @@
+C_IRQ0,VAR_0
+C_IRQ1,VAR_1
+C_IRQ3,VAR_2
+C_IRQ4,VAR_3
+C_IRQ5,VAR_4
+MIPS_CPU_IRQ_BASE,VAR_5
+do_IRQ,FUNC_0
+pcimt_hwint0,FUNC_1
+pcimt_hwint1,FUNC_2
+pcimt_hwint3,FUNC_3
+read_c0_cause,FUNC_4
+read_c0_status,FUNC_5
+sni_pcimt_hwint,FUNC_6
+pending,VAR_6

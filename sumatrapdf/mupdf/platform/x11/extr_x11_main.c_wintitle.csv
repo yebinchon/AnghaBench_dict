@@ -1,0 +1,13 @@
+NET_WM_NAME,VAR_0
+PropModeReplace,VAR_1
+XA_UTF8_STRING,VAR_2
+XChangeProperty,FUNC_0
+XStoreName,FUNC_1
+XmbSetWMProperties,FUNC_2
+Xutf8SetWMProperties,FUNC_3
+strlen,FUNC_4
+xdpy,VAR_3
+xwin,VAR_4
+wintitle,FUNC_5
+app,VAR_5
+s,VAR_6

@@ -1,0 +1,16 @@
+PMAP_ENTER_NOSLEEP,VAR_0
+PMAP_ENTER_QUICK_LOCKED,VAR_1
+PMAP_LOCK,FUNC_0
+PMAP_UNLOCK,FUNC_1
+VM_PROT_EXECUTE,VAR_2
+VM_PROT_READ,VAR_3
+mmu_booke_enter_locked,FUNC_2
+pvh_global_lock,VAR_4
+rw_wlock,FUNC_3
+rw_wunlock,FUNC_4
+mmu_booke_enter_quick,FUNC_5
+mmu,VAR_5
+pmap,VAR_6
+va,VAR_7
+m,VAR_8
+prot,VAR_9

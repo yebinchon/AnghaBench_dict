@@ -1,0 +1,14 @@
+ABS_PRESSURE,VAR_0
+REL_X,VAR_1
+REL_Y,VAR_2
+be16_to_cpup,FUNC_0
+input_report_abs,FUNC_1
+input_report_rel,FUNC_2
+input_sync,FUNC_3
+synusb_report_buttons,FUNC_4
+synusb_report_stick,FUNC_5
+synusb,VAR_3
+input_dev,VAR_4
+x,VAR_5
+y,VAR_6
+pressure,VAR_7

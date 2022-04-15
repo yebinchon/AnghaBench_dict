@@ -1,0 +1,15 @@
+CR0_SERVICE_SIGNAL_SUBMASK,VAR_0
+KVM_S390_PFAULT_TOKEN_INVALID,VAR_1
+PAGE_MASK,VAR_2
+current,VAR_3
+gfn_to_hva,FUNC_0
+gpa_to_gfn,FUNC_1
+kvm_s390_vcpu_has_irq,FUNC_2
+kvm_setup_async_pf,FUNC_3
+psw_extint_disabled,FUNC_4
+read_guest_real,FUNC_5
+kvm_arch_setup_async_pf,FUNC_6
+vcpu,VAR_4
+hva,VAR_5
+arch,VAR_6
+rc,VAR_7

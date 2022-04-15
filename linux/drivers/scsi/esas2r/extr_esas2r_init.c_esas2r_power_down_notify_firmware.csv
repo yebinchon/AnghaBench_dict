@@ -1,0 +1,14 @@
+DRBL_POWER_DOWN,VAR_0
+MU_DOORBELL_IN,VAR_1
+MU_DOORBELL_OUT,VAR_2
+esas2r_hdebug,FUNC_0
+esas2r_read_register_dword,FUNC_1
+esas2r_write_register_dword,FUNC_2
+jiffies,VAR_3
+jiffies_to_msecs,FUNC_3
+msecs_to_jiffies,FUNC_4
+schedule_timeout_interruptible,FUNC_5
+esas2r_power_down_notify_firmware,FUNC_6
+a,VAR_4
+starttime,VAR_5
+doorbell,VAR_6

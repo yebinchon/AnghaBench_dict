@@ -1,0 +1,13 @@
+Outb,FUNC_0
+R1,VAR_0
+R3,VAR_1
+del_timer_sync,FUNC_1
+netif_stop_queue,FUNC_2
+scc_discard_buffers,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+wr,FUNC_6
+scc_net_close,FUNC_7
+dev,VAR_2
+scc,VAR_3
+flags,VAR_4

@@ -1,0 +1,12 @@
+BN_MONT_CTX_free,FUNC_0
+BN_MONT_CTX_new,FUNC_1
+BN_MONT_CTX_set,FUNC_2
+CRYPTO_THREAD_read_lock,FUNC_3
+CRYPTO_THREAD_unlock,FUNC_4
+CRYPTO_THREAD_write_lock,FUNC_5
+BN_MONT_CTX_set_locked,FUNC_6
+pmont,VAR_0
+lock,VAR_1
+mod,VAR_2
+ctx,VAR_3
+ret,VAR_4

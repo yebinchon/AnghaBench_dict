@@ -1,0 +1,16 @@
+BPF_READ,VAR_0
+BPF_WRITE,VAR_1
+EACCES,VAR_2
+check_map_access,FUNC_0
+check_map_access_type,FUNC_1
+check_packet_access,FUNC_2
+check_stack_boundary,FUNC_3
+cur_regs,FUNC_4
+check_helper_mem_access,FUNC_5
+env,VAR_3
+regno,VAR_4
+access_size,VAR_5
+zero_size_allowed,VAR_6
+meta,VAR_7
+regs,VAR_8
+reg,VAR_9

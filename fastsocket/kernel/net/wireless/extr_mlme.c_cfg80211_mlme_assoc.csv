@@ -1,0 +1,15 @@
+__cfg80211_mlme_assoc,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+wdev_lock,FUNC_3
+wdev_unlock,FUNC_4
+cfg80211_mlme_assoc,FUNC_5
+rdev,VAR_0
+dev,VAR_1
+chan,VAR_2
+bssid,VAR_3
+ssid,VAR_4
+ssid_len,VAR_5
+req,VAR_6
+wdev,VAR_7
+err,VAR_8

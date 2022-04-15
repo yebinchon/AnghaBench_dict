@@ -1,0 +1,16 @@
+PPSMC_MSG_VCEDPM_SetEnabledMask,VAR_0
+SMU7_Fusion_DpmTable,VAR_1
+VceBootLevel,VAR_2
+amdgpu_kv_copy_bytes_to_smc,FUNC_0
+amdgpu_kv_send_msg_to_smc_with_parameter,FUNC_1
+kv_enable_vce_dpm,FUNC_2
+kv_get_pi,FUNC_3
+kv_get_vce_boot_level,FUNC_4
+offsetof,FUNC_5
+kv_update_vce_dpm,FUNC_6
+adev,VAR_3
+amdgpu_new_state,VAR_4
+amdgpu_current_state,VAR_5
+pi,VAR_6
+table,VAR_7
+ret,VAR_8

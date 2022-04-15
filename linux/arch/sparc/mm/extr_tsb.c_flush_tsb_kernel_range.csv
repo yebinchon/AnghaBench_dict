@@ -1,0 +1,14 @@
+KERNEL_TSB_NENTRIES,VAR_0
+PAGE_SHIFT,VAR_1
+PAGE_SIZE,VAR_2
+TSB_TAG_INVALID_BIT,VAR_3
+flush_tsb_kernel_range_scan,FUNC_0
+swapper_tsb,VAR_4
+tag_compare,FUNC_1
+tsb_hash,FUNC_2
+flush_tsb_kernel_range,FUNC_3
+start,VAR_5
+end,VAR_6
+v,VAR_7
+hash,VAR_8
+ent,VAR_9

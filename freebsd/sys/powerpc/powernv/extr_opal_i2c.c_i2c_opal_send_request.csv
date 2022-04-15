@@ -1,0 +1,16 @@
+OPAL_ASYNC_COMPLETION,VAR_0
+OPAL_I2C_REQUEST,VAR_1
+OPAL_SUCCESS,VAR_2
+memset,FUNC_0
+opal_alloc_async_token,FUNC_1
+opal_call,FUNC_2
+opal_free_async_token,FUNC_3
+opal_get_async_rc,FUNC_4
+opal_wait_completion,FUNC_5
+vtophys,FUNC_6
+i2c_opal_send_request,FUNC_7
+bus_id,VAR_3
+req,VAR_4
+msg,VAR_5
+token,VAR_6
+rc,VAR_7

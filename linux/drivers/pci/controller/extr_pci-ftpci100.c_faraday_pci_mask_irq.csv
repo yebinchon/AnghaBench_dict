@@ -1,0 +1,12 @@
+BIT,FUNC_0
+FARADAY_PCI_CTRL2,VAR_0
+PCI_CTRL2_INTMASK_SHIFT,VAR_1
+PCI_CTRL2_INTSTS_SHIFT,VAR_2
+faraday_raw_pci_read_config,FUNC_1
+faraday_raw_pci_write_config,FUNC_2
+irq_data_get_irq_chip_data,FUNC_3
+irqd_to_hwirq,FUNC_4
+faraday_pci_mask_irq,FUNC_5
+d,VAR_3
+p,VAR_4
+reg,VAR_5

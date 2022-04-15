@@ -1,0 +1,13 @@
+EVENTHANDLER_PRI_FIRST,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+UMA_ALIGN_PTR,VAR_1
+UMA_ZONE_NOFREE,VAR_2
+maxsockets,VAR_3
+maxsockets_change,VAR_4
+socket_zone,VAR_5
+socket_zone_change,VAR_6
+uma_zcreate,FUNC_1
+uma_zone_set_max,FUNC_2
+uma_zone_set_warning,FUNC_3
+socket_init,FUNC_4
+tag,VAR_7

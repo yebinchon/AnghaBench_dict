@@ -1,0 +1,10 @@
+DEV_MAC_ENA_CFG,VAR_0
+QSYS_SWITCH_PORT_MODE,VAR_1
+QSYS_SWITCH_PORT_MODE_PORT_ENA,VAR_2
+netdev_priv,FUNC_0
+ocelot_port_writel,FUNC_1
+ocelot_rmw_rix,FUNC_2
+phy_disconnect,FUNC_3
+ocelot_port_stop,FUNC_4
+dev,VAR_3
+port,VAR_4

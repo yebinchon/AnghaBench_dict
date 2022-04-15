@@ -1,0 +1,14 @@
+ZYNQMP_DMA_DESC_SIZE,FUNC_0
+ZYNQMP_DMA_NUM_DESCS,VAR_0
+dma_free_coherent,FUNC_1
+kfree,FUNC_2
+pm_runtime_mark_last_busy,FUNC_3
+pm_runtime_put_autosuspend,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+to_chan,FUNC_7
+zynqmp_dma_free_descriptors,FUNC_8
+zynqmp_dma_free_chan_resources,FUNC_9
+dchan,VAR_1
+chan,VAR_2
+irqflags,VAR_3

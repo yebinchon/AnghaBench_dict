@@ -1,0 +1,10 @@
+VIRTIO_MSI_CONFIG_VECTOR,VAR_0
+VIRTIO_MSI_NO_VECTOR,VAR_1
+VIRTIO_MSI_QUEUE_VECTOR,VAR_2
+VTPCI_FLAG_MSIX,VAR_3
+vtpci_free_interrupts,FUNC_0
+vtpci_select_virtqueue,FUNC_1
+vtpci_write_config_2,FUNC_2
+vtpci_cleanup_setup_intr_attempt,FUNC_3
+sc,VAR_4
+idx,VAR_5

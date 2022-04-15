@@ -1,0 +1,16 @@
+__unregister,VAR_0
+board_lock,VAR_1
+dev_err,FUNC_0
+device_for_each_child,FUNC_1
+device_unregister,FUNC_2
+idr_find,FUNC_3
+idr_remove,FUNC_4
+list_del,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+spi_destroy_queue,FUNC_8
+spi_master_idr,VAR_2
+spi_unregister_controller,FUNC_9
+ctlr,VAR_3
+found,VAR_4
+id,VAR_5

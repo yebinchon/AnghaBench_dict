@@ -1,0 +1,13 @@
+BR_MAX_RSA_SIZE,VAR_0
+br_rsa_i15_public,FUNC_0
+br_rsa_pss_sig_unpad,FUNC_1
+memcpy,FUNC_2
+br_rsa_i15_pss_vrfy,FUNC_3
+x,VAR_1
+xlen,VAR_2
+hf_data,VAR_3
+hf_mgf1,VAR_4
+hash,VAR_5
+salt_len,VAR_6
+pk,VAR_7
+sig,VAR_8

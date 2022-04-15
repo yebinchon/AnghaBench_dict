@@ -1,0 +1,13 @@
+AUTH_TOKEN_HMAC_OK,VAR_0
+assert_int_equal,FUNC_0
+assert_string_equal,FUNC_1
+generate_auth_token,FUNC_2
+now,VAR_1
+now0key0,VAR_2
+strcpy,FUNC_3
+strdup,FUNC_4
+verify_auth_token,FUNC_5
+zerohmac,FUNC_6
+auth_token_test_known_keys,FUNC_7
+state,VAR_3
+ctx,VAR_4

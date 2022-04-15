@@ -1,0 +1,17 @@
+NVME_QID_ANY,VAR_0
+NVME_SC_DNR,VAR_1
+__nvme_submit_sync_cmd,FUNC_0
+cpu_to_le32,FUNC_1
+dev_err,FUNC_2
+le64_to_cpu,FUNC_3
+memset,FUNC_4
+nvme_fabrics_command,VAR_2
+nvme_fabrics_type_property_get,VAR_3
+unlikely,FUNC_5
+nvmf_reg_read64,FUNC_6
+ctrl,VAR_4
+off,VAR_5
+val,VAR_6
+cmd,VAR_7
+res,VAR_8
+ret,VAR_9

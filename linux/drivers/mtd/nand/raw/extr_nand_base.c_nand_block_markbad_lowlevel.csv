@@ -1,0 +1,15 @@
+NAND_BBT_NO_OOB_BBM,VAR_0
+memset,FUNC_0
+nand_erase_nand,FUNC_1
+nand_get_device,FUNC_2
+nand_markbad_bbm,FUNC_3
+nand_markbad_bbt,FUNC_4
+nand_release_device,FUNC_5
+nand_to_mtd,FUNC_6
+nand_block_markbad_lowlevel,FUNC_7
+chip,VAR_1
+ofs,VAR_2
+mtd,VAR_3
+res,VAR_4
+ret,VAR_5
+einfo,VAR_6

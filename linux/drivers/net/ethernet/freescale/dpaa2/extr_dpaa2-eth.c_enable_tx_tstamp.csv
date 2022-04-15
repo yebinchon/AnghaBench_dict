@@ -1,0 +1,17 @@
+DPAA2_FAEAD_A2V,VAR_0
+DPAA2_FAEAD_UPD,VAR_1
+DPAA2_FAEAD_UPDV,VAR_2
+DPAA2_FD_CTRL_ASAL,VAR_3
+DPAA2_FD_FRC_FAEADV,VAR_4
+cpu_to_le32,FUNC_0
+dpaa2_fd_get_ctrl,FUNC_1
+dpaa2_fd_get_frc,FUNC_2
+dpaa2_fd_set_ctrl,FUNC_3
+dpaa2_fd_set_frc,FUNC_4
+dpaa2_get_faead,FUNC_5
+enable_tx_tstamp,FUNC_6
+fd,VAR_5
+buf_start,VAR_6
+faead,VAR_7
+ctrl,VAR_8
+frc,VAR_9

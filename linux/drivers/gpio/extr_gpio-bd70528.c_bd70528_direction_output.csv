@@ -1,0 +1,11 @@
+BD70528_GPIO_OUT_ENABLE,VAR_0
+BD70528_GPIO_OUT_EN_MASK,VAR_1
+GPIO_OUT_REG,FUNC_0
+bd70528_gpio_set,FUNC_1
+gpiochip_get_data,FUNC_2
+regmap_update_bits,FUNC_3
+bd70528_direction_output,FUNC_4
+chip,VAR_2
+offset,VAR_3
+value,VAR_4
+bdgpio,VAR_5

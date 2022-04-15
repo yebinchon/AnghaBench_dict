@@ -1,0 +1,13 @@
+E_FTP_RESULT_CONTINUE,VAR_0
+E_FTP_RESULT_FAILED,VAR_1
+E_FTP_RESULT_OK,VAR_2
+SL_EAGAIN,VAR_3
+ftp_reset,FUNC_0
+modusocket_socket_add,FUNC_1
+sl_Accept,FUNC_2
+ftp_wait_for_connection,FUNC_3
+l_sd,VAR_4
+n_sd,VAR_5
+sClientAddress,VAR_6
+in_addrSize,VAR_7
+_sd,VAR_8

@@ -1,0 +1,15 @@
+EXT2_BLOCK_SIZE_BITS,FUNC_0
+EXT2_INODES_PER_GROUP,FUNC_1
+EXT2_INODE_SIZE,FUNC_2
+bdi_read_congested,FUNC_3
+bdi_write_congested,FUNC_4
+ext2_get_group_desc,FUNC_5
+le32_to_cpu,FUNC_6
+sb_breadahead,FUNC_7
+ext2_preread_inode,FUNC_8
+inode,VAR_0
+block_group,VAR_1
+offset,VAR_2
+block,VAR_3
+gdp,VAR_4
+bdi,VAR_5

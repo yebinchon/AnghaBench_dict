@@ -1,0 +1,15 @@
+INTR_MASK_REG,VAR_0
+INTR_STATUS_REG,VAR_1
+brd_io,VAR_2
+domain,VAR_3
+generic_handle_irq,FUNC_0
+imx_readw,FUNC_1
+irq_find_mapping,FUNC_2
+stub1,FUNC_3
+stub2,FUNC_4
+stub3,FUNC_5
+mxc_expio_irq_handler,FUNC_6
+desc,VAR_4
+imr_val,VAR_5
+int_valid,VAR_6
+expio_irq,VAR_7

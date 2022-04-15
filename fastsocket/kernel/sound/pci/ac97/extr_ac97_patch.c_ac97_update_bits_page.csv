@@ -1,0 +1,14 @@
+AC97_INT_PAGING,VAR_0
+AC97_PAGE_MASK,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+snd_ac97_read,FUNC_2
+snd_ac97_update_bits,FUNC_3
+ac97_update_bits_page,FUNC_4
+ac97,VAR_2
+reg,VAR_3
+mask,VAR_4
+value,VAR_5
+page,VAR_6
+page_save,VAR_7
+ret,VAR_8

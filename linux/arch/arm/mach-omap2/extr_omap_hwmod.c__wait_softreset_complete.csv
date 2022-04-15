@@ -1,0 +1,11 @@
+MAX_MODULE_SOFTRESET_WAIT,VAR_0
+SYSC_HAS_RESET_STATUS,VAR_1
+SYSS_HAS_RESET_STATUS,VAR_2
+SYSS_RESETDONE_MASK,VAR_3
+omap_hwmod_read,FUNC_0
+omap_test_timeout,FUNC_1
+_wait_softreset_complete,FUNC_2
+oh,VAR_4
+sysc,VAR_5
+softrst_mask,VAR_6
+c,VAR_7

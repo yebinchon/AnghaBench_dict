@@ -1,0 +1,14 @@
+cancel_delayed_work_sync,FUNC_0
+codec_release_pcms,FUNC_1
+hda_codec_dev,FUNC_2
+memset,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_noresume,FUNC_5
+remove_conn_list,FUNC_6
+snd_array_free,FUNC_7
+snd_hda_ctls_clear,FUNC_8
+snd_hda_detach_beep_device,FUNC_9
+snd_hda_jack_tbl_clear,FUNC_10
+snd_hdac_regmap_exit,FUNC_11
+snd_hda_codec_cleanup_for_unbind,FUNC_12
+codec,VAR_0

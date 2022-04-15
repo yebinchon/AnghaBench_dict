@@ -1,0 +1,7 @@
+MSP_PIN_USB0_HOST_DEV,VAR_0
+gpio_free,FUNC_0
+platform_get_drvdata,FUNC_1
+usb_hcd_msp_remove,FUNC_2
+ehci_hcd_msp_drv_remove,FUNC_3
+pdev,VAR_1
+hcd,VAR_2

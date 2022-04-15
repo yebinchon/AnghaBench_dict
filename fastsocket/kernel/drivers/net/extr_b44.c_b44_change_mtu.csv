@@ -1,0 +1,16 @@
+B44_FULL_RESET,VAR_0
+B44_MAX_MTU,VAR_1
+B44_MIN_MTU,VAR_2
+EINVAL,VAR_3
+b44_enable_ints,FUNC_0
+b44_halt,FUNC_1
+b44_init_hw,FUNC_2
+b44_init_rings,FUNC_3
+netdev_priv,FUNC_4
+netif_running,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+b44_change_mtu,FUNC_8
+dev,VAR_4
+new_mtu,VAR_5
+bp,VAR_6

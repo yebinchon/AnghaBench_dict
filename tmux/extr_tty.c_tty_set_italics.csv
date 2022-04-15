@@ -1,0 +1,11 @@
+TTYC_SITM,VAR_0
+TTYC_SMSO,VAR_1
+global_options,VAR_2
+options_get_string,FUNC_0
+strcmp,FUNC_1
+strncmp,FUNC_2
+tty_putcode,FUNC_3
+tty_term_has,FUNC_4
+tty_set_italics,FUNC_5
+tty,VAR_3
+s,VAR_4

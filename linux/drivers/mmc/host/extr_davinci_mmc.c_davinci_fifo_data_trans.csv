@@ -1,0 +1,14 @@
+DAVINCI_MMCDRR,VAR_0
+DAVINCI_MMCDXR,VAR_1
+DAVINCI_MMC_DATADIR_WRITE,VAR_2
+ioread8_rep,FUNC_0
+iowrite8_rep,FUNC_1
+mmc_davinci_sg_to_buf,FUNC_2
+readl,FUNC_3
+sg_next,FUNC_4
+writel,FUNC_5
+davinci_fifo_data_trans,FUNC_6
+host,VAR_3
+n,VAR_4
+p,VAR_5
+i,VAR_6

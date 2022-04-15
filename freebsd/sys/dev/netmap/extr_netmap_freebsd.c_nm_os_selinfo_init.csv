@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+MTX_DEF,VAR_1
+M_NOWAIT,VAR_2
+PI_NET,VAR_3
+TASK_INIT,FUNC_0
+knlist_init_mtx,FUNC_1
+mtx_init,FUNC_2
+nm_kqueue_notify,VAR_4
+snprintf,FUNC_3
+taskqueue_create,FUNC_4
+taskqueue_free,FUNC_5
+taskqueue_start_threads,FUNC_6
+taskqueue_thread_enqueue,VAR_5
+nm_os_selinfo_init,FUNC_7
+si,VAR_6
+name,VAR_7
+err,VAR_8

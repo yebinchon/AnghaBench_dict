@@ -1,0 +1,12 @@
+JZ_DMA_ENDI,VAR_0
+JZ_DMA_LINK,VAR_1
+device_printf,FUNC_0
+jz4780_mmc_dma_cb,FUNC_1
+arg,VAR_2
+segs,VAR_3
+nsegs,VAR_4
+err,VAR_5
+dma_desc,VAR_6
+sc,VAR_7
+dma_desc_phys,VAR_8
+i,VAR_9

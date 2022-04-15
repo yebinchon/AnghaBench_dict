@@ -1,0 +1,13 @@
+ARG_CHECK,FUNC_0
+memcpy,FUNC_1
+secp256k1_fe_is_zero,FUNC_2
+secp256k1_fe_set_b32,FUNC_3
+secp256k1_ge_from_storage,FUNC_4
+secp256k1_ge_set_xy,FUNC_5
+secp256k1_pubkey_load,FUNC_6
+ctx,VAR_0
+ge,VAR_1
+pubkey,VAR_2
+s,VAR_3
+x,VAR_4
+y,VAR_5

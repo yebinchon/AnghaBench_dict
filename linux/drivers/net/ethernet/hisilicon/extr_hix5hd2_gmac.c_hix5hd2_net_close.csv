@@ -1,0 +1,12 @@
+clk_disable_unprepare,FUNC_0
+hix5hd2_free_dma_desc_rings,FUNC_1
+hix5hd2_irq_disable,FUNC_2
+hix5hd2_port_disable,FUNC_3
+napi_disable,FUNC_4
+netdev_priv,FUNC_5
+netif_stop_queue,FUNC_6
+phy_disconnect,FUNC_7
+phy_stop,FUNC_8
+hix5hd2_net_close,FUNC_9
+dev,VAR_0
+priv,VAR_1

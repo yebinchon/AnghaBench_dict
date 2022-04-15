@@ -1,0 +1,13 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+RX_QUEUE_ENTRIES,VAR_2
+TX_QUEUE_ENTRIES,VAR_3
+dma_alloc_coherent,FUNC_0
+ftmac100_alloc_rx_page,FUNC_1
+ftmac100_free_buffers,FUNC_2
+ftmac100_rxdes_set_end_of_ring,FUNC_3
+ftmac100_txdes_set_end_of_ring,FUNC_4
+ftmac100_alloc_buffers,FUNC_5
+priv,VAR_4
+i,VAR_5
+rxdes,VAR_6

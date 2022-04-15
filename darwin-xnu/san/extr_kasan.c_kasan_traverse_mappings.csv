@@ -1,0 +1,16 @@
+HW_PAGE_MASK,VAR_0
+HW_PAGE_SIZE,VAR_1
+SHADOW_FOR_ADDRESS,FUNC_0
+VM_MAX_KERNEL_ADDRESS,VAR_2
+VM_MIN_KERNEL_AND_KEXT_ADDRESS,VAR_3
+kasan_is_shadow_mapped,FUNC_1
+vm_map_round_page,FUNC_2
+vm_map_trunc_page,FUNC_3
+kasan_traverse_mappings,FUNC_4
+cb,VAR_4
+ctx,VAR_5
+shadow_base,VAR_6
+shadow_top,VAR_7
+start,VAR_8
+end,VAR_9
+addr,VAR_10

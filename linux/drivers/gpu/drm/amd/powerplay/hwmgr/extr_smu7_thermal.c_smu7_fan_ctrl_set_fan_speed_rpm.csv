@@ -1,0 +1,15 @@
+CGS_IND_REG__SMC,VAR_0
+CG_TACH_CTRL,VAR_1
+FDO_PWM_MODE_STATIC_RPM,VAR_2
+PHM_PlatformCaps_MicrocodeFanControl,VAR_3
+PHM_WRITE_VFPF_INDIRECT_FIELD,FUNC_0
+PP_CAP,FUNC_1
+TARGET_PERIOD,VAR_4
+amdgpu_asic_get_xclk,FUNC_2
+smu7_fan_ctrl_set_static_mode,FUNC_3
+smu7_fan_ctrl_stop_smc_fan_control,FUNC_4
+smu7_fan_ctrl_set_fan_speed_rpm,FUNC_5
+hwmgr,VAR_5
+speed,VAR_6
+tach_period,VAR_7
+crystal_clock_freq,VAR_8

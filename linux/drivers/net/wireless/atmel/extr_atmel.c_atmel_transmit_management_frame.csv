@@ -1,0 +1,12 @@
+MGMT_FRAME_BODY_OFFSET,VAR_0
+TX_PACKET_TYPE_MGMT,VAR_1
+atmel_copy_to_card,FUNC_0
+find_tx_buff,FUNC_1
+tx_update_descriptor,FUNC_2
+atmel_transmit_management_frame,FUNC_3
+priv,VAR_2
+header,VAR_3
+body,VAR_4
+body_len,VAR_5
+buff,VAR_6
+len,VAR_7

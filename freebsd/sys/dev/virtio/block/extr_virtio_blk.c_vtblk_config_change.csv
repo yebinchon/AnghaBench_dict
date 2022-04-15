@@ -1,0 +1,8 @@
+device_get_softc,FUNC_0
+vtblk_read_config,FUNC_1
+vtblk_resize_disk,FUNC_2
+vtblk_config_change,FUNC_3
+dev,VAR_0
+sc,VAR_1
+blkcfg,VAR_2
+capacity,VAR_3

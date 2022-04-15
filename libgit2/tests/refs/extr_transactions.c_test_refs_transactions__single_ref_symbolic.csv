@@ -1,0 +1,12 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+g_tx,VAR_1
+git_reference_free,FUNC_2
+git_reference_lookup,FUNC_3
+git_reference_symbolic_target,FUNC_4
+git_transaction_commit,FUNC_5
+git_transaction_lock_ref,FUNC_6
+git_transaction_set_symbolic_target,FUNC_7
+test_refs_transactions__single_ref_symbolic,FUNC_8
+ref,VAR_2

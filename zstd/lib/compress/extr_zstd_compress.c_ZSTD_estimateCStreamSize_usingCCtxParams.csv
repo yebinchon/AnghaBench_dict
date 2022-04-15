@@ -1,0 +1,17 @@
+GENERIC,VAR_0
+MIN,FUNC_0
+RETURN_ERROR_IF,FUNC_1
+ZSTD_BLOCKSIZE_MAX,VAR_1
+ZSTD_CONTENTSIZE_UNKNOWN,VAR_2
+ZSTD_compressBound,FUNC_2
+ZSTD_cwksp_alloc_size,FUNC_3
+ZSTD_estimateCCtxSize_usingCCtxParams,FUNC_4
+ZSTD_getCParamsFromCCtxParams,FUNC_5
+ZSTD_estimateCStreamSize_usingCCtxParams,FUNC_6
+params,VAR_3
+cParams,VAR_4
+CCtxSize,VAR_5
+blockSize,VAR_6
+inBuffSize,VAR_7
+outBuffSize,VAR_8
+streamingSize,VAR_9

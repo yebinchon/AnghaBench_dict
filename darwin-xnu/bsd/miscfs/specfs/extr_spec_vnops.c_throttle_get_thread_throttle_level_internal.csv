@@ -1,0 +1,8 @@
+THROTTLE_LEVEL_TIER3,VAR_0
+assert,FUNC_0
+timer_get_user_idle_level,FUNC_1
+throttle_get_thread_throttle_level_internal,FUNC_2
+ut,VAR_1
+io_tier,VAR_2
+thread_throttle_level,VAR_3
+user_idle_level,VAR_4

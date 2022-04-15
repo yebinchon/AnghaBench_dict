@@ -1,0 +1,16 @@
+BIT,FUNC_0
+PERF_HES_STOPPED,VAR_0
+PERF_IDX2OFF,FUNC_1
+SYS_PMBLIMITR_EL1,VAR_1
+SYS_PMBLIMITR_EL1_E_SHIFT,VAR_2
+SYS_PMBPTR_EL1,VAR_3
+arm_spe_pmu_next_off,FUNC_2
+arm_spe_pmu_next_snapshot_off,FUNC_3
+perf_aux_output_begin,FUNC_4
+write_sysreg_s,FUNC_5
+arm_spe_perf_aux_output_begin,FUNC_6
+handle,VAR_4
+event,VAR_5
+base,VAR_6
+limit,VAR_7
+buf,VAR_8

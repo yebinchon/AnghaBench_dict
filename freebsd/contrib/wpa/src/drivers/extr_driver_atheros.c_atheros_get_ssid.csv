@@ -1,0 +1,17 @@
+IFNAMSIZ,VAR_0
+IW_ESSID_MAX_SIZE,VAR_1
+MSG_ERROR,VAR_2
+SIOCGIWESSID,VAR_3
+errno,VAR_4
+ioctl,FUNC_0
+os_memset,FUNC_1
+os_strlcpy,FUNC_2
+strerror,FUNC_3
+wpa_printf,FUNC_4
+atheros_get_ssid,FUNC_5
+priv,VAR_5
+buf,VAR_6
+len,VAR_7
+drv,VAR_8
+iwr,VAR_9
+ret,VAR_10

@@ -1,0 +1,11 @@
+CMD_THERMAL_SET_TRIP,VAR_0
+MRQ_THERMAL,VAR_1
+memset,FUNC_0
+tegra_bpmp_transfer,FUNC_1
+tegra_bpmp_thermal_set_trips,FUNC_2
+data,VAR_2
+low,VAR_3
+high,VAR_4
+zone,VAR_5
+req,VAR_6
+msg,VAR_7

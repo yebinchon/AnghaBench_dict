@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+hfi1_update_sm_ah_attr,FUNC_0
+memset,FUNC_1
+rcu_dereference,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+rdma_modify_ah,FUNC_5
+hfi1_modify_qp0_ah,FUNC_6
+ibp,VAR_1
+ah,VAR_2
+dlid,VAR_3
+attr,VAR_4
+qp0,VAR_5
+ret,VAR_6

@@ -1,0 +1,11 @@
+F_ADD_SEALS,VAR_0
+F_SEAL_GROW,VAR_1
+F_SEAL_SEAL,VAR_2
+F_SEAL_SHRINK,VAR_3
+F_SEAL_WRITE,VAR_4
+assert,FUNC_0
+errno,VAR_5
+fcntl,FUNC_1
+memfd_set_sealed,FUNC_2
+fd,VAR_6
+r,VAR_7

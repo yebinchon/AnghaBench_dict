@@ -1,0 +1,11 @@
+MSR_CE,VAR_0
+MSR_DE,VAR_1
+MSR_EE,VAR_2
+MSR_ME,VAR_3
+clear_bit,FUNC_0
+kvmppc_set_msr,FUNC_1
+kvmppc_booke_irqprio_deliver,FUNC_2
+vcpu,VAR_4
+priority,VAR_5
+allowed,VAR_6
+msr_mask,VAR_7

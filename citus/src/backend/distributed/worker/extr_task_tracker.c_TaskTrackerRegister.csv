@@ -1,0 +1,14 @@
+BGWORKER_SHMEM_ACCESS,VAR_0
+BGW_MAXLEN,VAR_1
+BgWorkerStart_ConsistentState,VAR_2
+IsUnderPostmaster,VAR_3
+RegisterBackgroundWorker,FUNC_0
+RequestAddinShmemSpace,FUNC_1
+TaskTrackerShmemInit,VAR_4
+TaskTrackerShmemSize,FUNC_2
+memset,FUNC_3
+prev_shmem_startup_hook,VAR_5
+shmem_startup_hook,VAR_6
+snprintf,FUNC_4
+TaskTrackerRegister,FUNC_5
+worker,VAR_7

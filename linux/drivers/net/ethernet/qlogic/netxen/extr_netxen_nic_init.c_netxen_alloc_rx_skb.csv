@@ -1,0 +1,14 @@
+NETXEN_BUFFER_BUSY,VAR_0
+PCI_DMA_FROMDEVICE,VAR_1
+dev_kfree_skb_any,FUNC_0
+netdev_alloc_skb,FUNC_1
+pci_dma_mapping_error,FUNC_2
+pci_map_single,FUNC_3
+skb_reserve,FUNC_4
+netxen_alloc_rx_skb,FUNC_5
+adapter,VAR_2
+rds_ring,VAR_3
+buffer,VAR_4
+skb,VAR_5
+dma,VAR_6
+pdev,VAR_7

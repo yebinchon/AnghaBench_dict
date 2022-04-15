@@ -1,0 +1,12 @@
+ACPI_FUNCTION_TRACE,FUNC_0
+AE_NOT_ACQUIRED,VAR_0
+AE_OK,VAR_1
+acpi_ev_release_global_lock,FUNC_1
+acpi_ex_unlink_mutex,FUNC_2
+acpi_gbl_global_lock_mutex,VAR_2
+acpi_os_release_mutex,FUNC_3
+ex_release_mutex_object,VAR_3
+return_ACPI_STATUS,FUNC_4
+acpi_ex_release_mutex_object,FUNC_5
+obj_desc,VAR_4
+status,VAR_5

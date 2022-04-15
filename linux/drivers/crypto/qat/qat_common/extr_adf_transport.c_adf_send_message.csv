@@ -1,0 +1,14 @@
+ADF_MAX_INFLIGHTS,FUNC_0
+ADF_MSG_SIZE_TO_BYTES,FUNC_1
+ADF_RING_SIZE_MODULO,FUNC_2
+EAGAIN,VAR_0
+WRITE_CSR_RING_TAIL,FUNC_3
+adf_modulo,FUNC_4
+atomic_add_return,FUNC_5
+atomic_dec,FUNC_6
+memcpy,FUNC_7
+spin_lock_bh,FUNC_8
+spin_unlock_bh,FUNC_9
+adf_send_message,FUNC_10
+ring,VAR_1
+msg,VAR_2

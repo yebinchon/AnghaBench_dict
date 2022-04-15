@@ -1,0 +1,13 @@
+ClearPortFeature,VAR_0
+HCS_N_PORTS,FUNC_0
+HCS_PPC,FUNC_1
+SetPortFeature,VAR_1
+USB_PORT_FEAT_POWER,VAR_2
+msleep,FUNC_2
+oxu_dbg,FUNC_3
+oxu_hub_control,FUNC_4
+oxu_to_hcd,FUNC_5
+ehci_port_power,FUNC_6
+oxu,VAR_3
+is_on,VAR_4
+port,VAR_5

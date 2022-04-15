@@ -1,0 +1,13 @@
+do_gettimeofday,FUNC_0
+snd_seq_check_queue,FUNC_1
+snd_seq_inc_time_nsec,FUNC_2
+snd_seq_timer_update_tick,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+snd_seq_timer_interrupt,FUNC_6
+timeri,VAR_0
+resolution,VAR_1
+ticks,VAR_2
+flags,VAR_3
+q,VAR_4
+tmr,VAR_5

@@ -1,0 +1,12 @@
+ENA_ETH_IO_L4_PROTO_TCP,VAR_0
+ENA_ETH_IO_L4_PROTO_UDP,VAR_1
+NETIF_F_RXHASH,VAR_2
+PKT_HASH_TYPE_L4,VAR_3
+PKT_HASH_TYPE_NONE,VAR_4
+likely,FUNC_0
+skb_set_hash,FUNC_1
+ena_set_rx_hash,FUNC_2
+rx_ring,VAR_5
+ena_rx_ctx,VAR_6
+skb,VAR_7
+hash_type,VAR_8

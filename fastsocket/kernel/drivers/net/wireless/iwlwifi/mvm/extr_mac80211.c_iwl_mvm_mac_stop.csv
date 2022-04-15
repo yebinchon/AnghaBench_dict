@@ -1,0 +1,12 @@
+IWL_MAC80211_GET_MVM,FUNC_0
+cancel_work_sync,FUNC_1
+flush_work,FUNC_2
+iwl_mvm_async_handlers_purge,FUNC_3
+iwl_mvm_dealloc_int_sta,FUNC_4
+iwl_trans_stop_device,FUNC_5
+iwl_trans_stop_hw,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+iwl_mvm_mac_stop,FUNC_9
+hw,VAR_0
+mvm,VAR_1

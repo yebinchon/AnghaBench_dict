@@ -1,0 +1,16 @@
+EVBUFFER_LOCK,FUNC_0
+EVBUFFER_SENDFILE,VAR_0
+EVBUFFER_UNLOCK,FUNC_1
+EVUTIL_ASSERT,FUNC_2
+evbuffer_drain,FUNC_3
+evbuffer_pullup,FUNC_4
+evbuffer_write_iovec,FUNC_5
+evbuffer_write_sendfile,FUNC_6
+send,FUNC_7
+write,FUNC_8
+evbuffer_write_atmost,FUNC_9
+buffer,VAR_1
+fd,VAR_2
+howmuch,VAR_3
+n,VAR_4
+p,VAR_5

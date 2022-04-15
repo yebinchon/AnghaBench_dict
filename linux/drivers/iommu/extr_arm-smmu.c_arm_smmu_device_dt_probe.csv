@@ -1,0 +1,16 @@
+ARM_SMMU_FEAT_COHERENT_WALK,VAR_0
+ENODEV,VAR_1
+dev_err,FUNC_0
+of_device_get_match_data,FUNC_1
+of_dma_is_coherent,FUNC_2
+of_find_property,FUNC_3
+of_property_read_u32,FUNC_4
+pr_notice,FUNC_5
+using_generic_binding,VAR_2
+using_legacy_binding,VAR_3
+arm_smmu_device_dt_probe,FUNC_6
+pdev,VAR_4
+smmu,VAR_5
+data,VAR_6
+dev,VAR_7
+legacy_binding,VAR_8

@@ -1,0 +1,14 @@
+ether_ifdetach,FUNC_0
+if_free,FUNC_1
+ifc_free_unit,FUNC_2
+ifmedia_removeall,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+sx_xlock,FUNC_6
+sx_xunlock,FUNC_7
+t4_trace_lock,VAR_0
+t4_cloner_destroy,FUNC_8
+ifc,VAR_1
+ifp,VAR_2
+sc,VAR_3
+unit,VAR_4

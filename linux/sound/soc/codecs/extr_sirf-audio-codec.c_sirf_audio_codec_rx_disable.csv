@@ -1,0 +1,5 @@
+AUDIO_PORT_IC_CODEC_RX_CTRL,VAR_0
+IC_RX_ENABLE_STEREO,VAR_1
+regmap_update_bits,FUNC_0
+sirf_audio_codec_rx_disable,FUNC_1
+sirf_audio_codec,VAR_2

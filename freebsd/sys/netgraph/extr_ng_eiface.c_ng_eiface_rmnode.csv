@@ -1,0 +1,16 @@
+CURVNET_RESTORE,FUNC_0
+CURVNET_SET_QUIET,FUNC_1
+M_NETGRAPH,VAR_0
+NG_NODE_PRIVATE,FUNC_2
+NG_NODE_SET_PRIVATE,FUNC_3
+NG_NODE_UNREF,FUNC_4
+V_ng_eiface_unit,VAR_1
+ether_ifdetach,FUNC_5
+free,FUNC_6
+free_unr,FUNC_7
+if_free,FUNC_8
+ifmedia_removeall,FUNC_9
+ng_eiface_rmnode,FUNC_10
+node,VAR_2
+priv,VAR_3
+ifp,VAR_4

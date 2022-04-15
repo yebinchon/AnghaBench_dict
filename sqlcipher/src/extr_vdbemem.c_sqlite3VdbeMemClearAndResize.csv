@@ -1,0 +1,11 @@
+CORRUPT_DB,VAR_0
+MEM_Dyn,VAR_1
+MEM_Int,VAR_2
+MEM_Null,VAR_3
+MEM_Real,VAR_4
+SQLITE_OK,VAR_5
+assert,FUNC_0
+sqlite3VdbeMemGrow,FUNC_1
+sqlite3VdbeMemClearAndResize,FUNC_2
+pMem,VAR_6
+szNew,VAR_7

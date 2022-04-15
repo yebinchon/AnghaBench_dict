@@ -1,0 +1,17 @@
+GIT_DIFF_FORCE_BINARY,VAR_0
+GIT_DIFF_OPTIONS_INIT,VAR_1
+GIT_DIFF_SHOW_BINARY,VAR_2
+GIT_OID_HEXSZ,VAR_3
+cl_git_append2file,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+git_index_add_bypath,FUNC_3
+git_index_free,FUNC_4
+git_index_write,FUNC_5
+git_repository_index,FUNC_6
+repo,VAR_4
+test_patch,FUNC_7
+test_diff_binary__delta_append,FUNC_8
+index,VAR_5
+opts,VAR_6
+expected,VAR_7

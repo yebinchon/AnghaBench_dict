@@ -1,0 +1,17 @@
+AUDIT_TYPE_CHILD_CREATE,VAR_0
+EEXIST,VAR_1
+ENOENT,VAR_2
+EOVERFLOW,VAR_3
+IS_DEADDIR,FUNC_0
+MAY_EXEC,VAR_4
+MAY_WRITE,VAR_5
+audit_inode_child,FUNC_1
+current_fsgid,FUNC_2
+current_fsuid,FUNC_3
+inode_permission,FUNC_4
+kgid_has_mapping,FUNC_5
+kuid_has_mapping,FUNC_6
+may_create,FUNC_7
+dir,VAR_6
+child,VAR_7
+s_user_ns,VAR_8

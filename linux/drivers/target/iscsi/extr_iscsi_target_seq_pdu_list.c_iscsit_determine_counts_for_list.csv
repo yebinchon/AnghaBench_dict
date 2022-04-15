@@ -1,0 +1,16 @@
+DMA_TO_DEVICE,VAR_0
+PDULIST_IMMEDIATE,VAR_1
+PDULIST_IMMEDIATE_AND_UNSOLICITED,VAR_2
+PDULIST_UNSOLICITED,VAR_3
+min,FUNC_0
+iscsit_determine_counts_for_list,FUNC_1
+cmd,VAR_4
+bl,VAR_5
+seq_count,VAR_6
+pdu_count,VAR_7
+check_immediate,VAR_8
+burstlength,VAR_9
+offset,VAR_10
+unsolicited_data_length,VAR_11
+mdsl,VAR_12
+conn,VAR_13

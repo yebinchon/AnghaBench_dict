@@ -1,0 +1,12 @@
+NFTA_COUNTER_BYTES,VAR_0
+NFTA_COUNTER_PACKETS,VAR_1
+NFTA_COUNTER_PAD,VAR_2
+cpu_to_be64,FUNC_0
+nft_counter_fetch,FUNC_1
+nft_counter_reset,FUNC_2
+nla_put_be64,FUNC_3
+nft_counter_do_dump,FUNC_4
+skb,VAR_3
+priv,VAR_4
+reset,VAR_5
+total,VAR_6

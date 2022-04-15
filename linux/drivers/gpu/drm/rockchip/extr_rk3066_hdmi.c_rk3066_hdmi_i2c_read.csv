@@ -1,0 +1,12 @@
+EAGAIN,VAR_0
+HDMI_DDC_READ_FIFO_ADDR,VAR_1
+HDMI_INTR_EDID_ERR,VAR_2
+HZ,VAR_3
+hdmi_readb,FUNC_0
+wait_for_completion_timeout,FUNC_1
+rk3066_hdmi_i2c_read,FUNC_2
+hdmi,VAR_4
+msgs,VAR_5
+length,VAR_6
+buf,VAR_7
+ret,VAR_8

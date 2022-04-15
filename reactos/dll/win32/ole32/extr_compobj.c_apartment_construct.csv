@@ -1,0 +1,17 @@
+COINIT_APARTMENTTHREADED,VAR_0
+DEBUG_SET_CRITSEC_NAME,FUNC_0
+FALSE,VAR_1
+GetCurrentProcessId,FUNC_1
+GetCurrentThreadId,FUNC_2
+GetProcessHeap,FUNC_3
+HEAP_ZERO_MEMORY,VAR_2
+HeapAlloc,FUNC_4
+InitializeCriticalSection,FUNC_5
+TRACE,FUNC_6
+apts,VAR_3
+list_add_head,FUNC_7
+list_init,FUNC_8
+wine_dbgstr_longlong,FUNC_9
+apartment_construct,FUNC_10
+model,VAR_4
+apt,VAR_5

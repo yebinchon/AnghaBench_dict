@@ -1,0 +1,14 @@
+ConditionalLockTupleTuplock,FUNC_0
+ERRCODE_LOCK_NOT_AVAILABLE,VAR_0
+ERROR,VAR_1
+LockTupleTuplock,FUNC_1
+RelationGetRelationName,FUNC_2
+ereport,FUNC_3
+errcode,FUNC_4
+errmsg,FUNC_5
+heap_acquire_tuplock,FUNC_6
+relation,VAR_2
+tid,VAR_3
+mode,VAR_4
+wait_policy,VAR_5
+have_tuple_lock,VAR_6

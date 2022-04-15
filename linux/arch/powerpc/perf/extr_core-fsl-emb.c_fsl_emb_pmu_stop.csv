@@ -1,0 +1,13 @@
+PERF_HES_STOPPED,VAR_0
+PERF_HES_UPTODATE,VAR_1
+fsl_emb_pmu_read,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+perf_event_update_userpage,FUNC_3
+perf_pmu_disable,FUNC_4
+perf_pmu_enable,FUNC_5
+write_pmc,FUNC_6
+fsl_emb_pmu_stop,FUNC_7
+event,VAR_2
+ef_flags,VAR_3
+flags,VAR_4

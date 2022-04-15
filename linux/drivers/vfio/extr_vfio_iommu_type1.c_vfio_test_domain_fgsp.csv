@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+IOMMU_READ,VAR_1
+IOMMU_WRITE,VAR_2
+PAGE_SIZE,VAR_3
+__GFP_ZERO,VAR_4
+__free_pages,FUNC_0
+alloc_pages,FUNC_1
+get_order,FUNC_2
+iommu_map,FUNC_3
+iommu_unmap,FUNC_4
+page_to_phys,FUNC_5
+vfio_test_domain_fgsp,FUNC_6
+domain,VAR_5
+pages,VAR_6
+ret,VAR_7
+order,VAR_8
+unmapped,VAR_9

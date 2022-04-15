@@ -1,0 +1,17 @@
+__skb_queue_head_init,FUNC_0
+msg_bc_ack_invalid,FUNC_1
+msg_bcast_ack,FUNC_2
+skb_queue_empty,FUNC_3
+tipc_bc_base,FUNC_4
+tipc_bcast_lock,FUNC_5
+tipc_bcast_unlock,FUNC_6
+tipc_bcbase_xmit,FUNC_7
+tipc_link_bc_ack_rcv,FUNC_8
+tipc_sk_rcv,FUNC_9
+tipc_bcast_ack_rcv,FUNC_10
+net,VAR_0
+l,VAR_1
+hdr,VAR_2
+inputq,VAR_3
+acked,VAR_4
+xmitq,VAR_5

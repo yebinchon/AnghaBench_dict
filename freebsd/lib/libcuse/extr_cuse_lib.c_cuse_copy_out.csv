@@ -1,0 +1,17 @@
+CUSE_ERR_FAULT,VAR_0
+CUSE_ERR_INVALID,VAR_1
+CUSE_IOCTL_WRITE_DATA,VAR_2
+DPRINTF,FUNC_0
+cuse_cmd_str,FUNC_1
+cuse_dev_get_entered,FUNC_2
+errno,VAR_3
+f_cuse,VAR_4
+ioctl,FUNC_3
+memcpy,FUNC_4
+cuse_copy_out,FUNC_5
+src,VAR_5
+user_dst,VAR_6
+len,VAR_7
+info,VAR_8
+pe,VAR_9
+error,VAR_10

@@ -1,0 +1,17 @@
+HFA384X_CMDCODE_INQUIRE,VAR_0
+HFA384X_INFO_COMMTALLIES,VAR_1
+HZ,VAR_2
+IW_MODE_ADHOC,VAR_3
+IW_MODE_INFRA,VAR_4
+add_timer,FUNC_0
+from_timer,FUNC_1
+hfa384x_cmd_callback,FUNC_2
+jiffies,VAR_5
+local,VAR_6
+schedule_work,FUNC_3
+tick_timer,VAR_7
+time_after,FUNC_4
+hostap_tick_timer,FUNC_5
+t,VAR_8
+last_inquire,VAR_9
+local,VAR_10

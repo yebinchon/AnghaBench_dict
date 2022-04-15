@@ -1,0 +1,17 @@
+BNX2FC_FLAG_ABTS_DONE,VAR_0
+BNX2FC_FLAG_ISSUE_ABTS,VAR_1
+BNX2FC_FLAG_ISSUE_CLEANUP_REQ,VAR_2
+BNX2FC_IO_DBG,FUNC_0
+DID_ERROR,VAR_3
+bnx2fc_cmd_release,VAR_4
+bnx2fc_scsi_done,FUNC_1
+complete,FUNC_2
+kref_put,FUNC_3
+kref_read,FUNC_4
+set_bit,FUNC_5
+test_and_clear_bit,FUNC_6
+test_bit,FUNC_7
+bnx2fc_process_cleanup_compl,FUNC_8
+io_req,VAR_5
+task,VAR_6
+num_rq,VAR_7

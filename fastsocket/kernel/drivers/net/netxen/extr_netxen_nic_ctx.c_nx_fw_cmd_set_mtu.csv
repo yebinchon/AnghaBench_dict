@@ -1,0 +1,12 @@
+EIO,VAR_0
+NX_CDRP_CMD_SET_MTU,VAR_1
+NX_HOST_CTX_STATE_ACTIVE,VAR_2
+NX_RCODE_SUCCESS,VAR_3
+memset,FUNC_0
+netxen_issue_cmd,FUNC_1
+nx_fw_cmd_set_mtu,FUNC_2
+adapter,VAR_4
+mtu,VAR_5
+rcode,VAR_6
+recv_ctx,VAR_7
+cmd,VAR_8

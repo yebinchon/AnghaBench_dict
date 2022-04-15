@@ -1,0 +1,14 @@
+STV090x_GETFIELD_Px,FUNC_0
+STV090x_READ_DEMOD,FUNC_1
+TSFIFO_LINEOK_FIELD,VAR_0
+TSSTATUS,VAR_1
+msleep,FUNC_2
+stv090x_get_dmdlock,FUNC_3
+stv090x_get_feclock,FUNC_4
+stv090x_get_lock,FUNC_5
+state,VAR_2
+timeout_dmd,VAR_3
+timeout_fec,VAR_4
+reg,VAR_5
+timer,VAR_6
+lock,VAR_7

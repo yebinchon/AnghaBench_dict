@@ -1,0 +1,16 @@
+EMSGSIZE,VAR_0
+HVCALL_POST_MESSAGE,VAR_1
+HV_MESSAGE_PAYLOAD_BYTE_COUNT,VAR_2
+get_cpu_ptr,FUNC_0
+hv_context,VAR_3
+hv_do_hypercall,FUNC_1
+memcpy,FUNC_2
+put_cpu_ptr,FUNC_3
+hv_post_message,FUNC_4
+connection_id,VAR_4
+message_type,VAR_5
+payload,VAR_6
+payload_size,VAR_7
+aligned_msg,VAR_8
+hv_cpu,VAR_9
+status,VAR_10

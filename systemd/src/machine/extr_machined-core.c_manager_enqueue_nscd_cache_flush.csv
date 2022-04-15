@@ -1,0 +1,11 @@
+SD_EVENT_ONESHOT,VAR_0
+assert,FUNC_0
+log_error_errno,FUNC_1
+on_nscd_cache_flush_event,VAR_1
+sd_event_add_defer,FUNC_2
+sd_event_source_set_description,FUNC_3
+sd_event_source_set_enabled,FUNC_4
+sd_event_source_unref,FUNC_5
+manager_enqueue_nscd_cache_flush,FUNC_6
+m,VAR_2
+r,VAR_3

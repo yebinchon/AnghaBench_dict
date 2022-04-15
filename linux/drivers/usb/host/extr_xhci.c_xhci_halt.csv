@@ -1,0 +1,12 @@
+CMD_RING_STATE_STOPPED,VAR_0
+STS_HALT,VAR_1
+XHCI_MAX_HALT_USEC,VAR_2
+XHCI_STATE_HALTED,VAR_3
+trace_xhci_dbg_init,VAR_4
+xhci_dbg_trace,FUNC_0
+xhci_handshake,FUNC_1
+xhci_quiesce,FUNC_2
+xhci_warn,FUNC_3
+xhci_halt,FUNC_4
+xhci,VAR_5
+ret,VAR_6

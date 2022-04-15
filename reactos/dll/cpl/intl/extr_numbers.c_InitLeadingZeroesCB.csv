@@ -1,0 +1,16 @@
+CB_ADDSTRING,VAR_0
+CB_RESETCONTENT,VAR_1
+CB_SETCURSEL,VAR_2
+GetProcessHeap,FUNC_0
+HeapFree,FUNC_1
+IDC_NUMBERSDISPLEADZER,VAR_3
+MAX_LEAD_ZEROES_SAMPLES,VAR_4
+ReplaceSubStr,FUNC_2
+SendDlgItemMessage,FUNC_3
+SendDlgItemMessageW,FUNC_4
+lpLeadNumFmtSamples,VAR_5
+InitLeadingZeroesCB,FUNC_5
+hwndDlg,VAR_6
+pGlobalData,VAR_7
+pszResultStr,VAR_8
+nCBIndex,VAR_9

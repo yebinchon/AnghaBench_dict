@@ -1,0 +1,17 @@
+DMA_TO_DEVICE,VAR_0
+IS_TSO_HEADER,FUNC_0
+dma_unmap_single,FUNC_1
+mvpp2_cpu_to_thread,FUNC_2
+mvpp2_txdesc_dma_addr_get,FUNC_3
+mvpp2_txdesc_size_get,FUNC_4
+mvpp2_txq_desc_put,FUNC_5
+per_cpu_ptr,FUNC_6
+smp_processor_id,FUNC_7
+tx_desc_unmap_put,FUNC_8
+port,VAR_1
+txq,VAR_2
+desc,VAR_3
+thread,VAR_4
+txq_pcpu,VAR_5
+buf_dma_addr,VAR_6
+buf_sz,VAR_7

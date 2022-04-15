@@ -1,0 +1,14 @@
+AD7998_CYCLE_TMR_REG,VAR_0
+AD7998_CYC_MASK,VAR_1
+ad7998_frequencies,VAR_2
+dev_to_iio_dev,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+iio_priv,FUNC_2
+sprintf,FUNC_3
+ad799x_read_frequency,FUNC_4
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+indio_dev,VAR_6
+st,VAR_7
+ret,VAR_8

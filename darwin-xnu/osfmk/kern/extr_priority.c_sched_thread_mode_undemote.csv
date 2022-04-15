@@ -1,0 +1,13 @@
+SCHED_TAILQ,VAR_0
+TH_MODE_NONE,VAR_1
+TH_MODE_TIMESHARE,VAR_2
+TH_SFLAG_DEMOTED_MASK,VAR_3
+assert,FUNC_0
+sched_set_thread_mode,FUNC_1
+thread_recompute_priority,FUNC_2
+thread_run_queue_reinsert,FUNC_3
+thread_run_queue_remove,FUNC_4
+sched_thread_mode_undemote,FUNC_5
+thread,VAR_4
+reason,VAR_5
+removed,VAR_6

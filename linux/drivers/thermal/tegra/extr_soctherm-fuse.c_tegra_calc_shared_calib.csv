@@ -1,0 +1,12 @@
+FUSE_TSENSOR_COMMON,VAR_0
+NOMINAL_CALIB_CP,VAR_1
+NOMINAL_CALIB_FT,VAR_2
+sign_extend32,FUNC_0
+tegra_fuse_readl,FUNC_1
+tegra_calc_shared_calib,FUNC_2
+tfuse,VAR_3
+shared,VAR_4
+val,VAR_5
+shifted_cp,VAR_6
+shifted_ft,VAR_7
+err,VAR_8

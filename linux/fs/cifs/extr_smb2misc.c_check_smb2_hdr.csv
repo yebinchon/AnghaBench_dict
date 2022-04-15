@@ -1,0 +1,11 @@
+SMB2_FLAGS_SERVER_TO_REDIR,VAR_0
+SMB2_OPLOCK_BREAK,VAR_1
+SMB2_PROTO_NUMBER,VAR_2
+VFS,VAR_3
+cifs_dbg,FUNC_0
+le32_to_cpu,FUNC_1
+le64_to_cpu,FUNC_2
+check_smb2_hdr,FUNC_3
+shdr,VAR_4
+mid,VAR_5
+wire_mid,VAR_6

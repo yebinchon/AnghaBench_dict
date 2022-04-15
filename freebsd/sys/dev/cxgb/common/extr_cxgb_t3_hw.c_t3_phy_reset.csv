@@ -1,0 +1,12 @@
+BMCR_PDOWN,VAR_0
+BMCR_RESET,VAR_1
+MII_BMCR,VAR_2
+mdio_read,FUNC_0
+msleep,FUNC_1
+t3_mdio_change_bits,FUNC_2
+t3_phy_reset,FUNC_3
+phy,VAR_3
+mmd,VAR_4
+wait,VAR_5
+err,VAR_6
+ctl,VAR_7

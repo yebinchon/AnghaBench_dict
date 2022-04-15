@@ -1,0 +1,11 @@
+PCI9111_ISC0_SET_IRQ_ON_FIFO_HALF_FULL,VAR_0
+PCI9111_ISC1_SET_IRQ_ON_EXT_TRG,VAR_1
+irq_on_external_trigger,VAR_2
+irq_on_fifo_half_full,VAR_3
+pci9111_interrupt_and_fifo_get,FUNC_0
+pci9111_interrupt_and_fifo_set,FUNC_1
+pci9111_interrupt_source_set,FUNC_2
+dev,VAR_4
+irq_0_source,VAR_5
+irq_1_source,VAR_6
+flags,VAR_7

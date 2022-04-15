@@ -1,0 +1,16 @@
+IFLA_IFNAME,VAR_0
+IFLA_MTU,VAR_1
+IFLA_OPERSTATE,VAR_2
+assert,FUNC_0
+free_and_strdup,FUNC_1
+link_add_rrs,FUNC_2
+link_allocate_scopes,FUNC_3
+sd_netlink_message_read_string,FUNC_4
+sd_netlink_message_read_u32,FUNC_5
+sd_netlink_message_read_u8,FUNC_6
+sd_rtnl_message_link_get_flags,FUNC_7
+link_process_rtnl,FUNC_8
+l,VAR_3
+m,VAR_4
+n,VAR_5
+r,VAR_6

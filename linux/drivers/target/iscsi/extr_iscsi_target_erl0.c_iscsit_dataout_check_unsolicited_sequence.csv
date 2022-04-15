@@ -1,0 +1,15 @@
+DATAOUT_CANNOT_RECOVER,VAR_0
+DATAOUT_NORMAL,VAR_1
+ISCSI_FLAG_CMD_FINAL,VAR_2
+TCM_INCORRECT_AMOUNT_OF_DATA,VAR_3
+be32_to_cpu,FUNC_0
+ntoh24,FUNC_1
+pr_err,FUNC_2
+transport_send_check_condition_and_sense,FUNC_3
+iscsit_dataout_check_unsolicited_sequence,FUNC_4
+cmd,VAR_4
+buf,VAR_5
+first_burst_len,VAR_6
+conn,VAR_7
+hdr,VAR_8
+payload_length,VAR_9

@@ -1,0 +1,8 @@
+RPMSG_DEV_MAX,VAR_0
+class_destroy,FUNC_0
+rpmsg_chrdev_driver,VAR_1
+rpmsg_class,VAR_2
+rpmsg_major,VAR_3
+unregister_chrdev_region,FUNC_1
+unregister_rpmsg_driver,FUNC_2
+rpmsg_chrdev_exit,FUNC_3

@@ -1,0 +1,16 @@
+AF_UNSPEC,VAR_0
+EINVAL,VAR_1
+NLMSG_DATA,FUNC_0
+NLM_F_CREATE,VAR_2
+NLM_F_EXCL,VAR_3
+RTM_NEWLINK,VAR_4
+assert_return,FUNC_1
+message_new,FUNC_2
+rtnl_message_type_is_link,FUNC_3
+sd_rtnl_message_new_link,FUNC_4
+rtnl,VAR_5
+ret,VAR_6
+nlmsg_type,VAR_7
+index,VAR_8
+ifi,VAR_9
+r,VAR_10

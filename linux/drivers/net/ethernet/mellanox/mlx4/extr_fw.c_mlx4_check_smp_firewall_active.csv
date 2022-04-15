@@ -1,0 +1,13 @@
+MLX4_CMD_MAD_DEMUX_GETRESP_ATTR_OFFSET,VAR_0
+MLX4_CMD_MAD_DEMUX_SET_ATTR_OFFSET,VAR_1
+MLX4_CMD_MAD_DEMUX_TRAP_ATTR_OFFSET,VAR_2
+MLX4_CMD_MAD_DEMUX_TRAP_REPRESS_ATTR_OFFSET,VAR_3
+MLX4_GET,FUNC_0
+mlx4_dbg,FUNC_1
+mlx4_check_smp_firewall_active,FUNC_2
+dev,VAR_4
+mailbox,VAR_5
+set_attr_mask,VAR_6
+getresp_attr_mask,VAR_7
+trap_attr_mask,VAR_8
+traprepress_attr_mask,VAR_9

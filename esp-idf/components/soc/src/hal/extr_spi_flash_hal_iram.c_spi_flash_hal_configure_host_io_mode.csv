@@ -1,0 +1,16 @@
+ESP_OK,VAR_0
+get_spi_dev,FUNC_0
+spi_flash_ll_set_addr_bitlen,FUNC_1
+spi_flash_ll_set_command8,FUNC_2
+spi_flash_ll_set_dummy,FUNC_3
+spi_flash_ll_set_miso_bitlen,FUNC_4
+spi_flash_ll_set_mosi_bitlen,FUNC_5
+spi_flash_ll_set_read_mode,FUNC_6
+spi_flash_hal_configure_host_io_mode,FUNC_7
+host,VAR_1
+command,VAR_2
+addr_bitlen,VAR_3
+dummy_cyclelen_base,VAR_4
+io_mode,VAR_5
+dummy_cyclelen,VAR_6
+dev,VAR_7

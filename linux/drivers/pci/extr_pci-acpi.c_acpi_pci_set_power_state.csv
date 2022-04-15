@@ -1,0 +1,17 @@
+ACPI_COMPANION,FUNC_0
+EBUSY,VAR_0
+EINVAL,VAR_1
+ENODEV,VAR_2
+PM_QOS_FLAGS_ALL,VAR_3
+PM_QOS_FLAG_NO_POWER_OFF,VAR_4
+acpi_device_set_power,FUNC_1
+acpi_has_method,FUNC_2
+acpi_power_state_string,FUNC_3
+dev_pm_qos_flags,FUNC_4
+pci_dbg,FUNC_5
+acpi_pci_set_power_state,FUNC_6
+dev,VAR_5
+state,VAR_6
+adev,VAR_7
+state_conv,VAR_8
+error,VAR_9

@@ -1,0 +1,15 @@
+GPS_CACHE_EXPIRY,VAR_0
+MODE_2D,VAR_1
+TIME_SET,VAR_2
+connect_gpsd,FUNC_0
+gps_reader_data,VAR_3
+memcpy,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+read_gps_data_once,FUNC_4
+time,FUNC_5
+gps_reader_process,FUNC_6
+gps_reader_data_ptr,VAR_4
+ret,VAR_5
+gps_valid,VAR_6
+now,VAR_7

@@ -1,0 +1,9 @@
+SUN4I_SPDIF_CTL,VAR_0
+SUN4I_SPDIF_CTL_RESET,VAR_1
+SUN4I_SPDIF_FCTL,VAR_2
+SUN4I_SPDIF_TXCNT,VAR_3
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+sun4i_spdif_configure,FUNC_2
+host,VAR_4
+quirks,VAR_5

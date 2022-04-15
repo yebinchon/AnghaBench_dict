@@ -1,0 +1,14 @@
+EJUSTRETURN,VAR_0
+ERESTART,VAR_1
+PSR_CF,VAR_2
+assert,FUNC_0
+is_saved_state32,FUNC_1
+panic,FUNC_2
+saved_state32,FUNC_3
+unix_syscall_return_kprintf,FUNC_4
+arm_prepare_u32_syscall_return,FUNC_5
+callp,VAR_3
+regs,VAR_4
+uthread,VAR_5
+error,VAR_6
+ss32,VAR_7

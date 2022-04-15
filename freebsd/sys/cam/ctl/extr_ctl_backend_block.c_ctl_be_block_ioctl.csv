@@ -1,0 +1,16 @@
+CTL_LUN_ERROR,VAR_0
+ENOTTY,VAR_1
+backend_block_softc,VAR_2
+ctl_be_block_create,FUNC_0
+ctl_be_block_modify,FUNC_1
+ctl_be_block_rm,FUNC_2
+snprintf,FUNC_3
+ctl_be_block_ioctl,FUNC_4
+dev,VAR_3
+cmd,VAR_4
+addr,VAR_5
+flag,VAR_6
+td,VAR_7
+softc,VAR_8
+error,VAR_9
+lun_req,VAR_10

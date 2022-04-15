@@ -1,0 +1,13 @@
+ida_simple_remove,FUNC_0
+kfree,FUNC_1
+rtnl_lock,FUNC_2
+rtnl_unlock,FUNC_3
+umem_ida,VAR_0
+xdp_umem_clear_dev,FUNC_4
+xdp_umem_unaccount_pages,FUNC_5
+xdp_umem_unmap_pages,FUNC_6
+xdp_umem_unpin_pages,FUNC_7
+xsk_reuseq_destroy,FUNC_8
+xskq_destroy,FUNC_9
+xdp_umem_release,FUNC_10
+umem,VAR_1

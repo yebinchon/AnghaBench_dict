@@ -1,0 +1,17 @@
+AMD_FAN_CTRL_AUTO,VAR_0
+AMD_FAN_CTRL_NONE,VAR_1
+PP_MCLK,VAR_2
+PP_SCLK,VAR_3
+vega10_force_clock_level,FUNC_0
+vega10_force_dpm_highest,FUNC_1
+vega10_force_dpm_lowest,FUNC_2
+vega10_get_profiling_clk_mask,FUNC_3
+vega10_set_fan_control_mode,FUNC_4
+vega10_unforce_dpm_levels,FUNC_5
+vega10_dpm_force_dpm_level,FUNC_6
+hwmgr,VAR_4
+level,VAR_5
+ret,VAR_6
+sclk_mask,VAR_7
+mclk_mask,VAR_8
+soc_mask,VAR_9

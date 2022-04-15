@@ -1,0 +1,12 @@
+IFCQ_LOCK_ASSERT_HELD,FUNC_0
+tcq_event,FUNC_1
+tcq_purge,FUNC_2
+tcq_purge_sc,FUNC_3
+tcq_stat_sc,FUNC_4
+tcq_throttle,FUNC_5
+tcq_request_ifclassq,FUNC_6
+ifq,VAR_0
+req,VAR_1
+arg,VAR_2
+tif,VAR_3
+err,VAR_4

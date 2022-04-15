@@ -1,0 +1,12 @@
+BNAD_CF_DIM_ENABLED,VAR_0
+BNAD_DIM_TIMER_FREQ,VAR_1
+BNAD_RF_DIM_TIMER_RUNNING,VAR_2
+bnad_dim_timeout,VAR_3
+jiffies,VAR_4
+mod_timer,FUNC_0
+msecs_to_jiffies,FUNC_1
+set_bit,FUNC_2
+test_bit,FUNC_3
+timer_setup,FUNC_4
+bnad_dim_timer_start,FUNC_5
+bnad,VAR_5

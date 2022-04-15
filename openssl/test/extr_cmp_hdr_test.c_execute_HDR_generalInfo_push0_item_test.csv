@@ -1,0 +1,9 @@
+OSSL_CMP_ITAV_new,FUNC_0
+TEST_int_eq,FUNC_1
+TEST_ptr,FUNC_2
+TEST_true,FUNC_3
+ossl_cmp_hdr_generalInfo_push0_item,FUNC_4
+sk_OSSL_CMP_ITAV_value,FUNC_5
+execute_HDR_generalInfo_push0_item_test,FUNC_6
+fixture,VAR_0
+itav,VAR_1

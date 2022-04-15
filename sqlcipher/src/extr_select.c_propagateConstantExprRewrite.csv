@@ -1,0 +1,16 @@
+EP_FixedCol,VAR_0
+EP_Leaf,VAR_1
+ExprClearProperty,FUNC_0
+ExprHasProperty,FUNC_1
+ExprSetProperty,FUNC_2
+TK_COLUMN,VAR_2
+WRC_Continue,VAR_3
+WRC_Prune,VAR_4
+assert,FUNC_3
+sqlite3ExprDup,FUNC_4
+propagateConstantExprRewrite,FUNC_5
+pWalker,VAR_5
+pExpr,VAR_6
+i,VAR_7
+pConst,VAR_8
+pColumn,VAR_9

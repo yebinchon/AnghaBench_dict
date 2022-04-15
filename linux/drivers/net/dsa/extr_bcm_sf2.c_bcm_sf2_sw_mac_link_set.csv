@@ -1,0 +1,15 @@
+PHY_INTERFACE_MODE_MII,VAR_0
+PHY_INTERFACE_MODE_REVMII,VAR_1
+REG_RGMII_CNTRL_P,FUNC_0
+RGMII_MODE_EN,VAR_2
+bcm_sf2_to_priv,FUNC_1
+phy_interface_mode_is_rgmii,FUNC_2
+reg_readl,FUNC_3
+reg_writel,FUNC_4
+bcm_sf2_sw_mac_link_set,FUNC_5
+ds,VAR_3
+port,VAR_4
+interface,VAR_5
+link,VAR_6
+priv,VAR_7
+reg,VAR_8

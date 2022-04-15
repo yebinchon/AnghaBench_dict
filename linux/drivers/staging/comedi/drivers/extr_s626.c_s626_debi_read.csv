@@ -1,0 +1,9 @@
+S626_DEBI_CMD_RDWORD,VAR_0
+S626_P_DEBIAD,VAR_1
+S626_P_DEBICMD,VAR_2
+readl,FUNC_0
+s626_debi_transfer,FUNC_1
+writel,FUNC_2
+s626_debi_read,FUNC_3
+dev,VAR_3
+addr,VAR_4

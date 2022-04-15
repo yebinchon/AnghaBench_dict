@@ -1,0 +1,14 @@
+DIBUSB_REQ_I2C_READ,VAR_0
+DIBUSB_REQ_I2C_WRITE,VAR_1
+dvb_usb_generic_rw,FUNC_0
+memcpy,FUNC_1
+dibusb_i2c_msg,FUNC_2
+d,VAR_2
+addr,VAR_3
+wbuf,VAR_4
+wlen,VAR_5
+rbuf,VAR_6
+rlen,VAR_7
+sndbuf,VAR_8
+wo,VAR_9
+len,VAR_10

@@ -1,0 +1,16 @@
+CMD_DISEQC_MSG1,VAR_0
+CMD_DISEQC_MSG2,VAR_1
+EREMOTEIO,VAR_2
+ETIMEDOUT,VAR_3
+cx24120_message_send,FUNC_0
+cx24120_readreg,FUNC_1
+dev_dbg,FUNC_2
+err,FUNC_3
+memcpy,FUNC_4
+msleep,FUNC_5
+cx24120_send_diseqc_msg,FUNC_6
+fe,VAR_4
+d,VAR_5
+state,VAR_6
+cmd,VAR_7
+back_count,VAR_8

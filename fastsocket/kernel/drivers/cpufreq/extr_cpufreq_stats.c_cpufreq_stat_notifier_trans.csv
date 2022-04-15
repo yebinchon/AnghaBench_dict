@@ -1,0 +1,16 @@
+CPUFREQ_POSTCHANGE,VAR_0
+cpufreq_stats_lock,VAR_1
+cpufreq_stats_table,VAR_2
+cpufreq_stats_update,FUNC_0
+freq_table_get_index,FUNC_1
+per_cpu,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+cpufreq_stat_notifier_trans,FUNC_5
+nb,VAR_3
+val,VAR_4
+data,VAR_5
+freq,VAR_6
+stat,VAR_7
+old_index,VAR_8
+new_index,VAR_9

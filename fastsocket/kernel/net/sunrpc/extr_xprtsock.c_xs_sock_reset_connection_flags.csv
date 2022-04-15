@@ -1,0 +1,9 @@
+XPRT_CLOSE_WAIT,VAR_0
+XPRT_CLOSING,VAR_1
+XPRT_CONNECTION_ABORT,VAR_2
+XPRT_CONNECTION_CLOSE,VAR_3
+clear_bit,FUNC_0
+smp_mb__after_clear_bit,FUNC_1
+smp_mb__before_clear_bit,FUNC_2
+xs_sock_reset_connection_flags,FUNC_3
+xprt,VAR_4

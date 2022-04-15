@@ -1,0 +1,14 @@
+ICEREG1724,FUNC_0
+MPU_CTRL,VAR_0
+VT1724_IRQ_MPU_TX,VAR_1
+VT1724_MPU_TX_EMPTY,VAR_2
+inb,FUNC_1
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_2
+schedule_timeout_uninterruptible,FUNC_3
+time_after,FUNC_4
+vt1724_enable_midi_irq,FUNC_5
+vt1724_midi_output_drain,FUNC_6
+s,VAR_4
+ice,VAR_5
+timeout,VAR_6

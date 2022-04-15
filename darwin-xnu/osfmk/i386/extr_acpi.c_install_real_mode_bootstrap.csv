@@ -1,0 +1,9 @@
+PROT_MODE_START,VAR_0
+REAL_MODE_BOOTSTRAP_OFFSET,VAR_1
+bcopy_phys,FUNC_0
+kvtophys,FUNC_1
+ml_phys_write_word,FUNC_2
+real_mode_bootstrap_base,VAR_2
+real_mode_bootstrap_end,VAR_3
+install_real_mode_bootstrap,FUNC_3
+prot_entry,VAR_4

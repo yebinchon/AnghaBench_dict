@@ -1,0 +1,16 @@
+CPSW_CPDMA_TX_CP,FUNC_0
+CPSW_CPDMA_TX_HDP,FUNC_1
+CPSW_PORTS,VAR_0
+CPSW_PORT_LOCK,FUNC_2
+CPSW_PORT_UNLOCK,FUNC_3
+cpsw_debugf_head,FUNC_4
+cpsw_dump_queue,FUNC_5
+cpsw_read_4,FUNC_6
+cpswp_stop_locked,FUNC_7
+device_get_softc,FUNC_8
+device_printf,FUNC_9
+printf,FUNC_10
+cpsw_tx_watchdog_full_reset,FUNC_11
+sc,VAR_1
+psc,VAR_2
+i,VAR_3

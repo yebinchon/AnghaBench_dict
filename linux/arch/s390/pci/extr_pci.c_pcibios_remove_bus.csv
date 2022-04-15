@@ -1,0 +1,14 @@
+get_zdev_by_bus,FUNC_0
+kfree,FUNC_1
+list_del,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+zpci_cleanup_bus_resources,FUNC_5
+zpci_dbg,FUNC_6
+zpci_destroy_iommu,FUNC_7
+zpci_exit_slot,FUNC_8
+zpci_free_domain,FUNC_9
+zpci_list_lock,VAR_0
+pcibios_remove_bus,FUNC_10
+bus,VAR_1
+zdev,VAR_2

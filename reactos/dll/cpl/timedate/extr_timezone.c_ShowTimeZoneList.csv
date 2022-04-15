@@ -1,0 +1,12 @@
+CB_ADDSTRING,VAR_0
+CB_SETCURSEL,VAR_1
+GetTimeZoneInformation,FUNC_0
+SendMessageW,FUNC_1
+TimeZoneListHead,VAR_2
+wcscmp,FUNC_2
+ShowTimeZoneList,FUNC_3
+hwnd,VAR_3
+TimeZoneInfo,VAR_4
+Entry,VAR_5
+dwIndex,VAR_6
+i,VAR_7

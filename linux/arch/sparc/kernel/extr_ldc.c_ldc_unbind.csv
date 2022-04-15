@@ -1,0 +1,11 @@
+LDC_FLAG_ALLOCED_QUEUES,VAR_0
+LDC_FLAG_REGISTERED_IRQS,VAR_1
+LDC_FLAG_REGISTERED_QUEUES,VAR_2
+LDC_STATE_INIT,VAR_3
+free_irq,FUNC_0
+free_queue,FUNC_1
+ldc_set_state,FUNC_2
+sun4v_ldc_rx_qconf,FUNC_3
+sun4v_ldc_tx_qconf,FUNC_4
+ldc_unbind,FUNC_5
+lp,VAR_4

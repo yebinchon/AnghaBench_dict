@@ -1,0 +1,12 @@
+BUS_ADD_CHILD,FUNC_0
+PCIR_DEVVENDOR,VAR_0
+SSIF_MODE,VAR_1
+device_find_child,FUNC_1
+ipmi_pci_match,FUNC_2
+ipmi_smbios_identify,FUNC_3
+pci_cfgregread,FUNC_4
+ipmi_isa_identify,FUNC_5
+driver,VAR_2
+parent,VAR_3
+info,VAR_4
+devid,VAR_5

@@ -1,0 +1,16 @@
+initialized,VAR_0
+lprintf,FUNC_0
+mp3_codec_struct,VAR_1
+mp3_fname,VAR_2
+mp3_handle,VAR_3
+psp_sem_lock,FUNC_1
+psp_sem_unlock,FUNC_2
+sceAudiocodecReleaseEDRAM,FUNC_3
+sceIoClose,FUNC_4
+sceKernelDelayThread,FUNC_5
+sceKernelDeleteSema,FUNC_6
+sceKernelSignalSema,FUNC_7
+thread_busy_sem,VAR_4
+thread_exit,VAR_5
+thread_job_sem,VAR_6
+mp3_deinit,FUNC_8

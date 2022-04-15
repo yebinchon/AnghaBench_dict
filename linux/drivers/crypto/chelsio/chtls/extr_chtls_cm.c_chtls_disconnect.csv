@@ -1,0 +1,16 @@
+CPL_ABORT_SEND_RST,VAR_0
+ECONNRESET,VAR_1
+TCPF_CLOSE,VAR_2
+TCP_CLOSE,VAR_3
+chtls_purge_receive_queue,FUNC_0
+chtls_purge_recv_queue,FUNC_1
+chtls_purge_write_queue,FUNC_2
+chtls_send_reset,FUNC_3
+tcp_disconnect,FUNC_4
+tcp_sk,FUNC_5
+wait_for_states,FUNC_6
+chtls_disconnect,FUNC_7
+sk,VAR_4
+flags,VAR_5
+tp,VAR_6
+err,VAR_7

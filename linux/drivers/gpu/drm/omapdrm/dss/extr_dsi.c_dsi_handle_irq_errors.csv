@@ -1,0 +1,16 @@
+DSI_CIO_IRQ_ERROR_MASK,VAR_0
+DSI_IRQ_ERROR_MASK,VAR_1
+DSI_VC_IRQ_ERROR_MASK,VAR_2
+DSSERR,FUNC_0
+debug_irq,VAR_3
+print_irq_status,FUNC_1
+print_irq_status_cio,FUNC_2
+print_irq_status_vc,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+dsi_handle_irq_errors,FUNC_6
+dsi,VAR_4
+irqstatus,VAR_5
+vcstatus,VAR_6
+ciostatus,VAR_7
+i,VAR_8

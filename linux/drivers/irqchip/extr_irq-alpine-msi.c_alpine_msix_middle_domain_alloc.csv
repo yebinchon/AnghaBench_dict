@@ -1,0 +1,15 @@
+alpine_msix_allocate_sgi,FUNC_0
+alpine_msix_free_sgi,FUNC_1
+alpine_msix_gic_domain_alloc,FUNC_2
+irq_domain_free_irqs_parent,FUNC_3
+irq_domain_set_hwirq_and_chip,FUNC_4
+middle_irq_chip,VAR_0
+alpine_msix_middle_domain_alloc,FUNC_5
+domain,VAR_1
+virq,VAR_2
+nr_irqs,VAR_3
+args,VAR_4
+priv,VAR_5
+sgi,VAR_6
+err,VAR_7
+i,VAR_8

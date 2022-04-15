@@ -1,0 +1,16 @@
+OBS_INVALID_HOTKEY_ID,VAR_0
+add_lua_obs_callback,FUNC_0
+calldata_set_int,FUNC_1
+hotkey_callback,VAR_1
+is_function,FUNC_2
+lua_pushinteger,FUNC_3
+lua_tostring,FUNC_4
+obs_hotkey_register_frontend,FUNC_5
+on_remove_hotkey,VAR_2
+remove_lua_obs_callback,FUNC_6
+hotkey_register_frontend,FUNC_7
+script,VAR_3
+id,VAR_4
+name,VAR_5
+desc,VAR_6
+cb,VAR_7

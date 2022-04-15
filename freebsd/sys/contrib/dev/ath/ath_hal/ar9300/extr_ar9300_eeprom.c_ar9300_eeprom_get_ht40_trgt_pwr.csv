@@ -1,0 +1,17 @@
+AH9300,FUNC_0
+FBIN2FREQ,FUNC_1
+OSPREY_NUM_2G_40_TARGET_POWERS,VAR_0
+OSPREY_NUM_5G_40_TARGET_POWERS,VAR_1
+interpolate,FUNC_2
+ar9300_eeprom_get_ht40_trgt_pwr,FUNC_3
+ah,VAR_2
+rate_index,VAR_3
+freq,VAR_4
+is_2ghz,VAR_5
+num_piers,VAR_6
+i,VAR_7
+target_power_array,VAR_8
+freq_array,VAR_9
+p_freq_bin,VAR_10
+eep,VAR_11
+p_eeprom_target_pwr,VAR_12

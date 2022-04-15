@@ -1,0 +1,16 @@
+APPEND_CHAIN,FUNC_0
+COPY_CHAIN,FUNC_1
+EVBUFFER_LOCK2,FUNC_2
+EVBUFFER_UNLOCK2,FUNC_3
+PRESERVE_PINNED,FUNC_4
+RESTORE_PINNED,FUNC_5
+evbuffer_free_all_chains,FUNC_6
+evbuffer_invoke_callbacks_,FUNC_7
+evbuffer_add_buffer,FUNC_8
+outbuf,VAR_0
+inbuf,VAR_1
+pinned,VAR_2
+last,VAR_3
+in_total_len,VAR_4
+out_total_len,VAR_5
+result,VAR_6

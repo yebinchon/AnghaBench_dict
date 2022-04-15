@@ -1,0 +1,10 @@
+H_MULTICAST_CTRL,VAR_0
+LLAN_CLEAR_MULTICAST,VAR_1
+MA_OWNED,VAR_2
+if_foreach_llmaddr,FUNC_0
+llan_set_maddr,VAR_3
+mtx_assert,FUNC_1
+phyp_hcall,FUNC_2
+llan_set_multicast,FUNC_3
+sc,VAR_4
+ifp,VAR_5

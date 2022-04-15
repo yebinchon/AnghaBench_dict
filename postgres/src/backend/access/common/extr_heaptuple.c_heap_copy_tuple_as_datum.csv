@@ -1,0 +1,12 @@
+HeapTupleHasExternal,FUNC_0
+HeapTupleHeaderSetDatumLength,FUNC_1
+HeapTupleHeaderSetTypMod,FUNC_2
+HeapTupleHeaderSetTypeId,FUNC_3
+PointerGetDatum,FUNC_4
+memcpy,FUNC_5
+palloc,FUNC_6
+toast_flatten_tuple_to_datum,FUNC_7
+heap_copy_tuple_as_datum,FUNC_8
+tuple,VAR_0
+tupleDesc,VAR_1
+td,VAR_2

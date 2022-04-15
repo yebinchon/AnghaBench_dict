@@ -1,0 +1,14 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+TASK_RUNNING,VAR_1
+add_wait_queue,FUNC_1
+current,VAR_2
+line6_rawmidi_substream_midi,FUNC_2
+remove_wait_queue,FUNC_3
+schedule,FUNC_4
+signal_pending,FUNC_5
+wait,VAR_3
+line6_midi_output_drain,FUNC_6
+substream,VAR_4
+line6,VAR_5
+head,VAR_6

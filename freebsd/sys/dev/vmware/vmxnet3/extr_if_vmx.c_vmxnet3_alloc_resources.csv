@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_1
+device_printf,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+vmxnet3_alloc_resources,FUNC_5
+sc,VAR_3
+dev,VAR_4
+rid,VAR_5

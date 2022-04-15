@@ -1,0 +1,16 @@
+RRDENG_BLOCK_SIZE,VAR_0
+STORE_PADDING,VAR_1
+assert,FUNC_0
+flush_transaction_buffer_cb,VAR_2
+mallocz,FUNC_1
+unlikely,FUNC_2
+uv_buf_init,FUNC_3
+uv_fs_write,FUNC_4
+wal_flush_transaction_buffer,FUNC_5
+wc,VAR_3
+ctx,VAR_4
+ret,VAR_5
+io_descr,VAR_6
+pos,VAR_7
+size,VAR_8
+journalfile,VAR_9

@@ -1,0 +1,11 @@
+DPRINTFN,FUNC_0
+FTDI_SIO_GET_BITMODE,VAR_0
+USETW,FUNC_1
+UT_READ_VENDOR_DEVICE,VAR_1
+usbd_do_request,FUNC_2
+uftdi_get_bitmode,FUNC_3
+ucom,VAR_2
+bitmode,VAR_3
+iomask,VAR_4
+sc,VAR_5
+req,VAR_6

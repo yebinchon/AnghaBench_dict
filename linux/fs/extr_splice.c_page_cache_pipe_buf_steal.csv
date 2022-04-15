@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+PIPE_BUF_FLAG_LRU,VAR_1
+PageUptodate,FUNC_0
+WARN_ON,FUNC_1
+lock_page,FUNC_2
+page_has_private,FUNC_3
+page_mapping,FUNC_4
+remove_mapping,FUNC_5
+try_to_release_page,FUNC_6
+unlock_page,FUNC_7
+wait_on_page_writeback,FUNC_8
+page_cache_pipe_buf_steal,FUNC_9
+pipe,VAR_2
+buf,VAR_3
+page,VAR_4
+mapping,VAR_5

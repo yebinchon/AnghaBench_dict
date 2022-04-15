@@ -1,0 +1,12 @@
+READY_MASK,VAR_0
+RNG_INTR_STS_ACK,VAR_1
+XGENE_RNG_RETRY_COUNT,VAR_2
+XGENE_RNG_RETRY_INTERVAL,VAR_3
+readl,FUNC_0
+udelay,FUNC_1
+xgene_rng_data_present,FUNC_2
+rng,VAR_4
+wait,VAR_5
+ctx,VAR_6
+i,VAR_7
+val,VAR_8

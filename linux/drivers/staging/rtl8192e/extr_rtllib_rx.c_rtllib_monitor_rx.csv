@@ -1,0 +1,12 @@
+ETH_P_80211_RAW,VAR_0
+PACKET_OTHERHOST,VAR_1
+htons,FUNC_0
+memset,FUNC_1
+netif_rx,FUNC_2
+skb_pull,FUNC_3
+skb_reset_mac_header,FUNC_4
+rtllib_monitor_rx,FUNC_5
+ieee,VAR_2
+skb,VAR_3
+rx_status,VAR_4
+hdr_length,VAR_5

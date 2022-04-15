@@ -1,0 +1,14 @@
+CHECKSUM_UNNECESSARY,VAR_0
+EFAULT,VAR_1
+ENOMEM,VAR_2
+NET_IP_ALIGN,VAR_3
+dev_alloc_skb,FUNC_0
+eth_type_trans,FUNC_1
+ioiocpy_frommipsnet,FUNC_2
+netif_rx,FUNC_3
+skb_put,FUNC_4
+skb_reserve,FUNC_5
+mipsnet_get_fromdev,FUNC_6
+dev,VAR_4
+len,VAR_5
+skb,VAR_6

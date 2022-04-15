@@ -1,0 +1,13 @@
+MLX5_FENCE_MODE_INITIATOR_SMALL,VAR_0
+MLX5_OPCODE_NOP,VAR_1
+cpu_to_be32,FUNC_0
+memset,FUNC_1
+mlx5_wq_cyc_ctr2ix,FUNC_2
+mlx5_wq_cyc_get_wqe,FUNC_3
+mlx5e_post_nop_fence,FUNC_4
+wq,VAR_2
+sqn,VAR_3
+pc,VAR_4
+pi,VAR_5
+wqe,VAR_6
+cseg,VAR_7

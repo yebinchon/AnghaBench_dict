@@ -1,0 +1,10 @@
+RTCSB_PINTR,VAR_0
+RTC_INTR,VAR_1
+RTC_STATUSB,VAR_2
+atrtc_lock,VAR_3
+mtx_lock_spin,FUNC_0
+mtx_unlock_spin,FUNC_1
+rtc_statusb,VAR_4
+rtcin_locked,FUNC_2
+rtcout_locked,FUNC_3
+atrtc_disable_intr,FUNC_4

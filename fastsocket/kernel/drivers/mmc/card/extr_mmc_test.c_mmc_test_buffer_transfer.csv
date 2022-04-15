@@ -1,0 +1,17 @@
+memset,FUNC_0
+mmc_test_prepare_mrq,FUNC_1
+mmc_test_wait_busy,FUNC_2
+mmc_wait_for_req,FUNC_3
+sg_init_one,FUNC_4
+mmc_test_buffer_transfer,FUNC_5
+test,VAR_0
+buffer,VAR_1
+addr,VAR_2
+blksz,VAR_3
+write,VAR_4
+ret,VAR_5
+mrq,VAR_6
+cmd,VAR_7
+stop,VAR_8
+data,VAR_9
+sg,VAR_10

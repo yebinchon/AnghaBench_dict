@@ -1,0 +1,13 @@
+clk_div_mask,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_clk_divider,FUNC_4
+to_clk_divider_gate,FUNC_5
+writel,FUNC_6
+clk_divider_disable,FUNC_7
+hw,VAR_0
+div_gate,VAR_1
+div,VAR_2
+flags,VAR_3
+val,VAR_4

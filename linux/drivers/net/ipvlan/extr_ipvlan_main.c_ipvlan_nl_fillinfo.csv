@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+EMSGSIZE,VAR_1
+IFLA_IPVLAN_FLAGS,VAR_2
+IFLA_IPVLAN_MODE,VAR_3
+ipvlan_port_get_rtnl,FUNC_0
+netdev_priv,FUNC_1
+nla_put_u16,FUNC_2
+ipvlan_nl_fillinfo,FUNC_3
+skb,VAR_4
+dev,VAR_5
+ipvlan,VAR_6
+port,VAR_7
+ret,VAR_8

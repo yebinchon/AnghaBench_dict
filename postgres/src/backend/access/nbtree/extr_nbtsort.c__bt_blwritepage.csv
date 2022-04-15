@@ -1,0 +1,13 @@
+BLCKSZ,VAR_0
+MAIN_FORKNUM,VAR_1
+PageSetChecksumInplace,FUNC_0
+RelationOpenSmgr,FUNC_1
+log_newpage,FUNC_2
+palloc0,FUNC_3
+pfree,FUNC_4
+smgrextend,FUNC_5
+smgrwrite,FUNC_6
+_bt_blwritepage,FUNC_7
+wstate,VAR_2
+page,VAR_3
+blkno,VAR_4

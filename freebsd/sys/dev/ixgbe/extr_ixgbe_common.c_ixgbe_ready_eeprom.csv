@@ -1,0 +1,17 @@
+DEBUGFUNC,FUNC_0
+DEBUGOUT,FUNC_1
+IXGBE_EEPROM_MAX_RETRY_SPI,VAR_0
+IXGBE_EEPROM_OPCODE_BITS,VAR_1
+IXGBE_EEPROM_RDSR_OPCODE_SPI,VAR_2
+IXGBE_EEPROM_STATUS_RDY_SPI,VAR_3
+IXGBE_ERR_EEPROM,VAR_4
+IXGBE_SUCCESS,VAR_5
+ixgbe_shift_in_eeprom_bits,FUNC_2
+ixgbe_shift_out_eeprom_bits,FUNC_3
+ixgbe_standby_eeprom,FUNC_4
+usec_delay,FUNC_5
+ixgbe_ready_eeprom,FUNC_6
+hw,VAR_6
+status,VAR_7
+i,VAR_8
+spi_stat_reg,VAR_9

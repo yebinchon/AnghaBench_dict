@@ -1,0 +1,17 @@
+ABIT_UGURU3_ALARMS_START,VAR_0
+ABIT_UGURU3_SENSORS_BANK,VAR_1
+ABIT_UGURU3_SETTINGS_BANK,VAR_2
+ABIT_UGURU3_SETTINGS_START,VAR_3
+ABIT_UGURU3_VALUES_START,VAR_4
+HZ,VAR_5
+abituguru3_read,FUNC_0
+abituguru3_read_increment_offset,FUNC_1
+dev_get_drvdata,FUNC_2
+jiffies,VAR_6
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+time_after,FUNC_5
+abituguru3_update_device,FUNC_6
+dev,VAR_7
+i,VAR_8
+data,VAR_9

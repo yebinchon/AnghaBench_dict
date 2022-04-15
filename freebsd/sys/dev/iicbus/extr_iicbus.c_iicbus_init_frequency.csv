@@ -1,0 +1,15 @@
+CTLFLAG_RW,VAR_0
+CTLFLAG_TUN,VAR_1
+IICBUS_SOFTC,FUNC_0
+OID_AUTO,VAR_2
+SYSCTL_ADD_UINT,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_name,FUNC_3
+device_get_sysctl_ctx,FUNC_4
+device_get_sysctl_tree,FUNC_5
+device_get_unit,FUNC_6
+resource_int_value,FUNC_7
+iicbus_init_frequency,FUNC_8
+dev,VAR_3
+bus_freq,VAR_4
+sc,VAR_5

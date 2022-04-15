@@ -1,0 +1,11 @@
+CF_LS4_ORIGINATOR,VAR_0
+CF_LS4_SHIFT,VAR_1
+PT_LS4_REQUEST,VAR_2
+QLA_SUCCESS,VAR_3
+cpu_to_le16,FUNC_0
+put_unaligned_le64,FUNC_1
+qla_nvme_ls,FUNC_2
+sp,VAR_4
+cmd_pkt,VAR_5
+nvme,VAR_6
+rval,VAR_7

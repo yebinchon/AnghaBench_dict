@@ -1,0 +1,16 @@
+EIO,VAR_0
+I_DIRTY_ALL,VAR_1
+I_DIRTY_DATASYNC,VAR_2
+JFS_SBI,FUNC_0
+file_write_and_wait_range,FUNC_1
+inode_lock,FUNC_2
+inode_unlock,FUNC_3
+jfs_commit_inode,FUNC_4
+jfs_flush_journal,FUNC_5
+jfs_fsync,FUNC_6
+file,VAR_3
+start,VAR_4
+end,VAR_5
+datasync,VAR_6
+inode,VAR_7
+rc,VAR_8

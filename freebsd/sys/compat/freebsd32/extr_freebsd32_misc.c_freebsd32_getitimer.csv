@@ -1,0 +1,11 @@
+TV_CP,FUNC_0
+copyout,FUNC_1
+it_interval,VAR_0
+it_value,VAR_1
+kern_getitimer,FUNC_2
+freebsd32_getitimer,FUNC_3
+td,VAR_2
+uap,VAR_3
+itv,VAR_4
+i32,VAR_5
+error,VAR_6

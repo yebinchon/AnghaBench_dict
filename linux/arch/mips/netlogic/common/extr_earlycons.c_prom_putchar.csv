@@ -1,0 +1,11 @@
+NETLOGIC_IO_UART_0_OFFSET,VAR_0
+UART_LSR,VAR_1
+UART_LSR_THRE,VAR_2
+UART_TX,VAR_3
+nlm_get_uart_regbase,FUNC_0
+nlm_mmio_base,FUNC_1
+nlm_read_reg,FUNC_2
+nlm_write_reg,FUNC_3
+prom_putchar,FUNC_4
+c,VAR_4
+uartbase,VAR_5

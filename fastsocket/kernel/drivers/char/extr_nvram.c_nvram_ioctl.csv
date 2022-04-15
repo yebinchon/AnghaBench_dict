@@ -1,0 +1,16 @@
+CAP_SYS_ADMIN,VAR_0
+EACCES,VAR_1
+ENOTTY,VAR_2
+NVRAM_BYTES,VAR_3
+__nvram_set_checksum,FUNC_0
+__nvram_write_byte,FUNC_1
+capable,FUNC_2
+rtc_lock,VAR_4
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+nvram_ioctl,FUNC_5
+inode,VAR_5
+file,VAR_6
+cmd,VAR_7
+arg,VAR_8
+i,VAR_9

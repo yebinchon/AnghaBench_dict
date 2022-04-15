@@ -1,0 +1,11 @@
+APIC_ISR,VAR_0
+MSR_IA32_APICBASE_BASE,VAR_1
+apic_update_ppr,FUNC_0
+count_vectors,FUNC_1
+hrtimer_cancel,FUNC_2
+kvm_apic_set_version,FUNC_3
+start_apic_timer,FUNC_4
+update_divide_count,FUNC_5
+kvm_apic_post_state_restore,FUNC_6
+vcpu,VAR_2
+apic,VAR_3

@@ -1,0 +1,10 @@
+HCI_READ_LOCAL_SUPPORTED_CMDS,VAR_0
+STREAM_TO_ARRAY,FUNC_0
+assert,FUNC_1
+osi_free,FUNC_2
+read_command_complete_header,FUNC_3
+parse_read_local_supported_commands_response,FUNC_4
+response,VAR_1
+supported_commands_ptr,VAR_2
+supported_commands_length,VAR_3
+stream,VAR_4

@@ -1,0 +1,14 @@
+ETH_P_IP,VAR_0
+INADDR_LOOPBACK,VAR_1
+IPPROTO_UDP,VAR_2
+htonl,FUNC_0
+htons,FUNC_1
+memset,FUNC_2
+build_packet,FUNC_3
+buffer,VAR_3
+blen,VAR_4
+payload_char,VAR_5
+udph,VAR_6
+eth,VAR_7
+iph,VAR_8
+off,VAR_9

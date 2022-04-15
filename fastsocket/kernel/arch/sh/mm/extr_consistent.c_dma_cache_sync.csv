@@ -1,0 +1,11 @@
+BUG,FUNC_0
+P1SEGADDR,FUNC_1
+__flush_invalidate_region,FUNC_2
+__flush_purge_region,FUNC_3
+__flush_wback_region,FUNC_4
+dma_cache_sync,FUNC_5
+dev,VAR_0
+vaddr,VAR_1
+size,VAR_2
+direction,VAR_3
+p1addr,VAR_4

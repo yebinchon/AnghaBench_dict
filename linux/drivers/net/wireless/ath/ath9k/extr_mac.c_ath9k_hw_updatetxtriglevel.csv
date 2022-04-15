@@ -1,0 +1,15 @@
+AR_FTRIG,VAR_0
+AR_TXCFG,VAR_1
+MIN_TX_FIFO_THRESHOLD,VAR_2
+MS,FUNC_0
+REG_READ,FUNC_1
+REG_WRITE,FUNC_2
+SM,FUNC_3
+ath9k_hw_disable_interrupts,FUNC_4
+ath9k_hw_enable_interrupts,FUNC_5
+ath9k_hw_updatetxtriglevel,FUNC_6
+ah,VAR_3
+bIncTrigLevel,VAR_4
+txcfg,VAR_5
+curLevel,VAR_6
+newLevel,VAR_7

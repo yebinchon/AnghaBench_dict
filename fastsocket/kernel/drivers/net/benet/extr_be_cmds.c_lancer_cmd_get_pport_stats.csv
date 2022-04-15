@@ -1,0 +1,17 @@
+CMD_SUBSYSTEM_ETH,VAR_0
+EBUSY,VAR_1
+EPERM,VAR_2
+OPCODE_ETH_GET_PPORT_STATS,VAR_3
+be_cmd_allowed,FUNC_0
+be_mcc_notify,FUNC_1
+be_wrb_cmd_hdr_prepare,FUNC_2
+cpu_to_le16,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+wrb_from_mccq,FUNC_6
+lancer_cmd_get_pport_stats,FUNC_7
+adapter,VAR_4
+nonemb_cmd,VAR_5
+wrb,VAR_6
+req,VAR_7
+status,VAR_8

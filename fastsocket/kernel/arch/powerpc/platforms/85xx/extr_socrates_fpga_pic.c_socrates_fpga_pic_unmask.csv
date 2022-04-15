@@ -1,0 +1,15 @@
+FPGA_PIC_IRQMASK,FUNC_0
+SOCRATES_FPGA_IRQ_MASK,VAR_0
+fpga_irqs,VAR_1
+socrates_fpga_irq_to_hw,FUNC_1
+socrates_fpga_pic_lock,VAR_2
+socrates_fpga_pic_read,FUNC_2
+socrates_fpga_pic_write,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+socrates_fpga_pic_unmask,FUNC_6
+virq,VAR_3
+flags,VAR_4
+hwirq,VAR_5
+irq_line,VAR_6
+mask,VAR_7

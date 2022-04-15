@@ -1,0 +1,12 @@
+arc_pmu_read_counter,FUNC_0
+local64_add,FUNC_1
+local64_read,FUNC_2
+local64_set,FUNC_3
+local64_sub,FUNC_4
+arc_perf_event_update,FUNC_5
+event,VAR_0
+hwc,VAR_1
+idx,VAR_2
+prev_raw_count,VAR_3
+new_raw_count,VAR_4
+delta,VAR_5

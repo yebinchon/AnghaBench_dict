@@ -1,0 +1,16 @@
+CMD_EVENT_NETPLAY_DEINIT,VAR_0
+CMD_EVENT_NETPLAY_INIT_DIRECT,VAR_1
+CMD_EVENT_RESUME,VAR_2
+RARCH_NETPLAY_CTL_ENABLE_CLIENT,VAR_3
+RARCH_NETPLAY_CTL_IS_DATA_INITED,VAR_4
+RARCH_NETPLAY_DISCOVERY_CTL_LAN_GET_RESPONSES,VAR_5
+command_event,FUNC_0
+generic_action_ok_command,FUNC_1
+netplay_discovery_driver_ctl,FUNC_2
+netplay_driver_ctl,FUNC_3
+action_ok_netplay_lan_scan,FUNC_4
+path,VAR_6
+label,VAR_7
+type,VAR_8
+idx,VAR_9
+entry_idx,VAR_10

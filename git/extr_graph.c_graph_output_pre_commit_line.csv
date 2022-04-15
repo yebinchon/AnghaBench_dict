@@ -1,0 +1,16 @@
+GRAPH_COMMIT,VAR_0
+GRAPH_POST_MERGE,VAR_1
+assert,FUNC_0
+graph_pad_horizontally,FUNC_1
+graph_update_state,FUNC_2
+strbuf_addch,FUNC_3
+strbuf_addchars,FUNC_4
+strbuf_write_column,FUNC_5
+graph_output_pre_commit_line,FUNC_6
+graph,VAR_2
+sb,VAR_3
+num_expansion_rows,VAR_4
+i,VAR_5
+seen_this,VAR_6
+chars_written,VAR_7
+col,VAR_8

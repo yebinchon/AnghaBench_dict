@@ -1,0 +1,14 @@
+NVME_OPC_GET_LOG_PAGE,VAR_0
+htole32,FUNC_0
+nvme_allocate_request_vaddr,FUNC_1
+nvme_ctrlr_submit_admin_request,FUNC_2
+nvme_ctrlr_cmd_get_log_page,FUNC_3
+ctrlr,VAR_1
+log_page,VAR_2
+nsid,VAR_3
+payload,VAR_4
+payload_size,VAR_5
+cb_fn,VAR_6
+cb_arg,VAR_7
+req,VAR_8
+cmd,VAR_9

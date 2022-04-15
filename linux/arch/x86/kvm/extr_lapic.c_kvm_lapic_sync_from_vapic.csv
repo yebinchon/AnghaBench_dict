@@ -1,0 +1,9 @@
+KVM_APIC_CHECK_VAPIC,VAR_0
+KVM_APIC_PV_EOI_PENDING,VAR_1
+apic_set_tpr,FUNC_0
+apic_sync_pv_eoi_from_guest,FUNC_1
+kvm_read_guest_cached,FUNC_2
+test_bit,FUNC_3
+kvm_lapic_sync_from_vapic,FUNC_4
+vcpu,VAR_2
+data,VAR_3

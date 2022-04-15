@@ -1,0 +1,13 @@
+BLOCKING_INIT_NOTIFIER_HEAD,FUNC_0
+INIT_LIST_HEAD,FUNC_1
+mutex_init,FUNC_2
+snd_jack_new,FUNC_3
+snd_soc_jack_add_pins,FUNC_4
+snd_soc_card_jack_new,FUNC_5
+card,VAR_0
+id,VAR_1
+type,VAR_2
+jack,VAR_3
+pins,VAR_4
+num_pins,VAR_5
+ret,VAR_6

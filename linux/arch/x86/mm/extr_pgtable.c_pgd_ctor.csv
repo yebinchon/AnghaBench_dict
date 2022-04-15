@@ -1,0 +1,11 @@
+CONFIG_PGTABLE_LEVELS,VAR_0
+KERNEL_PGD_BOUNDARY,VAR_1
+KERNEL_PGD_PTRS,VAR_2
+SHARED_KERNEL_PMD,VAR_3
+clone_pgd_range,FUNC_0
+pgd_list_add,FUNC_1
+pgd_set_mm,FUNC_2
+swapper_pg_dir,VAR_4
+pgd_ctor,FUNC_3
+mm,VAR_5
+pgd,VAR_6

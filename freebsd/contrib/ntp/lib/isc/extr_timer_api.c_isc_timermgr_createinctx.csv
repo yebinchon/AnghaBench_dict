@@ -1,0 +1,13 @@
+ISC_R_SUCCESS,VAR_0
+LOCK,FUNC_0
+REQUIRE,FUNC_1
+UNLOCK,FUNC_2
+createlock,VAR_1
+isc_appctx_settimermgr,FUNC_3
+stub1,FUNC_4
+timermgr_createfunc,FUNC_5
+isc_timermgr_createinctx,FUNC_6
+mctx,VAR_2
+actx,VAR_3
+managerp,VAR_4
+result,VAR_5

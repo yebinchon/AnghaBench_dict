@@ -1,0 +1,17 @@
+ELM_IRQENABLE,VAR_0
+ELM_IRQSTATUS,VAR_1
+INTR_EN_PAGE_MASK,VAR_2
+INTR_STATUS_PAGE_VALID,VAR_3
+dev_get_drvdata,FUNC_0
+elm_error_correction,FUNC_1
+elm_load_syndrome,FUNC_2
+elm_read_reg,FUNC_3
+elm_start_processing,FUNC_4
+elm_write_reg,FUNC_5
+wait_for_completion,FUNC_6
+elm_decode_bch_error_page,FUNC_7
+dev,VAR_4
+ecc_calc,VAR_5
+err_vec,VAR_6
+info,VAR_7
+reg_val,VAR_8

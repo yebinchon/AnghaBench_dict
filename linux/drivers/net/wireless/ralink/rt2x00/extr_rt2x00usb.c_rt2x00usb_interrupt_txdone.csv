@@ -1,0 +1,14 @@
+ENTRY_DATA_IO_FAILED,VAR_0
+ENTRY_OWNER_DEVICE_DATA,VAR_1
+REQUIRE_TXSTATUS_FIFO,VAR_2
+kfifo_is_empty,FUNC_0
+queue_work,FUNC_1
+rt2x00_has_cap_flag,FUNC_2
+rt2x00lib_dmadone,FUNC_3
+set_bit,FUNC_4
+stub1,FUNC_5
+test_bit,FUNC_6
+rt2x00usb_interrupt_txdone,FUNC_7
+urb,VAR_3
+entry,VAR_4
+rt2x00dev,VAR_5

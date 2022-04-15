@@ -1,0 +1,15 @@
+NIC_GET_BGX_FROM_VF_LMAC_MAP,FUNC_0
+NIC_GET_LMAC_FROM_VF_LMAC_MAP,FUNC_1
+NIC_MBOX_MSG_BGX_LINK_CHANGE,VAR_0
+bgx_get_lmac_link_state,FUNC_2
+callout_reset,FUNC_3
+hz,VAR_1
+nic_send_msg_to_vf,FUNC_4
+nic_poll_for_link,FUNC_5
+arg,VAR_2
+mbx,VAR_3
+nic,VAR_4
+link,VAR_5
+vf,VAR_6
+bgx,VAR_7
+lmac,VAR_8

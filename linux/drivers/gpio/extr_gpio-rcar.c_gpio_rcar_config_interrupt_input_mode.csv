@@ -1,0 +1,17 @@
+BIT,FUNC_0
+BOTHEDGE,VAR_0
+EDGLEVEL,VAR_1
+INTCLR,VAR_2
+IOINTSEL,VAR_3
+POSNEG,VAR_4
+gpio_rcar_modify_bit,FUNC_1
+gpio_rcar_write,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+gpio_rcar_config_interrupt_input_mode,FUNC_5
+p,VAR_5
+hwirq,VAR_6
+active_high_rising_edge,VAR_7
+level_trigger,VAR_8
+both,VAR_9
+flags,VAR_10

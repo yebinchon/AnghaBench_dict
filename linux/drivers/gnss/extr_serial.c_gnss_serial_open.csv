@@ -1,0 +1,12 @@
+gnss_get_drvdata,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put_noidle,FUNC_2
+serdev_device_close,FUNC_3
+serdev_device_open,FUNC_4
+serdev_device_set_baudrate,FUNC_5
+serdev_device_set_flow_control,FUNC_6
+gnss_serial_open,FUNC_7
+gdev,VAR_0
+gserial,VAR_1
+serdev,VAR_2
+ret,VAR_3

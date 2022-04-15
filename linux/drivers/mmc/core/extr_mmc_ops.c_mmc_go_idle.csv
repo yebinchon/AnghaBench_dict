@@ -1,0 +1,14 @@
+MMC_CMD_BC,VAR_0
+MMC_CS_DONTCARE,VAR_1
+MMC_CS_HIGH,VAR_2
+MMC_GO_IDLE_STATE,VAR_3
+MMC_RSP_NONE,VAR_4
+MMC_RSP_SPI_R1,VAR_5
+mmc_delay,FUNC_0
+mmc_host_is_spi,FUNC_1
+mmc_set_chip_select,FUNC_2
+mmc_wait_for_cmd,FUNC_3
+mmc_go_idle,FUNC_4
+host,VAR_6
+err,VAR_7
+cmd,VAR_8

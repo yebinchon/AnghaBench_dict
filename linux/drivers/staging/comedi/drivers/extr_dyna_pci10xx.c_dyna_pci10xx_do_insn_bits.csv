@@ -1,0 +1,12 @@
+comedi_dio_update_state,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+outw_p,FUNC_3
+smp_mb,FUNC_4
+usleep_range,FUNC_5
+dyna_pci10xx_do_insn_bits,FUNC_6
+dev,VAR_0
+s,VAR_1
+insn,VAR_2
+data,VAR_3
+devpriv,VAR_4

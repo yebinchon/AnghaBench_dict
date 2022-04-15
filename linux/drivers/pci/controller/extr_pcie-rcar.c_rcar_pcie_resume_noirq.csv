@@ -1,0 +1,11 @@
+CFINIT,VAR_0
+DL_DOWN,VAR_1
+PCIETCTLR,VAR_2
+PMSR,VAR_3
+dev_get_drvdata,FUNC_0
+rcar_pci_read_reg,FUNC_1
+rcar_pci_write_reg,FUNC_2
+rcar_pcie_wait_for_dl,FUNC_3
+rcar_pcie_resume_noirq,FUNC_4
+dev,VAR_4
+pcie,VAR_5

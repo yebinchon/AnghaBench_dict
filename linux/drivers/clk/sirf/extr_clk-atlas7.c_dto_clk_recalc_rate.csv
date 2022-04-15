@@ -1,0 +1,15 @@
+BIT,FUNC_0
+DTO_RESL_DOUBLE,VAR_0
+DTO_RESL_NORMAL,VAR_1
+SIRFSOC_CLKC_AUDIO_DTO_DROFF,VAR_2
+SIRFSOC_CLKC_AUDIO_DTO_SRC,VAR_3
+clkc_readl,FUNC_1
+do_div,FUNC_2
+to_dtoclk,FUNC_3
+dto_clk_recalc_rate,FUNC_4
+hw,VAR_4
+parent_rate,VAR_5
+rate,VAR_6
+clk,VAR_7
+finc,VAR_8
+droff,VAR_9

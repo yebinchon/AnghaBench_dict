@@ -1,0 +1,13 @@
+M_HDAA,VAR_0
+callout_drain,FUNC_0
+callout_stop,FUNC_1
+device_delete_children,FUNC_2
+device_get_softc,FUNC_3
+free,FUNC_4
+hdaa_lock,FUNC_5
+hdaa_unconfigure,FUNC_6
+hdaa_unlock,FUNC_7
+hdaa_detach,FUNC_8
+dev,VAR_1
+devinfo,VAR_2
+error,VAR_3

@@ -1,0 +1,14 @@
+IORESOURCE_BUS,VAR_0
+IORESOURCE_PCI_FIXED,VAR_1
+dev_info,FUNC_0
+get_pci_domain_busn_res,FUNC_1
+pci_domain_nr,FUNC_2
+pci_is_root_bus,FUNC_3
+request_resource_conflict,FUNC_4
+pci_bus_insert_busn_res,FUNC_5
+b,VAR_2
+bus,VAR_3
+bus_max,VAR_4
+res,VAR_5
+parent_res,VAR_6
+conflict,VAR_7

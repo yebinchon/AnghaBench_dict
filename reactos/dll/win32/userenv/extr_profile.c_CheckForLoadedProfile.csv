@@ -1,0 +1,14 @@
+DPRINT,FUNC_0
+DPRINT1,FUNC_1
+FALSE,VAR_0
+GetUserSidStringFromToken,FUNC_2
+HKEY_USERS,VAR_1
+MAXIMUM_ALLOWED,VAR_2
+RegCloseKey,FUNC_3
+RegOpenKeyExW,FUNC_4
+RtlFreeUnicodeString,FUNC_5
+TRUE,VAR_3
+CheckForLoadedProfile,FUNC_6
+hToken,VAR_4
+SidString,VAR_5
+hKey,VAR_6

@@ -1,0 +1,16 @@
+B3D_REG_EC220_DMA_ADDR,VAR_0
+B3D_REG_EC220_DMA_STS,VAR_1
+B3D_REG_EC220_TRF_SIZE,VAR_2
+ENOMEM,VAR_3
+PCI_DMA_FROMDEVICE,VAR_4
+b3dfg_write32,FUNC_0
+cpu_to_le32,FUNC_1
+pci_dma_mapping_error,FUNC_2
+pci_map_single,FUNC_3
+setup_frame_transfer,FUNC_4
+fgdev,VAR_5
+buf,VAR_6
+frame,VAR_7
+frm_addr,VAR_8
+frm_addr_dma,VAR_9
+frm_size,VAR_10

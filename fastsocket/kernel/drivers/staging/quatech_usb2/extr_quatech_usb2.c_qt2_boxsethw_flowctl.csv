@@ -1,0 +1,12 @@
+QT2_HW_FLOW_CONTROL_MASK,VAR_0
+QT2_SERIAL_MCR_RTS,VAR_1
+QT2_SERIAL_MSR_CTS,VAR_2
+usb_control_msg,FUNC_0
+usb_sndctrlpipe,FUNC_1
+qt2_boxsethw_flowctl,FUNC_2
+serial,VAR_3
+UartNumber,VAR_4
+bSet,VAR_5
+MCR_Value,VAR_6
+MSR_Value,VAR_7
+MOUT_Value,VAR_8

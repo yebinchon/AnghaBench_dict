@@ -1,0 +1,11 @@
+NFTA_SET_DESC_MAX,VAR_0
+NFTA_SET_DESC_SIZE,VAR_1
+nft_set_desc_policy,VAR_2
+nla_get_be32,FUNC_0
+nla_parse_nested_deprecated,FUNC_1
+ntohl,FUNC_2
+nf_tables_set_desc_parse,FUNC_3
+desc,VAR_3
+nla,VAR_4
+da,VAR_5
+err,VAR_6

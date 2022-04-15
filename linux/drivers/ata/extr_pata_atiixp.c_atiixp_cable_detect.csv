@@ -1,0 +1,12 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA40_SHORT,VAR_1
+ATA_CBL_PATA80,VAR_2
+ATIIXP_IDE_UDMA_MODE,VAR_3
+attixp_cable_override_dmi_table,VAR_4
+dmi_check_system,FUNC_0
+pci_read_config_byte,FUNC_1
+to_pci_dev,FUNC_2
+atiixp_cable_detect,FUNC_3
+ap,VAR_5
+pdev,VAR_6
+udma,VAR_7

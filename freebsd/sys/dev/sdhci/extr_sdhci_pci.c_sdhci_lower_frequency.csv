@@ -1,0 +1,11 @@
+SDHC_PCI_BASE_FREQ,VAR_0
+SDHC_PCI_BASE_FREQ_KEY,VAR_1
+SDHC_PCI_MODE,VAR_2
+SDHC_PCI_MODE_KEY,VAR_3
+SDHC_PCI_MODE_SD20,VAR_4
+device_get_softc,FUNC_0
+pci_read_config,FUNC_1
+pci_write_config,FUNC_2
+sdhci_lower_frequency,FUNC_3
+dev,VAR_5
+sc,VAR_6

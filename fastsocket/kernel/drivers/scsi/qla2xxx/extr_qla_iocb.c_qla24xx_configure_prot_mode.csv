@@ -1,0 +1,14 @@
+GET_CMD_SP,FUNC_0
+PO_MODE_DIF_INSERT,VAR_0
+PO_MODE_DIF_PASS,VAR_1
+PO_MODE_DIF_REMOVE,VAR_2
+PO_MODE_DIF_TCP_CKSUM,VAR_3
+SHOST_DIX_GUARD_IP,VAR_4
+scsi_get_prot_op,FUNC_1
+scsi_host_get_guard,FUNC_2
+scsi_prot_sg_count,FUNC_3
+qla24xx_configure_prot_mode,FUNC_4
+sp,VAR_5
+fw_prot_opts,VAR_6
+cmd,VAR_7
+guard,VAR_8

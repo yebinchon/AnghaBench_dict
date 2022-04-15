@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+OVS_TUNNEL_ATTR_DST_PORT,VAR_1
+OVS_TUNNEL_ATTR_EXTENSION,VAR_2
+OVS_VXLAN_EXT_GBP,VAR_3
+VXLAN_F_GBP,VAR_4
+netdev_priv,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start_noflag,FUNC_2
+nla_put_flag,FUNC_3
+nla_put_u16,FUNC_4
+ntohs,FUNC_5
+vxlan_get_options,FUNC_6
+vport,VAR_5
+skb,VAR_6
+vxlan,VAR_7
+dst_port,VAR_8
+exts,VAR_9

@@ -1,0 +1,12 @@
+L3_HML3_PM_EVCNTR,FUNC_0
+local64_add,FUNC_1
+local64_cmpxchg,FUNC_2
+local64_read,FUNC_3
+readl_relaxed,FUNC_4
+to_l3cache_pmu,FUNC_5
+qcom_l3_cache__32bit_counter_update,FUNC_6
+event,VAR_0
+l3pmu,VAR_1
+idx,VAR_2
+prev,VAR_3
+new,VAR_4

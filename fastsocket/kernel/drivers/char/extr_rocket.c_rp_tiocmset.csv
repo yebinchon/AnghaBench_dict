@@ -1,0 +1,11 @@
+SET_DTR,VAR_0
+SET_RTS,VAR_1
+TIOCM_DTR,VAR_2
+TIOCM_RTS,VAR_3
+out32,FUNC_0
+rp_tiocmset,FUNC_1
+tty,VAR_4
+file,VAR_5
+set,VAR_6
+clear,VAR_7
+info,VAR_8

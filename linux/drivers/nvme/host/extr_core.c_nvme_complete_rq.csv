@@ -1,0 +1,16 @@
+BLK_STS_OK,VAR_0
+REQ_NVME_MPATH,VAR_1
+blk_mq_end_request,FUNC_0
+blk_path_error,FUNC_1
+blk_queue_dying,FUNC_2
+nvme_error_status,FUNC_3
+nvme_failover_req,FUNC_4
+nvme_req,FUNC_5
+nvme_req_needs_retry,FUNC_6
+nvme_retry_req,FUNC_7
+nvme_trace_bio_complete,FUNC_8
+trace_nvme_complete_rq,FUNC_9
+unlikely,FUNC_10
+nvme_complete_rq,FUNC_11
+req,VAR_2
+status,VAR_3

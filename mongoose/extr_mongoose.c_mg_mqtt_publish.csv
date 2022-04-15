@@ -1,0 +1,16 @@
+MG_MQTT_CMD_PUBLISH,VAR_0
+MG_MQTT_GET_QOS,FUNC_0
+htons,FUNC_1
+mg_send,FUNC_2
+mg_send_mqtt_header,FUNC_3
+strlen,FUNC_4
+mg_mqtt_publish,FUNC_5
+nc,VAR_1
+topic,VAR_2
+message_id,VAR_3
+flags,VAR_4
+data,VAR_5
+len,VAR_6
+netbytes,VAR_7
+topic_len,VAR_8
+total_len,VAR_9

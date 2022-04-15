@@ -1,0 +1,10 @@
+disable_irq_nosync,FUNC_0
+is_intx,FUNC_1
+pci_intx,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+unlikely,FUNC_5
+vfio_pci_intx_mask,FUNC_6
+vdev,VAR_0
+pdev,VAR_1
+flags,VAR_2

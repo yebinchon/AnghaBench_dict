@@ -1,0 +1,8 @@
+KVM_REQ_PENDING_TIMER,VAR_0
+kvm_make_request,FUNC_0
+kvm_vcpu_kick,FUNC_1
+set_bits,FUNC_2
+smp_wmb,FUNC_3
+kvmppc_set_tsr_bits,FUNC_4
+vcpu,VAR_1
+tsr_bits,VAR_2

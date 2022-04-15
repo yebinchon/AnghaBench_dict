@@ -1,0 +1,12 @@
+HZ,VAR_0
+MEGASAS_FW_BUSY,VAR_1
+MEGASAS_INT_CMDS,VAR_2
+MEGASAS_SKINNY_INT_CMDS,VAR_3
+atomic_read,FUNC_0
+jiffies,VAR_4
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+time_after,FUNC_3
+megasas_check_and_restore_queue_depth,FUNC_4
+instance,VAR_5
+flags,VAR_6

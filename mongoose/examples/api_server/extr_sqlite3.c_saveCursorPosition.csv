@@ -1,0 +1,16 @@
+CURSOR_REQUIRESEEK,VAR_0
+CURSOR_VALID,VAR_1
+SQLITE_NOMEM,VAR_2
+SQLITE_OK,VAR_3
+assert,FUNC_0
+btreeReleaseAllCursorPages,FUNC_1
+cursorHoldsMutex,FUNC_2
+invalidateOverflowCache,FUNC_3
+sqlite3BtreeKey,FUNC_4
+sqlite3BtreeKeySize,FUNC_5
+sqlite3Malloc,FUNC_6
+sqlite3_free,FUNC_7
+saveCursorPosition,FUNC_8
+pCur,VAR_4
+rc,VAR_5
+pKey,VAR_6

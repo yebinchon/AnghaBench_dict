@@ -1,0 +1,12 @@
+sdhci_pltfm_priv,FUNC_0
+sdhci_priv,FUNC_1
+xenon_enable_sdhc,FUNC_2
+xenon_enable_sdhc_parallel_tran,FUNC_3
+xenon_mask_cmd_conflict_err,FUNC_4
+xenon_set_acg,FUNC_5
+xenon_set_sdclk_off_idle,FUNC_6
+xenon_sdhc_prepare,FUNC_7
+host,VAR_0
+pltfm_host,VAR_1
+priv,VAR_2
+sdhc_id,VAR_3

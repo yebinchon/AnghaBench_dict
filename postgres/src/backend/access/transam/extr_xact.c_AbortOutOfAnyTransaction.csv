@@ -1,0 +1,15 @@
+AbortSubTransaction,FUNC_0
+AbortTransaction,FUNC_1
+Assert,FUNC_2
+AtAbort_Memory,FUNC_3
+AtAbort_Portals,FUNC_4
+AtCleanup_Memory,FUNC_5
+AtSubAbort_Portals,FUNC_6
+CleanupSubTransaction,FUNC_7
+CleanupTransaction,FUNC_8
+CurrentTransactionState,VAR_0
+TRANS_DEFAULT,VAR_1
+TRANS_INPROGRESS,VAR_2
+TRANS_START,VAR_3
+AbortOutOfAnyTransaction,FUNC_9
+s,VAR_4

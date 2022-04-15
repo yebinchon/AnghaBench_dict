@@ -1,0 +1,13 @@
+CPUID2_HV,VAR_0
+CPUID_TO_FAMILY,FUNC_0
+CPUID_TO_MODEL,FUNC_1
+MSR_LS_CFG,VAR_1
+MSR_NB_CFG1,VAR_2
+cpu_feature2,VAR_3
+cpu_id,VAR_4
+hw_lower_amd64_sharedpage,VAR_5
+lower_sharedpage_init,VAR_6
+rdmsr,FUNC_2
+wrmsr,FUNC_3
+init_amd,FUNC_4
+msr,VAR_7

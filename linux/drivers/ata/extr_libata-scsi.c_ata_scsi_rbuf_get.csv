@@ -1,0 +1,12 @@
+ATA_SCSI_RBUF_SIZE,VAR_0
+ata_scsi_rbuf,VAR_1
+ata_scsi_rbuf_lock,VAR_2
+memset,FUNC_0
+scsi_sg_count,FUNC_1
+scsi_sglist,FUNC_2
+sg_copy_to_buffer,FUNC_3
+spin_lock_irqsave,FUNC_4
+ata_scsi_rbuf_get,FUNC_5
+cmd,VAR_3
+copy_in,VAR_4
+flags,VAR_5

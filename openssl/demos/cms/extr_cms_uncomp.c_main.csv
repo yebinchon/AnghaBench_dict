@@ -1,0 +1,17 @@
+BIO_free,FUNC_0
+BIO_new_file,FUNC_1
+CMS_ContentInfo_free,FUNC_2
+CMS_uncompress,FUNC_3
+ERR_load_crypto_strings,FUNC_4
+ERR_print_errors_fp,FUNC_5
+OpenSSL_add_all_algorithms,FUNC_6
+SMIME_read_CMS,FUNC_7
+fprintf,FUNC_8
+stderr,VAR_0
+main,FUNC_9
+argc,VAR_1
+argv,VAR_2
+in,VAR_3
+out,VAR_4
+cms,VAR_5
+ret,VAR_6

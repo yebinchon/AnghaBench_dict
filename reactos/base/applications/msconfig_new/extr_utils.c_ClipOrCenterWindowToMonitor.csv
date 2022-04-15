@@ -1,0 +1,10 @@
+ClipOrCenterRectToMonitor,FUNC_0
+GetWindowRect,FUNC_1
+SWP_NOACTIVATE,VAR_0
+SWP_NOSIZE,VAR_1
+SWP_NOZORDER,VAR_2
+SetWindowPos,FUNC_2
+ClipOrCenterWindowToMonitor,FUNC_3
+hWnd,VAR_3
+flags,VAR_4
+rc,VAR_5

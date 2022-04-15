@@ -1,0 +1,10 @@
+BIT_CLR,FUNC_0
+BIT_SET,FUNC_1
+BRK,VAR_0
+UART_R_FCON,VAR_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+lh7a40xuart_break_ctl,FUNC_4
+port,VAR_2
+break_state,VAR_3
+flags,VAR_4

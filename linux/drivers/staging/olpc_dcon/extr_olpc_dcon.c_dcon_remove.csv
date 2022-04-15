@@ -1,0 +1,15 @@
+DCON_IRQ,VAR_0
+atomic_notifier_chain_unregister,FUNC_0
+backlight_device_unregister,FUNC_1
+cancel_work_sync,FUNC_2
+dcon_device,VAR_1
+dcon_panic_nb,VAR_2
+free_irq,FUNC_3
+i2c_get_clientdata,FUNC_4
+kfree,FUNC_5
+panic_notifier_list,VAR_3
+platform_device_unregister,FUNC_6
+unregister_reboot_notifier,FUNC_7
+dcon_remove,FUNC_8
+client,VAR_4
+dcon,VAR_5

@@ -1,0 +1,10 @@
+hpi_read_word_nolock,FUNC_0
+hpi_write_word_nolock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+hpi_set_bits,FUNC_4
+dev,VAR_0
+reg,VAR_1
+mask,VAR_2
+value,VAR_3
+flags,VAR_4

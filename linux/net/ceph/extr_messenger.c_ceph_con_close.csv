@@ -1,0 +1,15 @@
+CON_FLAG_BACKOFF,VAR_0
+CON_FLAG_KEEPALIVE_PENDING,VAR_1
+CON_FLAG_LOSSYTX,VAR_2
+CON_FLAG_WRITE_PENDING,VAR_3
+CON_STATE_CLOSED,VAR_4
+cancel_con,FUNC_0
+ceph_pr_addr,FUNC_1
+con_close_socket,FUNC_2
+con_flag_clear,FUNC_3
+dout,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+reset_connection,FUNC_7
+ceph_con_close,FUNC_8
+con,VAR_5

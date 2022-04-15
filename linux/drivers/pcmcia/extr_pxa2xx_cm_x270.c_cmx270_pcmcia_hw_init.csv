@@ -1,0 +1,10 @@
+GPIO_PCMCIA_RESET,VAR_0
+GPIO_PCMCIA_S0_CD_VALID,VAR_1
+GPIO_PCMCIA_S0_RDYINT,VAR_2
+SOC_STAT_CD,VAR_3
+SOC_STAT_RDY,VAR_4
+gpio_direction_output,FUNC_0
+gpio_request,FUNC_1
+cmx270_pcmcia_hw_init,FUNC_2
+skt,VAR_5
+ret,VAR_6

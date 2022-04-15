@@ -1,0 +1,11 @@
+PCI_CAP_ID_MSIX,VAR_0
+PCI_MSIX_FLAGS,VAR_1
+PCI_MSIX_FLAGS_ENABLE,VAR_2
+pci_find_capability,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+msix_set_enable,FUNC_3
+dev,VAR_3
+enable,VAR_4
+pos,VAR_5
+control,VAR_6

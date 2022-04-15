@@ -1,0 +1,11 @@
+CMD_802_11_RF_CHANNEL,VAR_0
+CMD_OPT_802_11_RF_CHANNEL_GET,VAR_1
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_deb_cmd,FUNC_2
+le16_to_cpu,FUNC_3
+memset,FUNC_4
+lbs_get_channel,FUNC_5
+priv,VAR_2
+cmd,VAR_3
+ret,VAR_4

@@ -1,0 +1,13 @@
+comedi_to_usb_interface,FUNC_0
+mutex_destroy,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+usb_set_intfdata,FUNC_4
+usbduxsigma_ai_stop,FUNC_5
+usbduxsigma_ao_stop,FUNC_6
+usbduxsigma_free_usb_buffers,FUNC_7
+usbduxsigma_pwm_stop,FUNC_8
+usbduxsigma_detach,FUNC_9
+dev,VAR_0
+intf,VAR_1
+devpriv,VAR_2

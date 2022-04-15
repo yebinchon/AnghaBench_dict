@@ -1,0 +1,14 @@
+bcache_kobj,VAR_0
+bcache_major,VAR_1
+bcache_wq,VAR_2
+bch_debug_exit,FUNC_0
+bch_journal_wq,VAR_3
+bch_register_lock,VAR_4
+bch_request_exit,FUNC_1
+destroy_workqueue,FUNC_2
+kobject_put,FUNC_3
+mutex_destroy,FUNC_4
+reboot,VAR_5
+unregister_blkdev,FUNC_5
+unregister_reboot_notifier,FUNC_6
+bcache_exit,FUNC_7

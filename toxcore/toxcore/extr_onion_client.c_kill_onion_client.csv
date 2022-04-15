@@ -1,0 +1,14 @@
+CRYPTO_PACKET_DHTPK,VAR_0
+NET_PACKET_ANNOUNCE_RESPONSE,VAR_1
+NET_PACKET_ONION_DATA_RESPONSE,VAR_2
+ONION_DATA_DHTPK,VAR_3
+cryptopacket_registerhandler,FUNC_0
+free,FUNC_1
+networking_registerhandler,FUNC_2
+oniondata_registerhandler,FUNC_3
+ping_array_free_all,FUNC_4
+realloc_onion_friends,FUNC_5
+set_onion_packet_tcp_connection_callback,FUNC_6
+sodium_memzero,FUNC_7
+kill_onion_client,FUNC_8
+onion_c,VAR_4

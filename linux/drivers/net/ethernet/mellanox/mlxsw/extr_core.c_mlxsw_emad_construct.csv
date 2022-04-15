@@ -1,0 +1,14 @@
+MLXSW_EMAD_END_TLV_LEN,VAR_0
+MLXSW_EMAD_OP_TLV_LEN,VAR_1
+mlxsw_emad_construct_eth_hdr,FUNC_0
+mlxsw_emad_pack_end_tlv,FUNC_1
+mlxsw_emad_pack_op_tlv,FUNC_2
+mlxsw_emad_pack_reg_tlv,FUNC_3
+skb_push,FUNC_4
+mlxsw_emad_construct,FUNC_5
+skb,VAR_2
+reg,VAR_3
+payload,VAR_4
+type,VAR_5
+tid,VAR_6
+buf,VAR_7

@@ -1,0 +1,16 @@
+KERN_INVALID_ARGUMENT,VAR_0
+KERN_SUCCESS,VAR_1
+KERN_TERMINATED,VAR_2
+TASK_CONTROL_APPLICATION,VAR_3
+TASK_NULL,VAR_4
+TASK_POLICY_ROLE,VAR_5
+kernel_task,VAR_6
+proc_get_effective_task_policy,FUNC_0
+task_lock,FUNC_1
+task_policy_update_complete_unlocked,FUNC_2
+task_policy_update_locked,FUNC_3
+task_unlock,FUNC_4
+task_importance,FUNC_5
+task,VAR_7
+importance,VAR_8
+pend_token,VAR_9

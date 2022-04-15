@@ -1,0 +1,9 @@
+RME32_BUFFER_SIZE,VAR_0
+SNDRV_PCM_HW_PARAM_BUFFER_BYTES,VAR_1
+SNDRV_PCM_HW_PARAM_PERIOD_BYTES,VAR_2
+hw_constraints_period_bytes,VAR_3
+snd_pcm_hw_constraint_list,FUNC_0
+snd_pcm_hw_constraint_single,FUNC_1
+snd_rme32_set_buffer_constraint,FUNC_2
+rme32,VAR_4
+runtime,VAR_5

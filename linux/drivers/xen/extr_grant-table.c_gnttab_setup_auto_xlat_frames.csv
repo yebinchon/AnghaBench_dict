@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+XEN_PAGE_SIZE,VAR_3
+XEN_PFN_DOWN,FUNC_0
+__max_nr_grant_frames,FUNC_1
+kcalloc,FUNC_2
+pr_warn,FUNC_3
+xen_auto_xlat_grant_frames,VAR_4
+xen_remap,FUNC_4
+xen_unmap,FUNC_5
+gnttab_setup_auto_xlat_frames,FUNC_6
+addr,VAR_5
+pfn,VAR_6
+max_nr_gframes,VAR_7
+i,VAR_8
+vaddr,VAR_9

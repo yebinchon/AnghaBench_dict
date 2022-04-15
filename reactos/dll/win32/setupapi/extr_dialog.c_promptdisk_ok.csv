@@ -1,0 +1,17 @@
+DPROMPT_BUFFERTOOSMALL,VAR_0
+DPROMPT_SUCCESS,VAR_1
+EndDialog,FUNC_0
+GetDlgItem,FUNC_1
+GetWindowTextW,FUNC_2
+IDC_PATH,VAR_2
+MAX_PATH,VAR_3
+NO_ERROR,VAR_4
+TRACE,FUNC_3
+debugstr_w,FUNC_4
+strcpyW,FUNC_5
+strlenW,FUNC_6
+promptdisk_ok,FUNC_7
+hwnd,VAR_5
+params,VAR_6
+requiredSize,VAR_7
+aux,VAR_8

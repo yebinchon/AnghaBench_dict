@@ -1,0 +1,16 @@
+ATA_PROT_PIO,VAR_0
+BLK_STS_OK,VAR_1
+blk_rq_bytes,FUNC_0
+blk_rq_sectors,FUNC_1
+do_rw_taskfile,FUNC_2
+ide_complete_rq,FUNC_3
+ide_init_sg_cmd,FUNC_4
+ide_map_sg,FUNC_5
+ide_req,FUNC_6
+ide_stopped,VAR_2
+printk,FUNC_7
+scsi_req,FUNC_8
+execute_drive_cmd,FUNC_9
+drive,VAR_3
+rq,VAR_4
+cmd,VAR_5

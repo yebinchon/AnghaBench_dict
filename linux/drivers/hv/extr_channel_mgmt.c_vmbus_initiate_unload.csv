@@ -1,0 +1,12 @@
+CHANNELMSG_UNLOAD,VAR_0
+VERSION_WIN8_1,VAR_1
+init_completion,FUNC_0
+memset,FUNC_1
+vmbus_connection,VAR_2
+vmbus_post_msg,FUNC_2
+vmbus_proto_version,VAR_3
+vmbus_wait_for_unload,FUNC_3
+wait_for_completion,FUNC_4
+vmbus_initiate_unload,FUNC_5
+crash,VAR_4
+hdr,VAR_5

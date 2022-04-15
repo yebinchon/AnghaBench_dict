@@ -1,0 +1,17 @@
+MAX_NR_BANKS,VAR_0
+MCG_CTL_P,VAR_1
+MCP_DONTLOG,VAR_2
+MCP_UC,VAR_3
+MSR_IA32_MCG_CAP,VAR_4
+MSR_IA32_MCG_CTL,VAR_5
+X86_CR4_MCE,VAR_6
+bitmap_fill,FUNC_0
+cr4_set_bits,FUNC_1
+machine_check_poll,FUNC_2
+mca_cfg,VAR_7
+rdmsrl,FUNC_3
+wrmsr,FUNC_4
+__mcheck_cpu_init_generic,FUNC_5
+m_fl,VAR_8
+all_banks,VAR_9
+cap,VAR_10

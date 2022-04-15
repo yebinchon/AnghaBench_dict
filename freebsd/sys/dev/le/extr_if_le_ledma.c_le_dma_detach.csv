@@ -1,0 +1,17 @@
+LE_LOCK_DESTROY,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+am7990_detach,FUNC_1
+bus_dma_tag_destroy,FUNC_2
+bus_dmamap_unload,FUNC_3
+bus_dmamem_free,FUNC_4
+bus_release_resource,FUNC_5
+bus_teardown_intr,FUNC_6
+device_get_softc,FUNC_7
+lsi64854_detach,FUNC_8
+rman_get_rid,FUNC_9
+le_dma_detach,FUNC_10
+dev,VAR_2
+lesc,VAR_3
+sc,VAR_4
+error,VAR_5

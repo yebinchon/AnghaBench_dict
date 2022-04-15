@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+GFP_NOWAIT,VAR_1
+MEMCG_SOCK,VAR_2
+__GFP_NOFAIL,VAR_3
+cgroup_subsys_on_dfl,FUNC_0
+in_softirq,FUNC_1
+memory_cgrp_subsys,VAR_4
+mod_memcg_state,FUNC_2
+page_counter_charge,FUNC_3
+page_counter_try_charge,FUNC_4
+try_charge,FUNC_5
+mem_cgroup_charge_skmem,FUNC_6
+memcg,VAR_5
+nr_pages,VAR_6
+gfp_mask,VAR_7
+fail,VAR_8

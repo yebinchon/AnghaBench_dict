@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+SET_NETDEV_DEVTYPE,FUNC_0
+br_sysfs_addbr,FUNC_1
+br_type,VAR_1
+dev_alloc_name,FUNC_2
+free_netdev,FUNC_3
+new_bridge_dev,FUNC_4
+register_netdevice,FUNC_5
+rtnl_lock,FUNC_6
+rtnl_unlock,FUNC_7
+strchr,FUNC_8
+unregister_netdevice,FUNC_9
+br_add_bridge,FUNC_10
+net,VAR_2
+name,VAR_3
+dev,VAR_4
+ret,VAR_5

@@ -1,0 +1,14 @@
+DRM_EDID_INPUT_DIGITAL,VAR_0
+IS_TMDS,FUNC_0
+drm_add_edid_modes,FUNC_1
+drm_connector_update_edid_property,FUNC_2
+kfree,FUNC_3
+psb_intel_sdvo_get_analog_edid,FUNC_4
+psb_intel_sdvo_get_edid,FUNC_5
+to_psb_intel_sdvo_connector,FUNC_6
+psb_intel_sdvo_get_ddc_modes,FUNC_7
+connector,VAR_1
+edid,VAR_2
+psb_intel_sdvo_connector,VAR_3
+monitor_is_digital,VAR_4
+connector_is_digital,VAR_5

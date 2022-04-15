@@ -1,0 +1,14 @@
+EAP_GPSK_VENDOR_IETF,VAR_0
+MSG_DEBUG,VAR_1
+eap_gpsk_compute_mic_aes,FUNC_0
+hmac_sha256,FUNC_1
+wpa_printf,FUNC_2
+eap_gpsk_compute_mic,FUNC_3
+sk,VAR_2
+sk_len,VAR_3
+vendor,VAR_4
+specifier,VAR_5
+data,VAR_6
+len,VAR_7
+mic,VAR_8
+ret,VAR_9

@@ -1,0 +1,15 @@
+HDMI_INFOFRAME_TYPE_AVI,VAR_0
+HDMI_QUANTIZATION_RANGE_FULL,VAR_1
+HDMI_QUANTIZATION_RANGE_LIMITED,VAR_2
+WARN_ON,FUNC_0
+drm_hdmi_avi_infoframe_from_display_mode,FUNC_1
+drm_hdmi_avi_infoframe_quant_range,FUNC_2
+hdmi_avi_infoframe_check,FUNC_3
+intel_hdmi_infoframe_enable,FUNC_4
+intel_sdvo_compute_avi_infoframe,FUNC_5
+intel_sdvo,VAR_3
+crtc_state,VAR_4
+conn_state,VAR_5
+frame,VAR_6
+adjusted_mode,VAR_7
+ret,VAR_8

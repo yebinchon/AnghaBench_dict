@@ -1,0 +1,17 @@
+PAGE_SHIFT,VAR_0
+PAGE_SIZE,VAR_1
+RMODE_TSS_SIZE,VAR_2
+TSS_BASE_SIZE,VAR_3
+TSS_IOPB_BASE_OFFSET,VAR_4
+TSS_REDIRECTION_SIZE,VAR_5
+kvm_clear_guest_page,FUNC_0
+kvm_write_guest_page,FUNC_1
+srcu_read_lock,FUNC_2
+srcu_read_unlock,FUNC_3
+to_kvm_vmx,FUNC_4
+init_rmode_tss,FUNC_5
+kvm,VAR_6
+fn,VAR_7
+data,VAR_8
+idx,VAR_9
+r,VAR_10

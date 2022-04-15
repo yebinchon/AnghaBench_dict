@@ -1,0 +1,13 @@
+GIT_CHECKOUT_DONT_REMOVE_EXISTING,VAR_0
+GIT_CHECKOUT_FORCE,VAR_1
+GIT_CHECKOUT_OPTIONS_INIT,VAR_2
+O_APPEND,VAR_3
+O_CREAT,VAR_4
+O_RDWR,VAR_5
+check_file_contents,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_6
+git_checkout_index,FUNC_3
+test_checkout_index__options_open_flags,FUNC_4
+opts,VAR_7

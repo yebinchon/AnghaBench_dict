@@ -1,0 +1,15 @@
+RARCH_ERR,FUNC_0
+XCreateIC,FUNC_1
+XIMPreeditNothing,VAR_0
+XIMStatusNothing,VAR_1
+XNClientWindow,VAR_2
+XNInputStyle,VAR_3
+XOpenIM,FUNC_2
+XSetICFocus,FUNC_3
+g_x11_has_focus,VAR_4
+x11_destroy_input_context,FUNC_4
+x11_create_input_context,FUNC_5
+dpy,VAR_5
+win,VAR_6
+xim,VAR_7
+xic,VAR_8

@@ -1,0 +1,8 @@
+B43legacy_MACCTL_TBTTHOLD,VAR_0
+B43legacy_MMIO_MACCTL,VAR_1
+b43legacy_read32,FUNC_0
+b43legacy_write32,FUNC_1
+mmiowb,FUNC_2
+b43legacy_time_lock,FUNC_3
+dev,VAR_2
+status,VAR_3

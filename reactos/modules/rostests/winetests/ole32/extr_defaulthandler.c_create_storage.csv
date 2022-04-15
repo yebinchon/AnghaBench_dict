@@ -1,0 +1,12 @@
+CreateILockBytesOnHGlobal,FUNC_0
+ILockBytes_Release,FUNC_1
+STGM_CREATE,VAR_0
+STGM_READWRITE,VAR_1
+STGM_SHARE_EXCLUSIVE,VAR_2
+SUCCEEDED,FUNC_2
+StgCreateDocfileOnILockBytes,FUNC_3
+TRUE,VAR_3
+create_storage,FUNC_4
+stg,VAR_4
+hr,VAR_5
+lock_bytes,VAR_6

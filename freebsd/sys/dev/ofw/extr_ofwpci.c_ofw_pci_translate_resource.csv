@@ -1,0 +1,12 @@
+OFW_PCI_PHYS_HI_SPACEMASK,VAR_0
+SYS_RES_IOPORT,VAR_1
+SYS_RES_MEMORY,VAR_2
+device_get_softc,FUNC_0
+ofw_pci_translate_resource,FUNC_1
+bus,VAR_3
+type,VAR_4
+start,VAR_5
+newstart,VAR_6
+sc,VAR_7
+rp,VAR_8
+space,VAR_9

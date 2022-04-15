@@ -1,0 +1,12 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+VFS_I,FUNC_1
+XFS_LOG_SYNC,VAR_0
+completion,VAR_1
+igrab,FUNC_2
+wait_for_completion,FUNC_3
+xfs_flush_inodes_work,VAR_2
+xfs_log_force,FUNC_4
+xfs_syncd_queue_work,FUNC_5
+xfs_flush_inodes,FUNC_6
+ip,VAR_3
+inode,VAR_4

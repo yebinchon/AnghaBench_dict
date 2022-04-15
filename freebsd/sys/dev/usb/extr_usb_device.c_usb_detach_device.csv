@@ -1,0 +1,13 @@
+DPRINTFN,FUNC_0
+SA_LOCKED,VAR_0
+USB_IFACE_INDEX_ANY,VAR_1
+USB_IFACE_MAX,VAR_2
+sx_assert,FUNC_1
+usb_detach_device_sub,FUNC_2
+usbd_get_iface,FUNC_3
+usb_detach_device,FUNC_4
+udev,VAR_3
+iface_index,VAR_4
+flag,VAR_5
+iface,VAR_6
+i,VAR_7

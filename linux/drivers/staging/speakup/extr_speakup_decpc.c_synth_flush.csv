@@ -1,0 +1,17 @@
+CTRL_flush,VAR_0
+DMA_sync,VAR_1
+STAT_dma_ready,VAR_2
+STAT_dma_state,VAR_3
+STAT_flushing,VAR_4
+dma_state,VAR_5
+dt_ctrl,FUNC_0
+dt_getstatus,FUNC_1
+dt_waitbit,FUNC_2
+in_escape,VAR_6
+is_flushing,VAR_7
+outb_p,FUNC_3
+speakup_info,VAR_8
+udelay,FUNC_4
+synth_flush,FUNC_5
+synth,VAR_9
+timeout,VAR_10

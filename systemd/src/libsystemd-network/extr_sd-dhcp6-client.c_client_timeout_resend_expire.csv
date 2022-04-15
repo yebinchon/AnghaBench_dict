@@ -1,0 +1,13 @@
+DHCP6_CLIENT_DONT_DESTROY,FUNC_0
+DHCP6_STATE_REBIND,VAR_0
+DHCP6_STATE_SOLICITATION,VAR_1
+SD_DHCP6_CLIENT_EVENT_RESEND_EXPIRE,VAR_2
+assert,FUNC_1
+client_start,FUNC_2
+client_stop,FUNC_3
+client_timeout_resend_expire,FUNC_4
+s,VAR_3
+usec,VAR_4
+userdata,VAR_5
+client,VAR_6
+state,VAR_7

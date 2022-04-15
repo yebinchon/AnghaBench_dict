@@ -1,0 +1,17 @@
+CMD_802_11_FW_WAKE_METHOD,VAR_0
+CMD_ACT_GET,VAR_1
+CMD_SET_BOOT2_VER,VAR_2
+CMD_WAKE_METHOD_COMMAND_INT,VAR_3
+EHS_WAKE_ON_UNICAST_DATA,VAR_4
+FW_CAPINFO_PS,VAR_5
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_deb_usb,FUNC_2
+lbs_host_sleep_cfg,FUNC_3
+le16_to_cpu,FUNC_4
+netdev_info,FUNC_5
+if_usb_setup_firmware,FUNC_6
+priv,VAR_6
+cardp,VAR_7
+b2_cmd,VAR_8
+wake_method,VAR_9

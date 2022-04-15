@@ -1,0 +1,17 @@
+CONNECT_REQUEST,VAR_0
+PTHREAD_CREATE_DETACHED,VAR_1
+clone_cb,FUNC_0
+fprintf,FUNC_1
+perror,FUNC_2
+pthread_attr_init,FUNC_3
+pthread_attr_setdetachstate,FUNC_4
+pthread_create,FUNC_5
+rping_bind_server,FUNC_6
+rping_persistent_server_thread,VAR_2
+sem_wait,FUNC_7
+stderr,VAR_3
+rping_run_persistent_server,FUNC_8
+listening_cb,VAR_4
+ret,VAR_5
+cb,VAR_6
+attr,VAR_7

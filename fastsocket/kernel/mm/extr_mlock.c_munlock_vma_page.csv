@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+NR_MLOCK,VAR_0
+PageLocked,FUNC_1
+PageUnevictable,FUNC_2
+SWAP_MLOCK,VAR_1
+TestClearPageMlocked,FUNC_3
+UNEVICTABLE_PGMUNLOCKED,VAR_2
+UNEVICTABLE_PGSTRANDED,VAR_3
+count_vm_event,FUNC_4
+dec_zone_page_state,FUNC_5
+isolate_lru_page,FUNC_6
+putback_lru_page,FUNC_7
+try_to_munlock,FUNC_8
+munlock_vma_page,FUNC_9
+page,VAR_4
+ret,VAR_5

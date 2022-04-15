@@ -1,0 +1,14 @@
+IFCAP_POLLING,VAR_0
+device_get_softc,FUNC_0
+ether_ifdetach,FUNC_1
+ether_poll_deregister,FUNC_2
+fwe_stop,FUNC_3
+if_free,FUNC_4
+mtx_destroy,FUNC_5
+splimp,FUNC_6
+splx,FUNC_7
+fwe_detach,FUNC_8
+dev,VAR_1
+fwe,VAR_2
+ifp,VAR_3
+s,VAR_4

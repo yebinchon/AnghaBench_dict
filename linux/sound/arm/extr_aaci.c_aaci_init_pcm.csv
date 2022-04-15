@@ -1,0 +1,14 @@
+DRIVER_NAME,VAR_0
+SNDRV_DMA_TYPE_DEV,VAR_1
+SNDRV_PCM_STREAM_CAPTURE,VAR_2
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+aaci_capture_ops,VAR_4
+aaci_playback_ops,VAR_5
+snd_pcm_lib_preallocate_pages_for_all,FUNC_0
+snd_pcm_new,FUNC_1
+snd_pcm_set_ops,FUNC_2
+strlcpy,FUNC_3
+aaci_init_pcm,FUNC_4
+aaci,VAR_6
+pcm,VAR_7
+ret,VAR_8

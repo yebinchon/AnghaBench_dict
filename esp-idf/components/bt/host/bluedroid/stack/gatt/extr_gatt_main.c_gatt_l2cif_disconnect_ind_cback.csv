@@ -1,0 +1,14 @@
+GATT_CONN_TERMINATE_PEER_USER,VAR_0
+GATT_TRANSPORT_BR_EDR,VAR_1
+L2CA_DisconnectRsp,FUNC_0
+L2CA_GetDisconnectReason,FUNC_1
+btm_sec_is_a_bonded_dev,FUNC_2
+gatt_add_a_bonded_dev_for_srv_chg,FUNC_3
+gatt_cleanup_upon_disc,FUNC_4
+gatt_find_tcb_by_cid,FUNC_5
+gatt_is_bda_in_the_srv_chg_clt_list,FUNC_6
+gatt_l2cif_disconnect_ind_cback,FUNC_7
+lcid,VAR_2
+ack_needed,VAR_3
+p_tcb,VAR_4
+reason,VAR_5

@@ -1,0 +1,12 @@
+EXCLUSIVE_LOCK,VAR_0
+PAGER_WRITER_CACHEMOD,VAR_1
+PAGER_WRITER_DBMOD,VAR_2
+PAGER_WRITER_LOCKED,VAR_3
+SQLITE_OK,VAR_4
+assert,FUNC_0
+assert_pager_state,FUNC_1
+pagerUseWal,FUNC_2
+pager_wait_on_lock,FUNC_3
+sqlite3PagerExclusiveLock,FUNC_4
+pPager,VAR_5
+rc,VAR_6

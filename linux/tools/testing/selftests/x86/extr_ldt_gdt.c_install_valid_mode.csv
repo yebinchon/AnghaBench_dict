@@ -1,0 +1,17 @@
+ENOSYS,VAR_0
+SYS_modify_ldt,VAR_1
+SYS_set_thread_area,VAR_2
+check_valid_segment,FUNC_0
+errno,VAR_3
+gdt_entry_num,VAR_4
+nerrs,VAR_5
+printf,FUNC_1
+syscall,FUNC_2
+install_valid_mode,FUNC_3
+d,VAR_6
+ar,VAR_7
+oldmode,VAR_8
+ldt,VAR_9
+desc,VAR_10
+ret,VAR_11
+limit,VAR_12

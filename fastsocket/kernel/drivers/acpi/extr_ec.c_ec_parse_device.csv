@@ -1,0 +1,14 @@
+ACPI_FAILURE,FUNC_0
+AE_CTRL_TERMINATE,VAR_0
+METHOD_NAME__CRS,VAR_1
+acpi_evaluate_integer,FUNC_1
+acpi_walk_resources,FUNC_2
+ec_parse_io_ports,VAR_2
+ec_parse_device,FUNC_3
+handle,VAR_3
+Level,VAR_4
+context,VAR_5
+retval,VAR_6
+status,VAR_7
+tmp,VAR_8
+ec,VAR_9

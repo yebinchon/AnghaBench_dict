@@ -1,0 +1,17 @@
+SYS_RES_IOPORT,VAR_0
+SYS_RES_MEMORY,VAR_1
+pmap_mapdev,FUNC_0
+rman_activate_resource,FUNC_1
+rman_get_size,FUNC_2
+rman_get_start,FUNC_3
+rman_set_bushandle,FUNC_4
+rman_set_virtual,FUNC_5
+xlp_simplebus_activate_resource,FUNC_6
+bus,VAR_2
+child,VAR_3
+type,VAR_4
+rid,VAR_5
+r,VAR_6
+vaddr,VAR_7
+paddr,VAR_8
+psize,VAR_9

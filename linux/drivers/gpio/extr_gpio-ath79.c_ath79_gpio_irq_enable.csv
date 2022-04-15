@@ -1,0 +1,13 @@
+AR71XX_GPIO_REG_INT_ENABLE,VAR_0
+AR71XX_GPIO_REG_INT_MASK,VAR_1
+BIT,FUNC_0
+ath79_gpio_update_bits,FUNC_1
+irq_data_to_ath79_gpio,FUNC_2
+irqd_to_hwirq,FUNC_3
+raw_spin_lock_irqsave,FUNC_4
+raw_spin_unlock_irqrestore,FUNC_5
+ath79_gpio_irq_enable,FUNC_6
+data,VAR_2
+ctrl,VAR_3
+mask,VAR_4
+flags,VAR_5

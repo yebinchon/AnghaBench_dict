@@ -1,0 +1,9 @@
+PDC_WDT_TICKLE1,VAR_0
+PDC_WDT_TICKLE1_MAGIC,VAR_1
+PDC_WDT_TICKLE2,VAR_2
+PDC_WDT_TICKLE2_MAGIC,VAR_3
+watchdog_get_drvdata,FUNC_0
+writel,FUNC_1
+pdc_wdt_keepalive,FUNC_2
+wdt_dev,VAR_4
+wdt,VAR_5

@@ -1,0 +1,16 @@
+VQASSERT,FUNC_0
+VQ_RING_DESC_CHAIN_END,VAR_0
+VRING_DESC_F_NEXT,VAR_1
+VRING_DESC_F_WRITE,VAR_2
+vq_ring_enqueue_segments,FUNC_1
+vq,VAR_3
+desc,VAR_4
+head_idx,VAR_5
+sg,VAR_6
+readable,VAR_7
+writable,VAR_8
+seg,VAR_9
+dp,VAR_10
+i,VAR_11
+needed,VAR_12
+idx,VAR_13

@@ -1,0 +1,12 @@
+get_irq_data,FUNC_0
+ht_irq_lock,VAR_0
+pci_write_config_byte,FUNC_1
+pci_write_config_dword,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stub1,FUNC_5
+write_ht_irq_msg,FUNC_6
+irq,VAR_1
+msg,VAR_2
+cfg,VAR_3
+flags,VAR_4

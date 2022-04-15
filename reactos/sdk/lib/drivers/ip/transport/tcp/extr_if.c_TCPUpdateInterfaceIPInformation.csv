@@ -1,0 +1,12 @@
+ADE_ADDRMASK,VAR_0
+ADE_UNICAST,VAR_1
+GetInterfaceIPv4Address,FUNC_0
+netif_set_addr,FUNC_1
+netif_set_default,FUNC_2
+netif_set_down,FUNC_3
+netif_set_up,FUNC_4
+TCPUpdateInterfaceIPInformation,FUNC_5
+IF,VAR_2
+ipaddr,VAR_3
+netmask,VAR_4
+gw,VAR_5

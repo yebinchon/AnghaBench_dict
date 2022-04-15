@@ -1,0 +1,16 @@
+AlphaApplyFilter,FUNC_0
+COLOR_INDEXING_TRANSFORM,VAR_0
+VP8LColorIndexInverseTransformAlpha,FUNC_1
+WEBP_FILTER_HORIZONTAL,VAR_1
+WEBP_FILTER_NONE,VAR_2
+assert,FUNC_2
+ExtractPalettedAlphaRows,FUNC_3
+dec,VAR_3
+last_row,VAR_4
+alph_dec,VAR_5
+top_row,VAR_6
+first_row,VAR_7
+width,VAR_8
+out,VAR_9
+in,VAR_10
+transform,VAR_11

@@ -1,0 +1,12 @@
+br_chacha20_ct_run,VAR_0
+br_chacha20_sse2_get,FUNC_0
+br_poly1305_ctmul32_run,VAR_1
+br_poly1305_ctmul_run,VAR_2
+br_poly1305_ctmulq_get,FUNC_1
+br_ssl_engine_set_chacha20,FUNC_2
+br_ssl_engine_set_chapol,FUNC_3
+br_ssl_engine_set_poly1305,FUNC_4
+br_sslrec_in_chapol_vtable,VAR_3
+br_sslrec_out_chapol_vtable,VAR_4
+br_ssl_engine_set_default_chapol,FUNC_5
+cc,VAR_5

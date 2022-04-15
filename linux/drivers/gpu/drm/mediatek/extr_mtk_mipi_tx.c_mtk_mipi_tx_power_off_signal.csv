@@ -1,0 +1,12 @@
+MIPITX_DSI_CLOCK_LANE,VAR_0
+MIPITX_DSI_DATA_LANE3,VAR_1
+MIPITX_DSI_TOP_CON,VAR_2
+RG_DSI_LNTx_LDOOUT_EN,VAR_3
+RG_DSI_PAD_TIE_LOW_EN,VAR_4
+mtk_mipi_tx_clear_bits,FUNC_0
+mtk_mipi_tx_set_bits,FUNC_1
+phy_get_drvdata,FUNC_2
+mtk_mipi_tx_power_off_signal,FUNC_3
+phy,VAR_5
+mipi_tx,VAR_6
+reg,VAR_7

@@ -1,0 +1,16 @@
+X86BIOS_PHYSTOOFF,FUNC_0
+X86BIOS_PHYSTOSEG,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+vesa_lock,VAR_0
+vesa_palette,VAR_1
+vesa_palette_offs,VAR_2
+x86bios_init_regs,FUNC_4
+x86bios_intr,FUNC_5
+vesa_bios_save_palette,FUNC_6
+start,VAR_3
+colors,VAR_4
+palette,VAR_5
+bits,VAR_6
+regs,VAR_7
+i,VAR_8

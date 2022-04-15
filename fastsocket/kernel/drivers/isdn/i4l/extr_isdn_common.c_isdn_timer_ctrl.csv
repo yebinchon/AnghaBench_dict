@@ -1,0 +1,14 @@
+ISDN_TIMER_RES,VAR_0
+ISDN_TIMER_SLOW,VAR_1
+dev,VAR_2
+isdn_timer_cnt1,VAR_3
+isdn_timer_cnt2,VAR_4
+jiffies,VAR_5
+mod_timer,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+isdn_timer_ctrl,FUNC_3
+tf,VAR_6
+onoff,VAR_7
+flags,VAR_8
+old_tflags,VAR_9

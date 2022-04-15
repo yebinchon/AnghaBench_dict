@@ -1,0 +1,14 @@
+AWindowHandler_getANativeWindow,FUNC_0
+AWindow_Video,VAR_0
+VK_STRUCTURE_TYPE_ANDROID_SURFACE_CREATE_INFO_KHR,VAR_1
+VK_SUCCESS,VAR_2
+VLC_EGENERIC,VAR_3
+VLC_SUCCESS,VAR_4
+msg_Err,FUNC_1
+vkCreateAndroidSurfaceKHR,FUNC_2
+vlc_vk_CreateSurface,FUNC_3
+vk,VAR_5
+vkinst,VAR_6
+anw,VAR_7
+ainfo,VAR_8
+res,VAR_9

@@ -1,0 +1,11 @@
+cl_fixture,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_sandbox_init,FUNC_3
+g_repo,VAR_0
+git_submodule_add_finalize,FUNC_4
+git_submodule_add_setup,FUNC_5
+git_submodule_clone,FUNC_6
+git_submodule_free,FUNC_7
+test_submodule_add__submodule_clone_twice_fails,FUNC_8
+sm,VAR_1

@@ -1,0 +1,13 @@
+M_USBDEV,VAR_0
+UFOMA_BULK_ENDPT_MAX,VAR_1
+UFOMA_CTRL_ENDPT_MAX,VAR_2
+cv_destroy,FUNC_0
+device_claim_softc,FUNC_1
+device_get_softc,FUNC_2
+free,FUNC_3
+ucom_detach,FUNC_4
+ufoma_free_softc,FUNC_5
+usbd_transfer_unsetup,FUNC_6
+ufoma_detach,FUNC_7
+dev,VAR_3
+sc,VAR_4

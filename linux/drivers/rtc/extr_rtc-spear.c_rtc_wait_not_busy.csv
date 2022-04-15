@@ -1,0 +1,11 @@
+STATUS_BUSY,VAR_0
+STATUS_REG,VAR_1
+msleep,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+rtc_wait_not_busy,FUNC_4
+config,VAR_2
+status,VAR_3
+count,VAR_4
+flags,VAR_5

@@ -1,0 +1,14 @@
+ARM64_SSBD_FORCE_ENABLE,VAR_0
+PF_KTHREAD,VAR_1
+TIF_SSBD,VAR_2
+arm64_get_ssbd_state,FUNC_0
+compat_user_mode,FUNC_1
+set_compat_ssbs_bit,FUNC_2
+set_ssbs_bit,FUNC_3
+task_pt_regs,FUNC_4
+test_tsk_thread_flag,FUNC_5
+unlikely,FUNC_6
+user_mode,FUNC_7
+ssbs_thread_switch,FUNC_8
+next,VAR_3
+regs,VAR_4

@@ -1,0 +1,11 @@
+ata_bmdma_stop,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_write_config_byte,FUNC_2
+to_pci_dev,FUNC_3
+hpt3x2n_bmdma_stop,FUNC_4
+qc,VAR_0
+ap,VAR_1
+pdev,VAR_2
+mscreg,VAR_3
+bwsr_stat,VAR_4
+msc_stat,VAR_5

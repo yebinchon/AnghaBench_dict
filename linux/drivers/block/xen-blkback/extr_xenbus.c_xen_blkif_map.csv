@@ -1,0 +1,17 @@
+BACK_RING_INIT,FUNC_0
+BUG,FUNC_1
+XEN_PAGE_SIZE,VAR_0
+bind_interdomain_evtchn_to_irqhandler,FUNC_2
+xen_blkif_be_int,VAR_1
+xenbus_map_ring_valloc,FUNC_3
+xenbus_unmap_ring_vfree,FUNC_4
+xen_blkif_map,FUNC_5
+ring,VAR_2
+gref,VAR_3
+nr_grefs,VAR_4
+evtchn,VAR_5
+err,VAR_6
+blkif,VAR_7
+sring,VAR_8
+sring_x86_32,VAR_9
+sring_x86_64,VAR_10

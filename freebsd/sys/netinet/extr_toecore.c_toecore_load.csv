@@ -1,0 +1,17 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+MTX_DEF,VAR_1
+TAILQ_INIT,FUNC_1
+listen_start_eh,VAR_2
+listen_stop_eh,VAR_3
+lle_event,VAR_4
+lle_event_eh,VAR_5
+mtx_init,FUNC_2
+tcp_offload_listen_start,VAR_6
+tcp_offload_listen_stop,VAR_7
+toe_listen_start_event,VAR_8
+toe_listen_stop_event,VAR_9
+toe_lle_event,VAR_10
+toedev_list,VAR_11
+toedev_lock,VAR_12
+toecore_load,FUNC_3

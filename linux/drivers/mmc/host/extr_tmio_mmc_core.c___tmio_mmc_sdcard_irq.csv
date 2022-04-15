@@ -1,0 +1,13 @@
+TMIO_STAT_CMDRESPEND,VAR_0
+TMIO_STAT_CMDTIMEOUT,VAR_1
+TMIO_STAT_DATAEND,VAR_2
+TMIO_STAT_RXRDY,VAR_3
+TMIO_STAT_TXRQ,VAR_4
+tmio_mmc_ack_mmc_irqs,FUNC_0
+tmio_mmc_cmd_irq,FUNC_1
+tmio_mmc_data_irq,FUNC_2
+tmio_mmc_pio_irq,FUNC_3
+__tmio_mmc_sdcard_irq,FUNC_4
+host,VAR_5
+ireg,VAR_6
+status,VAR_7

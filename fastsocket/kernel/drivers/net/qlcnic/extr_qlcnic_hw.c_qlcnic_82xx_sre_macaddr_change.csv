@@ -1,0 +1,16 @@
+QLCNIC_MAC_EVENT,VAR_0
+QLCNIC_REQUEST,VAR_1
+cpu_to_le16,FUNC_0
+cpu_to_le64,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+qlcnic_send_cmd_descs,FUNC_4
+qlcnic_82xx_sre_macaddr_change,FUNC_5
+adapter,VAR_2
+addr,VAR_3
+vlan_id,VAR_4
+op,VAR_5
+req,VAR_6
+mac_req,VAR_7
+vlan_req,VAR_8
+word,VAR_9

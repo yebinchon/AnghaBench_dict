@@ -1,0 +1,15 @@
+CONTROL_HSS0_DTR_N,VAR_0
+CONTROL_HSS1_DTR_N,VAR_1
+GPIO_HSS0_DCD_N,VAR_2
+GPIO_HSS0_RTS_N,VAR_3
+GPIO_HSS1_DCD_N,VAR_4
+GPIO_HSS1_RTS_N,VAR_5
+free_irq,FUNC_0
+gpio_irq,FUNC_1
+gpio_line_set,FUNC_2
+output_control,FUNC_3
+set_carrier_cb_tab,VAR_6
+set_control,FUNC_4
+hss_close,FUNC_5
+port,VAR_7
+pdev,VAR_8

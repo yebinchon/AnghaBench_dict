@@ -1,0 +1,16 @@
+AGP_G33_MGGC_GGMS_MASK,VAR_0
+AGP_I810_PGTBL_CTL,VAR_1
+AGP_I810_PGTBL_SIZE_MASK,VAR_2
+AGP_I855_GCC1,VAR_3
+AGP_I855_GCC1_GMS,VAR_4
+EINVAL,VAR_5
+bus_read_4,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+pci_read_config,FUNC_3
+agp_i915_get_stolen_size,FUNC_4
+dev,VAR_6
+sc,VAR_7
+gcc1,VAR_8
+stolen,VAR_9
+gtt_size,VAR_10

@@ -1,0 +1,15 @@
+RMMODE_TRASH,VAR_0
+RXADDR1_SET_MODE,FUNC_0
+RXADDR1_SET_RMMODE,FUNC_1
+RXMODE_TRASH,VAR_1
+cardvcc_write,FUNC_2
+udelay,FUNC_3
+vcc_rxaddr1,VAR_2
+vcc_rxaddr2,VAR_3
+vcc_rxbufstart,VAR_4
+vcc_rxcrc1,VAR_5
+vcc_rxcrc2,VAR_6
+vcc_rxreadptr,VAR_7
+vcc_rxwriteptr,VAR_8
+lanai_shutdown_rx_vci,FUNC_4
+lvcc,VAR_9

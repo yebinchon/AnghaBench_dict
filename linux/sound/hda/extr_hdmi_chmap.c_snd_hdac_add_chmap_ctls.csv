@@ -1,0 +1,15 @@
+SNDRV_CTL_ELEM_ACCESS_WRITE,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+hdmi_chmap_ctl_get,VAR_2
+hdmi_chmap_ctl_info,VAR_3
+hdmi_chmap_ctl_put,VAR_4
+hdmi_chmap_ctl_tlv,VAR_5
+snd_pcm_add_chmap_ctls,FUNC_0
+snd_hdac_add_chmap_ctls,FUNC_1
+pcm,VAR_6
+pcm_idx,VAR_7
+hchmap,VAR_8
+chmap,VAR_9
+kctl,VAR_10
+err,VAR_11
+i,VAR_12

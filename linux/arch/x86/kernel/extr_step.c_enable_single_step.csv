@@ -1,0 +1,13 @@
+TIF_FORCED_TF,VAR_0
+TIF_SINGLESTEP,VAR_1
+X86_EFLAGS_TF,VAR_2
+clear_tsk_thread_flag,FUNC_0
+is_setting_trap_flag,FUNC_1
+set_tsk_thread_flag,FUNC_2
+task_pt_regs,FUNC_3
+test_tsk_thread_flag,FUNC_4
+unlikely,FUNC_5
+enable_single_step,FUNC_6
+child,VAR_3
+regs,VAR_4
+oflags,VAR_5

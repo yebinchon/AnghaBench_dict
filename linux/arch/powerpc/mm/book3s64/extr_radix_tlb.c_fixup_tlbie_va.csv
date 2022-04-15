@@ -1,0 +1,9 @@
+CPU_FTR_P9_TLBIE_ERAT_BUG,VAR_0
+CPU_FTR_P9_TLBIE_STQ_BUG,VAR_1
+RIC_FLUSH_TLB,VAR_2
+__tlbie_va,FUNC_0
+cpu_has_feature,FUNC_1
+fixup_tlbie_va,FUNC_2
+va,VAR_3
+pid,VAR_4
+ap,VAR_5

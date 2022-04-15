@@ -1,0 +1,15 @@
+ARCMSR_DRV2IOP_END_OF_INTERRUPT,VAR_0
+ARCMSR_IOP2DRV_CDB_DONE,VAR_1
+ARCMSR_IOP2DRV_DATA_READ_OK,VAR_2
+ARCMSR_IOP2DRV_DATA_WRITE_OK,VAR_3
+ARCMSR_IOP2DRV_MESSAGE_CMD_DONE,VAR_4
+READ_CHIP_REG32,FUNC_0
+WRITE_CHIP_REG32,FUNC_1
+arcmsr_hbb_message_isr,FUNC_2
+arcmsr_hbb_postqueue_isr,FUNC_3
+arcmsr_iop2drv_data_read_handle,FUNC_4
+arcmsr_iop2drv_data_wrote_handle,FUNC_5
+arcmsr_handle_hbb_isr,FUNC_6
+acb,VAR_5
+outbound_doorbell,VAR_6
+phbbmu,VAR_7

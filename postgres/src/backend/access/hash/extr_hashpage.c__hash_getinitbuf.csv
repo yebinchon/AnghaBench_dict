@@ -1,0 +1,13 @@
+BufferGetPage,FUNC_0
+BufferGetPageSize,FUNC_1
+ERROR,VAR_0
+MAIN_FORKNUM,VAR_1
+P_NEW,VAR_2
+RBM_ZERO_AND_LOCK,VAR_3
+ReadBufferExtended,FUNC_2
+_hash_pageinit,FUNC_3
+elog,FUNC_4
+_hash_getinitbuf,FUNC_5
+rel,VAR_4
+blkno,VAR_5
+buf,VAR_6

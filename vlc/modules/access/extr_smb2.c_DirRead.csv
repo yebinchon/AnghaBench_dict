@@ -1,0 +1,17 @@
+AddItem,FUNC_0
+ITEM_TYPE_DIRECTORY,VAR_0
+ITEM_TYPE_FILE,VAR_1
+ITEM_TYPE_UNKNOWN,VAR_2
+VLC_SUCCESS,VAR_3
+assert,FUNC_1
+smb2_readdir,FUNC_2
+vlc_readdir_helper_finish,FUNC_3
+vlc_readdir_helper_init,FUNC_4
+DirRead,FUNC_5
+access,VAR_4
+p_node,VAR_5
+sys,VAR_6
+smb2dirent,VAR_7
+ret,VAR_8
+rdh,VAR_9
+i_type,VAR_10

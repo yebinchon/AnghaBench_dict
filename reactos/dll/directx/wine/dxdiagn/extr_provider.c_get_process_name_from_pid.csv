@@ -1,0 +1,15 @@
+CloseHandle,FUNC_0
+EnumProcessModules,FUNC_1
+FALSE,VAR_0
+GetModuleBaseNameW,FUNC_2
+OpenProcess,FUNC_3
+PROCESS_QUERY_INFORMATION,VAR_1
+PROCESS_VM_READ,VAR_2
+TRUE,VAR_3
+get_process_name_from_pid,FUNC_4
+pid,VAR_4
+buf,VAR_5
+chars,VAR_6
+process,VAR_7
+module,VAR_8
+required_size,VAR_9

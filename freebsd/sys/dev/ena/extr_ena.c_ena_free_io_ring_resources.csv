@@ -1,0 +1,11 @@
+ENA_RING_MTX_LOCK,FUNC_0
+ENA_RING_MTX_UNLOCK,FUNC_1
+M_DEVBUF,VAR_0
+drbr_free,FUNC_2
+ena_free_counters,FUNC_3
+mtx_destroy,FUNC_4
+ena_free_io_ring_resources,FUNC_5
+adapter,VAR_1
+qid,VAR_2
+txr,VAR_3
+rxr,VAR_4

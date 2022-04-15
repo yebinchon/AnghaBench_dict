@@ -1,0 +1,15 @@
+BR_INSTR,VAR_0
+HEQ_INSTR,VAR_1
+ILLEGAL_INSTR,VAR_2
+LSCSA_QW_OFFSET,FUNC_0
+NOP_INSTR,VAR_3
+RESTORE_COMPLETE,VAR_4
+STOP_INSTR,VAR_5
+regs_spill,VAR_6
+spu_sync,FUNC_1
+restore_complete,FUNC_2
+exit_fini,FUNC_3
+exit_instrs,VAR_7
+offset,VAR_8
+stopped_status,VAR_9
+stopped_code,VAR_10

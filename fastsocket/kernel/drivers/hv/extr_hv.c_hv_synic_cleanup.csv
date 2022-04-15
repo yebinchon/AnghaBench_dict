@@ -1,0 +1,15 @@
+HV_X64_MSR_SIEFP,VAR_0
+HV_X64_MSR_SIMP,VAR_1
+HV_X64_MSR_SINT0,VAR_2
+VMBUS_MESSAGE_SINT,VAR_3
+free_page,FUNC_0
+hv_context,VAR_4
+rdmsrl,FUNC_1
+smp_processor_id,FUNC_2
+wrmsrl,FUNC_3
+hv_synic_cleanup,FUNC_4
+arg,VAR_5
+shared_sint,VAR_6
+simp,VAR_7
+siefp,VAR_8
+cpu,VAR_9

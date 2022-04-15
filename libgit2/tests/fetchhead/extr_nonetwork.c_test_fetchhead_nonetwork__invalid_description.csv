@@ -1,0 +1,13 @@
+cl_assert,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_rewritefile,FUNC_3
+cl_set_cleanup,FUNC_4
+cleanup_repository,VAR_0
+g_repo,VAR_1
+git__prefixcmp,FUNC_5
+git_error_last,FUNC_6
+git_repository_fetchhead_foreach,FUNC_7
+git_repository_init,FUNC_8
+read_noop,VAR_2
+test_fetchhead_nonetwork__invalid_description,FUNC_9

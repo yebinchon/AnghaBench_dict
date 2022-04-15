@@ -1,0 +1,15 @@
+ETIMEDOUT,VAR_0
+EXYNOS5_I2C_TIMEOUT,VAR_1
+I2C_M_RD,VAR_2
+dev_warn,FUNC_0
+exynos5_i2c_message_start,FUNC_1
+exynos5_i2c_reset,FUNC_2
+exynos5_i2c_wait_bus_idle,FUNC_3
+reinit_completion,FUNC_4
+wait_for_completion_timeout,FUNC_5
+exynos5_i2c_xfer_msg,FUNC_6
+i2c,VAR_3
+msgs,VAR_4
+stop,VAR_5
+timeout,VAR_6
+ret,VAR_7

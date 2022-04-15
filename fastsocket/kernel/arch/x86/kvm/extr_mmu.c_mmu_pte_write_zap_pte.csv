@@ -1,0 +1,15 @@
+PT64_BASE_ADDR_MASK,VAR_0
+__set_spte,FUNC_0
+is_large_pte,FUNC_1
+is_last_spte,FUNC_2
+is_shadow_present_pte,FUNC_3
+mmu_page_remove_parent_pte,FUNC_4
+page_header,FUNC_5
+rmap_remove,FUNC_6
+shadow_trap_nonpresent_pte,VAR_1
+mmu_pte_write_zap_pte,FUNC_7
+vcpu,VAR_2
+sp,VAR_3
+spte,VAR_4
+pte,VAR_5
+child,VAR_6

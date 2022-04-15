@@ -1,0 +1,12 @@
+OTGSC_HA_DATA_PULSE,VAR_0
+OTGSC_INTSTS_MASK,VAR_1
+b_data_pulse_tmr,VAR_2
+fsl_otg_add_timer,FUNC_0
+fsl_otg_loc_conn,FUNC_1
+fsl_readl,FUNC_2
+fsl_writel,FUNC_3
+srp_wait_done,VAR_3
+usb_dr_regs,VAR_4
+fsl_otg_start_pulse,FUNC_4
+fsm,VAR_5
+tmp,VAR_6

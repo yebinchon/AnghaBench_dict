@@ -1,0 +1,13 @@
+PAC207_CTRL_TIMEOUT,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+pr_err,FUNC_0
+usb_control_msg,FUNC_1
+usb_sndctrlpipe,FUNC_2
+pac207_write_reg,FUNC_3
+gspca_dev,VAR_4
+index,VAR_5
+value,VAR_6
+udev,VAR_7
+err,VAR_8

@@ -1,0 +1,16 @@
+MAXITER,VAR_0
+SSCR_DMA_EN,VAR_1
+SSCR_DMA_PAUSE,VAR_2
+SSCR_PAUSE_STATE,VAR_3
+get_ioc3_port,FUNC_0
+readl,FUNC_1
+writeb,FUNC_2
+writel,FUNC_3
+set_mcr,FUNC_4
+the_port,VAR_4
+mask1,VAR_5
+mask2,VAR_6
+port,VAR_7
+shadow,VAR_8
+spiniter,VAR_9
+mcr,VAR_10

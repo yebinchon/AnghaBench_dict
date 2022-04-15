@@ -1,0 +1,13 @@
+EEXIST,VAR_0
+ENODEV,VAR_1
+LINKER_UNLOAD_FORCE,VAR_2
+kern_kldload,FUNC_0
+kern_kldunload,FUNC_1
+vfs_byname,FUNC_2
+vfs_byname_kld,FUNC_3
+fstype,VAR_3
+td,VAR_4
+error,VAR_5
+vfsp,VAR_6
+fileid,VAR_7
+loaded,VAR_8

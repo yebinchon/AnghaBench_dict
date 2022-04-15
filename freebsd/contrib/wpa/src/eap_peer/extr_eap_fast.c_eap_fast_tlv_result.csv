@@ -1,0 +1,13 @@
+EAP_TLV_INTERMEDIATE_RESULT_TLV,VAR_0
+EAP_TLV_RESULT_TLV,VAR_1
+EAP_TLV_TYPE_MANDATORY,VAR_2
+MSG_DEBUG,VAR_3
+host_to_be16,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_alloc,FUNC_2
+wpabuf_put,FUNC_3
+eap_fast_tlv_result,FUNC_4
+status,VAR_4
+intermediate,VAR_5
+buf,VAR_6
+result,VAR_7

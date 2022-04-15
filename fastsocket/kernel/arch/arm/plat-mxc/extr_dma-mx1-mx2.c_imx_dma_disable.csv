@@ -1,0 +1,17 @@
+CCR_CEN,VAR_0
+DMA_BASE,VAR_1
+DMA_CCR,FUNC_0
+DMA_DIMR,VAR_2
+DMA_DISR,VAR_3
+__raw_readl,FUNC_1
+__raw_writel,FUNC_2
+del_timer,FUNC_3
+imx_dma_channels,VAR_4
+imx_dma_hw_chain,FUNC_4
+local_irq_restore,FUNC_5
+local_irq_save,FUNC_6
+pr_debug,FUNC_7
+imx_dma_disable,FUNC_8
+channel,VAR_5
+imxdma,VAR_6
+flags,VAR_7

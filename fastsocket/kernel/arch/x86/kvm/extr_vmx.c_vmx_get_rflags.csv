@@ -1,0 +1,8 @@
+GUEST_RFLAGS,VAR_0
+RMODE_GUEST_OWNED_EFLAGS_BITS,VAR_1
+to_vmx,FUNC_0
+vmcs_readl,FUNC_1
+vmx_get_rflags,FUNC_2
+vcpu,VAR_2
+rflags,VAR_3
+save_rflags,VAR_4

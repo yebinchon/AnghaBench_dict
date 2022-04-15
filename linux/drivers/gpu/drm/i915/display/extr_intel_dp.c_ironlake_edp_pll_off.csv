@@ -1,0 +1,16 @@
+DP_A,VAR_0
+DP_PLL_ENABLE,VAR_1
+DRM_DEBUG_KMS,FUNC_0
+I915_WRITE,FUNC_1
+POSTING_READ,FUNC_2
+assert_dp_port_disabled,FUNC_3
+assert_edp_pll_enabled,FUNC_4
+assert_pipe_disabled,FUNC_5
+to_i915,FUNC_6
+to_intel_crtc,FUNC_7
+udelay,FUNC_8
+ironlake_edp_pll_off,FUNC_9
+intel_dp,VAR_2
+old_crtc_state,VAR_3
+crtc,VAR_4
+dev_priv,VAR_5

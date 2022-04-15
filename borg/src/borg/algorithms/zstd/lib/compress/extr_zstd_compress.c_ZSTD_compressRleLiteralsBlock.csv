@@ -1,0 +1,11 @@
+MEM_writeLE16,FUNC_0
+MEM_writeLE32,FUNC_1
+assert,FUNC_2
+set_rle,VAR_0
+ZSTD_compressRleLiteralsBlock,FUNC_3
+dst,VAR_1
+dstCapacity,VAR_2
+src,VAR_3
+srcSize,VAR_4
+ostart,VAR_5
+flSize,VAR_6

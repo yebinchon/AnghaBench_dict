@@ -1,0 +1,16 @@
+Assert,FUNC_0
+IS_OPEN_DIMENSION,FUNC_1
+hyperspace_get_closed_dimension,FUNC_2
+hyperspace_get_open_dimension,FUNC_3
+ts_dimension_get_slices,FUNC_4
+ts_dimension_vec_find_slice_index,FUNC_5
+ts_hypercube_get_slice_by_dimension_id,FUNC_6
+ts_tablespace_scan,FUNC_7
+ts_hypertable_select_tablespace,FUNC_8
+ht,VAR_0
+chunk,VAR_1
+dim,VAR_2
+vec,VAR_3
+slice,VAR_4
+tspcs,VAR_5
+i,VAR_6

@@ -1,0 +1,15 @@
+blk_mq_stop_hw_queues,FUNC_0
+cancel_delayed_work_sync,FUNC_1
+cleanup_queue,FUNC_2
+del_gendisk,FUNC_3
+del_timer_sync,FUNC_4
+dev_get_drvdata,FUNC_5
+dev_set_drvdata,FUNC_6
+flush_work,FUNC_7
+kfree,FUNC_8
+put_disk,FUNC_9
+vdc_free_tx_ring,FUNC_10
+vio_ldc_free,FUNC_11
+vdc_port_remove,FUNC_12
+vdev,VAR_0
+port,VAR_1

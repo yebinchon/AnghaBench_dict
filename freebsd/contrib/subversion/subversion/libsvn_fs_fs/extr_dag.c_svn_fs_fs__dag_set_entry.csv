@@ -1,0 +1,14 @@
+SVN_ERR_FS_NOT_DIRECTORY,VAR_0
+SVN_ERR_FS_NOT_MUTABLE,VAR_1
+_,FUNC_0
+set_entry,FUNC_1
+svn_error_create,FUNC_2
+svn_fs_fs__dag_check_mutable,FUNC_3
+svn_node_dir,VAR_2
+svn_fs_fs__dag_set_entry,FUNC_4
+node,VAR_3
+entry_name,VAR_4
+id,VAR_5
+kind,VAR_6
+txn_id,VAR_7
+pool,VAR_8

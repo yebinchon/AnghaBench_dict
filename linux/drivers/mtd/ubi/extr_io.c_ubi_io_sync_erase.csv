@@ -1,0 +1,13 @@
+EROFS,VAR_0
+do_sync_erase,FUNC_0
+nor_erase_prepare,FUNC_1
+self_check_not_bad,FUNC_2
+torture_peb,FUNC_3
+ubi_assert,FUNC_4
+ubi_err,FUNC_5
+ubi_io_sync_erase,FUNC_6
+ubi,VAR_1
+pnum,VAR_2
+torture,VAR_3
+err,VAR_4
+ret,VAR_5

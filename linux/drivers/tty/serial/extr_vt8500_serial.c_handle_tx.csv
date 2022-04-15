@@ -1,0 +1,14 @@
+UART_XMIT_SIZE,VAR_0
+VT8500_TXFIFO,VAR_1
+VT8500_URFIDX,VAR_2
+WAKEUP_CHARS,VAR_3
+uart_circ_chars_pending,FUNC_0
+uart_circ_empty,FUNC_1
+uart_tx_stopped,FUNC_2
+uart_write_wakeup,FUNC_3
+vt8500_read,FUNC_4
+vt8500_stop_tx,FUNC_5
+writeb,FUNC_6
+handle_tx,FUNC_7
+port,VAR_4
+xmit,VAR_5

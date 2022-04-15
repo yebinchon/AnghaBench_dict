@@ -1,0 +1,15 @@
+SNDRV_SEQ_ADDRESS_SUBSCRIBERS,VAR_0
+SNDRV_SEQ_EVENT_NONE,VAR_1
+memset,FUNC_0
+snd_midi_event_encode,FUNC_1
+snd_rawmidi_kernel_read,FUNC_2
+snd_seq_kernel_client_dispatch,FUNC_3
+snd_midi_input_event,FUNC_4
+substream,VAR_2
+runtime,VAR_3
+msynth,VAR_4
+ev,VAR_5
+buf,VAR_6
+pbuf,VAR_7
+res,VAR_8
+count,VAR_9

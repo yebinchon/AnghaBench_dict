@@ -1,0 +1,14 @@
+atomic_inc,FUNC_0
+enter_uniprocessor,FUNC_1
+is_enabled,FUNC_2
+kmmio_init,FUNC_3
+mmiotrace_enabled,VAR_0
+mmiotrace_mutex,VAR_1
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+nommiotrace,VAR_2
+pr_info,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+trace_lock,VAR_3
+enable_mmiotrace,FUNC_9

@@ -1,0 +1,14 @@
+APIC_ESR_SEND_ILLEGAL_VECTOR,VAR_0
+APIC_LVT_DM,VAR_1
+APIC_LVT_M,VAR_2
+APIC_LVT_VECTOR,VAR_3
+vcpu_notify_event,FUNC_0
+vlapic_set_error,FUNC_1
+vlapic_set_intr_ready,FUNC_2
+vm_inject_extint,FUNC_3
+vm_inject_nmi,FUNC_4
+vlapic_fire_lvt,FUNC_5
+vlapic,VAR_4
+lvt,VAR_5
+vec,VAR_6
+mode,VAR_7

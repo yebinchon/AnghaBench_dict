@@ -1,0 +1,14 @@
+AudioUnitGetProperty,FUNC_0
+CHECK_CA_ERROR,FUNC_1
+MP_VERBOSE,FUNC_2
+ca_get_device_latency_us,FUNC_3
+kAudioUnitProperty_Latency,VAR_0
+kAudioUnitScope_Global,VAR_1
+ca_get_hardware_latency,FUNC_4
+ao,VAR_2
+p,VAR_3
+audiounit_latency_sec,VAR_4
+size,VAR_5
+err,VAR_6
+audiounit_latency_us,VAR_7
+device_latency_us,VAR_8

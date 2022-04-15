@@ -1,0 +1,13 @@
+ASN1_OCTET_STRING_cmp,FUNC_0
+OSSL_CMP_CTX_set1_subjectName,FUNC_1
+TEST_int_eq,FUNC_2
+TEST_ptr,FUNC_3
+X509_NAME_ADD,FUNC_4
+X509_NAME_free,FUNC_5
+X509_NAME_new,FUNC_6
+ossl_cmp_hdr_get0_senderNonce,FUNC_7
+ossl_cmp_hdr_init,FUNC_8
+execute_HDR_get0_senderNonce_test,FUNC_9
+fixture,VAR_0
+sender,VAR_1
+sn,VAR_2

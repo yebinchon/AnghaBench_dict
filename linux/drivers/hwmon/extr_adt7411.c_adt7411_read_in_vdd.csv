@@ -1,0 +1,16 @@
+ADT7411_REG_INT_TEMP_VDD_LSB,VAR_0
+ADT7411_REG_VDD_HIGH,VAR_1
+ADT7411_REG_VDD_LOW,VAR_2
+ADT7411_REG_VDD_MSB,VAR_3
+EOPNOTSUPP,VAR_4
+adt7411_read_10_bit,FUNC_0
+adt7411_read_in_alarm,FUNC_1
+dev_get_drvdata,FUNC_2
+i2c_smbus_read_byte_data,FUNC_3
+adt7411_read_in_vdd,FUNC_4
+dev,VAR_5
+attr,VAR_6
+val,VAR_7
+data,VAR_8
+client,VAR_9
+ret,VAR_10

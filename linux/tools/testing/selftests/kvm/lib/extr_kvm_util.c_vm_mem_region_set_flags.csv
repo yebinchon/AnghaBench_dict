@@ -1,0 +1,11 @@
+KVM_SET_USER_MEMORY_REGION,VAR_0
+TEST_ASSERT,FUNC_0
+errno,VAR_1
+ioctl,FUNC_1
+memslot2region,FUNC_2
+vm_mem_region_set_flags,FUNC_3
+vm,VAR_2
+slot,VAR_3
+flags,VAR_4
+ret,VAR_5
+region,VAR_6

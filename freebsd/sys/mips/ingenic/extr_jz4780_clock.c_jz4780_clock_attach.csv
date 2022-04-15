@@ -1,0 +1,17 @@
+CGU_LOCK_DESTROY,FUNC_0
+CGU_LOCK_INIT,FUNC_1
+ENXIO,VAR_0
+bootverbose,VAR_1
+bus_alloc_resources,FUNC_2
+bus_release_resources,FUNC_3
+clkdom_create,FUNC_4
+clkdom_dump,FUNC_5
+clkdom_finit,FUNC_6
+device_get_softc,FUNC_7
+device_printf,FUNC_8
+jz4780_clock_fixup,FUNC_9
+jz4780_clock_register,FUNC_10
+jz4780_clock_spec,VAR_2
+jz4780_clock_attach,FUNC_11
+dev,VAR_3
+sc,VAR_4

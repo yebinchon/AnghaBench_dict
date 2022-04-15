@@ -1,0 +1,14 @@
+DSO_DATA_STATUS_ERROR,VAR_0
+DSO__DATA_CACHE_SIZE,VAR_1
+dso__data_open_lock,VAR_2
+errno,VAR_3
+pread,FUNC_0
+pthread_mutex_lock,FUNC_1
+pthread_mutex_unlock,FUNC_2
+try_to_open_dso,FUNC_3
+file_read,FUNC_4
+dso,VAR_4
+machine,VAR_5
+offset,VAR_6
+data,VAR_7
+ret,VAR_8

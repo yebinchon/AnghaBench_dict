@@ -1,0 +1,16 @@
+CMD_802_11_RF_TX_POWER,VAR_0
+CMD_ACT_GET,VAR_1
+LBS_DEB_CMD,VAR_2
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_deb_enter,FUNC_2
+lbs_deb_leave,FUNC_3
+le16_to_cpu,FUNC_4
+memset,FUNC_5
+lbs_get_tx_power,FUNC_6
+priv,VAR_3
+curlevel,VAR_4
+minlevel,VAR_5
+maxlevel,VAR_6
+cmd,VAR_7
+ret,VAR_8

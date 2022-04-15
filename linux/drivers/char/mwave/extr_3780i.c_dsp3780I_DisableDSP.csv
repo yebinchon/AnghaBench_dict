@@ -1,0 +1,14 @@
+DSP_IsaSlaveControl,VAR_0
+MKWORD,FUNC_0
+OutWordDsp,FUNC_1
+PRINTK_1,FUNC_2
+TRACE_3780I,VAR_1
+dsp_lock,VAR_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+udelay,FUNC_5
+dsp3780I_DisableDSP,FUNC_6
+pSettings,VAR_3
+flags,VAR_4
+usDspBaseIO,VAR_5
+rSlaveControl,VAR_6

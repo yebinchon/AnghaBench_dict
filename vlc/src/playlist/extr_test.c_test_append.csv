@@ -1,0 +1,16 @@
+CreateDummyMediaArray,FUNC_0
+DestroyMediaArray,FUNC_1
+EXPECT_AT,FUNC_2
+VLC_SUCCESS,VAR_0
+assert,FUNC_3
+vlc_playlist_Append,FUNC_4
+vlc_playlist_AppendOne,FUNC_5
+vlc_playlist_Count,FUNC_6
+vlc_playlist_Delete,FUNC_7
+vlc_playlist_New,FUNC_8
+test_append,FUNC_9
+playlist,VAR_1
+media,VAR_2
+i,VAR_3
+ret,VAR_4
+ret,VAR_5

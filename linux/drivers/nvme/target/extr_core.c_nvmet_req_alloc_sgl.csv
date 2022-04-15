@@ -1,0 +1,10 @@
+CONFIG_PCI_P2PDMA,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+IS_ENABLED,FUNC_0
+pci_p2pmem_alloc_sgl,FUNC_1
+radix_tree_lookup,FUNC_2
+sgl_alloc,FUNC_3
+nvmet_req_alloc_sgl,FUNC_4
+req,VAR_3
+p2p_dev,VAR_4

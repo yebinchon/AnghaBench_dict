@@ -1,0 +1,12 @@
+device_init_wakeup,FUNC_0
+platform_get_drvdata,FUNC_1
+pm_qos_remove_request,FUNC_2
+pm_runtime_disable,FUNC_3
+pm_runtime_dont_use_autosuspend,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_sync,FUNC_6
+serial_omap_reg,VAR_0
+uart_remove_one_port,FUNC_7
+serial_omap_remove,FUNC_8
+dev,VAR_1
+up,VAR_2

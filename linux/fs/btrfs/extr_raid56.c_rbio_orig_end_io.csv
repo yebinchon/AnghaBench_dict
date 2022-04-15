@@ -1,0 +1,10 @@
+__free_raid_bio,FUNC_0
+bio_list_get,FUNC_1
+btrfs_bio_counter_sub,FUNC_2
+rbio_endio_bio_list,FUNC_3
+unlock_stripe,FUNC_4
+rbio_orig_end_io,FUNC_5
+rbio,VAR_0
+err,VAR_1
+cur,VAR_2
+extra,VAR_3

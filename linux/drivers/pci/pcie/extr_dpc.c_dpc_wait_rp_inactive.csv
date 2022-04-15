@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+HZ,VAR_1
+PCI_EXP_DPC_RP_BUSY,VAR_2
+PCI_EXP_DPC_STATUS,VAR_3
+jiffies,VAR_4
+msleep,FUNC_0
+pci_read_config_word,FUNC_1
+pci_warn,FUNC_2
+time_after,FUNC_3
+dpc_wait_rp_inactive,FUNC_4
+dpc,VAR_5
+timeout,VAR_6
+pdev,VAR_7
+cap,VAR_8
+status,VAR_9

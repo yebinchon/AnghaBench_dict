@@ -1,0 +1,17 @@
+CONTINUE,VAR_0
+EAP_CODE_REQUEST,VAR_1
+EAP_TNC_FLAGS_START,VAR_2
+EAP_TNC_VERSION,VAR_3
+EAP_TYPE_TNC,VAR_4
+EAP_VENDOR_IETF,VAR_5
+FAIL,VAR_6
+MSG_ERROR,VAR_7
+eap_msg_alloc,FUNC_0
+eap_tnc_set_state,FUNC_1
+wpa_printf,FUNC_2
+wpabuf_put_u8,FUNC_3
+eap_tnc_build_start,FUNC_4
+sm,VAR_8
+data,VAR_9
+id,VAR_10
+req,VAR_11

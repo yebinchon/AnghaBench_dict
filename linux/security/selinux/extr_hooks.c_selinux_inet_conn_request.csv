@@ -1,0 +1,12 @@
+selinux_conn_sid,FUNC_0
+selinux_netlbl_inet_conn_request,FUNC_1
+selinux_skb_peerlbl_sid,FUNC_2
+selinux_inet_conn_request,FUNC_3
+sk,VAR_0
+skb,VAR_1
+req,VAR_2
+sksec,VAR_3
+err,VAR_4
+family,VAR_5
+connsid,VAR_6
+peersid,VAR_7

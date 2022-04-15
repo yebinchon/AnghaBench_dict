@@ -1,0 +1,17 @@
+F71805F_REG_TEMP_HYST,FUNC_0
+dev_get_drvdata,FUNC_1
+f71805f_write8,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtol,FUNC_5
+temp_to_reg,FUNC_6
+to_sensor_dev_attr,FUNC_7
+set_temp_hyst,FUNC_8
+dev,VAR_0
+devattr,VAR_1
+buf,VAR_2
+count,VAR_3
+data,VAR_4
+attr,VAR_5
+nr,VAR_6
+val,VAR_7

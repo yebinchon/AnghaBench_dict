@@ -1,0 +1,10 @@
+A_SG_CONTROL,VAR_0
+F_GLOBALENABLE,VAR_1
+TXQ_CTRL,VAR_2
+TXQ_OFLD,VAR_3
+t3_set_reg_field,FUNC_0
+taskqueue_drain,FUNC_1
+t3_sge_stop,FUNC_2
+sc,VAR_4
+i,VAR_5
+nqsets,VAR_6

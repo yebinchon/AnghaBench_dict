@@ -1,0 +1,15 @@
+SCSI_MLQUEUE_HOST_BUSY,VAR_0
+SYM_CONF_TIMER_INTERVAL,VAR_1
+SYM_SOFTC_PTR,FUNC_0
+SYM_UCMD_PTR,FUNC_1
+jiffies,VAR_2
+memset,FUNC_2
+sym_queue_command,FUNC_3
+time_after,FUNC_4
+sym53c8xx_queue_command_lck,FUNC_5
+cmd,VAR_3
+done,VAR_4
+np,VAR_5
+ucp,VAR_6
+sts,VAR_7
+tlimit,VAR_8

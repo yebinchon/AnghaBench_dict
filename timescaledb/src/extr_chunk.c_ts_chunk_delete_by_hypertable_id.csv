@@ -1,0 +1,16 @@
+Anum_chunk_hypertable_id_idx_hypertable_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+CHUNK_HYPERTABLE_ID_INDEX,VAR_2
+CurrentMemoryContext,VAR_3
+DROP_RESTRICT,VAR_4
+F_INT4EQ,VAR_5
+ForwardScanDirection,VAR_6
+Int32GetDatum,FUNC_0
+RowExclusiveLock,VAR_7
+ScanKeyInit,FUNC_1
+chunk_scan_internal,FUNC_2
+chunk_tuple_delete,VAR_8
+ts_chunk_delete_by_hypertable_id,FUNC_3
+hypertable_id,VAR_9
+scankey,VAR_10
+behavior,VAR_11

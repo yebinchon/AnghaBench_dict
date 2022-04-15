@@ -1,0 +1,11 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_indexer_append,FUNC_2
+git_indexer_commit,FUNC_3
+git_indexer_free,FUNC_4
+git_indexer_new,FUNC_5
+out_of_order_pack,VAR_0
+out_of_order_pack_len,VAR_1
+test_pack_indexer__out_of_order,FUNC_6
+idx,VAR_2
+stats,VAR_3

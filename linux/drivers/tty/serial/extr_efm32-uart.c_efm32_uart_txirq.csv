@@ -1,0 +1,14 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+UARTn_IF,VAR_2
+UARTn_IFC,VAR_3
+UARTn_IF_TXBL,VAR_4
+UARTn_IF_TXC,VAR_5
+efm32_uart_read32,FUNC_0
+efm32_uart_tx_chars,FUNC_1
+efm32_uart_write32,FUNC_2
+efm32_uart_txirq,FUNC_3
+irq,VAR_6
+data,VAR_7
+efm_port,VAR_8
+irqflag,VAR_9

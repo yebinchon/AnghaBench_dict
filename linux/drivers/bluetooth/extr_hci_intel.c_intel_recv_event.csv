@@ -1,0 +1,17 @@
+STATE_BOOTING,VAR_0
+STATE_BOOTLOADER,VAR_1
+STATE_DOWNLOADING,VAR_2
+STATE_FIRMWARE_FAILED,VAR_3
+STATE_FIRMWARE_LOADED,VAR_4
+hci_get_drvdata,FUNC_0
+hci_recv_frame,FUNC_1
+set_bit,FUNC_2
+test_and_clear_bit,FUNC_3
+test_bit,FUNC_4
+wake_up_bit,FUNC_5
+intel_recv_event,FUNC_6
+hdev,VAR_5
+skb,VAR_6
+hu,VAR_7
+intel,VAR_8
+hdr,VAR_9

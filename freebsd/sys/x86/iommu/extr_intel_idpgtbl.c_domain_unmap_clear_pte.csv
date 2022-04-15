@@ -1,0 +1,16 @@
+KASSERT,FUNC_0
+dmar_flush_pte_to_ram,FUNC_1
+dmar_pgfree,FUNC_2
+dmar_pte_clear,FUNC_3
+dmar_unmap_pgtbl,FUNC_4
+domain_free_pgtbl_pde,FUNC_5
+sf_buf_page,FUNC_6
+domain_unmap_clear_pte,FUNC_7
+domain,VAR_0
+base,VAR_1
+lvl,VAR_2
+flags,VAR_3
+pte,VAR_4
+sf,VAR_5
+free_sf,VAR_6
+m,VAR_7

@@ -1,0 +1,14 @@
+assert,FUNC_0
+destroy_connection,FUNC_1
+h2o_http3_send,FUNC_2
+h2o_http3_setup,FUNC_3
+h2o_timer_is_linked,FUNC_4
+on_connect_timeout,VAR_0
+ptls_iovec_init,FUNC_5
+quicly_connect,FUNC_6
+start_connect,FUNC_7
+conn,VAR_1
+sa,VAR_2
+salen,VAR_3
+qconn,VAR_4
+ret,VAR_5

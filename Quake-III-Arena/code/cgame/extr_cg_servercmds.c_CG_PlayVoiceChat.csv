@@ -1,0 +1,14 @@
+CG_AddToTeamChat,FUNC_0
+CG_Printf,FUNC_1
+CG_ShowResponseHead,FUNC_2
+CG_ValidOrder,FUNC_3
+CHAN_VOICE,VAR_0
+Q_strncpyz,FUNC_4
+cg,VAR_1
+cg_noVoiceChats,VAR_2
+cg_noVoiceText,VAR_3
+cgs,VAR_4
+trap_S_StartLocalSound,FUNC_5
+voiceChatBuffer,VAR_5
+CG_PlayVoiceChat,FUNC_6
+vchat,VAR_6

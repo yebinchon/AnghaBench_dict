@@ -1,0 +1,10 @@
+NI_M_CDIO_DMA_SEL_CDO_MASK,VAR_0
+NI_M_CDIO_DMA_SEL_REG,VAR_1
+mite_release_channel,FUNC_0
+ni_set_bitfield,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ni_release_cdo_mite_channel,FUNC_4
+dev,VAR_2
+devpriv,VAR_3
+flags,VAR_4

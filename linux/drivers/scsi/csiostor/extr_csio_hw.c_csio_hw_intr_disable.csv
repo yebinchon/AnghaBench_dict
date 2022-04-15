@@ -1,0 +1,17 @@
+CSIO_HWF_HW_INTR_ENABLED,VAR_0
+CSIO_HW_CHIP_MASK,VAR_1
+MYPF_REG,FUNC_0
+PL_INT_MAP0_A,VAR_2
+PL_PF_INT_ENABLE_A,VAR_3
+PL_WHOAMI_A,VAR_4
+SOURCEPF_G,FUNC_1
+T6_SOURCEPF_G,FUNC_2
+csio_is_hw_master,FUNC_3
+csio_is_t5,FUNC_4
+csio_mb_intr_disable,FUNC_5
+csio_rd_reg32,FUNC_6
+csio_set_reg_field,FUNC_7
+csio_wr_reg32,FUNC_8
+csio_hw_intr_disable,FUNC_9
+hw,VAR_5
+pf,VAR_6

@@ -1,0 +1,17 @@
+CMD_ALLOCATEAUX,VAR_0
+FID_RX,VAR_1
+FID_TX,VAR_2
+MPI_MAX_FIDS,VAR_3
+RID_RW,VAR_4
+SUCCESS,VAR_5
+airo_print_err,FUNC_0
+issuecommand,FUNC_1
+memcpy_toio,FUNC_2
+memset,FUNC_3
+netif_stop_queue,FUNC_4
+mpi_init_descriptors,FUNC_5
+ai,VAR_6
+cmd,VAR_7
+rsp,VAR_8
+i,VAR_9
+rc,VAR_10

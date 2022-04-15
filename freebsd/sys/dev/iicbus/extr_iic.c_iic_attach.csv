@@ -1,0 +1,11 @@
+ENXIO,VAR_0
+GID_WHEEL,VAR_1
+UID_ROOT,VAR_2
+device_get_softc,FUNC_0
+device_get_unit,FUNC_1
+device_printf,FUNC_2
+iic_cdevsw,VAR_3
+make_dev,FUNC_3
+iic_attach,FUNC_4
+dev,VAR_4
+sc,VAR_5

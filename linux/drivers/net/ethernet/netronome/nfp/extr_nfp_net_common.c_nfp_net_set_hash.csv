@@ -1,0 +1,9 @@
+NETIF_F_RXHASH,VAR_0
+PKT_HASH_TYPE_L3,VAR_1
+PKT_HASH_TYPE_L4,VAR_2
+get_unaligned_be32,FUNC_0
+nfp_net_set_hash,FUNC_1
+netdev,VAR_3
+meta,VAR_4
+type,VAR_5
+hash,VAR_6

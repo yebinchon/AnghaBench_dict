@@ -1,0 +1,16 @@
+DCB_GPIO_FAN,VAR_0
+nvkm_gpio_get,FUNC_0
+nvkm_gpio_set,FUNC_1
+nvkm_timer_alarm,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+nvkm_fantog_update,FUNC_5
+fan,VAR_1
+percent,VAR_2
+therm,VAR_3
+device,VAR_4
+tmr,VAR_5
+gpio,VAR_6
+flags,VAR_7
+duty,VAR_8
+next_change,VAR_9

@@ -1,0 +1,11 @@
+MAX31722_REG_TEMP_LSB,VAR_0
+dev_get_drvdata,FUNC_0
+le16_to_cpu,FUNC_1
+spi_w8r16,FUNC_2
+sprintf,FUNC_3
+max31722_temp_show,FUNC_4
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+ret,VAR_4
+data,VAR_5

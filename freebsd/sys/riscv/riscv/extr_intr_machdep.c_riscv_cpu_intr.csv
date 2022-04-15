@@ -1,0 +1,13 @@
+EXCP_INTR,VAR_0
+EXCP_MASK,VAR_1
+KASSERT,FUNC_0
+critical_enter,FUNC_1
+critical_exit,FUNC_2
+intr_irq_handler,FUNC_3
+intr_isrc_dispatch,FUNC_4
+isrcs,VAR_2
+printf,FUNC_5
+riscv_cpu_intr,FUNC_6
+frame,VAR_3
+isrc,VAR_4
+active_irq,VAR_5

@@ -1,0 +1,15 @@
+BTRFS_I,FUNC_0
+btrfs_lookup_first_ordered_extent,FUNC_1
+btrfs_put_ordered_extent,FUNC_2
+btrfs_wait_ordered_range,FUNC_3
+filemap_range_has_page,FUNC_4
+lock_extent_bits,FUNC_5
+truncate_pagecache_range,FUNC_6
+unlock_extent_cached,FUNC_7
+btrfs_punch_hole_lock_range,FUNC_8
+inode,VAR_0
+lockstart,VAR_1
+lockend,VAR_2
+cached_state,VAR_3
+ordered,VAR_4
+ret,VAR_5

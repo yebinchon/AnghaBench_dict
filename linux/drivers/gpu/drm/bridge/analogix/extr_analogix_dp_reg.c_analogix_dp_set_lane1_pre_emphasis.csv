@@ -1,0 +1,9 @@
+ANALOGIX_DP_LN1_LINK_TRAINING_CTL,VAR_0
+PRE_EMPHASIS_SET_MASK,VAR_1
+PRE_EMPHASIS_SET_SHIFT,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+analogix_dp_set_lane1_pre_emphasis,FUNC_2
+dp,VAR_3
+level,VAR_4
+reg,VAR_5

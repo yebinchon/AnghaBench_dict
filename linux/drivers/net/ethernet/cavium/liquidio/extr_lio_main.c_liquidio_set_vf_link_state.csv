@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+EIO,VAR_1
+GET_LIO,FUNC_0
+OCTNET_CMD_SET_VF_LINKSTATE,VAR_2
+memset,FUNC_1
+octnet_send_nic_ctrl_pkt,FUNC_2
+liquidio_set_vf_link_state,FUNC_3
+netdev,VAR_3
+vfidx,VAR_4
+linkstate,VAR_5
+lio,VAR_6
+oct,VAR_7
+nctrl,VAR_8
+ret,VAR_9

@@ -1,0 +1,17 @@
+micron_nand_on_die_ecc_setup,FUNC_0
+micron_nand_on_die_ecc_status_4,FUNC_1
+micron_nand_on_die_ecc_status_8,FUNC_2
+nand_exit_status_op,FUNC_3
+nand_read_data_op,FUNC_4
+nand_read_page_op,FUNC_5
+nand_status_op,FUNC_6
+nand_to_mtd,FUNC_7
+micron_nand_read_page_on_die_ecc,FUNC_8
+chip,VAR_0
+buf,VAR_1
+oob_required,VAR_2
+page,VAR_3
+mtd,VAR_4
+status,VAR_5
+ret,VAR_6
+max_bitflips,VAR_7

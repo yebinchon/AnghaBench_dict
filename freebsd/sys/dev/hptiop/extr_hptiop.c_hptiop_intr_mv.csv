@@ -1,0 +1,15 @@
+BUS_SPACE_RD4_MV0,FUNC_0
+BUS_SPACE_RD4_MV2,FUNC_1
+BUS_SPACE_WRT4_MV0,FUNC_2
+KdPrint,FUNC_3
+MVIOP_MU_OUTBOUND_INT_MSG,VAR_0
+MVIOP_MU_OUTBOUND_INT_POSTQUEUE,VAR_1
+hptiop_drain_outbound_queue_mv,FUNC_4
+hptiop_os_message_callback,FUNC_5
+outbound_doorbell,VAR_2
+outbound_msg,VAR_3
+hptiop_intr_mv,FUNC_6
+hba,VAR_4
+status,VAR_5
+ret,VAR_6
+msg,VAR_7

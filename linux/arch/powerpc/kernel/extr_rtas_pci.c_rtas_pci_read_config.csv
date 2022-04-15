@@ -1,0 +1,14 @@
+EEH_IO_ERROR_VALUE,FUNC_0
+PCIBIOS_DEVICE_NOT_FOUND,VAR_0
+eeh_dev_check_failure,FUNC_1
+pci_get_pdn_by_devfn,FUNC_2
+pdn_to_eeh_dev,FUNC_3
+rtas_read_config,FUNC_4
+rtas_pci_read_config,FUNC_5
+bus,VAR_1
+devfn,VAR_2
+where,VAR_3
+size,VAR_4
+val,VAR_5
+pdn,VAR_6
+ret,VAR_7

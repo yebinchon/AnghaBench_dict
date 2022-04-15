@@ -1,0 +1,16 @@
+CONF_CM_CMASK,VAR_0
+CONF_CM_UNCACHED,VAR_1
+PERF_SOFTRESET_REG,VAR_2
+SOFTRESET_6348_ALL,VAR_3
+ST0_BEV,VAR_4
+ST0_ERL,VAR_5
+__flush_cache_all,FUNC_0
+bcm_perf_readl,FUNC_1
+bcm_perf_writel,FUNC_2
+change_c0_config,FUNC_3
+mdelay,FUNC_4
+pr_info,FUNC_5
+set_c0_status,FUNC_6
+write_c0_wired,FUNC_7
+bcm6348_a1_reboot,FUNC_8
+reg,VAR_6

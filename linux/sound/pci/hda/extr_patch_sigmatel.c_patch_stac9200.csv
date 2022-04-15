@@ -1,0 +1,17 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+HDA_FIXUP_ACT_PROBE,VAR_1
+alloc_stac_spec,FUNC_0
+snd_hda_add_verbs,FUNC_1
+snd_hda_apply_fixup,FUNC_2
+snd_hda_codec_eapd_power_filter,VAR_2
+snd_hda_pick_fixup,FUNC_3
+stac9200_eapd_init,VAR_3
+stac9200_fixup_tbl,VAR_4
+stac9200_fixups,VAR_5
+stac9200_models,VAR_6
+stac_free,FUNC_4
+stac_parse_auto_config,FUNC_5
+patch_stac9200,FUNC_6
+codec,VAR_7
+spec,VAR_8
+err,VAR_9

@@ -1,0 +1,17 @@
+ENOENT,VAR_0
+FIRMWARE_UNLOAD,VAR_1
+FW_FNAME,VAR_2
+G_FW_VERSION_MAJOR,FUNC_0
+G_FW_VERSION_MICRO,FUNC_1
+G_FW_VERSION_MINOR,FUNC_2
+device_printf,FUNC_3
+firmware_get,FUNC_4
+firmware_put,FUNC_5
+snprintf,FUNC_6
+t3_get_fw_version,FUNC_7
+t3_load_fw,FUNC_8
+upgrade_fw,FUNC_9
+sc,VAR_3
+fw,VAR_4
+status,VAR_5
+vers,VAR_6

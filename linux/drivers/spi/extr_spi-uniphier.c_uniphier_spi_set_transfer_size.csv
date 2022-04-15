@@ -1,0 +1,14 @@
+FIELD_PREP,FUNC_0
+SSI_RXWDS,VAR_0
+SSI_RXWDS_DTLEN_MASK,VAR_1
+SSI_TXWDS,VAR_2
+SSI_TXWDS_DTLEN_MASK,VAR_3
+SSI_TXWDS_WDLEN_MASK,VAR_4
+readl,FUNC_1
+spi_master_get_devdata,FUNC_2
+writel,FUNC_3
+uniphier_spi_set_transfer_size,FUNC_4
+spi,VAR_5
+size,VAR_6
+priv,VAR_7
+val,VAR_8

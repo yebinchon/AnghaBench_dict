@@ -1,0 +1,12 @@
+EINVAL,VAR_0
+FAN_CONTROL_FUZZY,VAR_1
+FAN_CONTROL_TABLE,VAR_2
+PPSMC_MSG_SetFanPwmMax,VAR_3
+PPSMC_Result_OK,VAR_4
+PPSMC_StartFanControl,VAR_5
+ci_get_pi,FUNC_0
+ci_send_msg_to_smc_with_parameter,FUNC_1
+ci_fan_ctrl_start_smc_fan_control,FUNC_2
+rdev,VAR_6
+pi,VAR_7
+ret,VAR_8

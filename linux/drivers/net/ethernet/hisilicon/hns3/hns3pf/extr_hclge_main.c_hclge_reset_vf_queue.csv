@@ -1,0 +1,14 @@
+HCLGE_TQP_RESET_TRY_TIMES,VAR_0
+dev_warn,FUNC_0
+hclge_covert_handle_qid_global,FUNC_1
+hclge_get_reset_status,FUNC_2
+hclge_send_reset_tqp_cmd,FUNC_3
+usleep_range,FUNC_4
+hclge_reset_vf_queue,FUNC_5
+vport,VAR_1
+queue_id,VAR_2
+hdev,VAR_3
+reset_try_times,VAR_4
+reset_status,VAR_5
+queue_gid,VAR_6
+ret,VAR_7

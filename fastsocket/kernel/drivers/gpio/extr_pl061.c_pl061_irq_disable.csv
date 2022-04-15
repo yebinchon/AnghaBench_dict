@@ -1,0 +1,12 @@
+GPIOIE,VAR_0
+get_irq_chip_data,FUNC_0
+readb,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writeb,FUNC_4
+pl061_irq_disable,FUNC_5
+irq,VAR_1
+chip,VAR_2
+offset,VAR_3
+flags,VAR_4
+gpioie,VAR_5

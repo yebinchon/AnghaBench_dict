@@ -1,0 +1,12 @@
+HWP_GUARANTEED_PERF,FUNC_0
+HWP_HIGHEST_PERF,FUNC_1
+MSR_HWP_CAPABILITIES,VAR_0
+WRITE_ONCE,FUNC_2
+all_cpu_data,VAR_1
+global,VAR_2
+rdmsrl_on_cpu,FUNC_3
+intel_pstate_get_hwp_max,FUNC_4
+cpu,VAR_3
+phy_max,VAR_4
+current_max,VAR_5
+cap,VAR_6

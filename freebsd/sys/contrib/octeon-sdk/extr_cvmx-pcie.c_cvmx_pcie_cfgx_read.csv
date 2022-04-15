@@ -1,0 +1,11 @@
+CVMX_PEMX_CFG_RD,FUNC_0
+CVMX_PESCX_CFG_RD,FUNC_1
+OCTEON_FEATURE_NPEI,VAR_0
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+octeon_has_feature,FUNC_4
+cvmx_pcie_cfgx_read,FUNC_5
+pcie_port,VAR_1
+cfg_offset,VAR_2
+pescx_cfg_rd,VAR_3
+pemx_cfg_rd,VAR_4

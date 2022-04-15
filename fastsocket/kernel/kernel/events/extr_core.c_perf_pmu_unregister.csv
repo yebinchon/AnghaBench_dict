@@ -1,0 +1,16 @@
+PERF_TYPE_MAX,VAR_0
+device_del,FUNC_0
+free_percpu,FUNC_1
+free_pmu_context,FUNC_2
+idr_remove,FUNC_3
+list_del_rcu,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+pmu_idr,VAR_1
+pmus_lock,VAR_2
+pmus_srcu,VAR_3
+put_device,FUNC_7
+synchronize_rcu,FUNC_8
+synchronize_srcu,FUNC_9
+perf_pmu_unregister,FUNC_10
+pmu,VAR_4

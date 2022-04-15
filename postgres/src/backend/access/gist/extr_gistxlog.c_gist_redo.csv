@@ -1,0 +1,16 @@
+MemoryContextReset,FUNC_0
+MemoryContextSwitchTo,FUNC_1
+PANIC,VAR_0
+XLR_INFO_MASK,VAR_1
+XLogRecGetInfo,FUNC_2
+elog,FUNC_3
+gistRedoDeleteRecord,FUNC_4
+gistRedoPageDelete,FUNC_5
+gistRedoPageReuse,FUNC_6
+gistRedoPageSplitRecord,FUNC_7
+gistRedoPageUpdateRecord,FUNC_8
+opCtx,VAR_2
+gist_redo,FUNC_9
+record,VAR_3
+info,VAR_4
+oldCxt,VAR_5

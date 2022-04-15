@@ -1,0 +1,16 @@
+TIF_NOTIFY_RESUME,VAR_0
+TIF_SIGPENDING,VAR_1
+UTRACE_INTERRUPT,VAR_2
+UTRACE_REPORT,VAR_3
+UTRACE_RESUME,VAR_4
+UTRACE_STOP,VAR_5
+finish_report_reset,FUNC_0
+set_tsk_thread_flag,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+finish_report,FUNC_4
+task,VAR_6
+utrace,VAR_7
+report,VAR_8
+will_not_stop,VAR_9
+resume,VAR_10

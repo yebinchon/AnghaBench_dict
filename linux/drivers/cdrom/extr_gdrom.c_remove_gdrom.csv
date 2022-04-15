@@ -1,0 +1,13 @@
+GDROM_DEV_NAME,VAR_0
+HW_EVENT_GDROM_CMD,VAR_1
+HW_EVENT_GDROM_DMA,VAR_2
+blk_cleanup_queue,FUNC_0
+blk_mq_free_tag_set,FUNC_1
+del_gendisk,FUNC_2
+free_irq,FUNC_3
+gd,VAR_3
+gdrom_major,VAR_4
+unregister_blkdev,FUNC_4
+unregister_cdrom,FUNC_5
+remove_gdrom,FUNC_6
+devptr,VAR_5

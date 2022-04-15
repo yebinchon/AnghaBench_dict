@@ -1,0 +1,11 @@
+IRQ_TYPE_NONE,VAR_0
+omap_irq_data_get_bank,FUNC_0
+omap_set_gpio_irqenable,FUNC_1
+omap_set_gpio_triggering,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+omap_gpio_mask_irq,FUNC_5
+d,VAR_1
+bank,VAR_2
+offset,VAR_3
+flags,VAR_4

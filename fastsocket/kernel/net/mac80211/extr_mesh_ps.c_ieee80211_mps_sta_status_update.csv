@@ -1,0 +1,16 @@
+NL80211_MESH_POWER_ACTIVE,VAR_0
+NL80211_MESH_POWER_UNKNOWN,VAR_1
+NL80211_PLINK_ESTAB,VAR_2
+WLAN_STA_MPSP_OWNER,VAR_3
+WLAN_STA_MPSP_RECIPIENT,VAR_4
+WLAN_STA_PS_STA,VAR_5
+atomic_inc,FUNC_0
+clear_sta_flag,FUNC_1
+ieee80211_sta_ps_deliver_wakeup,FUNC_2
+mps_dbg,FUNC_3
+set_sta_flag,FUNC_4
+test_sta_flag,FUNC_5
+ieee80211_mps_sta_status_update,FUNC_6
+sta,VAR_6
+pm,VAR_7
+do_buffer,VAR_8

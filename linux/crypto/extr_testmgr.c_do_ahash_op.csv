@@ -1,0 +1,10 @@
+crypto_disable_simd_for_test,FUNC_0
+crypto_reenable_simd_for_test,FUNC_1
+crypto_wait_req,FUNC_2
+do_ahash_op,FUNC_3
+op,VAR_0
+req,VAR_1
+req,VAR_2
+wait,VAR_3
+nosimd,VAR_4
+err,VAR_5

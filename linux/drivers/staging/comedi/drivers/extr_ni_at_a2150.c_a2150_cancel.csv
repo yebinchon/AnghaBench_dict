@@ -1,0 +1,12 @@
+DMA_EN_BIT,VAR_0
+DMA_INTR_EN_BIT,VAR_1
+FIFO_RESET_REG,VAR_2
+IRQ_DMA_CNTRL_REG,VAR_3
+comedi_isadma_disable,FUNC_0
+outw,FUNC_1
+a2150_cancel,FUNC_2
+dev,VAR_4
+s,VAR_5
+devpriv,VAR_6
+dma,VAR_7
+desc,VAR_8

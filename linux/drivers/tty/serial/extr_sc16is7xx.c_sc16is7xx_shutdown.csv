@@ -1,0 +1,12 @@
+SC16IS7XX_EFCR_REG,VAR_0
+SC16IS7XX_EFCR_RXDISABLE_BIT,VAR_1
+SC16IS7XX_EFCR_TXDISABLE_BIT,VAR_2
+SC16IS7XX_IER_REG,VAR_3
+dev_get_drvdata,FUNC_0
+kthread_flush_worker,FUNC_1
+sc16is7xx_port_update,FUNC_2
+sc16is7xx_port_write,FUNC_3
+sc16is7xx_power,FUNC_4
+sc16is7xx_shutdown,FUNC_5
+port,VAR_4
+s,VAR_5

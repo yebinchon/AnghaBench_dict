@@ -1,0 +1,13 @@
+EFSCORRUPTED,VAR_0
+XFS_AGF_CRC_OFF,VAR_1
+XFS_BUF_TO_AGF,FUNC_0
+cpu_to_be64,FUNC_1
+xfs_agf_verify,FUNC_2
+xfs_buf_update_cksum,FUNC_3
+xfs_sb_version_hascrc,FUNC_4
+xfs_verifier_error,FUNC_5
+xfs_agf_write_verify,FUNC_6
+bp,VAR_2
+mp,VAR_3
+bip,VAR_4
+fa,VAR_5

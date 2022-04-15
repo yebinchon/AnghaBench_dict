@@ -1,0 +1,16 @@
+BLK_STS_IOERR,VAR_0
+BLK_STS_OK,VAR_1
+SKD_DRVR_STATE_BUSY_IMMINENT,VAR_2
+SKD_MAX_RETRIES,VAR_3
+SKD_TIMER_MINUTES,FUNC_0
+blk_mq_complete_request,FUNC_1
+blk_mq_requeue_request,FUNC_2
+dev_info,FUNC_3
+skd_check_status,FUNC_4
+skd_log_skreq,FUNC_5
+skd_quiesce_dev,FUNC_6
+skd_resolve_req_exception,FUNC_7
+skdev,VAR_4
+skreq,VAR_5
+req,VAR_6
+cmp_status,VAR_7

@@ -1,0 +1,14 @@
+SD_LLDP_EVENT_ADDED,VAR_0
+assert,FUNC_0
+link_lldp_emit_enabled,FUNC_1
+link_lldp_emit_start,FUNC_2
+link_lldp_save,FUNC_3
+log_link_debug,FUNC_4
+log_link_warning_errno,FUNC_5
+lldp_handler,FUNC_6
+lldp,VAR_1
+event,VAR_2
+n,VAR_3
+userdata,VAR_4
+link,VAR_5
+r,VAR_6

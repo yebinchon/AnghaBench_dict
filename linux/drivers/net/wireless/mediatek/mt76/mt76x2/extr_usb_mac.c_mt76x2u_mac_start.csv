@@ -1,0 +1,10 @@
+MT_MAC_SYS_CTRL,VAR_0
+MT_MAC_SYS_CTRL_ENABLE_RX,VAR_1
+MT_MAC_SYS_CTRL_ENABLE_TX,VAR_2
+MT_RX_FILTR_CFG,VAR_3
+mt76_wr,FUNC_0
+mt76x02_wait_for_wpdma,FUNC_1
+mt76x2u_mac_reset_counters,FUNC_2
+usleep_range,FUNC_3
+mt76x2u_mac_start,FUNC_4
+dev,VAR_4

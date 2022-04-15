@@ -1,0 +1,16 @@
+BNXT_PF,FUNC_0
+FUNC_CFG_REQ_ENABLES_ASYNC_EVENT_CR,VAR_0
+FUNC_VF_CFG_REQ_ENABLES_ASYNC_EVENT_CR,VAR_1
+HWRM_CMD_TIMEOUT,VAR_2
+HWRM_FUNC_CFG,VAR_3
+HWRM_FUNC_VF_CFG,VAR_4
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+cpu_to_le16,FUNC_2
+cpu_to_le32,FUNC_3
+hwrm_send_message,FUNC_4
+bnxt_hwrm_set_async_event_cr,FUNC_5
+bp,VAR_5
+idx,VAR_6
+rc,VAR_7
+req,VAR_8
+req,VAR_9

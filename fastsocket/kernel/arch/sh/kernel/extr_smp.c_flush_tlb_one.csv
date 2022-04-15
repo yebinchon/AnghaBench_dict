@@ -1,0 +1,7 @@
+flush_tlb_one_ipi,VAR_0
+local_flush_tlb_one,FUNC_0
+smp_call_function,FUNC_1
+flush_tlb_one,FUNC_2
+asid,VAR_1
+vaddr,VAR_2
+fd,VAR_3

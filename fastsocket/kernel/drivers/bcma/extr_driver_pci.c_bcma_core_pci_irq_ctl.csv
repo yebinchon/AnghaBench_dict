@@ -1,0 +1,13 @@
+BCMA_HOSTTYPE_PCI,VAR_0
+BCMA_PCI_IRQMASK,VAR_1
+BIT,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+bcma_core_pci_irq_ctl,FUNC_3
+pc,VAR_2
+core,VAR_3
+enable,VAR_4
+pdev,VAR_5
+coremask,VAR_6
+tmp,VAR_7
+err,VAR_8

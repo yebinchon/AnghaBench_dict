@@ -1,0 +1,17 @@
+INQUIRY_MODEL_LEN,VAR_0
+INQUIRY_REVISION_LEN,VAR_1
+INQUIRY_VENDOR_LEN,VAR_2
+TARGET_PROT_DIN_PASS,VAR_3
+TARGET_PROT_DOUT_PASS,VAR_4
+TYPE_TAPE,VAR_5
+memcpy,FUNC_0
+memset,FUNC_1
+spc_fill_alua_data,FUNC_2
+strnlen,FUNC_3
+stub1,FUNC_4
+spc_emulate_inquiry_std,FUNC_5
+cmd,VAR_6
+buf,VAR_7
+lun,VAR_8
+dev,VAR_9
+sess,VAR_10

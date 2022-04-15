@@ -1,0 +1,11 @@
+M_WAITOK,VAR_0
+PI_DISK,VAR_1
+TAILQ_INIT,FUNC_0
+TASK_INIT,FUNC_1
+TUNABLE_INT_FETCH,FUNC_2
+dmar_bus_task_dmamap,VAR_2
+taskqueue_create,FUNC_3
+taskqueue_start_threads,FUNC_4
+taskqueue_thread_enqueue,VAR_3
+dmar_init_busdma,FUNC_5
+unit,VAR_4

@@ -1,0 +1,17 @@
+MAX_TOUCH,VAR_0
+RARCH_LOG,FUNC_0
+SCREEN_PROPERTY_SOURCE_POSITION,VAR_1
+SCREEN_PROPERTY_TOUCH_ID,VAR_2
+screen_get_event_property_iv,FUNC_1
+video_driver_get_ptr,FUNC_2
+video_driver_translate_coord_viewport_wrap,FUNC_3
+qnx_process_touch_event,FUNC_4
+qnx,VAR_3
+event,VAR_4
+type,VAR_5
+contact_id,VAR_6
+pos,VAR_7
+i,VAR_8
+j,VAR_9
+vp,VAR_10
+vp,VAR_11

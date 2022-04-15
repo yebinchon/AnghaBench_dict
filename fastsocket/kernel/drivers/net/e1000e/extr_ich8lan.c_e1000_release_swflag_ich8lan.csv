@@ -1,0 +1,10 @@
+E1000_EXTCNF_CTRL_SWFLAG,VAR_0
+EXTCNF_CTRL,VAR_1
+__E1000_ACCESS_SHARED_RESOURCE,VAR_2
+clear_bit,FUNC_0
+e_dbg,FUNC_1
+er32,FUNC_2
+ew32,FUNC_3
+e1000_release_swflag_ich8lan,FUNC_4
+hw,VAR_3
+extcnf_ctrl,VAR_4

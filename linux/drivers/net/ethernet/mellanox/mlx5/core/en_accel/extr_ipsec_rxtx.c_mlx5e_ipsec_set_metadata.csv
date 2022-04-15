@@ -1,0 +1,17 @@
+MLX5E_IPSEC_TX_SYNDROME_OFFLOAD,VAR_0
+MLX5E_IPSEC_TX_SYNDROME_OFFLOAD_WITH_LSO_TCP,VAR_1
+htons,FUNC_0
+inner_tcp_hdr,FUNC_1
+ip_esp_hdr,FUNC_2
+mlx5e_ipsec_mss_inv,FUNC_3
+netdev_dbg,FUNC_4
+ntohl,FUNC_5
+ntohs,FUNC_6
+skb_is_gso,FUNC_7
+skb_shinfo,FUNC_8
+mlx5e_ipsec_set_metadata,FUNC_9
+skb,VAR_2
+mdata,VAR_3
+xo,VAR_4
+esph,VAR_5
+tcph,VAR_6

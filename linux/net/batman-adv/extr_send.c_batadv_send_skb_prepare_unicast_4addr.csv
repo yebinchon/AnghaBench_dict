@@ -1,0 +1,13 @@
+BATADV_UNICAST_4ADDR,VAR_0
+batadv_hardif_put,FUNC_0
+batadv_primary_if_get_selected,FUNC_1
+batadv_send_skb_push_fill_unicast,FUNC_2
+ether_addr_copy,FUNC_3
+batadv_send_skb_prepare_unicast_4addr,FUNC_4
+bat_priv,VAR_1
+skb,VAR_2
+orig,VAR_3
+packet_subtype,VAR_4
+primary_if,VAR_5
+uc_4addr_packet,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+BXT_CDCLK_CD2X_DIV_SEL_MASK,VAR_0
+CDCLK_CTL,VAR_1
+CDCLK_FREQ_DECIMAL_MASK,VAR_2
+DRM_DEBUG_KMS,FUNC_0
+I915_READ,FUNC_1
+INVALID_PIPE,VAR_3
+icl_calc_cdclk,FUNC_2
+icl_calc_cdclk_pll_vco,FUNC_3
+icl_calc_voltage_level,FUNC_4
+icl_set_cdclk,FUNC_5
+intel_dump_cdclk_state,FUNC_6
+intel_update_cdclk,FUNC_7
+skl_cdclk_decimal,FUNC_8
+icl_init_cdclk,FUNC_9
+dev_priv,VAR_4
+sanitized_state,VAR_5
+val,VAR_6

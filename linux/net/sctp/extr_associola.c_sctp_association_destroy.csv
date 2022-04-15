@@ -1,0 +1,17 @@
+SCTP_DBG_OBJCNT_DEC,FUNC_0
+WARN,FUNC_1
+WARN_ON,FUNC_2
+assoc,VAR_0
+atomic_read,FUNC_3
+idr_remove,FUNC_4
+kfree_rcu,FUNC_5
+rcu,VAR_1
+sctp_assocs_id,VAR_2
+sctp_assocs_id_lock,VAR_3
+sctp_endpoint_put,FUNC_6
+sock_put,FUNC_7
+spin_lock_bh,FUNC_8
+spin_unlock_bh,FUNC_9
+unlikely,FUNC_10
+sctp_association_destroy,FUNC_11
+asoc,VAR_4

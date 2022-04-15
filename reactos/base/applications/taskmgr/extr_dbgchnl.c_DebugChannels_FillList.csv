@@ -1,0 +1,15 @@
+CloseHandle,FUNC_0
+FALSE,VAR_0
+GetSelectedProcessId,FUNC_1
+ListView_DeleteAllItems,FUNC_2
+OpenProcess,FUNC_3
+PROCESS_VM_OPERATION,VAR_1
+PROCESS_VM_READ,VAR_2
+SendMessageW,FUNC_4
+TRUE,VAR_3
+WM_SETREDRAW,VAR_4
+enum_channel,FUNC_5
+list_channel_CB,VAR_5
+DebugChannels_FillList,FUNC_6
+hChannelLV,VAR_6
+hProcess,VAR_7

@@ -1,0 +1,15 @@
+DBG_REG_BASE_WCR,VAR_0
+DBG_REG_BASE_WVR,VAR_1
+PCPU_GET,FUNC_0
+PCPU_PTR,FUNC_1
+PCPU_SET,FUNC_2
+PC_DBREG_CMD_NONE,VAR_2
+atomic_thread_fence_acq,FUNC_3
+dbg_capable,FUNC_4
+dbg_watchpoint_num,VAR_3
+dbg_wb_write_reg,FUNC_5
+dbreg,VAR_4
+dbreg_cmd,VAR_5
+dbg_resume_dbreg,FUNC_6
+d,VAR_6
+i,VAR_7

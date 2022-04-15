@@ -1,0 +1,12 @@
+_walk,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_oid_fromstr,FUNC_2
+git_revwalk_hide_ref,FUNC_3
+git_revwalk_next,FUNC_4
+git_revwalk_push,FUNC_5
+git_revwalk_push_head,FUNC_6
+revwalk_basic_setup_walk,FUNC_7
+test_revwalk_basic__multiple_push_1,FUNC_8
+i,VAR_1
+oid,VAR_2

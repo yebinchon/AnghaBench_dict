@@ -1,0 +1,17 @@
+aw_rtc_iosc,VAR_0
+aw_rtc_osc32k,VAR_1
+bootverbose,VAR_2
+clkdom_create,FUNC_0
+clkdom_dump,FUNC_1
+clkdom_finit,FUNC_2
+clknode_fixed_register,FUNC_3
+device_printf,FUNC_4
+ofw_bus_get_node,FUNC_5
+ofw_bus_string_list_to_array,FUNC_6
+aw_rtc_install_clocks,FUNC_7
+sc,VAR_3
+dev,VAR_4
+clkdom,VAR_5
+clknames,VAR_6
+node,VAR_7
+nclocks,VAR_8

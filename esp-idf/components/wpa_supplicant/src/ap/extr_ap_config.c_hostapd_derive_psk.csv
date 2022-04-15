@@ -1,0 +1,14 @@
+MSG_DEBUG,VAR_0
+MSG_ERROR,VAR_1
+PMK_LEN,VAR_2
+esp_wifi_ap_get_prof_pmk_internal,FUNC_0
+memcpy,FUNC_1
+os_zalloc,FUNC_2
+pbkdf2_sha1,FUNC_3
+strlen,FUNC_4
+wpa_hexdump_ascii,FUNC_5
+wpa_hexdump_ascii_key,FUNC_6
+wpa_hexdump_key,FUNC_7
+wpa_printf,FUNC_8
+hostapd_derive_psk,FUNC_9
+ssid,VAR_3

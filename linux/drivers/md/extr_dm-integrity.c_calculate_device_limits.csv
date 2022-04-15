@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+METADATA_PADDING_SECTORS,VAR_1
+SB_SECTORS,VAR_2
+SECTOR_SHIFT,VAR_3
+UINT_MAX,VAR_4
+__ffs,FUNC_0
+calculate_journal_section_size,FUNC_1
+get_area_and_offset,FUNC_2
+get_data_sector,FUNC_3
+roundup,FUNC_4
+calculate_device_limits,FUNC_5
+ic,VAR_5
+initial_sectors,VAR_6
+last_sector,VAR_7
+last_area,VAR_8
+last_offset,VAR_9
+meta_size,VAR_10

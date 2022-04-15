@@ -1,0 +1,12 @@
+BCM63XX_RESET_SAR,VAR_0
+BCMCPU_IS_6368,FUNC_0
+CKCTL_6368_SAR_EN,VAR_1
+bcm63xx_core_set_reset,FUNC_1
+bcm_hwclock_set,FUNC_2
+clk_disable_unlocked,FUNC_3
+clk_enable_unlocked,FUNC_4
+clk_swpkt_sar,VAR_2
+mdelay,FUNC_5
+xtm_set,FUNC_6
+clk,VAR_3
+enable,VAR_4

@@ -1,0 +1,10 @@
+ASN1_INTEGER_free,FUNC_0
+ASN1_OBJECT_free,FUNC_1
+EVP_PKEY_free,FUNC_2
+OPENSSL_free,FUNC_3
+X509_free,FUNC_4
+sk_ASN1_OBJECT_pop_free,FUNC_5
+sk_EVP_MD_free,FUNC_6
+sk_X509_pop_free,FUNC_7
+TS_RESP_CTX_free,FUNC_8
+ctx,VAR_0

@@ -1,0 +1,10 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+BUS_DMASYNC_POSTWRITE,VAR_1
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+bus_dmamem_free,FUNC_3
+tsec_free_dma_desc,FUNC_4
+dtag,VAR_2
+dmap,VAR_3
+vaddr,VAR_4

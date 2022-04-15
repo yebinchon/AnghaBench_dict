@@ -1,0 +1,16 @@
+MPI_FUNCTION_IOC_INIT,VAR_0
+MPI_HEADER_VERSION,VAR_1
+MPI_VERSION,VAR_2
+MPT_REPLY_HANDLER_HANDSHAKE,VAR_3
+MPT_REPLY_SIZE,VAR_4
+htole16,FUNC_0
+htole32,FUNC_1
+memset,FUNC_2
+mpt_recv_handshake_reply,FUNC_3
+mpt_send_handshake_cmd,FUNC_4
+mpt_send_ioc_init,FUNC_5
+mpt,VAR_5
+who,VAR_6
+error,VAR_7
+init,VAR_8
+reply,VAR_9

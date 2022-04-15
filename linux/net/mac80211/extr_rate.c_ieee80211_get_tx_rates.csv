@@ -1,0 +1,17 @@
+IEEE80211_SKB_CB,FUNC_0
+__rate_control_send_low,FUNC_1
+ieee80211_is_data,FUNC_2
+rate_control_apply_mask,FUNC_3
+rate_control_fill_sta_table,FUNC_4
+rate_fixup_ratelist,FUNC_5
+vif_to_sdata,FUNC_6
+ieee80211_get_tx_rates,FUNC_7
+vif,VAR_0
+sta,VAR_1
+skb,VAR_2
+dest,VAR_3
+max_rates,VAR_4
+sdata,VAR_5
+hdr,VAR_6
+info,VAR_7
+sband,VAR_8

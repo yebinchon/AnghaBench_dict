@@ -1,0 +1,16 @@
+FREAD,VAR_0
+FWRITE,VAR_1
+TF_HIWAT_OUT,VAR_2
+TIOCPKT_FLUSHREAD,VAR_3
+TIOCPKT_FLUSHWRITE,VAR_4
+tty_gone,FUNC_0
+tty_hiwat_in_unblock,FUNC_1
+tty_wakeup,FUNC_2
+ttydevsw_inwakeup,FUNC_3
+ttydevsw_outwakeup,FUNC_4
+ttydevsw_pktnotify,FUNC_5
+ttyinq_flush,FUNC_6
+ttyoutq_flush,FUNC_7
+tty_flush,FUNC_8
+tp,VAR_5
+flags,VAR_6

@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+RFKILL_TYPE_BLUETOOTH,VAR_1
+ideapad_rfk_data,VAR_2
+ideapad_rfk_ops,VAR_3
+no_bt_rfkill,VAR_4
+read_ec_data,FUNC_0
+rfkill_alloc,FUNC_1
+rfkill_destroy,FUNC_2
+rfkill_init_sw_state,FUNC_3
+rfkill_register,FUNC_4
+write_ec_cmd,FUNC_5
+ideapad_register_rfkill,FUNC_6
+priv,VAR_5
+dev,VAR_6
+ret,VAR_7
+sw_blocked,VAR_8

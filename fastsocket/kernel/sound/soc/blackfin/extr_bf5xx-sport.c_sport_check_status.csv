@@ -1,0 +1,15 @@
+DMA_DONE,VAR_0
+DMA_ERR,VAR_1
+ROVF,VAR_2
+RUVF,VAR_3
+SSYNC,FUNC_0
+TOVF,VAR_4
+TUVF,VAR_5
+clear_dma_irqstat,FUNC_1
+get_dma_curr_irqstat,FUNC_2
+sport_check_status,FUNC_3
+sport,VAR_6
+sport_stat,VAR_7
+rx_stat,VAR_8
+tx_stat,VAR_9
+status,VAR_10

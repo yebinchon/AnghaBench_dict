@@ -1,0 +1,15 @@
+CURSOR_VALID,VAR_0
+SQLITE_NOMEM_BKPT,VAR_1
+SQLITE_OK,VAR_2
+assert,FUNC_0
+cursorHoldsMutex,FUNC_1
+memset,FUNC_2
+sqlite3BtreeIntegerKey,FUNC_3
+sqlite3BtreePayload,FUNC_4
+sqlite3BtreePayloadSize,FUNC_5
+sqlite3Malloc,FUNC_6
+sqlite3_free,FUNC_7
+saveCursorKey,FUNC_8
+pCur,VAR_3
+rc,VAR_4
+pKey,VAR_5

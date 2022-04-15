@@ -1,0 +1,12 @@
+CAM_IOSCHED_FLAG_CALLOUT_ACTIVE,VAR_0
+ENXIO,VAR_1
+M_CAMSCHED,VAR_2
+callout_drain,FUNC_0
+cam_iosched_cl_sysctl_fini,FUNC_1
+cam_iosched_flush,FUNC_2
+cam_iosched_iop_stats_fini,FUNC_3
+free,FUNC_4
+printf,FUNC_5
+sysctl_ctx_free,FUNC_6
+cam_iosched_fini,FUNC_7
+isc,VAR_3

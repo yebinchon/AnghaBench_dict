@@ -1,0 +1,13 @@
+CRC32_REMAINDER,VAR_0
+ETHER_MAX_LEN,VAR_1
+IFCOUNTER_IPACKETS,VAR_2
+calc_crc32,FUNC_0
+get_rx_buf,FUNC_1
+if_inc_counter,FUNC_2
+indicate_pkt,FUNC_3
+sbni_insb,FUNC_4
+append_frame_to_pkt,FUNC_5
+sc,VAR_3
+framelen,VAR_4
+crc,VAR_5
+p,VAR_6

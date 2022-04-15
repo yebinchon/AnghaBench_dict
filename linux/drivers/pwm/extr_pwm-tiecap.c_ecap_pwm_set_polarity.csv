@@ -1,0 +1,14 @@
+ECCTL2,VAR_0
+ECCTL2_APWM_POL_LOW,VAR_1
+PWM_POLARITY_INVERSED,VAR_2
+pm_runtime_get_sync,FUNC_0
+pm_runtime_put_sync,FUNC_1
+readw,FUNC_2
+to_ecap_pwm_chip,FUNC_3
+writew,FUNC_4
+ecap_pwm_set_polarity,FUNC_5
+chip,VAR_3
+pwm,VAR_4
+polarity,VAR_5
+pc,VAR_6
+value,VAR_7

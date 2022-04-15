@@ -1,0 +1,11 @@
+LIBUSB_CONTROL_SETUP_SIZE,VAR_0
+LIBUSB_TRANSFER_TYPE_CONTROL,VAR_1
+le16toh,FUNC_0
+libusb_fill_control_transfer,FUNC_1
+transfer,VAR_2
+devh,VAR_3
+buf,VAR_4
+callback,VAR_5
+user_data,VAR_6
+timeout,VAR_7
+setup,VAR_8

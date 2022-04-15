@@ -1,0 +1,15 @@
+OP_CREATE,VAR_0
+XDRBUF_WRITE,VAR_1
+cpu_to_be32,FUNC_0
+decode_create_maxsz,VAR_2
+encode_attrs,FUNC_1
+encode_op_hdr,FUNC_2
+encode_string,FUNC_3
+encode_uint32,FUNC_4
+reserve_space,FUNC_5
+xdr_write_pages,FUNC_6
+encode_create,FUNC_7
+xdr,VAR_3
+create,VAR_4
+hdr,VAR_5
+p,VAR_6

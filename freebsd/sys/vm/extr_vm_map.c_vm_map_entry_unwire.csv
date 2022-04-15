@@ -1,0 +1,12 @@
+KASSERT,FUNC_0
+MAP_ENTRY_USER_WIRED,VAR_0
+PQ_ACTIVE,VAR_1
+VM_MAP_ASSERT_LOCKED,FUNC_1
+atop,FUNC_2
+pmap_unwire,FUNC_3
+vm_map_wire_user_count_sub,FUNC_4
+vm_object_unwire,FUNC_5
+vm_map_entry_unwire,FUNC_6
+map,VAR_2
+entry,VAR_3
+size,VAR_4

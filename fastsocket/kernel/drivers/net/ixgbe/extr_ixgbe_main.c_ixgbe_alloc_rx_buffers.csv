@@ -1,0 +1,11 @@
+IXGBE_RX_DESC,FUNC_0
+cpu_to_le64,FUNC_1
+ixgbe_alloc_mapped_page,FUNC_2
+ixgbe_release_rx_desc,FUNC_3
+unlikely,FUNC_4
+ixgbe_alloc_rx_buffers,FUNC_5
+rx_ring,VAR_0
+cleaned_count,VAR_1
+rx_desc,VAR_2
+bi,VAR_3
+i,VAR_4

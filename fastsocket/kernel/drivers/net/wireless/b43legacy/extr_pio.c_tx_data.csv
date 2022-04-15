@@ -1,0 +1,14 @@
+B43legacy_PIO_TXCTL,VAR_0
+B43legacy_PIO_TXCTL_WRITEHI,VAR_1
+B43legacy_PIO_TXCTL_WRITELO,VAR_2
+B43legacy_PIO_TXDATA,VAR_3
+b43legacy_pio_write,FUNC_0
+tx_get_next_word,FUNC_1
+tx_octet,FUNC_2
+tx_data,FUNC_3
+queue,VAR_4
+txhdr,VAR_5
+packet,VAR_6
+octets,VAR_7
+data,VAR_8
+i,VAR_9

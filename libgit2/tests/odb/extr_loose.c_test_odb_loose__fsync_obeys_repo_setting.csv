@@ -1,0 +1,14 @@
+GIT_OBJECT_BLOB,VAR_0
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+cl_repo_set_bool,FUNC_2
+git_odb_write,FUNC_3
+git_repository_free,FUNC_4
+git_repository_init,FUNC_5
+git_repository_odb__weakptr,FUNC_6
+git_repository_open,FUNC_7
+p_fsync__cnt,VAR_1
+test_odb_loose__fsync_obeys_repo_setting,FUNC_8
+repo,VAR_2
+odb,VAR_3
+oid,VAR_4

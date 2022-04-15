@@ -1,0 +1,16 @@
+BLK_MQ_F_BLOCKING,VAR_0
+BLK_STS_DEV_RESOURCE,VAR_1
+BLK_STS_OK,VAR_2
+BLK_STS_RESOURCE,VAR_3
+__blk_mq_try_issue_directly,FUNC_0
+blk_mq_end_request,FUNC_1
+blk_mq_request_bypass_insert,FUNC_2
+hctx_lock,FUNC_3
+hctx_unlock,FUNC_4
+might_sleep_if,FUNC_5
+blk_mq_try_issue_directly,FUNC_6
+hctx,VAR_4
+rq,VAR_5
+cookie,VAR_6
+ret,VAR_7
+srcu_idx,VAR_8

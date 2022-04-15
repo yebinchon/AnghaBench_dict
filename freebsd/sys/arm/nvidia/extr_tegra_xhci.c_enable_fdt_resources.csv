@@ -1,0 +1,14 @@
+TEGRA_POWERGATE_XUSBA,VAR_0
+TEGRA_POWERGATE_XUSBC,VAR_1
+TEGRA_XHCI_SS_HIGH_SPEED,VAR_2
+clk_enable,FUNC_0
+clk_set_freq,FUNC_1
+device_printf,FUNC_2
+hwreset_assert,FUNC_3
+phy_enable,FUNC_4
+regulator_enable,FUNC_5
+tegra_powergate_power_off,FUNC_6
+tegra_powergate_sequence_power_up,FUNC_7
+enable_fdt_resources,FUNC_8
+sc,VAR_3
+rv,VAR_4

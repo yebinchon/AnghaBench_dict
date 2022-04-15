@@ -1,0 +1,14 @@
+ETHER_BPF_MTAP,FUNC_0
+XDMA_MEM_TO_DEV,VAR_0
+drbr_advance,FUNC_1
+drbr_peek,FUNC_2
+drbr_putback,FUNC_3
+xdma_enqueue_mbuf,FUNC_4
+xdma_queue_submit,FUNC_5
+atse_transmit_locked,FUNC_6
+ifp,VAR_1
+sc,VAR_2
+m,VAR_3
+br,VAR_4
+error,VAR_5
+enq,VAR_6

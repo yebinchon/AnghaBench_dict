@@ -1,0 +1,14 @@
+SQLITE_MAX_SRCLIST,VAR_0
+assert,FUNC_0
+memset,FUNC_1
+sqlite3DbRealloc,FUNC_2
+sqlite3ErrorMsg,FUNC_3
+sqlite3SrcListEnlarge,FUNC_4
+pParse,VAR_1
+pSrc,VAR_2
+nExtra,VAR_3
+iStart,VAR_4
+i,VAR_5
+pNew,VAR_6
+nAlloc,VAR_7
+db,VAR_8

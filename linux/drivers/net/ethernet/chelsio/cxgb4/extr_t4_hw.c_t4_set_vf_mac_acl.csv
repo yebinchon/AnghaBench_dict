@@ -1,0 +1,17 @@
+FW_ACL_MAC_CMD,VAR_0
+FW_ACL_MAC_CMD_PFN_V,FUNC_0
+FW_ACL_MAC_CMD_VFN_V,FUNC_1
+FW_CMD_OP_V,FUNC_2
+FW_CMD_REQUEST_F,VAR_1
+FW_CMD_WRITE_F,VAR_2
+FW_LEN16,FUNC_3
+cpu_to_be32,FUNC_4
+memcpy,FUNC_5
+memset,FUNC_6
+t4_wr_mbox,FUNC_7
+t4_set_vf_mac_acl,FUNC_8
+adapter,VAR_3
+vf,VAR_4
+naddr,VAR_5
+addr,VAR_6
+cmd,VAR_7

@@ -1,0 +1,17 @@
+CURSOR_DATA_TREE0,VAR_0
+CURSOR_DATA_TREE1,VAR_1
+CURSOR_SEEK_EQ,VAR_2
+LSM_OK,VAR_3
+assert,FUNC_0
+lsmTreeCursorKey,FUNC_1
+memcmp,FUNC_2
+multiCursorGetKey,FUNC_3
+lsmMCursorKey,FUNC_4
+pCsr,VAR_4
+ppKey,VAR_5
+pnKey,VAR_6
+iKey,VAR_7
+pTreeCsr,VAR_8
+nKey,VAR_9
+pKey,VAR_10
+eType,VAR_11

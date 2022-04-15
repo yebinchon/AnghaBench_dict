@@ -1,0 +1,14 @@
+BPMU_LOCK,FUNC_0
+BPMU_UNLOCK,FUNC_1
+EINVAL,VAR_0
+ENODEV,VAR_1
+SET_LDO_VOLTAGE_PAREF,VAR_2
+UINT8_MAX,VAR_3
+bhnd_pmu_set_ldo_voltage,FUNC_2
+device_get_softc,FUNC_3
+bhnd_pmu_set_voltage_raw_method,FUNC_4
+dev,VAR_4
+regulator,VAR_5
+value,VAR_6
+sc,VAR_7
+error,VAR_8

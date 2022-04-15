@@ -1,0 +1,11 @@
+KN_QUEUED,VAR_0
+KN_SUPPRESSED,VAR_1
+KQ_WORKQ,VAR_2
+assert,FUNC_0
+knote_get_kq,FUNC_1
+kqworkloop_update_override,FUNC_2
+kqworkq_update_override,FUNC_3
+knote_apply_qos_override,FUNC_4
+kn,VAR_3
+qos_index,VAR_4
+kq,VAR_5

@@ -1,0 +1,17 @@
+CHECKSUM_PARTIAL,VAR_0
+ETH_HLEN,VAR_1
+ETH_P_8021AD,VAR_2
+ETH_P_8021Q,VAR_3
+__vlan_get_protocol,FUNC_0
+br_drop_fake_rtable,FUNC_1
+dev_queue_xmit,FUNC_2
+htons,FUNC_3
+is_skb_forwardable,FUNC_4
+kfree_skb,FUNC_5
+skb_push,FUNC_6
+skb_set_network_header,FUNC_7
+br_dev_queue_push_xmit,FUNC_8
+net,VAR_4
+sk,VAR_5
+skb,VAR_6
+depth,VAR_7

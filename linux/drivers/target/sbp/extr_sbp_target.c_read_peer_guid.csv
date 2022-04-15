@@ -1,0 +1,12 @@
+CSR_CONFIG_ROM,VAR_0
+CSR_REGISTER_BASE,VAR_1
+RCODE_COMPLETE,VAR_2
+TCODE_READ_QUADLET_REQUEST,VAR_3
+be32_to_cpu,FUNC_0
+sbp_run_transaction,FUNC_1
+read_peer_guid,FUNC_2
+guid,VAR_4
+req,VAR_5
+ret,VAR_6
+high,VAR_7
+low,VAR_8

@@ -1,0 +1,14 @@
+GET_8BIT_ADDR,FUNC_0
+i2c_get_clientdata,FUNC_1
+ipmb_handle_request,FUNC_2
+is_ipmb_request,FUNC_3
+memset,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ipmb_slave_cb,FUNC_7
+client,VAR_0
+event,VAR_1
+val,VAR_2
+ipmb_dev,VAR_3
+buf,VAR_4
+flags,VAR_5

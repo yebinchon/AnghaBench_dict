@@ -1,0 +1,12 @@
+nvme_trace_admin_get_features,FUNC_0
+nvme_trace_admin_identify,FUNC_1
+nvme_trace_common,FUNC_2
+nvme_trace_create_cq,FUNC_3
+nvme_trace_create_sq,FUNC_4
+nvme_trace_delete_cq,FUNC_5
+nvme_trace_delete_sq,FUNC_6
+nvme_trace_get_lba_status,FUNC_7
+nvme_trace_parse_admin_cmd,FUNC_8
+p,VAR_0
+opcode,VAR_1
+cdw10,VAR_2

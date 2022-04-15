@@ -1,0 +1,11 @@
+HCI_BLE_READ_BUFFER_SIZE,VAR_0
+STREAM_TO_UINT16,FUNC_0
+STREAM_TO_UINT8,FUNC_1
+assert,FUNC_2
+osi_free,FUNC_3
+read_command_complete_header,FUNC_4
+parse_ble_read_buffer_size_response,FUNC_5
+response,VAR_1
+data_size_ptr,VAR_2
+acl_buffer_count_ptr,VAR_3
+stream,VAR_4

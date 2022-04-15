@@ -1,0 +1,12 @@
+MCTRL_ANY_DELTA,VAR_0
+TIOCM_CD,VAR_1
+TIOCM_CTS,VAR_2
+TIOCM_DSR,VAR_3
+TIOCM_RI,VAR_4
+uart_handle_cts_change,FUNC_0
+uart_handle_dcd_change,FUNC_1
+wake_up_interruptible,FUNC_2
+mxs_auart_modem_status,FUNC_3
+s,VAR_5
+mctrl,VAR_6
+mctrl_diff,VAR_7

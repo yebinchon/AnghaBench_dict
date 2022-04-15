@@ -1,0 +1,16 @@
+AccessShareLock,VAR_0
+Anum_continuous_agg_pkey_mat_hypertable_id,VAR_1
+BTEqualStrategyNumber,VAR_2
+CONTINUOUS_AGG,VAR_3
+CONTINUOUS_AGG_PKEY,VAR_4
+CONTINUOUS_AGG_TABLE_NAME,VAR_5
+F_INT4EQ,VAR_6
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+continuous_agg_tuple_found,VAR_7
+ts_catalog_scan_one,FUNC_2
+get_continuous_agg,FUNC_3
+mat_hypertable_id,VAR_8
+cagg,VAR_9
+scankey,VAR_10
+found,VAR_11

@@ -1,0 +1,15 @@
+CG_THERMAL_INT,VAR_0
+DRM_DEBUG_KMS,FUNC_0
+EINVAL,VAR_1
+PPSMC_MSG_EnableThermalInterrupt,VAR_2
+PPSMC_Result_OK,VAR_3
+RREG32,FUNC_1
+THERM_INT_MASK_HIGH,VAR_4
+THERM_INT_MASK_LOW,VAR_5
+WREG32,FUNC_2
+amdgpu_si_send_msg_to_smc,FUNC_3
+si_thermal_enable_alert,FUNC_4
+adev,VAR_6
+enable,VAR_7
+thermal_int,VAR_8
+result,VAR_9

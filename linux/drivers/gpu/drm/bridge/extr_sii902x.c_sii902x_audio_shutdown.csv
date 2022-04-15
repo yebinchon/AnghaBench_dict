@@ -1,0 +1,11 @@
+SII902X_TPI_AUDIO_CONFIG_BYTE2_REG,VAR_0
+SII902X_TPI_AUDIO_INTERFACE_DISABLE,VAR_1
+clk_disable_unprepare,FUNC_0
+dev_get_drvdata,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+regmap_write,FUNC_4
+sii902x_audio_shutdown,FUNC_5
+dev,VAR_2
+data,VAR_3
+sii902x,VAR_4

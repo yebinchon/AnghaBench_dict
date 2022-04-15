@@ -1,0 +1,11 @@
+COUNTER_INC,FUNC_0
+LABEL_CHECK,FUNC_1
+MAGIC_INPCB,VAR_0
+MAGIC_SOCKET,VAR_1
+SOCK_LOCK_ASSERT,FUNC_2
+inpcb_sosetlabel,VAR_2
+test_inpcb_sosetlabel,FUNC_3
+so,VAR_3
+solabel,VAR_4
+inp,VAR_5
+inplabel,VAR_6

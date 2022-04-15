@@ -1,0 +1,17 @@
+CBAF_REQ_SET_ASSOCIATION_RESPONSE,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_CLASS,VAR_3
+WUSB_CKHDID_STRSIZE,VAR_4
+cbaf_cc_data_defaults,VAR_5
+ckhdid_printf,FUNC_0
+cpu_to_le16,FUNC_1
+dev_dbg,FUNC_2
+usb_control_msg,FUNC_3
+usb_sndctrlpipe,FUNC_4
+cbaf_cc_upload,FUNC_5
+cbaf,VAR_6
+result,VAR_7
+dev,VAR_8
+ccd,VAR_9
+pr_cdid,VAR_10

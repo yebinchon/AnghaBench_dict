@@ -1,0 +1,15 @@
+em28xx_copy_vbi,FUNC_0
+em28xx_copy_video,FUNC_1
+em28xx_isocdbg,FUNC_2
+finish_field_prepare_next,FUNC_3
+process_frame_data_em28xx,FUNC_4
+dev,VAR_0
+data_pkt,VAR_1
+data_len,VAR_2
+v4l2,VAR_3
+buf,VAR_4
+vbi_buf,VAR_5
+dma_q,VAR_6
+vbi_dma_q,VAR_7
+vbi_size,VAR_8
+vbi_data_len,VAR_9

@@ -1,0 +1,17 @@
+LCS_CH_STATE_HALTED,VAR_0
+LCS_CH_STATE_INIT,VAR_1
+LCS_CH_STATE_STOPPED,VAR_2
+LCS_DBF_TEXT,FUNC_0
+LCS_DBF_TEXT_,FUNC_1
+ccw_device_halt,FUNC_2
+dev_name,FUNC_3
+get_ccwdev_lock,FUNC_4
+lcs_clear_channel,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+trace,VAR_3
+wait_event,FUNC_8
+lcs_stop_channel,FUNC_9
+channel,VAR_4
+flags,VAR_5
+rc,VAR_6

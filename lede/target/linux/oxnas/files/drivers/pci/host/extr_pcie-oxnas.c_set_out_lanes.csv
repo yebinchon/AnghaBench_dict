@@ -1,0 +1,8 @@
+PCIE_AHB_SLAVE_CTRL,VAR_0
+PCIE_SLAVE_BE,FUNC_0
+PCIE_SLAVE_BE_MASK,VAR_1
+regmap_update_bits,FUNC_1
+wmb,FUNC_2
+set_out_lanes,FUNC_3
+pcie,VAR_2
+lanes,VAR_3

@@ -1,0 +1,15 @@
+Assert,FUNC_0
+BM_DIRTY,VAR_0
+BufferIsLocal,FUNC_1
+GetLocalBufferDescriptor,FUNC_2
+LocalRefCount,VAR_1
+fprintf,FUNC_3
+pgBufferUsage,VAR_2
+pg_atomic_read_u32,FUNC_4
+pg_atomic_unlocked_write_u32,FUNC_5
+stderr,VAR_3
+MarkLocalBufferDirty,FUNC_6
+buffer,VAR_4
+bufid,VAR_5
+bufHdr,VAR_6
+buf_state,VAR_7

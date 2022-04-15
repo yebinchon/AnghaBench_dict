@@ -1,0 +1,16 @@
+GIT_STASH_INCLUDE_IGNORED,VAR_0
+GIT_STASH_INCLUDE_UNTRACKED,VAR_1
+GIT_STATUS_IGNORED,VAR_2
+GIT_STATUS_WT_NEW,VAR_3
+assert_status,FUNC_0
+cl_assert,FUNC_1
+cl_git_mkfile,FUNC_2
+cl_git_pass,FUNC_3
+git_ignore_add_rule,FUNC_4
+git_path_exists,FUNC_5
+git_stash_save,FUNC_6
+p_mkdir,FUNC_7
+repo,VAR_4
+signature,VAR_5
+stash_tip_oid,VAR_6
+test_stash_save__ignored_directory,FUNC_8

@@ -1,0 +1,16 @@
+CSR_READ,FUNC_0
+ENXIO,VAR_0
+JZ_HSPR,VAR_1
+JZ_RTSR,VAR_2
+bus_alloc_resources,FUNC_1
+clock_register,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+jz4780_rtc_detach,FUNC_5
+jz4780_rtc_spec,VAR_3
+jz4780_rtc_write,FUNC_6
+jz4780_rtc_attach,FUNC_7
+dev,VAR_4
+sc,VAR_5
+scratch,VAR_6
+ret,VAR_7

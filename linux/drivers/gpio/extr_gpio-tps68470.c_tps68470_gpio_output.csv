@@ -1,0 +1,13 @@
+TPS68470_GPIO_CTL_REG_A,FUNC_0
+TPS68470_GPIO_MODE_MASK,VAR_0
+TPS68470_GPIO_MODE_OUT_CMOS,VAR_1
+TPS68470_N_REGULAR_GPIO,VAR_2
+gpiochip_get_data,FUNC_1
+regmap_update_bits,FUNC_2
+tps68470_gpio_set,FUNC_3
+tps68470_gpio_output,FUNC_4
+gc,VAR_3
+offset,VAR_4
+value,VAR_5
+tps68470_gpio,VAR_6
+regmap,VAR_7

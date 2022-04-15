@@ -1,0 +1,16 @@
+BUFSIZE,VAR_0
+ZIP_ER_WRITE,VAR_1
+_zip_error_set,FUNC_0
+_zip_error_set_from_source,FUNC_1
+errno,VAR_2
+fwrite,FUNC_2
+zip_source_close,FUNC_3
+zip_source_open,FUNC_4
+zip_source_read,FUNC_5
+copy_source,FUNC_6
+za,VAR_3
+src,VAR_4
+ft,VAR_5
+buf,VAR_6
+n,VAR_7
+ret,VAR_8

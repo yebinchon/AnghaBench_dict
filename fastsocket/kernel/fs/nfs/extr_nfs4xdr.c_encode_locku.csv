@@ -1,0 +1,14 @@
+NFS4_STATEID_SIZE,VAR_0
+OP_LOCKU,VAR_1
+cpu_to_be32,FUNC_0
+decode_locku_maxsz,VAR_2
+nfs4_lock_length,FUNC_1
+nfs4_lock_type,FUNC_2
+reserve_space,FUNC_3
+xdr_encode_hyper,FUNC_4
+xdr_encode_opaque_fixed,FUNC_5
+encode_locku,FUNC_6
+xdr,VAR_3
+args,VAR_4
+hdr,VAR_5
+p,VAR_6

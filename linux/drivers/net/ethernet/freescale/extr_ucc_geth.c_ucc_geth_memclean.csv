@@ -1,0 +1,15 @@
+ENET_ADDR_CONT_ENTRY,FUNC_0
+ENET_INIT_PARAM_MAX_ENTRIES_RX,VAR_0
+ENET_INIT_PARAM_MAX_ENTRIES_TX,VAR_1
+dequeue,FUNC_1
+iounmap,FUNC_2
+kfree,FUNC_3
+list_empty,FUNC_4
+put_enet_addr_container,FUNC_5
+qe_muram_free,FUNC_6
+return_init_enet_entries,FUNC_7
+ucc_fast_free,FUNC_8
+ucc_geth_free_rx,FUNC_9
+ucc_geth_free_tx,FUNC_10
+ucc_geth_memclean,FUNC_11
+ugeth,VAR_2

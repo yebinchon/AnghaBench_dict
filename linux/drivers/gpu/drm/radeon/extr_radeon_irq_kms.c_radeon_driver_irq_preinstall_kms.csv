@@ -1,0 +1,13 @@
+RADEON_MAX_CRTCS,VAR_0
+RADEON_MAX_HPD_PINS,VAR_1
+RADEON_NUM_RINGS,VAR_2
+atomic_set,FUNC_0
+radeon_irq_process,FUNC_1
+radeon_irq_set,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+radeon_driver_irq_preinstall_kms,FUNC_5
+dev,VAR_3
+rdev,VAR_4
+irqflags,VAR_5
+i,VAR_6

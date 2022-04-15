@@ -1,0 +1,14 @@
+EVUTIL_ERR_CONNECT_REFUSED,FUNC_0
+EVUTIL_ERR_CONNECT_RETRIABLE,FUNC_1
+SOCK_STREAM,VAR_0
+connect,FUNC_2
+evutil_closesocket,FUNC_3
+evutil_make_socket_nonblocking,FUNC_4
+evutil_socket_geterror,FUNC_5
+socket,FUNC_6
+evutil_socket_connect_,FUNC_7
+fd_ptr,VAR_1
+sa,VAR_2
+socklen,VAR_3
+made_fd,VAR_4
+e,VAR_5

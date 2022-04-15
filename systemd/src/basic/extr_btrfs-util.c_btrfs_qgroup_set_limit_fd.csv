@@ -1,0 +1,17 @@
+BTRFS_IOC_QGROUP_LIMIT,VAR_0
+BTRFS_QGROUP_LIMIT_MAX_RFER,VAR_1
+EBUSY,VAR_2
+ENOTTY,VAR_3
+assert,FUNC_0
+btrfs_is_filesystem,FUNC_1
+btrfs_quota_scan_wait,FUNC_2
+btrfs_subvol_get_id_fd,FUNC_3
+errno,VAR_4
+ioctl,FUNC_4
+btrfs_qgroup_set_limit_fd,FUNC_5
+fd,VAR_5
+qgroupid,VAR_6
+referenced_max,VAR_7
+args,VAR_8
+c,VAR_9
+r,VAR_10

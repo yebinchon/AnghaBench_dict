@@ -1,0 +1,17 @@
+DEVCMD_TIMEOUT,VAR_0
+EOPNOTSUPP,VAR_1
+IONIC_PAUSE_F_RX,VAR_2
+IONIC_PAUSE_F_TX,VAR_3
+IONIC_PORT_PAUSE_TYPE_LINK,VAR_4
+ionic_dev_cmd_port_pause,FUNC_0
+ionic_dev_cmd_wait,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+ionic_set_pauseparam,FUNC_5
+netdev,VAR_5
+pause,VAR_6
+lif,VAR_7
+ionic,VAR_8
+requested_pause,VAR_9
+err,VAR_10

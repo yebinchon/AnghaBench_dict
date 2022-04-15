@@ -1,0 +1,16 @@
+PCI_DMA_TODEVICE,VAR_0
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+dev_consume_skb_irq,FUNC_2
+le16_to_cpu,FUNC_3
+netif_carrier_ok,FUNC_4
+netif_queue_stopped,FUNC_5
+netif_wake_queue,FUNC_6
+pci_unmap_page,FUNC_7
+atl1_intr_tx,FUNC_8
+adapter,VAR_1
+tpd_ring,VAR_2
+buffer_info,VAR_3
+sw_tpd_next_to_clean,VAR_4
+cmb_tpd_next_to_clean,VAR_5
+count,VAR_6

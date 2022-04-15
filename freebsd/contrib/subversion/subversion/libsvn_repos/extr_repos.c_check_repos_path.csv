@@ -1,0 +1,15 @@
+FALSE,VAR_0
+SVN_REPOS__DB_DIR,VAR_1
+SVN_REPOS__FORMAT,VAR_2
+TRUE,VAR_3
+svn_dirent_join,FUNC_0
+svn_error_clear,FUNC_1
+svn_io_check_path,FUNC_2
+svn_io_check_resolved_path,FUNC_3
+svn_node_dir,VAR_4
+svn_node_file,VAR_5
+check_repos_path,FUNC_4
+path,VAR_6
+pool,VAR_7
+kind,VAR_8
+err,VAR_9

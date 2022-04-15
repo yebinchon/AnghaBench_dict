@@ -1,0 +1,17 @@
+RB_WRITE_INTCNT,VAR_0
+RB_WRITE_MASK,VAR_1
+READ_ONCE,FUNC_0
+barrier,FUNC_1
+cmpxchg,FUNC_2
+local_add_return,FUNC_3
+local_cmpxchg,FUNC_4
+local_inc,FUNC_5
+local_set,FUNC_6
+rb_tail_page_update,FUNC_7
+cpu_buffer,VAR_2
+tail_page,VAR_3
+next_page,VAR_4
+old_entries,VAR_5
+old_write,VAR_6
+val,VAR_7
+eval,VAR_8

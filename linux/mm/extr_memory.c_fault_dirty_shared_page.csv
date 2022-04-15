@@ -1,0 +1,13 @@
+PageAnon,FUNC_0
+VM_BUG_ON_PAGE,FUNC_1
+balance_dirty_pages_ratelimited,FUNC_2
+file_update_time,FUNC_3
+page_rmapping,FUNC_4
+set_page_dirty,FUNC_5
+unlock_page,FUNC_6
+fault_dirty_shared_page,FUNC_7
+vma,VAR_0
+page,VAR_1
+mapping,VAR_2
+dirtied,VAR_3
+page_mkwrite,VAR_4

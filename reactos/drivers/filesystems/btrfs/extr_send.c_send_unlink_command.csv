@@ -1,0 +1,15 @@
+BTRFS_SEND_CMD_UNLINK,VAR_0
+BTRFS_SEND_TLV_PATH,VAR_1
+STATUS_SUCCESS,VAR_2
+find_path,FUNC_0
+find_path_len,FUNC_1
+send_add_tlv,FUNC_2
+send_command,FUNC_3
+send_command_finish,FUNC_4
+send_unlink_command,FUNC_5
+context,VAR_3
+parent,VAR_4
+namelen,VAR_5
+name,VAR_6
+pos,VAR_7
+pathlen,VAR_8

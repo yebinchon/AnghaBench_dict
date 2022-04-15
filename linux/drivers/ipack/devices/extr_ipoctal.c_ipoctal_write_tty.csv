@@ -1,0 +1,12 @@
+CR_CMD_ASSERT_RTSN,VAR_0
+CR_DISABLE_RX,VAR_1
+CR_ENABLE_TX,VAR_2
+IPACK1_DEVICE_ID_SBS_OCTAL_485,VAR_3
+iowrite8,FUNC_0
+ipoctal_copy_write_buffer,FUNC_1
+ipoctal_write_tty,FUNC_2
+tty,VAR_4
+buf,VAR_5
+count,VAR_6
+channel,VAR_7
+char_copied,VAR_8

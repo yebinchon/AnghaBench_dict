@@ -1,0 +1,14 @@
+CPU_ISSET,FUNC_0
+CPU_SET,FUNC_1
+CPU_ZERO,FUNC_2
+_SC_NPROCESSORS_CONF,VAR_0
+sched_getaffinity,FUNC_3
+sched_getcpu,FUNC_4
+sched_setaffinity,FUNC_5
+sysconf,FUNC_6
+cpu_stat_inject_cpu_idle_event,FUNC_7
+rcpu,VAR_1
+i,VAR_2
+ret,VAR_3
+cpumask,VAR_4
+original_cpumask,VAR_5

@@ -1,0 +1,13 @@
+SHA512_DIGEST_LENGTH,VAR_0
+ZIO_DATA_IV_LEN,VAR_1
+ZIO_DATA_SALT_LEN,VAR_2
+bcopy,FUNC_0
+zio_crypt_do_hmac,FUNC_1
+zio_crypt_generate_iv_salt_dedup,FUNC_2
+key,VAR_3
+data,VAR_4
+datalen,VAR_5
+ivbuf,VAR_6
+salt,VAR_7
+ret,VAR_8
+digestbuf,VAR_9

@@ -1,0 +1,16 @@
+ALIGN,FUNC_0
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+dma_alloc_coherent,FUNC_1
+dma_free_coherent,FUNC_2
+emac_rx_descs_alloc,FUNC_3
+emac_tx_q_bufs_free,FUNC_4
+emac_tx_q_desc_alloc,FUNC_5
+netdev_err,FUNC_6
+emac_mac_rx_tx_rings_alloc_all,FUNC_7
+adpt,VAR_2
+ring_header,VAR_3
+dev,VAR_4
+num_tx_descs,VAR_5
+num_rx_descs,VAR_6
+ret,VAR_7

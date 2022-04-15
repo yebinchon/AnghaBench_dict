@@ -1,0 +1,11 @@
+I40E_AQC_MACVLAN_DEL_PERFECT_MATCH,VAR_0
+ether_addr_copy,FUNC_0
+i40e_aq_remove_macvlan,FUNC_1
+memset,FUNC_2
+i40e_del_macvlan_filter,FUNC_3
+hw,VAR_1
+seid,VAR_2
+macaddr,VAR_3
+aq_err,VAR_4
+element,VAR_5
+status,VAR_6

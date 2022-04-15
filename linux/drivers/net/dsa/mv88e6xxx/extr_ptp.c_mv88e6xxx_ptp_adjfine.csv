@@ -1,0 +1,14 @@
+div_u64,FUNC_0
+mv88e6xxx_reg_lock,FUNC_1
+mv88e6xxx_reg_unlock,FUNC_2
+ptp_to_chip,FUNC_3
+timecounter_read,FUNC_4
+mv88e6xxx_ptp_adjfine,FUNC_5
+ptp,VAR_0
+scaled_ppm,VAR_1
+chip,VAR_2
+ptp_ops,VAR_3
+neg_adj,VAR_4
+diff,VAR_5
+mult,VAR_6
+adj,VAR_7

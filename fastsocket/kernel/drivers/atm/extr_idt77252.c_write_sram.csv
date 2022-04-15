@@ -1,0 +1,14 @@
+SAR_CMD_WRITE_SRAM,VAR_0
+SAR_REG_CMD,VAR_1
+SAR_REG_DR0,VAR_2
+idt77252_sram_write_errors,VAR_3
+printk,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+waitfor_idle,FUNC_3
+writel,FUNC_4
+write_sram,FUNC_5
+card,VAR_4
+addr,VAR_5
+value,VAR_6
+flags,VAR_7

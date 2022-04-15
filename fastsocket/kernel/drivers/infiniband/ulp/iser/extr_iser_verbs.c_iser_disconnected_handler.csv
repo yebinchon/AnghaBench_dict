@@ -1,0 +1,13 @@
+ISCSI_ERR_CONN_FAILED,VAR_0
+ISER_CONN_DOWN,VAR_1
+ISER_CONN_TERMINATING,VAR_2
+ISER_CONN_UP,VAR_3
+atomic_read,FUNC_0
+iscsi_conn_failure,FUNC_1
+iser_conn_put,FUNC_2
+iser_conn_state_comp_exch,FUNC_3
+wake_up_interruptible,FUNC_4
+iser_disconnected_handler,FUNC_5
+cma_id,VAR_4
+ib_conn,VAR_5
+ret,VAR_6

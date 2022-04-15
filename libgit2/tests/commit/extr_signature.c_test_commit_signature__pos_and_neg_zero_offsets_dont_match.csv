@@ -1,0 +1,8 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_signature__equal,FUNC_2
+git_signature_free,FUNC_3
+git_signature_from_buffer,FUNC_4
+test_commit_signature__pos_and_neg_zero_offsets_dont_match,FUNC_5
+with_neg_zero,VAR_0
+with_pos_zero,VAR_1

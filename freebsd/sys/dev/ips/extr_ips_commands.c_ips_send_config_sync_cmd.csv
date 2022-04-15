@@ -1,0 +1,14 @@
+BUS_DMASYNC_PREWRITE,VAR_0
+COMMAND_ERROR,FUNC_0
+IPS_CONFIG_SYNC_CMD,VAR_1
+IPS_POCL,VAR_2
+PRINTF,FUNC_1
+bus_dmamap_sync,FUNC_2
+ips_insert_free_cmd,FUNC_3
+ips_wakeup_callback,VAR_3
+sema_wait,FUNC_4
+stub1,FUNC_5
+ips_send_config_sync_cmd,FUNC_6
+command,VAR_4
+sc,VAR_5
+command_struct,VAR_6

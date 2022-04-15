@@ -1,0 +1,17 @@
+AC_VERB_GET_CONNECT_SEL,VAR_0
+AC_VERB_SET_CONNECT_SEL,VAR_1
+get_pin,FUNC_0
+hdmi_choose_cvt,FUNC_1
+snd_hda_codec_read,FUNC_2
+snd_hda_codec_write_cache,FUNC_3
+snd_printdd,FUNC_4
+haswell_config_cvts,FUNC_5
+codec,VAR_2
+pin_id,VAR_3
+mux_id,VAR_4
+spec,VAR_5
+per_pin,VAR_6
+pin_idx,VAR_7
+mux_idx,VAR_8
+curr,VAR_9
+err,VAR_10

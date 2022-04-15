@@ -1,0 +1,12 @@
+PCI_DOMAINMAX,VAR_0
+device_delete_children,FUNC_0
+device_get_parent,FUNC_1
+device_get_unit,FUNC_2
+pci_read_device,FUNC_3
+resource_list_free,FUNC_4
+vmd_bus_detach,FUNC_5
+dev,VAR_1
+dinfo,VAR_2
+b,VAR_3
+s,VAR_4
+f,VAR_5

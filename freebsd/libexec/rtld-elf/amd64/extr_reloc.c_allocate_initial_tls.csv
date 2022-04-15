@@ -1,0 +1,14 @@
+AMD64_SET_FSBASE,VAR_0
+CPUID_STDEXT_FSGSBASE,VAR_1
+P_OSREL_WRFSBASE,VAR_2
+RTLD_STATIC_TLS_EXTRA,VAR_3
+__getosreldate,FUNC_0
+allocate_tls,FUNC_1
+cpu_stdext_feature,VAR_4
+sysarch,FUNC_2
+tls_last_offset,VAR_5
+tls_static_space,VAR_6
+wrfsbase,FUNC_3
+allocate_initial_tls,FUNC_4
+objs,VAR_7
+addr,VAR_8

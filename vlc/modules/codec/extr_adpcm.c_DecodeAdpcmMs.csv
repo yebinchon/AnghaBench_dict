@@ -1,0 +1,15 @@
+AdpcmMsExpandNibble,FUNC_0
+CLAMP,FUNC_1
+GetByte,FUNC_2
+GetWord,FUNC_3
+i_adaptation_coeff1,VAR_0
+i_adaptation_coeff2,VAR_1
+DecodeAdpcmMs,FUNC_4
+p_dec,VAR_2
+p_sample,VAR_3
+p_buffer,VAR_4
+p_sys,VAR_5
+channel,VAR_6
+b_stereo,VAR_7
+i_block_predictor,VAR_8
+i_total_samples,VAR_9

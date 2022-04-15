@@ -1,0 +1,12 @@
+TCP_LISTEN,VAR_0
+XPT_CONN,VAR_1
+dprintk,FUNC_0
+printk,FUNC_1
+set_bit,FUNC_2
+svc_xprt_enqueue,FUNC_3
+waitqueue_active,FUNC_4
+wake_up_interruptible_all,FUNC_5
+svc_tcp_listen_data_ready,FUNC_6
+sk,VAR_2
+count_unused,VAR_3
+svsk,VAR_4

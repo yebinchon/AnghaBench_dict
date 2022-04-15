@@ -1,0 +1,15 @@
+ACPI_SUCCESS,FUNC_0
+acpi_GetInteger,FUNC_1
+acpi_name,FUNC_2
+device_get_ivars,FUNC_3
+pci_child_location_str_method,FUNC_4
+snprintf,FUNC_5
+strlcat,FUNC_6
+acpi_pci_child_location_str_method,FUNC_7
+cbdev,VAR_0
+child,VAR_1
+buf,VAR_2
+buflen,VAR_3
+dinfo,VAR_4
+pxm,VAR_5
+buf2,VAR_6

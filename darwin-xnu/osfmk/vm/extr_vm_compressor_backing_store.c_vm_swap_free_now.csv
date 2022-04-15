@@ -1,0 +1,16 @@
+COMPRESSED_SWAP_CHUNK_SIZE,VAR_0
+SWAP_READY,VAR_1
+SWAP_RECLAIM,VAR_2
+SWAP_SLOT_MASK,VAR_3
+VM_SWAP_SHOULD_RECLAIM,FUNC_0
+thread_wakeup,FUNC_1
+vm_swapfile_gc_needed,VAR_4
+vm_swapfile_gc_thread_running,VAR_5
+vm_swapfile_total_segs_used,VAR_6
+vm_swap_free_now,FUNC_2
+swf,VAR_7
+f_offset,VAR_8
+file_offset,VAR_9
+segidx,VAR_10
+byte_for_segidx,VAR_11
+offset_within_byte,VAR_12

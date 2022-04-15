@@ -1,0 +1,12 @@
+ALARM_DAY_S,VAR_0
+ALARM_ENABLE_MASK,VAR_1
+TIME_HOUR_S,VAR_2
+TIME_MIN_S,VAR_3
+VT8500_RTC_AS,VAR_4
+bin2bcd,FUNC_0
+dev_get_drvdata,FUNC_1
+writel,FUNC_2
+vt8500_rtc_set_alarm,FUNC_3
+dev,VAR_5
+alrm,VAR_6
+vt8500_rtc,VAR_7

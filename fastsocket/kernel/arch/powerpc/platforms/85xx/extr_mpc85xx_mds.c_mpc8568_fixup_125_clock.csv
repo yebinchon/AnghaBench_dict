@@ -1,0 +1,10 @@
+BMCR_RESET,VAR_0
+MII_BMCR,VAR_1
+MV88E1111_SCR,VAR_2
+MV88E1111_SCR_125CLK,VAR_3
+phy_read,FUNC_0
+phy_write,FUNC_1
+mpc8568_fixup_125_clock,FUNC_2
+phydev,VAR_4
+scr,VAR_5
+err,VAR_6

@@ -1,0 +1,15 @@
+RFCOMM_UIH,VAR_0
+__ctrl,FUNC_0
+__fcs,FUNC_1
+__len16,FUNC_2
+__len8,FUNC_3
+cpu_to_le16,FUNC_4
+put_unaligned,FUNC_5
+skb_push,FUNC_6
+skb_put,FUNC_7
+rfcomm_make_uih,FUNC_8
+skb,VAR_1
+addr,VAR_2
+hdr,VAR_3
+len,VAR_4
+crc,VAR_5

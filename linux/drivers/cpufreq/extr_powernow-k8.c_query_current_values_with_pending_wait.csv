@@ -1,0 +1,11 @@
+MSR_FIDVID_STATUS,VAR_0
+MSR_S_HI_CURRENT_VID,VAR_1
+MSR_S_LO_CHANGE_PENDING,VAR_2
+MSR_S_LO_CURRENT_FID,VAR_3
+pr_debug,FUNC_0
+rdmsr,FUNC_1
+query_current_values_with_pending_wait,FUNC_2
+data,VAR_4
+lo,VAR_5
+hi,VAR_6
+i,VAR_7

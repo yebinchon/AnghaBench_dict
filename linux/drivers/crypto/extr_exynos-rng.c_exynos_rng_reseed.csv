@@ -1,0 +1,16 @@
+EXYNOS_RNG_RESEED_BYTES,VAR_0
+EXYNOS_RNG_RESEED_TIME,VAR_1
+EXYNOS_RNG_SEED_SIZE,VAR_2
+exynos_rng_get_random,FUNC_0
+exynos_rng_set_seed,FUNC_1
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+time_before,FUNC_5
+exynos_rng_reseed,FUNC_6
+rng,VAR_4
+next_seeding,VAR_5
+now,VAR_6
+read,VAR_7
+seed,VAR_8

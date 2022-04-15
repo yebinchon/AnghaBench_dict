@@ -1,0 +1,11 @@
+PMSU_PREPARE_DEEP_IDLE,VAR_0
+SCU_PM_POWEROFF,VAR_1
+cpu_do_idle,FUNC_0
+louis,VAR_2
+mvebu_get_scu_base,FUNC_1
+mvebu_v7_pmsu_idle_prepare,FUNC_2
+scu_power_mode,FUNC_3
+v7_exit_coherency_flush,FUNC_4
+armada_38x_do_cpu_suspend,FUNC_5
+deepidle,VAR_3
+flags,VAR_4

@@ -1,0 +1,14 @@
+bus_get,FUNC_0
+bus_put,FUNC_1
+dev_name,FUNC_2
+device_add_attrs,FUNC_3
+device_remove_attrs,FUNC_4
+klist_add_tail,FUNC_5
+make_deprecated_bus_links,FUNC_6
+pr_debug,FUNC_7
+sysfs_create_link,FUNC_8
+sysfs_remove_link,FUNC_9
+bus_add_device,FUNC_10
+dev,VAR_0
+bus,VAR_1
+error,VAR_2

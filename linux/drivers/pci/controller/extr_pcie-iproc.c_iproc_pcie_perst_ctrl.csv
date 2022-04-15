@@ -1,0 +1,12 @@
+EP_MODE_SURVIVE_PERST,VAR_0
+EP_PERST_SOURCE_SELECT,VAR_1
+IPROC_PCIE_CLK_CTRL,VAR_2
+RC_PCIE_RST_OUTPUT,VAR_3
+iproc_pcie_read_reg,FUNC_0
+iproc_pcie_write_reg,FUNC_1
+msleep,FUNC_2
+udelay,FUNC_3
+iproc_pcie_perst_ctrl,FUNC_4
+pcie,VAR_4
+assert,VAR_5
+val,VAR_6

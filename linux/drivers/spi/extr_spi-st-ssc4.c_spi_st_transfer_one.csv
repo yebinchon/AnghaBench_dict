@@ -1,0 +1,17 @@
+SSC_CTL,VAR_0
+SSC_IEN,VAR_1
+SSC_IEN_TEEN,VAR_2
+SSC_RBUF,VAR_3
+readl_relaxed,FUNC_0
+reinit_completion,FUNC_1
+spi_finalize_current_transfer,FUNC_2
+spi_master_get_devdata,FUNC_3
+ssc_write_tx_fifo,FUNC_4
+wait_for_completion,FUNC_5
+writel_relaxed,FUNC_6
+spi_st_transfer_one,FUNC_7
+master,VAR_4
+spi,VAR_5
+t,VAR_6
+spi_st,VAR_7
+ctl,VAR_8

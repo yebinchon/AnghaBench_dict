@@ -1,0 +1,15 @@
+PTP_PACKET_STATE_MATCHED,VAR_0
+PTP_PACKET_STATE_MATCH_UNWANTED,VAR_1
+PTP_PACKET_STATE_TIMED_OUT,VAR_2
+__skb_queue_tail,FUNC_0
+efx_ptp_match_rx,FUNC_1
+jiffies,VAR_3
+skb_dequeue,FUNC_2
+skb_queue_head,FUNC_3
+time_after,FUNC_4
+efx_ptp_process_events,FUNC_5
+efx,VAR_4
+q,VAR_5
+ptp,VAR_6
+skb,VAR_7
+match,VAR_8

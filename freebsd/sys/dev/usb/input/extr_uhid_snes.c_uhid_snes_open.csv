@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+ENOMEM,VAR_1
+UHID_SNES_IFQ_MAX_LEN,VAR_2
+UHID_SNES_INTR_DT_RD,VAR_3
+USB_FIFO_RX,VAR_4
+mtx_lock,FUNC_0
+mtx_unlock,FUNC_1
+uhid_snes_reset,FUNC_2
+usb_fifo_alloc_buffer,FUNC_3
+usb_fifo_softc,FUNC_4
+usbd_xfer_max_len,FUNC_5
+usbd_xfer_set_stall,FUNC_6
+uhid_snes_open,FUNC_7
+fifo,VAR_5
+fflags,VAR_6
+sc,VAR_7
+error,VAR_8

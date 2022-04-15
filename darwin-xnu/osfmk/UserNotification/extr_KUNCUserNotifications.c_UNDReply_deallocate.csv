@@ -1,0 +1,15 @@
+IKOT_NONE,VAR_0
+IKO_NULL,VAR_1
+IP_NULL,VAR_2
+IP_VALID,FUNC_0
+LockCompatGroup,VAR_3
+UNDReply_lock,FUNC_1
+UNDReply_unlock,FUNC_2
+assert,FUNC_3
+ipc_kobject_set,FUNC_4
+ipc_port_dealloc_kernel,FUNC_5
+kfree,FUNC_6
+lck_mtx_destroy,FUNC_7
+UNDReply_deallocate,FUNC_8
+reply,VAR_4
+port,VAR_5

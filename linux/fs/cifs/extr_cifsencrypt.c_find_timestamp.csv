@@ -1,0 +1,15 @@
+NTLMSSP_AV_EOL,VAR_0
+NTLMSSP_AV_TIMESTAMP,VAR_1
+cifs_UnixTimeToNT,FUNC_0
+cpu_to_le64,FUNC_1
+ktime_get_real_ts64,FUNC_2
+le16_to_cpu,FUNC_3
+find_timestamp,FUNC_4
+ses,VAR_2
+attrsize,VAR_3
+type,VAR_4
+onesize,VAR_5
+blobptr,VAR_6
+blobend,VAR_7
+attrptr,VAR_8
+ts,VAR_9

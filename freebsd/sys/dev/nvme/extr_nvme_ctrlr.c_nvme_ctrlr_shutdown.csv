@@ -1,0 +1,15 @@
+NVME_CC_REG_SHN_MASK,VAR_0
+NVME_CC_REG_SHN_SHIFT,VAR_1
+NVME_CSTS_GET_SHST,FUNC_0
+NVME_SHN_NORMAL,VAR_2
+NVME_SHST_COMPLETE,VAR_3
+hz,VAR_4
+nvme_mmio_read_4,FUNC_1
+nvme_mmio_write_4,FUNC_2
+nvme_printf,FUNC_3
+pause,FUNC_4
+nvme_ctrlr_shutdown,FUNC_5
+ctrlr,VAR_5
+cc,VAR_6
+csts,VAR_7
+ticks,VAR_8

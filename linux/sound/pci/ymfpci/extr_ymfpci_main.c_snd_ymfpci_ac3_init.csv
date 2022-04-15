@@ -1,0 +1,12 @@
+ENOMEM,VAR_0
+SNDRV_DMA_TYPE_DEV,VAR_1
+YDSXGR_MAPOFEFFECT,VAR_2
+cpu_to_le32,FUNC_0
+snd_dma_alloc_pages,FUNC_1
+snd_dma_pci_data,FUNC_2
+snd_ymfpci_readl,FUNC_3
+snd_ymfpci_writel,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+snd_ymfpci_ac3_init,FUNC_7
+chip,VAR_3

@@ -1,0 +1,15 @@
+IEEE80211_SKB_CB,FUNC_0
+IEEE80211_TX_CTL_NO_ACK,VAR_0
+IEEE80211_TX_STAT_ACK,VAR_1
+ieee80211_tx_info_clear_status,FUNC_1
+ieee80211_tx_status_irqsafe,FUNC_2
+ieee80211_wake_queues,FUNC_3
+lbtf_wq,VAR_2
+queue_work,FUNC_4
+skb_pull,FUNC_5
+skb_queue_empty,FUNC_6
+lbtf_send_tx_feedback,FUNC_7
+priv,VAR_3
+retrycnt,VAR_4
+fail,VAR_5
+info,VAR_6

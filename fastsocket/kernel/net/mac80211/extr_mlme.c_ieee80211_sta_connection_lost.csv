@@ -1,0 +1,13 @@
+IEEE80211_DEAUTH_FRAME_LEN,VAR_0
+IEEE80211_STYPE_DEAUTH,VAR_1
+cfg80211_send_deauth,FUNC_0
+ieee80211_set_disassoc,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+ieee80211_sta_connection_lost,FUNC_4
+sdata,VAR_2
+bssid,VAR_3
+reason,VAR_4
+tx,VAR_5
+ifmgd,VAR_6
+frame_buf,VAR_7

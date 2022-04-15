@@ -1,0 +1,14 @@
+DS2781_SFR,VAR_0
+DS2781_SFR_PIOSC,VAR_1
+ds2781_read8,FUNC_0
+sprintf,FUNC_1
+to_ds2781_device_info,FUNC_2
+to_power_supply,FUNC_3
+ds2781_get_pio_pin,FUNC_4
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+ret,VAR_5
+sfr,VAR_6
+psy,VAR_7
+dev_info,VAR_8

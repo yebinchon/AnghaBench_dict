@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+RESOURCE_VIDEO0,VAR_2
+V4L2_BUF_TYPE_VIDEO_CAPTURE,VAR_3
+get_queue,FUNC_0
+get_resource,FUNC_1
+res_get,FUNC_2
+unlikely,FUNC_3
+videobuf_streamon,FUNC_4
+vidioc_streamon,FUNC_5
+file,VAR_4
+priv,VAR_5
+i,VAR_6
+fh,VAR_7
+dev,VAR_8

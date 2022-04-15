@@ -1,0 +1,15 @@
+BE2_MAX_SESSIONS,VAR_0
+BEISCSI_MAX_CMD_LEN,VAR_1
+BEISCSI_NUM_MAX_LUN,VAR_2
+beiscsi_scsi_transport,VAR_3
+beiscsi_sht,VAR_4
+dev_err,FUNC_0
+iscsi_host_alloc,FUNC_1
+iscsi_host_priv,FUNC_2
+memset,FUNC_3
+pci_dev_get,FUNC_4
+pci_set_drvdata,FUNC_5
+beiscsi_hba_alloc,FUNC_6
+pcidev,VAR_5
+phba,VAR_6
+shost,VAR_7

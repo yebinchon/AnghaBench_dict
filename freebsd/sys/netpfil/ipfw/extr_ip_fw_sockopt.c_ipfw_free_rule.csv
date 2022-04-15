@@ -1,0 +1,6 @@
+M_IPFW,VAR_0
+V_ipfw_cntr_zone,VAR_1
+free,FUNC_0
+uma_zfree_pcpu,FUNC_1
+ipfw_free_rule,FUNC_2
+rule,VAR_2

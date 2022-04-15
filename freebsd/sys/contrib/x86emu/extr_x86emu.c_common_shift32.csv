@@ -1,0 +1,14 @@
+decode_and_fetch_long,FUNC_0
+decode_and_fetch_long_imm8,FUNC_1
+decode_rh_long_register,FUNC_2
+fetch_decode_modrm,FUNC_3
+shld_long,FUNC_4
+shrd_long,FUNC_5
+write_back_long,FUNC_6
+common_shift32,FUNC_7
+emu,VAR_0
+shift_left,VAR_1
+use_cl,VAR_2
+shift,VAR_3
+destval,VAR_4
+shiftreg,VAR_5

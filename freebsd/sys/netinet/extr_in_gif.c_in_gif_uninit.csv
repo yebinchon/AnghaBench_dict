@@ -1,0 +1,13 @@
+GIF_WAIT,FUNC_0
+IS_DEFAULT_VNET,FUNC_1
+V_ipv4_hashtbl,VAR_0
+V_ipv4_srchashtbl,VAR_1
+curvnet,VAR_2
+gif_hashdestroy,FUNC_2
+ip_encap_detach,FUNC_3
+ip_encap_unregister_srcaddr,FUNC_4
+ipv4_encap_cfg,VAR_3
+ipv4_srcaddrtab,VAR_4
+nitems,FUNC_5
+in_gif_uninit,FUNC_6
+i,VAR_5

@@ -1,0 +1,13 @@
+IFM_ACTIVE,VAR_0
+IFM_AVALID,VAR_1
+LINK_STATE_DOWN,VAR_2
+LINK_STATE_UNKNOWN,VAR_3
+LINK_STATE_UP,VAR_4
+device_get_softc,FUNC_0
+iflib_get_softc,FUNC_1
+iflib_link_state_change,FUNC_2
+mgb_miibus_linkchg,FUNC_3
+dev,VAR_5
+sc,VAR_6
+miid,VAR_7
+link_state,VAR_8

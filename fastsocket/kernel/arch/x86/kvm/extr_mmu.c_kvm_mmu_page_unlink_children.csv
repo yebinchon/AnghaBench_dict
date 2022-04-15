@@ -1,0 +1,15 @@
+PT64_BASE_ADDR_MASK,VAR_0
+PT64_ENT_PER_PAGE,VAR_1
+is_large_pte,FUNC_0
+is_last_spte,FUNC_1
+is_shadow_present_pte,FUNC_2
+mmu_page_remove_parent_pte,FUNC_3
+page_header,FUNC_4
+rmap_remove,FUNC_5
+shadow_trap_nonpresent_pte,VAR_2
+kvm_mmu_page_unlink_children,FUNC_6
+kvm,VAR_3
+sp,VAR_4
+i,VAR_5
+pt,VAR_6
+ent,VAR_7

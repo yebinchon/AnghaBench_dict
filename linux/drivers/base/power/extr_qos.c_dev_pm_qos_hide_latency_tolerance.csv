@@ -1,0 +1,10 @@
+PM_QOS_LATENCY_TOLERANCE_NO_CONSTRAINT,VAR_0
+dev_pm_qos_sysfs_mtx,VAR_1
+dev_pm_qos_update_user_latency_tolerance,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pm_qos_sysfs_remove_latency_tolerance,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put,FUNC_5
+dev_pm_qos_hide_latency_tolerance,FUNC_6
+dev,VAR_2

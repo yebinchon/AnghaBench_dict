@@ -1,0 +1,17 @@
+B_FALSE,VAR_0
+B_TRUE,VAR_1
+CS_CHECKPOINT_DISCARDING,VAR_2
+CS_CHECKPOINT_EXISTS,VAR_3
+CS_NONE,VAR_4
+ZPOOL_CONFIG_CHECKPOINT_STATS,VAR_5
+ZPOOL_CONFIG_VDEV_TREE,VAR_6
+assert,FUNC_0
+fnvlist_lookup_nvlist,FUNC_1
+nvlist_lookup_uint64_array,FUNC_2
+zpool_get_config,FUNC_3
+zpool_has_checkpoint,FUNC_4
+zhp,VAR_7
+config,VAR_8
+nvroot,VAR_9
+pcs,VAR_10
+c,VAR_11

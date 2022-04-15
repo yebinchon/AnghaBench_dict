@@ -1,0 +1,16 @@
+BNXT_HWRM_LOCK,FUNC_0
+BNXT_HWRM_UNLOCK,FUNC_1
+EDOOFUS,VAR_0
+HWRM_NA_SIGNATURE,VAR_1
+HWRM_RING_GRP_ALLOC,VAR_2
+_hwrm_send_message,FUNC_2
+bnxt_hwrm_cmd_hdr_init,FUNC_3
+device_printf,FUNC_4
+htole16,FUNC_5
+le32toh,FUNC_6
+bnxt_hwrm_ring_grp_alloc,FUNC_7
+softc,VAR_3
+grp,VAR_4
+req,VAR_5
+resp,VAR_6
+rc,VAR_7

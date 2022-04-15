@@ -1,0 +1,8 @@
+NXP_NCI_FW_CRC_LEN,VAR_0
+get_unaligned_be16,FUNC_0
+nxp_nci_fw_crc,FUNC_1
+nxp_nci_fw_check_crc,FUNC_2
+skb,VAR_1
+crc,VAR_2
+frame_crc,VAR_3
+len,VAR_4

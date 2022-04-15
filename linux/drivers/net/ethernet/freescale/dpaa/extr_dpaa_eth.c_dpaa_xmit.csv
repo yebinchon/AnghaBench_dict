@@ -1,0 +1,17 @@
+DPAA_ENQUEUE_RETRIES,VAR_0
+EBUSY,VAR_1
+FSL_DPAA_BPID_INV,VAR_2
+cpu_to_be32,FUNC_0
+qm_fd_get_length,FUNC_1
+qman_enqueue,FUNC_2
+qman_fq_fqid,FUNC_3
+trace_dpaa_tx_fd,FUNC_4
+unlikely,FUNC_5
+dpaa_xmit,FUNC_6
+priv,VAR_3
+percpu_stats,VAR_4
+queue,VAR_5
+fd,VAR_6
+egress_fq,VAR_7
+err,VAR_8
+i,VAR_9

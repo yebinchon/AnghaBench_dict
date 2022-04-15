@@ -1,0 +1,8 @@
+MIPS_CPU_IRQ_BASE,VAR_0
+clear_c0_cause,FUNC_0
+dvpe,FUNC_1
+evpe,FUNC_2
+unmask_mips_mt_irq,FUNC_3
+mips_mt_cpu_irq_startup,FUNC_4
+irq,VAR_1
+vpflags,VAR_2

@@ -1,0 +1,16 @@
+RXINT_MASK,VAR_0
+R_ENABLE,VAR_1
+TXINT_MASK,VAR_2
+arc_emac_rx,FUNC_0
+arc_emac_rx_miss_handle,FUNC_1
+arc_emac_rx_stall_check,FUNC_2
+arc_emac_tx_clean,FUNC_3
+arc_reg_or,FUNC_4
+napi_complete_done,FUNC_5
+netdev_priv,FUNC_6
+arc_emac_poll,FUNC_7
+napi,VAR_3
+budget,VAR_4
+ndev,VAR_5
+priv,VAR_6
+work_done,VAR_7

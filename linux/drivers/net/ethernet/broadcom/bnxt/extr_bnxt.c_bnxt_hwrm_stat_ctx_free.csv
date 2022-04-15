@@ -1,0 +1,16 @@
+BNXT_CHIP_TYPE_NITRO_A0,FUNC_0
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_STAT_CTX_FREE,VAR_1
+INVALID_STATS_CTX_ID,VAR_2
+_hwrm_send_message,FUNC_1
+bnxt_hwrm_cmd_hdr_init,FUNC_2
+cpu_to_le32,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+bnxt_hwrm_stat_ctx_free,FUNC_6
+bp,VAR_3
+rc,VAR_4
+i,VAR_5
+req,VAR_6
+bnapi,VAR_7
+cpr,VAR_8

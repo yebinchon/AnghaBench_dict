@@ -1,0 +1,13 @@
+MSR_IDT_FCR1,VAR_0
+X86_CR4_MCE,VAR_1
+cr4_set_bits,FUNC_0
+machine_check_vector,VAR_2
+pr_info,FUNC_1
+rdmsr,FUNC_2
+winchip_machine_check,VAR_3
+wmb,FUNC_3
+wrmsr,FUNC_4
+winchip_mcheck_init,FUNC_5
+c,VAR_4
+lo,VAR_5
+hi,VAR_6

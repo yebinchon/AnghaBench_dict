@@ -1,0 +1,17 @@
+R7XX_MAX_BACKENDS,VAR_0
+R7XX_MAX_PIPES,VAR_1
+RADEON_FAMILY_MASK,VAR_2
+memset,FUNC_0
+r700_get_tile_pipe_to_backend_map,FUNC_1
+dev_priv,VAR_3
+num_tile_pipes,VAR_4
+num_backends,VAR_5
+backend_disable_mask,VAR_6
+backend_map,VAR_7
+enabled_backends_mask,VAR_8
+enabled_backends_count,VAR_9
+cur_pipe,VAR_10
+swizzle_pipe,VAR_11
+cur_backend,VAR_12
+i,VAR_13
+force_no_swizzle,VAR_14

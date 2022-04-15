@@ -1,0 +1,14 @@
+INTR_MPSAFE,VAR_0
+INTR_TYPE_CAM,VAR_1
+RF_ACTIVE,VAR_2
+RF_SHAREABLE,VAR_3
+SCIC_LEGACY_LINE_INTERRUPT_TYPE,VAR_4
+SYS_RES_IRQ,VAR_5
+bus_alloc_resource_any,FUNC_0
+bus_setup_intr,FUNC_1
+isci_interrupt_legacy_handler,VAR_6
+isci_log_message,FUNC_2
+scic_controller_get_handler_methods,FUNC_3
+isci_interrupt_setup_legacy,FUNC_4
+isci,VAR_7
+interrupt_info,VAR_8

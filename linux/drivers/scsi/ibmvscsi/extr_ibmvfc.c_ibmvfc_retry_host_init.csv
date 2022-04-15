@@ -1,0 +1,12 @@
+IBMVFC_HOST_ACTION_INIT,VAR_0
+IBMVFC_HOST_ACTION_INIT_WAIT,VAR_1
+IBMVFC_HOST_OFFLINE,VAR_2
+IBMVFC_MAX_HOST_INIT_RETRIES,VAR_3
+__ibmvfc_reset_host,FUNC_0
+dev_err,FUNC_1
+ibmvfc_link_down,FUNC_2
+ibmvfc_set_host_action,FUNC_3
+wake_up,FUNC_4
+ibmvfc_retry_host_init,FUNC_5
+vhost,VAR_4
+retry,VAR_5

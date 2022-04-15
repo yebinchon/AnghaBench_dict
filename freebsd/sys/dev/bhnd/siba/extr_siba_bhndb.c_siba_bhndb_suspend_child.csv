@@ -1,0 +1,10 @@
+BUS_SUSPEND_CHILD,FUNC_0
+bhnd_generic_br_suspend_child,FUNC_1
+device_get_ivars,FUNC_2
+device_get_parent,FUNC_3
+siba_bhndb_suspend_cfgblocks,FUNC_4
+siba_bhndb_suspend_child,FUNC_5
+dev,VAR_0
+child,VAR_1
+dinfo,VAR_2
+error,VAR_3

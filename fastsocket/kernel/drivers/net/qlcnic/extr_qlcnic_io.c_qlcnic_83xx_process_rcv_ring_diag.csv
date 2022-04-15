@@ -1,0 +1,17 @@
+QLCNIC_FETCH_RING_ID,FUNC_0
+STATUS_OWNER_PHANTOM,VAR_0
+cpu_to_le64,FUNC_1
+get_next_index,FUNC_2
+le64_to_cpu,FUNC_3
+qlcnic_83xx_hndl,FUNC_4
+qlcnic_83xx_opcode,FUNC_5
+qlcnic_83xx_process_rcv_diag,FUNC_6
+writel,FUNC_7
+qlcnic_83xx_process_rcv_ring_diag,FUNC_8
+sds_ring,VAR_1
+adapter,VAR_2
+desc,VAR_3
+sts_data,VAR_4
+ring,VAR_5
+opcode,VAR_6
+consumer,VAR_7

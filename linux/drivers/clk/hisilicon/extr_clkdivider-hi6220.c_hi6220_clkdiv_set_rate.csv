@@ -1,0 +1,16 @@
+CLK_DIVIDER_ROUND_CLOSEST,VAR_0
+div_mask,FUNC_0
+divider_get_val,FUNC_1
+readl_relaxed,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_hi6220_clk_divider,FUNC_5
+writel_relaxed,FUNC_6
+hi6220_clkdiv_set_rate,FUNC_7
+hw,VAR_1
+rate,VAR_2
+parent_rate,VAR_3
+value,VAR_4
+flags,VAR_5
+data,VAR_6
+dclk,VAR_7

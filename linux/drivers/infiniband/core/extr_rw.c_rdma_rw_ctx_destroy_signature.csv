@@ -1,0 +1,14 @@
+RDMA_RW_SIG_MR,VAR_0
+WARN_ON_ONCE,FUNC_0
+ib_dma_unmap_sg,FUNC_1
+ib_mr_pool_put,FUNC_2
+kfree,FUNC_3
+rdma_rw_ctx_destroy_signature,FUNC_4
+ctx,VAR_1
+qp,VAR_2
+port_num,VAR_3
+sg,VAR_4
+sg_cnt,VAR_5
+prot_sg,VAR_6
+prot_sg_cnt,VAR_7
+dir,VAR_8

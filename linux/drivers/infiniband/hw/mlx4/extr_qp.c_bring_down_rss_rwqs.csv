@@ -1,0 +1,13 @@
+IB_WQS_RDY,VAR_0
+IB_WQS_RESET,VAR_1
+_mlx4_ib_modify_wq,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+pr_warn,FUNC_3
+to_mqp,FUNC_4
+bring_down_rss_rwqs,FUNC_5
+ind_tbl,VAR_2
+udata,VAR_3
+i,VAR_4
+ibwq,VAR_5
+wq,VAR_6

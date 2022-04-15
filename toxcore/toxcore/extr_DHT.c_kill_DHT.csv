@@ -1,0 +1,12 @@
+CRYPTO_PACKET_HARDENING,VAR_0
+CRYPTO_PACKET_NAT_PING,VAR_1
+NET_PACKET_GET_NODES,VAR_2
+NET_PACKET_SEND_NODES_IPV6,VAR_3
+cryptopacket_registerhandler,FUNC_0
+free,FUNC_1
+kill_Assoc,FUNC_2
+kill_ping,FUNC_3
+networking_registerhandler,FUNC_4
+ping_array_free_all,FUNC_5
+kill_DHT,FUNC_6
+dht,VAR_4

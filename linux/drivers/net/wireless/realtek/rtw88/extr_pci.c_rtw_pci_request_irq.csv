@@ -1,0 +1,16 @@
+IRQF_SHARED,VAR_0
+KBUILD_MODNAME,VAR_1
+PCI_IRQ_LEGACY,VAR_2
+PCI_IRQ_MSI,VAR_3
+devm_request_threaded_irq,FUNC_0
+pci_alloc_irq_vectors,FUNC_1
+pci_free_irq_vectors,FUNC_2
+rtw_disable_msi,VAR_4
+rtw_err,FUNC_3
+rtw_pci_interrupt_handler,VAR_5
+rtw_pci_interrupt_threadfn,VAR_6
+rtw_pci_request_irq,FUNC_4
+rtwdev,VAR_7
+pdev,VAR_8
+flags,VAR_9
+ret,VAR_10

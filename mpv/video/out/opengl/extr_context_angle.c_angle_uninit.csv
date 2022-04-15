@@ -1,0 +1,12 @@
+DwmEnableMMCSS,FUNC_0
+FALSE,VAR_0
+context_destroy,FUNC_1
+d3d11_device_destroy,FUNC_2
+d3d11_swapchain_surface_destroy,FUNC_3
+d3d9_device_destroy,FUNC_4
+egl_window_surface_destroy,FUNC_5
+ra_gl_ctx_uninit,FUNC_6
+vo_w32_uninit,FUNC_7
+angle_uninit,FUNC_8
+ctx,VAR_1
+p,VAR_2

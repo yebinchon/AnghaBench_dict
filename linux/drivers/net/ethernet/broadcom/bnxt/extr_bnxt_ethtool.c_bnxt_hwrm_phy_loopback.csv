@@ -1,0 +1,15 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_PORT_PHY_CFG,VAR_1
+PORT_PHY_CFG_REQ_ENABLES_LPBK,VAR_2
+PORT_PHY_CFG_REQ_LPBK_EXTERNAL,VAR_3
+PORT_PHY_CFG_REQ_LPBK_LOCAL,VAR_4
+PORT_PHY_CFG_REQ_LPBK_NONE,VAR_5
+bnxt_disable_an_for_lpbk,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+cpu_to_le32,FUNC_2
+hwrm_send_message,FUNC_3
+bnxt_hwrm_phy_loopback,FUNC_4
+bp,VAR_6
+enable,VAR_7
+ext,VAR_8
+req,VAR_9

@@ -1,0 +1,11 @@
+REQ_OP_ZONE_RESET_ALL,VAR_0
+bio_alloc,FUNC_0
+bio_put,FUNC_1
+bio_set_dev,FUNC_2
+bio_set_op_attrs,FUNC_3
+submit_bio_wait,FUNC_4
+__blkdev_reset_all_zones,FUNC_5
+bdev,VAR_1
+gfp_mask,VAR_2
+bio,VAR_3
+ret,VAR_4

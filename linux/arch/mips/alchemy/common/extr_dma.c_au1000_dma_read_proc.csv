@@ -1,0 +1,13 @@
+NUM_AU1000_DMA_CHANNELS,VAR_0
+get_dma_chan,FUNC_0
+sprintf,FUNC_1
+au1000_dma_read_proc,FUNC_2
+buf,VAR_1
+start,VAR_2
+fpos,VAR_3
+length,VAR_4
+eof,VAR_5
+data,VAR_6
+i,VAR_7
+len,VAR_8
+chan,VAR_9

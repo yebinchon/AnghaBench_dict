@@ -1,0 +1,17 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+CY8CTMG110_REG_MAX,VAR_3
+CY8CTMG110_TOUCH_X1,VAR_4
+EIO,VAR_5
+cy8ctmg110_read_regs,FUNC_0
+input_report_abs,FUNC_1
+input_report_key,FUNC_2
+input_sync,FUNC_3
+memset,FUNC_4
+cy8ctmg110_touch_pos,FUNC_5
+tsc,VAR_6
+input,VAR_7
+reg_p,VAR_8
+x,VAR_9
+y,VAR_10

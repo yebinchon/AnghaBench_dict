@@ -1,0 +1,12 @@
+EBUSY,VAR_0
+ERESTARTSYS,VAR_1
+ETIMEDOUT,VAR_2
+etnaviv_timeout_to_jiffies,FUNC_0
+is_active,FUNC_1
+wait_event_interruptible_timeout,FUNC_2
+etnaviv_gpu_wait_obj_inactive,FUNC_3
+gpu,VAR_3
+etnaviv_obj,VAR_4
+timeout,VAR_5
+remaining,VAR_6
+ret,VAR_7

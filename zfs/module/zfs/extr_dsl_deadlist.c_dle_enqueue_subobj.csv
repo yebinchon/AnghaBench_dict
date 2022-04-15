@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+MUTEX_HELD,FUNC_1
+VERIFY0,FUNC_2
+bpobj_close,FUNC_3
+bpobj_decr_empty,FUNC_4
+bpobj_enqueue_subobj,FUNC_5
+bpobj_open,FUNC_6
+dmu_objset_pool,FUNC_7
+zap_update_int_key,FUNC_8
+dle_enqueue_subobj,FUNC_9
+dl,VAR_0
+dle,VAR_1
+obj,VAR_2
+tx,VAR_3

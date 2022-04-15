@@ -1,0 +1,15 @@
+AV_PKT_FLAG_KEY,VAR_0
+AV_WB32,FUNC_0
+RT_BYTE_ENCODED,VAR_1
+bytestream2_init_writer,FUNC_1
+bytestream2_tell_p,FUNC_2
+ff_alloc_packet2,FUNC_3
+sunrast_image_write_header,FUNC_4
+sunrast_image_write_image,FUNC_5
+sunrast_encode_frame,FUNC_6
+avctx,VAR_2
+avpkt,VAR_3
+frame,VAR_4
+got_packet_ptr,VAR_5
+s,VAR_6
+ret,VAR_7

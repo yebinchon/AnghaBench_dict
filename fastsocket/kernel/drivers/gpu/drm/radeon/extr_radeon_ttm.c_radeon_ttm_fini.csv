@@ -1,0 +1,14 @@
+DRM_INFO,FUNC_0
+TTM_PL_TT,VAR_0
+TTM_PL_VRAM,VAR_1
+radeon_bo_reserve,FUNC_1
+radeon_bo_unpin,FUNC_2
+radeon_bo_unref,FUNC_3
+radeon_bo_unreserve,FUNC_4
+radeon_gart_fini,FUNC_5
+radeon_ttm_global_fini,FUNC_6
+ttm_bo_clean_mm,FUNC_7
+ttm_bo_device_release,FUNC_8
+radeon_ttm_fini,FUNC_9
+rdev,VAR_2
+r,VAR_3

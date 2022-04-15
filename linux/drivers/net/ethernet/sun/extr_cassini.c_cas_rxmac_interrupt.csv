@@ -1,0 +1,15 @@
+MAC_RX_ALIGN_ERR,VAR_0
+MAC_RX_CRC_ERR,VAR_1
+MAC_RX_LEN_ERR,VAR_2
+MAC_RX_OVERFLOW,VAR_3
+REG_MAC_RX_STATUS,VAR_4
+intr,VAR_5
+netif_dbg,FUNC_0
+readl,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+cas_rxmac_interrupt,FUNC_4
+dev,VAR_6
+cp,VAR_7
+status,VAR_8
+stat,VAR_9

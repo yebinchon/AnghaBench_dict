@@ -1,0 +1,12 @@
+__core_scsi3_write_aptpl_to_file,FUNC_0
+core_scsi3_update_aptpl_buf,FUNC_1
+memset,FUNC_2
+core_scsi3_update_and_write_aptpl,FUNC_3
+dev,VAR_0
+in_buf,VAR_1
+in_pr_aptpl_buf_len,VAR_2
+null_buf,VAR_3
+buf,VAR_4
+pr_aptpl_buf_len,VAR_5
+clear_aptpl_metadata,VAR_6
+ret,VAR_7

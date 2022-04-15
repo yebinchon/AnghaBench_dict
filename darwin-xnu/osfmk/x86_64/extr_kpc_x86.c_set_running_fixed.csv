@@ -1,0 +1,16 @@
+FALSE,VAR_0
+IA32_FIXED_CTR_ENABLE_ALL_CTRS_ALL_RINGS,VAR_1
+IA32_FIXED_CTR_ENABLE_ALL_PMI,VAR_2
+MSR_IA32_PERF_FIXED_CTR_CTRL,VAR_3
+MSR_IA32_PERF_GLOBAL_CTRL,VAR_4
+kpc_fixed_count,FUNC_0
+ml_set_interrupts_enabled,FUNC_1
+rdmsr64,FUNC_2
+wrmsr64,FUNC_3
+set_running_fixed,FUNC_4
+on,VAR_5
+global,VAR_6
+mask,VAR_7
+fixed_ctrl,VAR_8
+i,VAR_9
+enabled,VAR_10

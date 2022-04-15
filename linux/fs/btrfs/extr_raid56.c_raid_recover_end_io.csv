@@ -1,0 +1,11 @@
+BLK_STS_IOERR,VAR_0
+__raid_recover_end_io,FUNC_0
+atomic_dec_and_test,FUNC_1
+atomic_read,FUNC_2
+bio_put,FUNC_3
+fail_bio_stripe,FUNC_4
+rbio_orig_end_io,FUNC_5
+set_bio_pages_uptodate,FUNC_6
+raid_recover_end_io,FUNC_7
+bio,VAR_1
+rbio,VAR_2

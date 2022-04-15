@@ -1,0 +1,11 @@
+CreateEvent,FUNC_0
+FALSE,VAR_0
+PTHREAD_CANCEL_ASYNCHRONOUS,VAR_1
+PTHREAD_CANCEL_ENABLE,VAR_2
+WaitForSingleObject,FUNC_1
+pthread_setcancelstate,FUNC_2
+pthread_setcanceltype,FUNC_3
+test_wait,FUNC_4
+arg,VAR_3
+hEvent,VAR_4
+dwEvent,VAR_5

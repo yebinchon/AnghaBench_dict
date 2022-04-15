@@ -1,0 +1,14 @@
+KASSERT,FUNC_0
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_get_softc,FUNC_3
+free,FUNC_4
+gpiobus_detach_bus,FUNC_5
+mtx_destroy,FUNC_6
+mtx_initialized,FUNC_7
+ar5315_gpio_detach,FUNC_8
+dev,VAR_3
+sc,VAR_4

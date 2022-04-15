@@ -1,0 +1,15 @@
+ACPI_FUNCTION_TRACE,FUNC_0
+ACPI_NUM_MUTEX,VAR_0
+AcpiGbl_GpeLock,VAR_1
+AcpiGbl_HardwareLock,VAR_2
+AcpiGbl_NamespaceRwLock,VAR_3
+AcpiGbl_OsiMutex,VAR_4
+AcpiGbl_ReferenceCountLock,VAR_5
+AcpiOsDeleteLock,FUNC_1
+AcpiOsDeleteMutex,FUNC_2
+AcpiUtDeleteMutex,FUNC_3
+AcpiUtDeleteRwLock,FUNC_4
+UtMutexTerminate,VAR_6
+return_VOID,VAR_7
+AcpiUtMutexTerminate,FUNC_5
+i,VAR_8

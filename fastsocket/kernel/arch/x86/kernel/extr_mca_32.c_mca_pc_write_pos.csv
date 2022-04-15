@@ -1,0 +1,12 @@
+MCA_ADAPTER_SETUP_REG,VAR_0
+MCA_MOTHERBOARD_SETUP_REG,VAR_1
+MCA_POS_REG,FUNC_0
+mca_lock,VAR_2
+outb_p,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+mca_pc_write_pos,FUNC_4
+mca_dev,VAR_3
+reg,VAR_4
+byte,VAR_5
+flags,VAR_6

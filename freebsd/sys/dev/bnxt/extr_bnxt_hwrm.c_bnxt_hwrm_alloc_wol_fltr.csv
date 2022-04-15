@@ -1,0 +1,14 @@
+ETHER_ADDR_LEN,VAR_0
+HWRM_WOL_FILTER_ALLOC,VAR_1
+HWRM_WOL_FILTER_ALLOC_INPUT_ENABLES_MAC_ADDRESS,VAR_2
+HWRM_WOL_FILTER_ALLOC_INPUT_WOL_TYPE_MAGICPKT,VAR_3
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+htole16,FUNC_1
+htole32,FUNC_2
+hwrm_send_message,FUNC_3
+memcpy,FUNC_4
+bnxt_hwrm_alloc_wol_fltr,FUNC_5
+softc,VAR_4
+req,VAR_5
+resp,VAR_6
+rc,VAR_7

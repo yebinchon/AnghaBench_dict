@@ -1,0 +1,8 @@
+NF_ACCEPT,VAR_0
+br_drop_fake_rtable,FUNC_0
+br_nf_local_in,FUNC_1
+hook,VAR_1
+skb,VAR_2
+in,VAR_3
+out,VAR_4
+okfn,VAR_5

@@ -1,0 +1,14 @@
+AXE_CMD_RXCTL_READ,VAR_0
+AXE_CMD_RXCTL_WRITE,VAR_1
+AXE_RXCMD_PROMISC,VAR_2
+IFF_PROMISC,VAR_3
+axe_cmd,FUNC_0
+axe_setmulti,FUNC_1
+le16toh,FUNC_2
+uether_getifp,FUNC_3
+uether_getsc,FUNC_4
+axe_setpromisc,FUNC_5
+ue,VAR_4
+sc,VAR_5
+ifp,VAR_6
+rxmode,VAR_7

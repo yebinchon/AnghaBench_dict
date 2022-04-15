@@ -1,0 +1,13 @@
+AMD_CG_STATE_UNGATE,VAR_0
+AMD_IP_BLOCK_TYPE_UVD,VAR_1
+AMD_PG_STATE_UNGATE,VAR_2
+amdgpu_asic_set_uvd_clocks,FUNC_0
+amdgpu_device_ip_set_clockgating_state,FUNC_1
+amdgpu_device_ip_set_powergating_state,FUNC_2
+amdgpu_dpm_enable_uvd,FUNC_3
+amdgpu_sriov_vf,FUNC_4
+cancel_delayed_work_sync,FUNC_5
+amdgpu_uvd_ring_begin_use,FUNC_6
+ring,VAR_3
+adev,VAR_4
+set_clocks,VAR_5

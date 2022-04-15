@@ -1,0 +1,14 @@
+GCRY_PK_DSA,VAR_0
+GCRY_PK_RSA,VAR_1
+READ_MPI,FUNC_0
+VLC_EGENERIC,VAR_2
+VLC_SUCCESS,VAR_3
+assert,FUNC_1
+free,FUNC_2
+parse_signature_v3_packet,FUNC_3
+parse_signature_v4_packet,FUNC_4
+parse_signature_packet,FUNC_5
+p_sig,VAR_4
+p_buf,VAR_5
+i_packet_len,VAR_6
+i_read,VAR_7

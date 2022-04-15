@@ -1,0 +1,15 @@
+MSR_FP,VAR_0
+MSR_SPE,VAR_1
+MSR_VEC,VAR_2
+MSR_VSX,VAR_3
+WARN_ON,FUNC_0
+__giveup_altivec,FUNC_1
+__giveup_fpu,FUNC_2
+__giveup_spe,FUNC_3
+check_if_tm_restore_required,FUNC_4
+msr_all_available,VAR_4
+msr_check_and_clear,FUNC_5
+msr_check_and_set,FUNC_6
+giveup_all,FUNC_7
+tsk,VAR_5
+usermsr,VAR_6

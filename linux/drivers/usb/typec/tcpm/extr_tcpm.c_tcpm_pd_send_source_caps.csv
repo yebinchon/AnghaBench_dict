@@ -1,0 +1,11 @@
+PD_CTRL_REJECT,VAR_0
+PD_DATA_SOURCE_CAP,VAR_1
+PD_HEADER_LE,FUNC_0
+TCPC_TX_SOP,VAR_2
+cpu_to_le32,FUNC_1
+memset,FUNC_2
+tcpm_pd_transmit,FUNC_3
+tcpm_pd_send_source_caps,FUNC_4
+port,VAR_3
+msg,VAR_4
+i,VAR_5

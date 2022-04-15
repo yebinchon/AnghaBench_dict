@@ -1,0 +1,15 @@
+IH_GPIO_BASE,VAR_0
+IRQ_TYPE_SENSE_MASK,VAR_1
+_clear_gpio_irqstatus,FUNC_0
+_set_gpio_irqenable,FUNC_1
+_set_gpio_triggering,FUNC_2
+get_gpio_index,FUNC_3
+get_irq_chip_data,FUNC_4
+irq_to_desc,FUNC_5
+gpio_unmask_irq,FUNC_6
+irq,VAR_2
+gpio,VAR_3
+bank,VAR_4
+irq_mask,VAR_5
+desc,VAR_6
+trigger,VAR_7

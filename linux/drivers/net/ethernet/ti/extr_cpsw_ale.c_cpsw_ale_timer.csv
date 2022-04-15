@@ -1,0 +1,10 @@
+ALE_AGEOUT,VAR_0
+add_timer,FUNC_0
+ale,VAR_1
+cpsw_ale_control_set,FUNC_1
+from_timer,FUNC_2
+jiffies,VAR_2
+timer,VAR_3
+cpsw_ale_timer,FUNC_3
+t,VAR_4
+ale,VAR_5

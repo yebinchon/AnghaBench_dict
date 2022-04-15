@@ -1,0 +1,12 @@
+ETH_P_IP,VAR_0
+GFP_KERNEL,VAR_1
+HNS_LB_TX_RING,VAR_2
+alloc_skb,FUNC_0
+htons,FUNC_1
+memset,FUNC_2
+skb_put,FUNC_3
+hns_assemble_skb,FUNC_4
+ndev,VAR_3
+skb,VAR_4
+ethhdr,VAR_5
+frame_len,VAR_6

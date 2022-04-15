@@ -1,0 +1,13 @@
+VLC_SUCCESS,VAR_0
+luaL_checkstring,FUNC_0
+lua_newtable,FUNC_1
+lua_pushstring,FUNC_2
+lua_rawseti,FUNC_3
+vlclua_dir_list,FUNC_4
+vlclua_dir_list_free,FUNC_5
+vlclua_datadir_list,FUNC_6
+L,VAR_1
+psz_dirname,VAR_2
+ppsz_dir_list,VAR_3
+i,VAR_4
+ppsz_dir,VAR_5

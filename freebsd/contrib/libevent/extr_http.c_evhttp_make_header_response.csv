@@ -1,0 +1,16 @@
+EVHTTP_PROXY_REQUEST,VAR_0
+bufferevent_get_output,FUNC_0
+evbuffer_add_printf,FUNC_1
+evbuffer_get_length,FUNC_2
+evhttp_add_header,FUNC_3
+evhttp_find_header,FUNC_4
+evhttp_is_connection_close,FUNC_5
+evhttp_is_connection_keepalive,FUNC_6
+evhttp_maybe_add_content_length_header,FUNC_7
+evhttp_maybe_add_date_header,FUNC_8
+evhttp_remove_header,FUNC_9
+evhttp_response_needs_body,FUNC_10
+evhttp_make_header_response,FUNC_11
+evcon,VAR_1
+req,VAR_2
+is_keepalive,VAR_3

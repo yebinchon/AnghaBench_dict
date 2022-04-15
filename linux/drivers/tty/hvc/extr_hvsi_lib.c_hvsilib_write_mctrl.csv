@@ -1,0 +1,13 @@
+HVSI_TSDTR,VAR_0
+TIOCM_DTR,VAR_1
+VSV_SET_MODEM_CTL,VAR_2
+VS_CONTROL_PACKET_HEADER,VAR_3
+cpu_to_be16,FUNC_0
+cpu_to_be32,FUNC_1
+hvsi_send_packet,FUNC_2
+pr_devel,FUNC_3
+hvsilib_write_mctrl,FUNC_4
+pv,VAR_4
+dtr,VAR_5
+ctrl,VAR_6
+mctrl,VAR_7

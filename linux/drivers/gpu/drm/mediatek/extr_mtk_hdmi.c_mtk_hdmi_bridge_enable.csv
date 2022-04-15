@@ -1,0 +1,10 @@
+MTK_HDMI_CLK_HDMI_PIXEL,VAR_0
+MTK_HDMI_CLK_HDMI_PLL,VAR_1
+clk_prepare_enable,FUNC_0
+hdmi_ctx_from_bridge,FUNC_1
+mtk_hdmi_output_set_display_mode,FUNC_2
+mtk_hdmi_send_infoframe,FUNC_3
+phy_power_on,FUNC_4
+mtk_hdmi_bridge_enable,FUNC_5
+bridge,VAR_2
+hdmi,VAR_3

@@ -1,0 +1,17 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+MA_OWNED,VAR_1
+MFI_CMD_DATAIN,VAR_2
+MFI_CMD_POLLED,VAR_3
+MFI_DCMD_CTRL_EVENT_GETINFO,VAR_4
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+device_printf,FUNC_2
+mfi_dcmd_command,FUNC_3
+mfi_mapcmd,FUNC_4
+mfi_release_command,FUNC_5
+mtx_assert,FUNC_6
+mfi_get_log_state,FUNC_7
+sc,VAR_5
+log_state,VAR_6
+cm,VAR_7
+error,VAR_8

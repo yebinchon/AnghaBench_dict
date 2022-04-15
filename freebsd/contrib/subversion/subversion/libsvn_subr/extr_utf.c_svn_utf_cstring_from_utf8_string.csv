@@ -1,0 +1,16 @@
+SVN_ERR,FUNC_0
+SVN_UTF_UTON_XLATE_HANDLE,VAR_0
+apr_pstrmemdup,FUNC_1
+check_non_ascii,FUNC_2
+check_utf8,FUNC_3
+convert_to_stringbuf,FUNC_4
+get_uton_xlate_handle_node,FUNC_5
+put_xlate_handle_node,FUNC_6
+svn_error_compose_create,FUNC_7
+svn_utf_cstring_from_utf8_string,FUNC_8
+dest,VAR_1
+src,VAR_2
+pool,VAR_3
+node,VAR_4
+err,VAR_5
+dbuf,VAR_6

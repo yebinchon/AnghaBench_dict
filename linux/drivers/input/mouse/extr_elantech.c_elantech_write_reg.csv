@@ -1,0 +1,14 @@
+ETP_PS2_CUSTOM_COMMAND,VAR_0
+ETP_REGISTER_READWRITE,VAR_1
+ETP_REGISTER_WRITE,VAR_2
+PSMOUSE_CMD_SETSCALE11,VAR_3
+elantech_ps2_command,FUNC_0
+ps2_command,FUNC_1
+ps2_sliced_command,FUNC_2
+psmouse_err,FUNC_3
+elantech_write_reg,FUNC_4
+psmouse,VAR_4
+reg,VAR_5
+val,VAR_6
+etd,VAR_7
+rc,VAR_8

@@ -1,0 +1,11 @@
+CVMX_CLOCK_CORE,VAR_0
+CVMX_MDIO_TIMEOUT,VAR_1
+CVMX_SMIX_RD_DAT,FUNC_0
+cvmx_clock_get_rate,FUNC_1
+cvmx_get_cycle,FUNC_2
+cvmx_read_csr,FUNC_3
+cvmx_wait,FUNC_4
+__cvmx_mdio_read_rd_dat,FUNC_5
+bus_id,VAR_2
+smi_rd,VAR_3
+done,VAR_4

@@ -1,0 +1,17 @@
+HAP_COMP_COMPLEX,VAR_0
+HAP_HDR_LONG,VAR_1
+HAP_HDR_SHORT,VAR_2
+HAP_ST_COMPRESSOR_TABLE,VAR_3
+HAP_ST_DECODE_INSTRUCTIONS,VAR_4
+HAP_ST_SIZE_TABLE,VAR_5
+bytestream2_init_writer,FUNC_0
+bytestream2_put_byte,FUNC_1
+bytestream2_put_le32,FUNC_2
+hap_decode_instructions_length,FUNC_3
+hap_write_section_header,FUNC_4
+hap_write_frame_header,FUNC_5
+ctx,VAR_6
+dst,VAR_7
+frame_length,VAR_8
+pbc,VAR_9
+i,VAR_10

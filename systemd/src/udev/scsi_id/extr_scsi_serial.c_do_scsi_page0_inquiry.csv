@@ -1,0 +1,12 @@
+MODEL_LENGTH,VAR_0
+VENDOR_LENGTH,VAR_1
+log_debug,FUNC_0
+memzero,FUNC_1
+scsi_inquiry,FUNC_2
+strneq,FUNC_3
+do_scsi_page0_inquiry,FUNC_4
+dev_scsi,VAR_2
+fd,VAR_3
+buffer,VAR_4
+len,VAR_5
+retval,VAR_6

@@ -1,0 +1,13 @@
+EVENT_CHANNEL_LIST_CHANGED,VAR_0
+MSG_DEBUG,VAR_1
+NL80211_ATTR_FREQ_AFTER,VAR_2
+NL80211_ATTR_FREQ_BEFORE,VAR_3
+REGDOM_BEACON_HINT,VAR_4
+nl80211_dump_freq,FUNC_0
+os_memset,FUNC_1
+wpa_printf,FUNC_2
+wpa_supplicant_event,FUNC_3
+nl80211_reg_beacon_hint_event,FUNC_4
+drv,VAR_5
+tb,VAR_6
+data,VAR_7

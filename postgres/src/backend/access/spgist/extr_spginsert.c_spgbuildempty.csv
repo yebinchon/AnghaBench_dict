@@ -1,0 +1,17 @@
+BLCKSZ,VAR_0
+INIT_FORKNUM,VAR_1
+PageSetChecksumInplace,FUNC_0
+SPGIST_LEAF,VAR_2
+SPGIST_METAPAGE_BLKNO,VAR_3
+SPGIST_NULLS,VAR_4
+SPGIST_NULL_BLKNO,VAR_5
+SPGIST_ROOT_BLKNO,VAR_6
+SpGistInitMetapage,FUNC_1
+SpGistInitPage,FUNC_2
+log_newpage,FUNC_3
+palloc,FUNC_4
+smgrimmedsync,FUNC_5
+smgrwrite,FUNC_6
+spgbuildempty,FUNC_7
+index,VAR_7
+page,VAR_8

@@ -1,0 +1,9 @@
+trace_xdp_bulk_tx,FUNC_0
+veth_xdp_xmit,FUNC_1
+xdp_return_frame,FUNC_2
+veth_xdp_flush_bq,FUNC_3
+dev,VAR_0
+bq,VAR_1
+sent,VAR_2
+i,VAR_3
+err,VAR_4

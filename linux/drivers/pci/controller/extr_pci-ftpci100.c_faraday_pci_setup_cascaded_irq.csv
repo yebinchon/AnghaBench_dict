@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+PCI_NUM_INTX,VAR_1
+dev_err,FUNC_0
+faraday_pci_irq_handler,VAR_2
+faraday_pci_irqdomain_ops,VAR_3
+irq_create_mapping,FUNC_1
+irq_domain_add_linear,FUNC_2
+irq_set_chained_handler_and_data,FUNC_3
+of_get_next_child,FUNC_4
+of_irq_get,FUNC_5
+of_node_put,FUNC_6
+faraday_pci_setup_cascaded_irq,FUNC_7
+p,VAR_4
+intc,VAR_5
+irq,VAR_6
+i,VAR_7

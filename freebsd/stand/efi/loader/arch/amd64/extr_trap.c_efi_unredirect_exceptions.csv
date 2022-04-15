@@ -1,0 +1,16 @@
+bare_lgdt,FUNC_0
+free_tables,FUNC_1
+fw_gdt,VAR_0
+fw_idt,VAR_1
+intr_disable,FUNC_2
+intr_restore,FUNC_3
+ist,VAR_2
+lidt,FUNC_4
+lidt_pa,VAR_3
+loader_gdt_pa,VAR_4
+loader_tss,VAR_5
+ltr,FUNC_5
+tss_fw_seg,VAR_6
+tss_pa,VAR_7
+efi_unredirect_exceptions,FUNC_6
+rfl,VAR_8

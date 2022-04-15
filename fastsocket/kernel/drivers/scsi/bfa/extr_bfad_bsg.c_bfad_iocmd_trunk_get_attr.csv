@@ -1,0 +1,15 @@
+BFA_FCPORT_MOD,FUNC_0
+BFA_PORT_TOPOLOGY_LOOP,VAR_0
+BFA_STATUS_OK,VAR_1
+BFA_STATUS_TOPOLOGY_LOOP,VAR_2
+bfa_lps_get_base_pid,FUNC_1
+memcpy,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bfad_iocmd_trunk_get_attr,FUNC_5
+bfad,VAR_3
+cmd,VAR_4
+iocmd,VAR_5
+fcport,VAR_6
+trunk,VAR_7
+flags,VAR_8

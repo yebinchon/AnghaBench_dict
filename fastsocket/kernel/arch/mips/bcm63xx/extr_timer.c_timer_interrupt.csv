@@ -1,0 +1,17 @@
+BCM63XX_TIMER_COUNT,VAR_0
+IRQ_HANDLED,VAR_1
+TIMER_IRQSTAT_REG,VAR_2
+TIMER_IRQSTAT_TIMER_CAUSE,FUNC_0
+bcm_timer_readl,FUNC_1
+bcm_timer_writel,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+stub1,FUNC_5
+timer_data,VAR_3
+timer_data_lock,VAR_4
+timer_reg_lock,VAR_5
+timer_interrupt,FUNC_6
+irq,VAR_6
+dev_id,VAR_7
+stat,VAR_8
+i,VAR_9

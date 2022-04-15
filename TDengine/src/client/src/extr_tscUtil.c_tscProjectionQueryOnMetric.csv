@@ -1,0 +1,16 @@
+TSDB_FUNC_PRJ,VAR_0
+TSDB_FUNC_TAG,VAR_1
+TSDB_FUNC_TAGPRJ,VAR_2
+TSDB_FUNC_TS,VAR_3
+TSDB_SQL_RETRIEVE_EMPTY_RESULT,VAR_4
+UTIL_METER_IS_METRIC,FUNC_0
+assert,FUNC_1
+tscGetMeterMetaInfo,FUNC_2
+tscQueryMetricTags,FUNC_3
+tscSqlExprGet,FUNC_4
+tscProjectionQueryOnMetric,FUNC_5
+pCmd,VAR_5
+pMeterMetaInfo,VAR_6
+i,VAR_7
+pExpr,VAR_8
+functionId,VAR_9

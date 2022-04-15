@@ -1,0 +1,14 @@
+CTA_SEQADJ_CORRECTION_POS,VAR_0
+CTA_SEQADJ_MAX,VAR_1
+CTA_SEQADJ_OFFSET_AFTER,VAR_2
+CTA_SEQADJ_OFFSET_BEFORE,VAR_3
+EINVAL,VAR_4
+nla_get_be32,FUNC_0
+nla_parse_nested_deprecated,FUNC_1
+ntohl,FUNC_2
+seqadj_policy,VAR_5
+change_seq_adj,FUNC_3
+seq,VAR_6
+attr,VAR_7
+err,VAR_8
+cda,VAR_9

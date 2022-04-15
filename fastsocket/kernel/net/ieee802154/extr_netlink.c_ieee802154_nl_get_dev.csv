@@ -1,0 +1,14 @@
+ARPHRD_IEEE802154,VAR_0
+IEEE802154_ATTR_DEV_INDEX,VAR_1
+IEEE802154_ATTR_DEV_NAME,VAR_2
+IFNAMSIZ,VAR_3
+dev_get_by_index,FUNC_0
+dev_get_by_name,FUNC_1
+dev_put,FUNC_2
+init_net,VAR_4
+nla_get_u32,FUNC_3
+nla_strlcpy,FUNC_4
+ieee802154_nl_get_dev,FUNC_5
+info,VAR_5
+dev,VAR_6
+name,VAR_7

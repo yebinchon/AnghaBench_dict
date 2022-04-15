@@ -1,0 +1,11 @@
+BFAD_E_FCS_EXIT_COMP,VAR_0
+BFAD_PORT_DELETE,VAR_1
+bfa_fcs_exit,FUNC_0
+bfa_sm_send_event,FUNC_1
+init_completion,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+wait_for_completion,FUNC_5
+bfad_fcs_stop,FUNC_6
+bfad,VAR_2
+flags,VAR_3

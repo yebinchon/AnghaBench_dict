@@ -1,0 +1,12 @@
+LPI2C_MFSR,VAR_0
+LPI2C_MTDR,VAR_1
+MIER_NDIE,VAR_2
+MIER_TDIE,VAR_3
+complete,FUNC_0
+lpi2c_imx_intctrl,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+lpi2c_imx_write_txfifo,FUNC_4
+lpi2c_imx,VAR_4
+data,VAR_5
+txcnt,VAR_6

@@ -1,0 +1,16 @@
+DELAY,FUNC_0
+EAGAIN,VAR_0
+HN_NVS_STATUS_OK,VAR_1
+HN_NVS_TYPE_RNDIS_ACK,VAR_2
+VMBUS_CHANPKT_FLAG_NONE,VAR_3
+VMBUS_CHANPKT_TYPE_COMP,VAR_4
+__predict_false,FUNC_1
+if_printf,FUNC_2
+vmbus_chan_send,FUNC_3
+hn_nvs_ack_rxbuf,FUNC_4
+rxr,VAR_5
+chan,VAR_6
+tid,VAR_7
+ack,VAR_8
+retries,VAR_9
+error,VAR_10

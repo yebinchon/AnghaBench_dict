@@ -1,0 +1,12 @@
+tpm_buf_append,FUNC_0
+tpm_buf_append_u16,FUNC_1
+tpm_buf_append_u32,FUNC_2
+tpm_buf_append_u8,FUNC_3
+tpm2_buf_append_auth,FUNC_4
+buf,VAR_0
+session_handle,VAR_1
+nonce,VAR_2
+nonce_len,VAR_3
+attributes,VAR_4
+hmac,VAR_5
+hmac_len,VAR_6

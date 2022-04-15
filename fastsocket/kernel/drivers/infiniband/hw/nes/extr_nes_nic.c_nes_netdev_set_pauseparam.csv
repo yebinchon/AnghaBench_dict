@@ -1,0 +1,13 @@
+NES_IDX_MAC_TX_CONFIG,VAR_0
+NES_IDX_MAC_TX_CONFIG_ENABLE_PAUSE,VAR_1
+NES_IDX_MPP_DEBUG,VAR_2
+NES_IDX_MPP_DEBUG_PORT_DISABLE_PAUSE,VAR_3
+nes_read_indexed,FUNC_0
+nes_write_indexed,FUNC_1
+netdev_priv,FUNC_2
+nes_netdev_set_pauseparam,FUNC_3
+netdev,VAR_4
+et_pauseparam,VAR_5
+nesvnic,VAR_6
+nesdev,VAR_7
+u32temp,VAR_8

@@ -1,0 +1,11 @@
+STK8312_MODE_ACTIVE,VAR_0
+STK8312_REG_MODE,VAR_1
+dev_err,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+stk8312_otp_init,FUNC_2
+usleep_range,FUNC_3
+stk8312_set_mode,FUNC_4
+data,VAR_2
+mode,VAR_3
+ret,VAR_4
+client,VAR_5

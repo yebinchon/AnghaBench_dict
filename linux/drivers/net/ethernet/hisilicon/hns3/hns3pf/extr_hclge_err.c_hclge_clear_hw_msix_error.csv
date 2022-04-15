@@ -1,0 +1,11 @@
+HCLGE_CMD_FLAG_IN,VAR_0
+HCLGE_CMD_FLAG_NO_INTR,VAR_1
+HCLGE_QUERY_CLEAR_ALL_MPF_MSIX_INT,VAR_2
+HCLGE_QUERY_CLEAR_ALL_PF_MSIX_INT,VAR_3
+cpu_to_le16,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_clear_hw_msix_error,FUNC_2
+hdev,VAR_4
+desc,VAR_5
+is_mpf,VAR_6
+bd_num,VAR_7

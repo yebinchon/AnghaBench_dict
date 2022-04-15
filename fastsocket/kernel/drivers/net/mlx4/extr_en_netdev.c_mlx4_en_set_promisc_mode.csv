@@ -1,0 +1,17 @@
+MLX4_EN_FLAG_MC_PROMISC,VAR_0
+MLX4_EN_FLAG_PROMISC,VAR_1
+MLX4_FS_ALL_DEFAULT,VAR_2
+MLX4_MCAST_DISABLE,VAR_3
+en_err,FUNC_0
+en_warn,FUNC_1
+mlx4_SET_MCAST_FLTR,FUNC_2
+mlx4_SET_PORT_qpn_calc,FUNC_3
+mlx4_SET_VLAN_FLTR,FUNC_4
+mlx4_flow_steer_promisc_add,FUNC_5
+mlx4_multicast_promisc_add,FUNC_6
+mlx4_unicast_promisc_add,FUNC_7
+netif_msg_rx_status,FUNC_8
+mlx4_en_set_promisc_mode,FUNC_9
+priv,VAR_4
+mdev,VAR_5
+err,VAR_6

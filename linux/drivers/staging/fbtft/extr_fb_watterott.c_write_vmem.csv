@@ -1,0 +1,17 @@
+CMD_LCD_DRAWIMAGE,VAR_0
+COLOR_RGB565,VAR_1
+cpu_to_be16,FUNC_0
+stub1,FUNC_1
+udelay,FUNC_2
+write_vmem,FUNC_3
+par,VAR_2
+offset,VAR_3
+len,VAR_4
+start_line,VAR_5
+end_line,VAR_6
+vmem16,VAR_7
+pos,VAR_8
+buf16,VAR_9
+i,VAR_10
+j,VAR_11
+ret,VAR_12

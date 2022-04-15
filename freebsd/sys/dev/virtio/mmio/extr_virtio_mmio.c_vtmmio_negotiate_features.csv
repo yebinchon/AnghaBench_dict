@@ -1,0 +1,13 @@
+VIRTIO_MMIO_GUEST_FEATURES,VAR_0
+VIRTIO_MMIO_HOST_FEATURES,VAR_1
+device_get_softc,FUNC_0
+virtqueue_filter_features,FUNC_1
+vtmmio_describe_features,FUNC_2
+vtmmio_read_config_4,FUNC_3
+vtmmio_write_config_4,FUNC_4
+vtmmio_negotiate_features,FUNC_5
+dev,VAR_2
+child_features,VAR_3
+sc,VAR_4
+host_features,VAR_5
+features,VAR_6

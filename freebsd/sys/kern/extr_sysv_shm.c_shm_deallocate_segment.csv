@@ -1,0 +1,15 @@
+RACCT_NSHM,VAR_0
+RACCT_SHMSIZE,VAR_1
+SHMSEG_FREE,VAR_2
+SYSVSHM_ASSERT_LOCKED,FUNC_0
+btoc,FUNC_1
+crfree,FUNC_2
+mac_sysvshm_cleanup,FUNC_3
+racct_sub_cred,FUNC_4
+round_page,FUNC_5
+shm_committed,VAR_3
+shm_nused,VAR_4
+vm_object_deallocate,FUNC_6
+shm_deallocate_segment,FUNC_7
+shmseg,VAR_5
+size,VAR_6

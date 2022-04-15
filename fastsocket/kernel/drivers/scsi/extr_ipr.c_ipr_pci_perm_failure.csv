@@ -1,0 +1,16 @@
+ABORT_DUMP,VAR_0
+IPR_NUM_RESET_RELOAD_RETRIES,VAR_1
+IPR_SHUTDOWN_NONE,VAR_2
+WAIT_FOR_DUMP,VAR_3
+ipr_initiate_ioa_reset,FUNC_0
+pci_get_drvdata,FUNC_1
+spin_lock,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+wmb,FUNC_6
+ipr_pci_perm_failure,FUNC_7
+pdev,VAR_4
+flags,VAR_5
+ioa_cfg,VAR_6
+i,VAR_7

@@ -1,0 +1,10 @@
+pm_runtime_get_sync,FUNC_0
+pm_runtime_put,FUNC_1
+stm32_dma_disable_chan,FUNC_2
+stm32_dma_get_dev,FUNC_3
+to_stm32_dma_chan,FUNC_4
+stm32_dma_alloc_chan_resources,FUNC_5
+c,VAR_0
+chan,VAR_1
+dmadev,VAR_2
+ret,VAR_3

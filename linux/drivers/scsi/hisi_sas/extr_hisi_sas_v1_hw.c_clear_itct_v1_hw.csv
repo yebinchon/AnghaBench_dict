@@ -1,0 +1,15 @@
+CFG_AGING_TIME,VAR_0
+CFG_AGING_TIME_ITCT_REL_MSK,VAR_1
+ITCT_HDR_VALID_MSK,VAR_2
+cpu_to_le64,FUNC_0
+hisi_sas_read32,FUNC_1
+hisi_sas_write32,FUNC_2
+le64_to_cpu,FUNC_3
+udelay,FUNC_4
+clear_itct_v1_hw,FUNC_5
+hisi_hba,VAR_3
+sas_dev,VAR_4
+dev_id,VAR_5
+itct,VAR_6
+qw0,VAR_7
+reg_val,VAR_8

@@ -1,0 +1,17 @@
+MA_OWNED,VAR_0
+RING_FULL,FUNC_0
+XBDCF_Q_FREEZE,VAR_1
+XBD_Q_READY,VAR_2
+XBD_STATE_CONNECTED,VAR_3
+mtx_assert,FUNC_1
+printf,FUNC_2
+xbd_bio_command,FUNC_3
+xbd_cm_freeze,FUNC_4
+xbd_dequeue_cm,FUNC_5
+xbd_flush_requests,FUNC_6
+xbd_queue_request,FUNC_7
+xbd_startio,FUNC_8
+sc,VAR_4
+cm,VAR_5
+error,VAR_6
+queued,VAR_7

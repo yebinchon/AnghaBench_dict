@@ -1,0 +1,17 @@
+BUFDESC_LEN,VAR_0
+CMDQ_WQE_HEADER,FUNC_0
+HINIC_CMDQ_WQE_HEADER_GET,FUNC_1
+WQE_LCMD_SIZE,VAR_1
+be32_to_cpu,FUNC_2
+cmdq_wqe_size_from_bdlen,FUNC_3
+wmb,FUNC_4
+clear_wqe_complete_bit,FUNC_5
+cmdq,VAR_2
+wqe,VAR_3
+header_info,VAR_4
+bufdesc_len,VAR_5
+wqe_size,VAR_6
+ctrl,VAR_7
+wqe_lcmd,VAR_8
+direct_wqe,VAR_9
+wqe_scmd,VAR_10

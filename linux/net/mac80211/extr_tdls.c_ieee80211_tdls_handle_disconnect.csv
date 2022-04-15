@@ -1,0 +1,14 @@
+GFP_ATOMIC,VAR_0
+NL80211_TDLS_TEARDOWN,VAR_1
+WLAN_REASON_TDLS_TEARDOWN_UNREACHABLE,VAR_2
+ieee80211_find_sta,FUNC_0
+ieee80211_get_reason_code_string,FUNC_1
+ieee80211_tdls_oper_request,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+tdls_dbg,FUNC_5
+ieee80211_tdls_handle_disconnect,FUNC_6
+sdata,VAR_3
+peer,VAR_4
+reason,VAR_5
+sta,VAR_6

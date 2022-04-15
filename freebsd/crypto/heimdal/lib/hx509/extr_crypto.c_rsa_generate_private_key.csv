@@ -1,0 +1,17 @@
+ASN1_OID_ID_PKCS1_SHA1WITHRSAENCRYPTION,VAR_0
+BN_free,FUNC_0
+BN_new,FUNC_1
+BN_set_word,FUNC_2
+HX509_PARSING_KEY_FAILED,VAR_1
+RSA_generate_key_ex,FUNC_3
+RSA_new,FUNC_4
+hx509_set_error_string,FUNC_5
+rsa_generate_private_key,FUNC_6
+context,VAR_2
+ctx,VAR_3
+private_key,VAR_4
+e,VAR_5
+ret,VAR_6
+bits,VAR_7
+default_rsa_e,VAR_8
+default_rsa_bits,VAR_9

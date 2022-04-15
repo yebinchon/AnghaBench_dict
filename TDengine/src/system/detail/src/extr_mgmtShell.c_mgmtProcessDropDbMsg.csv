@@ -1,0 +1,12 @@
+TSDB_CODE_NO_RIGHTS,VAR_0
+TSDB_MSG_TYPE_DROP_DB_RSP,VAR_1
+mLPrint,FUNC_0
+mgmtCheckRedirectMsg,FUNC_1
+mgmtDropDbByName,FUNC_2
+taosSendSimpleRsp,FUNC_3
+mgmtProcessDropDbMsg,FUNC_4
+pMsg,VAR_2
+msgLen,VAR_3
+pConn,VAR_4
+pDrop,VAR_5
+code,VAR_6

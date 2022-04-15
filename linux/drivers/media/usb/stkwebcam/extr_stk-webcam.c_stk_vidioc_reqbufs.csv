@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+ENODEV,VAR_2
+V4L2_MEMORY_MMAP,VAR_3
+is_streaming,FUNC_0
+stk_allocate_buffers,FUNC_1
+stk_camera_write_reg,FUNC_2
+stk_free_buffers,FUNC_3
+unset_initialised,FUNC_4
+video_drvdata,FUNC_5
+stk_vidioc_reqbufs,FUNC_6
+filp,VAR_4
+priv,VAR_5
+rb,VAR_6
+dev,VAR_7

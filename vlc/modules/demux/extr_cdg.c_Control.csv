@@ -1,0 +1,16 @@
+CDG_FRAME_RATE,VAR_0
+CDG_FRAME_SIZE,VAR_1
+DEMUX_SET_POSITION,VAR_2
+DEMUX_SET_TIME,VAR_3
+PosToDate,FUNC_0
+date_Set,FUNC_1
+demux_vaControlHelper,FUNC_2
+vlc_stream_Seek,FUNC_3
+vlc_stream_Tell,FUNC_4
+Control,FUNC_5
+p_demux,VAR_4
+i_query,VAR_5
+args,VAR_6
+p_sys,VAR_7
+i_old_offset,VAR_8
+i_ret,VAR_9

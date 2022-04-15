@@ -1,0 +1,12 @@
+GRDOM_MEDIA,VAR_0
+GRDOM_RENDER,VAR_1
+GRDOM_RESET_ENABLE,VAR_2
+I965_GDRST,VAR_3
+i965_reset_complete,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_write_config_byte,FUNC_2
+wait_for,FUNC_3
+i965_do_reset,FUNC_4
+dev,VAR_4
+ret,VAR_5
+gdrst,VAR_6

@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+ENOMEM,VAR_2
+GFP_KERNEL,VAR_3
+__GFP_RETRY_MAYFAIL,VAR_4
+alt_dma,VAR_5
+dma_alloc_coherent,FUNC_0
+dma_map_single,FUNC_1
+dma_mapping_error,FUNC_2
+kfree,FUNC_3
+kmalloc,FUNC_4
+dma_alloc,FUNC_5
+pdev,VAR_6
+dma,VAR_7
+dir,VAR_8
+i,VAR_9

@@ -1,0 +1,14 @@
+PERI_SSUSB_SPM_CTRL,VAR_0
+PERI_WK_CTRL1,VAR_1
+SSC_IP_SLEEP_EN,VAR_2
+SSC_SPM_INT_EN,VAR_3
+WC1_IS_C,FUNC_0
+WC1_IS_EN,VAR_4
+WC1_IS_P,VAR_5
+regmap_update_bits,FUNC_1
+usb_wakeup_ip_sleep_set,FUNC_2
+mtk,VAR_6
+enable,VAR_7
+reg,VAR_8
+msk,VAR_9
+val,VAR_10

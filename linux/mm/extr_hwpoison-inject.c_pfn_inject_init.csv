@@ -1,0 +1,14 @@
+debugfs_create_dir,FUNC_0
+debugfs_create_file,FUNC_1
+debugfs_create_u32,FUNC_2
+debugfs_create_u64,FUNC_3
+hwpoison_dir,VAR_0
+hwpoison_filter_dev_major,VAR_1
+hwpoison_filter_dev_minor,VAR_2
+hwpoison_filter_enable,VAR_3
+hwpoison_filter_flags_mask,VAR_4
+hwpoison_filter_flags_value,VAR_5
+hwpoison_filter_memcg,VAR_6
+hwpoison_fops,VAR_7
+unpoison_fops,VAR_8
+pfn_inject_init,FUNC_4

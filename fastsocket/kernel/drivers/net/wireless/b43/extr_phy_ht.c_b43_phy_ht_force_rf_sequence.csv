@@ -1,0 +1,13 @@
+B43_PHY_HT_RF_SEQ_MODE,VAR_0
+B43_PHY_HT_RF_SEQ_STATUS,VAR_1
+B43_PHY_HT_RF_SEQ_TRIG,VAR_2
+b43_phy_read,FUNC_0
+b43_phy_set,FUNC_1
+b43_phy_write,FUNC_2
+b43err,FUNC_3
+msleep,FUNC_4
+b43_phy_ht_force_rf_sequence,FUNC_5
+dev,VAR_3
+rf_seq,VAR_4
+i,VAR_5
+save_seq_mode,VAR_6

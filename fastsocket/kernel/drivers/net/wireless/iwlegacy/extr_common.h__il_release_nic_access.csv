@@ -1,0 +1,6 @@
+CSR_GP_CNTRL,VAR_0
+CSR_GP_CNTRL_REG_FLAG_MAC_ACCESS_REQ,VAR_1
+_il_clear_bit,FUNC_0
+mmiowb,FUNC_1
+_il_release_nic_access,FUNC_2
+il,VAR_2

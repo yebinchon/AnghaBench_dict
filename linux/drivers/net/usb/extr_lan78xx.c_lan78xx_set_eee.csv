@@ -1,0 +1,15 @@
+EEE_TX_LPI_REQ_DLY,VAR_0
+MAC_CR,VAR_1
+MAC_CR_EEE_EN_,VAR_2
+lan78xx_read_reg,FUNC_0
+lan78xx_write_reg,FUNC_1
+netdev_priv,FUNC_2
+phy_ethtool_set_eee,FUNC_3
+usb_autopm_get_interface,FUNC_4
+usb_autopm_put_interface,FUNC_5
+lan78xx_set_eee,FUNC_6
+net,VAR_3
+edata,VAR_4
+dev,VAR_5
+ret,VAR_6
+buf,VAR_7

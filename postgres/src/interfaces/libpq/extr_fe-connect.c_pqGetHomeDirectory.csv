@@ -1,0 +1,16 @@
+BUFSIZ,VAR_0
+CSIDL_APPDATA,VAR_1
+MAX_PATH,VAR_2
+SHGetFolderPath,FUNC_0
+S_OK,VAR_3
+ZeroMemory,FUNC_1
+geteuid,FUNC_2
+pqGetpwuid,FUNC_3
+snprintf,FUNC_4
+strlcpy,FUNC_5
+pqGetHomeDirectory,FUNC_6
+buf,VAR_4
+bufsize,VAR_5
+pwdbuf,VAR_6
+pwdstr,VAR_7
+pwd,VAR_8

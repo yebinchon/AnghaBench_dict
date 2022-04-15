@@ -1,0 +1,16 @@
+build_get_pgd_vmalloc64,FUNC_0
+build_restore_work_registers,FUNC_1
+build_tlb_write_entry,FUNC_2
+build_update_entries,FUNC_3
+not_refill,VAR_0
+tlb_indexed,VAR_1
+uasm_i_eret,FUNC_4
+uasm_i_ori,FUNC_5
+uasm_i_xori,FUNC_6
+uasm_l_leave,FUNC_7
+build_r4000_tlbchange_handler_tail,FUNC_8
+p,VAR_2
+l,VAR_3
+r,VAR_4
+tmp,VAR_5
+ptr,VAR_6

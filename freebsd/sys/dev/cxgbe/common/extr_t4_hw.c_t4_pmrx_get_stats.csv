@@ -1,0 +1,17 @@
+A_PM_RX_DBG_CTRL,VAR_0
+A_PM_RX_DBG_DATA,VAR_1
+A_PM_RX_DBG_STAT_MSB,VAR_2
+A_PM_RX_STAT_CONFIG,VAR_3
+A_PM_RX_STAT_COUNT,VAR_4
+A_PM_RX_STAT_LSB,VAR_5
+is_t4,FUNC_0
+t4_read_indirect,FUNC_1
+t4_read_reg,FUNC_2
+t4_read_reg64,FUNC_3
+t4_write_reg,FUNC_4
+t4_pmrx_get_stats,FUNC_5
+adap,VAR_6
+cnt,VAR_7
+cycles,VAR_8
+i,VAR_9
+data,VAR_10

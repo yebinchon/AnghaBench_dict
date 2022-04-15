@@ -1,0 +1,16 @@
+PAC7311_EXPOSURE_DEFAULT,VAR_0
+PAC7311_GAIN_DEFAULT,VAR_1
+V4L2_CID_AUTOGAIN,VAR_2
+V4L2_CID_CONTRAST,VAR_3
+V4L2_CID_EXPOSURE,VAR_4
+V4L2_CID_GAIN,VAR_5
+V4L2_CID_HFLIP,VAR_6
+pr_err,FUNC_0
+sd_ctrl_ops,VAR_7
+v4l2_ctrl_auto_cluster,FUNC_1
+v4l2_ctrl_handler_init,FUNC_2
+v4l2_ctrl_new_std,FUNC_3
+sd_init_controls,FUNC_4
+gspca_dev,VAR_8
+sd,VAR_9
+hdl,VAR_10

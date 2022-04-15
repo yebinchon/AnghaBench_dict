@@ -1,0 +1,15 @@
+USB_CONTROLLER_RESET,VAR_0
+USB_CTL_0,VAR_1
+USB_PHY_0,VAR_2
+USB_PHY_PORT_RESET_0,VAR_3
+USB_PHY_PORT_RESET_1,VAR_4
+USB_PHY_RESET,VAR_5
+mdelay,FUNC_0
+nlm_get_usb_regbase,FUNC_1
+nlm_read_usb_reg,FUNC_2
+nlm_write_usb_reg,FUNC_3
+nlm_usb_hw_reset,FUNC_4
+node,VAR_6
+port,VAR_7
+port_addr,VAR_8
+val,VAR_9

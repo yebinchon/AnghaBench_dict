@@ -1,0 +1,16 @@
+MAX_LOGIC_BLK_PER_ZONE,VAR_0
+MAX_PHYS_BLK_PER_ZONE,VAR_1
+OOB_SIZE,VAR_2
+get_logical_address,FUNC_0
+mtd_block_isbad,FUNC_1
+pr_debug,FUNC_2
+read_raw_oob,FUNC_3
+build_logical_block_map,FUNC_4
+ssfdc,VAR_3
+offset,VAR_4
+oob_buf,VAR_5
+ret,VAR_6
+block_address,VAR_7
+phys_block,VAR_8
+mtd,VAR_9
+zone_index,VAR_10

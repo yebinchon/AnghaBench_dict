@@ -1,0 +1,10 @@
+FIMC_REG_CIGCTRL,VAR_0
+FIMC_REG_CIGCTRL_CSC_ITU601_709,VAR_1
+FIMC_REG_ORGOSIZE,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+fimc_hw_set_out_dma_size,FUNC_2
+ctx,VAR_3
+dev,VAR_4
+frame,VAR_5
+cfg,VAR_6

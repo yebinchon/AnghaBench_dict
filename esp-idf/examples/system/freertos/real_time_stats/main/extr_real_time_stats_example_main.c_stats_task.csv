@@ -1,0 +1,15 @@
+ESP_OK,VAR_0
+NUM_OF_SPIN_TASKS,VAR_1
+STATS_TICKS,VAR_2
+pdMS_TO_TICKS,FUNC_0
+portMAX_DELAY,VAR_3
+print_real_time_stats,FUNC_1
+printf,FUNC_2
+sync_spin_task,VAR_4
+sync_stats_task,VAR_5
+vTaskDelay,FUNC_3
+xSemaphoreGive,FUNC_4
+xSemaphoreTake,FUNC_5
+stats_task,FUNC_6
+arg,VAR_6
+i,VAR_7

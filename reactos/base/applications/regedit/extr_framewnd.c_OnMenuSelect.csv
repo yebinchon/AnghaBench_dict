@@ -1,0 +1,16 @@
+GetMenu,FUNC_0
+LoadStringW,FUNC_1
+MF_POPUP,VAR_0
+SB_SETTEXTW,VAR_1
+SendMessageW,FUNC_2
+hInst,VAR_2
+hStatusBar,VAR_3
+wcschr,FUNC_3
+wcscpy,FUNC_4
+OnMenuSelect,FUNC_5
+hWnd,VAR_4
+nItemID,VAR_5
+nFlags,VAR_6
+hSysMenu,VAR_7
+str,VAR_8
+lpsz,VAR_9

@@ -1,0 +1,16 @@
+PCIR_MEMBASE_1,VAR_0
+PCIR_PMBASEL_1,VAR_1
+SYS_RES_MEMORY,VAR_2
+device_get_parent,FUNC_0
+device_get_softc,FUNC_1
+pci_alloc_resource,FUNC_2
+vmd_bus_alloc_resource,FUNC_3
+dev,VAR_3
+child,VAR_4
+type,VAR_5
+rid,VAR_6
+start,VAR_7
+end,VAR_8
+count,VAR_9
+flags,VAR_10
+sc,VAR_11

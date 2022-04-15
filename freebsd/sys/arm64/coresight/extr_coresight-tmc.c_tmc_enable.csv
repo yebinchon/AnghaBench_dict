@@ -1,0 +1,15 @@
+CORESIGHT_ETF,VAR_0
+CORESIGHT_ETR,VAR_1
+ETR_FLAG_ALLOCATE,VAR_2
+KASSERT,FUNC_0
+atomic_fetchadd_int,FUNC_1
+device_get_softc,FUNC_2
+tmc_configure_etr,FUNC_3
+tmc_start,FUNC_4
+tmc_stop,FUNC_5
+tmc_enable,FUNC_6
+dev,VAR_3
+endp,VAR_4
+event,VAR_5
+sc,VAR_6
+nev,VAR_7

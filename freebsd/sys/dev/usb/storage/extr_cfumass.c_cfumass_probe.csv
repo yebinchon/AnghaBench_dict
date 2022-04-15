@@ -1,0 +1,12 @@
+BUS_PROBE_GENERIC,VAR_0
+ENXIO,VAR_1
+UICLASS_MASS,VAR_2
+UIPROTO_MASS_BBB,VAR_3
+UISUBCLASS_SCSI,VAR_4
+USB_MODE_DEVICE,VAR_5
+device_get_ivars,FUNC_0
+usbd_get_interface_descriptor,FUNC_1
+cfumass_probe,FUNC_2
+dev,VAR_6
+uaa,VAR_7
+id,VAR_8

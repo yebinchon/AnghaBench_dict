@@ -1,0 +1,12 @@
+DB_VECTOR,VAR_0
+KVM_EXIT_DEBUG,VAR_1
+KVM_GUESTDBG_SINGLESTEP,VAR_2
+KVM_GUESTDBG_USE_HW_BP,VAR_3
+KVM_REQ_EVENT,VAR_4
+disable_nmi_singlestep,FUNC_0
+kvm_make_request,FUNC_1
+kvm_queue_exception,FUNC_2
+db_interception,FUNC_3
+svm,VAR_5
+kvm_run,VAR_6
+vcpu,VAR_7

@@ -1,0 +1,11 @@
+mutex_enter,FUNC_0
+mutex_exit,FUNC_1
+txg_kick,FUNC_2
+zfs_delay_min_dirty_percent,VAR_0
+zfs_dirty_data_max,VAR_1
+zfs_dirty_data_sync_pct,VAR_2
+dsl_pool_need_dirty_delay,FUNC_3
+dp,VAR_3
+delay_min_bytes,VAR_4
+dirty_min_bytes,VAR_5
+rv,VAR_6

@@ -1,0 +1,14 @@
+CSIO_SCSI_CMD_WR_SZ_16,FUNC_0
+csio_hw_to_scsim,FUNC_1
+csio_q_eq_wrap,FUNC_2
+csio_scsi_init_cmd_wr,FUNC_3
+csio_wr_get,FUNC_4
+memcpy,FUNC_5
+unlikely,FUNC_6
+csio_scsi_cmd,FUNC_7
+req,VAR_0
+wrp,VAR_1
+hw,VAR_2
+scsim,VAR_3
+size,VAR_4
+tmpwr,VAR_5

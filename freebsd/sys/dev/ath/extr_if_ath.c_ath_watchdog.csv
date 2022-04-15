@@ -1,0 +1,16 @@
+ATH_LOCK_ASSERT,FUNC_0
+HAL_PM_AWAKE,VAR_0
+ath_hal_gethangstate,FUNC_1
+ath_power_restore_power_state,FUNC_2
+ath_power_set_power_state,FUNC_3
+callout_schedule,FUNC_4
+counter_u64_add,FUNC_5
+device_printf,FUNC_6
+hz,VAR_1
+taskqueue_enqueue,FUNC_7
+ath_watchdog,FUNC_8
+arg,VAR_2
+sc,VAR_3
+ic,VAR_4
+do_reset,VAR_5
+hangs,VAR_6

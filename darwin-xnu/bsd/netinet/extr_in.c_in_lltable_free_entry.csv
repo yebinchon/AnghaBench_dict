@@ -1,0 +1,14 @@
+IF_AFDATA_WLOCK_ASSERT,FUNC_0
+KASSERT,FUNC_1
+LLE_LINKED,VAR_0
+LLE_REMREF,FUNC_2
+LLE_WLOCK_ASSERT,FUNC_3
+arpstat,VAR_1
+callout_stop,FUNC_4
+llentry_free,FUNC_5
+lltable_unlink_entry,FUNC_6
+in_lltable_free_entry,FUNC_7
+llt,VAR_2
+lle,VAR_3
+ifp,VAR_4
+pkts_dropped,VAR_5

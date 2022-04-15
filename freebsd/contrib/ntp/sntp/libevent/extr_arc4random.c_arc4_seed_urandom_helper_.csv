@@ -1,0 +1,13 @@
+ADD_ENTROPY,VAR_0
+O_RDONLY,VAR_1
+arc4_addrandom,FUNC_0
+arc4_seeded_ok,VAR_2
+close,FUNC_1
+evutil_memclear_,FUNC_2
+evutil_open_closeonexec_,FUNC_3
+read_all,FUNC_4
+arc4_seed_urandom_helper_,FUNC_5
+fname,VAR_3
+buf,VAR_4
+fd,VAR_5
+n,VAR_6

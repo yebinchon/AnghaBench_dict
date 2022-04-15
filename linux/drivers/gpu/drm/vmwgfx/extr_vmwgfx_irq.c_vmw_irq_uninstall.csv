@@ -1,0 +1,12 @@
+SVGA_CAP_IRQMASK,VAR_0
+SVGA_REG_IRQMASK,VAR_1
+VMWGFX_IRQSTATUS_PORT,VAR_2
+free_irq,FUNC_0
+inl,FUNC_1
+outl,FUNC_2
+vmw_priv,FUNC_3
+vmw_write,FUNC_4
+vmw_irq_uninstall,FUNC_5
+dev,VAR_3
+dev_priv,VAR_4
+status,VAR_5

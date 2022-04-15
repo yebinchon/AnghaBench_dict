@@ -1,0 +1,12 @@
+PCI_COMMAND,VAR_0
+PCI_COMMAND_INTX_DISABLE,VAR_1
+dev_err,FUNC_0
+pci_cfg_access_lock,FUNC_1
+pci_cfg_access_unlock,FUNC_2
+pci_read_config_word,FUNC_3
+pci_write_config_word,FUNC_4
+pci_intx_mask_supported,FUNC_5
+dev,VAR_2
+mask_supported,VAR_3
+orig,VAR_4
+new,VAR_5

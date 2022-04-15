@@ -1,0 +1,10 @@
+MCHP23K256_CMD_WRITE_STATUS,VAR_0
+MCHP23K256_MODE_SEQ,VAR_1
+spi_message_add_tail,FUNC_0
+spi_message_init,FUNC_1
+spi_sync,FUNC_2
+mchp23k256_set_mode,FUNC_3
+spi,VAR_2
+transfer,VAR_3
+message,VAR_4
+command,VAR_5

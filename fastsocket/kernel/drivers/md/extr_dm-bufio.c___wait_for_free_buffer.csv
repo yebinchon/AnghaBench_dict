@@ -1,0 +1,13 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+add_wait_queue,FUNC_1
+current,VAR_2
+dm_bufio_io_schedule,FUNC_2
+dm_bufio_lock,FUNC_3
+dm_bufio_unlock,FUNC_4
+remove_wait_queue,FUNC_5
+set_task_state,FUNC_6
+wait,VAR_3
+__wait_for_free_buffer,FUNC_7
+c,VAR_4

@@ -1,0 +1,12 @@
+SCFDR,VAR_0
+SCI_TDRE,VAR_1
+SCTFDR,VAR_2
+SCxSR,VAR_3
+sci_getreg,FUNC_0
+serial_port_in,FUNC_1
+to_sci_port,FUNC_2
+sci_txfill,FUNC_3
+port,VAR_4
+s,VAR_5
+fifo_mask,VAR_6
+reg,VAR_7

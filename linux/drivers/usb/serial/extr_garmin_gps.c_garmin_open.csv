@@ -1,0 +1,15 @@
+FLAGS_SESSION_REPLY1_SEEN,VAR_0
+STATE_ACTIVE,VAR_1
+STATE_RESET,VAR_2
+garmin_init_session,FUNC_0
+initial_mode,VAR_3
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+usb_get_serial_port_data,FUNC_3
+usb_kill_urb,FUNC_4
+garmin_open,FUNC_5
+tty,VAR_4
+port,VAR_5
+flags,VAR_6
+status,VAR_7
+garmin_data_p,VAR_8

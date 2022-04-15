@@ -1,0 +1,11 @@
+VMBUS_PCPU_GET,FUNC_0
+critical_enter,FUNC_1
+critical_exit,FUNC_2
+curcpu,VAR_0
+intr_cnt,VAR_1
+vmbus_get_softc,FUNC_3
+vmbus_handle_intr1,FUNC_4
+vmbus_handle_intr,FUNC_5
+trap_frame,VAR_2
+sc,VAR_3
+cpu,VAR_4

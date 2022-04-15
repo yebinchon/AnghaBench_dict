@@ -1,0 +1,11 @@
+CONFIG_CRAMFS_BLOCKDEV,VAR_0
+CONFIG_CRAMFS_MTD,VAR_1
+CRAMFS_SB,FUNC_0
+IS_ENABLED,FUNC_1
+kfree,FUNC_2
+kill_block_super,FUNC_3
+kill_mtd_super,FUNC_4
+mtd_unpoint,FUNC_5
+cramfs_kill_sb,FUNC_6
+sb,VAR_2
+sbi,VAR_3

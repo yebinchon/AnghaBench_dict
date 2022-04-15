@@ -1,0 +1,14 @@
+DP_TEST_PATTERN_VIDEO_MODE,VAR_0
+DP_TRAINING_PATTERN_SEQUENCE_1,VAR_1
+LINK_TRAINING_SUCCESS,VAR_2
+dp_set_hw_lane_settings,FUNC_0
+dp_set_hw_test_pattern,FUNC_1
+dp_set_hw_training_pattern,FUNC_2
+initialize_training_settings,FUNC_3
+print_status_message,FUNC_4
+wait_for_training_aux_rd_interval,FUNC_5
+dc_link_dp_perform_link_training_skip_aux,FUNC_6
+link,VAR_3
+link_setting,VAR_4
+lt_settings,VAR_5
+pattern_for_cr,VAR_6

@@ -1,0 +1,17 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_INT,VAR_2
+CTLTYPE_STRING,VAR_3
+OID_AUTO,VAR_4
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_ADD_UINT,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+device_get_sysctl_ctx,FUNC_3
+device_get_sysctl_tree,FUNC_4
+mpt_raid_sysctl_vol_member_wce,VAR_5
+mpt_raid_sysctl_vol_queue_depth,VAR_6
+mpt_raid_sysctl_vol_resync_rate,VAR_7
+mpt_raid_sysctl_attach,FUNC_5
+mpt,VAR_8
+ctx,VAR_9
+tree,VAR_10

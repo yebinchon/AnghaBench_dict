@@ -1,0 +1,12 @@
+AUTONEG_ENABLE,VAR_0
+Backplane,VAR_1
+DUPLEX_FULL,VAR_2
+PORT_OTHER,VAR_3
+SPEED_UNKNOWN,VAR_4
+advertising,VAR_5
+ethtool_link_ksettings_add_link_mode,FUNC_0
+ethtool_link_ksettings_zero_link_mode,FUNC_1
+supported,VAR_6
+ntb_get_link_ksettings,FUNC_2
+dev,VAR_7
+cmd,VAR_8

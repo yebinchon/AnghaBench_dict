@@ -1,0 +1,16 @@
+HISI_SAS_IOST_ITCT_CACHE_DW_SZ,VAR_0
+HISI_SAS_IOST_ITCT_CACHE_NUM,VAR_1
+TAB_DFX,VAR_2
+TAB_RD_TYPE,VAR_3
+hisi_sas_read32,FUNC_0
+hisi_sas_write32,FUNC_1
+memset,FUNC_2
+pr_err,FUNC_3
+read_iost_itct_cache_v3_hw,FUNC_4
+hisi_hba,VAR_4
+type,VAR_5
+cache,VAR_6
+cache_dw_size,VAR_7
+buf,VAR_8
+i,VAR_9
+val,VAR_10

@@ -1,0 +1,16 @@
+CONNECTION_MONITOR,VAR_0
+IEEE80211_CONNECTION_IDLE_TIME,VAR_1
+IEEE80211_STA_CONNECTION_POLL,VAR_2
+__ieee80211_stop_poll,FUNC_0
+ieee80211_hw_check,FUNC_1
+ieee80211_recalc_ps,FUNC_2
+ieee80211_sta_reset_beacon_monitor,FUNC_3
+jiffies,VAR_3
+mod_timer,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+round_jiffies_up,FUNC_7
+ieee80211_reset_ap_probe,FUNC_8
+sdata,VAR_4
+ifmgd,VAR_5
+local,VAR_6

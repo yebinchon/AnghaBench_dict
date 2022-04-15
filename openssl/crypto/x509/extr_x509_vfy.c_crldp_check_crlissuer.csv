@@ -1,0 +1,13 @@
+CRL_SCORE_ISSUER_NAME,VAR_0
+GEN_DIRNAME,VAR_1
+X509_CRL_get_issuer,FUNC_0
+X509_NAME_cmp,FUNC_1
+sk_GENERAL_NAME_num,FUNC_2
+sk_GENERAL_NAME_value,FUNC_3
+crldp_check_crlissuer,FUNC_4
+dp,VAR_2
+crl,VAR_3
+crl_score,VAR_4
+i,VAR_5
+nm,VAR_6
+gen,VAR_7

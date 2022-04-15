@@ -1,0 +1,17 @@
+ChoosePixelFormat,FUNC_0
+DescribePixelFormat,FUNC_1
+GetDC,FUNC_2
+PFD_DOUBLEBUFFER,VAR_0
+PFD_DRAW_TO_WINDOW,VAR_1
+PFD_SUPPORT_OPENGL,VAR_2
+ReleaseDC,FUNC_3
+SetPixelFormat,FUNC_4
+ZeroMemory,FUNC_5
+wglCreateContext,FUNC_6
+wglMakeCurrent,FUNC_7
+InitOGLWindow,FUNC_8
+hWnd,VAR_3
+hDC,VAR_4
+hRC,VAR_5
+pfd,VAR_6
+nFormat,VAR_7

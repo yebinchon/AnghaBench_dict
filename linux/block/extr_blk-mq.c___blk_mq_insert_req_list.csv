@@ -1,0 +1,10 @@
+list_add,FUNC_0
+list_add_tail,FUNC_1
+lockdep_assert_held,FUNC_2
+trace_block_rq_insert,FUNC_3
+__blk_mq_insert_req_list,FUNC_4
+hctx,VAR_0
+rq,VAR_1
+at_head,VAR_2
+ctx,VAR_3
+type,VAR_4

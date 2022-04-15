@@ -1,0 +1,15 @@
+ACPI_IVAR_HANDLE,VAR_0
+ENXIO,VAR_1
+Giant,VAR_2
+device_get_softc,FUNC_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+uhub_find_iface_index,FUNC_3
+acpi_uhub_read_ivar,FUNC_4
+dev,VAR_3
+child,VAR_4
+idx,VAR_5
+res,VAR_6
+hres,VAR_7
+sc,VAR_8
+ah,VAR_9

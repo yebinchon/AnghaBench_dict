@@ -1,0 +1,10 @@
+COMPARE,VAR_0
+MFGPT0_CMP2,VAR_1
+MFGPT0_CNT,VAR_2
+enable_mfgpt0_counter,FUNC_0
+mfgpt_lock,VAR_3
+outw,FUNC_1
+raw_spin_lock,FUNC_2
+raw_spin_unlock,FUNC_3
+mfgpt_timer_set_periodic,FUNC_4
+evt,VAR_4

@@ -1,0 +1,6 @@
+CVMX_MIO_UARTX_LSR,FUNC_0
+CVMX_MIO_UARTX_RBR,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_uart_read_byte,FUNC_3
+uart_index,VAR_0
+lsrval,VAR_1

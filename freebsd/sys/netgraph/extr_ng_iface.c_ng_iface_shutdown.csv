@@ -1,0 +1,16 @@
+CURVNET_RESTORE,FUNC_0
+CURVNET_SET_QUIET,FUNC_1
+M_NETGRAPH_IFACE,VAR_0
+NG_NODE_PRIVATE,FUNC_2
+NG_NODE_SET_PRIVATE,FUNC_3
+NG_NODE_UNREF,FUNC_4
+V_ng_iface_unit,VAR_1
+bpfdetach,FUNC_5
+free,FUNC_6
+free_unr,FUNC_7
+if_detach,FUNC_8
+if_free,FUNC_9
+rm_destroy,FUNC_10
+ng_iface_shutdown,FUNC_11
+node,VAR_2
+priv,VAR_3

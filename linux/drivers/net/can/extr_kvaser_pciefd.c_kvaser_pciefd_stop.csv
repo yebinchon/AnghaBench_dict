@@ -1,0 +1,15 @@
+ETIMEDOUT,VAR_0
+KVASER_PCIEFD_KCAN_IEN_REG,VAR_1
+KVASER_PCIEFD_WAIT_TIMEOUT,VAR_2
+close_candev,FUNC_0
+completion_done,FUNC_1
+del_timer,FUNC_2
+iowrite32,FUNC_3
+kvaser_pciefd_start_controller_flush,FUNC_4
+netdev_err,FUNC_5
+netdev_priv,FUNC_6
+wait_for_completion_timeout,FUNC_7
+kvaser_pciefd_stop,FUNC_8
+netdev,VAR_3
+can,VAR_4
+ret,VAR_5

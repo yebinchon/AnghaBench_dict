@@ -1,0 +1,16 @@
+MLX4_NUM_OF_RESOURCE_TYPE,VAR_0
+RES_TR_FREE_ALL,VAR_1
+RES_TR_FREE_SLAVES_ONLY,VAR_2
+RES_TR_FREE_STRUCTS_ONLY,VAR_3
+kfree,FUNC_0
+mlx4_delete_all_resources_for_slave,FUNC_1
+mlx4_priv,FUNC_2
+mlx4_reset_roce_gids,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+rem_slave_vlans,FUNC_6
+mlx4_free_resource_tracker,FUNC_7
+dev,VAR_4
+type,VAR_5
+priv,VAR_6
+i,VAR_7

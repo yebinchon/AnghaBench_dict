@@ -1,0 +1,14 @@
+cpu_dcache_wb_range,FUNC_0
+cpu_icache_sync_range,FUNC_1
+dsb,FUNC_2
+ish,VAR_0
+kdb_jmpbuf,FUNC_3
+setjmp,FUNC_4
+db_write_bytes,FUNC_5
+addr,VAR_1
+size,VAR_2
+data,VAR_3
+jb,VAR_4
+prev_jb,VAR_5
+dst,VAR_6
+ret,VAR_7

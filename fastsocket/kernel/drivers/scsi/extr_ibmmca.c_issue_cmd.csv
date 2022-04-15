@@ -1,0 +1,14 @@
+IM_ATTN_REG,FUNC_0
+IM_BUSY,VAR_0
+IM_CMD_REG,FUNC_1
+IM_STAT_REG,FUNC_2
+inb,FUNC_3
+outb,FUNC_4
+outl,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+issue_cmd,FUNC_8
+shpnt,VAR_1
+cmd_reg,VAR_2
+attn_reg,VAR_3
+flags,VAR_4

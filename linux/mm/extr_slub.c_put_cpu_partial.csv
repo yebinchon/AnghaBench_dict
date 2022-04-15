@@ -1,0 +1,15 @@
+CPU_PARTIAL_DRAIN,VAR_0
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+stat,FUNC_4
+this_cpu_cmpxchg,FUNC_5
+this_cpu_ptr,FUNC_6
+this_cpu_read,FUNC_7
+unfreeze_partials,FUNC_8
+unlikely,FUNC_9
+put_cpu_partial,FUNC_10
+s,VAR_1
+page,VAR_2
+drain,VAR_3

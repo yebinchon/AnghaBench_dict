@@ -1,0 +1,13 @@
+IFNAMSIZ,VAR_0
+LOG_ERR,VAR_1
+SIOCG80211STATS,VAR_2
+errno,VAR_3
+ioctl,FUNC_0
+memset,FUNC_1
+sock,VAR_4
+strerror,FUNC_2
+strlcpy,FUNC_3
+syslog,FUNC_4
+wlan_get_stats,FUNC_5
+wif,VAR_5
+ifr,VAR_6

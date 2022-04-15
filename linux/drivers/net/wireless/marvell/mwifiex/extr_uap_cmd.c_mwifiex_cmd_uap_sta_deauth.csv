@@ -1,0 +1,11 @@
+ETH_ALEN,VAR_0
+HostCmd_CMD_UAP_STA_DEAUTH,VAR_1
+S_DS_GEN,VAR_2
+WLAN_REASON_DEAUTH_LEAVING,VAR_3
+cpu_to_le16,FUNC_0
+memcpy,FUNC_1
+mwifiex_cmd_uap_sta_deauth,FUNC_2
+priv,VAR_4
+cmd,VAR_5
+mac,VAR_6
+sta_deauth,VAR_7

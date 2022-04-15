@@ -1,0 +1,12 @@
+BTRFS_I,FUNC_0
+BUG_ON,FUNC_1
+btrfs_csum_one_bio,FUNC_2
+__btrfs_submit_bio_start,FUNC_3
+inode,VAR_0
+rw,VAR_1
+bio,VAR_2
+mirror_num,VAR_3
+bio_flags,VAR_4
+bio_offset,VAR_5
+root,VAR_6
+ret,VAR_7

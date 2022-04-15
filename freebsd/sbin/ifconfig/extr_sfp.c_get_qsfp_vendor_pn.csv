@@ -1,0 +1,10 @@
+SFF_8436_BASE,VAR_0
+SFF_8436_PN_START,VAR_1
+convert_sff_name,FUNC_0
+memset,FUNC_1
+read_i2c,FUNC_2
+get_qsfp_vendor_pn,FUNC_3
+ii,VAR_2
+buf,VAR_3
+size,VAR_4
+xbuf,VAR_5

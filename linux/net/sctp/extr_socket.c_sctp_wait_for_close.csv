@@ -1,0 +1,16 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+current,VAR_1
+finish_wait,FUNC_1
+list_empty,FUNC_2
+lock_sock,FUNC_3
+prepare_to_wait,FUNC_4
+release_sock,FUNC_5
+schedule_timeout,FUNC_6
+sctp_sk,FUNC_7
+signal_pending,FUNC_8
+sk_sleep,FUNC_9
+wait,VAR_2
+sctp_wait_for_close,FUNC_10
+sk,VAR_3
+timeout,VAR_4

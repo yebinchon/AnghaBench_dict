@@ -1,0 +1,16 @@
+NL80211_AUTHTYPE_AUTOMATIC,VAR_0
+WLAN_REASON_DEAUTH_LEAVING,VAR_1
+__cfg80211_disconnect,FUNC_0
+__cfg80211_stop_sched_scan,FUNC_1
+cfg80211_leave_ibss,FUNC_2
+cfg80211_leave_mesh,FUNC_3
+cfg80211_stop_ap,FUNC_4
+kfree,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+wdev_lock,FUNC_8
+wdev_unlock,FUNC_9
+cfg80211_leave,FUNC_10
+rdev,VAR_2
+wdev,VAR_3
+dev,VAR_4

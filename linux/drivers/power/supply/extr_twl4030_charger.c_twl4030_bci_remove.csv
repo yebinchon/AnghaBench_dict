@@ -1,0 +1,13 @@
+TWL4030_INTERRUPTS_BCIIMR1A,VAR_0
+TWL4030_INTERRUPTS_BCIIMR2A,VAR_1
+TWL4030_MODULE_INTERRUPTS,VAR_2
+dev_attr_mode,VAR_3
+device_remove_file,FUNC_0
+platform_get_drvdata,FUNC_1
+twl4030_charger_enable_ac,FUNC_2
+twl4030_charger_enable_backup,FUNC_3
+twl4030_charger_enable_usb,FUNC_4
+twl_i2c_write_u8,FUNC_5
+twl4030_bci_remove,FUNC_6
+pdev,VAR_4
+bci,VAR_5

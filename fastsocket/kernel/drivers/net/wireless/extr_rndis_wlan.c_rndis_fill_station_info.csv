@@ -1,0 +1,15 @@
+OID_802_11_RSSI,VAR_0
+OID_GEN_LINK_SPEED,VAR_1
+STATION_INFO_SIGNAL,VAR_2
+STATION_INFO_TX_BITRATE,VAR_3
+le32_to_cpu,FUNC_0
+level_to_qual,FUNC_1
+memset,FUNC_2
+rndis_query_oid,FUNC_3
+rndis_fill_station_info,FUNC_4
+usbdev,VAR_4
+sinfo,VAR_5
+linkspeed,VAR_6
+rssi,VAR_7
+ret,VAR_8
+len,VAR_9

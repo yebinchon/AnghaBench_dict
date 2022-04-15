@@ -1,0 +1,8 @@
+ISCSI_EXT_CDB_CMD_HDR_CDB_SIZE,VAR_0
+SET_FIELD,FUNC_0
+cpu_to_le32,FUNC_1
+init_initiator_rw_cdb_ystorm_context,FUNC_2
+ystc,VAR_1
+cmd,VAR_2
+ctx_pdu_hdr,VAR_3
+val,VAR_4

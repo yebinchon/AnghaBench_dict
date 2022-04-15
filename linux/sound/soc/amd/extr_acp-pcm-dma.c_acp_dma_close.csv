@@ -1,0 +1,17 @@
+CHIP_STONEY,VAR_0
+DRV_NAME,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+acp_reg_write,FUNC_0
+acp_set_sram_bank_state,FUNC_1
+dev_get_drvdata,FUNC_2
+kfree,FUNC_3
+mmACP_EXTERNAL_INTR_ENB,VAR_3
+snd_soc_rtdcom_lookup,FUNC_4
+acp_dma_close,FUNC_5
+substream,VAR_4
+bank,VAR_5
+runtime,VAR_6
+rtd,VAR_7
+prtd,VAR_8
+component,VAR_9
+adata,VAR_10

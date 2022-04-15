@@ -1,0 +1,16 @@
+CVMX_LMCX_FADR,FUNC_0
+CVMX_LMCX_INT,FUNC_1
+HW_EVENT_ERR_CORRECTED,VAR_0
+HW_EVENT_ERR_UNCORRECTED,VAR_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+edac_mc_handle_error,FUNC_4
+likely,FUNC_5
+snprintf,FUNC_6
+octeon_lmc_edac_poll_o2,FUNC_7
+mci,VAR_2
+pvt,VAR_3
+int_reg,VAR_4
+do_clear,VAR_5
+msg,VAR_6
+fadr,VAR_7

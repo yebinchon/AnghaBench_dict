@@ -1,0 +1,17 @@
+I915_TILING_Y,VAR_0
+PIN_GLOBAL,VAR_1
+PIN_MAPPABLE,VAR_2
+complete,FUNC_0
+i915_gem_object_set_tiling,FUNC_1
+i915_vma_pin,FUNC_2
+i915_vma_pin_fence,FUNC_3
+i915_vma_unpin,FUNC_4
+i915_vma_unpin_fence,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+pr_err,FUNC_8
+evict_fence,FUNC_9
+data,VAR_3
+arg,VAR_4
+i915,VAR_5
+err,VAR_6

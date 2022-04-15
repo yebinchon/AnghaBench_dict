@@ -1,0 +1,11 @@
+luaL_checkstring,FUNC_0
+lua_newtable,FUNC_1
+lua_pushinteger,FUNC_2
+lua_pushstring,FUNC_3
+lua_setfield,FUNC_4
+vlc_UrlClean,FUNC_5
+vlc_UrlParse,FUNC_6
+vlclua_url_parse,FUNC_7
+L,VAR_0
+psz_url,VAR_1
+url,VAR_2

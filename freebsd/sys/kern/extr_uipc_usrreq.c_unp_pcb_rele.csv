@@ -1,0 +1,10 @@
+MPASS,FUNC_0
+UNP_PCB_LOCK_ASSERT,FUNC_1
+UNP_PCB_LOCK_DESTROY,FUNC_2
+UNP_PCB_UNLOCK,FUNC_3
+refcount_release,FUNC_4
+uma_zfree,FUNC_5
+unp_zone,VAR_0
+unp_pcb_rele,FUNC_6
+unp,VAR_1
+freed,VAR_2

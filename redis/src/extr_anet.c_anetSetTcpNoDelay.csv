@@ -1,0 +1,12 @@
+ANET_ERR,VAR_0
+ANET_OK,VAR_1
+IPPROTO_TCP,VAR_2
+TCP_NODELAY,VAR_3
+anetSetError,FUNC_0
+errno,VAR_4
+setsockopt,FUNC_1
+strerror,FUNC_2
+anetSetTcpNoDelay,FUNC_3
+err,VAR_5
+fd,VAR_6
+val,VAR_7

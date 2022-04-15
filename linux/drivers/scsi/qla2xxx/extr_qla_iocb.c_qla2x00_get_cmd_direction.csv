@@ -1,0 +1,11 @@
+CF_READ,VAR_0
+CF_WRITE,VAR_1
+DMA_FROM_DEVICE,VAR_2
+DMA_TO_DEVICE,VAR_3
+GET_CMD_SP,FUNC_0
+scsi_bufflen,FUNC_1
+qla2x00_get_cmd_direction,FUNC_2
+sp,VAR_4
+cflags,VAR_5
+cmd,VAR_6
+vha,VAR_7

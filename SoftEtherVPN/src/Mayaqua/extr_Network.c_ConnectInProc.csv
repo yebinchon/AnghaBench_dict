@@ -1,0 +1,16 @@
+InsertQueue,FUNC_0
+LockQueue,FUNC_1
+NewSocketPair,FUNC_2
+ReleaseSock,FUNC_3
+SOCK_INPROC,VAR_0
+Set,FUNC_4
+UnlockQueue,FUNC_5
+ConnectInProc,FUNC_6
+listen_sock,VAR_1
+client_ip,VAR_2
+client_port,VAR_3
+server_ip,VAR_4
+server_port,VAR_5
+ss,VAR_6
+sc,VAR_7
+ok,VAR_8

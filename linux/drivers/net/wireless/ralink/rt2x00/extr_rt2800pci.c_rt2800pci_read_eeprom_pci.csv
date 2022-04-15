@@ -1,0 +1,16 @@
+E2PROM_CSR,VAR_0
+E2PROM_CSR_TYPE,VAR_1
+EEPROM_BASE,VAR_2
+EEPROM_SIZE,VAR_3
+PCI_EEPROM_WIDTH_93C46,VAR_4
+PCI_EEPROM_WIDTH_93C66,VAR_5
+PCI_EEPROM_WIDTH_93C86,VAR_6
+eeprom_93cx6_multiread,FUNC_0
+rt2800pci_eepromregister_read,VAR_7
+rt2800pci_eepromregister_write,VAR_8
+rt2x00_get_field32,FUNC_1
+rt2x00mmio_register_read,FUNC_2
+rt2800pci_read_eeprom_pci,FUNC_3
+rt2x00dev,VAR_9
+eeprom,VAR_10
+reg,VAR_11

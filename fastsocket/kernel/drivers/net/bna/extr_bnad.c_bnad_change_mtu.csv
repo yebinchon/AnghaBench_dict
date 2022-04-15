@@ -1,0 +1,17 @@
+BNAD_JUMBO_MTU,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+ETH_FCS_LEN,VAR_3
+ETH_HLEN,VAR_4
+ETH_ZLEN,VAR_5
+VLAN_HLEN,VAR_6
+bnad_mtu_set,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+netdev_priv,FUNC_3
+bnad_change_mtu,FUNC_4
+netdev,VAR_7
+new_mtu,VAR_8
+err,VAR_9
+mtu,VAR_10
+bnad,VAR_11

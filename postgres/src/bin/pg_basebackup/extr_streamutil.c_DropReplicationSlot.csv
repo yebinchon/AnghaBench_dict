@@ -1,0 +1,17 @@
+Assert,FUNC_0
+PGRES_COMMAND_OK,VAR_0
+PQclear,FUNC_1
+PQerrorMessage,FUNC_2
+PQexec,FUNC_3
+PQnfields,FUNC_4
+PQntuples,FUNC_5
+PQresultStatus,FUNC_6
+appendPQExpBuffer,FUNC_7
+createPQExpBuffer,FUNC_8
+destroyPQExpBuffer,FUNC_9
+pg_log_error,FUNC_10
+DropReplicationSlot,FUNC_11
+conn,VAR_1
+slot_name,VAR_2
+query,VAR_3
+res,VAR_4

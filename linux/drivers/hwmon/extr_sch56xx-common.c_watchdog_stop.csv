@@ -1,0 +1,11 @@
+SCH56XX_REG_WDOG_OUTPUT_ENABLE,VAR_0
+SCH56XX_WDOG_OUTPUT_ENABLE,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+sch56xx_write_virtual_reg,FUNC_2
+watchdog_get_drvdata,FUNC_3
+watchdog_stop,FUNC_4
+wddev,VAR_2
+data,VAR_3
+ret,VAR_4
+val,VAR_5

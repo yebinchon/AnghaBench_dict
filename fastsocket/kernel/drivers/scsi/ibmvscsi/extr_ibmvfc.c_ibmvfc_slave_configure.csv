@@ -1,0 +1,11 @@
+MSG_SIMPLE_TAG,VAR_0
+TYPE_DISK,VAR_1
+scsi_activate_tcq,FUNC_0
+scsi_deactivate_tcq,FUNC_1
+scsi_set_tag_type,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ibmvfc_slave_configure,FUNC_5
+sdev,VAR_2
+shost,VAR_3
+flags,VAR_4

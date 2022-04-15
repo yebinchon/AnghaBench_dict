@@ -1,0 +1,12 @@
+MDB_RTR_TYPE_DISABLED,VAR_0
+MDB_RTR_TYPE_PERM,VAR_1
+br,VAR_2
+br_mc_router_state_change,FUNC_0
+from_timer,FUNC_1
+multicast_router_timer,VAR_3
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+timer_pending,FUNC_4
+br_multicast_local_router_expired,FUNC_5
+t,VAR_4
+br,VAR_5

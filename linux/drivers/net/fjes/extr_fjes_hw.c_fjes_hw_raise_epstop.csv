@@ -1,0 +1,12 @@
+FJES_RX_STOP_REQ_REQUEST,VAR_0
+REG_ICTL_MASK_TXRX_STOP_REQ,VAR_1
+fjes_hw_get_partner_ep_status,FUNC_0
+fjes_hw_raise_interrupt,FUNC_1
+set_bit,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+fjes_hw_raise_epstop,FUNC_5
+hw,VAR_2
+status,VAR_3
+flags,VAR_4
+epidx,VAR_5

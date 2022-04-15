@@ -1,0 +1,13 @@
+CLK_GATE_SET_TO_DISABLE,VAR_0
+get_bit,FUNC_0
+get_clock_reg,FUNC_1
+get_reset_reg,FUNC_2
+regmap_read,FUNC_3
+to_aspeed_clk_gate,FUNC_4
+aspeed_g6_clk_is_enabled,FUNC_5
+hw,VAR_1
+gate,VAR_2
+clk,VAR_3
+rst,VAR_4
+reg,VAR_5
+enval,VAR_6

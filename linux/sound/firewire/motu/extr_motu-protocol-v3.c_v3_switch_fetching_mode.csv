@@ -1,0 +1,12 @@
+V3_CLOCK_STATUS_OFFSET,VAR_0
+V3_FETCH_PCM_FRAMES,VAR_1
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+snd_motu_transaction_read,FUNC_2
+snd_motu_transaction_write,FUNC_3
+v3_switch_fetching_mode,FUNC_4
+motu,VAR_2
+enable,VAR_3
+reg,VAR_4
+data,VAR_5
+err,VAR_6

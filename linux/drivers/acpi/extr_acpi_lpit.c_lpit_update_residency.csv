@@ -1,0 +1,13 @@
+ACPI_ADR_SPACE_FIXED_HARDWARE,VAR_0
+ACPI_ADR_SPACE_SYSTEM_MEMORY,VAR_1
+ACPI_FADT_LOW_POWER_S0,VAR_2
+acpi_gbl_FADT,VAR_3
+cpu_subsys,VAR_4
+dev_attr_low_power_idle_cpu_residency_us,VAR_5
+dev_attr_low_power_idle_system_residency_us,VAR_6
+ioremap_nocache,FUNC_0
+sysfs_add_file_to_group,FUNC_1
+tsc_khz,VAR_7
+lpit_update_residency,FUNC_2
+info,VAR_8
+lpit_native,VAR_9

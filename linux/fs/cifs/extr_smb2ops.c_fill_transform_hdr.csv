@@ -1,0 +1,15 @@
+SMB2_ENCRYPTION_AES128_GCM,VAR_0
+SMB2_TRANSFORM_PROTO_NUM,VAR_1
+SMB3_AES128CCM_NONCE,VAR_2
+SMB3_AES128GCM_NONCE,VAR_3
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+get_random_bytes,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+fill_transform_hdr,FUNC_5
+tr_hdr,VAR_4
+orig_len,VAR_5
+old_rq,VAR_6
+cipher_type,VAR_7
+shdr,VAR_8

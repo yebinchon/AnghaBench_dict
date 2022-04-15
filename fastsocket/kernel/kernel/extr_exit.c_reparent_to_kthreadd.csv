@@ -1,0 +1,16 @@
+SIGCHLD,VAR_0
+atomic_inc,FUNC_0
+commit_creds,FUNC_1
+current,VAR_1
+init_cred,VAR_2
+init_task,VAR_3
+kthreadd_task,VAR_4
+list_move_tail,FUNC_2
+memcpy,FUNC_3
+ptrace_unlink,FUNC_4
+set_user_nice,FUNC_5
+task_nice,FUNC_6
+tasklist_lock,VAR_5
+write_lock_irq,FUNC_7
+write_unlock_irq,FUNC_8
+reparent_to_kthreadd,FUNC_9

@@ -1,0 +1,13 @@
+EEPROM_BOOT_EFUSE,VAR_0
+EFUSE_IC_ID_OFFSET,VAR_1
+IC_INFERIORITY_A,VAR_2
+IC_INFERIORITY_B,VAR_3
+efuse_read_1byte,FUNC_0
+rtl_efuse,FUNC_1
+rtl_hal,FUNC_2
+rtl_priv,FUNC_3
+_rtl8192se_get_ic_inferiority,FUNC_4
+hw,VAR_4
+rtlefuse,VAR_5
+rtlhal,VAR_6
+efuse_id,VAR_7

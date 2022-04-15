@@ -1,0 +1,12 @@
+CLOCK_BOOTTIME,VAR_0
+CLOCK_MONOTONIC,VAR_1
+CLOCK_REALTIME,VAR_2
+USEC_INFINITY,VAR_3
+assert,FUNC_0
+clock_boottime_supported,FUNC_1
+now,FUNC_2
+usec_sub_signed,FUNC_3
+triple_timestamp_from_realtime,FUNC_4
+ts,VAR_4
+u,VAR_5
+delta,VAR_6

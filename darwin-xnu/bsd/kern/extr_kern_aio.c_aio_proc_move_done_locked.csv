@@ -1,0 +1,9 @@
+ASSERT_AIO_PROC_LOCK_OWNED,FUNC_0
+OSIncrementAtomic,FUNC_1
+TAILQ_INSERT_TAIL,FUNC_2
+TAILQ_REMOVE,FUNC_3
+aio_anchor,VAR_0
+aio_proc_link,VAR_1
+aio_proc_move_done_locked,FUNC_4
+procp,VAR_2
+entryp,VAR_3

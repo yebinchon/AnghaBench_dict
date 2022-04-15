@@ -1,0 +1,15 @@
+USB_DIR_OUT,VAR_0
+USB_RECIP_RPIPE,VAR_1
+USB_REQ_RPIPE_ABORT,VAR_2
+USB_TYPE_CLASS,VAR_3
+le16_to_cpu,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rpipe_put,FUNC_3
+usb_control_msg,FUNC_4
+usb_rcvctrlpipe,FUNC_5
+rpipe_ep_disable,FUNC_6
+wa,VAR_4
+ep,VAR_5
+rpipe,VAR_6
+index,VAR_7

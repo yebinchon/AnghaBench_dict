@@ -1,0 +1,9 @@
+AML_UART_STATUS_REG,VAR_0
+AML_UART_STATUS_TX_FIFO_FULL,VAR_1
+AML_UART_WFIFO_REG,VAR_2
+cpu_spinwait,FUNC_0
+ub_getreg,FUNC_1
+ub_setreg,FUNC_2
+uart_cnputc,FUNC_3
+cp,VAR_3
+c,VAR_4

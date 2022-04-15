@@ -1,0 +1,13 @@
+ccw_set_cmf,FUNC_0
+cio_enable_subchannel,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+stub1,FUNC_4
+to_ccwdev,FUNC_5
+to_subchannel,FUNC_6
+ccw_device_pm_thaw,FUNC_7
+dev,VAR_0
+cdev,VAR_1
+sch,VAR_2
+ret,VAR_3
+cm_enabled,VAR_4

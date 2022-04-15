@@ -1,0 +1,9 @@
+BIT,FUNC_0
+PCA963X_MODE1,VAR_0
+clear_bit,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+set_bit,FUNC_3
+pca963x_power_state,FUNC_4
+pca963x,VAR_1
+leds_on,VAR_2
+cached_leds,VAR_3

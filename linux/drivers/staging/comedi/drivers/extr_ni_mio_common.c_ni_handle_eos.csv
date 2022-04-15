@@ -1,0 +1,11 @@
+AIMODE_SCAN,VAR_0
+COMEDI_CB_EOS,VAR_1
+NISTC_AI_CMD2_END_ON_EOS,VAR_2
+ni_handle_fifo_dregs,FUNC_0
+ni_sync_ai_dma,FUNC_1
+shutdown_ai_command,FUNC_2
+udelay,FUNC_3
+ni_handle_eos,FUNC_4
+dev,VAR_3
+s,VAR_4
+devpriv,VAR_5

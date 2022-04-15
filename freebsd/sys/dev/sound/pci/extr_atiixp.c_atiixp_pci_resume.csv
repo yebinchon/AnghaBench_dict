@@ -1,0 +1,15 @@
+ATI_IXP_CHN_SUSPEND,VAR_0
+ENXIO,VAR_1
+PCMTRIG_START,VAR_2
+atiixp_chan_setformat,FUNC_0
+atiixp_chan_trigger,FUNC_1
+atiixp_enable_interrupts,FUNC_2
+atiixp_lock,FUNC_3
+atiixp_reset_aclink,FUNC_4
+atiixp_unlock,FUNC_5
+device_printf,FUNC_6
+mixer_reinit,FUNC_7
+pcm_getdevinfo,FUNC_8
+atiixp_pci_resume,FUNC_9
+dev,VAR_3
+sc,VAR_4

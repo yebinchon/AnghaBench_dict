@@ -1,0 +1,15 @@
+MEM_BLOCKSIZE,VAR_0
+Q_filelength,FUNC_0
+SafeOpenRead,FUNC_1
+SafeRead,FUNC_2
+fclose,FUNC_3
+memset,FUNC_4
+safe_malloc,FUNC_5
+LoadFileBlock,FUNC_6
+filename,VAR_1
+bufferptr,VAR_2
+f,VAR_3
+length,VAR_4
+nBlock,VAR_5
+nAllocSize,VAR_6
+buffer,VAR_7

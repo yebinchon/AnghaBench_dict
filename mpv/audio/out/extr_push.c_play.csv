@@ -1,0 +1,17 @@
+AOPLAY_FINAL_CHUNK,VAR_0
+MPMIN,FUNC_0
+MP_TRACE,FUNC_1
+mp_audio_buffer_append,FUNC_2
+mp_audio_buffer_get_write_available,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+wakeup_playthread,FUNC_6
+play,FUNC_7
+ao,VAR_1
+data,VAR_2
+samples,VAR_3
+flags,VAR_4
+p,VAR_5
+write_samples,VAR_6
+is_final,VAR_7
+got_data,VAR_8

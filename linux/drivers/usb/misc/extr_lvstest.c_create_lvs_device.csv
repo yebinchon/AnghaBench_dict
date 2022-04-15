@@ -1,0 +1,17 @@
+USB_SPEED_SUPER,VAR_0
+USB_STATE_DEFAULT,VAR_1
+bus_to_hcd,FUNC_0
+cpu_to_le16,FUNC_1
+dev_err,FUNC_2
+interface_to_usbdev,FUNC_3
+stub1,FUNC_4
+usb_alloc_dev,FUNC_5
+usb_get_intfdata,FUNC_6
+usb_put_dev,FUNC_7
+usb_set_device_state,FUNC_8
+create_lvs_device,FUNC_9
+intf,VAR_2
+udev,VAR_3
+hdev,VAR_4
+hcd,VAR_5
+lvs,VAR_6

@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+IS_ERR,FUNC_0
+PCF50633_IRQ_ALARM,VAR_2
+PTR_ERR,FUNC_1
+THIS_MODULE,VAR_3
+dev_to_pcf50633,FUNC_2
+devm_kzalloc,FUNC_3
+devm_rtc_device_register,FUNC_4
+pcf50633_register_irq,FUNC_5
+pcf50633_rtc_irq,VAR_4
+pcf50633_rtc_ops,VAR_5
+platform_set_drvdata,FUNC_6
+pcf50633_rtc_probe,FUNC_7
+pdev,VAR_6
+rtc,VAR_7

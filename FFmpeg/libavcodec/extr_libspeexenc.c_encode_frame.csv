@@ -1,0 +1,17 @@
+ff_af_queue_add,FUNC_0
+ff_af_queue_remove,FUNC_1
+ff_alloc_packet2,FUNC_2
+speex_bits_nbytes,FUNC_3
+speex_bits_pack,FUNC_4
+speex_bits_reset,FUNC_5
+speex_bits_write,FUNC_6
+speex_encode_int,FUNC_7
+speex_encode_stereo_int,FUNC_8
+encode_frame,FUNC_9
+avctx,VAR_0
+avpkt,VAR_1
+frame,VAR_2
+got_packet_ptr,VAR_3
+s,VAR_4
+samples,VAR_5
+ret,VAR_6

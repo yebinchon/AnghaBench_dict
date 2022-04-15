@@ -1,0 +1,14 @@
+DBG,FUNC_0
+LAPIC_LVT_MASKED,VAR_0
+LAPIC_LVT_PERIODIC,VAR_1
+LAPIC_LVT_TSC_DEADLINE,VAR_2
+LAPIC_READ,FUNC_1
+LAPIC_WRITE,FUNC_2
+LVT_TIMER,VAR_3
+lapic_get_tsc_deadline_timer,FUNC_3
+lapic_set_tsc_deadline_timer,FUNC_4
+mp_disable_preemption,FUNC_5
+mp_enable_preemption,FUNC_6
+rdtsc64,FUNC_7
+lapic_config_tsc_deadline_timer,FUNC_8
+timer_vector,VAR_4

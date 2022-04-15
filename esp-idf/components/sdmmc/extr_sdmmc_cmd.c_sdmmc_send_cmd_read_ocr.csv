@@ -1,0 +1,12 @@
+ESP_OK,VAR_0
+SCF_CMD_BCR,VAR_1
+SCF_RSP_R2,VAR_2
+SD_READ_OCR,VAR_3
+SD_SPI_R3,FUNC_0
+assert,FUNC_1
+sdmmc_send_cmd,FUNC_2
+sdmmc_send_cmd_read_ocr,FUNC_3
+card,VAR_4
+ocrp,VAR_5
+cmd,VAR_6
+err,VAR_7

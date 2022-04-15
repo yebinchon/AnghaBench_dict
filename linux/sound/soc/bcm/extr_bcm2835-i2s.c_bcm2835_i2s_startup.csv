@@ -1,0 +1,10 @@
+BCM2835_I2S_CS_A_REG,VAR_0
+BCM2835_I2S_EN,VAR_1
+BCM2835_I2S_STBY,VAR_2
+bcm2835_i2s_stop_clock,FUNC_0
+regmap_update_bits,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+bcm2835_i2s_startup,FUNC_3
+substream,VAR_3
+dai,VAR_4
+dev,VAR_5

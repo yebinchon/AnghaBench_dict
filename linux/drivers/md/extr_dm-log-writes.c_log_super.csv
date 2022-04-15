@@ -1,0 +1,11 @@
+DMERR,FUNC_0
+WRITE_LOG_MAGIC,VAR_0
+WRITE_LOG_SUPER_SECTOR,VAR_1
+WRITE_LOG_VERSION,VAR_2
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+wait_for_completion_io,FUNC_3
+write_metadata,FUNC_4
+log_super,FUNC_5
+lc,VAR_3
+super,VAR_4

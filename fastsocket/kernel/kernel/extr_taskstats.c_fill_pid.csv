@@ -1,0 +1,16 @@
+ESRCH,VAR_0
+TASKSTATS_VERSION,VAR_1
+bacct_add_tsk,FUNC_0
+delayacct_add_tsk,FUNC_1
+find_task_by_vpid,FUNC_2
+get_task_struct,FUNC_3
+memset,FUNC_4
+put_task_struct,FUNC_5
+rcu_read_lock,FUNC_6
+rcu_read_unlock,FUNC_7
+xacct_add_tsk,FUNC_8
+fill_pid,FUNC_9
+pid,VAR_2
+tsk,VAR_3
+stats,VAR_4
+rc,VAR_5

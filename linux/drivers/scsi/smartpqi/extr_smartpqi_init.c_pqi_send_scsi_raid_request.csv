@@ -1,0 +1,15 @@
+pqi_build_raid_path_request,FUNC_0
+pqi_pci_unmap,FUNC_1
+pqi_submit_raid_request_synchronous,FUNC_2
+pqi_send_scsi_raid_request,FUNC_3
+ctrl_info,VAR_0
+cmd,VAR_1
+scsi3addr,VAR_2
+buffer,VAR_3
+buffer_length,VAR_4
+vpd_page,VAR_5
+error_info,VAR_6
+timeout_msecs,VAR_7
+rc,VAR_8
+dir,VAR_9
+request,VAR_10

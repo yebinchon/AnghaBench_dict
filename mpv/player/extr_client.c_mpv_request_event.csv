@@ -1,0 +1,12 @@
+INTERNAL_EVENT_BASE,VAR_0
+MPV_ERROR_INVALID_PARAMETER,VAR_1
+MPV_EVENT_SHUTDOWN,VAR_2
+assert,FUNC_0
+mpv_event_name,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+mpv_request_event,FUNC_4
+ctx,VAR_3
+event,VAR_4
+enable,VAR_5
+bit,VAR_6

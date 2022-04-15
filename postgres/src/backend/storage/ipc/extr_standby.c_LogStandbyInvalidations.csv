@@ -1,0 +1,14 @@
+MinSizeOfInvalidations,VAR_0
+MyDatabaseId,VAR_1
+MyDatabaseTableSpace,VAR_2
+RM_STANDBY_ID,VAR_3
+XLOG_INVALIDATIONS,VAR_4
+XLogBeginInsert,FUNC_0
+XLogInsert,FUNC_1
+XLogRegisterData,FUNC_2
+memset,FUNC_3
+LogStandbyInvalidations,FUNC_4
+nmsgs,VAR_5
+msgs,VAR_6
+relcacheInitFileInval,VAR_7
+xlrec,VAR_8

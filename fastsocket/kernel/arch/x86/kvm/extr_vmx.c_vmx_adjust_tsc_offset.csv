@@ -1,0 +1,9 @@
+TSC_OFFSET,VAR_0
+trace_kvm_write_tsc_offset,FUNC_0
+vmcs_read64,FUNC_1
+vmcs_write64,FUNC_2
+vmx_adjust_tsc_offset,FUNC_3
+vcpu,VAR_1
+adjustment,VAR_2
+host,VAR_3
+offset,VAR_4

@@ -1,0 +1,15 @@
+MSG_DEBUG,VAR_0
+SSL_VERIFY_FAIL_IF_NO_PEER_CERT,VAR_1
+SSL_VERIFY_NONE,VAR_2
+SSL_VERIFY_PEER,VAR_3
+tls_verify_cb,VAR_4
+wolfSSL_set_accept_state,FUNC_0
+wolfSSL_set_verify,FUNC_1
+wpa_printf,FUNC_2
+tls_connection_set_verify,FUNC_3
+ssl_ctx,VAR_5
+conn,VAR_6
+verify_peer,VAR_7
+flags,VAR_8
+session_ctx,VAR_9
+session_ctx_len,VAR_10

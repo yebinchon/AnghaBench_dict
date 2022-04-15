@@ -1,0 +1,17 @@
+KRB5_KU_AP_REQ_AUTH,VAR_0
+KRB5_KU_TGS_REQ_AUTH,VAR_1
+decode_Authenticator,FUNC_0
+krb5_crypto_destroy,FUNC_1
+krb5_crypto_init,FUNC_2
+krb5_data_free,FUNC_3
+krb5_decrypt_EncryptedData,FUNC_4
+decrypt_authenticator,FUNC_5
+context,VAR_2
+key,VAR_3
+enc_part,VAR_4
+authenticator,VAR_5
+usage,VAR_6
+ret,VAR_7
+plain,VAR_8
+len,VAR_9
+crypto,VAR_10

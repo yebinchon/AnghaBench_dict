@@ -1,0 +1,17 @@
+AGPCTRL,VAR_0
+AGPSTAT_AGP_ENABLE,VAR_1
+AGPSTAT_MODE_3_0,VAR_2
+PCI_AGP_STATUS,VAR_3
+agp_3_5_enable,FUNC_0
+agp_bridge,VAR_4
+agp_collect_device_status,FUNC_1
+agp_device_command,FUNC_2
+dev_info,FUNC_3
+get_agp_version,FUNC_4
+pci_read_config_dword,FUNC_5
+pci_write_config_dword,FUNC_6
+agp_generic_enable,FUNC_7
+bridge,VAR_5
+requested_mode,VAR_6
+bridge_agpstat,VAR_7
+temp,VAR_8

@@ -1,0 +1,13 @@
+HCLGEVF_VECTOR0_EVENT_OTHER,VAR_0
+IRQ_HANDLED,VAR_1
+hclgevf_check_evt_cause,FUNC_0
+hclgevf_clear_event_cause,FUNC_1
+hclgevf_enable_vector,FUNC_2
+hclgevf_mbx_handler,FUNC_3
+hclgevf_reset_task_schedule,FUNC_4
+hclgevf_misc_irq_handle,FUNC_5
+irq,VAR_2
+data,VAR_3
+event_cause,VAR_4
+hdev,VAR_5
+clearval,VAR_6

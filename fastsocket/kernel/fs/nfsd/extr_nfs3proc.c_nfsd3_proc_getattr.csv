@@ -1,0 +1,15 @@
+NFSD_MAY_BYPASS_GSS_ON_ROOT,VAR_0
+NFSD_MAY_NOP,VAR_1
+RETURN_STATUS,FUNC_0
+SVCFH_fmt,FUNC_1
+dprintk,FUNC_2
+fh_copy,FUNC_3
+fh_verify,FUNC_4
+nfserrno,FUNC_5
+vfs_getattr,FUNC_6
+nfsd3_proc_getattr,FUNC_7
+rqstp,VAR_2
+argp,VAR_3
+resp,VAR_4
+err,VAR_5
+nfserr,VAR_6

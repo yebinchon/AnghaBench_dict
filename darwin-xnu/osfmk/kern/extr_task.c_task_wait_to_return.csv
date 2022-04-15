@@ -1,0 +1,15 @@
+TF_LRETURNWAIT,VAR_0
+TF_LRETURNWAITER,VAR_1
+THREAD_CONTINUE_NULL,VAR_2
+THREAD_UNINT,VAR_3
+assert_wait,FUNC_0
+current_proc,FUNC_1
+current_task,FUNC_2
+mac_proc_notify_exec_complete,FUNC_3
+task_get_return_wait_event,FUNC_4
+task_lock,FUNC_5
+task_unlock,FUNC_6
+thread_block,FUNC_7
+thread_bootstrap_return,FUNC_8
+task_wait_to_return,FUNC_9
+task,VAR_4

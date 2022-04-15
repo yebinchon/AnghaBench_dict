@@ -1,0 +1,14 @@
+Assert,FUNC_0
+GetMultiXactIdMembers,FUNC_1
+HEAP_XMAX_IS_MULTI,VAR_0
+HEAP_XMAX_LOCK_ONLY,VAR_1
+ISUPDATE_from_mxstatus,FUNC_2
+InvalidTransactionId,VAR_2
+pfree,FUNC_3
+MultiXactIdGetUpdateXid,FUNC_4
+xmax,VAR_3
+t_infomask,VAR_4
+update_xact,VAR_5
+members,VAR_6
+nmembers,VAR_7
+i,VAR_8

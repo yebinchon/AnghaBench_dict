@@ -1,0 +1,10 @@
+BMCR_ANENABLE,VAR_0
+BMCR_ANRESTART,VAR_1
+BMCR_ISOLATE,VAR_2
+BMCR_PDOWN,VAR_3
+CROSSOVER_AUTO,VAR_4
+MII_BMCR,VAR_5
+mv88e1xxx_crossover_set,FUNC_0
+t3_mdio_change_bits,FUNC_1
+mv88e1xxx_autoneg_enable,FUNC_2
+cphy,VAR_6

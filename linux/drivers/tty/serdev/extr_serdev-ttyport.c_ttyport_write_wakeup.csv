@@ -1,0 +1,14 @@
+SERPORT_ACTIVE,VAR_0
+TTY_DO_WRITE_WAKEUP,VAR_1
+serdev_controller_get_drvdata,FUNC_0
+serdev_controller_write_wakeup,FUNC_1
+test_and_clear_bit,FUNC_2
+test_bit,FUNC_3
+tty_kref_put,FUNC_4
+tty_port_tty_get,FUNC_5
+wake_up_interruptible,FUNC_6
+ttyport_write_wakeup,FUNC_7
+port,VAR_2
+ctrl,VAR_3
+serport,VAR_4
+tty,VAR_5

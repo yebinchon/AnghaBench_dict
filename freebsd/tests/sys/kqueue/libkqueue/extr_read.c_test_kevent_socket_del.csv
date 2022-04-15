@@ -1,0 +1,15 @@
+EVFILT_READ,VAR_0
+EV_DELETE,VAR_1
+EV_SET,FUNC_0
+err,FUNC_1
+kevent,FUNC_2
+kevent_socket_drain,FUNC_3
+kevent_socket_fill,FUNC_4
+kqfd,VAR_2
+sockfd,VAR_3
+success,FUNC_5
+test_begin,FUNC_6
+test_no_kevents,FUNC_7
+test_kevent_socket_del,FUNC_8
+test_id,VAR_4
+kev,VAR_5

@@ -1,0 +1,12 @@
+ATA_TFLAG_LBA48,VAR_0
+k2_stat_check_status,FUNC_0
+readw,FUNC_1
+k2_sata_tf_read,FUNC_2
+ap,VAR_1
+tf,VAR_2
+ioaddr,VAR_3
+nsect,VAR_4
+lbal,VAR_5
+lbam,VAR_6
+lbah,VAR_7
+feature,VAR_8

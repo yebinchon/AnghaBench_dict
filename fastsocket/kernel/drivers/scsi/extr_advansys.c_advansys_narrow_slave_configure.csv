@@ -1,0 +1,14 @@
+ASCV_CAN_TAGGED_QNG_B,VAR_0
+ASCV_DISC_ENABLE_B,VAR_1
+ASCV_MAX_DVC_QNG_BEG,VAR_2
+ASCV_USE_TAGGED_QNG_B,VAR_3
+AscAsyncFix,FUNC_0
+AscWriteLramByte,FUNC_1
+MSG_ORDERED_TAG,VAR_4
+scsi_adjust_queue_depth,FUNC_2
+advansys_narrow_slave_configure,FUNC_3
+sdev,VAR_5
+asc_dvc,VAR_6
+tid_bit,VAR_7
+orig_use_tagged_qng,VAR_8
+orig_init_sdtr,VAR_9

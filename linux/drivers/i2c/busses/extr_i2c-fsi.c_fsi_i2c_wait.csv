@@ -1,0 +1,17 @@
+ETIMEDOUT,VAR_0
+I2C_CMD_SLEEP_MAX_US,VAR_1
+I2C_CMD_SLEEP_MIN_US,VAR_2
+I2C_FSI_STAT,VAR_3
+I2C_STAT_ANY_RESP,VAR_4
+fsi_i2c_handle_status,FUNC_0
+fsi_i2c_read_reg,FUNC_1
+jiffies,VAR_5
+time_after,FUNC_2
+usleep_range,FUNC_3
+fsi_i2c_wait,FUNC_4
+port,VAR_6
+msg,VAR_7
+timeout,VAR_8
+status,VAR_9
+rc,VAR_10
+start,VAR_11

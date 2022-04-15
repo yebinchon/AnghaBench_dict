@@ -1,0 +1,12 @@
+M_DUART_IMR_TX,VAR_0
+M_DUART_TX_EN,VAR_1
+R_DUART_CMD,VAR_2
+R_DUART_IMRREG,FUNC_0
+read_sbdshr,FUNC_1
+to_sport,FUNC_2
+write_sbdchn,FUNC_3
+write_sbdshr,FUNC_4
+sbd_start_tx,FUNC_5
+uport,VAR_3
+sport,VAR_4
+mask,VAR_5

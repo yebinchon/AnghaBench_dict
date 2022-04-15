@@ -1,0 +1,12 @@
+ForgetResults,FUNC_0
+GetRemoteCommandResult,FUNC_1
+HandleRemoteTransactionResultError,FUNC_2
+IsResponseOK,FUNC_3
+PQclear,FUNC_4
+REMOTE_TRANS_STARTED,VAR_0
+FinishRemoteTransactionSavepointRollback,FUNC_5
+connection,VAR_1
+subId,VAR_2
+raiseErrors,VAR_3
+transaction,VAR_4
+result,VAR_5

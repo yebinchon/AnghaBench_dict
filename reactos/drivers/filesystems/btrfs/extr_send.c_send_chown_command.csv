@@ -1,0 +1,14 @@
+BTRFS_SEND_CMD_CHOWN,VAR_0
+BTRFS_SEND_TLV_GID,VAR_1
+BTRFS_SEND_TLV_PATH,VAR_2
+BTRFS_SEND_TLV_UID,VAR_3
+send_add_tlv,FUNC_0
+send_command,FUNC_1
+send_command_finish,FUNC_2
+strlen,FUNC_3
+send_chown_command,FUNC_4
+context,VAR_4
+path,VAR_5
+uid,VAR_6
+gid,VAR_7
+pos,VAR_8

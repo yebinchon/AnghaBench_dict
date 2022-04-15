@@ -1,0 +1,11 @@
+AUDIT_FEATURE_LOGINUID_IMMUTABLE,VAR_0
+AUDIT_FEATURE_ONLY_UNSET_LOGINUID,VAR_1
+CAP_AUDIT_CONTROL,VAR_2
+EPERM,VAR_3
+audit_loginuid_set,FUNC_0
+capable,FUNC_1
+current,VAR_4
+is_audit_feature_set,FUNC_2
+uid_valid,FUNC_3
+audit_set_loginuid_perm,FUNC_4
+loginuid,VAR_5

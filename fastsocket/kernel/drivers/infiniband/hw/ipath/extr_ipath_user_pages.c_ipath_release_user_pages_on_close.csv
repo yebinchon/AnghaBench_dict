@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+INIT_WORK,FUNC_0
+__ipath_release_user_pages,FUNC_1
+current,VAR_1
+get_task_mm,FUNC_2
+ib_wq,VAR_2
+kmalloc,FUNC_3
+mmput,FUNC_4
+queue_work,FUNC_5
+user_pages_account,VAR_3
+ipath_release_user_pages_on_close,FUNC_6
+p,VAR_4
+num_pages,VAR_5
+work,VAR_6
+mm,VAR_7

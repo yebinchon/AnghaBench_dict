@@ -1,0 +1,15 @@
+cec_get_drvdata,FUNC_0
+pm_runtime_disable,FUNC_1
+pm_runtime_get_sync,FUNC_2
+s5p_cec_enable_rx,FUNC_3
+s5p_cec_mask_rx_interrupts,FUNC_4
+s5p_cec_mask_tx_interrupts,FUNC_5
+s5p_cec_reset,FUNC_6
+s5p_cec_set_divider,FUNC_7
+s5p_cec_threshold,FUNC_8
+s5p_cec_unmask_rx_interrupts,FUNC_9
+s5p_cec_unmask_tx_interrupts,FUNC_10
+s5p_cec_adap_enable,FUNC_11
+adap,VAR_0
+enable,VAR_1
+cec,VAR_2

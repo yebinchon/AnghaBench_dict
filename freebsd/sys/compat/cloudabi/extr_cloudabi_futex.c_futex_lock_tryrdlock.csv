@@ -1,0 +1,14 @@
+CLOUDABI_LOCK_KERNEL_MANAGED,VAR_0
+CLOUDABI_LOCK_UNLOCKED,VAR_1
+CLOUDABI_LOCK_WRLOCKED,VAR_2
+EBUSY,VAR_3
+EINVAL,VAR_4
+LOCK_UNMANAGED,VAR_5
+futex_lock_set_owner,FUNC_0
+futex_user_cmpxchg,FUNC_1
+futex_lock_tryrdlock,FUNC_2
+fl,VAR_6
+address,VAR_7
+old,VAR_8
+cmp,VAR_9
+error,VAR_10

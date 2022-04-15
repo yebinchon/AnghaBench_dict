@@ -1,0 +1,17 @@
+CHI32_STATUS_REG,VAR_0
+CHI32_STATUS_REG_HF4,VAR_1
+DSP_VC_MIDI_WRITE,VAR_2
+EINVAL,VAR_3
+EIO,VAR_4
+MIDI_OUT_BUFFER_SIZE,VAR_5
+clear_handshake,FUNC_0
+dev_dbg,FUNC_1
+get_dsp_register,FUNC_2
+memcpy,FUNC_3
+send_vector,FUNC_4
+snd_BUG_ON,FUNC_5
+wait_handshake,FUNC_6
+write_midi,FUNC_7
+chip,VAR_6
+data,VAR_7
+bytes,VAR_8

@@ -1,0 +1,11 @@
+device_get_softc,FUNC_0
+fsl_pcib_cfgwrite,FUNC_1
+fsl_pcib_write_config,FUNC_2
+dev,VAR_0
+bus,VAR_1
+slot,VAR_2
+func,VAR_3
+reg,VAR_4
+val,VAR_5
+bytes,VAR_6
+sc,VAR_7

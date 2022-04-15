@@ -1,0 +1,11 @@
+TX_CLEAR,VAR_0
+TX_SET,VAR_1
+cvmx_write_csr,FUNC_0
+gpiochip_get_data,FUNC_1
+octeon_gpio_set,FUNC_2
+chip,VAR_2
+offset,VAR_3
+value,VAR_4
+gpio,VAR_5
+mask,VAR_6
+reg,VAR_7

@@ -1,0 +1,12 @@
+atomic_dec,FUNC_0
+complete,FUNC_1
+ib_umem_release,FUNC_2
+pvrdma_page_dir_cleanup,FUNC_3
+refcount_dec_and_test,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+wait_for_completion,FUNC_7
+pvrdma_free_srq,FUNC_8
+dev,VAR_0
+srq,VAR_1
+flags,VAR_2

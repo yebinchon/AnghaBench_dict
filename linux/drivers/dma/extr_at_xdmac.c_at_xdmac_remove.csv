@@ -1,0 +1,13 @@
+at_xdmac_free_chan_resources,FUNC_0
+at_xdmac_off,FUNC_1
+clk_disable_unprepare,FUNC_2
+dma_async_device_unregister,FUNC_3
+free_irq,FUNC_4
+of_dma_controller_free,FUNC_5
+platform_get_drvdata,FUNC_6
+tasklet_kill,FUNC_7
+at_xdmac_remove,FUNC_8
+pdev,VAR_0
+atxdmac,VAR_1
+i,VAR_2
+atchan,VAR_3

@@ -1,0 +1,10 @@
+FWOHCI_INTMASK,VAR_0
+FWOHCI_INTMASKCLR,VAR_1
+OHCI_INT_EN,VAR_2
+OWRITE,FUNC_0
+device_printf,FUNC_1
+firewire_debug,VAR_3
+fwohci_set_intr,FUNC_2
+fc,VAR_4
+enable,VAR_5
+sc,VAR_6

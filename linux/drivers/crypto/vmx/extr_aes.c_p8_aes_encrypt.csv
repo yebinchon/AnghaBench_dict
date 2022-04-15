@@ -1,0 +1,15 @@
+aes_p8_encrypt,FUNC_0
+crypto_cipher_encrypt_one,FUNC_1
+crypto_simd_usable,FUNC_2
+crypto_tfm_ctx,FUNC_3
+disable_kernel_vsx,FUNC_4
+enable_kernel_vsx,FUNC_5
+pagefault_disable,FUNC_6
+pagefault_enable,FUNC_7
+preempt_disable,FUNC_8
+preempt_enable,FUNC_9
+p8_aes_encrypt,FUNC_10
+tfm,VAR_0
+dst,VAR_1
+src,VAR_2
+ctx,VAR_3

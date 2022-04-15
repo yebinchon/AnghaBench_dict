@@ -1,0 +1,12 @@
+STATE_IDLE,VAR_0
+STATE_SENDING_CMD,VAR_1
+atmci_start_request,FUNC_0
+dev_dbg,FUNC_1
+dev_vdbg,FUNC_2
+list_add_tail,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+atmci_queue_request,FUNC_6
+host,VAR_2
+slot,VAR_3
+mrq,VAR_4

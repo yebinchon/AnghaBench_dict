@@ -1,0 +1,13 @@
+CPM_CR_INIT_TRX,VAR_0
+CPM_SPI_CMD,VAR_1
+QE_CR_PROTOCOL_UNSPECIFIED,VAR_2
+QE_INIT_TX_RX,VAR_3
+SPI_CPM1,VAR_4
+SPI_QE,VAR_5
+cpm_command,FUNC_0
+in_be16,FUNC_1
+out_be16,FUNC_2
+out_be32,FUNC_3
+qe_issue_cmd,FUNC_4
+fsl_spi_cpm_reinit_txrx,FUNC_5
+mspi,VAR_6

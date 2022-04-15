@@ -1,0 +1,15 @@
+PCI_IO_BASE,VAR_0
+PCI_PREF_BASE_UPPER32,VAR_1
+PCI_PREF_MEMORY_BASE,VAR_2
+PCI_PREF_RANGE_TYPE_64,VAR_3
+PCI_PREF_RANGE_TYPE_MASK,VAR_4
+PCI_VENDOR_ID_DEC,VAR_5
+pci_read_config_dword,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_dword,FUNC_2
+pci_write_config_word,FUNC_3
+pci_read_bridge_windows,FUNC_4
+bridge,VAR_6
+io,VAR_7
+pmem,VAR_8
+tmp,VAR_9

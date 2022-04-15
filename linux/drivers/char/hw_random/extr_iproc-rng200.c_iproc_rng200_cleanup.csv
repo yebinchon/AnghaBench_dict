@@ -1,0 +1,10 @@
+RNG_CTRL_OFFSET,VAR_0
+RNG_CTRL_RNG_RBGEN_DISABLE,VAR_1
+RNG_CTRL_RNG_RBGEN_MASK,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+to_rng_priv,FUNC_2
+iproc_rng200_cleanup,FUNC_3
+rng,VAR_3
+priv,VAR_4
+val,VAR_5

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+VFIO_IRQ_SET_DATA_BOOL,VAR_1
+VFIO_IRQ_SET_DATA_EVENTFD,VAR_2
+VFIO_IRQ_SET_DATA_NONE,VAR_3
+eventfd_ctx_fdget,FUNC_2
+eventfd_ctx_put,FUNC_3
+eventfd_signal,FUNC_4
+vfio_pci_set_ctx_trigger_single,FUNC_5
+ctx,VAR_4
+count,VAR_5
+flags,VAR_6
+data,VAR_7
+trigger,VAR_8
+fd,VAR_9
+efdctx,VAR_10

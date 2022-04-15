@@ -1,0 +1,11 @@
+ATH10K_DBG_PCI_PS,VAR_0
+PCIE_LOCAL_BASE_ADDRESS,VAR_1
+PCIE_SOC_WAKE_ADDRESS,VAR_2
+PCIE_SOC_WAKE_V_MASK,VAR_3
+ath10k_dbg,FUNC_0
+ath10k_pci_priv,FUNC_1
+iowrite32,FUNC_2
+lockdep_assert_held,FUNC_3
+__ath10k_pci_wake,FUNC_4
+ar,VAR_4
+ar_pci,VAR_5

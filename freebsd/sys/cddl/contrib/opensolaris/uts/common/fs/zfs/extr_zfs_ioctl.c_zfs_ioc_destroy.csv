@@ -1,0 +1,17 @@
+DMU_OST_ZFS,VAR_0
+DMU_OST_ZVOL,VAR_1
+FTAG,VAR_2
+dmu_objset_hold,FUNC_0
+dmu_objset_rele,FUNC_1
+dmu_objset_type,FUNC_2
+dsl_destroy_head,FUNC_3
+dsl_destroy_snapshot,FUNC_4
+strchr,FUNC_5
+zfs_unmount_snap,FUNC_6
+zvol_remove_minor,FUNC_7
+zvol_remove_minors,FUNC_8
+zfs_ioc_destroy,FUNC_9
+zc,VAR_3
+os,VAR_4
+ost,VAR_5
+err,VAR_6

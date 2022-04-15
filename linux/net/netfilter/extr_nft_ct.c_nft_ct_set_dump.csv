@@ -1,0 +1,13 @@
+IP_CT_DIR_MAX,VAR_0
+NFTA_CT_DIRECTION,VAR_1
+NFTA_CT_KEY,VAR_2
+NFTA_CT_SREG,VAR_3
+htonl,FUNC_0
+nft_dump_register,FUNC_1
+nft_expr_priv,FUNC_2
+nla_put_be32,FUNC_3
+nla_put_u8,FUNC_4
+nft_ct_set_dump,FUNC_5
+skb,VAR_4
+expr,VAR_5
+priv,VAR_6

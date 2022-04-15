@@ -1,0 +1,14 @@
+CMD_FWLOAD_FINISH,VAR_0
+CMD_FWLOAD_PREPARE,VAR_1
+DATA_FIFO_AREA,VAR_2
+FIRSTCHUNK,VAR_3
+PROGRAM_SRAM,VAR_4
+memset,FUNC_0
+ngcpyto,FUNC_1
+ngene_command,FUNC_2
+ngene_command_load_firmware,FUNC_3
+dev,VAR_5
+ngene_fw,VAR_6
+size,VAR_7
+cleft,VAR_8
+com,VAR_9

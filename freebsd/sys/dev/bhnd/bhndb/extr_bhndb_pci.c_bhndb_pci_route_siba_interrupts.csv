@@ -1,0 +1,17 @@
+BHNDB_PCI_LOCK,FUNC_0
+BHNDB_PCI_QUIRK_SIBA_INTVEC,VAR_0
+BHNDB_PCI_UNLOCK,FUNC_1
+ENXIO,VAR_1
+KASSERT,FUNC_2
+SB0_REG_ABS,FUNC_3
+SIBA_CFG0_INTVEC,VAR_2
+bhnd_get_intr_ivec,FUNC_4
+bhndb_pci_read_core,FUNC_5
+bhndb_pci_write_core,FUNC_6
+device_printf,FUNC_7
+bhndb_pci_route_siba_interrupts,FUNC_8
+sc,VAR_3
+child,VAR_4
+sbintvec,VAR_5
+ivec,VAR_6
+error,VAR_7

@@ -1,0 +1,12 @@
+FALSE,VAR_0
+OCS_HW_RTN_SUCCESS,VAR_1
+OCS_HW_RTN_SUCCESS_SYNC,VAR_2
+node_printf,FUNC_0
+ocs_hw_node_detach,FUNC_1
+ocs_node_initiate_cleanup,FUNC_2
+ocs_remote_node_group_free,FUNC_3
+ocs_scsi_io_alloc_disable,FUNC_4
+ocs_fabric_initiate_shutdown,FUNC_5
+node,VAR_3
+rc,VAR_4
+ocs,VAR_5

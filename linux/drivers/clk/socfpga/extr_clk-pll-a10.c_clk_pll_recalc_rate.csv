@@ -1,0 +1,15 @@
+SOCFPGA_PLL_DIVF_MASK,VAR_0
+SOCFPGA_PLL_DIVF_SHIFT,VAR_1
+SOCFPGA_PLL_DIVQ_MASK,VAR_2
+SOCFPGA_PLL_DIVQ_SHIFT,VAR_3
+do_div,FUNC_0
+readl,FUNC_1
+to_socfpga_clk,FUNC_2
+clk_pll_recalc_rate,FUNC_3
+hwclk,VAR_4
+parent_rate,VAR_5
+socfpgaclk,VAR_6
+divf,VAR_7
+divq,VAR_8
+reg,VAR_9
+vco_freq,VAR_10

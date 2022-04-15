@@ -1,0 +1,9 @@
+CONTROL_INV_TIMEOUT,VAR_0
+CTRL_INV_TO_MASK,VAR_1
+MMIO_CONTROL_OFFSET,VAR_2
+readq,FUNC_0
+writeq,FUNC_1
+iommu_set_inv_tlb_timeout,FUNC_2
+iommu,VAR_3
+timeout,VAR_4
+ctrl,VAR_5

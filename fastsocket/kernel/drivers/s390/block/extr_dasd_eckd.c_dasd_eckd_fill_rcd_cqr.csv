@@ -1,0 +1,14 @@
+DASD_CQR_FILLED,VAR_0
+DASD_CQR_VERIFY_PATH,VAR_1
+DASD_ECKD_CCW_RCD,VAR_2
+DASD_ECKD_MAGIC,VAR_3
+DASD_ECKD_RCD_DATA_SIZE,VAR_4
+HZ,VAR_5
+get_clock,FUNC_0
+set_bit,FUNC_1
+dasd_eckd_fill_rcd_cqr,FUNC_2
+device,VAR_6
+cqr,VAR_7
+rcd_buffer,VAR_8
+lpm,VAR_9
+ccw,VAR_10

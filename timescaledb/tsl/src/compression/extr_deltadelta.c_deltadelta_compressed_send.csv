@@ -1,0 +1,11 @@
+Assert,FUNC_0
+COMPRESSION_ALGORITHM_DELTADELTA,VAR_0
+pq_sendbyte,FUNC_1
+pq_sendint64,FUNC_2
+simple8brle_serialized_send,FUNC_3
+simple8brle_serialized_total_size,FUNC_4
+deltadelta_compressed_send,FUNC_5
+header,VAR_1
+buffer,VAR_2
+data,VAR_3
+nulls,VAR_4

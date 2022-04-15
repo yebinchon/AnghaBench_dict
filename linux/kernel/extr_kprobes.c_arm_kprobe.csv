@@ -1,0 +1,11 @@
+__arm_kprobe,FUNC_0
+arm_kprobe_ftrace,FUNC_1
+cpus_read_lock,FUNC_2
+cpus_read_unlock,FUNC_3
+kprobe_ftrace,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+text_mutex,VAR_0
+unlikely,FUNC_7
+arm_kprobe,FUNC_8
+kp,VAR_1

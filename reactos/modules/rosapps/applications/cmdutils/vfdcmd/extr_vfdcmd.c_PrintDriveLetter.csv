@@ -1,0 +1,14 @@
+ERROR_SUCCESS,VAR_0
+MSG_DRIVE_LETTER,VAR_1
+MSG_EPHEMERAL,VAR_2
+MSG_PERSISTENT,VAR_3
+PrintMessage,FUNC_0
+VfdGetGlobalLink,FUNC_1
+VfdGetLocalLink,FUNC_2
+isalpha,FUNC_3
+printf,FUNC_4
+toupper,FUNC_5
+PrintDriveLetter,FUNC_6
+hDevice,VAR_4
+nDrive,VAR_5
+letter,VAR_6

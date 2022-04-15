@@ -1,0 +1,16 @@
+BRCM_TAG_GET_PORT,FUNC_0
+BRCM_TAG_GET_QUEUE,FUNC_1
+netdev_pick_tx,FUNC_2
+netdev_priv,FUNC_3
+netdev_uses_dsa,FUNC_4
+skb_get_queue_mapping,FUNC_5
+unlikely,FUNC_6
+bcm_sysport_select_queue,FUNC_7
+dev,VAR_0
+skb,VAR_1
+sb_dev,VAR_2
+priv,VAR_3
+queue,VAR_4
+tx_ring,VAR_5
+q,VAR_6
+port,VAR_7

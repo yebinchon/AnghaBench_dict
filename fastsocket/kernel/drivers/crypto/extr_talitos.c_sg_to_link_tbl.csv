@@ -1,0 +1,13 @@
+DESC_PTR_LNKTBL_RETURN,VAR_0
+be16_to_cpu,FUNC_0
+cpu_to_be16,FUNC_1
+scatterwalk_sg_next,FUNC_2
+sg_dma_address,FUNC_3
+sg_dma_len,FUNC_4
+to_talitos_ptr,FUNC_5
+sg_to_link_tbl,FUNC_6
+sg,VAR_1
+sg_count,VAR_2
+cryptlen,VAR_3
+link_tbl_ptr,VAR_4
+n_sg,VAR_5

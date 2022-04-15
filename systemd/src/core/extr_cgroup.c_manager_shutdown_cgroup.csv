@@ -1,0 +1,11 @@
+MANAGER_TEST_RUN_MINIMAL,VAR_0
+SYSTEMD_CGROUP_CONTROLLER,VAR_1
+assert,FUNC_0
+cg_trim,FUNC_1
+hashmap_free,FUNC_2
+mfree,FUNC_3
+safe_close,FUNC_4
+sd_event_source_unref,FUNC_5
+manager_shutdown_cgroup,FUNC_6
+m,VAR_2
+delete,VAR_3

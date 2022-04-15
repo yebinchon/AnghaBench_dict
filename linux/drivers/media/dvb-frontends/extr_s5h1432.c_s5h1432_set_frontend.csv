@@ -1,0 +1,12 @@
+IF_FREQ_4_MHZ,VAR_0
+S5H1432_I2C_TOP_ADDR,VAR_1
+msleep,FUNC_0
+s5h1432_set_IF,FUNC_1
+s5h1432_set_channel_bandwidth,FUNC_2
+s5h1432_writereg,FUNC_3
+stub1,FUNC_4
+s5h1432_set_frontend,FUNC_5
+fe,VAR_2
+p,VAR_3
+dvb_bandwidth,VAR_4
+state,VAR_5

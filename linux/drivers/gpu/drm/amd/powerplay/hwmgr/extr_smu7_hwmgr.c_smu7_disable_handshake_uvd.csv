@@ -1,0 +1,13 @@
+CGS_IND_REG__SMC,VAR_0
+HandshakeDisables,VAR_1
+SMU_SoftRegisters,VAR_2
+SMU_UVD_MCLK_HANDSHAKE_DISABLE,VAR_3
+cgs_read_ind_register,FUNC_0
+cgs_write_ind_register,FUNC_1
+smum_get_mac_definition,FUNC_2
+smum_get_offsetof,FUNC_3
+smu7_disable_handshake_uvd,FUNC_4
+hwmgr,VAR_4
+data,VAR_5
+soft_register_value,VAR_6
+handshake_disables_offset,VAR_7

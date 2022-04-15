@@ -1,0 +1,15 @@
+BIT,FUNC_0
+SI5341_OUT_CFG_RDIV_FORCE2,VAR_0
+SI5341_OUT_CONFIG,FUNC_1
+SI5341_OUT_R_REG,FUNC_2
+regmap_bulk_write,FUNC_3
+regmap_update_bits,FUNC_4
+to_clk_si5341_output,FUNC_5
+si5341_output_clk_set_rate,FUNC_6
+hw,VAR_1
+rate,VAR_2
+parent_rate,VAR_3
+output,VAR_4
+r_div,VAR_5
+err,VAR_6
+r,VAR_7

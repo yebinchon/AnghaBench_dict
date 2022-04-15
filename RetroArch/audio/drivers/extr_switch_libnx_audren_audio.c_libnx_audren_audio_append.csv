@@ -1,0 +1,15 @@
+armDCacheFlush,FUNC_0
+audrvUpdate,FUNC_1
+audrvVoiceAddWaveBuf,FUNC_2
+audrvVoiceIsPlaying,FUNC_3
+audrvVoiceStart,FUNC_4
+libnx_audren_audio_get_free_wavebuf_idx,FUNC_5
+memcpy,FUNC_6
+mutexLock,FUNC_7
+mutexUnlock,FUNC_8
+libnx_audren_audio_append,FUNC_9
+aud,VAR_0
+buf,VAR_1
+size,VAR_2
+free_idx,VAR_3
+dstbuf,VAR_4

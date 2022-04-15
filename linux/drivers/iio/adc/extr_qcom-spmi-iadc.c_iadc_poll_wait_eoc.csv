@@ -1,0 +1,16 @@
+ETIMEDOUT,VAR_0
+IADC_CONV_TIME_MAX_US,VAR_1
+IADC_CONV_TIME_MIN_US,VAR_2
+IADC_STATUS1,VAR_3
+IADC_STATUS1_EOC,VAR_4
+IADC_STATUS1_REQ_STS_EOC_MASK,VAR_5
+iadc_read,FUNC_0
+iadc_status_show,FUNC_1
+usleep_range,FUNC_2
+iadc_poll_wait_eoc,FUNC_3
+iadc,VAR_6
+interval_us,VAR_7
+count,VAR_8
+retry,VAR_9
+ret,VAR_10
+sta1,VAR_11

@@ -1,0 +1,11 @@
+interface_to_usbdev,FUNC_0
+kfree,FUNC_1
+release_usb,FUNC_2
+unregister_lte_tty_device,FUNC_3
+usb_get_intfdata,FUNC_4
+usb_put_dev,FUNC_5
+gdm_mux_disconnect,FUNC_6
+intf,VAR_0
+tty_dev,VAR_1
+mux_dev,VAR_2
+usbdev,VAR_3

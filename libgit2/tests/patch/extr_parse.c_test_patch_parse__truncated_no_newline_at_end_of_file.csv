@@ -1,0 +1,11 @@
+PATCH_APPEND_NO_NL,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_patch_free,FUNC_2
+git_patch_from_buffer,FUNC_3
+git_patch_get_line_in_hunk,FUNC_4
+strlen,FUNC_5
+test_patch_parse__truncated_no_newline_at_end_of_file,FUNC_6
+len,VAR_1
+line,VAR_2
+patch,VAR_3

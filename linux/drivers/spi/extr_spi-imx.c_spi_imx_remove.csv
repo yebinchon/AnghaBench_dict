@@ -1,0 +1,15 @@
+MXC_CSPICTRL,VAR_0
+clk_disable,FUNC_0
+clk_disable_unprepare,FUNC_1
+clk_enable,FUNC_2
+platform_get_drvdata,FUNC_3
+spi_bitbang_stop,FUNC_4
+spi_imx_sdma_exit,FUNC_5
+spi_master_get_devdata,FUNC_6
+spi_master_put,FUNC_7
+writel,FUNC_8
+spi_imx_remove,FUNC_9
+pdev,VAR_1
+master,VAR_2
+spi_imx,VAR_3
+ret,VAR_4

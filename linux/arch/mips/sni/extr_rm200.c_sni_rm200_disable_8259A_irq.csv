@@ -1,0 +1,16 @@
+PIC_IMR,VAR_0
+RM200_I8259A_IRQ_BASE,VAR_1
+cached_master_mask,VAR_2
+cached_slave_mask,VAR_3
+raw_spin_lock_irqsave,FUNC_0
+raw_spin_unlock_irqrestore,FUNC_1
+rm200_cached_irq_mask,VAR_4
+rm200_pic_master,VAR_5
+rm200_pic_slave,VAR_6
+sni_rm200_i8259A_lock,VAR_7
+writeb,FUNC_2
+sni_rm200_disable_8259A_irq,FUNC_3
+d,VAR_8
+mask,VAR_9
+irq,VAR_10
+flags,VAR_11

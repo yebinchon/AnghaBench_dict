@@ -1,0 +1,12 @@
+FR_TXFF,VAR_0
+UART_DR,VAR_1
+UART_FR,VAR_2
+UART_XMIT_SIZE,VAR_3
+netx_stop_tx,FUNC_0
+readl,FUNC_1
+uart_circ_empty,FUNC_2
+uart_tx_stopped,FUNC_3
+writel,FUNC_4
+netx_transmit_buffer,FUNC_5
+port,VAR_4
+xmit,VAR_5

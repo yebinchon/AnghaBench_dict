@@ -1,0 +1,6 @@
+SYST_CON_EN,VAR_0
+SYST_CON_IRQ_CLR,VAR_1
+SYST_CON_REG,FUNC_0
+writel,FUNC_1
+mtk_syst_ack_irq,FUNC_2
+to,VAR_2

@@ -1,0 +1,13 @@
+SIGNAL_GROUP_EXIT,VAR_0
+__fatal_signal_pending,FUNC_0
+current,VAR_1
+smp_mb,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+wake_up_process,FUNC_4
+coredump_finish,FUNC_5
+mm,VAR_2
+core_dumped,VAR_3
+curr,VAR_4
+next,VAR_5
+task,VAR_6

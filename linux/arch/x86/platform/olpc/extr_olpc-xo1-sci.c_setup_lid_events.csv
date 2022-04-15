@@ -1,0 +1,17 @@
+GPIO_EVENTS_ENABLE,VAR_0
+GPIO_INPUT_INVERT,VAR_1
+GPIO_NEGATIVE_EDGE_EN,VAR_2
+GPIO_NEGATIVE_EDGE_STS,VAR_3
+GPIO_POSITIVE_EDGE_EN,VAR_4
+GPIO_POSITIVE_EDGE_STS,VAR_5
+OLPC_GPIO_LID,VAR_6
+cs5535_gpio_clear,FUNC_0
+cs5535_gpio_set,FUNC_1
+cs5535_gpio_set_irq,FUNC_2
+cs5535_gpio_setup_event,FUNC_3
+gpio_direction_input,FUNC_4
+gpio_request,FUNC_5
+lid_inverted,VAR_7
+sci_irq,VAR_8
+setup_lid_events,FUNC_6
+r,VAR_9

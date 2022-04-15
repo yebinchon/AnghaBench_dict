@@ -1,0 +1,12 @@
+AR8327_FRAME_ACK_CTRL_IGMP_V3_EN,VAR_0
+AR8327_REG_FRAME_ACK_CTRL1,VAR_1
+ar8xxx_reg_clear,FUNC_0
+ar8xxx_reg_set,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+swdev_to_ar8xxx,FUNC_4
+ar8327_sw_set_igmp_v3,FUNC_5
+dev,VAR_2
+attr,VAR_3
+val,VAR_4
+priv,VAR_5

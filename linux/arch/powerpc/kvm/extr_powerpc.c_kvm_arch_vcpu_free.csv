@@ -1,0 +1,10 @@
+hrtimer_cancel,FUNC_0
+kvmppc_core_vcpu_free,FUNC_1
+kvmppc_mpic_disconnect_vcpu,FUNC_2
+kvmppc_remove_vcpu_debugfs,FUNC_3
+kvmppc_xics_free_icp,FUNC_4
+kvmppc_xive_cleanup_vcpu,FUNC_5
+kvmppc_xive_native_cleanup_vcpu,FUNC_6
+xics_on_xive,FUNC_7
+kvm_arch_vcpu_free,FUNC_8
+vcpu,VAR_0

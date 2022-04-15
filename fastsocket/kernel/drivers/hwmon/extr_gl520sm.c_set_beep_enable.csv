@@ -1,0 +1,16 @@
+GL520_REG_BEEP_ENABLE,VAR_0
+gl520_read_value,FUNC_0
+gl520_write_value,FUNC_1
+i2c_get_clientdata,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+simple_strtoul,FUNC_5
+to_i2c_client,FUNC_6
+set_beep_enable,FUNC_7
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+client,VAR_5
+data,VAR_6
+r,VAR_7

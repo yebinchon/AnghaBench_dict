@@ -1,0 +1,17 @@
+EAGAIN,VAR_0
+POLLIN,VAR_1
+_glfw,VAR_2
+_glfwInputWindowCloseRequest,FUNC_0
+errno,VAR_3
+poll,FUNC_1
+wl_display_cancel_read,FUNC_2
+wl_display_dispatch_pending,FUNC_3
+wl_display_flush,FUNC_4
+wl_display_get_fd,FUNC_5
+wl_display_prepare_read,FUNC_6
+wl_display_read_events,FUNC_7
+handleEvents,FUNC_8
+timeout,VAR_4
+display,VAR_5
+fds,VAR_6
+window,VAR_7

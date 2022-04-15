@@ -1,0 +1,17 @@
+ARCHIVE_FATAL,VAR_0
+ARCHIVE_OK,VAR_1
+SEEK_CUR,VAR_2
+archive_set_error,FUNC_0
+errno,VAR_3
+lseek,FUNC_1
+write,FUNC_2
+pad_to,FUNC_3
+a,VAR_4
+fd,VAR_5
+can_lseek,VAR_6
+nulls_size,VAR_7
+nulls,VAR_8
+target_offset,VAR_9
+actual_offset,VAR_10
+to_write,VAR_11
+bytes_written,VAR_12

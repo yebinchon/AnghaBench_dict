@@ -1,0 +1,13 @@
+ETH_P_8021Q,VAR_0
+VLAN_ETH_HLEN,VAR_1
+__pop_vlan_tci,FUNC_0
+__vlan_hwaccel_put_tag,FUNC_1
+htons,FUNC_2
+likely,FUNC_3
+ntohs,FUNC_4
+unlikely,FUNC_5
+vlan_tx_tag_present,FUNC_6
+pop_vlan,FUNC_7
+skb,VAR_2
+tci,VAR_3
+err,VAR_4

@@ -1,0 +1,12 @@
+BCM_MIPS_LOCK,FUNC_0
+BCM_MIPS_UNLOCK,FUNC_1
+bcm_mips_release_cpu_intr,FUNC_2
+device_get_softc,FUNC_3
+bcm_mips_pic_teardown_intr,FUNC_4
+dev,VAR_0
+irqsrc,VAR_1
+res,VAR_2
+data,VAR_3
+sc,VAR_4
+isrc,VAR_5
+error,VAR_6

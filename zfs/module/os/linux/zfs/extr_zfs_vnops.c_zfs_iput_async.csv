@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+ITOZSB,FUNC_1
+TASKQID_INVALID,VAR_0
+TQ_SLEEP,VAR_1
+VERIFY,FUNC_2
+atomic_read,FUNC_3
+dmu_objset_pool,FUNC_4
+dsl_pool_iput_taskq,FUNC_5
+iput,FUNC_6
+taskq_dispatch,FUNC_7
+zfs_iput_async,FUNC_8
+ip,VAR_2
+os,VAR_3

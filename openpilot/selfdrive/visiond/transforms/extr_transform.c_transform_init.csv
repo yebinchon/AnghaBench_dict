@@ -1,0 +1,13 @@
+CLU_LOAD_FROM_FILE,FUNC_0
+CL_MEM_READ_WRITE,VAR_0
+assert,FUNC_1
+clCreateBuffer,FUNC_2
+clCreateKernel,FUNC_3
+clReleaseProgram,FUNC_4
+memset,FUNC_5
+transform_init,FUNC_6
+s,VAR_1
+ctx,VAR_2
+device_id,VAR_3
+err,VAR_4
+prg,VAR_5

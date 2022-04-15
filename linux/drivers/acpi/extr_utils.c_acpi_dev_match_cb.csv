@@ -1,0 +1,12 @@
+ACPI_FAILURE,FUNC_0
+acpi_evaluate_integer,FUNC_1
+acpi_match_device_ids,FUNC_2
+strcmp,FUNC_3
+to_acpi_device,FUNC_4
+acpi_dev_match_cb,FUNC_5
+dev,VAR_0
+data,VAR_1
+adev,VAR_2
+match,VAR_3
+hrv,VAR_4
+status,VAR_5

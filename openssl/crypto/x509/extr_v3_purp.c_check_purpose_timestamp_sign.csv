@@ -1,0 +1,16 @@
+EXFLAG_KUSAGE,VAR_0
+EXFLAG_XKUSAGE,VAR_1
+KU_DIGITAL_SIGNATURE,VAR_2
+KU_NON_REPUDIATION,VAR_3
+NID_ext_key_usage,VAR_4
+X509_EXTENSION_get_critical,FUNC_0
+X509_get_ext,FUNC_1
+X509_get_ext_by_NID,FUNC_2
+XKU_TIMESTAMP,VAR_5
+check_ca,FUNC_3
+check_purpose_timestamp_sign,FUNC_4
+xp,VAR_6
+x,VAR_7
+ca,VAR_8
+i_ext,VAR_9
+ext,VAR_10

@@ -1,0 +1,11 @@
+RADIUS_ATTR_EAP_MESSAGE,VAR_0
+radius_get_attr_hdr,FUNC_0
+wpabuf_alloc,FUNC_1
+wpabuf_put_data,FUNC_2
+radius_msg_get_eap,FUNC_3
+msg,VAR_1
+eap,VAR_2
+len,VAR_3
+i,VAR_4
+attr,VAR_5
+flen,VAR_6

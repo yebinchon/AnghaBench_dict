@@ -1,0 +1,17 @@
+BUFNR,VAR_0
+REQ_OP_READ,VAR_1
+__getblk,FUNC_0
+brelse,FUNC_1
+buffer_uptodate,FUNC_2
+ll_rw_block,FUNC_3
+wait_on_buffer,FUNC_4
+reiserfs_breada,FUNC_5
+dev,VAR_2
+block,VAR_3
+bufsize,VAR_4
+max_block,VAR_5
+bhlist,VAR_6
+blocks,VAR_7
+bh,VAR_8
+i,VAR_9
+j,VAR_10

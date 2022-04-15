@@ -1,0 +1,17 @@
+BC_FLG_BUSY,VAR_0
+B_ACKPENDING,VAR_1
+B_XMTBUFREADY,VAR_2
+FLG_LLI_L1WAKEUP,VAR_3
+PACKET_NOACK,VAR_4
+dev_kfree_skb_any,FUNC_0
+schedule_event,FUNC_1
+skb_dequeue,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+test_and_clear_bit,FUNC_5
+test_and_set_bit,FUNC_6
+test_bit,FUNC_7
+write_modem,FUNC_8
+modem_fill,FUNC_9
+bcs,VAR_5
+flags,VAR_6

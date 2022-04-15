@@ -1,0 +1,14 @@
+ICEMT,FUNC_0
+PLAYBACK_ADDR,VAR_0
+PLAYBACK_COUNT,VAR_1
+PLAYBACK_SIZE,VAR_2
+outl,FUNC_1
+outw,FUNC_2
+snd_pcm_lib_buffer_bytes,FUNC_3
+snd_pcm_lib_period_bytes,FUNC_4
+snd_pcm_substream_chip,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+snd_ice1712_playback_pro_prepare,FUNC_8
+substream,VAR_3
+ice,VAR_4

@@ -1,0 +1,11 @@
+atomic_thread_fence_rel,FUNC_0
+likely,FUNC_1
+mlx5e_send_nop,FUNC_2
+mlx5e_sq_has_room_for,FUNC_3
+mlx5e_tx_notify_hw,FUNC_4
+msleep,FUNC_5
+mtx_lock,FUNC_6
+mtx_unlock,FUNC_7
+mlx5e_sq_send_nops_locked,FUNC_8
+sq,VAR_0
+can_sleep,VAR_1

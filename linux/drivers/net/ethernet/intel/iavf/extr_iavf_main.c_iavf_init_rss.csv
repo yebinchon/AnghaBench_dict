@@ -1,0 +1,13 @@
+IAVF_DEFAULT_RSS_HENA,VAR_0
+IAVF_DEFAULT_RSS_HENA_EXPANDED,VAR_1
+IAVF_VFQF_HENA,FUNC_0
+RSS_PF,FUNC_1
+VIRTCHNL_VF_OFFLOAD_RSS_PCTYPE_V2,VAR_2
+iavf_config_rss,FUNC_2
+iavf_fill_rss_lut,FUNC_3
+netdev_rss_key_fill,FUNC_4
+wr32,FUNC_5
+iavf_init_rss,FUNC_6
+adapter,VAR_3
+hw,VAR_4
+ret,VAR_5

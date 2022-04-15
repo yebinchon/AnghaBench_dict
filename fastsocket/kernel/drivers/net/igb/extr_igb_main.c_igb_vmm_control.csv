@@ -1,0 +1,13 @@
+E1000_DTXCTL,VAR_0
+E1000_DTXCTL_VLAN_ADDED,VAR_1
+E1000_RPLOLR,VAR_2
+E1000_RPLOLR_STRVLAN,VAR_3
+igb_vmdq_set_anti_spoofing_pf,FUNC_0
+igb_vmdq_set_loopback_pf,FUNC_1
+igb_vmdq_set_replication_pf,FUNC_2
+rd32,FUNC_3
+wr32,FUNC_4
+igb_vmm_control,FUNC_5
+adapter,VAR_4
+hw,VAR_5
+reg,VAR_6

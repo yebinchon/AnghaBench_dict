@@ -1,0 +1,12 @@
+DFU_DNLOAD,VAR_0
+USB_CTRL_GET_TIMEOUT,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_TYPE_CLASS,VAR_4
+usb_control_msg,FUNC_0
+usb_sndctrlpipe,FUNC_1
+at76_load_int_fw_block,FUNC_2
+udev,VAR_5
+blockno,VAR_6
+block,VAR_7
+size,VAR_8

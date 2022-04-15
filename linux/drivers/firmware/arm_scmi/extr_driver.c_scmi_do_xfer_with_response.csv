@@ -1,0 +1,12 @@
+DECLARE_COMPLETION_ONSTACK,FUNC_0
+ETIMEDOUT,VAR_0
+SCMI_MAX_RESPONSE_TIMEOUT,VAR_1
+async_response,VAR_2
+msecs_to_jiffies,FUNC_1
+scmi_do_xfer,FUNC_2
+wait_for_completion_timeout,FUNC_3
+scmi_do_xfer_with_response,FUNC_4
+handle,VAR_3
+xfer,VAR_4
+ret,VAR_5
+timeout,VAR_6

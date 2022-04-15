@@ -1,0 +1,12 @@
+connector_destroy_list,VAR_0
+destroy_lock,VAR_1
+fsnotify_mark_connector_cachep,VAR_2
+fsnotify_mark_srcu,VAR_3
+kmem_cache_free,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+synchronize_srcu,FUNC_3
+fsnotify_connector_destroy_workfn,FUNC_4
+work,VAR_4
+conn,VAR_5
+free,VAR_6

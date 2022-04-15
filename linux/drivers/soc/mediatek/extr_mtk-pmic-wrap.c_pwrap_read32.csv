@@ -1,0 +1,16 @@
+PWRAP_GET_WACS_RDATA,FUNC_0
+PWRAP_WACS2_CMD,VAR_0
+PWRAP_WACS2_RDATA,VAR_1
+PWRAP_WACS2_VLDCLR,VAR_2
+pwrap_is_fsm_idle,VAR_3
+pwrap_is_fsm_vldclr,VAR_4
+pwrap_leave_fsm_vldclr,FUNC_1
+pwrap_readl,FUNC_2
+pwrap_wait_for_state,FUNC_3
+pwrap_writel,FUNC_4
+pwrap_read32,FUNC_5
+wrp,VAR_5
+adr,VAR_6
+rdata,VAR_7
+ret,VAR_8
+msb,VAR_9

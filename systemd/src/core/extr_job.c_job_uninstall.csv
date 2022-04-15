@@ -1,0 +1,13 @@
+JOB_NOP,VAR_0
+JOB_WAITING,VAR_1
+MANAGER_IS_RELOADING,FUNC_0
+UINT32_TO_PTR,FUNC_1
+assert,FUNC_2
+bus_job_send_removed_signal,FUNC_3
+hashmap_remove_value,FUNC_4
+job_set_state,FUNC_5
+unit_add_to_dbus_queue,FUNC_6
+unit_add_to_gc_queue,FUNC_7
+job_uninstall,FUNC_8
+j,VAR_2
+pj,VAR_3

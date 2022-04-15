@@ -1,0 +1,13 @@
+iop3xx_i2c_enable,FUNC_0
+iop3xx_i2c_handle_msg,FUNC_1
+iop3xx_i2c_reset,FUNC_2
+iop3xx_i2c_transaction_cleanup,FUNC_3
+iop3xx_i2c_wait_idle,FUNC_4
+iop3xx_i2c_master_xfer,FUNC_5
+i2c_adap,VAR_0
+msgs,VAR_1
+num,VAR_2
+iop3xx_adap,VAR_3
+im,VAR_4
+ret,VAR_5
+status,VAR_6

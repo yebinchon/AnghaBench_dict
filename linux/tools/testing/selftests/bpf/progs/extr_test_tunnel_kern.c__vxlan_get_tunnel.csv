@@ -1,0 +1,12 @@
+ERROR,FUNC_0
+TC_ACT_OK,VAR_0
+TC_ACT_SHOT,VAR_1
+bpf_skb_get_tunnel_key,FUNC_1
+bpf_skb_get_tunnel_opt,FUNC_2
+bpf_trace_printk,FUNC_3
+_vxlan_get_tunnel,FUNC_4
+skb,VAR_2
+ret,VAR_3
+key,VAR_4
+md,VAR_5
+fmt,VAR_6

@@ -1,0 +1,10 @@
+assert_all_refnames_match,FUNC_0
+cl_git_pass,FUNC_1
+git_reference_foreach,FUNC_2
+git_vector_init,FUNC_3
+refcmp_cb,VAR_0
+refnames,VAR_1
+refs_foreach_cb,VAR_2
+repo,VAR_3
+test_refs_iterator__foreach,FUNC_4
+output,VAR_4

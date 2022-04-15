@@ -1,0 +1,17 @@
+NAND_ALE,VAR_0
+NAND_CLE,VAR_1
+NAND_CMD_NONE,VAR_2
+NAND_NCE,VAR_3
+WARN_ON,FUNC_0
+jz4780_nemc_assert,FUNC_1
+nand_to_mtd,FUNC_2
+to_ingenic_nand,FUNC_3
+to_ingenic_nfc,FUNC_4
+writeb,FUNC_5
+ingenic_nand_cmd_ctrl,FUNC_6
+chip,VAR_4
+cmd,VAR_5
+ctrl,VAR_6
+nand,VAR_7
+nfc,VAR_8
+cs,VAR_9

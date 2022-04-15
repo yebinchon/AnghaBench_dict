@@ -1,0 +1,14 @@
+MSR_APICBASE,VAR_0
+vlapic_get_apicbase,FUNC_0
+vlapic_read,FUNC_1
+vm_lapic,FUNC_2
+x2apic_msr_to_regoff,FUNC_3
+lapic_rdmsr,FUNC_4
+vm,VAR_1
+cpu,VAR_2
+msr,VAR_3
+rval,VAR_4
+retu,VAR_5
+error,VAR_6
+offset,VAR_7
+vlapic,VAR_8

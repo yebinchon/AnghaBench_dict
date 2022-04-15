@@ -1,0 +1,12 @@
+DEFINE_WAIT_BIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+__I_DIO_WAKEUP,VAR_1
+atomic_read,FUNC_1
+bit_waitqueue,FUNC_2
+finish_wait,FUNC_3
+prepare_to_wait,FUNC_4
+q,VAR_2
+schedule,FUNC_5
+__inode_dio_wait,FUNC_6
+inode,VAR_3
+wq,VAR_4

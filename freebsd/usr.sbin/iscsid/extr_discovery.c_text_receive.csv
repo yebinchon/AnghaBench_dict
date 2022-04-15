@@ -1,0 +1,11 @@
+BHSTR_FLAGS_CONTINUE,VAR_0
+BHSTR_FLAGS_FINAL,VAR_1
+ISCSI_BHS_OPCODE_TEXT_RESPONSE,VAR_2
+log_errx,FUNC_0
+ntohl,FUNC_1
+pdu_new,FUNC_2
+pdu_receive,FUNC_3
+text_receive,FUNC_4
+conn,VAR_3
+response,VAR_4
+bhstr,VAR_5

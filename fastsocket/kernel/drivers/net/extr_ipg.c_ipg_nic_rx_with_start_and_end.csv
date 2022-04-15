@@ -1,0 +1,17 @@
+CHECKSUM_NONE,VAR_0
+IPG_RFS_RXFRAMELEN,VAR_1
+NORMAL_PACKET,VAR_2
+dev_kfree_skb_irq,FUNC_0
+eth_type_trans,FUNC_1
+ipg_nic_rx_check_error,FUNC_2
+le64_to_cpu,FUNC_3
+netif_rx,FUNC_4
+skb_put,FUNC_5
+ipg_nic_rx_with_start_and_end,FUNC_6
+dev,VAR_3
+sp,VAR_4
+rxfd,VAR_5
+entry,VAR_6
+jumbo,VAR_7
+skb,VAR_8
+framelen,VAR_9

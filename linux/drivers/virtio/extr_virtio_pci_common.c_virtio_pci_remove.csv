@@ -1,0 +1,12 @@
+get_device,FUNC_0
+pci_disable_device,FUNC_1
+pci_disable_sriov,FUNC_2
+pci_get_drvdata,FUNC_3
+put_device,FUNC_4
+unregister_virtio_device,FUNC_5
+virtio_pci_legacy_remove,FUNC_6
+virtio_pci_modern_remove,FUNC_7
+virtio_pci_remove,FUNC_8
+pci_dev,VAR_0
+vp_dev,VAR_1
+dev,VAR_2

@@ -1,0 +1,17 @@
+CLEAR_WAIT_MAX_ERRORS,VAR_0
+PPS_CAPTUREASSERT,VAR_1
+PPS_CAPTURECLEAR,VAR_2
+dev_err,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+pps_event,FUNC_3
+pps_get_ts,FUNC_4
+signal_is_set,FUNC_5
+parport_irq,FUNC_6
+handle,VAR_3
+ts_assert,VAR_4
+ts_clear,VAR_5
+dev,VAR_6
+port,VAR_7
+i,VAR_8
+flags,VAR_9

@@ -1,0 +1,16 @@
+AT91_PIT_MR,VAR_0
+AT91_PIT_PITEN,VAR_1
+AT91_PIT_PITIEN,VAR_2
+AT91_PIT_PIVR,VAR_3
+BUG,FUNC_0
+PIT_PICNT,FUNC_1
+at91_sys_read,FUNC_2
+at91_sys_write,FUNC_3
+pit_cnt,VAR_4
+pit_cycle,VAR_5
+raw_local_irq_restore,FUNC_4
+raw_local_irq_save,FUNC_5
+pit_clkevt_mode,FUNC_6
+mode,VAR_6
+dev,VAR_7
+flags,VAR_8

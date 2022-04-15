@@ -1,0 +1,11 @@
+REG13_AEC_EN,VAR_0
+REG13_AGC_EN,VAR_1
+REG_REG13,VAR_2
+V4L2_EXPOSURE_AUTO,VAR_3
+regmap_read,FUNC_0
+regmap_write,FUNC_1
+ov7740_set_autoexp,FUNC_2
+regmap,VAR_4
+value,VAR_5
+reg,VAR_6
+ret,VAR_7

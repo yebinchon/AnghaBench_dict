@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+INIT_LIST_HEAD,FUNC_0
+capidev_list,VAR_2
+capidev_list_lock,VAR_3
+init_waitqueue_head,FUNC_1
+kzalloc,FUNC_2
+list_add_tail,FUNC_3
+mutex_init,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+skb_queue_head_init,FUNC_7
+stream_open,FUNC_8
+capi_open,FUNC_9
+inode,VAR_4
+file,VAR_5
+cdev,VAR_6

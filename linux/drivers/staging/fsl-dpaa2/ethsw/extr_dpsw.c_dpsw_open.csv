@@ -1,0 +1,13 @@
+DPSW_CMDID_OPEN,VAR_0
+cpu_to_le32,FUNC_0
+mc_cmd_hdr_read_token,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpsw_open,FUNC_4
+mc_io,VAR_1
+cmd_flags,VAR_2
+dpsw_id,VAR_3
+token,VAR_4
+cmd,VAR_5
+cmd_params,VAR_6
+err,VAR_7

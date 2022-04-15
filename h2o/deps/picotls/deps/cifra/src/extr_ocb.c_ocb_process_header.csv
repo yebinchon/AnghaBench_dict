@@ -1,0 +1,17 @@
+BLOCK,VAR_0
+cf_blockwise_accumulate,FUNC_0
+cf_gf128_add,FUNC_1
+cf_gf128_tobytes_be,FUNC_2
+mem_clean,FUNC_3
+memset,FUNC_4
+ocb_hash_block,VAR_1
+ocb_hash_init,FUNC_5
+ocb_hash_sum,FUNC_6
+ocb_process_header,FUNC_7
+o,VAR_2
+header,VAR_3
+nheader,VAR_4
+out,VAR_5
+ctx,VAR_6
+partial,VAR_7
+npartial,VAR_8

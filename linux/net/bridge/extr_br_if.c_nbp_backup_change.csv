@@ -1,0 +1,12 @@
+ASSERT_RTNL,FUNC_0
+EINVAL,VAR_0
+ENOENT,VAR_1
+br_port_get_rtnl,FUNC_1
+netif_is_bridge_port,FUNC_2
+rcu_assign_pointer,FUNC_3
+rtnl_dereference,FUNC_4
+nbp_backup_change,FUNC_5
+p,VAR_2
+backup_dev,VAR_3
+old_backup,VAR_4
+backup_p,VAR_5

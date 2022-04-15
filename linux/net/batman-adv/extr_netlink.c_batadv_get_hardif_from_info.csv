@@ -1,0 +1,16 @@
+BATADV_ATTR_HARD_IFINDEX,VAR_0
+EINVAL,VAR_1
+ENODEV,VAR_2
+ERR_PTR,FUNC_0
+batadv_hardif_get_by_netdev,FUNC_1
+batadv_hardif_put,FUNC_2
+dev_get_by_index,FUNC_3
+dev_put,FUNC_4
+nla_get_u32,FUNC_5
+batadv_get_hardif_from_info,FUNC_6
+bat_priv,VAR_3
+net,VAR_4
+info,VAR_5
+hard_iface,VAR_6
+hard_dev,VAR_7
+hardif_index,VAR_8

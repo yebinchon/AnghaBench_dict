@@ -1,0 +1,12 @@
+PD_DATA_REQUEST,VAR_0
+PD_HEADER_LE,FUNC_0
+TCPC_TX_SOP,VAR_1
+cpu_to_le32,FUNC_1
+memset,FUNC_2
+tcpm_pd_build_pps_request,FUNC_3
+tcpm_pd_transmit,FUNC_4
+tcpm_pd_send_pps_request,FUNC_5
+port,VAR_2
+msg,VAR_3
+ret,VAR_4
+rdo,VAR_5

@@ -1,0 +1,11 @@
+HID_REQ_SET_IDLE,VAR_0
+USB_CTRL_SET_TIMEOUT,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_CLASS,VAR_3
+usb_control_msg,FUNC_0
+usb_sndctrlpipe,FUNC_1
+hid_set_idle,FUNC_2
+dev,VAR_4
+ifnum,VAR_5
+report,VAR_6
+idle,VAR_7

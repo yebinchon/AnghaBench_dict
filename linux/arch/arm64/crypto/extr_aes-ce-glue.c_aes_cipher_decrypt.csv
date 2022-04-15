@@ -1,0 +1,12 @@
+__aes_ce_decrypt,FUNC_0
+aes_decrypt,FUNC_1
+crypto_simd_usable,FUNC_2
+crypto_tfm_ctx,FUNC_3
+kernel_neon_begin,FUNC_4
+kernel_neon_end,FUNC_5
+num_rounds,FUNC_6
+aes_cipher_decrypt,FUNC_7
+tfm,VAR_0
+dst,VAR_1
+src,VAR_2
+ctx,VAR_3

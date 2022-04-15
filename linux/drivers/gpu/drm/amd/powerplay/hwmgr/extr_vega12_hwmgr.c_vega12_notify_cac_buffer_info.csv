@@ -1,0 +1,13 @@
+PPSMC_MSG_DramLogSetDramAddrHigh,VAR_0
+PPSMC_MSG_DramLogSetDramAddrLow,VAR_1
+PPSMC_MSG_DramLogSetDramSize,VAR_2
+PPSMC_MSG_SetSystemVirtualDramAddrHigh,VAR_3
+PPSMC_MSG_SetSystemVirtualDramAddrLow,VAR_4
+smum_send_msg_to_smc_with_parameter,FUNC_0
+vega12_notify_cac_buffer_info,FUNC_1
+hwmgr,VAR_5
+virtual_addr_low,VAR_6
+virtual_addr_hi,VAR_7
+mc_addr_low,VAR_8
+mc_addr_hi,VAR_9
+size,VAR_10

@@ -1,0 +1,10 @@
+del_timer_sync,FUNC_0
+e100_clean_cbs,FUNC_1
+e100_hw_reset,FUNC_2
+e100_rx_clean_list,FUNC_3
+free_irq,FUNC_4
+napi_disable,FUNC_5
+netif_carrier_off,FUNC_6
+netif_stop_queue,FUNC_7
+e100_down,FUNC_8
+nic,VAR_0

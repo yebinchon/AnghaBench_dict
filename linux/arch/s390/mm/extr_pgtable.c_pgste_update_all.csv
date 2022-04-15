@@ -1,0 +1,16 @@
+PAGE_MASK,VAR_0
+PGSTE_ACC_BITS,VAR_1
+PGSTE_FP_BIT,VAR_2
+_PAGE_ACC_BITS,VAR_3
+_PAGE_CHANGED,VAR_4
+_PAGE_FP_BIT,VAR_5
+_PAGE_INVALID,VAR_6
+_PAGE_REFERENCED,VAR_7
+mm_uses_skeys,FUNC_0
+page_get_storage_key,FUNC_1
+pgste_val,FUNC_2
+pte_val,FUNC_3
+pgste_update_all,FUNC_4
+pte,VAR_8
+pgste,VAR_9
+mm,VAR_10

@@ -1,0 +1,12 @@
+COMMON_RAMROD_EMPTY,VAR_0
+PROTOCOLID_COMMON,VAR_1
+QED_SPQ_MODE_EBLOCK,VAR_2
+memset,FUNC_0
+qed_sp_init_request,FUNC_1
+qed_spq_get_cid,FUNC_2
+qed_spq_post,FUNC_3
+qed_sp_heartbeat_ramrod,FUNC_4
+p_hwfn,VAR_3
+p_ent,VAR_4
+init_data,VAR_5
+rc,VAR_6

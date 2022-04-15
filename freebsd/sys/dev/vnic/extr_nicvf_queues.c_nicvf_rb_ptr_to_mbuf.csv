@@ -1,0 +1,13 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+GET_RBUF_INFO,FUNC_0
+PHYS_TO_DMAP,FUNC_1
+__predict_false,FUNC_2
+bus_dmamap_sync,FUNC_3
+bus_dmamap_unload,FUNC_4
+device_get_nameunit,FUNC_5
+panic,FUNC_6
+nicvf_rb_ptr_to_mbuf,FUNC_7
+nic,VAR_1
+rb_ptr,VAR_2
+mbuf,VAR_3
+rinfo,VAR_4

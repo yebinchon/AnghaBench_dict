@@ -1,0 +1,16 @@
+IPV4_PKT_NO_CHKSUM_OFFLOAD,VAR_0
+IPV4_PKT_WITH_CHKSUM_OFFLOAD,VAR_1
+IPV6_PKT,VAR_2
+L3TYPE_UNKNOWN,VAR_3
+TX_OFFLOAD_CSUM,VAR_4
+ipv6_skip_exthdr,FUNC_0
+get_inner_l3_l4_type,FUNC_1
+skb,VAR_5
+ip,VAR_6
+l4,VAR_7
+offload_type,VAR_8
+l3_type,VAR_9
+l4_proto,VAR_10
+exthdr,VAR_11
+start,VAR_12
+frag_off,VAR_13

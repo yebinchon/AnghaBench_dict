@@ -1,0 +1,15 @@
+S3C64XX_SPI_INT_EN,VAR_0
+clk_disable_unprepare,FUNC_0
+dma_release_channel,FUNC_1
+is_polling,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_noidle,FUNC_6
+pm_runtime_set_suspended,FUNC_7
+spi_master_get_devdata,FUNC_8
+writel,FUNC_9
+s3c64xx_spi_remove,FUNC_10
+pdev,VAR_1
+master,VAR_2
+sdd,VAR_3

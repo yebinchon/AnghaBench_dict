@@ -1,0 +1,15 @@
+BPF_CGROUP_RUN_PROG_INET_EGRESS,FUNC_0
+dev_loopback_xmit,FUNC_1
+kfree_skb,FUNC_2
+rt_dst_clone,FUNC_3
+skb_dst_drop,FUNC_4
+skb_dst_set,FUNC_5
+skb_rtable,FUNC_6
+ip_mc_finish_output,FUNC_7
+net,VAR_0
+sk,VAR_1
+skb,VAR_2
+new_rt,VAR_3
+do_cn,VAR_4
+ret,VAR_5
+err,VAR_6

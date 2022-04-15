@@ -1,0 +1,13 @@
+CMDQ_WQE_COMPLETED,FUNC_0
+EBUSY,VAR_0
+WQE_SCMD_SIZE,VAR_1
+be32_to_cpu,FUNC_1
+clear_wqe_complete_bit,FUNC_2
+hinic_put_wqe,FUNC_3
+cmdq_arm_ceq_handler,FUNC_4
+cmdq,VAR_2
+wqe,VAR_3
+direct_wqe,VAR_4
+wqe_scmd,VAR_5
+ctrl,VAR_6
+ctrl_info,VAR_7

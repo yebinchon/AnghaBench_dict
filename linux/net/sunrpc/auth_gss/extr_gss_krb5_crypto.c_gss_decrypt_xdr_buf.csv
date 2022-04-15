@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+SYNC_SKCIPHER_REQUEST_ON_STACK,FUNC_1
+crypto_sync_skcipher_blocksize,FUNC_2
+decryptor,VAR_0
+memset,FUNC_3
+req,VAR_1
+sg_init_table,FUNC_4
+skcipher_request_set_callback,FUNC_5
+skcipher_request_set_sync_tfm,FUNC_6
+skcipher_request_zero,FUNC_7
+xdr_process_buf,FUNC_8
+gss_decrypt_xdr_buf,FUNC_9
+tfm,VAR_2
+buf,VAR_3
+offset,VAR_4
+ret,VAR_5
+desc,VAR_6

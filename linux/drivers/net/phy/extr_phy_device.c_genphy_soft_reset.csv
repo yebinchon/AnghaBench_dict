@@ -1,0 +1,13 @@
+AUTONEG_DISABLE,VAR_0
+AUTONEG_ENABLE,VAR_1
+BMCR_ANRESTART,VAR_2
+BMCR_ISOLATE,VAR_3
+BMCR_RESET,VAR_4
+MII_BMCR,VAR_5
+genphy_setup_forced,FUNC_0
+phy_modify,FUNC_1
+phy_poll_reset,FUNC_2
+genphy_soft_reset,FUNC_3
+phydev,VAR_6
+res,VAR_7
+ret,VAR_8

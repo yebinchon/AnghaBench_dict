@@ -1,0 +1,12 @@
+PCI_QUIRK_ENABLE_MSI_VM,VAR_0
+VM_GUEST_NO,VAR_1
+pci_find_bsf,FUNC_0
+pci_get_devid,FUNC_1
+pci_has_quirk,FUNC_2
+pci_honor_msi_blacklist,VAR_2
+pci_msi_device_blacklisted,FUNC_3
+pcie_chipset,VAR_3
+pcix_chipset,VAR_4
+vm_guest,VAR_5
+pci_msi_blacklisted,FUNC_4
+dev,VAR_6

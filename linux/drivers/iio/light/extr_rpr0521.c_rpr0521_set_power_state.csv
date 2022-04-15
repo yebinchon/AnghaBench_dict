@@ -1,0 +1,15 @@
+RPR0521_MODE_ALS_ENABLE,VAR_0
+RPR0521_MODE_ALS_MASK,VAR_1
+RPR0521_MODE_PXS_ENABLE,VAR_2
+RPR0521_MODE_PXS_MASK,VAR_3
+dev_err,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_mark_last_busy,FUNC_2
+pm_runtime_put_autosuspend,FUNC_3
+pm_runtime_put_noidle,FUNC_4
+rpr0521_als_enable,FUNC_5
+rpr0521_pxs_enable,FUNC_6
+rpr0521_set_power_state,FUNC_7
+data,VAR_4
+on,VAR_5
+device_mask,VAR_6

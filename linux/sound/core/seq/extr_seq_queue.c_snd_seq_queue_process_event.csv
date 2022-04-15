@@ -1,0 +1,14 @@
+queue_broadcast_event,FUNC_0
+snd_seq_prioq_leave,FUNC_1
+snd_seq_timer_continue,FUNC_2
+snd_seq_timer_set_position_tick,FUNC_3
+snd_seq_timer_set_position_time,FUNC_4
+snd_seq_timer_set_skew,FUNC_5
+snd_seq_timer_set_tempo,FUNC_6
+snd_seq_timer_start,FUNC_7
+snd_seq_timer_stop,FUNC_8
+snd_seq_queue_process_event,FUNC_9
+q,VAR_0
+ev,VAR_1
+atomic,VAR_2
+hop,VAR_3

@@ -1,0 +1,17 @@
+PCAP_ERRBUF_SIZE,VAR_0
+RPCAP_MSG_UPDATEFILTER_REQ,VAR_1
+RPCAP_NETBUF_SIZE,VAR_2
+SOCKBUF_CHECKONLY,VAR_3
+pcap_pack_bpffilter,FUNC_0
+rpcap_createhdr,FUNC_1
+rpcap_discard,FUNC_2
+rpcap_process_msg_header,FUNC_3
+sock_bufferize,FUNC_4
+sock_send,FUNC_5
+pcap_updatefilter_remote,FUNC_6
+fp,VAR_4
+prog,VAR_5
+pr,VAR_6
+sendbuf,VAR_7
+sendbufidx,VAR_8
+header,VAR_9

@@ -1,0 +1,14 @@
+ABORT_TASK,VAR_0
+ABORT_TASK_SET,VAR_1
+CLEAR_ACA,VAR_2
+CLEAR_TASK_SET,VAR_3
+ILLEGAL_REQUEST,VAR_4
+LOGICAL_UNIT_RESET,VAR_5
+dprintk,FUNC_0
+scsi_tgt_tsk_mgmt_request,FUNC_1
+send_rsp,FUNC_2
+vio_iu,FUNC_3
+process_tsk_mgmt,FUNC_4
+iue,VAR_6
+iu,VAR_7
+fn,VAR_8

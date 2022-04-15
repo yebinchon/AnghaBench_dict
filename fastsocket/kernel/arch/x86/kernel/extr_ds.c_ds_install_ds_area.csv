@@ -1,0 +1,11 @@
+MSR_IA32_DS_AREA,VAR_0
+TIF_DS_AREA_MSR,VAR_1
+current,VAR_2
+get_cpu,FUNC_0
+put_cpu,FUNC_1
+set_tsk_thread_flag,FUNC_2
+wrmsr_on_cpu,FUNC_3
+wrmsrl,FUNC_4
+ds_install_ds_area,FUNC_5
+context,VAR_3
+ds,VAR_4

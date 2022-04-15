@@ -1,0 +1,17 @@
+IFA_F_DADFAILED,VAR_0
+IFA_F_OPTIMISTIC,VAR_1
+IFA_F_PERMANENT,VAR_2
+IFA_F_TEMPORARY,VAR_3
+IFA_F_TENTATIVE,VAR_4
+addrconf_del_dad_work,FUNC_0
+in6_ifa_hold,FUNC_1
+in6_ifa_put,FUNC_2
+ipv6_create_tempaddr,FUNC_3
+ipv6_del_addr,FUNC_4
+ipv6_ifa_notify,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+addrconf_dad_stop,FUNC_8
+ifp,VAR_5
+dad_failed,VAR_6
+ifpub,VAR_7

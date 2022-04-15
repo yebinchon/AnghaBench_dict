@@ -1,0 +1,13 @@
+mlx90632_perform_measurement,FUNC_0
+mlx90632_read_ambient_raw,FUNC_1
+mlx90632_read_object_raw,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+mlx90632_read_all_channel,FUNC_5
+data,VAR_0
+ambient_new_raw,VAR_1
+ambient_old_raw,VAR_2
+object_new_raw,VAR_3
+object_old_raw,VAR_4
+ret,VAR_5
+measurement,VAR_6

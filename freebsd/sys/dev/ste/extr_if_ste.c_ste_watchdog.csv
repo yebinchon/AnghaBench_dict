@@ -1,0 +1,14 @@
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+IFQ_DRV_IS_EMPTY,FUNC_0
+STE_LOCK_ASSERT,FUNC_1
+if_inc_counter,FUNC_2
+if_printf,FUNC_3
+ste_init_locked,FUNC_4
+ste_rxeof,FUNC_5
+ste_start_locked,FUNC_6
+ste_txeoc,FUNC_7
+ste_txeof,FUNC_8
+ste_watchdog,FUNC_9
+sc,VAR_2
+ifp,VAR_3

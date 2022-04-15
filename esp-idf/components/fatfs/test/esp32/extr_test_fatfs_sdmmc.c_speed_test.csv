@@ -1,0 +1,15 @@
+SDMMC_FREQ_HIGHSPEED,VAR_0
+SDMMC_HOST_DEFAULT,FUNC_0
+SDMMC_SLOT_CONFIG_DEFAULT,FUNC_1
+TEST_ESP_OK,FUNC_2
+esp_vfs_fat_sdmmc_mount,FUNC_3
+esp_vfs_fat_sdmmc_unmount,FUNC_4
+test_fatfs_rw_speed,FUNC_5
+speed_test,FUNC_6
+buf,VAR_1
+buf_size,VAR_2
+file_size,VAR_3
+write,VAR_4
+host,VAR_5
+slot_config,VAR_6
+mount_config,VAR_7

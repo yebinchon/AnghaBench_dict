@@ -1,0 +1,13 @@
+CVMX_CIU_MBOX_CLRX,FUNC_0
+IRQ_HANDLED,VAR_0
+SMP_CALL_FUNCTION,VAR_1
+SMP_ICACHE_FLUSH,VAR_2
+cvmx_get_core_num,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_write_csr,FUNC_3
+smp_call_function_interrupt,FUNC_4
+mailbox_interrupt,FUNC_5
+irq,VAR_3
+dev_id,VAR_4
+coreid,VAR_5
+action,VAR_6

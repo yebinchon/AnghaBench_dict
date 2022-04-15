@@ -1,0 +1,13 @@
+PCI_DEVICE_ID_INTEL_LYNXPOINT_LP_XHCI,VAR_0
+PCI_VENDOR_ID_INTEL,VAR_1
+USB_INTEL_XUSB2PR,VAR_2
+cpu_to_le32,FUNC_0
+pci_get_device,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+pr_info,FUNC_4
+asus_wmi_set_xusb2pr,FUNC_5
+asus,VAR_3
+xhci_pdev,VAR_4
+orig_ports_available,VAR_5
+ports_available,VAR_6

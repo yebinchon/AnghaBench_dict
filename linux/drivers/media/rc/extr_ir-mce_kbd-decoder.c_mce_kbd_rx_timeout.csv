@@ -1,0 +1,17 @@
+MCIR2_MASK_KEYS_START,VAR_0
+dev_dbg,FUNC_0
+from_timer,FUNC_1
+input_report_key,FUNC_2
+input_sync,FUNC_3
+kbd_keycodes,VAR_1
+mce_kbd,VAR_2
+raw,VAR_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+time_is_before_eq_jiffies,FUNC_6
+mce_kbd_rx_timeout,FUNC_7
+t,VAR_4
+raw,VAR_5
+maskcode,VAR_6
+flags,VAR_7
+i,VAR_8

@@ -1,0 +1,9 @@
+EMULATE_DONE,VAR_0
+MMUCSR0_TLB0FI,VAR_1
+MMUCSR0_TLB1FI,VAR_2
+kvmppc_core_flush_tlb,FUNC_0
+kvmppc_e500_gtlbe_invalidate,FUNC_1
+kvmppc_e500_emul_mt_mmucsr0,FUNC_2
+vcpu_e500,VAR_3
+value,VAR_4
+esel,VAR_5

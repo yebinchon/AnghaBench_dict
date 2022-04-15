@@ -1,0 +1,14 @@
+ATOM_BIOS_INFO_BL_CONTROLLED_BY_GPU,VAR_0
+ATOM_DEVICE_LCD_SUPPORT,VAR_1
+ATOM_TRANSMITTER_ACTION_BL_BRIGHTNESS_CONTROL,VAR_2
+ATOM_TRANSMITTER_ACTION_LCD_BLOFF,VAR_3
+ATOM_TRANSMITTER_ACTION_LCD_BLON,VAR_4
+amdgpu_atombios_encoder_set_backlight_level_to_reg,FUNC_0
+amdgpu_atombios_encoder_setup_dig_transmitter,FUNC_1
+amdgpu_atombios_encoder_set_backlight_level,FUNC_2
+amdgpu_encoder,VAR_5
+level,VAR_6
+encoder,VAR_7
+dev,VAR_8
+adev,VAR_9
+dig,VAR_10

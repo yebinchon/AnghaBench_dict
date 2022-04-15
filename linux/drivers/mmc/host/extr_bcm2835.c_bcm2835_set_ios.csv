@@ -1,0 +1,14 @@
+MMC_BUS_WIDTH_4,VAR_0
+SDHCFG,VAR_1
+SDHCFG_SLOW_CARD,VAR_2
+SDHCFG_WIDE_EXT_BUS,VAR_3
+SDHCFG_WIDE_INT_BUS,VAR_4
+bcm2835_set_clock,FUNC_0
+mmc_priv,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+writel,FUNC_4
+bcm2835_set_ios,FUNC_5
+mmc,VAR_5
+ios,VAR_6
+host,VAR_7

@@ -1,0 +1,15 @@
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+PIPECONF,FUNC_2
+PIPECONF_ENABLE,VAR_0
+PIPE_A,VAR_1
+QUIRK_PIPEA_FORCE,VAR_2
+assert_planes_disabled,FUNC_3
+intel_pipe_to_cpu_transcoder,FUNC_4
+intel_wait_for_pipe_off,FUNC_5
+intel_disable_pipe,FUNC_6
+dev_priv,VAR_3
+pipe,VAR_4
+cpu_transcoder,VAR_5
+reg,VAR_6
+val,VAR_7

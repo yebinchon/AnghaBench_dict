@@ -1,0 +1,7 @@
+A10_SYSMGR_ECC_INTMASK_CLR_OFST,VAR_0
+BIT,FUNC_0
+irq_data_get_irq_chip_data,FUNC_1
+regmap_write,FUNC_2
+a10_eccmgr_irq_unmask,FUNC_3
+d,VAR_1
+edac,VAR_2

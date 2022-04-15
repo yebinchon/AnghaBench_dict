@@ -1,0 +1,16 @@
+BufferGetPage,FUNC_0
+HEAPBLK_TO_REVMAP_INDEX,FUNC_1
+ItemPointerGetBlockNumber,FUNC_2
+ItemPointerGetOffsetNumber,FUNC_3
+ItemPointerIsValid,FUNC_4
+ItemPointerSet,FUNC_5
+ItemPointerSetInvalid,FUNC_6
+PageGetContents,FUNC_7
+brinSetHeapBlockItemptr,FUNC_8
+buf,VAR_0
+pagesPerRange,VAR_1
+heapBlk,VAR_2
+tid,VAR_3
+contents,VAR_4
+iptr,VAR_5
+page,VAR_6

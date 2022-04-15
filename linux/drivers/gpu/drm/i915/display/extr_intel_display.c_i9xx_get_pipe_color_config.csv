@@ -1,0 +1,15 @@
+DISPPLANE_GAMMA_ENABLE,VAR_0
+DISPPLANE_PIPE_CSC_ENABLE,VAR_1
+DSPCNTR,FUNC_0
+HAS_GMCH,FUNC_1
+I915_READ,FUNC_2
+to_i915,FUNC_3
+to_intel_crtc,FUNC_4
+to_intel_plane,FUNC_5
+i9xx_get_pipe_color_config,FUNC_6
+crtc_state,VAR_2
+crtc,VAR_3
+plane,VAR_4
+dev_priv,VAR_5
+i9xx_plane,VAR_6
+tmp,VAR_7

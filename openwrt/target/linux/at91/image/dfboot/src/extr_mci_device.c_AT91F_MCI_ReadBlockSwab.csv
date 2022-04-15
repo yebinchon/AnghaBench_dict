@@ -1,0 +1,15 @@
+AT91C_MCI_TIMEOUT,VAR_0
+AT91F_MCIDeviceWaitReady,FUNC_0
+AT91F_MCI_ReadBlock,FUNC_1
+BUFFER_SIZE_MCI_DEVICE,VAR_1
+MCI_Device,VAR_2
+swab32,FUNC_2
+AT91F_MCI_ReadBlockSwab,FUNC_3
+pMCI_Device,VAR_3
+src,VAR_4
+databuffer,VAR_5
+sizeToRead,VAR_6
+i,VAR_7
+buf,VAR_8
+index,VAR_9
+uiBuffer,VAR_10

@@ -1,0 +1,15 @@
+CTL_KERN,VAR_0
+EPERM,VAR_1
+ESRCH,VAR_2
+KERN_PROC,VAR_3
+KERN_PROC_UMASK,VAR_4
+errno,VAR_5
+nitems,FUNC_0
+sysctl,FUNC_1
+warn,FUNC_2
+procstat_getumask_sysctl,FUNC_3
+pid,VAR_6
+maskp,VAR_7
+error,VAR_8
+mib,VAR_9
+len,VAR_10

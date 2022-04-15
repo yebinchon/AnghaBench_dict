@@ -1,0 +1,10 @@
+MSR_IA32_EBL_CR_POWERON,VAR_0
+TYPE_LONGHAUL_V2,VAR_1
+TYPE_POWERSAVER,VAR_2
+eblcr,VAR_3
+longhaul_version,VAR_4
+rdmsr,FUNC_0
+longhaul_get_cpu_mult,FUNC_1
+invalue,VAR_5
+lo,VAR_6
+hi,VAR_7

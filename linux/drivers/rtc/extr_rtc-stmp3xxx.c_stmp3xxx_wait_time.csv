@@ -1,0 +1,8 @@
+ETIME,VAR_0
+STMP3XXX_RTC_STAT,VAR_1
+STMP3XXX_RTC_STAT_STALE_SHIFT,VAR_2
+readl,FUNC_0
+udelay,FUNC_1
+stmp3xxx_wait_time,FUNC_2
+rtc_data,VAR_3
+timeout,VAR_4

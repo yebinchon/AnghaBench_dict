@@ -1,0 +1,11 @@
+CHIP_IS_E1H,FUNC_0
+QM_INIT,FUNC_1
+QM_REG_BASEADDR,VAR_0
+QM_REG_BASEADDR_EXT_A,VAR_1
+QM_REG_PTRTBL,VAR_2
+QM_REG_PTRTBL_EXT_A,VAR_3
+bnx2x_qm_set_ptr_table,FUNC_2
+bnx2x_qm_init_ptr_table,FUNC_3
+bp,VAR_4
+qm_cid_count,VAR_5
+initop,VAR_6

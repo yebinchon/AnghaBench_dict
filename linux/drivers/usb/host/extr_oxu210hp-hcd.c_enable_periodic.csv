@@ -1,0 +1,13 @@
+CMD_PSE,VAR_0
+HC_STATE_HALT,VAR_1
+HC_STATE_RUNNING,VAR_2
+STS_PSS,VAR_3
+handshake,FUNC_0
+oxu_to_hcd,FUNC_1
+readl,FUNC_2
+usb_hc_died,FUNC_3
+writel,FUNC_4
+enable_periodic,FUNC_5
+oxu,VAR_4
+cmd,VAR_5
+status,VAR_6

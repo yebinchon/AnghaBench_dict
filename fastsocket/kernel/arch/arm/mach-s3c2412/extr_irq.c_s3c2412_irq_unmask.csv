@@ -1,0 +1,9 @@
+IRQ_EINT0,VAR_0
+S3C2410_INTMSK,VAR_1
+S3C2412_EINTMASK,VAR_2
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+s3c2412_irq_unmask,FUNC_2
+irqno,VAR_3
+bitval,VAR_4
+mask,VAR_5

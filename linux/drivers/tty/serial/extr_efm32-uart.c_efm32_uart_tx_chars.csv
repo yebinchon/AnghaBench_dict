@@ -1,0 +1,17 @@
+UART_XMIT_SIZE,VAR_0
+UARTn_STATUS,VAR_1
+UARTn_STATUS_TXBL,VAR_2
+UARTn_STATUS_TXC,VAR_3
+UARTn_TXDATA,VAR_4
+WAKEUP_CHARS,VAR_5
+efm32_uart_read32,FUNC_0
+efm32_uart_stop_tx,FUNC_1
+efm32_uart_write32,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_tx_stopped,FUNC_5
+uart_write_wakeup,FUNC_6
+efm32_uart_tx_chars,FUNC_7
+efm_port,VAR_6
+port,VAR_7
+xmit,VAR_8

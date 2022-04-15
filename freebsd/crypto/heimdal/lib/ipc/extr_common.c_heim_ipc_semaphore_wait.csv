@@ -1,0 +1,13 @@
+DISPATCH_TIME_FOREVER,VAR_0
+HEIMDAL_MUTEX_lock,FUNC_0
+HEIMDAL_MUTEX_unlock,FUNC_1
+HEIM_IPC_WAIT_FOREVER,VAR_1
+NSEC_PER_SEC,VAR_2
+dispatch_semaphore_wait,FUNC_2
+errno,VAR_3
+heim_assert,FUNC_3
+pthread_cond_timedwait,FUNC_4
+pthread_cond_wait,FUNC_5
+heim_ipc_semaphore_wait,FUNC_6
+s,VAR_4
+t,VAR_5

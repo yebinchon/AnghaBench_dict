@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+STATID,VAR_1
+VINT_EN,VAR_2
+ca91cx42_iack_received,FUNC_0
+ioread32,FUNC_1
+iowrite32,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+wait_event_interruptible,FUNC_5
+ca91cx42_irq_generate,FUNC_6
+ca91cx42_bridge,VAR_3
+level,VAR_4
+statid,VAR_5
+tmp,VAR_6
+bridge,VAR_7

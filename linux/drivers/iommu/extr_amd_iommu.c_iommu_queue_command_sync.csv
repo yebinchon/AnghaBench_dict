@@ -1,0 +1,9 @@
+__iommu_queue_command_sync,FUNC_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+iommu_queue_command_sync,FUNC_3
+iommu,VAR_0
+cmd,VAR_1
+sync,VAR_2
+flags,VAR_3
+ret,VAR_4

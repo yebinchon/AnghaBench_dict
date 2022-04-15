@@ -1,0 +1,15 @@
+IEEE80211_NOLINK,VAR_0
+SetZebraRFPowerState8185,FUNC_0
+cancel_delayed_work,FUNC_1
+del_timer_sync,FUNC_2
+eRfOff,VAR_1
+ieee80211_priv,FUNC_3
+ieee80211_softmac_stop_protocol,FUNC_4
+memset,FUNC_5
+netif_queue_stopped,FUNC_6
+netif_stop_queue,FUNC_7
+rtl8180_irq_disable,FUNC_8
+rtl8180_rtx_disable,FUNC_9
+rtl8180_down,FUNC_10
+dev,VAR_2
+priv,VAR_3

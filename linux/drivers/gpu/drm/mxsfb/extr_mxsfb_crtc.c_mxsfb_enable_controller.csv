@@ -1,0 +1,12 @@
+CTRL_DOTCLK_MODE,VAR_0
+CTRL_RUN,VAR_1
+LCDC_CTRL,VAR_2
+LCDC_VDCTRL4,VAR_3
+REG_SET,VAR_4
+VDCTRL4_SYNC_SIGNALS_ON,VAR_5
+clk_prepare_enable,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+mxsfb_enable_controller,FUNC_3
+mxsfb,VAR_6
+reg,VAR_7

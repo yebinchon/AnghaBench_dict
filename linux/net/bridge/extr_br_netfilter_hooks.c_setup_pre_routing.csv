@@ -1,0 +1,14 @@
+BRNF_PROTO_8021Q,VAR_0
+BRNF_PROTO_PPPOE,VAR_1
+ETH_P_8021Q,VAR_2
+ETH_P_PPP_SES,VAR_3
+PACKET_HOST,VAR_4
+PACKET_OTHERHOST,VAR_5
+brnf_get_logical_dev,FUNC_0
+htons,FUNC_1
+nf_bridge_info_get,FUNC_2
+skb_orphan,FUNC_3
+setup_pre_routing,FUNC_4
+skb,VAR_6
+net,VAR_7
+nf_bridge,VAR_8

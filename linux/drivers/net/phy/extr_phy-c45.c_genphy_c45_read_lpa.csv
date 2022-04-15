@@ -1,0 +1,17 @@
+ETHTOOL_LINK_MODE_Autoneg_BIT,VAR_0
+LPA_PAUSE_ASYM,VAR_1
+LPA_PAUSE_CAP,VAR_2
+MDIO_AN_10GBT_STAT,VAR_3
+MDIO_AN_LPA,VAR_4
+MDIO_AN_STAT1_COMPLETE,VAR_5
+MDIO_AN_STAT1_LPABLE,VAR_6
+MDIO_MMD_AN,VAR_7
+MDIO_STAT1,VAR_8
+linkmode_clear_bit,FUNC_0
+linkmode_mod_bit,FUNC_1
+mii_10gbt_stat_mod_linkmode_lpa_t,FUNC_2
+mii_adv_mod_linkmode_adv_t,FUNC_3
+phy_read_mmd,FUNC_4
+genphy_c45_read_lpa,FUNC_5
+phydev,VAR_9
+val,VAR_10

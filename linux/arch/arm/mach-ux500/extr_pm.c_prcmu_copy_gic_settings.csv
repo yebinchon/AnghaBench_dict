@@ -1,0 +1,9 @@
+GIC_DIST_ENABLE_SET,VAR_0
+PRCMU_GIC_NUMBER_REGS,VAR_1
+PRCM_ARMITMSK31TO0,VAR_2
+dist_base,VAR_3
+readl_relaxed,FUNC_0
+writel,FUNC_1
+prcmu_copy_gic_settings,FUNC_2
+er,VAR_4
+i,VAR_5

@@ -1,0 +1,11 @@
+BIT,FUNC_0
+PCIE2_PHY_RESET_CTRL,VAR_0
+clk_disable_unprepare,FUNC_1
+phy_get_drvdata,FUNC_2
+readl,FUNC_3
+reset_control_assert,FUNC_4
+writel,FUNC_5
+qcom_pcie2_phy_power_off,FUNC_6
+phy,VAR_1
+qphy,VAR_2
+val,VAR_3

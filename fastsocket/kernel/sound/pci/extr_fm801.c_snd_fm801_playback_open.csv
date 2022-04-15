@@ -1,0 +1,14 @@
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+SNDRV_PCM_HW_PARAM_PERIODS,VAR_1
+SNDRV_PCM_HW_PARAM_RATE,VAR_2
+hw_constraints_channels,VAR_3
+hw_constraints_rates,VAR_4
+snd_fm801_playback,VAR_5
+snd_pcm_hw_constraint_integer,FUNC_0
+snd_pcm_hw_constraint_list,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+snd_fm801_playback_open,FUNC_3
+substream,VAR_6
+chip,VAR_7
+runtime,VAR_8
+err,VAR_9

@@ -1,0 +1,12 @@
+EIO,VAR_0
+OPAL_BUSY,VAR_1
+OPAL_BUSY_DELAY_MS,VAR_2
+OPAL_XIVE_VP_ENABLED,VAR_3
+OPAL_XIVE_VP_SINGLE_ESCALATION,VAR_4
+msleep,FUNC_0
+opal_xive_set_vp_info,FUNC_1
+xive_native_enable_vp,FUNC_2
+vp_id,VAR_5
+single_escalation,VAR_6
+rc,VAR_7
+flags,VAR_8

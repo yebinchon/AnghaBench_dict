@@ -1,0 +1,15 @@
+INIT_WORK,FUNC_0
+kcm_done_work,VAR_0
+kcm_rcv_ready,FUNC_1
+requeue_rx_msgs,FUNC_2
+schedule_work,FUNC_3
+sk_rmem_alloc_get,FUNC_4
+smp_mb,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+unlikely,FUNC_8
+unreserve_rx_kcm,FUNC_9
+psock,VAR_1
+rcv_ready,VAR_2
+kcm,VAR_3
+mux,VAR_4

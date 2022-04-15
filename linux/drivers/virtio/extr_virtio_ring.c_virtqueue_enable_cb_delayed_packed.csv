@@ -1,0 +1,17 @@
+END_USE,FUNC_0
+START_USE,FUNC_1
+VRING_PACKED_EVENT_FLAG_DESC,VAR_0
+VRING_PACKED_EVENT_FLAG_DISABLE,VAR_1
+VRING_PACKED_EVENT_FLAG_ENABLE,VAR_2
+VRING_PACKED_EVENT_F_WRAP_CTR,VAR_3
+cpu_to_le16,FUNC_2
+is_used_desc_packed,FUNC_3
+to_vvq,FUNC_4
+virtio_mb,FUNC_5
+virtio_wmb,FUNC_6
+virtqueue_enable_cb_delayed_packed,FUNC_7
+_vq,VAR_4
+vq,VAR_5
+used_idx,VAR_6
+wrap_counter,VAR_7
+bufs,VAR_8

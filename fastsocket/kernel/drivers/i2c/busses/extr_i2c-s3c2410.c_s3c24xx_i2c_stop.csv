@@ -1,0 +1,12 @@
+S3C2410_IICSTAT,VAR_0
+S3C2410_IICSTAT_START,VAR_1
+STATE_STOP,VAR_2
+dev_dbg,FUNC_0
+readl,FUNC_1
+s3c24xx_i2c_disable_irq,FUNC_2
+s3c24xx_i2c_master_complete,FUNC_3
+writel,FUNC_4
+s3c24xx_i2c_stop,FUNC_5
+i2c,VAR_3
+ret,VAR_4
+iicstat,VAR_5

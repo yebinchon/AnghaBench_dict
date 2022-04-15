@@ -1,0 +1,11 @@
+L4_KCQE_OPCODE_VALUE_RESET_COMP,VAR_0
+SK_F_CONNECT_START,VAR_1
+SK_F_OFFLD_COMPLETE,VAR_2
+SK_F_OFFLD_SCHED,VAR_3
+clear_bit,FUNC_0
+msleep,FUNC_1
+smp_mb__after_atomic,FUNC_2
+test_and_clear_bit,FUNC_3
+test_and_set_bit,FUNC_4
+cnic_abort_prep,FUNC_5
+csk,VAR_4

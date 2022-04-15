@@ -1,0 +1,13 @@
+KVM_GUESTDBG_SINGLESTEP,VAR_0
+KVM_GUESTDBG_USE_HW_BP,VAR_1
+VMCB_DR,VAR_2
+X86_EFLAGS_RF,VAR_3
+X86_EFLAGS_TF,VAR_4
+mark_dirty,FUNC_0
+to_svm,FUNC_1
+update_db_intercept,FUNC_2
+svm_guest_debug,FUNC_3
+vcpu,VAR_5
+dbg,VAR_6
+old_debug,VAR_7
+svm,VAR_8

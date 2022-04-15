@@ -1,0 +1,12 @@
+axienet_mdio_teardown,FUNC_0
+clk_disable_unprepare,FUNC_1
+free_netdev,FUNC_2
+netdev_priv,FUNC_3
+of_node_put,FUNC_4
+phylink_destroy,FUNC_5
+platform_get_drvdata,FUNC_6
+unregister_netdev,FUNC_7
+axienet_remove,FUNC_8
+pdev,VAR_0
+ndev,VAR_1
+lp,VAR_2

@@ -1,0 +1,9 @@
+__xen_evtchn_do_upcall,FUNC_0
+inc_irq_stat,FUNC_1
+irq_enter,FUNC_2
+irq_exit,FUNC_3
+irq_hv_callback_count,VAR_0
+set_irq_regs,FUNC_4
+xen_evtchn_do_upcall,FUNC_5
+regs,VAR_1
+old_regs,VAR_2

@@ -1,0 +1,17 @@
+BUCKET_TO_BLKNO,FUNC_0
+BufferGetPage,FUNC_1
+HASH_METAPAGE,VAR_0
+HASH_READ,VAR_1
+HashPageGetMeta,FUNC_2
+LH_META_PAGE,VAR_2
+_hash_getbuf,FUNC_3
+_hash_relbuf,FUNC_4
+fls,FUNC_5
+_hash_get_oldblock_from_newbucket,FUNC_6
+rel,VAR_3
+new_bucket,VAR_4
+old_bucket,VAR_5
+mask,VAR_6
+metabuf,VAR_7
+metap,VAR_8
+blkno,VAR_9

@@ -1,0 +1,13 @@
+CAM_REQ_CMP,VAR_0
+TWS_BUSY_Q,VAR_1
+TWS_FREE_Q,VAR_2
+callout_stop,FUNC_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+tws_q_insert_tail,FUNC_3
+tws_q_remove_request,FUNC_4
+tws_unmap_request,FUNC_5
+xpt_done,FUNC_6
+tws_scsi_complete,FUNC_7
+req,VAR_3
+sc,VAR_4

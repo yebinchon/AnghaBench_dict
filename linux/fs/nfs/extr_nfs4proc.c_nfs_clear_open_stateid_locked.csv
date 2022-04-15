@@ -1,0 +1,17 @@
+NFS_DELEGATED_STATE,VAR_0
+NFS_OPEN_STATE,VAR_1
+NFS_O_RDONLY_STATE,VAR_2
+NFS_O_RDWR_STATE,VAR_3
+NFS_O_WRONLY_STATE,VAR_4
+clear_bit,FUNC_0
+nfs4_stateid_copy,FUNC_1
+nfs4_stateid_is_newer,FUNC_2
+nfs4_stateid_match_other,FUNC_3
+nfs_resync_open_stateid_locked,FUNC_4
+nfs_state_log_update_open_stateid,FUNC_5
+test_bit,FUNC_6
+trace_nfs4_open_stateid_update,FUNC_7
+nfs_clear_open_stateid_locked,FUNC_8
+state,VAR_5
+stateid,VAR_6
+fmode,VAR_7

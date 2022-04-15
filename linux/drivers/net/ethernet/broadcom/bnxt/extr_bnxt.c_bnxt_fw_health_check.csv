@@ -1,0 +1,12 @@
+BNXT_FW_EXCEPTION_SP_EVENT,VAR_0
+BNXT_FW_HEARTBEAT_REG,VAR_1
+BNXT_FW_RESET_CNT_REG,VAR_2
+BNXT_STATE_IN_FW_RESET,VAR_3
+bnxt_fw_health_readl,FUNC_0
+bnxt_queue_sp_work,FUNC_1
+set_bit,FUNC_2
+test_bit,FUNC_3
+bnxt_fw_health_check,FUNC_4
+bp,VAR_4
+fw_health,VAR_5
+val,VAR_6

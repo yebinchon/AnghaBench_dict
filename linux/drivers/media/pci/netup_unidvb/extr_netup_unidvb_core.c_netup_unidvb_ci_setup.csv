@@ -1,0 +1,9 @@
+NETUP_UNIDVB_IRQ_CI,VAR_0
+REG_IMASK_SET,VAR_1
+netup_unidvb_ci_register,FUNC_0
+netup_unidvb_ci_unregister,FUNC_1
+writew,FUNC_2
+netup_unidvb_ci_setup,FUNC_3
+ndev,VAR_2
+pci_dev,VAR_3
+res,VAR_4

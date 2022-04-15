@@ -1,0 +1,12 @@
+DHCP_CLIENT_ID_DUID,VAR_0
+DHCP_CLIENT_ID_DUID_ONLY,VAR_1
+DUID_TYPE_UUID,VAR_2
+IN_SET,FUNC_0
+assert,FUNC_1
+link_dhcp4_enabled,FUNC_2
+link_dhcp6_enabled,FUNC_3
+link_get_duid,FUNC_4
+link_ipv6_accept_ra_enabled,FUNC_5
+link_requires_uuid,FUNC_6
+link,VAR_3
+duid,VAR_4

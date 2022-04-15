@@ -1,0 +1,11 @@
+ALLOCSET_DEFAULT_SIZES,VAR_0
+AllocSetContextCreate,FUNC_0
+Assert,FUNC_1
+CURSOR_OPT_SCROLL,VAR_1
+MemoryContextSwitchTo,FUNC_2
+TopPortalContext,VAR_2
+tuplestore_begin_heap,FUNC_3
+work_mem,VAR_3
+PortalCreateHoldStore,FUNC_4
+portal,VAR_4
+oldcxt,VAR_5

@@ -1,0 +1,15 @@
+RADIUS_CISCO_AV_PAIR,VAR_0
+RADIUS_VENDOR_ID_CISCO,VAR_1
+decrypt_ms_key,FUNC_0
+os_free,FUNC_1
+os_memcmp,FUNC_2
+os_zalloc,FUNC_3
+radius_msg_get_vendor_attr,FUNC_4
+radius_msg_get_cisco_keys,FUNC_5
+msg,VAR_2
+sent_msg,VAR_3
+secret,VAR_4
+secret_len,VAR_5
+key,VAR_6
+keylen,VAR_7
+keys,VAR_8

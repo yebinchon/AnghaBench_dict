@@ -1,0 +1,11 @@
+NFS4_OPEN_CLAIM_DELEGATE_CUR,VAR_0
+NFS4_STATEID_SIZE,VAR_1
+cpu_to_be32,FUNC_0
+encode_string,FUNC_1
+reserve_space,FUNC_2
+xdr_encode_opaque_fixed,FUNC_3
+encode_claim_delegate_cur,FUNC_4
+xdr,VAR_2
+name,VAR_3
+stateid,VAR_4
+p,VAR_5

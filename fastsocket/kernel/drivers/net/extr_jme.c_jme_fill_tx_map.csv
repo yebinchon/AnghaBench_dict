@@ -1,0 +1,16 @@
+PCI_DMA_TODEVICE,VAR_0
+TXFLAG_64BIT,VAR_1
+TXFLAG_OWN,VAR_2
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+pci_dma_sync_single_for_device,FUNC_2
+pci_map_page,FUNC_3
+jme_fill_tx_map,FUNC_4
+pdev,VAR_3
+txdesc,VAR_4
+txbi,VAR_5
+page,VAR_6
+page_offset,VAR_7
+len,VAR_8
+hidma,VAR_9
+dmaaddr,VAR_10

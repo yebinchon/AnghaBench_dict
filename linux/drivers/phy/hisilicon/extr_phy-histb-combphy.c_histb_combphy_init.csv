@@ -1,0 +1,16 @@
+COMBPHY_BYPASS_CODEC,VAR_0
+COMBPHY_CFG_REG,VAR_1
+COMBPHY_CLKREF_OUT_OEN,VAR_2
+clk_prepare_enable,FUNC_0
+histb_combphy_set_mode,FUNC_1
+mdelay,FUNC_2
+nano_register_write,FUNC_3
+phy_get_drvdata,FUNC_4
+readl,FUNC_5
+reset_control_deassert,FUNC_6
+writel,FUNC_7
+histb_combphy_init,FUNC_8
+phy,VAR_3
+priv,VAR_4
+val,VAR_5
+ret,VAR_6

@@ -1,0 +1,16 @@
+BIO_READ,VAR_0
+MAXPHYS,VAR_1
+PAGE_MASK,VAR_2
+VM_PROT_READ,VAR_3
+VM_PROT_WRITE,VAR_4
+btoc,FUNC_0
+curproc,VAR_5
+pmap_qenter,FUNC_1
+unmapped_buf,VAR_6
+unmapped_buf_allowed,VAR_7
+vm_fault_quick_hold_pages,FUNC_2
+vmapbuf,FUNC_3
+bp,VAR_8
+mapbuf,VAR_9
+prot,VAR_10
+pidx,VAR_11

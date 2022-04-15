@@ -1,0 +1,11 @@
+ESP_LOGI,FUNC_0
+SNTP_OPMODE_POLL,VAR_0
+SNTP_SYNC_MODE_SMOOTH,VAR_1
+TAG,VAR_2
+sntp_init,FUNC_1
+sntp_set_sync_mode,FUNC_2
+sntp_set_time_sync_notification_cb,FUNC_3
+sntp_setoperatingmode,FUNC_4
+sntp_setservername,FUNC_5
+time_sync_notification_cb,VAR_3
+initialize_sntp,FUNC_6

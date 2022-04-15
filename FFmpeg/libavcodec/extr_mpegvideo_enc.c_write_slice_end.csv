@@ -1,0 +1,13 @@
+AV_CODEC_FLAG_PASS1,VAR_0
+AV_CODEC_ID_MPEG4,VAR_1
+CONFIG_MJPEG_ENCODER,VAR_2
+CONFIG_MPEG4_ENCODER,VAR_3
+FMT_MJPEG,VAR_4
+avpriv_align_put_bits,FUNC_0
+ff_mjpeg_encode_stuffing,FUNC_1
+ff_mpeg4_merge_partitions,FUNC_2
+ff_mpeg4_stuffing,FUNC_3
+flush_put_bits,FUNC_4
+get_bits_diff,FUNC_5
+write_slice_end,FUNC_6
+s,VAR_5

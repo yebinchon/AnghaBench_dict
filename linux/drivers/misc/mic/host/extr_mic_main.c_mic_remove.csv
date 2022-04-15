@@ -1,0 +1,15 @@
+cosm_unregister_device,FUNC_0
+g_mic_ida,VAR_0
+ida_simple_remove,FUNC_1
+iounmap,FUNC_2
+kfree,FUNC_3
+mic_delete_debug_dir,FUNC_4
+mic_dp_uninit,FUNC_5
+mic_free_interrupts,FUNC_6
+mic_smpt_uninit,FUNC_7
+pci_disable_device,FUNC_8
+pci_get_drvdata,FUNC_9
+pci_release_regions,FUNC_10
+mic_remove,FUNC_11
+pdev,VAR_1
+mdev,VAR_2

@@ -1,0 +1,17 @@
+TCE_PCI_READ,VAR_0
+TCE_PCI_WRITE,VAR_1
+__pa,FUNC_0
+cpu_to_be64,FUNC_1
+pnv_alloc_tce_level,FUNC_2
+pnv_pci_ioda2_table_do_alloc_pages,FUNC_3
+nid,VAR_2
+shift,VAR_3
+levels,VAR_4
+limit,VAR_5
+current_offset,VAR_6
+total_allocated,VAR_7
+addr,VAR_8
+tmp,VAR_9
+allocated,VAR_10
+entries,VAR_11
+i,VAR_12

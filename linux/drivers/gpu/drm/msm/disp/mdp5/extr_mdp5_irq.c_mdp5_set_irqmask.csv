@@ -1,0 +1,8 @@
+REG_MDP5_INTR_CLEAR,VAR_0
+REG_MDP5_INTR_EN,VAR_1
+mdp5_write,FUNC_0
+to_mdp5_kms,FUNC_1
+mdp5_set_irqmask,FUNC_2
+mdp_kms,VAR_2
+irqmask,VAR_3
+old_irqmask,VAR_4

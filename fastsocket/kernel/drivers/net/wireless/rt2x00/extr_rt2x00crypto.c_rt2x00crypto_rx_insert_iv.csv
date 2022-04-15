@@ -1,0 +1,17 @@
+ALIGN_SIZE,FUNC_0
+RXDONE_L2PAD,VAR_0
+RX_FLAG_IV_STRIPPED,VAR_1
+memcpy,FUNC_1
+memmove,FUNC_2
+skb_push,FUNC_3
+skb_put,FUNC_4
+skb_trim,FUNC_5
+rt2x00crypto_rx_insert_iv,FUNC_6
+skb,VAR_2
+header_length,VAR_3
+rxdesc,VAR_4
+payload_len,VAR_5
+align,VAR_6
+iv_len,VAR_7
+icv_len,VAR_8
+transfer,VAR_9

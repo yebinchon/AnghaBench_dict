@@ -1,0 +1,17 @@
+EHCI_BUS2SC,FUNC_0
+EHCI_ITD_SET_ADDR,FUNC_1
+EHCI_ITD_SET_DIR_IN,VAR_0
+EHCI_ITD_SET_ENDPT,FUNC_2
+EHCI_ITD_SET_MPL,FUNC_3
+UE_DIR_IN,VAR_1
+UE_GET_ADDR,FUNC_4
+UE_GET_DIR,FUNC_5
+htohc32,FUNC_6
+usb_hs_bandwidth_alloc,FUNC_7
+usb_pc_cpu_flush,FUNC_8
+ehci_device_isoc_hs_open,FUNC_9
+xfer,VAR_2
+sc,VAR_3
+td,VAR_4
+temp,VAR_5
+ds,VAR_6

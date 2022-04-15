@@ -1,0 +1,9 @@
+HDEX_MIDI_IN_START,VAR_0
+MSNDMIDI_MODE_BIT_INPUT,VAR_1
+set_bit,FUNC_0
+snd_msnd_enable_irq,FUNC_1
+snd_msnd_send_dsp_cmd,FUNC_2
+snd_printdd,FUNC_3
+snd_msndmidi_input_open,FUNC_4
+substream,VAR_2
+mpu,VAR_3

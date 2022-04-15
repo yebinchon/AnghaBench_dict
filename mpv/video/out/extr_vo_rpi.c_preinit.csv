@@ -1,0 +1,15 @@
+MMAL_COMPONENT_DEFAULT_VIDEO_RENDERER,VAR_0
+MP_FATAL,FUNC_0
+bcm_host_init,FUNC_1
+mmal_component_create,FUNC_2
+mmal_vc_init,FUNC_3
+pthread_cond_init,FUNC_4
+pthread_mutex_init,FUNC_5
+recreate_dispmanx,FUNC_6
+tv_callback,VAR_1
+uninit,FUNC_7
+update_display_size,FUNC_8
+vc_tv_register_callback,FUNC_9
+preinit,FUNC_10
+vo,VAR_2
+p,VAR_3

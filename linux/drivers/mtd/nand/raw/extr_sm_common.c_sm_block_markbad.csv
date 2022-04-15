@@ -1,0 +1,14 @@
+EIO,VAR_0
+MTD_OPS_PLACE_OOB,VAR_1
+SM_OOB_SIZE,VAR_2
+memset,FUNC_0
+mtd_write_oob,FUNC_1
+nand_to_mtd,FUNC_2
+pr_notice,FUNC_3
+sm_block_markbad,FUNC_4
+chip,VAR_3
+ofs,VAR_4
+mtd,VAR_5
+ops,VAR_6
+oob,VAR_7
+ret,VAR_8

@@ -1,0 +1,12 @@
+AES_KEYSIZE_128,VAR_0
+AES_KEYSIZE_256,VAR_1
+SPACC_CRYPTO_ALG_MASK,VAR_2
+SPA_CTRL_CIPH_ALG_AES,VAR_3
+crypto_tfm_ctx,FUNC_0
+to_spacc_alg,FUNC_1
+spacc_ablk_need_fallback,FUNC_2
+req,VAR_4
+ctx,VAR_5
+tfm,VAR_6
+alg,VAR_7
+spacc_alg,VAR_8

@@ -1,0 +1,10 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+PCI_DEVICE_ID_NLM_RSA,VAR_2
+PCI_VENDOR_NETLOGIC,VAR_3
+device_get_softc,FUNC_0
+pci_get_device,FUNC_1
+pci_get_vendor,FUNC_2
+xlp_rsa_probe,FUNC_3
+dev,VAR_4
+sc,VAR_5

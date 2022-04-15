@@ -1,0 +1,16 @@
+read_c0_entryhi,FUNC_0
+read_c0_pagemask,FUNC_1
+tlb_write_indexed,FUNC_2
+write_c0_entryhi,FUNC_3
+write_c0_entrylo0,FUNC_4
+write_c0_entrylo1,FUNC_5
+write_c0_index,FUNC_6
+write_c0_pagemask,FUNC_7
+mod_wired_entry,FUNC_8
+entry,VAR_0
+entrylo0,VAR_1
+entrylo1,VAR_2
+entryhi,VAR_3
+pagemask,VAR_4
+old_pagemask,VAR_5
+old_ctx,VAR_6

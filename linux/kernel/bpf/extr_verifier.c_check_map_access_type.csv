@@ -1,0 +1,17 @@
+BPF_MAP_CAN_READ,VAR_0
+BPF_MAP_CAN_WRITE,VAR_1
+BPF_READ,VAR_2
+BPF_WRITE,VAR_3
+EACCES,VAR_4
+bpf_map_flags_to_cap,FUNC_0
+cur_regs,FUNC_1
+verbose,FUNC_2
+check_map_access_type,FUNC_3
+env,VAR_5
+regno,VAR_6
+off,VAR_7
+size,VAR_8
+type,VAR_9
+regs,VAR_10
+map,VAR_11
+cap,VAR_12

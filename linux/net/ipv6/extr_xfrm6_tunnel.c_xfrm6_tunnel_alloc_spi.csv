@@ -1,0 +1,12 @@
+__xfrm6_tunnel_alloc_spi,FUNC_0
+__xfrm6_tunnel_spi_lookup,FUNC_1
+htonl,FUNC_2
+refcount_inc,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+xfrm6_tunnel_spi_lock,VAR_0
+xfrm6_tunnel_alloc_spi,FUNC_6
+net,VAR_1
+saddr,VAR_2
+x6spi,VAR_3
+spi,VAR_4

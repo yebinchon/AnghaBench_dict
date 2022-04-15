@@ -1,0 +1,15 @@
+CTLFLAG_RW,VAR_0
+CTLTYPE_INT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+em_sysctl_int_delay,VAR_3
+em_add_int_delay_sysctl,FUNC_4
+adapter,VAR_4
+name,VAR_5
+description,VAR_6
+info,VAR_7
+offset,VAR_8
+value,VAR_9

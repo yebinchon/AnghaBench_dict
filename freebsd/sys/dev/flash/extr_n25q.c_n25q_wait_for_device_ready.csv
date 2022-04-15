@@ -1,0 +1,9 @@
+CMD_READ_STATUS,VAR_0
+QSPI_READ_REG,FUNC_0
+STATUS_WIP,VAR_1
+device_get_parent,FUNC_1
+n25q_wait_for_device_ready,FUNC_2
+dev,VAR_2
+pdev,VAR_3
+status,VAR_4
+err,VAR_5

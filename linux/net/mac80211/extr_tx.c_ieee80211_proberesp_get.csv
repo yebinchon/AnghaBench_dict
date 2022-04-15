@@ -1,0 +1,16 @@
+NL80211_IFTYPE_AP,VAR_0
+dev_alloc_skb,FUNC_0
+memset,FUNC_1
+rcu_dereference,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+skb_put_data,FUNC_5
+vif_to_sdata,FUNC_6
+ieee80211_proberesp_get,FUNC_7
+hw,VAR_1
+vif,VAR_2
+ap,VAR_3
+skb,VAR_4
+presp,VAR_5
+hdr,VAR_6
+sdata,VAR_7

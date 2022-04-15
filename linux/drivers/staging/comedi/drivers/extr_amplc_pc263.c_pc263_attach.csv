@@ -1,0 +1,14 @@
+COMEDI_SUBD_DO,VAR_0
+PC263_DO_0_7_REG,VAR_1
+PC263_DO_8_15_REG,VAR_2
+SDF_WRITABLE,VAR_3
+comedi_alloc_subdevices,FUNC_0
+comedi_request_region,FUNC_1
+inb,FUNC_2
+pc263_do_insn_bits,VAR_4
+range_digital,VAR_5
+pc263_attach,FUNC_3
+dev,VAR_6
+it,VAR_7
+s,VAR_8
+ret,VAR_9

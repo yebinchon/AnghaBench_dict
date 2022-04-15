@@ -1,0 +1,17 @@
+ADD_STATS,FUNC_0
+MMU_PT_UPDATE_PRESERVE_AD,VAR_0
+PARAVIRT_LAZY_MMU,VAR_1
+arbitrary_virt_to_machine,FUNC_1
+paravirt_get_lazy_mode,FUNC_2
+prot_commit,VAR_2
+prot_commit_batched,VAR_3
+pte_val_ma,FUNC_3
+xen_extend_mmu_update,FUNC_4
+xen_mc_batch,FUNC_5
+xen_mc_issue,FUNC_6
+xen_ptep_modify_prot_commit,FUNC_7
+mm,VAR_4
+addr,VAR_5
+ptep,VAR_6
+pte,VAR_7
+u,VAR_8

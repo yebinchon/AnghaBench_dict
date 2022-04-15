@@ -1,0 +1,17 @@
+ACPI_TYPE_INTEGER,VAR_0
+ACPI_TYPE_STRING,VAR_1
+DEV_PROP_STRING,VAR_2
+DEV_PROP_U64,VAR_3
+EINVAL,VAR_4
+EOVERFLOW,VAR_5
+U16_MAX,VAR_6
+U32_MAX,VAR_7
+U8_MAX,VAR_8
+acpi_data_get_property,FUNC_0
+acpi_data_prop_read_single,FUNC_1
+data,VAR_9
+propname,VAR_10
+proptype,VAR_11
+val,VAR_12
+obj,VAR_13
+ret,VAR_14

@@ -1,0 +1,14 @@
+DELAYED_UPDATE_BEACON,VAR_0
+DEVICE_STATE_ENABLED_RADIO,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+rt2x00queue_update_beacon,FUNC_2
+test_and_clear_bit,FUNC_3
+test_bit,FUNC_4
+vif_to_intf,FUNC_5
+rt2x00lib_intf_scheduled_iter,FUNC_6
+data,VAR_2
+mac,VAR_3
+vif,VAR_4
+rt2x00dev,VAR_5
+intf,VAR_6

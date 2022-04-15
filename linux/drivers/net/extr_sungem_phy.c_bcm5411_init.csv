@@ -1,0 +1,11 @@
+BMCR_RESET,VAR_0
+MII_BCM5400_GB_CONTROL,VAR_1
+MII_BCM5400_GB_CONTROL_FULLDUPLEXCAP,VAR_2
+MII_BMCR,VAR_3
+reset_one_mii_phy,FUNC_0
+sungem_phy_read,FUNC_1
+sungem_phy_write,FUNC_2
+udelay,FUNC_3
+bcm5411_init,FUNC_4
+phy,VAR_4
+data,VAR_5

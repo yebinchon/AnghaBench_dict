@@ -1,0 +1,17 @@
+INIT_DELAYED_WORK,FUNC_0
+MLXSW_SP_DEFAULT_AGEING_TIME,VAR_0
+MLXSW_SP_DEFAULT_LEARNING_INTERVAL,VAR_1
+dev_err,FUNC_1
+mlxsw_sp_ageing_set,FUNC_2
+mlxsw_sp_fdb_notify_work,VAR_2
+mlxsw_sp_fdb_notify_work_schedule,FUNC_3
+mlxsw_sp_switchdev_blocking_notifier,VAR_3
+mlxsw_sp_switchdev_notifier,VAR_4
+register_switchdev_blocking_notifier,FUNC_4
+register_switchdev_notifier,FUNC_5
+unregister_switchdev_notifier,FUNC_6
+mlxsw_sp_fdb_init,FUNC_7
+mlxsw_sp,VAR_5
+bridge,VAR_6
+nb,VAR_7
+err,VAR_8

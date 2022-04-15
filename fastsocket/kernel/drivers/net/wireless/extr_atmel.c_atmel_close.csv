@@ -1,0 +1,16 @@
+ARPHRD_ETHER,VAR_0
+BUS_TYPE_PCCARD,VAR_1
+ETH_ALEN,VAR_2
+GCR,VAR_3
+SIOCGIWAP,VAR_4
+STATION_STATE_DOWN,VAR_5
+STATION_STATE_READY,VAR_6
+atmel_enter_state,FUNC_0
+atmel_write16,FUNC_1
+memset,FUNC_2
+netdev_priv,FUNC_3
+wireless_send_event,FUNC_4
+atmel_close,FUNC_5
+dev,VAR_7
+priv,VAR_8
+wrqu,VAR_9

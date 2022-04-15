@@ -1,0 +1,17 @@
+ESP_LOGI,FUNC_0
+ESP_OK,VAR_0
+TAG,VAR_1
+TEST_ASSERT,FUNC_1
+TEST_ASSERT_EQUAL,FUNC_2
+TEST_ASSERT_EQUAL_STRING_LEN,FUNC_3
+erase_test_region,FUNC_4
+esp_flash_read,FUNC_5
+esp_flash_write,FUNC_6
+memcmp,FUNC_7
+memset,FUNC_8
+strlen,FUNC_9
+test_unaligned_read_write,FUNC_10
+chip,VAR_2
+offs,VAR_3
+msg,VAR_4
+buf,VAR_5

@@ -1,0 +1,17 @@
+Create_AboveRGB,FUNC_0
+DbgThread,FUNC_1
+INTENT_ABSOLUTE_COLORIMETRIC,VAR_0
+TYPE_GRAY_FLT,VAR_1
+TYPE_RGB_FLT,VAR_2
+cmsCloseProfile,FUNC_2
+cmsCreateNULLProfile,FUNC_3
+cmsCreateProofingTransform,FUNC_4
+cmsCreate_sRGBProfile,FUNC_5
+cmsDeleteTransform,FUNC_6
+cmsFLAGS_GAMUTCHECK,VAR_3
+cmsFLAGS_SOFTPROOFING,VAR_4
+CheckProofingIntersection,FUNC_7
+profile_null,VAR_5
+hnd1,VAR_6
+hnd2,VAR_7
+transform,VAR_8

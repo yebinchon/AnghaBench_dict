@@ -1,0 +1,9 @@
+cfg,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_config_get_int32,FUNC_3
+git_config_open_ondisk,FUNC_4
+p_unlink,FUNC_5
+test_config_include__variables_in_including_override_included,FUNC_6
+i,VAR_1

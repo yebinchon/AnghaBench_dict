@@ -1,0 +1,14 @@
+BT_DBG,FUNC_0
+HCI_EVENT_HDR_SIZE,VAR_0
+HCI_EV_CMD_COMPLETE,VAR_1
+HCI_EV_CMD_STATUS,VAR_2
+__le16_to_cpu,FUNC_1
+bt_dev_err,FUNC_2
+skb_pull,FUNC_3
+hci_get_cmd_complete,FUNC_4
+hdev,VAR_3
+opcode,VAR_4
+event,VAR_5
+skb,VAR_6
+ev,VAR_7
+hdr,VAR_8

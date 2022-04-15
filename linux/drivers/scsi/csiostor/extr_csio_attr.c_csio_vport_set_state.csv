@@ -1,0 +1,12 @@
+CSIO_LNF_NPIVSUPP,VAR_0
+FC_VPORT_ACTIVE,VAR_1
+FC_VPORT_LINKDOWN,VAR_2
+FC_VPORT_NO_FABRIC_SUPP,VAR_3
+csio_lnode_state_to_str,FUNC_0
+fc_vport_set_state,FUNC_1
+strcmp,FUNC_2
+csio_vport_set_state,FUNC_3
+ln,VAR_4
+fc_vport,VAR_5
+pln,VAR_6
+state,VAR_7

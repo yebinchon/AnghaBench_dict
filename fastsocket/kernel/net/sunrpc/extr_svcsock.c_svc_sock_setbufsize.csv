@@ -1,0 +1,14 @@
+KERNEL_DS,VAR_0
+SOL_SOCKET,VAR_1
+SO_RCVBUF,VAR_2
+SO_SNDBUF,VAR_3
+get_fs,FUNC_0
+lock_sock,FUNC_1
+release_sock,FUNC_2
+set_fs,FUNC_3
+sock_setsockopt,FUNC_4
+stub1,FUNC_5
+svc_sock_setbufsize,FUNC_6
+sock,VAR_4
+snd,VAR_5
+rcv,VAR_6

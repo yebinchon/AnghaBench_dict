@@ -1,0 +1,15 @@
+DEFAULT_DIB3000MC_I2C_ADDRESS,VAR_0
+DEFAULT_DIB3000P_I2C_ADDRESS,VAR_1
+ENODEV,VAR_2
+USB_PID_LITEON_DVB_T_WARM,VAR_3
+USB_VID_LITEON,VAR_4
+dib3000mc_attach,VAR_5
+dib3000mc_pid_control,VAR_6
+dib3000mc_pid_parse,VAR_7
+dvb_attach,FUNC_0
+le16_to_cpu,FUNC_1
+mod3000p_dib3000p_config,VAR_8
+msleep,FUNC_2
+dibusb_dib3000mc_frontend_attach,FUNC_3
+adap,VAR_9
+st,VAR_10

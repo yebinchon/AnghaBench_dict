@@ -1,0 +1,17 @@
+Anum_hypertable_name_idx_schema,VAR_0
+Anum_hypertable_name_idx_table,VAR_1
+BTEqualStrategyNumber,VAR_2
+CStringGetDatum,FUNC_0
+CurrentMemoryContext,VAR_3
+DirectFunctionCall1,FUNC_1
+F_NAMEEQ,VAR_4
+HYPERTABLE_NAME_INDEX,VAR_5
+RowExclusiveLock,VAR_6
+ScanKeyInit,FUNC_2
+hypertable_scan_limit_internal,FUNC_3
+hypertable_tuple_delete,VAR_7
+namein,VAR_8
+ts_hypertable_delete_by_name,FUNC_4
+schema_name,VAR_9
+table_name,VAR_10
+scankey,VAR_11

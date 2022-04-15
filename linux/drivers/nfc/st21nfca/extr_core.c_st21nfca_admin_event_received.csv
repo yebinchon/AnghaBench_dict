@@ -1,0 +1,16 @@
+ST21NFCA_EVT_HOT_PLUG_IS_INHIBITED,FUNC_0
+ST21NFCA_SE_TO_PIPES,VAR_0
+complete,FUNC_1
+del_timer_sync,FUNC_2
+jiffies,VAR_1
+kfree_skb,FUNC_3
+mod_timer,FUNC_4
+msecs_to_jiffies,FUNC_5
+nfc_err,FUNC_6
+nfc_hci_get_clientdata,FUNC_7
+pr_debug,FUNC_8
+st21nfca_admin_event_received,FUNC_9
+hdev,VAR_2
+event,VAR_3
+skb,VAR_4
+info,VAR_5

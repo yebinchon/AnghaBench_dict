@@ -1,0 +1,7 @@
+MSR_TFA_RTM_FORCE_ABORT,VAR_0
+MSR_TSX_FORCE_ABORT,VAR_1
+wrmsrl,FUNC_0
+intel_set_tfa,FUNC_1
+cpuc,VAR_2
+on,VAR_3
+val,VAR_4

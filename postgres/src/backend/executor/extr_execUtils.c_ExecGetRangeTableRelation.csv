@@ -1,0 +1,13 @@
+AccessShareLock,VAR_0
+Assert,FUNC_0
+CheckRelationLockedByMe,FUNC_1
+IsParallelWorker,FUNC_2
+NoLock,VAR_1
+RTE_RELATION,VAR_2
+exec_rt_fetch,FUNC_3
+table_open,FUNC_4
+ExecGetRangeTableRelation,FUNC_5
+estate,VAR_3
+rti,VAR_4
+rel,VAR_5
+rte,VAR_6

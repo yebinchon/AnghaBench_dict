@@ -1,0 +1,6 @@
+SPR_TLB1CFG,VAR_0
+TLBCFG_NENTRY_MASK,VAR_1
+mfspr,FUNC_0
+tlb1_entries,VAR_2
+tlb1_get_tlbconf,FUNC_1
+tlb1_cfg,VAR_3

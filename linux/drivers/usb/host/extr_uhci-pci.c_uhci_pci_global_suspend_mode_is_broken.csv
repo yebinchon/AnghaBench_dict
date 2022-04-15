@@ -1,0 +1,11 @@
+DMI_BOARD_NAME,VAR_0
+USBPORTSC1,VAR_1
+USBPORTSC_CCS,VAR_2
+dmi_get_system_info,FUNC_0
+inw,FUNC_1
+strcmp,FUNC_2
+uhci_pci_global_suspend_mode_is_broken,FUNC_3
+uhci,VAR_3
+port,VAR_4
+sys_info,VAR_5
+bad_Asus_board,VAR_6

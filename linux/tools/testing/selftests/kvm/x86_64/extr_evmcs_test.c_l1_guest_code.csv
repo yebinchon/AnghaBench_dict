@@ -1,0 +1,17 @@
+EXIT_REASON_VMCALL,VAR_0
+GUEST_ASSERT,FUNC_0
+GUEST_SYNC,FUNC_1
+L2_GUEST_STACK_SIZE,VAR_1
+VM_EXIT_REASON,VAR_2
+enable_vp_assist,FUNC_2
+l2_guest_code,VAR_3
+load_vmcs,FUNC_3
+prepare_for_vmx_operation,FUNC_4
+prepare_vmcs,FUNC_5
+vmlaunch,FUNC_6
+vmptrstz,FUNC_7
+vmreadz,FUNC_8
+vmresume,FUNC_9
+l1_guest_code,FUNC_10
+vmx_pages,VAR_4
+l2_guest_stack,VAR_5

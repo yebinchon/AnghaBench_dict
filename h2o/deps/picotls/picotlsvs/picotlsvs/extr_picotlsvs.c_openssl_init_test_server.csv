@@ -1,0 +1,14 @@
+SetSignCertificate,FUNC_0
+fprintf,FUNC_1
+memset,FUNC_2
+ptls_get_time,VAR_0
+ptls_load_certificates,FUNC_3
+ptls_openssl_cipher_suites,VAR_1
+ptls_openssl_key_exchanges,VAR_2
+ptls_openssl_random_bytes,VAR_3
+stderr,VAR_4
+openssl_init_test_server,FUNC_4
+ctx_server,VAR_5
+key_file,VAR_6
+cert_file,VAR_7
+ret,VAR_8

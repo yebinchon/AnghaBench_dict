@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+__this_cpu_inc_return,FUNC_1
+__this_cpu_read,FUNC_2
+__this_cpu_write,FUNC_3
+get_cpu,FUNC_4
+irqs_disabled,FUNC_5
+put_cpu,FUNC_6
+xed_nesting_count,VAR_0
+xen_evtchn_handle_events,FUNC_7
+xen_vcpu,VAR_1
+__xen_evtchn_do_upcall,FUNC_8
+vcpu_info,VAR_2
+cpu,VAR_3
+count,VAR_4

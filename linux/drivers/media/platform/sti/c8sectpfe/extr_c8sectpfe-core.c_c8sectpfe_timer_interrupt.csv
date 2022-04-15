@@ -1,0 +1,15 @@
+DMA_PRDS_TPENABLE,VAR_0
+POLL_MSECS,VAR_1
+add_timer,FUNC_0
+fei,VAR_2
+from_timer,FUNC_1
+jiffies,VAR_3
+msecs_to_jiffies,FUNC_2
+readl,FUNC_3
+tasklet_schedule,FUNC_4
+timer,VAR_4
+c8sectpfe_timer_interrupt,FUNC_5
+t,VAR_5
+fei,VAR_6
+channel,VAR_7
+chan_num,VAR_8

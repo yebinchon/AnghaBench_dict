@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+GPCMD_READ_TOC_PMA_ATIP,VAR_3
+IOCTL_TIMEOUT,VAR_4
+SR_GFP_DMA,FUNC_0
+kfree,FUNC_1
+kmalloc,FUNC_2
+memset,FUNC_3
+sr_do_ioctl,FUNC_4
+sr_read_tochdr,FUNC_5
+cdi,VAR_5
+tochdr,VAR_6
+cd,VAR_7
+cgc,VAR_8
+result,VAR_9
+buffer,VAR_10

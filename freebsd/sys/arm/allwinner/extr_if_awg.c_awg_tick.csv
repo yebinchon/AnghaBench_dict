@@ -1,0 +1,14 @@
+AWG_ASSERT_LOCKED,FUNC_0
+IFF_DRV_RUNNING,VAR_0
+awg_start_locked,FUNC_1
+callout_reset,FUNC_2
+device_get_softc,FUNC_3
+hz,VAR_1
+if_getdrvflags,FUNC_4
+mii_tick,FUNC_5
+awg_tick,FUNC_6
+softc,VAR_2
+sc,VAR_3
+mii,VAR_4
+ifp,VAR_5
+link,VAR_6

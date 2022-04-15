@@ -1,0 +1,15 @@
+ALLOC_NO_WATERMARKS,VAR_0
+BLK_RW_ASYNC,VAR_1
+HZ,VAR_2
+__GFP_NOFAIL,VAR_3
+get_page_from_freelist,FUNC_0
+wait_iff_congested,FUNC_1
+__alloc_pages_high_priority,FUNC_2
+gfp_mask,VAR_4
+order,VAR_5
+zonelist,VAR_6
+high_zoneidx,VAR_7
+nodemask,VAR_8
+preferred_zone,VAR_9
+migratetype,VAR_10
+page,VAR_11

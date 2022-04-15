@@ -1,0 +1,11 @@
+HCLGE_OPC_CFG_MAC_PAUSE_EN,VAR_0
+HCLGE_RX_MAC_PAUSE_EN_MSK,VAR_1
+HCLGE_TX_MAC_PAUSE_EN_MSK,VAR_2
+cpu_to_le32,FUNC_0
+hclge_cmd_send,FUNC_1
+hclge_cmd_setup_basic_desc,FUNC_2
+hclge_mac_pause_en_cfg,FUNC_3
+hdev,VAR_3
+tx,VAR_4
+rx,VAR_5
+desc,VAR_6

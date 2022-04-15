@@ -1,0 +1,17 @@
+MAX77620_FPS_PD_PERIOD_MASK,VAR_0
+MAX77620_FPS_PD_PERIOD_SHIFT,VAR_1
+MAX77620_FPS_PU_PERIOD_MASK,VAR_2
+MAX77620_FPS_PU_PERIOD_SHIFT,VAR_3
+dev_err,FUNC_0
+regmap_update_bits,FUNC_1
+max77620_regulator_set_fps_slots,FUNC_2
+pmic,VAR_4
+id,VAR_5
+is_suspend,VAR_6
+rpdata,VAR_7
+rinfo,VAR_8
+val,VAR_9
+mask,VAR_10
+pu,VAR_11
+pd,VAR_12
+ret,VAR_13

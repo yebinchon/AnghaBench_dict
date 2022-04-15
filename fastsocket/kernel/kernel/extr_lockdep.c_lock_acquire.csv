@@ -1,0 +1,17 @@
+__lock_acquire,FUNC_0
+check_flags,FUNC_1
+current,VAR_0
+irqs_disabled_flags,FUNC_2
+raw_local_irq_restore,FUNC_3
+raw_local_irq_save,FUNC_4
+trace_lock_acquire,FUNC_5
+unlikely,FUNC_6
+lock_acquire,FUNC_7
+lock,VAR_1
+subclass,VAR_2
+trylock,VAR_3
+read,VAR_4
+check,VAR_5
+nest_lock,VAR_6
+ip,VAR_7
+flags,VAR_8

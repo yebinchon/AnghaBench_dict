@@ -1,0 +1,14 @@
+TASK_POLICY_CPU_RESOURCE_USAGE,VAR_0
+TASK_POLICY_RESOURCE_ATTRIBUTE_DEFAULT,VAR_1
+TASK_POLICY_RESOURCE_ATTRIBUTE_NONE,VAR_2
+current_task,FUNC_0
+proc_restore_resource_actions,FUNC_1
+task_clear_cpuusage_locked,FUNC_2
+task_lock,FUNC_3
+task_unlock,FUNC_4
+proc_clear_task_ruse_cpu,FUNC_5
+task,VAR_3
+cpumon_entitled,VAR_4
+error,VAR_5
+action,VAR_6
+bsdinfo,VAR_7

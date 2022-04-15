@@ -1,0 +1,17 @@
+ARM_DBG_READ,FUNC_0
+ARM_DSCR_MOE,FUNC_1
+WARN,FUNC_2
+breakpoint_handler,FUNC_3
+c0,VAR_0
+c1,VAR_1
+interrupts_enabled,FUNC_4
+local_irq_enable,FUNC_5
+preempt_disable,FUNC_6
+preempt_enable,FUNC_7
+watchpoint_handler,FUNC_8
+hw_breakpoint_pending,FUNC_9
+addr,VAR_2
+fsr,VAR_3
+regs,VAR_4
+ret,VAR_5
+dscr,VAR_6

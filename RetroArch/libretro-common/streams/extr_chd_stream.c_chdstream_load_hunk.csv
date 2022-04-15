@@ -1,0 +1,11 @@
+CHDERR_NONE,VAR_0
+SWAP16,FUNC_0
+chd_get_header,FUNC_1
+chd_read,FUNC_2
+chdstream_load_hunk,FUNC_3
+stream,VAR_1
+hunknum,VAR_2
+err,VAR_3
+array,VAR_4
+i,VAR_5
+count,VAR_6

@@ -1,0 +1,13 @@
+KPROBE_HIT_SSDONE,VAR_0
+KPROBE_REENTER,VAR_1
+X86_EFLAGS_TF,VAR_2
+get_kprobe_ctlblk,FUNC_0
+kprobe_running,FUNC_1
+reset_current_kprobe,FUNC_2
+restore_previous_kprobe,FUNC_3
+resume_execution,FUNC_4
+stub1,FUNC_5
+kprobe_debug_handler,FUNC_6
+regs,VAR_3
+cur,VAR_4
+kcb,VAR_5

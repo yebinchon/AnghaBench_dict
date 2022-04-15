@@ -1,0 +1,16 @@
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_generic_detach,FUNC_0
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+device_delete_child,FUNC_3
+device_get_ivars,FUNC_4
+device_get_softc,FUNC_5
+free,FUNC_6
+csa_detach,FUNC_7
+dev,VAR_3
+resp,VAR_4
+scp,VAR_5
+func,VAR_6
+err,VAR_7

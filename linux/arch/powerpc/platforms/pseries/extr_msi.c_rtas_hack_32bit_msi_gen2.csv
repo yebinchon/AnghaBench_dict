@@ -1,0 +1,9 @@
+PCI_MSI_ADDRESS_HI,VAR_0
+PCI_MSI_ADDRESS_LO,VAR_1
+dev_info,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+rtas_hack_32bit_msi_gen2,FUNC_3
+pdev,VAR_2
+addr_hi,VAR_3
+addr_lo,VAR_4

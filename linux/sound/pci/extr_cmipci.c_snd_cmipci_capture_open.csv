@@ -1,0 +1,17 @@
+CM_OPEN_CAPTURE,VAR_0
+SNDRV_PCM_HW_PARAM_BUFFER_SIZE,VAR_1
+SNDRV_PCM_HW_PARAM_RATE,VAR_2
+SNDRV_PCM_RATE_44100,VAR_3
+SNDRV_PCM_RATE_48000,VAR_4
+SNDRV_PCM_RATE_KNOT,VAR_5
+hw_constraints_rates,VAR_6
+open_device_check,FUNC_0
+snd_cmipci_capture,VAR_7
+snd_pcm_hw_constraint_list,FUNC_1
+snd_pcm_hw_constraint_minmax,FUNC_2
+snd_pcm_substream_chip,FUNC_3
+snd_cmipci_capture_open,FUNC_4
+substream,VAR_8
+cm,VAR_9
+runtime,VAR_10
+err,VAR_11

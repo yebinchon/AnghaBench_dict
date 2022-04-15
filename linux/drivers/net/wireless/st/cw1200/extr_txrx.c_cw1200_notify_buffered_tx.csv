@@ -1,0 +1,17 @@
+CW1200_MAX_TID,VAR_0
+WARN_ON,FUNC_0
+ieee80211_find_sta,FUNC_1
+ieee80211_sta_set_buffered,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+cw1200_notify_buffered_tx,FUNC_7
+priv,VAR_1
+skb,VAR_2
+link_id,VAR_3
+tid,VAR_4
+sta,VAR_5
+hdr,VAR_6
+buffered,VAR_7
+still_buffered,VAR_8

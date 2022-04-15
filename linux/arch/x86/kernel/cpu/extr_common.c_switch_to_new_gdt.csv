@@ -1,0 +1,4 @@
+load_direct_gdt,FUNC_0
+load_percpu_segment,FUNC_1
+switch_to_new_gdt,FUNC_2
+cpu,VAR_0

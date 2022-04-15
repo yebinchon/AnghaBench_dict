@@ -1,0 +1,8 @@
+OutputPluginPrepareWrite,FUNC_0
+OutputPluginUpdateProgress,FUNC_1
+OutputPluginWrite,FUNC_2
+logicalrep_write_commit,FUNC_3
+pgoutput_commit_txn,FUNC_4
+ctx,VAR_0
+txn,VAR_1
+commit_lsn,VAR_2

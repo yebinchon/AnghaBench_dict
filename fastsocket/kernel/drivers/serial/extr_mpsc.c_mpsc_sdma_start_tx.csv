@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+MPSC_TXRE_SIZE,VAR_1
+SDMA_DESC_CMDSTAT_O,VAR_2
+SDMA_SDCM_STD,VAR_3
+SDMA_SDCM_TXD,VAR_4
+be32_to_cpu,FUNC_0
+dma_cache_sync,FUNC_1
+invalidate_dcache_range,FUNC_2
+mpsc_sdma_cmd,FUNC_3
+mpsc_sdma_set_tx_ring,FUNC_4
+mpsc_sdma_tx_active,FUNC_5
+mpsc_sdma_start_tx,FUNC_6
+pi,VAR_5
+txre,VAR_6
+txre_p,VAR_7

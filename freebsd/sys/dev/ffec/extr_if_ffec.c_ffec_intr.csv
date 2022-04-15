@@ -1,0 +1,17 @@
+FEC_IER_EBERR,VAR_0
+FEC_IER_REG,VAR_1
+FEC_IER_RXF,VAR_2
+FEC_IER_TXF,VAR_3
+FFEC_LOCK,FUNC_0
+FFEC_UNLOCK,FUNC_1
+RD4,FUNC_2
+WR4,FUNC_3
+device_printf,FUNC_4
+ffec_init_locked,FUNC_5
+ffec_rxfinish_locked,FUNC_6
+ffec_stop_locked,FUNC_7
+ffec_txfinish_locked,FUNC_8
+ffec_intr,FUNC_9
+arg,VAR_4
+sc,VAR_5
+ier,VAR_6

@@ -1,0 +1,14 @@
+RIO_GLOBAL_TABLE,VAR_0
+SPBC_ROUTE_CFG_DESTID,VAR_1
+SPBC_ROUTE_CFG_PORT,VAR_2
+SPP_ROUTE_CFG_DESTID,FUNC_0
+SPP_ROUTE_CFG_PORT,FUNC_1
+rio_mport_write_config_32,FUNC_2
+udelay,FUNC_3
+tsi568_route_add_entry,FUNC_4
+mport,VAR_3
+destid,VAR_4
+hopcount,VAR_5
+table,VAR_6
+route_destid,VAR_7
+route_port,VAR_8

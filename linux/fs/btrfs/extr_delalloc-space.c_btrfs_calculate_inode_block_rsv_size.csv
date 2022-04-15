@@ -1,0 +1,14 @@
+btrfs_calc_insert_metadata_size,FUNC_0
+btrfs_calc_metadata_size,FUNC_1
+btrfs_csum_bytes_to_leaves,FUNC_2
+lockdep_assert_held,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+btrfs_calculate_inode_block_rsv_size,FUNC_6
+fs_info,VAR_0
+inode,VAR_1
+block_rsv,VAR_2
+reserve_size,VAR_3
+qgroup_rsv_size,VAR_4
+csum_leaves,VAR_5
+outstanding_extents,VAR_6

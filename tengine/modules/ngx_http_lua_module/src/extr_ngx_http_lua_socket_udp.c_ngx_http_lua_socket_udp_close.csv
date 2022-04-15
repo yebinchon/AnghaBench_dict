@@ -1,0 +1,17 @@
+LUA_TTABLE,VAR_0
+SOCKET_CTX_INDEX,VAR_1
+luaL_checktype,FUNC_0
+luaL_error,FUNC_1
+lua_gettop,FUNC_2
+lua_pop,FUNC_3
+lua_pushinteger,FUNC_4
+lua_pushliteral,FUNC_5
+lua_pushnil,FUNC_6
+lua_rawgeti,FUNC_7
+lua_touserdata,FUNC_8
+ngx_http_lua_get_req,FUNC_9
+ngx_http_lua_socket_udp_finalize,FUNC_10
+ngx_http_lua_socket_udp_close,FUNC_11
+L,VAR_2
+r,VAR_3
+u,VAR_4

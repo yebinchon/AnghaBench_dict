@@ -1,0 +1,9 @@
+ARTPEC6_CRYPTO_HASH_SHA1,VAR_0
+HASH_FLAG_FINALIZE,VAR_1
+HASH_FLAG_UPDATE,VAR_2
+ahash_request_ctx,FUNC_0
+artpec6_crypto_init_hash,FUNC_1
+artpec6_crypto_prepare_submit_hash,FUNC_2
+artpec6_crypto_sha1_digest,FUNC_3
+req,VAR_3
+req_ctx,VAR_4

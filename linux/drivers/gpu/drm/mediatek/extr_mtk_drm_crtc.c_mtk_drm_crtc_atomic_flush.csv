@@ -1,0 +1,16 @@
+BIT,FUNC_0
+mtk_crtc_ddp_config,FUNC_1
+mtk_ddp_gamma_set,FUNC_2
+mtk_disp_mutex_acquire,FUNC_3
+mtk_disp_mutex_release,FUNC_4
+to_mtk_crtc,FUNC_5
+to_mtk_plane_state,FUNC_6
+mtk_drm_crtc_atomic_flush,FUNC_7
+crtc,VAR_0
+old_crtc_state,VAR_1
+mtk_crtc,VAR_2
+priv,VAR_3
+pending_planes,VAR_4
+i,VAR_5
+plane,VAR_6
+plane_state,VAR_7

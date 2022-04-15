@@ -1,0 +1,17 @@
+IInternetProtocolInfo_ParseUrl,FUNC_0
+IInternetProtocolInfo_Release,FUNC_1
+PARSE_PATH_FROM_URL,VAR_0
+PathCreateFromUrlW,FUNC_2
+SUCCEEDED,FUNC_3
+TRACE,FUNC_4
+debugstr_w,FUNC_5
+get_protocol_info,FUNC_6
+parse_path_from_url,FUNC_7
+url,VAR_1
+flags,VAR_2
+result,VAR_3
+size,VAR_4
+rsize,VAR_5
+protocol_info,VAR_6
+prsize,VAR_7
+hres,VAR_8

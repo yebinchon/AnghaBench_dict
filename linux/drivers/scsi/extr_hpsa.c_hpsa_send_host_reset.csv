@@ -1,0 +1,10 @@
+HPSA_DEVICE_RESET_MSG,VAR_0
+RAID_CTLR_LUNID,VAR_1
+TYPE_MSG,VAR_2
+cmd_alloc,FUNC_0
+enqueue_cmd_and_start_io,FUNC_1
+fill_cmd,FUNC_2
+hpsa_send_host_reset,FUNC_3
+h,VAR_3
+reset_type,VAR_4
+c,VAR_5

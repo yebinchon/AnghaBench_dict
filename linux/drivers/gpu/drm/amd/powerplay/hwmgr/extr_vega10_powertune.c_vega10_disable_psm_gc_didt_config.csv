@@ -1,0 +1,14 @@
+AvfsPSMResetConfig_vega10,VAR_0
+PHM_PlatformCaps_GCEDC,VAR_1
+PHM_PlatformCaps_PSM,VAR_2
+PP_CAP,FUNC_0
+amdgpu_gfx_rlc_enter_safe_mode,FUNC_1
+amdgpu_gfx_rlc_exit_safe_mode,FUNC_2
+cgs_write_register,FUNC_3
+mmGC_DIDT_CTRL0,VAR_3
+vega10_didt_set_mask,FUNC_4
+vega10_program_gc_didt_config_registers,FUNC_5
+vega10_disable_psm_gc_didt_config,FUNC_6
+hwmgr,VAR_4
+adev,VAR_5
+data,VAR_6

@@ -1,0 +1,16 @@
+SNDRV_PCM_HW_PARAM_FORMAT,VAR_0
+SNDRV_PCM_HW_PARAM_PERIODS,VAR_1
+SNDRV_PCM_HW_PARAM_RATE,VAR_2
+SNDRV_PCM_INFO_HALF_DUPLEX,VAR_3
+SNDRV_PCM_INFO_JOINT_DUPLEX,VAR_4
+snd_pcm_hw_constraint_integer,FUNC_0
+snd_pcm_hw_rule_add,FUNC_1
+snd_pcm_rate_to_rate_bit,FUNC_2
+snd_pmac_hw_rule_format,VAR_5
+snd_pmac_hw_rule_rate,VAR_6
+snd_pmac_pcm_open,FUNC_3
+chip,VAR_7
+rec,VAR_8
+subs,VAR_9
+runtime,VAR_10
+i,VAR_11

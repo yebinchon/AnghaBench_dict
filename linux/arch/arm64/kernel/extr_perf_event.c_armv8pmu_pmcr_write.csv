@@ -1,0 +1,6 @@
+ARMV8_PMU_PMCR_MASK,VAR_0
+isb,FUNC_0
+pmcr_el0,VAR_1
+write_sysreg,FUNC_1
+armv8pmu_pmcr_write,FUNC_2
+val,VAR_2

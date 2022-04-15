@@ -1,0 +1,11 @@
+SMBUS_INTR,FUNC_0
+device_get_softc,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+smbus_intr,FUNC_4
+bus,VAR_0
+devaddr,VAR_1
+low,VAR_2
+high,VAR_3
+error,VAR_4
+sc,VAR_5

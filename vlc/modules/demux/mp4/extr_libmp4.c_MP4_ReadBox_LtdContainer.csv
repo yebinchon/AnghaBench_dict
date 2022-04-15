@@ -1,0 +1,15 @@
+MP4_BoxAddChild,FUNC_0
+MP4_Box_data_lcont_t,VAR_0
+MP4_GET4BYTES,FUNC_1
+MP4_GETVERSIONFLAGS,FUNC_2
+MP4_READBOX_ENTER_PARTIAL,FUNC_3
+MP4_READBOX_EXIT,FUNC_4
+MP4_ReadBox,FUNC_5
+MP4_Seek,FUNC_6
+i_read,VAR_1
+msg_Dbg,FUNC_7
+MP4_ReadBox_LtdContainer,FUNC_8
+p_stream,VAR_2
+p_box,VAR_3
+i_entry,VAR_4
+p_childbox,VAR_5

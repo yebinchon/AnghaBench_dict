@@ -1,0 +1,15 @@
+CHIP_IS_E3,FUNC_0
+DELAY,FUNC_1
+ELINK_PHY_INITIALIZED,VAR_0
+ELINK_STATUS_OK,VAR_1
+NIG_REG_EGRESS_DRAIN0_MODE,VAR_2
+REG_WR,FUNC_2
+elink_link_reset,FUNC_3
+elink_set_bmac_rx,FUNC_4
+elink_set_rx_filter,FUNC_5
+elink_set_umac_rxtx,FUNC_6
+elink_set_xmac_rxtx,FUNC_7
+elink_lfa_reset,FUNC_8
+params,VAR_3
+vars,VAR_4
+sc,VAR_5

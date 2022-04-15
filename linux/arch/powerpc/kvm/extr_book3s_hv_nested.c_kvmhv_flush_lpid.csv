@@ -1,0 +1,10 @@
+H_TLBIE_P1_ENC,FUNC_0
+H_TLB_INVALIDATE,VAR_0
+TLBIEL_INVAL_SET_LPID,VAR_1
+kvmhv_on_pseries,FUNC_1
+plpar_hcall_norets,FUNC_2
+pr_err,FUNC_3
+radix__flush_all_lpid,FUNC_4
+kvmhv_flush_lpid,FUNC_5
+lpid,VAR_2
+rc,VAR_3

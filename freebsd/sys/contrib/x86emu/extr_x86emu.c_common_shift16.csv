@@ -1,0 +1,14 @@
+decode_and_fetch_word,FUNC_0
+decode_and_fetch_word_imm8,FUNC_1
+decode_rh_word_register,FUNC_2
+fetch_decode_modrm,FUNC_3
+shld_word,FUNC_4
+shrd_word,FUNC_5
+write_back_word,FUNC_6
+common_shift16,FUNC_7
+emu,VAR_0
+shift_left,VAR_1
+use_cl,VAR_2
+shift,VAR_3
+destval,VAR_4
+shiftreg,VAR_5

@@ -1,0 +1,17 @@
+VIRTIO_CONFIG_STATUS_ACK,VAR_0
+VIRTIO_CONFIG_STATUS_DRIVER,VAR_1
+VIRTIO_CONFIG_STATUS_RESET,VAR_2
+VTPCI_FLAG_MSIX,VAR_3
+device_get_softc,FUNC_0
+vtpci_get_status,FUNC_1
+vtpci_negotiate_features,FUNC_2
+vtpci_reinit_virtqueue,FUNC_3
+vtpci_set_host_msix_vectors,FUNC_4
+vtpci_set_status,FUNC_5
+vtpci_stop,FUNC_6
+vtpci_reinit,FUNC_7
+dev,VAR_4
+features,VAR_5
+sc,VAR_6
+idx,VAR_7
+error,VAR_8

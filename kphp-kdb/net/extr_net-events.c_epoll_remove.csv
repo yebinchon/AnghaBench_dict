@@ -1,0 +1,11 @@
+EPOLL_CTL_DEL,VAR_0
+EVT_IN_EPOLL,VAR_1
+Events,VAR_2
+MAX_EVENTS,VAR_3
+assert,FUNC_0
+epoll_ctl,FUNC_1
+epoll_fd,VAR_4
+perror,FUNC_2
+epoll_remove,FUNC_3
+fd,VAR_5
+ev,VAR_6

@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+IOAPIC_NUM_PINS,VAR_0
+__kvm_irq_line_state,FUNC_1
+ioapic_set_irq,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+kvm_ioapic_set_irq,FUNC_5
+ioapic,VAR_1
+irq,VAR_2
+irq_source_id,VAR_3
+level,VAR_4
+line_status,VAR_5
+ret,VAR_6
+irq_level,VAR_7

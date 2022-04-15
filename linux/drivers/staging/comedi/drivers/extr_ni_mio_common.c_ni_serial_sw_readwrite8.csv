@@ -1,0 +1,17 @@
+NISTC_DIO_CTRL_REG,VAR_0
+NISTC_DIO_IN_REG,VAR_1
+NISTC_DIO_OUT_REG,VAR_2
+NISTC_DIO_SDCLK,VAR_3
+NISTC_DIO_SDIN,VAR_4
+NISTC_DIO_SDOUT,VAR_5
+ni_stc_readw,FUNC_0
+ni_stc_writew,FUNC_1
+udelay,FUNC_2
+ni_serial_sw_readwrite8,FUNC_3
+dev,VAR_6
+s,VAR_7
+data_out,VAR_8
+data_in,VAR_9
+devpriv,VAR_10
+mask,VAR_11
+input,VAR_12

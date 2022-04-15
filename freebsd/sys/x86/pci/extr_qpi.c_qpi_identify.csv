@@ -1,0 +1,12 @@
+BUS_ADD_CHILD,FUNC_0
+CPUID_TO_FAMILY,FUNC_1
+CPU_VENDOR_INTEL,VAR_0
+TUNABLE_INT_FETCH,FUNC_2
+cpu_id,VAR_1
+cpu_vendor_id,VAR_2
+panic,FUNC_3
+pci_cfgregopen,FUNC_4
+qpi_identify,FUNC_5
+driver,VAR_3
+parent,VAR_4
+do_qpi,VAR_5

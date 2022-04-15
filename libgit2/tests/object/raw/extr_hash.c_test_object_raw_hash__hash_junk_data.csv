@@ -1,0 +1,15 @@
+GIT_OBJECT_BLOB,VAR_0
+GIT_OBJECT_OFS_DELTA,VAR_1
+GIT_OBJECT_REF_DELTA,VAR_2
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_oid_cmp,FUNC_2
+git_oid_fromstr,FUNC_3
+hash_object_fail,FUNC_4
+hash_object_pass,FUNC_5
+junk_obj,VAR_3
+some_data,VAR_4
+zero_id,VAR_5
+test_object_raw_hash__hash_junk_data,FUNC_6
+id,VAR_6
+id_zero,VAR_7

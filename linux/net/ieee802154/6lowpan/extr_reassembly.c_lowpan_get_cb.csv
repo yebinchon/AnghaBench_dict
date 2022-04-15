@@ -1,0 +1,16 @@
+EIO,VAR_0
+LOWPAN_DISPATCH_FRAGN,VAR_1
+LOWPAN_FRAG_DGRAM_SIZE_HIGH_MASK,VAR_2
+LOWPAN_FRAG_DGRAM_SIZE_HIGH_SHIFT,VAR_3
+lowpan_fetch_skb,FUNC_0
+ntohs,FUNC_1
+skb_reset_network_header,FUNC_2
+unlikely,FUNC_3
+lowpan_get_cb,FUNC_4
+skb,VAR_4
+frag_type,VAR_5
+cb,VAR_6
+fail,VAR_7
+high,VAR_8
+low,VAR_9
+d_tag,VAR_10

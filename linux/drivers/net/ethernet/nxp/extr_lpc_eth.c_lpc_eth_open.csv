@@ -1,0 +1,14 @@
+__lpc_eth_init,FUNC_0
+__lpc_eth_reset,FUNC_1
+clk_prepare_enable,FUNC_2
+dev_dbg,FUNC_3
+napi_enable,FUNC_4
+netdev_priv,FUNC_5
+netif_msg_ifup,FUNC_6
+netif_start_queue,FUNC_7
+phy_resume,FUNC_8
+phy_start,FUNC_9
+lpc_eth_open,FUNC_10
+ndev,VAR_0
+pldat,VAR_1
+ret,VAR_2

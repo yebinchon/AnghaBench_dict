@@ -1,0 +1,15 @@
+EXT4_I,FUNC_0
+ext4_mb_new_blocks,FUNC_1
+memset,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+vfs_dq_alloc_block_nofail,FUNC_5
+ext4_new_meta_blocks,FUNC_6
+handle,VAR_0
+inode,VAR_1
+goal,VAR_2
+flags,VAR_3
+count,VAR_4
+errp,VAR_5
+ar,VAR_6
+ret,VAR_7

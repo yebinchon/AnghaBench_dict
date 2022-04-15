@@ -1,0 +1,11 @@
+PCI_DOMAINMAX,VAR_0
+PCI_RES_BUS,VAR_1
+device_get_unit,FUNC_0
+pci_domain_release_bus,FUNC_1
+pcib_release_resource,FUNC_2
+vmd_release_resource,FUNC_3
+dev,VAR_2
+child,VAR_3
+type,VAR_4
+rid,VAR_5
+r,VAR_6

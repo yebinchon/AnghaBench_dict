@@ -1,0 +1,7 @@
+IOPRIO_WHO_PROCESS,VAR_0
+LinuxProcess_updateIOPriority,FUNC_0
+SYS_ioprio_set,VAR_1
+syscall,FUNC_1
+LinuxProcess_setIOPriority,FUNC_2
+this,VAR_2
+ioprio,VAR_3

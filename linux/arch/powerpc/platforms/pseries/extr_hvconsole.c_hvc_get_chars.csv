@@ -1,0 +1,12 @@
+H_GET_TERM_CHAR,VAR_0
+H_SUCCESS,VAR_1
+PLPAR_HCALL_BUFSIZE,VAR_2
+be64_to_cpu,FUNC_0
+plpar_hcall,FUNC_1
+hvc_get_chars,FUNC_2
+vtermno,VAR_3
+buf,VAR_4
+count,VAR_5
+ret,VAR_6
+retbuf,VAR_7
+lbuf,VAR_8

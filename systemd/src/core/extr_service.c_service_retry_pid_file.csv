@@ -1,0 +1,11 @@
+IN_SET,FUNC_0
+SERVICE_START,VAR_0
+SERVICE_START_POST,VAR_1
+SERVICE_SUCCESS,VAR_2
+assert,FUNC_1
+service_enter_running,FUNC_2
+service_load_pid_file,FUNC_3
+service_unwatch_pid_file,FUNC_4
+service_retry_pid_file,FUNC_5
+s,VAR_3
+r,VAR_4

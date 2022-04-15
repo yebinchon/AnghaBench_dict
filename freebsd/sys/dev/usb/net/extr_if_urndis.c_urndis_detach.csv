@@ -1,0 +1,12 @@
+URNDIS_LOCK,FUNC_0
+URNDIS_N_TRANSFER,VAR_0
+URNDIS_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+mtx_destroy,FUNC_3
+uether_ifdetach,FUNC_4
+urndis_ctrl_halt,FUNC_5
+usbd_transfer_unsetup,FUNC_6
+urndis_detach,FUNC_7
+dev,VAR_1
+sc,VAR_2
+ue,VAR_3

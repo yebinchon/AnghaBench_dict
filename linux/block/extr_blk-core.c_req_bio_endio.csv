@@ -1,0 +1,12 @@
+BIO_QUIET,VAR_0
+RQF_FLUSH_SEQ,VAR_1
+RQF_QUIET,VAR_2
+bio_advance,FUNC_0
+bio_endio,FUNC_1
+bio_set_flag,FUNC_2
+unlikely,FUNC_3
+req_bio_endio,FUNC_4
+rq,VAR_3
+bio,VAR_4
+nbytes,VAR_5
+error,VAR_6

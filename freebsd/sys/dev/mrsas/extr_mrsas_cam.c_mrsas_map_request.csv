@@ -1,0 +1,16 @@
+BUS_DMA_NOWAIT,VAR_0
+EINPROGRESS,VAR_1
+bus_dmamap_load,FUNC_0
+bus_dmamap_load_ccb,FUNC_1
+device_printf,FUNC_2
+mrsas_data_load_cb,VAR_2
+mrsas_freeze_simq,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+xpt_path_sim,FUNC_6
+mrsas_map_request,FUNC_7
+sc,VAR_3
+cmd,VAR_4
+ccb,VAR_5
+retcode,VAR_6
+sim,VAR_7

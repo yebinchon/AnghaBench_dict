@@ -1,0 +1,14 @@
+APIC_BUS_CYCLE_NS,VAR_0
+APIC_TMICT,VAR_1
+ASSERT,FUNC_0
+apic_get_reg,FUNC_1
+div64_u64,FUNC_2
+hrtimer_get_remaining,FUNC_3
+ktime_set,FUNC_4
+ktime_to_ns,FUNC_5
+mod_64,FUNC_6
+apic_get_tmcct,FUNC_7
+apic,VAR_2
+remaining,VAR_3
+ns,VAR_4
+tmcct,VAR_5

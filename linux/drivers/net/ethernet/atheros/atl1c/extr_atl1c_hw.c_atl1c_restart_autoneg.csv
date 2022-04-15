@@ -1,0 +1,10 @@
+BMCR_ANENABLE,VAR_0
+BMCR_ANRESTART,VAR_1
+BMCR_RESET,VAR_2
+MII_BMCR,VAR_3
+atl1c_phy_setup_adv,FUNC_0
+atl1c_write_phy_reg,FUNC_1
+atl1c_restart_autoneg,FUNC_2
+hw,VAR_4
+err,VAR_5
+mii_bmcr_data,VAR_6

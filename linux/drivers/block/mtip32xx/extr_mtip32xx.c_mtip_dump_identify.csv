@@ -1,0 +1,11 @@
+ATA_SECT_SIZE,VAR_0
+PCI_REVISION_ID,VAR_1
+dev_info,FUNC_0
+mtip_hw_get_capacity,FUNC_1
+pci_read_config_word,FUNC_2
+strlcpy,FUNC_3
+mtip_dump_identify,FUNC_4
+port,VAR_2
+sectors,VAR_3
+revid,VAR_4
+cbuf,VAR_5

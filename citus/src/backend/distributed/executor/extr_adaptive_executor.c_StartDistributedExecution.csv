@@ -1,0 +1,16 @@
+AcquireExecutorShardLocksForExecution,FUNC_0
+BeginOrContinueCoordinatedTransaction,FUNC_1
+COMMIT_PROTOCOL_2PC,VAR_0
+COMMIT_PROTOCOL_BARE,VAR_1
+CoordinatedTransactionUse2PC,FUNC_2
+DistributedExecutionModifiesDatabase,FUNC_3
+DistributedExecutionRequiresRollback,FUNC_4
+InCoordinatedTransaction,FUNC_5
+LocalExecutionHappened,VAR_2
+MultiShardCommitProtocol,VAR_3
+RecordParallelRelationAccessForTaskList,FUNC_6
+TaskListRequires2PC,FUNC_7
+list_length,FUNC_8
+StartDistributedExecution,FUNC_9
+execution,VAR_4
+taskList,VAR_5

@@ -1,0 +1,11 @@
+PMU_TYPE_COUNTER,VAR_0
+X86_FEATURE_PERFCTR_CORE,VAR_1
+get_gp_pmc_amd,FUNC_0
+get_msr_base,FUNC_1
+guest_cpuid_has,FUNC_2
+pmu_to_vcpu,FUNC_3
+amd_pmc_idx_to_pmc,FUNC_4
+pmu,VAR_2
+pmc_idx,VAR_3
+base,VAR_4
+vcpu,VAR_5

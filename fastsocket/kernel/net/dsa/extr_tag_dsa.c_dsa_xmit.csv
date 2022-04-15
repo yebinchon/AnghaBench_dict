@@ -1,0 +1,17 @@
+DSA_HLEN,VAR_0
+ETH_ALEN,VAR_1
+ETH_P_8021Q,VAR_2
+ETH_P_DSA,VAR_3
+NETDEV_TX_OK,VAR_4
+dev_queue_xmit,FUNC_0
+htons,FUNC_1
+kfree_skb,FUNC_2
+memmove,FUNC_3
+netdev_priv,FUNC_4
+skb_cow_head,FUNC_5
+skb_push,FUNC_6
+dsa_xmit,FUNC_7
+skb,VAR_5
+dev,VAR_6
+p,VAR_7
+dsa_header,VAR_8

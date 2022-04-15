@@ -1,0 +1,16 @@
+DMA_BUFFER_SIZE,VAR_0
+am335x_tsc_se_clr,FUNC_0
+dma_free_coherent,FUNC_1
+dma_release_channel,FUNC_2
+get_adc_step_mask,FUNC_3
+iio_device_unregister,FUNC_4
+iio_priv,FUNC_5
+platform_get_drvdata,FUNC_6
+tiadc_channels_remove,FUNC_7
+tiadc_iio_buffered_hardware_remove,FUNC_8
+tiadc_remove,FUNC_9
+pdev,VAR_1
+indio_dev,VAR_2
+adc_dev,VAR_3
+dma,VAR_4
+step_en,VAR_5

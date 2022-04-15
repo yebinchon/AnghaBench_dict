@@ -1,0 +1,16 @@
+TIOCM_DTR,VAR_0
+TIOCM_RTS,VAR_1
+UART_MCR_DTR,VAR_2
+UART_MCR_RTS,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+mxuport_set_mcr,FUNC_2
+usb_get_serial_port_data,FUNC_3
+mxuport_tiocmset,FUNC_4
+tty,VAR_4
+set,VAR_5
+clear,VAR_6
+port,VAR_7
+mxport,VAR_8
+err,VAR_9
+mcr_state,VAR_10

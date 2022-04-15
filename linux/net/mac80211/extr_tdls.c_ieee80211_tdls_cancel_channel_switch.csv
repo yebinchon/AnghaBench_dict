@@ -1,0 +1,16 @@
+IEEE80211_DEV_TO_SUB_IF,FUNC_0
+WLAN_STA_TDLS_OFF_CHANNEL,VAR_0
+clear_sta_flag,FUNC_1
+drv_tdls_cancel_channel_switch,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+sta_info_get,FUNC_5
+tdls_dbg,FUNC_6
+test_sta_flag,FUNC_7
+ieee80211_tdls_cancel_channel_switch,FUNC_8
+wiphy,VAR_1
+dev,VAR_2
+addr,VAR_3
+sdata,VAR_4
+local,VAR_5
+sta,VAR_6

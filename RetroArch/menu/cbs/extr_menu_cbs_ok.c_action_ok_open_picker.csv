@@ -1,0 +1,15 @@
+ACTION_OK_DL_CONTENT_LIST,VAR_0
+MENU_ENUM_LABEL_FAVORITES,VAR_1
+free,FUNC_0
+generic_action_ok_displaylist_push,FUNC_1
+msg_hash_to_str,FUNC_2
+retro_assert,FUNC_3
+uwp_trigger_picker,FUNC_4
+action_ok_open_picker,FUNC_5
+path,VAR_2
+label,VAR_3
+type,VAR_4
+idx,VAR_5
+entry_idx,VAR_6
+ret,VAR_7
+new_path,VAR_8

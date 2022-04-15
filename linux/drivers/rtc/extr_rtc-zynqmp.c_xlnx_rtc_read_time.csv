@@ -1,0 +1,13 @@
+RTC_CUR_TM,VAR_0
+RTC_INT_SEC,VAR_1
+RTC_INT_STS,VAR_2
+RTC_SET_TM_RD,VAR_3
+dev_get_drvdata,FUNC_0
+readl,FUNC_1
+rtc_time64_to_tm,FUNC_2
+xlnx_rtc_read_time,FUNC_3
+dev,VAR_4
+tm,VAR_5
+status,VAR_6
+read_time,VAR_7
+xrtcdev,VAR_8

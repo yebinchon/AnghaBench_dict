@@ -1,0 +1,12 @@
+BUS_NOTIFY_BIND_DRIVER,VAR_0
+CONFIG_DEV_COREDUMP,VAR_1
+IS_ENABLED,FUNC_0
+blocking_notifier_call_chain,FUNC_1
+dev_attr_coredump,VAR_2
+device_create_file,FUNC_2
+kobject_name,FUNC_3
+sysfs_create_link,FUNC_4
+sysfs_remove_link,FUNC_5
+driver_sysfs_add,FUNC_6
+dev,VAR_3
+ret,VAR_4

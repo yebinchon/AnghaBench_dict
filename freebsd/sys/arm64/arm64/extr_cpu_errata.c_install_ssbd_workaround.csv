@@ -1,0 +1,13 @@
+PCPU_GET,FUNC_0
+PCPU_SET,FUNC_1
+SMCCC_ARCH_WORKAROUND_2,VAR_0
+SMCCC_RET_SUCCESS,VAR_1
+cpuid,VAR_2
+kern_getenv,FUNC_2
+smccc_arch_features,FUNC_3
+smccc_arch_workaround_2,FUNC_4
+ssbd,VAR_3
+ssbd_method,VAR_4
+strcmp,FUNC_5
+install_ssbd_workaround,FUNC_6
+env,VAR_5

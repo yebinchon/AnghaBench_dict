@@ -1,0 +1,16 @@
+ARCMSR_LOCK_ACQUIRE,FUNC_0
+ARCMSR_LOCK_RELEASE,FUNC_1
+ARCMSR_SRB_START,VAR_0
+ARCMSR_SRB_TIMEOUT,VAR_1
+CAM_CMD_TIMEOUT,VAR_2
+arcmsr_dump_data,FUNC_2
+arcmsr_srb_complete,FUNC_3
+printf,FUNC_4
+scsiio_cdb_ptr,FUNC_5
+arcmsr_srb_timeout,FUNC_6
+arg,VAR_3
+srb,VAR_4
+acb,VAR_5
+target,VAR_6
+lun,VAR_7
+cmd,VAR_8

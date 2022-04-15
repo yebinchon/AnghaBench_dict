@@ -1,0 +1,14 @@
+B43legacy_MACCTL_BE,VAR_0
+B43legacy_MMIO_MACCTL,VAR_1
+B43legacy_MMIO_RAM_CONTROL,VAR_2
+B43legacy_MMIO_RAM_DATA,VAR_3
+B43legacy_WARN_ON,FUNC_0
+b43legacy_read32,FUNC_1
+b43legacy_write32,FUNC_2
+mmiowb,FUNC_3
+swab32,FUNC_4
+b43legacy_ram_write,FUNC_5
+dev,VAR_4
+offset,VAR_5
+val,VAR_6
+status,VAR_7

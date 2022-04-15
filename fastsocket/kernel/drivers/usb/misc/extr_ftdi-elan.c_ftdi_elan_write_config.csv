@@ -1,0 +1,16 @@
+COMMAND_MASK,VAR_0
+COMMAND_SIZE,VAR_1
+ENODEV,VAR_2
+cPCIcfgwr,VAR_3
+ftdi_elan_kick_command_queue,FUNC_0
+msleep,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+ftdi_elan_write_config,FUNC_4
+ftdi,VAR_4
+config_offset,VAR_5
+width,VAR_6
+data,VAR_7
+addressofs,VAR_8
+command_size,VAR_9
+command,VAR_10

@@ -1,0 +1,9 @@
+ARM_SMMU_POLL_TIMEOUT_US,VAR_0
+readl_relaxed_poll_timeout,FUNC_0
+writel_relaxed,FUNC_1
+arm_smmu_write_reg_sync,FUNC_2
+smmu,VAR_1
+val,VAR_2
+reg_off,VAR_3
+ack_off,VAR_4
+reg,VAR_5

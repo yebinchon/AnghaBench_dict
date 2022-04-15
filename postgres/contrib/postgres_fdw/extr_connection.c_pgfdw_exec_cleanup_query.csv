@@ -1,0 +1,15 @@
+GetCurrentTimestamp,FUNC_0
+PGRES_COMMAND_OK,VAR_0
+PQclear,FUNC_1
+PQresultStatus,FUNC_2
+PQsendQuery,FUNC_3
+TimestampTzPlusMilliseconds,FUNC_4
+WARNING,VAR_1
+pgfdw_get_cleanup_result,FUNC_5
+pgfdw_report_error,FUNC_6
+pgfdw_exec_cleanup_query,FUNC_7
+conn,VAR_2
+query,VAR_3
+ignore_errors,VAR_4
+result,VAR_5
+endtime,VAR_6

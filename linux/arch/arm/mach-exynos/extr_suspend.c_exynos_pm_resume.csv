@@ -1,0 +1,13 @@
+ARM_CPU_PART_CORTEX_A9,VAR_0
+ENOSYS,VAR_1
+S5P_INFORM1,VAR_2
+call_firmware_op,FUNC_0
+exynos_cpu_restore_register,FUNC_1
+exynos_pm_central_resume,FUNC_2
+exynos_scu_enable,FUNC_3
+exynos_set_delayed_reset_assertion,FUNC_4
+pmu_raw_writel,FUNC_5
+read_cpuid_part,FUNC_6
+resume,VAR_3
+exynos_pm_resume,FUNC_7
+cpuid,VAR_4

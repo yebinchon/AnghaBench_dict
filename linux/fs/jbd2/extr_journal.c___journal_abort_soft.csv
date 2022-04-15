@@ -1,0 +1,11 @@
+ESHUTDOWN,VAR_0
+JBD2_ABORT,VAR_1
+JBD2_REC_ERR,VAR_2
+__jbd2_journal_abort_hard,FUNC_0
+jbd2_journal_update_sb_errno,FUNC_1
+write_lock,FUNC_2
+write_unlock,FUNC_3
+__journal_abort_soft,FUNC_4
+journal,VAR_3
+errno,VAR_4
+old_errno,VAR_5

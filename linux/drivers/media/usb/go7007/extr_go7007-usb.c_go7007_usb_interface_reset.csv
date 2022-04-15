@@ -1,0 +1,13 @@
+GO7007_USB_EZUSB,VAR_0
+STATUS_SHUTDOWN,VAR_1
+dev_err,FUNC_0
+go7007_read_interrupt,FUNC_1
+go7007_usb_vendor_request,FUNC_2
+go7007_write_interrupt,FUNC_3
+msleep,FUNC_4
+pr_debug,FUNC_5
+go7007_usb_interface_reset,FUNC_6
+go,VAR_2
+usb,VAR_3
+intr_val,VAR_4
+intr_data,VAR_5

@@ -1,0 +1,13 @@
+PFFRAG_FRENT_HIWAT,VAR_0
+PF_LIMIT_FRAGS,VAR_1
+TAILQ_INIT,FUNC_0
+UMA_ALIGN_PTR,VAR_2
+V_pf_frag_z,VAR_3
+V_pf_fragqueue,VAR_4
+V_pf_frent_z,VAR_5
+V_pf_limits,VAR_6
+V_pf_state_scrub_z,VAR_7
+uma_zcreate,FUNC_1
+uma_zone_set_max,FUNC_2
+uma_zone_set_warning,FUNC_3
+pf_normalize_init,FUNC_4

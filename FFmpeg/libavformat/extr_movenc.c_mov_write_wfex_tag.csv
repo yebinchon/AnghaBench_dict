@@ -1,0 +1,12 @@
+FF_PUT_WAV_HEADER_FORCE_WAVEFORMATEX,VAR_0
+avio_tell,FUNC_0
+avio_wb32,FUNC_1
+ff_put_wav_header,FUNC_2
+ffio_wfourcc,FUNC_3
+update_size,FUNC_4
+mov_write_wfex_tag,FUNC_5
+s,VAR_1
+pb,VAR_2
+track,VAR_3
+ret,VAR_4
+pos,VAR_5

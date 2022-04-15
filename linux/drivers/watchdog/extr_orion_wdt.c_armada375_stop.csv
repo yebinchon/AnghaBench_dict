@@ -1,0 +1,12 @@
+TIMER1_ENABLE_BIT,VAR_0
+TIMER_CTRL,VAR_1
+WDIOF_PRETIMEOUT,VAR_2
+atomic_io_modify,FUNC_0
+readl,FUNC_1
+watchdog_get_drvdata,FUNC_2
+writel,FUNC_3
+armada375_stop,FUNC_4
+wdt_dev,VAR_3
+dev,VAR_4
+reg,VAR_5
+mask,VAR_6

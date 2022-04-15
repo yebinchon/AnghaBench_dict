@@ -1,0 +1,14 @@
+mtk_stats_update_mac,FUNC_0
+netdev_priv,FUNC_1
+netif_device_present,FUNC_2
+netif_running,FUNC_3
+spin_trylock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+u64_stats_fetch_begin_irq,FUNC_6
+u64_stats_fetch_retry_irq,FUNC_7
+mtk_get_stats64,FUNC_8
+dev,VAR_0
+storage,VAR_1
+mac,VAR_2
+hw_stats,VAR_3
+start,VAR_4

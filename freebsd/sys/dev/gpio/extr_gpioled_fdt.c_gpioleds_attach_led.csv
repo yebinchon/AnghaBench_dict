@@ -1,0 +1,17 @@
+GPIO_PIN_OUTPUT,VAR_0
+OF_getprop_alloc,FUNC_0
+OF_prop_free,FUNC_1
+device_printf,FUNC_2
+gpio_pin_get_by_ofw_idx,FUNC_3
+gpio_pin_setflags,FUNC_4
+gpioled_control,VAR_1
+led_create_state,FUNC_5
+strcasecmp,FUNC_6
+gpioleds_attach_led,FUNC_7
+sc,VAR_2
+node,VAR_3
+led,VAR_4
+name,VAR_5
+state,VAR_6
+err,VAR_7
+default_state,VAR_8

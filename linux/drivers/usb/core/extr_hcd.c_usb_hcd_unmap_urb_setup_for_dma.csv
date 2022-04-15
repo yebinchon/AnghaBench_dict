@@ -1,0 +1,10 @@
+CONFIG_HAS_DMA,VAR_0
+DMA_TO_DEVICE,VAR_1
+IS_ENABLED,FUNC_0
+URB_SETUP_MAP_LOCAL,VAR_2
+URB_SETUP_MAP_SINGLE,VAR_3
+dma_unmap_single,FUNC_1
+hcd_free_coherent,FUNC_2
+usb_hcd_unmap_urb_setup_for_dma,FUNC_3
+hcd,VAR_4
+urb,VAR_5

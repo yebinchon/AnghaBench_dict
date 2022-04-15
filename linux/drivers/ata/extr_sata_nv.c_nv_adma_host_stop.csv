@@ -1,0 +1,13 @@
+NV_MCP_SATA_CFG_20,VAR_0
+NV_MCP_SATA_CFG_20_PORT0_EN,VAR_1
+NV_MCP_SATA_CFG_20_PORT0_PWB_EN,VAR_2
+NV_MCP_SATA_CFG_20_PORT1_EN,VAR_3
+NV_MCP_SATA_CFG_20_PORT1_PWB_EN,VAR_4
+nv_ck804_host_stop,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+to_pci_dev,FUNC_3
+nv_adma_host_stop,FUNC_4
+host,VAR_5
+pdev,VAR_6
+tmp32,VAR_7

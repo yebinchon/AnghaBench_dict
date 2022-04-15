@@ -1,0 +1,10 @@
+MT6351_AUDENC_ANA_CON9,VAR_0
+RG_AUDMICBIAS0LOWPEN,VAR_1
+RG_AUDMICBIAS0VREF,VAR_2
+regmap_update_bits,FUNC_0
+snd_soc_dapm_to_component,FUNC_1
+mt_mic_bias_0_event,FUNC_2
+w,VAR_3
+kcontrol,VAR_4
+event,VAR_5
+cmpnt,VAR_6

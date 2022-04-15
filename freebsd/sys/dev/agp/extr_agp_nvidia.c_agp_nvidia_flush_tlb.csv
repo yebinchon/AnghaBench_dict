@@ -1,0 +1,15 @@
+AGP_NVIDIA_1_WBC,VAR_0
+DELAY,FUNC_0
+PAGE_SIZE,VAR_1
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+pci_read_config,FUNC_3
+pci_write_config,FUNC_4
+agp_nvidia_flush_tlb,FUNC_5
+dev,VAR_2
+sc,VAR_3
+wbc_reg,VAR_4
+temp,VAR_5
+ag_virtual,VAR_6
+i,VAR_7
+pages,VAR_8

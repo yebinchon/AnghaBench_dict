@@ -1,0 +1,14 @@
+EOVERFLOW,VAR_0
+GID_INVALID,VAR_1
+UID_INVALID,VAR_2
+USER_NAMESPACE_NO,VAR_3
+arg_uid_range,VAR_4
+arg_uid_shift,VAR_5
+arg_userns_mode,VAR_6
+assert,FUNC_0
+errno,VAR_7
+lchown,FUNC_1
+userns_lchown,FUNC_2
+p,VAR_8
+uid,VAR_9
+gid,VAR_10

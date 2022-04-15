@@ -1,0 +1,13 @@
+F_SETFL,VAR_0
+MSG_DONTWAIT,VAR_1
+O_NONBLOCK,VAR_2
+SOL_SOCKET,VAR_3
+SO_RCVBUF,VAR_4
+SO_SNDBUF,VAR_5
+buffer_size,VAR_6
+flags,VAR_7
+rs_fcntl,FUNC_0
+rs_setsockopt,FUNC_1
+set_options,FUNC_2
+fd,VAR_8
+val,VAR_9

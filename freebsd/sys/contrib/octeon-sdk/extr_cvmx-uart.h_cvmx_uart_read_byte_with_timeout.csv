@@ -1,0 +1,8 @@
+CVMX_MIO_UARTX_LSR,FUNC_0
+CVMX_MIO_UARTX_RBR,FUNC_1
+cvmx_read_csr,FUNC_2
+cvmx_uart_read_byte_with_timeout,FUNC_3
+uart_index,VAR_0
+timedout,VAR_1
+timeout,VAR_2
+lsrval,VAR_3

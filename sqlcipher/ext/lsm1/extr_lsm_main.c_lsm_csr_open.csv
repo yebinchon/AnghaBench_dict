@@ -1,0 +1,13 @@
+LSM_OK,VAR_0
+assert,FUNC_0
+assert_db_state,FUNC_1
+dbReleaseClientSnapshot,FUNC_2
+lsmBeginReadTrans,FUNC_3
+lsmBeginRoTrans,FUNC_4
+lsmMCursorClose,FUNC_5
+lsmMCursorNew,FUNC_6
+lsm_csr_open,FUNC_7
+pDb,VAR_1
+ppCsr,VAR_2
+rc,VAR_3
+pCsr,VAR_4

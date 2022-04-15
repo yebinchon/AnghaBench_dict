@@ -1,0 +1,12 @@
+AHD_MODE_UNKNOWN,VAR_0
+AHD_UPDATE_PEND_CMDS,VAR_1
+CMDCMPLT,VAR_2
+HCNTRL,VAR_3
+INTSTAT,VAR_4
+ahd_inb,FUNC_0
+ahd_known_modes,FUNC_1
+ahd_outb,FUNC_2
+ahd_reset_cmds_pending,FUNC_3
+ahd_set_modes,FUNC_4
+ahd_unpause,FUNC_5
+ahd,VAR_5

@@ -1,0 +1,11 @@
+INT_RCV_COMPLETED,VAR_0
+INT_XMIT_COMPLETED,VAR_1
+INT_XMIT_DISABLED,VAR_2
+recv_interrupt,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+trace,FUNC_3
+xmit_interrupt,FUNC_4
+process_interrupt,FUNC_5
+port_int_reg,VAR_3
+icom_port,VAR_4

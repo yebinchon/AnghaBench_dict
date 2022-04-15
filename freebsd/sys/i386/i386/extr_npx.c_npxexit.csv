@@ -1,0 +1,17 @@
+GET_FPU_CW,FUNC_0
+GET_FPU_SW,FUNC_1
+LOG_ERR,VAR_0
+PCPU_GET,FUNC_2
+PCPU_SET,FUNC_3
+critical_enter,FUNC_4
+critical_exit,FUNC_5
+curpcb,VAR_1
+curthread,VAR_2
+fpcurthread,VAR_3
+fpusave,FUNC_6
+hw_float,VAR_4
+log,FUNC_7
+start_emulating,FUNC_8
+stop_emulating,FUNC_9
+npxexit,FUNC_10
+td,VAR_5

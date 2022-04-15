@@ -1,0 +1,12 @@
+do_for_each_repo_ref_iterator,FUNC_0
+get_main_ref_store,FUNC_1
+refs_ref_iterator_begin,FUNC_2
+do_for_each_repo_ref,FUNC_3
+r,VAR_0
+prefix,VAR_1
+fn,VAR_2
+trim,VAR_3
+flags,VAR_4
+cb_data,VAR_5
+iter,VAR_6
+refs,VAR_7

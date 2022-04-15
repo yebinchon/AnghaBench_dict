@@ -1,0 +1,13 @@
+PCI_BASE_ADDRESS_0,VAR_0
+PCI_BASE_ADDRESS_1,VAR_1
+PCI_CACHE_LINE_SIZE,VAR_2
+PCI_INTERRUPT_LINE,VAR_3
+dmi_check_system,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_resource_start,FUNC_2
+pci_write_config_dword,FUNC_3
+pci_write_config_word,FUNC_4
+toshiba_line_size,VAR_4
+toshiba_ohci1394_dmi_table,VAR_5
+pci_post_fixup_toshiba_ohci1394,FUNC_5
+dev,VAR_6

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENETDOWN,VAR_1
+ENXIO,VAR_2
+IFEF_TXSTART,VAR_3
+IFF_UP,VAR_4
+IF_FULLY_ATTACHED,FUNC_0
+M_PKTHDR,VAR_5
+QP_MBUF,VAR_6
+TRUE,VAR_7
+ifnet_enqueue_common,FUNC_1
+m_freem,FUNC_2
+m_freem_list,FUNC_3
+ifnet_enqueue_mbuf,FUNC_4
+ifp,VAR_8
+m,VAR_9
+flush,VAR_10
+pdrop,VAR_11

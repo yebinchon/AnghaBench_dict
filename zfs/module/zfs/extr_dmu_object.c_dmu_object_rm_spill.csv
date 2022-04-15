@@ -1,0 +1,16 @@
+DNODE_FLAG_SPILL_BLKPTR,VAR_0
+DNODE_MUST_BE_ALLOCATED,VAR_1
+FTAG,VAR_2
+RW_WRITER,VAR_3
+dbuf_rm_spill,FUNC_0
+dnode_hold_impl,FUNC_1
+dnode_rele,FUNC_2
+dnode_rm_spill,FUNC_3
+rw_enter,FUNC_4
+rw_exit,FUNC_5
+dmu_object_rm_spill,FUNC_6
+os,VAR_4
+object,VAR_5
+tx,VAR_6
+dn,VAR_7
+err,VAR_8

@@ -1,0 +1,10 @@
+FORWARD_IF_ERROR,FUNC_0
+GENERIC,VAR_0
+RETURN_ERROR_IF,FUNC_1
+ZSTD_CLEVEL_DEFAULT,VAR_1
+ZSTD_checkCParams,FUNC_2
+assert,FUNC_3
+memset,FUNC_4
+ZSTD_CCtxParams_init_advanced,FUNC_5
+cctxParams,VAR_2
+params,VAR_3

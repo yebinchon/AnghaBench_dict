@@ -1,0 +1,17 @@
+NETDEV_REGISTER,VAR_0
+NETDEV_UDP_TUNNEL_DROP_INFO,VAR_1
+NETDEV_UDP_TUNNEL_PUSH_INFO,VAR_2
+NETDEV_UNREGISTER,VAR_3
+NOTIFY_DONE,VAR_4
+dev_net,FUNC_0
+net_generic,FUNC_1
+netdev_notifier_info_to_dev,FUNC_2
+vxlan_handle_lowerdev_unregister,FUNC_3
+vxlan_net_id,VAR_5
+vxlan_offload_rx_ports,FUNC_4
+vxlan_netdevice_event,FUNC_5
+unused,VAR_6
+event,VAR_7
+ptr,VAR_8
+dev,VAR_9
+vn,VAR_10

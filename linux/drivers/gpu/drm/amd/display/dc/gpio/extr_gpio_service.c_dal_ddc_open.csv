@@ -1,0 +1,17 @@
+BREAK_TO_DEBUGGER,FUNC_0
+FROM_HW_GPIO_PIN,FUNC_1
+GPIO_CONFIG_TYPE_DDC,VAR_0
+GPIO_CONFIG_TYPE_I2C_AUX_DUAL_MODE,VAR_1
+GPIO_MODE_INPUT,VAR_2
+GPIO_RESULT_OK,VAR_3
+dal_gpio_close,FUNC_2
+dal_gpio_open_ex,FUNC_3
+dal_gpio_set_config,FUNC_4
+dal_ddc_open,FUNC_5
+ddc,VAR_4
+mode,VAR_5
+config_type,VAR_6
+result,VAR_7
+config_data,VAR_8
+hw_data,VAR_9
+hw_clock,VAR_10

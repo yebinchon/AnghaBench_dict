@@ -1,0 +1,12 @@
+CB_SETCURSEL,VAR_0
+FALSE,VAR_1
+GWL_CURDRIVEIND,VAR_2
+RefreshToolbarDrive,FUNC_0
+SendMessage,FUNC_1
+SetWindowLongPtr,FUNC_2
+TRUE,VAR_3
+WM_SETREDRAW,VAR_4
+hwndDriveBar,VAR_5
+hwndDriveList,VAR_6
+SelectToolbarDrive,FUNC_3
+DriveInd,VAR_7

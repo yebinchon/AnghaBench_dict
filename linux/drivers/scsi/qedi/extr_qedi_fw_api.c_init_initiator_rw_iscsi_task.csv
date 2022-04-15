@@ -1,0 +1,14 @@
+GET_FIELD,FUNC_0
+ISCSI_CMD_HDR_READ,VAR_0
+ISCSI_CMD_HDR_WRITE,VAR_1
+ISCSI_TASK_TYPE_INITIATOR_READ,VAR_2
+ISCSI_TASK_TYPE_INITIATOR_WRITE,VAR_3
+init_rw_iscsi_task,FUNC_1
+init_initiator_rw_iscsi_task,FUNC_2
+task_params,VAR_4
+conn_params,VAR_5
+cmd_params,VAR_6
+cmd_header,VAR_7
+tx_sgl_params,VAR_8
+rx_sgl_params,VAR_9
+dif_task_params,VAR_10

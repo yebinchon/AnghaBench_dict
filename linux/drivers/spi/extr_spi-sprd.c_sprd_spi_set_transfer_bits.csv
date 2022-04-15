@@ -1,0 +1,9 @@
+SPRD_SPI_CHNL_LEN,VAR_0
+SPRD_SPI_CHNL_LEN_MASK,VAR_1
+SPRD_SPI_CTL0,VAR_2
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+sprd_spi_set_transfer_bits,FUNC_2
+ss,VAR_3
+bits,VAR_4
+val,VAR_5

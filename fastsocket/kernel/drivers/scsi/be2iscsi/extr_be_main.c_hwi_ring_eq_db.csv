@@ -1,0 +1,15 @@
+DB_EQ_CLR_SHIFT,VAR_0
+DB_EQ_EVNT_SHIFT,VAR_1
+DB_EQ_NUM_POPPED_SHIFT,VAR_2
+DB_EQ_OFFSET,VAR_3
+DB_EQ_REARM_SHIFT,VAR_4
+DB_EQ_RING_ID_MASK,VAR_5
+iowrite32,FUNC_0
+hwi_ring_eq_db,FUNC_1
+phba,VAR_6
+id,VAR_7
+clr_interrupt,VAR_8
+num_processed,VAR_9
+rearm,VAR_10
+event,VAR_11
+val,VAR_12

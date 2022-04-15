@@ -1,0 +1,13 @@
+BNXT_FLAG_CHIP_P5,VAR_0
+BNXT_FLAG_MSIX_CAP,VAR_1
+BNXT_FLAG_NEW_RSS_CAP,VAR_2
+BNXT_NEW_RM,FUNC_0
+bnxt_can_reserve_rings,FUNC_1
+bnxt_get_max_func_rss_ctxs,FUNC_2
+bnxt_get_max_func_vnics,FUNC_3
+bnxt_hwrm_reserve_rings,FUNC_4
+bnxt_rfs_supported,FUNC_5
+min,FUNC_6
+netdev_warn,FUNC_7
+bnxt_rfs_capable,FUNC_8
+bp,VAR_3

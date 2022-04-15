@@ -1,0 +1,16 @@
+RDS_CONN_UP,VAR_0
+ib_get_client_data,FUNC_0
+memset,FUNC_1
+rdma_addr_get_dgid,FUNC_2
+rdma_addr_get_sgid,FUNC_3
+rds_conn_state,FUNC_4
+rds_iw_client,VAR_1
+rds_iw_get_mr_info,FUNC_5
+rds_iw_transport,VAR_2
+rds_iw_conn_info_visitor,FUNC_6
+conn,VAR_3
+buffer,VAR_4
+iinfo,VAR_5
+ic,VAR_6
+rds_iwdev,VAR_7
+dev_addr,VAR_8

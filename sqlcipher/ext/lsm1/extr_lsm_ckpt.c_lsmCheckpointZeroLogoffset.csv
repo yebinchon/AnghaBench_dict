@@ -1,0 +1,10 @@
+CKPT_HDR_LO_LSW,VAR_0
+CKPT_HDR_LO_MSW,VAR_1
+CKPT_HDR_NCKPT,VAR_2
+assert,FUNC_0
+ckptChecksum,FUNC_1
+memcmp,FUNC_2
+memcpy,FUNC_3
+lsmCheckpointZeroLogoffset,FUNC_4
+pDb,VAR_3
+nCkpt,VAR_4

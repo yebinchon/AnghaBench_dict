@@ -1,0 +1,14 @@
+NPS_ENET_ENABLE,VAR_0
+NPS_ENET_REG_GE_RST,VAR_1
+NPS_ENET_REG_PHASE_FIFO_CTL,VAR_2
+PHASE_FIFO_CTL_INIT_SHIFT,VAR_3
+PHASE_FIFO_CTL_RST_SHIFT,VAR_4
+RST_GMAC_0_SHIFT,VAR_5
+netdev_priv,FUNC_0
+nps_enet_reg_set,FUNC_1
+usleep_range,FUNC_2
+nps_enet_hw_reset,FUNC_3
+ndev,VAR_6
+priv,VAR_7
+ge_rst_value,VAR_8
+phase_fifo_ctl_value,VAR_9

@@ -1,0 +1,13 @@
+VOUT_CROP_BORDER,VAR_0
+assert,FUNC_0
+vlc_mutex_lock,FUNC_1
+vlc_mutex_unlock,FUNC_2
+vout_SetDisplayCrop,FUNC_3
+vout_UpdateWindowSizeLocked,FUNC_4
+vout_ChangeCropBorder,FUNC_5
+vout,VAR_1
+left,VAR_2
+top,VAR_3
+right,VAR_4
+bottom,VAR_5
+sys,VAR_6

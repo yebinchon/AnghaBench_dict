@@ -1,0 +1,12 @@
+Assert,FUNC_0
+CONNECTION_OK,VAR_0
+FinishConnectionIO,FUNC_1
+PQisnonblocking,FUNC_2
+PQputCopyEnd,FUNC_3
+PQstatus,FUNC_4
+PutRemoteCopyEnd,FUNC_5
+connection,VAR_1
+errormsg,VAR_2
+pgConn,VAR_3
+copyState,VAR_4
+allowInterrupts,VAR_5

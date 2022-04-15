@@ -1,0 +1,11 @@
+PERIPH_SHA_MODULE,VAR_0
+engines_in_use,VAR_1
+engines_in_use_lock,VAR_2
+periph_module_disable,FUNC_0
+portENTER_CRITICAL,FUNC_1
+portEXIT_CRITICAL,FUNC_2
+sha_get_engine_state,FUNC_3
+xSemaphoreGive,FUNC_4
+esp_sha_unlock_engine,FUNC_5
+sha_type,VAR_3
+engine_state,VAR_4

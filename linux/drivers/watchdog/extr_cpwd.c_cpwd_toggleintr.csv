@@ -1,0 +1,13 @@
+PLD_IMASK,VAR_0
+WD0_INTR_MASK,VAR_1
+WD1_INTR_MASK,VAR_2
+WD2_INTR_MASK,VAR_3
+WD_INTR_ON,VAR_4
+cpwd_readb,FUNC_0
+cpwd_writeb,FUNC_1
+cpwd_toggleintr,FUNC_2
+p,VAR_5
+index,VAR_6
+enable,VAR_7
+curregs,VAR_8
+setregs,VAR_9

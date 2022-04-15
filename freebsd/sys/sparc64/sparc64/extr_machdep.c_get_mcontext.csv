@@ -1,0 +1,14 @@
+FPRS_FEF,VAR_0
+GET_MC_CLEAR_RET,VAR_1
+PCB_FEF,VAR_2
+_MC_VERSION,VAR_3
+bcopy,FUNC_0
+critical_enter,FUNC_1
+critical_exit,FUNC_2
+savefpctx,FUNC_3
+get_mcontext,FUNC_4
+td,VAR_4
+mc,VAR_5
+flags,VAR_6
+tf,VAR_7
+pcb,VAR_8

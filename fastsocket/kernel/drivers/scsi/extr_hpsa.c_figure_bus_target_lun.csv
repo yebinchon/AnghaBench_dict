@@ -1,0 +1,10 @@
+hpsa_set_bus_target_lun,FUNC_0
+is_ext_target,FUNC_1
+is_hba_lunid,FUNC_2
+is_logical_dev_addr_mode,FUNC_3
+le32_to_cpu,FUNC_4
+figure_bus_target_lun,FUNC_5
+h,VAR_0
+lunaddrbytes,VAR_1
+device,VAR_2
+lunid,VAR_3

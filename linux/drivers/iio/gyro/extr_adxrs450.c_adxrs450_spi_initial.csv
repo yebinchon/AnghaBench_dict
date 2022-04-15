@@ -1,0 +1,16 @@
+ADXRS450_CHK,VAR_0
+ADXRS450_P,VAR_1
+ADXRS450_SENSOR_DATA,VAR_2
+be32_to_cpu,FUNC_0
+cpu_to_be32,FUNC_1
+dev_err,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+spi_sync_transfer,FUNC_5
+adxrs450_spi_initial,FUNC_6
+st,VAR_3
+val,VAR_4
+chk,VAR_5
+ret,VAR_6
+tx,VAR_7
+xfers,VAR_8

@@ -1,0 +1,7 @@
+dvb_ringbuffer_flush,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+wake_up,FUNC_3
+dvb_ringbuffer_flush_spinlock_wakeup,FUNC_4
+rbuf,VAR_0
+flags,VAR_1

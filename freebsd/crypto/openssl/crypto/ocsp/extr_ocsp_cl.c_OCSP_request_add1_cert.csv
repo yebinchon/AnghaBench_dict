@@ -1,0 +1,8 @@
+OCSP_SIGNATURE_new,FUNC_0
+X509_up_ref,FUNC_1
+sk_X509_new_null,FUNC_2
+sk_X509_push,FUNC_3
+OCSP_request_add1_cert,FUNC_4
+req,VAR_0
+cert,VAR_1
+sig,VAR_2

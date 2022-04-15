@@ -1,0 +1,14 @@
+Assert,FUNC_0
+HASH_REMOVE,VAR_0
+RecoveryLockLists,VAR_1
+StandbyReleaseLockList,FUNC_1
+StandbyTransactionIdIsPrepared,FUNC_2
+TransactionIdIsValid,FUNC_3
+TransactionIdPrecedes,FUNC_4
+hash_search,FUNC_5
+hash_seq_init,FUNC_6
+hash_seq_search,FUNC_7
+StandbyReleaseOldLocks,FUNC_8
+oldxid,VAR_2
+status,VAR_3
+entry,VAR_4

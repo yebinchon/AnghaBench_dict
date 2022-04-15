@@ -1,0 +1,16 @@
+ERROR_INVALID_PARAMETER,VAR_0
+ERROR_SUCCESS,VAR_1
+KEY_ALL_ACCESS,VAR_2
+REG_OPTION_NON_VOLATILE,VAR_3
+RegCreateKeyExW,FUNC_0
+close_key,FUNC_1
+heap_xalloc,FUNC_2
+lstrcpyW,FUNC_3
+lstrlenW,FUNC_4
+parse_key_name,FUNC_5
+open_key,FUNC_6
+parser,VAR_4
+path,VAR_5
+key_class,VAR_6
+key_path,VAR_7
+res,VAR_8

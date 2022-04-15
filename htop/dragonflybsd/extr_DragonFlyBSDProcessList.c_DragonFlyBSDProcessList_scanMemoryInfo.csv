@@ -1,0 +1,15 @@
+MIB_hw_physmem,VAR_0
+MIB_vfs_bufspace,VAR_1
+MIB_vm_stats_vm_v_active_count,VAR_2
+MIB_vm_stats_vm_v_cache_count,VAR_3
+MIB_vm_stats_vm_v_wire_count,VAR_4
+kvm_getswapinfo,FUNC_0
+pageSizeKb,VAR_5
+sysctl,FUNC_1
+DragonFlyBSDProcessList_scanMemoryInfo,FUNC_2
+pl,VAR_6
+dfpl,VAR_7
+len,VAR_8
+swap,VAR_9
+nswap,VAR_10
+i,VAR_11

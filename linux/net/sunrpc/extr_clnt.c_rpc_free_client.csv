@@ -1,0 +1,16 @@
+dprintk_rcu,FUNC_0
+kfree,FUNC_1
+put_cred,FUNC_2
+rcu_dereference,FUNC_3
+rcu_dereference_raw,FUNC_4
+rpc_clnt_debugfs_unregister,FUNC_5
+rpc_clnt_remove_pipedir,FUNC_6
+rpc_free_clid,FUNC_7
+rpc_free_iostats,FUNC_8
+rpc_unregister_client,FUNC_9
+rpciod_down,FUNC_10
+xprt_iter_destroy,FUNC_11
+xprt_put,FUNC_12
+rpc_free_client,FUNC_13
+clnt,VAR_0
+parent,VAR_1

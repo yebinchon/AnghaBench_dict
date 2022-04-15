@@ -1,0 +1,17 @@
+BMSR_LSTATUS,VAR_0
+MII_BMSR,VAR_1
+SPEED_0,VAR_2
+atl1e_driver_name,VAR_3
+atl1e_read_phy_reg,FUNC_0
+dev_info,FUNC_1
+netif_carrier_ok,FUNC_2
+netif_stop_queue,FUNC_3
+schedule_work,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+atl1e_link_chg_event,FUNC_7
+adapter,VAR_4
+netdev,VAR_5
+pdev,VAR_6
+phy_data,VAR_7
+link_up,VAR_8

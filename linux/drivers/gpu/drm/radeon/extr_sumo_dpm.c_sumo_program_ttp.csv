@@ -1,0 +1,15 @@
+CG_SCLK_DPM_CTRL_5,VAR_0
+RREG32,FUNC_0
+TT_TP,FUNC_1
+TT_TP_MASK,VAR_1
+TT_TU,FUNC_2
+TT_TU_MASK,VAR_2
+WREG32,FUNC_3
+r600_calculate_u_and_p,FUNC_4
+radeon_get_xclk,FUNC_5
+sumo_program_ttp,FUNC_6
+rdev,VAR_3
+xclk,VAR_4
+p,VAR_5
+u,VAR_6
+cg_sclk_dpm_ctrl_5,VAR_7

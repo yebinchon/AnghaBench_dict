@@ -1,0 +1,8 @@
+CNTHCTL_EL1PCEN,VAR_0
+CNTHCTL_EL1PCTEN,VAR_1
+cnthctl_el2,VAR_2
+read_sysreg,FUNC_0
+write_sysreg,FUNC_1
+kvm_timer_init_vhe,FUNC_2
+cnthctl_shift,VAR_3
+val,VAR_4

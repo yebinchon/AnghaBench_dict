@@ -1,0 +1,13 @@
+ACPI_COMPANION,FUNC_0
+acpi_device_power_add_dependent,FUNC_1
+acpi_pci_wakeup,FUNC_2
+device_set_wakeup_capable,FUNC_3
+device_wakeup_enable,FUNC_4
+pci_acpi_add_pm_notifier,FUNC_5
+pci_acpi_optimize_delay,FUNC_6
+pci_acpi_set_untrusted,FUNC_7
+to_pci_dev,FUNC_8
+pci_acpi_setup,FUNC_9
+dev,VAR_0
+pci_dev,VAR_1
+adev,VAR_2

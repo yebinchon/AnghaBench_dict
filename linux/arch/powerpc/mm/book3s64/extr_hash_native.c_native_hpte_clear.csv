@@ -1,0 +1,17 @@
+HPTES_PER_GROUP,VAR_0
+HPTE_V_VALID,VAR_1
+___tlbie,FUNC_0
+be64_to_cpu,FUNC_1
+hpte_decode,FUNC_2
+htab_address,VAR_2
+htab_hash_mask,VAR_3
+native_hpte_clear,FUNC_3
+vpn,VAR_4
+slot,VAR_5
+slots,VAR_6
+hptep,VAR_7
+hpte_v,VAR_8
+pteg_count,VAR_9
+psize,VAR_10
+apsize,VAR_11
+ssize,VAR_12

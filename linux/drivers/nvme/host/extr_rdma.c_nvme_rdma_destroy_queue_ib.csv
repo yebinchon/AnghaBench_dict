@@ -1,0 +1,12 @@
+DMA_FROM_DEVICE,VAR_0
+NVME_RDMA_Q_TR_READY,VAR_1
+ib_destroy_qp,FUNC_0
+ib_free_cq,FUNC_1
+ib_mr_pool_destroy,FUNC_2
+nvme_rdma_dev_put,FUNC_3
+nvme_rdma_free_ring,FUNC_4
+test_and_clear_bit,FUNC_5
+nvme_rdma_destroy_queue_ib,FUNC_6
+queue,VAR_2
+dev,VAR_3
+ibdev,VAR_4

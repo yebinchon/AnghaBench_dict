@@ -1,0 +1,16 @@
+IEEE80211_CONF_CHANGE_CHANNEL,VAR_0
+IEEE80211_CONF_CHANGE_POWER,VAR_1
+IEEE80211_CONF_CHANGE_RETRY_LIMITS,VAR_2
+ath5k_chan_set,FUNC_0
+ath5k_hw_set_antenna_mode,FUNC_1
+ath5k_hw_set_tx_retry_limits,FUNC_2
+ath5k_hw_set_txpower_limit,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+ath5k_config,FUNC_6
+hw,VAR_3
+changed,VAR_4
+ah,VAR_5
+conf,VAR_6
+ret,VAR_7
+i,VAR_8

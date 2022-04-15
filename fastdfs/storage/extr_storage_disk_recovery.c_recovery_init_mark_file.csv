@@ -1,0 +1,14 @@
+MARK_ITEM_BINLOG_OFFSET,VAR_0
+MARK_ITEM_FETCH_BINLOG_DONE,VAR_1
+MARK_ITEM_SAVED_STORAGE_STATUS,VAR_2
+MAX_PATH_SIZE,VAR_3
+recovery_get_mark_filename,FUNC_0
+saved_storage_status,VAR_4
+sprintf,FUNC_1
+writeToFile,FUNC_2
+recovery_init_mark_file,FUNC_3
+pBasePath,VAR_5
+fetch_binlog_done,VAR_6
+full_filename,VAR_7
+buff,VAR_8
+len,VAR_9

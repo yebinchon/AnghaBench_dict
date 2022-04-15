@@ -1,0 +1,10 @@
+SPIBUS_TRANSFER,FUNC_0
+memset,FUNC_1
+mx25l_wait_for_device_ready,FUNC_2
+mx25l_set_4b_mode,FUNC_3
+sc,VAR_0
+command,VAR_1
+txBuf,VAR_2
+rxBuf,VAR_3
+cmd,VAR_4
+err,VAR_5

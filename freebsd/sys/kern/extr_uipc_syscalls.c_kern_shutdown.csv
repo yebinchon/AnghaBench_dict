@@ -1,0 +1,14 @@
+AUDIT_ARG_FD,FUNC_0
+ENOTCONN,VAR_0
+P_OSREL_SHUTDOWN_ENOTCONN,VAR_1
+cap_shutdown_rights,VAR_2
+fdrop,FUNC_1
+getsock_cap,FUNC_2
+soshutdown,FUNC_3
+kern_shutdown,FUNC_4
+td,VAR_3
+s,VAR_4
+how,VAR_5
+so,VAR_6
+fp,VAR_7
+error,VAR_8

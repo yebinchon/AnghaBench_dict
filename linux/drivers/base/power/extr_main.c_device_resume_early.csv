@@ -1,0 +1,15 @@
+TRACE_DEVICE,FUNC_0
+TRACE_RESUME,FUNC_1
+complete_all,FUNC_2
+dpm_run_callback,FUNC_3
+dpm_subsys_resume_early_cb,FUNC_4
+dpm_wait_for_superior,FUNC_5
+pm_late_early_op,FUNC_6
+pm_runtime_enable,FUNC_7
+device_resume_early,FUNC_8
+dev,VAR_0
+state,VAR_1
+async,VAR_2
+callback,VAR_3
+info,VAR_4
+error,VAR_5

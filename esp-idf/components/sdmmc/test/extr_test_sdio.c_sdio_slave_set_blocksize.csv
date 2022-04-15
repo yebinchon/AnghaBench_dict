@@ -1,0 +1,15 @@
+SD_IO_CCCR_BLKSIZEH,VAR_0
+SD_IO_CCCR_BLKSIZEL,VAR_1
+SD_IO_FBR_START,VAR_2
+TEST_ASSERT_EQUAL_HEX16,FUNC_0
+TEST_ESP_OK,FUNC_1
+sdmmc_io_read_byte,FUNC_2
+sdmmc_io_write_byte,FUNC_3
+sdio_slave_set_blocksize,FUNC_4
+card,VAR_3
+function,VAR_4
+bs,VAR_5
+bs_u8,VAR_6
+bs_read,VAR_7
+bs_read_u8,VAR_8
+offset,VAR_9

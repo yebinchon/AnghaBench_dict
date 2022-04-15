@@ -1,0 +1,15 @@
+KM_SLEEP,VAR_0
+VERIFY0,FUNC_0
+ZFS_PROP_CLONES,VAR_1
+ZPROP_VALUE,VAR_2
+fnvlist_add_nvlist,FUNC_1
+fnvlist_alloc,FUNC_2
+get_clones_stat_impl,FUNC_3
+nvlist_alloc,FUNC_4
+nvlist_free,FUNC_5
+zfs_prop_to_name,FUNC_6
+get_clones_stat,FUNC_7
+ds,VAR_3
+nv,VAR_4
+propval,VAR_5
+val,VAR_6

@@ -1,0 +1,14 @@
+GLINT_DYN_CTL,FUNC_0
+GLINT_DYN_CTL_CLEARPBA_M,VAR_0
+ICE_VF_STATE_INIT,VAR_1
+ICE_VF_STATE_MC_PROMISC,VAR_2
+ICE_VF_STATE_UC_PROMISC,VAR_3
+clear_bit,FUNC_1
+ice_flush,FUNC_2
+ice_vsi_release,FUNC_3
+wr32,FUNC_4
+ice_free_vf_res,FUNC_5
+vf,VAR_4
+pf,VAR_5
+i,VAR_6
+last_vector_idx,VAR_7

@@ -1,0 +1,14 @@
+MSG_DONTWAIT,VAR_0
+MSG_EOR,VAR_1
+O_NONBLOCK,VAR_2
+SOCK_SEQPACKET,VAR_3
+__sock_sendmsg,FUNC_0
+do_sock_write,FUNC_1
+msg,VAR_4
+iocb,VAR_5
+file,VAR_6
+iov,VAR_7
+nr_segs,VAR_8
+sock,VAR_9
+size,VAR_10
+i,VAR_11

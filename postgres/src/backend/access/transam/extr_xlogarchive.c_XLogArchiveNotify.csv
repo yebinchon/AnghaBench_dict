@@ -1,0 +1,15 @@
+AllocateFile,FUNC_0
+FreeFile,FUNC_1
+IsUnderPostmaster,VAR_0
+LOG,VAR_1
+MAXPGPATH,VAR_2
+PMSIGNAL_WAKEN_ARCHIVER,VAR_3
+SendPostmasterSignal,FUNC_2
+StatusFilePath,FUNC_3
+ereport,FUNC_4
+errcode_for_file_access,FUNC_5
+errmsg,FUNC_6
+XLogArchiveNotify,FUNC_7
+xlog,VAR_4
+archiveStatusPath,VAR_5
+fd,VAR_6

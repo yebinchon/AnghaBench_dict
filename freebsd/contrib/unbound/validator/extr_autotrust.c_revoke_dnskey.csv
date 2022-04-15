@@ -1,0 +1,12 @@
+LDNS_KEY_REVOKE_KEY,VAR_0
+LDNS_RR_TYPE_DNSKEY,VAR_1
+sldns_read_uint16,FUNC_0
+sldns_wirerr_get_rdata,FUNC_1
+sldns_wirerr_get_rdatalen,FUNC_2
+sldns_wirerr_get_type,FUNC_3
+sldns_write_uint16,FUNC_4
+revoke_dnskey,FUNC_5
+ta,VAR_2
+off,VAR_3
+flags,VAR_4
+data,VAR_5

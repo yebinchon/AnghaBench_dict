@@ -1,0 +1,15 @@
+GFP_ATOMIC,VAR_0
+TTY_NORMAL,VAR_1
+tty_flip_buffer_push,FUNC_0
+tty_insert_flip_char,FUNC_1
+tty_insert_flip_string,FUNC_2
+tty_kref_put,FUNC_3
+tty_port_tty_get,FUNC_4
+usb_serial_generic_resubmit_read_urb,FUNC_5
+usb_serial_handle_sysrq_char,FUNC_6
+flush_and_resubmit_read_urb,FUNC_7
+port,VAR_2
+urb,VAR_3
+tty,VAR_4
+ch,VAR_5
+i,VAR_6

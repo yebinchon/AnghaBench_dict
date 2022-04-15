@@ -1,0 +1,7 @@
+SMMU_PMCG_CR,VAR_0
+SMMU_PMCG_IRQ_CTRL,VAR_1
+to_smmu_pmu,FUNC_0
+writel,FUNC_1
+smmu_pmu_disable,FUNC_2
+pmu,VAR_2
+smmu_pmu,VAR_3

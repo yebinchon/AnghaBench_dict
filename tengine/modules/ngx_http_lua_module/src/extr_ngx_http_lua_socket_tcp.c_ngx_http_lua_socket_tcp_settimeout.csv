@@ -1,0 +1,16 @@
+SOCKET_CONNECT_TIMEOUT_INDEX,VAR_0
+SOCKET_CTX_INDEX,VAR_1
+SOCKET_READ_TIMEOUT_INDEX,VAR_2
+SOCKET_SEND_TIMEOUT_INDEX,VAR_3
+luaL_error,FUNC_0
+lua_gettop,FUNC_1
+lua_pushinteger,FUNC_2
+lua_rawgeti,FUNC_3
+lua_rawseti,FUNC_4
+lua_tonumber,FUNC_5
+lua_touserdata,FUNC_6
+ngx_http_lua_socket_tcp_settimeout,FUNC_7
+L,VAR_4
+n,VAR_5
+timeout,VAR_6
+u,VAR_7

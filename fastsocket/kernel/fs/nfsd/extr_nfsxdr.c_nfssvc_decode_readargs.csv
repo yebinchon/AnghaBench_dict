@@ -1,0 +1,13 @@
+NFSSVC_MAXBLKSIZE_V2,VAR_0
+PAGE_SIZE,VAR_1
+decode_fh,FUNC_0
+ntohl,FUNC_1
+page_address,FUNC_2
+xdr_argsize_check,FUNC_3
+nfssvc_decode_readargs,FUNC_4
+rqstp,VAR_2
+p,VAR_3
+args,VAR_4
+len,VAR_5
+v,VAR_6
+pn,VAR_7

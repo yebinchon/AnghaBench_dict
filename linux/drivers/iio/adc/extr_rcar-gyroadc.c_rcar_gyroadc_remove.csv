@@ -1,0 +1,15 @@
+clk_disable_unprepare,FUNC_0
+iio_device_unregister,FUNC_1
+iio_priv,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_sync,FUNC_6
+pm_runtime_set_suspended,FUNC_7
+rcar_gyroadc_deinit_supplies,FUNC_8
+rcar_gyroadc_hw_stop,FUNC_9
+rcar_gyroadc_remove,FUNC_10
+pdev,VAR_0
+indio_dev,VAR_1
+priv,VAR_2
+dev,VAR_3

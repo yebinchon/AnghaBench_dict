@@ -1,0 +1,13 @@
+TSDB_MSG_TYPE_METER_CFG,VAR_0
+htonl,FUNC_0
+mgmtObj,VAR_1
+taosBuildReqMsgToMnode,FUNC_1
+taosSendMsgToMnode,FUNC_2
+vnodeSendMeterCfgMsg,FUNC_3
+vnode,VAR_2
+sid,VAR_3
+pMsg,VAR_4
+pStart,VAR_5
+msgLen,VAR_6
+pCfg,VAR_7
+pObj,VAR_8

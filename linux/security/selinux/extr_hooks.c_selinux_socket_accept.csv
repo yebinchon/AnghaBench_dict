@@ -1,0 +1,15 @@
+LABEL_INITIALIZED,VAR_0
+SOCKET__ACCEPT,VAR_1
+SOCK_INODE,FUNC_0
+inode_security_novalidate,FUNC_1
+sock_has_perm,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+selinux_socket_accept,FUNC_5
+sock,VAR_2
+newsock,VAR_3
+err,VAR_4
+isec,VAR_5
+newisec,VAR_6
+sclass,VAR_7
+sid,VAR_8

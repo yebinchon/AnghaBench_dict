@@ -1,0 +1,15 @@
+AG71XX_REG_MII_CFG,VAR_0
+MII_CFG_CLK_DIV_10,VAR_1
+MII_CFG_CLK_DIV_28,VAR_2
+MII_CFG_CLK_DIV_58,VAR_3
+MII_CFG_CLK_DIV_6,VAR_4
+MII_CFG_RESET,VAR_5
+ag71xx_mdio_get_divider,FUNC_0
+ag71xx_mdio_wr,FUNC_1
+stub1,FUNC_2
+udelay,FUNC_3
+ag71xx_mdio_reset,FUNC_4
+bus,VAR_6
+am,VAR_7
+t,VAR_8
+err,VAR_9

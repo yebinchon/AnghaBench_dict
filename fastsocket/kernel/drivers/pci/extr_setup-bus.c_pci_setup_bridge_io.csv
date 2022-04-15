@@ -1,0 +1,15 @@
+IORESOURCE_IO,VAR_0
+PCI_IO_BASE,VAR_1
+PCI_IO_BASE_UPPER16,VAR_2
+dev_info,FUNC_0
+pci_is_enabled,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_dword,FUNC_3
+pcibios_resource_to_bus,FUNC_4
+pci_setup_bridge_io,FUNC_5
+bus,VAR_3
+bridge,VAR_4
+res,VAR_5
+region,VAR_6
+l,VAR_7
+io_upper16,VAR_8

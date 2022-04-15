@@ -1,0 +1,12 @@
+GB_POWER_SUPPLY_STATUS_CHARGING,VAR_0
+dev_err,FUNC_0
+gb_pm_runtime_get_sync,FUNC_1
+gb_pm_runtime_put_autosuspend,FUNC_2
+get_conn_from_psy,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+gb_power_supply_state_change,FUNC_6
+gbpsy,VAR_1
+prop,VAR_2
+connection,VAR_3
+ret,VAR_4

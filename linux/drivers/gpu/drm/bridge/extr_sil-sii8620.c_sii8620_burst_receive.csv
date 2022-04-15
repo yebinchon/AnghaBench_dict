@@ -1,0 +1,12 @@
+REG_EMSCRFIFOBCNTL,VAR_0
+REG_EMSC_RCV_READ_PORT,VAR_1
+get_unaligned_le16,FUNC_0
+min,FUNC_1
+sii8620_burst_get_rx_buf,FUNC_2
+sii8620_read_buf,FUNC_3
+sii8620_burst_receive,FUNC_4
+ctx,VAR_2
+buf,VAR_3
+d,VAR_4
+count,VAR_5
+len,VAR_6

@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+VPDMA_LIST_ADDR,VAR_1
+VPDMA_LIST_ATTR,VAR_2
+VPDMA_LIST_NUM_SHFT,VAR_3
+VPDMA_LIST_TYPE_SHFT,VAR_4
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+vpdma_list_busy,FUNC_2
+write_reg,FUNC_3
+vpdma_submit_descs,FUNC_4
+vpdma,VAR_5
+list,VAR_6
+list_num,VAR_7
+list_size,VAR_8
+flags,VAR_9

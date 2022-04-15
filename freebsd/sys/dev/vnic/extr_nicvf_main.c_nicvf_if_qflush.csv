@@ -1,0 +1,13 @@
+NICVF_TX_LOCK,FUNC_0
+NICVF_TX_UNLOCK,FUNC_1
+buf_ring_dequeue_sc,FUNC_2
+if_getsoftc,FUNC_3
+if_qflush,FUNC_4
+m_freem,FUNC_5
+nicvf_if_qflush,FUNC_6
+ifp,VAR_0
+nic,VAR_1
+qs,VAR_2
+sq,VAR_3
+mbuf,VAR_4
+idx,VAR_5

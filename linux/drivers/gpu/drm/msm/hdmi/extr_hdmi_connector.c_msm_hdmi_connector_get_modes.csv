@@ -1,0 +1,17 @@
+HDMI_CTRL_ENABLE,VAR_0
+REG_HDMI_CTRL,VAR_1
+drm_add_edid_modes,FUNC_0
+drm_connector_update_edid_property,FUNC_1
+drm_detect_hdmi_monitor,FUNC_2
+drm_get_edid,FUNC_3
+hdmi_read,FUNC_4
+hdmi_write,FUNC_5
+kfree,FUNC_6
+to_hdmi_connector,FUNC_7
+msm_hdmi_connector_get_modes,FUNC_8
+connector,VAR_2
+hdmi_connector,VAR_3
+hdmi,VAR_4
+edid,VAR_5
+hdmi_ctrl,VAR_6
+ret,VAR_7

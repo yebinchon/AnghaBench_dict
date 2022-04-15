@@ -1,0 +1,13 @@
+UNIT_IS_INACTIVE_OR_FAILED,FUNC_0
+assert,FUNC_1
+log_warning_errno,FUNC_2
+manager_state,FUNC_3
+unit_active_state,FUNC_4
+unit_realize_cgroup_now,FUNC_5
+unit_remove_from_cgroup_realize_queue,FUNC_6
+manager_dispatch_cgroup_realize_queue,FUNC_7
+m,VAR_0
+state,VAR_1
+n,VAR_2
+i,VAR_3
+r,VAR_4

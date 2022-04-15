@@ -1,0 +1,17 @@
+BAM_DESC_FIFO_SIZE,VAR_0
+BAM_IRQ_SRCS_MSK_EE,VAR_1
+bam_addr,FUNC_0
+bam_dma_terminate_all,FUNC_1
+clk_disable_unprepare,FUNC_2
+devm_free_irq,FUNC_3
+dma_async_device_unregister,FUNC_4
+dma_free_wc,FUNC_5
+of_dma_controller_free,FUNC_6
+platform_get_drvdata,FUNC_7
+pm_runtime_force_suspend,FUNC_8
+tasklet_kill,FUNC_9
+writel_relaxed,FUNC_10
+bam_dma_remove,FUNC_11
+pdev,VAR_2
+bdev,VAR_3
+i,VAR_4

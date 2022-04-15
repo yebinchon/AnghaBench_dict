@@ -1,0 +1,16 @@
+DESC_SIZE,VAR_0
+NR_RX_DESC,VAR_1
+NR_TX_DESC,VAR_2
+PRIV,FUNC_0
+free_irq,FUNC_1
+free_netdev,FUNC_2
+iounmap,FUNC_3
+ns83820_disable_interrupts,FUNC_4
+pci_disable_device,FUNC_5
+pci_free_consistent,FUNC_6
+pci_get_drvdata,FUNC_7
+unregister_netdev,FUNC_8
+ns83820_remove_one,FUNC_9
+pci_dev,VAR_3
+ndev,VAR_4
+dev,VAR_5

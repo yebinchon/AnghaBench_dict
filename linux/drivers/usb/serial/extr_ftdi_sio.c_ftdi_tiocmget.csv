@@ -1,0 +1,16 @@
+FTDI_SIO_CTS_MASK,VAR_0
+FTDI_SIO_DSR_MASK,VAR_1
+FTDI_SIO_RI_MASK,VAR_2
+FTDI_SIO_RLSD_MASK,VAR_3
+TIOCM_CD,VAR_4
+TIOCM_CTS,VAR_5
+TIOCM_DSR,VAR_6
+TIOCM_RI,VAR_7
+ftdi_get_modem_status,FUNC_0
+usb_get_serial_port_data,FUNC_1
+ftdi_tiocmget,FUNC_2
+tty,VAR_8
+port,VAR_9
+priv,VAR_10
+buf,VAR_11
+ret,VAR_12

@@ -1,0 +1,11 @@
+DEFAULT_COLLATION_OID,VAR_0
+DatumGetInt32,FUNC_0
+DirectFunctionCall2,FUNC_1
+ERROR,VAR_1
+PointerGetDatum,FUNC_2
+elog,FUNC_3
+numeric_cmp,VAR_2
+varstr_cmp,FUNC_4
+compareJsonbScalarValue,FUNC_5
+aScalar,VAR_3
+bScalar,VAR_4

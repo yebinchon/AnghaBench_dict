@@ -1,0 +1,10 @@
+OSSL_CIPHER_PARAM_NUM,VAR_0
+OSSL_PARAM_END,VAR_1
+OSSL_PARAM_construct_uint,FUNC_0
+evp_do_ciph_ctx_setparams,FUNC_1
+EVP_CIPHER_CTX_set_num,FUNC_2
+ctx,VAR_2
+num,VAR_3
+ok,VAR_4
+n,VAR_5
+params,VAR_6

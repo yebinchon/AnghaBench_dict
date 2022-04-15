@@ -1,0 +1,9 @@
+inbound_single_queue_port,VAR_0
+mrsas_reg_set,VAR_1
+mrsas_write_64bit_req_desc,FUNC_0
+mrsas_write_reg,FUNC_1
+offsetof,FUNC_2
+mrsas_fire_cmd,FUNC_3
+sc,VAR_2
+req_desc_lo,VAR_3
+req_desc_hi,VAR_4

@@ -1,0 +1,10 @@
+ADC_CONV_DISABLE,VAR_0
+REG_ADC_HC0,VAR_1
+REG_TSC_FLOW_CONTROL,VAR_2
+TSC_DISABLE,VAR_3
+readl,FUNC_0
+writel,FUNC_1
+imx6ul_tsc_disable,FUNC_2
+tsc,VAR_4
+tsc_flow,VAR_5
+adc_cfg,VAR_6

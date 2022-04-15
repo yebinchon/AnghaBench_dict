@@ -1,0 +1,15 @@
+RG_TRX_STATE,VAR_0
+RG_TRX_STATUS,VAR_1
+STATE_TRANSITION_IN_PROGRESS,VAR_2
+TRX_STATE_MASK,VAR_3
+at86rf230_async_read_reg,FUNC_0
+at86rf230_async_state_delay,VAR_4
+at86rf230_async_write_reg,FUNC_1
+stub1,FUNC_2
+udelay,FUNC_3
+at86rf230_async_state_change_start,FUNC_4
+context,VAR_5
+ctx,VAR_6
+lp,VAR_7
+buf,VAR_8
+trx_state,VAR_9

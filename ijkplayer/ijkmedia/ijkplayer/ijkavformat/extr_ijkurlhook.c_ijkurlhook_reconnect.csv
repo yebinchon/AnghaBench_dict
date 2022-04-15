@@ -1,0 +1,15 @@
+AVSEEK_SIZE,VAR_0
+SEEK_CUR,VAR_1
+assert,FUNC_0
+av_dict_copy,FUNC_1
+av_dict_free,FUNC_2
+ffurl_closep,FUNC_3
+ffurl_open_whitelist,FUNC_4
+ffurl_seek,FUNC_5
+ijkurlhook_reconnect,FUNC_6
+h,VAR_2
+extra,VAR_3
+c,VAR_4
+ret,VAR_5
+new_url,VAR_6
+inner_options,VAR_7

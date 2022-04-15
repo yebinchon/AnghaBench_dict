@@ -1,0 +1,16 @@
+H2O_MEMCACHED_ENCODE_KEY,VAR_0
+H2O_MEMCACHED_ENCODE_VALUE,VAR_1
+REQ_TYPE_SET,VAR_2
+create_req,FUNC_0
+dispatch,FUNC_1
+h2o_base64_encode,FUNC_2
+h2o_iovec_init,FUNC_3
+h2o_mem_alloc,FUNC_4
+memcpy,FUNC_5
+h2o_memcached_set,FUNC_6
+ctx,VAR_3
+key,VAR_4
+value,VAR_5
+expiration,VAR_6
+flags,VAR_7
+req,VAR_8

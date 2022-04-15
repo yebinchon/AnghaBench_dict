@@ -1,0 +1,17 @@
+CVMX_BOARD_TYPE_EBH3000,VAR_0
+CVMX_BOARD_TYPE_EBH3100,VAR_1
+CVMX_BOARD_TYPE_EBT3000,VAR_2
+CVMX_BOARD_TYPE_EBT5800,VAR_3
+CVMX_BOARD_TYPE_KBP,VAR_4
+CVMX_BOARD_TYPE_NICPRO2,VAR_5
+CVMX_BOARD_TYPE_THUNDER,VAR_6
+CVMX_CLOCK_CORE,VAR_7
+cvmx_board_type_to_string,FUNC_0
+cvmx_clock_get_rate,FUNC_1
+cvmx_dprintf,FUNC_2
+cvmx_sysinfo_get,FUNC_3
+memset,FUNC_4
+strcpy,FUNC_5
+cvmx_llm_get_default_descriptor,FUNC_6
+llm_desc_ptr,VAR_8
+sys_ptr,VAR_9

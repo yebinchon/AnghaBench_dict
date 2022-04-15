@@ -1,0 +1,14 @@
+CG_DCLK_CNTL,VAR_0
+CG_DCLK_STATUS,VAR_1
+CG_SCRATCH1,VAR_2
+CG_VCLK_CNTL,VAR_3
+CG_VCLK_STATUS,VAR_4
+RREG32,FUNC_0
+WREG32,FUNC_1
+sumo_set_uvd_clock,FUNC_2
+sumo_set_uvd_clocks,FUNC_3
+rdev,VAR_5
+vclk,VAR_6
+dclk,VAR_7
+r,VAR_8
+cg_scratch,VAR_9

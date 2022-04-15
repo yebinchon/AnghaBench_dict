@@ -1,0 +1,14 @@
+NFACCT_F_QUOTA,VAR_0
+NFACCT_F_QUOTA_PKTS,VAR_1
+NFACCT_NO_QUOTA,VAR_2
+NFACCT_OVERQUOTA_BIT,VAR_3
+NFACCT_UNDERQUOTA,VAR_4
+atomic64_read,FUNC_0
+nfnl_overquota_report,FUNC_1
+test_and_set_bit,FUNC_2
+nfnl_acct_overquota,FUNC_3
+net,VAR_5
+nfacct,VAR_6
+now,VAR_7
+quota,VAR_8
+ret,VAR_9

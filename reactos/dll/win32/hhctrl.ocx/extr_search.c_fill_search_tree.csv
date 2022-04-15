@@ -1,0 +1,14 @@
+LVIF_PARAM,VAR_0
+LVIF_TEXT,VAR_1
+LVM_DELETEALLITEMS,VAR_2
+LVM_INSERTITEMW,VAR_3
+SendMessageW,FUNC_0
+TRACE,FUNC_1
+debugstr_w,FUNC_2
+lstrlenW,FUNC_3
+memset,FUNC_4
+fill_search_tree,FUNC_5
+hwndList,VAR_4
+item,VAR_5
+index,VAR_6
+lvi,VAR_7

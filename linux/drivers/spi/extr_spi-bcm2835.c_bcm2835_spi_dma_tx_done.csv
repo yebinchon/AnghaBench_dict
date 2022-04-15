@@ -1,0 +1,15 @@
+BCM2835_SPI_CS,VAR_0
+BCM2835_SPI_CS_DONE,VAR_1
+bcm2835_rd,FUNC_0
+bcm2835_spi_reset_hw,FUNC_1
+bcm2835_spi_undo_prologue,FUNC_2
+bcm2835_wr,FUNC_3
+cmpxchg,FUNC_4
+complete,FUNC_5
+dmaengine_terminate_async,FUNC_6
+smp_wmb,FUNC_7
+spi_controller_get_devdata,FUNC_8
+bcm2835_spi_dma_tx_done,FUNC_9
+data,VAR_2
+ctlr,VAR_3
+bs,VAR_4

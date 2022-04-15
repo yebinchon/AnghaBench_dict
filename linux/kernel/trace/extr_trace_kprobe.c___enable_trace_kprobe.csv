@@ -1,0 +1,8 @@
+enable_kprobe,FUNC_0
+enable_kretprobe,FUNC_1
+trace_kprobe_has_gone,FUNC_2
+trace_kprobe_is_registered,FUNC_3
+trace_kprobe_is_return,FUNC_4
+__enable_trace_kprobe,FUNC_5
+tk,VAR_0
+ret,VAR_1

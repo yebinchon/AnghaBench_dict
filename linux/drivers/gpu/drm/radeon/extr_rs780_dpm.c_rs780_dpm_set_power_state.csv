@@ -1,0 +1,16 @@
+mdelay,FUNC_0
+rs780_activate_engine_clk_scaling,FUNC_1
+rs780_enable_voltage_scaling,FUNC_2
+rs780_force_voltage,FUNC_3
+rs780_get_pi,FUNC_4
+rs780_get_pm_mode_parameters,FUNC_5
+rs780_set_engine_clock_scaling,FUNC_6
+rs780_set_engine_clock_spc,FUNC_7
+rs780_set_uvd_clock_after_set_eng_clock,FUNC_8
+rs780_set_uvd_clock_before_set_eng_clock,FUNC_9
+rs780_dpm_set_power_state,FUNC_10
+rdev,VAR_0
+pi,VAR_1
+new_ps,VAR_2
+old_ps,VAR_3
+ret,VAR_4

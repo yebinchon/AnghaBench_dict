@@ -1,0 +1,10 @@
+SI4713_TX_LINE_INPUT_MUTE,VAR_0
+get_mute,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+set_mute,FUNC_3
+si4713_write_property,FUNC_4
+si4713_set_mute,FUNC_5
+sdev,VAR_1
+mute,VAR_2
+rval,VAR_3

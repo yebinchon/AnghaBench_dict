@@ -1,0 +1,17 @@
+PUNIT_PWRGT_MASK,FUNC_0
+PUNIT_PWRGT_PWR_GATE,FUNC_1
+PUNIT_PWRGT_PWR_ON,FUNC_2
+PUNIT_REG_PWRGT_CTRL,VAR_0
+PUNIT_REG_PWRGT_STATUS,VAR_1
+WARN_ON,FUNC_3
+vlv_punit_get,FUNC_4
+vlv_punit_put,FUNC_5
+vlv_punit_read,FUNC_6
+vlv_power_well_enabled,FUNC_7
+dev_priv,VAR_2
+power_well,VAR_3
+pw_idx,VAR_4
+enabled,VAR_5
+mask,VAR_6
+state,VAR_7
+ctrl,VAR_8

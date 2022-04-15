@@ -1,0 +1,14 @@
+FAULT_FLAG_MKWRITE,VAR_0
+FAULT_FLAG_WRITE,VAR_1
+PAGE_SHIFT,VAR_2
+PAGE_SIZE,VAR_3
+VM_FAULT_SIGBUS,VAR_4
+get_page,FUNC_0
+roundup,FUNC_1
+vmalloc_to_page,FUNC_2
+sel_mmap_policy_fault,FUNC_3
+vma,VAR_5
+vmf,VAR_6
+plm,VAR_7
+offset,VAR_8
+page,VAR_9

@@ -1,0 +1,10 @@
+QLCNIC_FW_SIZE_OFFSET,VAR_0
+QLCNIC_UNIFIED_ROMIMAGE,VAR_1
+QLCNIC_UNI_DIR_SECT_FW,VAR_2
+QLCNIC_UNI_FIRMWARE_IDX_OFF,VAR_3
+le32_to_cpu,FUNC_0
+qlcnic_get_data_desc,FUNC_1
+qlcnic_get_fw_size,FUNC_2
+adapter,VAR_4
+data_desc,VAR_5
+unirom,VAR_6

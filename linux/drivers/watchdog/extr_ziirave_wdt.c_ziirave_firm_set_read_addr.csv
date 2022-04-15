@@ -1,0 +1,10 @@
+ZIIRAVE_CMD_DOWNLOAD_SET_READ_ADDR,VAR_0
+i2c_smbus_write_block_data,FUNC_0
+put_unaligned_le16,FUNC_1
+to_i2c_client,FUNC_2
+ziirave_firm_set_read_addr,FUNC_3
+wdd,VAR_1
+addr,VAR_2
+client,VAR_3
+addr16,VAR_4
+address,VAR_5

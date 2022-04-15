@@ -1,0 +1,16 @@
+ESP_OK,VAR_0
+FUNC_GPIO,VAR_1
+TEST_ASSERT,FUNC_0
+TEST_SPI_HOST,VAR_2
+printf,FUNC_1
+spi_bus_add_device,FUNC_2
+spi_bus_initialize,FUNC_3
+spi_periph_signal,VAR_3
+spitest_gpio_output_sel,FUNC_4
+setup_spi_bus,FUNC_5
+clkspeed,VAR_4
+dma,VAR_5
+buscfg,VAR_6
+devcfg,VAR_7
+ret,VAR_8
+handle,VAR_9

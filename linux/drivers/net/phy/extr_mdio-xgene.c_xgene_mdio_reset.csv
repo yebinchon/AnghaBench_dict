@@ -1,0 +1,10 @@
+ACPI_HANDLE,FUNC_0
+acpi_evaluate_object,FUNC_1
+clk_disable_unprepare,FUNC_2
+clk_prepare_enable,FUNC_3
+udelay,FUNC_4
+xgene_enet_ecc_init,FUNC_5
+xgene_gmac_reset,FUNC_6
+xgene_mdio_reset,FUNC_7
+pdata,VAR_0
+ret,VAR_1

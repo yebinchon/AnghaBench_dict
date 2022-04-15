@@ -1,0 +1,17 @@
+NETXEN_FW_VERSION_MAJOR,VAR_0
+NETXEN_FW_VERSION_MINOR,VAR_1
+NETXEN_FW_VERSION_SUB,VAR_2
+NETXEN_NIC_LINUX_VERSIONID,VAR_3
+NXRD32,FUNC_0
+netdev_priv,FUNC_1
+netxen_nic_driver_name,VAR_4
+pci_name,FUNC_2
+snprintf,FUNC_3
+strlcpy,FUNC_4
+netxen_nic_get_drvinfo,FUNC_5
+dev,VAR_5
+drvinfo,VAR_6
+adapter,VAR_7
+fw_major,VAR_8
+fw_minor,VAR_9
+fw_build,VAR_10

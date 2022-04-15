@@ -1,0 +1,14 @@
+AR2315_PCI_IER,VAR_0
+AR2315_PCI_IER_ENABLE,VAR_1
+AR2315_PCI_IMR,VAR_2
+AR2315_PCI_INT_ABORT,VAR_3
+AR2315_PCI_INT_EXT,VAR_4
+AR2315_PCI_IRQ_EXT,VAR_5
+AR2315_PCI_ISR,VAR_6
+ar2315_pci_irq_handler,VAR_7
+ar2315_pci_reg_mask,FUNC_0
+ar2315_pci_reg_write,FUNC_1
+irq_create_mapping,FUNC_2
+irq_set_chained_handler_and_data,FUNC_3
+ar2315_pci_irq_init,FUNC_4
+apc,VAR_8

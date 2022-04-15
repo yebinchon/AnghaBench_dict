@@ -1,0 +1,13 @@
+GPIOKEYS_LOCK,FUNC_0
+GPIOKEYS_UNLOCK,FUNC_1
+KEY_RELEASE,VAR_0
+SCAN_KEYCODE_MASK,VAR_1
+SCAN_PREFIX_E0,VAR_2
+SCAN_PREFIX_E1,VAR_3
+gpiokeys_event_keyinput,FUNC_2
+gpiokeys_put_key,FUNC_3
+gpiokeys_key_event,FUNC_4
+sc,VAR_4
+keycode,VAR_5
+pressed,VAR_6
+key,VAR_7

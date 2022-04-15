@@ -1,0 +1,11 @@
+BPF_DROP,VAR_0
+BPF_REDIRECT,VAR_1
+SEG6_LOCAL_ACTION_END_T,VAR_2
+bpf_htons,FUNC_0
+bpf_lwt_seg6_action,FUNC_1
+get_srh,FUNC_2
+__inspect_t,FUNC_3
+skb,VAR_3
+srh,VAR_4
+table,VAR_5
+err,VAR_6

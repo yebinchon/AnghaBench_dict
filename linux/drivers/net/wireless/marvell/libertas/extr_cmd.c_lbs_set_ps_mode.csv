@@ -1,0 +1,15 @@
+CMD_802_11_PS_MODE,VAR_0
+EOPNOTSUPP,VAR_1
+PS_MODE_ACTION_ENTER_PS,VAR_2
+PS_MODE_ACTION_EXIT_PS,VAR_3
+cpu_to_le16,FUNC_0
+lbs_cmd_async,FUNC_1
+lbs_cmd_with_response,FUNC_2
+lbs_deb_cmd,FUNC_3
+memset,FUNC_4
+lbs_set_ps_mode,FUNC_5
+priv,VAR_4
+cmd_action,VAR_5
+block,VAR_6
+cmd,VAR_7
+ret,VAR_8

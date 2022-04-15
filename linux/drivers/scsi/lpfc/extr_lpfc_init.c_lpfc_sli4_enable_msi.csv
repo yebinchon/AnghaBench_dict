@@ -1,0 +1,15 @@
+KERN_INFO,VAR_0
+KERN_WARNING,VAR_1
+LOG_INIT,VAR_2
+LPFC_DRIVER_NAME,VAR_3
+PCI_IRQ_AFFINITY,VAR_4
+PCI_IRQ_MSI,VAR_5
+lpfc_printf_log,FUNC_0
+lpfc_sli4_intr_handler,VAR_6
+pci_alloc_irq_vectors,FUNC_1
+pci_free_irq_vectors,FUNC_2
+request_irq,FUNC_3
+lpfc_sli4_enable_msi,FUNC_4
+phba,VAR_7
+rc,VAR_8
+index,VAR_9

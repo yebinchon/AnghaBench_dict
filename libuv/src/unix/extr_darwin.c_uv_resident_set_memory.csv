@@ -1,0 +1,11 @@
+KERN_SUCCESS,VAR_0
+TASK_BASIC_INFO,VAR_1
+TASK_BASIC_INFO_COUNT,VAR_2
+assert,FUNC_0
+mach_task_self,FUNC_1
+task_info,FUNC_2
+uv_resident_set_memory,FUNC_3
+rss,VAR_3
+count,VAR_4
+info,VAR_5
+err,VAR_6

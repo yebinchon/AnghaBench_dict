@@ -1,0 +1,10 @@
+INPUT_CONTROL_SET_TITLE_NEXT,VAR_0
+VLC_SUCCESS,VAR_1
+_,FUNC_0
+input_ControlPush,FUNC_1
+vlc_player_get_input_locked,FUNC_2
+vlc_player_osd_Message,FUNC_3
+vlc_player_SelectNextTitle,FUNC_4
+player,VAR_2
+input,VAR_3
+ret,VAR_4

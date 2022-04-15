@@ -1,0 +1,16 @@
+EAGAIN,VAR_0
+ENOMEM,VAR_1
+TRANSPORT_COMPLETE_QF_ERR,VAR_2
+TRANSPORT_COMPLETE_QF_OK,VAR_3
+TRANSPORT_COMPLETE_QF_WP,VAR_4
+atomic_inc_mb,FUNC_0
+list_add_tail,FUNC_1
+pr_warn_ratelimited,FUNC_2
+schedule_work,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+transport_handle_queue_full,FUNC_6
+cmd,VAR_5
+dev,VAR_6
+err,VAR_7
+write_pending,VAR_8

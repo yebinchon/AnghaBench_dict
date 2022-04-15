@@ -1,0 +1,15 @@
+AMD64_GARTAPERTURECTL,VAR_0
+AMD_NB_GART,VAR_1
+GARTEN,VAR_2
+amd_nb_has_feature,FUNC_0
+amd_nb_num,FUNC_1
+dma_ops,VAR_3
+gart_dma_ops,VAR_4
+no_agp,VAR_5
+node_to_amd_nb,FUNC_2
+pci_read_config_dword,FUNC_3
+pci_write_config_dword,FUNC_4
+gart_iommu_shutdown,FUNC_5
+dev,VAR_6
+i,VAR_7
+ctl,VAR_8

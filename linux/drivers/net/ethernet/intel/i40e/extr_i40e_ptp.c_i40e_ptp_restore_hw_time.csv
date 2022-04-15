@@ -1,0 +1,8 @@
+i40e_ptp_settime,FUNC_0
+ktime_get,FUNC_1
+ktime_sub,FUNC_2
+ktime_to_ns,FUNC_3
+timespec64_add_ns,FUNC_4
+i40e_ptp_restore_hw_time,FUNC_5
+pf,VAR_0
+delta,VAR_1

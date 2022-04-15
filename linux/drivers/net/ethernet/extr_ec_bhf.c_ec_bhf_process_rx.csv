@@ -1,0 +1,16 @@
+PRIV_TO_DEV,FUNC_0
+RXHDR_LEN_MASK,VAR_0
+dev_err_ratelimited,FUNC_1
+ec_bhf_add_rx_desc,FUNC_2
+ec_bhf_pkt_received,FUNC_3
+eth_type_trans,FUNC_4
+le16_to_cpu,FUNC_5
+netdev_alloc_skb_ip_align,FUNC_6
+netif_rx,FUNC_7
+skb_put_data,FUNC_8
+ec_bhf_process_rx,FUNC_9
+priv,VAR_1
+desc,VAR_2
+pkt_size,VAR_3
+data,VAR_4
+skb,VAR_5

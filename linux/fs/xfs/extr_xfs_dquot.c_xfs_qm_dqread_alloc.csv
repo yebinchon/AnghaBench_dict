@@ -1,0 +1,13 @@
+M_RES,FUNC_0
+XFS_QM_DQALLOC_SPACE_RES,FUNC_1
+xfs_buf_relse,FUNC_2
+xfs_dquot_disk_alloc,FUNC_3
+xfs_trans_alloc,FUNC_4
+xfs_trans_cancel,FUNC_5
+xfs_trans_commit,FUNC_6
+xfs_qm_dqread_alloc,FUNC_7
+mp,VAR_0
+dqp,VAR_1
+bpp,VAR_2
+tp,VAR_3
+error,VAR_4

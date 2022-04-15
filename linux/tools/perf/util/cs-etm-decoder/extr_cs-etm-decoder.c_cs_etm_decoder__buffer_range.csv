@@ -1,0 +1,17 @@
+CS_ETM_ISA_A32,VAR_0
+CS_ETM_ISA_A64,VAR_1
+CS_ETM_ISA_T32,VAR_2
+CS_ETM_ISA_UNKNOWN,VAR_3
+CS_ETM_RANGE,VAR_4
+OCSD_RESP_CONT,VAR_5
+OCSD_RESP_WAIT,VAR_6
+cs_etm__etmq_is_timeless,FUNC_0
+cs_etm_decoder__buffer_packet,FUNC_1
+cs_etm_decoder__do_soft_timestamp,FUNC_2
+cs_etm_decoder__buffer_range,FUNC_3
+etmq,VAR_7
+packet_queue,VAR_8
+elem,VAR_9
+trace_chan_id,VAR_10
+ret,VAR_11
+packet,VAR_12

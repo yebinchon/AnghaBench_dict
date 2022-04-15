@@ -1,0 +1,15 @@
+CPU_CLR,FUNC_0
+CPU_EMPTY,FUNC_1
+PCPU_GET,FUNC_2
+all_harts,VAR_0
+fence,FUNC_3
+hart,VAR_1
+sbi_remote_fence_i,FUNC_4
+sched_pin,FUNC_5
+sched_unpin,FUNC_6
+smp_started,VAR_2
+pmap_sync_icache,FUNC_7
+pmap,VAR_3
+va,VAR_4
+sz,VAR_5
+mask,VAR_6

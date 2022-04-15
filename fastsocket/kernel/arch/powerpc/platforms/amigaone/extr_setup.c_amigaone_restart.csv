@@ -1,0 +1,8 @@
+MSR_IP,VAR_0
+SPRN_SRR0,VAR_1
+SPRN_SRR1,VAR_2
+__flush_disable_L1,FUNC_0
+local_irq_disable,FUNC_1
+mtspr,FUNC_2
+amigaone_restart,FUNC_3
+cmd,VAR_3

@@ -1,0 +1,16 @@
+B_FALSE,VAR_0
+B_TRUE,VAR_1
+ZFS_PROP_ENCRYPTION,VAR_2
+ZFS_PROP_KEYFORMAT,VAR_3
+ZFS_PROP_KEYLOCATION,VAR_4
+ZFS_PROP_PBKDF2_ITERS,VAR_5
+ZIO_CRYPT_OFF,VAR_6
+nvlist_lookup_string,FUNC_0
+nvlist_lookup_uint64,FUNC_1
+strcmp,FUNC_2
+zfs_prop_to_name,FUNC_3
+proplist_has_encryption_props,FUNC_4
+props,VAR_7
+ret,VAR_8
+intval,VAR_9
+strval,VAR_10

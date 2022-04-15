@@ -1,0 +1,8 @@
+IPI_CPU_STOP,VAR_0
+cpu_online_mask,VAR_1
+cpumask_clear_cpu,FUNC_0
+cpumask_copy,FUNC_1
+send_ipi_message,FUNC_2
+smp_processor_id,FUNC_3
+smp_send_stop,FUNC_4
+targets,VAR_2

@@ -1,0 +1,17 @@
+AML_PIC_0_FIRQ_SEL,VAR_0
+AML_PIC_0_MASK_REG,VAR_1
+AML_PIC_0_STAT_CLR_REG,VAR_2
+AML_PIC_NCNTRLS,VAR_3
+CSR_WRITE_4,FUNC_0
+ENXIO,VAR_4
+aml8726_pic_eoi,VAR_5
+aml8726_pic_sc,VAR_6
+aml8726_pic_spec,VAR_7
+arm_post_filter,VAR_8
+bus_alloc_resources,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+aml8726_pic_attach,FUNC_4
+dev,VAR_9
+sc,VAR_10
+i,VAR_11

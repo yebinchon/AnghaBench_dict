@@ -1,0 +1,15 @@
+Assert,FUNC_0
+CommitTransactionCommand,FUNC_1
+ERROR,VAR_0
+JOB_STATE_SCHEDULED,VAR_1
+JOB_STATE_STARTED,VAR_2
+StartTransactionCommand,FUNC_2
+WaitForBackgroundWorkerStartup,FUNC_3
+bgw_scheduler_on_postmaster_death,FUNC_4
+elog,FUNC_5
+scheduled_bgw_job_transition_state_to,FUNC_6
+scheduled_ts_bgw_job_start,FUNC_7
+sjob,VAR_3
+bgw_register,VAR_4
+pid,VAR_5
+status,VAR_6

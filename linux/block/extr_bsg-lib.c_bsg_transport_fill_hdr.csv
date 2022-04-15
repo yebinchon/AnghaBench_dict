@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+REQ_OP_SCSI_IN,VAR_1
+blk_get_request,FUNC_2
+blk_mq_rq_to_pdu,FUNC_3
+blk_put_request,FUNC_4
+blk_rq_map_user,FUNC_5
+kfree,FUNC_6
+memdup_user,FUNC_7
+uptr64,FUNC_8
+bsg_transport_fill_hdr,FUNC_9
+rq,VAR_2
+hdr,VAR_3
+mode,VAR_4
+job,VAR_5
+ret,VAR_6

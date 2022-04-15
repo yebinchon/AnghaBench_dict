@@ -1,0 +1,11 @@
+MV88E6352_G2_EEPROM_DATA,VAR_0
+MV88E6XXX_G2_EEPROM_CMD_OP_READ,VAR_1
+mv88e6xxx_g2_eeprom_cmd,FUNC_0
+mv88e6xxx_g2_eeprom_wait,FUNC_1
+mv88e6xxx_g2_read,FUNC_2
+mv88e6xxx_g2_eeprom_read16,FUNC_3
+chip,VAR_2
+addr,VAR_3
+data,VAR_4
+cmd,VAR_5
+err,VAR_6

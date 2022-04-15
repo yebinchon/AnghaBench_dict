@@ -1,0 +1,13 @@
+ENTER,VAR_0
+IPR_SHUTDOWN_NONE,VAR_1
+LEAVE,VAR_2
+_ipr_initiate_ioa_reset,FUNC_0
+dev_dbg,FUNC_1
+ipr_initiate_ioa_reset,FUNC_2
+ipr_reset_enable_ioa,VAR_3
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+ipr_probe_ioa_part2,FUNC_5
+ioa_cfg,VAR_4
+rc,VAR_5
+host_lock_flags,VAR_6

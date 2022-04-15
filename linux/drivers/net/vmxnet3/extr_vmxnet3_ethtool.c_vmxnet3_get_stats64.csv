@@ -1,0 +1,16 @@
+VMXNET3_CMD_GET_STATS,VAR_0
+VMXNET3_REG_CMD,VAR_1
+VMXNET3_WRITE_BAR1_REG,FUNC_0
+netdev_priv,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+vmxnet3_get_stats64,FUNC_4
+netdev,VAR_2
+stats,VAR_3
+adapter,VAR_4
+drvTxStats,VAR_5
+drvRxStats,VAR_6
+devTxStats,VAR_7
+devRxStats,VAR_8
+flags,VAR_9
+i,VAR_10

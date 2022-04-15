@@ -1,0 +1,13 @@
+CPU_HAS_MMU_PAGE_ASSOC,VAR_0
+MMU_NTLB_WAYS,VAR_1
+MMU_PAGE_ASSOC_BIT,VAR_2
+MMU_TLB_ADDRESS_ARRAY,VAR_3
+ctrl_outl,FUNC_0
+current_cpu_data,VAR_4
+local_flush_tlb_one,FUNC_1
+asid,VAR_5
+page,VAR_6
+addr,VAR_7
+data,VAR_8
+i,VAR_9
+ways,VAR_10

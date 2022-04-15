@@ -1,0 +1,17 @@
+BLOCKING_INIT_NOTIFIER_HEAD,FUNC_0
+CAP_SYS_RAWIO,VAR_0
+EBUSY,VAR_1
+ENODEV,VAR_2
+EPERM,VAR_3
+WARN_ON,FUNC_1
+atomic_cmpxchg,FUNC_2
+atomic_dec,FUNC_3
+capable,FUNC_4
+iminor,FUNC_5
+vfio_group_get_from_minor,FUNC_6
+vfio_group_put,FUNC_7
+vfio_group_fops_open,FUNC_8
+inode,VAR_4
+filep,VAR_5
+group,VAR_6
+opened,VAR_7

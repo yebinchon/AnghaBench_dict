@@ -1,0 +1,17 @@
+CHECK_OUTPUT,FUNC_0
+CreateXmlWriter,FUNC_1
+IID_IXmlWriter,VAR_0
+IStream_Release,FUNC_2
+IXmlWriter_Flush,FUNC_3
+IXmlWriter_Release,FUNC_4
+IXmlWriter_WriteEndElement,FUNC_5
+IXmlWriter_WriteStartElement,FUNC_6
+S_OK,VAR_1
+ok,FUNC_7
+writer_set_output,FUNC_8
+test_writeendelement,FUNC_9
+aW,VAR_2
+bW,VAR_3
+writer,VAR_4
+stream,VAR_5
+hr,VAR_6

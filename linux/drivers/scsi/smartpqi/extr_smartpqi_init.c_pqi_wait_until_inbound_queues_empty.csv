@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+pqi_check_ctrl_health,FUNC_0
+pqi_ctrl_offline,FUNC_1
+pqi_wait_until_queued_io_drained,FUNC_2
+readl,FUNC_3
+usleep_range,FUNC_4
+pqi_wait_until_inbound_queues_empty,FUNC_5
+ctrl_info,VAR_1
+rc,VAR_2
+i,VAR_3
+path,VAR_4
+queue_group,VAR_5
+iq_pi,VAR_6
+iq_ci,VAR_7

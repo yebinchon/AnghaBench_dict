@@ -1,0 +1,17 @@
+AVC_LPF_H_2BYTE_CHROMA_422,FUNC_0
+SH,FUNC_1
+__msa_copy_s_h,FUNC_2
+__msa_fill_b,FUNC_3
+avc_h_loop_filter_chroma422_mbaff_msa,FUNC_4
+src,VAR_0
+stride,VAR_1
+alpha_in,VAR_2
+beta_in,VAR_3
+tc0,VAR_4
+col,VAR_5
+tc_val,VAR_6
+out0,VAR_7
+out1,VAR_8
+alpha,VAR_9
+beta,VAR_10
+res,VAR_11

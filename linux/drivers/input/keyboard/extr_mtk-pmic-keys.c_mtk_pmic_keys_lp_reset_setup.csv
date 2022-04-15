@@ -1,0 +1,12 @@
+MTK_PMIC_HOMEKEY_RST,VAR_0
+MTK_PMIC_PWRKEY_RST,VAR_1
+MTK_PMIC_RST_DU_MASK,VAR_2
+MTK_PMIC_RST_DU_SHIFT,VAR_3
+of_property_read_u32,FUNC_0
+regmap_update_bits,FUNC_1
+mtk_pmic_keys_lp_reset_setup,FUNC_2
+keys,VAR_4
+pmic_rst_reg,VAR_5
+ret,VAR_6
+long_press_mode,VAR_7
+long_press_debounce,VAR_8

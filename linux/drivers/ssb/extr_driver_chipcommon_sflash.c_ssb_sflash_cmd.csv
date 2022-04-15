@@ -1,0 +1,11 @@
+SSB_CHIPCO_FLASHCTL,VAR_0
+SSB_CHIPCO_FLASHCTL_BUSY,VAR_1
+SSB_CHIPCO_FLASHCTL_START,VAR_2
+chipco_read32,FUNC_0
+chipco_write32,FUNC_1
+cpu_relax,FUNC_2
+dev_err,FUNC_3
+ssb_sflash_cmd,FUNC_4
+cc,VAR_3
+opcode,VAR_4
+i,VAR_5

@@ -1,0 +1,11 @@
+NAND_CMD_STATUS,VAR_0
+NAND_STATUS_READY,VAR_1
+NAND_STATUS_WP,VAR_2
+get_qcom_nand_controller,FUNC_0
+to_qcom_nand_host,FUNC_1
+qcom_nandc_read_byte,FUNC_2
+chip,VAR_3
+host,VAR_4
+nandc,VAR_5
+buf,VAR_6
+ret,VAR_7

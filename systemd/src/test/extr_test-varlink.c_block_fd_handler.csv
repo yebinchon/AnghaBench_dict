@@ -1,0 +1,11 @@
+SD_EVENT_OFF,VAR_0
+assert_se,FUNC_0
+fd_nonblock,FUNC_1
+read,FUNC_2
+sd_event_source_set_enabled,FUNC_3
+block_fd_handler,FUNC_4
+s,VAR_1
+fd,VAR_2
+revents,VAR_3
+userdata,VAR_4
+c,VAR_5

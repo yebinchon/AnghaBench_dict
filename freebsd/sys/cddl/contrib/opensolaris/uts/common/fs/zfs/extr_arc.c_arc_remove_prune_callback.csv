@@ -1,0 +1,17 @@
+ASSERT0,FUNC_0
+B_FALSE,VAR_0
+B_TRUE,VAR_1
+arc_prune_list,VAR_2
+arc_prune_mtx,VAR_3
+arc_prune_taskq,VAR_4
+kmem_free,FUNC_1
+list_remove,FUNC_2
+mutex_enter,FUNC_3
+mutex_exit,FUNC_4
+taskq_wait,FUNC_5
+zfs_refcount_count,FUNC_6
+zfs_refcount_destroy,FUNC_7
+zfs_refcount_remove,FUNC_8
+arc_remove_prune_callback,FUNC_9
+p,VAR_5
+wait,VAR_6

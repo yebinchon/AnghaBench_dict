@@ -1,0 +1,9 @@
+WB_SYNC_ALL,VAR_0
+clear_page_dirty_for_io,FUNC_0
+end_page_writeback,FUNC_1
+orangefs_writepage_locked,FUNC_2
+wait_on_page_writeback,FUNC_3
+orangefs_launder_page,FUNC_4
+page,VAR_1
+r,VAR_2
+wbc,VAR_3

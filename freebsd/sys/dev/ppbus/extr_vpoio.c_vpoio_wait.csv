@@ -1,0 +1,17 @@
+DECLARE_WAIT_MICROSEQUENCE,VAR_0
+PPB_INTR,VAR_1
+WAIT_RET,VAR_2
+WAIT_TMO,VAR_3
+device_get_parent,FUNC_0
+nBUSY,VAR_4
+ppb_MS_init_msq,FUNC_1
+ppb_MS_microseq,FUNC_2
+ppb_poll_device,FUNC_3
+ppb_rstr,FUNC_4
+wait_microseq,VAR_5
+vpoio_wait,FUNC_5
+vpo,VAR_6
+tmo,VAR_7
+ppbus,VAR_8
+ret,VAR_9
+err,VAR_10

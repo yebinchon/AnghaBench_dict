@@ -1,0 +1,13 @@
+CMD_IAAD,VAR_0
+CMD_RUN,VAR_1
+STS_HALT,VAR_2
+fotg210_readl,FUNC_0
+fotg210_to_hcd,FUNC_1
+fotg210_writel,FUNC_2
+handshake,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+synchronize_irq,FUNC_6
+fotg210_halt,FUNC_7
+fotg210,VAR_3
+temp,VAR_4

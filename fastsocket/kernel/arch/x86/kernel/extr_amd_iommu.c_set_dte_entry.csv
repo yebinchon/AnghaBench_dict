@@ -1,0 +1,15 @@
+DEV_ENTRY_MODE_MASK,VAR_0
+DEV_ENTRY_MODE_SHIFT,VAR_1
+IOMMU_PTE_IR,VAR_2
+IOMMU_PTE_IW,VAR_3
+IOMMU_PTE_P,VAR_4
+IOMMU_PTE_TV,VAR_5
+amd_iommu_dev_table,VAR_6
+amd_iommu_pd_table,VAR_7
+lower_32_bits,FUNC_0
+upper_32_bits,FUNC_1
+virt_to_phys,FUNC_2
+set_dte_entry,FUNC_3
+devid,VAR_8
+domain,VAR_9
+pte_root,VAR_10

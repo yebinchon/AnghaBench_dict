@@ -1,0 +1,17 @@
+EIO,VAR_0
+G_RAID_BIO_FLAG_SPECIAL,VAR_1
+G_RAID_VOLUME_S_DEGRADED,VAR_2
+G_RAID_VOLUME_S_OPTIMAL,VAR_3
+G_RAID_VOLUME_S_SUBOPTIMAL,VAR_4
+KASSERT,FUNC_0
+g_raid1e_rebuild_fair_io,VAR_5
+g_raid_iodone,FUNC_1
+g_raid_tr_flush_common,FUNC_2
+g_raid_tr_iostart_raid1e_read,FUNC_3
+g_raid_tr_iostart_raid1e_write,FUNC_4
+g_raid_tr_raid1e_rebuild_some,FUNC_5
+g_raid_tr_iostart_raid1e,FUNC_6
+tr,VAR_6
+bp,VAR_7
+vol,VAR_8
+trs,VAR_9

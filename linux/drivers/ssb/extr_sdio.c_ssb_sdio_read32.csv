@@ -1,0 +1,15 @@
+SBSDIO_SB_ACCESS_2_4B_FLAG,VAR_0
+SBSDIO_SB_OFT_ADDR_MASK,VAR_1
+dev_dbg,FUNC_0
+sdio_claim_host,FUNC_1
+sdio_readl,FUNC_2
+sdio_release_host,FUNC_3
+ssb_sdio_dev,FUNC_4
+ssb_sdio_switch_core,FUNC_5
+unlikely,FUNC_6
+ssb_sdio_read32,FUNC_7
+dev,VAR_2
+offset,VAR_3
+bus,VAR_4
+val,VAR_5
+error,VAR_6

@@ -1,0 +1,14 @@
+REDISMODULE_NOT_USED,FUNC_0
+REDISMODULE_SUBEVENT_FLUSHDB_START,VAR_0
+RedisModule_Call,FUNC_1
+RedisModule_CallReplyInteger,FUNC_2
+RedisModule_FreeCallReply,FUNC_3
+printf,FUNC_4
+flushdbCallback,FUNC_5
+ctx,VAR_1
+e,VAR_2
+sub,VAR_3
+data,VAR_4
+fi,VAR_5
+reply,VAR_6
+numkeys,VAR_7

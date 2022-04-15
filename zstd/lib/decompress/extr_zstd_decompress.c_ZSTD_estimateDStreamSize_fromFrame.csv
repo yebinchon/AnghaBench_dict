@@ -1,0 +1,13 @@
+RETURN_ERROR_IF,FUNC_0
+ZSTD_WINDOWLOG_MAX,VAR_0
+ZSTD_estimateDStreamSize,FUNC_1
+ZSTD_getFrameHeader,FUNC_2
+ZSTD_isError,FUNC_3
+frameParameter_windowTooLarge,VAR_1
+srcSize_wrong,VAR_2
+ZSTD_estimateDStreamSize_fromFrame,FUNC_4
+src,VAR_3
+srcSize,VAR_4
+windowSizeMax,VAR_5
+zfh,VAR_6
+err,VAR_7

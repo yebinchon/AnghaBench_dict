@@ -1,0 +1,14 @@
+__is_eff,FUNC_0
+__is_real,FUNC_1
+__is_suid,FUNC_2
+cap_combine,FUNC_3
+current_cred,FUNC_4
+root_privileged,FUNC_5
+warn_setuid_and_fcaps_mixed,FUNC_6
+handle_privileged_root,FUNC_7
+bprm,VAR_0
+has_fcap,VAR_1
+effective,VAR_2
+root_uid,VAR_3
+old,VAR_4
+new,VAR_5

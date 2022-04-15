@@ -1,0 +1,17 @@
+KOBJ_CHANGE,VAR_0
+NBD_FLAG_SEND_TRIM,VAR_1
+UINT_MAX,VAR_2
+bd_set_size,FUNC_0
+bdget_disk,FUNC_1
+bdput,FUNC_2
+blk_queue_logical_block_size,FUNC_3
+blk_queue_max_discard_sectors,FUNC_4
+blk_queue_physical_block_size,FUNC_5
+kobject_uevent,FUNC_6
+nbd_to_dev,FUNC_7
+set_blocksize,FUNC_8
+set_capacity,FUNC_9
+nbd_size_update,FUNC_10
+nbd,VAR_3
+config,VAR_4
+bdev,VAR_5

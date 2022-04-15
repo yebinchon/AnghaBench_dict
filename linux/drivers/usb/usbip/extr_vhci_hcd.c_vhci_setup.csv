@@ -1,0 +1,10 @@
+HCD_USB2,VAR_0
+HCD_USB3,VAR_1
+USB_SPEED_HIGH,VAR_2
+USB_SPEED_SUPER,VAR_3
+dev_get_platdata,FUNC_0
+hcd_to_vhci_hcd,FUNC_1
+usb_hcd_is_primary_hcd,FUNC_2
+vhci_setup,FUNC_3
+hcd,VAR_4
+vhci,VAR_5

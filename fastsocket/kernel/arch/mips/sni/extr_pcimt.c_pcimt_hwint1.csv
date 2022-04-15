@@ -1,0 +1,15 @@
+IT_EISA,VAR_0
+IT_SCSI,VAR_1
+PCIMT_CSITPEND,VAR_2
+PCIMT_IRQ_SCSI,VAR_3
+ST0_IM,VAR_4
+clear_c0_status,FUNC_0
+do_IRQ,FUNC_1
+i8259_irq,FUNC_2
+read_c0_status,FUNC_3
+unlikely,FUNC_4
+write_c0_status,FUNC_5
+pcimt_hwint1,FUNC_6
+pend,VAR_5
+flags,VAR_6
+irq,VAR_7

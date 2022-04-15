@@ -1,0 +1,15 @@
+EIO,VAR_0
+NFS3_wcc_attr_sz,VAR_1
+NFS_ATTR_FATTR_PRECHANGE,VAR_2
+NFS_ATTR_FATTR_PRECTIME,VAR_3
+NFS_ATTR_FATTR_PREMTIME,VAR_4
+NFS_ATTR_FATTR_PRESIZE,VAR_5
+nfs_timespec_to_change_attr,FUNC_0
+unlikely,FUNC_1
+xdr_decode_nfstime3,FUNC_2
+xdr_decode_size3,FUNC_3
+xdr_inline_decode,FUNC_4
+decode_wcc_attr,FUNC_5
+xdr,VAR_6
+fattr,VAR_7
+p,VAR_8

@@ -1,0 +1,16 @@
+MLX5E_RQ_STATE_RECOVERING,VAR_0
+MLX5_RQC_STATE_ERR,VAR_1
+clear_bit,FUNC_0
+mlx5e_activate_rq,FUNC_1
+mlx5e_deactivate_rq,FUNC_2
+mlx5e_free_rx_descs,FUNC_3
+mlx5e_query_rq_state,FUNC_4
+mlx5e_rq_to_ready,FUNC_5
+netdev_err,FUNC_6
+mlx5e_rx_reporter_err_rq_cqe_recover,FUNC_7
+ctx,VAR_2
+mdev,VAR_3
+dev,VAR_4
+rq,VAR_5
+state,VAR_6
+err,VAR_7

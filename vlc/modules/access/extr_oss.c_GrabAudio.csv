@@ -1,0 +1,14 @@
+SNDCTL_DSP_GETISPACE,VAR_0
+block_Alloc,FUNC_0
+ioctl,FUNC_1
+msg_Warn,FUNC_2
+read,FUNC_3
+vlc_tick_from_samples,FUNC_4
+vlc_tick_now,FUNC_5
+GrabAudio,FUNC_6
+p_demux,VAR_1
+p_sys,VAR_2
+buf_info,VAR_3
+i_read,VAR_4
+i_correct,VAR_5
+p_block,VAR_6

@@ -1,0 +1,16 @@
+XFS_BUF_TO_SBP,FUNC_0
+XFS_SB_CRC_OFF,VAR_0
+__this_address,VAR_1
+__xfs_sb_from_disk,FUNC_1
+cpu_to_be64,FUNC_2
+xfs_buf_update_cksum,FUNC_3
+xfs_sb_version_hascrc,FUNC_4
+xfs_validate_sb_common,FUNC_5
+xfs_validate_sb_write,FUNC_6
+xfs_verifier_error,FUNC_7
+xfs_sb_write_verify,FUNC_8
+bp,VAR_2
+sb,VAR_3
+mp,VAR_4
+bip,VAR_5
+error,VAR_6

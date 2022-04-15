@@ -1,0 +1,17 @@
+LCK_RW_INTERLOCK,VAR_0
+LCK_RW_PRIV_EXCL,VAR_1
+LCK_RW_SHARED_READER,VAR_2
+LCK_RW_WANT_EXCL,VAR_3
+LCK_RW_WANT_UPGRADE,VAR_4
+LCK_RW_W_WAITING,VAR_5
+atomic_exchange_abort,FUNC_0
+atomic_exchange_begin32,FUNC_1
+atomic_exchange_complete32,FUNC_2
+cpu_pause,FUNC_3
+lck_rw_interlock_spin,FUNC_4
+lck_rw_lock_exclusive_to_shared_gen,FUNC_5
+memory_order_release_smp,VAR_6
+lck_rw_lock_exclusive_to_shared,FUNC_6
+lock,VAR_7
+data,VAR_8
+prev,VAR_9

@@ -1,0 +1,13 @@
+get_nvram_var,FUNC_0
+kstrtou32,FUNC_1
+pr_warn,FUNC_2
+strim,FUNC_3
+nvram_read_u32_2,FUNC_4
+prefix,VAR_0
+name,VAR_1
+val_lo,VAR_2
+val_hi,VAR_3
+fallback,VAR_4
+buf,VAR_5
+err,VAR_6
+val,VAR_7

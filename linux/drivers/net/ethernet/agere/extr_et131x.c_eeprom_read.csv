@@ -1,0 +1,15 @@
+EIO,VAR_0
+LBCIF_ADDRESS_REGISTER,VAR_1
+LBCIF_CONTROL_LBCIF_ENABLE,VAR_2
+LBCIF_CONTROL_REGISTER,VAR_3
+LBCIF_STATUS_ACK_ERROR,VAR_4
+eeprom_wait_ready,FUNC_0
+pci_write_config_byte,FUNC_1
+pci_write_config_dword,FUNC_2
+eeprom_read,FUNC_3
+adapter,VAR_5
+addr,VAR_6
+pdata,VAR_7
+pdev,VAR_8
+err,VAR_9
+status,VAR_10

@@ -1,0 +1,16 @@
+INCR_LBRT_MSK,VAR_0
+T10_CHK_EN_MSK,VAR_1
+T10_INSRT_EN_MSK,VAR_2
+T10_RMV_EN_MSK,VAR_3
+USR_DATA_BLOCK_SZ_OFF,VAR_4
+WARN,FUNC_0
+get_prot_chk_msk_v3_hw,FUNC_1
+scsi_get_prot_op,FUNC_2
+scsi_prot_interval,FUNC_3
+t10_pi_ref_tag,FUNC_4
+fill_prot_v3_hw,FUNC_5
+scsi_cmnd,VAR_5
+prot,VAR_6
+prot_op,VAR_7
+interval,VAR_8
+lbrt_chk_val,VAR_9

@@ -1,0 +1,17 @@
+AF_UNIX,VAR_0
+SOCK_STREAM,VAR_1
+abort,FUNC_0
+close,FUNC_1
+kqfd,VAR_2
+kqueue,FUNC_2
+socketpair,FUNC_3
+sockfd,VAR_3
+test_kevent_socket_add,FUNC_4
+test_kevent_socket_clear,FUNC_5
+test_kevent_socket_del,FUNC_6
+test_kevent_socket_disable_and_enable,FUNC_7
+test_kevent_socket_dispatch,FUNC_8
+test_kevent_socket_eof,FUNC_9
+test_kevent_socket_get,FUNC_10
+test_kevent_socket_oneshot,FUNC_11
+test_evfilt_read,FUNC_12

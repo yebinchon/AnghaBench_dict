@@ -1,0 +1,13 @@
+ATF_REQUIRE_MSG,FUNC_0
+CIOCGSESSION2,VAR_0
+errno,VAR_1
+ioctl,FUNC_1
+memset,FUNC_2
+strerror,FUNC_3
+create_session,FUNC_4
+fd,VAR_2
+alg,VAR_3
+crid,VAR_4
+key,VAR_5
+klen,VAR_6
+sop,VAR_7

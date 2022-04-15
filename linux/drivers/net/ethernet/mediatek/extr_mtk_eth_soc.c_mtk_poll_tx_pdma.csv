@@ -1,0 +1,17 @@
+MT7628_TX_DTX_IDX0,VAR_0
+MTK_DMA_DUMMY_DESC,VAR_1
+NEXT_DESP_IDX,FUNC_0
+atomic_inc,FUNC_1
+mtk_r32,FUNC_2
+mtk_tx_unmap,FUNC_3
+mtk_poll_tx_pdma,FUNC_4
+eth,VAR_2
+budget,VAR_3
+done,VAR_4
+bytes,VAR_5
+ring,VAR_6
+desc,VAR_7
+skb,VAR_8
+tx_buf,VAR_9
+cpu,VAR_10
+dma,VAR_11

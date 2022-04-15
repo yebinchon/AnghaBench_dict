@@ -1,0 +1,12 @@
+HCCMDSTAT,VAR_0
+HCSWRES,VAR_1
+HCSWRES_MAGIC,VAR_2
+OHCI_HCR,VAR_3
+isp1362_read_reg32,FUNC_0
+isp1362_write_reg16,FUNC_1
+isp1362_write_reg32,FUNC_2
+mdelay,FUNC_3
+pr_err,FUNC_4
+__isp1362_sw_reset,FUNC_5
+isp1362_hcd,VAR_4
+tmp,VAR_5

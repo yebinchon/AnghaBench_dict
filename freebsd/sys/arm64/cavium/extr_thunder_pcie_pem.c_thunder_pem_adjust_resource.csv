@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+PCI_RES_BUS,VAR_1
+bus_generic_adjust_resource,FUNC_0
+device_get_softc,FUNC_1
+pci_domain_adjust_bus,FUNC_2
+rman_adjust_resource,FUNC_3
+rman_is_region_manager,FUNC_4
+thunder_pem_rman,FUNC_5
+thunder_pem_adjust_resource,FUNC_6
+dev,VAR_2
+child,VAR_3
+type,VAR_4
+res,VAR_5
+start,VAR_6
+end,VAR_7
+sc,VAR_8
+rm,VAR_9

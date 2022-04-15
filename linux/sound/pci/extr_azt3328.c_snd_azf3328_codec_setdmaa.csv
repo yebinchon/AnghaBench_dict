@@ -1,0 +1,15 @@
+IDX_IO_CODEC_DMA_START_1,VAR_0
+WARN_ONCE,FUNC_0
+dev_dbg,FUNC_1
+snd_azf3328_codec_outl_multi,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+snd_azf3328_codec_setdmaa,FUNC_5
+chip,VAR_1
+codec,VAR_2
+addr,VAR_3
+period_bytes,VAR_4
+buffer_bytes,VAR_5
+flags,VAR_6
+area_length,VAR_7
+setup_io,VAR_8

@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+PCI_EXP_LNKSTA,VAR_1
+PCI_EXP_LNKSTA_NLW,VAR_2
+PCI_EXP_LNKSTA_NLW_SHIFT,VAR_3
+pcie_capability_read_word,FUNC_0
+sprintf,FUNC_1
+to_pci_dev,FUNC_2
+current_link_width_show,FUNC_3
+dev,VAR_4
+attr,VAR_5
+buf,VAR_6
+pci_dev,VAR_7
+linkstat,VAR_8
+err,VAR_9

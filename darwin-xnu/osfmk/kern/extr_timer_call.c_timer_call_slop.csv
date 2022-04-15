@@ -1,0 +1,16 @@
+MIN,FUNC_0
+TIMER_CALL_SYS_CRITICAL,VAR_0
+TIMER_CALL_URGENCY_MASK,VAR_1
+mach_timer_coalescing_enabled,VAR_2
+timer_compute_leeway,FUNC_1
+timer_user_idle_level,VAR_3
+timer_call_slop,FUNC_2
+deadline,VAR_4
+now,VAR_5
+flags,VAR_6
+cthread,VAR_7
+pratelimited,VAR_8
+tcs_shift,VAR_9
+tcs_max_abstime,VAR_10
+adjval,VAR_11
+urgency,VAR_12

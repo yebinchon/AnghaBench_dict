@@ -1,0 +1,13 @@
+BIO_clear_retry_flags,FUNC_0
+BIO_get_data,FUNC_1
+BIO_set_retry_read,FUNC_2
+EAGAIN,VAR_0
+EINTR,VAR_1
+EWOULDBLOCK,VAR_2
+errno,VAR_3
+secure_raw_read,FUNC_3
+my_sock_read,FUNC_4
+h,VAR_4
+buf,VAR_5
+size,VAR_6
+res,VAR_7

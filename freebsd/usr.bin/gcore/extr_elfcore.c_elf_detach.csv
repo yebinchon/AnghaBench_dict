@@ -1,0 +1,9 @@
+PT_DETACH,VAR_0
+SIGSTOP,VAR_1
+WIFSTOPPED,FUNC_0
+WSTOPSIG,FUNC_1
+g_pid,VAR_2
+g_status,VAR_3
+ptrace,FUNC_2
+elf_detach,FUNC_3
+sig,VAR_4

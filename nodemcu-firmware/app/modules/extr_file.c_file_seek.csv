@@ -1,0 +1,16 @@
+GET_FILE_OBJ,VAR_0
+argpos,VAR_1
+fd,VAR_2
+luaL_checkoption,FUNC_0
+luaL_error,FUNC_1
+luaL_optlong,FUNC_2
+lua_pushinteger,FUNC_3
+lua_pushnil,FUNC_4
+vfs_lseek,FUNC_5
+vfs_tell,FUNC_6
+file_seek,FUNC_7
+L,VAR_3
+mode,VAR_4
+modenames,VAR_5
+op,VAR_6
+offset,VAR_7

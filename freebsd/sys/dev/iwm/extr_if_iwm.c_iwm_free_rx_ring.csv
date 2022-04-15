@@ -1,0 +1,15 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+IWM_RX_LEGACY_RING_COUNT,VAR_1
+IWM_RX_MQ_RING_COUNT,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_sync,FUNC_2
+bus_dmamap_unload,FUNC_3
+iwm_dma_contig_free,FUNC_4
+m_freem,FUNC_5
+iwm_free_rx_ring,FUNC_6
+sc,VAR_3
+ring,VAR_4
+count,VAR_5
+i,VAR_6
+data,VAR_7

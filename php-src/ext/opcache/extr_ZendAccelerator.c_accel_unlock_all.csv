@@ -1,0 +1,12 @@
+ACCEL_LOG_DEBUG,VAR_0
+F_SETLK,VAR_1
+F_UNLCK,VAR_2
+SEEK_SET,VAR_3
+accel_deactivate_sub,FUNC_0
+errno,VAR_4
+fcntl,FUNC_1
+lock_file,VAR_5
+strerror,FUNC_2
+zend_accel_error,FUNC_3
+accel_unlock_all,FUNC_4
+mem_usage_unlock_all,VAR_6

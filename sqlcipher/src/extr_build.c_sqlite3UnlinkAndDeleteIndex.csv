@@ -1,0 +1,13 @@
+ALWAYS,FUNC_0
+DBFLAG_SchemaChange,VAR_0
+assert,FUNC_1
+sqlite3FreeIndex,FUNC_2
+sqlite3HashInsert,FUNC_3
+sqlite3SchemaMutexHeld,FUNC_4
+sqlite3UnlinkAndDeleteIndex,FUNC_5
+db,VAR_1
+iDb,VAR_2
+zIdxName,VAR_3
+pIndex,VAR_4
+pHash,VAR_5
+p,VAR_6

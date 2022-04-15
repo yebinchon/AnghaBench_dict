@@ -1,0 +1,12 @@
+KASSERT,FUNC_0
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_dma_tag_destroy,FUNC_1
+bus_release_resource,FUNC_2
+bus_teardown_intr,FUNC_3
+free,FUNC_4
+csa_releaseres,FUNC_5
+csa,VAR_3
+dev,VAR_4
+resp,VAR_5

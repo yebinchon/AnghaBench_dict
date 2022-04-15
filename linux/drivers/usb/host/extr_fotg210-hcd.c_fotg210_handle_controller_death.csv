@@ -1,0 +1,11 @@
+FOTG210_HRTIMER_POLL_DEAD,VAR_0
+FOTG210_RH_HALTED,VAR_1
+STS_HALT,VAR_2
+end_unlink_async,FUNC_0
+fotg210_enable_event,FUNC_1
+fotg210_readl,FUNC_2
+fotg210_warn,FUNC_3
+fotg210_work,FUNC_4
+fotg210_writel,FUNC_5
+fotg210_handle_controller_death,FUNC_6
+fotg210,VAR_3

@@ -1,0 +1,17 @@
+BNX2X_PRIMARY_CID_INDEX,VAR_0
+ETH_CONNECTION_TYPE,VAR_1
+RAMROD_CMD_ID_ETH_TPA_UPDATE,VAR_2
+SPE_HDR_FUNCTION_ID_SHIFT,VAR_3
+U64_HI,FUNC_0
+U64_LO,FUNC_1
+bnx2x_q_fill_update_tpa_data,FUNC_2
+bnx2x_sp_post,FUNC_3
+memset,FUNC_4
+bnx2x_q_send_update_tpa,FUNC_5
+bp,VAR_4
+params,VAR_5
+o,VAR_6
+rdata,VAR_7
+data_mapping,VAR_8
+update_tpa_params,VAR_9
+type,VAR_10

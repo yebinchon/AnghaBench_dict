@@ -1,0 +1,16 @@
+BOOK3E_PAGESZ_4K,VAR_0
+E500_TLB_TLB0,VAR_1
+get_tlb_tsize,FUNC_0
+kvmppc_e500_shadow_map,FUNC_1
+kvmppc_e500_tlb1_map_tlb1,FUNC_2
+write_stlbe,FUNC_3
+kvmppc_e500_tlb1_map,FUNC_4
+vcpu_e500,VAR_2
+gvaddr,VAR_3
+gfn,VAR_4
+gtlbe,VAR_5
+stlbe,VAR_6
+esel,VAR_7
+ref,VAR_8
+sesel,VAR_9
+r,VAR_10

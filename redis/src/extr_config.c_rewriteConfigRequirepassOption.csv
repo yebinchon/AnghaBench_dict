@@ -1,0 +1,12 @@
+ACLDefaultUserFirstPassword,FUNC_0
+rewriteConfigMarkAsProcessed,FUNC_1
+rewriteConfigRewriteLine,FUNC_2
+sdscatlen,FUNC_3
+sdscatsds,FUNC_4
+sdsnew,FUNC_5
+rewriteConfigRequirepassOption,FUNC_6
+state,VAR_0
+option,VAR_1
+force,VAR_2
+line,VAR_3
+password,VAR_4

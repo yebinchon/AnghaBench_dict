@@ -1,0 +1,16 @@
+CLOCK_EVT_MODE_RESUME,VAR_0
+clockevents_set_mode,FUNC_0
+cpumask_empty,FUNC_1
+cpumask_test_cpu,FUNC_2
+smp_processor_id,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+tick_broadcast_device,VAR_1
+tick_broadcast_lock,VAR_2
+tick_broadcast_start_periodic,FUNC_6
+tick_get_broadcast_mask,FUNC_7
+tick_resume_broadcast_oneshot,FUNC_8
+tick_resume_broadcast,FUNC_9
+bc,VAR_3
+flags,VAR_4
+broadcast,VAR_5

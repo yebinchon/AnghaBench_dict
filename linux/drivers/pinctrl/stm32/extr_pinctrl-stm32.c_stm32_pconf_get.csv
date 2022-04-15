@@ -1,0 +1,14 @@
+BIT,FUNC_0
+STM32_GPIO_IDR,VAR_0
+STM32_GPIO_ODR,VAR_1
+clk_disable,FUNC_1
+clk_enable,FUNC_2
+readl_relaxed,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+stm32_pconf_get,FUNC_6
+bank,VAR_2
+offset,VAR_3
+dir,VAR_4
+flags,VAR_5
+val,VAR_6

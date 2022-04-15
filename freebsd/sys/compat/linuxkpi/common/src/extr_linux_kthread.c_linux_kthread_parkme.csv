@@ -1,0 +1,13 @@
+KTHREAD_IS_PARKED_MASK,VAR_0
+TASK_PARKED,VAR_1
+TASK_RUNNING,VAR_2
+TASK_UNINTERRUPTIBLE,VAR_3
+atomic_andnot,FUNC_0
+atomic_fetch_or,FUNC_1
+complete,FUNC_2
+current,VAR_4
+linux_kthread_should_park,FUNC_3
+schedule,FUNC_4
+set_task_state,FUNC_5
+linux_kthread_parkme,FUNC_6
+task,VAR_5

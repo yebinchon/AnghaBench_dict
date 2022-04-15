@@ -1,0 +1,9 @@
+bpf_tail_call,FUNC_0
+getpid,FUNC_1
+pid_filter__has,FUNC_2
+pids_filtered,VAR_0
+probe_read,FUNC_3
+syscalls_sys_exit,VAR_1
+sys_exit,FUNC_4
+args,VAR_2
+exit_args,VAR_3

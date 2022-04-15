@@ -1,0 +1,16 @@
+CLUSTER_BROADCAST_ALL,VAR_0
+CLUSTER_SLOTS,VAR_1
+clusterAddSlot,FUNC_0
+clusterBroadcastPong,FUNC_1
+clusterDelSlot,FUNC_2
+clusterNodeGetSlotBit,FUNC_3
+clusterSaveConfigOrDie,FUNC_4
+clusterSetNodeAsMaster,FUNC_5
+clusterUpdateState,FUNC_6
+myself,VAR_2
+nodeIsMaster,FUNC_7
+replicationUnsetMaster,FUNC_8
+resetManualFailover,FUNC_9
+clusterFailoverReplaceYourMaster,FUNC_10
+j,VAR_3
+oldmaster,VAR_4

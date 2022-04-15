@@ -1,0 +1,17 @@
+CTL_HA_CHAN_CTL,VAR_0
+CTL_HA_LINK_ONLINE,VAR_1
+CTL_MSG_PORT_SYNC,VAR_2
+M_CTL,VAR_3
+M_WAITOK,VAR_4
+bzero,FUNC_0
+ctl_ha_msg_send,FUNC_1
+free,FUNC_2
+malloc,FUNC_3
+memcpy,FUNC_4
+sprintf,FUNC_5
+strlen,FUNC_6
+ctl_isc_announce_port,FUNC_7
+port,VAR_5
+softc,VAR_6
+msg,VAR_7
+i,VAR_8

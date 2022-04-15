@@ -1,0 +1,13 @@
+AR2315_PCI_IMR,VAR_0
+AR2315_PCI_ISR,VAR_1
+__ffs,FUNC_0
+ar2315_pci_reg_read,FUNC_1
+generic_handle_irq,FUNC_2
+irq_desc_get_handler_data,FUNC_3
+irq_find_mapping,FUNC_4
+spurious_interrupt,FUNC_5
+ar2315_pci_irq_handler,FUNC_6
+desc,VAR_2
+apc,VAR_3
+pending,VAR_4
+pci_irq,VAR_5

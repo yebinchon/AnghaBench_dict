@@ -1,0 +1,13 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+INEXIO_FORMAT_LENGTH,VAR_3
+INEXIO_GET_TOUCHED,FUNC_0
+INEXIO_GET_XC,FUNC_1
+INEXIO_GET_YC,FUNC_2
+input_report_abs,FUNC_3
+input_report_key,FUNC_4
+input_sync,FUNC_5
+inexio_process_data,FUNC_6
+pinexio,VAR_4
+dev,VAR_5

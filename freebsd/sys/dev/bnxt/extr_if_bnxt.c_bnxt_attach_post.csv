@@ -1,0 +1,16 @@
+ETHER_CRC_LEN,VAR_0
+ETHER_HDR_LEN,VAR_1
+IFM_AUTO,VAR_2
+IFM_ETHER,VAR_3
+bnxt_add_media_types,FUNC_0
+bnxt_create_config_sysctls_post,FUNC_1
+bnxt_create_ver_sysctls,FUNC_2
+bnxt_probe_phy,FUNC_3
+iflib_get_ifp,FUNC_4
+iflib_get_softc,FUNC_5
+ifmedia_set,FUNC_6
+bnxt_attach_post,FUNC_7
+ctx,VAR_4
+softc,VAR_5
+ifp,VAR_6
+rc,VAR_7

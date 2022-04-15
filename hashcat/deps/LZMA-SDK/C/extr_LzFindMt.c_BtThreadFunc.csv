@@ -1,0 +1,10 @@
+BtFillBlock,FUNC_0
+Event_Set,FUNC_1
+Event_Wait,FUNC_2
+MtSync_StopWriting,FUNC_3
+Semaphore_Release1,FUNC_4
+Semaphore_Wait,FUNC_5
+BtThreadFunc,FUNC_6
+mt,VAR_0
+p,VAR_1
+blockIndex,VAR_2

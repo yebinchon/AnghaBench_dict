@@ -1,0 +1,13 @@
+DISABLE_W83877F,VAR_0
+ENABLE_W83877F,VAR_1
+ENABLE_W83877F_PORT,VAR_2
+WDT_PING,VAR_3
+WDT_REGISTER,VAR_4
+inb_p,FUNC_0
+outb_p,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wdt_spinlock,VAR_5
+wdt_change,FUNC_4
+writeval,VAR_6
+flags,VAR_7

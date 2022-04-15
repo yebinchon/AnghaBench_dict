@@ -1,0 +1,10 @@
+arch_sync_dma_for_cpu,FUNC_0
+dev_is_dma_coherent,FUNC_1
+iommu_get_dma_domain,FUNC_2
+iommu_iova_to_phys,FUNC_3
+iommu_dma_sync_single_for_cpu,FUNC_4
+dev,VAR_0
+dma_handle,VAR_1
+size,VAR_2
+dir,VAR_3
+phys,VAR_4

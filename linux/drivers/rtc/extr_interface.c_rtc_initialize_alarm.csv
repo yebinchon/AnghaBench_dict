@@ -1,0 +1,12 @@
+mutex_lock_interruptible,FUNC_0
+mutex_unlock,FUNC_1
+rtc_read_time,FUNC_2
+rtc_tm_to_ktime,FUNC_3
+rtc_valid_tm,FUNC_4
+timerqueue_add,FUNC_5
+trace_rtc_timer_enqueue,FUNC_6
+rtc_initialize_alarm,FUNC_7
+rtc,VAR_0
+alarm,VAR_1
+err,VAR_2
+now,VAR_3

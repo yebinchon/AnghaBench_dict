@@ -1,0 +1,12 @@
+F71808FG_FLAG_WD_EN,VAR_0
+F71808FG_REG_WDT_CONF,VAR_1
+SIO_F71808FG_LD_WDT,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+superio_clear_bit,FUNC_2
+superio_enter,FUNC_3
+superio_exit,FUNC_4
+superio_select,FUNC_5
+watchdog,VAR_3
+watchdog_stop,FUNC_6
+err,VAR_4

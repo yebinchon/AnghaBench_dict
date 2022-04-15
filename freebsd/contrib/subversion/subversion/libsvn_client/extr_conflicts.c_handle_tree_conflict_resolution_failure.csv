@@ -1,0 +1,13 @@
+SVN_ERR_WC_FOUND_CONFLICT,VAR_0
+SVN_ERR_WC_OBSTRUCTED_UPDATE,VAR_1
+SVN_NO_ERROR,VAR_2
+apr_hash_pool_get,FUNC_0
+apr_pstrdup,FUNC_1
+svn_error_clear,FUNC_2
+svn_error_trace,FUNC_3
+svn_hash_sets,FUNC_4
+handle_tree_conflict_resolution_failure,FUNC_5
+local_abspath,VAR_3
+err,VAR_4
+unresolved_tree_conflicts,VAR_5
+tc_abspath,VAR_6

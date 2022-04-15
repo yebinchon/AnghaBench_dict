@@ -1,0 +1,13 @@
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_err,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+phy_get_drvdata,FUNC_5
+reset_control_assert,FUNC_6
+to_pcie_phy,FUNC_7
+rockchip_pcie_phy_init,FUNC_8
+phy,VAR_0
+inst,VAR_1
+rk_phy,VAR_2
+err,VAR_3

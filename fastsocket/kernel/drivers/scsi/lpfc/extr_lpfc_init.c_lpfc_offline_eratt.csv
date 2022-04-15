@@ -1,0 +1,16 @@
+HS_MBRDY,VAR_0
+LPFC_HBA_ERROR,VAR_1
+LPFC_MBX_NO_WAIT,VAR_2
+LPFC_SLI_ACTIVE,VAR_3
+lpfc_hba_down_post,FUNC_0
+lpfc_offline,FUNC_1
+lpfc_offline_prep,FUNC_2
+lpfc_reset_barrier,FUNC_3
+lpfc_sli_brdready,FUNC_4
+lpfc_sli_brdreset,FUNC_5
+lpfc_unblock_mgmt_io,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+lpfc_offline_eratt,FUNC_9
+phba,VAR_4
+psli,VAR_5

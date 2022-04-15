@@ -1,0 +1,14 @@
+FORCEWAKE_ALL,VAR_0
+GEN6_RC_VIDEO_FREQ,VAR_1
+GEN6_RP_DOWN_TIMEOUT,VAR_2
+GEN6_RP_IDLE_HYSTERSIS,VAR_3
+GEN9_FREQUENCY,FUNC_0
+GT_INTERVAL_FROM_US,FUNC_1
+I915_WRITE,FUNC_2
+IS_GEN,FUNC_3
+gen6_set_rps,VAR_4
+intel_uncore_forcewake_get,FUNC_4
+intel_uncore_forcewake_put,FUNC_5
+reset_rps,FUNC_6
+gen9_enable_rps,FUNC_7
+dev_priv,VAR_5

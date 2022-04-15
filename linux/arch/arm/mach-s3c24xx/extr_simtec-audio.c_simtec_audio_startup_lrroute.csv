@@ -1,0 +1,10 @@
+BAST_CPLD_CTRL1_LRCDAC,VAR_0
+BAST_CPLD_CTRL1_LRMASK,VAR_1
+BAST_VA_CTRL1,VAR_2
+__raw_readb,FUNC_0
+__raw_writeb,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+simtec_audio_startup_lrroute,FUNC_4
+tmp,VAR_3
+flags,VAR_4

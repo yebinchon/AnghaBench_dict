@@ -1,0 +1,15 @@
+ERR,FUNC_0
+MSI_CreateRecord,FUNC_1
+MSI_RecordCopyField,FUNC_2
+MSI_RecordSetInteger,FUNC_3
+MSI_RecordSetStringW,FUNC_4
+TRACE,FUNC_5
+debugstr_w,FUNC_6
+msiobj_release,FUNC_7
+msi_query_merge_record,FUNC_8
+fields,VAR_0
+vl,VAR_1
+rec,VAR_2
+merged,VAR_3
+wildcard_count,VAR_4
+i,VAR_5

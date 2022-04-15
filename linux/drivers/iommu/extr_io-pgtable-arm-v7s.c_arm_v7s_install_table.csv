@@ -1,0 +1,14 @@
+ARM_V7S_ATTR_NS_TABLE,VAR_0
+ARM_V7S_PTE_TYPE_TABLE,VAR_1
+IO_PGTABLE_QUIRK_ARM_NS,VAR_2
+__arm_v7s_pte_sync,FUNC_0
+cmpxchg_relaxed,FUNC_1
+dma_wmb,FUNC_2
+virt_to_phys,FUNC_3
+arm_v7s_install_table,FUNC_4
+table,VAR_3
+ptep,VAR_4
+curr,VAR_5
+cfg,VAR_6
+old,VAR_7
+new,VAR_8

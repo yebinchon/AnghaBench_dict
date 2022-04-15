@@ -1,0 +1,11 @@
+ADDRESS_FAMILY_IPV4,VAR_0
+assert,FUNC_0
+link_dhcp4_enabled,FUNC_1
+link_ipv4ll_enabled,FUNC_2
+log_link_debug,FUNC_3
+log_link_warning_errno,FUNC_4
+sd_dhcp_client_start,FUNC_5
+sd_ipv4ll_start,FUNC_6
+link_acquire_ipv4_conf,FUNC_7
+link,VAR_1
+r,VAR_2

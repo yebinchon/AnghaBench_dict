@@ -1,0 +1,12 @@
+LINUX_MIB_TCPLOSTRETRANSMIT,VAR_0
+NET_ADD_STATS,FUNC_0
+TCPCB_SACKED_RETRANS,VAR_1
+TCP_SKB_CB,FUNC_1
+sock_net,FUNC_2
+tcp_sk,FUNC_3
+tcp_skb_mark_lost_uncond_verify,FUNC_4
+tcp_skb_pcount,FUNC_5
+tcp_mark_skb_lost,FUNC_6
+sk,VAR_2
+skb,VAR_3
+tp,VAR_4

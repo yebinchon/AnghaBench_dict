@@ -1,0 +1,17 @@
+BFS_BSIZE,VAR_0
+BFS_DIRENT_SIZE,VAR_1
+BFS_I,FUNC_0
+BFS_NAMELEN,VAR_2
+bfs_namecmp,FUNC_1
+brelse,FUNC_2
+le16_to_cpu,FUNC_3
+sb_bread,FUNC_4
+bfs_find_entry,FUNC_5
+dir,VAR_3
+name,VAR_4
+namelen,VAR_5
+res_dir,VAR_6
+block,VAR_7
+offset,VAR_8
+bh,VAR_9
+de,VAR_10

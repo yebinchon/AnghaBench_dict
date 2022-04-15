@@ -1,0 +1,11 @@
+FALSE,VAR_0
+LCK_MTX_MLOCKED_MSK,VAR_1
+TRUE,VAR_2
+current_thread,FUNC_0
+lck_mtx_interlock_try_lock_set_flags,FUNC_1
+ordered_load_mtx_state,FUNC_2
+ordered_store_mtx_owner,FUNC_3
+lck_mtx_lock_grab_mutex,FUNC_4
+lock,VAR_3
+state,VAR_4
+thread,VAR_5

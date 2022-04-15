@@ -1,0 +1,16 @@
+MPU401D,FUNC_0
+MPU401_MODE_BIT_INPUT_TRIGGER,VAR_0
+clear_bit,FUNC_1
+snd_mpu401_uart_add_timer,FUNC_2
+snd_mpu401_uart_input_read,FUNC_3
+snd_mpu401_uart_remove_timer,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+stub1,FUNC_7
+test_and_set_bit,FUNC_8
+snd_mpu401_uart_input_trigger,FUNC_9
+substream,VAR_1
+up,VAR_2
+flags,VAR_3
+mpu,VAR_4
+max,VAR_5

@@ -1,0 +1,13 @@
+GLCP_MSR_REG,FUNC_0
+GLCP_SOFT_COM,VAR_0
+PCI_BASE_ADDRESS_SPACE_IO,VAR_1
+_rdmsr,FUNC_1
+_wrmsr,FUNC_2
+bar_space_range,VAR_2
+divil_msr_reg,VAR_3
+soft_bar_flag,VAR_4
+pci_isa_read_bar,FUNC_3
+n,VAR_5
+conf_data,VAR_6
+hi,VAR_7
+lo,VAR_8

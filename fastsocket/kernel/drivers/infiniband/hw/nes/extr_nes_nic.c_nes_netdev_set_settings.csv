@@ -1,0 +1,15 @@
+NES_PHY_TYPE_PUMA_1G,VAR_0
+nes_read_1G_phy_reg,FUNC_0
+nes_write_1G_phy_reg,FUNC_1
+netdev_priv,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+nes_netdev_set_settings,FUNC_5
+netdev,VAR_1
+et_cmd,VAR_2
+nesvnic,VAR_3
+nesdev,VAR_4
+nesadapter,VAR_5
+flags,VAR_6
+phy_data,VAR_7
+phy_index,VAR_8

@@ -1,0 +1,13 @@
+CLASS0_INTR_MASK,VAR_0
+CLASS1_ENABLE_SEGMENT_FAULT_INTR,VAR_1
+CLASS1_ENABLE_STORAGE_FAULT_INTR,VAR_2
+CLASS1_INTR_MASK,VAR_3
+CLASS2_INTR_MASK,VAR_4
+spin_lock_irq,FUNC_0
+spin_unlock_irq,FUNC_1
+spu_int_mask_set,FUNC_2
+spu_int_stat_clear,FUNC_3
+enable_interrupts,FUNC_4
+csa,VAR_5
+spu,VAR_6
+class1_mask,VAR_7

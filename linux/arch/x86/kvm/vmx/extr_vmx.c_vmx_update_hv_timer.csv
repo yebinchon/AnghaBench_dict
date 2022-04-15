@@ -1,0 +1,10 @@
+VMX_PREEMPTION_TIMER_VALUE,VAR_0
+cpu_preemption_timer_multi,VAR_1
+rdtsc,FUNC_0
+to_vmx,FUNC_1
+vmcs_write32,FUNC_2
+vmx_update_hv_timer,FUNC_3
+vcpu,VAR_2
+vmx,VAR_3
+tscl,VAR_4
+delta_tsc,VAR_5

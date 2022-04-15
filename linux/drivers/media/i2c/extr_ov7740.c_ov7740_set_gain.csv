@@ -1,0 +1,11 @@
+REG13_AGC_EN,VAR_0
+REG15_GAIN_MSB,VAR_1
+REG_CTRL15,VAR_2
+REG_GAIN,VAR_3
+REG_REG13,VAR_4
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+ov7740_set_gain,FUNC_2
+regmap,VAR_5
+value,VAR_6
+ret,VAR_7

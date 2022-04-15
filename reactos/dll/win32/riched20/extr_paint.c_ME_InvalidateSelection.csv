@@ -1,0 +1,17 @@
+ME_FindItemFwd,FUNC_0
+ME_GetSelectionOfs,FUNC_1
+ME_GetSelectionParas,FUNC_2
+ME_GetTextLength,FUNC_3
+ME_InvalidateParagraphRange,FUNC_4
+ME_WrapMarkedParagraphs,FUNC_5
+assert,FUNC_6
+diParagraph,VAR_0
+ME_InvalidateSelection,FUNC_7
+editor,VAR_1
+sel_start,VAR_2
+sel_end,VAR_3
+repaint_start,VAR_4
+repaint_end,VAR_5
+nStart,VAR_6
+nEnd,VAR_7
+len,VAR_8

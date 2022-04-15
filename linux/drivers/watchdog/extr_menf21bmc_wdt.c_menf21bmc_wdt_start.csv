@@ -1,0 +1,6 @@
+BMC_CMD_WD_ON,VAR_0
+i2c_smbus_write_byte,FUNC_0
+watchdog_get_drvdata,FUNC_1
+menf21bmc_wdt_start,FUNC_2
+wdt,VAR_1
+drv_data,VAR_2

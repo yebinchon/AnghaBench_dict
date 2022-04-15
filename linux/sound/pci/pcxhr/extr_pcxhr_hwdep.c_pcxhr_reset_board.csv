@@ -1,0 +1,14 @@
+CMD_ACCESS_IO_WRITE,VAR_0
+IO_NUM_REG_MUTE_OUT,VAR_1
+PCXHR_FIRMWARE_DSP_EPRM_INDEX,VAR_2
+PCXHR_FIRMWARE_DSP_MAIN_INDEX,VAR_3
+PCXHR_FIRMWARE_XLX_COM_INDEX,VAR_4
+REG_CONT_UNMUTE_INPUTS,VAR_5
+pcxhr_init_rmh,FUNC_0
+pcxhr_reset_dsp,FUNC_1
+pcxhr_reset_xilinx_com,FUNC_2
+pcxhr_send_msg,FUNC_3
+pcxhr_write_io_num_reg_cont,FUNC_4
+pcxhr_reset_board,FUNC_5
+mgr,VAR_6
+rmh,VAR_7

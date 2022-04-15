@@ -1,0 +1,14 @@
+IXGBE_FLAG_IN_NETPOLL,VAR_0
+IXGBE_RXD_STAT_VP,VAR_1
+le16_to_cpu,FUNC_0
+napi_gro_receive,FUNC_1
+netif_rx,FUNC_2
+vlan_gro_receive,FUNC_3
+ixgbevf_receive_skb,FUNC_4
+q_vector,VAR_2
+skb,VAR_3
+status,VAR_4
+rx_desc,VAR_5
+adapter,VAR_6
+is_vlan,VAR_7
+tag,VAR_8

@@ -1,0 +1,17 @@
+SHT3X_NUM_LIMIT_CMD,VAR_0
+SHT3X_RESPONSE_LENGTH,VAR_1
+be16_to_cpup,FUNC_0
+limit_commands,VAR_2
+sht3x_extract_humidity,FUNC_1
+sht3x_extract_temperature,FUNC_2
+sht3x_read_from_command,FUNC_3
+limits_update,FUNC_4
+data,VAR_3
+ret,VAR_4
+index,VAR_5
+temperature,VAR_6
+humidity,VAR_7
+raw,VAR_8
+buffer,VAR_9
+commands,VAR_10
+client,VAR_11

@@ -1,0 +1,15 @@
+JZ_AIC_CONF_ENABLE,VAR_0
+JZ_AIC_CTRL_FLUSH,VAR_1
+JZ_REG_AIC_CONF,VAR_2
+JZ_REG_AIC_CTRL,VAR_3
+clk_prepare_enable,FUNC_0
+jz4740_i2s_read,FUNC_1
+jz4740_i2s_write,FUNC_2
+snd_soc_dai_get_drvdata,FUNC_3
+jz4740_i2s_startup,FUNC_4
+substream,VAR_4
+dai,VAR_5
+i2s,VAR_6
+conf,VAR_7
+ctrl,VAR_8
+ret,VAR_9

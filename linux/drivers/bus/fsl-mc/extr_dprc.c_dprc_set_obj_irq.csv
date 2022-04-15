@@ -1,0 +1,16 @@
+DPRC_CMDID_SET_OBJ_IRQ,VAR_0
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+strncpy,FUNC_4
+dprc_set_obj_irq,FUNC_5
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+obj_type,VAR_4
+obj_id,VAR_5
+irq_index,VAR_6
+irq_cfg,VAR_7
+cmd,VAR_8
+cmd_params,VAR_9

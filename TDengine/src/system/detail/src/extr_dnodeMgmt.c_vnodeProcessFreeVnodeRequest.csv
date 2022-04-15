@@ -1,0 +1,16 @@
+TSDB_CODE_ACTION_IN_PROGRESS,VAR_0
+TSDB_CODE_SUCCESS,VAR_1
+TSDB_MAX_VNODES,VAR_2
+TSDB_MSG_TYPE_FREE_VNODE_RSP,VAR_3
+assert,FUNC_0
+dTrace,FUNC_1
+dWarn,FUNC_2
+htons,FUNC_3
+taosSendSimpleRspToMnode,FUNC_4
+vnodeRemoveVnode,FUNC_5
+vnodeProcessFreeVnodeRequest,FUNC_6
+pMsg,VAR_4
+msgLen,VAR_5
+pMgmtObj,VAR_6
+pFree,VAR_7
+code,VAR_8

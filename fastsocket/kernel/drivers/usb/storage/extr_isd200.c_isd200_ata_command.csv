@@ -1,0 +1,12 @@
+US_DEBUGP,FUNC_0
+isd200_invoke_transport,FUNC_1
+isd200_scsi_to_ata,FUNC_2
+isd200_srb_set_bufflen,FUNC_3
+scsi_bufflen,FUNC_4
+scsi_set_resid,FUNC_5
+isd200_ata_command,FUNC_6
+srb,VAR_0
+us,VAR_1
+sendToTransport,VAR_2
+orig_bufflen,VAR_3
+ataCdb,VAR_4

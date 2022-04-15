@@ -1,0 +1,12 @@
+PMAP_CREATE_64BIT,VAR_0
+PMAP_CREATE_EPT,VAR_1
+PMAP_NULL,VAR_2
+assert,FUNC_0
+current_task,FUNC_1
+get_task_ledger,FUNC_2
+is_ept_pmap,FUNC_3
+pmap_create_options,FUNC_4
+hv_ept_pmap_create,FUNC_5
+ept_pmap,VAR_3
+eptp,VAR_4
+p,VAR_5

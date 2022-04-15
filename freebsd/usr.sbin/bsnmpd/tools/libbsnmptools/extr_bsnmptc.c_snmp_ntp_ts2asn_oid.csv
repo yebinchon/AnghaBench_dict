@@ -1,0 +1,17 @@
+SNMP_NTP_TS_OCTETS,VAR_0
+asn_append_oid,FUNC_0
+errno,VAR_1
+memset,FUNC_1
+snmp_suboid_append,FUNC_2
+strtoul,FUNC_3
+warnx,FUNC_4
+snmp_ntp_ts2asn_oid,FUNC_5
+str,VAR_2
+oid,VAR_3
+endptr,VAR_4
+ptr,VAR_5
+v,VAR_6
+i,VAR_7
+d,VAR_8
+suboid,VAR_9
+saved_errno,VAR_10

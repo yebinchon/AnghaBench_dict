@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+HYPERVISOR_vcpu_op,FUNC_1
+VCPUOP_set_singleshot_timer,VAR_0
+WARN_ON,FUNC_2
+clockevent_state_oneshot,FUNC_3
+get_abs_timeout,FUNC_4
+smp_processor_id,FUNC_5
+xen_vcpu_nr,FUNC_6
+xen_vcpuop_set_next_event,FUNC_7
+delta,VAR_1
+evt,VAR_2
+cpu,VAR_3
+single,VAR_4
+ret,VAR_5

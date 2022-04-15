@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+MCFPIT_PCSR,VAR_1
+MCFPIT_PCSR_PIF,VAR_2
+PIT_CYCLES_PER_JIFFY,VAR_3
+TA,FUNC_0
+__raw_readw,FUNC_1
+__raw_writew,FUNC_2
+cf_pit_clockevent,VAR_4
+pit_cnt,VAR_5
+stub1,FUNC_3
+pit_tick,FUNC_4
+irq,VAR_6
+dummy,VAR_7
+evt,VAR_8
+pcsr,VAR_9

@@ -1,0 +1,16 @@
+BIO_MAX_PAGES,VAR_0
+GFP_NOIO,VAR_1
+IBLOCK_DEV,FUNC_0
+bio_alloc_bioset,FUNC_1
+bio_set_dev,FUNC_2
+bio_set_op_attrs,FUNC_3
+iblock_bio_done,VAR_2
+pr_err,FUNC_4
+iblock_get_bio,FUNC_5
+cmd,VAR_3
+lba,VAR_4
+sg_num,VAR_5
+op,VAR_6
+op_flags,VAR_7
+ib_dev,VAR_8
+bio,VAR_9

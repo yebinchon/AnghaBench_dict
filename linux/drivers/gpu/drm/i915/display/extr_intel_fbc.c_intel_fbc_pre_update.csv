@@ -1,0 +1,14 @@
+fbc_supported,FUNC_0
+intel_fbc_deactivate,FUNC_1
+intel_fbc_update_state_cache,FUNC_2
+multiple_pipes_ok,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+to_i915,FUNC_6
+intel_fbc_pre_update,FUNC_7
+crtc,VAR_0
+crtc_state,VAR_1
+plane_state,VAR_2
+dev_priv,VAR_3
+fbc,VAR_4
+reason,VAR_5

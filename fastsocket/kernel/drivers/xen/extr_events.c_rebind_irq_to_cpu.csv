@@ -1,0 +1,12 @@
+EVTCHNOP_bind_vcpu,VAR_0
+HYPERVISOR_event_channel_op,FUNC_0
+VALID_EVTCHN,FUNC_1
+bind_evtchn_to_cpu,FUNC_2
+evtchn_from_irq,FUNC_3
+xen_have_vector_callback,VAR_1
+xen_hvm_domain,FUNC_4
+rebind_irq_to_cpu,FUNC_5
+irq,VAR_2
+tcpu,VAR_3
+bind_vcpu,VAR_4
+evtchn,VAR_5

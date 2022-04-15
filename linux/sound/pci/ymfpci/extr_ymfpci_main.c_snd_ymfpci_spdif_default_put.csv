@@ -1,0 +1,13 @@
+YDSXGR_SPDIFOUTCTRL,VAR_0
+YDSXGR_SPDIFOUTSTATUS,VAR_1
+snd_kcontrol_chip,FUNC_0
+snd_ymfpci_readw,FUNC_1
+snd_ymfpci_writew,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+snd_ymfpci_spdif_default_put,FUNC_5
+kcontrol,VAR_2
+ucontrol,VAR_3
+chip,VAR_4
+val,VAR_5
+change,VAR_6

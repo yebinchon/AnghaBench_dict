@@ -1,0 +1,14 @@
+ASPECT_RATIO_CUSTOM,VAR_0
+aspectratio_lut,VAR_1
+config_get_ptr,FUNC_0
+retroarch_get_rotation,FUNC_1
+video_driver_get_viewport_info,FUNC_2
+video_viewport_get_custom,FUNC_3
+video_viewport_get_system_av_info,FUNC_4
+setting_action_start_custom_viewport_width,FUNC_5
+setting,VAR_2
+vp,VAR_3
+av_info,VAR_4
+custom,VAR_5
+settings,VAR_6
+geom,VAR_7

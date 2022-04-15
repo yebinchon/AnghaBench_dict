@@ -1,0 +1,13 @@
+G_STRLOC,VAR_0
+RLIMIT_NOFILE,VAR_1
+_setmaxstdio,FUNC_0
+errno,VAR_2
+g_critical,FUNC_1
+g_strerror,FUNC_2
+getrlimit,FUNC_3
+setrlimit,FUNC_4
+chassis_fdlimit_set,FUNC_5
+max_files_number,VAR_3
+max_files_rlimit,VAR_4
+soft_limit,VAR_5
+hard_limit,VAR_6

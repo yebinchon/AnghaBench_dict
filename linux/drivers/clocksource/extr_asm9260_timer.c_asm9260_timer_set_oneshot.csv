@@ -1,0 +1,9 @@
+BM_MCR_RES_EN,FUNC_0
+BM_MCR_STOP_EN,FUNC_1
+HW_MCR,VAR_0
+SET_REG,VAR_1
+__asm9260_timer_shutdown,FUNC_2
+priv,VAR_2
+writel_relaxed,FUNC_3
+asm9260_timer_set_oneshot,FUNC_4
+evt,VAR_3

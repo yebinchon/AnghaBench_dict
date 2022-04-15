@@ -1,0 +1,9 @@
+APIC_DEST_LOGICAL,VAR_0
+__x2apic_send_IPI_dest,FUNC_0
+per_cpu,FUNC_1
+x2apic_wrmsr_fence,FUNC_2
+x86_cpu_to_logical_apicid,VAR_1
+x2apic_send_IPI,FUNC_3
+cpu,VAR_2
+vector,VAR_3
+dest,VAR_4

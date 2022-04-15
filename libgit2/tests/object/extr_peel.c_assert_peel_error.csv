@@ -1,0 +1,15 @@
+GIT_OBJECT_ANY,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_1
+git_object_free,FUNC_2
+git_object_lookup,FUNC_3
+git_object_peel,FUNC_4
+git_oid_fromstr,FUNC_5
+assert_peel_error,FUNC_6
+error,VAR_2
+sha,VAR_3
+requested_type,VAR_4
+oid,VAR_5
+obj,VAR_6
+peeled,VAR_7

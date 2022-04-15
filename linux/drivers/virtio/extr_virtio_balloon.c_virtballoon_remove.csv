@@ -1,0 +1,16 @@
+VIRTIO_BALLOON_F_DEFLATE_ON_OOM,VAR_0
+VIRTIO_BALLOON_F_FREE_PAGE_HINT,VAR_1
+balloon_mnt,VAR_2
+cancel_work_sync,FUNC_0
+destroy_workqueue,FUNC_1
+iput,FUNC_2
+kern_unmount,FUNC_3
+kfree,FUNC_4
+remove_common,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+virtio_balloon_unregister_shrinker,FUNC_8
+virtio_has_feature,FUNC_9
+virtballoon_remove,FUNC_10
+vdev,VAR_3
+vb,VAR_4

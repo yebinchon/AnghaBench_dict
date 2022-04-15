@@ -1,0 +1,15 @@
+EXIT_FAIL_LIBBPF,VAR_0
+bpf_object__close,FUNC_0
+bpf_object__name,FUNC_1
+bpf_object__open,FUNC_2
+libbpf_get_error,FUNC_3
+libbpf_strerror,FUNC_4
+printf,FUNC_5
+test_walk_maps,FUNC_6
+test_walk_progs,FUNC_7
+test_open_file,FUNC_8
+filename,VAR_1
+verbose,VAR_2
+bpfobj,VAR_3
+err,VAR_4
+err_buf,VAR_5

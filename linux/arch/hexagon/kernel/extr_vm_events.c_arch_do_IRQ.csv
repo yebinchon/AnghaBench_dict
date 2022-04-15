@@ -1,0 +1,9 @@
+generic_handle_irq,FUNC_0
+irq_enter,FUNC_1
+irq_exit,FUNC_2
+pt_cause,FUNC_3
+set_irq_regs,FUNC_4
+arch_do_IRQ,FUNC_5
+regs,VAR_0
+irq,VAR_1
+old_regs,VAR_2

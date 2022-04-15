@@ -1,0 +1,17 @@
+GPIO_MAPPED_IRQ_BASE,VAR_0
+GPIO_MAPPED_IRQ_GROUP,VAR_1
+GROUP0_IRQ_BASE,VAR_2
+GROUP4_IRQ_BASE,VAR_3
+READ_MASK,FUNC_0
+WRITE_MASK,FUNC_1
+disable_local_irq,FUNC_2
+group_to_ip,FUNC_3
+intr_group,VAR_4
+rb532_gpio_set_istat,FUNC_4
+rb532_disable_irq,FUNC_5
+irq_nr,VAR_5
+ip,VAR_6
+group,VAR_7
+intr_bit,VAR_8
+mask,VAR_9
+addr,VAR_10

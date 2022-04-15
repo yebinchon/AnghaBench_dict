@@ -1,0 +1,11 @@
+MFI_REQ_DESCRIPT_FLAGS_TYPE_SHIFT,VAR_0
+MPI2_REQ_DESCRIPT_FLAGS_SCSI_IO,VAR_1
+bzero,FUNC_0
+device_printf,FUNC_1
+mfi_build_mpt_pass_thru,FUNC_2
+mfi_tbolt_get_request_descriptor,FUNC_3
+mfi_tbolt_build_mpt_cmd,FUNC_4
+sc,VAR_2
+cmd,VAR_3
+req_desc,VAR_4
+index,VAR_5

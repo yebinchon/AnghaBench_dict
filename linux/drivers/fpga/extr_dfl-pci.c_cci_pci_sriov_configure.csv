@@ -1,0 +1,11 @@
+dfl_fpga_cdev_config_ports_pf,FUNC_0
+dfl_fpga_cdev_config_ports_vf,FUNC_1
+pci_disable_sriov,FUNC_2
+pci_enable_sriov,FUNC_3
+pci_get_drvdata,FUNC_4
+cci_pci_sriov_configure,FUNC_5
+pcidev,VAR_0
+num_vfs,VAR_1
+drvdata,VAR_2
+cdev,VAR_3
+ret,VAR_4

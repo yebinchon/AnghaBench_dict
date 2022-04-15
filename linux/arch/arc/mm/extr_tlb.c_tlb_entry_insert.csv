@@ -1,0 +1,12 @@
+ARC_REG_TLBCOMMAND,VAR_0
+ARC_REG_TLBPD1,VAR_1
+TLBGetIndex,VAR_2
+TLBWrite,VAR_3
+TLB_LKUP_ERR,VAR_4
+likely,FUNC_0
+tlb_entry_lkup,FUNC_1
+write_aux_reg,FUNC_2
+tlb_entry_insert,FUNC_3
+pd0,VAR_5
+pd1,VAR_6
+idx,VAR_7

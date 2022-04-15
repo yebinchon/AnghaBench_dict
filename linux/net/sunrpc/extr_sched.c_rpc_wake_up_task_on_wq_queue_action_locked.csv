@@ -1,0 +1,9 @@
+RPC_IS_QUEUED,FUNC_0
+__rpc_do_wake_up_task_on_wq,FUNC_1
+smp_rmb,FUNC_2
+rpc_wake_up_task_on_wq_queue_action_locked,FUNC_3
+wq,VAR_0
+queue,VAR_1
+task,VAR_2
+action,VAR_3
+data,VAR_4

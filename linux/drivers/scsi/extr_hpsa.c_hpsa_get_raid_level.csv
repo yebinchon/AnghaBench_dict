@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+HPSA_VPD_LV_DEVICE_GEOMETRY,VAR_1
+RAID_UNKNOWN,VAR_2
+VPD_PAGE,VAR_3
+hpsa_scsi_do_inquiry,FUNC_0
+hpsa_vpd_page_supported,FUNC_1
+kfree,FUNC_2
+kzalloc,FUNC_3
+hpsa_get_raid_level,FUNC_4
+h,VAR_4
+scsi3addr,VAR_5
+raid_level,VAR_6
+rc,VAR_7
+buf,VAR_8

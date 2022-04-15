@@ -1,0 +1,13 @@
+EMC_GATHER_CLEAR,VAR_0
+EMC_GATHER_ENABLE,VAR_1
+MC_STAT_CONTROL,VAR_2
+MC_STAT_EMC_CLOCKS,VAR_3
+MC_STAT_EMC_COUNT,VAR_4
+clk_get_rate,FUNC_0
+dev_get_drvdata,FUNC_1
+readl_relaxed,FUNC_2
+writel_relaxed,FUNC_3
+tegra_devfreq_get_dev_status,FUNC_4
+dev,VAR_5
+stat,VAR_6
+tegra,VAR_7

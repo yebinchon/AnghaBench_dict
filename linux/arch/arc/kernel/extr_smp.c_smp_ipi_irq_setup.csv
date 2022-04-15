@@ -1,0 +1,13 @@
+do_IPI,VAR_0
+enable_percpu_irq,FUNC_0
+ipi_dev,VAR_1
+irq_find_mapping,FUNC_1
+panic,FUNC_2
+per_cpu_ptr,FUNC_3
+request_percpu_irq,FUNC_4
+smp_ipi_irq_setup,FUNC_5
+cpu,VAR_2
+hwirq,VAR_3
+dev,VAR_4
+virq,VAR_5
+rc,VAR_6

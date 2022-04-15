@@ -1,0 +1,14 @@
+DLM_LOCK_CR,VAR_0
+MD_CLUSTER_HOLDING_MUTEX_FOR_RECVD,VAR_1
+dlm_lock_sync,FUNC_0
+le32_to_cpu,FUNC_1
+md_reload_sb,FUNC_2
+mddev_trylock,FUNC_3
+mddev_unlock,FUNC_4
+test_bit,FUNC_5
+wait_event,FUNC_6
+process_metadata_update,FUNC_7
+mddev,VAR_2
+msg,VAR_3
+got_lock,VAR_4
+cinfo,VAR_5

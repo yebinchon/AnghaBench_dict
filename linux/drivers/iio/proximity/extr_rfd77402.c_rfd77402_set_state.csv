@@ -1,0 +1,13 @@
+ENODEV,VAR_0
+RFD77402_CMD_R,VAR_1
+RFD77402_CMD_VALID,VAR_2
+RFD77402_STATUS_PM_MASK,VAR_3
+RFD77402_STATUS_R,VAR_4
+i2c_smbus_read_word_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+usleep_range,FUNC_2
+rfd77402_set_state,FUNC_3
+data,VAR_5
+state,VAR_6
+check,VAR_7
+ret,VAR_8

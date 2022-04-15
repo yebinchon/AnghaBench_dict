@@ -1,0 +1,14 @@
+GET_FILE_FH,FUNC_0
+SPIFFS_SEEK_CUR,VAR_0
+SPIFFS_SEEK_END,VAR_1
+SPIFFS_SEEK_SET,VAR_2
+SPIFFS_lseek,FUNC_1
+VFS_RES_ERR,VAR_3
+fh,VAR_4
+fs,VAR_5
+myspiffs_vfs_lseek,FUNC_2
+fd,VAR_6
+off,VAR_7
+whence,VAR_8
+spiffs_whence,VAR_9
+res,VAR_10

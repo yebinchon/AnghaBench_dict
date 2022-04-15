@@ -1,0 +1,15 @@
+SYS_CTRL_CLK_DIVIDER_CTRL_OFFSET,VAR_0
+SYS_CTRL_CLK_DIVIDER_MASK,VAR_1
+SYS_CTRL_CLK_DIVIDER_VALUE_OFFSET,VAR_2
+readl,FUNC_0
+to_cpu_clk,FUNC_1
+udelay,FUNC_2
+writel,FUNC_3
+clk_cpu_off_set_rate,FUNC_4
+hwclk,VAR_3
+rate,VAR_4
+parent_rate,VAR_5
+cpuclk,VAR_6
+reg,VAR_7
+div,VAR_8
+reload_mask,VAR_9

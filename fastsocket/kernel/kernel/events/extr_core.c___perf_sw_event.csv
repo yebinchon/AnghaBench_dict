@@ -1,0 +1,14 @@
+PERF_TYPE_SOFTWARE,VAR_0
+do_perf_sw_event,FUNC_0
+perf_sample_data_init,FUNC_1
+perf_swevent_get_recursion_context,FUNC_2
+perf_swevent_put_recursion_context,FUNC_3
+preempt_disable_notrace,FUNC_4
+preempt_enable_notrace,FUNC_5
+__perf_sw_event,FUNC_6
+event_id,VAR_1
+nr,VAR_2
+regs,VAR_3
+addr,VAR_4
+data,VAR_5
+rctx,VAR_6

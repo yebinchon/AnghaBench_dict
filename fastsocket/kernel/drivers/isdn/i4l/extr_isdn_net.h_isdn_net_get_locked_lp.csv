@@ -1,0 +1,9 @@
+isdn_net_lp_busy,FUNC_0
+local_bh_disable,FUNC_1
+spin_lock,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+isdn_net_get_locked_lp,FUNC_5
+nd,VAR_0
+flags,VAR_1
+lp,VAR_2

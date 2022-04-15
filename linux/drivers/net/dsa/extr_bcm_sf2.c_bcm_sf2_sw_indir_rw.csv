@@ -1,0 +1,14 @@
+MDIO_MASTER_SEL,VAR_0
+REG_SWITCH_CNTRL,VAR_1
+core_readl,FUNC_0
+core_writel,FUNC_1
+reg_readl,FUNC_2
+reg_writel,FUNC_3
+bcm_sf2_sw_indir_rw,FUNC_4
+priv,VAR_2
+op,VAR_3
+addr,VAR_4
+regnum,VAR_5
+val,VAR_6
+ret,VAR_7
+reg,VAR_8

@@ -1,0 +1,15 @@
+DCB_APP_EVENT,VAR_0
+EEXIST,VAR_1
+call_dcbevent_notifiers,FUNC_0
+dcb_app_add,FUNC_1
+dcb_app_lookup,FUNC_2
+dcb_lock,VAR_2
+memcpy,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+stub1,FUNC_6
+dcb_ieee_setapp,FUNC_7
+dev,VAR_3
+new,VAR_4
+event,VAR_5
+err,VAR_6

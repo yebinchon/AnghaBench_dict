@@ -1,0 +1,8 @@
+GSC_IRQ,VAR_0
+GSC_IRQ_DONE,VAR_1
+GSC_IRQ_OVERRUN,VAR_2
+GSC_IRQ_STATUS_OR_IRQ,VAR_3
+readl,FUNC_0
+gsc_hw_get_irq_status,FUNC_1
+dev,VAR_4
+cfg,VAR_5

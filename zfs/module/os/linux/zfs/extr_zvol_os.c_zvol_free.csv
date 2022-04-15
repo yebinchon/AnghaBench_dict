@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+MINOR,FUNC_1
+MUTEX_HELD,FUNC_2
+RW_LOCK_HELD,FUNC_3
+ZVOL_MINOR_BITS,VAR_0
+blk_cleanup_queue,FUNC_4
+dataset_kstats_destroy,FUNC_5
+del_gendisk,FUNC_6
+ida_simple_remove,FUNC_7
+kmem_free,FUNC_8
+mutex_destroy,FUNC_9
+put_disk,FUNC_10
+rw_destroy,FUNC_11
+zfs_rangelock_fini,FUNC_12
+zvol_ida,VAR_1
+zvol_free,FUNC_13
+zv,VAR_2

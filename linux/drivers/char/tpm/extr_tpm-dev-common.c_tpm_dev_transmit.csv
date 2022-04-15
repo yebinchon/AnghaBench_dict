@@ -1,0 +1,17 @@
+EOPNOTSUPP,VAR_0
+TPM2_RC_COMMAND_CODE,VAR_1
+TPM2_ST_NO_SESSIONS,VAR_2
+TSS2_RESMGR_TPM_RC_LAYER,VAR_3
+cpu_to_be16,FUNC_0
+cpu_to_be32,FUNC_1
+tpm2_commit_space,FUNC_2
+tpm2_prepare_space,FUNC_3
+tpm_transmit,FUNC_4
+tpm_dev_transmit,FUNC_5
+chip,VAR_4
+space,VAR_5
+buf,VAR_6
+bufsiz,VAR_7
+header,VAR_8
+ret,VAR_9
+len,VAR_10

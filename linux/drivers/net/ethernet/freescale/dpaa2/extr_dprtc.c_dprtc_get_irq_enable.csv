@@ -1,0 +1,13 @@
+DPRTC_CMDID_GET_IRQ_ENABLE,VAR_0
+mc_encode_cmd_header,FUNC_0
+mc_send_command,FUNC_1
+dprtc_get_irq_enable,FUNC_2
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+irq_index,VAR_4
+en,VAR_5
+rsp_params,VAR_6
+cmd_params,VAR_7
+cmd,VAR_8
+err,VAR_9

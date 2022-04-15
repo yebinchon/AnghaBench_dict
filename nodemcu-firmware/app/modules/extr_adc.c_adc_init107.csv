@@ -1,0 +1,14 @@
+SPI_FLASH_RESULT_OK,VAR_0
+SPI_FLASH_SEC_SIZE,VAR_1
+flash_erase,FUNC_0
+flash_read,FUNC_1
+flash_rom_get_sec_num,FUNC_2
+flash_write,FUNC_3
+luaL_checkinteger,FUNC_4
+luaL_error,FUNC_5
+lua_pushboolean,FUNC_6
+adc_init107,FUNC_7
+L,VAR_2
+byte107,VAR_3
+init_sector,VAR_4
+init_data,VAR_5

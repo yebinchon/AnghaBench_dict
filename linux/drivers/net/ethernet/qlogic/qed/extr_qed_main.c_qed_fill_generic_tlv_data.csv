@@ -1,0 +1,16 @@
+QED_TLV_IP_CSUM,VAR_0
+QED_TLV_LSO,VAR_1
+QED_TLV_MAC_COUNT,VAR_2
+ether_addr_copy,FUNC_0
+is_valid_ether_addr,FUNC_1
+memset,FUNC_2
+qed_get_vport_stats,FUNC_3
+stub1,FUNC_4
+qed_fill_generic_tlv_data,FUNC_5
+cdev,VAR_3
+tlv,VAR_4
+op,VAR_5
+p_common,VAR_6
+gen_tlvs,VAR_7
+stats,VAR_8
+i,VAR_9

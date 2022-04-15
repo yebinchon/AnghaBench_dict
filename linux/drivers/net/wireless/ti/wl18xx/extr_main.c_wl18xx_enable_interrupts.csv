@@ -1,0 +1,12 @@
+REG_INTERRUPT_MASK,VAR_0
+WL1271_ACX_INTR_ALL,VAR_1
+WL18XX_ACX_EVENTS_VECTOR,VAR_2
+WL18XX_INTR_MASK,VAR_3
+wlcore_disable_interrupts,FUNC_0
+wlcore_enable_interrupts,FUNC_1
+wlcore_write_reg,FUNC_2
+wl18xx_enable_interrupts,FUNC_3
+wl,VAR_4
+event_mask,VAR_5
+intr_mask,VAR_6
+ret,VAR_7

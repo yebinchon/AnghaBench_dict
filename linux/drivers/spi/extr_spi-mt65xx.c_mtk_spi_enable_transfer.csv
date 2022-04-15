@@ -1,0 +1,11 @@
+MTK_SPI_IDLE,VAR_0
+SPI_CMD_ACT,VAR_1
+SPI_CMD_REG,VAR_2
+SPI_CMD_RESUME,VAR_3
+readl,FUNC_0
+spi_master_get_devdata,FUNC_1
+writel,FUNC_2
+mtk_spi_enable_transfer,FUNC_3
+master,VAR_4
+cmd,VAR_5
+mdata,VAR_6

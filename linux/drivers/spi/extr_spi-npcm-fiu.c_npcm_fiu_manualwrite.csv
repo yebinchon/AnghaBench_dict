@@ -1,0 +1,17 @@
+CHUNK_SIZE,VAR_0
+NPCM_FIU_UMA_CTS,VAR_1
+NPCM_FIU_UMA_CTS_DEV_NUM,VAR_2
+NPCM_FIU_UMA_CTS_DEV_NUM_SHIFT,VAR_3
+NPCM_FIU_UMA_CTS_SW_CS,VAR_4
+npcm_fiu_uma_write,FUNC_0
+regmap_update_bits,FUNC_1
+spi_controller_get_devdata,FUNC_2
+npcm_fiu_manualwrite,FUNC_3
+mem,VAR_5
+op,VAR_6
+fiu,VAR_7
+data,VAR_8
+num_data_chunks,VAR_9
+remain_data,VAR_10
+idx,VAR_11
+ret,VAR_12

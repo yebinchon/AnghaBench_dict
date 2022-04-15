@@ -1,0 +1,14 @@
+LAN78XX_EEPROM_MAGIC,VAR_0
+LAN78XX_OTP_MAGIC,VAR_1
+OTP_INDICATOR_1,VAR_2
+lan78xx_write_raw_eeprom,FUNC_0
+lan78xx_write_raw_otp,FUNC_1
+netdev_priv,FUNC_2
+usb_autopm_get_interface,FUNC_3
+usb_autopm_put_interface,FUNC_4
+lan78xx_ethtool_set_eeprom,FUNC_5
+netdev,VAR_3
+ee,VAR_4
+data,VAR_5
+dev,VAR_6
+ret,VAR_7

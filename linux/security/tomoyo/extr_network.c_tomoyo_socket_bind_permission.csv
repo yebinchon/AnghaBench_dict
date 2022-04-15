@@ -1,0 +1,12 @@
+PF_UNIX,VAR_0
+TOMOYO_NETWORK_BIND,VAR_1
+tomoyo_check_inet_address,FUNC_0
+tomoyo_check_unix_address,FUNC_1
+tomoyo_sock_family,FUNC_2
+tomoyo_socket_bind_permission,FUNC_3
+sock,VAR_2
+addr,VAR_3
+addr_len,VAR_4
+address,VAR_5
+family,VAR_6
+type,VAR_7

@@ -1,0 +1,12 @@
+GMAC_REG_OMR,VAR_0
+NETSEC_GMAC_OMR_REG_SR,VAR_1
+NETSEC_GMAC_OMR_REG_ST,VAR_2
+NETSEC_REG_NRM_RX_INTEN_CLR,VAR_3
+NETSEC_REG_NRM_TX_INTEN_CLR,VAR_4
+netsec_mac_read,FUNC_0
+netsec_mac_write,FUNC_1
+netsec_write,FUNC_2
+netsec_stop_gmac,FUNC_3
+priv,VAR_5
+value,VAR_6
+ret,VAR_7

@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+POWERCONTAINMENT_FEATURE_PkgPwrLimit,VAR_1
+PPSMC_MSG_PkgPwrSetLimit,VAR_2
+PPSMC_Result_OK,VAR_3
+ci_get_pi,FUNC_0
+ci_send_msg_to_smc_with_parameter,FUNC_1
+ci_set_power_limit,FUNC_2
+rdev,VAR_4
+n,VAR_5
+pi,VAR_6
+smc_result,VAR_7

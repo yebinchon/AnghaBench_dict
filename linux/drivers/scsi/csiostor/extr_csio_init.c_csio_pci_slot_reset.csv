@@ -1,0 +1,17 @@
+CSIO_HWE_PCIERR_SLOT_RESET,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_RECOVERED,VAR_2
+csio_is_hw_ready,FUNC_0
+csio_post_event,FUNC_1
+dev_err,FUNC_2
+pci_enable_device,FUNC_3
+pci_get_drvdata,FUNC_4
+pci_restore_state,FUNC_5
+pci_save_state,FUNC_6
+pci_set_master,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+csio_pci_slot_reset,FUNC_10
+pdev,VAR_3
+hw,VAR_4
+ready,VAR_5

@@ -1,0 +1,15 @@
+OP_OFFLINE,VAR_0
+OP_RUNNING_POLL,VAR_1
+device_ctls_mutex,VAR_2
+edac_workqueue,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+queue_delayed_work,FUNC_2
+round_jiffies_relative,FUNC_3
+stub1,FUNC_4
+to_delayed_work,FUNC_5
+to_edac_device_ctl_work,FUNC_6
+edac_device_workq_function,FUNC_7
+work_req,VAR_4
+d_work,VAR_5
+edac_dev,VAR_6

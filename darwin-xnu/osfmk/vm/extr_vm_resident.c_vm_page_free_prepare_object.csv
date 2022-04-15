@@ -1,0 +1,12 @@
+FALSE,VAR_0
+PAGE_WAKEUP,FUNC_0
+TRUE,VAR_1
+VM_PAGE_GET_PHYS_PAGE,FUNC_1
+VM_PAGE_SET_PHYS_PAGE,FUNC_2
+assert,FUNC_3
+vm_page_fictitious_addr,VAR_2
+vm_page_init,FUNC_4
+vm_page_remove,FUNC_5
+vm_page_free_prepare_object,FUNC_6
+mem,VAR_3
+remove_from_hash,VAR_4

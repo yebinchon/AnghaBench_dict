@@ -1,0 +1,9 @@
+DPRINT,FUNC_0
+DeviceIoControl,FUNC_1
+GetWaveFormatExSize,FUNC_2
+IOCTL_WAVE_SET_FORMAT,VAR_0
+SetWaveFormat,FUNC_3
+device_handle,VAR_1
+format,VAR_2
+bytes_returned,VAR_3
+size,VAR_4

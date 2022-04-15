@@ -1,0 +1,12 @@
+dec_byte,FUNC_0
+decode_rl_address,FUNC_1
+decode_rl_byte_register,FUNC_2
+fetch_data_byte,FUNC_3
+fetch_decode_modrm,FUNC_4
+inc_byte,FUNC_5
+store_data_byte,FUNC_6
+x86emuOp_opcFE_byte_RM,FUNC_7
+emu,VAR_0
+destval,VAR_1
+destoffset,VAR_2
+destreg,VAR_3

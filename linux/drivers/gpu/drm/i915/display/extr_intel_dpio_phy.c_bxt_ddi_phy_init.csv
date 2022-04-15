@@ -1,0 +1,11 @@
+_bxt_ddi_phy_init,FUNC_0
+bxt_ddi_phy_is_enabled,FUNC_1
+bxt_ddi_phy_uninit,FUNC_2
+bxt_get_phy_info,FUNC_3
+lockdep_assert_held,FUNC_4
+bxt_ddi_phy_init,FUNC_5
+dev_priv,VAR_0
+phy,VAR_1
+phy_info,VAR_2
+rcomp_phy,VAR_3
+was_enabled,VAR_4

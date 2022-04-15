@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOIOCTLCMD,VAR_1
+ENOTTY,VAR_2
+PDE,FUNC_0
+lock_kernel,FUNC_1
+pde_users_dec,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+unlock_kernel,FUNC_5
+proc_reg_unlocked_ioctl,FUNC_6
+file,VAR_3
+cmd,VAR_4
+arg,VAR_5
+pde,VAR_6
+rv,VAR_7
+unlocked_ioctl,VAR_8
+ioctl,VAR_9

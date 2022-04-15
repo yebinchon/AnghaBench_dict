@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+FW_HDR_MAGIC_BOOTSTRAP,VAR_1
+be32_to_cpu,FUNC_0
+t4_fw_halt,FUNC_1
+t4_fw_matches_chip,FUNC_2
+t4_fw_restart,FUNC_3
+t4_load_fw,FUNC_4
+t4_fw_upgrade,FUNC_5
+adap,VAR_2
+mbox,VAR_3
+fw_data,VAR_4
+size,VAR_5
+force,VAR_6
+fw_hdr,VAR_7
+bootstrap,VAR_8
+ret,VAR_9

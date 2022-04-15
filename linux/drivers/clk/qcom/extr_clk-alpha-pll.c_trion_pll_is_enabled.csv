@@ -1,0 +1,11 @@
+PLL_MODE,FUNC_0
+PLL_OPMODE,FUNC_1
+PLL_OUTCTRL,VAR_0
+TRION_PLL_RUN,VAR_1
+regmap_read,FUNC_2
+trion_pll_is_enabled,FUNC_3
+pll,VAR_2
+regmap,VAR_3
+mode_regval,VAR_4
+opmode_regval,VAR_5
+ret,VAR_6

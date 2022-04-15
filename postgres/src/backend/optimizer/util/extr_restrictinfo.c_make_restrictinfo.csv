@@ -1,0 +1,14 @@
+Assert,FUNC_0
+is_andclause,FUNC_1
+is_orclause,FUNC_2
+make_restrictinfo_internal,FUNC_3
+make_sub_restrictinfos,FUNC_4
+make_restrictinfo,FUNC_5
+clause,VAR_0
+is_pushed_down,VAR_1
+outerjoin_delayed,VAR_2
+pseudoconstant,VAR_3
+security_level,VAR_4
+required_relids,VAR_5
+outer_relids,VAR_6
+nullable_relids,VAR_7

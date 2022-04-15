@@ -1,0 +1,14 @@
+BrsFolder_OnSetSelectionW,FUNC_0
+CP_ACP,VAR_0
+FALSE,VAR_1
+GetProcessHeap,FUNC_1
+HeapAlloc,FUNC_2
+HeapFree,FUNC_3
+MultiByteToWideChar,FUNC_4
+BrsFolder_OnSetSelectionA,FUNC_5
+info,VAR_2
+selection,VAR_3
+is_str,VAR_4
+selectionW,VAR_5
+result,VAR_6
+length,VAR_7

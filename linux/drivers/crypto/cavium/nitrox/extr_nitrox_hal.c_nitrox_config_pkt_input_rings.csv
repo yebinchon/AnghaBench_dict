@@ -1,0 +1,14 @@
+NPS_PKT_IN_INSTR_BADDRX,FUNC_0
+NPS_PKT_IN_INSTR_BAOFF_DBELLX,FUNC_1
+NPS_PKT_IN_INSTR_RSIZEX,FUNC_2
+NPS_PKT_IN_INT_LEVELSX,FUNC_3
+enable_pkt_input_ring,FUNC_4
+nitrox_write_csr,FUNC_5
+reset_pkt_input_ring,FUNC_6
+nitrox_config_pkt_input_rings,FUNC_7
+ndev,VAR_0
+i,VAR_1
+cmdq,VAR_2
+pkt_in_rsize,VAR_3
+pkt_in_dbell,VAR_4
+offset,VAR_5

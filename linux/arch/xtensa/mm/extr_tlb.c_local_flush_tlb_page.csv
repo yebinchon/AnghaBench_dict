@@ -1,0 +1,17 @@
+ASID_INSERT,FUNC_0
+NO_CONTEXT,VAR_0
+VM_EXEC,VAR_1
+get_rasid_register,FUNC_1
+invalidate_dtlb_mapping,FUNC_2
+invalidate_itlb_mapping,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+set_rasid_register,FUNC_6
+smp_processor_id,FUNC_7
+local_flush_tlb_page,FUNC_8
+vma,VAR_2
+page,VAR_3
+cpu,VAR_4
+mm,VAR_5
+flags,VAR_6
+oldpid,VAR_7

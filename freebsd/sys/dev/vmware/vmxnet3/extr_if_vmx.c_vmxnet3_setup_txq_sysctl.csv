@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_UQUAD,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+snprintf,FUNC_3
+vmxnet3_setup_txq_sysctl,FUNC_4
+txq,VAR_2
+ctx,VAR_3
+child,VAR_4
+node,VAR_5
+txsnode,VAR_6
+list,VAR_7
+txslist,VAR_8
+txstats,VAR_9
+namebuf,VAR_10

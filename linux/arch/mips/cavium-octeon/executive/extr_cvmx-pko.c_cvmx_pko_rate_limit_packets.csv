@@ -1,0 +1,10 @@
+CVMX_PKO_MEM_PORT_RATE0,VAR_0
+CVMX_PKO_MEM_PORT_RATE1,VAR_1
+cvmx_sysinfo_get,FUNC_0
+cvmx_write_csr,FUNC_1
+cvmx_pko_rate_limit_packets,FUNC_2
+port,VAR_2
+packets_s,VAR_3
+burst,VAR_4
+pko_mem_port_rate0,VAR_5
+pko_mem_port_rate1,VAR_6

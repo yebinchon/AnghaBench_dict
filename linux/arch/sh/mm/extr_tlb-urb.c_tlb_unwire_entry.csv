@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+MMUCR,VAR_0
+MMUCR_URB,VAR_1
+MMUCR_URB_NENTRIES,VAR_2
+MMUCR_URB_SHIFT,VAR_3
+__raw_readl,FUNC_1
+__raw_writel,FUNC_2
+ctrl_barrier,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+tlb_unwire_entry,FUNC_6
+status,VAR_4
+flags,VAR_5
+urb,VAR_6

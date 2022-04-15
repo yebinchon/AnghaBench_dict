@@ -1,0 +1,11 @@
+APIC_BASE_MSR,VAR_0
+APIC_ICR2,VAR_1
+apic_reg_write,FUNC_0
+apic_x2apic_mode,FUNC_1
+irqchip_in_kernel,FUNC_2
+kvm_x2apic_msr_write,FUNC_3
+vcpu,VAR_2
+msr,VAR_3
+data,VAR_4
+apic,VAR_5
+reg,VAR_6

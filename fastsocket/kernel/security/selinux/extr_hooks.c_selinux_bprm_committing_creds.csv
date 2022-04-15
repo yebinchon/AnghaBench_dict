@@ -1,0 +1,17 @@
+PROCESS__RLIMITINH,VAR_0
+RLIMIT_CPU,VAR_1
+RLIM_NLIMITS,VAR_2
+SECCLASS_PROCESS,VAR_3
+avc_has_perm,FUNC_0
+current,VAR_4
+flush_unauthorized_files,FUNC_1
+init_task,VAR_5
+min,FUNC_2
+update_rlimit_cpu,FUNC_3
+selinux_bprm_committing_creds,FUNC_4
+bprm,VAR_6
+new_tsec,VAR_7
+rlim,VAR_8
+initrlim,VAR_9
+rc,VAR_10
+i,VAR_11

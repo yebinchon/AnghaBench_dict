@@ -1,0 +1,13 @@
+READ_ONCE,FUNC_0
+cmpxchg,FUNC_1
+kvm_s390_get_ipte_control,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+read_lock,FUNC_5
+read_unlock,FUNC_6
+wake_up,FUNC_7
+ipte_unlock_simple,FUNC_8
+vcpu,VAR_0
+old,VAR_1
+new,VAR_2
+ic,VAR_3

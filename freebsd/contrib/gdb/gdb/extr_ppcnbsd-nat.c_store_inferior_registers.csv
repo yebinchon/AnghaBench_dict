@@ -1,0 +1,16 @@
+PIDGET,FUNC_0
+PT_GETFPREGS,VAR_0
+PT_GETREGS,VAR_1
+PT_SETFPREGS,VAR_2
+PT_SETREGS,VAR_3
+getfpregs_supplies,FUNC_1
+getregs_supplies,FUNC_2
+inferior_ptid,VAR_4
+perror_with_name,FUNC_3
+ppcnbsd_fill_fpreg,FUNC_4
+ppcnbsd_fill_reg,FUNC_5
+ptrace,FUNC_6
+store_inferior_registers,FUNC_7
+regno,VAR_5
+regs,VAR_6
+fpregs,VAR_7

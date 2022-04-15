@@ -1,0 +1,12 @@
+CAN_LED_EVENT_STOP,VAR_0
+can_led_event,FUNC_0
+clk_disable_unprepare,FUNC_1
+close_candev,FUNC_2
+free_irq,FUNC_3
+napi_disable,FUNC_4
+netdev_priv,FUNC_5
+netif_stop_queue,FUNC_6
+rcar_can_stop,FUNC_7
+rcar_can_close,FUNC_8
+ndev,VAR_1
+priv,VAR_2

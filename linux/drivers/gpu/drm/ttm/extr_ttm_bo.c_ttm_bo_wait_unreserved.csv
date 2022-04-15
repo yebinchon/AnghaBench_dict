@@ -1,0 +1,11 @@
+EINTR,VAR_0
+ERESTARTSYS,VAR_1
+dma_resv_is_locked,FUNC_0
+dma_resv_lock_interruptible,FUNC_1
+dma_resv_unlock,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+unlikely,FUNC_5
+ttm_bo_wait_unreserved,FUNC_6
+bo,VAR_2
+ret,VAR_3

@@ -1,0 +1,17 @@
+CancelIo,FUNC_0
+CloseHandle,FUNC_1
+DeviceIoControl,FUNC_2
+GetLastError,FUNC_3
+INFINITE,VAR_0
+IOCTL_CANCEL_READ,VAR_1
+MSG_DEBUG,VAR_2
+SetEvent,FUNC_4
+WaitForSingleObject,FUNC_5
+driver_ndis_get_ndisuio_handle,FUNC_6
+eloop_unregister_event,FUNC_7
+l2_ndisuio_global,VAR_3
+l2_ndisuio_set_ether_type,FUNC_8
+os_free,FUNC_9
+wpa_printf,FUNC_10
+l2_packet_deinit,FUNC_11
+l2,VAR_4

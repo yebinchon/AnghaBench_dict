@@ -1,0 +1,13 @@
+BCM2835_TS_TSENSSTAT,VAR_0
+BCM2835_TS_TSENSSTAT_DATA_MASK,VAR_1
+BCM2835_TS_TSENSSTAT_VALID,VAR_2
+EIO,VAR_3
+bcm2835_thermal_adc2temp,FUNC_0
+readl,FUNC_1
+thermal_zone_get_offset,FUNC_2
+thermal_zone_get_slope,FUNC_3
+bcm2835_thermal_get_temp,FUNC_4
+d,VAR_4
+temp,VAR_5
+data,VAR_6
+val,VAR_7

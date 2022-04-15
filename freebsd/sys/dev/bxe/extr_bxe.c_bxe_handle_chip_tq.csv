@@ -1,0 +1,15 @@
+BLOGD,FUNC_0
+BXE_CORE_LOCK,FUNC_1
+BXE_CORE_UNLOCK,FUNC_2
+DBG_LOAD,VAR_0
+IFF_DRV_RUNNING,VAR_1
+atomic_load_acq_long,FUNC_3
+bxe_init_locked,FUNC_4
+bxe_periodic_stop,FUNC_5
+bxe_stop_locked,FUNC_6
+if_getdrvflags,FUNC_7
+bxe_handle_chip_tq,FUNC_8
+context,VAR_2
+pending,VAR_3
+sc,VAR_4
+work,VAR_5

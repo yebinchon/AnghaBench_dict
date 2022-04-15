@@ -1,0 +1,14 @@
+CPIA_COMMAND_GetCameraStatus,VAR_0
+CPIA_COMMAND_GotoLoPower,VAR_1
+D_CONF,VAR_2
+EIO,VAR_3
+LO_POWER_STATE,VAR_4
+WARM_BOOT_STATE,VAR_5
+do_command,FUNC_0
+gspca_dbg,FUNC_1
+gspca_err,FUNC_2
+printstatus,FUNC_3
+goto_low_power,FUNC_4
+gspca_dev,VAR_6
+sd,VAR_7
+ret,VAR_8

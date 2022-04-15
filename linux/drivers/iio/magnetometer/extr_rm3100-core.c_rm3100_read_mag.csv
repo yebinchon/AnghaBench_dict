@@ -1,0 +1,17 @@
+BIT,FUNC_0
+IIO_VAL_INT,VAR_0
+RM3100_REG_MX2,VAR_1
+RM3100_REG_POLL,VAR_2
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+regmap_bulk_read,FUNC_3
+regmap_write,FUNC_4
+rm3100_wait_measurement,FUNC_5
+sign_extend32,FUNC_6
+rm3100_read_mag,FUNC_7
+data,VAR_3
+idx,VAR_4
+val,VAR_5
+regmap,VAR_6
+buffer,VAR_7
+ret,VAR_8

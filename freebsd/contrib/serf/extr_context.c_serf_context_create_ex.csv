@@ -1,0 +1,17 @@
+APR_POLLSET_SELECT,VAR_0
+MAX_CONN,VAR_1
+SERF_AUTHN_ALL,VAR_2
+apr_array_make,FUNC_0
+apr_hash_make,FUNC_1
+apr_pcalloc,FUNC_2
+apr_pollset_create,FUNC_3
+apr_pollset_create_ex,FUNC_4
+pollset_add,VAR_3
+pollset_rm,VAR_4
+serf_context_create_ex,FUNC_5
+user_baton,VAR_5
+addf,VAR_6
+rmf,VAR_7
+pool,VAR_8
+ctx,VAR_9
+ps,VAR_10

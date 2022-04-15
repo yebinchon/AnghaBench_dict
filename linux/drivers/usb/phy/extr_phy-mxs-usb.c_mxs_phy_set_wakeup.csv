@@ -1,0 +1,13 @@
+BM_USBPHY_CTRL_ENDPDMCHG_WKUP,VAR_0
+BM_USBPHY_CTRL_ENIDCHG_WKUP,VAR_1
+BM_USBPHY_CTRL_ENVBUSCHG_WKUP,VAR_2
+HW_USBPHY_CTRL_CLR,VAR_3
+HW_USBPHY_CTRL_SET,VAR_4
+mxs_phy_disconnect_line,FUNC_0
+to_mxs_phy,FUNC_1
+writel_relaxed,FUNC_2
+mxs_phy_set_wakeup,FUNC_3
+x,VAR_5
+enabled,VAR_6
+mxs_phy,VAR_7
+value,VAR_8

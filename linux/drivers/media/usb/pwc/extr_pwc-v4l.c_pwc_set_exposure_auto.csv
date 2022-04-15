@@ -1,0 +1,10 @@
+PRESET_SHUTTER_FORMATTER,VAR_0
+SET_LUM_CTL,VAR_1
+SHUTTER_MODE_FORMATTER,VAR_2
+V4L2_EXPOSURE_AUTO,VAR_3
+pwc_set_u16_ctrl,FUNC_0
+pwc_set_u8_ctrl,FUNC_1
+pwc_set_exposure_auto,FUNC_2
+pdev,VAR_4
+ret,VAR_5
+is_auto,VAR_6

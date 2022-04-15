@@ -1,0 +1,17 @@
+Assert,FUNC_0
+FATAL,VAR_0
+FD_CLOEXEC,VAR_1
+F_SETFD,VAR_2
+F_SETFL,VAR_3
+IsUnderPostmaster,VAR_4
+MyProcPid,VAR_5
+O_NONBLOCK,VAR_6
+close,FUNC_1
+elog,FUNC_2
+fcntl,FUNC_3
+pipe,FUNC_4
+selfpipe_owner_pid,VAR_7
+selfpipe_readfd,VAR_8
+selfpipe_writefd,VAR_9
+InitializeLatchSupport,FUNC_5
+pipefd,VAR_10

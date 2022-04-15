@@ -1,0 +1,16 @@
+ENXIO,VAR_0
+RF_ACTIVE,VAR_1
+SD_F_SIMPLEX,VAR_2
+SYS_RES_DRQ,VAR_3
+SYS_RES_IOPORT,VAR_4
+SYS_RES_IRQ,VAR_5
+bus_alloc_resource_any,FUNC_0
+isa_dma_acquire,FUNC_1
+isa_dmainit,FUNC_2
+pcm_getflags,FUNC_3
+pcm_setflags,FUNC_4
+rman_get_start,FUNC_5
+sb16_alloc_resources,FUNC_6
+sb,VAR_6
+dev,VAR_7
+rid,VAR_8

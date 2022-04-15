@@ -1,0 +1,13 @@
+IPR_HCAM_CDB_OP_CODE_CONFIG_CHANGE,VAR_0
+IPR_IOASC_IOA_WAS_RESET,VAR_1
+be32_to_cpu,FUNC_0
+dev_err,FUNC_1
+ipr_handle_config_change,FUNC_2
+ipr_send_hcam,FUNC_3
+list_add_tail,FUNC_4
+list_del,FUNC_5
+ipr_process_ccn,FUNC_6
+ipr_cmd,VAR_2
+ioa_cfg,VAR_3
+hostrcb,VAR_4
+ioasc,VAR_5

@@ -1,0 +1,14 @@
+MT_EE_TX_POWER_BYRATE,FUNC_0
+MT_EE_TX_POWER_DELTA_BW40,VAR_0
+MT_TX_PWR_CFG_0,VAR_1
+get_delta,FUNC_1
+get_unaligned_le32,FUNC_2
+mt7601u_extra_power_over_mac,FUNC_3
+mt7601u_save_power_rate,FUNC_4
+mt7601u_wr,FUNC_5
+mt7601u_config_tx_power_per_rate,FUNC_6
+dev,VAR_2
+eeprom,VAR_3
+val,VAR_4
+bw40_delta,VAR_5
+i,VAR_6

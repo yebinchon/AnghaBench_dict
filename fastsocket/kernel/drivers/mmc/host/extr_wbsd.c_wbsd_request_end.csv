@@ -1,0 +1,13 @@
+WBSD_IDX_DMA,VAR_0
+claim_dma_lock,FUNC_0
+clear_dma_ff,FUNC_1
+disable_dma,FUNC_2
+mmc_request_done,FUNC_3
+release_dma_lock,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+wbsd_write_index,FUNC_7
+wbsd_request_end,FUNC_8
+host,VAR_1
+mrq,VAR_2
+dmaflags,VAR_3

@@ -1,0 +1,11 @@
+current,VAR_0
+fixup_rt_mutex_waiters,FUNC_0
+raw_spin_lock_irq,FUNC_1
+raw_spin_unlock_irq,FUNC_2
+remove_waiter,FUNC_3
+rt_mutex_owner,FUNC_4
+try_to_take_rt_mutex,FUNC_5
+rt_mutex_cleanup_proxy_lock,FUNC_6
+lock,VAR_1
+waiter,VAR_2
+cleanup,VAR_3

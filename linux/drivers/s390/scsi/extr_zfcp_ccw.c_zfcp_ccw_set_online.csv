@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+IS_ERR,FUNC_1
+PTR_ERR,FUNC_2
+dev_err,FUNC_3
+flush_delayed_work,FUNC_4
+kref_get,FUNC_5
+zfcp_adapter_enqueue,FUNC_6
+zfcp_ccw_activate,FUNC_7
+zfcp_ccw_adapter_by_cdev,FUNC_8
+zfcp_ccw_adapter_put,FUNC_9
+zfcp_fc_inverse_conditional_port_scan,FUNC_10
+zfcp_reqlist_isempty,FUNC_11
+zfcp_ccw_set_online,FUNC_12
+cdev,VAR_0
+adapter,VAR_1

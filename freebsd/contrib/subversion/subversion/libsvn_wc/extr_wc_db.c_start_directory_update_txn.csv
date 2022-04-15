@@ -1,0 +1,15 @@
+STMT_UPDATE_BASE_NODE_PRESENCE_REVNUM_AND_REPOS_PATH,VAR_0
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_1
+presence_map,VAR_2
+svn_sqlite__bindf,FUNC_1
+svn_sqlite__get_statement,FUNC_2
+svn_sqlite__step_done,FUNC_3
+svn_wc__db_status_incomplete,VAR_3
+start_directory_update_txn,FUNC_4
+wcroot,VAR_4
+local_relpath,VAR_5
+new_repos_relpath,VAR_6
+new_rev,VAR_7
+scratch_pool,VAR_8
+stmt,VAR_9

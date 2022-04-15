@@ -1,0 +1,14 @@
+AFI_PCIE_PME,VAR_0
+PME_ACK_TIMEOUT,VAR_1
+afi_readl,FUNC_0
+afi_writel,FUNC_1
+dev_err,FUNC_2
+readl_poll_timeout,FUNC_3
+usleep_range,FUNC_4
+tegra_pcie_pme_turnoff,FUNC_5
+port,VAR_2
+pcie,VAR_3
+soc,VAR_4
+err,VAR_5
+val,VAR_6
+ack_bit,VAR_7

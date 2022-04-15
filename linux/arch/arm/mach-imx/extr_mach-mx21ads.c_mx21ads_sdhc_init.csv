@@ -1,0 +1,11 @@
+IRQF_TRIGGER_FALLING,VAR_0
+MX21ADS_IO_SD_WP,VAR_1
+MX21ADS_MMC_CD,VAR_2
+gpio_request,FUNC_0
+gpio_to_irq,FUNC_1
+request_irq,FUNC_2
+mx21ads_sdhc_init,FUNC_3
+dev,VAR_3
+detect_irq,VAR_4
+data,VAR_5
+ret,VAR_6

@@ -1,0 +1,17 @@
+LUA_NOREF,VAR_0
+LUA_REGISTRYINDEX,VAR_1
+NGX_HTTP_LUA_CO_DEAD,VAR_2
+NGX_LOG_DEBUG_HTTP,VAR_3
+coroutines_key,VAR_4
+luaL_unref,FUNC_0
+lua_pop,FUNC_1
+lua_pushlightuserdata,FUNC_2
+lua_rawget,FUNC_3
+ngx_http_lua_lightudata_mask,FUNC_4
+ngx_http_lua_probe_thread_delete,FUNC_5
+ngx_log_debug0,FUNC_6
+ngx_http_lua_del_thread,FUNC_7
+r,VAR_5
+L,VAR_6
+ctx,VAR_7
+coctx,VAR_8

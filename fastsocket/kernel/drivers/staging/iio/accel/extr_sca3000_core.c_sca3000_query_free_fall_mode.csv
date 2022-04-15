@@ -1,0 +1,17 @@
+SCA3000_FREE_FALL_DETECT,VAR_0
+SCA3000_REG_ADDR_MODE,VAR_1
+dev_get_drvdata,FUNC_0
+kfree,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sca3000_read_data,FUNC_4
+sprintf,FUNC_5
+sca3000_query_free_fall_mode,FUNC_6
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+ret,VAR_5
+len,VAR_6
+rx,VAR_7
+indio_dev,VAR_8
+st,VAR_9

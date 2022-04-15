@@ -1,0 +1,15 @@
+EOPNOTSUPP,VAR_0
+ZFCP_ERP_FAILED,VAR_1
+ZFCP_ERP_SUCCEEDED,VAR_2
+ZFCP_STATUS_ERP_TIMEDOUT,VAR_3
+list_empty,FUNC_0
+wait_event,FUNC_1
+write_lock_irq,FUNC_2
+write_unlock_irq,FUNC_3
+zfcp_dbf_rec_thread_lock,FUNC_4
+zfcp_erp_action_to_running,FUNC_5
+zfcp_fsf_exchange_port_data,FUNC_6
+zfcp_erp_adapter_strategy_open_fsf_xport,FUNC_7
+act,VAR_4
+ret,VAR_5
+adapter,VAR_6

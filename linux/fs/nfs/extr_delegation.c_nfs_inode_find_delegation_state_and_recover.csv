@@ -1,0 +1,14 @@
+NFS_I,FUNC_0
+NFS_SERVER,FUNC_1
+nfs4_schedule_state_manager,FUNC_2
+nfs4_stateid_match_other,FUNC_3
+nfs_mark_test_expired_delegation,FUNC_4
+rcu_dereference,FUNC_5
+rcu_read_lock,FUNC_6
+rcu_read_unlock,FUNC_7
+nfs_inode_find_delegation_state_and_recover,FUNC_8
+inode,VAR_0
+stateid,VAR_1
+clp,VAR_2
+delegation,VAR_3
+found,VAR_4

@@ -1,0 +1,17 @@
+TWS_DIR_UNKNOWN,VAR_0
+TWS_FREE_Q,VAR_1
+TWS_REQ_RET_INVALID,VAR_2
+TWS_REQ_STATE_BUSY,VAR_3
+TWS_REQ_STATE_FREE,VAR_4
+TWS_REQ_STATE_TRAN,VAR_5
+TWS_REQ_TYPE_SCSI_IO,VAR_6
+bzero,FUNC_0
+callout_stop,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+tws_q_remove_head,FUNC_4
+tws_get_request,FUNC_5
+sc,VAR_7
+type,VAR_8
+my_mutex,VAR_9
+r,VAR_10

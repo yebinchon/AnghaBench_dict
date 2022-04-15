@@ -1,0 +1,12 @@
+CMD_COMMAND,VAR_0
+CMD_DATA,VAR_1
+CMD_REG_CLEN_SHIFT,VAR_2
+CMD_REG_RLEN_SHIFT,VAR_3
+do_copro_command,FUNC_0
+iowrite32be,FUNC_1
+trace_fsi_master_acf_send_request,FUNC_2
+send_request,FUNC_3
+master,VAR_4
+cmd,VAR_5
+resp_bits,VAR_6
+op,VAR_7

@@ -1,0 +1,14 @@
+cfg,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_config_add_backend,FUNC_2
+git_config_backend_from_string,FUNC_3
+git_config_get_int32,FUNC_4
+git_config_new,FUNC_5
+git_config_snapshot,FUNC_6
+snapshot,VAR_1
+strlen,FUNC_7
+test_config_snapshot__snapshot_from_in_memony,FUNC_8
+configuration,VAR_2
+backend,VAR_3
+i,VAR_4

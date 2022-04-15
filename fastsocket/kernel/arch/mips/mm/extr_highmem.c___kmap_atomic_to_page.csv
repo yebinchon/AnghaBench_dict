@@ -1,0 +1,11 @@
+FIXADDR_START,VAR_0
+FIX_KMAP_BEGIN,VAR_1
+kmap_pte,VAR_2
+pte_page,FUNC_0
+virt_to_fix,FUNC_1
+virt_to_page,FUNC_2
+__kmap_atomic_to_page,FUNC_3
+ptr,VAR_3
+idx,VAR_4
+vaddr,VAR_5
+pte,VAR_6

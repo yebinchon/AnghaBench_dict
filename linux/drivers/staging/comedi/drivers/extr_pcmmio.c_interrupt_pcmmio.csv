@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+PCMMIO_INT_PENDING_REG,VAR_2
+PCMMIO_PAGE_INT_ID,VAR_3
+inb,FUNC_0
+pcmmio_dio_read,FUNC_1
+pcmmio_dio_write,FUNC_2
+pcmmio_handle_dio_intr,FUNC_3
+interrupt_pcmmio,FUNC_4
+irq,VAR_4
+d,VAR_5
+dev,VAR_6
+s,VAR_7
+triggered,VAR_8
+int_pend,VAR_9

@@ -1,0 +1,14 @@
+blk_cleanup_queue,FUNC_0
+blk_mq_free_tag_set,FUNC_1
+blk_mq_stop_hw_queues,FUNC_2
+del_gendisk,FUNC_3
+flush_work,FUNC_4
+gnttab_cancel_free_callback,FUNC_5
+put_disk,FUNC_6
+xlbd_release_minors,FUNC_7
+xlvbd_release_gendisk,FUNC_8
+info,VAR_0
+minor,VAR_1
+nr_minors,VAR_2
+i,VAR_3
+rinfo,VAR_4

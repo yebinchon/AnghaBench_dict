@@ -1,0 +1,17 @@
+NAND_CMD_GET_FEATURES,VAR_0
+NFC_OUTPUT,VAR_1
+ONFI_SUBFEATURE_PARAM_LEN,VAR_2
+memcpy32_fromio,FUNC_0
+mxc_do_addr_cycle,FUNC_1
+nand_get_controller_data,FUNC_2
+nand_to_mtd,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+stub3,FUNC_6
+mxc_nand_get_features,FUNC_7
+chip,VAR_3
+addr,VAR_4
+subfeature_param,VAR_5
+mtd,VAR_6
+host,VAR_7
+i,VAR_8

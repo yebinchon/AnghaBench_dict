@@ -1,0 +1,17 @@
+FLDTCNTR,FUNC_0
+NAND_CMD_READ0,VAR_0
+NAND_CMD_READSTART,VAR_1
+empty_fifo,FUNC_1
+mtd_to_flctl,FUNC_2
+read_fiforeg,FUNC_3
+set_addr,FUNC_4
+set_cmd_regs,FUNC_5
+start_translation,FUNC_6
+wait_completion,FUNC_7
+writel,FUNC_8
+execmd_read_oob,FUNC_9
+mtd,VAR_2
+page_addr,VAR_3
+flctl,VAR_4
+page_sectors,VAR_5
+i,VAR_6

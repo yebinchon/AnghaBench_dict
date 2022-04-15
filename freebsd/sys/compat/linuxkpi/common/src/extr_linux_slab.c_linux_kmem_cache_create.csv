@@ -1,0 +1,17 @@
+ALIGN,FUNC_0
+M_KMALLOC,VAR_0
+M_WAITOK,VAR_1
+SLAB_HWCACHE_ALIGN,VAR_2
+SLAB_TYPESAFE_BY_RCU,VAR_3
+UMA_ALIGN_CACHE,VAR_4
+UMA_ZONE_ZINIT,VAR_5
+linux_kmem_ctor,VAR_6
+malloc,FUNC_1
+uma_zcreate,FUNC_2
+linux_kmem_cache_create,FUNC_3
+name,VAR_7
+size,VAR_8
+align,VAR_9
+flags,VAR_10
+ctor,VAR_11
+c,VAR_12

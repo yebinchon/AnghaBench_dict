@@ -1,0 +1,15 @@
+EOPNOTSUPP,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+HWRM_PORT_PHY_MDIO_WRITE,VAR_2
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+cpu_to_le16,FUNC_1
+hwrm_send_message,FUNC_2
+mdio_phy_id_devad,FUNC_3
+mdio_phy_id_is_c45,FUNC_4
+mdio_phy_id_prtad,FUNC_5
+bnxt_hwrm_port_phy_write,FUNC_6
+bp,VAR_3
+phy_addr,VAR_4
+reg,VAR_5
+val,VAR_6
+req,VAR_7

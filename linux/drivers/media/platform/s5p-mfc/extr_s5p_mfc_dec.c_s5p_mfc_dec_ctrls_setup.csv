@@ -1,0 +1,14 @@
+IS_MFC51_PRIV,FUNC_0
+NUM_CTRLS,VAR_0
+V4L2_CTRL_FLAG_VOLATILE,VAR_1
+controls,VAR_2
+memset,FUNC_1
+mfc_err,FUNC_2
+s5p_mfc_dec_ctrl_ops,VAR_3
+v4l2_ctrl_handler_init,FUNC_3
+v4l2_ctrl_new_custom,FUNC_4
+v4l2_ctrl_new_std,FUNC_5
+s5p_mfc_dec_ctrls_setup,FUNC_6
+ctx,VAR_4
+cfg,VAR_5
+i,VAR_6

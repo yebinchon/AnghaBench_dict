@@ -1,0 +1,11 @@
+LPFC_EQID_HI_FIELD_SHIFT,VAR_0
+LPFC_QUEUE_TYPE_EVENT,VAR_1
+bf_set,FUNC_0
+lpfc_eqcq_doorbell_eqci,VAR_2
+lpfc_eqcq_doorbell_eqid_hi,VAR_3
+lpfc_eqcq_doorbell_eqid_lo,VAR_4
+lpfc_eqcq_doorbell_qt,VAR_5
+writel,FUNC_1
+lpfc_sli4_eq_clr_intr,FUNC_2
+q,VAR_6
+doorbell,VAR_7

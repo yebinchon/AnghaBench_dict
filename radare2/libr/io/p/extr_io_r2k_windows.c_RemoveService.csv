@@ -1,0 +1,15 @@
+CloseServiceHandle,FUNC_0
+DELETE,VAR_0
+DeleteService,FUNC_1
+FALSE,VAR_1
+OpenSCManager,FUNC_2
+OpenService,FUNC_3
+SC_MANAGER_CREATE_SERVICE,VAR_2
+SERVICE_START,VAR_3
+SERVICE_STOP,VAR_4
+TRUE,VAR_5
+RemoveService,FUNC_4
+lpServiceName,VAR_6
+hService,VAR_7
+ret,VAR_8
+hSCManager,VAR_9

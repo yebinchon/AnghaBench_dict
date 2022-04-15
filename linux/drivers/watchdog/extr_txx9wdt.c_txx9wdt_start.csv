@@ -1,0 +1,14 @@
+TXx9_TMTCR_CCDE,VAR_0
+TXx9_TMTCR_TCE,VAR_1
+TXx9_TMTCR_TMODE_WDOG,VAR_2
+TXx9_TMWTMR_TWC,VAR_3
+TXx9_TMWTMR_TWIE,VAR_4
+WD_TIMER_CCD,VAR_5
+WD_TIMER_CLK,VAR_6
+__raw_writel,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+txx9_lock,VAR_7
+txx9wdt_reg,VAR_8
+txx9wdt_start,FUNC_3
+wdt_dev,VAR_9

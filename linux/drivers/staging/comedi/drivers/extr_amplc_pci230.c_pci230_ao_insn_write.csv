@@ -1,0 +1,16 @@
+CR_CHAN,FUNC_0
+CR_RANGE,FUNC_1
+PCI230_DACCON,VAR_0
+comedi_range_is_bipolar,FUNC_2
+outw,FUNC_3
+pci230_ao_write_nofifo,FUNC_4
+pci230_ao_insn_write,FUNC_5
+dev,VAR_1
+s,VAR_2
+insn,VAR_3
+data,VAR_4
+devpriv,VAR_5
+chan,VAR_6
+range,VAR_7
+val,VAR_8
+i,VAR_9

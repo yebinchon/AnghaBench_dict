@@ -1,0 +1,12 @@
+EXIT_QUALIFICATION,VAR_0
+VMX_INSTRUCTION_INFO,VAR_1
+get_vmx_mem_address,FUNC_0
+kvm_inject_page_fault,FUNC_1
+kvm_read_guest_virt,FUNC_2
+vmcs_read32,FUNC_3
+vmcs_readl,FUNC_4
+nested_vmx_get_vmptr,FUNC_5
+vcpu,VAR_2
+vmpointer,VAR_3
+gva,VAR_4
+e,VAR_5

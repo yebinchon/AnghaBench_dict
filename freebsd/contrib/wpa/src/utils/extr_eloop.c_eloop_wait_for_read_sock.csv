@@ -1,0 +1,15 @@
+EVFILT_READ,VAR_0
+EV_ADD,VAR_1
+EV_ONESHOT,VAR_2
+EV_SET,FUNC_0
+FD_SET,FUNC_1
+FD_ZERO,FUNC_2
+POLLIN,VAR_3
+close,FUNC_3
+kevent,FUNC_4
+kqueue,FUNC_5
+os_memset,FUNC_6
+poll,FUNC_7
+select,FUNC_8
+eloop_wait_for_read_sock,FUNC_9
+sock,VAR_4

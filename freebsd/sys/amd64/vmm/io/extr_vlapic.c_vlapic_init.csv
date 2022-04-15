@@ -1,0 +1,11 @@
+APICBASE_BSP,VAR_0
+APICBASE_ENABLED,VAR_1
+DEFAULT_APIC_BASE,VAR_2
+KASSERT,FUNC_0
+MTX_SPIN,VAR_3
+callout_init,FUNC_1
+mtx_init,FUNC_2
+vlapic_reset,FUNC_3
+vm_get_maxcpus,FUNC_4
+vlapic_init,FUNC_5
+vlapic,VAR_4

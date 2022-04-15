@@ -1,0 +1,8 @@
+BOOK3S_IRQPRIO_EXTERNAL,VAR_0
+LPCR_MER,VAR_1
+SPRN_LPCR,VAR_2
+clear_bit,FUNC_0
+mfspr,FUNC_1
+mtspr,FUNC_2
+icp_rm_clr_vcpu_irq,FUNC_3
+vcpu,VAR_3

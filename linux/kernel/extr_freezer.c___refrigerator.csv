@@ -1,0 +1,15 @@
+PF_FROZEN,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+current,VAR_2
+freezer_lock,VAR_3
+freezing,FUNC_0
+kthread_should_stop,FUNC_1
+pr_debug,FUNC_2
+schedule,FUNC_3
+set_current_state,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+__refrigerator,FUNC_7
+check_kthr_stop,VAR_4
+was_frozen,VAR_5
+save,VAR_6

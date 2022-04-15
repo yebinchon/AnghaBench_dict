@@ -1,0 +1,15 @@
+SDHCI_INT_STATUS,VAR_0
+platform_get_drvdata,FUNC_0
+pm_runtime_disable,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_put_noidle,FUNC_3
+sdhci_free_host,FUNC_4
+sdhci_readl,FUNC_5
+sdhci_remove_host,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+sdhci_acpi_remove,FUNC_9
+pdev,VAR_1
+c,VAR_2
+dev,VAR_3
+dead,VAR_4

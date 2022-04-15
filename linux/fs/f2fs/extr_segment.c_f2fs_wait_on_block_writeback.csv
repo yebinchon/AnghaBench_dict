@@ -1,0 +1,13 @@
+DATA,VAR_0
+F2FS_I_SB,FUNC_0
+META_MAPPING,FUNC_1
+__is_valid_data_blkaddr,FUNC_2
+f2fs_post_read_required,FUNC_3
+f2fs_put_page,FUNC_4
+f2fs_wait_on_page_writeback,FUNC_5
+find_lock_page,FUNC_6
+f2fs_wait_on_block_writeback,FUNC_7
+inode,VAR_1
+blkaddr,VAR_2
+sbi,VAR_3
+cpage,VAR_4

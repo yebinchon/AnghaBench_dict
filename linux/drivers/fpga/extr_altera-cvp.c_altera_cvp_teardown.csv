@@ -1,0 +1,15 @@
+VSE_CVP_PROG_CTRL,VAR_0
+VSE_CVP_PROG_CTRL_CONFIG,VAR_1
+VSE_CVP_PROG_CTRL_START_XFER,VAR_2
+VSE_CVP_STATUS_CFG_RDY,VAR_3
+altera_cvp_wait_status,FUNC_0
+altera_read_config_dword,FUNC_1
+altera_write_config_dword,FUNC_2
+dev_err,FUNC_3
+stub1,FUNC_4
+altera_cvp_teardown,FUNC_5
+mgr,VAR_4
+info,VAR_5
+conf,VAR_6
+ret,VAR_7
+val,VAR_8

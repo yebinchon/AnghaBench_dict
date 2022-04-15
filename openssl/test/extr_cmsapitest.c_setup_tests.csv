@@ -1,0 +1,17 @@
+ADD_TEST,FUNC_0
+BIO_free,FUNC_1
+BIO_new_file,FUNC_2
+PEM_read_bio_PrivateKey,FUNC_3
+PEM_read_bio_X509,FUNC_4
+TEST_ptr,FUNC_5
+TEST_true,FUNC_6
+X509_free,FUNC_7
+cert,VAR_0
+privkey,VAR_1
+test_encrypt_decrypt,VAR_2
+test_get_argument,FUNC_8
+setup_tests,FUNC_9
+certin,VAR_3
+privkeyin,VAR_4
+certbio,VAR_5
+privkeybio,VAR_6

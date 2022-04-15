@@ -1,0 +1,10 @@
+ASSERT_RTNL,FUNC_0
+IEEE802154_DEV_TO_SUB_IF,FUNC_1
+SDATA_STATE_RUNNING,VAR_0
+clear_bit,FUNC_2
+ieee802154_stop_device,FUNC_3
+netif_stop_queue,FUNC_4
+mac802154_slave_close,FUNC_5
+dev,VAR_1
+sdata,VAR_2
+local,VAR_3

@@ -1,0 +1,17 @@
+ASSERT_VALID_LEAF_NODE,FUNC_0
+SQLITE_OK,VAR_0
+assert,FUNC_1
+block_insert,FUNC_2
+getVarint32,FUNC_3
+interiorWriterAppend,FUNC_4
+interiorWriterInit,FUNC_5
+leafWriterInternalFlush,FUNC_6
+v,VAR_1
+pWriter,VAR_2
+iData,VAR_3
+nData,VAR_4
+iBlockid,VAR_5
+pStartingTerm,VAR_6
+nStartingTerm,VAR_7
+rc,VAR_8
+n,VAR_9

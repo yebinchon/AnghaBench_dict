@@ -1,0 +1,17 @@
+EJUSTRETURN,VAR_0
+KASSERT,FUNC_0
+PROC_LOCK,FUNC_1
+PROC_UNLOCK,FUNC_2
+P_HADTHREADS,VAR_1
+SINGLE_BOUNDARY,VAR_2
+SINGLE_EXIT,VAR_3
+TDP_EXECVMSPC,VAR_4
+curthread,VAR_5
+thread_single,FUNC_3
+thread_single_end,FUNC_4
+vmspace_free,FUNC_5
+post_execve,FUNC_6
+td,VAR_6
+error,VAR_7
+oldvmspace,VAR_8
+p,VAR_9

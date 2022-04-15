@@ -1,0 +1,9 @@
+PCI_COMMAND,VAR_0
+PCI_STATUS_REC_MASTER_ABORT,VAR_1
+celleb_epci_get_epci_base,FUNC_0
+in_be32,FUNC_1
+out_be32,FUNC_2
+clear_and_disable_master_abort_interrupt,FUNC_3
+hose,VAR_2
+epci_base,VAR_3
+reg,VAR_4

@@ -1,0 +1,15 @@
+DMA_BIDIRECTIONAL,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+afu_dma_region_find_iova,FUNC_0
+afu_dma_region_remove,FUNC_1
+afu_dma_unpin_pages,FUNC_2
+dfl_fpga_pdata_to_parent,FUNC_3
+dma_unmap_page,FUNC_4
+kfree,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+afu_dma_unmap_region,FUNC_8
+pdata,VAR_3
+iova,VAR_4
+region,VAR_5

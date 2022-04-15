@@ -1,0 +1,12 @@
+NAND_ALE,VAR_0
+NAND_CLE,VAR_1
+NAND_CMD_NONE,VAR_2
+PALMTX_NAND_ALE_VIRT,VAR_3
+PALMTX_NAND_CLE_VIRT,VAR_4
+writeb,FUNC_0
+palmtx_nand_cmd_ctl,FUNC_1
+mtd,VAR_5
+cmd,VAR_6
+ctrl,VAR_7
+this,VAR_8
+nandaddr,VAR_9

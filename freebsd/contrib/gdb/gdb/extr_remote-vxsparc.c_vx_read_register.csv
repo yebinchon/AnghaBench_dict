@@ -1,0 +1,17 @@
+PTRACE_GETFPREGS,VAR_0
+PTRACE_GETREGS,VAR_1
+SPARC_FPREG_PLEN,VAR_2
+SPARC_GREG_PLEN,VAR_3
+current_regcache,VAR_4
+memset,FUNC_0
+net_read_registers,FUNC_1
+sparc32_supply_fpregset,FUNC_2
+sparc32_supply_gregset,FUNC_3
+target_has_fp,VAR_5
+vxsparc_gregset,VAR_6
+vx_read_register,FUNC_4
+regnum,VAR_7
+regcache,VAR_8
+gregs,VAR_9
+fpregs,VAR_10
+sp,VAR_11

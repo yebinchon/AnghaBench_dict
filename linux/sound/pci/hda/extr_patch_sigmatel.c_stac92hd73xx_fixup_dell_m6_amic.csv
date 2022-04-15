@@ -1,0 +1,7 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+snd_hda_codec_set_pincfg,FUNC_0
+stac92hd73xx_fixup_dell,FUNC_1
+stac92hd73xx_fixup_dell_m6_amic,FUNC_2
+codec,VAR_1
+fix,VAR_2
+action,VAR_3

@@ -1,0 +1,17 @@
+ARG_CHECK,FUNC_0
+SECP256K1_FLAGS_BIT_COMPRESSION,VAR_0
+SECP256K1_FLAGS_TYPE_COMPRESSION,VAR_1
+SECP256K1_FLAGS_TYPE_MASK,VAR_2
+VERIFY_CHECK,FUNC_1
+memset,FUNC_2
+secp256k1_eckey_pubkey_serialize,FUNC_3
+secp256k1_pubkey_load,FUNC_4
+secp256k1_ec_pubkey_serialize,FUNC_5
+ctx,VAR_3
+output,VAR_4
+outputlen,VAR_5
+pubkey,VAR_6
+flags,VAR_7
+Q,VAR_8
+len,VAR_9
+ret,VAR_10

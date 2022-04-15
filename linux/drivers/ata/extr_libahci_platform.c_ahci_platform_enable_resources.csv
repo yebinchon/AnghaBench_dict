@@ -1,0 +1,10 @@
+ahci_platform_disable_clks,FUNC_0
+ahci_platform_disable_regulators,FUNC_1
+ahci_platform_enable_clks,FUNC_2
+ahci_platform_enable_phys,FUNC_3
+ahci_platform_enable_regulators,FUNC_4
+reset_control_assert,FUNC_5
+reset_control_deassert,FUNC_6
+ahci_platform_enable_resources,FUNC_7
+hpriv,VAR_0
+rc,VAR_1

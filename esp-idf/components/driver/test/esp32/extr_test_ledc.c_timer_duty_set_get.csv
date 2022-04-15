@@ -1,0 +1,11 @@
+TEST_ASSERT_EQUAL_INT32,FUNC_0
+TEST_ESP_OK,FUNC_1
+ledc_get_duty,FUNC_2
+ledc_set_duty,FUNC_3
+ledc_update_duty,FUNC_4
+portTICK_RATE_MS,VAR_0
+vTaskDelay,FUNC_5
+timer_duty_set_get,FUNC_6
+speed_mode,VAR_1
+channel,VAR_2
+duty,VAR_3

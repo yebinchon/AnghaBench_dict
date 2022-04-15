@@ -1,0 +1,12 @@
+DISPATCH_PROPERTYGET,VAR_0
+VT_BSTR,VAR_1
+V_BSTR,FUNC_0
+VariantClear,FUNC_1
+invoke,FUNC_2
+lstrcpyW,FUNC_3
+pInstaller,VAR_2
+Installer_VersionGet,FUNC_4
+szVersion,VAR_3
+varresult,VAR_4
+dispparams,VAR_5
+hr,VAR_6

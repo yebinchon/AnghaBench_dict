@@ -1,0 +1,17 @@
+REG_RXFLTMAP0,VAR_0
+REG_RXFLTMAP2,VAR_1
+REG_TXPAUSE,VAR_2
+REG_USB_HIMR,VAR_3
+rtl8xxxu_free_rx_resources,FUNC_0
+rtl8xxxu_free_tx_resources,FUNC_1
+rtl8xxxu_write16,FUNC_2
+rtl8xxxu_write32,FUNC_3
+rtl8xxxu_write8,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+stub1,FUNC_7
+usb_kill_anchored_urbs,FUNC_8
+rtl8xxxu_stop,FUNC_9
+hw,VAR_4
+priv,VAR_5
+flags,VAR_6

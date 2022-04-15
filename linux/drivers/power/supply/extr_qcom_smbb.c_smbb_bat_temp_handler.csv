@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+SMBB_BAT_TEMP_STATUS,VAR_1
+STATUS_BAT_HOT,VAR_2
+STATUS_BAT_OK,VAR_3
+TEMP_STATUS_HOT,VAR_4
+TEMP_STATUS_OK,VAR_5
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+power_supply_changed,FUNC_2
+regmap_read,FUNC_3
+smbb_bat_temp_handler,FUNC_4
+irq,VAR_6
+_data,VAR_7
+chg,VAR_8
+val,VAR_9
+rc,VAR_10

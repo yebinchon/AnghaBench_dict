@@ -1,0 +1,17 @@
+IB_EVENT_PORT_ERR,VAR_0
+IB_EVENT_QP_FATAL,VAR_1
+IB_QPS_ERR,VAR_2
+IB_QP_STATE,VAR_3
+OCRDMA_MAX_QP,VAR_4
+_ocrdma_modify_qp,FUNC_0
+ib_dispatch_event,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+ocrdma_close,FUNC_4
+dev,VAR_5
+i,VAR_6
+qp,VAR_7
+cur_qp,VAR_8
+err_event,VAR_9
+attrs,VAR_10
+attr_mask,VAR_11

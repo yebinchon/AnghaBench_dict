@@ -1,0 +1,12 @@
+LWLockWaitListLock,FUNC_0
+LWLockWaitListUnlock,FUNC_1
+LW_VAL_EXCLUSIVE,VAR_0
+pg_atomic_read_u32,FUNC_2
+LWLockConflictsWithVar,FUNC_3
+lock,VAR_1
+valptr,VAR_2
+oldval,VAR_3
+newval,VAR_4
+result,VAR_5
+mustwait,VAR_6
+value,VAR_7

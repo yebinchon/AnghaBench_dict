@@ -1,0 +1,13 @@
+IEEE80211_IOC_SSID,VAR_0
+IEEE80211_NWID_LEN,VAR_1
+SIOCG80211NWID,VAR_2
+get80211var,FUNC_0
+ioctl,FUNC_1
+os_memcpy,FUNC_2
+os_memset,FUNC_3
+os_strlcpy,FUNC_4
+bsd_get_ssid,FUNC_5
+priv,VAR_3
+ssid,VAR_4
+len,VAR_5
+drv,VAR_6

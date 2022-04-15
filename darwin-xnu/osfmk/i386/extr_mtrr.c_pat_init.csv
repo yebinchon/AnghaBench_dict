@@ -1,0 +1,13 @@
+CACHE_CONTROL_PAT,VAR_0
+CPUID_FEATURE_PAT,VAR_1
+DBG,FUNC_0
+FALSE,VAR_2
+MSR_IA32_CR_PAT,VAR_3
+cpuid_features,FUNC_1
+get_cpu_number,FUNC_2
+ml_set_interrupts_enabled,FUNC_3
+mtrr_update_action,FUNC_4
+rdmsr64,FUNC_5
+pat_init,FUNC_6
+istate,VAR_4
+pat,VAR_5

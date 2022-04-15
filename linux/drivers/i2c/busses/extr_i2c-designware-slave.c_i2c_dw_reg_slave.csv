@@ -1,0 +1,13 @@
+DW_IC_SAR,VAR_0
+EAFNOSUPPORT,VAR_1
+EBUSY,VAR_2
+I2C_CLIENT_TEN,VAR_3
+STATUS_IDLE,VAR_4
+__i2c_dw_disable_nowait,FUNC_0
+__i2c_dw_enable,FUNC_1
+dw_writel,FUNC_2
+i2c_get_adapdata,FUNC_3
+pm_runtime_get_sync,FUNC_4
+i2c_dw_reg_slave,FUNC_5
+slave,VAR_5
+dev,VAR_6

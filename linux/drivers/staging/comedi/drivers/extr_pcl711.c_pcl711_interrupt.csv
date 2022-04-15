@@ -1,0 +1,17 @@
+COMEDI_CB_EOA,VAR_0
+IRQ_HANDLED,VAR_1
+PCL711_INT_STAT_CLR,VAR_2
+PCL711_INT_STAT_REG,VAR_3
+TRIG_COUNT,VAR_4
+comedi_buf_write_samples,FUNC_0
+comedi_handle_events,FUNC_1
+dev_err,FUNC_2
+outb,FUNC_3
+pcl711_ai_get_sample,FUNC_4
+pcl711_interrupt,FUNC_5
+irq,VAR_5
+d,VAR_6
+dev,VAR_7
+s,VAR_8
+cmd,VAR_9
+data,VAR_10

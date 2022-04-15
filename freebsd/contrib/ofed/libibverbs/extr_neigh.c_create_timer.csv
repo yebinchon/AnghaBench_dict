@@ -1,0 +1,14 @@
+CLOCK_MONOTONIC,VAR_0
+NUM_OF_TRIES,VAR_1
+TFD_CLOEXEC,VAR_2
+TFD_NONBLOCK,VAR_3
+bzero,FUNC_0
+close,FUNC_1
+timerfd_create,FUNC_2
+timerfd_settime,FUNC_3
+create_timer,FUNC_4
+neigh_handler,VAR_4
+user_timeout,VAR_5
+timeout,VAR_6
+timer_time,VAR_7
+timer_fd,VAR_8

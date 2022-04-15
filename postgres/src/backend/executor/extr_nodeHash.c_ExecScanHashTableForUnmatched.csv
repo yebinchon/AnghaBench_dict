@@ -1,0 +1,12 @@
+CHECK_FOR_INTERRUPTS,FUNC_0
+ExecStoreMinimalTuple,FUNC_1
+HJTUPLE_MINTUPLE,FUNC_2
+HeapTupleHeaderHasMatch,FUNC_3
+ResetExprContext,FUNC_4
+ExecScanHashTableForUnmatched,FUNC_5
+hjstate,VAR_0
+econtext,VAR_1
+hashtable,VAR_2
+hashTuple,VAR_3
+j,VAR_4
+inntuple,VAR_5

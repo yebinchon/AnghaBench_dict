@@ -1,0 +1,11 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_MPRS_LEN,VAR_0
+be16_to_cpu,FUNC_1
+mlxsw_reg_mprs_pack,FUNC_2
+mlxsw_reg_write,FUNC_3
+mprs,VAR_1
+__mlxsw_sp_nve_parsing_set,FUNC_4
+mlxsw_sp,VAR_2
+parsing_depth,VAR_3
+udp_dport,VAR_4
+mprs_pl,VAR_5

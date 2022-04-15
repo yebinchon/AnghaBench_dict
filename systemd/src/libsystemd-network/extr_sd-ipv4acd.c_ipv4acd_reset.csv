@@ -1,0 +1,8 @@
+IPV4ACD_STATE_INIT,VAR_0
+assert,FUNC_0
+event_source_disable,FUNC_1
+ipv4acd_set_state,FUNC_2
+safe_close,FUNC_3
+sd_event_source_unref,FUNC_4
+ipv4acd_reset,FUNC_5
+acd,VAR_1

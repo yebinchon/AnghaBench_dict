@@ -1,0 +1,12 @@
+del_timer_sync,FUNC_0
+disc_data_lock,VAR_0
+kfree,FUNC_1
+netif_stop_queue,FUNC_2
+refcount_dec_and_test,FUNC_3
+unregister_netdev,FUNC_4
+wait_for_completion,FUNC_5
+write_lock_bh,FUNC_6
+write_unlock_bh,FUNC_7
+sixpack_close,FUNC_8
+tty,VAR_1
+sp,VAR_2

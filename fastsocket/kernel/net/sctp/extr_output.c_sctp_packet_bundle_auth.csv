@@ -1,0 +1,10 @@
+SCTP_CID_AUTH,VAR_0
+SCTP_XMIT_OK,VAR_1
+sctp_make_auth,FUNC_0
+sctp_packet_append_chunk,FUNC_1
+sctp_packet_bundle_auth,FUNC_2
+pkt,VAR_2
+chunk,VAR_3
+asoc,VAR_4
+auth,VAR_5
+retval,VAR_6

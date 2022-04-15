@@ -1,0 +1,8 @@
+QSPI_CR,VAR_0
+QSPI_CR_QSPIEN,VAR_1
+QSPI_CR_SWRST,VAR_2
+QSPI_MR,VAR_3
+QSPI_MR_SMM,VAR_4
+writel_relaxed,FUNC_0
+atmel_qspi_init,FUNC_1
+aq,VAR_5

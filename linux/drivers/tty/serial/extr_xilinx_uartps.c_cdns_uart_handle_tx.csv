@@ -1,0 +1,16 @@
+CDNS_UART_FIFO,VAR_0
+CDNS_UART_IDR,VAR_1
+CDNS_UART_IXR_TXEMPTY,VAR_2
+CDNS_UART_SR,VAR_3
+CDNS_UART_SR_TXFULL,VAR_4
+UART_XMIT_SIZE,VAR_5
+WAKEUP_CHARS,VAR_6
+readl,FUNC_0
+uart_circ_chars_pending,FUNC_1
+uart_circ_empty,FUNC_2
+uart_write_wakeup,FUNC_3
+writel,FUNC_4
+cdns_uart_handle_tx,FUNC_5
+dev_id,VAR_7
+port,VAR_8
+numbytes,VAR_9

@@ -1,0 +1,17 @@
+audit_retry_queue,VAR_0
+auditd_conn,VAR_1
+auditd_conn_free,VAR_2
+auditd_conn_lock,VAR_3
+call_rcu,FUNC_0
+kauditd_hold_skb,FUNC_1
+lockdep_is_held,FUNC_2
+rcu_assign_pointer,FUNC_3
+rcu_dereference_protected,FUNC_4
+skb_dequeue,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+auditd_reset,FUNC_8
+ac,VAR_4
+flags,VAR_5
+skb,VAR_6
+ac_old,VAR_7

@@ -1,0 +1,7 @@
+TCP_ACTION_FIN,VAR_0
+TCP_STATE_MASK,VAR_1
+new_state,VAR_2
+tcp_set_state,FUNC_0
+make_close_transition,FUNC_1
+sk,VAR_3
+next,VAR_4

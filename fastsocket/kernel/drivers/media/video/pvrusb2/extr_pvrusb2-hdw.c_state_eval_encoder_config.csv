@@ -1,0 +1,11 @@
+HZ,VAR_0
+PVR2_PATHWAY_ANALOG,VAR_1
+TIME_MSEC_ENCODER_WAIT,VAR_2
+add_timer,FUNC_0
+del_timer_sync,FUNC_1
+jiffies,VAR_3
+pvr2_encoder_configure,FUNC_2
+timer_pending,FUNC_3
+trace_stbit,FUNC_4
+state_eval_encoder_config,FUNC_5
+hdw,VAR_4

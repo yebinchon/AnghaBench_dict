@@ -1,0 +1,13 @@
+ASN1_TIME_to_tm,FUNC_0
+TEST_true,FUNC_1
+gmtime,FUNC_2
+mktime,FUNC_3
+ossl_cmp_hdr_update_messageTime,FUNC_4
+time,FUNC_5
+execute_HDR_update_messageTime_test,FUNC_6
+fixture,VAR_0
+hdrtm,VAR_1
+hdrtime,VAR_2
+before,VAR_3
+after,VAR_4
+now,VAR_5

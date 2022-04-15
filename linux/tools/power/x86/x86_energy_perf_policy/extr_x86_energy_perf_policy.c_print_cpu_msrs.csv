@@ -1,0 +1,16 @@
+MSR_HWP_CAPABILITIES,VAR_0
+MSR_HWP_REQUEST,VAR_1
+MSR_IA32_ENERGY_PERF_BIAS,VAR_2
+get_msr,FUNC_0
+has_epb,VAR_3
+has_hwp,VAR_4
+print_hwp_cap,FUNC_1
+print_hwp_request,FUNC_2
+printf,FUNC_3
+read_hwp_cap,FUNC_4
+read_hwp_request,FUNC_5
+print_cpu_msrs,FUNC_6
+cpu,VAR_5
+msr,VAR_6
+req,VAR_7
+cap,VAR_8

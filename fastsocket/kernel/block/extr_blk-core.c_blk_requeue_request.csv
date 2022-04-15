@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+blk_clear_rq_complete,FUNC_1
+blk_delete_timer,FUNC_2
+blk_queue_end_tag,FUNC_3
+blk_queued_rq,FUNC_4
+blk_rq_tagged,FUNC_5
+elv_requeue_request,FUNC_6
+trace_block_rq_requeue,FUNC_7
+blk_requeue_request,FUNC_8
+q,VAR_0
+rq,VAR_1

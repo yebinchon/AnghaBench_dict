@@ -1,0 +1,14 @@
+local_bh_disable,FUNC_0
+local_bh_enable,FUNC_1
+skb_copy_and_csum_datagram_iovec,FUNC_2
+skb_copy_datagram_iovec,FUNC_3
+skb_csum_unnecessary,FUNC_4
+tcp_rcv_space_adjust,FUNC_5
+tcp_sk,FUNC_6
+tcp_copy_to_iovec,FUNC_7
+sk,VAR_0
+skb,VAR_1
+hlen,VAR_2
+tp,VAR_3
+chunk,VAR_4
+err,VAR_5

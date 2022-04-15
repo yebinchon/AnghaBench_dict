@@ -1,0 +1,15 @@
+BEV_OPT_DEFER_CALLBACKS,VAR_0
+BUFFEREVENT_SSL_CONNECTING,VAR_1
+HTTP_SSL_FILTER,VAR_2
+SSL_new,FUNC_0
+bufferevent_openssl_filter_new,FUNC_1
+bufferevent_openssl_set_allow_dirty_shutdown,FUNC_2
+bufferevent_openssl_socket_new,FUNC_3
+bufferevent_socket_new,FUNC_4
+get_ssl_ctx,FUNC_5
+create_bev,FUNC_6
+base,VAR_3
+fd,VAR_4
+ssl_mask,VAR_5
+flags,VAR_6
+bev,VAR_7

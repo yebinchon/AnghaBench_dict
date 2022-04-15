@@ -1,0 +1,13 @@
+LIO_CN23XX_INTR_PI_INT,VAR_0
+LIO_CN23XX_INTR_PO_INT,VAR_1
+LIO_MSIX_PI_INT,VAR_2
+LIO_MSIX_PO_INT,VAR_3
+lio_dev_err,FUNC_0
+lio_read_csr64,FUNC_1
+lio_cn23xx_pf_msix_interrupt_handler,FUNC_2
+dev,VAR_4
+ioq_vector,VAR_5
+oct,VAR_6
+droq,VAR_7
+pkts_sent,VAR_8
+ret,VAR_9

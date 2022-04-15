@@ -1,0 +1,16 @@
+DRM_ERROR,FUNC_0
+EINVAL,VAR_0
+ENOENT,VAR_1
+drm_gem_object_lookup,FUNC_1
+drm_gem_object_unreference,FUNC_2
+i915_gem_object_unpin,FUNC_3
+i915_mutex_lock_interruptible,FUNC_4
+mutex_unlock,FUNC_5
+to_intel_bo,FUNC_6
+i915_gem_unpin_ioctl,FUNC_7
+dev,VAR_2
+data,VAR_3
+file,VAR_4
+args,VAR_5
+obj,VAR_6
+ret,VAR_7

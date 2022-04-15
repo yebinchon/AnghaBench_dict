@@ -1,0 +1,13 @@
+ENOMEM,VAR_0
+FSG_BUFLEN,VAR_1
+GFP_KERNEL,VAR_2
+_fsg_common_free_buffers,FUNC_0
+kcalloc,FUNC_1
+kmalloc,FUNC_2
+unlikely,FUNC_3
+fsg_common_set_num_buffers,FUNC_4
+common,VAR_3
+n,VAR_4
+bh,VAR_5
+buffhds,VAR_6
+i,VAR_7

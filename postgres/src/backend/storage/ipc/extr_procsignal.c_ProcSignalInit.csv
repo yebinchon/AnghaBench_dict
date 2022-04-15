@@ -1,0 +1,15 @@
+Assert,FUNC_0
+CleanupProcSignalState,VAR_0
+Int32GetDatum,FUNC_1
+LOG,VAR_1
+MemSet,FUNC_2
+MyProcPid,VAR_2
+MyProcSignalSlot,VAR_3
+NUM_PROCSIGNALS,VAR_4
+NumProcSignalSlots,VAR_5
+ProcSignalSlots,VAR_6
+elog,FUNC_3
+on_shmem_exit,FUNC_4
+ProcSignalInit,FUNC_5
+pss_idx,VAR_7
+slot,VAR_8

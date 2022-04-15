@@ -1,0 +1,15 @@
+CONFIG_DIR,VAR_0
+CONFIG_SECTION_GLOBAL,VAR_1
+FILENAME_MAX,VAR_2
+PLUGINSD_MAX_DIRECTORIES,VAR_3
+PLUGINS_DIR,VAR_4
+config_get,FUNC_0
+config_isspace,VAR_5
+likely,FUNC_1
+plugin_directories,VAR_6
+quoted_strings_splitter,FUNC_2
+snprintfz,FUNC_3
+strdupz,FUNC_4
+pluginsd_initialize_plugin_directories,FUNC_5
+plugins_dirs,VAR_7
+plugins_dir_list,VAR_8

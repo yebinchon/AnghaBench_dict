@@ -1,0 +1,13 @@
+GIT_EEXISTS,VAR_0
+_repo,VAR_1
+_sig,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+create_note,FUNC_3
+git_note_create,FUNC_4
+git_oid_fromstr,FUNC_5
+test_notes_notes__creating_a_note_on_a_target_which_already_has_one_returns_EEXISTS,FUNC_6
+error,VAR_3
+note_oid,VAR_4
+target_oid,VAR_5

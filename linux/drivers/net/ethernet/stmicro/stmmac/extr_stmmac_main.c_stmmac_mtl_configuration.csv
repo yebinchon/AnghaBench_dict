@@ -1,0 +1,14 @@
+stmmac_configure_cbs,FUNC_0
+stmmac_mac_config_rss,FUNC_1
+stmmac_mac_config_rx_queues_prio,FUNC_2
+stmmac_mac_config_rx_queues_routing,FUNC_3
+stmmac_mac_config_tx_queues_prio,FUNC_4
+stmmac_mac_enable_rx_queues,FUNC_5
+stmmac_prog_mtl_rx_algorithms,FUNC_6
+stmmac_prog_mtl_tx_algorithms,FUNC_7
+stmmac_rx_queue_dma_chan_map,FUNC_8
+stmmac_set_tx_queue_weight,FUNC_9
+stmmac_mtl_configuration,FUNC_10
+priv,VAR_0
+rx_queues_count,VAR_1
+tx_queues_count,VAR_2

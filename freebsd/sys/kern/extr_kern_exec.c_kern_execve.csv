@@ -1,0 +1,8 @@
+AUDIT_ARG_ARGV,FUNC_0
+AUDIT_ARG_ENVV,FUNC_1
+do_execve,FUNC_2
+exec_args_get_begin_envv,FUNC_3
+kern_execve,FUNC_4
+td,VAR_0
+args,VAR_1
+mac_p,VAR_2

@@ -1,0 +1,14 @@
+HIX5I2C_COM,VAR_0
+HIX5I2C_TXR,VAR_1
+I2C_START,VAR_2
+I2C_WRITE,VAR_3
+hix5hd2_i2c_clr_all_irq,FUNC_0
+hix5hd2_i2c_enable_irq,FUNC_1
+i2c_8bit_addr_from_msg,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+writel_relaxed,FUNC_5
+hix5hd2_i2c_message_start,FUNC_6
+priv,VAR_4
+stop,VAR_5
+flags,VAR_6

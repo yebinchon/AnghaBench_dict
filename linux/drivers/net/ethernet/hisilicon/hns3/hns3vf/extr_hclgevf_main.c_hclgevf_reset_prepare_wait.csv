@@ -1,0 +1,12 @@
+HCLGEVF_RESET_SYNC_TIME,VAR_0
+HCLGEVF_STATE_CMD_DISABLE,VAR_1
+HCLGE_MBX_RESET,VAR_2
+HNAE3_FLR_DOWN,VAR_3
+dev_info,FUNC_0
+hclgevf_reset_handshake,FUNC_1
+hclgevf_send_mbx_msg,FUNC_2
+msleep,FUNC_3
+set_bit,FUNC_4
+hclgevf_reset_prepare_wait,FUNC_5
+hdev,VAR_4
+ret,VAR_5

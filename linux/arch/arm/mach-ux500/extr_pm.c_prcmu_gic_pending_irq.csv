@@ -1,0 +1,9 @@
+GIC_DIST_ENABLE_SET,VAR_0
+GIC_DIST_PENDING_SET,VAR_1
+PRCMU_GIC_NUMBER_REGS,VAR_2
+dist_base,VAR_3
+readl_relaxed,FUNC_0
+prcmu_gic_pending_irq,FUNC_1
+pr,VAR_4
+er,VAR_5
+i,VAR_6

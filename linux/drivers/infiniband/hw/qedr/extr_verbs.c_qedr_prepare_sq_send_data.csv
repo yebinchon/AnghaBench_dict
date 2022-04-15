@@ -1,0 +1,14 @@
+IB_SEND_INLINE,VAR_0
+RDMA_SQ_SEND_WQE_INLINE_FLG,VAR_1
+SET_FIELD2,FUNC_0
+memset,FUNC_1
+qedr_prepare_sq_inline_data,FUNC_2
+qedr_prepare_sq_sges,FUNC_3
+qedr_prepare_sq_send_data,FUNC_4
+dev,VAR_2
+qp,VAR_3
+swqe,VAR_4
+swqe2,VAR_5
+wr,VAR_6
+bad_wr,VAR_7
+flags,VAR_8

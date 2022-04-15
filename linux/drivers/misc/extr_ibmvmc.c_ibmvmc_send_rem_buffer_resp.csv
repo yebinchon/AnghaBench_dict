@@ -1,0 +1,13 @@
+VMC_MSG_REM_BUF_RESP,VAR_0
+be64_to_cpu,FUNC_0
+cpu_to_be16,FUNC_1
+dev_dbg,FUNC_2
+ibmvmc_send_crq,FUNC_3
+ibmvmc_send_rem_buffer_resp,FUNC_4
+adapter,VAR_1
+status,VAR_2
+hmc_session,VAR_3
+hmc_index,VAR_4
+buffer_id,VAR_5
+crq_msg,VAR_6
+crq_as_u64,VAR_7

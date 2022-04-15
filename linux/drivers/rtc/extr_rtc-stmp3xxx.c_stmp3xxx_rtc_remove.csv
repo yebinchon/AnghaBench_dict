@@ -1,0 +1,8 @@
+STMP3XXX_RTC_CTRL,VAR_0
+STMP3XXX_RTC_CTRL_ALARM_IRQ_EN,VAR_1
+STMP_OFFSET_REG_CLR,VAR_2
+platform_get_drvdata,FUNC_0
+writel,FUNC_1
+stmp3xxx_rtc_remove,FUNC_2
+pdev,VAR_3
+rtc_data,VAR_4

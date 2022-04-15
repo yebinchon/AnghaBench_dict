@@ -1,0 +1,15 @@
+AEAD_CTX,FUNC_0
+CRYPTO_TFM_REQ_MASK,VAR_0
+CRYPTO_TFM_RES_MASK,VAR_1
+a_ctx,FUNC_1
+chcr_ccm_common_setkey,FUNC_2
+crypto_aead_clear_flags,FUNC_3
+crypto_aead_get_flags,FUNC_4
+crypto_aead_set_flags,FUNC_5
+crypto_aead_setkey,FUNC_6
+chcr_aead_ccm_setkey,FUNC_7
+aead,VAR_2
+key,VAR_3
+keylen,VAR_4
+aeadctx,VAR_5
+error,VAR_6

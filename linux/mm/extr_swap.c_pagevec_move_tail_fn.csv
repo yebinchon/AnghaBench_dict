@@ -1,0 +1,11 @@
+ClearPageActive,FUNC_0
+PageLRU,FUNC_1
+PageUnevictable,FUNC_2
+add_page_to_lru_list_tail,FUNC_3
+del_page_from_lru_list,FUNC_4
+page_lru,FUNC_5
+pagevec_move_tail_fn,FUNC_6
+page,VAR_0
+lruvec,VAR_1
+arg,VAR_2
+pgmoved,VAR_3

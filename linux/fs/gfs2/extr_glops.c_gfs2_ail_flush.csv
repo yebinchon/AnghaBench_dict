@@ -1,0 +1,14 @@
+GFS2_LFC_AIL_FLUSH,VAR_0
+GFS2_LOG_HEAD_FLUSH_NORMAL,VAR_1
+__gfs2_ail_flush,FUNC_0
+atomic_read,FUNC_1
+gfs2_log_flush,FUNC_2
+gfs2_trans_begin,FUNC_3
+gfs2_trans_end,FUNC_4
+gfs2_ail_flush,FUNC_5
+gl,VAR_2
+fsync,VAR_3
+sdp,VAR_4
+revokes,VAR_5
+max_revokes,VAR_6
+ret,VAR_7

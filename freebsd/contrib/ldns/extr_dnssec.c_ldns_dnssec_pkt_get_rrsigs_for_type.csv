@@ -1,0 +1,16 @@
+LDNS_RDF_TYPE_TYPE,VAR_0
+LDNS_RR_TYPE_RRSIG,VAR_1
+LDNS_SECTION_ANY_NOQUESTION,VAR_2
+htons,FUNC_0
+ldns_pkt_rr_list_by_type,FUNC_1
+ldns_rdf_free,FUNC_2
+ldns_rdf_new,FUNC_3
+ldns_rr_list_deep_free,FUNC_4
+ldns_rr_list_subtype_by_rdf,FUNC_5
+ldns_dnssec_pkt_get_rrsigs_for_type,FUNC_6
+pkt,VAR_3
+type,VAR_4
+t_netorder,VAR_5
+sigs,VAR_6
+sigs_covered,VAR_7
+rdf_t,VAR_8

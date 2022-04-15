@@ -1,0 +1,8 @@
+NETIF_F_RXHASH,VAR_0
+PKT_HASH_TYPE_L3,VAR_1
+le32_to_cpu,FUNC_0
+skb_set_hash,FUNC_1
+igc_rx_hash,FUNC_2
+ring,VAR_2
+rx_desc,VAR_3
+skb,VAR_4

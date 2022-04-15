@@ -1,0 +1,11 @@
+RDS_CMSG_CONG_UPDATE,VAR_0
+SOL_RDS,VAR_1
+put_cmsg,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+rds_notify_cong,FUNC_3
+rs,VAR_2
+msghdr,VAR_3
+notify,VAR_4
+flags,VAR_5
+err,VAR_6

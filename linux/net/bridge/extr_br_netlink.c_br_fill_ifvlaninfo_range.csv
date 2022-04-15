@@ -1,0 +1,11 @@
+BRIDGE_VLAN_INFO_RANGE_BEGIN,VAR_0
+BRIDGE_VLAN_INFO_RANGE_END,VAR_1
+EMSGSIZE,VAR_2
+IFLA_BRIDGE_VLAN_INFO,VAR_3
+nla_put,FUNC_0
+br_fill_ifvlaninfo_range,FUNC_1
+skb,VAR_4
+vid_start,VAR_5
+vid_end,VAR_6
+flags,VAR_7
+vinfo,VAR_8

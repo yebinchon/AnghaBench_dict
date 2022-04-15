@@ -1,0 +1,14 @@
+DLN2_GPIO_DIRECTION_OUT,VAR_0
+DLN2_GPIO_PIN_SET_DIRECTION,VAR_1
+clear_bit,FUNC_0
+cpu_to_le16,FUNC_1
+dln2_transfer_tx,FUNC_2
+gpiochip_get_data,FUNC_3
+set_bit,FUNC_4
+dln2_gpio_set_direction,FUNC_5
+chip,VAR_2
+offset,VAR_3
+dir,VAR_4
+dln2,VAR_5
+req,VAR_6
+ret,VAR_7

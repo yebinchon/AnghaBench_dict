@@ -1,0 +1,14 @@
+SVN_AUTH_SSL_CNMISMATCH,VAR_0
+SVN_AUTH_SSL_EXPIRED,VAR_1
+SVN_AUTH_SSL_NOTYETVALID,VAR_2
+SVN_AUTH_SSL_OTHER,VAR_3
+SVN_AUTH_SSL_UNKNOWNCA,VAR_4
+SVN_ERR,FUNC_0
+SVN_NO_ERROR,VAR_5
+_,FUNC_1
+svn_cmdline_printf,FUNC_2
+svn_cstring_atoui,FUNC_3
+show_cert_failures,FUNC_4
+failure_string,VAR_6
+scratch_pool,VAR_7
+failures,VAR_8

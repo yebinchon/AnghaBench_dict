@@ -1,0 +1,10 @@
+BONDING_SLAVE_STATE_ACTIVE,VAR_0
+BONDING_SLAVE_STATE_INACTIVE,VAR_1
+BONDING_SLAVE_STATE_NA,VAR_2
+bond_option_active_slave_get_rcu,FUNC_0
+netdev_priv,FUNC_1
+netif_is_bond_master,FUNC_2
+is_eth_active_slave_of_bonding_rcu,FUNC_3
+dev,VAR_3
+upper,VAR_4
+pdev,VAR_5

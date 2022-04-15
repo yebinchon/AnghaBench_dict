@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+NICVF_INTR_CQ,VAR_1
+napi_schedule_irqoff,FUNC_0
+nicvf_clear_intr,FUNC_1
+nicvf_disable_intr,FUNC_2
+nicvf_dump_intr_status,FUNC_3
+nicvf_intr_handler,FUNC_4
+irq,VAR_2
+cq_irq,VAR_3
+cq_poll,VAR_4
+nic,VAR_5
+qidx,VAR_6

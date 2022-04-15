@@ -1,0 +1,11 @@
+SBQ_WAIT_QUEUES,VAR_0
+atomic_read,FUNC_0
+sbq_index_inc,FUNC_1
+smp_mb,FUNC_2
+waitqueue_active,FUNC_3
+wake_up,FUNC_4
+sbitmap_queue_wake_all,FUNC_5
+sbq,VAR_1
+i,VAR_2
+wake_index,VAR_3
+ws,VAR_4

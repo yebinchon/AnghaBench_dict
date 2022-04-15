@@ -1,0 +1,14 @@
+THROTTLE_RX,VAR_0
+THROTTLE_TX,VAR_1
+WORK_RX_RESUME,VAR_2
+WORK_TX_RESUME,VAR_3
+pr_debug,FUNC_0
+schedule_work,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+test_and_clear_bit,FUNC_4
+test_and_set_bit,FUNC_5
+hfa384x_usb_throttlefn,FUNC_6
+data,VAR_4
+hw,VAR_5
+flags,VAR_6

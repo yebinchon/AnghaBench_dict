@@ -1,0 +1,9 @@
+ATF_REQUIRE,FUNC_0
+O_RDONLY,VAR_0
+atf_tc_get_config_var,FUNC_1
+openat,FUNC_2
+opendir,FUNC_3
+opendirat,FUNC_4
+setup,FUNC_5
+dp,VAR_1
+tc,VAR_2

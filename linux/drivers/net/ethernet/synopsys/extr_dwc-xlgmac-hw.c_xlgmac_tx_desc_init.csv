@@ -1,0 +1,15 @@
+DMA_CH_TDLR_HI,VAR_0
+DMA_CH_TDLR_LO,VAR_1
+DMA_CH_TDRLR,VAR_2
+XLGMAC_DMA_REG,FUNC_0
+XLGMAC_GET_DESC_DATA,FUNC_1
+lower_32_bits,FUNC_2
+upper_32_bits,FUNC_3
+writel,FUNC_4
+xlgmac_tx_desc_reset,FUNC_5
+xlgmac_tx_desc_init,FUNC_6
+channel,VAR_3
+ring,VAR_4
+desc_data,VAR_5
+start_index,VAR_6
+i,VAR_7

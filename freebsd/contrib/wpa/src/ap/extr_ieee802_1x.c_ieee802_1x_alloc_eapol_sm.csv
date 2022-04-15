@@ -1,0 +1,10 @@
+EAPOL_SM_FROM_PMKSA_CACHE,VAR_0
+EAPOL_SM_PREAUTH,VAR_1
+EAPOL_SM_USES_WPA,VAR_2
+WLAN_STA_PREAUTH,VAR_3
+eapol_auth_alloc,FUNC_0
+wpa_auth_sta_get_pmksa,FUNC_1
+ieee802_1x_alloc_eapol_sm,FUNC_2
+hapd,VAR_4
+sta,VAR_5
+flags,VAR_6

@@ -1,0 +1,9 @@
+MV64x60_I2C_REG_CONTROL,VAR_0
+MV64x60_I2C_REG_DATA,VAR_1
+ctlr_base,VAR_2
+in_le32,FUNC_0
+mv64x60_i2c_wait_for_status,FUNC_1
+out_le32,FUNC_2
+mv64x60_i2c_read_byte,FUNC_3
+control,VAR_3
+status,VAR_4

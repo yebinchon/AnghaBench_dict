@@ -1,0 +1,8 @@
+REG_FAN_TARGET_HI,VAR_0
+REG_FAN_TARGET_LO,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+write_fan_target_to_i2c,FUNC_1
+client,VAR_2
+new_target,VAR_3
+high_byte,VAR_4
+low_byte,VAR_5

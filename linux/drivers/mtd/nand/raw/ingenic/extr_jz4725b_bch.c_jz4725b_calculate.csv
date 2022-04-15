@@ -1,0 +1,15 @@
+BCH_BHINT_ENCF,VAR_0
+dev_err,FUNC_0
+jz4725b_bch_disable,FUNC_1
+jz4725b_bch_read_parity,FUNC_2
+jz4725b_bch_reset,FUNC_3
+jz4725b_bch_wait_complete,FUNC_4
+jz4725b_bch_write_data,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+jz4725b_calculate,FUNC_8
+bch,VAR_1
+params,VAR_2
+buf,VAR_3
+ecc_code,VAR_4
+ret,VAR_5

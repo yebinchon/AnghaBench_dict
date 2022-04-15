@@ -1,0 +1,17 @@
+AES_and_HASH,VAR_0
+AES_to_HASH_and_DOUT,VAR_1
+BYPASS,VAR_2
+DIN_HASH,VAR_3
+DRV_CRYPTO_DIRECTION_DECRYPT,VAR_4
+aead_request_ctx,FUNC_0
+cc_proc_cipher_desc,FUNC_1
+cc_proc_gcm_result,FUNC_2
+cc_set_assoc_desc,FUNC_3
+cc_set_gctr_desc,FUNC_4
+cc_set_ghash_desc,FUNC_5
+cc_gcm,FUNC_6
+req,VAR_5
+desc,VAR_6
+seq_size,VAR_7
+req_ctx,VAR_8
+cipher_flow_mode,VAR_9

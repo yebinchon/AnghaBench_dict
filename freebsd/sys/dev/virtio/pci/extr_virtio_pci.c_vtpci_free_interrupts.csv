@@ -1,0 +1,12 @@
+M_DEVBUF,VAR_0
+VTPCI_FLAG_ITYPE_MASK,VAR_1
+VTPCI_FLAG_MSI,VAR_2
+VTPCI_FLAG_MSIX,VAR_3
+free,FUNC_0
+pci_release_msi,FUNC_1
+vtpci_free_interrupt,FUNC_2
+vtpci_free_interrupts,FUNC_3
+sc,VAR_4
+intr,VAR_5
+i,VAR_6
+nvq_intrs,VAR_7

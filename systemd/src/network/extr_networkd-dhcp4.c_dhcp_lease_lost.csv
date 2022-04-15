@@ -1,0 +1,14 @@
+assert,FUNC_0
+dhcp_remove_address,FUNC_1
+dhcp_remove_dns_routes,FUNC_2
+dhcp_remove_router,FUNC_3
+dhcp_remove_routes,FUNC_4
+dhcp_reset_hostname,FUNC_5
+dhcp_reset_mtu,FUNC_6
+link_dirty,FUNC_7
+log_link_info,FUNC_8
+sd_dhcp_lease_get_address,FUNC_9
+sd_dhcp_lease_unref,FUNC_10
+dhcp_lease_lost,FUNC_11
+link,VAR_0
+address,VAR_1

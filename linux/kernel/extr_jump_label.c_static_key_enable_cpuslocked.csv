@@ -1,0 +1,11 @@
+STATIC_KEY_CHECK_USE,FUNC_0
+WARN_ON_ONCE,FUNC_1
+atomic_read,FUNC_2
+atomic_set,FUNC_3
+atomic_set_release,FUNC_4
+jump_label_lock,FUNC_5
+jump_label_unlock,FUNC_6
+jump_label_update,FUNC_7
+lockdep_assert_cpus_held,FUNC_8
+static_key_enable_cpuslocked,FUNC_9
+key,VAR_0

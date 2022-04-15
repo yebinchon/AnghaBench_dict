@@ -1,0 +1,16 @@
+ENVIRON_ANY,VAR_0
+WIPHY_IDX_INVALID,VAR_1
+get_last_request,FUNC_0
+get_wiphy_regdom,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+rcu_assign_pointer,FUNC_4
+rcu_free_regdom,FUNC_5
+reg_dev_ignore_cell_hint,FUNC_6
+reg_mutex,VAR_2
+reg_num_devs_support_basehint,VAR_3
+wiphy_idx_to_wiphy,FUNC_7
+wiphy_regulatory_deregister,FUNC_8
+wiphy,VAR_4
+request_wiphy,VAR_5
+lr,VAR_6

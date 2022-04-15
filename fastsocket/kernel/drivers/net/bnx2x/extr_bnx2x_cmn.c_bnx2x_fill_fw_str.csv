@@ -1,0 +1,12 @@
+IS_PF,FUNC_0
+PHY_FW_VER_LEN,VAR_0
+bnx2x_get_ext_phy_fw_version,FUNC_1
+bnx2x_vf_fill_fw_str,FUNC_2
+snprintf,FUNC_3
+strlcpy,FUNC_4
+strlen,FUNC_5
+bnx2x_fill_fw_str,FUNC_6
+bp,VAR_1
+buf,VAR_2
+buf_len,VAR_3
+phy_fw_ver,VAR_4

@@ -1,0 +1,13 @@
+CM_CH_PLAY,VAR_0
+CM_OPEN_PLAYBACK_MULTI,VAR_1
+EBUSY,VAR_2
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+params_buffer_bytes,FUNC_2
+params_channels,FUNC_3
+snd_pcm_lib_malloc_pages,FUNC_4
+snd_pcm_substream_chip,FUNC_5
+snd_cmipci_playback2_hw_params,FUNC_6
+substream,VAR_3
+hw_params,VAR_4
+cm,VAR_5

@@ -1,0 +1,17 @@
+Assert,FUNC_0
+MAXPGPATH,VAR_0
+MINIMUM_VERSION_FOR_RECOVERY_GUC,VAR_1
+PQserverVersion,FUNC_1
+exit,FUNC_2
+fclose,FUNC_3
+fopen,FUNC_4
+fwrite,FUNC_5
+pg_log_error,FUNC_6
+snprintf,FUNC_7
+WriteRecoveryConfig,FUNC_8
+pgconn,VAR_2
+target_dir,VAR_3
+contents,VAR_4
+filename,VAR_5
+cf,VAR_6
+use_recovery_conf,VAR_7

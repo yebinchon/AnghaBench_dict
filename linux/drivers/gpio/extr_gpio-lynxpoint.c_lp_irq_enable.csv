@@ -1,0 +1,17 @@
+BIT,FUNC_0
+LP_INT_ENABLE,VAR_0
+gpiochip_get_data,FUNC_1
+inl,FUNC_2
+irq_data_get_irq_chip_data,FUNC_3
+irqd_to_hwirq,FUNC_4
+lp_gpio_reg,FUNC_5
+outl,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+lp_irq_enable,FUNC_9
+d,VAR_1
+gc,VAR_2
+lg,VAR_3
+hwirq,VAR_4
+reg,VAR_5
+flags,VAR_6

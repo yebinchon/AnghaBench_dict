@@ -1,0 +1,14 @@
+STMT_INTERNAL_RELEASE_SAVEPOINT_SVN,VAR_0
+STMT_INTERNAL_ROLLBACK_TO_SAVEPOINT_SVN,VAR_1
+SVN_ERR,FUNC_0
+SVN_ERR_SQLITE_BUSY,VAR_2
+get_internal_statement,FUNC_1
+reset_all_statements,FUNC_2
+svn_error_compose_create,FUNC_3
+svn_error_trace,FUNC_4
+svn_sqlite__step_done,FUNC_5
+svn_sqlite__finish_savepoint,FUNC_6
+db,VAR_3
+err,VAR_4
+stmt,VAR_5
+err2,VAR_6

@@ -1,0 +1,11 @@
+ADDR_HI,FUNC_0
+ADDR_LO,FUNC_1
+DCONS_CSR_KEY_RESET_HI,VAR_0
+DCONS_CSR_KEY_RESET_LO,VAR_1
+KERNBASE,VAR_2
+crom_add_entry,FUNC_2
+idt,VAR_3
+pmap_kextract,FUNC_3
+dcons_crom_expose_idt,FUNC_4
+sc,VAR_4
+idt_paddr,VAR_5

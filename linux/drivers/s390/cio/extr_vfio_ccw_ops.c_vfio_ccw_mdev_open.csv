@@ -1,0 +1,14 @@
+VFIO_IOMMU_NOTIFY,VAR_0
+VFIO_IOMMU_NOTIFY_DMA_UNMAP,VAR_1
+dev_get_drvdata,FUNC_0
+mdev_dev,FUNC_1
+mdev_parent_dev,FUNC_2
+vfio_ccw_mdev_notifier,VAR_2
+vfio_ccw_register_async_dev_regions,FUNC_3
+vfio_register_notifier,FUNC_4
+vfio_unregister_notifier,FUNC_5
+vfio_ccw_mdev_open,FUNC_6
+mdev,VAR_3
+private,VAR_4
+events,VAR_5
+ret,VAR_6

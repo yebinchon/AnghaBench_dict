@@ -1,0 +1,16 @@
+M_BHND,VAR_0
+M_NOWAIT,VAR_1
+device_add_child_ordered,FUNC_0
+device_delete_child,FUNC_1
+device_get_softc,FUNC_2
+device_set_ivars,FUNC_3
+malloc,FUNC_4
+resource_list_init,FUNC_5
+chipc_add_child,FUNC_6
+dev,VAR_2
+order,VAR_3
+name,VAR_4
+unit,VAR_5
+sc,VAR_6
+dinfo,VAR_7
+child,VAR_8

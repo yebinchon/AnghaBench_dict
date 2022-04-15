@@ -1,0 +1,9 @@
+TEST_ESP_OK,FUNC_0
+esp_wifi_deinit,FUNC_1
+esp_wifi_stop,FUNC_2
+portTICK_PERIOD_MS,VAR_0
+printf,FUNC_3
+vEventGroupDelete,FUNC_4
+vTaskDelay,FUNC_5
+wifi_events,VAR_1
+stop_wifi,FUNC_6

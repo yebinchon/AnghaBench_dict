@@ -1,0 +1,17 @@
+EIO,VAR_0
+IOC_STATUS_SUCCESS,FUNC_0
+MPI_IOCSTATUS_SUCCESS,VAR_1
+MPTIO_READ_CFG_HEADER,VAR_2
+bzero,FUNC_1
+errno,VAR_3
+ioctl,FUNC_2
+mpt_ioc_status,FUNC_3
+warnx,FUNC_4
+mpt_read_config_page_header,FUNC_5
+fd,VAR_4
+PageType,VAR_5
+PageNumber,VAR_6
+PageAddress,VAR_7
+header,VAR_8
+IOCStatus,VAR_9
+req,VAR_10

@@ -1,0 +1,13 @@
+O_CREAT,VAR_0
+O_RDWR,VAR_1
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_s,FUNC_2
+cl_git_sandbox_init,FUNC_3
+cl_git_write2file,FUNC_4
+cl_must_pass,FUNC_5
+cl_sandbox_supports_8dot3,FUNC_6
+clar__skip,FUNC_7
+git_repository__reserved_names,FUNC_8
+p_rename,FUNC_9
+test_repo_reservedname__custom_shortname_recognized,FUNC_10

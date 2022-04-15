@@ -1,0 +1,14 @@
+CEPH_OSD_OP_READ,VAR_0
+GFP_NOIO,VAR_1
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+__rbd_obj_add_osd_request,FUNC_2
+ceph_osdc_alloc_messages,FUNC_3
+osd_req_op_extent_init,FUNC_4
+rbd_osd_format_read,FUNC_5
+rbd_osd_setup_data,FUNC_6
+rbd_osd_submit,FUNC_7
+rbd_obj_read_object,FUNC_8
+obj_req,VAR_2
+osd_req,VAR_3
+ret,VAR_4

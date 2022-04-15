@@ -1,0 +1,17 @@
+AUTH_PRIVATE,FUNC_0
+AUTH_TIMEOUT,VAR_0
+FALSE,VAR_1
+GSS_C_NO_CONTEXT,VAR_2
+NULLPROC,VAR_3
+RPCSEC_GSS_DESTROY,VAR_4
+clnt_call,FUNC_1
+gss_delete_sec_context,FUNC_2
+gss_release_buffer,FUNC_3
+log_debug,FUNC_4
+mem_free,FUNC_5
+memset,FUNC_6
+xdr_void,VAR_5
+authgss_destroy_context,FUNC_7
+auth,VAR_6
+gd,VAR_7
+min_stat,VAR_8

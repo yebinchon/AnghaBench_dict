@@ -1,0 +1,13 @@
+PICTURES,VAR_0
+VLC_CODEC_I420,VAR_1
+assert,FUNC_0
+fmt,VAR_2
+picture_pool_GetSize,FUNC_1
+picture_pool_NewFromFormat,FUNC_2
+picture_pool_Release,FUNC_3
+picture_pool_Reserve,FUNC_4
+pool,VAR_3
+reserve,VAR_4
+test,FUNC_5
+video_format_Setup,FUNC_6
+main,FUNC_7

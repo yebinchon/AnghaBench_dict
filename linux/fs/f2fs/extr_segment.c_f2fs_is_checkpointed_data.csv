@@ -1,0 +1,16 @@
+GET_BLKOFF_FROM_SEG0,FUNC_0
+GET_SEGNO,FUNC_1
+SIT_I,FUNC_2
+__is_valid_data_blkaddr,FUNC_3
+down_read,FUNC_4
+f2fs_test_bit,FUNC_5
+get_seg_entry,FUNC_6
+up_read,FUNC_7
+f2fs_is_checkpointed_data,FUNC_8
+sbi,VAR_0
+blkaddr,VAR_1
+sit_i,VAR_2
+segno,VAR_3
+offset,VAR_4
+se,VAR_5
+is_cp,VAR_6

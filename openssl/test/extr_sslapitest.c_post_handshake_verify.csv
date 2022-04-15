@@ -1,0 +1,13 @@
+SSL_ERROR_NONE,VAR_0
+SSL_VERIFY_PEER,VAR_1
+SSL_do_handshake,FUNC_0
+SSL_read,FUNC_1
+SSL_set_verify,FUNC_2
+SSL_verify_client_post_handshake,FUNC_3
+TEST_int_eq,FUNC_4
+TEST_int_le,FUNC_5
+TEST_true,FUNC_6
+create_ssl_connection,FUNC_7
+post_handshake_verify,FUNC_8
+sssl,VAR_2
+cssl,VAR_3

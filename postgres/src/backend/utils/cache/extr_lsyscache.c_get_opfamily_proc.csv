@@ -1,0 +1,16 @@
+AMPROCNUM,VAR_0
+GETSTRUCT,FUNC_0
+HeapTupleIsValid,FUNC_1
+Int16GetDatum,FUNC_2
+InvalidOid,VAR_1
+ObjectIdGetDatum,FUNC_3
+ReleaseSysCache,FUNC_4
+SearchSysCache4,FUNC_5
+get_opfamily_proc,FUNC_6
+opfamily,VAR_2
+lefttype,VAR_3
+righttype,VAR_4
+procnum,VAR_5
+tp,VAR_6
+amproc_tup,VAR_7
+result,VAR_8

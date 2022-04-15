@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+RX_DESCS,VAR_2
+RX_SEGMENT_MRU,VAR_3
+TX_DESCS,VAR_4
+dev_kfree_skb,FUNC_0
+dma_unmap_single,FUNC_1
+skb_free_frag,FUNC_2
+destroy_rings,FUNC_3
+sw,VAR_5
+i,VAR_6
+rx_ring,VAR_7
+desc,VAR_8
+buf,VAR_9
+tx_ring,VAR_10
+desc,VAR_11
+skb,VAR_12

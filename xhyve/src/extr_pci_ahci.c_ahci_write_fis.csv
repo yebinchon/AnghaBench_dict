@@ -1,0 +1,16 @@
+AHCI_P_CMD_FRE,VAR_0
+AHCI_P_IX_DHR,VAR_1
+AHCI_P_IX_PS,VAR_2
+AHCI_P_IX_SDB,VAR_3
+AHCI_P_IX_TFE,VAR_4
+ATA_S_ERROR,VAR_5
+WPRINTF,FUNC_0
+ahci_generate_intr,FUNC_1
+memcpy,FUNC_2
+ahci_write_fis,FUNC_3
+p,VAR_6
+ft,VAR_7
+fis,VAR_8
+offset,VAR_9
+len,VAR_10
+irq,VAR_11

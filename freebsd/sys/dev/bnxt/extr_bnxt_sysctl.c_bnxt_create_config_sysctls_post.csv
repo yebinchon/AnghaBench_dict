@@ -1,0 +1,12 @@
+CTLFLAG_RWTUN,VAR_0
+CTLTYPE_INT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+bnxt_vlan_only_sysctl,VAR_3
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+bnxt_create_config_sysctls_post,FUNC_4
+softc,VAR_4
+ctx,VAR_5
+children,VAR_6

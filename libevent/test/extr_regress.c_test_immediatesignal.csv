@@ -1,0 +1,13 @@
+EVLOOP_NONBLOCK,VAR_0
+SIGUSR1,VAR_1
+cleanup_test,FUNC_0
+event_loop,FUNC_1
+evsignal_add,FUNC_2
+evsignal_del,FUNC_3
+evsignal_set,FUNC_4
+getpid,FUNC_5
+kill,FUNC_6
+signal_cb,VAR_2
+test_ok,VAR_3
+test_immediatesignal,FUNC_7
+ev,VAR_4

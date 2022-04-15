@@ -1,0 +1,11 @@
+DNS_PACKET_SIZE_MAX,VAR_0
+assert,FUNC_0
+dns_packet_new,FUNC_1
+dns_packet_set_flags,FUNC_2
+dns_packet_new_query,FUNC_3
+ret,VAR_1
+protocol,VAR_2
+min_alloc_dsize,VAR_3
+dnssec_checking_disabled,VAR_4
+p,VAR_5
+r,VAR_6

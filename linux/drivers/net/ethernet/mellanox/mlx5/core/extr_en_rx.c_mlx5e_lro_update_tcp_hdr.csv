@@ -1,0 +1,9 @@
+CQE_L4_HDR_TYPE_TCP_ACK_AND_DATA,VAR_0
+CQE_L4_HDR_TYPE_TCP_ACK_NO_DATA,VAR_1
+get_cqe_l4_hdr_type,FUNC_0
+get_cqe_lro_tcppsh,FUNC_1
+mlx5e_lro_update_tcp_hdr,FUNC_2
+cqe,VAR_2
+tcp,VAR_3
+l4_hdr_type,VAR_4
+tcp_ack,VAR_5

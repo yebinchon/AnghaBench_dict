@@ -1,0 +1,14 @@
+KVM_REQ_TRIPLE_FAULT,VAR_0
+X86_CR4_SMAP,VAR_1
+X86_CR4_SMEP,VAR_2
+kvm_make_request,FUNC_0
+kvm_read_cr4,FUNC_1
+pr_err_ratelimited,FUNC_2
+sev_guest,FUNC_3
+svm_get_cpl,FUNC_4
+svm_need_emulation_on_page_fault,FUNC_5
+vcpu,VAR_3
+cr4,VAR_4
+smep,VAR_5
+smap,VAR_6
+is_user,VAR_7

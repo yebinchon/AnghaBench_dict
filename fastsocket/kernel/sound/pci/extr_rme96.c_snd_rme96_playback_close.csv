@@ -1,0 +1,14 @@
+RME96_ISPLAYING,FUNC_0
+RME96_WCR_ADAT,VAR_0
+SNDRV_CTL_ELEM_ACCESS_INACTIVE,VAR_1
+SNDRV_CTL_EVENT_MASK_INFO,VAR_2
+SNDRV_CTL_EVENT_MASK_VALUE,VAR_3
+snd_ctl_notify,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+snd_rme96_playback_stop,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+snd_rme96_playback_close,FUNC_6
+substream,VAR_4
+rme96,VAR_5
+spdif,VAR_6

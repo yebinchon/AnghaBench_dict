@@ -1,0 +1,9 @@
+JZ_MMC_READ_4,FUNC_0
+JZ_MSC_IFLG,VAR_0
+JZ_MSC_STAT,VAR_1
+MMC_ERR_TIMEOUT,VAR_2
+device_printf,FUNC_1
+jz4780_mmc_req_done,FUNC_2
+jz4780_mmc_timeout,FUNC_3
+arg,VAR_3
+sc,VAR_4

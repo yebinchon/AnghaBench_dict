@@ -1,0 +1,16 @@
+CHM_ACQUIRE_LOCK,FUNC_0
+CHM_NULL_FD,VAR_0
+CHM_RELEASE_LOCK,FUNC_1
+FILE_BEGIN,VAR_1
+FILE_CURRENT,VAR_2
+ReadFile,FUNC_2
+SetFilePointerEx,FUNC_3
+_chm_fetch_bytes,FUNC_4
+h,VAR_3
+buf,VAR_4
+os,VAR_5
+len,VAR_6
+readLen,VAR_7
+old_pos,VAR_8
+new_pos,VAR_9
+actualLen,VAR_10

@@ -1,0 +1,17 @@
+ControlFile,VAR_0
+ControlFileLock,VAR_1
+InRecovery,VAR_2
+LWLockConditionalAcquire,FUNC_0
+LWLockRelease,FUNC_1
+LW_SHARED,VAR_3
+LogwrtResult,VAR_4
+RecoveryInProgress,FUNC_2
+SpinLockAcquire,FUNC_3
+SpinLockRelease,FUNC_4
+XLogCtl,VAR_5
+XLogRecPtrIsInvalid,FUNC_5
+minRecoveryPoint,VAR_6
+minRecoveryPointTLI,VAR_7
+updateMinRecoveryPoint,VAR_8
+XLogNeedsFlush,FUNC_6
+record,VAR_9

@@ -1,0 +1,16 @@
+AML_UART_CONTROL_REG,VAR_0
+AML_UART_CONTROL_TX_INT_EN,VAR_1
+AML_UART_STATUS_REG,VAR_2
+AML_UART_STATUS_TX_FIFO_EMPTY,VAR_3
+AML_UART_WFIFO_REG,VAR_4
+cpu_spinwait,FUNC_0
+uart_barrier,FUNC_1
+uart_getreg,FUNC_2
+uart_lock,FUNC_3
+uart_setreg,FUNC_4
+uart_unlock,FUNC_5
+aml8726_uart_bus_transmit,FUNC_6
+sc,VAR_5
+bas,VAR_6
+i,VAR_7
+cr,VAR_8

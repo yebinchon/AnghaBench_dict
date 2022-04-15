@@ -1,0 +1,13 @@
+BotResetState,FUNC_0
+BotSetupDeathmatchAI,FUNC_1
+CVAR_ROM,VAR_0
+CVAR_SERVERINFO,VAR_1
+MAX_CLIENTS,VAR_2
+botstates,VAR_3
+qtrue,VAR_4
+trap_BotLibLoadMap,FUNC_2
+trap_Cvar_Register,FUNC_3
+BotAILoadMap,FUNC_4
+restart,VAR_5
+i,VAR_6
+mapname,VAR_7

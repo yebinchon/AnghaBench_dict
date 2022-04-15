@@ -1,0 +1,11 @@
+ESHUTDOWN,VAR_0
+SCTP_CMD_REPORT_ERROR,VAR_1
+SCTP_DISPOSITION_CONSUME,VAR_2
+SCTP_ERROR,FUNC_0
+sctp_add_cmd_sf,FUNC_1
+sctp_sf_error_shutdown,FUNC_2
+ep,VAR_3
+asoc,VAR_4
+type,VAR_5
+arg,VAR_6
+commands,VAR_7

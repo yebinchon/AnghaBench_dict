@@ -1,0 +1,17 @@
+AF_INET,VAR_0
+SOCK_DGRAM,VAR_1
+SOL_SOCKET,VAR_2
+SO_REUSEPORT,VAR_3
+attach_cbpf,FUNC_0
+attach_ebpf,FUNC_1
+close,FUNC_2
+errno,VAR_4
+error,FUNC_3
+fprintf,FUNC_4
+setsockopt,FUNC_5
+socket,FUNC_6
+stderr,VAR_5
+test_filter_without_bind,FUNC_7
+fd1,VAR_6
+fd2,VAR_7
+opt,VAR_8

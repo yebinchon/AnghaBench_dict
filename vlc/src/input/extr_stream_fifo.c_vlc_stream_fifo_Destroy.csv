@@ -1,0 +1,13 @@
+block_ChainRelease,FUNC_0
+block_FifoRelease,FUNC_1
+free,FUNC_2
+vlc_fifo_DequeueAllUnlocked,FUNC_3
+vlc_fifo_Lock,FUNC_4
+vlc_fifo_Unlock,FUNC_5
+vlc_stream_fifo_Writer,FUNC_6
+vlc_stream_fifo_Destroy,FUNC_7
+s,VAR_0
+writer,VAR_1
+fifo,VAR_2
+block,VAR_3
+closed,VAR_4

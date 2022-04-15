@@ -1,0 +1,9 @@
+IR_OFF,VAR_0
+TOSA_GPIO_IRDA_TX,VAR_1
+TOSA_GPIO_IR_POWERDWN,VAR_2
+gpio_direction_output,FUNC_0
+gpio_set_value,FUNC_1
+pxa2xx_transceiver_mode,FUNC_2
+tosa_irda_transceiver_mode,FUNC_3
+dev,VAR_3
+mode,VAR_4

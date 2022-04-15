@@ -1,0 +1,16 @@
+AUDIO_SSI_SEL,VAR_0
+MC13783_AUDIO_CODEC,VAR_1
+MC13783_AUDIO_DAC,VAR_2
+MC13783_AUDIO_RX0,VAR_3
+MC13783_AUDIO_RX1,VAR_4
+MC13783_AUDIO_TX,VAR_5
+MC13783_SSI1_PORT,VAR_6
+MC13783_SSI_NETWORK,VAR_7
+dev_get_regmap,FUNC_0
+mc13xxx_reg_rmw,FUNC_1
+mc13xxx_reg_write,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+snd_soc_component_init_regmap,FUNC_4
+mc13783_probe,FUNC_5
+component,VAR_8
+priv,VAR_9

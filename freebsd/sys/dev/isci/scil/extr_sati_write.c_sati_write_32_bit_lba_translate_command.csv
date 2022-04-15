@@ -1,0 +1,11 @@
+SATI_SUCCESS,VAR_0
+sati_move_32_bit_lba_translate_command,FUNC_0
+sati_write_large_translate_command,FUNC_1
+sati_write_32_bit_lba_translate_command,FUNC_2
+sequence,VAR_1
+scsi_io,VAR_2
+ata_io,VAR_3
+sector_count,VAR_4
+control_byte_offset,VAR_5
+device_head,VAR_6
+status,VAR_7

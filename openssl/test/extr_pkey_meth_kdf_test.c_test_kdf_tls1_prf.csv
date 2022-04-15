@@ -1,0 +1,17 @@
+EVP_PKEY_CTX_add1_tls1_prf_seed,FUNC_0
+EVP_PKEY_CTX_free,FUNC_1
+EVP_PKEY_CTX_new_id,FUNC_2
+EVP_PKEY_CTX_set1_tls1_prf_secret,FUNC_3
+EVP_PKEY_CTX_set_tls1_prf_md,FUNC_4
+EVP_PKEY_TLS1_PRF,VAR_0
+EVP_PKEY_derive,FUNC_5
+EVP_PKEY_derive_init,FUNC_6
+EVP_sha256,FUNC_7
+TEST_error,FUNC_8
+TEST_mem_eq,FUNC_9
+test_kdf_tls1_prf,FUNC_10
+ret,VAR_1
+pctx,VAR_2
+out,VAR_3
+outlen,VAR_4
+expected,VAR_5

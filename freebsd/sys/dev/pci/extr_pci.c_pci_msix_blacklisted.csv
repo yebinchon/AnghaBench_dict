@@ -1,0 +1,8 @@
+PCI_QUIRK_DISABLE_MSIX,VAR_0
+pci_find_bsf,FUNC_0
+pci_get_devid,FUNC_1
+pci_has_quirk,FUNC_2
+pci_honor_msi_blacklist,VAR_1
+pci_msi_blacklisted,FUNC_3
+pci_msix_blacklisted,FUNC_4
+dev,VAR_2

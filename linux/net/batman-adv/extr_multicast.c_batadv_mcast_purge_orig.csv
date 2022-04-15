@@ -1,0 +1,13 @@
+BATADV_MCAST_WANT_NO_RTR4,VAR_0
+BATADV_MCAST_WANT_NO_RTR6,VAR_1
+BATADV_NO_FLAGS,VAR_2
+batadv_mcast_want_ipv4_update,FUNC_0
+batadv_mcast_want_ipv6_update,FUNC_1
+batadv_mcast_want_rtr4_update,FUNC_2
+batadv_mcast_want_rtr6_update,FUNC_3
+batadv_mcast_want_unsnoop_update,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+batadv_mcast_purge_orig,FUNC_7
+orig,VAR_3
+bat_priv,VAR_4

@@ -1,0 +1,14 @@
+ARMV8_IDX_CYCLE_COUNTER,VAR_0
+ARMV8_PMU_PMCR_C,VAR_1
+ARMV8_PMU_PMCR_LC,VAR_2
+ARMV8_PMU_PMCR_P,VAR_3
+U32_MAX,VAR_4
+armv8pmu_disable_counter,FUNC_0
+armv8pmu_disable_intens,FUNC_1
+armv8pmu_pmcr_write,FUNC_2
+kvm_clr_pmu_events,FUNC_3
+armv8pmu_reset,FUNC_4
+info,VAR_5
+cpu_pmu,VAR_6
+idx,VAR_7
+nb_cnt,VAR_8

@@ -1,0 +1,17 @@
+irq_data_get_irq_chip_data,FUNC_0
+irq_gc_lock,FUNC_1
+irq_gc_unlock,FUNC_2
+irq_reg_readl,FUNC_3
+irq_reg_writel,FUNC_4
+stm32_exti_hwspin_lock,FUNC_5
+stm32_exti_hwspin_unlock,FUNC_6
+stm32_exti_set_type,FUNC_7
+stm32_irq_set_type,FUNC_8
+d,VAR_0
+type,VAR_1
+gc,VAR_2
+chip_data,VAR_3
+stm32_bank,VAR_4
+rtsr,VAR_5
+ftsr,VAR_6
+err,VAR_7

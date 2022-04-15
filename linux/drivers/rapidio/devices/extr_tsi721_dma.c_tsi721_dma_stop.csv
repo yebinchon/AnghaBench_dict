@@ -1,0 +1,10 @@
+TSI721_DMAC_CTL,VAR_0
+TSI721_DMAC_CTL_SUSP,VAR_1
+iowrite32,FUNC_0
+spin_lock_bh,FUNC_1
+spin_unlock_bh,FUNC_2
+tsi721_dma_is_idle,FUNC_3
+udelay,FUNC_4
+tsi721_dma_stop,FUNC_5
+bdma_chan,VAR_2
+timeout,VAR_3

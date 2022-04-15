@@ -1,0 +1,12 @@
+MLXSW_REG_RALST_BIN_COUNT,VAR_0
+MLXSW_REG_RALST_BIN_NO_CHILD,VAR_1
+MLXSW_REG_RALST_BIN_OFFSET,VAR_2
+MLXSW_REG_ZERO,FUNC_0
+memset,FUNC_1
+mlxsw_reg_ralst_root_bin_set,FUNC_2
+mlxsw_reg_ralst_tree_id_set,FUNC_3
+ralst,VAR_3
+mlxsw_reg_ralst_pack,FUNC_4
+payload,VAR_4
+root_bin,VAR_5
+tree_id,VAR_6

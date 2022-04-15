@@ -1,0 +1,13 @@
+blk_init_allocated_queue,FUNC_0
+blk_queue_lld_busy,FUNC_1
+blk_queue_prep_rq,FUNC_2
+blk_queue_softirq_done,FUNC_3
+dm_init_md_queue,FUNC_4
+dm_lld_busy,VAR_0
+dm_prep_fn,VAR_1
+dm_request_fn,VAR_2
+dm_softirq_done,VAR_3
+elv_register_queue,FUNC_5
+dm_init_request_based_queue,FUNC_6
+md,VAR_4
+q,VAR_5

@@ -1,0 +1,16 @@
+LOG_PPS,VAR_0
+MMCBUS_WAIT_FOR_REQUEST,FUNC_0
+MMC_ERR_FAILED,VAR_1
+MMC_ERR_NONE,VAR_2
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+memset,FUNC_3
+ppsratecheck,FUNC_4
+mmc_wait_for_cmd,FUNC_5
+busdev,VAR_3
+dev,VAR_4
+cmd,VAR_5
+retries,VAR_6
+mreq,VAR_7
+sc,VAR_8
+err,VAR_9

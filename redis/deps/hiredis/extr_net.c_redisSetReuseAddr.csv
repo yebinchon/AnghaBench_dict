@@ -1,0 +1,11 @@
+REDIS_ERR,VAR_0
+REDIS_ERR_IO,VAR_1
+REDIS_OK,VAR_2
+SOL_SOCKET,VAR_3
+SO_REUSEADDR,VAR_4
+__redisSetErrorFromErrno,FUNC_0
+redisNetClose,FUNC_1
+setsockopt,FUNC_2
+redisSetReuseAddr,FUNC_3
+c,VAR_5
+on,VAR_6

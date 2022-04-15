@@ -1,0 +1,14 @@
+MMC_CAP_WAIT_WHILE_BUSY,VAR_0
+MMC_CMD_AC,VAR_1
+MMC_RSP_R1,VAR_2
+MMC_SEND_STATUS,VAR_3
+memset,FUNC_0
+mmc_hostname,FUNC_1
+mmc_test_busy,FUNC_2
+mmc_wait_for_cmd,FUNC_3
+pr_info,FUNC_4
+mmc_test_wait_busy,FUNC_5
+test,VAR_4
+ret,VAR_5
+busy,VAR_6
+cmd,VAR_7

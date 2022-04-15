@@ -1,0 +1,10 @@
+PROC_PDEATHSIG_STATUS,VAR_0
+P_PID,VAR_1
+SIGINFO,VAR_2
+assert,FUNC_0
+procctl,FUNC_1
+main,FUNC_2
+argc,VAR_3
+argv,VAR_4
+signum,VAR_5
+rc,VAR_6

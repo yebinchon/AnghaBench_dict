@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+S3C_AC97_GLBCTRL,VAR_1
+S3C_AC97_GLBCTRL_CODECREADYIE,VAR_2
+S3C_AC97_GLBSTAT,VAR_3
+ac97_completion,VAR_4
+codec_ready,VAR_5
+complete,FUNC_0
+readl,FUNC_1
+s3c24xx_ac97,VAR_6
+writel,FUNC_2
+s3c2443_ac97_irq,FUNC_3
+irq,VAR_7
+dev_id,VAR_8
+status,VAR_9
+ac_glbctrl,VAR_10

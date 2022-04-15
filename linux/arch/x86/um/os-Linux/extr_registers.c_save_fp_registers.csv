@@ -1,0 +1,10 @@
+FP_SIZE,VAR_0
+NT_X86_XSTATE,VAR_1
+PTRACE_GETREGSET,VAR_2
+errno,VAR_3
+have_xstate_support,VAR_4
+ptrace,FUNC_0
+save_i387_registers,FUNC_1
+save_fp_registers,FUNC_2
+pid,VAR_5
+fp_regs,VAR_6

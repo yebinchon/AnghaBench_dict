@@ -1,0 +1,14 @@
+ATA_ALL_DEVICES,VAR_0
+ATA_EH_RESET,VAR_1
+ENOMEM,VAR_2
+GFP_NOIO,VAR_3
+SATA_PMP_MAX_PORTS,VAR_4
+ata_link_init,FUNC_0
+kzalloc,FUNC_1
+sata_pmp_init_links,FUNC_2
+ap,VAR_5
+nr_ports,VAR_6
+pmp_link,VAR_7
+i,VAR_8
+link,VAR_9
+ehc,VAR_10

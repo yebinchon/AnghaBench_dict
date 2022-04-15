@@ -1,0 +1,17 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+HDAPS_PORT_XPOS,VAR_2
+HDAPS_PORT_YPOS,VAR_3
+__hdaps_read_pair,FUNC_0
+hdaps_mtx,VAR_4
+input_report_abs,FUNC_1
+input_sync,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+rest_x,VAR_5
+rest_y,VAR_6
+hdaps_mousedev_poll,FUNC_5
+dev,VAR_7
+input_dev,VAR_8
+x,VAR_9
+y,VAR_10

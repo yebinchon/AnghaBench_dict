@@ -1,0 +1,12 @@
+NVMET_ERROR_LOG_SLOTS,VAR_0
+nvmet_copy_to_sgl,FUNC_0
+nvmet_req_complete,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+nvmet_execute_get_log_page_error,FUNC_4
+req,VAR_1
+ctrl,VAR_2
+flags,VAR_3
+offset,VAR_4
+slot,VAR_5
+i,VAR_6

@@ -1,0 +1,12 @@
+MAILBOX_CMD_REG,VAR_0
+MAILBOX_PTR_REG,VAR_1
+MBOX_CMD,VAR_2
+MBOX_PTR,VAR_3
+altera_mbox_pending,FUNC_0
+mbox_chan_received_data,FUNC_1
+mbox_chan_to_altera_mbox,FUNC_2
+readl_relaxed,FUNC_3
+altera_mbox_rx_data,FUNC_4
+chan,VAR_4
+mbox,VAR_5
+data,VAR_6

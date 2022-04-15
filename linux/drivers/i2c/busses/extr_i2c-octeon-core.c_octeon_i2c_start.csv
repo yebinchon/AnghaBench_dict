@@ -1,0 +1,14 @@
+EAGAIN,VAR_0
+STAT_REP_START,VAR_1
+STAT_START,VAR_2
+TWSI_CTL_ENAB,VAR_3
+TWSI_CTL_STA,VAR_4
+octeon_i2c_ctl_write,FUNC_0
+octeon_i2c_hlc_disable,FUNC_1
+octeon_i2c_recovery,FUNC_2
+octeon_i2c_stat_read,FUNC_3
+octeon_i2c_wait,FUNC_4
+octeon_i2c_start,FUNC_5
+i2c,VAR_5
+ret,VAR_6
+stat,VAR_7

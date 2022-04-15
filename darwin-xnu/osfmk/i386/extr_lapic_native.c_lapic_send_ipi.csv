@@ -1,0 +1,13 @@
+FALSE,VAR_0
+LAPIC_ICR_DM_FIXED,VAR_1
+LAPIC_ICR_DS_PENDING,VAR_2
+LAPIC_READ_ICR,FUNC_0
+LAPIC_WRITE_ICR,FUNC_1
+cpu_pause,FUNC_2
+cpu_to_lapic,VAR_3
+lapic_interrupt_base,VAR_4
+ml_set_interrupts_enabled,FUNC_3
+lapic_send_ipi,FUNC_4
+cpu,VAR_5
+vector,VAR_6
+state,VAR_7

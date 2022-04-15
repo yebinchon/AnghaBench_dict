@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+change_pud_range,FUNC_1
+flush_cache_range,FUNC_2
+flush_tlb_range,FUNC_3
+pgd_addr_end,FUNC_4
+pgd_none_or_clear_bad,FUNC_5
+pgd_offset,FUNC_6
+change_protection,FUNC_7
+vma,VAR_0
+addr,VAR_1
+end,VAR_2
+newprot,VAR_3
+dirty_accountable,VAR_4
+mm,VAR_5
+pgd,VAR_6
+next,VAR_7
+start,VAR_8

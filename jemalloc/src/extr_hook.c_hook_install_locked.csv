@@ -1,0 +1,14 @@
+ATOMIC_RELAXED,VAR_0
+HOOK_MAX,VAR_1
+assert,FUNC_0
+atomic_load_u,FUNC_1
+atomic_store_u,FUNC_2
+hooks,VAR_2
+nhooks,VAR_3
+seq_store_hooks,FUNC_3
+seq_try_load_hooks,FUNC_4
+hook_install_locked,FUNC_5
+to_install,VAR_4
+hooks_internal,VAR_5
+i,VAR_6
+success,VAR_7

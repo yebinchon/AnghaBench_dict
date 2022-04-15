@@ -1,0 +1,17 @@
+Anum_bgw_policy_compress_chunks_hypertable_id,VAR_0
+Anum_bgw_policy_compress_chunks_job_id,VAR_1
+Anum_bgw_policy_compress_chunks_older_than,VAR_2
+Assert,FUNC_0
+AttrNumberGetAttrOffset,FUNC_1
+DatumGetInt32,FUNC_2
+MemoryContextAllocZero,FUNC_3
+Natts_bgw_policy_compress_chunks,VAR_3
+SCAN_CONTINUE,VAR_4
+heap_deform_tuple,FUNC_4
+ts_interval_from_tuple,FUNC_5
+bgw_policy_compress_chunks_tuple_found,FUNC_6
+ti,VAR_5
+data,VAR_6
+policy,VAR_7
+nulls,VAR_8
+values,VAR_9

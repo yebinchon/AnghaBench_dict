@@ -1,0 +1,17 @@
+FALSE,VAR_0
+FTP_CMD_STOR,VAR_1
+FTP_InitListenSocket,FUNC_0
+FTP_ReceiveResponse,FUNC_1
+FTP_SendCommand,FUNC_2
+FTP_SendPortOrPasv,FUNC_3
+FTP_SendType,FUNC_4
+FTP_SetResponseError,FUNC_5
+TRACE,FUNC_6
+TRUE,VAR_2
+closesocket,FUNC_7
+FTP_SendStore,FUNC_8
+lpwfs,VAR_3
+lpszRemoteFile,VAR_4
+dwType,VAR_5
+nResCode,VAR_6
+bSuccess,VAR_7

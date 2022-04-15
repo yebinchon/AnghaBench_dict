@@ -1,0 +1,11 @@
+RETURN_ERROR_IF,FUNC_0
+XXH64_reset,FUNC_1
+ZSTD_getFrameHeader_advanced,FUNC_2
+ZSTD_isError,FUNC_3
+dictionary_wrong,VAR_0
+srcSize_wrong,VAR_1
+ZSTD_decodeFrameHeader,FUNC_4
+dctx,VAR_2
+src,VAR_3
+headerSize,VAR_4
+result,VAR_5

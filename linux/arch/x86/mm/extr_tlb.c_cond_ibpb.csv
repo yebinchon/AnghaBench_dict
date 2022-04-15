@@ -1,0 +1,14 @@
+LAST_USER_MM_IBPB,VAR_0
+cpu_tlbstate,VAR_1
+indirect_branch_prediction_barrier,FUNC_0
+mm_mangle_tif_spec_ib,FUNC_1
+static_branch_likely,FUNC_2
+static_branch_unlikely,FUNC_3
+switch_mm_always_ibpb,VAR_2
+switch_mm_cond_ibpb,VAR_3
+this_cpu_read,FUNC_4
+this_cpu_write,FUNC_5
+cond_ibpb,FUNC_6
+next,VAR_4
+prev_mm,VAR_5
+next_mm,VAR_6

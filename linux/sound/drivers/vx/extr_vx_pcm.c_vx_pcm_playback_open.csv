@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+SNDRV_PCM_HW_PARAM_BUFFER_BYTES,VAR_2
+SNDRV_PCM_HW_PARAM_PERIOD_BYTES,VAR_3
+VX_STAT_IS_STALE,VAR_4
+snd_BUG_ON,FUNC_0
+snd_pcm_hw_constraint_step,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+vx_alloc_pipe,FUNC_3
+vx_pcm_playback_hw,VAR_5
+vx_pcm_playback_open,FUNC_4
+subs,VAR_6
+runtime,VAR_7
+chip,VAR_8
+pipe,VAR_9
+audio,VAR_10
+err,VAR_11

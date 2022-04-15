@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+KEXEC_ARM_ATAGS_OFFSET,VAR_1
+KEXEC_ARM_ZIMAGE_OFFSET,VAR_2
+OF_DT_HEADER,VAR_3
+cpu_to_be32,FUNC_0
+get_user,FUNC_1
+idmap_to_phys,FUNC_2
+memblock_is_region_memory,FUNC_3
+num_possible_cpus,FUNC_4
+platform_can_cpu_hotplug,FUNC_5
+platform_can_secondary_boot,FUNC_6
+machine_kexec_prepare,FUNC_7
+image,VAR_4
+current_segment,VAR_5
+header,VAR_6
+i,VAR_7
+err,VAR_8

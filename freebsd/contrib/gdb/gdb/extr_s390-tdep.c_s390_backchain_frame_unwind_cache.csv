@@ -1,0 +1,17 @@
+S390_PC_REGNUM,VAR_0
+S390_RETADDR_REGNUM,VAR_1
+S390_SP_REGNUM,VAR_2
+frame_pc_unwind,FUNC_0
+frame_unwind_register_unsigned,FUNC_1
+gdbarch_ptr_bit,FUNC_2
+get_frame_arch,FUNC_3
+read_memory_unsigned_integer,FUNC_4
+safe_read_memory_integer,FUNC_5
+s390_backchain_frame_unwind_cache,FUNC_6
+next_frame,VAR_3
+info,VAR_4
+gdbarch,VAR_5
+word_size,VAR_6
+backchain,VAR_7
+reg,VAR_8
+sp,VAR_9

@@ -1,0 +1,12 @@
+DHCP_SOCKET,VAR_0
+DHCP_allocated_ip,VAR_1
+SOCKERR_TIMEOUT,VAR_2
+dhcp_tick_1s,VAR_3
+getRCR,FUNC_0
+printf,FUNC_1
+send_DHCP_DECLINE,FUNC_2
+sendto,FUNC_3
+setRCR,FUNC_4
+check_DHCP_leasedIP,FUNC_5
+tmp,VAR_4
+ret,VAR_5

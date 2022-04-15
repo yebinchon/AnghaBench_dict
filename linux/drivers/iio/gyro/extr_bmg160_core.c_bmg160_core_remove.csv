@@ -1,0 +1,16 @@
+BMG160_MODE_DEEP_SUSPEND,VAR_0
+bmg160_set_mode,FUNC_0
+dev_get_drvdata,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv,FUNC_3
+iio_trigger_unregister,FUNC_4
+iio_triggered_buffer_cleanup,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+pm_runtime_disable,FUNC_8
+pm_runtime_put_noidle,FUNC_9
+pm_runtime_set_suspended,FUNC_10
+bmg160_core_remove,FUNC_11
+dev,VAR_1
+indio_dev,VAR_2
+data,VAR_3

@@ -1,0 +1,14 @@
+GNUTLS_CRD_CERTIFICATE,VAR_0
+MSG_INFO,VAR_1
+gnutls_certificate_allocate_credentials,FUNC_0
+gnutls_credentials_set,FUNC_1
+gnutls_strerror,FUNC_2
+os_free,FUNC_3
+os_zalloc,FUNC_4
+tls_gnutls_init_session,FUNC_5
+wpa_printf,FUNC_6
+tls_connection_init,FUNC_7
+ssl_ctx,VAR_2
+global,VAR_3
+conn,VAR_4
+ret,VAR_5

@@ -1,0 +1,14 @@
+BNX2FC_ELS_DBG,FUNC_0
+BNX2FC_FLAG_ELS_TIMEOUT,VAR_0
+BUG_ON,FUNC_1
+bnx2fc_cmd_release,VAR_1
+bnx2fc_initiate_cleanup,FUNC_2
+kfree,FUNC_3
+kref_put,FUNC_4
+list_del_init,FUNC_5
+test_and_clear_bit,FUNC_6
+bnx2fc_rrq_compl,FUNC_7
+cb_arg,VAR_2
+orig_io_req,VAR_3
+rrq_req,VAR_4
+rc,VAR_5

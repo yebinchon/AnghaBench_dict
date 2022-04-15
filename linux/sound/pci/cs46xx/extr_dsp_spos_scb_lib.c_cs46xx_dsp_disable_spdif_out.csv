@@ -1,0 +1,11 @@
+DSP_SPDIF_STATUS_OUTPUT_ENABLED,VAR_0
+DSP_SPDIF_STATUS_PLAYBACK_OPEN,VAR_1
+EBUSY,VAR_2
+EINVAL,VAR_3
+SPDIFO_IP_OUTPUT_BUFFER1,VAR_4
+_dsp_clear_sample_buffer,FUNC_0
+cs46xx_dsp_remove_scb,FUNC_1
+snd_BUG_ON,FUNC_2
+cs46xx_dsp_disable_spdif_out,FUNC_3
+chip,VAR_5
+ins,VAR_6

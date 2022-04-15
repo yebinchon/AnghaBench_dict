@@ -1,0 +1,17 @@
+AU1100_LCD_NBR_PALETTE_ENTRIES,VAR_0
+EINVAL,VAR_1
+FB_VISUAL_TRUECOLOR,VAR_2
+panel_is_active,FUNC_0
+panel_is_color,FUNC_1
+panel_swap_rgb,FUNC_2
+to_au1100fb_device,FUNC_3
+au1100fb_fb_setcolreg,FUNC_4
+regno,VAR_3
+red,VAR_4
+green,VAR_5
+blue,VAR_6
+transp,VAR_7
+fbi,VAR_8
+fbdev,VAR_9
+palette,VAR_10
+value,VAR_11

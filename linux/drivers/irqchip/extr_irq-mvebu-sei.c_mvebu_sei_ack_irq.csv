@@ -1,0 +1,10 @@
+BIT,FUNC_0
+GICP_SECR,FUNC_1
+SEI_IRQ_REG_BIT,FUNC_2
+SEI_IRQ_REG_IDX,FUNC_3
+irq_data_get_irq_chip_data,FUNC_4
+writel_relaxed,FUNC_5
+mvebu_sei_ack_irq,FUNC_6
+d,VAR_0
+sei,VAR_1
+reg_idx,VAR_2

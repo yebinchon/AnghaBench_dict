@@ -1,0 +1,16 @@
+NFP_BPF_MAP_CACHE_TIME_NS,VAR_0
+dev_consume_skb_any,FUNC_0
+ktime_get_ns,FUNC_1
+nfp_bpf_ctrl_op_cache_fill,FUNC_2
+nfp_bpf_ctrl_op_cache_invalidate,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+swap,FUNC_6
+nfp_bpf_ctrl_op_cache_put,FUNC_7
+nfp_map,VAR_1
+op,VAR_2
+skb,VAR_3
+cache_gen,VAR_4
+blocker,VAR_5
+filler,VAR_6
+to,VAR_7

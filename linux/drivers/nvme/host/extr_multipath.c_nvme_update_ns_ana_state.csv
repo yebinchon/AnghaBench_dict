@@ -1,0 +1,10 @@
+NVME_NS_ANA_PENDING,VAR_0
+clear_bit,FUNC_0
+le32_to_cpu,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+nvme_mpath_set_live,FUNC_4
+nvme_state_is_live,FUNC_5
+nvme_update_ns_ana_state,FUNC_6
+desc,VAR_1
+ns,VAR_2

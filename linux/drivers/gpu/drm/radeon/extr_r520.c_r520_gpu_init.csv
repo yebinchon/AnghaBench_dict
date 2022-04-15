@@ -1,0 +1,15 @@
+CHIP_RV530,VAR_0
+R300_DST_PIPE_CONFIG,VAR_1
+R400_GB_PIPE_SELECT,VAR_2
+RREG32,FUNC_0
+WREG32,FUNC_1
+WREG32_PLL,FUNC_2
+pr_warn,FUNC_3
+r420_pipes_init,FUNC_4
+r520_mc_wait_for_idle,FUNC_5
+rv515_vga_render_disable,FUNC_6
+r520_gpu_init,FUNC_7
+rdev,VAR_3
+pipe_select_current,VAR_4
+gb_pipe_select,VAR_5
+tmp,VAR_6

@@ -1,0 +1,16 @@
+DTRACE_IDNONE,VAR_0
+SYSTRACE_ISENTRY,FUNC_0
+SYSTRACE_SYSNUM,FUNC_1
+dtrace_machtrace_syscall,VAR_1
+dtrace_systrace_lock,VAR_2
+lck_mtx_lock,FUNC_2
+lck_mtx_unlock,FUNC_3
+mach_trap_table,VAR_3
+machtrace_sysent,VAR_4
+ml_nofault_copy,FUNC_4
+machtrace_disable,FUNC_5
+arg,VAR_5
+id,VAR_6
+parg,VAR_7
+sysnum,VAR_8
+disable,VAR_9

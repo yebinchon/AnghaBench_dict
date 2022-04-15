@@ -1,0 +1,10 @@
+OCTEON_RND_WORDS,VAR_0
+RANDOM_PURE_OCTEON,VAR_1
+callout_reset,FUNC_0
+cvmx_rng_get_random64,FUNC_1
+hz,VAR_2
+random_harvest_queue,FUNC_2
+octeon_rnd_harvest,FUNC_3
+arg,VAR_3
+sc,VAR_4
+i,VAR_5

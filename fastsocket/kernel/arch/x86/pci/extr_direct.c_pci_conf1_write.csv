@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+PCI_CONF1_ADDRESS,FUNC_0
+outb,FUNC_1
+outl,FUNC_2
+outw,FUNC_3
+pci_config_lock,VAR_1
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+pci_conf1_write,FUNC_6
+seg,VAR_2
+bus,VAR_3
+devfn,VAR_4
+reg,VAR_5
+len,VAR_6
+value,VAR_7
+flags,VAR_8

@@ -1,0 +1,15 @@
+AGENT_STATE_ACTIVE,VAR_0
+AGENT_STATE_SUSPENDED,VAR_1
+RCODE_COMPLETE,VAR_2
+RCODE_CONFLICT_ERROR,VAR_3
+RCODE_TYPE_ERROR,VAR_4
+pr_debug,FUNC_0
+queue_work,FUNC_1
+spin_lock_bh,FUNC_2
+spin_unlock_bh,FUNC_3
+system_unbound_wq,VAR_5
+tgt_agent_rw_doorbell,FUNC_4
+card,VAR_6
+tcode,VAR_7
+data,VAR_8
+agent,VAR_9

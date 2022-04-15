@@ -1,0 +1,14 @@
+CONFIG_H263_ENCODER,VAR_0
+bytestream_put_byte,FUNC_0
+bytestream_put_le16,FUNC_1
+bytestream_put_le32,FUNC_2
+ff_h263_pred_motion,FUNC_3
+put_bits_count,FUNC_4
+write_mb_info,FUNC_5
+s,VAR_1
+ptr,VAR_2
+offset,VAR_3
+mba,VAR_4
+gobn,VAR_5
+pred_x,VAR_6
+pred_y,VAR_7

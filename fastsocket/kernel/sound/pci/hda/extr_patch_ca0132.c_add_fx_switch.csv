@@ -1,0 +1,15 @@
+CA0132_CODEC_MUTE_MONO,FUNC_0
+HDA_INPUT,VAR_0
+HDA_OUTPUT,VAR_1
+dirstr,VAR_2
+snd_ctl_new1,FUNC_1
+snd_hda_ctl_add,FUNC_2
+sprintf,FUNC_3
+add_fx_switch,FUNC_4
+codec,VAR_3
+nid,VAR_4
+pfx,VAR_5
+dir,VAR_6
+namestr,VAR_7
+type,VAR_8
+knew,VAR_9

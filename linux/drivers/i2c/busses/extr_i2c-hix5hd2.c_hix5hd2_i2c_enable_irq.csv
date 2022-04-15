@@ -1,0 +1,7 @@
+HIX5I2C_CTRL,VAR_0
+I2C_ENABLE,VAR_1
+I2C_UNMASK_ALL,VAR_2
+I2C_UNMASK_TOTAL,VAR_3
+writel_relaxed,FUNC_0
+hix5hd2_i2c_enable_irq,FUNC_1
+priv,VAR_4

@@ -1,0 +1,16 @@
+BIT_ULL,FUNC_0
+MAX_OCTEON_INSTR_QUEUES,FUNC_1
+WAIT_INFLIGHT_REQUEST,VAR_0
+atomic_read,FUNC_2
+dev_err,FUNC_3
+force_io_queues_off,FUNC_4
+lio_process_iq_request_list,FUNC_5
+lio_process_ordered_list,FUNC_6
+schedule_timeout_uninterruptible,FUNC_7
+spin_lock_bh,FUNC_8
+spin_unlock_bh,FUNC_9
+wait_for_pending_requests,FUNC_10
+pcierror_quiesce_device,FUNC_11
+oct,VAR_1
+i,VAR_2
+iq,VAR_3

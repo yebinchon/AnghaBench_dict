@@ -1,0 +1,11 @@
+SCTP_CMD_SEND_MSG,VAR_0
+SCTP_DATAMSG,FUNC_0
+SCTP_DISPOSITION_CONSUME,VAR_1
+sctp_add_cmd_sf,FUNC_1
+sctp_sf_do_prm_send,FUNC_2
+ep,VAR_2
+asoc,VAR_3
+type,VAR_4
+arg,VAR_5
+commands,VAR_6
+msg,VAR_7

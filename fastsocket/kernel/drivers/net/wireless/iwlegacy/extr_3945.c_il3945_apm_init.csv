@@ -1,0 +1,12 @@
+APMG_PS_CTRL_REG,VAR_0
+APMG_PS_CTRL_VAL_RESET_REQ,VAR_1
+APMG_RTC_INT_MSK_REG,VAR_2
+APMG_RTC_INT_STT_REG,VAR_3
+il_apm_init,FUNC_0
+il_clear_bits_prph,FUNC_1
+il_set_bits_prph,FUNC_2
+il_wr_prph,FUNC_3
+udelay,FUNC_4
+il3945_apm_init,FUNC_5
+il,VAR_4
+ret,VAR_5

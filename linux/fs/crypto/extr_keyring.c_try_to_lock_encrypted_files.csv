@@ -1,0 +1,10 @@
+check_for_busy_inodes,FUNC_0
+down_read,FUNC_1
+evict_dentries_for_decrypted_inodes,FUNC_2
+sync_filesystem,FUNC_3
+up_read,FUNC_4
+try_to_lock_encrypted_files,FUNC_5
+sb,VAR_0
+mk,VAR_1
+err1,VAR_2
+err2,VAR_3

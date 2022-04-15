@@ -1,0 +1,12 @@
+GIT_ENOTFOUND,VAR_0
+_remote_name,VAR_1
+_repo,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_reference_free,FUNC_2
+git_reference_lookup,FUNC_3
+git_remote_rename,FUNC_4
+git_strarray_free,FUNC_5
+test_network_remote_rename__renaming_a_remote_moves_the_underlying_reference,FUNC_6
+underlying,VAR_3
+problems,VAR_4

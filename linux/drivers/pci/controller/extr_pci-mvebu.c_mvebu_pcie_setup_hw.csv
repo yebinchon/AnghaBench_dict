@@ -1,0 +1,13 @@
+PCIE_CMD_OFF,VAR_0
+PCIE_MASK_ENABLE_INTS,VAR_1
+PCIE_MASK_OFF,VAR_2
+PCI_COMMAND_IO,VAR_3
+PCI_COMMAND_MASTER,VAR_4
+PCI_COMMAND_MEMORY,VAR_5
+mvebu_pcie_setup_wins,FUNC_0
+mvebu_readl,FUNC_1
+mvebu_writel,FUNC_2
+mvebu_pcie_setup_hw,FUNC_3
+port,VAR_6
+cmd,VAR_7
+mask,VAR_8

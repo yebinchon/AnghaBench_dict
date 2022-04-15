@@ -1,0 +1,14 @@
+WPA_AUTH_ALG_LEAP,VAR_0
+WPA_AUTH_ALG_OPEN,VAR_1
+WPA_AUTH_ALG_SHARED,VAR_2
+os_free,FUNC_0
+os_snprintf,FUNC_1
+os_snprintf_error,FUNC_2
+os_zalloc,FUNC_3
+wpa_config_write_auth_alg,FUNC_4
+data,VAR_3
+ssid,VAR_4
+buf,VAR_5
+pos,VAR_6
+end,VAR_7
+ret,VAR_8

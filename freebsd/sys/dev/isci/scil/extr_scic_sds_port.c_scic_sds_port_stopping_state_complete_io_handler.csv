@@ -1,0 +1,10 @@
+SCI_BASE_PORT_STATE_STOPPED,VAR_0
+SCI_SUCCESS,VAR_1
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_port_decrement_request_count,FUNC_1
+scic_sds_port_get_base_state_machine,FUNC_2
+scic_sds_port_stopping_state_complete_io_handler,FUNC_3
+port,VAR_2
+device,VAR_3
+io_request,VAR_4
+this_port,VAR_5

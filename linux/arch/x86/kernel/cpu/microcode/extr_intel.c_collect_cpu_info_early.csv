@@ -1,0 +1,17 @@
+MSR_IA32_PLATFORM_ID,VAR_0
+intel_get_microcode_revision,FUNC_0
+memset,FUNC_1
+native_cpuid,FUNC_2
+native_rdmsr,FUNC_3
+x86_family,FUNC_4
+x86_model,FUNC_5
+collect_cpu_info_early,FUNC_6
+uci,VAR_1
+val,VAR_2
+family,VAR_3
+model,VAR_4
+csig,VAR_5
+eax,VAR_6
+ebx,VAR_7
+ecx,VAR_8
+edx,VAR_9

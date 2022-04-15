@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+PORT_SCI,VAR_1
+SCxSR,VAR_2
+SCxSR_ERROR_CLEAR,FUNC_0
+SCxSR_RDxF_CLEAR,FUNC_1
+sci_handle_errors,FUNC_2
+sci_handle_fifo_overrun,FUNC_3
+sci_in,FUNC_4
+sci_out,FUNC_5
+sci_rx_interrupt,FUNC_6
+sci_tx_interrupt,FUNC_7
+sci_er_interrupt,FUNC_8
+irq,VAR_3
+ptr,VAR_4
+port,VAR_5

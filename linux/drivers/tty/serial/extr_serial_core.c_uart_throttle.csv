@@ -1,0 +1,17 @@
+C_CRTSCTS,FUNC_0
+I_IXOFF,FUNC_1
+STOP_CHAR,FUNC_2
+TIOCM_RTS,VAR_0
+UPSTAT_AUTORTS,VAR_1
+UPSTAT_AUTOXOFF,VAR_2
+UPSTAT_SYNC_FIFO,VAR_3
+stub1,FUNC_3
+uart_clear_mctrl,FUNC_4
+uart_port_deref,FUNC_5
+uart_port_ref,FUNC_6
+uart_send_xchar,FUNC_7
+uart_throttle,FUNC_8
+tty,VAR_4
+state,VAR_5
+mask,VAR_6
+port,VAR_7

@@ -1,0 +1,16 @@
+MFC_WATCHDOG_CNT,VAR_0
+MFC_WATCHDOG_INTERVAL,VAR_1
+add_timer,FUNC_0
+atomic_inc,FUNC_1
+atomic_read,FUNC_2
+dev,VAR_2
+from_timer,FUNC_3
+jiffies,VAR_3
+mfc_err,FUNC_4
+msecs_to_jiffies,FUNC_5
+schedule_work,FUNC_6
+test_bit,FUNC_7
+watchdog_timer,VAR_4
+s5p_mfc_watchdog,FUNC_8
+t,VAR_5
+dev,VAR_6

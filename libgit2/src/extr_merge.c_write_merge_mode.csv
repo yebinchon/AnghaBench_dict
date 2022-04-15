@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+GIT_FILEBUF_CREATE_LEADING_DIRS,VAR_1
+GIT_FILEBUF_INIT,VAR_2
+GIT_MERGE_FILE_MODE,VAR_3
+GIT_MERGE_MODE_FILE,VAR_4
+assert,FUNC_0
+git_buf_dispose,FUNC_1
+git_buf_joinpath,FUNC_2
+git_filebuf_cleanup,FUNC_3
+git_filebuf_commit,FUNC_4
+git_filebuf_open,FUNC_5
+git_filebuf_write,FUNC_6
+write_merge_mode,FUNC_7
+repo,VAR_5
+file,VAR_6
+file_path,VAR_7
+error,VAR_8

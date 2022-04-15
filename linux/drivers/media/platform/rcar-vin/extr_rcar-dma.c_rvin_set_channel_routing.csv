@@ -1,0 +1,17 @@
+VNCSI_IFMD_CSI_CHSEL,FUNC_0
+VNCSI_IFMD_DES0,VAR_0
+VNCSI_IFMD_DES1,VAR_1
+VNCSI_IFMD_REG,VAR_2
+VNMC_REG,VAR_3
+VNMC_VUP,VAR_4
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put,FUNC_2
+rvin_read,FUNC_3
+rvin_write,FUNC_4
+vin_dbg,FUNC_5
+rvin_set_channel_routing,FUNC_6
+vin,VAR_5
+chsel,VAR_6
+ifmd,VAR_7
+vnmc,VAR_8
+ret,VAR_9

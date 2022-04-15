@@ -1,0 +1,15 @@
+R5,VAR_0
+SND_BRK,VAR_1
+ZS_IS_ASLEEP,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_pmz,FUNC_3
+write_zsreg,FUNC_4
+pmz_break_ctl,FUNC_5
+port,VAR_2
+break_state,VAR_3
+uap,VAR_4
+set_bits,VAR_5
+clear_bits,VAR_6
+new_reg,VAR_7
+flags,VAR_8

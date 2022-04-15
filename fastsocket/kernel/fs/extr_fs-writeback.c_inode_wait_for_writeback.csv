@@ -1,0 +1,14 @@
+DEFINE_WAIT_BIT,FUNC_0
+I_SYNC,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__I_SYNC,VAR_2
+__wait_on_bit,FUNC_1
+bit_waitqueue,FUNC_2
+inode_lock,VAR_3
+inode_wait,VAR_4
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wq,VAR_5
+inode_wait_for_writeback,FUNC_5
+inode,VAR_6
+wqh,VAR_7

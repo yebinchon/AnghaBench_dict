@@ -1,0 +1,11 @@
+PCI_EXP_DPC_CTL,VAR_0
+PCI_EXP_DPC_CTL_EN_FATAL,VAR_1
+PCI_EXP_DPC_CTL_INT_EN,VAR_2
+get_service_data,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+dpc_remove,FUNC_3
+dev,VAR_3
+dpc,VAR_4
+pdev,VAR_5
+ctl,VAR_6

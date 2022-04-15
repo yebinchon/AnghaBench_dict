@@ -1,0 +1,12 @@
+BH1750_ONE_TIME_H_RES_MODE,VAR_0
+be16_to_cpu,FUNC_0
+i2c_master_recv,FUNC_1
+i2c_smbus_write_byte,FUNC_2
+usleep_range,FUNC_3
+bh1750_read,FUNC_4
+data,VAR_1
+val,VAR_2
+ret,VAR_3
+result,VAR_4
+chip_info,VAR_5
+delay,VAR_6

@@ -1,0 +1,16 @@
+RAW3215_BUFFER_SIZE,VAR_0
+RAW3215_WORKING,VAR_1
+TAB_STOP_SIZE,VAR_2
+_ascebc,VAR_3
+get_ccwdev_lock,FUNC_0
+raw3215_make_room,FUNC_1
+raw3215_mk_write_req,FUNC_2
+raw3215_try_io,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+raw3215_putchar,FUNC_6
+raw,VAR_4
+ch,VAR_5
+flags,VAR_6
+length,VAR_7
+i,VAR_8

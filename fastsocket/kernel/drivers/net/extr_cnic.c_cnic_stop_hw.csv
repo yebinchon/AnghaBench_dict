@@ -1,0 +1,17 @@
+CNIC_DRV_STATE_HANDLES_IRQ,VAR_0
+CNIC_F_CNIC_UP,VAR_1
+CNIC_ULP_L4,VAR_2
+clear_bit,FUNC_0
+cnic_cm_shutdown,FUNC_1
+cnic_shutdown_rings,FUNC_2
+msleep,FUNC_3
+pci_dev_put,FUNC_4
+rcu_assign_pointer,FUNC_5
+stub1,FUNC_6
+stub2,FUNC_7
+synchronize_rcu,FUNC_8
+test_bit,FUNC_9
+cnic_stop_hw,FUNC_10
+dev,VAR_3
+cp,VAR_4
+i,VAR_5

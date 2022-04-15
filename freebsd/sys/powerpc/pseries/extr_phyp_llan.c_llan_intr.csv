@@ -1,0 +1,15 @@
+H_VIO_SIGNAL,VAR_0
+IFCOUNTER_IERRORS,VAR_1
+IFCOUNTER_IPACKETS,VAR_2
+if_inc_counter,FUNC_0
+llan_add_rxbuf,FUNC_1
+m_adj,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+phyp_hcall,FUNC_5
+stub1,FUNC_6
+llan_intr,FUNC_7
+xsc,VAR_3
+sc,VAR_4
+rx,VAR_5
+m,VAR_6

@@ -1,0 +1,17 @@
+ADD_CNT,FUNC_0
+END_TIMER,FUNC_1
+IS_ARRAY,VAR_0
+MAKE_STD_ZVAL,FUNC_2
+START_TIMER,FUNC_3
+Z_TYPE_PP,FUNC_4
+add_assoc_string,FUNC_5
+add_index_string,FUNC_6
+array_init,FUNC_7
+assert,FUNC_8
+set_field,VAR_1
+strlen,FUNC_9
+set_field_string,FUNC_10
+arr,VAR_2
+val,VAR_3
+id,VAR_4
+num,VAR_5

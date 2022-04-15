@@ -1,0 +1,16 @@
+MACEISA_AUDIO_INT,VAR_0
+MACEISA_AUDIO_SW_IRQ,VAR_1
+MACEISA_MISC_INT,VAR_2
+MACEISA_SUPERIO_INT,VAR_3
+MACE_AUDIO_INT,VAR_4
+MACE_MISC_INT,VAR_5
+MACE_SUPERIO_INT,VAR_6
+crime,VAR_7
+crime_mask,VAR_8
+flush_crime_bus,FUNC_0
+flush_mace_bus,FUNC_1
+mace,VAR_9
+maceisa_mask,VAR_10
+disable_maceisa_irq,FUNC_2
+d,VAR_11
+crime_int,VAR_12

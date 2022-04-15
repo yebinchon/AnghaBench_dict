@@ -1,0 +1,7 @@
+SUSP_MODE_STANDBY_SF,VAR_0
+clear_bl_bit,FUNC_0
+local_irq_disable,FUNC_1
+set_bl_bit,FUNC_2
+sh_mobile_call_standby,FUNC_3
+sh_pm_enter,FUNC_4
+state,VAR_1

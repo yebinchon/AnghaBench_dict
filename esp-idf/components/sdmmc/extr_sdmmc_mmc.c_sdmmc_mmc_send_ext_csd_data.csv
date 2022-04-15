@@ -1,0 +1,12 @@
+MMC_SEND_EXT_CSD,VAR_0
+SCF_CMD_ADTC,VAR_1
+SCF_CMD_READ,VAR_2
+SCF_RSP_R1,VAR_3
+assert,FUNC_0
+esp_ptr_dma_capable,FUNC_1
+sdmmc_send_cmd,FUNC_2
+sdmmc_mmc_send_ext_csd_data,FUNC_3
+card,VAR_4
+out_data,VAR_5
+datalen,VAR_6
+cmd,VAR_7

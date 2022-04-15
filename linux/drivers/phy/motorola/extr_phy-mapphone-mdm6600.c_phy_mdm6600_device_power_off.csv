@@ -1,0 +1,13 @@
+PHY_MDM6600_CMD_BP_SHUTDOWN_REQ,VAR_0
+PHY_MDM6600_RESET,VAR_1
+PHY_MDM6600_STATUS_PANIC,VAR_2
+dev_err,FUNC_0
+dev_info,FUNC_1
+gpiod_set_value_cansleep,FUNC_2
+msecs_to_jiffies,FUNC_3
+msleep,FUNC_4
+phy_mdm6600_cmd,FUNC_5
+wait_for_completion_timeout,FUNC_6
+phy_mdm6600_device_power_off,FUNC_7
+ddata,VAR_3
+reset_gpio,VAR_4

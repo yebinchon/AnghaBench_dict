@@ -1,0 +1,17 @@
+DPRINTF,FUNC_0
+HDAC_DPIBUBASE,VAR_0
+HDAC_DPLBASE_DPLBASE_DMAPBE,VAR_1
+HDAC_DPLBASE_DPLBASE_MASK,VAR_2
+HDA_DMA_PIB_ENTRY_LEN,VAR_3
+HDA_IOSS_NO,VAR_4
+assert,FUNC_1
+hda_dma_get_vaddr,FUNC_2
+hda_get_reg_by_offset,FUNC_3
+hda_set_dpiblbase,FUNC_4
+sc,VAR_5
+offset,VAR_6
+old,VAR_7
+value,VAR_8
+dpiblbase,VAR_9
+dpibubase,VAR_10
+dpibpaddr,VAR_11

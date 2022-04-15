@@ -1,0 +1,12 @@
+get_device,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+put_device,FUNC_3
+scsi_alloc_sdev,FUNC_4
+scsi_alloc_target,FUNC_5
+scsi_host_scan_allowed,FUNC_6
+scsi_target_reap,FUNC_7
+scsi_get_host_dev,FUNC_8
+shost,VAR_0
+sdev,VAR_1
+starget,VAR_2

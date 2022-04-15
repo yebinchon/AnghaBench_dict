@@ -1,0 +1,16 @@
+FLV_FILE_HEADER_LEN,VAR_0
+FLV_TAG_HEADER_LEN,VAR_1
+SCRIPT_TAG,VAR_2
+flv_header_bytes,VAR_3
+malloc,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+write_int_24,FUNC_3
+write_int_32,FUNC_4
+write_flv_header_and_metadata,FUNC_5
+pp_buffer,VAR_4
+p_metadata_payload,VAR_5
+metadata_payload_len,VAR_6
+metadata_packet_len,VAR_7
+data_len,VAR_8
+p,VAR_9

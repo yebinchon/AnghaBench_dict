@@ -1,0 +1,13 @@
+ATMEL_HLCDC_LAYER_A2Q,VAR_0
+ATMEL_HLCDC_LAYER_CHDR,VAR_1
+ATMEL_HLCDC_LAYER_IDR,VAR_2
+ATMEL_HLCDC_LAYER_ISR,VAR_3
+ATMEL_HLCDC_LAYER_RST,VAR_4
+ATMEL_HLCDC_LAYER_UPDATE,VAR_5
+atmel_hlcdc_layer_read_reg,FUNC_0
+atmel_hlcdc_layer_write_reg,FUNC_1
+drm_plane_to_atmel_hlcdc_plane,FUNC_2
+atmel_hlcdc_plane_atomic_disable,FUNC_3
+p,VAR_6
+old_state,VAR_7
+plane,VAR_8

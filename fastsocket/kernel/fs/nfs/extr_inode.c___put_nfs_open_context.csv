@@ -1,0 +1,17 @@
+NFS_PROTO,FUNC_0
+atomic_dec_and_lock,FUNC_1
+atomic_dec_and_test,FUNC_2
+dput,FUNC_3
+kfree,FUNC_4
+list_del,FUNC_5
+list_empty,FUNC_6
+nfs_sb_deactive,FUNC_7
+nfs_sb_deactive_async,FUNC_8
+put_rpccred,FUNC_9
+spin_unlock,FUNC_10
+stub1,FUNC_11
+__put_nfs_open_context,FUNC_12
+ctx,VAR_0
+is_sync,VAR_1
+inode,VAR_2
+sb,VAR_3

@@ -1,0 +1,14 @@
+DIOLAN_USB_TIMEOUT,VAR_0
+EINVAL,VAR_1
+EIO,VAR_2
+ENXIO,VAR_3
+ETIMEDOUT,VAR_4
+usb_bulk_msg,FUNC_0
+usb_rcvbulkpipe,FUNC_1
+usb_sndbulkpipe,FUNC_2
+diolan_usb_transfer,FUNC_3
+dev,VAR_5
+ret,VAR_6
+actual,VAR_7
+i,VAR_8
+tmpret,VAR_9

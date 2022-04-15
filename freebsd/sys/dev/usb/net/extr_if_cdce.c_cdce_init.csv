@@ -1,0 +1,17 @@
+CDCE_BULK_TX,VAR_0
+CDCE_INTR_RX,VAR_1
+CDCE_INTR_TX,VAR_2
+CDCE_LOCK_ASSERT,FUNC_0
+IFF_DRV_RUNNING,VAR_3
+MA_OWNED,VAR_4
+USB_MODE_HOST,VAR_5
+cdce_start,FUNC_1
+uether_getifp,FUNC_2
+uether_getsc,FUNC_3
+usbd_get_mode,FUNC_4
+usbd_transfer_start,FUNC_5
+usbd_xfer_set_stall,FUNC_6
+cdce_init,FUNC_7
+ue,VAR_6
+sc,VAR_7
+ifp,VAR_8

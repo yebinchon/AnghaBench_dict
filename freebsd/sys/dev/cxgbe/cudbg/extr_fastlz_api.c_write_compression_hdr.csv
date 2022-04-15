@@ -1,0 +1,16 @@
+get_scratch_buff,FUNC_0
+release_scratch_buff,FUNC_1
+strlen,FUNC_2
+update_adler32,FUNC_3
+write_chunk_header,FUNC_4
+write_magic,FUNC_5
+write_to_buf,FUNC_6
+write_compression_hdr,FUNC_7
+pin_buff,VAR_0
+pout_buff,VAR_1
+tmp_buffer,VAR_2
+fsize,VAR_3
+buffer,VAR_4
+checksum,VAR_5
+rc,VAR_6
+shown_name,VAR_7

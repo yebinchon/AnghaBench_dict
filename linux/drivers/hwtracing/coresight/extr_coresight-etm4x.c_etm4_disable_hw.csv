@@ -1,0 +1,16 @@
+CS_LOCK,FUNC_0
+CS_UNLOCK,FUNC_1
+TRCPDCR,VAR_0
+TRCPDCR_PU,VAR_1
+TRCPRGCTLR,VAR_2
+coresight_disclaim_device_unlocked,FUNC_2
+dev_dbg,FUNC_3
+dsb,FUNC_4
+isb,FUNC_5
+readl_relaxed,FUNC_6
+sy,VAR_3
+writel_relaxed,FUNC_7
+etm4_disable_hw,FUNC_8
+info,VAR_4
+control,VAR_5
+drvdata,VAR_6

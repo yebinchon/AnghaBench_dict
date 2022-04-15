@@ -1,0 +1,12 @@
+WARN_ON_ONCE,FUNC_0
+atomic_dec_and_lock,FUNC_1
+kfree,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+module_put,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+tty_ldisc_lock,VAR_0
+put_ldisc,FUNC_7
+ld,VAR_1
+flags,VAR_2
+ldo,VAR_3

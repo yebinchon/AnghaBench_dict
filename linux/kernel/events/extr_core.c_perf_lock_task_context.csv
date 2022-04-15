@@ -1,0 +1,15 @@
+TASK_TOMBSTONE,VAR_0
+WARN_ON_ONCE,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+raw_spin_lock,FUNC_3
+raw_spin_unlock,FUNC_4
+rcu_dereference,FUNC_5
+rcu_read_lock,FUNC_6
+rcu_read_unlock,FUNC_7
+refcount_inc_not_zero,FUNC_8
+perf_lock_task_context,FUNC_9
+task,VAR_1
+ctxn,VAR_2
+flags,VAR_3
+ctx,VAR_4

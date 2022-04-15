@@ -1,0 +1,17 @@
+SATI_FAILURE_CHECK_RESPONSE_DATA,VAR_0
+SATI_SEQUENCE_READ_CAPACITY_16,VAR_1
+SATI_SUCCESS,VAR_2
+SCSI_ASCQ_INVALID_FIELD_IN_CDB,VAR_3
+SCSI_ASC_INVALID_FIELD_IN_CDB,VAR_4
+SCSI_READ_CAPACITY_PMI_BIT_ENABLE,VAR_5
+SCSI_SENSE_ILLEGAL_REQUEST,VAR_6
+SCSI_STATUS_CHECK_CONDITION,VAR_7
+sati_ata_identify_device_construct,FUNC_0
+sati_cb_get_cdb_address,FUNC_1
+sati_get_cdb_byte,FUNC_2
+sati_scsi_sense_data_construct,FUNC_3
+sati_read_capacity_16_translate_command,FUNC_4
+sequence,VAR_8
+scsi_io,VAR_9
+ata_io,VAR_10
+cdb,VAR_11

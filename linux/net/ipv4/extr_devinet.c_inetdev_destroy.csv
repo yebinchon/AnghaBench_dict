@@ -1,0 +1,16 @@
+ASSERT_RTNL,FUNC_0
+RCU_INIT_POINTER,FUNC_1
+arp_ifdown,FUNC_2
+arp_tbl,VAR_0
+call_rcu,FUNC_3
+devinet_sysctl_unregister,FUNC_4
+in_dev_rcu_put,VAR_1
+inet_del_ifa,FUNC_5
+inet_free_ifa,FUNC_6
+ip_mc_destroy_dev,FUNC_7
+neigh_parms_release,FUNC_8
+rtnl_dereference,FUNC_9
+inetdev_destroy,FUNC_10
+in_dev,VAR_2
+dev,VAR_3
+ifa,VAR_4

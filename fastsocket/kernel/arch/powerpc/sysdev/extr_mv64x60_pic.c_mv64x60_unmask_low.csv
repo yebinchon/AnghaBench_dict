@@ -1,0 +1,14 @@
+MV64X60_IC_CPU0_INTR_MASK_LO,VAR_0
+MV64x60_LEVEL2_MASK,VAR_1
+in_le32,FUNC_0
+irq_map,VAR_2
+mv64x60_cached_low_mask,VAR_3
+mv64x60_irq_reg_base,VAR_4
+mv64x60_lock,VAR_5
+out_le32,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+mv64x60_unmask_low,FUNC_4
+virq,VAR_6
+level2,VAR_7
+flags,VAR_8

@@ -1,0 +1,12 @@
+FILESYSTEM__RELABELFROM,VAR_0
+FILESYSTEM__RELABELTO,VAR_1
+SECCLASS_FILESYSTEM,VAR_2
+avc_has_perm,FUNC_0
+selinux_cred,FUNC_1
+selinux_state,VAR_3
+may_context_mount_sb_relabel,FUNC_2
+sid,VAR_4
+sbsec,VAR_5
+cred,VAR_6
+tsec,VAR_7
+rc,VAR_8

@@ -1,0 +1,13 @@
+ExecShutdownCustomScan,FUNC_0
+ExecShutdownForeignScan,FUNC_1
+ExecShutdownGather,FUNC_2
+ExecShutdownGatherMerge,FUNC_3
+ExecShutdownHash,FUNC_4
+ExecShutdownHashJoin,FUNC_5
+InstrStartNode,FUNC_6
+InstrStopNode,FUNC_7
+check_stack_depth,FUNC_8
+nodeTag,FUNC_9
+planstate_tree_walker,FUNC_10
+ExecShutdownNode,FUNC_11
+node,VAR_0

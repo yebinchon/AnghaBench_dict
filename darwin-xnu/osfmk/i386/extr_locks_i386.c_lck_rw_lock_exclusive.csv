@@ -1,0 +1,14 @@
+DTRACE_RW_EXCL,VAR_0
+FALSE,VAR_1
+LCK_RW_INTERLOCK,VAR_2
+LCK_RW_SHARED_MASK,VAR_3
+LCK_RW_WANT_EXCL,VAR_4
+LCK_RW_WANT_UPGRADE,VAR_5
+LOCKSTAT_RECORD,FUNC_0
+LS_LCK_RW_LOCK_EXCL_ACQUIRE,VAR_6
+atomic_test_and_set32,FUNC_1
+current_thread,FUNC_2
+lck_rw_lock_exclusive_gen,FUNC_3
+memory_order_acquire_smp,VAR_7
+lck_rw_lock_exclusive,FUNC_4
+lock,VAR_8

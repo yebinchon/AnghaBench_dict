@@ -1,0 +1,15 @@
+B_FALSE,VAR_0
+ZFS_TYPE_SNAPSHOT,VAR_1
+destroy_callback,VAR_2
+g_zfs,VAR_3
+nvlist_next_nvpair,FUNC_0
+nvpair_name,FUNC_1
+zfs_close,FUNC_2
+zfs_iter_dependents,FUNC_3
+zfs_open,FUNC_4
+destroy_clones,FUNC_5
+cb,VAR_4
+pair,VAR_5
+zhp,VAR_6
+defer,VAR_7
+err,VAR_8

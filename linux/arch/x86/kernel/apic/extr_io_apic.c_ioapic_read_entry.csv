@@ -1,0 +1,9 @@
+__ioapic_read_entry,FUNC_0
+ioapic_lock,VAR_0
+raw_spin_lock_irqsave,FUNC_1
+raw_spin_unlock_irqrestore,FUNC_2
+ioapic_read_entry,FUNC_3
+apic,VAR_1
+pin,VAR_2
+eu,VAR_3
+flags,VAR_4

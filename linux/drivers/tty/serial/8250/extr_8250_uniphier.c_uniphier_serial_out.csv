@@ -1,0 +1,17 @@
+UART_LCR_DLAB,VAR_0
+UNIPHIER_UART_CHAR_FCR,VAR_1
+UNIPHIER_UART_LCR_MCR,VAR_2
+UNIPHIER_UART_REGSHIFT,VAR_3
+readl,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+writel,FUNC_3
+uniphier_serial_out,FUNC_4
+p,VAR_4
+offset,VAR_5
+value,VAR_6
+valshift,VAR_7
+normal,VAR_8
+priv,VAR_9
+flags,VAR_10
+tmp,VAR_11

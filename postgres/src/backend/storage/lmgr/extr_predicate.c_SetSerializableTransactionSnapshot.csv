@@ -1,0 +1,15 @@
+Assert,FUNC_0
+ERRCODE_FEATURE_NOT_SUPPORTED,VAR_0
+ERROR,VAR_1
+GetSerializableTransactionSnapshotInt,FUNC_1
+IsParallelWorker,FUNC_2
+IsolationIsSerializable,FUNC_3
+XactDeferrable,VAR_2
+XactReadOnly,VAR_3
+ereport,FUNC_4
+errcode,FUNC_5
+errmsg,FUNC_6
+SetSerializableTransactionSnapshot,FUNC_7
+snapshot,VAR_4
+sourcevxid,VAR_5
+sourcepid,VAR_6

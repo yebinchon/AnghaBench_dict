@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENODATA,VAR_1
+POWER_SUPPLY_CHARGE_TYPE_FAST,VAR_2
+POWER_SUPPLY_CHARGE_TYPE_NONE,VAR_3
+POWER_SUPPLY_CHARGE_TYPE_TRICKLE,VAR_4
+power_supply_get_drvdata,FUNC_0
+smb347_charging_status,FUNC_1
+smb347_get_charging_status,FUNC_2
+smb347_is_ps_online,FUNC_3
+smb347_update_ps_status,FUNC_4
+smb347_battery_get_property,FUNC_5
+psy,VAR_5
+prop,VAR_6
+val,VAR_7
+smb,VAR_8
+pdata,VAR_9
+ret,VAR_10

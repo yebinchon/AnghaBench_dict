@@ -1,0 +1,14 @@
+CLOCK_MONOTONIC,VAR_0
+clock_gettime,FUNC_0
+poll,FUNC_1
+sd_journal_get_events,FUNC_2
+sd_journal_get_fd,FUNC_3
+sd_journal_get_timeout,FUNC_4
+sd_journal_process,FUNC_5
+wait_for_changes,FUNC_6
+j,VAR_1
+t,VAR_2
+msec,VAR_3
+pollfd,VAR_4
+ts,VAR_5
+n,VAR_6

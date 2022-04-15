@@ -1,0 +1,13 @@
+PF_VCPU,VAR_0
+PIDTYPE_PID,VAR_1
+get_pid_task,FUNC_0
+put_task_struct,FUNC_1
+rcu_dereference,FUNC_2
+rcu_read_lock,FUNC_3
+rcu_read_unlock,FUNC_4
+yield_to,FUNC_5
+kvm_vcpu_yield_to,FUNC_6
+target,VAR_2
+pid,VAR_3
+task,VAR_4
+ret,VAR_5

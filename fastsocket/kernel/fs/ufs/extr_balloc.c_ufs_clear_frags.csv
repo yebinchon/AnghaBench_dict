@@ -1,0 +1,16 @@
+IS_SYNC,FUNC_0
+brelse,FUNC_1
+lock_buffer,FUNC_2
+mark_buffer_dirty,FUNC_3
+memset,FUNC_4
+sb_getblk,FUNC_5
+set_buffer_uptodate,FUNC_6
+sync_dirty_buffer,FUNC_7
+unlock_buffer,FUNC_8
+ufs_clear_frags,FUNC_9
+inode,VAR_0
+beg,VAR_1
+n,VAR_2
+sync,VAR_3
+bh,VAR_4
+end,VAR_5

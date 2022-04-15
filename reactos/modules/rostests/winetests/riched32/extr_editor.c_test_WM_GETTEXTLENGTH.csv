@@ -1,0 +1,15 @@
+DestroyWindow,FUNC_0
+SendMessageA,FUNC_1
+WM_GETTEXTLENGTH,VAR_0
+WM_SETTEXT,VAR_1
+is_lang_japanese,VAR_2
+lstrlenA,FUNC_2
+new_richedit,FUNC_3
+ok,FUNC_4
+skip,FUNC_5
+test_WM_GETTEXTLENGTH,FUNC_6
+hwndRichEdit,VAR_3
+text1,VAR_4
+text2,VAR_5
+text3,VAR_6
+result,VAR_7

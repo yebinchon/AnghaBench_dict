@@ -1,0 +1,17 @@
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_unload,FUNC_1
+bus_dmamem_free,FUNC_2
+bus_release_resource,FUNC_3
+bus_teardown_intr,FUNC_4
+callout_drain,FUNC_5
+debug_called,FUNC_6
+destroy_dev,FUNC_7
+free,FUNC_8
+mly_cam_detach,FUNC_9
+mly_release_commands,FUNC_10
+mtx_destroy,FUNC_11
+mly_free,FUNC_12
+sc,VAR_3

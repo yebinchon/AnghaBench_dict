@@ -1,0 +1,16 @@
+isp_video_streamoff,FUNC_0
+kfree,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+omap3isp_put,FUNC_4
+to_isp_video_fh,FUNC_5
+v4l2_fh_del,FUNC_6
+v4l2_fh_exit,FUNC_7
+v4l2_pipeline_pm_use,FUNC_8
+vb2_queue_release,FUNC_9
+video_drvdata,FUNC_10
+isp_video_release,FUNC_11
+file,VAR_0
+video,VAR_1
+vfh,VAR_2
+handle,VAR_3

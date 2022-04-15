@@ -1,0 +1,17 @@
+DMA_FROM_DEVICE,VAR_0
+FEC_ENET_RX_FRSIZE,VAR_1
+dev_kfree_skb,FUNC_0
+dma_unmap_single,FUNC_1
+fec32_to_cpu,FUNC_2
+fec_enet_get_nextdesc,FUNC_3
+kfree,FUNC_4
+netdev_priv,FUNC_5
+fec_enet_free_buffers,FUNC_6
+ndev,VAR_2
+fep,VAR_3
+i,VAR_4
+skb,VAR_5
+bdp,VAR_6
+txq,VAR_7
+rxq,VAR_8
+q,VAR_9

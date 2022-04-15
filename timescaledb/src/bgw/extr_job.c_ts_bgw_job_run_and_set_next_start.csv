@@ -1,0 +1,17 @@
+CommitTransactionCommand,FUNC_0
+DatumGetTimestampTz,FUNC_1
+DirectFunctionCall2,FUNC_2
+IntervalPGetDatum,FUNC_3
+StartTransactionCommand,FUNC_4
+TimestampTzGetDatum,FUNC_5
+timestamptz_pl_interval,VAR_0
+ts_bgw_job_stat_find,FUNC_6
+ts_bgw_job_stat_set_next_start,FUNC_7
+ts_bgw_job_run_and_set_next_start,FUNC_8
+job,VAR_1
+func,VAR_2
+initial_runs,VAR_3
+next_interval,VAR_4
+job_stat,VAR_5
+ret,VAR_6
+next_start,VAR_7

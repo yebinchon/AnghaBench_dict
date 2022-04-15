@@ -1,0 +1,10 @@
+IRQTF_RUNTHREAD,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+TASK_RUNNING,VAR_2
+__set_current_state,FUNC_0
+kthread_should_stop,FUNC_1
+schedule,FUNC_2
+set_current_state,FUNC_3
+test_and_clear_bit,FUNC_4
+irq_wait_for_interrupt,FUNC_5
+action,VAR_3

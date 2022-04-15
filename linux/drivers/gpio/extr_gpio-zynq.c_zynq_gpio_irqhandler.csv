@@ -1,0 +1,16 @@
+ZYNQ_GPIO_INTMASK_OFFSET,FUNC_0
+ZYNQ_GPIO_INTSTS_OFFSET,FUNC_1
+chained_irq_enter,FUNC_2
+chained_irq_exit,FUNC_3
+gpiochip_get_data,FUNC_4
+irq_desc_get_chip,FUNC_5
+irq_desc_get_handler_data,FUNC_6
+readl_relaxed,FUNC_7
+zynq_gpio_handle_bank_irq,FUNC_8
+zynq_gpio_irqhandler,FUNC_9
+desc,VAR_0
+int_sts,VAR_1
+int_enb,VAR_2
+bank_num,VAR_3
+gpio,VAR_4
+irqchip,VAR_5

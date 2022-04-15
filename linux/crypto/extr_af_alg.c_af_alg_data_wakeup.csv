@@ -1,0 +1,17 @@
+EPOLLOUT,VAR_0
+EPOLLRDBAND,VAR_1
+EPOLLRDNORM,VAR_2
+POLL_OUT,VAR_3
+SOCK_WAKE_SPACE,VAR_4
+alg_sk,FUNC_0
+rcu_dereference,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+sk_wake_async,FUNC_4
+skwq_has_sleeper,FUNC_5
+wake_up_interruptible_sync_poll,FUNC_6
+af_alg_data_wakeup,FUNC_7
+sk,VAR_5
+ask,VAR_6
+ctx,VAR_7
+wq,VAR_8

@@ -1,0 +1,11 @@
+assert_spin_locked,FUNC_0
+dev_is_pci,FUNC_1
+device_domain_lock,VAR_0
+domain_update_iotlb,FUNC_2
+pci_disable_ats,FUNC_3
+pci_disable_pasid,FUNC_4
+pci_disable_pri,FUNC_5
+to_pci_dev,FUNC_6
+iommu_disable_dev_iotlb,FUNC_7
+info,VAR_1
+pdev,VAR_2

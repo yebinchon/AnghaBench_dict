@@ -1,0 +1,15 @@
+EXI_FLAG_LOCKED,VAR_0
+_CPU_ISR_Disable,FUNC_0
+_CPU_ISR_Restore,FUNC_1
+__exi_setinterrupts,FUNC_2
+__lwp_queue_appendI,FUNC_3
+__lwp_queue_getI,FUNC_4
+_lckdev_queue,VAR_1
+eximap,VAR_2
+EXI_Lock,FUNC_5
+nChn,VAR_3
+nDev,VAR_4
+unlockCB,VAR_5
+level,VAR_6
+lckd,VAR_7
+exi,VAR_8

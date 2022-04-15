@@ -1,0 +1,13 @@
+BIT,FUNC_0
+CHANMASK,FUNC_1
+imx_irqsteer_get_reg_index,FUNC_2
+raw_spin_lock_irqsave,FUNC_3
+raw_spin_unlock_irqrestore,FUNC_4
+readl_relaxed,FUNC_5
+writel_relaxed,FUNC_6
+imx_irqsteer_irq_unmask,FUNC_7
+d,VAR_0
+data,VAR_1
+idx,VAR_2
+flags,VAR_3
+val,VAR_4

@@ -1,0 +1,11 @@
+CX2072X_AFG_POWER_STATE,VAR_0
+SND_SOC_BIAS_OFF,VAR_1
+SND_SOC_BIAS_STANDBY,VAR_2
+regmap_write,FUNC_0
+snd_soc_component_get_bias_level,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+cx2072x_set_bias_level,FUNC_3
+codec,VAR_3
+level,VAR_4
+cx2072x,VAR_5
+old_level,VAR_6

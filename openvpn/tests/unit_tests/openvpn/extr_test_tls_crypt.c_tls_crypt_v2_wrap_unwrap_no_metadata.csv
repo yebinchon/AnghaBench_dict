@@ -1,0 +1,13 @@
+TLS_CRYPT_V2_MAX_METADATA_LEN,VAR_0
+TLS_CRYPT_V2_MAX_WKC_LEN,VAR_1
+alloc_buf_gc,FUNC_0
+assert_true,FUNC_1
+memcmp,FUNC_2
+tls_crypt_v2_unwrap_client_key,FUNC_3
+tls_crypt_v2_wrap_client_key,FUNC_4
+tls_crypt_v2_wrap_unwrap_no_metadata,FUNC_5
+state,VAR_2
+ctx,VAR_3
+wrapped_client_key,VAR_4
+unwrap_metadata,VAR_5
+unwrapped_client_key2,VAR_6

@@ -1,0 +1,12 @@
+M41T80_ALMON_AFE,VAR_0
+M41T80_REG_ALARM_MON,VAR_1
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+to_i2c_client,FUNC_3
+m41t80_alarm_irq_enable,FUNC_4
+dev,VAR_2
+enabled,VAR_3
+client,VAR_4
+flags,VAR_5
+retval,VAR_6

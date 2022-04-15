@@ -1,0 +1,10 @@
+GPEDS0,VAR_0
+bcm2835_gpio_set_bit,FUNC_0
+gpiochip_get_data,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+irqd_to_hwirq,FUNC_3
+bcm2835_gpio_irq_ack,FUNC_4
+data,VAR_1
+chip,VAR_2
+pc,VAR_3
+gpio,VAR_4

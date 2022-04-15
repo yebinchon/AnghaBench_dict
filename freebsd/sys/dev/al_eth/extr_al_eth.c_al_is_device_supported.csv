@@ -1,0 +1,11 @@
+PCI_DEVICE_ID_AL_ETH,VAR_0
+PCI_DEVICE_ID_AL_ETH_ADVANCED,VAR_1
+PCI_DEVICE_ID_AL_ETH_FPGA_NIC,VAR_2
+PCI_DEVICE_ID_AL_ETH_NIC,VAR_3
+PCI_VENDOR_ID_ANNAPURNA_LABS,VAR_4
+pci_get_device,FUNC_0
+pci_get_vendor,FUNC_1
+al_is_device_supported,FUNC_2
+dev,VAR_5
+pci_vendor_id,VAR_6
+pci_device_id,VAR_7

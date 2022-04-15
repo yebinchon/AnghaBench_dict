@@ -1,0 +1,14 @@
+APIC_ICR,VAR_0
+APIC_ICR2,VAR_1
+NMI_VECTOR,VAR_2
+__prepare_ICR,FUNC_0
+__prepare_ICR2,FUNC_1
+__xapic_wait_icr_idle,FUNC_2
+native_apic_mem_write,FUNC_3
+safe_apic_wait_icr_idle,FUNC_4
+unlikely,FUNC_5
+__default_send_IPI_dest_field,FUNC_6
+mask,VAR_3
+vector,VAR_4
+dest,VAR_5
+cfg,VAR_6

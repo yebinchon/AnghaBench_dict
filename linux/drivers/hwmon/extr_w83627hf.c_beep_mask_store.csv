@@ -1,0 +1,17 @@
+BEEP_MASK_TO_REG,FUNC_0
+W83781D_REG_BEEP_INTS1,VAR_0
+W83781D_REG_BEEP_INTS2,VAR_1
+W83781D_REG_BEEP_INTS3,VAR_2
+dev_get_drvdata,FUNC_1
+kstrtoul,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+w83627hf_write_value,FUNC_5
+beep_mask_store,FUNC_6
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+count,VAR_6
+data,VAR_7
+val,VAR_8
+err,VAR_9

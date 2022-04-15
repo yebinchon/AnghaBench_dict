@@ -1,0 +1,16 @@
+BIO_free,FUNC_0
+BIO_printf,FUNC_1
+ERR_print_errors,FUNC_2
+FORMAT_ASN1,VAR_0
+FORMAT_HTTP,VAR_1
+FORMAT_PEM,VAR_2
+PEM_read_bio_X509_CRL,FUNC_3
+bio_err,VAR_3
+bio_open_default,FUNC_4
+d2i_X509_CRL_bio,FUNC_5
+load_cert_crl_http,FUNC_6
+load_crl,FUNC_7
+infile,VAR_4
+format,VAR_5
+x,VAR_6
+in,VAR_7

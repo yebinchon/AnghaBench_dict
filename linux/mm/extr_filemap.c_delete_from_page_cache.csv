@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+PageLocked,FUNC_1
+__delete_from_page_cache,FUNC_2
+page_cache_free_page,FUNC_3
+page_mapping,FUNC_4
+xa_lock_irqsave,FUNC_5
+xa_unlock_irqrestore,FUNC_6
+delete_from_page_cache,FUNC_7
+page,VAR_0
+mapping,VAR_1
+flags,VAR_2

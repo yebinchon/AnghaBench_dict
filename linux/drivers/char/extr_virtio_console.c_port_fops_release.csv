@@ -1,0 +1,13 @@
+VIRTIO_CONSOLE_PORT_OPEN,VAR_0
+discard_port_data,FUNC_0
+kref_put,FUNC_1
+reclaim_consumed_buffers,FUNC_2
+reclaim_dma_bufs,FUNC_3
+remove_port,VAR_1
+send_control_msg,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+port_fops_release,FUNC_7
+inode,VAR_2
+filp,VAR_3
+port,VAR_4

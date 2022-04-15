@@ -1,0 +1,16 @@
+RPIPE_STALL,VAR_0
+USB_CTRL_SET_TIMEOUT,VAR_1
+USB_DIR_OUT,VAR_2
+USB_RECIP_RPIPE,VAR_3
+USB_REQ_CLEAR_FEATURE,VAR_4
+USB_TYPE_CLASS,VAR_5
+le16_to_cpu,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+usb_control_msg,FUNC_3
+usb_sndctrlpipe,FUNC_4
+rpipe_clear_feature_stalled,FUNC_5
+wa,VAR_6
+ep,VAR_7
+rpipe,VAR_8
+index,VAR_9

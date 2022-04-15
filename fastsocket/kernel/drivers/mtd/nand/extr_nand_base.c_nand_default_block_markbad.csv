@@ -1,0 +1,13 @@
+FL_WRITING,VAR_0
+NAND_USE_FLASH_BBT,VAR_1
+nand_do_write_oob,FUNC_0
+nand_get_device,FUNC_1
+nand_release_device,FUNC_2
+nand_update_bbt,FUNC_3
+nand_default_block_markbad,FUNC_4
+mtd,VAR_2
+ofs,VAR_3
+chip,VAR_4
+buf,VAR_5
+block,VAR_6
+ret,VAR_7

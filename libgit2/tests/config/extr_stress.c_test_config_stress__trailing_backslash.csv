@@ -1,0 +1,11 @@
+TEST_CONFIG,VAR_0
+assert_config_value,FUNC_0
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+git_config_free,FUNC_3
+git_config_open_ondisk,FUNC_4
+git_config_set_string,FUNC_5
+git_path_exists,FUNC_6
+test_config_stress__trailing_backslash,FUNC_7
+config,VAR_1
+path,VAR_2

@@ -1,0 +1,17 @@
+DWC2_HC_XFER_COMPLETE,VAR_0
+HCTSIZ,FUNC_0
+TSIZ_PKTCNT_MASK,VAR_1
+TSIZ_PKTCNT_SHIFT,VAR_2
+TSIZ_XFERSIZE_MASK,VAR_3
+TSIZ_XFERSIZE_SHIFT,VAR_4
+dwc2_readl,FUNC_1
+dwc2_get_actual_xfer_length,FUNC_2
+hsotg,VAR_5
+chan,VAR_6
+chnum,VAR_7
+qtd,VAR_8
+halt_status,VAR_9
+short_read,VAR_10
+hctsiz,VAR_11
+count,VAR_12
+length,VAR_13

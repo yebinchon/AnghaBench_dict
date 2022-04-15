@@ -1,0 +1,12 @@
+M_CMD_ABORT_EN,VAR_0
+M_CMD_DONE_EN,VAR_1
+M_GENI_CMD_ABORT,VAR_2
+SE_GENI_M_CMD_CTRL_REG,VAR_3
+SE_GENI_M_IRQ_CLEAR,VAR_4
+SE_GENI_M_IRQ_STATUS,VAR_5
+qcom_geni_serial_poll_bit,FUNC_0
+writel,FUNC_1
+qcom_geni_serial_poll_tx_done,FUNC_2
+uport,VAR_6
+done,VAR_7
+irq_clear,VAR_8

@@ -1,0 +1,17 @@
+EAP_AKA_PRIME_PSEUDONYM_PREFIX,VAR_0
+EAP_AKA_PSEUDONYM_PREFIX,VAR_1
+EAP_TYPE_AKA,VAR_2
+EAP_TYPE_AKA_PRIME,VAR_3
+MSG_DEBUG,VAR_4
+eap_aka_check_identity_reauth,FUNC_0
+eap_aka_fullauth,FUNC_1
+eap_sim_db_get_permanent,FUNC_2
+os_free,FUNC_3
+os_strlcpy,FUNC_4
+sim_get_username,FUNC_5
+wpa_printf,FUNC_6
+eap_aka_check_identity,FUNC_7
+sm,VAR_5
+data,VAR_6
+username,VAR_7
+permanent,VAR_8

@@ -1,0 +1,17 @@
+SOF_CTRL_CMD_VOLUME,VAR_0
+SOF_CTRL_TYPE_VALUE_CHAN_GET,VAR_1
+SOF_IPC_COMP_SET_VALUE,VAR_2
+mixer_to_ipc,FUNC_0
+pm_runtime_active,FUNC_1
+snd_sof_ipc_set_get_comp_data,FUNC_2
+snd_sof_volume_put,FUNC_3
+kcontrol,VAR_3
+ucontrol,VAR_4
+sm,VAR_5
+scontrol,VAR_6
+sdev,VAR_7
+cdata,VAR_8
+i,VAR_9
+channels,VAR_10
+change,VAR_11
+value,VAR_12

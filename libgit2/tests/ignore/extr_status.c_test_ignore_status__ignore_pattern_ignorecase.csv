@@ -1,0 +1,17 @@
+GIT_INDEX_CAPABILITY_IGNORE_CASE,VAR_0
+GIT_STATUS_IGNORED,VAR_1
+GIT_STATUS_WT_NEW,VAR_2
+cl_assert,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_rewritefile,FUNC_3
+cl_git_sandbox_init,FUNC_4
+g_repo,VAR_3
+git_index_caps,FUNC_5
+git_index_free,FUNC_6
+git_repository_index,FUNC_7
+git_status_file,FUNC_8
+test_ignore_status__ignore_pattern_ignorecase,FUNC_9
+flags,VAR_4
+ignore_case,VAR_5
+index,VAR_6

@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+allocate_cmdlines_buffer,FUNC_0
+arch_spin_lock,FUNC_1
+arch_spin_unlock,FUNC_2
+free_saved_cmdlines_buffer,FUNC_3
+kfree,FUNC_4
+kmalloc,FUNC_5
+savedcmd,VAR_2
+trace_cmdline_lock,VAR_3
+tracing_resize_saved_cmdlines,FUNC_6
+val,VAR_4
+s,VAR_5
+savedcmd_temp,VAR_6

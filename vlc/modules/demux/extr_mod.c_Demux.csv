@@ -1,0 +1,16 @@
+ModPlug_Read,FUNC_0
+VLC_DEMUXER_EGENERIC,VAR_0
+VLC_DEMUXER_EOF,VAR_1
+VLC_DEMUXER_SUCCESS,VAR_2
+block_Alloc,FUNC_1
+block_Release,FUNC_2
+date_Get,FUNC_3
+date_Increment,FUNC_4
+es_out_Send,FUNC_5
+es_out_SetPCR,FUNC_6
+Demux,FUNC_7
+p_demux,VAR_3
+p_sys,VAR_4
+p_frame,VAR_5
+i_bk,VAR_6
+i_read,VAR_7

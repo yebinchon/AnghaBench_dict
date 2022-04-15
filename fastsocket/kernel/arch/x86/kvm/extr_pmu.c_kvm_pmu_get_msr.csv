@@ -1,0 +1,11 @@
+MSR_IA32_PERFCTR0,VAR_0
+MSR_P6_EVNTSEL0,VAR_1
+get_fixed_pmc,FUNC_0
+get_gp_pmc,FUNC_1
+read_pmc,FUNC_2
+kvm_pmu_get_msr,FUNC_3
+vcpu,VAR_2
+index,VAR_3
+data,VAR_4
+pmu,VAR_5
+pmc,VAR_6

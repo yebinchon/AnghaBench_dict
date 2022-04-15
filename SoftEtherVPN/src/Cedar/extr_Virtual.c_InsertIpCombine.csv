@@ -1,0 +1,17 @@
+IP_COMBINE_INITIAL_BUF_SIZE,VAR_0
+IP_COMBINE_TIMEOUT,VAR_1
+IP_COMBINE_WAIT_QUEUE_SIZE_QUOTA,VAR_2
+Insert,FUNC_0
+Malloc,FUNC_1
+NewList,FUNC_2
+ZeroMalloc,FUNC_3
+InsertIpCombine,FUNC_4
+v,VAR_3
+src_ip,VAR_4
+dest_ip,VAR_5
+id,VAR_6
+protocol,VAR_7
+mac_broadcast,VAR_8
+ttl,VAR_9
+src_is_localmac,VAR_10
+c,VAR_11

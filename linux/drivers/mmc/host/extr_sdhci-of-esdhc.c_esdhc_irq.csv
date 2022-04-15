@@ -1,0 +1,13 @@
+MMC_WRITE_MULTIPLE_BLOCK,VAR_0
+SDHCI_BLOCK_COUNT,VAR_1
+SDHCI_COMMAND,VAR_2
+SDHCI_GET_CMD,FUNC_0
+SDHCI_INT_DATA_END,VAR_3
+SDHCI_INT_STATUS,VAR_4
+of_find_compatible_node,FUNC_1
+sdhci_readw,FUNC_2
+sdhci_writel,FUNC_3
+esdhc_irq,FUNC_4
+host,VAR_5
+intmask,VAR_6
+command,VAR_7

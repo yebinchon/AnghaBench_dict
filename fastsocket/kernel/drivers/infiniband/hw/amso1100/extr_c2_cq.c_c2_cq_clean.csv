@@ -1,0 +1,14 @@
+be16_to_cpu,FUNC_0
+c2_cq_get,FUNC_1
+c2_cq_put,FUNC_2
+c2_mq_empty,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+c2_cq_clean,FUNC_6
+c2dev,VAR_0
+qp,VAR_1
+mq_index,VAR_2
+cq,VAR_3
+q,VAR_4
+priv,VAR_5
+msg,VAR_6

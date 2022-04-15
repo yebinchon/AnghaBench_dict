@@ -1,0 +1,14 @@
+av_frame_clone,FUNC_0
+av_frame_free,FUNC_1
+ff_callbacks_frame_initialize,FUNC_2
+ff_circular_queue_advance_write,FUNC_3
+ff_circular_queue_peek_write,FUNC_4
+ff_circular_queue_wait_write,FUNC_5
+ff_clock_retain,FUNC_6
+queue_frame,FUNC_7
+decoder,VAR_0
+frame,VAR_1
+best_effort_pts,VAR_2
+queue_frame,VAR_3
+call_initialize,VAR_4
+codec,VAR_5

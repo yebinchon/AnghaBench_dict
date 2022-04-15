@@ -1,0 +1,13 @@
+NVME_AQ_BLK_MQ_DEPTH,VAR_0
+blk_mq_tag_to_rq,FUNC_0
+dev_warn,FUNC_1
+le16_to_cpu,FUNC_2
+nvme_complete_async_event,FUNC_3
+nvme_end_request,FUNC_4
+trace_nvme_sq,FUNC_5
+unlikely,FUNC_6
+nvme_handle_cqe,FUNC_7
+nvmeq,VAR_1
+idx,VAR_2
+cqe,VAR_3
+req,VAR_4

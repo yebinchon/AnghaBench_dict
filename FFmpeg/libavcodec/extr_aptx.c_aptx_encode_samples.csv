@@ -1,0 +1,13 @@
+AV_WB16,FUNC_0
+AV_WB24,FUNC_1
+NB_CHANNELS,VAR_0
+aptx_encode_channel,FUNC_2
+aptx_insert_sync,FUNC_3
+aptx_invert_quantize_and_prediction,FUNC_4
+aptx_pack_codeword,FUNC_5
+aptxhd_pack_codeword,FUNC_6
+aptx_encode_samples,FUNC_7
+ctx,VAR_1
+samples,VAR_2
+output,VAR_3
+channel,VAR_4

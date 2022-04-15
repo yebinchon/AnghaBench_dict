@@ -1,0 +1,12 @@
+VOUT_CROP_NONE,VAR_0
+VOUT_CROP_RATIO,VAR_1
+assert,FUNC_0
+vlc_mutex_lock,FUNC_1
+vlc_mutex_unlock,FUNC_2
+vout_SetDisplayCrop,FUNC_3
+vout_UpdateWindowSizeLocked,FUNC_4
+vout_ChangeCropRatio,FUNC_5
+vout,VAR_2
+num,VAR_3
+den,VAR_4
+sys,VAR_5

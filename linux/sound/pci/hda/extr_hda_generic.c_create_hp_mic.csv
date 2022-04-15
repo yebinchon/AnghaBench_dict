@@ -1,0 +1,15 @@
+AC_PINCAP_IN,VAR_0
+AUTO_CFG_MAX_INS,VAR_1
+AUTO_PIN_HP_OUT,VAR_2
+AUTO_PIN_MIC,VAR_3
+INPUT_PIN_ATTR_INT,VAR_4
+codec_dbg,FUNC_0
+snd_hda_codec_get_pincfg,FUNC_1
+snd_hda_get_input_pin_attr,FUNC_2
+snd_hda_query_pin_caps,FUNC_3
+create_hp_mic,FUNC_4
+codec,VAR_5
+spec,VAR_6
+cfg,VAR_7
+defcfg,VAR_8
+nid,VAR_9

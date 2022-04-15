@@ -1,0 +1,9 @@
+VNIC_INTR_RESET_TIMER_SHIFT,VAR_0
+VNIC_INTR_UNMASK_SHIFT,VAR_1
+iowrite32,FUNC_0
+svnic_intr_return_credits,FUNC_1
+intr,VAR_2
+credits,VAR_3
+unmask,VAR_4
+reset_timer,VAR_5
+int_credit_return,VAR_6

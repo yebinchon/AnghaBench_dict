@@ -1,0 +1,12 @@
+DC395x_LOCK_IO,FUNC_0
+DC395x_UNLOCK_IO,FUNC_1
+adapter_remove_and_free_all_devices,FUNC_2
+adapter_sg_tables_free,FUNC_3
+adapter_uninit_chip,FUNC_4
+del_timer,FUNC_5
+free_irq,FUNC_6
+release_region,FUNC_7
+timer_pending,FUNC_8
+adapter_uninit,FUNC_9
+acb,VAR_0
+flags,VAR_1

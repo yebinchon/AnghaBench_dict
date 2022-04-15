@@ -1,0 +1,11 @@
+DPRINTF,FUNC_0
+USLCOM_N_TRANSFER,VAR_0
+device_claim_softc,FUNC_1
+device_get_softc,FUNC_2
+ucom_detach,FUNC_3
+usb_callout_drain,FUNC_4
+usbd_transfer_unsetup,FUNC_5
+uslcom_free_softc,FUNC_6
+uslcom_detach,FUNC_7
+dev,VAR_1
+sc,VAR_2

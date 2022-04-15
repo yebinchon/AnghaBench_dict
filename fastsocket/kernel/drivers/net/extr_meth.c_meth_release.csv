@@ -1,0 +1,14 @@
+DPRINTK,FUNC_0
+METH_DMA_RX_EN,VAR_0
+METH_DMA_RX_INT_EN,VAR_1
+METH_DMA_TX_EN,VAR_2
+METH_DMA_TX_INT_EN,VAR_3
+free_irq,FUNC_1
+mace,VAR_4
+meth_free_rx_ring,FUNC_2
+meth_free_tx_ring,FUNC_3
+netdev_priv,FUNC_4
+netif_stop_queue,FUNC_5
+meth_release,FUNC_6
+dev,VAR_5
+priv,VAR_6

@@ -1,0 +1,16 @@
+UART_CTRL_TE,VAR_0
+UART_GET_CTRL,FUNC_0
+UART_GET_STATUS,FUNC_1
+UART_PUT_CHAR,FUNC_2
+UART_PUT_CTRL,FUNC_3
+UART_TX_READY,FUNC_4
+local_irq_restore,FUNC_5
+local_irq_save,FUNC_6
+apbuart_scan_fifo_size,FUNC_7
+port,VAR_1
+portnumber,VAR_2
+ctrl,VAR_3
+loop,VAR_4
+status,VAR_5
+fifosize,VAR_6
+flags,VAR_7

@@ -1,0 +1,13 @@
+INT_ENABLE,VAR_0
+PCIE_EP_IRQ_CLR,VAR_1
+PCIE_EP_IRQ_SET,VAR_2
+PCIE_LEGACY_IRQ_ENABLE_CLR,FUNC_0
+PCIE_LEGACY_IRQ_ENABLE_SET,FUNC_1
+PCI_INTERRUPT_PIN,VAR_3
+dw_pcie_readb_dbi,FUNC_2
+ks_pcie_app_writel,FUNC_3
+mdelay,FUNC_4
+ks_pcie_am654_raise_legacy_irq,FUNC_5
+ks_pcie,VAR_4
+pci,VAR_5
+int_pin,VAR_6

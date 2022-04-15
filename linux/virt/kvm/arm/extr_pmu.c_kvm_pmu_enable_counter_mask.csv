@@ -1,0 +1,17 @@
+ARMV8_PMU_MAX_COUNTERS,VAR_0
+ARMV8_PMU_PMCR_E,VAR_1
+BIT,FUNC_0
+PERF_EVENT_STATE_ACTIVE,VAR_2
+PMCR_EL0,VAR_3
+__vcpu_sys_reg,FUNC_1
+kvm_debug,FUNC_2
+kvm_pmu_create_perf_event,FUNC_3
+kvm_pmu_idx_is_high_counter,FUNC_4
+kvm_pmu_pmc_is_chained,FUNC_5
+perf_event_enable,FUNC_6
+kvm_pmu_enable_counter_mask,FUNC_7
+vcpu,VAR_4
+val,VAR_5
+i,VAR_6
+pmu,VAR_7
+pmc,VAR_8

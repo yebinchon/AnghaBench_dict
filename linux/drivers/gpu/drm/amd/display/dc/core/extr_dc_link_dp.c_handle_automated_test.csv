@@ -1,0 +1,12 @@
+DP_TEST_REQUEST,VAR_0
+DP_TEST_RESPONSE,VAR_1
+core_link_read_dpcd,FUNC_0
+core_link_write_dpcd,FUNC_1
+dp_test_send_link_test_pattern,FUNC_2
+dp_test_send_link_training,FUNC_3
+dp_test_send_phy_test_pattern,FUNC_4
+memset,FUNC_5
+handle_automated_test,FUNC_6
+link,VAR_2
+test_request,VAR_3
+test_response,VAR_4

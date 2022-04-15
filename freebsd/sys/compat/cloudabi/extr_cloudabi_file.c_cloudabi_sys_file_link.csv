@@ -1,0 +1,13 @@
+CLOUDABI_LOOKUP_SYMLINK_FOLLOW,VAR_0
+FOLLOW,VAR_1
+NOFOLLOW,VAR_2
+UIO_SYSSPACE,VAR_3
+cloudabi_freestr,FUNC_0
+copyin_path,FUNC_1
+kern_linkat,FUNC_2
+cloudabi_sys_file_link,FUNC_3
+td,VAR_4
+uap,VAR_5
+path1,VAR_6
+path2,VAR_7
+error,VAR_8

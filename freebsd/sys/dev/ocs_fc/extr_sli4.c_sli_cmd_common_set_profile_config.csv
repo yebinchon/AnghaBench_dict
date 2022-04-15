@@ -1,0 +1,16 @@
+SLI4_OPC_COMMON_SET_PROFILE_CONFIG,VAR_0
+SLI4_PORT_TYPE_FC,VAR_1
+SLI4_SUBSYSTEM_COMMON,VAR_2
+ocs_memset,FUNC_0
+sli_cmd_sli_config,FUNC_1
+sli_cmd_common_set_profile_config,FUNC_2
+sli4,VAR_3
+buf,VAR_4
+size,VAR_5
+dma,VAR_6
+profile_id,VAR_7
+descriptor_count,VAR_8
+isap,VAR_9
+req,VAR_10
+cmd_off,VAR_11
+payload_size,VAR_12

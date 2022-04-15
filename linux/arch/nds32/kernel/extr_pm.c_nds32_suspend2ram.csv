@@ -1,0 +1,17 @@
+L1_PPTB_mskBASE,VAR_0
+NDS32_SR_L1_PPTB,VAR_1
+TLB_DATA_mskPPN,VAR_2
+__nds32__mfsr,FUNC_0
+__va,FUNC_1
+cpu_resume,VAR_3
+pgd_index,FUNC_2
+pmd_offset,FUNC_3
+pte_offset_map,FUNC_4
+pud_offset,FUNC_5
+resume_addr,VAR_4
+suspend2ram,FUNC_6
+nds32_suspend2ram,FUNC_7
+pgdv,VAR_5
+pudv,VAR_6
+pmdv,VAR_7
+ptev,VAR_8

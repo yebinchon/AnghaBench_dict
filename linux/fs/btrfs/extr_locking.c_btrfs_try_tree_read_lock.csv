@@ -1,0 +1,7 @@
+btrfs_assert_spinning_readers_get,FUNC_0
+btrfs_assert_tree_read_locks_get,FUNC_1
+read_trylock,FUNC_2
+read_unlock,FUNC_3
+trace_btrfs_try_tree_read_lock,FUNC_4
+btrfs_try_tree_read_lock,FUNC_5
+eb,VAR_0

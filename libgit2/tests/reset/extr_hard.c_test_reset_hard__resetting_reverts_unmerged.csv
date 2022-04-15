@@ -1,0 +1,16 @@
+GIT_RESET_HARD,VAR_0
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_index_free,FUNC_2
+git_index_write,FUNC_3
+git_object_free,FUNC_4
+git_path_exists,FUNC_5
+git_repository_index,FUNC_6
+git_reset,FUNC_7
+git_revparse_single,FUNC_8
+repo,VAR_1
+target,VAR_2
+unmerged_index_init,FUNC_9
+test_reset_hard__resetting_reverts_unmerged,FUNC_10
+index,VAR_3
+entries,VAR_4

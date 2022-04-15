@@ -1,0 +1,15 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_STRING,VAR_1
+EFX_VPD_KEYWORD,FUNC_0
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+efx_vpd_get,FUNC_3
+sfxge_vpd_handler,VAR_3
+sfxge_vpd_try_add,FUNC_4
+sc,VAR_4
+list,VAR_5
+tag,VAR_6
+keyword,VAR_7
+ctx,VAR_8
+value,VAR_9

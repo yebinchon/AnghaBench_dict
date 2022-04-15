@@ -1,0 +1,15 @@
+E1000_RCTL_LBM_MAC,VAR_0
+E1000_RCTL_LBM_TCVR,VAR_1
+MII_CR_LOOPBACK,VAR_2
+PHY_CTRL,VAR_3
+RCTL,VAR_4
+e1000_phy_reset,FUNC_0
+e1000_read_phy_reg,FUNC_1
+e1000_write_phy_reg,FUNC_2
+er32,FUNC_3
+ew32,FUNC_4
+e1000_loopback_cleanup,FUNC_5
+adapter,VAR_5
+hw,VAR_6
+rctl,VAR_7
+phy_reg,VAR_8

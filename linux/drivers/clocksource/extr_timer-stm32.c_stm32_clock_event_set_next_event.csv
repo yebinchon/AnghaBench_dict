@@ -1,0 +1,15 @@
+ETIME,VAR_0
+TIM_CCR1,VAR_1
+TIM_CNT,VAR_2
+TIM_DIER,VAR_3
+TIM_DIER_CC1IE,VAR_4
+readl_relaxed,FUNC_0
+timer_of_base,FUNC_1
+to_timer_of,FUNC_2
+writel_relaxed,FUNC_3
+stm32_clock_event_set_next_event,FUNC_4
+evt,VAR_5
+clkevt,VAR_6
+to,VAR_7
+now,VAR_8
+next,VAR_9

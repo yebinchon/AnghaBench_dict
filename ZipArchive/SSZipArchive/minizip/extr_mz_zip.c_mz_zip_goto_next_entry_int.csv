@@ -1,0 +1,11 @@
+MZ_OK,VAR_0
+MZ_PARAM_ERROR,VAR_1
+MZ_SEEK_SET,VAR_2
+MZ_STREAM_PROP_DISK_NUMBER,VAR_3
+mz_stream_seek,FUNC_0
+mz_stream_set_prop_int64,FUNC_1
+mz_zip_entry_read_header,FUNC_2
+mz_zip_goto_next_entry_int,FUNC_3
+handle,VAR_4
+zip,VAR_5
+err,VAR_6

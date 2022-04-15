@@ -1,0 +1,15 @@
+LdrFindEntryForAddress,FUNC_0
+LdrLockLoaderLock,FUNC_1
+LdrUnlockLoaderLock,FUNC_2
+RtlAllocateHeap,FUNC_3
+RtlGetProcessHeap,FUNC_4
+STATUS_NO_MEMORY,VAR_0
+STATUS_SUCCESS,VAR_1
+memcpy,FUNC_5
+get_module_filename,FUNC_6
+module,VAR_2
+str,VAR_3
+extra_len,VAR_4
+status,VAR_5
+magic,VAR_6
+pldr,VAR_7

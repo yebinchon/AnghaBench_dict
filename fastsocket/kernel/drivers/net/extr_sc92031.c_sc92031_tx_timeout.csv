@@ -1,0 +1,12 @@
+_sc92031_reset,FUNC_0
+mmiowb,FUNC_1
+netdev_priv,FUNC_2
+netif_carrier_ok,FUNC_3
+netif_wake_queue,FUNC_4
+sc92031_disable_interrupts,FUNC_5
+sc92031_enable_interrupts,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+sc92031_tx_timeout,FUNC_9
+dev,VAR_0
+priv,VAR_1

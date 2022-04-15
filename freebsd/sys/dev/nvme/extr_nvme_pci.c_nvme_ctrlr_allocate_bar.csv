@@ -1,0 +1,10 @@
+ENOMEM,VAR_0
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_alloc_resource_any,FUNC_1
+nvme_printf,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+nvme_ctrlr_allocate_bar,FUNC_5
+ctrlr,VAR_3

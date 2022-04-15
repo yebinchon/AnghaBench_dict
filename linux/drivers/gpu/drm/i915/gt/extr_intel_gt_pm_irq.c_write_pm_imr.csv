@@ -1,0 +1,11 @@
+GEN11_GPM_WGBOXPERF_INTR_MASK,VAR_0
+GEN6_PMIMR,VAR_1
+GEN8_GT_IMR,FUNC_0
+INTEL_GEN,FUNC_1
+intel_uncore_write,FUNC_2
+write_pm_imr,FUNC_3
+gt,VAR_2
+i915,VAR_3
+uncore,VAR_4
+mask,VAR_5
+reg,VAR_6

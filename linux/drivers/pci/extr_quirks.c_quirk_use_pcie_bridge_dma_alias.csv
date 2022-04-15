@@ -1,0 +1,8 @@
+PCI_DEV_FLAG_PCIE_BRIDGE_ALIAS,VAR_0
+PCI_EXP_TYPE_PCI_BRIDGE,VAR_1
+PCI_HEADER_TYPE_BRIDGE,VAR_2
+pci_is_pcie,FUNC_0
+pci_is_root_bus,FUNC_1
+pci_pcie_type,FUNC_2
+quirk_use_pcie_bridge_dma_alias,FUNC_3
+pdev,VAR_3

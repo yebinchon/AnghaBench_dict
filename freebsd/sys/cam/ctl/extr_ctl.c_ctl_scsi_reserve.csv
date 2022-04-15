@@ -1,0 +1,15 @@
+CTL_DEBUG_PRINT,FUNC_0
+CTL_LUN,FUNC_1
+CTL_LUN_PR_RESERVED,VAR_0
+CTL_LUN_RESERVED,VAR_1
+CTL_RETVAL_COMPLETE,VAR_2
+ctl_done,FUNC_2
+ctl_get_initindex,FUNC_3
+ctl_set_reservation_conflict,FUNC_4
+ctl_set_success,FUNC_5
+mtx_lock,FUNC_6
+mtx_unlock,FUNC_7
+ctl_scsi_reserve,FUNC_8
+ctsio,VAR_3
+lun,VAR_4
+residx,VAR_5

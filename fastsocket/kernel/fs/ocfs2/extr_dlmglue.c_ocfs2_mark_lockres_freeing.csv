@@ -1,0 +1,14 @@
+OCFS2_LOCK_FREEING,VAR_0
+OCFS2_LOCK_QUEUED,VAR_1
+lockres_add_mask_waiter,FUNC_0
+mlog,FUNC_1
+mlog_errno,FUNC_2
+ocfs2_init_mask_waiter,FUNC_3
+ocfs2_wait_for_mask,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ocfs2_mark_lockres_freeing,FUNC_7
+lockres,VAR_2
+status,VAR_3
+mw,VAR_4
+flags,VAR_5

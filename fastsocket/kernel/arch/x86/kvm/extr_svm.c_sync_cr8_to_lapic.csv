@@ -1,0 +1,8 @@
+INTERCEPT_CR8_MASK,VAR_0
+V_TPR_MASK,VAR_1
+kvm_set_cr8,FUNC_0
+to_svm,FUNC_1
+sync_cr8_to_lapic,FUNC_2
+vcpu,VAR_2
+svm,VAR_3
+cr8,VAR_4

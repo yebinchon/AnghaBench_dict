@@ -1,0 +1,17 @@
+EBT_DROP,VAR_0
+EBT_VERDICT_BITS,VAR_1
+ETH_ALEN,VAR_2
+ETH_P_ARP,VAR_3
+NAT_ARP_BIT,VAR_4
+eth_hdr,FUNC_0
+ether_addr_copy,FUNC_1
+htons,FUNC_2
+skb_ensure_writable,FUNC_3
+skb_header_pointer,FUNC_4
+skb_store_bits,FUNC_5
+ebt_snat_tg,FUNC_6
+skb,VAR_5
+par,VAR_6
+info,VAR_7
+ap,VAR_8
+_ah,VAR_9

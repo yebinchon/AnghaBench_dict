@@ -1,0 +1,12 @@
+KVM_MSR_ENABLED,VAR_0
+KVM_VCPU_FLUSH_TLB,VAR_1
+current,VAR_2
+kvm_read_guest_cached,FUNC_0
+kvm_vcpu_flush_tlb,FUNC_1
+kvm_write_guest_cached,FUNC_2
+smp_wmb,FUNC_3
+trace_kvm_pv_tlb_flush,FUNC_4
+unlikely,FUNC_5
+xchg,FUNC_6
+record_steal_time,FUNC_7
+vcpu,VAR_3

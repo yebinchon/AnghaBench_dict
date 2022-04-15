@@ -1,0 +1,14 @@
+vnic_cq_init,FUNC_0
+vnic_dev_get_intr_mode,FUNC_1
+vnic_intr_init,FUNC_2
+vnic_rq_init,FUNC_3
+vnic_wq_init,FUNC_4
+enic_init_vnic_resources,FUNC_5
+enic,VAR_0
+intr_mode,VAR_1
+mask_on_assertion,VAR_2
+interrupt_offset,VAR_3
+error_interrupt_enable,VAR_4
+error_interrupt_offset,VAR_5
+cq_index,VAR_6
+i,VAR_7

@@ -1,0 +1,11 @@
+CMD_CFG_PFC_MODE,VAR_0
+GET_TX_EMPTY_DEFAULT_VALUE,FUNC_0
+GET_TX_EMPTY_PFC_VALUE,FUNC_1
+ioread32be,FUNC_2
+iowrite32be,FUNC_3
+fman_memac_set_tx_pause_frames,FUNC_4
+regs,VAR_1
+priority,VAR_2
+pause_time,VAR_3
+thresh_time,VAR_4
+tmp,VAR_5

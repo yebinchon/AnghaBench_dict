@@ -1,0 +1,8 @@
+XHCI_TRB_3_CYCLE_BIT,VAR_0
+htole32,FUNC_0
+usb_pc_cpu_flush,FUNC_1
+usb_pc_cpu_invalidate,FUNC_2
+xhci_endpoint_doorbell,FUNC_3
+xhci_activate_transfer,FUNC_4
+xfer,VAR_1
+td,VAR_2

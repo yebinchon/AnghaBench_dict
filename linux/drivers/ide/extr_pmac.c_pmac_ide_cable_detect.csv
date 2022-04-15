@@ -1,0 +1,16 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA40_SHORT,VAR_1
+ATA_CBL_PATA80,VAR_2
+dev_get_drvdata,FUNC_0
+of_device_is_compatible,FUNC_1
+of_find_node_by_path,FUNC_2
+of_get_property,FUNC_3
+of_node_put,FUNC_4
+strncmp,FUNC_5
+pmac_ide_cable_detect,FUNC_6
+hwif,VAR_3
+pmif,VAR_4
+np,VAR_5
+cable,VAR_6
+root,VAR_7
+model,VAR_8

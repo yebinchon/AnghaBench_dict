@@ -1,0 +1,12 @@
+ETHSW_VLAN_GLOBAL,VAR_0
+ethsw_add_vlan,FUNC_0
+ethsw_port_add_vlan,FUNC_1
+netdev_priv,FUNC_2
+switchdev_trans_ph_prepare,FUNC_3
+port_vlans_add,FUNC_4
+netdev,VAR_1
+vlan,VAR_2
+trans,VAR_3
+port_priv,VAR_4
+vid,VAR_5
+err,VAR_6

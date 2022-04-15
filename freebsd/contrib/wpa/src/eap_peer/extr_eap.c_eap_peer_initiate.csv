@@ -1,0 +1,14 @@
+EAPOL_eapTriggerStart,VAR_0
+EAP_ERP_TYPE_REAUTH_START,VAR_1
+MSG_DEBUG,VAR_2
+TRUE,VAR_3
+eap_peer_erp_reauth_start,FUNC_0
+eapol_set_bool,FUNC_1
+erp_parse_tlvs,FUNC_2
+wpa_hexdump,FUNC_3
+wpa_hexdump_ascii,FUNC_4
+wpa_printf,FUNC_5
+eap_peer_initiate,FUNC_6
+sm,VAR_4
+hdr,VAR_5
+len,VAR_6

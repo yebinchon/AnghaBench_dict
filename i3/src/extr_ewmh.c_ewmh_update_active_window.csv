@@ -1,0 +1,8 @@
+A__NET_ACTIVE_WINDOW,VAR_0
+XCB_ATOM_WINDOW,VAR_1
+XCB_PROP_MODE_REPLACE,VAR_2
+conn,VAR_3
+root,VAR_4
+xcb_change_property,FUNC_0
+ewmh_update_active_window,FUNC_1
+window,VAR_5

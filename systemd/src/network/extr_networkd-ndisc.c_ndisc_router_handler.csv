@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+ND_RA_FLAG_MANAGED,VAR_1
+ND_RA_FLAG_OTHER,VAR_2
+assert,FUNC_0
+dhcp6_request_address,FUNC_1
+log_link_debug,FUNC_2
+log_link_warning_errno,FUNC_3
+ndisc_router_process_default,FUNC_4
+ndisc_router_process_options,FUNC_5
+sd_ndisc_router_get_flags,FUNC_6
+ndisc_router_handler,FUNC_7
+link,VAR_3
+rt,VAR_4
+flags,VAR_5
+r,VAR_6

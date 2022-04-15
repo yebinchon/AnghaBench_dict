@@ -1,0 +1,11 @@
+MLXSW_REG,FUNC_0
+MLXSW_REG_CWTPM_LEN,VAR_0
+MLXSW_REG_CWTPM_RESET_PROFILE,VAR_1
+cwtpm,VAR_2
+mlxsw_reg_cwtpm_pack,FUNC_1
+mlxsw_reg_write,FUNC_2
+mlxsw_sp_tclass_congestion_disable,FUNC_3
+mlxsw_sp_port,VAR_3
+tclass_num,VAR_4
+mlxsw_sp,VAR_5
+cwtpm_cmd,VAR_6

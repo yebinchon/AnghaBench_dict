@@ -1,0 +1,11 @@
+B43_NPHY_BBCFG,VAR_0
+B43_NPHY_BBCFG_RSTCCA,VAR_1
+B43_RFSEQ_RESET2RX,VAR_2
+b43_nphy_force_rf_sequence,FUNC_0
+b43_phy_force_clock,FUNC_1
+b43_phy_read,FUNC_2
+b43_phy_write,FUNC_3
+udelay,FUNC_4
+b43_nphy_reset_cca,FUNC_5
+dev,VAR_3
+bbcfg,VAR_4

@@ -1,0 +1,10 @@
+CS_PKT_START_FROM_PKT_ID,VAR_0
+bytestream_put_byte,FUNC_0
+bytestream_put_le32,FUNC_1
+bytestream_put_le64,FUNC_2
+insert_command_prefixes,FUNC_3
+send_command_packet,FUNC_4
+start_command_packet,FUNC_5
+send_media_packet_request,FUNC_6
+mmst,VAR_1
+mms,VAR_2

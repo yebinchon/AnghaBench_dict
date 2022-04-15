@@ -1,0 +1,15 @@
+PS2_STAT_RX_BUF_OVER,VAR_0
+PS2_STAT_RX_FRM_ERR,VAR_1
+PS2_STAT_RX_VAL,VAR_2
+SERIO_FRAME,VAR_3
+SERIO_PARITY,VAR_4
+dev_err,FUNC_0
+ioread32,FUNC_1
+serio_interrupt,FUNC_2
+arc_ps2_check_rx,FUNC_3
+arc_ps2,VAR_5
+port,VAR_6
+timeout,VAR_7
+flag,VAR_8
+status,VAR_9
+data,VAR_10

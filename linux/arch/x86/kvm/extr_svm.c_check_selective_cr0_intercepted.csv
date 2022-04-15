@@ -1,0 +1,12 @@
+INTERCEPT_SELECTIVE_CR0,VAR_0
+NESTED_EXIT_DONE,VAR_1
+SVM_CR0_SELECTIVE_MASK,VAR_2
+SVM_EXIT_CR0_SEL_WRITE,VAR_3
+is_guest_mode,FUNC_0
+nested_svm_exit_handled,FUNC_1
+check_selective_cr0_intercepted,FUNC_2
+svm,VAR_4
+val,VAR_5
+cr0,VAR_6
+ret,VAR_7
+intercept,VAR_8

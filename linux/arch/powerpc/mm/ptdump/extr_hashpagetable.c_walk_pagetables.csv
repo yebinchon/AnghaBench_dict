@@ -1,0 +1,11 @@
+KERN_VIRT_START,VAR_0
+PGDIR_SIZE,VAR_1
+PTRS_PER_PGD,VAR_2
+pgd_none,FUNC_0
+pgd_offset_k,FUNC_1
+walk_pud,FUNC_2
+walk_pagetables,FUNC_3
+st,VAR_3
+pgd,VAR_4
+i,VAR_5
+addr,VAR_6

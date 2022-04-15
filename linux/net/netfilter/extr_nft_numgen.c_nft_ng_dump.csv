@@ -1,0 +1,13 @@
+NFTA_NG_DREG,VAR_0
+NFTA_NG_MODULUS,VAR_1
+NFTA_NG_OFFSET,VAR_2
+NFTA_NG_TYPE,VAR_3
+htonl,FUNC_0
+nft_dump_register,FUNC_1
+nla_put_be32,FUNC_2
+nft_ng_dump,FUNC_3
+skb,VAR_4
+dreg,VAR_5
+modulus,VAR_6
+type,VAR_7
+offset,VAR_8

@@ -1,0 +1,17 @@
+PS2_ERR_NONE,VAR_0
+PS2_ERR_PARITY,VAR_1
+PS2_ERR_STARTBIT3,VAR_2
+WAIT,FUNC_0
+clock_hi,VAR_3
+clock_lo,VAR_4
+data_hi,VAR_5
+data_in,FUNC_1
+data_lo,VAR_6
+idle,FUNC_2
+inhibit,FUNC_3
+ps2_error,VAR_7
+xprintf,FUNC_4
+ps2_host_recv,FUNC_5
+data,VAR_8
+parity,VAR_9
+i,VAR_10

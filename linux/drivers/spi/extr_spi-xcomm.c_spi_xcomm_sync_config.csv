@@ -1,0 +1,9 @@
+SPI_XCOMM_CMD_UPDATE_CONFIG,VAR_0
+SPI_XCOMM_SETTINGS_LEN_OFFSET,VAR_1
+i2c_master_send,FUNC_0
+put_unaligned_be16,FUNC_1
+spi_xcomm_sync_config,FUNC_2
+spi_xcomm,VAR_2
+len,VAR_3
+settings,VAR_4
+buf,VAR_5

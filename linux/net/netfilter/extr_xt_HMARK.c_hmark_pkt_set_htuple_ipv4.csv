@@ -1,0 +1,17 @@
+IPPROTO_ICMP,VAR_0
+IP_MF,VAR_1
+IP_OFFSET,VAR_2
+XT_HMARK_FLAG,FUNC_0
+XT_HMARK_METHOD_L3,VAR_3
+get_inner_hdr,FUNC_1
+hmark_set_tuple_ports,FUNC_2
+htons,FUNC_3
+skb_header_pointer,FUNC_4
+skb_network_offset,FUNC_5
+hmark_pkt_set_htuple_ipv4,FUNC_6
+skb,VAR_4
+t,VAR_5
+info,VAR_6
+ip,VAR_7
+_ip,VAR_8
+nhoff,VAR_9

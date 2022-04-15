@@ -1,0 +1,14 @@
+LPCR_PECE_WAKESET,VAR_0
+PSL_HV,VAR_1
+SPR_FSCR,VAR_2
+SPR_LPCR,VAR_3
+cpu_idle_hook,VAR_4
+cpu_idle_power9,VAR_5
+cpu_idle_powerx,VAR_6
+isync,FUNC_0
+mfmsr,FUNC_1
+mfspr,FUNC_2
+mtspr,FUNC_3
+cpu_powerx_setup,FUNC_4
+cpuid,VAR_7
+vers,VAR_8

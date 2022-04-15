@@ -1,0 +1,15 @@
+RSProhibitWrites,FUNC_0
+RSSuspend,FUNC_1
+S_CONGESTED,VAR_0
+S_NOT_CONGESTED,VAR_1
+atomic_inc,FUNC_2
+bdev_get_queue,FUNC_3
+bdi_congested,FUNC_4
+sc_busy,FUNC_5
+rs_congested,FUNC_6
+congested_data,VAR_2
+bdi_bits,VAR_3
+r,VAR_4
+p,VAR_5
+rs,VAR_6
+q,VAR_7

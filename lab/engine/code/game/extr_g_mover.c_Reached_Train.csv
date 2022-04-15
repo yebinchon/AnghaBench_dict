@@ -1,0 +1,16 @@
+G_UseTargets,FUNC_0
+MOVER_1TO2,VAR_0
+SVF_NOCLIENT,VAR_1
+SetMoverState,FUNC_1
+TR_STATIONARY,VAR_2
+Think_BeginMoving,VAR_3
+VectorCopy,FUNC_2
+VectorLength,FUNC_3
+VectorSubtract,FUNC_4
+level,VAR_4
+Reached_Train,FUNC_5
+ent,VAR_5
+next,VAR_6
+speed,VAR_7
+move,VAR_8
+length,VAR_9

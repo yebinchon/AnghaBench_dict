@@ -1,0 +1,14 @@
+BLK_DEFAULT_SG_TIMEOUT,VAR_0
+BLK_MIN_SG_TIMEOUT,VAR_1
+EFAULT,VAR_2
+EPERM,VAR_3
+FMODE_WRITE,VAR_4
+REQ_TYPE_BLOCK_PC,VAR_5
+blk_verify_command,FUNC_0
+copy_from_user,FUNC_1
+msecs_to_jiffies,FUNC_2
+blk_fill_sghdr_rq,FUNC_3
+q,VAR_6
+rq,VAR_7
+hdr,VAR_8
+mode,VAR_9

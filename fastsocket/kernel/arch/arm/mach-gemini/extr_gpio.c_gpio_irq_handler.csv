@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+GPIO_BASE,FUNC_1
+GPIO_INT_STAT,VAR_0
+GPIO_IRQ_BASE,VAR_1
+__raw_readl,FUNC_2
+get_irq_data,FUNC_3
+irq_desc,VAR_2
+stub1,FUNC_4
+gpio_irq_handler,FUNC_5
+irq,VAR_3
+desc,VAR_4
+gpio_irq_no,VAR_5
+irq_stat,VAR_6
+port,VAR_7

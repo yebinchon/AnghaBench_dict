@@ -1,0 +1,16 @@
+BIO_TYPE_LIBEVENT_RWCOUNT,VAR_0
+BIO_meth_new,FUNC_0
+BIO_meth_set_create,FUNC_1
+BIO_meth_set_ctrl,FUNC_2
+BIO_meth_set_destroy,FUNC_3
+BIO_meth_set_puts,FUNC_4
+BIO_meth_set_read,FUNC_5
+BIO_meth_set_write,FUNC_6
+bio_rwcount_ctrl,VAR_1
+bio_rwcount_free,VAR_2
+bio_rwcount_new,VAR_3
+bio_rwcount_puts,VAR_4
+bio_rwcount_read,VAR_5
+bio_rwcount_write,VAR_6
+methods_rwcount,VAR_7
+BIO_s_rwcount,FUNC_7

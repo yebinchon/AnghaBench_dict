@@ -1,0 +1,14 @@
+A_XGM_RX_CFG,VAR_0
+A_XGM_RX_HASH_HIGH,VAR_1
+A_XGM_RX_HASH_LOW,VAR_2
+F_COPYALLFRAMES,VAR_3
+F_DISBCAST,VAR_4
+F_ENHASHMCAST,VAR_5
+t3_mac_enable_exact_filters,FUNC_0
+t3_set_reg_field,FUNC_1
+t3_write_reg,FUNC_2
+t3_open_rx_traffic,FUNC_3
+mac,VAR_6
+rx_cfg,VAR_7
+rx_hash_high,VAR_8
+rx_hash_low,VAR_9

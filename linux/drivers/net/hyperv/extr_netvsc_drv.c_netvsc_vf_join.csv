@@ -1,0 +1,17 @@
+IFF_SLAVE,VAR_0
+NETDEV_JOIN,VAR_1
+VF_TAKEOVER_INT,VAR_2
+call_netdevice_notifiers,FUNC_0
+netdev_err,FUNC_1
+netdev_info,FUNC_2
+netdev_master_upper_dev_link,FUNC_3
+netdev_priv,FUNC_4
+netdev_rx_handler_register,FUNC_5
+netdev_rx_handler_unregister,FUNC_6
+netvsc_vf_handle_frame,VAR_3
+schedule_delayed_work,FUNC_7
+netvsc_vf_join,FUNC_8
+vf_netdev,VAR_4
+ndev,VAR_5
+ndev_ctx,VAR_6
+ret,VAR_7

@@ -1,0 +1,15 @@
+BIT,FUNC_0
+ag71xx_desc_empty,FUNC_1
+ag71xx_ring_desc,FUNC_2
+dev_kfree_skb_any,FUNC_3
+netdev_completed_queue,FUNC_4
+wmb,FUNC_5
+ag71xx_ring_tx_clean,FUNC_6
+ag,VAR_0
+ring,VAR_1
+dev,VAR_2
+ring_mask,VAR_3
+bytes_compl,VAR_4
+pkts_compl,VAR_5
+desc,VAR_6
+i,VAR_7

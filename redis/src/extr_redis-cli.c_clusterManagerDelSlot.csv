@@ -1,0 +1,16 @@
+CLUSTER_MANAGER_COMMAND,FUNC_0
+CLUSTER_MANAGER_PRINT_REPLY_ERROR,FUNC_1
+REDIS_REPLY_ERROR,VAR_0
+clusterManagerCheckRedisReply,FUNC_2
+clusterManagerGetSlotOwner,FUNC_3
+freeReplyObject,FUNC_4
+zfree,FUNC_5
+clusterManagerDelSlot,FUNC_6
+node,VAR_1
+slot,VAR_2
+ignore_unassigned_err,VAR_3
+reply,VAR_4
+err,VAR_5
+success,VAR_6
+get_owner_err,VAR_7
+assigned_to,VAR_8

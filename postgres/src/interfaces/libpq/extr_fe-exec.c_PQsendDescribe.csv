@@ -1,0 +1,16 @@
+PGASYNC_BUSY,VAR_0
+PGQUERY_DESCRIBE,VAR_1
+PG_PROTOCOL_MAJOR,FUNC_0
+PQsendQueryStart,FUNC_1
+free,FUNC_2
+libpq_gettext,FUNC_3
+pqFlush,FUNC_4
+pqPutMsgEnd,FUNC_5
+pqPutMsgStart,FUNC_6
+pqPutc,FUNC_7
+pqPuts,FUNC_8
+printfPQExpBuffer,FUNC_9
+PQsendDescribe,FUNC_10
+conn,VAR_2
+desc_type,VAR_3
+desc_target,VAR_4

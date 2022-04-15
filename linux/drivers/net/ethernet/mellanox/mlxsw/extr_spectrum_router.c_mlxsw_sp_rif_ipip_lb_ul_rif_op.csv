@@ -1,0 +1,14 @@
+IP_MAX_MTU,VAR_0
+MLXSW_REG,FUNC_0
+MLXSW_REG_RITR_LEN,VAR_1
+MLXSW_REG_RITR_LOOPBACK_GENERIC,VAR_2
+MLXSW_REG_RITR_LOOPBACK_IF,VAR_3
+mlxsw_reg_ritr_loopback_protocol_set,FUNC_1
+mlxsw_reg_ritr_pack,FUNC_2
+mlxsw_reg_write,FUNC_3
+ritr,VAR_4
+mlxsw_sp_rif_ipip_lb_ul_rif_op,FUNC_4
+ul_rif,VAR_5
+enable,VAR_6
+mlxsw_sp,VAR_7
+ritr_pl,VAR_8

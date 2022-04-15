@@ -1,0 +1,14 @@
+CMD_EVENT_LOAD_CORE,VAR_0
+FRONTEND_FORK_CORE,VAR_1
+RARCH_PATH_CORE,VAR_2
+command_event,FUNC_0
+frontend_driver_set_fork,FUNC_1
+path_set,FUNC_2
+retroarch_set_current_core_type,FUNC_3
+task_push_load_new_core,FUNC_4
+core_path,VAR_3
+fullpath,VAR_4
+content_info,VAR_5
+type,VAR_6
+cb,VAR_7
+user_data,VAR_8

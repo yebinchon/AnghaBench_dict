@@ -1,0 +1,10 @@
+__skb_queue_tail,FUNC_0
+netdev_get_tx_queue,FUNC_1
+netif_tx_stop_queue,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+xenvif_rx_queue_tail,FUNC_5
+queue,VAR_0
+skb,VAR_1
+flags,VAR_2
+dev,VAR_3

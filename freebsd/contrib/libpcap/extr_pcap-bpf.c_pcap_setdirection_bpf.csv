@@ -1,0 +1,15 @@
+BIOCSDIRECTION,VAR_0
+BIOCSSEESENT,VAR_1
+BPF_D_IN,VAR_2
+BPF_D_INOUT,VAR_3
+BPF_D_OUT,VAR_4
+PCAP_D_IN,VAR_5
+PCAP_D_INOUT,VAR_6
+PCAP_D_OUT,VAR_7
+errno,VAR_8
+ioctl,FUNC_0
+pcap_fmt_errmsg_for_errno,FUNC_1
+pcap_snprintf,FUNC_2
+pcap_setdirection_bpf,FUNC_3
+p,VAR_9
+d,VAR_10

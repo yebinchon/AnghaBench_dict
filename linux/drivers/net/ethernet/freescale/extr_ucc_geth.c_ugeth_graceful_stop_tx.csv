@@ -1,0 +1,15 @@
+QE_CR_PROTOCOL_ETHERNET,VAR_0
+QE_GRACEFUL_STOP_TX,VAR_1
+UCC_GETH_UCCE_GRA,VAR_2
+clrbits32,FUNC_0
+in_be32,FUNC_1
+msleep,FUNC_2
+out_be32,FUNC_3
+qe_issue_cmd,FUNC_4
+ucc_fast_get_qe_cr_subblock,FUNC_5
+ugeth_graceful_stop_tx,FUNC_6
+ugeth,VAR_3
+uccf,VAR_4
+cecr_subblock,VAR_5
+temp,VAR_6
+i,VAR_7

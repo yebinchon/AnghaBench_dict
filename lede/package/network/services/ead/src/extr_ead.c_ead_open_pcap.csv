@@ -1,0 +1,17 @@
+ETH_P_IP,VAR_0
+PCAP_MRU,VAR_1
+PCAP_TIMEOUT,VAR_2
+htons,FUNC_0
+pcap_activate,FUNC_1
+pcap_create,FUNC_2
+pcap_set_buffer_size,FUNC_3
+pcap_set_promisc,FUNC_4
+pcap_set_protocol_linux,FUNC_5
+pcap_set_snaplen,FUNC_6
+pcap_set_timeout,FUNC_7
+set_recv_type,FUNC_8
+ead_open_pcap,FUNC_9
+ifname,VAR_3
+errbuf,VAR_4
+rx,VAR_5
+p,VAR_6

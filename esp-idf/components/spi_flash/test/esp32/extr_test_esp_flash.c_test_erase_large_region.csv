@@ -1,0 +1,15 @@
+ESP_LOGI,FUNC_0
+ESP_OK,VAR_0
+TAG,VAR_1
+TEST_ASSERT_EQUAL,FUNC_1
+TEST_ASSERT_EQUAL_HEX32,FUNC_2
+esp_flash_erase_region,FUNC_3
+esp_flash_read,FUNC_4
+esp_flash_write,FUNC_5
+get_test_data_partition,FUNC_6
+test_erase_large_region,FUNC_7
+chip,VAR_2
+part,VAR_3
+ohai,VAR_4
+readback,VAR_5
+written_data,VAR_6

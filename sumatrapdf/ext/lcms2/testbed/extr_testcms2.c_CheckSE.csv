@@ -1,0 +1,17 @@
+Create_AboveRGB,FUNC_0
+DbgThread,FUNC_1
+INTENT_RELATIVE_COLORIMETRIC,VAR_0
+TYPE_RGBA_16_SE,VAR_1
+TYPE_RGBA_8,VAR_2
+cmsCloseProfile,FUNC_2
+cmsCreateTransform,FUNC_3
+cmsCreate_sRGBProfile,FUNC_4
+cmsDeleteTransform,FUNC_5
+cmsDoTransform,FUNC_6
+cmsFLAGS_COPY_ALPHA,VAR_3
+CheckSE,FUNC_7
+input_profile,VAR_4
+output_profile,VAR_5
+tr,VAR_6
+rgba,VAR_7
+out,VAR_8

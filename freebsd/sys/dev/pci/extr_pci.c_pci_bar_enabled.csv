@@ -1,0 +1,13 @@
+PCIM_BIOS_ENABLE,VAR_0
+PCIM_CMD_MEMEN,VAR_1
+PCIM_CMD_PORTEN,VAR_2
+PCIR_COMMAND,VAR_3
+PCIR_IS_BIOS,FUNC_0
+PCI_BAR_MEM,FUNC_1
+device_get_ivars,FUNC_2
+pci_read_config,FUNC_3
+pci_bar_enabled,FUNC_4
+dev,VAR_4
+pm,VAR_5
+dinfo,VAR_6
+cmd,VAR_7

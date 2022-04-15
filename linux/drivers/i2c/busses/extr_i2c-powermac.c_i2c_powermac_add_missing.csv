@@ -1,0 +1,14 @@
+I2C_SMBUS_BYTE_DATA,VAR_0
+I2C_SMBUS_READ,VAR_1
+ONYX_REG_CONTROL,VAR_2
+i2c_powermac_create_one,FUNC_0
+i2c_smbus_xfer,FUNC_1
+of_device_is_compatible,FUNC_2
+pmac_i2c_get_bus_node,FUNC_3
+i2c_powermac_add_missing,FUNC_4
+adap,VAR_3
+bus,VAR_4
+found_onyx,VAR_5
+busnode,VAR_6
+rc,VAR_7
+data,VAR_8

@@ -1,0 +1,14 @@
+GFXEC,VAR_0
+I915_READ,FUNC_0
+assert_spin_locked,FUNC_1
+div_u64,FUNC_2
+getrawmonotonic,FUNC_3
+mchdev_lock,VAR_1
+timespec_sub,FUNC_4
+__i915_update_gfx_val,FUNC_5
+dev_priv,VAR_2
+now,VAR_3
+diff1,VAR_4
+diff,VAR_5
+diffms,VAR_6
+count,VAR_7

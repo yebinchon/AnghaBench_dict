@@ -1,0 +1,10 @@
+BIO_new,FUNC_0
+BIO_s_mem,FUNC_1
+BIO_set_mem_eof_return,FUNC_2
+SSL_new,FUNC_3
+SSL_set_bio,FUNC_4
+luaL_error,FUNC_5
+_init_bio,FUNC_6
+L,VAR_0
+tls_p,VAR_1
+ctx_p,VAR_2

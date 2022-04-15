@@ -1,0 +1,17 @@
+BIT,FUNC_0
+FARADAY_PCI_CTRL2,VAR_0
+PCI_CTRL2_INTSTS_SHIFT,VAR_1
+chained_irq_enter,FUNC_1
+chained_irq_exit,FUNC_2
+faraday_raw_pci_read_config,FUNC_3
+generic_handle_irq,FUNC_4
+irq_desc_get_chip,FUNC_5
+irq_desc_get_handler_data,FUNC_6
+irq_find_mapping,FUNC_7
+faraday_pci_irq_handler,FUNC_8
+desc,VAR_2
+p,VAR_3
+irqchip,VAR_4
+irq_stat,VAR_5
+reg,VAR_6
+i,VAR_7

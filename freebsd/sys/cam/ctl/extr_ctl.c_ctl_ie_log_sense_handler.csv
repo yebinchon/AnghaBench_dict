@@ -1,0 +1,13 @@
+CTL_LUN,FUNC_0
+SLP_IE_GEN,VAR_0
+SLP_LBIN,VAR_1
+dnvlist_get_string,FUNC_1
+scsi_ulto2b,FUNC_2
+strtol,FUNC_3
+ctl_ie_log_sense_handler,FUNC_4
+ctsio,VAR_2
+page_index,VAR_3
+pc,VAR_4
+lun,VAR_5
+data,VAR_6
+value,VAR_7

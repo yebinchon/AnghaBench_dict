@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+FM_KG_CLS_PLAN_GRPS_NUM,VAR_1
+FM_KG_NUM_CLS_PLAN_ENTR,VAR_2
+TRUE,VAR_3
+build_ar_cls_plan,FUNC_0
+fman_kg_write_ar_wait,FUNC_1
+iowrite32be,FUNC_2
+fman_kg_write_cls_plan,FUNC_3
+regs,VAR_4
+grp_id,VAR_5
+entries_mask,VAR_6
+hwport_id,VAR_7
+cls_plan_regs,VAR_8
+kgcpe_regs,VAR_9
+tmp_reg,VAR_10
+i,VAR_11
+err,VAR_12

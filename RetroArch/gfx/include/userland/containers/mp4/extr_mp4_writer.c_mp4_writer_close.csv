@@ -1,0 +1,13 @@
+MP4_BOX_TYPE_MOOV,VAR_0
+SEEK,FUNC_0
+STREAM_POSITION,FUNC_1
+WRITE_U32,FUNC_2
+free,FUNC_3
+mp4_write_box,FUNC_4
+vc_container_free_track,FUNC_5
+vc_container_writer_extraio_delete,FUNC_6
+mp4_writer_close,FUNC_7
+p_ctx,VAR_1
+module,VAR_2
+status,VAR_3
+mdat_size,VAR_4

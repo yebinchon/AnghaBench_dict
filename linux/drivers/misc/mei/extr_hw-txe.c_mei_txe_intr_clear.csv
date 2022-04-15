@@ -1,0 +1,12 @@
+HHISR_REG,VAR_0
+HISR_INT_STS_MSK,VAR_1
+HISR_REG,VAR_2
+IPC_HHIER_MSK,VAR_3
+SEC_IPC_HOST_INT_STATUS_PENDING,VAR_4
+SEC_IPC_HOST_INT_STATUS_REG,VAR_5
+mei_txe_br_reg_write,FUNC_0
+mei_txe_sec_reg_write_silent,FUNC_1
+to_txe_hw,FUNC_2
+mei_txe_intr_clear,FUNC_3
+dev,VAR_6
+hw,VAR_7

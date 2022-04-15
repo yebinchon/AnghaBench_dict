@@ -1,0 +1,13 @@
+FLOW_OFFLOAD_DNAT,VAR_0
+FLOW_OFFLOAD_SNAT,VAR_1
+ipv6_hdr,FUNC_0
+nf_flow_dnat_ipv6,FUNC_1
+nf_flow_dnat_port,FUNC_2
+nf_flow_snat_ipv6,FUNC_3
+nf_flow_snat_port,FUNC_4
+nf_flow_nat_ipv6,FUNC_5
+flow,VAR_2
+skb,VAR_3
+dir,VAR_4
+ip6h,VAR_5
+thoff,VAR_6

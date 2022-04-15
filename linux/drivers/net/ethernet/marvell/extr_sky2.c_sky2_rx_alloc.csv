@@ -1,0 +1,17 @@
+NET_IP_ALIGN,VAR_0
+PAGE_SIZE,VAR_1
+PTR_ALIGN,FUNC_0
+SKY2_HW_RAM_BUFFER,VAR_2
+__netdev_alloc_skb,FUNC_1
+alloc_page,FUNC_2
+kfree_skb,FUNC_3
+skb_fill_page_desc,FUNC_4
+skb_reserve,FUNC_5
+sky2_rx_pad,FUNC_6
+sky2_rx_alloc,FUNC_7
+sky2,VAR_3
+gfp,VAR_4
+skb,VAR_5
+i,VAR_6
+start,VAR_7
+page,VAR_8

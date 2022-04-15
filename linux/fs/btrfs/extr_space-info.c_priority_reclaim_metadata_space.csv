@@ -1,0 +1,12 @@
+btrfs_calc_reclaim_metadata_size,FUNC_0
+flush_space,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+priority_reclaim_metadata_space,FUNC_4
+fs_info,VAR_0
+space_info,VAR_1
+ticket,VAR_2
+states,VAR_3
+states_nr,VAR_4
+to_reclaim,VAR_5
+flush_state,VAR_6

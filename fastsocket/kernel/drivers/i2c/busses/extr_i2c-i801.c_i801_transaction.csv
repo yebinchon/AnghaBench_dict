@@ -1,0 +1,17 @@
+I801_START,VAR_0
+MAX_TIMEOUT,VAR_1
+SMBHSTCNT,FUNC_0
+SMBHSTSTS,FUNC_1
+SMBHSTSTS_HOST_BUSY,VAR_2
+SMBHSTSTS_INTR,VAR_3
+i801_check_post,FUNC_2
+i801_check_pre,FUNC_3
+inb_p,FUNC_4
+msleep,FUNC_5
+outb_p,FUNC_6
+i801_transaction,FUNC_7
+priv,VAR_4
+xact,VAR_5
+status,VAR_6
+result,VAR_7
+timeout,VAR_8

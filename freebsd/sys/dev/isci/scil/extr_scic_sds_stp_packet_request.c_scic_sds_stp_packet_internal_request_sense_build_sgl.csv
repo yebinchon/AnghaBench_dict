@@ -1,0 +1,12 @@
+SCU_SGL_ZERO,FUNC_0
+sci_cb_physical_address_lower,FUNC_1
+sci_cb_physical_address_upper,FUNC_2
+scic_cb_io_request_get_physical_address,FUNC_3
+scic_sds_request_get_controller,FUNC_4
+scic_sds_stp_packet_internal_request_sense_build_sgl,FUNC_5
+this_request,VAR_0
+sge,VAR_1
+scu_sgl_list,VAR_2
+task_context,VAR_3
+physical_address,VAR_4
+rsp_iu,VAR_5

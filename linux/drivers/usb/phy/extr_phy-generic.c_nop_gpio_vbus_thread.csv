@@ -1,0 +1,15 @@
+IRQ_HANDLED,VAR_0
+OTG_STATE_B_IDLE,VAR_1
+OTG_STATE_B_PERIPHERAL,VAR_2
+USB_EVENT_NONE,VAR_3
+USB_EVENT_VBUS,VAR_4
+atomic_notifier_call_chain,FUNC_0
+gpiod_get_value,FUNC_1
+nop_set_vbus_draw,FUNC_2
+nop_gpio_vbus_thread,FUNC_3
+irq,VAR_5
+data,VAR_6
+nop,VAR_7
+otg,VAR_8
+vbus,VAR_9
+status,VAR_10

@@ -1,0 +1,13 @@
+PCI9111_AI_TRIG_CTRL_REG,VAR_0
+PCI9111_INT_CTRL_ISC0,VAR_1
+PCI9111_INT_CTRL_ISC1,VAR_2
+PCI9111_INT_CTRL_REG,VAR_3
+inb,FUNC_0
+irq_on_external_trigger,VAR_4
+irq_on_fifo_half_full,VAR_5
+outb,FUNC_1
+pci9111_interrupt_source_set,FUNC_2
+dev,VAR_6
+irq_0_source,VAR_7
+irq_1_source,VAR_8
+flags,VAR_9

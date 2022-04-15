@@ -1,0 +1,16 @@
+ERROR_CALL_NOT_IMPLEMENTED,VAR_0
+ERROR_INVALID_DRIVE,VAR_1
+ERROR_INVALID_HANDLE,VAR_2
+ERROR_INVALID_PARAMETER,VAR_3
+GetLastError,FUNC_0
+SetLastError,FUNC_1
+SetupCreateDiskSpaceListA,FUNC_2
+SetupDestroyDiskSpaceList,FUNC_3
+SetupQuerySpaceRequiredOnDriveW,FUNC_4
+ok,FUNC_5
+win_skip,FUNC_6
+test_SetupQuerySpaceRequiredOnDriveW,FUNC_7
+emptyW,VAR_4
+ret,VAR_5
+handle,VAR_6
+space,VAR_7

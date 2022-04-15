@@ -1,0 +1,15 @@
+ICL_CONN_LOCK,FUNC_0
+ICL_CONN_UNLOCK,FUNC_1
+STAILQ_CONCAT,FUNC_2
+STAILQ_EMPTY,FUNC_3
+STAILQ_INIT,FUNC_4
+STAILQ_SWAP,FUNC_5
+cv_signal,FUNC_6
+cv_wait,FUNC_7
+icl_conn_send_pdus,FUNC_8
+icl_pdu,VAR_0
+kthread_exit,FUNC_9
+icl_send_thread,FUNC_10
+arg,VAR_1
+ic,VAR_2
+queue,VAR_3

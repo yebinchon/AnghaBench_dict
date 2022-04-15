@@ -1,0 +1,11 @@
+al_eth_disable_int_sync,FUNC_0
+al_eth_free_all_rx_resources,FUNC_1
+al_eth_free_all_tx_resources,FUNC_2
+al_eth_free_irq,FUNC_3
+al_eth_hw_stop,FUNC_4
+callout_stop,FUNC_5
+device_printf_dbg,FUNC_6
+mtx_lock,FUNC_7
+mtx_unlock,FUNC_8
+al_eth_down,FUNC_9
+adapter,VAR_0

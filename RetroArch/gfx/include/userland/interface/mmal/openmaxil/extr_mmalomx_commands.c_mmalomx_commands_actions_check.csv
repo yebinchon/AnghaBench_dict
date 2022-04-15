@@ -1,0 +1,13 @@
+MMALOMX_ACTION_NOTIFY_STATE,VAR_0
+MMALOMX_LOCK,FUNC_0
+MMALOMX_UNLOCK,FUNC_1
+OMX_CommandStateSet,VAR_1
+OMX_EventCmdComplete,VAR_2
+mmalomx_callback_event_handler,FUNC_2
+mmalomx_commands_actions_next,FUNC_3
+mmalomx_commands_check_port_actions,FUNC_4
+state_transition_table,VAR_3
+mmalomx_commands_actions_check,FUNC_5
+component,VAR_4
+actions_left,VAR_5
+i,VAR_6

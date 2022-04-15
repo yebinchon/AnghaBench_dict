@@ -1,0 +1,15 @@
+IEEE80211_CAPINFO_ESS,VAR_0
+IEEE80211_FC0_SUBTYPE_ASSOC_RESP,VAR_1
+IEEE80211_FC0_TYPE_MGT,VAR_2
+fill_basic,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+printf,FUNC_3
+send_frame,FUNC_4
+send_assoc,FUNC_5
+p,VAR_3
+mac,VAR_4
+buf,VAR_5
+wh,VAR_6
+ptr,VAR_7
+len,VAR_8

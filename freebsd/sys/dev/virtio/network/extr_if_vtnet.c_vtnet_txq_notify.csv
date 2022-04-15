@@ -1,0 +1,9 @@
+VTNET_TX_TIMEOUT,VAR_0
+virtqueue_disable_intr,FUNC_0
+virtqueue_notify,FUNC_1
+vtnet_txq_below_threshold,FUNC_2
+vtnet_txq_enable_intr,FUNC_3
+vtnet_txq_eof,FUNC_4
+vtnet_txq_notify,FUNC_5
+txq,VAR_1
+vq,VAR_2

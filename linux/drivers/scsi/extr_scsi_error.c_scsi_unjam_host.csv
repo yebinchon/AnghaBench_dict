@@ -1,0 +1,14 @@
+LIST_HEAD,FUNC_0
+SCSI_LOG_ERROR_RECOVERY,FUNC_1
+eh_done_q,VAR_0
+eh_work_q,VAR_1
+list_splice_init,FUNC_2
+scsi_eh_flush_done_q,FUNC_3
+scsi_eh_get_sense,FUNC_4
+scsi_eh_prt_fail_stats,FUNC_5
+scsi_eh_ready_devs,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+scsi_unjam_host,FUNC_9
+shost,VAR_2
+flags,VAR_3

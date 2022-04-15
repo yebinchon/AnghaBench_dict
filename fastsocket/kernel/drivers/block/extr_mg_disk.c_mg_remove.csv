@@ -1,0 +1,16 @@
+MG_BOOT_DEV,VAR_0
+MG_DISK_NAME,VAR_1
+blk_cleanup_queue,FUNC_0
+del_gendisk,FUNC_1
+del_timer_sync,FUNC_2
+free_irq,FUNC_3
+gpio_free,FUNC_4
+iounmap,FUNC_5
+kfree,FUNC_6
+put_disk,FUNC_7
+unregister_blkdev,FUNC_8
+mg_remove,FUNC_9
+plat_dev,VAR_2
+prv_data,VAR_3
+host,VAR_4
+err,VAR_5

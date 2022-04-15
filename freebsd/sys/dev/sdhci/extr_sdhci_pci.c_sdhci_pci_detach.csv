@@ -1,0 +1,14 @@
+SDHCI_QUIRK_LOWER_FREQUENCY,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+device_get_softc,FUNC_2
+pci_release_msi,FUNC_3
+rman_get_rid,FUNC_4
+sdhci_cleanup_slot,FUNC_5
+sdhci_restore_frequency,FUNC_6
+sdhci_pci_detach,FUNC_7
+dev,VAR_3
+sc,VAR_4
+i,VAR_5

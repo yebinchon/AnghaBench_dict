@@ -1,0 +1,10 @@
+KVMPPC_VCPU_BUSY_IN_HOST,VAR_0
+VCORE_SLEEPING,VAR_1
+kvmppc_core_start_stolen,FUNC_0
+mftb,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+kvmppc_core_vcpu_put_hv,FUNC_4
+vcpu,VAR_2
+vc,VAR_3
+flags,VAR_4

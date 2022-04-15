@@ -1,0 +1,13 @@
+AFS_FS_I,FUNC_0
+_enter,FUNC_1
+_leave,FUNC_2
+afs_flock_op_unlock,VAR_0
+locks_inode,FUNC_3
+locks_lock_file_wait,FUNC_4
+trace_afs_flock_op,FUNC_5
+vfs_fsync,FUNC_6
+afs_do_unlk,FUNC_7
+file,VAR_1
+fl,VAR_2
+vnode,VAR_3
+ret,VAR_4

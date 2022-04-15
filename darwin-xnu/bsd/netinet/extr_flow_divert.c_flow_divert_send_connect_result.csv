@@ -1,0 +1,15 @@
+FDLOG,FUNC_0
+FLOW_DIVERT_PKT_CONNECT_RESULT,VAR_0
+FLOW_DIVERT_TLV_SPACE_AVAILABLE,VAR_1
+LOG_ERR,VAR_2
+TRUE,VAR_3
+flow_divert_packet_append_tlv,FUNC_1
+flow_divert_packet_init,FUNC_2
+flow_divert_send_packet,FUNC_3
+htonl,FUNC_4
+mbuf_freem,FUNC_5
+flow_divert_send_connect_result,FUNC_6
+fd_cb,VAR_4
+error,VAR_5
+packet,VAR_6
+rbuff_space,VAR_7

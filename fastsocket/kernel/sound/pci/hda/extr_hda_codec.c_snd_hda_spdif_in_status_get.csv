@@ -1,0 +1,11 @@
+AC_VERB_GET_DIGI_CONVERT_1,VAR_0
+convert_to_spdif_status,FUNC_0
+snd_hda_codec_read,FUNC_1
+snd_kcontrol_chip,FUNC_2
+snd_hda_spdif_in_status_get,FUNC_3
+kcontrol,VAR_1
+ucontrol,VAR_2
+codec,VAR_3
+nid,VAR_4
+val,VAR_5
+sbits,VAR_6

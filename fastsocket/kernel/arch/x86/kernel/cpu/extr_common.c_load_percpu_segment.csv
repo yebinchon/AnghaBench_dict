@@ -1,0 +1,11 @@
+MSR_GS_BASE,VAR_0
+__KERNEL_PERCPU,VAR_1
+fs,VAR_2
+gs,VAR_3
+irq_stack_union,VAR_4
+load_stack_canary_segment,FUNC_0
+loadsegment,FUNC_1
+per_cpu,FUNC_2
+wrmsrl,FUNC_3
+load_percpu_segment,FUNC_4
+cpu,VAR_5

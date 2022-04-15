@@ -1,0 +1,14 @@
+AD9832_CMD_FRE16BITSW,VAR_0
+AD9832_CMD_FRE8BITSW,VAR_1
+ADD_SHIFT,VAR_2
+CMD_SHIFT,VAR_3
+EINVAL,VAR_4
+ad9832_calc_freqreg,FUNC_0
+clk_get_rate,FUNC_1
+cpu_to_be16,FUNC_2
+spi_sync,FUNC_3
+ad9832_write_frequency,FUNC_4
+st,VAR_5
+addr,VAR_6
+fout,VAR_7
+regval,VAR_8

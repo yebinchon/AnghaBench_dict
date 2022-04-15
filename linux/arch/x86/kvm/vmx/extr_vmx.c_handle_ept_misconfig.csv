@@ -1,0 +1,12 @@
+GUEST_PHYSICAL_ADDRESS,VAR_0
+KVM_FAST_MMIO_BUS,VAR_1
+PFERR_RSVD_MASK,VAR_2
+is_guest_mode,FUNC_0
+kvm_io_bus_write,FUNC_1
+kvm_mmu_page_fault,FUNC_2
+kvm_skip_emulated_instruction,FUNC_3
+trace_kvm_fast_mmio,FUNC_4
+vmcs_read64,FUNC_5
+handle_ept_misconfig,FUNC_6
+vcpu,VAR_3
+gpa,VAR_4

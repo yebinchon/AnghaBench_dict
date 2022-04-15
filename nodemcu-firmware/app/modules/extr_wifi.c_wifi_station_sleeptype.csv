@@ -1,0 +1,13 @@
+LIGHT_SLEEP_T,VAR_0
+MODEM_SLEEP_T,VAR_1
+NONE_SLEEP_T,VAR_2
+luaL_argcheck,FUNC_0
+lua_isnumber,FUNC_1
+lua_pushinteger,FUNC_2
+lua_pushnil,FUNC_3
+lua_tointeger,FUNC_4
+wifi_get_sleep_type,FUNC_5
+wifi_set_sleep_type,FUNC_6
+wifi_station_sleeptype,FUNC_7
+L,VAR_3
+type,VAR_4

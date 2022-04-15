@@ -1,0 +1,14 @@
+CMD_DMA_ALLOC_SZ,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+MTIP_MAX_SG,VAR_3
+blk_mq_rq_to_pdu,FUNC_0
+dma_alloc_coherent,FUNC_1
+sg_init_table,FUNC_2
+mtip_init_cmd,FUNC_3
+set,VAR_4
+rq,VAR_5
+hctx_idx,VAR_6
+numa_node,VAR_7
+dd,VAR_8
+cmd,VAR_9

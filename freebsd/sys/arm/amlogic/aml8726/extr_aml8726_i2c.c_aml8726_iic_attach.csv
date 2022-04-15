@@ -1,0 +1,14 @@
+AML_I2C_LOCK_DESTROY,FUNC_0
+AML_I2C_LOCK_INIT,FUNC_1
+ENXIO,VAR_0
+aml8726_iic_spec,VAR_1
+bus_alloc_resources,FUNC_2
+bus_release_resources,FUNC_3
+device_add_child,FUNC_4
+device_get_softc,FUNC_5
+device_printf,FUNC_6
+device_probe_and_attach,FUNC_7
+aml8726_iic_attach,FUNC_8
+dev,VAR_2
+sc,VAR_3
+error,VAR_4

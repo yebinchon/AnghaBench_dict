@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+PCIM_CMD_PORTEN,VAR_1
+PCIR_COMMAND,VAR_2
+devclass_find,FUNC_0
+devclass_get_device,FUNC_1
+device_printf,FUNC_2
+device_set_desc,FUNC_3
+pci_get_devid,FUNC_4
+pci_read_config,FUNC_5
+piix_probe,FUNC_6
+dev,VAR_3
+d,VAR_4

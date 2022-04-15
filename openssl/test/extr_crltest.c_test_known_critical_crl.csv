@@ -1,0 +1,14 @@
+CRL_from_strings,FUNC_0
+TEST_int_eq,FUNC_1
+TEST_ptr,FUNC_2
+X509_CRL_free,FUNC_3
+X509_V_FLAG_CRL_CHECK,VAR_0
+X509_V_OK,VAR_1
+kKnownCriticalCRL,VAR_2
+make_CRL_stack,FUNC_4
+test_leaf,VAR_3
+test_root,VAR_4
+verify,FUNC_5
+test_known_critical_crl,FUNC_6
+known_critical_crl,VAR_5
+r,VAR_6

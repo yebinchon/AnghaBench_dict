@@ -1,0 +1,16 @@
+ESP_AES_ENCRYPT,VAR_0
+esp_aes_acquire_hardware,FUNC_0
+esp_aes_block,FUNC_1
+esp_aes_release_hardware,FUNC_2
+esp_aes_setkey_hardware,FUNC_3
+esp_aes_crypt_ctr,FUNC_4
+ctx,VAR_1
+length,VAR_2
+nc_off,VAR_3
+nonce_counter,VAR_4
+stream_block,VAR_5
+input,VAR_6
+output,VAR_7
+c,VAR_8
+i,VAR_9
+n,VAR_10

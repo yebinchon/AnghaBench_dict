@@ -1,0 +1,8 @@
+IF_OPER_DOWN,VAR_0
+IF_OPER_LOWERLAYERDOWN,VAR_1
+IF_OPER_UP,VAR_2
+__hsr_set_operstate,FUNC_0
+is_admin_up,FUNC_1
+hsr_set_operstate,FUNC_2
+master,VAR_3
+has_carrier,VAR_4

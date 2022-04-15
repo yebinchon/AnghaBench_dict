@@ -1,0 +1,15 @@
+VTSCSI_ERROR,VAR_0
+VTSCSI_FLAG_DETACH,VAR_1
+VTSCSI_INFO,VAR_2
+VTSCSI_REQ_FLAG_TIMEOUT_SET,VAR_3
+VTSCSI_REQ_STATE_FREE,VAR_4
+VTSCSI_REQ_STATE_INUSE,VAR_5
+VTSCSI_REQ_STATE_TIMEDOUT,VAR_6
+vtscsi_abort_timedout_scsi_cmd,FUNC_0
+vtscsi_complete_vq,FUNC_1
+vtscsi_dprintf,FUNC_2
+vtscsi_reset_bus,FUNC_3
+vtscsi_timedout_scsi_cmd,FUNC_4
+xreq,VAR_7
+sc,VAR_8
+to_req,VAR_9

@@ -1,0 +1,13 @@
+CONFIG_FS_POSIX_ACL,VAR_0
+IS_ENABLED,FUNC_0
+IS_POSIXACL,FUNC_1
+get_acl,FUNC_2
+ovl_inode_real,FUNC_3
+ovl_override_creds,FUNC_4
+revert_creds,FUNC_5
+ovl_get_acl,FUNC_6
+inode,VAR_1
+type,VAR_2
+realinode,VAR_3
+old_cred,VAR_4
+acl,VAR_5

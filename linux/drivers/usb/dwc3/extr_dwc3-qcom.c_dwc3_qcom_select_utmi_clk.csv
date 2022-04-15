@@ -1,0 +1,9 @@
+PIPE3_PHYSTATUS_SW,VAR_0
+PIPE_UTMI_CLK_DIS,VAR_1
+PIPE_UTMI_CLK_SEL,VAR_2
+QSCRATCH_GENERAL_CFG,VAR_3
+dwc3_qcom_clrbits,FUNC_0
+dwc3_qcom_setbits,FUNC_1
+usleep_range,FUNC_2
+dwc3_qcom_select_utmi_clk,FUNC_3
+qcom,VAR_4

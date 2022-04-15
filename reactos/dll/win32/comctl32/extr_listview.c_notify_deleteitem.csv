@@ -1,0 +1,13 @@
+IsWindow,FUNC_0
+LISTVIEW_GetItemT,FUNC_1
+LVIF_PARAM,VAR_0
+LVN_DELETEITEM,VAR_1
+TRUE,VAR_2
+ZeroMemory,FUNC_2
+notify_listview,FUNC_3
+notify_deleteitem,FUNC_4
+infoPtr,VAR_3
+nItem,VAR_4
+nmlv,VAR_5
+item,VAR_6
+hwnd,VAR_7

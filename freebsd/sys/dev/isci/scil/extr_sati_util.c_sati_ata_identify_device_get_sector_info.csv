@@ -1,0 +1,7 @@
+ATA_IDENTIFY_COMMAND_SET_SUPPORTED1_48BIT_ENABLE,VAR_0
+ATA_IDENTIFY_SECTOR_LARGER_THEN_512_ENABLE,VAR_1
+sati_ata_identify_device_get_sector_info,FUNC_0
+identify,VAR_2
+lba_high,VAR_3
+lba_low,VAR_4
+sector_size,VAR_5

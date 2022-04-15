@@ -1,0 +1,16 @@
+NVTRACE_ENTER,FUNC_0
+NVTRACE_LEAVE,FUNC_1
+arch_phys_wc_del,FUNC_2
+fb_destroy_modedb,FUNC_3
+framebuffer_release,FUNC_4
+iounmap,FUNC_5
+kfree,FUNC_6
+nvidia_bl_exit,FUNC_7
+nvidia_delete_i2c_busses,FUNC_8
+pci_get_drvdata,FUNC_9
+pci_release_regions,FUNC_10
+unregister_framebuffer,FUNC_11
+nvidiafb_remove,FUNC_12
+pd,VAR_0
+info,VAR_1
+par,VAR_2

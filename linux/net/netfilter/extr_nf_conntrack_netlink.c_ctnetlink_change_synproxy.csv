@@ -1,0 +1,17 @@
+CTA_SYNPROXY,VAR_0
+CTA_SYNPROXY_ISN,VAR_1
+CTA_SYNPROXY_ITS,VAR_2
+CTA_SYNPROXY_MAX,VAR_3
+CTA_SYNPROXY_TSOFF,VAR_4
+EINVAL,VAR_5
+nfct_synproxy,FUNC_0
+nla_get_be32,FUNC_1
+nla_parse_nested_deprecated,FUNC_2
+ntohl,FUNC_3
+synproxy_policy,VAR_6
+ctnetlink_change_synproxy,FUNC_4
+ct,VAR_7
+cda,VAR_8
+synproxy,VAR_9
+tb,VAR_10
+err,VAR_11

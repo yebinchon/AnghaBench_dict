@@ -1,0 +1,9 @@
+MACCFG1_RX_EN,VAR_0
+MACCFG1_TX_EN,VAR_1
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+fman_dtsec_disable,FUNC_2
+regs,VAR_2
+apply_rx,VAR_3
+apply_tx,VAR_4
+tmp,VAR_5

@@ -1,0 +1,15 @@
+ACB_F_MSIX_ENABLED,VAR_0
+FALSE,VAR_1
+INTR_MPSAFE,VAR_2
+INTR_TYPE_CAM,VAR_3
+RF_ACTIVE,VAR_4
+SYS_RES_IRQ,VAR_5
+TRUE,VAR_6
+arcmsr_intr_handler,VAR_7
+arcmsr_teardown_intr,FUNC_0
+bus_alloc_resource_any,FUNC_1
+bus_setup_intr,FUNC_2
+printf,FUNC_3
+arcmsr_setup_msix,FUNC_4
+acb,VAR_8
+i,VAR_9

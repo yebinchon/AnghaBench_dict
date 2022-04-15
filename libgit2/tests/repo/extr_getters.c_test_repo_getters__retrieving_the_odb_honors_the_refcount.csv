@@ -1,0 +1,10 @@
+cl_assert,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+git_odb_free,FUNC_3
+git_repository_free,FUNC_4
+git_repository_odb,FUNC_5
+git_repository_open,FUNC_6
+test_repo_getters__retrieving_the_odb_honors_the_refcount,FUNC_7
+odb,VAR_0
+repo,VAR_1

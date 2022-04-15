@@ -1,0 +1,14 @@
+CONTAINER_CHANNEL,VAR_0
+PAGE_SIZE,VAR_1
+TYPE_DISK,VAR_2
+get_container_type,FUNC_0
+sdev_channel,FUNC_1
+sdev_id,FUNC_2
+snprintf,FUNC_3
+to_scsi_device,FUNC_4
+aac_show_raid_level,FUNC_5
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+sdev,VAR_6
+aac,VAR_7

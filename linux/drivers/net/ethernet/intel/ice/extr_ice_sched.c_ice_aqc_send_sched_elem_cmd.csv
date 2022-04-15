@@ -1,0 +1,16 @@
+ICE_AQ_FLAG_RD,VAR_0
+cpu_to_le16,FUNC_0
+ice_aq_send_cmd,FUNC_1
+ice_fill_dflt_direct_cmd_desc,FUNC_2
+le16_to_cpu,FUNC_3
+ice_aqc_send_sched_elem_cmd,FUNC_4
+hw,VAR_1
+cmd_opc,VAR_2
+elems_req,VAR_3
+buf,VAR_4
+buf_size,VAR_5
+elems_resp,VAR_6
+cd,VAR_7
+cmd,VAR_8
+desc,VAR_9
+status,VAR_10

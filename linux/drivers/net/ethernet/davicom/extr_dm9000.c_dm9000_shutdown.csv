@@ -1,0 +1,11 @@
+BMCR_RESET,VAR_0
+DM9000_GPR,VAR_1
+DM9000_RCR,VAR_2
+MII_BMCR,VAR_3
+dm9000_mask_interrupts,FUNC_0
+dm9000_phy_write,FUNC_1
+iow,FUNC_2
+netdev_priv,FUNC_3
+dm9000_shutdown,FUNC_4
+dev,VAR_4
+db,VAR_5

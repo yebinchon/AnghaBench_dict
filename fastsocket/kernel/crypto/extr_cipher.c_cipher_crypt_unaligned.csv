@@ -1,0 +1,13 @@
+ALIGN,FUNC_0
+crypto_tfm_alg_alignmask,FUNC_1
+crypto_tfm_alg_blocksize,FUNC_2
+memcpy,FUNC_3
+cipher_crypt_unaligned,FUNC_4
+fn,VAR_0
+tfm,VAR_1
+dst,VAR_2
+src,VAR_3
+alignmask,VAR_4
+size,VAR_5
+buffer,VAR_6
+tmp,VAR_7

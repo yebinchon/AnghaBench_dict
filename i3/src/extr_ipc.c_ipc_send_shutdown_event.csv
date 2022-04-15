@@ -1,0 +1,16 @@
+I3_IPC_EVENT_SHUTDOWN,VAR_0
+SHUTDOWN_REASON_EXIT,VAR_1
+SHUTDOWN_REASON_RESTART,VAR_2
+free,VAR_3
+get_buf,VAR_4
+ipc_send_event,FUNC_0
+map_close,VAR_5
+map_open,VAR_6
+y,FUNC_1
+ygenalloc,FUNC_2
+ystr,FUNC_3
+ipc_send_shutdown_event,FUNC_4
+reason,VAR_7
+gen,VAR_8
+payload,VAR_9
+length,VAR_10

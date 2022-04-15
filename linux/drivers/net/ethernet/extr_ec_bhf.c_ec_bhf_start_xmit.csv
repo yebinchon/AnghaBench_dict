@@ -1,0 +1,17 @@
+NETDEV_TX_OK,VAR_0
+TX_HDR_PORT_0,VAR_1
+cpu_to_le16,FUNC_0
+dev_kfree_skb,FUNC_1
+ec_bhf_desc_sent,FUNC_2
+ec_bhf_send_packet,FUNC_3
+memset,FUNC_4
+netdev_priv,FUNC_5
+netif_stop_queue,FUNC_6
+skb_copy_and_csum_dev,FUNC_7
+smp_wmb,FUNC_8
+ec_bhf_start_xmit,FUNC_9
+skb,VAR_2
+net_dev,VAR_3
+priv,VAR_4
+desc,VAR_5
+len,VAR_6

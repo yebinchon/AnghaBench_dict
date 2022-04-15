@@ -1,0 +1,14 @@
+SD_RSP_TYPE_R1,VAR_0
+SEND_STATUS,VAR_1
+STATUS_FAIL,VAR_2
+STATUS_SUCCESS,VAR_3
+sd_send_cmd_get_rsp,FUNC_0
+sd_wait_state_data_ready,FUNC_1
+chip,VAR_4
+state,VAR_5
+data_ready,VAR_6
+polling_cnt,VAR_7
+sd_card,VAR_8
+retval,VAR_9
+i,VAR_10
+rsp,VAR_11

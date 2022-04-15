@@ -1,0 +1,13 @@
+O_RDONLY,VAR_0
+VIRTIO_ID_RNG,VAR_1
+VIRTQUEUE_NUM,VAR_2
+add_virtqueue,FUNC_0
+devices,VAR_3
+malloc,FUNC_1
+new_device,FUNC_2
+open_or_die,FUNC_3
+rng_input,VAR_4
+verbose,FUNC_4
+setup_rng,FUNC_5
+dev,VAR_5
+rng_info,VAR_6

@@ -1,0 +1,14 @@
+_scsih_fw_event_cleanup_queue,FUNC_0
+_scsih_ir_shutdown,FUNC_1
+destroy_workqueue,FUNC_2
+mpt2sas_base_detach,FUNC_3
+pci_get_drvdata,FUNC_4
+shost_priv,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+_scsih_shutdown,FUNC_8
+pdev,VAR_0
+shost,VAR_1
+ioc,VAR_2
+wq,VAR_3
+flags,VAR_4

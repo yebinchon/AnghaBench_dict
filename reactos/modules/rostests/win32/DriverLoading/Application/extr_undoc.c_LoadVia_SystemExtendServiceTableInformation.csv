@@ -1,0 +1,17 @@
+FALSE,VAR_0
+NtSetSystemInformation,FUNC_0
+NtUnloadDriver,FUNC_1
+RtlInitUnicodeString,FUNC_2
+RtlNtStatusToDosError,FUNC_3
+STATUS_PRIVILEGE_NOT_HELD,VAR_1
+STATUS_SUCCESS,VAR_2
+SetPrivilege,FUNC_4
+SystemExtendServiceTableInformation,VAR_3
+TRUE,VAR_4
+wprintf,FUNC_5
+LoadVia_SystemExtendServiceTableInformation,FUNC_6
+lpDriverPath,VAR_5
+Status,VAR_6
+Buffer,VAR_7
+bufSize,VAR_8
+err,VAR_9

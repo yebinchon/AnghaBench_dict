@@ -1,0 +1,17 @@
+MS_SENSORS_NO_READ_CMD,VAR_0
+be32_to_cpu,FUNC_0
+dev_dbg,FUNC_1
+dev_err,FUNC_2
+i2c_master_recv,FUNC_3
+i2c_smbus_read_i2c_block_data,FUNC_4
+i2c_smbus_write_byte,FUNC_5
+usleep_range,FUNC_6
+ms_sensors_convert_and_read,FUNC_7
+cli,VAR_1
+conv,VAR_2
+rd,VAR_3
+delay,VAR_4
+adc,VAR_5
+ret,VAR_6
+buf,VAR_7
+client,VAR_8

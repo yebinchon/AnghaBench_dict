@@ -1,0 +1,13 @@
+I2C_CTRL_EN,VAR_0
+KEMPLD_I2C_CTRL,VAR_1
+i2c_del_adapter,FUNC_0
+kempld_get_mutex,FUNC_1
+kempld_read8,FUNC_2
+kempld_release_mutex,FUNC_3
+kempld_write8,FUNC_4
+platform_get_drvdata,FUNC_5
+kempld_i2c_remove,FUNC_6
+pdev,VAR_2
+i2c,VAR_3
+pld,VAR_4
+ctrl,VAR_5

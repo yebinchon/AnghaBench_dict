@@ -1,0 +1,9 @@
+BIT,FUNC_0
+HCLGE_MISC_RESET_STS_REG,VAR_0
+HCLGE_VECTOR0_GLOBALRESET_INT_B,VAR_1
+HCLGE_VECTOR0_IMPRESET_INT_B,VAR_2
+hclge_enable_vector,FUNC_1
+hclge_write_dev,FUNC_2
+hclge_clear_reset_cause,FUNC_3
+hdev,VAR_3
+clearval,VAR_4

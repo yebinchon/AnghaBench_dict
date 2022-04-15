@@ -1,0 +1,11 @@
+_PCIB_op_pending,VAR_0
+_PDEVF_op_active,VAR_1
+_XEN_PCIB_active,VAR_2
+_XEN_PCIF_active,VAR_3
+schedule_work,FUNC_0
+test_and_set_bit,FUNC_1
+test_bit,FUNC_2
+wake_up,FUNC_3
+xen_pcibk_aer_wait_queue,VAR_4
+xen_pcibk_test_and_schedule_op,FUNC_4
+pdev,VAR_5

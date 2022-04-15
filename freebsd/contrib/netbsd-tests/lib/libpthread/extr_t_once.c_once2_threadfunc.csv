@@ -1,0 +1,10 @@
+ATF_REQUIRE_EQ,FUNC_0
+PTHREAD_REQUIRE,FUNC_1
+once,VAR_0
+once2_ofunc,VAR_1
+printf,FUNC_2
+pthread_once,FUNC_3
+x,VAR_2
+once2_threadfunc,FUNC_4
+arg,VAR_3
+num,VAR_4

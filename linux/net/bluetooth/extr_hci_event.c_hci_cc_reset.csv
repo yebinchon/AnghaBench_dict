@@ -1,0 +1,14 @@
+BT_DBG,FUNC_0
+DISCOVERY_STOPPED,VAR_0
+HCI_RESET,VAR_1
+HCI_TX_POWER_INVALID,VAR_2
+LE_SCAN_PASSIVE,VAR_3
+clear_bit,FUNC_1
+hci_bdaddr_list_clear,FUNC_2
+hci_dev_clear_volatile_flags,FUNC_3
+hci_discovery_set_state,FUNC_4
+memset,FUNC_5
+hci_cc_reset,FUNC_6
+hdev,VAR_4
+skb,VAR_5
+status,VAR_6

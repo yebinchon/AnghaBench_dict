@@ -1,0 +1,12 @@
+MXR_BIT_POWERED,VAR_0
+MXR_BIT_VSYNC,VAR_1
+MXR_INT_CLEAR_VSYNC,VAR_2
+MXR_INT_EN,VAR_3
+MXR_INT_EN_VSYNC,VAR_4
+MXR_INT_STATUS,VAR_5
+__clear_bit,FUNC_0
+mixer_reg_writemask,FUNC_1
+test_bit,FUNC_2
+mixer_disable_vblank,FUNC_3
+crtc,VAR_6
+mixer_ctx,VAR_7

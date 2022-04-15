@@ -1,0 +1,11 @@
+DF_SIDE1_BRANCH,VAR_0
+DF_SIDE2_BRANCH,VAR_1
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_index_free,FUNC_2
+merge_test_index,FUNC_3
+merge_trees_from_branches,FUNC_4
+repo,VAR_2
+test_merge_trees_modeconflict__df_conflict,FUNC_5
+index,VAR_3
+merge_index_entries,VAR_4

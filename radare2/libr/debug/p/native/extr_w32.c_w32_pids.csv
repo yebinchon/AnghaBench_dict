@@ -1,0 +1,16 @@
+CloseHandle,FUNC_0
+CreateToolhelp32Snapshot,FUNC_1
+INVALID_HANDLE_VALUE,VAR_0
+Process32First,FUNC_2
+Process32Next,FUNC_3
+TH32CS_SNAPPROCESS,VAR_1
+build_debug_pid,FUNC_4
+r_list_append,FUNC_5
+r_sys_perror,FUNC_6
+w32_pids,FUNC_7
+pid,VAR_2
+list,VAR_3
+process_snapshot,VAR_4
+pe,VAR_5
+show_all_pids,VAR_6
+debug_pid,VAR_7

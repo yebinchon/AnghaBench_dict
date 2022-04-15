@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+EXT4_I,FUNC_1
+EXT4_JOURNAL,FUNC_2
+blocks_for_truncate,FUNC_3
+down_write,FUNC_4
+ext4_discard_preallocations,FUNC_5
+ext4_journal_restart,FUNC_6
+jbd_debug,FUNC_7
+up_write,FUNC_8
+ext4_truncate_restart_trans,FUNC_9
+handle,VAR_0
+inode,VAR_1
+nblocks,VAR_2
+ret,VAR_3

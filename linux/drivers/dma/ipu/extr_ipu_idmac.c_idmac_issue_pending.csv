@@ -1,0 +1,12 @@
+ipu_select_buffer,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_idmac,FUNC_3
+to_idmac_chan,FUNC_4
+to_ipu,FUNC_5
+idmac_issue_pending,FUNC_6
+chan,VAR_0
+ichan,VAR_1
+idmac,VAR_2
+ipu,VAR_3
+flags,VAR_4

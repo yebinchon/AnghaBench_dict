@@ -1,0 +1,14 @@
+BNX2FC_FLAG_UPLD_REQ_COMPL,VAR_0
+BNX2FC_FW_TIMEOUT,VAR_1
+bnx2fc_upld_timer,VAR_2
+current,VAR_3
+del_timer_sync,FUNC_0
+flush_signals,FUNC_1
+jiffies,VAR_4
+mod_timer,FUNC_2
+setup_timer,FUNC_3
+signal_pending,FUNC_4
+test_bit,FUNC_5
+wait_event_interruptible,FUNC_6
+bnx2fc_upld_wait,FUNC_7
+tgt,VAR_5

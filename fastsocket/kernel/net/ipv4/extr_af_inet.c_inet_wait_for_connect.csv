@@ -1,0 +1,15 @@
+DEFINE_WAIT,FUNC_0
+TASK_INTERRUPTIBLE,VAR_0
+TCPF_SYN_RECV,VAR_1
+TCPF_SYN_SENT,VAR_2
+current,VAR_3
+finish_wait,FUNC_1
+lock_sock,FUNC_2
+prepare_to_wait,FUNC_3
+release_sock,FUNC_4
+schedule_timeout,FUNC_5
+signal_pending,FUNC_6
+wait,VAR_4
+inet_wait_for_connect,FUNC_7
+sk,VAR_5
+timeo,VAR_6

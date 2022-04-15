@@ -1,0 +1,17 @@
+CHECK_VA_STATUS,FUNC_0
+assert,FUNC_1
+mp_image_copy,FUNC_2
+mp_image_set_size,FUNC_3
+vaPutImage,FUNC_4
+va_image_map,FUNC_5
+va_image_unmap,FUNC_6
+va_surface_alloc_imgfmt,FUNC_7
+va_surface_image_destroy,FUNC_8
+va_surface_in_mp_image,FUNC_9
+va_surface_upload,FUNC_10
+priv,VAR_0
+va_dst,VAR_1
+sw_src,VAR_2
+p,VAR_3
+img,VAR_4
+status,VAR_5

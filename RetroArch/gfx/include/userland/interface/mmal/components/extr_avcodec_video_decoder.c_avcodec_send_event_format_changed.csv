@@ -1,0 +1,14 @@
+LOG_ERROR,FUNC_0
+MMAL_EVENT_FORMAT_CHANGED,VAR_0
+MMAL_SUCCESS,VAR_1
+mmal_event_format_changed_get,FUNC_1
+mmal_format_copy,FUNC_2
+mmal_port_event_get,FUNC_3
+mmal_port_event_send,FUNC_4
+pixfmt_to_encoding,FUNC_5
+avcodec_send_event_format_changed,FUNC_6
+component,VAR_2
+port,VAR_3
+module,VAR_4
+buffer,VAR_5
+event,VAR_6

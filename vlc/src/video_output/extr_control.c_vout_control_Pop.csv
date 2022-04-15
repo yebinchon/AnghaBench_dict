@@ -1,0 +1,17 @@
+ARRAY_REMOVE,FUNC_0
+ARRAY_VAL,FUNC_1
+VLC_EGENERIC,VAR_0
+VLC_SUCCESS,VAR_1
+VLC_TICK_INVALID,VAR_2
+mutex_cleanup_push,FUNC_2
+vlc_cleanup_pop,FUNC_3
+vlc_cond_signal,FUNC_4
+vlc_cond_timedwait,FUNC_5
+vlc_cond_wait,FUNC_6
+vlc_mutex_lock,FUNC_7
+vlc_mutex_unlock,FUNC_8
+vout_control_Pop,FUNC_9
+ctrl,VAR_3
+cmd,VAR_4
+deadline,VAR_5
+has_cmd,VAR_6

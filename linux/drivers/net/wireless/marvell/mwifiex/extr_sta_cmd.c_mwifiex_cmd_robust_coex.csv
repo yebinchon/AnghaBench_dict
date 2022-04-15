@@ -1,0 +1,15 @@
+HostCmd_ACT_GEN_GET,VAR_0
+HostCmd_CMD_ROBUST_COEX,VAR_1
+MWIFIEX_COEX_MODE_SPATIAL,VAR_2
+MWIFIEX_COEX_MODE_TIMESHARE,VAR_3
+S_DS_GEN,VAR_4
+TLV_TYPE_ROBUST_COEX,VAR_5
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+mwifiex_cmd_robust_coex,FUNC_2
+priv,VAR_6
+cmd,VAR_7
+cmd_action,VAR_8
+is_timeshare,VAR_9
+coex,VAR_10
+coex_tlv,VAR_11

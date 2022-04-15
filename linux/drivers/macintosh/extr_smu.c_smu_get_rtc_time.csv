@@ -1,0 +1,13 @@
+ENODEV,VAR_0
+SMU_CMD_RTC_COMMAND,VAR_1
+SMU_CMD_RTC_GET_DATETIME,VAR_2
+bcd2hex,FUNC_0
+memset,FUNC_1
+smu,VAR_3
+smu_queue_simple,FUNC_2
+smu_spinwait_simple,FUNC_3
+smu_get_rtc_time,FUNC_4
+time,VAR_4
+spinwait,VAR_5
+cmd,VAR_6
+rc,VAR_7

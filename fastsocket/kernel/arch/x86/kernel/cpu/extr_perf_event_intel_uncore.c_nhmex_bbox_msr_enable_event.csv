@@ -1,0 +1,10 @@
+EXTRA_REG_NONE,VAR_0
+NHMEX_B_PMON_CTL_EV_SEL_MASK,VAR_1
+NHMEX_PMON_CTL_EN_BIT0,VAR_2
+wrmsrl,FUNC_0
+nhmex_bbox_msr_enable_event,FUNC_1
+box,VAR_3
+event,VAR_4
+hwc,VAR_5
+reg1,VAR_6
+reg2,VAR_7

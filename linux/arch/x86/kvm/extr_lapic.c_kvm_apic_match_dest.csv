@@ -1,0 +1,13 @@
+APIC_DEST_PHYSICAL,VAR_0
+ASSERT,FUNC_0
+kvm_apic_match_logical_addr,FUNC_1
+kvm_apic_match_physical_addr,FUNC_2
+kvm_apic_mda,FUNC_3
+kvm_apic_match_dest,FUNC_4
+vcpu,VAR_1
+source,VAR_2
+short_hand,VAR_3
+dest,VAR_4
+dest_mode,VAR_5
+target,VAR_6
+mda,VAR_7

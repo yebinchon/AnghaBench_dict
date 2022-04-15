@@ -1,0 +1,15 @@
+AAC_CMD_RESET,VAR_0
+CAM_BUSY,VAR_1
+CAM_REQ_CMP,VAR_2
+CAM_REQ_CMP_ERR,VAR_3
+CAM_SCSI_BUS_RESET,VAR_4
+HBA_FLAGS_DBG_FUNCTION_ENTRY_B,VAR_5
+ST_NOT_READY,VAR_6
+ST_OK,VAR_7
+aacraid_release_command,FUNC_0
+fwprintf,FUNC_1
+xpt_done,FUNC_2
+aac_container_complete,FUNC_3
+cm,VAR_8
+ccb,VAR_9
+status,VAR_10

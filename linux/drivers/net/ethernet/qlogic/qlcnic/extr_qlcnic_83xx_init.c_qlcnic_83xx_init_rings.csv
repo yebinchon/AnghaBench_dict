@@ -1,0 +1,11 @@
+QLCNIC_DEF_SDS_RINGS,VAR_0
+QLCNIC_DEF_TX_RINGS,VAR_1
+QLCNIC_MAX_SDS_RINGS,VAR_2
+QLCNIC_MAX_TX_RINGS,VAR_3
+QLCNIC_SINGLE_RING,VAR_4
+qlcnic_set_sds_ring_count,FUNC_0
+qlcnic_set_tx_ring_count,FUNC_1
+qlcnic_83xx_init_rings,FUNC_2
+adapter,VAR_5
+rx_cnt,VAR_6
+tx_cnt,VAR_7

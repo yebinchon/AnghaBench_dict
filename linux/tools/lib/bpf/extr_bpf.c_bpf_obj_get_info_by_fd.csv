@@ -1,0 +1,10 @@
+BPF_OBJ_GET_INFO_BY_FD,VAR_0
+memset,FUNC_0
+ptr_to_u64,FUNC_1
+sys_bpf,FUNC_2
+bpf_obj_get_info_by_fd,FUNC_3
+prog_fd,VAR_1
+info,VAR_2
+info_len,VAR_3
+attr,VAR_4
+err,VAR_5

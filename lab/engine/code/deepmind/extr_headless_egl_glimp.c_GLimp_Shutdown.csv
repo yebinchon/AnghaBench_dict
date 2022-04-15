@@ -1,0 +1,12 @@
+EGL_NO_CONTEXT,VAR_0
+EGL_NO_SURFACE,VAR_1
+RETURN_IF_EGL_ERROR,FUNC_0
+ShutDownEGLSubsystem,FUNC_1
+TerminateInitializedEGLDisplay,FUNC_2
+eglDestroyContext,FUNC_3
+eglDestroySurface,FUNC_4
+eglMakeCurrent,FUNC_5
+egl_context,VAR_2
+egl_display,VAR_3
+egl_surface,VAR_4
+GLimp_Shutdown,FUNC_6

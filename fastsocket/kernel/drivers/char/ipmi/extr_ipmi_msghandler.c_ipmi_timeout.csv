@@ -1,0 +1,13 @@
+IPMI_REQUEST_EV_TIME,VAR_0
+IPMI_TIMEOUT_JIFFIES,VAR_1
+IPMI_TIMEOUT_TIME,VAR_2
+atomic_read,FUNC_0
+ipmi_request_event,FUNC_1
+ipmi_timeout_handler,FUNC_2
+ipmi_timer,VAR_3
+jiffies,VAR_4
+mod_timer,FUNC_3
+stop_operation,VAR_5
+ticks_to_req_ev,VAR_6
+ipmi_timeout,FUNC_4
+data,VAR_7

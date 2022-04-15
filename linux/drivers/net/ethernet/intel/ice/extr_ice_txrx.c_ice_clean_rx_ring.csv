@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+ICE_RXBUF_2048,VAR_1
+ICE_RX_DMA_ATTR,VAR_2
+PAGE_SIZE,VAR_3
+__page_frag_cache_drain,FUNC_0
+dev_kfree_skb,FUNC_1
+dma_sync_single_range_for_cpu,FUNC_2
+dma_unmap_page_attrs,FUNC_3
+memset,FUNC_4
+ice_clean_rx_ring,FUNC_5
+rx_ring,VAR_4
+dev,VAR_5
+i,VAR_6
+rx_buf,VAR_7

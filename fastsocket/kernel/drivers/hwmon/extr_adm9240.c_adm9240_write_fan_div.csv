@@ -1,0 +1,11 @@
+ADM9240_REG_VID_FAN_DIV,VAR_0
+dev_dbg,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+adm9240_write_fan_div,FUNC_3
+client,VAR_1
+nr,VAR_2
+fan_div,VAR_3
+reg,VAR_4
+old,VAR_5
+shift,VAR_6

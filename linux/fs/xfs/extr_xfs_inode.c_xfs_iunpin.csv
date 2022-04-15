@@ -1,0 +1,9 @@
+ASSERT,FUNC_0
+XFS_ILOCK_EXCL,VAR_0
+XFS_ILOCK_SHARED,VAR_1
+_RET_IP_,VAR_2
+trace_xfs_inode_unpin_nowait,FUNC_1
+xfs_isilocked,FUNC_2
+xfs_log_force_lsn,FUNC_3
+xfs_iunpin,FUNC_4
+ip,VAR_3

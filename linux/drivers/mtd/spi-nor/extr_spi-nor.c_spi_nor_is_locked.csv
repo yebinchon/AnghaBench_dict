@@ -1,0 +1,12 @@
+SPI_NOR_OPS_LOCK,VAR_0
+SPI_NOR_OPS_UNLOCK,VAR_1
+mtd_to_spi_nor,FUNC_0
+spi_nor_lock_and_prep,FUNC_1
+spi_nor_unlock_and_unprep,FUNC_2
+stub1,FUNC_3
+spi_nor_is_locked,FUNC_4
+mtd,VAR_2
+ofs,VAR_3
+len,VAR_4
+nor,VAR_5
+ret,VAR_6

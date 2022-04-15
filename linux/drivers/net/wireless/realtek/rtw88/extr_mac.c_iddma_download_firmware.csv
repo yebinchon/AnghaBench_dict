@@ -1,0 +1,15 @@
+BIT_DDMACH0_CHKSUM_CONT,VAR_0
+BIT_DDMACH0_CHKSUM_EN,VAR_1
+BIT_DDMACH0_OWN,VAR_2
+BIT_MASK_DDMACH0_DLEN,VAR_3
+EBUSY,VAR_4
+REG_DDMA_CH0CTRL,VAR_5
+check_hw_ready,FUNC_0
+iddma_enable,FUNC_1
+iddma_download_firmware,FUNC_2
+rtwdev,VAR_6
+src,VAR_7
+dst,VAR_8
+len,VAR_9
+first,VAR_10
+ch0_ctrl,VAR_11

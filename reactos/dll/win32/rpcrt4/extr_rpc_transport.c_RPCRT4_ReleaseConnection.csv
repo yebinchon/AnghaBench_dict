@@ -1,0 +1,17 @@
+EnterCriticalSection,FUNC_0
+GetProcessHeap,FUNC_1
+HeapFree,FUNC_2
+InterlockedDecrement,FUNC_3
+LeaveCriticalSection,FUNC_4
+RPCRT4_CloseConnection,FUNC_5
+RPCRT4_ReleaseBinding,FUNC_6
+RPCRT4_strfree,FUNC_7
+RpcAssoc_ConnectionReleased,FUNC_8
+RpcAuthInfo_Release,FUNC_9
+RpcQualityOfService_Release,FUNC_10
+SetEvent,FUNC_11
+TRACE,FUNC_12
+list_remove,FUNC_13
+RPCRT4_ReleaseConnection,FUNC_14
+connection,VAR_0
+ref,VAR_1

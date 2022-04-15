@@ -1,0 +1,10 @@
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_0
+device_get_softc,FUNC_1
+ig4iic_detach,FUNC_2
+pci_release_msi,FUNC_3
+ig4iic_pci_detach,FUNC_4
+dev,VAR_2
+sc,VAR_3
+error,VAR_4

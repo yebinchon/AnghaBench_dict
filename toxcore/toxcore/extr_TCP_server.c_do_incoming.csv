@@ -1,0 +1,14 @@
+MAX_INCOMMING_CONNECTIONS,VAR_0
+TCP_STATUS_CONNECTED,VAR_1
+TCP_STATUS_NO_STATUS,VAR_2
+kill_TCP_connection,FUNC_0
+memcpy,FUNC_1
+read_connection_handshake,FUNC_2
+sodium_memzero,FUNC_3
+do_incoming,FUNC_4
+TCP_server,VAR_3
+i,VAR_4
+ret,VAR_5
+index_new,VAR_6
+conn_old,VAR_7
+conn_new,VAR_8

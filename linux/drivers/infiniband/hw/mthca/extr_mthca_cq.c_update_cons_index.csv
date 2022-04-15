@@ -1,0 +1,11 @@
+MTHCA_CQ_DOORBELL,VAR_0
+MTHCA_GET_DOORBELL_LOCK,FUNC_0
+MTHCA_TAVOR_CQ_DB_INC_CI,VAR_1
+cpu_to_be32,FUNC_1
+mthca_is_memfree,FUNC_2
+mthca_write64,FUNC_3
+wmb,FUNC_4
+update_cons_index,FUNC_5
+dev,VAR_2
+cq,VAR_3
+incr,VAR_4

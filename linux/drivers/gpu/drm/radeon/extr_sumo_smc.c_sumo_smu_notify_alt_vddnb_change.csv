@@ -1,0 +1,10 @@
+RCU_ALTVDDNB_NOTIFY,VAR_0
+SUMO_SMU_SERVICE_ROUTINE_ALTVDDNB_NOTIFY,VAR_1
+WREG32_RCU,FUNC_0
+sumo_is_alt_vddnb_supported,FUNC_1
+sumo_send_msg_to_smu,FUNC_2
+sumo_smu_notify_alt_vddnb_change,FUNC_3
+rdev,VAR_2
+powersaving,VAR_3
+force_nbps1,VAR_4
+param,VAR_5

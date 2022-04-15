@@ -1,0 +1,10 @@
+DBG,FUNC_0
+DSI_PHY_RESET_RESET,VAR_0
+REG_DSI_PHY_RESET,VAR_1
+dsi_write,FUNC_1
+to_msm_dsi_host,FUNC_2
+udelay,FUNC_3
+wmb,FUNC_4
+msm_dsi_host_reset_phy,FUNC_5
+host,VAR_2
+msm_host,VAR_3

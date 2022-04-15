@@ -1,0 +1,11 @@
+dw_i2c_plat_pm_cleanup,FUNC_0
+i2c_del_adapter,FUNC_1
+platform_get_drvdata,FUNC_2
+pm_runtime_dont_use_autosuspend,FUNC_3
+pm_runtime_get_sync,FUNC_4
+pm_runtime_put_sync,FUNC_5
+reset_control_assert,FUNC_6
+stub1,FUNC_7
+dw_i2c_plat_remove,FUNC_8
+pdev,VAR_0
+dev,VAR_1

@@ -1,0 +1,10 @@
+add_GeneralNames,FUNC_0
+choice_GeneralName_rfc822Name,VAR_0
+memset,FUNC_1
+rk_UNCONST,FUNC_2
+strlen,FUNC_3
+hx509_ca_tbs_add_san_rfc822name,FUNC_4
+context,VAR_1
+tbs,VAR_2
+rfc822Name,VAR_3
+gn,VAR_4

@@ -1,0 +1,13 @@
+ARCHE_PLATFORM_STATE_FW_FLASHING,VAR_0
+ARCHE_PLATFORM_STATE_OFF,VAR_1
+IS_ERR,FUNC_0
+assert_reset,FUNC_1
+devm_gpiod_put,FUNC_2
+gpiod_set_value,FUNC_3
+platform_get_drvdata,FUNC_4
+regulator_disable,FUNC_5
+regulator_is_enabled,FUNC_6
+poweroff_seq,FUNC_7
+pdev,VAR_2
+dev,VAR_3
+apb,VAR_4

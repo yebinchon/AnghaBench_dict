@@ -1,0 +1,14 @@
+CRYPTO_TFM_REQ_MAY_SLEEP,VAR_0
+EINPROGRESS,VAR_1
+XTS_BLOCK_SIZE,VAR_2
+crypto_skcipher_decrypt,VAR_3
+cts_final,FUNC_0
+skcipher_request_complete,FUNC_1
+skcipher_request_ctx,FUNC_2
+unlikely,FUNC_3
+xor_tweak_post,FUNC_4
+decrypt_done,FUNC_5
+areq,VAR_4
+err,VAR_5
+req,VAR_6
+rctx,VAR_7

@@ -1,0 +1,13 @@
+ACD_USB_BRIGHTNESS,VAR_0
+ACD_USB_TIMEOUT,VAR_1
+USB_DIR_IN,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_REQ_GET_REPORT,VAR_4
+USB_TYPE_CLASS,VAR_5
+bl_get_data,FUNC_0
+usb_control_msg,FUNC_1
+usb_rcvctrlpipe,FUNC_2
+appledisplay_bl_get_brightness,FUNC_3
+bd,VAR_6
+pdata,VAR_7
+retval,VAR_8

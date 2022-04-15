@@ -1,0 +1,17 @@
+CGROUP_FREEZING,VAR_0
+ENODEV,VAR_1
+cgroup_freezer,FUNC_0
+cgroup_lock_live_group,FUNC_1
+cgroup_unlock,FUNC_2
+freezer_state_strs,VAR_2
+seq_putc,FUNC_3
+seq_puts,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+update_if_frozen,FUNC_7
+freezer_read,FUNC_8
+cgroup,VAR_3
+cft,VAR_4
+m,VAR_5
+freezer,VAR_6
+state,VAR_7

@@ -1,0 +1,16 @@
+BIO_FP_TEXT,VAR_0
+BIO_NOCLOSE,VAR_1
+BIO_ctrl,FUNC_0
+BIO_f_linebuffer,FUNC_1
+BIO_new,FUNC_2
+BIO_new_fp,FUNC_3
+BIO_push,FUNC_4
+FMT_istext,FUNC_5
+PREFIX_CTRL_SET_PREFIX,VAR_2
+apps_bf_prefix,FUNC_6
+getenv,FUNC_7
+stdout,VAR_3
+dup_bio_out,FUNC_8
+format,VAR_4
+b,VAR_5
+prefix,VAR_6

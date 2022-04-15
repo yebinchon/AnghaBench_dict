@@ -1,0 +1,8 @@
+DA850_LCD_BL_PIN,VAR_0
+DA850_LCD_PWR_PIN,VAR_1
+gpio_direction_output,FUNC_0
+gpio_free,FUNC_1
+gpio_request,FUNC_2
+gpio_set_value,FUNC_3
+da850_lcd_hw_init,FUNC_4
+status,VAR_2

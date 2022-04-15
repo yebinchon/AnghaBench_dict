@@ -1,0 +1,11 @@
+ATOM_FIRMWARE_CAP_GPU_VIRTUALIZATION,VAR_0
+amdgpu_atom_parse_data_header,FUNC_0
+atom_master_list_of_data_tables_v2_1,VAR_1
+firmwareinfo,VAR_2
+get_index_into_master_table,FUNC_1
+le32_to_cpu,FUNC_2
+amdgpu_atomfirmware_gpu_supports_virtualization,FUNC_3
+adev,VAR_3
+index,VAR_4
+data_offset,VAR_5
+firmware_info,VAR_6

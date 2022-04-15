@@ -1,0 +1,12 @@
+BUG_ON,FUNC_0
+OCFS2_AST_CONVERT,VAR_0
+OCFS2_AST_DOWNCONVERT,VAR_1
+OCFS2_LOCK_BUSY,VAR_2
+OCFS2_UNLOCK_CANCEL_CONVERT,VAR_3
+assert_spin_locked,FUNC_1
+mlog,FUNC_2
+mlog_bug_on_msg,FUNC_3
+mlog_entry_void,FUNC_4
+ocfs2_prepare_cancel_convert,FUNC_5
+osb,VAR_4
+lockres,VAR_5

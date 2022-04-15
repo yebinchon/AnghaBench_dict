@@ -1,0 +1,14 @@
+M_MLX5EN,VAR_0
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_unload,FUNC_2
+free,FUNC_3
+m_freem,FUNC_4
+mlx5_wq_destroy,FUNC_5
+mlx5_wq_ll_get_size,FUNC_6
+sysctl_ctx_free,FUNC_7
+tcp_lro_free,FUNC_8
+mlx5e_destroy_rq,FUNC_9
+rq,VAR_1
+wq_sz,VAR_2
+i,VAR_3

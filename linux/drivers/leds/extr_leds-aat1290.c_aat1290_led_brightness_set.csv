@@ -1,0 +1,17 @@
+AAT1290_MAX_MM_CURR_PERCENT_0,VAR_0
+AAT1290_MM_CURRENT_RATIO_ADDR,VAR_1
+AAT1290_MM_TO_FL_1_92,VAR_2
+AAT1290_MOVIE_MODE_CONFIG_ADDR,VAR_3
+AAT1290_MOVIE_MODE_CURRENT_ADDR,VAR_4
+AAT1290_MOVIE_MODE_ON,VAR_5
+aat1290_as2cwire_write,FUNC_0
+fled_cdev_to_led,FUNC_1
+gpiod_direction_output,FUNC_2
+led_cdev_to_fled_cdev,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+aat1290_led_brightness_set,FUNC_6
+led_cdev,VAR_6
+brightness,VAR_7
+fled_cdev,VAR_8
+led,VAR_9

@@ -1,0 +1,17 @@
+Assert,FUNC_0
+ERROR,VAR_0
+REGBUF_FORCE_IMAGE,VAR_1
+RelFileNodeEquals,FUNC_1
+begininsert_called,VAR_2
+elog,FUNC_2
+max_registered_block_id,VAR_3
+max_registered_buffers,VAR_4
+registered_buffers,VAR_5
+XLogRegisterBlock,FUNC_3
+block_id,VAR_6
+rnode,VAR_7
+forknum,VAR_8
+blknum,VAR_9
+page,VAR_10
+flags,VAR_11
+regbuf,VAR_12

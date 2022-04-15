@@ -1,0 +1,16 @@
+AHC_NUM_LUNS,VAR_0
+AHC_NUM_TARGETS,VAR_1
+M_DEVBUF,VAR_2
+ahc_fini_scbdata,FUNC_0
+ahc_platform_free,FUNC_1
+ahc_shutdown,FUNC_2
+ahc_terminate_recovery_thread,FUNC_3
+aic_dma_tag_destroy,FUNC_4
+aic_dmamap_unload,FUNC_5
+aic_dmamem_free,FUNC_6
+free,FUNC_7
+xpt_free_path,FUNC_8
+ahc_free,FUNC_9
+ahc,VAR_3
+i,VAR_4
+tstate,VAR_5

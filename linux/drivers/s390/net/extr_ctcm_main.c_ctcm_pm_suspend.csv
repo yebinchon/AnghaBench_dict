@@ -1,0 +1,15 @@
+CCWGROUP_OFFLINE,VAR_0
+CTCM_READ,VAR_1
+CTCM_TIME_5_SEC,VAR_2
+DEV_STATE_STOPPED,VAR_3
+EBUSY,VAR_4
+ccw_device_set_offline,FUNC_0
+ctcm_close,FUNC_1
+dev_get_drvdata,FUNC_2
+fsm_getstate,FUNC_3
+netif_device_attach,FUNC_4
+netif_device_detach,FUNC_5
+wait_event_timeout,FUNC_6
+ctcm_pm_suspend,FUNC_7
+gdev,VAR_5
+priv,VAR_6

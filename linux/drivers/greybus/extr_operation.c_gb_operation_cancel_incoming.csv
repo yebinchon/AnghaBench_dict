@@ -1,0 +1,15 @@
+WARN_ON,FUNC_0
+atomic_dec,FUNC_1
+atomic_inc,FUNC_2
+flush_work,FUNC_3
+gb_message_cancel,FUNC_4
+gb_operation_cancellation_queue,VAR_0
+gb_operation_is_active,FUNC_5
+gb_operation_is_incoming,FUNC_6
+gb_operation_is_unidirectional,FUNC_7
+gb_operation_result_set,FUNC_8
+trace_gb_message_cancel_incoming,FUNC_9
+wait_event,FUNC_10
+gb_operation_cancel_incoming,FUNC_11
+operation,VAR_1
+errno,VAR_2

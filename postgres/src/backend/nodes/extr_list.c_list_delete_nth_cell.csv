@@ -1,0 +1,14 @@
+Assert,FUNC_0
+GetMemoryChunkContext,FUNC_1
+MemoryContextAlloc,FUNC_2
+NIL,VAR_0
+VALGRIND_MAKE_MEM_NOACCESS,FUNC_3
+check_list_invariants,FUNC_4
+list_free,FUNC_5
+memcpy,FUNC_6
+memmove,FUNC_7
+pfree,FUNC_8
+wipe_mem,FUNC_9
+list_delete_nth_cell,FUNC_10
+list,VAR_1
+n,VAR_2

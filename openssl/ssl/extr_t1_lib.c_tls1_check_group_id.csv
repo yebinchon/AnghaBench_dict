@@ -1,0 +1,17 @@
+SSL_SECOP_CURVE_CHECK,VAR_0
+TLS1_CK_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,VAR_1
+TLS1_CK_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,VAR_2
+TLSEXT_curve_P_256,VAR_3
+TLSEXT_curve_P_384,VAR_4
+tls1_get_peer_groups,FUNC_0
+tls1_get_supported_groups,FUNC_1
+tls1_in_list,FUNC_2
+tls1_suiteb,FUNC_3
+tls_group_allowed,FUNC_4
+tls1_check_group_id,FUNC_5
+s,VAR_5
+group_id,VAR_6
+check_own_groups,VAR_7
+groups,VAR_8
+groups_len,VAR_9
+cid,VAR_10

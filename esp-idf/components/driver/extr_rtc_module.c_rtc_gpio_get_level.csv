@@ -1,0 +1,14 @@
+ESP_ERR_INVALID_ARG,VAR_0
+READ_PERI_REG,FUNC_0
+RTCIO,VAR_1
+RTC_GPIO_IN_NEXT_S,VAR_2
+RTC_GPIO_IN_REG,VAR_3
+RTC_MODULE_CHECK,FUNC_1
+portENTER_CRITICAL,FUNC_2
+portEXIT_CRITICAL,FUNC_3
+rtc_gpio_desc,VAR_4
+rtc_gpio_is_valid_gpio,FUNC_4
+rtc_spinlock,VAR_5
+rtc_gpio_get_level,FUNC_5
+gpio_num,VAR_6
+level,VAR_7

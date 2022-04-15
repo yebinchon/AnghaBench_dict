@@ -1,0 +1,15 @@
+PHY_RUNNING,VAR_0
+lan743x_phy_update_flowcontrol,FUNC_0
+lan743x_ptp_update_latency,FUNC_1
+linkmode_adv_to_mii_adv_t,FUNC_2
+memset,FUNC_3
+netdev_priv,FUNC_4
+phy_ethtool_get_link_ksettings,FUNC_5
+phy_print_status,FUNC_6
+lan743x_phy_link_status_change,FUNC_7
+netdev,VAR_1
+adapter,VAR_2
+phydev,VAR_3
+ksettings,VAR_4
+remote_advertisement,VAR_5
+local_advertisement,VAR_6

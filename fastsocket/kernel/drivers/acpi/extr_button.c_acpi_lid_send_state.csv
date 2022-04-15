@@ -1,0 +1,17 @@
+ACPI_FAILURE,FUNC_0
+ENODEV,VAR_0
+NOTIFY_DONE,VAR_1
+NOTIFY_OK,VAR_2
+SW_LID,VAR_3
+acpi_driver_data,FUNC_1
+acpi_evaluate_integer,FUNC_2
+acpi_lid_notifier,VAR_4
+blocking_notifier_call_chain,FUNC_3
+input_report_switch,FUNC_4
+input_sync,FUNC_5
+acpi_lid_send_state,FUNC_6
+device,VAR_5
+button,VAR_6
+state,VAR_7
+status,VAR_8
+ret,VAR_9

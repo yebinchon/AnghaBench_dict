@@ -1,0 +1,16 @@
+OCRDMA_CQE_STATUS_MASK,VAR_0
+OCRDMA_CQE_STATUS_SHIFT,VAR_1
+OCRDMA_CQE_WR_FLUSH_ERR,VAR_2
+is_hw_rq_empty,FUNC_0
+is_hw_sq_empty,FUNC_1
+le32_to_cpu,FUNC_2
+ocrdma_update_err_rcqe,FUNC_3
+ocrdma_update_err_scqe,FUNC_4
+ocrdma_poll_err_scqe,FUNC_5
+qp,VAR_3
+cqe,VAR_4
+ibwc,VAR_5
+polled,VAR_6
+stop,VAR_7
+expand,VAR_8
+status,VAR_9

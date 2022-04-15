@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_NOFS,VAR_1
+iint_cache,VAR_2
+ima_enabled,VAR_3
+ima_iint_lock,VAR_4
+ima_iint_store,VAR_5
+kmem_cache_alloc,FUNC_0
+kmem_cache_free,FUNC_1
+radix_tree_insert,FUNC_2
+radix_tree_preload,FUNC_3
+radix_tree_preload_end,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+ima_inode_alloc,FUNC_7
+inode,VAR_6
+iint,VAR_7
+rc,VAR_8

@@ -1,0 +1,17 @@
+W83627EHF_REG_TARGET,VAR_0
+dev_get_drvdata,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+simple_strtoul,FUNC_3
+temp1_to_reg,FUNC_4
+to_sensor_dev_attr,FUNC_5
+w83627ehf_write_value,FUNC_6
+store_target_temp,FUNC_7
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+data,VAR_5
+sensor_attr,VAR_6
+nr,VAR_7
+val,VAR_8

@@ -1,0 +1,14 @@
+ETH_HLEN,VAR_0
+MAC_RX,VAR_1
+MAC_RX_MAX_SIZE_MASK_,VAR_2
+MAC_RX_MAX_SIZE_SHIFT_,VAR_3
+MAC_RX_RXD_,VAR_4
+MAC_RX_RXEN_,VAR_5
+lan743x_csr_read,FUNC_0
+lan743x_csr_wait_for_bit,FUNC_1
+lan743x_csr_write,FUNC_2
+lan743x_mac_set_mtu,FUNC_3
+adapter,VAR_6
+new_mtu,VAR_7
+enabled,VAR_8
+mac_rx,VAR_9

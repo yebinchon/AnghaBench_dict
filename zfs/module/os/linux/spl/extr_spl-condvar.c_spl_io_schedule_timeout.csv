@@ -1,0 +1,12 @@
+__cv_wakeup,VAR_0
+add_timer,FUNC_0
+current,VAR_1
+del_timer_sync,FUNC_1
+io_schedule,FUNC_2
+jiffies,VAR_2
+timer_setup,FUNC_3
+spl_io_schedule_timeout,FUNC_4
+time_left,VAR_3
+expire_time,VAR_4
+task_timer,VAR_5
+timer,VAR_6

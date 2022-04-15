@@ -1,0 +1,13 @@
+SIRFUART_TX_EN,VAR_0
+SIRF_USP_UART,VAR_1
+TX_DMA_PAUSE,VAR_2
+TX_DMA_RUNNING,VAR_3
+dmaengine_pause,FUNC_0
+rd_regl,FUNC_1
+to_sirfport,FUNC_2
+wr_regl,FUNC_3
+sirfsoc_uart_stop_tx,FUNC_4
+port,VAR_4
+sirfport,VAR_5
+ureg,VAR_6
+uint_en,VAR_7

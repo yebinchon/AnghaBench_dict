@@ -1,0 +1,14 @@
+BIOSPCI_16BITS,VAR_0
+BIOSPCI_32BITS,VAR_1
+FWOHCI_STATE_DEAD,VAR_2
+FWOHCI_STATE_INIT,VAR_3
+OHCI_BUS_ID,VAR_4
+OREAD,FUNC_0
+PTOV,FUNC_1
+biospci_find_devclass,FUNC_2
+biospci_read_config,FUNC_3
+biospci_write_config,FUNC_4
+fw_probe,FUNC_5
+index,VAR_5
+sc,VAR_6
+err,VAR_7

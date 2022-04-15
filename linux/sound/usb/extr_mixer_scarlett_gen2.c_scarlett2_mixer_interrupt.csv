@@ -1,0 +1,17 @@
+ECONNRESET,VAR_0
+ENOENT,VAR_1
+ESHUTDOWN,VAR_2
+GFP_ATOMIC,VAR_3
+SCARLETT2_USB_INTERRUPT_BUTTON_CHANGE,VAR_4
+SCARLETT2_USB_INTERRUPT_VOL_CHANGE,VAR_5
+le32_to_cpu,FUNC_0
+scarlett2_mixer_interrupt_button_change,FUNC_1
+scarlett2_mixer_interrupt_vol_change,FUNC_2
+usb_audio_err,FUNC_3
+usb_submit_urb,FUNC_4
+scarlett2_mixer_interrupt,FUNC_5
+urb,VAR_6
+mixer,VAR_7
+len,VAR_8
+ustatus,VAR_9
+data,VAR_10

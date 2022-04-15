@@ -1,0 +1,15 @@
+ChunkDelete,FUNC_0
+IDX_ANIM,VAR_0
+IDX_ANMF,VAR_1
+MuxDeleteAllNamedData,FUNC_1
+MuxImageGetNth,FUNC_2
+WEBP_MUX_OK,VAR_2
+WebPMuxNumChunks,FUNC_3
+assert,FUNC_4
+kChunks,VAR_3
+MuxCleanup,FUNC_5
+mux,VAR_4
+num_frames,VAR_5
+num_anim_chunks,VAR_6
+err,VAR_7
+frame,VAR_8

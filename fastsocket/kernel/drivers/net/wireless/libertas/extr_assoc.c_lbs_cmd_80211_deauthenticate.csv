@@ -1,0 +1,16 @@
+CMD_802_11_DEAUTHENTICATE,VAR_0
+ETH_ALEN,VAR_1
+LBS_DEB_JOIN,VAR_2
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+lbs_deb_enter,FUNC_2
+lbs_deb_leave,FUNC_3
+lbs_mac_event_disconnected,FUNC_4
+memcpy,FUNC_5
+memset,FUNC_6
+lbs_cmd_80211_deauthenticate,FUNC_7
+priv,VAR_3
+bssid,VAR_4
+reason,VAR_5
+cmd,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+AC_DIG1_ENABLE,VAR_0
+AC_VERB_GET_DIGI_CONVERT_1,VAR_1
+EBUSY,VAR_2
+ENOMEM,VAR_3
+codec_err,FUNC_0
+dig_in_ctls,VAR_4
+find_empty_mixer_ctl_idx,FUNC_1
+snd_ctl_new1,FUNC_2
+snd_hda_codec_read,FUNC_3
+snd_hda_ctl_add,FUNC_4
+snd_hda_create_spdif_in_ctls,FUNC_5
+codec,VAR_5
+nid,VAR_6
+err,VAR_7
+kctl,VAR_8
+dig_mix,VAR_9
+idx,VAR_10

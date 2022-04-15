@@ -1,0 +1,15 @@
+ATF_REQUIRE_ERRNO,FUNC_0
+EEXIST,VAR_0
+O_CREAT,VAR_1
+O_EXCL,VAR_2
+O_RDWR,VAR_3
+RL,FUNC_1
+rump_sys_chdir,FUNC_2
+rump_sys_close,FUNC_3
+rump_sys_open,FUNC_4
+rump_sys_unlink,FUNC_5
+create_exist,FUNC_6
+tc,VAR_4
+mp,VAR_5
+name,VAR_6
+fd,VAR_7

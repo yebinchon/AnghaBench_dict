@@ -1,0 +1,13 @@
+PAGE_SIZE,VAR_0
+VM_WIMG_IO,VAR_1
+assert,FUNC_0
+cmp_io_rgns,FUNC_1
+io_attr_table,VAR_2
+num_io_rgns,VAR_3
+pmap_find_io_attr,FUNC_2
+paddr,VAR_4
+find_range,VAR_5
+begin,VAR_6
+end,VAR_7
+middle,VAR_8
+cmp,VAR_9

@@ -1,0 +1,16 @@
+DSA_F_PKEY_DSA_CTRL_STR,VAR_0
+DSA_R_INVALID_DIGEST_TYPE,VAR_1
+DSAerr,FUNC_0
+EVP_PKEY_CTX_set_dsa_paramgen_bits,FUNC_1
+EVP_PKEY_CTX_set_dsa_paramgen_md,FUNC_2
+EVP_PKEY_CTX_set_dsa_paramgen_q_bits,FUNC_3
+EVP_get_digestbyname,FUNC_4
+atoi,FUNC_5
+strcmp,FUNC_6
+pkey_dsa_ctrl_str,FUNC_7
+ctx,VAR_2
+type,VAR_3
+value,VAR_4
+nbits,VAR_5
+qbits,VAR_6
+md,VAR_7

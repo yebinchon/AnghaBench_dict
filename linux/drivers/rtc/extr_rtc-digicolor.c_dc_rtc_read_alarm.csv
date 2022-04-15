@@ -1,0 +1,15 @@
+DC_RTC_ALARM,VAR_0
+DC_RTC_INTENABLE,VAR_1
+DC_RTC_REFERENCE,VAR_2
+dc_rtc_read,FUNC_0
+dev_get_drvdata,FUNC_1
+readl_relaxed,FUNC_2
+rtc_time64_to_tm,FUNC_3
+dc_rtc_read_alarm,FUNC_4
+dev,VAR_3
+alarm,VAR_4
+rtc,VAR_5
+alarm_reg,VAR_6
+reference,VAR_7
+now,VAR_8
+ret,VAR_9

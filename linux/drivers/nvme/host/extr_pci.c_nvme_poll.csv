@@ -1,0 +1,11 @@
+nvme_complete_cqes,FUNC_0
+nvme_cqe_pending,FUNC_1
+nvme_process_cq,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+nvme_poll,FUNC_5
+hctx,VAR_0
+nvmeq,VAR_1
+start,VAR_2
+end,VAR_3
+found,VAR_4

@@ -1,0 +1,16 @@
+I40E_DEBUG_NVM,VAR_0
+I40E_GLVFGEN_TIMER,VAR_1
+I40E_MAX_NVM_TIMEOUT,VAR_2
+I40E_MS_TO_GTIME,FUNC_0
+I40E_NVM_RESOURCE_ID,VAR_3
+i40e_aq_request_resource,FUNC_1
+i40e_debug,FUNC_2
+rd32,FUNC_3
+usleep_range,FUNC_4
+i40e_acquire_nvm,FUNC_5
+hw,VAR_4
+access,VAR_5
+ret_code,VAR_6
+gtime,VAR_7
+timeout,VAR_8
+time_left,VAR_9

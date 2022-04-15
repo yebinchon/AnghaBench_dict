@@ -1,0 +1,12 @@
+EIO,VAR_0
+TCS3414_CONTROL,VAR_1
+TCS3414_CONTROL_ADC_EN,VAR_2
+TCS3414_CONTROL_ADC_VALID,VAR_3
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+msleep,FUNC_3
+tcs3414_req_data,FUNC_4
+data,VAR_4
+tries,VAR_5
+ret,VAR_6

@@ -1,0 +1,15 @@
+ENETDOWN,VAR_0
+IFF_ALLMULTI,VAR_1
+IFF_PROMISC,VAR_2
+IFF_UP,VAR_3
+compare_ether_addr,FUNC_0
+dev_set_allmulti,FUNC_1
+dev_set_promiscuity,FUNC_2
+dev_unicast_add,FUNC_3
+dev_unicast_delete,FUNC_4
+netdev_priv,FUNC_5
+dsa_slave_open,FUNC_6
+dev,VAR_4
+p,VAR_5
+master,VAR_6
+err,VAR_7

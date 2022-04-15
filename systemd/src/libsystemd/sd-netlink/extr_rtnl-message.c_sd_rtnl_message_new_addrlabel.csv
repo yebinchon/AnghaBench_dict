@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+NLMSG_DATA,FUNC_0
+NLM_F_CREATE,VAR_1
+NLM_F_EXCL,VAR_2
+RTM_NEWADDRLABEL,VAR_3
+assert_return,FUNC_1
+message_new,FUNC_2
+rtnl_message_type_is_addrlabel,FUNC_3
+sd_rtnl_message_new_addrlabel,FUNC_4
+rtnl,VAR_4
+ret,VAR_5
+nlmsg_type,VAR_6
+ifindex,VAR_7
+ifal_family,VAR_8
+addrlabel,VAR_9
+r,VAR_10

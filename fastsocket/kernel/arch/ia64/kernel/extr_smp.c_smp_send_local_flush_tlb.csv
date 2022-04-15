@@ -1,0 +1,5 @@
+IA64_IPI_DM_INT,VAR_0
+IA64_IPI_LOCAL_TLB_FLUSH,VAR_1
+platform_send_ipi,FUNC_0
+smp_send_local_flush_tlb,FUNC_1
+cpu,VAR_2

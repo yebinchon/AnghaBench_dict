@@ -1,0 +1,16 @@
+DEBUG4,VAR_0
+DatabasePath,VAR_1
+GetDatabasePath,FUNC_0
+OidIsValid,FUNC_1
+RelationCacheInitFilePostInvalidate,FUNC_2
+RelationCacheInitFilePreInvalidate,FUNC_3
+SendSharedInvalidMessages,FUNC_4
+elog,FUNC_5
+pfree,FUNC_6
+trace_recovery,FUNC_7
+ProcessCommittedInvalidationMessages,FUNC_8
+msgs,VAR_2
+nmsgs,VAR_3
+RelcacheInitFileInval,VAR_4
+dbid,VAR_5
+tsid,VAR_6

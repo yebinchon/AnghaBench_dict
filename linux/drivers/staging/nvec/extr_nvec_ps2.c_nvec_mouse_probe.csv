@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+SERIO_8042,VAR_2
+dev_get_drvdata,FUNC_0
+kzalloc,FUNC_1
+nvec_ps2_notifier,VAR_3
+nvec_register_notifier,FUNC_2
+ps2_dev,VAR_4
+ps2_sendcommand,VAR_5
+ps2_startstreaming,VAR_6
+ps2_stopstreaming,VAR_7
+serio_register_port,FUNC_3
+strlcpy,FUNC_4
+nvec_mouse_probe,FUNC_5
+pdev,VAR_8
+nvec,VAR_9
+ser_dev,VAR_10

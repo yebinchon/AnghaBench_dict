@@ -1,0 +1,15 @@
+ATA_INL,FUNC_0
+ATA_OUTL,FUNC_1
+bootverbose,VAR_0
+device_get_parent,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+taskqueue_enqueue,FUNC_5
+taskqueue_thread,VAR_1
+ata_promise_mio_status,FUNC_6
+dev,VAR_2
+ctlr,VAR_3
+ch,VAR_4
+stat_reg,VAR_5
+vector,VAR_6
+status,VAR_7

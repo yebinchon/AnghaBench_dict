@@ -1,0 +1,8 @@
+copy_fpregs_to_fpstate,FUNC_0
+copy_kernel_to_fpregs,FUNC_1
+fpregs_lock,FUNC_2
+fpregs_mark_activate,FUNC_3
+fpregs_unlock,FUNC_4
+trace_kvm_fpu,FUNC_5
+kvm_put_guest_fpu,FUNC_6
+vcpu,VAR_0

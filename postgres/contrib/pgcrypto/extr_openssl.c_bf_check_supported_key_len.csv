@@ -1,0 +1,15 @@
+EVP_CIPHER_CTX_free,FUNC_0
+EVP_CIPHER_CTX_new,FUNC_1
+EVP_CIPHER_CTX_set_key_length,FUNC_2
+EVP_EncryptInit_ex,FUNC_3
+EVP_EncryptUpdate,FUNC_4
+EVP_bf_ecb,FUNC_5
+memcmp,FUNC_6
+bf_check_supported_key_len,FUNC_7
+key,VAR_0
+data,VAR_1
+res,VAR_2
+out,VAR_3
+evp_ctx,VAR_4
+outlen,VAR_5
+status,VAR_6

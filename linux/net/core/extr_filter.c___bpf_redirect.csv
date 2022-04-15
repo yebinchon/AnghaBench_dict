@@ -1,0 +1,7 @@
+__bpf_redirect_common,FUNC_0
+__bpf_redirect_no_mac,FUNC_1
+dev_is_mac_header_xmit,FUNC_2
+__bpf_redirect,FUNC_3
+skb,VAR_0
+dev,VAR_1
+flags,VAR_2

@@ -1,0 +1,11 @@
+IRQ_RETVAL,FUNC_0
+VPRINTK,FUNC_1
+adma_intr_mmio,FUNC_2
+adma_intr_pkt,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+adma_intr,FUNC_6
+irq,VAR_0
+dev_instance,VAR_1
+host,VAR_2
+handled,VAR_3

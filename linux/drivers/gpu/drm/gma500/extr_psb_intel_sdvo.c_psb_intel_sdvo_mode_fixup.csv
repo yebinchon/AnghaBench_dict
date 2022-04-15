@@ -1,0 +1,11 @@
+psb_intel_mode_set_pixel_multiplier,FUNC_0
+psb_intel_sdvo_get_pixel_multiplier,FUNC_1
+psb_intel_sdvo_set_input_timings_for_mode,FUNC_2
+psb_intel_sdvo_set_output_timings_from_mode,FUNC_3
+to_psb_intel_sdvo,FUNC_4
+psb_intel_sdvo_mode_fixup,FUNC_5
+encoder,VAR_0
+mode,VAR_1
+adjusted_mode,VAR_2
+psb_intel_sdvo,VAR_3
+multiplier,VAR_4

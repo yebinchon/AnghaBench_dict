@@ -1,0 +1,11 @@
+ARM_SMMU_DOMAIN_S1,VAR_0
+CMDQ_OP_TLBI_NH_ASID,VAR_1
+CMDQ_OP_TLBI_S12_VMALL,VAR_2
+arm_smmu_atc_inv_domain,FUNC_0
+arm_smmu_cmdq_issue_cmd,FUNC_1
+arm_smmu_cmdq_issue_sync,FUNC_2
+arm_smmu_tlb_inv_context,FUNC_3
+cookie,VAR_3
+smmu_domain,VAR_4
+smmu,VAR_5
+cmd,VAR_6

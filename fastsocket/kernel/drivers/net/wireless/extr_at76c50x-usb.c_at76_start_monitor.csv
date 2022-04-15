@@ -1,0 +1,11 @@
+CMD_SCAN,VAR_0
+ETH_ALEN,VAR_1
+SCAN_TYPE_PASSIVE,VAR_2
+at76_get_cmd_status,FUNC_0
+at76_set_card_command,FUNC_1
+cpu_to_le16,FUNC_2
+memset,FUNC_3
+at76_start_monitor,FUNC_4
+priv,VAR_3
+scan,VAR_4
+ret,VAR_5

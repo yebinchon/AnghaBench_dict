@@ -1,0 +1,14 @@
+ASIC_QSFP1_OUT,VAR_0
+ASIC_QSFP2_OUT,VAR_1
+QSFP_HFI0_RESET_N,VAR_2
+read_csr,FUNC_0
+set_qsfp_int_n,FUNC_1
+set_qsfp_tx,FUNC_2
+udelay,FUNC_3
+wait_for_qsfp_init,FUNC_4
+write_csr,FUNC_5
+reset_qsfp,FUNC_6
+ppd,VAR_3
+dd,VAR_4
+mask,VAR_5
+qsfp_mask,VAR_6

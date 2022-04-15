@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+UARTSTAT,VAR_1
+UARTSTAT_RDRF,VAR_2
+UARTSTAT_TDRE,VAR_3
+UARTWATER,VAR_4
+UARTWATER_RXCNT_OFF,VAR_5
+lpuart32_read,FUNC_0
+lpuart32_rxint,FUNC_1
+lpuart32_txint,FUNC_2
+lpuart32_write,FUNC_3
+lpuart32_int,FUNC_4
+irq,VAR_6
+dev_id,VAR_7
+sport,VAR_8
+sts,VAR_9
+rxcount,VAR_10

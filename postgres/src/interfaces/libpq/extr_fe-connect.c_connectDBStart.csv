@@ -1,0 +1,10 @@
+CONNECTION_BAD,VAR_0
+CONNECTION_NEEDED,VAR_1
+PGRES_POLLING_WRITING,VAR_2
+PQconnectPoll,FUNC_0
+pg_link_canary_is_frontend,FUNC_1
+pqDropConnection,FUNC_2
+printfPQExpBuffer,FUNC_3
+resetPQExpBuffer,FUNC_4
+connectDBStart,FUNC_5
+conn,VAR_3

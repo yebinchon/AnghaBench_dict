@@ -1,0 +1,16 @@
+IRQF_VALID,VAR_0
+IRQ_CAM,VAR_1
+IRQ_NFCON,VAR_2
+IRQ_S3C2440_CAM_C,VAR_3
+IRQ_S3C2440_CAM_P,VAR_4
+handle_level_irq,VAR_5
+s3c_irq_cam,VAR_6
+s3c_irq_demux_cam,VAR_7
+s3c_irq_level_chip,VAR_8
+set_irq_chained_handler,FUNC_0
+set_irq_chip,FUNC_1
+set_irq_flags,FUNC_2
+set_irq_handler,FUNC_3
+s3c244x_irq_add,FUNC_4
+sysdev,VAR_9
+irqno,VAR_10

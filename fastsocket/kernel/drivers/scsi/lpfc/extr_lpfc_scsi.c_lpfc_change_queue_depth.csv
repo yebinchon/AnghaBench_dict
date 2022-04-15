@@ -1,0 +1,12 @@
+lpfc_send_sdev_queuedepth_change_event,FUNC_0
+scsi_adjust_queue_depth,FUNC_1
+scsi_get_tag_type,FUNC_2
+lpfc_change_queue_depth,FUNC_3
+sdev,VAR_0
+qdepth,VAR_1
+reason,VAR_2
+vport,VAR_3
+phba,VAR_4
+rdata,VAR_5
+new_queue_depth,VAR_6
+old_queue_depth,VAR_7

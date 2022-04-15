@@ -1,0 +1,17 @@
+BSP,VAR_0
+CPU_SET_ATOMIC,FUNC_0
+EX_OSERR,VAR_1
+assert,FUNC_1
+cpumask,VAR_2
+err,FUNC_2
+fbsdrun_start_thread,VAR_3
+mt_vmm_info,VAR_4
+pthread_create,FUNC_3
+vm_activate_cpu,FUNC_4
+vmexit,VAR_5
+fbsdrun_addcpu,FUNC_5
+ctx,VAR_6
+fromcpu,VAR_7
+newcpu,VAR_8
+rip,VAR_9
+error,VAR_10

@@ -1,0 +1,9 @@
+MSR_IA32_RTIT_CTL,VAR_0
+PT_MODE_SYSTEM,VAR_1
+RTIT_CTL_TRACEEN,VAR_2
+pt_load_msr,FUNC_0
+pt_mode,VAR_3
+pt_save_msr,FUNC_1
+wrmsrl,FUNC_2
+pt_guest_exit,FUNC_3
+vmx,VAR_4

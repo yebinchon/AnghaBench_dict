@@ -1,0 +1,13 @@
+RFCSR1_RF_BLOCK_EN,VAR_0
+RFCSR2_RESCAL_BP,VAR_1
+RFCSR2_RESCAL_EN,VAR_2
+msleep,FUNC_0
+rt2800_bbp_write,FUNC_1
+rt2800_rf_init_calibration,FUNC_2
+rt2800_rfcsr_read,FUNC_3
+rt2800_rfcsr_write,FUNC_4
+rt2x00_set_field8,FUNC_5
+rt2800_init_rfcsr_3883,FUNC_6
+rt2x00dev,VAR_3
+rfcsr,VAR_4
+eco,VAR_5

@@ -1,0 +1,13 @@
+GET_LIO,FUNC_0
+OCTNET_CMD_QUEUE_COUNT_CTL,VAR_0
+dev_err,FUNC_1
+liquidio_link_ctrl_cmd_completion,VAR_1
+memset,FUNC_2
+octnet_send_nic_ctrl_pkt,FUNC_3
+lio_send_queue_count_update,FUNC_4
+netdev,VAR_2
+num_queues,VAR_3
+lio,VAR_4
+oct,VAR_5
+nctrl,VAR_6
+ret,VAR_7

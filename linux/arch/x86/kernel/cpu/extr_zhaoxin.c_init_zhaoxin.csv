@@ -1,0 +1,15 @@
+X86_FEATURE_ARCH_PERFMON,VAR_0
+X86_FEATURE_LFENCE_RDTSC,VAR_1
+X86_FEATURE_VMX,VAR_2
+cpu_has,FUNC_0
+cpuid_eax,FUNC_1
+detect_ht,FUNC_2
+detect_num_cpu_cores,FUNC_3
+early_init_zhaoxin,FUNC_4
+init_intel_cacheinfo,FUNC_5
+init_zhaoxin_cap,FUNC_6
+set_cpu_cap,FUNC_7
+zhaoxin_detect_vmx_virtcap,FUNC_8
+init_zhaoxin,FUNC_9
+c,VAR_3
+eax,VAR_4

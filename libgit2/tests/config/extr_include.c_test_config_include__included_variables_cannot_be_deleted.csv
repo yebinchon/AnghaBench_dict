@@ -1,0 +1,8 @@
+cfg,VAR_0
+cl_git_fail,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_config_delete_entry,FUNC_3
+git_config_open_ondisk,FUNC_4
+p_unlink,FUNC_5
+test_config_include__included_variables_cannot_be_deleted,FUNC_6

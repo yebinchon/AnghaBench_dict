@@ -1,0 +1,13 @@
+CONFIG_KQ_HASHSIZE,VAR_0
+FREE,FUNC_0
+M_KQUEUE,VAR_1
+__improbable,FUNC_1
+hashinit,FUNC_2
+kqhash_lock,FUNC_3
+kqhash_lock_held,FUNC_4
+kqhash_unlock,FUNC_5
+kqueue_hash_init_if_needed,FUNC_6
+p,VAR_2
+fdp,VAR_3
+alloc_hash,VAR_4
+alloc_mask,VAR_5

@@ -1,0 +1,15 @@
+get_page_unless_zero,FUNC_0
+is_migration_entry,FUNC_1
+is_swap_pte,FUNC_2
+migration_entry_to_page,FUNC_3
+pte_to_swp_entry,FUNC_4
+pte_unmap_unlock,FUNC_5
+put_and_wait_on_page_locked,FUNC_6
+spin_lock,FUNC_7
+__migration_entry_wait,FUNC_8
+mm,VAR_0
+ptep,VAR_1
+ptl,VAR_2
+pte,VAR_3
+entry,VAR_4
+page,VAR_5

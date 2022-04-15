@@ -1,0 +1,16 @@
+ACPI_ADR_PCI_SLOT,FUNC_0
+ACPI_FAILURE,FUNC_1
+ACPI_ROOT_OBJECT,VAR_0
+AcpiGetHandle,FUNC_2
+acpi_get_device,FUNC_3
+acpi_name,FUNC_4
+acpi_pci_link_add_reference,FUNC_5
+device_printf,FUNC_6
+device_probe_and_attach,FUNC_7
+prt_attach_devices,FUNC_8
+entry,VAR_1
+arg,VAR_2
+handle,VAR_3
+child,VAR_4
+pcib,VAR_5
+error,VAR_6

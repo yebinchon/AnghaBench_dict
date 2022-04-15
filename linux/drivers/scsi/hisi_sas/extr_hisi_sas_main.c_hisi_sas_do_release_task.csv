@@ -1,0 +1,15 @@
+SAS_ABORTED_TASK,VAR_0
+SAS_PROTOCOL_SMP,VAR_1
+SAS_TASK_AT_INITIATOR,VAR_2
+SAS_TASK_COMPLETE,VAR_3
+SAS_TASK_STATE_DONE,VAR_4
+SAS_TASK_STATE_PENDING,VAR_5
+hisi_sas_slot_task_free,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+hisi_sas_do_release_task,FUNC_3
+hisi_hba,VAR_6
+task,VAR_7
+slot,VAR_8
+flags,VAR_9
+ts,VAR_10

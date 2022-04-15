@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+INB,FUNC_0
+KCS_CTL_STS,VAR_1
+KCS_STATUS_OBF,VAR_2
+KCS_STATUS_STATE,FUNC_1
+KCS_STATUS_STATE_IDLE,VAR_3
+device_printf,FUNC_2
+ipmi_polled_enqueue_request,VAR_4
+kcs_driver_request,VAR_5
+kcs_error,FUNC_3
+kcs_startup,VAR_6
+ipmi_kcs_attach,FUNC_4
+sc,VAR_7
+status,VAR_8

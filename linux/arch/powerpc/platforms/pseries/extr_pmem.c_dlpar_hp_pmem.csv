@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+PSERIES_HP_ELOG_ACTION_ADD,VAR_2
+PSERIES_HP_ELOG_ACTION_REMOVE,VAR_3
+PSERIES_HP_ELOG_ID_DRC_INDEX,VAR_4
+lock_device_hotplug,FUNC_0
+of_find_node_by_type,FUNC_1
+pmem_drc_add_node,FUNC_2
+pmem_drc_remove_node,FUNC_3
+pmem_node,VAR_5
+pr_err,FUNC_4
+unlock_device_hotplug,FUNC_5
+dlpar_hp_pmem,FUNC_6
+hp_elog,VAR_6
+drc_index,VAR_7
+rc,VAR_8

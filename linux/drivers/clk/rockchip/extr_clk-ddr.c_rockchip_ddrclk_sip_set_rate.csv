@@ -1,0 +1,13 @@
+ROCKCHIP_SIP_CONFIG_DRAM_SET_RATE,VAR_0
+ROCKCHIP_SIP_DRAM_FREQ,VAR_1
+arm_smccc_smc,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_rockchip_ddrclk_hw,FUNC_3
+rockchip_ddrclk_sip_set_rate,FUNC_4
+hw,VAR_2
+drate,VAR_3
+prate,VAR_4
+ddrclk,VAR_5
+flags,VAR_6
+res,VAR_7

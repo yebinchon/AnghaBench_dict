@@ -1,0 +1,9 @@
+PCF50633_IRQ_ONKEYF,VAR_0
+PCF50633_IRQ_ONKEYR,VAR_1
+input_unregister_device,FUNC_0
+kfree,FUNC_1
+pcf50633_free_irq,FUNC_2
+platform_get_drvdata,FUNC_3
+pcf50633_input_remove,FUNC_4
+pdev,VAR_2
+input,VAR_3

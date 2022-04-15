@@ -1,0 +1,10 @@
+UART_IER,VAR_0
+UART_IER_THRI,VAR_1
+siu_read,FUNC_0
+siu_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+siu_start_tx,FUNC_4
+port,VAR_2
+flags,VAR_3
+ier,VAR_4

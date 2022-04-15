@@ -1,0 +1,17 @@
+ETIMEDOUT,VAR_0
+R21C_STATUS,VAR_1
+R230_DATA,VAR_2
+STATUS_READY_TO_READ,VAR_3
+STATUS_READY_TO_WRITE,VAR_4
+TRANSFER_TIMEOUT,VAR_5
+min,FUNC_0
+sdricoh_query_status,FUNC_1
+sdricoh_readl,FUNC_2
+sdricoh_writel,FUNC_3
+sdricoh_blockio,FUNC_4
+host,VAR_6
+read,VAR_7
+buf,VAR_8
+len,VAR_9
+size,VAR_10
+data,VAR_11

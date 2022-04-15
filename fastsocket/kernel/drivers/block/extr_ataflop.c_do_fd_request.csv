@@ -1,0 +1,16 @@
+DPRINT,FUNC_0
+IRQ_MFP_FDC,VAR_0
+atari_disable_irq,FUNC_1
+atari_enable_irq,FUNC_2
+current,VAR_1
+fdc_busy,VAR_2
+fdc_wait,VAR_3
+floppy_irq,VAR_4
+local_irq_restore,FUNC_3
+local_save_flags,FUNC_4
+redo_fd_request,FUNC_5
+sleep_on,FUNC_6
+stdma_lock,FUNC_7
+do_fd_request,FUNC_8
+q,VAR_5
+flags,VAR_6

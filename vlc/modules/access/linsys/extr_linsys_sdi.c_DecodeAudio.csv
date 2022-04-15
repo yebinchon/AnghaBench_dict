@@ -1,0 +1,17 @@
+ResampleAudio,FUNC_0
+SAMPLERATE_TOLERANCE,VAR_0
+VLC_EGENERIC,VAR_1
+VLC_ENOMEM,VAR_2
+VLC_SUCCESS,VAR_3
+block_Alloc,FUNC_1
+es_out_Send,FUNC_2
+memcpy,FUNC_3
+msg_Warn,FUNC_4
+unlikely,FUNC_5
+vlc_tick_from_samples,FUNC_6
+DecodeAudio,FUNC_7
+p_demux,VAR_4
+p_audio,VAR_5
+p_sys,VAR_6
+p_block,VAR_7
+p_output,VAR_8

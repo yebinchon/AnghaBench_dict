@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+ENOMEM,VAR_1
+atkbd_set_device_attrs,FUNC_0
+input_allocate_device,FUNC_1
+input_free_device,FUNC_2
+input_register_device,FUNC_3
+input_unregister_device,FUNC_4
+strict_strtoul,FUNC_5
+atkbd_set_softraw,FUNC_6
+atkbd,VAR_2
+buf,VAR_3
+count,VAR_4
+old_dev,VAR_5
+new_dev,VAR_6
+value,VAR_7
+err,VAR_8
+old_softraw,VAR_9

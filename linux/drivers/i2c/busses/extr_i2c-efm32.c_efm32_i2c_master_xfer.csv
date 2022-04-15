@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EIO,VAR_1
+REG_STATE,VAR_2
+REG_STATUS,VAR_3
+dev_dbg,FUNC_0
+efm32_i2c_read32,FUNC_1
+efm32_i2c_send_next_msg,FUNC_2
+i2c_get_adapdata,FUNC_3
+reinit_completion,FUNC_4
+wait_for_completion,FUNC_5
+efm32_i2c_master_xfer,FUNC_6
+adap,VAR_4
+msgs,VAR_5
+num,VAR_6
+ddata,VAR_7
+ret,VAR_8

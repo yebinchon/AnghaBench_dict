@@ -1,0 +1,12 @@
+GetUserIdAndSecContext,FUNC_0
+SECURITY_LOCAL_USERID_CHANGE,VAR_0
+SetUserIdAndSecContext,FUNC_1
+create_trigger_handler,VAR_1
+for_each_trigger,FUNC_2
+ts_rel_get_owner,FUNC_3
+ts_trigger_create_all_on_chunk,FUNC_4
+ht,VAR_2
+chunk,VAR_3
+sec_ctx,VAR_4
+saved_uid,VAR_5
+owner,VAR_6

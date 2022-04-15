@@ -1,0 +1,16 @@
+QLNX_LOCK,FUNC_0
+QLNX_UNLOCK,FUNC_1
+QL_DPRINT2,FUNC_2
+callout_reset,FUNC_3
+hz,VAR_0
+qlnx_init,FUNC_4
+qlnx_rdma_dev_add,FUNC_5
+qlnx_rdma_dev_remove,FUNC_6
+qlnx_slowpath_start,FUNC_7
+qlnx_slowpath_stop,FUNC_8
+qlnx_stop,FUNC_9
+qlnx_timer,VAR_1
+qlnx_error_recovery_taskqueue,FUNC_10
+context,VAR_2
+pending,VAR_3
+ha,VAR_4

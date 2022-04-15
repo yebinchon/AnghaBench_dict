@@ -1,0 +1,14 @@
+GPIO_INTERRUPT_RAW_STATUS,VAR_0
+__raw_readl,FUNC_0
+chained_irq_enter,FUNC_1
+chained_irq_exit,FUNC_2
+generic_handle_irq,FUNC_3
+irq_desc_get_chip,FUNC_4
+irq_desc_get_handler_data,FUNC_5
+irq_find_mapping,FUNC_6
+cns3xxx_gpio_irq_handler,FUNC_7
+desc,VAR_1
+cchip,VAR_2
+chip,VAR_3
+i,VAR_4
+reg,VAR_5

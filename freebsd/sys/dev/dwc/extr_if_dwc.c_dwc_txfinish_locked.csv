@@ -1,0 +1,16 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+DDESC_TDES0_OWN,VAR_1
+DWC_ASSERT_LOCKED,FUNC_0
+IFCOUNTER_OPACKETS,VAR_2
+IFF_DRV_OACTIVE,VAR_3
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+dwc_setup_txdesc,FUNC_3
+if_inc_counter,FUNC_4
+m_freem,FUNC_5
+next_txidx,FUNC_6
+dwc_txfinish_locked,FUNC_7
+sc,VAR_4
+bmap,VAR_5
+desc,VAR_6
+ifp,VAR_7

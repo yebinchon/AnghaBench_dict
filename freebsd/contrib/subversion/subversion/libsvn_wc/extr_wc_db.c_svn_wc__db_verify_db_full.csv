@@ -1,0 +1,15 @@
+SVN_ERR,FUNC_0
+SVN_ERR_ASSERT,FUNC_1
+VERIFY_USABLE_WCROOT,FUNC_2
+svn_dirent_is_absolute,FUNC_3
+svn_error_trace,FUNC_4
+svn_wc__db_verify_db_full_internal,FUNC_5
+svn_wc__db_wcroot_parse_local_abspath,FUNC_6
+svn_wc__db_verify_db_full,FUNC_7
+db,VAR_0
+wri_abspath,VAR_1
+callback,VAR_2
+baton,VAR_3
+scratch_pool,VAR_4
+wcroot,VAR_5
+local_relpath,VAR_6

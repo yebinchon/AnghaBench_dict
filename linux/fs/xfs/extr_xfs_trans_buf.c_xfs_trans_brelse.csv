@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+XFS_BLI_HOLD,VAR_0
+XFS_BLI_LOGGED,VAR_1
+XFS_BLI_STALE,VAR_2
+XFS_LI_BUF,VAR_3
+XFS_LI_DIRTY,VAR_4
+atomic_read,FUNC_1
+test_bit,FUNC_2
+trace_xfs_trans_brelse,FUNC_3
+xfs_buf_item_put,FUNC_4
+xfs_buf_relse,FUNC_5
+xfs_trans_del_item,FUNC_6
+xfs_trans_brelse,FUNC_7
+tp,VAR_5
+bp,VAR_6
+bip,VAR_7

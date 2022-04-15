@@ -1,0 +1,17 @@
+CM_CREATE_MSG_CMD_RESP,FUNC_0
+EINVAL,VAR_0
+ENODATA,VAR_1
+ERR,FUNC_1
+IB_USER_CM_CMD_INIT_QP_ATTR,VAR_2
+VALGRIND_MAKE_MEM_DEFINED,FUNC_2
+ibv_copy_qp_attr_from_kern,FUNC_3
+write,FUNC_4
+ib_cm_init_qp_attr,FUNC_5
+cm_id,VAR_3
+qp_attr,VAR_4
+qp_attr_mask,VAR_5
+resp,VAR_6
+cmd,VAR_7
+msg,VAR_8
+result,VAR_9
+size,VAR_10

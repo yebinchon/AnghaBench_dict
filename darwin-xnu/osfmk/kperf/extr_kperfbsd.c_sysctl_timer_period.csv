@@ -1,0 +1,14 @@
+EFAULT,VAR_0
+USER_ADDR_NULL,VAR_1
+assert,FUNC_0
+copyin,FUNC_1
+copyout,FUNC_2
+kperf_timer_get_period,FUNC_3
+kperf_timer_set_period,FUNC_4
+sysctl_timer_period,FUNC_5
+req,VAR_2
+error,VAR_3
+inputs,VAR_4
+timer,VAR_5
+new_period,VAR_6
+period_out,VAR_7

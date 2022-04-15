@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_ATOMIC,VAR_1
+WRITE,VAR_2
+blk_get_request,FUNC_0
+blk_insert_request,FUNC_1
+kfree,FUNC_2
+kmalloc,FUNC_3
+omap_msg_tx_end_io,VAR_3
+schedule_work,FUNC_4
+unlikely,FUNC_5
+omap_mbox_msg_send,FUNC_6
+mbox,VAR_4
+msg,VAR_5
+arg,VAR_6
+tx_data,VAR_7
+rq,VAR_8
+q,VAR_9

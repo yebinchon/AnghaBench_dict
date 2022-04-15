@@ -1,0 +1,14 @@
+CTZ,FUNC_0
+SKY81452_EN,VAR_0
+SKY81452_REG0,VAR_1
+SKY81452_REG1,VAR_2
+bl_get_data,FUNC_1
+dev_get_platdata,FUNC_2
+regmap_update_bits,FUNC_3
+regmap_write,FUNC_4
+sky81452_bl_update_status,FUNC_5
+bd,VAR_3
+pdata,VAR_4
+brightness,VAR_5
+regmap,VAR_6
+ret,VAR_7

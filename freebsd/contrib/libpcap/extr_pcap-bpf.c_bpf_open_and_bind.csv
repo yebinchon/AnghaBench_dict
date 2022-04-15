@@ -1,0 +1,16 @@
+BIOCSETIF,VAR_0
+PCAP_ERRBUF_SIZE,VAR_1
+PCAP_ERROR,VAR_2
+PCAP_ERROR_IFACE_NOT_UP,VAR_3
+PCAP_ERROR_NO_SUCH_DEVICE,VAR_4
+bpf_open,FUNC_0
+close,FUNC_1
+errno,VAR_5
+ioctl,FUNC_2
+pcap_fmt_errmsg_for_errno,FUNC_3
+strncpy,FUNC_4
+bpf_open_and_bind,FUNC_5
+name,VAR_6
+errbuf,VAR_7
+fd,VAR_8
+ifr,VAR_9

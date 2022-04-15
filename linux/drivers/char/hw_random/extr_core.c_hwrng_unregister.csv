@@ -1,0 +1,16 @@
+cur_rng_set_by_user,VAR_0
+current_rng,VAR_1
+drop_current_rng,FUNC_0
+enable_best_rng,FUNC_1
+hwrng_fill,VAR_2
+kthread_stop,FUNC_2
+list_del,FUNC_3
+list_empty,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+rng_list,VAR_3
+rng_mutex,VAR_4
+wait_for_completion,FUNC_7
+hwrng_unregister,FUNC_8
+rng,VAR_5
+err,VAR_6

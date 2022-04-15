@@ -1,0 +1,16 @@
+CMD,VAR_0
+CMDARG,VAR_1
+SDMMC_CMD,VAR_2
+SDMMC_CMD_START,VAR_3
+USEC_PER_MSEC,VAR_4
+dev_err,FUNC_0
+dw_mci_wait_while_busy,FUNC_1
+mci_writel,FUNC_2
+readl_poll_timeout_atomic,FUNC_3
+wmb,FUNC_4
+mci_send_cmd,FUNC_5
+slot,VAR_5
+cmd,VAR_6
+arg,VAR_7
+host,VAR_8
+cmd_status,VAR_9

@@ -1,0 +1,11 @@
+B44_RX_GOOD_O,VAR_0
+B44_RX_NPAUSE,VAR_1
+B44_TX_GOOD_O,VAR_2
+B44_TX_PAUSE,VAR_3
+br32,FUNC_0
+u64_stats_update_begin,FUNC_1
+u64_stats_update_end,FUNC_2
+b44_stats_update,FUNC_3
+bp,VAR_4
+reg,VAR_5
+val,VAR_6

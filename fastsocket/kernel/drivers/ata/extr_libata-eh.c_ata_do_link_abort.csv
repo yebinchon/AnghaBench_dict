@@ -1,0 +1,13 @@
+ATA_MAX_QUEUE,VAR_0
+ATA_QCFLAG_FAILED,VAR_1
+WARN_ON,FUNC_0
+ata_eh_set_pending,FUNC_1
+ata_port_schedule_eh,FUNC_2
+ata_qc_complete,FUNC_3
+ata_qc_from_tag,FUNC_4
+ata_do_link_abort,FUNC_5
+ap,VAR_2
+link,VAR_3
+tag,VAR_4
+nr_aborted,VAR_5
+qc,VAR_6

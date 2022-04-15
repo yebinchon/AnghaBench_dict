@@ -1,0 +1,12 @@
+BIT,FUNC_0
+CONFIG_PM_SLEEP,VAR_0
+IS_ENABLED,FUNC_1
+MSR_AMD64_CPUID_FN_1,VAR_1
+X86_FEATURE_RDRAND,VAR_2
+clear_cpu_cap,FUNC_2
+cpuid_ecx,FUNC_3
+msr_clear_bit,FUNC_4
+pr_info_once,FUNC_5
+rdrand_force,VAR_3
+clear_rdrand_cpuid_bit,FUNC_6
+c,VAR_4

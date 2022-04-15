@@ -1,0 +1,10 @@
+BPF_K,VAR_0
+BPF_RET,VAR_1
+BPF_STMT,FUNC_0
+PR_SET_SECCOMP,VAR_2
+SECCOMP_RET_ALLOW,VAR_3
+perror,FUNC_1
+prctl,FUNC_2
+install_accept_all_seccomp,FUNC_3
+filter,VAR_4
+prog,VAR_5

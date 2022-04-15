@@ -1,0 +1,10 @@
+BMCR_RESET,VAR_0
+MII_BMCR,VAR_1
+STOP_TRIES_PHY,VAR_2
+cas_phy_read,FUNC_0
+cas_phy_write,FUNC_1
+udelay,FUNC_2
+cas_reset_mii_phy,FUNC_3
+cp,VAR_3
+limit,VAR_4
+val,VAR_5

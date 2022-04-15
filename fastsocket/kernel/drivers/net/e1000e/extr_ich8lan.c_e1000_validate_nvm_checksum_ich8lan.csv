@@ -1,0 +1,14 @@
+NVM_COMPAT,VAR_0
+NVM_COMPAT_VALID_CSUM,VAR_1
+NVM_FUTURE_INIT_WORD1,VAR_2
+NVM_FUTURE_INIT_WORD1_VALID_CSUM,VAR_3
+e1000_read_nvm,FUNC_0
+e1000_write_nvm,FUNC_1
+e1000e_update_nvm_checksum,FUNC_2
+e1000e_validate_nvm_checksum_generic,FUNC_3
+e1000_validate_nvm_checksum_ich8lan,FUNC_4
+hw,VAR_4
+ret_val,VAR_5
+data,VAR_6
+word,VAR_7
+valid_csum_mask,VAR_8

@@ -1,0 +1,12 @@
+SDHCI_REQ_USE_DMA,VAR_0
+SDHCI_RESET_CMD,VAR_1
+SDHCI_RESET_DATA,VAR_2
+SDHCI_USE_ADMA,VAR_3
+__sdhci_finish_mrq,FUNC_0
+sdhci_adma_table_post,FUNC_1
+sdhci_do_reset,FUNC_2
+sdhci_send_command,FUNC_3
+sdhci_finish_data,FUNC_4
+host,VAR_4
+data_cmd,VAR_5
+data,VAR_6

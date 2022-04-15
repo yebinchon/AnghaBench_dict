@@ -1,0 +1,13 @@
+PCA963X_LED_ON,VAR_0
+PCA963X_LED_PWM,VAR_1
+PCA963X_PWM_BASE,VAR_2
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+pca963x_brightness,FUNC_2
+pca963x,VAR_3
+brightness,VAR_4
+ledout_addr,VAR_5
+ledout,VAR_6
+shift,VAR_7
+mask,VAR_8
+ret,VAR_9

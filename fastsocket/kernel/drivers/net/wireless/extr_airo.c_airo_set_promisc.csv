@@ -1,0 +1,13 @@
+CMD_SETMODE,VAR_0
+IFF_PROMISC,VAR_1
+JOB_PROMISC,VAR_2
+NOPROMISC,VAR_3
+PROMISC,VAR_4
+clear_bit,FUNC_0
+issuecommand,FUNC_1
+memset,FUNC_2
+up,FUNC_3
+airo_set_promisc,FUNC_4
+ai,VAR_5
+cmd,VAR_6
+rsp,VAR_7

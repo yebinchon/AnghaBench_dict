@@ -1,0 +1,14 @@
+RSQSIZE,VAR_0
+SAR_REG_TSQB,VAR_1
+SAR_REG_TSQH,VAR_2
+SAR_TSQE_INVALID,VAR_3
+TSQSIZE,VAR_4
+TSQ_NUM_ENTRIES,VAR_5
+cpu_to_le32,FUNC_0
+memset,FUNC_1
+pci_alloc_consistent,FUNC_2
+printk,FUNC_3
+writel,FUNC_4
+init_tsq,FUNC_5
+card,VAR_6
+tsqe,VAR_7

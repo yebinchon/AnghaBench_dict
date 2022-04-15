@@ -1,0 +1,14 @@
+MMU_PT_UPDATE_PRESERVE_AD,VAR_0
+PARAVIRT_LAZY_MMU,VAR_1
+pte_val_ma,FUNC_0
+trace_xen_mmu_ptep_modify_prot_commit,FUNC_1
+virt_to_machine,FUNC_2
+xen_extend_mmu_update,FUNC_3
+xen_mc_batch,FUNC_4
+xen_mc_issue,FUNC_5
+xen_ptep_modify_prot_commit,FUNC_6
+vma,VAR_2
+addr,VAR_3
+ptep,VAR_4
+pte,VAR_5
+u,VAR_6

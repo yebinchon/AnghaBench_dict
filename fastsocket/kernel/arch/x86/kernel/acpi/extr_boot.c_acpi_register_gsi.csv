@@ -1,0 +1,13 @@
+ACPI_IRQ_MODEL_IOAPIC,VAR_0
+ACPI_IRQ_MODEL_PIC,VAR_1
+ACPI_LEVEL_SENSITIVE,VAR_2
+acpi_irq_model,VAR_3
+eisa_set_level_irq,FUNC_0
+mp_register_gsi,FUNC_1
+acpi_register_gsi,FUNC_2
+dev,VAR_4
+gsi,VAR_5
+trigger,VAR_6
+polarity,VAR_7
+irq,VAR_8
+plat_gsi,VAR_9

@@ -1,0 +1,16 @@
+ABS_PRESSURE,VAR_0
+BTN_TOUCH,VAR_1
+gpio_get_value,FUNC_0
+input_report_abs,FUNC_1
+input_report_key,FUNC_2
+input_sync,FUNC_3
+jiffies,VAR_2
+mod_timer,FUNC_4
+msecs_to_jiffies,FUNC_5
+platform_get_drvdata,FUNC_6
+pressure,VAR_3
+atmel_wm97xx_acc_pen_up,FUNC_7
+wm,VAR_4
+atmel_wm97xx,VAR_5
+input_dev,VAR_6
+pen_down,VAR_7

@@ -1,0 +1,9 @@
+is_access_track_spte,FUNC_0
+is_shadow_present_pte,FUNC_1
+is_writable_pte,FUNC_2
+shadow_accessed_mask,VAR_0
+shadow_dirty_mask,VAR_1
+spte_ad_enabled,FUNC_3
+spte_can_locklessly_be_made_writable,FUNC_4
+spte_has_volatile_bits,FUNC_5
+spte,VAR_2

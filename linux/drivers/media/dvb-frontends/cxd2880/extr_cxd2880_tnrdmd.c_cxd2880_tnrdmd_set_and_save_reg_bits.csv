@@ -1,0 +1,14 @@
+CXD2880_TNRDMD_STATE_ACTIVE,VAR_0
+CXD2880_TNRDMD_STATE_SLEEP,VAR_1
+EINVAL,VAR_2
+cxd2880_io_set_reg_bits,FUNC_0
+set_cfg_mem,FUNC_1
+stub1,FUNC_2
+cxd2880_tnrdmd_set_and_save_reg_bits,FUNC_3
+tnr_dmd,VAR_3
+tgt,VAR_4
+bank,VAR_5
+address,VAR_6
+value,VAR_7
+bit_mask,VAR_8
+ret,VAR_9

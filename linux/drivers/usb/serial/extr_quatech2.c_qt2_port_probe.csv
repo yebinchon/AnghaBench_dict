@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+QT2_WRITE_BUFFER_SIZE,VAR_2
+kfree,FUNC_0
+kmalloc,FUNC_1
+kzalloc,FUNC_2
+qt2_write_bulk_callback,VAR_3
+spin_lock_init,FUNC_3
+usb_alloc_urb,FUNC_4
+usb_fill_bulk_urb,FUNC_5
+usb_set_serial_port_data,FUNC_6
+usb_sndbulkpipe,FUNC_7
+qt2_port_probe,FUNC_8
+port,VAR_4
+serial,VAR_5
+port_priv,VAR_6
+bEndpointAddress,VAR_7

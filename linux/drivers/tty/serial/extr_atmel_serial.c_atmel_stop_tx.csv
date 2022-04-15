@@ -1,0 +1,13 @@
+ATMEL_PDC_PTCR,VAR_0
+ATMEL_PDC_TXTDIS,VAR_1
+ATMEL_US_CR,VAR_2
+ATMEL_US_IDR,VAR_3
+ATMEL_US_TXDIS,VAR_4
+atmel_start_rx,FUNC_0
+atmel_uart_is_half_duplex,FUNC_1
+atmel_uart_writel,FUNC_2
+atmel_use_pdc_tx,FUNC_3
+to_atmel_uart_port,FUNC_4
+atmel_stop_tx,FUNC_5
+port,VAR_5
+atmel_port,VAR_6

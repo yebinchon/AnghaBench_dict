@@ -1,0 +1,12 @@
+enc_to_intel_hdmi,FUNC_0
+intel_display_power_get_if_enabled,FUNC_1
+intel_display_power_put,FUNC_2
+intel_sdvo_port_enabled,FUNC_3
+to_i915,FUNC_4
+intel_hdmi_get_hw_state,FUNC_5
+encoder,VAR_0
+pipe,VAR_1
+dev_priv,VAR_2
+intel_hdmi,VAR_3
+wakeref,VAR_4
+ret,VAR_5

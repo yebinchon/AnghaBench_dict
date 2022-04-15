@@ -1,0 +1,16 @@
+FSPI_FLSHA1CR0,VAR_0
+FSPI_FLSHA2CR0,VAR_1
+FSPI_FLSHB1CR0,VAR_2
+FSPI_FLSHB2CR0,VAR_3
+FSPI_FLSHXCR0_SZ,FUNC_0
+clk_set_rate,FUNC_1
+dev_dbg,FUNC_2
+fspi_writel,FUNC_3
+nxp_fspi_clk_disable_unprep,FUNC_4
+nxp_fspi_clk_prep_enable,FUNC_5
+nxp_fspi_select_mem,FUNC_6
+f,VAR_4
+spi,VAR_5
+rate,VAR_6
+ret,VAR_7
+size_kb,VAR_8

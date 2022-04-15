@@ -1,0 +1,13 @@
+crypto_simd_usable,FUNC_0
+kernel_neon_begin,FUNC_1
+kernel_neon_end,FUNC_2
+sha1_base_do_finalize,FUNC_3
+sha1_base_do_update,FUNC_4
+sha1_base_finish,FUNC_5
+sha1_finup_arm,FUNC_6
+sha1_transform_neon,VAR_0
+sha1_neon_finup,FUNC_7
+desc,VAR_1
+data,VAR_2
+len,VAR_3
+out,VAR_4

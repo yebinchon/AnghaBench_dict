@@ -1,0 +1,15 @@
+K_ENTER,VAR_0
+K_KP_ENTER,VAR_1
+K_MOUSE1,VAR_2
+K_MOUSE2,VAR_3
+UI_BuildPlayerList,FUNC_0
+qfalse,VAR_4
+trap_Cvar_Set,FUNC_1
+trap_Cvar_VariableValue,FUNC_2
+uiInfo,VAR_5
+va,FUNC_3
+UI_SelectedPlayer_HandleKey,FUNC_4
+flags,VAR_6
+special,VAR_7
+key,VAR_8
+selected,VAR_9

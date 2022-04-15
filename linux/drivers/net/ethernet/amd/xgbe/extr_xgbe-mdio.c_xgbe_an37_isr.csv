@@ -1,0 +1,13 @@
+MDIO_MMD_VEND2,VAR_0
+MDIO_VEND2_AN_STAT,VAR_1
+XGBE_AN_CL37_INT_MASK,VAR_2
+XMDIO_READ,FUNC_0
+XMDIO_WRITE,FUNC_1
+XP_INT_REISSUE_EN,VAR_3
+XP_IOWRITE,FUNC_2
+queue_work,FUNC_3
+xgbe_an37_disable_interrupts,FUNC_4
+xgbe_an37_enable_interrupts,FUNC_5
+xgbe_an37_isr,FUNC_6
+pdata,VAR_4
+reg,VAR_5

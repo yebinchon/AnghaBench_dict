@@ -1,0 +1,15 @@
+RRDSET_TYPE_LINE,VAR_0
+RRDSET_TYPE_STACKED,VAR_1
+RRD_ALGORITHM_ABSOLUTE,VAR_2
+localhost,VAR_3
+registry,VAR_4
+rrddim_add,FUNC_0
+rrddim_set,FUNC_1
+rrdset_create_localhost,FUNC_2
+rrdset_done,FUNC_3
+rrdset_next,FUNC_4
+unlikely,FUNC_5
+registry_statistics,FUNC_6
+sts,VAR_5
+stc,VAR_6
+stm,VAR_7

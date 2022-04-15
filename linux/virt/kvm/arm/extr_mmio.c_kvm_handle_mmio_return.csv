@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+KVM_TRACE_MMIO_READ,VAR_1
+kvm_mmio_read_buf,FUNC_0
+kvm_skip_instr,FUNC_1
+kvm_vcpu_trap_il_is32bit,FUNC_2
+trace_kvm_mmio,FUNC_3
+unlikely,FUNC_4
+vcpu_data_host_to_guest,FUNC_5
+vcpu_set_reg,FUNC_6
+kvm_handle_mmio_return,FUNC_7
+vcpu,VAR_2
+run,VAR_3
+data,VAR_4
+len,VAR_5
+mask,VAR_6

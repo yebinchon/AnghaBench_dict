@@ -1,0 +1,13 @@
+GDB_OSABI_NETBSD_AOUT,VAR_0
+GDB_OSABI_NETBSD_ELF,VAR_1
+bfd_arch_sparc,VAR_2
+bfd_arch_unknown,VAR_3
+bfd_target_aout_flavour,VAR_4
+bfd_target_unknown_flavour,VAR_5
+gdbarch_register_osabi,FUNC_0
+gdbarch_register_osabi_sniffer,FUNC_1
+sparc32nbsd_aout_init_abi,VAR_6
+sparc32nbsd_elf_init_abi,VAR_7
+sparcnbsd_aout_osabi_sniffer,VAR_8
+sparcnbsd_core_osabi_sniffer,VAR_9
+_initialize_sparnbsd_tdep,FUNC_2

@@ -1,0 +1,15 @@
+SECTOR_SIZE,VAR_0
+cd,VAR_1
+fill_sector,FUNC_0
+strlen,FUNC_1
+write_both_endian_dword,FUNC_2
+write_both_endian_word,FUNC_3
+write_byte,FUNC_4
+write_string,FUNC_5
+write_string_as_big_endian_unicode,FUNC_6
+write_directory_record,FUNC_7
+d,VAR_2
+DirType,VAR_3
+joliet,VAR_4
+identifier_size,VAR_5
+record_size,VAR_6

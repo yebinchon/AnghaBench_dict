@@ -1,0 +1,13 @@
+NR_FILE_DIRTY,VAR_0
+NR_ZONE_WRITE_PENDING,VAR_1
+PAGE_SIZE,VAR_2
+WB_RECLAIMABLE,VAR_3
+dec_lruvec_page_state,FUNC_0
+dec_wb_stat,FUNC_1
+dec_zone_page_state,FUNC_2
+mapping_cap_account_dirty,FUNC_3
+task_io_account_cancelled_write,FUNC_4
+account_page_cleaned,FUNC_5
+page,VAR_4
+mapping,VAR_5
+wb,VAR_6

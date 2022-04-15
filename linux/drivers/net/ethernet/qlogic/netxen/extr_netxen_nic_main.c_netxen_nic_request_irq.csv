@@ -1,0 +1,17 @@
+IRQF_SHARED,VAR_0
+NETXEN_NIC_MSIX_ENABLED,VAR_1
+NETXEN_NIC_MSI_ENABLED,VAR_2
+netxen_intr,VAR_3
+netxen_msi_intr,VAR_4
+netxen_msix_intr,VAR_5
+request_irq,FUNC_0
+sprintf,FUNC_1
+netxen_nic_request_irq,FUNC_2
+adapter,VAR_6
+handler,VAR_7
+sds_ring,VAR_8
+err,VAR_9
+ring,VAR_10
+flags,VAR_11
+netdev,VAR_12
+recv_ctx,VAR_13

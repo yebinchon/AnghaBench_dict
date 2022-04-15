@@ -1,0 +1,15 @@
+atomic_read,FUNC_0
+cgroup_has_css_refs,FUNC_1
+cgroup_is_releasable,FUNC_2
+cgroup_is_removed,FUNC_3
+cgroup_queue_work,FUNC_4
+list_add,FUNC_5
+list_empty,FUNC_6
+release_agent_work,VAR_0
+release_list,VAR_1
+release_list_lock,VAR_2
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+check_for_release,FUNC_9
+cgrp,VAR_3
+need_schedule_work,VAR_4

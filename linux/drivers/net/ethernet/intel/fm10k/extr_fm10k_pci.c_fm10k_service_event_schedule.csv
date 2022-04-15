@@ -1,0 +1,11 @@
+__FM10K_SERVICE_DISABLE,VAR_0
+__FM10K_SERVICE_REQUEST,VAR_1
+__FM10K_SERVICE_SCHED,VAR_2
+clear_bit,FUNC_0
+fm10k_workqueue,VAR_3
+queue_work,FUNC_1
+set_bit,FUNC_2
+test_and_set_bit,FUNC_3
+test_bit,FUNC_4
+fm10k_service_event_schedule,FUNC_5
+interface,VAR_4

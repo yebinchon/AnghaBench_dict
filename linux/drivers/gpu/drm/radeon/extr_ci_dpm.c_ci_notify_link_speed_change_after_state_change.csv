@@ -1,0 +1,16 @@
+PCIE_PERF_REQ_PECI_GEN1,VAR_0
+PCIE_PERF_REQ_PECI_GEN2,VAR_1
+PCIE_PERF_REQ_PECI_GEN3,VAR_2
+RADEON_PCIE_GEN2,VAR_3
+RADEON_PCIE_GEN3,VAR_4
+ci_get_current_pcie_speed,FUNC_0
+ci_get_maximum_link_speed,FUNC_1
+ci_get_pi,FUNC_2
+radeon_acpi_pcie_performance_request,FUNC_3
+ci_notify_link_speed_change_after_state_change,FUNC_4
+rdev,VAR_5
+radeon_new_state,VAR_6
+radeon_current_state,VAR_7
+pi,VAR_8
+target_link_speed,VAR_9
+request,VAR_10

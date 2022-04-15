@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+GFP_NOWAIT,VAR_1
+MINORBITS,VAR_2
+MINOR_ALLOCED,VAR_3
+_minor_idr,VAR_4
+_minor_lock,VAR_5
+idr_alloc,FUNC_0
+idr_preload,FUNC_1
+idr_preload_end,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+next_free_minor,FUNC_5
+minor,VAR_6
+r,VAR_7

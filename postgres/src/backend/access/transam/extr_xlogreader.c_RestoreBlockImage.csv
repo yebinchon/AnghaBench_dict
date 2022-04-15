@@ -1,0 +1,13 @@
+BKPIMAGE_IS_COMPRESSED,VAR_0
+BLCKSZ,VAR_1
+MemSet,FUNC_0
+memcpy,FUNC_1
+pglz_decompress,FUNC_2
+report_invalid_record,FUNC_3
+RestoreBlockImage,FUNC_4
+record,VAR_2
+block_id,VAR_3
+page,VAR_4
+bkpb,VAR_5
+ptr,VAR_6
+tmp,VAR_7

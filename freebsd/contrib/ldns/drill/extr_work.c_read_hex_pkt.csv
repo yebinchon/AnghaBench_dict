@@ -1,0 +1,16 @@
+LDNS_MAX_PACKETLEN,VAR_0
+LDNS_STATUS_ERR,VAR_1
+LDNS_STATUS_OK,VAR_2
+fprintf,FUNC_0
+ldns_get_errorstr_by_id,FUNC_1
+ldns_wire2pkt,FUNC_2
+packetbuffromfile,FUNC_3
+stderr,VAR_3
+xfree,FUNC_4
+xmalloc,FUNC_5
+read_hex_pkt,FUNC_6
+filename,VAR_4
+wire,VAR_5
+wiresize,VAR_6
+pkt,VAR_7
+status,VAR_8

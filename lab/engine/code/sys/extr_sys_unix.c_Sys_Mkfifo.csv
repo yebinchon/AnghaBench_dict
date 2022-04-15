@@ -1,0 +1,15 @@
+FS_Remove,FUNC_0
+F_SETFL,VAR_0
+O_NONBLOCK,VAR_1
+S_ISFIFO,FUNC_1
+fcntl,FUNC_2
+fileno,FUNC_3
+fopen,FUNC_4
+mkfifo,FUNC_5
+stat,FUNC_6
+Sys_Mkfifo,FUNC_7
+ospath,VAR_2
+fifo,VAR_3
+result,VAR_4
+fn,VAR_5
+buf,VAR_6

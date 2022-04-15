@@ -1,0 +1,12 @@
+DPRINTF,FUNC_0
+OID_GEN_CURRENT_PACKET_FILTER,VAR_0
+RNDIS_STATUS_SUCCESS,VAR_1
+htole32,FUNC_1
+le32toh,FUNC_2
+urndis_ctrl_set,FUNC_3
+urndis_ctrl_handle_reset,FUNC_4
+sc,VAR_2
+hdr,VAR_3
+msg,VAR_4
+rval,VAR_5
+msg_filter,VAR_6

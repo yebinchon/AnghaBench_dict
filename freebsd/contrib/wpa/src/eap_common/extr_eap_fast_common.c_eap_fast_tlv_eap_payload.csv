@@ -1,0 +1,11 @@
+EAP_TLV_EAP_PAYLOAD_TLV,VAR_0
+EAP_TLV_TYPE_MANDATORY,VAR_1
+MSG_DEBUG,VAR_2
+eap_fast_put_tlv_buf,FUNC_0
+wpa_printf,FUNC_1
+wpabuf_alloc,FUNC_2
+wpabuf_free,FUNC_3
+wpabuf_len,FUNC_4
+eap_fast_tlv_eap_payload,FUNC_5
+buf,VAR_3
+e,VAR_4

@@ -1,0 +1,11 @@
+FCOE_KWQE_HEADER_LAYER_CODE_SHIFT,VAR_0
+FCOE_KWQE_LAYER_CODE,VAR_1
+FCOE_KWQE_OPCODE_STAT,VAR_2
+memset,FUNC_0
+stub1,FUNC_1
+bnx2fc_send_stat_req,FUNC_2
+hba,VAR_3
+stat_req,VAR_4
+kwqe_arr,VAR_5
+num_kwqes,VAR_6
+rc,VAR_7

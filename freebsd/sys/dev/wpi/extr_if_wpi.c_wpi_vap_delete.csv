@@ -1,0 +1,14 @@
+IEEE80211_M_HOSTAP,VAR_0
+IEEE80211_M_IBSS,VAR_1
+M_80211_VAP,VAR_2
+WPI_VAP,FUNC_0
+WPI_VAP_LOCK_DESTROY,FUNC_1
+free,FUNC_2
+ieee80211_ratectl_deinit,FUNC_3
+ieee80211_vap_detach,FUNC_4
+m_freem,FUNC_5
+wpi_vap_delete,FUNC_6
+vap,VAR_3
+wvp,VAR_4
+bcn,VAR_5
+opmode,VAR_6

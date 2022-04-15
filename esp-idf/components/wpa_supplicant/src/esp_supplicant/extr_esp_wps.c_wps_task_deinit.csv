@@ -1,0 +1,15 @@
+ESP_OK,VAR_0
+MSG_DEBUG,VAR_1
+STAILQ_FIRST,FUNC_0
+s_wps_api_sem,VAR_2
+s_wps_data_lock,VAR_3
+s_wps_queue,VAR_4
+s_wps_rxq,VAR_5
+s_wps_task_create_sem,VAR_6
+s_wps_task_hdl,VAR_7
+vQueueDelete,FUNC_1
+vSemaphoreDelete,FUNC_2
+vTaskDelete,FUNC_3
+wpa_printf,FUNC_4
+wps_rxq_deinit,FUNC_5
+wps_task_deinit,FUNC_6

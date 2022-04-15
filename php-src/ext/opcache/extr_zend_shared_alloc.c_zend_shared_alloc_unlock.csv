@@ -1,0 +1,15 @@
+ACCEL_LOG_ERROR,VAR_0
+F_SETLK,VAR_1
+F_UNLCK,VAR_2
+SEEK_SET,VAR_3
+errno,VAR_4
+fcntl,FUNC_0
+lock_file,VAR_5
+strerror,FUNC_1
+tsrm_mutex_unlock,FUNC_2
+zend_accel_error,FUNC_3
+zend_shared_alloc_unlock_win32,FUNC_4
+zts_lock,VAR_6
+zend_shared_alloc_unlock,FUNC_5
+mem_write_unlock,VAR_7
+locked,VAR_8

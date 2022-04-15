@@ -1,0 +1,11 @@
+COM7_RESET,VAR_0
+REG_COM7,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+msleep,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+ov7670_write_smbus,FUNC_3
+sd,VAR_2
+reg,VAR_3
+value,VAR_4
+client,VAR_5
+ret,VAR_6

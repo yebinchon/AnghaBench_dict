@@ -1,0 +1,16 @@
+X86_CR0_EM,VAR_0
+X86_CR0_TS,VAR_1
+X86_CR4_OSFXSR,VAR_2
+X86_CR4_OSXMMEXCPT,VAR_3
+X86_FEATURE_FPU,VAR_4
+X86_FEATURE_FXSR,VAR_5
+X86_FEATURE_XMM,VAR_6
+boot_cpu_has,FUNC_0
+cr4_set_bits,FUNC_1
+current,VAR_7
+fpstate_init_soft,FUNC_2
+read_cr0,FUNC_3
+write_cr0,FUNC_4
+fpu__init_cpu_generic,FUNC_5
+cr0,VAR_8
+cr4_mask,VAR_9

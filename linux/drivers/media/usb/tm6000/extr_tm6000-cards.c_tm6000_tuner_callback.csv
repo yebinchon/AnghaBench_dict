@@ -1,0 +1,16 @@
+REQ_03_SET_GET_MCU_PIN,VAR_0
+REQ_04_EN_DISABLE_MCU_INT,VAR_1
+REQ_50_SET_START,VAR_2
+REQ_51_SET_STOP,VAR_3
+TUNER_XC2028,VAR_4
+msleep,FUNC_0
+tm6000_i2c_reset,FUNC_1
+tm6000_ir_wait,FUNC_2
+tm6000_set_reg,FUNC_3
+tm6000_tuner_callback,FUNC_4
+ptr,VAR_5
+component,VAR_6
+command,VAR_7
+arg,VAR_8
+rc,VAR_9
+dev,VAR_10

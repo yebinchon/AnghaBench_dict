@@ -1,0 +1,12 @@
+EXPECTED,FUNC_0
+UNEXPECTED,FUNC_1
+Z_ISUNDEF,FUNC_2
+efree,FUNC_3
+zend_generator_close,FUNC_4
+zend_hash_destroy,FUNC_5
+zend_iterator_dtor,FUNC_6
+zend_object_std_dtor,FUNC_7
+zval_ptr_dtor,FUNC_8
+zend_generator_free_storage,FUNC_9
+object,VAR_0
+generator,VAR_1

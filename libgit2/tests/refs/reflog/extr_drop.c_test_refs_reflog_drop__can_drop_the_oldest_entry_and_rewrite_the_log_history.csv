@@ -1,0 +1,12 @@
+GIT_OID_HEX_ZERO,VAR_0
+cl_assert,FUNC_0
+cl_assert_equal_sz,FUNC_1
+cl_git_pass,FUNC_2
+entrycount,VAR_1
+g_reflog,VAR_2
+git_oid_streq,FUNC_3
+git_reflog_drop,FUNC_4
+git_reflog_entry_byindex,FUNC_5
+git_reflog_entrycount,FUNC_6
+test_refs_reflog_drop__can_drop_the_oldest_entry_and_rewrite_the_log_history,FUNC_7
+entry,VAR_3

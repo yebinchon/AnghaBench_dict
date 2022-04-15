@@ -1,0 +1,13 @@
+vm_batchqueue_init,FUNC_0
+vm_batchqueue_insert,FUNC_1
+vm_batchqueue_pop,FUNC_2
+vm_pageout_reinsert_inactive_page,FUNC_3
+vm_pagequeue_cnt_add,FUNC_4
+vm_pagequeue_lock,FUNC_5
+vm_pagequeue_unlock,FUNC_6
+vm_pageout_reinsert_inactive,FUNC_7
+ss,VAR_0
+bq,VAR_1
+m,VAR_2
+pq,VAR_3
+delta,VAR_4

@@ -1,0 +1,14 @@
+bcom_fec_rx_release,FUNC_0
+bcom_fec_tx_release,FUNC_1
+free_netdev,FUNC_2
+iounmap,FUNC_3
+irq_dispose_mapping,FUNC_4
+netdev_priv,FUNC_5
+of_node_put,FUNC_6
+platform_get_drvdata,FUNC_7
+release_mem_region,FUNC_8
+unregister_netdev,FUNC_9
+mpc52xx_fec_remove,FUNC_10
+op,VAR_0
+ndev,VAR_1
+priv,VAR_2

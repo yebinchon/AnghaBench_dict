@@ -1,0 +1,17 @@
+INV,FUNC_0
+S_IRWXU,VAR_0
+atf_fs_stat_reg_type,VAR_1
+atf_is_error,FUNC_1
+check_umask,FUNC_2
+copy_contents,FUNC_3
+current_umask,FUNC_4
+do_mkstemp,FUNC_5
+free,FUNC_6
+invalid_umask_error,FUNC_7
+replace_contents,FUNC_8
+atf_fs_mkstemp,FUNC_9
+p,VAR_2
+fdout,VAR_3
+err,VAR_4
+buf,VAR_5
+fd,VAR_6

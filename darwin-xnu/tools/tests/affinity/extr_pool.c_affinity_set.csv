@@ -1,0 +1,11 @@
+KERN_SUCCESS,VAR_0
+THREAD_AFFINITY_POLICY,VAR_1
+THREAD_AFFINITY_POLICY_COUNT,VAR_2
+affinity,VAR_3
+mach_thread_self,FUNC_0
+printf,FUNC_1
+thread_policy_set,FUNC_2
+affinity_set,FUNC_3
+tag,VAR_4
+ret,VAR_5
+policy,VAR_6

@@ -1,0 +1,16 @@
+LOW_MEM_LIMIT,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+VM_MEMATTR_DEFAULT,VAR_3
+bus_alloc_resource,FUNC_0
+bus_release_resource,FUNC_1
+rman_get_start,FUNC_2
+vm_phys_fictitious_reg_range,FUNC_3
+xenpv_alloc_physmem,FUNC_4
+dev,VAR_4
+child,VAR_5
+res_id,VAR_6
+size,VAR_7
+res,VAR_8
+phys_addr,VAR_9
+error,VAR_10

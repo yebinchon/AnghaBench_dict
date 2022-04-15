@@ -1,0 +1,12 @@
+ATMEL_HLCDC_LAYER_FORMAT_CFG,VAR_0
+ATMEL_HLCDC_YUV422ROT,VAR_1
+DRM_FORMAT_NV61,VAR_2
+DRM_FORMAT_YUV422,VAR_3
+atmel_hlcdc_format_to_plane_mode,FUNC_0
+atmel_hlcdc_layer_write_cfg,FUNC_1
+drm_rotation_90_or_270,FUNC_2
+atmel_hlcdc_plane_update_format,FUNC_3
+plane,VAR_4
+state,VAR_5
+cfg,VAR_6
+ret,VAR_7

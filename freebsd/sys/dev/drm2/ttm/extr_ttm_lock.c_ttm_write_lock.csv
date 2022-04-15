@@ -1,0 +1,16 @@
+EINTR,VAR_0
+ERESTART,VAR_1
+ERESTARTSYS,VAR_2
+PCATCH,VAR_3
+TTM_WRITE_LOCK_PENDING,VAR_4
+__ttm_write_lock,FUNC_0
+msleep,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+wakeup,FUNC_4
+ttm_write_lock,FUNC_5
+lock,VAR_5
+interruptible,VAR_6
+wmsg,VAR_7
+flags,VAR_8
+ret,VAR_9

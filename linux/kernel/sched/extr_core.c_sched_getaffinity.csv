@@ -1,0 +1,15 @@
+ESRCH,VAR_0
+cpu_active_mask,VAR_1
+cpumask_and,FUNC_0
+find_process_by_pid,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+security_task_getscheduler,FUNC_6
+sched_getaffinity,FUNC_7
+pid,VAR_2
+mask,VAR_3
+p,VAR_4
+flags,VAR_5
+retval,VAR_6

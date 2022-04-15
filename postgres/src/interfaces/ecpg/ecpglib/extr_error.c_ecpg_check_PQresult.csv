@@ -1,0 +1,15 @@
+ECPG_EMPTY,VAR_0
+ECPG_SQLSTATE_ECPG_INTERNAL_ERROR,VAR_1
+PQclear,FUNC_0
+PQendcopy,FUNC_1
+PQerrorMessage,FUNC_2
+PQresultErrorMessage,FUNC_3
+PQresultStatus,FUNC_4
+ecpg_log,FUNC_5
+ecpg_raise,FUNC_6
+ecpg_raise_backend,FUNC_7
+ecpg_check_PQresult,FUNC_8
+results,VAR_2
+lineno,VAR_3
+connection,VAR_4
+compat,VAR_5

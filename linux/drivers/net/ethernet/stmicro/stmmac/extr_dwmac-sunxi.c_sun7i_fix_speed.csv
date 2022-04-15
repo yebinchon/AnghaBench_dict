@@ -1,0 +1,12 @@
+PHY_INTERFACE_MODE_GMII,VAR_0
+SUN7I_GMAC_GMII_RGMII_RATE,VAR_1
+SUN7I_GMAC_MII_RATE,VAR_2
+clk_disable,FUNC_0
+clk_prepare,FUNC_1
+clk_prepare_enable,FUNC_2
+clk_set_rate,FUNC_3
+clk_unprepare,FUNC_4
+sun7i_fix_speed,FUNC_5
+priv,VAR_3
+speed,VAR_4
+gmac,VAR_5

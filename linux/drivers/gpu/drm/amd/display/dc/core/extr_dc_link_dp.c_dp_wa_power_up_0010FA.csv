@@ -1,0 +1,11 @@
+DISPLAY_DONGLE_DP_VGA_CONVERTER,VAR_0
+DP_DOWNSTREAMPORT_PRESENT,VAR_1
+DP_DPCD_REV,VAR_2
+core_link_read_dpcd,FUNC_0
+dp_receiver_power_ctrl,FUNC_1
+dp_wa_power_up_0010FA,FUNC_2
+link,VAR_3
+dpcd_data,VAR_4
+length,VAR_5
+retry,VAR_6
+ds_port,VAR_7

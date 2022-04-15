@@ -1,0 +1,15 @@
+BHND_BUS_GET_NVRAM_VAR,FUNC_0
+BHND_NVRAM_GETVAR,FUNC_1
+ENODEV,VAR_0
+GIANT_REQUIRED,VAR_1
+device_find_child,FUNC_2
+device_get_parent,FUNC_3
+bhnd_bus_generic_get_nvram_var,FUNC_4
+dev,VAR_2
+child,VAR_3
+name,VAR_4
+buf,VAR_5
+size,VAR_6
+type,VAR_7
+nvram,VAR_8
+parent,VAR_9

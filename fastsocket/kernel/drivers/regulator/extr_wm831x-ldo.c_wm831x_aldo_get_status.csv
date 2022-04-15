@@ -1,0 +1,15 @@
+REGULATOR_STATUS_ERROR,VAR_0
+REGULATOR_STATUS_OFF,VAR_1
+WM831X_LDO_STATUS,VAR_2
+WM831X_LDO_UV_STATUS,VAR_3
+rdev_get_drvdata,FUNC_0
+rdev_get_id,FUNC_1
+regulator_mode_to_status,FUNC_2
+wm831x_aldo_get_mode,FUNC_3
+wm831x_reg_read,FUNC_4
+wm831x_aldo_get_status,FUNC_5
+rdev,VAR_4
+ldo,VAR_5
+wm831x,VAR_6
+mask,VAR_7
+ret,VAR_8

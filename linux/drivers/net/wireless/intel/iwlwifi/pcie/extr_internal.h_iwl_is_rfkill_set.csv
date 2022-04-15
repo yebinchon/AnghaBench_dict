@@ -1,0 +1,8 @@
+CSR_GP_CNTRL,VAR_0
+CSR_GP_CNTRL_REG_FLAG_HW_RF_KILL_SW,VAR_1
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+iwl_read32,FUNC_1
+lockdep_assert_held,FUNC_2
+iwl_is_rfkill_set,FUNC_3
+trans,VAR_2
+trans_pcie,VAR_3

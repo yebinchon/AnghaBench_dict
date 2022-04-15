@@ -1,0 +1,16 @@
+SMU_MSG_DramLogSetDramAddrHigh,VAR_0
+SMU_MSG_DramLogSetDramAddrLow,VAR_1
+SMU_MSG_DramLogSetDramSize,VAR_2
+SMU_MSG_SetSystemVirtualDramAddrHigh,VAR_3
+SMU_MSG_SetSystemVirtualDramAddrLow,VAR_4
+lower_32_bits,FUNC_0
+smu_send_smc_msg_with_param,FUNC_1
+upper_32_bits,FUNC_2
+smu_v11_0_notify_memory_pool_location,FUNC_3
+smu,VAR_5
+smu_table,VAR_6
+memory_pool,VAR_7
+ret,VAR_8
+address,VAR_9
+address_low,VAR_10
+address_high,VAR_11

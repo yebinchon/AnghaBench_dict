@@ -1,0 +1,12 @@
+MMS114_TSP_REV,VAR_0
+MMS152_COMPAT_GROUP,VAR_1
+MMS152_FW_REV,VAR_2
+__mms114_read_reg,FUNC_0
+dev_info,FUNC_1
+i2c_smbus_read_byte_data,FUNC_2
+mms114_get_version,FUNC_3
+data,VAR_3
+dev,VAR_4
+buf,VAR_5
+group,VAR_6
+error,VAR_7

@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+QLINK_CMD_GET_HW_INFO,VAR_1
+QLINK_MACID_RSVD,VAR_2
+QLINK_VIFID_RSVD,VAR_3
+consume_skb,FUNC_0
+qtnf_bus_lock,FUNC_1
+qtnf_bus_unlock,FUNC_2
+qtnf_cmd_alloc_new_cmdskb,FUNC_3
+qtnf_cmd_resp_proc_hw_info,FUNC_4
+qtnf_cmd_send_with_reply,FUNC_5
+qtnf_cmd_get_hw_info,FUNC_6
+bus,VAR_4
+cmd_skb,VAR_5
+resp_skb,VAR_6
+resp,VAR_7
+info_len,VAR_8
+ret,VAR_9

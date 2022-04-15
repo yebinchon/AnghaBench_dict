@@ -1,0 +1,15 @@
+CPU_DTRACE_BADADDR,VAR_0
+CPU_DTRACE_ILLOP,VAR_1
+CPU_DTRACE_NOFAULT,VAR_2
+KASSERT,FUNC_0
+PSL_I,VAR_3
+cpu_core,VAR_4
+curcpu,VAR_5
+dtrace_instr_size,FUNC_1
+read_rflags,FUNC_2
+sched_pin,FUNC_3
+sched_unpin,FUNC_4
+dtrace_trap,FUNC_5
+frame,VAR_6
+type,VAR_7
+nofault,VAR_8

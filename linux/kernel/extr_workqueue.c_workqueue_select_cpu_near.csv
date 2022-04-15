@@ -1,0 +1,13 @@
+MAX_NUMNODES,VAR_0
+WORK_CPU_UNBOUND,VAR_1
+cpu_online_mask,VAR_2
+cpu_to_node,FUNC_0
+cpumask_any_and,FUNC_1
+cpumask_of_node,FUNC_2
+node_online,FUNC_3
+nr_cpu_ids,VAR_3
+raw_smp_processor_id,FUNC_4
+wq_numa_enabled,VAR_4
+workqueue_select_cpu_near,FUNC_5
+node,VAR_5
+cpu,VAR_6

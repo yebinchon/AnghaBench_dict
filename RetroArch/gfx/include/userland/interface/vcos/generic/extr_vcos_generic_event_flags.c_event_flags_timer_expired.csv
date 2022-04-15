@@ -1,0 +1,13 @@
+_vcos_thread_sem_post,FUNC_0
+vcos_assert,FUNC_1
+vcos_mutex_lock,FUNC_2
+vcos_mutex_unlock,FUNC_3
+waiter_list_valid,FUNC_4
+event_flags_timer_expired,FUNC_5
+cxt,VAR_0
+waitreq,VAR_1
+flags,VAR_2
+plist,VAR_3
+prev,VAR_4
+thread,VAR_5
+at_end,VAR_6

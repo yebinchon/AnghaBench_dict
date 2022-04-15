@@ -1,0 +1,16 @@
+UNMAP_NOTIFY_CLEAR_BYTE,VAR_0
+UNMAP_NOTIFY_SEND_EVENT,VAR_1
+__free_page,FUNC_0
+evtchn_put,FUNC_1
+gnttab_end_foreign_access_ref,FUNC_2
+gnttab_free_grant_reference,FUNC_3
+gnttab_query_foreign_access,FUNC_4
+gref_size,VAR_2
+kfree,FUNC_5
+kmap,FUNC_6
+kunmap,FUNC_7
+list_del,FUNC_8
+notify_remote_via_evtchn,FUNC_9
+__del_gref,FUNC_10
+gref,VAR_3
+tmp,VAR_4

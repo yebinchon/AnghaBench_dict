@@ -1,0 +1,13 @@
+BPF_NOEXIST,VAR_0
+ENOENT,VAR_1
+assert,FUNC_0
+bpf_map_lookup_elem,FUNC_1
+bpf_map_lookup_elem_with_ref_bit,FUNC_2
+bpf_map_update_elem,FUNC_3
+errno,VAR_2
+nr_cpus,VAR_3
+do_test_lru_sanity5,FUNC_4
+last_key,VAR_4
+map_fd,VAR_5
+key,VAR_6
+value,VAR_7

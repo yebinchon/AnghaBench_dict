@@ -1,0 +1,14 @@
+dev_err,FUNC_0
+hp206c_read_20bit,FUNC_1
+hp206c_wait_dev_rdy,FUNC_2
+i2c_smbus_write_byte,FUNC_3
+iio_priv,FUNC_4
+usleep_range,FUNC_5
+hp206c_conv_and_read,FUNC_6
+indio_dev,VAR_0
+conv_cmd,VAR_1
+read_cmd,VAR_2
+sleep_us,VAR_3
+ret,VAR_4
+data,VAR_5
+client,VAR_6

@@ -1,0 +1,14 @@
+GPE0A_PME_B0_STS_BIT,VAR_0
+GPE0A_PME_B0_VIRT_GPIO_PIN,VAR_1
+GPE0A_STS_PORT,VAR_2
+IRQ_HANDLED,VAR_3
+IRQ_NONE,VAR_4
+generic_handle_irq,FUNC_0
+inl,FUNC_1
+irq_find_mapping,FUNC_2
+pm_wakeup_hard_event,FUNC_3
+int0002_irq,FUNC_4
+irq,VAR_5
+data,VAR_6
+chip,VAR_7
+gpe_sts_reg,VAR_8

@@ -1,0 +1,17 @@
+IA32_MISC_ENABLE,VAR_0
+IA32_MISC_TURBO_EN,VAR_1
+TURBO_POWER_CURRENT_LIMIT,VAR_2
+TURBO_TDP_MASK,VAR_3
+boot_cpu_data,VAR_4
+dev_info,FUNC_0
+ips_lv_limits,VAR_5
+ips_sv_limits,VAR_6
+ips_ulv_limits,VAR_7
+rdmsrl,FUNC_1
+strstr,FUNC_2
+ips_detect_cpu,FUNC_3
+ips,VAR_8
+turbo_power,VAR_9
+misc_en,VAR_10
+limits,VAR_11
+tdp,VAR_12

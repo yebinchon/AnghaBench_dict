@@ -1,0 +1,13 @@
+FPGA_NAND_CMD_READ,VAR_0
+FPGA_NAND_DATA_SHIFT,VAR_1
+FPGA_NAND_ENABLE,VAR_2
+in_be32,FUNC_0
+out_be32,FUNC_1
+socrates_nand_read_buf,FUNC_2
+mtd,VAR_3
+buf,VAR_4
+len,VAR_5
+i,VAR_6
+this,VAR_7
+host,VAR_8
+val,VAR_9

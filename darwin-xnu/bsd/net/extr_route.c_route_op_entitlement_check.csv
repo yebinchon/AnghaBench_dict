@@ -1,0 +1,11 @@
+PRIV_NET_RESTRICTED_ROUTE_NC_READ,VAR_0
+ROUTE_OP_READ,VAR_1
+kauth_cred_getuid,FUNC_0
+priv_check_cred,FUNC_1
+soopt_cred_check,FUNC_2
+route_op_entitlement_check,FUNC_3
+so,VAR_2
+cred,VAR_3
+route_op_type,VAR_4
+allow_root,VAR_5
+uid,VAR_6

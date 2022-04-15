@@ -1,0 +1,11 @@
+mmc_priv,FUNC_0
+pm_runtime_get_noresume,FUNC_1
+pm_runtime_put_noidle,FUNC_2
+sdhci_enable_sdio_irq_nolock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+sdhci_enable_sdio_irq,FUNC_6
+mmc,VAR_0
+enable,VAR_1
+host,VAR_2
+flags,VAR_3

@@ -1,0 +1,11 @@
+PARAVIRT_LAZY_CPU,VAR_0
+fs,VAR_1
+lazy_load_gs,FUNC_0
+load_TLS_descriptor,FUNC_1
+loadsegment,FUNC_2
+paravirt_get_lazy_mode,FUNC_3
+xen_mc_batch,FUNC_4
+xen_mc_issue,FUNC_5
+xen_load_tls,FUNC_6
+t,VAR_2
+cpu,VAR_3

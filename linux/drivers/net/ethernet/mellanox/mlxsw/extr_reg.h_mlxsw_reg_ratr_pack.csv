@@ -1,0 +1,15 @@
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_ratr_adjacency_index_high_set,FUNC_1
+mlxsw_reg_ratr_adjacency_index_low_set,FUNC_2
+mlxsw_reg_ratr_egress_router_interface_set,FUNC_3
+mlxsw_reg_ratr_op_set,FUNC_4
+mlxsw_reg_ratr_type_set,FUNC_5
+mlxsw_reg_ratr_v_set,FUNC_6
+ratr,VAR_0
+mlxsw_reg_ratr_pack,FUNC_7
+payload,VAR_1
+op,VAR_2
+valid,VAR_3
+type,VAR_4
+adjacency_index,VAR_5
+egress_rif,VAR_6

@@ -1,0 +1,13 @@
+MPT2_CMD_COMPLETE,VAR_0
+MPT2_CMD_NOT_USED,VAR_1
+MPT2_CMD_PENDING,VAR_2
+MPT2_CMD_REPLY_VALID,VAR_3
+complete,FUNC_0
+memcpy,FUNC_1
+mpt2sas_base_get_reply_virt_addr,FUNC_2
+mpt2sas_transport_done,FUNC_3
+ioc,VAR_4
+smid,VAR_5
+msix_index,VAR_6
+reply,VAR_7
+mpi_reply,VAR_8

@@ -1,0 +1,15 @@
+EZFS_NODEVICE,VAR_0
+EZFS_NOSPC,VAR_1
+ZPOOL_CONFIG_PHYS_PATH,VAR_2
+nvlist_lookup_string,FUNC_0
+snprintf,FUNC_1
+vdev_get_one_physpath,FUNC_2
+config,VAR_3
+physpath,VAR_4
+physpath_size,VAR_5
+bytes_written,VAR_6
+bytes_left,VAR_7
+pos,VAR_8
+rsz,VAR_9
+tmppath,VAR_10
+format,VAR_11

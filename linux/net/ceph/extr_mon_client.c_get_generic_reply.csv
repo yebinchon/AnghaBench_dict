@@ -1,0 +1,14 @@
+ceph_msg_get,FUNC_0
+dout,FUNC_1
+le64_to_cpu,FUNC_2
+lookup_generic_request,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+get_generic_reply,FUNC_6
+con,VAR_0
+hdr,VAR_1
+skip,VAR_2
+monc,VAR_3
+req,VAR_4
+tid,VAR_5
+m,VAR_6

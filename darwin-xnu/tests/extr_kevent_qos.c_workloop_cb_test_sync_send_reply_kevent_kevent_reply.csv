@@ -1,0 +1,17 @@
+EVFILT_MACHPORT,VAR_0
+T_ASSERT_EQ_INT,FUNC_0
+T_LOG,FUNC_1
+T_QUIET,VAR_1
+T_SKIP,FUNC_2
+enable_kevent,FUNC_3
+get_reply_port,FUNC_4
+geteuid,FUNC_5
+populate_kevent,FUNC_6
+send_reply,FUNC_7
+workloop_cb_test_sync_send_reply_kevent_kevent_reply_handler_called,VAR_2
+workloop_cb_test_sync_send_reply_kevent_kevent_reply,FUNC_8
+workloop_id,VAR_3
+eventslist,VAR_4
+events,VAR_5
+kev,VAR_6
+reply_port,VAR_7

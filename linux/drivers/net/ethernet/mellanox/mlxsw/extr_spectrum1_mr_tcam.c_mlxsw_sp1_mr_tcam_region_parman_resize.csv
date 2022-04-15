@@ -1,0 +1,16 @@
+ACL_MAX_TCAM_RULES,VAR_0
+EINVAL,VAR_1
+MLXSW_CORE_RES_GET,FUNC_0
+MLXSW_REG,FUNC_1
+MLXSW_REG_RTAR_LEN,VAR_2
+MLXSW_REG_RTAR_OP_RESIZE,VAR_3
+mlxsw_reg_rtar_pack,FUNC_2
+mlxsw_reg_write,FUNC_3
+rtar,VAR_4
+mlxsw_sp1_mr_tcam_region_parman_resize,FUNC_4
+priv,VAR_5
+new_count,VAR_6
+mr_tcam_region,VAR_7
+mlxsw_sp,VAR_8
+rtar_pl,VAR_9
+max_tcam_rules,VAR_10

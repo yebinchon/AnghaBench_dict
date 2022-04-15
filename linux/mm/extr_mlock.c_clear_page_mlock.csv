@@ -1,0 +1,13 @@
+NR_MLOCK,VAR_0
+PageUnevictable,FUNC_0
+TestClearPageMlocked,FUNC_1
+UNEVICTABLE_PGCLEARED,VAR_1
+UNEVICTABLE_PGSTRANDED,VAR_2
+count_vm_event,FUNC_2
+hpage_nr_pages,FUNC_3
+isolate_lru_page,FUNC_4
+mod_zone_page_state,FUNC_5
+page_zone,FUNC_6
+putback_lru_page,FUNC_7
+clear_page_mlock,FUNC_8
+page,VAR_3

@@ -1,0 +1,13 @@
+AAS_LoadAASFile,FUNC_0
+Error,FUNC_1
+Log_Print,FUNC_2
+TH_AASToTriangleMesh,FUNC_3
+TH_FreeMaxTH,FUNC_4
+TH_InitMaxTH,FUNC_5
+TH_TetrahedralDecomposition,FUNC_6
+TH_AASToTetrahedrons,FUNC_7
+filename,VAR_0
+triangles,VAR_1
+tri,VAR_2
+lasttri,VAR_3
+cnt,VAR_4

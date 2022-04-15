@@ -1,0 +1,17 @@
+EDOOFUS,VAR_0
+ENXIO,VAR_1
+PCIR_BAR,FUNC_0
+RF_ACTIVE,VAR_2
+RF_SHAREABLE,VAR_3
+SYS_RES_MEMORY,VAR_4
+bus_alloc_resource_any,FUNC_1
+device_printf,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+rman_get_size,FUNC_5
+bnxt_map_bar,FUNC_6
+softc,VAR_5
+bar,VAR_6
+bar_num,VAR_7
+shareable,VAR_8
+flag,VAR_9

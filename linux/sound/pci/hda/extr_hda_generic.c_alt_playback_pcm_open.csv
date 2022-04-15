@@ -1,0 +1,12 @@
+EBUSY,VAR_0
+HDA_GEN_PCM_ACT_OPEN,VAR_1
+STREAM_INDEP_HP,VAR_2
+call_pcm_playback_hook,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+alt_playback_pcm_open,FUNC_3
+hinfo,VAR_3
+codec,VAR_4
+substream,VAR_5
+spec,VAR_6
+err,VAR_7

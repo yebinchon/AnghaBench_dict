@@ -1,0 +1,9 @@
+BIO_new_file,FUNC_0
+CRYPTO_free_ex_index,FUNC_1
+ERR_clear_error,FUNC_2
+OPENSSL_INIT_LOAD_CRYPTO_STRINGS,VAR_0
+OPENSSL_init_crypto,FUNC_3
+bio_out,VAR_1
+FuzzerInitialize,FUNC_4
+argc,VAR_2
+argv,VAR_3

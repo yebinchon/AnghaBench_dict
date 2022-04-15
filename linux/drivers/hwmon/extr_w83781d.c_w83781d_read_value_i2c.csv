@@ -1,0 +1,11 @@
+W83781D_REG_BANK,VAR_0
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_read_word_swapped,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+w83781d_read_value_i2c,FUNC_3
+data,VAR_1
+reg,VAR_2
+client,VAR_3
+res,VAR_4
+bank,VAR_5
+cl,VAR_6

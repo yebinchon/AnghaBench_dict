@@ -1,0 +1,14 @@
+T5403_COMMAND,VAR_0
+T5403_DATA,VAR_1
+T5403_MODE_SHIFT,VAR_2
+T5403_PT,VAR_3
+T5403_SCO,VAR_4
+i2c_smbus_read_word_data,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+msleep,FUNC_2
+t5403_pressure_conv_ms,VAR_5
+t5403_read,FUNC_3
+data,VAR_6
+pressure,VAR_7
+wait_time,VAR_8
+ret,VAR_9

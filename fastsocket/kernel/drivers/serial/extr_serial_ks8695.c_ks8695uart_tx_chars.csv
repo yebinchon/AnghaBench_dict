@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+KS8695_CLR_TX_INT,FUNC_0
+UART_PUT_CHAR,FUNC_1
+UART_XMIT_SIZE,VAR_1
+WAKEUP_CHARS,VAR_2
+ks8695uart_stop_tx,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_circ_empty,FUNC_4
+uart_tx_stopped,FUNC_5
+uart_write_wakeup,FUNC_6
+ks8695uart_tx_chars,FUNC_7
+irq,VAR_3
+dev_id,VAR_4
+port,VAR_5
+xmit,VAR_6
+count,VAR_7

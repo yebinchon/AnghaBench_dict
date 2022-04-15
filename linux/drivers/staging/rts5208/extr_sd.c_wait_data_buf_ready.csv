@@ -1,0 +1,16 @@
+SD_CARD,VAR_0
+SD_NO_CARD,VAR_1
+SD_RSP_TYPE_R1,VAR_2
+SD_TO_ERR,VAR_3
+SEND_STATUS,VAR_4
+STATUS_FAIL,VAR_5
+STATUS_SUCCESS,VAR_6
+WAIT_DATA_READY_RTY_CNT,VAR_7
+detect_card_cd,FUNC_0
+sd_send_cmd_get_rsp,FUNC_1
+sd_set_err_code,FUNC_2
+wait_data_buf_ready,FUNC_3
+chip,VAR_8
+sd_card,VAR_9
+i,VAR_10
+retval,VAR_11

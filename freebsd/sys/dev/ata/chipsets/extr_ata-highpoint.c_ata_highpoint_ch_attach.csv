@@ -1,0 +1,12 @@
+ATA_ALWAYS_DMASTAT,VAR_0
+ATA_CHECKS_CABLE,VAR_1
+ATA_NO_ATAPI_DMA,VAR_2
+ENXIO,VAR_3
+HPT_366,VAR_4
+ata_pci_ch_attach,FUNC_0
+device_get_parent,FUNC_1
+device_get_softc,FUNC_2
+ata_highpoint_ch_attach,FUNC_3
+dev,VAR_5
+ctlr,VAR_6
+ch,VAR_7

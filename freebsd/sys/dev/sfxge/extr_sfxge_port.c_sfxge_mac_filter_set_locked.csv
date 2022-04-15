@@ -1,0 +1,13 @@
+B_TRUE,VAR_0
+IFF_ALLMULTI,VAR_1
+IFF_PROMISC,VAR_2
+MA_OWNED,VAR_3
+efx_mac_filter_set,FUNC_0
+mtx_assert,FUNC_1
+sfxge_mac_multicast_list_set,FUNC_2
+sfxge_mac_filter_set_locked,FUNC_3
+sc,VAR_4
+ifp,VAR_5
+port,VAR_6
+all_mulcst,VAR_7
+rc,VAR_8

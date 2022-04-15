@@ -1,0 +1,14 @@
+NAND_ALE,VAR_0
+NAND_CLE,VAR_1
+NAND_CMD_NONE,VAR_2
+NAND_CTRL_CHANGE,VAR_3
+NAND_NCE,VAR_4
+NAND_REG_DATA,VAR_5
+NAND_WRITE_REG,FUNC_0
+adm5120_nand_set_ale,FUNC_1
+adm5120_nand_set_cen,FUNC_2
+adm5120_nand_set_cle,FUNC_3
+adm5120_nand_cmd_ctrl,FUNC_4
+mtd,VAR_6
+cmd,VAR_7
+ctrl,VAR_8

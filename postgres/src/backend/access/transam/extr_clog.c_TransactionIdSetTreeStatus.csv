@@ -1,0 +1,16 @@
+Assert,FUNC_0
+TRANSACTION_STATUS_ABORTED,VAR_0
+TRANSACTION_STATUS_COMMITTED,VAR_1
+TRANSACTION_STATUS_SUB_COMMITTED,VAR_2
+TransactionIdSetPageStatus,FUNC_1
+TransactionIdToPage,FUNC_2
+set_status_by_pages,FUNC_3
+TransactionIdSetTreeStatus,FUNC_4
+xid,VAR_3
+nsubxids,VAR_4
+subxids,VAR_5
+status,VAR_6
+lsn,VAR_7
+pageno,VAR_8
+i,VAR_9
+nsubxids_on_first_page,VAR_10

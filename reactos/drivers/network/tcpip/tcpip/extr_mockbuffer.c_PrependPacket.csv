@@ -1,0 +1,16 @@
+GlobalBufferPool,VAR_0
+NDIS_STATUS_SUCCESS,VAR_1
+NdisAllocateBuffer,FUNC_0
+NdisChainBufferAtFront,FUNC_1
+PoolAllocateBuffer,FUNC_2
+RtlCopyMemory,FUNC_3
+STATUS_NO_MEMORY,VAR_2
+STATUS_SUCCESS,VAR_3
+PrependPacket,FUNC_4
+Packet,VAR_4
+Data,VAR_5
+Length,VAR_6
+Copy,VAR_7
+Buffer,VAR_8
+Status,VAR_9
+NewBuf,VAR_10

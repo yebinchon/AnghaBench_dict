@@ -1,0 +1,13 @@
+EXPECTATIONS_COUNT,VAR_0
+cl_assert,FUNC_0
+cl_assert_equal_oid,FUNC_1
+cl_git_pass,FUNC_2
+git_oid_fromstr,FUNC_3
+list_expectations,VAR_1
+note_list_cb,FUNC_4
+blob_id,VAR_2
+annotated_obj_id,VAR_3
+payload,VAR_4
+expected_note_oid,VAR_5
+expected_target_oid,VAR_6
+count,VAR_7

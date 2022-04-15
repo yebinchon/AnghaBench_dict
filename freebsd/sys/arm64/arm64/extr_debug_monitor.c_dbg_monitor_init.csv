@@ -1,0 +1,16 @@
+DBG_REG_BASE_BCR,VAR_0
+DBG_REG_BASE_BVR,VAR_1
+DBG_REG_BASE_WCR,VAR_2
+DBG_REG_BASE_WVR,VAR_3
+PCPU_GET,FUNC_0
+READ_SPECIALREG,FUNC_1
+bootverbose,VAR_4
+cpuid,VAR_5
+dbg_breakpoint_num,VAR_6
+dbg_enable,FUNC_2
+dbg_watchpoint_num,VAR_7
+dbg_wb_write_reg,FUNC_3
+id_aa64dfr0_el1,VAR_8
+printf,FUNC_4
+dbg_monitor_init,FUNC_5
+i,VAR_9

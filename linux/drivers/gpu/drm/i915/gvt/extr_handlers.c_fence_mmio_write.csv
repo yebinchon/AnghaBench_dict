@@ -1,0 +1,16 @@
+fence_num_to_offset,FUNC_0
+intel_vgpu_write_fence,FUNC_1
+mmio_hw_access_post,FUNC_2
+mmio_hw_access_pre,FUNC_3
+offset_to_fence_num,FUNC_4
+sanitize_fence_mmio_access,FUNC_5
+vgpu_vreg64,FUNC_6
+write_vreg,FUNC_7
+fence_mmio_write,FUNC_8
+vgpu,VAR_0
+off,VAR_1
+p_data,VAR_2
+bytes,VAR_3
+dev_priv,VAR_4
+fence_num,VAR_5
+ret,VAR_6

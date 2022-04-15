@@ -1,0 +1,11 @@
+LM49453_CHIP_EN,VAR_0
+LM49453_P0_PMC_SETUP_REG,VAR_1
+LM49453_PMC_SETUP_CHIP_EN,VAR_2
+regcache_sync,FUNC_0
+snd_soc_component_get_bias_level,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+snd_soc_component_update_bits,FUNC_3
+lm49453_set_bias_level,FUNC_4
+component,VAR_3
+level,VAR_4
+lm49453,VAR_5

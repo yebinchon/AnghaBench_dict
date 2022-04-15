@@ -1,0 +1,12 @@
+LIST_HEAD,FUNC_0
+fsl_edma_disable_request,FUNC_1
+head,VAR_0
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+to_fsl_edma_chan,FUNC_4
+vchan_dma_desc_free_list,FUNC_5
+vchan_get_all_descriptors,FUNC_6
+fsl_edma_terminate_all,FUNC_7
+chan,VAR_1
+fsl_chan,VAR_2
+flags,VAR_3

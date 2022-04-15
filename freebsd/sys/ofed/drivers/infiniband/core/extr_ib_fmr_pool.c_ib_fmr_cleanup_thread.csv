@@ -1,0 +1,14 @@
+TASK_INTERRUPTIBLE,VAR_0
+TASK_RUNNING,VAR_1
+__set_current_state,FUNC_0
+atomic_inc,FUNC_1
+atomic_read,FUNC_2
+ib_fmr_batch_release,FUNC_3
+kthread_should_stop,FUNC_4
+schedule,FUNC_5
+set_current_state,FUNC_6
+stub1,FUNC_7
+wake_up_interruptible,FUNC_8
+ib_fmr_cleanup_thread,FUNC_9
+pool_ptr,VAR_2
+pool,VAR_3

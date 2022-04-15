@@ -1,0 +1,17 @@
+ALWAYS_SECURE_SEARCH_PATH_SQL,VAR_0
+CONNECTION_OK,VAR_1
+PG_REPORT,VAR_2
+PQclear,FUNC_0
+PQerrorMessage,FUNC_1
+PQfinish,FUNC_2
+PQstatus,FUNC_3
+_,FUNC_4
+executeQueryOrDie,FUNC_5
+exit,FUNC_6
+get_db_conn,FUNC_7
+pg_log,FUNC_8
+printf,FUNC_9
+connectToServer,FUNC_10
+cluster,VAR_3
+db_name,VAR_4
+conn,VAR_5

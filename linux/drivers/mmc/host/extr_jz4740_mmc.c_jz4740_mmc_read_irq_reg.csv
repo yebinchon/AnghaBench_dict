@@ -1,0 +1,6 @@
+JZ_MMC_JZ4780,VAR_0
+JZ_REG_MMC_IREG,VAR_1
+readl,FUNC_0
+readw,FUNC_1
+jz4740_mmc_read_irq_reg,FUNC_2
+host,VAR_2

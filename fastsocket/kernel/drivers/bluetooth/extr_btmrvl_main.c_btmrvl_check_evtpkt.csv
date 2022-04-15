@@ -1,0 +1,13 @@
+BT_CMD_MODULE_CFG_REQ,VAR_0
+HCI_EVENT_HDR_SIZE,VAR_1
+HCI_EV_CMD_COMPLETE,VAR_2
+__le16_to_cpu,FUNC_0
+hci_opcode_ocf,FUNC_1
+wake_up_interruptible,FUNC_2
+btmrvl_check_evtpkt,FUNC_3
+priv,VAR_3
+skb,VAR_4
+hdr,VAR_5
+ec,VAR_6
+opcode,VAR_7
+ocf,VAR_8

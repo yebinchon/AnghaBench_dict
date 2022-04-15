@@ -1,0 +1,11 @@
+FS_CTX_REQUIRES_FREE_ENCRYPT_FL,VAR_0
+fscrypt_ctx_cachep,VAR_1
+fscrypt_ctx_lock,VAR_2
+fscrypt_free_ctxs,VAR_3
+kmem_cache_free,FUNC_0
+list_add,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+fscrypt_release_ctx,FUNC_4
+ctx,VAR_4
+flags,VAR_5

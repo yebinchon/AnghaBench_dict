@@ -1,0 +1,11 @@
+blk_add_trace_msg,FUNC_0
+blk_mq_init_sched,FUNC_1
+elevator_exit,FUNC_2
+elv_register_queue,FUNC_3
+elv_unregister_queue,FUNC_4
+ioc_clear_queue,FUNC_5
+lockdep_assert_held,FUNC_6
+elevator_switch_mq,FUNC_7
+q,VAR_0
+new_e,VAR_1
+ret,VAR_2

@@ -1,0 +1,14 @@
+CMD_SUBSYSTEM_COMMON,VAR_0
+OPCODE_COMMON_MODIFY_EQ_DELAY,VAR_1
+__beiscsi_eq_delay_compl,VAR_2
+beiscsi_exec_nemb_cmd,FUNC_0
+beiscsi_prep_nemb_cmd,FUNC_1
+cpu_to_le32,FUNC_2
+beiscsi_modify_eq_delay,FUNC_3
+phba,VAR_3
+set_eqd,VAR_4
+num,VAR_5
+req,VAR_6
+nonemb_cmd,VAR_7
+i,VAR_8
+rc,VAR_9

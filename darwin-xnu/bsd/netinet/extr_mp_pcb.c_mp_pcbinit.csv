@@ -1,0 +1,12 @@
+VERIFY,FUNC_0
+lck_attr_alloc_init,FUNC_1
+lck_grp_alloc_init,FUNC_2
+lck_grp_attr_alloc_init,FUNC_3
+lck_mtx_init,FUNC_4
+mp_lock,VAR_0
+mp_lock_attr,VAR_1
+mp_lock_grp,VAR_2
+mp_lock_grp_attr,VAR_3
+mp_timeout_lock,VAR_4
+mp_pcbinit,FUNC_5
+mp_initialized,VAR_5

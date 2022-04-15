@@ -1,0 +1,8 @@
+KVM_REQ_TLB_FLUSH,VAR_0
+cmpxchg,FUNC_0
+kvm_arch_flush_remote_tlb,FUNC_1
+kvm_make_all_cpus_request,FUNC_2
+smp_load_acquire,FUNC_3
+kvm_flush_remote_tlbs,FUNC_4
+kvm,VAR_1
+dirty_count,VAR_2

@@ -1,0 +1,15 @@
+ASMTYPE_TOPAZ,VAR_0
+TOPAZ_ASR_DISABLE,VAR_1
+TOPAZ_ASR_TOGGLE,VAR_2
+__asr_toggle,FUNC_0
+asr_disable_mask,VAR_3
+asr_lock,VAR_4
+asr_read_addr,VAR_5
+asr_type,VAR_6
+asr_write_addr,VAR_7
+inb,FUNC_1
+outb,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+asr_enable,FUNC_5
+reg,VAR_8

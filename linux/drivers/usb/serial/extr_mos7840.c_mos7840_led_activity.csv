@@ -1,0 +1,12 @@
+LED_ON_MS,VAR_0
+MODEM_CONTROL_REGISTER,VAR_1
+MOS7840_FLAG_LED_BUSY,VAR_2
+jiffies,VAR_3
+mod_timer,FUNC_0
+mos7840_set_led_async,FUNC_1
+msecs_to_jiffies,FUNC_2
+test_and_set_bit_lock,FUNC_3
+usb_get_serial_port_data,FUNC_4
+mos7840_led_activity,FUNC_5
+port,VAR_4
+mos7840_port,VAR_5

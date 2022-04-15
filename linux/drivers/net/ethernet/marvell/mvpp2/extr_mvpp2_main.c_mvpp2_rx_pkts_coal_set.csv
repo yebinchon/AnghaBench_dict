@@ -1,0 +1,11 @@
+MVPP2_OCCUPIED_THRESH_MASK,VAR_0
+MVPP2_RXQ_NUM_REG,VAR_1
+MVPP2_RXQ_THRESH_REG,VAR_2
+get_cpu,FUNC_0
+mvpp2_cpu_to_thread,FUNC_1
+mvpp2_thread_write,FUNC_2
+put_cpu,FUNC_3
+mvpp2_rx_pkts_coal_set,FUNC_4
+port,VAR_3
+rxq,VAR_4
+thread,VAR_5

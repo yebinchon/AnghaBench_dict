@@ -1,0 +1,16 @@
+UART_XMIT_SIZE,VAR_0
+WAKEUP_CHARS,VAR_1
+async_tx_ack,FUNC_0
+dmaengine_tx_status,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+tegra_uart_start_next_tx,FUNC_4
+uart_circ_chars_pending,FUNC_5
+uart_write_wakeup,FUNC_6
+tegra_uart_tx_dma_complete,FUNC_7
+args,VAR_2
+tup,VAR_3
+xmit,VAR_4
+state,VAR_5
+flags,VAR_6
+count,VAR_7

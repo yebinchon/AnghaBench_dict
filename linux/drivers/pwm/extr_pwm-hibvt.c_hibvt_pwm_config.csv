@@ -1,0 +1,17 @@
+PWM_CFG0_ADDR,FUNC_0
+PWM_CFG1_ADDR,FUNC_1
+PWM_DUTY_MASK,VAR_0
+PWM_PERIOD_MASK,VAR_1
+clk_get_rate,FUNC_2
+div_u64,FUNC_3
+hibvt_pwm_set_bits,FUNC_4
+to_hibvt_pwm_chip,FUNC_5
+hibvt_pwm_config,FUNC_6
+chip,VAR_2
+pwm,VAR_3
+duty_cycle_ns,VAR_4
+period_ns,VAR_5
+hi_pwm_chip,VAR_6
+freq,VAR_7
+period,VAR_8
+duty,VAR_9

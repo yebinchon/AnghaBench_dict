@@ -1,0 +1,11 @@
+DELAY,FUNC_0
+ENXIO,VAR_0
+NVME_CSTS_REG_RDY_MASK,VAR_1
+NVME_CSTS_REG_RDY_SHIFT,VAR_2
+nvme_mmio_read_4,FUNC_1
+nvme_printf,FUNC_2
+nvme_ctrlr_wait_for_ready,FUNC_3
+ctrlr,VAR_3
+desired_val,VAR_4
+ms_waited,VAR_5
+csts,VAR_6

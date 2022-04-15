@@ -1,0 +1,15 @@
+IMX_MEDIA_EOF_TIMEOUT,VAR_0
+VB2_BUF_STATE_ERROR,VAR_1
+imx7_csi_dma_unsetup_vb2_buf,FUNC_0
+imx7_csi_hw_disable_irq,FUNC_1
+imx_media_free_dma_buf,FUNC_2
+msecs_to_jiffies,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+v4l2_warn,FUNC_6
+wait_for_completion_timeout,FUNC_7
+imx7_csi_dma_stop,FUNC_8
+csi,VAR_2
+timeout_jiffies,VAR_3
+flags,VAR_4
+ret,VAR_5

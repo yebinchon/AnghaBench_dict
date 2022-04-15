@@ -1,0 +1,12 @@
+BHND_BUS_UNMAP_INTR,FUNC_0
+M_BHND,VAR_0
+SYS_RES_MEMORY,VAR_1
+bhnd_release_resource,FUNC_1
+free,FUNC_2
+nitems,FUNC_3
+resource_list_free,FUNC_4
+siba_free_dinfo,FUNC_5
+dev,VAR_2
+child,VAR_3
+dinfo,VAR_4
+i,VAR_5

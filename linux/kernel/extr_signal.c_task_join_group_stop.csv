@@ -1,0 +1,11 @@
+JOBCTL_STOP_CONSUME,VAR_0
+JOBCTL_STOP_PENDING,VAR_1
+JOBCTL_STOP_SIGMASK,VAR_2
+current,VAR_3
+task_set_jobctl_pending,FUNC_0
+task_join_group_stop,FUNC_1
+task,VAR_4
+jobctl,VAR_5
+sig,VAR_6
+signr,VAR_7
+gstop,VAR_8

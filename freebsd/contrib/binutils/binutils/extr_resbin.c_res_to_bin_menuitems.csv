@@ -1,0 +1,14 @@
+BIN_MENUITEM_POPUP_SIZE,VAR_0
+BIN_MENUITEM_SIZE,VAR_1
+MENUITEM_ENDMENU,VAR_2
+MENUITEM_POPUP,VAR_3
+set_windres_bfd_content,FUNC_0
+unicode_to_bin,FUNC_1
+windres_put_16,FUNC_2
+res_to_bin_menuitems,FUNC_3
+wrbfd,VAR_4
+off,VAR_5
+items,VAR_6
+mi,VAR_7
+bmi,VAR_8
+flags,VAR_9

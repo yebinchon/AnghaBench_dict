@@ -1,0 +1,15 @@
+DRM_ERROR,FUNC_0
+PS8622_POWER_RISE_T1_MAX_US,VAR_0
+PS8622_POWER_RISE_T1_MIN_US,VAR_1
+PS8622_RST_HIGH_T2_MAX_US,VAR_2
+PS8622_RST_HIGH_T2_MIN_US,VAR_3
+bridge_to_ps8622,FUNC_1
+drm_panel_prepare,FUNC_2
+gpiod_set_value,FUNC_3
+ps8622_send_config,FUNC_4
+regulator_enable,FUNC_5
+usleep_range,FUNC_6
+ps8622_pre_enable,FUNC_7
+bridge,VAR_4
+ps8622,VAR_5
+ret,VAR_6

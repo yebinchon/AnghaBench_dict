@@ -1,0 +1,11 @@
+i2c_smbus_write_byte_data,FUNC_0
+set_i2c_page,FUNC_1
+to_noon010,FUNC_2
+v4l2_get_subdevdata,FUNC_3
+cam_i2c_write,FUNC_4
+sd,VAR_0
+reg_addr,VAR_1
+val,VAR_2
+client,VAR_3
+info,VAR_4
+ret,VAR_5

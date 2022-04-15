@@ -1,0 +1,14 @@
+CMS_RecipientInfo_get0_pkey_ctx,FUNC_0
+CMS_RecipientInfo_kari_get0_orig_id,FUNC_1
+DH_F_DH_CMS_DECRYPT,VAR_0
+DH_R_PEER_KEY_ERROR,VAR_1
+DH_R_SHARED_INFO_ERROR,VAR_2
+DHerr,FUNC_2
+EVP_PKEY_CTX_get0_peerkey,FUNC_3
+dh_cms_set_peerkey,FUNC_4
+dh_cms_set_shared_info,FUNC_5
+dh_cms_decrypt,FUNC_6
+ri,VAR_3
+pctx,VAR_4
+alg,VAR_5
+pubkey,VAR_6

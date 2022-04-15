@@ -1,0 +1,17 @@
+ABORT,VAR_0
+COMMAND_COMPLETE,VAR_1
+DID_ABORT,VAR_2
+DID_BUS_BUSY,VAR_3
+DID_ERROR,VAR_4
+DID_OK,VAR_5
+SCSI_SENSE_BUFFERSIZE,VAR_6
+le32_to_cpu,FUNC_0
+memcpy,FUNC_1
+min_t,FUNC_2
+scsi_set_resid,FUNC_3
+u8,VAR_7
+hba_resp_task_complete,FUNC_4
+dev,VAR_8
+scsicmd,VAR_9
+err,VAR_10
+len,VAR_11

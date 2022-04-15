@@ -1,0 +1,15 @@
+JBUFFER_TRACE,FUNC_0
+T_FINISHED,VAR_0
+__buffer_unlink,FUNC_1
+__jbd2_journal_drop_transaction,FUNC_2
+jbd2_journal_free_transaction,FUNC_3
+jbd2_journal_put_journal_head,FUNC_4
+jbd2_time_diff,FUNC_5
+jiffies,VAR_1
+trace_jbd2_checkpoint_stats,FUNC_6
+__jbd2_journal_remove_checkpoint,FUNC_7
+jh,VAR_2
+stats,VAR_3
+transaction,VAR_4
+journal,VAR_5
+ret,VAR_6

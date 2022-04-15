@@ -1,0 +1,13 @@
+M_VXLAN,VAR_0
+ether_ifdetach,FUNC_0
+free,FUNC_1
+if_free,FUNC_2
+ifmedia_removeall,FUNC_3
+rm_destroy,FUNC_4
+vxlan_ftable_fini,FUNC_5
+vxlan_ftable_flush,FUNC_6
+vxlan_sysctl_destroy,FUNC_7
+vxlan_teardown,FUNC_8
+vxlan_clone_destroy,FUNC_9
+ifp,VAR_1
+sc,VAR_2

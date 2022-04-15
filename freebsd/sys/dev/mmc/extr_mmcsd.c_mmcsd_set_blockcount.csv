@@ -1,0 +1,11 @@
+MMCBUS_WAIT_FOR_REQUEST,FUNC_0
+MMC_CMD_AC,VAR_0
+MMC_RSP_R1,VAR_1
+MMC_SET_BLOCK_COUNT,VAR_2
+memset,FUNC_1
+mmcsd_set_blockcount,FUNC_2
+sc,VAR_3
+count,VAR_4
+reliable,VAR_5
+cmd,VAR_6
+req,VAR_7

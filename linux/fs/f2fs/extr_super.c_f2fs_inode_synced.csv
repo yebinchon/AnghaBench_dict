@@ -1,0 +1,17 @@
+DIRTY_META,VAR_0
+F2FS_DIRTY_IMETA,VAR_1
+F2FS_I,FUNC_0
+F2FS_I_SB,FUNC_1
+FI_AUTO_RECOVER,VAR_2
+FI_DIRTY_INODE,VAR_3
+clear_inode_flag,FUNC_2
+dec_page_count,FUNC_3
+is_inode_flag_set,FUNC_4
+list_del_init,FUNC_5
+list_empty,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+stat_dec_dirty_inode,FUNC_9
+f2fs_inode_synced,FUNC_10
+inode,VAR_4
+sbi,VAR_5

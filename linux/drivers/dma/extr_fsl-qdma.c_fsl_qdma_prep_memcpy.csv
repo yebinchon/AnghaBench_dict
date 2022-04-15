@@ -1,0 +1,12 @@
+fsl_qdma_comp_fill_memcpy,FUNC_0
+fsl_qdma_request_enqueue_desc,FUNC_1
+to_fsl_qdma_chan,FUNC_2
+vchan_tx_prep,FUNC_3
+fsl_qdma_prep_memcpy,FUNC_4
+chan,VAR_0
+dst,VAR_1
+src,VAR_2
+len,VAR_3
+flags,VAR_4
+fsl_comp,VAR_5
+fsl_chan,VAR_6

@@ -1,0 +1,13 @@
+MMC_CMD_AC,VAR_0
+MMC_RSP_R1,VAR_1
+MMC_RSP_SPI_R1,VAR_2
+MMC_SET_BLOCKLEN,VAR_3
+mmc_card_blockaddr,FUNC_0
+mmc_card_ddr52,FUNC_1
+mmc_card_hs400,FUNC_2
+mmc_card_hs400es,FUNC_3
+mmc_wait_for_cmd,FUNC_4
+mmc_set_blocklen,FUNC_5
+card,VAR_4
+blocklen,VAR_5
+cmd,VAR_6

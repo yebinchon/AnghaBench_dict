@@ -1,0 +1,17 @@
+REG1,VAR_0
+STOP_RCV_CMD,VAR_1
+eepro_clear_int,FUNC_0
+eepro_dis_int,FUNC_1
+eepro_reset,FUNC_2
+eepro_sw2bank0,FUNC_3
+eepro_sw2bank1,FUNC_4
+free_irq,FUNC_5
+inb,FUNC_6
+netdev_priv,FUNC_7
+netif_stop_queue,FUNC_8
+outb,FUNC_9
+eepro_close,FUNC_10
+dev,VAR_2
+lp,VAR_3
+ioaddr,VAR_4
+temp_reg,VAR_5

@@ -1,0 +1,12 @@
+NF_ACCEPT,VAR_0
+PF_INET6,VAR_1
+dev_net,FUNC_0
+net_ratelimit,FUNC_1
+nf_conntrack_in,FUNC_2
+printk,FUNC_3
+ipv6_conntrack_local,FUNC_4
+hooknum,VAR_2
+skb,VAR_3
+in,VAR_4
+out,VAR_5
+okfn,VAR_6

@@ -1,0 +1,16 @@
+SCU_CONFIG_REG,VAR_0
+SCU_CONFIG_REG_NCPU_MASK,VAR_1
+SCU_PHYSBASE,VAR_2
+SCU_SIZE,VAR_3
+bus_space_map,FUNC_0
+bus_space_read_4,FUNC_1
+bus_space_unmap,FUNC_2
+fdtbus_bs_tag,VAR_4
+mp_maxid,VAR_5
+mp_ncpus,VAR_6
+panic,FUNC_3
+rk30xx_mp_setmaxid,FUNC_4
+plat,VAR_7
+scu,VAR_8
+ncpu,VAR_9
+val,VAR_10

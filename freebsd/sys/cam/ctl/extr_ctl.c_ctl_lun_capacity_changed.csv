@@ -1,0 +1,14 @@
+CTL_HA_CHAN_CTL,VAR_0
+CTL_HA_MODE_XFER,VAR_1
+CTL_MSG_UA,VAR_2
+CTL_UA_CAPACITY_CHANGE,VAR_3
+M_WAITOK,VAR_4
+bzero,FUNC_0
+ctl_est_ua_all,FUNC_1
+ctl_ha_msg_send,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+ctl_lun_capacity_changed,FUNC_5
+be_lun,VAR_5
+lun,VAR_6
+msg,VAR_7

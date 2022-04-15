@@ -1,0 +1,14 @@
+HDLCD_REG_FB_BASE,VAR_0
+HDLCD_REG_FB_LINE_COUNT,VAR_1
+HDLCD_REG_FB_LINE_LENGTH,VAR_2
+HDLCD_REG_FB_LINE_PITCH,VAR_3
+drm_fb_cma_get_gem_addr,FUNC_0
+drm_rect_height,FUNC_1
+hdlcd_write,FUNC_2
+hdlcd_plane_atomic_update,FUNC_3
+plane,VAR_4
+state,VAR_5
+fb,VAR_6
+hdlcd,VAR_7
+dest_h,VAR_8
+scanout_start,VAR_9

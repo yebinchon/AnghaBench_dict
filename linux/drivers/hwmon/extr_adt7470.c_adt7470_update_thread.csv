@@ -1,0 +1,13 @@
+TASK_INTERRUPTIBLE,VAR_0
+adt7470_read_temperatures,FUNC_0
+i2c_get_clientdata,FUNC_1
+kthread_should_stop,FUNC_2
+msecs_to_jiffies,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+schedule_timeout,FUNC_6
+set_current_state,FUNC_7
+adt7470_update_thread,FUNC_8
+p,VAR_1
+client,VAR_2
+data,VAR_3

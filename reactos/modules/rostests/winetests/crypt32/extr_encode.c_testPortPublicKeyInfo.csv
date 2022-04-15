@@ -1,0 +1,16 @@
+CRYPT_DELETEKEYSET,VAR_0
+CRYPT_NEWKEYSET,VAR_1
+CryptAcquireContextA,FUNC_0
+CryptReleaseContext,FUNC_1
+GetProcessHeap,FUNC_2
+HeapFree,FUNC_3
+MS_DEF_PROV_A,VAR_2
+PROV_RSA_FULL,VAR_3
+cspName,VAR_4
+ok,FUNC_4
+testExportPublicKey,FUNC_5
+testImportPublicKey,FUNC_6
+testPortPublicKeyInfo,FUNC_7
+csp,VAR_5
+ret,VAR_6
+info,VAR_7

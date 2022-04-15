@@ -1,0 +1,13 @@
+ASSERT_EQ,FUNC_0
+POOL_add,FUNC_1
+POOL_resize,FUNC_2
+ZSTD_pthread_cond_wait,FUNC_3
+ZSTD_pthread_mutex_lock,FUNC_4
+ZSTD_pthread_mutex_unlock,FUNC_5
+waitLongFn,VAR_0
+testThreadReduction_internal,FUNC_6
+ctx,VAR_1
+test,VAR_2
+nbWaits,VAR_3
+i,VAR_4
+i,VAR_5

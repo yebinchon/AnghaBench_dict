@@ -1,0 +1,13 @@
+DS_FIND_CHILDREN,VAR_0
+DS_FIND_SNAPSHOTS,VAR_1
+ZFS_MAX_DATASET_NAME_LEN,VAR_2
+dmu_objset_find,FUNC_0
+printf,FUNC_1
+ztest_dataset_name,FUNC_2
+ztest_dsl_dataset_cleanup,FUNC_3
+ztest_objset_destroy_cb,VAR_3
+ztest_opts,VAR_4
+ztest_dataset_destroy,FUNC_4
+d,VAR_5
+name,VAR_6
+t,VAR_7

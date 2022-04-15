@@ -1,0 +1,11 @@
+dma_fence_is_i915,FUNC_0
+dma_fence_is_signaled,FUNC_1
+dma_fence_put,FUNC_2
+dma_resv_get_excl_rcu,FUNC_3
+rcu_read_lock,FUNC_4
+rcu_read_unlock,FUNC_5
+to_request,FUNC_6
+i915_gem_object_last_write_engine,FUNC_7
+obj,VAR_0
+engine,VAR_1
+fence,VAR_2

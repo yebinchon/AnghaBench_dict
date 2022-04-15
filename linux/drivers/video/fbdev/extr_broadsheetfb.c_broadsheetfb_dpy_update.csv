@@ -1,0 +1,16 @@
+BS_CMD_LD_IMG,VAR_0
+BS_CMD_LD_IMG_END,VAR_1
+BS_CMD_UPD_FULL,VAR_2
+BS_CMD_WAIT_DSPE_FREND,VAR_3
+BS_CMD_WAIT_DSPE_TRG,VAR_4
+BS_CMD_WR_REG,VAR_5
+broadsheet_burst_write,FUNC_0
+broadsheet_send_cmdargs,FUNC_1
+broadsheet_send_command,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+panel_table,VAR_6
+stub1,FUNC_5
+broadsheetfb_dpy_update,FUNC_6
+par,VAR_7
+args,VAR_8

@@ -1,0 +1,14 @@
+EPERM,VAR_0
+SET_UART_STATUS,VAR_1
+SET_UART_STATUS_TYPE,VAR_2
+SPCP825_QUIRK_NO_UART_STATUS,VAR_3
+dev_err,FUNC_0
+usb_control_msg,FUNC_1
+usb_get_serial_port_data,FUNC_2
+usb_sndctrlpipe,FUNC_3
+spcp8x5_set_ctrl_line,FUNC_4
+port,VAR_4
+mcr,VAR_5
+priv,VAR_6
+dev,VAR_7
+retval,VAR_8

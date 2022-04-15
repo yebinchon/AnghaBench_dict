@@ -1,0 +1,15 @@
+PCIR_HT_COMMAND,VAR_0
+cpcht_irqmap,VAR_1
+device_get_softc,FUNC_0
+mtx_lock_spin,FUNC_1
+mtx_unlock_spin,FUNC_2
+openpic_eoi,FUNC_3
+out32rb,FUNC_4
+out8rb,FUNC_5
+openpic_cpcht_eoi,FUNC_6
+dev,VAR_2
+irq,VAR_3
+priv,VAR_4
+sc,VAR_5
+off,VAR_6
+mask,VAR_7

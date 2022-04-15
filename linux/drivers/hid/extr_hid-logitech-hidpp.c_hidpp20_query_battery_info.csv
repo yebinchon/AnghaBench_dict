@@ -1,0 +1,14 @@
+HIDPP_PAGE_BATTERY_LEVEL_STATUS,VAR_0
+POWER_SUPPLY_STATUS_DISCHARGING,VAR_1
+POWER_SUPPLY_STATUS_FULL,VAR_2
+hidpp20_batterylevel_get_battery_capacity,FUNC_0
+hidpp20_batterylevel_get_battery_info,FUNC_1
+hidpp_root_get_feature,FUNC_2
+hidpp20_query_battery_info,FUNC_3
+hidpp,VAR_3
+feature_type,VAR_4
+ret,VAR_5
+status,VAR_6
+capacity,VAR_7
+next_capacity,VAR_8
+level,VAR_9

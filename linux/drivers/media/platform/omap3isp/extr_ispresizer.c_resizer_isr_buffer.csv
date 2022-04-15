@@ -1,0 +1,17 @@
+ISP_PIPELINE_IDLE_INPUT,VAR_0
+ISP_PIPELINE_IDLE_OUTPUT,VAR_1
+ISP_PIPELINE_STREAM_SINGLESHOT,VAR_2
+ISP_PIPELINE_STREAM_STOPPED,VAR_3
+RESIZER_INPUT_MEMORY,VAR_4
+isp_pipeline_ready,FUNC_0
+omap3isp_pipeline_set_stream,FUNC_1
+omap3isp_video_buffer_next,FUNC_2
+resizer_enable_oneshot,FUNC_3
+resizer_set_inaddr,FUNC_4
+resizer_set_outaddr,FUNC_5
+to_isp_pipeline,FUNC_6
+resizer_isr_buffer,FUNC_7
+res,VAR_5
+pipe,VAR_6
+buffer,VAR_7
+restart,VAR_8

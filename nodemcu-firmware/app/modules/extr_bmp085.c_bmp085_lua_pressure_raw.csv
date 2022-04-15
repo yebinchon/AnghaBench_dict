@@ -1,0 +1,8 @@
+bmp085_pressure_raw,FUNC_0
+luaL_checkinteger,FUNC_1
+lua_isnumber,FUNC_2
+lua_pushinteger,FUNC_3
+bmp085_lua_pressure_raw,FUNC_4
+L,VAR_0
+oss,VAR_1
+p,VAR_2

@@ -1,0 +1,17 @@
+DRM_PLANE_TYPE_PRIMARY,VAR_0
+QXL_GEM_DOMAIN_SURFACE,VAR_1
+drm_gem_object_get,FUNC_0
+drm_gem_object_put_unlocked,FUNC_1
+gem_to_qxl_bo,FUNC_2
+qxl_bo_create,FUNC_3
+qxl_bo_pin,FUNC_4
+qxl_calc_dumb_shadow,FUNC_5
+qxl_update_dumb_head,FUNC_6
+qxl_plane_prepare_fb,FUNC_7
+plane,VAR_2
+new_state,VAR_3
+qdev,VAR_4
+obj,VAR_5
+user_bo,VAR_6
+surf,VAR_7
+ret,VAR_8

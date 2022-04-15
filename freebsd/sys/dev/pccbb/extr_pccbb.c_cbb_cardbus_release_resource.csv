@@ -1,0 +1,15 @@
+BUS_RELEASE_RESOURCE,FUNC_0
+RF_ACTIVE,VAR_0
+bus_deactivate_resource,FUNC_1
+cbb_remove_res,FUNC_2
+device_get_parent,FUNC_3
+device_get_softc,FUNC_4
+rman_get_flags,FUNC_5
+cbb_cardbus_release_resource,FUNC_6
+brdev,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+res,VAR_5
+sc,VAR_6
+error,VAR_7

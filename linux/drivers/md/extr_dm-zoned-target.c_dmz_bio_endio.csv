@@ -1,0 +1,15 @@
+BLK_STS_OK,VAR_0
+DMZ_SEQ_WRITE_ERR,VAR_1
+REQ_OP_WRITE,VAR_2
+bio_endio,FUNC_0
+bio_op,FUNC_1
+dm_per_bio_data,FUNC_2
+dmz_deactivate_zone,FUNC_3
+dmz_is_seq,FUNC_4
+refcount_dec_and_test,FUNC_5
+set_bit,FUNC_6
+dmz_bio_endio,FUNC_7
+bio,VAR_3
+status,VAR_4
+bioctx,VAR_5
+zone,VAR_6

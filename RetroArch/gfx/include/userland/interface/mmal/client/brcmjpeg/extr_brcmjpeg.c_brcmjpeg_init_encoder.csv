@@ -1,0 +1,17 @@
+BRCMJPEG_SUCCESS,VAR_0
+CHECK_MMAL_STATUS,FUNC_0
+INIT,VAR_1
+LOG_DEBUG,FUNC_1
+MMAL_COMPONENT_IMAGE_ENCODE,VAR_2
+MMAL_ENCODING_JPEG,VAR_3
+MMAL_PARAMETER_EXIF_DISABLE,VAR_4
+MMAL_TRUE,VAR_5
+brcmjpeg_mmal_cb,VAR_6
+mmal_port_format_commit,FUNC_2
+mmal_port_parameter_set_boolean,FUNC_3
+mmal_wrapper_create,FUNC_4
+mmal_wrapper_port_enable,FUNC_5
+brcmjpeg_init_encoder,FUNC_6
+ctx,VAR_7
+status,VAR_8
+err,VAR_9

@@ -1,0 +1,12 @@
+AL_ETH_FWD_VID_TABLE_NUM,VAR_0
+AL_ETH_TX_VLAN_TABLE_FWD_TO_MAC,VAR_1
+AL_ETH_TX_VLAN_TABLE_UDMA_MASK,VAR_2
+AL_REG_FIELD_SET,FUNC_0
+al_assert,FUNC_1
+al_reg_write32,FUNC_2
+al_eth_tx_fwd_vid_table_set,FUNC_3
+adapter,VAR_3
+idx,VAR_4
+udma_mask,VAR_5
+fwd_to_mac,VAR_6
+val,VAR_7

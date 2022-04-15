@@ -1,0 +1,9 @@
+IB_MGMT_RMPP_STATUS_ABORT_MAX,VAR_0
+IB_MGMT_RMPP_STATUS_ABORT_MIN,VAR_1
+IB_MGMT_RMPP_STATUS_BAD_STATUS,VAR_2
+abort_send,FUNC_0
+nack_recv,FUNC_1
+process_rmpp_abort,FUNC_2
+agent,VAR_3
+mad_recv_wc,VAR_4
+rmpp_mad,VAR_5

@@ -1,0 +1,14 @@
+IXGBE_I2CCTL,VAR_0
+IXGBE_I2C_T_HIGH,VAR_1
+IXGBE_I2C_T_LOW,VAR_2
+IXGBE_READ_REG,FUNC_0
+ixgbe_i2c_start,FUNC_1
+ixgbe_i2c_stop,FUNC_2
+ixgbe_lower_i2c_clk,FUNC_3
+ixgbe_raise_i2c_clk,FUNC_4
+ixgbe_set_i2c_data,FUNC_5
+udelay,FUNC_6
+ixgbe_i2c_bus_clear,FUNC_7
+hw,VAR_3
+i2cctl,VAR_4
+i,VAR_5

@@ -1,0 +1,11 @@
+NVMET_TCP_F_INIT_FAILED,VAR_0
+msg_data_left,FUNC_0
+nvmet_prepare_receive_pdu,FUNC_1
+nvmet_req_execute,FUNC_2
+nvmet_tcp_prep_recv_ddgst,FUNC_3
+nvmet_tcp_unmap_pdu_iovec,FUNC_4
+sock_recvmsg,FUNC_5
+nvmet_tcp_try_recv_data,FUNC_6
+queue,VAR_1
+cmd,VAR_2
+ret,VAR_3

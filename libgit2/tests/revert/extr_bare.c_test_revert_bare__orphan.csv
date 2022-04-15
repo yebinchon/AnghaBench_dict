@@ -1,0 +1,16 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_commit_free,FUNC_2
+git_commit_lookup,FUNC_3
+git_index_free,FUNC_4
+git_oid_fromstr,FUNC_5
+git_revert_commit,FUNC_6
+merge_test_index,FUNC_7
+repo,VAR_0
+test_revert_bare__orphan,FUNC_8
+head_commit,VAR_1
+revert_commit,VAR_2
+head_oid,VAR_3
+revert_oid,VAR_4
+index,VAR_5
+merge_index_entries,VAR_6

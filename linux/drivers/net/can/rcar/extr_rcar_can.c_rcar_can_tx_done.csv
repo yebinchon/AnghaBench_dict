@@ -1,0 +1,17 @@
+CAN_LED_EVENT_TX,VAR_0
+RCAR_CAN_FIFO_DEPTH,VAR_1
+RCAR_CAN_ISR_TXFF,VAR_2
+RCAR_CAN_TFCR_TFUST,VAR_3
+RCAR_CAN_TFCR_TFUST_SHIFT,VAR_4
+can_get_echo_skb,FUNC_0
+can_led_event,FUNC_1
+netdev_priv,FUNC_2
+netif_wake_queue,FUNC_3
+readb,FUNC_4
+writeb,FUNC_5
+rcar_can_tx_done,FUNC_6
+ndev,VAR_5
+priv,VAR_6
+stats,VAR_7
+isr,VAR_8
+unsent,VAR_9

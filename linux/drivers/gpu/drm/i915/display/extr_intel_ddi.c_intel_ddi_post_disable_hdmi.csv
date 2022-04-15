@@ -1,0 +1,15 @@
+enc_to_dig_port,FUNC_0
+intel_ddi_clk_disable,FUNC_1
+intel_ddi_disable_pipe_clock,FUNC_2
+intel_disable_ddi_buf,FUNC_3
+intel_display_power_put_unchecked,FUNC_4
+intel_dp_dual_mode_set_tmds_output,FUNC_5
+stub1,FUNC_6
+to_i915,FUNC_7
+intel_ddi_post_disable_hdmi,FUNC_8
+encoder,VAR_0
+old_crtc_state,VAR_1
+old_conn_state,VAR_2
+dev_priv,VAR_3
+dig_port,VAR_4
+intel_hdmi,VAR_5

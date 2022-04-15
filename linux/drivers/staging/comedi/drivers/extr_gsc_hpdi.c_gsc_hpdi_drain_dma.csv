@@ -1,0 +1,16 @@
+PLX_REG_DMAPADR,FUNC_0
+TRIG_COUNT,VAR_0
+comedi_buf_write_samples,FUNC_1
+le32_to_cpu,FUNC_2
+readl,FUNC_3
+gsc_hpdi_drain_dma,FUNC_4
+dev,VAR_1
+channel,VAR_2
+devpriv,VAR_3
+s,VAR_4
+cmd,VAR_5
+idx,VAR_6
+start,VAR_7
+desc,VAR_8
+size,VAR_9
+next,VAR_10

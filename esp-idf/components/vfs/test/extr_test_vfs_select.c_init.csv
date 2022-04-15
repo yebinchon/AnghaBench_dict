@@ -1,0 +1,11 @@
+O_RDWR,VAR_0
+TEST_ASSERT_NOT_EQUAL_MESSAGE,FUNC_0
+UART1,VAR_1
+esp_vfs_dev_uart_use_driver,FUNC_1
+open,FUNC_2
+socket_init,FUNC_3
+test_case_uses_tcpip,FUNC_4
+uart1_init,FUNC_5
+init,FUNC_6
+uart_fd,VAR_2
+socket_fd,VAR_3

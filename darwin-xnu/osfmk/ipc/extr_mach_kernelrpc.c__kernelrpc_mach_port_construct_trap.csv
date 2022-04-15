@@ -1,0 +1,15 @@
+KERN_SUCCESS,VAR_0
+MACH_SEND_INVALID_DATA,VAR_1
+MACH_SEND_INVALID_DEST,VAR_2
+copyin,FUNC_0
+copyout,FUNC_1
+current_task,FUNC_2
+mach_port_construct,FUNC_3
+port_name_to_task,FUNC_4
+task_deallocate,FUNC_5
+_kernelrpc_mach_port_construct_trap,FUNC_6
+args,VAR_3
+task,VAR_4
+name,VAR_5
+rv,VAR_6
+options,VAR_7

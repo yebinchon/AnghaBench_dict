@@ -1,0 +1,10 @@
+KASSERT,FUNC_0
+MA_OWNED,VAR_0
+atomic_store_rel_int,FUNC_1
+atomic_thread_fence_acq,FUNC_2
+atomic_thread_fence_seq_cst,FUNC_3
+cpu_spinwait,FUNC_4
+mtx_assert,FUNC_5
+intr_event_barrier,FUNC_6
+ie,VAR_1
+phase,VAR_2

@@ -1,0 +1,15 @@
+BIO_flush,FUNC_0
+SSL3_RT_ALERT,VAR_0
+SSL_CB_WRITE_ALERT,VAR_1
+do_ssl3_write,FUNC_1
+stub1,FUNC_2
+ssl3_dispatch_alert,FUNC_3
+s,VAR_2
+i,VAR_3
+j,VAR_4
+alertlen,VAR_5
+cb,VAR_6
+ssl,VAR_7
+type,VAR_8
+val,VAR_9
+written,VAR_10

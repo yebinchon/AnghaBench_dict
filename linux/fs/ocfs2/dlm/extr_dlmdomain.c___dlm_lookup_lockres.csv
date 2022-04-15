@@ -1,0 +1,13 @@
+DLM_LOCK_RES_DROPPING_REF,VAR_0
+__dlm_lookup_lockres_full,FUNC_0
+assert_spin_locked,FUNC_1
+dlm_lockres_put,FUNC_2
+mlog,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+__dlm_lookup_lockres,FUNC_6
+dlm,VAR_1
+name,VAR_2
+len,VAR_3
+hash,VAR_4
+res,VAR_5

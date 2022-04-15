@@ -1,0 +1,13 @@
+D_RCVBUFREADY,VAR_0
+FLG_LOCK_ATOMIC,VAR_1
+HFCSX_SEL_D_RX,VAR_2
+debugl1,FUNC_0
+read_fifo,FUNC_1
+schedule_event,FUNC_2
+skb_queue_tail,FUNC_3
+test_and_clear_bit,FUNC_4
+test_and_set_bit,FUNC_5
+receive_dmsg,FUNC_6
+cs,VAR_3
+skb,VAR_4
+count,VAR_5

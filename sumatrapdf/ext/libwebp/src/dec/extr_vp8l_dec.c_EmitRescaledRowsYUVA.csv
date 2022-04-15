@@ -1,0 +1,15 @@
+ExportYUVA,FUNC_0
+WebPMultARGBRows,FUNC_1
+WebPRescaleNeededLines,FUNC_2
+WebPRescalerImport,FUNC_3
+assert,FUNC_4
+EmitRescaledRowsYUVA,FUNC_5
+dec,VAR_0
+in,VAR_1
+in_stride,VAR_2
+mb_h,VAR_3
+num_lines_in,VAR_4
+y_pos,VAR_5
+lines_left,VAR_6
+needed_lines,VAR_7
+lines_imported,VAR_8

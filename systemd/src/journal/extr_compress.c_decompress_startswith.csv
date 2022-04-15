@@ -1,0 +1,14 @@
+EBADMSG,VAR_0
+OBJECT_COMPRESSED_LZ4,VAR_1
+OBJECT_COMPRESSED_XZ,VAR_2
+decompress_startswith_lz4,FUNC_0
+decompress_startswith_xz,FUNC_1
+decompress_startswith,FUNC_2
+compression,VAR_3
+src,VAR_4
+src_size,VAR_5
+buffer,VAR_6
+buffer_size,VAR_7
+prefix,VAR_8
+prefix_len,VAR_9
+extra,VAR_10

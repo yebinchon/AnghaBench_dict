@@ -1,0 +1,16 @@
+INIT_LIST_HEAD,FUNC_0
+dma_async_tx_descriptor_init,FUNC_1
+ioat1_tx_submit,VAR_0
+kzalloc,FUNC_2
+memset,FUNC_3
+pci_pool_alloc,FUNC_4
+pci_pool_free,FUNC_5
+set_desc_id,FUNC_6
+unlikely,FUNC_7
+ioat_dma_alloc_descriptor,FUNC_8
+ioat,VAR_1
+flags,VAR_2
+desc,VAR_3
+desc_sw,VAR_4
+ioatdma_device,VAR_5
+phys,VAR_6

@@ -1,0 +1,14 @@
+BINLOAD_start_binloading,VAR_0
+CPU_ClrN,VAR_1
+CPU_SetN,VAR_2
+CPU_regPC,VAR_3
+CPU_regY,VAR_4
+FALSE,VAR_5
+Log_print,FUNC_0
+MEMORY_dGetWordAligned,FUNC_1
+binf,VAR_6
+fclose,FUNC_2
+fread,FUNC_3
+runBinFile,VAR_7
+Devices_H_BinReadWord,FUNC_4
+buf,VAR_8

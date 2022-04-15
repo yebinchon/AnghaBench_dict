@@ -1,0 +1,14 @@
+VF610_ADC_ADCON,VAR_0
+VF610_ADC_AIEN,VAR_1
+VF610_ADC_CONV_DISABLE,VAR_2
+VF610_REG_ADC_GC,VAR_3
+VF610_REG_ADC_HC0,VAR_4
+iio_priv,FUNC_0
+iio_triggered_buffer_predisable,FUNC_1
+readl,FUNC_2
+writel,FUNC_3
+vf610_adc_buffer_predisable,FUNC_4
+indio_dev,VAR_5
+info,VAR_6
+hc_cfg,VAR_7
+val,VAR_8

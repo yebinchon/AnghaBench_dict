@@ -1,0 +1,17 @@
+CTL_HA_CHAN_CTL,VAR_0
+CTL_HA_MODE_XFER,VAR_1
+CTL_LUN_EJECTED,VAR_2
+CTL_LUN_NO_MEDIA,VAR_3
+CTL_LUN_REMOVABLE,VAR_4
+CTL_MSG_UA,VAR_5
+CTL_UA_MEDIUM_CHANGE,VAR_6
+M_WAITOK,VAR_7
+bzero,FUNC_0
+ctl_est_ua_all,FUNC_1
+ctl_ha_msg_send,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+ctl_lun_has_media,FUNC_5
+be_lun,VAR_8
+lun,VAR_9
+msg,VAR_10

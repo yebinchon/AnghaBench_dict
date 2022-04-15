@@ -1,0 +1,13 @@
+AB8500_INTERRUPT,VAR_0
+AB8500_IT_LATCHHIER1_REG,VAR_1
+IRQ_HANDLED,VAR_2
+ab8500_handle_hierarchical_latch,FUNC_0
+dev_vdbg,FUNC_1
+get_register_interruptible,FUNC_2
+ab8500_hierarchical_irq,FUNC_3
+irq,VAR_3
+dev,VAR_4
+ab8500,VAR_5
+i,VAR_6
+status,VAR_7
+hier_val,VAR_8

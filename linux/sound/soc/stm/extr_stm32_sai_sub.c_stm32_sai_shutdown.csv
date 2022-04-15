@@ -1,0 +1,12 @@
+SAI_XIMR_MASK,VAR_0
+STM_SAI_IMR_REGX,VAR_1
+clk_disable_unprepare,FUNC_0
+regmap_update_bits,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stm32_sai_shutdown,FUNC_5
+substream,VAR_2
+cpu_dai,VAR_3
+sai,VAR_4
+flags,VAR_5

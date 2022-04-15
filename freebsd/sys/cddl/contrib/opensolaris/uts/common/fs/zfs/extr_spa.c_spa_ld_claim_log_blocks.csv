@@ -1,0 +1,15 @@
+B_FALSE,VAR_0
+B_TRUE,VAR_1
+DS_FIND_CHILDREN,VAR_2
+SPA_LOG_GOOD,VAR_3
+dmu_objset_find_dp,FUNC_0
+dmu_tx_commit,FUNC_1
+dmu_tx_create_assigned,FUNC_2
+spa_first_txg,FUNC_3
+spa_get_dsl,FUNC_4
+spa_set_log_state,FUNC_5
+zil_claim,VAR_4
+spa_ld_claim_log_blocks,FUNC_6
+spa,VAR_5
+tx,VAR_6
+dp,VAR_7

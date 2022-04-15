@@ -1,0 +1,16 @@
+BACKLIGHT_DUTY_CYCLE_MASK,VAR_0
+BLC_PWM_CPU_CTL,VAR_1
+BLC_PWM_CTL,VAR_2
+DRM_DEBUG_DRIVER,FUNC_0
+HAS_PCH_SPLIT,FUNC_1
+I915_READ,FUNC_2
+INTEL_INFO,FUNC_3
+PCI_LBPC,VAR_3
+intel_panel_compute_brightness,FUNC_4
+is_backlight_combination_mode,FUNC_5
+pci_read_config_byte,FUNC_6
+intel_panel_get_backlight,FUNC_7
+dev,VAR_4
+dev_priv,VAR_5
+val,VAR_6
+lbpc,VAR_7

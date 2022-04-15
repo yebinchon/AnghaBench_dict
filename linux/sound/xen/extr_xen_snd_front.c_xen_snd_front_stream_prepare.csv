@@ -1,0 +1,17 @@
+XENSND_OP_OPEN,VAR_0
+be_stream_do_io,FUNC_0
+be_stream_prepare_req,FUNC_1
+be_stream_wait_io,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+xen_front_pgdir_shbuf_get_dir_start,FUNC_5
+xen_snd_front_stream_prepare,FUNC_6
+evtchnl,VAR_1
+shbuf,VAR_2
+format,VAR_3
+channels,VAR_4
+rate,VAR_5
+buffer_sz,VAR_6
+period_sz,VAR_7
+req,VAR_8
+ret,VAR_9

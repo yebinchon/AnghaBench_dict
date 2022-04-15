@@ -1,0 +1,15 @@
+CONN_REMOTE_BUSY,VAR_0
+EPROTO,VAR_1
+L2CAP_RX_STATE_RECV,VAR_2
+clear_bit,FUNC_0
+l2cap_process_reqseq,FUNC_1
+l2cap_resegment,FUNC_2
+l2cap_rx_state_recv,FUNC_3
+skb_peek,FUNC_4
+skb_queue_empty,FUNC_5
+l2cap_rx_state_wait_f,FUNC_6
+chan,VAR_3
+control,VAR_4
+skb,VAR_5
+event,VAR_6
+err,VAR_7

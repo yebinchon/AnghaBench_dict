@@ -1,0 +1,12 @@
+BNXT_FLAG_PORT_STATS,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+HWRM_PORT_QSTATS,VAR_2
+bnxt_hwrm_cmd_hdr_init,FUNC_0
+cpu_to_le16,FUNC_1
+cpu_to_le64,FUNC_2
+hwrm_send_message,FUNC_3
+bnxt_hwrm_port_qstats,FUNC_4
+bp,VAR_3
+rc,VAR_4
+pf,VAR_5
+req,VAR_6

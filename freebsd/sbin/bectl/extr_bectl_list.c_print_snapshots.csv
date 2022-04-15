@@ -1,0 +1,15 @@
+be,VAR_0
+be_get_dataset_snapshots,FUNC_0
+be_prop_list_alloc,FUNC_1
+fprintf,FUNC_2
+nvlist_next_nvpair,FUNC_3
+nvpair_name,FUNC_4
+nvpair_value_nvlist,FUNC_5
+print_info,FUNC_6
+stderr,VAR_1
+print_snapshots,FUNC_7
+dsname,VAR_2
+pc,VAR_3
+cur,VAR_4
+props,VAR_5
+sprops,VAR_6

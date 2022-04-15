@@ -1,0 +1,15 @@
+ATF_REQUIRE_MSG,FUNC_0
+O_RDONLY,VAR_0
+close,FUNC_1
+memcmp,FUNC_2
+open,FUNC_3
+read,FUNC_4
+strlen,FUNC_5
+atf_utils_compare_file,FUNC_6
+name,VAR_1
+contents,VAR_2
+fd,VAR_3
+pos,VAR_4
+remaining,VAR_5
+buffer,VAR_6
+count,VAR_7

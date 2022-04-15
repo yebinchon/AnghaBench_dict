@@ -1,0 +1,9 @@
+VFE_MSG_ID_AF_OVERFLOW,VAR_0
+VFE_MSG_ID_AWB_OVERFLOW,VAR_1
+VFE_MSG_ID_AXI_ERROR,VAR_2
+VFE_MSG_ID_CAMIF_OVERFLOW,VAR_3
+vfe_send_bus_overflow_msg,FUNC_0
+vfe_send_camif_error_msg,FUNC_1
+vfe_send_msg_no_payload,FUNC_2
+vfe_process_error_irq,FUNC_3
+irqstatus,VAR_4

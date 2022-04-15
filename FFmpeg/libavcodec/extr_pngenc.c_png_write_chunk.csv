@@ -1,0 +1,15 @@
+AV_CRC_32_IEEE_LE,VAR_0
+AV_WL32,FUNC_0
+av_bswap32,FUNC_1
+av_crc,FUNC_2
+av_crc_get_table,FUNC_3
+bytestream_put_be32,FUNC_4
+memcpy,FUNC_5
+png_write_chunk,FUNC_6
+f,VAR_1
+tag,VAR_2
+buf,VAR_3
+length,VAR_4
+crc_table,VAR_5
+crc,VAR_6
+tagbuf,VAR_7

@@ -1,0 +1,9 @@
+bnxt_hwrm_do_send_msg,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+hwrm_send_message_silent,FUNC_3
+bp,VAR_0
+msg,VAR_1
+msg_len,VAR_2
+timeout,VAR_3
+rc,VAR_4

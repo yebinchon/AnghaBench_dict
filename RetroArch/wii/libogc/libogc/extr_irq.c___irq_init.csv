@@ -1,0 +1,17 @@
+CPU_MINIMUM_STACK_FRAME_SIZE,VAR_0
+CPU_STACK_ALIGNMENT,VAR_1
+IM_PI_ERROR,VAR_2
+__MaskIrq,FUNC_0
+__UnmaskIrq,FUNC_1
+__intrstack_addr,VAR_3
+__intrstack_end,VAR_4
+_piReg,VAR_5
+currIrqMask,VAR_6
+g_IRQHandler,VAR_7
+memset,FUNC_2
+mtspr,FUNC_3
+prevIrqMask,VAR_8
+__irq_init,FUNC_4
+intrStack,VAR_9
+intrStack_end,VAR_10
+irqNestingLevel,VAR_11

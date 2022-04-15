@@ -1,0 +1,16 @@
+PCI_BASE_ADDRESS_0,VAR_0
+PCI_BASE_ADDRESS_1,VAR_1
+PCI_CACHE_LINE_SIZE,VAR_2
+PCI_COMMAND,VAR_3
+PCI_INTERRUPT_LINE,VAR_4
+pci_enable_device,FUNC_0
+pci_write_config_byte,FUNC_1
+pci_write_config_dword,FUNC_2
+pci_write_config_word,FUNC_3
+qib_dev_err,FUNC_4
+qib_pcie_reenable,FUNC_5
+dd,VAR_5
+cmd,VAR_6
+iline,VAR_7
+cline,VAR_8
+r,VAR_9

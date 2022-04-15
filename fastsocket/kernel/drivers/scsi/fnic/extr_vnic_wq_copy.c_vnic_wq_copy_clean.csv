@@ -1,0 +1,11 @@
+BUG_ON,FUNC_0
+ioread32,FUNC_1
+iowrite32,FUNC_2
+vnic_dev_clear_desc_ring,FUNC_3
+vnic_wq_copy_desc_in_use,FUNC_4
+vnic_wq_copy_service,FUNC_5
+vnic_wq_copy_clean,FUNC_6
+wq,VAR_0
+q_clean,VAR_1
+wq,VAR_2
+wq_desc,VAR_3

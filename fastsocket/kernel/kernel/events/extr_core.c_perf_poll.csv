@@ -1,0 +1,15 @@
+POLL_HUP,VAR_0
+atomic_xchg,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+poll_wait,FUNC_3
+rcu_dereference,FUNC_4
+rcu_read_lock,FUNC_5
+rcu_read_unlock,FUNC_6
+ring_buffer_attach,FUNC_7
+perf_poll,FUNC_8
+file,VAR_1
+wait,VAR_2
+event,VAR_3
+rb,VAR_4
+events,VAR_5

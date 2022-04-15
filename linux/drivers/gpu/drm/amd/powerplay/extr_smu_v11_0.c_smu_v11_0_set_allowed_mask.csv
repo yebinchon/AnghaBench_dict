@@ -1,0 +1,13 @@
+SMU_FEATURE_MAX,VAR_0
+SMU_MSG_SetAllowedFeaturesMaskHigh,VAR_1
+SMU_MSG_SetAllowedFeaturesMaskLow,VAR_2
+bitmap_copy,FUNC_0
+bitmap_empty,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+smu_send_smc_msg_with_param,FUNC_4
+smu_v11_0_set_allowed_mask,FUNC_5
+smu,VAR_3
+feature,VAR_4
+ret,VAR_5
+feature_mask,VAR_6

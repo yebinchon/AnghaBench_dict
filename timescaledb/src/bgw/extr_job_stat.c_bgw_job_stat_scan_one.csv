@@ -1,0 +1,16 @@
+BGW_JOB_STAT,VAR_0
+ForwardScanDirection,VAR_1
+catalog_get_index,FUNC_0
+catalog_get_table_id,FUNC_1
+ts_catalog_get,FUNC_2
+ts_scanner_scan_one,FUNC_3
+bgw_job_stat_scan_one,FUNC_4
+indexid,VAR_2
+scankey,VAR_3
+nkeys,VAR_4
+tuple_found,VAR_5
+tuple_filter,VAR_6
+data,VAR_7
+lockmode,VAR_8
+catalog,VAR_9
+scanctx,VAR_10

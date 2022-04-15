@@ -1,0 +1,15 @@
+QLCNIC_BEACON_DISABLE,VAR_0
+QLCNIC_CMD_GET_LED_CONFIG,VAR_1
+QLC_83XX_BEACON_OFF,VAR_2
+QLC_83XX_BEACON_ON,VAR_3
+QLC_83XX_ENABLE_BEACON,VAR_4
+netdev_err,FUNC_0
+qlcnic_alloc_mbx_args,FUNC_1
+qlcnic_free_mbx_args,FUNC_2
+qlcnic_issue_cmd,FUNC_3
+qlcnic_83xx_get_beacon_state,FUNC_4
+adapter,VAR_5
+ahw,VAR_6
+cmd,VAR_7
+beacon_state,VAR_8
+err,VAR_9

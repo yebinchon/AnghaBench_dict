@@ -1,0 +1,16 @@
+HSP_HI,VAR_0
+HSSL_DVALID,VAR_1
+OUTCTR1,VAR_2
+SOCAM_HSYNC_ACTIVE_LOW,VAR_3
+SOCAM_VSYNC_ACTIVE_LOW,VAR_4
+VSP_HI,VAR_5
+VSSL_VVALID,VAR_6
+i2c_smbus_write_byte_data,FUNC_0
+soc_camera_to_subdev,FUNC_1
+v4l2_get_subdevdata,FUNC_2
+tw9910_set_bus_param,FUNC_3
+icd,VAR_7
+flags,VAR_8
+sd,VAR_9
+client,VAR_10
+val,VAR_11

@@ -1,0 +1,13 @@
+IBV_INIT_CMD_RESP,FUNC_0
+QUERY_PORT,VAR_0
+VALGRIND_MAKE_MEM_DEFINED,FUNC_1
+errno,VAR_1
+memset,FUNC_2
+write,FUNC_3
+ibv_cmd_query_port,FUNC_4
+context,VAR_2
+port_num,VAR_3
+port_attr,VAR_4
+cmd,VAR_5
+cmd_size,VAR_6
+resp,VAR_7

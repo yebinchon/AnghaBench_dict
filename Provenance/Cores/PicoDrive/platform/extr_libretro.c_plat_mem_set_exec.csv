@@ -1,0 +1,12 @@
+PAGE_EXECUTE_READWRITE,VAR_0
+PROT_EXEC,VAR_1
+PROT_READ,VAR_2
+PROT_WRITE,VAR_3
+VirtualProtect,FUNC_0
+errno,VAR_4
+lprintf,FUNC_1
+mprotect,FUNC_2
+plat_mem_set_exec,FUNC_3
+ptr,VAR_5
+size,VAR_6
+ret,VAR_7

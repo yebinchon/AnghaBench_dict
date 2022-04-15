@@ -1,0 +1,15 @@
+IIC_ENOADDR,VAR_0
+PPB_DONTWAIT,VAR_1
+device_get_parent,FUNC_0
+device_printf,FUNC_1
+lpbb_reset_bus,FUNC_2
+ppb_lock,FUNC_3
+ppb_release_bus,FUNC_4
+ppb_request_bus,FUNC_5
+ppb_unlock,FUNC_6
+lpbb_reset,FUNC_7
+dev,VAR_2
+speed,VAR_3
+addr,VAR_4
+oldaddr,VAR_5
+ppbus,VAR_6

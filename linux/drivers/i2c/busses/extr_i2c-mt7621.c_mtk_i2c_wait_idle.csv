@@ -1,0 +1,9 @@
+REG_SM0CTL1_REG,VAR_0
+SM0CTL1_TRI,VAR_1
+TIMEOUT_MS,VAR_2
+dev_dbg,FUNC_0
+readl_relaxed_poll_timeout,FUNC_1
+mtk_i2c_wait_idle,FUNC_2
+i2c,VAR_3
+ret,VAR_4
+val,VAR_5

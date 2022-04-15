@@ -1,0 +1,12 @@
+AC_JACK_PORT_COMPLEX,VAR_0
+AC_PINCAP_OUT,VAR_1
+get_defcfg_connect,FUNC_0
+get_defcfg_location,FUNC_1
+snd_hda_codec_get_pincfg,FUNC_2
+snd_hda_query_pin_caps,FUNC_3
+can_be_multiio_pin,FUNC_4
+codec,VAR_2
+location,VAR_3
+nid,VAR_4
+defcfg,VAR_5
+caps,VAR_6

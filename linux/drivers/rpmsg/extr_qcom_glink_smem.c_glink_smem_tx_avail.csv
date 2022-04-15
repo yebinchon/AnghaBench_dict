@@ -1,0 +1,10 @@
+FIFO_FULL_RESERVE,VAR_0
+TX_BLOCKED_CMD_RESERVE,VAR_1
+le32_to_cpu,FUNC_0
+to_smem_pipe,FUNC_1
+glink_smem_tx_avail,FUNC_2
+np,VAR_2
+pipe,VAR_3
+head,VAR_4
+tail,VAR_5
+avail,VAR_6

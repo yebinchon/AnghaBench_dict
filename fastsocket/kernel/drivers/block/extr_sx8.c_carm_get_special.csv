@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+WRITE,VAR_1
+blk_get_request,FUNC_0
+carm_get_request,FUNC_1
+carm_put_request,FUNC_2
+msleep,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+carm_get_special,FUNC_6
+host,VAR_2
+flags,VAR_3
+crq,VAR_4
+rq,VAR_5
+tries,VAR_6

@@ -1,0 +1,12 @@
+CMD_ACT_MESH_GET_STATS,VAR_0
+MESH_STATS_NUM,VAR_1
+lbs_mesh_access,FUNC_0
+le32_to_cpu,FUNC_1
+memset,FUNC_2
+lbs_mesh_ethtool_get_stats,FUNC_3
+dev,VAR_2
+stats,VAR_3
+data,VAR_4
+priv,VAR_5
+mesh_access,VAR_6
+ret,VAR_7

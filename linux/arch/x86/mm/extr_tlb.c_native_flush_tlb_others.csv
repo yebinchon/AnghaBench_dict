@@ -1,0 +1,16 @@
+GFP_ATOMIC,VAR_0
+NR_TLB_REMOTE_FLUSH,VAR_1
+PAGE_SHIFT,VAR_2
+TLB_FLUSH_ALL,VAR_3
+TLB_REMOTE_SEND_IPI,VAR_4
+count_vm_tlb_event,FUNC_0
+flush_tlb_func_remote,VAR_5
+is_uv_system,FUNC_1
+on_each_cpu_cond_mask,FUNC_2
+smp_call_function_many,FUNC_3
+tlb_is_not_lazy,VAR_6
+trace_tlb_flush,FUNC_4
+uv_flush_tlb_others,FUNC_5
+native_flush_tlb_others,FUNC_6
+cpumask,VAR_7
+info,VAR_8

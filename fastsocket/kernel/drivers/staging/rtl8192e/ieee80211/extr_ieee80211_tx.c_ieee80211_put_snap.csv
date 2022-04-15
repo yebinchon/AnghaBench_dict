@@ -1,0 +1,9 @@
+P802_1H_OUI,VAR_0
+RFC1042_OUI,VAR_1
+SNAP_SIZE,VAR_2
+htons,FUNC_0
+ieee80211_put_snap,FUNC_1
+data,VAR_3
+h_proto,VAR_4
+snap,VAR_5
+oui,VAR_6

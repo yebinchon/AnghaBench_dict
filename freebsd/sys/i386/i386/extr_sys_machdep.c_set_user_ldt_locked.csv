@@ -1,0 +1,17 @@
+GSEL,FUNC_0
+GUSERLDT_SEL,VAR_0
+MA_OWNED,VAR_1
+NGDT,VAR_2
+PCPU_GET,FUNC_1
+PCPU_SET,FUNC_2
+SEL_KPL,VAR_3
+cpuid,VAR_4
+currentldt,VAR_5
+dt_lock,VAR_6
+gdt,VAR_7
+lldt,FUNC_3
+mtx_assert,FUNC_4
+set_user_ldt_locked,FUNC_5
+mdp,VAR_8
+pldt,VAR_9
+gdt_idx,VAR_10

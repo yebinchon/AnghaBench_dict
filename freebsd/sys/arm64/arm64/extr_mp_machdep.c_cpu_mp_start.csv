@@ -1,0 +1,17 @@
+CPU_SET,FUNC_0
+KASSERT,FUNC_1
+MP_QUIRK_CPULIST,VAR_0
+MTX_SPIN,VAR_1
+OF_peer,FUNC_2
+all_cpus,VAR_2
+ap_boot_mtx,VAR_3
+arm64_bus_method,VAR_4
+cpu0,VAR_5
+cpu_init_acpi,FUNC_3
+cpu_init_fdt,VAR_6
+fdt_quirks,VAR_7
+mp_quirks,VAR_8
+mtx_init,FUNC_4
+ofw_bus_node_is_compatible,FUNC_5
+ofw_cpu_early_foreach,FUNC_6
+cpu_mp_start,FUNC_7

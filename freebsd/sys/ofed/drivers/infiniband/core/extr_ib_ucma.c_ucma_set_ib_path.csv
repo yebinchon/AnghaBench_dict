@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+IB_PATH_BIDIRECTIONAL,VAR_1
+IB_PATH_GMP,VAR_2
+IB_PATH_PRIMARY,VAR_3
+RDMA_CM_EVENT_ROUTE_RESOLVED,VAR_4
+ib_sa_unpack_path,FUNC_0
+memset,FUNC_1
+rdma_set_ib_paths,FUNC_2
+ucma_event_handler,FUNC_3
+ucma_set_ib_path,FUNC_4
+ctx,VAR_5
+path_data,VAR_6
+optlen,VAR_7
+sa_path,VAR_8
+event,VAR_9
+ret,VAR_10

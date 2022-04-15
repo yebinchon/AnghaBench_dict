@@ -1,0 +1,15 @@
+hlist_add_head_rcu,FUNC_0
+kvmppc_mmu_hash_pte,FUNC_1
+kvmppc_mmu_hash_pte_long,FUNC_2
+kvmppc_mmu_hash_vpte,FUNC_3
+kvmppc_mmu_hash_vpte_64k,FUNC_4
+kvmppc_mmu_hash_vpte_long,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+to_book3s,FUNC_8
+trace_kvm_book3s_mmu_map,FUNC_9
+kvmppc_mmu_hpte_cache_map,FUNC_10
+vcpu,VAR_0
+pte,VAR_1
+index,VAR_2
+vcpu3s,VAR_3

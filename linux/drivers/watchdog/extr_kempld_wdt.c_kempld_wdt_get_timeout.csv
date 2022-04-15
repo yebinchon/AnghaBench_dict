@@ -1,0 +1,17 @@
+KEMPLD_WDT_STAGE_CFG,FUNC_0
+KEMPLD_WDT_STAGE_TIMEOUT,FUNC_1
+STAGE_CFG_GET_PRESCALER,FUNC_2
+WARN_ON_ONCE,FUNC_3
+do_div,FUNC_4
+kempld_prescaler,VAR_0
+kempld_read32,FUNC_5
+kempld_read8,FUNC_6
+kempld_wdt_get_timeout,FUNC_7
+wdt_data,VAR_1
+stage,VAR_2
+pld,VAR_3
+timeout,VAR_4
+stage_timeout,VAR_5
+prescaler,VAR_6
+remainder,VAR_7
+stage_cfg,VAR_8

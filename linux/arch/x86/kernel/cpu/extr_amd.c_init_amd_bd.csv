@@ -1,0 +1,7 @@
+MSR_F15H_IC_CFG,VAR_0
+clear_rdrand_cpuid_bit,FUNC_0
+rdmsrl_safe,FUNC_1
+wrmsrl_safe,FUNC_2
+init_amd_bd,FUNC_3
+c,VAR_1
+value,VAR_2

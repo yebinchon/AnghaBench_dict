@@ -1,0 +1,15 @@
+DISKFLAG_OPEN,VAR_0
+EBUSY,VAR_1
+MFI_DISK_FLAGS_OPEN,VAR_2
+M_MFIBUF,VAR_3
+TAILQ_REMOVE,FUNC_0
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+disk_destroy,FUNC_3
+free,FUNC_4
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+pd_link,VAR_4
+mfi_syspd_detach,FUNC_7
+dev,VAR_5
+sc,VAR_6

@@ -1,0 +1,9 @@
+MPU401_MODE_INPUT_TIMER,VAR_0
+MPU401_MODE_OUTPUT_TIMER,VAR_1
+del_timer,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+snd_mpu401_uart_remove_timer,FUNC_3
+mpu,VAR_2
+input,VAR_3
+flags,VAR_4

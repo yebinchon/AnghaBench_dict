@@ -1,0 +1,16 @@
+NECP_CLIENT_PARAMETER_FLAG_LISTENER,VAR_0
+NECP_CLIENT_RESULT_FLAG_ALLOW_QOS_MARKING,VAR_1
+NECP_PARSED_PARAMETERS_FIELD_EFFECTIVE_PID,VAR_2
+VERIFY,FUNC_0
+memcpy,FUNC_1
+necp_buffer_get_tlv_value,FUNC_2
+necp_client_parse_parameters,FUNC_3
+uuid_copy,FUNC_4
+necp_client_copy_parameters_locked,FUNC_5
+client,VAR_3
+parameters,VAR_4
+parsed_parameters,VAR_5
+error,VAR_6
+client_result_flags,VAR_7
+value_size,VAR_8
+flags_pointer,VAR_9

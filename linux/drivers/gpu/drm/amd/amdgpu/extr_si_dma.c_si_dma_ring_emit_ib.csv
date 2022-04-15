@@ -1,0 +1,14 @@
+AMDGPU_JOB_GET_VMID,FUNC_0
+DMA_IB_PACKET,FUNC_1
+DMA_PACKET,FUNC_2
+DMA_PACKET_INDIRECT_BUFFER,VAR_0
+DMA_PACKET_NOP,VAR_1
+amdgpu_ring_write,FUNC_3
+lower_32_bits,FUNC_4
+upper_32_bits,FUNC_5
+si_dma_ring_emit_ib,FUNC_6
+ring,VAR_2
+job,VAR_3
+ib,VAR_4
+flags,VAR_5
+vmid,VAR_6

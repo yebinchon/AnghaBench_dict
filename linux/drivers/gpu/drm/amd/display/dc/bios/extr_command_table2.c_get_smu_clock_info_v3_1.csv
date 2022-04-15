@@ -1,0 +1,9 @@
+EXEC_BIOS_CMD_TABLE,FUNC_0
+GET_SMU_CLOCK_INFO_V3_1_GET_PLLVCO_FREQ,VAR_0
+getsmuclockinfo,VAR_1
+memmove,FUNC_1
+get_smu_clock_info_v3_1,FUNC_2
+bp,VAR_2
+id,VAR_3
+smu_input,VAR_4
+smu_output,VAR_5

@@ -1,0 +1,11 @@
+EVTCHN_RING_MASK,FUNC_0
+EVTCHN_RING_SIZE,VAR_0
+mtx_lock,FUNC_1
+mtx_unlock,FUNC_2
+selwakeup,FUNC_3
+wakeup,FUNC_4
+wmb,FUNC_5
+evtchn_interrupt,FUNC_6
+arg,VAR_1
+evtchn,VAR_2
+u,VAR_3

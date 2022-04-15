@@ -1,0 +1,15 @@
+ACK_COMPLETE,VAR_0
+ACK_PENDING,VAR_1
+HEADER_GET_OFFSET_HIGH,FUNC_0
+HEADER_GET_TCODE,FUNC_1
+TCODE_IS_LINK_INTERNAL,FUNC_2
+allocate_request,FUNC_3
+fw_cdev_handle_phy_packet,FUNC_4
+handle_exclusive_region_request,FUNC_5
+handle_fcp_region_request,FUNC_6
+is_in_fcp_region,FUNC_7
+fw_core_handle_request,FUNC_8
+card,VAR_2
+p,VAR_3
+request,VAR_4
+offset,VAR_5

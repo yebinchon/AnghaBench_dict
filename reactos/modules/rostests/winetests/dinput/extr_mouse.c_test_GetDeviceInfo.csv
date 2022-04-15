@@ -1,0 +1,15 @@
+FAILED,FUNC_0
+GUID_SysMouse,VAR_0
+IDirectInputDevice_GetDeviceInfo,FUNC_1
+IDirectInput_CreateDevice,FUNC_2
+IUnknown_Release,FUNC_3
+IsEqualGUID,FUNC_4
+SUCCEEDED,FUNC_5
+ok,FUNC_6
+wine_dbgstr_guid,FUNC_7
+test_GetDeviceInfo,FUNC_8
+pDI,VAR_1
+hr,VAR_2
+pMouse,VAR_3
+instA,VAR_4
+inst3A,VAR_5

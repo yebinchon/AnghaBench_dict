@@ -1,0 +1,13 @@
+KERN_NOT_DEPRESSED,VAR_0
+TH_SFLAG_DEPRESSED_MASK,VAR_1
+TH_SFLAG_POLLDEPRESS,VAR_2
+assert,FUNC_0
+splsched,FUNC_1
+splx,FUNC_2
+thread_depress_abort_locked,FUNC_3
+thread_lock,FUNC_4
+thread_unlock,FUNC_5
+thread_depress_abort,FUNC_6
+thread,VAR_3
+result,VAR_4
+s,VAR_5

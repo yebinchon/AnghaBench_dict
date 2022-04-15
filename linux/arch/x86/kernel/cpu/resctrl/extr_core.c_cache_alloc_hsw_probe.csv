@@ -1,0 +1,12 @@
+BIT_MASK,FUNC_0
+MSR_IA32_L3_CBM_BASE,VAR_0
+RDT_RESOURCE_L3,VAR_1
+rdmsr,FUNC_1
+rdt_alloc_capable,VAR_2
+rdt_resources_all,VAR_3
+wrmsr_safe,FUNC_2
+cache_alloc_hsw_probe,FUNC_3
+r,VAR_4
+l,VAR_5
+h,VAR_6
+max_cbm,VAR_7

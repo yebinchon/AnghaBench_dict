@@ -1,0 +1,13 @@
+USB_CTRL_GET_TIMEOUT,VAR_0
+USB_DIR_IN,VAR_1
+USB_RECIP_OTHER,VAR_2
+USB_TYPE_VENDOR,VAR_3
+usb_control_msg,FUNC_0
+usb_rcvctrlpipe,FUNC_1
+vendor_command,FUNC_2
+dev,VAR_4
+request,VAR_5
+value,VAR_6
+index,VAR_7
+buf,VAR_8
+size,VAR_9

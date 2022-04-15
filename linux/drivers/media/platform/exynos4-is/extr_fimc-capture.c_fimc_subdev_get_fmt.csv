@@ -1,0 +1,15 @@
+V4L2_COLORSPACE_JPEG,VAR_0
+V4L2_SUBDEV_FORMAT_TRY,VAR_1
+WARN_ON,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+v4l2_get_subdevdata,FUNC_3
+v4l2_subdev_get_try_format,FUNC_4
+fimc_subdev_get_fmt,FUNC_5
+sd,VAR_2
+cfg,VAR_3
+fmt,VAR_4
+fimc,VAR_5
+ctx,VAR_6
+ff,VAR_7
+mf,VAR_8

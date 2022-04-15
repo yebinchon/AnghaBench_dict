@@ -1,0 +1,13 @@
+APIC_BUS_CYCLE_NS,VAR_0
+APIC_TMICT,VAR_1
+ktime_add_ns,FUNC_0
+ktime_get,FUNC_1
+kvm_lapic_get_reg,FUNC_2
+kvm_read_l1_tsc,FUNC_3
+limit_periodic_timer_frequency,FUNC_4
+nsec_to_cycles,FUNC_5
+rdtsc,FUNC_6
+set_target_expiration,FUNC_7
+apic,VAR_2
+now,VAR_3
+tscl,VAR_4

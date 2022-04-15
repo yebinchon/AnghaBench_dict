@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+BooleanFlagOn,FUNC_1
+DPRINT,FUNC_2
+InsertTailList,FUNC_3
+KeAcquireSpinLock,FUNC_4
+KeReleaseSpinLock,FUNC_5
+RX_TOPLEVELCTX_FLAG_FROM_POOL,VAR_0
+RX_TOPLEVELIRP_CONTEXT_SIGNATURE,VAR_1
+TopLevelIrpAllocatedContextsList,VAR_2
+TopLevelIrpSpinLock,VAR_3
+RxAddToTopLevelIrpAllocatedContextsList,FUNC_6
+TopLevelContext,VAR_4
+OldIrql,VAR_5

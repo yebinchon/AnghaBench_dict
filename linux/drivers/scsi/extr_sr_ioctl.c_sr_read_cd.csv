@@ -1,0 +1,14 @@
+DMA_FROM_DEVICE,VAR_0
+GPCMD_READ_CD,VAR_1
+IOCTL_TIMEOUT,VAR_2
+KERN_INFO,VAR_3
+memset,FUNC_0
+sr_do_ioctl,FUNC_1
+sr_printk,FUNC_2
+sr_read_cd,FUNC_3
+cd,VAR_4
+dest,VAR_5
+lba,VAR_6
+format,VAR_7
+blksize,VAR_8
+cgc,VAR_9

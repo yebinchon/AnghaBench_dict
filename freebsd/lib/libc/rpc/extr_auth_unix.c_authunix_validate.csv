@@ -1,0 +1,15 @@
+AUTH_PRIVATE,FUNC_0
+AUTH_SHORT,VAR_0
+TRUE,VAR_1
+XDR_DECODE,VAR_2
+XDR_FREE,VAR_3
+assert,FUNC_1
+marshal_new_auth,FUNC_2
+mem_free,FUNC_3
+xdr_opaque_auth,FUNC_4
+xdrmem_create,FUNC_5
+authunix_validate,FUNC_6
+auth,VAR_4
+verf,VAR_5
+au,VAR_6
+xdrs,VAR_7

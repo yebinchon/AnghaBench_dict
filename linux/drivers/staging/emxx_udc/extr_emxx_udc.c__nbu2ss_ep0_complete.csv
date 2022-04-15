@@ -1,0 +1,17 @@
+USB_DEVICE_TEST_MODE,VAR_0
+USB_RECIP_DEVICE,VAR_1
+USB_RECIP_MASK,VAR_2
+USB_REQ_SET_FEATURE,VAR_3
+USB_TYPE_MASK,VAR_4
+USB_TYPE_STANDARD,VAR_5
+_nbu2ss_set_test_mode,FUNC_0
+le16_to_cpu,FUNC_1
+_nbu2ss_ep0_complete,FUNC_2
+_ep,VAR_6
+_req,VAR_7
+recipient,VAR_8
+selector,VAR_9
+wIndex,VAR_10
+test_mode,VAR_11
+p_ctrl,VAR_12
+udc,VAR_13

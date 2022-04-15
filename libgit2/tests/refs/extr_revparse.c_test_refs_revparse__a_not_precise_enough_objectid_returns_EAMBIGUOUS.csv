@@ -1,0 +1,15 @@
+GIT_EAMBIGUOUS,VAR_0
+cl_git_fail_with,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_git_sandbox_cleanup,FUNC_3
+cl_git_sandbox_init,FUNC_4
+git_index_add_bypath,FUNC_5
+git_index_free,FUNC_6
+git_object_free,FUNC_7
+git_repository_index,FUNC_8
+git_revparse_single,FUNC_9
+test_refs_revparse__a_not_precise_enough_objectid_returns_EAMBIGUOUS,FUNC_10
+repo,VAR_1
+index,VAR_2
+obj,VAR_3

@@ -1,0 +1,15 @@
+CPU_CLR,FUNC_0
+CPU_CMP,FUNC_1
+CPU_ISSET,FUNC_2
+CPU_SET,FUNC_3
+debug,FUNC_4
+gdb_finish_suspend_vcpus,FUNC_5
+gdb_lock,VAR_0
+idle_vcpus,VAR_1
+pthread_cond_wait,FUNC_6
+stepping_vcpu,VAR_2
+vcpus_suspended,VAR_3
+vcpus_waiting,VAR_4
+_gdb_cpu_suspend,FUNC_7
+vcpu,VAR_5
+report_stop,VAR_6

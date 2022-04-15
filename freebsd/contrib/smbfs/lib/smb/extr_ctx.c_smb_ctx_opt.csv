@@ -1,0 +1,17 @@
+SMBCF_NOPWD,VAR_0
+SMBCF_SRIGHTS,VAR_1
+atoi,FUNC_0
+free,FUNC_1
+smb_ctx_setsrvaddr,FUNC_2
+smb_ctx_setworkgroup,FUNC_3
+smb_parse_owner,FUNC_4
+strchr,FUNC_5
+strdup,FUNC_6
+strtol,FUNC_7
+smb_ctx_opt,FUNC_8
+ctx,VAR_2
+opt,VAR_3
+arg,VAR_4
+error,VAR_5
+p,VAR_6
+cp,VAR_7

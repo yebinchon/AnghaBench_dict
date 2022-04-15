@@ -1,0 +1,15 @@
+IB_7220_SERDES,VAR_0
+IB_MPREG6,VAR_1
+QLOGIC_IB_HWE_IB_UC_MEMORYPARITYERR,VAR_2
+UC_PAR_CLR_D,VAR_3
+UC_PAR_CLR_M,VAR_4
+kr_hwerrclear,VAR_5
+kr_scratch,VAR_6
+qib_dev_err,FUNC_0
+qib_read_kreg32,FUNC_1
+qib_sd7220_reg_mod,FUNC_2
+qib_write_kreg,FUNC_3
+udelay,FUNC_4
+qib_sd7220_clr_ibpar,FUNC_5
+dd,VAR_7
+ret,VAR_8

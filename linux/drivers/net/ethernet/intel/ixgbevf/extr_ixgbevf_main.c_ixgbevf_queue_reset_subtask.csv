@@ -1,0 +1,15 @@
+__IXGBEVF_DOWN,VAR_0
+__IXGBEVF_QUEUE_RESET_REQUESTED,VAR_1
+__IXGBEVF_RESETTING,VAR_2
+ixgbevf_clear_interrupt_scheme,FUNC_0
+ixgbevf_close,FUNC_1
+ixgbevf_init_interrupt_scheme,FUNC_2
+ixgbevf_open,FUNC_3
+netif_running,FUNC_4
+rtnl_lock,FUNC_5
+rtnl_unlock,FUNC_6
+test_and_clear_bit,FUNC_7
+test_bit,FUNC_8
+ixgbevf_queue_reset_subtask,FUNC_9
+adapter,VAR_3
+dev,VAR_4

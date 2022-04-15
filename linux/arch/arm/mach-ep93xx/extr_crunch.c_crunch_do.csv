@@ -1,0 +1,17 @@
+EP93XX_SYSCON_DEVCFG,VAR_0
+EP93XX_SYSCON_DEVCFG_CPENA,VAR_1
+EP93XX_SYSCON_SWLOCK,VAR_2
+NOTIFY_DONE,VAR_3
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+crunch_enabled,FUNC_2
+crunch_owner,VAR_4
+crunch_task_release,FUNC_3
+memset,FUNC_4
+crunch_do,FUNC_5
+self,VAR_5
+cmd,VAR_6
+t,VAR_7
+thread,VAR_8
+crunch_state,VAR_9
+devcfg,VAR_10

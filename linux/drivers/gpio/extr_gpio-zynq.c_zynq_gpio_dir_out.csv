@@ -1,0 +1,16 @@
+BIT,FUNC_0
+ZYNQ_GPIO_DIRM_OFFSET,FUNC_1
+ZYNQ_GPIO_OUTEN_OFFSET,FUNC_2
+gpiochip_get_data,FUNC_3
+readl_relaxed,FUNC_4
+writel_relaxed,FUNC_5
+zynq_gpio_get_bank_pin,FUNC_6
+zynq_gpio_set_value,FUNC_7
+zynq_gpio_dir_out,FUNC_8
+chip,VAR_0
+pin,VAR_1
+state,VAR_2
+reg,VAR_3
+bank_num,VAR_4
+bank_pin_num,VAR_5
+gpio,VAR_6

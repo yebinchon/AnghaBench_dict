@@ -1,0 +1,14 @@
+BIT,FUNC_0
+E1000_RCTL_EN,VAR_0
+E1000_RXDCTL_THRESH_UNIT_DESC,VAR_1
+RCTL,VAR_2
+RXDCTL,FUNC_1
+e1e_flush,FUNC_2
+er32,FUNC_3
+ew32,FUNC_4
+usleep_range,FUNC_5
+e1000_flush_rx_ring,FUNC_6
+adapter,VAR_3
+rctl,VAR_4
+rxdctl,VAR_5
+hw,VAR_6

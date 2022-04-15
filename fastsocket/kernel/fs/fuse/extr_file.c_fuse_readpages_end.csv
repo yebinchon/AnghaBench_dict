@@ -1,0 +1,16 @@
+SetPageError,FUNC_0
+SetPageUptodate,FUNC_1
+fuse_file_put,FUNC_2
+fuse_invalidate_attr,FUNC_3
+fuse_read_update_size,FUNC_4
+page_offset,FUNC_5
+unlock_page,FUNC_6
+fuse_readpages_end,FUNC_7
+fc,VAR_0
+req,VAR_1
+i,VAR_2
+count,VAR_3
+num_read,VAR_4
+inode,VAR_5
+pos,VAR_6
+page,VAR_7

@@ -1,0 +1,8 @@
+del_timer_sync,FUNC_0
+destroy_workqueue,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+timer_pending,FUNC_4
+i40iw_cleanup_cm_core,FUNC_5
+cm_core,VAR_0
+flags,VAR_1

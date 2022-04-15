@@ -1,0 +1,16 @@
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+memset,FUNC_2
+rdma_ah_find_type,FUNC_3
+rdma_ah_set_dgid_raw,FUNC_4
+rdma_ah_set_dlid,FUNC_5
+rdma_ah_set_grh,FUNC_6
+rdma_ah_set_path_bits,FUNC_7
+rdma_ah_set_port_num,FUNC_8
+rdma_ah_set_sl,FUNC_9
+rdma_ah_set_static_rate,FUNC_10
+to_rdma_ah_attr,FUNC_11
+ibdev,VAR_0
+ah_attr,VAR_1
+path,VAR_2
+tc_fl,VAR_3

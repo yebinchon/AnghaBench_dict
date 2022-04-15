@@ -1,0 +1,11 @@
+DiskInt13ExtensionsSupported,FUNC_0
+PcDiskReadLogicalSectorsCHS,FUNC_1
+PcDiskReadLogicalSectorsLBA,FUNC_2
+TRACE,FUNC_3
+TRUE,VAR_0
+PcDiskReadLogicalSectors,FUNC_4
+DriveNumber,VAR_1
+SectorNumber,VAR_2
+SectorCount,VAR_3
+Buffer,VAR_4
+ExtensionsSupported,VAR_5

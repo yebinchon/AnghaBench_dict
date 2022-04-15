@@ -1,0 +1,15 @@
+EV_SND,VAR_0
+PIT_TICK_RATE,VAR_1
+i8253_lock,VAR_2
+inb_p,FUNC_0
+outb,FUNC_1
+outb_p,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+pcspkr_event,FUNC_5
+dev,VAR_3
+type,VAR_4
+code,VAR_5
+value,VAR_6
+count,VAR_7
+flags,VAR_8

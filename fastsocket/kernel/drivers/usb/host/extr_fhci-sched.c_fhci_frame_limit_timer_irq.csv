@@ -1,0 +1,15 @@
+FRAME_IS_TRANSMITTED,VAR_0
+FRAME_TIMER_END_TRANSMISSION,VAR_1
+IRQ_HANDLED,VAR_2
+fhci_push_dummy_bd,FUNC_0
+fhci_schedule_transactions,FUNC_1
+gtm_set_exact_timer16,FUNC_2
+hcd_to_fhci,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+fhci_frame_limit_timer_irq,FUNC_6
+irq,VAR_3
+_hcd,VAR_4
+hcd,VAR_5
+fhci,VAR_6
+usb,VAR_7

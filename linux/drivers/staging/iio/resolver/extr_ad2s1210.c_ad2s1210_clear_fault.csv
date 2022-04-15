@@ -1,0 +1,16 @@
+AD2S1210_REG_FAULT,VAR_0
+AD2S1210_SAMPLE,VAR_1
+ad2s1210_config_read,FUNC_0
+dev_to_iio_dev,FUNC_1
+gpiod_set_value,FUNC_2
+iio_priv,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+udelay,FUNC_6
+ad2s1210_clear_fault,FUNC_7
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+len,VAR_5
+st,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+MAX_AGG_QS,FUNC_0
+M_DEVBUF,VAR_0
+RX_BD_TOTAL,VAR_1
+RX_SGE_TOTAL,VAR_2
+TX_BD_TOTAL,VAR_3
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_destroy,FUNC_2
+bus_dmamap_unload,FUNC_3
+bxe_dma_free,FUNC_4
+free,FUNC_5
+memset,FUNC_6
+bxe_free_hsi_mem,FUNC_7
+sc,VAR_4
+fp,VAR_5
+max_agg_queues,VAR_6
+i,VAR_7
+j,VAR_8

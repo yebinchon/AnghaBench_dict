@@ -1,0 +1,12 @@
+C_CRTSCTS,FUNC_0
+OOB_RX_THROTTLE,VAR_0
+TIOCM_RTS,VAR_1
+__fwtty_write_port_status,FUNC_1
+spin_lock_bh,FUNC_2
+spin_unlock_bh,FUNC_3
+tty_kref_put,FUNC_4
+tty_port_tty_get,FUNC_5
+fwtty_throttle_port,FUNC_6
+port,VAR_2
+tty,VAR_3
+old,VAR_4

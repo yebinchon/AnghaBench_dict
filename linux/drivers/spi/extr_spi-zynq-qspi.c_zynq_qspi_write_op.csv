@@ -1,0 +1,11 @@
+ZYNQ_QSPI_TXD_00_00_OFFSET,VAR_0
+iowrite32_rep,FUNC_0
+writel_relaxed,FUNC_1
+zynq_qspi_txfifo_op,FUNC_2
+zynq_qspi_write_op,FUNC_3
+xqspi,VAR_1
+txcount,VAR_2
+txempty,VAR_3
+count,VAR_4
+len,VAR_5
+k,VAR_6

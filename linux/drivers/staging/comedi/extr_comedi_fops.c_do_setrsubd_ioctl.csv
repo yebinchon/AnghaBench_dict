@@ -1,0 +1,14 @@
+CMDF_WRITE,VAR_0
+EBUSY,VAR_1
+EINVAL,VAR_2
+SDF_CMD_READ,VAR_3
+WRITE_ONCE,FUNC_0
+comedi_file_read_subdevice,FUNC_1
+lockdep_assert_held,FUNC_2
+do_setrsubd_ioctl,FUNC_3
+dev,VAR_4
+arg,VAR_5
+file,VAR_6
+cfp,VAR_7
+s_old,VAR_8
+s_new,VAR_9

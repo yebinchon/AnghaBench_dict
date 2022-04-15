@@ -1,0 +1,15 @@
+BIT,FUNC_0
+SMMU_ASID_ENABLE,VAR_0
+SMMU_ASID_MASK,VAR_1
+SMMU_ASID_VALUE,FUNC_1
+smmu_readl,FUNC_2
+smmu_writel,FUNC_3
+tegra_smmu_find_swgroup,FUNC_4
+tegra_smmu_enable,FUNC_5
+smmu,VAR_2
+swgroup,VAR_3
+asid,VAR_4
+group,VAR_5
+i,VAR_6
+value,VAR_7
+client,VAR_8

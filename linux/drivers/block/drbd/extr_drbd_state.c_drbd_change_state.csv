@@ -1,0 +1,13 @@
+_drbd_set_state,FUNC_0
+apply_mask_val,FUNC_1
+drbd_read_state,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+drbd_change_state,FUNC_5
+device,VAR_0
+f,VAR_1
+mask,VAR_2
+val,VAR_3
+flags,VAR_4
+ns,VAR_5
+rv,VAR_6

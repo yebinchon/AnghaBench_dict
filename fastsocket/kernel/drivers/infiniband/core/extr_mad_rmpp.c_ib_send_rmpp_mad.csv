@@ -1,0 +1,12 @@
+IB_MGMT_RMPP_FLAG_ACTIVE,VAR_0
+IB_MGMT_RMPP_TYPE_DATA,VAR_1
+IB_RMPP_RESULT_CONSUMED,VAR_2
+IB_RMPP_RESULT_INTERNAL,VAR_3
+IB_RMPP_RESULT_UNHANDLED,VAR_4
+ib_get_rmpp_flags,FUNC_0
+init_newwin,FUNC_1
+send_next_seg,FUNC_2
+ib_send_rmpp_mad,FUNC_3
+mad_send_wr,VAR_5
+rmpp_mad,VAR_6
+ret,VAR_7

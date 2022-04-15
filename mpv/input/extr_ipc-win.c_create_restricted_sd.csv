@@ -1,0 +1,12 @@
+ConvertStringSecurityDescriptorToSecurityDescriptorA,FUNC_0
+LocalFree,FUNC_1
+SDDL_REVISION_1,VAR_0
+get_integrity_sid,FUNC_2
+get_user_sid,FUNC_3
+talloc_asprintf,FUNC_4
+talloc_free,FUNC_5
+create_restricted_sd,FUNC_6
+user_sid,VAR_1
+integrity_sid,VAR_2
+sddl,VAR_3
+sd,VAR_4

@@ -1,0 +1,12 @@
+ETH_ALEN,VAR_0
+EVENT_PEER_STATE_CHANGED,VAR_1
+foreach_fst_ctrl_call,FUNC_0
+fst_iface_get_name,FUNC_1
+on_event,VAR_2
+os_memcpy,FUNC_2
+os_strlcpy,FUNC_3
+fst_ctrl_iface_notify_peer_state_change,FUNC_4
+iface,VAR_3
+connected,VAR_4
+peer_addr,VAR_5
+extra,VAR_6

@@ -1,0 +1,17 @@
+DIEPCTL,FUNC_0
+DXEPCTL_SETEVENFR,VAR_0
+DXEPCTL_SETODDFR,VAR_1
+TARGET_FRAME_INITIAL,VAR_2
+dwc2_gadget_dec_frame_num_by_one,FUNC_1
+dwc2_gadget_incr_frame_num,FUNC_2
+dwc2_gadget_start_isoc_ddma,FUNC_3
+dwc2_hsotg_complete_request,FUNC_4
+dwc2_readl,FUNC_5
+dwc2_writel,FUNC_6
+get_ep_head,FUNC_7
+using_desc_dma,FUNC_8
+dwc2_gadget_handle_nak,FUNC_9
+hs_ep,VAR_3
+hsotg,VAR_4
+dir_in,VAR_5
+ctrl,VAR_6

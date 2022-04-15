@@ -1,0 +1,13 @@
+LRADC_CTRL0,VAR_0
+LRADC_SAMPLE_Y,VAR_1
+STMP_OFFSET_REG_CLR,VAR_2
+STMP_OFFSET_REG_SET,VAR_3
+TOUCHSCREEN_VCHANNEL1,VAR_4
+TS_CH_XM,VAR_5
+info,VAR_6
+mxs_lradc_map_ts_channel,FUNC_0
+mxs_lradc_setup_ts_channel,FUNC_1
+writel,FUNC_2
+mxs_lradc_prepare_y_pos,FUNC_3
+ts,VAR_7
+lradc,VAR_8

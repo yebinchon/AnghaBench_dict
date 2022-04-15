@@ -1,0 +1,15 @@
+KVMPPC_IRQ_DEFAULT,VAR_0
+KVMPPC_XIVE_Q_COUNT,VAR_1
+free_irq,FUNC_0
+irq_dispose_mapping,FUNC_1
+kfree,FUNC_2
+kvmppc_xive_disable_vcpu_interrupts,FUNC_3
+kvmppc_xive_enabled,FUNC_4
+kvmppc_xive_native_cleanup_queue,FUNC_5
+pr_devel,FUNC_6
+xive_cleanup_single_escalation,FUNC_7
+xive_native_disable_vp,FUNC_8
+kvmppc_xive_native_cleanup_vcpu,FUNC_9
+vcpu,VAR_2
+xc,VAR_3
+i,VAR_4

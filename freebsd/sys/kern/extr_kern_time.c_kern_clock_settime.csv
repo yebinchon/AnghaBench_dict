@@ -1,0 +1,14 @@
+CLOCK_REALTIME,VAR_0
+EINVAL,VAR_1
+PRIV_CLOCK_SETTIME,VAR_2
+TIMESPEC_TO_TIMEVAL,FUNC_0
+allow_insane_settime,VAR_3
+priv_check,FUNC_1
+settime,FUNC_2
+utc_offset,FUNC_3
+kern_clock_settime,FUNC_4
+td,VAR_4
+clock_id,VAR_5
+ats,VAR_6
+atv,VAR_7
+error,VAR_8

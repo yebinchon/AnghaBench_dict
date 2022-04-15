@@ -1,0 +1,16 @@
+device_initialize,FUNC_0
+down_write,FUNC_1
+list_add_tail,FUNC_2
+pci_bus_sem,VAR_0
+pci_dev_get,FUNC_3
+pci_fixup_device,FUNC_4
+pci_fixup_header,VAR_1
+pci_init_capabilities,FUNC_5
+pci_reassigndev_resource_alignment,FUNC_6
+pci_release_dev,VAR_2
+pci_set_dma_max_seg_size,FUNC_7
+pci_set_dma_seg_boundary,FUNC_8
+up_write,FUNC_9
+pci_device_add,FUNC_10
+dev,VAR_3
+bus,VAR_4

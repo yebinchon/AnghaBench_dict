@@ -1,0 +1,15 @@
+HEAP_MOVED,VAR_0
+HeapTupleHeaderGetUpdateXid,FUNC_0
+HeapTupleHeaderGetXmin,FUNC_1
+HeapTupleHeaderGetXvac,FUNC_2
+HeapTupleHeaderXminCommitted,FUNC_3
+HeapTupleHeaderXminInvalid,FUNC_4
+TransactionIdDidCommit,FUNC_5
+TransactionIdFollows,FUNC_6
+TransactionIdPrecedes,FUNC_7
+HeapTupleHeaderAdvanceLatestRemovedXid,FUNC_8
+tuple,VAR_1
+latestRemovedXid,VAR_2
+xmin,VAR_3
+xmax,VAR_4
+xvac,VAR_5

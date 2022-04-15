@@ -1,0 +1,17 @@
+HTTP_TASK_RT_STATE_FINISHED,VAR_0
+HTTP_TASK_RT_STATE_INIT,VAR_1
+HTTP_TASK_STATE_NORMAL,VAR_2
+HTTP_TASK_TYPE_UPLOAD,VAR_3
+g_string_append_printf,FUNC_0
+http_tx_task_get_rate,FUNC_1
+seaf,VAR_4
+seaf_clone_manager_get_task,FUNC_2
+seaf_repo_manager_get_repo,FUNC_3
+format_http_task_detail,FUNC_4
+task,VAR_5
+buf,VAR_6
+repo,VAR_7
+repo_name,VAR_8
+type,VAR_9
+ctask,VAR_10
+rate,VAR_11

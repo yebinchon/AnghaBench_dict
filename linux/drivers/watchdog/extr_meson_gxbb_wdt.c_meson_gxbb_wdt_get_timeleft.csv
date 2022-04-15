@@ -1,0 +1,9 @@
+GXBB_WDT_TCNT_CNT_SHIFT,VAR_0
+GXBB_WDT_TCNT_REG,VAR_1
+GXBB_WDT_TCNT_SETUP_MASK,VAR_2
+readl,FUNC_0
+watchdog_get_drvdata,FUNC_1
+meson_gxbb_wdt_get_timeleft,FUNC_2
+wdt_dev,VAR_3
+data,VAR_4
+reg,VAR_5

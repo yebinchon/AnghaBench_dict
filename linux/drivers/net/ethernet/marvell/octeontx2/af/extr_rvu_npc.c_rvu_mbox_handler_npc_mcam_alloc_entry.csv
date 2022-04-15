@@ -1,0 +1,17 @@
+BLKTYPE_NPC,VAR_0
+NPC_MAX_NONCONTIG_ENTRIES,VAR_1
+NPC_MCAM_ALLOC_DENIED,VAR_2
+NPC_MCAM_ENTRY_INVALID,VAR_3
+NPC_MCAM_HIGHER_PRIO,VAR_4
+NPC_MCAM_INVALID_REQ,VAR_5
+NPC_MCAM_LOWER_PRIO,VAR_6
+is_nixlf_attached,FUNC_0
+npc_mcam_alloc_entries,FUNC_1
+rvu_get_blkaddr,FUNC_2
+rvu_mbox_handler_npc_mcam_alloc_entry,FUNC_3
+rvu,VAR_7
+req,VAR_8
+rsp,VAR_9
+mcam,VAR_10
+pcifunc,VAR_11
+blkaddr,VAR_12

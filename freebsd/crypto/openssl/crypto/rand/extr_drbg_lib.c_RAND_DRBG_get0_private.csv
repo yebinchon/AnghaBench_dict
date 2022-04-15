@@ -1,0 +1,12 @@
+CRYPTO_THREAD_get_local,FUNC_0
+CRYPTO_THREAD_set_local,FUNC_1
+OPENSSL_INIT_THREAD_RAND,VAR_0
+RUN_ONCE,FUNC_2
+do_rand_drbg_init,VAR_1
+drbg_setup,FUNC_3
+master_drbg,VAR_2
+ossl_init_thread_start,FUNC_4
+private_drbg,VAR_3
+rand_drbg_init,VAR_4
+RAND_DRBG_get0_private,FUNC_5
+drbg,VAR_5

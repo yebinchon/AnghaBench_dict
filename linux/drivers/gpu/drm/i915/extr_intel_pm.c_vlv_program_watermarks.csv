@@ -1,0 +1,14 @@
+VLV_WM_LEVEL_DDR_DVFS,VAR_0
+VLV_WM_LEVEL_PM5,VAR_1
+_intel_set_memory_cxsr,FUNC_0
+chv_set_memory_dvfs,FUNC_1
+chv_set_memory_pm5,FUNC_2
+is_disabling,FUNC_3
+is_enabling,FUNC_4
+memcmp,FUNC_5
+vlv_merge_wm,FUNC_6
+vlv_write_wm_values,FUNC_7
+vlv_program_watermarks,FUNC_8
+dev_priv,VAR_2
+old_wm,VAR_3
+new_wm,VAR_4

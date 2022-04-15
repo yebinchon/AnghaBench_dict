@@ -1,0 +1,11 @@
+ARM64_HAS_RAS_EXTN,VAR_0
+EINVAL,VAR_1
+ESR_ELx_ISS_MASK,VAR_2
+cpus_have_const_cap,FUNC_0
+kvm_inject_vabt,FUNC_1
+kvm_set_sei_esr,FUNC_2
+__kvm_arm_vcpu_set_events,FUNC_3
+vcpu,VAR_3
+events,VAR_4
+serror_pending,VAR_5
+has_esr,VAR_6

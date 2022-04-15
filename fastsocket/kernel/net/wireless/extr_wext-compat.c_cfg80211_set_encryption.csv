@@ -1,0 +1,15 @@
+__cfg80211_set_encryption,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+wdev_lock,FUNC_3
+wdev_unlock,FUNC_4
+cfg80211_set_encryption,FUNC_5
+rdev,VAR_0
+dev,VAR_1
+pairwise,VAR_2
+addr,VAR_3
+remove,VAR_4
+tx_key,VAR_5
+idx,VAR_6
+params,VAR_7
+err,VAR_8

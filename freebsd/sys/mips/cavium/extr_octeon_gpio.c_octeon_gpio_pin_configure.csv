@@ -1,0 +1,14 @@
+CVMX_GPIO_BIT_CFGX,FUNC_0
+GPIO_LOCK,FUNC_1
+GPIO_PIN_INPUT,VAR_0
+GPIO_PIN_INVIN,VAR_1
+GPIO_PIN_OUTPUT,VAR_2
+GPIO_UNLOCK,FUNC_2
+cvmx_read_csr,FUNC_3
+cvmx_write_csr,FUNC_4
+octeon_gpio_pin_configure,FUNC_5
+sc,VAR_3
+pin,VAR_4
+flags,VAR_5
+mask,VAR_6
+gpio_cfgx,VAR_7

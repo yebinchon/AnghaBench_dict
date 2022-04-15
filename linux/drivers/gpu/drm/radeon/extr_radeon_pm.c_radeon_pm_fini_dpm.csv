@@ -1,0 +1,13 @@
+dev_attr_power_dpm_force_performance_level,VAR_0
+dev_attr_power_dpm_state,VAR_1
+dev_attr_power_method,VAR_2
+dev_attr_power_profile,VAR_3
+device_remove_file,FUNC_0
+kfree,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+radeon_dpm_disable,FUNC_4
+radeon_dpm_fini,FUNC_5
+radeon_hwmon_fini,FUNC_6
+radeon_pm_fini_dpm,FUNC_7
+rdev,VAR_4

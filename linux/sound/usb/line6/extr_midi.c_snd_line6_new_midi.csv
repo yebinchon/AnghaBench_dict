@@ -1,0 +1,15 @@
+SNDRV_RAWMIDI_INFO_DUPLEX,VAR_0
+SNDRV_RAWMIDI_INFO_INPUT,VAR_1
+SNDRV_RAWMIDI_INFO_OUTPUT,VAR_2
+SNDRV_RAWMIDI_STREAM_INPUT,VAR_3
+SNDRV_RAWMIDI_STREAM_OUTPUT,VAR_4
+line6_midi_input_ops,VAR_5
+line6_midi_output_ops,VAR_6
+snd_rawmidi_new,FUNC_0
+snd_rawmidi_set_ops,FUNC_1
+strcpy,FUNC_2
+snd_line6_new_midi,FUNC_3
+line6,VAR_7
+rmidi_ret,VAR_8
+rmidi,VAR_9
+err,VAR_10

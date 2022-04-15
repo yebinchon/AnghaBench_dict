@@ -1,0 +1,12 @@
+SPIN_SECS,VAR_0
+T_ASSERT_MACH_SUCCESS,FUNC_0
+pthread_setname_np,FUNC_1
+semaphore,VAR_1
+semaphore_wait_signal,FUNC_2
+snprintf,FUNC_3
+spin_for_duration,FUNC_4
+worker_sem,VAR_2
+spin_thread,FUNC_5
+arg,VAR_3
+thread_id,VAR_4
+name,VAR_5

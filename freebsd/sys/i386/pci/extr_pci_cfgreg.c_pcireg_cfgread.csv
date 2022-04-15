@@ -1,0 +1,16 @@
+inb,FUNC_0
+inl,FUNC_1
+inw,FUNC_2
+mtx_lock_spin,FUNC_3
+mtx_unlock_spin,FUNC_4
+pci_cfgdisable,FUNC_5
+pci_cfgenable,FUNC_6
+pcicfg_mtx,VAR_0
+pcireg_cfgread,FUNC_7
+bus,VAR_1
+slot,VAR_2
+func,VAR_3
+reg,VAR_4
+bytes,VAR_5
+data,VAR_6
+port,VAR_7

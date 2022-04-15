@@ -1,0 +1,5 @@
+BTRFS_INODE_READDIO_NEED_LOCK,VAR_0
+set_bit,FUNC_0
+smp_mb,FUNC_1
+btrfs_inode_block_unlocked_dio,FUNC_2
+inode,VAR_1

@@ -1,0 +1,16 @@
+MSG_DEBUG,VAR_0
+NL80211_ATTR_SCHED_SCAN_PLANS,VAR_1
+NL80211_SCHED_SCAN_PLAN_INTERVAL,VAR_2
+NL80211_SCHED_SCAN_PLAN_ITERATIONS,VAR_3
+nla_nest_end,FUNC_0
+nla_nest_start,FUNC_1
+nla_put_u32,FUNC_2
+wpa_printf,FUNC_3
+nl80211_sched_scan_add_scan_plans,FUNC_4
+drv,VAR_4
+msg,VAR_5
+params,VAR_6
+plans,VAR_7
+scan_plans,VAR_8
+i,VAR_9
+plan,VAR_10

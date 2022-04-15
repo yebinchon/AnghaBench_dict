@@ -1,0 +1,16 @@
+ICEMT,FUNC_0
+ROUTE_CAPTURE,VAR_0
+ROUTE_PSDOUT03,VAR_1
+inl,FUNC_1
+inw,FUNC_2
+snd_ctl_get_ioffidx,FUNC_3
+snd_kcontrol_chip,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+snd_ice1712_pro_route_analog_get,FUNC_7
+kcontrol,VAR_2
+ucontrol,VAR_3
+ice,VAR_4
+idx,VAR_5
+val,VAR_6
+cval,VAR_7

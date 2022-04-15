@@ -1,0 +1,13 @@
+CGRP_FREEZE,VAR_0
+PF_KTHREAD,VAR_1
+cgroup_dec_frozen_cnt,FUNC_0
+cgroup_freeze_task,FUNC_1
+cgroup_inc_frozen_cnt,FUNC_2
+cgroup_update_frozen,FUNC_3
+css_set_lock,VAR_2
+lockdep_assert_held,FUNC_4
+test_bit,FUNC_5
+cgroup_freezer_migrate_task,FUNC_6
+task,VAR_3
+src,VAR_4
+dst,VAR_5

@@ -1,0 +1,9 @@
+INTEL_MSR_RANGE,VAR_0
+MSR_IA32_PERF_CTL,VAR_1
+rdmsr,FUNC_0
+wrmsr,FUNC_1
+cpu_freq_write_intel,FUNC_2
+not_used,VAR_2
+val,VAR_3
+lo,VAR_4
+hi,VAR_5

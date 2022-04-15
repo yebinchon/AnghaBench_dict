@@ -1,0 +1,13 @@
+M_NETGRAPH_SPPP,VAR_0
+NG_NODE_PRIVATE,FUNC_0
+NG_NODE_SET_PRIVATE,FUNC_1
+NG_NODE_UNREF,FUNC_2
+bpfdetach,FUNC_3
+free,FUNC_4
+if_detach,FUNC_5
+if_free,FUNC_6
+ng_sppp_free_unit,FUNC_7
+sppp_detach,FUNC_8
+ng_sppp_shutdown,FUNC_9
+node,VAR_1
+priv,VAR_2

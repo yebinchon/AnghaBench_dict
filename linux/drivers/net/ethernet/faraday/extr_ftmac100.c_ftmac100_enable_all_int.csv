@@ -1,0 +1,5 @@
+FTMAC100_OFFSET_IMR,VAR_0
+INT_MASK_ALL_ENABLED,VAR_1
+iowrite32,FUNC_0
+ftmac100_enable_all_int,FUNC_1
+priv,VAR_2

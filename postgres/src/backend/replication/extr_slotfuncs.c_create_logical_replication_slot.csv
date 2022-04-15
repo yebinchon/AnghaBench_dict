@@ -1,0 +1,16 @@
+Assert,FUNC_0
+CreateInitDecodingContext,FUNC_1
+DecodingContextFindStartpoint,FUNC_2
+FreeDecodingContext,FUNC_3
+MyReplicationSlot,VAR_0
+NIL,VAR_1
+RS_EPHEMERAL,VAR_2
+RS_TEMPORARY,VAR_3
+ReplicationSlotCreate,FUNC_4
+logical_read_local_xlog_page,VAR_4
+create_logical_replication_slot,FUNC_5
+name,VAR_5
+plugin,VAR_6
+temporary,VAR_7
+restart_lsn,VAR_8
+ctx,VAR_9

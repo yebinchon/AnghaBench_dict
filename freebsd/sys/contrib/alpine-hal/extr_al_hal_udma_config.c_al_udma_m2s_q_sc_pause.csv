@@ -1,0 +1,8 @@
+AL_TRUE,VAR_0
+UDMA_M2S_Q_DWRR_CFG_1_PAUSE,VAR_1
+al_reg_read32,FUNC_0
+al_reg_write32,FUNC_1
+al_udma_m2s_q_sc_pause,FUNC_2
+udma_q,VAR_2
+set,VAR_3
+reg,VAR_4

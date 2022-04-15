@@ -1,0 +1,13 @@
+ASSERT,FUNC_0
+XFS_SBS_FDBLOCKS,VAR_0
+XFS_SBS_ICOUNT,VAR_1
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+xfs_mod_incore_sb_unlocked,FUNC_3
+xfs_mod_incore_sb_batch,FUNC_4
+mp,VAR_2
+msb,VAR_3
+nmsb,VAR_4
+rsvd,VAR_5
+msbp,VAR_6
+error,VAR_7

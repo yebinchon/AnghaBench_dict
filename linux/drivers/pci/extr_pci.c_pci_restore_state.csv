@@ -1,0 +1,16 @@
+pci_cleanup_aer_error_status_regs,FUNC_0
+pci_enable_acs,FUNC_1
+pci_restore_ats_state,FUNC_2
+pci_restore_config_space,FUNC_3
+pci_restore_dpc_state,FUNC_4
+pci_restore_iov_state,FUNC_5
+pci_restore_ltr_state,FUNC_6
+pci_restore_msi_state,FUNC_7
+pci_restore_pasid_state,FUNC_8
+pci_restore_pcie_state,FUNC_9
+pci_restore_pcix_state,FUNC_10
+pci_restore_pri_state,FUNC_11
+pci_restore_rebar_state,FUNC_12
+pci_restore_vc_state,FUNC_13
+pci_restore_state,FUNC_14
+dev,VAR_0

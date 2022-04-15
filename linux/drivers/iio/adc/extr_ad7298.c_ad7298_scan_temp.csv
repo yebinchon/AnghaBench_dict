@@ -1,0 +1,14 @@
+AD7298_TAVG,VAR_0
+AD7298_TSENSE,VAR_1
+AD7298_WRITE,VAR_2
+be16_to_cpu,FUNC_0
+cpu_to_be16,FUNC_1
+sign_extend32,FUNC_2
+spi_read,FUNC_3
+spi_write,FUNC_4
+usleep_range,FUNC_5
+ad7298_scan_temp,FUNC_6
+st,VAR_3
+val,VAR_4
+ret,VAR_5
+buf,VAR_6

@@ -1,0 +1,16 @@
+SCTP_PCB_FLAGS_BOUNDALL,VAR_0
+SCTP_PCB_FLAGS_DO_ASCONF,VAR_1
+sctp_check_address_list_all,FUNC_0
+sctp_check_address_list_ep,FUNC_1
+sctp_is_feature_on,FUNC_2
+sctp_process_initack_addresses,FUNC_3
+sctp_check_address_list,FUNC_4
+stcb,VAR_2
+m,VAR_3
+offset,VAR_4
+length,VAR_5
+init_addr,VAR_6
+local_scope,VAR_7
+site_scope,VAR_8
+ipv4_scope,VAR_9
+loopback_scope,VAR_10

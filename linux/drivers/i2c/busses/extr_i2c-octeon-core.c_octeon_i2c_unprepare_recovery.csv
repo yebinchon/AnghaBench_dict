@@ -1,0 +1,8 @@
+TWSI_INT_SCL_OVR,VAR_0
+TWSI_INT_SDA_OVR,VAR_1
+i2c_get_adapdata,FUNC_0
+octeon_i2c_write_int,FUNC_1
+udelay,FUNC_2
+octeon_i2c_unprepare_recovery,FUNC_3
+adap,VAR_2
+i2c,VAR_3

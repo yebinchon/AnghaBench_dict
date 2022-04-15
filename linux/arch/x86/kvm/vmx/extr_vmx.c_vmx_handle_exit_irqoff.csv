@@ -1,0 +1,8 @@
+EXIT_REASON_EXCEPTION_NMI,VAR_0
+EXIT_REASON_EXTERNAL_INTERRUPT,VAR_1
+handle_exception_nmi_irqoff,FUNC_0
+handle_external_interrupt_irqoff,FUNC_1
+to_vmx,FUNC_2
+vmx_handle_exit_irqoff,FUNC_3
+vcpu,VAR_2
+vmx,VAR_3

@@ -1,0 +1,14 @@
+ExecuteSqlQueryForSingleRow,FUNC_0
+PQclear,FUNC_1
+PQgetvalue,FUNC_2
+appendPQExpBuffer,FUNC_3
+createPQExpBuffer,FUNC_4
+destroyPQExpBuffer,FUNC_5
+fmtId,FUNC_6
+pg_strdup,FUNC_7
+get_language_name,FUNC_8
+fout,VAR_0
+langid,VAR_1
+query,VAR_2
+res,VAR_3
+lanname,VAR_4

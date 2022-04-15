@@ -1,0 +1,10 @@
+MPASS,FUNC_0
+VFS_TO_TMPFS,FUNC_1
+VP_TO_TMPFS_DIR,FUNC_2
+tmpfs_dir_detach,FUNC_3
+tmpfs_dir_lookup,FUNC_4
+tmpfs_free_dirent,FUNC_5
+tmpfs_dir_whiteout_remove,FUNC_6
+dvp,VAR_0
+cnp,VAR_1
+de,VAR_2

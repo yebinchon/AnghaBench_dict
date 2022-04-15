@@ -1,0 +1,14 @@
+LTC2974_MFR_IOUT_MIN,VAR_0
+LTC2974_MFR_IOUT_PEAK,VAR_1
+ltc2978_read_word_data,FUNC_0
+ltc_get_max,FUNC_1
+ltc_get_min,FUNC_2
+pmbus_get_driver_info,FUNC_3
+to_ltc2978_data,FUNC_4
+ltc2974_read_word_data,FUNC_5
+client,VAR_2
+page,VAR_3
+reg,VAR_4
+info,VAR_5
+data,VAR_6
+ret,VAR_7

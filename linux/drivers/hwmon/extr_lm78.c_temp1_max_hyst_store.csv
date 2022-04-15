@@ -1,0 +1,15 @@
+LM78_REG_TEMP_HYST,VAR_0
+TEMP_TO_REG,FUNC_0
+dev_get_drvdata,FUNC_1
+kstrtol,FUNC_2
+lm78_write_value,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+temp1_max_hyst_store,FUNC_6
+dev,VAR_1
+da,VAR_2
+buf,VAR_3
+count,VAR_4
+data,VAR_5
+val,VAR_6
+err,VAR_7

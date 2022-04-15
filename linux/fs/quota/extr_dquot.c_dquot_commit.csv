@@ -1,0 +1,12 @@
+DQ_ACTIVE_B,VAR_0
+EIO,VAR_1
+clear_dquot_dirty,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+sb_dqopt,FUNC_3
+stub1,FUNC_4
+test_bit,FUNC_5
+dquot_commit,FUNC_6
+dquot,VAR_2
+ret,VAR_3
+dqopt,VAR_4

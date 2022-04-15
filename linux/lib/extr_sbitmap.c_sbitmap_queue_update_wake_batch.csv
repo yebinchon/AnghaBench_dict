@@ -1,0 +1,10 @@
+SBQ_WAIT_QUEUES,VAR_0
+WRITE_ONCE,FUNC_0
+atomic_set,FUNC_1
+sbq_calc_wake_batch,FUNC_2
+smp_mb,FUNC_3
+sbitmap_queue_update_wake_batch,FUNC_4
+sbq,VAR_1
+depth,VAR_2
+wake_batch,VAR_3
+i,VAR_4

@@ -1,0 +1,13 @@
+IFNET_LCK_ASSERT_SHARED,VAR_0
+USER_ADDR_NULL,VAR_1
+copyout,FUNC_0
+ifnet_lock_assert,FUNC_1
+uuid_is_null,FUNC_2
+ifioctl_getnetagents,FUNC_3
+ifp,VAR_2
+count,VAR_3
+uuid_p,VAR_4
+error,VAR_5
+index,VAR_6
+valid_netagent_count,VAR_7
+netagent_uuid,VAR_8

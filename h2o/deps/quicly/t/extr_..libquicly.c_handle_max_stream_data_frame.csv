@@ -1,0 +1,16 @@
+MAX_STREAM_DATA_RECEIVE,VAR_0
+QUICLY_PROBE,FUNC_0
+QUICLY_SENDER_STATE_NONE,VAR_1
+QUICLY_TRANSPORT_ERROR_FRAME_ENCODING,VAR_2
+probe_now,FUNC_1
+quicly_decode_max_stream_data_frame,FUNC_2
+quicly_get_stream,FUNC_3
+quicly_is_client,FUNC_4
+quicly_stream_has_send_side,FUNC_5
+resched_stream_data,FUNC_6
+handle_max_stream_data_frame,FUNC_7
+conn,VAR_3
+state,VAR_4
+frame,VAR_5
+stream,VAR_6
+ret,VAR_7

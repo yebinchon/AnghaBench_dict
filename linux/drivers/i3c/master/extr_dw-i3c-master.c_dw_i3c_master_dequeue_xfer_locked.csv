@@ -1,0 +1,12 @@
+RESET_CTRL,VAR_0
+RESET_CTRL_CMD_QUEUE,VAR_1
+RESET_CTRL_RESP_QUEUE,VAR_2
+RESET_CTRL_RX_FIFO,VAR_3
+RESET_CTRL_TX_FIFO,VAR_4
+list_del_init,FUNC_0
+readl_poll_timeout_atomic,FUNC_1
+writel,FUNC_2
+dw_i3c_master_dequeue_xfer_locked,FUNC_3
+master,VAR_5
+xfer,VAR_6
+status,VAR_7

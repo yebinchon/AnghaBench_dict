@@ -1,0 +1,12 @@
+ZIPFILE_EXTRA_TIMESTAMP,VAR_0
+ZIPFILE_LFH_FIXED_SZ,VAR_1
+ZIPFILE_SIGNATURE_LFH,VAR_2
+assert,FUNC_0
+memcpy,FUNC_1
+zipfileWrite16,FUNC_2
+zipfileWrite32,FUNC_3
+zipfileSerializeLFH,FUNC_4
+pEntry,VAR_3
+aBuf,VAR_4
+pCds,VAR_5
+a,VAR_6

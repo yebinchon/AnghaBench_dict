@@ -1,0 +1,17 @@
+IRQF_SHARED,VAR_0
+IRQ_IXP2000_THDA0,VAR_1
+IXP2000_IRQ_THD_ENABLE_SET_A_0,VAR_2
+ixp2000_reg_write,FUNC_0
+ixpdev_interrupt,VAR_3
+napi_disable,FUNC_1
+napi_enable,FUNC_2
+nds,VAR_4
+nds_open,VAR_5
+netdev_priv,FUNC_3
+netif_start_queue,FUNC_4
+request_irq,FUNC_5
+set_port_admin_status,FUNC_6
+ixpdev_open,FUNC_7
+dev,VAR_6
+ip,VAR_7
+err,VAR_8

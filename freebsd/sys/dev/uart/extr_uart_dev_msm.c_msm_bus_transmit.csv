@@ -1,0 +1,12 @@
+SETREG,FUNC_0
+UART_DM_IMR,VAR_0
+UART_DM_TX_READY,VAR_1
+msm_putc,FUNC_1
+uart_barrier,FUNC_2
+uart_lock,FUNC_3
+uart_unlock,FUNC_4
+msm_bus_transmit,FUNC_5
+sc,VAR_2
+u,VAR_3
+bas,VAR_4
+i,VAR_5

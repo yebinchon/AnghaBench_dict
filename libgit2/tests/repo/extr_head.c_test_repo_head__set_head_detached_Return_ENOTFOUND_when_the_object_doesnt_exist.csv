@@ -1,0 +1,8 @@
+GIT_ENOTFOUND,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_oid_fromstr,FUNC_2
+git_repository_set_head_detached,FUNC_3
+repo,VAR_1
+test_repo_head__set_head_detached_Return_ENOTFOUND_when_the_object_doesnt_exist,FUNC_4
+oid,VAR_2

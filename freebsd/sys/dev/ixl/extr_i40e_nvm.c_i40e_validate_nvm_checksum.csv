@@ -1,0 +1,15 @@
+DEBUGFUNC,FUNC_0
+I40E_ERR_NVM_CHECKSUM,VAR_0
+I40E_RESOURCE_READ,VAR_1
+I40E_SR_SW_CHECKSUM_WORD,VAR_2
+I40E_SUCCESS,VAR_3
+__i40e_read_nvm_word,FUNC_1
+i40e_acquire_nvm,FUNC_2
+i40e_calc_nvm_checksum,FUNC_3
+i40e_release_nvm,FUNC_4
+i40e_validate_nvm_checksum,FUNC_5
+hw,VAR_4
+checksum,VAR_5
+ret_code,VAR_6
+checksum_sr,VAR_7
+checksum_local,VAR_8

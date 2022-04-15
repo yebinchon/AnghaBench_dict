@@ -1,0 +1,11 @@
+BUS_ACTIVATE_RESOURCE,FUNC_0
+ar71xx_bus_space_pcimem,VAR_0
+device_get_parent,FUNC_1
+rman_set_bustag,FUNC_2
+ar724x_pci_activate_resource,FUNC_3
+bus,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+r,VAR_5
+res,VAR_6

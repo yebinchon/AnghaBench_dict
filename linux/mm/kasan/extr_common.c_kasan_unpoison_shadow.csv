@@ -1,0 +1,12 @@
+CONFIG_KASAN_SW_TAGS,VAR_0
+IS_ENABLED,FUNC_0
+KASAN_SHADOW_MASK,VAR_1
+get_tag,FUNC_1
+kasan_mem_to_shadow,FUNC_2
+kasan_poison_shadow,FUNC_3
+reset_tag,FUNC_4
+kasan_unpoison_shadow,FUNC_5
+address,VAR_2
+size,VAR_3
+tag,VAR_4
+shadow,VAR_5

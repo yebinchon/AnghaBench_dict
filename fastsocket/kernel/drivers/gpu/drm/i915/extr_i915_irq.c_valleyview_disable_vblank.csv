@@ -1,0 +1,15 @@
+I915_DISPLAY_PIPE_A_VBLANK_INTERRUPT,VAR_0
+I915_DISPLAY_PIPE_B_VBLANK_INTERRUPT,VAR_1
+I915_READ,FUNC_0
+I915_WRITE,FUNC_1
+PIPE_START_VBLANK_INTERRUPT_ENABLE,VAR_2
+VLV_IMR,VAR_3
+i915_disable_pipestat,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+valleyview_disable_vblank,FUNC_5
+dev,VAR_4
+pipe,VAR_5
+dev_priv,VAR_6
+irqflags,VAR_7
+imr,VAR_8

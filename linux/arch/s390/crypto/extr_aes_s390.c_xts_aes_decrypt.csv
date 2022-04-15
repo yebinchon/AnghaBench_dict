@@ -1,0 +1,15 @@
+CPACF_DECRYPT,VAR_0
+EINVAL,VAR_1
+XTS_BLOCK_SIZE,VAR_2
+blkcipher_walk_init,FUNC_0
+crypto_blkcipher_ctx,FUNC_1
+unlikely,FUNC_2
+xts_aes_crypt,FUNC_3
+xts_fallback_decrypt,FUNC_4
+xts_aes_decrypt,FUNC_5
+desc,VAR_3
+dst,VAR_4
+src,VAR_5
+nbytes,VAR_6
+xts_ctx,VAR_7
+walk,VAR_8

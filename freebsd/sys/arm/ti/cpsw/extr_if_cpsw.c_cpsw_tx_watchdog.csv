@@ -1,0 +1,9 @@
+CPSW_TX_LOCK,FUNC_0
+CPSW_TX_UNLOCK,FUNC_1
+callout_reset,FUNC_2
+cpsw_tx_dequeue,FUNC_3
+cpsw_tx_watchdog_full_reset,FUNC_4
+hz,VAR_0
+cpsw_tx_watchdog,FUNC_5
+msc,VAR_1
+sc,VAR_2

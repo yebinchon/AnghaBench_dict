@@ -1,0 +1,16 @@
+CompareFileContent,FUNC_0
+CreatePath,FUNC_1
+GetFileSize,FUNC_2
+INPUT_DIR,VAR_0
+TEST_ASSERT_EQUAL,FUNC_3
+TEST_ASSERT_NOT_NULL,FUNC_4
+TEST_ASSERT_TRUE,FUNC_5
+add_entry,FUNC_6
+estrdup,FUNC_7
+fopen,FUNC_8
+kod_db,VAR_1
+kod_db_file,VAR_2
+write_kod_db,FUNC_9
+test_WriteFileWithSingleEntry,FUNC_10
+actual,VAR_3
+expected,VAR_4

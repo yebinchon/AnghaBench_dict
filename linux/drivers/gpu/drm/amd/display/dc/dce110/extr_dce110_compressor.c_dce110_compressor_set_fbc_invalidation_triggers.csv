@@ -1,0 +1,13 @@
+FBC_CLIENT_REGION_MASK,VAR_0
+FBC_IDLE_FORCE_CLEAR_MASK,VAR_1
+FBC_MEMORY_REGION_MASK,VAR_2
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+mmFBC_CLIENT_REGION_MASK,VAR_3
+mmFBC_IDLE_FORCE_CLEAR_MASK,VAR_4
+set_reg_field_value,FUNC_2
+dce110_compressor_set_fbc_invalidation_triggers,FUNC_3
+compressor,VAR_5
+fbc_trigger,VAR_6
+addr,VAR_7
+value,VAR_8

@@ -1,0 +1,9 @@
+USBH_ENABLE_CE,VAR_0
+USBH_ENABLE_INIT,VAR_1
+USBH_ENABLE_RD,VAR_2
+USB_HOST_CONFIG,VAR_3
+au_readl,FUNC_0
+au_sync,FUNC_1
+au_writel,FUNC_2
+udelay,FUNC_3
+au1xxx_start_ohc,FUNC_4

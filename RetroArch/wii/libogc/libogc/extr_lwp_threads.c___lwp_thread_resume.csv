@@ -1,0 +1,17 @@
+LWP_STATES_SUSPENDED,VAR_0
+TRUE,VAR_1
+_CPU_ISR_Disable,FUNC_0
+_CPU_ISR_Flash,FUNC_1
+_CPU_ISR_Restore,FUNC_2
+__lwp_clearstate,FUNC_3
+__lwp_priomap_addto,FUNC_4
+__lwp_queue_appendI,FUNC_5
+__lwp_stateready,FUNC_6
+_context_switch_want,VAR_2
+_thr_executing,VAR_3
+_thr_heir,VAR_4
+__lwp_thread_resume,FUNC_7
+thethread,VAR_5
+force,VAR_6
+level,VAR_7
+state,VAR_8

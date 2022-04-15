@@ -1,0 +1,16 @@
+HANDLER_HAS_POST_DATA,VAR_0
+HANDLER_MUST_AUTHORIZE,VAR_1
+HANDLER_PARSE_ACCEPT_ENCODING,VAR_2
+HTTP_NOT_ALLOWED,VAR_3
+HTTP_NOT_AUTHORIZED,VAR_4
+HTTP_OK,VAR_5
+REQUEST_METHOD_POST,VAR_6
+UNLIKELY,FUNC_0
+lwan_http_authorize,FUNC_1
+lwan_request_get_method,FUNC_2
+parse_accept_encoding,FUNC_3
+read_post_data,FUNC_4
+prepare_for_response,FUNC_5
+url_map,VAR_7
+request,VAR_8
+status,VAR_9

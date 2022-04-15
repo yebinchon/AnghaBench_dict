@@ -1,0 +1,7 @@
+ARCMSR_MESSAGE_ABORT_CMD,VAR_0
+WRITE_CHIP_REG32,FUNC_0
+arcmsr_hbb_wait_msgint_ready,FUNC_1
+printf,FUNC_2
+arcmsr_abort_hbb_allcmd,FUNC_3
+acb,VAR_1
+phbbmu,VAR_2

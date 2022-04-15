@@ -1,0 +1,16 @@
+GIT_CHECKOUT_FORCE,VAR_0
+GIT_CHECKOUT_REMOVE_UNTRACKED,VAR_1
+GIT_CHECKOUT_SAFE,VAR_2
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+g_object,VAR_3
+g_opts,VAR_4
+g_repo,VAR_5
+git_checkout_tree,FUNC_2
+git_object_free,FUNC_3
+git_object_id,FUNC_4
+git_path_exists,FUNC_5
+git_repository_set_head_detached,FUNC_6
+git_revparse_single,FUNC_7
+test_checkout_tree__can_checkout_with_pattern,FUNC_8
+entries,VAR_6

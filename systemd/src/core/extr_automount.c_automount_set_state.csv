@@ -1,0 +1,16 @@
+AUTOMOUNT_RUNNING,VAR_0
+AUTOMOUNT_WAITING,VAR_1
+IN_SET,FUNC_0
+UNIT,FUNC_1
+assert,FUNC_2
+automount_state_to_string,FUNC_3
+automount_stop_expire,FUNC_4
+bus_unit_send_pending_change_signal,FUNC_5
+log_unit_debug,FUNC_6
+state_translation_table,VAR_2
+unit_notify,FUNC_7
+unmount_autofs,FUNC_8
+automount_set_state,FUNC_9
+a,VAR_3
+state,VAR_4
+old_state,VAR_5

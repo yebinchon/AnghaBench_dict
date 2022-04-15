@@ -1,0 +1,11 @@
+IB_EVENT_LID_CHANGE,VAR_0
+IB_EVENT_PKEY_CHANGE,VAR_1
+IB_EVENT_SM_CHANGE,VAR_2
+dispatch_port_event,FUNC_0
+ehca_query_sma_attr,FUNC_1
+memcmp,FUNC_2
+notify_port_conf_change,FUNC_3
+shca,VAR_3
+port_num,VAR_4
+new_attr,VAR_5
+old_attr,VAR_6

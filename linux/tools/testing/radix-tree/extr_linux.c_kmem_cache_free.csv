@@ -1,0 +1,14 @@
+POISON_FREE,VAR_0
+assert,FUNC_0
+free,FUNC_1
+kmalloc_verbose,VAR_1
+memset,FUNC_2
+nr_allocated,VAR_2
+printf,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+uatomic_dec,FUNC_6
+kmem_cache_free,FUNC_7
+cachep,VAR_3
+objp,VAR_4
+node,VAR_5

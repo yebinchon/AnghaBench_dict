@@ -1,0 +1,17 @@
+DMA_FENCE_FLAG_SIGNALED_BIT,VAR_0
+dma_fence_is_signaled,FUNC_0
+lockdep_is_held,FUNC_1
+nouveau_fctx,FUNC_2
+nouveau_fence_ops_legacy,VAR_1
+nouveau_fence_ops_uevent,VAR_2
+nouveau_fence_update,FUNC_3
+nvif_notify_put,FUNC_4
+rcu_dereference_protected,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+test_bit,FUNC_8
+nouveau_fence_done,FUNC_9
+fence,VAR_3
+fctx,VAR_4
+chan,VAR_5
+flags,VAR_6

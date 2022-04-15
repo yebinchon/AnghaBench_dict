@@ -1,0 +1,15 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+ENOBUFS,VAR_2
+MPASS,FUNC_0
+_iflib_fl_refill,FUNC_1
+bit_nclear,FUNC_2
+bus_dmamap_sync,FUNC_3
+iflib_fl_bufs_free,FUNC_4
+m_gettype,FUNC_5
+m_getzone,FUNC_6
+min,FUNC_7
+iflib_fl_setup,FUNC_8
+fl,VAR_3
+rxq,VAR_4
+ctx,VAR_5

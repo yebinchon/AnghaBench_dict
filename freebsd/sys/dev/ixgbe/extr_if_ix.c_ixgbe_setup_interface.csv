@@ -1,0 +1,16 @@
+ETHER_CRC_LEN,VAR_0
+ETHER_HDR_LEN,VAR_1
+IFM_AUTO,VAR_2
+IFM_ETHER,VAR_3
+IF_Gbps,FUNC_0
+INIT_DEBUGOUT,FUNC_1
+if_setbaudrate,FUNC_2
+iflib_get_ifp,FUNC_3
+iflib_get_softc,FUNC_4
+ifmedia_set,FUNC_5
+ixgbe_add_media_types,FUNC_6
+ixgbe_get_supported_physical_layer,FUNC_7
+ixgbe_setup_interface,FUNC_8
+ctx,VAR_4
+ifp,VAR_5
+adapter,VAR_6

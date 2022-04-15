@@ -1,0 +1,14 @@
+GROUPTASK_ENQUEUE,FUNC_0
+LIST_INSERT_HEAD,FUNC_1
+THREADENTRY_SIZE,VAR_0
+free_gtask,VAR_1
+memset,FUNC_2
+mtx_lock_spin,FUNC_3
+mtx_unlock_spin,FUNC_4
+pmc_threadfreelist,VAR_2
+pmc_threadfreelist_entries,VAR_3
+pmc_threadfreelist_max,VAR_4
+pmc_threadfreelist_mtx,VAR_5
+pt_next,VAR_6
+pmc_thread_descriptor_pool_free,FUNC_5
+pt,VAR_7

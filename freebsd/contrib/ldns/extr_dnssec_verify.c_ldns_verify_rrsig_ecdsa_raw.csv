@@ -1,0 +1,17 @@
+EVP_PKEY_free,FUNC_0
+EVP_sha256,FUNC_1
+EVP_sha384,FUNC_2
+LDNS_ECDSAP256SHA256,VAR_0
+LDNS_STATUS_CRYPTO_BOGUS,VAR_1
+ldns_ecdsa2pkey_raw,FUNC_3
+ldns_verify_rrsig_evp_raw,FUNC_4
+ldns_verify_rrsig_ecdsa_raw,FUNC_5
+sig,VAR_2
+siglen,VAR_3
+rrset,VAR_4
+key,VAR_5
+keylen,VAR_6
+algo,VAR_7
+evp_key,VAR_8
+result,VAR_9
+d,VAR_10

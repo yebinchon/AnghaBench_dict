@@ -1,0 +1,16 @@
+SQLITE_OK,VAR_0
+assert,FUNC_0
+osUnlink,FUNC_1
+sqlite3_free,FUNC_2
+sqlite3_mutex_enter,FUNC_3
+sqlite3_mutex_leave,FUNC_4
+unixEnterMutex,FUNC_5
+unixLeaveMutex,FUNC_6
+unixShmPurge,FUNC_7
+unixShmUnmap,FUNC_8
+fd,VAR_1
+deleteFlag,VAR_2
+p,VAR_3
+pShmNode,VAR_4
+pp,VAR_5
+pDbFd,VAR_6

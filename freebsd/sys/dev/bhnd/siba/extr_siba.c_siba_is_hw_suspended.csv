@@ -1,0 +1,14 @@
+BHND_IOCTL_CLK_EN,VAR_0
+SIBA_CFG0_TMSTATELOW,VAR_1
+SIBA_REG_GET,FUNC_0
+SIBA_TML_REJ_MASK,VAR_2
+SIBA_TML_RESET,VAR_3
+TML_SICF,VAR_4
+bhnd_read_config,FUNC_1
+device_printf,FUNC_2
+siba_is_hw_suspended,FUNC_3
+dev,VAR_5
+child,VAR_6
+ts_low,VAR_7
+ioctl,VAR_8
+error,VAR_9

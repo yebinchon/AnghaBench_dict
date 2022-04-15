@@ -1,0 +1,15 @@
+VLC_DECODER_DEVICE_VAAPI,VAR_0
+assert,FUNC_0
+filter_NewPicture,FUNC_1
+holder,VAR_1
+picture_Release,FUNC_2
+vlc_decoder_device_Hold,FUNC_3
+vlc_mutex_lock,FUNC_4
+vlc_mutex_unlock,FUNC_5
+vlc_vaapi_IsChromaOpaque,FUNC_6
+vlc_vaapi_PicSysHoldInstance,FUNC_7
+vlc_vaapi_FilterHoldInstance,FUNC_8
+filter,VAR_2
+dpy,VAR_3
+pic,VAR_4
+dec_device,VAR_5

@@ -1,0 +1,15 @@
+FM_FD_STAT_TX_ERRORS,VAR_0
+be32_to_cpu,FUNC_0
+consume_skb,FUNC_1
+dpaa_cleanup_tx_fd,FUNC_2
+hw,VAR_1
+net_ratelimit,FUNC_3
+netif_warn,FUNC_4
+unlikely,FUNC_5
+dpaa_tx_conf,FUNC_6
+net_dev,VAR_2
+priv,VAR_3
+percpu_priv,VAR_4
+fd,VAR_5
+fqid,VAR_6
+skb,VAR_7

@@ -1,0 +1,10 @@
+BCM2835_AUX_SPI_CNTL1,VAR_0
+BCM2835_AUX_SPI_CNTL1_IDLE,VAR_1
+BCM2835_AUX_SPI_CNTL1_TXEMPTY,VAR_2
+bcm2835aux_wr,FUNC_0
+spi_master_get_devdata,FUNC_1
+__bcm2835aux_spi_transfer_one_irq,FUNC_2
+master,VAR_3
+spi,VAR_4
+tfr,VAR_5
+bs,VAR_6

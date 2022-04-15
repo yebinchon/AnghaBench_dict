@@ -1,0 +1,12 @@
+ExecCopySlotMinimalTuple,FUNC_0
+MemoryContextSwitchTo,FUNC_1
+tuplehash_insert,FUNC_2
+tuplehash_lookup,FUNC_3
+LookupTupleHashEntry,FUNC_4
+hashtable,VAR_0
+slot,VAR_1
+isnew,VAR_2
+entry,VAR_3
+oldContext,VAR_4
+found,VAR_5
+key,VAR_6

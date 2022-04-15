@@ -1,0 +1,16 @@
+hpt37x_find_mode,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_read_config_dword,FUNC_2
+pci_write_config_byte,FUNC_3
+pci_write_config_dword,FUNC_4
+printk,FUNC_5
+to_pci_dev,FUNC_6
+hpt372_set_piomode,FUNC_7
+ap,VAR_0
+adev,VAR_1
+pdev,VAR_2
+addr1,VAR_3
+addr2,VAR_4
+reg,VAR_5
+mode,VAR_6
+fast,VAR_7

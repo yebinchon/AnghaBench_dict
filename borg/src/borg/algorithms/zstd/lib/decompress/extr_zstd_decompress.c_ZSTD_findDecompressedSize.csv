@@ -1,0 +1,17 @@
+MEM_readLE32,FUNC_0
+ZSTD_CONTENTSIZE_ERROR,VAR_0
+ZSTD_FRAMEHEADERSIZE_PREFIX,VAR_1
+ZSTD_MAGIC_SKIPPABLE_MASK,VAR_2
+ZSTD_MAGIC_SKIPPABLE_START,VAR_3
+ZSTD_findFrameCompressedSize,FUNC_1
+ZSTD_getFrameContentSize,FUNC_2
+ZSTD_isError,FUNC_3
+readSkippableFrameSize,FUNC_4
+ZSTD_findDecompressedSize,FUNC_5
+src,VAR_4
+srcSize,VAR_5
+totalDstSize,VAR_6
+magicNumber,VAR_7
+skippableSize,VAR_8
+ret,VAR_9
+frameSrcSize,VAR_10

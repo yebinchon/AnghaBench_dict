@@ -1,0 +1,11 @@
+ALLOCSET_DEFAULT_SIZES,VAR_0
+AllocSetContextCreate,FUNC_0
+Assert,FUNC_1
+CurTransactionContext,VAR_1
+CurrentTransactionState,VAR_2
+MemoryContextSwitchTo,FUNC_2
+TopMemoryContext,VAR_3
+TopTransactionContext,VAR_4
+TransactionAbortContext,VAR_5
+AtStart_Memory,FUNC_3
+s,VAR_6

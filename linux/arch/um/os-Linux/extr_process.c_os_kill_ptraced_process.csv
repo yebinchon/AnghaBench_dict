@@ -1,0 +1,11 @@
+CATCH_EINTR,FUNC_0
+PTRACE_CONT,VAR_0
+PTRACE_KILL,VAR_1
+SIGKILL,VAR_2
+__WALL,VAR_3
+kill,FUNC_1
+ptrace,FUNC_2
+waitpid,FUNC_3
+os_kill_ptraced_process,FUNC_4
+pid,VAR_4
+reap_child,VAR_5

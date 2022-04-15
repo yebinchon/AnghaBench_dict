@@ -1,0 +1,12 @@
+TRACE_RECORD_CMDLINE,VAR_0
+TRACE_RECORD_TGID,VAR_1
+__this_cpu_write,FUNC_0
+trace_save_cmdline,FUNC_1
+trace_save_tgid,FUNC_2
+trace_taskinfo_save,VAR_2
+tracing_record_taskinfo_skip,FUNC_3
+tracing_record_taskinfo_sched_switch,FUNC_4
+prev,VAR_3
+next,VAR_4
+flags,VAR_5
+done,VAR_6

@@ -1,0 +1,15 @@
+EAGAIN,VAR_0
+SET_LED_TIMER_DIVIDER_VENDOR_REQUEST,VAR_1
+USB_DIR_OUT,VAR_2
+USB_TYPE_VENDOR,VAR_3
+mutex_lock_interruptible,FUNC_0
+mutex_unlock,FUNC_1
+usb_control_msg,FUNC_2
+usb_sndctrlpipe,FUNC_3
+technisat_usb2_set_led_timer,FUNC_4
+d,VAR_4
+red,VAR_5
+green,VAR_6
+state,VAR_7
+b,VAR_8
+ret,VAR_9

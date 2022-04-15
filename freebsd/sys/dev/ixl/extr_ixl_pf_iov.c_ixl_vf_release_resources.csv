@@ -1,0 +1,14 @@
+I40E_VFINT_DYN_CTL0,FUNC_0
+I40E_VPINT_LNKLST0,FUNC_1
+IXL_VFINT_DYN_CTLN_REG,FUNC_2
+IXL_VPINT_LNKLSTN_REG,FUNC_3
+ixl_vf_disable_queue_intr,FUNC_4
+ixl_vf_unregister_intr,FUNC_5
+ixl_vf_vsi_release,FUNC_6
+ixl_vf_release_resources,FUNC_7
+pf,VAR_0
+vf,VAR_1
+hw,VAR_2
+vfint_reg,VAR_3
+vpint_reg,VAR_4
+i,VAR_5

@@ -1,0 +1,15 @@
+ISC_R_SUCCESS,VAR_0
+LOCK,FUNC_0
+REQUIRE,FUNC_1
+UNLOCK,FUNC_2
+createlock,VAR_1
+isc_appctx_settaskmgr,FUNC_3
+stub1,FUNC_4
+taskmgr_createfunc,FUNC_5
+isc_taskmgr_createinctx,FUNC_6
+mctx,VAR_2
+actx,VAR_3
+workers,VAR_4
+default_quantum,VAR_5
+managerp,VAR_6
+result,VAR_7

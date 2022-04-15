@@ -1,0 +1,15 @@
+A3700_SPI_IF_CTRL_REG,VAR_0
+A3700_SPI_INT_MASK_REG,VAR_1
+A3700_SPI_TIMEOUT,VAR_2
+msecs_to_jiffies,FUNC_0
+reinit_completion,FUNC_1
+spi_master_get_devdata,FUNC_2
+spireg_read,FUNC_3
+spireg_write,FUNC_4
+wait_for_completion_timeout,FUNC_5
+a3700_spi_wait_completion,FUNC_6
+spi,VAR_3
+a3700_spi,VAR_4
+timeout,VAR_5
+ctrl_reg,VAR_6
+timeout_jiffies,VAR_7

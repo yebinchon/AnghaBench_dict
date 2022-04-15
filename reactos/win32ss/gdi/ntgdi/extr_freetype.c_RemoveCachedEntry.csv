@@ -1,0 +1,10 @@
+ASSERT,FUNC_0
+ASSERT_FREETYPE_LOCK_HELD,FUNC_1
+ExFreePoolWithTag,FUNC_2
+FT_Done_Glyph,FUNC_3
+MAX_FONT_CACHE,VAR_0
+RemoveEntryList,FUNC_4
+TAG_FONT,VAR_1
+g_FontCacheNumEntries,VAR_2
+RemoveCachedEntry,FUNC_5
+Entry,VAR_3

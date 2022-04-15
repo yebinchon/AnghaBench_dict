@@ -1,0 +1,14 @@
+IRQ_POLL_F_DISABLE,VAR_0
+IRQ_POLL_F_SCHED,VAR_1
+IRQ_POLL_SOFTIRQ,VAR_2
+blk_cpu_iopoll,VAR_3
+list_add_tail,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+raise_softirq_irqoff,FUNC_3
+test_and_set_bit,FUNC_4
+test_bit,FUNC_5
+this_cpu_ptr,FUNC_6
+irq_poll_sched,FUNC_7
+iop,VAR_4
+flags,VAR_5

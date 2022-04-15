@@ -1,0 +1,10 @@
+IXGBE_READ_REG,FUNC_0
+IXGBE_SRRCTL,FUNC_1
+IXGBE_SRRCTL_DROP_EN,VAR_0
+IXGBE_WRITE_REG,FUNC_2
+ixgbe_enable_rx_drop,FUNC_3
+adapter,VAR_1
+ring,VAR_2
+hw,VAR_3
+reg_idx,VAR_4
+srrctl,VAR_5

@@ -1,0 +1,15 @@
+BUS_DMA_NOWAIT,VAR_0
+BUS_SPACE_MAXADDR,VAR_1
+M_ISCI,VAR_2
+M_NOWAIT,VAR_3
+PAGE_SIZE,VAR_4
+bus_dmamap_load,FUNC_0
+contigmalloc,FUNC_1
+isci_single_map,VAR_5
+sci_object_get_association,FUNC_2
+sci_pool_empty,FUNC_3
+sci_pool_get,FUNC_4
+scif_cb_controller_allocate_memory,FUNC_5
+controller,VAR_6
+mde,VAR_7
+isci_controller,VAR_8

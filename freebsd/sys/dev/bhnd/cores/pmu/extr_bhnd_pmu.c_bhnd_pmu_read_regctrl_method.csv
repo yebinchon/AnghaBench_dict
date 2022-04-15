@@ -1,0 +1,9 @@
+BHND_PMU_REGCTRL_READ,FUNC_0
+BPMU_LOCK,FUNC_1
+BPMU_UNLOCK,FUNC_2
+device_get_softc,FUNC_3
+bhnd_pmu_read_regctrl_method,FUNC_4
+dev,VAR_0
+reg,VAR_1
+sc,VAR_2
+rval,VAR_3

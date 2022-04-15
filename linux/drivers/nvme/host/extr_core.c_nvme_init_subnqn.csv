@@ -1,0 +1,16 @@
+NVME_QUIRK_IGNORE_DEV_SUBNQN,VAR_0
+NVME_VS,FUNC_0
+NVMF_NQN_SIZE,VAR_1
+dev_warn,FUNC_1
+le16_to_cpu,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+snprintf,FUNC_5
+strlcpy,FUNC_6
+strnlen,FUNC_7
+nvme_init_subnqn,FUNC_8
+subsys,VAR_2
+ctrl,VAR_3
+id,VAR_4
+nqnlen,VAR_5
+off,VAR_6

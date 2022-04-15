@@ -1,0 +1,14 @@
+COMBIOS_HARDCODED_EDID_TABLE,VAR_0
+EDID_LENGTH,VAR_1
+GFP_KERNEL,VAR_2
+combios_get_table_offset,FUNC_0
+drm_edid_is_valid,FUNC_1
+kfree,FUNC_2
+kmalloc,FUNC_3
+memcpy,FUNC_4
+radeon_combios_check_hardcoded_edid,FUNC_5
+rdev,VAR_3
+edid_info,VAR_4
+size,VAR_5
+edid,VAR_6
+raw,VAR_7

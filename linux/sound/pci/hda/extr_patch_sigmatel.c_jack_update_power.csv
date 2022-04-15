@@ -1,0 +1,11 @@
+AC_VERB_IDT_SET_POWER_MAP,VAR_0
+snd_hda_codec_write,FUNC_0
+snd_hda_jack_detect,FUNC_1
+snd_hda_jack_tbl_get,FUNC_2
+stac_toggle_power_map,FUNC_3
+jack_update_power,FUNC_4
+codec,VAR_1
+jack,VAR_2
+spec,VAR_3
+i,VAR_4
+nid,VAR_5

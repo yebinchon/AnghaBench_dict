@@ -1,0 +1,12 @@
+MTIP_NCQ_COMMAND_TIMEOUT_MS,VAR_0
+MTIP_TAG_BIT,FUNC_0
+MTIP_TAG_INDEX,FUNC_1
+atomic_set,FUNC_2
+jiffies,VAR_1
+msecs_to_jiffies,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+writel,FUNC_6
+mtip_issue_ncq_command,FUNC_7
+port,VAR_2
+tag,VAR_3

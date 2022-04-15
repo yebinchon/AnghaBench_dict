@@ -1,0 +1,14 @@
+TEST_ASSERT,FUNC_0
+VCPU_ID,VAR_0
+_vcpu_sregs_set,FUNC_1
+kvm_vm_free,FUNC_2
+setbuf,FUNC_3
+stdout,VAR_1
+vcpu_sregs_get,FUNC_4
+vm_create_default,FUNC_5
+main,FUNC_6
+argc,VAR_2
+argv,VAR_3
+sregs,VAR_4
+vm,VAR_5
+rc,VAR_6

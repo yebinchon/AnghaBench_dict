@@ -1,0 +1,9 @@
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+SIGSETOR,FUNC_2
+copyout,FUNC_3
+sys_sigpending,FUNC_4
+td,VAR_0
+uap,VAR_1
+p,VAR_2
+pending,VAR_3

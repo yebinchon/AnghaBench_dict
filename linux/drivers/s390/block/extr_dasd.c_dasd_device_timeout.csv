@@ -1,0 +1,12 @@
+DASD_STOPPED_PENDING,VAR_0
+dasd_device_remove_stop_bits,FUNC_0
+dasd_schedule_device_bh,FUNC_1
+from_timer,FUNC_2
+get_ccwdev_lock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+timer,VAR_1
+dasd_device_timeout,FUNC_6
+t,VAR_2
+flags,VAR_3
+device,VAR_4

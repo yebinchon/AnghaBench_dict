@@ -1,0 +1,8 @@
+FSI_CHAR_MAX_DEVICES,VAR_0
+bus_unregister,FUNC_0
+fsi_base_dev,VAR_1
+fsi_bus_type,VAR_2
+fsi_minor_ida,VAR_3
+ida_destroy,FUNC_1
+unregister_chrdev_region,FUNC_2
+fsi_exit,FUNC_3

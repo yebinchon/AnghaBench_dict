@@ -1,0 +1,17 @@
+CHANNEL_TLV_LIST_END,VAR_0
+CHANNEL_TLV_STOP_RXQS,VAR_1
+ECORE_INVAL,VAR_2
+PFVF_STATUS_SUCCESS,VAR_3
+ecore_add_tlv,FUNC_0
+ecore_send_msg2pf,FUNC_1
+ecore_vf_pf_add_qid,FUNC_2
+ecore_vf_pf_prep,FUNC_3
+ecore_vf_pf_req_end,FUNC_4
+ecore_vf_pf_rxq_stop,FUNC_5
+p_hwfn,VAR_4
+p_cid,VAR_5
+cqe_completion,VAR_6
+p_iov,VAR_7
+req,VAR_8
+resp,VAR_9
+rc,VAR_10

@@ -1,0 +1,15 @@
+DPSW_CMDID_FDB_ADD_UNICAST,VAR_0
+ENTRY_TYPE,VAR_1
+cpu_to_le16,FUNC_0
+dpsw_set_field,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpsw_fdb_add_unicast,FUNC_4
+mc_io,VAR_2
+cmd_flags,VAR_3
+token,VAR_4
+fdb_id,VAR_5
+cfg,VAR_6
+cmd,VAR_7
+cmd_params,VAR_8
+i,VAR_9

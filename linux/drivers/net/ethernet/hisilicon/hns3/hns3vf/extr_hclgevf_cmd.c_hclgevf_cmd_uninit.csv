@@ -1,0 +1,10 @@
+HCLGEVF_STATE_CMD_DISABLE,VAR_0
+clear_bit,FUNC_0
+hclgevf_cmd_uninit_regs,FUNC_1
+hclgevf_free_cmd_desc,FUNC_2
+spin_lock,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock,FUNC_5
+spin_unlock_bh,FUNC_6
+hclgevf_cmd_uninit,FUNC_7
+hdev,VAR_1

@@ -1,0 +1,11 @@
+EINVAL,VAR_0
+IMX_GPIO_DR_REG,VAR_1
+READ4,FUNC_0
+WRITE4,FUNC_1
+device_get_softc,FUNC_2
+mtx_lock_spin,FUNC_3
+mtx_unlock_spin,FUNC_4
+imx51_gpio_pin_toggle,FUNC_5
+dev,VAR_2
+pin,VAR_3
+sc,VAR_4

@@ -1,0 +1,17 @@
+BDADDR_TO_STREAM,FUNC_0
+H4_TYPE_COMMAND,VAR_0
+HCIC_PARAM_SIZE_BLE_WRITE_ADV_PARAMS,VAR_1
+HCI_BLE_WRITE_ADV_PARAMS,VAR_2
+HCI_H4_CMD_PREAMBLE_SIZE,VAR_3
+UINT16_TO_STREAM,FUNC_1
+UINT8_TO_STREAM,FUNC_2
+make_cmd_ble_set_adv_param,FUNC_3
+buf,VAR_4
+adv_int_min,VAR_5
+adv_int_max,VAR_6
+adv_type,VAR_7
+addr_type_own,VAR_8
+addr_type_dir,VAR_9
+direct_bda,VAR_10
+channel_map,VAR_11
+adv_filter_policy,VAR_12

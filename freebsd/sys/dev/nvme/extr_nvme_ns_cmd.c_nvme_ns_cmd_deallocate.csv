@@ -1,0 +1,14 @@
+ENOMEM,VAR_0
+NVME_DSM_ATTR_DEALLOCATE,VAR_1
+NVME_OPC_DATASET_MANAGEMENT,VAR_2
+htole32,FUNC_0
+nvme_allocate_request_vaddr,FUNC_1
+nvme_ctrlr_submit_io_request,FUNC_2
+nvme_ns_cmd_deallocate,FUNC_3
+ns,VAR_3
+payload,VAR_4
+num_ranges,VAR_5
+cb_fn,VAR_6
+cb_arg,VAR_7
+req,VAR_8
+cmd,VAR_9

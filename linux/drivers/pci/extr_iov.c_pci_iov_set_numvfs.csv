@@ -1,0 +1,9 @@
+PCI_SRIOV_NUM_VF,VAR_0
+PCI_SRIOV_VF_OFFSET,VAR_1
+PCI_SRIOV_VF_STRIDE,VAR_2
+pci_read_config_word,FUNC_0
+pci_write_config_word,FUNC_1
+pci_iov_set_numvfs,FUNC_2
+dev,VAR_3
+nr_virtfn,VAR_4
+iov,VAR_5

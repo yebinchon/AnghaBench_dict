@@ -1,0 +1,7 @@
+bus_generic_attach,FUNC_0
+device_add_child,FUNC_1
+device_delete_child,FUNC_2
+ofw_gpiobus_register_provider,FUNC_3
+gpiobus_attach_bus,FUNC_4
+dev,VAR_0
+busdev,VAR_1

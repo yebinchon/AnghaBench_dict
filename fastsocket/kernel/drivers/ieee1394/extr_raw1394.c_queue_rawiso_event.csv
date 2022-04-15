@@ -1,0 +1,13 @@
+GFP_ATOMIC,VAR_0
+RAW1394_REQ_RAWISO_ACTIVITY,VAR_1
+__alloc_pending_request,FUNC_0
+__queue_complete_req,FUNC_1
+__rawiso_event_in_queue,FUNC_2
+atomic_inc,FUNC_3
+get_hpsb_generation,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+queue_rawiso_event,FUNC_7
+fi,VAR_2
+flags,VAR_3
+req,VAR_4

@@ -1,0 +1,14 @@
+RTC_MR,VAR_0
+RTC_YMR,VAR_1
+dev_get_drvdata,FUNC_0
+pl031_alarm_irq_enable,FUNC_1
+pl031_stv2_tm_to_time,FUNC_2
+rtc_valid_tm,FUNC_3
+writel,FUNC_4
+pl031_stv2_set_alarm,FUNC_5
+dev,VAR_2
+alarm,VAR_3
+ldata,VAR_4
+time,VAR_5
+bcd_year,VAR_6
+ret,VAR_7

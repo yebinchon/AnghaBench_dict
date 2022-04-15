@@ -1,0 +1,13 @@
+ENOMEM,VAR_0
+RF_ACTIVE,VAR_1
+SYS_RES_MEMORY,VAR_2
+ZGPIO_LOCK_INIT,FUNC_0
+bus_alloc_resource_any,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+gpiobus_attach_bus,FUNC_4
+zy7_gpio_detach,FUNC_5
+zy7_gpio_attach,FUNC_6
+dev,VAR_3
+sc,VAR_4
+rid,VAR_5

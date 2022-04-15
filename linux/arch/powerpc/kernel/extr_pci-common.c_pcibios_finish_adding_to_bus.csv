@@ -1,0 +1,13 @@
+PCI_PROBE_ONLY,VAR_0
+eeh_add_device_tree_late,FUNC_0
+eeh_add_sysfs_files,FUNC_1
+pci_assign_unassigned_bridge_resources,FUNC_2
+pci_assign_unassigned_bus_resources,FUNC_3
+pci_bus_add_devices,FUNC_4
+pci_domain_nr,FUNC_5
+pci_has_flag,FUNC_6
+pcibios_allocate_bus_resources,FUNC_7
+pcibios_claim_one_bus,FUNC_8
+pr_debug,FUNC_9
+pcibios_finish_adding_to_bus,FUNC_10
+bus,VAR_1

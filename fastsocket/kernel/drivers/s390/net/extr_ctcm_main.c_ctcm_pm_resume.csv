@@ -1,0 +1,10 @@
+CCWGROUP_OFFLINE,VAR_0
+READ,VAR_1
+ccw_device_set_online,FUNC_0
+ctcm_open,FUNC_1
+dev_get_drvdata,FUNC_2
+netif_device_attach,FUNC_3
+ctcm_pm_resume,FUNC_4
+gdev,VAR_2
+priv,VAR_3
+rc,VAR_4

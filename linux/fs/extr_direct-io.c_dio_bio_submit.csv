@@ -1,0 +1,12 @@
+BLK_QC_T_NONE,VAR_0
+REQ_OP_READ,VAR_1
+bio_set_pages_dirty,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+stub1,FUNC_3
+submit_bio,FUNC_4
+dio_bio_submit,FUNC_5
+dio,VAR_2
+sdio,VAR_3
+bio,VAR_4
+flags,VAR_5

@@ -1,0 +1,14 @@
+Assert,FUNC_0
+BRIN_METAPAGE_BLKNO,VAR_0
+BufferGetBlockNumber,FUNC_1
+ERROR,VAR_1
+InvalidBlockNumber,VAR_2
+InvalidBuffer,VAR_3
+ReadBuffer,FUNC_2
+ReleaseBuffer,FUNC_3
+elog,FUNC_4
+revmap_get_blkno,FUNC_5
+revmap_get_buffer,FUNC_6
+revmap,VAR_4
+heapBlk,VAR_5
+mapBlk,VAR_6

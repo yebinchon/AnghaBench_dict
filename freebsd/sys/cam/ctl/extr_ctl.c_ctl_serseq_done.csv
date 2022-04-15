@@ -1,0 +1,10 @@
+CTL_FLAG_SERSEQ_DONE,VAR_0
+CTL_LUN,FUNC_0
+CTL_LUN_SERSEQ_OFF,VAR_1
+FALSE,VAR_2
+ctl_try_unblock_others,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+ctl_serseq_done,FUNC_4
+io,VAR_3
+lun,VAR_4

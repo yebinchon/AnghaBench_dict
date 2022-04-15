@@ -1,0 +1,17 @@
+PAGE_SIZE,VAR_0
+THREAD_UNINT,VAR_1
+VM_PAGE_CHECK,FUNC_0
+VM_PAGE_FREE,FUNC_1
+VM_PAGE_GET_PHYS_PAGE,FUNC_2
+VM_PAGE_NULL,VAR_2
+pmap_zero_part_page,FUNC_3
+vm_page_copy,FUNC_4
+vm_page_grab,FUNC_5
+vm_page_part_copy,FUNC_6
+vm_page_wait,FUNC_7
+vm_page_zero_fill,FUNC_8
+vm_page_part_zero_fill,FUNC_9
+m,VAR_3
+m_pa,VAR_4
+len,VAR_5
+tmp,VAR_6

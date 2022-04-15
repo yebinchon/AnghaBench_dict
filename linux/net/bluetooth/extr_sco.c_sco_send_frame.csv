@@ -1,0 +1,17 @@
+BT_DBG,FUNC_0
+EFAULT,VAR_0
+EINVAL,VAR_1
+MSG_DONTWAIT,VAR_2
+bt_skb_send_alloc,FUNC_1
+hci_send_sco,FUNC_2
+kfree_skb,FUNC_3
+memcpy_from_msg,FUNC_4
+sco_pi,FUNC_5
+skb_put,FUNC_6
+sco_send_frame,FUNC_7
+sk,VAR_3
+msg,VAR_4
+len,VAR_5
+conn,VAR_6
+skb,VAR_7
+err,VAR_8

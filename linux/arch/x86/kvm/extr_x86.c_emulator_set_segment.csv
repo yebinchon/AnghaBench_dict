@@ -1,0 +1,12 @@
+emul_to_vcpu,FUNC_0
+get_desc_base,FUNC_1
+get_desc_limit,FUNC_2
+kvm_set_segment,FUNC_3
+emulator_set_segment,FUNC_4
+ctxt,VAR_0
+selector,VAR_1
+desc,VAR_2
+base3,VAR_3
+seg,VAR_4
+vcpu,VAR_5
+var,VAR_6

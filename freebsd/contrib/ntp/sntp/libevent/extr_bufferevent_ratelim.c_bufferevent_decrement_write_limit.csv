@@ -1,0 +1,16 @@
+BEV_LOCK,FUNC_0
+BEV_SUSPEND_BW,VAR_0
+BEV_UNLOCK,FUNC_1
+BEV_UPCAST,FUNC_2
+EVUTIL_ASSERT,FUNC_3
+bufferevent_suspend_write_,FUNC_4
+bufferevent_unsuspend_write_,FUNC_5
+event_add,FUNC_6
+event_del,FUNC_7
+bufferevent_decrement_write_limit,FUNC_8
+bev,VAR_1
+decr,VAR_2
+r,VAR_3
+old_limit,VAR_4
+new_limit,VAR_5
+bevp,VAR_6

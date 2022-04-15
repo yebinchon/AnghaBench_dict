@@ -1,0 +1,13 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+FLAGS_IN_DATA_ST_SHIFT,VAR_2
+FLAGS_OUT_DATA_ST_SHIFT,VAR_3
+dma_sync_sg_for_device,FUNC_0
+dma_unmap_sg,FUNC_1
+omap_crypto_cleanup,FUNC_2
+omap_des_crypt_dma_stop,FUNC_3
+omap_des_finish_req,FUNC_4
+pr_debug,FUNC_5
+omap_des_done_task,FUNC_6
+data,VAR_4
+dd,VAR_5

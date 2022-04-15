@@ -1,0 +1,15 @@
+IndexGetRelation,FUNC_0
+OidIsValid,FUNC_1
+process_add_hypertable,FUNC_2
+ts_chunk_get_by_relid,FUNC_3
+ts_chunk_index_rename,FUNC_4
+ts_chunk_index_rename_parent,FUNC_5
+ts_hypertable_cache_get_entry,FUNC_6
+process_rename_index,FUNC_7
+args,VAR_0
+hcache,VAR_1
+relid,VAR_2
+stmt,VAR_3
+tablerelid,VAR_4
+ht,VAR_5
+chunk,VAR_6

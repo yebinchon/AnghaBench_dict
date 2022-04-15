@@ -1,0 +1,14 @@
+EBUSY,VAR_0
+V4L2_BUF_FLAG_LAST,VAR_1
+VB2_BUF_STATE_DONE,VAR_2
+spin_lock,FUNC_0
+spin_unlock,FUNC_1
+v4l2_event_queue_fh,FUNC_2
+v4l2_m2m_dst_buf_remove,FUNC_3
+v4l2_m2m_last_src_buf,FUNC_4
+vb2_buffer_done,FUNC_5
+vicodec_eos_event,VAR_3
+vicodec_mark_last_buf,FUNC_6
+ctx,VAR_4
+next_dst_buf,VAR_5
+ret,VAR_6

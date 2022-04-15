@@ -1,0 +1,14 @@
+CPU_EMPTY,FUNC_0
+DMAP_TO_PHYS,FUNC_1
+KASSERT,FUNC_2
+LIST_REMOVE,FUNC_3
+PHYS_TO_VM_PAGE,FUNC_4
+allpmaps_lock,VAR_0
+mtx_lock,FUNC_5
+mtx_unlock,FUNC_6
+pm_list,VAR_1
+vm_page_free,FUNC_7
+vm_page_unwire_noq,FUNC_8
+pmap_release,FUNC_9
+pmap,VAR_2
+m,VAR_3

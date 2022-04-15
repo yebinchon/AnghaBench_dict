@@ -1,0 +1,10 @@
+SBNI_LOCK,FUNC_0
+SBNI_UNLOCK,FUNC_1
+bus_teardown_intr,FUNC_2
+callout_drain,FUNC_3
+ether_ifdetach,FUNC_4
+if_free,FUNC_5
+mtx_destroy,FUNC_6
+sbni_stop,FUNC_7
+sbni_detach,FUNC_8
+sc,VAR_0

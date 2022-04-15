@@ -1,0 +1,15 @@
+ALLOC_TAG,VAR_0
+DISPDBG,FUNC_0
+EngAllocMem,FUNC_1
+EngDeviceIoControl,FUNC_2
+EngFreeMem,FUNC_3
+IOCTL_VIDEO_QUERY_AVAIL_MODES,VAR_1
+IOCTL_VIDEO_QUERY_NUM_AVAIL_MODES,VAR_2
+VIDEO_MODE_GRAPHICS,VAR_3
+getAvailableModes,FUNC_4
+hDriver,VAR_4
+modeInformation,VAR_5
+cbModeSize,VAR_6
+ulTemp,VAR_7
+modes,VAR_8
+pVideoTemp,VAR_9

@@ -1,0 +1,17 @@
+TASK_POLICY_ATTRIBUTE,VAR_0
+TASK_POLICY_QOS_AND_RELPRIO,VAR_1
+TASK_POLICY_QOS_WORKQ_OVERRIDE,VAR_2
+THREAD_QOS_LAST,VAR_3
+THREAD_QOS_UNSPECIFIED,VAR_4
+assert,FUNC_0
+proc_set_thread_policy_spinlocked,FUNC_1
+splsched,FUNC_2
+splx,FUNC_3
+thread_lock,FUNC_4
+thread_policy_update_complete_unlocked,FUNC_5
+thread_unlock,FUNC_6
+thread_reset_workq_qos,FUNC_7
+thread,VAR_5
+qos,VAR_6
+pend_token,VAR_7
+s,VAR_8

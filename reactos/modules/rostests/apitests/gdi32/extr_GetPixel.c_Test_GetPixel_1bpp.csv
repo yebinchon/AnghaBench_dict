@@ -1,0 +1,14 @@
+CreateBitmap,FUNC_0
+CreateCompatibleDC,FUNC_1
+DeleteDC,FUNC_2
+DeleteObject,FUNC_3
+GetPixel,FUNC_4
+SelectObject,FUNC_5
+SetBkColor,FUNC_6
+SetTextColor,FUNC_7
+ok,FUNC_8
+Test_GetPixel_1bpp,FUNC_9
+hdc,VAR_0
+hbmp,VAR_1
+buffer,VAR_2
+color,VAR_3

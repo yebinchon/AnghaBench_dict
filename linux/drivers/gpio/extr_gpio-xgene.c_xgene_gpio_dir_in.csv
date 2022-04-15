@@ -1,0 +1,17 @@
+BIT,FUNC_0
+GPIO_BANK_OFFSET,FUNC_1
+GPIO_BIT_OFFSET,FUNC_2
+GPIO_SET_DR_OFFSET,VAR_0
+gpiochip_get_data,FUNC_3
+ioread32,FUNC_4
+iowrite32,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+xgene_gpio_dir_in,FUNC_8
+gc,VAR_1
+offset,VAR_2
+chip,VAR_3
+flags,VAR_4
+bank_offset,VAR_5
+dirval,VAR_6
+bit_offset,VAR_7

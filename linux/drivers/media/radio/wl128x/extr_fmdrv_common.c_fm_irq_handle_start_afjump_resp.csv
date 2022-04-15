@@ -1,0 +1,9 @@
+FM_AF_SWITCH_INPROGRESS,VAR_0
+FM_INTTASK_RUNNING,VAR_1
+FM_SEND_FLAG_GETCMD_IDX,VAR_2
+check_cmdresp_status,FUNC_0
+clear_bit,FUNC_1
+set_bit,FUNC_2
+fm_irq_handle_start_afjump_resp,FUNC_3
+fmdev,VAR_3
+skb,VAR_4

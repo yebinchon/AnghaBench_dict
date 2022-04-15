@@ -1,0 +1,16 @@
+ARRAY_SIZE,FUNC_0
+LM95234_REG_STS_FAULT,VAR_0
+LM95234_REG_STS_TCRIT1,VAR_1
+LM95234_REG_STS_TCRIT2,VAR_2
+i2c_smbus_read_byte_data,FUNC_1
+jiffies,VAR_3
+lm95234_fill_cache,FUNC_2
+lm95234_read_temp,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+time_after,FUNC_6
+lm95234_update_device,FUNC_7
+data,VAR_4
+client,VAR_5
+ret,VAR_6
+i,VAR_7

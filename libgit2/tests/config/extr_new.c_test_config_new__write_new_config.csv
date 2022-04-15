@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+TEST_CONFIG,VAR_1
+cl_assert_equal_s,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_clear,FUNC_3
+git_buf_cstr,FUNC_4
+git_buf_dispose,FUNC_5
+git_config_free,FUNC_6
+git_config_get_string_buf,FUNC_7
+git_config_open_ondisk,FUNC_8
+git_config_set_string,FUNC_9
+p_unlink,FUNC_10
+test_config_new__write_new_config,FUNC_11
+config,VAR_2
+buf,VAR_3

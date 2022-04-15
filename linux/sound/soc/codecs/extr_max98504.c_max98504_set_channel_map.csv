@@ -1,0 +1,16 @@
+MAX98504_MEASUREMENT_ENABLE,VAR_0
+MAX98504_PCM_TX_CHANNEL_SOURCES,VAR_1
+MAX98504_PDM_TX_CONTROL,VAR_2
+WARN_ON,FUNC_0
+regmap_write,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+max98504_set_channel_map,FUNC_3
+dai,VAR_3
+tx_num,VAR_4
+tx_slot,VAR_5
+rx_num,VAR_6
+rx_slot,VAR_7
+max98504,VAR_8
+map,VAR_9
+i,VAR_10
+sources,VAR_11

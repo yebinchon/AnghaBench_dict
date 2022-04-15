@@ -1,0 +1,11 @@
+CS35L36_INT1_MASK,VAR_0
+CS35L36_INT1_MASK_RESET,VAR_1
+CS35L36_INT3_MASK,VAR_2
+CS35L36_INT3_MASK_RESET,VAR_3
+gpiod_set_value_cansleep,FUNC_0
+i2c_get_clientdata,FUNC_1
+regmap_write,FUNC_2
+regulator_bulk_disable,FUNC_3
+cs35l36_i2c_remove,FUNC_4
+client,VAR_4
+cs35l36,VAR_5

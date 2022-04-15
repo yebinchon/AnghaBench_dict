@@ -1,0 +1,11 @@
+GS_TX_INTEN,VAR_0
+IDR_TX_INT_ENAB,VAR_1
+INT_AND_DMA_REG,VAR_2
+SCC_ACCESS_INIT,FUNC_0
+SCCmod,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+scc_disable_tx_interrupts,FUNC_4
+ptr,VAR_3
+port,VAR_4
+flags,VAR_5

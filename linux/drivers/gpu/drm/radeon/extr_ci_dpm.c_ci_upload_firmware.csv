@@ -1,0 +1,14 @@
+BOOT_SEQ_DONE,VAR_0
+RCU_UC_EVENTS,VAR_1
+RREG32_SMC,FUNC_0
+SMC_SYSCON_MISC_CNTL,VAR_2
+WREG32_SMC,FUNC_1
+ci_get_pi,FUNC_2
+ci_load_smc_ucode,FUNC_3
+ci_reset_smc,FUNC_4
+ci_stop_smc_clock,FUNC_5
+ci_upload_firmware,FUNC_6
+rdev,VAR_3
+pi,VAR_4
+i,VAR_5
+ret,VAR_6

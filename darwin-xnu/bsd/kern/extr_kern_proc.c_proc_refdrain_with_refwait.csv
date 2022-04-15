@@ -1,0 +1,16 @@
+FALSE,VAR_0
+P_LIST_DEAD,VAR_1
+P_LIST_DRAIN,VAR_2
+P_LIST_DRAINWAIT,VAR_3
+P_LIST_REFWAIT,VAR_4
+TRUE,VAR_5
+initproc,VAR_6
+msleep,FUNC_0
+proc_list_lock,FUNC_1
+proc_list_mlock,VAR_7
+proc_list_unlock,FUNC_2
+record_procref,FUNC_3
+proc_refdrain_with_refwait,FUNC_4
+p,VAR_8
+get_ref_and_allow_wait,VAR_9
+initexec,VAR_10

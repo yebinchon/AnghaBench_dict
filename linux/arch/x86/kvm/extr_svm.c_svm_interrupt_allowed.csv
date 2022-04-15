@@ -1,0 +1,12 @@
+HF_VINTR_MASK,VAR_0
+SVM_INTERRUPT_SHADOW_MASK,VAR_1
+X86_EFLAGS_IF,VAR_2
+gif_set,FUNC_0
+is_guest_mode,FUNC_1
+kvm_get_rflags,FUNC_2
+to_svm,FUNC_3
+svm_interrupt_allowed,FUNC_4
+vcpu,VAR_3
+svm,VAR_4
+vmcb,VAR_5
+ret,VAR_6

@@ -1,0 +1,16 @@
+TVP5150_CONF_SHARED_PIN,VAR_0
+TVP5150_INTT_CONFIG_REG_B,VAR_1
+TVP5150_INT_CONF,VAR_2
+TVP5150_VDPOE,VAR_3
+regmap_write,FUNC_0
+to_tvp5150,FUNC_1
+tvp5150_init_default,VAR_4
+tvp5150_selmux,FUNC_2
+tvp5150_vdp_init,FUNC_3
+tvp5150_write_inittab,FUNC_4
+v4l2_ctrl_handler_setup,FUNC_5
+tvp5150_reset,FUNC_6
+sd,VAR_5
+val,VAR_6
+decoder,VAR_7
+map,VAR_8

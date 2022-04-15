@@ -1,0 +1,15 @@
+InterlockedIncrement,FUNC_0
+ResetEvent,FUNC_1
+SetEvent,FUNC_2
+WAIT_OBJECT_0,VAR_0
+WaitForSingleObject,FUNC_3
+assert,FUNC_4
+num_synced,VAR_1
+ok,FUNC_5
+start_event,VAR_2
+stop_event,VAR_3
+sync_threads_and_run_one,FUNC_6
+sync_id,VAR_4
+my_id,VAR_5
+num,VAR_6
+ret,VAR_7

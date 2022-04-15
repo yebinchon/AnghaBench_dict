@@ -1,0 +1,13 @@
+HIDPP_GET_REGISTER,VAR_0
+HIDPP_REG_BATTERY_STATUS,VAR_1
+POWER_SUPPLY_STATUS_DISCHARGING,VAR_2
+POWER_SUPPLY_STATUS_FULL,VAR_3
+REPORT_ID_HIDPP_SHORT,VAR_4
+hidpp10_battery_status_map_level,FUNC_0
+hidpp10_battery_status_map_status,FUNC_1
+hidpp_send_rap_command_sync,FUNC_2
+hidpp10_query_battery_status,FUNC_3
+hidpp,VAR_5
+response,VAR_6
+ret,VAR_7
+status,VAR_8

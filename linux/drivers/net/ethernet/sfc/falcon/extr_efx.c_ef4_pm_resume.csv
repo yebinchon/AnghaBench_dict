@@ -1,0 +1,16 @@
+PCI_D0,VAR_0
+RESET_TYPE_ALL,VAR_1
+ef4_pm_thaw,FUNC_0
+pci_enable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_restore_state,FUNC_3
+pci_set_master,FUNC_4
+pci_set_power_state,FUNC_5
+stub1,FUNC_6
+stub2,FUNC_7
+to_pci_dev,FUNC_8
+ef4_pm_resume,FUNC_9
+dev,VAR_2
+pci_dev,VAR_3
+efx,VAR_4
+rc,VAR_5

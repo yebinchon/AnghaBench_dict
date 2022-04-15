@@ -1,0 +1,13 @@
+NMI_DONE,VAR_0
+local64_inc,FUNC_0
+this_cpu_inc,FUNC_1
+this_cpu_read,FUNC_2
+this_cpu_write,FUNC_3
+uv_cpu_nmi,VAR_1
+uv_handle_nmi,FUNC_4
+uv_nmi_ping_count,VAR_2
+uv_nmi_ping_misses,VAR_3
+uv_handle_nmi_ping,FUNC_5
+reason,VAR_4
+regs,VAR_5
+ret,VAR_6

@@ -1,0 +1,8 @@
+R300_MC_IDLE,VAR_0
+RADEON_MC_STATUS,VAR_1
+RREG32,FUNC_0
+udelay,FUNC_1
+r300_mc_wait_for_idle,FUNC_2
+rdev,VAR_2
+i,VAR_3
+tmp,VAR_4

@@ -1,0 +1,12 @@
+INIT_WORK,FUNC_0
+RPC_IS_ASYNC,FUNC_1
+RPC_TASK_QUEUED,VAR_0
+queue_work,FUNC_2
+rpc_async_schedule,VAR_1
+rpc_clear_queued,FUNC_3
+rpc_test_and_set_running,FUNC_4
+rpciod_workqueue,VAR_2
+wake_up_bit,FUNC_5
+rpc_make_runnable,FUNC_6
+task,VAR_3
+need_wakeup,VAR_4

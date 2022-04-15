@@ -1,0 +1,11 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_diff_free,FUNC_2
+git_diff_num_deltas,FUNC_3
+git_diff_tree_to_tree,FUNC_4
+git_repository_head_tree,FUNC_5
+git_tree_free,FUNC_6
+repo,VAR_0
+test_win32_forbidden__can_diff_tree_to_tree,FUNC_7
+diff,VAR_1
+tree,VAR_2

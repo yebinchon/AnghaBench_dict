@@ -1,0 +1,17 @@
+BUG,FUNC_0
+SYS_CNTP_CTL,VAR_0
+SYS_CNTP_CVAL,VAR_1
+SYS_CNTV_CTL,VAR_2
+SYS_CNTV_CVAL,VAR_3
+arch_timer_ctx_index,FUNC_1
+isb,FUNC_2
+local_irq_restore,FUNC_3
+local_irq_save,FUNC_4
+trace_kvm_timer_restore_state,FUNC_5
+vcpu_timer,FUNC_6
+write_sysreg_el0,FUNC_7
+timer_restore_state,FUNC_8
+ctx,VAR_4
+timer,VAR_5
+index,VAR_6
+flags,VAR_7

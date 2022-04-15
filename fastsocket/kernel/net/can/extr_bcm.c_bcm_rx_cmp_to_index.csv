@@ -1,0 +1,9 @@
+BCM_CAN_DLC_MASK,VAR_0
+GET_U64,FUNC_0
+RX_CHECK_DLC,VAR_1
+RX_RECV,VAR_2
+bcm_rx_update_and_send,FUNC_1
+bcm_rx_cmp_to_index,FUNC_2
+op,VAR_3
+index,VAR_4
+rxdata,VAR_5

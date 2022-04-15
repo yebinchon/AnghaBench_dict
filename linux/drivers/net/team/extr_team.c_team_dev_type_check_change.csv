@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+NETDEV_POST_TYPE_CHANGE,VAR_1
+NETDEV_PRE_TYPE_CHANGE,VAR_2
+call_netdevice_notifiers,FUNC_0
+dev_mc_flush,FUNC_1
+dev_uc_flush,FUNC_2
+list_empty,FUNC_3
+netdev_err,FUNC_4
+netdev_priv,FUNC_5
+notifier_to_errno,FUNC_6
+team_setup_by_port,FUNC_7
+team_dev_type_check_change,FUNC_8
+dev,VAR_3
+port_dev,VAR_4
+team,VAR_5
+portname,VAR_6
+err,VAR_7

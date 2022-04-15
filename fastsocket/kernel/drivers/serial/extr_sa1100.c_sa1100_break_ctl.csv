@@ -1,0 +1,11 @@
+UART_GET_UTCR3,FUNC_0
+UART_PUT_UTCR3,FUNC_1
+UTCR3_BRK,VAR_0
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+sa1100_break_ctl,FUNC_4
+port,VAR_1
+break_state,VAR_2
+sport,VAR_3
+flags,VAR_4
+utcr3,VAR_5

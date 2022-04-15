@@ -1,0 +1,8 @@
+NF_CT_DEFAULT_ZONE_ID,VAR_0
+htons,FUNC_0
+nla_put_be16,FUNC_1
+ctnetlink_dump_zone_id,FUNC_2
+skb,VAR_1
+attrtype,VAR_2
+zone,VAR_3
+dir,VAR_4

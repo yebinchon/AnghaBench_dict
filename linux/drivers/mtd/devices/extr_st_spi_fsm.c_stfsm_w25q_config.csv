@@ -1,0 +1,15 @@
+SPINOR_OP_RDCR,VAR_0
+SPINOR_OP_RDSR,VAR_1
+SPINOR_OP_WRSR,VAR_2
+W25Q_STATUS_QE,VAR_3
+stfsm_prepare_rwe_seqs_default,FUNC_0
+stfsm_read_status,FUNC_1
+stfsm_write_status,FUNC_2
+stfsm_w25q_config,FUNC_3
+fsm,VAR_4
+data_pads,VAR_5
+sr1,VAR_6
+sr2,VAR_7
+sr_wr,VAR_8
+update_sr,VAR_9
+ret,VAR_10

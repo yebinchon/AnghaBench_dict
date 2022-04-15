@@ -1,0 +1,16 @@
+LPFC_CT_CTX_MAX,VAR_0
+UNSOL_INVALID,VAR_1
+UNSOL_VALID,VAR_2
+be16_to_cpu,FUNC_0
+memcpy,FUNC_1
+sli4_sid_from_fc_hdr,FUNC_2
+lpfc_bsg_ct_unsol_abort,FUNC_3
+phba,VAR_3
+dmabuf,VAR_4
+fc_hdr,VAR_5
+fc_hdr_ptr,VAR_6
+ctx_idx,VAR_7
+handled,VAR_8
+oxid,VAR_9
+rxid,VAR_10
+sid,VAR_11

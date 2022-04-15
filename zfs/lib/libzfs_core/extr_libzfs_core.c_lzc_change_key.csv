@@ -1,0 +1,17 @@
+ZFS_IOC_CHANGE_KEY,VAR_0
+ZPOOL_HIDDEN_ARGS,VAR_1
+fnvlist_add_nvlist,FUNC_0
+fnvlist_add_uint64,FUNC_1
+fnvlist_add_uint8_array,FUNC_2
+fnvlist_alloc,FUNC_3
+lzc_ioctl,FUNC_4
+nvlist_free,FUNC_5
+lzc_change_key,FUNC_6
+fsname,VAR_2
+crypt_cmd,VAR_3
+props,VAR_4
+wkeydata,VAR_5
+wkeylen,VAR_6
+error,VAR_7
+ioc_args,VAR_8
+hidden_args,VAR_9

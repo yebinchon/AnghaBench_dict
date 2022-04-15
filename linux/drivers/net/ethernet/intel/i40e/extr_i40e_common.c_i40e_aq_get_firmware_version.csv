@@ -1,0 +1,16 @@
+i40e_aqc_opc_get_version,VAR_0
+i40e_asq_send_command,FUNC_0
+i40e_fill_default_direct_cmd_desc,FUNC_1
+le16_to_cpu,FUNC_2
+le32_to_cpu,FUNC_3
+i40e_aq_get_firmware_version,FUNC_4
+hw,VAR_1
+fw_major_version,VAR_2
+fw_minor_version,VAR_3
+fw_build,VAR_4
+api_major_version,VAR_5
+api_minor_version,VAR_6
+cmd_details,VAR_7
+desc,VAR_8
+resp,VAR_9
+status,VAR_10

@@ -1,0 +1,11 @@
+PS3_AUDIO_AX_IS,VAR_0
+PS3_AUDIO_CONFIG,VAR_1
+PS3_AUDIO_CONFIG_CLEAR,VAR_2
+PS3_AUDIO_INTR_0,VAR_3
+snd_ps3_verify_dma_stop,FUNC_0
+update_mask_reg,FUNC_1
+update_reg,FUNC_2
+wmb,FUNC_3
+snd_ps3_wait_for_dma_stop,FUNC_4
+card,VAR_4
+stop_forced,VAR_5

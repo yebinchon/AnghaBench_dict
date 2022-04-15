@@ -1,0 +1,14 @@
+GETSTRUCT,FUNC_0
+HeapTupleIsValid,FUNC_1
+ObjectIdGetDatum,FUNC_2
+RELOID,VAR_0
+ReleaseSysCache,FUNC_3
+SearchSysCache1,FUNC_4
+renameatt_check,FUNC_5
+RangeVarCallbackForRenameAttribute,FUNC_6
+rv,VAR_1
+relid,VAR_2
+oldrelid,VAR_3
+arg,VAR_4
+tuple,VAR_5
+form,VAR_6

@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+HFI_PROPERTY_CONFIG_VENC_REQUEST_SYNC_FRAME,VAR_1
+HFI_PROPERTY_CONFIG_VENC_TARGET_BITRATE,VAR_2
+ctrl_to_inst,FUNC_0
+hfi_session_set_property,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+venc_calc_bpframes,FUNC_4
+venc_op_s_ctrl,FUNC_5
+ctrl,VAR_3
+inst,VAR_4
+ctr,VAR_5
+en,VAR_6
+brate,VAR_7
+bframes,VAR_8
+ptype,VAR_9
+ret,VAR_10

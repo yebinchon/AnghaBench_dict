@@ -1,0 +1,15 @@
+POWERPC_PMC_ENABLE,VAR_0
+SPR_970MMCR0,VAR_1
+SPR_MMCR0_FC,VAR_2
+mfspr,FUNC_0
+mtspr,FUNC_1
+powerpc_pcpu,VAR_3
+ppc970_set_pmc,FUNC_2
+ppc970_start_pmc,FUNC_3
+cpu,VAR_4
+ri,VAR_5
+pm,VAR_6
+phw,VAR_7
+pmc_mmcr,VAR_8
+config,VAR_9
+error,VAR_10

@@ -1,0 +1,8 @@
+btrfs_set_log_full_commit,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+btrfs_must_commit_transaction,FUNC_3
+trans,VAR_0
+inode,VAR_1
+fs_info,VAR_2
+ret,VAR_3

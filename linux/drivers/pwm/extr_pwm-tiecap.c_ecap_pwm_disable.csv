@@ -1,0 +1,12 @@
+ECCTL2,VAR_0
+ECCTL2_APWM_MODE,VAR_1
+ECCTL2_TSCTR_FREERUN,VAR_2
+pm_runtime_put_sync,FUNC_0
+readw,FUNC_1
+to_ecap_pwm_chip,FUNC_2
+writew,FUNC_3
+ecap_pwm_disable,FUNC_4
+chip,VAR_3
+pwm,VAR_4
+pc,VAR_5
+value,VAR_6

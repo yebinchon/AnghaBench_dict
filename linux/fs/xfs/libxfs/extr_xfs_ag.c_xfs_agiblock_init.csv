@@ -1,0 +1,17 @@
+NULLAGINO,VAR_0
+XFS_AGI_MAGIC,VAR_1
+XFS_AGI_UNLINKED_BUCKETS,VAR_2
+XFS_AGI_VERSION,VAR_3
+XFS_BUF_TO_AGI,FUNC_0
+XFS_FIBT_BLOCK,FUNC_1
+XFS_IBT_BLOCK,FUNC_2
+cpu_to_be32,FUNC_3
+uuid_copy,FUNC_4
+xfs_sb_version_hascrc,FUNC_5
+xfs_sb_version_hasfinobt,FUNC_6
+xfs_agiblock_init,FUNC_7
+mp,VAR_4
+bp,VAR_5
+id,VAR_6
+agi,VAR_7
+bucket,VAR_8

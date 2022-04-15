@@ -1,0 +1,9 @@
+HS20_ROAMING_CONS_SEL_OUI_TYPE,VAR_0
+OUI_WFA,VAR_1
+WLAN_EID_VENDOR_SPECIFIC,VAR_2
+wpabuf_put_be24,FUNC_0
+wpabuf_put_data,FUNC_1
+wpabuf_put_u8,FUNC_2
+wpas_hs20_add_roam_cons_sel,FUNC_3
+buf,VAR_3
+ssid,VAR_4

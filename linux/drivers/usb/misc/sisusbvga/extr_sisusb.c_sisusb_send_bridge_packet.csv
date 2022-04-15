@@ -1,0 +1,15 @@
+SISUSB_CORRECT_ENDIANNESS_PACKET,FUNC_0
+SISUSB_EP_BRIDGE_IN,VAR_0
+SISUSB_EP_BRIDGE_OUT,VAR_1
+le32_to_cpu,FUNC_1
+sisusb_recv_bulk_msg,FUNC_2
+sisusb_send_bulk_msg,FUNC_3
+sisusb_wait_all_out_complete,FUNC_4
+sisusb_send_bridge_packet,FUNC_5
+sisusb,VAR_2
+len,VAR_3
+packet,VAR_4
+tflags,VAR_5
+ret,VAR_6
+bytes_transferred,VAR_7
+tmp,VAR_8

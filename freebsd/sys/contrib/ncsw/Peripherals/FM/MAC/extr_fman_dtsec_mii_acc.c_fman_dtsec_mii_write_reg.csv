@@ -1,0 +1,13 @@
+MIIMADD_PHY_ADDR_SHIFT,VAR_0
+MIIMIND_BUSY,VAR_1
+dtsec_mii_get_div,FUNC_0
+ioread32be,FUNC_1
+iowrite32be,FUNC_2
+wmb,FUNC_3
+fman_dtsec_mii_write_reg,FUNC_4
+regs,VAR_2
+addr,VAR_3
+reg,VAR_4
+data,VAR_5
+dtsec_freq,VAR_6
+tmp,VAR_7

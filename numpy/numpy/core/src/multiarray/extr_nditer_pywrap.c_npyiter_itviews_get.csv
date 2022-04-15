@@ -1,0 +1,13 @@
+NpyIter_GetIterView,FUNC_0
+NpyIter_GetNOp,FUNC_1
+PyErr_SetString,FUNC_2
+PyExc_ValueError,VAR_0
+PyTuple_New,FUNC_3
+PyTuple_SET_ITEM,FUNC_4
+Py_DECREF,FUNC_5
+npyiter_itviews_get,FUNC_6
+self,VAR_1
+ret,VAR_2
+iop,VAR_3
+nop,VAR_4
+view,VAR_5

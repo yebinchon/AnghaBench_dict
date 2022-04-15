@@ -1,0 +1,16 @@
+AUDIT_ARG_FD,FUNC_0
+AUDIT_ARG_FFLAGS,FUNC_1
+AUDIT_ARG_VNODE1,FUNC_2
+LK_RETRY,VAR_0
+LK_SHARED,VAR_1
+VOP_UNLOCK,FUNC_3
+cap_fchflags_rights,VAR_2
+fdrop,FUNC_4
+getvnode,FUNC_5
+setfflags,FUNC_6
+vn_lock,FUNC_7
+sys_fchflags,FUNC_8
+td,VAR_3
+uap,VAR_4
+fp,VAR_5
+error,VAR_6

@@ -1,0 +1,14 @@
+KVM_S390_PGM_FLAGS_ILC_VALID,VAR_0
+PGM_ADDRESSING,VAR_1
+VCPU_EVENT,FUNC_0
+insn_length,FUNC_1
+kvm_s390_forward_psw,FUNC_2
+kvm_s390_inject_prog_irq,FUNC_3
+read_guest_instr,FUNC_4
+trace_kvm_s390_sie_fault,FUNC_5
+vcpu_post_run_fault_in_sie,FUNC_6
+vcpu,VAR_2
+pgm_info,VAR_3
+opcode,VAR_4
+ilen,VAR_5
+rc,VAR_6

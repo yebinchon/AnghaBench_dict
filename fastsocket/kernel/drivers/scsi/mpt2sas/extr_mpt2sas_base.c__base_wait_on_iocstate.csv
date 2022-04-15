@@ -1,0 +1,13 @@
+CAN_SLEEP,VAR_0
+MPI2_IOC_STATE_FAULT,VAR_1
+mpt2sas_base_get_iocstate,FUNC_0
+msleep,FUNC_1
+udelay,FUNC_2
+_base_wait_on_iocstate,FUNC_3
+ioc,VAR_2
+ioc_state,VAR_3
+timeout,VAR_4
+sleep_flag,VAR_5
+count,VAR_6
+cntdn,VAR_7
+current_state,VAR_8

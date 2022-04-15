@@ -1,0 +1,17 @@
+INITIATE_SMP_TASK,VAR_0
+PCI_DMA_FROMDEVICE,VAR_1
+PCI_DMA_TODEVICE,VAR_2
+asd_task_tasklet_complete,VAR_3
+cpu_to_le16,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+pci_map_sg,FUNC_3
+sg_dma_address,FUNC_4
+sg_dma_len,FUNC_5
+asd_build_smp_ascb,FUNC_6
+ascb,VAR_4
+task,VAR_5
+gfp_flags,VAR_6
+asd_ha,VAR_7
+dev,VAR_8
+scb,VAR_9

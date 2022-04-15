@@ -1,0 +1,17 @@
+DPHY_LOCK,VAR_0
+DPHY_PD_DPHY,VAR_1
+DPHY_PD_PLL,VAR_2
+PLL_LOCK_SLEEP,VAR_3
+PLL_LOCK_TIMEOUT,VAR_4
+PWR_ON,VAR_5
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_err,FUNC_2
+phy_get_drvdata,FUNC_3
+phy_write,FUNC_4
+regmap_read_poll_timeout,FUNC_5
+mixel_dphy_power_on,FUNC_6
+phy,VAR_6
+priv,VAR_7
+locked,VAR_8
+ret,VAR_9

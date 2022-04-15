@@ -1,0 +1,13 @@
+cvmx_debug_uart,VAR_0
+cvmx_debug_uart_lock,VAR_1
+cvmx_debug_uart_strhex,FUNC_0
+cvmx_spinlock_lock,FUNC_1
+cvmx_spinlock_unlock,FUNC_2
+cvmx_uart_write_byte,FUNC_3
+cvmx_uart_write_string,FUNC_4
+cvmx_debug_uart_putpacket,FUNC_5
+packet,VAR_2
+i,VAR_3
+csum,VAR_4
+ptr,VAR_5
+csumstr,VAR_6

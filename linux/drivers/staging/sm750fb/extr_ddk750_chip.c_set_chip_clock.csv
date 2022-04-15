@@ -1,0 +1,12 @@
+DEFAULT_INPUT_CLOCK,VAR_0
+MXCLK_PLL,VAR_1
+MXCLK_PLL_CTRL,VAR_2
+SM750LE,VAR_3
+poke32,FUNC_0
+sm750_calc_pll_value,FUNC_1
+sm750_format_pll_reg,FUNC_2
+sm750_get_chip_type,FUNC_3
+set_chip_clock,FUNC_4
+frequency,VAR_4
+pll,VAR_5
+actual_mx_clk,VAR_6

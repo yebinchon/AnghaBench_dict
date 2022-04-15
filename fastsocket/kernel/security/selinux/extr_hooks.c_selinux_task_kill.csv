@@ -1,0 +1,13 @@
+PROCESS__SIGNULL,VAR_0
+SECCLASS_PROCESS,VAR_1
+avc_has_perm,FUNC_0
+current_has_perm,FUNC_1
+signal_to_av,FUNC_2
+task_sid,FUNC_3
+selinux_task_kill,FUNC_4
+p,VAR_2
+info,VAR_3
+sig,VAR_4
+secid,VAR_5
+perm,VAR_6
+rc,VAR_7

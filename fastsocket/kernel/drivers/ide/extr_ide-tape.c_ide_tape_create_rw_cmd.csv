@@ -1,0 +1,16 @@
+PC_FLAG_DMA_OK,VAR_0
+PC_FLAG_WRITING,VAR_1
+READ_6,VAR_2
+WRITE_6,VAR_3
+blk_rq_bytes,FUNC_0
+blk_rq_sectors,FUNC_1
+cpu_to_be32,FUNC_2
+ide_init_pc,FUNC_3
+memcpy,FUNC_4
+put_unaligned,FUNC_5
+ide_tape_create_rw_cmd,FUNC_6
+tape,VAR_4
+pc,VAR_5
+rq,VAR_6
+opcode,VAR_7
+length,VAR_8

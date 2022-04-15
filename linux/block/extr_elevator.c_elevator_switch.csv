@@ -1,0 +1,10 @@
+blk_mq_freeze_queue,FUNC_0
+blk_mq_quiesce_queue,FUNC_1
+blk_mq_unfreeze_queue,FUNC_2
+blk_mq_unquiesce_queue,FUNC_3
+elevator_switch_mq,FUNC_4
+lockdep_assert_held,FUNC_5
+elevator_switch,FUNC_6
+q,VAR_0
+new_e,VAR_1
+err,VAR_2

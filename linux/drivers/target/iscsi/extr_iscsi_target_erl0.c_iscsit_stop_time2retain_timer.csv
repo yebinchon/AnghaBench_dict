@@ -1,0 +1,12 @@
+ISCSI_TF_EXPIRED,VAR_0
+ISCSI_TF_RUNNING,VAR_1
+ISCSI_TF_STOP,VAR_2
+del_timer_sync,FUNC_0
+lockdep_assert_held,FUNC_1
+pr_debug,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+iscsit_stop_time2retain_timer,FUNC_5
+sess,VAR_3
+tpg,VAR_4
+se_tpg,VAR_5

@@ -1,0 +1,10 @@
+IF_SPI_DEVICEID_CTRL_REG,VAR_0
+IF_SPI_DEVICEID_CTRL_REG_TO_CARD_ID,FUNC_0
+IF_SPI_DEVICEID_CTRL_REG_TO_CARD_REV,FUNC_1
+spu_read_u32,FUNC_2
+spu_get_chip_revision,FUNC_3
+card,VAR_1
+card_id,VAR_2
+card_rev,VAR_3
+err,VAR_4
+dev_ctrl,VAR_5

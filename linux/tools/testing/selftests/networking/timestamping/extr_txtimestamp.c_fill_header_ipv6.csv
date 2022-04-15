@@ -1,0 +1,8 @@
+IPPROTO_UDP,VAR_0
+cfg_payload_len,VAR_1
+daddr6,VAR_2
+htons,FUNC_0
+memset,FUNC_1
+fill_header_ipv6,FUNC_2
+p,VAR_3
+ip6h,VAR_4

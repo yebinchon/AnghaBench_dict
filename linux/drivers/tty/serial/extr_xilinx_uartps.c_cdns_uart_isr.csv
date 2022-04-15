@@ -1,0 +1,17 @@
+CDNS_UART_CR,VAR_0
+CDNS_UART_CR_RX_DIS,VAR_1
+CDNS_UART_ISR,VAR_2
+CDNS_UART_IXR_RXMASK,VAR_3
+CDNS_UART_IXR_TXEMPTY,VAR_4
+IRQ_HANDLED,VAR_5
+cdns_uart_handle_rx,FUNC_0
+cdns_uart_handle_tx,FUNC_1
+readl,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+writel,FUNC_5
+cdns_uart_isr,FUNC_6
+irq,VAR_6
+dev_id,VAR_7
+port,VAR_8
+isrstatus,VAR_9

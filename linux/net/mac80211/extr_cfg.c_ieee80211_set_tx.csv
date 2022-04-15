@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+IEEE80211_KEY_FLAG_NO_AUTO_TX,VAR_1
+NL80211_EXT_FEATURE_EXT_KEY_ID,VAR_2
+ieee80211_set_tx_key,FUNC_0
+key_mtx_dereference,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+sta_info_get_bss,FUNC_4
+wiphy_ext_feature_isset,FUNC_5
+ieee80211_set_tx,FUNC_6
+sdata,VAR_3
+mac_addr,VAR_4
+key_idx,VAR_5
+local,VAR_6
+key,VAR_7
+sta,VAR_8
+ret,VAR_9

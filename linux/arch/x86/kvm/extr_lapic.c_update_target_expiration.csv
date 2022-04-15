@@ -1,0 +1,17 @@
+APIC_BUS_CYCLE_NS,VAR_0
+APIC_TMICT,VAR_1
+ktime_add_ns,FUNC_0
+ktime_get,FUNC_1
+ktime_sub,FUNC_2
+ktime_to_ns,FUNC_3
+kvm_lapic_get_reg,FUNC_4
+limit_periodic_timer_frequency,FUNC_5
+mul_u64_u32_div,FUNC_6
+nsec_to_cycles,FUNC_7
+update_target_expiration,FUNC_8
+apic,VAR_2
+old_divisor,VAR_3
+now,VAR_4
+remaining,VAR_5
+ns_remaining_old,VAR_6
+ns_remaining_new,VAR_7

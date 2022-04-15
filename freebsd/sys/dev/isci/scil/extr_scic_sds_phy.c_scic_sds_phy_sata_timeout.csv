@@ -1,0 +1,11 @@
+SCIC_LOG_INFO,FUNC_0
+SCIC_LOG_OBJECT_PHY,VAR_0
+SCI_BASE_PHY_STATE_STARTING,VAR_1
+sci_base_object_get_logger,FUNC_1
+sci_base_state_machine_change_state,FUNC_2
+sci_base_state_machine_stop,FUNC_3
+scic_sds_phy_get_base_state_machine,FUNC_4
+scic_sds_phy_get_starting_substate_machine,FUNC_5
+scic_sds_phy_sata_timeout,FUNC_6
+cookie,VAR_2
+this_phy,VAR_3

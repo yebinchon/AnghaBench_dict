@@ -1,0 +1,13 @@
+IB_WC_SUCCESS,VAR_0
+OCRDMA_CQE_WQEIDX_MASK,VAR_1
+le32_to_cpu,FUNC_0
+ocrdma_hwq_inc_tail,FUNC_1
+ocrdma_update_wc,FUNC_2
+ocrdma_poll_success_scqe,FUNC_3
+qp,VAR_2
+cqe,VAR_3
+ibwc,VAR_4
+polled,VAR_5
+expand,VAR_6
+tail,VAR_7
+wqe_idx,VAR_8

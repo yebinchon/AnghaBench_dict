@@ -1,0 +1,14 @@
+ENOENT,VAR_0
+SPECIAL_INITRD_ROOT_FS_TARGET,VAR_1
+SPECIAL_LOCAL_FS_TARGET,VAR_2
+add_mount,FUNC_0
+add_root_cryptsetup,FUNC_1
+arg_dest,VAR_3
+arg_root_rw,VAR_4
+efi_loader_get_device_part_uuid,FUNC_2
+generator_write_initrd_root_device_deps,FUNC_3
+in_initrd,FUNC_4
+is_efi_boot,FUNC_5
+log_debug,FUNC_6
+log_error_errno,FUNC_7
+add_root_mount,FUNC_8

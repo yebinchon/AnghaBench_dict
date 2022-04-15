@@ -1,0 +1,14 @@
+ICE1712_ROUTE_AC97,VAR_0
+ICEMT,FUNC_0
+MONITOR_ROUTECTRL,VAR_1
+inb,FUNC_1
+outb,FUNC_2
+snd_kcontrol_chip,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+snd_ice1712_digmix_route_ac97_put,FUNC_6
+kcontrol,VAR_2
+ucontrol,VAR_3
+ice,VAR_4
+val,VAR_5
+nval,VAR_6

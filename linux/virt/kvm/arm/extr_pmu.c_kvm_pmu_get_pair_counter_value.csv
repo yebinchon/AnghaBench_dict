@@ -1,0 +1,16 @@
+ARMV8_PMU_CYCLE_IDX,VAR_0
+PMCCNTR_EL0,VAR_1
+PMEVCNTR0_EL0,VAR_2
+__vcpu_sys_reg,FUNC_0
+kvm_pmu_get_canonical_pmc,FUNC_1
+kvm_pmu_pmc_is_chained,FUNC_2
+lower_32_bits,FUNC_3
+perf_event_read_value,FUNC_4
+kvm_pmu_get_pair_counter_value,FUNC_5
+vcpu,VAR_3
+pmc,VAR_4
+counter,VAR_5
+counter_high,VAR_6
+reg,VAR_7
+enabled,VAR_8
+running,VAR_9

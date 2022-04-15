@@ -1,0 +1,16 @@
+IWM_CSR_RESET,VAR_0
+IWM_DEBUG_RESET,VAR_1
+IWM_DPRINTF,FUNC_0
+IWM_LMPM_SECURE_CPU2_HDR_MEM_SPACE,VAR_2
+IWM_LMPM_SECURE_UCODE_LOAD_CPU2_HDR_ADDR,VAR_3
+IWM_WRITE,FUNC_1
+iwm_enable_interrupts,FUNC_2
+iwm_nic_lock,FUNC_3
+iwm_nic_unlock,FUNC_4
+iwm_pcie_load_cpu_sections,FUNC_5
+iwm_write_prph,FUNC_6
+iwm_pcie_load_given_ucode,FUNC_7
+sc,VAR_4
+image,VAR_5
+ret,VAR_6
+first_ucode_section,VAR_7

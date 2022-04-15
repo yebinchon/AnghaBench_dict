@@ -1,0 +1,10 @@
+MMA9551_CMD_READ_CONFIG,VAR_0
+be16_to_cpu,FUNC_0
+mma9551_transfer,FUNC_1
+mma9551_read_config_word,FUNC_2
+client,VAR_1
+app_id,VAR_2
+reg,VAR_3
+val,VAR_4
+ret,VAR_5
+v,VAR_6

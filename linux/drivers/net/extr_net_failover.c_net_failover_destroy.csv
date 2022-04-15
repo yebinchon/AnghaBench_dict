@@ -1,0 +1,15 @@
+failover_slave_unregister,FUNC_0
+failover_unregister,FUNC_1
+free_netdev,FUNC_2
+netdev_priv,FUNC_3
+netif_device_detach,FUNC_4
+rcu_dereference,FUNC_5
+rtnl_dereference,FUNC_6
+rtnl_lock,FUNC_7
+rtnl_unlock,FUNC_8
+unregister_netdevice,FUNC_9
+net_failover_destroy,FUNC_10
+failover,VAR_0
+nfo_info,VAR_1
+failover_dev,VAR_2
+slave_dev,VAR_3

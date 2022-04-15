@@ -1,0 +1,14 @@
+ConvertJIS2SJIS,FUNC_0
+GetProcessHeap,FUNC_1
+HeapAlloc,FUNC_2
+HeapFree,FUNC_3
+MultiByteToWideChar,FUNC_4
+TRACE,FUNC_5
+debugstr_an,FUNC_6
+ConvertJISJapaneseToUnicode,FUNC_7
+input,VAR_0
+count,VAR_1
+output,VAR_2
+out_count,VAR_3
+sjis_string,VAR_4
+rc,VAR_5

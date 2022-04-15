@@ -1,0 +1,17 @@
+ENOTTY,VAR_0
+device_get_nameunit,FUNC_0
+nvme_ctrlr_passthrough_cmd,FUNC_1
+nvme_ns_get_sector_size,FUNC_2
+nvme_ns_get_size,FUNC_3
+nvme_ns_test,FUNC_4
+strncpy,FUNC_5
+nvme_ns_ioctl,FUNC_6
+cdev,VAR_1
+cmd,VAR_2
+arg,VAR_3
+flag,VAR_4
+td,VAR_5
+ns,VAR_6
+ctrlr,VAR_7
+pt,VAR_8
+gnsid,VAR_9

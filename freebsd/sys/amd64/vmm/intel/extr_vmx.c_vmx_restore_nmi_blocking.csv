@@ -1,0 +1,9 @@
+VCPU_CTR0,FUNC_0
+VMCS_GUEST_INTERRUPTIBILITY,VAR_0
+VMCS_INTERRUPTIBILITY_NMI_BLOCKING,VAR_1
+vmcs_read,FUNC_1
+vmcs_write,FUNC_2
+vmx_restore_nmi_blocking,FUNC_3
+vmx,VAR_2
+vcpuid,VAR_3
+gi,VAR_4

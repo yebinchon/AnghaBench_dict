@@ -1,0 +1,11 @@
+AcquireExecutorLocks,FUNC_0
+Assert,FUNC_1
+CACHEDPLAN_MAGIC,VAR_0
+GetUserId,FUNC_2
+ReleaseGenericPlan,FUNC_3
+TransactionIdEquals,FUNC_4
+TransactionIdIsValid,FUNC_5
+TransactionXmin,VAR_1
+CheckCachedPlan,FUNC_6
+plansource,VAR_2
+plan,VAR_3

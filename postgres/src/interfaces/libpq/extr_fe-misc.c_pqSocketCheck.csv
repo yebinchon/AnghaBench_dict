@@ -1,0 +1,16 @@
+EINTR,VAR_0
+PGINVALID_SOCKET,VAR_1
+PG_STRERROR_R_BUFLEN,VAR_2
+SOCK_ERRNO,VAR_3
+SOCK_STRERROR,FUNC_0
+libpq_gettext,FUNC_1
+pgtls_read_pending,FUNC_2
+pqSocketPoll,FUNC_3
+printfPQExpBuffer,FUNC_4
+pqSocketCheck,FUNC_5
+conn,VAR_4
+forRead,VAR_5
+forWrite,VAR_6
+end_time,VAR_7
+result,VAR_8
+sebuf,VAR_9

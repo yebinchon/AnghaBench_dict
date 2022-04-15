@@ -1,0 +1,15 @@
+CX23885_ANALOG_VIDEO,VAR_0
+CX23885_MPEG_DVB,VAR_1
+CX23885_MPEG_ENCODER,VAR_2
+atomic_dec_and_test,FUNC_0
+cx23885_417_unregister,FUNC_1
+cx23885_boards,VAR_3
+cx23885_dvb_unregister,FUNC_2
+cx23885_i2c_unregister,FUNC_3
+cx23885_video_unregister,FUNC_4
+iounmap,FUNC_5
+pci_resource_len,FUNC_6
+pci_resource_start,FUNC_7
+release_mem_region,FUNC_8
+cx23885_dev_unregister,FUNC_9
+dev,VAR_4

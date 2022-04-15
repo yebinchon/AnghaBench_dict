@@ -1,0 +1,10 @@
+SPI_COMMAND1,VAR_0
+SPI_CS_HIGH,VAR_1
+SPI_CS_SW_VAL,VAR_2
+gpiod_set_value,FUNC_0
+spi_master_get_devdata,FUNC_1
+tegra_spi_writel,FUNC_2
+tegra_spi_transfer_end,FUNC_3
+spi,VAR_3
+tspi,VAR_4
+cs_val,VAR_5

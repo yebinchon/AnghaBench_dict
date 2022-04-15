@@ -1,0 +1,13 @@
+HFI1_PRESENT,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_NEED_RESET,VAR_2
+PCI_ERS_RESULT_RECOVERED,VAR_3
+dd_dev_info,FUNC_0
+hfi1_disable_after_error,FUNC_1
+pci_disable_device,FUNC_2
+pci_get_drvdata,FUNC_3
+pci_error_detected,FUNC_4
+pdev,VAR_4
+state,VAR_5
+dd,VAR_6
+ret,VAR_7

@@ -1,0 +1,16 @@
+IIO_VAL_INT,VAR_0
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+reinit_completion,FUNC_2
+sx9500_dec_chan_users,FUNC_3
+sx9500_dec_data_rdy_users,FUNC_4
+sx9500_inc_chan_users,FUNC_5
+sx9500_inc_data_rdy_users,FUNC_6
+sx9500_read_prox_data,FUNC_7
+sx9500_wait_for_sample,FUNC_8
+wait_for_completion_interruptible,FUNC_9
+sx9500_read_proximity,FUNC_10
+data,VAR_1
+chan,VAR_2
+val,VAR_3
+ret,VAR_4

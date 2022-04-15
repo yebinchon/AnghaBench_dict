@@ -1,0 +1,17 @@
+CAM_DIR_MASK,VAR_0
+CAM_DIR_NONE,VAR_1
+CAM_DIR_OUT,VAR_2
+DEVSTAT_NO_DATA,VAR_3
+DEVSTAT_READ,VAR_4
+DEVSTAT_WRITE,VAR_5
+SG_RDWR_DONE,VAR_6
+devstat_end_transaction,FUNC_0
+panic,FUNC_1
+wakeup,FUNC_2
+sgdone,FUNC_3
+periph,VAR_7
+done_ccb,VAR_8
+softc,VAR_9
+csio,VAR_10
+rdwr,VAR_11
+state,VAR_12

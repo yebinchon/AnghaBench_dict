@@ -1,0 +1,14 @@
+R_MIPS16_26,VAR_0
+R_MIPS16_GPREL,VAR_1
+R_MIPS16_HI16,VAR_2
+R_MIPS16_LO16,VAR_3
+bfd_get_16,FUNC_0
+bfd_put_32,FUNC_1
+_bfd_mips16_elf_reloc_unshuffle,FUNC_2
+abfd,VAR_4
+r_type,VAR_5
+jal_shuffle,VAR_6
+data,VAR_7
+extend,VAR_8
+insn,VAR_9
+val,VAR_10

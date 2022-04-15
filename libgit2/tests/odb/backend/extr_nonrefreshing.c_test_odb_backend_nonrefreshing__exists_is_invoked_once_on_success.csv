@@ -1,0 +1,10 @@
+_existing_oid,VAR_0
+_fake,VAR_1
+_repo,VAR_2
+cl_assert_equal_b,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+git_odb_exists,FUNC_3
+git_repository_odb__weakptr,FUNC_4
+test_odb_backend_nonrefreshing__exists_is_invoked_once_on_success,FUNC_5
+odb,VAR_3

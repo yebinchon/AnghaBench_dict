@@ -1,0 +1,12 @@
+EAP_TNC_FLAGS_LENGTH_INCLUDED,VAR_0
+MSG_DEBUG,VAR_1
+wpa_printf,FUNC_0
+wpabuf_alloc,FUNC_1
+wpabuf_put_data,FUNC_2
+wpabuf_tailroom,FUNC_3
+eap_tnc_process_fragment,FUNC_4
+data,VAR_2
+flags,VAR_3
+message_length,VAR_4
+buf,VAR_5
+len,VAR_6

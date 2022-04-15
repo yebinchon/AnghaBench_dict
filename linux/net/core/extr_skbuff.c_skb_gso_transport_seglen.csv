@@ -1,0 +1,15 @@
+SKB_GSO_TCPV4,VAR_0
+SKB_GSO_TCPV6,VAR_1
+SKB_GSO_UDP_L4,VAR_2
+inner_tcp_hdrlen,FUNC_0
+likely,FUNC_1
+skb_inner_transport_header,FUNC_2
+skb_is_gso_sctp,FUNC_3
+skb_shinfo,FUNC_4
+skb_transport_header,FUNC_5
+tcp_hdrlen,FUNC_6
+unlikely,FUNC_7
+skb_gso_transport_seglen,FUNC_8
+skb,VAR_3
+shinfo,VAR_4
+thlen,VAR_5

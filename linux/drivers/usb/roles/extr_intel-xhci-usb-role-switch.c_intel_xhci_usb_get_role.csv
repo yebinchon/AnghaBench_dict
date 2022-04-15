@@ -1,0 +1,15 @@
+DUAL_ROLE_CFG0,VAR_0
+SW_IDPIN,VAR_1
+SW_VBUS_VALID,VAR_2
+USB_ROLE_DEVICE,VAR_3
+USB_ROLE_HOST,VAR_4
+USB_ROLE_NONE,VAR_5
+dev_get_drvdata,FUNC_0
+pm_runtime_get_sync,FUNC_1
+pm_runtime_put,FUNC_2
+readl,FUNC_3
+intel_xhci_usb_get_role,FUNC_4
+dev,VAR_6
+data,VAR_7
+role,VAR_8
+val,VAR_9

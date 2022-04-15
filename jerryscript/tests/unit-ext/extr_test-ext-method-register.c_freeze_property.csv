@@ -1,0 +1,13 @@
+TEST_ASSERT,FUNC_0
+jerry_create_string,FUNC_1
+jerry_define_own_property,FUNC_2
+jerry_free_property_descriptor_fields,FUNC_3
+jerry_init_property_descriptor_fields,FUNC_4
+jerry_release_value,FUNC_5
+jerry_value_is_boolean,FUNC_6
+freeze_property,FUNC_7
+target_obj,VAR_0
+target_prop,VAR_1
+prop_desc,VAR_2
+prop_name,VAR_3
+return_value,VAR_4

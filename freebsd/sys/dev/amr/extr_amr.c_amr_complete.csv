@@ -1,0 +1,16 @@
+AMR_CMD_BUSY,VAR_0
+AMR_CMD_SLEEP,VAR_1
+AMR_STATE_QUEUE_FRZN,VAR_2
+amr_dequeue_completed,FUNC_0
+amr_startio,FUNC_1
+amr_unmapcmd,FUNC_2
+debug_called,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+stub1,FUNC_6
+wakeup,FUNC_7
+amr_complete,FUNC_8
+context,VAR_3
+head,VAR_4
+sc,VAR_5
+ac,VAR_6

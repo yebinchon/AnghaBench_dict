@@ -1,0 +1,16 @@
+EAP_CODE_RESPONSE,VAR_0
+EAP_TYPE_NAK,VAR_1
+EAP_VENDOR_IETF,VAR_2
+MSG_DEBUG,VAR_3
+eap_msg_alloc,FUNC_0
+eap_update_len,FUNC_1
+wpa_hexdump,FUNC_2
+wpa_printf,FUNC_3
+wpabuf_put_u8,FUNC_4
+eap_peer_tls_phase2_nak,FUNC_5
+types,VAR_4
+num_types,VAR_5
+hdr,VAR_6
+resp,VAR_7
+pos,VAR_8
+i,VAR_9

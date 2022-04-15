@@ -1,0 +1,12 @@
+SEGMENT_LDT,VAR_0
+SEGMENT_RPL_MASK,VAR_1
+SEGMENT_TI_MASK,VAR_2
+current,VAR_3
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+native_store_gdt,FUNC_2
+get_desc,FUNC_3
+out,VAR_4
+sel,VAR_5
+gdt_desc,VAR_6
+desc_base,VAR_7

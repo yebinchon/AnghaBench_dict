@@ -1,0 +1,11 @@
+DMA,VAR_0
+TSI721_DMAC_DWRCNT,VAR_1
+current,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+task_pid_nr,FUNC_2
+tsi721_dma_is_idle,FUNC_3
+tsi_debug,FUNC_4
+tsi_err,FUNC_5
+tsi721_start_dma,FUNC_6
+bdma_chan,VAR_3

@@ -1,0 +1,16 @@
+BUFFER_TRACE,FUNC_0
+J_ASSERT_BH,FUNC_1
+atomic_read,FUNC_2
+bh2jh,FUNC_3
+buffer_jbd,FUNC_4
+get_bh,FUNC_5
+jbd_lock_bh_journal_head,FUNC_6
+jbd_unlock_bh_journal_head,FUNC_7
+journal_alloc_journal_head,FUNC_8
+journal_free_journal_head,FUNC_9
+memset,FUNC_10
+set_buffer_jbd,FUNC_11
+jbd2_journal_add_journal_head,FUNC_12
+bh,VAR_0
+jh,VAR_1
+new_jh,VAR_2

@@ -1,0 +1,10 @@
+SOL_SOCKET,VAR_0
+SO_LINGER,VAR_1
+errno,VAR_2
+pError,FUNC_0
+strerror,FUNC_1
+taosCloseSocket,FUNC_2
+taosSetSockOpt,FUNC_3
+taosCloseTcpSocket,FUNC_4
+sockFd,VAR_3
+linger,VAR_4

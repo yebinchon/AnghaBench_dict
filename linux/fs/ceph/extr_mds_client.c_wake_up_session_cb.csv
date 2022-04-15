@@ -1,0 +1,16 @@
+CEPH_CAP_PIN,VAR_0
+CEPH_I_CAP_DROPPED,VAR_1
+FORCE_RO,VAR_2
+RECONNECT,VAR_3
+RENEWCAPS,VAR_4
+__ceph_caps_file_wanted,FUNC_0
+ceph_inode,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+wake_up_all,FUNC_4
+wake_up_session_cb,FUNC_5
+inode,VAR_5
+cap,VAR_6
+arg,VAR_7
+ci,VAR_8
+ev,VAR_9

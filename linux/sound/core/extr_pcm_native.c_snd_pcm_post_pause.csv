@@ -1,0 +1,11 @@
+SNDRV_PCM_STATE_PAUSED,VAR_0
+SNDRV_PCM_STATE_RUNNING,VAR_1
+SNDRV_TIMER_EVENT_MCONTINUE,VAR_2
+SNDRV_TIMER_EVENT_MPAUSE,VAR_3
+snd_pcm_timer_notify,FUNC_0
+snd_pcm_trigger_tstamp,FUNC_1
+wake_up,FUNC_2
+snd_pcm_post_pause,FUNC_3
+substream,VAR_4
+push,VAR_5
+runtime,VAR_6

@@ -1,0 +1,10 @@
+MSR_IA32_PERFCTR0,VAR_0
+MSR_P6_EVNTSEL0,VAR_1
+get_fixed_pmc,FUNC_0
+get_gp_pmc,FUNC_1
+vcpu_to_pmu,FUNC_2
+intel_is_valid_msr,FUNC_3
+vcpu,VAR_2
+msr,VAR_3
+pmu,VAR_4
+ret,VAR_5

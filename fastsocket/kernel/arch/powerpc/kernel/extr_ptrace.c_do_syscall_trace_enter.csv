@@ -1,0 +1,13 @@
+AUDIT_ARCH_PPC,VAR_0
+AUDIT_ARCH_PPC64,VAR_1
+TIF_32BIT,VAR_2
+TIF_SYSCALL_TRACE,VAR_3
+audit_syscall_entry,FUNC_0
+current,VAR_4
+secure_computing,FUNC_1
+test_thread_flag,FUNC_2
+tracehook_report_syscall_entry,FUNC_3
+unlikely,FUNC_4
+do_syscall_trace_enter,FUNC_5
+regs,VAR_5
+ret,VAR_6

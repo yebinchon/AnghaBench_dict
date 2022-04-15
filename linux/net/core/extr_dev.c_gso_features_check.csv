@@ -1,0 +1,15 @@
+IP_DF,VAR_0
+NETIF_F_GSO_MASK,VAR_1
+NETIF_F_TSO_MANGLEID,VAR_2
+SKB_GSO_PARTIAL,VAR_3
+SKB_GSO_TCPV4,VAR_4
+htons,FUNC_0
+inner_ip_hdr,FUNC_1
+ip_hdr,FUNC_2
+skb_shinfo,FUNC_3
+gso_features_check,FUNC_4
+skb,VAR_5
+dev,VAR_6
+features,VAR_7
+gso_segs,VAR_8
+iph,VAR_9

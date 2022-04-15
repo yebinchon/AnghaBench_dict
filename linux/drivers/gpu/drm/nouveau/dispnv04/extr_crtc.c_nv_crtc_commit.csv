@@ -1,0 +1,17 @@
+DRM_MODE_DPMS_ON,VAR_0
+MASK,FUNC_0
+NVReadVgaCrtc,FUNC_1
+NVWriteVgaCrtc,FUNC_2
+NV_CIO_CRE_RCR,VAR_1
+NV_CIO_CRE_RCR_ENDIAN_BIG,VAR_2
+drm_crtc_vblank_on,FUNC_3
+nouveau_crtc,FUNC_4
+nouveau_hw_load_state,FUNC_5
+nv04_crtc_mode_set_base,FUNC_6
+nv04_display,FUNC_7
+stub1,FUNC_8
+nv_crtc_commit,FUNC_9
+crtc,VAR_3
+dev,VAR_4
+funcs,VAR_5
+nv_crtc,VAR_6

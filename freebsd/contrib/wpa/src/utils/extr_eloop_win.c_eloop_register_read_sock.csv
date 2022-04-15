@@ -1,0 +1,17 @@
+FD_READ,VAR_0
+WSACloseEvent,FUNC_0
+WSACreateEvent,FUNC_1
+WSAEventSelect,FUNC_2
+WSAGetLastError,FUNC_3
+WSA_INVALID_EVENT,VAR_1
+eloop,VAR_2
+eloop_prepare_handles,FUNC_4
+os_realloc_array,FUNC_5
+printf,FUNC_6
+eloop_register_read_sock,FUNC_7
+sock,VAR_3
+handler,VAR_4
+eloop_data,VAR_5
+user_data,VAR_6
+event,VAR_7
+tmp,VAR_8

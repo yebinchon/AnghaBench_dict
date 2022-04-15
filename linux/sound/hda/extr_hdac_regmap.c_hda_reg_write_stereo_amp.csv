@@ -1,0 +1,15 @@
+AC_AMP_GET_OUTPUT,VAR_0
+AC_AMP_SET_INPUT,VAR_1
+AC_AMP_SET_LEFT,VAR_2
+AC_AMP_SET_OUTPUT,VAR_3
+AC_AMP_SET_RIGHT,VAR_4
+AC_VERB_SET_AMP_GAIN_MUTE,VAR_5
+snd_hdac_exec_verb,FUNC_0
+hda_reg_write_stereo_amp,FUNC_1
+codec,VAR_6
+reg,VAR_7
+val,VAR_8
+err,VAR_9
+verb,VAR_10
+left,VAR_11
+right,VAR_12

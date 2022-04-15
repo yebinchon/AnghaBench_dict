@@ -1,0 +1,13 @@
+BTRFS_WQ_ENDIO_DIO_REPAIR,VAR_0
+BUG_ON,FUNC_0
+REQ_OP_WRITE,VAR_1
+bio_op,FUNC_1
+btrfs_bio_wq_end_io,FUNC_2
+btrfs_map_bio,FUNC_3
+btrfs_sb,FUNC_4
+submit_dio_repair_bio,FUNC_5
+inode,VAR_2
+bio,VAR_3
+mirror_num,VAR_4
+fs_info,VAR_5
+ret,VAR_6

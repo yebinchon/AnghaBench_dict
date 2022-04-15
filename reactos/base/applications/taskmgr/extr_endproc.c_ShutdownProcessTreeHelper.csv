@@ -1,0 +1,15 @@
+CloseHandle,FUNC_0
+FALSE,VAR_0
+IsCriticalProcess,FUNC_1
+OpenProcess,FUNC_2
+PROCESS_QUERY_INFORMATION,VAR_1
+PROCESS_TERMINATE,VAR_2
+Process32FirstW,FUNC_3
+Process32NextW,FUNC_4
+TerminateProcess,FUNC_5
+ShutdownProcessTreeHelper,FUNC_6
+hSnapshot,VAR_3
+hParentProcess,VAR_4
+dwParentPID,VAR_5
+hChildHandle,VAR_6
+ProcessEntry,VAR_7

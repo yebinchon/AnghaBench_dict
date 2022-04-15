@@ -1,0 +1,13 @@
+ExecClearTuple,FUNC_0
+ExecStoreMinimalTuple,FUNC_1
+MemoryContextSwitchTo,FUNC_2
+heap_copy_minimal_tuple,FUNC_3
+tuplesort_gettuple_common,FUNC_4
+tuplesort_gettupleslot,FUNC_5
+state,VAR_0
+forward,VAR_1
+copy,VAR_2
+slot,VAR_3
+abbrev,VAR_4
+oldcontext,VAR_5
+stup,VAR_6

@@ -1,0 +1,17 @@
+AES_BLOCK_SIZE,VAR_0
+CR_AES_CCM,VAR_1
+CR_AES_GCM,VAR_2
+dev_warn,FUNC_0
+is_aes,FUNC_1
+is_ctr,FUNC_2
+is_decrypt,FUNC_3
+is_encrypt,FUNC_4
+stm32_cryp_check_ctr_counter,FUNC_5
+stm32_cryp_get_hw_mode,FUNC_6
+stm32_cryp_irq_set_npblb,FUNC_7
+stm32_cryp_irq_write_block,FUNC_8
+stm32_cryp_irq_write_ccm_padded_data,FUNC_9
+stm32_cryp_irq_write_gcm_padded_data,FUNC_10
+unlikely,FUNC_11
+stm32_cryp_irq_write_data,FUNC_12
+cryp,VAR_3

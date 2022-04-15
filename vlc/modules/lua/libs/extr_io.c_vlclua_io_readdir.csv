@@ -1,0 +1,15 @@
+closedir,FUNC_0
+luaL_checkstring,FUNC_1
+luaL_error,FUNC_2
+lua_gettop,FUNC_3
+lua_newtable,FUNC_4
+lua_pushstring,FUNC_5
+lua_rawseti,FUNC_6
+vlc_opendir,FUNC_7
+vlc_readdir,FUNC_8
+vlclua_io_readdir,FUNC_9
+L,VAR_0
+psz_path,VAR_1
+p_dir,VAR_2
+psz_entry,VAR_3
+idx,VAR_4

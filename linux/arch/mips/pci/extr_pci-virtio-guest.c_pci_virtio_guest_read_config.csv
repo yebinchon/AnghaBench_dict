@@ -1,0 +1,12 @@
+PCIBIOS_SUCCESSFUL,VAR_0
+PCI_CONFIG_DATA,VAR_1
+inb,FUNC_0
+inl,FUNC_1
+inw,FUNC_2
+pci_virtio_guest_write_config_addr,FUNC_3
+pci_virtio_guest_read_config,FUNC_4
+bus,VAR_2
+devfn,VAR_3
+reg,VAR_4
+size,VAR_5
+val,VAR_6

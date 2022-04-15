@@ -1,0 +1,15 @@
+HPSA_EXTERNAL_RAID_VOLUME_BUS,VAR_0
+HPSA_HBA_BUS,VAR_1
+HPSA_LEGACY_HBA_BUS,VAR_2
+HPSA_PHYSICAL_DEVICE_BUS,VAR_3
+HPSA_RAID_VOLUME_BUS,VAR_4
+get_unaligned_le32,FUNC_0
+hpsa_set_bus_target_lun,FUNC_1
+is_hba_lunid,FUNC_2
+is_logical_dev_addr_mode,FUNC_3
+figure_bus_target_lun,FUNC_4
+h,VAR_5
+lunaddrbytes,VAR_6
+device,VAR_7
+lunid,VAR_8
+bus,VAR_9

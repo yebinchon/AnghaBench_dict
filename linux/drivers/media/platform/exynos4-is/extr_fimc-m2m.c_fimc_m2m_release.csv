@@ -1,0 +1,17 @@
+ST_M2M_RUN,VAR_0
+clear_bit,FUNC_0
+current,VAR_1
+dbg,FUNC_1
+fh_to_ctx,FUNC_2
+fimc_ctrls_delete,FUNC_3
+kfree,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+task_pid_nr,FUNC_7
+v4l2_fh_del,FUNC_8
+v4l2_fh_exit,FUNC_9
+v4l2_m2m_ctx_release,FUNC_10
+fimc_m2m_release,FUNC_11
+file,VAR_2
+ctx,VAR_3
+fimc,VAR_4

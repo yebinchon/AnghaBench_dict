@@ -1,0 +1,16 @@
+LM93_REG_CONFIG,VAR_0
+LM93_REG_GPI_VID_CTL,VAR_1
+LM93_REG_MISC_ERR_MASK,VAR_2
+LM93_REG_SLEEP_CONTROL,VAR_3
+LM93_REG_STATUS_CONTROL,VAR_4
+dev_warn,FUNC_0
+init,VAR_5
+lm93_read_byte,FUNC_1
+lm93_write_byte,FUNC_2
+msleep,FUNC_3
+vccp_limit_type,VAR_6
+vid_agtl,VAR_7
+lm93_init_client,FUNC_4
+client,VAR_8
+i,VAR_9
+reg,VAR_10

@@ -1,0 +1,17 @@
+DEMUX_EVENT_DURATION,VAR_0
+DEMUX_EVENT_METADATA,VAR_1
+DEMUX_EVENT_STREAMS,VAR_2
+MP_ADD_PTS,FUNC_0
+assert,FUNC_1
+demux_update_replaygain,FUNC_2
+lookup_timed_metadata,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+update_cache,FUNC_6
+update_final_metadata,FUNC_7
+demux_update,FUNC_8
+demuxer,VAR_3
+pts,VAR_4
+in,VAR_5
+prev,VAR_6
+cur,VAR_7

@@ -1,0 +1,13 @@
+IRQ_NOPROBE,VAR_0
+IRQ_NOREQUEST,VAR_1
+TC6393XB_NR_IRQS,VAR_2
+irq_set_chained_handler_and_data,FUNC_0
+irq_set_chip,FUNC_1
+irq_set_chip_data,FUNC_2
+irq_set_status_flags,FUNC_3
+platform_get_drvdata,FUNC_4
+tc6393xb_detach_irq,FUNC_5
+dev,VAR_3
+tc6393xb,VAR_4
+irq,VAR_5
+irq_base,VAR_6

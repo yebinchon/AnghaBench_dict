@@ -1,0 +1,11 @@
+CMD_T_ACTIVE,VAR_0
+CMD_T_SENT,VAR_1
+TRANSPORT_PROCESSING,VAR_2
+__target_execute_cmd,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+target_cmd_interrupted,FUNC_3
+target_handle_task_attr,FUNC_4
+target_write_prot_action,FUNC_5
+target_execute_cmd,FUNC_6
+cmd,VAR_3

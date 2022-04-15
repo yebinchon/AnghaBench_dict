@@ -1,0 +1,10 @@
+ACPI_EC_DELAY,VAR_0
+ETIME,VAR_1
+ec_check_ibf0,FUNC_0
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_1
+time_before,FUNC_2
+wait_event_timeout,FUNC_3
+ec_wait_ibf0,FUNC_4
+ec,VAR_3
+delay,VAR_4

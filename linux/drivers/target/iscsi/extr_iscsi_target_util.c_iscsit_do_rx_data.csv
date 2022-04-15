@@ -1,0 +1,14 @@
+MSG_WAITALL,VAR_0
+READ,VAR_1
+iov_iter_kvec,FUNC_0
+memset,FUNC_1
+msg_data_left,FUNC_2
+pr_debug,FUNC_3
+sock_recvmsg,FUNC_4
+iscsit_do_rx_data,FUNC_5
+conn,VAR_2
+count,VAR_3
+data,VAR_4
+rx_loop,VAR_5
+total_rx,VAR_6
+msg,VAR_7

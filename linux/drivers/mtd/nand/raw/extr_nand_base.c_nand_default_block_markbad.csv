@@ -1,0 +1,15 @@
+MTD_OPS_PLACE_OOB,VAR_0
+NAND_BUSWIDTH_16,VAR_1
+memset,FUNC_0
+nand_bbm_get_next_page,FUNC_1
+nand_do_write_oob,FUNC_2
+nand_to_mtd,FUNC_3
+nand_default_block_markbad,FUNC_4
+chip,VAR_2
+ofs,VAR_3
+mtd,VAR_4
+ops,VAR_5
+buf,VAR_6
+ret,VAR_7
+res,VAR_8
+page_offset,VAR_9

@@ -1,0 +1,6 @@
+ARCH_PERFMON_EVENTSEL_ENABLE,VAR_0
+MSR_P6_EVNTSEL0,VAR_1
+rdmsrl,FUNC_0
+wrmsrl,FUNC_1
+p6_pmu_disable_all,FUNC_2
+val,VAR_2

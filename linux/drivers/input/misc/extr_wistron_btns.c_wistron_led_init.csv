@@ -1,0 +1,15 @@
+FE_MAIL_LED,VAR_0
+FE_WIFI_LED,VAR_1
+LED_FULL,VAR_2
+LED_OFF,VAR_3
+MAIL_LED,VAR_4
+WIFI,VAR_5
+bios_get_default_setting,FUNC_0
+bios_set_state,FUNC_1
+led_classdev_register,FUNC_2
+leds_present,VAR_6
+wistron_mail_led,VAR_7
+wistron_wifi_led,VAR_8
+wistron_led_init,FUNC_3
+parent,VAR_9
+wifi,VAR_10

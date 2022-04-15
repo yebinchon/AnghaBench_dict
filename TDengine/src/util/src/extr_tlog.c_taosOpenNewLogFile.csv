@@ -1,0 +1,16 @@
+PTHREAD_CREATE_DETACHED,VAR_0
+logMutex,VAR_1
+openInProgress,VAR_2
+pPrint,FUNC_0
+pthread_attr_destroy,FUNC_1
+pthread_attr_init,FUNC_2
+pthread_attr_setdetachstate,FUNC_3
+pthread_create,FUNC_4
+pthread_mutex_lock,FUNC_5
+pthread_mutex_unlock,FUNC_6
+taosLogLines,VAR_3
+taosLogMaxLines,VAR_4
+taosThreadToOpenNewFile,VAR_5
+taosOpenNewLogFile,FUNC_7
+thread,VAR_6
+attr,VAR_7

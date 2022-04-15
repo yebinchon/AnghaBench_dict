@@ -1,0 +1,12 @@
+BALLOON3_AUX_NIRQ,VAR_0
+BALLOON3_INT_CONTROL_REG,VAR_1
+BALLOON3_IRQ,FUNC_0
+__ffs,FUNC_1
+__raw_readl,FUNC_2
+balloon3_irq_enabled,VAR_2
+generic_handle_irq,FUNC_3
+stub1,FUNC_4
+balloon3_irq_handler,FUNC_5
+irq,VAR_3
+desc,VAR_4
+pending,VAR_5

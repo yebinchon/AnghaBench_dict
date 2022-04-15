@@ -1,0 +1,14 @@
+BIT,FUNC_0
+ESP_LOGI,FUNC_1
+ESP_OK,VAR_0
+JOB_RESET,VAR_1
+SLAVE_INTR_NOTIFY,VAR_2
+TAG,VAR_3
+esp_slave_send_slave_intr,FUNC_2
+esp_slave_wait_for_ioready,FUNC_3
+esp_slave_write_reg,FUNC_4
+portTICK_RATE_MS,VAR_4
+vTaskDelay,FUNC_5
+slave_reset,FUNC_6
+context,VAR_5
+ret,VAR_6

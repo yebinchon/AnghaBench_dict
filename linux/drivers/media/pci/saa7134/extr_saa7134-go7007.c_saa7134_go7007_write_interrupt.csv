@@ -1,0 +1,16 @@
+HPI_ADDR_INTR_STATUS,VAR_0
+HPI_ADDR_INTR_WR_INDEX,VAR_1
+HPI_ADDR_INTR_WR_PARAM,VAR_2
+gpio_read,FUNC_0
+gpio_write,FUNC_1
+msleep,FUNC_2
+pr_debug,FUNC_3
+pr_err,FUNC_4
+saa7134_go7007_write_interrupt,FUNC_5
+go,VAR_3
+addr,VAR_4
+data,VAR_5
+saa,VAR_6
+dev,VAR_7
+i,VAR_8
+status_reg,VAR_9

@@ -1,0 +1,14 @@
+BLURAY_ES_OUT_CONTROL_DISABLE_OUTPUT,VAR_0
+BLURAY_ES_OUT_CONTROL_ENABLE_OUTPUT,VAR_1
+BLURAY_ES_OUT_CONTROL_RANDOM_ACCESS,VAR_2
+ES_OUT_TF_FILTER_RESET,VAR_3
+VLC_OBJECT,FUNC_0
+es_out_Control,FUNC_1
+msg_Err,FUNC_2
+vlc_demux_chained_Delete,FUNC_3
+vlc_demux_chained_New,FUNC_4
+blurayRestartParser,FUNC_5
+p_demux,VAR_4
+b_flush,VAR_5
+b_random_access,VAR_6
+p_sys,VAR_7

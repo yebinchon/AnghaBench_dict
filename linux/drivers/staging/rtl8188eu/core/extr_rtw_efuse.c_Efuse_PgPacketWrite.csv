@@ -1,0 +1,15 @@
+EFUSE_MAP_LEN_88E,VAR_0
+EFUSE_WIFI,VAR_1
+Efuse_GetCurrentSize,FUNC_0
+hal_EfuseConstructPGPkt,FUNC_1
+hal_EfusePartialWriteCheck,FUNC_2
+hal_EfusePgPacketWriteData,FUNC_3
+hal_EfusePgPacketWriteHeader,FUNC_4
+Efuse_PgPacketWrite,FUNC_5
+pAdapter,VAR_2
+offset,VAR_3
+word_en,VAR_4
+pData,VAR_5
+targetPkt,VAR_6
+startAddr,VAR_7
+efuseType,VAR_8

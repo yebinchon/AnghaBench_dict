@@ -1,0 +1,13 @@
+XHCI_SPURIOUS_REBOOT,VAR_0
+hcd_to_xhci,FUNC_0
+spin_lock_irq,FUNC_1
+spin_unlock_irq,FUNC_2
+to_pci_dev,FUNC_3
+usb_disable_xhci_ports,FUNC_4
+xhci_cleanup_msix,FUNC_5
+xhci_dbg,FUNC_6
+xhci_halt,FUNC_7
+xhci_readl,FUNC_8
+xhci_shutdown,FUNC_9
+hcd,VAR_1
+xhci,VAR_2

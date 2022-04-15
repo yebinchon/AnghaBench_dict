@@ -1,0 +1,14 @@
+NF_LOG_MACDECODE,VAR_0
+NF_LOG_TYPE_LOG,VAR_1
+eth_hdr,FUNC_0
+nf_log_buf_add,FUNC_1
+ntohs,FUNC_2
+skb_mac_header,FUNC_3
+dump_ipv4_mac_header,FUNC_4
+m,VAR_2
+info,VAR_3
+skb,VAR_4
+dev,VAR_5
+logflags,VAR_6
+p,VAR_7
+i,VAR_8

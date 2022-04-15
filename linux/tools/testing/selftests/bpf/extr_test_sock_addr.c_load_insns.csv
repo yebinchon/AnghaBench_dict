@@ -1,0 +1,13 @@
+BPF_LOG_BUF_SIZE,VAR_0
+BPF_PROG_TYPE_CGROUP_SOCK_ADDR,VAR_1
+LOAD_REJECT,VAR_2
+bpf_load_program_xattr,FUNC_0
+bpf_log_buf,VAR_3
+log_err,FUNC_1
+memset,FUNC_2
+load_insns,FUNC_3
+test,VAR_4
+insns,VAR_5
+insns_cnt,VAR_6
+load_attr,VAR_7
+ret,VAR_8

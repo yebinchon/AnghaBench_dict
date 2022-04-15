@@ -1,0 +1,11 @@
+add_rq_bw,FUNC_0
+check_preempt_curr_dl,FUNC_1
+deadline_queue_push_tasks,FUNC_2
+dl_task,FUNC_3
+hrtimer_try_to_cancel,FUNC_4
+put_task_struct,FUNC_5
+resched_curr,FUNC_6
+task_on_rq_queued,FUNC_7
+switched_to_dl,FUNC_8
+rq,VAR_0
+p,VAR_1

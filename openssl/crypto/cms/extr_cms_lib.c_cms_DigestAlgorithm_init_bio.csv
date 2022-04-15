@@ -1,0 +1,15 @@
+BIO_f_md,FUNC_0
+BIO_free,FUNC_1
+BIO_new,FUNC_2
+BIO_set_md,FUNC_3
+CMS_F_CMS_DIGESTALGORITHM_INIT_BIO,VAR_0
+CMS_R_MD_BIO_INIT_ERROR,VAR_1
+CMS_R_UNKNOWN_DIGEST_ALGORITHM,VAR_2
+CMSerr,FUNC_4
+EVP_get_digestbyobj,FUNC_5
+X509_ALGOR_get0,FUNC_6
+cms_DigestAlgorithm_init_bio,FUNC_7
+digestAlgorithm,VAR_3
+mdbio,VAR_4
+digestoid,VAR_5
+digest,VAR_6

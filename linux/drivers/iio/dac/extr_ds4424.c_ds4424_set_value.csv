@@ -1,0 +1,11 @@
+DS4424_DAC_ADDR,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+iio_priv,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+ds4424_set_value,FUNC_5
+indio_dev,VAR_0
+val,VAR_1
+chan,VAR_2
+data,VAR_3
+ret,VAR_4

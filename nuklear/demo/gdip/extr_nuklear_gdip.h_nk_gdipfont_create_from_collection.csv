@@ -1,0 +1,14 @@
+FontStyleRegular,VAR_0
+GdipCreateFont,FUNC_0
+GdipGetFontCollectionFamilyCount,FUNC_1
+GdipGetFontCollectionFamilyList,FUNC_2
+UnitPixel,VAR_1
+calloc,FUNC_3
+free,FUNC_4
+gdip,VAR_2
+nk_gdip_getCurFontCollection,FUNC_5
+nk_gdipfont_create_from_collection,FUNC_6
+size,VAR_3
+families,VAR_4
+count,VAR_5
+font,VAR_6

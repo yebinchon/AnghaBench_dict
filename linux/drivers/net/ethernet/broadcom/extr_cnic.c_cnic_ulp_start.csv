@@ -1,0 +1,17 @@
+MAX_CNIC_ULP_TYPE,VAR_0
+ULP_F_CALL_PENDING,VAR_1
+ULP_F_START,VAR_2
+clear_bit,FUNC_0
+cnic_lock,VAR_3
+lockdep_is_held,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+rcu_dereference_protected,FUNC_4
+set_bit,FUNC_5
+stub1,FUNC_6
+test_and_set_bit,FUNC_7
+cnic_ulp_start,FUNC_8
+dev,VAR_4
+cp,VAR_5
+if_type,VAR_6
+ulp_ops,VAR_7

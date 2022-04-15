@@ -1,0 +1,13 @@
+IVTV_REG_DMAXFER,VAR_0
+IVTV_REG_ENCDMAADDR,VAR_1
+add_timer,FUNC_0
+cpu_to_le32,FUNC_1
+ivtv_stream_sync_for_device,FUNC_2
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_3
+read_reg,FUNC_4
+write_reg,FUNC_5
+write_reg_sync,FUNC_6
+ivtv_dma_enc_start_xfer,FUNC_7
+s,VAR_3
+itv,VAR_4

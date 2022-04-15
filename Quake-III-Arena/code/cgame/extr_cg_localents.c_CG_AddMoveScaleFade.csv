@@ -1,0 +1,13 @@
+BG_EvaluateTrajectory,FUNC_0
+CG_FreeLocalEntity,FUNC_1
+LEF_PUFF_DONT_SCALE,VAR_0
+VectorLength,FUNC_2
+VectorSubtract,FUNC_3
+cg,VAR_1
+trap_R_AddRefEntityToScene,FUNC_4
+CG_AddMoveScaleFade,FUNC_5
+le,VAR_2
+re,VAR_3
+c,VAR_4
+delta,VAR_5
+len,VAR_6

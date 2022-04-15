@@ -1,0 +1,16 @@
+ACTIVE_PROFILE_TYPE,VAR_0
+CMD_SUBSYSTEM_COMMON,VAR_1
+OPCODE_COMMON_GET_PROFILE_CONFIG,VAR_2
+be_mbox_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+lancer_chip,FUNC_2
+mutex_lock_interruptible,FUNC_3
+mutex_unlock,FUNC_4
+wrb_from_mbox,FUNC_5
+be_cmd_get_profile_config_mbox,FUNC_6
+adapter,VAR_3
+domain,VAR_4
+cmd,VAR_5
+wrb,VAR_6
+req,VAR_7
+status,VAR_8

@@ -1,0 +1,14 @@
+GRACEFUL_STOP_ACKNOWLEDGE_RX,VAR_0
+QE_CR_PROTOCOL_ETHERNET,VAR_1
+QE_GRACEFUL_STOP_RX,VAR_2
+in_8,FUNC_0
+msleep,FUNC_1
+out_8,FUNC_2
+qe_issue_cmd,FUNC_3
+ucc_fast_get_qe_cr_subblock,FUNC_4
+ugeth_graceful_stop_rx,FUNC_5
+ugeth,VAR_3
+uccf,VAR_4
+cecr_subblock,VAR_5
+temp,VAR_6
+i,VAR_7

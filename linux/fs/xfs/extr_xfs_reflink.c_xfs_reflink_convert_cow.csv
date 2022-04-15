@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+XFS_B_TO_FSB,FUNC_1
+XFS_B_TO_FSBT,FUNC_2
+XFS_ILOCK_EXCL,VAR_0
+xfs_ilock,FUNC_3
+xfs_iunlock,FUNC_4
+xfs_reflink_convert_cow_locked,FUNC_5
+xfs_reflink_convert_cow,FUNC_6
+ip,VAR_1
+offset,VAR_2
+count,VAR_3
+mp,VAR_4
+offset_fsb,VAR_5
+end_fsb,VAR_6
+count_fsb,VAR_7
+error,VAR_8

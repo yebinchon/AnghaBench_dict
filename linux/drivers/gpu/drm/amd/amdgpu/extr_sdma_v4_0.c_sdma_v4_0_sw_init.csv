@@ -1,0 +1,14 @@
+AMDGPU_SDMA_IRQ_INSTANCE0,VAR_0
+DRM_INFO,FUNC_0
+SDMA0_4_0__SRCID__SDMA_SRAM_ECC,VAR_1
+SDMA0_4_0__SRCID__SDMA_TRAP,VAR_2
+amdgpu_irq_add_id,FUNC_1
+amdgpu_ring_init,FUNC_2
+sdma_v4_0_seq_to_irq_id,FUNC_3
+sprintf,FUNC_4
+sdma_v4_0_sw_init,FUNC_5
+handle,VAR_3
+ring,VAR_4
+r,VAR_5
+i,VAR_6
+adev,VAR_7

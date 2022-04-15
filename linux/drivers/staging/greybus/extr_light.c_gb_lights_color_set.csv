@@ -1,0 +1,14 @@
+ESHUTDOWN,VAR_0
+GB_LIGHTS_TYPE_SET_COLOR,VAR_1
+cpu_to_le32,FUNC_0
+gb_operation_sync,FUNC_1
+gb_pm_runtime_get_sync,FUNC_2
+gb_pm_runtime_put_autosuspend,FUNC_3
+get_conn_from_channel,FUNC_4
+gb_lights_color_set,FUNC_5
+channel,VAR_2
+color,VAR_3
+connection,VAR_4
+bundle,VAR_5
+req,VAR_6
+ret,VAR_7

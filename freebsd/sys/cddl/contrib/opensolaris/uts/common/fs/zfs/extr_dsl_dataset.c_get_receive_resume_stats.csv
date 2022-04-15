@@ -1,0 +1,11 @@
+ZFS_PROP_RECEIVE_RESUME_TOKEN,VAR_0
+dsl_prop_nvlist_add_string,FUNC_0
+get_child_receive_stats,FUNC_1
+get_receive_resume_stats_impl,FUNC_2
+strcmp,FUNC_3
+strfree,FUNC_4
+get_receive_resume_stats,FUNC_5
+ds,VAR_1
+nv,VAR_2
+propval,VAR_3
+childval,VAR_4

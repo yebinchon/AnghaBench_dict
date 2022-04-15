@@ -1,0 +1,16 @@
+TWE_STATUS_BITS_DESCRIPTION,VAR_0
+TWE_STATUS_EXPECTED_BITS,VAR_1
+TWE_STATUS_PANIC_BITS,VAR_2
+TWE_STATUS_PCI_ABORT,VAR_3
+TWE_STATUS_PCI_PARITY_ERROR,VAR_4
+TWE_STATUS_UNEXPECTED_BITS,VAR_5
+time_second,VAR_6
+twe_clear_pci_abort,FUNC_0
+twe_clear_pci_parity_error,FUNC_1
+twe_panic,FUNC_2
+twe_printf,FUNC_3
+twe_check_bits,FUNC_4
+sc,VAR_7
+status_reg,VAR_8
+result,VAR_9
+lastwarn,VAR_10

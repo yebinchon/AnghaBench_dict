@@ -1,0 +1,15 @@
+CR16_INSTR_MAXLEN,VAR_0
+CR16_TYPE_JUMP_UNK,VAR_1
+cr16_conds,VAR_2
+cr16_get_dstreg,FUNC_0
+cr16_get_srcreg,FUNC_1
+cr16_print_reg_reg,FUNC_2
+cr16_regs_names,VAR_3
+r_read_le16,FUNC_3
+snprintf,FUNC_4
+strncpy,FUNC_5
+cr16_decode_jmp,FUNC_6
+instr,VAR_4
+cmd,VAR_5
+c,VAR_6
+ret,VAR_7

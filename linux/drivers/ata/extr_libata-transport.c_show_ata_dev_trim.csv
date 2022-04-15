@@ -1,0 +1,12 @@
+ATA_HORKAGE_NOTRIM,VAR_0
+ATA_HORKAGE_NO_NCQ_TRIM,VAR_1
+ata_fpdma_dsm_supported,FUNC_0
+ata_id_has_trim,FUNC_1
+snprintf,FUNC_2
+transport_class_to_dev,FUNC_3
+show_ata_dev_trim,FUNC_4
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+ata_dev,VAR_5
+mode,VAR_6

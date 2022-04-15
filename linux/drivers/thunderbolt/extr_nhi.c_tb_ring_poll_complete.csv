@@ -1,0 +1,8 @@
+__ring_interrupt_mask,FUNC_0
+spin_lock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+tb_ring_poll_complete,FUNC_5
+ring,VAR_0
+flags,VAR_1

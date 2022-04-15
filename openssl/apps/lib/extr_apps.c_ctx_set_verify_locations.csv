@@ -1,0 +1,14 @@
+SSL_CTX_load_verify_dir,FUNC_0
+SSL_CTX_load_verify_file,FUNC_1
+SSL_CTX_load_verify_store,FUNC_2
+SSL_CTX_set_default_verify_dir,FUNC_3
+SSL_CTX_set_default_verify_file,FUNC_4
+SSL_CTX_set_default_verify_store,FUNC_5
+ctx_set_verify_locations,FUNC_6
+ctx,VAR_0
+CAfile,VAR_1
+noCAfile,VAR_2
+CApath,VAR_3
+noCApath,VAR_4
+CAstore,VAR_5
+noCAstore,VAR_6

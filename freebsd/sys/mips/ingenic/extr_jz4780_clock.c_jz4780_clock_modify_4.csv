@@ -1,0 +1,10 @@
+CSR_READ_4,FUNC_0
+CSR_WRITE_4,FUNC_1
+device_get_softc,FUNC_2
+jz4780_clock_modify_4,FUNC_3
+dev,VAR_0
+addr,VAR_1
+clear_mask,VAR_2
+set_mask,VAR_3
+sc,VAR_4
+val,VAR_5

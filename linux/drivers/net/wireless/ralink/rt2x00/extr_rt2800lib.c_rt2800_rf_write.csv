@@ -1,0 +1,16 @@
+RF_CSR_CFG0,VAR_0
+RF_CSR_CFG0_BUSY,VAR_1
+RF_CSR_CFG0_REG_VALUE_BW,VAR_2
+RF_CSR_CFG0_SEL,VAR_3
+RF_CSR_CFG0_STANDBYMODE,VAR_4
+WAIT_FOR_RF,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+rt2800_register_write_lock,FUNC_3
+rt2x00_rf_write,FUNC_4
+rt2x00_set_field32,FUNC_5
+rt2800_rf_write,FUNC_6
+rt2x00dev,VAR_5
+word,VAR_6
+value,VAR_7
+reg,VAR_8

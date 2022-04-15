@@ -1,0 +1,16 @@
+d_drop,FUNC_0
+ecryptfs_dentry_to_lower,FUNC_1
+ecryptfs_interpose,FUNC_2
+fsstack_copy_attr_times,FUNC_3
+fsstack_copy_inode_size,FUNC_4
+lock_parent,FUNC_5
+unlock_dir,FUNC_6
+vfs_mknod,FUNC_7
+ecryptfs_mknod,FUNC_8
+dir,VAR_0
+dentry,VAR_1
+mode,VAR_2
+dev,VAR_3
+rc,VAR_4
+lower_dentry,VAR_5
+lower_dir_dentry,VAR_6

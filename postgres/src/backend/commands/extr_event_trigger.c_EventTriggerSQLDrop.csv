@@ -1,0 +1,16 @@
+CommandCounterIncrement,FUNC_0
+EVT_SQLDrop,VAR_0
+EventTriggerCommonSetup,FUNC_1
+EventTriggerInvoke,FUNC_2
+IsUnderPostmaster,VAR_1
+NIL,VAR_2
+PG_END_TRY,FUNC_3
+PG_FINALLY,FUNC_4
+PG_TRY,FUNC_5
+currentEventTriggerState,VAR_3
+list_free,FUNC_6
+slist_is_empty,FUNC_7
+EventTriggerSQLDrop,FUNC_8
+parsetree,VAR_4
+runlist,VAR_5
+trigdata,VAR_6

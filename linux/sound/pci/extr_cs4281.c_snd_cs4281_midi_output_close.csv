@@ -1,0 +1,12 @@
+BA0_MIDCR,VAR_0
+BA0_MIDCR_TIE,VAR_1
+BA0_MIDCR_TXE,VAR_2
+CS4281_MODE_INPUT,VAR_3
+CS4281_MODE_OUTPUT,VAR_4
+snd_cs4281_midi_reset,FUNC_0
+snd_cs4281_pokeBA0,FUNC_1
+spin_lock_irq,FUNC_2
+spin_unlock_irq,FUNC_3
+snd_cs4281_midi_output_close,FUNC_4
+substream,VAR_5
+chip,VAR_6

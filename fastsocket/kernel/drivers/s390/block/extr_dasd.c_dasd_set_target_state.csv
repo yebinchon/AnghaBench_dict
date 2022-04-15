@@ -1,0 +1,12 @@
+DASD_STATE_READY,VAR_0
+dasd_change_state,FUNC_0
+dasd_get_device,FUNC_1
+dasd_init_waitq,VAR_1
+dasd_probeonly,VAR_2
+dasd_put_device,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+wake_up,FUNC_5
+dasd_set_target_state,FUNC_6
+device,VAR_3
+target,VAR_4

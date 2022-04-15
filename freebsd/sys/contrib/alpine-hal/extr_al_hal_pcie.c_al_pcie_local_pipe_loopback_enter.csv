@@ -1,0 +1,7 @@
+PCIE_PORT_LINK_CTRL_LB_EN_SHIFT,VAR_0
+PCIE_PORT_PIPE_LOOPBACK_CTRL_PIPE_LB_EN_SHIFT,VAR_1
+al_dbg,FUNC_0
+al_reg_write32_masked,FUNC_1
+al_pcie_local_pipe_loopback_enter,FUNC_2
+pcie_port,VAR_2
+regs,VAR_3

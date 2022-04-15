@@ -1,0 +1,15 @@
+GIT_DIFF_INCLUDE_IGNORED,VAR_0
+GIT_DIFF_INCLUDE_UNTRACKED,VAR_1
+GIT_DIFF_OPTIONS_INIT,VAR_2
+GIT_ERROR_INVALID,VAR_3
+cl_assert_equal_i,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_sandbox_init,FUNC_2
+git_diff_index_to_workdir,FUNC_3
+git_error_clear,FUNC_4
+git_error_last,FUNC_5
+test_diff_diffiter__checks_options_version,FUNC_6
+repo,VAR_4
+opts,VAR_5
+diff,VAR_6
+err,VAR_7

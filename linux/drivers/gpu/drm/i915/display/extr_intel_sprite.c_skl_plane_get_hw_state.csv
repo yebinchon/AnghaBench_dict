@@ -1,0 +1,15 @@
+I915_READ,FUNC_0
+PLANE_CTL,FUNC_1
+PLANE_CTL_ENABLE,VAR_0
+POWER_DOMAIN_PIPE,FUNC_2
+intel_display_power_get_if_enabled,FUNC_3
+intel_display_power_put,FUNC_4
+to_i915,FUNC_5
+skl_plane_get_hw_state,FUNC_6
+plane,VAR_1
+pipe,VAR_2
+dev_priv,VAR_3
+power_domain,VAR_4
+plane_id,VAR_5
+wakeref,VAR_6
+ret,VAR_7

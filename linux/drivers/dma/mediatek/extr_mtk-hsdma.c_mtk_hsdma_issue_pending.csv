@@ -1,0 +1,11 @@
+mtk_hsdma_issue_vchan_pending,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+to_hsdma_dev,FUNC_3
+to_hsdma_vchan,FUNC_4
+vchan_issue_pending,FUNC_5
+mtk_hsdma_issue_pending,FUNC_6
+c,VAR_0
+hsdma,VAR_1
+hvc,VAR_2
+flags,VAR_3

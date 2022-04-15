@@ -1,0 +1,13 @@
+TCAM_ASSOCDATA_OFFSET_SHIFT,VAR_0
+TCAM_ASSOCDATA_TRES_USE_OFFSET,VAR_1
+TCAM_V4KEY1_NOPORT,VAR_2
+memset,FUNC_0
+tcam_assoc_write,FUNC_1
+tcam_write,FUNC_2
+niu_set_ip_frag_rule,FUNC_3
+np,VAR_3
+parent,VAR_4
+cp,VAR_5
+tp,VAR_6
+index,VAR_7
+err,VAR_8

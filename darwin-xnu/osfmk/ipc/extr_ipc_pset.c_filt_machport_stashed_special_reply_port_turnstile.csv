@@ -1,0 +1,7 @@
+PORT_SYNC_LINK_WORKLOOP_KNOTE,VAR_0
+assert,FUNC_0
+knote_get_kq,FUNC_1
+kqueue_turnstile,FUNC_2
+filt_machport_stashed_special_reply_port_turnstile,FUNC_3
+port,VAR_1
+kn,VAR_2

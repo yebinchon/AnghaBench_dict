@@ -1,0 +1,17 @@
+BIT,FUNC_0
+MSI_IRQ_NUM,VAR_0
+PCIE_ISR0_MSI_INT_PENDING,VAR_1
+PCIE_ISR0_REG,VAR_2
+PCIE_MSI_MASK_REG,VAR_3
+PCIE_MSI_PAYLOAD_REG,VAR_4
+PCIE_MSI_STATUS_REG,VAR_5
+advk_readl,FUNC_1
+advk_writel,FUNC_2
+generic_handle_irq,FUNC_3
+advk_pcie_handle_msi,FUNC_4
+pcie,VAR_6
+msi_val,VAR_7
+msi_mask,VAR_8
+msi_status,VAR_9
+msi_idx,VAR_10
+msi_data,VAR_11

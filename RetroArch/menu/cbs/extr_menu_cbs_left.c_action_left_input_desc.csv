@@ -1,0 +1,16 @@
+MENU_SETTINGS_INPUT_DESC_BEGIN,VAR_0
+RARCH_CUSTOM_BIND_LIST_END,VAR_1
+RARCH_FIRST_CUSTOM_BIND,VAR_2
+RARCH_UNMAPPED,VAR_3
+config_get_ptr,FUNC_0
+runloop_get_system_info,FUNC_1
+string_is_empty,FUNC_2
+action_left_input_desc,FUNC_3
+type,VAR_4
+label,VAR_5
+wraparound,VAR_6
+system,VAR_7
+settings,VAR_8
+btn_idx,VAR_9
+user_idx,VAR_10
+remap_idx,VAR_11

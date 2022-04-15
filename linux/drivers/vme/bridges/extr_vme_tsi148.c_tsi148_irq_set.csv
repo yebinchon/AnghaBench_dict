@@ -1,0 +1,16 @@
+TSI148_LCSR_INTEN,VAR_0
+TSI148_LCSR_INTEN_IRQEN,VAR_1
+TSI148_LCSR_INTEO,VAR_2
+TSI148_LCSR_INTEO_IRQEO,VAR_3
+ioread32be,FUNC_0
+iowrite32be,FUNC_1
+synchronize_irq,FUNC_2
+to_pci_dev,FUNC_3
+tsi148_irq_set,FUNC_4
+tsi148_bridge,VAR_4
+level,VAR_5
+state,VAR_6
+sync,VAR_7
+pdev,VAR_8
+tmp,VAR_9
+bridge,VAR_10

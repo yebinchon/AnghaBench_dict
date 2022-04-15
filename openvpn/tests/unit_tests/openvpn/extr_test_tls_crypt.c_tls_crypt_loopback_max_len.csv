@@ -1,0 +1,16 @@
+BLEN,FUNC_0
+BPTR,FUNC_1
+TESTBUF_SIZE,VAR_0
+assert_int_equal,FUNC_2
+assert_memory_equal,FUNC_3
+assert_non_null,FUNC_4
+assert_true,FUNC_5
+buf_clear,FUNC_6
+buf_write_alloc,FUNC_7
+skip_if_tls_crypt_not_supported,FUNC_8
+tls_crypt_buf_overhead,FUNC_9
+tls_crypt_unwrap,FUNC_10
+tls_crypt_wrap,FUNC_11
+tls_crypt_loopback_max_len,FUNC_12
+state,VAR_1
+ctx,VAR_2

@@ -1,0 +1,10 @@
+BPF_MAP_UPDATE_ELEM,VAR_0
+memset,FUNC_0
+ptr_to_u64,FUNC_1
+sys_bpf,FUNC_2
+bpf_map_update_elem,FUNC_3
+fd,VAR_1
+key,VAR_2
+value,VAR_3
+flags,VAR_4
+attr,VAR_5

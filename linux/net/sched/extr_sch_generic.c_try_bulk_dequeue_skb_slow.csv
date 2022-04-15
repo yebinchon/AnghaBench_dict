@@ -1,0 +1,12 @@
+qdisc_enqueue_skb_bad_txq,FUNC_0
+skb_get_queue_mapping,FUNC_1
+skb_mark_not_on_list,FUNC_2
+stub1,FUNC_3
+unlikely,FUNC_4
+try_bulk_dequeue_skb_slow,FUNC_5
+q,VAR_0
+skb,VAR_1
+packets,VAR_2
+mapping,VAR_3
+nskb,VAR_4
+cnt,VAR_5

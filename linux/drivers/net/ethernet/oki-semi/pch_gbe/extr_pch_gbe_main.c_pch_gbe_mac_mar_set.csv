@@ -1,0 +1,14 @@
+PCH_GBE_BUSY,VAR_0
+ioread32,FUNC_0
+iowrite32,FUNC_1
+netdev_dbg,FUNC_2
+pch_gbe_hw_to_adapter,FUNC_3
+pch_gbe_wait_clr_bit,FUNC_4
+pch_gbe_mac_mar_set,FUNC_5
+hw,VAR_1
+addr,VAR_2
+index,VAR_3
+adapter,VAR_4
+mar_low,VAR_5
+mar_high,VAR_6
+adrmask,VAR_7

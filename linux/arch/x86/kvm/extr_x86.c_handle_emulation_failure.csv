@@ -1,0 +1,15 @@
+EMULTYPE_SKIP,VAR_0
+EMULTYPE_VMWARE_GP,VAR_1
+GP_VECTOR,VAR_2
+KVM_EXIT_INTERNAL_ERROR,VAR_3
+KVM_INTERNAL_ERROR_EMULATION,VAR_4
+UD_VECTOR,VAR_5
+is_guest_mode,FUNC_0
+kvm_queue_exception,FUNC_1
+kvm_queue_exception_e,FUNC_2
+kvm_x86_ops,VAR_6
+stub1,FUNC_3
+trace_kvm_emulate_insn_failed,FUNC_4
+handle_emulation_failure,FUNC_5
+vcpu,VAR_7
+emulation_type,VAR_8

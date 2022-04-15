@@ -1,0 +1,9 @@
+XHCI_GADDR,FUNC_0
+XHCI_TRB_3_TYPE_GET,FUNC_1
+XHCI_TRB_TYPE_LINK,VAR_0
+assert,FUNC_2
+pci_xhci_trb_next,FUNC_3
+sc,VAR_1
+curtrb,VAR_2
+guestaddr,VAR_3
+next,VAR_4

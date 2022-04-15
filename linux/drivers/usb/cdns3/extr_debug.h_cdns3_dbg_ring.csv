@@ -1,0 +1,14 @@
+GET_TRBS_PER_SEGMENT,FUNC_0
+TRBS_PER_SEGMENT,VAR_0
+cdns3_trb_virt_to_dma,FUNC_1
+le32_to_cpu,FUNC_2
+sprintf,FUNC_3
+cdns3_dbg_ring,FUNC_4
+priv_ep,VAR_1
+ring,VAR_2
+str,VAR_3
+addr,VAR_4
+trb,VAR_5
+trb_per_sector,VAR_6
+ret,VAR_7
+i,VAR_8

@@ -1,0 +1,11 @@
+REQ_FAILFAST_MASK,VAR_0
+blk_account_io_start,FUNC_0
+blk_rq_set_mixed_merge,FUNC_1
+ll_front_merge_fn,FUNC_2
+rq_qos_merge,FUNC_3
+trace_block_bio_frontmerge,FUNC_4
+bio_attempt_front_merge,FUNC_5
+req,VAR_1
+bio,VAR_2
+nr_segs,VAR_3
+ff,VAR_4

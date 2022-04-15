@@ -1,0 +1,16 @@
+RemoteTaskCheckInterval,VAR_0
+TRACKER_CONNECTED,VAR_1
+TRACKER_CONNECTION_FAILED,VAR_2
+TrackerConnectPoll,FUNC_0
+hash_get_num_entries,FUNC_1
+hash_seq_init,FUNC_2
+hash_seq_search,FUNC_3
+pg_usleep,FUNC_4
+TrackerHashConnect,FUNC_5
+taskTrackerHash,VAR_3
+taskTrackerCount,VAR_4
+triedTrackerCount,VAR_5
+taskTracker,VAR_6
+status,VAR_7
+sleepIntervalPerCycle,VAR_8
+trackerStatus,VAR_9

@@ -1,0 +1,15 @@
+HSW_TVIDEO_DIP_CTL,FUNC_0
+I915_READ,FUNC_1
+hsw_dip_data_reg,FUNC_2
+to_i915,FUNC_3
+hsw_read_infoframe,FUNC_4
+encoder,VAR_0
+crtc_state,VAR_1
+type,VAR_2
+frame,VAR_3
+len,VAR_4
+dev_priv,VAR_5
+cpu_transcoder,VAR_6
+val,VAR_7
+data,VAR_8
+i,VAR_9

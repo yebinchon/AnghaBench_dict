@@ -1,0 +1,14 @@
+AUART_CTRL2_RTS,VAR_0
+AUART_CTRL2_RTSEN,VAR_1
+REG_CTRL2,VAR_2
+TIOCM_RTS,VAR_3
+mctrl_gpio_set,FUNC_0
+mxs_read,FUNC_1
+mxs_write,FUNC_2
+to_auart_port,FUNC_3
+uart_cts_enabled,FUNC_4
+mxs_auart_set_mctrl,FUNC_5
+u,VAR_4
+mctrl,VAR_5
+s,VAR_6
+ctrl,VAR_7

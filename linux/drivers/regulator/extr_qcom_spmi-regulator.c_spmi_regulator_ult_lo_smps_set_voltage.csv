@@ -1,0 +1,12 @@
+SPMI_COMMON_REG_VOLTAGE_SET,VAR_0
+ULT_SMPS_RANGE_SPLIT,VAR_1
+rdev_get_drvdata,FUNC_0
+spmi_sw_selector_to_hw,FUNC_1
+spmi_vreg_update_bits,FUNC_2
+spmi_regulator_ult_lo_smps_set_voltage,FUNC_3
+rdev,VAR_2
+selector,VAR_3
+vreg,VAR_4
+ret,VAR_5
+range_sel,VAR_6
+voltage_sel,VAR_7

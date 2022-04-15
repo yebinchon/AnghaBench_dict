@@ -1,0 +1,13 @@
+DeleteSecurityContext,FUNC_0
+FreeCredentialsHandle,FUNC_1
+GSS_C_NO_BUFFER,VAR_0
+PGINVALID_SOCKET,VAR_1
+closesocket,FUNC_2
+free,FUNC_3
+gss_delete_sec_context,FUNC_4
+gss_release_name,FUNC_5
+pg_fe_scram_free,FUNC_6
+pqsecure_close,FUNC_7
+pqDropConnection,FUNC_8
+conn,VAR_2
+flushInput,VAR_3

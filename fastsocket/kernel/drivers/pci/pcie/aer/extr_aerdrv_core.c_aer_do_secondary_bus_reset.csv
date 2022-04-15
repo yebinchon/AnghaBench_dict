@@ -1,0 +1,8 @@
+PCI_BRIDGE_CONTROL,VAR_0
+PCI_BRIDGE_CTL_BUS_RESET,VAR_1
+msleep,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+aer_do_secondary_bus_reset,FUNC_3
+dev,VAR_2
+p2p_ctrl,VAR_3

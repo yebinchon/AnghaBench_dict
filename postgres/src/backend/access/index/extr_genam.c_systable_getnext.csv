@@ -1,0 +1,12 @@
+Assert,FUNC_0
+ERROR,VAR_0
+ExecFetchSlotHeapTuple,FUNC_1
+ForwardScanDirection,VAR_1
+elog,FUNC_2
+index_getnext_slot,FUNC_3
+table_scan_getnextslot,FUNC_4
+systable_getnext,FUNC_5
+sysscan,VAR_2
+htup,VAR_3
+shouldFree,VAR_4
+shouldFree,VAR_5

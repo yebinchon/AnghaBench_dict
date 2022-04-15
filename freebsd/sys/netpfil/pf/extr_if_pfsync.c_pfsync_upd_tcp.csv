@@ -1,0 +1,11 @@
+PF_STATE_LOCK_ASSERT,FUNC_0
+PF_TCPS_PROXY_SRC,VAR_0
+SEQ_GT,FUNC_1
+TCPS_SYN_SENT,VAR_1
+ntohl,FUNC_2
+pf_state_peer_ntoh,FUNC_3
+pfsync_upd_tcp,FUNC_4
+st,VAR_2
+src,VAR_3
+dst,VAR_4
+sync,VAR_5

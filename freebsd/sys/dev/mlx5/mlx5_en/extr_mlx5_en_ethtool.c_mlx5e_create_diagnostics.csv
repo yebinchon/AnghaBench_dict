@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+MLX5_CORE_GENERAL_DIAGNOSTICS_NUM,VAR_1
+MLX5_CORE_PCI_DIAGNOSTICS_NUM,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_NODE,FUNC_0
+SYSCTL_ADD_UQUAD,FUNC_1
+SYSCTL_CHILDREN,FUNC_2
+mlx5_core_general_diagnostics_table,VAR_4
+mlx5_core_pci_diagnostics_table,VAR_5
+mlx5_core_supports_diagnostics,FUNC_3
+mlx5e_create_diagnostics,FUNC_4
+priv,VAR_6
+entry,VAR_7
+ctx,VAR_8
+node,VAR_9
+x,VAR_10

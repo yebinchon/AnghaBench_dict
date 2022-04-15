@@ -1,0 +1,11 @@
+IDE_DFLAG_NODMA,VAR_0
+IDE_HFLAG_TRUST_BIOS_FOR_DMA,VAR_1
+__ide_dma_bad_drive,FUNC_0
+ata_id_has_dma,FUNC_1
+config_drive_for_dma,FUNC_2
+ide_max_dma_mode,FUNC_3
+ide_set_dma_mode,FUNC_4
+ide_tune_dma,FUNC_5
+drive,VAR_2
+hwif,VAR_3
+speed,VAR_4

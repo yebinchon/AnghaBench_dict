@@ -1,0 +1,12 @@
+CAC_TIMEOUT,VAR_0
+IEEE80211_LOCK_ASSERT,FUNC_0
+IEEE80211_NOTIFY_CAC_START,VAR_1
+cac_timeout,VAR_2
+callout_reset,FUNC_1
+ieee80211_notify_cac,FUNC_2
+if_printf,FUNC_3
+ticks_to_secs,FUNC_4
+ieee80211_dfs_cac_start,FUNC_5
+vap,VAR_3
+ic,VAR_4
+dfs,VAR_5

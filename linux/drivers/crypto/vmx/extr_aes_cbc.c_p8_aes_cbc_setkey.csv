@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+aes_p8_set_decrypt_key,FUNC_0
+aes_p8_set_encrypt_key,FUNC_1
+crypto_skcipher_ctx,FUNC_2
+crypto_skcipher_setkey,FUNC_3
+disable_kernel_vsx,FUNC_4
+enable_kernel_vsx,FUNC_5
+pagefault_disable,FUNC_6
+pagefault_enable,FUNC_7
+preempt_disable,FUNC_8
+preempt_enable,FUNC_9
+p8_aes_cbc_setkey,FUNC_10
+tfm,VAR_1
+key,VAR_2
+keylen,VAR_3
+ctx,VAR_4
+ret,VAR_5

@@ -1,0 +1,15 @@
+CL_GetFreePing,FUNC_0
+CL_SetServerInfoByAddress,FUNC_1
+Cmd_Argc,FUNC_2
+Cmd_Argv,FUNC_3
+Com_Memset,FUNC_4
+Com_Printf,FUNC_5
+NET_OutOfBandPrint,FUNC_6
+NET_StringToAdr,FUNC_7
+NS_CLIENT,VAR_0
+cls,VAR_1
+memcpy,FUNC_8
+CL_Ping_f,FUNC_9
+to,VAR_2
+pingptr,VAR_3
+server,VAR_4

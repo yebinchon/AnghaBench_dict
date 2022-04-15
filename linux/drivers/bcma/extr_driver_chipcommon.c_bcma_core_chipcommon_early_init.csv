@@ -1,0 +1,12 @@
+BCMA_CC_CAP,VAR_0
+BCMA_CC_CAP_EXT,VAR_1
+BCMA_CC_CAP_PMU,VAR_2
+BCMA_CC_CHIPSTAT,VAR_3
+BCMA_HOSTTYPE_SOC,VAR_4
+bcma_cc_read32,FUNC_0
+bcma_core_chipcommon_flash_detect,FUNC_1
+bcma_pmu_early_init,FUNC_2
+spin_lock_init,FUNC_3
+bcma_core_chipcommon_early_init,FUNC_4
+cc,VAR_5
+bus,VAR_6

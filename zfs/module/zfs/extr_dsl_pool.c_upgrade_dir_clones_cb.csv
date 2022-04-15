@@ -1,0 +1,17 @@
+DMU_OT_DSL_CLONES,VAR_0
+DMU_OT_NONE,VAR_1
+FTAG,VAR_2
+VERIFY0,FUNC_0
+dmu_buf_will_dirty,FUNC_1
+dsl_dataset_hold_obj,FUNC_2
+dsl_dataset_rele,FUNC_3
+dsl_dir_phys,FUNC_4
+zap_add_int,FUNC_5
+zap_create,FUNC_6
+upgrade_dir_clones_cb,FUNC_7
+dp,VAR_3
+ds,VAR_4
+arg,VAR_5
+tx,VAR_6
+mos,VAR_7
+origin,VAR_8

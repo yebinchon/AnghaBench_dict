@@ -1,0 +1,13 @@
+ALARM_REG,FUNC_0
+RTC_IRQ1_CONF,VAR_0
+RTC_IRQ_AL_EN,VAR_1
+dev_get_drvdata,FUNC_1
+rtc_delayed_write,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+armada38x_rtc_alarm_irq_enable,FUNC_5
+dev,VAR_2
+enabled,VAR_3
+rtc,VAR_4
+reg_irq,VAR_5
+flags,VAR_6

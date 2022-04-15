@@ -1,0 +1,11 @@
+IPPROTO_IP,VAR_0
+IP_FW_DEL,VAR_1
+LINK_TCP,VAR_2
+fw_clrfield,FUNC_0
+memset,FUNC_1
+setsockopt,FUNC_2
+ClearFWHole,FUNC_3
+lnk,VAR_3
+la,VAR_4
+fwhole,VAR_5
+rule,VAR_6

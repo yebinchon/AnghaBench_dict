@@ -1,0 +1,17 @@
+TRB_CHAIN,VAR_0
+TRB_CYCLE,VAR_1
+TYPE_ISOC,VAR_2
+XHCI_AMD_0x96_HOST,VAR_3
+cpu_to_le32,FUNC_0
+le32_to_cpu,FUNC_1
+link_trb_toggles_cycle,FUNC_2
+trace_xhci_inc_enq,FUNC_3
+trb_is_link,FUNC_4
+wmb,FUNC_5
+xhci_link_trb_quirk,FUNC_6
+inc_enq,FUNC_7
+xhci,VAR_4
+ring,VAR_5
+more_trbs_coming,VAR_6
+chain,VAR_7
+next,VAR_8

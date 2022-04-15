@@ -1,0 +1,16 @@
+SNDRV_CTL_ELEM_ACCESS_INACTIVE,VAR_0
+SNDRV_CTL_EVENT_MASK_INFO,VAR_1
+SNDRV_CTL_EVENT_MASK_VALUE,VAR_2
+YDSXGR_SPDIFOUTCTRL,VAR_3
+YDSXGR_SPDIFOUTSTATUS,VAR_4
+snd_ctl_notify,FUNC_0
+snd_pcm_substream_chip,FUNC_1
+snd_ymfpci_playback_close_1,FUNC_2
+snd_ymfpci_readw,FUNC_3
+snd_ymfpci_writew,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+ymfpci_close_extension,FUNC_7
+snd_ymfpci_playback_spdif_close,FUNC_8
+substream,VAR_5
+chip,VAR_6

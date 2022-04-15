@@ -1,0 +1,17 @@
+SEQ_CONTINUE_TIMER,FUNC_0
+SEQ_SONGPOS,FUNC_1
+SEQ_START_TIMER,FUNC_2
+SEQ_STOP_TIMER,FUNC_3
+STORE,FUNC_4
+TMR_EXTERNAL,VAR_0
+next_event_time,VAR_1
+printk,FUNC_5
+setup_metronome,FUNC_6
+stop_metronome,FUNC_7
+timer_mode,VAR_2
+tmr_running,VAR_3
+timer_ext_event,FUNC_8
+devc,VAR_4
+event,VAR_5
+parm,VAR_6
+midi_dev,VAR_7

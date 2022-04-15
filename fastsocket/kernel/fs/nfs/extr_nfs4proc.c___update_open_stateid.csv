@@ -1,0 +1,14 @@
+NFS_DELEGATED_STATE,VAR_0
+nfs4_stateid_copy,FUNC_0
+nfs_set_open_stateid_locked,FUNC_1
+set_bit,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+update_open_stateflags,FUNC_5
+write_seqlock,FUNC_6
+write_sequnlock,FUNC_7
+__update_open_stateid,FUNC_8
+state,VAR_1
+open_stateid,VAR_2
+deleg_stateid,VAR_3
+fmode,VAR_4

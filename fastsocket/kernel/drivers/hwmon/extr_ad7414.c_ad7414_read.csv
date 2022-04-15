@@ -1,0 +1,8 @@
+AD7414_REG_TEMP,VAR_0
+i2c_smbus_read_byte_data,FUNC_0
+i2c_smbus_read_word_data,FUNC_1
+swab16,FUNC_2
+ad7414_read,FUNC_3
+client,VAR_1
+reg,VAR_2
+value,VAR_3

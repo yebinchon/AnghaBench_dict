@@ -1,0 +1,16 @@
+SCIF_LOG_OBJECT_DOMAIN_DISCOVERY,VAR_0
+SCIF_LOG_OBJECT_REMOTE_DEVICE,VAR_1
+SCIF_LOG_TRACE,FUNC_0
+SMP_FUNCTION_DISCOVER,VAR_2
+sci_base_object_get_logger,FUNC_1
+sci_fast_list_remove_element,FUNC_2
+sci_object_get_association,FUNC_3
+sci_pool_put,FUNC_4
+scif_cb_start_internal_io_task_schedule,FUNC_5
+scif_sas_controller_start_high_priority_io,VAR_3
+scif_sas_smp_request_construct_discover,FUNC_6
+scif_sas_smp_remote_device_target_reset_poll,FUNC_7
+fw_request,VAR_4
+fw_device,VAR_5
+fw_controller,VAR_6
+new_command_handle,VAR_7

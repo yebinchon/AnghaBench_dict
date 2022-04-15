@@ -1,0 +1,12 @@
+CPUID_PAE,VAR_0
+TUNABLE_INT_FETCH,FUNC_0
+bootinfo,VAR_1
+cpu_feature,VAR_2
+init_static_kenv,FUNC_1
+pae_mode,VAR_3
+pmap_methods_ptr,VAR_4
+pmap_nopae_cold,FUNC_2
+pmap_nopae_methods,VAR_5
+pmap_pae_cold,FUNC_3
+pmap_pae_methods,VAR_6
+pmap_cold,FUNC_4

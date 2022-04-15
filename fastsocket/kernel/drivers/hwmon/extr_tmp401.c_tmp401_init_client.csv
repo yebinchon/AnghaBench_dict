@@ -1,0 +1,11 @@
+TMP401_CONFIG_READ,VAR_0
+TMP401_CONFIG_SHUTDOWN,VAR_1
+TMP401_CONFIG_WRITE,VAR_2
+TMP401_CONVERSION_RATE_WRITE,VAR_3
+dev_warn,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+tmp401_init_client,FUNC_3
+client,VAR_4
+config,VAR_5
+config_orig,VAR_6

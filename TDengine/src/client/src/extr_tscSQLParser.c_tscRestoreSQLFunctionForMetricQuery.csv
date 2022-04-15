@@ -1,0 +1,14 @@
+TSDB_FUNC_FIRST_DST,VAR_0
+TSDB_FUNC_LAST_DST,VAR_1
+TSDB_FUNC_MAX,VAR_2
+TSDB_FUNC_SUM,VAR_3
+UTIL_METER_IS_METRIC,FUNC_0
+tscFieldInfoGetField,FUNC_1
+tscGetMeterMetaInfo,FUNC_2
+tscSqlExprGet,FUNC_3
+tscRestoreSQLFunctionForMetricQuery,FUNC_4
+pCmd,VAR_4
+pMeterMetaInfo,VAR_5
+i,VAR_6
+pExpr,VAR_7
+pField,VAR_8

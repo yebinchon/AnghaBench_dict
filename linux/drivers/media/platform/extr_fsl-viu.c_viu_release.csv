@@ -1,0 +1,15 @@
+dprintk,FUNC_0
+kfree,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+v4l2_fh_del,FUNC_4
+v4l2_fh_exit,FUNC_5
+video_devdata,FUNC_6
+videobuf_mmap_free,FUNC_7
+videobuf_stop,FUNC_8
+viu_stop_dma,FUNC_9
+viu_release,FUNC_10
+file,VAR_0
+fh,VAR_1
+dev,VAR_2
+minor,VAR_3

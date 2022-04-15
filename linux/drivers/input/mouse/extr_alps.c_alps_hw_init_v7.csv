@@ -1,0 +1,13 @@
+PSMOUSE_CMD_ENABLE,VAR_0
+__alps_command_mode_write_reg,FUNC_0
+alps_command_mode_read_reg,FUNC_1
+alps_command_mode_write_reg,FUNC_2
+alps_enter_command_mode,FUNC_3
+alps_exit_command_mode,FUNC_4
+alps_get_v3_v7_resolution,FUNC_5
+ps2_command,FUNC_6
+alps_hw_init_v7,FUNC_7
+psmouse,VAR_1
+ps2dev,VAR_2
+reg_val,VAR_3
+ret,VAR_4

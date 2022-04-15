@@ -1,0 +1,15 @@
+BUG,FUNC_0
+UNIQUE_ENTRYHI,FUNC_1
+current_cpu_data,VAR_0
+mtc0_tlbw_hazard,FUNC_2
+read_c0_index,FUNC_3
+tlb_probe,FUNC_4
+tlb_probe_hazard,FUNC_5
+tlb_write_indexed,FUNC_6
+tlbw_use_hazard,FUNC_7
+write_c0_entryhi,FUNC_8
+write_c0_entrylo0,FUNC_9
+write_c0_entrylo1,FUNC_10
+_kvm_mips_host_tlb_inv,FUNC_11
+entryhi,VAR_1
+idx,VAR_2

@@ -1,0 +1,16 @@
+EFAULT,VAR_0
+EINVAL,VAR_1
+IP_DF,VAR_2
+SIOCADDTUNNEL,VAR_3
+SIOCCHGTUNNEL,VAR_4
+copy_from_user,FUNC_0
+copy_to_user,FUNC_1
+htons,FUNC_2
+ip_tunnel_ioctl,FUNC_3
+ipip_tunnel_ioctl_verify_protocol,FUNC_4
+ipip_tunnel_ioctl,FUNC_5
+dev,VAR_5
+ifr,VAR_6
+cmd,VAR_7
+err,VAR_8
+p,VAR_9

@@ -1,0 +1,13 @@
+FreeBuf,FUNC_0
+IKE_NOTICE_ERROR_NO_PROPOSAL_CHOSEN,VAR_0
+IKE_PROTOCOL_ID_IKE,VAR_1
+IKE_PROTOCOL_ID_IPSEC_ESP,VAR_2
+IkeNewNoticePayload,FUNC_1
+NewBuf,FUNC_2
+WriteBufInt64,FUNC_3
+IkeNewNoticeErrorNoProposalChosenPayload,FUNC_4
+quick_mode,VAR_3
+init_cookie,VAR_4
+resp_cookie,VAR_5
+b,VAR_6
+ret,VAR_7

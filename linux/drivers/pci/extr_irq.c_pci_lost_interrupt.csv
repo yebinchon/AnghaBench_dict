@@ -1,0 +1,10 @@
+PCI_LOST_IRQ_DISABLE_ACPI,VAR_0
+PCI_LOST_IRQ_DISABLE_MSI,VAR_1
+PCI_LOST_IRQ_DISABLE_MSIX,VAR_2
+PCI_LOST_IRQ_NO_INFORMATION,VAR_3
+acpi_disabled,VAR_4
+acpi_noirq,VAR_5
+pci_note_irq_problem,FUNC_0
+pci_lost_interrupt,FUNC_1
+pdev,VAR_6
+ret,VAR_7

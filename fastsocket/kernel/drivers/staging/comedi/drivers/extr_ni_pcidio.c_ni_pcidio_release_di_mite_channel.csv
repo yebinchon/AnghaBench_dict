@@ -1,0 +1,14 @@
+DMA_Line_Control_Group1,VAR_0
+devpriv,VAR_1
+mite_dma_disarm,FUNC_0
+mite_dma_reset,FUNC_1
+mite_release_channel,FUNC_2
+mmiowb,FUNC_3
+primary_DMAChannel_bits,FUNC_4
+secondary_DMAChannel_bits,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+writeb,FUNC_8
+ni_pcidio_release_di_mite_channel,FUNC_9
+dev,VAR_2
+flags,VAR_3

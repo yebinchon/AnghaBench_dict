@@ -1,0 +1,13 @@
+DC_IS_DAVICOM,FUNC_0
+DC_REVISION_DM9102A,VAR_0
+IFM_ETHER,VAR_1
+IFM_HPNA_1,VAR_2
+device_get_softc,FUNC_1
+ifmedia_add,FUNC_2
+pci_get_revid,FUNC_3
+dc_miibus_mediainit,FUNC_4
+dev,VAR_3
+sc,VAR_4
+mii,VAR_5
+ifm,VAR_6
+rev,VAR_7

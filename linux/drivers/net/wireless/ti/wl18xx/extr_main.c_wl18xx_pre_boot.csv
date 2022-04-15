@@ -1,0 +1,14 @@
+PART_BOOT,VAR_0
+REG_INTERRUPT_MASK,VAR_1
+WELP_ARM_COMMAND_VAL,VAR_2
+WL1271_ACX_INTR_ALL,VAR_3
+WL18XX_WELP_ARM_COMMAND,VAR_4
+udelay,FUNC_0
+wl18xx_boot_soft_reset,FUNC_1
+wl18xx_set_clk,FUNC_2
+wlcore_set_partition,FUNC_3
+wlcore_write32,FUNC_4
+wlcore_write_reg,FUNC_5
+wl18xx_pre_boot,FUNC_6
+wl,VAR_5
+ret,VAR_6

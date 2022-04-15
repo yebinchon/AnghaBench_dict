@@ -1,0 +1,15 @@
+APIC_BASE_MSR,VAR_0
+APIC_DFR,VAR_1
+APIC_ICR,VAR_2
+APIC_ICR2,VAR_3
+apic_x2apic_mode,FUNC_0
+kvm_lapic_reg_read,FUNC_1
+lapic_in_kernel,FUNC_2
+kvm_x2apic_msr_read,FUNC_3
+vcpu,VAR_4
+msr,VAR_5
+data,VAR_6
+apic,VAR_7
+reg,VAR_8
+low,VAR_9
+high,VAR_10

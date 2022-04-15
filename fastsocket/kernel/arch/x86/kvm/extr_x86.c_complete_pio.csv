@@ -1,0 +1,14 @@
+VCPU_REGS_RAX,VAR_0
+VCPU_REGS_RCX,VAR_1
+VCPU_REGS_RDI,VAR_2
+VCPU_REGS_RSI,VAR_3
+kvm_register_read,FUNC_0
+kvm_register_write,FUNC_1
+memcpy,FUNC_2
+pio_copy_data,FUNC_3
+complete_pio,FUNC_4
+vcpu,VAR_4
+io,VAR_5
+delta,VAR_6
+r,VAR_7
+val,VAR_8

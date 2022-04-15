@@ -1,0 +1,16 @@
+AMD_DPM_FORCED_LEVEL_AUTO,VAR_0
+AMD_DPM_FORCED_LEVEL_HIGH,VAR_1
+AMD_DPM_FORCED_LEVEL_LOW,VAR_2
+EINVAL,VAR_3
+PPSMC_MSG_SetEnabledLevels,VAR_4
+PPSMC_MSG_SetForcedLevels,VAR_5
+PPSMC_Result_OK,VAR_6
+si_get_ps,FUNC_0
+si_send_msg_to_smc_with_parameter,FUNC_1
+si_dpm_force_performance_level,FUNC_2
+handle,VAR_7
+level,VAR_8
+adev,VAR_9
+rps,VAR_10
+ps,VAR_11
+levels,VAR_12

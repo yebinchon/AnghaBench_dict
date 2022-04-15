@@ -1,0 +1,11 @@
+DMA_FROM_DEVICE,VAR_0
+RX_BUF_SIZE,VAR_1
+RX_RING_MASK,VAR_2
+be64_to_cpu,FUNC_0
+dev_kfree_skb_any,FUNC_1
+dma_unmap_single,FUNC_2
+ioc3_free_rx_bufs,FUNC_3
+ip,VAR_3
+rx_entry,VAR_4
+n_entry,VAR_5
+skb,VAR_6

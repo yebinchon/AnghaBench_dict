@@ -1,0 +1,13 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_INFO_BLOCK_TRANSFER,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+at73c213_playback_ops,VAR_3
+snd_pcm_lib_preallocate_pages_for_all,FUNC_0
+snd_pcm_new,FUNC_1
+snd_pcm_set_ops,FUNC_2
+strcpy,FUNC_3
+snd_at73c213_pcm_new,FUNC_4
+chip,VAR_4
+device,VAR_5
+pcm,VAR_6
+retval,VAR_7

@@ -1,0 +1,17 @@
+CVMX_CLOCK_CORE,VAR_0
+CVMX_PCIERCX_CFG032,FUNC_0
+CVMX_PCIERCX_CFG448,FUNC_1
+CVMX_PEMX_CTL_STATUS,FUNC_2
+cvmx_clock_get_rate,FUNC_3
+cvmx_get_cycle,FUNC_4
+cvmx_pcie_cfgx_read,FUNC_5
+cvmx_pcie_cfgx_write,FUNC_6
+cvmx_read_csr,FUNC_7
+cvmx_wait,FUNC_8
+cvmx_write_csr,FUNC_9
+__cvmx_pcie_rc_initialize_link_gen2,FUNC_10
+pcie_port,VAR_1
+start_cycle,VAR_2
+pem_ctl_status,VAR_3
+pciercx_cfg032,VAR_4
+pciercx_cfg448,VAR_5

@@ -1,0 +1,17 @@
+EIO,VAR_0
+ESS_PCI_CONFIG,VAR_1
+ESS_PCI_DDMACONTROL,VAR_2
+ESS_PCI_LEGACYCONTROL,VAR_3
+ess_lock,FUNC_0
+ess_reset_dsp,FUNC_1
+ess_setmixer,FUNC_2
+ess_unlock,FUNC_3
+mixer_reinit,FUNC_4
+pci_write_config,FUNC_5
+pcm_getdevinfo,FUNC_6
+port_wr,FUNC_7
+rman_get_start,FUNC_8
+ess_resume,FUNC_9
+dev,VAR_4
+ddma,VAR_5
+sc,VAR_6

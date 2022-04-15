@@ -1,0 +1,16 @@
+A_ESPI_MISC_CONTROL,VAR_0
+A_ESPI_SCH_TOKEN3,VAR_1
+MON_MASK,VAR_2
+V_MONITORED_PORT_NUM,FUNC_0
+is_T2,FUNC_1
+readl,FUNC_2
+spin_lock,FUNC_3
+spin_trylock,FUNC_4
+spin_unlock,FUNC_5
+writel,FUNC_6
+t1_espi_get_mon,FUNC_7
+adapter,VAR_3
+addr,VAR_4
+wait,VAR_5
+espi,VAR_6
+sel,VAR_7

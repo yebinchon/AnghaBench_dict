@@ -1,0 +1,16 @@
+FLAGS_BUSY,VAR_0
+FLAGS_CPU,VAR_1
+FLAGS_DMA_ACTIVE,VAR_2
+FLAGS_DMA_READY,VAR_3
+FLAGS_OUTPUT_READY,VAR_4
+clear_bit,FUNC_0
+dev_dbg,FUNC_1
+omap_sham_finish_req,FUNC_2
+omap_sham_handle_queue,FUNC_3
+omap_sham_update_dma_stop,FUNC_4
+test_and_clear_bit,FUNC_5
+test_bit,FUNC_6
+omap_sham_done_task,FUNC_7
+data,VAR_5
+dd,VAR_6
+err,VAR_7

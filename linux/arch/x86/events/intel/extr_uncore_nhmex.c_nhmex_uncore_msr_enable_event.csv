@@ -1,0 +1,8 @@
+NHMEX_PMON_CTL_EN_BIT0,VAR_0
+NHMEX_PMON_CTL_EN_BIT22,VAR_1
+UNCORE_PMC_IDX_FIXED,VAR_2
+wrmsrl,FUNC_0
+nhmex_uncore_msr_enable_event,FUNC_1
+box,VAR_3
+event,VAR_4
+hwc,VAR_5

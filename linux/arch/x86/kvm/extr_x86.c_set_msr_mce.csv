@@ -1,0 +1,12 @@
+MCG_CTL_P,VAR_0
+MSR_IA32_MC0_CTL,VAR_1
+MSR_IA32_MCx_CTL,FUNC_0
+can_set_mci_status,FUNC_1
+set_msr_mce,FUNC_2
+vcpu,VAR_2
+msr_info,VAR_3
+mcg_cap,VAR_4
+bank_num,VAR_5
+msr,VAR_6
+data,VAR_7
+offset,VAR_8

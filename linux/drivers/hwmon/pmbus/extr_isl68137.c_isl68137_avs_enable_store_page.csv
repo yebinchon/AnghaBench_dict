@@ -1,0 +1,15 @@
+ISL68137_VOUT_AVS,VAR_0
+PMBUS_OPERATION,VAR_1
+PMBUS_VOUT_COMMAND,VAR_2
+kstrtobool,FUNC_0
+pmbus_read_word_data,FUNC_1
+pmbus_update_byte_data,FUNC_2
+pmbus_write_word_data,FUNC_3
+isl68137_avs_enable_store_page,FUNC_4
+client,VAR_3
+page,VAR_4
+buf,VAR_5
+count,VAR_6
+rc,VAR_7
+op_val,VAR_8
+result,VAR_9

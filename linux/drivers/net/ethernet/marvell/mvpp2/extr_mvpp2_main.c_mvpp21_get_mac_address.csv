@@ -1,0 +1,11 @@
+MVPP2_GMAC_CTRL_1_REG,VAR_0
+MVPP2_GMAC_SA_LOW_OFFS,VAR_1
+MVPP2_SRC_ADDR_HIGH,VAR_2
+MVPP2_SRC_ADDR_MIDDLE,VAR_3
+readl,FUNC_0
+mvpp21_get_mac_address,FUNC_1
+port,VAR_4
+addr,VAR_5
+mac_addr_l,VAR_6
+mac_addr_m,VAR_7
+mac_addr_h,VAR_8

@@ -1,0 +1,9 @@
+NR_RX_RINGS_ONLY,VAR_0
+clear_options,FUNC_0
+port_register_hwall_rx,FUNC_1
+push_csb_option,FUNC_2
+sync_kloop_eventfds,FUNC_3
+sync_kloop_eventfds_mismatch,FUNC_4
+ctx,VAR_1
+opt,VAR_2
+ret,VAR_3

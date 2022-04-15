@@ -1,0 +1,16 @@
+SQLITE_OK,VAR_0
+TRANS_NONE,VAR_1
+TRANS_READ,VAR_2
+TRANS_WRITE,VAR_3
+assert,FUNC_0
+btreeClearHasContent,FUNC_1
+btreeEndTransaction,FUNC_2
+btreeIntegrity,FUNC_3
+sqlite3BtreeEnter,FUNC_4
+sqlite3BtreeLeave,FUNC_5
+sqlite3PagerCommitPhaseTwo,FUNC_6
+sqlite3BtreeCommitPhaseTwo,FUNC_7
+p,VAR_4
+bCleanup,VAR_5
+rc,VAR_6
+pBt,VAR_7

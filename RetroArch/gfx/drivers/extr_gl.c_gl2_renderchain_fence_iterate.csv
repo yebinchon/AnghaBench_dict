@@ -1,0 +1,10 @@
+GL_SYNC_FLUSH_COMMANDS_BIT,VAR_0
+GL_SYNC_GPU_COMMANDS_COMPLETE,VAR_1
+glClientWaitSync,FUNC_0
+glDeleteSync,FUNC_1
+glFenceSync,FUNC_2
+memmove,FUNC_3
+gl2_renderchain_fence_iterate,FUNC_4
+data,VAR_2
+chain,VAR_3
+hard_sync_frames,VAR_4

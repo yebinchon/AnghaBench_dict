@@ -1,0 +1,11 @@
+MCDT_CH_FIFO_ADDR_MASK,VAR_0
+MCDT_CH_FIFO_ADDR_SHIFT,VAR_1
+MCDT_DAC0_FIFO_ADDR_ST,VAR_2
+MCDT_FIFO_LENGTH,VAR_3
+readl_relaxed,FUNC_0
+sprd_mcdt_dac_fifo_avail,FUNC_1
+mcdt,VAR_4
+channel,VAR_5
+reg,VAR_6
+r_addr,VAR_7
+w_addr,VAR_8

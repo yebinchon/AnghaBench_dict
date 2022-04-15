@@ -1,0 +1,15 @@
+MCT_INT_SPI,VAR_0
+MCT_L0_IRQ,VAR_1
+MCT_L_INT_CSTAT_OFFSET,VAR_2
+disable_irq_nosync,FUNC_0
+disable_percpu_irq,FUNC_1
+exynos4_mct_write,FUNC_2
+mct_int_type,VAR_3
+mct_irqs,VAR_4
+per_cpu_ptr,FUNC_3
+percpu_mct_tick,VAR_5
+stub1,FUNC_4
+exynos4_mct_dying_cpu,FUNC_5
+cpu,VAR_6
+mevt,VAR_7
+evt,VAR_8

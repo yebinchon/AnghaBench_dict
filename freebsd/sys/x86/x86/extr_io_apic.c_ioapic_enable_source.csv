@@ -1,0 +1,11 @@
+IOAPIC_REDTBL_LO,FUNC_0
+IOART_INTMASK,VAR_0
+icu_lock,VAR_1
+ioapic_write,FUNC_1
+mtx_lock_spin,FUNC_2
+mtx_unlock_spin,FUNC_3
+ioapic_enable_source,FUNC_4
+isrc,VAR_2
+intpin,VAR_3
+io,VAR_4
+flags,VAR_5

@@ -1,0 +1,15 @@
+_remote_name,VAR_0
+_repo,VAR_1
+assert_config_entry_existence,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+git_config_delete_entry,FUNC_3
+git_remote_free,FUNC_4
+git_remote_lookup,FUNC_5
+git_remote_rename,FUNC_6
+git_repository_config__weakptr,FUNC_7
+git_strarray_free,FUNC_8
+test_network_remote_rename__renaming_a_remote_without_a_fetchrefspec_doesnt_create_one,FUNC_9
+config,VAR_2
+remote,VAR_3
+problems,VAR_4

@@ -1,0 +1,11 @@
+DBG,FUNC_0
+DSI_28nm_8960_PHY_PLL_RDY_PLL_RDY,VAR_0
+REG_DSI_28nm_8960_PHY_PLL_RDY,VAR_1
+pll_read,FUNC_1
+udelay,FUNC_2
+pll_28nm_poll_for_ready,FUNC_3
+pll_28nm,VAR_2
+nb_tries,VAR_3
+timeout_us,VAR_4
+pll_locked,VAR_5
+val,VAR_6

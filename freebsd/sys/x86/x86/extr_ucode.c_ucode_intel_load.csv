@@ -1,0 +1,16 @@
+EEXIST,VAR_0
+MSR_BIOS_SIGN,VAR_1
+MSR_BIOS_UPDT_TRIG,VAR_2
+do_cpuid,FUNC_0
+rdmsr,FUNC_1
+wbinvd,FUNC_2
+wrmsr,FUNC_3
+wrmsr_safe,FUNC_4
+ucode_intel_load,FUNC_5
+data,VAR_3
+unsafe,VAR_4
+nrevp,VAR_5
+orevp,VAR_6
+nrev,VAR_7
+orev,VAR_8
+cpuid,VAR_9

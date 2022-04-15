@@ -1,0 +1,8 @@
+IVBEP_PMON_BOX_CTL_INT,VAR_0
+SKX_M2M_PCI_PMON_BOX_CTL,VAR_1
+UNCORE_BOX_FLAG_CTL_OFFS8,VAR_2
+__set_bit,FUNC_0
+pci_write_config_dword,FUNC_1
+skx_m2m_uncore_pci_init_box,FUNC_2
+box,VAR_3
+pdev,VAR_4

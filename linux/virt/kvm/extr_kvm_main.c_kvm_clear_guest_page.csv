@@ -1,0 +1,10 @@
+ZERO_PAGE,FUNC_0
+__va,FUNC_1
+kvm_write_guest_page,FUNC_2
+page_to_phys,FUNC_3
+kvm_clear_guest_page,FUNC_4
+kvm,VAR_0
+gfn,VAR_1
+offset,VAR_2
+len,VAR_3
+zero_page,VAR_4

@@ -1,0 +1,11 @@
+CLOCK_MONOTONIC,VAR_0
+HRTIMER_MODE_REL,VAR_1
+NSEC_PER_SEC,VAR_2
+hrtimer_init,FUNC_0
+is_sampling_event,FUNC_1
+local64_set,FUNC_2
+perf_swevent_hrtimer,VAR_3
+perf_swevent_init_hrtimer,FUNC_3
+event,VAR_4
+hwc,VAR_5
+freq,VAR_6

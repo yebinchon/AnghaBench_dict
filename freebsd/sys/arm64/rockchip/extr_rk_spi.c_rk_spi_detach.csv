@@ -1,0 +1,11 @@
+bus_generic_detach,FUNC_0
+bus_release_resources,FUNC_1
+bus_teardown_intr,FUNC_2
+clk_release,FUNC_3
+device_delete_child,FUNC_4
+device_get_softc,FUNC_5
+mtx_destroy,FUNC_6
+rk_spi_spec,VAR_0
+rk_spi_detach,FUNC_7
+dev,VAR_1
+sc,VAR_2

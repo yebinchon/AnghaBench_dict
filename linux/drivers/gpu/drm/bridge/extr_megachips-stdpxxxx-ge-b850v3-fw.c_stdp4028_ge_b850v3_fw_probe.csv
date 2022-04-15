@@ -1,0 +1,16 @@
+IRQF_ONESHOT,VAR_0
+IRQF_TRIGGER_HIGH,VAR_1
+STDP4028_DPTX_IRQ_CLEAR,VAR_2
+STDP4028_DPTX_IRQ_STS_REG,VAR_3
+devm_request_threaded_irq,FUNC_0
+drm_bridge_add,FUNC_1
+ge_b850v3_lvds_funcs,VAR_4
+ge_b850v3_lvds_init,FUNC_2
+ge_b850v3_lvds_irq_handler,VAR_5
+ge_b850v3_lvds_ptr,VAR_6
+i2c_set_clientdata,FUNC_3
+i2c_smbus_write_word_data,FUNC_4
+stdp4028_ge_b850v3_fw_probe,FUNC_5
+stdp4028_i2c,VAR_7
+id,VAR_8
+dev,VAR_9

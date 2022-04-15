@@ -1,0 +1,11 @@
+BNX2_PCICFG_REG_WINDOW,VAR_0
+BNX2_PCICFG_REG_WINDOW_ADDRESS,VAR_1
+BNX2_RD,FUNC_0
+BNX2_WR,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+bnx2_reg_rd_ind,FUNC_4
+bp,VAR_2
+offset,VAR_3
+flags,VAR_4
+val,VAR_5

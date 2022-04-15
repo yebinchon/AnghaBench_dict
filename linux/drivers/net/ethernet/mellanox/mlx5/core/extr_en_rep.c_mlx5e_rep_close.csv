@@ -1,0 +1,13 @@
+MLX5_VPORT_ADMIN_STATE_DOWN,VAR_0
+MLX5_VPORT_STATE_OP_MOD_ESW_VPORT,VAR_1
+mlx5_modify_vport_admin_state,FUNC_0
+mlx5e_close_locked,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_priv,FUNC_4
+mlx5e_rep_close,FUNC_5
+dev,VAR_2
+priv,VAR_3
+rpriv,VAR_4
+rep,VAR_5
+ret,VAR_6

@@ -1,0 +1,11 @@
+TP_SUSPEND,VAR_0
+calloc,FUNC_0
+create_worker,FUNC_1
+pthread_cond_signal,FUNC_2
+pthread_mutex_lock,FUNC_3
+pthread_mutex_unlock,FUNC_4
+tpool_dispatch,FUNC_5
+tpool,VAR_1
+func,VAR_2
+arg,VAR_3
+job,VAR_4

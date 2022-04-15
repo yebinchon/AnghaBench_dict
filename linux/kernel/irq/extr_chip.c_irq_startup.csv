@@ -1,0 +1,17 @@
+__irq_startup,FUNC_0
+__irq_startup_managed,FUNC_1
+check_irq_resend,FUNC_2
+irq_data_get_affinity_mask,FUNC_3
+irq_desc_get_irq_data,FUNC_4
+irq_do_set_affinity,FUNC_5
+irq_enable,FUNC_6
+irq_setup_affinity,FUNC_7
+irqd_is_started,FUNC_8
+irqd_set_managed_shutdown,FUNC_9
+irq_startup,FUNC_10
+desc,VAR_0
+resend,VAR_1
+force,VAR_2
+d,VAR_3
+aff,VAR_4
+ret,VAR_5

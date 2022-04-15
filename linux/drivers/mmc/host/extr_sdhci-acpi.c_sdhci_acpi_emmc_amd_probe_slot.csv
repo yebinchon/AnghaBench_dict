@@ -1,0 +1,14 @@
+MMC_CAP2_HS400_1_8V,VAR_0
+MMC_CAP_1_8V_DDR,VAR_1
+SDHCI_SUPPORT_DDR50,VAR_2
+SDHCI_SUPPORT_SDR104,VAR_3
+amd_select_drive_strength,VAR_4
+amd_set_ios,VAR_5
+platform_get_drvdata,FUNC_0
+sdhci_read_caps,FUNC_1
+sdhci_acpi_emmc_amd_probe_slot,FUNC_2
+pdev,VAR_6
+hid,VAR_7
+uid,VAR_8
+c,VAR_9
+host,VAR_10

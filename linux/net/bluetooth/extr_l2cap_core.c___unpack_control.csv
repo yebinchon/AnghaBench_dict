@@ -1,0 +1,13 @@
+FLAG_EXT_CTRL,VAR_0
+L2CAP_ENH_CTRL_SIZE,VAR_1
+L2CAP_EXT_CTRL_SIZE,VAR_2
+__unpack_enhanced_control,FUNC_0
+__unpack_extended_control,FUNC_1
+bt_cb,FUNC_2
+get_unaligned_le16,FUNC_3
+get_unaligned_le32,FUNC_4
+skb_pull,FUNC_5
+test_bit,FUNC_6
+__unpack_control,FUNC_7
+chan,VAR_3
+skb,VAR_4

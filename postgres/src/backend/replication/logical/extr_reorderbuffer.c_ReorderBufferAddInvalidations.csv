@@ -1,0 +1,13 @@
+Assert,FUNC_0
+ERROR,VAR_0
+MemoryContextAlloc,FUNC_1
+ReorderBufferTXNByXid,FUNC_2
+elog,FUNC_3
+memcpy,FUNC_4
+ReorderBufferAddInvalidations,FUNC_5
+rb,VAR_1
+xid,VAR_2
+lsn,VAR_3
+nmsgs,VAR_4
+msgs,VAR_5
+txn,VAR_6

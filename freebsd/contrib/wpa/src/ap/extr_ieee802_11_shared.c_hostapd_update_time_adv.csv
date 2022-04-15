@@ -1,0 +1,13 @@
+WLAN_EID_TIME_ADVERTISEMENT,VAR_0
+WPA_PUT_LE16,FUNC_0
+os_get_time,FUNC_1
+os_gmtime,FUNC_2
+wpabuf_alloc,FUNC_3
+wpabuf_mhead_u8,FUNC_4
+wpabuf_put,FUNC_5
+hostapd_update_time_adv,FUNC_6
+hapd,VAR_1
+elen,VAR_2
+t,VAR_3
+tm,VAR_4
+pos,VAR_5

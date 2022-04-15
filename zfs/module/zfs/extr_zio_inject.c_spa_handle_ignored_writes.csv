@@ -1,0 +1,17 @@
+RW_READER,VAR_0
+VERIFY,FUNC_0
+ZINJECT_IGNORED_WRITES,VAR_1
+ddi_get_lbolt64,FUNC_1
+ddi_time_after64,FUNC_2
+hz,VAR_2
+inject_handlers,VAR_3
+inject_lock,VAR_4
+list_head,FUNC_3
+list_next,FUNC_4
+rw_enter,FUNC_5
+rw_exit,FUNC_6
+spa_syncing_txg,FUNC_7
+zio_injection_enabled,VAR_5
+spa_handle_ignored_writes,FUNC_8
+spa,VAR_6
+handler,VAR_7

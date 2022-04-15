@@ -1,0 +1,10 @@
+APIC_DFR_FLAT,VAR_0
+AVIC_LOGICAL_ID_ENTRY_VALID_BIT,VAR_1
+avic_get_logical_id_entry,FUNC_0
+clear_bit,FUNC_1
+to_svm,FUNC_2
+avic_invalidate_logical_id_entry,FUNC_3
+vcpu,VAR_2
+svm,VAR_3
+flat,VAR_4
+entry,VAR_5

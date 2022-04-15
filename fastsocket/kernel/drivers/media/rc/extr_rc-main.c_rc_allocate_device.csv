@@ -1,0 +1,17 @@
+GFP_KERNEL,VAR_0
+THIS_MODULE,VAR_1
+__module_get,FUNC_0
+device_initialize,FUNC_1
+input_allocate_device,FUNC_2
+input_set_drvdata,FUNC_3
+ir_getkeycode,VAR_2
+ir_input_class,VAR_3
+ir_setkeycode,VAR_4
+ir_timer_keyup,VAR_5
+kfree,FUNC_4
+kzalloc,FUNC_5
+rc_dev_type,VAR_6
+setup_timer,FUNC_6
+spin_lock_init,FUNC_7
+rc_allocate_device,FUNC_8
+dev,VAR_7

@@ -1,0 +1,17 @@
+COMEDI_CB_CANCEL_MASK,VAR_0
+COMEDI_CB_EOA,VAR_1
+TRIG_COUNT,VAR_2
+TRIG_EXT,VAR_3
+comedi_buf_write_samples,FUNC_0
+comedi_handle_events,FUNC_1
+s626_ai_reg_to_uint,FUNC_2
+s626_dio_set_irq,FUNC_3
+s626_handle_eos_interrupt,FUNC_4
+dev,VAR_4
+devpriv,VAR_5
+s,VAR_6
+async,VAR_7
+cmd,VAR_8
+readaddr,VAR_9
+i,VAR_10
+tempdata,VAR_11

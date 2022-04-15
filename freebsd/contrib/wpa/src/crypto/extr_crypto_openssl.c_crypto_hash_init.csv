@@ -1,0 +1,15 @@
+EVP_md5,FUNC_0
+EVP_sha1,FUNC_1
+EVP_sha256,FUNC_2
+HMAC_CTX_free,FUNC_3
+HMAC_CTX_new,FUNC_4
+HMAC_Init_ex,FUNC_5
+bin_clear_free,FUNC_6
+os_free,FUNC_7
+os_zalloc,FUNC_8
+crypto_hash_init,FUNC_9
+alg,VAR_0
+key,VAR_1
+key_len,VAR_2
+ctx,VAR_3
+md,VAR_4

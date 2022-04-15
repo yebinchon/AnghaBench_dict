@@ -1,0 +1,16 @@
+MLX5_SPECIAL_VPORTS,FUNC_0
+esw_create_offloads_acl_tables,FUNC_1
+esw_create_offloads_fdb_tables,FUNC_2
+esw_create_offloads_table,FUNC_3
+esw_create_vport_rx_group,FUNC_4
+esw_destroy_offloads_acl_tables,FUNC_5
+esw_destroy_offloads_fdb_tables,FUNC_6
+esw_destroy_offloads_table,FUNC_7
+memset,FUNC_8
+mlx5_core_is_ecpf_esw_manager,FUNC_9
+mutex_init,FUNC_10
+esw_offloads_steering_init,FUNC_11
+esw,VAR_0
+num_vfs,VAR_1
+total_vports,VAR_2
+err,VAR_3

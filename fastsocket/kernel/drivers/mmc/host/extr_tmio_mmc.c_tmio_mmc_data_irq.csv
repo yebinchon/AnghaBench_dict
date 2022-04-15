@@ -1,0 +1,13 @@
+BUG,FUNC_0
+CTL_STOP_INTERNAL_ACTION,VAR_0
+MMC_DATA_READ,VAR_1
+TMIO_MASK_READOP,VAR_2
+TMIO_MASK_WRITEOP,VAR_3
+disable_mmc_irqs,FUNC_1
+pr_debug,FUNC_2
+sd_ctrl_write16,FUNC_3
+tmio_mmc_finish_request,FUNC_4
+tmio_mmc_data_irq,FUNC_5
+host,VAR_4
+data,VAR_5
+stop,VAR_6

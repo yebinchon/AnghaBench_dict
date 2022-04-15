@@ -1,0 +1,13 @@
+BPF_JA,VAR_0
+BPF_JMP_IMM,FUNC_0
+bpf_prog_is_dev_bound,FUNC_1
+bpf_prog_offload_replace_insn,FUNC_2
+insn_is_cond_jump,FUNC_3
+memcpy,FUNC_4
+opt_hard_wire_dead_code_branches,FUNC_5
+env,VAR_1
+aux_data,VAR_2
+ja,VAR_3
+insn,VAR_4
+insn_cnt,VAR_5
+i,VAR_6

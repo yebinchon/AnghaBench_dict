@@ -1,0 +1,11 @@
+clk_disable,FUNC_0
+clk_unprepare,FUNC_1
+i2c_del_adapter,FUNC_2
+platform_get_drvdata,FUNC_3
+pm_runtime_disable,FUNC_4
+pm_runtime_status_suspended,FUNC_5
+tegra_i2c_release_dma,FUNC_6
+tegra_i2c_runtime_suspend,FUNC_7
+tegra_i2c_remove,FUNC_8
+pdev,VAR_0
+i2c_dev,VAR_1

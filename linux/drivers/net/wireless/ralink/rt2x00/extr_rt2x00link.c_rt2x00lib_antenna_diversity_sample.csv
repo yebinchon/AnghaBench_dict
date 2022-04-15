@@ -1,0 +1,17 @@
+ANTENNA_A,VAR_0
+ANTENNA_B,VAR_1
+ANTENNA_MODE_SAMPLE,VAR_2
+ANTENNA_RX_DIVERSITY,VAR_3
+ANTENNA_TX_DIVERSITY,VAR_4
+memcpy,FUNC_0
+rt2x00lib_config_antenna,FUNC_1
+rt2x00link_antenna_get_link_rssi,FUNC_2
+rt2x00link_antenna_get_rssi_history,FUNC_3
+rt2x00link_antenna_update_rssi_history,FUNC_4
+rt2x00lib_antenna_diversity_sample,FUNC_5
+rt2x00dev,VAR_5
+ant,VAR_6
+new_ant,VAR_7
+other_antenna,VAR_8
+sample_current,VAR_9
+sample_other,VAR_10

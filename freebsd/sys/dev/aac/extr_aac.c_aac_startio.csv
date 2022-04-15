@@ -1,0 +1,17 @@
+AAC_CMD_MAPPED,VAR_0
+AAC_QUEUE_FRZN,VAR_1
+AAC_REQ_BIO,VAR_2
+EINPROGRESS,VAR_3
+HBA_FLAGS_DBG_COMM_B,VAR_4
+HBA_FLAGS_DBG_FUNCTION_ENTRY_B,VAR_5
+aac_bio_command,FUNC_0
+aac_dequeue_ready,FUNC_1
+aac_map_command_sg,FUNC_2
+bus_dmamap_load,FUNC_3
+bus_dmamap_load_bio,FUNC_4
+fwprintf,FUNC_5
+panic,FUNC_6
+aac_startio,FUNC_7
+sc,VAR_6
+cm,VAR_7
+error,VAR_8

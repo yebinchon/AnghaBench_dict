@@ -1,0 +1,13 @@
+DPA_GetPtr,FUNC_0
+DPA_GetPtrCount,FUNC_1
+FALSE,VAR_0
+HDM_GETITEMRECT,VAR_1
+SendMessageW,FUNC_2
+assert,FUNC_3
+LISTVIEW_GetColumnInfo,FUNC_4
+infoPtr,VAR_2
+nSubItem,VAR_3
+mainItem,VAR_4
+info,VAR_5
+Ptr,VAR_6
+i,VAR_7

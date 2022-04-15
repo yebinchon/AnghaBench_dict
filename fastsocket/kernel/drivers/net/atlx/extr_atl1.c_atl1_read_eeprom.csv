@@ -1,0 +1,14 @@
+REG_VPD_CAP,VAR_0
+REG_VPD_DATA,VAR_1
+VPD_CAP_VPD_ADDR_MASK,VAR_2
+VPD_CAP_VPD_ADDR_SHIFT,VAR_3
+VPD_CAP_VPD_FLAG,VAR_4
+ioread32,FUNC_0
+iowrite32,FUNC_1
+msleep,FUNC_2
+atl1_read_eeprom,FUNC_3
+hw,VAR_5
+offset,VAR_6
+p_value,VAR_7
+i,VAR_8
+control,VAR_9

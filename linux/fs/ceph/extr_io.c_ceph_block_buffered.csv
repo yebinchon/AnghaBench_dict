@@ -1,0 +1,9 @@
+CEPH_I_ODIRECT,VAR_0
+READ_ONCE,FUNC_0
+filemap_write_and_wait,FUNC_1
+lockdep_assert_held_write,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+ceph_block_buffered,FUNC_5
+ci,VAR_1
+inode,VAR_2

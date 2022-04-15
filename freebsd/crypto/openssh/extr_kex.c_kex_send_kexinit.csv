@@ -1,0 +1,17 @@
+KEX_COOKIE_LEN,VAR_0
+KEX_INIT_SENT,VAR_1
+SSH2_MSG_KEXINIT,VAR_2
+SSH_ERR_INTERNAL_ERROR,VAR_3
+SSH_ERR_INVALID_FORMAT,VAR_4
+arc4random_buf,FUNC_0
+debug,FUNC_1
+sshbuf_len,FUNC_2
+sshbuf_mutable_ptr,FUNC_3
+sshpkt_putb,FUNC_4
+sshpkt_send,FUNC_5
+sshpkt_start,FUNC_6
+kex_send_kexinit,FUNC_7
+ssh,VAR_5
+cookie,VAR_6
+kex,VAR_7
+r,VAR_8

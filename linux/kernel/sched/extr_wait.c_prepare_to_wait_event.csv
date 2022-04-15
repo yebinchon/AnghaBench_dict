@@ -1,0 +1,17 @@
+ERESTARTSYS,VAR_0
+WQ_FLAG_EXCLUSIVE,VAR_1
+__add_wait_queue,FUNC_0
+__add_wait_queue_entry_tail,FUNC_1
+current,VAR_2
+list_del_init,FUNC_2
+list_empty,FUNC_3
+set_current_state,FUNC_4
+signal_pending_state,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+prepare_to_wait_event,FUNC_8
+wq_head,VAR_3
+wq_entry,VAR_4
+state,VAR_5
+flags,VAR_6
+ret,VAR_7

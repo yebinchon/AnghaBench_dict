@@ -1,0 +1,10 @@
+LCD_PANEL_BACKLIGHT_GPIO,VAR_0
+LCD_PANEL_ENABLE_GPIO,VAR_1
+LCD_PANEL_QVGA_GPIO,VAR_2
+LCD_PANEL_RESET_GPIO,VAR_3
+gpio_direction_output,FUNC_0
+gpio_request,FUNC_1
+gpio_set_value,FUNC_2
+ldp_panel_init,FUNC_3
+panel,VAR_4
+fbdev,VAR_5

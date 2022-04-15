@@ -1,0 +1,14 @@
+EIO,VAR_0
+ZPCI_DEVFN,VAR_1
+pci_dev_put,FUNC_0
+pci_get_slot,FUNC_1
+pci_stop_and_remove_bus_device_locked,FUNC_2
+slot_deconfigure,FUNC_3
+to_slot,FUNC_4
+zpci_disable_device,FUNC_5
+zpci_fn_configured,FUNC_6
+disable_slot,FUNC_7
+hotplug_slot,VAR_2
+slot,VAR_3
+pdev,VAR_4
+rc,VAR_5

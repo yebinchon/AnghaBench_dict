@@ -1,0 +1,13 @@
+I82875P_DERRSYN,VAR_0
+I82875P_DES,VAR_1
+I82875P_EAP,VAR_2
+I82875P_ERRSTS,VAR_3
+pci_read_config_byte,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_bits16,FUNC_3
+to_pci_dev,FUNC_4
+i82875p_get_error_info,FUNC_5
+mci,VAR_4
+info,VAR_5
+pdev,VAR_6

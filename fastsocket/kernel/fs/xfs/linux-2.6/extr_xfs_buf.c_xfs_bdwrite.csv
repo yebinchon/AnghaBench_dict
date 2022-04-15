@@ -1,0 +1,9 @@
+XBF_ASYNC,VAR_0
+XBF_DELWRI,VAR_1
+XBF_READ,VAR_2
+_RET_IP_,VAR_3
+trace_xfs_buf_bdwrite,FUNC_0
+xfs_buf_delwri_queue,FUNC_1
+xfs_bdwrite,FUNC_2
+mp,VAR_4
+bp,VAR_5

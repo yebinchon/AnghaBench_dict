@@ -1,0 +1,15 @@
+IEEE80211_DEV_TO_SUB_IF,FUNC_0
+IEEE80211_SDATA_ALLMULTI,VAR_0
+IFF_ALLMULTI,VAR_1
+__hw_addr_sync,FUNC_1
+atomic_dec,FUNC_2
+atomic_inc,FUNC_3
+ieee80211_queue_work,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+ieee80211_set_multicast_list,FUNC_7
+dev,VAR_2
+sdata,VAR_3
+local,VAR_4
+allmulti,VAR_5
+sdata_allmulti,VAR_6

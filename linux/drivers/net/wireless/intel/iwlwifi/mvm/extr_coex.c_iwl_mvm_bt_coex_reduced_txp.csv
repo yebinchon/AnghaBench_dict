@@ -1,0 +1,14 @@
+BT_COEX_UPDATE_REDUCED_TXP,VAR_0
+BT_REDUCED_TX_POWER_BIT,VAR_1
+CMD_ASYNC,VAR_2
+IWL_DEBUG_COEX,FUNC_0
+cpu_to_le32,FUNC_1
+iwl_mvm_send_cmd_pdu,FUNC_2
+iwl_mvm_sta_from_staid_protected,FUNC_3
+iwl_mvm_bt_coex_reduced_txp,FUNC_4
+mvm,VAR_3
+sta_id,VAR_4
+enable,VAR_5
+cmd,VAR_6
+mvmsta,VAR_7
+value,VAR_8

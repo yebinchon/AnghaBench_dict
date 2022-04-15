@@ -1,0 +1,17 @@
+IRQ_GET_DESC_CHECK_PERCPU,VAR_0
+IRQ_TYPE_NONE,VAR_1
+IRQ_TYPE_SENSE_MASK,VAR_2
+WARN,FUNC_0
+__irq_set_trigger,FUNC_1
+irq_get_desc_lock,FUNC_2
+irq_percpu_enable,FUNC_3
+irq_put_desc_unlock,FUNC_4
+irqd_get_trigger_type,FUNC_5
+smp_processor_id,FUNC_6
+enable_percpu_irq,FUNC_7
+irq,VAR_3
+type,VAR_4
+cpu,VAR_5
+flags,VAR_6
+desc,VAR_7
+ret,VAR_8

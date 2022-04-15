@@ -1,0 +1,17 @@
+H264_PPS_ID_MAX,VAR_0
+H264_SPS_ID_MAX,VAR_1
+HEVC_PPS_ID_MAX,VAR_2
+HEVC_SPS_ID_MAX,VAR_3
+HEVC_VPS_ID_MAX,VAR_4
+RELEASE_NALS,FUNC_0
+h264_release_pps,FUNC_1
+h264_release_sps,FUNC_2
+helper_clear_sei,FUNC_3
+hevc_rbsp_release_pps,FUNC_4
+hevc_rbsp_release_sps,FUNC_5
+hevc_rbsp_release_vps,FUNC_6
+memset,FUNC_7
+vlc_assert_unreachable,FUNC_8
+hxxx_helper_clean,FUNC_9
+hh,VAR_5
+hnal,VAR_6

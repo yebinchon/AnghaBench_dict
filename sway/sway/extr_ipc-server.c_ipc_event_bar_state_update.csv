@@ -1,0 +1,15 @@
+IPC_EVENT_BAR_STATE_UPDATE,VAR_0
+SWAY_DEBUG,VAR_1
+ipc_has_event_listeners,FUNC_0
+ipc_send_event,FUNC_1
+json_object_new_boolean,FUNC_2
+json_object_new_object,FUNC_3
+json_object_new_string,FUNC_4
+json_object_object_add,FUNC_5
+json_object_put,FUNC_6
+json_object_to_json_string,FUNC_7
+sway_log,FUNC_8
+ipc_event_bar_state_update,FUNC_9
+bar,VAR_2
+json,VAR_3
+json_string,VAR_4

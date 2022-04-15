@@ -1,0 +1,10 @@
+BPF_IDLE,VAR_0
+BPF_KNOTE,VAR_1
+BPF_WAITING,VAR_2
+KNOTE,FUNC_0
+bpf_stop_timer,FUNC_1
+pgsigio,FUNC_2
+selwakeup,FUNC_3
+wakeup,FUNC_4
+bpf_wakeup,FUNC_5
+d,VAR_3

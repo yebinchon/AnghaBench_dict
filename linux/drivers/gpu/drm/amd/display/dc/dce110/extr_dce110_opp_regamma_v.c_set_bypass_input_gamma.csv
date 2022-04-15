@@ -1,0 +1,9 @@
+COL_MAN_INPUT_GAMMA_CONTROL1,VAR_0
+INPUT_GAMMA_MODE,VAR_1
+dm_read_reg,FUNC_0
+dm_write_reg,FUNC_1
+mmCOL_MAN_INPUT_GAMMA_CONTROL1,VAR_2
+set_reg_field_value,FUNC_2
+set_bypass_input_gamma,FUNC_3
+xfm_dce,VAR_3
+value,VAR_4

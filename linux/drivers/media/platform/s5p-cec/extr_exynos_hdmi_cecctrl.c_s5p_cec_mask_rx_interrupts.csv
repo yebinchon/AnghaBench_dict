@@ -1,0 +1,8 @@
+S5P_CEC_IRQ_MASK,VAR_0
+S5P_CEC_IRQ_RX_DONE,VAR_1
+S5P_CEC_IRQ_RX_ERROR,VAR_2
+readb,FUNC_0
+writeb,FUNC_1
+s5p_cec_mask_rx_interrupts,FUNC_2
+cec,VAR_3
+reg,VAR_4

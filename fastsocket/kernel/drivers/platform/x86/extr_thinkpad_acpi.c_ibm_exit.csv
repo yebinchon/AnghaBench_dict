@@ -1,0 +1,14 @@
+BUG_ON,FUNC_0
+TPACPI_DBG_EXIT,VAR_0
+TPACPI_DBG_INIT,VAR_1
+acpi_bus_unregister_driver,FUNC_1
+acpi_remove_notify_handler,FUNC_2
+dbg_printk,FUNC_3
+dispatch_acpi_notify,VAR_2
+kfree,FUNC_4
+list_del_init,FUNC_5
+proc_dir,VAR_3
+remove_proc_entry,FUNC_6
+stub1,FUNC_7
+ibm_exit,FUNC_8
+ibm,VAR_4

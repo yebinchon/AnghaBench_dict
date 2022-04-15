@@ -1,0 +1,17 @@
+PM_PASSWORD,VAR_0
+PM_RSTC,VAR_1
+PM_RSTC_WRCFG_CLR,VAR_2
+PM_RSTC_WRCFG_FULL_RESET,VAR_3
+PM_WDOG,VAR_4
+PM_WDOG_TIME_SET,VAR_5
+SECS_TO_WDOG_TICKS,FUNC_0
+readl_relaxed,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+watchdog_get_drvdata,FUNC_4
+writel_relaxed,FUNC_5
+bcm2835_wdt_start,FUNC_6
+wdog,VAR_6
+wdt,VAR_7
+cur,VAR_8
+flags,VAR_9

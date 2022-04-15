@@ -1,0 +1,12 @@
+HNAE3_PORT_BASE_VLAN_ENABLE,VAR_0
+hclge_add_vport_all_vlan_table,FUNC_0
+hclge_rm_vport_all_vlan_table,FUNC_1
+hclge_set_vlan_filter_hw,FUNC_2
+htons,FUNC_3
+hclge_update_vlan_filter_entries,FUNC_4
+vport,VAR_1
+port_base_vlan_state,VAR_2
+new_info,VAR_3
+old_info,VAR_4
+hdev,VAR_5
+ret,VAR_6

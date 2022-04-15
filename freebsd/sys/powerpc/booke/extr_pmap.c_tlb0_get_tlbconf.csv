@@ -1,0 +1,10 @@
+SPR_TLB0CFG,VAR_0
+TLBCFG_ASSOC_MASK,VAR_1
+TLBCFG_ASSOC_SHIFT,VAR_2
+TLBCFG_NENTRY_MASK,VAR_3
+mfspr,FUNC_0
+tlb0_entries,VAR_4
+tlb0_entries_per_way,VAR_5
+tlb0_ways,VAR_6
+tlb0_get_tlbconf,FUNC_1
+tlb0_cfg,VAR_7

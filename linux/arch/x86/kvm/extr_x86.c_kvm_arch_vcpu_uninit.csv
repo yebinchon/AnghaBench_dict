@@ -1,0 +1,14 @@
+free_page,FUNC_0
+kfree,FUNC_1
+kvm_free_lapic,FUNC_2
+kvm_hv_vcpu_uninit,FUNC_3
+kvm_mmu_destroy,FUNC_4
+kvm_no_apic_vcpu,VAR_0
+kvm_pmu_destroy,FUNC_5
+lapic_in_kernel,FUNC_6
+srcu_read_lock,FUNC_7
+srcu_read_unlock,FUNC_8
+static_key_slow_dec,FUNC_9
+kvm_arch_vcpu_uninit,FUNC_10
+vcpu,VAR_1
+idx,VAR_2

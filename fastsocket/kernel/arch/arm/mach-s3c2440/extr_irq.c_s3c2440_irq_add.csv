@@ -1,0 +1,16 @@
+IRQF_VALID,VAR_0
+IRQ_S3C2440_AC97,VAR_1
+IRQ_S3C2440_WDT,VAR_2
+IRQ_WDT,VAR_3
+handle_level_irq,VAR_4
+printk,FUNC_0
+s3c_irq_demux_wdtac97,VAR_5
+s3c_irq_level_chip,VAR_6
+s3c_irq_wdtac97,VAR_7
+set_irq_chained_handler,FUNC_1
+set_irq_chip,FUNC_2
+set_irq_flags,FUNC_3
+set_irq_handler,FUNC_4
+s3c2440_irq_add,FUNC_5
+sysdev,VAR_8
+irqno,VAR_9

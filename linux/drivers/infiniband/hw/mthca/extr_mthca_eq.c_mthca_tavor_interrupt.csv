@@ -1,0 +1,16 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+MTHCA_ECR_BASE,VAR_2
+MTHCA_ECR_CLR_BASE,VAR_3
+MTHCA_NUM_EQ,VAR_4
+mthca_eq_int,FUNC_0
+readl,FUNC_1
+tavor_eq_req_not,FUNC_2
+tavor_set_eq_ci,FUNC_3
+writel,FUNC_4
+mthca_tavor_interrupt,FUNC_5
+irq,VAR_5
+dev_ptr,VAR_6
+dev,VAR_7
+ecr,VAR_8
+i,VAR_9

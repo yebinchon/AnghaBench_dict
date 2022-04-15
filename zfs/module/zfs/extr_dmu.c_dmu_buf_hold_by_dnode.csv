@@ -1,0 +1,17 @@
+DB_RF_CANFAIL,VAR_0
+DB_RF_NOPREFETCH,VAR_1
+DB_RF_NO_DECRYPT,VAR_2
+DMU_READ_NO_DECRYPT,VAR_3
+DMU_READ_NO_PREFETCH,VAR_4
+dbuf_read,FUNC_0
+dbuf_rele,FUNC_1
+dmu_buf_hold_noread_by_dnode,FUNC_2
+dmu_buf_hold_by_dnode,FUNC_3
+dn,VAR_5
+offset,VAR_6
+tag,VAR_7
+dbp,VAR_8
+flags,VAR_9
+err,VAR_10
+db_flags,VAR_11
+db,VAR_12

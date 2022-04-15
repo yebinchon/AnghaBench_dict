@@ -1,0 +1,14 @@
+KYCR2,VAR_0
+KYCR2_IRQ_DISABLED,VAR_1
+free_irq,FUNC_0
+input_unregister_device,FUNC_1
+iounmap,FUNC_2
+kfree,FUNC_3
+platform_get_drvdata,FUNC_4
+platform_get_irq,FUNC_5
+pm_runtime_disable,FUNC_6
+pm_runtime_put_sync,FUNC_7
+sh_keysc_write,FUNC_8
+sh_keysc_remove,FUNC_9
+pdev,VAR_2
+priv,VAR_3

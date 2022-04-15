@@ -1,0 +1,15 @@
+AE_WRITABLE,VAR_0
+CONN_STATE_CONNECTED,VAR_1
+CONN_STATE_ERROR,VAR_2
+C_ERR,VAR_3
+C_OK,VAR_4
+ETIMEDOUT,VAR_5
+aeWait,FUNC_0
+anetTcpNonBlockConnect,FUNC_1
+errno,VAR_6
+connSocketBlockingConnect,FUNC_2
+conn,VAR_7
+addr,VAR_8
+port,VAR_9
+timeout,VAR_10
+fd,VAR_11

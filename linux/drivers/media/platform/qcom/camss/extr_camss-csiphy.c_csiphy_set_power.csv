@@ -1,0 +1,16 @@
+camss_disable_clocks,FUNC_0
+camss_enable_clocks,FUNC_1
+csiphy_set_clock_rates,FUNC_2
+disable_irq,FUNC_3
+enable_irq,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put_sync,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+v4l2_get_subdevdata,FUNC_9
+csiphy_set_power,FUNC_10
+sd,VAR_0
+on,VAR_1
+csiphy,VAR_2
+dev,VAR_3
+ret,VAR_4

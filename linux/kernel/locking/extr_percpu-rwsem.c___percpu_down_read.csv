@@ -1,0 +1,12 @@
+__down_read,FUNC_0
+__percpu_up_read,FUNC_1
+__up_read,FUNC_2
+likely,FUNC_3
+preempt_disable,FUNC_4
+preempt_enable_no_resched,FUNC_5
+smp_load_acquire,FUNC_6
+smp_mb,FUNC_7
+this_cpu_inc,FUNC_8
+__percpu_down_read,FUNC_9
+sem,VAR_0
+try,VAR_1

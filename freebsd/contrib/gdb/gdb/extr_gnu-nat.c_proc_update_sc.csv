@@ -1,0 +1,17 @@
+THREAD_STATE_FLAVOR,VAR_0
+THREAD_STATE_SIZE,VAR_1
+gdb_assert,FUNC_0
+proc_debug,FUNC_1
+proc_is_task,FUNC_2
+proc_is_thread,FUNC_3
+safe_strerror,FUNC_4
+task_resume,FUNC_5
+task_suspend,FUNC_6
+thread_resume,FUNC_7
+thread_set_state,FUNC_8
+thread_suspend,FUNC_9
+proc_update_sc,FUNC_10
+proc,VAR_2
+running,VAR_3
+err,VAR_4
+delta,VAR_5

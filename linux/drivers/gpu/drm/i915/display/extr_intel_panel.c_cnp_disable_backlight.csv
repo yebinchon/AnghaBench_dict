@@ -1,0 +1,13 @@
+BXT_BLC_PWM_CTL,FUNC_0
+BXT_BLC_PWM_ENABLE,VAR_0
+I915_READ,FUNC_1
+I915_WRITE,FUNC_2
+intel_panel_actually_set_backlight,FUNC_3
+to_i915,FUNC_4
+to_intel_connector,FUNC_5
+cnp_disable_backlight,FUNC_6
+old_conn_state,VAR_1
+connector,VAR_2
+dev_priv,VAR_3
+panel,VAR_4
+tmp,VAR_5

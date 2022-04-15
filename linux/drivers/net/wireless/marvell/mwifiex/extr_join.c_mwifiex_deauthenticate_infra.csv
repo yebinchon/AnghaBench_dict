@@ -1,0 +1,11 @@
+ETH_ALEN,VAR_0
+HostCmd_ACT_GEN_SET,VAR_1
+HostCmd_CMD_802_11_DEAUTHENTICATE,VAR_2
+is_zero_ether_addr,FUNC_0
+memcpy,FUNC_1
+mwifiex_send_cmd,FUNC_2
+mwifiex_deauthenticate_infra,FUNC_3
+priv,VAR_3
+mac,VAR_4
+mac_address,VAR_5
+ret,VAR_6

@@ -1,0 +1,16 @@
+LPFC_CQID_HI_FIELD_SHIFT,VAR_0
+LPFC_QUEUE_TYPE_COMPLETION,VAR_1
+bf_set,FUNC_0
+lpfc_eqcq_doorbell_arm,VAR_2
+lpfc_eqcq_doorbell_cqid_hi,VAR_3
+lpfc_eqcq_doorbell_cqid_lo,VAR_4
+lpfc_eqcq_doorbell_num_released,VAR_5
+lpfc_eqcq_doorbell_qt,VAR_6
+unlikely,FUNC_1
+writel,FUNC_2
+lpfc_sli4_write_cq_db,FUNC_3
+phba,VAR_7
+q,VAR_8
+count,VAR_9
+arm,VAR_10
+doorbell,VAR_11

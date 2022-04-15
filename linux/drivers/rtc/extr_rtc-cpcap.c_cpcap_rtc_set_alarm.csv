@@ -1,0 +1,17 @@
+CPCAP_REG_DAYA,VAR_0
+CPCAP_REG_TODA1,VAR_1
+CPCAP_REG_TODA2,VAR_2
+DAY_MASK,VAR_3
+TOD1_MASK,VAR_4
+TOD2_MASK,VAR_5
+dev_get_drvdata,FUNC_0
+disable_irq,FUNC_1
+enable_irq,FUNC_2
+regmap_update_bits,FUNC_3
+rtc2cpcap_time,FUNC_4
+cpcap_rtc_set_alarm,FUNC_5
+dev,VAR_6
+alrm,VAR_7
+rtc,VAR_8
+cpcap_tm,VAR_9
+ret,VAR_10

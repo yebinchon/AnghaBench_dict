@@ -1,0 +1,12 @@
+SCIC_SDS_PORT_READY_SUBSTATE_CONFIGURING,VAR_0
+SCI_SUCCESS,VAR_1
+TRUE,VAR_2
+sci_base_state_machine_change_state,FUNC_0
+scic_sds_port_clear_phy,FUNC_1
+scic_sds_port_deactivate_phy,FUNC_2
+scic_sds_port_ready_configuring_substate_remove_phy_handler,FUNC_3
+port,VAR_3
+phy,VAR_4
+this_port,VAR_5
+this_phy,VAR_6
+status,VAR_7

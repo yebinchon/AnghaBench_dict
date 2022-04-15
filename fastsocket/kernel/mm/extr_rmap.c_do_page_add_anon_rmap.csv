@@ -1,0 +1,17 @@
+NR_ANON_PAGES,VAR_0
+NR_ANON_TRANSPARENT_HUGEPAGES,VAR_1
+PageKsm,FUNC_0
+PageLocked,FUNC_1
+PageTransHuge,FUNC_2
+VM_BUG_ON,FUNC_3
+__inc_zone_page_state,FUNC_4
+__page_check_anon_rmap,FUNC_5
+__page_set_anon_rmap,FUNC_6
+atomic_inc_and_test,FUNC_7
+unlikely,FUNC_8
+do_page_add_anon_rmap,FUNC_9
+page,VAR_2
+vma,VAR_3
+address,VAR_4
+exclusive,VAR_5
+first,VAR_6

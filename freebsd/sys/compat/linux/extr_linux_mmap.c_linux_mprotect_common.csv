@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+LINUX_PROT_GROWSDOWN,VAR_1
+LINUX_PROT_GROWSUP,VAR_2
+PROT_EXEC,VAR_3
+PROT_READ,VAR_4
+PROT_WRITE,VAR_5
+kern_mprotect,FUNC_0
+linux_fixup_prot,FUNC_1
+linux_mprotect_common,FUNC_2
+td,VAR_6
+addr,VAR_7
+len,VAR_8
+prot,VAR_9

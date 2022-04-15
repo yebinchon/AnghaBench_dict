@@ -1,0 +1,13 @@
+PCI_EXP_LNKCAP,VAR_0
+PCI_EXP_LNKCAP_ASPMS,VAR_1
+PCI_EXP_LNKCAP_L0SEL,VAR_2
+PCI_EXP_LNKCAP_L1EL,VAR_3
+PCI_EXP_LNKCTL,VAR_4
+PCI_EXP_LNKCTL_ASPMC,VAR_5
+pcie_capability_read_dword,FUNC_0
+pcie_capability_read_word,FUNC_1
+pcie_get_aspm_reg,FUNC_2
+pdev,VAR_6
+info,VAR_7
+reg16,VAR_8
+reg32,VAR_9

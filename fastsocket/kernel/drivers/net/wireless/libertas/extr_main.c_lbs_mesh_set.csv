@@ -1,0 +1,16 @@
+CMD_ACT_MESH_CONFIG_START,VAR_0
+CMD_ACT_MESH_CONFIG_STOP,VAR_1
+lbs_add_mesh,FUNC_0
+lbs_mesh_config,FUNC_1
+lbs_remove_mesh,FUNC_2
+sscanf,FUNC_3
+to_net_dev,FUNC_4
+lbs_mesh_set,FUNC_5
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+count,VAR_5
+priv,VAR_6
+enable,VAR_7
+ret,VAR_8
+action,VAR_9

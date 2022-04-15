@@ -1,0 +1,12 @@
+QUANTIZATION_TABLE_LEN,VAR_0
+TW5864_QUAN_TAB,VAR_1
+TW5864_VLC_RD,VAR_2
+TW5864_VLC_STREAM_MEM_START,VAR_3
+VLC_LOOKUP_TABLE_LEN,VAR_4
+encoder_vlc_lookup_table,VAR_5
+forward_quantization_table,VAR_6
+inverse_quantization_table,VAR_7
+tw_writel,FUNC_0
+tw5864_encoder_tables_upload,FUNC_1
+dev,VAR_8
+i,VAR_9

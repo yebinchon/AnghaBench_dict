@@ -1,0 +1,14 @@
+drm_crtc_send_vblank_event,FUNC_0
+drm_panel_disable,FUNC_1
+drm_panel_unprepare,FUNC_2
+drm_pipe_to_mxsfb_drm_private,FUNC_3
+mxsfb_crtc_disable,FUNC_4
+pm_runtime_put_sync,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+mxsfb_pipe_disable,FUNC_8
+pipe,VAR_0
+mxsfb,VAR_1
+drm,VAR_2
+crtc,VAR_3
+event,VAR_4

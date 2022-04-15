@@ -1,0 +1,11 @@
+TEST_REPO_PATH,VAR_0
+cl_git_pass,FUNC_0
+cl_git_sandbox_init,FUNC_1
+git_config_free,FUNC_2
+git_config_set_string,FUNC_3
+git_repository_config,FUNC_4
+git_repository_index,FUNC_5
+repo,VAR_1
+repo_index,VAR_2
+test_merge_workdir_simple__initialize,FUNC_6
+cfg,VAR_3

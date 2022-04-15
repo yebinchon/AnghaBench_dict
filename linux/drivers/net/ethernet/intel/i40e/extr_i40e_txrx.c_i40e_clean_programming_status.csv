@@ -1,0 +1,14 @@
+I40E_RX_DESC,FUNC_0
+I40E_RX_PROG_STATUS_DESC_FD_FILTER_STATUS,VAR_0
+I40E_RX_PROG_STATUS_DESC_QW1_PROGID_MASK,VAR_1
+I40E_RX_PROG_STATUS_DESC_QW1_PROGID_SHIFT,VAR_2
+i40e_fd_handle_status,FUNC_1
+i40e_rx_is_programming_status,FUNC_2
+prefetch,FUNC_3
+i40e_clean_programming_status,FUNC_4
+rx_ring,VAR_3
+rx_desc,VAR_4
+qw,VAR_5
+rx_buffer,VAR_6
+ntc,VAR_7
+id,VAR_8

@@ -1,0 +1,12 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+vgic_its_inject_cached_translation,FUNC_4
+vgic_its_trigger_msi,FUNC_5
+vgic_msi_to_its,FUNC_6
+vgic_its_inject_msi,FUNC_7
+kvm,VAR_0
+msi,VAR_1
+its,VAR_2
+ret,VAR_3

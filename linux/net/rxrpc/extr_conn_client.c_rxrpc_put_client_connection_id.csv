@@ -1,0 +1,10 @@
+RXRPC_CIDSHIFT,VAR_0
+RXRPC_CONN_HAS_IDR,VAR_1
+idr_remove,FUNC_0
+rxrpc_client_conn_ids,VAR_2
+rxrpc_conn_id_lock,VAR_3
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+test_bit,FUNC_3
+rxrpc_put_client_connection_id,FUNC_4
+conn,VAR_4

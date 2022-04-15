@@ -1,0 +1,14 @@
+AMR_SGET_MBSTAT,FUNC_0
+AMR_SMBOX_BUSYFLAG,VAR_0
+AMR_SPOST_COMMAND,FUNC_1
+EBUSY,VAR_1
+bcopy,FUNC_2
+device_printf,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+ppsratecheck,FUNC_6
+amr_std_submit_command,FUNC_7
+ac,VAR_2
+sc,VAR_3
+lastfail,VAR_4
+curfail,VAR_5

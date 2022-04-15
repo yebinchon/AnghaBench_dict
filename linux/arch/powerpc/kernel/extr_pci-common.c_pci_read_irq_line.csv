@@ -1,0 +1,14 @@
+IRQ_TYPE_LEVEL_LOW,VAR_0
+PCI_INTERRUPT_LINE,VAR_1
+PCI_INTERRUPT_PIN,VAR_2
+irq_create_mapping,FUNC_0
+irq_set_irq_type,FUNC_1
+of_irq_parse_and_map_pci,FUNC_2
+pci_name,FUNC_3
+pci_read_config_byte,FUNC_4
+pr_debug,FUNC_5
+pci_read_irq_line,FUNC_6
+pci_dev,VAR_3
+virq,VAR_4
+line,VAR_5
+pin,VAR_6

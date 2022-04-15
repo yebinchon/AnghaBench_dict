@@ -1,0 +1,10 @@
+EVENT_NO_TIMEOUT,VAR_0
+TRUE,VAR_1
+cl_event_wait_on,FUNC_0
+osm_exit_flag,VAR_2
+pthread_cond_wait,FUNC_1
+pthread_mutex_lock,FUNC_2
+pthread_mutex_unlock,FUNC_3
+wait_for_pending_transactions,FUNC_4
+stats,VAR_3
+count,VAR_4

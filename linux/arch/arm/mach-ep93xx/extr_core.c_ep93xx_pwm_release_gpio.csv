@@ -1,0 +1,7 @@
+EP93XX_GPIO_LINE_EGPIO14,VAR_0
+EP93XX_SYSCON_DEVCFG_PONG,VAR_1
+ep93xx_devcfg_clear_bits,FUNC_0
+gpio_direction_input,FUNC_1
+gpio_free,FUNC_2
+ep93xx_pwm_release_gpio,FUNC_3
+pdev,VAR_2

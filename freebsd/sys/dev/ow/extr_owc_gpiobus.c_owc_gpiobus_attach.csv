@@ -1,0 +1,13 @@
+M_TEMP,VAR_0
+OWC_GPIOBUS_LOCK_INIT,FUNC_0
+bus_generic_attach,FUNC_1
+device_add_child,FUNC_2
+device_get_children,FUNC_3
+device_get_parent,FUNC_4
+device_get_softc,FUNC_5
+free,FUNC_6
+owc_gpiobus_attach,FUNC_7
+dev,VAR_1
+sc,VAR_2
+kids,VAR_3
+nkid,VAR_4

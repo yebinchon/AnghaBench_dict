@@ -1,0 +1,15 @@
+TTEVT_VFORK,VAR_0
+TT_LWP_GET_STATE,VAR_1
+TT_NIL,VAR_2
+call_ttrace,FUNC_0
+copy_ttstate_t,FUNC_1
+errno,VAR_3
+find_thread_info,FUNC_2
+map_from_gdb_tid,FUNC_3
+perror_with_name,FUNC_4
+hpux_has_vforked,FUNC_5
+tid,VAR_4
+childpid,VAR_5
+tt_status,VAR_6
+ttrace_state,VAR_7
+tinfo,VAR_8

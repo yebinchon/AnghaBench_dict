@@ -1,0 +1,17 @@
+ASN1_STRING_copy,FUNC_0
+ASN1_STRING_get0_data,FUNC_1
+ERR_R_MALLOC_FAILURE,VAR_0
+EVP_F_PKEY_MAC_COPY,VAR_1
+EVP_MAC_CTX_dup,FUNC_2
+EVP_MAC_CTX_mac,FUNC_3
+EVP_MAC_up_ref,FUNC_4
+EVP_PKEY_CTX_get_data,FUNC_5
+EVP_PKEY_CTX_set_data,FUNC_6
+EVPerr,FUNC_7
+OPENSSL_zalloc,FUNC_8
+pkey_mac_cleanup,FUNC_9
+pkey_mac_copy,FUNC_10
+dst,VAR_2
+src,VAR_3
+sctx,VAR_4
+dctx,VAR_5

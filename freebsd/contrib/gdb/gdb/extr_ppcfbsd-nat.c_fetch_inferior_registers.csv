@@ -1,0 +1,15 @@
+PIDGET,FUNC_0
+PT_GETFPREGS,VAR_0
+PT_GETREGS,VAR_1
+_,FUNC_1
+getfpregs_supplies,FUNC_2
+getregs_supplies,FUNC_3
+inferior_ptid,VAR_2
+perror_with_name,FUNC_4
+ppcfbsd_supply_fpreg,FUNC_5
+ppcfbsd_supply_reg,FUNC_6
+ptrace,FUNC_7
+fetch_inferior_registers,FUNC_8
+regno,VAR_3
+regs,VAR_4
+fpregs,VAR_5

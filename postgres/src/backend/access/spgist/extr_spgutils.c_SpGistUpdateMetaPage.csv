@@ -1,0 +1,14 @@
+BufferGetPage,FUNC_0
+ConditionalLockBuffer,FUNC_1
+MarkBufferDirty,FUNC_2
+ReadBuffer,FUNC_3
+ReleaseBuffer,FUNC_4
+SPGIST_METAPAGE_BLKNO,VAR_0
+SpGistPageGetMeta,FUNC_5
+UnlockReleaseBuffer,FUNC_6
+SpGistUpdateMetaPage,FUNC_7
+index,VAR_1
+cache,VAR_2
+metabuffer,VAR_3
+metapage,VAR_4
+metadata,VAR_5

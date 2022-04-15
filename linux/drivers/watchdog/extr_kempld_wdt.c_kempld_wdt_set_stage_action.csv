@@ -1,0 +1,15 @@
+ACTION_RESET,VAR_0
+EINVAL,VAR_1
+KEMPLD_WDT_STAGE_CFG,FUNC_0
+STAGE_CFG_ACTION_MASK,VAR_2
+STAGE_CFG_ASSERT,VAR_3
+kempld_get_mutex,FUNC_1
+kempld_read8,FUNC_2
+kempld_release_mutex,FUNC_3
+kempld_write8,FUNC_4
+kempld_wdt_set_stage_action,FUNC_5
+wdt_data,VAR_4
+stage,VAR_5
+action,VAR_6
+pld,VAR_7
+stage_cfg,VAR_8

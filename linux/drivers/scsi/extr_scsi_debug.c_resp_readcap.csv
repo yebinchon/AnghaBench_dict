@@ -1,0 +1,13 @@
+SDEBUG_READCAP_ARR_SZ,VAR_0
+fill_from_dev_buffer,FUNC_0
+get_sdebug_capacity,FUNC_1
+memset,FUNC_2
+put_unaligned_be16,FUNC_3
+put_unaligned_be32,FUNC_4
+sdebug_capacity,VAR_1
+sdebug_sector_size,VAR_2
+resp_readcap,FUNC_5
+scp,VAR_3
+devip,VAR_4
+arr,VAR_5
+capac,VAR_6

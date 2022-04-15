@@ -1,0 +1,11 @@
+ALPN_ENABLE,VAR_0
+ALPN_LIST_MAX,VAR_1
+memcpy,FUNC_0
+ssl_mem_zalloc,FUNC_1
+SSL_CTX_set_alpn_protos,FUNC_2
+ctx,VAR_2
+protos,VAR_3
+protos_len,VAR_4
+ptr,VAR_5
+i,VAR_6
+len,VAR_7

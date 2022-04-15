@@ -1,0 +1,16 @@
+BUS_DMA_NOWAIT,VAR_0
+ENOMEM,VAR_1
+MLY_MAX_COMMANDS,VAR_2
+MLY_SLOT_START,VAR_3
+bus_dmamap_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+bzero,FUNC_3
+min,FUNC_4
+mly_alloc_commands_map,VAR_4
+mly_release_command,FUNC_5
+mly_alloc_commands,FUNC_6
+sc,VAR_5
+mc,VAR_6
+i,VAR_7
+ncmd,VAR_8

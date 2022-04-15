@@ -1,0 +1,15 @@
+MMC_VDD_165_195,VAR_0
+VIA_CRDR_PCICLKGATT,VAR_1
+VIA_CRDR_PCICLKGATT_3V3,VAR_2
+VIA_CRDR_PCICLKGATT_PAD_PWRON,VAR_3
+readb,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+via_pwron_sleep,FUNC_3
+writeb,FUNC_4
+via_sdc_set_power,FUNC_5
+host,VAR_4
+power,VAR_5
+on,VAR_6
+flags,VAR_7
+gatt,VAR_8

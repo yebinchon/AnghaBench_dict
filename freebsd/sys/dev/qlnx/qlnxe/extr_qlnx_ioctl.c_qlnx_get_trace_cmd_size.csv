@@ -1,0 +1,17 @@
+DBG_STATUS_OK,VAR_0
+QL_DPRINT1,FUNC_0
+ecore_dbg_fw_asserts_get_dump_buf_size,FUNC_1
+ecore_dbg_igu_fifo_get_dump_buf_size,FUNC_2
+ecore_dbg_mcp_trace_get_dump_buf_size,FUNC_3
+ecore_dbg_protection_override_get_dump_buf_size,FUNC_4
+ecore_dbg_reg_fifo_get_dump_buf_size,FUNC_5
+ecore_ptt_acquire,FUNC_6
+ecore_ptt_release,FUNC_7
+qlnx_get_trace_cmd_size,FUNC_8
+ha,VAR_1
+hwfn_index,VAR_2
+cmd,VAR_3
+rval,VAR_4
+p_hwfn,VAR_5
+p_ptt,VAR_6
+num_dwords,VAR_7

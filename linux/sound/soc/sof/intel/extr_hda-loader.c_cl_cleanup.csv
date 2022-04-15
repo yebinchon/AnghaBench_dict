@@ -1,0 +1,17 @@
+HDA_DSP_HDA_BAR,VAR_0
+HDA_DSP_SPIB_DISABLE,VAR_1
+SNDRV_PCM_STREAM_PLAYBACK,VAR_2
+SOF_HDA_ADSP_REG_CL_SD_BDLPL,VAR_3
+SOF_HDA_ADSP_REG_CL_SD_BDLPU,VAR_4
+SOF_STREAM_SD_OFFSET,FUNC_0
+hda_dsp_stream_put,FUNC_1
+hda_dsp_stream_spib_config,FUNC_2
+snd_dma_free_pages,FUNC_3
+snd_sof_dsp_write,FUNC_4
+cl_cleanup,FUNC_5
+sdev,VAR_5
+dmab,VAR_6
+stream,VAR_7
+hstream,VAR_8
+sd_offset,VAR_9
+ret,VAR_10

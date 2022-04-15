@@ -1,0 +1,15 @@
+IPPROTO_ICMP,VAR_0
+IP_CT_RELATED,VAR_1
+IP_CT_RELATED_REPLY,VAR_2
+NF_ACCEPT,VAR_3
+NF_DROP,VAR_4
+ip_hdr,FUNC_0
+nf_ct_get,FUNC_1
+nf_nat_icmp_reply_translation,FUNC_2
+nf_nat_inet_fn,FUNC_3
+nf_nat_ipv4_fn,FUNC_4
+priv,VAR_5
+skb,VAR_6
+state,VAR_7
+ct,VAR_8
+ctinfo,VAR_9

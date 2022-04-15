@@ -1,0 +1,13 @@
+Anum_bgw_policy_chunk_stats_job_id_chunk_id_idx_job_id,VAR_0
+BGW_POLICY_CHUNK_STATS,VAR_1
+BGW_POLICY_CHUNK_STATS_JOB_ID_CHUNK_ID_IDX,VAR_2
+BTEqualStrategyNumber,VAR_3
+F_INT4EQ,VAR_4
+Int32GetDatum,FUNC_0
+RowExclusiveLock,VAR_5
+ScanKeyInit,FUNC_1
+ts_bgw_policy_delete_row_only_tuple_found,VAR_6
+ts_catalog_scan_all,FUNC_2
+ts_bgw_policy_chunk_stats_delete_row_only_by_job_id,FUNC_3
+job_id,VAR_7
+scankey,VAR_8

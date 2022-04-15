@@ -1,0 +1,8 @@
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+SNDRV_PCM_HW_PARAM_RATE,VAR_1
+double_rate_hw_constraint_channels,VAR_2
+double_rate_hw_constraint_rate,VAR_3
+snd_pcm_hw_rule_add,FUNC_0
+snd_ac97_pcm_double_rate_rules,FUNC_1
+runtime,VAR_4
+err,VAR_5

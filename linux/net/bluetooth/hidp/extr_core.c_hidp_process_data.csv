@@ -1,0 +1,17 @@
+BT_DBG,FUNC_0
+HIDP_HSHK_ERR_INVALID_PARAMETER,VAR_0
+HIDP_TRANS_HANDSHAKE,VAR_1
+HIDP_WAITING_FOR_RETURN,VAR_2
+HID_INPUT_REPORT,VAR_3
+clear_bit,FUNC_1
+hidp_input_report,FUNC_2
+hidp_process_report,FUNC_3
+hidp_send_ctrl_message,FUNC_4
+hidp_set_timer,FUNC_5
+test_bit,FUNC_6
+wake_up_interruptible,FUNC_7
+hidp_process_data,FUNC_8
+session,VAR_4
+skb,VAR_5
+param,VAR_6
+done_with_skb,VAR_7

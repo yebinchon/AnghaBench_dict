@@ -1,0 +1,17 @@
+EMSGSIZE,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+NFC_ATTR_DEVICE_INDEX,VAR_3
+NFC_EVENT_DEVICE_REMOVED,VAR_4
+NLMSG_DEFAULT_SIZE,VAR_5
+genlmsg_end,FUNC_0
+genlmsg_multicast,FUNC_1
+genlmsg_put,FUNC_2
+nfc_genl_family,VAR_6
+nla_put_u32,FUNC_3
+nlmsg_free,FUNC_4
+nlmsg_new,FUNC_5
+nfc_genl_device_removed,FUNC_6
+dev,VAR_7
+msg,VAR_8
+hdr,VAR_9

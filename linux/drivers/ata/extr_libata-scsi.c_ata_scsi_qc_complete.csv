@@ -1,0 +1,15 @@
+ATA_12,VAR_0
+ATA_16,VAR_1
+ATA_QCFLAG_SENSE_VALID,VAR_2
+SAM_STAT_CHECK_CONDITION,VAR_3
+SAM_STAT_GOOD,VAR_4
+ata_dump_status,FUNC_0
+ata_gen_ata_sense,FUNC_1
+ata_gen_passthru_sense,FUNC_2
+ata_qc_done,FUNC_3
+ata_scsi_qc_complete,FUNC_4
+qc,VAR_5
+ap,VAR_6
+cmd,VAR_7
+cdb,VAR_8
+need_sense,VAR_9

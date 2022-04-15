@@ -1,0 +1,14 @@
+CVMX_BOARD_TYPE_EBT3000,VAR_0
+MAX_APP_DESC_ADDR,VAR_1
+__cvmx_helper_cfg_init,FUNC_0
+cvmx_bootmem_init,FUNC_1
+cvmx_safe_printf,FUNC_2
+cvmx_sysinfo_get,FUNC_3
+ebt3000_str_write,FUNC_4
+octeon_feature_init,FUNC_5
+octeon_process_app_desc_ver_6,FUNC_6
+platform_reset,FUNC_7
+octeon_boot_params_init,FUNC_8
+ptr,VAR_2
+app_desc_ptr,VAR_3
+octeon_bootinfo,VAR_4

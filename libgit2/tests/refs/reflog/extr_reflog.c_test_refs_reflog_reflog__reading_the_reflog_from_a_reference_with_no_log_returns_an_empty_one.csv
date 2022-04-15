@@ -1,0 +1,17 @@
+GIT_BUF_INIT,VAR_0
+GIT_REFLOG_DIR,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_2
+git_buf_cstr,FUNC_2
+git_buf_dispose,FUNC_3
+git_buf_join_n,FUNC_4
+git_path_isfile,FUNC_5
+git_reflog_entrycount,FUNC_6
+git_reflog_free,FUNC_7
+git_reflog_read,FUNC_8
+git_repository_path,FUNC_9
+test_refs_reflog_reflog__reading_the_reflog_from_a_reference_with_no_log_returns_an_empty_one,FUNC_10
+reflog,VAR_3
+refname,VAR_4
+subtrees_log_path,VAR_5

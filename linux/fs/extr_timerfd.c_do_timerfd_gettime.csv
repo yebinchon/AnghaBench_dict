@@ -1,0 +1,17 @@
+alarm_forward_now,FUNC_0
+alarm_restart,FUNC_1
+fdput,FUNC_2
+hrtimer_forward_now,FUNC_3
+hrtimer_restart,FUNC_4
+isalarm,FUNC_5
+ktime_to_timespec64,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+timerfd_fget,FUNC_9
+timerfd_get_remaining,FUNC_10
+do_timerfd_gettime,FUNC_11
+ufd,VAR_0
+t,VAR_1
+f,VAR_2
+ctx,VAR_3
+ret,VAR_4

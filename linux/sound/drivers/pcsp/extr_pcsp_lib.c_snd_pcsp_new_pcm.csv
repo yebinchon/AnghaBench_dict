@@ -1,0 +1,14 @@
+GFP_KERNEL,VAR_0
+PCSP_BUFFER_SIZE,VAR_1
+SNDRV_DMA_TYPE_CONTINUOUS,VAR_2
+SNDRV_PCM_INFO_HALF_DUPLEX,VAR_3
+SNDRV_PCM_STREAM_PLAYBACK,VAR_4
+snd_dma_continuous_data,FUNC_0
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+snd_pcsp_playback_ops,VAR_5
+strcpy,FUNC_4
+snd_pcsp_new_pcm,FUNC_5
+chip,VAR_6
+err,VAR_7

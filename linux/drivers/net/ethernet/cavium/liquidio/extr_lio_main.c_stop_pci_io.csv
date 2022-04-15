@@ -1,0 +1,14 @@
+LIO_FLAG_MSI_ENABLED,VAR_0
+OCTEON_ALL_INTR,VAR_1
+OCT_DEV_IN_RESET,VAR_2
+atomic_set,FUNC_0
+cleanup_aer_uncorrect_error_status,FUNC_1
+dev_dbg,FUNC_2
+free_irq,FUNC_3
+lio_get_state_string,FUNC_4
+pci_disable_device,FUNC_5
+pci_disable_msi,FUNC_6
+pcierror_quiesce_device,FUNC_7
+stub1,FUNC_8
+stop_pci_io,FUNC_9
+oct,VAR_3

@@ -1,0 +1,17 @@
+IGP01E1000_PHY_PORT_CTRL,VAR_0
+IGP01E1000_PSCR_AUTO_MDIX,VAR_1
+IGP01E1000_PSCR_FORCE_MDI_MDIX,VAR_2
+MII_BMCR,VAR_3
+PHY_FORCE_LIMIT,VAR_4
+e1000e_phy_force_speed_duplex_setup,FUNC_0
+e1000e_phy_has_link_generic,FUNC_1
+e1e_rphy,FUNC_2
+e1e_wphy,FUNC_3
+e_dbg,FUNC_4
+udelay,FUNC_5
+e1000e_phy_force_speed_duplex_igp,FUNC_6
+hw,VAR_5
+phy,VAR_6
+ret_val,VAR_7
+phy_data,VAR_8
+link,VAR_9

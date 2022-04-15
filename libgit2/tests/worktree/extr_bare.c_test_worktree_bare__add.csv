@@ -1,0 +1,17 @@
+WORKTREE_REPO,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_1
+git_repository_free,FUNC_2
+git_repository_is_bare,FUNC_3
+git_repository_is_worktree,FUNC_4
+git_repository_open,FUNC_5
+git_strarray_free,FUNC_6
+git_worktree_add,FUNC_7
+git_worktree_free,FUNC_8
+git_worktree_list,FUNC_9
+git_worktree_validate,FUNC_10
+test_worktree_bare__add,FUNC_11
+wt,VAR_2
+wtrepo,VAR_3
+wts,VAR_4

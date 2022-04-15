@@ -1,0 +1,13 @@
+FIXADDR_START,VAR_0
+__nds32__isb,FUNC_0
+__nds32__tlbop_inv,FUNC_1
+kmap_atomic_idx_pop,FUNC_2
+pagefault_enable,FUNC_3
+pmd_off_k,FUNC_4
+preempt_enable,FUNC_5
+pte_offset_kernel,FUNC_6
+set_pte,FUNC_7
+__kunmap_atomic,FUNC_8
+kvaddr,VAR_1
+vaddr,VAR_2
+ptep,VAR_3

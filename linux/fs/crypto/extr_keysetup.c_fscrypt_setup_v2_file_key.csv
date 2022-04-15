@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+FSCRYPT_MAX_KEY_SIZE,VAR_1
+FSCRYPT_POLICY_FLAG_DIRECT_KEY,VAR_2
+FS_KEY_DERIVATION_NONCE_SIZE,VAR_3
+HKDF_CONTEXT_PER_FILE_KEY,VAR_4
+fscrypt_hkdf_expand,FUNC_0
+fscrypt_mode_supports_direct_key,FUNC_1
+fscrypt_set_derived_key,FUNC_2
+fscrypt_warn,FUNC_3
+memzero_explicit,FUNC_4
+setup_per_mode_key,FUNC_5
+fscrypt_setup_v2_file_key,FUNC_6
+ci,VAR_5
+mk,VAR_6
+derived_key,VAR_7
+err,VAR_8

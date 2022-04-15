@@ -1,0 +1,17 @@
+ERR_PTR,FUNC_0
+PORT100_FRAME_HEADER_LEN,VAR_0
+PORT100_FRAME_TAIL_LEN,VAR_1
+dev_kfree_skb,FUNC_1
+kfree,FUNC_2
+port100_rx_frame_size,FUNC_3
+skb_pull,FUNC_4
+skb_put,FUNC_5
+skb_trim,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+port100_send_async_complete,FUNC_9
+dev,VAR_2
+cmd,VAR_3
+status,VAR_4
+req,VAR_5
+resp,VAR_6

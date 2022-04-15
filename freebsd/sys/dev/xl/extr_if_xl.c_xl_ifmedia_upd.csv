@@ -1,0 +1,15 @@
+IFF_DRV_RUNNING,VAR_0
+IFM_SUBTYPE,FUNC_0
+XL_LOCK,FUNC_1
+XL_MEDIAOPT_BT4,VAR_1
+XL_MEDIAOPT_BTX,VAR_2
+XL_MEDIAOPT_MII,VAR_3
+XL_UNLOCK,FUNC_2
+device_get_softc,FUNC_3
+xl_init_locked,FUNC_4
+xl_setmode,FUNC_5
+xl_ifmedia_upd,FUNC_6
+ifp,VAR_4
+sc,VAR_5
+ifm,VAR_6
+mii,VAR_7

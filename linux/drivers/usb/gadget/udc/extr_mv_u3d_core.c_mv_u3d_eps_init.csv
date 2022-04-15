@@ -1,0 +1,17 @@
+INIT_LIST_HEAD,FUNC_0
+MV_U3D_EP0_MAX_PKT_SIZE,VAR_0
+MV_U3D_EP_DIR_IN,VAR_1
+MV_U3D_EP_DIR_OUT,VAR_2
+USB_ENDPOINT_XFER_CONTROL,VAR_3
+list_add_tail,FUNC_1
+mv_u3d_ep0_desc,VAR_4
+mv_u3d_ep_ops,VAR_5
+snprintf,FUNC_2
+spin_lock_init,FUNC_3
+strncpy,FUNC_4
+usb_ep_set_maxpacket_limit,FUNC_5
+mv_u3d_eps_init,FUNC_6
+u3d,VAR_6
+ep,VAR_7
+name,VAR_8
+i,VAR_9

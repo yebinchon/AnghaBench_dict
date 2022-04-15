@@ -1,0 +1,15 @@
+DISCONNECT_EVENT,VAR_0
+ESP_LOGI,FUNC_0
+EVENT_HANDLER_FLAG_DO_NOT_AUTO_RECONNECT,VAR_1
+TAG,VAR_2
+TEST_ESP_OK,FUNC_1
+esp_wifi_connect,FUNC_2
+printf,FUNC_3
+wifi_event_handler_flag,VAR_3
+wifi_events,VAR_4
+xEventGroupSetBits,FUNC_4
+wifi_event_handler,FUNC_5
+arg,VAR_5
+event_base,VAR_6
+event_id,VAR_7
+event_data,VAR_8

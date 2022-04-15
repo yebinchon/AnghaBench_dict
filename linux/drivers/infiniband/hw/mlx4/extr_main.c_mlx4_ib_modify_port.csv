@@ -1,0 +1,17 @@
+IB_PORT_RESET_QKEY_CNTR,VAR_0
+MLX4_PORT_TYPE_ETH,VAR_1
+ib_query_port,FUNC_0
+mlx4_ib_SET_PORT,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+to_mdev,FUNC_4
+mlx4_ib_modify_port,FUNC_5
+ibdev,VAR_2
+port,VAR_3
+mask,VAR_4
+props,VAR_5
+mdev,VAR_6
+is_eth,VAR_7
+attr,VAR_8
+cap_mask,VAR_9
+err,VAR_10

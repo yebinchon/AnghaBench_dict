@@ -1,0 +1,14 @@
+TWL4030_BCI_BCICTL1,VAR_0
+TWL4030_BCI_ITHEN,VAR_1
+TWL4030_BCI_TYPEN,VAR_2
+TWL_MODULE_MAIN_CHARGE,VAR_3
+dev_err,FUNC_0
+twl_i2c_read_u8,FUNC_1
+twl_i2c_write_u8,FUNC_2
+twl4030_madc_set_current_generator,FUNC_3
+madc,VAR_4
+chan,VAR_5
+on,VAR_6
+ret,VAR_7
+regmask,VAR_8
+regval,VAR_9

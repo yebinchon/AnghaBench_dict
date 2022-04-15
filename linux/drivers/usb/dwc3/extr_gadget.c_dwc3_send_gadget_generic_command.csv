@@ -1,0 +1,17 @@
+DWC3_DGCMD,VAR_0
+DWC3_DGCMDPAR,VAR_1
+DWC3_DGCMD_CMDACT,VAR_2
+DWC3_DGCMD_STATUS,FUNC_0
+EINVAL,VAR_3
+ETIMEDOUT,VAR_4
+dwc3_readl,FUNC_1
+dwc3_writel,FUNC_2
+trace_dwc3_gadget_generic_cmd,FUNC_3
+dwc3_send_gadget_generic_command,FUNC_4
+dwc,VAR_5
+cmd,VAR_6
+param,VAR_7
+timeout,VAR_8
+status,VAR_9
+ret,VAR_10
+reg,VAR_11

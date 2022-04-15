@@ -1,0 +1,17 @@
+SIGABRT,VAR_0
+SIGBUS,VAR_1
+SIGSEGV,VAR_2
+assert,FUNC_0
+printf,FUNC_1
+randombytes_uniform,FUNC_2
+segv_handler,FUNC_3
+signal,FUNC_4
+sodium_free,FUNC_5
+sodium_malloc,FUNC_6
+sodium_memzero,FUNC_7
+sodium_mprotect_noaccess,FUNC_8
+sodium_mprotect_readonly,FUNC_9
+sodium_mprotect_readwrite,FUNC_10
+main,FUNC_11
+buf,VAR_3
+size,VAR_4

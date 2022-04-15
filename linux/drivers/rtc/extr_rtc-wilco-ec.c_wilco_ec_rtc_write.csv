@@ -1,0 +1,16 @@
+EC_CMOS_TOD_WRITE,VAR_0
+EC_COMMAND_CMOS,VAR_1
+WILCO_EC_MSG_LEGACY,VAR_2
+bin2bcd,FUNC_0
+dev_get_drvdata,FUNC_1
+memset,FUNC_2
+wilco_ec_mailbox,FUNC_3
+wilco_ec_rtc_write,FUNC_4
+dev,VAR_3
+tm,VAR_4
+ec,VAR_5
+rtc,VAR_6
+msg,VAR_7
+year,VAR_8
+wday,VAR_9
+ret,VAR_10

@@ -1,0 +1,12 @@
+destroy_dispmanx,FUNC_0
+mmal_component_release,FUNC_1
+mmal_vc_deinit,FUNC_2
+pthread_cond_destroy,FUNC_3
+pthread_mutex_destroy,FUNC_4
+talloc_free,FUNC_5
+tv_callback,VAR_0
+vc_dispmanx_update_submit_sync,FUNC_6
+vc_tv_unregister_callback_full,FUNC_7
+uninit,FUNC_8
+vo,VAR_1
+p,VAR_2

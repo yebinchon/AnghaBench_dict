@@ -1,0 +1,17 @@
+E2P_CMD,VAR_0
+E2P_CMD_EPC_BUSY_,VAR_1
+E2P_CMD_EPC_TIMEOUT_,VAR_2
+EAGAIN,VAR_3
+EBUSY,VAR_4
+EINVAL,VAR_5
+SMSC_TRACE,FUNC_0
+SMSC_WARN,FUNC_1
+drv,VAR_6
+msleep,FUNC_2
+smsc911x_reg_read,FUNC_3
+smsc911x_reg_write,FUNC_4
+smsc911x_eeprom_send_cmd,FUNC_5
+pdata,VAR_7
+op,VAR_8
+timeout,VAR_9
+e2cmd,VAR_10

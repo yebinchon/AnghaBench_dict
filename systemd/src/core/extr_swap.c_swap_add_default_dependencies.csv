@@ -1,0 +1,14 @@
+MANAGER_IS_SYSTEM,FUNC_0
+SPECIAL_SWAP_TARGET,VAR_0
+SPECIAL_UMOUNT_TARGET,VAR_1
+UNIT,FUNC_1
+UNIT_BEFORE,VAR_2
+UNIT_CONFLICTS,VAR_3
+UNIT_DEPENDENCY_DEFAULT,VAR_4
+assert,FUNC_2
+detect_container,FUNC_3
+unit_add_dependency_by_name,FUNC_4
+unit_add_two_dependencies_by_name,FUNC_5
+swap_add_default_dependencies,FUNC_6
+s,VAR_5
+r,VAR_6

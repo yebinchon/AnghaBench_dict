@@ -1,0 +1,13 @@
+DMA_FROM_DEVICE,VAR_0
+ENETC_RXB_DMA_SIZE,VAR_1
+ENETC_RXB_TRUESIZE,VAR_2
+PAGE_SIZE,VAR_3
+dma_sync_single_range_for_device,FUNC_0
+dma_unmap_page,FUNC_1
+enetc_page_reusable,FUNC_2
+enetc_reuse_page,FUNC_3
+likely,FUNC_4
+page_ref_inc,FUNC_5
+enetc_put_rx_buff,FUNC_6
+rx_ring,VAR_4
+rx_swbd,VAR_5

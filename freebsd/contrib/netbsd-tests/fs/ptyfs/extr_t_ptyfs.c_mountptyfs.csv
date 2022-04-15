@@ -1,0 +1,12 @@
+EEXIST,VAR_0
+MOUNT_PTYFS,VAR_1
+PTYFS_ARGSVERSION,VAR_2
+atf_tc_fail_errno,FUNC_0
+errno,VAR_3
+memset,FUNC_1
+rump_sys_mkdir,FUNC_2
+rump_sys_mount,FUNC_3
+mountptyfs,FUNC_4
+mp,VAR_4
+flags,VAR_5
+args,VAR_6

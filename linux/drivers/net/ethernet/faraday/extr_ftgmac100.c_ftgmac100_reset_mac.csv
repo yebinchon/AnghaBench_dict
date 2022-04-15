@@ -1,0 +1,13 @@
+EIO,VAR_0
+FTGMAC100_MACCR_SW_RST,VAR_1
+FTGMAC100_OFFSET_MACCR,VAR_2
+ioread32,FUNC_0
+iowrite32,FUNC_1
+netdev_err,FUNC_2
+udelay,FUNC_3
+ftgmac100_reset_mac,FUNC_4
+priv,VAR_3
+maccr,VAR_4
+netdev,VAR_5
+i,VAR_6
+maccr,VAR_7

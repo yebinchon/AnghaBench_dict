@@ -1,0 +1,16 @@
+SYNC_SKCIPHER_REQUEST_ON_STACK,FUNC_0
+crypto_aead_authsize,FUNC_1
+crypto_aead_ctx,FUNC_2
+crypto_aead_reqtfm,FUNC_3
+crypto_skcipher_encrypt,FUNC_4
+nreq,VAR_0
+skcipher_request_set_callback,FUNC_5
+skcipher_request_set_crypt,FUNC_6
+skcipher_request_set_sync_tfm,FUNC_7
+crypto_rfc4543_copy_src_to_dst,FUNC_8
+req,VAR_1
+enc,VAR_2
+aead,VAR_3
+ctx,VAR_4
+authsize,VAR_5
+nbytes,VAR_6

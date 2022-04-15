@@ -1,0 +1,16 @@
+MMC_CAP_POWER_OFF_CARD,VAR_0
+dev_pm_domain_detach,FUNC_0
+dev_to_sdio_func,FUNC_1
+pm_runtime_get_sync,FUNC_2
+pm_runtime_put_noidle,FUNC_3
+pm_runtime_put_sync,FUNC_4
+pr_warn,FUNC_5
+sdio_claim_host,FUNC_6
+sdio_release_host,FUNC_7
+sdio_release_irq,FUNC_8
+stub1,FUNC_9
+to_sdio_driver,FUNC_10
+sdio_bus_remove,FUNC_11
+dev,VAR_1
+drv,VAR_2
+func,VAR_3

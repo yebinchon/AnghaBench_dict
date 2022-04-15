@@ -1,0 +1,15 @@
+POWER_SUPPLY_STATUS_CHARGING,VAR_0
+POWER_SUPPLY_STATUS_DISCHARGING,VAR_1
+POWER_SUPPLY_STATUS_UNKNOWN,VAR_2
+bat_status,VAR_3
+gpio_get_value,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+power_supply_changed,FUNC_3
+power_supply_get_drvdata,FUNC_4
+pr_debug,FUNC_5
+work_lock,VAR_4
+wm97xx_bat_update,FUNC_6
+bat_ps,VAR_5
+old_status,VAR_6
+pdata,VAR_7

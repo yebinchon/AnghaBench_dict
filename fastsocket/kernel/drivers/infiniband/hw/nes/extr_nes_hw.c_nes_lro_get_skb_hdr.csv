@@ -1,0 +1,16 @@
+IPPROTO_TCP,VAR_0
+LRO_IPV4,VAR_1
+LRO_TCP,VAR_2
+ip_hdr,FUNC_0
+ip_hdrlen,FUNC_1
+skb_reset_network_header,FUNC_2
+skb_set_transport_header,FUNC_3
+tcp_hdr,FUNC_4
+nes_lro_get_skb_hdr,FUNC_5
+skb,VAR_3
+iphdr,VAR_4
+tcph,VAR_5
+hdr_flags,VAR_6
+priv,VAR_7
+ip_len,VAR_8
+iph,VAR_9

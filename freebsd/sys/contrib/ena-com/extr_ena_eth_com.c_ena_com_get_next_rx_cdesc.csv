@@ -1,0 +1,10 @@
+ENA_ETH_IO_RX_CDESC_BASE_PHASE_MASK,VAR_0
+ENA_ETH_IO_RX_CDESC_BASE_PHASE_SHIFT,VAR_1
+READ_ONCE32,FUNC_0
+dma_rmb,FUNC_1
+ena_com_get_next_rx_cdesc,FUNC_2
+io_cq,VAR_2
+cdesc,VAR_3
+expected_phase,VAR_4
+head_masked,VAR_5
+desc_phase,VAR_6

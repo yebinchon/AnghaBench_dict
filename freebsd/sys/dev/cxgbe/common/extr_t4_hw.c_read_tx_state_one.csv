@@ -1,0 +1,12 @@
+A_MPS_PORT_STAT_RX_PORT_PAUSE_L,VAR_0
+A_MPS_PORT_STAT_TX_PORT_FRAMES_L,VAR_1
+PORT_REG,FUNC_0
+T5_PORT_REG,FUNC_1
+is_t4,FUNC_2
+t4_read_reg64,FUNC_3
+read_tx_state_one,FUNC_4
+sc,VAR_2
+i,VAR_3
+tx_state,VAR_4
+rx_pause_reg,VAR_5
+tx_frames_reg,VAR_6

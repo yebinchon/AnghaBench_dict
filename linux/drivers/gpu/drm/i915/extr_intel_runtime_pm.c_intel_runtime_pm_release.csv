@@ -1,0 +1,8 @@
+INTEL_RPM_WAKELOCK_BIAS,VAR_0
+__intel_wakeref_dec_and_check_tracking,FUNC_0
+assert_rpm_raw_wakeref_held,FUNC_1
+assert_rpm_wakelock_held,FUNC_2
+atomic_sub,FUNC_3
+intel_runtime_pm_release,FUNC_4
+rpm,VAR_1
+wakelock,VAR_2

@@ -1,0 +1,15 @@
+ACPI_FREE,FUNC_0
+ACPI_HANDLE,FUNC_1
+ACPI_TYPE_INTEGER,VAR_0
+RESET_DELAY_DSM,VAR_1
+acpi_evaluate_dsm,FUNC_2
+acpi_pci_disabled,VAR_2
+acpi_pci_slot_enumerate,FUNC_3
+acpiphp_enumerate_slots,FUNC_4
+pci_acpi_dsm_guid,VAR_3
+pci_find_host_bridge,FUNC_5
+pci_is_root_bus,FUNC_6
+acpi_pci_add_bus,FUNC_7
+bus,VAR_4
+obj,VAR_5
+bridge,VAR_6

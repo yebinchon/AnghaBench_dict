@@ -1,0 +1,14 @@
+disable_irq,FUNC_0
+enable_irq,FUNC_1
+gpiod_direction_input,FUNC_2
+gpiod_direction_output,FUNC_3
+gpiod_set_value,FUNC_4
+local_irq_disable,FUNC_5
+local_irq_enable,FUNC_6
+mdelay,FUNC_7
+mutex_lock,FUNC_8
+mutex_unlock,FUNC_9
+tda998x_cec_set_calibration,FUNC_10
+tda998x_cec_calibration,FUNC_11
+priv,VAR_0
+calib,VAR_1

@@ -1,0 +1,12 @@
+claim_dma_lock,FUNC_0
+comedi_isadma_disable,FUNC_1
+enable_dma,FUNC_2
+release_dma_lock,FUNC_3
+udelay,FUNC_4
+comedi_isadma_disable_on_sample,FUNC_5
+dma_chan,VAR_0
+size,VAR_1
+stalled,VAR_2
+flags,VAR_3
+residue,VAR_4
+new_residue,VAR_5

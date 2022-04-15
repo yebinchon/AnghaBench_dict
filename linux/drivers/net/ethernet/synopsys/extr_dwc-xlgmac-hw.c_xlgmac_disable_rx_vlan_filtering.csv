@@ -1,0 +1,9 @@
+MAC_PFR,VAR_0
+MAC_PFR_VTFE_LEN,VAR_1
+MAC_PFR_VTFE_POS,VAR_2
+XLGMAC_SET_REG_BITS,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+xlgmac_disable_rx_vlan_filtering,FUNC_3
+pdata,VAR_3
+regval,VAR_4

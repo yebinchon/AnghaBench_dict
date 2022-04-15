@@ -1,0 +1,14 @@
+SNDRV_DEVICE_TYPE_PCM_CAPTURE,VAR_0
+SNDRV_DEVICE_TYPE_PCM_PLAYBACK,VAR_1
+S_ISCHR,FUNC_0
+file_inode,FUNC_1
+imajor,FUNC_2
+iminor,FUNC_3
+snd_card_unref,FUNC_4
+snd_lookup_minor_data,FUNC_5
+snd_major,VAR_2
+is_pcm_file,FUNC_6
+file,VAR_3
+inode,VAR_4
+pcm,VAR_5
+minor,VAR_6

@@ -1,0 +1,15 @@
+CB_SETCURSEL,VAR_0
+CB_SHOWDROPDOWN,VAR_1
+SendMessageW,FUNC_0
+WM_LBUTTONDOWN,VAR_2
+WM_LBUTTONUP,VAR_3
+broken,FUNC_1
+find_window,FUNC_2
+ok,FUNC_3
+trace,FUNC_4
+filedialog_change_filetype,FUNC_5
+pfd,VAR_4
+dlg_hwnd,VAR_5
+cb_filetype,VAR_6
+filetype1,VAR_7
+filetype1_broken,VAR_8

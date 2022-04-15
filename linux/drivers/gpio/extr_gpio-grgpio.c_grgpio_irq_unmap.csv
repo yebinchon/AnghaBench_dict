@@ -1,0 +1,17 @@
+WARN_ON,FUNC_0
+free_irq,FUNC_1
+grgpio_set_imask,FUNC_2
+irq_set_chip_and_handler,FUNC_3
+irq_set_chip_data,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+grgpio_irq_unmap,FUNC_7
+d,VAR_0
+irq,VAR_1
+priv,VAR_2
+index,VAR_3
+lirq,VAR_4
+uirq,VAR_5
+flags,VAR_6
+ngpio,VAR_7
+i,VAR_8

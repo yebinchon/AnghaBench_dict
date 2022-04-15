@@ -1,0 +1,16 @@
+FALSE,VAR_0
+TRUE,VAR_1
+ZM_DEFAULT_SUPPORT_RATE_DISCONNECT,VAR_2
+ZM_SCAN_MGR_SCAN_INTERNAL,VAR_3
+wd,VAR_4
+zfResetSupportRate,FUNC_0
+zfScanMgrScanStop,FUNC_1
+zm_debug_msg1,FUNC_2
+zmw_declare_for_critical_section,FUNC_3
+zmw_enter_critical_section,FUNC_4
+zmw_get_wlan_dev,FUNC_5
+zmw_leave_critical_section,FUNC_6
+zfChangeAdapterState,FUNC_7
+dev,VAR_5
+newState,VAR_6
+ret,VAR_7

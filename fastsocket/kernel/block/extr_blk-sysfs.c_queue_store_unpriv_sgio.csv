@@ -1,0 +1,15 @@
+CAP_SYS_ADMIN,VAR_0
+EPERM,VAR_1
+QUEUE_FLAG_UNPRIV_SGIO,VAR_2
+capable,FUNC_0
+queue_flag_clear,FUNC_1
+queue_flag_set,FUNC_2
+queue_var_store,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+queue_store_unpriv_sgio,FUNC_6
+q,VAR_3
+page,VAR_4
+count,VAR_5
+val,VAR_6
+ret,VAR_7

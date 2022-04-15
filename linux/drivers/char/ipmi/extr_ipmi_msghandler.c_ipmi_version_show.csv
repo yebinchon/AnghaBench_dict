@@ -1,0 +1,12 @@
+bmc_get_device_id,FUNC_0
+ipmi_version_major,FUNC_1
+ipmi_version_minor,FUNC_2
+snprintf,FUNC_3
+to_bmc_device,FUNC_4
+ipmi_version_show,FUNC_5
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+bmc,VAR_3
+id,VAR_4
+rv,VAR_5

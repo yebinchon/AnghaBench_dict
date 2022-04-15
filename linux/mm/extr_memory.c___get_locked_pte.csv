@@ -1,0 +1,15 @@
+VM_BUG_ON,FUNC_0
+p4d_alloc,FUNC_1
+pgd_offset,FUNC_2
+pmd_alloc,FUNC_3
+pmd_trans_huge,FUNC_4
+pte_alloc_map_lock,FUNC_5
+pud_alloc,FUNC_6
+__get_locked_pte,FUNC_7
+mm,VAR_0
+addr,VAR_1
+ptl,VAR_2
+pgd,VAR_3
+p4d,VAR_4
+pud,VAR_5
+pmd,VAR_6

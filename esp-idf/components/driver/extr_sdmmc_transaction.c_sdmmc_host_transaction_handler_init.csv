@@ -1,0 +1,11 @@
+ESP_ERR_NO_MEM,VAR_0
+ESP_OK,VAR_1
+ESP_PM_APB_FREQ_MAX,VAR_2
+assert,FUNC_0
+esp_pm_lock_create,FUNC_1
+s_is_app_cmd,VAR_3
+s_pm_lock,VAR_4
+s_request_mutex,VAR_5
+vSemaphoreDelete,FUNC_2
+xSemaphoreCreateMutex,FUNC_3
+sdmmc_host_transaction_handler_init,FUNC_4

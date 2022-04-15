@@ -1,0 +1,12 @@
+__disarm_kprobe,FUNC_0
+cpus_read_lock,FUNC_1
+cpus_read_unlock,FUNC_2
+disarm_kprobe_ftrace,FUNC_3
+kprobe_ftrace,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+text_mutex,VAR_0
+unlikely,FUNC_7
+disarm_kprobe,FUNC_8
+kp,VAR_1
+reopt,VAR_2

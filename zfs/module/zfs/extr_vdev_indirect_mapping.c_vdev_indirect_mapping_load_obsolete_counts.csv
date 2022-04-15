@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+DMU_READ_PREFETCH,VAR_0
+KM_SLEEP,VAR_1
+VERIFY0,FUNC_1
+bzero,FUNC_2
+dmu_read,FUNC_3
+vdev_indirect_mapping_verify,FUNC_4
+vmem_alloc,FUNC_5
+vdev_indirect_mapping_load_obsolete_counts,FUNC_6
+vim,VAR_2
+counts_size,VAR_3
+counts,VAR_4

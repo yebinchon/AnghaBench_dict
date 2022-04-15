@@ -1,0 +1,12 @@
+VCOS_FUNCTION,VAR_0
+VCOS_SUCCESS,VAR_1
+WFC_IPC_MSG_SS_UNREGISTER,VAR_2
+vcos_assert,FUNC_0
+vcos_log_trace,FUNC_1
+wfc_client_ipc_send,FUNC_2
+wfc_server_stream_unregister,FUNC_3
+stream,VAR_3
+pid_lo,VAR_4
+pid_hi,VAR_5
+msg,VAR_6
+status,VAR_7

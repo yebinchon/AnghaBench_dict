@@ -1,0 +1,12 @@
+HUF_decompress4X1_usingDTable_internal,FUNC_0
+HUF_decompress4X2_usingDTable_internal,FUNC_1
+HUF_getDTableDesc,FUNC_2
+assert,FUNC_3
+HUF_decompress4X_usingDTable_bmi2,FUNC_4
+dst,VAR_0
+maxDstSize,VAR_1
+cSrc,VAR_2
+cSrcSize,VAR_3
+DTable,VAR_4
+bmi2,VAR_5
+dtd,VAR_6

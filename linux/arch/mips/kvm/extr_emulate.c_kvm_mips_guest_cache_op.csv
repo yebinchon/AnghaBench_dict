@@ -1,0 +1,17 @@
+EMULATE_DONE,VAR_0
+EMULATE_EXCEPT,VAR_1
+EMULATE_FAIL,VAR_2
+kvm_mips_emulate_tlbinv_ld,FUNC_0
+kvm_mips_emulate_tlbmiss_ld,FUNC_1
+kvm_trap_emul_gva_fault,FUNC_2
+kvm_trap_emul_gva_lockless_begin,FUNC_3
+kvm_trap_emul_gva_lockless_end,FUNC_4
+likely,FUNC_5
+kvm_mips_guest_cache_op,FUNC_6
+fn,VAR_3
+curr_pc,VAR_4
+addr,VAR_5
+run,VAR_6
+vcpu,VAR_7
+cause,VAR_8
+err,VAR_9

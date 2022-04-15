@@ -1,0 +1,11 @@
+client_initialize,FUNC_0
+free,FUNC_1
+log_dhcp_client,FUNC_2
+mfree,FUNC_3
+ordered_hashmap_free,FUNC_4
+sd_dhcp_client_detach_event,FUNC_5
+sd_dhcp_lease_unref,FUNC_6
+sd_event_source_unref,FUNC_7
+strv_free,FUNC_8
+dhcp_client_free,FUNC_9
+client,VAR_0

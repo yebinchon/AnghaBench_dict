@@ -1,0 +1,9 @@
+GPIO_DTR,VAR_0
+GPIO_RTS,VAR_1
+TIOCM_DTR,VAR_2
+TIOCM_RTS,VAR_3
+gpio_set_value,FUNC_0
+cpm_uart_set_mctrl,FUNC_1
+port,VAR_4
+mctrl,VAR_5
+pinfo,VAR_6

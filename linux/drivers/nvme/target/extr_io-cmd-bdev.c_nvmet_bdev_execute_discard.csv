@@ -1,0 +1,14 @@
+BLK_STS_IOERR,VAR_0
+bio_endio,FUNC_0
+le32_to_cpu,FUNC_1
+nvmet_bdev_discard_range,FUNC_2
+nvmet_bio_done,VAR_1
+nvmet_copy_from_sgl,FUNC_3
+nvmet_req_complete,FUNC_4
+submit_bio,FUNC_5
+nvmet_bdev_execute_discard,FUNC_6
+req,VAR_2
+range,VAR_3
+bio,VAR_4
+i,VAR_5
+status,VAR_6

@@ -1,0 +1,17 @@
+GFP_DMA,VAR_0
+PAGE_SIZE,VAR_1
+__GFP_DMA,VAR_2
+__GFP_HIGHMEM,VAR_3
+__get_free_pages,FUNC_0
+get_order,FUNC_1
+memset,FUNC_2
+mn10300_dcache_flush_inv_range2,FUNC_3
+virt_to_bus,FUNC_4
+virt_to_phys,FUNC_5
+dma_alloc_coherent,FUNC_6
+dev,VAR_4
+size,VAR_5
+dma_handle,VAR_6
+gfp,VAR_7
+addr,VAR_8
+ret,VAR_9

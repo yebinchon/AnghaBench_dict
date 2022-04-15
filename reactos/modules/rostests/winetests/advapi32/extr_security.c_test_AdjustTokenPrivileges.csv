@@ -1,0 +1,16 @@
+AdjustTokenPrivileges,FUNC_0
+CloseHandle,FUNC_1
+FALSE,VAR_0
+GetCurrentProcess,FUNC_2
+LookupPrivilegeValueA,FUNC_3
+OpenProcessToken,FUNC_4
+SE_BACKUP_NAME,VAR_1
+SE_PRIVILEGE_ENABLED,VAR_2
+TOKEN_ADJUST_PRIVILEGES,VAR_3
+ok,FUNC_5
+test_AdjustTokenPrivileges,FUNC_6
+tp,VAR_4
+token,VAR_5
+len,VAR_6
+luid,VAR_7
+ret,VAR_8

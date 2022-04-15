@@ -1,0 +1,12 @@
+__iommu_flush_cache,FUNC_0
+context_clear_entry,FUNC_1
+get_context_addr_from_root,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+clear_context_table,FUNC_5
+iommu,VAR_0
+bus,VAR_1
+devfn,VAR_2
+root,VAR_3
+context,VAR_4
+flags,VAR_5

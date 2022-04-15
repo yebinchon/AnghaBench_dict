@@ -1,0 +1,12 @@
+GIT_CONFIG_LEVEL_APP,VAR_0
+GIT_CONFIG_LEVEL_GLOBAL,VAR_1
+GIT_CONFIG_LEVEL_LOCAL,VAR_2
+GIT_CONFIG_LEVEL_SYSTEM,VAR_3
+check_get_multivar,FUNC_0
+check_get_multivar_foreach,FUNC_1
+cl_git_pass,FUNC_2
+git_config_add_file_ondisk,FUNC_3
+git_config_free,FUNC_4
+git_config_open_ondisk,FUNC_5
+test_config_multivar__get,FUNC_6
+cfg,VAR_4

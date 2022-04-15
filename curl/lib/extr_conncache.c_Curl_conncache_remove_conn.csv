@@ -1,0 +1,12 @@
+CONN_LOCK,FUNC_0
+CONN_UNLOCK,FUNC_1
+DEBUGF,FUNC_2
+bundle_remove_conn,FUNC_3
+conncache_remove_bundle,FUNC_4
+infof,FUNC_5
+Curl_conncache_remove_conn,FUNC_6
+data,VAR_0
+conn,VAR_1
+lock,VAR_2
+bundle,VAR_3
+connc,VAR_4

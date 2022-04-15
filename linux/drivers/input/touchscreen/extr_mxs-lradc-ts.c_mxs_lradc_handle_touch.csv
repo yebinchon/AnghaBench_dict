@@ -1,0 +1,16 @@
+LRADC_CTRL1,VAR_0
+LRADC_CTRL1_TOUCH_DETECT_IRQ,VAR_1
+STMP_OFFSET_REG_CLR,VAR_2
+TOUCHSCREEN_VCHANNEL1,VAR_3
+TOUCHSCREEN_VCHANNEL2,VAR_4
+mxs_lradc_check_touch_event,FUNC_0
+mxs_lradc_complete_touch_event,FUNC_1
+mxs_lradc_finish_touch_event,FUNC_2
+mxs_lradc_prepare_pressure,FUNC_3
+mxs_lradc_prepare_x_pos,FUNC_4
+mxs_lradc_read_ts_pressure,FUNC_5
+mxs_lradc_start_touch_event,FUNC_6
+mxs_lradc_ts_read_raw_channel,FUNC_7
+writel,FUNC_8
+mxs_lradc_handle_touch,FUNC_9
+ts,VAR_5

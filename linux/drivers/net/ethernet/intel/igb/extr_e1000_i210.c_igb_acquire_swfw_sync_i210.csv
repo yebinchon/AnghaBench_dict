@@ -1,0 +1,17 @@
+E1000_ERR_SWFW_SYNC,VAR_0
+E1000_SW_FW_SYNC,VAR_1
+hw_dbg,FUNC_0
+igb_get_hw_semaphore_i210,FUNC_1
+igb_put_hw_semaphore,FUNC_2
+mdelay,FUNC_3
+rd32,FUNC_4
+wr32,FUNC_5
+igb_acquire_swfw_sync_i210,FUNC_6
+hw,VAR_2
+mask,VAR_3
+swfw_sync,VAR_4
+swmask,VAR_5
+fwmask,VAR_6
+ret_val,VAR_7
+i,VAR_8
+timeout,VAR_9

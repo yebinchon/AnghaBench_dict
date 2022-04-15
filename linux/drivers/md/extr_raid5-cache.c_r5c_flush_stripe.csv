@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+STRIPE_HANDLE,VAR_0
+STRIPE_ON_RELEASE_LIST,VAR_1
+STRIPE_R5C_CACHING,VAR_2
+STRIPE_R5C_PARTIAL_STRIPE,VAR_3
+atomic_inc,FUNC_1
+list_del_init,FUNC_2
+list_empty,FUNC_3
+lockdep_assert_held,FUNC_4
+r5c_make_stripe_write_out,FUNC_5
+raid5_release_stripe,FUNC_6
+set_bit,FUNC_7
+test_bit,FUNC_8
+r5c_flush_stripe,FUNC_9
+conf,VAR_4
+sh,VAR_5

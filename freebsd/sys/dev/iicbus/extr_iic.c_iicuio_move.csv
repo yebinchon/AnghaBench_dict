@@ -1,0 +1,17 @@
+MIN,FUNC_0
+UIO_READ,VAR_0
+UIO_WRITE,VAR_1
+device_get_parent,FUNC_1
+iicbus_read,FUNC_2
+iicbus_write,FUNC_3
+uiomove,FUNC_4
+iicuio_move,FUNC_5
+priv,VAR_2
+uio,VAR_3
+last,VAR_4
+parent,VAR_5
+error,VAR_6
+num_bytes,VAR_7
+transferred_bytes,VAR_8
+written_bytes,VAR_9
+buffer,VAR_10

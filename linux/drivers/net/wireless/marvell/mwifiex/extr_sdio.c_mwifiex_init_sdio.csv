@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+MWIFIEX_MP_AGGR_BUF_SIZE_32K,VAR_2
+MWIFIEX_MP_AGGR_BUF_SIZE_MAX,VAR_3
+kcalloc,FUNC_0
+kfree,FUNC_1
+kzalloc,FUNC_2
+mwifiex_alloc_sdio_mpa_buffers,FUNC_3
+mwifiex_init_sdio_ioport,FUNC_4
+mwifiex_read_reg,FUNC_5
+sdio_set_drvdata,FUNC_6
+mwifiex_init_sdio,FUNC_7
+adapter,VAR_4
+card,VAR_5
+reg,VAR_6
+ret,VAR_7
+sdio_ireg,VAR_8

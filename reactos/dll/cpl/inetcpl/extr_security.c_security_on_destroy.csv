@@ -1,0 +1,12 @@
+DWLP_USER,VAR_0
+ImageList_Destroy,FUNC_0
+LVM_SETIMAGELIST,VAR_1
+LVSIL_NORMAL,VAR_2
+SendMessageW,FUNC_1
+SetWindowLongPtrW,FUNC_2
+TRACE,FUNC_3
+TRUE,VAR_3
+heap_free,FUNC_4
+security_cleanup_zones,FUNC_5
+security_on_destroy,FUNC_6
+sd,VAR_4

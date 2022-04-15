@@ -1,0 +1,13 @@
+CAN_SLEEP,VAR_0
+MPI2_EVENT_NOTIFY_EVENTMASK_WORDS,VAR_1
+_base_event_notification,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+mpt3sas_base_validate_event_type,FUNC_3
+ioc,VAR_2
+event_type,VAR_3
+i,VAR_4
+j,VAR_5
+event_mask,VAR_6
+desired_event,VAR_7
+send_update_to_fw,VAR_8

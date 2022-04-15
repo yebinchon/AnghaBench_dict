@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+ENOMEM,VAR_0
+ERR_PTR,FUNC_1
+GFP_KERNEL,VAR_1
+alloc_cache_pages,FUNC_2
+kfree,FUNC_3
+kzalloc,FUNC_4
+mempool_create_kmalloc_pool,FUNC_5
+mempool_destroy,FUNC_6
+spin_lock_init,FUNC_7
+dm_mem_cache_client_create,FUNC_8
+objects,VAR_2
+chunks,VAR_3
+pages_per_chunk,VAR_4
+total_pages,VAR_5
+client,VAR_6

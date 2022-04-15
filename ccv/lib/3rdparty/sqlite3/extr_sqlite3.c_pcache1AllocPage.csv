@@ -1,0 +1,17 @@
+assert,FUNC_0
+pcache1,VAR_0
+pcache1Alloc,FUNC_1
+pcache1EnterMutex,FUNC_2
+pcache1Free,FUNC_3
+pcache1InitBulk,FUNC_4
+pcache1LeaveMutex,FUNC_5
+sqlite3BeginBenignMalloc,FUNC_6
+sqlite3EndBenignMalloc,FUNC_7
+sqlite3Malloc,FUNC_8
+sqlite3_free,FUNC_9
+sqlite3_mutex_held,FUNC_10
+pcache1AllocPage,FUNC_11
+pCache,VAR_1
+benignMalloc,VAR_2
+p,VAR_3
+pPg,VAR_4

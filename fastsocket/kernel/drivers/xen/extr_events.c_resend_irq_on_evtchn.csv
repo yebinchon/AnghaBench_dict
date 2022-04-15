@@ -1,0 +1,11 @@
+HYPERVISOR_shared_info,VAR_0
+VALID_EVTCHN,FUNC_0
+evtchn_from_irq,FUNC_1
+sync_set_bit,FUNC_2
+sync_test_and_set_bit,FUNC_3
+unmask_evtchn,FUNC_4
+resend_irq_on_evtchn,FUNC_5
+irq,VAR_1
+masked,VAR_2
+evtchn,VAR_3
+s,VAR_4

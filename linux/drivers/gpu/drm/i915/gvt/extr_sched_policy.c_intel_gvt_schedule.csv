@@ -1,0 +1,16 @@
+GVT_TS_BALANCE_PERIOD_MS,VAR_0
+INTEL_GVT_REQUEST_EVENT_SCHED,VAR_1
+INTEL_GVT_REQUEST_SCHED,VAR_2
+clear_bit,FUNC_0
+gvt_balance_timeslice,FUNC_1
+ktime_add_ms,FUNC_2
+ktime_get,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+tbs_sched_func,FUNC_6
+test_and_clear_bit,FUNC_7
+vgpu_update_timeslice,FUNC_8
+intel_gvt_schedule,FUNC_9
+gvt,VAR_3
+sched_data,VAR_4
+cur_time,VAR_5

@@ -1,0 +1,9 @@
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+to_spear_ohci,FUNC_2
+usb_put_hcd,FUNC_3
+usb_remove_hcd,FUNC_4
+spear_ohci_hcd_drv_remove,FUNC_5
+pdev,VAR_0
+hcd,VAR_1
+sohci_p,VAR_2

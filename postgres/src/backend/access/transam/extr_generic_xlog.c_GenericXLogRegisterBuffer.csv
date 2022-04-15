@@ -1,0 +1,13 @@
+BLCKSZ,VAR_0
+BufferGetPage,FUNC_0
+BufferIsInvalid,FUNC_1
+ERROR,VAR_1
+MAX_GENERIC_XLOG_PAGES,VAR_2
+elog,FUNC_2
+memcpy,FUNC_3
+GenericXLogRegisterBuffer,FUNC_4
+state,VAR_3
+buffer,VAR_4
+flags,VAR_5
+block_id,VAR_6
+page,VAR_7

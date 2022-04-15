@@ -1,0 +1,11 @@
+PCF2127_REG_RAM_ADDR_MSB,VAR_0
+PCF2127_REG_RAM_WRT_CMD,VAR_1
+regmap_bulk_write,FUNC_0
+pcf2127_nvmem_write,FUNC_1
+priv,VAR_2
+offset,VAR_3
+val,VAR_4
+bytes,VAR_5
+pcf2127,VAR_6
+ret,VAR_7
+offsetbuf,VAR_8

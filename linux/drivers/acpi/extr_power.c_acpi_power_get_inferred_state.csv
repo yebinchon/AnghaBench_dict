@@ -1,0 +1,14 @@
+ACPI_POWER_RESOURCE_STATE_ON,VAR_0
+ACPI_STATE_D0,VAR_1
+ACPI_STATE_D3_COLD,VAR_2
+ACPI_STATE_D3_HOT,VAR_3
+EINVAL,VAR_4
+acpi_power_get_list_state,FUNC_0
+list_empty,FUNC_1
+acpi_power_get_inferred_state,FUNC_2
+device,VAR_5
+state,VAR_6
+result,VAR_7
+list_state,VAR_8
+i,VAR_9
+list,VAR_10

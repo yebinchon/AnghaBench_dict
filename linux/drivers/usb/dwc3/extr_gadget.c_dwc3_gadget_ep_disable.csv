@@ -1,0 +1,14 @@
+DWC3_EP_ENABLED,VAR_0
+EINVAL,VAR_1
+__dwc3_gadget_ep_disable,FUNC_0
+dev_WARN_ONCE,FUNC_1
+pr_debug,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_dwc3_ep,FUNC_5
+dwc3_gadget_ep_disable,FUNC_6
+ep,VAR_2
+dep,VAR_3
+dwc,VAR_4
+flags,VAR_5
+ret,VAR_6

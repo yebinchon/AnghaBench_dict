@@ -1,0 +1,17 @@
+MEMCACHE_ADD,VAR_0
+MEMCACHE_REPLACE,VAR_1
+MEMCACHE_SET,VAR_2
+assert,FUNC_0
+do_memcache_act,FUNC_1
+do_memcache_send_store,FUNC_2
+do_memcache_store,FUNC_3
+c,VAR_3
+key,VAR_4
+key_len,VAR_5
+value,VAR_6
+value_len,VAR_7
+flags,VAR_8
+delay,VAR_9
+op,VAR_10
+timeout,VAR_11
+qid,VAR_12

@@ -1,0 +1,11 @@
+FW_LEN16,FUNC_0
+FW_RESET_CMD,VAR_0
+F_FW_CMD_WRITE,VAR_1
+V_FW_CMD_LEN16,FUNC_1
+V_FW_CMD_OP,FUNC_2
+cpu_to_be32,FUNC_3
+memset,FUNC_4
+t4vf_wr_mbox,FUNC_5
+t4vf_fw_reset,FUNC_6
+adapter,VAR_2
+cmd,VAR_3

@@ -1,0 +1,14 @@
+ATA_TFLAG_WRITE,VAR_0
+NV_APRD_CONT,VAR_1
+NV_APRD_END,VAR_2
+NV_APRD_WRITE,VAR_3
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+sg_dma_address,FUNC_2
+sg_dma_len,FUNC_3
+nv_adma_fill_aprd,FUNC_4
+qc,VAR_4
+sg,VAR_5
+idx,VAR_6
+aprd,VAR_7
+flags,VAR_8

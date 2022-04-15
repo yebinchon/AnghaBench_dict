@@ -1,0 +1,14 @@
+RGBLIGHT_MODES,VAR_0
+RGBLIGHT_MODE_STATIC_LIGHT,VAR_1
+RGBLIGHT_SPLIT_SET_CHANGE_MODE,VAR_2
+animation_status,VAR_3
+dprintf,FUNC_0
+eeconfig_update_rgblight,FUNC_1
+is_static_effect,FUNC_2
+rgblight_config,VAR_4
+rgblight_sethsv_noeeprom,FUNC_3
+rgblight_timer_disable,FUNC_4
+rgblight_timer_enable,FUNC_5
+rgblight_mode_eeprom_helper,FUNC_6
+mode,VAR_5
+write_to_eeprom,VAR_6

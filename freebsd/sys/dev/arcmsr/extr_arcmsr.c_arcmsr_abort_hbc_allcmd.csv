@@ -1,0 +1,10 @@
+ARCMSR_HBCMU_DRV2IOP_MESSAGE_CMD_DONE,VAR_0
+ARCMSR_INBOUND_MESG0_ABORT_CMD,VAR_1
+CHIP_REG_WRITE32,FUNC_0
+HBC_MessageUnit,VAR_2
+arcmsr_hbc_wait_msgint_ready,FUNC_1
+inbound_doorbell,VAR_3
+inbound_msgaddr0,VAR_4
+printf,FUNC_2
+arcmsr_abort_hbc_allcmd,FUNC_3
+acb,VAR_5

@@ -1,0 +1,16 @@
+Assert,FUNC_0
+BufferIsValid,FUNC_1
+ExecClearTuple,FUNC_2
+ExecCopySlotHeapTuple,FUNC_3
+MemoryContextSwitchTo,FUNC_4
+TTS_FLAG_EMPTY,VAR_0
+TTS_FLAG_SHOULDFREE,VAR_1
+TTS_SHOULDFREE,FUNC_5
+memcpy,FUNC_6
+tts_buffer_heap_store_tuple,FUNC_7
+tts_buffer_heap_copyslot,FUNC_8
+dstslot,VAR_2
+srcslot,VAR_3
+bsrcslot,VAR_4
+bdstslot,VAR_5
+oldContext,VAR_6

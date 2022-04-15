@@ -1,0 +1,10 @@
+cpu_clear,FUNC_0
+cpumask_clear,FUNC_1
+cpus_setall,FUNC_2
+current,VAR_0
+fastsocket_spawn_cpu,VAR_1
+fastsocket_spawn_cpuset,VAR_2
+sched_setaffinity,FUNC_3
+fsocket_process_affinity_restore,FUNC_4
+cpu,VAR_3
+mask,VAR_4

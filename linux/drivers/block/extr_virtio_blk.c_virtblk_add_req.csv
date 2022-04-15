@@ -1,0 +1,15 @@
+GFP_ATOMIC,VAR_0
+VIRTIO_BLK_T_OUT,VAR_1
+cpu_to_virtio32,FUNC_0
+sg_init_one,FUNC_1
+virtqueue_add_sgs,FUNC_2
+virtblk_add_req,FUNC_3
+vq,VAR_2
+vbr,VAR_3
+data_sg,VAR_4
+have_data,VAR_5
+hdr,VAR_6
+status,VAR_7
+sgs,VAR_8
+num_out,VAR_9
+num_in,VAR_10

@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+HPSA_VPD_LV_DEVICE_ID,VAR_2
+VPD_PAGE,VAR_3
+hpsa_scsi_do_inquiry,FUNC_0
+hpsa_vpd_page_supported,FUNC_1
+kfree,FUNC_2
+kzalloc,FUNC_3
+memcpy,FUNC_4
+hpsa_get_device_id,FUNC_5
+h,VAR_4
+scsi3addr,VAR_5
+device_id,VAR_6
+index,VAR_7
+buflen,VAR_8
+rc,VAR_9
+buf,VAR_10

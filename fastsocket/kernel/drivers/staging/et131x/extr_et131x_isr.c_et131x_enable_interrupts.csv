@@ -1,0 +1,9 @@
+Both,VAR_0
+ET_INTR_PHY,VAR_1
+INT_MASK_ENABLE,VAR_2
+INT_MASK_ENABLE_NO_FLOW,VAR_3
+TxOnly,VAR_4
+writel,FUNC_0
+et131x_enable_interrupts,FUNC_1
+adapter,VAR_5
+mask,VAR_6

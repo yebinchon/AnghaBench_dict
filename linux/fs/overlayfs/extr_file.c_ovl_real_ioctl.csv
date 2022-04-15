@@ -1,0 +1,13 @@
+fdput,FUNC_0
+file_inode,FUNC_1
+ovl_override_creds,FUNC_2
+ovl_real_fdget,FUNC_3
+revert_creds,FUNC_4
+vfs_ioctl,FUNC_5
+ovl_real_ioctl,FUNC_6
+file,VAR_0
+cmd,VAR_1
+arg,VAR_2
+real,VAR_3
+old_cred,VAR_4
+ret,VAR_5

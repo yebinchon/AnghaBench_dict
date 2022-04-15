@@ -1,0 +1,17 @@
+HPC3_ERST_CLRIRQ,VAR_0
+IRQ_HANDLED,VAR_1
+TX_BUFFS_AVAIL,FUNC_0
+netdev_priv,FUNC_1
+netif_queue_stopped,FUNC_2
+netif_wake_queue,FUNC_3
+sgiseeq_rx,FUNC_4
+sgiseeq_tx,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+sgiseeq_interrupt,FUNC_8
+irq,VAR_2
+dev_id,VAR_3
+dev,VAR_4
+sp,VAR_5
+hregs,VAR_6
+sregs,VAR_7

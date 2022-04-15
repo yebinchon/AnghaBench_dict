@@ -1,0 +1,10 @@
+RESTORE_ERRNO,FUNC_0
+SAVE_ERRNO,FUNC_1
+THR_CRITICAL_ENTER,FUNC_2
+_get_curthread,FUNC_3
+_thr_rwlock_rdlock,FUNC_4
+_thr_rtld_rlock_acquire,FUNC_5
+lock,VAR_0
+curthread,VAR_1
+l,VAR_2
+errsave,VAR_3

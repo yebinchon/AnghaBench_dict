@@ -1,0 +1,11 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+S390_ADDR,VAR_2
+bootverbose,VAR_3
+device_printf,FUNC_0
+device_set_desc,FUNC_1
+iicbus_get_addr,FUNC_2
+ofw_bus_is_compatible,FUNC_3
+ofw_bus_status_okay,FUNC_4
+s390rtc_probe,FUNC_5
+dev,VAR_4

@@ -1,0 +1,16 @@
+COAP_CONTENTTYPE_APPLICATION_LINKFORMAT,VAR_0
+COAP_ERR_BUFFER_TOO_SMALL,VAR_1
+COAP_RSPCODE_CONTENT,VAR_2
+MAX_PAYLOAD_SIZE,VAR_3
+NODE_DBG,FUNC_0
+build_well_known_rsp,FUNC_1
+calloc,FUNC_2
+coap_make_response,FUNC_3
+strlen,FUNC_4
+handle_get_well_known_core,FUNC_5
+ep,VAR_4
+scratch,VAR_5
+inpkt,VAR_6
+outpkt,VAR_7
+id_hi,VAR_8
+id_lo,VAR_9

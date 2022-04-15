@@ -1,0 +1,11 @@
+HID_RESET_PENDING,VAR_0
+cancel_work_sync,FUNC_0
+hid_cease_io,FUNC_1
+set_bit,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+usb_get_intfdata,FUNC_5
+hid_pre_reset,FUNC_6
+intf,VAR_1
+hid,VAR_2
+usbhid,VAR_3

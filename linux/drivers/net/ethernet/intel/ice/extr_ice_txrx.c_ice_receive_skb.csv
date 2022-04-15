@@ -1,0 +1,10 @@
+ETH_P_8021Q,VAR_0
+NETIF_F_HW_VLAN_CTAG_RX,VAR_1
+VLAN_VID_MASK,VAR_2
+__vlan_hwaccel_put_tag,FUNC_0
+htons,FUNC_1
+napi_gro_receive,FUNC_2
+ice_receive_skb,FUNC_3
+rx_ring,VAR_3
+skb,VAR_4
+vlan_tag,VAR_5

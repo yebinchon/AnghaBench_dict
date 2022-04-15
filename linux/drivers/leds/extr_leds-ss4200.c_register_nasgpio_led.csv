@@ -1,0 +1,16 @@
+GP_LVL,VAR_0
+LED_FULL,VAR_1
+LED_OFF,VAR_2
+get_classdev_for_led_nr,FUNC_0
+led_classdev_register,FUNC_1
+nas_gpio_pci_dev,VAR_3
+nasgpio_led_get_attr,FUNC_2
+nasgpio_led_groups,VAR_4
+nasgpio_led_set_blink,VAR_5
+nasgpio_led_set_brightness,VAR_6
+nasgpio_leds,VAR_7
+register_nasgpio_led,FUNC_3
+led_nr,VAR_8
+ret,VAR_9
+nas_led,VAR_10
+led,VAR_11

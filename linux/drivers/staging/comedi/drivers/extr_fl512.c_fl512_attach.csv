@@ -1,0 +1,16 @@
+COMEDI_SUBD_AI,VAR_0
+COMEDI_SUBD_AO,VAR_1
+SDF_GROUND,VAR_2
+SDF_READABLE,VAR_3
+SDF_WRITABLE,VAR_4
+comedi_alloc_subdev_readback,FUNC_0
+comedi_alloc_subdevices,FUNC_1
+comedi_request_region,FUNC_2
+fl512_ai_insn_read,VAR_5
+fl512_ao_insn_write,VAR_6
+range_fl512,VAR_7
+fl512_attach,FUNC_3
+dev,VAR_8
+it,VAR_9
+s,VAR_10
+ret,VAR_11

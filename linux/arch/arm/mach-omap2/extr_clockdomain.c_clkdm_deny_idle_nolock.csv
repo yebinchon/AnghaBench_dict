@@ -1,0 +1,11 @@
+CLKDM_CAN_DISABLE_AUTO,VAR_0
+CLKDM_CAN_FORCE_WAKEUP,VAR_1
+CLKDM_MISSING_IDLE_REPORTING,VAR_2
+_CLKDM_FLAG_HWSUP_ENABLED,VAR_3
+arch_clkdm,VAR_4
+clkdm_wakeup_nolock,FUNC_0
+pr_debug,FUNC_1
+pwrdm_state_switch_nolock,FUNC_2
+stub1,FUNC_3
+clkdm_deny_idle_nolock,FUNC_4
+clkdm,VAR_5

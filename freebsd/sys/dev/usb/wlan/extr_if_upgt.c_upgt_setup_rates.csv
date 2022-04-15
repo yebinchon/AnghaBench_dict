@@ -1,0 +1,15 @@
+IEEE80211_FIXED_RATE_NONE,VAR_0
+IEEE80211_MODE_11B,VAR_1
+IEEE80211_MODE_11G,VAR_2
+IEEE80211_MODE_AUTO,VAR_3
+ieee80211_chan2mode,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+upgt_setup_rates,FUNC_3
+vap,VAR_4
+ic,VAR_5
+sc,VAR_6
+tp,VAR_7
+rateset_auto_11b,VAR_8
+rateset_auto_11g,VAR_9
+rateset_fix_11bg,VAR_10

@@ -1,0 +1,15 @@
+MPI_SAS_DEVICE_INFO_EDGE_EXPANDER,VAR_0
+MPI_SAS_DEVICE_INFO_FANOUT_EXPANDER,VAR_1
+SAS_END_DEVICE,VAR_2
+mptsas_del_end_device,FUNC_0
+mptsas_expander_delete,FUNC_1
+mptsas_find_portinfo_by_sas_address,FUNC_2
+mptsas_get_rphy,FUNC_3
+mptsas_delete_expander_siblings,FUNC_4
+ioc,VAR_3
+parent,VAR_4
+expander,VAR_5
+phy_info,VAR_6
+port_info,VAR_7
+rphy,VAR_8
+i,VAR_9

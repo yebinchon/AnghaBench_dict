@@ -1,0 +1,15 @@
+PLL_CONFIG_CTL,FUNC_0
+PLL_FRAC,FUNC_1
+PLL_L_VAL,FUNC_2
+PLL_MODE,FUNC_3
+PLL_RESET_N,VAR_0
+PLL_UPDATE_BYPASS,VAR_1
+PLL_USER_CTL,FUNC_4
+regmap_update_bits,FUNC_5
+regmap_write,FUNC_6
+clk_fabia_pll_configure,FUNC_7
+pll,VAR_2
+regmap,VAR_3
+config,VAR_4
+val,VAR_5
+mask,VAR_6

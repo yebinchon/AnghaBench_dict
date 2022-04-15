@@ -1,0 +1,12 @@
+BZ2_bzCompressEnd,FUNC_0
+BZ2_bzDecompressEnd,FUNC_1
+IMPORT_COMPRESS_BZIP2,VAR_0
+IMPORT_COMPRESS_GZIP,VAR_1
+IMPORT_COMPRESS_UNKNOWN,VAR_2
+IMPORT_COMPRESS_XZ,VAR_3
+assert,FUNC_2
+deflateEnd,FUNC_3
+inflateEnd,FUNC_4
+lzma_end,FUNC_5
+import_compress_free,FUNC_6
+c,VAR_4

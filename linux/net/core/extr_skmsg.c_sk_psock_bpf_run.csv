@@ -1,0 +1,9 @@
+BPF_PROG_RUN,FUNC_0
+bpf_compute_data_end_sk_skb,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+sk_psock_bpf_run,FUNC_4
+psock,VAR_0
+prog,VAR_1
+skb,VAR_2
+ret,VAR_3

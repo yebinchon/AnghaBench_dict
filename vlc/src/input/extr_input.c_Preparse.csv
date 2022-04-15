@@ -1,0 +1,13 @@
+DEMUX_IS_PLAYLIST,VAR_0
+End,FUNC_0
+Init,FUNC_1
+MainLoop,FUNC_2
+demux_Control,FUNC_3
+input_SendEventDead,FUNC_4
+input_item_ShouldPreparseSubItems,FUNC_5
+vlc_interrupt_set,FUNC_6
+Preparse,FUNC_7
+data,VAR_1
+priv,VAR_2
+p_input,VAR_3
+b_is_playlist,VAR_4

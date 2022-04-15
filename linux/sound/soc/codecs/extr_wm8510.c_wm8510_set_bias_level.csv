@@ -1,0 +1,16 @@
+WM8510_POWER1,VAR_0
+WM8510_POWER1_BIASEN,VAR_1
+WM8510_POWER1_BUFIOEN,VAR_2
+WM8510_POWER2,VAR_3
+WM8510_POWER3,VAR_4
+mdelay,FUNC_0
+regcache_sync,FUNC_1
+snd_soc_component_get_bias_level,FUNC_2
+snd_soc_component_get_drvdata,FUNC_3
+snd_soc_component_read32,FUNC_4
+snd_soc_component_write,FUNC_5
+wm8510_set_bias_level,FUNC_6
+component,VAR_5
+level,VAR_6
+wm8510,VAR_7
+power1,VAR_8

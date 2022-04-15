@@ -1,0 +1,12 @@
+IS_SPI_ALL_PERIPH,FUNC_0
+IS_SPI_I2S_GET_IT,FUNC_1
+RESET,VAR_0
+SET,VAR_1
+assert_param,FUNC_2
+SPI_I2S_GetITStatus,FUNC_3
+SPIx,VAR_2
+SPI_I2S_IT,VAR_3
+bitstatus,VAR_4
+itpos,VAR_5
+itmask,VAR_6
+enablestatus,VAR_7

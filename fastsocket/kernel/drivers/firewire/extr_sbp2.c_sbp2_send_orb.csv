@@ -1,0 +1,17 @@
+TCODE_WRITE_BLOCK_REQUEST,VAR_0
+complete_transaction,VAR_1
+cpu_to_be32,FUNC_0
+fw_send_request,FUNC_1
+kref_get,FUNC_2
+list_add_tail,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+target_device,FUNC_6
+sbp2_send_orb,FUNC_7
+orb,VAR_2
+lu,VAR_3
+node_id,VAR_4
+generation,VAR_5
+offset,VAR_6
+device,VAR_7
+flags,VAR_8

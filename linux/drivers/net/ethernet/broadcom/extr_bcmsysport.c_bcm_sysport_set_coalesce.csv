@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+RDMA_INTR_THRESH_MASK,VAR_1
+RDMA_TIMEOUT_MASK,VAR_2
+RING_INTR_THRESH_MASK,VAR_3
+RING_TIMEOUT_MASK,VAR_4
+bcm_sysport_set_rx_coalesce,FUNC_0
+bcm_sysport_set_tx_coalesce,FUNC_1
+net_dim_get_def_rx_moderation,FUNC_2
+netdev_priv,FUNC_3
+bcm_sysport_set_coalesce,FUNC_4
+dev,VAR_5
+ec,VAR_6
+priv,VAR_7
+moder,VAR_8
+usecs,VAR_9
+pkts,VAR_10
+i,VAR_11

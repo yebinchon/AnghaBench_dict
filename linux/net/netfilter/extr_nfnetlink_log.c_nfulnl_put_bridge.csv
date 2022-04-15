@@ -1,0 +1,17 @@
+NFULA_L2HDR,VAR_0
+NFULA_VLAN,VAR_1
+NFULA_VLAN_PROTO,VAR_2
+NFULA_VLAN_TCI,VAR_3
+htons,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put,FUNC_3
+nla_put_be16,FUNC_4
+skb_mac_header,FUNC_5
+skb_mac_header_was_set,FUNC_6
+skb_vlan_tag_present,FUNC_7
+nfulnl_put_bridge,FUNC_8
+inst,VAR_4
+skb,VAR_5
+nest,VAR_6
+len,VAR_7

@@ -1,0 +1,16 @@
+UNMAP_NOTIFY_SEND_EVENT,VAR_0
+atomic_sub,FUNC_0
+evtchn_put,FUNC_1
+gntdev_free_map,FUNC_2
+list_del,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+notify_remote_via_evtchn,FUNC_6
+pages_mapped,VAR_1
+populate_freeable_maps,VAR_2
+refcount_dec_and_test,FUNC_7
+unmap_grant_pages,FUNC_8
+use_ptemod,VAR_3
+gntdev_put_map,FUNC_9
+priv,VAR_4
+map,VAR_5

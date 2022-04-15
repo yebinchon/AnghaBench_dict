@@ -1,0 +1,14 @@
+CXL_READ_VSEC_IMAGE_STATE,FUNC_0
+CXL_VSEC_PERST_LOADS_IMAGE,VAR_0
+CXL_VSEC_PERST_SELECT_USER,VAR_1
+CXL_WRITE_VSEC_IMAGE_STATE,FUNC_1
+ENODEV,VAR_2
+dev_err,FUNC_2
+find_cxl_vsec,FUNC_3
+to_pci_dev,FUNC_4
+cxl_update_image_control,FUNC_5
+adapter,VAR_3
+dev,VAR_4
+rc,VAR_5
+vsec,VAR_6
+image_state,VAR_7

@@ -1,0 +1,14 @@
+BIO_UPTODATE,VAR_0
+ClearPageUptodate,FUNC_0
+SetPageError,FUNC_1
+SetPageUptodate,FUNC_2
+bio_put,FUNC_3
+prefetchw,FUNC_4
+test_bit,FUNC_5
+unlock_page,FUNC_6
+mpage_end_io_read,FUNC_7
+bio,VAR_1
+err,VAR_2
+uptodate,VAR_3
+bvec,VAR_4
+page,VAR_5

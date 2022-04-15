@@ -1,0 +1,14 @@
+CF_DMA_ACTIVE,VAR_0
+FRAMEIRQS,VAR_1
+IRQ_EOF0,VAR_2
+IRQ_SOF0,VAR_3
+IRQ_SOF1,VAR_4
+IRQ_SOF2,VAR_5
+REG_IRQSTAT,VAR_6
+cafe_frame_complete,FUNC_0
+cafe_reg_write,FUNC_1
+set_bit,FUNC_2
+cafe_frame_irq,FUNC_3
+cam,VAR_7
+irqs,VAR_8
+frame,VAR_9

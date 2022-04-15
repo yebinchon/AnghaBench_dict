@@ -1,0 +1,17 @@
+SYSFS_BUS_NAME,VAR_0
+SYSFS_BUS_TYPE,VAR_1
+SYSFS_DRIVERS_NAME,VAR_2
+SYSFS_MNT_PATH,VAR_3
+SYSFS_PATH_MAX,VAR_4
+USBIP_HOST_DRV_NAME,VAR_5
+err,FUNC_0
+errno,VAR_6
+snprintf,FUNC_1
+strerror,FUNC_2
+strlen,FUNC_3
+write_sysfs_attribute,FUNC_4
+bind_usbip,FUNC_5
+busid,VAR_7
+attr_name,VAR_8
+bind_attr_path,VAR_9
+rc,VAR_10

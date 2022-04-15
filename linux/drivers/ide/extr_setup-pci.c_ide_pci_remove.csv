@@ -1,0 +1,13 @@
+IDE_HFLAG_CS5520,VAR_0
+IDE_HFLAG_NO_DMA,VAR_1
+IDE_HFLAG_SINGLE,VAR_2
+ide_host_remove,FUNC_0
+pci_disable_device,FUNC_1
+pci_get_drvdata,FUNC_2
+pci_release_selected_regions,FUNC_3
+to_pci_dev,FUNC_4
+ide_pci_remove,FUNC_5
+dev,VAR_3
+host,VAR_4
+dev2,VAR_5
+bars,VAR_6

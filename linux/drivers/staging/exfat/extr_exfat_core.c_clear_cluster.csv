@@ -1,0 +1,17 @@
+CLUSTER_32,FUNC_0
+EXFAT_SB,FUNC_1
+FFS_SUCCESS,VAR_0
+START_SECTOR,FUNC_2
+brelse,FUNC_3
+memset,FUNC_4
+sector_read,FUNC_5
+sector_write,FUNC_6
+clear_cluster,FUNC_7
+sb,VAR_1
+clu,VAR_2
+s,VAR_3
+n,VAR_4
+ret,VAR_5
+tmp_bh,VAR_6
+p_fs,VAR_7
+p_bd,VAR_8

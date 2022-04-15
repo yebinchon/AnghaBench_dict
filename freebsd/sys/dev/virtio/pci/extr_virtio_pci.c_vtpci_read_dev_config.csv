@@ -1,0 +1,14 @@
+VIRTIO_PCI_CONFIG,FUNC_0
+device_get_softc,FUNC_1
+vtpci_read_config_1,FUNC_2
+vtpci_read_config_2,FUNC_3
+vtpci_read_config_4,FUNC_4
+vtpci_read_dev_config,FUNC_5
+dev,VAR_0
+offset,VAR_1
+dst,VAR_2
+length,VAR_3
+sc,VAR_4
+off,VAR_5
+d,VAR_6
+size,VAR_7

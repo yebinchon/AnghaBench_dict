@@ -1,0 +1,14 @@
+IWL_ERR,FUNC_0
+IWL_TRANS_GET_PCIE_TRANS,FUNC_1
+iwl_enable_rfkill_int,FUNC_2
+iwl_pcie_apm_init,FUNC_3
+iwl_pcie_check_hw_rf_kill,FUNC_4
+iwl_pcie_init_msix,FUNC_5
+iwl_pcie_prepare_card_hw,FUNC_6
+iwl_trans_pcie_clear_persistence_bit,FUNC_7
+iwl_trans_pcie_sw_reset,FUNC_8
+lockdep_assert_held,FUNC_9
+_iwl_trans_pcie_start_hw,FUNC_10
+trans,VAR_0
+trans_pcie,VAR_1
+err,VAR_2

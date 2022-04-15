@@ -1,0 +1,12 @@
+IOCB_HIPRI,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__set_current_state,FUNC_0
+blk_poll,FUNC_1
+current,VAR_2
+io_schedule,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+dio_await_one,FUNC_5
+dio,VAR_3
+flags,VAR_4
+bio,VAR_5

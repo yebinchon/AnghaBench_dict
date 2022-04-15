@@ -1,0 +1,16 @@
+SLI4_OPC_COMMON_SET_RECONFIG_LINK_ID,VAR_0
+SLI4_PORT_TYPE_FC,VAR_1
+SLI4_SUBSYSTEM_COMMON,VAR_2
+max,FUNC_0
+ocs_memset,FUNC_1
+sli_cmd_sli_config,FUNC_2
+sli_cmd_common_set_reconfig_link_id,FUNC_3
+sli4,VAR_3
+buf,VAR_4
+size,VAR_5
+dma,VAR_6
+fd,VAR_7
+active_link_config_id,VAR_8
+req,VAR_9
+cmd_off,VAR_10
+payload_size,VAR_11

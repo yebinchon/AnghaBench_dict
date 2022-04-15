@@ -1,0 +1,15 @@
+APR_STATUS_IS_EINTR,FUNC_0
+SVN_ERR,FUNC_1
+SVN_ERR_UNSUPPORTED_FEATURE,VAR_0
+_,FUNC_2
+apr_get_os_error,FUNC_3
+cstring_from_utf8,FUNC_4
+io_win_read_link,FUNC_5
+readlink,FUNC_6
+svn_error_create,FUNC_7
+svn_error_wrap_apr,FUNC_8
+svn_utf_string_to_utf8,FUNC_9
+svn_io_read_link,FUNC_10
+dest,VAR_1
+path,VAR_2
+pool,VAR_3

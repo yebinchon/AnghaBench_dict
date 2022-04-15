@@ -1,0 +1,14 @@
+ARPHRD_ETHER,VAR_0
+ETH_HLEN,VAR_1
+GFP_ATOMIC,VAR_2
+RMNET_FLAGS_INGRESS_DEAGGREGATION,VAR_3
+__rmnet_map_ingress_handler,FUNC_0
+consume_skb,FUNC_1
+kfree_skb,FUNC_2
+pskb_expand_head,FUNC_3
+rmnet_map_deaggregate,FUNC_4
+skb_push,FUNC_5
+rmnet_map_ingress_handler,FUNC_6
+skb,VAR_4
+port,VAR_5
+skbn,VAR_6

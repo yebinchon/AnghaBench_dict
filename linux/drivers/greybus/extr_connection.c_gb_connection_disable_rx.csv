@@ -1,0 +1,11 @@
+ESHUTDOWN,VAR_0
+GB_CONNECTION_STATE_ENABLED,VAR_1
+GB_CONNECTION_STATE_ENABLED_TX,VAR_2
+gb_connection_flush_incoming_operations,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+trace_gb_connection_disable,FUNC_5
+gb_connection_disable_rx,FUNC_6
+connection,VAR_3

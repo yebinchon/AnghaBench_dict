@@ -1,0 +1,14 @@
+VIRTIO_F_NOTIFY_ON_EMPTY,VAR_0
+VIRTIO_RING_F_EVENT_IDX,VAR_1
+VQ_USED_EVENT_IDX,FUNC_0
+VRING_AVAIL_F_NO_INTERRUPT,VAR_2
+atomic_thread_fence_seq_cst,FUNC_1
+vq_interrupt,FUNC_2
+vq_endchains,FUNC_3
+vq,VAR_3
+used_all_avail,VAR_4
+vs,VAR_5
+event_idx,VAR_6
+new_idx,VAR_7
+old_idx,VAR_8
+intr,VAR_9

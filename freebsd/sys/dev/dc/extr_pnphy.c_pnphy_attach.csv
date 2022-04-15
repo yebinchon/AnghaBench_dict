@@ -1,0 +1,16 @@
+BMSR_100TXFDX,VAR_0
+BMSR_100TXHDX,VAR_1
+BMSR_10TFDX,VAR_2
+BMSR_10THDX,VAR_3
+MIIBUS_MEDIAINIT,FUNC_0
+MIIF_NOISOLATE,VAR_4
+MIIF_NOMANPAUSE,VAR_5
+device_get_softc,FUNC_1
+device_printf,FUNC_2
+mii_phy_add_media,FUNC_3
+mii_phy_dev_attach,FUNC_4
+pnphy_funcs,VAR_6
+printf,FUNC_5
+pnphy_attach,FUNC_6
+dev,VAR_7
+sc,VAR_8

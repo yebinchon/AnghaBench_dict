@@ -1,0 +1,17 @@
+SPIBUF,VAR_0
+SPIBUF_RXEMPTY_MASK,VAR_1
+SPIBUF_TXFULL_MASK,VAR_2
+SPIDAT1,VAR_3
+SPIFLG,VAR_4
+SPIFLG_ERROR_MASK,VAR_5
+ioread32,FUNC_0
+iowrite32,FUNC_1
+stub1,FUNC_2
+stub2,FUNC_3
+unlikely,FUNC_4
+davinci_spi_process_events,FUNC_5
+dspi,VAR_6
+buf,VAR_7
+status,VAR_8
+errors,VAR_9
+spidat1,VAR_10

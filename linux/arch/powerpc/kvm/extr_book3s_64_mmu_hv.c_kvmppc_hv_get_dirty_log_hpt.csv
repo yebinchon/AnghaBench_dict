@@ -1,0 +1,11 @@
+kvm_test_clear_dirty_npages,FUNC_0
+preempt_disable,FUNC_1
+preempt_enable,FUNC_2
+set_dirty_bits,FUNC_3
+kvmppc_hv_get_dirty_log_hpt,FUNC_4
+kvm,VAR_0
+memslot,VAR_1
+map,VAR_2
+i,VAR_3
+rmapp,VAR_4
+npages,VAR_5

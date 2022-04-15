@@ -1,0 +1,14 @@
+ATMEL_US_IDR,VAR_0
+ATMEL_US_IER,VAR_1
+ATMEL_US_IMR,VAR_2
+atmel_uart_readl,FUNC_0
+atmel_uart_writel,FUNC_1
+clk_disable_unprepare,FUNC_2
+clk_prepare_enable,FUNC_3
+dev_err,FUNC_4
+to_atmel_uart_port,FUNC_5
+atmel_serial_pm,FUNC_6
+port,VAR_3
+state,VAR_4
+oldstate,VAR_5
+atmel_port,VAR_6

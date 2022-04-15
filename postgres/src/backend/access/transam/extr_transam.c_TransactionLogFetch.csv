@@ -1,0 +1,16 @@
+BootstrapTransactionId,VAR_0
+FrozenTransactionId,VAR_1
+TRANSACTION_STATUS_ABORTED,VAR_2
+TRANSACTION_STATUS_COMMITTED,VAR_3
+TRANSACTION_STATUS_IN_PROGRESS,VAR_4
+TRANSACTION_STATUS_SUB_COMMITTED,VAR_5
+TransactionIdEquals,FUNC_0
+TransactionIdGetStatus,FUNC_1
+TransactionIdIsNormal,FUNC_2
+cachedCommitLSN,VAR_6
+cachedFetchXid,VAR_7
+cachedFetchXidStatus,VAR_8
+TransactionLogFetch,FUNC_3
+transactionId,VAR_9
+xidstatus,VAR_10
+xidlsn,VAR_11

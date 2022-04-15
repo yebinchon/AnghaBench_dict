@@ -1,0 +1,15 @@
+HR_SWRUN_FOUND,VAR_0
+KERN_PROC_ALL,VAR_1
+LOG_ERR,VAR_2
+hr_kd,VAR_3
+kinfo_proc_to_swrun_entry,FUNC_0
+kvm_getprocs,FUNC_1
+swrun_entry_create,FUNC_2
+swrun_entry_find_by_index,FUNC_3
+syslog,FUNC_4
+swrun_OS_get_procs,FUNC_5
+plist,VAR_4
+kp,VAR_5
+i,VAR_6
+nproc,VAR_7
+entry,VAR_8

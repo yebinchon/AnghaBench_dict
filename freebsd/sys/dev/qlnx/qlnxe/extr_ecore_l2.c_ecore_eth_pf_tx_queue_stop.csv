@@ -1,0 +1,14 @@
+ECORE_SPQ_MODE_EBLOCK,VAR_0
+ECORE_SUCCESS,VAR_1
+ETH_RAMROD_TX_QUEUE_STOP,VAR_2
+OSAL_MEMSET,FUNC_0
+OSAL_NULL,VAR_3
+PROTOCOLID_ETH,VAR_4
+ecore_sp_init_request,FUNC_1
+ecore_spq_post,FUNC_2
+ecore_eth_pf_tx_queue_stop,FUNC_3
+p_hwfn,VAR_5
+p_cid,VAR_6
+p_ent,VAR_7
+init_data,VAR_8
+rc,VAR_9

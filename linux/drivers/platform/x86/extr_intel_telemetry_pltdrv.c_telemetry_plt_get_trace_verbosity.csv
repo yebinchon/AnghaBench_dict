@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+IOSS_TELEM_READ_WORD,VAR_1
+IOSS_TELEM_TRACE_CTL_READ,VAR_2
+IPC_PUNIT_BIOS_READ_TELE_TRACE_CTRL,VAR_3
+PMC_IPC_PMC_TELEMTRY,VAR_4
+TELEM_EXTRACT_VERBOSITY,FUNC_0
+intel_pmc_ipc_command,FUNC_1
+intel_punit_ipc_command,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pr_err,FUNC_5
+telm_conf,VAR_5
+telemetry_plt_get_trace_verbosity,FUNC_6
+telem_unit,VAR_6
+verbosity,VAR_7
+temp,VAR_8
+ret,VAR_9

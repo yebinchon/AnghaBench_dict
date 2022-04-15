@@ -1,0 +1,10 @@
+find_iommu_for_dev,FUNC_0
+iommu_device_unlink,FUNC_1
+iommu_group_remove_device,FUNC_2
+msm_iommu_lock,VAR_0
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+msm_iommu_remove_device,FUNC_5
+dev,VAR_1
+iommu,VAR_2
+flags,VAR_3

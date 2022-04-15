@@ -1,0 +1,9 @@
+ftrace_pid_follow_sched_process_exit,VAR_0
+ftrace_pid_follow_sched_process_fork,VAR_1
+register_trace_sched_process_exit,FUNC_0
+register_trace_sched_process_fork,FUNC_1
+unregister_trace_sched_process_exit,FUNC_2
+unregister_trace_sched_process_fork,FUNC_3
+ftrace_pid_follow_fork,FUNC_4
+tr,VAR_2
+enable,VAR_3

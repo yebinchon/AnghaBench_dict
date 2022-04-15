@@ -1,0 +1,13 @@
+ASYI_TXFLOWED,VAR_0
+CR_HOSTXON,VAR_1
+MR0,VAR_2
+MR0_SWFRXTX,VAR_3
+SCCR,VAR_4
+clear_bit,FUNC_0
+stl_sc26198getreg,FUNC_1
+stl_sc26198setreg,FUNC_2
+stl_sc26198wait,FUNC_3
+stl_sc26198txunflow,FUNC_4
+portp,VAR_5
+tty,VAR_6
+mr0,VAR_7

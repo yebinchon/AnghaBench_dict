@@ -1,0 +1,14 @@
+CLOCK_MONOTONIC,VAR_0
+SD_EVENT_ONESHOT,VAR_1
+assert,FUNC_0
+journal_file_post_change,FUNC_1
+log_debug_errno,FUNC_2
+sd_event_now,FUNC_3
+sd_event_source_get_enabled,FUNC_4
+sd_event_source_get_event,FUNC_5
+sd_event_source_set_enabled,FUNC_6
+sd_event_source_set_time,FUNC_7
+schedule_post_change,FUNC_8
+f,VAR_2
+now,VAR_3
+r,VAR_4

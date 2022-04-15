@@ -1,0 +1,14 @@
+BUSID_SIZE,VAR_0
+STUB_BUSID_ADDED,VAR_1
+STUB_BUSID_OTHER,VAR_2
+STUB_BUSID_REMOV,VAR_3
+busid_table,VAR_4
+busid_table_lock,VAR_5
+get_busid_idx,FUNC_0
+memset,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+del_match_busid,FUNC_4
+busid,VAR_6
+idx,VAR_7
+ret,VAR_8

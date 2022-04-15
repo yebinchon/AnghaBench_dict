@@ -1,0 +1,11 @@
+INTINO,FUNC_0
+OF_getprop,FUNC_1
+PCIB_ROUTE_INTERRUPT,FUNC_2
+device_get_parent,FUNC_3
+ofw_bus_get_node,FUNC_4
+pci_get_intpin,FUNC_5
+ofw_pcibus_assign_interrupt,FUNC_6
+dev,VAR_0
+child,VAR_1
+intr,VAR_2
+isz,VAR_3

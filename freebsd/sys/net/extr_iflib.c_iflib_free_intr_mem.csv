@@ -1,0 +1,9 @@
+IFLIB_INTR_LEGACY,VAR_0
+IFLIB_INTR_MSIX,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_0
+iflib_irq_free,FUNC_1
+pci_release_msi,FUNC_2
+rman_get_rid,FUNC_3
+iflib_free_intr_mem,FUNC_4
+ctx,VAR_3

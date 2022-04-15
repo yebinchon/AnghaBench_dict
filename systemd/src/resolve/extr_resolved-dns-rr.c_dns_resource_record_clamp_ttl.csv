@@ -1,0 +1,13 @@
+DNS_TYPE_OPT,VAR_0
+EINVAL,VAR_1
+ENOMEM,VAR_2
+MIN,FUNC_0
+assert,FUNC_1
+dns_resource_record_copy,FUNC_2
+dns_resource_record_unref,FUNC_3
+dns_resource_record_clamp_ttl,FUNC_4
+rr,VAR_3
+max_ttl,VAR_4
+old_rr,VAR_5
+new_rr,VAR_6
+new_ttl,VAR_7

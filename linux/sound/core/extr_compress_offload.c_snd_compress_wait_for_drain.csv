@@ -1,0 +1,10 @@
+ERESTARTSYS,VAR_0
+SNDRV_PCM_STATE_DRAINING,VAR_1
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+pr_debug,FUNC_2
+wait_event_interruptible,FUNC_3
+wake_up,FUNC_4
+snd_compress_wait_for_drain,FUNC_5
+stream,VAR_2
+ret,VAR_3

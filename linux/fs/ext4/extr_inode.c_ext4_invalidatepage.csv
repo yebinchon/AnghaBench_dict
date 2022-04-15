@@ -1,0 +1,10 @@
+WARN_ON,FUNC_0
+block_invalidatepage,FUNC_1
+buffer_jbd,FUNC_2
+page_buffers,FUNC_3
+page_has_buffers,FUNC_4
+trace_ext4_invalidatepage,FUNC_5
+ext4_invalidatepage,FUNC_6
+page,VAR_0
+offset,VAR_1
+length,VAR_2

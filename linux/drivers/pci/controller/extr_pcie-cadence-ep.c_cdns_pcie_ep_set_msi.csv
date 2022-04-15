@@ -1,0 +1,16 @@
+CDNS_PCIE_EP_FUNC_MSI_CAP_OFFSET,VAR_0
+PCI_MSI_FLAGS,VAR_1
+PCI_MSI_FLAGS_64BIT,VAR_2
+PCI_MSI_FLAGS_MASKBIT,VAR_3
+PCI_MSI_FLAGS_QMASK,VAR_4
+cdns_pcie_ep_fn_readw,FUNC_0
+cdns_pcie_ep_fn_writew,FUNC_1
+epc_get_drvdata,FUNC_2
+cdns_pcie_ep_set_msi,FUNC_3
+epc,VAR_5
+fn,VAR_6
+mmc,VAR_7
+ep,VAR_8
+pcie,VAR_9
+cap,VAR_10
+flags,VAR_11

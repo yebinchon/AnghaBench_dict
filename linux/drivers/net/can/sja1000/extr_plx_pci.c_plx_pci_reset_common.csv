@@ -1,0 +1,10 @@
+PLX_CNTRL,VAR_0
+PLX_PCI_RESET,VAR_1
+ioread32,FUNC_0
+iowrite32,FUNC_1
+pci_get_drvdata,FUNC_2
+udelay,FUNC_3
+plx_pci_reset_common,FUNC_4
+pdev,VAR_2
+card,VAR_3
+cntrl,VAR_4

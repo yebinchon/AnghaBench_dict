@@ -1,0 +1,16 @@
+KSFT_FAIL,VAR_0
+KSFT_PASS,VAR_1
+cg_create,FUNC_0
+cg_destroy,FUNC_1
+cg_freeze_wait,FUNC_2
+cg_killall,FUNC_3
+cg_name,FUNC_4
+cg_run_nowait,FUNC_5
+cg_wait_for_proc_count,FUNC_6
+forkbomb_fn,VAR_2
+free,FUNC_7
+usleep,FUNC_8
+test_cgfreezer_forkbomb,FUNC_9
+root,VAR_3
+ret,VAR_4
+cgroup,VAR_5

@@ -1,0 +1,10 @@
+PCI_D3cold,VAR_0
+PCI_PM_CTRL,VAR_1
+PCI_PM_CTRL_STATE_MASK,VAR_2
+pci_device_is_present,FUNC_0
+pci_read_config_word,FUNC_1
+platform_pci_get_power_state,FUNC_2
+pci_update_current_state,FUNC_3
+dev,VAR_3
+state,VAR_4
+pmcsr,VAR_5

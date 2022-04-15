@@ -1,0 +1,14 @@
+SPI_BPW_RANGE_MASK,FUNC_0
+STM32H7_SPI_CFG1,VAR_0
+STM32H7_SPI_CFG1_DSIZE,VAR_1
+STM32H7_SPI_CFG1_DSIZE_SHIFT,VAR_2
+dev_dbg,FUNC_1
+readl_relaxed,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+stm32_spi_set_bits,FUNC_5
+stm32h7_spi_get_bpw_mask,FUNC_6
+spi,VAR_3
+flags,VAR_4
+cfg1,VAR_5
+max_bpw,VAR_6

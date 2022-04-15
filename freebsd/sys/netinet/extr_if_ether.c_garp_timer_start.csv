@@ -1,0 +1,9 @@
+IF_ADDR_WLOCK,FUNC_0
+IF_ADDR_WUNLOCK,FUNC_1
+callout_reset,FUNC_2
+garp_rexmit,VAR_0
+hz,VAR_1
+ifa_ref,FUNC_3
+garp_timer_start,FUNC_4
+ifa,VAR_2
+ia,VAR_3

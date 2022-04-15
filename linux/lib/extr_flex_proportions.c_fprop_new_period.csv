@@ -1,0 +1,11 @@
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+percpu_counter_add,FUNC_2
+percpu_counter_sum,FUNC_3
+write_seqcount_begin,FUNC_4
+write_seqcount_end,FUNC_5
+fprop_new_period,FUNC_6
+p,VAR_0
+periods,VAR_1
+events,VAR_2
+flags,VAR_3

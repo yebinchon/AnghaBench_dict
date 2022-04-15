@@ -1,0 +1,13 @@
+RCV_CTRL_RCV_BYPASS_ENABLE_SMASK,VAR_0
+RCV_CTRL_RCV_QP_MAP_ENABLE_SMASK,VAR_1
+RCV_QP_MAP_TABLE,VAR_2
+add_rcvctrl,FUNC_0
+write_csr,FUNC_1
+init_qpmap_table,FUNC_2
+dd,VAR_3
+first_ctxt,VAR_4
+last_ctxt,VAR_5
+reg,VAR_6
+regno,VAR_7
+i,VAR_8
+ctxt,VAR_9

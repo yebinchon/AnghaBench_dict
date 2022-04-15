@@ -1,0 +1,17 @@
+VIDEO_ES,VAR_0
+VLC_PLAYER_VOUT_STARTED,VAR_1
+VLC_PLAYER_VOUT_STOPPED,VAR_2
+VLC_VOUT_ORDER_NONE,VAR_3
+assert,FUNC_0
+on_vout_changed,VAR_4
+vlc_assert_unreachable,FUNC_1
+vlc_player_SendEvent,FUNC_2
+vlc_player_input_FindTrackById,FUNC_3
+vlc_player_vout_AddCallbacks,FUNC_4
+vlc_player_vout_DelCallbacks,FUNC_5
+vlc_player_input_HandleVoutEvent,FUNC_6
+input,VAR_5
+ev,VAR_6
+player,VAR_7
+trackpriv,VAR_8
+is_video_es,VAR_9

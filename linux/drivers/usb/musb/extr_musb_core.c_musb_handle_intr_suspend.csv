@@ -1,0 +1,17 @@
+OTG_STATE_A_SUSPEND,VAR_0
+OTG_STATE_B_WAIT_ACON,VAR_1
+OTG_TIME_A_WAIT_BCON,VAR_2
+OTG_TIME_B_ASE0_BRST,VAR_3
+jiffies,VAR_4
+mod_timer,FUNC_0
+msecs_to_jiffies,FUNC_1
+musb_dbg,FUNC_2
+musb_g_suspend,FUNC_3
+musb_hnp_stop,FUNC_4
+musb_host_resume_root_hub,FUNC_5
+musb_platform_try_idle,FUNC_6
+musb_root_disconnect,FUNC_7
+usb_otg_state_string,FUNC_8
+musb_handle_intr_suspend,FUNC_9
+musb,VAR_5
+devctl,VAR_6

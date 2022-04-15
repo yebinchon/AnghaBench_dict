@@ -1,0 +1,13 @@
+QMKUSB_READY,VAR_0
+USB_ACTIVE,VAR_1
+memset,FUNC_0
+obqGetFullBufferI,FUNC_1
+obqTryFlushI,FUNC_2
+osalDbgAssert,FUNC_3
+usbGetDriverStateI,FUNC_4
+usbGetTransmitStatusI,FUNC_5
+usbStartTransmitI,FUNC_6
+qmkusbSOFHookI,FUNC_7
+qmkusbp,VAR_2
+n,VAR_3
+buf,VAR_4

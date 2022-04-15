@@ -1,0 +1,15 @@
+dev_err,FUNC_0
+mlxsw_sp_acl_tcam_vchunk_migrate_all,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+swap,FUNC_4
+trace_mlxsw_sp_acl_tcam_vregion_migrate,FUNC_5
+trace_mlxsw_sp_acl_tcam_vregion_migrate_end,FUNC_6
+trace_mlxsw_sp_acl_tcam_vregion_rehash_rollback_failed,FUNC_7
+mlxsw_sp_acl_tcam_vregion_migrate,FUNC_8
+mlxsw_sp,VAR_0
+vregion,VAR_1
+ctx,VAR_2
+credits,VAR_3
+err,VAR_4
+err2,VAR_5

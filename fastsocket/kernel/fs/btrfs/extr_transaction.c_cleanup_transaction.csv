@@ -1,0 +1,17 @@
+WARN_ON,FUNC_0
+btrfs_abort_transaction,FUNC_1
+btrfs_cleanup_one_transaction,FUNC_2
+btrfs_scrub_continue,FUNC_3
+btrfs_trans_handle_cachep,VAR_0
+current,VAR_1
+kmem_cache_free,FUNC_4
+list_del_init,FUNC_5
+put_transaction,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+trace_btrfs_transaction_commit,FUNC_9
+cleanup_transaction,FUNC_10
+trans,VAR_2
+root,VAR_3
+err,VAR_4
+cur_trans,VAR_5

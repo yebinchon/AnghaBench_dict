@@ -1,0 +1,10 @@
+AR_BTCOEX_CTRL,VAR_0
+MCI_BT_SLEEP,VAR_1
+REG_WRITE,FUNC_0
+ar9003_mci_disable_interrupt,FUNC_1
+ar9003_mci_mute_bt,FUNC_2
+udelay,FUNC_3
+ar9003_mci_stop_bt,FUNC_4
+ah,VAR_2
+save_fullsleep,VAR_3
+mci_hw,VAR_4

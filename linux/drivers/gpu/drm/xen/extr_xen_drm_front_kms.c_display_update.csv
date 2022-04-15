@@ -1,0 +1,17 @@
+WARN_ON,FUNC_0
+display_send_page_flip,FUNC_1
+drm_dev_enter,FUNC_2
+drm_dev_exit,FUNC_3
+send_pending_event,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+to_xen_drm_pipeline,FUNC_7
+display_update,FUNC_8
+pipe,VAR_0
+old_plane_state,VAR_1
+pipeline,VAR_2
+crtc,VAR_3
+event,VAR_4
+idx,VAR_5
+dev,VAR_6
+flags,VAR_7

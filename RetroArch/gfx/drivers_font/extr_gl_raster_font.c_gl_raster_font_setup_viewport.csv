@@ -1,0 +1,17 @@
+GL_BLEND,VAR_0
+GL_FUNC_ADD,VAR_1
+GL_ONE_MINUS_SRC_ALPHA,VAR_2
+GL_SRC_ALPHA,VAR_3
+GL_TEXTURE_2D,VAR_4
+VIDEO_SHADER_STOCK_BLEND,VAR_5
+glBindTexture,FUNC_0
+glBlendEquation,FUNC_1
+glBlendFunc,FUNC_2
+glEnable,FUNC_3
+stub1,FUNC_4
+video_driver_set_viewport,FUNC_5
+gl_raster_font_setup_viewport,FUNC_6
+width,VAR_6
+height,VAR_7
+font,VAR_8
+full_screen,VAR_9

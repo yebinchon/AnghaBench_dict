@@ -1,0 +1,10 @@
+FW_FEATURE_LPAR,VAR_0
+H_GET_EM_PARMS,VAR_1
+H_SUCCESS,VAR_2
+PLPAR_HCALL_BUFSIZE,VAR_3
+firmware_has_feature,FUNC_0
+plpar_hcall,FUNC_1
+seq_printf,FUNC_2
+parse_em_data,FUNC_3
+m,VAR_4
+retbuf,VAR_5

@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+IRQ_NONE,VAR_1
+QLCNIC_MSIX_ENABLED,VAR_2
+QLCNIC_MSI_ENABLED,VAR_3
+qlcnic_clear_legacy_intr,FUNC_0
+qlcnic_enable_sds_intr,FUNC_1
+writel,FUNC_2
+qlcnic_tmp_intr,FUNC_3
+irq,VAR_4
+data,VAR_5
+sds_ring,VAR_6
+adapter,VAR_7

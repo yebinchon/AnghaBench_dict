@@ -1,0 +1,14 @@
+STORE32_LE,FUNC_0
+chacha20_encrypt_bytes,FUNC_1
+chacha_ietf_ivsetup,FUNC_2
+chacha_keysetup,FUNC_3
+sodium_memzero,FUNC_4
+stream_ietf_ext_ref_xor_ic,FUNC_5
+c,VAR_0
+m,VAR_1
+mlen,VAR_2
+n,VAR_3
+ic,VAR_4
+k,VAR_5
+ctx,VAR_6
+ic_bytes,VAR_7

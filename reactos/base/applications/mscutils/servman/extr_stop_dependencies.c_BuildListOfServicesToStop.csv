@@ -1,0 +1,15 @@
+AddServiceToList,FUNC_0
+FALSE,VAR_0
+GetProcessHeap,FUNC_1
+HeapFree,FUNC_2
+SERVICE_STOPPED,VAR_1
+SERVICE_STOP_PENDING,VAR_2
+TRUE,VAR_3
+TV2_GetDependants,FUNC_3
+BuildListOfServicesToStop,FUNC_4
+lpServiceList,VAR_4
+lpServiceName,VAR_5
+lpServiceStatus,VAR_6
+dwCount,VAR_7
+i,VAR_8
+bRet,VAR_9

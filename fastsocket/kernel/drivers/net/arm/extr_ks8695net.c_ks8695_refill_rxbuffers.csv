@@ -1,0 +1,16 @@
+DMA_FROM_DEVICE,VAR_0
+MAX_RXBUF_SIZE,VAR_1
+MAX_RX_DESC,VAR_2
+RDES_OWN,VAR_3
+cpu_to_le32,FUNC_0
+dev_alloc_skb,FUNC_1
+dev_kfree_skb_irq,FUNC_2
+dma_map_single,FUNC_3
+dma_mapping_error,FUNC_4
+unlikely,FUNC_5
+wmb,FUNC_6
+ks8695_refill_rxbuffers,FUNC_7
+ksp,VAR_4
+buff_n,VAR_5
+skb,VAR_6
+mapping,VAR_7

@@ -1,0 +1,14 @@
+BIT,FUNC_0
+CPCAP_BIT_DIG_AUD_IN,VAR_0
+CPCAP_BIT_DIG_AUD_IN_ST_DAC,VAR_1
+CPCAP_REG_CDI,VAR_2
+CPCAP_REG_SDACDI,VAR_3
+regmap_update_bits,FUNC_1
+cpcap_dai_mux,FUNC_2
+cpcap,VAR_4
+swap_dai_configuration,VAR_5
+hifi_val,VAR_6
+voice_val,VAR_7
+hifi_mask,VAR_8
+voice_mask,VAR_9
+err,VAR_10

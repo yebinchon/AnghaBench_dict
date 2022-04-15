@@ -1,0 +1,17 @@
+CGS_IND_REG__SMC,VAR_0
+PHM_PlatformCaps_StablePState,VAR_1
+PHM_PlatformCaps_UVDDPM,VAR_2
+PPSMC_MSG_UVDDPM_SetEnabledMask,VAR_3
+SMU73_Discrete_DpmTable,VAR_4
+UvdBootLevel,VAR_5
+cgs_read_ind_register,FUNC_0
+cgs_write_ind_register,FUNC_1
+offsetof,FUNC_2
+phm_cap_enabled,FUNC_3
+smum_send_msg_to_smc_with_parameter,FUNC_4
+fiji_update_uvd_smc_table,FUNC_5
+hwmgr,VAR_6
+smu_data,VAR_7
+mm_boot_level_offset,VAR_8
+mm_boot_level_value,VAR_9
+table_info,VAR_10

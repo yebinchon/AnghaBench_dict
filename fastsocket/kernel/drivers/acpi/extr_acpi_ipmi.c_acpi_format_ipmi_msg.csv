@@ -1,0 +1,14 @@
+IPMI_BMC_CHANNEL,VAR_0
+IPMI_OP_RGN_CMD,FUNC_0
+IPMI_OP_RGN_NETFN,FUNC_1
+IPMI_SYSTEM_INTERFACE_ADDR_TYPE,VAR_1
+memcpy,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+acpi_format_ipmi_msg,FUNC_5
+tx_msg,VAR_2
+address,VAR_3
+value,VAR_4
+msg,VAR_5
+buffer,VAR_6
+device,VAR_7

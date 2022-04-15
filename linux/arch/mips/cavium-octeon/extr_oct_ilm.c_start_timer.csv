@@ -1,0 +1,12 @@
+CVMX_CIU_TIMX,FUNC_0
+cvmx_read_csr,FUNC_1
+cvmx_write_csr,FUNC_2
+li,VAR_0
+raw_local_irq_restore,FUNC_3
+raw_local_irq_save,FUNC_4
+read_c0_cvmcount,FUNC_5
+start_timer,FUNC_6
+timer,VAR_1
+interval,VAR_2
+timx,VAR_3
+flags,VAR_4

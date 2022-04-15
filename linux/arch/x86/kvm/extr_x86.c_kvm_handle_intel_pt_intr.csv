@@ -1,0 +1,8 @@
+KVM_REQ_PMI,VAR_0
+MSR_CORE_PERF_GLOBAL_OVF_CTRL_TRACE_TOPA_PMI_BIT,VAR_1
+__set_bit,FUNC_0
+__this_cpu_read,FUNC_1
+current_vcpu,VAR_2
+kvm_make_request,FUNC_2
+kvm_handle_intel_pt_intr,FUNC_3
+vcpu,VAR_3

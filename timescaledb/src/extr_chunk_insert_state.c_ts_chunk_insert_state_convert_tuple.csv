@@ -1,0 +1,10 @@
+ExecSetSlotDescriptor,FUNC_0
+ExecStoreTuple,FUNC_1
+InvalidBuffer,VAR_0
+RelationGetDescr,FUNC_2
+do_convert_tuple,FUNC_3
+ts_chunk_insert_state_convert_tuple,FUNC_4
+state,VAR_1
+tuple,VAR_2
+existing_slot,VAR_3
+chunkrel,VAR_4

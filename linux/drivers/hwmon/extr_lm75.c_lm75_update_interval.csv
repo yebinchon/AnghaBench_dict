@@ -1,0 +1,17 @@
+LM75_REG_CONF,VAR_0
+LM75_SAMPLE_CLEAR_MASK,VAR_1
+PCT2075_REG_IDLE,VAR_2
+dev_get_drvdata,FUNC_0
+find_closest,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+lm75_sample_set_masks,VAR_3
+lm75_write_config,FUNC_3
+regmap_read,FUNC_4
+regmap_write,FUNC_5
+lm75_update_interval,FUNC_6
+dev,VAR_4
+val,VAR_5
+data,VAR_6
+reg,VAR_7
+index,VAR_8
+err,VAR_9

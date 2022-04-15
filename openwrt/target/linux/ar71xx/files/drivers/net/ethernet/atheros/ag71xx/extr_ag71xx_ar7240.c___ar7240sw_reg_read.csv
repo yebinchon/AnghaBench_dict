@@ -1,0 +1,15 @@
+ag71xx_mdio_mii_read,FUNC_0
+ag71xx_mdio_mii_write,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+mk_high_addr,FUNC_4
+mk_phy_addr,FUNC_5
+mk_phy_reg,FUNC_6
+__ar7240sw_reg_read,FUNC_7
+mii,VAR_0
+reg,VAR_1
+flags,VAR_2
+phy_addr,VAR_3
+phy_reg,VAR_4
+hi,VAR_5
+lo,VAR_6

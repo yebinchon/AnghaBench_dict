@@ -1,0 +1,16 @@
+CSR_WRITE_4,FUNC_0
+IWI_CSR_RST,VAR_0
+IWI_FLAG_ASSOCIATED,VAR_1
+IWI_FLAG_BUSY,VAR_2
+IWI_FW_IDLE,VAR_3
+IWI_LOCK_ASSERT,FUNC_1
+IWI_RST_SOFT_RESET,VAR_4
+callout_stop,FUNC_2
+iwi_reset_cmd_ring,FUNC_3
+iwi_reset_rx_ring,FUNC_4
+iwi_reset_tx_ring,FUNC_5
+iwi_stop_master,FUNC_6
+wakeup,FUNC_7
+iwi_stop_locked,FUNC_8
+priv,VAR_5
+sc,VAR_6

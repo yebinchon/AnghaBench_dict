@@ -1,0 +1,8 @@
+ARCMSR_INBOUND_MESG0_FLUSH_CACHE,VAR_0
+CHIP_REG_WRITE32,FUNC_0
+HBD_MessageUnit,VAR_1
+arcmsr_hbd_wait_msgint_ready,FUNC_1
+inbound_msgaddr0,VAR_2
+arcmsr_flush_hbd_cache,FUNC_2
+acb,VAR_3
+retry_count,VAR_4

@@ -1,0 +1,11 @@
+clk_disable_unprepare,FUNC_0
+del_timer_sync,FUNC_1
+mmc_dev,FUNC_2
+mmc_free_host,FUNC_3
+mmc_remove_host,FUNC_4
+of_platform_device_destroy,FUNC_5
+platform_get_drvdata,FUNC_6
+meson_mx_mmc_remove,FUNC_7
+pdev,VAR_0
+host,VAR_1
+slot_dev,VAR_2

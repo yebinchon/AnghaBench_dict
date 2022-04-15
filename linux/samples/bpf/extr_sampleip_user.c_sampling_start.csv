@@ -1,0 +1,16 @@
+PERF_COUNT_SW_CPU_CLOCK,VAR_0
+PERF_EVENT_IOC_ENABLE,VAR_1
+PERF_EVENT_IOC_SET_BPF,VAR_2
+PERF_TYPE_SOFTWARE,VAR_3
+assert,FUNC_0
+fprintf,FUNC_1
+ioctl,FUNC_2
+nr_cpus,VAR_4
+prog_fd,VAR_5
+stderr,VAR_6
+sys_perf_event_open,FUNC_3
+sampling_start,FUNC_4
+pmu_fd,VAR_7
+freq,VAR_8
+i,VAR_9
+pe_sample_attr,VAR_10

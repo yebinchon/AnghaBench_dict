@@ -1,0 +1,10 @@
+APIC_LVTT_TM,VAR_0
+APIC_LVTT_TM_ONE_SHOT,VAR_1
+APIC_LVT_M,VAR_2
+LAPIC_ICR_TIMER,VAR_3
+LAPIC_LVT_TIMER,VAR_4
+lapic_write32,FUNC_0
+lapic_timer_oneshot_nointr,FUNC_1
+la,VAR_5
+count,VAR_6
+value,VAR_7

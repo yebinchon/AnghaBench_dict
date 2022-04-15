@@ -1,0 +1,16 @@
+EFAULT,VAR_0
+EINVAL,VAR_1
+ftrace_generate_call_insn,FUNC_0
+ftrace_generate_kprobe_call_insn,FUNC_1
+ftrace_generate_kprobe_nop_insn,FUNC_2
+ftrace_generate_nop_insn,FUNC_3
+is_kprobe_on_ftrace,FUNC_4
+memcmp,FUNC_5
+probe_kernel_read,FUNC_6
+s390_kernel_write,FUNC_7
+ftrace_make_call,FUNC_8
+rec,VAR_2
+addr,VAR_3
+orig,VAR_4
+new,VAR_5
+old,VAR_6

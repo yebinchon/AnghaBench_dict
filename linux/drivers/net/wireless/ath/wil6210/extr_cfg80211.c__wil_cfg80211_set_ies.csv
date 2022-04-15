@@ -1,0 +1,16 @@
+WMI_FRAME_ASSOC_RESP,VAR_0
+WMI_FRAME_BEACON,VAR_1
+WMI_FRAME_PROBE_RESP,VAR_2
+_wil_cfg80211_get_proberesp_ies,FUNC_0
+_wil_cfg80211_merge_extra_ies,FUNC_1
+kfree,FUNC_2
+wil_memdup_ie,FUNC_3
+wmi_set_ie,FUNC_4
+_wil_cfg80211_set_ies,FUNC_5
+vif,VAR_3
+bcon,VAR_4
+rc,VAR_5
+len,VAR_6
+proberesp_len,VAR_7
+ies,VAR_8
+proberesp,VAR_9

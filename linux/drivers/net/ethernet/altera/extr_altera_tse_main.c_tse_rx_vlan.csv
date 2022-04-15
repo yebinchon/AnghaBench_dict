@@ -1,0 +1,14 @@
+ETH_ALEN,VAR_0
+ETH_P_8021Q,VAR_1
+NETIF_F_HW_VLAN_CTAG_RX,VAR_2
+VLAN_HLEN,VAR_3
+__vlan_get_tag,FUNC_0
+__vlan_hwaccel_put_tag,FUNC_1
+htons,FUNC_2
+memmove,FUNC_3
+skb_pull,FUNC_4
+tse_rx_vlan,FUNC_5
+dev,VAR_4
+skb,VAR_5
+eth_hdr,VAR_6
+vid,VAR_7

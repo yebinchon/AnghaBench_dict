@@ -1,0 +1,11 @@
+SIRFUART_RX_DMA_INT_EN,FUNC_0
+SIRFUART_RX_IO_INT_EN,FUNC_1
+dmaengine_terminate_all,FUNC_2
+rd_regl,FUNC_3
+to_sirfport,FUNC_4
+wr_regl,FUNC_5
+sirfsoc_uart_stop_rx,FUNC_6
+port,VAR_0
+sirfport,VAR_1
+ureg,VAR_2
+uint_en,VAR_3

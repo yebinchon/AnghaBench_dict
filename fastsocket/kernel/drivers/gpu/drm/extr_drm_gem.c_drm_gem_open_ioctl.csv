@@ -1,0 +1,17 @@
+DRIVER_GEM,VAR_0
+ENODEV,VAR_1
+ENOENT,VAR_2
+drm_gem_handle_create,FUNC_0
+drm_gem_object_reference,FUNC_1
+drm_gem_object_unreference_unlocked,FUNC_2
+idr_find,FUNC_3
+spin_lock,FUNC_4
+spin_unlock,FUNC_5
+drm_gem_open_ioctl,FUNC_6
+dev,VAR_3
+data,VAR_4
+file_priv,VAR_5
+args,VAR_6
+obj,VAR_7
+ret,VAR_8
+handle,VAR_9

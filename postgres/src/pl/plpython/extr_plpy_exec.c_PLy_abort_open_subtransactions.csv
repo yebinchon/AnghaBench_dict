@@ -1,0 +1,16 @@
+Assert,FUNC_0
+CurrentResourceOwner,VAR_0
+MemoryContextSwitchTo,FUNC_1
+NIL,VAR_1
+RollbackAndReleaseCurrentSubTransaction,FUNC_2
+WARNING,VAR_2
+ereport,FUNC_3
+errmsg,FUNC_4
+explicit_subtransactions,VAR_3
+linitial,FUNC_5
+list_delete_first,FUNC_6
+list_length,FUNC_7
+pfree,FUNC_8
+PLy_abort_open_subtransactions,FUNC_9
+save_subxact_level,VAR_4
+subtransactiondata,VAR_5

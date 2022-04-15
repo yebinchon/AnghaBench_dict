@@ -1,0 +1,15 @@
+GFP_NOFS,VAR_0
+OCFS2_SB,FUNC_0
+le64_to_cpu,FUNC_1
+ocfs2_clusters_to_blocks,FUNC_2
+sb_issue_discard,FUNC_3
+trace_ocfs2_trim_extent,FUNC_4
+ocfs2_trim_extent,FUNC_5
+sb,VAR_1
+gd,VAR_2
+group,VAR_3
+start,VAR_4
+count,VAR_5
+discard,VAR_6
+bcount,VAR_7
+osb,VAR_8

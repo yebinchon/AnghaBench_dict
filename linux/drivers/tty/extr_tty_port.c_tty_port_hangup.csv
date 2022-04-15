@@ -1,0 +1,12 @@
+TTY_IO_ERROR,VAR_0
+set_bit,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+tty_kref_put,FUNC_3
+tty_port_set_active,FUNC_4
+tty_port_shutdown,FUNC_5
+wake_up_interruptible,FUNC_6
+tty_port_hangup,FUNC_7
+port,VAR_1
+tty,VAR_2
+flags,VAR_3

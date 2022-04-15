@@ -1,0 +1,11 @@
+cpt_disable_all_cores,FUNC_0
+cpt_unload_microcode,FUNC_1
+cpt_unregister_interrupts,FUNC_2
+pci_disable_device,FUNC_3
+pci_disable_sriov,FUNC_4
+pci_get_drvdata,FUNC_5
+pci_release_regions,FUNC_6
+pci_set_drvdata,FUNC_7
+cpt_remove,FUNC_8
+pdev,VAR_0
+cpt,VAR_1

@@ -1,0 +1,13 @@
+POWER_SUPPLY_STATUS_CHARGING,VAR_0
+POWER_SUPPLY_STATUS_DISCHARGING,VAR_1
+POWER_SUPPLY_STATUS_FULL,VAR_2
+POWER_SUPPLY_STATUS_NOT_CHARGING,VAR_3
+POWER_SUPPLY_STATUS_UNKNOWN,VAR_4
+dev_notice,FUNC_0
+ds2760_battery_read_status,FUNC_1
+ds2760_battery_set_current_accum,FUNC_2
+power_supply_am_i_supplied,FUNC_3
+power_supply_changed,FUNC_4
+ds2760_battery_update_status,FUNC_5
+di,VAR_5
+old_charge_status,VAR_6

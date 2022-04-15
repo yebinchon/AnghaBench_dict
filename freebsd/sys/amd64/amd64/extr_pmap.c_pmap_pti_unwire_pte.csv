@@ -1,0 +1,15 @@
+DMAP_TO_PHYS,FUNC_0
+MPASS,FUNC_1
+PHYS_TO_VM_PAGE,FUNC_2
+VM_OBJECT_ASSERT_WLOCKED,FUNC_3
+X86_PG_PS,VAR_0
+X86_PG_V,VAR_1
+pmap_pti_free_page,FUNC_4
+pmap_pti_pde,FUNC_5
+pmap_pti_unwire_pde,FUNC_6
+pti_obj,VAR_2
+pmap_pti_unwire_pte,FUNC_7
+pte,VAR_3
+va,VAR_4
+m,VAR_5
+pde,VAR_6

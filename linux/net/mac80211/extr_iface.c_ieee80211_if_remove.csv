@@ -1,0 +1,13 @@
+ASSERT_RTNL,FUNC_0
+cfg80211_unregister_wdev,FUNC_1
+ieee80211_teardown_sdata,FUNC_2
+ieee80211_txq_purge,FUNC_3
+kfree,FUNC_4
+list_del_rcu,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+synchronize_rcu,FUNC_8
+to_txq_info,FUNC_9
+unregister_netdevice,FUNC_10
+ieee80211_if_remove,FUNC_11
+sdata,VAR_0

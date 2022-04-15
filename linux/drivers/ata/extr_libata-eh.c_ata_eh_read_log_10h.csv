@@ -1,0 +1,16 @@
+ATA_DEV_ZAC,VAR_0
+ATA_LOG_SATA_NCQ,VAR_1
+ATA_SECT_SIZE,VAR_2
+EIO,VAR_3
+ENOENT,VAR_4
+ata_dev_warn,FUNC_0
+ata_id_has_ncq_autosense,FUNC_1
+ata_read_log_page,FUNC_2
+ata_eh_read_log_10h,FUNC_3
+dev,VAR_5
+tag,VAR_6
+tf,VAR_7
+buf,VAR_8
+err_mask,VAR_9
+csum,VAR_10
+i,VAR_11

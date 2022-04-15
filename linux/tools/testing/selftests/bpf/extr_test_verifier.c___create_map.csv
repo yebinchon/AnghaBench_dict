@@ -1,0 +1,14 @@
+BPF_F_NO_PREALLOC,VAR_0
+BPF_MAP_TYPE_HASH,VAR_1
+bpf_create_map,FUNC_0
+errno,VAR_2
+printf,FUNC_1
+skip_unsupported_map,FUNC_2
+strerror,FUNC_3
+__create_map,FUNC_4
+type,VAR_3
+size_key,VAR_4
+size_value,VAR_5
+max_elem,VAR_6
+extra_flags,VAR_7
+fd,VAR_8

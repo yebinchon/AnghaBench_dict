@@ -1,0 +1,12 @@
+I915_WRITE,FUNC_0
+PIPE_WM_LINETIME,FUNC_1
+drm_crtc_mask,FUNC_2
+to_i915,FUNC_3
+to_intel_crtc,FUNC_4
+skl_atomic_update_crtc_wm,FUNC_5
+state,VAR_0
+crtc_state,VAR_1
+crtc,VAR_2
+dev_priv,VAR_3
+pipe_wm,VAR_4
+pipe,VAR_5

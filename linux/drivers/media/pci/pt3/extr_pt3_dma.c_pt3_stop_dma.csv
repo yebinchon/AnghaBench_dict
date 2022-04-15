@@ -1,0 +1,13 @@
+EIO,VAR_0
+OFST_DMA_CTL,VAR_1
+OFST_STATUS,VAR_2
+get_dma_base,FUNC_0
+ioread32,FUNC_1
+iowrite32,FUNC_2
+msleep,FUNC_3
+pt3_stop_dma,FUNC_4
+adap,VAR_3
+pt3,VAR_4
+base,VAR_5
+stat,VAR_6
+retry,VAR_7

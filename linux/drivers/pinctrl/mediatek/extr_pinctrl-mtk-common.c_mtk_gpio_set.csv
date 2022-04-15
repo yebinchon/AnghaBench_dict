@@ -1,0 +1,14 @@
+BIT,FUNC_0
+CLR_ADDR,FUNC_1
+SET_ADDR,FUNC_2
+gpiochip_get_data,FUNC_3
+mtk_get_port,FUNC_4
+mtk_get_regmap,FUNC_5
+regmap_write,FUNC_6
+mtk_gpio_set,FUNC_7
+chip,VAR_0
+offset,VAR_1
+value,VAR_2
+reg_addr,VAR_3
+bit,VAR_4
+pctl,VAR_5

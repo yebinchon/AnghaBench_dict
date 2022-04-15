@@ -1,0 +1,12 @@
+MEM_readLE32,FUNC_0
+RETURN_ERROR_IF,FUNC_1
+ZSTD_FRAMEIDSIZE,VAR_0
+ZSTD_SKIPPABLEHEADERSIZE,VAR_1
+frameParameter_unsupported,VAR_2
+srcSize_wrong,VAR_3
+readSkippableFrameSize,FUNC_2
+src,VAR_4
+srcSize,VAR_5
+skippableHeaderSize,VAR_6
+sizeU32,VAR_7
+skippableSize,VAR_8

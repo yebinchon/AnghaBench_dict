@@ -1,0 +1,13 @@
+ATF_REQUIRE_MSG,FUNC_0
+atf_tc_fail,FUNC_1
+lock_it,FUNC_2
+printf,FUNC_3
+rump_sys_chdir,FUNC_4
+sleep,FUNC_5
+otrunc_mtime_update,FUNC_6
+tc,VAR_0
+path,VAR_1
+last_ts,VAR_2
+res,VAR_3
+i,VAR_4
+l,VAR_5

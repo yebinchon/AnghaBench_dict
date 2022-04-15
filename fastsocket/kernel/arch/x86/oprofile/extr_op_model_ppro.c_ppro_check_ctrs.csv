@@ -1,0 +1,16 @@
+APIC_LVTPC,VAR_0
+APIC_LVT_MASKED,VAR_1
+apic_read,FUNC_0
+apic_write,FUNC_1
+counter_width,VAR_2
+num_counters,VAR_3
+oprofile_add_sample,FUNC_2
+rdmsrl,FUNC_3
+reset_value,VAR_4
+unlikely,FUNC_4
+wrmsrl,FUNC_5
+ppro_check_ctrs,FUNC_6
+regs,VAR_5
+msrs,VAR_6
+val,VAR_7
+i,VAR_8

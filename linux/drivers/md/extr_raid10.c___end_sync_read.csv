@@ -1,0 +1,13 @@
+R10BIO_IsRecover,VAR_0
+R10BIO_Uptodate,VAR_1
+atomic_add,FUNC_0
+atomic_dec_and_test,FUNC_1
+rdev_dec_pending,FUNC_2
+reschedule_retry,FUNC_3
+set_bit,FUNC_4
+test_bit,FUNC_5
+__end_sync_read,FUNC_6
+r10_bio,VAR_2
+bio,VAR_3
+d,VAR_4
+conf,VAR_5

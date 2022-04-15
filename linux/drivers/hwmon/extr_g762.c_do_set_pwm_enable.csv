@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+G762_REG_FAN_CMD1,VAR_1
+G762_REG_FAN_CMD1_FAN_MODE,VAR_2
+G762_REG_SET_CNT,VAR_3
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+g762_update_client,FUNC_2
+i2c_smbus_write_byte_data,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+do_set_pwm_enable,FUNC_6
+dev,VAR_4
+val,VAR_5
+data,VAR_6
+ret,VAR_7

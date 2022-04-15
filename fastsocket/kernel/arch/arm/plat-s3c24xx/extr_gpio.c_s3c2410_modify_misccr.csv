@@ -1,0 +1,10 @@
+S3C24XX_MISCCR,VAR_0
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+local_irq_restore,FUNC_2
+local_irq_save,FUNC_3
+s3c2410_modify_misccr,FUNC_4
+clear,VAR_1
+change,VAR_2
+flags,VAR_3
+misccr,VAR_4

@@ -1,0 +1,14 @@
+IPPROTO_UDP,VAR_0
+get_unaligned,FUNC_0
+htons,FUNC_1
+skb_header_pointer,FUNC_2
+skb_network_offset,FUNC_3
+skb_set_transport_header,FUNC_4
+batadv_dat_check_dhcp_ipudp,FUNC_5
+skb,VAR_1
+ip_src,VAR_2
+offset,VAR_3
+udphdr,VAR_4
+_udphdr,VAR_5
+iphdr,VAR_6
+_iphdr,VAR_7

@@ -1,0 +1,10 @@
+FIRMWARE_RT2561,VAR_0
+FIRMWARE_RT2561s,VAR_1
+FIRMWARE_RT2661,VAR_2
+PCI_DEVICE_ID,VAR_3
+pci_read_config_word,FUNC_0
+to_pci_dev,FUNC_1
+rt61pci_get_firmware_name,FUNC_2
+rt2x00dev,VAR_4
+chip,VAR_5
+fw_name,VAR_6

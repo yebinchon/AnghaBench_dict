@@ -1,0 +1,14 @@
+HPIC_PRIMARY,VAR_0
+HPIC_SECONDARY,VAR_1
+HPIC_STATUS,VAR_2
+HROWPIC_IRQMAX,VAR_3
+device_get_softc,FUNC_0
+hrowpic_read_reg,FUNC_1
+powerpc_dispatch_intr,FUNC_2
+hrowpic_dispatch,FUNC_3
+dev,VAR_4
+tf,VAR_5
+sc,VAR_6
+mask,VAR_7
+reg,VAR_8
+irq,VAR_9

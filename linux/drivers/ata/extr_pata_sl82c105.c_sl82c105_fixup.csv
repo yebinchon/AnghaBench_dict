@@ -1,0 +1,8 @@
+CTRL_P0EN,VAR_0
+CTRL_P0F16,VAR_1
+CTRL_P1F16,VAR_2
+pci_read_config_dword,FUNC_0
+pci_write_config_dword,FUNC_1
+sl82c105_fixup,FUNC_2
+pdev,VAR_3
+val,VAR_4

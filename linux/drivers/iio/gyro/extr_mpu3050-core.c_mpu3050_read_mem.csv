@@ -1,0 +1,12 @@
+MPU3050_BANK_SEL,VAR_0
+MPU3050_MEM_R_W,VAR_1
+MPU3050_MEM_START_ADDR,VAR_2
+regmap_bulk_read,FUNC_0
+regmap_write,FUNC_1
+mpu3050_read_mem,FUNC_2
+mpu3050,VAR_3
+bank,VAR_4
+addr,VAR_5
+len,VAR_6
+buf,VAR_7
+ret,VAR_8

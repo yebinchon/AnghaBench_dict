@@ -1,0 +1,16 @@
+NFS_I,FUNC_0
+__nfs4_find_state_byowner,FUNC_1
+atomic_inc,FUNC_2
+igrab,FUNC_3
+list_add,FUNC_4
+list_add_tail,FUNC_5
+nfs4_alloc_open_state,FUNC_6
+nfs4_free_open_state,FUNC_7
+spin_lock,FUNC_8
+spin_unlock,FUNC_9
+nfs4_get_open_state,FUNC_10
+inode,VAR_0
+owner,VAR_1
+state,VAR_2
+new,VAR_3
+nfsi,VAR_4

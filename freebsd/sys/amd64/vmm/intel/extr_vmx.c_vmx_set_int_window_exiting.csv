@@ -1,0 +1,7 @@
+PROCBASED_INT_WINDOW_EXITING,VAR_0
+VCPU_CTR0,FUNC_0
+VMCS_PRI_PROC_BASED_CTLS,VAR_1
+vmcs_write,FUNC_1
+vmx_set_int_window_exiting,FUNC_2
+vmx,VAR_2
+vcpu,VAR_3

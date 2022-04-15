@@ -1,0 +1,12 @@
+TRANS_NONE,VAR_0
+TRANS_READ,VAR_1
+assert,FUNC_0
+btreeIntegrity,FUNC_1
+clearAllSharedCacheTableLocks,FUNC_2
+downgradeAllSharedCacheTableLocks,FUNC_3
+sqlite3BtreeHoldsMutex,FUNC_4
+unlockBtreeIfUnused,FUNC_5
+btreeEndTransaction,FUNC_6
+p,VAR_2
+pBt,VAR_3
+db,VAR_4

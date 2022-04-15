@@ -1,0 +1,13 @@
+TCQ_F_NOLOCK,VAR_0
+__skb_queue_tail,FUNC_0
+qdisc_is_percpu_stats,FUNC_1
+qdisc_lock,FUNC_2
+qdisc_qstats_backlog_inc,FUNC_3
+qdisc_qstats_cpu_backlog_inc,FUNC_4
+qdisc_qstats_cpu_qlen_inc,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+qdisc_enqueue_skb_bad_txq,FUNC_8
+q,VAR_1
+skb,VAR_2
+lock,VAR_3

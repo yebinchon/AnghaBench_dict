@@ -1,0 +1,16 @@
+ASSERT,FUNC_0
+ENOMEM,VAR_0
+XBF_READ,VAR_1
+XFS_BUF_DADDR_NULL,VAR_2
+xfs_buf_get_uncached,FUNC_1
+xfs_buf_relse,FUNC_2
+xfs_buf_submit,FUNC_3
+xfs_buf_read_uncached,FUNC_4
+target,VAR_3
+daddr,VAR_4
+numblks,VAR_5
+flags,VAR_6
+bpp,VAR_7
+ops,VAR_8
+bp,VAR_9
+error,VAR_10

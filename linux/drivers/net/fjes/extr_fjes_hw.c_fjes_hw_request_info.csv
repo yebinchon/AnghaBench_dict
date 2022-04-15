@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+ENOMSG,VAR_1
+EPERM,VAR_2
+FJES_CMD_REQ_INFO,VAR_3
+FJES_CMD_STATUS_NORMAL,VAR_4
+FJES_DEV_COMMAND_INFO_REQ_LEN,VAR_5
+FJES_DEV_COMMAND_INFO_RES_LEN,FUNC_0
+fjes_hw_issue_request_command,FUNC_1
+memset,FUNC_2
+trace_fjes_hw_request_info,FUNC_3
+trace_fjes_hw_request_info_err,FUNC_4
+fjes_hw_request_info,FUNC_5
+hw,VAR_6
+req_buf,VAR_7
+res_buf,VAR_8
+ret,VAR_9
+result,VAR_10

@@ -1,0 +1,16 @@
+XFER_MW_DMA_0,VAR_0
+XFER_UDMA_0,VAR_1
+pci_read_config_byte,FUNC_0
+pci_write_config_byte,FUNC_1
+to_pci_dev,FUNC_2
+pdc202xx_set_dmamode,FUNC_3
+ap,VAR_2
+adev,VAR_3
+pdev,VAR_4
+port,VAR_5
+udma_timing,VAR_6
+mdma_timing,VAR_7
+r_bp,VAR_8
+r_cp,VAR_9
+speed,VAR_10
+speed,VAR_11

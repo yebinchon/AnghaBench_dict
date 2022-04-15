@@ -1,0 +1,15 @@
+CHECKSUM_UNNECESSARY,VAR_0
+NF_INET_LOCAL_IN,VAR_1
+NF_INET_PRE_ROUTING,VAR_2
+__skb_checksum_complete,FUNC_0
+csum_fold,FUNC_1
+csum_tcpudp_magic,FUNC_2
+csum_tcpudp_nofold,FUNC_3
+ip_hdr,FUNC_4
+nf_ip_checksum,FUNC_5
+skb,VAR_3
+hook,VAR_4
+dataoff,VAR_5
+protocol,VAR_6
+iph,VAR_7
+csum,VAR_8

@@ -1,0 +1,16 @@
+E2BIG,VAR_0
+EFAULT,VAR_1
+GFP_KERNEL,VAR_2
+copy_from_user,FUNC_0
+fb_alloc_cmap_gfp,FUNC_1
+fb_dealloc_cmap,FUNC_2
+fb_set_cmap,FUNC_3
+lock_fb_info,FUNC_4
+memset,FUNC_5
+unlock_fb_info,FUNC_6
+fb_set_user_cmap,FUNC_7
+cmap,VAR_3
+info,VAR_4
+rc,VAR_5
+size,VAR_6
+umap,VAR_7

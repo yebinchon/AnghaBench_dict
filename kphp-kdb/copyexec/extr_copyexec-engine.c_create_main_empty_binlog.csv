@@ -1,0 +1,17 @@
+COPYEXEC_MAIN_SCHEMA_V1,VAR_0
+LEV_COPYEXEC_MAIN_TRANSACTION_SKIP,VAR_1
+empty_binlog_volume_name,VAR_2
+exit,FUNC_0
+find_last_synchronization_point,FUNC_1
+get_random_bytes,FUNC_2
+instance_mask,VAR_3
+kprintf,FUNC_3
+make_empty_binlog,FUNC_4
+create_main_empty_binlog,FUNC_5
+binlog_name,VAR_4
+extra,VAR_5
+extra_len,VAR_6
+E,VAR_7
+lev_start_extra,VAR_8
+r,VAR_9
+sp,VAR_10

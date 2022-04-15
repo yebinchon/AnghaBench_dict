@@ -1,0 +1,16 @@
+CMD_HEADER_READ,VAR_0
+EINVAL,VAR_1
+E_ELAN_INFO_FW_VER,VAR_2
+HEADER_SIZE,VAR_3
+MAX_RETRIES,VAR_4
+dev_dbg,FUNC_0
+dev_err,FUNC_1
+elants_i2c_execute_command,FUNC_2
+elants_i2c_parse_version,FUNC_3
+elants_i2c_query_fw_version,FUNC_4
+ts,VAR_5
+client,VAR_6
+error,VAR_7
+retry_cnt,VAR_8
+cmd,VAR_9
+resp,VAR_10

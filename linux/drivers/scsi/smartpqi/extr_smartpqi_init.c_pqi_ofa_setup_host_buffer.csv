@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+PQI_OFA_MEMORY_DESCRIPTOR_LENGTH,VAR_1
+PQI_OFA_SIGNATURE,VAR_2
+PQI_OFA_VERSION,VAR_3
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+dma_alloc_coherent,FUNC_2
+memcpy,FUNC_3
+pqi_ofa_alloc_host_buffer,FUNC_4
+put_unaligned_le16,FUNC_5
+pqi_ofa_setup_host_buffer,FUNC_6
+ctrl_info,VAR_4
+bytes_requested,VAR_5
+pqi_ofa_memory,VAR_6
+dev,VAR_7

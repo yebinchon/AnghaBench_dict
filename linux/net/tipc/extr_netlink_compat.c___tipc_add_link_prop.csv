@@ -1,0 +1,10 @@
+EINVAL,VAR_0
+TIPC_NLA_PROP_PRIO,VAR_1
+TIPC_NLA_PROP_TOL,VAR_2
+TIPC_NLA_PROP_WIN,VAR_3
+nla_put_u32,FUNC_0
+ntohl,FUNC_1
+__tipc_add_link_prop,FUNC_2
+skb,VAR_4
+msg,VAR_5
+lc,VAR_6

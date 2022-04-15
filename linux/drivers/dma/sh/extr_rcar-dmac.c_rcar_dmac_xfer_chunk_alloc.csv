@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+LIST_HEAD,FUNC_0
+RCAR_DMAC_XFER_CHUNKS_PER_PAGE,VAR_1
+get_zeroed_page,FUNC_1
+list,VAR_2
+list_add_tail,FUNC_2
+list_splice_tail,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+rcar_dmac_xfer_chunk_alloc,FUNC_6
+chan,VAR_3
+gfp,VAR_4
+page,VAR_5
+flags,VAR_6
+i,VAR_7
+chunk,VAR_8

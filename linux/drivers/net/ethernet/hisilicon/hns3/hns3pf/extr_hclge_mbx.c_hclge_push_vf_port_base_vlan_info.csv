@@ -1,0 +1,12 @@
+HCLGE_MBX_PUSH_VLAN_INFO,VAR_0
+MSG_DATA_SIZE,VAR_1
+hclge_send_mbx_msg,FUNC_0
+memcpy,FUNC_1
+hclge_push_vf_port_base_vlan_info,FUNC_2
+vport,VAR_2
+vfid,VAR_3
+state,VAR_4
+vlan_tag,VAR_5
+qos,VAR_6
+vlan_proto,VAR_7
+msg_data,VAR_8

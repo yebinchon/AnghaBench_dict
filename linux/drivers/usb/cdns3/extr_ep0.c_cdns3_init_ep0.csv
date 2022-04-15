@@ -1,0 +1,10 @@
+CDNS3_EP0_MAX_PACKET_LIMIT,VAR_0
+USB_ENDPOINT_XFER_CONTROL,VAR_1
+cdns3_allocate_trb_pool,FUNC_0
+cdns3_gadget_ep0_desc,VAR_2
+cdns3_gadget_ep0_ops,VAR_3
+sprintf,FUNC_1
+usb_ep_set_maxpacket_limit,FUNC_2
+cdns3_init_ep0,FUNC_3
+priv_dev,VAR_4
+priv_ep,VAR_5

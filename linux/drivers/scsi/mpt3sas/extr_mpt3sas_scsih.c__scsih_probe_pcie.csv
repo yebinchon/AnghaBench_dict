@@ -1,0 +1,11 @@
+MPI26_PCIEDEV0_ASTATUS_DEVICE_BLOCKED,VAR_0
+PCIE_CHANNEL,VAR_1
+_scsih_pcie_device_remove,FUNC_0
+get_next_pcie_device,FUNC_1
+pcie_device_make_active,FUNC_2
+pcie_device_put,FUNC_3
+scsi_add_device,FUNC_4
+_scsih_probe_pcie,FUNC_5
+ioc,VAR_2
+pcie_device,VAR_3
+rc,VAR_4

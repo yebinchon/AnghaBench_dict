@@ -1,0 +1,17 @@
+OPCODE,FUNC_0
+decode_3operands,FUNC_1
+decode_bcond,FUNC_2
+decode_bit_op,FUNC_3
+decode_extended,FUNC_4
+decode_imm_reg,FUNC_5
+decode_jump,FUNC_6
+decode_load_store,FUNC_7
+decode_reg_reg,FUNC_8
+r_read_le16,FUNC_9
+v810_decode_command,FUNC_10
+instr,VAR_0
+len,VAR_1
+cmd,VAR_2
+ret,VAR_3
+word1,VAR_4
+word2,VAR_5

@@ -1,0 +1,12 @@
+IXGBE_ATR_HASH_MASK,VAR_0
+IXGBE_COMPUTE_SIG_HASH_ITERATION,FUNC_0
+ntohl,FUNC_1
+ixgbe_atr_compute_sig_hash_82599,FUNC_2
+input,VAR_1
+common,VAR_2
+hi_hash_dword,VAR_3
+lo_hash_dword,VAR_4
+flow_vm_vlan,VAR_5
+sig_hash,VAR_6
+bucket_hash,VAR_7
+common_hash,VAR_8

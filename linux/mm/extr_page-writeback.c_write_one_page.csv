@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+PageLocked,FUNC_1
+WB_SYNC_ALL,VAR_0
+clear_page_dirty_for_io,FUNC_2
+filemap_check_errors,FUNC_3
+get_page,FUNC_4
+put_page,FUNC_5
+stub1,FUNC_6
+unlock_page,FUNC_7
+wait_on_page_writeback,FUNC_8
+write_one_page,FUNC_9
+page,VAR_1
+mapping,VAR_2
+ret,VAR_3
+wbc,VAR_4

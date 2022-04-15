@@ -1,0 +1,15 @@
+DestroyWindow,FUNC_0
+GetModuleHandleW,FUNC_1
+GetProcessHeap,FUNC_2
+HeapFree,FUNC_3
+IDataObject_AddRef,FUNC_4
+IStream_Release,FUNC_5
+TRACE,FUNC_6
+UnregisterClassW,FUNC_7
+clipbrd_wndclass,VAR_0
+set_src_dataobject,FUNC_8
+theOleClipboard,VAR_1
+OLEClipbrd_UnInitialize,FUNC_9
+clipbrd,VAR_2
+ole32W,VAR_3
+hinst,VAR_4

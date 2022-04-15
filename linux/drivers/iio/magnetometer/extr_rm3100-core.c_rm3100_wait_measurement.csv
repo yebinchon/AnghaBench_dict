@@ -1,0 +1,14 @@
+ETIMEDOUT,VAR_0
+RM3100_REG_STATUS,VAR_1
+RM3100_STATUS_DRDY,VAR_2
+msecs_to_jiffies,FUNC_0
+regmap_read,FUNC_1
+reinit_completion,FUNC_2
+usleep_range,FUNC_3
+wait_for_completion_timeout,FUNC_4
+rm3100_wait_measurement,FUNC_5
+data,VAR_3
+regmap,VAR_4
+val,VAR_5
+tries,VAR_6
+ret,VAR_7

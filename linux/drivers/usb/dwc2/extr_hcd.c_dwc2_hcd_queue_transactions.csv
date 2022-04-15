@@ -1,0 +1,15 @@
+DWC2_TRANSACTION_ALL,VAR_0
+DWC2_TRANSACTION_NON_PERIODIC,VAR_1
+DWC2_TRANSACTION_PERIODIC,VAR_2
+GINTMSK,VAR_3
+GINTSTS_NPTXFEMP,VAR_4
+dev_vdbg,FUNC_0
+dwc2_process_non_periodic_channels,FUNC_1
+dwc2_process_periodic_channels,FUNC_2
+dwc2_readl,FUNC_3
+dwc2_writel,FUNC_4
+list_empty,FUNC_5
+dwc2_hcd_queue_transactions,FUNC_6
+hsotg,VAR_5
+tr_type,VAR_6
+gintmsk,VAR_7

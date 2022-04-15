@@ -1,0 +1,11 @@
+CTLFLAG_RD,VAR_0
+OID_AUTO,VAR_1
+SYSCTL_ADD_UINT,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+device_get_sysctl_ctx,FUNC_2
+device_get_sysctl_tree,FUNC_3
+sysctl_num_rds_rings,VAR_2
+sysctl_num_sds_rings,VAR_3
+qla_hw_add_sysctls,FUNC_4
+ha,VAR_4
+dev,VAR_5

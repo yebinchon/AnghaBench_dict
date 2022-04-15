@@ -1,0 +1,14 @@
+ADF_CFG_MAX_KEY_LEN_IN_BYTES,VAR_0
+ADF_CFG_MAX_VAL_LEN_IN_BYTES,VAR_1
+EFAULT,VAR_2
+adf_cfg_get_param_value,FUNC_0
+kstrtouint,FUNC_1
+snprintf,FUNC_2
+adf_get_cfg_int,FUNC_3
+accel_dev,VAR_3
+section,VAR_4
+format,VAR_5
+key,VAR_6
+value,VAR_7
+key_buf,VAR_8
+val_buf,VAR_9

@@ -1,0 +1,16 @@
+IRQF_VALID,VAR_0
+NMK_GPIO_PER_CHIP,VAR_1
+NOMADIK_GPIO_TO_IRQ,FUNC_0
+handle_edge_irq,VAR_2
+nmk_gpio_irq_chip,VAR_3
+nmk_gpio_irq_handler,VAR_4
+set_irq_chained_handler,FUNC_1
+set_irq_chip,FUNC_2
+set_irq_chip_data,FUNC_3
+set_irq_data,FUNC_4
+set_irq_flags,FUNC_5
+set_irq_handler,FUNC_6
+nmk_gpio_init_irq,FUNC_7
+nmk_chip,VAR_5
+first_irq,VAR_6
+i,VAR_7

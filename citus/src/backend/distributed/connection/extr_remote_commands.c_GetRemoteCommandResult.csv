@@ -1,0 +1,13 @@
+Assert,FUNC_0
+CONNECTION_BAD,VAR_0
+FinishConnectionIO,FUNC_1
+PGRES_FATAL_ERROR,VAR_1
+PQgetResult,FUNC_2
+PQisBusy,FUNC_3
+PQmakeEmptyPGresult,FUNC_4
+PQstatus,FUNC_5
+GetRemoteCommandResult,FUNC_6
+connection,VAR_2
+raiseInterrupts,VAR_3
+pgConn,VAR_4
+result,VAR_5

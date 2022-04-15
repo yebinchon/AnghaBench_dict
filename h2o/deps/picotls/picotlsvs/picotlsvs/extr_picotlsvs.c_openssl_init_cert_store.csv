@@ -1,0 +1,12 @@
+X509_FILETYPE_PEM,VAR_0
+X509_LOOKUP_file,FUNC_0
+X509_LOOKUP_load_file,FUNC_1
+X509_STORE_add_lookup,FUNC_2
+X509_STORE_new,FUNC_3
+fprintf,FUNC_4
+stderr,VAR_1
+openssl_init_cert_store,FUNC_5
+crt_file,VAR_2
+ret,VAR_3
+store,VAR_4
+lookup,VAR_5

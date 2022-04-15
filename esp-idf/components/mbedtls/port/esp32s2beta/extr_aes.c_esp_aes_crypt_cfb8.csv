@@ -1,0 +1,16 @@
+ESP_AES_DECRYPT,VAR_0
+ESP_AES_ENCRYPT,VAR_1
+esp_aes_acquire_hardware,FUNC_0
+esp_aes_block,FUNC_1
+esp_aes_release_hardware,FUNC_2
+esp_aes_setkey_hardware,FUNC_3
+memcpy,FUNC_4
+esp_aes_crypt_cfb8,FUNC_5
+ctx,VAR_2
+mode,VAR_3
+length,VAR_4
+iv,VAR_5
+input,VAR_6
+output,VAR_7
+c,VAR_8
+ov,VAR_9

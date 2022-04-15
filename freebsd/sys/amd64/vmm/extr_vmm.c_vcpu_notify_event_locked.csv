@@ -1,0 +1,13 @@
+KASSERT,FUNC_0
+NOCPU,VAR_0
+VCPU_RUNNING,VAR_1
+VCPU_SLEEPING,VAR_2
+curcpu,VAR_3
+ipi_cpu,FUNC_1
+vlapic_post_intr,FUNC_2
+vmm_ipinum,VAR_4
+wakeup_one,FUNC_3
+vcpu_notify_event_locked,FUNC_4
+vcpu,VAR_5
+lapic_intr,VAR_6
+hostcpu,VAR_7

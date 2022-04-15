@@ -1,0 +1,16 @@
+EIO,VAR_0
+REQ_OP_WRITE,VAR_1
+WARN_ON,FUNC_0
+atomic_read,FUNC_1
+buffer_uptodate,FUNC_2
+end_buffer_write_sync,VAR_2
+get_bh,FUNC_3
+lock_buffer,FUNC_4
+submit_bh,FUNC_5
+test_clear_buffer_dirty,FUNC_6
+unlock_buffer,FUNC_7
+wait_on_buffer,FUNC_8
+__sync_dirty_buffer,FUNC_9
+bh,VAR_3
+op_flags,VAR_4
+ret,VAR_5

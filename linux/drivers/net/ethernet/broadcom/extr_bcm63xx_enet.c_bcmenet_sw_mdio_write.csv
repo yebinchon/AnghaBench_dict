@@ -1,0 +1,16 @@
+ENETSW_MDIOC_EXT_MASK,VAR_0
+ENETSW_MDIOC_PHYID_SHIFT,VAR_1
+ENETSW_MDIOC_REG,VAR_2
+ENETSW_MDIOC_REG_SHIFT,VAR_3
+ENETSW_MDIOC_WR_MASK,VAR_4
+enetsw_writel,FUNC_0
+spin_lock_bh,FUNC_1
+spin_unlock_bh,FUNC_2
+udelay,FUNC_3
+bcmenet_sw_mdio_write,FUNC_4
+priv,VAR_5
+ext,VAR_6
+phy_id,VAR_7
+location,VAR_8
+data,VAR_9
+reg,VAR_10

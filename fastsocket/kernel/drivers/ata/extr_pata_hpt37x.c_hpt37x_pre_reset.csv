@@ -1,0 +1,17 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+ENOENT,VAR_2
+ata_sff_prereset,FUNC_0
+pci_read_config_byte,FUNC_1
+pci_test_config_bits,FUNC_2
+pci_write_config_byte,FUNC_3
+to_pci_dev,FUNC_4
+udelay,FUNC_5
+hpt37x_pre_reset,FUNC_6
+link,VAR_3
+deadline,VAR_4
+scr2,VAR_5
+ata66,VAR_6
+ap,VAR_7
+pdev,VAR_8
+hpt37x_enable_bits,VAR_9

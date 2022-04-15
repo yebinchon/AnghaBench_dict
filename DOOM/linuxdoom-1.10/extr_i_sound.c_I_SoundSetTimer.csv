@@ -1,0 +1,15 @@
+I_HandleSoundTimer,VAR_0
+SA_RESTART,VAR_1
+fprintf,FUNC_0
+itimer,VAR_2
+setitimer,FUNC_1
+sig,VAR_3
+sigaction,FUNC_2
+stderr,VAR_4
+I_SoundSetTimer,FUNC_3
+duration_of_tick,VAR_5
+value,VAR_6
+ovalue,VAR_7
+act,VAR_8
+oact,VAR_9
+res,VAR_10

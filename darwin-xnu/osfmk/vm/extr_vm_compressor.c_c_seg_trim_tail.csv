@@ -1,0 +1,17 @@
+C_SEG_BYTES_TO_OFFSET,FUNC_0
+C_SEG_OFFSET_ALIGNMENT_MASK,VAR_0
+C_SEG_OFFSET_TO_BYTES,FUNC_1
+C_SEG_SLOT_FROM_INDEX,FUNC_2
+PAGE_SIZE,VAR_1
+UNPACK_C_SIZE,FUNC_3
+assert,FUNC_4
+c_seg_trim_page_count,VAR_2
+round_page_32,FUNC_5
+c_seg_trim_tail,FUNC_6
+c_seg,VAR_3
+cs,VAR_4
+c_size,VAR_5
+c_offset,VAR_6
+c_rounded_size,VAR_7
+current_nextslot,VAR_8
+current_populated_offset,VAR_9

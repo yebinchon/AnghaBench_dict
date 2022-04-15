@@ -1,0 +1,16 @@
+BUS_DMA_ALLOCNOW,VAR_0
+BUS_DMA_NOWAIT,VAR_1
+BUS_SPACE_MAXADDR,VAR_2
+BUS_SPACE_MAXADDR_32BIT,VAR_3
+MAX_PHYSICAL_DEVICES,VAR_4
+bus_dma_tag_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+bzero,FUNC_3
+device_printf,FUNC_4
+megasas_sync_pd_seq_num,FUNC_5
+mrsas_addr_cb,VAR_5
+megasas_setup_jbod_map,FUNC_6
+sc,VAR_6
+i,VAR_7
+pd_seq_map_sz,VAR_8

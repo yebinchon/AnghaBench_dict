@@ -1,0 +1,11 @@
+SCI_SUCCESS,VAR_0
+SCU_TASK_DONE_CHECK_RESPONSE,VAR_1
+SCU_TASK_DONE_GOOD,VAR_2
+scic_sds_request_set_status,FUNC_0
+scic_sds_stp_packet_request_command_phase_common_frame_handler,FUNC_1
+scic_sds_stp_packet_request_process_status_fis,FUNC_2
+scic_sds_stp_packet_request_command_phase_await_tc_completion_frame_handler,FUNC_3
+request,VAR_3
+frame_index,VAR_4
+this_request,VAR_5
+status,VAR_6

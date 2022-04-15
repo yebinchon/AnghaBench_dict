@@ -1,0 +1,12 @@
+B0,VAR_0
+GET_FLASH_PERIOD,VAR_1
+IS_LAYER_ON,FUNC_0
+LAYER_SWITCH,VAR_2
+TIMEOUT_WARNING,VAR_3
+layer_off,FUNC_1
+layer_time_remaining,VAR_4
+prev_loop_time,VAR_5
+timer_read,FUNC_2
+writePinHigh,FUNC_3
+writePinLow,FUNC_4
+matrix_scan_user,FUNC_5

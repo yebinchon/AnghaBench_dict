@@ -1,0 +1,11 @@
+insert_recv_cqe,FUNC_0
+spin_lock,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+to_c4iw_cq,FUNC_5
+c4iw_flush_srqidx,FUNC_6
+qhp,VAR_0
+srqidx,VAR_1
+rchp,VAR_2
+flag,VAR_3

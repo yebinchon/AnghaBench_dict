@@ -1,0 +1,9 @@
+CHANNELMSG_TL_CONNECT_REQUEST,VAR_0
+memset,FUNC_0
+trace_vmbus_send_tl_connect_request,FUNC_1
+vmbus_post_msg,FUNC_2
+vmbus_send_tl_connect_request,FUNC_3
+shv_guest_servie_id,VAR_1
+shv_host_servie_id,VAR_2
+conn_msg,VAR_3
+ret,VAR_4

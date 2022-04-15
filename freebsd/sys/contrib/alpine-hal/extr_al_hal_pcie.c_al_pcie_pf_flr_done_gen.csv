@@ -1,0 +1,8 @@
+AL_PCIE_FLR_DONE_INTERVAL,VAR_0
+PCIE_W_GLOBAL_CTRL_EVENTS_GEN_FLR_PF_DONE,VAR_1
+al_reg_write32_masked,FUNC_0
+al_udelay,FUNC_1
+al_pcie_pf_flr_done_gen,FUNC_2
+pcie_pf,VAR_2
+regs,VAR_3
+pf_num,VAR_4

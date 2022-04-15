@@ -1,0 +1,15 @@
+ATSE_LOCK,FUNC_0
+ATSE_UNLOCK,FUNC_1
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_OACTIVE,VAR_1
+if_inc_counter,FUNC_2
+m_freem,FUNC_3
+xdma_dequeue_mbuf,FUNC_4
+atse_xdma_tx_intr,FUNC_5
+arg,VAR_2
+status,VAR_3
+st,VAR_4
+sc,VAR_5
+ifp,VAR_6
+m,VAR_7
+err,VAR_8

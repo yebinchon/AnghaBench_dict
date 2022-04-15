@@ -1,0 +1,14 @@
+F2FS_I,FUNC_0
+F2FS_I_SB,FUNC_1
+S_ISDIR,FUNC_2
+current_time,FUNC_3
+down_write,FUNC_4
+f2fs_add_orphan_inode,FUNC_5
+f2fs_i_links_write,FUNC_6
+f2fs_i_size_write,FUNC_7
+f2fs_release_orphan_inode,FUNC_8
+up_write,FUNC_9
+f2fs_drop_nlink,FUNC_10
+dir,VAR_0
+inode,VAR_1
+sbi,VAR_2

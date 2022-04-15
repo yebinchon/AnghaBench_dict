@@ -1,0 +1,8 @@
+CHIP_MIN_VOLUME,VAR_0
+VC_AUDIO_MSG_TYPE_CONTROL,VAR_1
+alsa2chip,FUNC_0
+bcm2835_audio_send_msg,FUNC_1
+bcm2835_audio_set_ctls,FUNC_2
+alsa_stream,VAR_2
+chip,VAR_3
+m,VAR_4

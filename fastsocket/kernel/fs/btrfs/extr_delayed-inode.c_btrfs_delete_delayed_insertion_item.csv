@@ -1,0 +1,10 @@
+__btrfs_lookup_delayed_insertion_item,FUNC_0
+btrfs_delayed_item_release_metadata,FUNC_1
+btrfs_release_delayed_item,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+btrfs_delete_delayed_insertion_item,FUNC_5
+root,VAR_0
+node,VAR_1
+key,VAR_2
+item,VAR_3

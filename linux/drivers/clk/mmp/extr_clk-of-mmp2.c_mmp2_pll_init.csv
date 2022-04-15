@@ -1,0 +1,16 @@
+ARRAY_SIZE,FUNC_0
+CLK_SET_RATE_PARENT,VAR_0
+MMP2_CLK_UART_PLL,VAR_1
+MPMU_UART_PLL,VAR_2
+fixed_factor_clks,VAR_3
+fixed_rate_clks,VAR_4
+mmp_clk_add,FUNC_1
+mmp_clk_register_factor,FUNC_2
+mmp_register_fixed_factor_clks,FUNC_3
+mmp_register_fixed_rate_clks,FUNC_4
+uart_factor_masks,VAR_5
+uart_factor_tbl,VAR_6
+mmp2_pll_init,FUNC_5
+pxa_unit,VAR_7
+clk,VAR_8
+unit,VAR_9

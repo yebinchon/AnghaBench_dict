@@ -1,0 +1,14 @@
+GIT_CHECKOUT_OPTIONS_INIT,VAR_0
+add_conflict,FUNC_0
+cl_assert,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_1
+git_checkout_index,FUNC_3
+git_index_free,FUNC_4
+git_index_get_bypath,FUNC_5
+git_index_new,FUNC_6
+git_repository_index,FUNC_7
+test_checkout_index__adding_conflict_removes_stage_0,FUNC_8
+new_index,VAR_2
+index,VAR_3
+opts,VAR_4

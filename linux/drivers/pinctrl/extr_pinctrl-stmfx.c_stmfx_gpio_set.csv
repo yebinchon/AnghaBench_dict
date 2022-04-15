@@ -1,0 +1,13 @@
+STMFX_REG_GPO_CLR,VAR_0
+STMFX_REG_GPO_SET,VAR_1
+get_mask,FUNC_0
+get_reg,FUNC_1
+gpiochip_get_data,FUNC_2
+regmap_write_bits,FUNC_3
+stmfx_gpio_set,FUNC_4
+gc,VAR_2
+offset,VAR_3
+value,VAR_4
+pctl,VAR_5
+reg,VAR_6
+mask,VAR_7

@@ -1,0 +1,12 @@
+SET_VLAN_INSERT,VAR_0
+SET_VLAN_STRIP,VAR_1
+__mlx5_eswitch_set_vport_vlan,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+mlx5_eswitch_set_vport_vlan,FUNC_3
+esw,VAR_2
+vport,VAR_3
+vlan,VAR_4
+qos,VAR_5
+set_flags,VAR_6
+err,VAR_7

@@ -1,0 +1,11 @@
+EMAC_TAG_TO_VLAN,FUNC_0
+ETH_P_8021Q,VAR_0
+__vlan_hwaccel_put_tag,FUNC_1
+htons,FUNC_2
+napi_gro_receive,FUNC_3
+emac_receive_skb,FUNC_4
+rx_q,VAR_1
+skb,VAR_2
+vlan_tag,VAR_3
+vlan_flag,VAR_4
+vlan,VAR_5

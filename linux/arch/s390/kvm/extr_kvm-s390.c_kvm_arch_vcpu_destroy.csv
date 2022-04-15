@@ -1,0 +1,14 @@
+VCPU_EVENT,FUNC_0
+free_page,FUNC_1
+gmap_remove,FUNC_2
+kmem_cache_free,FUNC_3
+kvm_clear_async_pf_completion_queue,FUNC_4
+kvm_is_ucontrol,FUNC_5
+kvm_s390_clear_local_irqs,FUNC_6
+kvm_s390_vcpu_unsetup_cmma,FUNC_7
+kvm_vcpu_cache,VAR_0
+kvm_vcpu_uninit,FUNC_8
+sca_del_vcpu,FUNC_9
+trace_kvm_s390_destroy_vcpu,FUNC_10
+kvm_arch_vcpu_destroy,FUNC_11
+vcpu,VAR_1

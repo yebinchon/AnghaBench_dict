@@ -1,0 +1,17 @@
+HTC_FWFLAG_NO_RMW,VAR_0
+REG_READ,FUNC_0
+REG_WRITE,FUNC_1
+ath9k_hw_common,FUNC_2
+ath9k_reg_rmw_buffer,FUNC_3
+ath9k_reg_rmw_single,FUNC_4
+atomic_read,FUNC_5
+test_bit,FUNC_6
+ath9k_reg_rmw,FUNC_7
+hw_priv,VAR_1
+reg_offset,VAR_2
+set,VAR_3
+clr,VAR_4
+ah,VAR_5
+common,VAR_6
+priv,VAR_7
+val,VAR_8

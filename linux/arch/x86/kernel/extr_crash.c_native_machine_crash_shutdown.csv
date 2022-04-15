@@ -1,0 +1,15 @@
+clear_IO_APIC,FUNC_0
+cpu_crash_vmclear_loaded_vmcss,FUNC_1
+cpu_emergency_stop_pt,FUNC_2
+cpu_emergency_svm_disable,FUNC_3
+cpu_emergency_vmxoff,FUNC_4
+crash_save_cpu,FUNC_5
+crash_smp_send_stop,FUNC_6
+hpet_disable,FUNC_7
+ioapic_zap_locks,FUNC_8
+lapic_shutdown,FUNC_9
+local_irq_disable,FUNC_10
+restore_boot_irq_mode,FUNC_11
+safe_smp_processor_id,FUNC_12
+native_machine_crash_shutdown,FUNC_13
+regs,VAR_0

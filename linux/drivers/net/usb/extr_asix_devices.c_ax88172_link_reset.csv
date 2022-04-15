@@ -1,0 +1,13 @@
+AX88172_MEDIUM_DEFAULT,VAR_0
+AX88172_MEDIUM_FD,VAR_1
+DUPLEX_FULL,VAR_2
+ETHTOOL_GSET,VAR_3
+asix_write_medium_mode,FUNC_0
+ethtool_cmd_speed,FUNC_1
+mii_check_media,FUNC_2
+mii_ethtool_gset,FUNC_3
+netdev_dbg,FUNC_4
+ax88172_link_reset,FUNC_5
+dev,VAR_4
+mode,VAR_5
+ecmd,VAR_6

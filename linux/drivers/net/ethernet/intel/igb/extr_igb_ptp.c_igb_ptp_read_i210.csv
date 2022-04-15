@@ -1,0 +1,10 @@
+E1000_SYSTIMH,VAR_0
+E1000_SYSTIML,VAR_1
+E1000_SYSTIMR,VAR_2
+rd32,FUNC_0
+igb_ptp_read_i210,FUNC_1
+adapter,VAR_3
+ts,VAR_4
+hw,VAR_5
+sec,VAR_6
+nsec,VAR_7

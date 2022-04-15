@@ -1,0 +1,11 @@
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+IFQ_DRV_IS_EMPTY,FUNC_0
+STGE_LOCK_ASSERT,FUNC_1
+if_inc_counter,FUNC_2
+if_printf,FUNC_3
+stge_init_locked,FUNC_4
+stge_start_locked,FUNC_5
+stge_watchdog,FUNC_6
+sc,VAR_2
+ifp,VAR_3

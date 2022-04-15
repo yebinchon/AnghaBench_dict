@@ -1,0 +1,16 @@
+CACHE_ID_RELEASE_r2p0,VAR_0
+CACHE_ID_RELEASE_r3p0,VAR_1
+PL310_CLEAN_INV_LINE_IDX,VAR_2
+PL310_CLEAN_INV_WAY,VAR_3
+PL310_LOCK,FUNC_0
+PL310_UNLOCK,FUNC_1
+g_l2cache_line_size,VAR_4
+g_l2cache_way_mask,VAR_5
+g_way_size,VAR_6
+g_ways_assoc,VAR_7
+pl310_cache_sync,FUNC_2
+pl310_softc,VAR_8
+pl310_wait_background_op,FUNC_3
+pl310_write4,FUNC_4
+platform_pl310_write_debug,FUNC_5
+pl310_wbinv_all,FUNC_6

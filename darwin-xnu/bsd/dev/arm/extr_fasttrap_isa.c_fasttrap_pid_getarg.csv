@@ -1,0 +1,16 @@
+CPU_DTRACE_BADADDR,VAR_0
+CPU_DTRACE_NOFAULT,VAR_1
+DTRACE_CPUFLAG_CLEAR,FUNC_0
+DTRACE_CPUFLAG_SET,FUNC_1
+current_thread,FUNC_2
+dtrace_fuword32,FUNC_3
+find_user_regs,FUNC_4
+fasttrap_pid_getarg,FUNC_5
+arg,VAR_2
+id,VAR_3
+parg,VAR_4
+argno,VAR_5
+aframes,VAR_6
+regs,VAR_7
+value,VAR_8
+sp,VAR_9

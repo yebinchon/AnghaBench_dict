@@ -1,0 +1,12 @@
+PHASE_OUT_OF_GUEST,VAR_0
+PHASE_RESET_LPCR,VAR_1
+SPRN_LPCR,VAR_2
+SPRN_LPID,VAR_3
+isync,FUNC_0
+local_paca,VAR_4
+mtspr,FUNC_1
+smp_mb,FUNC_2
+smp_wmb,FUNC_3
+wait_for_sync,FUNC_4
+kvmhv_p9_restore_lpcr,FUNC_5
+sip,VAR_5

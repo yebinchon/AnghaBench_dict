@@ -1,0 +1,17 @@
+HC_STATE_RUNNING,VAR_0
+VHCI_NPORTS,VAR_1
+atomic_set,FUNC_0
+dev_attr_group,VAR_2
+hcd_to_vhci,FUNC_1
+spin_lock_init,FUNC_2
+sysfs_create_group,FUNC_3
+usbip_dbg_vhci_hc,FUNC_4
+usbip_uerr,FUNC_5
+vhci_dev,FUNC_6
+vhci_device_init,FUNC_7
+vhci_start,FUNC_8
+hcd,VAR_3
+vhci,VAR_4
+rhport,VAR_5
+err,VAR_6
+vdev,VAR_7

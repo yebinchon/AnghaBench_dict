@@ -1,0 +1,10 @@
+EINTR,VAR_0
+EPOLL_CTL_DEL,VAR_1
+H2O_SOCKET_FLAG__EPOLL_IS_REGISTERED,VAR_2
+epoll_ctl,FUNC_0
+errno,VAR_3
+h2o_error_printf,FUNC_1
+evloop_do_on_socket_export,FUNC_2
+sock,VAR_4
+loop,VAR_5
+ret,VAR_6

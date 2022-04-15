@@ -1,0 +1,11 @@
+IF_DSKBLK,VAR_0
+IF_SOFT,VAR_1
+IF_TBE,VAR_2
+IRQ_AMIGA_DSKBLK,VAR_3
+IRQ_AMIGA_SOFT,VAR_4
+IRQ_AMIGA_TBE,VAR_5
+amiga_custom,VAR_6
+generic_handle_irq,FUNC_0
+ami_int1,FUNC_1
+desc,VAR_7
+ints,VAR_8

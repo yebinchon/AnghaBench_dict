@@ -1,0 +1,11 @@
+S_BUFWAIT,VAR_0
+S_IDLE,VAR_1
+S_STREAMING,VAR_2
+VB2_BUF_STATE_ERROR,VAR_3
+cam_dbg,FUNC_0
+mcam_ctlr_stop_dma,FUNC_1
+mcam_vb_requeue_bufs,FUNC_2
+vb2_get_drv_priv,FUNC_3
+mcam_vb_stop_streaming,FUNC_4
+vq,VAR_4
+cam,VAR_5

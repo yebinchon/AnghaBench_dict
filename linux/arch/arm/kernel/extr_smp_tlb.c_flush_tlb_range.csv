@@ -1,0 +1,11 @@
+broadcast_tlb_mm_a15_erratum,FUNC_0
+ipi_flush_tlb_range,VAR_0
+local_flush_tlb_range,FUNC_1
+mm_cpumask,FUNC_2
+on_each_cpu_mask,FUNC_3
+tlb_ops_need_broadcast,FUNC_4
+flush_tlb_range,FUNC_5
+vma,VAR_1
+start,VAR_2
+end,VAR_3
+ta,VAR_4

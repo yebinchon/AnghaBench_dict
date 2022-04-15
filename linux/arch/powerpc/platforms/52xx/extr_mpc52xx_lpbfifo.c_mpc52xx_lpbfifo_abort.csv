@@ -1,0 +1,10 @@
+LPBFIFO_REG_ENABLE,VAR_0
+bcom_gen_bd_rx_reset,FUNC_0
+bcom_gen_bd_tx_reset,FUNC_1
+lpbfifo,VAR_1
+out_be32,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+mpc52xx_lpbfifo_abort,FUNC_5
+req,VAR_2
+flags,VAR_3

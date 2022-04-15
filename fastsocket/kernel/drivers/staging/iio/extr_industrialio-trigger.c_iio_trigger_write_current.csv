@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+IIO_TRIGGER_NAME_LENGTH,VAR_1
+INDIO_RING_TRIGGERED,VAR_2
+dev_get_drvdata,FUNC_0
+iio_get_trigger,FUNC_1
+iio_put_trigger,FUNC_2
+iio_trigger_find_by_name,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+iio_trigger_write_current,FUNC_6
+dev,VAR_3
+attr,VAR_4
+buf,VAR_5
+len,VAR_6
+dev_info,VAR_7
+oldtrig,VAR_8

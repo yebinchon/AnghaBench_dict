@@ -1,0 +1,13 @@
+ETH_ALEN,VAR_0
+GMAC_STA_ADD0,VAR_1
+GMAC_STA_ADD1,VAR_2
+GMAC_STA_ADD2,VAR_3
+le32_to_cpu,FUNC_0
+memcpy,FUNC_1
+memset,FUNC_2
+netdev_priv,FUNC_3
+writel,FUNC_4
+gmac_write_mac_address,FUNC_5
+netdev,VAR_4
+port,VAR_5
+addr,VAR_6

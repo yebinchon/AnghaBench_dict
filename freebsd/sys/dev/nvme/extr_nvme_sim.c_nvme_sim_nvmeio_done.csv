@@ -1,0 +1,11 @@
+CAM_REQ_CMP,VAR_0
+CAM_REQ_CMP_ERR,VAR_1
+CAM_SIM_QUEUED,VAR_2
+memcpy,FUNC_0
+nvme_completion_is_error,FUNC_1
+xpt_done,FUNC_2
+xpt_done_direct,FUNC_3
+nvme_sim_nvmeio_done,FUNC_4
+ccb_arg,VAR_3
+cpl,VAR_4
+ccb,VAR_5

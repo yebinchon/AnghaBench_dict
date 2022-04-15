@@ -1,0 +1,14 @@
+AVPALETTE_SIZE,VAR_0
+MP_IMGFLAG_PAL,VAR_1
+assert,FUNC_0
+memcpy,FUNC_1
+memcpy_pic,FUNC_2
+mp_image_is_writeable,FUNC_3
+mp_image_plane_h,FUNC_4
+mp_image_plane_w,FUNC_5
+mp_image_copy,FUNC_6
+dst,VAR_2
+src,VAR_3
+n,VAR_4
+line_bytes,VAR_5
+plane_h,VAR_6

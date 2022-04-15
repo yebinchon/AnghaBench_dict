@@ -1,0 +1,17 @@
+CONFIG_OF,VAR_0
+GFP_KERNEL,VAR_1
+IS_ENABLED,FUNC_0
+V4L2_MBUS_HSYNC_ACTIVE_HIGH,VAR_2
+V4L2_MBUS_PCLK_SAMPLE_RISING,VAR_3
+V4L2_MBUS_VSYNC_ACTIVE_HIGH,VAR_4
+devm_kzalloc,FUNC_1
+of_fwnode_handle,FUNC_2
+of_graph_get_next_endpoint,FUNC_3
+of_node_put,FUNC_4
+v4l2_fwnode_endpoint_parse,FUNC_5
+tvp514x_get_pdata,FUNC_6
+client,VAR_5
+pdata,VAR_6
+bus_cfg,VAR_7
+endpoint,VAR_8
+flags,VAR_9

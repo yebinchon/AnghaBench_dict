@@ -1,0 +1,15 @@
+USB_BUF_SZ,VAR_0
+USB_DIR_IN,VAR_1
+USB_RECIP_INTERFACE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+memset,FUNC_0
+pr_err,FUNC_1
+unlikely,FUNC_2
+usb_control_msg,FUNC_3
+usb_rcvctrlpipe,FUNC_4
+reg_r,FUNC_5
+gspca_dev,VAR_4
+reg,VAR_5
+length,VAR_6
+dev,VAR_7
+result,VAR_8

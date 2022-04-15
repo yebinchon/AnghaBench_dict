@@ -1,0 +1,16 @@
+CMD_RX_EN,VAR_0
+CMD_TX_EN,VAR_1
+bcmgenet_disable_rx_napi,FUNC_0
+bcmgenet_disable_tx_napi,FUNC_1
+bcmgenet_dma_teardown,FUNC_2
+bcmgenet_fini_dma,FUNC_3
+bcmgenet_intr_disable,FUNC_4
+bcmgenet_tx_reclaim_all,FUNC_5
+cancel_work_sync,FUNC_6
+netdev_priv,FUNC_7
+netif_tx_disable,FUNC_8
+phy_stop,FUNC_9
+umac_enable_set,FUNC_10
+bcmgenet_netif_stop,FUNC_11
+dev,VAR_2
+priv,VAR_3

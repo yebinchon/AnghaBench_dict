@@ -1,0 +1,15 @@
+ENXIO,VAR_0
+GID_WHEEL,VAR_1
+UID_ROOT,VAR_2
+devclass_find,FUNC_0
+devclass_get_device,FUNC_1
+device_get_softc,FUNC_2
+device_get_unit,FUNC_3
+device_printf,FUNC_4
+fpga_cdevsw,VAR_3
+make_dev,FUNC_5
+sx_init,FUNC_6
+fpgamgr_s10_attach,FUNC_7
+dev,VAR_4
+sc,VAR_5
+dc,VAR_6

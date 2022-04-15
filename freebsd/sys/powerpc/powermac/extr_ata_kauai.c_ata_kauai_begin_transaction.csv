@@ -1,0 +1,8 @@
+PIO_CONFIG_REG,VAR_0
+UDMA_CONFIG_REG,VAR_1
+ata_begin_transaction,FUNC_0
+bus_write_4,FUNC_1
+device_get_softc,FUNC_2
+ata_kauai_begin_transaction,FUNC_3
+request,VAR_2
+sc,VAR_3

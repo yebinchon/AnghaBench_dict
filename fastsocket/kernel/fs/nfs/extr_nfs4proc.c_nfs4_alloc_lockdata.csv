@@ -1,0 +1,17 @@
+NFS_FH,FUNC_0
+NFS_SERVER,FUNC_1
+atomic_inc,FUNC_2
+get_nfs_open_context,FUNC_3
+kfree,FUNC_4
+kzalloc,FUNC_5
+memcpy,FUNC_6
+nfs_alloc_seqid,FUNC_7
+nfs_free_seqid,FUNC_8
+nfs4_alloc_lockdata,FUNC_9
+fl,VAR_0
+ctx,VAR_1
+lsp,VAR_2
+gfp_mask,VAR_3
+p,VAR_4
+inode,VAR_5
+server,VAR_6

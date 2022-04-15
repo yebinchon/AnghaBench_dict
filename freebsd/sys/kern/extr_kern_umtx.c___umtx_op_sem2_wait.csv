@@ -1,0 +1,12 @@
+EINTR,VAR_0
+UMTX_ABSTIME,VAR_1
+copyout,FUNC_0
+do_sem2_wait,FUNC_1
+umtx_copyin_umtx_time,FUNC_2
+__umtx_op_sem2_wait,FUNC_3
+td,VAR_2
+uap,VAR_3
+tm_p,VAR_4
+timeout,VAR_5
+uasize,VAR_6
+error,VAR_7

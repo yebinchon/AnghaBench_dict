@@ -1,0 +1,17 @@
+PM_TX_DBG_CTRL_A,VAR_0
+PM_TX_DBG_DATA_A,VAR_1
+PM_TX_DBG_STAT_MSB_A,VAR_2
+PM_TX_STAT_CONFIG_A,VAR_3
+PM_TX_STAT_COUNT_A,VAR_4
+PM_TX_STAT_LSB_A,VAR_5
+is_t4,FUNC_0
+t4_read_indirect,FUNC_1
+t4_read_reg,FUNC_2
+t4_read_reg64,FUNC_3
+t4_write_reg,FUNC_4
+t4_pmtx_get_stats,FUNC_5
+adap,VAR_6
+cnt,VAR_7
+cycles,VAR_8
+i,VAR_9
+data,VAR_10

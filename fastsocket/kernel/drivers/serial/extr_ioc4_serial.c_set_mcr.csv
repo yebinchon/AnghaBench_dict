@@ -1,0 +1,16 @@
+IOC4_SSCR_DMA_EN,VAR_0
+IOC4_SSCR_DMA_PAUSE,VAR_1
+IOC4_SSCR_PAUSE_STATE,VAR_2
+MAXITER,VAR_3
+get_ioc4_port,FUNC_0
+readl,FUNC_1
+writeb,FUNC_2
+writel,FUNC_3
+set_mcr,FUNC_4
+the_port,VAR_4
+mask1,VAR_5
+mask2,VAR_6
+port,VAR_7
+shadow,VAR_8
+spiniter,VAR_9
+mcr,VAR_10

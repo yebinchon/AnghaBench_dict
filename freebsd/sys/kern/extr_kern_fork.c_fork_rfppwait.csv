@@ -1,0 +1,17 @@
+MPASS,FUNC_0
+PROC_LOCK,FUNC_1
+PROC_UNLOCK,FUNC_2
+PTRACE_VFORK,VAR_0
+P_PPWAIT,VAR_1
+SIGTRAP,VAR_2
+TDB_VFORK,VAR_3
+TDP_RFPPWAIT,VAR_4
+cv_timedwait,FUNC_3
+hz,VAR_5
+ptracestop,FUNC_4
+thread_suspend_check,FUNC_5
+thread_suspend_check_needed,FUNC_6
+fork_rfppwait,FUNC_7
+td,VAR_6
+p,VAR_7
+p2,VAR_8

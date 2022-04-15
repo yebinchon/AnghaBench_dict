@@ -1,0 +1,15 @@
+ENOMEM,VAR_0
+MT_CMD_HDR_LEN,VAR_1
+__mt76x02u_mcu_send_msg,FUNC_0
+mt76_mcu_msg_alloc,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+mt76x02u_mcu_send_msg,FUNC_4
+dev,VAR_2
+cmd,VAR_3
+data,VAR_4
+len,VAR_5
+wait_resp,VAR_6
+usb,VAR_7
+skb,VAR_8
+err,VAR_9

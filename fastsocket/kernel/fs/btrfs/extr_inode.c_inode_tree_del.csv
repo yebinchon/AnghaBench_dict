@@ -1,0 +1,14 @@
+BTRFS_I,FUNC_0
+RB_CLEAR_NODE,FUNC_1
+RB_EMPTY_NODE,FUNC_2
+RB_EMPTY_ROOT,FUNC_3
+btrfs_add_dead_root,FUNC_4
+btrfs_root_refs,FUNC_5
+rb_erase,FUNC_6
+spin_lock,FUNC_7
+spin_unlock,FUNC_8
+synchronize_srcu,FUNC_9
+inode_tree_del,FUNC_10
+inode,VAR_0
+root,VAR_1
+empty,VAR_2

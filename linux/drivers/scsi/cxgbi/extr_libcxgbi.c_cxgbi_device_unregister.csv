@@ -1,0 +1,14 @@
+CXGBI_DBG_DEV,VAR_0
+cdev_mutex,VAR_1
+cdev_rcu_lock,VAR_2
+cxgbi_device_destroy,FUNC_0
+list_del,FUNC_1
+list_del_rcu,FUNC_2
+log_debug,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+synchronize_rcu,FUNC_8
+cxgbi_device_unregister,FUNC_9
+cdev,VAR_3

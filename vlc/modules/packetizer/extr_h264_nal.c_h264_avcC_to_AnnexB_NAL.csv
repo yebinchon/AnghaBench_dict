@@ -1,0 +1,15 @@
+annexb_startcode4,VAR_0
+get_avcC_to_AnnexB_NAL_size,FUNC_0
+malloc,FUNC_1
+memcpy,FUNC_2
+h264_avcC_to_AnnexB_NAL,FUNC_3
+p_buf,VAR_1
+i_buf,VAR_2
+pi_result,VAR_3
+pi_nal_length_size,VAR_4
+p_ret,VAR_5
+p_out_buf,VAR_6
+j,VAR_7
+i_loop_end,VAR_8
+i,VAR_9
+i_nal_size,VAR_10

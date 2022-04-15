@@ -1,0 +1,15 @@
+NFORCE2_BOOTFSB,VAR_0
+NFORCE2_PLLENABLE,VAR_1
+NFORCE2_PLLREG,VAR_2
+PCI_ANY_ID,VAR_3
+PCI_VENDOR_ID_NVIDIA,VAR_4
+nforce2_calc_fsb,FUNC_0
+nforce2_dev,VAR_5
+pci_get_subsys,FUNC_1
+pci_read_config_byte,FUNC_2
+pci_read_config_dword,FUNC_3
+nforce2_fsb_read,FUNC_4
+bootfsb,VAR_6
+nforce2_sub5,VAR_7
+fsb,VAR_8
+temp,VAR_9

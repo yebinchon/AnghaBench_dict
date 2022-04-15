@@ -1,0 +1,15 @@
+DDSCAPS_LOCALVIDMEM,VAR_0
+DDSCAPS_VIDEOMEMORY,VAR_1
+DirectDrawCreateEx,FUNC_0
+FALSE,VAR_2
+IDirectDraw7_GetAvailableVidMem,FUNC_1
+IDirectDraw7_Release,FUNC_2
+IID_IDirectDraw7,VAR_3
+SUCCEEDED,FUNC_3
+TRUE,VAR_4
+get_texture_memory,FUNC_4
+adapter,VAR_5
+available_mem,VAR_6
+pDirectDraw,VAR_7
+hr,VAR_8
+dd_caps,VAR_9

@@ -1,0 +1,15 @@
+SSL_CTX_get_options,FUNC_0
+SSL_CTX_set_options,FUNC_1
+SSL_CTX_set_tlsext_ticket_key_cb,FUNC_2
+SSL_OP_NO_TICKET,VAR_0
+conf,VAR_1
+encrypt_ticket_key_ptls,VAR_2
+h2o_multithread_create_thread,FUNC_3
+h2o_socket_ssl_get_picotls_context,FUNC_4
+pthread_attr_init,FUNC_5
+pthread_attr_setdetachstate,FUNC_6
+stub1,FUNC_7
+ticket_key_callback_ossl,VAR_3
+ssl_setup_session_resumption,FUNC_8
+contexts,VAR_4
+num_contexts,VAR_5

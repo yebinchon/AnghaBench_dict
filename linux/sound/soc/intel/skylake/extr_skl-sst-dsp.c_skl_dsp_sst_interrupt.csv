@@ -1,0 +1,16 @@
+IRQ_NONE,VAR_0
+IRQ_WAKE_THREAD,VAR_1
+SKL_ADSPIS_CL_DMA,VAR_2
+SKL_ADSPIS_IPC,VAR_3
+SKL_ADSP_REG_ADSPIS,VAR_4
+skl_cldma_int_disable,FUNC_0
+skl_ipc_int_disable,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+sst_dsp_shim_read_unlocked,FUNC_4
+skl_dsp_sst_interrupt,FUNC_5
+irq,VAR_5
+dev_id,VAR_6
+ctx,VAR_7
+val,VAR_8
+result,VAR_9

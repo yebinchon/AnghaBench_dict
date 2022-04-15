@@ -1,0 +1,12 @@
+DM_ERA_METADATA_BLOCK_SIZE,VAR_0
+MAX_ERA_VERSION,VAR_1
+SECTOR_SHIFT,VAR_2
+SUPERBLOCK_MAGIC,VAR_3
+copy_sm_root,FUNC_0
+cpu_to_le32,FUNC_1
+cpu_to_le64,FUNC_2
+memset,FUNC_3
+ws_pack,FUNC_4
+prepare_superblock,FUNC_5
+md,VAR_4
+disk,VAR_5

@@ -1,0 +1,11 @@
+DbgKdContinueApi2,VAR_0
+KD_E_OK,VAR_1
+KD_PACKET_TYPE_ACKNOWLEDGE,VAR_2
+KD_PACKET_TYPE_STATE_MANIPULATE,VAR_3
+kd_send_data_packet,FUNC_0
+r_list_free,FUNC_1
+windbg_wait_packet,FUNC_2
+windbg_continue,FUNC_3
+ctx,VAR_4
+req,VAR_5
+ret,VAR_6

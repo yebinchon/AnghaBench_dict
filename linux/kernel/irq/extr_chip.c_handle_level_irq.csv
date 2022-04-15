@@ -1,0 +1,14 @@
+IRQS_PENDING,VAR_0
+IRQS_REPLAY,VAR_1
+IRQS_WAITING,VAR_2
+cond_unmask_irq,FUNC_0
+handle_irq_event,FUNC_1
+irq_may_run,FUNC_2
+irqd_irq_disabled,FUNC_3
+kstat_incr_irqs_this_cpu,FUNC_4
+mask_ack_irq,FUNC_5
+raw_spin_lock,FUNC_6
+raw_spin_unlock,FUNC_7
+unlikely,FUNC_8
+handle_level_irq,FUNC_9
+desc,VAR_3

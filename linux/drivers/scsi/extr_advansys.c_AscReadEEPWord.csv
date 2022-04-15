@@ -1,0 +1,10 @@
+ASC_EEP_CMD_READ,VAR_0
+ASC_EEP_CMD_WRITE_DISABLE,VAR_1
+AscGetChipEEPData,FUNC_0
+AscWaitEEPRead,FUNC_1
+AscWriteEEPCmdReg,FUNC_2
+AscReadEEPWord,FUNC_3
+iop_base,VAR_2
+addr,VAR_3
+read_wval,VAR_4
+cmd_reg,VAR_5

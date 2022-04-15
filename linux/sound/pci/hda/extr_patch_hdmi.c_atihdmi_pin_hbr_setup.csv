@@ -1,0 +1,14 @@
+ATI_HBR_CAPABLE,VAR_0
+ATI_HBR_ENABLE,VAR_1
+ATI_VERB_GET_HBR_CONTROL,VAR_2
+ATI_VERB_SET_HBR_CONTROL,VAR_3
+EINVAL,VAR_4
+codec_dbg,FUNC_0
+snd_hda_codec_read,FUNC_1
+snd_hda_codec_write,FUNC_2
+atihdmi_pin_hbr_setup,FUNC_3
+codec,VAR_5
+pin_nid,VAR_6
+hbr,VAR_7
+hbr_ctl,VAR_8
+hbr_ctl_new,VAR_9

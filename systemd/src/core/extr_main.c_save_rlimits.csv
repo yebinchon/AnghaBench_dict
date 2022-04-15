@@ -1,0 +1,9 @@
+RLIMIT_MEMLOCK,VAR_0
+RLIMIT_NOFILE,VAR_1
+assert,FUNC_0
+errno,VAR_2
+getrlimit,FUNC_1
+log_warning_errno,FUNC_2
+save_rlimits,FUNC_3
+saved_rlimit_nofile,VAR_3
+saved_rlimit_memlock,VAR_4

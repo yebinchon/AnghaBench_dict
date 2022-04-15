@@ -1,0 +1,14 @@
+BIO_DELETE,VAR_0
+BIO_WRITE,VAR_1
+G_RAID_BIO_FLAG_SPECIAL,VAR_2
+G_RAID_LOGREQ,FUNC_0
+G_RAID_TR_IOSTART,FUNC_1
+SX_LOCKED,VAR_3
+bioq_insert_tail,FUNC_2
+g_raid_dirty,FUNC_3
+g_raid_is_in_locked_range,FUNC_4
+sx_assert,FUNC_5
+g_raid_start_request,FUNC_6
+bp,VAR_4
+sc,VAR_5
+vol,VAR_6

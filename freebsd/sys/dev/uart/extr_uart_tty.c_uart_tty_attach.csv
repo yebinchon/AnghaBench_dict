@@ -1,0 +1,17 @@
+INTR_TYPE_TTY,VAR_0
+SWI_TTY,VAR_1
+UART_DEV_CONSOLE,VAR_2
+device_get_unit,FUNC_0
+sprintf,FUNC_1
+swi_add,FUNC_2
+tty_alloc,FUNC_3
+tty_init_console,FUNC_4
+tty_intr_event,VAR_3
+tty_makedev,FUNC_5
+uart_driver_name,VAR_4
+uart_tty_class,VAR_5
+uart_tty_intr,VAR_6
+uart_tty_attach,FUNC_6
+sc,VAR_7
+tp,VAR_8
+unit,VAR_9

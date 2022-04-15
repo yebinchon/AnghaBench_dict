@@ -1,0 +1,15 @@
+SQLITE_AFF_BLOB,VAR_0
+SQLITE_AFF_INTEGER,VAR_1
+XN_EXPR,VAR_2
+XN_ROWID,VAR_3
+assert,FUNC_0
+sqlite3DbMallocRaw,FUNC_1
+sqlite3ExprAffinity,FUNC_2
+sqlite3OomFault,FUNC_3
+sqlite3IndexAffinityStr,FUNC_4
+db,VAR_4
+pIdx,VAR_5
+n,VAR_6
+pTab,VAR_7
+x,VAR_8
+aff,VAR_9

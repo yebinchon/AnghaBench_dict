@@ -1,0 +1,15 @@
+LOG_ERR,VAR_0
+SA_RESTART,VAR_1
+SIGHUP,VAR_2
+SIGINT,VAR_3
+SIGTERM,VAR_4
+SIGUSR1,VAR_5
+exit,FUNC_0
+onhup,VAR_6
+onterm,VAR_7
+onusr1,VAR_8
+sigaction,FUNC_1
+sigemptyset,FUNC_2
+syslog,FUNC_3
+init_sigs,FUNC_4
+sa,VAR_9

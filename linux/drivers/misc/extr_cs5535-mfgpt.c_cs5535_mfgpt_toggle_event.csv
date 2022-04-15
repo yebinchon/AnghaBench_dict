@@ -1,0 +1,17 @@
+EIO,VAR_0
+MFGPT_CMP1,VAR_1
+MSR_MFGPT_IRQ,VAR_2
+MSR_MFGPT_NR,VAR_3
+WARN_ON,FUNC_0
+rdmsr,FUNC_1
+wrmsr,FUNC_2
+cs5535_mfgpt_toggle_event,FUNC_3
+timer,VAR_4
+cmp,VAR_5
+event,VAR_6
+enable,VAR_7
+msr,VAR_8
+mask,VAR_9
+value,VAR_10
+dummy,VAR_11
+shift,VAR_12

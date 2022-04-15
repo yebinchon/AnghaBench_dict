@@ -1,0 +1,15 @@
+INP_FC_FEEDBACK,VAR_0
+INP_WAIT_FOR_IF_FEEDBACK,FUNC_0
+SOCK_STREAM,VAR_1
+SOCK_TYPE,FUNC_1
+VERIFY,FUNC_2
+WNT_RELEASE,VAR_2
+WNT_STOPUSING,VAR_3
+in_pcb_checkstate,FUNC_3
+inp_fc_unthrottle_tcp,FUNC_4
+inp_reset_fc_state,FUNC_5
+socket_lock,FUNC_6
+socket_unlock,FUNC_7
+inp_fc_feedback,FUNC_8
+inp,VAR_4
+so,VAR_5

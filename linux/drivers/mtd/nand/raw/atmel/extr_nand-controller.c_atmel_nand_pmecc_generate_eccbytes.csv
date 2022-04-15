@@ -1,0 +1,17 @@
+atmel_pmecc_get_generated_eccbytes,FUNC_0
+atmel_pmecc_wait_rdy,FUNC_1
+dev_err,FUNC_2
+mtd_ooblayout_ecc,FUNC_3
+nand_to_mtd,FUNC_4
+to_atmel_nand,FUNC_5
+to_nand_controller,FUNC_6
+atmel_nand_pmecc_generate_eccbytes,FUNC_7
+chip,VAR_0
+raw,VAR_1
+nand,VAR_2
+mtd,VAR_3
+nc,VAR_4
+oobregion,VAR_5
+eccbuf,VAR_6
+ret,VAR_7
+i,VAR_8

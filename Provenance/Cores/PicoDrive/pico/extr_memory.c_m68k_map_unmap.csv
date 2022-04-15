@@ -1,0 +1,16 @@
+M68K_MEM_SHIFT,VAR_0
+MAP_FLAG,VAR_1
+m68k_read16_map,VAR_2
+m68k_read8_map,VAR_3
+m68k_unmapped_read16,VAR_4
+m68k_unmapped_read8,VAR_5
+m68k_unmapped_write16,VAR_6
+m68k_unmapped_write8,VAR_7
+m68k_write16_map,VAR_8
+m68k_write8_map,VAR_9
+m68k_map_unmap,FUNC_0
+start_addr,VAR_10
+end_addr,VAR_11
+addr,VAR_12
+shift,VAR_13
+i,VAR_14

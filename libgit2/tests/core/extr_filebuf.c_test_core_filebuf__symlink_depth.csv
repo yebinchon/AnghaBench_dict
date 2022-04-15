@@ -1,0 +1,15 @@
+GIT_FILEBUF_INIT,VAR_0
+GIT_RMDIR_REMOVE_FILES,VAR_1
+cl_git_fail,FUNC_0
+cl_git_pass,FUNC_1
+cl_skip,FUNC_2
+clar_sandbox_path,FUNC_3
+git_filebuf_open,FUNC_4
+git_futils_rmdir_r,FUNC_5
+git_path_supports_symlinks,FUNC_6
+p_mkdir,FUNC_7
+p_symlink,FUNC_8
+test_core_filebuf__symlink_depth,FUNC_9
+file,VAR_2
+dir,VAR_3
+source,VAR_4

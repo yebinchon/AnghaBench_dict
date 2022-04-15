@@ -1,0 +1,15 @@
+AudioTrack_ResetPositions,FUNC_0
+CHECK_AT_EXCEPTION,FUNC_1
+GET_ENV,FUNC_2
+JNI_AT_CALL_VOID,FUNC_3
+VLC_UNUSED,FUNC_4
+pause,VAR_0
+play,VAR_1
+vlc_mutex_lock,FUNC_5
+vlc_mutex_unlock,FUNC_6
+Pause,FUNC_7
+p_aout,VAR_2
+b_pause,VAR_3
+i_date,VAR_4
+p_sys,VAR_5
+env,VAR_6

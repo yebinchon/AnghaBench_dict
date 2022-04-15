@@ -1,0 +1,13 @@
+BATADV_FLAG_NEED_HARDIF,VAR_0
+BATADV_FLAG_NEED_MESH,VAR_1
+BATADV_FLAG_NEED_VLAN,VAR_2
+batadv_hardif_put,FUNC_0
+batadv_softif_vlan_put,FUNC_1
+dev_put,FUNC_2
+batadv_post_doit,FUNC_3
+ops,VAR_3
+skb,VAR_4
+info,VAR_5
+hard_iface,VAR_6
+vlan,VAR_7
+bat_priv,VAR_8

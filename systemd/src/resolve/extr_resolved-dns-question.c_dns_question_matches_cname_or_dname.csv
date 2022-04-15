@@ -1,0 +1,12 @@
+DNS_TYPE_CNAME,VAR_0
+DNS_TYPE_DNAME,VAR_1
+IN_SET,FUNC_0
+assert,FUNC_1
+dns_resource_key_match_cname_or_dname,FUNC_2
+dns_type_may_redirect,FUNC_3
+dns_question_matches_cname_or_dname,FUNC_4
+q,VAR_2
+rr,VAR_3
+search_domain,VAR_4
+i,VAR_5
+r,VAR_6

@@ -1,0 +1,17 @@
+ESP_ERR_HTTPD_INVALID_REQ,VAR_0
+ESP_ERR_HTTPD_RESULT_TRUNC,VAR_1
+ESP_ERR_INVALID_ARG,VAR_2
+ESP_ERR_NOT_FOUND,VAR_3
+ESP_OK,VAR_4
+MIN,FUNC_0
+UF_QUERY,VAR_5
+httpd_valid_req,FUNC_1
+strlcpy,FUNC_2
+httpd_req_get_url_query_str,FUNC_3
+r,VAR_6
+buf,VAR_7
+buf_len,VAR_8
+ra,VAR_9
+res,VAR_10
+qry,VAR_11
+min_buf_len,VAR_12

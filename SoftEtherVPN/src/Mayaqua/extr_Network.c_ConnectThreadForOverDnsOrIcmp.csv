@@ -1,0 +1,12 @@
+IP_PROTO_ICMPV4,VAR_0
+MAKE_SPECIAL_PORT,FUNC_0
+NewRUDPClientDirect,FUNC_1
+RUDP_PROTOCOL_DNS,VAR_1
+Set,FUNC_2
+Tick64,FUNC_3
+WaitEx,FUNC_4
+ConnectThreadForOverDnsOrIcmp,FUNC_5
+thread,VAR_2
+param,VAR_3
+sock,VAR_4
+p,VAR_5

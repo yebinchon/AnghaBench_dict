@@ -1,0 +1,10 @@
+TI_I2C_LOCK_DESTROY,FUNC_0
+bus_generic_detach,FUNC_1
+device_delete_child,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+ti_i2c_deactivate,FUNC_5
+ti_i2c_detach,FUNC_6
+dev,VAR_0
+sc,VAR_1
+rv,VAR_2

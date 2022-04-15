@@ -1,0 +1,15 @@
+CODA_BIT_STREAM_END_FLAG,VAR_0
+V4L2_BUF_FLAG_LAST,VAR_1
+coda_try_encoder_cmd,FUNC_0
+coda_wake_up_capture_queue,FUNC_1
+fh_to_ctx,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+v4l2_m2m_last_src_buf,FUNC_5
+coda_encoder_cmd,FUNC_6
+file,VAR_2
+fh,VAR_3
+ec,VAR_4
+ctx,VAR_5
+buf,VAR_6
+ret,VAR_7

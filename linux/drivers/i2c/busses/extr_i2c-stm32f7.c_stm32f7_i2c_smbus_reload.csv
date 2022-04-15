@@ -1,0 +1,12 @@
+STM32F7_I2C_CR2,VAR_0
+STM32F7_I2C_CR2_NBYTES,FUNC_0
+STM32F7_I2C_CR2_NBYTES_MASK,VAR_1
+STM32F7_I2C_CR2_RELOAD,VAR_2
+readl_relaxed,FUNC_1
+stm32f7_i2c_read_rx_data,FUNC_2
+writel_relaxed,FUNC_3
+stm32f7_i2c_smbus_reload,FUNC_4
+i2c_dev,VAR_3
+f7_msg,VAR_4
+cr2,VAR_5
+val,VAR_6

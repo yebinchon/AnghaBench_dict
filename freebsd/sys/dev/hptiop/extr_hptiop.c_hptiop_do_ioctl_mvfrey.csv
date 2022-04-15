@@ -1,0 +1,12 @@
+EFAULT,VAR_0
+HPT_IOCTL_MAGIC,VAR_1
+HPT_IOCTL_MAGIC32,VAR_2
+copyin,FUNC_0
+copyout,FUNC_1
+hptiop_lock_adapter,FUNC_2
+hptiop_post_ioctl_command_mvfrey,FUNC_3
+hptiop_unlock_adapter,FUNC_4
+hptiop_do_ioctl_mvfrey,FUNC_5
+hba,VAR_3
+pParams,VAR_4
+req,VAR_5

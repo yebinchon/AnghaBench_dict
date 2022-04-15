@@ -1,0 +1,17 @@
+CLK_CTRL,VAR_0
+TALERT,VAR_1
+TI_BANDGAP_HAS,FUNC_0
+TSHUT,VAR_2
+clk_disable_unprepare,FUNC_1
+clk_put,FUNC_2
+free_irq,FUNC_3
+gpio_free,FUNC_4
+gpio_to_irq,FUNC_5
+platform_get_drvdata,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+ti_bandgap_power,FUNC_9
+ti_bandgap_remove,FUNC_10
+pdev,VAR_3
+bgp,VAR_4
+i,VAR_5

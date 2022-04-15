@@ -1,0 +1,16 @@
+CPU_FTR_ARCH_300,VAR_0
+HPTE_R_R,VAR_1
+be64_to_cpu,FUNC_0
+compute_tlbie_rb,FUNC_1
+cpu_has_feature,FUNC_2
+do_tlbies,FUNC_3
+hpte_new_to_old_r,FUNC_4
+hpte_new_to_old_v,FUNC_5
+kvmppc_clear_ref_hpte,FUNC_6
+kvm,VAR_2
+hptep,VAR_3
+pte_index,VAR_4
+rb,VAR_5
+rbyte,VAR_6
+hp0,VAR_7
+hp1,VAR_8

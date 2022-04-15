@@ -1,0 +1,11 @@
+FMC2_BCHIER,VAR_0
+FMC2_BCHIER_DERIE,VAR_1
+FMC2_BCHIER_EPBRIE,VAR_2
+FMC2_IRQ_BCH,VAR_3
+NAND_ECC_WRITE,VAR_4
+readl_relaxed,FUNC_0
+writel_relaxed,FUNC_1
+stm32_fmc2_enable_bch_irq,FUNC_2
+fmc2,VAR_5
+mode,VAR_6
+bchier,VAR_7

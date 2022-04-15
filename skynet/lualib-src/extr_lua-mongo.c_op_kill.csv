@@ -1,0 +1,16 @@
+OP_KILL_CURSORS,VAR_0
+buffer_create,FUNC_0
+buffer_destroy,FUNC_1
+luaL_error,FUNC_2
+luaL_tolstring,FUNC_3
+lua_pushlstring,FUNC_4
+reserve_length,FUNC_5
+write_bytes,FUNC_6
+write_int32,FUNC_7
+write_length,FUNC_8
+op_kill,FUNC_9
+L,VAR_1
+cursor_len,VAR_2
+cursor_id,VAR_3
+buf,VAR_4
+len,VAR_5

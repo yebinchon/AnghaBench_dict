@@ -1,0 +1,16 @@
+MEGASAS_DEFAULT_CMD_PER_LUN,VAR_0
+MEGASAS_NVME_QD,VAR_1
+MEGASAS_SAS_QD,VAR_2
+MEGASAS_SATA_QD,VAR_3
+UNKNOWN_DRIVE,VAR_4
+le32_to_cpu,FUNC_0
+megasas_lookup_instance,FUNC_1
+scsi_change_queue_depth,FUNC_2
+megasas_set_fw_assisted_qd,FUNC_3
+sdev,VAR_5
+is_target_prop,VAR_6
+interface_type,VAR_7
+device_qd,VAR_8
+tgt_device_qd,VAR_9
+instance,VAR_10
+mr_device_priv_data,VAR_11

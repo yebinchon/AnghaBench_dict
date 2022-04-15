@@ -1,0 +1,10 @@
+__unregister_kprobe_bottom,FUNC_0
+__unregister_kprobe_top,FUNC_1
+kprobe_mutex,VAR_0
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+synchronize_rcu,FUNC_4
+unregister_kprobes,FUNC_5
+kps,VAR_1
+num,VAR_2
+i,VAR_3

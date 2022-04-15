@@ -1,0 +1,15 @@
+L2C_CBC_INT_ENA_ALL,VAR_0
+L2C_CBC_INT_ENA_W1C,VAR_1
+L2C_MCI_INT_ENA_ALL,VAR_2
+L2C_MCI_INT_ENA_W1C,VAR_3
+L2C_TAD_INT_ENA_ALL,VAR_4
+L2C_TAD_INT_ENA_W1C,VAR_5
+edac_debugfs_remove_recursive,FUNC_0
+edac_device_del_device,FUNC_1
+edac_device_free_ctl_info,FUNC_2
+pci_get_drvdata,FUNC_3
+writeq,FUNC_4
+thunderx_l2c_remove,FUNC_5
+pdev,VAR_6
+edac_dev,VAR_7
+l2c,VAR_8

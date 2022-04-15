@@ -1,0 +1,16 @@
+CPUFREQ_TRANSITION_NOTIFIER,VAR_0
+clk_put,FUNC_0
+cpufreq_unregister_notifier,FUNC_1
+destroy_workqueue,FUNC_2
+drm_dev_put,FUNC_3
+drm_dev_unregister,FUNC_4
+drm_irq_uninstall,FUNC_5
+drm_kms_helper_poll_fini,FUNC_6
+drm_mode_config_cleanup,FUNC_7
+flush_workqueue,FUNC_8
+iounmap,FUNC_9
+pm_runtime_disable,FUNC_10
+tilcdc_crtc_shutdown,FUNC_11
+tilcdc_fini,FUNC_12
+dev,VAR_1
+priv,VAR_2

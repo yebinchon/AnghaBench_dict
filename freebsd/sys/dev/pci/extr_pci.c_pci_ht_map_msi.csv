@@ -1,0 +1,9 @@
+PCIM_HTCMD_MSI_ENABLE,VAR_0
+PCIR_HT_COMMAND,VAR_1
+device_get_ivars,FUNC_0
+pci_write_config,FUNC_1
+pci_ht_map_msi,FUNC_2
+dev,VAR_2
+addr,VAR_3
+dinfo,VAR_4
+ht,VAR_5

@@ -1,0 +1,11 @@
+ACPI_TO_POINTER,FUNC_0
+AcpiEvGetGpeEventInfo,FUNC_1
+AcpiEvGpeDispatch,FUNC_2
+AcpiOsPrintf,FUNC_3
+strtoul,FUNC_4
+AcpiDbGenerateGpe,FUNC_5
+GpeArg,VAR_0
+BlockArg,VAR_1
+BlockNumber,VAR_2
+GpeNumber,VAR_3
+GpeEventInfo,VAR_4

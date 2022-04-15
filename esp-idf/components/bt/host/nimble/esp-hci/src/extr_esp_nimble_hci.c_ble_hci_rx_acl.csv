@@ -1,0 +1,14 @@
+BLE_ACL_BUF_SIZE,VAR_0
+BLE_HCI_DATA_HDR_SZ,VAR_1
+MYNEWT_VAL,FUNC_0
+OS_ENTER_CRITICAL,FUNC_1
+OS_EXIT_CRITICAL,FUNC_2
+ble_hci_rx_acl_hs_cb,FUNC_3
+ble_hci_trans_acl_buf_alloc,FUNC_4
+os_mbuf_append,FUNC_5
+os_mbuf_free_chain,FUNC_6
+ble_hci_rx_acl,FUNC_7
+data,VAR_2
+len,VAR_3
+m,VAR_4
+sr,VAR_5

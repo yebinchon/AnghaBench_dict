@@ -1,0 +1,14 @@
+TCAN4X5X_CONFIG,VAR_0
+TCAN4X5X_ENABLE_TCAN_INT,VAR_1
+TCAN4X5X_INT_EN,VAR_2
+TCAN4X5X_MODE_NORMAL,VAR_3
+TCAN4X5X_MODE_SEL_MASK,VAR_4
+m_can_init_ram,FUNC_0
+regmap_update_bits,FUNC_1
+tcan4x5x_check_wake,FUNC_2
+tcan4x5x_clear_interrupts,FUNC_3
+tcan4x5x_write_tcan_reg,FUNC_4
+tcan4x5x_init,FUNC_5
+cdev,VAR_5
+tcan4x5x,VAR_6
+ret,VAR_7

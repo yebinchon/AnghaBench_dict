@@ -1,0 +1,15 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+btrfs_commit_transaction,FUNC_2
+btrfs_sb,FUNC_3
+btrfs_start_transaction,FUNC_4
+btrfs_wait_ordered_extents,FUNC_5
+filemap_flush,FUNC_6
+trace_btrfs_sync_fs,FUNC_7
+btrfs_sync_fs,FUNC_8
+sb,VAR_0
+wait,VAR_1
+trans,VAR_2
+fs_info,VAR_3
+root,VAR_4
+ret,VAR_5

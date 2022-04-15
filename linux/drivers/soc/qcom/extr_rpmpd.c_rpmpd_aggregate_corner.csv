@@ -1,0 +1,15 @@
+QCOM_SMD_RPM_ACTIVE_STATE,VAR_0
+QCOM_SMD_RPM_SLEEP_STATE,VAR_1
+max,FUNC_0
+rpmpd_send_corner,FUNC_1
+to_active_sleep,FUNC_2
+rpmpd_aggregate_corner,FUNC_3
+pd,VAR_2
+ret,VAR_3
+peer,VAR_4
+active_corner,VAR_5
+sleep_corner,VAR_6
+this_active_corner,VAR_7
+this_sleep_corner,VAR_8
+peer_active_corner,VAR_9
+peer_sleep_corner,VAR_10

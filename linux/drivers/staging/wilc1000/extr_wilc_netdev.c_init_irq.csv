@@ -1,0 +1,15 @@
+IRQF_ONESHOT,VAR_0
+IRQF_TRIGGER_FALLING,VAR_1
+gpiod_direction_input,FUNC_0
+gpiod_to_irq,FUNC_1
+isr_bh_routine,VAR_2
+isr_uh_routine,VAR_3
+netdev_dbg,FUNC_2
+netdev_err,FUNC_3
+netdev_priv,FUNC_4
+request_threaded_irq,FUNC_5
+init_irq,FUNC_6
+dev,VAR_4
+ret,VAR_5
+vif,VAR_6
+wl,VAR_7

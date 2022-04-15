@@ -1,0 +1,16 @@
+CRYPTO_THREAD_cleanup_local,FUNC_0
+CRYPTO_THREAD_get_local,FUNC_1
+CRYPTO_THREAD_init_local,FUNC_2
+TEST_int_eq,FUNC_3
+TEST_ptr_null,FUNC_4
+TEST_true,FUNC_5
+destructor_run_count,VAR_0
+run_thread,FUNC_6
+thread_local_destructor,VAR_1
+thread_local_key,VAR_2
+thread_local_thread_cb,VAR_3
+thread_local_thread_cb_ok,VAR_4
+wait_for_thread,FUNC_7
+test_thread_local,FUNC_8
+thread,VAR_5
+ptr,VAR_6

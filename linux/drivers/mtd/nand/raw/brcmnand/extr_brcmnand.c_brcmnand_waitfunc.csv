@@ -1,0 +1,15 @@
+BRCMNAND_CMD_START,VAR_0
+BRCMNAND_INTFC_STATUS,VAR_1
+INTFC_FLASH_STATUS,VAR_2
+brcmnand_cmd_shift,FUNC_0
+brcmnand_read_reg,FUNC_1
+brcmstb_nand_wait_for_completion,FUNC_2
+dev_dbg,FUNC_3
+dev_err_ratelimited,FUNC_4
+nand_get_controller_data,FUNC_5
+brcmnand_waitfunc,FUNC_6
+chip,VAR_3
+host,VAR_4
+ctrl,VAR_5
+err,VAR_6
+cmd,VAR_7

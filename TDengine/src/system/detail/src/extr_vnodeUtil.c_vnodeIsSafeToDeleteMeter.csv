@@ -1,0 +1,15 @@
+TSDB_METER_STATE_DELETED,VAR_0
+TSDB_METER_STATE_DELETING,VAR_1
+TSDB_METER_STATE_READY,VAR_2
+dWarn,FUNC_0
+pthread_mutex_lock,FUNC_1
+pthread_mutex_unlock,FUNC_2
+vnodeIsMeterState,FUNC_3
+vnodeSetMeterDeleting,FUNC_4
+vnodeSetMeterState,FUNC_5
+vnodeIsSafeToDeleteMeter,FUNC_6
+pVnode,VAR_3
+sid,VAR_4
+pObj,VAR_5
+prev,VAR_6
+ready,VAR_7

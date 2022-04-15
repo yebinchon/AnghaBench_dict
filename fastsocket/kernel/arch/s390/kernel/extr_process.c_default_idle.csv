@@ -1,0 +1,17 @@
+TIF_MCCK_PENDING,VAR_0
+cpu_die,FUNC_0
+cpu_is_offline,FUNC_1
+local_irq_disable,FUNC_2
+local_irq_enable,FUNC_3
+local_mcck_disable,FUNC_4
+local_mcck_enable,FUNC_5
+need_resched,FUNC_6
+preempt_enable_no_resched,FUNC_7
+s390_handle_mcck,FUNC_8
+smp_processor_id,FUNC_9
+start_critical_timings,FUNC_10
+stop_critical_timings,FUNC_11
+test_thread_flag,FUNC_12
+trace_hardirqs_on,FUNC_13
+vtime_stop_cpu,FUNC_14
+default_idle,FUNC_15

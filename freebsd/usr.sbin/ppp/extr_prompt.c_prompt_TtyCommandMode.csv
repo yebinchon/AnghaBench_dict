@@ -1,0 +1,15 @@
+ECHO,VAR_0
+F_GETFL,VAR_1
+F_SETFL,VAR_2
+ICANON,VAR_3
+ISIG,VAR_4
+OPOST,VAR_5
+O_NONBLOCK,VAR_6
+TCSADRAIN,VAR_7
+fcntl,FUNC_0
+tcgetattr,FUNC_1
+tcsetattr,FUNC_2
+prompt_TtyCommandMode,FUNC_3
+p,VAR_8
+newtio,VAR_9
+stat,VAR_10

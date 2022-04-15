@@ -1,0 +1,15 @@
+AV_PIX_FMT_FLAG_BE,VAR_0
+AV_PIX_FMT_FLAG_BITSTREAM,VAR_1
+AV_PIX_FMT_FLAG_HWACCEL,VAR_2
+AV_PIX_FMT_FLAG_PAL,VAR_3
+AV_PIX_FMT_FLAG_PLANAR,VAR_4
+HAVE_BIGENDIAN,VAR_5
+av_pix_fmt_desc_get,FUNC_0
+ff_add_format,FUNC_1
+ff_set_common_formats,FUNC_2
+query_formats,FUNC_3
+ctx,VAR_6
+formats,VAR_7
+fmt,VAR_8
+ret,VAR_9
+desc,VAR_10

@@ -1,0 +1,16 @@
+TCPSTAT_ADD,FUNC_0
+TCPSTAT_INC,FUNC_1
+TCP_PAWS_IDLE,VAR_0
+ctf_do_drop,FUNC_2
+ctf_do_dropafterack,FUNC_3
+tcp_ts_getticks,FUNC_4
+tcps_pawsdrop,VAR_1
+tcps_rcvdupbyte,VAR_2
+tcps_rcvduppack,VAR_3
+ctf_ts_check,FUNC_5
+m,VAR_4
+th,VAR_5
+tp,VAR_6
+tlen,VAR_7
+thflags,VAR_8
+ret_val,VAR_9

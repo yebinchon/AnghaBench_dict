@@ -1,0 +1,10 @@
+kvmppc_radix_flush_pwc,FUNC_0
+kvmppc_unmap_free_pte,FUNC_1
+pmd_clear,FUNC_2
+pte_offset_kernel,FUNC_3
+kvmppc_unmap_free_pmd_entry_table,FUNC_4
+kvm,VAR_0
+pmd,VAR_1
+gpa,VAR_2
+lpid,VAR_3
+pte,VAR_4

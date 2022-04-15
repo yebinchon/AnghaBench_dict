@@ -1,0 +1,16 @@
+H2O_HTTP2_FRAME_FLAG_END_HEADERS,VAR_0
+H2O_HTTP2_FRAME_HEADER_SIZE,VAR_1
+H2O_HTTP2_FRAME_TYPE_CONTINUATION,VAR_2
+h2o_buffer_reserve,FUNC_0
+h2o_http2_encode_frame_header,FUNC_1
+memmove,FUNC_2
+fixup_frame_headers,FUNC_3
+buf,VAR_3
+start_at,VAR_4
+type,VAR_5
+stream_id,VAR_6
+max_frame_size,VAR_7
+flags,VAR_8
+payload_size,VAR_9
+off,VAR_10
+left,VAR_11

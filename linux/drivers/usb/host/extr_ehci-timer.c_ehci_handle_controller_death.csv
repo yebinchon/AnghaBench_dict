@@ -1,0 +1,11 @@
+EHCI_HRTIMER_POLL_DEAD,VAR_0
+EHCI_RH_HALTED,VAR_1
+STS_HALT,VAR_2
+ehci_enable_event,FUNC_0
+ehci_readl,FUNC_1
+ehci_warn,FUNC_2
+ehci_work,FUNC_3
+ehci_writel,FUNC_4
+end_unlink_async,FUNC_5
+ehci_handle_controller_death,FUNC_6
+ehci,VAR_3

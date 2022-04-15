@@ -1,0 +1,14 @@
+SQUASHFS_LOOKUP_BLOCK,FUNC_0
+SQUASHFS_LOOKUP_BLOCK_OFFSET,FUNC_1
+TRACE,FUNC_2
+le64_to_cpu,FUNC_3
+squashfs_read_metadata,FUNC_4
+squashfs_inode_lookup,FUNC_5
+sb,VAR_0
+ino_num,VAR_1
+msblk,VAR_2
+blk,VAR_3
+offset,VAR_4
+start,VAR_5
+ino,VAR_6
+err,VAR_7

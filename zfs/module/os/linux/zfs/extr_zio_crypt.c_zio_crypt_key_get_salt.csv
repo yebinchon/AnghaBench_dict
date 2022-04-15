@@ -1,0 +1,13 @@
+RW_READER,VAR_0
+ZFS_CURRENT_MAX_SALT_USES,VAR_1
+ZIO_DATA_SALT_LEN,VAR_2
+atomic_inc_64_nv,FUNC_0
+bcopy,FUNC_1
+rw_enter,FUNC_2
+rw_exit,FUNC_3
+zio_crypt_key_change_salt,FUNC_4
+zio_crypt_key_get_salt,FUNC_5
+key,VAR_3
+salt,VAR_4
+ret,VAR_5
+salt_change,VAR_6

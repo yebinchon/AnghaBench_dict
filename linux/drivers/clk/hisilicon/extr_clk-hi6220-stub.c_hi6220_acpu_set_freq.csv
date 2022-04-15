@@ -1,0 +1,10 @@
+ACPU_DFS_FREQ_REQ,VAR_0
+HI6220_MBOX_CMD_SET,VAR_1
+HI6220_MBOX_FREQ,VAR_2
+HI6220_MBOX_OBJ_AP,VAR_3
+mbox_send_message,FUNC_0
+regmap_write,FUNC_1
+hi6220_acpu_set_freq,FUNC_2
+stub_clk,VAR_4
+freq,VAR_5
+data,VAR_6

@@ -1,0 +1,16 @@
+B44_FLAG_EXTERNAL_PHY,VAR_0
+PCI_D3hot,VAR_1
+b44_unregister_phy_one,FUNC_0
+free_netdev,FUNC_1
+netdev_priv,FUNC_2
+netif_napi_del,FUNC_3
+ssb_bus_may_powerdown,FUNC_4
+ssb_device_disable,FUNC_5
+ssb_get_drvdata,FUNC_6
+ssb_pcihost_set_power_state,FUNC_7
+ssb_set_drvdata,FUNC_8
+unregister_netdev,FUNC_9
+b44_remove_one,FUNC_10
+sdev,VAR_2
+dev,VAR_3
+bp,VAR_4

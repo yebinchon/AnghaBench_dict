@@ -1,0 +1,14 @@
+CreateEvent,FUNC_0
+FALSE,VAR_0
+GetCurrentThread,FUNC_1
+ISC_LIST_INIT,FUNC_2
+ISC_R_SUCCESS,VAR_1
+RELOAD_EVENT,VAR_2
+SHUTDOWN_EVENT,VAR_3
+hEvents,VAR_4
+isc_mutex_init,FUNC_3
+lock,VAR_5
+main_thread,VAR_6
+on_run,VAR_7
+isc__app_start,FUNC_4
+result,VAR_8

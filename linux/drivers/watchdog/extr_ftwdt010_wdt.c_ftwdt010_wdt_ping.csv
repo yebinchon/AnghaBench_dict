@@ -1,0 +1,7 @@
+FTWDT010_WDRESTART,VAR_0
+WDRESTART_MAGIC,VAR_1
+to_ftwdt010_wdt,FUNC_0
+writel,FUNC_1
+ftwdt010_wdt_ping,FUNC_2
+wdd,VAR_2
+gwdt,VAR_3

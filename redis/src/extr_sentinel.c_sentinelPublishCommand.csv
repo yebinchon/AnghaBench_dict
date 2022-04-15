@@ -1,0 +1,8 @@
+SENTINEL_HELLO_CHANNEL,VAR_0
+addReplyError,FUNC_0
+addReplyLongLong,FUNC_1
+sdslen,FUNC_2
+sentinelProcessHelloMessage,FUNC_3
+strcmp,FUNC_4
+sentinelPublishCommand,FUNC_5
+c,VAR_1

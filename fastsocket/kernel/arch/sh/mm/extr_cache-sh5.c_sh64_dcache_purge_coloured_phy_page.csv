@@ -1,0 +1,13 @@
+CACHE_OC_SYN_MASK,VAR_0
+L1_CACHE_BYTES,VAR_1
+MAGIC_PAGE0_START,VAR_2
+PAGE_SIZE,VAR_3
+get_asid,FUNC_0
+sh64_setup_dtlb_cache_slot,FUNC_1
+sh64_teardown_dtlb_cache_slot,FUNC_2
+sh64_dcache_purge_coloured_phy_page,FUNC_3
+paddr,VAR_4
+eaddr,VAR_5
+magic_page_start,VAR_6
+magic_eaddr,VAR_7
+magic_eaddr_end,VAR_8

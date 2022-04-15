@@ -1,0 +1,15 @@
+ENOKEY,VAR_0
+POLY1305_BLOCK_SIZE,VAR_1
+le32_to_cpu,FUNC_0
+memset,FUNC_1
+poly1305_blocks,FUNC_2
+poly1305_core_emit,FUNC_3
+put_unaligned_le32,FUNC_4
+shash_desc_ctx,FUNC_5
+unlikely,FUNC_6
+crypto_poly1305_final,FUNC_7
+desc,VAR_2
+dst,VAR_3
+dctx,VAR_4
+digest,VAR_5
+f,VAR_6

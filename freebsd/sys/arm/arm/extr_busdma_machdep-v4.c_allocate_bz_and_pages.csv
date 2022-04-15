@@ -1,0 +1,17 @@
+BUS_DMA_COULD_BOUNCE,VAR_0
+BUS_DMA_MIN_ALLOC_COMP,VAR_1
+ENOMEM,VAR_2
+MAX,FUNC_0
+MAX_BPAGES,VAR_3
+MIN,FUNC_1
+STAILQ_INIT,FUNC_2
+alloc_bounce_pages,FUNC_3
+alloc_bounce_zone,FUNC_4
+atop,FUNC_5
+allocate_bz_and_pages,FUNC_6
+dmat,VAR_4
+map,VAR_5
+error,VAR_6
+bz,VAR_7
+maxpages,VAR_8
+pages,VAR_9

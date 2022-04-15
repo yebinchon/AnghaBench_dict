@@ -1,0 +1,14 @@
+KASSERT,FUNC_0
+TAILQ_EMPTY,FUNC_1
+TAILQ_REMOVE,FUNC_2
+UMTXQ_LOCKED_ASSERT,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+pi_hashlink,VAR_0
+umtx_lock,VAR_1
+umtx_pi_disown,FUNC_6
+umtx_pi_free,FUNC_7
+umtxq_getchain,FUNC_8
+umtx_pi_unref,FUNC_9
+pi,VAR_2
+uc,VAR_3

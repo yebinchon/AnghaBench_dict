@@ -1,0 +1,15 @@
+__inet6_lookup,FUNC_0
+ntohs,FUNC_1
+refcount_inc_not_zero,FUNC_2
+inet6_lookup,FUNC_3
+net,VAR_0
+hashinfo,VAR_1
+skb,VAR_2
+doff,VAR_3
+saddr,VAR_4
+sport,VAR_5
+daddr,VAR_6
+dport,VAR_7
+dif,VAR_8
+sk,VAR_9
+refcounted,VAR_10

@@ -1,0 +1,14 @@
+CPU_STATE_ONLINE,VAR_0
+FW_FEATURE_SPLPAR,VAR_1
+boot_cpuid,VAR_2
+cpumask_clear_cpu,FUNC_0
+firmware_has_feature,FUNC_1
+of_spin_mask,VAR_3
+set_cpu_current_state,FUNC_2
+set_default_offline_state,FUNC_3
+vpa_init,FUNC_4
+xics_setup_cpu,FUNC_5
+xive_enabled,FUNC_6
+xive_smp_setup_cpu,FUNC_7
+smp_setup_cpu,FUNC_8
+cpu,VAR_4

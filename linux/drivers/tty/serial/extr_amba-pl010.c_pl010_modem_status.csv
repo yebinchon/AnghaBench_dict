@@ -1,0 +1,15 @@
+UART010_ICR,VAR_0
+UART01x_FR,VAR_1
+UART01x_FR_CTS,VAR_2
+UART01x_FR_DCD,VAR_3
+UART01x_FR_DSR,VAR_4
+UART01x_FR_MODEM_ANY,VAR_5
+readb,FUNC_0
+uart_handle_cts_change,FUNC_1
+uart_handle_dcd_change,FUNC_2
+wake_up_interruptible,FUNC_3
+writel,FUNC_4
+pl010_modem_status,FUNC_5
+uap,VAR_6
+status,VAR_7
+delta,VAR_8

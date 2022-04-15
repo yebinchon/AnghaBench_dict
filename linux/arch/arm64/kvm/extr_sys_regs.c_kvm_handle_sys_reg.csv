@@ -1,0 +1,13 @@
+emulate_sys_reg,FUNC_0
+kvm_vcpu_get_hsr,FUNC_1
+kvm_vcpu_sys_get_rt,FUNC_2
+trace_kvm_handle_sys_reg,FUNC_3
+vcpu_get_reg,FUNC_4
+vcpu_set_reg,FUNC_5
+kvm_handle_sys_reg,FUNC_6
+vcpu,VAR_0
+run,VAR_1
+params,VAR_2
+esr,VAR_3
+Rt,VAR_4
+ret,VAR_5

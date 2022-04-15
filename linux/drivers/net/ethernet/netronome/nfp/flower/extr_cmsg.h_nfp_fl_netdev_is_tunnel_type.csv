@@ -1,0 +1,9 @@
+NFP_FL_TUNNEL_GENEVE,VAR_0
+NFP_FL_TUNNEL_GRE,VAR_1
+NFP_FL_TUNNEL_VXLAN,VAR_2
+netif_is_geneve,FUNC_0
+netif_is_gretap,FUNC_1
+netif_is_vxlan,FUNC_2
+nfp_fl_netdev_is_tunnel_type,FUNC_3
+netdev,VAR_3
+tun_type,VAR_4

@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+TEST_PORT,VAR_0
+UV_READABLE,VAR_1
+create_bound_socket,FUNC_1
+create_server_context,FUNC_2
+listen,FUNC_3
+server_poll_cb,VAR_2
+uv_ip4_addr,FUNC_4
+uv_poll_start,FUNC_5
+start_server,FUNC_6
+context,VAR_3
+addr,VAR_4
+sock,VAR_5
+r,VAR_6

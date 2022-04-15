@@ -1,0 +1,8 @@
+__cfg80211_stop_sched_scan,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+trace_cfg80211_sched_scan_stopped,FUNC_3
+wiphy_to_dev,FUNC_4
+cfg80211_sched_scan_stopped,FUNC_5
+wiphy,VAR_0
+rdev,VAR_1

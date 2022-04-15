@@ -1,0 +1,12 @@
+GPU_RG_CNTRL,VAR_0
+REMOVE_CLAMPING,VAR_1
+TEGRA_POWERGATE_3D,VAR_2
+TEGRA_POWERGATE_PCIE,VAR_3
+TEGRA_POWERGATE_VDEC,VAR_4
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+tegra_pmc_writel,FUNC_2
+__tegra_powergate_remove_clamping,FUNC_3
+pmc,VAR_5
+id,VAR_6
+mask,VAR_7

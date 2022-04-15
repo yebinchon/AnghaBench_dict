@@ -1,0 +1,13 @@
+ENXIO,VAR_0
+SYS_RES_IRQ,VAR_1
+SYS_RES_MEMORY,VAR_2
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+clk_release,FUNC_2
+device_get_softc,FUNC_3
+hwreset_release,FUNC_4
+soctherm_sysctl_ctx,VAR_3
+sysctl_ctx_free,FUNC_5
+soctherm_detach,FUNC_6
+dev,VAR_4
+sc,VAR_5

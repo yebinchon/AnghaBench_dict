@@ -1,0 +1,14 @@
+SHM_R,VAR_0
+SHM_W,VAR_1
+config_create,FUNC_0
+config_delete,FUNC_1
+config_read,FUNC_2
+do_stats_shm,FUNC_3
+errno,VAR_2
+fatal_exit,FUNC_4
+shmat,FUNC_5
+shmdt,FUNC_6
+shmget,FUNC_7
+strerror,FUNC_8
+print_stats_shm,FUNC_9
+cfgfile,VAR_3

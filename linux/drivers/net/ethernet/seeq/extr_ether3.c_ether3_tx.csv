@@ -1,0 +1,14 @@
+TXHDR_TRANSMIT,VAR_0
+TXSTAT_16COLLISIONS,VAR_1
+TXSTAT_BABBLED,VAR_2
+TXSTAT_DONE,VAR_3
+buffer_read,VAR_4
+ether3_readlong,FUNC_0
+ether3_setbuffer,FUNC_1
+netif_wake_queue,FUNC_2
+priv,FUNC_3
+ether3_tx,FUNC_4
+dev,VAR_5
+tx_tail,VAR_6
+max_work,VAR_7
+status,VAR_8

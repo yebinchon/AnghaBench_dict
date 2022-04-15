@@ -1,0 +1,17 @@
+CLOCAL,VAR_0
+HS_IDLE_CLOSED,VAR_1
+ST_BREAK,VAR_2
+ST_DCD,VAR_3
+SX_DEBUG_MODEMSIGNALS,VAR_4
+gs_got_break,FUNC_0
+hi_hstat,VAR_5
+sx_dprintk,FUNC_1
+sx_read_channel_byte,FUNC_2
+sx_write_channel_byte,FUNC_3
+tty_hangup,FUNC_4
+tty_port_carrier_raised,FUNC_5
+wake_up_interruptible,FUNC_6
+sx_check_modem_signals,FUNC_7
+port,VAR_6
+hi_state,VAR_7
+c_dcd,VAR_8

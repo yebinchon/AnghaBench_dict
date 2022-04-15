@@ -1,0 +1,9 @@
+lua_pushcfunction,FUNC_0
+lua_setfield,FUNC_1
+ngx_http_lua_ngx_req_get_headers,VAR_0
+ngx_http_lua_ngx_req_header_clear,VAR_1
+ngx_http_lua_ngx_req_header_set,VAR_2
+ngx_http_lua_ngx_req_http_version,VAR_3
+ngx_http_lua_ngx_req_raw_header,VAR_4
+ngx_http_lua_inject_req_header_api,FUNC_2
+L,VAR_5

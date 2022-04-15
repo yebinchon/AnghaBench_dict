@@ -1,0 +1,17 @@
+CHAINIV_STATE_INUSE,VAR_0
+ablkcipher_request_set_callback,FUNC_0
+ablkcipher_request_set_crypt,FUNC_1
+ablkcipher_request_set_tfm,FUNC_2
+async_chainiv_givencrypt_tail,FUNC_3
+async_chainiv_postpone_request,FUNC_4
+clear_bit,FUNC_5
+crypto_ablkcipher_ctx,FUNC_6
+skcipher_geniv_cipher,FUNC_7
+skcipher_givcrypt_reqctx,FUNC_8
+skcipher_givcrypt_reqtfm,FUNC_9
+test_and_set_bit,FUNC_10
+async_chainiv_givencrypt,FUNC_11
+req,VAR_1
+geniv,VAR_2
+ctx,VAR_3
+subreq,VAR_4

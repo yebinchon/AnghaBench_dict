@@ -1,0 +1,15 @@
+ABS_PRESSURE,VAR_0
+ABS_TILT_X,VAR_1
+ABS_TILT_Y,VAR_2
+ABS_X,VAR_3
+ABS_Y,VAR_4
+W8001_CMD_QUERY,VAR_5
+W8001_CMD_START,VAR_6
+input_set_abs_params,FUNC_0
+parse_data,FUNC_1
+w8001_command,FUNC_2
+w8001_setup,FUNC_3
+w8001,VAR_7
+dev,VAR_8
+coord,VAR_9
+error,VAR_10

@@ -1,0 +1,17 @@
+DHCP_LEN_OFFSET,VAR_0
+DHCP_OPTION_OFFSET,VAR_1
+DHCP_TAG_OFFSET,VAR_2
+FALSE,VAR_3
+TRUE,VAR_4
+dhcpol_add,FUNC_0
+dhcpol_free,FUNC_1
+dhcpol_init,FUNC_2
+dprintf,FUNC_3
+dhcpol_parse_buffer,FUNC_4
+list,VAR_5
+buffer,VAR_6
+length,VAR_7
+len,VAR_8
+scan,VAR_9
+tag,VAR_10
+option_len,VAR_11

@@ -1,0 +1,15 @@
+RUM_CMDQ_LOCK_DESTROY,FUNC_0
+RUM_LOCK,FUNC_1
+RUM_LOCK_DESTROY,FUNC_2
+RUM_N_TRANSFER,VAR_0
+RUM_UNLOCK,FUNC_3
+device_get_softc,FUNC_4
+ieee80211_draintask,FUNC_5
+ieee80211_ifdetach,FUNC_6
+mbufq_drain,FUNC_7
+rum_unsetup_tx_list,FUNC_8
+usbd_transfer_unsetup,FUNC_9
+rum_detach,FUNC_10
+self,VAR_1
+sc,VAR_2
+ic,VAR_3

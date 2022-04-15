@@ -1,0 +1,17 @@
+HCLGE_CONFIG_ROCEE_RAS_INT_EN,VAR_0
+HCLGE_ROCEE_RAS_CE_INT_EN,VAR_1
+HCLGE_ROCEE_RAS_CE_INT_EN_MASK,VAR_2
+HCLGE_ROCEE_RAS_NFE_INT_EN,VAR_3
+HCLGE_ROCEE_RAS_NFE_INT_EN_MASK,VAR_4
+cpu_to_le32,FUNC_0
+dev_err,FUNC_1
+hclge_cmd_send,FUNC_2
+hclge_cmd_setup_basic_desc,FUNC_3
+hclge_log_and_clear_rocee_ras_error,FUNC_4
+hnae3_dev_roce_supported,FUNC_5
+hclge_config_rocee_ras_interrupt,FUNC_6
+hdev,VAR_5
+en,VAR_6
+dev,VAR_7
+desc,VAR_8
+ret,VAR_9

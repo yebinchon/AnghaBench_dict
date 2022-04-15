@@ -1,0 +1,16 @@
+MMC_CMD_TRANSFER_TIME,VAR_0
+NSEC_PER_SEC,VAR_1
+NSEC_PER_USEC,VAR_2
+do_div,FUNC_0
+sdhci_target_timeout,FUNC_1
+sdhci_calc_sw_timeout,FUNC_2
+host,VAR_3
+cmd,VAR_4
+data,VAR_5
+mmc,VAR_6
+ios,VAR_7
+bus_width,VAR_8
+blksz,VAR_9
+freq,VAR_10
+target_timeout,VAR_11
+transfer_time,VAR_12

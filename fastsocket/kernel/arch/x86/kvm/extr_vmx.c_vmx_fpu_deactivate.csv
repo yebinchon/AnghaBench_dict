@@ -1,0 +1,10 @@
+CR0_GUEST_HOST_MASK,VAR_0
+CR0_READ_SHADOW,VAR_1
+GUEST_CR0,VAR_2
+X86_CR0_TS,VAR_3
+update_exception_bitmap,FUNC_0
+vmcs_set_bits,FUNC_1
+vmcs_writel,FUNC_2
+vmx_decache_cr0_guest_bits,FUNC_3
+vmx_fpu_deactivate,FUNC_4
+vcpu,VAR_4

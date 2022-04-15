@@ -1,0 +1,12 @@
+IWL_TRANS_GET_PCIE_TRANS,FUNC_0
+iwl_enable_interrupts,FUNC_1
+iwl_pcie_check_hw_rf_kill,FUNC_2
+iwl_pcie_ctxt_info_free,FUNC_3
+iwl_pcie_reset_ict,FUNC_4
+memset,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+iwl_trans_pcie_gen2_fw_alive,FUNC_8
+trans,VAR_0
+scd_addr,VAR_1
+trans_pcie,VAR_2

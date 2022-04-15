@@ -1,0 +1,14 @@
+EBADFD,VAR_0
+SNDRV_CTL_POWER_D0,VAR_1
+SNDRV_PCM_STATE_SUSPENDED,VAR_2
+snd_pcm_stop,FUNC_0
+snd_pcm_stream_lock_irq,FUNC_1
+snd_pcm_stream_unlock_irq,FUNC_2
+snd_power_lock,FUNC_3
+snd_power_unlock,FUNC_4
+snd_power_wait,FUNC_5
+snd_pcm_xrun,FUNC_6
+substream,VAR_3
+card,VAR_4
+runtime,VAR_5
+result,VAR_6

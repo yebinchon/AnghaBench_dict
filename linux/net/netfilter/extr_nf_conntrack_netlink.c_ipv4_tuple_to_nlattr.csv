@@ -1,0 +1,7 @@
+CTA_IP_V4_DST,VAR_0
+CTA_IP_V4_SRC,VAR_1
+EMSGSIZE,VAR_2
+nla_put_in_addr,FUNC_0
+ipv4_tuple_to_nlattr,FUNC_1
+skb,VAR_3
+tuple,VAR_4

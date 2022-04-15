@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+IB_AH_GRH,VAR_1
+be16_to_cpu,FUNC_0
+be32_to_cpu,FUNC_1
+ib_find_cached_gid_by_port,FUNC_2
+memset,FUNC_3
+rdma_protocol_ib,FUNC_4
+rdma_protocol_roce,FUNC_5
+ib_init_ah_from_mcmember,FUNC_6
+device,VAR_2
+port_num,VAR_3
+rec,VAR_4
+ndev,VAR_5
+gid_type,VAR_6
+ah_attr,VAR_7
+ret,VAR_8
+gid_index,VAR_9

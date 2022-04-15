@@ -1,0 +1,11 @@
+NFC_SE_EMBEDDED,VAR_0
+ST_NCI_APDU_READER_GATE,VAR_1
+ST_NCI_EVT_SE_END_OF_APDU_TRANSFER,VAR_2
+ST_NCI_SE_MODE_OFF,VAR_3
+nci_hci_send_event,FUNC_0
+pr_debug,FUNC_1
+st_nci_control_se,FUNC_2
+st_nci_disable_se,FUNC_3
+ndev,VAR_4
+se_idx,VAR_5
+r,VAR_6

@@ -1,0 +1,11 @@
+ARRAY_SIZE,FUNC_0
+GPIO_PCMCIA_RESET,VAR_0
+PCMCIA_S0_RDYINT,VAR_1
+gpio_direction_output,FUNC_1
+gpio_free,FUNC_2
+gpio_request,FUNC_3
+irqs,VAR_2
+soc_pcmcia_request_irqs,FUNC_4
+cmx270_pcmcia_hw_init,FUNC_5
+skt,VAR_3
+ret,VAR_4

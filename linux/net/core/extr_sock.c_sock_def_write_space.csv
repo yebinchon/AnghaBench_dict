@@ -1,0 +1,17 @@
+EPOLLOUT,VAR_0
+EPOLLWRBAND,VAR_1
+EPOLLWRNORM,VAR_2
+POLL_OUT,VAR_3
+READ_ONCE,FUNC_0
+SOCK_WAKE_SPACE,VAR_4
+rcu_dereference,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+refcount_read,FUNC_4
+sk_wake_async,FUNC_5
+skwq_has_sleeper,FUNC_6
+sock_writeable,FUNC_7
+wake_up_interruptible_sync_poll,FUNC_8
+sock_def_write_space,FUNC_9
+sk,VAR_5
+wq,VAR_6

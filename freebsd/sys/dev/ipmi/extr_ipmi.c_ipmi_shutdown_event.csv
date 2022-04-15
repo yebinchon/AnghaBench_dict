@@ -1,0 +1,12 @@
+IPMI_SET_WD_ACTION_POWER_CYCLE,VAR_0
+ipmi_reset_watchdog,FUNC_0
+ipmi_set_watchdog,FUNC_1
+on,VAR_1
+wd_in_shutdown,VAR_2
+wd_shutdown_countdown,VAR_3
+wd_timer_actions,VAR_4
+ipmi_shutdown_event,FUNC_2
+arg,VAR_5
+cmd,VAR_6
+error,VAR_7
+sc,VAR_8

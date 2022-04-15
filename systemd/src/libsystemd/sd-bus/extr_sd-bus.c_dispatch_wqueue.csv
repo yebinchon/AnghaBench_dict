@@ -1,0 +1,12 @@
+BUS_HELLO,VAR_0
+BUS_MESSAGE_SIZE,FUNC_0
+BUS_RUNNING,VAR_1
+IN_SET,FUNC_1
+assert,FUNC_2
+bus_message_unref_queued,FUNC_3
+bus_write_message,FUNC_4
+memmove,FUNC_5
+dispatch_wqueue,FUNC_6
+bus,VAR_2
+r,VAR_3
+ret,VAR_4

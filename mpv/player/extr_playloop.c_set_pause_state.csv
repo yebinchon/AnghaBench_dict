@@ -1,0 +1,15 @@
+MPV_EVENT_PAUSE,VAR_0
+MPV_EVENT_UNPAUSE,VAR_1
+ao_pause,FUNC_0
+ao_resume,FUNC_1
+get_relative_time,FUNC_2
+mp_notify,FUNC_3
+mp_wakeup_core,FUNC_4
+update_core_idle_state,FUNC_5
+vo_set_paused,FUNC_6
+set_pause_state,FUNC_7
+mpctx,VAR_2
+user_pause,VAR_3
+opts,VAR_4
+send_update,VAR_5
+internal_paused,VAR_6

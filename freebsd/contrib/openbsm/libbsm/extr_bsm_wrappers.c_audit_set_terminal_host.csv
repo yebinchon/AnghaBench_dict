@@ -1,0 +1,12 @@
+CTL_KERN,VAR_0
+KERN_HOSTID,VAR_1
+LOG_ERR,VAR_2
+errno,VAR_3
+kAUBadParamErr,VAR_4
+kAUNoErr,VAR_5
+kAUSysctlErr,VAR_6
+strerror,FUNC_0
+sysctl,FUNC_1
+syslog,FUNC_2
+audit_set_terminal_host,FUNC_3
+m,VAR_7

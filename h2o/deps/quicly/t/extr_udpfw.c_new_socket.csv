@@ -1,0 +1,12 @@
+F_GETFL,VAR_0
+F_SETFL,VAR_1
+IPPROTO_UDP,VAR_2
+O_NONBLOCK,VAR_3
+SOCK_DGRAM,VAR_4
+assert,FUNC_0
+fcntl,FUNC_1
+socket,FUNC_2
+new_socket,FUNC_3
+sin_family,VAR_5
+s,VAR_6
+flags,VAR_7

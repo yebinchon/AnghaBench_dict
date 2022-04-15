@@ -1,0 +1,11 @@
+EMSGSIZE,VAR_0
+MPLS_IPTUNNEL_DST,VAR_1
+MPLS_IPTUNNEL_TTL,VAR_2
+MPLS_TTL_PROP_DEFAULT,VAR_3
+mpls_lwtunnel_encap,FUNC_0
+nla_put_labels,FUNC_1
+nla_put_u8,FUNC_2
+mpls_fill_encap_info,FUNC_3
+skb,VAR_4
+lwtstate,VAR_5
+tun_encap_info,VAR_6

@@ -1,0 +1,14 @@
+IOMMU_MMIO,VAR_0
+IOMMU_NOEXEC,VAR_1
+IOMMU_RESV_SW_MSI,VAR_2
+IOMMU_WRITE,VAR_3
+MSI_IOVA_BASE,VAR_4
+MSI_IOVA_LENGTH,VAR_5
+iommu_alloc_resv_region,FUNC_0
+iommu_dma_get_resv_regions,FUNC_1
+list_add_tail,FUNC_2
+arm_smmu_get_resv_regions,FUNC_3
+dev,VAR_6
+head,VAR_7
+region,VAR_8
+prot,VAR_9

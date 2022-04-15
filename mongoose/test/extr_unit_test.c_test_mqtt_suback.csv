@@ -1,0 +1,11 @@
+ASSERT_EQ,FUNC_0
+MG_MQTT_CMD_SUBACK,VAR_0
+MG_MQTT_GET_QOS,FUNC_1
+create_test_connection,FUNC_2
+destroy_test_connection,FUNC_3
+mg_mqtt_suback,FUNC_4
+mg_set_protocol_mqtt,FUNC_5
+test_mqtt_suback,FUNC_6
+nc,VAR_1
+qoss,VAR_2
+got,VAR_3

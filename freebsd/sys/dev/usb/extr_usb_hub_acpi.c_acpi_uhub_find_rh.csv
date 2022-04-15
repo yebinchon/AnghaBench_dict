@@ -1,0 +1,11 @@
+ACPI_TYPE_DEVICE,VAR_0
+AE_ERROR,VAR_1
+AcpiWalkNamespace,FUNC_0
+acpi_get_handle,FUNC_1
+acpi_uhub_find_rh_cb,VAR_2
+device_get_parent,FUNC_2
+acpi_uhub_find_rh,FUNC_3
+dev,VAR_3
+ah,VAR_4
+grand,VAR_5
+gah,VAR_6

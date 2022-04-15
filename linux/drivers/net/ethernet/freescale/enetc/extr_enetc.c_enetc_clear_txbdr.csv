@@ -1,0 +1,13 @@
+ENETC_TBMR,VAR_0
+ENETC_TBSR,VAR_1
+ENETC_TBSR_BUSY,VAR_2
+enetc_txbdr_rd,FUNC_0
+enetc_txbdr_wr,FUNC_1
+msleep,FUNC_2
+netdev_warn,FUNC_3
+enetc_clear_txbdr,FUNC_4
+hw,VAR_3
+tx_ring,VAR_4
+delay,VAR_5
+timeout,VAR_6
+idx,VAR_7

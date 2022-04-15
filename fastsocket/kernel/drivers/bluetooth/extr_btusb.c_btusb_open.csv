@@ -1,0 +1,17 @@
+BTUSB_BULK_RUNNING,VAR_0
+BTUSB_INTR_RUNNING,VAR_1
+BT_DBG,FUNC_0
+GFP_KERNEL,VAR_2
+HCI_RUNNING,VAR_3
+btusb_submit_bulk_urb,FUNC_1
+btusb_submit_intr_urb,FUNC_2
+clear_bit,FUNC_3
+set_bit,FUNC_4
+test_and_set_bit,FUNC_5
+usb_autopm_get_interface,FUNC_6
+usb_autopm_put_interface,FUNC_7
+usb_kill_anchored_urbs,FUNC_8
+btusb_open,FUNC_9
+hdev,VAR_4
+data,VAR_5
+err,VAR_6

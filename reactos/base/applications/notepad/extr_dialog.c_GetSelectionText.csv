@@ -1,0 +1,17 @@
+EM_GETSEL,VAR_0
+GetProcessHeap,FUNC_0
+GetWindowText,FUNC_1
+GetWindowTextLength,FUNC_2
+HeapAlloc,FUNC_3
+HeapFree,FUNC_4
+SendMessage,FUNC_5
+StringCchCopyN,FUNC_6
+GetSelectionText,FUNC_7
+hWnd,VAR_1
+lpString,VAR_2
+nMaxCount,VAR_3
+dwStart,VAR_4
+dwEnd,VAR_5
+dwSize,VAR_6
+hResult,VAR_7
+lpTemp,VAR_8

@@ -1,0 +1,13 @@
+CHECK,FUNC_0
+memcmp,FUNC_1
+secp256k1_rfc6979_hmac_sha256_finalize,FUNC_2
+secp256k1_rfc6979_hmac_sha256_generate,FUNC_3
+secp256k1_rfc6979_hmac_sha256_initialize,FUNC_4
+run_rfc6979_hmac_sha256_tests,FUNC_5
+key1,VAR_0
+out1,VAR_1
+key2,VAR_2
+out2,VAR_3
+rng,VAR_4
+out,VAR_5
+i,VAR_6

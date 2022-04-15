@@ -1,0 +1,14 @@
+ETH_ALEN,VAR_0
+IPSET_ATTR_ETHER,VAR_1
+IPSET_ATTR_IP,VAR_2
+MAC_FILLED,VAR_3
+get_const_elem,FUNC_0
+htonl,FUNC_1
+nla_put,FUNC_2
+nla_put_ipaddr4,FUNC_3
+bitmap_ipmac_do_list,FUNC_4
+skb,VAR_4
+map,VAR_5
+id,VAR_6
+dsize,VAR_7
+elem,VAR_8

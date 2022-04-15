@@ -1,0 +1,15 @@
+GIT_ERROR_FILESYSTEM,VAR_0
+GIT_ERROR_OS,VAR_1
+GIT_PATH_DIR_PRECOMPOSE_UNICODE,VAR_2
+assert,FUNC_0
+git_buf_dispose,FUNC_1
+git_buf_puts,FUNC_2
+git_error_set,FUNC_3
+git_path_iconv_init_precompose,FUNC_4
+git_path_trim_slashes,FUNC_5
+memset,FUNC_6
+opendir,FUNC_7
+git_path_diriter_init,FUNC_8
+diriter,VAR_3
+path,VAR_4
+flags,VAR_5

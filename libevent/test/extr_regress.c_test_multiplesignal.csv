@@ -1,0 +1,16 @@
+ITIMER_REAL,VAR_0
+SIGALRM,VAR_1
+cleanup_test,FUNC_0
+event_dispatch,FUNC_1
+evsignal_add,FUNC_2
+evsignal_del,FUNC_3
+evsignal_set,FUNC_4
+memset,FUNC_5
+setitimer,FUNC_6
+setup_test,FUNC_7
+signal_cb,VAR_2
+test_ok,VAR_3
+test_multiplesignal,FUNC_8
+ev_one,VAR_4
+ev_two,VAR_5
+itv,VAR_6

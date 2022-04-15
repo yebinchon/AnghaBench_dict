@@ -1,0 +1,13 @@
+DBF_EVENT,FUNC_0
+ERESTARTSYS,VAR_0
+__tape_cancel_io,FUNC_1
+__tape_start_request,FUNC_2
+__tape_wake_up_interruptible,VAR_1
+get_ccwdev_lock,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+wait_event_interruptible,FUNC_6
+tape_do_io_interruptible,FUNC_7
+device,VAR_2
+request,VAR_3
+rc,VAR_4

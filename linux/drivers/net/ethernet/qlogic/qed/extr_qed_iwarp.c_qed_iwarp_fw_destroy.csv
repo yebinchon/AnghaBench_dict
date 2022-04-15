@@ -1,0 +1,13 @@
+DP_VERBOSE,FUNC_0
+IWARP_RAMROD_CMD_ID_DESTROY_QP,VAR_0
+QED_MSG_RDMA,VAR_1
+QED_SPQ_MODE_EBLOCK,VAR_2
+memset,FUNC_1
+qed_sp_init_request,FUNC_2
+qed_spq_post,FUNC_3
+qed_iwarp_fw_destroy,FUNC_4
+p_hwfn,VAR_3
+qp,VAR_4
+init_data,VAR_5
+p_ent,VAR_6
+rc,VAR_7

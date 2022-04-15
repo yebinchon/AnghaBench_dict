@@ -1,0 +1,10 @@
+VMCB_CR,VAR_0
+VMCB_NPT,VAR_1
+__sme_set,FUNC_0
+kvm_read_cr3,FUNC_1
+mark_dirty,FUNC_2
+to_svm,FUNC_3
+set_tdp_cr3,FUNC_4
+vcpu,VAR_2
+root,VAR_3
+svm,VAR_4

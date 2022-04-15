@@ -1,0 +1,12 @@
+MACSEC_ATTR_RXSC_CONFIG,VAR_0
+MACSEC_RXSC_ATTR_SCI,VAR_1
+assert,FUNC_0
+log_netdev_error_errno,FUNC_1
+sd_netlink_message_append_u64,FUNC_2
+sd_netlink_message_close_container,FUNC_3
+sd_netlink_message_open_container,FUNC_4
+netdev_macsec_fill_message_sci,FUNC_5
+netdev,VAR_2
+sci,VAR_3
+m,VAR_4
+r,VAR_5

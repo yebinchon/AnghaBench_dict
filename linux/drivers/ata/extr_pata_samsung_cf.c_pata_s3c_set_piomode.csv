@@ -1,0 +1,17 @@
+S3C_ATA_CFG,VAR_0
+S3C_ATA_CFG_IORDYEN,VAR_1
+S3C_ATA_PIO_TIME,VAR_2
+ata_pio_need_iordy,FUNC_0
+ata_timing_compute,FUNC_1
+clk_get_rate,FUNC_2
+pata_s3c_setup_timing,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+pata_s3c_set_piomode,FUNC_6
+ap,VAR_3
+adev,VAR_4
+info,VAR_5
+timing,VAR_6
+cycle_time,VAR_7
+ata_cfg,VAR_8
+piotime,VAR_9

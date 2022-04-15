@@ -1,0 +1,16 @@
+RT5514_CLK_CTRL1,VAR_0
+RT5514_CLK_DMIC_OUT_SEL_MASK,VAR_1
+RT5514_CLK_DMIC_OUT_SEL_SFT,VAR_2
+dev_err,FUNC_0
+msleep,FUNC_1
+regmap_update_bits,FUNC_2
+rt5514_calc_dmic_clk,FUNC_3
+snd_soc_component_get_drvdata,FUNC_4
+snd_soc_dapm_to_component,FUNC_5
+rt5514_set_dmic_clk,FUNC_6
+w,VAR_3
+kcontrol,VAR_4
+event,VAR_5
+component,VAR_6
+rt5514,VAR_7
+idx,VAR_8

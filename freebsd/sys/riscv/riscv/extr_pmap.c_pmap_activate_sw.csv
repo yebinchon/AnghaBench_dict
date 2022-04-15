@@ -1,0 +1,15 @@
+CPU_CLR,FUNC_0
+CPU_CLR_ATOMIC,FUNC_1
+CPU_SET,FUNC_2
+CPU_SET_ATOMIC,FUNC_3
+PCPU_GET,FUNC_4
+PCPU_SET,FUNC_5
+curpmap,VAR_0
+load_satp,FUNC_6
+sfence_vma,FUNC_7
+vmspace_pmap,FUNC_8
+pmap_activate_sw,FUNC_9
+td,VAR_1
+oldpmap,VAR_2
+pmap,VAR_3
+hart,VAR_4

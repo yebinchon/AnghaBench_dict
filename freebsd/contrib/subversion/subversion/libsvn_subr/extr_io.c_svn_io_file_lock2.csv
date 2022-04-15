@@ -1,0 +1,16 @@
+APR_FLOCK_EXCLUSIVE,VAR_0
+APR_FLOCK_SHARED,VAR_1
+APR_OS_DEFAULT,VAR_2
+APR_READ,VAR_3
+APR_WRITE,VAR_4
+SVN_ERR,FUNC_0
+svn_io_file_open,FUNC_1
+svn_io_lock_open_file,FUNC_2
+svn_io_file_lock2,FUNC_3
+lock_file,VAR_5
+exclusive,VAR_6
+nonblocking,VAR_7
+pool,VAR_8
+locktype,VAR_9
+lockfile_handle,VAR_10
+flags,VAR_11

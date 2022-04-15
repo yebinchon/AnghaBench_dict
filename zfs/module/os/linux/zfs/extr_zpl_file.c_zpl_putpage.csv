@@ -1,0 +1,12 @@
+ASSERT,FUNC_0
+PageLocked,FUNC_1
+PageWriteback,FUNC_2
+spl_fstrans_mark,FUNC_3
+spl_fstrans_unmark,FUNC_4
+zfs_putpage,FUNC_5
+zpl_putpage,FUNC_6
+pp,VAR_0
+wbc,VAR_1
+data,VAR_2
+mapping,VAR_3
+cookie,VAR_4

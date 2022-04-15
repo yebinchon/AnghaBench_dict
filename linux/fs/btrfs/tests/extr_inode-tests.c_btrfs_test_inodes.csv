@@ -1,0 +1,13 @@
+EXTENT_FLAG_COMPRESSED,VAR_0
+EXTENT_FLAG_PREALLOC,VAR_1
+compressed_only,VAR_2
+prealloc_only,VAR_3
+set_bit,FUNC_0
+test_btrfs_get_extent,FUNC_1
+test_extent_accounting,FUNC_2
+test_hole_first,FUNC_3
+test_msg,FUNC_4
+btrfs_test_inodes,FUNC_5
+sectorsize,VAR_4
+nodesize,VAR_5
+ret,VAR_6

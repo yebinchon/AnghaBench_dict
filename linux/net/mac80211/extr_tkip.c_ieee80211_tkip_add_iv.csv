@@ -1,0 +1,8 @@
+TKIP_PN_TO_IV16,FUNC_0
+TKIP_PN_TO_IV32,FUNC_1
+put_unaligned_le32,FUNC_2
+write_tkip_iv,FUNC_3
+ieee80211_tkip_add_iv,FUNC_4
+pos,VAR_0
+keyconf,VAR_1
+pn,VAR_2

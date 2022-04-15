@@ -1,0 +1,11 @@
+IR_OFF,VAR_0
+IR_SIRMODE,VAR_1
+TOSA_GPIO_IRDA_TX,VAR_2
+TOSA_GPIO_IR_POWERDWN,VAR_3
+gpio_direction_output,FUNC_0
+gpio_free,FUNC_1
+gpio_request,FUNC_2
+tosa_irda_transceiver_mode,FUNC_3
+tosa_irda_startup,FUNC_4
+dev,VAR_4
+ret,VAR_5

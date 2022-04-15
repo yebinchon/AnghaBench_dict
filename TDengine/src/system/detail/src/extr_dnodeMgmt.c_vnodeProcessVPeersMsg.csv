@@ -1,0 +1,14 @@
+TSDB_DB_NAME_LEN,VAR_0
+TSDB_MSG_TYPE_VPEERS_RSP,VAR_1
+memcpy,FUNC_0
+taosBuildRspMsgToMnode,FUNC_1
+taosSendMsgToMnode,FUNC_2
+vnodeProcessVPeerCfg,FUNC_3
+vnodeProcessVPeersMsg,FUNC_4
+msg,VAR_2
+msgLen,VAR_3
+pMgmtObj,VAR_4
+code,VAR_5
+pStart,VAR_6
+pRsp,VAR_7
+pVPeersMsg,VAR_8

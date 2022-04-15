@@ -1,0 +1,11 @@
+IPMI_GET_DEVICE_ID_CMD,VAR_0
+IPMI_NETFN_APP_RESPONSE,VAR_1
+IPMI_SYSTEM_INTERFACE_ADDR_TYPE,VAR_2
+dev_warn,FUNC_0
+ipmi_demangle_device_id,FUNC_1
+smp_wmb,FUNC_2
+wake_up,FUNC_3
+bmc_device_id_handler,FUNC_4
+intf,VAR_3
+msg,VAR_4
+rv,VAR_5

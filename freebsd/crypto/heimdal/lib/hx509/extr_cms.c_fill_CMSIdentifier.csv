@@ -1,0 +1,15 @@
+_hx509_abort,FUNC_0
+_hx509_find_extension_subject_key_id,FUNC_1
+_hx509_get_cert,FUNC_2
+choice_CMSIdentifier_issuerAndSerialNumber,VAR_0
+choice_CMSIdentifier_subjectKeyIdentifier,VAR_1
+hx509_cert_get_issuer,FUNC_3
+hx509_cert_get_serialnumber,FUNC_4
+hx509_name_free,FUNC_5
+hx509_name_to_Name,FUNC_6
+fill_CMSIdentifier,FUNC_7
+cert,VAR_2
+type,VAR_3
+id,VAR_4
+ret,VAR_5
+name,VAR_6

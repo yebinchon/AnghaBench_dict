@@ -1,0 +1,12 @@
+__get_xps_queue_idx,FUNC_0
+rcu_dereference,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+sk_rx_queue_get,FUNC_4
+static_key_false,FUNC_5
+xps_needed,VAR_0
+xps_rxqs_needed,VAR_1
+get_xps_queue,FUNC_6
+dev,VAR_2
+sb_dev,VAR_3
+skb,VAR_4

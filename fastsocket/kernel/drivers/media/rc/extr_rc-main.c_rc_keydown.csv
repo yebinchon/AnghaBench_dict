@@ -1,0 +1,14 @@
+IR_KEYPRESS_TIMEOUT,VAR_0
+ir_do_keydown,FUNC_0
+jiffies,VAR_1
+mod_timer,FUNC_1
+msecs_to_jiffies,FUNC_2
+rc_g_keycode_from_table,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+rc_keydown,FUNC_6
+dev,VAR_2
+scancode,VAR_3
+toggle,VAR_4
+flags,VAR_5
+keycode,VAR_6

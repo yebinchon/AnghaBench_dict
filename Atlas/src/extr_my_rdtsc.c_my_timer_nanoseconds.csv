@@ -1,0 +1,11 @@
+CLOCK_REALTIME,VAR_0
+NXGetTime,FUNC_0
+NX_NSECONDS,VAR_1
+NX_SINCE_1970,VAR_2
+TIMEBASE_SZ,VAR_3
+clock_gettime,FUNC_1
+gethrtime,FUNC_2
+mach_absolute_time,FUNC_3
+mach_timebase_info,FUNC_4
+read_real_time,FUNC_5
+my_timer_nanoseconds,FUNC_6

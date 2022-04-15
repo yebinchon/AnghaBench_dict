@@ -1,0 +1,8 @@
+ATF_REQUIRE_EQ_MSG,FUNC_0
+errno,VAR_0
+strerror,FUNC_1
+sysctlbyname,FUNC_2
+get_int_via_sysctlbyname,FUNC_3
+oidname,VAR_1
+oldlen,VAR_2
+int_value,VAR_3

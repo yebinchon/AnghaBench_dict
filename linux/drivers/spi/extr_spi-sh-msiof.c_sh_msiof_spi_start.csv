@@ -1,0 +1,11 @@
+CTR_RXE,VAR_0
+CTR_TFSE,VAR_1
+CTR_TSCKE,VAR_2
+CTR_TXE,VAR_3
+sh_msiof_modify_ctr_wait,FUNC_0
+spi_controller_is_slave,FUNC_1
+sh_msiof_spi_start,FUNC_2
+p,VAR_4
+rx_buf,VAR_5
+slave,VAR_6
+ret,VAR_7

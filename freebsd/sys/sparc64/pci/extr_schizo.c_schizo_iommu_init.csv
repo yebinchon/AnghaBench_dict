@@ -1,0 +1,15 @@
+STX_PCI,VAR_0
+STX_PCI_IOMMU,VAR_1
+STX_PCI_IOMMU_QUEUE_DIAG,VAR_2
+STX_PCI_IOMMU_SVADIAG,VAR_3
+STX_PCI_IOMMU_TLB_CMP_DIAG,VAR_4
+STX_PCI_IOMMU_TLB_DATA_DIAG,VAR_5
+STX_PCI_IOMMU_TLB_TAG_DIAG,VAR_6
+device_get_nameunit,FUNC_0
+iommu_init,FUNC_1
+rman_get_bushandle,FUNC_2
+rman_get_bustag,FUNC_3
+schizo_iommu_init,FUNC_4
+sc,VAR_7
+tsbsize,VAR_8
+dvmabase,VAR_9

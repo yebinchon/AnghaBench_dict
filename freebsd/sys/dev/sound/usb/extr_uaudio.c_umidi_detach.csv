@@ -1,0 +1,15 @@
+UMIDI_EMB_JACK_MAX,VAR_0
+UMIDI_N_TRANSFER,VAR_1
+UMIDI_RX_TRANSFER,VAR_2
+device_get_softc,FUNC_0
+mtx_destroy,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+usb_fifo_detach,FUNC_4
+usbd_transfer_stop,FUNC_5
+usbd_transfer_unsetup,FUNC_6
+umidi_detach,FUNC_7
+dev,VAR_3
+sc,VAR_4
+chan,VAR_5
+n,VAR_6

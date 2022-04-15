@@ -1,0 +1,12 @@
+BEV_EVENT_READING,VAR_0
+BEV_EVENT_TIMEOUT,VAR_1
+EV_READ,VAR_2
+bufferevent_decref_and_unlock_,FUNC_0
+bufferevent_disable,FUNC_1
+bufferevent_incref_and_lock_,FUNC_2
+bufferevent_run_eventcb_,FUNC_3
+bufferevent_generic_read_timeout_cb,FUNC_4
+fd,VAR_3
+event,VAR_4
+ctx,VAR_5
+bev,VAR_6

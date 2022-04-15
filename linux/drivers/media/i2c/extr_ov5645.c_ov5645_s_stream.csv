@@ -1,0 +1,14 @@
+OV5645_IO_MIPI_CTRL00,VAR_0
+OV5645_SYSTEM_CTRL0,VAR_1
+OV5645_SYSTEM_CTRL0_START,VAR_2
+OV5645_SYSTEM_CTRL0_STOP,VAR_3
+dev_err,FUNC_0
+ov5645_set_register_array,FUNC_1
+ov5645_write_reg,FUNC_2
+to_ov5645,FUNC_3
+v4l2_ctrl_handler_setup,FUNC_4
+ov5645_s_stream,FUNC_5
+subdev,VAR_4
+enable,VAR_5
+ov5645,VAR_6
+ret,VAR_7

@@ -1,0 +1,14 @@
+destroy_conntrack,VAR_0
+init_net,VAR_1
+ip_ct_attach,VAR_2
+net_eq,FUNC_0
+nf_conntrack_attach,VAR_3
+nf_conntrack_cleanup_init_net,FUNC_1
+nf_conntrack_init_init_net,FUNC_2
+nf_conntrack_init_net,FUNC_3
+nf_ct_destroy,VAR_4
+nf_ct_nat_offset,VAR_5
+rcu_assign_pointer,FUNC_4
+nf_conntrack_init,FUNC_5
+net,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+CrcCalc,FUNC_0
+SetUi32,FUNC_1
+WriteBytes,FUNC_2
+XZ_BLOCK_HEADER_SIZE_MAX,VAR_0
+XzBlock_GetNumFilters,FUNC_3
+XzBlock_HasPackSize,FUNC_4
+XzBlock_HasUnpackSize,FUNC_5
+Xz_WriteVarInt,FUNC_6
+memcpy,FUNC_7
+XzBlock_WriteHeader,FUNC_8
+p,VAR_1
+s,VAR_2
+header,VAR_3
+pos,VAR_4
+numFilters,VAR_5
+i,VAR_6
+f,VAR_7

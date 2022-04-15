@@ -1,0 +1,14 @@
+FALSE,VAR_0
+THREAD_POLICY_STATE,VAR_1
+THREAD_POLICY_STATE_COUNT,VAR_2
+T_ASSERT_MACH_SUCCESS,FUNC_0
+T_QUIET,VAR_3
+pthread_mach_thread_np,FUNC_1
+pthread_self,FUNC_2
+thread_policy_get,FUNC_3
+get_user_promotion_basepri,FUNC_4
+count,VAR_4
+thread_policy,VAR_5
+get_default,VAR_6
+thread_port,VAR_7
+kr,VAR_8

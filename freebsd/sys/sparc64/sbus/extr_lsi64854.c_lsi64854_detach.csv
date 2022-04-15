@@ -1,0 +1,10 @@
+BUS_DMASYNC_PREREAD,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+L64854_GCSR,FUNC_0
+L64854_WRITE,VAR_2
+bus_dma_tag_destroy,FUNC_1
+bus_dmamap_destroy,FUNC_2
+bus_dmamap_sync,FUNC_3
+bus_dmamap_unload,FUNC_4
+lsi64854_detach,FUNC_5
+sc,VAR_3

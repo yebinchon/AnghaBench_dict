@@ -1,0 +1,16 @@
+EOPNOTSUPP,VAR_0
+MII_ADDR_C45,VAR_1
+MVMDIO_SMI_DATA_SHIFT,VAR_2
+MVMDIO_SMI_PHY_ADDR_SHIFT,VAR_3
+MVMDIO_SMI_PHY_REG_SHIFT,VAR_4
+MVMDIO_SMI_WRITE_OPERATION,VAR_5
+orion_mdio_smi_ops,VAR_6
+orion_mdio_wait_ready,FUNC_0
+writel,FUNC_1
+orion_mdio_smi_write,FUNC_2
+bus,VAR_7
+mii_id,VAR_8
+regnum,VAR_9
+value,VAR_10
+dev,VAR_11
+ret,VAR_12

@@ -1,0 +1,16 @@
+ATF_REQUIRE_KERNEL_MODULE,FUNC_0
+ATF_REQUIRE_MSG,FUNC_1
+ATF_REQUIRE_UNSAFE_AIO,FUNC_2
+PIPE_LEN,VAR_0
+aio_context_init,FUNC_3
+aio_read_test,FUNC_4
+aio_write_test,FUNC_5
+close,FUNC_6
+errno,VAR_1
+pipe,FUNC_7
+strerror,FUNC_8
+aio_pipe_test,FUNC_9
+comp,VAR_2
+sev,VAR_3
+ac,VAR_4
+pipes,VAR_5

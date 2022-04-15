@@ -1,0 +1,11 @@
+MLC_ADDR,FUNC_0
+MLC_CMD,FUNC_1
+NAND_CLE,VAR_0
+NAND_CMD_NONE,VAR_1
+nand_get_controller_data,FUNC_2
+writel,FUNC_3
+lpc32xx_nand_cmd_ctrl,FUNC_4
+nand_chip,VAR_2
+cmd,VAR_3
+ctrl,VAR_4
+host,VAR_5

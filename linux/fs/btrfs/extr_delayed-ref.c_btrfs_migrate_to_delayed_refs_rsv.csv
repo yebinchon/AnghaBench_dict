@@ -1,0 +1,11 @@
+btrfs_space_info_free_bytes_may_use,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+trace_btrfs_space_reservation,FUNC_3
+btrfs_migrate_to_delayed_refs_rsv,FUNC_4
+fs_info,VAR_0
+src,VAR_1
+num_bytes,VAR_2
+delayed_refs_rsv,VAR_3
+to_free,VAR_4
+delta,VAR_5

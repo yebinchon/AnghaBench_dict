@@ -1,0 +1,17 @@
+ZM_WLAN_EID_SUPPORTED_CHANNELS,VAR_0
+wd,VAR_1
+zmw_declare_for_critical_section,FUNC_0
+zmw_enter_critical_section,FUNC_1
+zmw_get_wlan_dev,FUNC_2
+zmw_leave_critical_section,FUNC_3
+zmw_tx_buf_writeb,FUNC_4
+zmw_tx_buf_writeh,FUNC_5
+zfStaAddIeSupportCh,FUNC_6
+dev,VAR_2
+buf,VAR_3
+offset,VAR_4
+i,VAR_5
+count_24G,VAR_6
+count_5G,VAR_7
+channelNum,VAR_8
+length,VAR_9

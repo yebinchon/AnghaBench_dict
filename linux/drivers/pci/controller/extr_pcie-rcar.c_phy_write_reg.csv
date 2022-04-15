@@ -1,0 +1,15 @@
+ADR_POS,VAR_0
+H1_PCIEPHYADRR,VAR_1
+H1_PCIEPHYDOUTR,VAR_2
+LANE_POS,VAR_3
+RATE_POS,VAR_4
+WRITE_CMD,VAR_5
+phy_wait_for_ack,FUNC_0
+rcar_pci_write_reg,FUNC_1
+phy_write_reg,FUNC_2
+pcie,VAR_6
+rate,VAR_7
+addr,VAR_8
+lane,VAR_9
+data,VAR_10
+phyaddr,VAR_11

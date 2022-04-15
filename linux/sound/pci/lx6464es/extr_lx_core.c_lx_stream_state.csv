@@ -1,0 +1,16 @@
+CMD_0E_GET_STREAM_SPL_COUNT,VAR_0
+PAUSE_STATE,VAR_1
+PIPE_INFO_TO_CMD,FUNC_0
+SF_START,VAR_2
+START_STATE,VAR_3
+lx_message_init,FUNC_1
+lx_message_send_atomic,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+lx_stream_state,FUNC_5
+chip,VAR_4
+pipe,VAR_5
+is_capture,VAR_6
+rstate,VAR_7
+err,VAR_8
+pipe_cmd,VAR_9

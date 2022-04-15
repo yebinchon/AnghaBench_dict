@@ -1,0 +1,13 @@
+A_ESPI_RX_RESET,VAR_0
+F_ESPI_RX_CORE_RST,VAR_1
+F_ESPI_RX_LNK_RST,VAR_2
+F_RX_CLK_STATUS,VAR_3
+TRICN_CNFG,VAR_4
+pr_err,FUNC_0
+readl,FUNC_1
+tricn_write,FUNC_2
+writel,FUNC_3
+tricn_init,FUNC_4
+adapter,VAR_5
+i,VAR_6
+sme,VAR_7

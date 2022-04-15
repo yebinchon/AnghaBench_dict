@@ -1,0 +1,12 @@
+BOARD_DTC3181E,VAR_0
+CSR_53C80_REG,VAR_1
+CSR_BASE,VAR_2
+CSR_RESET,VAR_3
+KERN_ERR,VAR_4
+NCR5380_read,FUNC_0
+NCR5380_write,FUNC_1
+scmd_printk,FUNC_2
+udelay,FUNC_3
+wait_for_53c80_access,FUNC_4
+hostdata,VAR_5
+count,VAR_6

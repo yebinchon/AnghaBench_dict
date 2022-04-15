@@ -1,0 +1,17 @@
+VDP_VIDEO_MIXER_PICTURE_STRUCTURE_BOTTOM_FIELD,VAR_0
+VDP_VIDEO_MIXER_PICTURE_STRUCTURE_FRAME,VAR_1
+VDP_VIDEO_MIXER_PICTURE_STRUCTURE_TOP_FIELD,VAR_2
+mp_refqueue_can_output,FUNC_0
+mp_refqueue_execute_reinit,FUNC_1
+mp_refqueue_get_field,FUNC_2
+mp_refqueue_is_top_field,FUNC_3
+mp_refqueue_should_deint,FUNC_4
+mp_refqueue_write_out_pin,FUNC_5
+mp_vdpau_mixed_frame_create,FUNC_6
+mp_vdpau_mixed_frame_get,FUNC_7
+ref_field,FUNC_8
+vf_vdpaupp_process,FUNC_9
+f,VAR_3
+p,VAR_4
+mpi,VAR_5
+frame,VAR_6

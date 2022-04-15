@@ -1,0 +1,14 @@
+ISC_R_SUCCESS,VAR_0
+REQUIRE,FUNC_0
+close,FUNC_1
+errno,VAR_1
+isc__errno2result,FUNC_2
+isc_file_safemovefile,FUNC_3
+mkstemp,FUNC_4
+unlink,FUNC_5
+isc_file_renameunique,FUNC_6
+file,VAR_2
+templet,VAR_3
+fd,VAR_4
+res,VAR_5
+result,VAR_6

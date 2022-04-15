@@ -1,0 +1,15 @@
+CN23XX_INTR_RESEND,VAR_0
+OCTEON_CN23XX_PF,FUNC_0
+OCTEON_CN23XX_VF,FUNC_1
+atomic_read,FUNC_2
+readq,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+writel,FUNC_6
+writeq,FUNC_7
+lio_enable_irq,FUNC_8
+droq,VAR_1
+iq,VAR_2
+instr_cnt,VAR_3
+pkts_pend,VAR_4
+oct,VAR_5

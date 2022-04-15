@@ -1,0 +1,11 @@
+BCMA_PCI_BAR1_CONTROL,VAR_0
+PCI_SLOT,FUNC_0
+bcma_core_pci_hostmode_read_config,VAR_1
+pci_name,FUNC_1
+pci_set_master,FUNC_2
+pci_write_config_dword,FUNC_3
+pcibios_enable_device,FUNC_4
+pr_err,FUNC_5
+pr_info,FUNC_6
+bcma_core_pci_fixup_pcibridge,FUNC_7
+dev,VAR_2

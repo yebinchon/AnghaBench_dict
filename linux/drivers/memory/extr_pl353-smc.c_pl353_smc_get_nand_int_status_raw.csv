@@ -1,0 +1,6 @@
+PL353_SMC_MEMC_STATUS_OFFS,VAR_0
+PL353_SMC_MEMC_STATUS_RAW_INT_1_SHIFT,VAR_1
+pl353_smc_base,VAR_2
+readl,FUNC_0
+pl353_smc_get_nand_int_status_raw,FUNC_1
+reg,VAR_3

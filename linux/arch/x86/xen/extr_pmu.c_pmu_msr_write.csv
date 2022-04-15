@@ -1,0 +1,15 @@
+X86_VENDOR_INTEL,VAR_0
+boot_cpu_data,VAR_1
+is_amd_pmu_msr,FUNC_0
+is_intel_pmu_msr,FUNC_1
+native_write_msr_safe,FUNC_2
+xen_amd_pmu_emulate,FUNC_3
+xen_intel_pmu_emulate,FUNC_4
+pmu_msr_write,FUNC_5
+msr,VAR_2
+low,VAR_3
+high,VAR_4
+err,VAR_5
+val,VAR_6
+type,VAR_7
+index,VAR_8

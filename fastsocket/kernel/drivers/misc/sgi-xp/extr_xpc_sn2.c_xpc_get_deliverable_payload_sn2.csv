@@ -1,0 +1,15 @@
+DBUG_ON,FUNC_0
+XPC_C_DISCONNECTING,VAR_0
+XPC_M_SN2_DONE,VAR_1
+XPC_M_SN2_READY,VAR_2
+cmpxchg,FUNC_1
+dev_dbg,FUNC_2
+smp_rmb,FUNC_3
+xpc_chan,VAR_3
+xpc_pull_remote_msg_sn2,FUNC_4
+xpc_get_deliverable_payload_sn2,FUNC_5
+ch,VAR_4
+ch_sn2,VAR_5
+msg,VAR_6
+payload,VAR_7
+get,VAR_8

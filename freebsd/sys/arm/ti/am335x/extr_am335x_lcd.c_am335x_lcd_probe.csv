@@ -1,0 +1,11 @@
+BUS_PROBE_DEFAULT,VAR_0
+ENXIO,VAR_1
+SC_AUTODETECT_KBD,VAR_2
+device_get_flags,FUNC_0
+device_get_unit,FUNC_1
+device_set_desc,FUNC_2
+ofw_bus_is_compatible,FUNC_3
+ofw_bus_status_okay,FUNC_4
+sc_probe_unit,FUNC_5
+am335x_lcd_probe,FUNC_6
+dev,VAR_3

@@ -1,0 +1,16 @@
+WD_NUMDEVS,VAR_0
+WD_STAT_BSTOP,VAR_1
+WD_TIMER_REGSZ,VAR_2
+cpwd_device,VAR_3
+cpwd_resetbrokentimer,FUNC_0
+cpwd_stoptimer,FUNC_1
+cpwd_timer,VAR_4
+del_timer_sync,FUNC_2
+free_irq,FUNC_3
+misc_deregister,FUNC_4
+of_iounmap,FUNC_5
+platform_get_drvdata,FUNC_6
+cpwd_remove,FUNC_7
+op,VAR_5
+p,VAR_6
+i,VAR_7

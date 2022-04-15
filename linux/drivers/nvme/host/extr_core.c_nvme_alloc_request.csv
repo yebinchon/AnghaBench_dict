@@ -1,0 +1,17 @@
+IS_ERR,FUNC_0
+NVME_QID_ANY,VAR_0
+REQ_FAILFAST_DRIVER,VAR_1
+REQ_OP_DRV_IN,VAR_2
+REQ_OP_DRV_OUT,VAR_3
+blk_mq_alloc_request,FUNC_1
+blk_mq_alloc_request_hctx,FUNC_2
+nvme_clear_nvme_request,FUNC_3
+nvme_is_write,FUNC_4
+nvme_req,FUNC_5
+nvme_alloc_request,FUNC_6
+q,VAR_4
+cmd,VAR_5
+flags,VAR_6
+qid,VAR_7
+op,VAR_8
+req,VAR_9

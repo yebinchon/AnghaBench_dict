@@ -1,0 +1,11 @@
+ESAS2R_LOG_INFO,VAR_0
+PCI_EXP_DEVCTL,VAR_1
+PCI_EXP_DEVCTL_READRQ,VAR_2
+PCI_EXP_DEVCTL_READRQ_512B,VAR_3
+esas2r_log,FUNC_0
+pci_is_pcie,FUNC_1
+pcie_capability_read_word,FUNC_2
+pcie_capability_write_word,FUNC_3
+esas2r_init_pci_cfg_space,FUNC_4
+a,VAR_4
+devcontrol,VAR_5

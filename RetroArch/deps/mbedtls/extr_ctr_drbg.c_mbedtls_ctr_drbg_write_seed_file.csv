@@ -1,0 +1,12 @@
+MBEDTLS_CTR_DRBG_MAX_INPUT,VAR_0
+MBEDTLS_ERR_CTR_DRBG_FILE_IO_ERROR,VAR_1
+fclose,FUNC_0
+fopen,FUNC_1
+fwrite,FUNC_2
+mbedtls_ctr_drbg_random,FUNC_3
+mbedtls_ctr_drbg_write_seed_file,FUNC_4
+ctx,VAR_2
+path,VAR_3
+ret,VAR_4
+f,VAR_5
+buf,VAR_6

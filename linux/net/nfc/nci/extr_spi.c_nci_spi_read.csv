@@ -1,0 +1,12 @@
+ACKNOWLEDGE_ACK,VAR_0
+ACKNOWLEDGE_NACK,VAR_1
+NCI_SPI_CRC_ENABLED,VAR_2
+__nci_spi_read,FUNC_0
+complete,FUNC_1
+kfree_skb,FUNC_2
+nci_spi_check_crc,FUNC_3
+nci_spi_get_ack,FUNC_4
+send_acknowledge,FUNC_5
+nci_spi_read,FUNC_6
+nspi,VAR_3
+skb,VAR_4

@@ -1,0 +1,14 @@
+HINIC_RQ_CQE_STATUS_GET,FUNC_0
+IS_ERR,FUNC_1
+RXDONE,VAR_0
+be32_to_cpu,FUNC_2
+hinic_read_wqe,FUNC_3
+hinic_rq_read_wqe,FUNC_4
+rq,VAR_1
+wqe_size,VAR_2
+skb,VAR_3
+cons_idx,VAR_4
+hw_wqe,VAR_5
+cqe,VAR_6
+rx_done,VAR_7
+status,VAR_8

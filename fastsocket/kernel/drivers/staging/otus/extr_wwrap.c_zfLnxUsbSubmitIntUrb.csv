@@ -1,0 +1,17 @@
+GFP_ATOMIC,VAR_0
+USB_DIR_OUT,VAR_1
+usb_fill_int_urb,FUNC_0
+usb_rcvbulkpipe,FUNC_1
+usb_sndbulkpipe,FUNC_2
+usb_submit_urb,FUNC_3
+zfLnxUsbSubmitIntUrb,FUNC_4
+urb,VAR_2
+usb,VAR_3
+epnum,VAR_4
+direction,VAR_5
+transfer_buffer,VAR_6
+buffer_length,VAR_7
+complete,VAR_8
+context,VAR_9
+interval,VAR_10
+ret,VAR_11

@@ -1,0 +1,16 @@
+SOCKET_EXEC_STOP_POST,VAR_0
+SOCKET_FAILURE_RESOURCES,VAR_1
+SOCKET_FINAL_SIGTERM,VAR_2
+SOCKET_STOP_POST,VAR_3
+SOCKET_SUCCESS,VAR_4
+UNIT,FUNC_0
+assert,FUNC_1
+log_unit_warning_errno,FUNC_2
+socket_enter_signal,FUNC_3
+socket_set_state,FUNC_4
+socket_spawn,FUNC_5
+socket_unwatch_control_pid,FUNC_6
+socket_enter_stop_post,FUNC_7
+s,VAR_5
+f,VAR_6
+r,VAR_7

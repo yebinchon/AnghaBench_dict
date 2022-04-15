@@ -1,0 +1,14 @@
+CHSPEC_IS20,FUNC_0
+NPHY_TBL_ID_GAIN1,VAR_0
+NPHY_TBL_ID_GAIN2,VAR_1
+NPHY_TBL_ID_GAINBITS1,VAR_2
+NPHY_TBL_ID_GAINBITS2,VAR_3
+mod_phy_reg,FUNC_1
+wlc_phy_table_write_nphy,FUNC_2
+write_phy_reg,FUNC_3
+wlc_phy_workarounds_nphy_gainctrl_2057_rev5,FUNC_4
+pi,VAR_4
+lna1_gain_db,VAR_5
+lna2_gain_db,VAR_6
+tia_gain_db,VAR_7
+tia_gainbits,VAR_8

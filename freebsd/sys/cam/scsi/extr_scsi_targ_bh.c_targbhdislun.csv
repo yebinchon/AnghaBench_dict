@@ -1,0 +1,17 @@
+CAM_PRIORITY_NORMAL,VAR_0
+CAM_REQ_CMP,VAR_1
+SLIST_FIRST,FUNC_0
+SLIST_REMOVE_HEAD,FUNC_1
+TARGBH_FLAG_LUN_ENABLED,VAR_2
+XPT_ABORT,VAR_3
+XPT_EN_LUN,VAR_4
+periph_links,VAR_5
+printf,FUNC_2
+xpt_action,FUNC_3
+xpt_setup_ccb,FUNC_4
+targbhdislun,FUNC_5
+periph,VAR_6
+ccb,VAR_7
+softc,VAR_8
+atio,VAR_9
+ccb_h,VAR_10

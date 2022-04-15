@@ -1,0 +1,16 @@
+DE_ACT,FUNC_0
+DE_HWP,FUNC_1
+SNDRV_PCM_HW_PARAM_CHANNELS,VAR_0
+SNDRV_PCM_HW_PARAM_FORMAT,VAR_1
+atomic_inc,FUNC_2
+atomic_read,FUNC_3
+hw_rule_capture_channels_by_format,VAR_2
+hw_rule_capture_format_by_channels,VAR_3
+num_analog_busses_in,FUNC_4
+pcm_open,FUNC_5
+snd_pcm_hw_rule_add,FUNC_6
+snd_pcm_substream_chip,FUNC_7
+pcm_analog_in_open,FUNC_8
+substream,VAR_4
+chip,VAR_5
+err,VAR_6

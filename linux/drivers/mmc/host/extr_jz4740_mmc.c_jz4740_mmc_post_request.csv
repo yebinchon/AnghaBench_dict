@@ -1,0 +1,12 @@
+COOKIE_UNMAPPED,VAR_0
+dmaengine_terminate_all,FUNC_0
+jz4740_mmc_dma_unmap,FUNC_1
+jz4740_mmc_get_dma_chan,FUNC_2
+mmc_priv,FUNC_3
+jz4740_mmc_post_request,FUNC_4
+mmc,VAR_1
+mrq,VAR_2
+err,VAR_3
+host,VAR_4
+data,VAR_5
+chan,VAR_6

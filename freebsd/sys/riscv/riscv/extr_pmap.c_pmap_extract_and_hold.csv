@@ -1,0 +1,17 @@
+PHYS_TO_VM_PAGE,FUNC_0
+PMAP_LOCK,FUNC_1
+PMAP_UNLOCK,FUNC_2
+PTE_TO_PHYS,FUNC_3
+PTE_W,VAR_0
+VM_PROT_WRITE,VAR_1
+pmap_l3,FUNC_4
+pmap_load,FUNC_5
+vm_page_wire_mapped,FUNC_6
+pmap_extract_and_hold,FUNC_7
+pmap,VAR_2
+va,VAR_3
+prot,VAR_4
+l3p,VAR_5
+l3,VAR_6
+phys,VAR_7
+m,VAR_8

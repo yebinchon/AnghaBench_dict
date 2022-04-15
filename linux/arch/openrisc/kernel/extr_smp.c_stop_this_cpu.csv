@@ -1,0 +1,11 @@
+SPR_PMR,VAR_0
+SPR_PMR_DME,VAR_1
+SPR_UPR,VAR_2
+SPR_UPR_PMP,VAR_3
+local_irq_disable,FUNC_0
+mfspr,FUNC_1
+mtspr,FUNC_2
+set_cpu_online,FUNC_3
+smp_processor_id,FUNC_4
+stop_this_cpu,FUNC_5
+dummy,VAR_4

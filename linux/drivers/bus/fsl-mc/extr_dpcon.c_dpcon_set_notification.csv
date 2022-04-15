@@ -1,0 +1,12 @@
+DPCON_CMDID_SET_NOTIFICATION,VAR_0
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dpcon_set_notification,FUNC_4
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+cfg,VAR_4
+cmd,VAR_5
+dpcon_cmd,VAR_6

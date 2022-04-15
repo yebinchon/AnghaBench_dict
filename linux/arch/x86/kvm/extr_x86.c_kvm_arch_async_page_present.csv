@@ -1,0 +1,15 @@
+KVM_ASYNC_PF_ENABLED,VAR_0
+KVM_MP_STATE_RUNNABLE,VAR_1
+KVM_PV_REASON_PAGE_NOT_PRESENT,VAR_2
+KVM_PV_REASON_PAGE_READY,VAR_3
+PF_VECTOR,VAR_4
+apf_get_user,FUNC_0
+apf_put_user,FUNC_1
+kvm_del_async_pf_gfn,FUNC_2
+kvm_inject_page_fault,FUNC_3
+trace_kvm_async_pf_ready,FUNC_4
+kvm_arch_async_page_present,FUNC_5
+vcpu,VAR_5
+work,VAR_6
+fault,VAR_7
+val,VAR_8

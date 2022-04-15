@@ -1,0 +1,13 @@
+QUICLY_ACK_MAX_GAPS,VAR_0
+QUICLY_TRANSPORT_ERROR_FRAME_ENCODING,VAR_1
+UINT64_MAX,VAR_2
+quicly_decodev,FUNC_0
+quicly_decode_ack_frame,FUNC_1
+src,VAR_3
+end,VAR_4
+frame,VAR_5
+is_ack_ecn,VAR_6
+i,VAR_7
+num_gaps,VAR_8
+gap,VAR_9
+ack_range,VAR_10

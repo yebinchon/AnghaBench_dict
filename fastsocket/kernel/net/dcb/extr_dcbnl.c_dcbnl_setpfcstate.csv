@@ -1,0 +1,15 @@
+DCB_ATTR_PFC_STATE,VAR_0
+DCB_CMD_PFC_SSTATE,VAR_1
+EINVAL,VAR_2
+RTM_SETDCB,VAR_3
+dcbnl_reply,FUNC_0
+nla_get_u8,FUNC_1
+stub1,FUNC_2
+dcbnl_setpfcstate,FUNC_3
+netdev,VAR_4
+tb,VAR_5
+pid,VAR_6
+seq,VAR_7
+flags,VAR_8
+ret,VAR_9
+value,VAR_10

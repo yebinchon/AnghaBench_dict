@@ -1,0 +1,8 @@
+DVFS_DFLL_RESET_SHIFT,VAR_0
+RST_DFLL_DVCO,VAR_1
+clk_base,VAR_2
+readl_relaxed,FUNC_0
+tegra114_car_barrier,FUNC_1
+writel_relaxed,FUNC_2
+tegra114_clock_assert_dfll_dvco_reset,FUNC_3
+v,VAR_3

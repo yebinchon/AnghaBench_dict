@@ -1,0 +1,11 @@
+PARPORT_IRQ_NONE,VAR_0
+PARPORT_MODE_EPP,VAR_1
+clear_epp_timeout,FUNC_0
+get_superio_irq,FUNC_1
+irq_probe_ECP,FUNC_2
+irq_probe_EPP,FUNC_3
+irq_probe_SPP,FUNC_4
+programmable_irq_support,FUNC_5
+parport_irq_probe,FUNC_6
+pb,VAR_2
+priv,VAR_3

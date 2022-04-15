@@ -1,0 +1,13 @@
+SCx200_WDT_WDCNFG,VAR_0
+SCx200_WDT_WDSTS,VAR_1
+SCx200_WDT_WDSTS_WDOVF,VAR_2
+SCx200_WDT_WDTO,VAR_3
+W_DISABLE,VAR_4
+outb,FUNC_0
+outw,FUNC_1
+pr_debug,FUNC_2
+scx200_cb_base,VAR_5
+scx_lock,VAR_6
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+scx200_wdt_disable,FUNC_5

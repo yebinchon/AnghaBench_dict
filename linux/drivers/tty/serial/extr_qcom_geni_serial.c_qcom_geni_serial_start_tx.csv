@@ -1,0 +1,14 @@
+DEF_TX_WM,VAR_0
+M_CMD_DONE_EN,VAR_1
+M_GENI_CMD_ACTIVE,VAR_2
+M_TX_FIFO_WATERMARK_EN,VAR_3
+SE_GENI_M_IRQ_EN,VAR_4
+SE_GENI_STATUS,VAR_5
+SE_GENI_TX_WATERMARK_REG,VAR_6
+qcom_geni_serial_tx_empty,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+qcom_geni_serial_start_tx,FUNC_3
+uport,VAR_7
+irq_en,VAR_8
+status,VAR_9

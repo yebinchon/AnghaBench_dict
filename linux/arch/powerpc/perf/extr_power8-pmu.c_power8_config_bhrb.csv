@@ -1,0 +1,6 @@
+POWER8_MMCRA_BHRB_MASK,VAR_0
+SPRN_MMCRA,VAR_1
+mfspr,FUNC_0
+mtspr,FUNC_1
+power8_config_bhrb,FUNC_2
+pmu_bhrb_filter,VAR_2

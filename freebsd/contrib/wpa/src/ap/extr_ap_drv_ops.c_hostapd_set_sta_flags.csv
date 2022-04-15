@@ -1,0 +1,15 @@
+WLAN_AUTH_FT,VAR_0
+WLAN_STA_AUTHORIZED,VAR_1
+WPA_STA_AUTHORIZED,VAR_2
+WPA_STA_MFP,VAR_3
+WPA_STA_SHORT_PREAMBLE,VAR_4
+WPA_STA_WMM,VAR_5
+hostapd_sta_flags_to_drv,FUNC_0
+hostapd_sta_set_flags,FUNC_1
+hostapd_set_sta_flags,FUNC_2
+hapd,VAR_6
+sta,VAR_7
+set_flags,VAR_8
+total_flags,VAR_9
+flags_and,VAR_10
+flags_or,VAR_11

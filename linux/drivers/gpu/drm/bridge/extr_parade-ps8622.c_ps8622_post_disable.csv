@@ -1,0 +1,12 @@
+DRM_ERROR,FUNC_0
+PS8622_POWER_FALL_T16_MAX_US,VAR_0
+PS8622_POWER_OFF_T17_MS,VAR_1
+bridge_to_ps8622,FUNC_1
+drm_panel_unprepare,FUNC_2
+gpiod_set_value,FUNC_3
+msleep,FUNC_4
+regulator_disable,FUNC_5
+usleep_range,FUNC_6
+ps8622_post_disable,FUNC_7
+bridge,VAR_2
+ps8622,VAR_3

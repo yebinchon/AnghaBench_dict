@@ -1,0 +1,14 @@
+LWP_MUTEX_LOCKED,VAR_0
+LWP_MUTEX_TIMEOUT,VAR_1
+LWP_STATES_WAITING_FOR_MUTEX,VAR_2
+LWP_THREADQ_MODEFIFO,VAR_3
+LWP_THREADQ_MODEPRIORITY,VAR_4
+__lwp_mutex_isfifo,FUNC_0
+__lwp_mutex_isinheritprio,FUNC_1
+__lwp_mutex_isprioceiling,FUNC_2
+__lwp_threadqueue_init,FUNC_3
+_thr_executing,VAR_5
+__lwp_mutex_initialize,FUNC_4
+mutex,VAR_6
+attrs,VAR_7
+init_lock,VAR_8

@@ -1,0 +1,17 @@
+KERN_FILEDESC_PACK_KINFO,VAR_0
+KF_ATTR_VALID,VAR_1
+KF_TYPE_VNODE,VAR_2
+bzero,FUNC_0
+cap_rights_init,FUNC_1
+pack_kinfo,FUNC_2
+roundup2,FUNC_3
+vn_fill_kinfo_vnode,FUNC_4
+vrele,FUNC_5
+xlate_fflags,FUNC_6
+export_vnode_to_kinfo,FUNC_7
+vp,VAR_3
+fd,VAR_4
+fflags,VAR_5
+kif,VAR_6
+flags,VAR_7
+error,VAR_8

@@ -1,0 +1,8 @@
+MSR_PPIN_CTL,VAR_0
+X86_FEATURE_INTEL_PPIN,VAR_1
+rdmsrl_safe,FUNC_0
+set_cpu_cap,FUNC_1
+wrmsrl_safe,FUNC_2
+intel_ppin_init,FUNC_3
+c,VAR_2
+val,VAR_3

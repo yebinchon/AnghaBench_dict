@@ -1,0 +1,8 @@
+E1000_P2VMAILBOX,FUNC_0
+E1000_P2VMAILBOX_PFU,VAR_0
+rd32,FUNC_1
+wr32,FUNC_2
+igb_release_mbx_lock_pf,FUNC_3
+hw,VAR_1
+vf_number,VAR_2
+p2v_mailbox,VAR_3

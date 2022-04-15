@@ -1,0 +1,14 @@
+IP6CB,FUNC_0
+IPCB,FUNC_1
+IPSKB_REROUTED,VAR_0
+dst_allfrag,FUNC_2
+dst_output,FUNC_3
+ip6_finish_output2,FUNC_4
+ip6_fragment,FUNC_5
+ip6_skb_dst_mtu,FUNC_6
+skb_dst,FUNC_7
+skb_is_gso,FUNC_8
+__ip6_finish_output,FUNC_9
+net,VAR_1
+sk,VAR_2
+skb,VAR_3

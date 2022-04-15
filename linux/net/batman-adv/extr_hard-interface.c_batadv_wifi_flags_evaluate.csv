@@ -1,0 +1,12 @@
+BATADV_HARDIF_WIFI_CFG80211_DIRECT,VAR_0
+BATADV_HARDIF_WIFI_CFG80211_INDIRECT,VAR_1
+BATADV_HARDIF_WIFI_WEXT_DIRECT,VAR_2
+BATADV_HARDIF_WIFI_WEXT_INDIRECT,VAR_3
+batadv_get_real_netdevice,FUNC_0
+batadv_is_cfg80211_netdev,FUNC_1
+batadv_is_wext_netdev,FUNC_2
+dev_put,FUNC_3
+batadv_wifi_flags_evaluate,FUNC_4
+net_device,VAR_4
+wifi_flags,VAR_5
+real_netdev,VAR_6

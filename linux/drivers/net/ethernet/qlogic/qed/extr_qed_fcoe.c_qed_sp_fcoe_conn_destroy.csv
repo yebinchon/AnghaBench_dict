@@ -1,0 +1,15 @@
+DMA_REGPAIR_LE,FUNC_0
+FCOE_RAMROD_CMD_ID_TERMINATE_CONN,VAR_0
+PROTOCOLID_FCOE,VAR_1
+memset,FUNC_1
+qed_sp_init_request,FUNC_2
+qed_spq_post,FUNC_3
+qed_sp_fcoe_conn_destroy,FUNC_4
+p_hwfn,VAR_2
+p_conn,VAR_3
+comp_mode,VAR_4
+p_comp_addr,VAR_5
+p_ramrod,VAR_6
+p_ent,VAR_7
+init_data,VAR_8
+rc,VAR_9

@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+__blkdev_issue_zeroout,FUNC_0
+errno_to_nvme_status,FUNC_1
+le16_to_cpu,FUNC_2
+le64_to_cpu,FUNC_3
+nvmet_bio_done,VAR_1
+nvmet_req_complete,FUNC_4
+submit_bio,FUNC_5
+nvmet_bdev_execute_write_zeroes,FUNC_6
+req,VAR_2
+write_zeroes,VAR_3
+bio,VAR_4
+sector,VAR_5
+nr_sector,VAR_6
+ret,VAR_7

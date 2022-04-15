@@ -1,0 +1,14 @@
+InvalidTransactionId,VAR_0
+MyPgXact,VAR_1
+MyReplicationSlot,VAR_2
+ReplicationSlotMarkDirty,FUNC_0
+ReplicationSlotsComputeRequiredXmin,FUNC_1
+SpinLockAcquire,FUNC_2
+SpinLockRelease,FUNC_3
+TransactionIdIsNormal,FUNC_4
+TransactionIdPrecedes,FUNC_5
+PhysicalReplicationSlotNewXmin,FUNC_6
+feedbackXmin,VAR_3
+feedbackCatalogXmin,VAR_4
+changed,VAR_5
+slot,VAR_6

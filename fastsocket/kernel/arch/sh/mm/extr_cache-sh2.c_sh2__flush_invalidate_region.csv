@@ -1,0 +1,17 @@
+CACHE_OC_ADDRESS_ARRAY,VAR_0
+CACHE_PHYSADDR_MASK,VAR_1
+CCR,VAR_2
+CCR_CACHE_INVALIDATE,VAR_3
+L1_CACHE_BYTES,VAR_4
+back_to_cached,FUNC_0
+ctrl_inl,FUNC_1
+ctrl_outl,FUNC_2
+jump_to_uncached,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+sh2__flush_invalidate_region,FUNC_6
+start,VAR_5
+size,VAR_6
+v,VAR_7
+begin,VAR_8
+end,VAR_9

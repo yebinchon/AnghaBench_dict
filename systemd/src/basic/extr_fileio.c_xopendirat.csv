@@ -1,0 +1,15 @@
+O_CLOEXEC,VAR_0
+O_CREAT,VAR_1
+O_DIRECTORY,VAR_2
+O_NONBLOCK,VAR_3
+O_RDONLY,VAR_4
+assert,FUNC_0
+fdopendir,FUNC_1
+openat,FUNC_2
+safe_close,FUNC_3
+xopendirat,FUNC_4
+fd,VAR_5
+name,VAR_6
+flags,VAR_7
+nfd,VAR_8
+d,VAR_9

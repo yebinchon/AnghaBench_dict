@@ -1,0 +1,16 @@
+CGROUP_CPU_QUOTA_DEFAULT_PERIOD_USEC,VAR_0
+FORMAT_TIMESPAN_MAX,VAR_1
+LOG_DEBUG,VAR_2
+LOG_WARNING,VAR_3
+USEC_INFINITY,VAR_4
+USEC_PER_MSEC,VAR_5
+USEC_PER_SEC,VAR_6
+cgroup_cpu_adjust_period,FUNC_0
+format_timespan,FUNC_1
+log_unit_full,FUNC_2
+cgroup_cpu_adjust_period_and_log,FUNC_3
+u,VAR_7
+period,VAR_8
+quota,VAR_9
+new_period,VAR_10
+v,VAR_11

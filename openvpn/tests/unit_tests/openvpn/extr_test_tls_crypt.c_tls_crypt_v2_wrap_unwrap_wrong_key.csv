@@ -1,0 +1,17 @@
+BLEN,FUNC_0
+KEY_DIRECTION_BIDIRECTIONAL,VAR_0
+assert_false,FUNC_1
+assert_true,FUNC_2
+free_key_ctx_bi,FUNC_3
+init_key_ctx_bi,FUNC_4
+memcmp,FUNC_5
+memset,FUNC_6
+tls_crypt_kt,FUNC_7
+tls_crypt_v2_unwrap_client_key,FUNC_8
+tls_crypt_v2_wrap_client_key,FUNC_9
+tls_crypt_v2_wrap_unwrap_wrong_key,FUNC_10
+state,VAR_1
+ctx,VAR_2
+kt,VAR_3
+unwrapped_client_key2,VAR_4
+zero,VAR_5

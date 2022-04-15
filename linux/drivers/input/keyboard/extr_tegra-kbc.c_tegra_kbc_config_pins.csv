@@ -1,0 +1,16 @@
+KBC_COL_CFG0_0,VAR_0
+KBC_MAX_GPIO,VAR_1
+KBC_ROW_CFG0_0,VAR_2
+readl,FUNC_0
+writel,FUNC_1
+tegra_kbc_config_pins,FUNC_2
+kbc,VAR_3
+i,VAR_4
+r_shft,VAR_5
+c_shft,VAR_6
+r_mask,VAR_7
+c_mask,VAR_8
+r_offs,VAR_9
+c_offs,VAR_10
+row_cfg,VAR_11
+col_cfg,VAR_12

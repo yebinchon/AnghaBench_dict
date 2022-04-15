@@ -1,0 +1,12 @@
+c_can_hw_raminit_wait_syscon,FUNC_0
+raminit_lock,VAR_0
+regmap_read,FUNC_1
+regmap_update_bits,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+c_can_hw_raminit_syscon,FUNC_5
+priv,VAR_1
+enable,VAR_2
+raminit,VAR_3
+ctrl,VAR_4
+mask,VAR_5

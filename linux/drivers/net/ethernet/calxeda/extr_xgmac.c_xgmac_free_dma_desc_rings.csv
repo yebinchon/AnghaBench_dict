@@ -1,0 +1,8 @@
+DMA_RX_RING_SZ,VAR_0
+DMA_TX_RING_SZ,VAR_1
+dma_free_coherent,FUNC_0
+kfree,FUNC_1
+xgmac_free_rx_skbufs,FUNC_2
+xgmac_free_tx_skbufs,FUNC_3
+xgmac_free_dma_desc_rings,FUNC_4
+priv,VAR_2

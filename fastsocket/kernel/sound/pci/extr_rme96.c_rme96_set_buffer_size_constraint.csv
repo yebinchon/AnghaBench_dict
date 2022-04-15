@@ -1,0 +1,10 @@
+RME96_BUFFER_SIZE,VAR_0
+SNDRV_PCM_HW_PARAM_BUFFER_BYTES,VAR_1
+SNDRV_PCM_HW_PARAM_PERIOD_BYTES,VAR_2
+hw_constraints_period_bytes,VAR_3
+snd_pcm_hw_constraint_list,FUNC_0
+snd_pcm_hw_constraint_minmax,FUNC_1
+rme96_set_buffer_size_constraint,FUNC_2
+rme96,VAR_4
+runtime,VAR_5
+size,VAR_6

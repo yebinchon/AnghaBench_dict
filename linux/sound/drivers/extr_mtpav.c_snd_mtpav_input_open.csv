@@ -1,0 +1,12 @@
+CREG,VAR_0
+MTPAV_MODE_INPUT_OPENED,VAR_1
+SIGC_INTEN,VAR_2
+SIGC_WRITE,VAR_3
+snd_mtpav_mputreg,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+snd_mtpav_input_open,FUNC_3
+substream,VAR_4
+mtp_card,VAR_5
+portp,VAR_6
+flags,VAR_7

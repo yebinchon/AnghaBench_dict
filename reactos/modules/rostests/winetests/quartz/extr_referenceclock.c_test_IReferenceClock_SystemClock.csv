@@ -1,0 +1,12 @@
+CLSCTX_INPROC_SERVER,VAR_0
+CLSID_SystemClock,VAR_1
+CoCreateInstance,FUNC_0
+IID_IReferenceClock,VAR_2
+IReferenceClock_Release,FUNC_1
+S_OK,VAR_3
+ok,FUNC_2
+test_IReferenceClock_methods,FUNC_3
+test_IReferenceClock_query_interface,FUNC_4
+test_IReferenceClock_SystemClock,FUNC_5
+pReferenceClock,VAR_4
+hr,VAR_5

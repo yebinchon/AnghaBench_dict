@@ -1,0 +1,13 @@
+BUS_DMASYNC_POSTWRITE,VAR_0
+BUS_DMASYNC_PREWRITE,VAR_1
+RT_SOFTC_TX_RING_DATA_COUNT,VAR_2
+RT_SOFTC_TX_RING_DESC_COUNT,VAR_3
+bus_dmamap_sync,FUNC_0
+bus_dmamap_unload,FUNC_1
+m_freem,FUNC_2
+rt_reset_tx_ring,FUNC_3
+sc,VAR_4
+ring,VAR_5
+data,VAR_6
+desc,VAR_7
+i,VAR_8

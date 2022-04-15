@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+ENODEV,VAR_1
+PWRDM_POWER_ON,VAR_2
+PWRDM_POWER_RET,VAR_3
+omap_hwmod_get_pwrdm,FUNC_0
+pwrdm_read_next_pwrst,FUNC_1
+pwrdm_set_next_pwrst,FUNC_2
+to_omap_device,FUNC_3
+omap_iommu_set_pwrdm_constraint,FUNC_4
+pdev,VAR_4
+request,VAR_5
+pwrst,VAR_6
+pwrdm,VAR_7
+od,VAR_8
+next_pwrst,VAR_9

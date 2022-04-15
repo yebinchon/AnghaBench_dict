@@ -1,0 +1,13 @@
+IDP_BUSY_LED,VAR_0
+IDP_CPLD_LED_CONTROL,VAR_1
+IDP_HB_LED,VAR_2
+IDP_LEDS_MASK,VAR_3
+LED_STATE_CLAIMED,VAR_4
+LED_STATE_ENABLED,VAR_5
+hw_led_state,VAR_6
+led_state,VAR_7
+local_irq_restore,FUNC_0
+local_irq_save,FUNC_1
+idp_leds_event,FUNC_2
+evt,VAR_8
+flags,VAR_9

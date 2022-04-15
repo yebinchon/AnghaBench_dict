@@ -1,0 +1,14 @@
+BTCF_AtLast,VAR_0
+BTCF_ValidNKey,VAR_1
+BTCF_ValidOvfl,VAR_2
+CURSOR_REQUIRESEEK,VAR_3
+CURSOR_SKIPNEXT,VAR_4
+CURSOR_VALID,VAR_5
+SQLITE_OK,VAR_6
+assert,FUNC_0
+btreeReleaseAllCursorPages,FUNC_1
+cursorHoldsMutex,FUNC_2
+saveCursorKey,FUNC_3
+saveCursorPosition,FUNC_4
+pCur,VAR_7
+rc,VAR_8

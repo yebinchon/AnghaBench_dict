@@ -1,0 +1,13 @@
+MTPAV_MODE_OUTPUT_TRIGGERED,VAR_0
+MTPAV_PIDX_BROADCAST,VAR_1
+add_timer,FUNC_0
+jiffies,VAR_2
+snd_mtpav_output_port_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+snd_mtpav_output_timer,FUNC_4
+data,VAR_3
+flags,VAR_4
+chip,VAR_5
+p,VAR_6
+portp,VAR_7

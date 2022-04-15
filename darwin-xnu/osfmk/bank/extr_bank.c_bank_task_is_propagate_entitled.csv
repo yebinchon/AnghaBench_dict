@@ -1,0 +1,9 @@
+ENTITLEMENT_PERSONA_PROPAGATE,VAR_0
+FALSE,VAR_1
+IOTaskHasEntitlement,FUNC_0
+TRUE,VAR_2
+kauth_cred_get,FUNC_1
+kauth_cred_issuser,FUNC_2
+bank_task_is_propagate_entitled,FUNC_3
+t,VAR_3
+entitled,VAR_4

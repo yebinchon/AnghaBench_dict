@@ -1,0 +1,17 @@
+EVTCHNOP_close,VAR_0
+EVTCHN_TYPE_UNBOUND,VAR_1
+HYPERVISOR_event_channel_op,FUNC_0
+KASSERT,FUNC_1
+evtchn_clear_port,FUNC_2
+evtchn_cpu_mask_port,FUNC_3
+evtchn_cpu_unmask_port,FUNC_4
+evtchn_mask_port,FUNC_5
+is_valid_evtchn,FUNC_6
+mtx_lock,FUNC_7
+mtx_unlock,FUNC_8
+panic,FUNC_9
+xen_intr_isrc_lock,VAR_2
+xen_intr_port_to_isrc,VAR_3
+xen_intr_release_isrc,FUNC_10
+isrc,VAR_4
+close,VAR_5

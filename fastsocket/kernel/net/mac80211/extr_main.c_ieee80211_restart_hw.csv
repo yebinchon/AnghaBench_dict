@@ -1,0 +1,11 @@
+IEEE80211_MAX_QUEUE_MAP,VAR_0
+IEEE80211_QUEUE_STOP_REASON_SUSPEND,VAR_1
+barrier,FUNC_0
+hw_to_local,FUNC_1
+ieee80211_stop_queues_by_reason,FUNC_2
+schedule_work,FUNC_3
+trace_api_restart_hw,FUNC_4
+wiphy_info,FUNC_5
+ieee80211_restart_hw,FUNC_6
+hw,VAR_2
+local,VAR_3

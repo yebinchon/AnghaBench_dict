@@ -1,0 +1,15 @@
+CCGX_RAB_JUMP_TO_BOOT,VAR_0
+RESET_COMPLETE,VAR_1
+RESET_PENDING,VAR_2
+TO_ALT_FW,VAR_3
+TO_BOOT,VAR_4
+ccg_send_command,FUNC_0
+clear_bit,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+set_bit,FUNC_4
+ccg_cmd_jump_boot_mode,FUNC_5
+uc,VAR_5
+bl_mode,VAR_6
+cmd,VAR_7
+ret,VAR_8

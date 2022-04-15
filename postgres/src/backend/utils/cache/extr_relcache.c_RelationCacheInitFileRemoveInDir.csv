@@ -1,0 +1,15 @@
+AllocateDir,FUNC_0
+FreeDir,FUNC_1
+LOG,VAR_0
+MAXPGPATH,VAR_1
+RELCACHE_INIT_FILENAME,VAR_2
+ReadDirExtended,FUNC_2
+snprintf,FUNC_3
+strlen,FUNC_4
+strspn,FUNC_5
+unlink_initfile,FUNC_6
+RelationCacheInitFileRemoveInDir,FUNC_7
+tblspcpath,VAR_3
+dir,VAR_4
+de,VAR_5
+initfilename,VAR_6

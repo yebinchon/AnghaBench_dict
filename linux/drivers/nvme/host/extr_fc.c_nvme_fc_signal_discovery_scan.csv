@@ -1,0 +1,12 @@
+FCNVME_TRADDR_LENGTH,VAR_0
+FC_PORT_ROLE_NVME_DISCOVERY,VAR_1
+KOBJ_CHANGE,VAR_2
+fc_udev_device,VAR_3
+kobject_uevent_env,FUNC_0
+snprintf,FUNC_1
+nvme_fc_signal_discovery_scan,FUNC_2
+lport,VAR_4
+rport,VAR_5
+hostaddr,VAR_6
+tgtaddr,VAR_7
+envp,VAR_8

@@ -1,0 +1,14 @@
+DAVINCI_VC_CTRL,VAR_0
+DAVINCI_VC_CTRL_RSTADC,VAR_1
+DAVINCI_VC_CTRL_RSTDAC,VAR_2
+MOD_REG_BIT,FUNC_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_3
+readl,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+writel,FUNC_3
+davinci_vcif_start,FUNC_4
+substream,VAR_4
+rtd,VAR_5
+davinci_vcif_dev,VAR_6
+davinci_vc,VAR_7
+w,VAR_8

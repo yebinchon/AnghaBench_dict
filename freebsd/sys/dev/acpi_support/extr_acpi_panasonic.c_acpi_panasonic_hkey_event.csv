@@ -1,0 +1,16 @@
+ACPI_ALLOCATE_BUFFER,VAR_0
+ACPI_SERIAL_ASSERT,FUNC_0
+ACPI_TYPE_INTEGER,VAR_1
+AcpiEvaluateObject,FUNC_1
+AcpiOsFree,FUNC_2
+ENXIO,VAR_2
+device_printf,FUNC_3
+panasonic,VAR_3
+acpi_panasonic_hkey_event,FUNC_4
+sc,VAR_4
+h,VAR_5
+arg,VAR_6
+buf,VAR_7
+res,VAR_8
+val,VAR_9
+status,VAR_10

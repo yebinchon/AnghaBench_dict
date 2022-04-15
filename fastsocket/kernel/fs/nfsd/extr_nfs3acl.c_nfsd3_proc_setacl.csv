@@ -1,0 +1,15 @@
+ACL_TYPE_ACCESS,VAR_0
+ACL_TYPE_DEFAULT,VAR_1
+NFSD_MAY_SATTR,VAR_2
+RETURN_STATUS,FUNC_0
+fh_copy,FUNC_1
+fh_verify,FUNC_2
+nfsd_set_posix_acl,FUNC_3
+nfserrno,FUNC_4
+posix_acl_release,FUNC_5
+nfsd3_proc_setacl,FUNC_6
+rqstp,VAR_3
+argp,VAR_4
+resp,VAR_5
+fh,VAR_6
+nfserr,VAR_7

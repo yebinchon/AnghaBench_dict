@@ -1,0 +1,8 @@
+RST,VAR_0
+S5K4ECGX_NUM_SUPPLIES,VAR_1
+STBY,VAR_2
+regulator_bulk_disable,FUNC_0
+s5k4ecgx_gpio_set_value,FUNC_1
+usleep_range,FUNC_2
+__s5k4ecgx_power_off,FUNC_3
+priv,VAR_3

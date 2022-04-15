@@ -1,0 +1,14 @@
+B43legacy_MACCTL_GMODE,VAR_0
+B43legacy_MACCTL_IHR_ENABLED,VAR_1
+B43legacy_MMIO_GEN_IRQ_REASON,VAR_2
+B43legacy_MMIO_MACCTL,VAR_3
+B43legacy_SHM_SHARED,VAR_4
+ENODEV,VAR_5
+b43legacy_read32,FUNC_0
+b43legacy_shm_read32,FUNC_1
+b43legacy_shm_write32,FUNC_2
+b43legacyerr,FUNC_3
+b43legacy_validate_chipaccess,FUNC_4
+dev,VAR_6
+value,VAR_7
+shm_backup,VAR_8

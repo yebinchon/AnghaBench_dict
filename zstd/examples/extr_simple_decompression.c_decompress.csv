@@ -1,0 +1,17 @@
+CHECK,FUNC_0
+CHECK_ZSTD,FUNC_1
+ZSTD_CONTENTSIZE_ERROR,VAR_0
+ZSTD_CONTENTSIZE_UNKNOWN,VAR_1
+ZSTD_decompress,FUNC_2
+ZSTD_getFrameContentSize,FUNC_3
+free,FUNC_4
+mallocAndLoadFile_orDie,FUNC_5
+malloc_orDie,FUNC_6
+printf,FUNC_7
+decompress,FUNC_8
+fname,VAR_2
+cSize,VAR_3
+cBuff,VAR_4
+rSize,VAR_5
+rBuff,VAR_6
+dSize,VAR_7

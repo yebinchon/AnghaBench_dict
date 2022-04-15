@@ -1,0 +1,11 @@
+TIMER_CTRL,VAR_0
+TIMER_CTRL_ENABLE,VAR_1
+TIMER_CTRL_PERIODIC,VAR_2
+TIMER_LOAD,VAR_3
+clkevt_base,VAR_4
+readl,FUNC_0
+timer_reload,VAR_5
+writel,FUNC_1
+clkevt_set_periodic,FUNC_2
+evt,VAR_6
+ctrl,VAR_7

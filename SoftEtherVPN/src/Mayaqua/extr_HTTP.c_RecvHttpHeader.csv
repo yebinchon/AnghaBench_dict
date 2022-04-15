@@ -1,0 +1,17 @@
+AddHttpValueStr,FUNC_0
+FreeHttpHeader,FUNC_1
+FreeSafe,FUNC_2
+FreeToken,FUNC_3
+HTTP_HEADER_LINE_MAX_SIZE,VAR_0
+IsEmptyStr,FUNC_4
+NewHttpHeader,FUNC_5
+PTR_TO_PTR,FUNC_6
+ParseToken,FUNC_7
+RecvLine,FUNC_8
+StrCmpi,FUNC_9
+Trim,FUNC_10
+RecvHttpHeader,FUNC_11
+s,VAR_1
+token,VAR_2
+str,VAR_3
+header,VAR_4

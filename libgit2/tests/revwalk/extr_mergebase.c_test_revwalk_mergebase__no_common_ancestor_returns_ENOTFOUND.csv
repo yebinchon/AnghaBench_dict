@@ -1,0 +1,16 @@
+GIT_ENOTFOUND,VAR_0
+_repo,VAR_1
+cl_assert_equal_i,FUNC_0
+cl_assert_equal_sz,FUNC_1
+cl_git_fail,FUNC_2
+cl_git_pass,FUNC_3
+git_graph_ahead_behind,FUNC_4
+git_merge_base,FUNC_5
+git_oid_fromstr,FUNC_6
+test_revwalk_mergebase__no_common_ancestor_returns_ENOTFOUND,FUNC_7
+result,VAR_2
+one,VAR_3
+two,VAR_4
+ahead,VAR_5
+behind,VAR_6
+error,VAR_7

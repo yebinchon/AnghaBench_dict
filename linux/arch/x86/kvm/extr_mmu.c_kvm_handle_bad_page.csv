@@ -1,0 +1,12 @@
+EFAULT,VAR_0
+KVM_PFN_ERR_HWPOISON,VAR_1
+KVM_PFN_ERR_RO_FAULT,VAR_2
+RET_PF_EMULATE,VAR_3
+RET_PF_RETRY,VAR_4
+current,VAR_5
+kvm_send_hwpoison_signal,FUNC_0
+kvm_vcpu_gfn_to_hva,FUNC_1
+kvm_handle_bad_page,FUNC_2
+vcpu,VAR_6
+gfn,VAR_7
+pfn,VAR_8

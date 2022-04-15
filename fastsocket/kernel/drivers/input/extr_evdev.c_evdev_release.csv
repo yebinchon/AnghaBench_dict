@@ -1,0 +1,12 @@
+evdev_close_device,FUNC_0
+evdev_detach_client,FUNC_1
+evdev_ungrab,FUNC_2
+kfree,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+put_device,FUNC_6
+evdev_release,FUNC_7
+inode,VAR_0
+file,VAR_1
+client,VAR_2
+evdev,VAR_3

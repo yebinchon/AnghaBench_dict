@@ -1,0 +1,16 @@
+ASCFSTAT_TXFREEMASK,VAR_0
+ASCFSTAT_TXFREEOFF,VAR_1
+LTQ_ASC_FSTAT,VAR_2
+LTQ_ASC_TBUF,VAR_3
+UART_XMIT_SIZE,VAR_4
+WAKEUP_CHARS,VAR_5
+__raw_readl,FUNC_0
+lqasc_stop_tx,FUNC_1
+uart_circ_chars_pending,FUNC_2
+uart_circ_empty,FUNC_3
+uart_tx_stopped,FUNC_4
+uart_write_wakeup,FUNC_5
+writeb,FUNC_6
+lqasc_tx_chars,FUNC_7
+port,VAR_6
+xmit,VAR_7

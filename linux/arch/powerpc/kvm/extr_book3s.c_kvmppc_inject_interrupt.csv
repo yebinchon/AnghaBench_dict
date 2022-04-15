@@ -1,0 +1,12 @@
+kvmppc_get_msr,FUNC_0
+kvmppc_get_pc,FUNC_1
+kvmppc_interrupt_offset,FUNC_2
+kvmppc_set_pc,FUNC_3
+kvmppc_set_srr0,FUNC_4
+kvmppc_set_srr1,FUNC_5
+kvmppc_unfixup_split_real,FUNC_6
+stub1,FUNC_7
+kvmppc_inject_interrupt,FUNC_8
+vcpu,VAR_0
+vec,VAR_1
+flags,VAR_2

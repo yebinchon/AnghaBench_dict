@@ -1,0 +1,14 @@
+CAP_DIGEST_OFFLOAD,VAR_0
+ISCSI_DIGEST_SIZE,VAR_1
+ISCSI_ERR_AHSLEN,VAR_2
+ISCSI_ERR_HDR_DGST,VAR_3
+iscsi_tcp_dgst_header,FUNC_0
+iscsi_tcp_dgst_verify,FUNC_1
+iscsi_tcp_hdr_dissect,FUNC_2
+iscsi_tcp_segment_splice_digest,FUNC_3
+iscsi_tcp_hdr_recv_done,FUNC_4
+tcp_conn,VAR_4
+segment,VAR_5
+conn,VAR_6
+hdr,VAR_7
+ahslen,VAR_8

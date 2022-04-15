@@ -1,0 +1,13 @@
+AMD_BIT,FUNC_0
+DBG,FUNC_1
+UDC_EP0OUT_IX,VAR_0
+UDC_EPCTL_CNAK,VAR_1
+UDC_EPIN_NUM_USED,VAR_2
+UDC_QUEUE_CNAK,FUNC_2
+cnak_pending,VAR_3
+readl,FUNC_3
+writel,FUNC_4
+udc_process_cnak_queue,FUNC_5
+dev,VAR_4
+tmp,VAR_5
+reg,VAR_6

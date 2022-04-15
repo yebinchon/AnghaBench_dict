@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+NL80211_RXMGMT_FLAG_ANSWERED,VAR_1
+QLINK_RXMGMT_FLAG_ANSWERED,VAR_2
+cfg80211_rx_mgmt,FUNC_0
+le16_to_cpu,FUNC_1
+le32_to_cpu,FUNC_2
+pr_debug,FUNC_3
+pr_err,FUNC_4
+unlikely,FUNC_5
+qtnf_event_handle_mgmt_received,FUNC_6
+vif,VAR_3
+rxmgmt,VAR_4
+len,VAR_5
+min_len,VAR_6
+frame,VAR_7
+frame_len,VAR_8
+flags,VAR_9

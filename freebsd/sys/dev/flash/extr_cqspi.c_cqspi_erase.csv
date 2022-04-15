@@ -1,0 +1,13 @@
+CMD_QUAD_SECTOR_ERASE,VAR_0
+CMD_WRITE_ENABLE,VAR_1
+cqspi_cmd_write,FUNC_0
+cqspi_cmd_write_addr,FUNC_1
+cqspi_wait_idle,FUNC_2
+cqspi_wait_ready,FUNC_3
+device_get_softc,FUNC_4
+cqspi_erase,FUNC_5
+dev,VAR_2
+child,VAR_3
+offset,VAR_4
+sc,VAR_5
+ret,VAR_6

@@ -1,0 +1,12 @@
+sati_scsi_common_descriptors_construct,FUNC_0
+sati_scsi_get_descriptor_sense_data_length,FUNC_1
+sati_set_sense_data_byte,FUNC_2
+sati_scsi_common_descriptor_sense_construct,FUNC_3
+sequence,VAR_0
+scsi_io,VAR_1
+sense_data,VAR_2
+sense_len,VAR_3
+sense_key,VAR_4
+additional_sense_code,VAR_5
+additional_sense_code_qualifier,VAR_6
+information_buff,VAR_7

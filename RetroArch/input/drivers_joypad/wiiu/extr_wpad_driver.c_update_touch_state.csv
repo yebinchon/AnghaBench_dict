@@ -1,0 +1,16 @@
+RETRO_DEVICE_ID_ANALOG_X,VAR_0
+RETRO_DEVICE_ID_ANALOG_Y,VAR_1
+VPAD_BUTTON_TOUCH,VAR_2
+VPAD_VALID,VAR_3
+WIIU_DEVICE_INDEX_TOUCHPAD,VAR_4
+get_touch_coordinates,FUNC_0
+log_coords,FUNC_1
+scale_touchpad,FUNC_2
+video_driver_get_viewport_info,FUNC_3
+update_touch_state,FUNC_4
+state,VAR_5
+buttons,VAR_6
+vpad,VAR_7
+point,VAR_8
+viewport,VAR_9
+touch_clamped,VAR_10

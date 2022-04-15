@@ -1,0 +1,15 @@
+NAND_ECC_HW,VAR_0
+NAND_KEEP_TIMINGS,VAR_1
+NAND_USE_BOUNCE_BUFFER,VAR_2
+atmel_nand_cmd_ctrl,VAR_3
+atmel_nand_read_buf,VAR_4
+atmel_nand_read_byte,VAR_5
+atmel_nand_select_chip,VAR_6
+atmel_nand_write_buf,VAR_7
+atmel_nand_write_byte,VAR_8
+nand_to_mtd,FUNC_0
+atmel_nand_init,FUNC_1
+nc,VAR_9
+nand,VAR_10
+chip,VAR_11
+mtd,VAR_12

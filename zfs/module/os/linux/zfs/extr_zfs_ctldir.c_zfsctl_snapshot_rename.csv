@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+ENOENT,VAR_0
+RW_WRITE_HELD,FUNC_1
+SET_ERROR,FUNC_2
+kmem_strdup,FUNC_3
+kmem_strfree,FUNC_4
+zfs_snapshot_lock,VAR_1
+zfsctl_snapshot_add,FUNC_5
+zfsctl_snapshot_find_by_name,FUNC_6
+zfsctl_snapshot_rele,FUNC_7
+zfsctl_snapshot_remove,FUNC_8
+zfsctl_snapshot_rename,FUNC_9
+old_snapname,VAR_2
+new_snapname,VAR_3
+se,VAR_4

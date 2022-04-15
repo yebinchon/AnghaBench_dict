@@ -1,0 +1,15 @@
+ELS_LS_RJT,VAR_0
+FC_RCTL_ELS_REP,VAR_1
+fc_fill_reply_hdr,FUNC_0
+fc_frame_alloc,FUNC_1
+fc_frame_payload_get,FUNC_2
+fr_dev,FUNC_3
+memset,FUNC_4
+stub1,FUNC_5
+fc_seq_ls_rjt,FUNC_6
+rx_fp,VAR_2
+reason,VAR_3
+explan,VAR_4
+lport,VAR_5
+rjt,VAR_6
+fp,VAR_7

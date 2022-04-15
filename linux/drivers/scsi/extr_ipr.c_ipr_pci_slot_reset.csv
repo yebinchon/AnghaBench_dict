@@ -1,0 +1,13 @@
+IPR_SHUTDOWN_NONE,VAR_0
+PCI_ERS_RESULT_RECOVERED,VAR_1
+_ipr_initiate_ioa_reset,FUNC_0
+ipr_initiate_ioa_reset,FUNC_1
+ipr_reset_restore_cfg_space,VAR_2
+pci_get_drvdata,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+wake_up_all,FUNC_5
+ipr_pci_slot_reset,FUNC_6
+pdev,VAR_3
+flags,VAR_4
+ioa_cfg,VAR_5

@@ -1,0 +1,12 @@
+GIT_CONFIG_LEVEL_GLOBAL,VAR_0
+GIT_CONFIG_LEVEL_LOCAL,VAR_1
+cfg,VAR_2
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+git_config_add_backend,FUNC_2
+git_config_backend_from_file,FUNC_3
+git_config_set_string,FUNC_4
+git_path_exists,FUNC_5
+p_unlink,FUNC_6
+test_config_readonly__writing_to_cfg_with_rw_precedence_succeeds,FUNC_7
+backend,VAR_3

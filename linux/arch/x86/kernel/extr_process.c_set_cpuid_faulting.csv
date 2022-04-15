@@ -1,0 +1,10 @@
+MSR_MISC_FEATURES_ENABLES,VAR_0
+MSR_MISC_FEATURES_ENABLES_CPUID_FAULT,VAR_1
+MSR_MISC_FEATURES_ENABLES_CPUID_FAULT_BIT,VAR_2
+msr_misc_features_shadow,VAR_3
+this_cpu_read,FUNC_0
+this_cpu_write,FUNC_1
+wrmsrl,FUNC_2
+set_cpuid_faulting,FUNC_3
+on,VAR_4
+msrval,VAR_5

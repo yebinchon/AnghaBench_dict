@@ -1,0 +1,13 @@
+SNDRV_GF1_GB_ADLIB_TIMER_2,VAR_0
+SNDRV_GF1_GB_SOUND_BLASTER_CONTROL,VAR_1
+snd_gf1_adlib_write,FUNC_0
+snd_gf1_write8,FUNC_1
+snd_timer_chip,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+snd_gf1_timer2_start,FUNC_5
+timer,VAR_2
+flags,VAR_3
+tmp,VAR_4
+ticks,VAR_5
+gus,VAR_6

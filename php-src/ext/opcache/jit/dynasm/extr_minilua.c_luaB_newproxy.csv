@@ -1,0 +1,17 @@
+luaL_argcheck,FUNC_0
+lua_getmetatable,FUNC_1
+lua_isboolean,FUNC_2
+lua_newtable,FUNC_3
+lua_newuserdata,FUNC_4
+lua_pop,FUNC_5
+lua_pushboolean,FUNC_6
+lua_pushvalue,FUNC_7
+lua_rawget,FUNC_8
+lua_rawset,FUNC_9
+lua_setmetatable,FUNC_10
+lua_settop,FUNC_11
+lua_toboolean,FUNC_12
+lua_upvalueindex,FUNC_13
+luaB_newproxy,FUNC_14
+L,VAR_0
+validproxy,VAR_1

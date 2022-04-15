@@ -1,0 +1,17 @@
+CMD_SUBSYSTEM_ETH,VAR_0
+EBUSY,VAR_1
+ETH_ALEN,VAR_2
+OPCODE_ETH_ACPI_WOL_MAGIC_CONFIG,VAR_3
+be_mcc_notify_wait,FUNC_0
+be_wrb_cmd_hdr_prepare,FUNC_1
+memcpy,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+wrb_from_mccq,FUNC_5
+be_cmd_enable_magic_wol,FUNC_6
+adapter,VAR_4
+mac,VAR_5
+nonemb_cmd,VAR_6
+wrb,VAR_7
+req,VAR_8
+status,VAR_9

@@ -1,0 +1,12 @@
+CLKSEL,VAR_0
+CLKSEL64,VAR_1
+DW_MCI_TYPE_EXYNOS7,VAR_2
+DW_MCI_TYPE_EXYNOS7_SMU,VAR_3
+SDMMC_CLKSEL_UP_SAMPLE,FUNC_0
+mci_readl,FUNC_1
+mci_writel,FUNC_2
+dw_mci_exynos_move_next_clksmpl,FUNC_3
+host,VAR_4
+priv,VAR_5
+clksel,VAR_6
+sample,VAR_7

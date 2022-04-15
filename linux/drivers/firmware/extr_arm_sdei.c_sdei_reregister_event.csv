@@ -1,0 +1,12 @@
+SDEI_EVENT_TYPE_SHARED,VAR_0
+_local_event_enable,VAR_1
+_sdei_event_register,FUNC_0
+lockdep_assert_held,FUNC_1
+pr_err,FUNC_2
+sdei_api_event_enable,FUNC_3
+sdei_do_cross_call,FUNC_4
+sdei_event_destroy,FUNC_5
+sdei_events_lock,VAR_2
+sdei_reregister_event,FUNC_6
+event,VAR_3
+err,VAR_4

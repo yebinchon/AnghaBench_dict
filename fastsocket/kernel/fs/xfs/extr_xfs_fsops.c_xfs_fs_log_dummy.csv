@@ -1,0 +1,14 @@
+KM_SLEEP,VAR_0
+XFS_DEFAULT_LOG_COUNT,VAR_1
+XFS_SB_UUID,VAR_2
+XFS_TRANS_DUMMY1,VAR_3
+_xfs_trans_alloc,FUNC_0
+xfs_mod_sb,FUNC_1
+xfs_trans_cancel,FUNC_2
+xfs_trans_commit,FUNC_3
+xfs_trans_reserve,FUNC_4
+xfs_trans_set_sync,FUNC_5
+xfs_fs_log_dummy,FUNC_6
+mp,VAR_4
+tp,VAR_5
+error,VAR_6

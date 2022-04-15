@@ -1,0 +1,13 @@
+CACHE_OC_N_SYNBITS,VAR_0
+L1_CACHE_BYTES,VAR_1
+MAGIC_PAGE0_START,VAR_2
+PAGE_SIZE,VAR_3
+get_asid,FUNC_0
+sh64_setup_dtlb_cache_slot,FUNC_1
+sh64_teardown_dtlb_cache_slot,FUNC_2
+sh64_dcache_purge_phy_page,FUNC_3
+paddr,VAR_4
+eaddr_start,VAR_5
+eaddr,VAR_6
+eaddr_end,VAR_7
+i,VAR_8

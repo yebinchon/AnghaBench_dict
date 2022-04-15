@@ -1,0 +1,12 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+pci_read_config_byte,FUNC_0
+pci_read_config_word,FUNC_1
+pci_write_config_word,FUNC_2
+to_pci_dev,FUNC_3
+hpt374_fn1_cable_detect,FUNC_4
+ap,VAR_2
+pdev,VAR_3
+mcrbase,VAR_4
+mcr3,VAR_5
+ata66,VAR_6

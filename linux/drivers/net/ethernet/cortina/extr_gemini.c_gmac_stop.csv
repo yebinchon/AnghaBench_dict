@@ -1,0 +1,15 @@
+free_irq,FUNC_0
+gmac_cleanup_rxq,FUNC_1
+gmac_cleanup_txqs,FUNC_2
+gmac_disable_tx_rx,FUNC_3
+gmac_enable_irq,FUNC_4
+gmac_stop_dma,FUNC_5
+gmac_update_hw_stats,FUNC_6
+hrtimer_cancel,FUNC_7
+napi_disable,FUNC_8
+netdev_priv,FUNC_9
+netif_tx_stop_all_queues,FUNC_10
+phy_stop,FUNC_11
+gmac_stop,FUNC_12
+netdev,VAR_0
+port,VAR_1

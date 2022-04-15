@@ -1,0 +1,10 @@
+i915_gem_cleanup_early,FUNC_0
+i915_workqueues_cleanup,FUNC_1
+intel_gt_driver_late_release,FUNC_2
+intel_irq_fini,FUNC_3
+intel_power_domains_cleanup,FUNC_4
+mutex_destroy,FUNC_5
+pm_qos_remove_request,FUNC_6
+vlv_free_s0ix_state,FUNC_7
+i915_driver_late_release,FUNC_8
+dev_priv,VAR_0

@@ -1,0 +1,11 @@
+SGTL5000_CHIP_ANA_POWER,VAR_0
+SGTL5000_VAG_POWERDOWN_DELAY,VAR_1
+SGTL5000_VAG_POWERUP,VAR_2
+msleep,FUNC_0
+snd_soc_component_read32,FUNC_1
+snd_soc_component_update_bits,FUNC_2
+vag_power_consumers,FUNC_3
+vag_power_off,FUNC_4
+component,VAR_3
+source,VAR_4
+ana_pwr,VAR_5

@@ -1,0 +1,17 @@
+SVN_ERR,FUNC_0
+SVN_ERR_WC_CONFLICT_RESOLVER_FAILURE,VAR_0
+SVN_NO_ERROR,VAR_1
+_,FUNC_1
+assert_prop_conflict,FUNC_2
+svn_error_createf,FUNC_3
+svn_hash_gets,FUNC_4
+svn_string_dup,FUNC_5
+svn_client_conflict_prop_get_propvals,FUNC_6
+base_propval,VAR_2
+working_propval,VAR_3
+incoming_old_propval,VAR_4
+incoming_new_propval,VAR_5
+conflict,VAR_6
+propname,VAR_7
+result_pool,VAR_8
+desc,VAR_9

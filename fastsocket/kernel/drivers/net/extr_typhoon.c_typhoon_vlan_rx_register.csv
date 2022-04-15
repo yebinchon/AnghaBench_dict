@@ -1,0 +1,14 @@
+INIT_COMMAND_WITH_RESPONSE,FUNC_0
+TYPHOON_CMD_SET_OFFLOAD_TASKS,VAR_0
+TYPHOON_OFFLOAD_VLAN,VAR_1
+netdev_priv,FUNC_1
+printk,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+typhoon_issue_command,FUNC_5
+typhoon_vlan_rx_register,FUNC_6
+dev,VAR_2
+grp,VAR_3
+tp,VAR_4
+xp_cmd,VAR_5
+err,VAR_6

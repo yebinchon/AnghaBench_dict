@@ -1,0 +1,10 @@
+ControlFile,VAR_0
+DB_SHUTDOWNED,VAR_1
+SizeOfXLogLongPHD,VAR_2
+WAL_LEVEL_MINIMAL,VAR_3
+WalSegSz,VAR_4
+XLogSegNoOffsetToRecPtr,FUNC_0
+newXlogSegNo,VAR_5
+time,FUNC_1
+update_controlfile,FUNC_2
+RewriteControlFile,FUNC_3

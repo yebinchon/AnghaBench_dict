@@ -1,0 +1,15 @@
+ClearPageReferenced,FUNC_0
+PageActive,FUNC_1
+PageLRU,FUNC_2
+PageReferenced,FUNC_3
+PageUnevictable,FUNC_4
+SetPageReferenced,FUNC_5
+__lru_cache_activate_page,FUNC_6
+activate_page,FUNC_7
+clear_page_idle,FUNC_8
+compound_head,FUNC_9
+page_is_file_cache,FUNC_10
+page_is_idle,FUNC_11
+workingset_activation,FUNC_12
+mark_page_accessed,FUNC_13
+page,VAR_0

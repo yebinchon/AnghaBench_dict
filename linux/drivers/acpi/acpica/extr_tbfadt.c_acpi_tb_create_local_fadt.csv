@@ -1,0 +1,16 @@
+ACPI_BIOS_WARNING,FUNC_0
+ACPI_FADT_CONFORMANCE,VAR_0
+ACPI_FADT_HW_REDUCED,VAR_1
+ACPI_MIN,FUNC_1
+AE_INFO,VAR_2
+FALSE,VAR_3
+TRUE,VAR_4
+acpi_gbl_FADT,VAR_5
+acpi_gbl_reduced_hardware,VAR_6
+acpi_tb_convert_fadt,FUNC_2
+acpi_tb_setup_fadt_registers,FUNC_3
+memcpy,FUNC_4
+memset,FUNC_5
+acpi_tb_create_local_fadt,FUNC_6
+table,VAR_7
+length,VAR_8

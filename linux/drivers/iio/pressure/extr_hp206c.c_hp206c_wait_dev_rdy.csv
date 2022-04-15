@@ -1,0 +1,15 @@
+ETIMEDOUT,VAR_0
+HP206C_DEV_RDY_WAIT_US,VAR_1
+HP206C_FLAG_DEV_RDY,VAR_2
+HP206C_MAX_DEV_RDY_WAIT_COUNT,VAR_3
+HP206C_REG_INT_SRC,VAR_4
+dev_err,FUNC_0
+hp206c_read_reg,FUNC_1
+iio_priv,FUNC_2
+usleep_range,FUNC_3
+hp206c_wait_dev_rdy,FUNC_4
+indio_dev,VAR_5
+ret,VAR_6
+count,VAR_7
+data,VAR_8
+client,VAR_9

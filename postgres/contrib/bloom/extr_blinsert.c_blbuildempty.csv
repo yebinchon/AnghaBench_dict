@@ -1,0 +1,12 @@
+BLCKSZ,VAR_0
+BLOOM_METAPAGE_BLKNO,VAR_1
+BloomFillMetapage,FUNC_0
+INIT_FORKNUM,VAR_2
+PageSetChecksumInplace,FUNC_1
+log_newpage,FUNC_2
+palloc,FUNC_3
+smgrimmedsync,FUNC_4
+smgrwrite,FUNC_5
+blbuildempty,FUNC_6
+index,VAR_3
+metapage,VAR_4

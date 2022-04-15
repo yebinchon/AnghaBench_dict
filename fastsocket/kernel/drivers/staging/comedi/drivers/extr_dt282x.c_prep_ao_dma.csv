@@ -1,0 +1,17 @@
+DMA_MODE_WRITE,VAR_0
+claim_dma_lock,FUNC_0
+clear_dma_ff,FUNC_1
+devpriv,VAR_1
+enable_dma,FUNC_2
+release_dma_lock,FUNC_3
+set_dma_addr,FUNC_4
+set_dma_count,FUNC_5
+set_dma_mode,FUNC_6
+virt_to_bus,FUNC_7
+prep_ao_dma,FUNC_8
+dev,VAR_2
+dma_index,VAR_3
+n,VAR_4
+dma_chan,VAR_5
+dma_ptr,VAR_6
+flags,VAR_7

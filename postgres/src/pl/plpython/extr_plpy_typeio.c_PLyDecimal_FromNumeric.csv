@@ -1,0 +1,16 @@
+DatumGetCString,FUNC_0
+DirectFunctionCall1,FUNC_1
+ERROR,VAR_0
+PLy_elog,FUNC_2
+PyErr_Clear,FUNC_3
+PyImport_ImportModule,FUNC_4
+PyObject_CallFunction,FUNC_5
+PyObject_GetAttrString,FUNC_6
+numeric_out,VAR_1
+PLyDecimal_FromNumeric,FUNC_7
+arg,VAR_2
+d,VAR_3
+decimal_constructor,VAR_4
+str,VAR_5
+pyvalue,VAR_6
+decimal_module,VAR_7

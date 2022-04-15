@@ -1,0 +1,13 @@
+RCV_SHUTDOWN,VAR_0
+SEND_SHUTDOWN,VAR_1
+lock_sock,FUNC_0
+rds_inc_put,FUNC_1
+rds_tcp_restore_callbacks,FUNC_2
+rdsdebug,FUNC_3
+release_sock,FUNC_4
+sock_release,FUNC_5
+stub1,FUNC_6
+rds_tcp_conn_shutdown,FUNC_7
+conn,VAR_2
+tc,VAR_3
+sock,VAR_4

@@ -1,0 +1,13 @@
+ARG_CHECK,FUNC_0
+VERIFY_CHECK,FUNC_1
+memset,FUNC_2
+secp256k1_ecdsa_signature_save,FUNC_3
+secp256k1_scalar_set_b32,FUNC_4
+secp256k1_ecdsa_signature_parse_compact,FUNC_5
+ctx,VAR_0
+sig,VAR_1
+input64,VAR_2
+r,VAR_3
+s,VAR_4
+ret,VAR_5
+overflow,VAR_6

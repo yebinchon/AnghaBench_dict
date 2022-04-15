@@ -1,0 +1,16 @@
+av_frame_alloc,FUNC_0
+av_frame_free,FUNC_1
+av_frame_unref,FUNC_2
+av_free_packet,FUNC_3
+decode_frame,FUNC_4
+ff_clock_release,FUNC_5
+ff_decoder_get_best_effort_pts,FUNC_6
+queue_frame,FUNC_7
+ff_audio_decoder_thread,FUNC_8
+opaque_audio_decoder,VAR_0
+decoder,VAR_1
+packet,VAR_2
+frame_complete,VAR_3
+frame,VAR_4
+ret,VAR_5
+best_effort_pts,VAR_6

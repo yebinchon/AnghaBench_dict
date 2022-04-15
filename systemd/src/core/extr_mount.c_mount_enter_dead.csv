@@ -1,0 +1,17 @@
+MOUNT_DEAD,VAR_0
+MOUNT_FAILED,VAR_1
+MOUNT_SUCCESS,VAR_2
+UNIT,FUNC_0
+UNIT_DEPENDENCY_MOUNTINFO_IMPLICIT,VAR_3
+assert,FUNC_1
+dynamic_creds_destroy,FUNC_2
+exec_runtime_unref,FUNC_3
+mount_result_to_string,FUNC_4
+mount_set_state,FUNC_5
+unit_destroy_runtime_directory,FUNC_6
+unit_log_result,FUNC_7
+unit_remove_dependencies,FUNC_8
+unit_unref_uid_gid,FUNC_9
+mount_enter_dead,FUNC_10
+m,VAR_4
+f,VAR_5

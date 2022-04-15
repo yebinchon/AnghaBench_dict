@@ -1,0 +1,15 @@
+DRIVEBAR_FLAG,VAR_0
+FillToolbarDrives,FUNC_0
+GWL_TYPE,VAR_1
+GetWindowLongPtr,FUNC_1
+MDIClientSizeChange,FUNC_2
+SelectToolbarDrive,FUNC_3
+SendMessage,FUNC_4
+WM_MDIGETACTIVE,VAR_2
+cDrives,VAR_3
+hwndMDIClient,VAR_4
+rgiDrive,VAR_5
+RedoDriveWindows,FUNC_5
+hwndActive,VAR_6
+iCurDrive,VAR_7
+iDriveInd,VAR_8

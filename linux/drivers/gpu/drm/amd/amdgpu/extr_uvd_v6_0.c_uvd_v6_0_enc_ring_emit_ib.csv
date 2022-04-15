@@ -1,0 +1,11 @@
+AMDGPU_JOB_GET_VMID,FUNC_0
+HEVC_ENC_CMD_IB_VM,VAR_0
+amdgpu_ring_write,FUNC_1
+lower_32_bits,FUNC_2
+upper_32_bits,FUNC_3
+uvd_v6_0_enc_ring_emit_ib,FUNC_4
+ring,VAR_1
+job,VAR_2
+ib,VAR_3
+flags,VAR_4
+vmid,VAR_5

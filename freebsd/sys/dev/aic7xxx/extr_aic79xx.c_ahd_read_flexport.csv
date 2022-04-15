@@ -1,0 +1,16 @@
+AHD_ASSERT_MODES,FUNC_0
+AHD_MODE_SCSI_MSK,VAR_0
+BRDCTL,VAR_1
+BRDDAT,VAR_2
+BRDEN,VAR_3
+BRDRW,VAR_4
+ahd_flush_device_writes,FUNC_1
+ahd_inb,FUNC_2
+ahd_outb,FUNC_3
+ahd_wait_flexport,FUNC_4
+panic,FUNC_5
+ahd_read_flexport,FUNC_6
+ahd,VAR_5
+addr,VAR_6
+value,VAR_7
+error,VAR_8

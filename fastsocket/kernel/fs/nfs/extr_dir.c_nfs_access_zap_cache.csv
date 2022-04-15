@@ -1,0 +1,14 @@
+LIST_HEAD,FUNC_0
+NFS_I,FUNC_1
+NFS_INO_ACL_LRU_SET,VAR_0
+__nfs_access_zap_cache,FUNC_2
+head,VAR_1
+list_del_init,FUNC_3
+nfs_access_free_list,FUNC_4
+nfs_access_lru_lock,VAR_2
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+test_and_clear_bit,FUNC_7
+test_bit,FUNC_8
+nfs_access_zap_cache,FUNC_9
+inode,VAR_3

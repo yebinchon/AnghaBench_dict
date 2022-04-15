@@ -1,0 +1,16 @@
+RF_ACTIVE,VAR_0
+bhnd_bus_generic_activate_resource,FUNC_0
+chipc_get_rman,FUNC_1
+chipc_try_activate_resource,FUNC_2
+device_get_softc,FUNC_3
+rman_get_flags,FUNC_4
+rman_is_region_manager,FUNC_5
+chipc_activate_bhnd_resource,FUNC_6
+dev,VAR_1
+child,VAR_2
+type,VAR_3
+rid,VAR_4
+r,VAR_5
+sc,VAR_6
+rm,VAR_7
+error,VAR_8

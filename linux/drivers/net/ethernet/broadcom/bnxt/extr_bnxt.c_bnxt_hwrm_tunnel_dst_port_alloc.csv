@@ -1,0 +1,14 @@
+HWRM_CMD_TIMEOUT,VAR_0
+HWRM_TUNNEL_DST_PORT_ALLOC,VAR_1
+_hwrm_send_message,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+netdev_err,FUNC_4
+bnxt_hwrm_tunnel_dst_port_alloc,FUNC_5
+bp,VAR_2
+port,VAR_3
+tunnel_type,VAR_4
+rc,VAR_5
+req,VAR_6
+resp,VAR_7

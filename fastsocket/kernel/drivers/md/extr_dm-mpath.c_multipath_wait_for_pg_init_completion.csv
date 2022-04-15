@@ -1,0 +1,14 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+add_wait_queue,FUNC_1
+current,VAR_2
+io_schedule,FUNC_2
+remove_wait_queue,FUNC_3
+set_current_state,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+wait,VAR_3
+multipath_wait_for_pg_init_completion,FUNC_7
+m,VAR_4
+flags,VAR_5

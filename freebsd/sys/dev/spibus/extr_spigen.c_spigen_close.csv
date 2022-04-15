@@ -1,0 +1,11 @@
+device_get_softc,FUNC_0
+device_unbusy,FUNC_1
+mtx_lock,FUNC_2
+mtx_unlock,FUNC_3
+spigen_close,FUNC_4
+cdev,VAR_0
+fflag,VAR_1
+devtype,VAR_2
+td,VAR_3
+dev,VAR_4
+sc,VAR_5

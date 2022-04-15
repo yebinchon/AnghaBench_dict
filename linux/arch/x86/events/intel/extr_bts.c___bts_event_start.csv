@@ -1,0 +1,16 @@
+ARCH_PERFMON_EVENTSEL_INT,VAR_0
+ARCH_PERFMON_EVENTSEL_OS,VAR_1
+ARCH_PERFMON_EVENTSEL_USR,VAR_2
+BTS_STATE_ACTIVE,VAR_3
+WRITE_ONCE,FUNC_0
+bts_config_buffer,FUNC_1
+bts_ctx,VAR_4
+intel_pmu_enable_bts,FUNC_2
+perf_get_aux,FUNC_3
+this_cpu_ptr,FUNC_4
+wmb,FUNC_5
+__bts_event_start,FUNC_6
+event,VAR_5
+bts,VAR_6
+buf,VAR_7
+config,VAR_8

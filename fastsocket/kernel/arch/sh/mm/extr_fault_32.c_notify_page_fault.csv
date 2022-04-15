@@ -1,0 +1,10 @@
+kprobe_fault_handler,FUNC_0
+kprobe_running,FUNC_1
+kprobes_built_in,FUNC_2
+preempt_disable,FUNC_3
+preempt_enable,FUNC_4
+user_mode,FUNC_5
+notify_page_fault,FUNC_6
+regs,VAR_0
+trap,VAR_1
+ret,VAR_2

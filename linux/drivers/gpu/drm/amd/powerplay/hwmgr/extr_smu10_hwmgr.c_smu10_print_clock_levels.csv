@@ -1,0 +1,15 @@
+PPSMC_MSG_GetFclkFrequency,VAR_0
+PPSMC_MSG_GetGfxclkFrequency,VAR_1
+SMU10_UMD_PSTATE_GFXCLK,VAR_2
+smum_get_argument,FUNC_0
+smum_send_msg_to_smc,FUNC_1
+sprintf,FUNC_2
+smu10_print_clock_levels,FUNC_3
+hwmgr,VAR_3
+type,VAR_4
+buf,VAR_5
+data,VAR_6
+mclk_table,VAR_7
+i,VAR_8
+now,VAR_9
+size,VAR_10

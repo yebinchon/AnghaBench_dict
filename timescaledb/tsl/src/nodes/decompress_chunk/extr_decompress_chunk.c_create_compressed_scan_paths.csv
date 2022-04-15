@@ -1,0 +1,15 @@
+Assert,FUNC_0
+add_partial_path,FUNC_1
+add_path,FUNC_2
+build_compressed_scan_pathkeys,FUNC_3
+check_index_predicates,FUNC_4
+create_index_paths,FUNC_5
+create_seqscan_path,FUNC_6
+create_compressed_scan_paths,FUNC_7
+root,VAR_0
+compressed_rel,VAR_1
+parallel_workers,VAR_2
+info,VAR_3
+sort_info,VAR_4
+compressed_path,VAR_5
+orig_pathkeys,VAR_6

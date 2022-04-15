@@ -1,0 +1,11 @@
+SKEIN_512_BLOCK_BYTES,VAR_0
+SKEIN_FAIL,VAR_1
+SKEIN_SUCCESS,VAR_2
+SKEIN_T1_FLAG_FINAL,VAR_3
+Skein_512_Process_Block,FUNC_0
+Skein_Assert,FUNC_1
+Skein_Put64_LSB_First,FUNC_2
+memset,FUNC_3
+Skein_512_Final_Pad,FUNC_4
+ctx,VAR_4
+hashVal,VAR_5

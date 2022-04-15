@@ -1,0 +1,17 @@
+NL80211_REGDOM_SET_BY_DRIVER,VAR_0
+REGULATORY_COUNTRY_IE_FOLLOW_POWER,VAR_1
+REGULATORY_CUSTOM_REG,VAR_2
+REGULATORY_STRICT_REG,VAR_3
+ath_default_world_regdomain,FUNC_0
+ath_is_world_regd,FUNC_1
+ath_reg_apply_radar_flags,FUNC_2
+ath_reg_apply_world_flags,FUNC_3
+ath_world_regdomain,FUNC_4
+wiphy_apply_custom_regulatory,FUNC_5
+ath_regd_init_wiphy,FUNC_6
+reg,VAR_4
+wiphy,VAR_5
+reg_notifier,VAR_6
+wiphy,VAR_7
+request,VAR_8
+regd,VAR_9

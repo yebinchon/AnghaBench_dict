@@ -1,0 +1,14 @@
+CDNS_RTC_CALAR,VAR_0
+CDNS_RTC_CAL_D,VAR_1
+CDNS_RTC_CAL_M,VAR_2
+CDNS_RTC_TIMAR,VAR_3
+FIELD_GET,FUNC_0
+bcd2bin,FUNC_1
+cdns_rtc_reg2time,FUNC_2
+dev_get_drvdata,FUNC_3
+readl,FUNC_4
+cdns_rtc_read_alarm,FUNC_5
+dev,VAR_4
+alarm,VAR_5
+crtc,VAR_6
+reg,VAR_7

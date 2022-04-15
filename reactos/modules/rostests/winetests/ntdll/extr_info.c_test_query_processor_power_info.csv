@@ -1,0 +1,17 @@
+GetProcessHeap,FUNC_0
+GetSystemInfo,FUNC_1
+HeapAlloc,FUNC_2
+HeapFree,FUNC_3
+ProcessorInformation,VAR_0
+STATUS_BUFFER_TOO_SMALL,VAR_1
+STATUS_INVALID_PARAMETER,VAR_2
+STATUS_SUCCESS,VAR_3
+ok,FUNC_4
+pNtPowerInformation,FUNC_5
+skip,FUNC_6
+test_query_processor_power_info,FUNC_7
+status,VAR_4
+ppi,VAR_5
+size,VAR_6
+si,VAR_7
+i,VAR_8

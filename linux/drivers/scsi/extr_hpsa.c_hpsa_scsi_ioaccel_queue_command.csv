@@ -1,0 +1,14 @@
+CFGTBL_Trans_io_accel1,VAR_0
+IO_ACCEL_INELIGIBLE,VAR_1
+atomic_dec,FUNC_0
+atomic_inc_return,FUNC_1
+hpsa_scsi_ioaccel1_queue_command,FUNC_2
+hpsa_scsi_ioaccel2_queue_command,FUNC_3
+hpsa_scsi_ioaccel_queue_command,FUNC_4
+h,VAR_2
+c,VAR_3
+ioaccel_handle,VAR_4
+cdb,VAR_5
+cdb_len,VAR_6
+scsi3addr,VAR_7
+phys_disk,VAR_8

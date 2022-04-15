@@ -1,0 +1,7 @@
+PVSCSI_CMD_GET_MAX_TARGETS,VAR_0
+PVSCSI_REG_OFFSET_COMMAND_STATUS,VAR_1
+pvscsi_reg_read,FUNC_0
+pvscsi_write_cmd,FUNC_1
+pvscsi_get_max_targets,FUNC_2
+sc,VAR_2
+max_targets,VAR_3

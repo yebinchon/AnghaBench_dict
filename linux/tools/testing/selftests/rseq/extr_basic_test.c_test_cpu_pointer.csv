@@ -1,0 +1,16 @@
+CPU_CLR,FUNC_0
+CPU_ISSET,FUNC_1
+CPU_SET,FUNC_2
+CPU_SETSIZE,VAR_0
+CPU_ZERO,FUNC_3
+assert,FUNC_4
+rseq_cpu_start,FUNC_5
+rseq_current_cpu,FUNC_6
+rseq_current_cpu_raw,FUNC_7
+sched_getaffinity,FUNC_8
+sched_getcpu,FUNC_9
+sched_setaffinity,FUNC_10
+test_cpu_pointer,FUNC_11
+affinity,VAR_1
+test_affinity,VAR_2
+i,VAR_3

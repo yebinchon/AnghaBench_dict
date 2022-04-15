@@ -1,0 +1,16 @@
+DEV_STATE_W4SENSE,VAR_0
+DEV_STAT_UNIT_CHECK,VAR_1
+__LC_IRB,VAR_2
+ccw_device_accumulate_irb,FUNC_0
+ccw_device_call_handler,FUNC_1
+ccw_device_do_sense,FUNC_2
+ccw_device_online_verify,FUNC_3
+memcpy,FUNC_4
+scsw_is_solicited,FUNC_5
+scsw_is_tm,FUNC_6
+stub1,FUNC_7
+ccw_device_irq,FUNC_8
+cdev,VAR_3
+dev_event,VAR_4
+irb,VAR_5
+is_cmd,VAR_6

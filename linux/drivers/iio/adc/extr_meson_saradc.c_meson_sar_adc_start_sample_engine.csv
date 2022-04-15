@@ -1,0 +1,10 @@
+MESON_SAR_ADC_REG0,VAR_0
+MESON_SAR_ADC_REG0_FIFO_IRQ_EN,VAR_1
+MESON_SAR_ADC_REG0_SAMPLE_ENGINE_ENABLE,VAR_2
+MESON_SAR_ADC_REG0_SAMPLING_START,VAR_3
+iio_priv,FUNC_0
+regmap_update_bits,FUNC_1
+reinit_completion,FUNC_2
+meson_sar_adc_start_sample_engine,FUNC_3
+indio_dev,VAR_4
+priv,VAR_5

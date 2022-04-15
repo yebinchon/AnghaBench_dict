@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+RXE_POOL_ATOMIC,VAR_1
+RXE_POOL_STATE_VALID,VAR_2
+atomic_dec,FUNC_0
+atomic_inc_return,FUNC_1
+ib_device_put,FUNC_2
+ib_device_try_get,FUNC_3
+kref_get,FUNC_4
+kref_init,FUNC_5
+might_sleep_if,FUNC_6
+read_lock_irqsave,FUNC_7
+read_unlock_irqrestore,FUNC_8
+rxe_pool_put,FUNC_9
+rxe_add_to_pool,FUNC_10
+pool,VAR_3
+elem,VAR_4
+flags,VAR_5

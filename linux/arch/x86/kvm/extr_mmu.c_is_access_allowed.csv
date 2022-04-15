@@ -1,0 +1,8 @@
+PFERR_FETCH_MASK,VAR_0
+PFERR_WRITE_MASK,VAR_1
+PT_PRESENT_MASK,VAR_2
+is_executable_pte,FUNC_0
+is_writable_pte,FUNC_1
+is_access_allowed,FUNC_2
+fault_err_code,VAR_3
+spte,VAR_4

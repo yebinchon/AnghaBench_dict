@@ -1,0 +1,13 @@
+IPR_INIT_HRRQ,VAR_0
+ipr_get_free_ipr_cmnd,FUNC_0
+ipr_reset_ioa_job,FUNC_1
+scsi_block_requests,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+wmb,FUNC_5
+_ipr_initiate_ioa_reset,FUNC_6
+ioa_cfg,VAR_1
+job_step,VAR_2
+shutdown_type,VAR_3
+ipr_cmd,VAR_4
+i,VAR_5

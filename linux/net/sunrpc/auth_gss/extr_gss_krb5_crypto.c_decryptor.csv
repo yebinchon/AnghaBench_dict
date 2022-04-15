@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+crypto_skcipher_decrypt,FUNC_1
+crypto_sync_skcipher_blocksize,FUNC_2
+crypto_sync_skcipher_reqtfm,FUNC_3
+sg_init_table,FUNC_4
+sg_mark_end,FUNC_5
+sg_page,FUNC_6
+sg_set_page,FUNC_7
+skcipher_request_set_crypt,FUNC_8
+decryptor,FUNC_9
+sg,VAR_0
+data,VAR_1
+desc,VAR_2
+thislen,VAR_3
+tfm,VAR_4
+fraglen,VAR_5
+ret,VAR_6

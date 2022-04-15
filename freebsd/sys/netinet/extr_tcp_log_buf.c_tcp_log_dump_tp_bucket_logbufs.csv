@@ -1,0 +1,16 @@
+INP_WLOCK_ASSERT,FUNC_0
+INP_WUNLOCK,FUNC_1
+M_WAITOK,VAR_0
+TCPID_BUCKET_LOCK,FUNC_2
+TCPID_BUCKET_REF,FUNC_3
+TCPID_TREE_RUNLOCK,FUNC_4
+TCPID_TREE_WUNLOCK,FUNC_5
+TREE_UNLOCKED,VAR_1
+tcp_log_dump_tp_logbuf,FUNC_6
+tcp_log_dumpbucketlogs,FUNC_7
+tcp_log_unref_bucket,FUNC_8
+tcp_log_dump_tp_bucket_logbufs,FUNC_9
+tp,VAR_2
+reason,VAR_3
+tlb,VAR_4
+tree_locked,VAR_5

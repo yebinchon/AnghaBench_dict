@@ -1,0 +1,15 @@
+CP_ACP,VAR_0
+ERROR_INSUFFICIENT_BUFFER,VAR_1
+GetLastError,FUNC_0
+MultiByteToWideChar,FUNC_1
+SetLastError,FUNC_2
+WideCharToMultiByte,FUNC_3
+foobarW,VAR_2
+lstrcmpA,FUNC_4
+lstrcmpW,FUNC_5
+memset,FUNC_6
+ok,FUNC_7
+test_negative_source_length,FUNC_8
+len,VAR_3
+buf,VAR_4
+bufW,VAR_5

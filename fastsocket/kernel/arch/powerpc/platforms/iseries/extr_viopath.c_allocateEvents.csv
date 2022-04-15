@@ -1,0 +1,14 @@
+HvLpEvent_Type_VirtualIo,VAR_0
+SYSTEM_RUNNING,VAR_1
+atomic_read,FUNC_0
+atomic_set,FUNC_1
+init_completion,FUNC_2
+mb,FUNC_3
+mf_allocate_lp_events,FUNC_4
+system_state,VAR_2
+viopath_donealloc,VAR_3
+wait_for_completion,FUNC_5
+allocateEvents,FUNC_6
+remoteLp,VAR_4
+numEvents,VAR_5
+parms,VAR_6

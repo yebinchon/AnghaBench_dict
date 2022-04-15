@@ -1,0 +1,17 @@
+PHM_PlatformCaps_StablePState,VAR_0
+PPSMC_MSG_SetSclkHardMin,VAR_1
+PPSMC_MSG_SetSclkSoftMax,VAR_2
+PPSMC_MSG_SetSclkSoftMin,VAR_3
+phm_cap_enabled,FUNC_0
+pr_debug,FUNC_1
+smu8_get_max_sclk_level,FUNC_2
+smu8_get_sclk_level,FUNC_3
+smum_send_msg_to_smc_with_parameter,FUNC_4
+smu8_update_sclk_limit,FUNC_5
+hwmgr,VAR_4
+data,VAR_5
+table,VAR_6
+clock,VAR_7
+level,VAR_8
+stable_pstate_sclk,VAR_9
+percentage,VAR_10

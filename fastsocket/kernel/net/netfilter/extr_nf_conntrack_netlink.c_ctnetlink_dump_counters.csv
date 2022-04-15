@@ -1,0 +1,17 @@
+CTA_COUNTERS_BYTES,VAR_0
+CTA_COUNTERS_ORIG,VAR_1
+CTA_COUNTERS_PACKETS,VAR_2
+CTA_COUNTERS_REPLY,VAR_3
+NLA_F_NESTED,VAR_4
+NLA_PUT_BE64,FUNC_0
+cpu_to_be64,FUNC_1
+nf_conn_acct_find,FUNC_2
+nla_nest_end,FUNC_3
+nla_nest_start,FUNC_4
+ctnetlink_dump_counters,FUNC_5
+skb,VAR_5
+ct,VAR_6
+dir,VAR_7
+type,VAR_8
+nest_count,VAR_9
+acct,VAR_10

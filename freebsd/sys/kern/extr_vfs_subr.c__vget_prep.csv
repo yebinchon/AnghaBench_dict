@@ -1,0 +1,15 @@
+VCHR,VAR_0
+VGET_HOLDCNT,VAR_1
+VGET_USECOUNT,VAR_2
+VI_LOCK,FUNC_0
+VI_UNLOCK,FUNC_1
+__predict_true,FUNC_2
+_vhold,FUNC_3
+refcount_acquire,FUNC_4
+refcount_acquire_if_not_zero,FUNC_5
+v_incr_devcount,FUNC_6
+vholdl,FUNC_7
+_vget_prep,FUNC_8
+vp,VAR_3
+interlock,VAR_4
+vs,VAR_5

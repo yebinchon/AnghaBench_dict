@@ -1,0 +1,9 @@
+local_fiq_disable,FUNC_0
+local_fiq_enable,FUNC_1
+local_irq_disable,FUNC_2
+local_irq_enable,FUNC_3
+omap2_can_sleep,FUNC_4
+omap2_enter_full_retention,FUNC_5
+omap2_enter_mpu_retention,FUNC_6
+omap_irq_pending,FUNC_7
+omap2_pm_idle,FUNC_8

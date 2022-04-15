@@ -1,0 +1,15 @@
+EVCON_READING_FIRSTLINE,VAR_0
+EV_READ,VAR_1
+EV_WRITE,VAR_2
+bufferevent_disable,FUNC_0
+bufferevent_enable,FUNC_1
+bufferevent_get_input,FUNC_2
+bufferevent_setcb,FUNC_3
+evbuffer_get_length,FUNC_4
+event_deferred_cb_schedule_,FUNC_5
+evhttp_error_cb,VAR_3
+evhttp_read_cb,VAR_4
+evhttp_write_cb,VAR_5
+get_deferred_queue,FUNC_6
+evhttp_start_read_,FUNC_7
+evcon,VAR_6

@@ -1,0 +1,15 @@
+CRYPTO_TFM_REQ_FORBID_WEAK_KEYS,VAR_0
+CRYPTO_TFM_RES_WEAK_KEY,VAR_1
+EINVAL,VAR_2
+ENOKEY,VAR_3
+crypto_tfm_ctx,FUNC_0
+crypto_tfm_get_flags,FUNC_1
+crypto_tfm_set_flags,FUNC_2
+des3_ede_expand_key,FUNC_3
+memset,FUNC_4
+des3_ede_setkey,FUNC_5
+tfm,VAR_4
+key,VAR_5
+keylen,VAR_6
+dctx,VAR_7
+err,VAR_8

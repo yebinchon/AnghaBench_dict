@@ -1,0 +1,14 @@
+I8255_DATA_A_REG,VAR_0
+I8255_DATA_B_REG,VAR_1
+I8255_DATA_C_REG,VAR_2
+comedi_dio_update_state,FUNC_0
+dio200_read8,FUNC_1
+dio200_write8,FUNC_2
+dio200_subdev_8255_bits,FUNC_3
+dev,VAR_3
+s,VAR_4
+insn,VAR_5
+data,VAR_6
+subpriv,VAR_7
+mask,VAR_8
+val,VAR_9

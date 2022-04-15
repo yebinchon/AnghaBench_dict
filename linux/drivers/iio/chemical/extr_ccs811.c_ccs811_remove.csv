@@ -1,0 +1,12 @@
+CCS811_MEAS_MODE,VAR_0
+CCS811_MODE_IDLE,VAR_1
+i2c_get_clientdata,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+iio_device_unregister,FUNC_2
+iio_priv,FUNC_3
+iio_trigger_unregister,FUNC_4
+iio_triggered_buffer_cleanup,FUNC_5
+ccs811_remove,FUNC_6
+client,VAR_2
+indio_dev,VAR_3
+data,VAR_4

@@ -1,0 +1,17 @@
+lua_createtable,FUNC_0
+lua_isnil,FUNC_1
+lua_istable,FUNC_2
+lua_pop,FUNC_3
+lua_pushlstring,FUNC_4
+lua_pushvalue,FUNC_5
+lua_rawget,FUNC_6
+lua_remove,FUNC_7
+lua_settable,FUNC_8
+strchr,FUNC_9
+strlen,FUNC_10
+luaL_findtable,FUNC_11
+L,VAR_0
+idx,VAR_1
+fname,VAR_2
+szhint,VAR_3
+e,VAR_4

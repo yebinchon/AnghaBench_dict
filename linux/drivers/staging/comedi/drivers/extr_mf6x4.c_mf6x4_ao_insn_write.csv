@@ -1,0 +1,17 @@
+CR_CHAN,FUNC_0
+MF6X4_DAC_REG,FUNC_1
+MF6X4_GPIOC_DACEN,VAR_0
+MF6X4_GPIOC_LDAC,VAR_1
+ioread32,FUNC_2
+iowrite16,FUNC_3
+iowrite32,FUNC_4
+mf6x4_ao_insn_write,FUNC_5
+dev,VAR_2
+s,VAR_3
+insn,VAR_4
+data,VAR_5
+devpriv,VAR_6
+chan,VAR_7
+val,VAR_8
+gpioc,VAR_9
+i,VAR_10

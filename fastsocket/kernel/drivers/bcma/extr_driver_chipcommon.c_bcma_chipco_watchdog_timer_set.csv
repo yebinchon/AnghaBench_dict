@@ -1,0 +1,13 @@
+BCMA_CC_CAP_PMU,VAR_0
+BCMA_CC_PMU_WATCHDOG,VAR_1
+BCMA_CC_WATCHDOG,VAR_2
+BCMA_CLKMODE_DYNAMIC,VAR_3
+BCMA_CLKMODE_FAST,VAR_4
+bcma_cc_write32,FUNC_0
+bcma_chipco_watchdog_get_max_timer,FUNC_1
+bcma_core_set_clockmode,FUNC_2
+bcma_chipco_watchdog_timer_set,FUNC_3
+cc,VAR_5
+ticks,VAR_6
+maxt,VAR_7
+clkmode,VAR_8

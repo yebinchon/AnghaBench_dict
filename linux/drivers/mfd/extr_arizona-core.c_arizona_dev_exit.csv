@@ -1,0 +1,14 @@
+ARIZONA_IRQ_CLKGEN_ERR,VAR_0
+ARIZONA_IRQ_OVERCLOCKED,VAR_1
+ARIZONA_IRQ_UNDERCLOCKED,VAR_2
+arizona_enable_reset,FUNC_0
+arizona_free_irq,FUNC_1
+arizona_irq_exit,FUNC_2
+disable_irq,FUNC_3
+mfd_remove_devices,FUNC_4
+pm_runtime_disable,FUNC_5
+regulator_bulk_disable,FUNC_6
+regulator_disable,FUNC_7
+regulator_put,FUNC_8
+arizona_dev_exit,FUNC_9
+arizona,VAR_3

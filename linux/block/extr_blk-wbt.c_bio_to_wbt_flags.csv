@@ -1,0 +1,14 @@
+REQ_OP_DISCARD,VAR_0
+REQ_OP_READ,VAR_1
+WBT_DISCARD,VAR_2
+WBT_KSWAPD,VAR_3
+WBT_READ,VAR_4
+WBT_TRACKED,VAR_5
+bio_op,FUNC_0
+current_is_kswapd,FUNC_1
+rwb_enabled,FUNC_2
+wbt_should_throttle,FUNC_3
+bio_to_wbt_flags,FUNC_4
+rwb,VAR_6
+bio,VAR_7
+flags,VAR_8

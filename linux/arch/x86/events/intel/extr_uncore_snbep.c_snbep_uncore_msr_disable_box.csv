@@ -1,0 +1,8 @@
+SNBEP_PMON_BOX_CTL_FRZ,VAR_0
+rdmsrl,FUNC_0
+uncore_msr_box_ctl,FUNC_1
+wrmsrl,FUNC_2
+snbep_uncore_msr_disable_box,FUNC_3
+box,VAR_1
+config,VAR_2
+msr,VAR_3

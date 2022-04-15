@@ -1,0 +1,17 @@
+ABS_PRESSURE,VAR_0
+ABS_X,VAR_1
+ABS_Y,VAR_2
+BTN_STYLUS,VAR_3
+BTN_STYLUS2,VAR_4
+BTN_TOOL_PEN,VAR_5
+BTN_TOOL_RUBBER,VAR_6
+BTN_TOUCH,VAR_7
+delay_pen_events,FUNC_0
+input_report_abs,FUNC_1
+input_report_key,FUNC_2
+le16_to_cpup,FUNC_3
+wacom_tpc_pen,FUNC_4
+wacom,VAR_8
+data,VAR_9
+input,VAR_10
+prox,VAR_11

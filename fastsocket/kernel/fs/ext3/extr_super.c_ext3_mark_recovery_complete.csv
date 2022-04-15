@@ -1,0 +1,15 @@
+EXT3_CLEAR_INCOMPAT_FEATURE,FUNC_0
+EXT3_FEATURE_INCOMPAT_RECOVER,VAR_0
+EXT3_HAS_INCOMPAT_FEATURE,FUNC_1
+EXT3_SB,FUNC_2
+MS_RDONLY,VAR_1
+ext3_commit_super,FUNC_3
+journal_flush,FUNC_4
+journal_lock_updates,FUNC_5
+journal_unlock_updates,FUNC_6
+lock_super,FUNC_7
+unlock_super,FUNC_8
+ext3_mark_recovery_complete,FUNC_9
+sb,VAR_2
+es,VAR_3
+journal,VAR_4

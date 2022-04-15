@@ -1,0 +1,16 @@
+MC_ARB_BURST_TIME,VAR_0
+MC_ARB_RFSH_RATE,VAR_1
+POWERMODE0,FUNC_0
+POWERMODE0_MASK,VAR_2
+STATE0,FUNC_1
+STATE0_MASK,VAR_3
+WREG32_P,FUNC_2
+cypress_calculate_burst_time,FUNC_3
+evergreen_get_pi,FUNC_4
+radeon_atom_set_engine_dram_timings,FUNC_5
+rv770_calculate_memory_refresh_rate,FUNC_6
+btc_set_ulv_dram_timing,FUNC_7
+rdev,VAR_4
+val,VAR_5
+eg_pi,VAR_6
+ulv_pl,VAR_7

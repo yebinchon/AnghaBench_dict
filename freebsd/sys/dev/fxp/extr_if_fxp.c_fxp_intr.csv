@@ -1,0 +1,15 @@
+CSR_READ_1,FUNC_0
+CSR_WRITE_1,FUNC_1
+FXP_CSR_SCB_STATACK,VAR_0
+FXP_LOCK,FUNC_2
+FXP_UNLOCK,FUNC_3
+IFCAP_POLLING,VAR_1
+IFF_DRV_RUNNING,VAR_2
+fxp_intr_body,FUNC_4
+if_getcapenable,FUNC_5
+if_getdrvflags,FUNC_6
+fxp_intr,FUNC_7
+xsc,VAR_3
+sc,VAR_4
+ifp,VAR_5
+statack,VAR_6

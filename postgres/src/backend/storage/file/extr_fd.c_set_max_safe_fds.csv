@@ -1,0 +1,17 @@
+DEBUG2,VAR_0
+ERRCODE_INSUFFICIENT_RESOURCES,VAR_1
+FATAL,VAR_2
+FD_MINFREE,VAR_3
+Min,FUNC_0
+NUM_RESERVED_FDS,VAR_4
+count_usable_fds,FUNC_1
+elog,FUNC_2
+ereport,FUNC_3
+errcode,FUNC_4
+errdetail,FUNC_5
+errmsg,FUNC_6
+max_files_per_process,VAR_5
+max_safe_fds,VAR_6
+set_max_safe_fds,FUNC_7
+usable_fds,VAR_7
+already_open,VAR_8

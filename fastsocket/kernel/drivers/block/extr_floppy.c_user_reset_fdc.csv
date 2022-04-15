@@ -1,0 +1,13 @@
+FDCS,VAR_0
+FD_RESET_ALWAYS,VAR_1
+LOCK_FDC,FUNC_0
+WAIT,FUNC_1
+cont,VAR_2
+process_fd_request,FUNC_2
+reset_cont,VAR_3
+reset_fdc,VAR_4
+user_reset_fdc,FUNC_3
+drive,VAR_5
+arg,VAR_6
+interruptible,VAR_7
+ret,VAR_8

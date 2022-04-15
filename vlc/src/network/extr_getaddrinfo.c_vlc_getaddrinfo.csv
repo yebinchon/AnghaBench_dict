@@ -1,0 +1,16 @@
+EAI_SERVICE,VAR_0
+NI_MAXHOST,VAR_1
+assert,FUNC_0
+getaddrinfo,FUNC_1
+memcpy,FUNC_2
+snprintf,FUNC_3
+strlen,FUNC_4
+vlc_getaddrinfo,FUNC_5
+node,VAR_2
+port,VAR_3
+hints,VAR_4
+res,VAR_5
+hostbuf,VAR_6
+portbuf,VAR_7
+servname,VAR_8
+len,VAR_9

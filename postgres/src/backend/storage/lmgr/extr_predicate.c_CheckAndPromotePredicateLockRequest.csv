@@ -1,0 +1,14 @@
+GetParentPredicateLockTag,FUNC_0
+HASH_ENTER,VAR_0
+LocalPredicateLockHash,VAR_1
+MaxPredicateChildLocks,FUNC_1
+PredicateLockAcquire,FUNC_2
+hash_search,FUNC_3
+CheckAndPromotePredicateLockRequest,FUNC_4
+reqtag,VAR_2
+targettag,VAR_3
+nexttag,VAR_4
+promotiontag,VAR_5
+parentlock,VAR_6
+found,VAR_7
+promote,VAR_8

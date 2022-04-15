@@ -1,0 +1,15 @@
+LSAPI_ENDIAN,VAR_0
+LSAPI_ENDIAN_BIT,VAR_1
+allocateEnvList,FUNC_0
+fixEndian,FUNC_1
+fixHeaderIndexEndian,FUNC_2
+lsapi_log,FUNC_3
+parseContentLenFromHeader,FUNC_4
+parseEnv,FUNC_5
+validateHeaders,FUNC_6
+parseRequest,FUNC_7
+pReq,VAR_2
+totalLen,VAR_3
+shouldFixEndian,VAR_4
+pBegin,VAR_5
+pEnd,VAR_6

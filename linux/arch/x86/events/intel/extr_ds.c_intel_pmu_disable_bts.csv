@@ -1,0 +1,12 @@
+DEBUGCTLMSR_BTINT,VAR_0
+DEBUGCTLMSR_BTS,VAR_1
+DEBUGCTLMSR_BTS_OFF_OS,VAR_2
+DEBUGCTLMSR_BTS_OFF_USR,VAR_3
+DEBUGCTLMSR_TR,VAR_4
+cpu_hw_events,VAR_5
+get_debugctlmsr,FUNC_0
+this_cpu_ptr,FUNC_1
+update_debugctlmsr,FUNC_2
+intel_pmu_disable_bts,FUNC_3
+cpuc,VAR_6
+debugctlmsr,VAR_7

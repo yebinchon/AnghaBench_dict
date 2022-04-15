@@ -1,0 +1,16 @@
+EP0_FIFO_SIZE,VAR_0
+UDCCSR,VAR_1
+UDCCSR0_IPR,VAR_2
+USB_DIR_IN,VAR_3
+ep_dbg,FUNC_0
+ep_write_UDCCSR,FUNC_1
+inc_ep_stats_bytes,FUNC_2
+udc_ep_readl,FUNC_3
+unlikely,FUNC_4
+write_packet,FUNC_5
+write_ep0_fifo,FUNC_6
+ep,VAR_4
+req,VAR_5
+count,VAR_6
+is_last,VAR_7
+is_short,VAR_8

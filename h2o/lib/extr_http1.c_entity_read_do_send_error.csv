@@ -1,0 +1,13 @@
+H2O_SEND_ERROR_HTTP1_CLOSE_CONNECTION,VAR_0
+OSTREAM_STATE_DONE,VAR_1
+OSTREAM_STATE_HEAD,VAR_2
+cleanup_connection,FUNC_0
+h2o_send_error_generic,FUNC_1
+h2o_socket_read_stop,FUNC_2
+set_timeout,FUNC_3
+entity_read_do_send_error,FUNC_4
+conn,VAR_3
+status,VAR_4
+status_error_index,VAR_5
+reason,VAR_6
+body,VAR_7

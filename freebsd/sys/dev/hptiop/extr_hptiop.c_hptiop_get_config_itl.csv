@@ -1,0 +1,16 @@
+BUS_SPACE_RD4_ITL,FUNC_0
+BUS_SPACE_WRT4_ITL,FUNC_1
+IOPMU_QUEUE_EMPTY,VAR_0
+IOP_REQUEST_FLAG_SYNC_REQUEST,VAR_1
+IOP_REQUEST_TYPE_GET_CONFIG,VAR_2
+IOP_RESULT_PENDING,VAR_3
+KdPrint,FUNC_2
+bus_space_read_region_4,FUNC_3
+bus_space_write_region_4,FUNC_4
+hptiop_send_sync_request_itl,FUNC_5
+inbound_queue,VAR_4
+outbound_queue,VAR_5
+hptiop_get_config_itl,FUNC_6
+hba,VAR_6
+config,VAR_7
+req32,VAR_8

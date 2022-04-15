@@ -1,0 +1,16 @@
+JME_RXCS,VAR_0
+JME_RXDBA_HI,VAR_1
+JME_RXDBA_LO,VAR_2
+JME_RXNDA,VAR_3
+JME_RXQDC,VAR_4
+RXCS_ENABLE,VAR_5
+RXCS_QST,VAR_6
+RXCS_QUEUESEL_Q0,VAR_7
+jme_mac_rxclk_on,FUNC_0
+jme_set_multi,FUNC_1
+jme_set_unicastaddr,FUNC_2
+jwrite32,FUNC_3
+jwrite32f,FUNC_4
+wmb,FUNC_5
+jme_enable_rx_engine,FUNC_6
+jme,VAR_8

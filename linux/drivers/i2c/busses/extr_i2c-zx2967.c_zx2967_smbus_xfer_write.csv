@@ -1,0 +1,12 @@
+ETIMEDOUT,VAR_0
+I2C_START,VAR_1
+I2C_TIMEOUT,VAR_2
+REG_CMD,VAR_3
+reinit_completion,FUNC_0
+wait_for_completion_timeout,FUNC_1
+zx2967_i2c_readl,FUNC_2
+zx2967_i2c_writel,FUNC_3
+zx2967_smbus_xfer_write,FUNC_4
+i2c,VAR_4
+time_left,VAR_5
+val,VAR_6

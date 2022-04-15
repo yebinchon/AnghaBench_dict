@@ -1,0 +1,13 @@
+LSM_OK,VAR_0
+LSM_SHM_CHUNK_SIZE,VAR_1
+close,FUNC_0
+lsmFree,FUNC_1
+munmap,FUNC_2
+posixShmFile,FUNC_3
+unlink,FUNC_4
+lsmPosixOsShmUnmap,FUNC_5
+pFile,VAR_2
+bDelete,VAR_3
+p,VAR_4
+i,VAR_5
+zShm,VAR_6

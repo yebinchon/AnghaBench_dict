@@ -1,0 +1,11 @@
+BUS_ADD_CHILD,FUNC_0
+MTX_DEF,VAR_0
+gxemul_disk_controller_mutex,VAR_1
+gxemul_disk_read,FUNC_1
+mtx_init,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+gxemul_disk_identify,FUNC_5
+drv,VAR_2
+parent,VAR_3
+diskid,VAR_4

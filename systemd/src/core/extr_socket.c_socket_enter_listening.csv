@@ -1,0 +1,11 @@
+SOCKET_FAILURE_RESOURCES,VAR_0
+SOCKET_LISTENING,VAR_1
+UNIT,FUNC_0
+assert,FUNC_1
+log_unit_warning_errno,FUNC_2
+socket_enter_stop_pre,FUNC_3
+socket_set_state,FUNC_4
+socket_watch_fds,FUNC_5
+socket_enter_listening,FUNC_6
+s,VAR_2
+r,VAR_3

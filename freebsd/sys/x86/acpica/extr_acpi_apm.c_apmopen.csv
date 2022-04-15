@@ -1,0 +1,14 @@
+ACPI_EVF_WRITE,VAR_0
+FWRITE,VAR_1
+apm_create_clone,FUNC_0
+apmdtor,VAR_2
+devclass_find,FUNC_1
+devclass_get_softc,FUNC_2
+devfs_set_cdevpriv,FUNC_3
+apmopen,FUNC_4
+dev,VAR_3
+flag,VAR_4
+fmt,VAR_5
+td,VAR_6
+acpi_sc,VAR_7
+clone,VAR_8

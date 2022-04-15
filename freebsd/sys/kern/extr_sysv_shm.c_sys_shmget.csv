@@ -1,0 +1,17 @@
+ACCESSPERMS,VAR_0
+ENOENT,VAR_1
+ENOSYS,VAR_2
+IPC_CREAT,VAR_3
+IPC_PRIVATE,VAR_4
+SYSVSHM_LOCK,FUNC_0
+SYSVSHM_UNLOCK,FUNC_1
+shm_find_prison,FUNC_2
+shm_find_segment_by_key,FUNC_3
+shmget_allocate_segment,FUNC_4
+shmget_existing,FUNC_5
+sys_shmget,FUNC_6
+td,VAR_5
+uap,VAR_6
+segnum,VAR_7
+mode,VAR_8
+error,VAR_9

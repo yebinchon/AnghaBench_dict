@@ -1,0 +1,10 @@
+MAX_MSIX_TABLE_ENTRIES,VAR_0
+MSIX_TABLE_ENTRY_SIZE,VAR_1
+PCIM_MSIX_VCTRL_MASK,VAR_2
+assert,FUNC_0
+calloc,FUNC_1
+pci_msix_table_init,FUNC_2
+pi,VAR_3
+table_entries,VAR_4
+i,VAR_5
+table_size,VAR_6

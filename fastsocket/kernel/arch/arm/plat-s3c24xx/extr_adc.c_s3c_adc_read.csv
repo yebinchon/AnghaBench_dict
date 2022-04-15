@@ -1,0 +1,11 @@
+DECLARE_WAIT_QUEUE_HEAD_ONSTACK,FUNC_0
+ETIMEDOUT,VAR_0
+HZ,VAR_1
+s3c_adc_start,FUNC_1
+s3c_convert_done,VAR_2
+wait_event_timeout,FUNC_2
+wake,VAR_3
+s3c_adc_read,FUNC_3
+client,VAR_4
+ch,VAR_5
+ret,VAR_6

@@ -1,0 +1,17 @@
+MEM_Blob,VAR_0
+MEM_Ephem,VAR_1
+SQLITE_OK,VAR_2
+VdbeMemDynamic,FUNC_0
+assert,FUNC_1
+sqlite3BtreeCursorIsValid,FUNC_2
+sqlite3BtreePayloadFetch,FUNC_3
+sqlite3VdbeMemIsRowSet,FUNC_4
+vdbeMemFromBtreeResize,FUNC_5
+sqlite3VdbeMemFromBtree,FUNC_6
+pCur,VAR_3
+offset,VAR_4
+amt,VAR_5
+pMem,VAR_6
+zData,VAR_7
+available,VAR_8
+rc,VAR_9

@@ -1,0 +1,14 @@
+MII_BCM54XX_AUXCTL_ACTL_SMDSP_ENA,VAR_0
+MII_BCM54XX_AUXCTL_SHDWSEL_MISC,VAR_1
+MII_BCM54XX_AUX_CTL,VAR_2
+MII_BCM_CHANNEL_WIDTH,VAR_3
+bcm_phy_write_exp,FUNC_0
+phy_read,FUNC_1
+phy_write,FUNC_2
+bcm_phy_write_misc,FUNC_3
+phydev,VAR_4
+reg,VAR_5
+chl,VAR_6
+val,VAR_7
+rc,VAR_8
+tmp,VAR_9

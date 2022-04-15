@@ -1,0 +1,14 @@
+M_VLAN,VAR_0
+NET_EPOCH_WAIT,FUNC_0
+ether_ifdetach,FUNC_1
+free,FUNC_2
+if_free,FUNC_3
+ifc_free_unit,FUNC_4
+taskqueue_drain,FUNC_5
+taskqueue_thread,VAR_1
+vlan_unconfig,FUNC_6
+vlan_clone_destroy,FUNC_7
+ifc,VAR_2
+ifp,VAR_3
+ifv,VAR_4
+unit,VAR_5

@@ -1,0 +1,16 @@
+LCD_BIT_E,VAR_0
+LCD_BIT_RS,VAR_1
+LCD_BIT_RW,VAR_2
+bits,VAR_3
+clear_bit,FUNC_0
+pprt,VAR_4
+pprt_lock,VAR_5
+set_bit,FUNC_1
+set_ctrl_bits,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+udelay,FUNC_5
+w_dtr,FUNC_6
+lcd_write_data_p8,FUNC_7
+charlcd,VAR_6
+data,VAR_7

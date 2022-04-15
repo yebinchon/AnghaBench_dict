@@ -1,0 +1,17 @@
+ar8xxx_mii_read32,FUNC_0
+ar8xxx_mii_write32,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+split_addr,FUNC_4
+stub1,FUNC_5
+wait_for_page_switch,FUNC_6
+ar8xxx_rmw,FUNC_7
+priv,VAR_0
+reg,VAR_1
+mask,VAR_2
+val,VAR_3
+bus,VAR_4
+r1,VAR_5
+r2,VAR_6
+page,VAR_7
+ret,VAR_8

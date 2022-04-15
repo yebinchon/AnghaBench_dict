@@ -1,0 +1,10 @@
+SUN4I_TCON0_DCLK_DIV_SHIFT,VAR_0
+SUN4I_TCON0_DCLK_DIV_WIDTH,VAR_1
+SUN4I_TCON0_DCLK_REG,VAR_2
+hw_to_dclk,FUNC_0
+regmap_read,FUNC_1
+sun4i_dclk_recalc_rate,FUNC_2
+hw,VAR_3
+parent_rate,VAR_4
+dclk,VAR_5
+val,VAR_6

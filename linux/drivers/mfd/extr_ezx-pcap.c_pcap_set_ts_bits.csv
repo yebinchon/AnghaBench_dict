@@ -1,0 +1,12 @@
+PCAP_ADC_TS_M_MASK,VAR_0
+PCAP_ADC_TS_REF_LOWPWR,VAR_1
+PCAP_REG_ADC,VAR_2
+ezx_pcap_read,FUNC_0
+ezx_pcap_write,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+pcap_set_ts_bits,FUNC_4
+pcap,VAR_3
+bits,VAR_4
+flags,VAR_5
+tmp,VAR_6

@@ -1,0 +1,13 @@
+E_ITS_CLEAR_UNMAPPED_INTERRUPT,VAR_0
+IRQCHIP_STATE_PENDING,VAR_1
+find_ite,FUNC_0
+irq_set_irqchip_state,FUNC_1
+its_cmd_get_deviceid,FUNC_2
+its_cmd_get_id,FUNC_3
+vgic_its_cmd_handle_clear,FUNC_4
+kvm,VAR_2
+its,VAR_3
+its_cmd,VAR_4
+device_id,VAR_5
+event_id,VAR_6
+ite,VAR_7

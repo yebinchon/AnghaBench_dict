@@ -1,0 +1,11 @@
+INET_TWDR_TWKILL_SLOTS,VAR_0
+inet_twdr_do_twkill_work,FUNC_0
+jiffies,VAR_1
+mod_timer,FUNC_1
+schedule_work,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+inet_twdr_hangman,FUNC_5
+data,VAR_2
+twdr,VAR_3
+need_timer,VAR_4

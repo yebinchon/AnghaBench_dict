@@ -1,0 +1,14 @@
+ISR,VAR_0
+MACB_BIT,FUNC_0
+MACB_CAPS_ISR_CLEAR_ON_WRITE,VAR_1
+NCR,VAR_2
+TSTART,VAR_3
+TXUBR,VAR_4
+macb_readl,FUNC_1
+macb_writel,FUNC_2
+queue_writel,FUNC_3
+macb_tx_restart,FUNC_4
+queue,VAR_5
+head,VAR_6
+tail,VAR_7
+bp,VAR_8

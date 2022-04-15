@@ -1,0 +1,15 @@
+CLIENT_GET_THREAD_STATE,FUNC_0
+EGLINTDESTROYGL_ID,VAR_0
+EGLINTDESTROYVG_ID,VAR_1
+RPC_CALL1,FUNC_1
+RPC_FLUSH,FUNC_2
+RPC_UINT,FUNC_3
+UNREACHABLE,FUNC_4
+eglIntDestroyGL_impl,VAR_2
+eglIntDestroyVG_impl,VAR_3
+glxx_client_state_free,FUNC_5
+vcos_assert,FUNC_6
+vg_client_state_free,FUNC_7
+egl_context_term,FUNC_8
+context,VAR_4
+thread,VAR_5

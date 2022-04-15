@@ -1,0 +1,15 @@
+SWITCHDEV_VXLAN_FDB_ADD_TO_DEVICE,VAR_0
+SWITCHDEV_VXLAN_FDB_DEL_TO_DEVICE,VAR_1
+WARN_ON,FUNC_0
+call_switchdev_notifiers,FUNC_1
+notifier_to_errno,FUNC_2
+vxlan_fdb_switchdev_notifier_info,FUNC_3
+vxlan_fdb_switchdev_call_notifiers,FUNC_4
+vxlan,VAR_2
+fdb,VAR_3
+rd,VAR_4
+adding,VAR_5
+extack,VAR_6
+info,VAR_7
+notifier_type,VAR_8
+ret,VAR_9

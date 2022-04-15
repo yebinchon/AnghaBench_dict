@@ -1,0 +1,14 @@
+AC97_INT_PAGING,VAR_0
+AC97_PAGE_MASK,VAR_1
+AC97_PAGE_VENDOR,VAR_2
+AC97_STEREO_MUTES,VAR_3
+patch_sigmatel_stac9758_ops,VAR_4
+snd_ac97_update_bits,FUNC_0
+snd_ac97_write_cache,FUNC_1
+patch_sigmatel_stac9758,FUNC_2
+ac97,VAR_5
+regs,VAR_6
+def_regs,VAR_7
+m675_regs,VAR_8
+pregs,VAR_9
+i,VAR_10

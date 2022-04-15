@@ -1,0 +1,14 @@
+__cls_bpf_delete_prog,FUNC_0
+cls_bpf_delete_prog_work,VAR_0
+cls_bpf_stop_offload,FUNC_1
+idr_remove,FUNC_2
+list_del_rcu,FUNC_3
+rtnl_dereference,FUNC_4
+tcf_exts_get_net,FUNC_5
+tcf_queue_work,FUNC_6
+tcf_unbind_filter,FUNC_7
+__cls_bpf_delete,FUNC_8
+tp,VAR_1
+prog,VAR_2
+extack,VAR_3
+head,VAR_4

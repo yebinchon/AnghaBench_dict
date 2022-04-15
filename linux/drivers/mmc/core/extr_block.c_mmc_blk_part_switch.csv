@@ -1,0 +1,14 @@
+EXT_CSD_CMD_SET_NORMAL,VAR_0
+EXT_CSD_PART_CONFIG,VAR_1
+EXT_CSD_PART_CONFIG_ACC_MASK,VAR_2
+dev_get_drvdata,FUNC_0
+mmc_blk_part_switch_post,FUNC_1
+mmc_blk_part_switch_pre,FUNC_2
+mmc_card_mmc,FUNC_3
+mmc_switch,FUNC_4
+mmc_blk_part_switch,FUNC_5
+card,VAR_3
+part_type,VAR_4
+ret,VAR_5
+main_md,VAR_6
+part_config,VAR_7

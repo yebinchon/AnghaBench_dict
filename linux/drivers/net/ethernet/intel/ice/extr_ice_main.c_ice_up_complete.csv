@@ -1,0 +1,15 @@
+ICE_AQ_LINK_UP,VAR_0
+__ICE_DOWN,VAR_1
+clear_bit,FUNC_0
+ice_napi_enable_all,FUNC_1
+ice_print_link_msg,FUNC_2
+ice_service_task_schedule,FUNC_3
+ice_vsi_cfg_msix,FUNC_4
+ice_vsi_ena_irq,FUNC_5
+ice_vsi_start_rx_rings,FUNC_6
+netif_carrier_on,FUNC_7
+netif_tx_start_all_queues,FUNC_8
+ice_up_complete,FUNC_9
+vsi,VAR_2
+pf,VAR_3
+err,VAR_4

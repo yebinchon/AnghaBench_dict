@@ -1,0 +1,10 @@
+EOPNOTSUPP,VAR_0
+PGM_PRIVILEGED_OP,VAR_1
+PSW_MASK_PSTATE,VAR_2
+VCPU_EVENT,FUNC_0
+handle_tpi,FUNC_1
+handle_tsch,FUNC_2
+kvm_s390_inject_program_int,FUNC_3
+kvm_s390_set_psw_cc,FUNC_4
+handle_io_inst,FUNC_5
+vcpu,VAR_3

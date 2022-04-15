@@ -1,0 +1,16 @@
+SIGADDSET,FUNC_0
+SIGCANCEL,VAR_0
+SIGEMPTYSET,FUNC_1
+SIG_UNBLOCK,VAR_1
+__sys_sigprocmask,FUNC_2
+__sys_sigsuspend,FUNC_3
+_get_curthread,FUNC_4
+_thr_cancel_enter,FUNC_5
+_thr_cancel_leave,FUNC_6
+thr_remove_thr_signals,FUNC_7
+__thr_sigsuspend,FUNC_8
+set,VAR_2
+curthread,VAR_3
+newset,VAR_4
+ret,VAR_5
+old,VAR_6

@@ -1,0 +1,15 @@
+KERN_INVALID_ADDRESS,VAR_0
+KERN_SUCCESS,VAR_1
+SHARED_REGION_TRACE_DEBUG,FUNC_0
+THREAD_UNINT,VAR_2
+VM_KERNEL_ADDRPERM,FUNC_1
+assert,FUNC_2
+vm_shared_region_lock,FUNC_3
+vm_shared_region_sleep,FUNC_4
+vm_shared_region_unlock,FUNC_5
+vm_shared_region_start_address,FUNC_6
+shared_region,VAR_3
+start_address,VAR_4
+kr,VAR_5
+sr_base_address,VAR_6
+sr_first_mapping,VAR_7

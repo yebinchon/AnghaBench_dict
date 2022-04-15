@@ -1,0 +1,11 @@
+XGMAC_ADDR,VAR_0
+XGMAC_ADDR_RDY,VAR_1
+XGMAC_ADDR_XME,VAR_2
+XGMAC_DATA,VAR_3
+ql_wait_reg_rdy,FUNC_0
+ql_write32,FUNC_1
+ql_write_xgmac_reg,FUNC_2
+qdev,VAR_4
+reg,VAR_5
+data,VAR_6
+status,VAR_7

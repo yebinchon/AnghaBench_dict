@@ -1,0 +1,11 @@
+READ_IMPLIES_EXEC,VAR_0
+TIF_ADDR32,VAR_1
+TIF_IA32,VAR_2
+TIF_X32,VAR_3
+TS_COMPAT,VAR_4
+__NR_execve,VAR_5
+clear_thread_flag,FUNC_0
+current,VAR_6
+current_thread_info,FUNC_1
+task_pt_regs,FUNC_2
+set_personality_64bit,FUNC_3

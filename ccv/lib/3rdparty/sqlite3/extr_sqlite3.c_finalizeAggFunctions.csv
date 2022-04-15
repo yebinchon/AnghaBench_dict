@@ -1,0 +1,14 @@
+EP_xIsSelect,VAR_0
+ExprHasProperty,FUNC_0
+OP_AggFinal,VAR_1
+P4_FUNCDEF,VAR_2
+assert,FUNC_1
+sqlite3VdbeAddOp2,FUNC_2
+sqlite3VdbeAppendP4,FUNC_3
+finalizeAggFunctions,FUNC_4
+pParse,VAR_3
+pAggInfo,VAR_4
+v,VAR_5
+i,VAR_6
+pF,VAR_7
+pList,VAR_8

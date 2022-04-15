@@ -1,0 +1,12 @@
+AGTIAPI_MAX_CARDS,VAR_0
+BUS_PROBE_DEFAULT,VAR_1
+ENXIO,VAR_2
+agCardInfoList,VAR_3
+agtiapi_ProbeCard,FUNC_0
+device_get_unit,FUNC_1
+device_printf,FUNC_2
+agtiapi_probe,FUNC_3
+dev,VAR_4
+retVal,VAR_5
+thisCard,VAR_6
+thisCardInst,VAR_7

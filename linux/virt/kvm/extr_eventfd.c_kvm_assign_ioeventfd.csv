@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+KVM_FAST_MMIO_BUS,VAR_1
+KVM_IOEVENTFD_FLAG_DATAMATCH,VAR_2
+KVM_IOEVENTFD_VALID_FLAG_MASK,VAR_3
+KVM_MMIO_BUS,VAR_4
+ioeventfd_bus_from_flags,FUNC_0
+kvm_assign_ioeventfd_idx,FUNC_1
+kvm_deassign_ioeventfd_idx,FUNC_2
+kvm_assign_ioeventfd,FUNC_3
+kvm,VAR_5
+args,VAR_6
+bus_idx,VAR_7
+ret,VAR_8

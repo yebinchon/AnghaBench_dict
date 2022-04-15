@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+IB_CM_IDLE,VAR_1
+IB_CM_SIDR_REQ_SENT,VAR_2
+cm_acquire_id,FUNC_0
+cm_deref_id,FUNC_1
+cm_format_sidr_rep_event,FUNC_2
+cm_process_work,FUNC_3
+ib_cancel_mad,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+cm_sidr_rep_handler,FUNC_7
+work,VAR_3
+sidr_rep_msg,VAR_4
+cm_id_priv,VAR_5

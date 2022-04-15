@@ -1,0 +1,16 @@
+GFP_KERNEL,VAR_0
+MEI_DUMP_SKB_IN,FUNC_0
+MEI_NFC_HEADER_SIZE,VAR_1
+MEI_NFC_MAX_READ,VAR_2
+alloc_skb,FUNC_1
+kfree_skb,FUNC_2
+mei_cldev_get_drvdata,FUNC_3
+mei_nfc_recv,FUNC_4
+nfc_hci_recv_frame,FUNC_5
+skb_pull,FUNC_6
+skb_put,FUNC_7
+nfc_mei_rx_cb,FUNC_8
+cldev,VAR_3
+phy,VAR_4
+skb,VAR_5
+reply_size,VAR_6

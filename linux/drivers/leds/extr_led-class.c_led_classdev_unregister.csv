@@ -1,0 +1,17 @@
+IS_ERR_OR_NULL,FUNC_0
+LED_BRIGHT_HW_CHANGED,VAR_0
+LED_OFF,VAR_1
+LED_UNREGISTERING,VAR_2
+device_unregister,FUNC_1
+down_write,FUNC_2
+flush_work,FUNC_3
+led_remove_brightness_hw_changed,FUNC_4
+led_set_brightness,FUNC_5
+led_stop_software_blink,FUNC_6
+led_trigger_set,FUNC_7
+leds_list_lock,VAR_3
+list_del,FUNC_8
+mutex_destroy,FUNC_9
+up_write,FUNC_10
+led_classdev_unregister,FUNC_11
+led_cdev,VAR_4

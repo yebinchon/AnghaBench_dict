@@ -1,0 +1,12 @@
+APIC_DFR,VAR_0
+APIC_DFR_FLAT,VAR_1
+APIC_LDR,VAR_2
+APIC_LDR_MASK,VAR_3
+SET_APIC_LOGICAL_ID,FUNC_0
+apic_read,FUNC_1
+apic_write,FUNC_2
+smp_processor_id,FUNC_3
+flat_init_apic_ldr,FUNC_4
+val,VAR_4
+num,VAR_5
+id,VAR_6

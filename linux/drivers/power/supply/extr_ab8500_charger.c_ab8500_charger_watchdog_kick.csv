@@ -1,0 +1,14 @@
+AB8500_CHARGER,VAR_0
+AB8500_CHARG_WD_CTRL,VAR_1
+CHARG_WD_KICK,VAR_2
+ENXIO,VAR_3
+POWER_SUPPLY_TYPE_MAINS,VAR_4
+POWER_SUPPLY_TYPE_USB,VAR_5
+abx500_set_register_interruptible,FUNC_0
+dev_err,FUNC_1
+to_ab8500_charger_ac_device_info,FUNC_2
+to_ab8500_charger_usb_device_info,FUNC_3
+ab8500_charger_watchdog_kick,FUNC_4
+charger,VAR_6
+ret,VAR_7
+di,VAR_8

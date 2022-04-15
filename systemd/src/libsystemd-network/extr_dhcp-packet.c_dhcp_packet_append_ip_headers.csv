@@ -1,0 +1,15 @@
+DHCP_IP_SIZE,VAR_0
+IPDEFTTL,VAR_1
+IPPROTO_UDP,VAR_2
+IPTOS_CLASS_CS6,VAR_3
+IPVERSION,VAR_4
+dhcp_packet_checksum,FUNC_0
+htobe16,FUNC_1
+dhcp_packet_append_ip_headers,FUNC_2
+packet,VAR_5
+source_addr,VAR_6
+source_port,VAR_7
+destination_addr,VAR_8
+destination_port,VAR_9
+len,VAR_10
+ip_service_type,VAR_11

@@ -1,0 +1,9 @@
+IWL_MVM_STATUS_HW_RFKILL,VAR_0
+IWL_OP_MODE_GET_MVM,FUNC_0
+clear_bit,FUNC_1
+set_bit,FUNC_2
+wiphy_rfkill_set_hw_state,FUNC_3
+iwl_mvm_set_hw_rfkill_state,FUNC_4
+op_mode,VAR_1
+state,VAR_2
+mvm,VAR_3

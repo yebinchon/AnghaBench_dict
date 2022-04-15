@@ -1,0 +1,15 @@
+LDNS_WIREPARSE_ERR_BUFFER_TOO_SMALL,VAR_0
+LDNS_WIREPARSE_ERR_OK,VAR_1
+LDNS_WIREPARSE_ERR_SYNTAX_RDATA,VAR_2
+RET_ERR,FUNC_0
+isspace,FUNC_1
+isxdigit,FUNC_2
+sldns_hexdigit_to_int,FUNC_3
+rrinternal_spool_hex,FUNC_4
+token,VAR_3
+rr,VAR_4
+rr_len,VAR_5
+rr_cur_len,VAR_6
+cur_hex_data_size,VAR_7
+hex_data_size,VAR_8
+p,VAR_9

@@ -1,0 +1,15 @@
+DMA_TO_DEVICE,VAR_0
+EFX_TX_BUF_HEAP,VAR_1
+EFX_TX_BUF_MAP_SINGLE,VAR_2
+EFX_TX_BUF_SKB,VAR_3
+dev_kfree_skb_any,FUNC_0
+dma_unmap_page,FUNC_1
+dma_unmap_single,FUNC_2
+kfree,FUNC_3
+netif_vdbg,FUNC_4
+tx_done,VAR_4
+efx_dequeue_buffer,FUNC_5
+tx_queue,VAR_5
+buffer,VAR_6
+dma_dev,VAR_7
+unmap_addr,VAR_8

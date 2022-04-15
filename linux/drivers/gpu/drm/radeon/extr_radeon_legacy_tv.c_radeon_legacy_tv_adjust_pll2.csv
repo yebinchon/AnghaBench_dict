@@ -1,0 +1,14 @@
+RADEON_PIX2CLK_SRC_SEL_MASK,VAR_0
+RADEON_PIX2CLK_SRC_SEL_P2PLLCLK,VAR_1
+RADEON_PIXCLK_TV_SRC_SEL,VAR_2
+get_post_div,FUNC_0
+radeon_legacy_tv_get_std_mode,FUNC_1
+to_radeon_encoder,FUNC_2
+radeon_legacy_tv_adjust_pll2,FUNC_3
+encoder,VAR_3
+htotal2_cntl,VAR_4
+p2pll_ref_div,VAR_5
+p2pll_div_0,VAR_6
+pixclks_cntl,VAR_7
+radeon_encoder,VAR_8
+const_ptr,VAR_9

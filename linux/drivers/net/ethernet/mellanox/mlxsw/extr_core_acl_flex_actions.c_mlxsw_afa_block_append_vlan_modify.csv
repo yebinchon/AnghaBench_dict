@@ -1,0 +1,16 @@
+IS_ERR,FUNC_0
+MLXSW_AFA_VLAN_CMD_SET_OUTER,VAR_0
+MLXSW_AFA_VLAN_CODE,VAR_1
+MLXSW_AFA_VLAN_SIZE,VAR_2
+MLXSW_AFA_VLAN_VLAN_TAG_CMD_NOP,VAR_3
+NL_SET_ERR_MSG_MOD,FUNC_1
+PTR_ERR,FUNC_2
+mlxsw_afa_block_append_action,FUNC_3
+mlxsw_afa_vlan_pack,FUNC_4
+mlxsw_afa_block_append_vlan_modify,FUNC_5
+block,VAR_4
+vid,VAR_5
+pcp,VAR_6
+et,VAR_7
+extack,VAR_8
+act,VAR_9

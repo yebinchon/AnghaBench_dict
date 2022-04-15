@@ -1,0 +1,14 @@
+MDNS_FLAGS_AUTHORITATIVE,VAR_0
+MDNS_TYPE_A,VAR_1
+MDNS_TYPE_AAAA,VAR_2
+MDNS_TYPE_PTR,VAR_3
+MDNS_TYPE_SDPTR,VAR_4
+MDNS_TYPE_SRV,VAR_5
+MDNS_TYPE_TXT,VAR_6
+_mdns_alloc_answer,FUNC_0
+_mdns_alloc_packet_default,FUNC_1
+_mdns_free_tx_packet,FUNC_2
+_mdns_create_announce_from_probe,FUNC_3
+probe,VAR_7
+packet,VAR_8
+s,VAR_9

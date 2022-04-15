@@ -1,0 +1,17 @@
+BCM2835_I2C_DEL,VAR_0
+BCM2835_I2C_DIV,VAR_1
+BCM2835_I2C_FEDL_SHIFT,VAR_2
+BCM2835_I2C_REDL_SHIFT,VAR_3
+EINVAL,VAR_4
+bcm2835_i2c_writel,FUNC_0
+clk_bcm2835_i2c_calc_divider,FUNC_1
+max,FUNC_2
+to_clk_bcm2835_i2c,FUNC_3
+clk_bcm2835_i2c_set_rate,FUNC_4
+hw,VAR_5
+rate,VAR_6
+parent_rate,VAR_7
+div,VAR_8
+redl,VAR_9
+fedl,VAR_10
+divider,VAR_11

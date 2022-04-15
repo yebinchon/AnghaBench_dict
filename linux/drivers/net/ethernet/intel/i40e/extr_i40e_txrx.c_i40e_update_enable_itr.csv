@@ -1,0 +1,17 @@
+I40E_FLAG_MSIX_ENABLED,VAR_0
+I40E_ITR_NONE,VAR_1
+I40E_RX_ITR,VAR_2
+I40E_TX_ITR,VAR_3
+INTREG,FUNC_0
+ITR_COUNTDOWN_START,VAR_4
+__I40E_VSI_DOWN,VAR_5
+i40e_buildreg_itr,FUNC_1
+i40e_irq_dynamic_enable_icr0,FUNC_2
+i40e_update_itr,FUNC_3
+test_bit,FUNC_4
+wr32,FUNC_5
+i40e_update_enable_itr,FUNC_6
+vsi,VAR_6
+q_vector,VAR_7
+hw,VAR_8
+intval,VAR_9

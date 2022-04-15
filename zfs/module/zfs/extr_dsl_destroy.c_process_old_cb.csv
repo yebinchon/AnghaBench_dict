@@ -1,0 +1,15 @@
+ASSERT,FUNC_0
+BP_GET_PSIZE,FUNC_1
+BP_GET_UCSIZE,FUNC_2
+BP_IS_HOLE,FUNC_3
+bp_get_dsize_sync,FUNC_4
+dsl_dataset_phys,FUNC_5
+dsl_deadlist_insert,FUNC_6
+dsl_free_sync,FUNC_7
+process_old_cb,FUNC_8
+arg,VAR_0
+bp,VAR_1
+bp_freed,VAR_2
+tx,VAR_3
+poa,VAR_4
+dp,VAR_5

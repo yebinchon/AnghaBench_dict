@@ -1,0 +1,16 @@
+__v4l2_ctrl_grab,FUNC_0
+imx355_start_streaming,FUNC_1
+imx355_stop_streaming,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+pm_runtime_get_sync,FUNC_5
+pm_runtime_put,FUNC_6
+pm_runtime_put_noidle,FUNC_7
+to_imx355,FUNC_8
+v4l2_get_subdevdata,FUNC_9
+imx355_set_stream,FUNC_10
+sd,VAR_0
+enable,VAR_1
+imx355,VAR_2
+client,VAR_3
+ret,VAR_4

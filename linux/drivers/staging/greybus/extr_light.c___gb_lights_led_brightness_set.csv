@@ -1,0 +1,14 @@
+GB_LIGHTS_TYPE_SET_BRIGHTNESS,VAR_0
+gb_operation_sync,FUNC_0
+gb_pm_runtime_get_sync,FUNC_1
+gb_pm_runtime_put_autosuspend,FUNC_2
+get_conn_from_channel,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+__gb_lights_led_brightness_set,FUNC_6
+channel,VAR_1
+req,VAR_2
+connection,VAR_3
+bundle,VAR_4
+old_active,VAR_5
+ret,VAR_6

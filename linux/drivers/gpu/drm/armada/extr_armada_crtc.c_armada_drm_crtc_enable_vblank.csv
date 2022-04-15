@@ -1,0 +1,9 @@
+VSYNC_IRQ_ENA,VAR_0
+armada_drm_crtc_enable_irq,FUNC_0
+drm_to_armada_crtc,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+armada_drm_crtc_enable_vblank,FUNC_4
+crtc,VAR_1
+dcrtc,VAR_2
+flags,VAR_3

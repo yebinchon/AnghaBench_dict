@@ -1,0 +1,16 @@
+ERR_PTR,FUNC_0
+EXT4_SB,FUNC_1
+GFP_NOFS,VAR_0
+_RET_IP_,VAR_1
+ext4_get_nojournal,FUNC_2
+ext4_journal_check_start,FUNC_3
+jbd2__journal_start,FUNC_4
+trace_ext4_journal_start,FUNC_5
+__ext4_journal_start_sb,FUNC_6
+sb,VAR_2
+line,VAR_3
+type,VAR_4
+blocks,VAR_5
+rsv_blocks,VAR_6
+journal,VAR_7
+err,VAR_8

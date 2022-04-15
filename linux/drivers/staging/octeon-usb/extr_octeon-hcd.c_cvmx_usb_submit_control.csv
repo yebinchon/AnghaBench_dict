@@ -1,0 +1,12 @@
+CVMX_USB_TRANSFER_CONTROL,VAR_0
+USB_DIR_IN,VAR_1
+cvmx_phys_to_ptr,FUNC_0
+cvmx_usb_submit_transaction,FUNC_1
+le16_to_cpu,FUNC_2
+cvmx_usb_submit_control,FUNC_3
+usb,VAR_2
+pipe,VAR_3
+urb,VAR_4
+buffer_length,VAR_5
+control_header,VAR_6
+header,VAR_7

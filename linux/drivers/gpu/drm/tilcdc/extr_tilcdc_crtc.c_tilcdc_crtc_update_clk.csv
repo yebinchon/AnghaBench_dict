@@ -1,0 +1,15 @@
+clk_get_rate,FUNC_0
+drm_modeset_lock,FUNC_1
+drm_modeset_unlock,FUNC_2
+pm_runtime_get_sync,FUNC_3
+pm_runtime_put_sync,FUNC_4
+tilcdc_crtc_disable,FUNC_5
+tilcdc_crtc_enable,FUNC_6
+tilcdc_crtc_is_on,FUNC_7
+tilcdc_crtc_set_clk,FUNC_8
+to_tilcdc_crtc,FUNC_9
+tilcdc_crtc_update_clk,FUNC_10
+crtc,VAR_0
+dev,VAR_1
+priv,VAR_2
+tilcdc_crtc,VAR_3

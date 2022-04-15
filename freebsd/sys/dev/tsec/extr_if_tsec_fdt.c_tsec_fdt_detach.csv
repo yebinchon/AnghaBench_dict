@@ -1,0 +1,12 @@
+SYS_RES_MEMORY,VAR_0
+bus_release_resource,FUNC_0
+callout_drain,FUNC_1
+device_get_softc,FUNC_2
+device_printf,FUNC_3
+mtx_destroy,FUNC_4
+tsec_detach,FUNC_5
+tsec_release_intr,FUNC_6
+tsec_fdt_detach,FUNC_7
+dev,VAR_1
+sc,VAR_2
+error,VAR_3

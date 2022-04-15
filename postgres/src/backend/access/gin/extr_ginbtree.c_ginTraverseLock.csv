@@ -1,0 +1,11 @@
+BufferGetPage,FUNC_0
+GIN_EXCLUSIVE,VAR_0
+GIN_SHARE,VAR_1
+GIN_UNLOCK,VAR_2
+GinPageIsLeaf,FUNC_1
+LockBuffer,FUNC_2
+ginTraverseLock,FUNC_3
+buffer,VAR_3
+searchMode,VAR_4
+page,VAR_5
+access,VAR_6

@@ -1,0 +1,12 @@
+BR_FLOOD,VAR_0
+BR_LEARNING,VAR_1
+ethsw_port_set_flood,FUNC_0
+ethsw_set_learning,FUNC_1
+netdev_priv,FUNC_2
+switchdev_trans_ph_prepare,FUNC_3
+port_attr_br_flags_set,FUNC_4
+netdev,VAR_2
+trans,VAR_3
+flags,VAR_4
+port_priv,VAR_5
+err,VAR_6

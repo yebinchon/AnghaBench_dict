@@ -1,0 +1,8 @@
+init_net,VAR_0
+ip_ct_attach,VAR_1
+net_eq,FUNC_0
+nf_conntrack_cleanup_net,FUNC_1
+rcu_assign_pointer,FUNC_2
+synchronize_net,FUNC_3
+nf_conntrack_cleanup,FUNC_4
+net,VAR_2

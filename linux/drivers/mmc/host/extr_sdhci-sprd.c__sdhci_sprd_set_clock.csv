@@ -1,0 +1,17 @@
+SDHCI_CLOCK_CONTROL,VAR_0
+SDHCI_SPRD_BIT_INNR_CLK_AUTO_EN,VAR_1
+SDHCI_SPRD_BIT_OUTR_CLK_AUTO_EN,VAR_2
+SDHCI_SPRD_REG_32_BUSY_POSI,VAR_3
+TO_SPRD_HOST,FUNC_0
+sdhci_enable_clk,FUNC_1
+sdhci_readl,FUNC_2
+sdhci_sprd_calc_div,FUNC_3
+sdhci_writel,FUNC_4
+sdhci_writew,FUNC_5
+_sdhci_sprd_set_clock,FUNC_6
+host,VAR_4
+clk,VAR_5
+sprd_host,VAR_6
+div,VAR_7
+val,VAR_8
+mask,VAR_9

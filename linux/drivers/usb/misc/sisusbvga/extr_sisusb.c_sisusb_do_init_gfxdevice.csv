@@ -1,0 +1,11 @@
+SISUSB_PCI_IOPORTBASE,VAR_0
+SISUSB_PCI_MEMBASE,VAR_1
+SISUSB_PCI_MMIOBASE,VAR_2
+sisusb_read_pci_config,FUNC_0
+sisusb_send_bridge_packet,FUNC_1
+sisusb_write_pci_config,FUNC_2
+sisusb_do_init_gfxdevice,FUNC_3
+sisusb,VAR_3
+packet,VAR_4
+ret,VAR_5
+tmp32,VAR_6

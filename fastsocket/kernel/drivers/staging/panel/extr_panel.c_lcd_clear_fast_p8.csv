@@ -1,0 +1,17 @@
+BIT_CLR,VAR_0
+BIT_SET,VAR_1
+bits,VAR_2
+lcd_addr_x,VAR_3
+lcd_addr_y,VAR_4
+lcd_gotoxy,FUNC_0
+lcd_height,VAR_5
+lcd_hwidth,VAR_6
+pprt,VAR_7
+pprt_lock,VAR_8
+set_ctrl_bits,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+udelay,FUNC_4
+w_dtr,FUNC_5
+lcd_clear_fast_p8,FUNC_6
+pos,VAR_9

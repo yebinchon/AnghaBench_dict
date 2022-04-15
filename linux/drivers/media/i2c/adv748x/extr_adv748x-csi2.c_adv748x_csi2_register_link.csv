@@ -1,0 +1,11 @@
+ADV748X_CSI2_SINK,VAR_0
+MEDIA_LNK_FL_ENABLED,VAR_1
+media_create_pad_link,FUNC_0
+v4l2_device_register_subdev,FUNC_1
+adv748x_csi2_register_link,FUNC_2
+tx,VAR_2
+v4l2_dev,VAR_3
+src,VAR_4
+src_pad,VAR_5
+enable,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+CP_ACP,VAR_0
+ERROR_INSUFFICIENT_BUFFER,VAR_1
+ERROR_INVALID_PARAMETER,VAR_2
+GetLastError,FUNC_0
+GetProcessHeap,FUNC_1
+HeapAlloc,FUNC_2
+HeapFree,FUNC_3
+SetLastError,FUNC_4
+WideCharToMultiByte,FUNC_5
+foobarW,VAR_3
+memset,FUNC_6
+ok,FUNC_7
+test_destination_buffer,FUNC_8
+buffer,VAR_4
+maxsize,VAR_5
+needed,VAR_6
+len,VAR_7

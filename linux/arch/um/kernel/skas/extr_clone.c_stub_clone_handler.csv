@@ -1,0 +1,15 @@
+CLONE_FILES,VAR_0
+CLONE_PARENT,VAR_1
+PTRACE_TRACEME,VAR_2
+SIGCHLD,VAR_3
+STUB_DATA,VAR_4
+UM_KERN_PAGE_SIZE,VAR_5
+__NR_clone,VAR_6
+__NR_ptrace,VAR_7
+remap_stack,FUNC_0
+stub_syscall2,FUNC_1
+stub_syscall4,FUNC_2
+trap_myself,FUNC_3
+stub_clone_handler,FUNC_4
+data,VAR_8
+err,VAR_9

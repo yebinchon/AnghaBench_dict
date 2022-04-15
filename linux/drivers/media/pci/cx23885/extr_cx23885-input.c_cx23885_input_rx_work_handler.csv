@@ -1,0 +1,16 @@
+V4L2_SUBDEV_IR_RX_END_OF_RX_DETECTED,VAR_0
+V4L2_SUBDEV_IR_RX_FIFO_SERVICE_REQ,VAR_1
+V4L2_SUBDEV_IR_RX_HW_FIFO_OVERRUN,VAR_2
+V4L2_SUBDEV_IR_RX_SW_FIFO_OVERRUN,VAR_3
+atomic_read,FUNC_0
+cx23885_input_process_measurements,FUNC_1
+ir,VAR_4
+rx_g_parameters,VAR_5
+rx_s_parameters,VAR_6
+v4l2_subdev_call,FUNC_2
+cx23885_input_rx_work_handler,FUNC_3
+dev,VAR_7
+events,VAR_8
+params,VAR_9
+overrun,VAR_10
+data_available,VAR_11

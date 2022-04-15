@@ -1,0 +1,14 @@
+CAN_SLEEP,VAR_0
+HZ,VAR_1
+MPI2_IOC_STATE_MASK,VAR_2
+MPI2_IOC_STATE_OPERATIONAL,VAR_3
+mpt2sas_base_get_iocstate,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+wait_event_timeout,FUNC_3
+_wait_for_commands_to_complete,FUNC_4
+ioc,VAR_4
+sleep_flag,VAR_5
+ioc_state,VAR_6
+flags,VAR_7
+i,VAR_8

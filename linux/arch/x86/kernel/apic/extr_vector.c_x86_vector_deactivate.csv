@@ -1,0 +1,13 @@
+apic_chip_data,FUNC_0
+clear_irq_vector,FUNC_1
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+reserve_irq_vector_locked,FUNC_4
+trace_vector_deactivate,FUNC_5
+vector_assign_managed_shutdown,FUNC_6
+vector_lock,VAR_0
+x86_vector_deactivate,FUNC_7
+dom,VAR_1
+irqd,VAR_2
+apicd,VAR_3
+flags,VAR_4

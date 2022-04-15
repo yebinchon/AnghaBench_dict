@@ -1,0 +1,14 @@
+CPT_PF_INT_VEC_E_MBOXX,FUNC_0
+CPT_PF_MSIX_VECTORS,VAR_0
+PCI_IRQ_MSIX,VAR_1
+cpt_enable_mbox_interrupts,FUNC_1
+cpt_mbx0_intr_handler,VAR_2
+dev_err,FUNC_2
+pci_alloc_irq_vectors,FUNC_3
+pci_disable_msix,FUNC_4
+pci_irq_vector,FUNC_5
+request_irq,FUNC_6
+cpt_register_interrupts,FUNC_7
+cpt,VAR_3
+ret,VAR_4
+dev,VAR_5

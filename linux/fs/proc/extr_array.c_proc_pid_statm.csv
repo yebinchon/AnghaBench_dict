@@ -1,0 +1,16 @@
+get_task_mm,FUNC_0
+mmput,FUNC_1
+seq_put_decimal_ull,FUNC_2
+seq_putc,FUNC_3
+task_statm,FUNC_4
+proc_pid_statm,FUNC_5
+m,VAR_0
+ns,VAR_1
+pid,VAR_2
+task,VAR_3
+size,VAR_4
+resident,VAR_5
+shared,VAR_6
+text,VAR_7
+data,VAR_8
+mm,VAR_9

@@ -1,0 +1,12 @@
+archive_entry_free,FUNC_0
+archive_entry_new,FUNC_1
+archive_entry_set_size,FUNC_2
+archive_entry_sparse_add_entry,FUNC_3
+archive_entry_sparse_count,FUNC_4
+assert,FUNC_5
+assertEqualInt,FUNC_6
+failure,FUNC_7
+test_sparse_whole_file_data,FUNC_8
+ae,VAR_0
+offset,VAR_1
+i,VAR_2

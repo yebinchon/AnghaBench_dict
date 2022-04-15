@@ -1,0 +1,13 @@
+DRM_DEBUG,FUNC_0
+WRITE_ONCE,FUNC_1
+__enable_vblank,FUNC_2
+assert_spin_locked,FUNC_3
+atomic_dec,FUNC_4
+drm_update_vblank_count,FUNC_5
+spin_lock,FUNC_6
+spin_unlock,FUNC_7
+drm_vblank_enable,FUNC_8
+dev,VAR_0
+pipe,VAR_1
+vblank,VAR_2
+ret,VAR_3

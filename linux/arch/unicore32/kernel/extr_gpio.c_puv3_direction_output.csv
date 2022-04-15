@@ -1,0 +1,12 @@
+GPIO_GPDR,VAR_0
+GPIO_GPIO,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+puv3_gpio_set,FUNC_3
+readl,FUNC_4
+writel,FUNC_5
+puv3_direction_output,FUNC_6
+chip,VAR_1
+offset,VAR_2
+value,VAR_3
+flags,VAR_4

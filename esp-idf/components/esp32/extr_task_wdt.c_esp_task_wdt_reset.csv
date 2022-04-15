@@ -1,0 +1,15 @@
+ASSERT_EXIT_CRIT_RETURN,FUNC_0
+ESP_ERR_INVALID_STATE,VAR_0
+ESP_ERR_NOT_FOUND,VAR_1
+ESP_OK,VAR_2
+find_task_in_twdt_list,FUNC_1
+portENTER_CRITICAL,FUNC_2
+portEXIT_CRITICAL,FUNC_3
+reset_hw_timer,FUNC_4
+twdt_config,VAR_3
+twdt_spinlock,VAR_4
+xTaskGetCurrentTaskHandle,FUNC_5
+esp_task_wdt_reset,FUNC_6
+handle,VAR_5
+target_task,VAR_6
+all_reset,VAR_7

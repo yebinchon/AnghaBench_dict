@@ -1,0 +1,15 @@
+foffset_lock_uio,FUNC_0
+foffset_unlock_uio,FUNC_1
+mac_posixshm_check_read,FUNC_2
+rangelock_rlock,FUNC_3
+rangelock_unlock,FUNC_4
+uiomove_object,FUNC_5
+shm_read,FUNC_6
+fp,VAR_0
+uio,VAR_1
+active_cred,VAR_2
+flags,VAR_3
+td,VAR_4
+shmfd,VAR_5
+rl_cookie,VAR_6
+error,VAR_7

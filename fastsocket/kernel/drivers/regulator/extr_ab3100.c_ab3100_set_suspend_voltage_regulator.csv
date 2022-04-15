@@ -1,0 +1,17 @@
+AB3100_BUCK,VAR_0
+AB3100_BUCK_SLEEP,VAR_1
+AB3100_LDO_E,VAR_2
+AB3100_LDO_E_SLEEP,VAR_3
+EINVAL,VAR_4
+ab3100_get_best_voltage_index,FUNC_0
+ab3100_get_register_interruptible,FUNC_1
+ab3100_set_register_interruptible,FUNC_2
+dev_warn,FUNC_3
+ab3100_set_suspend_voltage_regulator,FUNC_4
+reg,VAR_5
+uV,VAR_6
+abreg,VAR_7
+regval,VAR_8
+err,VAR_9
+bestindex,VAR_10
+targetreg,VAR_11

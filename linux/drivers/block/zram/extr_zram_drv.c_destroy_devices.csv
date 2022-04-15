@@ -1,0 +1,12 @@
+CPUHP_ZCOMP_PREPARE,VAR_0
+class_unregister,FUNC_0
+cpuhp_remove_multi_state,FUNC_1
+idr_destroy,FUNC_2
+idr_for_each,FUNC_3
+unregister_blkdev,FUNC_4
+zram_control_class,VAR_1
+zram_debugfs_destroy,FUNC_5
+zram_index_idr,VAR_2
+zram_major,VAR_3
+zram_remove_cb,VAR_4
+destroy_devices,FUNC_6

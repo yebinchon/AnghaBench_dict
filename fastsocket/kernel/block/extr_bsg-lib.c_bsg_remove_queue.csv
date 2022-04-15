@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+blk_end_request_all,FUNC_0
+blk_fetch_request,FUNC_1
+blk_stop_queue,FUNC_2
+bsg_unregister_queue,FUNC_3
+msleep,FUNC_4
+spin_lock_irq,FUNC_5
+spin_unlock_irq,FUNC_6
+bsg_remove_queue,FUNC_7
+q,VAR_1
+req,VAR_2
+counts,VAR_3

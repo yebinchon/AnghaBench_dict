@@ -1,0 +1,6 @@
+SX150X_789_RESET_KEY1,VAR_0
+SX150X_789_RESET_KEY2,VAR_1
+i2c_smbus_write_byte_data,FUNC_0
+sx150x_reset,FUNC_1
+pctl,VAR_2
+err,VAR_3

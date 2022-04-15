@@ -1,0 +1,15 @@
+REG_DSI_10nm_PHY_CMN_PLL_CNTRL,VAR_0
+REG_DSI_10nm_PHY_CMN_RBUF_CTRL,VAR_1
+dsi_pll_10nm_lock_status,FUNC_0
+dsi_pll_enable_global_clk,FUNC_1
+dsi_pll_enable_pll_bias,FUNC_2
+hw_clk_to_pll,FUNC_3
+pll_write,FUNC_4
+pr_err,FUNC_5
+to_pll_10nm,FUNC_6
+wmb,FUNC_7
+dsi_pll_10nm_vco_prepare,FUNC_8
+hw,VAR_2
+pll,VAR_3
+pll_10nm,VAR_4
+rc,VAR_5

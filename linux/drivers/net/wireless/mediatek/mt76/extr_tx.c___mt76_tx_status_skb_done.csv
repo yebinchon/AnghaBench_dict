@@ -1,0 +1,17 @@
+IEEE80211_SKB_CB,FUNC_0
+IEEE80211_TX_STAT_ACK,VAR_0
+MT_TX_CB_DMA_DONE,VAR_1
+MT_TX_CB_TXS_DONE,VAR_2
+MT_TX_CB_TXS_FAILED,VAR_3
+__skb_queue_tail,FUNC_1
+__skb_unlink,FUNC_2
+ieee80211_tx_info_clear_status,FUNC_3
+mt76_tx_skb_cb,FUNC_4
+__mt76_tx_status_skb_done,FUNC_5
+dev,VAR_4
+skb,VAR_5
+flags,VAR_6
+list,VAR_7
+info,VAR_8
+cb,VAR_9
+done,VAR_10

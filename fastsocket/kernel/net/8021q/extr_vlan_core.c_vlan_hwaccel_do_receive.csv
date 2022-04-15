@@ -1,0 +1,14 @@
+PACKET_HOST,VAR_0
+VLAN_VID_MASK,VAR_1
+compare_ether_addr,FUNC_0
+eth_hdr,FUNC_1
+is_vlan_dev,FUNC_2
+netif_nit_deliver,FUNC_3
+per_cpu_ptr,FUNC_4
+smp_processor_id,FUNC_5
+vlan_dev_info,FUNC_6
+vlan_get_ingress_priority,FUNC_7
+vlan_hwaccel_do_receive,FUNC_8
+skb,VAR_2
+dev,VAR_3
+rx_stats,VAR_4

@@ -1,0 +1,11 @@
+HostCmd_CMD_TXPWR_CFG,VAR_0
+S_DS_GEN,VAR_1
+cpu_to_le16,FUNC_0
+le16_to_cpu,FUNC_1
+memmove,FUNC_2
+mwifiex_cmd_tx_power_cfg,FUNC_3
+cmd,VAR_2
+cmd_action,VAR_3
+txp,VAR_4
+pg_tlv,VAR_5
+cmd_txp_cfg,VAR_6

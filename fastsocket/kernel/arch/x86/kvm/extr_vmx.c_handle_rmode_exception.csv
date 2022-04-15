@@ -1,0 +1,13 @@
+EMULATE_DONE,VAR_0
+KVM_GUESTDBG_SINGLESTEP,VAR_1
+KVM_GUESTDBG_USE_HW_BP,VAR_2
+KVM_GUESTDBG_USE_SW_BP,VAR_3
+VM_EXIT_INSTRUCTION_LEN,VAR_4
+emulate_instruction,FUNC_0
+kvm_queue_exception,FUNC_1
+to_vmx,FUNC_2
+vmcs_read32,FUNC_3
+handle_rmode_exception,FUNC_4
+vcpu,VAR_5
+vec,VAR_6
+err_code,VAR_7

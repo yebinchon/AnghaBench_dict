@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+btrfs_alloc_path,FUNC_0
+btrfs_free_path,FUNC_1
+btrfs_insert_empty_item,FUNC_2
+btrfs_item_ptr_offset,FUNC_3
+btrfs_mark_buffer_dirty,FUNC_4
+write_extent_buffer,FUNC_5
+btrfs_insert_item,FUNC_6
+trans,VAR_1
+root,VAR_2
+cpu_key,VAR_3
+data,VAR_4
+data_size,VAR_5
+ret,VAR_6
+path,VAR_7
+leaf,VAR_8
+ptr,VAR_9

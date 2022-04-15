@@ -1,0 +1,12 @@
+DEBUGFUNC,FUNC_0
+IXGBE_PFVFSPOOF,FUNC_1
+IXGBE_READ_REG,FUNC_2
+IXGBE_SPOOF_ETHERTYPEAS_SHIFT,VAR_0
+IXGBE_WRITE_REG,FUNC_3
+ixgbe_set_ethertype_anti_spoofing_X550,FUNC_4
+hw,VAR_1
+enable,VAR_2
+vf,VAR_3
+vf_target_reg,VAR_4
+vf_target_shift,VAR_5
+pfvfspoof,VAR_6

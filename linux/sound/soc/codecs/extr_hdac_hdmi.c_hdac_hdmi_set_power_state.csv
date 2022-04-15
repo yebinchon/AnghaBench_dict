@@ -1,0 +1,13 @@
+AC_PWRST_ERROR,VAR_0
+AC_VERB_SET_POWER_STATE,VAR_1
+AC_WCAP_POWER,VAR_2
+get_wcaps,FUNC_0
+snd_hdac_check_power_state,FUNC_1
+snd_hdac_codec_read,FUNC_2
+snd_hdac_sync_power_state,FUNC_3
+hdac_hdmi_set_power_state,FUNC_4
+hdev,VAR_3
+nid,VAR_4
+pwr_state,VAR_5
+count,VAR_6
+state,VAR_7

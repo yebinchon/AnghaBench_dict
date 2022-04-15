@@ -1,0 +1,15 @@
+DASD_STOPPED_NOT_ACC,VAR_0
+DBF_DEV_EVENT,FUNC_0
+DBF_WARNING,VAR_1
+SCSW_SESQ_DEV_NOFCX,VAR_2
+SCSW_SESQ_PATH_NOFCX,VAR_3
+dasd_device_set_stop_bits,FUNC_1
+dasd_eckd_disable_hpf_device,FUNC_2
+dasd_eckd_disable_hpf_path,FUNC_3
+dasd_path_get_hpfpm,FUNC_4
+dasd_path_set_tbvpm,FUNC_5
+dasd_schedule_requeue,FUNC_6
+dasd_eckd_handle_hpf_error,FUNC_7
+device,VAR_4
+irb,VAR_5
+private,VAR_6

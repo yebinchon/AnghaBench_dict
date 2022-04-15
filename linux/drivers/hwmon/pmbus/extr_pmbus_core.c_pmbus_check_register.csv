@@ -1,0 +1,14 @@
+PMBUS_SKIP_STATUS_CHECK,VAR_0
+i2c_get_clientdata,FUNC_0
+pmbus_check_status_cml,FUNC_1
+pmbus_clear_fault_page,FUNC_2
+pmbus_check_register,FUNC_3
+client,VAR_1
+func,VAR_2
+client,VAR_3
+page,VAR_4
+reg,VAR_5
+page,VAR_6
+reg,VAR_7
+rv,VAR_8
+data,VAR_9

@@ -1,0 +1,13 @@
+EINVAL,VAR_0
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+SIGSETAND,FUNC_2
+SIGSETOR,FUNC_3
+bsd_to_linux_sigset,FUNC_4
+copyout,FUNC_5
+linux_rt_sigpending,FUNC_6
+td,VAR_1
+args,VAR_2
+p,VAR_3
+bset,VAR_4
+lset,VAR_5

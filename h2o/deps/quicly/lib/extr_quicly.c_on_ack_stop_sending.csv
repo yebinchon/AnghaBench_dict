@@ -1,0 +1,12 @@
+QUICLY_SENDER_STATE_ACKED,VAR_0
+QUICLY_SENTMAP_EVENT_ACKED,VAR_1
+QUICLY_SENTMAP_EVENT_EXPIRED,VAR_2
+on_ack_stream_state_sender,FUNC_0
+quicly_get_stream,FUNC_1
+sched_stream_control,FUNC_2
+on_ack_stop_sending,FUNC_3
+conn,VAR_3
+packet,VAR_4
+sent,VAR_5
+event,VAR_6
+stream,VAR_7

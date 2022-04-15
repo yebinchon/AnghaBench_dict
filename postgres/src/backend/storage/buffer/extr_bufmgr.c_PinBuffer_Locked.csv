@@ -1,0 +1,15 @@
+Assert,FUNC_0
+BM_LOCKED,VAR_0
+BUF_REFCOUNT_ONE,VAR_1
+BufferDescriptorGetBuffer,FUNC_1
+CurrentResourceOwner,VAR_2
+GetPrivateRefCountEntry,FUNC_2
+NewPrivateRefCountEntry,FUNC_3
+ResourceOwnerRememberBuffer,FUNC_4
+UnlockBufHdr,FUNC_5
+pg_atomic_read_u32,FUNC_6
+PinBuffer_Locked,FUNC_7
+buf,VAR_3
+b,VAR_4
+ref,VAR_5
+buf_state,VAR_6

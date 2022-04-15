@@ -1,0 +1,10 @@
+ISCSI_DBG_TCP,FUNC_0
+iscsi_task_has_unsol_data,FUNC_1
+kfifo_in,FUNC_2
+kfifo_out,FUNC_3
+spin_lock_bh,FUNC_4
+spin_unlock_bh,FUNC_5
+iscsi_tcp_get_curr_r2t,FUNC_6
+task,VAR_0
+tcp_task,VAR_1
+r2t,VAR_2

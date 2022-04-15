@@ -1,0 +1,12 @@
+DWC3_DEPCMD_STARTTRANSFER,VAR_0
+DWC3_EP0_COMPLETE,VAR_1
+DWC3_EP_TRANSFER_STARTED,VAR_2
+dwc3_send_gadget_ep_cmd,FUNC_0
+lower_32_bits,FUNC_1
+memset,FUNC_2
+upper_32_bits,FUNC_3
+dwc3_ep0_start_trans,FUNC_4
+dep,VAR_3
+params,VAR_4
+dwc,VAR_5
+ret,VAR_6

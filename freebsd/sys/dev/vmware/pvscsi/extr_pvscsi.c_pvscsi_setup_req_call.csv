@@ -1,0 +1,14 @@
+PVSCSI_CMD_SETUP_REQCALLTHRESHOLD,VAR_0
+PVSCSI_REG_OFFSET_COMMAND,VAR_1
+PVSCSI_REG_OFFSET_COMMAND_STATUS,VAR_2
+bzero,FUNC_0
+pvscsi_get_tunable,FUNC_1
+pvscsi_reg_read,FUNC_2
+pvscsi_reg_write,FUNC_3
+pvscsi_use_req_call_threshold,VAR_3
+pvscsi_write_cmd,FUNC_4
+pvscsi_setup_req_call,FUNC_5
+sc,VAR_4
+enable,VAR_5
+status,VAR_6
+cmd,VAR_7

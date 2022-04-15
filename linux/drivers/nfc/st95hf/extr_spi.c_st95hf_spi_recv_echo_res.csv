@@ -1,0 +1,15 @@
+ST95HF_COMMAND_RECEIVE,VAR_0
+dev_err,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+spi_message_add_tail,FUNC_3
+spi_message_init,FUNC_4
+spi_sync,FUNC_5
+st95hf_spi_recv_echo_res,FUNC_6
+spicontext,VAR_1
+receivebuff,VAR_2
+readdata_cmd,VAR_3
+t,VAR_4
+m,VAR_5
+spidev,VAR_6
+ret,VAR_7

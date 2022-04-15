@@ -1,0 +1,11 @@
+EC_KEY_free,FUNC_0
+EVP_PKEY_get1_EC_KEY,FUNC_1
+OPENSSL_free,FUNC_2
+i2d_ECPrivateKey,FUNC_3
+wpabuf_alloc_copy,FUNC_4
+wpabuf_free,FUNC_5
+dpp_copy_netaccesskey,FUNC_6
+auth,VAR_0
+der,VAR_1
+der_len,VAR_2
+eckey,VAR_3

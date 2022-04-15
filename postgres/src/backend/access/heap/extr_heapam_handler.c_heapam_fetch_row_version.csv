@@ -1,0 +1,12 @@
+Assert,FUNC_0
+ExecStorePinnedBufferHeapTuple,FUNC_1
+RelationGetRelid,FUNC_2
+TTS_IS_BUFFERTUPLE,FUNC_3
+heap_fetch,FUNC_4
+heapam_fetch_row_version,FUNC_5
+relation,VAR_0
+tid,VAR_1
+snapshot,VAR_2
+slot,VAR_3
+bslot,VAR_4
+buffer,VAR_5

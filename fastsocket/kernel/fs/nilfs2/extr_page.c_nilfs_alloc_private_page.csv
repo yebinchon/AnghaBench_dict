@@ -1,0 +1,17 @@
+BH_NILFS_Allocated,VAR_0
+GFP_NOFS,VAR_1
+__free_page,FUNC_0
+alloc_page,FUNC_1
+alloc_page_buffers,FUNC_2
+attach_page_buffers,FUNC_3
+lock_page,FUNC_4
+unlikely,FUNC_5
+unlock_page,FUNC_6
+nilfs_alloc_private_page,FUNC_7
+bdev,VAR_2
+size,VAR_3
+state,VAR_4
+bh,VAR_5
+head,VAR_6
+tail,VAR_7
+page,VAR_8

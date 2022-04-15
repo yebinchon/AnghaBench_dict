@@ -1,0 +1,17 @@
+GMBUS_PIN_DPB,VAR_0
+IS_G4X,FUNC_0
+intel_attached_crt,FUNC_1
+intel_crt_ddc_get_modes,FUNC_2
+intel_display_power_get,FUNC_3
+intel_display_power_put,FUNC_4
+intel_gmbus_get_adapter,FUNC_5
+to_i915,FUNC_6
+intel_crt_get_modes,FUNC_7
+connector,VAR_1
+dev,VAR_2
+dev_priv,VAR_3
+crt,VAR_4
+intel_encoder,VAR_5
+wakeref,VAR_6
+i2c,VAR_7
+ret,VAR_8

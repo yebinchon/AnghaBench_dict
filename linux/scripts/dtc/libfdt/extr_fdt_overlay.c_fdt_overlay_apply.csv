@@ -1,0 +1,13 @@
+FDT_RO_PROBE,FUNC_0
+fdt_find_max_phandle,FUNC_1
+fdt_set_magic,FUNC_2
+overlay_adjust_local_phandles,FUNC_3
+overlay_fixup_phandles,FUNC_4
+overlay_merge,FUNC_5
+overlay_symbol_update,FUNC_6
+overlay_update_local_references,FUNC_7
+fdt_overlay_apply,FUNC_8
+fdt,VAR_0
+fdto,VAR_1
+delta,VAR_2
+ret,VAR_3

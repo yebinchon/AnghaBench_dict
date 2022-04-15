@@ -1,0 +1,17 @@
+AF_QIPCRTR,VAR_0
+QRTR_PORT_CTRL,VAR_1
+QRTR_TYPE_BYE,VAR_2
+cpu_to_le32,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+qrtr_alloc_ctrl_packet,FUNC_3
+qrtr_local_enqueue,FUNC_4
+qrtr_local_nid,VAR_3
+qrtr_node_release,FUNC_5
+qrtr_endpoint_unregister,FUNC_6
+ep,VAR_4
+node,VAR_5
+src,VAR_6
+dst,VAR_7
+pkt,VAR_8
+skb,VAR_9

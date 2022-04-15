@@ -1,0 +1,10 @@
+APIC_LVT0,VAR_0
+APIC_LVT_MASKED,VAR_1
+APIC_MODE_EXTINT,VAR_2
+GET_APIC_DELIVERY_MODE,FUNC_0
+apic_get_reg,FUNC_1
+apic_hw_enabled,FUNC_2
+kvm_apic_accept_pic_intr,FUNC_3
+vcpu,VAR_3
+lvt0,VAR_4
+r,VAR_5

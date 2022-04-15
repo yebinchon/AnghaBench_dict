@@ -1,0 +1,15 @@
+SCTP_ABORT_ASSOCIATION,VAR_0
+SCTP_INITIATION,VAR_1
+SCTP_SIZE32,FUNC_0
+ntohl,FUNC_1
+ntohs,FUNC_2
+sctp_m_getptr,FUNC_3
+sctp_is_there_an_abort_here,FUNC_4
+m,VAR_2
+iphlen,VAR_3
+vtagfill,VAR_4
+ch,VAR_5
+init_chk,VAR_6
+chunk_buf,VAR_7
+offset,VAR_8
+chk_length,VAR_9

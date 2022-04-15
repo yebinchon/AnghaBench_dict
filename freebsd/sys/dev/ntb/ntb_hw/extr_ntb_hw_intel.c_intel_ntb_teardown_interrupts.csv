@@ -1,0 +1,10 @@
+SYS_RES_IRQ,VAR_0
+bus_release_resource,FUNC_0
+bus_teardown_intr,FUNC_1
+intel_ntb_free_msix_vec,FUNC_2
+pci_release_msi,FUNC_3
+rman_get_rid,FUNC_4
+intel_ntb_teardown_interrupts,FUNC_5
+ntb,VAR_1
+current_int,VAR_2
+i,VAR_3

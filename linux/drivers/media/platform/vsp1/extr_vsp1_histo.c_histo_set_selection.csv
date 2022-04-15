@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+HISTO_PAD_SINK,VAR_1
+V4L2_SEL_TGT_COMPOSE,VAR_2
+V4L2_SEL_TGT_CROP,VAR_3
+histo_set_compose,FUNC_0
+histo_set_crop,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+subdev_to_histo,FUNC_4
+vsp1_entity_get_pad_config,FUNC_5
+histo_set_selection,FUNC_6
+subdev,VAR_4
+cfg,VAR_5
+sel,VAR_6
+histo,VAR_7
+config,VAR_8
+ret,VAR_9

@@ -1,0 +1,15 @@
+ATF_REQUIRE_MSG,FUNC_0
+KIODISABLE,VAR_0
+KIOENABLE,VAR_1
+atomic_load_64,FUNC_1
+atomic_store_64,FUNC_2
+common_head,FUNC_3
+common_tail,FUNC_4
+ioctl,FUNC_5
+modes,VAR_2
+nitems,FUNC_6
+sleep,FUNC_7
+basic_test,FUNC_8
+mode,VAR_3
+buf,VAR_4
+fd,VAR_5

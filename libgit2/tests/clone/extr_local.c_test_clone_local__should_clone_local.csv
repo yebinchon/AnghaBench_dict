@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_CLONE_LOCAL,VAR_1
+GIT_CLONE_LOCAL_AUTO,VAR_2
+GIT_CLONE_LOCAL_NO_LINKS,VAR_3
+GIT_CLONE_NO_LOCAL,VAR_4
+cl_assert_equal_i,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+file_url,FUNC_3
+git_buf_dispose,FUNC_4
+git_buf_puts,FUNC_5
+git_buf_shorten,FUNC_6
+git_clone__should_clone_local,FUNC_7
+test_clone_local__should_clone_local,FUNC_8
+buf,VAR_5
+path,VAR_6

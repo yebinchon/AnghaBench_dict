@@ -1,0 +1,14 @@
+LABEL_IS_PTR,FUNC_0
+LDNS_MAX_DOMAINLEN,VAR_0
+LDNS_MAX_LABELLEN,VAR_1
+PTR_OFFSET,FUNC_1
+log_assert,FUNC_2
+log_err,FUNC_3
+memmove,FUNC_4
+sldns_buffer_at,FUNC_5
+dname_pkt_copy,FUNC_6
+pkt,VAR_2
+to,VAR_3
+dname,VAR_4
+len,VAR_5
+lablen,VAR_6

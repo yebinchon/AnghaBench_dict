@@ -1,0 +1,17 @@
+CMS_EncryptedData,VAR_0
+CMS_F_CMS_ENCRYPTEDDATA_SET1_KEY,VAR_1
+CMS_R_NOT_ENCRYPTED_DATA,VAR_2
+CMS_R_NO_KEY,VAR_3
+CMSerr,FUNC_0
+ERR_R_MALLOC_FAILURE,VAR_4
+M_ASN1_new_of,FUNC_1
+NID_pkcs7_encrypted,VAR_5
+OBJ_nid2obj,FUNC_2
+OBJ_obj2nid,FUNC_3
+cms_EncryptedContent_init,FUNC_4
+CMS_EncryptedData_set1_key,FUNC_5
+cms,VAR_6
+ciph,VAR_7
+key,VAR_8
+keylen,VAR_9
+ec,VAR_10

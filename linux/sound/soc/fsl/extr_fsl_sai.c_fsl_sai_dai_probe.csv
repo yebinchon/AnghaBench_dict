@@ -1,0 +1,17 @@
+FSL_SAI_CR1_RFW_MASK,VAR_0
+FSL_SAI_CSR_SR,VAR_1
+FSL_SAI_MAXBURST_RX,VAR_2
+FSL_SAI_MAXBURST_TX,VAR_3
+FSL_SAI_RCR1,FUNC_0
+FSL_SAI_RCSR,FUNC_1
+FSL_SAI_TCR1,FUNC_2
+FSL_SAI_TCSR,FUNC_3
+dev_get_drvdata,FUNC_4
+regmap_update_bits,FUNC_5
+regmap_write,FUNC_6
+snd_soc_dai_init_dma_data,FUNC_7
+snd_soc_dai_set_drvdata,FUNC_8
+fsl_sai_dai_probe,FUNC_9
+cpu_dai,VAR_4
+sai,VAR_5
+ofs,VAR_6

@@ -1,0 +1,17 @@
+AUTONEG_DISABLE,VAR_0
+AUTONEG_ENABLE,VAR_1
+Autoneg,VAR_2
+DUPLEX_FULL,VAR_3
+ENA_ADMIN_GET_FEATURE_LINK_DESC_AUTONEG_MASK,VAR_4
+ena_com_get_link_params,FUNC_0
+ethtool_link_ksettings_add_link_mode,FUNC_1
+netdev_priv,FUNC_2
+supported,VAR_5
+ena_get_link_ksettings,FUNC_3
+netdev,VAR_6
+link_ksettings,VAR_7
+adapter,VAR_8
+ena_dev,VAR_9
+link,VAR_10
+feat_resp,VAR_11
+rc,VAR_12

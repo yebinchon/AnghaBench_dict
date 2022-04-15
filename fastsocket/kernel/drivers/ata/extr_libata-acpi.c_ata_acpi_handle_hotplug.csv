@@ -1,0 +1,15 @@
+ata_acpi_detach_device,FUNC_0
+ata_ehi_hotplugged,FUNC_1
+ata_ehi_push_desc,FUNC_2
+ata_port_freeze,FUNC_3
+ata_port_wait_eh,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ata_acpi_handle_hotplug,FUNC_7
+ap,VAR_0
+dev,VAR_1
+event,VAR_2
+ehi,VAR_3
+wait,VAR_4
+flags,VAR_5
+handle,VAR_6

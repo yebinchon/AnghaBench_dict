@@ -1,0 +1,17 @@
+cancel_work_sync,FUNC_0
+drm_client_release,FUNC_1
+drm_fbdev_emulation,VAR_0
+fb_dealloc_cmap,FUNC_2
+framebuffer_release,FUNC_3
+kernel_fb_helper_list,VAR_1
+kernel_fb_helper_lock,VAR_2
+list_del,FUNC_4
+list_empty,FUNC_5
+mutex_destroy,FUNC_6
+mutex_lock,FUNC_7
+mutex_unlock,FUNC_8
+sysrq_drm_fb_helper_restore_op,VAR_3
+unregister_sysrq_key,FUNC_9
+drm_fb_helper_fini,FUNC_10
+fb_helper,VAR_4
+info,VAR_5

@@ -1,0 +1,14 @@
+REFLOG,VAR_0
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_assert_equal_s,FUNC_2
+cl_git_pass,FUNC_3
+fixture,VAR_1
+git_reflog_entry_byindex,FUNC_4
+git_reflog_entry_message,FUNC_5
+git_reflog_entrycount,FUNC_6
+git_reflog_free,FUNC_7
+git_reflog_read,FUNC_8
+test_worktree_reflog__read,FUNC_9
+reflog,VAR_2
+entry,VAR_3

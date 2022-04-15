@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+MII_BUS_ID_SIZE,VAR_1
+axienet_mdio_enable,FUNC_0
+axienet_mdio_read,VAR_2
+axienet_mdio_write,VAR_3
+mdiobus_alloc,FUNC_1
+mdiobus_free,FUNC_2
+of_get_child_by_name,FUNC_3
+of_mdiobus_register,FUNC_4
+of_node_put,FUNC_5
+snprintf,FUNC_6
+axienet_mdio_setup,FUNC_7
+lp,VAR_4
+mdio_node,VAR_5
+bus,VAR_6
+ret,VAR_7

@@ -1,0 +1,17 @@
+L2TP_CMD_SESSION_GET,VAR_0
+NETLINK_CB,FUNC_0
+NLM_F_MULTI,VAR_1
+l2tp_nl_session_send,FUNC_1
+l2tp_session_dec_refcount,FUNC_2
+l2tp_session_get_nth,FUNC_3
+l2tp_tunnel_dec_refcount,FUNC_4
+l2tp_tunnel_get_nth,FUNC_5
+sock_net,FUNC_6
+l2tp_nl_cmd_session_dump,FUNC_7
+skb,VAR_2
+cb,VAR_3
+net,VAR_4
+session,VAR_5
+tunnel,VAR_6
+ti,VAR_7
+si,VAR_8

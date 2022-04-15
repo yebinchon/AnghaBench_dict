@@ -1,0 +1,11 @@
+PANIC_CPU_INVALID,VAR_0
+__crash_kexec,FUNC_0
+atomic_cmpxchg,FUNC_1
+atomic_set,FUNC_2
+panic_cpu,VAR_1
+printk_safe_flush_on_panic,FUNC_3
+raw_smp_processor_id,FUNC_4
+crash_kexec,FUNC_5
+regs,VAR_2
+old_cpu,VAR_3
+this_cpu,VAR_4

@@ -1,0 +1,15 @@
+cpu_guest_has_segments,VAR_0
+is_eva_am_mapped,FUNC_0
+kvm_vz_guest_tlb_lookup,FUNC_1
+read_gc0_segctl0,FUNC_2
+read_gc0_segctl1,FUNC_3
+read_gc0_segctl2,FUNC_4
+unreachable,FUNC_5
+kvm_vz_gva_to_gpa,FUNC_6
+vcpu,VAR_1
+gva,VAR_2
+gpa,VAR_3
+gva32,VAR_4
+segctl,VAR_5
+mask,VAR_6
+pa,VAR_7

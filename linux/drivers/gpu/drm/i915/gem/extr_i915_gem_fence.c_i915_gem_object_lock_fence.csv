@@ -1,0 +1,15 @@
+GFP_KERNEL,VAR_0
+I915_FENCE_GFP,VAR_1
+I915_FENCE_TIMEOUT,VAR_2
+assert_object_held,FUNC_0
+dma_fence_init,FUNC_1
+dma_resv_add_excl_fence,FUNC_2
+i915_sw_fence_await_reservation,FUNC_3
+i915_sw_fence_init,FUNC_4
+kmalloc,FUNC_5
+stub_fence_ops,VAR_3
+stub_notify,VAR_4
+stub_release,FUNC_6
+i915_gem_object_lock_fence,FUNC_7
+obj,VAR_5
+stub,VAR_6

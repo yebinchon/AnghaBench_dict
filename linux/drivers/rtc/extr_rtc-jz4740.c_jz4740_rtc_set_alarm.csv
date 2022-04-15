@@ -1,0 +1,14 @@
+JZ_REG_RTC_SEC_ALARM,VAR_0
+JZ_RTC_CTRL_AE,VAR_1
+JZ_RTC_CTRL_AF_IRQ,VAR_2
+dev_get_drvdata,FUNC_0
+jz4740_rtc_ctrl_set_bits,FUNC_1
+jz4740_rtc_reg_write,FUNC_2
+lower_32_bits,FUNC_3
+rtc_tm_to_time64,FUNC_4
+jz4740_rtc_set_alarm,FUNC_5
+dev,VAR_3
+alrm,VAR_4
+ret,VAR_5
+rtc,VAR_6
+secs,VAR_7

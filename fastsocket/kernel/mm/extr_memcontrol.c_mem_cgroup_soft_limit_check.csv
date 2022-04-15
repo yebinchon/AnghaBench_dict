@@ -1,0 +1,13 @@
+MEM_CGROUP_STAT_EVENTS,VAR_0
+SOFTLIMIT_EVENTS_THRESH,VAR_1
+__mem_cgroup_stat_read_local,FUNC_0
+__mem_cgroup_stat_reset_safe,FUNC_1
+get_cpu,FUNC_2
+put_cpu,FUNC_3
+unlikely,FUNC_4
+mem_cgroup_soft_limit_check,FUNC_5
+mem,VAR_2
+ret,VAR_3
+cpu,VAR_4
+val,VAR_5
+cpustat,VAR_6

@@ -1,0 +1,16 @@
+hinic_sq_get_sges,FUNC_0
+hinic_sq_put_wqe,FUNC_1
+hinic_sq_read_wqe,FUNC_2
+hinic_sq_read_wqebb,FUNC_3
+netdev_priv,FUNC_4
+skb_shinfo,FUNC_5
+tx_free_skb,FUNC_6
+free_all_tx_skbs,FUNC_7
+txq,VAR_0
+nic_dev,VAR_1
+sq,VAR_2
+sq_wqe,VAR_3
+wqe_size,VAR_4
+skb,VAR_5
+nr_sges,VAR_6
+ci,VAR_7

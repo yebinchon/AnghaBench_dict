@@ -1,0 +1,14 @@
+ATF_REQUIRE,FUNC_0
+O_CREAT,VAR_0
+O_TRUNC,VAR_1
+O_WRONLY,VAR_2
+RE,FUNC_1
+STDERR_FILENO,VAR_3
+STDOUT_FILENO,VAR_4
+UNREACHABLE,VAR_5
+atf_process_stream_init_connect,FUNC_2
+open,FUNC_3
+connect_stream_init,FUNC_4
+v,VAR_6
+s,VAR_7
+src_fd,VAR_8

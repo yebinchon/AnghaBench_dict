@@ -1,0 +1,13 @@
+SMC_LLC_DELETE_RKEY,VAR_0
+SMC_SINGLE_LINK,VAR_1
+htonl,FUNC_0
+memset,FUNC_1
+smc_llc_add_pending_send,FUNC_2
+smc_wr_tx_send,FUNC_3
+smc_llc_send_delete_rkey,FUNC_4
+link,VAR_2
+rmb_desc,VAR_3
+rkeyllc,VAR_4
+pend,VAR_5
+wr_buf,VAR_6
+rc,VAR_7

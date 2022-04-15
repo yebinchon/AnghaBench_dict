@@ -1,0 +1,15 @@
+NDS32_SR_TLB_MISC,VAR_0
+TLB_MISC_mskCID,VAR_1
+__nds32__isb,FUNC_0
+__nds32__mfsr,FUNC_1
+__nds32__mtsr_dsb,FUNC_2
+__nds32__tlbop_inv,FUNC_3
+cid_lock,VAR_2
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+local_flush_tlb_page,FUNC_6
+vma,VAR_3
+addr,VAR_4
+flags,VAR_5
+ocid,VAR_6
+ncid,VAR_7

@@ -1,0 +1,14 @@
+EAGAIN,VAR_0
+EINTR,VAR_1
+ETIMEDOUT,VAR_2
+POLLOUT,VAR_3
+SEND_TIMEOUT_USEC,VAR_4
+assert,FUNC_0
+errno,VAR_5
+fd_wait_for_event,FUNC_1
+write,FUNC_2
+write_loop,FUNC_3
+fd,VAR_6
+message,VAR_7
+length,VAR_8
+r,VAR_9

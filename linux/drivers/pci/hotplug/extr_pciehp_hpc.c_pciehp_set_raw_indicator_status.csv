@@ -1,0 +1,12 @@
+PCI_EXP_SLTCTL_AIC,VAR_0
+PCI_EXP_SLTCTL_PIC,VAR_1
+ctrl_dev,FUNC_0
+pci_config_pm_runtime_get,FUNC_1
+pci_config_pm_runtime_put,FUNC_2
+pcie_write_cmd_nowait,FUNC_3
+to_ctrl,FUNC_4
+pciehp_set_raw_indicator_status,FUNC_5
+hotplug_slot,VAR_2
+status,VAR_3
+ctrl,VAR_4
+pdev,VAR_5

@@ -1,0 +1,10 @@
+__rt_mutex_start_proxy_lock,FUNC_0
+raw_spin_lock_irq,FUNC_1
+raw_spin_unlock_irq,FUNC_2
+remove_waiter,FUNC_3
+unlikely,FUNC_4
+rt_mutex_start_proxy_lock,FUNC_5
+lock,VAR_0
+waiter,VAR_1
+task,VAR_2
+ret,VAR_3

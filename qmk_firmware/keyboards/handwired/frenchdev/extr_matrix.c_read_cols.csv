@@ -1,0 +1,14 @@
+GPIOB,VAR_0
+I2C_ADDR_READ,VAR_1
+I2C_ADDR_WRITE,VAR_2
+I2C_STATUS_SUCCESS,VAR_3
+I2C_TIMEOUT,VAR_4
+PINF,VAR_5
+i2c_read_nack,FUNC_0
+i2c_start,FUNC_1
+i2c_stop,FUNC_2
+i2c_write,FUNC_3
+mcp23018_status,VAR_6
+read_cols,FUNC_4
+row,VAR_7
+data,VAR_8

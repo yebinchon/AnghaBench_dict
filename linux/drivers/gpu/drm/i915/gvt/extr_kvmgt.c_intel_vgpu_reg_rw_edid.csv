@@ -1,0 +1,17 @@
+EDID_BLOB_OFFSET,VAR_0
+VFIO_PCI_NUM_REGIONS,VAR_1
+VFIO_PCI_OFFSET_MASK,VAR_2
+VFIO_PCI_OFFSET_TO_INDEX,FUNC_0
+gvt_vgpu_err,FUNC_1
+handle_edid_blob,FUNC_2
+handle_edid_regs,FUNC_3
+intel_vgpu_reg_rw_edid,FUNC_4
+vgpu,VAR_3
+buf,VAR_4
+count,VAR_5
+ppos,VAR_6
+iswrite,VAR_7
+ret,VAR_8
+i,VAR_9
+region,VAR_10
+pos,VAR_11

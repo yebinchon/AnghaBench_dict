@@ -1,0 +1,17 @@
+KERN_FAILURE,VAR_0
+KERN_SUCCESS,VAR_1
+SEG_LINKEDIT,VAR_2
+bzero,FUNC_0
+finish,VAR_3
+isSplitKext,VAR_4
+kxld_kext_get_vmsize,FUNC_1
+kxld_kext_get_vmsize_for_seg_by_name,FUNC_2
+kxld_page_alloc_untracked,FUNC_3
+require,FUNC_4
+allocate_split_kext,FUNC_5
+context,VAR_5
+link_info,VAR_6
+rval,VAR_7
+vmsize,VAR_8
+header_size,VAR_9
+linked_object,VAR_10

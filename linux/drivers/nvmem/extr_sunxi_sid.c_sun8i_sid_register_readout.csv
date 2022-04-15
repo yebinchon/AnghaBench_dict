@@ -1,0 +1,15 @@
+SUN8I_SID_OFFSET_MASK,VAR_0
+SUN8I_SID_OFFSET_SHIFT,VAR_1
+SUN8I_SID_OP_LOCK,VAR_2
+SUN8I_SID_PRCTL,VAR_3
+SUN8I_SID_RDKEY,VAR_4
+SUN8I_SID_READ,VAR_5
+readl,FUNC_0
+readl_poll_timeout,FUNC_1
+writel,FUNC_2
+sun8i_sid_register_readout,FUNC_3
+sid,VAR_6
+offset,VAR_7
+out,VAR_8
+reg_val,VAR_9
+ret,VAR_10

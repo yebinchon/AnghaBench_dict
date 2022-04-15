@@ -1,0 +1,15 @@
+ATI_REG_CMD,VAR_0
+ATI_REG_CMD_IN_DMA_EN,VAR_1
+ATI_REG_CMD_OUT_DMA_EN,VAR_2
+ATI_REG_CMD_SPDF_OUT_EN,VAR_3
+ATI_REG_IER,VAR_4
+CODEC_CHECK_BITS,VAR_5
+atiixp_disable_interrupts,FUNC_0
+atiixp_lock,FUNC_1
+atiixp_rd,FUNC_2
+atiixp_reset_aclink,FUNC_3
+atiixp_unlock,FUNC_4
+atiixp_wr,FUNC_5
+atiixp_chip_pre_init,FUNC_6
+sc,VAR_6
+value,VAR_7

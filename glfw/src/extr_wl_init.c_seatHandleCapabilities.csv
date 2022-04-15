@@ -1,0 +1,15 @@
+WL_SEAT_CAPABILITY_KEYBOARD,VAR_0
+WL_SEAT_CAPABILITY_POINTER,VAR_1
+_glfw,VAR_2
+keyboardListener,VAR_3
+pointerListener,VAR_4
+wl_keyboard_add_listener,FUNC_0
+wl_keyboard_destroy,FUNC_1
+wl_pointer_add_listener,FUNC_2
+wl_pointer_destroy,FUNC_3
+wl_seat_get_keyboard,FUNC_4
+wl_seat_get_pointer,FUNC_5
+seatHandleCapabilities,FUNC_6
+data,VAR_5
+seat,VAR_6
+caps,VAR_7

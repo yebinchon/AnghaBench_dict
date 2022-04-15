@@ -1,0 +1,16 @@
+GET_UINT32_BE,FUNC_0
+MBEDTLS_XTEA_ENCRYPT,VAR_0
+PUT_UINT32_BE,FUNC_1
+mbedtls_xtea_crypt_ecb,FUNC_2
+ctx,VAR_1
+mode,VAR_2
+input,VAR_3
+output,VAR_4
+k,VAR_5
+v0,VAR_6
+v1,VAR_7
+i,VAR_8
+sum,VAR_9
+delta,VAR_10
+delta,VAR_11
+sum,VAR_12

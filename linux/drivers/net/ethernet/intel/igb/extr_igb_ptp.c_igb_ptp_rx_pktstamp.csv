@@ -1,0 +1,15 @@
+IGB_I210_RX_LATENCY_10,VAR_0
+IGB_I210_RX_LATENCY_100,VAR_1
+IGB_I210_RX_LATENCY_1000,VAR_2
+e1000_i210,VAR_3
+igb_ptp_systim_to_hwtstamp,FUNC_0
+ktime_sub_ns,FUNC_1
+le64_to_cpu,FUNC_2
+skb_hwtstamps,FUNC_3
+igb_ptp_rx_pktstamp,FUNC_4
+q_vector,VAR_4
+va,VAR_5
+skb,VAR_6
+regval,VAR_7
+adapter,VAR_8
+adjust,VAR_9

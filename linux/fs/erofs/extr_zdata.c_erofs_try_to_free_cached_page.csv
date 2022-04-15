@@ -1,0 +1,14 @@
+BIT,FUNC_0
+ClearPagePrivate,FUNC_1
+WRITE_ONCE,FUNC_2
+erofs_workgroup_try_to_freeze,FUNC_3
+erofs_workgroup_unfreeze,FUNC_4
+page_private,FUNC_5
+put_page,FUNC_6
+erofs_try_to_free_cached_page,FUNC_7
+mapping,VAR_0
+page,VAR_1
+pcl,VAR_2
+clusterpages,VAR_3
+ret,VAR_4
+i,VAR_5

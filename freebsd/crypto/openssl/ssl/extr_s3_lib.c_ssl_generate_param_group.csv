@@ -1,0 +1,17 @@
+EVP_PKEY_CTX_free,FUNC_0
+EVP_PKEY_CTX_new_id,FUNC_1
+EVP_PKEY_CTX_set_ec_paramgen_curve_nid,FUNC_2
+EVP_PKEY_EC,VAR_0
+EVP_PKEY_free,FUNC_3
+EVP_PKEY_new,FUNC_4
+EVP_PKEY_paramgen,FUNC_5
+EVP_PKEY_paramgen_init,FUNC_6
+EVP_PKEY_set_type,FUNC_7
+TLS_CURVE_CUSTOM,VAR_1
+TLS_CURVE_TYPE,VAR_2
+tls1_group_id_lookup,FUNC_8
+ssl_generate_param_group,FUNC_9
+id,VAR_3
+pctx,VAR_4
+pkey,VAR_5
+ginf,VAR_6

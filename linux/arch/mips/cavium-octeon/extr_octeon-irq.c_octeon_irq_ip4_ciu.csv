@@ -1,0 +1,15 @@
+CVMX_CIU_EN2_PPX_IP4,FUNC_0
+CVMX_CIU_SUM2_PPX_IP4,FUNC_1
+cvmx_get_core_num,FUNC_2
+cvmx_read_csr,FUNC_3
+do_IRQ,FUNC_4
+fls64,FUNC_5
+likely,FUNC_6
+octeon_irq_ciu_to_irq,VAR_0
+spurious_interrupt,FUNC_7
+octeon_irq_ip4_ciu,FUNC_8
+coreid,VAR_1
+ciu_sum,VAR_2
+ciu_en,VAR_3
+bit,VAR_4
+irq,VAR_5

@@ -1,0 +1,17 @@
+F_CANCEL,VAR_0
+F_REMOTE,VAR_1
+MA_OWNED,VAR_2
+NLM_DEBUG,FUNC_0
+TAILQ_REMOVE,FUNC_1
+VOP_ADVLOCKASYNC,FUNC_2
+af_link,VAR_3
+mtx_assert,FUNC_3
+mtx_lock,FUNC_4
+mtx_unlock,FUNC_5
+nlm_free_async_lock,FUNC_6
+taskqueue_drain,FUNC_7
+taskqueue_thread,VAR_4
+nlm_cancel_async_lock,FUNC_8
+af,VAR_5
+host,VAR_6
+error,VAR_7

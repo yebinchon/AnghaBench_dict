@@ -1,0 +1,9 @@
+ARIZONA_BOOT_DONE_STS,VAR_0
+ARIZONA_INTERRUPT_RAW_STATUS_5,VAR_1
+ARIZONA_INTERRUPT_STATUS_5,VAR_2
+arizona_poll_reg,FUNC_0
+pm_runtime_mark_last_busy,FUNC_1
+regmap_write,FUNC_2
+arizona_wait_for_boot,FUNC_3
+arizona,VAR_3
+ret,VAR_4

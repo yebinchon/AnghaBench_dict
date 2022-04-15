@@ -1,0 +1,10 @@
+I82443BXGX_EAP,VAR_0
+I82443BXGX_EAP_OFFSET_MBE,VAR_1
+I82443BXGX_EAP_OFFSET_SBE,VAR_2
+pci_read_config_dword,FUNC_0
+pci_write_bits32,FUNC_1
+to_pci_dev,FUNC_2
+i82443bxgx_edacmc_get_error_info,FUNC_3
+mci,VAR_3
+info,VAR_4
+pdev,VAR_5

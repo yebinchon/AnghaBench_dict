@@ -1,0 +1,12 @@
+TIF_NEED_FPU_LOAD,VAR_0
+WARN_ON_FPU,FUNC_0
+copy_fpregs_to_fpstate,FUNC_1
+copy_kernel_to_fpregs,FUNC_2
+current,VAR_1
+fpregs_lock,FUNC_3
+fpregs_unlock,FUNC_4
+test_thread_flag,FUNC_5
+trace_x86_fpu_after_save,FUNC_6
+trace_x86_fpu_before_save,FUNC_7
+fpu__save,FUNC_8
+fpu,VAR_2

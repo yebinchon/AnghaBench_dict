@@ -1,0 +1,12 @@
+EEPROM_DELAY,VAR_0
+EEPROM_MAX_POLL,VAR_1
+ETIMEDOUT,VAR_2
+PCI_VPD_ADDR,VAR_3
+PCI_VPD_ADDR_F,VAR_4
+t4_os_pci_read_cfg2,FUNC_0
+udelay,FUNC_1
+t4_seeprom_wait,FUNC_2
+adapter,VAR_5
+base,VAR_6
+max_poll,VAR_7
+val,VAR_8

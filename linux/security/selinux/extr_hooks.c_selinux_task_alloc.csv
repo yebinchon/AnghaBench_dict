@@ -1,0 +1,9 @@
+PROCESS__FORK,VAR_0
+SECCLASS_PROCESS,VAR_1
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_state,VAR_2
+selinux_task_alloc,FUNC_2
+task,VAR_3
+clone_flags,VAR_4
+sid,VAR_5

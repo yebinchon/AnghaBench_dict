@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+PAGE_CACHE_SIZE,VAR_0
+PageLocked,FUNC_1
+cancel_dirty_page,FUNC_2
+nfs_clear_request_commit,FUNC_3
+nfs_inode_remove_request,FUNC_4
+nfs_lock_request,FUNC_5
+nfs_page_find_request,FUNC_6
+nfs_release_request,FUNC_7
+nfs_unlock_and_release_request,FUNC_8
+nfs_wait_on_request,FUNC_9
+wait_on_page_writeback,FUNC_10
+nfs_wb_page_cancel,FUNC_11
+inode,VAR_1
+page,VAR_2
+req,VAR_3
+ret,VAR_4

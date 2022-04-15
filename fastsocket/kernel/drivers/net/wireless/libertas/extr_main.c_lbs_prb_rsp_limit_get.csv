@@ -1,0 +1,16 @@
+CMD_ACT_GET,VAR_0
+CMD_ACT_MESH_SET_GET_PRB_RSP_LIMIT,VAR_1
+cpu_to_le32,FUNC_0
+lbs_mesh_access,FUNC_1
+le32_to_cpu,FUNC_2
+memset,FUNC_3
+snprintf,FUNC_4
+to_net_dev,FUNC_5
+lbs_prb_rsp_limit_get,FUNC_6
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+priv,VAR_5
+mesh_access,VAR_6
+ret,VAR_7
+retry_limit,VAR_8

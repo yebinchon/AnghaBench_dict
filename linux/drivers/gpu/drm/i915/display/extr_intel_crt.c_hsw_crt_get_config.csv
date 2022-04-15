@@ -1,0 +1,12 @@
+DRM_MODE_FLAG_NHSYNC,VAR_0
+DRM_MODE_FLAG_NVSYNC,VAR_1
+DRM_MODE_FLAG_PHSYNC,VAR_2
+DRM_MODE_FLAG_PVSYNC,VAR_3
+intel_crt_get_flags,FUNC_0
+intel_ddi_get_config,FUNC_1
+lpt_get_iclkip,FUNC_2
+to_i915,FUNC_3
+hsw_crt_get_config,FUNC_4
+encoder,VAR_4
+pipe_config,VAR_5
+dev_priv,VAR_6

@@ -1,0 +1,11 @@
+HDMITX_TOP_ADDR_REG,VAR_0
+HDMITX_TOP_DATA_REG,VAR_1
+reg_lock,VAR_2
+spin_lock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+writel,FUNC_2
+dw_hdmi_top_write,FUNC_3
+dw_hdmi,VAR_3
+addr,VAR_4
+data,VAR_5
+flags,VAR_6

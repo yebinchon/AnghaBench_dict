@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+KASSERT,FUNC_0
+VMBUS_CHANMSG_TYPE_GPADL_DISCONN,VAR_1
+vmbus_chan_printf,FUNC_1
+vmbus_chan_wait_revoke,FUNC_2
+vmbus_msghc_dataptr,FUNC_3
+vmbus_msghc_exec,FUNC_4
+vmbus_msghc_get,FUNC_5
+vmbus_msghc_put,FUNC_6
+vmbus_msghc_wait_result,FUNC_7
+vmbus_chan_gpadl_disconnect,FUNC_8
+chan,VAR_2
+gpadl,VAR_3
+sc,VAR_4
+mh,VAR_5
+req,VAR_6
+error,VAR_7

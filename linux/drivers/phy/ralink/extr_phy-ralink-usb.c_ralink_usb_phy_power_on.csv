@@ -1,0 +1,17 @@
+RT_SYSCFG1_USB0_HOST_MODE,VAR_0
+RT_SYSC_REG_CLKCFG1,VAR_1
+RT_SYSC_REG_SYSCFG1,VAR_2
+RT_SYSC_REG_USB_PHY_CFG,VAR_3
+UDEV_WAKEUP,VAR_4
+USB_PHY_UTMI_8B60M,VAR_5
+dev_info,FUNC_0
+mdelay,FUNC_1
+phy_get_drvdata,FUNC_2
+ralink_usb_phy_init,FUNC_3
+regmap_read,FUNC_4
+regmap_update_bits,FUNC_5
+reset_control_deassert,FUNC_6
+ralink_usb_phy_power_on,FUNC_7
+_phy,VAR_6
+phy,VAR_7
+t,VAR_8

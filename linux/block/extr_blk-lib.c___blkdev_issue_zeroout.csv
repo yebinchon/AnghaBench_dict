@@ -1,0 +1,15 @@
+BLKDEV_ZERO_NOFALLBACK,VAR_0
+EINVAL,VAR_1
+EOPNOTSUPP,VAR_2
+__blkdev_issue_write_zeroes,FUNC_0
+__blkdev_issue_zero_pages,FUNC_1
+bdev_logical_block_size,FUNC_2
+__blkdev_issue_zeroout,FUNC_3
+bdev,VAR_3
+sector,VAR_4
+nr_sects,VAR_5
+gfp_mask,VAR_6
+biop,VAR_7
+flags,VAR_8
+ret,VAR_9
+bs_mask,VAR_10

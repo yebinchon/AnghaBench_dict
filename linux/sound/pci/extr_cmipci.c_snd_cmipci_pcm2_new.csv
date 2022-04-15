@@ -1,0 +1,13 @@
+SNDRV_DMA_TYPE_DEV,VAR_0
+SNDRV_PCM_STREAM_PLAYBACK,VAR_1
+snd_cmipci_playback2_ops,VAR_2
+snd_dma_pci_data,FUNC_0
+snd_pcm_lib_preallocate_pages_for_all,FUNC_1
+snd_pcm_new,FUNC_2
+snd_pcm_set_ops,FUNC_3
+strcpy,FUNC_4
+snd_cmipci_pcm2_new,FUNC_5
+cm,VAR_3
+device,VAR_4
+pcm,VAR_5
+err,VAR_6

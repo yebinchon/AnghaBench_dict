@@ -1,0 +1,13 @@
+AUDIT_ARG_VNODE1,FUNC_0
+LK_RETRY,VAR_0
+LK_SHARED,VAR_1
+VOP_UNLOCK,FUNC_1
+setfown,FUNC_2
+vn_lock,FUNC_3
+vn_chown,FUNC_4
+fp,VAR_2
+uid,VAR_3
+gid,VAR_4
+active_cred,VAR_5
+td,VAR_6
+vp,VAR_7

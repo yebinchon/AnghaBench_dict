@@ -1,0 +1,16 @@
+JZ_REG_RTC_RESET_COUNTER,VAR_0
+JZ_REG_RTC_WAKEUP_FILTER,VAR_1
+JZ_RTC_RESET_COUNTER_MASK,VAR_2
+JZ_RTC_WAKEUP_FILTER_MASK,VAR_3
+clk_get_rate,FUNC_0
+clk_prepare_enable,FUNC_1
+dev_for_power_off,VAR_4
+dev_get_drvdata,FUNC_2
+jz4740_rtc_poweroff,FUNC_3
+jz4740_rtc_reg_write,FUNC_4
+kernel_halt,FUNC_5
+jz4740_rtc_power_off,FUNC_6
+rtc,VAR_5
+rtc_rate,VAR_6
+wakeup_filter_ticks,VAR_7
+reset_counter_ticks,VAR_8

@@ -1,0 +1,10 @@
+GLOBAL_APPLY,VAR_0
+GLOBAL_RESET,VAR_1
+PORT_LINK,VAR_2
+PORT_PVID,VAR_3
+VLAN_PORTS,VAR_4
+set_bit,FUNC_0
+swconfig_find_attr_by_name,FUNC_1
+swconfig_defaults_init,FUNC_2
+dev,VAR_5
+ops,VAR_6

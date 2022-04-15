@@ -1,0 +1,15 @@
+BH1780_POFF,VAR_0
+BH1780_REG_CONTROL,VAR_1
+bh1780_write,FUNC_0
+dev_err,FUNC_1
+i2c_get_clientdata,FUNC_2
+iio_device_unregister,FUNC_3
+iio_priv,FUNC_4
+pm_runtime_disable,FUNC_5
+pm_runtime_get_sync,FUNC_6
+pm_runtime_put_noidle,FUNC_7
+bh1780_remove,FUNC_8
+client,VAR_2
+indio_dev,VAR_3
+bh1780,VAR_4
+ret,VAR_5

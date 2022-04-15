@@ -1,0 +1,16 @@
+SNDRV_PCM_HW_PARAM_BUFFER_BYTES,VAR_0
+SNDRV_PCM_HW_PARAM_PERIOD_BYTES,VAR_1
+VT1724_BUFFER_ALIGN,VAR_2
+constrain_rate_if_locked,FUNC_0
+set_rate_constraints,FUNC_1
+snd_pcm_hw_constraint_msbits,FUNC_2
+snd_pcm_hw_constraint_step,FUNC_3
+snd_pcm_set_sync,FUNC_4
+snd_pcm_substream_chip,FUNC_5
+snd_vt1724_2ch_stereo,VAR_3
+stub1,FUNC_6
+vt1724_capture_pro_reg,VAR_4
+snd_vt1724_capture_pro_open,FUNC_7
+substream,VAR_5
+ice,VAR_6
+runtime,VAR_7

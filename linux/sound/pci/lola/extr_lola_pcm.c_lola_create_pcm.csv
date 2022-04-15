@@ -1,0 +1,17 @@
+PAGE_SIZE,VAR_0
+SNDRV_DMA_TYPE_DEV,VAR_1
+SNDRV_DMA_TYPE_DEV_SG,VAR_2
+SNDRV_PCM_STREAM_CAPTURE,VAR_3
+SNDRV_PCM_STREAM_PLAYBACK,VAR_4
+lola_pcm_ops,VAR_5
+snd_dma_alloc_pages,FUNC_0
+snd_dma_pci_data,FUNC_1
+snd_pcm_lib_preallocate_pages_for_all,FUNC_2
+snd_pcm_new,FUNC_3
+snd_pcm_set_ops,FUNC_4
+strlcpy,FUNC_5
+lola_create_pcm,FUNC_6
+chip,VAR_6
+pcm,VAR_7
+i,VAR_8
+err,VAR_9

@@ -1,0 +1,15 @@
+CP_ACP,VAR_0
+LF_FACESIZE,VAR_1
+META_CREATEFONTINDIRECT,VAR_2
+MFDRV_AddHandle,FUNC_0
+MFDRV_WriteRecord,FUNC_1
+WideCharToMultiByte,FUNC_2
+memset,FUNC_3
+MFDRV_CreateFontIndirect,FUNC_4
+dev,VAR_3
+hFont,VAR_4
+logfont,VAR_5
+buffer,VAR_6
+mr,VAR_7
+font16,VAR_8
+written,VAR_9

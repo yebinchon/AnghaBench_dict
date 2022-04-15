@@ -1,0 +1,13 @@
+PIC_MASTER_IMR,VAR_0
+PIC_SLAVE_IMR,VAR_1
+cached_irq_mask,VAR_2
+cached_master_mask,VAR_3
+cached_slave_mask,VAR_4
+i8259A_lock,VAR_5
+outb,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+enable_8259A_irq,FUNC_3
+irq,VAR_6
+mask,VAR_7
+flags,VAR_8

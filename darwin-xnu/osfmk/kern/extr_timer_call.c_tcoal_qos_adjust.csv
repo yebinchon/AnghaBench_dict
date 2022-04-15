@@ -1,0 +1,15 @@
+FALSE,VAR_0
+NUM_LATENCY_QOS_TIERS,VAR_1
+TASK_POLICY_LATENCY_QOS,VAR_2
+TRUE,VAR_3
+assert,FUNC_0
+proc_get_effective_thread_policy,FUNC_1
+tcoal_prio_params,VAR_4
+tcoal_qos_adjust,FUNC_2
+t,VAR_5
+tshift,VAR_6
+tmax_abstime,VAR_7
+pratelimited,VAR_8
+latency_qos,VAR_9
+adjusted,VAR_10
+ctask,VAR_11

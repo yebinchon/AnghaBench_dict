@@ -1,0 +1,16 @@
+X86_EFLAGS_AF,VAR_0
+X86_EFLAGS_CF,VAR_1
+X86_EFLAGS_OF,VAR_2
+X86_EFLAGS_PF,VAR_3
+X86_EFLAGS_SF,VAR_4
+X86_EFLAGS_ZF,VAR_5
+get_vmcs12,FUNC_0
+kvm_skip_emulated_instruction,FUNC_1
+nested_vmx_failInvalid,FUNC_2
+to_vmx,FUNC_3
+vmx_get_rflags,FUNC_4
+vmx_set_rflags,FUNC_5
+nested_vmx_failValid,FUNC_6
+vcpu,VAR_6
+vm_instruction_error,VAR_7
+vmx,VAR_8

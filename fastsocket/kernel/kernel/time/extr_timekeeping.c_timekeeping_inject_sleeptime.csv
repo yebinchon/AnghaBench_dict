@@ -1,0 +1,12 @@
+__timekeeping_inject_sleeptime,FUNC_0
+clock_was_set,FUNC_1
+read_persistent_clock,FUNC_2
+timekeeper,VAR_0
+timekeeping_forward_now,FUNC_3
+timekeeping_update,FUNC_4
+write_seqlock_irqsave,FUNC_5
+write_sequnlock_irqrestore,FUNC_6
+timekeeping_inject_sleeptime,FUNC_7
+delta,VAR_1
+flags,VAR_2
+ts,VAR_3

@@ -1,0 +1,14 @@
+VHOST_NET_VQ_TX,VAR_0
+handle_tx_copy,FUNC_0
+handle_tx_zerocopy,FUNC_1
+mutex_lock_nested,FUNC_2
+mutex_unlock,FUNC_3
+vhost_disable_notify,FUNC_4
+vhost_net_disable_vq,FUNC_5
+vhost_sock_zcopy,FUNC_6
+vq_meta_prefetch,FUNC_7
+handle_tx,FUNC_8
+net,VAR_1
+nvq,VAR_2
+vq,VAR_3
+sock,VAR_4

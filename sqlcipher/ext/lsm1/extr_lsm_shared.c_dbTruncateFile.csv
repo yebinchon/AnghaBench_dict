@@ -1,0 +1,15 @@
+LSM_LOCK_DMS1,VAR_0
+LSM_LOCK_EXCL,VAR_1
+LSM_OK,VAR_2
+assert,FUNC_0
+dbTruncateCb,VAR_3
+lsmCheckpointLoadWorker,FUNC_1
+lsmFreeSnapshot,FUNC_2
+lsmFsBlockSize,FUNC_3
+lsmFsTruncateDb,FUNC_4
+lsmShmAssertLock,FUNC_5
+lsmWalkFreelist,FUNC_6
+dbTruncateFile,FUNC_7
+pDb,VAR_4
+rc,VAR_5
+ctx,VAR_6

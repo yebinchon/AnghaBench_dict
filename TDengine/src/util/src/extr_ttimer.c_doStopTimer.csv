@@ -1,0 +1,17 @@
+TIMER_STATE_EXPIRED,VAR_0
+TIMER_STATE_STOPPED,VAR_1
+TIMER_STATE_WAITING,VAR_2
+assert,FUNC_0
+atomic_load_8,FUNC_1
+removeFromWheel,FUNC_2
+removeTimer,FUNC_3
+sched_yield,FUNC_4
+taosGetPthreadId,FUNC_5
+tmrTrace,FUNC_6
+doStopTimer,FUNC_7
+timer,VAR_3
+state,VAR_4
+reusable,VAR_5
+fmt,VAR_6
+fmt,VAR_7
+i,VAR_8

@@ -1,0 +1,13 @@
+DISCE_REVALIDATE_DOMAIN,VAR_0
+SAS_HA_ATA_EH_ACTIVE,VAR_1
+clear_bit,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+sas_queue_event,FUNC_3
+test_and_clear_bit,FUNC_4
+sas_enable_revalidation,FUNC_5
+ha,VAR_2
+i,VAR_3
+port,VAR_4
+ev,VAR_5
+d,VAR_6

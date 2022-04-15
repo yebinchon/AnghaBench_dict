@@ -1,0 +1,16 @@
+EFUSE_PGM_DATA3_REG,VAR_0
+EFUSE_SECURE_BOOT_EN,VAR_1
+ESP_LOGE,FUNC_0
+ESP_LOGI,FUNC_1
+ESP_OK,VAR_2
+ETS_EFUSE_BLOCK0,VAR_3
+REG_SET_BIT,FUNC_2
+TAG,VAR_4
+assert,FUNC_3
+ets_efuse_clear_program_registers,FUNC_4
+ets_efuse_program,FUNC_5
+ets_efuse_secure_boot_enabled,FUNC_6
+ets_secure_boot_verify_bootloader,FUNC_7
+esp_secure_boot_permanently_enable,FUNC_8
+hash,VAR_5
+r,VAR_6

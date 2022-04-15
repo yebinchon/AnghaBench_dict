@@ -1,0 +1,14 @@
+FIRST_IRQ,VAR_0
+REG_RD_INT_VECT,FUNC_0
+REG_WR_INT_VECT,FUNC_1
+intr_vect,VAR_1
+irq_lock,VAR_2
+irq_regs,VAR_3
+rw_mask,VAR_4
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+unblock_irq,FUNC_4
+irq,VAR_5
+cpu,VAR_6
+intr_mask,VAR_7
+flags,VAR_8

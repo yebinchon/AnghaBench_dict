@@ -1,0 +1,12 @@
+DESTROY_AH,VAR_0
+RCFW_CMD_PREP,FUNC_0
+bnxt_qplib_rcfw_send_message,FUNC_1
+cpu_to_le32,FUNC_2
+bnxt_qplib_destroy_ah,FUNC_3
+res,VAR_1
+ah,VAR_2
+block,VAR_3
+rcfw,VAR_4
+req,VAR_5
+resp,VAR_6
+cmd_flags,VAR_7

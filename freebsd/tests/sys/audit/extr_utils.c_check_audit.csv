@@ -1,0 +1,7 @@
+ATF_REQUIRE_EQ,FUNC_0
+check_auditpipe,FUNC_1
+fclose,FUNC_2
+check_audit,FUNC_3
+fd,VAR_0
+auditrgx,VAR_1
+pipestream,VAR_2

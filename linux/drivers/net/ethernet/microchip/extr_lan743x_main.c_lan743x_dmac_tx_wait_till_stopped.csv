@@ -1,0 +1,9 @@
+DMAC_CHANNEL_STATE_STOP_PENDING,VAR_0
+ENODEV,VAR_1
+lan743x_dmac_tx_get_state,FUNC_0
+usleep_range,FUNC_1
+lan743x_dmac_tx_wait_till_stopped,FUNC_2
+adapter,VAR_2
+tx_channel,VAR_3
+timeout,VAR_4
+result,VAR_5

@@ -1,0 +1,11 @@
+VTSCSI_LOCK,FUNC_0
+VTSCSI_UNLOCK,FUNC_1
+virtqueue_dequeue,FUNC_2
+virtqueue_disable_intr,FUNC_3
+virtqueue_enable_intr,FUNC_4
+vtscsi_handle_event,FUNC_5
+vtscsi_event_vq_intr,FUNC_6
+xsc,VAR_0
+sc,VAR_1
+vq,VAR_2
+event,VAR_3

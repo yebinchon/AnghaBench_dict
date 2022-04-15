@@ -1,0 +1,12 @@
+MAX_SDS_RINGS,VAR_0
+NUM_RX_DESCRIPTORS,VAR_1
+NUM_RX_JUMBO_DESCRIPTORS,VAR_2
+bus_dma_tag_destroy,FUNC_0
+bus_dmamap_destroy,FUNC_1
+bus_dmamap_unload,FUNC_2
+bzero,FUNC_3
+m_freem,FUNC_4
+qla_free_rcv_bufs,FUNC_5
+ha,VAR_3
+i,VAR_4
+rxb,VAR_5

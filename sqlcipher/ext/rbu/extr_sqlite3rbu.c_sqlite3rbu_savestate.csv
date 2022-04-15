@@ -1,0 +1,16 @@
+RBU_STAGE_CKPT,VAR_0
+RBU_STAGE_DONE,VAR_1
+RBU_STAGE_OAL,VAR_2
+SQLITE_DONE,VAR_3
+SQLITE_OK,VAR_4
+SQLITE_SYNC_NORMAL,VAR_5
+assert,FUNC_0
+rbuIsVacuum,FUNC_1
+rbuSaveState,FUNC_2
+sqlite3_exec,FUNC_3
+stub1,FUNC_4
+sqlite3rbu_savestate,FUNC_5
+p,VAR_6
+rc,VAR_7
+pDb,VAR_8
+zBegin,VAR_9

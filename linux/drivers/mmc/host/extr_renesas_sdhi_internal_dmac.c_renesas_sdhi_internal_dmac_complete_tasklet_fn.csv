@@ -1,0 +1,15 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+MMC_DATA_READ,VAR_2
+SDHI_INTERNAL_DMAC_RX_IN_USE,VAR_3
+clear_bit,FUNC_0
+dma_unmap_sg,FUNC_1
+global_flags,VAR_4
+renesas_sdhi_internal_dmac_enable_dma,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+tmio_mmc_do_data_irq,FUNC_5
+renesas_sdhi_internal_dmac_complete_tasklet_fn,FUNC_6
+arg,VAR_5
+host,VAR_6
+dir,VAR_7

@@ -1,0 +1,7 @@
+clk_disable_unprepare,FUNC_0
+platform_get_drvdata,FUNC_1
+reset_control_assert,FUNC_2
+watchdog_unregister_device,FUNC_3
+dw_wdt_drv_remove,FUNC_4
+pdev,VAR_0
+dw_wdt,VAR_1

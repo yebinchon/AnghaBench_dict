@@ -1,0 +1,11 @@
+MIPI_DPHY_PARAM_REG,FUNC_0
+MIPI_DSI_FUNC_PRG_REG,FUNC_1
+MIPI_PORT_CONTROL,FUNC_2
+MIPI_VIDEO_MODE_FORMAT_REG,FUNC_3
+REG_WRITE,FUNC_4
+mdfld_mipi_set_video_timing,FUNC_5
+mdfld_mipi_config,FUNC_6
+dsi_config,VAR_0
+pipe,VAR_1
+dev,VAR_2
+lane_count,VAR_3

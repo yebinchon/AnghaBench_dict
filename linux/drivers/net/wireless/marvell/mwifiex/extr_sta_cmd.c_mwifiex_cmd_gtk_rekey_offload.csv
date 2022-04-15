@@ -1,0 +1,16 @@
+HostCmd_ACT_GEN_SET,VAR_0
+HostCmd_CMD_GTK_REKEY_OFFLOAD_CFG,VAR_1
+NL80211_KCK_LEN,VAR_2
+NL80211_KEK_LEN,VAR_3
+S_DS_GEN,VAR_4
+be64_to_cpup,FUNC_0
+cpu_to_le16,FUNC_1
+cpu_to_le32,FUNC_2
+memcpy,FUNC_3
+mwifiex_cmd_gtk_rekey_offload,FUNC_4
+priv,VAR_5
+cmd,VAR_6
+cmd_action,VAR_7
+data,VAR_8
+rekey,VAR_9
+rekey_ctr,VAR_10

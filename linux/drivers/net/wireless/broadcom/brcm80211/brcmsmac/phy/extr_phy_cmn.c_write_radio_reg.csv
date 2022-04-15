@@ -1,0 +1,17 @@
+BCMA_HOSTTYPE_PCI,VAR_0
+D11REGOFFS,FUNC_0
+D11REV_GE,FUNC_1
+D11REV_IS,FUNC_2
+PHY_TYPE_SSN,VAR_1
+bcma_read32,FUNC_3
+bcma_wflush16,FUNC_4
+bcma_write16,FUNC_5
+maccontrol,VAR_2
+phy4waddr,VAR_3
+phy4wdatalo,VAR_4
+radioregaddr,VAR_5
+radioregdata,VAR_6
+write_radio_reg,FUNC_6
+pi,VAR_7
+addr,VAR_8
+val,VAR_9

@@ -1,0 +1,17 @@
+Assert,FUNC_0
+GetBulkInsertState,FUNC_1
+GetCurrentCommandId,FUNC_2
+InvalidBlockNumber,VAR_0
+NoLock,VAR_1
+RelationGetTargetBlock,FUNC_3
+TABLE_INSERT_FROZEN,VAR_2
+TABLE_INSERT_SKIP_FSM,VAR_3
+TABLE_INSERT_SKIP_WAL,VAR_4
+XLogIsNeeded,FUNC_4
+table_open,FUNC_5
+transientrel_startup,FUNC_6
+self,VAR_5
+operation,VAR_6
+typeinfo,VAR_7
+myState,VAR_8
+transientrel,VAR_9

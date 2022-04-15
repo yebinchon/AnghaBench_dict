@@ -1,0 +1,11 @@
+UHCI_APPEND_QH,FUNC_0
+UHCI_BUS2SC,FUNC_1
+USB_SPEED_LOW,VAR_0
+uhci_setup_standard_chain,FUNC_2
+uhci_transfer_intr_enqueue,FUNC_3
+usb_pc_cpu_flush,FUNC_4
+uhci_device_ctrl_start,FUNC_5
+xfer,VAR_1
+sc,VAR_2
+qh,VAR_3
+td,VAR_4

@@ -1,0 +1,15 @@
+OXYGEN_EEPROM_BUSY,VAR_0
+OXYGEN_EEPROM_CONTROL,VAR_1
+OXYGEN_EEPROM_DATA,VAR_2
+OXYGEN_EEPROM_DIR_WRITE,VAR_3
+OXYGEN_EEPROM_STATUS,VAR_4
+dev_err,FUNC_0
+msleep,FUNC_1
+oxygen_read8,FUNC_2
+oxygen_write16,FUNC_3
+oxygen_write8,FUNC_4
+oxygen_write_eeprom,FUNC_5
+chip,VAR_5
+index,VAR_6
+value,VAR_7
+timeout,VAR_8

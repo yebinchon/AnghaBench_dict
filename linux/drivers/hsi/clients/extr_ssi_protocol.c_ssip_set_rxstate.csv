@@ -1,0 +1,11 @@
+SEND_IDLE,VAR_0
+SSIP_KATOUT,VAR_1
+SSIP_WDTOUT,VAR_2
+atomic_read,FUNC_0
+del_timer,FUNC_1
+jiffies,VAR_3
+mod_timer,FUNC_2
+msecs_to_jiffies,FUNC_3
+ssip_set_rxstate,FUNC_4
+ssi,VAR_4
+state,VAR_5

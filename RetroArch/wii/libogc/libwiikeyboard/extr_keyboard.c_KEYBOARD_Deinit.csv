@@ -1,0 +1,13 @@
+KEYBOARD_FlushEvents,FUNC_0
+LWP_JoinThread,FUNC_1
+LWP_THREAD_NULL,VAR_0
+USBKeyboard_Close,FUNC_2
+USBKeyboard_Deinitialize,FUNC_3
+_kbd_buf_thread,VAR_1
+_kbd_thread,VAR_2
+_kbd_thread_quit,VAR_3
+_kbd_thread_running,VAR_4
+_sc_map,VAR_5
+_sc_maplen,VAR_6
+free,FUNC_4
+KEYBOARD_Deinit,FUNC_5

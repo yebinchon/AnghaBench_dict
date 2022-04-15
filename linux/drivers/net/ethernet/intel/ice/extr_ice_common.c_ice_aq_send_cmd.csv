@@ -1,0 +1,15 @@
+ICE_AQC_RES_ID_GLBL_LOCK,VAR_0
+ice_global_cfg_lock_sw,VAR_1
+ice_sq_send_cmd,FUNC_0
+le16_to_cpu,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+ice_aq_send_cmd,FUNC_4
+hw,VAR_2
+desc,VAR_3
+buf,VAR_4
+buf_size,VAR_5
+cd,VAR_6
+cmd,VAR_7
+lock_acquired,VAR_8
+status,VAR_9

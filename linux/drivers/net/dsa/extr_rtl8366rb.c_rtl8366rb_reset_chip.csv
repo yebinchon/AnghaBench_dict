@@ -1,0 +1,12 @@
+EIO,VAR_0
+RTL8366RB_CHIP_CTRL_RESET_HW,VAR_1
+RTL8366RB_RESET_CTRL_REG,VAR_2
+dev_err,FUNC_0
+realtek_smi_write_reg_noack,FUNC_1
+regmap_read,FUNC_2
+usleep_range,FUNC_3
+rtl8366rb_reset_chip,FUNC_4
+smi,VAR_3
+timeout,VAR_4
+val,VAR_5
+ret,VAR_6

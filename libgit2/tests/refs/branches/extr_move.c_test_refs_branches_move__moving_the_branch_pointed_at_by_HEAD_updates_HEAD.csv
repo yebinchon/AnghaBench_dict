@@ -1,0 +1,11 @@
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_branch_move,FUNC_2
+git_reference_free,FUNC_3
+git_reference_lookup,FUNC_4
+git_reference_name,FUNC_5
+git_repository_head,FUNC_6
+repo,VAR_0
+test_refs_branches_move__moving_the_branch_pointed_at_by_HEAD_updates_HEAD,FUNC_7
+branch,VAR_1
+new_branch,VAR_2

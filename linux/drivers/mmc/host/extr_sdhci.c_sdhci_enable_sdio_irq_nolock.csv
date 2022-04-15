@@ -1,0 +1,8 @@
+SDHCI_DEVICE_DEAD,VAR_0
+SDHCI_INT_CARD_INT,VAR_1
+SDHCI_INT_ENABLE,VAR_2
+SDHCI_SIGNAL_ENABLE,VAR_3
+sdhci_writel,FUNC_0
+sdhci_enable_sdio_irq_nolock,FUNC_1
+host,VAR_4
+enable,VAR_5

@@ -1,0 +1,15 @@
+SGTL5000_CHIP_DAC_VOL,VAR_0
+SGTL5000_DAC_VOL_LEFT_MASK,VAR_1
+SGTL5000_DAC_VOL_LEFT_SHIFT,VAR_2
+SGTL5000_DAC_VOL_RIGHT_MASK,VAR_3
+SGTL5000_DAC_VOL_RIGHT_SHIFT,VAR_4
+clamp,FUNC_0
+snd_soc_component_read32,FUNC_1
+snd_soc_kcontrol_component,FUNC_2
+dac_get_volsw,FUNC_3
+kcontrol,VAR_5
+ucontrol,VAR_6
+component,VAR_7
+reg,VAR_8
+l,VAR_9
+r,VAR_10

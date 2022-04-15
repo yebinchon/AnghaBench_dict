@@ -1,0 +1,13 @@
+FMODE_READ,VAR_0
+MON_RING_EMPTY,FUNC_0
+POLLIN,VAR_1
+POLLRDNORM,VAR_2
+poll_wait,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+mon_bin_poll,FUNC_4
+file,VAR_3
+wait,VAR_4
+rp,VAR_5
+mask,VAR_6
+flags,VAR_7

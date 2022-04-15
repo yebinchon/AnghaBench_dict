@@ -1,0 +1,15 @@
+CC_GPIO_LOCK,FUNC_0
+CC_GPIO_UNLOCK,FUNC_1
+CC_GPIO_VALID_PIN,FUNC_2
+EINVAL,VAR_0
+chipc_gpio_commit_update,FUNC_3
+chipc_gpio_pin_update,FUNC_4
+device_get_softc,FUNC_5
+memset,FUNC_6
+chipc_gpio_pin_setflags,FUNC_7
+dev,VAR_1
+pin_num,VAR_2
+flags,VAR_3
+sc,VAR_4
+upd,VAR_5
+error,VAR_6

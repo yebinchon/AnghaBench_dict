@@ -1,0 +1,12 @@
+ISPIF_VFE_m_INTF_CMD_0,FUNC_0
+ISPIF_VFE_m_INTF_CMD_1,FUNC_1
+RDI2,VAR_0
+wmb,FUNC_2
+writel_relaxed,FUNC_3
+ispif_set_intf_cmd,FUNC_4
+ispif,VAR_1
+cmd,VAR_2
+intf,VAR_3
+vfe,VAR_4
+vc,VAR_5
+val,VAR_6

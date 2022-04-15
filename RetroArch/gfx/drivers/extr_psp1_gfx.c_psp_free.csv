@@ -1,0 +1,12 @@
+GU_FALSE,VAR_0
+PSP_VBLANK_INT,VAR_1
+TO_CACHED_PTR,FUNC_0
+free,FUNC_1
+sceDisplayWaitVblankStart,FUNC_2
+sceGuDisplay,FUNC_3
+sceGuTerm,FUNC_4
+sceKernelDisableSubIntr,FUNC_5
+sceKernelReleaseSubIntrHandler,FUNC_6
+psp_free,FUNC_7
+data,VAR_2
+psp,VAR_3

@@ -1,0 +1,8 @@
+DA9052_WLEDS_OFF,VAR_0
+bl_get_data,FUNC_0
+da9052_adjust_wled_brightness,FUNC_1
+platform_get_drvdata,FUNC_2
+da9052_backlight_remove,FUNC_3
+pdev,VAR_1
+bl,VAR_2
+wleds,VAR_3

@@ -1,0 +1,15 @@
+BT_DBG,FUNC_0
+EINVAL,VAR_0
+ENOENT,VAR_1
+__bnep_get_session,FUNC_1
+atomic_inc,FUNC_2
+bnep_session_sem,VAR_2
+down_read,FUNC_3
+sk_sleep,FUNC_4
+up_read,FUNC_5
+wake_up_interruptible,FUNC_6
+bnep_del_connection,FUNC_7
+req,VAR_3
+valid_flags,VAR_4
+s,VAR_5
+err,VAR_6

@@ -1,0 +1,16 @@
+CVMX_BOOTMEM_FLAG_NO_LOCKING,VAR_0
+cvmx_bootmem_desc,VAR_1
+cvmx_bootmem_lock,FUNC_0
+cvmx_bootmem_phy_get_next,FUNC_1
+cvmx_bootmem_phy_get_size,FUNC_2
+cvmx_bootmem_phy_set_next,FUNC_3
+cvmx_bootmem_phy_set_size,FUNC_4
+cvmx_bootmem_unlock,FUNC_5
+cvmx_dprintf,FUNC_6
+__cvmx_bootmem_phy_free,FUNC_7
+phy_addr,VAR_2
+size,VAR_3
+flags,VAR_4
+cur_addr,VAR_5
+prev_addr,VAR_6
+retval,VAR_7

@@ -1,0 +1,16 @@
+_hx509_collector_get_lock,FUNC_0
+_hx509_pbe_decrypt,FUNC_1
+decode_PKCS8EncryptedPrivateKeyInfo,FUNC_2
+der_free_octet_string,FUNC_3
+free_PKCS8EncryptedPrivateKeyInfo,FUNC_4
+keyBag_parser,FUNC_5
+memset,FUNC_6
+ShroudedKeyBag_parser,FUNC_7
+context,VAR_0
+c,VAR_1
+data,VAR_2
+length,VAR_3
+attrs,VAR_4
+pk,VAR_5
+content,VAR_6
+ret,VAR_7

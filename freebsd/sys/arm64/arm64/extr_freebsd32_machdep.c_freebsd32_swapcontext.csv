@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+GET_MC_CLEAR_RET,VAR_1
+PROC_LOCK,FUNC_0
+PROC_UNLOCK,FUNC_1
+SIG_SETMASK,VAR_2
+UC32_COPY_SIZE,VAR_3
+bzero,FUNC_2
+copyin,FUNC_3
+copyout,FUNC_4
+get_mcontext32,FUNC_5
+kern_sigprocmask,FUNC_6
+set_mcontext32,FUNC_7
+freebsd32_swapcontext,FUNC_8
+td,VAR_4
+uap,VAR_5
+uc,VAR_6
+ret,VAR_7

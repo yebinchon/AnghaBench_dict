@@ -1,0 +1,13 @@
+DatumGetCString,FUNC_0
+DirectFunctionCall1,FUNC_1
+ERROR,VAR_0
+PointerGetDatum,FUNC_2
+appendBinaryStringInfo,FUNC_3
+appendStringInfoString,FUNC_4
+elog,FUNC_5
+escape_json,FUNC_6
+numeric_out,VAR_1
+pnstrdup,FUNC_7
+jsonb_put_escaped_value,FUNC_8
+out,VAR_2
+scalarVal,VAR_3

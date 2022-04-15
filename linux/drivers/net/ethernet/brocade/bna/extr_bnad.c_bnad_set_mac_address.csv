@@ -1,0 +1,12 @@
+bnad_mac_addr_set_locked,FUNC_0
+ether_addr_copy,FUNC_1
+netdev_priv,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+bnad_set_mac_address,FUNC_5
+netdev,VAR_0
+addr,VAR_1
+err,VAR_2
+bnad,VAR_3
+sa,VAR_4
+flags,VAR_5

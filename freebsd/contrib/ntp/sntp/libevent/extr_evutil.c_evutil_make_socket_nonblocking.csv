@@ -1,0 +1,12 @@
+FIONBIO,VAR_0
+F_GETFL,VAR_1
+F_SETFL,VAR_2
+O_NONBLOCK,VAR_3
+SOCKET_ERROR,VAR_4
+event_sock_warn,FUNC_0
+event_warn,FUNC_1
+fcntl,FUNC_2
+ioctlsocket,FUNC_3
+evutil_make_socket_nonblocking,FUNC_4
+fd,VAR_5
+flags,VAR_6

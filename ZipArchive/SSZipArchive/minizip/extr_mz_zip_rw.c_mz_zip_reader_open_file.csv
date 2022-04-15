@@ -1,0 +1,14 @@
+MZ_OK,VAR_0
+MZ_OPEN_MODE_READ,VAR_1
+mz_stream_buffered_create,FUNC_0
+mz_stream_open,FUNC_1
+mz_stream_os_create,FUNC_2
+mz_stream_set_base,FUNC_3
+mz_stream_split_create,FUNC_4
+mz_zip_reader_close,FUNC_5
+mz_zip_reader_open,FUNC_6
+mz_zip_reader_open_file,FUNC_7
+handle,VAR_2
+path,VAR_3
+reader,VAR_4
+err,VAR_5

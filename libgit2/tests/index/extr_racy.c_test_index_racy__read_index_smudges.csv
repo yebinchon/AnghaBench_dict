@@ -1,0 +1,14 @@
+cl_assert,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+g_repo,VAR_0
+git_index_free,FUNC_3
+git_index_get_bypath,FUNC_4
+git_index_new,FUNC_5
+git_index_read_index,FUNC_6
+git_repository_index,FUNC_7
+setup_race,FUNC_8
+test_index_racy__read_index_smudges,FUNC_9
+index,VAR_1
+newindex,VAR_2
+entry,VAR_3

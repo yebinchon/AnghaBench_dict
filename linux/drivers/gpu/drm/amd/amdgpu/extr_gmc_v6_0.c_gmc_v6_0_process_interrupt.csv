@@ -1,0 +1,17 @@
+AMDGPU_VM_FAULT_STOP_FIRST,VAR_0
+RREG32,FUNC_0
+WREG32_P,FUNC_1
+amdgpu_vm_fault_stop,VAR_1
+dev_err,FUNC_2
+gmc_v6_0_set_fault_enable_default,FUNC_3
+gmc_v6_0_vm_decode_fault,FUNC_4
+mmVM_CONTEXT1_CNTL2,VAR_2
+mmVM_CONTEXT1_PROTECTION_FAULT_ADDR,VAR_3
+mmVM_CONTEXT1_PROTECTION_FAULT_STATUS,VAR_4
+printk_ratelimit,FUNC_5
+gmc_v6_0_process_interrupt,FUNC_6
+adev,VAR_5
+source,VAR_6
+entry,VAR_7
+addr,VAR_8
+status,VAR_9

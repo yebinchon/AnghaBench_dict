@@ -1,0 +1,14 @@
+DRM_ERROR,FUNC_0
+WRITE_ONCE,FUNC_1
+atomic_inc,FUNC_2
+current,VAR_0
+drm_sched_rq_add_entity,FUNC_3
+drm_sched_wakeup,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+spsc_queue_push,FUNC_7
+trace_drm_sched_job,FUNC_8
+drm_sched_entity_push_job,FUNC_9
+sched_job,VAR_1
+entity,VAR_2
+first,VAR_3

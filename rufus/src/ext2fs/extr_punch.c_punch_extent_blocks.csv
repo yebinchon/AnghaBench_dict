@@ -1,0 +1,16 @@
+EXT2FS_CLUSTER_MASK,FUNC_0
+EXT2FS_CLUSTER_RATIO,FUNC_1
+ext2fs_block_alloc_stats2,FUNC_2
+ext2fs_map_cluster_block,FUNC_3
+punch_extent_blocks,FUNC_4
+fs,VAR_0
+ino,VAR_1
+inode,VAR_2
+lfree_start,VAR_3
+free_start,VAR_4
+free_count,VAR_5
+freed,VAR_6
+pblk,VAR_7
+freed_now,VAR_8
+cluster_freed,VAR_9
+retval,VAR_10

@@ -1,0 +1,17 @@
+DEFAULT_MAX_PADS,VAR_0
+PAD_Init,FUNC_0
+SYS_SetPowerCallback,FUNC_1
+SYS_SetResetCallback,FUNC_2
+WPADInit,FUNC_3
+WPAD_CHAN_ALL,VAR_1
+WPAD_EXP_NOCONTROLLER,VAR_2
+WPAD_FMT_BTNS_ACC_IR,VAR_3
+WPAD_SetDataFormat,FUNC_4
+WPAD_SetVRes,FUNC_5
+gx_joypad_poll,FUNC_6
+pad_type,VAR_4
+power_callback,VAR_5
+reset_cb,VAR_6
+gx_joypad_init,FUNC_7
+data,VAR_7
+i,VAR_8

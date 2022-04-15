@@ -1,0 +1,13 @@
+CS_PLAYERS,VAR_0
+Info_ValueForKey,FUNC_0
+MAX_CLIENTS,VAR_1
+MAX_INFO_STRING,VAR_2
+Q_CleanStr,FUNC_1
+Q_stricmp,FUNC_2
+trap_Cvar_VariableIntegerValue,FUNC_3
+trap_GetConfigstring,FUNC_4
+ClientFromName,FUNC_5
+name,VAR_3
+i,VAR_4
+buf,VAR_5
+maxclients,VAR_6

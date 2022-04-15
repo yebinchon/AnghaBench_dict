@@ -1,0 +1,16 @@
+Assert,FUNC_0
+FirstPredXact,FUNC_1
+InvalidTransactionId,VAR_0
+LWLockHeldByMe,FUNC_2
+NextPredXact,FUNC_3
+OldCommittedSxact,VAR_1
+OldSerXidSetActiveSerXmin,FUNC_4
+PredXact,VAR_2
+SerializableXactHashLock,VAR_3
+SxactIsCommitted,FUNC_5
+SxactIsRolledBack,FUNC_6
+TransactionIdEquals,FUNC_7
+TransactionIdIsValid,FUNC_8
+TransactionIdPrecedes,FUNC_9
+SetNewSxactGlobalXmin,FUNC_10
+sxact,VAR_4

@@ -1,0 +1,16 @@
+DRIVER_MODESET,VAR_0
+ENODEV,VAR_1
+EOPNOTSUPP,VAR_2
+drm_client_modeset_create,FUNC_0
+drm_client_modeset_free,FUNC_1
+drm_client_open,FUNC_2
+drm_core_check_feature,FUNC_3
+drm_dev_get,FUNC_4
+module_put,FUNC_5
+try_module_get,FUNC_6
+drm_client_init,FUNC_7
+dev,VAR_3
+client,VAR_4
+name,VAR_5
+funcs,VAR_6
+ret,VAR_7

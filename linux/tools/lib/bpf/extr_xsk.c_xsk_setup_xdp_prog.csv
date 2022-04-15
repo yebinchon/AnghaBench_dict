@@ -1,0 +1,12 @@
+bpf_get_link_xdp_id,FUNC_0
+bpf_prog_get_fd_by_id,FUNC_1
+close,FUNC_2
+xsk_create_bpf_maps,FUNC_3
+xsk_delete_bpf_maps,FUNC_4
+xsk_load_xdp_prog,FUNC_5
+xsk_lookup_bpf_maps,FUNC_6
+xsk_set_bpf_maps,FUNC_7
+xsk_setup_xdp_prog,FUNC_8
+xsk,VAR_0
+prog_id,VAR_1
+err,VAR_2

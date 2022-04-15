@@ -1,0 +1,11 @@
+IPSEC_TAG_SIZE,VAR_0
+KERNEL_MODULE_TAG_ID,VAR_1
+KERNEL_TAG_TYPE_IPSEC,VAR_2
+M_DONTWAIT,VAR_3
+m_tag_create,FUNC_0
+m_tag_locate,FUNC_1
+m_tag_prepend,FUNC_2
+ipsec_addaux,FUNC_3
+m,VAR_4
+tag,VAR_5
+itag,VAR_6

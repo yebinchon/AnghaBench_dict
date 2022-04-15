@@ -1,0 +1,15 @@
+DMA_TO_DEVICE,VAR_0
+STS_CTRL_APP0_CMPLT,VAR_1
+TX_BD_NUM,VAR_2
+be32_to_cpu,FUNC_0
+dev_consume_skb_irq,FUNC_1
+dma_unmap_single,FUNC_2
+netdev_priv,FUNC_3
+netif_wake_queue,FUNC_4
+ptr_from_txbd,FUNC_5
+temac_start_xmit_done,FUNC_6
+ndev,VAR_3
+lp,VAR_4
+cur_p,VAR_5
+stat,VAR_6
+skb,VAR_7

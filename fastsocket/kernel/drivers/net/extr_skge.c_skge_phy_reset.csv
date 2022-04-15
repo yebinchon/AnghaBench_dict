@@ -1,0 +1,15 @@
+CHIP_ID_GENESIS,VAR_0
+genesis_mac_init,FUNC_0
+genesis_reset,FUNC_1
+netif_carrier_off,FUNC_2
+netif_stop_queue,FUNC_3
+skge_set_multicast,FUNC_4
+spin_lock_bh,FUNC_5
+spin_unlock_bh,FUNC_6
+yukon_init,FUNC_7
+yukon_reset,FUNC_8
+skge_phy_reset,FUNC_9
+skge,VAR_1
+hw,VAR_2
+port,VAR_3
+dev,VAR_4

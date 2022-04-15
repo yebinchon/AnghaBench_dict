@@ -1,0 +1,15 @@
+ARM_SMCCC_VERSION_1_1,VAR_0
+SMCCC_RET_NOT_REQUIRED,VAR_1
+SMCCC_RET_NOT_SUPPORTED,VAR_2
+SMCCC_RET_SUCCESS,VAR_3
+kvm_arm_harden_branch_predictor,FUNC_0
+kvm_arm_have_ssbd,FUNC_1
+kvm_psci_call,FUNC_2
+smccc_get_arg1,FUNC_3
+smccc_get_function,FUNC_4
+smccc_set_retval,FUNC_5
+kvm_hvc_call_handler,FUNC_6
+vcpu,VAR_4
+func_id,VAR_5
+val,VAR_6
+feature,VAR_7

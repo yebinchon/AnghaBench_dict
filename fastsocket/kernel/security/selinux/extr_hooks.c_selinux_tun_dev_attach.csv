@@ -1,0 +1,10 @@
+SECCLASS_TUN_SOCKET,VAR_0
+TUN_SOCKET__RELABELFROM,VAR_1
+TUN_SOCKET__RELABELTO,VAR_2
+avc_has_perm,FUNC_0
+current_sid,FUNC_1
+selinux_tun_dev_attach,FUNC_2
+sk,VAR_3
+sksec,VAR_4
+sid,VAR_5
+err,VAR_6

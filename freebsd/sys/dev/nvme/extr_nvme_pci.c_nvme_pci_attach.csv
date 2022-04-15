@@ -1,0 +1,15 @@
+DEVICE2SOFTC,FUNC_0
+SYS_RES_IRQ,VAR_0
+SYS_RES_MEMORY,VAR_1
+bus_release_resource,FUNC_1
+bus_teardown_intr,FUNC_2
+nvme_attach,FUNC_3
+nvme_ctrlr_allocate_bar,FUNC_4
+nvme_ctrlr_setup_interrupts,FUNC_5
+pci_enable_busmaster,FUNC_6
+pci_release_msi,FUNC_7
+rman_get_rid,FUNC_8
+nvme_pci_attach,FUNC_9
+dev,VAR_2
+ctrlr,VAR_3
+status,VAR_4

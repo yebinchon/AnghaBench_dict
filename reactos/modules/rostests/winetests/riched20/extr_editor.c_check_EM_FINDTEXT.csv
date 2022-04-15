@@ -1,0 +1,17 @@
+EM_FINDTEXT,VAR_0
+EM_FINDTEXTW,VAR_1
+GetProcessHeap,FUNC_0
+HeapFree,FUNC_1
+SendMessageA,FUNC_2
+atowstr,FUNC_3
+memset,FUNC_4
+ok,FUNC_5
+check_EM_FINDTEXT,FUNC_6
+hwnd,VAR_2
+name,VAR_3
+f,VAR_4
+id,VAR_5
+unicode,VAR_6
+findloc,VAR_7
+ftw,VAR_8
+fta,VAR_9

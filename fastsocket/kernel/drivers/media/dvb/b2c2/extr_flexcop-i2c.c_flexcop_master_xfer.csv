@@ -1,0 +1,17 @@
+ERESTARTSYS,VAR_0
+FC_READ,VAR_1
+FC_WRITE,VAR_2
+I2C_M_RD,VAR_3
+deb_i2c,FUNC_0
+i2c_get_adapdata,FUNC_1
+mutex_lock_interruptible,FUNC_2
+mutex_unlock,FUNC_3
+stub1,FUNC_4
+stub2,FUNC_5
+flexcop_master_xfer,FUNC_6
+i2c_adap,VAR_4
+msgs,VAR_5
+num,VAR_6
+i2c,VAR_7
+i,VAR_8
+ret,VAR_9

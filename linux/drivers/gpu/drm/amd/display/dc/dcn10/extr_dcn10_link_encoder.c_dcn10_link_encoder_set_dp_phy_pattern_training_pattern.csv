@@ -1,0 +1,10 @@
+DP_DPHY_TRAINING_PATTERN_SEL,VAR_0
+REG_WRITE,FUNC_0
+TO_DCN10_LINK_ENC,FUNC_1
+disable_prbs_mode,FUNC_2
+enable_phy_bypass_mode,FUNC_3
+set_link_training_complete,FUNC_4
+dcn10_link_encoder_set_dp_phy_pattern_training_pattern,FUNC_5
+enc,VAR_1
+index,VAR_2
+enc10,VAR_3

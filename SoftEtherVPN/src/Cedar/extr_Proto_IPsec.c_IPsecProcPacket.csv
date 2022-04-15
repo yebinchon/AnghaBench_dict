@@ -1,0 +1,15 @@
+IKE_UDP_TYPE_ESP,VAR_0
+IKE_UDP_TYPE_ISAKMP,VAR_1
+IsZero,FUNC_0
+ProcIKEPacketRecv,FUNC_1
+ProcL2TPPacketRecv,FUNC_2
+WFP_ESP_PACKET_TAG_1,VAR_2
+WFP_ESP_PACKET_TAG_2,VAR_3
+IPsecProcPacket,FUNC_3
+s,VAR_4
+p,VAR_5
+l2tp,VAR_6
+ike,VAR_7
+old_data_ptr,VAR_8
+old_data_size,VAR_9
+proc_this_packet,VAR_10

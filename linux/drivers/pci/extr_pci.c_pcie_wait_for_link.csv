@@ -1,0 +1,11 @@
+PCI_EXP_LNKSTA,VAR_0
+PCI_EXP_LNKSTA_DLLLA,VAR_1
+msleep,FUNC_0
+pci_info,FUNC_1
+pcie_capability_read_word,FUNC_2
+pcie_wait_for_link,FUNC_3
+pdev,VAR_2
+active,VAR_3
+timeout,VAR_4
+ret,VAR_5
+lnk_status,VAR_6

@@ -1,0 +1,15 @@
+EINVAL,VAR_0
+RTC_HOURS_ALARM,VAR_1
+RTC_MINUTES_ALARM,VAR_2
+bin2bcd,FUNC_0
+dev_get_drvdata,FUNC_1
+ds1286_rtc_write,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+ds1286_set_alarm,FUNC_5
+dev,VAR_3
+alm,VAR_4
+priv,VAR_5
+hrs,VAR_6
+min,VAR_7
+sec,VAR_8

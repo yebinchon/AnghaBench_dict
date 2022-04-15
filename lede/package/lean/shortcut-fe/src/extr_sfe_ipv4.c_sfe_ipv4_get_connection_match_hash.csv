@@ -1,0 +1,13 @@
+SFE_IPV4_CONNECTION_HASH_MASK,VAR_0
+SFE_IPV4_CONNECTION_HASH_SHIFT,VAR_1
+ntohl,FUNC_0
+ntohs,FUNC_1
+sfe_ipv4_get_connection_match_hash,FUNC_2
+dev,VAR_2
+protocol,VAR_3
+src_ip,VAR_4
+src_port,VAR_5
+dest_ip,VAR_6
+dest_port,VAR_7
+dev_addr,VAR_8
+hash,VAR_9

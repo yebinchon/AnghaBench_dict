@@ -1,0 +1,16 @@
+EP0_MAX_PACKET,VAR_0
+EPNAME_SIZE,VAR_1
+INIT_LIST_HEAD,FUNC_0
+XUSB_EP0_CONFIG_OFFSET,VAR_2
+XUSB_MAX_ENDPOINTS,VAR_3
+ep0name,VAR_4
+list_add_tail,FUNC_1
+snprintf,FUNC_2
+usb_ep_set_maxpacket_limit,FUNC_3
+xudc_epconfig,FUNC_4
+xusb_ep0_ops,VAR_5
+xusb_ep_ops,VAR_6
+xudc_eps_init,FUNC_5
+udc,VAR_7
+ep_number,VAR_8
+ep,VAR_9

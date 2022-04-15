@@ -1,0 +1,14 @@
+KS0108_NAME,VAR_0
+PARPORT_DEV_EXCL,VAR_1
+ks0108_inited,VAR_2
+ks0108_pardevice,VAR_3
+ks0108_parport,VAR_4
+ks0108_port,VAR_5
+memset,FUNC_0
+parport_claim,FUNC_1
+parport_register_dev_model,FUNC_2
+parport_unregister_device,FUNC_3
+pr_err,FUNC_4
+ks0108_parport_attach,FUNC_5
+port,VAR_6
+ks0108_cb,VAR_7

@@ -1,0 +1,13 @@
+WARN_ON,FUNC_0
+idr_remove,FUNC_1
+kfree,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+refcount_dec_and_test,FUNC_5
+tmc_free_etr_buf,FUNC_6
+tmc_free_etr_buffer,FUNC_7
+config,VAR_0
+etr_perf,VAR_1
+drvdata,VAR_2
+buf,VAR_3
+etr_buf,VAR_4

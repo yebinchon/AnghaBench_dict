@@ -1,0 +1,15 @@
+kvm_async_pf_task_wait,FUNC_0
+kvm_async_pf_task_wake,FUNC_1
+kvm_event_needs_reinjection,FUNC_2
+kvm_mmu_page_fault,FUNC_3
+kvm_mmu_unprotect_page_virt,FUNC_4
+local_irq_disable,FUNC_5
+local_irq_enable,FUNC_6
+trace_kvm_page_fault,FUNC_7
+kvm_handle_page_fault,FUNC_8
+vcpu,VAR_0
+error_code,VAR_1
+fault_address,VAR_2
+insn,VAR_3
+insn_len,VAR_4
+r,VAR_5

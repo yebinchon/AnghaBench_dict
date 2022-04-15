@@ -1,0 +1,13 @@
+MAX_NR_HVC_CONSOLES,VAR_0
+destroy_hvc_struct,VAR_1
+kref_put,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+tty_kref_get,FUNC_3
+tty_kref_put,FUNC_4
+tty_vhangup,FUNC_5
+vtermnos,VAR_2
+hvc_remove,FUNC_6
+hp,VAR_3
+flags,VAR_4
+tty,VAR_5

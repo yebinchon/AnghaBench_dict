@@ -1,0 +1,11 @@
+ASI_DTLB_DATA_ACCESS_REG,VAR_0
+PSTATE_IE,VAR_1
+TLB_DAR_SLOT,FUNC_0
+ldxa,FUNC_1
+rdpr,FUNC_2
+wrpr,FUNC_3
+dtlb_get_data_sun4u,FUNC_4
+tlb,VAR_2
+slot,VAR_3
+data,VAR_4
+pstate,VAR_5

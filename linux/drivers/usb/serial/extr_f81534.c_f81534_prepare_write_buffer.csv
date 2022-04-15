@@ -1,0 +1,13 @@
+F81534_MAX_TX_SIZE,VAR_0
+F81534_NUM_PORT,VAR_1
+F81534_RECEIVE_BLOCK_SIZE,VAR_2
+F81534_TOKEN_WRITE,VAR_3
+kfifo_out_locked,FUNC_0
+usb_get_serial_port_data,FUNC_1
+f81534_prepare_write_buffer,FUNC_2
+port,VAR_4
+buf,VAR_5
+port_priv,VAR_6
+phy_num,VAR_7
+tx_len,VAR_8
+i,VAR_9

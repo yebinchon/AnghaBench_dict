@@ -1,0 +1,12 @@
+ASSERT_RTNL,FUNC_0
+EBUSY,VAR_0
+IFF_SLAVE,VAR_1
+RTM_NEWLINK,VAR_2
+dev_hold,FUNC_1
+dev_put,FUNC_2
+rtmsg_ifinfo,FUNC_3
+synchronize_net,FUNC_4
+netdev_set_master,FUNC_5
+slave,VAR_3
+master,VAR_4
+old,VAR_5

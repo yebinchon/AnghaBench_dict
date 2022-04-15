@@ -1,0 +1,15 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+TAILQ_INIT,FUNC_1
+dtrace_probe,VAR_1
+kld_load,VAR_2
+kld_unload_try,VAR_3
+linker_file_foreach,FUNC_2
+sdt_kld_load,VAR_4
+sdt_kld_load_tag,VAR_5
+sdt_kld_unload_try,VAR_6
+sdt_kld_unload_try_tag,VAR_7
+sdt_linker_file_cb,VAR_8
+sdt_probe_func,VAR_9
+sdt_prov_list,VAR_10
+sdt_load,FUNC_3

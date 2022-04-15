@@ -1,0 +1,16 @@
+AV_CH_LAYOUT_NATIVE,VAR_0
+FRAME_SAMPLES,VAR_1
+apply_gain,FUNC_0
+ch_reorder_4,VAR_2
+ch_reorder_6,VAR_3
+ch_reorder_8,VAR_4
+ch_reorder_n,VAR_5
+ff_get_buffer,FUNC_1
+transform,FUNC_2
+filter_frame,FUNC_3
+s,VAR_6
+frame,VAR_7
+reorder,VAR_8
+ch,VAR_9
+ret,VAR_10
+output,VAR_11

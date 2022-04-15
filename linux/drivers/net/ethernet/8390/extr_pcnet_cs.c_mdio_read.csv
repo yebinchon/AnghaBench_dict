@@ -1,0 +1,17 @@
+MDIO_DATA_READ,VAR_0
+MDIO_DATA_WRITE0,VAR_1
+MDIO_DATA_WRITE1,VAR_2
+MDIO_MASK,VAR_3
+MDIO_SHIFT_CLK,VAR_4
+inb,FUNC_0
+mdio_sync,FUNC_1
+outb,FUNC_2
+mdio_read,FUNC_3
+addr,VAR_5
+phy_id,VAR_6
+loc,VAR_7
+cmd,VAR_8
+i,VAR_9
+retval,VAR_10
+mask,VAR_11
+dat,VAR_12

@@ -1,0 +1,17 @@
+BUS_DMA_NOWAIT,VAR_0
+BUS_DMA_ZERO,VAR_1
+BUS_SPACE_MAXADDR,VAR_2
+BUS_SPACE_MAXADDR_32BIT,VAR_3
+IWI_CMD_DESC_SIZE,VAR_4
+bus_dma_tag_create,FUNC_0
+bus_dmamap_load,FUNC_1
+bus_dmamem_alloc,FUNC_2
+bus_get_dma_tag,FUNC_3
+device_printf,FUNC_4
+iwi_dma_map_addr,VAR_5
+iwi_free_cmd_ring,FUNC_5
+iwi_alloc_cmd_ring,FUNC_6
+sc,VAR_6
+ring,VAR_7
+count,VAR_8
+error,VAR_9

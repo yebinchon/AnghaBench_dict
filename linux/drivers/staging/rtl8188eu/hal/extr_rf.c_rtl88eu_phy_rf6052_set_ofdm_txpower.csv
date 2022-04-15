@@ -1,0 +1,16 @@
+get_rx_power_val_by_reg,FUNC_0
+getpowerbase88e,FUNC_1
+rtl88eu_dm_txpower_track_adjust,FUNC_2
+write_ofdm_pwr_reg,FUNC_3
+rtl88eu_phy_rf6052_set_ofdm_txpower,FUNC_4
+adapt,VAR_0
+pwr_level_ofdm,VAR_1
+pwr_level_bw20,VAR_2
+pwr_level_bw40,VAR_3
+channel,VAR_4
+write_val,VAR_5
+powerbase0,VAR_6
+powerbase1,VAR_7
+pwrtrac_value,VAR_8
+direction,VAR_9
+index,VAR_10

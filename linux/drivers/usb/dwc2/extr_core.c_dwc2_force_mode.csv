@@ -1,0 +1,17 @@
+GUSBCFG,VAR_0
+GUSBCFG_FORCEDEVMODE,VAR_1
+GUSBCFG_FORCEHOSTMODE,VAR_2
+USB_DR_MODE_HOST,VAR_3
+USB_DR_MODE_PERIPHERAL,VAR_4
+WARN_ON,FUNC_0
+dev_dbg,FUNC_1
+dwc2_hw_is_otg,FUNC_2
+dwc2_readl,FUNC_3
+dwc2_wait_for_mode,FUNC_4
+dwc2_writel,FUNC_5
+dwc2_force_mode,FUNC_6
+hsotg,VAR_5
+host,VAR_6
+gusbcfg,VAR_7
+set,VAR_8
+clear,VAR_9

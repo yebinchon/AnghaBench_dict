@@ -1,0 +1,13 @@
+SSH_ERR_INVALID_ARGUMENT,VAR_0
+SSH_ERR_SIGN_ALG_UNSUPPORTED,VAR_1
+free,FUNC_0
+get_sigtype,FUNC_1
+sshkey_sigalg_by_name,FUNC_2
+strcmp,FUNC_3
+sshkey_check_sigtype,FUNC_4
+sig,VAR_2
+siglen,VAR_3
+requested_alg,VAR_4
+expected_alg,VAR_5
+sigtype,VAR_6
+r,VAR_7

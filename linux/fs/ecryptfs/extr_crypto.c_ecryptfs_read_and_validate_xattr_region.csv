@@ -1,0 +1,15 @@
+ECRYPTFS_FILE_SIZE_BYTES,VAR_0
+ECRYPTFS_SIZE_AND_MARKER_BYTES,VAR_1
+ECRYPTFS_XATTR_NAME,VAR_2
+EINVAL,VAR_3
+ecryptfs_dentry_to_lower,FUNC_0
+ecryptfs_getxattr_lower,FUNC_1
+ecryptfs_i_size_init,FUNC_2
+ecryptfs_inode_to_lower,FUNC_3
+ecryptfs_validate_marker,FUNC_4
+ecryptfs_read_and_validate_xattr_region,FUNC_5
+dentry,VAR_4
+inode,VAR_5
+file_size,VAR_6
+marker,VAR_7
+rc,VAR_8

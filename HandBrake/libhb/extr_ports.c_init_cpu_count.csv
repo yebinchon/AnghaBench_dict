@@ -1,0 +1,16 @@
+CTL_HW,VAR_0
+GetSystemInfo,FUNC_0
+HW_NCPU,VAR_1
+MAX,FUNC_1
+MIN,FUNC_2
+P_STATUS,VAR_2
+_SC_CPUID_MAX,VAR_3
+get_system_info,FUNC_3
+memset,FUNC_4
+p_online,FUNC_5
+sched_getaffinity,FUNC_6
+sysconf,FUNC_7
+sysctl,FUNC_8
+sysctlbyname,FUNC_9
+init_cpu_count,FUNC_10
+cpu_count,VAR_4

@@ -1,0 +1,11 @@
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+file_cb,VAR_0
+git_diff_foreach,FUNC_2
+git_diff_free,FUNC_3
+git_diff_from_buffer,FUNC_4
+strlen,FUNC_5
+test_diff_parse__foreach_works_with_parsed_patch,FUNC_6
+patch,VAR_1
+called,VAR_2
+diff,VAR_3

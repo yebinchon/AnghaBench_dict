@@ -1,0 +1,17 @@
+IORESOURCE_MEM,VAR_0
+clk_disable_unprepare,FUNC_0
+clk_put,FUNC_1
+hcd_to_imx21,FUNC_2
+iounmap,FUNC_3
+kfree,FUNC_4
+platform_get_drvdata,FUNC_5
+platform_get_resource,FUNC_6
+release_mem_region,FUNC_7
+remove_debug_files,FUNC_8
+resource_size,FUNC_9
+usb_remove_hcd,FUNC_10
+imx21_remove,FUNC_11
+pdev,VAR_1
+hcd,VAR_2
+imx21,VAR_3
+res,VAR_4

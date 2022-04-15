@@ -1,0 +1,14 @@
+PATCH_CRLF,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_pass,FUNC_1
+git_diff_free,FUNC_2
+git_diff_from_buffer,FUNC_3
+git_patch_free,FUNC_4
+git_patch_from_diff,FUNC_5
+git_patch_get_delta,FUNC_6
+strlen,FUNC_7
+test_diff_parse__crlf,FUNC_8
+text,VAR_1
+diff,VAR_2
+patch,VAR_3
+delta,VAR_4

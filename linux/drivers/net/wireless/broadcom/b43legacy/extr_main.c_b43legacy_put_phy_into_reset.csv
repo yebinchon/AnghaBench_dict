@@ -1,0 +1,11 @@
+B43legacy_TMSLOW_GMODE,VAR_0
+B43legacy_TMSLOW_PHYRESET,VAR_1
+SSB_TMSLOW,VAR_2
+SSB_TMSLOW_FGC,VAR_3
+msleep,FUNC_0
+ssb_read32,FUNC_1
+ssb_write32,FUNC_2
+b43legacy_put_phy_into_reset,FUNC_3
+dev,VAR_4
+sdev,VAR_5
+tmslow,VAR_6

@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+EIO,VAR_2
+ENODEV,VAR_3
+SCSW_ACTL_CLEAR_PEND,VAR_4
+SCSW_ACTL_HALT_PEND,VAR_5
+cio_cancel,FUNC_0
+cio_clear,FUNC_1
+cio_halt,FUNC_2
+cio_update_schib,FUNC_3
+scsw_actl,FUNC_4
+scsw_is_tm,FUNC_5
+cio_cancel_halt_clear,FUNC_6
+sch,VAR_6
+iretry,VAR_7
+ret,VAR_8

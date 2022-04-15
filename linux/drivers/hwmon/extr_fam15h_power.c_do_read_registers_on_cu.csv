@@ -1,0 +1,10 @@
+MSR_F15H_CU_PWR_ACCUMULATOR,VAR_0
+MSR_F15H_PTSC,VAR_1
+cpu_data,FUNC_0
+rdmsrl_safe,FUNC_1
+smp_processor_id,FUNC_2
+do_read_registers_on_cu,FUNC_3
+_data,VAR_2
+data,VAR_3
+cpu,VAR_4
+cu,VAR_5

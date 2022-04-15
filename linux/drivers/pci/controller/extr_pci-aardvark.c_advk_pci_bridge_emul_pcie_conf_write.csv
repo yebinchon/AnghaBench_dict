@@ -1,0 +1,13 @@
+PCIE_CORE_PCIEXP_CAP,VAR_0
+PCIE_ISR0_MASK_REG,VAR_1
+PCIE_ISR0_REG,VAR_2
+PCI_EXP_RTCTL_PMEIE,VAR_3
+PCI_EXP_RTSTA_PME,VAR_4
+advk_writel,FUNC_0
+advk_pci_bridge_emul_pcie_conf_write,FUNC_1
+bridge,VAR_5
+reg,VAR_6
+old,VAR_7
+new,VAR_8
+mask,VAR_9
+pcie,VAR_10

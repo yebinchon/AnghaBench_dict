@@ -1,0 +1,12 @@
+VMCB_INTERCEPTS,VAR_0
+is_nested,FUNC_0
+mark_dirty,FUNC_1
+svm_scale_tsc,FUNC_2
+to_svm,FUNC_3
+trace_kvm_write_tsc_offset,FUNC_4
+svm_adjust_tsc_offset,FUNC_5
+vcpu,VAR_1
+adjustment,VAR_2
+host,VAR_3
+svm,VAR_4
+negative,VAR_5

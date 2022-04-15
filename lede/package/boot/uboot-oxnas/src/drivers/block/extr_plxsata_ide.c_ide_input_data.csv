@@ -1,0 +1,13 @@
+ATA_SECTORWORDS,VAR_0
+device_select,FUNC_0
+disk_present,VAR_1
+dma_start_read,FUNC_1
+printf,FUNC_2
+sata_bug_6320_workaround,FUNC_3
+wait_dma_not_busy,FUNC_4
+wait_no_error,FUNC_5
+wait_not_busy,FUNC_6
+ide_input_data,FUNC_7
+device,VAR_2
+sect_buf,VAR_3
+words,VAR_4

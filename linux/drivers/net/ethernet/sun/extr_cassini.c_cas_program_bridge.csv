@@ -1,0 +1,10 @@
+PCI_CACHE_LINE_SIZE,VAR_0
+PCI_LATENCY_TIMER,VAR_1
+pci_read_config_dword,FUNC_0
+pci_write_config_byte,FUNC_1
+pci_write_config_dword,FUNC_2
+pci_write_config_word,FUNC_3
+cas_program_bridge,FUNC_4
+cas_pdev,VAR_2
+pdev,VAR_3
+val,VAR_4

@@ -1,0 +1,11 @@
+DPU_DEBUG_PLANE,FUNC_0
+DPU_PLANE_QOS_PANIC_CTRL,VAR_0
+_dpu_plane_set_qos_ctrl,FUNC_1
+dpu_hw_sspp_destroy,FUNC_2
+drm_plane_cleanup,FUNC_3
+kfree,FUNC_4
+mutex_destroy,FUNC_5
+to_dpu_plane,FUNC_6
+dpu_plane_destroy,FUNC_7
+plane,VAR_1
+pdpu,VAR_2

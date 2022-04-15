@@ -1,0 +1,16 @@
+PG_FICTITIOUS,VAR_0
+VM_OBJECT_WLOCK,FUNC_0
+VM_OBJECT_WUNLOCK,FUNC_1
+cdev_pager_free_page,FUNC_2
+kmem_arena,VAR_1
+pmap_qremove,FUNC_3
+round_page,FUNC_4
+vm_object_deallocate,FUNC_5
+vm_page_free,FUNC_6
+vm_page_unwire_noq,FUNC_7
+vmem_free,FUNC_8
+tegra_bo_destruct,FUNC_9
+bo,VAR_2
+m,VAR_3
+size,VAR_4
+i,VAR_5

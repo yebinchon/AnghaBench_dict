@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+atomic_dec_and_test,FUNC_1
+atomic_read,FUNC_2
+fsnotify_final_destroy_group,FUNC_3
+fsnotify_put_mark,FUNC_4
+fsnotify_recalc_inode_mask_locked,FUNC_5
+hlist_del_init,FUNC_6
+iput,FUNC_7
+list_del_init,FUNC_8
+spin_lock,FUNC_9
+spin_unlock,FUNC_10
+stub1,FUNC_11
+unlikely,FUNC_12
+fsnotify_destroy_mark_by_entry,FUNC_13
+entry,VAR_0
+group,VAR_1
+inode,VAR_2

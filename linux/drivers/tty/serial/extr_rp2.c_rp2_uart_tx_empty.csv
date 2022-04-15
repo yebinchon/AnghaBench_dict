@@ -1,0 +1,11 @@
+RP2_TX_FIFO_COUNT,VAR_0
+TIOCSER_TEMT,VAR_1
+port_to_up,FUNC_0
+readw,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+rp2_uart_tx_empty,FUNC_4
+port,VAR_2
+up,VAR_3
+tx_fifo_bytes,VAR_4
+flags,VAR_5

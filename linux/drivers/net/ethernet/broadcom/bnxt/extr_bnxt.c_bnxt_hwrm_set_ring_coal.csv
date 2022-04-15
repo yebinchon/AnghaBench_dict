@@ -1,0 +1,15 @@
+ENODEV,VAR_0
+HWRM_CMD_TIMEOUT,VAR_1
+HWRM_RING_CMPL_RING_CFG_AGGINT_PARAMS,VAR_2
+bnxt_cp_ring_for_rx,FUNC_0
+bnxt_hwrm_cmd_hdr_init,FUNC_1
+bnxt_hwrm_set_coal_params,FUNC_2
+cpu_to_le16,FUNC_3
+hwrm_send_message,FUNC_4
+memcpy,FUNC_5
+bnxt_hwrm_set_ring_coal,FUNC_6
+bp,VAR_3
+bnapi,VAR_4
+req_rx,VAR_5
+cpr,VAR_6
+coal,VAR_7

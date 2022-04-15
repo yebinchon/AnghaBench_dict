@@ -1,0 +1,13 @@
+INPH_IA_DEV,FUNC_0
+IPHASE5575_EXT_RESET,VAR_0
+PCIBIOS_SUCCESSFUL,VAR_1
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+udelay,FUNC_3
+writel,FUNC_4
+reset_sar,FUNC_5
+dev,VAR_2
+iadev,VAR_3
+i,VAR_4
+error,VAR_5
+pci,VAR_6

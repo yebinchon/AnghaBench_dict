@@ -1,0 +1,9 @@
+DBUS_WATCH_READABLE,VAR_0
+DBUS_WATCH_WRITABLE,VAR_1
+POLLIN,VAR_2
+POLLOUT,VAR_3
+dbus_watch_get_flags,FUNC_0
+vlc_dbus_watch_get_poll_events,FUNC_1
+p_watch,VAR_4
+i_flags,VAR_5
+i_events,VAR_6

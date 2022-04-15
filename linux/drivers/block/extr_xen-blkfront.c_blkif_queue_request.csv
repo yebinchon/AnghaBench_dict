@@ -1,0 +1,10 @@
+BLKIF_STATE_CONNECTED,VAR_0
+REQ_OP_DISCARD,VAR_1
+REQ_OP_SECURE_ERASE,VAR_2
+blkif_queue_discard_req,FUNC_0
+blkif_queue_rw_req,FUNC_1
+req_op,FUNC_2
+unlikely,FUNC_3
+blkif_queue_request,FUNC_4
+req,VAR_3
+rinfo,VAR_4

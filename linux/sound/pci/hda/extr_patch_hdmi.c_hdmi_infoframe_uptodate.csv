@@ -1,0 +1,12 @@
+AC_DIPXMIT_BEST,VAR_0
+AC_VERB_GET_HDMI_DIP_DATA,VAR_1
+AC_VERB_GET_HDMI_DIP_XMIT,VAR_2
+hdmi_set_dip_index,FUNC_0
+snd_hda_codec_read,FUNC_1
+hdmi_infoframe_uptodate,FUNC_2
+codec,VAR_3
+pin_nid,VAR_4
+dip,VAR_5
+size,VAR_6
+val,VAR_7
+i,VAR_8

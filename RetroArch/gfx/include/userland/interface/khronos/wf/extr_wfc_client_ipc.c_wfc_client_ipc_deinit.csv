@@ -1,0 +1,16 @@
+VCOS_FUNCTION,VAR_0
+VCOS_LOG_CATEGORY,VAR_1
+init_once,VAR_2
+vchiq_remove_service,FUNC_0
+vchiq_shutdown,FUNC_1
+vcos_log_trace,FUNC_2
+vcos_log_unregister,FUNC_3
+vcos_mutex_lock,FUNC_4
+vcos_mutex_unlock,FUNC_5
+vcos_once,FUNC_6
+wfc_client_ipc,VAR_3
+wfc_client_ipc_destroy_waitpool,FUNC_7
+wfc_client_ipc_once,VAR_4
+wfc_client_ipc_vchiq_instance,VAR_5
+wfc_client_ipc_deinit,FUNC_8
+service_destroyed,VAR_6

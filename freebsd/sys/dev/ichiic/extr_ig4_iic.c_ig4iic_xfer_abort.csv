@@ -1,0 +1,9 @@
+IG4_I2C_ABORT,VAR_0
+IG4_I2C_ENABLE,VAR_1
+IG4_INTR_STOP_DET,VAR_2
+IIC_ESTATUS,VAR_3
+set_controller,FUNC_0
+wait_intr,FUNC_1
+ig4iic_xfer_abort,FUNC_2
+sc,VAR_4
+error,VAR_5

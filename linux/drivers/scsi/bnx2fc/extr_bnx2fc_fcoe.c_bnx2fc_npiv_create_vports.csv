@@ -1,0 +1,17 @@
+BNX2FC_HBA_DBG,FUNC_0
+FC_PORTTYPE_NPIV,VAR_0
+FC_PORT_ROLE_FCP_INITIATOR,VAR_1
+MAX_NPIV_ENTRIES,VAR_2
+fc_vport_create,FUNC_1
+fcoe_wwn_to_str,FUNC_2
+scnprintf,FUNC_3
+wwn_to_u64,FUNC_4
+bnx2fc_npiv_create_vports,FUNC_5
+lport,VAR_3
+npiv_tbl,VAR_4
+vpid,VAR_5
+i,VAR_6
+created,VAR_7
+wwnn,VAR_8
+wwpn_str,VAR_9
+wwnn_str,VAR_10

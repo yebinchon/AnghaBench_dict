@@ -1,0 +1,16 @@
+FJES_RX_STOP_REQ_DONE,VAR_0
+clear_bit,FUNC_0
+fjes_hw_get_partner_ep_status,FUNC_1
+queue_work,FUNC_2
+set_bit,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+trace_fjes_stop_req_irq_post,FUNC_6
+trace_fjes_stop_req_irq_pre,FUNC_7
+work_pending,FUNC_8
+fjes_stop_req_irq,FUNC_9
+adapter,VAR_1
+src_epid,VAR_2
+hw,VAR_3
+status,VAR_4
+flags,VAR_5

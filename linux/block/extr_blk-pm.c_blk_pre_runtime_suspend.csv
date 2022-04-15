@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+RPM_ACTIVE,VAR_1
+RPM_SUSPENDING,VAR_2
+WARN_ON_ONCE,FUNC_0
+blk_clear_pm_only,FUNC_1
+blk_freeze_queue_start,FUNC_2
+blk_mq_unfreeze_queue,FUNC_3
+blk_set_pm_only,FUNC_4
+percpu_ref_is_zero,FUNC_5
+percpu_ref_switch_to_atomic_sync,FUNC_6
+pm_runtime_mark_last_busy,FUNC_7
+spin_lock_irq,FUNC_8
+spin_unlock_irq,FUNC_9
+blk_pre_runtime_suspend,FUNC_10
+q,VAR_3
+ret,VAR_4

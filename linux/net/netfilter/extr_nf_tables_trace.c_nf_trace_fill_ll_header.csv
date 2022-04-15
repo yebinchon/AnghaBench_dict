@@ -1,0 +1,14 @@
+BUILD_BUG_ON,FUNC_0
+ETH_HLEN,VAR_0
+NFTA_TRACE_LL_HEADER,VAR_1
+NFT_TRACETYPE_LL_HSIZE,VAR_2
+htons,FUNC_1
+nla_put,FUNC_2
+skb_copy_bits,FUNC_3
+skb_mac_header,FUNC_4
+skb_vlan_tag_get,FUNC_5
+nf_trace_fill_ll_header,FUNC_6
+nlskb,VAR_3
+skb,VAR_4
+veth,VAR_5
+off,VAR_6

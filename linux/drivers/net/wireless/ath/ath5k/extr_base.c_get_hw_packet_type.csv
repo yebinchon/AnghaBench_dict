@@ -1,0 +1,14 @@
+AR5K_PKT_TYPE_ATIM,VAR_0
+AR5K_PKT_TYPE_BEACON,VAR_1
+AR5K_PKT_TYPE_NORMAL,VAR_2
+AR5K_PKT_TYPE_PROBE_RESP,VAR_3
+AR5K_PKT_TYPE_PSPOLL,VAR_4
+ieee80211_is_atim,FUNC_0
+ieee80211_is_beacon,FUNC_1
+ieee80211_is_probe_resp,FUNC_2
+ieee80211_is_pspoll,FUNC_3
+get_hw_packet_type,FUNC_4
+skb,VAR_5
+hdr,VAR_6
+htype,VAR_7
+fc,VAR_8

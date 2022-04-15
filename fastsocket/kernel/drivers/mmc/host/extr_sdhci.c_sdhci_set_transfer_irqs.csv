@@ -1,0 +1,10 @@
+SDHCI_INT_ADMA_ERROR,VAR_0
+SDHCI_INT_DATA_AVAIL,VAR_1
+SDHCI_INT_DMA_END,VAR_2
+SDHCI_INT_SPACE_AVAIL,VAR_3
+SDHCI_REQ_USE_DMA,VAR_4
+sdhci_clear_set_irqs,FUNC_0
+sdhci_set_transfer_irqs,FUNC_1
+host,VAR_5
+pio_irqs,VAR_6
+dma_irqs,VAR_7

@@ -1,0 +1,17 @@
+HTTP_NO_EXEC_USEDB,VAR_0
+HTTP_NO_SQL_INPUT,VAR_1
+HTTP_REQTYPE_SINGLE_SQL,VAR_2
+REST_TIMESTAMP_FMT_LOCAL_STRING,VAR_3
+REST_TIMESTAMP_FMT_TIMESTAMP,VAR_4
+REST_TIMESTAMP_FMT_UTC_STRING,VAR_5
+httpCheckUsedbSql,FUNC_0
+httpSendErrorResp,FUNC_1
+httpTrace,FUNC_2
+restEncodeSqlLocalTimeStringMethod,VAR_6
+restEncodeSqlTimestampMethod,VAR_7
+restEncodeSqlUtcTimeStringMethod,VAR_8
+restProcessSqlRequest,FUNC_3
+pContext,VAR_9
+timestampFmt,VAR_10
+sql,VAR_11
+cmd,VAR_12

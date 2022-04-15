@@ -1,0 +1,14 @@
+brcmnand_set_ecc_enabled,FUNC_0
+brcmnand_write,FUNC_1
+nand_get_controller_data,FUNC_2
+nand_prog_page_begin_op,FUNC_3
+nand_prog_page_end_op,FUNC_4
+nand_to_mtd,FUNC_5
+brcmnand_write_page_raw,FUNC_6
+chip,VAR_0
+buf,VAR_1
+oob_required,VAR_2
+page,VAR_3
+mtd,VAR_4
+host,VAR_5
+oob,VAR_6

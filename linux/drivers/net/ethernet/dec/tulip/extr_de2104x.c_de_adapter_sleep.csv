@@ -1,0 +1,9 @@
+CSR13,VAR_0
+PCIPM,VAR_1
+PM_Sleep,VAR_2
+dw32,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+de_adapter_sleep,FUNC_3
+de,VAR_3
+pmctl,VAR_4

@@ -1,0 +1,15 @@
+GET_TIMEOUT,VAR_0
+HZ,VAR_1
+USB_DIR_IN,VAR_2
+USB_RECIP_INTERFACE,VAR_3
+USB_REQ_GET_REPORT,VAR_4
+USB_TYPE_CLASS,VAR_5
+usb_control_msg,FUNC_0
+usb_rcvctrlpipe,FUNC_1
+usb_get_report,FUNC_2
+dev,VAR_6
+inter,VAR_7
+type,VAR_8
+id,VAR_9
+buf,VAR_10
+size,VAR_11

@@ -1,0 +1,13 @@
+ETIMEDOUT,VAR_0
+IRQ0STATUS_CCDC_LSC_PREF_COMP_IRQ,VAR_1
+ISP_IRQ0STATUS,VAR_2
+OMAP3_ISP_IOMEM_MAIN,VAR_3
+isp_reg_readl,FUNC_0
+isp_reg_writel,FUNC_1
+rmb,FUNC_2
+to_isp_device,FUNC_3
+udelay,FUNC_4
+ccdc_lsc_wait_prefetch,FUNC_5
+ccdc,VAR_4
+isp,VAR_5
+wait,VAR_6

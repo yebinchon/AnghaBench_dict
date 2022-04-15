@@ -1,0 +1,16 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+PTR_ALIGN,FUNC_0
+beiscsi_map_pci_bars,FUNC_1
+beiscsi_unmap_pci_function,FUNC_2
+dma_alloc_coherent,FUNC_3
+memset,FUNC_4
+mutex_init,FUNC_5
+spin_lock_init,FUNC_6
+be_ctrl_init,FUNC_7
+phba,VAR_2
+pdev,VAR_3
+ctrl,VAR_4
+mbox_mem_alloc,VAR_5
+mbox_mem_align,VAR_6
+status,VAR_7

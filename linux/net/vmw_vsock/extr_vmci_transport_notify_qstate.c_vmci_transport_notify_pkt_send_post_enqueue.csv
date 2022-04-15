@@ -1,0 +1,17 @@
+RCV_SHUTDOWN,VAR_0
+VMCI_TRANSPORT_MAX_DGRAM_RESENDS,VAR_1
+pr_err,FUNC_0
+smp_mb,FUNC_1
+vmci_qpair_produce_buf_ready,FUNC_2
+vmci_trans,FUNC_3
+vmci_transport_send_wrote,FUNC_4
+vsock_sk,FUNC_5
+vmci_transport_notify_pkt_send_post_enqueue,FUNC_6
+sk,VAR_2
+written,VAR_3
+data,VAR_4
+err,VAR_5
+vsk,VAR_6
+sent_wrote,VAR_7
+was_empty,VAR_8
+retries,VAR_9

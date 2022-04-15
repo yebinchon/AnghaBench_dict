@@ -1,0 +1,16 @@
+APR_STATUS_IS_ENOENT,FUNC_0
+TRUE,VAR_0
+strncmp,FUNC_1
+svn_error_clear,FUNC_2
+svn_stream_close,FUNC_3
+svn_stream_open_readonly,FUNC_4
+svn_stream_readline,FUNC_5
+svn_stringbuf_create,FUNC_6
+svn_stringbuf_strip_whitespace,FUNC_7
+systemd_release,FUNC_8
+pool,VAR_1
+err,VAR_2
+stream,VAR_3
+line,VAR_4
+eof,VAR_5
+release_name,VAR_6

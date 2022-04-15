@@ -1,0 +1,14 @@
+Clear_GPIO_Bit,FUNC_0
+GPIO_HI_OE,VAR_0
+GPIO_LO_OE,VAR_1
+Set_GPIO_Bit,FUNC_1
+cx_read,FUNC_2
+cx_write,FUNC_3
+cx25821_set_gpiopin_direction,FUNC_4
+dev,VAR_2
+pin_number,VAR_3
+pin_logic_value,VAR_4
+bit,VAR_5
+gpio_oe_reg,VAR_6
+gpio_register,VAR_7
+value,VAR_8

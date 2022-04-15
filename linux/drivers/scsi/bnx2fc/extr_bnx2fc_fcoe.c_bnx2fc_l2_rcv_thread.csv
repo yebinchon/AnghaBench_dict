@@ -1,0 +1,17 @@
+MIN_NICE,VAR_0
+TASK_INTERRUPTIBLE,VAR_1
+TASK_RUNNING,VAR_2
+__set_current_state,FUNC_0
+__skb_dequeue,FUNC_1
+bnx2fc_recv_frame,FUNC_2
+current,VAR_3
+kthread_should_stop,FUNC_3
+schedule,FUNC_4
+set_current_state,FUNC_5
+set_user_nice,FUNC_6
+spin_lock_bh,FUNC_7
+spin_unlock_bh,FUNC_8
+bnx2fc_l2_rcv_thread,FUNC_9
+arg,VAR_4
+bg,VAR_5
+skb,VAR_6

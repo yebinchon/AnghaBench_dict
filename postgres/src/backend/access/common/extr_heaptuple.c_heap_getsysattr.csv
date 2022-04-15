@@ -1,0 +1,16 @@
+Assert,FUNC_0
+CommandIdGetDatum,FUNC_1
+ERROR,VAR_0
+HeapTupleHeaderGetRawCommandId,FUNC_2
+HeapTupleHeaderGetRawXmax,FUNC_3
+HeapTupleHeaderGetRawXmin,FUNC_4
+ObjectIdGetDatum,FUNC_5
+PointerGetDatum,FUNC_6
+TransactionIdGetDatum,FUNC_7
+elog,FUNC_8
+heap_getsysattr,FUNC_9
+tup,VAR_1
+attnum,VAR_2
+tupleDesc,VAR_3
+isnull,VAR_4
+result,VAR_5

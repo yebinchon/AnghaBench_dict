@@ -1,0 +1,15 @@
+DBUS_TYPE_VARIANT,VAR_0
+FALSE,VAR_1
+_wpa_dbus_add_dict_entry_end,FUNC_0
+_wpa_dbus_add_dict_entry_start,FUNC_1
+dbus_message_iter_append_basic,FUNC_2
+dbus_message_iter_open_container,FUNC_3
+wpa_dbus_type_as_string,FUNC_4
+_wpa_dbus_add_dict_entry_basic,FUNC_5
+iter_dict,VAR_2
+key,VAR_3
+value_type,VAR_4
+value,VAR_5
+iter_dict_entry,VAR_6
+iter_dict_val,VAR_7
+type_as_string,VAR_8

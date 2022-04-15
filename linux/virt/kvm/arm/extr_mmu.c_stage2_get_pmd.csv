@@ -1,0 +1,14 @@
+get_page,FUNC_0
+mmu_memory_cache_alloc,FUNC_1
+stage2_get_pud,FUNC_2
+stage2_pmd_offset,FUNC_3
+stage2_pud_huge,FUNC_4
+stage2_pud_none,FUNC_5
+stage2_pud_populate,FUNC_6
+virt_to_page,FUNC_7
+stage2_get_pmd,FUNC_8
+kvm,VAR_0
+cache,VAR_1
+addr,VAR_2
+pud,VAR_3
+pmd,VAR_4

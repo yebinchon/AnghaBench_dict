@@ -1,0 +1,10 @@
+GIT_MKDIR_EXCL,VAR_0
+GIT_MKDIR_PATH,VAR_1
+cl_assert,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+cl_set_cleanup,FUNC_3
+cleanup_basic_dirs,VAR_2
+git_futils_mkdir,FUNC_4
+git_path_isdir,FUNC_5
+test_core_mkdir__basic,FUNC_6

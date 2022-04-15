@@ -1,0 +1,12 @@
+cb_status__normal,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+cl_git_sandbox_init,FUNC_2
+entry_count0,VAR_1
+entry_paths0,VAR_2
+entry_statuses0,VAR_3
+git_status_foreach,FUNC_3
+memset,FUNC_4
+test_status_worktree__whole_repository,FUNC_5
+counts,VAR_4
+repo,VAR_5

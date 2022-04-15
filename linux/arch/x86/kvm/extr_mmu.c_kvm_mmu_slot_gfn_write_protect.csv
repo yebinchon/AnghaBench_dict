@@ -1,0 +1,11 @@
+PT_MAX_HUGEPAGE_LEVEL,VAR_0
+PT_PAGE_TABLE_LEVEL,VAR_1
+__gfn_to_rmap,FUNC_0
+__rmap_write_protect,FUNC_1
+kvm_mmu_slot_gfn_write_protect,FUNC_2
+kvm,VAR_2
+slot,VAR_3
+gfn,VAR_4
+rmap_head,VAR_5
+i,VAR_6
+write_protected,VAR_7

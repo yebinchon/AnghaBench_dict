@@ -1,0 +1,14 @@
+ATXP1_GPIO2,VAR_0
+atxp1_update_device,FUNC_0
+dev_info,FUNC_1
+i2c_smbus_write_byte_data,FUNC_2
+simple_strtoul,FUNC_3
+to_i2c_client,FUNC_4
+atxp1_storegpio2,FUNC_5
+dev,VAR_1
+attr,VAR_2
+buf,VAR_3
+count,VAR_4
+data,VAR_5
+client,VAR_6
+value,VAR_7

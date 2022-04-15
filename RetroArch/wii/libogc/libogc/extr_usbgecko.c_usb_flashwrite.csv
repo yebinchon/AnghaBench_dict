@@ -1,0 +1,13 @@
+EXI_Unlock,FUNC_0
+__flashreadcommand,FUNC_1
+__flashwritecommand,FUNC_2
+__usbgecko_exi_wait,FUNC_3
+usleep,FUNC_4
+usb_flashwrite,FUNC_5
+chn,VAR_0
+offset,VAR_1
+buffer,VAR_2
+length,VAR_3
+ret,VAR_4
+data,VAR_5
+verify,VAR_6

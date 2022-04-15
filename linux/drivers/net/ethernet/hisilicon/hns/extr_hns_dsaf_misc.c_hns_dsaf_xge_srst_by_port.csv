@@ -1,0 +1,11 @@
+DSAF_SUB_SC_XGE_RESET_DREQ_REG,VAR_0
+DSAF_SUB_SC_XGE_RESET_REQ_REG,VAR_1
+DSAF_XGE_NUM,VAR_2
+RESET_REQ_OR_DREQ,VAR_3
+dsaf_write_sub,FUNC_0
+hns_dsaf_xge_srst_by_port,FUNC_1
+dsaf_dev,VAR_4
+port,VAR_5
+dereset,VAR_6
+reg_val,VAR_7
+reg_addr,VAR_8

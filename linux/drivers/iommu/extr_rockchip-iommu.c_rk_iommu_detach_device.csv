@@ -1,0 +1,17 @@
+WARN_ON_ONCE,FUNC_0
+dev_dbg,FUNC_1
+list_del_init,FUNC_2
+pm_runtime_get_if_in_use,FUNC_3
+pm_runtime_put,FUNC_4
+rk_iommu_disable,FUNC_5
+rk_iommu_from_dev,FUNC_6
+spin_lock_irqsave,FUNC_7
+spin_unlock_irqrestore,FUNC_8
+to_rk_domain,FUNC_9
+rk_iommu_detach_device,FUNC_10
+domain,VAR_0
+dev,VAR_1
+iommu,VAR_2
+rk_domain,VAR_3
+flags,VAR_4
+ret,VAR_5

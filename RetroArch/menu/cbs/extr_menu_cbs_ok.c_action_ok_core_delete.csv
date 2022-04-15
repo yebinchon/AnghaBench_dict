@@ -1,0 +1,17 @@
+CMD_EVENT_UNLOAD_CORE,VAR_0
+RARCH_PATH_CORE,VAR_1
+filestream_delete,FUNC_0
+free,FUNC_1
+generic_action_ok_command,FUNC_2
+menu_entries_flush_stack,FUNC_3
+path_get,FUNC_4
+strdup,FUNC_5
+string_is_empty,FUNC_6
+action_ok_core_delete,FUNC_7
+path,VAR_2
+label,VAR_3
+type,VAR_4
+idx,VAR_5
+entry_idx,VAR_6
+path_core,VAR_7
+core_path,VAR_8

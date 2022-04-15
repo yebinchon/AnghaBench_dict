@@ -1,0 +1,13 @@
+VM_HUGETLB,VAR_0
+__ptep_set_access_flags,FUNC_0
+assert_pte_locked,FUNC_1
+flush_tlb_page_nohash,FUNC_2
+pte_same,FUNC_3
+set_access_flags_filter,FUNC_4
+ptep_set_access_flags,FUNC_5
+vma,VAR_1
+address,VAR_2
+ptep,VAR_3
+entry,VAR_4
+dirty,VAR_5
+changed,VAR_6

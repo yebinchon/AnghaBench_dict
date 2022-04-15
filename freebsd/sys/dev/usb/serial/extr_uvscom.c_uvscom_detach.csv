@@ -1,0 +1,12 @@
+DPRINTF,FUNC_0
+UVSCOM_INTR_DT_RD,VAR_0
+UVSCOM_N_TRANSFER,VAR_1
+device_claim_softc,FUNC_1
+device_get_softc,FUNC_2
+ucom_detach,FUNC_3
+usbd_transfer_stop,FUNC_4
+usbd_transfer_unsetup,FUNC_5
+uvscom_free_softc,FUNC_6
+uvscom_detach,FUNC_7
+dev,VAR_2
+sc,VAR_3

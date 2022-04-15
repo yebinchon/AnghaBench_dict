@@ -1,0 +1,12 @@
+PCI_CFG_SPACE_EXP_SIZE,VAR_0
+PCI_CFG_SPACE_SIZE,VAR_1
+PCI_EXT_CAP_ID,FUNC_0
+PCI_EXT_CAP_NEXT,FUNC_1
+dw_pcie_readl_dbi,FUNC_2
+dw_pcie_find_next_ext_capability,FUNC_3
+pci,VAR_2
+start,VAR_3
+cap,VAR_4
+header,VAR_5
+ttl,VAR_6
+pos,VAR_7

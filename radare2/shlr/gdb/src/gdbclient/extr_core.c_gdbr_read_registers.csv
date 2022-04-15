@@ -1,0 +1,15 @@
+CMD_READREGS,VAR_0
+GDB_REMOTE_TYPE_LLDB,VAR_1
+gdbr_lock_enter,FUNC_0
+gdbr_lock_leave,FUNC_1
+gdbr_read_registers_lldb,FUNC_2
+handle_g,FUNC_3
+memcpy,FUNC_4
+memset,FUNC_5
+r_th_lock_check,FUNC_6
+read_packet,FUNC_7
+reg_cache,VAR_2
+send_msg,FUNC_8
+gdbr_read_registers,FUNC_9
+g,VAR_3
+ret,VAR_4

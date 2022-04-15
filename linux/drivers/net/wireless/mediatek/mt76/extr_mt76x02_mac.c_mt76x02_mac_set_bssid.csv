@@ -1,0 +1,11 @@
+MT_MAC_APC_BSSID_H,FUNC_0
+MT_MAC_APC_BSSID_H_ADDR,VAR_0
+MT_MAC_APC_BSSID_L,FUNC_1
+get_unaligned_le16,FUNC_2
+get_unaligned_le32,FUNC_3
+mt76_rmw_field,FUNC_4
+mt76_wr,FUNC_5
+mt76x02_mac_set_bssid,FUNC_6
+dev,VAR_1
+idx,VAR_2
+addr,VAR_3

@@ -1,0 +1,12 @@
+HD64461_IRQBASE,VAR_0
+HD64461_IRQ_NUM,VAR_1
+HD64461_NIRR,VAR_2
+ctrl_inw,FUNC_0
+handle_level_irq,FUNC_1
+irq_desc,VAR_3
+hd64461_irq_demux,FUNC_2
+irq,VAR_4
+desc,VAR_5
+intv,VAR_6
+ext_desc,VAR_7
+ext_irq,VAR_8

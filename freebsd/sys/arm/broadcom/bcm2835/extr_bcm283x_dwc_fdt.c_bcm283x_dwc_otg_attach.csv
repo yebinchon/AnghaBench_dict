@@ -1,0 +1,8 @@
+BCM2835_MBOX_POWER_ID_USB_HCD,VAR_0
+TRUE,VAR_1
+bcm2835_mbox_set_power_state,FUNC_0
+device_printf,FUNC_1
+dwc_otg_attach,FUNC_2
+bcm283x_dwc_otg_attach,FUNC_3
+dev,VAR_2
+err,VAR_3

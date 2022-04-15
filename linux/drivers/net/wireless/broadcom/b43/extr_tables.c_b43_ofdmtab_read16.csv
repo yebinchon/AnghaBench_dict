@@ -1,0 +1,12 @@
+B43_OFDMTAB_DIRECTION_READ,VAR_0
+B43_PHY_OTABLECTL,VAR_1
+B43_PHY_OTABLEI,VAR_2
+assert_sizes,FUNC_0
+b43_phy_read,FUNC_1
+b43_phy_write,FUNC_2
+b43_ofdmtab_read16,FUNC_3
+dev,VAR_3
+table,VAR_4
+offset,VAR_5
+gphy,VAR_6
+addr,VAR_7

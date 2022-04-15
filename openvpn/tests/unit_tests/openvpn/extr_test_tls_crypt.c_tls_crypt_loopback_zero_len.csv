@@ -1,0 +1,12 @@
+BLEN,FUNC_0
+BPTR,FUNC_1
+assert_int_equal,FUNC_2
+assert_memory_equal,FUNC_3
+assert_true,FUNC_4
+buf_clear,FUNC_5
+skip_if_tls_crypt_not_supported,FUNC_6
+tls_crypt_unwrap,FUNC_7
+tls_crypt_wrap,FUNC_8
+tls_crypt_loopback_zero_len,FUNC_9
+state,VAR_0
+ctx,VAR_1

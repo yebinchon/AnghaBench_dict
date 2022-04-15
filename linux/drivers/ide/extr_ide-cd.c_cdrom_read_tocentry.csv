@@ -1,0 +1,15 @@
+BLK_MAX_CDB,VAR_0
+GPCMD_READ_TOC_PMA_ATIP,VAR_1
+IDE_DBG_FUNC,VAR_2
+RQF_QUIET,VAR_3
+ide_cd_queue_pc,FUNC_0
+ide_debug_log,FUNC_1
+memset,FUNC_2
+cdrom_read_tocentry,FUNC_3
+drive,VAR_4
+trackno,VAR_5
+msf_flag,VAR_6
+format,VAR_7
+buf,VAR_8
+buflen,VAR_9
+cmd,VAR_10

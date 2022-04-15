@@ -1,0 +1,11 @@
+MFGPT_REG_SETUP,VAR_0
+MFGPT_SETUP_SETUP,VAR_1
+__set_bit,FUNC_0
+cs5535_mfgpt_read,FUNC_1
+kfree,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+cs5535_mfgpt_free_timer,FUNC_5
+timer,VAR_2
+flags,VAR_3
+val,VAR_4

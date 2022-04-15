@@ -1,0 +1,13 @@
+INP_DROPPED,VAR_0
+INP_TIMEWAIT,VAR_1
+INP_WLOCK_ASSERT,FUNC_0
+IS_FASTOPEN,FUNC_1
+NET_EPOCH_ASSERT,FUNC_2
+TCPS_SYN_SENT,VAR_2
+intotcpcb,FUNC_3
+tcp_drop,FUNC_4
+tcp_fastopen_disable_path,FUNC_5
+tcp_drop_syn_sent,FUNC_6
+inp,VAR_3
+errno,VAR_4
+tp,VAR_5

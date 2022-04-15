@@ -1,0 +1,13 @@
+ENTER_CRITICAL,FUNC_0
+ITIMER_REAL,VAR_0
+LEAVE_CRITICAL,FUNC_1
+SIGALRM,VAR_1
+SmEventQueue,VAR_2
+SmFreeEventList,VAR_3
+alarm,FUNC_2
+setitimer,FUNC_3
+sm_blocksignal,FUNC_4
+sm_releasesignal,FUNC_5
+sm_clear_events,FUNC_6
+ev,VAR_4
+wasblocked,VAR_5

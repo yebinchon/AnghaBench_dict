@@ -1,0 +1,14 @@
+fill_utf16,FUNC_0
+get_next_dirent,FUNC_1
+libfat_clustertosector,FUNC_2
+libfat_get_sector,FUNC_3
+memset,FUNC_4
+read16,FUNC_5
+read32,FUNC_6
+libfat_dumpdir,FUNC_7
+fs,VAR_0
+dp,VAR_1
+di,VAR_2
+i,VAR_3
+j,VAR_4
+dep,VAR_5

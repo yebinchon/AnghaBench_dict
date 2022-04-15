@@ -1,0 +1,6 @@
+MSR_IA32_PEBS_ENABLE,VAR_0
+cpu_hw_events,VAR_1
+this_cpu_ptr,FUNC_0
+wrmsrl,FUNC_1
+intel_pmu_pebs_enable_all,FUNC_2
+cpuc,VAR_2

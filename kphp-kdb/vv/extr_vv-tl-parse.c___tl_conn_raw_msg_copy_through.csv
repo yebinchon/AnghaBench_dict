@@ -1,0 +1,17 @@
+MSG_STD_BUFFER,VAR_0
+TL_IN_CONN,VAR_1
+TL_OUT_RAW_MSG,VAR_2
+assert,FUNC_0
+nbit_clear,FUNC_1
+nbit_read_in,FUNC_2
+nbit_set,FUNC_3
+read_in,FUNC_4
+rwm_postpone_alloc,FUNC_5
+__tl_conn_raw_msg_copy_through,FUNC_6
+len,VAR_3
+advance,VAR_4
+x,VAR_5
+buf,VAR_6
+R,VAR_7
+x,VAR_8
+buf,VAR_9

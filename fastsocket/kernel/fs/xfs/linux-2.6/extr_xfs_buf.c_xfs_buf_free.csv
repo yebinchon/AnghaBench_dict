@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+_RET_IP_,VAR_0
+_XBF_KMEM,VAR_1
+_XBF_PAGES,VAR_2
+__free_page,FUNC_1
+_xfs_buf_free_pages,FUNC_2
+kmem_free,FUNC_3
+kmem_zone_free,FUNC_4
+list_empty,FUNC_5
+trace_xfs_buf_free,FUNC_6
+vm_unmap_ram,FUNC_7
+xfs_buf_is_vmapped,FUNC_8
+xfs_buf_zone,VAR_3
+xfs_buf_free,FUNC_9
+bp,VAR_4
+i,VAR_5
+page,VAR_6

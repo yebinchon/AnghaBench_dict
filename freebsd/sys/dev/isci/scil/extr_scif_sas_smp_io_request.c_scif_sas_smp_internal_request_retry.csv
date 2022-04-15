@@ -1,0 +1,17 @@
+SCIF_LOG_OBJECT_DOMAIN_DISCOVERY,VAR_0
+SCIF_LOG_OBJECT_IO_REQUEST,VAR_1
+SCIF_LOG_TRACE,FUNC_0
+SCI_FAILURE_INSUFFICIENT_RESOURCES,VAR_2
+SCI_SUCCESS,VAR_3
+sci_base_object_get_logger,FUNC_1
+scif_cb_start_internal_io_task_schedule,FUNC_2
+scif_sas_controller_start_high_priority_io,VAR_4
+scif_sas_smp_request_construct_discover,FUNC_3
+scif_sas_smp_request_construct_report_general,FUNC_4
+scif_sas_smp_request_construct_report_phy_sata,FUNC_5
+scif_sas_smp_internal_request_retry,FUNC_6
+fw_device,VAR_5
+fw_controller,VAR_6
+new_io,VAR_7
+new_request_memory,VAR_8
+retry_count,VAR_9

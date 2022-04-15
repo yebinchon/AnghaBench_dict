@@ -1,0 +1,16 @@
+MEM_Agg,VAR_0
+MEM_Dyn,VAR_1
+MEM_Frame,VAR_2
+MEM_RowSet,VAR_3
+MEM_Undefined,VAR_4
+assert,FUNC_0
+sqlite3DbFree,FUNC_1
+sqlite3DbFreeNN,FUNC_2
+sqlite3VdbeCheckMemInvariants,FUNC_3
+sqlite3VdbeMemRelease,FUNC_4
+testcase,FUNC_5
+releaseMemArray,FUNC_6
+p,VAR_5
+N,VAR_6
+pEnd,VAR_7
+db,VAR_8

@@ -1,0 +1,8 @@
+PPSMC_MSG_DisableGfxOff,VAR_0
+PP_GFXOFF_MASK,VAR_1
+msleep,FUNC_0
+smu10_is_gfx_on,FUNC_1
+smum_send_msg_to_smc,FUNC_2
+smu10_disable_gfx_off,FUNC_3
+hwmgr,VAR_2
+adev,VAR_3

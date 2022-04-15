@@ -1,0 +1,17 @@
+NVKM_THERM_THRS_CRITICAL,VAR_0
+NVKM_THERM_THRS_DOWNCLOCK,VAR_1
+NVKM_THERM_THRS_FANBOOST,VAR_2
+NVKM_THERM_THRS_SHUTDOWN,VAR_3
+g84_therm_threshold_hyst_emulation,FUNC_0
+nvkm_error,FUNC_1
+nvkm_rd32,FUNC_2
+nvkm_wr32,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+g84_therm_intr,FUNC_6
+therm,VAR_4
+subdev,VAR_5
+device,VAR_6
+sensor,VAR_7
+flags,VAR_8
+intr,VAR_9

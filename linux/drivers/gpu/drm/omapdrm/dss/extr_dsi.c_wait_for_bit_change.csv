@@ -1,0 +1,17 @@
+HRTIMER_MODE_REL,VAR_0
+REG_GET,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_1
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_1
+ns_to_ktime,FUNC_2
+schedule_hrtimeout,FUNC_3
+set_current_state,FUNC_4
+time_before,FUNC_5
+wait_for_bit_change,FUNC_6
+dsi,VAR_3
+idx,VAR_4
+bitnum,VAR_5
+value,VAR_6
+timeout,VAR_7
+wait,VAR_8
+t,VAR_9

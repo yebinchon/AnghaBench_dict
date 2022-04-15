@@ -1,0 +1,11 @@
+CREG_ADD,VAR_0
+CREG_CMD,VAR_1
+CREG_CNT,VAR_2
+CREG_OP_WRITE,VAR_3
+copy_to_creg_data,FUNC_0
+iowrite32,FUNC_1
+unlikely,FUNC_2
+creg_issue_cmd,FUNC_3
+card,VAR_4
+cmd,VAR_5
+st,VAR_6

@@ -1,0 +1,14 @@
+CFG_ERASESEC_TOGGLE_32BIT_ADDR,VAR_0
+CFG_S25FL_CHECK_ERROR_FLAGS,VAR_1
+dev_dbg,FUNC_0
+stfsm_enter_32bit_addr,FUNC_1
+stfsm_load_seq,FUNC_2
+stfsm_s25fl_clear_status_reg,FUNC_3
+stfsm_seq_erase_sector,VAR_2
+stfsm_wait_busy,FUNC_4
+stfsm_wait_seq,FUNC_5
+stfsm_erase_sector,FUNC_6
+fsm,VAR_3
+offset,VAR_4
+seq,VAR_5
+ret,VAR_6

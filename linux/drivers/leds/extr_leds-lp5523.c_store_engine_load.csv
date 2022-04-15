@@ -1,0 +1,15 @@
+i2c_get_clientdata,FUNC_0
+lp5523_load_engine_and_select_page,FUNC_1
+lp5523_update_program_memory,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+to_i2c_client,FUNC_5
+store_engine_load,FUNC_6
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+len,VAR_3
+nr,VAR_4
+led,VAR_5
+chip,VAR_6
+ret,VAR_7

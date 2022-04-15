@@ -1,0 +1,13 @@
+BUS_ADD_CHILD,FUNC_0
+IICBUS_IVAR,FUNC_1
+SYS_RES_IRQ,VAR_0
+bus_set_resource,FUNC_2
+device_printf,FUNC_3
+resource_int_value,FUNC_4
+iicbus_hinted_child,FUNC_5
+bus,VAR_1
+dname,VAR_2
+dunit,VAR_3
+child,VAR_4
+irq,VAR_5
+devi,VAR_6

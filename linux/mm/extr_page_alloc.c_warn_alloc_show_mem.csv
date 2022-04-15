@@ -1,0 +1,13 @@
+PF_EXITING,VAR_0
+PF_MEMALLOC,VAR_1
+SHOW_MEM_FILTER_NODES,VAR_2
+__GFP_DIRECT_RECLAIM,VAR_3
+__GFP_NOMEMALLOC,VAR_4
+current,VAR_5
+in_interrupt,FUNC_0
+show_mem,FUNC_1
+tsk_is_oom_victim,FUNC_2
+warn_alloc_show_mem,FUNC_3
+gfp_mask,VAR_6
+nodemask,VAR_7
+filter,VAR_8

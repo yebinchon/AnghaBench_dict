@@ -1,0 +1,8 @@
+cl_assert_equal_sz,FUNC_0
+cl_git_fail,FUNC_1
+cl_git_pass,FUNC_2
+git_odb_stream_finalize_write,FUNC_3
+git_odb_stream_write,FUNC_4
+stream,VAR_0
+test_odb_streamwrite__can_detect_missing_bytes,FUNC_5
+oid,VAR_1

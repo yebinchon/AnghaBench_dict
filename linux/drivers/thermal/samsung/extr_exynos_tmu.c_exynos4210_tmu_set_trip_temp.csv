@@ -1,0 +1,13 @@
+EXYNOS4210_TMU_REG_THRESHOLD_TEMP,VAR_0
+EXYNOS4210_TMU_REG_TRIG_LEVEL0,VAR_1
+MCELSIUS,VAR_2
+of_thermal_get_trip_points,FUNC_0
+temp_to_code,FUNC_1
+writeb,FUNC_2
+exynos4210_tmu_set_trip_temp,FUNC_3
+data,VAR_3
+trip,VAR_4
+temp,VAR_5
+trips,VAR_6
+ref,VAR_7
+th_code,VAR_8

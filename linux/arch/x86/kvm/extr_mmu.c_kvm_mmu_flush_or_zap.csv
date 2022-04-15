@@ -1,0 +1,8 @@
+KVM_REQ_TLB_FLUSH,VAR_0
+kvm_make_request,FUNC_0
+kvm_mmu_remote_flush_or_zap,FUNC_1
+kvm_mmu_flush_or_zap,FUNC_2
+vcpu,VAR_1
+invalid_list,VAR_2
+remote_flush,VAR_3
+local_flush,VAR_4

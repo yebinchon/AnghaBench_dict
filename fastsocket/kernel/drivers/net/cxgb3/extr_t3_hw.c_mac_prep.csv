@@ -1,0 +1,15 @@
+A_XGM_PORT_CFG,VAR_0
+A_XGM_SERDES_CTRL,VAR_1
+F_ENRGMII,VAR_2
+XGMAC0_0_BASE_ADDR,VAR_3
+XGMAC0_1_BASE_ADDR,VAR_4
+is_10G,FUNC_0
+pci_read_config_word,FUNC_1
+t3_set_reg_field,FUNC_2
+t3_write_reg,FUNC_3
+uses_xaui,FUNC_4
+mac_prep,FUNC_5
+mac,VAR_5
+adapter,VAR_6
+index,VAR_7
+devid,VAR_8

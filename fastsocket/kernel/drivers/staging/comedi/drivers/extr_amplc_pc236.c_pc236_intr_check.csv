@@ -1,0 +1,13 @@
+PCI236_INTR_ENABLE,VAR_0
+PLX9052_INTCSR,VAR_1
+PLX9052_INTCSR_LI1STAT_INACTIVE,VAR_2
+PLX9052_INTCSR_LI1STAT_MASK,VAR_3
+devpriv,VAR_4
+inl,FUNC_0
+outl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+pc236_intr_check,FUNC_4
+dev,VAR_5
+retval,VAR_6
+flags,VAR_7

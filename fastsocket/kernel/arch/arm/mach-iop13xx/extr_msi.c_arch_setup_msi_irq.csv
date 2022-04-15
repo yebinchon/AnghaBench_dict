@@ -1,0 +1,15 @@
+IOP13XX_MU_MIMR_CORE_SELECT,VAR_0
+IOP13XX_MU_MIMR_PCI,VAR_1
+create_irq,FUNC_0
+handle_simple_irq,VAR_2
+iop13xx_cpu_id,FUNC_1
+iop13xx_msi_chip,VAR_3
+set_irq_chip_and_handler,FUNC_2
+set_irq_msi,FUNC_3
+write_msi_msg,FUNC_4
+arch_setup_msi_irq,FUNC_5
+pdev,VAR_4
+desc,VAR_5
+id,VAR_6
+irq,VAR_7
+msg,VAR_8

@@ -1,0 +1,12 @@
+MSI_BASE_HI_OFFSET,VAR_0
+MSI_BASE_LO_OFFSET,VAR_1
+MSI_ENABLE_OFFSET,VAR_2
+MSI_SIZE_OFFSET,VAR_3
+PCI_NUM_MSI,VAR_4
+lower_32_bits,FUNC_0
+upper_32_bits,FUNC_1
+writel_relaxed,FUNC_2
+mobiveil_pcie_enable_msi,FUNC_3
+pcie,VAR_5
+msg_addr,VAR_6
+msi,VAR_7

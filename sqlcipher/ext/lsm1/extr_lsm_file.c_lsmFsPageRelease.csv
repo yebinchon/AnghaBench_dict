@@ -1,0 +1,12 @@
+LSM_OK,VAR_0
+PAGE_FREE,VAR_1
+PAGE_HASPREV,VAR_2
+assert,FUNC_0
+fsIsFirst,FUNC_1
+fsPageAddToLru,FUNC_2
+lsmFsPagePersist,FUNC_3
+lsmFsPageRelease,FUNC_4
+pPg,VAR_3
+rc,VAR_4
+pFS,VAR_5
+pp,VAR_6

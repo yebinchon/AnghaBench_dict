@@ -1,0 +1,15 @@
+AV_WB32,FUNC_0
+bytestream_put_be16,FUNC_1
+bytestream_put_be32,FUNC_2
+bytestream_put_byte,FUNC_3
+memcmp,FUNC_4
+qtrle_encode_line,FUNC_5
+encode_frame,FUNC_6
+s,VAR_0
+p,VAR_1
+buf,VAR_2
+i,VAR_3
+start_line,VAR_4
+end_line,VAR_5
+orig_buf,VAR_6
+line_size,VAR_7

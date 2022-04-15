@@ -1,0 +1,16 @@
+FALSE,VAR_0
+MIFARE_CLASSIC_BLOCK_SIZE,VAR_1
+MIFARE_CLASSIC_CMD_READ,VAR_2
+PN532_CMD_InDataExchange,VAR_3
+RtlCopyMemory,FUNC_0
+RtlZeroMemory,FUNC_1
+kull_m_pn532_sendrecv,FUNC_2
+kull_m_pn532_Mifare_Classic_ReadBlock,FUNC_3
+comm,VAR_4
+target,VAR_5
+blockId,VAR_6
+block,VAR_7
+status,VAR_8
+readBlock,VAR_9
+dataOut,VAR_10
+wOut,VAR_11

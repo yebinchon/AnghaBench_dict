@@ -1,0 +1,11 @@
+OCXL_DVSEC_ACTAG_MASK,VAR_0
+OCXL_DVSEC_AFU_CTRL_ACTAG_BASE,VAR_1
+OCXL_DVSEC_AFU_CTRL_ACTAG_EN,VAR_2
+pci_write_config_byte,FUNC_0
+pci_write_config_dword,FUNC_1
+ocxl_config_set_afu_actag,FUNC_2
+dev,VAR_3
+pos,VAR_4
+actag_base,VAR_5
+actag_count,VAR_6
+val,VAR_7

@@ -1,0 +1,7 @@
+GUEST_IDTR_BASE,VAR_0
+GUEST_IDTR_LIMIT,VAR_1
+vmcs_write32,FUNC_0
+vmcs_writel,FUNC_1
+vmx_set_idt,FUNC_2
+vcpu,VAR_2
+dt,VAR_3

@@ -1,0 +1,17 @@
+LCK_MTX_ASSERT_OWNED,VAR_0
+MCACHE_LOCK,FUNC_0
+MCACHE_UNLOCK,FUNC_1
+MCF_NOCPUCACHE,VAR_1
+lck_mtx_assert,FUNC_2
+lck_mtx_lock_spin,FUNC_3
+lck_mtx_unlock,FUNC_4
+mcache_bkt_contention,VAR_2
+mcache_bkt_ws_update,FUNC_5
+mcache_cache_bkt_resize,VAR_3
+mcache_cache_enable,VAR_4
+mcache_dispatch,FUNC_6
+mcache_llock,VAR_5
+mcache_cache_update,FUNC_7
+cp,VAR_6
+need_bkt_resize,VAR_7
+need_bkt_reenable,VAR_8

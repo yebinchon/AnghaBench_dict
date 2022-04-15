@@ -1,0 +1,13 @@
+MX1_PWMP,VAR_0
+MX1_PWMS,VAR_1
+readl,FUNC_0
+to_pwm_imx1_chip,FUNC_1
+writel,FUNC_2
+pwm_imx1_config,FUNC_3
+chip,VAR_2
+pwm,VAR_3
+duty_ns,VAR_4
+period_ns,VAR_5
+imx,VAR_6
+max,VAR_7
+p,VAR_8

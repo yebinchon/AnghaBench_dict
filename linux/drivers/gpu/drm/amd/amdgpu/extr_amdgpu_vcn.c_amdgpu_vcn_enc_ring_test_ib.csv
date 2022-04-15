@@ -1,0 +1,16 @@
+AMDGPU_GEM_DOMAIN_VRAM,VAR_0
+ETIMEDOUT,VAR_1
+PAGE_SIZE,VAR_2
+amdgpu_bo_create_reserved,FUNC_0
+amdgpu_bo_unref,FUNC_1
+amdgpu_bo_unreserve,FUNC_2
+amdgpu_vcn_enc_get_create_msg,FUNC_3
+amdgpu_vcn_enc_get_destroy_msg,FUNC_4
+dma_fence_put,FUNC_5
+dma_fence_wait_timeout,FUNC_6
+amdgpu_vcn_enc_ring_test_ib,FUNC_7
+ring,VAR_3
+timeout,VAR_4
+fence,VAR_5
+bo,VAR_6
+r,VAR_7

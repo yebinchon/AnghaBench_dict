@@ -1,0 +1,10 @@
+ATA_CBL_PATA40,VAR_0
+ATA_CBL_PATA80,VAR_1
+siimage_selreg,FUNC_0
+sil_ioread8,FUNC_1
+to_pci_dev,FUNC_2
+sil_cable_detect,FUNC_3
+hwif,VAR_2
+dev,VAR_3
+addr,VAR_4
+ata66,VAR_5

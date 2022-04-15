@@ -1,0 +1,15 @@
+MLX4_INTERFACE_STATE_UP,VAR_0
+PCI_ERS_RESULT_DISCONNECT,VAR_1
+PCI_ERS_RESULT_NEED_RESET,VAR_2
+mlx4_enter_error_state,FUNC_0
+mlx4_err,FUNC_1
+mlx4_pci_disable_device,FUNC_2
+mlx4_unload_one,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+pci_channel_io_perm_failure,VAR_3
+pci_get_drvdata,FUNC_6
+mlx4_pci_err_detected,FUNC_7
+pdev,VAR_4
+state,VAR_5
+persist,VAR_6

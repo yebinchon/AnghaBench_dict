@@ -1,0 +1,10 @@
+BIT,FUNC_0
+CLK_GATE_SET_TO_DISABLE,VAR_0
+clk_get_regmap_gate_data,FUNC_1
+regmap_read,FUNC_2
+to_clk_regmap,FUNC_3
+clk_regmap_gate_is_enabled,FUNC_4
+hw,VAR_1
+clk,VAR_2
+gate,VAR_3
+val,VAR_4

@@ -1,0 +1,13 @@
+CSR_WRITE_4,FUNC_0
+ENXIO,VAR_0
+JZ_EFUCFG,VAR_1
+bus_alloc_resources,FUNC_1
+bus_release_resources,FUNC_2
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+jz4780_efuse_read,FUNC_5
+jz4780_efuse_spec,VAR_2
+jz4780_efuse_update_kenv,FUNC_6
+jz4780_efuse_attach,FUNC_7
+dev,VAR_3
+sc,VAR_4

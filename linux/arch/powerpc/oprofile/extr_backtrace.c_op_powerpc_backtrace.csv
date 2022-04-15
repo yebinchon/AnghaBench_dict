@@ -1,0 +1,12 @@
+is_32bit_task,FUNC_0
+kernel_getsp,FUNC_1
+pagefault_disable,FUNC_2
+pagefault_enable,FUNC_3
+user_getsp32,FUNC_4
+user_getsp64,FUNC_5
+user_mode,FUNC_6
+op_powerpc_backtrace,FUNC_7
+regs,VAR_0
+depth,VAR_1
+sp,VAR_2
+first_frame,VAR_3

@@ -1,0 +1,9 @@
+XUSB_STATUS_FIFO_BUFF_FREE_MASK,VAR_0
+XUSB_STATUS_FIFO_BUFF_RDY_MASK,VAR_1
+XUSB_STATUS_SETUP_PACKET_MASK,VAR_2
+xudc_ep0_in,FUNC_0
+xudc_ep0_out,FUNC_1
+xudc_handle_setup,FUNC_2
+xudc_ctrl_ep_handler,FUNC_3
+udc,VAR_3
+intrstatus,VAR_4

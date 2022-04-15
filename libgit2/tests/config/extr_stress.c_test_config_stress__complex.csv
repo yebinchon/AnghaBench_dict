@@ -1,0 +1,8 @@
+assert_config_value,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+git_config_free,FUNC_3
+git_config_open_ondisk,FUNC_4
+test_config_stress__complex,FUNC_5
+config,VAR_0
+path,VAR_1

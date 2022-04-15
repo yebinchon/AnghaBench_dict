@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+cl_assert_equal_s,FUNC_0
+cl_git_mkfile,FUNC_1
+cl_git_pass,FUNC_2
+cl_must_pass,FUNC_3
+clar__skip,FUNC_4
+clar_sandbox_path,FUNC_5
+git_buf_dispose,FUNC_6
+git_futils_mkdir,FUNC_7
+git_futils_readbuffer,FUNC_8
+git_path_supports_symlinks,FUNC_9
+p_rmdir,FUNC_10
+p_symlink,FUNC_11
+p_unlink,FUNC_12
+test_core_posix__symlink_resolves_to_correct_type,FUNC_13
+contents,VAR_1

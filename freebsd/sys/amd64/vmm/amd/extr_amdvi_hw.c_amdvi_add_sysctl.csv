@@ -1,0 +1,15 @@
+CTLFLAG_RD,VAR_0
+CTLTYPE_UINT,VAR_1
+OID_AUTO,VAR_2
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_ADD_U16,FUNC_1
+SYSCTL_ADD_ULONG,FUNC_2
+SYSCTL_CHILDREN,FUNC_3
+amdvi_handle_sysctl,VAR_3
+device_get_sysctl_ctx,FUNC_4
+device_get_sysctl_tree,FUNC_5
+amdvi_add_sysctl,FUNC_6
+softc,VAR_4
+child,VAR_5
+ctx,VAR_6
+dev,VAR_7

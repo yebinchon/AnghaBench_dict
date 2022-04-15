@@ -1,0 +1,11 @@
+PCI_ERR_COR_BAD_DLLP,VAR_0
+PCI_ERR_COR_MASK,VAR_1
+PCI_EXT_CAP_ID_ERR,VAR_2
+pci_find_ext_capability,FUNC_0
+pci_read_config_dword,FUNC_1
+pci_write_config_dword,FUNC_2
+pcie_mask_bad_dllp,FUNC_3
+ctrl,VAR_3
+dev,VAR_4
+pos,VAR_5
+reg,VAR_6

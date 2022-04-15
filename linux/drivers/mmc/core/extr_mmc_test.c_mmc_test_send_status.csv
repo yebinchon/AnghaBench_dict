@@ -1,0 +1,10 @@
+MMC_CMD_AC,VAR_0
+MMC_RSP_R1,VAR_1
+MMC_RSP_SPI_R2,VAR_2
+MMC_SEND_STATUS,VAR_3
+memset,FUNC_0
+mmc_host_is_spi,FUNC_1
+mmc_wait_for_cmd,FUNC_2
+mmc_test_send_status,FUNC_3
+test,VAR_4
+cmd,VAR_5

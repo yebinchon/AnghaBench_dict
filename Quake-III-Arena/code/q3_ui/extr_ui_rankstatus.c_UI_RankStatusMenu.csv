@@ -1,0 +1,9 @@
+RankStatus_MenuInit,FUNC_0
+UI_ForceMenuOff,FUNC_1
+UI_PushMenu,FUNC_2
+s_rankstatus,VAR_0
+s_rankstatus_message,VAR_1
+s_status,VAR_2
+trap_CL_UI_RankUserReset,FUNC_3
+trap_Cvar_VariableValue,FUNC_4
+UI_RankStatusMenu,FUNC_5

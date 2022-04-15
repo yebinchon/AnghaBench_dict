@@ -1,0 +1,16 @@
+SCTP_CMD_NEW_STATE,VAR_0
+SCTP_DISPOSITION_CONSUME,VAR_1
+SCTP_INC_STATS,FUNC_0
+SCTP_MIB_AUTOCLOSE_EXPIREDS,VAR_2
+SCTP_STATE,FUNC_1
+SCTP_STATE_SHUTDOWN_PENDING,VAR_3
+sctp_add_cmd_sf,FUNC_2
+sctp_outq_is_empty,FUNC_3
+sctp_sf_do_9_2_start_shutdown,FUNC_4
+sctp_sf_autoclose_timer_expire,FUNC_5
+ep,VAR_4
+asoc,VAR_5
+type,VAR_6
+arg,VAR_7
+commands,VAR_8
+disposition,VAR_9

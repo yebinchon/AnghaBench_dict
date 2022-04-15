@@ -1,0 +1,14 @@
+BF_BLOCK_SIZE,VAR_0
+be64_to_cpu,FUNC_0
+blowfish_enc_blk_xor,FUNC_1
+blowfish_enc_blk_xor_4way,FUNC_2
+cpu_to_be64,FUNC_3
+__ctr_crypt,FUNC_4
+ctx,VAR_1
+walk,VAR_2
+bsize,VAR_3
+nbytes,VAR_4
+src,VAR_5
+dst,VAR_6
+ctrblk,VAR_7
+ctrblocks,VAR_8

@@ -1,0 +1,15 @@
+NG_BT_MBUFQ_DESTROY,FUNC_0
+NG_NODE_REALLY_DIE,FUNC_1
+UBT_NG_LOCK,FUNC_2
+UBT_NG_UNLOCK,FUNC_3
+UBT_N_TRANSFER,VAR_0
+device_get_softc,FUNC_4
+mtx_destroy,FUNC_5
+ng_rmnode_self,FUNC_6
+taskqueue_drain,FUNC_7
+taskqueue_swi,VAR_1
+usbd_transfer_unsetup,FUNC_8
+ubt_detach,FUNC_9
+dev,VAR_2
+sc,VAR_3
+node,VAR_4

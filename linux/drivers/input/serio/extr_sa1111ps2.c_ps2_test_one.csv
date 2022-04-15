@@ -1,0 +1,12 @@
+PS2CR,VAR_0
+PS2CR_ENA,VAR_1
+PS2STAT,VAR_2
+PS2STAT_KBC,VAR_3
+PS2STAT_KBD,VAR_4
+readl_relaxed,FUNC_0
+udelay,FUNC_1
+writel_relaxed,FUNC_2
+ps2_test_one,FUNC_3
+ps2if,VAR_5
+mask,VAR_6
+val,VAR_7

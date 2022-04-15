@@ -1,0 +1,9 @@
+DDRB,VAR_0
+DDRC,VAR_1
+PORTB,VAR_2
+PORTC,VAR_3
+cbi,FUNC_0
+issi_init,FUNC_1
+matrix_init_user,FUNC_2
+sbi,FUNC_3
+matrix_init_kb,FUNC_4

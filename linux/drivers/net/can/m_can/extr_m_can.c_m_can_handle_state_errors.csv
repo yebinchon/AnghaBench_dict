@@ -1,0 +1,14 @@
+CAN_STATE_BUS_OFF,VAR_0
+CAN_STATE_ERROR_PASSIVE,VAR_1
+CAN_STATE_ERROR_WARNING,VAR_2
+PSR_BO,VAR_3
+PSR_EP,VAR_4
+PSR_EW,VAR_5
+m_can_handle_state_change,FUNC_0
+netdev_dbg,FUNC_1
+netdev_priv,FUNC_2
+m_can_handle_state_errors,FUNC_3
+dev,VAR_6
+psr,VAR_7
+cdev,VAR_8
+work_done,VAR_9

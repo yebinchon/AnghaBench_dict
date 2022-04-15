@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+add_nommu_region,FUNC_1
+add_vma_to_mm,FUNC_2
+delete_nommu_region,FUNC_3
+delete_vma_from_mm,FUNC_4
+down_write,FUNC_5
+free_page_series,FUNC_6
+nommu_region_sem,VAR_0
+up_write,FUNC_7
+shrink_vma,FUNC_8
+mm,VAR_1
+vma,VAR_2
+from,VAR_3
+to,VAR_4
+region,VAR_5

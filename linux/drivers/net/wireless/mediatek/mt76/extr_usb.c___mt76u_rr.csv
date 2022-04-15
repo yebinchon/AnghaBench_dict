@@ -1,0 +1,17 @@
+MT_VEND_MULTI_READ,VAR_0
+MT_VEND_READ_CFG,VAR_1
+MT_VEND_READ_EEPROM,VAR_2
+MT_VEND_TYPE_MASK,VAR_3
+USB_DIR_IN,VAR_4
+USB_TYPE_VENDOR,VAR_5
+__mt76u_vendor_request,FUNC_0
+le32_to_cpu,FUNC_1
+trace_usb_reg_rr,FUNC_2
+__mt76u_rr,FUNC_3
+dev,VAR_6
+addr,VAR_7
+usb,VAR_8
+data,VAR_9
+offset,VAR_10
+ret,VAR_11
+req,VAR_12

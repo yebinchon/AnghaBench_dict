@@ -1,0 +1,17 @@
+IFA_ADDREF_LOCKED,FUNC_0
+IFA_LOCK_SPIN,FUNC_1
+IFA_UNLOCK,FUNC_2
+IFF_BROADCAST,VAR_0
+IFSCOPE_NONE,VAR_1
+if_index,VAR_2
+ifa_equal,FUNC_3
+ifa_ifwithaddr_locked,FUNC_4
+ifindex2ifnet,VAR_3
+ifnet_lock_done,FUNC_5
+ifnet_lock_shared,FUNC_6
+ifa_ifwithaddr_scoped_locked,FUNC_7
+addr,VAR_4
+ifscope,VAR_5
+result,VAR_6
+ifp,VAR_7
+ifa,VAR_8

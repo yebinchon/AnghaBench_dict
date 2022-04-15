@@ -1,0 +1,16 @@
+BUG_ON,FUNC_0
+__ccu_read,FUNC_1
+__ccu_wait_bit,FUNC_2
+__ccu_write,FUNC_3
+gate_exists,FUNC_4
+gate_is_enabled,FUNC_5
+gate_is_hw_controllable,FUNC_6
+gate_is_no_disable,FUNC_7
+gate_is_sw_controllable,FUNC_8
+gate_is_sw_managed,FUNC_9
+__gate_commit,FUNC_10
+ccu,VAR_0
+gate,VAR_1
+reg_val,VAR_2
+mask,VAR_3
+enabled,VAR_4

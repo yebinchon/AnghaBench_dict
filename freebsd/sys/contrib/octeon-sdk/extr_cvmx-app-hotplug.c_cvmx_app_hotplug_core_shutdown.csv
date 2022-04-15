@@ -1,0 +1,14 @@
+__cvmx_app_hotplug_reset,FUNC_0
+__cvmx_app_hotplug_sync,FUNC_1
+bzero,FUNC_2
+cvmx_app_hotplug_info_ptr,VAR_0
+cvmx_app_hotplug_remove_self_from_core_mask,FUNC_3
+cvmx_coremask_first_core,FUNC_4
+cvmx_debug_finish,FUNC_5
+cvmx_interrupt_disable_save,FUNC_6
+cvmx_sysinfo_get,FUNC_7
+cvmx_sysinfo_remove_self_from_core_mask,FUNC_8
+printf,FUNC_9
+cvmx_app_hotplug_core_shutdown,FUNC_10
+flags,VAR_1
+sys_info_ptr,VAR_2

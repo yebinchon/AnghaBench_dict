@@ -1,0 +1,14 @@
+DRIVER_NAME,VAR_0
+IRQF_SHARED,VAR_1
+LAN743X_VECTOR_FLAG_IRQ_SHARED,VAR_2
+lan743x_intr_entry_isr,VAR_3
+request_irq,FUNC_0
+lan743x_intr_register_isr,FUNC_1
+adapter,VAR_4
+vector_index,VAR_5
+flags,VAR_6
+int_mask,VAR_7
+handler,VAR_8
+context,VAR_9
+vector,VAR_10
+ret,VAR_11

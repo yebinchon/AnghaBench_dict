@@ -1,0 +1,17 @@
+TASK_INTERRUPTIBLE,VAR_0
+TASK_RUNNING,VAR_1
+__rt_mutex_slowlock,FUNC_0
+current,VAR_2
+fixup_rt_mutex_waiters,FUNC_1
+remove_waiter,FUNC_2
+rt_mutex_adjust_prio,FUNC_3
+set_current_state,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+unlikely,FUNC_7
+rt_mutex_finish_proxy_lock,FUNC_8
+lock,VAR_3
+to,VAR_4
+waiter,VAR_5
+detect_deadlock,VAR_6
+ret,VAR_7

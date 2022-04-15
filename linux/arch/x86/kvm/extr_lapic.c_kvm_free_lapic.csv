@@ -1,0 +1,10 @@
+MSR_IA32_APICBASE_ENABLE,VAR_0
+apic_hw_disabled,VAR_1
+apic_sw_disabled,VAR_2
+free_page,FUNC_0
+hrtimer_cancel,FUNC_1
+kfree,FUNC_2
+static_key_slow_dec_deferred,FUNC_3
+kvm_free_lapic,FUNC_4
+vcpu,VAR_3
+apic,VAR_4

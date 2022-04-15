@@ -1,0 +1,15 @@
+DRM_DEBUG_DRIVER,FUNC_0
+I915_CLIENT_FAST_HANG_JIFFIES,VAR_0
+I915_CLIENT_SCORE_CONTEXT_BAN,VAR_1
+I915_CLIENT_SCORE_HANG_FAST,VAR_2
+atomic_add,FUNC_1
+atomic_read,FUNC_2
+i915_gem_context_is_banned,FUNC_3
+jiffies,VAR_3
+time_before,FUNC_4
+xchg,FUNC_5
+client_mark_guilty,FUNC_6
+file_priv,VAR_4
+ctx,VAR_5
+score,VAR_6
+prev_hang,VAR_7

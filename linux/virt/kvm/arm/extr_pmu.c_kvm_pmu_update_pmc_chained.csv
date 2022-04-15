@@ -1,0 +1,10 @@
+clear_bit,FUNC_0
+kvm_pmu_idx_has_chain_evtype,FUNC_1
+kvm_pmu_pmc_is_chained,FUNC_2
+kvm_pmu_stop_counter,FUNC_3
+set_bit,FUNC_4
+kvm_pmu_update_pmc_chained,FUNC_5
+vcpu,VAR_0
+select_idx,VAR_1
+pmu,VAR_2
+pmc,VAR_3

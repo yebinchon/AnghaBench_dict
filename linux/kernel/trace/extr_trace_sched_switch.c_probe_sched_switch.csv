@@ -1,0 +1,11 @@
+RECORD_CMDLINE,VAR_0
+RECORD_TGID,VAR_1
+sched_cmdline_ref,VAR_2
+sched_tgid_ref,VAR_3
+tracing_record_taskinfo_sched_switch,FUNC_0
+probe_sched_switch,FUNC_1
+ignore,VAR_4
+preempt,VAR_5
+prev,VAR_6
+next,VAR_7
+flags,VAR_8

@@ -1,0 +1,15 @@
+DECLARE_WAITQUEUE,FUNC_0
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__set_task_state,FUNC_1
+add_wait_queue,FUNC_2
+current,VAR_2
+io_schedule,FUNC_3
+remove_wait_queue,FUNC_4
+set_task_state,FUNC_5
+spin_lock_irq,FUNC_6
+spin_unlock_irq,FUNC_7
+wait,VAR_3
+wait_for_all_aios,FUNC_8
+ctx,VAR_4
+tsk,VAR_5

@@ -1,0 +1,11 @@
+MSI_STANDARD_EC_3G_MASK,VAR_0
+MSI_STANDARD_EC_BLUETOOTH_MASK,VAR_1
+MSI_STANDARD_EC_COMMAND_ADDRESS,VAR_2
+MSI_STANDARD_EC_WLAN_MASK,VAR_3
+bluetooth_s,VAR_4
+ec_read,FUNC_0
+threeg_s,VAR_5
+wlan_s,VAR_6
+get_wireless_state_ec_standard,FUNC_1
+rdata,VAR_7
+result,VAR_8

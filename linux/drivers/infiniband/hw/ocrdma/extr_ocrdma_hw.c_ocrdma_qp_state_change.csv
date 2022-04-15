@@ -1,0 +1,15 @@
+OCRDMA_QPS_ERR,VAR_0
+OCRDMA_QPS_INIT,VAR_1
+get_ibqp_state,FUNC_0
+get_ocrdma_qp_state,FUNC_1
+ocrdma_del_flush_qp,FUNC_2
+ocrdma_flush_qp,FUNC_3
+ocrdma_init_hwq_ptr,FUNC_4
+spin_lock_irqsave,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+ocrdma_qp_state_change,FUNC_7
+qp,VAR_2
+new_ib_state,VAR_3
+old_ib_state,VAR_4
+flags,VAR_5
+new_state,VAR_6

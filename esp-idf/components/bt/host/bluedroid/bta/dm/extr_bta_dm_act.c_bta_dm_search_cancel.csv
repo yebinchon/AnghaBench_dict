@@ -1,0 +1,17 @@
+BTA_DM_API_DISCOVER_EVT,VAR_0
+BTA_DM_INQUIRY_CMPL_EVT,VAR_1
+BTA_DM_SEARCH_CMPL_EVT,VAR_2
+BTM_CMD_STARTED,VAR_3
+BTM_CancelInquiry,FUNC_0
+BTM_CancelRemoteDeviceName,FUNC_1
+BTM_IsInquiryActive,FUNC_2
+TRUE,VAR_4
+UNUSED,FUNC_3
+bta_dm_cancel_gatt_discovery,FUNC_4
+bta_dm_search_cancel_notify,FUNC_5
+bta_dm_search_cb,VAR_5
+bta_sys_sendmsg,FUNC_6
+osi_malloc,FUNC_7
+bta_dm_search_cancel,FUNC_8
+p_data,VAR_6
+p_msg,VAR_7

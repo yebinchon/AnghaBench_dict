@@ -1,0 +1,14 @@
+INIT_LIST_HEAD,FUNC_0
+TRANSPORT_LUNFLAGS_READ_ONLY,VAR_0
+TRANSPORT_LUN_STATUS_FREE,VAR_1
+atomic_set,FUNC_1
+core_tpg_post_addlun,FUNC_2
+g_lun0_dev,VAR_2
+init_completion,FUNC_3
+spin_lock_init,FUNC_4
+core_tpg_setup_virtual_lun0,FUNC_5
+se_tpg,VAR_3
+dev,VAR_4
+lun,VAR_5
+lun_access,VAR_6
+ret,VAR_7

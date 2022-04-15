@@ -1,0 +1,16 @@
+JCCMD,VAR_0
+JCCMD_SRST,VAR_1
+VB2_BUF_STATE_ERROR,VAR_2
+jpu_write,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+v4l2_m2m_buf_done,FUNC_3
+v4l2_m2m_dst_buf_remove,FUNC_4
+v4l2_m2m_job_finish,FUNC_5
+v4l2_m2m_src_buf_remove,FUNC_6
+jpu_cleanup,FUNC_7
+ctx,VAR_3
+reset,VAR_4
+src_buf,VAR_5
+dst_buf,VAR_6
+flags,VAR_7

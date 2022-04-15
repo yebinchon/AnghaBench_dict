@@ -1,0 +1,14 @@
+B_FIFO_SIZE,VAR_0
+B_SUB_VAL,VAR_1
+HFCPCI_FIFOEN_B1RX,VAR_2
+HFCPCI_FIFOEN_B2RX,VAR_3
+HFCPCI_FIFO_EN,VAR_4
+MAX_B_FRAMES,VAR_5
+Write_hfc,FUNC_0
+cpu_to_le16,FUNC_1
+le16_to_cpu,FUNC_2
+hfcpci_clear_fifo_rx,FUNC_3
+hc,VAR_6
+fifo,VAR_7
+fifo_state,VAR_8
+bzr,VAR_9

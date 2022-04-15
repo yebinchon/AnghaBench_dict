@@ -1,0 +1,15 @@
+RETRO_VFS_FILE_ACCESS_HINT_FREQUENT_ACCESS,VAR_0
+RFILE_HINT_UNBUFFERED,VAR_1
+VFS_SCHEME_CDROM,VAR_2
+_fseeki64,FUNC_0
+fileXioLseek,FUNC_1
+fileno,FUNC_2
+fseek,FUNC_3
+fseeko,FUNC_4
+lseek,FUNC_5
+orbisLseek,FUNC_6
+retro_vfs_file_seek_cdrom,FUNC_7
+retro_vfs_file_seek_internal,FUNC_8
+stream,VAR_3
+offset,VAR_4
+whence,VAR_5

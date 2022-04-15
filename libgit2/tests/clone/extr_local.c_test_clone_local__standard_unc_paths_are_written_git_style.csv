@@ -1,0 +1,16 @@
+GIT_BUF_INIT,VAR_0
+GIT_CLONE_OPTIONS_INIT,VAR_1
+GIT_RMDIR_REMOVE_FILES,VAR_2
+cl_assert_equal_s,FUNC_0
+cl_fixture,FUNC_1
+cl_git_pass,FUNC_2
+git_buf_dispose,FUNC_3
+git_clone,FUNC_4
+git_futils_rmdir_r,FUNC_5
+git_remote_free,FUNC_6
+git_remote_lookup,FUNC_7
+git_remote_url,FUNC_8
+git_repository_free,FUNC_9
+git_style_unc_path,FUNC_10
+unc_path,FUNC_11
+test_clone_local__standard_unc_paths_are_written_git_style,FUNC_12

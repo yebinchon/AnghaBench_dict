@@ -1,0 +1,15 @@
+DMX_STATE_READY,VAR_0
+EINVAL,VAR_1
+ENOMEM,VAR_2
+ERESTARTSYS,VAR_3
+dvb_demux_feed_add,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+vmalloc,FUNC_3
+dmx_section_feed_set,FUNC_4
+feed,VAR_4
+pid,VAR_5
+circular_buffer_size,VAR_6
+check_crc,VAR_7
+dvbdmxfeed,VAR_8
+dvbdmx,VAR_9

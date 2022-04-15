@@ -1,0 +1,12 @@
+rcdev_to_ccu_reset,FUNC_0
+readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+writel,FUNC_4
+ccu_reset_deassert,FUNC_5
+rcdev,VAR_0
+id,VAR_1
+ccu,VAR_2
+map,VAR_3
+flags,VAR_4
+reg,VAR_5

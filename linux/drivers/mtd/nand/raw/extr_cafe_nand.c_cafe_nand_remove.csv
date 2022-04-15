@@ -1,0 +1,17 @@
+GLOBAL_IRQ_MASK,VAR_0
+cafe_readl,FUNC_0
+cafe_writel,FUNC_1
+dma_free_coherent,FUNC_2
+free_irq,FUNC_3
+free_rs,FUNC_4
+kfree,FUNC_5
+mtd_to_nand,FUNC_6
+nand_get_controller_data,FUNC_7
+nand_release,FUNC_8
+pci_get_drvdata,FUNC_9
+pci_iounmap,FUNC_10
+cafe_nand_remove,FUNC_11
+pdev,VAR_1
+mtd,VAR_2
+chip,VAR_3
+cafe,VAR_4

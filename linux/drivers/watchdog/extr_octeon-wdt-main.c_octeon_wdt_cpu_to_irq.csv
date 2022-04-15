@@ -1,0 +1,15 @@
+OCTEON_FEATURE_CIU3,VAR_0
+OCTEON_IRQ_WDOG0,VAR_1
+WD_BLOCK_NUMBER,VAR_2
+cpu2core,FUNC_0
+cpu_to_node,FUNC_1
+irq_find_mapping,FUNC_2
+octeon_has_feature,FUNC_3
+octeon_irq_get_block_domain,FUNC_4
+octeon_wdt_cpu_to_irq,FUNC_5
+cpu,VAR_3
+coreid,VAR_4
+node,VAR_5
+irq,VAR_6
+domain,VAR_7
+hwirq,VAR_8

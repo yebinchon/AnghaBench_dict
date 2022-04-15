@@ -1,0 +1,12 @@
+FD_READ,VAR_0
+INFINITE,VAR_1
+WSACloseEvent,FUNC_0
+WSACreateEvent,FUNC_1
+WSAEventSelect,FUNC_2
+WSAGetLastError,FUNC_3
+WSA_INVALID_EVENT,VAR_2
+WaitForSingleObject,FUNC_4
+printf,FUNC_5
+eloop_wait_for_read_sock,FUNC_6
+sock,VAR_3
+event,VAR_4

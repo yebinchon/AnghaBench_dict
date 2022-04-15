@@ -1,0 +1,14 @@
+GET_HAL_DATA,FUNC_0
+REG_RXDMA_MODE_CTRL_8723B,VAR_0
+REG_TRXDMA_CTRL,VAR_1
+RXDMA_AGG_EN,VAR_2
+RXDMA_AGG_MODE_EN,VAR_3
+rtw_read8,FUNC_1
+rtw_write8,FUNC_2
+sdio_AggSettingRxUpdate,FUNC_3
+padapter,VAR_4
+pHalData,VAR_5
+valueDMA,VAR_6
+valueRxAggCtrl,VAR_7
+aggBurstNum,VAR_8
+aggBurstSize,VAR_9

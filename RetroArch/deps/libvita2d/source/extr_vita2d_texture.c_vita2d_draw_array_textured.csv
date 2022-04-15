@@ -1,0 +1,17 @@
+SCE_GXM_INDEX_FORMAT_U16,VAR_0
+SCE_GXM_POLYGON_MODE_TRIANGLE_FILL,VAR_1
+_vita2d_context,VAR_2
+sceGxmDraw,FUNC_0
+sceGxmSetBackPolygonMode,FUNC_1
+sceGxmSetFragmentTexture,FUNC_2
+sceGxmSetVertexStream,FUNC_3
+set_texture_tint_color_uniform,FUNC_4
+set_texture_tint_program,FUNC_5
+set_texture_wvp_uniform,FUNC_6
+vita2d_get_linear_indices,FUNC_7
+vita2d_draw_array_textured,FUNC_8
+texture,VAR_3
+mode,VAR_4
+vertices,VAR_5
+count,VAR_6
+color,VAR_7

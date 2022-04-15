@@ -1,0 +1,11 @@
+DefWindowProcA,FUNC_0
+DefWindowProcW,FUNC_1
+GetWindowDC,FUNC_2
+Ghost_OnDraw,FUNC_3
+ReleaseDC,FUNC_4
+WM_NCPAINT,VAR_0
+Ghost_OnNCPaint,FUNC_5
+hwnd,VAR_1
+hrgn,VAR_2
+bUnicode,VAR_3
+hdc,VAR_4

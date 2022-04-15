@@ -1,0 +1,16 @@
+ACPI_SUCCESS,FUNC_0
+EPERM,VAR_0
+OSC_QUERY_DWORD,VAR_1
+OSC_SUPPORT_DWORD,VAR_2
+acpi_run_osc,FUNC_1
+int3400_thermal_uuids,VAR_3
+kfree,FUNC_2
+int3400_thermal_run_osc,FUNC_3
+handle,VAR_4
+uuid,VAR_5
+enable,VAR_6
+ret,VAR_7
+buf,VAR_8
+status,VAR_9
+result,VAR_10
+context,VAR_11

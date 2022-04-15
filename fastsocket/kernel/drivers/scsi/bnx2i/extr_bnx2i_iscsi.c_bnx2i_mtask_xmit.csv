@@ -1,0 +1,14 @@
+ADD_STATS_64,FUNC_0
+ISCSI_DEF_MAX_RECV_SEG_LEN,VAR_0
+bnx2i_iscsi_send_generic_request,FUNC_1
+bnx2i_setup_cmd_wqe_template,FUNC_2
+memcpy,FUNC_3
+memset,FUNC_4
+tx_bytes,VAR_1
+tx_pdus,VAR_2
+bnx2i_mtask_xmit,FUNC_5
+conn,VAR_3
+task,VAR_4
+bnx2i_conn,VAR_5
+hba,VAR_6
+cmd,VAR_7

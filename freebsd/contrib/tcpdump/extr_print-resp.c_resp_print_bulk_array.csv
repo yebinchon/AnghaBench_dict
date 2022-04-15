@@ -1,0 +1,17 @@
+GET_LENGTH,FUNC_0
+SKIP_OPCODE,FUNC_1
+TEST_RET_LEN_NORETURN,FUNC_2
+resp_parse,FUNC_3
+resp_print_empty,FUNC_4
+resp_print_invalid,FUNC_5
+resp_print_length_negative,FUNC_6
+resp_print_length_too_large,FUNC_7
+resp_print_null,FUNC_8
+resp_print_bulk_array,FUNC_9
+ndo,VAR_0
+bp,VAR_1
+length,VAR_2
+length_cur,VAR_3
+array_len,VAR_4
+i,VAR_5
+ret_len,VAR_6

@@ -1,0 +1,12 @@
+BRIDGE_SN9C105,VAR_0
+BRIDGE_SN9C120,VAR_1
+V4L2_PIX_FMT_SBGGR8,VAR_2
+sn9c102_get_bridge,FUNC_0
+sn9c102_get_sensor,FUNC_1
+sn9c102_i2c_try_raw_write,FUNC_2
+sn9c102_write_reg,FUNC_3
+mi0360_set_pix_format,FUNC_4
+cam,VAR_3
+pix,VAR_4
+s,VAR_5
+err,VAR_6

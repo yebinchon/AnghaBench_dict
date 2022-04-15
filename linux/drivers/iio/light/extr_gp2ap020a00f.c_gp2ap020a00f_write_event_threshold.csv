@@ -1,0 +1,13 @@
+GP2AP020A00F_FLAG_LUX_MODE_HI,VAR_0
+GP2AP020A00F_THRESH_PH,VAR_1
+GP2AP020A00F_THRESH_PL,VAR_2
+GP2AP020A00F_THRESH_REG,FUNC_0
+cpu_to_le16,FUNC_1
+regmap_bulk_write,FUNC_2
+test_bit,FUNC_3
+gp2ap020a00f_write_event_threshold,FUNC_4
+data,VAR_3
+th_val_id,VAR_4
+enable,VAR_5
+thresh_buf,VAR_6
+thresh_reg_val,VAR_7

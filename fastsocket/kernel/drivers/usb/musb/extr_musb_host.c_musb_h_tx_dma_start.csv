@@ -1,0 +1,10 @@
+MUSB_TXCSR,VAR_0
+MUSB_TXCSR_DMAENAB,VAR_1
+MUSB_TXCSR_DMAMODE,VAR_2
+MUSB_TXCSR_H_WZC_BITS,VAR_3
+is_cppi_enabled,FUNC_0
+musb_readw,FUNC_1
+musb_writew,FUNC_2
+musb_h_tx_dma_start,FUNC_3
+ep,VAR_4
+txcsr,VAR_5

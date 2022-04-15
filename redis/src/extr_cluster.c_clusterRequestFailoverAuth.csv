@@ -1,0 +1,10 @@
+CLUSTERMSG_FLAG0_FORCEACK,VAR_0
+CLUSTERMSG_TYPE_FAILOVER_AUTH_REQUEST,VAR_1
+clusterBroadcastMessage,FUNC_0
+clusterBuildMessageHdr,FUNC_1
+htonl,FUNC_2
+server,VAR_2
+clusterRequestFailoverAuth,FUNC_3
+buf,VAR_3
+hdr,VAR_4
+totlen,VAR_5

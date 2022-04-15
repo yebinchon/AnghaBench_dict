@@ -1,0 +1,11 @@
+bpf_warn_invalid_xdp_action,FUNC_0
+this_cpu_inc,FUNC_1
+trace_xdp_exception,FUNC_2
+tun_xdp_tx,FUNC_3
+xdp_do_redirect,FUNC_4
+tun_xdp_act,FUNC_5
+tun,VAR_0
+xdp_prog,VAR_1
+xdp,VAR_2
+act,VAR_3
+err,VAR_4

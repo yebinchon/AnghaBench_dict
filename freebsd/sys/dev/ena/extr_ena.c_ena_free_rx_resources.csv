@@ -1,0 +1,13 @@
+BUS_DMASYNC_POSTREAD,VAR_0
+M_DEVBUF,VAR_1
+bus_dmamap_destroy,FUNC_0
+bus_dmamap_sync,FUNC_1
+bus_dmamap_unload,FUNC_2
+free,FUNC_3
+m_freem,FUNC_4
+tcp_lro_free,FUNC_5
+ena_free_rx_resources,FUNC_6
+adapter,VAR_2
+qid,VAR_3
+rx_ring,VAR_4
+i,VAR_5

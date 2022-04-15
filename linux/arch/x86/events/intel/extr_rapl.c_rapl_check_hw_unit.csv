@@ -1,0 +1,10 @@
+MSR_RAPL_POWER_UNIT,VAR_0
+NR_RAPL_DOMAINS,VAR_1
+PERF_RAPL_RAM,VAR_2
+rapl_hw_unit,VAR_3
+rapl_timer_ms,VAR_4
+rdmsrl_safe,FUNC_0
+rapl_check_hw_unit,FUNC_1
+apply_quirk,VAR_5
+msr_rapl_power_unit_bits,VAR_6
+i,VAR_7

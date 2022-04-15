@@ -1,0 +1,16 @@
+BLOCK_FLAG_DISCONTINUITY,VAR_0
+block_ChainRelease,FUNC_0
+dec_get_owner,FUNC_1
+msg_Warn,FUNC_2
+vlc_fifo_DequeueAllUnlocked,FUNC_3
+vlc_fifo_GetBytes,FUNC_4
+vlc_fifo_GetCount,FUNC_5
+vlc_fifo_Lock,FUNC_6
+vlc_fifo_QueueUnlocked,FUNC_7
+vlc_fifo_Unlock,FUNC_8
+vlc_fifo_WaitCond,FUNC_9
+input_DecoderDecode,FUNC_10
+p_dec,VAR_1
+p_block,VAR_2
+b_do_pace,VAR_3
+p_owner,VAR_4

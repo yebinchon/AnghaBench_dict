@@ -1,0 +1,16 @@
+INIT_LIST_HEAD,FUNC_0
+RDS_IB_RECYCLE_BATCH_COUNT,VAR_0
+cmpxchg,FUNC_1
+list_add_tail,FUNC_2
+list_splice_entire_tail,FUNC_3
+local_irq_restore,FUNC_4
+local_irq_save,FUNC_5
+per_cpu_ptr,FUNC_6
+smp_processor_id,FUNC_7
+xchg,FUNC_8
+rds_ib_recv_cache_put,FUNC_9
+new_item,VAR_1
+cache,VAR_2
+flags,VAR_3
+chp,VAR_4
+old,VAR_5

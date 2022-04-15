@@ -1,0 +1,9 @@
+VTSCSI_LOCK,FUNC_0
+VTSCSI_UNLOCK,FUNC_1
+cam_sim_free,FUNC_2
+cam_sim_path,FUNC_3
+vtscsi_deregister_async,FUNC_4
+xpt_bus_deregister,FUNC_5
+xpt_free_path,FUNC_6
+vtscsi_free_cam,FUNC_7
+sc,VAR_0

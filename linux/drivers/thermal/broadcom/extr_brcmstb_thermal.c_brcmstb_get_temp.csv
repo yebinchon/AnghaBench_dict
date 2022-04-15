@@ -1,0 +1,14 @@
+AVS_TMON_STATUS,VAR_0
+AVS_TMON_STATUS_data_msk,VAR_1
+AVS_TMON_STATUS_data_shift,VAR_2
+AVS_TMON_STATUS_valid_msk,VAR_3
+EIO,VAR_4
+__raw_readl,FUNC_0
+avs_tmon_code_to_temp,FUNC_1
+dev_err,FUNC_2
+brcmstb_get_temp,FUNC_3
+data,VAR_5
+temp,VAR_6
+priv,VAR_7
+val,VAR_8
+t,VAR_9

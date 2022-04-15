@@ -1,0 +1,14 @@
+AuthGetParam,FUNC_0
+AuthGetParamNoQuotes,FUNC_1
+msg_Dbg,FUNC_2
+msg_Warn,FUNC_3
+strchr,FUNC_4
+strncasecmp,FUNC_5
+vlc_http_auth_ParseWwwAuthenticateHeader,FUNC_6
+p_this,VAR_0
+p_auth,VAR_1
+psz_header,VAR_2
+psz_basic_prefix,VAR_3
+psz_digest_prefix,VAR_4
+psz_tmp,VAR_5
+psz_end,VAR_6

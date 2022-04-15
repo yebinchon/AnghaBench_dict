@@ -1,0 +1,8 @@
+BTA_DM_PM_MODE_TIMER_MAX,VAR_0
+BTA_ID_MAX,VAR_1
+FALSE,VAR_2
+assert,FUNC_0
+bta_sys_stop_timer,FUNC_1
+bta_dm_pm_stop_timer_by_index,FUNC_2
+p_timer,VAR_3
+timer_idx,VAR_4

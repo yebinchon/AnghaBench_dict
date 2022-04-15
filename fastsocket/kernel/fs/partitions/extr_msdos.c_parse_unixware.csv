@@ -1,0 +1,15 @@
+UNIXWARE_DISKMAGIC,VAR_0
+UNIXWARE_DISKMAGIC2,VAR_1
+UNIXWARE_FS_UNUSED,VAR_2
+UNIXWARE_NUMSLICE,VAR_3
+le32_to_cpu,FUNC_0
+printk,FUNC_1
+put_dev_sector,FUNC_2
+put_partition,FUNC_3
+read_dev_sector,FUNC_4
+parse_unixware,FUNC_5
+state,VAR_4
+bdev,VAR_5
+offset,VAR_6
+size,VAR_7
+origin,VAR_8

@@ -1,0 +1,13 @@
+OV5640_REG_IO_MIPI_CTRL00,VAR_0
+OV5640_REG_MIPI_CTRL00,VAR_1
+OV5640_REG_PAD_OUTPUT00,VAR_2
+V4L2_MBUS_CSI2_DPHY,VAR_3
+ov5640_restore_mode,FUNC_0
+ov5640_set_power_off,FUNC_1
+ov5640_set_power_on,FUNC_2
+ov5640_write_reg,FUNC_3
+usleep_range,FUNC_4
+ov5640_set_power,FUNC_5
+sensor,VAR_4
+on,VAR_5
+ret,VAR_6

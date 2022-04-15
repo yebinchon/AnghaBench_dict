@@ -1,0 +1,16 @@
+atomic_read,FUNC_0
+clear_inode,FUNC_1
+dbg_gen,FUNC_2
+is_bad_inode,FUNC_3
+smp_wmb,FUNC_4
+truncate_inode_pages,FUNC_5
+ubifs_assert,FUNC_6
+ubifs_err,FUNC_7
+ubifs_inode,FUNC_8
+ubifs_jnl_delete_inode,FUNC_9
+ubifs_release_dirty_inode_budget,FUNC_10
+ubifs_delete_inode,FUNC_11
+inode,VAR_0
+err,VAR_1
+c,VAR_2
+ui,VAR_3

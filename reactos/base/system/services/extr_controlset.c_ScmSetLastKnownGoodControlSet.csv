@@ -1,0 +1,12 @@
+ERROR_SUCCESS,VAR_0
+HKEY_LOCAL_MACHINE,VAR_1
+KEY_WRITE,VAR_2
+REG_DWORD,VAR_3
+RegCloseKey,FUNC_0
+RegFlushKey,FUNC_1
+RegOpenKeyExW,FUNC_2
+RegSetValueExW,FUNC_3
+ScmSetLastKnownGoodControlSet,FUNC_4
+dwControlSet,VAR_4
+hSelectKey,VAR_5
+dwError,VAR_6

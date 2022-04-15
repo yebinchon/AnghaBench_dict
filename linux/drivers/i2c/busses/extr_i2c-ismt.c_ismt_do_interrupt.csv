@@ -1,0 +1,12 @@
+IRQ_NONE,VAR_0
+ISMT_MSTR_MSTS,VAR_1
+ISMT_MSTS_MEIS,VAR_2
+ISMT_MSTS_MIS,VAR_3
+ismt_handle_isr,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+ismt_do_interrupt,FUNC_3
+vec,VAR_4
+data,VAR_5
+val,VAR_6
+priv,VAR_7

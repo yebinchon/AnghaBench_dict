@@ -1,0 +1,11 @@
+IS_PHYSICAL,VAR_0
+PAGE_SIZE,VAR_1
+VM_PAGE_TO_PHYS,FUNC_0
+_arm_memcpy,FUNC_1
+_min_memcpy_size,VAR_2
+cpu_dcache_wbinv_all,FUNC_2
+cpu_l2cache_wbinv_all,FUNC_3
+pmap_copy_page_generic,FUNC_4
+pmap_copy_page,FUNC_5
+src,VAR_3
+dst,VAR_4

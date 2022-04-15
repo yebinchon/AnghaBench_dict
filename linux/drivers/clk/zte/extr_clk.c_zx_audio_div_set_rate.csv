@@ -1,0 +1,14 @@
+CLK_AUDIO_DIV_INT_FRAC_RE,VAR_0
+audio_calc_reg,FUNC_0
+mdelay,FUNC_1
+pr_debug,FUNC_2
+readl_relaxed,FUNC_3
+to_clk_zx_audio_div,FUNC_4
+writel_relaxed,FUNC_5
+zx_audio_div_set_rate,FUNC_6
+hw,VAR_1
+rate,VAR_2
+parent_rate,VAR_3
+zx_audio_div,VAR_4
+divt,VAR_5
+val,VAR_6

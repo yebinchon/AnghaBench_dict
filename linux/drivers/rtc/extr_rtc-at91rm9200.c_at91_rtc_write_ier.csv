@@ -1,0 +1,9 @@
+AT91_RTC_IER,VAR_0
+at91_rtc_lock,VAR_1
+at91_rtc_shadow_imr,VAR_2
+at91_rtc_write,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+at91_rtc_write_ier,FUNC_3
+mask,VAR_3
+flags,VAR_4

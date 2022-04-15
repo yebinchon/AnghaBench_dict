@@ -1,0 +1,14 @@
+SAB82532_DAFO_XBRK,VAR_0
+SAB82532_REGS_PENDING,VAR_1
+SAB82532_XPR,VAR_2
+set_bit,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+sunsab_tx_idle,FUNC_3
+test_bit,FUNC_4
+sunsab_break_ctl,FUNC_5
+port,VAR_3
+break_state,VAR_4
+up,VAR_5
+flags,VAR_6
+val,VAR_7

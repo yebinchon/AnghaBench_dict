@@ -1,0 +1,14 @@
+alloc_buddy_huge_page,FUNC_0
+alloc_gigantic_page,FUNC_1
+hstate_is_gigantic,FUNC_2
+huge_page_order,FUNC_3
+page_to_nid,FUNC_4
+prep_compound_gigantic_page,FUNC_5
+prep_new_huge_page,FUNC_6
+alloc_fresh_huge_page,FUNC_7
+h,VAR_0
+gfp_mask,VAR_1
+nid,VAR_2
+nmask,VAR_3
+node_alloc_noretry,VAR_4
+page,VAR_5

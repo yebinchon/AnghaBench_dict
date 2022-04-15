@@ -1,0 +1,14 @@
+SET_PENDING_INT,VAR_0
+SIGCHLD,VAR_1
+SIGINT,VAR_2
+SIGQUIT,VAR_3
+gotsig,VAR_4
+ignore_sigchld,VAR_5
+in_dotrap,VAR_6
+onint,FUNC_0
+pendingsig,VAR_7
+pendingsig_waitcmd,VAR_8
+suppressint,VAR_9
+trap,VAR_10
+onsig,FUNC_1
+signo,VAR_11

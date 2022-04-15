@@ -1,0 +1,14 @@
+del_timer,FUNC_0
+destroy_queue,FUNC_1
+kfree,FUNC_2
+netdev_priv,FUNC_3
+netif_stop_queue,FUNC_4
+os_close_file,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+tasklet_kill,FUNC_8
+um_free_irq,FUNC_9
+vector_net_close,FUNC_10
+dev,VAR_0
+vp,VAR_1
+flags,VAR_2

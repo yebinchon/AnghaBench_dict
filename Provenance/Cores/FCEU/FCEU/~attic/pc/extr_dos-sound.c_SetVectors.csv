@@ -1,0 +1,15 @@
+IVector,VAR_0
+SBIH,VAR_1
+SBIHOld,VAR_2
+SBIHRM,VAR_3
+SBIHRMOld,VAR_4
+SBIHRMRegs,VAR_5
+SBIRQHandler,VAR_6
+_go32_dpmi_allocate_iret_wrapper,FUNC_0
+_go32_dpmi_allocate_real_mode_callback_iret,FUNC_1
+_go32_dpmi_get_protected_mode_interrupt_vector,FUNC_2
+_go32_dpmi_get_real_mode_interrupt_vector,FUNC_3
+_go32_dpmi_set_protected_mode_interrupt_vector,FUNC_4
+_go32_dpmi_set_real_mode_interrupt_vector,FUNC_5
+_my_cs,FUNC_6
+SetVectors,FUNC_7

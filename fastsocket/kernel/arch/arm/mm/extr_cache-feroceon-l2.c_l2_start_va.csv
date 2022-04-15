@@ -1,0 +1,15 @@
+FIX_KMAP_BEGIN,VAR_0
+KM_L2_CACHE,VAR_1
+KM_TYPE_NR,VAR_2
+PAGE_KERNEL,VAR_3
+PAGE_MASK,VAR_4
+PAGE_SHIFT,VAR_5
+TOP_PTE,FUNC_0
+__fix_to_virt,FUNC_1
+__phys_to_virt,FUNC_2
+local_flush_tlb_kernel_page,FUNC_3
+pfn_pte,FUNC_4
+set_pte_ext,FUNC_5
+smp_processor_id,FUNC_6
+l2_start_va,FUNC_7
+paddr,VAR_6

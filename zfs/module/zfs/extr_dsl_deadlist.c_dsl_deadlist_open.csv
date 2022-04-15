@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+B_FALSE,VAR_0
+B_TRUE,VAR_1
+DMU_OT_BPOBJ,VAR_2
+MUTEX_DEFAULT,VAR_3
+VERIFY0,FUNC_1
+bpobj_open,FUNC_2
+dmu_bonus_hold,FUNC_3
+dmu_buf_rele,FUNC_4
+dmu_object_info_from_db,FUNC_5
+dsl_deadlist_is_open,FUNC_6
+mutex_init,FUNC_7
+dsl_deadlist_open,FUNC_8
+dl,VAR_4
+os,VAR_5
+object,VAR_6
+doi,VAR_7

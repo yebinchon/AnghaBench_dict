@@ -1,0 +1,12 @@
+cooling_list_lock,VAR_0
+cpufreq_ida,VAR_1
+freq_qos_remove_request,FUNC_0
+ida_simple_remove,FUNC_1
+kfree,FUNC_2
+list_del,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+thermal_cooling_device_unregister,FUNC_6
+cpufreq_cooling_unregister,FUNC_7
+cdev,VAR_2
+cpufreq_cdev,VAR_3

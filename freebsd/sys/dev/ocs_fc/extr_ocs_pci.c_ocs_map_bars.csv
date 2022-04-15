@@ -1,0 +1,12 @@
+ENXIO,VAR_0
+PCIR_BAR,FUNC_0
+PCI_64BIT_BAR0,VAR_1
+RF_ACTIVE,VAR_2
+SYS_RES_MEMORY,VAR_3
+bus_alloc_resource_any,FUNC_1
+device_printf,FUNC_2
+rman_get_bushandle,FUNC_3
+rman_get_bustag,FUNC_4
+ocs_map_bars,FUNC_5
+dev,VAR_4
+ocs,VAR_5

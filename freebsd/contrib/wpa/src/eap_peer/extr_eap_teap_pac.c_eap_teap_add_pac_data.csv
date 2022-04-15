@@ -1,0 +1,12 @@
+EAP_TEAP_PAC_KEY_LEN,VAR_0
+MSG_DEBUG,VAR_1
+eap_teap_write,FUNC_0
+os_snprintf,FUNC_1
+os_snprintf_error,FUNC_2
+wpa_printf,FUNC_3
+eap_teap_add_pac_data,FUNC_4
+pac,VAR_2
+buf,VAR_3
+pos,VAR_4
+buf_len,VAR_5
+ret,VAR_6

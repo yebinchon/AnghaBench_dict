@@ -1,0 +1,12 @@
+F_ADD_SEALS,VAR_0
+F_SEAL_SEAL,VAR_1
+F_SEAL_SHRINK,VAR_2
+MFD_ALLOW_SEALING,VAR_3
+MFD_CLOEXEC,VAR_4
+close,FUNC_0
+fcntl,FUNC_1
+memfd_create,FUNC_2
+posix_fallocate,FUNC_3
+allocate_memfd,FUNC_4
+size,VAR_5
+fd,VAR_6

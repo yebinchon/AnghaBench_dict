@@ -1,0 +1,12 @@
+SI476X_CTS,VAR_0
+SI476X_FM_RDS_INT,VAR_1
+SI476X_STC_INT,VAR_2
+atomic_set,FUNC_0
+dev_dbg,FUNC_1
+dev_err,FUNC_2
+si476x_core_get_status,FUNC_3
+si476x_core_start_rds_drainer_once,FUNC_4
+wake_up,FUNC_5
+si476x_core_get_and_signal_status,FUNC_6
+core,VAR_3
+status,VAR_4

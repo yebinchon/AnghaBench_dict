@@ -1,0 +1,11 @@
+KERN_DEBUG,VAR_0
+L2TP_HDRFLAG_S,VAR_1
+L2TP_HDR_VER,VAR_2
+PPPOL2TP_MSG_SEQ,VAR_3
+PRINTK,FUNC_0
+htons,FUNC_1
+pppol2tp_build_l2tp_header,FUNC_2
+session,VAR_4
+buf,VAR_5
+bufp,VAR_6
+flags,VAR_7

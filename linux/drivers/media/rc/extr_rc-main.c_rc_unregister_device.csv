@@ -1,0 +1,15 @@
+RC_DRIVER_IR_RAW,VAR_0
+RC_PROTO_BIT_CEC,VAR_1
+del_timer_sync,FUNC_0
+device_del,FUNC_1
+ida_simple_remove,FUNC_2
+ir_lirc_unregister,FUNC_3
+ir_raw_event_unregister,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+rc_free_device,FUNC_7
+rc_free_rx_device,FUNC_8
+rc_ida,VAR_2
+stub1,FUNC_9
+rc_unregister_device,FUNC_10
+dev,VAR_3

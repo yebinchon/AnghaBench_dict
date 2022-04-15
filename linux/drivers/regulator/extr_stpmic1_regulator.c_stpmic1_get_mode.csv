@@ -1,0 +1,9 @@
+REGULATOR_MODE_NORMAL,VAR_0
+REGULATOR_MODE_STANDBY,VAR_1
+STPMIC1_BUCK_MODE_LP,VAR_2
+rdev_get_regmap,FUNC_0
+regmap_read,FUNC_1
+stpmic1_get_mode,FUNC_2
+rdev,VAR_3
+value,VAR_4
+regmap,VAR_5

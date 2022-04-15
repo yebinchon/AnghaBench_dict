@@ -1,0 +1,11 @@
+ASSERT_VOP_ELOCKED,FUNC_0
+EXTATTR_NAMESPACE_SYSTEM,VAR_0
+IO_NODELOCKED,VAR_1
+printf,FUNC_1
+vn_extattr_set,FUNC_2
+nfsrv_setextattr,FUNC_3
+vp,VAR_2
+nap,VAR_3
+p,VAR_4
+dsattr,VAR_5
+error,VAR_6

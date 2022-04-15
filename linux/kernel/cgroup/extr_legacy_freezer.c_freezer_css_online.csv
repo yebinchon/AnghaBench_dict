@@ -1,0 +1,15 @@
+CGROUP_FREEZER_ONLINE,VAR_0
+CGROUP_FREEZING,VAR_1
+CGROUP_FREEZING_PARENT,VAR_2
+CGROUP_FROZEN,VAR_3
+atomic_inc,FUNC_0
+css_freezer,FUNC_1
+freezer_mutex,VAR_4
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+parent_freezer,FUNC_4
+system_freezing_cnt,VAR_5
+freezer_css_online,FUNC_5
+css,VAR_6
+freezer,VAR_7
+parent,VAR_8

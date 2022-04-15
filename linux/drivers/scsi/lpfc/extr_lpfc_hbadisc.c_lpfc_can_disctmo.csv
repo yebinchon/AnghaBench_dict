@@ -1,0 +1,15 @@
+FC_DISC_TMO,VAR_0
+KERN_INFO,VAR_1
+LOG_DISCOVERY,VAR_2
+LPFC_DISC_TRC_ELS_CMD,VAR_3
+WORKER_DISC_TMO,VAR_4
+del_timer_sync,FUNC_0
+lpfc_debugfs_disc_trc,FUNC_1
+lpfc_printf_vlog,FUNC_2
+lpfc_shost_from_vport,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+lpfc_can_disctmo,FUNC_6
+vport,VAR_5
+shost,VAR_6
+iflags,VAR_7

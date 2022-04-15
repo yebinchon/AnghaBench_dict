@@ -1,0 +1,16 @@
+USIE_IF_N_XFER,VAR_0
+USIE_UCOM_MAX,VAR_1
+USIE_UC_N_XFER,VAR_2
+bpfdetach,FUNC_0
+device_claim_softc,FUNC_1
+device_get_softc,FUNC_2
+if_detach,FUNC_3
+if_free,FUNC_4
+ucom_detach,FUNC_5
+usbd_transfer_unsetup,FUNC_6
+usie_free_softc,FUNC_7
+usie_if_stop,FUNC_8
+usie_detach,FUNC_9
+self,VAR_3
+sc,VAR_4
+x,VAR_5

@@ -1,0 +1,15 @@
+TASK_RUNNING,VAR_0
+TASK_UNINTERRUPTIBLE,VAR_1
+__set_current_state,FUNC_0
+current,VAR_2
+klist_del,FUNC_1
+klist_remove_lock,VAR_3
+klist_remove_waiters,VAR_4
+list_add,FUNC_2
+schedule,FUNC_3
+set_current_state,FUNC_4
+spin_lock,FUNC_5
+spin_unlock,FUNC_6
+klist_remove,FUNC_7
+n,VAR_5
+waiter,VAR_6

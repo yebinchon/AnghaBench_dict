@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+MMC_DATA_READ,VAR_2
+SDHCI_REQ_USE_DMA,VAR_3
+SDHCI_RESET_CMD,VAR_4
+SDHCI_RESET_DATA,VAR_5
+SDHCI_USE_ADMA,VAR_6
+dma_unmap_sg,FUNC_1
+mmc_dev,FUNC_2
+sdhci_adma_table_post,FUNC_3
+sdhci_reset,FUNC_4
+sdhci_send_command,FUNC_5
+tasklet_schedule,FUNC_6
+sdhci_finish_data,FUNC_7
+host,VAR_7
+data,VAR_8

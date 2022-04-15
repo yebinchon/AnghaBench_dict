@@ -1,0 +1,10 @@
+ESR_ELx_ISS_MASK,VAR_0
+ILL_ILLOPN,VAR_1
+SIGILL,VAR_2
+call_trapsignal,FUNC_0
+syscallenter,FUNC_1
+syscallret,FUNC_2
+userret,FUNC_3
+svc_handler,FUNC_4
+td,VAR_3
+frame,VAR_4

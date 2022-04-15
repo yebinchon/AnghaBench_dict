@@ -1,0 +1,7 @@
+BRCMSTB_WKTMR_ALARM,VAR_0
+BRCMSTB_WKTMR_PRESCALER,VAR_1
+brcmstb_waketmr_clear_alarm,FUNC_0
+writel_relaxed,FUNC_1
+brcmstb_waketmr_set_alarm,FUNC_2
+timer,VAR_2
+secs,VAR_3

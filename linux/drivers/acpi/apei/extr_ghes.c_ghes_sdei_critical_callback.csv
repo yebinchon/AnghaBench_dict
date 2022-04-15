@@ -1,0 +1,11 @@
+FIX_APEI_GHES_SDEI_CRITICAL,VAR_0
+__ghes_sdei_callback,FUNC_0
+raw_spin_lock,FUNC_1
+raw_spin_unlock,FUNC_2
+ghes_sdei_critical_callback,FUNC_3
+event_num,VAR_1
+regs,VAR_2
+arg,VAR_3
+ghes_notify_lock_sdei_critical,VAR_4
+ghes,VAR_5
+err,VAR_6

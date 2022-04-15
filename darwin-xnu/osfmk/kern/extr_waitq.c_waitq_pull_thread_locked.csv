@@ -1,0 +1,15 @@
+assert,FUNC_0
+assert_thread_magic,FUNC_1
+thread_clear_waitq_state,FUNC_2
+waitq_empty,FUNC_3
+waitq_get_safeq,FUNC_4
+waitq_irq_safe,FUNC_5
+waitq_is_global,FUNC_6
+waitq_lock_try,FUNC_7
+waitq_stats_count_clear_wakeup,FUNC_8
+waitq_thread_remove,FUNC_9
+waitq_unlock,FUNC_10
+waitq_pull_thread_locked,FUNC_11
+waitq,VAR_0
+thread,VAR_1
+safeq,VAR_2

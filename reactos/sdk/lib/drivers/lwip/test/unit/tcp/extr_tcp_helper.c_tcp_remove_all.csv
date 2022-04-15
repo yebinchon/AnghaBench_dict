@@ -1,0 +1,11 @@
+MEMP_PBUF_POOL,VAR_0
+MEMP_TCP_PCB,VAR_1
+MEMP_TCP_PCB_LISTEN,VAR_2
+MEMP_TCP_SEG,VAR_3
+fail_unless,FUNC_0
+lwip_stats,VAR_4
+tcp_active_pcbs,VAR_5
+tcp_listen_pcbs,VAR_6
+tcp_remove,FUNC_1
+tcp_tw_pcbs,VAR_7
+tcp_remove_all,FUNC_2

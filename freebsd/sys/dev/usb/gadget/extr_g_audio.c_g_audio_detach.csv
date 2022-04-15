@@ -1,0 +1,12 @@
+DPRINTF,FUNC_0
+G_AUDIO_N_TRANSFER,VAR_0
+device_get_softc,FUNC_1
+mtx_destroy,FUNC_2
+mtx_lock,FUNC_3
+mtx_unlock,FUNC_4
+usb_callout_drain,FUNC_5
+usb_callout_stop,FUNC_6
+usbd_transfer_unsetup,FUNC_7
+g_audio_detach,FUNC_8
+dev,VAR_1
+sc,VAR_2

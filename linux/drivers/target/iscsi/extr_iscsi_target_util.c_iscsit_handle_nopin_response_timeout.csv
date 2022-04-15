@@ -1,0 +1,16 @@
+ISCSI_TF_RUNNING,VAR_0
+ISCSI_TF_STOP,VAR_1
+conn,VAR_2
+from_timer,FUNC_0
+iscsit_cause_connection_reinstatement,FUNC_1
+iscsit_dec_conn_usage_count,FUNC_2
+iscsit_fill_cxn_timeout_err_stats,FUNC_3
+iscsit_inc_conn_usage_count,FUNC_4
+nopin_response_timer,VAR_3
+pr_err,FUNC_5
+spin_lock_bh,FUNC_6
+spin_unlock_bh,FUNC_7
+iscsit_handle_nopin_response_timeout,FUNC_8
+t,VAR_4
+conn,VAR_5
+sess,VAR_6

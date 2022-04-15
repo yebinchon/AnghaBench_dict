@@ -1,0 +1,10 @@
+DMA_FROM_DEVICE,VAR_0
+DMA_TO_DEVICE,VAR_1
+SKBDESC_DMA_MAPPED_RX,VAR_2
+SKBDESC_DMA_MAPPED_TX,VAR_3
+dma_unmap_single,FUNC_0
+get_skb_frame_desc,FUNC_1
+rt2x00queue_unmap_skb,FUNC_2
+entry,VAR_4
+dev,VAR_5
+skbdesc,VAR_6

@@ -1,0 +1,15 @@
+BIT,FUNC_0
+CLEAR_PERI_REG_MASK,FUNC_1
+GET_PERI_REG_BITS,FUNC_2
+GPIO_STRAP,VAR_0
+RTC,VAR_1
+SET_PERI_REG_MASK,FUNC_3
+_X_get_rst_cause,FUNC_4
+_X_uart_attach,FUNC_5
+_X_uart_init,FUNC_6
+boot_banner,VAR_2
+ets_printf,FUNC_7
+fw_build,VAR_3
+main,FUNC_8
+rst_cause,VAR_4
+boot_mode,VAR_5

@@ -1,0 +1,11 @@
+EIO,VAR_0
+MMA8452_STATUS,VAR_1
+MMA8452_STATUS_DRDY,VAR_2
+dev_err,FUNC_0
+i2c_smbus_read_byte_data,FUNC_1
+msleep,FUNC_2
+usleep_range,FUNC_3
+mma8452_drdy,FUNC_4
+data,VAR_3
+tries,VAR_4
+ret,VAR_5

@@ -1,0 +1,16 @@
+IFF_ALLMULTI,VAR_0
+IFF_PROMISC,VAR_1
+VLAN_FLAG_GVRP,VAR_2
+compare_ether_addr,FUNC_0
+dev_mc_unsync,FUNC_1
+dev_set_allmulti,FUNC_2
+dev_set_promiscuity,FUNC_3
+dev_unicast_delete,FUNC_4
+dev_unicast_unsync,FUNC_5
+netif_carrier_off,FUNC_6
+vlan_dev_info,FUNC_7
+vlan_gvrp_request_leave,FUNC_8
+vlan_dev_stop,FUNC_9
+dev,VAR_3
+vlan,VAR_4
+real_dev,VAR_5

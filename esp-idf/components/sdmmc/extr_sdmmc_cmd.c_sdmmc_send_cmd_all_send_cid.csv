@@ -1,0 +1,12 @@
+ESP_OK,VAR_0
+MMC_ALL_SEND_CID,VAR_1
+SCF_CMD_BCR,VAR_2
+SCF_RSP_R2,VAR_3
+assert,FUNC_0
+memcpy,FUNC_1
+sdmmc_send_cmd,FUNC_2
+sdmmc_send_cmd_all_send_cid,FUNC_3
+card,VAR_4
+out_raw_cid,VAR_5
+cmd,VAR_6
+err,VAR_7

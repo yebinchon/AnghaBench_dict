@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+XFS_DIR2_LEAF1_MAGIC,VAR_0
+XFS_DIR2_LEAFN_MAGIC,VAR_1
+XFS_DIR3_LEAF1_MAGIC,VAR_2
+XFS_DIR3_LEAFN_MAGIC,VAR_3
+cpu_to_be16,FUNC_1
+stub1,FUNC_2
+xfs_trans_log_buf,FUNC_3
+xfs_dir3_leaf_log_ents,FUNC_4
+args,VAR_4
+bp,VAR_5
+first,VAR_6
+last,VAR_7
+firstlep,VAR_8
+lastlep,VAR_9
+leaf,VAR_10
+ents,VAR_11

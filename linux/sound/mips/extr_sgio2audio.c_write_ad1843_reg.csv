@@ -1,0 +1,16 @@
+CODEC_CONTROL_ADDRESS_SHIFT,VAR_0
+CODEC_CONTROL_WORD_SHIFT,VAR_1
+mace,VAR_2
+readq,FUNC_0
+spin_lock_irqsave,FUNC_1
+spin_unlock_irqrestore,FUNC_2
+udelay,FUNC_3
+wmb,FUNC_4
+writeq,FUNC_5
+write_ad1843_reg,FUNC_6
+priv,VAR_3
+reg,VAR_4
+word,VAR_5
+chip,VAR_6
+val,VAR_7
+flags,VAR_8

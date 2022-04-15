@@ -1,0 +1,13 @@
+ADL_DL_FANCTRL_FLAG_USER_DEFINED_SPEED,VAR_0
+ADL_DL_FANCTRL_SPEED_TYPE_PERCENT,VAR_1
+CL_DEVICE_TYPE_GPU,VAR_2
+VENDOR_ID_AMD,VAR_3
+VENDOR_ID_NV,VAR_4
+hm_ADL_Overdrive5_FanSpeed_Get,FUNC_0
+memset,FUNC_1
+hm_get_fanpolicy_with_devices_idx,FUNC_2
+hashcat_ctx,VAR_5
+backend_device_idx,VAR_6
+hwmon_ctx,VAR_7
+backend_ctx,VAR_8
+lpFanSpeedValue,VAR_9

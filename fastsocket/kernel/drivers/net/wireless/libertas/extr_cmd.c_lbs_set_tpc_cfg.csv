@@ -1,0 +1,14 @@
+CMD_802_11_TPC_CFG,VAR_0
+CMD_ACT_SET,VAR_1
+cpu_to_le16,FUNC_0
+lbs_cmd_with_response,FUNC_1
+memset,FUNC_2
+lbs_set_tpc_cfg,FUNC_3
+priv,VAR_2
+enable,VAR_3
+p0,VAR_4
+p1,VAR_5
+p2,VAR_6
+usesnr,VAR_7
+cmd,VAR_8
+ret,VAR_9

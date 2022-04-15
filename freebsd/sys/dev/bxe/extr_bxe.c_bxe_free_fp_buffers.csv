@@ -1,0 +1,13 @@
+BLOGE,FUNC_0
+BXE_FP_TX_LOCK,FUNC_1
+BXE_FP_TX_UNLOCK,FUNC_2
+buf_ring_dequeue_sc,FUNC_3
+bxe_free_rx_bd_chain,FUNC_4
+bxe_free_sge_chain,FUNC_5
+bxe_free_tpa_pool,FUNC_6
+m_freem,FUNC_7
+mtx_initialized,FUNC_8
+bxe_free_fp_buffers,FUNC_9
+sc,VAR_0
+fp,VAR_1
+i,VAR_2

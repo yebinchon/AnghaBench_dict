@@ -1,0 +1,7 @@
+SD_EMMC_STATUS,VAR_0
+STATUS_BUSY,VAR_1
+STATUS_DESC_BUSY,VAR_2
+readl_poll_timeout,FUNC_0
+meson_mmc_wait_desc_stop,FUNC_1
+host,VAR_3
+status,VAR_4

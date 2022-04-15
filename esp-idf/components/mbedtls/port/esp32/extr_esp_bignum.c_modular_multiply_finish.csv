@@ -1,0 +1,16 @@
+MBEDTLS_MPI_CHK,FUNC_0
+RSA_MEM_X_BLOCK_BASE,VAR_0
+RSA_MEM_Z_BLOCK_BASE,VAR_1
+RSA_MULT_START_REG,VAR_2
+mbedtls_mpi_grow,FUNC_1
+mem_block_to_mpi,FUNC_2
+mpi_to_mem_block,FUNC_3
+start_op,FUNC_4
+wait_op_complete,FUNC_5
+modular_multiply_finish,FUNC_6
+Z,VAR_3
+X,VAR_4
+Y,VAR_5
+hw_words,VAR_6
+z_words,VAR_7
+ret,VAR_8

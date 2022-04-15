@@ -1,0 +1,11 @@
+HDA_CODEC_MUTE_MONO,FUNC_0
+HDA_INPUT,VAR_0
+MIC_BOOST_ENUM,VAR_1
+ca0132_alt_mic_boost_get,VAR_2
+ca0132_alt_mic_boost_info,VAR_3
+ca0132_alt_mic_boost_put,VAR_4
+snd_ctl_new1,FUNC_1
+snd_hda_ctl_add,FUNC_2
+ca0132_alt_add_mic_boost_enum,FUNC_3
+codec,VAR_5
+knew,VAR_6

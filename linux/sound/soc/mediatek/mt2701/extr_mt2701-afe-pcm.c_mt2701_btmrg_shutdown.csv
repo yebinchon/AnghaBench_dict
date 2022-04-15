@@ -1,0 +1,13 @@
+AFE_DAIBT_CON0,VAR_0
+AFE_DAIBT_CON0_DAIBT_EN,VAR_1
+AFE_MRGIF_CON,VAR_2
+AFE_MRGIF_CON_MRG_EN,VAR_3
+AFE_MRGIF_CON_MRG_I2S_EN,VAR_4
+mt2701_disable_btmrg_clk,FUNC_0
+regmap_update_bits,FUNC_1
+snd_soc_dai_get_drvdata,FUNC_2
+mt2701_btmrg_shutdown,FUNC_3
+substream,VAR_5
+dai,VAR_6
+afe,VAR_7
+afe_priv,VAR_8

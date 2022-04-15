@@ -1,0 +1,14 @@
+TRACE_PIPE_ALL_CPU,VAR_0
+cpumask_clear,FUNC_0
+cpumask_clear_cpu,FUNC_1
+free_cpumask_var,FUNC_2
+kfree,FUNC_3
+mutex_destroy,FUNC_4
+mutex_lock,FUNC_5
+mutex_unlock,FUNC_6
+trace_types_lock,VAR_1
+tracing_reader_cpumask,VAR_2
+tracing_release_pipe,FUNC_7
+inode,VAR_3
+file,VAR_4
+iter,VAR_5

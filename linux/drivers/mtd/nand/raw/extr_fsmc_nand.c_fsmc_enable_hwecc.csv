@@ -1,0 +1,10 @@
+FSMC_ECCEN,VAR_0
+FSMC_ECCPLEN_256,VAR_1
+FSMC_PC,VAR_2
+nand_to_fsmc,FUNC_0
+readl,FUNC_1
+writel_relaxed,FUNC_2
+fsmc_enable_hwecc,FUNC_3
+chip,VAR_3
+mode,VAR_4
+host,VAR_5

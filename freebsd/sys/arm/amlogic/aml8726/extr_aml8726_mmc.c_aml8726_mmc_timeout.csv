@@ -1,0 +1,10 @@
+AML_MMC_IRQ_STATUS_CMD_BUSY,VAR_0
+AML_MMC_IRQ_STATUS_REG,VAR_1
+CSR_READ_4,FUNC_0
+MMC_ERR_TIMEOUT,VAR_2
+aml8726_mmc_finish_command,FUNC_1
+aml8726_mmc_soft_reset,FUNC_2
+cpu_spinwait,FUNC_3
+aml8726_mmc_timeout,FUNC_4
+arg,VAR_3
+sc,VAR_4

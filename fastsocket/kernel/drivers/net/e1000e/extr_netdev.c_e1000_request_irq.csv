@@ -1,0 +1,15 @@
+E1000E_INT_MODE_LEGACY,VAR_0
+E1000E_INT_MODE_MSI,VAR_1
+FLAG_MSI_ENABLED,VAR_2
+IRQF_SHARED,VAR_3
+e1000_intr,VAR_4
+e1000_intr_msi,VAR_5
+e1000_request_msix,FUNC_0
+e1000e_reset_interrupt_capability,FUNC_1
+e1000e_set_interrupt_capability,FUNC_2
+e_err,FUNC_3
+request_irq,FUNC_4
+e1000_request_irq,FUNC_5
+adapter,VAR_6
+netdev,VAR_7
+err,VAR_8

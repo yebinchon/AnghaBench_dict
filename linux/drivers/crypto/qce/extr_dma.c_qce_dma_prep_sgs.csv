@@ -1,0 +1,17 @@
+DMA_CTRL_ACK,VAR_0
+DMA_DEV_TO_MEM,VAR_1
+DMA_MEM_TO_DEV,VAR_2
+DMA_PREP_INTERRUPT,VAR_3
+qce_dma_prep_sg,FUNC_0
+qce_dma_prep_sgs,FUNC_1
+dma,VAR_4
+rx_sg,VAR_5
+rx_nents,VAR_6
+tx_sg,VAR_7
+tx_nents,VAR_8
+cb,VAR_9
+cb_param,VAR_10
+rxchan,VAR_11
+txchan,VAR_12
+flags,VAR_13
+ret,VAR_14

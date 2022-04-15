@@ -1,0 +1,16 @@
+IOP13XX_XBG_BECSR,VAR_0
+PCIBIOS_SUCCESSFUL,VAR_1
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+iop13xx_atux_cfg_address,FUNC_2
+iop13xx_atux_pci_status,FUNC_3
+iop13xx_atux_read,FUNC_4
+is_atux_occdr_error,FUNC_5
+iop13xx_atux_read_config,FUNC_6
+bus,VAR_2
+devfn,VAR_3
+where,VAR_4
+size,VAR_5
+value,VAR_6
+addr,VAR_7
+val,VAR_8

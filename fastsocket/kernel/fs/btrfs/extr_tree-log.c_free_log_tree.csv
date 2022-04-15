@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+EXTENT_DIRTY,VAR_0
+EXTENT_NEW,VAR_1
+GFP_NOFS,VAR_2
+clear_extent_bits,FUNC_1
+find_first_extent_bit,FUNC_2
+free_extent_buffer,FUNC_3
+kfree,FUNC_4
+process_one_buffer,VAR_3
+walk_log_tree,FUNC_5
+free_log_tree,FUNC_6
+trans,VAR_4
+log,VAR_5
+ret,VAR_6
+start,VAR_7
+end,VAR_8
+wc,VAR_9

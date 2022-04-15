@@ -1,0 +1,15 @@
+MPU_BA_I,FUNC_0
+MPU_DI,FUNC_1
+MPU_HALT,FUNC_2
+REG_WR,FUNC_3
+REG_WR_INT,FUNC_4
+iop_mpu,VAR_0
+regi_iop_mpu,VAR_1
+regk_iop_mpu_yes,VAR_2
+rw_ctrl,VAR_3
+rw_instr,VAR_4
+wait_mpu_idle,FUNC_5
+iop_start_mpu,FUNC_6
+start_addr,VAR_5
+mpu_ctrl,VAR_6
+retval,VAR_7

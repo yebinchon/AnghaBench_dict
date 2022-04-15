@@ -1,0 +1,12 @@
+BA0_ASER_FADDR,VAR_0
+DSP_SPDIF_STATUS_HW_ENABLED,VAR_1
+SP_SPDOUT_CONTROL,VAR_2
+SP_SPDOUT_CSUV,VAR_3
+SP_SPDOUT_FIFO,VAR_4
+cs46xx_dsp_disable_spdif_hw,FUNC_0
+cs46xx_poke_via_dsp,FUNC_1
+snd_cs46xx_pokeBA0,FUNC_2
+udelay,FUNC_3
+cs46xx_dsp_enable_spdif_hw,FUNC_4
+chip,VAR_5
+ins,VAR_6

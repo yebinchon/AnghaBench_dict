@@ -1,0 +1,15 @@
+PIPE_GARBAGE_QUEUE_LIMIT,VAR_0
+lck_attr_alloc_init,FUNC_0
+lck_grp_alloc_init,FUNC_1
+lck_grp_attr_alloc_init,FUNC_2
+lck_mtx_alloc_init,FUNC_3
+nbigpipe,VAR_1
+pipe_garbage_lock,VAR_2
+pipe_garbage_zone,VAR_3
+pipe_mtx_attr,VAR_4
+pipe_mtx_grp,VAR_5
+pipe_mtx_grp_attr,VAR_6
+pipe_zone,VAR_7
+zinit,FUNC_4
+pipeinit,FUNC_5
+zone_size,VAR_8

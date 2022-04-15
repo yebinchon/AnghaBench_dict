@@ -1,0 +1,13 @@
+RAL_READ_MAC,VAR_0
+USETW,FUNC_0
+UT_READ_VENDOR_DEVICE,VAR_1
+device_printf,FUNC_1
+le16toh,FUNC_2
+ural_do_request,FUNC_3
+usbd_errstr,FUNC_4
+ural_read,FUNC_5
+sc,VAR_2
+reg,VAR_3
+req,VAR_4
+error,VAR_5
+val,VAR_6

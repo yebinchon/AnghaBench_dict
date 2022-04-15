@@ -1,0 +1,17 @@
+IS_ERR,FUNC_0
+KEY_ALLOC_IN_QUOTA,VAR_0
+KEY_ALLOC_QUOTA_OVERRUN,VAR_1
+PTR_ERR,FUNC_1
+atomic_inc,FUNC_2
+key_put,FUNC_3
+keyring_alloc,FUNC_4
+might_sleep,FUNC_5
+rcu_assign_pointer,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+synchronize_rcu,FUNC_9
+install_session_keyring_to_cred,FUNC_10
+cred,VAR_2
+keyring,VAR_3
+flags,VAR_4
+old,VAR_5

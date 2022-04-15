@@ -1,0 +1,10 @@
+BIT_ULL,FUNC_0
+OCTEON_MBOX_REQUEST,VAR_0
+OCTEON_PF_CHANGED_VF_MACADDR,VAR_1
+ether_addr_copy,FUNC_1
+octeon_mbox_write,FUNC_2
+cn23xx_tell_vf_its_macaddr_changed,FUNC_3
+oct,VAR_2
+vfidx,VAR_3
+mac,VAR_4
+mbox_cmd,VAR_5

@@ -1,0 +1,16 @@
+HC_IS_RUNNING,FUNC_0
+dbg_status,FUNC_1
+del_timer_sync,FUNC_2
+ehci_mem_cleanup,FUNC_3
+ehci_port_power,FUNC_4
+ehci_quiesce,FUNC_5
+ehci_reset,FUNC_6
+ehci_work,FUNC_7
+hcd_to_oxu,FUNC_8
+readl,FUNC_9
+spin_lock_irq,FUNC_10
+spin_unlock_irq,FUNC_11
+writel,FUNC_12
+oxu_stop,FUNC_13
+hcd,VAR_0
+oxu,VAR_1

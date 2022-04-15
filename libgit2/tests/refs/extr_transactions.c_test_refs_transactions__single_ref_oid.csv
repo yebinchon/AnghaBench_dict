@@ -1,0 +1,15 @@
+cl_assert,FUNC_0
+cl_git_pass,FUNC_1
+g_repo,VAR_0
+g_tx,VAR_1
+git_oid_cmp,FUNC_2
+git_oid_fromstr,FUNC_3
+git_reference_free,FUNC_4
+git_reference_lookup,FUNC_5
+git_reference_target,FUNC_6
+git_transaction_commit,FUNC_7
+git_transaction_lock_ref,FUNC_8
+git_transaction_set_target,FUNC_9
+test_refs_transactions__single_ref_oid,FUNC_10
+ref,VAR_2
+id,VAR_3

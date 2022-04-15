@@ -1,0 +1,14 @@
+GSMI_CALLBACK,VAR_0
+GSMI_CMD_CLEAR_CONFIG,VAR_1
+gsmi_dev,VAR_2
+gsmi_exec,FUNC_0
+memset,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+gsmi_clear_config_store,FUNC_4
+kobj,VAR_3
+attr,VAR_4
+buf,VAR_5
+count,VAR_6
+rc,VAR_7
+flags,VAR_8

@@ -1,0 +1,12 @@
+MEDIA_REQUEST_STATE_COMPLETE,VAR_0
+MEDIA_REQUEST_STATE_QUEUED,VAR_1
+WARN_ON,FUNC_0
+media_request_put,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+wake_up_interruptible_all,FUNC_4
+media_request_object_complete,FUNC_5
+obj,VAR_2
+req,VAR_3
+flags,VAR_4
+completed,VAR_5

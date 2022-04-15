@@ -1,0 +1,15 @@
+H_BUSY,VAR_0
+H_ENABLE_CRQ,VAR_1
+H_IN_PROGRESS,VAR_2
+H_IS_LONG_BUSY,FUNC_0
+dev_err,FUNC_1
+dev_get_drvdata,FUNC_2
+ibmvtpm_crq_send_init,FUNC_3
+msleep,FUNC_4
+plpar_hcall_norets,FUNC_5
+vio_enable_interrupts,FUNC_6
+tpm_ibmvtpm_resume,FUNC_7
+dev,VAR_3
+chip,VAR_4
+ibmvtpm,VAR_5
+rc,VAR_6

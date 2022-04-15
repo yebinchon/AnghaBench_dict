@@ -1,0 +1,11 @@
+DDCM_SIF_MODE_MASK,VAR_0
+DDCM_SIF_MODE_OFFSET,VAR_1
+DDCM_TRI,VAR_2
+DDC_DDCMCTL1,VAR_3
+readl_poll_timeout,FUNC_0
+sif_set_bit,FUNC_1
+sif_write_mask,FUNC_2
+ddcm_trigger_mode,FUNC_3
+ddc,VAR_4
+mode,VAR_5
+val,VAR_6

@@ -1,0 +1,12 @@
+DMA_CHANNELS,VAR_0
+dim_lock,VAR_1
+dim_service_channel,FUNC_0
+service_done_flag,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+try_start_dim_transfer,FUNC_4
+dim2_tasklet_fn,FUNC_5
+data,VAR_2
+dev,VAR_3
+flags,VAR_4
+ch_idx,VAR_5

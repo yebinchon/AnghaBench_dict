@@ -1,0 +1,16 @@
+crypto_cipher_blocksize,FUNC_0
+crypto_ctr_crypt_final,FUNC_1
+crypto_ctr_crypt_inplace,FUNC_2
+crypto_ctr_crypt_segment,FUNC_3
+crypto_skcipher_reqtfm,FUNC_4
+skcipher_cipher_simple,FUNC_5
+skcipher_walk_done,FUNC_6
+skcipher_walk_virt,FUNC_7
+crypto_ctr_crypt,FUNC_8
+req,VAR_0
+tfm,VAR_1
+cipher,VAR_2
+bsize,VAR_3
+walk,VAR_4
+nbytes,VAR_5
+err,VAR_6

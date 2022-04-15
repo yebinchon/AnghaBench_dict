@@ -1,0 +1,15 @@
+MANAGER_BUS_BUSY_THRESHOLD,VAR_0
+MANAGER_BUS_MESSAGE_BUDGET,VAR_1
+MANAGER_IS_RELOADING,FUNC_0
+assert,FUNC_1
+bus_job_send_change_signal,FUNC_2
+bus_manager_send_reloading,FUNC_3
+bus_send_pending_reload_message,FUNC_4
+bus_unit_send_change_signal,FUNC_5
+manager_bus_n_queued_write,FUNC_6
+manager_dispatch_dbus_queue,FUNC_7
+m,VAR_2
+n,VAR_3
+budget,VAR_4
+u,VAR_5
+j,VAR_6

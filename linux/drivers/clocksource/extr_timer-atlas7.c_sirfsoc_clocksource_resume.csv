@@ -1,0 +1,13 @@
+BIT,FUNC_0
+SIRFSOC_TIMER_64COUNTER_CTRL,VAR_0
+SIRFSOC_TIMER_64COUNTER_LOAD_HI,VAR_1
+SIRFSOC_TIMER_64COUNTER_LOAD_LO,VAR_2
+SIRFSOC_TIMER_REG_CNT,VAR_3
+readl_relaxed,FUNC_1
+sirfsoc_timer_base,VAR_4
+sirfsoc_timer_reg_list,VAR_5
+sirfsoc_timer_reg_val,VAR_6
+writel_relaxed,FUNC_2
+sirfsoc_clocksource_resume,FUNC_3
+cs,VAR_7
+i,VAR_8

@@ -1,0 +1,16 @@
+ACPI_SIG_SPCR,VAR_0
+ARM64_BUS_ACPI,VAR_1
+ARM64_BUS_FDT,VAR_2
+ARM64_BUS_NONE,VAR_3
+OF_peer,FUNC_0
+acpi_find_table,FUNC_1
+arm64_bus_method,VAR_4
+freeenv,FUNC_2
+kern_getenv,FUNC_3
+strchr,FUNC_4
+strncmp,FUNC_5
+bus_probe,FUNC_6
+has_acpi,VAR_5
+has_fdt,VAR_6
+order,VAR_7
+env,VAR_8

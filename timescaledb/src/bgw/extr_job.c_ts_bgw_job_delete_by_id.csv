@@ -1,0 +1,9 @@
+Anum_bgw_job_pkey_idx_id,VAR_0
+BTEqualStrategyNumber,VAR_1
+F_INT4EQ,VAR_2
+Int32GetDatum,FUNC_0
+ScanKeyInit,FUNC_1
+bgw_job_delete_scan,FUNC_2
+ts_bgw_job_delete_by_id,FUNC_3
+job_id,VAR_3
+scankey,VAR_4

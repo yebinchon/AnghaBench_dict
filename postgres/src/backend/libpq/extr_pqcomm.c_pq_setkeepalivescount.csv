@@ -1,0 +1,12 @@
+IPPROTO_TCP,VAR_0
+IS_AF_UNIX,FUNC_0
+LOG,VAR_1
+STATUS_ERROR,VAR_2
+STATUS_OK,VAR_3
+TCP_KEEPCNT,VAR_4
+elog,FUNC_1
+pq_getkeepalivescount,FUNC_2
+setsockopt,FUNC_3
+pq_setkeepalivescount,FUNC_4
+count,VAR_5
+port,VAR_6

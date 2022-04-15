@@ -1,0 +1,8 @@
+add_atomic_switch_msr,FUNC_0
+clear_atomic_switch_msr,FUNC_1
+perf_guest_get_msrs,FUNC_2
+atomic_switch_perf_msrs,FUNC_3
+vmx,VAR_0
+i,VAR_1
+nr_msrs,VAR_2
+msrs,VAR_3

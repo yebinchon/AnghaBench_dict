@@ -1,0 +1,10 @@
+ATA_EH_FASTDRAIN_INTERVAL,VAR_0
+ATA_PFLAG_EH_PENDING,VAR_1
+add_timer,FUNC_0
+ata_deadline,FUNC_1
+ata_eh_nr_in_flight,FUNC_2
+jiffies,VAR_2
+ata_eh_set_pending,FUNC_3
+ap,VAR_3
+fastdrain,VAR_4
+cnt,VAR_5

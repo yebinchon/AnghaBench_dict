@@ -1,0 +1,13 @@
+GAMUT_REMAP_BYPASS,VAR_0
+GAMUT_REMAP_COEFF,VAR_1
+GRAPHICS_GAMUT_ADJUST_TYPE_SW,VAR_2
+TO_DCN10_DPP,FUNC_0
+convert_float_matrix,FUNC_1
+program_gamut_remap,FUNC_2
+dpp1_cm_set_gamut_remap,FUNC_3
+dpp_base,VAR_3
+adjust,VAR_4
+dpp,VAR_5
+i,VAR_6
+arr_matrix,VAR_7
+arr_reg_val,VAR_8

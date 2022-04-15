@@ -1,0 +1,9 @@
+lua_pushnil,FUNC_0
+lua_ucl_parser_get,FUNC_1
+lua_ucl_push_opaque,FUNC_2
+ucl_parser_get_object,FUNC_3
+lua_ucl_parser_get_object_wrapped,FUNC_4
+L,VAR_0
+parser,VAR_1
+obj,VAR_2
+ret,VAR_3

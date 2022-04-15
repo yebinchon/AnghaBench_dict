@@ -1,0 +1,12 @@
+CKSEG1ADDR,FUNC_0
+KN01_CSR,VAR_0
+KN01_CSR_MEMERR,VAR_1
+KN01_SLOT_BASE,VAR_2
+cached_kn01_csr,VAR_3
+iob,FUNC_1
+kn01_lock,VAR_4
+raw_spin_lock_irqsave,FUNC_2
+raw_spin_unlock_irqrestore,FUNC_3
+dec_kn01_be_ack,FUNC_4
+csr,VAR_5
+flags,VAR_6

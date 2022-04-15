@@ -1,0 +1,11 @@
+FALSE,VAR_0
+SCI_BASE_REQUEST_STATE_COMPLETED,VAR_1
+SET_STATE_HANDLER,FUNC_0
+scic_cb_io_request_complete,FUNC_1
+scic_cb_task_request_complete,FUNC_2
+scic_sds_request_get_controller,FUNC_3
+scic_sds_request_get_device,FUNC_4
+scic_sds_request_state_handler_table,VAR_2
+scic_sds_request_completed_state_enter,FUNC_5
+object,VAR_3
+this_request,VAR_4

@@ -1,0 +1,15 @@
+AGP_NVIDIA_0_APSIZE,VAR_0
+AGP_NVIDIA_2_GARTCTRL,VAR_1
+AGP_SET_APERTURE,FUNC_0
+agp_free_cdev,FUNC_1
+agp_free_gatt,FUNC_2
+agp_free_res,FUNC_3
+device_get_softc,FUNC_4
+nvidia_init_iorr,FUNC_5
+pci_read_config,FUNC_6
+pci_write_config,FUNC_7
+rman_get_start,FUNC_8
+agp_nvidia_detach,FUNC_9
+dev,VAR_2
+sc,VAR_3
+temp,VAR_4

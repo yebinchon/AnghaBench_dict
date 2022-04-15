@@ -1,0 +1,12 @@
+__nf_conntrack_helper_find,FUNC_0
+module_put,FUNC_1
+rcu_read_lock,FUNC_2
+rcu_read_unlock,FUNC_3
+refcount_inc_not_zero,FUNC_4
+request_module,FUNC_5
+try_module_get,FUNC_6
+nf_conntrack_helper_try_module_get,FUNC_7
+name,VAR_0
+l3num,VAR_1
+protonum,VAR_2
+h,VAR_3

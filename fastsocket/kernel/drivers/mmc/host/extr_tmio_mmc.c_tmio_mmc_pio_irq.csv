@@ -1,0 +1,14 @@
+CTL_SD_DATA_PORT,VAR_0
+MMC_DATA_READ,VAR_1
+pr_debug,FUNC_0
+sd_ctrl_read16_rep,FUNC_1
+sd_ctrl_write16_rep,FUNC_2
+tmio_mmc_kmap_atomic,FUNC_3
+tmio_mmc_kunmap_atomic,FUNC_4
+tmio_mmc_next_sg,FUNC_5
+tmio_mmc_pio_irq,FUNC_6
+host,VAR_2
+data,VAR_3
+buf,VAR_4
+count,VAR_5
+flags,VAR_6

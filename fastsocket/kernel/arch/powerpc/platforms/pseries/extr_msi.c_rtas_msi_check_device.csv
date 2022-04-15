@@ -1,0 +1,10 @@
+PCI_CAP_ID_MSIX,VAR_0
+check_req_msi,FUNC_0
+check_req_msix,FUNC_1
+msi_quota_for_device,FUNC_2
+rtas_msi_check_device,FUNC_3
+pdev,VAR_1
+nvec,VAR_2
+type,VAR_3
+quota,VAR_4
+rc,VAR_5

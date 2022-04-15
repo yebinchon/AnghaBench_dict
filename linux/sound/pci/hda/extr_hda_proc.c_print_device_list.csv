@@ -1,0 +1,16 @@
+AC_DE_ELDV,VAR_0
+AC_DE_IA,VAR_1
+AC_DE_PD,VAR_2
+AC_MAX_DEV_LIST_LEN,VAR_3
+AC_VERB_GET_DEVICE_SEL,VAR_4
+snd_hda_codec_read,FUNC_0
+snd_hda_get_devices,FUNC_1
+snd_iprintf,FUNC_2
+print_device_list,FUNC_3
+buffer,VAR_5
+codec,VAR_6
+nid,VAR_7
+i,VAR_8
+curr,VAR_9
+dev_list,VAR_10
+devlist_len,VAR_11

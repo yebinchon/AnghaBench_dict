@@ -1,0 +1,14 @@
+APIC_DM_INIT,VAR_0
+APIC_DM_STARTUP,VAR_1
+UVH_IPI_INT,VAR_2
+UVH_IPI_INT_APIC_ID_SHFT,VAR_3
+UVH_IPI_INT_SEND_SHFT,VAR_4
+UVH_IPI_INT_VECTOR_SHFT,VAR_5
+uv_apicid_hibits,VAR_6
+uv_apicid_to_pnode,FUNC_0
+uv_write_global_mmr64,FUNC_1
+uv_wakeup_secondary,FUNC_2
+phys_apicid,VAR_7
+start_rip,VAR_8
+val,VAR_9
+pnode,VAR_10

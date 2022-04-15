@@ -1,0 +1,17 @@
+PGDIR_MASK,VAR_0
+PGDIR_SIZE,VAR_1
+PMD_MASK,VAR_2
+PMD_SIZE,VAR_3
+pgd_ERROR,FUNC_0
+pgd_bad,FUNC_1
+pgd_clear,FUNC_2
+pgd_none,FUNC_3
+pmd_offset,FUNC_4
+unmap_uncached_pte,FUNC_5
+unmap_uncached_pmd,FUNC_6
+dir,VAR_4
+vaddr,VAR_5
+size,VAR_6
+pmd,VAR_7
+end,VAR_8
+orig_vaddr,VAR_9

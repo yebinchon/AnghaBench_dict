@@ -1,0 +1,15 @@
+BUF_PAGE_SIZE,VAR_0
+RB_EVNT_HDR_SIZE,VAR_1
+RB_EVNT_MIN_SIZE,VAR_2
+RINGBUF_TYPE_PADDING,VAR_3
+__rb_page_index,FUNC_0
+local_add,FUNC_1
+local_sub,FUNC_2
+rb_event_set_padding,FUNC_3
+rb_reset_tail,FUNC_4
+cpu_buffer,VAR_4
+tail,VAR_5
+info,VAR_6
+tail_page,VAR_7
+event,VAR_8
+length,VAR_9

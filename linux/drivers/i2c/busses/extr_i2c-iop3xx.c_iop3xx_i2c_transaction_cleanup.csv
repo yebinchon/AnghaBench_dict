@@ -1,0 +1,10 @@
+CR_OFFSET,VAR_0
+IOP3XX_ICR_MSTART,VAR_1
+IOP3XX_ICR_MSTOP,VAR_2
+IOP3XX_ICR_SCLEN,VAR_3
+IOP3XX_ICR_TBYTE,VAR_4
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+iop3xx_i2c_transaction_cleanup,FUNC_2
+iop3xx_adap,VAR_5
+cr,VAR_6

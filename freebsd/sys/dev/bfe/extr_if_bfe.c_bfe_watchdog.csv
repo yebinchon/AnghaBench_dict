@@ -1,0 +1,11 @@
+BFE_LOCK_ASSERT,FUNC_0
+IFCOUNTER_OERRORS,VAR_0
+IFF_DRV_RUNNING,VAR_1
+IFQ_DRV_IS_EMPTY,FUNC_1
+bfe_init_locked,FUNC_2
+bfe_start_locked,FUNC_3
+device_printf,FUNC_4
+if_inc_counter,FUNC_5
+bfe_watchdog,FUNC_6
+sc,VAR_2
+ifp,VAR_3

@@ -1,0 +1,16 @@
+MAC_PORT_INT_CAUSE_A,VAR_0
+PORT_REG,FUNC_0
+RXFIFO_PRTY_ERR_F,VAR_1
+T5_PORT_REG,FUNC_1
+TXFIFO_PRTY_ERR_F,VAR_2
+XGMAC_PORT_INT_CAUSE_A,VAR_3
+dev_alert,FUNC_2
+is_t4,FUNC_3
+t4_fatal_err,FUNC_4
+t4_read_reg,FUNC_5
+t4_write_reg,FUNC_6
+xgmac_intr_handler,FUNC_7
+adap,VAR_4
+port,VAR_5
+v,VAR_6
+int_cause_reg,VAR_7

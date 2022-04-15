@@ -1,0 +1,16 @@
+ADVERTISED_1000baseT_Full,VAR_0
+ADVERTISED_Autoneg,VAR_1
+ADVERTISED_FIBRE,VAR_2
+AUTONEG_ENABLE,VAR_3
+DUPLEX_FULL,VAR_4
+PORT_FIBRE,VAR_5
+SPEED_1000,VAR_6
+SUPPORTED_1000baseT_Full,VAR_7
+SUPPORTED_Autoneg,VAR_8
+SUPPORTED_FIBRE,VAR_9
+ethtool_convert_legacy_u32_to_link_mode,FUNC_0
+netdev_get_link_ksettings,FUNC_1
+dev,VAR_10
+cmd,VAR_11
+supported,VAR_12
+advertising,VAR_13

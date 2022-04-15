@@ -1,0 +1,13 @@
+REQUIRED_BOND_STATES,VAR_0
+is_eth_active_slave_of_bonding_rcu,FUNC_0
+rcu_read_lock,FUNC_1
+rcu_read_unlock,FUNC_2
+rdma_is_upper_dev_rcu,FUNC_3
+rdma_vlan_dev_real_dev,FUNC_4
+is_eth_port_of_netdev_filter,FUNC_5
+ib_dev,VAR_1
+port,VAR_2
+rdma_ndev,VAR_3
+cookie,VAR_4
+real_dev,VAR_5
+res,VAR_6

@@ -1,0 +1,13 @@
+ATA_PERIODIC_POLL,VAR_0
+ATA_SATA,VAR_1
+ATA_SERROR,VAR_2
+ENXIO,VAR_3
+ata_pci_ch_attach,FUNC_0
+ata_sata_scr_write,FUNC_1
+ata_via_sata_scr_read,VAR_4
+ata_via_sata_scr_write,VAR_5
+ata_via_sata_status,VAR_6
+device_get_softc,FUNC_2
+ata_via_sata_ch_attach,FUNC_3
+dev,VAR_7
+ch,VAR_8

@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+XFS_SCRUB_OFLAG_CORRUPT,VAR_0
+type_to_health_flag,VAR_1
+xfs_ag_mark_healthy,FUNC_1
+xfs_ag_mark_sick,FUNC_2
+xfs_fs_mark_healthy,FUNC_3
+xfs_fs_mark_sick,FUNC_4
+xfs_inode_mark_healthy,FUNC_5
+xfs_inode_mark_sick,FUNC_6
+xfs_perag_get,FUNC_7
+xfs_perag_put,FUNC_8
+xfs_rt_mark_healthy,FUNC_9
+xfs_rt_mark_sick,FUNC_10
+xchk_update_health,FUNC_11
+sc,VAR_2
+pag,VAR_3
+bad,VAR_4

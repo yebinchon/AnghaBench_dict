@@ -1,0 +1,14 @@
+PF_RANDOMIZE,VAR_0
+TASK_UNMAPPED_BASE,VAR_1
+arch_get_unmapped_area,VAR_2
+arch_get_unmapped_area_topdown,VAR_3
+arch_mmap_rnd,FUNC_0
+current,VAR_4
+mmap_base,FUNC_1
+mmap_is_legacy,FUNC_2
+radix__arch_pick_mmap_layout,FUNC_3
+radix_enabled,FUNC_4
+arch_pick_mmap_layout,FUNC_5
+mm,VAR_5
+rlim_stack,VAR_6
+random_factor,VAR_7

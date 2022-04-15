@@ -1,0 +1,15 @@
+TEST_CHECK,FUNC_0
+cf_hmac_drbg_gen_additional,FUNC_1
+cf_hmac_drbg_init,FUNC_2
+cf_hmac_drbg_reseed,FUNC_3
+cf_sha1,VAR_0
+memcmp,FUNC_4
+unhex,FUNC_5
+test_hmacdrbg_sha1_vector_addnl,FUNC_6
+entropy,VAR_1
+nonce,VAR_2
+reseed,VAR_3
+got,VAR_4
+expect,VAR_5
+addnl,VAR_6
+ctx,VAR_7

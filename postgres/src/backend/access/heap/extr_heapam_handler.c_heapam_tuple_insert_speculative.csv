@@ -1,0 +1,16 @@
+ExecFetchSlotHeapTuple,FUNC_0
+HEAP_INSERT_SPECULATIVE,VAR_0
+HeapTupleHeaderSetSpeculativeToken,FUNC_1
+ItemPointerCopy,FUNC_2
+RelationGetRelid,FUNC_3
+heap_insert,FUNC_4
+pfree,FUNC_5
+heapam_tuple_insert_speculative,FUNC_6
+relation,VAR_1
+slot,VAR_2
+cid,VAR_3
+options,VAR_4
+bistate,VAR_5
+specToken,VAR_6
+shouldFree,VAR_7
+tuple,VAR_8

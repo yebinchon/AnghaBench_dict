@@ -1,0 +1,16 @@
+TEA6330T_SADDR_VOLUME_LEFT,VAR_0
+TEA6330T_SADDR_VOLUME_RIGHT,VAR_1
+snd_i2c_lock,FUNC_0
+snd_i2c_sendbytes,FUNC_1
+snd_i2c_unlock,FUNC_2
+snd_kcontrol_chip,FUNC_3
+snd_tea6330t_put_master_volume,FUNC_4
+kcontrol,VAR_2
+ucontrol,VAR_3
+tea,VAR_4
+change,VAR_5
+count,VAR_6
+err,VAR_7
+bytes,VAR_8
+val1,VAR_9
+val2,VAR_10

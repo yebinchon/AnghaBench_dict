@@ -1,0 +1,13 @@
+scsi_eh_wakeup,FUNC_0
+scsi_host_in_recovery,FUNC_1
+scsi_target,FUNC_2
+spin_lock,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock,FUNC_5
+spin_unlock_irqrestore,FUNC_6
+unlikely,FUNC_7
+scsi_device_unbusy,FUNC_8
+sdev,VAR_0
+shost,VAR_1
+starget,VAR_2
+flags,VAR_3

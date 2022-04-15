@@ -1,0 +1,17 @@
+BLK_STS_DEV_RESOURCE,VAR_0
+BLK_STS_IOERR,VAR_1
+BLK_STS_OK,VAR_2
+VIO_DRIVER_TX_RING,VAR_3
+__send_request,FUNC_0
+blk_mq_start_request,FUNC_1
+blk_mq_stop_hw_queue,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+unlikely,FUNC_5
+vdc_tx_dring_avail,FUNC_6
+vdc_queue_rq,FUNC_7
+hctx,VAR_4
+bd,VAR_5
+port,VAR_6
+dr,VAR_7
+flags,VAR_8

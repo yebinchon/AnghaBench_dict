@@ -1,0 +1,12 @@
+ATF_CHECK_MSG,FUNC_0
+FD_CLOEXEC,VAR_0
+F_GETFD,VAR_1
+errno,VAR_2
+fcntl,FUNC_1
+fileno,FUNC_2
+strchr,FUNC_3
+check_cloexec,FUNC_4
+fp,VAR_3
+mode,VAR_4
+exp_flags,VAR_5
+flags,VAR_6

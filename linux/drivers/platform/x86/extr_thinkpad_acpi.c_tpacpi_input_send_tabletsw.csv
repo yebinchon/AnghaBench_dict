@@ -1,0 +1,11 @@
+SW_TABLET_MODE,VAR_0
+hotkey_get_tablet_mode,FUNC_0
+input_report_switch,FUNC_1
+input_sync,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+tp_features,VAR_1
+tpacpi_inputdev,VAR_2
+tpacpi_inputdev_send_mutex,VAR_3
+tpacpi_input_send_tabletsw,FUNC_5
+state,VAR_4

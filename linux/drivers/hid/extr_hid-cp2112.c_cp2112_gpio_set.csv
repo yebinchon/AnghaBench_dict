@@ -1,0 +1,17 @@
+CP2112_GPIO_SET,VAR_0
+CP2112_GPIO_SET_LENGTH,VAR_1
+HID_FEATURE_REPORT,VAR_2
+HID_REQ_SET_REPORT,VAR_3
+gpiochip_get_data,FUNC_0
+hid_err,FUNC_1
+hid_hw_raw_request,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+cp2112_gpio_set,FUNC_5
+chip,VAR_4
+offset,VAR_5
+value,VAR_6
+dev,VAR_7
+hdev,VAR_8
+buf,VAR_9
+ret,VAR_10

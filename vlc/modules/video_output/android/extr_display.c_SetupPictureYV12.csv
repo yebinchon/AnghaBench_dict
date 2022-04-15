@@ -1,0 +1,14 @@
+ALIGN_16_PIXELS,FUNC_0
+VLC_CODEC_YV12,VAR_0
+memset,FUNC_1
+picture_SwapUV,FUNC_2
+vlc_fourcc_AreUVPlanesSwapped,FUNC_3
+SetupPictureYV12,FUNC_4
+p_picture,VAR_1
+i_in_stride,VAR_2
+i_stride,VAR_3
+i_c_stride,VAR_4
+n,VAR_5
+o,VAR_6
+p,VAR_7
+visible_lines,VAR_8

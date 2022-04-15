@@ -1,0 +1,12 @@
+SMC_IND_DATA_0,VAR_0
+WREG32,FUNC_0
+ci_set_smc_sram_address,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ci_write_smc_sram_dword,FUNC_4
+rdev,VAR_1
+smc_address,VAR_2
+value,VAR_3
+limit,VAR_4
+flags,VAR_5
+ret,VAR_6

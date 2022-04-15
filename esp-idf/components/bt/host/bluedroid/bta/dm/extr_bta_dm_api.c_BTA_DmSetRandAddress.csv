@@ -1,0 +1,12 @@
+APPL_TRACE_API,FUNC_0
+BD_ADDR_LEN,VAR_0
+BLE_ADDR_RANDOM,VAR_1
+BTA_DM_API_SET_RAND_ADDR_EVT,VAR_2
+bta_sys_sendmsg,FUNC_1
+memcpy,FUNC_2
+memset,FUNC_3
+osi_malloc,FUNC_4
+BTA_DmSetRandAddress,FUNC_5
+rand_addr,VAR_3
+p_set_rand_addr_cback,VAR_4
+p_msg,VAR_5

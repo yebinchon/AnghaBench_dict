@@ -1,0 +1,16 @@
+ACMD_SD_STATUS,VAR_0
+CMD_RETRIES,VAR_1
+MMC_CMD_ADTC,VAR_2
+MMC_DATA_READ,VAR_3
+MMC_RSP_R1,VAR_4
+be32toh,FUNC_0
+memset,FUNC_1
+mmc_wait_for_app_cmd,FUNC_2
+mmc_app_sd_status,FUNC_3
+sc,VAR_5
+rca,VAR_6
+rawsdstatus,VAR_7
+cmd,VAR_8
+data,VAR_9
+err,VAR_10
+i,VAR_11

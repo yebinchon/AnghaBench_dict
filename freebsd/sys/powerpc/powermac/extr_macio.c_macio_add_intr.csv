@@ -1,0 +1,17 @@
+MAP_IRQ,FUNC_0
+OF_getprop,FUNC_1
+OF_getprop_alloc_multi,FUNC_2
+OF_node_from_xref,FUNC_3
+SYS_RES_IRQ,VAR_0
+panic,FUNC_4
+printf,FUNC_5
+resource_list_add,FUNC_6
+macio_add_intr,FUNC_7
+devnode,VAR_1
+dinfo,VAR_2
+iparent,VAR_3
+intr,VAR_4
+i,VAR_5
+nintr,VAR_6
+icells,VAR_7
+irq,VAR_8

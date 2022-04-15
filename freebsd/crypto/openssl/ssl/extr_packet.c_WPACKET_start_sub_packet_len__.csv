@@ -1,0 +1,12 @@
+ERR_R_MALLOC_FAILURE,VAR_0
+GETBUF,FUNC_0
+OPENSSL_zalloc,FUNC_1
+SSL_F_WPACKET_START_SUB_PACKET_LEN__,VAR_1
+SSLerr,FUNC_2
+WPACKET_allocate_bytes,FUNC_3
+ossl_assert,FUNC_4
+WPACKET_start_sub_packet_len__,FUNC_5
+pkt,VAR_2
+lenbytes,VAR_3
+sub,VAR_4
+lenchars,VAR_5

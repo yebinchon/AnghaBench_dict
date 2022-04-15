@@ -1,0 +1,15 @@
+add_term_osd_bar,FUNC_0
+get_term_status_msg,FUNC_1
+mp_msg_flush_status_line,FUNC_2
+saddf,FUNC_3
+talloc_free,FUNC_4
+term_osd_set_status_lazy,FUNC_5
+terminal_get_size,FUNC_6
+update_vo_playback_state,FUNC_7
+update_window_title,FUNC_8
+term_osd_print_status_lazy,FUNC_9
+mpctx,VAR_0
+opts,VAR_1
+line,VAR_2
+w,VAR_3
+h,VAR_4

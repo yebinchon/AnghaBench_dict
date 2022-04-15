@@ -1,0 +1,8 @@
+CN6XXX_INPUT_CTL_MASK,VAR_0
+CN6XXX_SLI_IN_PCIE_PORT,VAR_1
+CN6XXX_SLI_PKT_INPUT_CONTROL,VAR_2
+CN6XXX_SLI_PKT_INSTR_RD_SIZE,VAR_3
+octeon_write_csr,FUNC_0
+octeon_write_csr64,FUNC_1
+lio_cn6xxx_setup_global_input_regs,FUNC_2
+oct,VAR_4

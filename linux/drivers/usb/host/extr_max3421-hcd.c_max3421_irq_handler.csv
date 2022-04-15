@@ -1,0 +1,14 @@
+ENABLE_IRQ,VAR_0
+IRQ_HANDLED,VAR_1
+TASK_RUNNING,VAR_2
+disable_irq_nosync,FUNC_0
+hcd_to_max3421,FUNC_1
+test_and_set_bit,FUNC_2
+to_spi_device,FUNC_3
+wake_up_process,FUNC_4
+max3421_irq_handler,FUNC_5
+irq,VAR_3
+dev_id,VAR_4
+hcd,VAR_5
+spi,VAR_6
+max3421_hcd,VAR_7

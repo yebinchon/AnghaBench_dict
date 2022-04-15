@@ -1,0 +1,12 @@
+ZM_MAX_PROBE_HIDDEN_SSID_SIZE,VAR_0
+wd,VAR_1
+zfMemoryCopy,FUNC_0
+zmw_declare_for_critical_section,FUNC_1
+zmw_enter_critical_section,FUNC_2
+zmw_get_wlan_dev,FUNC_3
+zmw_leave_critical_section,FUNC_4
+zfiWlanSetProbingHiddenSsid,FUNC_5
+dev,VAR_2
+ssid,VAR_3
+ssidLen,VAR_4
+entry,VAR_5

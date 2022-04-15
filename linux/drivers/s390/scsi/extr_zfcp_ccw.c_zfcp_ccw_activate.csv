@@ -1,0 +1,16 @@
+ZFCP_STATUS_COMMON_ERP_FAILED,VAR_0
+ZFCP_STATUS_COMMON_RUNNING,VAR_1
+flush_delayed_work,FUNC_0
+msleep,FUNC_1
+zfcp_ccw_adapter_by_cdev,FUNC_2
+zfcp_ccw_adapter_put,FUNC_3
+zfcp_erp_adapter_reopen,FUNC_4
+zfcp_erp_clear_adapter_status,FUNC_5
+zfcp_erp_set_adapter_status,FUNC_6
+zfcp_erp_wait,FUNC_7
+zfcp_fc_port_scan_backoff,FUNC_8
+zfcp_ccw_activate,FUNC_9
+cdev,VAR_2
+clear,VAR_3
+tag,VAR_4
+adapter,VAR_5

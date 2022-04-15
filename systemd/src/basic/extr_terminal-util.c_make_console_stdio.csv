@@ -1,0 +1,13 @@
+ACQUIRE_TERMINAL_FORCE,VAR_0
+ACQUIRE_TERMINAL_PERMISSIVE,VAR_1
+USEC_INFINITY,VAR_2
+acquire_terminal,FUNC_0
+log_error_errno,FUNC_1
+log_warning_errno,FUNC_2
+make_null_stdio,FUNC_3
+rearrange_stdio,FUNC_4
+reset_terminal_fd,FUNC_5
+reset_terminal_feature_caches,FUNC_6
+make_console_stdio,FUNC_7
+fd,VAR_3
+r,VAR_4

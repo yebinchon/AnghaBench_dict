@@ -1,0 +1,10 @@
+EVENTHANDLER_PRI_ANY,VAR_0
+EVENTHANDLER_REGISTER,FUNC_0
+V_ipf_arrivetag,VAR_1
+V_ipf_clonetag,VAR_2
+V_ipf_departtag,VAR_3
+if_clone_event,VAR_4
+ifnet_arrival_event,VAR_5
+ifnet_departure_event,VAR_6
+ipf_ifevent,VAR_7
+ipf_event_reg,FUNC_1

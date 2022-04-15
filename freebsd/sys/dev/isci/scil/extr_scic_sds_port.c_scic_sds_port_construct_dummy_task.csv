@@ -1,0 +1,10 @@
+SCU_TASK_CONTEXT_PROTOCOL_SSP,VAR_0
+SCU_TASK_CONTEXT_TYPE,VAR_1
+SCU_TASK_CONTEXT_VALID,VAR_2
+memset,FUNC_0
+scic_sds_controller_get_task_context_buffer,FUNC_1
+scic_sds_io_tag_get_index,FUNC_2
+scic_sds_port_construct_dummy_task,FUNC_3
+this_port,VAR_3
+tci,VAR_4
+task_context,VAR_5

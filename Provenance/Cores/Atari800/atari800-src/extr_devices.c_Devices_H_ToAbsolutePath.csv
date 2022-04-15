@@ -1,0 +1,17 @@
+CPU_ClrN,VAR_0
+CPU_SetN,VAR_1
+CPU_regY,VAR_2
+Devices_GetHostPath,FUNC_0
+Devices_ICBLLZ,VAR_3
+FALSE,VAR_4
+Log_print,FUNC_1
+MEMORY_PutByte,FUNC_2
+MEMORY_dGetWordAligned,FUNC_3
+Util_DIR_SEP_CHAR,VAR_5
+Util_direxists,FUNC_4
+atari_path,VAR_6
+devbug,VAR_7
+host_path,VAR_8
+Devices_H_ToAbsolutePath,FUNC_5
+bufadr,VAR_9
+p,VAR_10

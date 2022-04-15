@@ -1,0 +1,12 @@
+CPL_ABORT_RPL_RSS,VAR_0
+CPL_ACT_OPEN_RPL,VAR_1
+CPL_FW4_ACK,VAR_2
+CPL_L2T_WRITE_RPL,VAR_3
+CPL_SET_TCB_RPL,VAR_4
+abort_rpl_rss_handler,VAR_5
+act_open_rpl_handler,VAR_6
+fw4_ack_handler,VAR_7
+l2t_write_rpl_handler,VAR_8
+set_tcb_rpl_handler,VAR_9
+t4_register_cpl_handler,FUNC_0
+t4_init_shared_cpl_handlers,FUNC_1

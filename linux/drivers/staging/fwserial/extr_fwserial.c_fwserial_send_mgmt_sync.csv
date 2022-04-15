@@ -1,0 +1,14 @@
+RCODE_BUSY,VAR_0
+RCODE_GENERATION,VAR_1
+RCODE_SEND_ERROR,VAR_2
+TCODE_WRITE_BLOCK_REQUEST,VAR_3
+be16_to_cpu,FUNC_0
+fw_run_transaction,FUNC_1
+fwtty_dbg,FUNC_2
+smp_rmb,FUNC_3
+fwserial_send_mgmt_sync,FUNC_4
+peer,VAR_4
+pkt,VAR_5
+generation,VAR_6
+rcode,VAR_7
+tries,VAR_8

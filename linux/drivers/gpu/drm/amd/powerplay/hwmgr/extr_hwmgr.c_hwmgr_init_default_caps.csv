@@ -1,0 +1,14 @@
+PHM_PlatformCaps_DynamicPatchPowerState,VAR_0
+PHM_PlatformCaps_DynamicPowerManagement,VAR_1
+PHM_PlatformCaps_DynamicUVDState,VAR_2
+PHM_PlatformCaps_EnableSMU7ThermalManagement,VAR_3
+PHM_PlatformCaps_FanSpeedInTableIsRPM,VAR_4
+PHM_PlatformCaps_PCIEPerformanceRequest,VAR_5
+PHM_PlatformCaps_SMC,VAR_6
+PHM_PlatformCaps_UVDDPM,VAR_7
+PHM_PlatformCaps_VCEDPM,VAR_8
+amdgpu_acpi_is_pcie_performance_request_supported,FUNC_0
+phm_cap_set,FUNC_1
+phm_cap_unset,FUNC_2
+hwmgr_init_default_caps,FUNC_3
+hwmgr,VAR_9

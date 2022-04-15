@@ -1,0 +1,13 @@
+Assert,FUNC_0
+AssertArg,FUNC_1
+AssertTXNLsnOrder,FUNC_2
+InvalidXLogRecPtr,VAR_0
+ReorderBufferTXNByXid,FUNC_3
+dlist_push_tail,FUNC_4
+ReorderBufferSetBaseSnapshot,FUNC_5
+rb,VAR_1
+xid,VAR_2
+lsn,VAR_3
+snap,VAR_4
+txn,VAR_5
+is_new,VAR_6

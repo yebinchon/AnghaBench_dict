@@ -1,0 +1,12 @@
+EVP_get_digestbyname,FUNC_0
+TEST_int_eq,FUNC_1
+TEST_int_ne,FUNC_2
+TEST_ptr,FUNC_3
+TEST_ptr_eq,FUNC_4
+ossl_namemap_add,FUNC_5
+ossl_namemap_stored,FUNC_6
+test_digestbyname,FUNC_7
+id,VAR_0
+nm,VAR_1
+sha256,VAR_2
+foo,VAR_3

@@ -1,0 +1,14 @@
+BMCRSR,VAR_0
+BMSR_LSTATUS,VAR_1
+LinkIsUp2,VAR_2
+MII_BMSR,VAR_3
+MysonPHY,VAR_4
+ioread32,FUNC_0
+mdio_read,FUNC_1
+netdev_priv,FUNC_2
+udelay,FUNC_3
+getlinkstatus,FUNC_4
+dev,VAR_5
+np,VAR_6
+i,VAR_7
+DelayTime,VAR_8

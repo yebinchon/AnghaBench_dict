@@ -1,0 +1,17 @@
+ENOMEM,VAR_0
+GFP_KERNEL,VAR_1
+IIO_TRIGGER_NAME_LENGTH,VAR_2
+THIS_MODULE,VAR_3
+iio_allocate_trigger,FUNC_0
+iio_free_trigger,FUNC_1
+iio_trigger_register,FUNC_2
+kfree,FUNC_3
+kmalloc,FUNC_4
+lis3l02dq_data_rdy_trigger_set_state,VAR_4
+lis3l02dq_trig_try_reen,VAR_5
+lis3l02dq_trigger_attr_group,VAR_6
+snprintf,FUNC_5
+lis3l02dq_probe_trigger,FUNC_6
+indio_dev,VAR_7
+ret,VAR_8
+state,VAR_9

@@ -1,0 +1,15 @@
+PCIM_CMD_MEMEN,VAR_0
+PCIM_CMD_PORTEN,VAR_1
+PCIR_COMMAND,VAR_2
+PCI_BARMAX,VAR_3
+assert,FUNC_0
+pci_get_cfgdata16,FUNC_1
+pci_lintr_update,FUNC_2
+register_bar,FUNC_3
+unregister_bar,FUNC_4
+pci_emul_cmd_changed,FUNC_5
+pi,VAR_4
+old,VAR_5
+i,VAR_6
+changed,VAR_7
+new,VAR_8

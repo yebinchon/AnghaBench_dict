@@ -1,0 +1,10 @@
+IRQ_NONE,VAR_0
+IRQ_WAKE_THREAD,VAR_1
+MMU_INT_MASK,VAR_2
+MMU_INT_STAT,VAR_3
+mmu_read,FUNC_0
+mmu_write,FUNC_1
+panfrost_mmu_irq_handler,FUNC_2
+irq,VAR_4
+data,VAR_5
+pfdev,VAR_6

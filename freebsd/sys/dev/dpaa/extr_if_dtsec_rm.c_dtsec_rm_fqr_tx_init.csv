@@ -1,0 +1,15 @@
+DTSEC_RM_FQR_TX_CONF_CHANNEL,VAR_0
+DTSEC_RM_FQR_TX_CONF_WQ,VAR_1
+DTSEC_RM_FQR_TX_WQ,VAR_2
+EIO,VAR_3
+E_OK,VAR_4
+device_printf,FUNC_0
+dtsec_rm_fqr_tx_confirm_callback,VAR_5
+dtsec_rm_fqr_tx_free,FUNC_1
+qman_fqr_create,FUNC_2
+qman_fqr_get_base_fqid,FUNC_3
+qman_fqr_register_cb,FUNC_4
+dtsec_rm_fqr_tx_init,FUNC_5
+sc,VAR_6
+error,VAR_7
+fqr,VAR_8

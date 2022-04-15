@@ -1,0 +1,13 @@
+CPSW_SL_SOFT_RESET,VAR_0
+CPSW_SL_SOFT_RESET_BIT,VAR_1
+cpsw_sl_reg_read,FUNC_0
+cpsw_sl_reg_write,FUNC_1
+dev_err,FUNC_2
+jiffies,VAR_2
+msecs_to_jiffies,FUNC_3
+time_after,FUNC_4
+usleep_range,FUNC_5
+cpsw_sl_reset,FUNC_6
+sl,VAR_3
+tmo,VAR_4
+timeout,VAR_5

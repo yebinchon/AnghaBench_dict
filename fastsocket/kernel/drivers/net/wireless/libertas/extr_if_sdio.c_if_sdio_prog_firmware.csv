@@ -1,0 +1,16 @@
+IF_SDIO_BLOCK_SIZE,VAR_0
+IF_SDIO_FIRMWARE_OK,VAR_1
+LBS_DEB_SDIO,VAR_2
+if_sdio_prog_helper,FUNC_0
+if_sdio_prog_real,FUNC_1
+if_sdio_read_scratch,FUNC_2
+lbs_deb_enter,FUNC_3
+lbs_deb_leave_args,FUNC_4
+lbs_deb_sdio,FUNC_5
+sdio_claim_host,FUNC_6
+sdio_release_host,FUNC_7
+sdio_set_block_size,FUNC_8
+if_sdio_prog_firmware,FUNC_9
+card,VAR_3
+ret,VAR_4
+scratch,VAR_5

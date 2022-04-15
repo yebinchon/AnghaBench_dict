@@ -1,0 +1,17 @@
+BUG_ON,FUNC_0
+EIO,VAR_0
+PageError,FUNC_1
+PageLocked,FUNC_2
+WB_SYNC_ALL,VAR_1
+clear_page_dirty_for_io,FUNC_3
+page_cache_get,FUNC_4
+page_cache_release,FUNC_5
+stub1,FUNC_6
+unlock_page,FUNC_7
+wait_on_page_writeback,FUNC_8
+write_one_page,FUNC_9
+page,VAR_2
+wait,VAR_3
+mapping,VAR_4
+ret,VAR_5
+wbc,VAR_6

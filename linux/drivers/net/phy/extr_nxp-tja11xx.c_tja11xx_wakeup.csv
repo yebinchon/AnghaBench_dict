@@ -1,0 +1,14 @@
+MII_ECTRL,VAR_0
+MII_ECTRL_POWER_MODE_MASK,VAR_1
+MII_ECTRL_WAKE_REQUEST,VAR_2
+MII_GENSTAT,VAR_3
+MII_GENSTAT_PLL_LOCKED,VAR_4
+phy_clear_bits,FUNC_0
+phy_modify,FUNC_1
+phy_modify_check,FUNC_2
+phy_read,FUNC_3
+phy_set_bits,FUNC_4
+tja11xx_enable_link_control,FUNC_5
+tja11xx_wakeup,FUNC_6
+phydev,VAR_5
+ret,VAR_6

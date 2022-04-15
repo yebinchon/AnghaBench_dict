@@ -1,0 +1,17 @@
+do_run_slab_rebalance_thread,VAR_0
+mutex_lock,FUNC_0
+mutex_unlock,FUNC_1
+pthread_cond_wait,FUNC_2
+slab_rebal,VAR_1
+slab_rebalance_cond,VAR_2
+slab_rebalance_finish,FUNC_3
+slab_rebalance_move,FUNC_4
+slab_rebalance_signal,VAR_3
+slab_rebalance_start,FUNC_5
+slabs_rebalance_lock,VAR_4
+usleep,FUNC_6
+slab_rebalance_thread,FUNC_7
+arg,VAR_5
+was_busy,VAR_6
+backoff_timer,VAR_7
+backoff_max,VAR_8

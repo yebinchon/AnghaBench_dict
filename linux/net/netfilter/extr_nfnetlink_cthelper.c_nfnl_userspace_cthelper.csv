@@ -1,0 +1,15 @@
+NF_ACCEPT,VAR_0
+NF_CT_HELPER_F_CONFIGURED,VAR_1
+NF_CT_HELPER_F_USERSPACE,VAR_2
+NF_DROP,VAR_3
+NF_QUEUE_NR,FUNC_0
+NF_VERDICT_FLAG_QUEUE_BYPASS,VAR_4
+nfct_help,FUNC_1
+rcu_dereference,FUNC_2
+nfnl_userspace_cthelper,FUNC_3
+skb,VAR_5
+protoff,VAR_6
+ct,VAR_7
+ctinfo,VAR_8
+help,VAR_9
+helper,VAR_10

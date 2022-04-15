@@ -1,0 +1,16 @@
+NUM_TIME_REGS,VAR_0
+TPS65910_ALARM_SECONDS,VAR_1
+TPS65910_RTC_INTERRUPTS,VAR_2
+TPS65910_RTC_INTERRUPTS_IT_ALARM,VAR_3
+bcd2bin,FUNC_0
+dev_err,FUNC_1
+dev_get_drvdata,FUNC_2
+regmap_bulk_read,FUNC_3
+regmap_read,FUNC_4
+tps65910_rtc_read_alarm,FUNC_5
+dev,VAR_4
+alm,VAR_5
+alarm_data,VAR_6
+int_val,VAR_7
+tps,VAR_8
+ret,VAR_9

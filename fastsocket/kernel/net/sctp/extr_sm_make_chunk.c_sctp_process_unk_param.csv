@@ -1,0 +1,16 @@
+SCTP_ERROR_UNKNOWN_PARAM,VAR_0
+SCTP_IERROR_ERROR,VAR_1
+SCTP_IERROR_NOMEM,VAR_2
+SCTP_IERROR_NO_ERROR,VAR_3
+SCTP_PARAM_ACTION_MASK,VAR_4
+WORD_ROUND,FUNC_0
+ntohs,FUNC_1
+sctp_addto_chunk_fixed,FUNC_2
+sctp_init_cause_fixed,FUNC_3
+sctp_make_op_error_fixed,FUNC_4
+sctp_process_unk_param,FUNC_5
+asoc,VAR_5
+param,VAR_6
+chunk,VAR_7
+errp,VAR_8
+retval,VAR_9

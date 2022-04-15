@@ -1,0 +1,16 @@
+CLUSTER_NAMELEN,VAR_0
+DICT_OK,VAR_1
+LL_DEBUG,VAR_2
+clusterAddNode,FUNC_0
+dictDelete,FUNC_1
+memcpy,FUNC_2
+sdsfree,FUNC_3
+sdsnewlen,FUNC_4
+server,VAR_3
+serverAssert,FUNC_5
+serverLog,FUNC_6
+clusterRenameNode,FUNC_7
+node,VAR_4
+newname,VAR_5
+retval,VAR_6
+s,VAR_7

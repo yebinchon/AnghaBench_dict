@@ -1,0 +1,13 @@
+AZX_PPCTL_PROCEN,FUNC_0
+AZX_REG_PP_PPCTL,VAR_0
+readw,FUNC_1
+snd_hdac_updatel,FUNC_2
+spin_lock_irq,FUNC_3
+spin_unlock_irq,FUNC_4
+snd_hdac_ext_stream_decouple,FUNC_5
+bus,VAR_1
+stream,VAR_2
+decouple,VAR_3
+hstream,VAR_4
+val,VAR_5
+mask,VAR_6

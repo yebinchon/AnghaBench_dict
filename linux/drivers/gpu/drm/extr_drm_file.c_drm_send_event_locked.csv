@@ -1,0 +1,12 @@
+assert_spin_locked,FUNC_0
+complete_all,FUNC_1
+dma_fence_put,FUNC_2
+dma_fence_signal,FUNC_3
+kfree,FUNC_4
+list_add_tail,FUNC_5
+list_del,FUNC_6
+stub1,FUNC_7
+wake_up_interruptible,FUNC_8
+drm_send_event_locked,FUNC_9
+dev,VAR_0
+e,VAR_1

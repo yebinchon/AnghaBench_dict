@@ -1,0 +1,17 @@
+CMDSN_ERROR_CANNOT_RECOVER,VAR_0
+CMDSN_LOWER_THAN_EXP,VAR_1
+IMMEDIATE_DATA_ERL1_CRC_FAILURE,VAR_2
+IMMEDIATE_DATA_NORMAL_OPERATION,VAR_3
+ISTATE_REMOVE,VAR_4
+cxgbit_handle_immediate_data,FUNC_0
+iscsit_add_cmd_to_immediate_queue,FUNC_1
+iscsit_sequence_cmd,FUNC_2
+iscsit_set_unsolicited_dataout,FUNC_3
+target_put_sess_cmd,FUNC_4
+cxgbit_get_immediate_data,FUNC_5
+cmd,VAR_5
+hdr,VAR_6
+dump_payload,VAR_7
+conn,VAR_8
+cmdsn_ret,VAR_9
+immed_ret,VAR_10

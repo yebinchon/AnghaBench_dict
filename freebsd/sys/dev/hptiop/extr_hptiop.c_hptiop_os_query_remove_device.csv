@@ -1,0 +1,12 @@
+CAM_REQ_CMP,VAR_0
+cam_periph_find,FUNC_0
+device_printf,FUNC_1
+xpt_create_path,FUNC_2
+xpt_free_path,FUNC_3
+hptiop_os_query_remove_device,FUNC_4
+hba,VAR_1
+target_id,VAR_2
+periph,VAR_3
+path,VAR_4
+status,VAR_5
+retval,VAR_6

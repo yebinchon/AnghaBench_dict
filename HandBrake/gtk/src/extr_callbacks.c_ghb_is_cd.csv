@@ -1,0 +1,12 @@
+FALSE,VAR_0
+G_VOLUME_IDENTIFIER_KIND_UNIX_DEVICE,VAR_1
+TRUE,VAR_2
+g_drive_get_identifier,FUNC_0
+g_free,FUNC_1
+g_message,FUNC_2
+g_object_unref,FUNC_3
+g_udev_client_query_by_device_file,FUNC_4
+g_udev_device_get_property_as_int,FUNC_5
+udev_ctx,VAR_3
+ghb_is_cd,FUNC_6
+gd,VAR_4

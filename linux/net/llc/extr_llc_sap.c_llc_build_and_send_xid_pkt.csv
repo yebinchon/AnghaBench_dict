@@ -1,0 +1,13 @@
+IFHWADDRLEN,VAR_0
+LLC_PRIM_TYPE_REQ,VAR_1
+LLC_SAP_EV_TYPE_PRIM,VAR_2
+LLC_XID_PRIM,VAR_3
+llc_sap_ev,FUNC_0
+llc_sap_state_process,FUNC_1
+memcpy,FUNC_2
+llc_build_and_send_xid_pkt,FUNC_3
+sap,VAR_4
+skb,VAR_5
+dmac,VAR_6
+dsap,VAR_7
+ev,VAR_8

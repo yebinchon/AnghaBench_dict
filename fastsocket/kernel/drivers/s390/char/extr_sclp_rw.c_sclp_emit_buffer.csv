@@ -1,0 +1,16 @@
+EIO,VAR_0
+ENOSYS,VAR_1
+EVTYP_MSG,VAR_2
+EVTYP_MSG_MASK,VAR_3
+EVTYP_PMSGCMD,VAR_4
+EVTYP_PMSGCMD_MASK,VAR_5
+SCLP_CMDW_WRITE_EVENT_DATA,VAR_6
+SCLP_REQ_FILLED,VAR_7
+sclp_add_request,FUNC_0
+sclp_finalize_mto,FUNC_1
+sclp_rw_event,VAR_8
+sclp_writedata_callback,VAR_9
+sclp_emit_buffer,FUNC_2
+buffer,VAR_10
+callback,VAR_11
+sccb,VAR_12

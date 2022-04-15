@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+IOPMU_INBOUND_MSG0_STOP_BACKGROUND_TASK,VAR_1
+device_get_softc,FUNC_0
+device_printf,FUNC_1
+hptiop_lock_adapter,FUNC_2
+hptiop_os_query_remove_device,FUNC_3
+hptiop_release_resource,FUNC_4
+hptiop_send_sync_msg,FUNC_5
+hptiop_shutdown,FUNC_6
+hptiop_unlock_adapter,FUNC_7
+hptiop_detach,FUNC_8
+dev,VAR_2
+hba,VAR_3
+i,VAR_4
+error,VAR_5

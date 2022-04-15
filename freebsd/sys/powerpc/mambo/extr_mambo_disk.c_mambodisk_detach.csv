@@ -1,0 +1,11 @@
+MBODISK_LOCK,FUNC_0
+MBODISK_LOCK_DESTROY,FUNC_1
+MBODISK_UNLOCK,FUNC_2
+PRIBIO,VAR_0
+device_get_softc,FUNC_3
+disk_destroy,FUNC_4
+msleep,FUNC_5
+wakeup,FUNC_6
+mambodisk_detach,FUNC_7
+dev,VAR_1
+sc,VAR_2

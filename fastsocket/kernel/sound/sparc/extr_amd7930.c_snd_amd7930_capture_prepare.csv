@@ -1,0 +1,15 @@
+AMD7930_FLAG_CAPTURE,VAR_0
+AM_MAP_MMR1_ALAW,VAR_1
+SNDRV_PCM_FORMAT_A_LAW,VAR_2
+__amd7930_update_map,FUNC_0
+snd_pcm_lib_buffer_bytes,FUNC_1
+snd_pcm_substream_chip,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+snd_amd7930_capture_prepare,FUNC_5
+substream,VAR_3
+amd,VAR_4
+runtime,VAR_5
+size,VAR_6
+flags,VAR_7
+new_mmr1,VAR_8

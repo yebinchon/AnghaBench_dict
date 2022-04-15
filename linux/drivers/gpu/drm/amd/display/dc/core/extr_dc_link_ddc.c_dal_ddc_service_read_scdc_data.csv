@@ -1,0 +1,12 @@
+HDMI_SCDC_ADDRESS,VAR_0
+HDMI_SCDC_SCRAMBLER_STATUS,VAR_1
+HDMI_SCDC_STATUS_FLAGS,VAR_2
+HDMI_SCDC_TMDS_CONFIG,VAR_3
+dal_ddc_service_query_ddc_data,FUNC_0
+dal_ddc_service_read_scdc_data,FUNC_1
+ddc_service,VAR_4
+slave_address,VAR_5
+offset,VAR_6
+tmds_config,VAR_7
+status_data,VAR_8
+scramble_status,VAR_9

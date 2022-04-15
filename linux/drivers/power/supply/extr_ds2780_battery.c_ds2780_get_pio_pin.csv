@@ -1,0 +1,14 @@
+DS2780_SFR_REG,VAR_0
+DS2780_SFR_REG_PIOSC,VAR_1
+ds2780_read8,FUNC_0
+sprintf,FUNC_1
+to_ds2780_device_info,FUNC_2
+to_power_supply,FUNC_3
+ds2780_get_pio_pin,FUNC_4
+dev,VAR_2
+attr,VAR_3
+buf,VAR_4
+ret,VAR_5
+sfr,VAR_6
+psy,VAR_7
+dev_info,VAR_8

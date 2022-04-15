@@ -1,0 +1,16 @@
+QSPI_SETUP_ADDR_SHIFT,VAR_0
+QSPI_SETUP_DUMMY_SHIFT,VAR_1
+QSPI_SETUP_RD_DUAL,VAR_2
+QSPI_SETUP_RD_NORMAL,VAR_3
+QSPI_SETUP_RD_QUAD,VAR_4
+QSPI_SPI_SETUP_REG,FUNC_0
+spi_master_get_devdata,FUNC_1
+ti_qspi_write,FUNC_2
+ti_qspi_setup_mmap_read,FUNC_3
+spi,VAR_5
+opcode,VAR_6
+data_nbits,VAR_7
+addr_width,VAR_8
+dummy_bytes,VAR_9
+qspi,VAR_10
+memval,VAR_11

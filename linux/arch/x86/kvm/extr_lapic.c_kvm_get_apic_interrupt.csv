@@ -1,0 +1,12 @@
+__apic_update_ppr,FUNC_0
+apic_clear_irr,FUNC_1
+apic_set_isr,FUNC_2
+apic_update_ppr,FUNC_3
+kvm_apic_has_interrupt,FUNC_4
+test_bit,FUNC_5
+vcpu_to_synic,FUNC_6
+kvm_get_apic_interrupt,FUNC_7
+vcpu,VAR_0
+vector,VAR_1
+apic,VAR_2
+ppr,VAR_3

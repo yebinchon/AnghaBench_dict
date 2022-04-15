@@ -1,0 +1,17 @@
+DEFAULT_RSSI_OFFSET,VAR_0
+GPIOCSR,VAR_1
+GPIOCSR_DIR0,VAR_2
+REQUIRE_ATIM_QUEUE,VAR_3
+REQUIRE_DMA,VAR_4
+REQUIRE_SW_SEQNO,VAR_5
+__set_bit,FUNC_0
+rt2500pci_init_eeprom,FUNC_1
+rt2500pci_probe_hw_mode,FUNC_2
+rt2500pci_validate_eeprom,FUNC_3
+rt2x00_set_field32,FUNC_4
+rt2x00mmio_register_read,FUNC_5
+rt2x00mmio_register_write,FUNC_6
+rt2500pci_probe_hw,FUNC_7
+rt2x00dev,VAR_6
+retval,VAR_7
+reg,VAR_8

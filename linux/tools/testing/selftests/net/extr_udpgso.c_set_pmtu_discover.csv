@@ -1,0 +1,15 @@
+IPV6_MTU_DISCOVER,VAR_0
+IPV6_PMTUDISC_DO,VAR_1
+IP_MTU_DISCOVER,VAR_2
+IP_PMTUDISC_DO,VAR_3
+SOL_IP,VAR_4
+SOL_IPV6,VAR_5
+errno,VAR_6
+error,FUNC_0
+setsockopt,FUNC_1
+set_pmtu_discover,FUNC_2
+fd,VAR_7
+is_ipv4,VAR_8
+level,VAR_9
+name,VAR_10
+val,VAR_11

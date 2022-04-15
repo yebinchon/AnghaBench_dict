@@ -1,0 +1,15 @@
+CLEAR_INTR,FUNC_0
+ENABLE_INTR,FUNC_1
+IRQ_ENABLE_BANK,VAR_0
+pdc_lock,VAR_1
+pdc_reg_read,FUNC_2
+pdc_reg_write,FUNC_3
+raw_spin_lock,FUNC_4
+raw_spin_unlock,FUNC_5
+pdc_enable_intr,FUNC_6
+d,VAR_2
+on,VAR_3
+pin_out,VAR_4
+index,VAR_5
+mask,VAR_6
+enable,VAR_7

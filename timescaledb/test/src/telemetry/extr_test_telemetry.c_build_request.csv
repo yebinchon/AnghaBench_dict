@@ -1,0 +1,14 @@
+HTTP_CONTENT_LENGTH,VAR_0
+HTTP_GET,VAR_1
+HTTP_HOST,VAR_2
+HTTP_VERSION_10,VAR_3
+TEST_ENDPOINT,VAR_4
+snprintf,FUNC_0
+ts_http_request_create,FUNC_1
+ts_http_request_set_header,FUNC_2
+ts_http_request_set_uri,FUNC_3
+ts_http_request_set_version,FUNC_4
+build_request,FUNC_5
+status,VAR_5
+req,VAR_6
+uri,VAR_7

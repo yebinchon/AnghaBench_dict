@@ -1,0 +1,13 @@
+USB_TYPE_MASK,VAR_0
+USB_TYPE_STANDARD,VAR_1
+usb3_set_p0_con_stall,FUNC_0
+usb3_std_req_feature,FUNC_1
+usb3_std_req_get_status,FUNC_2
+usb3_std_req_set_address,FUNC_3
+usb3_std_req_set_configuration,FUNC_4
+usb3_std_req_set_sel,FUNC_5
+usb3_handle_standard_request,FUNC_6
+usb3,VAR_2
+ctrl,VAR_3
+ret,VAR_4
+stall,VAR_5

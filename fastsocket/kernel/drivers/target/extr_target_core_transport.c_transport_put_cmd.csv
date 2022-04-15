@@ -1,0 +1,11 @@
+CMD_T_DEV_ACTIVE,VAR_0
+atomic_dec_and_test,FUNC_0
+atomic_read,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+target_remove_from_state_list,FUNC_4
+transport_free_pages,FUNC_5
+transport_release_cmd,FUNC_6
+transport_put_cmd,FUNC_7
+cmd,VAR_1
+flags,VAR_2

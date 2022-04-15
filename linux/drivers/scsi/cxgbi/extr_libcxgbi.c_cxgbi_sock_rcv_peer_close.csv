@@ -1,0 +1,16 @@
+CTPF_ABORT_RPL_PENDING,VAR_0
+CTP_CLOSE_WAIT_2,VAR_1
+CTP_PASSIVE_CLOSE,VAR_2
+CXGBI_DBG_SOCK,VAR_3
+cxgbi_inform_iscsi_conn_closing,FUNC_0
+cxgbi_sock_closed,FUNC_1
+cxgbi_sock_flag,FUNC_2
+cxgbi_sock_get,FUNC_3
+cxgbi_sock_put,FUNC_4
+cxgbi_sock_set_state,FUNC_5
+log_debug,FUNC_6
+pr_err,FUNC_7
+spin_lock_bh,FUNC_8
+spin_unlock_bh,FUNC_9
+cxgbi_sock_rcv_peer_close,FUNC_10
+csk,VAR_4

@@ -1,0 +1,10 @@
+NVME_SGL_FMT_LAST_SEG_DESC,VAR_0
+NVME_SGL_FMT_SEG_DESC,VAR_1
+PAGE_SIZE,VAR_2
+SGES_PER_PAGE,VAR_3
+cpu_to_le32,FUNC_0
+cpu_to_le64,FUNC_1
+nvme_pci_sgl_set_seg,FUNC_2
+sge,VAR_4
+dma_addr,VAR_5
+entries,VAR_6

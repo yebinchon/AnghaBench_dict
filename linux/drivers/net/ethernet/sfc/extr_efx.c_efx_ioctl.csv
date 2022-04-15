@@ -1,0 +1,16 @@
+MDIO_PHY_ID_C45,VAR_0
+SIOCGHWTSTAMP,VAR_1
+SIOCGMIIREG,VAR_2
+SIOCSHWTSTAMP,VAR_3
+SIOCSMIIREG,VAR_4
+efx_ptp_get_ts_config,FUNC_0
+efx_ptp_set_ts_config,FUNC_1
+if_mii,FUNC_2
+mdio_mii_ioctl,FUNC_3
+netdev_priv,FUNC_4
+efx_ioctl,FUNC_5
+net_dev,VAR_5
+ifr,VAR_6
+cmd,VAR_7
+efx,VAR_8
+data,VAR_9

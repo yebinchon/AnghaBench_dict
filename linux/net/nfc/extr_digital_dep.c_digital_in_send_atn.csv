@@ -1,0 +1,17 @@
+DIGITAL_CMD_DEP_REQ,VAR_0
+DIGITAL_NFC_DEP_FRAME_DIR_OUT,VAR_1
+DIGITAL_NFC_DEP_PFB_SUPERVISOR_PDU,VAR_2
+ENOMEM,VAR_3
+digital_in_recv_dep_res,VAR_4
+digital_in_send_cmd,FUNC_0
+digital_skb_alloc,FUNC_1
+digital_skb_push_dep_sod,FUNC_2
+kfree_skb,FUNC_3
+skb_push,FUNC_4
+stub1,FUNC_5
+digital_in_send_atn,FUNC_6
+ddev,VAR_5
+data_exch,VAR_6
+dep_req,VAR_7
+skb,VAR_8
+rc,VAR_9

@@ -1,0 +1,5 @@
+CS5536_IDE_FLASH_SIGNATURE,VAR_0
+PCI_IDE_CFG_REG,VAR_1
+pci_write_config_dword,FUNC_0
+loongson_cs5536_ide_fixup,FUNC_1
+pdev,VAR_2

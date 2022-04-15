@@ -1,0 +1,15 @@
+amdtp_domain_stop,FUNC_0
+break_both_connections,FUNC_1
+check_connection_used_by_others,FUNC_2
+cmp_connection_release,FUNC_3
+dev_err,FUNC_4
+get_formation_index,FUNC_5
+keep_resources,FUNC_6
+stub1,FUNC_7
+stub2,FUNC_8
+snd_bebob_stream_reserve_duplex,FUNC_9
+bebob,VAR_0
+rate,VAR_1
+curr_rate,VAR_2
+err,VAR_3
+index,VAR_4

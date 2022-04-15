@@ -1,0 +1,14 @@
+r600_is_internal_thermal_sensor,FUNC_0
+radeon_irq_set,FUNC_1
+sumo_clear_vc,FUNC_2
+trinity_acquire_mutex,FUNC_3
+trinity_disable_clock_power_gating,FUNC_4
+trinity_dpm_bapm_enable,FUNC_5
+trinity_dpm_enabled,FUNC_6
+trinity_release_mutex,FUNC_7
+trinity_reset_am,FUNC_8
+trinity_stop_dpm,FUNC_9
+trinity_update_current_ps,FUNC_10
+trinity_wait_for_level_0,FUNC_11
+trinity_dpm_disable,FUNC_12
+rdev,VAR_0

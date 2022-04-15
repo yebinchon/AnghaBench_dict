@@ -1,0 +1,13 @@
+lua_createtable,FUNC_0
+lua_rawseti,FUNC_1
+push_playlist_item,FUNC_2
+vlc_playlist_Count,FUNC_3
+vlc_playlist_Get,FUNC_4
+vlc_playlist_Lock,FUNC_5
+vlc_playlist_Unlock,FUNC_6
+vlclua_get_playlist_internal,FUNC_7
+vlclua_playlist_list,FUNC_8
+L,VAR_0
+playlist,VAR_1
+count,VAR_2
+i,VAR_3

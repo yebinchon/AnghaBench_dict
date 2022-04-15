@@ -1,0 +1,12 @@
+CFG_LO,VAR_0
+IDMA64C_CFGL_CH_DRAIN,VAR_1
+IDMA64C_CFGL_CH_SUSP,VAR_2
+IDMA64C_CFGL_FIFO_EMPTY,VAR_3
+channel_readl,FUNC_0
+channel_writel,FUNC_1
+udelay,FUNC_2
+idma64_chan_deactivate,FUNC_3
+idma64c,VAR_4
+drain,VAR_5
+count,VAR_6
+cfglo,VAR_7

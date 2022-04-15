@@ -1,0 +1,16 @@
+CFG_3_MAX_LEN_SHIFT,VAR_0
+CFG_3_RX_IFG_TH_SHIFT,VAR_1
+NPS_ENET_GE_MAC_CFG_3_MAX_LEN,VAR_2
+NPS_ENET_GE_MAC_CFG_3_RX_IFG_TH,VAR_3
+napi_enable,FUNC_0
+netdev_priv,FUNC_1
+netif_start_queue,FUNC_2
+nps_enet_hw_disable_control,FUNC_3
+nps_enet_hw_enable_control,FUNC_4
+nps_enet_hw_reset,FUNC_5
+nps_enet_irq_handler,VAR_4
+request_irq,FUNC_6
+nps_enet_open,FUNC_7
+ndev,VAR_5
+priv,VAR_6
+err,VAR_7

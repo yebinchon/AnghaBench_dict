@@ -1,0 +1,16 @@
+HV_BUFF_SIZE,VAR_0
+HV_KBD_RINGBUFF_RECV_SZ,VAR_1
+HV_KBD_RINGBUFF_SEND_SZ,VAR_2
+M_DEVBUF,VAR_3
+M_WAITOK,VAR_4
+M_ZERO,VAR_5
+device_get_softc,FUNC_0
+free,FUNC_1
+malloc,FUNC_2
+vmbus_chan_open,FUNC_3
+vmbus_chan_set_readbatch,FUNC_4
+hv_kbd_attach1,FUNC_5
+dev,VAR_6
+cb,VAR_7
+ret,VAR_8
+sc,VAR_9

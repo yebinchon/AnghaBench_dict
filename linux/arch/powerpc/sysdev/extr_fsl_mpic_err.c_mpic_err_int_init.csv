@@ -1,0 +1,11 @@
+IRQF_NO_THREAD,VAR_0
+fsl_error_int_handler,VAR_1
+irq_create_mapping,FUNC_0
+mpic_fsl_err_write,FUNC_1
+pr_err,FUNC_2
+request_irq,FUNC_3
+mpic_err_int_init,FUNC_4
+mpic,VAR_2
+irqnum,VAR_3
+virq,VAR_4
+ret,VAR_5

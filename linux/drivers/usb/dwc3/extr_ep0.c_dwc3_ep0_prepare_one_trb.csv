@@ -1,0 +1,16 @@
+DWC3_TRB_CTRL_CHN,VAR_0
+DWC3_TRB_CTRL_HWO,VAR_1
+DWC3_TRB_CTRL_IOC,VAR_2
+DWC3_TRB_CTRL_ISP_IMI,VAR_3
+DWC3_TRB_CTRL_LST,VAR_4
+lower_32_bits,FUNC_0
+trace_dwc3_prepare_trb,FUNC_1
+upper_32_bits,FUNC_2
+dwc3_ep0_prepare_one_trb,FUNC_3
+dep,VAR_5
+buf_dma,VAR_6
+len,VAR_7
+type,VAR_8
+chain,VAR_9
+trb,VAR_10
+dwc,VAR_11

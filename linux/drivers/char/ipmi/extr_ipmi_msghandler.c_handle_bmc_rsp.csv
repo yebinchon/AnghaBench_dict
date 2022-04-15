@@ -1,0 +1,11 @@
+IPMI_BMC_CHANNEL,VAR_0
+IPMI_RESPONSE_RECV_TYPE,VAR_1
+IPMI_SYSTEM_INTERFACE_ADDR_TYPE,VAR_2
+deliver_local_response,FUNC_0
+dev_warn,FUNC_1
+memcpy,FUNC_2
+handle_bmc_rsp,FUNC_3
+intf,VAR_3
+msg,VAR_4
+recv_msg,VAR_5
+smi_addr,VAR_6

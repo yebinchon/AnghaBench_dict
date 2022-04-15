@@ -1,0 +1,15 @@
+DPRTC_CMDID_GET_IRQ_STATUS,VAR_0
+cpu_to_le32,FUNC_0
+le32_to_cpu,FUNC_1
+mc_encode_cmd_header,FUNC_2
+mc_send_command,FUNC_3
+dprtc_get_irq_status,FUNC_4
+mc_io,VAR_1
+cmd_flags,VAR_2
+token,VAR_3
+irq_index,VAR_4
+status,VAR_5
+cmd_params,VAR_6
+rsp_params,VAR_7
+cmd,VAR_8
+err,VAR_9

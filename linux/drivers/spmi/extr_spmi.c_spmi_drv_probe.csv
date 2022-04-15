@@ -1,0 +1,14 @@
+pm_runtime_disable,FUNC_0
+pm_runtime_enable,FUNC_1
+pm_runtime_get_noresume,FUNC_2
+pm_runtime_put_noidle,FUNC_3
+pm_runtime_set_active,FUNC_4
+pm_runtime_set_suspended,FUNC_5
+stub1,FUNC_6
+to_spmi_device,FUNC_7
+to_spmi_driver,FUNC_8
+spmi_drv_probe,FUNC_9
+dev,VAR_0
+sdrv,VAR_1
+sdev,VAR_2
+err,VAR_3

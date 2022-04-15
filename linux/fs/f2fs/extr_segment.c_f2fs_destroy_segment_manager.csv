@@ -1,0 +1,11 @@
+SM_I,FUNC_0
+destroy_curseg,FUNC_1
+destroy_dirty_segmap,FUNC_2
+destroy_discard_cmd_control,FUNC_3
+destroy_free_segmap,FUNC_4
+destroy_sit_info,FUNC_5
+f2fs_destroy_flush_cmd_control,FUNC_6
+kvfree,FUNC_7
+f2fs_destroy_segment_manager,FUNC_8
+sbi,VAR_0
+sm_info,VAR_1

@@ -1,0 +1,16 @@
+EVP_MAX_MD_SIZE,VAR_0
+SSL3_HM_HEADER_LENGTH,VAR_1
+SSL3_MT_MESSAGE_HASH,VAR_2
+memset,FUNC_0
+ssl3_digest_cached_records,FUNC_1
+ssl3_finish_mac,FUNC_2
+ssl3_init_finished_mac,FUNC_3
+ssl_handshake_hash,FUNC_4
+create_synthetic_message_hash,FUNC_5
+s,VAR_3
+hashval,VAR_4
+hashlen,VAR_5
+hrr,VAR_6
+hrrlen,VAR_7
+hashvaltmp,VAR_8
+msghdr,VAR_9

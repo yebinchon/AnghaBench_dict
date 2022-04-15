@@ -1,0 +1,11 @@
+AUDIT_SYSTEM_SHUTDOWN,VAR_0
+EPERM,VAR_1
+assert,FUNC_0
+audit_log_user_comm_message,FUNC_1
+errno,VAR_2
+log_error_errno,FUNC_2
+utmp_put_shutdown,FUNC_3
+on_shutdown,FUNC_4
+c,VAR_3
+r,VAR_4
+q,VAR_5

@@ -1,0 +1,13 @@
+NFPROTO_IPV4,VAR_0
+NF_INET_LOCAL_OUT,VAR_1
+dev_net,FUNC_0
+likely,FUNC_1
+nf_hook,FUNC_2
+nf_reset_ct,FUNC_3
+vrf_output_direct,FUNC_4
+vrf_ip_out_direct,FUNC_5
+vrf_dev,VAR_2
+sk,VAR_3
+skb,VAR_4
+net,VAR_5
+err,VAR_6

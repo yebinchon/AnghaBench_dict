@@ -1,0 +1,16 @@
+BUS_DMA_NOWAIT,VAR_0
+DMA_POOL_LOCK,FUNC_0
+DMA_POOL_UNLOCK,FUNC_1
+KASSERT,FUNC_2
+_bus_dmamap_load_phys,FUNC_3
+vtophys,FUNC_4
+dma_pool_obj_ctor,FUNC_5
+mem,VAR_1
+size,VAR_2
+arg,VAR_3
+flags,VAR_4
+obj,VAR_5
+pool,VAR_6
+error,VAR_7
+nseg,VAR_8
+seg,VAR_9

@@ -1,0 +1,15 @@
+DSC_INIT16,VAR_0
+ENOMEM,VAR_1
+GFP_KERNEL,VAR_2
+PCH_GBE_TX_DESC,FUNC_0
+dma_alloc_coherent,FUNC_1
+netdev_dbg,FUNC_2
+vfree,FUNC_3
+vzalloc,FUNC_4
+pch_gbe_setup_tx_resources,FUNC_5
+adapter,VAR_3
+tx_ring,VAR_4
+pdev,VAR_5
+tx_desc,VAR_6
+size,VAR_7
+desNo,VAR_8

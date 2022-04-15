@@ -1,0 +1,17 @@
+BUS_DMA_NOWAIT,VAR_0
+UIO_READ,VAR_1
+UIO_USERSPACE,VAR_2
+bus_dmamap_load_uio,FUNC_0
+pmap_extract,FUNC_1
+proto_busdma_md_load_callback,VAR_3
+vmspace_pmap,FUNC_2
+proto_busdma_md_load,FUNC_3
+busdma,VAR_4
+md,VAR_5
+ioc,VAR_6
+td,VAR_7
+pcb,VAR_8
+iov,VAR_9
+uio,VAR_10
+pmap,VAR_11
+error,VAR_12

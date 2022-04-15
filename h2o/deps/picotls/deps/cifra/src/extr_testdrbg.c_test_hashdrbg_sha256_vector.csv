@@ -1,0 +1,14 @@
+TEST_CHECK,FUNC_0
+cf_hash_drbg_sha256_gen,FUNC_1
+cf_hash_drbg_sha256_init,FUNC_2
+cf_hash_drbg_sha256_reseed,FUNC_3
+memcmp,FUNC_4
+unhex,FUNC_5
+test_hashdrbg_sha256_vector,FUNC_6
+entropy,VAR_0
+nonce,VAR_1
+persn,VAR_2
+reseed,VAR_3
+got,VAR_4
+expect,VAR_5
+ctx,VAR_6

@@ -1,0 +1,10 @@
+KVM_PAGE_TRACK_WRITE,VAR_0
+PFERR_PRESENT_MASK,VAR_1
+PFERR_RSVD_MASK,VAR_2
+PFERR_WRITE_MASK,VAR_3
+kvm_page_track_is_active,FUNC_0
+unlikely,FUNC_1
+page_fault_handle_page_track,FUNC_2
+vcpu,VAR_4
+error_code,VAR_5
+gfn,VAR_6

@@ -1,0 +1,15 @@
+BD70528_GPIO_DRIVE_MASK,VAR_0
+BD70528_GPIO_OPEN_DRAIN,VAR_1
+BD70528_GPIO_PUSH_PULL,VAR_2
+ENOTSUPP,VAR_3
+GPIO_OUT_REG,FUNC_0
+bd70528_set_debounce,FUNC_1
+gpiochip_get_data,FUNC_2
+pinconf_to_config_argument,FUNC_3
+pinconf_to_config_param,FUNC_4
+regmap_update_bits,FUNC_5
+bd70528_gpio_set_config,FUNC_6
+chip,VAR_4
+offset,VAR_5
+config,VAR_6
+bdgpio,VAR_7

@@ -1,0 +1,9 @@
+PQI_REQUEST_HEADER_LENGTH,VAR_0
+PQI_REQUEST_IU_ACKNOWLEDGE_VENDOR_EVENT,VAR_1
+memset,FUNC_0
+pqi_send_event_ack,FUNC_1
+put_unaligned_le16,FUNC_2
+pqi_acknowledge_event,FUNC_3
+ctrl_info,VAR_2
+event,VAR_3
+request,VAR_4

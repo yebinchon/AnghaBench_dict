@@ -1,0 +1,11 @@
+BLEN,FUNC_0
+CO_IGNORE_PACKET_ID,VAR_0
+assert_true,FUNC_1
+buf_clear,FUNC_2
+skip_if_tls_crypt_not_supported,FUNC_3
+tls_crypt_unwrap,FUNC_4
+tls_crypt_wrap,FUNC_5
+tls_crypt_ignore_replay,FUNC_6
+state,VAR_1
+ctx,VAR_2
+tmp,VAR_3

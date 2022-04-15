@@ -1,0 +1,15 @@
+IXGBE_WUFC_BC,VAR_0
+IXGBE_WUFC_EX,VAR_1
+IXGBE_WUFC_MAG,VAR_2
+IXGBE_WUFC_MC,VAR_3
+WAKE_BCAST,VAR_4
+WAKE_MAGIC,VAR_5
+WAKE_MCAST,VAR_6
+WAKE_UCAST,VAR_7
+device_can_wakeup,FUNC_0
+ixgbe_wol_exclusion,FUNC_1
+netdev_priv,FUNC_2
+ixgbe_get_wol,FUNC_3
+netdev,VAR_8
+wol,VAR_9
+adapter,VAR_10

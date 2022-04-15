@@ -1,0 +1,14 @@
+EBUSY,VAR_0
+NFCTH_POLICY,VAR_1
+NFCTH_PRIV_DATA_LEN,VAR_2
+NFCTH_QUEUE_NUM,VAR_3
+NFCTH_STATUS,VAR_4
+NF_CT_HELPER_F_CONFIGURED,VAR_5
+nfnl_cthelper_update_policy,FUNC_0
+nla_get_be32,FUNC_1
+ntohl,FUNC_2
+nfnl_cthelper_update,FUNC_3
+tb,VAR_6
+helper,VAR_7
+ret,VAR_8
+status,VAR_9

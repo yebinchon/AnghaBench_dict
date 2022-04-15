@@ -1,0 +1,16 @@
+CX2072X_ANALOG_TEST12,VAR_0
+CX2072X_DIGITAL_TEST1,VAR_1
+CX2072X_DIGITAL_TEST15,VAR_2
+CX2072X_GPIO_STICKY_MASK,VAR_3
+CX2072X_PORTA_UNSOLICITED_RESPONSE,VAR_4
+CX2072X_UM_INTERRUPT_CRTL_E,VAR_5
+regmap_write,FUNC_0
+snd_soc_component_get_dapm,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+snd_soc_dapm_force_enable_pin_unlocked,FUNC_3
+snd_soc_dapm_mutex_lock,FUNC_4
+snd_soc_dapm_mutex_unlock,FUNC_5
+cx2072x_enable_jack_detect,FUNC_6
+codec,VAR_6
+cx2072x,VAR_7
+dapm,VAR_8

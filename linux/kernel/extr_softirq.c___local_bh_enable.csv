@@ -1,0 +1,12 @@
+CALLER_ADDR0,VAR_0
+SOFTIRQ_MASK,VAR_1
+_RET_IP_,VAR_2
+__preempt_count_sub,FUNC_0
+get_lock_parent_ip,FUNC_1
+lockdep_assert_irqs_disabled,FUNC_2
+preempt_count,FUNC_3
+softirq_count,FUNC_4
+trace_preempt_on,FUNC_5
+trace_softirqs_on,FUNC_6
+__local_bh_enable,FUNC_7
+cnt,VAR_3

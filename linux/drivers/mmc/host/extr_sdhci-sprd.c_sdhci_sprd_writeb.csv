@@ -1,0 +1,9 @@
+SDHCI_HW_RESET_CARD,VAR_0
+SDHCI_SOFTWARE_RESET,VAR_1
+readb_relaxed,FUNC_0
+unlikely,FUNC_1
+writeb_relaxed,FUNC_2
+sdhci_sprd_writeb,FUNC_3
+host,VAR_2
+val,VAR_3
+reg,VAR_4

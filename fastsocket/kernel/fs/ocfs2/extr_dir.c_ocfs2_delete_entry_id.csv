@@ -1,0 +1,14 @@
+__ocfs2_delete_entry,FUNC_0
+brelse,FUNC_1
+i_size_read,FUNC_2
+mlog_errno,FUNC_3
+ocfs2_read_inode_block,FUNC_4
+ocfs2_delete_entry_id,FUNC_5
+handle,VAR_0
+dir,VAR_1
+de_del,VAR_2
+bh,VAR_3
+ret,VAR_4
+di_bh,VAR_5
+di,VAR_6
+data,VAR_7

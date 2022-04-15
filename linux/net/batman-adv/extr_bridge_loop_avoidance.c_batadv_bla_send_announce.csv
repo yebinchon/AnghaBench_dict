@@ -1,0 +1,13 @@
+BATADV_CLAIM_TYPE_ANNOUNCE,VAR_0
+ETH_ALEN,VAR_1
+batadv_announce_mac,VAR_2
+batadv_bla_send_claim,FUNC_0
+htons,FUNC_1
+memcpy,FUNC_2
+spin_lock_bh,FUNC_3
+spin_unlock_bh,FUNC_4
+batadv_bla_send_announce,FUNC_5
+bat_priv,VAR_3
+backbone_gw,VAR_4
+mac,VAR_5
+crc,VAR_6

@@ -1,0 +1,15 @@
+DMA_CTRL_STATUS,VAR_0
+DMA_CTRL_STATUS_RESET,VAR_1
+MAX_DMA_ABORT_LOOPS,VAR_2
+MAX_DMA_XFER_LOOPS,VAR_3
+SATA_DMA_CHANNEL,VAR_4
+dma_busy,FUNC_0
+printf,FUNC_1
+readl,FUNC_2
+udelay,FUNC_3
+writel,FUNC_4
+wait_dma_not_busy,FUNC_5
+device,VAR_5
+cleanup_required,VAR_6
+loops,VAR_7
+ctrl_status,VAR_8

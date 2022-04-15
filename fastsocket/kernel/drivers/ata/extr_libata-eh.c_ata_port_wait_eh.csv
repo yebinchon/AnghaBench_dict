@@ -1,0 +1,15 @@
+ATA_PFLAG_EH_IN_PROGRESS,VAR_0
+ATA_PFLAG_EH_PENDING,VAR_1
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_2
+ata_msleep,FUNC_1
+finish_wait,FUNC_2
+prepare_to_wait,FUNC_3
+schedule,FUNC_4
+scsi_host_in_recovery,FUNC_5
+spin_lock_irqsave,FUNC_6
+spin_unlock_irqrestore,FUNC_7
+wait,VAR_3
+ata_port_wait_eh,FUNC_8
+ap,VAR_4
+flags,VAR_5

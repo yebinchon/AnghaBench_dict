@@ -1,0 +1,14 @@
+DRM_MODE_FLAG_DBLSCAN,VAR_0
+MODE_CLOCK_HIGH,VAR_1
+MODE_CLOCK_RANGE,VAR_2
+MODE_NO_DBLESCAN,VAR_3
+MODE_OK,VAR_4
+abs,FUNC_0
+drm_mode_vrefresh,FUNC_1
+intel_tv_mode_find,FUNC_2
+to_i915,FUNC_3
+intel_tv_mode_valid,FUNC_4
+connector,VAR_5
+mode,VAR_6
+tv_mode,VAR_7
+max_dotclk,VAR_8

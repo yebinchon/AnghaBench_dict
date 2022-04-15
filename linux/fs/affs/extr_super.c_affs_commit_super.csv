@@ -1,0 +1,15 @@
+AFFS_ROOT_TAIL,FUNC_0
+AFFS_SB,FUNC_1
+affs_fix_checksum,FUNC_2
+affs_secs_to_datestamp,FUNC_3
+ktime_get_real_seconds,FUNC_4
+lock_buffer,FUNC_5
+mark_buffer_dirty,FUNC_6
+sync_dirty_buffer,FUNC_7
+unlock_buffer,FUNC_8
+affs_commit_super,FUNC_9
+sb,VAR_0
+wait,VAR_1
+sbi,VAR_2
+bh,VAR_3
+tail,VAR_4

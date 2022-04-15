@@ -1,0 +1,16 @@
+BE_MAXPATHLEN,VAR_0
+ZFS_TYPE_SNAPSHOT,VAR_1
+snprintf,FUNC_0
+zfs_dataset_exists,FUNC_1
+zfs_destroy,FUNC_2
+zfs_get_name,FUNC_3
+zfs_iter_children,FUNC_4
+zfs_iter_filesystems,FUNC_5
+zfs_open,FUNC_6
+be_destroy_cb,FUNC_7
+zfs_hdl,VAR_2
+data,VAR_3
+path,VAR_4
+bdd,VAR_5
+snap,VAR_6
+err,VAR_7

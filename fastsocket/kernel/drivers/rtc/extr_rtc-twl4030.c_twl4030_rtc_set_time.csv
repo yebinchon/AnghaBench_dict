@@ -1,0 +1,16 @@
+ALL_TIME_REGS,VAR_0
+BIT_RTC_CTRL_REG_STOP_RTC_M,VAR_1
+REG_RTC_CTRL_REG,VAR_2
+REG_SECONDS_REG,VAR_3
+TWL4030_MODULE_RTC,VAR_4
+bin2bcd,FUNC_0
+dev_err,FUNC_1
+twl4030_i2c_write,FUNC_2
+twl4030_rtc_read_u8,FUNC_3
+twl4030_rtc_write_u8,FUNC_4
+twl4030_rtc_set_time,FUNC_5
+dev,VAR_5
+tm,VAR_6
+save_control,VAR_7
+rtc_data,VAR_8
+ret,VAR_9

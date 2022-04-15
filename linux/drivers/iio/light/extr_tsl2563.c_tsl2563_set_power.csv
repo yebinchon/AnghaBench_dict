@@ -1,0 +1,10 @@
+TSL2563_CMD,VAR_0
+TSL2563_CMD_POWER_OFF,VAR_1
+TSL2563_CMD_POWER_ON,VAR_2
+TSL2563_REG_CTRL,VAR_3
+i2c_smbus_write_byte_data,FUNC_0
+tsl2563_set_power,FUNC_1
+chip,VAR_4
+on,VAR_5
+client,VAR_6
+cmd,VAR_7

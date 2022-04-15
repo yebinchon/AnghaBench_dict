@@ -1,0 +1,13 @@
+BL_BUSY,VAR_0
+BL_WANTED,VAR_1
+CLR,FUNC_0
+ISSET,FUNC_1
+buf_busycount,VAR_2
+buf_mtxp,VAR_3
+current_thread,FUNC_2
+lck_mtx_lock_spin,FUNC_3
+lck_mtx_unlock,FUNC_4
+wakeup,FUNC_5
+buf_drop,FUNC_6
+bp,VAR_4
+need_wakeup,VAR_5

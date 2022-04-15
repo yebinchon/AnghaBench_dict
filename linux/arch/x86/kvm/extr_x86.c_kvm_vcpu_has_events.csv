@@ -1,0 +1,14 @@
+KVM_REQ_NMI,VAR_0
+KVM_REQ_SMI,VAR_1
+is_smm,FUNC_0
+kvm_apic_has_events,FUNC_1
+kvm_arch_interrupt_allowed,FUNC_2
+kvm_cpu_has_interrupt,FUNC_3
+kvm_guest_apic_has_interrupt,FUNC_4
+kvm_hv_has_stimer_pending,FUNC_5
+kvm_test_request,FUNC_6
+kvm_x86_ops,VAR_2
+list_empty_careful,FUNC_7
+stub1,FUNC_8
+kvm_vcpu_has_events,FUNC_9
+vcpu,VAR_3

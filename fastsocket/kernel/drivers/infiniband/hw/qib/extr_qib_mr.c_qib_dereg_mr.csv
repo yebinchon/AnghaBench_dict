@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+HZ,VAR_1
+deinit_qib_mregion,FUNC_0
+ib_umem_release,FUNC_1
+kfree,FUNC_2
+qib_free_lkey,FUNC_3
+qib_get_mr,FUNC_4
+qib_put_mr,FUNC_5
+to_imr,FUNC_6
+wait_for_completion_timeout,FUNC_7
+qib_dereg_mr,FUNC_8
+ibmr,VAR_2
+mr,VAR_3
+ret,VAR_4
+timeout,VAR_5

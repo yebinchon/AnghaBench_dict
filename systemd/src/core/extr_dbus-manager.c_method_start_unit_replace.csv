@@ -1,0 +1,15 @@
+BUS_ERROR_NO_SUCH_JOB,VAR_0
+JOB_START,VAR_1
+assert,FUNC_0
+bus_get_unit_by_name,FUNC_1
+method_start_unit_generic,FUNC_2
+sd_bus_error_setf,FUNC_3
+sd_bus_message_read,FUNC_4
+method_start_unit_replace,FUNC_5
+message,VAR_2
+userdata,VAR_3
+error,VAR_4
+m,VAR_5
+old_name,VAR_6
+u,VAR_7
+r,VAR_8

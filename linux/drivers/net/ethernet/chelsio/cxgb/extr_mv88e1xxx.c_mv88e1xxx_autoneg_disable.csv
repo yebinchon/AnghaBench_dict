@@ -1,0 +1,10 @@
+BMCR_ANENABLE,VAR_0
+BMCR_ANRESTART,VAR_1
+CROSSOVER_MDI,VAR_2
+MII_BMCR,VAR_3
+mv88e1xxx_crossover_set,FUNC_0
+simple_mdio_read,FUNC_1
+simple_mdio_write,FUNC_2
+mv88e1xxx_autoneg_disable,FUNC_3
+cphy,VAR_4
+ctl,VAR_5

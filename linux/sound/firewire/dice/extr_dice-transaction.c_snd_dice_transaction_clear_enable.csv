@@ -1,0 +1,10 @@
+FW_FIXED_GENERATION,VAR_0
+FW_QUIET,VAR_1
+GLOBAL_ENABLE,VAR_2
+SND_DICE_ADDR_TYPE_GLOBAL,VAR_3
+TCODE_WRITE_QUADLET_REQUEST,VAR_4
+get_subaddr,FUNC_0
+snd_fw_transaction,FUNC_1
+snd_dice_transaction_clear_enable,FUNC_2
+dice,VAR_5
+value,VAR_6

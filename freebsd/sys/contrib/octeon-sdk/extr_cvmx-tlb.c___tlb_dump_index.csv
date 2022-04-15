@@ -1,0 +1,15 @@
+CVMX_MF_ENTRY_HIGH,FUNC_0
+CVMX_MF_ENTRY_LO_0,FUNC_1
+CVMX_MF_ENTRY_LO_1,FUNC_2
+CVMX_MF_PAGEMASK,FUNC_3
+PAGE_MASK,VAR_0
+__tlb_entry_is_free,FUNC_4
+__tlb_read_index,FUNC_5
+cvmx_core_get_tlb_entries,FUNC_6
+cvmx_dprintf,FUNC_7
+__tlb_dump_index,FUNC_8
+tlbi,VAR_1
+lo0,VAR_2
+lo1,VAR_3
+pgmask,VAR_4
+hi,VAR_5

@@ -1,0 +1,17 @@
+PANIC,VAR_0
+ThisTimeLineID,VAR_1
+WAIT_EVENT_WAL_SYNC,VAR_2
+XLogFileNameP,FUNC_0
+elog,FUNC_1
+ereport,FUNC_2
+errcode_for_file_access,FUNC_3
+errmsg,FUNC_4
+pg_fdatasync,FUNC_5
+pg_fsync_no_writethrough,FUNC_6
+pg_fsync_writethrough,FUNC_7
+pgstat_report_wait_end,FUNC_8
+pgstat_report_wait_start,FUNC_9
+sync_method,VAR_3
+issue_xlog_fsync,FUNC_10
+fd,VAR_4
+segno,VAR_5

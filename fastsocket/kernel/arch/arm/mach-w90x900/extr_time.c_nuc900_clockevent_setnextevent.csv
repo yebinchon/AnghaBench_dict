@@ -1,0 +1,11 @@
+COUNTEN,VAR_0
+INTEN,VAR_1
+PRESCALE,VAR_2
+REG_TCSR0,VAR_3
+REG_TICR0,VAR_4
+__raw_readl,FUNC_0
+__raw_writel,FUNC_1
+nuc900_clockevent_setnextevent,FUNC_2
+evt,VAR_5
+clk,VAR_6
+val,VAR_7

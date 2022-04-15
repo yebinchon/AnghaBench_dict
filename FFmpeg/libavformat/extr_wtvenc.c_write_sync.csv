@@ -1,0 +1,10 @@
+add_serial_pair,FUNC_0
+avio_wl64,FUNC_1
+ff_sync_guid,VAR_0
+finish_chunk,FUNC_2
+write_chunk_header,FUNC_3
+write_sync,FUNC_4
+s,VAR_1
+pb,VAR_2
+wctx,VAR_3
+last_chunk_pos,VAR_4

@@ -1,0 +1,17 @@
+PROTOCOL_BINARY_CMD_ADD,VAR_0
+PROTOCOL_BINARY_RESPONSE_KEY_EEXISTS,VAR_1
+PROTOCOL_BINARY_RESPONSE_SUCCESS,VAR_2
+TEST_PASS,VAR_3
+safe_recv_packet,FUNC_0
+safe_send,FUNC_1
+storage_command,FUNC_2
+strlen,FUNC_3
+validate_response_header,FUNC_4
+test_binary_add_impl,FUNC_5
+key,VAR_4
+cmd,VAR_5
+value,VAR_6
+send,VAR_7
+receive,VAR_8
+len,VAR_9
+ii,VAR_10

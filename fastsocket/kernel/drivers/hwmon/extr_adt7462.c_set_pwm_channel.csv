@@ -1,0 +1,12 @@
+ADT7462_PWM_CHANNEL_MASK,VAR_0
+ADT7462_PWM_CHANNEL_SHIFT,VAR_1
+ADT7462_REG_PWM_CFG,FUNC_0
+i2c_smbus_write_byte_data,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+set_pwm_channel,FUNC_4
+client,VAR_2
+data,VAR_3
+which,VAR_4
+value,VAR_5
+temp,VAR_6

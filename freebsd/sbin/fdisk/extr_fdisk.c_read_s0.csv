@@ -1,0 +1,15 @@
+DOSMAGIC,VAR_0
+DOSMAGICOFFSET,VAR_1
+DOSPARTOFF,VAR_2
+DOSPARTSIZE,VAR_3
+NDOSPART,VAR_4
+dos_partition_dec,FUNC_0
+free,FUNC_1
+le16dec,FUNC_2
+malloc,FUNC_3
+mboot,VAR_5
+read_disk,FUNC_4
+secsize,VAR_6
+warnx,FUNC_5
+read_s0,FUNC_6
+i,VAR_7

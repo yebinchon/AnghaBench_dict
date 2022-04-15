@@ -1,0 +1,15 @@
+ACPI_EC_COMMAND_QUERY,VAR_0
+ACPI_EC_MSI_UDELAY,VAR_1
+EC_FLAGS_MSI,VAR_2
+EC_FLAGS_QUERY_PENDING,VAR_3
+clear_bit,FUNC_0
+ec_poll,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+start_transaction,FUNC_4
+udelay,FUNC_5
+acpi_ec_transaction_unlocked,FUNC_6
+ec,VAR_4
+t,VAR_5
+tmp,VAR_6
+ret,VAR_7

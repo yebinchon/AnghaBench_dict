@@ -1,0 +1,11 @@
+ESR_ELx_SYS64_ISS_RT,FUNC_0
+ILL_ILLOPC,VAR_0
+SIGILL,VAR_1
+do_emulate_mrs,FUNC_1
+esr_sys64_to_sysreg,FUNC_2
+force_signal_inject,FUNC_3
+mrs_handler,FUNC_4
+esr,VAR_2
+regs,VAR_3
+sysreg,VAR_4
+rt,VAR_5

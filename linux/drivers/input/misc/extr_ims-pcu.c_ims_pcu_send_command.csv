@@ -1,0 +1,17 @@
+IMS_PCU_PROTOCOL_DLE,VAR_0
+IMS_PCU_PROTOCOL_ETX,VAR_1
+IMS_PCU_PROTOCOL_STX,VAR_2
+ims_pcu_byte_needs_escape,FUNC_0
+ims_pcu_send_cmd_chunk,FUNC_1
+ims_pcu_send_command,FUNC_2
+pcu,VAR_3
+command,VAR_4
+data,VAR_5
+len,VAR_6
+count,VAR_7
+chunk,VAR_8
+delta,VAR_9
+i,VAR_10
+error,VAR_11
+csum,VAR_12
+ack_id,VAR_13

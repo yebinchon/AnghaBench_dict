@@ -1,0 +1,16 @@
+DP_TEST_ACK,VAR_0
+DP_TEST_NAK,VAR_1
+DP_TEST_REQUEST,VAR_2
+DP_TEST_RESPONSE,VAR_3
+DRM_DEBUG_KMS,FUNC_0
+drm_dp_dpcd_readb,FUNC_1
+drm_dp_dpcd_writeb,FUNC_2
+intel_dp_autotest_edid,FUNC_3
+intel_dp_autotest_link_training,FUNC_4
+intel_dp_autotest_phy_pattern,FUNC_5
+intel_dp_autotest_video_pattern,FUNC_6
+intel_dp_handle_test_request,FUNC_7
+intel_dp,VAR_4
+response,VAR_5
+request,VAR_6
+status,VAR_7

@@ -1,0 +1,12 @@
+CLOG_TRUNCATE,VAR_0
+RM_CLOG_ID,VAR_1
+XLogBeginInsert,FUNC_0
+XLogFlush,FUNC_1
+XLogInsert,FUNC_2
+XLogRegisterData,FUNC_3
+WriteTruncateXlogRec,FUNC_4
+pageno,VAR_2
+oldestXact,VAR_3
+oldestXactDb,VAR_4
+recptr,VAR_5
+xlrec,VAR_6

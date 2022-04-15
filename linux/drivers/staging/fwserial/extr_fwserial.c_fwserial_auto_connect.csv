@@ -1,0 +1,12 @@
+CONNECT_RETRY_DELAY,VAR_0
+EAGAIN,VAR_1
+MAX_CONNECT_RETRIES,VAR_2
+connect,VAR_3
+fwserial_connect_peer,FUNC_0
+schedule_delayed_work,FUNC_1
+to_delayed_work,FUNC_2
+to_peer,FUNC_3
+fwserial_auto_connect,FUNC_4
+work,VAR_4
+peer,VAR_5
+err,VAR_6

@@ -1,0 +1,12 @@
+ATOM_PPD_CONN_TYPE,VAR_0
+ATOM_PPD_DEV_TYPE,VAR_1
+ENXIO,VAR_2
+NTB_DEV_DSD,VAR_3
+NTB_DEV_USD,VAR_4
+NTB_PPD_OFFSET,VAR_5
+device_printf,FUNC_0
+pci_read_config,FUNC_1
+intel_ntb_detect_atom,FUNC_2
+ntb,VAR_6
+ppd,VAR_7
+conn_type,VAR_8

@@ -1,0 +1,14 @@
+CSR_PROGRAM,FUNC_0
+DRM_ERROR,FUNC_1
+HAS_CSR,FUNC_2
+I915_WRITE,FUNC_3
+I915_WRITE_FW,FUNC_4
+assert_rpm_wakelock_held,FUNC_5
+gen9_set_dc_state_debugmask,FUNC_6
+preempt_disable,FUNC_7
+preempt_enable,FUNC_8
+intel_csr_load_program,FUNC_9
+dev_priv,VAR_0
+payload,VAR_1
+i,VAR_2
+fw_size,VAR_3

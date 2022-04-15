@@ -1,0 +1,12 @@
+CPF_CURRENTPITCH,VAR_0
+CVCF,VAR_1
+IFATN,VAR_2
+IP,VAR_3
+PTRX_PITCHTARGET,VAR_4
+VTFT,VAR_5
+snd_emu10k1_ptr_write,FUNC_0
+snd_emu10k1_voice_intr_disable,FUNC_1
+snd_emu10k1_playback_stop_voice,FUNC_2
+emu,VAR_6
+evoice,VAR_7
+voice,VAR_8

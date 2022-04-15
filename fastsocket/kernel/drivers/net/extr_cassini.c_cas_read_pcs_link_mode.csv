@@ -1,0 +1,11 @@
+PCS_MII_LPA_ASYM_PAUSE,VAR_0
+PCS_MII_LPA_FD,VAR_1
+PCS_MII_LPA_SYM_PAUSE,VAR_2
+REG_PCS_MII_LPA,VAR_3
+readl,FUNC_0
+cas_read_pcs_link_mode,FUNC_1
+cp,VAR_4
+fd,VAR_5
+spd,VAR_6
+pause,VAR_7
+val,VAR_8

@@ -1,0 +1,10 @@
+create_socket_tcp,FUNC_0
+establish_http_proxy_passthru,FUNC_1
+establish_socks_proxy_passthru,FUNC_2
+get_server_poll_remaining_time,FUNC_3
+openvpn_close_socket,FUNC_4
+socket_connect,FUNC_5
+phase2_tcp_client,FUNC_6
+sock,VAR_0
+sig_info,VAR_1
+proxy_retry,VAR_2

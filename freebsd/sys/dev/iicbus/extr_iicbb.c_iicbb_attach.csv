@@ -1,0 +1,15 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RWTUN,VAR_1
+DEFAULT_SCL_LOW_TIMEOUT,VAR_2
+ENXIO,VAR_3
+OID_AUTO,VAR_4
+SYSCTL_ADD_UINT,FUNC_0
+SYSCTL_CHILDREN,FUNC_1
+bus_generic_attach,FUNC_2
+device_add_child,FUNC_3
+device_get_softc,FUNC_4
+device_get_sysctl_ctx,FUNC_5
+device_get_sysctl_tree,FUNC_6
+iicbb_attach,FUNC_7
+dev,VAR_5
+sc,VAR_6

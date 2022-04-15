@@ -1,0 +1,11 @@
+BLK_MQ_REQ_RESERVED,VAR_0
+HZ,VAR_1
+IS_ERR,FUNC_0
+NVME_QID_ANY,VAR_2
+PTR_ERR,FUNC_1
+blk_execute_rq_nowait,FUNC_2
+nvme_alloc_request,FUNC_3
+nvme_keep_alive_end_io,VAR_3
+nvme_keep_alive,FUNC_4
+ctrl,VAR_4
+rq,VAR_5

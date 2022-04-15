@@ -1,0 +1,16 @@
+HCI_CONNECTABLE,VAR_0
+HCI_DISCOVERABLE,VAR_1
+MGMT_OP_SET_CONNECTABLE,VAR_2
+hci_dev_clear_flag,FUNC_0
+hci_dev_set_flag,FUNC_1
+hci_dev_test_flag,FUNC_2
+hci_req_update_scan,FUNC_3
+hci_update_background_scan,FUNC_4
+new_settings,FUNC_5
+send_settings_rsp,FUNC_6
+set_connectable_update_settings,FUNC_7
+hdev,VAR_3
+sk,VAR_4
+val,VAR_5
+changed,VAR_6
+err,VAR_7

@@ -1,0 +1,12 @@
+HTS221_REG_STATUS_ADDR,VAR_0
+HTS221_RH_DRDY_MASK,VAR_1
+IRQ_HANDLED,VAR_2
+IRQ_NONE,VAR_3
+iio_trigger_poll_chained,FUNC_0
+regmap_read,FUNC_1
+hts221_trigger_handler_thread,FUNC_2
+irq,VAR_4
+private,VAR_5
+hw,VAR_6
+err,VAR_7
+status,VAR_8

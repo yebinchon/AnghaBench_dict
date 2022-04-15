@@ -1,0 +1,13 @@
+OFF_SLAB,FUNC_0
+SLAB_DESTROY_BY_RCU,VAR_0
+call_rcu,FUNC_1
+kmem_cache_free,FUNC_2
+kmem_freepages,FUNC_3
+kmem_rcu_free,VAR_1
+slab_destroy_debugcheck,FUNC_4
+unlikely,FUNC_5
+slab_destroy,FUNC_6
+cachep,VAR_2
+slabp,VAR_3
+addr,VAR_4
+slab_rcu,VAR_5

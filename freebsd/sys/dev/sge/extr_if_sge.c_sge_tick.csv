@@ -1,0 +1,16 @@
+IFQ_DRV_IS_EMPTY,FUNC_0
+SGE_FLAG_LINK,VAR_0
+SGE_LOCK_ASSERT,FUNC_1
+callout_reset,FUNC_2
+device_get_softc,FUNC_3
+hz,VAR_1
+mii_tick,FUNC_4
+sge_miibus_statchg,FUNC_5
+sge_start_locked,FUNC_6
+sge_txeof,FUNC_7
+sge_watchdog,FUNC_8
+sge_tick,FUNC_9
+arg,VAR_2
+sc,VAR_3
+mii,VAR_4
+ifp,VAR_5

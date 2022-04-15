@@ -1,0 +1,12 @@
+CSR_CONFIG_ROM,VAR_0
+CSR_REGISTER_BASE,VAR_1
+TCODE_READ_QUADLET_REQUEST,VAR_2
+be32_to_cpus,FUNC_0
+fw_run_transaction,FUNC_1
+smp_rmb,FUNC_2
+read_rom,FUNC_3
+device,VAR_3
+generation,VAR_4
+index,VAR_5
+data,VAR_6
+rcode,VAR_7

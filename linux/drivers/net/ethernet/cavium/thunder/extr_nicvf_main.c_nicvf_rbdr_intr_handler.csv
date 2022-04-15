@@ -1,0 +1,12 @@
+IRQ_HANDLED,VAR_0
+NICVF_INTR_RBDR,VAR_1
+nicvf_clear_intr,FUNC_0
+nicvf_disable_intr,FUNC_1
+nicvf_dump_intr_status,FUNC_2
+nicvf_is_intr_enabled,FUNC_3
+tasklet_hi_schedule,FUNC_4
+nicvf_rbdr_intr_handler,FUNC_5
+irq,VAR_2
+nicvf_irq,VAR_3
+nic,VAR_4
+qidx,VAR_5

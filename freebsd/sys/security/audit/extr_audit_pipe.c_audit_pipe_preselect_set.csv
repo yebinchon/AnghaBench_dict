@@ -1,0 +1,15 @@
+AUDIT_PIPE_LOCK,FUNC_0
+AUDIT_PIPE_UNLOCK,FUNC_1
+M_AUDIT_PIPE_PRESELECT,VAR_0
+M_WAITOK,VAR_1
+TAILQ_INSERT_TAIL,FUNC_2
+app_list,VAR_2
+audit_pipe_preselect_find,FUNC_3
+free,FUNC_4
+malloc,FUNC_5
+audit_pipe_preselect_set,FUNC_6
+ap,VAR_3
+auid,VAR_4
+mask,VAR_5
+app,VAR_6
+app_new,VAR_7

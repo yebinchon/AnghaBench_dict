@@ -1,0 +1,11 @@
+CLOCK_REALTIME,VAR_0
+_glfw,VAR_1
+_glfwPlatformPollEvents,FUNC_0
+clock_gettime,FUNC_1
+emptyEventQueue,FUNC_2
+pthread_cond_timedwait,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+_glfwPlatformWaitEventsTimeout,FUNC_6
+timeout,VAR_2
+time,VAR_3

@@ -1,0 +1,17 @@
+CMD_TRANS_TIMEOUT_MS,VAR_0
+QCA_WCN3990_POWEROFF_PULSE,VAR_1
+QCA_WCN3990_POWERON_PULSE,VAR_2
+bt_dev_dbg,FUNC_0
+bt_dev_err,FUNC_1
+hci_uart_set_flow_control,FUNC_2
+msecs_to_jiffies,FUNC_3
+msleep,FUNC_4
+serdev_device_wait_until_sent,FUNC_5
+serdev_device_write_buf,FUNC_6
+serdev_device_write_flush,FUNC_7
+qca_send_power_pulse,FUNC_8
+hu,VAR_3
+on,VAR_4
+ret,VAR_5
+timeout,VAR_6
+cmd,VAR_7

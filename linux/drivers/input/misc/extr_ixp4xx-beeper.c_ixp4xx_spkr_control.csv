@@ -1,0 +1,12 @@
+IXP4XX_OSRT2,VAR_0
+IXP4XX_OST_ENABLE,VAR_1
+IXP4XX_OST_RELOAD_MASK,VAR_2
+beep_lock,VAR_3
+gpio_direction_input,FUNC_0
+gpio_direction_output,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+ixp4xx_spkr_control,FUNC_4
+pin,VAR_4
+count,VAR_5
+flags,VAR_6

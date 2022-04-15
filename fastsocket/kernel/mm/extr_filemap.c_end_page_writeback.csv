@@ -1,0 +1,9 @@
+BUG,FUNC_0
+PG_writeback,VAR_0
+TestClearPageReclaim,FUNC_1
+rotate_reclaimable_page,FUNC_2
+smp_mb__after_clear_bit,FUNC_3
+test_clear_page_writeback,FUNC_4
+wake_up_page,FUNC_5
+end_page_writeback,FUNC_6
+page,VAR_1

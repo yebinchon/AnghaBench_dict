@@ -1,0 +1,8 @@
+S3C2410_CLKDIVN,VAR_0
+S3C2412_CLKDIVN_USB48DIV,VAR_1
+__raw_readl,FUNC_0
+clk_get_rate,FUNC_1
+s3c2412_getrate_usbsrc,FUNC_2
+clk,VAR_2
+parent_rate,VAR_3
+div,VAR_4

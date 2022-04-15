@@ -1,0 +1,13 @@
+PageLRU,FUNC_0
+SetPageLRU,FUNC_1
+VM_BUG_ON_PAGE,FUNC_2
+add_page_to_lru_list,FUNC_3
+mem_cgroup_page_lruvec,FUNC_4
+page_lru,FUNC_5
+page_pgdat,FUNC_6
+spin_unlock_irq,FUNC_7
+unlock_page_lru,FUNC_8
+page,VAR_0
+isolated,VAR_1
+pgdat,VAR_2
+lruvec,VAR_3

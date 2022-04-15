@@ -1,0 +1,12 @@
+CloseServiceHandle,FUNC_0
+DeleteService,FUNC_1
+FALSE,VAR_0
+OpenSCManagerW,FUNC_2
+OpenServiceW,FUNC_3
+SC_MANAGER_ALL_ACCESS,VAR_1
+SERVICE_ALL_ACCESS,VAR_2
+UnregisterDriver,FUNC_4
+lpDriverName,VAR_3
+hService,VAR_4
+hSCManager,VAR_5
+bRet,VAR_6

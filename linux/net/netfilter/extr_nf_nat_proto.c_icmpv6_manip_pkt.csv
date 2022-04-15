@@ -1,0 +1,12 @@
+ICMPV6_ECHO_REPLY,VAR_0
+ICMPV6_ECHO_REQUEST,VAR_1
+inet_proto_csum_replace2,FUNC_0
+nf_csum_update,FUNC_1
+skb_ensure_writable,FUNC_2
+icmpv6_manip_pkt,FUNC_3
+skb,VAR_2
+iphdroff,VAR_3
+hdroff,VAR_4
+tuple,VAR_5
+maniptype,VAR_6
+hdr,VAR_7

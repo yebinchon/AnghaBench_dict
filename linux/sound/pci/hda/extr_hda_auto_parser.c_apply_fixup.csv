@@ -1,0 +1,15 @@
+HDA_FIXUP_ACT_PRE_PROBE,VAR_0
+HDA_FIXUP_ACT_PROBE,VAR_1
+codec_dbg,FUNC_0
+codec_err,FUNC_1
+set_pin_targets,FUNC_2
+snd_hda_add_verbs,FUNC_3
+snd_hda_apply_pincfgs,FUNC_4
+stub1,FUNC_5
+apply_fixup,FUNC_6
+codec,VAR_2
+id,VAR_3
+action,VAR_4
+depth,VAR_5
+modelname,VAR_6
+fix,VAR_7

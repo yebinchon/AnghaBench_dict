@@ -1,0 +1,13 @@
+READ_ONCE,FUNC_0
+acct_put,FUNC_1
+atomic_long_inc_not_zero,FUNC_2
+cpu_relax,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+rcu_read_lock,FUNC_6
+rcu_read_unlock,FUNC_7
+smp_rmb,FUNC_8
+to_acct,FUNC_9
+acct_get,FUNC_10
+ns,VAR_0
+res,VAR_1

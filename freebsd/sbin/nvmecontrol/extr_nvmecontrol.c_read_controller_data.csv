@@ -1,0 +1,13 @@
+NVME_OPC_IDENTIFY,VAR_0
+NVME_PASSTHROUGH_CMD,VAR_1
+err,FUNC_0
+errx,FUNC_1
+htole32,FUNC_2
+ioctl,FUNC_3
+memset,FUNC_4
+nvme_completion_is_error,FUNC_5
+nvme_controller_data_swapbytes,FUNC_6
+read_controller_data,FUNC_7
+fd,VAR_2
+cdata,VAR_3
+pt,VAR_4

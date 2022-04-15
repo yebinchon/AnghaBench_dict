@@ -1,0 +1,15 @@
+DIOCGMEDIASIZE,VAR_0
+DIOCGSECTORSIZE,VAR_1
+ENOIOCTL,VAR_2
+cap_ioctl_rights,VAR_3
+copyout,FUNC_0
+fdrop,FUNC_1
+fget,FUNC_2
+fo_ioctl,FUNC_3
+linux_ioctl_disk,FUNC_4
+td,VAR_4
+args,VAR_5
+fp,VAR_6
+error,VAR_7
+sectorsize,VAR_8
+mediasize,VAR_9

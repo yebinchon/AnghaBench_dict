@@ -1,0 +1,13 @@
+__devlink_compat_running_version,FUNC_0
+dev_hold,FUNC_1
+dev_put,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+netdev_to_devlink,FUNC_5
+rtnl_lock,FUNC_6
+rtnl_unlock,FUNC_7
+devlink_compat_running_version,FUNC_8
+dev,VAR_0
+buf,VAR_1
+len,VAR_2
+devlink,VAR_3

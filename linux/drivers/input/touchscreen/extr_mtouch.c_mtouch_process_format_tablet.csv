@@ -1,0 +1,14 @@
+ABS_X,VAR_0
+ABS_Y,VAR_1
+BTN_TOUCH,VAR_2
+MTOUCH_FORMAT_TABLET_LENGTH,VAR_3
+MTOUCH_GET_TOUCHED,FUNC_0
+MTOUCH_GET_XC,FUNC_1
+MTOUCH_GET_YC,FUNC_2
+MTOUCH_MAX_YC,VAR_4
+input_report_abs,FUNC_3
+input_report_key,FUNC_4
+input_sync,FUNC_5
+mtouch_process_format_tablet,FUNC_6
+mtouch,VAR_5
+dev,VAR_6

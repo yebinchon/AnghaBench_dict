@@ -1,0 +1,10 @@
+PCIE_APP_INIT_RESET,VAR_0
+PCIE_CORE_RESET,VAR_1
+PCIE_CORE_RESET_ENABLE,VAR_2
+PCIE_NONSTICKY_RESET,VAR_3
+PCIE_STICKY_RESET,VAR_4
+exynos_pcie_readl,FUNC_0
+exynos_pcie_writel,FUNC_1
+exynos_pcie_deassert_core_reset,FUNC_2
+ep,VAR_5
+val,VAR_6

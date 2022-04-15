@@ -1,0 +1,17 @@
+DLM_LOCK_EX,VAR_0
+ML_ERROR,VAR_1
+OCFS2_I,FUNC_0
+S_ISREG,FUNC_1
+UNBLOCK_CONTINUE,VAR_2
+filemap_fdatawait,FUNC_2
+filemap_fdatawrite,FUNC_3
+mlog,FUNC_4
+ocfs2_lock_res_inode,FUNC_5
+sync_mapping_buffers,FUNC_6
+truncate_inode_pages,FUNC_7
+unmap_mapping_range,FUNC_8
+ocfs2_data_convert_worker,FUNC_9
+lockres,VAR_3
+blocking,VAR_4
+inode,VAR_5
+mapping,VAR_6

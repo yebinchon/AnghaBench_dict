@@ -1,0 +1,16 @@
+NES_IDX_MAC_TX_CONFIG,VAR_0
+nes_init_1g_phy,FUNC_0
+nes_init_2025_phy,FUNC_1
+nes_read_indexed,FUNC_2
+nes_write_indexed,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+nes_init_phy,FUNC_6
+nesdev,VAR_1
+nesadapter,VAR_2
+mac_index,VAR_3
+tx_config,VAR_4
+flags,VAR_5
+phy_type,VAR_6
+phy_index,VAR_7
+ret,VAR_8

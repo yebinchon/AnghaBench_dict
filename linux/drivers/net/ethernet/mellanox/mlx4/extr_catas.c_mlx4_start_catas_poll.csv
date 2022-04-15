@@ -1,0 +1,16 @@
+INIT_LIST_HEAD,FUNC_0
+MLX4_CATAS_POLL_INTERVAL,VAR_0
+add_timer,FUNC_1
+ioremap,FUNC_2
+jiffies,VAR_1
+mlx4_is_slave,FUNC_3
+mlx4_priv,FUNC_4
+mlx4_warn,FUNC_5
+pci_resource_start,FUNC_6
+poll_catas,VAR_2
+round_jiffies,FUNC_7
+timer_setup,FUNC_8
+mlx4_start_catas_poll,FUNC_9
+dev,VAR_3
+priv,VAR_4
+addr,VAR_5

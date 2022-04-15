@@ -1,0 +1,16 @@
+FUSE_DEFAULT_DAEMON_TIMEOUT,VAR_0
+MTX_DEF,VAR_1
+M_FUSEMSG,VAR_2
+M_WAITOK,VAR_3
+M_ZERO,VAR_4
+STAILQ_INIT,FUNC_0
+TAILQ_INIT,FUNC_1
+crhold,FUNC_2
+knlist_init_mtx,FUNC_3
+malloc,FUNC_4
+mtx_init,FUNC_5
+sx_init,FUNC_6
+fdata_alloc,FUNC_7
+fdev,VAR_5
+cred,VAR_6
+data,VAR_7

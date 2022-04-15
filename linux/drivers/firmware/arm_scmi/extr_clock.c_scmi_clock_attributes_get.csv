@@ -1,0 +1,15 @@
+CLOCK_ATTRIBUTES,VAR_0
+SCMI_MAX_STR_SIZE,VAR_1
+SCMI_PROTOCOL_CLOCK,VAR_2
+put_unaligned_le32,FUNC_0
+scmi_do_xfer,FUNC_1
+scmi_xfer_get_init,FUNC_2
+scmi_xfer_put,FUNC_3
+strlcpy,FUNC_4
+scmi_clock_attributes_get,FUNC_5
+handle,VAR_3
+clk_id,VAR_4
+clk,VAR_5
+ret,VAR_6
+t,VAR_7
+attr,VAR_8

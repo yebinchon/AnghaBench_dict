@@ -1,0 +1,11 @@
+call_get,FUNC_0
+call_prepare_transmission,FUNC_1
+callback_error,FUNC_2
+invoke_call_state_callback,FUNC_3
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+callback_start,FUNC_6
+toxav_inst,VAR_0
+call,VAR_1
+toxav,VAR_2
+av_call,VAR_3

@@ -1,0 +1,12 @@
+PCI_VENDOR_ID_INTEL,VAR_0
+U64_LSHIFT,FUNC_0
+pci_dev_put,FUNC_1
+pci_get_device,FUNC_2
+pci_read_config_byte,FUNC_3
+pci_read_config_dword,FUNC_4
+pci_write_config_byte,FUNC_5
+get_sideband_reg_base_addr,FUNC_6
+pdev,VAR_1
+hi,VAR_2
+lo,VAR_3
+hidden,VAR_4

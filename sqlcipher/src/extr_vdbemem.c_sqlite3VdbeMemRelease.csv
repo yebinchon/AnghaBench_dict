@@ -1,0 +1,6 @@
+VdbeMemDynamic,FUNC_0
+assert,FUNC_1
+sqlite3VdbeCheckMemInvariants,FUNC_2
+vdbeMemClear,FUNC_3
+sqlite3VdbeMemRelease,FUNC_4
+p,VAR_0

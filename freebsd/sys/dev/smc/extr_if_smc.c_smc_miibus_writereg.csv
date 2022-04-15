@@ -1,0 +1,12 @@
+SMC_LOCK,FUNC_0
+SMC_UNLOCK,FUNC_1
+device_get_softc,FUNC_2
+mii_bitbang_writereg,FUNC_3
+smc_mii_bitbang_ops,VAR_0
+smc_select_bank,FUNC_4
+smc_miibus_writereg,FUNC_5
+dev,VAR_1
+phy,VAR_2
+reg,VAR_3
+data,VAR_4
+sc,VAR_5

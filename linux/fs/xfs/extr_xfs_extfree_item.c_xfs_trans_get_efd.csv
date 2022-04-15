@@ -1,0 +1,14 @@
+ASSERT,FUNC_0
+XFS_EFD_MAX_FAST_EXTENTS,VAR_0
+XFS_LI_EFD,VAR_1
+kmem_zalloc,FUNC_1
+kmem_zone_zalloc,FUNC_2
+xfs_efd_item_ops,VAR_2
+xfs_efd_zone,VAR_3
+xfs_log_item_init,FUNC_3
+xfs_trans_add_item,FUNC_4
+xfs_trans_get_efd,FUNC_5
+tp,VAR_4
+efip,VAR_5
+nextents,VAR_6
+efdp,VAR_7

@@ -1,0 +1,17 @@
+ATA_PRIV_MISC,VAR_0
+EIO,VAR_1
+IDE_AFLAG_DOOR_LOCKED,VAR_2
+REQ_OP_DRV_IN,VAR_3
+RQF_QUIET,VAR_4
+blk_execute_rq,FUNC_0
+blk_get_request,FUNC_1
+blk_put_request,FUNC_2
+ide_cd_lockdoor,FUNC_3
+ide_req,FUNC_4
+scsi_req,FUNC_5
+ide_cdrom_reset,FUNC_6
+cdi,VAR_5
+drive,VAR_6
+cd,VAR_7
+rq,VAR_8
+ret,VAR_9

@@ -1,0 +1,15 @@
+PCIEM_LINK_CAP_ASPM,VAR_0
+PCIEM_LINK_CTL_ASPMC,VAR_1
+PCIER_LINK_CAP,VAR_2
+PCIER_LINK_CTL,VAR_3
+PCIY_EXPRESS,VAR_4
+pci_find_cap,FUNC_0
+pci_read_config,FUNC_1
+pci_write_config,FUNC_2
+em_disable_aspm,FUNC_3
+adapter,VAR_5
+base,VAR_6
+reg,VAR_7
+link_cap,VAR_8
+link_ctrl,VAR_9
+dev,VAR_10

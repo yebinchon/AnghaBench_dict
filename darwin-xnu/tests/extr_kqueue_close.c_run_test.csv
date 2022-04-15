@@ -1,0 +1,13 @@
+T_ASSERT_POSIX_SUCCESS,FUNC_0
+T_QUIET,VAR_0
+close,FUNC_1
+kqueue,FUNC_2
+poll_kqueue,VAR_1
+pthread_create,FUNC_3
+pthread_join,FUNC_4
+timeout_ms,VAR_2
+usleep,FUNC_5
+run_test,FUNC_6
+fd,VAR_3
+thread,VAR_4
+rv,VAR_5

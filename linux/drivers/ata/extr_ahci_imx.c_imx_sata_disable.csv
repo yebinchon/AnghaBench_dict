@@ -1,0 +1,10 @@
+IMX6Q_GPR13_SATA_MPLL_CLK_EN,VAR_0
+IMX6Q_GPR5_SATA_SW_PD,VAR_1
+IOMUXC_GPR13,VAR_2
+IOMUXC_GPR5,VAR_3
+ahci_platform_disable_regulators,FUNC_0
+clk_disable_unprepare,FUNC_1
+regmap_update_bits,FUNC_2
+imx_sata_disable,FUNC_3
+hpriv,VAR_4
+imxpriv,VAR_5

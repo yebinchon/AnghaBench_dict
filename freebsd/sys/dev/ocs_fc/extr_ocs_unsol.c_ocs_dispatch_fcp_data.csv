@@ -1,0 +1,16 @@
+OCS_HW_UNSOL_SUCCESS,VAR_0
+OCS_SCSI_FIRST_BURST_ERR,VAR_1
+ocs_assert,FUNC_0
+ocs_hw_is_io_port_owned,FUNC_1
+ocs_hw_sequence_free,FUNC_2
+ocs_log_err,FUNC_3
+ocs_port_owned_abort,FUNC_4
+ocs_scsi_recv_cmd_first_burst,FUNC_5
+ocs_dispatch_fcp_data,FUNC_6
+node,VAR_2
+seq,VAR_3
+ocs,VAR_4
+hw,VAR_5
+hio,VAR_6
+io,VAR_7
+fburst,VAR_8

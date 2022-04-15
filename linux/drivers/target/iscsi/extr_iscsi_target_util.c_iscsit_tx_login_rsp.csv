@@ -1,0 +1,11 @@
+ISCSI_HDR_LEN,VAR_0
+ISCSI_OP_LOGIN_RSP,VAR_1
+iscsit_collect_login_stats,FUNC_0
+memset,FUNC_1
+stub1,FUNC_2
+iscsit_tx_login_rsp,FUNC_3
+conn,VAR_2
+status_class,VAR_3
+status_detail,VAR_4
+hdr,VAR_5
+login,VAR_6

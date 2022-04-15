@@ -1,0 +1,12 @@
+READ_ONCE,FUNC_0
+atomic_dec,FUNC_1
+atomic_inc,FUNC_2
+sector_to_idx,FUNC_3
+spin_lock_irq,FUNC_4
+spin_unlock_irq,FUNC_5
+wait_event_lock_irq,FUNC_6
+wake_up,FUNC_7
+wait_read_barrier,FUNC_8
+conf,VAR_0
+sector_nr,VAR_1
+idx,VAR_2

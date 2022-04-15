@@ -1,0 +1,13 @@
+ATOM_PPLIB_CLASSIFICATION_BOOT,VAR_0
+ATOM_PPLIB_CLASSIFICATION_UVDSTATE,VAR_1
+ATOM_PPLIB_NONCLOCKINFO_VER1,VAR_2
+kv_get_ps,FUNC_0
+kv_patch_boot_state,FUNC_1
+le16_to_cpu,FUNC_2
+le32_to_cpu,FUNC_3
+kv_parse_pplib_non_clock_info,FUNC_4
+adev,VAR_3
+rps,VAR_4
+non_clock_info,VAR_5
+table_rev,VAR_6
+ps,VAR_7

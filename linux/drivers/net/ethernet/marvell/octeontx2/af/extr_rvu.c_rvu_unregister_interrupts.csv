@@ -1,0 +1,12 @@
+BLKADDR_RVUM,VAR_0
+INTR_MASK,FUNC_0
+RVU_AF_PFAF_MBOX_INT_ENA_W1C,VAR_1
+RVU_AF_PFFLR_INT_ENA_W1C,VAR_2
+RVU_AF_PFME_INT_ENA_W1C,VAR_3
+free_irq,FUNC_1
+pci_free_irq_vectors,FUNC_2
+pci_irq_vector,FUNC_3
+rvu_write64,FUNC_4
+rvu_unregister_interrupts,FUNC_5
+rvu,VAR_4
+irq,VAR_5

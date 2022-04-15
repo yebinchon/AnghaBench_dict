@@ -1,0 +1,12 @@
+CTA_SEQADJ_CORRECTION_POS,VAR_0
+CTA_SEQADJ_OFFSET_AFTER,VAR_1
+CTA_SEQADJ_OFFSET_BEFORE,VAR_2
+htonl,FUNC_0
+nla_nest_end,FUNC_1
+nla_nest_start,FUNC_2
+nla_put_be32,FUNC_3
+dump_ct_seq_adj,FUNC_4
+skb,VAR_3
+seq,VAR_4
+type,VAR_5
+nest_parms,VAR_6

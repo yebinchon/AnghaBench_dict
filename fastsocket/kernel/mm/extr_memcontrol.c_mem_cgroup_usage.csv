@@ -1,0 +1,12 @@
+MEM_CGROUP_STAT_CACHE,VAR_0
+MEM_CGROUP_STAT_RSS,VAR_1
+MEM_CGROUP_STAT_SWAPOUT,VAR_2
+PAGE_SHIFT,VAR_3
+RES_USAGE,VAR_4
+mem_cgroup_get_recursive_idx_stat,FUNC_0
+mem_cgroup_is_root,FUNC_1
+res_counter_read_u64,FUNC_2
+mem_cgroup_usage,FUNC_3
+mem,VAR_5
+swap,VAR_6
+val,VAR_7

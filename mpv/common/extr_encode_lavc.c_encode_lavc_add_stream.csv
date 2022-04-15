@@ -1,0 +1,17 @@
+AVMEDIA_TYPE_VIDEO,VAR_0
+MP_ERR,FUNC_0
+MP_HANDLE_OOM,FUNC_1
+avcodec_parameters_copy,FUNC_2
+avformat_new_stream,FUNC_3
+find_mux_stream,FUNC_4
+maybe_init_muxer,FUNC_5
+pthread_mutex_lock,FUNC_6
+pthread_mutex_unlock,FUNC_7
+encode_lavc_add_stream,FUNC_8
+ctx,VAR_1
+info,VAR_2
+on_ready,VAR_3
+ctx,VAR_4
+on_ready_ctx,VAR_5
+p,VAR_6
+dst,VAR_7

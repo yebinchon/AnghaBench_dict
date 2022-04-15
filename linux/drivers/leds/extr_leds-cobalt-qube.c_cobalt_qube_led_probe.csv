@@ -1,0 +1,16 @@
+EBUSY,VAR_0
+ENOMEM,VAR_1
+IORESOURCE_MEM,VAR_2
+LED_FRONT_LEFT,VAR_3
+LED_FRONT_RIGHT,VAR_4
+devm_ioremap,FUNC_0
+devm_led_classdev_register,FUNC_1
+led_port,VAR_5
+led_value,VAR_6
+platform_get_resource,FUNC_2
+qube_front_led,VAR_7
+resource_size,FUNC_3
+writeb,FUNC_4
+cobalt_qube_led_probe,FUNC_5
+pdev,VAR_8
+res,VAR_9

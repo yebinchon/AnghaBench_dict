@@ -1,0 +1,17 @@
+acquire,VAR_0
+init_test_mtx_stats,FUNC_0
+lck_attr_setdefault,FUNC_1
+lck_grp_attr_setdefault,FUNC_2
+lck_grp_init,FUNC_3
+lck_mtx_init,FUNC_4
+os_atomic_cmpxchg,FUNC_5
+os_atomic_inc,FUNC_6
+os_atomic_load,FUNC_7
+relaxed,VAR_1
+release,VAR_2
+test_mtx,VAR_3
+test_mtx_attr,VAR_4
+test_mtx_grp,VAR_5
+test_mtx_grp_attr,VAR_6
+lck_mtx_test_init,FUNC_8
+first,VAR_7

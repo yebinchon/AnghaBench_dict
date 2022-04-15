@@ -1,0 +1,14 @@
+DRBD_ADM_NEED_MINOR,VAR_0
+NO_ERROR,VAR_1
+drbd_adm_finish,FUNC_0
+drbd_adm_prepare,FUNC_1
+drbd_request_state,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+drbd_adm_simple_request_state,FUNC_5
+skb,VAR_2
+info,VAR_3
+mask,VAR_4
+val,VAR_5
+adm_ctx,VAR_6
+retcode,VAR_7

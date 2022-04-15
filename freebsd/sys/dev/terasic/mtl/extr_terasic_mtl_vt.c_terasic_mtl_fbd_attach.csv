@@ -1,0 +1,14 @@
+ENXIO,VAR_0
+device_add_child,FUNC_0
+device_get_nameunit,FUNC_1
+device_get_unit,FUNC_2
+device_printf,FUNC_3
+device_probe_and_attach,FUNC_4
+pmap_mapdev,FUNC_5
+rman_get_size,FUNC_6
+rman_get_start,FUNC_7
+terasic_mtl_fbd_panel_info,FUNC_8
+terasic_mtl_fbd_attach,FUNC_9
+sc,VAR_1
+info,VAR_2
+fbd,VAR_3

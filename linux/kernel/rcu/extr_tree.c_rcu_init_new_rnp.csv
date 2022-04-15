@@ -1,0 +1,9 @@
+WARN_ON_ONCE,FUNC_0
+raw_lockdep_assert_held_rcu_node,FUNC_1
+raw_spin_lock_rcu_node,FUNC_2
+raw_spin_unlock_rcu_node,FUNC_3
+rcu_init_new_rnp,FUNC_4
+rnp_leaf,VAR_0
+mask,VAR_1
+oldmask,VAR_2
+rnp,VAR_3

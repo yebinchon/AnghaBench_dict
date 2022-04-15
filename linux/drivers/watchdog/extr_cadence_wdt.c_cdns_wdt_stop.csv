@@ -1,0 +1,10 @@
+CDNS_WDT_ZMR_OFFSET,VAR_0
+CDNS_WDT_ZMR_WDEN_MASK,VAR_1
+CDNS_WDT_ZMR_ZKEY_VAL,VAR_2
+cdns_wdt_writereg,FUNC_0
+spin_lock,FUNC_1
+spin_unlock,FUNC_2
+watchdog_get_drvdata,FUNC_3
+cdns_wdt_stop,FUNC_4
+wdd,VAR_3
+wdt,VAR_4

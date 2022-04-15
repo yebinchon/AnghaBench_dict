@@ -1,0 +1,16 @@
+DOC_ASICMODE,VAR_0
+DOC_ASICMODE_BDETCT_RESET,VAR_1
+DOC_ASICMODE_MDWREN,VAR_2
+DOC_ASICMODE_RAM_WE,VAR_3
+DOC_ASICMODE_RSTIN_RESET,VAR_4
+doc_register_readb,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+seq_printf,FUNC_3
+seq_puts,FUNC_4
+asic_mode_show,FUNC_5
+s,VAR_5
+p,VAR_6
+docg3,VAR_7
+pctrl,VAR_8
+mode,VAR_9

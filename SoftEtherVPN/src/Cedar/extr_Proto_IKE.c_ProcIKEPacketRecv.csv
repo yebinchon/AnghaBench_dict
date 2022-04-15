@@ -1,0 +1,13 @@
+IKE_UDP_TYPE_ESP,VAR_0
+IKE_UDP_TYPE_ISAKMP,VAR_1
+IkeFree,FUNC_0
+ParseIKEPacketHeader,FUNC_1
+ProcIPsecEspPacketRecv,FUNC_2
+ProcIkeAggressiveModePacketRecv,FUNC_3
+ProcIkeInformationalExchangePacketRecv,FUNC_4
+ProcIkeMainModePacketRecv,FUNC_5
+ProcIkeQuickModePacketRecv,FUNC_6
+ProcIKEPacketRecv,FUNC_7
+ike,VAR_2
+p,VAR_3
+header,VAR_4

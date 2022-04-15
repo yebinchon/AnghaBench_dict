@@ -1,0 +1,13 @@
+IEEE80211_SKB_RXCB,FUNC_0
+RX_FLAG_AMPDU_IS_ZEROLEN,VAR_0
+RX_FLAG_FAILED_FCS_CRC,VAR_1
+RX_FLAG_FAILED_PLCP_CRC,VAR_2
+ieee80211_is_back_req,FUNC_1
+ieee80211_is_ctl,FUNC_2
+ieee80211_is_pspoll,FUNC_3
+unlikely,FUNC_4
+should_drop_frame,FUNC_5
+skb,VAR_3
+present_fcs_len,VAR_4
+status,VAR_5
+hdr,VAR_6

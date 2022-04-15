@@ -1,0 +1,17 @@
+MSI_INTMASK,VAR_0
+__clear_bit,FUNC_0
+dev_err,FUNC_1
+irq_data_get_irq_chip_data,FUNC_2
+irq_domain_get_irq_data,FUNC_3
+msi_readl,FUNC_4
+msi_writel,FUNC_5
+mutex_lock,FUNC_6
+mutex_unlock,FUNC_7
+test_bit,FUNC_8
+altera_irq_domain_free,FUNC_9
+domain,VAR_1
+virq,VAR_2
+nr_irqs,VAR_3
+d,VAR_4
+msi,VAR_5
+mask,VAR_6

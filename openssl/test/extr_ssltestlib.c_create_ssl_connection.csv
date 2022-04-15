@@ -1,0 +1,13 @@
+SSL_ERROR_WANT_READ,VAR_0
+SSL_get_error,FUNC_0
+SSL_read_ex,FUNC_1
+TEST_int_eq,FUNC_2
+TEST_ulong_eq,FUNC_3
+create_bare_ssl_connection,FUNC_4
+create_ssl_connection,FUNC_5
+serverssl,VAR_1
+clientssl,VAR_2
+want,VAR_3
+i,VAR_4
+buf,VAR_5
+readbytes,VAR_6

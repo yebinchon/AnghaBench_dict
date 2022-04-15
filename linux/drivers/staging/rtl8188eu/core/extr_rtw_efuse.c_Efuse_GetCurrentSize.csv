@@ -1,0 +1,13 @@
+AVAILABLE_EFUSE_ADDR,FUNC_0
+Efuse_CalculateWordCnts,FUNC_1
+HW_VAR_EFUSE_BYTES,VAR_0
+efuse_OneByteRead,FUNC_2
+rtw_hal_get_hwreg,FUNC_3
+rtw_hal_set_hwreg,FUNC_4
+Efuse_GetCurrentSize,FUNC_5
+pAdapter,VAR_1
+efuse_addr,VAR_2
+hoffset,VAR_3
+hworden,VAR_4
+efuse_data,VAR_5
+word_cnts,VAR_6

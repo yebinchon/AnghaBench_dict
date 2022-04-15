@@ -1,0 +1,16 @@
+CTLFLAG_RD,VAR_0
+CTLFLAG_RW,VAR_1
+CTLTYPE_INT,VAR_2
+OID_AUTO,VAR_3
+SYSCTL_ADD_PROC,FUNC_0
+SYSCTL_ADD_STRING,FUNC_1
+SYSCTL_ADD_UINT,FUNC_2
+SYSCTL_CHILDREN,FUNC_3
+device_get_sysctl_ctx,FUNC_4
+device_get_sysctl_tree,FUNC_5
+qls_dbg_level,VAR_4
+qls_sysctl_get_drvr_stats,VAR_5
+ver_str,VAR_6
+qls_add_sysctls,FUNC_6
+ha,VAR_7
+dev,VAR_8

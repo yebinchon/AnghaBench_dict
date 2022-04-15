@@ -1,0 +1,13 @@
+SEEK_CUR,VAR_0
+SEEK_SET,VAR_1
+assert_se,FUNC_0
+ftruncate,FUNC_1
+lseek,FUNC_2
+memcmp,FUNC_3
+read,FUNC_4
+sparse_write,FUNC_5
+test_sparse_write_one,FUNC_6
+fd,VAR_2
+buffer,VAR_3
+n,VAR_4
+check,VAR_5

@@ -1,0 +1,13 @@
+fimc_ctrls_delete,FUNC_0
+fimc_unregister_m2m_device,FUNC_1
+kfree,FUNC_2
+media_entity_cleanup,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+v4l2_get_subdevdata,FUNC_6
+video_is_registered,FUNC_7
+video_unregister_device,FUNC_8
+fimc_capture_subdev_unregistered,FUNC_9
+sd,VAR_0
+fimc,VAR_1
+vdev,VAR_2

@@ -1,0 +1,10 @@
+OutputPluginPrepareWrite,FUNC_0
+OutputPluginWrite,FUNC_1
+appendStringInfo,FUNC_2
+appendStringInfoString,FUNC_3
+timestamptz_to_str,FUNC_4
+pg_decode_commit_txn,FUNC_5
+ctx,VAR_0
+txn,VAR_1
+commit_lsn,VAR_2
+data,VAR_3

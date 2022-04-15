@@ -1,0 +1,17 @@
+GL_CORE_NUM_PBOS,VAR_0
+GL_PIXEL_PACK_BUFFER,VAR_1
+GL_STREAM_READ,VAR_2
+RARCH_ERR,FUNC_0
+SCALER_FMT_ABGR8888,VAR_3
+SCALER_FMT_BGR24,VAR_4
+SCALER_TYPE_POINT,VAR_5
+glBindBuffer,FUNC_1
+glBufferData,FUNC_2
+glDeleteBuffers,FUNC_3
+glGenBuffers,FUNC_4
+memset,FUNC_5
+scaler_ctx_gen_filter,FUNC_6
+gl_core_init_pbo_readback,FUNC_7
+gl,VAR_6
+i,VAR_7
+scaler,VAR_8

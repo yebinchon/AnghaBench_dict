@@ -1,0 +1,13 @@
+SDHCI_DEVICE_DEAD,VAR_0
+SDHCI_PRESENT_STATE,VAR_1
+SDHCI_QUIRK_INVERTED_WRITE_PROTECT,VAR_2
+SDHCI_WRITE_PROTECT,VAR_3
+mmc_priv,FUNC_0
+sdhci_readl,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+sdhci_get_ro,FUNC_4
+mmc,VAR_4
+host,VAR_5
+flags,VAR_6
+present,VAR_7

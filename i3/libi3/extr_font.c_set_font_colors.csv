@@ -1,0 +1,17 @@
+XCB_GC_BACKGROUND,VAR_0
+XCB_GC_FONT,VAR_1
+XCB_GC_FOREGROUND,VAR_2
+assert,FUNC_0
+conn,VAR_3
+pango_font_alpha,VAR_4
+pango_font_blue,VAR_5
+pango_font_green,VAR_6
+pango_font_red,VAR_7
+savedFont,VAR_8
+xcb_change_gc,FUNC_1
+set_font_colors,FUNC_2
+gc,VAR_9
+foreground,VAR_10
+background,VAR_11
+mask,VAR_12
+values,VAR_13

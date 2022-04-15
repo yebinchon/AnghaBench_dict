@@ -1,0 +1,14 @@
+IEEE80211_IOC_SCAN_RESULTS,VAR_0
+MSG_DEBUG,VAR_1
+get80211var,FUNC_0
+os_zalloc,FUNC_1
+wpa_driver_bsd_add_scan_entry,FUNC_2
+wpa_printf,FUNC_3
+wpa_driver_bsd_get_scan_results2,FUNC_4
+priv,VAR_2
+sr,VAR_3
+res,VAR_4
+len,VAR_5
+rest,VAR_6
+buf,VAR_7
+pos,VAR_8

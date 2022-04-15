@@ -1,0 +1,13 @@
+CS35L35_AMP_INP_DRV_CTL,VAR_0
+CS35L35_PDM_MODE_MASK,VAR_1
+CS35L35_PDM_MODE_SHIFT,VAR_2
+SNDRV_PCM_HW_PARAM_RATE,VAR_3
+cs35l35_pdm_constraints,VAR_4
+regmap_update_bits,FUNC_0
+snd_pcm_hw_constraint_list,FUNC_1
+snd_soc_component_get_drvdata,FUNC_2
+cs35l35_pdm_startup,FUNC_3
+substream,VAR_5
+dai,VAR_6
+component,VAR_7
+cs35l35,VAR_8

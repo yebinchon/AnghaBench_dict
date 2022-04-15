@@ -1,0 +1,15 @@
+cl_git_pass,FUNC_0
+git_commit_create_from_ids,FUNC_1
+git_index_free,FUNC_2
+git_index_write_tree,FUNC_3
+git_reference_create,FUNC_4
+git_repository_index,FUNC_5
+git_signature_free,FUNC_6
+git_signature_now,FUNC_7
+create_dummy_commit,FUNC_8
+out,VAR_0
+repo,VAR_1
+index,VAR_2
+tree_id,VAR_3
+commit_id,VAR_4
+sig,VAR_5

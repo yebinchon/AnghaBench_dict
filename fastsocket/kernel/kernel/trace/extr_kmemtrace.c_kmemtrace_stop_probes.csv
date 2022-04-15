@@ -1,0 +1,13 @@
+kmemtrace_kfree,VAR_0
+kmemtrace_kmalloc,VAR_1
+kmemtrace_kmalloc_node,VAR_2
+kmemtrace_kmem_cache_alloc,VAR_3
+kmemtrace_kmem_cache_alloc_node,VAR_4
+kmemtrace_kmem_cache_free,VAR_5
+unregister_trace_kfree,FUNC_0
+unregister_trace_kmalloc,FUNC_1
+unregister_trace_kmalloc_node,FUNC_2
+unregister_trace_kmem_cache_alloc,FUNC_3
+unregister_trace_kmem_cache_alloc_node,FUNC_4
+unregister_trace_kmem_cache_free,FUNC_5
+kmemtrace_stop_probes,FUNC_6

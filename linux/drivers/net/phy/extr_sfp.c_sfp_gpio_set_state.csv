@@ -1,0 +1,10 @@
+GPIO_RATE_SELECT,VAR_0
+GPIO_TX_DISABLE,VAR_1
+SFP_F_PRESENT,VAR_2
+SFP_F_RATE_SELECT,VAR_3
+SFP_F_TX_DISABLE,VAR_4
+gpiod_direction_input,FUNC_0
+gpiod_direction_output,FUNC_1
+sfp_gpio_set_state,FUNC_2
+sfp,VAR_5
+state,VAR_6

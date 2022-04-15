@@ -1,0 +1,15 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+NPMC,VAR_2
+PMCF_EN,VAR_3
+ctl_shadow,VAR_4
+intr_disable,FUNC_0
+intr_restore,FUNC_1
+msr_pmc,VAR_5
+perfmon_inuse,VAR_6
+pmc_shadow,VAR_7
+rdmsr,FUNC_2
+writectl,FUNC_3
+perfmon_stop,FUNC_4
+pmc,VAR_8
+saveintr,VAR_9

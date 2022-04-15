@@ -1,0 +1,13 @@
+VDEV_INITIALIZE_ACTIVE,VAR_0
+ZPOOL_CONFIG_CHILDREN,VAR_1
+ZPOOL_CONFIG_VDEV_STATS,VAR_2
+nvlist_lookup_nvlist_array,FUNC_0
+nvlist_lookup_uint64_array,FUNC_1
+verify,FUNC_2
+vdev_initialize_remaining,FUNC_3
+nv,VAR_3
+bytes_remaining,VAR_4
+child,VAR_5
+c,VAR_6
+children,VAR_7
+vs,VAR_8

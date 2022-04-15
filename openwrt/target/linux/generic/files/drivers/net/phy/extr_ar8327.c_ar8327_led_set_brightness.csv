@@ -1,0 +1,13 @@
+AR8327_LED_PATTERN_OFF,VAR_0
+AR8327_LED_PATTERN_ON,VAR_1
+LED_OFF,VAR_2
+ar8327_led_schedule_change,FUNC_0
+led_cdev_to_ar8327_led,FUNC_1
+spin_lock,FUNC_2
+spin_unlock,FUNC_3
+ar8327_led_set_brightness,FUNC_4
+led_cdev,VAR_3
+brightness,VAR_4
+aled,VAR_5
+pattern,VAR_6
+active,VAR_7

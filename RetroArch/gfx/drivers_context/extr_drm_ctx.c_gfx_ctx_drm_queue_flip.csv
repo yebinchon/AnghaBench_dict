@@ -1,0 +1,12 @@
+DRM_MODE_PAGE_FLIP_EVENT,VAR_0
+drmModePageFlip,FUNC_0
+drm_fb_get_from_bo,FUNC_1
+g_crtc_id,VAR_1
+g_drm_fd,VAR_2
+g_gbm_surface,VAR_3
+g_next_bo,VAR_4
+gbm_bo_get_user_data,FUNC_2
+gbm_surface_lock_front_buffer,FUNC_3
+waiting_for_flip,VAR_5
+gfx_ctx_drm_queue_flip,FUNC_4
+fb,VAR_6

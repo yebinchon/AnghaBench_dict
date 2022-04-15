@@ -1,0 +1,16 @@
+CloseHandle,FUNC_0
+EBADF,VAR_0
+ERROR_INVALID_HANDLE,VAR_1
+INVALID_HANDLE_VALUE,VAR_2
+SET_REQ_UV_ERROR,FUNC_1
+UV_EBADF,VAR_3
+VERIFY_FD,FUNC_2
+_close,FUNC_3
+assert,FUNC_4
+errno,VAR_4
+uv__fd_hash_remove,FUNC_5
+fs__close,FUNC_6
+req,VAR_5
+fd,VAR_6
+result,VAR_7
+fd_info,VAR_8

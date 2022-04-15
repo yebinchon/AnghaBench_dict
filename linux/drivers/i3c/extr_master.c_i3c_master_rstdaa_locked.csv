@@ -1,0 +1,16 @@
+EINVAL,VAR_0
+I3C_ADDR_SLOT_I3C_DEV,VAR_1
+I3C_BROADCAST_ADDR,VAR_2
+I3C_CCC_RSTDAA,FUNC_0
+i3c_bus_get_addr_slot_status,FUNC_1
+i3c_ccc_cmd_dest_cleanup,FUNC_2
+i3c_ccc_cmd_dest_init,FUNC_3
+i3c_ccc_cmd_init,FUNC_4
+i3c_master_send_ccc_cmd_locked,FUNC_5
+i3c_master_rstdaa_locked,FUNC_6
+master,VAR_3
+addr,VAR_4
+addrstat,VAR_5
+dest,VAR_6
+cmd,VAR_7
+ret,VAR_8

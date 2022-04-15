@@ -1,0 +1,16 @@
+INSTALLMESSAGE_ACTIONSTART,VAR_0
+MSI_CreateRecord,FUNC_0
+MSI_ProcessMessage,FUNC_1
+MSI_QueryGetRecord,FUNC_2
+MSI_RecordGetString,FUNC_3
+MSI_RecordSetStringW,FUNC_4
+msiobj_release,FUNC_5
+ui_actionstart,FUNC_6
+package,VAR_1
+action,VAR_2
+description,VAR_3
+template,VAR_4
+query,VAR_5
+row,VAR_6
+textrow,VAR_7
+rc,VAR_8

@@ -1,0 +1,17 @@
+FILL_BYTE,VAR_0
+MALLOCX_ZERO,VAR_1
+assert_false,FUNC_0
+assert_ptr_not_null,FUNC_1
+assert_zu_eq,FUNC_2
+dallocx,FUNC_3
+mallocx,FUNC_4
+memset,FUNC_5
+nallocx,FUNC_6
+validate_fill,FUNC_7
+xallocx,FUNC_8
+test_zero,FUNC_9
+szmin,VAR_2
+szmax,VAR_3
+sz,VAR_4
+nsz,VAR_5
+p,VAR_6

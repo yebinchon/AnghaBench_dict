@@ -1,0 +1,16 @@
+ENAMETOOLONG,VAR_0
+S_IFLNK,VAR_1
+add_nondir,FUNC_0
+inode_dec_link_count,FUNC_1
+iput,FUNC_2
+minix_new_inode,FUNC_3
+minix_set_inode,FUNC_4
+page_symlink,FUNC_5
+strlen,FUNC_6
+minix_symlink,FUNC_7
+dir,VAR_2
+dentry,VAR_3
+symname,VAR_4
+err,VAR_5
+i,VAR_6
+inode,VAR_7

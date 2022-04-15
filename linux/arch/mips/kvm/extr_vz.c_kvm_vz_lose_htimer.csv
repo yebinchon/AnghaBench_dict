@@ -1,0 +1,12 @@
+MIPS_GCTL0_GT,VAR_0
+_kvm_vz_restore_stimer,FUNC_0
+_kvm_vz_save_htimer,FUNC_1
+preempt_disable,FUNC_2
+preempt_enable,FUNC_3
+read_c0_guestctl0,FUNC_4
+write_c0_guestctl0,FUNC_5
+kvm_vz_lose_htimer,FUNC_6
+vcpu,VAR_1
+gctl0,VAR_2
+compare,VAR_3
+cause,VAR_4

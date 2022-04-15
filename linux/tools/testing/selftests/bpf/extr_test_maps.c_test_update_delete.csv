@@ -1,0 +1,15 @@
+BPF_EXIST,VAR_0
+BPF_NOEXIST,VAR_1
+MAP_SIZE,VAR_2
+TASKS,VAR_3
+assert,FUNC_0
+bpf_map_delete_elem,FUNC_1
+bpf_map_update_elem,FUNC_2
+test_update_delete,FUNC_3
+fn,VAR_4
+data,VAR_5
+do_update,VAR_6
+fd,VAR_7
+i,VAR_8
+key,VAR_9
+value,VAR_10

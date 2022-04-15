@@ -1,0 +1,16 @@
+ENOIOCTLCMD,VAR_0
+RTC_ISTAT_ALARM,VAR_1
+RTC_ISTAT_ALARM_DAY,VAR_2
+RTC_ISTAT_SEC,VAR_3
+bfin_rtc_int_clear,FUNC_0
+bfin_rtc_int_set,FUNC_1
+bfin_rtc_int_set_alarm,FUNC_2
+bfin_rtc_sync_pending,FUNC_3
+dev_dbg_stamp,FUNC_4
+dev_get_drvdata,FUNC_5
+bfin_rtc_ioctl,FUNC_6
+dev,VAR_4
+cmd,VAR_5
+arg,VAR_6
+rtc,VAR_7
+ret,VAR_8

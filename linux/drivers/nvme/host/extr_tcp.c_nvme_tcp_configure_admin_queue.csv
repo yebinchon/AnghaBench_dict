@@ -1,0 +1,17 @@
+IS_ERR,FUNC_0
+PTR_ERR,FUNC_1
+blk_cleanup_queue,FUNC_2
+blk_mq_free_tag_set,FUNC_3
+blk_mq_init_queue,FUNC_4
+blk_mq_unquiesce_queue,FUNC_5
+nvme_enable_ctrl,FUNC_6
+nvme_init_identify,FUNC_7
+nvme_tcp_alloc_admin_queue,FUNC_8
+nvme_tcp_alloc_tagset,FUNC_9
+nvme_tcp_free_admin_queue,FUNC_10
+nvme_tcp_start_queue,FUNC_11
+nvme_tcp_stop_queue,FUNC_12
+nvme_tcp_configure_admin_queue,FUNC_13
+ctrl,VAR_0
+new,VAR_1
+error,VAR_2

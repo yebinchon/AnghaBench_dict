@@ -1,0 +1,11 @@
+MLXSW_REG_MTPPS_PIN_MODE_VIRTUAL_PIN,VAR_0
+MLXSW_REG_MTPPS_PIN_SP_VIRTUAL_PIN,VAR_1
+MLXSW_REG_ZERO,FUNC_0
+mlxsw_reg_mtpps_enable_set,FUNC_1
+mlxsw_reg_mtpps_pin_mode_set,FUNC_2
+mlxsw_reg_mtpps_pin_set,FUNC_3
+mlxsw_reg_mtpps_time_stamp_set,FUNC_4
+mtpps,VAR_2
+mlxsw_reg_mtpps_vpin_pack,FUNC_5
+payload,VAR_3
+time_stamp,VAR_4

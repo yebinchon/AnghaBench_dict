@@ -1,0 +1,16 @@
+L2PMRESR,VAR_0
+L2PMRESR_EN,VAR_1
+L2PMRESR_GROUP_BITS,VAR_2
+L2PMRESR_GROUP_MASK,VAR_3
+get_l2_indirect_reg,FUNC_0
+set_l2_indirect_reg,FUNC_1
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+cluster_pmu_set_resr,FUNC_4
+cluster,VAR_4
+event_group,VAR_5
+event_cc,VAR_6
+field,VAR_7
+resr_val,VAR_8
+shift,VAR_9
+flags,VAR_10

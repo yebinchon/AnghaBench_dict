@@ -1,0 +1,15 @@
+CRC16_INIT,VAR_0
+CRC16_VALID,VAR_1
+EIO,VAR_2
+W1_F1C_READ_EEPROM,VAR_3
+W1_PAGE_SIZE,VAR_4
+crc16,FUNC_0
+w1_read_block,FUNC_1
+w1_reset_select_slave,FUNC_2
+w1_write_block,FUNC_3
+w1_f1C_refresh_block,FUNC_4
+sl,VAR_5
+data,VAR_6
+block,VAR_7
+wrbuf,VAR_8
+off,VAR_9

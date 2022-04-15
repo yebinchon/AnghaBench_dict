@@ -1,0 +1,15 @@
+COMMAND_MASK,VAR_0
+COMMAND_SIZE,VAR_1
+ENODEV,VAR_2
+ftdi_elan_kick_command_queue,FUNC_0
+msleep,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+ftdi_elan_edset_flush,FUNC_4
+ftdi,VAR_3
+ed_number,VAR_4
+endp,VAR_5
+ed,VAR_6
+target,VAR_7
+command_size,VAR_8
+command,VAR_9

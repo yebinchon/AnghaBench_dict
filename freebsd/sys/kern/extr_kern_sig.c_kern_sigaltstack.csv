@@ -1,0 +1,14 @@
+EINVAL,VAR_0
+ENOMEM,VAR_1
+EPERM,VAR_2
+SS_DISABLE,VAR_3
+SS_ONSTACK,VAR_4
+TDP_ALTSTACK,VAR_5
+cpu_getstack,FUNC_0
+sigonstack,FUNC_1
+kern_sigaltstack,FUNC_2
+td,VAR_6
+ss,VAR_7
+oss,VAR_8
+p,VAR_9
+oonstack,VAR_10

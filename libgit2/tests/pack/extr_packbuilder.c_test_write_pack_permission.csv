@@ -1,0 +1,13 @@
+_packbuilder,VAR_0
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_packbuilder_write,FUNC_2
+p_stat,FUNC_3
+p_umask,FUNC_4
+seed_packbuilder,FUNC_5
+test_write_pack_permission,FUNC_6
+given,VAR_1
+expected,VAR_2
+statbuf,VAR_3
+mask,VAR_4
+os_mask,VAR_5

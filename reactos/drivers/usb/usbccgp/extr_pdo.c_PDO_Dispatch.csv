@@ -1,0 +1,13 @@
+DPRINT1,FUNC_0
+IO_NO_INCREMENT,VAR_0
+IoCompleteRequest,FUNC_1
+IoGetCurrentIrpStackLocation,FUNC_2
+PDO_HandleInternalDeviceControl,FUNC_3
+PDO_HandlePnp,FUNC_4
+PoStartNextPowerIrp,FUNC_5
+STATUS_SUCCESS,VAR_1
+PDO_Dispatch,FUNC_6
+DeviceObject,VAR_2
+Irp,VAR_3
+IoStack,VAR_4
+Status,VAR_5

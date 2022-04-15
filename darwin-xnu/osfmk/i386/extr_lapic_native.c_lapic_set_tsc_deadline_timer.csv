@@ -1,0 +1,4 @@
+MSR_IA32_TSC_DEADLINE,VAR_0
+wrmsr64,FUNC_0
+lapic_set_tsc_deadline_timer,FUNC_1
+deadline,VAR_1

@@ -1,0 +1,17 @@
+arrange_workspace,FUNC_0
+container_detach,FUNC_1
+container_floating_find_output,FUNC_2
+container_floating_translate,FUNC_3
+container_is_floating,FUNC_4
+container_is_scratchpad_hidden,FUNC_5
+output_get_active_workspace,FUNC_6
+sway_assert,FUNC_7
+workspace_add_floating,FUNC_8
+workspace_detect_urgent,FUNC_9
+container_floating_move_to,FUNC_10
+con,VAR_0
+lx,VAR_1
+ly,VAR_2
+old_workspace,VAR_3
+new_output,VAR_4
+new_workspace,VAR_5

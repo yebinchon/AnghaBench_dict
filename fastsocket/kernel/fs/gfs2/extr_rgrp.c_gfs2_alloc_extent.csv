@@ -1,0 +1,16 @@
+GFS2_BLKST_DINODE,VAR_0
+GFS2_BLKST_FREE,VAR_1
+GFS2_BLKST_USED,VAR_2
+gfs2_rbm_from_block,FUNC_0
+gfs2_rbm_to_block,FUNC_1
+gfs2_setbit,FUNC_2
+gfs2_testbit,FUNC_3
+gfs2_trans_add_meta,FUNC_4
+gfs2_alloc_extent,FUNC_5
+rbm,VAR_3
+dinode,VAR_4
+n,VAR_5
+pos,VAR_6
+elen,VAR_7
+block,VAR_8
+ret,VAR_9

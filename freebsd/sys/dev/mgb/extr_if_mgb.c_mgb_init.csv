@@ -1,0 +1,17 @@
+CSR_CLEAR_REG,FUNC_0
+CSR_UPDATE_REG,FUNC_1
+KASSERT,FUNC_2
+MGB_RFE_ALLOW_BROADCAST,VAR_0
+MGB_RFE_ALLOW_PERFECT_FILTER,VAR_1
+MGB_RFE_ALLOW_UNICAST,VAR_2
+MGB_RFE_CTL,VAR_3
+device_get_softc,FUNC_3
+device_printf,FUNC_4
+iflib_get_softc,FUNC_5
+mgb_dma_init,FUNC_6
+mii_mediachg,FUNC_7
+mgb_init,FUNC_8
+ctx,VAR_4
+sc,VAR_5
+miid,VAR_6
+error,VAR_7

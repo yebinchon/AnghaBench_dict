@@ -1,0 +1,13 @@
+INIT_WORK,FUNC_0
+TSCM_MIDI_OUT_PORT_MAX,VAR_0
+fw_core_add_address_handler,FUNC_1
+fw_core_remove_address_handler,FUNC_2
+fw_parent_device,FUNC_3
+handle_midi_tx,VAR_1
+midi_port_work,VAR_2
+snd_tscm_transaction_reregister,FUNC_4
+snd_tscm_transaction_register,FUNC_5
+tscm,VAR_3
+resp_register_region,VAR_4
+i,VAR_5
+err,VAR_6

@@ -1,0 +1,14 @@
+CLOCK_DBG_WRITE,VAR_0
+SBT_LSB,VAR_1
+SNVS_LPSRTCLR,VAR_2
+SNVS_LPSRTCMR,VAR_3
+WR4,FUNC_0
+clock_dbgprint_ts,FUNC_1
+device_get_softc,FUNC_2
+snvs_rtc_enable,FUNC_3
+tstosbt,FUNC_4
+snvs_settime,FUNC_5
+dev,VAR_4
+ts,VAR_5
+sc,VAR_6
+sbt,VAR_7

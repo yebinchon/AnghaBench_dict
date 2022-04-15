@@ -1,0 +1,16 @@
+BIT,FUNC_0
+PM8821_BLOCKS_PER_MASTER,VAR_0
+PM8821_SSBI_ADDR_IRQ_ROOT,FUNC_1
+generic_handle_irq,FUNC_2
+irq_find_mapping,FUNC_3
+pr_err,FUNC_4
+regmap_read,FUNC_5
+pm8821_irq_block_handler,FUNC_6
+chip,VAR_1
+master,VAR_2
+block,VAR_3
+pmirq,VAR_4
+irq,VAR_5
+i,VAR_6
+ret,VAR_7
+bits,VAR_8

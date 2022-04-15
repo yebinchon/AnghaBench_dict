@@ -1,0 +1,15 @@
+free_uid,FUNC_0
+io_eventfd_unregister,FUNC_1
+io_finish_async,FUNC_2
+io_iopoll_reap_events,FUNC_3
+io_mem_free,FUNC_4
+io_sqe_buffer_unregister,FUNC_5
+io_sqe_files_unregister,FUNC_6
+io_unaccount_mem,FUNC_7
+kfree,FUNC_8
+mmdrop,FUNC_9
+percpu_ref_exit,FUNC_10
+ring_pages,FUNC_11
+sock_release,FUNC_12
+io_ring_ctx_free,FUNC_13
+ctx,VAR_0

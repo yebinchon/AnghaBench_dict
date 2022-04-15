@@ -1,0 +1,15 @@
+SA_NODEFER,VAR_0
+SA_RESETHAND,VAR_1
+SA_SIGINFO,VAR_2
+SIGBUS,VAR_3
+SIGFPE,VAR_4
+SIGILL,VAR_5
+SIGINT,VAR_6
+SIGSEGV,VAR_7
+SIGTERM,VAR_8
+sigShutdownHandler,VAR_9
+sigaction,FUNC_0
+sigemptyset,FUNC_1
+sigsegvHandler,VAR_10
+setupSignalHandlers,FUNC_2
+act,VAR_11

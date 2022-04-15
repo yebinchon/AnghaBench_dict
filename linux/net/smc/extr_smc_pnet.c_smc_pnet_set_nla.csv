@@ -1,0 +1,10 @@
+SMC_PNETID_ETHNAME,VAR_0
+SMC_PNETID_IBNAME,VAR_1
+SMC_PNETID_IBPORT,VAR_2
+SMC_PNETID_NAME,VAR_3
+dev_name,FUNC_0
+nla_put_string,FUNC_1
+nla_put_u8,FUNC_2
+smc_pnet_set_nla,FUNC_3
+msg,VAR_4
+pnetelem,VAR_5

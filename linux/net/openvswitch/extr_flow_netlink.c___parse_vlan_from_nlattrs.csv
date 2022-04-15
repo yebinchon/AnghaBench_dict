@@ -1,0 +1,17 @@
+OVS_KEY_ATTR_ENCAP,VAR_0
+OVS_KEY_ATTR_ETHERTYPE,VAR_1
+OVS_KEY_ATTR_VLAN,VAR_2
+encode_vlan_from_nlattrs,FUNC_0
+parse_flow_mask_nlattrs,FUNC_1
+parse_flow_nlattrs,FUNC_2
+validate_vlan_from_nlattrs,FUNC_3
+validate_vlan_mask_from_nlattrs,FUNC_4
+__parse_vlan_from_nlattrs,FUNC_5
+match,VAR_3
+key_attrs,VAR_4
+inner,VAR_5
+a,VAR_6
+is_mask,VAR_7
+log,VAR_8
+err,VAR_9
+encap,VAR_10

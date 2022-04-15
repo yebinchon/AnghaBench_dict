@@ -1,0 +1,12 @@
+ACPI_CSTATE_FFH,VAR_0
+ACPI_CSTATE_HALT,VAR_1
+acpi_gbl_FADT,VAR_2
+acpi_processor_ffh_cstate_enter,FUNC_0
+acpi_safe_halt,FUNC_1
+inb,FUNC_2
+inl,FUNC_3
+start_critical_timings,FUNC_4
+stop_critical_timings,FUNC_5
+acpi_idle_do_entry,FUNC_6
+cx,VAR_3
+unused,VAR_4

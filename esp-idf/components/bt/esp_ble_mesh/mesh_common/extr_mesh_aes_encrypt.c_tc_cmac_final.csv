@@ -1,0 +1,13 @@
+TC_AES_BLOCK_SIZE,VAR_0
+TC_CMAC_PADDING,VAR_1
+TC_CRYPTO_FAIL,VAR_2
+TC_CRYPTO_SUCCESS,VAR_3
+_set,FUNC_0
+tc_aes_encrypt,FUNC_1
+tc_cmac_erase,FUNC_2
+tc_cmac_final,FUNC_3
+tag,VAR_4
+s,VAR_5
+k,VAR_6
+i,VAR_7
+remaining,VAR_8

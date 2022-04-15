@@ -1,0 +1,13 @@
+EBUSY,VAR_0
+EINVAL,VAR_1
+ENOENT,VAR_2
+MD_FORCE,VAR_3
+MD_RESERVE,VAR_4
+SA_XLOCKED,VAR_5
+md_sx,VAR_6
+mdfind,FUNC_0
+mdresize,FUNC_1
+sx_assert,FUNC_2
+kern_mdresize_locked,FUNC_3
+mdr,VAR_7
+sc,VAR_8

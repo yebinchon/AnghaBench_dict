@@ -1,0 +1,12 @@
+CAM_DEV_QFREEZE,VAR_0
+CAM_REQ_CMP,VAR_1
+DBG_INFO,FUNC_0
+RELSIM_ADJUST_OPENINGS,VAR_2
+XPT_REL_SIMQ,VAR_3
+printf,FUNC_1
+xpt_action,FUNC_2
+xpt_setup_ccb,FUNC_3
+smartpqi_adjust_queue_depth,FUNC_4
+path,VAR_4
+queue_depth,VAR_5
+crs,VAR_6

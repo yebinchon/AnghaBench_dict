@@ -1,0 +1,17 @@
+NO_SIGNAL,VAR_0
+PORT_NTESTS_SHIFT,VAR_1
+ktime_get_real_ts64,FUNC_0
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+pr_info,FUNC_3
+stub1,FUNC_4
+timespec64_sub,FUNC_5
+timespec64_to_ns,FUNC_6
+calibrate_port,FUNC_7
+dev,VAR_2
+port,VAR_3
+i,VAR_4
+acc,VAR_5
+a,VAR_6
+b,VAR_7
+irq_flags,VAR_8

@@ -1,0 +1,14 @@
+TSDB_MAX_VNODES,VAR_0
+TSDB_STATUS_OFFLINE,VAR_1
+dmutex,VAR_2
+pthread_mutex_lock,FUNC_0
+pthread_mutex_unlock,FUNC_1
+taosMsleep,FUNC_2
+vnodeCleanUpCommit,FUNC_3
+vnodeClosePeerVnode,FUNC_4
+vnodeList,VAR_3
+vnodeProcessCommitTimer,FUNC_5
+vnodeCleanUpVnodes,FUNC_6
+again,VAR_4
+vnode,VAR_5
+vnode,VAR_6

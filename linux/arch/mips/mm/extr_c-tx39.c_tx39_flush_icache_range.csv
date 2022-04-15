@@ -1,0 +1,17 @@
+TX39_CONF_ICE,VAR_0
+TX39_STOP_STREAMING,FUNC_0
+dcache_size,VAR_1
+icache_size,VAR_2
+local_irq_restore,FUNC_1
+local_irq_save,FUNC_2
+protected_blast_dcache_range,FUNC_3
+protected_blast_icache_range,FUNC_4
+read_c0_conf,FUNC_5
+tx39_blast_dcache,FUNC_6
+tx39_blast_icache,FUNC_7
+write_c0_conf,FUNC_8
+tx39_flush_icache_range,FUNC_9
+start,VAR_3
+end,VAR_4
+flags,VAR_5
+config,VAR_6

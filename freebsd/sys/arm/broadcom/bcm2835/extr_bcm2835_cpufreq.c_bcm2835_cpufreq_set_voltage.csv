@@ -1,0 +1,15 @@
+BCM2835_MBOX_CODE_REQ,VAR_0
+BCM2835_MBOX_TAG_SET_VOLTAGE,VAR_1
+DPRINTF,FUNC_0
+MAX_OVER_VOLTAGE,VAR_2
+MIN_OVER_VOLTAGE,VAR_3
+MSG_ERROR,VAR_4
+bcm2835_mbox_property,FUNC_1
+device_printf,FUNC_2
+memset,FUNC_3
+bcm2835_cpufreq_set_voltage,FUNC_4
+sc,VAR_5
+voltage_id,VAR_6
+value,VAR_7
+msg,VAR_8
+err,VAR_9

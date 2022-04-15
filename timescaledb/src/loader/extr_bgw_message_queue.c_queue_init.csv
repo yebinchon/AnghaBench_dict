@@ -1,0 +1,14 @@
+AddinShmemInitLock,VAR_0
+BGW_MQ_NAME,VAR_1
+BGW_MQ_TRANCHE_NAME,VAR_2
+GetNamedLWLockTranche,FUNC_0
+InvalidPid,VAR_3
+LWLockAcquire,FUNC_1
+LWLockRelease,FUNC_2
+LW_EXCLUSIVE,VAR_4
+ShmemInitStruct,FUNC_3
+SpinLockInit,FUNC_4
+memset,FUNC_5
+mq,VAR_5
+queue_init,FUNC_6
+found,VAR_6

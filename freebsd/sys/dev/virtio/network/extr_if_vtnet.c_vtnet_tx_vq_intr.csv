@@ -1,0 +1,14 @@
+IFF_DRV_RUNNING,VAR_0
+NM_IRQ_PASS,VAR_1
+VTNET_TXQ_LOCK,FUNC_0
+VTNET_TXQ_UNLOCK,FUNC_1
+__predict_false,FUNC_2
+netmap_tx_irq,FUNC_3
+vtnet_txq_disable_intr,FUNC_4
+vtnet_txq_eof,FUNC_5
+vtnet_txq_start,FUNC_6
+vtnet_tx_vq_intr,FUNC_7
+xtxq,VAR_2
+sc,VAR_3
+txq,VAR_4
+ifp,VAR_5

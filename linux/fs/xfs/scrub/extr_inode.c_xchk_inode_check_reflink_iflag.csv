@@ -1,0 +1,14 @@
+XFS_INO_TO_AGBNO,FUNC_0
+XFS_INO_TO_AGNO,FUNC_1
+xchk_ino_set_corrupt,FUNC_2
+xchk_ino_set_preen,FUNC_3
+xchk_xref_process_error,FUNC_4
+xfs_is_reflink_inode,FUNC_5
+xfs_reflink_inode_has_shared_extents,FUNC_6
+xfs_sb_version_hasreflink,FUNC_7
+xchk_inode_check_reflink_iflag,FUNC_8
+sc,VAR_0
+ino,VAR_1
+mp,VAR_2
+has_shared,VAR_3
+error,VAR_4

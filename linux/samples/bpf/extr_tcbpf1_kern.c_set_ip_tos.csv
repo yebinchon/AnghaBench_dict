@@ -1,0 +1,10 @@
+IP_CSUM_OFF,VAR_0
+TOS_OFF,VAR_1
+bpf_l3_csum_replace,FUNC_0
+bpf_skb_store_bytes,FUNC_1
+htons,FUNC_2
+load_byte,FUNC_3
+set_ip_tos,FUNC_4
+skb,VAR_2
+new_tos,VAR_3
+old_tos,VAR_4

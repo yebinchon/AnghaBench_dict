@@ -1,0 +1,15 @@
+RARAbsoluteAddressingMode,VAR_0
+RARImmediateAddressingMode,VAR_1
+RARIndexedAbsoluteAddressingMode,FUNC_0
+RARInstructionIsRelativeJump,FUNC_1
+RARRegisterAddressingMode,FUNC_2
+RARRegisterIndirectAddressingMode,FUNC_3
+br_bits,FUNC_4
+br_next_rarvm_number,FUNC_5
+rar_parse_operand,FUNC_6
+br,VAR_2
+instruction,VAR_3
+bytemode,VAR_4
+instrcount,VAR_5
+addressmode,VAR_6
+value,VAR_7

@@ -1,0 +1,15 @@
+IRQF_ONESHOT,VAR_0
+IRQF_SHARED,VAR_1
+dev_name,FUNC_0
+irq_set_lockdep_class,FUNC_1
+mv88e6xxx_g1_irq_free_common,FUNC_2
+mv88e6xxx_g1_irq_setup_common,FUNC_3
+mv88e6xxx_g1_irq_thread_fn,VAR_2
+mv88e6xxx_reg_lock,FUNC_4
+mv88e6xxx_reg_unlock,FUNC_5
+request_threaded_irq,FUNC_6
+mv88e6xxx_g1_irq_setup,FUNC_7
+chip,VAR_3
+lock_key,VAR_4
+request_key,VAR_5
+err,VAR_6

@@ -1,0 +1,14 @@
+KERN_SUCCESS,VAR_0
+LINK_WALK_ONE_LEVEL,VAR_1
+VM_KERNEL_UNSLIDE_OR_PERM,FUNC_0
+WQL_LINK,VAR_2
+assert,FUNC_1
+waitq_clear_prepost_locked,FUNC_2
+waitq_irq_safe,FUNC_3
+waitq_unlink_all_cb,VAR_3
+waitq_unlock,FUNC_4
+walk_waitq_links,FUNC_5
+wqdbg_v,FUNC_6
+waitq_unlink_all_unlock,FUNC_7
+waitq,VAR_4
+old_set_id,VAR_5

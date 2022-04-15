@@ -1,0 +1,16 @@
+SCTP_CID_AUTH,VAR_0
+htons,FUNC_0
+memset,FUNC_1
+ntohs,FUNC_2
+sctp_addto_chunk,FUNC_3
+sctp_auth_asoc_get_hmac,FUNC_4
+sctp_make_chunk,FUNC_5
+skb_put,FUNC_6
+skb_tail_pointer,FUNC_7
+unlikely,FUNC_8
+sctp_make_auth,FUNC_9
+asoc,VAR_1
+retval,VAR_2
+hmac_desc,VAR_3
+auth_hdr,VAR_4
+hmac,VAR_5

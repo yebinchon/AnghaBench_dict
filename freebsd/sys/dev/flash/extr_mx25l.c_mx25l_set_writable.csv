@@ -1,0 +1,11 @@
+CMD_WRITE_DISABLE,VAR_0
+CMD_WRITE_ENABLE,VAR_1
+SPIBUS_TRANSFER,FUNC_0
+memset,FUNC_1
+mx25l_set_writable,FUNC_2
+sc,VAR_2
+writable,VAR_3
+txBuf,VAR_4
+rxBuf,VAR_5
+cmd,VAR_6
+err,VAR_7

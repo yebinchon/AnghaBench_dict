@@ -1,0 +1,16 @@
+SRTC_LPSAR,VAR_0
+SRTC_LPSR,VAR_1
+SRTC_LPSR_ALP,VAR_2
+dev_get_drvdata,FUNC_0
+mxc_rtc_alarm_irq_enable_locked,FUNC_1
+mxc_rtc_lock,FUNC_2
+mxc_rtc_sync_lp_locked,FUNC_3
+mxc_rtc_unlock,FUNC_4
+rtc_tm_to_time64,FUNC_5
+writel,FUNC_6
+mxc_rtc_set_alarm,FUNC_7
+dev,VAR_3
+alrm,VAR_4
+time,VAR_5
+pdata,VAR_6
+ret,VAR_7

@@ -1,0 +1,13 @@
+SND_SOC_BIAS_OFF,VAR_0
+i2c_del_driver,FUNC_0
+i2c_unregister_device,FUNC_1
+kfree,FUNC_2
+platform_get_drvdata,FUNC_3
+snd_soc_dapm_free,FUNC_4
+snd_soc_free_pcms,FUNC_5
+wm8990_i2c_driver,VAR_1
+wm8990_set_bias_level,FUNC_6
+wm8990_remove,FUNC_7
+pdev,VAR_2
+socdev,VAR_3
+codec,VAR_4

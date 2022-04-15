@@ -1,0 +1,15 @@
+MS_MAX_RETRY_COUNT,VAR_0
+PRO_EX_SET_CMD,VAR_1
+STATUS_FAIL,VAR_2
+STATUS_SUCCESS,VAR_3
+WAIT_INT,VAR_4
+check_ms_err,FUNC_0
+ms_write_bytes,FUNC_1
+rtsx_clear_ms_error,FUNC_2
+mg_send_ex_cmd,FUNC_3
+chip,VAR_5
+cmd,VAR_6
+entry_num,VAR_7
+retval,VAR_8
+i,VAR_9
+data,VAR_10

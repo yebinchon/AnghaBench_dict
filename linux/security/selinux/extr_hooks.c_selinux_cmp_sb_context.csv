@@ -1,0 +1,17 @@
+CONTEXT_MNT,VAR_0
+DEFCONTEXT_MNT,VAR_1
+EBUSY,VAR_2
+FSCONTEXT_MNT,VAR_3
+ROOTCONTEXT_MNT,VAR_4
+SE_MNTMASK,VAR_5
+backing_inode_security,FUNC_0
+pr_warn,FUNC_1
+selinux_cmp_sb_context,FUNC_2
+oldsb,VAR_6
+newsb,VAR_7
+old,VAR_8
+new,VAR_9
+oldflags,VAR_10
+newflags,VAR_11
+oldroot,VAR_12
+newroot,VAR_13

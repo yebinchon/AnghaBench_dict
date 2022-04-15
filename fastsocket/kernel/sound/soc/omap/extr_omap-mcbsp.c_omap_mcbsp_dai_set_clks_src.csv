@@ -1,0 +1,17 @@
+EINVAL,VAR_0
+OMAP243X_CONTROL_DEVCONF1,VAR_1
+OMAP2_CONTROL_DEVCONF0,VAR_2
+OMAP343X_CONTROL_DEVCONF1,VAR_3
+OMAP_MCBSP_SYSCLK_CLKS_FCLK,VAR_4
+cpu_class_is_omap1,FUNC_0
+cpu_is_omap2420,FUNC_1
+cpu_is_omap343x,FUNC_2
+omap_ctrl_readl,FUNC_3
+omap_ctrl_writel,FUNC_4
+unlikely,FUNC_5
+omap_mcbsp_dai_set_clks_src,FUNC_6
+mcbsp_data,VAR_5
+clk_id,VAR_6
+sel_bit,VAR_7
+reg,VAR_8
+reg_devconf1,VAR_9

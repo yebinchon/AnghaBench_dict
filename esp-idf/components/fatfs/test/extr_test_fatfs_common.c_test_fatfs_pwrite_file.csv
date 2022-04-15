@@ -1,0 +1,13 @@
+O_CREAT,VAR_0
+O_TRUNC,VAR_1
+O_WRONLY,VAR_2
+TEST_ASSERT_EQUAL,FUNC_0
+TEST_ASSERT_NOT_EQUAL,FUNC_1
+close,FUNC_2
+open,FUNC_3
+strlen,FUNC_4
+test_file_content,FUNC_5
+test_pwrite,FUNC_6
+test_fatfs_pwrite_file,FUNC_7
+filename,VAR_3
+fd,VAR_4

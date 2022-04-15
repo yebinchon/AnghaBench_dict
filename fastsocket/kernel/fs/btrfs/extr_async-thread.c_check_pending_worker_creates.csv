@@ -1,0 +1,13 @@
+GFP_NOFS,VAR_0
+btrfs_queue_worker,FUNC_0
+kfree,FUNC_1
+kzalloc,FUNC_2
+rmb,FUNC_3
+spin_lock_irqsave,FUNC_4
+spin_unlock_irqrestore,FUNC_5
+start_new_worker_func,VAR_1
+check_pending_worker_creates,FUNC_6
+worker,VAR_2
+workers,VAR_3
+start,VAR_4
+flags,VAR_5

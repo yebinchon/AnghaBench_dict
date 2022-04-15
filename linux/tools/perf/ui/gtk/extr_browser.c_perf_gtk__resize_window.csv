@@ -1,0 +1,12 @@
+GTK_WINDOW,FUNC_0
+gdk_screen_get_monitor_at_window,FUNC_1
+gdk_screen_get_monitor_geometry,FUNC_2
+gtk_widget_get_screen,FUNC_3
+gtk_window_resize,FUNC_4
+perf_gtk__resize_window,FUNC_5
+window,VAR_0
+rect,VAR_1
+screen,VAR_2
+monitor,VAR_3
+height,VAR_4
+width,VAR_5

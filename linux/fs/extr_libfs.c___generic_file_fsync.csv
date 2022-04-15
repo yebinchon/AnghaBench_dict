@@ -1,0 +1,16 @@
+I_DIRTY_ALL,VAR_0
+I_DIRTY_DATASYNC,VAR_1
+file_check_and_advance_wb_err,FUNC_0
+file_write_and_wait_range,FUNC_1
+inode_lock,FUNC_2
+inode_unlock,FUNC_3
+sync_inode_metadata,FUNC_4
+sync_mapping_buffers,FUNC_5
+__generic_file_fsync,FUNC_6
+file,VAR_2
+start,VAR_3
+end,VAR_4
+datasync,VAR_5
+inode,VAR_6
+err,VAR_7
+ret,VAR_8

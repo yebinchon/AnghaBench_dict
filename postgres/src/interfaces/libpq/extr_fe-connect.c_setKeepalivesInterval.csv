@@ -1,0 +1,12 @@
+IPPROTO_TCP,VAR_0
+PG_STRERROR_R_BUFLEN,VAR_1
+SOCK_ERRNO,VAR_2
+SOCK_STRERROR,FUNC_0
+TCP_KEEPINTVL,VAR_3
+appendPQExpBuffer,FUNC_1
+libpq_gettext,FUNC_2
+parse_int_param,FUNC_3
+setsockopt,FUNC_4
+setKeepalivesInterval,FUNC_5
+conn,VAR_4
+interval,VAR_5

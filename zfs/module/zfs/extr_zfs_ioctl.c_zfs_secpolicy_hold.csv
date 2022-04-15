@@ -1,0 +1,15 @@
+ZFS_DELEG_PERM_HOLD,VAR_0
+ZFS_MAX_DATASET_NAME_LEN,VAR_1
+dmu_fsname,FUNC_0
+fnvlist_lookup_nvlist,FUNC_1
+nvlist_next_nvpair,FUNC_2
+nvpair_name,FUNC_3
+zfs_secpolicy_write_perms,FUNC_4
+zfs_secpolicy_hold,FUNC_5
+zc,VAR_2
+innvl,VAR_3
+cr,VAR_4
+pair,VAR_5
+holds,VAR_6
+error,VAR_7
+fsname,VAR_8

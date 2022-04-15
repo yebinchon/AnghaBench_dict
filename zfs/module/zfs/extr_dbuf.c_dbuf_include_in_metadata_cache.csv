@@ -1,0 +1,17 @@
+ASSERT,FUNC_0
+B_FALSE,VAR_0
+B_TRUE,VAR_1
+DBUF_STAT_BUMP,FUNC_1
+DB_DBUF_METADATA_CACHE,VAR_2
+DB_DNODE,FUNC_2
+DB_DNODE_ENTER,FUNC_3
+DB_DNODE_EXIT,FUNC_4
+DMU_OT_IS_METADATA,FUNC_5
+DMU_OT_IS_METADATA_CACHED,FUNC_6
+dbuf_caches,VAR_3
+dbuf_metadata_cache_max_bytes,VAR_4
+metadata_cache_overflow,VAR_5
+zfs_refcount_count,FUNC_7
+dbuf_include_in_metadata_cache,FUNC_8
+db,VAR_6
+type,VAR_7

@@ -1,0 +1,15 @@
+memcpy,FUNC_0
+octeon_crypto_disable,FUNC_1
+octeon_crypto_enable,FUNC_2
+octeon_md5_read_hash,FUNC_3
+octeon_md5_store_hash,FUNC_4
+octeon_md5_transform,FUNC_5
+shash_desc_ctx,FUNC_6
+octeon_md5_update,FUNC_7
+desc,VAR_0
+data,VAR_1
+len,VAR_2
+mctx,VAR_3
+avail,VAR_4
+state,VAR_5
+flags,VAR_6

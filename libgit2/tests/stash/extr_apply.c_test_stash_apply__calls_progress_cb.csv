@@ -1,0 +1,11 @@
+GIT_STASH_APPLY_OPTIONS_INIT,VAR_0
+GIT_STASH_APPLY_PROGRESS_DONE,VAR_1
+GIT_STASH_APPLY_PROGRESS_NONE,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_stash_apply,FUNC_2
+progress_cb,VAR_3
+repo,VAR_4
+test_stash_apply__calls_progress_cb,FUNC_3
+opts,VAR_5
+progress,VAR_6

@@ -1,0 +1,16 @@
+CTRL_PHY_SHUTDOWN,VAR_0
+MODE_2_FORCE_PU_RX,VAR_1
+MODE_2_FORCE_PU_TX,VAR_2
+MODE_2_PU_IVREF,VAR_3
+MODE_2_PU_PLL,VAR_4
+SATA_IF_CTRL,VAR_5
+SATA_PHY_MODE_2,VAR_6
+clk_disable_unprepare,FUNC_0
+clk_prepare_enable,FUNC_1
+phy_get_drvdata,FUNC_2
+readl,FUNC_3
+writel,FUNC_4
+phy_mvebu_sata_power_on,FUNC_5
+phy,VAR_7
+priv,VAR_8
+reg,VAR_9

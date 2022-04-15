@@ -1,0 +1,17 @@
+AGP_APBASE,VAR_0
+A_SIZE_8,FUNC_0
+INTEL_AGPCTRL,VAR_1
+INTEL_APSIZE,VAR_2
+INTEL_ATTBASE,VAR_3
+INTEL_I7505_MCHCFG,VAR_4
+PCI_BASE_ADDRESS_MEM_MASK,VAR_5
+agp_bridge,VAR_6
+pci_read_config_dword,FUNC_1
+pci_read_config_word,FUNC_2
+pci_write_config_byte,FUNC_3
+pci_write_config_dword,FUNC_4
+pci_write_config_word,FUNC_5
+intel_7505_configure,FUNC_6
+temp,VAR_7
+temp2,VAR_8
+current_size,VAR_9

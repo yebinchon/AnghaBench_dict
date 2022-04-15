@@ -1,0 +1,12 @@
+GetLastError,FUNC_0
+SPIF_UPDATEINIFILE,VAR_0
+SPI_ICONVERTICALSPACING,VAR_1
+SetLastError,FUNC_1
+SystemParametersInfoA,FUNC_2
+dotest_spi_iconverticalspacing,FUNC_3
+ok,FUNC_4
+test_error_msg,FUNC_5
+trace,FUNC_6
+test_SPI_ICONVERTICALSPACING,FUNC_7
+rc,VAR_2
+old_spacing,VAR_3

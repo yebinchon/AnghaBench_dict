@@ -1,0 +1,17 @@
+DIE_NMI,VAR_0
+DIE_NMI_IPI,VAR_1
+NOTIFY_STOP,VAR_2
+SIGINT,VAR_3
+do_nmi_callback,FUNC_0
+get_nmi_reason,FUNC_1
+io_check_error,FUNC_2
+mem_parity_error,FUNC_3
+nmi_watchdog_tick,FUNC_4
+notify_die,FUNC_5
+reassert_nmi,FUNC_6
+smp_processor_id,FUNC_7
+unknown_nmi_error,FUNC_8
+default_do_nmi,FUNC_9
+regs,VAR_4
+reason,VAR_5
+cpu,VAR_6

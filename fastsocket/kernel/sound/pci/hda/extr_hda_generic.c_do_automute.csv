@@ -1,0 +1,15 @@
+PIN_HP,VAR_0
+PIN_IN,VAR_1
+set_pin_eapd,FUNC_0
+snd_hda_codec_get_pin_target,FUNC_1
+update_pin_ctl,FUNC_2
+do_automute,FUNC_3
+codec,VAR_2
+num_pins,VAR_3
+pins,VAR_4
+mute,VAR_5
+spec,VAR_6
+i,VAR_7
+nid,VAR_8
+val,VAR_9
+oldval,VAR_10

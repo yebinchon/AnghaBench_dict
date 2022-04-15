@@ -1,0 +1,16 @@
+GFP_ATOMIC,VAR_0
+RMNET_FLAGS_INGRESS_MAP_CKSUMV4,VAR_1
+RMNET_MAP_DEAGGR_HEADROOM,VAR_2
+RMNET_MAP_DEAGGR_SPACING,VAR_3
+alloc_skb,FUNC_0
+memcpy,FUNC_1
+ntohs,FUNC_2
+skb_pull,FUNC_3
+skb_put,FUNC_4
+skb_reserve,FUNC_5
+rmnet_map_deaggregate,FUNC_6
+skb,VAR_4
+port,VAR_5
+maph,VAR_6
+skbn,VAR_7
+packet_len,VAR_8

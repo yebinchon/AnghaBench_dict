@@ -1,0 +1,17 @@
+CLKRC_DIV_MASK,VAR_0
+FRAME_RATE_MAX,VAR_1
+GET_CLKRC_DIV,FUNC_0
+REG_CLKRC,VAR_2
+ov6650_reg_rmw,FUNC_1
+to_clkrc,FUNC_2
+to_ov6650,FUNC_3
+v4l2_get_subdevdata,FUNC_4
+ov6650_s_frame_interval,FUNC_5
+sd,VAR_3
+ival,VAR_4
+client,VAR_5
+priv,VAR_6
+tpf,VAR_7
+div,VAR_8
+ret,VAR_9
+clkrc,VAR_10

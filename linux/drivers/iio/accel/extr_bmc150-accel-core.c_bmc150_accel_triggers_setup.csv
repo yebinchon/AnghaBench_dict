@@ -1,0 +1,16 @@
+BMC150_ACCEL_TRIGGERS,VAR_0
+ENOMEM,VAR_1
+bmc150_accel_trigger_ops,VAR_2
+bmc150_accel_triggers,VAR_3
+bmc150_accel_unregister_triggers,FUNC_0
+devm_iio_trigger_alloc,FUNC_1
+iio_trigger_register,FUNC_2
+iio_trigger_set_drvdata,FUNC_3
+regmap_get_device,FUNC_4
+bmc150_accel_triggers_setup,FUNC_5
+indio_dev,VAR_4
+data,VAR_5
+dev,VAR_6
+i,VAR_7
+ret,VAR_8
+t,VAR_9

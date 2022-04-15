@@ -1,0 +1,17 @@
+EMULATE_DO_MMIO,VAR_0
+EMULATE_FAIL,VAR_1
+KVM_INVALID_ADDR,VAR_2
+kvm_debug,FUNC_0
+kvm_err,FUNC_1
+kvm_mips_callbacks,VAR_3
+stub1,FUNC_2
+update_pc,FUNC_3
+kvm_mips_emulate_store,FUNC_4
+inst,VAR_4
+cause,VAR_5
+run,VAR_6
+vcpu,VAR_7
+er,VAR_8
+rt,VAR_9
+data,VAR_10
+curr_pc,VAR_11

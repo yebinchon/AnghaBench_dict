@@ -1,0 +1,16 @@
+destroy_dev,FUNC_0
+pf_dev,VAR_0
+pf_end_lock,VAR_1
+pf_end_threads,VAR_2
+pf_ioctl_lock,VAR_3
+pf_purge_proc,VAR_4
+pf_purge_thread,VAR_5
+pf_rules_lock,VAR_6
+pfi_cleanup,FUNC_1
+rm_destroy,FUNC_2
+sx_destroy,FUNC_3
+sx_sleep,FUNC_4
+sx_xlock,FUNC_5
+sx_xunlock,FUNC_6
+wakeup_one,FUNC_7
+pf_unload,FUNC_8

@@ -1,0 +1,17 @@
+FPSCR_CAUSE_INEXACT,VAR_0
+FPSCR_CAUSE_OVERFLOW,VAR_1
+FPSCR_CAUSE_UNDERFLOW,VAR_2
+FPSCR_RM_NEAREST,VAR_3
+LIT64,FUNC_0
+float_raise,FUNC_1
+float_rounding_mode,FUNC_2
+packFloat64,FUNC_3
+shift64RightJamming,FUNC_4
+roundAndPackFloat64,FUNC_5
+zSign,VAR_4
+zExp,VAR_5
+zSig,VAR_6
+roundNearestEven,VAR_7
+roundIncrement,VAR_8
+roundBits,VAR_9
+isTiny,VAR_10

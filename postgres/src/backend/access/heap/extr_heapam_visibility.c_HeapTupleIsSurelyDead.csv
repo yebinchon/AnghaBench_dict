@@ -1,0 +1,15 @@
+Assert,FUNC_0
+HEAP_XMAX_COMMITTED,VAR_0
+HEAP_XMAX_INVALID,VAR_1
+HEAP_XMAX_IS_LOCKED_ONLY,FUNC_1
+HEAP_XMAX_IS_MULTI,VAR_2
+HeapTupleHeaderGetRawXmax,FUNC_2
+HeapTupleHeaderXminCommitted,FUNC_3
+HeapTupleHeaderXminInvalid,FUNC_4
+InvalidOid,VAR_3
+ItemPointerIsValid,FUNC_5
+TransactionIdPrecedes,FUNC_6
+HeapTupleIsSurelyDead,FUNC_7
+htup,VAR_4
+OldestXmin,VAR_5
+tuple,VAR_6

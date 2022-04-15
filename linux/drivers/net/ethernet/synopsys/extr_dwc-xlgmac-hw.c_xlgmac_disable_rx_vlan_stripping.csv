@@ -1,0 +1,9 @@
+MAC_VLANTR,VAR_0
+MAC_VLANTR_EVLS_LEN,VAR_1
+MAC_VLANTR_EVLS_POS,VAR_2
+XLGMAC_SET_REG_BITS,FUNC_0
+readl,FUNC_1
+writel,FUNC_2
+xlgmac_disable_rx_vlan_stripping,FUNC_3
+pdata,VAR_3
+regval,VAR_4

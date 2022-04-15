@@ -1,0 +1,12 @@
+HOSTFS_I,FUNC_0
+file_write_and_wait_range,FUNC_1
+fsync_file,FUNC_2
+inode_lock,FUNC_3
+inode_unlock,FUNC_4
+hostfs_fsync,FUNC_5
+file,VAR_0
+start,VAR_1
+end,VAR_2
+datasync,VAR_3
+inode,VAR_4
+ret,VAR_5

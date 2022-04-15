@@ -1,0 +1,17 @@
+BUS_DMA_COHERENT,VAR_0
+BUS_DMA_NOWAIT,VAR_1
+BUS_DMA_ZERO,VAR_2
+BUS_SPACE_MAXADDR,VAR_3
+QL_DPRINT1,FUNC_0
+bus_dma_tag_create,FUNC_1
+bus_dma_tag_destroy,FUNC_2
+bus_dmamap_load,FUNC_3
+bus_dmamem_alloc,FUNC_4
+bus_dmamem_free,FUNC_5
+qlnx_dmamap_callback,VAR_4
+qlnx_alloc_dmabuf,FUNC_6
+ha,VAR_5
+dma_buf,VAR_6
+ret,VAR_7
+dev,VAR_8
+b_addr,VAR_9

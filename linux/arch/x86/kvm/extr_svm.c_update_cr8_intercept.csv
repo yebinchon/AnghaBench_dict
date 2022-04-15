@@ -1,0 +1,11 @@
+INTERCEPT_CR8_WRITE,VAR_0
+clr_cr_intercept,FUNC_0
+kvm_vcpu_apicv_active,FUNC_1
+set_cr_intercept,FUNC_2
+svm_nested_virtualize_tpr,FUNC_3
+to_svm,FUNC_4
+update_cr8_intercept,FUNC_5
+vcpu,VAR_1
+tpr,VAR_2
+irr,VAR_3
+svm,VAR_4

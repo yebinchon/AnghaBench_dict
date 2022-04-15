@@ -1,0 +1,16 @@
+CQHCI_CTL,VAR_0
+CQHCI_HALT,VAR_1
+cqhci_readl,FUNC_0
+ktime_add_us,FUNC_1
+ktime_compare,FUNC_2
+ktime_get,FUNC_3
+sdhci_cqe_enable,FUNC_4
+writel,FUNC_5
+tegra_cqhci_writel,FUNC_6
+cq_host,VAR_2
+val,VAR_3
+reg,VAR_4
+mmc,VAR_5
+ctrl,VAR_6
+timeout,VAR_7
+timed_out,VAR_8

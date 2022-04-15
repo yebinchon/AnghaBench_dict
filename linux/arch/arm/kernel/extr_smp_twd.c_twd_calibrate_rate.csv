@@ -1,0 +1,14 @@
+HZ,VAR_0
+TWD_TIMER_CONTROL,VAR_1
+TWD_TIMER_COUNTER,VAR_2
+get_jiffies_64,FUNC_0
+pr_cont,FUNC_1
+pr_info,FUNC_2
+readl_relaxed,FUNC_3
+twd_base,VAR_3
+twd_timer_rate,VAR_4
+udelay,FUNC_4
+writel_relaxed,FUNC_5
+twd_calibrate_rate,FUNC_6
+count,VAR_5
+waitjiffies,VAR_6

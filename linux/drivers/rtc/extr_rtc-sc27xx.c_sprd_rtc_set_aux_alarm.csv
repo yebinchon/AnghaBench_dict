@@ -1,0 +1,15 @@
+SPRD_RTC_AUXALM_EN,VAR_0
+SPRD_RTC_AUX_ALARM,VAR_1
+SPRD_RTC_INT_CLR,VAR_2
+SPRD_RTC_INT_EN,VAR_3
+dev_get_drvdata,FUNC_0
+regmap_update_bits,FUNC_1
+regmap_write,FUNC_2
+rtc_tm_to_time64,FUNC_3
+sprd_rtc_set_secs,FUNC_4
+sprd_rtc_set_aux_alarm,FUNC_5
+dev,VAR_4
+alrm,VAR_5
+rtc,VAR_6
+secs,VAR_7
+ret,VAR_8

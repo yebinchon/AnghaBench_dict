@@ -1,0 +1,17 @@
+H_BUSY,VAR_0
+H_IS_LONG_BUSY,FUNC_0
+H_SUCCESS,VAR_1
+VIO_IRQ_DISABLE,VAR_2
+free_irq,FUNC_1
+h_free_logical_lan,FUNC_2
+h_vio_signal,FUNC_3
+ibmveth_cleanup,FUNC_4
+napi_disable,FUNC_5
+netdev_dbg,FUNC_6
+netdev_err,FUNC_7
+netdev_priv,FUNC_8
+netif_stop_queue,FUNC_9
+ibmveth_close,FUNC_10
+netdev,VAR_3
+adapter,VAR_4
+lpar_rc,VAR_5

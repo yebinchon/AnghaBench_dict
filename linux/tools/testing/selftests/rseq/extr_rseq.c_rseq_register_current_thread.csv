@@ -1,0 +1,17 @@
+EBUSY,VAR_0
+RSEQ_CPU_ID_REGISTRATION_FAILED,VAR_1
+RSEQ_SIG,VAR_2
+UINT_MAX,VAR_3
+__rseq_abi,VAR_4
+__rseq_refcount,VAR_5
+assert,FUNC_0
+errno,VAR_6
+rseq_current_cpu_raw,FUNC_1
+rseq_ownership,VAR_7
+signal_off_save,FUNC_2
+signal_restore,FUNC_3
+sys_rseq,FUNC_4
+rseq_register_current_thread,FUNC_5
+rc,VAR_8
+ret,VAR_9
+oldset,VAR_10

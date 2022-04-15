@@ -1,0 +1,9 @@
+CHECKSUM_UNNECESSARY,VAR_0
+RXFCB_CIP,VAR_1
+RXFCB_CSUM_MASK,VAR_2
+RXFCB_CTU,VAR_3
+be16_to_cpu,FUNC_0
+skb_checksum_none_assert,FUNC_1
+gfar_rx_checksum,FUNC_2
+skb,VAR_4
+fcb,VAR_5

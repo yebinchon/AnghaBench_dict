@@ -1,0 +1,15 @@
+AON_CTRL_PM_CPU_WAIT_COUNT,VAR_0
+AON_REG_MAGIC_FLAGS,VAR_1
+M1_PM_COLD_CONFIG,VAR_2
+PM_COLD_CONFIG,VAR_3
+PWRDWN_SEQ_POWERDOWN_PLL,VAR_4
+SHIMPHY_PAD_S3_PWRDWN_SEQ_MASK,VAR_5
+SHIMPHY_PAD_S3_PWRDWN_SEQ_SHIFT,VAR_6
+brcmstb_do_pmsm_power_down,FUNC_0
+brcmstb_pm_handshake,FUNC_1
+ctrl,VAR_7
+ddr_ctrl_set,FUNC_2
+readl_relaxed,FUNC_3
+shimphy_set,FUNC_4
+writel_relaxed,FUNC_5
+brcmstb_pm_poweroff,FUNC_6

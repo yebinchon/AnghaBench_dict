@@ -1,0 +1,15 @@
+BUG_ON,FUNC_0
+REQ_FUA,VAR_0
+REQ_SYNC,VAR_1
+jbd2_journal_update_sb_log_tail,FUNC_1
+jbd_debug,FUNC_2
+mutex_is_locked,FUNC_3
+trace_jbd2_update_log_tail,FUNC_4
+write_lock,FUNC_5
+write_unlock,FUNC_6
+__jbd2_update_log_tail,FUNC_7
+journal,VAR_2
+tid,VAR_3
+block,VAR_4
+freed,VAR_5
+ret,VAR_6

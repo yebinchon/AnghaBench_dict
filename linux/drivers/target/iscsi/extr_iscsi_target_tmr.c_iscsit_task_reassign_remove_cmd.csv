@@ -1,0 +1,10 @@
+iscsit_remove_active_connection_recovery_entry,FUNC_0
+iscsit_remove_cmd_from_connection_recovery,FUNC_1
+pr_debug,FUNC_2
+spin_lock,FUNC_3
+spin_unlock,FUNC_4
+iscsit_task_reassign_remove_cmd,FUNC_5
+cmd,VAR_0
+cr,VAR_1
+sess,VAR_2
+ret,VAR_3

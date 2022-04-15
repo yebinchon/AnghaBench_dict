@@ -1,0 +1,7 @@
+HDMI_MC_CLKDIS,VAR_0
+HDMI_MC_CLKDIS_CECCLK_DISABLE,VAR_1
+hdmi_writeb,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+dw_hdmi_cec_enable,FUNC_3
+hdmi,VAR_2

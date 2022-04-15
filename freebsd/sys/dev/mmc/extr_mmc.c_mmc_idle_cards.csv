@@ -1,0 +1,15 @@
+CMD_RETRIES,VAR_0
+MMC_CMD_BC,VAR_1
+MMC_GO_IDLE_STATE,VAR_2
+MMC_RSP_NONE,VAR_3
+cs_dontcare,VAR_4
+cs_high,VAR_5
+memset,FUNC_0
+mmc_ms_delay,FUNC_1
+mmc_wait_for_cmd,FUNC_2
+mmcbr_set_chip_select,FUNC_3
+mmcbr_update_ios,FUNC_4
+mmc_idle_cards,FUNC_5
+sc,VAR_6
+dev,VAR_7
+cmd,VAR_8

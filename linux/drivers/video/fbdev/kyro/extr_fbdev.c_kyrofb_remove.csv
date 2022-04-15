@@ -1,0 +1,13 @@
+DisableRamdacOutput,FUNC_0
+SetCoreClockPLL,FUNC_1
+StopVTG,FUNC_2
+arch_phys_wc_del,FUNC_3
+deviceInfo,VAR_0
+framebuffer_release,FUNC_4
+iounmap,FUNC_5
+pci_get_drvdata,FUNC_6
+unregister_framebuffer,FUNC_7
+kyrofb_remove,FUNC_8
+pdev,VAR_1
+info,VAR_2
+par,VAR_3

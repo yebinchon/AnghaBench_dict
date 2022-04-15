@@ -1,0 +1,14 @@
+MWIFIEX_IFACE_WORK_CARD_RESET,VAR_0
+MWIFIEX_IFACE_WORK_DEVICE_DUMP,VAR_1
+clear_bit,FUNC_0
+dev_err,FUNC_1
+mmc_hw_reset,FUNC_2
+mwifiex_reinit_sw,FUNC_3
+mwifiex_shutdown_sw,FUNC_4
+sdio_claim_host,FUNC_5
+sdio_release_host,FUNC_6
+mwifiex_sdio_card_reset_work,FUNC_7
+adapter,VAR_2
+card,VAR_3
+func,VAR_4
+ret,VAR_5

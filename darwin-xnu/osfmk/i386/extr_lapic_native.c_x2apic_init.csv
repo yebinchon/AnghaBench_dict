@@ -1,0 +1,8 @@
+MSR_IA32_APIC_BASE,VAR_0
+MSR_IA32_APIC_BASE_EXTENDED,VAR_1
+kprintf,FUNC_0
+rdmsr,FUNC_1
+wrmsr,FUNC_2
+x2apic_init,FUNC_3
+lo,VAR_2
+hi,VAR_3

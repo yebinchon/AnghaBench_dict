@@ -1,0 +1,16 @@
+PALMAS_NUM_TIME_REGS,VAR_0
+PALMAS_RTC_BASE,VAR_1
+PALMAS_RTC_CTRL_REG,VAR_2
+PALMAS_RTC_CTRL_REG_GET_TIME,VAR_3
+PALMAS_SECONDS_REG,VAR_4
+bcd2bin,FUNC_0
+dev_err,FUNC_1
+dev_get_drvdata,FUNC_2
+palmas_bulk_read,FUNC_3
+palmas_update_bits,FUNC_4
+palmas_rtc_read_time,FUNC_5
+dev,VAR_5
+tm,VAR_6
+rtc_data,VAR_7
+palmas,VAR_8
+ret,VAR_9

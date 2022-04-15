@@ -1,0 +1,12 @@
+OCFS2_LOCK_NEEDS_REFRESH,VAR_0
+OCFS2_LOCK_REFRESHING,VAR_1
+lockres_clear_flags,FUNC_0
+mlog_entry_void,FUNC_1
+mlog_exit_void,FUNC_2
+spin_lock_irqsave,FUNC_3
+spin_unlock_irqrestore,FUNC_4
+wake_up,FUNC_5
+ocfs2_complete_lock_res_refresh,FUNC_6
+lockres,VAR_2
+status,VAR_3
+flags,VAR_4

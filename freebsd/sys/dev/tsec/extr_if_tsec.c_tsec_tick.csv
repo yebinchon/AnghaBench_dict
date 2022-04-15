@@ -1,0 +1,13 @@
+IFQ_DRV_IS_EMPTY,FUNC_0
+TSEC_GLOBAL_LOCK,FUNC_1
+TSEC_GLOBAL_UNLOCK,FUNC_2
+callout_reset,FUNC_3
+hz,VAR_0
+mii_tick,FUNC_4
+tsec_start_locked,FUNC_5
+tsec_watchdog,FUNC_6
+tsec_tick,FUNC_7
+arg,VAR_1
+sc,VAR_2
+ifp,VAR_3
+link,VAR_4

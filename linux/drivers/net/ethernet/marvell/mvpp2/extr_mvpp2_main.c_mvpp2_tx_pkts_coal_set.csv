@@ -1,0 +1,13 @@
+MVPP2_TXQ_NUM_REG,VAR_0
+MVPP2_TXQ_THRESH_MASK,VAR_1
+MVPP2_TXQ_THRESH_OFFSET,VAR_2
+MVPP2_TXQ_THRESH_REG,VAR_3
+get_cpu,FUNC_0
+mvpp2_cpu_to_thread,FUNC_1
+mvpp2_thread_write,FUNC_2
+put_cpu,FUNC_3
+mvpp2_tx_pkts_coal_set,FUNC_4
+port,VAR_4
+txq,VAR_5
+thread,VAR_6
+val,VAR_7

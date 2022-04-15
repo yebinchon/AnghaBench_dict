@@ -1,0 +1,15 @@
+cmpc_accel_set_sensitivity,FUNC_0
+dev_get_drvdata,FUNC_1
+kstrtoul,FUNC_2
+strnlen,FUNC_3
+to_acpi_device,FUNC_4
+cmpc_accel_sensitivity_store,FUNC_5
+dev,VAR_0
+attr,VAR_1
+buf,VAR_2
+count,VAR_3
+acpi,VAR_4
+inputdev,VAR_5
+accel,VAR_6
+sensitivity,VAR_7
+r,VAR_8

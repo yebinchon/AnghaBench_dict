@@ -1,0 +1,13 @@
+ETH_HLEN,VAR_0
+NAPI_GRO_CB,FUNC_0
+compare_ether_header,FUNC_1
+dev_gro_receive,FUNC_2
+memcmp,FUNC_3
+skb_gro_mac_header,FUNC_4
+skb_mac_header,FUNC_5
+__napi_gro_receive,FUNC_6
+napi,VAR_1
+skb,VAR_2
+p,VAR_3
+maclen,VAR_4
+diffs,VAR_5

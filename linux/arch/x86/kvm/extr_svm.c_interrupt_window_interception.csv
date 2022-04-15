@@ -1,0 +1,8 @@
+KVM_REQ_EVENT,VAR_0
+VMCB_INTR,VAR_1
+V_IRQ_MASK,VAR_2
+kvm_make_request,FUNC_0
+mark_dirty,FUNC_1
+svm_clear_vintr,FUNC_2
+interrupt_window_interception,FUNC_3
+svm,VAR_3

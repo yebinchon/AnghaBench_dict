@@ -1,0 +1,17 @@
+CAN_LED_EVENT_OPEN,VAR_0
+can_led_event,FUNC_0
+clk_disable_unprepare,FUNC_1
+clk_prepare_enable,FUNC_2
+close_candev,FUNC_3
+free_irq,FUNC_4
+netdev_err,FUNC_5
+netdev_priv,FUNC_6
+netif_start_queue,FUNC_7
+open_candev,FUNC_8
+request_irq,FUNC_9
+sun4i_can_interrupt,VAR_1
+sun4i_can_start,FUNC_10
+sun4ican_open,FUNC_11
+dev,VAR_2
+priv,VAR_3
+err,VAR_4

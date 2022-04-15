@@ -1,0 +1,11 @@
+CMD_RUN,VAR_0
+HC_HW_MODE_CTRL,VAR_1
+HC_USBCMD,VAR_2
+HW_GLOBAL_INTR_EN,VAR_3
+isp1760_stop,FUNC_0
+reg_read32,FUNC_1
+reg_write32,FUNC_2
+isp1760_shutdown,FUNC_3
+hcd,VAR_4
+command,VAR_5
+temp,VAR_6

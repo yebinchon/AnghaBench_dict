@@ -1,0 +1,16 @@
+MP_ERR,FUNC_0
+eglSwapBuffers,FUNC_1
+enqueue_bo,FUNC_2
+gbm_surface_has_free_buffers,FUNC_3
+gbm_surface_lock_front_buffer,FUNC_4
+new_fence,FUNC_5
+queue_flip,FUNC_6
+swapchain_step,FUNC_7
+wait_fence,FUNC_8
+wait_on_flip,FUNC_9
+drm_egl_swap_buffers,FUNC_10
+sw,VAR_0
+ctx,VAR_1
+p,VAR_2
+drain,VAR_3
+new_bo,VAR_4

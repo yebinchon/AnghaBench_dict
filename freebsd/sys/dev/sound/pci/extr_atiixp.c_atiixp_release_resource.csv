@@ -1,0 +1,16 @@
+M_DEVBUF,VAR_0
+SYS_RES_IRQ,VAR_1
+ac97_destroy,FUNC_0
+atiixp_lock,FUNC_1
+atiixp_unlock,FUNC_2
+bus_dma_tag_destroy,FUNC_3
+bus_dmamap_unload,FUNC_4
+bus_dmamem_free,FUNC_5
+bus_release_resource,FUNC_6
+bus_teardown_intr,FUNC_7
+callout_drain,FUNC_8
+callout_stop,FUNC_9
+free,FUNC_10
+snd_mtxfree,FUNC_11
+atiixp_release_resource,FUNC_12
+sc,VAR_2

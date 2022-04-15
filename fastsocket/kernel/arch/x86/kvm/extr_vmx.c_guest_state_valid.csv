@@ -1,0 +1,17 @@
+VCPU_SREG_CS,VAR_0
+VCPU_SREG_DS,VAR_1
+VCPU_SREG_ES,VAR_2
+VCPU_SREG_FS,VAR_3
+VCPU_SREG_GS,VAR_4
+VCPU_SREG_SS,VAR_5
+X86_CR0_PE,VAR_6
+code_segment_valid,FUNC_0
+cs_ss_rpl_check,FUNC_1
+data_segment_valid,FUNC_2
+kvm_read_cr0_bits,FUNC_3
+ldtr_valid,FUNC_4
+rmode_segment_valid,FUNC_5
+stack_segment_valid,FUNC_6
+tr_valid,FUNC_7
+guest_state_valid,FUNC_8
+vcpu,VAR_7

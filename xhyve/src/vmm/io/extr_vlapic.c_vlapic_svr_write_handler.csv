@@ -1,0 +1,14 @@
+APIC_SVR_ENABLE,VAR_0
+VLAPIC_CTR0,FUNC_0
+VLAPIC_TIMER_LOCK,FUNC_1
+VLAPIC_TIMER_UNLOCK,FUNC_2
+callout_stop,FUNC_3
+vlapic_icrtmr_write_handler,FUNC_4
+vlapic_mask_lvts,FUNC_5
+vlapic_periodic_timer,FUNC_6
+vlapic_svr_write_handler,FUNC_7
+vlapic,VAR_1
+lapic,VAR_2
+old,VAR_3
+new,VAR_4
+changed,VAR_5

@@ -1,0 +1,11 @@
+MMAL_PARAMETER_ANALOG_GAIN,VAR_0
+MMAL_PARAMETER_DIGITAL_GAIN,VAR_1
+MMAL_SUCCESS,VAR_2
+mmal_port_parameter_set_rational,FUNC_0
+mmal_status_to_int,FUNC_1
+raspicamcontrol_set_gains,FUNC_2
+camera,VAR_3
+analog,VAR_4
+digital,VAR_5
+rational,VAR_6
+status,VAR_7

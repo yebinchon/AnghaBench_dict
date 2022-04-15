@@ -1,0 +1,12 @@
+KVM_MMU_OP_WRITE_PTE,VAR_0
+PAGE_MASK,VAR_1
+PAGE_SHIFT,VAR_2
+__pa,FUNC_0
+kmap_atomic_to_page,FUNC_1
+kvm_deferred_mmu_op,FUNC_2
+page_to_pfn,FUNC_3
+kvm_mmu_write,FUNC_4
+dest,VAR_3
+val,VAR_4
+pte_phys,VAR_5
+wpte,VAR_6

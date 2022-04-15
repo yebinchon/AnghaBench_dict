@@ -1,0 +1,12 @@
+MMC_CMD_AC,VAR_0
+MMC_RSP_R5,VAR_1
+SD_IO_RW_DIRECT,VAR_2
+ath10k_sdio_set_cmd52_arg,FUNC_0
+memset,FUNC_1
+mmc_wait_for_cmd,FUNC_2
+ath10k_sdio_func0_cmd52_rd_byte,FUNC_3
+card,VAR_3
+address,VAR_4
+byte,VAR_5
+io_cmd,VAR_6
+ret,VAR_7

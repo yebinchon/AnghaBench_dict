@@ -1,0 +1,12 @@
+ISDNLOOP_TIMER_ALERTWAIT,VAR_0
+add_timer,FUNC_0
+init_timer,FUNC_1
+isdnloop_atimeout0,VAR_1
+isdnloop_atimeout1,VAR_2
+jiffies,VAR_3
+spin_lock_irqsave,FUNC_2
+spin_unlock_irqrestore,FUNC_3
+isdnloop_start_ctimer,FUNC_4
+card,VAR_4
+ch,VAR_5
+flags,VAR_6

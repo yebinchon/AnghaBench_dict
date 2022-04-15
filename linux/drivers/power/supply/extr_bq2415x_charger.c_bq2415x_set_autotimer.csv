@@ -1,0 +1,12 @@
+BQ2415X_TIMER_RESET,VAR_0
+BQ2415X_TIMER_TIMEOUT,VAR_1
+HZ,VAR_2
+bq2415x_exec_command,FUNC_0
+bq2415x_timer_mutex,VAR_3
+cancel_delayed_work_sync,FUNC_1
+mutex_lock,FUNC_2
+mutex_unlock,FUNC_3
+schedule_delayed_work,FUNC_4
+bq2415x_set_autotimer,FUNC_5
+bq,VAR_4
+state,VAR_5

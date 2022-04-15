@@ -1,0 +1,17 @@
+INIT_DELAYED_WORK,FUNC_0
+IS_GEN6,FUNC_1
+IS_HASWELL,FUNC_2
+IS_IVYBRIDGE,FUNC_3
+IS_VALLEYVIEW,FUNC_4
+__gen6_gt_force_wake_get,VAR_0
+__gen6_gt_force_wake_mt_get,VAR_1
+__gen6_gt_force_wake_mt_put,VAR_2
+__gen6_gt_force_wake_put,VAR_3
+intel_gen6_powersave_work,VAR_4
+intel_gt_reset,FUNC_5
+spin_lock_init,FUNC_6
+vlv_force_wake_get,VAR_5
+vlv_force_wake_put,VAR_6
+intel_gt_init,FUNC_7
+dev,VAR_7
+dev_priv,VAR_8

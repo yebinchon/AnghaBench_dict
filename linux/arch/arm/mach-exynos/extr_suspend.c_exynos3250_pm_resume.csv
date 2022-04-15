@@ -1,0 +1,13 @@
+ARM_CPU_PART_CORTEX_A9,VAR_0
+ENOSYS,VAR_1
+S5P_CENTRAL_SEQ_OPTION,VAR_2
+S5P_INFORM1,VAR_3
+S5P_USE_STANDBY_WFI_ALL,VAR_4
+call_firmware_op,FUNC_0
+exynos_cpu_restore_register,FUNC_1
+exynos_pm_central_resume,FUNC_2
+pmu_raw_writel,FUNC_3
+read_cpuid_part,FUNC_4
+resume,VAR_5
+exynos3250_pm_resume,FUNC_5
+cpuid,VAR_6

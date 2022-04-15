@@ -1,0 +1,17 @@
+PCL818_CTRL_DISABLE_TRIG,VAR_0
+PCL818_CTRL_REG,VAR_1
+PCL818_FI_ENABLE,VAR_2
+PCL818_FI_FLUSH,VAR_3
+PCL818_FI_INTCLR,VAR_4
+TRIG_COUNT,VAR_5
+TRIG_NONE,VAR_6
+comedi_8254_pacer_enable,FUNC_0
+comedi_isadma_disable,FUNC_1
+outb,FUNC_2
+pcl818_ai_clear_eoc,FUNC_3
+pcl818_ai_cancel,FUNC_4
+dev,VAR_7
+s,VAR_8
+devpriv,VAR_9
+dma,VAR_10
+cmd,VAR_11

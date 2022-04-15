@@ -1,0 +1,12 @@
+GIT_STASH_DEFAULT,VAR_0
+GIT_STATUS_WT_NEW,VAR_1
+assert_blob_oid,FUNC_0
+cl_assert_equal_i,FUNC_1
+cl_git_pass,FUNC_2
+git_stash_save,FUNC_3
+git_status_file,FUNC_4
+repo,VAR_2
+signature,VAR_3
+stash_tip_oid,VAR_4
+test_stash_save__does_not_keep_index_by_default,FUNC_5
+status,VAR_5

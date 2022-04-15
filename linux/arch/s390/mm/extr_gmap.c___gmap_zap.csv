@@ -1,0 +1,13 @@
+PMD_MASK,VAR_0
+PMD_SHIFT,VAR_1
+get_locked_pte,FUNC_0
+likely,FUNC_1
+pte_unmap_unlock,FUNC_2
+ptep_zap_unused,FUNC_3
+radix_tree_lookup,FUNC_4
+__gmap_zap,FUNC_5
+gmap,VAR_2
+gaddr,VAR_3
+vmaddr,VAR_4
+ptl,VAR_5
+ptep,VAR_6

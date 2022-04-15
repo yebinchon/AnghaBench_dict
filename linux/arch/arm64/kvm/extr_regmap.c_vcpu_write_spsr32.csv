@@ -1,0 +1,13 @@
+SYS_SPSR,VAR_0
+spsr_abt,VAR_1
+spsr_fiq,VAR_2
+spsr_irq,VAR_3
+spsr_und,VAR_4
+vcpu_gp_regs,FUNC_0
+vcpu_spsr32_mode,FUNC_1
+write_sysreg,FUNC_2
+write_sysreg_el1,FUNC_3
+vcpu_write_spsr32,FUNC_4
+vcpu,VAR_5
+v,VAR_6
+spsr_idx,VAR_7

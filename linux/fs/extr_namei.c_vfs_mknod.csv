@@ -1,0 +1,16 @@
+CAP_MKNOD,VAR_0
+EPERM,VAR_1
+S_ISBLK,FUNC_0
+S_ISCHR,FUNC_1
+capable,FUNC_2
+devcgroup_inode_mknod,FUNC_3
+fsnotify_create,FUNC_4
+may_create,FUNC_5
+security_inode_mknod,FUNC_6
+stub1,FUNC_7
+vfs_mknod,FUNC_8
+dir,VAR_2
+dentry,VAR_3
+mode,VAR_4
+dev,VAR_5
+error,VAR_6

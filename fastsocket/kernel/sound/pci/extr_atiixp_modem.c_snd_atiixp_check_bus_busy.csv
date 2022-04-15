@@ -1,0 +1,10 @@
+ATI_REG_CMD_MODEM_RECEIVE_EN,VAR_0
+ATI_REG_CMD_MODEM_SEND1_EN,VAR_1
+ATI_REG_IER_MODEM_SET_BUS_BUSY,VAR_2
+CMD,VAR_3
+IER,VAR_4
+atiixp_read,FUNC_0
+atiixp_update,FUNC_1
+snd_atiixp_check_bus_busy,FUNC_2
+chip,VAR_5
+bus_busy,VAR_6

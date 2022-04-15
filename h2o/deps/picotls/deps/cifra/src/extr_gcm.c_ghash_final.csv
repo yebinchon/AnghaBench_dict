@@ -1,0 +1,12 @@
+STATE_AAD,VAR_0
+STATE_CIPHER,VAR_1
+STATE_INVALID,VAR_2
+assert,FUNC_0
+cf_gf128_tobytes_be,FUNC_1
+ghash_add,FUNC_2
+ghash_add_pad,FUNC_3
+write64_be,FUNC_4
+ghash_final,FUNC_5
+ctx,VAR_3
+out,VAR_4
+lenbuf,VAR_5

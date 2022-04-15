@@ -1,0 +1,17 @@
+ieee80211_tdls_add_chan_switch_req_ies,FUNC_0
+ieee80211_tdls_add_chan_switch_resp_ies,FUNC_1
+ieee80211_tdls_add_link_ie,FUNC_2
+ieee80211_tdls_add_setup_cfm_ies,FUNC_3
+ieee80211_tdls_add_setup_start_ies,FUNC_4
+skb_put_data,FUNC_5
+ieee80211_tdls_add_ies,FUNC_6
+sdata,VAR_0
+skb,VAR_1
+peer,VAR_2
+action_code,VAR_3
+status_code,VAR_4
+initiator,VAR_5
+extra_ies,VAR_6
+extra_ies_len,VAR_7
+oper_class,VAR_8
+chandef,VAR_9

@@ -1,0 +1,17 @@
+MPI2_IOCSTATUS_MASK,VAR_0
+MPI2_IOCSTATUS_SUCCESS,VAR_1
+MPI2_SAS_EXPAND_PGAD_FORM_GET_NEXT_HNDL,VAR_2
+_scsih_mark_responding_expander,FUNC_0
+ioc_info,FUNC_1
+le16_to_cpu,FUNC_2
+le64_to_cpu,FUNC_3
+list_empty,FUNC_4
+mpt3sas_config_get_expander_pg0,FUNC_5
+pr_info,FUNC_6
+_scsih_search_responding_expanders,FUNC_7
+ioc,VAR_3
+expander_pg0,VAR_4
+mpi_reply,VAR_5
+ioc_status,VAR_6
+sas_address,VAR_7
+handle,VAR_8

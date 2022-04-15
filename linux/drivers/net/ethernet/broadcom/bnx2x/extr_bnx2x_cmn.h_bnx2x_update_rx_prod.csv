@@ -1,0 +1,12 @@
+DP,FUNC_0
+NETIF_MSG_RX_STATUS,VAR_0
+REG_WR_RELAXED,FUNC_1
+wmb,FUNC_2
+bnx2x_update_rx_prod,FUNC_3
+bp,VAR_1
+fp,VAR_2
+bd_prod,VAR_3
+rx_comp_prod,VAR_4
+rx_sge_prod,VAR_5
+rx_prods,VAR_6
+i,VAR_7

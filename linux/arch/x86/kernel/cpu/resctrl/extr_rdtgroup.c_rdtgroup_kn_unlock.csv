@@ -1,0 +1,14 @@
+RDT_DELETED,VAR_0
+RDT_MODE_PSEUDO_LOCKED,VAR_1
+RDT_MODE_PSEUDO_LOCKSETUP,VAR_2
+atomic_dec_and_test,FUNC_0
+kernfs_put,FUNC_1
+kernfs_to_rdtgroup,FUNC_2
+kernfs_unbreak_active_protection,FUNC_3
+kfree,FUNC_4
+mutex_unlock,FUNC_5
+rdtgroup_mutex,VAR_3
+rdtgroup_pseudo_lock_remove,FUNC_6
+rdtgroup_kn_unlock,FUNC_7
+kn,VAR_4
+rdtgrp,VAR_5

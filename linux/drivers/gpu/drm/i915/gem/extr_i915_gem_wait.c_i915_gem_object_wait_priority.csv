@@ -1,0 +1,15 @@
+I915_WAIT_ALL,VAR_0
+dma_fence_put,FUNC_0
+dma_resv_get_excl_rcu,FUNC_1
+dma_resv_get_fences_rcu,FUNC_2
+fence_set_priority,FUNC_3
+kfree,FUNC_4
+i915_gem_object_wait_priority,FUNC_5
+obj,VAR_1
+flags,VAR_2
+attr,VAR_3
+excl,VAR_4
+shared,VAR_5
+count,VAR_6
+i,VAR_7
+ret,VAR_8

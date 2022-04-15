@@ -1,0 +1,11 @@
+EMSGSIZE,VAR_0
+OVS_TUNNEL_ATTR_DST_PORT,VAR_1
+inet_sk,FUNC_0
+nla_put_u16,FUNC_1
+ntohs,FUNC_2
+vxlan_vport,FUNC_3
+vxlan_get_options,FUNC_4
+vport,VAR_2
+skb,VAR_3
+vxlan_port,VAR_4
+dst_port,VAR_5

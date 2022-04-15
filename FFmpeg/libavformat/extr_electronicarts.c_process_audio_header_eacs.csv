@@ -1,0 +1,14 @@
+AV_CODEC_ID_ADPCM_IMA_EA_EACS,VAR_0
+AV_CODEC_ID_PCM_MULAW,VAR_1
+AV_CODEC_ID_PCM_S16LE,VAR_2
+AV_CODEC_ID_PCM_S8,VAR_3
+avio_r8,FUNC_0
+avio_rb32,FUNC_1
+avio_rl32,FUNC_2
+avio_skip,FUNC_3
+avpriv_request_sample,FUNC_4
+process_audio_header_eacs,FUNC_5
+s,VAR_4
+ea,VAR_5
+pb,VAR_6
+compression_type,VAR_7

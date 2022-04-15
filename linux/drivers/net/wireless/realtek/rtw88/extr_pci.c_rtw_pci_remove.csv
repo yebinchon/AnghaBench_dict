@@ -1,0 +1,13 @@
+ieee80211_free_hw,FUNC_0
+pci_get_drvdata,FUNC_1
+rtw_core_deinit,FUNC_2
+rtw_pci_declaim,FUNC_3
+rtw_pci_destroy,FUNC_4
+rtw_pci_disable_interrupt,FUNC_5
+rtw_pci_free_irq,FUNC_6
+rtw_unregister_hw,FUNC_7
+rtw_pci_remove,FUNC_8
+pdev,VAR_0
+hw,VAR_1
+rtwdev,VAR_2
+rtwpci,VAR_3

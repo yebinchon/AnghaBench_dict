@@ -1,0 +1,16 @@
+VirtualIcmpReceived,FUNC_0
+VirtualTcpReceived,FUNC_1
+VirtualUdpReceived,FUNC_2
+IpReceived,FUNC_3
+v,VAR_0
+src_ip,VAR_1
+dest_ip,VAR_2
+protocol,VAR_3
+data,VAR_4
+size,VAR_5
+mac_broadcast,VAR_6
+ttl,VAR_7
+ip_header,VAR_8
+ip_header_size,VAR_9
+is_local_mac,VAR_10
+max_l3_size,VAR_11

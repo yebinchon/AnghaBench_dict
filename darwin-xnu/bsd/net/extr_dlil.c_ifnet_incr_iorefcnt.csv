@@ -1,0 +1,6 @@
+IF_FULLY_ATTACHED,FUNC_0
+VERIFY,FUNC_1
+lck_mtx_lock_spin,FUNC_2
+lck_mtx_unlock,FUNC_3
+ifnet_incr_iorefcnt,FUNC_4
+ifp,VAR_0

@@ -1,0 +1,13 @@
+DPRINTF,FUNC_0
+IPC_SET,VAR_0
+IPC_STAT,VAR_1
+copyin,FUNC_1
+copyout,FUNC_2
+kern_msgctl,FUNC_3
+sys_msgctl,FUNC_4
+td,VAR_2
+uap,VAR_3
+msqid,VAR_4
+cmd,VAR_5
+msqbuf,VAR_6
+error,VAR_7

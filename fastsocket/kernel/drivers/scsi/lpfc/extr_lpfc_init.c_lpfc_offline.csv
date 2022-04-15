@@ -1,0 +1,17 @@
+FC_OFFLINE_MODE,VAR_0
+KERN_WARNING,VAR_1
+LOG_INIT,VAR_2
+lpfc_create_vport_work_array,FUNC_0
+lpfc_destroy_vport_work_array,FUNC_1
+lpfc_printf_log,FUNC_2
+lpfc_shost_from_vport,FUNC_3
+lpfc_sli_hba_down,FUNC_4
+lpfc_stop_port,FUNC_5
+lpfc_stop_vport_timers,FUNC_6
+spin_lock_irq,FUNC_7
+spin_unlock_irq,FUNC_8
+lpfc_offline,FUNC_9
+phba,VAR_3
+shost,VAR_4
+vports,VAR_5
+i,VAR_6

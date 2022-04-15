@@ -1,0 +1,17 @@
+IIC_M_NOSTART,VAR_0
+IIC_M_NOSTOP,VAR_1
+IIC_M_WR,VAR_2
+SMB_EINVAL,VAR_3
+SMB_MAXBLOCKSIZE,VAR_4
+TRANSFER_MSGS,FUNC_0
+iic2smb_error,FUNC_1
+nitems,FUNC_2
+iicsmb_bwrite,FUNC_3
+dev,VAR_5
+slave,VAR_6
+cmd,VAR_7
+count,VAR_8
+buf,VAR_9
+bytes,VAR_10
+msgs,VAR_11
+error,VAR_12

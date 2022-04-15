@@ -1,0 +1,12 @@
+MSG_DONTWAIT,VAR_0
+NVME_TCP_DIGEST_LENGTH,VAR_1
+kernel_sendmsg,FUNC_0
+nvmet_setup_response_pdu,FUNC_1
+nvmet_tcp_put_cmd,FUNC_2
+unlikely,FUNC_3
+nvmet_try_send_ddgst,FUNC_4
+cmd,VAR_2
+queue,VAR_3
+msg,VAR_4
+iov,VAR_5
+ret,VAR_6

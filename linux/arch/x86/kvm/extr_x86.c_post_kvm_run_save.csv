@@ -1,0 +1,11 @@
+KVM_RUN_X86_SMM,VAR_0
+X86_EFLAGS_IF,VAR_1
+is_smm,FUNC_0
+kvm_get_apic_base,FUNC_1
+kvm_get_cr8,FUNC_2
+kvm_get_rflags,FUNC_3
+kvm_vcpu_ready_for_interrupt_injection,FUNC_4
+pic_in_kernel,FUNC_5
+post_kvm_run_save,FUNC_6
+vcpu,VAR_2
+kvm_run,VAR_3

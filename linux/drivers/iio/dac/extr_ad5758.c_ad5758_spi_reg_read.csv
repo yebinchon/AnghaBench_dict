@@ -1,0 +1,12 @@
+AD5758_NOP,VAR_0
+AD5758_TWO_STAGE_READBACK_SELECT,VAR_1
+AD5758_WR_FLAG_MSK,FUNC_0
+ARRAY_SIZE,FUNC_1
+be32_to_cpu,FUNC_2
+cpu_to_be32,FUNC_3
+spi_sync_transfer,FUNC_4
+ad5758_spi_reg_read,FUNC_5
+st,VAR_2
+addr,VAR_3
+t,VAR_4
+ret,VAR_5

@@ -1,0 +1,13 @@
+APIC_IRR,VAR_0
+APIC_ISR,VAR_1
+APIC_LVTT,VAR_2
+APIC_VECTOR_MASK,VAR_3
+apic_test_vector,FUNC_0
+kvm_apic_hw_enabled,FUNC_1
+kvm_lapic_get_reg,FUNC_2
+lapic_timer_int_injected,FUNC_3
+vcpu,VAR_4
+apic,VAR_5
+reg,VAR_6
+vec,VAR_7
+bitmap,VAR_8

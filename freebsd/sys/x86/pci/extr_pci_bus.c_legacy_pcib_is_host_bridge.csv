@@ -1,0 +1,14 @@
+PCIC_BRIDGE,VAR_0
+PCIS_BRIDGE_HOST,VAR_1
+init_AMD_Elan_sc520,FUNC_0
+legacy_pcib_read_config,FUNC_1
+printf,FUNC_2
+legacy_pcib_is_host_bridge,FUNC_3
+bus,VAR_2
+slot,VAR_3
+func,VAR_4
+id,VAR_5
+class,VAR_6
+subclass,VAR_7
+busnum,VAR_8
+s,VAR_9

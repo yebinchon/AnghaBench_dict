@@ -1,0 +1,16 @@
+A_XGM_RESET_CTRL,VAR_0
+A_XGM_RX_CTRL,VAR_1
+A_XGM_TX_CTRL,VAR_2
+F_PCS_RESET_,VAR_3
+MAC_DIRECTION_RX,VAR_4
+MAC_DIRECTION_TX,VAR_5
+msleep,FUNC_0
+t3_set_reg_field,FUNC_1
+t3_vsc7323_disable,FUNC_2
+t3_write_reg,FUNC_3
+xgm_reset_ctrl,FUNC_4
+t3_mac_disable,FUNC_5
+mac,VAR_6
+which,VAR_7
+adap,VAR_8
+val,VAR_9

@@ -1,0 +1,16 @@
+NF_INVF,FUNC_0
+XT_TCP_INV_DSTPT,VAR_0
+XT_TCP_INV_FLAGS,VAR_1
+XT_TCP_INV_OPTION,VAR_2
+XT_TCP_INV_SRCPT,VAR_3
+ntohs,FUNC_1
+port_match,FUNC_2
+pr_debug,FUNC_3
+skb_header_pointer,FUNC_4
+tcp_find_option,FUNC_5
+tcp_mt,FUNC_6
+skb,VAR_4
+par,VAR_5
+th,VAR_6
+_tcph,VAR_7
+tcpinfo,VAR_8

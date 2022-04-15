@@ -1,0 +1,15 @@
+CAPI_CTR_RUNNING,VAR_0
+CAPI_MANUFACTURER_LEN,VAR_1
+CAPI_NOERROR,VAR_2
+CAPI_REGNOTINSTALLED,VAR_3
+capi_controller_lock,VAR_4
+capi_manufakturer,VAR_5
+get_capi_ctr_by_nr,FUNC_0
+mutex_lock,FUNC_1
+mutex_unlock,FUNC_2
+strncpy,FUNC_3
+capi20_get_manufacturer,FUNC_4
+contr,VAR_6
+buf,VAR_7
+ctr,VAR_8
+ret,VAR_9

@@ -1,0 +1,12 @@
+KVM_PAGE_TRACK_WRITE,VAR_0
+WARN_ON,FUNC_0
+kvm_flush_remote_tlbs,FUNC_1
+kvm_mmu_gfn_disallow_lpage,FUNC_2
+kvm_mmu_slot_gfn_write_protect,FUNC_3
+page_track_mode_is_valid,FUNC_4
+update_gfn_track,FUNC_5
+kvm_slot_page_track_add_page,FUNC_6
+kvm,VAR_1
+slot,VAR_2
+gfn,VAR_3
+mode,VAR_4

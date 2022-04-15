@@ -1,0 +1,7 @@
+AUDIO_PORT_IC_CODEC_TX_CTRL,VAR_0
+AUDIO_PORT_IC_TXFIFO_OP,VAR_1
+IC_TX_ENABLE,VAR_2
+regmap_update_bits,FUNC_0
+regmap_write,FUNC_1
+sirf_audio_codec_tx_disable,FUNC_2
+sirf_audio_codec,VAR_3

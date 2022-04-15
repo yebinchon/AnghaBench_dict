@@ -1,0 +1,15 @@
+PAGE_SIZE,VAR_0
+kernel_pmap,VAR_1
+kva_free,FUNC_0
+pmap_kremove_flags,FUNC_1
+rman_get_virtual,FUNC_2
+round_page,FUNC_3
+tlb_range_demap,FUNC_4
+trunc_page,FUNC_5
+sparc64_bus_mem_unmap,FUNC_6
+tag,VAR_2
+handle,VAR_3
+size,VAR_4
+sva,VAR_5
+va,VAR_6
+endva,VAR_7

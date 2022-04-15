@@ -1,0 +1,16 @@
+NETSEC_RING_RX,VAR_0
+NETSEC_RXBUF_HEADROOM,VAR_1
+NETSEC_RX_BUF_NON_DATA,VAR_2
+PAGE_SIZE,VAR_3
+dma_sync_single_for_device,FUNC_0
+page_address,FUNC_1
+page_pool_dev_alloc_pages,FUNC_2
+page_pool_get_dma_addr,FUNC_3
+page_pool_get_dma_dir,FUNC_4
+netsec_alloc_rx_data,FUNC_5
+priv,VAR_4
+dma_handle,VAR_5
+desc_len,VAR_6
+dring,VAR_7
+dma_dir,VAR_8
+page,VAR_9

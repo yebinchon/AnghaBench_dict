@@ -1,0 +1,15 @@
+DN_SKB_CB,FUNC_0
+NET_RX_DROP,VAR_0
+NFPROTO_DECNET,VAR_1
+NF_DN_PRE_ROUTING,VAR_2
+NF_HOOK,FUNC_1
+dn_route_rx_packet,VAR_3
+init_net,VAR_4
+kfree_skb,FUNC_2
+pskb_may_pull,FUNC_3
+skb_pull,FUNC_4
+skb_reset_transport_header,FUNC_5
+dn_route_rx_short,FUNC_6
+skb,VAR_5
+cb,VAR_6
+ptr,VAR_7

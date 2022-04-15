@@ -1,0 +1,14 @@
+GACC_FETCH,VAR_0
+GACC_STORE,VAR_1
+guest_translate_address,FUNC_0
+kvm_arch_fault_in_page,FUNC_1
+kvm_s390_get_regs_rre,FUNC_2
+kvm_s390_inject_prog_cond,FUNC_3
+kvm_s390_retry_instr,FUNC_4
+handle_mvpg_pei,FUNC_5
+vcpu,VAR_2
+srcaddr,VAR_3
+dstaddr,VAR_4
+reg1,VAR_5
+reg2,VAR_6
+rc,VAR_7

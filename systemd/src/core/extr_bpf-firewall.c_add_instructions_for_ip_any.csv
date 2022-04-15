@@ -1,0 +1,10 @@
+BPF_ALU32_IMM,FUNC_0
+BPF_OR,VAR_0
+BPF_REG_8,VAR_1
+assert,FUNC_1
+bpf_program_add_instructions,FUNC_2
+add_instructions_for_ip_any,FUNC_3
+p,VAR_2
+verdict,VAR_3
+r,VAR_4
+insn,VAR_5

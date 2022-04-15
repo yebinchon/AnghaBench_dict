@@ -1,0 +1,17 @@
+MFXVideoENCODE_Close,FUNC_0
+av_buffer_unref,FUNC_1
+av_fifo_free,FUNC_2
+av_fifo_generic_read,FUNC_3
+av_fifo_size,FUNC_4
+av_frame_free,FUNC_5
+av_free,FUNC_6
+av_freep,FUNC_7
+av_packet_unref,FUNC_8
+ff_qsv_close_internal_session,FUNC_9
+ff_qsv_enc_close,FUNC_10
+avctx,VAR_0
+q,VAR_1
+cur,VAR_2
+pkt,VAR_3
+sync,VAR_4
+bs,VAR_5

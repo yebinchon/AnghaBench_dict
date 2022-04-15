@@ -1,0 +1,7 @@
+CCI_PMCR,VAR_0
+CCI_PMCR_CEN,VAR_1
+readl_relaxed,FUNC_0
+writel,FUNC_1
+__cci_pmu_enable_nosync,FUNC_2
+cci_pmu,VAR_2
+val,VAR_3

@@ -1,0 +1,10 @@
+msr_kvm_wall_clock,VAR_0
+preempt_disable,FUNC_0
+preempt_enable,FUNC_1
+pvclock_read_wallclock,FUNC_2
+slow_virt_to_phys,FUNC_3
+this_cpu_pvti,FUNC_4
+wall_clock,VAR_1
+wrmsrl,FUNC_5
+kvm_get_wallclock,FUNC_6
+now,VAR_2

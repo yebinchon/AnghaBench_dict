@@ -1,0 +1,16 @@
+BIO_NOCLOSE,VAR_0
+BIO_free,FUNC_0
+BIO_get_mem_ptr,FUNC_1
+BIO_new,FUNC_2
+BIO_puts,FUNC_3
+BIO_s_mem,FUNC_4
+BIO_set_close,FUNC_5
+BUF_MEM_free,FUNC_6
+TEST_int_eq,FUNC_7
+TEST_int_gt,FUNC_8
+TEST_mem_eq,FUNC_9
+TEST_ptr,FUNC_10
+test_bio_get_mem,FUNC_11
+ok,VAR_1
+bio,VAR_2
+bufmem,VAR_3

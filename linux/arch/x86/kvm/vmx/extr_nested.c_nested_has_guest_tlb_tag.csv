@@ -1,0 +1,7 @@
+get_vmcs12,FUNC_0
+nested_cpu_has_ept,FUNC_1
+nested_cpu_has_vpid,FUNC_2
+to_vmx,FUNC_3
+nested_has_guest_tlb_tag,FUNC_4
+vcpu,VAR_0
+vmcs12,VAR_1

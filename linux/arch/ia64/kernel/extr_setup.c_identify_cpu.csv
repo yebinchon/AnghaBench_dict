@@ -1,0 +1,17 @@
+PAL_STATUS_SUCCESS,VAR_0
+get_model_name,FUNC_0
+ia64_get_cpuid,FUNC_1
+ia64_pal_vm_summary,FUNC_2
+identify_siblings,FUNC_3
+memcpy,FUNC_4
+smp_num_siblings,VAR_1
+smp_processor_id,FUNC_5
+identify_cpu,FUNC_6
+c,VAR_2
+cpuid,VAR_3
+vm1,VAR_4
+vm2,VAR_5
+status,VAR_6
+impl_va_msb,VAR_7
+phys_addr_size,VAR_8
+i,VAR_9

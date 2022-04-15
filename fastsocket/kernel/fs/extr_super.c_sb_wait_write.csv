@@ -1,0 +1,16 @@
+DEFINE_WAIT,FUNC_0
+TASK_UNINTERRUPTIBLE,VAR_0
+_THIS_IP_,VAR_1
+finish_wait,FUNC_1
+percpu_counter_sum,FUNC_2
+prepare_to_wait,FUNC_3
+rwsem_acquire,FUNC_4
+rwsem_release,FUNC_5
+sb_has_new_freeze,FUNC_6
+schedule,FUNC_7
+unlikely,FUNC_8
+wait,VAR_2
+sb_wait_write,FUNC_9
+sb,VAR_3
+level,VAR_4
+writers,VAR_5

@@ -1,0 +1,13 @@
+CACHE_FLUSH_AND_INV_TS_EVENT,VAR_0
+IT_RELEASE_MEM,VAR_1
+cache_policy__mec_release_mem__lru,VAR_2
+data_sel__mec_release_mem__send_32_bit_low,VAR_3
+event_index__mec_release_mem__end_of_pipe,VAR_4
+int_sel__mec_release_mem__send_interrupt_after_write_confirm,VAR_5
+memset,FUNC_0
+pm_build_pm4_header,FUNC_1
+upper_32_bits,FUNC_2
+pm_release_mem_v9,FUNC_3
+gpu_addr,VAR_6
+buffer,VAR_7
+packet,VAR_8

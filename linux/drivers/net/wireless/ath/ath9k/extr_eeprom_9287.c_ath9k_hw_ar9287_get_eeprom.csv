@@ -1,0 +1,14 @@
+AR9287_EEP_MINOR_VER_2,VAR_0
+AR9287_EEP_MINOR_VER_3,VAR_1
+ath9k_hw_ar9287_get_eeprom_rev,FUNC_0
+get_unaligned_be16,FUNC_1
+le16_to_cpu,FUNC_2
+max_t,FUNC_3
+u8,VAR_2
+ath9k_hw_ar9287_get_eeprom,FUNC_4
+ah,VAR_3
+param,VAR_4
+eep,VAR_5
+pModal,VAR_6
+pBase,VAR_7
+ver_minor,VAR_8

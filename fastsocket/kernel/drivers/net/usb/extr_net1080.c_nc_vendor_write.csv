@@ -1,0 +1,11 @@
+USB_CTRL_SET_TIMEOUT,VAR_0
+USB_DIR_OUT,VAR_1
+USB_RECIP_DEVICE,VAR_2
+USB_TYPE_VENDOR,VAR_3
+usb_control_msg,FUNC_0
+usb_sndctrlpipe,FUNC_1
+nc_vendor_write,FUNC_2
+dev,VAR_4
+req,VAR_5
+regnum,VAR_6
+value,VAR_7

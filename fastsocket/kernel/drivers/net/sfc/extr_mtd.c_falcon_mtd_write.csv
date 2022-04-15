@@ -1,0 +1,16 @@
+falcon_spi_write,FUNC_0
+mutex_lock_interruptible,FUNC_1
+mutex_unlock,FUNC_2
+to_efx_mtd_partition,FUNC_3
+falcon_mtd_write,FUNC_4
+mtd,VAR_0
+start,VAR_1
+len,VAR_2
+retlen,VAR_3
+buffer,VAR_4
+part,VAR_5
+efx_mtd,VAR_6
+spi,VAR_7
+efx,VAR_8
+nic_data,VAR_9
+rc,VAR_10

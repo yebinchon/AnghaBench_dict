@@ -1,0 +1,16 @@
+WIMAX_RF_OFF,VAR_0
+WIMAX_RF_ON,VAR_1
+__WIMAX_ST_QUIESCING,VAR_2
+__wimax_rf_toggle_radio,FUNC_0
+d_fnend,FUNC_1
+d_fnstart,FUNC_2
+mutex_lock,FUNC_3
+mutex_unlock,FUNC_4
+wimax_dev_to_dev,FUNC_5
+wimax_rfkill_set_radio_block,FUNC_6
+data,VAR_3
+blocked,VAR_4
+result,VAR_5
+wimax_dev,VAR_6
+dev,VAR_7
+rf_state,VAR_8

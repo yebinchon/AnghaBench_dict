@@ -1,0 +1,17 @@
+DEV_BSIZE,VAR_0
+I2O_BSA_BLOCK_READ,VAR_1
+I2O_BSA_BLOCK_WRITE,VAR_2
+I2O_SGL_DIR,VAR_3
+I2O_TID_HOST,VAR_4
+bzero,FUNC_0
+callout_reset,FUNC_1
+dumping,VAR_5
+hz,VAR_6
+iop_create_sgl,FUNC_2
+printf,FUNC_3
+pst_done,VAR_7
+pst_timeout,VAR_8
+pst_rw,FUNC_4
+request,VAR_9
+msg,VAR_10
+sgl_flag,VAR_11

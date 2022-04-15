@@ -1,0 +1,17 @@
+EIO,VAR_0
+TIF_SYSCALL_TRACE,VAR_1
+__ptrace_detach,FUNC_0
+clear_tsk_thread_flag,FUNC_1
+current,VAR_2
+ptrace_disable,FUNC_2
+release_task,FUNC_3
+tasklist_lock,VAR_3
+unlikely,FUNC_4
+valid_signal,FUNC_5
+wake_up_process,FUNC_6
+write_lock_irq,FUNC_7
+write_unlock_irq,FUNC_8
+ptrace_detach,FUNC_9
+child,VAR_4
+data,VAR_5
+dead,VAR_6

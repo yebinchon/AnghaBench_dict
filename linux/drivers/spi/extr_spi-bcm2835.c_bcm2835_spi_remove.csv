@@ -1,0 +1,13 @@
+BCM2835_SPI_CS,VAR_0
+BCM2835_SPI_CS_CLEAR_RX,VAR_1
+BCM2835_SPI_CS_CLEAR_TX,VAR_2
+bcm2835_debugfs_remove,FUNC_0
+bcm2835_dma_release,FUNC_1
+bcm2835_wr,FUNC_2
+clk_disable_unprepare,FUNC_3
+platform_get_drvdata,FUNC_4
+spi_controller_get_devdata,FUNC_5
+bcm2835_spi_remove,FUNC_6
+pdev,VAR_3
+ctlr,VAR_4
+bs,VAR_5

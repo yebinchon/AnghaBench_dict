@@ -1,0 +1,15 @@
+ALTERA_UART_CONTROL_TRDY_MSK,VAR_0
+ALTERA_UART_STATUS_REG,VAR_1
+ALTERA_UART_STATUS_TRDY_MSK,VAR_2
+ALTERA_UART_TXDATA_REG,VAR_3
+UART_XMIT_SIZE,VAR_4
+WAKEUP_CHARS,VAR_5
+altera_uart_readl,FUNC_0
+altera_uart_update_ctrl_reg,FUNC_1
+altera_uart_writel,FUNC_2
+uart_circ_chars_pending,FUNC_3
+uart_write_wakeup,FUNC_4
+altera_uart_tx_chars,FUNC_5
+pp,VAR_6
+port,VAR_7
+xmit,VAR_8

@@ -1,0 +1,16 @@
+ALIGN_TO_PTR,FUNC_0
+BUS_ERROR_MAP_END_MARKER,VAR_0
+EINVAL,VAR_1
+EIO,VAR_2
+__start_SYSTEMD_BUS_ERROR_MAP,VAR_3
+__stop_SYSTEMD_BUS_ERROR_MAP,VAR_4
+additional_error_maps,VAR_5
+errno_from_name,FUNC_1
+startswith,FUNC_2
+streq,FUNC_3
+bus_error_name_to_errno,FUNC_4
+name,VAR_6
+map,VAR_7
+m,VAR_8
+p,VAR_9
+r,VAR_10

@@ -1,0 +1,15 @@
+drm_atomic_crtc_needs_modeset,FUNC_0
+drm_atomic_get_new_connector_state,FUNC_1
+drm_atomic_get_new_crtc_state,FUNC_2
+drm_atomic_get_old_connector_state,FUNC_3
+drm_dp_atomic_release_vcpi_slots,FUNC_4
+nv50_mstc,FUNC_5
+nv50_mstc_atomic_check,FUNC_6
+connector,VAR_0
+state,VAR_1
+mstc,VAR_2
+mgr,VAR_3
+new_conn_state,VAR_4
+old_conn_state,VAR_5
+crtc_state,VAR_6
+new_crtc,VAR_7

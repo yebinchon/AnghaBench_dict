@@ -1,0 +1,13 @@
+DC1394_CAPTURE_POLICY_WAIT,VAR_0
+DC1394_SUCCESS,VAR_1
+block_Alloc,FUNC_0
+block_Release,FUNC_1
+dc1394_capture_dequeue,FUNC_2
+dc1394_capture_enqueue,FUNC_3
+memcpy,FUNC_4
+msg_Err,FUNC_5
+vlc_tick_now,FUNC_6
+GrabVideo,FUNC_7
+p_demux,VAR_2
+p_sys,VAR_3
+p_block,VAR_4

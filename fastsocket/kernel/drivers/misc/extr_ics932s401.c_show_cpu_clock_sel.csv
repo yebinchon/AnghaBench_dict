@@ -1,0 +1,16 @@
+ICS932S401_CPU_ALT,VAR_0
+ICS932S401_FS_MASK,VAR_1
+ICS932S401_MN_ENABLED,VAR_2
+ICS932S401_REG_CFG7,VAR_3
+ICS932S401_REG_CTRL,VAR_4
+calculate_cpu_freq,FUNC_0
+fs_speeds,VAR_5
+ics932s401_update_device,FUNC_1
+sprintf,FUNC_2
+show_cpu_clock_sel,FUNC_3
+dev,VAR_6
+devattr,VAR_7
+buf,VAR_8
+data,VAR_9
+freq,VAR_10
+fid,VAR_11

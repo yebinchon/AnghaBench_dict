@@ -1,0 +1,9 @@
+ARM_CPU_PART_CORTEX_A9,VAR_0
+S5P_CENTRAL_SEQ_OPTION,VAR_1
+S5P_USE_STANDBY_WFE0,VAR_2
+S5P_USE_STANDBY_WFI0,VAR_3
+exynos_cpu_save_register,FUNC_0
+exynos_pm_central_suspend,FUNC_1
+pmu_raw_writel,FUNC_2
+read_cpuid_part,FUNC_3
+exynos_pm_suspend,FUNC_4

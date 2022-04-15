@@ -1,0 +1,16 @@
+BR_OK,VAR_0
+POLLIN,VAR_1
+binder_get_thread,FUNC_0
+binder_has_proc_work,FUNC_1
+binder_has_thread_work,FUNC_2
+binder_lock,VAR_2
+list_empty,FUNC_3
+mutex_lock,FUNC_4
+mutex_unlock,FUNC_5
+poll_wait,FUNC_6
+binder_poll,FUNC_7
+filp,VAR_3
+wait,VAR_4
+proc,VAR_5
+thread,VAR_6
+wait_for_proc_work,VAR_7

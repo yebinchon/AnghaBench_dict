@@ -1,0 +1,14 @@
+GIT_ITEROVER,VAR_0
+_head_id,VAR_1
+_repo,VAR_2
+cl_assert_equal_i,FUNC_0
+cl_git_pass,FUNC_1
+git_revwalk_add_hide_cb,FUNC_2
+git_revwalk_free,FUNC_3
+git_revwalk_new,FUNC_4
+git_revwalk_next,FUNC_5
+git_revwalk_push,FUNC_6
+hide_every_commit_cb,VAR_3
+test_revwalk_hidecb__hide_all_cb,FUNC_7
+walk,VAR_4
+id,VAR_5

@@ -1,0 +1,14 @@
+MAX_SKB_FRAGS,VAR_0
+TX_TIMEOUT,VAR_1
+atomic_read,FUNC_0
+jiffies,VAR_2
+msg_tx_queued,FUNC_1
+netif_stop_queue,FUNC_2
+netif_wake_queue,FUNC_3
+smp_wmb,FUNC_4
+unlikely,FUNC_5
+jme_stop_queue_if_full,FUNC_6
+jme,VAR_3
+txring,VAR_4
+txbi,VAR_5
+idx,VAR_6

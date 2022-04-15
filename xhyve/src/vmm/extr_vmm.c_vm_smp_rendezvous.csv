@@ -1,0 +1,17 @@
+CPU_ISSET,FUNC_0
+CPU_ZERO,FUNC_1
+KASSERT,FUNC_2
+RENDEZVOUS_CTR0,FUNC_3
+VM_MAXCPU,VAR_0
+pthread_mutex_lock,FUNC_4
+pthread_mutex_unlock,FUNC_5
+vcpu_notify_event,FUNC_6
+vm_handle_rendezvous,FUNC_7
+vm_set_rendezvous_func,FUNC_8
+vm_smp_rendezvous,FUNC_9
+vm,VAR_1
+vcpuid,VAR_2
+dest,VAR_3
+func,VAR_4
+arg,VAR_5
+i,VAR_6

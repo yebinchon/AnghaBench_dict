@@ -1,0 +1,15 @@
+CHACHA_KEY_SIZE,VAR_0
+crng_init,VAR_1
+primary_crng,VAR_2
+spin_trylock_irqsave,FUNC_0
+spin_unlock_irqrestore,FUNC_1
+crng_slow_load,FUNC_2
+cp,VAR_3
+len,VAR_4
+flags,VAR_5
+lfsr,VAR_6
+tmp,VAR_7
+i,VAR_8
+max,VAR_9
+src_buf,VAR_10
+dest_buf,VAR_11

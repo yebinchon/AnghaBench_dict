@@ -1,0 +1,17 @@
+PF_INET,VAR_0
+PF_INET6,VAR_1
+SOCK_STREAM,VAR_2
+freeaddrinfo,FUNC_0
+gai_strerror,FUNC_1
+getaddrinfo,FUNC_2
+pcap_snprintf,FUNC_3
+sock_geterror,FUNC_4
+sock_ismcastaddr,FUNC_5
+sock_initaddress,FUNC_6
+host,VAR_3
+port,VAR_4
+hints,VAR_5
+addrinfo,VAR_6
+errbuf,VAR_7
+errbuflen,VAR_8
+retval,VAR_9

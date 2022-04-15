@@ -1,0 +1,12 @@
+BBCFG_RESETCCA,VAR_0
+NPHY_RFSEQ_RESET2RX,VAR_1
+OFF,VAR_2
+ON,VAR_3
+read_phy_reg,FUNC_0
+udelay,FUNC_1
+wlapi_bmac_phyclk_fgc,FUNC_2
+wlc_phy_force_rfseq_nphy,FUNC_3
+write_phy_reg,FUNC_4
+wlc_phy_resetcca_nphy,FUNC_5
+pi,VAR_4
+val,VAR_5
